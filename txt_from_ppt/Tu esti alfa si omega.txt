@@ -1,0 +1,18 @@
+[title]
+Tu esti alfa si omega
+
+[section]
+1,2,3,4,5,6
+
+[1]
+Tu esti Alfa si Omega
+Tie ne inchinam
+Vrednic esti, fii laudat
+[2]
+Ti-aducem toata slava
+Tie ne inchinam
+Vrednic esti, fi laudat
+[3]
+[4]
+[5]
+[6]

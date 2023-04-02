@@ -1,0 +1,42 @@
+[title]
+Poti sa chemi pe domnul
+
+[section]
+1,chorus,2,chorus,3,chorus,4,chorus
+
+[1]
+/: Poți să chemi pe Domnul
+Chiar și când ți-e greu
+Cu putință este
+Tot la Dumnezeu. :/
+[chorus]
+/: Mare este Domnul
+Mare-n orice fel,
+Nimeni nu-i mai mare Și mai bun ca El. :/
+[2]
+/: Poți să ceri minunea
+Cât de mare-ar fi,
+Dacă ți-e spre bine
+El ți-o va-mplini. :/
+[chorus]
+/: Mare este Domnul
+Mare-n orice fel,
+Nimeni nu-i mai mare Și mai bun ca El. :/
+[3]
+Poți să chemi pe Domnul
+Chiar și când ți-e greu,
+Cu putință este
+Tot la Dumnezeu.
+[chorus]
+/: Mare este Domnul
+Mare-n orice fel,
+Nimeni nu-i mai mare Și mai bun ca El. :/
+[4]
+Poți să ceri minunea
+Cât de mare-ar fi,
+Dacă ți-e spre bine
+El o va-mplini.
+[chorus]
+/: Mare este Domnul
+Mare-n orice fel,
+Nimeni nu-i mai mare Și mai bun ca El. :/

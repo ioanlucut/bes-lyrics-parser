@@ -1,0 +1,16 @@
+[title]
+Sunt fericit isus m-a mantuit
+
+[section]
+chorus,chorus
+
+[chorus]
+/: Sunt fericit
+Isus m-a mântuit :/
+/: Îi cânt glorie, Aleluia :/
+Isus m-a mântuit.
+[chorus]
+/:Satan m-a legat,
+Isus m-a eliberat :/
+/: Îi cânt glorie, Aleluia :/
+Isus m-a eliberat.

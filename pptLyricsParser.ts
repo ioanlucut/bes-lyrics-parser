@@ -60,7 +60,7 @@ ${slideTextEntry}`;
       _.trim(
         fileName
           .replaceAll(/\./gi, EMPTY_STRING)
-          .replaceAll(/[1-9]/gi, EMPTY_STRING)
+          .replaceAll(/[0-9]/gi, EMPTY_STRING)
           .replaceAll(',', EMPTY_STRING)
           .replaceAll('!', EMPTY_STRING)
           .replaceAll('_', EMPTY_STRING)

@@ -1,0 +1,15 @@
+[title]
+Isus cel inviat bun
+
+[section]
+1,2,3
+
+[1]
+Isus cel inviat e azi printre noi (x4)Lasă-L să te-atingă (x3)Şi vei fi eliberat
+Lasă-L să te-atingă (x3)Vei fi binecuvântat.
+[2]
+Mormântul lui Isus şi astăzi este gol (x4)Lasă-L să te-atingă (x3)Şi vei fi eliberat
+Lasă-L să te-atingă (x3)Vei fi binecuvântat.
+[3]
+Isus e viu in veci de veci ALELUIA(x4)Lasă-L să te-atingă (x3)Şi vei fi eliberat
+Lasă-L să te-atingă (x3)Vei fi binecuvântat.

@@ -1,0 +1,16 @@
+[title]
+Programare post si rugaciune
+
+[section]
+1
+
+[1]
+Post şi rugăciune
+Planificarea pentru post a familiilor din Biserica Emanuel
+Luni: Familiile ale căror nume încep cu una din literele de la A la B
+Marți: Familiile ale căror nume încep cu litera C
+Miercuri: Familiile ale căror  nume încep cu una din literele de la D la F
+Joi: Familiile ale căror nume încep cu una din literele de la G la K
+Vineri: Familiile ale căror nume încep cu una din literele de la L la N
+Sâmbătă: Familiile ale căror nume încep cu una din literele de la O la R
+Duminică: Familiile ale căror nume încep cu una din literele 		de la S la Z

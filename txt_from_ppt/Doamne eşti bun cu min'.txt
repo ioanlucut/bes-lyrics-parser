@@ -1,0 +1,31 @@
+[title]
+Doamne eşti bun cu min'
+
+[section]
+chorus,1,2,chorus,3,chorus,chorus,chorus
+
+[chorus]
+/:Doamne eşti bun cu min’Tu-mi dai mai mult decât mi-am dorit:/
+[1]
+Mi-ai dat o mamă
+şi un tată iubitor
+Ei grija mea o poartă,
+sunt copilul lor
+Pentru toate vreau să-ţi spun:
+[2]
+Mulţumesc pentru ce mi-ai dat !Mulţumesc pentru ce îmi dai!Un zâmbet am pe chipul meu
+De-aceea-Ţi voi cânta mereu
+[chorus]
+/:Doamne eşti bun cu min’Tu-mi dai mai mult decât mi-am dorit:/
+[3]
+De la Tine mântuire am primit
+Fiindc-atât de mult Isuse m-ai iubit
+Pentru toate vreau să-Ţi spun:
+[chorus]
+/:Mulţumesc pentru ce mi-ai dat !Mulţumesc pentru ce îmi dai!Un zâmbet am pe chipul meu
+De-aceea-Ţi voi cânta mereu://:Voi cânta mereu!:/2x
+[chorus]
+/:Mulţumesc pentru ce mi-ai dat !Mulţumesc pentru ce îmi dai!Un zâmbet am pe chipul meu
+De-aceea-Ţi voi cânta mereu:/4x/:Voi cânta mereu:/2x
+[chorus]
+/:Doamne eşti bun cu min’Tu-mi dai mai mult decât mi-am dorit:/

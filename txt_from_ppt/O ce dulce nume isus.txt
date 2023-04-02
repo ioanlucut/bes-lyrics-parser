@@ -1,0 +1,26 @@
+[title]
+O ce dulce nume isus
+
+[section]
+1,chorus,2,chorus,3,chorus,4,chorus
+
+[1]
+O CE DULCE NUME ISUS!             RANELE CUM VINDECĂ;                 PACE, BUCURIE-ADUCE,             INIMII CREDINCIOASE.
+[chorus]
+/: CE FRUMOS, RĂSUNĂ,
+CÂND DESPRE EL SE CÂNTĂ! :/
+[2]
+SĂ MERGEM ÎN NUMELE LUI;            EL ESTE BUN ADĂPOST,                   PRIN ISUS NOI VOM ÎNVINGE,     CEATA VRĂJMAŞULUI NOST’.
+[chorus]
+/: CE FRUMOS, RĂSUNĂ,
+CÂND DESPRE EL SE CÂNTĂ! :/
+[3]
+CE IUBIT NUME E ISUS,                        O CE FERICIRE DĂ;                   POPORUL SĂU CEL MÂNTUIT, ÎNAINTEA LUI CÂNTĂ.
+[chorus]
+/: CE FRUMOS, RĂSUNĂ,
+CÂND DESPRE EL SE CÂNTĂ! :/
+[4]
+SUS, ÎN NUMELE LUI ISUS!           DE-A LUI MĂRIRE CÂNTAŢI!            PÂN-AJUNGEM LA-ACEI SFINŢI SUS,    CARE-I CÂNTĂ-NCORONAŢI.
+[chorus]
+/: CE FRUMOS, RĂSUNĂ,
+CÂND DESPRE EL SE CÂNTĂ! :/

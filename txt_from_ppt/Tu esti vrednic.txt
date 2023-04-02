@@ -1,0 +1,31 @@
+[title]
+Tu esti vrednic
+
+[section]
+1,2,3,4
+
+[1]
+Tu ești vrednic,
+Tu ești vrednic
+Vrednic de lăudat!
+Vrednic de cinste
+Vrednic de slavă,
+Vrednic să fi adorat.
+[2]
+Tu ești creatorul,
+Tu ești salvatorul,
+Domn peste cer și pămant!
+Glorie Ție și închinare,
+Ești Domnul nostru prea sfânt!
+[3]
+Tu ești vrednic,
+Tu ești vrednic
+Vrednic de lăudat!
+Vrednic de cinste
+Vrednic de slavă,
+Vrednic să fi adorat.
+[4]
+Glorie Ție și închinare,
+Căci Tu ești vrednic,
+Tu ești vrednic,
+Vrednic de laudat!

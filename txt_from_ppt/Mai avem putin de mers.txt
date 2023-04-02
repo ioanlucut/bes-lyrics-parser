@@ -1,0 +1,14 @@
+[title]
+Mai avem putin de mers
+
+[section]
+1,2,3,4
+
+[1]
+Mai avem putin de mers,  Pan' la tinta mult dorita. /: Plansul nostru va fi sters :/  De lumina-nvesnicita.
+[2]
+Mai avem putin de stat,  Pe pamantul fara pace, /: Si, in cerul minunat, :/  Un etern popas vom face...
+[3]
+Mai avem putin de dus  Crucea pregatirii noastre, /: Si zbura-vom, mult mai sus, :/  Catre zarile albastre.
+[4]
+Mai avem putin... putin...  Pan' la sfanta intalnire, /: In vazduhul cristalin, :/  Cu Isus, Preasfantul Mire.

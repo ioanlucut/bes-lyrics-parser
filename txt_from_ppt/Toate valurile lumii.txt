@@ -1,0 +1,40 @@
+[title]
+Toate valurile lumii
+
+[section]
+1,2,3,4,5,6,7
+
+[1]
+Toate valurile lumii
+Au lovit corabia ta
+Eşti trudit în suflet tare
+Tristă-ţi este inima
+[2]
+Nu te teme, nu te teme
+Domnul nu te va lăsa
+Nu te teme, nu te teme
+El este tăria ta
+[3]
+Ca şi ucenicii-n valuri
+Când au spus că vor pieri
+Strigă tu la Domnul Isus
+Marea se va linişti
+[4]
+Nu te teme, nu te teme
+Domnul nu te va lăsa
+Nu te teme, nu te teme
+El este tăria ta
+[5]
+Domnul Isus te iubeşte
+El ştie necazul tău
+Numai el te izbăveşte
+Fiindcă El e Dumnezeu
+[6]
+Nu te teme, nu te teme
+Domnul nu te va lăsa
+Nu te teme, nu te teme
+El este tăria ta
+[7]
+Se înalţă tot mai sus
+Mai presus de-orice putere
+E puterea lui Isus

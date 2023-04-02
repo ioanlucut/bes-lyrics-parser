@@ -1,0 +1,36 @@
+[title]
+Pe calvar eu am aflat
+
+[section]
+chorus,chorus,1,chorus,2,chorus,3,chorus,4,chorus
+
+[chorus]
+/: Pe Calvar eu am aflat o salvare
+Fii lăudat o, Doamne! :/Re M1 (10)
+[chorus]
+/:Jertfa Ta e balsam vindecător
+Spală-mă, o, Doamne în al Tău izvor:/2 (10)
+[1]
+/: Prea mulţi ani am petrecut viaţa mea
+Sub păcat, povară grea! :/3 (10)
+[chorus]
+/:Jertfa Ta e balsam vindecător
+Spală-mă, o, Doamne în al Tău izvor:/4 (10)
+[2]
+/: Singur rătăceam pierdut pe drumul greu
+Străin fără Dumnezeu:/5 (10)
+[chorus]
+/:Jertfa Ta e balsam vindecător
+Spală-mă, o, Doamne în al Tău izvor:/6 (10)
+[3]
+/: Dar isus văzându-mi starea mea de plâns
+El la sine m-a adus! :/7 (10)
+[chorus]
+/:Jertfa Ta e balsam vindecător
+Spală-mă, o, Doamne în al Tău izvor:/8 (10)
+[4]
+/: Şi-acuma, iată: de Isus sunt mântuit
+Pe-a Lui braţ, sunt fericit! :/9 (10)
+[chorus]
+/:Jertfa Ta e balsam vindecător
+Spală-mă, o, Doamne în al Tău izvor:/10 (10)

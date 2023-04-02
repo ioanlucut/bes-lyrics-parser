@@ -1,0 +1,30 @@
+[title]
+Indeajuns mi-e doamne doar harul tau
+
+[section]
+1,2,3,4
+
+[1]
+/: Indeajuns mi-e Doamne
+Doar harul Tau ://: Te laud Doamne,
+Te preamaresc
+Imi ridic mainile spre cer
+Si Te slavesc :/
+[2]
+/: Indeajuns mi-e Doamne
+Cuvantul Tau ://: Te laud Doamne,
+Te preamaresc
+Imi ridic mainile spre cer
+Si Te slavesc :/
+[3]
+/: Indeajuns mi-e Doamne
+Dragostea Ta ://: Te laud Doamne,
+Te preamaresc
+Imi ridic mainile spre cer
+Si Te slavesc :/
+[4]
+/: Ma-nchin in fata
+Tronului sfant ://: Te laud Doamne,
+Te preamaresc
+Imi ridic mainile spre cer
+Si Te slavesc :/
