@@ -4,9 +4,9 @@ const _ = require('lodash');
 const fsExtra = require('fs-extra');
 const PPTX = require('./js-pptx/pptx');
 
-const DIR = './RAW_SOURCE_PPT';
+const DIR = './RAW_SOURCE_PPT_FROM_FC';
 const EMPTY_SPACE = ' ';
-const OUTPUT_DIR = './txt_from_ppt';
+const OUTPUT_DIR = './txt_from_ppt_fc';
 const EMPTY_STRING = '';
 const NEW_LINE = '\n';
 
