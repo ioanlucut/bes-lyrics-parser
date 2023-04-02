@@ -1,0 +1,27 @@
+on run {input, parameters}
+	set theOutput to {}
+	tell application "Microsoft PowerPoint" -- work on version 15.15 or newer
+		launch
+		set theDial to start up dialog
+		set start up dialog to false
+		repeat with i in input
+			open i
+			set newFilePath to my makeNewPath(i)
+			save active presentation in newFilePath -- save in same folder
+
+			close active presentation saving no
+			set end of theOutput to newFilePath as alias
+		end repeat
+		set start up dialog to theDial
+	end tell
+	return theOutput
+end run
+
+on makeNewPath(f)
+	set t to f as string
+	if t ends with ".ppt" then
+		return (text 1 thru -4 of t) & "pptx"
+	else
+		return t & ".ERROR"
+	end if
+end makeNewPath
