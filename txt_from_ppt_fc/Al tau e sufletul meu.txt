@@ -1,0 +1,32 @@
+[title]
+Al tau e sufletul meu
+
+[sequence]
+1,chorus,2,chorus
+
+[1]
+Al Tău e sufletul meu,
+A Ta e inima mea
+Nimic nu-mi mai aparţine
+și-Ți mulţumesc
+/: Căci Tu m-ai primit aşa cum sunt :/
+[chorus]
+/: ACUM TRĂIESC PENTRU TINE
+ŞI SUNT  ÎMPLINIT
+DOAR TU MĂ UMPLI DE VIAŢĂ
+MĂ FACI FERICIT :/
+DOMNUL MEU!
+ALELUIA!
+[2]
+Al Tău e sufletul meu,
+A Ta e inima mea
+Nimic nu-mi mai aparţine
+și-Ți mulţumesc
+/: Căci Tu m-ai primit aşa cum sunt :/
+[chorus]
+/: ACUM TRĂIESC PENTRU TINE
+ŞI SUNT  ÎMPLINIT
+DOAR TU MĂ UMPLI DE VIAŢĂ
+MĂ FACI FERICIT :/
+DOMNUL MEU!
+ALELUIA!

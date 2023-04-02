@@ -1,0 +1,61 @@
+[title]
+Te laud dis de dimineata
+
+[sequence]
+1,2,3,4,5,6,7,8
+
+[1]
+Te laud dis de dimineaţa,
+Te laud, 
+Doamne Te laud,
+Căci Tu prin har mi-ai dat viaţă
+Te laud, 
+Doamne Te laud.
+[2]
+LAUDĂ, 
+LAUDĂ ŢIE-ŢI CÂNT MEREU,
+VEŞNIC DUMNEZEU!
+LAUDĂ, 
+LAUDĂ,
+VEŞNIC DUMNEZEU!
+[3]
+Te laud ziua la amiază,
+Te laud, 
+Doamne Te laud
+Căci dragostea Ta mă păstrează,
+Te laud, 
+Doamne Te laud.
+[4]
+LAUDĂ, 
+LAUDĂ ŢIE-ŢI CÂNT MEREU,
+VEŞNIC DUMNEZEU!
+LAUDĂ, 
+LAUDĂ,
+VEŞNIC DUMNEZEU!
+[5]
+Te laud seara la culcare,
+Te laud, 
+Doamne Te laud
+Căci tot ce am e-a Ta-ndurare,
+Te laud, 
+Doamne Te laud.
+[6]
+LAUDĂ, 
+LAUDĂ ŢIE-ŢI CÂNT MEREU,
+VEŞNIC DUMNEZEU!
+LAUDĂ, 
+LAUDĂ,
+VEŞNIC DUMNEZEU!
+[7]
+Te laud orişicând prin toate,
+Te laud, 
+Doamne Te laudŞi astăzi şi-n eternitate,
+Te laud, 
+Doamne Te laud.
+[8]
+LAUDĂ, 
+LAUDĂ ŢIE-ŢI CÂNT MEREU,
+VEŞNIC DUMNEZEU!
+LAUDĂ, 
+LAUDĂ,
+VEŞNIC DUMNEZEU!

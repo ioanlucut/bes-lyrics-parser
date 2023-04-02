@@ -54,7 +54,35 @@ ${slideTextEntry}`;
       .replaceAll(/\d{2}(\.|-)\d{2}(\.|-)\d{4}/gi, EMPTY_STRING)
       .replaceAll(/^(?=\n)$|^\s*|\s*$|\n\n+/gm, EMPTY_STRING)
       .replaceAll(/([a-zîâșăț])([A-ZÎÂȘĂȚ])/gu, `$1${NEW_LINE}$2`)
-      .replaceAll(/(,)([A-ZÎÂȘĂȚ])/gu, `$1${NEW_LINE}$2`);
+      .replaceAll(/(,)([A-ZÎÂȘĂȚ])/gu, `$1${NEW_LINE}$2`)
+      .replaceAll(/(, )([A-ZÎÂȘĂȚ])/gu, `$1${NEW_LINE}$2`)
+      .replaceAll(/([a-zîâșățA-ZÎÂȘĂȚ.,;])(\/:)/g, `$1${NEW_LINE}$2`)
+      .replaceAll(
+        /([a-zîâșățA-ZÎÂȘĂȚ]\.)([a-zîâșățA-ZÎÂȘĂȚ])/g,
+        `$1${NEW_LINE}$2`,
+      )
+      .replaceAll(
+        /([a-zîâșățA-ZÎÂȘĂȚ],)([a-zîâșățA-ZÎÂȘĂȚ])/g,
+        `$1${NEW_LINE}$2`,
+      )
+      .replaceAll(
+        /([a-zîâșățA-ZÎÂȘĂȚ]:)([a-zîâșățA-ZÎÂȘĂȚ])/g,
+        `$1${NEW_LINE}$2`,
+      )
+      .replaceAll(
+        /([a-zîâșățA-ZÎÂȘĂȚ];)([a-zîâșățA-ZÎÂȘĂȚ])/g,
+        `$1${NEW_LINE}$2`,
+      )
+      .replaceAll(
+        /([a-zîâșățA-ZÎÂȘĂȚ]!)([a-zîâșățA-ZÎÂȘĂȚ])/g,
+        `$1${NEW_LINE}$2`,
+      )
+      .replaceAll(/(:\/)(\/:)/g, `$1${NEW_LINE}$2`)
+      .replaceAll(/(:\/)([a-zîâșățA-ZÎÂȘĂȚ])/g, `$1${NEW_LINE}$2`)
+      .replaceAll(
+        /([a-zîâșățA-ZÎÂȘĂȚ];)([a-zîâșățA-ZÎÂȘĂȚ])/g,
+        `$1${NEW_LINE}$2`,
+      );
 
     const exportFileName = _.capitalize(
       _.trim(
@@ -64,6 +92,7 @@ ${slideTextEntry}`;
           .replaceAll(',', EMPTY_STRING)
           .replaceAll('!', EMPTY_STRING)
           .replaceAll('_', EMPTY_STRING)
+          .replaceAll(' ', EMPTY_STRING)
           .replaceAll(/pptx/gi, EMPTY_STRING),
       )
         .split(EMPTY_SPACE)
@@ -76,7 +105,7 @@ ${slideTextEntry}`;
     const basicTemplate = `[title]
 ${exportFileName}
 
-[section]
+[sequence]
 ${sections.join(',')}
 
 ${content}`;

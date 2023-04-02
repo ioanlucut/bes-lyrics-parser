@@ -1,0 +1,53 @@
+[title]
+Ai platit un pret
+
+[sequence]
+1,2,chorus,3,4,5,chorus,6
+
+[1]
+Ai plătit un preţ  să-mi dai viaţă
+Să trăiesc prin har azi mântuit
+N-am cuvinte Doamne să pot spune
+Cât de drag îmi eşti şi-s fericit.
+[2]
+Numele mi-e scris în Cartea Vieţii
+Şi doresc, 
+Isus, cu orice preţ
+Să rămân statornic în credinţă
+Să te laud şi să te slăvesc.
+[chorus]
+/: VOIA TA, 
+NU VOIA MEA
+SĂ SE FACĂ DOAMNE-N VIAŢA MEA
+SĂ TRĂIESC CUM TU DOREŞTI,
+O, 
+DOMNUL MEU.
+[3]
+TOATĂ ROADA DUHULUI TĂU SFÂNT
+ZI DE ZI S-O AM PE-ACEST PĂMÂNT
+LUMINĂ SĂ RĂSPÂNDESC MEREU
+ÎN JURUL MEU :/
+[4]
+Pacea Ta ce-ntrece orice lucru
+Cunoştinţa-ntregului pământ
+S-o reverşi în inimă, 
+Stăpâne
+Orice-ar fi să pot mereu să-Ţi cânt.
+[5]
+Numele mi-e scris în Cartea Vieţii
+Şi doresc, 
+Isus, cu orice preţ
+Să rămân statornic în credinţă
+Să te laud şi să te slăvesc.
+[chorus]
+/: VOIA TA, 
+NU VOIA MEA
+SĂ SE FACĂ DOAMNE-N VIAŢA MEA
+SĂ TRĂIESC CUM TU DOREŞTI,
+O, 
+DOMNUL MEU.
+[6]
+TOATĂ ROADA DUHULUI TĂU SFÂNT
+ZI DE ZI S-O AM PE-ACEST PĂMÂNT
+LUMINĂ SĂ RĂSPÂNDESC MEREU
+ÎN JURUL MEU :/

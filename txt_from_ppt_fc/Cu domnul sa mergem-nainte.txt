@@ -1,0 +1,33 @@
+[title]
+Cu domnul sa mergem-nainte
+
+[sequence]
+1,chorus,2,chorus,3,chorus
+
+[1]
+Cu Domnul să mergem-nainte
+Cu Domnul să mergem cântând
+/: Când totul se stinge-n morminte
+Cu El biruim orişicând :/
+[chorus]
+/: CU EL BIRUIM :/
+ORICÂT DE-NDÂRJITĂ E LUPTA
+CU DOMNUL ISUS BIRUIM.
+[2]
+Isus e în veci Împăratul
+Căci El e de-a pururea viu
+/: Prin moarte-a plătit El păcatul
+Mormântu-i rămas-a pustiu :/
+[chorus]
+/: CU EL BIRUIM :/
+ORICÂT DE-NDÂRJITĂ E LUPTA
+CU DOMNUL ISUS BIRUIM.
+[3]
+Când mergem cu El e lumină
+Iubire şi cântec şi har
+/: Cu Domnul izbânda-i deplină
+Iar pacea e fără hotar :/
+[chorus]
+/: CU EL BIRUIM :/
+ORICÂT DE-NDÂRJITĂ E LUPTA
+CU DOMNUL ISUS BIRUIM.

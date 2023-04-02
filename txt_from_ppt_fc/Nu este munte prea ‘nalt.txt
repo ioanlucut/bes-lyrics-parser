@@ -1,0 +1,26 @@
+[title]
+Nu este munte prea ‘nalt
+
+[sequence]
+1,chorus,2,chorus
+
+[1]
+Nu este munte prea ‘nalt ca să nu-l mişte,
+Nu e problemă prea grea să n-o rezolve,
+Nu e furtună prea grea să n-o liniştească,
+Nu e durere prea grea să n-o aline.
+[chorus]
+/: EL PURTAT-A PE UMERII SĂI
+POVARA CRUCII
+EL POATE LUA CHIAR ACUM
+POVARA TA :/
+[2]
+Nu este munte prea ‘nalt ca să nu-l mişte,
+Nu e problemă prea grea să n-o rezolve,
+Nu e furtună prea grea să n-o liniştească,
+Nu e durere prea grea să n-o aline.
+[chorus]
+/: EL PURTAT-A PE UMERII SĂI
+POVARA CRUCII
+EL POATE LUA CHIAR ACUM
+POVARA TA :/

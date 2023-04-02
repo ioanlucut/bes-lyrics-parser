@@ -1,0 +1,30 @@
+[title]
+Duhule sfinte umple-mi viaţa mea
+
+[sequence]
+chorus,1,chorus,2
+
+[chorus]
+/: Duhule Sfinte
+Umple-mi viaţa mea,
+Umple-mi sufletul meu,
+Umple-mi fiinţa :/
+[1]
+UMPLE-MĂ, 
+UMPLE-MĂ, 
+UMPLE-MĂ,
+CU-A TA PREZENŢĂ UMPLE-MĂ,
+CU-A TA PREZENŢĂ UMPLE-MĂ,
+UMPLE-MI FIINŢA.
+[chorus]
+/: Duhule Sfinte
+Umple-mi viaţa mea,
+Umple-mi sufletul meu,
+Umple-mi fiinţa :/
+[2]
+UMPLE-MĂ, 
+UMPLE-MĂ, 
+UMPLE-MĂ,
+CU-A TA PREZENŢĂ UMPLE-MĂ,
+CU-A TA PREZENŢĂ UMPLE-MĂ,
+UMPLE-MI FIINŢA.
