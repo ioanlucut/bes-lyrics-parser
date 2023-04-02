@@ -5,7 +5,8 @@ Poporule sfant te trezeste
 1,chorus,2,3,4,5
 
 [1]
-Poporule sfânt te trezește, Nu vezi vremea care-i acum
+Poporule sfânt te trezește,
+Nu vezi vremea care-i acum
 Tot ce e în jur prevestește
 Căci vine Isus chiar acum
 [chorus]
