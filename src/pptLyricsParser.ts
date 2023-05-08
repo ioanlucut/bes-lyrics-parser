@@ -1,6 +1,9 @@
 // @ts-ignore
 import PPTX from './js-pptx/pptx';
 
+import { Iconv } from 'iconv';
+const iconv = new Iconv('UTF-8', 'ASCII//TRANSLIT//IGNORE');
+
 const { startsWith, capitalize, trim } = require('lodash');
 const EMPTY_SPACE = ' ';
 const EMPTY_STRING = '';
@@ -87,7 +90,7 @@ ${slideTextEntry}`;
         `$1${NEW_LINE}$2`,
       );
 
-    exportFileName = capitalize(
+    const parsedFileName = capitalize(
       trim(
         fileName
           .replaceAll(/\./gi, EMPTY_STRING)
@@ -103,6 +106,12 @@ ${slideTextEntry}`;
         .join(EMPTY_SPACE)
         .toLowerCase(),
     );
+
+    exportFileName = iconv
+      .convert(parsedFileName)
+      .toString()
+      .replaceAll('^a', 'a')
+      .replaceAll('^i', 'i');
 
     basicTemplate = `[title]
 ${exportFileName}
