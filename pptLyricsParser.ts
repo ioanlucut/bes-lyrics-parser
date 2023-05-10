@@ -1,31 +1,38 @@
 import fs from 'fs';
 import path from 'path';
 import fsExtra from 'fs-extra';
+import recursive from 'recursive-readdir';
 import { processPPTFileAndConvertToTxt } from './src/pptLyricsParser';
 
-const cleanOutputDirAndProcessFrom = (sourceDir: string, outputDir: string) => {
+const TXT = `.txt`;
+const RAW_CLOUD_DATA =
+  '/Users/ilucut/WORK/BES/CLOUD DATA/Cantece (PPT sau Audio)';
+
+const cleanOutputDirAndProcessFrom = async (
+  sourceDir: string,
+  outputDir: string,
+) => {
   fsExtra.emptyDirSync(outputDir);
 
-  fs.readdirSync(sourceDir)
-    .filter((file) => !file.includes('.DS_Store'))
-    .forEach((fileName: string) => {
-      const filePath = path.join(sourceDir, fileName);
+  (await recursive(sourceDir, ['.DS_Store']))
+    .filter((filePath) => !path.basename(filePath).includes('Icon'))
+    .forEach((filePath: string) => {
+      const fileName = path.basename(filePath);
       const data = fs.readFileSync(filePath);
-      console.log(`Processing "${fileName}".`);
+      console.log(`Processing "${filePath}".`);
 
       const { exportFileName, basicTemplate } = processPPTFileAndConvertToTxt(
         data,
         fileName,
       );
 
-      fs.writeFileSync(`${outputDir}/${exportFileName}.txt`, basicTemplate!);
+      fs.writeFileSync(`${outputDir}/${exportFileName}${TXT}`, basicTemplate!);
     });
 };
 
 (async () => {
-  cleanOutputDirAndProcessFrom(
-    '/Users/ilucut/Biserica Emanuel SB SYNC/Cantece (PPT sau Audio)/Cor de copii Dynamis/PPT',
+  await cleanOutputDirAndProcessFrom(
+    `${RAW_CLOUD_DATA}/Cor de copii Dynamis/PPT`,
     './out/cor_copii_ppt',
   );
-  // cleanOutputDirAndProcessFrom('./RAW_SOURCE_PPT_FROM_FC', './txt_from_ppt_fc');
 })();

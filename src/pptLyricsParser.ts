@@ -57,8 +57,12 @@ ${slideTextEntry}`;
     const content = basicFormat
       .replaceAll('Ref.', EMPTY_STRING)
       .replaceAll('AMIN!', EMPTY_STRING)
-      .replaceAll(/\d{2}(\.|-)\d{2}(\.|-)\d{4}/gi, EMPTY_STRING)
-      // .replaceAll(/^(?=\n)$|^\s*|\s*$|\n\n+/gm, EMPTY_STRING)
+      .replaceAll(' ', EMPTY_STRING)
+      .replaceAll('\t', EMPTY_SPACE)
+      .replaceAll('            ', NEW_LINE)
+      .replaceAll('  ', EMPTY_SPACE)
+      .replaceAll('    ', EMPTY_SPACE)
+      .replaceAll(/\d{2}([.\-])\d{2}([.\-])\d{4}/gi, EMPTY_STRING)
       .replaceAll(/([a-zîâșăț])([A-ZÎÂȘĂȚ])/gu, `$1${NEW_LINE}$2`)
       .replaceAll(/(,)([A-ZÎÂȘĂȚ])/gu, `$1${NEW_LINE}$2`)
       .replaceAll(/(, )([A-ZÎÂȘĂȚ])/gu, `$1${NEW_LINE}$2`)
@@ -89,6 +93,7 @@ ${slideTextEntry}`;
         /([a-zîâșățA-ZÎÂȘĂȚ];)([a-zîâșățA-ZÎÂȘĂȚ])/g,
         `$1${NEW_LINE}$2`,
       );
+    // .replaceAll(/^(?=\n)$|^\s*|\s*$|\n\n+/gm, EMPTY_STRING);
 
     const parsedFileName = capitalize(
       trim(
@@ -111,7 +116,9 @@ ${slideTextEntry}`;
       .convert(parsedFileName)
       .toString()
       .replaceAll('^a', 'a')
-      .replaceAll('^i', 'i');
+      .replaceAll('^A', 'A')
+      .replaceAll('^i', 'i')
+      .replaceAll('^I', 'I');
 
     basicTemplate = `[title]
 ${exportFileName}
