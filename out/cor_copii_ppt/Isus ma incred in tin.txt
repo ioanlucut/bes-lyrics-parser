@@ -10,19 +10,20 @@ Lângă Tine vreau să fiu
 Ajută-mă să înțeleg
 Cât de mult Tu mă iubești.
 
-[c]
-/:În dragoste nu este frică
+[chorus]
+/: În dragoste nu este frică
 Dragostea-i desăvârșită
 Și-alungă frica
-Alungă frica!:/
-/:Dragostea lui Dumnezeu:/
+Alungă frica! :/
+/: Dragostea lui Dumnezeu :/
 
 [2]
-Toti /:În dragoste nu este frică
+Toti
+ /: În dragoste nu este frică
 Dragostea-i desăvârșită
 Și-alungă frica
-Alungă frica!:/
-/:Dragostea lui Dumnezeu:/
+Alungă frica! :/
+/: Dragostea lui Dumnezeu :/
 
 [3]
 Isus mă încred în Tin
@@ -30,10 +31,10 @@ Lângă Tine vreau să fiu
 Ajută-mă să înțeleg
 Cât de mult Tu mă iubești.
 
-[c]
-/:În dragoste nu este frică
+[chorus]
+/: În dragoste nu este frică
 Dragostea-i desăvârșită
 Și-alungă frica
-Alungă frica!:/
-/:Dragostea lui Dumnezeu:/
+Alungă frica! :/
+/: Dragostea lui Dumnezeu :/
 Isus mă încred în Tine

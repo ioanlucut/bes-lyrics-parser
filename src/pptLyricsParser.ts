@@ -9,7 +9,7 @@ const EMPTY_SPACE = ' ';
 const EMPTY_STRING = '';
 const NEW_LINE = '\n';
 const CARET_RETURN = '\r';
-const CHORUS_SEQ = 'c';
+const CHORUS_SEQ = 'chorus';
 
 const isChorus = (slideTextEntry: string) => startsWith(slideTextEntry, '/:');
 
@@ -58,42 +58,48 @@ ${slideTextEntry}`;
       .replaceAll('Ref.', EMPTY_STRING)
       .replaceAll('AMIN!', EMPTY_STRING)
       .replaceAll(' ', EMPTY_STRING)
+      .replaceAll('ţ', 'ț')
+      .replaceAll('Ţ', 'Ț')
+      .replaceAll('ş', 'ș')
+      .replaceAll('Ş', 'Ș')
+      .replaceAll('"', '”')
+      .replaceAll('…', '.')
+      .replaceAll('–', '-')
+      .replaceAll(' .', '.')
+      .replaceAll("'", '’')
+      .replaceAll('`', '’')
+      .replaceAll("'", '’')
+      .replaceAll('‘', '’')
+      .replaceAll(' !', '!')
+      .replaceAll(' , ', ', ')
+      .replaceAll(' ,', ', ')
+      .replaceAll(' –', '-')
+      // aA -> a new line A
+      .replaceAll(/([a-zîâșăț.,;!?’”„])([A-ZÎÂȘĂȚ])/gu, `$1${NEW_LINE}$2`)
+      // a	A -> a new line A
+      .replaceAll(/([a-zîâșăț]	+)([A-ZÎÂȘĂȚ])/gu, `$1${NEW_LINE}$2`)
+      // Remove all tabs
       .replaceAll('\t', EMPTY_SPACE)
-      .replaceAll('            ', NEW_LINE)
-      .replaceAll('  ', EMPTY_SPACE)
-      .replaceAll('    ', EMPTY_SPACE)
-      .replaceAll(/\d{2}([.\-])\d{2}([.\-])\d{4}/gi, EMPTY_STRING)
-      .replaceAll(/([a-zîâșăț])([A-ZÎÂȘĂȚ])/gu, `$1${NEW_LINE}$2`)
-      .replaceAll(/(,)([A-ZÎÂȘĂȚ])/gu, `$1${NEW_LINE}$2`)
-      .replaceAll(/(, )([A-ZÎÂȘĂȚ])/gu, `$1${NEW_LINE}$2`)
-      .replaceAll(/([a-zîâșățA-ZÎÂȘĂȚ.,;])(\/:)/g, `$1${NEW_LINE}$2`)
-      .replaceAll(
-        /([a-zîâșățA-ZÎÂȘĂȚ]\.)([a-zîâșățA-ZÎÂȘĂȚ])/g,
-        `$1${NEW_LINE}$2`,
-      )
-      .replaceAll(
-        /([a-zîâșățA-ZÎÂȘĂȚ],)([a-zîâșățA-ZÎÂȘĂȚ])/g,
-        `$1${NEW_LINE}$2`,
-      )
-      .replaceAll(
-        /([a-zîâșățA-ZÎÂȘĂȚ]:)([a-zîâșățA-ZÎÂȘĂȚ])/g,
-        `$1${NEW_LINE}$2`,
-      )
-      .replaceAll(
-        /([a-zîâșățA-ZÎÂȘĂȚ];)([a-zîâșățA-ZÎÂȘĂȚ])/g,
-        `$1${NEW_LINE}$2`,
-      )
-      .replaceAll(
-        /([a-zîâșățA-ZÎÂȘĂȚ]!)([a-zîâșățA-ZÎÂȘĂȚ])/g,
-        `$1${NEW_LINE}$2`,
-      )
+      // a at least two spaces or more A -> a new line A
+      .replaceAll(/([a-zîâșăț] {2,})([A-ZÎÂȘĂȚ])/gu, `$1${NEW_LINE}$2`)
+      // Remove all spaces
+      .replaceAll(/ \n/gimu, NEW_LINE)
+      .replaceAll(/ {2,}/gimu, EMPTY_SPACE)
+      // a,b -> a, b
+      .replaceAll(/([a-zîâșățA-ZÎÂȘĂȚ],)([a-zîâșățA-ZÎÂȘĂȚ])/g, `$1 $2`)
+      .replaceAll(/(?!\()(2x|3x)/gm, `($1)`)
+      .replaceAll('/(', '/ (')
+
+      // orice:/, pune space
+      .replaceAll(/([a-zîâșățA-ZÎÂȘĂȚ.,;!?’”„])(:\/)/gu, `$1 $2`)
+      // cânt/:, split
+      .replaceAll(/([a-zîâșățA-ZÎÂȘĂȚ.,;!?’”„])( ?\/:)/gu, `$1${NEW_LINE}$2`)
+      // :/orice, pune space
+      .replaceAll(/(\/:)([a-zîâșățA-ZÎÂȘĂȚ.,;!?’”„])/gu, `$1 $2`)
       .replaceAll(/(:\/)(\/:)/g, `$1${NEW_LINE}$2`)
-      .replaceAll(/(:\/)([a-zîâșățA-ZÎÂȘĂȚ])/g, `$1${NEW_LINE}$2`)
-      .replaceAll(
-        /([a-zîâșățA-ZÎÂȘĂȚ];)([a-zîâșățA-ZÎÂȘĂȚ])/g,
-        `$1${NEW_LINE}$2`,
-      );
-    // .replaceAll(/^(?=\n)$|^\s*|\s*$|\n\n+/gm, EMPTY_STRING);
+      .replaceAll(/(:\/)([a-zîâșățA-ZÎÂȘĂȚ.,;!?’”„])/g, `$1${NEW_LINE}$2`)
+      .replaceAll(/(:)(\/:)/gu, `$1${NEW_LINE}$2`)
+      .replaceAll(/^( )/gm, EMPTY_SPACE);
 
     const parsedFileName = capitalize(
       trim(
@@ -104,7 +110,14 @@ ${slideTextEntry}`;
           .replaceAll('!', EMPTY_STRING)
           .replaceAll('_', EMPTY_STRING)
           .replaceAll(' ', EMPTY_STRING)
-          .replaceAll(/pptx/gi, EMPTY_STRING),
+          .replaceAll(/pptx/gi, EMPTY_STRING)
+          .replaceAll('"', EMPTY_SPACE)
+          .replaceAll('…', EMPTY_SPACE)
+          .replaceAll('–', '-')
+          .replaceAll(' .', EMPTY_SPACE)
+          .replaceAll('`', EMPTY_SPACE)
+          .replaceAll("'", EMPTY_SPACE)
+          .replaceAll('‘', EMPTY_SPACE),
       )
         .split(EMPTY_SPACE)
         .filter(Boolean)
@@ -124,7 +137,7 @@ ${slideTextEntry}`;
 ${exportFileName}
 
 [sequence]
-${seq.join(',')}
+${seq.join(',').replaceAll(CHORUS_SEQ, 'c')}
 
 ${content}`;
   };

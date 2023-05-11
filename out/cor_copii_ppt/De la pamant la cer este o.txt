@@ -4,11 +4,11 @@ De la pamant la cer este o
 [sequence]
 c,1,2,3,4,5,6,7,c
 
-[c]
-/:De la pământ la cer este o scară,
+[chorus]
+/: De la pământ la cer este o scară,
 Ingeri pe ea urcă si coboară.
 De la pământ la cer este o scară
-La cer s-ajungă:/
+La cer s-ajungă :/
 
 [1]
 Treapta-ntâia este credinta-n Isus;
@@ -50,12 +50,11 @@ La cer s-ajungă.
 Mai sus, mai sus! Urcă încă o treaptă!
 Mai sus, mai sus!
 Ingerii te ajută.
-Mai sus, mai sus,
-mai  aproape de Isus,
+Mai sus, mai sus, mai aproape de Isus,
 Și apoi cu Isus!
 
-[c]
-/:De la pământ la cer este o scară,
+[chorus]
+/: De la pământ la cer este o scară,
 Ingeri pe ea urcă si coboară.
 De la pământ la cer este o scară
-La cer s-ajungă:/
+La cer s-ajungă :/

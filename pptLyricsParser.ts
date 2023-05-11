@@ -16,6 +16,8 @@ const cleanOutputDirAndProcessFrom = async (
 
   (await recursive(sourceDir, ['.DS_Store']))
     .filter((filePath) => !path.basename(filePath).includes('Icon'))
+    // .filter((filePath) => path.basename(filePath).match(/ria/))
+    // .filter((filePath) => path.basename(filePath).includes('rege'))
     .forEach((filePath: string) => {
       const fileName = path.basename(filePath);
       const data = fs.readFileSync(filePath);

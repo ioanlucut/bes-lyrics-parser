@@ -4,10 +4,10 @@ Numai in dumnezeu
 [sequence]
 c,1,c,2,c,3,c
 
-[c]
-/:Numai în Dumnezeu
+[chorus]
+/: Numai în Dumnezeu
 Mi se-ncrede sufletul mereu
-Știu  că numai de la EL Îmi vine ajutorul meu:/
+Știu că numai de la EL Îmi vine ajutorul meu :/
 
 [1]
 El este Stânca mea
@@ -15,10 +15,10 @@ El este Stânca mea
 Nu mă voi clătina
 Atunci când îmi va fi greu
 
-[c]
-/:Numai în Dumnezeu
+[chorus]
+/: Numai în Dumnezeu
 Mi se-ncrede sufletul mereu
-Știu  că numai de la EL Îmi vine ajutorul meu:/
+Știu că numai de la EL Îmi vine ajutorul meu :/
 
 [2]
 E cetățuia mea
@@ -26,19 +26,19 @@ El e refugiul meu
 Oricând mă va scăpa
 Mă va feri de rău.
 
-[c]
-/:Numai în Dumnezeu
+[chorus]
+/: Numai în Dumnezeu
 Mi se-ncrede sufletul mereu
-Știu  că numai de la EL Îmi vine ajutorul meu:/
+Știu că numai de la EL Îmi vine ajutorul meu :/
 
 [3]
 E-un loc de adăpost
 În vreme de necaz
-E Turnul meu, 
-Hristos
+E Turnul meu, Hristos
 E tot ce mi-a rămas!
 
-[c]
-/:Numai în Dumnezeu
+[chorus]
+/: Numai în Dumnezeu
 Mi se-ncrede sufletul mereu
-Știu  că numai de la EL ..............Îmi vine ajutorul meu:/
+Știu că numai de la EL..............
+Îmi vine ajutorul meu :/

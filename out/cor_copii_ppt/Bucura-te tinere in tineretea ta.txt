@@ -4,33 +4,34 @@ Bucura-te tinere in tineretea ta
 [sequence]
 c,c,c,c,c,c
 
-[c]
-/:Bucură-te tinere în tinereţea ta
-Veselă să-ţi fie inima:/
-Veselă să-ţi fie inima!
+[chorus]
+/: Bucură-te tinere în tinerețea ta
+Veselă să-ți fie inima :/
+Veselă să-ți fie inima!
 
-[c]
-/:Dar nu uita că-ntr-o zi Isus te va chema
+[chorus]
+/: Dar nu uita că-ntr-o zi Isus te va chema
 Nu uita că-ntr-o zi te va judeca
-Să ştii atunci că Isus te va întreba:
-Ce-ai făcut cu tinereţea ta?:/
+Să știi atunci că Isus te va întreba:Ce-ai făcut cu tinerețea ta? :/
 
-[c]
-/:Mergi pe drumul cel iubit de inima taŞi plăcut ochilor tăi:/Şi plăcut ochilor tăi
+[chorus]
+/: Mergi pe drumul cel iubit de inima ta
+Și plăcut ochilor tăi :/
+Și plăcut ochilor tăi
 
-[c]
-/:Dar nu uita că-ntr-o zi Isus te va chema
+[chorus]
+/: Dar nu uita că-ntr-o zi Isus te va chema
 Nu uita că-ntr-o zi te va judeca
-Să ştii atunci că Isus te va întreba:
-Ce-ai făcut cu tinereţea ta?:/
+Să știi atunci că Isus te va întreba:Ce-ai făcut cu tinerețea ta? :/
 
-[c]
-/:Să-ţi aminteşti de Făcătorul tău
-Chiar din tinereţea ta.
-Să Îl iubeşti pe Domnul Dumnezeu
-Să păzeşti porunca Sa:/ 
+[chorus]
+/: Să-ți amintești de Făcătorul tău
+Chiar din tinerețea ta.
+Să Îl iubești pe Domnul Dumnezeu
+Să păzești porunca Sa :/ 
 
-[c]
-/:Şi nu uita că-ntr-o zi Isus te va chema
+[chorus]
+/: Și nu uita că-ntr-o zi Isus te va chema
 Nu uita că-ntr-o zi te va judeca
-Să ştii atunci că Isus te va întreba:/:Ce-ai făcut cu tinereţea ta?:/	Dă-I lui Isus azi inima ta!
+Să știi atunci că Isus te va întreba :
+/: Ce-ai făcut cu tinerețea ta? :/ Dă-I lui Isus azi inima ta!
