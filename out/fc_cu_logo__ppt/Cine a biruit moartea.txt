@@ -1,0 +1,46 @@
+[title]
+Cine a biruit moartea
+
+[sequence]
+1,2,3,4
+
+[1]
+Haispune-mi:Cineabiruitmoartea? 
+ Cine-acălcatpesteea?
+Cinee
+Leuldin
+Iuda?
+Scutul, tăriamea.
+Spune-mi:Cineabiruitfrica?
+Cine-acălcatpesteea?
+Cinee
+Leuldin
+Iuda?
+Scutul, tăriamea?
+
+[2]
+ALELUIA, ALELUIA, ALELUIA
+ISUS ESTE DOMN!
+ALELUIA, ALELUIA, ALELUIA,
+ISUS ESTE DOMN!
+
+[3]
+Haispune-mi:
+Cineamuritpentrumine? 
+ Cine amuritpentrunoi?
+Cine-amuritpentrulume? 
+Glorie, doar
+Regelui!
+
+Spune-mi:Cine într-oziseva-ntoarce?
+Înfrunteaoștirii
+Lui?
+Elvaprimiînchinarea
+Pământulșicerule-al
+Lui! 
+
+[4]
+ALELUIA, ALELUIA, ALELUIA
+ISUS ESTE DOMN!
+ALELUIA, ALELUIA, ALELUIA,
+ISUS ESTE DOMN!

@@ -1,0 +1,50 @@
+[title]
+Sti tu ce port in pieptul meu
+
+[sequence]
+1,2,3,4,5,6,7,8,9,10
+
+[1]
+Știi tu ce port în pieptul meu?
+Pace, fericire.
+Mi-e șters păcatul cel mai greu
+Pace, fericire.
+
+[2]
+IZVOR DE PACE E DOMNULPACE, PACE, FERICIRETOT MAI SUS ÎMI IAU ZBORULCĂTRE DOMNUL MEU!
+
+[3]
+La cruce-n sânge am găsit
+Pace, fericire.
+Și-n inimă pace-am primit,
+Pace, fericire.
+
+[4]
+IZVOR DE PACE E DOMNULPACE, PACE, FERICIRETOT MAI SUS ÎMI IAU ZBORULCĂTRE DOMNUL MEU!
+
+[5]
+De-ngrijorare sunt scăpat
+Pace, fericire.
+La Domnul c-am să fiu chemat
+Pace, fericire.
+
+[6]
+IZVOR DE PACE E DOMNULPACE, PACE, FERICIRETOT MAI SUS ÎMI IAU ZBORULCĂTRE DOMNUL MEU!
+
+[7]
+Spre cer e drumul meu mereu
+Pace, fericire.
+S-ajung curând la Dumnezeu
+Pace, fericire.
+
+[8]
+IZVOR DE PACE E DOMNULPACE, PACE, FERICIRETOT MAI SUS ÎMI IAU ZBORULCĂTRE DOMNUL MEU!
+
+[9]
+Acolo se sfârșesc dureri
+Pace, fericire.
+Sunt nesfârșite mângâieri,
+Pace, fericire.
+
+[10]
+IZVOR DE PACE E DOMNULPACE, PACE, FERICIRETOT MAI SUS ÎMI IAU ZBORULCĂTRE DOMNUL MEU!
