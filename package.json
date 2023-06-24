@@ -38,8 +38,9 @@
     "test:ci": "NODE_ENV=test jest --runInBand --no-cache",
     "test:watch": "NODE_ENV=test TZ='Europe/Berlin' jest --watch --logHeapUsage",
     "test": "is-ci-cli test:ci test:watch",
-    "migrate:ppt": "ts-node pptLyricsParser.ts",
-    "migrate:easyslides": "ts-node easySlidesLyricsParser.ts"
+    "migrate:ppt": "ts-node pptLyricsConverter.ts",
+    "migrate:easyslides": "ts-node easySlidesLyricsConverter.ts",
+    "migrate:opensong": "ts-node openSongLyricsConverter.ts"
   },
   "author": "Ioan Lucuț",
   "license": "ISC"
