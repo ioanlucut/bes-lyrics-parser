@@ -12,6 +12,7 @@
     "xmlbuilder": "^15.1.1"
   },
   "devDependencies": {
+    "@musicociel/song-formats": "^0.1.0",
     "@tsconfig/node-lts": "^18.12.1",
     "@types/fs-extra": "^11.0.1",
     "@types/iconv": "^3.0.1",
