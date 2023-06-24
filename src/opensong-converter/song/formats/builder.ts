@@ -98,6 +98,7 @@ export class SongBuilder {
       voices: {},
       parts: [],
     },
+    presentation: '',
   };
   _authors: { [key: string]: SongAuthor } = {};
   _parts: { [key: string]: PartBuilder } = {};
@@ -134,6 +135,12 @@ export class SongBuilder {
       let existingCopyright = this._song.copyright;
       existingCopyright = existingCopyright ? `${existingCopyright} ` : '';
       this._song.copyright = existingCopyright + copyright.trim();
+    }
+  }
+
+  addPresentation(presentation: any) {
+    if (presentation) {
+      this._song.presentation = presentation;
     }
   }
 

@@ -89,6 +89,7 @@ export const openSongImporter: FileImporter = {
     builder.addTitle(getXMLTagContent(doc, 'title'));
     builder.splitAndAddAuthors(getXMLTagContent(doc, 'author'));
     builder.addCopyright(getXMLTagContent(doc, 'copyright'));
+    builder.addPresentation(getXMLTagContent(doc, 'presentation'));
 
     const getPart = (partName: any) => {
       const part = builder.getPart(partName);

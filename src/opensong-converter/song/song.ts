@@ -201,6 +201,7 @@ export interface Song {
   year?: number;
   authors?: SongAuthor[];
   copyright?: string;
+  presentation: string;
   music: SheetMusic;
 }
 

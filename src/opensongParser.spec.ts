@@ -175,6 +175,7 @@ describe.only('opensongParser', () => {
             "lyrics": "lyrics",
           },
         },
+        "presentation": "V1 C1 V2 C1 T C2 C1",
         "title": "Isus e Rege",
       }
     `);
@@ -194,7 +195,7 @@ describe.only('opensongParser', () => {
 
     const song = importFile(fileContent, ANY_FILE_NAME);
     expect(exportFile(song, ANY_FILE_NAME)).toMatchInlineSnapshot(
-      `"{"title":"Isus e Rege","music":{"voices":{"lyrics":"lyrics"},"parts":[{"name":"V1","content":[[{"lyrics":"Al Tău nume e-nălțat,"}],[{"lyrics":"Isus, pe-ntreg pământ!"}],[{"lyrics":"Nume puternic și măreț,"}],[{"lyrics":"Plin de glorie și sfânt,"}],[{"lyrics":"În El sunt salvat!"}]],"type":"verse"},{"name":"C1","content":[[{"lyrics":"/: Isus e Rege vrednic de laudă,"}],[{"lyrics":"Domn peste toate, nimeni nu este ca El!"}],[{"lyrics":"Isus e mare, sfânt și înălțat,"}],[{"lyrics":"Alfa, Omega, nimeni nu este ca El! : /"}]],"type":"chorus"},{"name":"V2","content":[[{"lyrics":"Nume de viață plin,"}],[{"lyrics":"Tu trăiești în noi!"}],[{"lyrics":"În al Său nume biruim,"}],[{"lyrics":"Prin El victoria primim,"}],[{"lyrics":"Ce Nume minunat!"}]],"type":"verse"},{"name":"T","content":[[{"lyrics":"El e Domnul vieții înălțat,"}],[{"lyrics":"Prin moarte ne-a răscumpărat,"}],[{"lyrics":"Fie lăudat!"}],[{"lyrics":"Orice genunchi se va pleca,"}],[{"lyrics":"De aceea aleșii Îi vor cânta:"}],[{"lyrics":"Isus Hristos e Domn!"}]],"type":"tag"},{"name":"C2","content":[[{"lyrics":"/: Isus, Domn Preasfânt!"}],[{"lyrics":"Isus, Tu ești Sfânt!"}],[{"lyrics":"Isus, Isus! : /"}]],"type":"chorus"}]},"authors":[{"name":"Lari Muntean (adaptare după Sinach)"}]}"`,
+      `"{"title":"Isus e Rege","music":{"voices":{"lyrics":"lyrics"},"parts":[{"name":"V1","content":[[{"lyrics":"Al Tău nume e-nălțat,"}],[{"lyrics":"Isus, pe-ntreg pământ!"}],[{"lyrics":"Nume puternic și măreț,"}],[{"lyrics":"Plin de glorie și sfânt,"}],[{"lyrics":"În El sunt salvat!"}]],"type":"verse"},{"name":"C1","content":[[{"lyrics":"/: Isus e Rege vrednic de laudă,"}],[{"lyrics":"Domn peste toate, nimeni nu este ca El!"}],[{"lyrics":"Isus e mare, sfânt și înălțat,"}],[{"lyrics":"Alfa, Omega, nimeni nu este ca El! : /"}]],"type":"chorus"},{"name":"V2","content":[[{"lyrics":"Nume de viață plin,"}],[{"lyrics":"Tu trăiești în noi!"}],[{"lyrics":"În al Său nume biruim,"}],[{"lyrics":"Prin El victoria primim,"}],[{"lyrics":"Ce Nume minunat!"}]],"type":"verse"},{"name":"T","content":[[{"lyrics":"El e Domnul vieții înălțat,"}],[{"lyrics":"Prin moarte ne-a răscumpărat,"}],[{"lyrics":"Fie lăudat!"}],[{"lyrics":"Orice genunchi se va pleca,"}],[{"lyrics":"De aceea aleșii Îi vor cânta:"}],[{"lyrics":"Isus Hristos e Domn!"}]],"type":"tag"},{"name":"C2","content":[[{"lyrics":"/: Isus, Domn Preasfânt!"}],[{"lyrics":"Isus, Tu ești Sfânt!"}],[{"lyrics":"Isus, Isus! : /"}]],"type":"chorus"}]},"presentation":"V1 C1 V2 C1 T C2 C1","authors":[{"name":"Lari Muntean (adaptare după Sinach)"}]}"`,
     );
   });
 });
