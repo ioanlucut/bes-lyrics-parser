@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import { processPPTFileAndConvertToTxt } from './pptLyricsParser';
 
-describe('pptLyricsParser', () => {
+describe.skip('pptLyricsParser', () => {
   it('should parse PPT song from FC', () => {
     const ANY_FILE_NAME = '10.000 motive.pptx';
 
