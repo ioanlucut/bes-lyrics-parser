@@ -19,7 +19,6 @@ export const processPPTFileAndConvertToTxt = (
 ) => {
   const presentation = new PPTX.Presentation();
 
-  let exportFileName;
   let basicTemplate;
 
   const attemptToProcess = (err: Error) => {
@@ -68,5 +67,8 @@ ${content}`;
 
   presentation.load(data, attemptToProcess);
 
-  return { exportFileName, basicTemplate };
+  return {
+    exportFileName: cleanFilename(fileName),
+    basicTemplate,
+  };
 };
