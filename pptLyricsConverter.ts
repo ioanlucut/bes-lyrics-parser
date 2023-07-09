@@ -3,8 +3,10 @@ import path from 'path';
 import fsExtra from 'fs-extra';
 import recursive from 'recursive-readdir';
 import { processPPTFileAndConvertToTxt } from './src/pptLyricsParser';
+import { TXT_EXTENSION } from './src/constants';
+import chalk from 'chalk';
+import { logFileWithLinkInConsole } from './src/utils';
 
-const TXT = `.txt`;
 const RAW_CLOUD_DATA =
   '/Users/ilucut/WORK/BES/CLOUD DATA/Cantece (PPT sau Audio)';
 
@@ -24,14 +26,18 @@ const cleanOutputDirAndProcessFrom = async (
     .forEach((filePath: string) => {
       const fileName = path.basename(filePath);
       const data = fs.readFileSync(filePath);
-      console.log(`Processing "${filePath}".`);
+      console.log(chalk.cyan(`Processing "${path.basename(filePath)}".`));
+      logFileWithLinkInConsole(filePath);
 
       const { exportFileName, basicTemplate } = processPPTFileAndConvertToTxt(
         data,
         fileName,
       );
 
-      fs.writeFileSync(`${outputDir}/${exportFileName}${TXT}`, basicTemplate!);
+      fs.writeFileSync(
+        `${outputDir}/${exportFileName}${TXT_EXTENSION}`,
+        basicTemplate!,
+      );
     });
 };
 

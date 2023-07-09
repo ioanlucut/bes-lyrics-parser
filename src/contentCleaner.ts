@@ -1,13 +1,8 @@
 import { capitalize, trim } from 'lodash';
 import { Iconv } from 'iconv';
+import { EMPTY_SPACE, EMPTY_STRING, NEW_LINE } from './constants';
 
 const iconv = new Iconv('UTF-8', 'ASCII//TRANSLIT//IGNORE');
-
-export const EMPTY_SPACE = ' ';
-export const EMPTY_STRING = '';
-export const COMMA = ',';
-export const NEW_LINE = '\n';
-export const CARET_RETURN = '\r';
 
 export const cleanContent = (content: string = EMPTY_STRING) =>
   content

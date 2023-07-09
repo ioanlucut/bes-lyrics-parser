@@ -1,0 +1,53 @@
+<song>
+              <title>Isus e Rege</title>
+              <author>Lari Muntean (adaptare după Sinach)</author>
+              <copyright></copyright>
+              <presentation>V1 C1 V2 C1 T C2 C1</presentation>
+              <hymn_number></hymn_number>
+              <tempo></tempo>
+              <timesig></timesig>
+              <ccli></ccli>
+              <theme></theme>
+              <alttheme></alttheme>
+              <user1></user1>
+              <user2></user2>
+              <user3></user3>
+              <key></key>
+              <aka></aka>
+              <key_line></key_line>
+              <lyrics>
+[V1]
+ Al Tău nume e-nălțat,
+ Isus, pe-ntreg pământ!
+ Nume puternic și măreț,
+ Plin de glorie și sfânt,
+ În El sunt salvat!
+
+[C1]
+ /: Isus e Rege vrednic de laudă,
+ Domn peste toate, nimeni nu este ca El!
+ Isus e mare, sfânt și înălțat,
+ Alfa, Omega, nimeni nu este ca El! : /
+
+[V2]
+ Nume de viață plin,
+ Tu trăiești în noi!
+ În al Său nume biruim,
+ Prin El victoria primim,
+ Ce Nume minunat!
+
+[T]
+ El e Domnul vieții înălțat,
+ Prin moarte ne-a răscumpărat,
+ Fie lăudat!
+ Orice genunchi se va pleca,
+ De aceea aleșii Îi vor cânta:
+ Isus Hristos e Domn!
+
+[C2]
+ /: Isus, Domn Preasfânt!
+ Isus, Tu ești Sfânt!
+ Isus, Isus! : /
+
+</lyrics>
+             </song>

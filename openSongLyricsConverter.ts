@@ -3,8 +3,10 @@ import path from 'path';
 import fsExtra from 'fs-extra';
 import recursive from 'recursive-readdir';
 import { processOSFileAndConvertToTxt } from './src/opensongParser';
+import { TXT_EXTENSION } from './src/constants';
+import chalk from 'chalk';
+import { logFileWithLinkInConsole } from './src/utils';
 
-const TXT = `.txt`;
 const RAW_DATA =
   '/Users/ilucut/WORK/BES/bes-lyrics-parser/RAW_SOURCE_FROM_RESURSE_CRESTINE';
 
@@ -16,22 +18,21 @@ const cleanOutputDirAndProcessFrom = async (
 
   (await recursive(sourceDir, ['.DS_Store']))
     .filter((filePath) => !path.basename(filePath).includes('Icon'))
-    .filter((filePath) => {
-      const fileBasename = path.basename(filePath);
-
-      return fileBasename.match(/Isus e Rege - 176028/);
-    })
     .forEach((filePath: string) => {
       const fileName = path.basename(filePath);
       const data = fs.readFileSync(filePath).toString();
-      console.log(`Processing "${filePath}".`);
+      console.log(chalk.cyan(`Processing "${path.basename(filePath)}".`));
+      logFileWithLinkInConsole(filePath);
 
       const { exportFileName, basicTemplate } = processOSFileAndConvertToTxt(
         data,
         fileName,
       );
 
-      fs.writeFileSync(`${outputDir}/${exportFileName}${TXT}`, basicTemplate!);
+      fs.writeFileSync(
+        `${outputDir}/${exportFileName}${TXT_EXTENSION}`,
+        basicTemplate!,
+      );
     });
 };
 

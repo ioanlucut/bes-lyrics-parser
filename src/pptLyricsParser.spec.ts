@@ -2,12 +2,12 @@ import fs from 'fs';
 import path from 'path';
 import { processPPTFileAndConvertToTxt } from './pptLyricsParser';
 
-describe.skip('pptLyricsParser', () => {
-  it('should parse PPT song from FC', () => {
-    const ANY_FILE_NAME = '10.000 motive.pptx';
+describe('pptLyricsParser', () => {
+  it('should parse a PPT song', () => {
+    const ANY_FILE_NAME = 'mock_pptx_1.pptx';
 
     const data = fs.readFileSync(
-      path.resolve(__dirname, '../RAW_SOURCE_PPT_FROM_FC/' + ANY_FILE_NAME),
+      path.resolve(__dirname, '../mocks/' + ANY_FILE_NAME),
     );
 
     const { basicTemplate, exportFileName } = processPPTFileAndConvertToTxt(
@@ -15,100 +15,53 @@ describe.skip('pptLyricsParser', () => {
       ANY_FILE_NAME,
     );
 
-    expect(exportFileName).toMatchInlineSnapshot(`undefined`);
+    expect(exportFileName).toMatchInlineSnapshot(`"Mock"`);
     expect(basicTemplate).toMatchInlineSnapshot(`
       "[title]
-      Motive
+      Mock
 
       [sequence]
-      1,2,3,4,5,6,7
+      v1,v2,v3,v4,v5,v6
 
-      [1]
-      CÂNTĂ SUFLET AL MEUPENTRU DUMNEZEU, 
-      CEL BINECUVÂNTATA LUI NUME E SFÂNT, 
-      CÂNTĂ ACUMCUM NU AI MAI CÂNTAT.
-      [2]
-      E o nouă zi, soarele răsare, 
-      E timp să cânt spre Slava Ta,
-      Orice'ar veni, ce în faţă mi-ar apare, 
-      Eu vreau să cânt şi seara laude!
-      [3]
-      CÂNTĂ SUFLET AL MEUPENTRU DUMNEZEU, 
-      CEL BINECUVÂNTATA LUI NUME E SFÂNT, 
-      CÂNTĂ ACUMCUM NU AI MAI CÂNTAT.
-      [4]
-      Încet Tu ești Doamne la mânie,
-      În dragoste ești bogat, și ești bun,
-      Găsesc că am 10.000 de motive,
-      Ca să Te laud și tuturor să spun.
-      [5]
-      CÂNTĂ SUFLET AL MEUPENTRU DUMNEZEU, 
-      CEL BINECUVÂNTATA LUI NUME E SFÂNT, 
-      CÂNTĂ ACUMCUM NU AI MAI CÂNTAT.
-      [6]
-      Iar când sfârșitul îmi va fi aproape,
-      Puterile când îmi vor slăbi,
-      Al meu suflet va cânta continuu,
-      Ori 10.000 de ani și-n veșnicii.
-      [7]
-      CÂNTĂ SUFLET AL MEUPENTRU DUMNEZEU, 
-      CEL BINECUVÂNTATA LUI NUME E SFÂNT, 
-      CÂNTĂ ACUMCUM NU AI MAI CÂNTAT."
-    `);
-  });
+      [v1]
+      A Lui Isus venire Curând se apropie
+      Și bucurie ne-aduce,
+      Căci mii în jur suspină După măreața clipă.
+      Grăbește-Ți venirea Doamne!
 
-  it('should parse PPT song', () => {
-    const ANY_FILE_NAME = '.Eu ma-ncred doar in Domnul.pptx';
+      [v2]
+      Isus vine-n curând! Noi știm că El
+      Vine să-Și ia mireasa Sa.
+      Cu inima senină, 
+      Îl așteptăm să vină
+      Grăbește-Ți venirea Doamne!
 
-    const data = fs.readFileSync(
-      path.resolve(__dirname, '../RAW_SOURCE_PPT/' + ANY_FILE_NAME),
-    );
+      [v3]
+      Durerea și păcatul Domină-ntreg pământul
+      Lumea în noapte se zbate.
+      Dar în ziua măreață, Îi vom sta față-n față.
+      Grăbește-Ți venirea Doamne!
 
-    const { basicTemplate, exportFileName } = processPPTFileAndConvertToTxt(
-      data,
-      ANY_FILE_NAME,
-    );
+      [v4]
+      Isus vine-n curând! Noi știm că El
+      Vine să-Și ia mireasa Sa.
+      Cu inima senină, 
+      Îl așteptăm să vină
+      Grăbește-Ți venirea Doamne!
 
-    expect(exportFileName).toMatchInlineSnapshot(`undefined`);
-    expect(basicTemplate).toMatchInlineSnapshot(`
-      "[title]
-      Eu ma-ncred doar in domnul
+      [v5]
+      El astăzi ne îndeamnă
+      Să priveghem în rugă
+      Nu știm nici ziua nici ora.
+      Doamne-mi albești sufletul Și îmi spală veșmântul
+      Spală-l în sânge pe Calvar.
 
-      [sequence]
-      1,2,3,4
-
-      [1]
-      Eu mă-ncred doar în Domnul,
-      El mă ajută,
-      Eu mă-ncred doar în Domnul,
-      El e-a mea stâncă.
-      El e-al meu turn în care
-      La necaz alerg,
-      Eu mă-ncred doar în Domnul
-      Știu că nu greşesc.
-      [2]
-      PE DOMNUL SLĂVESC,  AJUTORUL MEU,
-      EL E SLAVA MEA ŞI CÂND DRUMU-I GREU.
-      TOATE POPOARELE LUMII
-      SĂ SE-NCREADĂ-N EL,
-      EU MĂ-NCRED DOAR ÎN DOMNUL
-      ŞTIU CĂ NU GREŞESC.
-      [3]
-      Eu mă-ncred doar în Domnul,
-      Salvatorul meu,
-      Eu mă-ncred doar în Domnul,
-      El mă iubeşte.
-      El din cer jos a venit,
-      viaţă-n dar mi-a dat,
-      Eu mă-ncred doar în Domnul,
-      Căci El m-a salvat.
-      [4]
-      PE DOMNUL SLĂVESC,  AJUTORUL MEU,
-      EL E SLAVA MEA ŞI CÂND DRUMU-I GREU.
-      TOATE POPOARELE LUMII
-      SĂ SE-NCREADĂ-N EL,
-      EU MĂ-NCRED DOAR ÎN DOMNUL
-      ŞTIU CĂ NU GREŞESC."
+      [v6]
+      Isus vine-n curând! Noi știm că El
+      Vine să-Și ia mireasa Sa.
+      Cu inima senină, 
+      Îl așteptăm să vină
+      Grăbește-Ți venirea Doamne!"
     `);
   });
 });

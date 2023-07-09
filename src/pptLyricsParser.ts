@@ -1,17 +1,16 @@
-const { startsWith } = require('lodash');
+import { CARET_RETURN, COMMA, EMPTY_STRING, NEW_LINE } from './constants';
 // @ts-ignore
 import PPTX from './js-pptx/pptx';
-import {
-  CARET_RETURN,
-  cleanContent,
-  cleanFilename,
-  EMPTY_STRING,
-  NEW_LINE,
-} from './contentCleaner';
+import { cleanContent, cleanFilename } from './contentCleaner';
+import { SequenceChar, SongSection } from './types';
 
-const CHORUS_SEQ = 'chorus';
+const { startsWith } = require('lodash');
 
-const isChorus = (slideTextEntry: string) => startsWith(slideTextEntry, '/:');
+const SEPARATOR = `${CARET_RETURN}${NEW_LINE}${CARET_RETURN}${NEW_LINE}`;
+
+// Not very reliable, though
+export const isMaybeChorus = (slideTextEntry: string) =>
+  startsWith(slideTextEntry, '/:');
 
 export const processPPTFileAndConvertToTxt = (
   data: Buffer,
@@ -21,9 +20,9 @@ export const processPPTFileAndConvertToTxt = (
 
   let basicTemplate;
 
-  const attemptToProcess = (err: Error) => {
-    if (err) {
-      throw err;
+  const attemptToProcess = (error: Error) => {
+    if (error) {
+      throw error;
     }
 
     const slideCounts = presentation.getSlideCount();
@@ -38,29 +37,31 @@ export const processPPTFileAndConvertToTxt = (
       slidesAsText.push(allTextAsOnce);
     }
 
-    const seq = [] as string[];
+    const sequence = [] as string[];
     let customIndex = 1;
 
     const basicFormat = slidesAsText
       .map((slideTextEntry) => {
         const seqIndex = `${
-          isChorus(slideTextEntry) ? CHORUS_SEQ : customIndex++
+          isMaybeChorus(slideTextEntry)
+            ? SequenceChar.CHORUS
+            : SongSection.VERSE(customIndex++)
         }`;
-        seq.push(seqIndex);
+        sequence.push(seqIndex);
 
-        return `[${seqIndex}]
+        return `${seqIndex}
 ${slideTextEntry}`;
       })
-      .join(`${CARET_RETURN}${NEW_LINE}${CARET_RETURN}${NEW_LINE}`);
+      .join(SEPARATOR);
 
     const exportFileName = cleanFilename(fileName);
     const content = cleanContent(basicFormat);
 
-    basicTemplate = `[title]
+    basicTemplate = `${SongSection.TITLE}
 ${exportFileName}
 
-[sequence]
-${seq.join(',').replaceAll(CHORUS_SEQ, 'c')}
+${SongSection.SEQUENCE}
+${sequence.join(COMMA).replaceAll('[', EMPTY_STRING).replaceAll(']', EMPTY_STRING)}
 
 ${content}`;
   };

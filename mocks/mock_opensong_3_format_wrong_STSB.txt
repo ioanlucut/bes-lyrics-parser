@@ -1,0 +1,54 @@
+<song>
+              <title>De dragul meu!</title>
+              <author>Chris</author>
+              <copyright></copyright>
+              <presentation>S1 T S2 B</presentation>
+              <hymn_number></hymn_number>
+              <tempo></tempo>
+              <timesig></timesig>
+              <ccli></ccli>
+              <theme></theme>
+              <alttheme></alttheme>
+              <user1></user1>
+              <user2></user2>
+              <user3></user3>
+              <key></key>
+              <aka></aka>
+              <key_line></key_line>
+              <lyrics>
+[S1]
+ Luminile cetatii, rand pe rand se sting
+ Si linistea se-asterne-n Betleem
+ Doar ingeri albi, in zbor usor
+ Pamantul il ating vestind un dar suprem.
+ In staulul rece, in ieslea fara pret
+ Ai coborat smerit din cerul Tau
+ Ai ales sa mergi pe drumul lung
+ De ura si dispret
+ Isus, de dragul meu!
+
+[T]
+ Ai venit pe pamant dintre stele si ingeri
+ In staul sarac, in valea de plangeri
+ Copil preacurat, Fiu de Dumnezeu!
+ Ai ales sa te nasti si sa suferi
+ Sufletul Tau, petale de nuferi, va fi sfasiat
+ De dragul meu!
+
+[S2]
+ Ce taina adanca, ce gest fara egal
+ Cu moarte sa Te-mbraci din nemurire
+ Sa cobori din slava pe pamant
+ Luand pacatul greu
+ Isus, de dragul meu!
+
+[B]
+ In ieslea saraca, umil
+ Cu chip plapand de copil
+ Tu, Dumnezeu, de dragul meu!
+ De slava Te-ai dezbracat
+ Chip de om ai luat
+ Tu, Dumnezeu, de dragul meu!
+
+</lyrics>
+             </song>

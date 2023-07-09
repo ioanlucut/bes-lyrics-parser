@@ -10,7 +10,7 @@ import path from 'path';
 
 const XML_DIR = './RAW_SOURCE_XML';
 const RAW_XML = 'BES_MASTER.xml';
-const OUTPUT_DIR = './txt';
+const OUTPUT_DIR = './out/easy_slides';
 const EMPTY_STRING = '';
 const EMPTY_SPACE = ' ';
 
@@ -31,7 +31,7 @@ const generateFileNameByTitle = (title: string) => {
       .toLowerCase(),
   );
 
-  return `${OUTPUT_DIR}/BES 2023 ${fileName}.md`;
+  return `${OUTPUT_DIR}/${fileName}.txt`;
 };
 
 const transformSong = (parsedSongAsXML: {
@@ -80,7 +80,7 @@ ${syncLyrics}
     result.Easyslides.Item.map(transformSong).map(writeToFileAndReturn);
 
   const uniqueSeparators = _.uniq(
-    _.flatten(parsedSongs.map(({ separators }:any) => separators)),
+    _.flatten(parsedSongs.map(({ separators }: any) => separators)),
   )
     .sort()
     .join(EMPTY_STRING);
