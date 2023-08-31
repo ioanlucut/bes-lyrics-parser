@@ -76,7 +76,7 @@ export const cleanFilename = (rawFileName: string) => {
         .replaceAll(/pptx/gi, EMPTY_STRING)
         .replaceAll('"', EMPTY_SPACE)
         .replaceAll('…', EMPTY_SPACE)
-        .replaceAll('-', EMPTY_SPACE)
+        .replaceAll('-', '-')
         .replaceAll(' .', EMPTY_SPACE)
         .replaceAll('`', EMPTY_SPACE)
         .replaceAll("'", EMPTY_SPACE)

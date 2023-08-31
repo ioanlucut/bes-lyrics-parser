@@ -197,12 +197,13 @@ export interface SongAuthor {
 }
 
 export interface Song {
-  title: string;
-  year?: number;
   authors?: SongAuthor[];
   copyright?: string;
-  presentation: string;
   music: SheetMusic;
+  presentation: string;
+  rcId?: number;
+  title: string;
+  year?: number;
 }
 
 export interface SongPosition {

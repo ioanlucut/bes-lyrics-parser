@@ -12,15 +12,15 @@ describe('opensongParser', () => {
     it('should import and parse an opensong format correctly', () => {
       const { exportFileName, basicTemplate } = processOSFileAndConvertToTxt(
         MOCK_OS_CONTENT,
-        MOCK_OS,
+        'mock_opensong_1_format_VCTC - 12345.txt',
       );
 
       expect(exportFileName).toMatchInlineSnapshot(
-        `"mock_opensong_1_format_VCTC.txt"`,
+        `"mock_opensong_1_format_VCTC - 12345.txt"`,
       );
       expect(basicTemplate).toMatchInlineSnapshot(`
         "[title]
-        Isus e rege {author: {Lari Muntean adaptare după Sinach}}
+        Isus e rege {author: {Lari Muntean adaptare după Sinach}, {rcId: {12345}}
 
         [sequence]
         v1,c,v2,c,e,c2,c

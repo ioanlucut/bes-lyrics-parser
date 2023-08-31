@@ -8,11 +8,13 @@ export interface FileExporter extends FileFormat {
 
 export const exporters = processFormats([besExporter]);
 
+const FORMAT_NAME = 'BES';
+
 export const exportFile = (
   song: Song,
   fileName?: string,
-  formatName: string = 'BES',
-  defaultFormatName: string = 'BES',
+  formatName: string = FORMAT_NAME,
+  defaultFormatName: string = FORMAT_NAME,
 ) => {
   const exporter = determineFormat(
     exporters,
@@ -20,5 +22,6 @@ export const exportFile = (
     fileName,
     formatName,
   );
+
   return exporter.exportFile(song);
 };

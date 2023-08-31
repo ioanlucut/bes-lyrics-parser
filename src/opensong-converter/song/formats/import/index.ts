@@ -1,6 +1,8 @@
 import { Song } from '../../song';
-import { FileFormat, Formats, processFormats, determineFormat } from '../index';
+import { determineFormat, FileFormat, processFormats } from '../index';
 import { openSongImporter } from './opensong';
+import { last, parseInt } from 'lodash';
+import { EMPTY_STRING, RC_DASH, TXT_EXTENSION } from '../../../../constants';
 
 export interface FileImporter extends FileFormat {
   importFile(fileContent: string): Song;
@@ -44,5 +46,16 @@ export const importFile = (
     fileName,
     formatName,
   );
-  return importer.importFile(fileContent);
+  const song = importer.importFile(fileContent);
+  const maybeRcIdAsString = last(
+    fileName.replace(TXT_EXTENSION, EMPTY_STRING).split(RC_DASH),
+  );
+  if (maybeRcIdAsString) {
+    const maybeRcId = parseInt(maybeRcIdAsString as never);
+    if (!isNaN(maybeRcId)) {
+      song.rcId = maybeRcId;
+    }
+  }
+
+  return song;
 };

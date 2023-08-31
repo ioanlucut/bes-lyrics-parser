@@ -4,10 +4,10 @@ import { Song } from '../../song';
 import { cleanContent, cleanFilename } from '../../../../contentCleaner';
 import {
   CARET_RETURN,
-  NEW_LINE,
   COMMA,
   EMPTY_SPACE,
   EMPTY_STRING,
+  NEW_LINE,
   TXT_EXTENSION,
 } from '../../../../constants';
 import { SongMeta, SongSection } from '../../../../types';
@@ -18,13 +18,21 @@ export const besExporter: FileExporter = {
   fileExtensions: [TXT_EXTENSION],
 
   exportFile(song: Song) {
-    const hasAuthor = !isEmpty(song.authors);
-
-    const titleContent = `${cleanFilename(song.title)}${
-      hasAuthor
-        ? `${EMPTY_SPACE}{${SongMeta.AUTHOR}: {${song?.authors?.map(
-            ({ name }) => cleanContent(name),
-          )}}}`
+    const maybeAuthor = `${
+      !isEmpty(song.authors)
+        ? `${SongMeta.AUTHOR}: {${song?.authors?.map(({ name }) =>
+            cleanContent(name),
+          )}}`
+        : EMPTY_STRING
+    }`;
+    const maybeRCIdReference = `${
+      song.rcId ? `{${SongMeta.RC_ID}: {${song?.rcId}}` : EMPTY_STRING
+    }`;
+    const titleOfTheSong = `${cleanFilename(song.title)}`;
+    const metaInfo = [maybeAuthor, maybeRCIdReference].filter(Boolean);
+    const titleContent = `${titleOfTheSong}${
+      !isEmpty(metaInfo)
+        ? `${EMPTY_SPACE}{${metaInfo.join(`${COMMA}${EMPTY_SPACE}`)}}`
         : EMPTY_STRING
     }`;
 
