@@ -11,5 +11,6 @@ export const processOSFileAndConvertToTxt = (
   return {
     exportFileName: fileName,
     basicTemplate: convertedInBESFormat,
+    song,
   };
 };

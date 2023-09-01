@@ -586,9 +586,9 @@ describe('opensongImportExport', () => {
         De dragul meu {author: {Chris}}
 
         [sequence]
-        __S__,e,__S__2,b
+        s,e,s2,b
 
-        [__S__]
+        [s]
         Luminile cetatii, rand pe rand se sting
         Si linistea se-asterne-n Betleem
         Doar ingeri albi, in zbor usor
@@ -607,7 +607,7 @@ describe('opensongImportExport', () => {
         Sufletul Tau, petale de nuferi, va fi sfasiat
         De dragul meu!
 
-        [__S__2]
+        [s2]
         Ce taina adanca, ce gest fara egal
         Cu moarte sa Te-mbraci din nemurire
         Sa cobori din slava pe pamant
@@ -621,6 +621,100 @@ describe('opensongImportExport', () => {
         De slava Te-ai dezbracat
         Chip de om ai luat
         Tu, Dumnezeu, de dragul meu!"
+      `);
+    });
+  });
+
+  describe('Edge cases', () => {
+    const MOCK_OS = 'mock_opensong_4_space_in_presentation_and_recital.txt';
+    const MOCK_4_CONTENT = fs
+      .readFileSync(path.resolve(__dirname, '../mocks/' + MOCK_OS))
+      .toString();
+
+    it('should import and parse an opensong format correctly', () => {
+      expect(importFile(MOCK_4_CONTENT, MOCK_OS)).toMatchInlineSnapshot(`
+        {
+          "authors": [
+            {
+              "name": "Chris",
+            },
+          ],
+          "music": {
+            "parts": [
+              {
+                "content": [
+                  [
+                    {
+                      "lyrics": "Luminile cetatii, rand pe rand se sting",
+                    },
+                  ],
+                ],
+                "name": "V1",
+                "type": "verse",
+              },
+              {
+                "content": [
+                  [
+                    {
+                      "lyrics": "Ai venit pe pamant dintre stele si ingeri",
+                    },
+                  ],
+                ],
+                "name": "T",
+                "type": "tag",
+              },
+              {
+                "content": [
+                  [
+                    {
+                      "lyrics": "Ce taina adanca, ce gest fara egal",
+                    },
+                  ],
+                ],
+                "name": "V2",
+                "type": "verse",
+              },
+              {
+                "content": [
+                  [
+                    {
+                      "lyrics": "In ieslea saraca, umil",
+                    },
+                  ],
+                ],
+                "name": "S",
+              },
+            ],
+            "voices": {
+              "lyrics": "lyrics",
+            },
+          },
+          "presentation": "V1 T V2 S",
+          "title": "De dragul meu!",
+        }
+      `);
+    });
+
+    it('should export an opensong format correctly', () => {
+      expect(exportFile(importFile(MOCK_4_CONTENT, MOCK_OS), MOCK_OS))
+        .toMatchInlineSnapshot(`
+        "[title]
+        De dragul meu {author: {Chris}}
+
+        [sequence]
+        v1,e,v2,s
+
+        [v1]
+        Luminile cetatii, rand pe rand se sting
+
+        [e]
+        Ai venit pe pamant dintre stele si ingeri
+
+        [v2]
+        Ce taina adanca, ce gest fara egal
+
+        [s]
+        In ieslea saraca, umil"
       `);
     });
   });

@@ -1,8 +1,9 @@
+import { DOMParser } from 'xmldom';
 import { FileImporter } from './index';
 import { Chord, parseChord } from '../../chord';
 import { PartType, Song } from '../../song';
 import { SongBuilder } from '../builder';
-import { DOMParser } from 'xmldom';
+import { EMPTY_SPACE, EMPTY_STRING } from '../../../../constants';
 
 const getXMLTagContent = (doc: any, tag: string): string => {
   const element = doc.getElementsByTagName(tag)[0];
@@ -89,7 +90,14 @@ export const openSongImporter: FileImporter = {
     builder.addTitle(getXMLTagContent(doc, 'title'));
     builder.splitAndAddAuthors(getXMLTagContent(doc, 'author'));
     builder.addCopyright(getXMLTagContent(doc, 'copyright'));
-    builder.addPresentation(getXMLTagContent(doc, 'presentation'));
+
+    const presentationXMLTagContent = getXMLTagContent(doc, 'presentation');
+    builder.addPresentation(
+      presentationXMLTagContent
+        .split(EMPTY_SPACE)
+        .filter(Boolean)
+        .join(EMPTY_SPACE),
+    );
 
     const getPart = (partName: any) => {
       const part = builder.getPart(partName);

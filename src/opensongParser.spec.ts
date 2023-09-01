@@ -132,9 +132,9 @@ describe('opensongParser', () => {
         De dragul meu {author: {Chris}}
 
         [sequence]
-        __S__,e,__S__2,b
+        s,e,s2,b
 
-        [__S__]
+        [s]
         Luminile cetatii, rand pe rand se sting
         Si linistea se-asterne-n Betleem
         Doar ingeri albi, in zbor usor
@@ -153,7 +153,7 @@ describe('opensongParser', () => {
         Sufletul Tau, petale de nuferi, va fi sfasiat
         De dragul meu!
 
-        [__S__2]
+        [s2]
         Ce taina adanca, ce gest fara egal
         Cu moarte sa Te-mbraci din nemurire
         Sa cobori din slava pe pamant

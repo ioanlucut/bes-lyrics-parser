@@ -20,9 +20,9 @@ export const besExporter: FileExporter = {
   exportFile(song: Song) {
     const maybeAuthor = `${
       !isEmpty(song.authors)
-        ? `${SongMeta.AUTHOR}: {${song?.authors?.map(({ name }) =>
-            cleanContent(name),
-          )}}`
+        ? `${SongMeta.AUTHOR}: {${song?.authors
+            ?.map(({ name }) => cleanContent(name))
+            .join(`${COMMA}${EMPTY_SPACE}`)}}`
         : EMPTY_STRING
     }`;
     const maybeRCIdReference = `${

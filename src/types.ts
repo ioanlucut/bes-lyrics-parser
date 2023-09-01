@@ -4,6 +4,7 @@ export enum SequenceChar {
   CHORUS = 'c',
   BRIDGE = 'b',
   ENDING = 'e',
+  RECITAL = 's',
 }
 
 export const SongSection = {
@@ -19,6 +20,8 @@ export const SongSection = {
     `[${index > 1 ? `${SequenceChar.CHORUS}${index}` : SequenceChar.CHORUS}]`,
   BRIDGE: (index = 0) =>
     `[${index > 1 ? `${SequenceChar.BRIDGE}${index}` : SequenceChar.BRIDGE}]`,
+  RECITAL: (index = 0) =>
+    `[${index > 1 ? `${SequenceChar.RECITAL}${index}` : SequenceChar.RECITAL}]`,
   ENDING: `[${SequenceChar.ENDING}]`,
 };
 

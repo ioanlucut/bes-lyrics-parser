@@ -7,15 +7,18 @@ import fsExtra from 'fs-extra';
 import xml2js from 'xml2js';
 import fs from 'fs';
 import path from 'path';
+import dotenv from 'dotenv';
 
-const XML_DIR = './RAW_SOURCE_XML';
-const RAW_XML = 'BES_MASTER.xml';
+dotenv.config();
+
 const OUTPUT_DIR = './out/easy_slides';
 const EMPTY_STRING = '';
 const EMPTY_SPACE = ' ';
 
 const parser = new xml2js.Parser({});
-const rawXML = fs.readFileSync(path.join(__dirname, XML_DIR, RAW_XML));
+const rawXML = fs.readFileSync(
+  path.join(__dirname, process.env.FOLDER_INPUT_EASY_SLIDES),
+);
 const xmlAsString = rawXML.toString();
 
 const generateFileNameByTitle = (title: string) => {

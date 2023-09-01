@@ -1,5 +1,7 @@
 import { SequenceChar } from '../../../../types';
-import { EMPTY_STRING } from '../../../../constants';
+import { DOT, EMPTY_STRING } from '../../../../constants';
+import chalk from 'chalk';
+import { isTestEnv } from '../../../../utils';
 
 /*
  --> Daca se incepe cu refren, facem ordinea astfel:
@@ -30,7 +32,8 @@ enum OpenSongSequenceChar {
   CHORUS = 'C',
   BRIDGE = 'B',
   TAG = 'T',
-  S = 'S',
+  RECITAL = 'S',
+  INFO = 'I',
 }
 
 // OS
@@ -49,7 +52,8 @@ enum OpenSongSequenceChar {
 // "[bridge]": "b",
 // "[bridge 2]": "w",
 
-export const convertSongSection = (songSection: string) => {
+export const convertSongSection = (rawSongSection: string) => {
+  const songSection = rawSongSection.trim().replaceAll(DOT, EMPTY_STRING);
   const maybeVerse = new RegExp(
     `(${OpenSongSequenceChar.VERSE})(\\d+)?$`,
     'gi',
@@ -108,16 +112,28 @@ export const convertSongSection = (songSection: string) => {
       .join(EMPTY_STRING);
   }
 
-  const maybeUnsupportedSTag = new RegExp(
-    `(${OpenSongSequenceChar.S})(\\d+)?$`,
+  const maybeSTag = RegExp(
+    `(${OpenSongSequenceChar.RECITAL})(\\d+)?$`,
     'gi',
   ).exec(songSection);
-  if (maybeUnsupportedSTag) {
-    const [, , index] = maybeUnsupportedSTag;
+  if (maybeSTag) {
+    const [, , index] = maybeSTag;
 
-    return ['__S__', index === '1' ? undefined : index]
+    return [SequenceChar.RECITAL, index === '1' ? undefined : index]
       .filter(Boolean)
       .join(EMPTY_STRING);
+  }
+
+  const maybeUnsupportedITag = new RegExp(`(I)(\\d+)?$`, 'gi').exec(
+    songSection,
+  );
+  if (maybeUnsupportedITag) {
+    const [, , index] = maybeUnsupportedITag;
+    if (!isTestEnv()) {
+      console.warn(chalk.cyan(`Ignored ${songSection}.`));
+    }
+
+    return EMPTY_STRING;
   }
 
   throw new Error(`Unknown song section: ${songSection}`);

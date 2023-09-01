@@ -1,0 +1,31 @@
+<song>
+              <title>De dragul meu!</title>
+              <author>Chris</author>
+              <copyright></copyright>
+              <presentation>V1 T V2  S</presentation>
+              <hymn_number></hymn_number>
+              <tempo></tempo>
+              <timesig></timesig>
+              <ccli></ccli>
+              <theme></theme>
+              <alttheme></alttheme>
+              <user1></user1>
+              <user2></user2>
+              <user3></user3>
+              <key></key>
+              <aka></aka>
+              <key_line></key_line>
+              <lyrics>
+[V1]
+ Luminile cetatii, rand pe rand se sting
+
+[T]
+ Ai venit pe pamant dintre stele si ingeri
+
+[V2]
+ Ce taina adanca, ce gest fara egal
+
+[S]
+ In ieslea saraca, umil
+</lyrics>
+             </song>

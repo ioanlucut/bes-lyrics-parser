@@ -17,6 +17,7 @@ export const isKnownSongSequence = (seqChar: string | SequenceChar) =>
     new RegExp(`${SequenceChar.CHORUS}.*`, 'gi'),
     new RegExp(`${SequenceChar.BRIDGE}.*`, 'gi'),
     new RegExp(`${SequenceChar.ENDING}.*`, 'gi'),
+    new RegExp(`${SequenceChar.RECITAL}.*`, 'gi'),
   ].some((matcher) => matcher.test(seqChar));
 
 export const isTestEnv = () => process.env.NODE_ENV === 'test';

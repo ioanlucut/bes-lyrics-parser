@@ -39,6 +39,7 @@ describe('SongSectionLabel', () => {
 
   it('should convert correctly for `chorus`', () => {
     expect(convertSongSection('C')).toEqual('c');
+    expect(convertSongSection('C.')).toEqual('c');
     expect(convertSongSection('C1')).toEqual('c');
     expect(convertSongSection('C2')).toEqual('c2');
     expect(convertSongSection('C3')).toEqual('c3');
@@ -78,6 +79,18 @@ describe('SongSectionLabel', () => {
     expect(convertSongSection('T1')).toEqual('e');
     expect(convertSongSection('T2')).toEqual('e2');
     expect(convertSongSection('T3')).toEqual('e3');
+  });
+
+  it('should convert correctly for `recital`', () => {
+    expect(convertSongSection('S')).toEqual('s');
+    expect(convertSongSection('S1')).toEqual('s');
+    expect(convertSongSection('S2')).toEqual('s2');
+    expect(convertSongSection('S3')).toEqual('s3');
+  });
+
+  it('should ignore correctly the `I`', () => {
+    expect(convertSongSection('I')).toEqual('');
+    expect(convertSongSection('I1')).toEqual('');
   });
 
   it('should throw for unsupported song sections', () => {
