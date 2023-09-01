@@ -1,0 +1,23 @@
+[title]
+Cand eram mai mic mama mea {author: {Marta Bergheaua}, {rcId: {69919}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Cand eram mai mic, mama mea m-a invatat,
+Pe Isus sa-L rog asa, intra-n inima mea,
+Si cand eram copil mic ea ma-ndemnat,
+Si-ntr-o seara incet am inginat.
+
+[c]
+/: Isuse intra in inima mea :/
+
+[v2]
+De-atunci n-a trecut prea mult timp,
+Iar eu Il simt, pe Isus in inima, si imima-mi canta,
+Deschisa spre ceruri e inima mea,
+Si de-atunci seara ma rog asa.
+
+[c2]
+/: Isuse ramai in viata mea :/

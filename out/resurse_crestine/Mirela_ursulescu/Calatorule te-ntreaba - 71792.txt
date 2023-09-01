@@ -1,0 +1,41 @@
+[title]
+Calatorule te-ntreaba {author: {Mirela Ursulescu}, {rcId: {71792}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c2
+
+[v1]
+Două căi, tu ce alegi?
+Prieten drag, pe care mergi?
+Este ținta către cer,
+Sau e iadul cel de veci
+
+[c]
+/: Călătorule te-ntreabă
+Care este drumul tău,
+Spre viața sau osândă,
+Cu Isus sau cu cel rău? :/
+
+[v2]
+Viața-aceasta-i trecătoare,
+Doar ce faci pentru Isus,
+Va rămâne pe vecie,
+Dacă vrei în ceruri sus.
+
+[v3]
+Goană după vânt aduce,
+Tot ce faci pentru cel rău,
+Focul mistui-va-atuncea,
+Pe Satan și pe cei răi.
+
+[v4]
+Pune-ți astăzi întrebarea:
+După moarte unde mergi?
+Astăzi poți lăsa păcatul,
+Cu Isus să fii pe veci.
+
+[c2]
+/: Vino, prieten drag, la Isus,
+Nu mai sta nepăsător,
+El în dar îți da iertare,
+El e al tău Salvator. :/

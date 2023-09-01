@@ -1,0 +1,29 @@
+[title]
+Cantam lui dumnezeu copii {author: {Nicolae Moldoveanu}, {rcId: {224477}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cântăm lui Dumnezeu, copii,
+Cântări de laudă-n vecii,
+căci El e Tatăl nostru Sfânt,
+și sus în cer și pe pământ!
+
+[c]
+Preamărim, preamărim
+pe Dumnezeul cel sublim!
+Noi, copiii-L lăudăm,
+/: Lui, smeriți ne închinăm :/
+
+[v2]
+Cântăm lui Dumnezeu cu foc,
+în orice timp și-n orice loc,
+căci El ni-i Tată minunat,
+să-L lăudăm cu cânt curat!
+
+[v3]
+Cântăm lui Dumnezeu Cel Drept,
+cu flacără nestinsă-n piept,
+căci El e Tatăl celor vii,
+din El venim și noi copii!

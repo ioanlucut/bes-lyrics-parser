@@ -1,0 +1,19 @@
+[title]
+Semanatorul iese samanta semanase {author: {Nicolae Moldoveanu}, {rcId: {5610}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Semănătorul iese, sămânța semănase,
+Într-un pământ lângă drum, dar păsările vin acum.
+
+[c]
+/: Ești un pământ, omule! :/ o Ești un pământ, pământ ești!
+O, spune-mi: de ce nu rodești?
+Semănătoru-a trecut, sămânța în văi a căzut,
+Într-un pământ plin de spini. O, spune-mi: de ce tot suspini?
+
+[v2]
+Iată, sămânța acum cade-n pământul cel bun.
+Unul aduce treizeci, altul o sută, sau șaizeci.

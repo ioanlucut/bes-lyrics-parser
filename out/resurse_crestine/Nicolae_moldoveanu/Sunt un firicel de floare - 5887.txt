@@ -1,0 +1,45 @@
+[title]
+Sunt un firicel de floare {author: {Nicolae Moldoveanu}, {rcId: {5887}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+/: Sunt un firicel de floare, :/
+Lângă crucea cu piroane.
+/: Floarea-i mică, dealu-i mare;
+Ce parfum să dea o floare?
+Dar, ca mine, Domnul are
+/: Milioane! :/
+
+[v2]
+/: Sunt un fluier care-adună :/
+Rătăcite oi sărmane
+/: Când, pe ceruri, norii tună,
+Cine-aude-o veste bună?
+Dar, ca mine-n văi răsună
+ /: milioane! :/
+
+[v3]
+/: Sunt o rază din Golgota, :/
+Lângă țărmuri de oceane;
+/: O scânteie-n vârf de stâncă,
+Cine-o vede-n noapte-adâncă?
+Dar, ca mine, mai sunt încă.
+/: Milioane! :/
+
+[v4]
+/: Sunt un călător pe lume, :/
+Străbătând meridiane;
+/: Frații mei de trup și nume
+Mă luară-n râs și glume,
+Dar eu am alți frați în lume,
+/: Milioane! :/
+
+[v5]
+/: Sunt un abur care-adie :/
+Și se pierde prin pustie,
+/: Dar, în ziua ce-o să vie,
+Nu un om și nu o mie,
+Dar, ca mine-ar vrea să fie
+/: Milioane! :/

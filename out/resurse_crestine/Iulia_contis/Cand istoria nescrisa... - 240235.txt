@@ -1,0 +1,32 @@
+[title]
+Cand istoria nescrisa {author: {Iulia Contis}, {rcId: {240235}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Când istoria nescrisă
+Aștepta, chiar neprezisă,
+Să inunde începutul,
+Cel ce i-a plătit tributul,
+Dar supunând începutul,
+Dăruindu-i libertate,
+A gândit deja o Carte!
+
+[v2]
+Coborât din măreție
+Pe... deja creata glie,
+Duhul cel slăvit al gloriei
+A scris filele istoriei
+Și a dat esență formei;
+Asta nu-i o... noutate...
+Scrie, scrie chiar în Carte!
+
+[v3]
+Apoi, a văzut cum omul
+A gustat lacom din pomul
+Interzis în spațiul sacru
+Și i-a dat atunci de lucru
+Și i-a spus că... numai suplu
+Dacă-și poartă gându-n viață
+Va avea din cer povață!

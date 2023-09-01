@@ -1,0 +1,29 @@
+[title]
+Cununa de argint {author: {Nicolae Moldoveanu}, {rcId: {5471}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cununa de argint, nici haina de-mparat,
+Pe-acest pamant, Isus nu a purtat;
+Intr-o manta de purpura, L-au imbracat,
+Pacatul meu si-al tau L-a-ncoronat.
+
+[c]
+/: Tronul I-a fost o cruce grea;
+Cununi de spini - diadema;
+Dragostea Sa de Salvator
+Pecetluind-o ca Mantuitor. :/
+
+[v2]
+Pe tron de fildes, El n-a stat ca domnitor,
+Pe Golgota ne-a fost Mantuitor.
+Si tot ce-avea, El pentru pacatosi a dat;
+Imparatia pacii a-ntemeiat.
+
+[v3]
+Cu martori falsi L-au acuzat si condamnat,
+Primind batai pentru al meu pacat;
+Din ranile Sale, curgea sangele sfant,
+Spre mantuirea noastra pe pamant.

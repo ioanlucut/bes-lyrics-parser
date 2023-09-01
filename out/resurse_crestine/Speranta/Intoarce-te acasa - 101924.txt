@@ -1,0 +1,36 @@
+[title]
+Intoarce-te acasa {author: {Speranța}, {rcId: {101924}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Întoarce-te acasă, fiule pierdut
+Cu brațele deschise,
+Isus te-așteaptă acum!
+Renunță la păcatul din viața ce-a trecut,
+Isus te-așteaptă acasă,
+O, fiule pierdut!
+
+[c]
+/: În Cer e sărbătoare, și îngeri cântă-n cor,
+Când oamenii renunță la păcatul lor;
+E zi de sărbătoare și Cerul stă deschis,
+Când oamenii doresc să între în Paradis! :/
+
+[v2]
+Întoarce-te acuma, cât pace mai găsești,
+Cât Domnul încă așteaptă
+Ca tu să Îl primești!
+Întoarce-te acuma,
+De ce dorești să mori?
+Isus Și-a dat viața,
+Tu poți să nu mai mori!
+
+[v3]
+Întoarce-te, ascultă, te cheamă Dumnezeu!
+În Numele Iubirii, poți să fii fiul Său!
+Chiar dacă ești în zdrențe,
+Nu aștepta prea mult,
+Pășește prin credință,
+Tu nu mai ești pierdut!

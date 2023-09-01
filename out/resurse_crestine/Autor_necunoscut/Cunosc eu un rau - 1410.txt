@@ -1,0 +1,29 @@
+[title]
+Cunosc eu un rau {author: {Anonim}, {rcId: {1410}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cunosc eu un râu care curge frumos
+Și trece-n liniște prin țări
+Și apa-i sclipește ca foc luminos
+Prin care se fac vindecări.
+
+[c]
+/: Te rog... te rog suflete, o, vino!
+Să vii... aleargă acum la-acest râu
+Apa în dar curge, o, crede!
+Ea curge și pentru tine. :/
+
+[v2]
+Oriunde ajunge acest râu minunat
+Se bucură inimile
+Căci pacea cea sfântă în ele-a intrat
+Dispar toate durerile.
+
+[v3]
+Acest râu sfânt apa vieții este
+Ce curge din Domnul Isus
+Scump sângele Lui sfânt mă mântuiește
+Căci pentru noi cei răi a curs.

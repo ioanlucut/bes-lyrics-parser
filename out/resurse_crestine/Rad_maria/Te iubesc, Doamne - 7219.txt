@@ -1,0 +1,77 @@
+[title]
+Te iubesc doamne {author: {Rad Maria}, {rcId: {7219}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,v5,c5,v6,c6,c7
+
+[v1]
+Te iubesc Doamne, Te iubesc Doamne,
+Ți-am spus că Te iubesc,
+Te iubesc ziua, Te iubesc noaptea,
+Ți-am spus că Te iubesc.
+
+[c]
+Ți-am spus că Te iubesc,
+Ți-am spus că Te iubesc,
+O, Domnul meu.
+
+[v2]
+Te aștept Doamne, Te aștept Doamne,
+Îți spun că Te aștept,
+Te aștept ziua, Te aștept noaptea,
+Ți-am spus că Te aștept.
+
+[c2]
+Ți-am spus că Te aștept,
+Ți-am spus că Te aștept,
+O, Domnul meu.
+Te ador Doamne, Te ador.....
+
+[v3]
+Și-n închinare, în clipa mare,
+Când ai să vii la noi,
+De pe pământ, spre cerul sfânt,
+Tu mă vei ridica.
+
+[c3]
+Îți spun astăzi duios,
+Sunt foarte bucuros
+Că m-ai iubit.
+
+[v4]
+Cuprins de valuri mă duc spre maluri,
+Să ies și eu aș vrea,
+Dar cât trudesc, nu reușesc,
+Mai sus a mă urca.
+
+[c4]
+Te chem acum Isus,
+Mă ia de mână sus,
+Pe stânca Ta.
+
+[v5]
+Din înălțime, privești spre mine,
+Ce minunat ești Tu,
+Și stai azi gata să-mi dai răsplată,
+Chiar din mâna Ta.
+
+[c5]
+O, vino azi Te rog,
+Ajută-mă, aș vrea,
+Dă-mi Mâna Ta.
+
+[v6]
+La Tine Doamne, este dreptatea,
+Și doar Tu o păstrezi,
+Când sunt cu Ține,
+A Ta privire, mă-nvăluie cu drag,
+
+[c6]
+Și-Ți spun azi fericit,
+O, Domnul meu iubit,
+Grăbește-Ți venirea.
+
+[c7]
+Și sus în Cartea Ta,
+Să am parte aș vrea,
+Scrisă de Mâna Ta.

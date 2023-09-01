@@ -1,0 +1,38 @@
+[title]
+Bratul tau {author: {Zao Thusia}, {rcId: {74121}}
+
+[sequence]
+v1,v2,c,v3,c,e
+
+[v1]
+Îmi vezi lacrima
+Tu cercetezi ființa mea,
+Dincolo de aparențe treci
+Orice inimă Tu vezi, da, Tu vezi.
+
+[v2]
+Îmi vrei dragostea
+Azi Îți ofer inima mea,
+Cu tot ce sunt la Tine eu mă-ntorc
+În viața mea declar: „
+Ești Domn!”
+
+[c]
+Și cânt: „
+Aleluia!”
+Brațul Îți întinzi, mă ridici,
+Și cânt: „
+Aleluia!”
+Acum eu știu, exiști, mă atingi, mă atingi!
+
+[v3]
+Tu știi starea mea
+Tu simți povara mea cea grea,
+Atunci când râd sau plâng Tu vezi, Isus
+Brațul Îți întinzi, mă ajuti!
+
+[e]
+Mă întorc acum din drumul meu
+Astăzi mă întorc la Tine, Domnul meu,
+Vreau să vin acum la Cel ce m-a creat
+La Cel ce viața pentru min’ și-a dat!

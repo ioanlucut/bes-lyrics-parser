@@ -1,0 +1,35 @@
+[title]
+Isuse trezeste-ti urmasii {author: {Nicolae Moldoveanu}, {rcId: {5880}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Isuse, trezește-Ți urmașii,
+Căci somnul adânc i-a cuprins;
+/: În noaptea aceasta, vrajmații
+Pe Tine Te vor iarăți prins. :/
+
+[v2]
+Vor mâinile Tale să lege?
+O, sfânt Adevăr luminos,
+/: Că-n lumea de-acum nu e lege,
+Să-Ți apere Chipul frumos... :/
+
+[v3]
+Lucrarea Ți-o vor nimicită,
+Pe Tine pe cruce Te vor;
+/: Păzeste-i, cu dreapta-Ți sfințită,
+Pe-acei ce-Ți urmează cu dor! :/
+
+[v4]
+Adună-i mereu lângă Tine,
+Că-n lume-s atâția dușmani,
+/: Atâtea trădări și suspine
+Și-atâtea grădini Ghetsimani. :/
+
+[v5]
+Mai trează le ține credința
+Și dragostea-n suflet curat
+/: Să poarte și ei biruința,
+Isuse, cum Tu ai purtat. :/

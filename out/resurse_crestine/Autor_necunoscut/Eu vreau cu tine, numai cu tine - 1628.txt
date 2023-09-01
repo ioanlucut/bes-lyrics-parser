@@ -1,0 +1,41 @@
+[title]
+Eu vreau cu tine numai cu tine {author: {Anonim}, {rcId: {1628}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c,v8,c
+
+[v1]
+Eu vreau cu Tine, numai cu Tine,
+Numai pe Tine să Te iubesc!
+
+[c]
+Inima-mi bate, sufletu-mi cântă,
+De bucurii sunt plin când sunt cu Tine!
+
+[v2]
+În întristare, cânt o cântare
+Ca să-L preamăresc pe Domnul meu.
+
+[v3]
+Când sunt cu Tine, lacrimi suspine
+Nici grijă n-am, ci toate le uit.
+
+[v4]
+A Ta blândețe și frumusețe,
+A Ta iubire - scuturi îmi sunt.
+
+[v5]
+Când sunt cu Tine, în rugăciune,
+Uit că traiesc pe acest pământ.
+
+[v6]
+De-i ziuă sau seară, îmi înalț cântarea
+De-i întuneric sau noapte grea.
+
+[v7]
+De-i vânt, furtună sau vreme bună,
+De sunt dureri sau sunt apăsări.
+
+[v8]
+Ah, nu mă satur de-a-Tale sfaturi!
+Isuse-al meu, cât Te iubesc!

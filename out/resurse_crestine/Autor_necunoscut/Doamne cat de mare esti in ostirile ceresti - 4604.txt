@@ -1,0 +1,33 @@
+[title]
+Doamne cat de mare esti in ostirile ceresti {author: {Anonim}, {rcId: {4604}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Doamne cat de mare esti
+In ostirile ceresti
+/: Si cu slava Ta cea mare
+Ne iubesti pe fiecare
+Vin la noi in adunare. :/
+
+[v2]
+Ochiul Tau din cerul Sfant
+Priveste jos pe pamant
+/: La omul cel pacatos
+Ce se-ntoarce la Hristos
+Ca sa fie bucuros. :/
+
+[v3]
+Vreau sa stie fiecare
+Ca la noi in adunare
+/: Se coboara Duhul Sfant
+Ce lucreaza pe pamant
+Sa-si stranga poporul Sfant. :/
+
+[v4]
+Tata, Fiu si Duh Preasfant
+Noi cu toti iti multumim
+/: Ca prin iubirea ta cea mare
+Ne-ai ales pe fiecare
+Sa fim fiii-Acelui Sfant. :/

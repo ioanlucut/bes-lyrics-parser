@@ -1,0 +1,29 @@
+[title]
+Nimenea nu poate spune {author: {Alexandru Groza}, {rcId: {83385}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Nimenea nu poate spune câte zile vom trăi
+Nici măcar ce-aduce ziua care mâine va veni
+
+[c]
+Încrede-te în Dumnezeu
+Să fii ferit de orice rău
+Credința-n El te va păzi
+Și-orice necaz vei birui
+
+[v2]
+Un balsam de mângâiere prin Isus, Tatăl ne-a dat
+Staruieste-n rugăciune că să poți fi mângâiat
+
+[v3]
+Dacă uneori în suflet grijile te-au năpădit
+Pune-ți tu în El nădejdea ca să poți fi liniștit
+
+[c2]
+Deschide-ți ochii și inima
+Să poți să vezi lucrarea Sa
+Adu-ți aminte și nu uita
+Isus îți poartă grija ta

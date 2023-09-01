@@ -1,0 +1,23 @@
+[title]
+Vestea buna {author: {Anonim}, {rcId: {64524}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Vestea bună a cuprins întregul pământ
+Peste tot bucurie aducând
+Astăzi noi am aflat într-un staul culcat
+Un prunc, un Fiu de Împărat.
+
+[c]
+/: S-a născut :/ la Betleem
+/: S-a născut :/ mântuire s-avem!
+Azi un dar minunat cerul ne-a dat
+Pe Isus, al vieții Împărat!
+
+[v2]
+Astăzi la Betleem veniți să-L vedem
+Jos la iesle să ne închinăm!
+Și pe pruncul Isus rege să-L încoronăm
+Și din inimă să-L lăudăm!

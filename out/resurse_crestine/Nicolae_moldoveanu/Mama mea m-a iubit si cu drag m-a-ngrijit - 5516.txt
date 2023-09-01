@@ -1,0 +1,29 @@
+[title]
+Mama mea m-a iubit si cu drag m-a-ngrijit {author: {Nicolae Moldoveanu}, {rcId: {5516}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mama mea m-a iubit și cu drag m-a-ngrijit,
+Ca să nu mi se-ntâmple vreun rău.
+Îmi dădea tot ce-avea, iar în suflet purta
+Dor adânc pentru binele meu.
+
+[c]
+/: Voi iubi mama mea neîncetat
+Căci, prin ea, Domnul viața mi-a dat!
+Și-mpreună, Te rog, o, Doamne,
+Fă sa fim sus în cer la Tine! :/
+
+[v2]
+Ne-ncetat lângă pat nopți întregi a vegheat,
+Când eu în suferinți mă zbăteam;
+Nu mânca, nu dormea, bucuroasă se jertfea,
+Căci așa m-a iubit mama mea.
+
+[v3]
+De Isus mi-a vorbit cum pe cruce-a murit,
+Căci dorea să mă vadă salvat
+Și, cu lacrimi fierbinți, se topea-n rugăminți,
+Până ce Domnului m-am predat.

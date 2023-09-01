@@ -1,0 +1,38 @@
+[title]
+Scumpa e comoara mantuirii tale {author: {Anonim}, {rcId: {80533}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Scumpă e comoara mântuirii tale
+Merită s-o cauți peste deal și vale
+/: Merită să cheltui, merită a-ți vinde
+Merită să dărui ca s-o poți cuprinde :/
+
+[c]
+Pentru mântuirea ta dă-ți tot ce-ai avea
+/: Căci din câte poți vedea nu-i nimic, nimic ca ea
+Nu-i nimic nimc ca ea :/
+
+[v2]
+Ea-i margarintarul cel mai scump și mare
+Nu-i ca ea nici unul din mărgărintare
+/: Cel ce o află își vinde orice avuție
+Ca s-o dobândească pentru veșnicie :/
+
+[c2]
+Penru mântuirea ta dă-ți tot ce-ai avea
+/: Căci din câte poți vedea nu-i nimic, nimic ca ea
+Nu-i nimic, nimic ca ea :/
+
+[v3]
+Scumpă-i mântuirea mai presus că toate
+Caută s-o afli până se mai poate
+/: Tot ce-mbie lumea e-o zădărnicie
+Numai mântuirea e o veșnicie :/
+
+[c3]
+Pentru mântuirea ta dă-ți tot ce-ai avea
+/: Căci din câte poți vedea nu-i nimic, nimic ca ea
+Nu-i nimic, nimic ca ea :/

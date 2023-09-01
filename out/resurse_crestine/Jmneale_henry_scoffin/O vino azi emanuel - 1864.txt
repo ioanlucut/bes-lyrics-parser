@@ -1,0 +1,33 @@
+[title]
+O vino azi emanuel {author: {J.M.Neale Henry S.Coffin}, {rcId: {1864}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+O, vino azi, Emanuel,
+Rascumpara pe Israel,
+El geme sub povara grea
+Si zorii-asteapta-n noaptea rea.
+
+[c]
+Saltati, cantati, in Israel
+Va reveni Emanuel!
+
+[v2]
+O, vino, vino, Rasarit,
+La cei ce-atata au tanjit
+Ca bezna noptii s-o strapungi
+Si jalea noastra s-o alungi!
+
+[v3]
+Intelepciune din vecii,
+Adu uitate armonii,
+Ca lumea-nstrainat-ar vrea
+Sa mearga pe cararea Ta!
+
+[v4]
+Tu esti al neamurilor dor,
+O, vino, scump Mantuitor!
+Alunga ura si razboi
+Si lasa-Ti pacea peste noi!

@@ -1,0 +1,31 @@
+[title]
+O doamne tu esti creatorul {author: {Anonim}, {rcId: {5023}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+O, Doamne, Tu ești Creatorul
+Prin Tine, o Doamne, trăim;
+Isus este Mântuitorul
+Lui ne-nchinăm și-L slăvim.
+Venim să Îți dăm mulțumire
+O, Doamne, noi laudă Îți dăm;
+Mărire și slavă și cinste
+Din inimă Ție-Ți cântăm.
+
+[c]
+/: Doamne, Tu ești bun,
+Doamne, Tu ești bun,
+Doamne, Tu ești bun
+Și-ndurarea Ta este eternă. :/
+
+[v2]
+Spre cer ridicăm mâini curate
+Și inima Ție Ți-o dăm;
+Din palme noi astăzi vom bate
+Ca Ție onoare să-Ți dăm.
+Ești vrednic de cinste și laudă,
+Ești vrednic, o Domnul meu;
+Cu strigăte de bucurie
+Dansa-vom, cânta-vom mereu.

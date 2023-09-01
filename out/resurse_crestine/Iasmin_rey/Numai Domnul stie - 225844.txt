@@ -1,0 +1,35 @@
+[title]
+Numai domnul stie {author: {Iasmin Rey}, {rcId: {225844}}
+
+[sequence]
+v1,c,v2,c,v3,b,c
+
+[v1]
+/: Numai Domnul știe gândul Tău
+Este Sfânt, puternic Dumnezeu
+Numai Domnul știe, durerea Ta
+Cu nici un chip, Isus nu te va lăsa :/
+
+[c]
+El îți ia povara ta / grea
+O zdrobește în palma Sa
+Îți alină inima, Isus
+El Îți ia neliniștea
+O șterge din viața Ta
+Îți alină sufletu’, Isus
+
+[v2]
+Numai Domnul știe nevoia Ta
+El te poate astăzi, ajuta
+Numai Domnul știe, ce-ți dorești
+Prin credință cere și primești
+
+[v3]
+Numai Domnul știe, necazul Tău
+Te va încuraja când va fi greu
+Numai Domnul știe, tristețea ta
+În bucurie El o va transforma
+
+[b]
+/: Increde-te în El, în Emanuel
+El va elibera, astăzi viața ta :/

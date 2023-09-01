@@ -1,0 +1,23 @@
+[title]
+Voi canta indurarea domnului {author: {James H.Fillmore}, {rcId: {4619}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+Voi cânta îndurarea Domnului meu veșnic
+Voi cânta, voi cânta.
+Voi cânta îndurarea Domnului meu veșnic,
+Voi cânta îndurarea Domnului..
+
+[v1]
+Voi vesti că Dumnezeu
+E minunat, e minunat.
+Voi vesti că Dumnezeu
+În veac își ține credincioșia.
+
+[v2]
+Fericit e-acel popor
+Ce l-a ales pe Dumnezeu.
+Fericit e-acel popor
+Ce L-a ales pe Domnul ca Rege.

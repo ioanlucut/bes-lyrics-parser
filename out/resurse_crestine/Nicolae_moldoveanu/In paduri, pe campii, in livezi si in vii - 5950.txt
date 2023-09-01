@@ -1,0 +1,24 @@
+[title]
+In paduri pe campii in livezi si in vii {author: {Nicolae Moldoveanu}, {rcId: {5950}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+In paduri, pe campii, in livezi si in vii
+Se-aude un cantec de dor;
+Pasarelele-n crang, pe sub ramuri se strang
+Sa-L laude pe Creator.
+
+[c]
+/: Chiar natura asa ne-nvata pe noi:
+„
+Laudati-L pe Cel din vecii!”
+Toata gloria Sa, o revarsa-n suvoi,
+Prin cantece si bucurii. :/
+
+[v2]
+Bolta, cerul senin si vazduhul e plin
+De laudele lui Dumnezeu;
+Si in ape adanci, si in munti printre stanci,
+Rasuna un cantec mereu.

@@ -1,0 +1,27 @@
+[title]
+Veniti cantati {author: {E.S.Lorenz}, {rcId: {1670}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Veniți, cântați că Dumnezeu mult ne-a iubit;
+Săltați cu toți că-n harul Său El ne-a iubit.
+Din somnul morții vă sculați, milă-ndurarea Lui căutați,
+În harul Lui vă bucurați! El ne-a iubit.
+
+[c]
+El ne-a iubit, El ne-a iubit,
+Veniți, cântați că Dumnezeu mult ne-a iubit.
+
+[v2]
+Vestiți cu toți că Dumnezeu mult ne-a iubit;
+El a venit din cerul Său că ne-a iubit.
+Domnul Isus S-a întrupat, și pentru noi mult a răbdat;
+Suntem prin har pe veci salvați! El ne-a iubit.
+
+[v3]
+Săltați voi cei răscumpărați că ne-a iubit;
+Pe Domnul slavei lăudați că ne-a iubit.
+El este Soare minunat, Mântuitor glorificat,
+Atotputernic Împărat! El ne-a iubit.

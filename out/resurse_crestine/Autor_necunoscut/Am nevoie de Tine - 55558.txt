@@ -1,0 +1,35 @@
+[title]
+Am nevoie de tine {author: {Anonim}, {rcId: {55558}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+/: Am nevoie de Tine, :/
+Am nevoie de Tine,
+Isuse, Domnul meu.
+
+[v2]
+/: Nimeni nu-i ca Tine, :/
+Nimeni nu-i ca Tine,
+În cer și pe pământ.
+
+[v3]
+/: Te iubesc, Isuse, :/
+Te iubesc, Isuse,
+Din toată inimioara mea.
+
+[v4]
+/: Te slăvesc, Isuse, :/
+Te slăvesc, Isuse,
+Din toată inimioara mea.
+
+[v5]
+/: Îți mulțumesc, Isuse, :/
+Îți mulțumesc, Isuse,
+Căci Tu m-ai mântuit.
+
+[v6]
+/: Te-ai jertfit, Isuse, :/
+Te-ai jertfit, Isuse,
+/: Pe cruce-n locul meu. :/

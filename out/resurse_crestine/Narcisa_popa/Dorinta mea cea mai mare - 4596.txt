@@ -1,0 +1,29 @@
+[title]
+Dorinta mea cea mai mare {author: {Narcisa Popa}, {rcId: {4596}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+Dorința mea cea mai mare
+Care-mi mistuie inima
+Și mă copleșește atât de tare
+E, Doamne, revenirea Ta
+
+[v1]
+Cea mai frumoasă zi, cea mai divină
+Va fi atuncea când te voi vedea
+Atunci când inima îmi va fi plină
+De bucurie, la revenirea Ta
+
+[v2]
+Aceea zi sfântă și frumoasă
+Bătrânii din vechime o așteptau
+Cu sufletul arzând de-un dor de casa
+Spre ceruri ei privirea și-o-ndreptau
+
+[v3]
+Aproape zorii luminează cerul
+Iar dimineață se va arăta
+Din trâmbița lui va sună străjerul
+Căci Domnul va veni că să ne ia.

@@ -1,0 +1,30 @@
+[title]
+Din slava lui {author: {Daniela Haidaciuc}, {rcId: {172397}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+A venit
+ /: din slava Lui: \
+Fiul Sfânt al Domnului, chiar Fiul Lui!
+/: Să se nască-n Betleem, aicea jos,
+S-a născut Isus Hristos, ce dar frumos! : \
+
+[v2]
+Pruncul Sfânt în iesle doarme înfășat,
+Magi, pastori, în fața Lui s-au închinat!
+/: Ce frumoasă sărbătoare pe Pământ,
+Îngerii-L slăvesc în cânt pe Pruncul Sfânt: \
+
+[v3]
+Tresăltați popoare, veseliți-vă!
+Aveți mântuire, bucurați-vă!
+/: Să rasune-n zare sfinte melodii,
+Pruncul Sfânt ne-aduce nouă bucurii: \
+
+[v4]
+Ne-nchinăm cu toții înaintea Ta,
+Tu ești sărbătoarea noastră, Mesia!
+/: Ne-ai scăpat Isus de moarte și blestem,
+Mulțumim că Te-ai născut în Betleem

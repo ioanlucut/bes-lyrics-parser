@@ -1,0 +1,39 @@
+[title]
+Mica capela (the little chapel in the vale) {author: {Albert E. Brumley, Traducere RO}, {rcId: {136302}}
+
+[sequence]
+v1,c,v2,c,v3,c,s,c
+
+[v1]
+Văd și-acum acea mică capelă
+Unde cândva mă bucuram
+Amintirea ce-o păstrez nestinsă
+Căci aici Cuvântul învățam.
+
+[c]
+Bucuros voi fi și-acum, din nou
+Să pornesc voios înspre-acel loc
+Unde toți, cu mic și mare
+Cântă a Domnului cântare
+În ziua de har, aducând al lor dar;
+Mult aș vrea s-aud dulci melodii
+În adunarea celor vii
+Să ascult un cântec drag mie
+Ce-l cântam în copilărie
+În acel locaș, cândva un popas.
+
+[v2]
+Toți cântă doar laudele lui Isus
+Și îngerii, uimiți privesc
+Că în vocea tuturor e patos
+Pentru slava Tatălui ceresc.
+
+[v3]
+Inima mea bate cu-ncântare
+La gândul că voi sta din nou
+Să ascult cuvânt de mântuire
+Proclamat în fața tuturor.
+
+[s]
+Mă bucur când mi se zice ”
+Haidem la Casa Domnului!” Psalm 122:1

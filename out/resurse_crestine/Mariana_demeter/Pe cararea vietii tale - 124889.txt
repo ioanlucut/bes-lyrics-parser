@@ -1,0 +1,28 @@
+[title]
+Pe cararea vietii tale {author: {Mariana Demeter}, {rcId: {124889}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pe cărarea vieții tale, pribegind spre nicăieri
+Cauți în lume fericirea, cauți câștigul efemer;
+Alergând după himere, zi de zi te amăgești
+Străin și călător, tu rătăcești.
+
+[c]
+/: Întoarce-te la Domnul, întoarce-te acasă
+Numai prin Domnul Isus, tu poți avea viața. :/
+
+[v2]
+Trist și-nsingurat, adesea în uitare te ascunzi
+Îți înnăbuși suferința într-o lacrimă și fugi;
+Dar un glas divin te cheama: ”
+Hai, întoarce-te din drum!”
+Te cheamă Dumnezeu, căci este bun.
+
+[v3]
+Astăzi când auzi chemarea, să nu stai nepăsător
+Cercetează-te o clipă, omule, ești trecător;
+Nu uita căci pentru tine, Domnul Isus a murit
+Chiar astăzi poți fi și tu mântuit.

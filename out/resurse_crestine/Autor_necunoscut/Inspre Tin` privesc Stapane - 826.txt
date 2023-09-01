@@ -1,0 +1,35 @@
+[title]
+Inspre tin privesc stapane {author: {Anonim}, {rcId: {826}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Înspre Tin’ privesc Stăpâne
+Doamne, Dumnezeul meu
+Căci Tu ești a mea iubire,
+Tu ești Creatorul meu.
+Tu-mi ești tot ce am în viață
+Tot ce-i bun, tot ce-i frumos
+Tu ești și Tu vei rămâne
+Domnul meu Isus Hristos.
+
+[c]
+Laudă-Ți cântăm
+Laudă-Ți înălțăm
+Laudă noi din inimi
+Doamne vrem să-Ți dăm
+Laudă-Ți cântăm
+Și Te onorăm
+Viața noastră Doamne
+Ție ți-onchinăm.
+
+[v2]
+Tu din dragoste, Isuse
+Ai venit aicea jos
+Ai venit căci ne-ai văzut
+Că eram răi și păcătoși
+Noi murdari și plini de zdrențe
+Mergeam jos înspre păcat
+Însă Tu-ai venit Isuse
+Și viața ne-ai salvat!

@@ -1,0 +1,29 @@
+[title]
+Mai sus de luna {author: {Marius Gorcea}, {rcId: {201880}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mai sus de lună, mai sus de soare, dincolo de ele
+E o țară în depărtare, e mai sus de stele
+O țară promisă de Isus, în strălucire
+Pentru acei ce vor urma, o veșnicie.
+
+[c]
+/: Acolo e fericire, e un loc minunat
+E doar armonie căci Domnul e împârat
+Nu e tristețe sunt doar bucurii
+O ce frumos va fii în veșnici :/
+
+[v2]
+Nu e mult până cănd, vom sfărșii alergarea
+Nu e mult până cănd, vom auzi strigarea
+Iată Mirele apare, fiți gata de plecare
+Iată Mirele apare, ieșiti-n întămpinare.
+
+[v3]
+Pentru țara minunată, să ne pregătit
+Pentru a intra în ea, gata oricănd sa fim
+Să nu ne prindă somnul, să răminem neclințit
+Până apare Domnul, să fim pregătit.

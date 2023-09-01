@@ -1,0 +1,23 @@
+[title]
+Ii voi canta lui dumnezeu {author: {Speranța}, {rcId: {111388}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+/: Noi vom cânta Domnului
+Vom slăvi doar pe El
+Vom înălța Numele Lui,
+Stânca lui Israel :/
+
+[v1]
+El e vrednic să fie înălțat
+El e vrednic să fie lăudat
+
+[v2]
+Toată slava e a Domnului
+Cinstea și gloria sunt spre Slava Lui
+
+[v3]
+Toată lauda e pentru Dumnezeu
+Mărire și-nălțare doar Numelui Său

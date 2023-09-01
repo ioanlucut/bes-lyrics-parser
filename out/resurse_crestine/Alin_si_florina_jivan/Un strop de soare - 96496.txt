@@ -1,0 +1,37 @@
+[title]
+Un strop de soare {author: {Alin și Florina Jivan}, {rcId: {96496}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Cauți un drum
+Cauți o cale,
+Cauți ușa de scăpare
+Cauți har și vindecare,
+Cauți viața
+Cauți soare,
+Cauți zări nemuritoare
+Cauți zi de sărbătoare
+Cauți râuri și izvoare
+Cauți har și alinare
+
+[c]
+În jurul tău totul moare
+Tu cauți o scăpare
+Un strop de soare
+Viața ta n-are culoare
+Ți-e dor de-o sărbătoare
+/: De-o alinare :/ x3
+De-un strop de soare
+
+[v2]
+Cauți un loc
+Cauți o floare
+Cauți gânduri hrănitoare
+Cauți cerul în culoare
+Cauți locul de scăpare
+Cauți inimi iubitoare
+Cauți stânca de salvare
+Cauți fețe zâmbitoare
+Cauți har și alinare

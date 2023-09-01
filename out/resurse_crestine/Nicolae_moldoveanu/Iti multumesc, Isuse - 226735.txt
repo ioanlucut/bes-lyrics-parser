@@ -1,0 +1,39 @@
+[title]
+Iti multumesc isuse {author: {Nicolae Moldoveanu}, {rcId: {226735}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Îț mulțumesc, Isuse,
+cu-acest cuvânt doresc,
+în astă dimineață
+întâi să Te slăvesc!
+
+[c]
+Îți mulțumesc, Îți mulțumesc,
+Isuse bun, Îți mulțumesc!
+
+[v2]
+Îți mulțumesc că somnul
+din noaptea ce-a trecut,
+senin și lin și dulce,
+Isuse, mi-ai făcut.
+
+[v3]
+Îți mulțumesc, Isuse,
+că mâna-Ți m-a păzit,
+că de-orișice primejdii
+a-nopții m-ai ferit.
+
+[v4]
+Te rog să fii cu mine,
+Isuse, Domnul meu,
+ca-n ziua de-azi cuminte
+și bun să fiu mereu.
+
+[v5]
+Să mă feresc de rele,
+cum Tu m-ai învățat,
+iar seara să mă afle,
+cu sufletul curat.

@@ -1,0 +1,44 @@
+[title]
+Se-aude-un cant de gloate multe {author: {Anonim}, {rcId: {204528}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Se-aude-un cânt de gloate multe
+Ce cânta-n cor lui Dumnezeu,
+Dar cine poate sa asculte,
+Slavitul cânt, din Empireu?
+Dar cine poate sa asculte,
+Slavitul cânt, din Empireu!
+
+[c]
+Esti sfânt, esti sfânt,
+Esti sfânt si vesnic
+Etern, Stapân, Sfânt Creator;
+A Ta e lauda, slava, cinstea,
+Puterea, în vecii vecilor!
+
+[v2]
+Veniti, si ascultati cântarea
+Si daca nu o deslusiti,
+Zburati prin duh, strapungeti zarea,
+Se-aude pentru cei smeriti.
+Zburati prin duh, strapungeti zarea,
+Se-aude pentru cei smeriti.
+
+[v3]
+Se-aude-un cânt, de gloate multe,
+Ce cânta în cor lui Dumnezeu.
+Dar cine poate sa asculte
+Slavitul cânt din empireu?
+Dar cine poate, sa asculte,
+Slavitul cânt, din empireu!
+
+[v4]
+Veniti si voi cu oastea sfânta,
+Sa laudam pe Dumnezeu.
+Nemuritorii slavei, cânta,
+Neîncetat cu har mereu.
+Nemuritorii slavei cânta
+Neîncetat cu har mereu

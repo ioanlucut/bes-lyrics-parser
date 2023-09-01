@@ -1,0 +1,29 @@
+[title]
+Mai fa un pas {author: {Speranța pentru copii}, {rcId: {195515}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+Mai fa un pas, un pas catre cer
+Mai fa un pas, un pas spre El
+Mergi ’nainte, nu da ’napoi!
+Hai la drum, hai cu noi!
+
+[v1]
+Prin munti si vai calatorim
+Catre cer cu toti pornim
+Spre Paradis pasim acum
+Si hai cu noi la drum!
+
+[v2]
+Nu lua nimic ce nu folosesti
+Curand, curand, tu obosesti
+Ia cu tine tot ce e bun
+Si hai cu noi la drum!
+
+[v3]
+Paseste ’nainte, fii curajos!
+Cu noi pe cale e Hristos
+Asculta ceea ce iti spun
+Si hai cu noi la drum!

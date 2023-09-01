@@ -1,0 +1,27 @@
+[title]
+Spune da (say i do) {author: {Ray Hildebrand, Traducere RO}, {rcId: {111973}}
+
+[sequence]
+v1,c,v2,c,s,c
+
+[v1]
+Multă vreme a trecut de când Isus S-a-nălțat
+Despre-a Lui venire azi, unii spun că s-a uitat;
+De ce mulți se roagă azi, unui Om care-a plecat?
+Și răspunsul vine-acum: Isus va veni-n curând!
+
+[c]
+Cine vrea viață-n veșnicie, spune da!
+Cine vrea pe străzi de aur a umbla, spune da!
+Cine e trudit și-mpovărat de a lumii greu păcat
+Cine vrea să aibă-n suflet fericirea, spune da!
+
+[v2]
+Isus stă și-așteapt-acum, de vei vrea să-L întâlnești!
+Și în ochii Lui senini, bunătatea s-o găsești;
+Iar în mâna ce ți-a-ntins, semnul cuielor să vezi
+Și atunci ai să-nțelegi, pentru tine că-a murit!
+
+[s]
+Isus i-a zis: ”
+Astăzi a intrat mântuirea în casa aceasta, căci și el este fiul lui Avraam. Luc.19:9

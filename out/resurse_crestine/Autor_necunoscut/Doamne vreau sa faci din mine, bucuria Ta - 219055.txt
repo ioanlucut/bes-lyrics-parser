@@ -1,0 +1,25 @@
+[title]
+Doamne vreau sa faci din mine bucuria ta {author: {Anonim}, {rcId: {219055}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: Doamne vreau sa faci din mine, bucuria Ta
+Sa nu ma despart de Tine toata viata mea :/
+
+[c]
+/: Tu-mi esti sprijin si adapost,
+Fara Tine, Doamne, viata n-are rost :/
+
+[v2]
+/: Viata, eu o-ncredintez, doar in mana Ta,
+In Tine ma sprijinesc toata viata mea. :/
+
+[v3]
+/: Tu esti turnul de scapare, Dumnezeul meu,
+Vino, lasa-mi alinare, sufletului meu :/
+
+[v4]
+/: Multumesc de bunatatea, ce ne-ai aratat
+Caci, Te-ai indurat de mine si mai ascultat :/

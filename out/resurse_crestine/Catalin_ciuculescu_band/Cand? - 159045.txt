@@ -1,0 +1,37 @@
+[title]
+Cand? {author: {Cătălin Ciuculescu Band}, {rcId: {159045}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Vremea a trecut, văd că ai crescut
+Și-n ochii tăi a apărut ceva ciudat,
+Nu mai ești senin, pari mai tulburat,
+Oare-ai putea să-mi spui, te rog, ce s-a-ntâmplat?
+
+[c]
+Ce-i, ce-i cu tine?
+Unde-i binele cu care ai crescut?
+Când, când anume,
+Sufletul ți s-a făcut așa urât?
+Când? Când?
+
+[v2]
+N-ai mai plâns demult, râsul tău forțat,
+Te-a învățat să minți și nu ești fericit.
+Ești mai obosit, mai îngrijorat,
+Chipul ți-e bine, dar adâncul ți-e lovit.
+
+[v3]
+Încă nu-i târziu, încă mai trăiești
+Și dacă vrei să te oprești din drumul tău,
+Cel ce stă în Cer, Bunul Dumnezeu,
+Poate să schimbe-n tine tot ce este rău.
+
+[c2]
+Ce-i, ce-i cu tine?
+Ești pe gânduri după tot ce ți-am vorbit,
+Când, când anume,
+O să schimbi în tine tot ce-ai auzit?
+ Când? Când? x5

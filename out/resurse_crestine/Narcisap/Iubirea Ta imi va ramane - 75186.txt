@@ -1,0 +1,31 @@
+[title]
+Iubirea ta imi va ramane {author: {Narcisap.}, {rcId: {75186}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Oricat de grele suferinte
+Vor trece peste-a mea putere
+Iubirea Ta imi va ramane
+Isuse-n clipe de durere
+
+[c]
+Iubirea Ta imi va ramane
+Cea mai de pret si de valoare
+Comoara care n-o voi pierde
+In clipele de disperare
+Iubirea Ta-mi va vi alaturi
+Isuse, fara indoiala
+In suferinte si-n durere
+Iubirea Ta e o comoara
+
+[v2]
+Oricat de dura va fi viata
+Oricat de negre incercari
+nimic nu este mai puternic
+Decat iubirea ce-mi oferi
+
+[e]
+Iubirea Ta imi va fi pacea
+Care in suflet o pastrez.

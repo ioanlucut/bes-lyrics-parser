@@ -1,0 +1,43 @@
+[title]
+Fii tare {author: {Damaris Azamfirei}, {rcId: {191322}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,e
+
+[v1]
+Ai cazut si esti infrant
+Doborat jos la pamant
+Dar ridica-te fii tare
+Vei ramane in picioare
+
+[c]
+Increde-te in Dumnezeu
+Si vei birui mereu
+Greul El ti-l va usura
+Increde-te in Dumnezeu
+Si vei birui mereu
+De grija El iti poarta mereu
+
+[v2]
+Nu te lasa doborat
+De satan caci e viclean
+Ci asculta de Duhul Sfant
+Ce te-ndeamna ne-ncetat
+
+[v3]
+Tu fii tare dar acum
+Si nu iti pierde credinta
+Nu te indoi
+De planul Tatalui de sus
+
+[v4]
+Tu fii tare inainteaza
+Si nadajduieste-n Tatal
+Care iti cunoaste
+Chiar si taina inimi tale
+
+[e]
+Fii tare nu te teme
+Cand Domnul iti vorbeste
+Ci ia aminte la tot
+Ce El iti glasuieste :/

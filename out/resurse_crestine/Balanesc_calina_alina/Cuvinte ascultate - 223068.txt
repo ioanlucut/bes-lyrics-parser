@@ -1,0 +1,29 @@
+[title]
+Cuvinte ascultate {author: {Bălănesc Călina Alina}, {rcId: {223068}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cuvântul ce-l spune orice copilaș
+Și oricare om de la sat sau oraș
+Mare sau mic, cuminte sau rău
+Este-ascultat chiar de Dumnezeu!
+
+[c]
+De-aceea din Biblie noi învățăm
+Cum să vorbim, cum să ne purtăm,
+Cum să-L cinstim, să-L adorăm
+% Viața noastră să I-o-nchinăm. %
+
+[v2]
+Cu vorba ce-o spun pot să zidesc
+Sau pot să dărâm ce construiesc.
+Pot s-aduc pace, speranță, iertare
+Pot s-aduc ură sau încurajare.
+
+[v3]
+De orice cuvânt pe care îl spun
+Voi da socoteală de-a fost rău sau bun!
+Când sunt cuminte și vorbesc frumos
+Se bucură însuși Isus Hristos.

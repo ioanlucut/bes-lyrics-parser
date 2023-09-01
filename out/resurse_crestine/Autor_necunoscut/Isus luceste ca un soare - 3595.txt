@@ -1,0 +1,53 @@
+[title]
+Isus luceste ca un soare {author: {Anonim}, {rcId: {3595}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c
+
+[v1]
+Isus lucește ca un soare
+În cerul sfânt cu heruvimi
+Dar parcă mai frumos îmi pare
+Stând în grădina cu măslini.
+
+[c]
+/: Isus e veșnică lumină
+Astăzi Te chemăm să vii la noi
+Du-ne la Tine în grădină
+Învață-ne să ne rugăm. :/
+
+[v2]
+Grădină binecuvântată
+Loc sfânt al rugii pe pământ
+Tu ai rămas întunecată
+În bezna sutelor de ani.
+
+[v3]
+Tu stai în noaptea părăsită
+Creștinii nu te mai cunosc
+Pe poarta de măslini umbrită
+Puțini sunt cei ce mai pășesc.
+
+[v4]
+Aici e cheia biruinței
+Puterea-ntregii lui vieți
+Aici sunt zorii suferinței
+Sunt zorii sfintei dimineți.
+
+[v5]
+Azi rugăciunea e uitată
+Iar necredința face zid
+Puterea Ta nemăsurată
+În nepăsare o închid.
+
+[v6]
+De vrei să mergi iubite suflet
+La Golgota să te închini
+De vrei să înțelegi iubirea
+Să treci întâi pe sub măslini.
+
+[v7]
+Cu Domnul tău în rugăciune
+Să stai măcar un ceas de zi
+Și viața toată Lui ți-o spune
+Și tu atunci vei birui.

@@ -1,0 +1,35 @@
+[title]
+Flori sa-mi zambiti pe carare {author: {Diaz Amos}, {rcId: {238800}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Vânt pribeag zboară acuma
+Și nu te mai arăta.
+Eu voiesc calea senină,
+Calea spre Patria Sa!
+
+[c]
+Flori să-mi zâmbiți pe cărare,
+Nori drumul să-mi arătați,
+Eu merg mai sus de zare,
+Merg în cerul preaînalt!
+
+[v2]
+Domnul zâmbește senin,
+Vine acasă a Său fiu;
+Întâmpinat în glorie,
+În ritm de cântec globiu!
+
+[v3]
+Ce mult am așteptat ziua
+Revederii cu Isus.
+Sunt înconjurat de fericire,
+Salt fericit jos și sus!
+
+[v4]
+Și vom cânta în ritm de slavă,
+Atât de multe cântări,
+De vor perinde în noblețe,
+Melodia în ritm spre zări!

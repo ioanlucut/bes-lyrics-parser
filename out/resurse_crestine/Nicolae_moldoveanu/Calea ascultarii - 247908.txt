@@ -1,0 +1,37 @@
+[title]
+Calea ascultarii {author: {Nicolae Moldoveanu}, {rcId: {247908}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Calea ascultării,
+Cale de lumină,
+Arătată-n Cartea
+Harului, divină,
+/: Doamne, dă-mi puteri din Tine,
+pașii mei s-o țină. :/
+
+[v2]
+Să nu mi se-abată:
+Ochii într-o parte.
+Gândul spre-ascultare
+Pururi să mă poarte.
+/: Doamne, să nu mă atragă
+Lucrurile moarte. :/
+
+[v3]
+Nici o jertfă-n lume
+Nu Ți-i mai dorită
+Decât ascultarea
+Simplă și smerită.
+/: Doamne, să mă-nveți s-o dărui
+Tot mai liniștită. :/
+
+[v4]
+Roadele-ascultării
+Dulci să crească-n mine,
+Ca să-Ți placă, Doamne,
+Să le iei la Tine.
+/: Fă-le-n harul Tău să fie
+Sfinte și depline. :/

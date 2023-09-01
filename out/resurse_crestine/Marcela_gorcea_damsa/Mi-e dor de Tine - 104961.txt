@@ -1,0 +1,27 @@
+[title]
+Mi-e dor de tine {author: {Marcela Gorcea Damsa}, {rcId: {104961}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cu cât mai mult harul Tău coboară
+Cu-atât mai mult Isuse, Te aștept
+Când iarna grea, sufletu-mi îngheață
+Când zorii primăverii se ivesc.
+
+[c]
+/: Mi-e dor de Tine, în suflet să Te simt
+Mi-e dor de apă vie, Isuse-al meu iubit :/
+
+[v2]
+Tu Te arăți ca zorii dimineții
+Și întunericul îl risipești
+Din Tine toți primesc speranța vieții
+Din harul bogățiilor cerești.
+
+[v3]
+De Tine când departe rătăcesc
+Tu milă Doamne ai de mine
+M-aștepți din rătăcire să mă-ntorc
+În Brațe Tu mă iei, Isuse.

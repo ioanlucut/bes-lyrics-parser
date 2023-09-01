@@ -1,0 +1,35 @@
+[title]
+Nu-i nimeni ca tine isus {author: {Anonim}, {rcId: {68989}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+/: Nu-i nimeni ca Tine Isus! :/
+/: În nopți de durere, să dai mângâiere...
+Nu-i nimeni ca Tine Isus! :/
+
+[v2]
+/: Nu-i nimeni ca Tine Isus! :/
+/: Nu-i nimeni ca Tine, să șteargă suspine
+Nu-i nimeni ca Tine Isus! :/
+
+[v3]
+/: Nu-i nimeni ca Tine Isus! :/
+/: S-aducă iertare si eliberare,
+Nu-i nimeni ca Tine Isus! :/
+
+[v4]
+/: Nu-i nimeni ca Tine Isus! :/
+/: S-aducă lumina, să mustre furtuna.
+Nu-i nimeni ca Tine Isus! :/
+
+[v5]
+/: Nu-i nimeni ca Tine Isus! :/
+/: S-aducă credință, să dea biruință
+Nu-i nimeni ca Tine Isus! :/
+
+[v6]
+/: Nu-i nimeni ca Tine Isus :/
+/: Să poarte spre stele, pe-aripi de putere
+Pe-aceia ce-n slavă îi duci. :/

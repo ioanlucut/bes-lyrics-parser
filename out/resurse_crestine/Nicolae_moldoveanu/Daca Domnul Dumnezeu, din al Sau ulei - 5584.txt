@@ -1,0 +1,35 @@
+[title]
+Daca domnul dumnezeu din al sau ulei {author: {Nicolae Moldoveanu}, {rcId: {5584}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Daca Domnul Dumnezeu, din al Sau ulei,
+A turnat pe capul tau stropii caldicei,
+Poti sa spui si tu, la fel, frate, tuturor!
+Caci ai fost ales de El, frate vestitor.
+
+[c]
+/: Daca esti uns, iti este de-ajuns
+Ca sa poti privi in nepatruns,
+Ca sa pricepi si sa-ntelegi
+Sfinte si desavarsite legi. :/
+
+[v2]
+Caci, in lume, s-au ivit multi invatatori
+Care-nvata ei gresit pe-ascultatori;
+Insa, cine-i luminat vine la izvor,
+Nu se lasa inselat de amagitori.
+
+[v3]
+Domnul mi-a intiparit sfantul Sau Cuvant
+Ca tu, cel ce ai primit sfantul legamant.
+Dar, la El priveste-n sus, ca sa ai temei,
+Daca Domnul sfant te-a uns cu al Sau ulei.
+
+[v4]
+Domnul Se va proslavi, prin viata ta,
+Daca la El vei veni si-L vei asculta;
+Vei iesi biruitor, prin trairea Lui,
+Dar sa fii increzator in bratul Domnului!

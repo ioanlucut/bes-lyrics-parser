@@ -1,0 +1,25 @@
+[title]
+Lasa azi in adunare {author: {Ionel Saran}, {rcId: {128268}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Câți bolnavi Isuse
+La scăldătoare sunt
+Ce strigă la Tine
+Doamne să Te-nduri.
+
+[c]
+/: Lasă azi în adunare
+Un balsam de vindecare,
+Ca să știe fiecare
+Căci mâna Ta, o, Isuse
+Mai alungă suferințe,
+Mai vindecă neputințe. :/
+
+[v2]
+Mai trimite Doamne
+La scăldătoare azi
+Din ceruri din slavă,
+Al Tău înger iar.

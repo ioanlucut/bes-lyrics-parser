@@ -1,0 +1,23 @@
+[title]
+Tu nu dispretuiesti o inima zdrobita {author: {Marian din Barbulesti}, {rcId: {225985}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+/: Astăzi vin să-mi cer iertare
+De a mea nescultare
+Vocea care îmi vorbea
+N-am ascultat-o Doamne :/
+
+[c]
+/: Tu nu disprețuiești o inima zdrobita
+Și nici nu părăsești pe cel cazut
+Te-apleci la cel ce are inima mahnita
+Și lacrimile-i strangi într-un burduf :/
+
+[v2]
+/: Tata primeste-ma la Tine
+Că un rob macar Stăpâne
+E-adevarat mult Ti-am gresit
+Fie-ti milă de mine :/

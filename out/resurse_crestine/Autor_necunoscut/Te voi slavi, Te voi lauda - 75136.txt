@@ -1,0 +1,29 @@
+[title]
+Te voi slavi te voi lauda {author: {Anonim}, {rcId: {75136}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+Te voi slavi, Te voi lauda
+Toata viata-Ti voi canta
+Te voi slavi, Te voi inalta
+Vesnic Te voi binecuvanta.
+
+[v1]
+Eu am strigat spre Tine Doamne
+Si din valul deznadejdii Doamne m-ai salvat
+Tu m-ai salvat m-ai izbavit viata am primit
+Tu esti Domnul Domnilor, fi in veci slavit.
+
+[v2]
+Dar Tu din groapa mortii Doamne m-ai ridicat
+Si o cantare noua in gura Doamne Tu mi-ai dat
+Si atunci picioarele sus pe stanca Tu le-ai asezat
+Ca sa-Ti cant osana Tie vesnic Imparat
+
+[v3]
+Iar cand pe nori cu slava mare Doamne vei veni
+Mireasa in intampinare atunci va iesi
+Pe poarta Imparatiei Tale Doamne vom intra
+Si-Ti vom canta o vesnicie acolo in slava Ta.

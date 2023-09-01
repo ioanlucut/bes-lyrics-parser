@@ -1,0 +1,41 @@
+[title]
+Ca si perechea fericita din eden {author: {Anonim}, {rcId: {177270}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ca și perechea fericită
+Din Eden, rai glorios,
+Ca și iubirea lor unită,
+Așa fiți voi, lângă Hristos!
+Mai mari fericiri în lume
+Nu veți avea, decât cu El.
+De-ți asculta de al Său Nume,
+Al vostru drum va duce-n cer!
+
+[c]
+/: Doamne, binecuvântează!
+Revarsă din cer pacea Ta!
+Viața lor, Doamne, le veghează!
+În urmă dă-le Patria! :/
+
+[v2]
+În viața voastră o să fie
+Zile cu nori, furtuni și ploi
+Și cer trist pe-a voastră câmpie
+Dar voi fiți unul, cu El doi.
+Vine și luna mai, cu soare,
+Cu cer senin și luminos,
+A primăverii adiere
+Vă aduce Isus Hristos!
+
+[v3]
+Prin traiul vostru, toți să vadă
+Calea dreaptă spre Dumnezeu!
+Poți fi exemplu, ca dovadă
+Că vă conduce El mereu.
+Atunci ce bine o să fie,
+Cetatea când o veți vedea,
+Intrând pe porți în veșnicie,
+Pe Dumnezeu Îl veți lăuda.

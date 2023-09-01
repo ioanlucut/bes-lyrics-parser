@@ -1,0 +1,29 @@
+[title]
+Azi a venit un copilas - do maj {author: {ed. Dan Istrate}, {rcId: {237934}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Azi a venit un copilaș
+Frumos, și dulce, și gingaș.
+El din fecioară S-a născut;
+Ce bucurie ne-a făcut!
+
+[v2]
+Acesta e Isus Christos,
+E Domnul nostru cel milos
+Ce vine ca Mântuitor,
+Iubind tot neamul muritor.
+
+[v3]
+El izbăvire din păcat
+Prin jertfa Sa ne-a câștigat,
+Și cei ce cred în Fiul Sfânt
+Vor fi pe veci în cerul sfânt.
+
+[v4]
+Cu toții să ne bucurăm
+Și laude-n veci de veci să-I dăm
+Căci azi din ceruri, Domnul sfânt
+Trimis-a Fiul pe pământ.

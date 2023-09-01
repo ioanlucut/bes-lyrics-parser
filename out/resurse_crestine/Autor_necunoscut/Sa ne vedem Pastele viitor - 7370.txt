@@ -1,0 +1,36 @@
+[title]
+Sa ne vedem pastele viitor {author: {Anonim}, {rcId: {7370}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Să ne vedem Paștele viitor,
+În țara mântuirii,
+Pe străzile cetății,
+În piață, la izvor,
+Cu Salvatorul lumii,
+Regele regilor.
+
+[c]
+Shalom, shalom, Ierusalim,
+Să vină Domnul Isus,
+Fața să-I vedem!
+Shalom, shalom,
+Pace fie-n Ierusalim,
+Pe Isus să-L lăudăm!
+
+[v2]
+Să ne vedem Paștele viitor,
+Din toate neamurile, din toate limbile,
+Să fim toți un popor,
+Să stăm toți la o masă,
+Cu Mielul jertfitor.
+
+[v3]
+Să ne vedem toți în Ierusalim,
+De copii, bătrâni și tineri
+Și de băieți și fete
+Orașul va fi plin.
+Deodată, sărbătoarea
+Așa o s-o-ncepem.

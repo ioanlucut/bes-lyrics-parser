@@ -1,0 +1,36 @@
+[title]
+Cel ce sta sub ocrotirea {author: {Marius Livanu}, {rcId: {104098}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Cel ce stă sub ocrotirea,
+Celui Preaînalt de sus,
+Și se odihnește-n umbra,
+Celui tare de nespus.
+Zice pururi despre Domnul,
+”
+El e cetățuia mea,
+Dumnezeul meu în care,
+Mă încred și voi scăpa.”
+
+[c]
+Mii să cadă lângă tine,
+Zeci de mii la dreapta ta,
+Nu te teme, căci de tine,
+Nu se va apropia.
+Doar vei sta și cât privi-vei,
+Împrejur cu ochii tăi,
+Vei vedea nenorocirea,
+Și răsplata celor răi.
+
+[v2]
+Nu te teme nici de groaza,
+Din a nopții negre vremi,
+Și nici de săgeata zilei,
+Tu nicicând să nu te temi.
+Căci la îngerii puternici,
+Dumnezeu va porunci,
+Și a tale căi în toate,
+Pururi ei te vor păzi.

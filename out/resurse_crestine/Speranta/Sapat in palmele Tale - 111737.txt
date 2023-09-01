@@ -1,0 +1,50 @@
+[title]
+Sapat in palmele tale {author: {Speranța}, {rcId: {111737}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Când eu am aruncat cu pietre
+Tu din pâinea Ta mi-ai dat
+Când răni adânci Ți-am făcut,
+Tu m-ai vindecat
+Ce dragoste, ce dragoste!
+Când la Golgota m-ai primit cu mâinile-ntinse!
+
+[c]
+Sunt săpat în palmele Tale
+La Golgota am primit iertarea
+/: Păcatul meu te-a răstignit
+Vina mea Te-a biciuit
+Iar Tu pe cruce cu dragoste m-ai primit. :/
+
+[v2]
+Când eu Ți-am adus rușine,
+Tu m-ai înfiat
+Când eu Te-am dat la moarte,
+Doamne, viață mi-ai dat
+Ce dragoste, ce dragoste,
+Când la Golgota m-ai primit cu mâinile-ntinse!
+
+[c2]
+Sunt săpat în palmele Tale
+La Golgota am primit iertare
+/: Păcatul meu Te-a condamnat
+Fruntea cu spini Ți-a-nsângerat
+Iar Tu pe cruce cu dragoste m-ai iertat. :/
+
+[v3]
+Când eu Ți-am dat oțet și fiere
+Apă vie mi-ai dăruit
+Când spatele Ți-am întors,
+Chiar și-atunci Tu m-ai primit
+Ce dragoste, ce dragoste
+Când la Golgota m-ai primit cu mâinile-ntinse!
+
+[c3]
+Sunt săpat în palmele Tale
+La Golgota am primit iertarea
+/: Păcatul meu Te-a lovit
+Vina mea Te-a rănit
+Iar Tu pe cruce din dragoste Te-ai jertfit. :/

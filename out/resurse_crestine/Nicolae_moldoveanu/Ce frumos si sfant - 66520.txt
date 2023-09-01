@@ -1,0 +1,37 @@
+[title]
+Ce frumos si sfant {author: {Nicolae Moldoveanu}, {rcId: {66520}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ce frumos și sfânt Isuse
+Este drumul crucii când
+Ascultând îndemnu-Ți dulce
+Zilnic îl pășim urcând.
+
+[c]
+/: Chiar când vin peste noi
+Încercări și nevoi
+Harul Tău ne este îndeajuns
+Tu ne porți roditori
+Dinspre noapte spre zori
+Cu nădejdea-n sfântul Tău răspuns. :/
+
+[v2]
+Ce nădejdi ne umplu viața
+Când privim încrezători
+Scumpa Ta făgăduință
+După stratul gros de nori.
+
+[v3]
+Ce lumină fericită
+Ne învăluie deplin
+Când pe aripi de credință
+Ne-nălțăm spre mai senin.
+
+[v4]
+Fericirea noastră-ntreagă
+Tu ne ești, iubit Isus,
+Du-ne Tu din treaptă-n treaptă
+Până-n vârful cel mai sus!

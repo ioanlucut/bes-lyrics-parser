@@ -1,0 +1,40 @@
+[title]
+Primavara dulce {author: {Anonim}, {rcId: {3805}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+Primăvară dulce, ne-a venit frumos
+Să cântăm cu toții, să cântăm cu toții
+A-nviat Hristos
+
+[v2]
+El ne-aduce nouă, harul cel de sus
+Să cântăm cu toții, să cântăm cu toții
+A-nviat Hristos
+
+[v3]
+Îngerii din ceruri cântă azi cu noi
+Și pe toți ne-ndeamnă, și pe toți ne-ndeamnă
+Înviați și voi
+
+[v4]
+Frați, surori, cu toții, într-un gând voios
+Haideți să-ne-nvie, haideți să-ne-nvie
+Și pe noi Hristos
+
+[v5]
+Haideți să fim fii Tatălui de sus
+Vine primăvara, vine primăvara
+Domnului Iisus
+
+[v6]
+Primăvară dulce, paradis frumos
+Umple viața noastră, umple viața noastră
+A-nviat Hristos
+
+[v7]
+Slavă Ție Doamne, Prea iubit Isus
+Primăvară dulce, primăvară dulce
+Tu ne-aduci de Sus!

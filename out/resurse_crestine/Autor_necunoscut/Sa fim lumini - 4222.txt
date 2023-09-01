@@ -1,0 +1,36 @@
+[title]
+Sa fim lumini {author: {Anonim}, {rcId: {4222}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Păstrați legătura frățească
+Și părtășia sfântă prin har
+/: Făclia fie-vă mereu aprinsă
+Urmând pe Domnul Isus la calvar :/
+
+[c]
+/: Să fim lumini să fim sare
+Să fim epistole vii
+Căci în curând Isus apare
+Și vom fi cu El in veșnicii :/
+
+[v2]
+Păstrați legătura-n rugăciune
+Și umplerea cu Duhul Lui cel Sfânt
+/: Să ducem Evanghelia in lume
+S-o ducem pîn la margini de pământ :/
+
+[v3]
+Veniți să depunem mărturie
+Cu viața noastră pân’ la calvar
+/: Căci Dumnezeu ne-a dat o-mpărăție
+Și lupta noastră nu va fi-n zadar :/
+
+[v4]
+Slujiți cu bucurie-n lucrare
+O clipă să nu stați neroditori
+/: Să vină har să vină îndurare
+Chemați-i la Isus pe-ascultători :/
+.

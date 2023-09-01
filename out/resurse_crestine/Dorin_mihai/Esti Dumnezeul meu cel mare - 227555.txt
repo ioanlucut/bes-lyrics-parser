@@ -1,0 +1,41 @@
+[title]
+Esti dumnezeul meu cel mare {author: {Dorin Mihai}, {rcId: {227555}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Inaintea Ta o Doamne mare,
+Vin acum cu adorare,
+Sa-ti multumesc ca viata mi-ai schimbat,
+Ca m-ai iertat,
+Azi prin bunatatea Ta, pot sa stau ’naintea Ta,
+Sa-ti multumesc ca esti in viata mea.
+
+[c]
+Esti Dumnezeul meu cel mare,
+Nu ai in lume-asemanare,
+Esti sfant, esti drept si minunat imparat,
+De multe ori te-am dezamagit,
+Dar Tu Doamne m-ai iubit,
+Isuse fi in veci de veci slavit!
+Esti Dumnezeul meu cel mare,
+Nu ai in lume-asemanare,
+Esti sfant, esti drept si minunat imparat,
+De multe ori te-am intristat,
+Dar Tu Doamne m-ai iertat,
+Isuse fi in veci glorificat!
+
+[v2]
+Isuse tot ce vreau acum,
+E sa ma conduci pe drum,
+Singur nu vreau sa pasesc nicicand pe Pamant,
+Langa Tine viata mea, isi gaseste linistea,
+Umple-ma azi de prezenta Ta!
+
+[c2]
+Esti Dumnezeul meu cel mare,
+Nu ai in lume-asemanare,
+Esti sfant, esti drept si minunat imparat,
+Toata viata te voi sluji, doar pentru Tine voi trai,
+Isuse te astept ca sa revi!

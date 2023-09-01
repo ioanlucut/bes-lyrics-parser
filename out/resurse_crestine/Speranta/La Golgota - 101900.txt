@@ -1,0 +1,37 @@
+[title]
+La golgota {author: {Speranța}, {rcId: {101900}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+La Golgota Isus pe-o cruce a fost pus
+Să moară El în locul tău și-n locul meu
+A luat povara grea, ce nimeni n-o purta
+Ca noi cu toți să fim salvați prin Jertfa Sa
+
+[c]
+O, Tată, O, Sfinte Tată
+Iartă-i căci ei nu știu ce fac!
+Tată, O, iartă-i Tată
+Căci pentru ei viața eu Mi-am dat
+La Golgota, pe crucea grea
+Eu am murit, căci i-am iubit
+
+[v2]
+Urcând pe deal din greu ai fost lovit din greu
+O, Domnul meu ce mult ai suferit!
+Păcatul cel amar l-ai dus sus la Calvar
+Scăpându-mă de iadul cel cumplit
+
+[v3]
+De sete ai răbdat, Tu Fiu de Împărat
+Acel ce ape le-ai făcut cu-al Tău cuvânt
+Cununi de spini pe cap Ți-am împletit degrab’
+Dar Tu pe toate le-ai răbdat și ne-ai iertat
+
+[v4]
+Acum la Crucea Ta vin cu povara ma
+Și te rog să mă faci Tu un copil al Tău
+Azi vin căci am greșit, știu c-am păcătuit
+Și mă întorc din lumea care m-a robit

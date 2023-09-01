@@ -1,0 +1,29 @@
+[title]
+Cea mai minunata zi {author: {Nicu Chereji}, {rcId: {218857}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cea mai minunată zi din viața mea
+A fost ziua când Lui Isus m-am predat
+/: Am adus la cruce totul și crezând al Lui Cuvânt,
+Am făcut cu Dumnezeu un legământ! : \
+
+[c]
+Azi am intrat în apa botezului
+Am luat exemplu pe Isus Hristos!
+Am să păstrez în suflet acest gând curat
+Și toată viața-I voi fi credincios!
+
+[v2]
+O, cât sunt de fericit căci Dumnezeu
+M-a spălat și m-a iertat de tot ce-i rău,
+/: Cu-a Lui Sânge fără vină a plătit iertarea mea
+Sunt copilul Domnului, Aleluia! : \
+
+[v3]
+Fără Tine aș fi doar pământ uscat
+Dar mărit să fii în veci și lăudat!
+/: Că m-ai prelucrat cu grijă, din belșug apă m-ai dat
+Minunat ești Dumnezeule Preaînalt! : \

@@ -1,0 +1,29 @@
+[title]
+Ai spus sa luam jugul tau {author: {Anonim}, {rcId: {196075}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Doamne de când m-ai chemat
+Numai de necaz am dat
+De necaz și de amar
+Că așa-i Drumul spre calvar
+
+[c]
+/: Ai spus să luăm jugul Tău
+Sarcina Ta că-i ușoară
+O Isuse, Domnul meu
+Incercarea mă doboară :/
+
+[v2]
+Doamne de când m-ai ales
+De necaz eu dau mai des
+Vrăjmași mă prigonesc
+Că așa-i drumul Tău ceresc
+
+[v3]
+Doamne să-mi dai biruința
+Și mărește a mea credința
+Dă-mi Doamne multă răbdare
+Să birui in încercare.

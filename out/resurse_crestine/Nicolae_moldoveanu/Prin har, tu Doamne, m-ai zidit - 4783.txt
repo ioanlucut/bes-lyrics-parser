@@ -1,0 +1,43 @@
+[title]
+Prin har tu doamne m-ai zidit {author: {Nicolae Moldoveanu}, {rcId: {4783}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Prin har, Tu, Doamne, m-ai zidit
+Ca să Te-nalț pe Tine.
+Și-n toate ce mi-ai dăruit
+Tu să te vezi mai bine.
+
+[c]
+M-ai făcut lucrarea Ta,
+Doamne, pentru veci așa
+Să te bucuri Tu de ea;
+Necurmat, necurmat,
+Să te bucuri Tu de ea.
+
+[v2]
+Să fiu spre-al Tău folos deplin,
+Să-Ți ai plăcerea-n mine;
+La tot ce-mi spui să zic ”
+Amin”
+Și să Te-nalț pe Tine!
+
+[v3]
+Smochin în drumul Tău m-ai pus
+Cu roadele-n ciorchine,
+Să le mănânci și jos și Sus,
+Și să Te-nalț pe Tine.
+
+[v4]
+O harfă veșnică mi-ai dat
+Cu strune-n veci divine,
+Și-n cântecul ei minunat
+Să Te înalț pe Tine.
+
+[v5]
+Aceasta este rostul meu
+Și vreau să-l știu mai bine,
+Ca pretutindenea mereu
+Să Te înalț pe tine!

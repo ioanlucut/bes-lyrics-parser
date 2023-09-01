@@ -1,0 +1,35 @@
+[title]
+Nu-i usor sa urci pe munte {author: {Nicu Wagner}, {rcId: {4027}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Nu-i ușor să urci pe munte
+Când cei mulți coboară-n jos;
+Nu-i ușor să mergi spre țintă
+Când cei mulți n-au pe Cristos.
+
+[c]
+/: Nu-i ușor, dar ajutorul
+Îl dă azi Isus Cristos.
+El e-n veci biruitorul,
+Cu El ești victorios. :/
+
+[v2]
+Nu-i ușor să ai credință
+Din ce-auzi și ce nu vezi;
+Nu-i ușor s-aștepți un lucru
+Când tu pe deplin nu crezi.
+
+[v3]
+Nu-i ușor să mergi pe drumul
+Plin de noapte și noroi,
+Să-ți păstrezi haina curată
+Pentru ziua de apoi.
+
+[v4]
+Nu-i ușor să lupți cu tine,
+Nu-i ușor a te smeri;
+Să renunți de tot la sine,
+Nu-i ușor a reuși.

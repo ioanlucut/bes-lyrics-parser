@@ -1,0 +1,33 @@
+[title]
+Pe drumul care urca {author: {Anonim}, {rcId: {193268}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Pe drumul care urcă spre tronul prea înalt
+Nu-s străzile zidite din ciment sau bazalt.
+Nici nori ce-aduc furtuna, nici vânturi, nici stihii,
+nici soare sau înghețuri nu sunt spre-a ne opri.
+
+[c]
+Cu dorul mântuirii urca-vom tot mai sus
+Ne dă puteri chemarea iubirii lui Isus
+
+[v2]
+Spre locul veșniciei din cerul minunat,
+Nu sunt poteci ascunse mai lesne de urmat.
+Nici cărăuși de sarcini plătiți nu vei afla,
+Căci fiecare-și urcă cu greu povara sa.
+
+[v3]
+O lume-ntunecată de norii grei și reci.
+Nu căuta plăcere în alte patimi seci!
+Căci mult mai minunată e calea lui Isus,
+Ca o cunună-i viața trăita-n legea Lui!
+
+[v4]
+Și când ajunși pe culme povara-ți vei lăsa,
+Vei știi că nu zadarnic urmat-ai calea Sa.
+Căci ce-a fost viața-n fața întinsei veșnicii?
+Un picurel de rouă sub raze aurii.

@@ -1,0 +1,35 @@
+[title]
+Ce frumosi sunt acei tineri {author: {Ovidiu Pal}, {rcId: {4456}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ce frumoși sunt acei tineri, care călătoresc
+Și Cuvântul Sfânt în lume, îl vestesc.
+Ce frumoasă-i alergarea, când mergi cu Domnul Isus
+Și te lași de Duhul Sfânt pe brațe dus.
+Noapte și zi oriunde-ai fi,
+Nu înceta omule a-I sluji.
+
+[c]
+Glorie în veșnicii,
+Celui care a fost și va veni.
+Glorie lui Dumnezeu,
+În Sfânt Sângele Fiului Său.
+
+[v2]
+Vreau să merg în alergare orișice s-ar întâmpla,
+Să vestesc lumii întregi evanghelia.
+Nu sunt singur totdeauna, când ma duc pe a Lui drum,
+Sunt cu Tatăl, Fiul si cu Duhul Sfânt.
+Mă călăuzește, de rău mă ferește,
+Bucuros mereu eu am să-I cânt.
+
+[v3]
+Privește această lume, la norul întunecat
+Care peste tot pământul s-a lăsat,
+Nu e cale de ieșire decât în Cuvântul Sfânt
+Care te va smulge de pe acest pământ.
+Încă se mai poate, schimba viața ta,
+Predă-te omule la crucea Sa.

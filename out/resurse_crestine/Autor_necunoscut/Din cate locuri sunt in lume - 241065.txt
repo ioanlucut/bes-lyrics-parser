@@ -1,0 +1,36 @@
+[title]
+Din cate locuri sunt in lume {author: {Anonimo}, {rcId: {241065}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Din câte locuri sunt în lume,
+Nu-i nici un loc ca Golgota!
+Acolo ceru-i mai aproape,
+/: Acolo simt iubirea Ta! :/
+.
+
+[c]
+Mai bine-i lângă tin’ Isuse,
+Mai bine-i lângă crucea Ta,
+Acolo mă-ntâlnesc cu Tine,
+/: Acolo-mi vindeci rana mea! :/
+
+[v2]
+E-așa de dulce părtășia
+când vin Isus-naintea ta
+Prezența ta mă copleșește
+/: Și de acolo n-aș pleca! :/
+
+[v3]
+La cruce la Calvar, Isuse,
+Tu Te-ai jertfit că ne-ai iubit,
+Acolo viața mea schimbată
+/: A fost când Tu m-ai întâlnit! :/
+
+[v4]
+Isuse, Tu ești Frumusețea
+Ce va răsfrânge la Calvar,
+Ea schimbă și-noiește viața
+/: Și celui păcătos dă har! :/

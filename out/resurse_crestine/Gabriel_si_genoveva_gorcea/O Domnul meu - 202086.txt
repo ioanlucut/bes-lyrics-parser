@@ -1,0 +1,28 @@
+[title]
+O domnul meu {author: {Gabriel și Genoveva Gorcea}, {rcId: {202086}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Inima-m cântă, de bucurie, sunt vesel fericit
+Căci Dumnezeu pentru veșnicie viață
+mi-a dăruit
+Ea dă credință și biruință, prin El o pot avea
+Și am mai primit prin făgăduință nădejdea și dragostea.
+
+[c]
+/: O Domnul meu, o Domnul meu
+Eu sunt al Tău, deacea îți mulțumesc mereu. :/
+
+[v2]
+Ma învățat și mi-a dat putere prin al Său Sfânt cuvănt
+Să pot oricând și orice mi-ar cere cât voi fi pe pământ
+Treci printr-o viață de rugăciune vreau să Îi mulțumesc
+Și prin cuvântului tot ce m-ar cere vreau să împlinesc.
+
+[v3]
+Atât credința cât și nădejdea nu pot călăuzi
+Doar pe pământ și viața aceasta atât cât voi trăii
+Nu va conduce în veșnicie cu El voi fii mereu
+Dragostea care e neperitoare, dragostea e Dumnezeu.

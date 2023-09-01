@@ -1,0 +1,42 @@
+[title]
+Pe frunze de palmier in crang {author: {Dionisie Giuchici}, {rcId: {5876}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Pe frunze de palmieri în crâng,
+Cad stropii reci de ceață;
+Părinții lui Abel plâng,
+Căci el s-a stins din viață.
+
+[c]
+/: „
+O, fiu iubit și minunat,
+De ce te-ai dus departe?
+Acuma știm cu-adevărat
+C-această-nseamnă moarte.” :/
+
+[v2]
+Cu fața așezată-n sus,
+Iar mama nici nu știe -
+Sărmanul Abel doarme dus
+Pe iarbă din câmpie...
+
+[v3]
+Acolo-n vale, lângă crâng,
+Stau oile străine
+Ce toate behăie și plâng,
+Căci Abel nu mai vine.
+
+[v4]
+Căci moartea e ca un străin,
+Adeseori ți-e frate;
+Pe Abel l-a ucis Cain,
+Cuprins de răutate.
+
+[v5]
+De atunci, oh! mii de mame plâng
+Și-așteaptă în grădină
+Și inima de dor și-o frâng,
+Tot aștaptând să vină.

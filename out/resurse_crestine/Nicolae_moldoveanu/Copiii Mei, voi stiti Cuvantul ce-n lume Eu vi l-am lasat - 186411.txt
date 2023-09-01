@@ -1,0 +1,41 @@
+[title]
+Copiii mei voi stiti cuvantul ce-n lume eu vi l-am lasat {author: {Nicolae Moldoveanu}, {rcId: {186411}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Copiii Mei, voi știți Cuvântul
+Ce-n lume Eu vi l-am lăsat;
+/: Ferice dacă-n ascultare
+Îl veți trăi cu-adevărat! :/
+
+[v2]
+Voi știți ce taină e credința
+Păstrată-n cuget curățit,
+/: Ferice dacă neschimbată
+O veți ținea pân-la sfârșit! :/
+
+[v3]
+Voi știți ce dragoste fierbinte
+V-am poruncit în voi s-aveți,
+/: Ferice dac-aceasta fi-va
+Comoara voastră mai de preț! :/
+
+[v4]
+Voi știți că pacea mea cerească
+Dă harul sfintei mângâieri,
+/: Ferice dacă-n ea rămâneți,
+Când vin ispite și dureri! :/
+
+[v5]
+Voi știți ce dulce-i părtășia
+Cu Dumnezeul cel slăvit
+/: Ferice de veți fi-n lumină,
+Și credincioși de neclintit! :/
+
+[v6]
+Voi știți!... Voi știți ce este bine
+Cunoașteți toată voia Mea,
+/: Ferice dacă totdeauna,
+Veți fi găsiți deplin în ea!.. :/

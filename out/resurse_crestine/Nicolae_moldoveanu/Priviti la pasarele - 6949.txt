@@ -1,0 +1,17 @@
+[title]
+Priviti la pasarele {author: {Nicolae Moldoveanu}, {rcId: {6949}}
+
+[sequence]
+v1,v2
+
+[v1]
+Priviți la păsărele, ce dulce ciripesc.
+Gândiți-vă la ele, pe cine preamăresc?
+Priviți și fluturașii, priviți la gândăcei,
+Priviți și greierașii, un cântec au și ei.
+
+[v2]
+În freamătul de codru, în murmur de izvor,
+În zumzet de albine, e-un viu și dulce cor.
+Și tu, copile, dragă, cu glasul tău, mereu,
+/: Slăvește, fără teamă, pe Bunul Dumnezeu. :/

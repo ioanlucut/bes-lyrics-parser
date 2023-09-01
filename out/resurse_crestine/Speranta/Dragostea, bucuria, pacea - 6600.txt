@@ -1,0 +1,29 @@
+[title]
+Dragostea bucuria pacea {author: {Speranța}, {rcId: {6600}}
+
+[sequence]
+v1,c,v2,c,v4,c
+
+[v1]
+Pe pământ sunt doua feluri de pomi roditori.
+Unii au roade bune, alții sunt dăunători.
+Unii sunt plini de fire, n-au nimic bun, nici sfânt.
+Alții au roade bune, și aceste roade sunt:
+
+[c]
+/: Dragostea, bucuria, pacea,
+Bunătatea si răbdarea sfinților,
+Facerea de bine si credincioșia,
+Blândețea și-nfrânarea poftelor. :/
+
+[v2]
+Frate drag ce-asculți cântarea, în ce soi ești altoit?
+Care-i roadă ce-o aduci? În ce grădină-ai fost zidit?
+Care-ți este grădinarul? Cine iți culege rodul tău?
+Nu uita că roada bună o vrea Domnul Dumnezeu!
+
+[v4]
+Cel ce nu ai roade sfinte, vino la Isus acum!
+Lasă calea de păcate! Vino pe noul drum!
+Roadele murdare vor pieri de vii la Domnul Sfânt!
+Vei aduce roade noi, și aceste roade sunt:

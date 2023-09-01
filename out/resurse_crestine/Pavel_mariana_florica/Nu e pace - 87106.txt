@@ -1,0 +1,41 @@
+[title]
+Nu e pace {author: {Pavel Mariana, Florica}, {rcId: {87106}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Nu e pace, nu e pace
+Niciodată pe pământ
+Până când Dumnezeu face
+Să lucreze Duhul Sfânt.
+
+[c]
+Doamne, fă-mi și mie parte
+Zilnic de prezența Ta
+Să am și eu bucurie,
+Dragoste și pacea Ta.
+
+[v2]
+Numai Duhul liniștește
+Orice ură și război.
+Când în inimi locuiește
+El va naște oameni noi.
+
+[v3]
+Doamne, nu-i nici bucurie
+Niciodată pe pământ
+Până nu dai curăție
+Prin sângele Tău cel sfânt.
+
+[v4]
+Nu-i iubire, nu-i iubire
+Pe pământ, frate, să știi
+Cât trăiește vechea fire
+Egoist mereu vei fi.
+
+[v5]
+Numai când Hristos trăiește
+Deplin în ființa ta
+Dragostea ce se jertfește
+Îți va umple inima.

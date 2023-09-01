@@ -1,0 +1,29 @@
+[title]
+Cantarea mea {author: {Anonim}, {rcId: {235259}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pășesc pe calea ce duce-n veșnicie,
+prin lumea plină de valuri și-ncercări.
+Eu nu mă tem căci știu că ești cu mine.
+Ai fost și vei rămâne Domnul meu!
+
+[c]
+Cântarea mea e pentru Tine,
+din inimă, o, Domnul meu!
+Cântarea mea ce răsuna-va
+curând în slavă în cerul tău
+
+[v2]
+A fost o zi atât de minunată
+din clipa-n care eu te-am cunoscut!
+De-atunci Isus tu ai rămas cu mine.
+Îți mulțumesc și te iubesc nespus!
+
+[v3]
+Ai pus în mine o cântare nouă.
+Cu glasul meu eu te voi lăuda.
+Aș vrea să-ți cânt o veșnicie-ntreagă
+și-n ziua-n care spre cer eu voi pleca.

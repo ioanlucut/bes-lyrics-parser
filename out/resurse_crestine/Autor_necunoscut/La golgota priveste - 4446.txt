@@ -1,0 +1,45 @@
+[title]
+La golgota priveste {author: {Anonim}, {rcId: {4446}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+La Golgota priveste
+Pe Isus rastignit!
+Durerea-L copleseste,
+Caci chinu-l e cumplit
+
+[c]
+/: Crede, crede pentru tine-amurit!
+Crede, crede si vei fi mantuit! :/
+
+[v2]
+Siroaie mari de singe
+Se scurg pe fata Lui,
+Caci spinu-adinc se-nfige
+In fruntea Domnului.
+
+[v3]
+Pe cruce inaltata,
+Piroane-L tintuesc;
+Cu ura-nversunata, 
+Vrasmasii-L chinuesc.
+
+[v4]
+Batrinii, carturarii
+De-aproape ilprivesc;
+Uniti cu marii preoti,
+Greu il bajocoresc
+
+[v5]
+Dar chinul cel de moarte
+E inauntrul Sau
+De Tatal il desparte
+Pacatul meu si-al tau
+
+[v6]
+El sufera-n tacere
+Jerfindu-Si viata Sa
+Iubirea-I da putere
+Paharu-amar sa bea.

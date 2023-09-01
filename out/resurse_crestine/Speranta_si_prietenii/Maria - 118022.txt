@@ -1,0 +1,46 @@
+[title]
+Maria {author: {Speranța și prietenii}, {rcId: {118022}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+/: Într-o cetate-n Galileea
+Duhul Sfânt s-a coborât
+Caută pe-aceea fecioară,
+Cea mai sfântă pe pământ. :/
+
+[c]
+„
+Maria, Maria tu-L vei naște pe Mesia,
+Maria, Maria tu-L vei naște pe Mesia,
+Maria, Maria tu-L vei naște pe Mesia,
+Maria, Maria tu-L vei naște pe Mesia.”
+
+[v2]
+/: Într-o cetate-n Galileea
+Îngerul a fost trimis
+La o fecioară logodită
+Căreia așa i-a zis: :/
+
+[v3]
+/: „
+Plecăciune ție care
+Din cer ai primit mult har
+Tu-L vei naște pe Cel care
+Va învinge la Calvar.” :/
+
+[v4]
+/: ”
+Cum se face lucru-acesta ?
+Doamne eu fecioară sunt”
+”
+O, cu tine va fi Domnul
+Peste tine, Duhul Sfânt!” :/
+
+[v5]
+/: ”
+Iată roaba Domnului
+Facă-mi-se cum Tu spui
+O, ce îndurare mare
+Să fiu Maica Domnului! :/

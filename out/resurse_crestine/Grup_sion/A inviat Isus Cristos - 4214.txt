@@ -1,0 +1,45 @@
+[title]
+A inviat isus cristos {author: {Grup Sion}, {rcId: {4214}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+A înviat Isus Cristos,
+El, începutul vieții!
+La dreapta Tatălui ceresc stă azi
+Ca Prinț al păcii!
+A înviat Isus Cristos
+Cuvîntul Sfînt ne spune.
+Mormântul gol și piatra grea
+Ne stau azi mărturie.
+
+[c]
+E veselie pe pamânt,
+Se bucur-omenirea,
+Că a-nviat Isus Cristos!
+Osana Aleluia!
+Prin El suntem răscumpărați!
+Prin El avem iertare!
+Slăvim și binecuvântam
+Ziua-nvierii Sale!
+
+[v2]
+A înviat Isus Cristos!
+Ce mare bucurie!
+De azi prin har suntem chemați
+Cu toți la mântuire!
+A înviat Isus Cristos
+În slavă și putere!
+Veniți, cântați cu noi în cor
+Despre a Sa-nviere!
+
+[v3]
+A înviat Isus Cristos
+Din moarte la viață!
+Va trece orice păcătos
+Prin jertfa Sa măreață!
+A înviat Isus Cristos!
+El boldul morții frânta!
+De astăzi orice credincios
+În veci prin El trăi’va!

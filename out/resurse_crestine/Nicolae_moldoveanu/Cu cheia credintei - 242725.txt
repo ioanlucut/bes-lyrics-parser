@@ -1,0 +1,29 @@
+[title]
+Cu cheia credintei {author: {Nicolae Moldoveanu}, {rcId: {242725}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Cu cheia credinței descui
+A cerului poartă,
+Și-n toate splendorile lui
+Pe mine mă poartă.
+
+[c]
+Mă plimbă-n cămări de smarald
+Cu stropi de rubine,
+Isuse-n lumină mă scald
+Alături de Tine.
+
+[v2]
+Palatele-ntregului har
+Deschise-mi sunt toate,
+Și sori de iubire-mi răsar,
+Prin sfânta Cetate...
+
+[c2]
+O, cheie-a credinței de sus
+O, scut al tăriei,
+Prin tine mă face Isus
+Un fiu al veciei.

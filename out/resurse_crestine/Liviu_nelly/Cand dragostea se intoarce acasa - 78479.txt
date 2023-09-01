@@ -1,0 +1,23 @@
+[title]
+Cand dragostea se intoarce acasa {author: {Liviu, Nelly}, {rcId: {78479}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Pe pământ pornim viața la fel
+Doar timpul spune ce-am luat sau dragostea ce-am dat
+Cel mai scump e timpul petrecut
+Lângă cei pe care îi iubim și-aproape îi dorim
+
+[c]
+/: Când dragostea se-ntoarce acasă
+Ea va lumina chiar noaptea cea mai grea
+Doar dragostea o pace sfântă-n inimi va turna,
+Doar dragostea :/
+
+[v2]
+Între soți sau între prieteni buni
+Armonia ce e între ei contează cel mai mult
+Fiu preasfânt pentru noi Te-ai jertfit
+Așa iubire s-arătăm cum și noi am primit

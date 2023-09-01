@@ -1,0 +1,41 @@
+[title]
+Daca as avea {author: {Gabriel Gorcea și prietenii}, {rcId: {72608}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Dacă aș avea bogăția lumii
+Aur și palate,
+Dacă nu am un mântuitor
+În zadar sunt toate,
+
+[c]
+Fără mântuire sunt pierdut,
+Sunt ca o frunză moartă la pământ,
+Isus Hristos e mântuirea mea
+El s-a jertfit pe dealul Golgota.
+
+[v2]
+Dacă aș avea faimă și renume
+Slava pământească,
+Fără Isus eu am sa pierd
+Slava dumnezeiască.
+
+[v3]
+Fără Hristos eu rătăcesc,
+În bezna nopții bâjbâiesc,
+Cu Isus voi străluci
+Când voi ajunge-n veșnicii.
+
+[v4]
+Dacă aș avea bani și putere
+Oare ce folos
+Dacă îmi pierd sufletul meu
+Și nu-l am pe Hristos.
+
+[v5]
+Sunt făptura care m-ai creat
+După chipul sfânt și minunat,
+Te înalț și te slăvesc mereu
+Doamne Tu ești Dumnezeul meu.

@@ -1,0 +1,38 @@
+[title]
+Atatea flori sunt in gradina {author: {Nicolae Moldoveanu}, {rcId: {5631}}
+
+[sequence]
+v1,v3,v4,v5,v6,v7,v8,v9
+
+[v1]
+Atatea flori sunt in gradina o Si-atatia crini ce s-au uscat,
+/: Caci vantul sufla, fara mila, o Din rasaritu-ndepartat. :/
+
+[v3]
+Si, ce durere e-n gradina, o C-atatia crini s-au vestejit!
+/: Si plange raza cristalina o Si roua cerului iubit. :/
+
+[v4]
+Iar petalele iubirii o Ce raspandesc miros de crini,
+/: Acoperite-s in tarana. o Ah, ce durere si suspin! :/
+
+[v5]
+Si plange Gradinaru-ntruna, o Isus, Care le-a altoit;
+/: A-mantuirii flori din lume, o Ce negru vant le-a ofilit! :/
+
+[v6]
+Cu stropi de lacrimi, in gradina, o El le-a sadit pe inaltimi,
+/: Dar n-au prins toate radacina. o Ah, ce durere, ce suspin! :/
+
+[v7]
+Asculta, suflete, acuma o Ce porti, in piept, un crin ceresc:
+/: Nu stii ca Isus Si-a-ntins mana o Si zice: „
+Vino, te primesc!”? :/
+
+[v8]
+Nu vrei sa fii azi, in gradina, o Un crin ceresc, mirositor?
+/: Acolo, vantul nu mai sufla o Si harul e imbietor. :/
+
+[v9]
+Ah, recunoaste-ti astazi vina o Si ofilirea in pacat!
+/: Isus te cheama, te primeste, o Caci harul Lui e minunat. :/

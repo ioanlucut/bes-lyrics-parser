@@ -1,0 +1,36 @@
+[title]
+Sa modelezi mereu din huma soare {author: {Nicolae Moldoveanu}, {rcId: {246454}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Să modelezi mereu din humă soare,
+Să faci din întristare bucurie,
+/: Din umilință treaptă de ’nălțare,
+E slujba sfântă dăruită ție! :/
+
+[v2]
+Să faci ca să țâșnească totdeauna
+Izvoare de viață în pustie,
+/: Să nimicești oriunde vezi minciuna,
+E slujba sfântă dăruită ție! :/
+
+[v3]
+Să colorezi oricând frumoase fețe
+Cu-a dragostei culoare pururi vie,
+/: Să sameni pretutindeni tinerețe,
+E slujba sfântă dăruită ție! :/
+
+[v4]
+Să torni în inimi proaspătă putere
+Și-avânt spre-a Domnului Împărăție
+/: Să mângâi și s-a
+Iini orice durere,
+E slujba sfântă dăruită ție! :/
+
+[v5]
+Iar calea strâmtă când ți-o fi sfârșită,
+Și când plinită slujba o să-ți fie,
+Primi-vei în vecia fericită
+Cununa slavei pregătită ție!

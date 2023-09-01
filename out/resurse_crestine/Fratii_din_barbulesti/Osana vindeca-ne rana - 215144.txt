@@ -1,0 +1,30 @@
+[title]
+Osana vindeca-ne rana {author: {Frații din Bărbulești}, {rcId: {215144}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Osana striga poporul,
+Laudat sa fie Domnul.
+Se prezinta in adunare,
+Si aduce -nviorare.
+
+[c]
+Osana, vindeca-ne rana,
+Osana azi te rugam.
+Osana striga adunarea,.
+Marire Lui Dumnezeu
+
+[v2]
+Osana Fiul Lui David
+Fie-ti mila si de noi.
+Vindeca-na ranile
+Ridica-ne starile
+
+[v3]
+Osana Cantam cu totii
+Glorie Lui Dumnezeu
+Ne-a scapat de tot ce-i rau
+Si î
+L Laudam mereu.

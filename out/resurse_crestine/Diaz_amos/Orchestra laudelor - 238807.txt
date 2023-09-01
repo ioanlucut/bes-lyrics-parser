@@ -1,0 +1,23 @@
+[title]
+Orchestra laudelor {author: {Diaz Amos}, {rcId: {238807}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Să cânte orchestra spre lauda Ta,
+Să strige și marea cu tot ce e în ea!
+Orchestra iubirii se înalță sublim,
+Spre slavă, spre soare, spre cerul senin!
+
+[c]
+Simfonia caldă răsună cu dor,
+În dulce înfrățire a cântărilor!
+Podoaba senină presărată spre stol,
+Să cânte cu foc orchestra laudelor!
+
+[v2]
+Armonie dulce în cald mărgăritar;
+Sublimă cântarea se ‚nalță spectral!
+Ce cântec de laudă intonează maestra,
+Răsună cu foc către cer drag, orchestra!

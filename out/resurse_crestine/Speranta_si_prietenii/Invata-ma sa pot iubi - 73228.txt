@@ -1,0 +1,29 @@
+[title]
+Invata-ma sa pot iubi {author: {Speranța și prietenii}, {rcId: {73228}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Învață-mă să pot iubi,
+Atunci când ura-mi stă în față;
+Învață-mă să pot sluji,
+Atunci când eul mă înalță.
+
+[c]
+/: Vreau să fiu al Tău,
+Să Te urmez pe Tine.
+Ajută-ma mereu,
+Să fiu lumină-n lume! :/
+
+[v2]
+Învață-mă să pot răbda,
+Când alții mă batjocoresc;
+Să fac în toate voia Ta,
+Și numai Ție să-Ți slujesc.
+
+[v3]
+Învață-mă să pot umbla,
+Pe calea care duce sus;
+Învață-mă să Te urmez,
+Pe Tine, Domnul meu, Isus!

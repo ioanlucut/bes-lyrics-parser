@@ -1,0 +1,31 @@
+[title]
+Scumpa mea comoara {author: {Marta_Bergheaua}, {rcId: {241357}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Scumpa mea comoară, Tu îmi ești Isuse!
+Tu ești tot ce am aici de preț!
+Ești izvor de pace, har și bunătate.
+Doar cu Tine am sfinte dimineți!
+
+[c]
+Tu ești Domnul vieții mele!
+Tu îmi alini orice durere!
+Să Îți cânt cu acei răscumpărați!
+Tu îmi ești stânca minunată!
+Tu îmi ești mamă, Tu îmi ești tată!
+Și mi-ai dat în dar surori și frați!
+
+[v2]
+Scumpa mea comoară, ești Isuse dulce!
+Tu ești tot ce am aici mai drag!
+Ești izvor de milă, har și bunătate!
+Fii mereu al vieții mele steag!
+
+[v3]
+O rămâi cu mine, scumpa mea comoară!
+Ține-mă mereu la pieptul Tău!
+Prin a morții vale, fii a mea scăpare!
+O, Isuse, fii Păstorul meu!

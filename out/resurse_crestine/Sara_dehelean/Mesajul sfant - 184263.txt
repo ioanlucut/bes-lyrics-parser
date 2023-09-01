@@ -1,0 +1,41 @@
+[title]
+Mesajul sfant {author: {Sara Dehelean}, {rcId: {184263}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Al lumii miraj de nespus,
+Promis de străine chemări,
+Ca norii de fum a apus,
+În sufletul frânt de trădări.
+
+[c]
+Departe de al său cămin,
+De-un tată iubitor,
+Departe de tot ce-a fost sfânt
+Și de-al său uitat Salvator.
+
+[v2]
+Povara de grijuri e grea
+Și-n suflet apasă mereu
+Durerea în inima sa
+Se-așterne, se-așterne mai greu.
+
+[c2]
+Pe drumuri străine căzut,
+Șoptește-n lumina din zori
+Azi vin cu păcatul meu mult
+Și dorul de-al meu Salvator.
+
+[v3]
+În ruga-necată-n suspin,
+Și-n lacrimi sub cruce, plângând,
+E darul iubirii divin:
+Iertarea prin Sângele Sfânt.
+
+[c3]
+Lăcașul regesc, de cleștar,
+Deschis este și pentru el
+Ce fericit pășește prin har,
+Cu Domnul, pe calea spre cer.

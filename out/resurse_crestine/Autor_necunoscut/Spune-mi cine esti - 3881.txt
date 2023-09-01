@@ -1,0 +1,33 @@
+[title]
+Spune-mi cine esti {author: {Anonim}, {rcId: {3881}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Spune-mi cine ești
+Și unde vei pleca de aici
+Spune-mi dacă ști
+Unde-ai să fi în veșnicii
+
+[c]
+Ești copilul Domnului
+Vei pleca în raiul Său
+Vei pleca în veșnicii
+Cu cel bun sau cu cel rău
+Suntem copiii Domnului
+Și cetățeni ai cerului
+Vom fii-mpreună-n raiul Său
+Vom fii mereu cu Dumnezeu
+
+[v2]
+Spune-mi dacă vrei
+Să te întorci la Domnul tău
+Spune-mi că dorești
+Să te ridici spre slăvile cerești
+
+[v3]
+Spune, spune da
+Isuse Doamne te primesc
+Spune da voiesc
+De astăzi vreau cu tine să trăiesc.

@@ -1,0 +1,41 @@
+[title]
+Alege tu isuse pentru mine {author: {Lidia Gheorghe}, {rcId: {115634}}
+
+[sequence]
+v1,c,v2,c,v3,c2,v4,c2
+
+[v1]
+Alege Tu, Isuse, pentru mine,
+Că Tu știi ce pot, că Tu m-ai creat,
+Să iau din mâna Ta totul e bine,
+Căci pân-acum tot Tu m-ai ajutat.
+
+[c]
+/: Ca să lupt, eu nu pot singur,
+Doar cu Tine-am biruinți,
+În tot ceea ce-mi stă-n față,
+Dă-i putere-a mele minți. :/
+
+[v2]
+Osana Îți aduc acum și pururi,
+Căci din multe necazuri Tu m-ai scos,
+Când mă zbăteam robit, legat în lanțuri,
+Izbânda s-a ivit, Isus Hristos.
+
+[v3]
+Aș vrea să-ascult de Tine toată viața
+Și să-mi păstrez tainicul legământ,
+Să-mi fie luminată toată fața
+E cel mai important pe-acest pământ.
+
+[c2]
+/: Mulțumesc că-mi ești de-a pururi
+Veșnicul meu ajutor,
+Am la cin’ s-aduc povara,
+La Cel ce mi-e Salvator. :/
+
+[v4]
+Rămâi și locuiești pe veci în mine
+Și-atunci toate mi se vor rezolva
+Și eu să Te slujesc cum pot mai bine,
+Atunci eu mulțumire voi avea.

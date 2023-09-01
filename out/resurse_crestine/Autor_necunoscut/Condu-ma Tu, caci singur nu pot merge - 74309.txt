@@ -1,0 +1,29 @@
+[title]
+Condu-ma tu caci singur nu pot merge {author: {Anonim}, {rcId: {74309}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Condu-mă Tu, căci singur nu pot merge,
+Nici drumul nu-l cunosc pe care merg.
+/: Nu știu nici viața ce-mi poate aduce
+De-aceea eu Te rog să mă conduci :/
+
+[v2]
+Condu-mă Tu, nu vreau să merg nici singur,
+Căci mă așteaptă multe ispitiri,
+/: Iar eu sunt slab, de mine nu sunt sigur,
+Dar biruiesc doar prin prezența Ta :/
+
+[v3]
+Condu-mă Tu, n-am voie să merg singur,
+Tu mi-ai promis că mergi-naintea mea.
+/: Călăuzirea Ta mă duce sigur,
+Tu prinde mâna mea în mâna Ta :/
+
+[v4]
+Condu-mă Tu, așa va fi într-una,
+Ție mă dau, apucă mâna mea.
+/: Cărarea de-i întunecată, aspră,
+Tu mă condu, nicicând nu mă lăsa :/

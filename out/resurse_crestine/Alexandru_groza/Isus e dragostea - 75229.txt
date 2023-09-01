@@ -1,0 +1,27 @@
+[title]
+Isus e dragostea {author: {Alexandru Groza}, {rcId: {75229}}
+
+[sequence]
+c,e,v1,c,e
+
+[c]
+Isus e dragostea
+Isus te poate vindeca
+Vino la El acum
+Nu-ntârzia pe drum
+Isus e dragostea
+Cu El în Slavă tu vei sta
+Vino la El acum
+Nu zabovi pe drum
+
+[e]
+/: Vin la Isus :/
+/: Vin la Isus :/
+
+[v1]
+Vrei tu să fii azi spălat, vindecat
+De al tău păcat
+Vin azi la Isus acum
+El te primește și te mântuiește
+De al tău păcat
+Vin’ la Isus acum

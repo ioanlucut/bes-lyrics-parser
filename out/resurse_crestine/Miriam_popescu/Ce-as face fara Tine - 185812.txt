@@ -1,0 +1,43 @@
+[title]
+Ce-as face fara tine {author: {Miriam Popescu}, {rcId: {185812}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Ești mai mult decât pot cere
+În adânca-mi suferință.
+Ești izvor de apă vie
+Când sufletul mi-e stins și plânge.
+Ești tăria mea, o, Doamne,
+În necazul meu ce doare.
+Ține-mă de mână tare,
+Vreau să-nving cu tine, Doamne.
+
+[c]
+/: Ce-aș face fără Tine în clipe grele?
+Ce-aș fi fără de Tine când sunt răpus? :/
+
+[v2]
+Întărește-mi azi credința,
+Fă-ți simțit-acum prezența,
+Dăruiește-mi vindecare
+Să-ți pot cânta iar osanale.
+Ești păstorul vieții mele,
+Mi-ai adus înviorare.
+Pașii mei merg către Tine,
+Ține-mă de mână tare!
+
+[v3]
+M-ai învățat să vin la Tin’
+Să-Ți cânt și să mă-nchin.
+Să-ți spun al meu suspin,
+Tu ești al meu sprijin.
+Îmi plec genunchii-n fața Ta,
+La cruce mă închin.
+Te chem din nou să mă alini,
+Isus, al meu sprijin
+
+[c2]
+/: Îți multumesc, Isuse, că ești cu mine,
+În clipe de-ncercare mă sprijinești. :/

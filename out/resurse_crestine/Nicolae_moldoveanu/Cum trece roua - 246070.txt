@@ -1,0 +1,35 @@
+[title]
+Cum trece roua {author: {Nicolae Moldoveanu}, {rcId: {246070}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Cum trece roua
+Sorbită-n crin,
+Cum zboară norii
+Și alții vin,
+Cum piere-un sunet
+Pe-aripi de vânt,
+/: Așa trec toate
+Pe acest pământ. :/
+
+[v2]
+Cu cât în lume
+Aduni comori,
+Cu cât vrei slavă
+Cu Cât te-adori,
+Cu cât în viață
+Ai tot ce-ai vrea,
+/: Cu-atât plecarea
+E și mai grea. :/
+
+[v3]
+Fiori și patimi
+Și trai slăvit,
+Au toate-o cale
+Și un sfârșit.
+Și toți pleca-vom,
+Lăsând ce-am strâns,
+/: Dar unii-n cântec
+Și altii-n plâns. :/

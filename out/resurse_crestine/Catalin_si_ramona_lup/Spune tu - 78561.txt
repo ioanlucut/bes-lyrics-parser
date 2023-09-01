@@ -1,0 +1,23 @@
+[title]
+Spune tu {author: {Cătălin și Ramona Lup}, {rcId: {78561}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Cerul întreg a vestit a Lui naștere curată
+Magii la drum au pornit văzând steaua minunată
+A coborât din slăvi divine acel vestit prin profeți
+El coborât în umilință transformă-ale noastre vieți.
+
+[c]
+Spune tu ce aștepți din zare azi, o minune mare,
+Cerul e plin de colinde iar tu ce mai stai?
+Cântă-i Lui, la oricine spune-i: hai, laud-al Său nume!
+Staulul cel vechi e un colț de Rai!
+
+[v2]
+Cine ar fi crezit că-ntr-o iesle se va naște?
+Într-un loc ne-nsemnat, într-un ceas târziu în noapte?
+Și doar păstorii de pe câmp la iesle-ndat-au venit,
+Se-nchinară și-ntr-un gând pe Prunc ei L-au slăvit!

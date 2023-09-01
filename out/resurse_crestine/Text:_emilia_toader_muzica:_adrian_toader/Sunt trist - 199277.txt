@@ -1,0 +1,33 @@
+[title]
+Sunt trist {author: {Text: Emilia Toader, Muzica: Adrian Toader}, {rcId: {199277}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Sunt trist, sunt obosit de alergare.
+Sunt trist, sunt doar dureri pe-aceastǎ cale.
+Nu mai știu de când aștept
+O razǎ de luminǎ-n noapte:
+E târziu, e târziu, dar aștept.
+Și tu poți fi zdrobit de întristare,
+Și tu poți sǎ alegi o nouǎ cale.
+Chiar de ești un pǎcǎtos,
+Isus îți ia orice povarǎ,
+Dacǎ vrei, poți sǎ fii fericit.
+
+[c]
+/: Cheamǎ-L pe Isus în viața ta;
+Nu e prea târziu, te va ierta. :/
+
+[v2]
+Sunt eu, dar astǎzi plâng de fericire.
+Sunt eu, El îmi rǎspunde cu iubire.
+El, Isus, m-a eliberat,
+Și-a dat viața pentru mine,
+M-a iubit, m-a iubit nesfârșit.
+Curând, Cel ce-a promis o sǎ revinǎ,
+Curând, El va aduce iar luminǎ.
+El în slavǎ te va lua,
+Doar inima tu sǎ i-o dǎrui,
+Vino azi, mântuire-ți va da.

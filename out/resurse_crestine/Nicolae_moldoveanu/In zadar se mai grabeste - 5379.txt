@@ -1,0 +1,41 @@
+[title]
+In zadar se mai grabeste {author: {Nicolae Moldoveanu}, {rcId: {5379}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+În zadar se mai grăbește
+Cel ce pleacă prea târziu
+Alergarea lui sfârșește
+Ca un strigăt în pustiu.
+
+[c]
+Pentru mântuirea ta
+Nu mai sta, nu mai sta
+Pentru cerul tău frumos
+Vin acum, vin acum la Hristos.
+
+[v2]
+În zadar se mai frământă
+Cel ce n-a vrut când putea
+Mila și chemarea sfântă
+Și-are vremea lor și ea.
+
+[v3]
+În zadar se mai căiește
+Cel ce-a ars că n-are preț
+Râsul clipei îl plătește
+Plânsul veșnicei vieți.
+
+[v4]
+În zadar va plânge-odată
+Vremea harului de-acum
+Cel chemat cu-atâtea lacrimi
+Dar nu-i pasă nicidecum.
+
+[v5]
+Câtă vreme încă este
+Cale și prilej și har
+Nu uita de toate-acestea
+Căci curând va fi-n zadar.

@@ -1,0 +1,39 @@
+[title]
+Voi cei ce iubiti {author: {Elixirul iubirii}, {rcId: {95400}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c
+
+[v1]
+Voi cei ce iubiți Lumina, O veți vedea!
+Dar mai întâi întunericul va cădea.
+Voi cei ce iubiți, fericiți veți fi!
+Pentru voi Soarele va răsări!
+
+[v2]
+Voi cei ce iubiți ați rămas în tăcere,
+Dar in curând veți primi putere.
+Voi cei ce iubiți, lăsați lumina voastră,
+În fața lumii să strălucească!
+
+[c]
+Și dacă oamenii răi se vor ridica,
+Nu te teme căci iubirea îi va copleși,
+Și tot pământul în curând un Paradis va fi
+Un Paradis va fi...
+Și dacă oamenii răi se vor ridica,
+Nu te teme caci iubirea îi va copleși,
+Și tot pământul în curând un Paradis va fi,
+Un Paradis va fi...
+
+[v3]
+Noi cei ce iubim, străbatem pământul.
+Spre lumină zburăm ca vântul.
+Noi cei ce iubim am pornit la drum,
+Spre Casă ne-ndreptăm, acum.
+
+[v4]
+Voi cei ce iubiți Lumina, O veți vedea!
+Dar mai întâi întunericul va cădea.
+/: Voi cei ce iubiți, fericiți veți fi!
+Pentru voi Soarele va răsări! :/

@@ -1,0 +1,56 @@
+[title]
+Cartile vechiului testament {author: {Anonim}, {rcId: {188812}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7,v8
+
+[v1]
+Cărțile
+ /: Vechiului Testament :/
+Iată-le!
+Ascultă-le, s-auzi toate cărțile
+Vechiului Testament
+În ordine.
+
+[v2]
+Începem cu cărțile Legii,
+Cu Geneza, Exod și Levitic
+Numeri, Deuteronom
+Și abia am început.
+Deci, nu plecați
+N-am terminat! 
+
+[v3]
+Urmează cărțile istorice
+Iosua, Judecători și Rut,
+1,2 Samuel,
+1,2 Împărați,
+1,2 Cronici
+Ezra, Neemia, Estera,
+
+[v4]
+Nici n-am ajuns la jumătatea listei.
+Deci, nu plecați
+N-am terminat!
+
+[v5]
+Cărțile poetice sunt ’deosebi Proverbele,
+Cărțile sunt și Cântarea cântărilor
+
+[v6]
+Ține-te bine, prinde viață
+Sunt cărțile profetice
+Isaia, Ieremia și Plangerile lui, Ezechiel, Daniel
+Sunt profeții mari.
+
+[v7]
+Nu plecați, n-am terminat
+Ascultați profeții mici:
+Osea, Ioel, Amos, Obadia, Iona, Mica, Naum, Habacuc, Țefania, Hagai, Zaharia, Maleahi!!
+
+[v8]
+Cărțile
+ /: Vechiului Testament :/
+Acum le știi!
+Dacă vrei, spune și tu cărțile
+Vechiului Testament în ordine!

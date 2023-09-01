@@ -1,0 +1,35 @@
+[title]
+A fost candva o vreme {author: {Armonix}, {rcId: {71699}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+A fost cândva o vreme, când cartea vieții mele
+Era umplută toată cu zeci de mii de rele.
+Și aceste rele fapte se înmulțeau mereu,
+Iar eu căutam salvare pentru păcatul meu.
+
+[c]
+Prin Isus, prin jertfa Sa, prin Isus, prin dragostea Sa,
+Tot trecutul mi-a fost rezolvat demult, 
+De păcat am fost spălat, pentru veci am fost uitat,
+Tot trecutul mi-a fost rezolvat demult.
+
+[v2]
+Isus mi-a dat viața și m-a scăpat de moarte, 
+M-a curățit de rele și mi le-a șters din Carte.
+Pe paginile albe se scriu de-atunci mereu
+Doar imnuri de mărire spre Salvatorul meu.
+
+[v3]
+În marea zi de glorii, când toți vor învia,
+Voi fi chemat de Domnul, voi sta ’naintea Sa.
+Când va deschide cartea, voi plânge fericit,
+Căci printre sfinți și îngeri voi fi și eu primit.
+
+[v4]
+O, scumpul meu prieten, de vrei să fii salvat,
+Întoarce-te la Domnul, renunță la păcat.
+Primește mântuirea ca cel mai nobil dar,
+Isus vrea să-ți rezolvi și-al tău trecut murdar.

@@ -1,0 +1,27 @@
+[title]
+La altar cu emotii voi ati pasit {author: {Alin Jucu}, {rcId: {169492}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+La altar, cu emoții, voi ați pășit
+Jurământul dragostei să-l rostiți.
+Zi de sărbătoare Dumnezeu ne-a dăruit,
+Rugăciunea voastră s-a-mplinit!
+Dragostea lui Dumnezeu vă-nsoțească zi de zi!
+La bine și la greu vă-nsoțească brațul Său!
+
+[c]
+/: Fericiți în viață veți fi, cu Dumnezeu de veți trăi!
+În orice lucru cu El veți izbuti!
+Chiar și-n clipe de nevoi, El a promis că e cu voi!
+De azi și-n fiecare zi! :/
+
+[v2]
+Vrem, o, Tată, peste ei mâna să-Ți pui,
+Pe drumul vieții Tu condu-i!
+Când Te vor chema, să le răspunzi ne-ntârziat,
+Fii pentru ei prieten adevărat!
+Iar în ziua-aceea sfântă când acasă-i vei chema,
+Să fie tot împreună, legați în dragostea Sa!

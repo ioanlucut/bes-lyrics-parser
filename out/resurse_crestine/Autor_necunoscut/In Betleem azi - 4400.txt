@@ -1,0 +1,31 @@
+[title]
+In betleem azi {author: {Anonim}, {rcId: {4400}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: In Betleem azi,
+In Betleem azi
+E o mare minune. :/
+
+[c]
+/: Hristos se naste, Domnul coboara,
+Ingerii canta, magii Il adora,
+Pastorii alearga, ieslea o-nconjoara,
+Mari minuni se intamplara. :/
+
+[v2]
+/: Ingeri si oameni,
+Ingeri si oameni
+Sa-I cante impreuna. :/
+
+[v3]
+/: Toti sa Ii dam loc, da,
+Toti sa Ii dam loc, da,
+In inimi sa se nasca. :/
+
+[v4]
+/: Caci El a venit,
+Caci El a venit
+Sa mantuie poporul. :/

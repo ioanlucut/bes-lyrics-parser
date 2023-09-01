@@ -1,0 +1,35 @@
+[title]
+Deschide gura de mormant {author: {Nicolae Moldoveanu}, {rcId: {241003}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Deschide gura de mormânt,
+Preamilostive Tată,
+/: Să ies, să nalț Numele-Ți Sfânt,
+Mai sus ca niciodată! :/
+
+[v2]
+Dezleagă-mi mâinile deplin,
+De tot ce mi le leagă,
+/: Să pot Cuvântul Tău să-l țin,
+Mai sus în lumea-ntreagă. :/
+
+[v3]
+Desprinde-mi viața mea de tot
+Ce-ar mai putea s-o țină,
+/: Ca liber, mai frumos s-o pot
+Nălța înspre lumină! :/
+
+[v4]
+Și cum pe toți care-au venit
+La Tine cu credință,
+/: Le-ai ascultat și împlinit
+Umila lor dorință. :/
+
+[v5]
+Așa și ruga mea de-acum
+Din temniți ferecate,
+Ascult-o și deschide-mi drum,
+Spre sfânta libertate!

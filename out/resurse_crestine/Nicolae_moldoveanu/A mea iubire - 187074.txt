@@ -1,0 +1,35 @@
+[title]
+A mea iubire {author: {Nicolae Moldoveanu}, {rcId: {187074}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+A mea iubire Ți-o dau, Isus,
+Cerească fire să-mi dai de Sus,
+În curăție să mă păstrezi,
+Inima Ție ți-o datorez.
+
+[c]
+Binecuvântă inima mea,
+O casă sfântă să-Ți faci din ea;
+Cu-a Ta iubire s-o-mpodobești,
+Ca-n ea de-a pururi să locuiești!
+
+[v2]
+Mă luminează cu Fața Ta,
+Și mintea trează s-o pot avea.
+În umilință să propășesc,
+De-a Ta Ființă, să m-alipesc!
+
+[v3]
+Cu bunătate Tu să mă-mbraci,
+De-adânci păcate să mă desfaci;
+Priviri senine, mereu, mereu,
+Să-nalț spre Tine, Stăpânul meu.
+
+[v4]
+Cu dor fierbinte, azi pe pământ,
+S-alerg nainte, spre Țelul sfânt,
+Vestind în lume iubirea Ta,
+Slăvitu-Ți Nume să-L pot cânta!

@@ -1,0 +1,25 @@
+[title]
+Moartea a invins {author: {Anonim}, {rcId: {229279}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Domnul nostru sfânt a suferit, la Golgota
+Pentru lumea întreagă chinuit, să fim mântuiți
+
+[c]
+/: Moartea a învins :/
+Domnul cel Preaînalt, din morți a înviat
+Fie-n veci lăudat
+/: A-nviat din morți :/
+Domnul cel Preaînalt cu Tatăl ne-a împăcat
+Fie-n veci lăudat
+
+[v2]
+Nu-L mai căutați printre cei morți, pe Mesia
+El e viu și-n cer S-a înălțat, fie glorificat!
+
+[v3]
+Prin Isus suntem răscumpărați, de păcate
+să cântăm cu toții azi în cor, a-nviat din morți!

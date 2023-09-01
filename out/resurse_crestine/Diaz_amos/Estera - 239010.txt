@@ -1,0 +1,31 @@
+[title]
+Estera {author: {Diaz Amos}, {rcId: {239010}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O regină așa frumoasă, am creat să împărățească;
+Lumii întregi să vestească; de popor a se îngriji!
+Mardoheu o înfiase, o crescuse, o iubea
+Cine ca el mai trăia să aibă așa ceva?
+
+[c]
+Estera mea, ce frumoasă ești;
+Estera mea, ce sublim domnești;
+Când te văd, mă aprind și fiorii mă cuprind,
+Aripile către tine îmi deschid!
+Te-am creat și te-am ales ca la lumea să vestesc;
+Prin tine planul frumos să-mi construiesc!
+
+[v2]
+Iar atuncea în mulțime, sentimentul de mândrie,
+De tristețe și furie începu a apărea!
+Neamul era izgonit, iar Estera încerca
+Să își salveze cetatea și tot poporul din ea!
+
+[v3]
+Regele o prinse în brațe, bucuria se arătase,
+O întrebă frumos ce face; căci Domnul l-a înmuiat!
+La ospăț atunci regina, pacea calm ceruse ea
+Dar se temea și de faptul de acesta ar refuza!

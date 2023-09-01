@@ -1,0 +1,40 @@
+[title]
+Mare este domnul {author: {Mirela Ursulescu}, {rcId: {176619}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+/: Nimeni nu este ca Domnul
+Mai sfânt și mai minunat
+El este Salvatorul
+Prin jertfa Lui m-a salvat:.
+/: El este veșnicul Tată
+Pentru orfani și săraci
+Nu-i lasă niciodată
+Pe cei ce voia Lui fac :/
+.
+/: Doamne cât ești Tu de mare
+Căci bunătatea Ta
+Nu are-asemănare
+Zi de zi în viața mea :/
+.
+
+[v1]
+Mare este Domnul, mare e Slava Sa
+Mare-i a Sa îndurare, mare-i puterea Sa
+Nimeni nu-i ca Domnul, ce toate le-a creat
+El este Mântuitorul, El va domni în veac.
+
+[v2]
+Lăudat să fie Domnul, ce-i veșnic neschimbat
+Căci bunătatea-i mare, o vedem ne ´ncetat
+El ce făcut-a omul, dup-a
+L Său chip minunat
+El ține ´ntreg pământul, în mâna Sa de- Împarat.
+
+[v3]
+Trăiască Domnul Slavei, trăiasc-al meu Împărat
+Glorificat să fie în veci de veci laudat
+El este fericire, El veșnic neschimbat,
+El Alfa și Omega, să-L preamărim ne ´ncetat.

@@ -1,0 +1,29 @@
+[title]
+Sa fiu o floare eu as vrea {author: {Grupul Filadelfia}, {rcId: {128135}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Să fiu o floare eu aș vrea,
+S-aud o voce sfântă,
+Să fiu o pasăre aș vrea,
+Să-Ți cânt mereu, Isuse!
+
+[c]
+/: Dar m-ai creat să fiu un om,
+Să Te slăvesc și să Îți cânt,
+Să pot vedea ce-i bine și ce-i rău
+Și să aleg doar Harul Tău! :/
+
+[v2]
+Să fiu un mugure aș vrea,
+Ce rodul și-l aduce,
+Să fiu o lacrimă aș vrea,
+Să simt durerea Ta, Isuse!
+
+[v3]
+Să fiu o trestie aș vrea,
+Care usor se-apleacă,
+Să fiu o stea din cer aș vrea,
+Să Te privesc, Isuse!

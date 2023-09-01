@@ -1,0 +1,41 @@
+[title]
+Cine-mi va da lacrimi de cainta {author: {Nicolae Moldoveanu}, {rcId: {2164}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Cine-mi va da lacrimi de căință
+Aș plânge noapte și zi
+/: Unde-aș găsi pace pentru suflet
+Toată îndoiala ar fugi. :/
+
+[v2]
+Plânge, plânge împăratul David
+Oare nu-i ajung arginți
+/: Dar el plânge pentru că el vede
+Duhul Sfânt se duce de la el. :/
+
+[v3]
+Cine-mi va da lacrimi ca Mariei
+Ce plângea lângă Isus
+/: Și cu lacrimi îi spăla picioarele
+Pace pentru suflet și-a găsit. :/
+
+[v4]
+Curg lacrimi la ucenicul Petru
+Care-și plânge vina sa
+/: Și pentru căința lui amară
+Domnul toată vina i-a iertat. :/
+
+[v5]
+Să privim lacrimile lui Isus
+Care-au curs din ochii Lui
+/: Pentru pacea Ierusalimului
+Și pentru a lui mântuire. :/
+
+[v6]
+Să-mi dai Doamne lacrimi ca acelea
+Ca să fiu eu ascultat
+/: Ca să nu plâng afară la ușă
+Unde lacrimi n-or mai ajuta. :/

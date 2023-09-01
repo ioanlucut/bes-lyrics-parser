@@ -1,0 +1,78 @@
+[title]
+Ce-as face fara tine? {author: {Lidia Gheorghe}, {rcId: {118755}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,v5,c5,v6,c6
+
+[v1]
+Ce-aș face fără Tine?
+Ce-aș face Doamne iar?
+Când Tu ești lângă mine,
+Ești cel mai mare dar.
+
+[c]
+Părinte al iubirii!
+Cum să te părăsesc?
+Când te-ai dat pentru mine,
+Să te nesocotesc?
+
+[v2]
+O câtă întristare
+Îmi aduc cei din jur!
+Dar nu mă las, sunt tare,
+Isuse, că ești bun.
+
+[c2]
+Voi sta cu fruntea sus
+-naintea lui Hristos,
+Căci El îmi dă putere
+Să ies victorios.
+
+[v3]
+Iubirea mea dintâi!
+Eu nu descurajez.
+În viața mea rămâi
+Că mă îmbărbătezi.
+
+[c3]
+Ești pură și curată
+Dragostea mea din cer!
+Tu nu mă-nșeli vreodată
+De-aceea nu disper.
+
+[v4]
+Să urle cei din jur,
+Să țipe cât or vrea,
+Eu nu mă las de Tine
+Căci Tu ești pacea mea.
+
+[c4]
+Isus, ești fericirea
+Ce dăinuie pe veci.
+În Tine mi-e nădejdea,
+Lumina mea, Tu ești.
+
+[v5]
+Vino la-acest izvor
+De har ce te-așteaptă!
+Îți dă din sfinți fiori
+Și-ți ia povara toată;
+
+[c5]
+Că-i prea grea pentru tine
+S-o duci singur în deal.
+Vrea să fie cu tine,
+Isus e ideal!
+
+[v6]
+De-atâtea ori ai spus:
+„
+O Doamne, nu mai pot!”
+Și-n nopțile ce-ai plâns...
+Isus, El știe tot.
+
+[c6]
+Mai suferă puțin!
+Și se va termina.
+De rabzi pân’ la sfârșit,
+El te va-ncununa.

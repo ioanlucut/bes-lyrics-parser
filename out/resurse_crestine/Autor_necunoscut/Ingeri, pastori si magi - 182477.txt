@@ -1,0 +1,29 @@
+[title]
+Ingeri pastori si magi {author: {Anonim}, {rcId: {182477}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În vechime s-a-mplinit,
+Cum profeții au vestit
+De nașterea celui Sfânt
+Coborât jos pe pământ.
+
+[c]
+/: Îngeri, păstori și magi,
+Cu toți daruri iau adus
+Aur, smirnă și tămâie
+Pruncului Isus. :/
+
+[v2]
+Vestea aceasta uimitoare,
+A pus lumea în mișcare,
+Domnul slavei se coboară
+Să ne scape de ocară.
+
+[v3]
+Cerul tainic strălucea,
+Căci Mesia aducea
+Cu El slava din vecie
+Pace multă, bucurie.

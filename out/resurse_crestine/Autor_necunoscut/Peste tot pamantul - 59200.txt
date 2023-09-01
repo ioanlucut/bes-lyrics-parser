@@ -1,0 +1,38 @@
+[title]
+Peste tot pamantul {author: {Anonim}, {rcId: {59200}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c
+
+[c]
+/: Peste tot pământul
+La săraci noi ducem
+Vestea cea bună. :/
+
+[v1]
+Credincios este Domnul de-a pururi,
+Mila Lui dăinuiește pe vecie!
+
+[v2]
+Mare este Domnul atotputernic
+Sub aripa Lui nu ne temem de nimic.
+
+[v3]
+Iubitor este Domnul Preaslăvitul,
+Iubirea Lui salvează oricui sufletul.
+
+[v4]
+Tatăl nostru, din Ceruri, lasă harul,
+Peste oricine-I dăruiește sufletul.
+
+[v5]
+Tatal nostru în zori de zi revarsă,
+Raze de iubire peste orice casă.
+
+[v6]
+Tatăl nostru din ceruri ne trimite
+Mângâieri prin Cuvintele Lui Sfinte!
+
+[v7]
+Fericiți cei săraci în Duhul,
+De bucurie le va fi plin sufletul.

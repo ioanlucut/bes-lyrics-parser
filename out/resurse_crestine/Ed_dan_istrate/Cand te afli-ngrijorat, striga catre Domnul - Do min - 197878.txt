@@ -1,0 +1,29 @@
+[title]
+Cand te afli-ngrijorat striga catre domnul - do min {author: {ed. Dan Istrate}, {rcId: {197878}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Când te afli-ngrijorat, strigă către Domnul!
+De păcate apăsat, strigă către Domnul!
+
+[c]
+Strigă către Domnul, orișice te-apasă,
+Strigă către Domnul, că El nu te lasă.
+
+[v2]
+Frământat de ce va fi, strigă către Domnul!
+Pentru vremuri ce-or veni, strigă către Domnul!
+
+[v3]
+Dacă vrei să fii mai sfânt, strigă către Domnul!
+O lumină pe pământ, strigă către Domnul!
+
+[v4]
+Pentru viața de apoi, strigă către Domnul!
+Și nădejdea lumii noi, strigă către Domnul!
+
+[v5]
+Nu-amâna, nici chiar o zi, strigă către Domnul!
+Izbăvit de iad să fii, strigă către Domnul!

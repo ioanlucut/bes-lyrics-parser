@@ -1,0 +1,42 @@
+[title]
+A inviat {author: {VOX DEI}, {rcId: {149396}}
+
+[sequence]
+v1,c,v2,c,c2,e
+
+[v1]
+Isus, disprețuit, Își duce crucea-n spate,
+Pe străzile înguste din Ierusalim.
+Soborul și mulțimea, toți strigau ” La moarte!”,
+Era batjocorit, Isus, Mielul divin.
+
+[c]
+A urcat Calvarul, purtând păcatul tău.
+Răstignit pe cruce, Fiu de Dumnezeu.
+A plătit cu preț de sânge pentru vina ta,
+Mântuire să primești acum, crezând în jertfa Sa!
+
+[v2]
+Isus, însângerat, zdrobit pentru păcate,
+Murea ca miel de jertfă, Miel nevinovat.
+Sorbind întreg paharul, a strigat pe cruce:
+” O, Sfinte Tată, iartă-i, căci ei nu știu ce fac!”
+
+[c]
+A urcat Calvarul, purtând păcatul tău.
+Răstignit pe cruce, Fiu de Dumnezeu.
+A plătit cu preț de sânge pentru vina ta,
+Mântuire să primești acum, crezând în jertfa Sa!
+
+[c2]
+În mormântul rece, ei L-au îngropat
+Dar Isus, Regele vieții, din morți a înviat!
+Iar apoi victorios S-a-nălțat la Cer,
+Domnește, sus pe tron, în veci de veci!
+
+[e]
+/: A-nviat, a-nviat!
+Vrednic este să primească adorare!
+A-nviat, a-nviat!
+Să-I aducem slavă, cinste și închinare! :/
+A-nviat!

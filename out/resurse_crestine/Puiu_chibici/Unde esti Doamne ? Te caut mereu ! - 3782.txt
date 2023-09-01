@@ -1,0 +1,35 @@
+[title]
+Unde esti doamne ? te caut mereu {author: {Puiu Chibici}, {rcId: {3782}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,v4,c
+
+[c]
+Unde ești Doamne ? Te caut mereu!
+Unde îți este locașul Tău ?
+Unde ești Doamne, să Te întâlnesc ?
+Spune-mi unde ești, să Te găsesc!
+
+[v1]
+Eu locuiesc sus în cerul preasfânt,
+Dar sunt și aici, jos pe pământ.
+Eu sunt în cerul cel strălucit,
+Dar sunt și lângă omul smerit.
+
+[v2]
+Eu sunt în casa celui sărac,
+Să îi aduc hrană și să-l îmbrac.
+Sunt cu bătrânul cel ostenit,
+Și cu copilul cel necăjit.
+
+[v3]
+Eu sunt la patul celui bolnav,
+Ce zace de mult slab și firav.
+Sunt cu orfanul ce plânge-n ascuns,
+Căci Eu sunt Tatăl, milos și bun.
+
+[v4]
+Sunt călătorul cel ostenit, lângă cortul celui lovit,
+Am haina ruptă, sunt gol și lipsit.
+Caut o casă să mă-ncălzesc,
+Și foamea ca să mi-o potolesc.

@@ -1,0 +1,35 @@
+[title]
+Bucuria mea {author: {Johnny Daraban}, {rcId: {241155}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+E un Nume dat sub ceruri, Numele Isus Hristos,
+Și-n acest măreț, sfânt Nume, viața mea e cu folos.
+Tu ai rupt a mele lanțuri, păcatul mi-ai iertat,
+Cât de bun ești, Tu, Stăpâne, fii-n veci glorificat.
+
+[c]
+Nu-i nimeni în cer și pe pământ, așa bun, curat și sfânt,
+Tu ești Domn biruitor, Tu ești Rege-al regilor.
+Tu ești Domn, Tu-n veci rămâi pe tron,
+Tu ești sfânt, în fapte și cuvânt.
+Nu-i nimeni în cer și pe pământ, așa bun, curat și sfânt,
+Tu ești Domn biruitor, Tu ești Rege-al regilor.
+
+[v2]
+Tu ești ancoră-n furtuni, dai putere-n slăbiciuni,
+Tu ești Mielul Salvator, al meu tainic Veghetor.
+Tu dai pace inimii, chiar și-n valea plângerii,
+Tu ești bucuria mea, Ție-Ți voi cânta.
+
+[b]
+În numele Tău, pășim cu credință,
+Că-n Numele Tău, avem biruință,
+În numele Tău, primim vindecare,
+Că Numele Tău este îndurare.
+În numele Tău, primim izbăvire,
+În numele Tău, primim mântuire,
+În numele Tău, se-nchină popoare,
+Că Numele Tău e turn de scăpare.

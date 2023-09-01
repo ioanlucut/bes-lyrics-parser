@@ -1,0 +1,31 @@
+[title]
+Inima imi bate pentru tine doamne {author: {Gabriel și Genoveva Gorcea}, {rcId: {237913}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Inima îmi bate, pentru tine Doamne
+Pentru Tine voi cânta;
+Ție îți dăruiesc inima mea.
+
+[c]
+Pe munți înalți, de-ar fi calea Ta.
+Pe drumul spinos Te voi urma
+Prin văi si câmpii, oriunde-Ai pleca
+De tine Domnul meu nu mă voi lasa.
+
+[v2]
+Când am fost pierdut, când am fost căzut
+Din praf m-ai ridicat;
+De tine Domnul meu nu mă despart.
+
+[v3]
+Nu merg după-un străin, doar Tu imi esti alin
+La Tine mă gândesc;
+Pe tine Domnul meu te iubesc.
+
+[v4]
+Pe o cruce grea, pentru vina mea
+Doamne-Ai patimit;
+Fiindcă atat de mult m-ai iubit.

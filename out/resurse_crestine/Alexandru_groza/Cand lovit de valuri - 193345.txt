@@ -1,0 +1,21 @@
+[title]
+Cand lovit de valuri {author: {Alexandru Groza}, {rcId: {193345}}
+
+[sequence]
+v1,b,c,v2,c
+
+[v1]
+Când lovit de valuri sufletu-mi suspină, Doamne, Tu privește la viața mea
+Să m-atingi, o, Doamne cu a Ta privire, să Te știu aproape, Dumnezeul meu
+
+[b]
+Când Tu ești aproape, cerul se pogoară, ochiul Tău vegheză la viața mea
+Să m-atingi, o, Doamne, cu a Ta privire, să Te simt aproape, Dumnezeul meu
+
+[c]
+Îți voi sfinți Numele, o, Domnul meu, pentru iubirea Ta
+Tu m-ai ridicat din păcat!
+
+[v2]
+Când lovit de valuri sufletu-mi suspină, Tu îmi dai speranță, Tu mă ocrotești
+Ai aprins în mine un duh de sfințire, prin a Ta iubire, Doamne, eu trăiesc!

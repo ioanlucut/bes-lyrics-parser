@@ -1,0 +1,29 @@
+[title]
+Cine poate spune cat sunt de fericit {author: {Anonim}, {rcId: {156338}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cine poate spune cât sunt de fericit
+Căci în drumul meu pe Isus l-am găsit
+Și de-acum nainte prin El e calea mea
+Până când în ceruri El mă va chema.
+
+[c]
+Să cânte toți în coruri de bucuria mea
+Spre slava lui Isus pururea
+Și îngerii în ceruri îl vor lăuda
+Pe Tatăl ceresc pururea.
+
+[v2]
+Greu îți pare drumul când vrei s-ajungi în cer
+Cere deci putere de la sfântul Miel
+Cu puterea ta nicicând n-ai să izbutești
+Căci Satana știe, știe cine ești.
+
+[v3]
+Deci recunoștință spre ceruri să-ndreptăm
+Căci de-acolo sfinte daruri căpâtăm
+Și cum mântuirea prin Isus ni s-a dat
+Și cu Tatăl, Cel din cer ne-a-mpăcat.

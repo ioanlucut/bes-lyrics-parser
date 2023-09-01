@@ -1,0 +1,53 @@
+[title]
+Biserica aleasa ierusalim iubit {author: {Nicolae Moldoveanu}, {rcId: {189878}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7,v8
+
+[v1]
+Biserică aleasă, Ierusalim iubit,
+Ești veșnică Mireasă, a Mielului slăvit.
+/: Cu prețul jertfei sfinte, cu sângele-l curat,
+C-o dragoste fierbinte, El Te-a răscumpărat! :/
+
+[v2]
+Biserică sfințită, prin adevăr și har,
+Ești Cale strălucită, spre veci fără hotar.
+/: Ca viața Ta senină, și chipul Tău frumos,
+Pe toți, din fund de tină să-i tragă spre Hristos! :/
+
+[v3]
+Biserică curată, Crin alb și nepătat,
+Cu haină luminată, Hristos Te-a-nveșmântat.
+/: Ca viața Ta de soare, s-atragă pe deplin,
+Pe toți aceia care smeriți la viață vin! :/
+
+[v4]
+Biserică iubită, ești UNA pe pământ,
+Din mulți alcătuită, născuți din Duhul Sfânt.
+Toți cei ce cu credință, chemarea-Ți vor primi,
+În dulcea Ta Ființă, ființa-și vor topi! :/
+
+[v5]
+Biserică străină, prin lumea cea de azi,
+Tu n-ai aici hodină, ci chinuri și necaz.
+/: Dar spinii suferinții, din lupte și furtuni,
+Sunt semnul biruinții cu albele-i cununi! :/
+
+[v6]
+Biserică slăvită, neam sfânt și-mpărătesc,
+Ești pururi fericită, pe Scaunul ceresc!
+/: - Câți au credință tare, toți cei răscumpărați,
+Sunt nemul sfânt și mare de preoți și-mpărați. :/
+
+[v7]
+Biserică-nțeleaptă, Tu Adevăr preasfânt,
+Cuvântul Tău îndreaptă pe toți înspre Cuvânt!
+/: Căci în Cuvânt e viața și dragostea - oricând
+El luminează fața oricui, și-l face blând! :/
+
+[v8]
+Biserică divină, Tu soare-n veci nestins,
+Lumină din Lumină în Tine s-a aprins.
+/: Și-ntreaga veșnicie vei străluci frumos,
+Pe Tronu-mpărăției, alături de Hristos! :/

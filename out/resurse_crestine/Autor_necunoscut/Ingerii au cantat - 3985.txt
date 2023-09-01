@@ -1,0 +1,37 @@
+[title]
+Ingerii au cantat {author: {Anonim}, {rcId: {3985}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Îngerii au cântat
+ /: pace pe pământ :/
+Maria lângă El stătea
+Și un cântec dulce îi cânta
+Iată magii vin cu daruri ei vin
+Slavă Domnului!
+
+[v2]
+Pe paie culcat
+ /: pruncul minunat :/
+Pruncul vrem și noi să-l vedem
+Aur, smirnă și tămâie avem
+Pruncului de sus Lui ne închinăm
+Slavă Domnului!
+
+[v3]
+Noi din răsărit
+ /: steaua i-am zărit :/
+Iar păstorii în câmp s-au dus
+Lăudând cu îngerii de sus
+Ei au povestit ce li s-a vestit
+Slavă Domnului!
+
+[v4]
+Ca și magii ieri
+ /: și noi azi venim :/
+Lui Isus să ne închinăm
+Și cu bucurie să-I cântăm
+Căci El ne-a iubit și ne-a mântuit
+Slavă Domnului!

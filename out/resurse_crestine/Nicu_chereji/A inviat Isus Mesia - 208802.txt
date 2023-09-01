@@ -1,0 +1,29 @@
+[title]
+A inviat isus mesia {author: {Nicu Chereji}, {rcId: {208802}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+A înviat Isus Mesia, Prințul păcii a înviat!
+Groapa n-a putut să-L țină, piatra la o parte-a dat.
+Prin a Lui crucificare, drept la Tatăl am primit,
+Sunt voios și cânt întruna, Mielul Sfânt a biruit!
+
+[c]
+Cântăm, cântăm cu bucurie mare,
+Isus Hristos din morți a înviat!
+Prin moartea Lui în cer avem intrare,
+Fie în veci de veci glorificat!
+
+[v2]
+Azi e viu și-n veci trăiește, e Stăpân Mântuitor,
+Sus la Tatăl mijlocește, pentru-al Său iubit popor.
+Rodul patimilor Sale, suntem noi ai Lui copii,
+Binecuvântați de Domnul, vom zbura spre veșnicii.
+
+[v3]
+A-nviat Mântuitorul, Cel ce-a zis, Eu Sunt,, E viu!
+Și cu dragoste ne-așteaptă în eternul străveziu.
+A-nviat Isus trăiește, Preaiubitul Miel Divin,
+Binecuvântat să-i fie Numele în veci amin!

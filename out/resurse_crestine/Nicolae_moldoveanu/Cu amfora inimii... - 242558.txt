@@ -1,0 +1,29 @@
+[title]
+Cu amfora inimii {author: {Nicolae Moldoveanu}, {rcId: {242558}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Cu amfora inimii mele
+Când zorii-și aruncă beteala
+Luminii pe cerul cu stele
+Grăbit și-nsetat vin cu ea la
+
+[c]
+Fântâna cu Apa cea vie
+Și sfânt-a Adevărului, care
+Țâșnește din veci spre vecie
+S-o umpli cu dulce răcoare.
+
+[v2]
+Și setea din ea-și potolescă
+Câți trec prin a lumii Sahară,
+Puteri tot mai noi să primească
+Să-și poarte a crucii povară!
+
+[c2]
+Mi-e amfora mică, Stăpâne,
+Dar mult să reverse ea poate
+Cu Apa cea vie din Tine,
+Mi-o umple în zilele toate!

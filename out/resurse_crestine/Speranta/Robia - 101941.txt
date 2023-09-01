@@ -1,0 +1,51 @@
+[title]
+Robia {author: {Speranța}, {rcId: {101941}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Robia era pe sfârșite
+Iar Faraon era împietrit
+Egiptul părea că-i un munte
+Iar muntele părea de neclintit
+Prin Moise venit-a izbăvirea
+Promisă de Cel Preaînalt
+Ungând ușiorii cu sânge
+De moarte și urgie au scăpat
+
+[c]
+Prin Sângele ce-a fost vărsat
+Sângele nevinovat
+Ce-a curs odată, în vechime
+Prin Mielul ce-a fost junghiat
+Jerfta sfântă ce-a salvat
+Mulțimi de la pieire
+
+[v2]
+Prin praful și zăduful zilei
+Mergea un Om cu crucea în spate
+Prin jertfa ce avea de-adus
+Să dea iertare de păcate
+Prin Isus, venit-a izbăvirea
+Dându-și chiar Viața Sa
+Iar cei ce vor să Îl primească
+Viață să poată avea
+
+[v3]
+Tu, suflet, ce zaci în păcate
+Hai, vino, la Crucea Sa
+Primi-vei iertare de păcate
+Prin jerfa de la Golgota
+Ușiorii inimii să-i ai
+Acoperiți cu Sânge Sfânt
+Te-ntoarce azi din pierzare
+Și intră sub Noul Legământ
+
+[c2]
+Prin Sângele ce-a fost vărsat
+Sângele nevinovat
+Ce curge și astăzi pentru tine
+Prin Mielul ce-a fost junghiat
+Poți să fii și tu salvat
+Să fii cu Domnu-n fericire

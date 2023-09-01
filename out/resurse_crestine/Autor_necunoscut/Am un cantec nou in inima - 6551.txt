@@ -1,0 +1,30 @@
+[title]
+Am un cantec nou in inima {author: {Anonim}, {rcId: {6551}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Am un cântec nou în inimă
+Șoapta dulce-a lui Isus
+”
+Sunt cu tine, nu te-ngrijora
+Brațul Meu îți e deajuns”
+
+[c]
+/: Isus, scumpe Isus
+Nume minunat
+Umple-ntreaga ființă
+Să Îți cânt neîncetat :/
+
+[v2]
+Viața mi-a fost frântă de păcat
+Chinu-n suflet mi-a pătruns
+Dar Isus de toate m-a spălat
+Noi speranțe m-au cuprins
+
+[v3]
+În curând Isus va reveni
+Peste cerul înstelat
+Voi zbura cu El spre alte zări
+Unde El e împărat.

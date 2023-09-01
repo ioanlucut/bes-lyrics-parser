@@ -1,0 +1,45 @@
+[title]
+Daca ar sti omul {author: {Adriana Stoica}, {rcId: {102811}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Dac-ar ști mai dinainte
+Oamenii ce ar păți
+Ar face tot ce-i posibil
+Și de rău ei s-ar feri.
+Dar așa-i viața aceasta
+Se-ntamplă pe ne-așteptat’
+/: Nu știi ceasul, nu știi clipa
+Când de-aici ai plecat :/
+
+[c]
+Trece viața, trece omul
+Și cu toți îmbătrânim
+Vine moartea, ne desparte
+Mamă, tată de copii
+Trece viața, trece lumea
+Unii pleacă, alții vin
+Nu poți sta împotriva morții
+Căci odată tot murim
+
+[v2]
+Dac-ai știi iubit prieten
+Dinainte c-ai muri
+Că-n curând te cheamă Domnul
+Pregătește-te să vii
+Tu n-ai vrut să fii vreodată
+Credincios pe calea Lui
+/: N-ai umblat smerit pe cale
+Cum îi place Domnului :/
+
+[v3]
+Tu nu știi că veșnicia
+Locul ce ți-ai pregătit
+De-ai trăit viața cu Domnul
+Cu El vei fi fericit
+Iar dacă-n viața aceasta
+Ai trăit cum ai vrut tu
+/: Pentru toate a tale fapte
+Vei fi aspru pedepsit :/

@@ -1,0 +1,25 @@
+[title]
+Romania {author: {Utilizator LacryO}, {rcId: {109339}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+România, trezește-te la viață,
+România, pentru tine e speranță,
+/: România :/
+
+[v2]
+România, tu ai nevoie de Dumnezeu,
+România, El vrea să fie Tatăl tău,
+/: România :/
+
+[v3]
+România, privește către cer,
+România, e tot ce pot să-ți cer,
+/: România :/
+
+[v4]
+România, trezește-te la viață,
+România, pentru tine El e Speranță,
+/: România :/

@@ -1,0 +1,37 @@
+[title]
+Unde-i teama nu-i iubire {author: {Nicolae Moldoveanu}, {rcId: {4791}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Unde-i teamă, nu-i iubire,
+Unde-i lege, nu-i sfințire.
+Legea dă ce se cuvine,
+Dragostea se dă pe sine.
+Legea dă o zi din șapte,
+/: Dragostea le dă pe toate. :/ Aleluia!
+
+[v2]
+Unde-i lege, nu-i cunună,
+Unde-s robi, nu-i voie bună.
+Legea dă viței pe-altare,
+Dragostea dă tot ce are.
+Legea dă a zecea parte,
+/: Dragostea le dă pe toate. :/ Aleluia!
+
+[v3]
+Unde-i lege, nu-i iertare,
+Unde-i rug, nu-i îndurare.
+Legea iartă, dar nu vrea sânge,
+dragostea nimic nu frânge.
+Legea iartă prin dreptate,
+/: Dragostea le dă pe toate. :/ Aleluia!
+
+[v4]
+Legea are zile sfinte,
+dragostea-i mereu fierbinte
+Legea ține slujbi divine,
+Dragostea tot anul ține
+Legea-i trudă cu simbrie,
+/: Dragostea le dă pe toate. :/ Aleluia!

@@ -1,0 +1,35 @@
+[title]
+Un cantec preadulce {author: {Pr. Iosif Trifa}, {rcId: {72971}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Un cântec prea dulce învățat-am în lume
+Îl cânt pe tot locul mereu să răsune.
+/: Cântărea mea e scurtă se cântă într-un fel
+Mai lângă Domnul meu, mai lângă El :/
+
+[v2]
+Chiar El mi-a fost dascăl la această cântare,
+Lovindu-mă cu multe necazuri amare
+/: M-ai învățat s-o cânt cu râvnă și cu zel
+Mai lângă Domnul meu mai lângă El :/
+
+[v3]
+El cuibul de-acasă mi-l sparse într-o vară
+Și pribeag mă trimise prin lume și-n țară.
+/: Simțindu-mă singur, singur singurel
+Mai lângă Domnul meu, mai lângă El :/
+
+[v4]
+O scumpii mei frați gândiți-vă bine
+Că orice necaz în lume ne vine
+/: Pe noi să ne învețe să cântam într-un fel
+Mai lângă Domnul meu mai lângă El :/
+
+[v5]
+Cu această cântare mereu ne întărim
+Când moartea veni-va cu drag s-o primim
+/: Ca pe o solie ce ne duce la El
+Mai lângă Domnul meu mai lângă El. :/

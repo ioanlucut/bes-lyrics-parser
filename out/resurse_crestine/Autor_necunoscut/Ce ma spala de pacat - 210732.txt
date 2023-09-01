@@ -1,0 +1,35 @@
+[title]
+Ce ma spala de pacat {author: {Anonim}, {rcId: {210732}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ce mă spală de păcat?
+Numai Sângele Lui Isus!
+Să mă știu de El iertat?
+Numai Sângele Lui Isus!
+
+[c]
+Sângele Lui curat,
+Ce spală de păcat,
+Astăzi eu sunt salvat,
+Prin Sfânt Sângele Lui Isus!
+
+[v2]
+Cine mă va împăca?
+Numai Sângele Lui Isus!
+Tatăl meu nu m-o alunga,
+Numai Sângele Lui Isus!
+
+[v3]
+Cine mă face primit?
+Numai Sângele Lui Isus!
+De Părintele iubit?
+Numai Sângele Lui Isus!
+
+[v4]
+De păcat m-a izbăvit
+Numai Sângele Lui Isus!
+Cugetul mi-a liniștit.
+Numai Sângele Lui Isus!

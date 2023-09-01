@@ -1,0 +1,22 @@
+[title]
+Vrem tata sfant sa te urmam {author: {Daniel Cristian}, {rcId: {99085}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Vrem, Tată Sfânt, să Te urmăm
+Ție doar să ne închinăm
+Pe calea Ta să umblăm
+Viața-ntreagă să Ți-o predăm.
+
+[c]
+Glorie, Aleluia!
+Vie împărăția Ta! Amin!
+Isus, Tu m-ai salvat.
+
+[v2]
+Noi vrem să Îți slujim
+Din inimă să-Ți cântăm
+Slavă Ta s-o spunem tuturor
+Căci Tu ești Domn în veci.

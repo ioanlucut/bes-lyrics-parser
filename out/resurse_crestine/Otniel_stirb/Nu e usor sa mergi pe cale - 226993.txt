@@ -1,0 +1,35 @@
+[title]
+Nu e usor sa mergi pe cale {author: {Otniel Stirb}, {rcId: {226993}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Nu e ușor să mergi pe cale
+Prin lumea plină de păcat
+Să stai mereu în așteptare
+Când toti îți spun că ești uitat
+
+[c]
+/: Fii treaz și luptă-te mereu
+Chiar dacă drumul tău e greu
+Privirea ta s-o-ndrepți în sus
+Urmează-L numai pe Isus :/
+
+[v2]
+Nu e ușor să mergi spre țintă
+Când frații tăi privesc ’napoi
+Dar tu veghează fii lumină
+Când bezna nopții e în toi
+
+[v3]
+Nu e ușor să-ți duci povara
+Când alții n-au nimic de dus
+Și răbdător să-nduri ocara
+De dragul Domnului Isus
+
+[v4]
+Nu e ușor dar mergi ’nainte
+Și rabda până la sfârșit
+Urmând mereu Cuvântul Vieții
+De toate fi-vei răsplătit

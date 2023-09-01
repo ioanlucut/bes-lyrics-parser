@@ -1,0 +1,23 @@
+[title]
+Ce cantari de bucurie {author: {Alexandru Groza}, {rcId: {193460}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Ce cântări de bucurie se aud în depărtări!
+Îngeri la păstori coboară, vestea bună aducând
+Că acolo în cetate, s-a născut Pruncul Isus
+/: Corul îngeresc dă-n știre, slavă întru Cel de sus! :/
+
+[c]
+Vin cei trei crai de departe să se-nchine Domnului
+Vin cu daruri minunate înaintea Domnului
+Aur, smirnă și tămâie îi dau ca dar lui Isus
+Vestea bună, ea răsună, precum îngerii au spus!
+
+[v2]
+Ia privește-acolo-n iesle pe Pruncul Isus Hristos
+Și cu mama Lui, Maria, închină-te bucuros
+Că din cer trimis-a Tatăl, la noi Fiul Său iubit
+Adu-ți inima la iesle și tu azi fii mântuit!

@@ -1,0 +1,40 @@
+[title]
+Cum sa- ti rasplatesc {author: {Grupul Speranta}, {rcId: {201878}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Cum să-Ți răsplătesc, iubirea Ta cea mare
+Cum să-Ți multumesc, pentru a Ta îndurare
+Când Te-am chemat m-ai ascultat
+Când am căzut m-ai ridicat
+Când mi-a fost greu, ai fost alăturea
+Când nu știam încontro să merg
+Când nu știam ce să aleg
+Tu m-ai luminat cărarea mea.
+
+[c]
+Nu am nimic, Tu ști prea bine
+Numai Harul Tău mă ține
+Harul Tău, Harul Tău, imi dă valoare
+Sunt doar o bulgăr de pământ
+Prin Tine sunt cea ce sunt
+Doar Harul Tău, mă Tine în picioare.
+
+[v2]
+Cum să-Ți mulțumesc, pentru jertfa de la Calvar
+Cum să-Ți răsplătesc mântuirea ce o am în dar
+Eram pierdut fără sperantă, Tu mi-ai dăruit viață
+Jerfindute pe deal la Golgota
+Eram pierdut fără scăpare
+La Tine am găsit salvare
+Iertare am primit în dar, prin jertfa Ta.
+
+[e]
+/: Inima din piept, bate pentru Tine
+Tot ce am e al Tău îți aparține
+Mă predau Ție Dumnezeu
+Inima din piept Te slăvește
+Gura mea Te laudă, Te cinstește
+Te înalț, Sfinte Dumnezeu. :/

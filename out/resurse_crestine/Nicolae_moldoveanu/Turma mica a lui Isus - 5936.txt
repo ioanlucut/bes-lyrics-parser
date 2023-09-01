@@ -1,0 +1,29 @@
+[title]
+Turma mica a lui isus {author: {Nicolae Moldoveanu}, {rcId: {5936}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Turmă mică a lui Isus,
+De El ești iubită,
+/: Tu porți crucea aicea jos,
+Și ești fericită :/
+
+[v2]
+Bogați, nobili sau ințelepți
+Cu tine nu sunt mulți,
+/: Ci cei ce poart-al Lui dispreț
+Pe dealuri, văi și munți :/
+
+[v3]
+Dar fericită te simtești,
+Condusă de Isus,
+/: Pe Dumnezeu, tu Îl mărești,
+Aici jos și-n cer și sus. :/
+
+[v4]
+Dar de batjocura lumii,
+Tu nu te rușina,
+/: Căci, nu peste mult,
+Vei primi plata și odihna! :/

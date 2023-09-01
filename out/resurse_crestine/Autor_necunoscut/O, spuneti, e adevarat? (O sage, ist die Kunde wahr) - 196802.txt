@@ -1,0 +1,38 @@
+[title]
+O spuneti e adevarat? (o sage ist die kunde wahr) {author: {Anonim, Traducere RO}, {rcId: {196802}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,s,c
+
+[v1]
+O, spuneți, e adevărat
+Acest Cuvânt sfânt, minunat?
+Tot ce-a rostit Isus Hristos
+Mai este astăzi de folos?
+
+[c]
+E-adevărat e-adevărat și minunat și minunat
+Cuvântul viu ce ni s-a dat
+Și ieri și azi, neîncetat
+Rămâne veșnic, neschimbat.
+
+[v2]
+Dumnezeu tare, Împărat
+De slava Sa s-a dezbrăcat
+El a fost uns cu Duhul Sfânt
+Să împlinească sfânt Cuvânt.
+
+[v3]
+Din loc în loc El a umblat
+Pe cei robiți i-a dezlegat
+Cu-al Său cuvânt a alungat
+Orice duh rău și necurat.
+
+[v4]
+Al păcii Domn și Minunat
+Cu Dumnezeu ne-a împăcat
+Cel ce se-ncrede-n El mereu
+Are viață-n Dumnezeu.
+
+[s]
+Isus Hristos este același ieri și azi și în veci! Evrei 13:8

@@ -1,0 +1,29 @@
+[title]
+Un nou inceput {author: {Ica Dragoi}, {rcId: {110317}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+De astăzi aveți un nou început,
+Cu Domnu-mpreună pe cale,
+El să vă poarte pe brațe mereu,
+Să vă dea biruință, răbdare.
+
+[c]
+/: Cu Domnul rămâneți pân’ la sfârșit,
+Căci El vă dă fericirea,
+Cu El o s-aveți un cămin fericit
+Unde domnește iubirea. :/
+
+[v2]
+Azi ați pornit împreună pe-un drum,
+Și-așa să fiți pân’ la moarte,
+La bine și greu împreună să fiți,
+Nimic să nu vă despartă.
+
+[v3]
+Căminul vostru să fie mereu,
+O oază de liniște sfântă,
+Colț de rai unde e Dumnezeu,
+Unde imnuri de laudă se cântă.

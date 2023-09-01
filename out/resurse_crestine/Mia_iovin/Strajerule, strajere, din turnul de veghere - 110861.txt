@@ -1,0 +1,51 @@
+[title]
+Strajerule strajere din turnul de veghere {author: {Mia Iovin}, {rcId: {110861}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Străjerule, străjere, din turnul de veghere
+Te rog să-mi spui în șoapte: ”
+Mai este mult din noapte?
+Mai este mult din greul ce-l ducem în tot felul,
+Și nu e leac s-aline durerea ce ne ține?”
+”
+Iubito, porumbițo, nu dispera, frumoaso,
+Sub greul ce te-apasă în noaptea-ntunecoasă,
+/: Căci zorii dimineții din țara frumuseții
+Sunt gata să se-arate dând vălul la o parte.” :/
+
+[v2]
+Străjerule, străjere, din turnul de veghere
+Mireasa Ta întreabă, să-i spui, să-i spui degrabă:
+Putea-va-nvinge noaptea, sau birui chiar moartea?
+Pe cei ce-n suferință, se luptă cu credință?
+O, nu, nu-i forță-n’lume puterea să-și adune
+Să biruie vreodată credința încercată,
+/: Căci focul suferinței din noaptea umilinței
+A ars tăria morții, ne-a dat lumina vieții. :/
+
+[v3]
+Străjerule, străjere, din turnul de veghere,
+Sunt mulți ce jurămîntul și-l schimbă ca veșmântul
+Având în inimi ură, minciuni în a lor gură
+Și zic că-s frați: dar oare, pe ei nimic nu-i doare?
+”
+Ascultă, ia aminte, iubește-adânc, fierbinte
+Pe Domnul și lucrarea și dă-i toat-ascultarea,
+/: Căci vine ceasu-ndată, cei răi vor da socoată
+Primind drept răsplătire o veșnică pieire. :/
+”
+
+[v4]
+Străjerule, străjere, din turnul de veghere
+Te rog să-mi spui în șoapte: ”
+Mai este mult din noapte?
+Mai este mult din greul ce-l ducem în tot felul,
+Și nu e leac s-aline durerea ce ne ține?”
+”
+Iubito, porumbițo, nu dispera, frumoaso,
+Sub greul ce te-apasă în noaptea-ntunecoasă,
+/: Căci zorii dimineții din țara frumuseții
+Sunt gata să se-arate dând vălul la o parte.” :/

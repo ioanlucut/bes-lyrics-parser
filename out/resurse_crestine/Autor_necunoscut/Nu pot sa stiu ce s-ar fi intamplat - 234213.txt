@@ -1,0 +1,23 @@
+[title]
+Nu pot sa stiu ce s-ar fi intamplat {author: {Anonim}, {rcId: {234213}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Nu pot să știu ce s-ar fi întamplat
+De ne-ai fi luat de pe masă pâinea
+Să n-am ce bea când sunt mai însetat
+În timp ce e belșug în toată lumea.
+
+[c]
+Dar una sigur știu, puțin am prețuit
+Dar una sigur știu, puțin am mulțumit
+Am pâine, am ce bea, e mare mila Ta.
+Stăpâne, fii slăvit!
+
+[v2]
+M-ai dezlegat s-alerg ca și un miel
+Să duc în lume vestea cea mai sfântă
+Privind în zare blândul porumbel
+Să fiu în lume vocea care-ți cântă.

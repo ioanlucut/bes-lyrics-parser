@@ -1,0 +1,41 @@
+[title]
+Imi amintesc cum te-ai nascut iubire {author: {Narcisa Popa}, {rcId: {4408}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Imi amintesc cum Te-ai nascut, Iubire,
+In noaptea aceea grea si-ntunecata...
+Tu n-ai avut un loc de odihnire
+Ci doar o iesle-n betleem, uitata!
+Desi erai tu, Fiul de-mparat,
+Desi erai de Dumnezeu, iubit...
+Ai fost trimis pentru al meu pacat, 
+Sa suferi si sa fii dispretuit
+
+[c]
+Dar tu esti Mesia cel promis
+Atata de mult asteptat
+Despre Tine este scris:
+Vei reveni ca Imparat
+
+[v2]
+Imi amintesc cum Te-ai nascut Iubire
+Ca un Copil sarac si fara casa
+Tu n-ai avut avere, bogatie...
+Si nici macar o haina prea frumoasa
+Caci bogatia Ti-a fost umilinta, 
+Ce-aveai sa suferi mai tarziu pe cruce
+Iar frumusetea Ta nu-ti era haina
+Ci, dragostea care din Tine curge.
+
+[v3]
+Imi amintesc cum ai trecut, Iubire
+De-atatea ori pe langa casa mea
+Dar eu nu Te-am primit niciodata
+Desi afara iarna era grea.
+Multi oameni cred si astazi despre Tine
+Ca esti doar o poveste si atat...
+In obiceiurile lor straine
+S-au ratacit de adevarul sfant.

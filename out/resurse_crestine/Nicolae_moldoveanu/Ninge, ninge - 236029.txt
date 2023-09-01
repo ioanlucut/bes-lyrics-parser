@@ -1,0 +1,19 @@
+[title]
+Ninge ninge {author: {Nicolae Moldoveanu}, {rcId: {236029}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Ninge, ninge, dragi copii, cu steluțe mii și mii.
+De privești, te minunezi, frumusețea când le-o vezi!
+Ce artist le-a făurit chip așa de felurit?
+
+[c]
+Dumnezeu, Dumnezeu
+să-L slăvim mereu, mereu!
+
+[v2]
+Ninge, ninge fulgi cu spor, și se-așează alb covor.
+Tot întinsu-i minunat, în lumină-nveșmântat.
+Ce putere-a rânduit lucru-așa de măiestrit?

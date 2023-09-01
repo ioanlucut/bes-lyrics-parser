@@ -1,0 +1,41 @@
+[title]
+Doamne ce comoara sfanta {author: {Anonim}, {rcId: {3003}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Doamne, ce comoară sfântă,
+Ce har mare am găsit
+În Isus stăpânul lumii,
+În Isus cel răstignit!
+
+[c]
+/: Ah, ce bine-i și frumos
+Lângă Domnul meu Hristos ;
+Ah, ce bine-i lângă El,
+Lângă blândul Mielușel. :/
+
+[v2]
+Toate planurile mele
+Ție Ți-le-ncredințez ;
+O, ajută-mă Stăpâne
+Pentru Tine să lucrez.
+
+[v3]
+Îți predau azi și viața,
+ți predau tot ce-i al meu ;
+Fă, dar, ce voiești cu mine
+După cum e planul Tău.
+
+[v4]
+Tu ești doctorul meu, Doamne,
+Tu ești blândul meu Păstor,
+Tu ești apa vieții mele
+Scumpul meu Mântuitor.
+
+[v5]
+Eu voiesc ca totdeauna
+Să rămân la pieptul Tău
+Și să nu mă mai înșele
+Diavolul, dușmanul meu.

@@ -1,0 +1,33 @@
+[title]
+Esti langa mine {author: {Rafael Mihai}, {rcId: {167301}}
+
+[sequence]
+v1,c,v2,c2,e,c2
+
+[v1]
+Când afară e întunecat,
+Cerul plânge neîncetat,
+Nimeni nu este cu mine,
+Știu că eu Te am pe Tine!
+
+[c]
+Ești lângă mine când nimeni nu e,
+Ești lângă mine când greu îmi e!
+
+[v2]
+Când nu pot să mă ridic,
+De putere sunt slăbit,
+Mă ridici din starea mea
+Și mă ții în mâna Ta!
+
+[c2]
+Ești lângă mine când nimeni nu e,
+Ești lângă mine când greu îmi e!
+Ești lângă mine să mă ridici,
+Ești lângă mine în orice zi!
+
+[e]
+Văd cum sfârșește noaptea, văd cum dispare ceața,
+Văd cum se crapă norii, văd cum răsar și zorii.
+Văd cum începe ziua, văd răsărind lumina,
+Văd cum au trecut toate, ești lângă mine-n noapte!

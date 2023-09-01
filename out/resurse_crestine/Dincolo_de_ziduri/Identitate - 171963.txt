@@ -1,0 +1,46 @@
+[title]
+Identitate {author: {Dincolo De Ziduri}, {rcId: {171963}}
+
+[sequence]
+v1,c,v2,c,c
+
+[v1]
+Pe umerii mei atârna pustia
+Mă rătăceam în păreri o mie
+În noaptea oarbă am crezut minciuna
+Risipind în jur iubiri cu vină
+Când lumina a atins lin ochii mei
+S-a născut adevărul
+
+[c]
+Privind la Tine
+Știu cine sunt
+Primesc valoare sunt
+Un templu sfânt
+Scutul meu e-n cuvintele
+Tale acum
+Ascuns în Tatăl aflu
+Cine sunt
+/: Privind la Tine
+Știu cine sunt
+Primesc valoare sunt
+Un templu sfânt
+Scutul meu e-n cuvintele
+Tale acum
+Ascuns în Tatăl aflu
+Cine sunt :/ x2
+Știu cine sunt
+Primesc valoare sunt
+Un templu sfânt
+Scutul meu e-n cuvintele
+Tale acum
+Ascuns în Tatăl aflu
+Cine sunt
+
+[v2]
+Pe umerii mei răsar cuvinte
+Ești iubit, spălat, curățat de patimi
+Atunci când pustia va râde fierbinte
+Eu nicidecum n-am să mă clatin
+Ochii mei privesc înaltul cerurilor
+De-acol’ vine-ajutorul

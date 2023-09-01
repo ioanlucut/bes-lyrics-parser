@@ -1,0 +1,35 @@
+[title]
+Haideti toti cu mic cu mare {author: {Anonim}, {rcId: {6811}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,v4,c
+
+[c]
+Haideți toți, cu mic, cu mare,
+Azi e mare sărbătoare,
+A-nviat Isus Hristos,
+Fii smerit și credincios.
+
+[v1]
+El pe cruce a suferit,
+Ca să fii tu fericit,
+A spălat păcatul greu,
+La Golgota-n locul tău.
+
+[v2]
+Din mormânt El a-nviat,
+Și în ceruri a plecat,
+A plecat la Tatăl Lui,
+Domnul slavei, cerului.
+
+[v3]
+Acum tu fii fericit,
+Și slăvește-L tot mereu,
+Pe acest Mântuitor,
+Scumpul nostru Salvator.
+
+[v4]
+Fii tu însuți credincios,
+Fii smerit și credincios,
+Că altul în lume nu-i,
+Să te ierte, iar tu să te supui Lui.

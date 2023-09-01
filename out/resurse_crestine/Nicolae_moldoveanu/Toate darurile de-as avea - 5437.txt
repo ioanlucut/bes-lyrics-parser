@@ -1,0 +1,21 @@
+[title]
+Toate darurile de-as avea {author: {Nicolae Moldoveanu}, {rcId: {5437}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Toate darurile de-as avea, o Sa vorbesc chiar in limbi si sa cant
+Si averea s-o impart dac-as vrea, o Fara dragoste, nimic nu sunt...
+
+[c]
+/: Urmariti sa aveti dragostea! o Toate pier, in veci ramane ea!
+Urmariti sa aveti dragostea! o Fara ea, nu primiti cununa! :/
+
+[v2]
+Rabdatoare dragostea este; o Bunatate revarsa din plin;
+Crede si acopera toate; o Ea, in viata, ne-aduce doar alin.
+
+[v3]
+Mai raman azi doar acestea trei: o Credinta, nadejdea, dragostea,
+Dar mai mare dintre toate acestea o Este si ramane dragostea.

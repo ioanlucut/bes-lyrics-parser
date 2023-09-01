@@ -1,0 +1,47 @@
+[title]
+Se-aud strajerii {author: {Nicu Wagner}, {rcId: {61643}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Se-aud străjeri - prelung răsună.
+Din turnuri de vegheri zăresc
+Nori mohorâți ce-aduc furtuna;
+Noi profeții se împlinesc.
+
+[c]
+/: Fiți treji, vegheați, :/
+Privirea-n sus vă ridicați.
+/: Acestea toate prevestesc
+Venirea Mirelui Ceresc. :/
+
+[v2]
+Se vindecă a fiarei rană.
+Popoare dupa ea pășesc;
+Deși la sfinți ea e dușmană,
+Cei mulți nu i se-mpotrivesc.
+
+[v3]
+Și tot acum se pregătește
+Și calea fiarei pe pământ.
+E un semnal ce se-mplinește
+Sub ochii noștri, frate sfânt.
+
+[v4]
+Biruitorii fiarei crunte,
+Icoanei, numărului ei,
+Vor sta pe marea cea de sticlă
+În cânt, cu harpa gloriei.
+
+[v5]
+Ei vor cânta cântul lui Moise,
+Al Mirelui ce-a biruit,
+Vor lăuda pe Cel ce-i veșnic,
+Lucrarea, Numele-i slăvit.
+
+[v6]
+Nu sta nepăsător, învinge!
+Ia-ți armătura sfântă azi;
+Te-ncalță, îmbracă-te, te-ncinge,
+Să fii găsit veghind și treaz.

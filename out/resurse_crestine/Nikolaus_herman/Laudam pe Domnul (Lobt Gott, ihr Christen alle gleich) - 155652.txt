@@ -1,0 +1,43 @@
+[title]
+Laudam pe domnul (lobt gott ihr christen alle gleich) {author: {Nikolaus Herman, Traducere RO}, {rcId: {155652}}
+
+[sequence]
+v1,v2,v3,v4,v5,s
+
+[v1]
+Lăudăm pe Domnul Dumnezeu
+Ce stă pe tron de har
+Căci a trimis pe Fiul Său
+Iubirea Lui în dar
+Iubirea Lui în dar.
+
+[v2]
+El a venit ca un Copil
+Lăsând slava din cer
+Și-n iesle S-a născut umil
+Isus, Emanuel
+Isus, Emanuel.
+
+[v3]
+Veșmânt de rob El a purtat
+În toate Slujitor
+Și către noi S-a aplecat
+Să fie de-ajutor
+Să fie de-ajutor.
+
+[v4]
+Pe cruce, El a pătimit
+În locul tuturor
+Dând har celor ce L-au primit
+Pe El, ca Salvator
+Pe El, ca Salvator.
+
+[v5]
+Cântări de laudă înălțăm
+Uniți în sfânt popor
+Și lui Isus ne închinăm
+Rege al regilor
+Rege al regilor.
+
+[s]
+Slavă lui Dumnezeu în locurile preaînalte și pace pe pământ între oamenii plăcuți Lui Luca 2:14

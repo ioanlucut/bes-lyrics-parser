@@ -1,0 +1,35 @@
+[title]
+Frumoasa-i roua {author: {Nicolae Moldoveanu}, {rcId: {244144}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Frumoasă-i roua pe ogor,
+Când zorii s-au întins.
+Când macii prind în cupa lor
+Văpăi de cer aprins.
+
+[v2]
+Frumos e crinul înflorit,
+Privind în jur stingher,
+Ca un străin abia venit
+Cu strai de nea din cer.
+
+[v3]
+Frumos e nufărul pe lac,
+Sub cerul înnoptat,
+Când mii de stele semn îi fac
+Și-adoarme Iegănat.
+
+[v4]
+Frumos e codrul de stejar,
+Când păsări trec în zbor,
+Când cerbii vin cu pasul rar
+La apa de izvor!
+
+[v5]
+Și dacă lucruri care pier
+Ne farmecă nespus,
+Dar cum va fl acolo-n cer
+În țara lui Isus!

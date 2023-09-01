@@ -1,0 +1,29 @@
+[title]
+Cu tine am inceput isus in asta lume {author: {Florin Ștefan}, {rcId: {168026}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cu Tine am început Isus în astă lume
+Călătoria vieții pe acest pământ
+Și stând mereu sub har aproape, langă Tine
+Am fost adăpostit prin valuri, ploi si vânt
+
+[c]
+/: Cu Tine Isuse am pace bucurie
+Cu Tine Isuse izvor de fericire
+Cu Tine Isuse în suflet am iubire
+Cu Tine am tot ce îmi doresc pe-acest pământ :/
+
+[v2]
+Din tinerețea mea pe Tin’ te caut Doamne
+Și langă al Tău tron pe veci vreau să rămân
+Să laud numele Tău scump slăvit și mare
+Pe veci să fiu al Tău iar Tu al meu stăpan
+
+[v3]
+Ce har măreț ce sfântă îndurare
+Mi-ai revarsat din plin în toate Domnul meu
+Să pot trai și să primesc în dar iertare
+Prin jertfa Ta Isus prin Tatăl Dumnezeu

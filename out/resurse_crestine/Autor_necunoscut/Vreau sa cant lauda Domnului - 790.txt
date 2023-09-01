@@ -1,0 +1,23 @@
+[title]
+Vreau sa cant lauda domnului {author: {Anonim}, {rcId: {790}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+/: Vreau sa cânt laudă Domnului
+Laudă Numelui Său
+Vreau să cânt laudă Domnului
+Fie înălțat mereu :/
+
+[v1]
+Dis de dimineață mă închin înaintea Lui
+Dis de dimineață eu Îi cânt Domnului
+Știu că ma ascultă și rămâne în preajma mea
+Știu că mă iubește de aceea Îi voi cânta.
+
+[v2]
+Chiar și pe-nserate mă închin înaintea Lui
+Când se lasă noaptea eu îi cânt Dmnului
+Știu că mă păzește și rămâne-n preajma mea
+Știu că mă iubește de aceea îi voi cânta.

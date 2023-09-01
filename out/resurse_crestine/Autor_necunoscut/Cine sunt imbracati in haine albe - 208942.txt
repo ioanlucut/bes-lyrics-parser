@@ -1,0 +1,29 @@
+[title]
+Cine sunt imbracati in haine albe {author: {Anonim}, {rcId: {208942}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cine sunt imbrăcați in haine albe?
+Oare aceștia știi de unde vin?
+O căt popor, mulțimi nenumărate
+Strigă slavă Domnului, amin,!
+
+[c]
+Au fost strămtorați pe acest pămănt
+Și-alungați au fost oricănd
+Acuma in cer ei se odihnesc
+Dureri și nevoi ei nu mai simțesc
+
+[v2]
+Arșița zilei nu-i mai dogorește
+Și nici-odată n-or mai flămănzi
+Asupritorul nu-i mai prigonește
+De-osteneli ei se vor odihni!
+
+[v3]
+Mielul cel Sfănt ii duce la izvoare
+Orice-nsetare El va stămpăra
+Veșnică slavă, binecuvăntare
+Lăngă Domnul Isus vor avea!

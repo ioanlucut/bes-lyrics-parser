@@ -1,0 +1,29 @@
+[title]
+Dragostea {author: {Andreea și Andrei Mois}, {rcId: {188099}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Cântece și bucurie, asta este calea Sa
+Într-o simplă armonie vă unește dragostea
+Zile rele sau senine cine știe ce va fi
+De e rău sau de e bine prin dragoste veți reuși.
+
+[c]
+/: Căci dragostea, e lumină în apus
+Dragostea, dar ceresc venit de sus
+Dragostea, tu rămâi când toate trec
+Dragostea, dragostea, dragostea. :/
+
+[v2]
+Se unesc azi două inimi, e o zi de bucurii
+De sunt zâmbete sau lacrimi dragostea vă va-nsoți
+Și prin viață de vor trece clipe tulburi și nori gri
+Voi să știți în orice vreme prin dragoste veți reuși.
+
+[e]
+Și peste voi anii vor trece
+Și nu va fi doar cer senin
+Când încercarea va fi mare
+Prin dragoste veți reuși.

@@ -1,0 +1,35 @@
+[title]
+Mi-e dor de locul pregatit de domnul {author: {Nicu Chereji}, {rcId: {205368}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Mi-e dor, mi-e dor de locul pregătit de Domnul
+Mi-e dor, mi-e dor de Paradis
+Mi-e dor, mi-e dor de pe Pământ să îmi iau zborul
+Mi-e dor de Țara cea de vis
+
+[c]
+Isuse veșnică iubire minunată
+Iubite Fiu de Dumnezeu
+Tu m-ai ales din lumea aceasta întunecată
+Să fiu mereu pe brațul Tău!
+
+[v2]
+În inima păstrez dorința arzătoare
+De-a Te vedea cât mai curând
+Iar după-al Tău Cuvânt ce n-are asemănare
+Sunt de zi tot mai flămând.
+
+[v3]
+Sunt binecuvântat de Tine Domnul Slavei
+Deși nu merit tot ce-mi dai
+Dar harul Tău preasfânt și marea-Ți îndurare
+Îmi poartă sufletu-nspre Rai!
+
+[v4]
+Pe-a Tale brațe minunate, Sfinte Tată
+Voi fi purtat mereu, mereu
+Căci inima mie pe deplin încredințată
+În harul Tău de Dumnezeu!

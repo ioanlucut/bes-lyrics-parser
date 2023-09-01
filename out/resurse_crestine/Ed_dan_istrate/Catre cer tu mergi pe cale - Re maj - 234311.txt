@@ -1,0 +1,29 @@
+[title]
+Catre cer tu mergi pe cale - re maj {author: {ed. Dan Istrate}, {rcId: {234311}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Către cer tu mergi pe cale
+Dar ai tăi copii ce fac?
+/: Ei de ce nu sunt cu tine,
+Vrei să fii doar tu salvat? :/
+
+[v2]
+Cum de nu sunt ei cu tine,
+Mamă, tată-ai tăi copii?
+/: Nu-i lăsa să umble-n lume.
+Pentru veci ei vor pieri! :/
+
+[v3]
+Frate, unde ți-e soția?
+Soră, unde-i al tău soț?
+/: Roagă-te, fii bun exemplu,
+Și vestește-L pe Christos! :/
+
+[v4]
+Voi, părinți, luați copiii
+Și-i aduceți la Isus,
+/: Ca-mpreună-n veșnicie
+Să vă bucurați nespus. :/

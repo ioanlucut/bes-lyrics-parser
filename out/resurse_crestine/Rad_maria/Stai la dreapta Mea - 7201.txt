@@ -1,0 +1,35 @@
+[title]
+Stai la dreapta mea {author: {Rad Maria}, {rcId: {7201}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,v4,c
+
+[c]
+Stai la dreapta Mea, Domnul va zice așa.
+Și nu te lăsa jos cu viața ta
+Primește-l pe Isus, ridică-te mai sus,
+Căci Domnul te iubește
+
+[v1]
+Stai la dreapta Mea,
+Așa zice Domnul Isus,
+Stai la dreapta Mea,
+Domnul va zice așa
+
+[v2]
+Stai la dreapta Mea, Domnul va zice așa,
+Când va reveni, iarăși într-o zi.
+El se va-ndrepta și pe noi ne va lua,
+Să ne ducă sus, unde e Isus.
+
+[v3]
+Stai și nu pleca, te mai roagă Lui așa,
+Să te-ncrezi în El, să nu pleci defel.
+Te du la crucea Lui și spune-i Domnului
+Tot păcatul tău, îl iartă Dumnezeu.
+
+[v4]
+Stai acum cu noi să nu dai ’napoi,
+Curând va reveni, chiar Domnul într-o zi.
+Primește mila Să, crede în jertfa Sa,
+Ascultă voia Să și El va zice așa:

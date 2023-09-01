@@ -1,0 +1,33 @@
+[title]
+Oare cand te vei trezi? {author: {Marta_Bergheaua}, {rcId: {241350}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Oare când te vei trezi? O, poporul meu!
+Căci mult timp nu va mai fi! O, poporul meu!
+Ți-am vorbit, te-am mângâiat, te-am păzit mereu!
+Dar nepăsător ai stat, murmurând prin greu!
+
+[c]
+E timpul cercetării tale; e timpul azi să te ridici!
+Căci din dureri, amar și jale; curând Isus, te ia de aici!
+
+[v2]
+Oare când te vei trezi, dacă nu acum?
+Să nu spui că mai ai timp, zăbovind pe drum!
+O, de câte ori te-am strâns lângă pieptul Meu?
+Te-am hrănit, te-am adăpat. căci sunt Dumnezeu!
+
+[v3]
+La sfințire ești chemat! Nu la adunat
+Lucruri care îs pentru foc, și te-au întinat!
+Nu uita: ești călător înspre Canaan!
+Oare cum nu-ți este dor să ajungi la liman?
+
+[v4]
+Toate astăzi îți vorbesc, căci Eu voi veni!
+Dar întreabă-te acum: cum te voi găsi?
+Caută să te sfințești pentru Domnul tău!
+Nu înceta ca să rostești:,, Sfant e Dumnezeu! ’’

@@ -1,0 +1,35 @@
+[title]
+Doamne tu esti - you are my strength {author: {Hillsong, Traducere RO}, {rcId: {6830}}
+
+[sequence]
+v1,v2,c,v3,c,e
+
+[v1]
+Doamne Tu ești:
+A mea putere,
+A mea tărie
+Ești stânca mea
+
+[v2]
+Doamne Tu ești:
+A mea speranță
+Și mângâiere
+Ești Domnul meu.
+
+[c]
+Prin puterea sângelui
+Și măreția numelui
+Tu mă ridici, Tu mă ridici.
+/: Prin puterea sângelui
+Și măreția numelui
+Tu mă ridici, Tu mă ridici. :/
+
+[v3]
+Doamne Tu ești
+A mea putere,
+A mea speranță
+Și dragoste.
+
+[e]
+/: Iubirea Ta va dăinui în veșnicii
+Îndurarea Ta nu se va sfârși :/

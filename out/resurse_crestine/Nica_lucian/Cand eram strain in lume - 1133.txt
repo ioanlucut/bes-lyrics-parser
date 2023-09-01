@@ -1,0 +1,29 @@
+[title]
+Cand eram strain in lume {author: {Nica Lucian}, {rcId: {1133}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când eram străin în lume
+Dragostea Ta sfântă Doamne
+M-a căutat prin întuneric
+La lumină m-ai adus.
+
+[c]
+Rătăceam în neștiință
+Dar Tu, Doamne m-ai văzut
+M-ai chemat Doamne pe nume
+Și-am venit prin harul Tău.
+
+[v2]
+Mi-ai vorbit cu vocea dulce
+Te iubesc și te-am ales
+M-ai atras prin îndurare
+Și la Tine am venit.
+
+[v3]
+Mi-ai întins o mână străpunsă
+Ce pe cruce ea a stat
+Te-ai atins Isus de mine
+Și m-ai binecuvântat.

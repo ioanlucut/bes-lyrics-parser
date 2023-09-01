@@ -1,0 +1,47 @@
+[title]
+In fata ta azi la altar {author: {Natanael Neag}, {rcId: {127743}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c2
+
+[v1]
+În fața Ta azi la altar
+Naintea marelui zidar
+Doi tineri vin spre a-i uni
+Isuse scump pentru vecii.
+
+[c]
+Noi Te rugăm Isuse sfânt
+În dragoste fă legământ
+Sa îi conduci pe aceast pământ
+Uniți pe veci pân’ la mormânt.
+
+[v2]
+Să le dai multe bucurii
+Putere pentru a-Ți sluji
+In casa lor să locuești
+Și în iubire să-i unești.
+
+[v3]
+Nimic nu poate dăinui
+Fără Hristos din veșnicii
+Să știti mereu voi tineri dragi
+Căci Domnul este bun cârmaci.
+
+[c]
+Isus vă va călăuzi
+Cuvântul sfânt de-l veți păzi
+În rugăciuni să stăruiți
+Cu Domnul isus să pășiți.
+
+[v4]
+Isus să-i binecuvintezi
+Prin harul Tău să iî formezi
+Să-ajungă sus în slava Ta
+Și Tu să le dai cununa.
+
+[c2]
+Cununa veșniciilor
+Cununa bucuriilor
+Care Tu, Doamne le-o vei da
+Celor care Te vor urma.

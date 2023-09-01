@@ -1,0 +1,41 @@
+[title]
+Coboara-te-n suflet isuse {author: {Nicu Cozma}, {rcId: {115892}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Coboară-te-n suflet, Isuse
+Din freamăt de ceruri senine
+/: Păcatul mi-l spală cu sânge
+Și du-l departe de mine :/
+
+[v2]
+Înlătură-mi ura de frate
+Îmbracă-mă-n haina cea nouă
+/: Să fiu scăldat în lumină
+Ca ploaia scăldată de rouă :/
+
+[v3]
+O rază de sus îmi coboară
+Să-mi țină lumina-nainte
+/: S-aud pretutindeni un cântec
+Numai a Tale cuvinte :/
+
+[v4]
+Întinde-mi în față Scriptura
+Și psalmii i-așterne-n picioare
+/: Coboară-mi de Sus fericirea
+Din ceruri scăldate de soare. :/
+
+[v5]
+Prin lumea de aștri mă poartă
+Versete mărețe-mi înșiră
+/: Dă stelelor glas de fanfară
+Și lunii acorduri de liră. :/
+
+[v6]
+Coboară-te-n suflet, Isuse
+Din freamăt de ceruri senine
+/: Al lumilor chinuri mi-adoarme
+Să simt fericirea cu Tine! :/

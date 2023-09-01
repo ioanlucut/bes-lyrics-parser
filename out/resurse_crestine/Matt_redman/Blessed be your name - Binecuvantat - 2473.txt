@@ -1,0 +1,38 @@
+[title]
+Blessed be your name - binecuvantat {author: {Matt Redman, Traducere RO}, {rcId: {2473}}
+
+[sequence]
+v1,b,c,v2,c,e
+
+[v1]
+Binecuvântat să fie al Tău Nume Sfânt
+Când lacrimi sunt pe al meu drum
+Fii binecuvântat
+Binecuvântat să fie al Tău Nume Sfânt
+Când în jertfă e viața mea
+Fii binecuvântat
+
+[b]
+Orice binecuvântare alegi să-mi dai
+Eu cu laudă-ți voi răspunde
+Și voi cânta
+
+[c]
+Binecuvântat fie El
+Binecuvântat
+Binecuvântat fie El
+Numele să-I fie înălțat
+
+[v2]
+Binecuvântat să fie al Tău nume Sfânt
+Căci în pustiu apă ai dat
+Fii binecuvântat
+Binecuvântat să fie al Tău Nume Sfânt
+Cenușa mi-ai schimbat în jar
+Fii binecuvântat
+
+[e]
+/: Ai dat și ai luat :/
+Din inim-am strigat
+”
+Fii binecuvântat!”

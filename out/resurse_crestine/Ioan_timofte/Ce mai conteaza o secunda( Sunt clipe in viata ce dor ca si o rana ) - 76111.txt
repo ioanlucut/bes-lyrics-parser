@@ -1,0 +1,35 @@
+[title]
+Ce mai conteaza o secunda( sunt clipe in viata ce dor ca si o rana ) {author: {Ioan Timofte}, {rcId: {76111}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Sunt clipe în viață ce dor ca și o rană,
+Sunt clipe de disperări adeseori,
+Sunt clipe când visul ușor ți se destramă
+Și cauți zadarnic în jur un ajutor.
+Sunt clipe când multe poveri prea greu te-apasă,
+Furtunile-acestei lumi fără zăvor,
+Dar nu uita, vine o clipă, odată,
+Când vei zbura dincolo de nori!
+
+[c]
+/: Când încercările-s prea grele
+Și nu știi când se vor sfârși,
+Mai este doar puțină vreme
+Și Cel ce vine va veni!
+Chiar dacă viața-i mult prea crudă
+Și te întrebi cât va dura,
+Ce mai contează o secundă
+Pe lângă veșnicia ta?
+
+[v2]
+Sunt clipe în viață când guști dezamăgirea
+Și vezi adevărul că e mult prea amar,
+Sunt clipe când nu poți găsi în tine puterea
+Să schimbi clipe de gheață în clipe de jar;
+Sunt clipe când multe poveri prea greu te-apasă
+Și ești cu fiece pas tot mai obosit,
+Dar nu uita că în curând tu, acasă
+Lângă Isus te vei odihni!

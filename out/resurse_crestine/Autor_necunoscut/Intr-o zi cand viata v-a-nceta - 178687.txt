@@ -1,0 +1,29 @@
+[title]
+Intr-o zi cand viata v-a-nceta {author: {Anonim}, {rcId: {178687}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c2
+
+[v1]
+Într-o zi când viața v-a-nceta, eu voi zbura,
+Către malul mării de cristal, eu voi zbura.
+
+[c]
+Eu voi zbura în glorie, eu voi zbura...
+Într-o zi, nimeni nu mă va opri, eu voi zbura!
+
+[v2]
+Umbra vieții când se va topi, eu voi zbura,
+Dezlegat ca o pasăre voi fi, eu voi zbura.
+
+[v3]
+Bucuroși, în cer ne vom vedea, noi vom zbura,
+Sfărâmat, lanțul rece va cădea, eu voi zbura.
+
+[v4]
+În curând spre ceruri vom porni, noi vom zbura,
+Unde numai bucurii vor fii, noi vom zbura.
+
+[c2]
+Noi vom zbura în glorie, noi vom zbura...
+Într-o zi, nimeni nu ne va opri, noi vom zbura.

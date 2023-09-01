@@ -1,0 +1,17 @@
+[title]
+Intrati cu laude pe portile lui {author: {Speranța}, {rcId: {111335}}
+
+[sequence]
+v1,c,e
+
+[v1]
+/: Intrați cu laude pe porțile Lui
+Intrați cu cântări, în cinstea Lui. :/
+
+[c]
+/: Căci Domnul este bun, bunătatea Lui rămâne
+Și credincioșia Lui în veci nu va apune. :/
+
+[e]
+Lăudați-I Numele, Cântați-I Glorie
+Să-L preamărim pe Dumnezeu!

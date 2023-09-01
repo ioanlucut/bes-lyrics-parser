@@ -1,0 +1,33 @@
+[title]
+A fost un timp (there was a time) {author: {DeGarmo, Key Band, Traducere RO}, {rcId: {65072}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+A fost un timp, viața mi-a fost goală,
+Un timp când inima s-a răcit.
+Dar Tu ai venit cu-a Ta milă, Doamne,
+Tu ai venit cu dragostea Ta.
+
+[c]
+Nu pot schimba tot ce-a trecut,
+Dar acest lucru mic îl fac:
+Ție-Ți dau tot ce mi-a rămas,
+Tot ce mi-a rămas.
+Ție-Ți dau tot ce mi-a rămas,
+Doamne!
+
+[v2]
+Am iubit lumea și-am rămas singur,
+Pe min’ m-am iubit și-asta m-a orbit.
+Dar Tu ai venit, cu multă răbdare,
+Tu ai venit cu dragostea Ta.
+
+[b]
+De-aș putea trăi din nou acești ani,
+Ție Ți i-aș da, Doamne,
+Ți i-aș închina, Doamne.
+De-aș putea trăi din nou acești ani,
+Ție Ți i-aș da, Doamne,
+Ți i-aș închina, Doamne.

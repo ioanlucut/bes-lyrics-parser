@@ -1,0 +1,34 @@
+[title]
+Undeva pe mine m-ai gasit {author: {Ionel Saran Bochis}, {rcId: {90100}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,c3
+
+[v1]
+Undeva pe mine m-ai găsit, eu eram lovit și părăsit
+Toți m-au părăsit, m-au ocolit, dar Tu te-ai oprit, m-ai curățit
+M-ai luat Isus pe brațul Tău, la hangiu Tu i-ai plătit.
+
+[c]
+/: Și tu erai căzut cândva pe același drum spre Ierihon
+Dar Isus Domnul ne-a salvat, viață-n dar prin har ne-a dat :/
+
+[v2]
+Mai apoi pe drumul cel pustiu, până la hangiu, până la han
+Și m-ai ridicat, pe-asin m-ai pus și mi-ai dat să beau și să mănânc
+Nu știam că Tu pe min´ Isuse pui așa de mare preț
+
+[c2]
+/: Și tu erai căzut cândva pe același drum spre Ierihon
+Dar Tu Isuse m-ai salvat, viața mie mi-ai schimbat :/
+
+[v3]
+Undeva ai fost și tu așa, nimenea nu ți-a întins mâna
+Și atâți leviti și-atâți preoți au trecut nepăsători cu toți
+Numai Tu Isuse te-ai oprit, pe mine m-ai mântuit
+
+[c3]
+/Și tu erai căzut cândva pe același drum spre Ierihon
+Dar Tu Isuse m-ai salvat, viața mie mi-ai schimbat :/
+/: Și tu erai căzut cândva pe același drum spre Ierihon
+Dar Tu Isuse m-ai salvat, viața mie mi-ai schimbat :/

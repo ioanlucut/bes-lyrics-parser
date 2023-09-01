@@ -1,0 +1,36 @@
+[title]
+Azi ne inchinam in fata ta {author: {Doru Gîrboan}, {rcId: {140849}}
+
+[sequence]
+v1,b,c,v2,b,c,e
+
+[v1]
+De când noi am venit în lumea aceasta
+Atâtea ploi și vânturi,
+Doamne, au bătut,
+Dar Tu în toate ne-ai purtat de grijă,
+Ne-ai ridicat cu milă atunci când am căzut.
+
+[b]
+Ș-acum venim să-Ți mulțumim, Isuse,
+Acum venim să îngenuchem, cântând.
+Ș-acum venim să-Ți mulțumim, Isuse,
+Acum venim să îngenuchem, cântând.
+
+[c]
+Azi ne închinăm în fața Ta cu mulțumire
+Și-Ți dăruim cu bucurie inima,
+Căci Tu ne porți de grijă, Doamne, cu iubire
+Și ne lăsăm, Isus, purtați pe palmă Ta.
+
+[v2]
+Noi nu dorim nimic în lumea acesta
+Și vrem de Tine, Doamne, să ne-alipim,
+Căci ești cu noi în fiecare clipă,
+Iubirea Ta la orice pas noi o simțim.
+
+[e]
+Azi ne închinăm în fața Ta cu mulțumire
+Și-Ți dăruim cu bucurie inima,
+Căci Tu ne porți de grijă, Doamne, cu iubire
+Și ne lăsăm, Isus, purtați pe palmă Ta.

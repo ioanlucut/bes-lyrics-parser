@@ -1,0 +1,23 @@
+[title]
+Fericiti sunt cei ce se incred in domnul {author: {Elvis Stoica}, {rcId: {158916}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+/: Când îți întorci privirile spre Domnul Sfânt,
+Te luminezi de bucurie-n fața Lui!
+Din necazurile vieții, te izbăvește,
+Și te aude când Îl chemi încrezător! :/
+
+[c]
+/: Fericiți sunt cei ce se încred în Domnul,
+Cei ce se tem de El, nu vor pieri!
+Cei ce caută pe Domnul cel puternic,
+Vor avea belșug de har necontenit! :/
+
+[v2]
+/: Când îți întorci privirile spre Domnul Sfânt,
+De rușine niciodată nu vei fi!
+Doar cei drepți și cei ce sunt neprihăniți,
+Vor moșteni cerul întreg cu Dumnezeu! :/

@@ -1,0 +1,42 @@
+[title]
+S-alergam s-alergam inainte {author: {Nicolae Moldoveanu}, {rcId: {189868}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+S-alergăm, s-alergăm înainte,
+Pe-a vieții cărare oricând,
+/: Căci viața cerească, fierbinte,
+O primim și-o păstrăm naintând! :/
+
+[v2]
+S-alergăm, s-alergăm înspre Țintă,
+Stăruind, s-alergăm ne-ncetat,
+/: Cine zilnic spre Cer nu se-avântă,
+Va cădea mai adânc în păcat. :/
+
+[v3]
+S-alergăm, s-alergăm spre lumină,
+Luminați de preasfântul Cuvânt,
+/: Adevărul și pacea divină,
+Le primim dezlegați de pământ! :/
+
+[v4]
+S-alergăm, s-alergăm cu credință,
+Chiar și-atunci când dureri încercăm,
+/: Căci atunci vom avea biruință,
+Când spre Cer, credincioși, naintăm! :/
+
+[v5]
+S-alergăm, s-alergăm spre vecie,
+Naintând pe cărarea de har,
+/: De trăim zi de zi-n curăție,
+Vom păși al veciei hotar. :/
+
+[v6]
+S-alergăm, s-alergăm cu speranță
+Naintând înspre Cerul frumos,
+/: ’
+Naintarea ne dă siguranță,
+Că suntem și trăim în Hristos! :/

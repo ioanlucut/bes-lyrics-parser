@@ -1,0 +1,68 @@
+[title]
+Crezul (the creed) {author: {Hillsong Worship, Traducere RO}, {rcId: {139244}}
+
+[sequence]
+v1,c,v2,c,c,e
+
+[v1]
+Eternul nostru Tată,
+A toate creator
+Atotputernic.
+Prin Duhul Sfânt se naște
+Al Tău Fiu pe pământ
+Isus Salvatorul.
+
+[c]
+Cred în Dumnezeu ca Tată,
+Cred în Isus Fiul Său,
+Cred în Duhul Sfânt cel veșnic,
+Triunic Dumnezeu,
+Cred în a Ta înviere,
+Cred că noi vom învia,
+Da, eu mă-ncred în Numele Lui Isus!
+Cred în Dumnezeu ca Tată,
+Cred în Isus Fiul Său,
+Cred în Duhul Sfânt cel veșnic,
+Triunic Dumnezeu,
+Cred în a Ta înviere,
+Cred că noi vom învia,
+Da, eu mă-ncred în Numele Lui Isus!
+/: Cred în Dumnezeu ca Tată,
+Cred în Isus Fiul Său,
+Cred în Duhul Sfânt cel veșnic,
+Triunic Dumnezeu,
+Cred în a Ta înviere,
+Cred că noi vom învia,
+Da, eu mă-ncred în Numele Lui Isus! :/
+Da, eu mă-ncred în Numele Lui Isus!
+Da, eu mă-ncred în Numele Lui Isus!
+/: Cred în Dumnezeu ca Tată,
+Cred în Isus Fiul Său,
+Cred în Duhul Sfânt cel veșnic,
+Triunic Dumnezeu,
+Cred în a Ta înviere,
+Cred că noi vom învia,
+Da, eu mă-ncred în Numele Lui Isus! :/
+Da, eu mă-ncred în Numele Lui Isus!
+
+[v2]
+Tu judeci, Tu ne aperi,
+Pe cruce-ai suferit
+Și ne-ai dat iertare.
+Din locuința morții,
+În glorie înviat
+Ești veșnic înălțat!
+
+[b]
+/: Cred în Tin’ Isus,
+Cred că Tu ai inviat,
+Da, eu cred că Isus este Domn. :/
+
+[e]
+Cred în viață după moarte,
+Cred în nașterea din nou,
+Cred în sfânta părtășie,
+Și în Biserică.
+Cred că va fi învierea,
+Când Isus va veni
+Da, eu cred în Numele lui Isus!

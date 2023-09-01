@@ -1,0 +1,23 @@
+[title]
+Avem in cer un dumnezeu {author: {Nicolae Zamfir}, {rcId: {104505}}
+
+[sequence]
+v1,v2,c,v3,c
+
+[v1]
+Avem în cer un Dumnezeu, El este sfânt, veșnic sfânt,
+Prin El trăim și existăm, spre El mâinile ridicăm.
+
+[v2]
+Avem în cer pe Fiul Său, preasfântul Fiu de Dumnezeu,
+Prin El am fost eliberați, prin rănile Lui vindecați.
+
+[c]
+Să-L slăvim, Să-L slăvim,
+Să-I cântăm, Să-L preamărim,
+Să strigăm Aleluia,
+Cu toții în cor Aleluia, Aleluia, Aleluia!
+
+[v3]
+Prin Duhul Sfânt ne bucurăm, numele Lui înălțăm,
+Numele Tatălui cântăm, pe Fiul noi Îl onorăm, mânile le ridicăm!

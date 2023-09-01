@@ -1,0 +1,28 @@
+[title]
+Leaga-mi inima de cer {author: {Alin și Emima Timofte}, {rcId: {101865}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Văd în jurul meu ceva ciudat
+Nici măcar nu știu cum s-a-ntâmplat
+Văd cum viața-i luată azi cu asalt
+Mulți privesc doar la folosul lor
+Vor un viitor strălucitor
+Și privesc pământul ca pe casa lor.
+
+[c]
+Doamne leagă-mi inima de cer
+Unde-i casa mea, în prezența Ta
+N-am nevoie nimic de-aici
+Bogăția mea e prezența Ta
+Eu știu, o, eu știu.
+
+[v2]
+Timpu-i prețios și n-am de gând
+Să încerc s-adun în palme vânt
+Știu că viața e mai mult decât pământ
+Lumea asta-i doar un scurt popas
+Pân’ ajung acasă nu mă las
+Nu aș vrea să-ntârzii nici măcar un ceas.

@@ -1,0 +1,46 @@
+[title]
+Pentru hrana ce-o avem {author: {Anonim}, {rcId: {1325}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Pentru hrana ce-o avem
+Pentru apa ce o bem,
+Pentru lanul cel cu rod,
+Pentru viața ce-i în bob
+
+[c]
+Pentru toate ce primim
+Doamne Ție-Ți mulțumim
+Fie slava-n veci, Amin!
+
+[v2]
+Pentru pacea cu vecini,
+Pentru răni ce le alini.
+Pentru floare și parfum,
+Pentru aurul din drum.
+
+[v3]
+Pentru zgomotul din munți,
+Ce te-mbată când l-asculți
+Pentru nori și curcubeu,
+Ce ne spun de Dumnezeu.
+
+[v4]
+Pentru Harul dovedit,
+Pentru Raiul pregătit.
+Pentru jertfa lui Isus,
+Nu-s cuvinte îndeajuns.
+
+[v5]
+Pentru soare, pentru plai,
+Pentru Duhul Tău din noi,
+Nu se poate mulțumi,
+Mii de vieți de am trăi
+
+[v6]
+Pentru Sfântul tău Cuvânt,
+Pentru Duhul Tău cel Sfânt.
+Pentru viața ce ne-ai dat,
+Doamne-n veci fii lăudat!

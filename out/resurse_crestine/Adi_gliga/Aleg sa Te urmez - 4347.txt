@@ -1,0 +1,24 @@
+[title]
+Aleg sa te urmez {author: {Adi Gliga}, {rcId: {4347}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Mai ieri eram copil, vedeam numai în parte
+Dar anii au trecut și am crescut.
+Și mergem mai departe pe drumuri lungi, pustii
+Ne-apropiem de moarte cu fiecare zi.
+
+[c]
+/: Aleg să Te urmez :/ ×3
+Dincolo de toate.
+Aleg să Te urmez
+În lumea nevăzută
+Aleg să te urmez.
+
+[v2]
+E timpu-așa de scurt și nu e-o întâmplare
+Ne ducem cum venim, oricine moare
+Clipele se scurg și nu vreau să le pierd
+Tot mai mult tânjesc cu Tine să trăiesc.

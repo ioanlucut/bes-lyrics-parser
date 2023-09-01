@@ -1,0 +1,30 @@
+[title]
+Ce e un copil? {author: {Marian Fedur}, {rcId: {178103}}
+
+[sequence]
+v1,c2,v2,c2,e
+
+[v1]
+Ce e un copil ce-ți poate aduce un zâmbet?
+Ce e, un glas duios sau plâns cu suspin?
+Când îl privești, lumină-ndată-ți aduce,
+Te-ai întrebat vreodată ce e un copil?
+
+[c2]
+/: Un copil e o speranță-n casa ta,
+E un glas ce poate da laudă lui Dumnezeu,
+El e-un dar de mare preț din partea Sa,
+E-o moștenire, nu uita, și-o răsplătire pe Pământ. :/
+/: Un copil e o săgeată-n mâna ta,
+De ești războinic, vei putea lumi întregi să cucerești.
+E ferice de oricine-și umple tolba cu săgeți,
+Căci de rușine niciodat’ nu va fi dat. :/
+
+[v2]
+Ce e un copil, ce sprijin îți poate aduce?
+Vezi ceru-n el și slava lui Dumnezeu.
+Zâmbetul său printre stele te conduce,
+Te-ai întrebat vreodată ce e un copil?
+
+[e]
+Deci, pentru tine, ce e azi un copil?

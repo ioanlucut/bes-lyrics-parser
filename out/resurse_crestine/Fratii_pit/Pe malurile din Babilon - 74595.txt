@@ -1,0 +1,33 @@
+[title]
+Pe malurile din babilon {author: {Fratii Pit}, {rcId: {74595}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Pe malurile din Babilon, plângând stăteam
+Și de Sion ne aminteam.
+În sălciile din acel ținut, unde rob eram,
+Noi, harfele le atârnam.
+
+[c]
+/: Ierusalime, tu ești bucuria mea
+Nu te-oi uita, nu te-oi uita! :/
+
+[v2]
+Că ai noștri biruitori, cântări cereau,
+Iar asupritorii așa ziceau:
+Din cântările Sionului acum am vrea
+Să ne cântați nouă câteva.
+
+[v3]
+Cum să cântăm noi cântările lui Dumnezeu
+Pe un pământ, unde străini suntem?
+Ierusalime dacă te-oi uita
+Și dreapta mea, să își uite destoinicia sa.
+
+[v4]
+Să mi se lipească limba mea de cerul gurii
+Dacă nu-mi voi aminti de tine.
+De nu voi face Ierusalime
+Doar din tine, o culme a bucuriei mele.

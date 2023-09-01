@@ -1,0 +1,36 @@
+[title]
+Esti trist si framantat {author: {Simon Boloca}, {rcId: {202129}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Ești trist și frământat,
+De grijuri și păcat.
+Ești singur dar mereu,
+Fără de Dumnezeu.
+
+[c]
+/: Vine și ziua când vei pleca, iubitul meu nu te-nșela,
+Vei plânge amarnic dar fără rost, ai avut har și nu te-ai întors.
+Dar astăzi vino, vin’ la Hristos, El este șansa pentru cel păcătos,
+Poate și ție iertarea să-Ți dea, de îi predai Lui viața ta: \
+
+[v2]
+Vin la Isus acum,
+Lasă tot ce nu-i bun.
+Nu mai sta în păcat,
+De vrei să fii salvat.
+
+[v3]
+Plânge-ți trecutul tău,
+Cere sângele Său.
+Să-ți spele vina ta,
+Și vei primi pacea.
+
+[c2]
+/: Astăzi acum e șansa ta, poți să îi spui Lui Isus ”
+DA”,
+El te iubește că-n Golgota, și pentru tine Și-a dat viața.
+Primește-L azi în viața ta, nu te împietri nu amâna,
+Nu știi poate, e ultima, bătaie la inima ta! : \

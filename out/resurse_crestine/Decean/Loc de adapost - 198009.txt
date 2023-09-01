@@ -1,0 +1,47 @@
+[title]
+Loc de adapost {author: {Decean}, {rcId: {198009}}
+
+[sequence]
+v1,v2,c,c
+
+[v1]
+Tu esti locul meu de scapare
+Esti stanca mea cea tare
+Locul meu de-adapost
+Esti pacea mea
+Tu esti locul de siguranta
+Speranta ce imi da viata
+Locul meu de-adapost
+Tu esti sursa mea
+
+[v2]
+Chiar daca trec prin pustie
+Esti izvorul ce-mi da apa vie
+Locul meu de-adapost
+Mantuirea mea
+Prin credinta privesc la Tine
+Doamne mana Ta ma tine
+Locul meu de-adapost
+Speranta mea
+
+[c]
+Te laud, am sa-Ti cant in miez de noapte
+Te laud, prin ale mele soapte
+Am sa-Ti cant si atunci cand nu mai am glas
+Am sa-Ti dau tot ce sunt, tot ce mi-a mai ramas
+Doar Tie, Isuse
+Doar Tie, Isuse
+/: Te laud, am sa-Ti cant in miez de noapte
+Te laud, prin ale mele soapte :/
+x2
+/: Am sa-Ti cant si atunci cand nu mai am glas
+Am sa-Ti dau tot ce sunt, tot ce mi-a mai ramas :/
+x3
+/: Doar Tie, Isuse :/
+x3
+
+[b]
+/: Tu ma conduci cu mana Ta
+Un stalp de foc in noaptea grea
+Eu nu ma tem stau in prezenta Ta :/
+x2

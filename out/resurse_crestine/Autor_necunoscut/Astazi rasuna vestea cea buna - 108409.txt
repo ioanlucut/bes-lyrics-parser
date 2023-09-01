@@ -1,0 +1,27 @@
+[title]
+Astazi rasuna vestea cea buna {author: {Anonim}, {rcId: {108409}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Astăzi răsună vestea cea bună,
+Azi a înviat Isus.
+O, ce splendoare, e sărbătoare,
+Plină de har nespus.
+
+[c]
+Slavă, glorie, Isus e biruitor,
+Imnuri de mărire cântă al Său popor.
+
+[v2]
+Din bezna morții, Regele vieții
+Azi a înviat Isus,
+Sfantă sperantă și siguranță
+În suflet ne-a adus.
+
+[v3]
+Gol e mormântul, cântă pământul,
+Azi a înviat Isus,
+Moartea-i învinsă, Calea-i deschisă
+Spre patria de sus.

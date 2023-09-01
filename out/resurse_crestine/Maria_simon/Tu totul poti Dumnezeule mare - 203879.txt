@@ -1,0 +1,39 @@
+[title]
+Tu totul poti dumnezeule mare {author: {Maria Șimon}, {rcId: {203879}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Noi credem, noi credem
+Doamne deplin al Tău Cuvânt
+Căci singuri nu vom fi nicicând
+De-or veni încercări și grijuri șuvoi
+Tu ai spus că vei fi mereu cu noi
+
+[c]
+Tu totul poți Dumnezeule mare
+Chiar dacă azi greu totul pare
+Suntem ai Tăi de noi Îți pasă
+Cuvântul Tău ridică, dă viață
+
+[v2]
+Noi știm, noi știm
+Că ești cu noi orice-ar fi
+Chiar de greul apasă zi de zi
+Te apleci la cel cu durerea grea
+Iei povara cu mâna Ta
+
+[v3]
+Speranța, speranța noastră
+Veșnică Tată ești
+Cu dragoste mereu ne privești
+Ne cuprinzi pe toți în palma Ta
+Ce mare e iubirea Ta
+
+[v4]
+Ai Tăi, ai Tăi suntem
+Doamne pe deplin
+Tu ne ții în harul Tău divin
+Vrem smeriți să rămânem la crucea Ta
+Până când Doamne vei apărea

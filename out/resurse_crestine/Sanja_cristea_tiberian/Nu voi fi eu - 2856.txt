@@ -1,0 +1,53 @@
+[title]
+Nu voi fi eu {author: {Sanja Cristea Tiberian}, {rcId: {2856}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+M-ai întrebat dar n-am putut răspunde,
+M-ai adunat apoi la pieptul Tău
+Cum stau aici n-o să mai stau niciunde
+Și nicidecum n-o să-mi mai pară rău.
+
+[c]
+M-ai curățit și m-ai sfințit
+Și n-a fost în zadar Cuvântul Tău
+L-am strâns și eu
+Și-apoi L-am dat în dar
+
+[v2]
+M-am închinat și m-am rugat cu frică
+Să nu mă lași aicea pe pământ
+Întinde-ți, Doamne, mână și ridică
+Atinge-mă din nou cu Duhul Sfânt.
+
+[c2]
+Iubește-mă, atinge-mă
+din nou cu Duhul Sfânt
+nu mă lăsa, nu mă uita
+pierdută pe pământ
+
+[v3]
+Și-am să înțeleg ce nu se poate spune
+Ce-i presimțit în mintea mea de-abia,
+Fă, Doamne-Dumnezeule-o minune
+Și-ajută-mă să nu mai ies din ea...
+
+[c3]
+/: Rămâi mereu cu mine Dumnezeu
+Tu ești minunea mea
+Sfințește-mă, ajută-mă
+Să nu mai ies din ea :/
+
+[v4]
+Desfă-Te, Doamne sfinte din înaltul
+Acestui cer ce stă acolo sus
+Nu voi fi eu să Te primesc, ci altul
+Nu voi fi eu, va fi numai Isus...
+
+[c4]
+/: Când Te voi ști în lume nu voi fi
+Și nici acuma nu-s
+Nu voi fi eu
+Ci-n locul meu te va primi Isus. :/

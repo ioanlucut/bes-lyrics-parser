@@ -1,0 +1,24 @@
+[title]
+Daca poporul meu {author: {Cristian Cazacu}, {rcId: {159291}}
+
+[sequence]
+v1,c,v1,c,c
+
+[v1]
+/: Dacă poporul Meu,
+Peste care este chemat Numele Meu,
+Se va smeri, se va ruga, va căuta Fața Mea,
+Se va întoarce de la căile lui rele,
+/: Voi asculta din cerul de sus,
+Îi voi ierta păcatul! :/
+
+[c]
+Și îi voi tămădui țara,
+Îi voi tămădui țara!
+Îi voi tămădui țara!
+
+[c]
+/: Îi voi tămădui țara!
+Îi voi tămădui țara!
+Îi voi tămădui țara! :/
+Îi voi tămădui România!

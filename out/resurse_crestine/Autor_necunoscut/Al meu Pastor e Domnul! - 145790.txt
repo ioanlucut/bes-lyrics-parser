@@ -1,0 +1,26 @@
+[title]
+Al meu pastor e domnul {author: {Anonim}, {rcId: {145790}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+/: Al meu Păstor e Domnul!
+Eu lipsă nu duc! :/
+
+[v2]
+/: Căci Domnul meu,
+Mă conduce la câmp verde.
+El mă duce până la Tatăl meu ceresc. :/
+
+[v3]
+/: Chiar dac-ar fi
+Ca să umblu-n valea umbrei morții,
+Nici de-un rău nu mă tem,
+Căci ești cu mine.
+Toiagul mă mângâie. :/
+
+[v4]
+Al meu Păstor e Domnul!
+/: Eu lipsă nu duc! :/
+Eu nu duc.

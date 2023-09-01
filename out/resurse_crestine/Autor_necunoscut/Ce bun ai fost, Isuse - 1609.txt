@@ -1,0 +1,55 @@
+[title]
+Ce bun ai fost isuse {author: {Anonim}, {rcId: {1609}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Ce bun ai fost, Isuse,
+Căci pacea Tu ne-ai dat,
+Și veșnica viață
+Prin sângele-Ți vărsat.
+Asupra Ta disprețul,
+Batjocura și chinul
+Luate-au fost de Tine,
+Spre-a ne-n noi destinul.
+
+[c]
+Cum vom putea sa-Ți mulțumim,
+Pentru-acest bine ce-l primim?
+Suntem săraci, n-avem ce-Ți da,
+Isuse, știi prea bine;
+Chiar daca-m plange neîncetat
+Pe-acest pământ înstrăinat
+Ce mii de lacrimi l-au udat,
+Tot n-am fi demni de Tine.
+
+[v2]
+Ai îndurat ocara
+Și bice fără număr;
+Apoi, Ți-au dat și crucea
+S-o duci pe al Tău umăr.
+Cu fruntea-n sângerată,
+Încununat de spini
+Urcai, Isus, calvarul, 
+Pierdut printre străini.
+
+[v3]
+Zdrobit de suferință,
+Pe lemn Te-au pironit,
+Dar Tu spre ei, Isuse,
+Cu milă ai privit.
+Te-ai dus astfel la moarte,
+C-apoi să ne primești
+Și, prin al Tau scump sânge,
+Tu sa ne curățești.
+
+[c2]
+Nu suntem demni să Te urmăm,
+Dar n-avem unde să plecăm;
+Împovărați de-amar și chin
+Suntem, Tu știi prea bine.
+Dar prin a Ta milă, Isus,
+Tu să ne iei la Tine sus
+De pe acest pământ străin,
+Să locuim cu Tine.

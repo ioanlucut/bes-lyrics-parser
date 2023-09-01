@@ -1,0 +1,48 @@
+[title]
+Suind din nou pe-un vechi urcus {author: {Nicolae Moldoveanu}, {rcId: {244098}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c3
+
+[v1]
+Suind din nou pe-un vechi urcuș,
+Port jertfe noi spre-un vechi altar,
+Cu rane noi de vechi cătuși,
+’
+Nalț încă-un stâlp pe-un sfânt hotar!
+
+[c]
+Eben-Ezer! - Ajuns aici,
+Privesc tot lungul drum trecut,
+Ce pași mărunți, ce urme mici,
+Ce-a trebuit și ce-am făcut!
+
+[v2]
+Gândesc cu sufletul durut,
+La anii ce i-am risipit,
+Cât am trăit din ce-am știut?
+Cât am știut din ce-am trăit!
+
+[c2]
+Cât am gândit din ce făceam?
+Cât am făcut din ce-am gândit?
+Cât am iubit din ce aveam,
+Cât am avut din ce-am iubit?...
+
+[v3]
+Cât am trăit din ce-am crezut,
+Cât am crezut din ce-am trăit?
+Cât am vorbit din ce-am făcut,
+Cât am făcut din ce-am vorbit?
+
+[c3]
+La stâlpul meu de greu hotar,
+Cad azi cu fruntea la pământ,
+Nu-n cântec pun, ci-n plâns amar,
+Isuse noul legământ!
+
+[v4]
+Și-aș vrea de-acum pân-Ia sfârșit,
+Prin harul Tău dumnezeiesc,
+Să pot trăi tot ce-am vorbit,
+Să pot vorbi tot ce trăiesc!

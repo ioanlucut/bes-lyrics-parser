@@ -1,0 +1,39 @@
+[title]
+Mi-e tare dor de domnul meu {author: {Mirela Ursulescu}, {rcId: {238010}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Mi-e tare dor, de Domnul meu
+Mi-e tare dor, de-acasă,
+Aș vrea să fiu, cu Tatăl meu
+În patria cerească.
+
+[c]
+Mi-e tare dor, de Domnul meu
+Să Îl privesc în față,
+Și pururea, să fiu cu El
+În slava glorioasă.
+Să uit de lacrimi și dureri
+De tot ce-a fost odată,
+În strălucirea din etern
+În țara minunată
+
+[v2]
+Prietenul adevărat
+În orice-mprejurare,
+Este Isus, El Împărat
+E singura scăpare.
+
+[v3]
+La patul meu, când mă aflam
+În suferință mare,
+Credeam că mor, nu mai puteam
+El mi-a dat vindecare.
+
+[v4]
+Nu mai e mult și va veni
+Isus după mireasă,
+La ceruri sus, ne va răpi
+Vom sta cu El la masă.

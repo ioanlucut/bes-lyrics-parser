@@ -1,0 +1,35 @@
+[title]
+Ce bogat este harul {author: {Nicolae Moldoveanu}, {rcId: {189869}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Ce bogat, ce bogat este harul,
+Nu-i cuvânt să-l cuprindă deplin,
+/: Căci din vecii trecuți varsă darul,
+Peste vecii frumoși care vin. :/
+
+[v2]
+Ce frumos, ce frumos este harul,
+Mai frumos ca deplinul frumos,
+/: Cu iubire-și aprinde altarul,
+În iubire-l vedem luminos! :/
+
+[v3]
+Ce măreț, ce măreț este harul,
+În Hristos când smerit S-a-ntrupat,
+/: Când senin a urcat El Calvarul
+Și cu Tatăl din Cer ne-a-mpăcat! :/
+
+[v4]
+Cât de larg, cât de larg este harul,
+Căci în el pentru veci s-au cuprins,
+/: Și dreptatea preasfântă și jarul
+Arzător al iubirii - nestins! :/
+
+[v5]
+Ce deplin, ce deplin este harul,
+E deplin Dumnezeu Preamărit,
+/: Să-i primim prin credință azi darul
+Mântuirii ce el ne-a gătit! :/

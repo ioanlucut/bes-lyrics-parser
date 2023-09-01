@@ -1,0 +1,54 @@
+[title]
+Un prieten precum domnul {author: {Daniel Hartie}, {rcId: {186763}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Un prieten precum Domnul
+Nu găsești pe-acest pămant
+Căci înșelător e omul,
+Schimbător e orișicând.
+Nu te-ncrede în prieteni
+Că și ei sunt muritori,
+Sunt ca vremea care trece
+Astăzi soare mâine-s nori.
+
+[c]
+Numai Domnul nu se schimbă
+El e prieten minunat
+Ți-e aproape în durere,
+Când de semeni ești uitat!
+El rămâne lângă tine,
+Prietenul adevarat
+Te încrede cu tărie și nu fii descurajat!
+
+[v2]
+Un prieten precum Domnul,
+Nicăieri nu vei afla
+Sa dea binecuvântare
+Peste toată casa ta.
+Căci în lumea asta mare
+Oamenii mult se urăsc,
+Dar Isus împarte milă
+Celor care se iubesc!
+
+[v3]
+Un prieten bun e Domnul
+L-am aflat și-s fericit
+Am în suflet multă pace
+Că-ntr-o zi m-a mântuit!
+El mi-e toată bogăția,
+Chiar de-aici sunt călător
+Mi-a trasat o cale nouă
+Inspre țara zorilor.
+
+[v4]
+Suflet care în durere
+Ai ajuns să fii mâhnit
+Căci prietenii din lume,
+Rând pe rând te-au parasit.
+Prietenia minunata
+O găsești la Dumnezeu,
+Cu iubire azi te cheamă
+Iți intinde brațul Său!

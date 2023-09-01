@@ -1,0 +1,41 @@
+[title]
+Isus iubeste pe fiecare {author: {Anonim}, {rcId: {159217}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Isus iubește pe fiecare,
+Pe fiecare, pe fiecare!
+Isus iubește pe fiecare,
+Isus iubește pe toți!
+
+[c]
+Iubește copii, iubește părinții,
+Iubește copii, iubește bunicii,
+Mă iubește pe mine, te iubește pe tine!
+Isus iubește pe toți!
+
+[v2]
+Isus ne cheamă pe fiecare,
+Pe fiecare, pe fiecare!
+Isus ne cheamă pe fiecare,
+Isus ne cheamă pe toți
+
+[c2]
+El cheamă copii, El cheamă părinții,
+El cheamă copii, El cheamă bunicii,
+Mă cheamă pe mine, te cheamă pe tine!
+Isus ne cheamă pe toți!
+
+[v3]
+Isus ne iartă pe fiecare,
+Pe fiecare, pe fiecare!
+Isus ne iartă pe fiecare,
+Isus ne iartă pe toți!
+
+[c3]
+El iartă copii, El iartă părinții,
+El iartă copii, El iartă bunicii,
+Mă iartă pe mine, te iartă pe tine!
+Isus ne iartă pe toți!

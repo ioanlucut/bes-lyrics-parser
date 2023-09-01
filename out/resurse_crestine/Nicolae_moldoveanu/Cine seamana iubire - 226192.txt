@@ -1,0 +1,27 @@
+[title]
+Cine seamana iubire {author: {Nicolae Moldoveanu}, {rcId: {226192}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cine seamănă iubire, să culeagă fericire,
+cine seamănă cântare, să culeagă desfătare.
+
+[c]
+Bun Isus, drag Isus,
+Fericit, fericit, cel ce Te-a iubit.
+Binecuvântat, binecuvântat,
+ce ce Ți-a cântat, cel ce Ți-a cântat.
+
+[v2]
+Doamne, fă-mă iubitor,
+bucurie tuturor.
+Doamne, fă-mă cântăreț
+veșinicilor frumuseți.
+
+[v3]
+Că-n iubire și-n cântări
+sunt cele mai sfinte stări,
+și din ele cresc mereu
+roduri dulci lui Dumnezeu.

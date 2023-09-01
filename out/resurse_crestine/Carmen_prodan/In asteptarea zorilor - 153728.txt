@@ -1,0 +1,21 @@
+[title]
+In asteptarea zorilor {author: {Carmen Prodan}, {rcId: {153728}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+An dupa an privim pe-a timpului fereastra
+Chiar de nu vrem se duce-n zbor viata nostra
+
+[c]
+/: Sa nu fim tristi c-aicea totu-i trecator
+Inca putin sa mai veghem in asteptarea zorilor:\
+
+[v2]
+An dupa an purtam poveri si doruri multe
+Spre cer privim spre Domnul sfant ca sa-neasculte
+
+[v3]
+Chiar de e greu pe-acest pamant plin de suspine
+Sa nu uitam mai e putin si Domnul vine

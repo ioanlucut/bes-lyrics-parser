@@ -1,0 +1,41 @@
+[title]
+La golgota {author: {Mirela Ursulescu}, {rcId: {71802}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+La Golgota, pe Cruce sus
+Răstignit-ai fost Isus
+Ca mântuire-n dar să-mi dai
+Să fiu și eu în al Tău Rai
+
+[c]
+/: Te-ai jertfit Isuse
+Dându-ne speranță
+Ai murit pe cruce
+Ca s-avem viață :/
+
+[v2]
+Iar sângele-ți curgea șuvoi
+Pentru păcatul tuturor
+Cu sulița în coastă-au dat
+Să fiu și eu răscumpărat
+
+[v3]
+La moarte ai fost condamnat
+Tu ai spălat al meu păcat
+Spini pe frunte apăsau
+Batjocorind ei te scuipau
+
+[v4]
+Când mă gândesc cât ai răbdat
+Pe cruce sus nevinovat
+Plătit-ai prețu-n locul meu
+Isuse, Fiu de Dumnezeu
+
+[v5]
+Îți mulțumim Isuse scump
+Căci ai venit jos pe pământ
+Iertare să ne dai în dar
+Viață veșnică și har

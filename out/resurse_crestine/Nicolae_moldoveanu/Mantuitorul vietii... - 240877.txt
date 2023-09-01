@@ -1,0 +1,41 @@
+[title]
+Mantuitorul vietii {author: {Nicolae Moldoveanu}, {rcId: {240877}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Mântuitorul vieții,
+Ajută-mi cât trăiesc,
+Să am deplin lumina
+Cuvântului ceresc!
+
+[c]
+Să nu m-abat din calea
+Ce Tu mi-ai arătat,
+Și inima să-mi fie,
+Ferită de păcat!
+
+[v2]
+Să strălucească-n mine
+Iubirea Ta de Sus,
+Ca soarele din slavă,
+Mereu, fără apus!
+
+[c2]
+Și pacea Ta cerească.
+Să-mi umple viața mea.
+Ca pururi bucuria
+Să se reverse-n ea.
+
+[v3]
+Lucrarea Ta divină,
+S-o pot nălța mai mult,
+Cuvântul Tău cel dulce,
+Oriunde să-l ascult.
+
+[c3]
+Ca la sfârșitul vieții,
+Să-mi pot încredința,
+Cu liniște deplină,
+Viața-n mâna Ta!

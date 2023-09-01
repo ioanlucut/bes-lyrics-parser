@@ -1,0 +1,25 @@
+[title]
+Iti cant aleluia {author: {Anonim}, {rcId: {71854}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Cand eram cazut Tu m-ai ridicat
+Cand am ratacit glasu-ti bland m-a chemat
+Cand am refuzat Sfantul Tau Cuvant
+Tu mi-ai spus”
+Vino acasa Fiu pierdut”
+
+[c]
+/: Iti cant aleluia caci m-ai mantuit
+De pacate m-ai iertat si azi sunt fericit
+Iti cant aleluia eu sunt salvat
+Jertfa-ti sfanta m-a eliberat :/
+
+[v2]
+Cand eu m-am ascuns Tu m-ai cautat
+Cand eu te-am urat Tu si-atunci m-ai iubit
+Cand te-am rastignit cu pacatul meu
+Tu mi-ai spus ca ”
+Te-am iertat Fiul Meu”

@@ -1,0 +1,39 @@
+[title]
+O singura cale {author: {Gabi Ilut}, {rcId: {94650}}
+
+[sequence]
+v1,b,c,v2,b,c
+
+[v1]
+/: Este doar o cale,
+Trece chiar prin vale,
+Prin multe încercări
+Am pornit cu dorul
+Să-mi văd salvatorul
+Chiar dincolo de zări :/
+
+[b]
+/: Nu-mi este frică
+De ce va să zică
+O lume pornită-mpotriva mea
+Calea mi-e una
+Lar eu merg-ntruna:
+La capăt îl voi vedea. :/
+/: O nu-mi pasă mie
+De-a lumii urgie, pe cale-am pornit,
+Nu privesc ’napoi
+Cei ce mă-nfruntă
+Zadarnic se luptă,
+Rămân toți cu pumnii goi. :/
+
+[c]
+/: O singură cale,
+o cale, o cale :/ x4
+
+[v2]
+/: Calea este trasata,
+Bine conturată,
+O vezi din departări,
+Este foarte strâmtă,
+Cel ce se avântă
+Va strânge defăimări. :/

@@ -1,0 +1,29 @@
+[title]
+El e bucuria mea {author: {Rafael Dragomir}, {rcId: {168692}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Domnul este Păzitorul meu,
+Cu El nu mai trebuie să mă tem!
+Pentru că El e Păstorul meu,
+Nimic nu mă desparte de El.
+
+[c]
+El e bucuria mea,
+El e ajutorul meu!
+Fără El eu nu aș vrea
+Și nu pot să trăiesc.
+
+[v2]
+Domnul Dumnezeu e un vitez,
+El nu dormitează, ci e treaz,
+Ce El zidește va rămânea,
+Viața-n El nu se va termina.
+
+[v3]
+Domnul Dumnezeu e dragostea,
+Fericirea se găsește în ea,
+Chiar și-atunci când este vre-un necaz,
+Orice-ar fi vreau s-am parte de ea!

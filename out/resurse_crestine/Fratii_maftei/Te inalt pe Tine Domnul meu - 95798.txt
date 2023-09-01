@@ -1,0 +1,28 @@
+[title]
+Te inalt pe tine domnul meu {author: {Fratii Maftei}, {rcId: {95798}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Te înalț pe Tine Domnul meu
+A mea inimă cântă mereu
+/: Tu ești veșnic puterea Ți-e mare
+Întreg pământul Ți-aduce onoare :/
+
+[c]
+/: Celui sfânt Aleluia, Aleluia slavă Lui
+Celui veșnic multă slavă
+Să-L slăvim în veci de veci :/
+
+[v2]
+Te slăvesc pe Tine Domnul meu
+Cu credință cânt eu mereu
+/: Creat-ai pământul cerul și vântul
+Ești împărat spune Cuvântul :/
+
+[v3]
+Te înalț pe Tine Domnul meu
+A mea inimă cântă mereu
+/: Tu ești vrednic de cinste și slavă
+Ești minunat, minunat Dumnezeu :/

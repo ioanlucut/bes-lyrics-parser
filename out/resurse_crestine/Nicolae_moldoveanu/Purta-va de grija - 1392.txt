@@ -1,0 +1,45 @@
+[title]
+Purta-va de grija {author: {Nicolae Moldoveanu}, {rcId: {1392}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Purta-va de grijă
+El, Domnu-n vreun fel:
+Nu-n felul meu, poate,
+Nu-n felul tău poate:
+În felul Lui însă,
+El va îngriji.
+
+[c]
+Să ne-ncredem în El
+Căci El va -ngriji!
+Toată-ncrederea-n El
+Și El va-ngriji.
+
+[v2]
+Purta-va de grijă
+El Domnul, la timp:
+Nu cînd vreau eu, poate,
+Nu cînd vrei tu, poate
+La vremea Lui însă,
+El va îngriji.
+
+[v3]
+Nu-ți perde nădejdea,
+Ci-ncrede-te-n El!
+Scriptură-i dovadă
+Că tot ce El a spus
+In totul s-a-mplinit.
+El va îngriji.
+
+[v4]
+’
+Nainte, căci marea
+Chiar va despărți,
+Făcîndu-ți drum prin ea!
+Și-atunci biruitor,
+Vei cîntă bucuros:
+”
+El a îngrijit!”

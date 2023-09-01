@@ -1,0 +1,41 @@
+[title]
+Pocainta este calea {author: {Nicolae Moldoveanu}, {rcId: {5413}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pocăința este calea
+Care duce la izvor,
+Unde curge apă vie
+Pentru orice muritor.
+Pocăința este calea,
+- Cea mai bună dintre căi -
+Care-ndreaptă, spre izbândă,
+Pașii celor buni și răi.
+
+[c]
+/: Azi, să te predai!
+Azi, ridică mâna sus!
+Nu-nălța castel de pai,
+Stai pe stânca lui Isus! :/
+
+[v2]
+Pocăința este calea
+Care duce spre Isus;
+Ea ne-a scos din groapa morții
+Și la viață ne-a adus.
+Pocăința este calea
+Din atâtea mii și mii,
+Cea mai dreaptă cale care,
+Ne va duce-n veșnicii.
+
+[v3]
+Pocăința este calea
+Ce te poartă-n gând curat
+Și te-nvață să te lepezi,
+Pe vecie, de păcat.
+Pocăința te desparte
+De păcate și de rău
+Și te-ndreaptă, după fapte,
+Spre Isus, spre Dumnezeu.

@@ -1,0 +1,29 @@
+[title]
+Ma intreb mereu de ce pentru mine {author: {Ionel Saran Bochis}, {rcId: {111134}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mă întreb mereu de ce pentru mine
+Sus pe cruce ai ales să fii
+Slava Ta în Cer ai lăsat
+Pentru mine viața Tu Ți-ai dat.
+
+[c]
+Todeauna, Doamne, eu mă voi lupta
+Ca să fac în toate numai voia Ta
+M-ai salvat pe cruce când Tu te-ai jerfit
+Ca sa fiu de Tine iertat și mântuit
+
+[v2]
+Ne-a iubit atât caci Tatăl cel sfânt
+După chipul Său ne-a construit
+Ne-a dat chip și-o asemănare
+După a Dumnezeului cel Mare
+
+[v3]
+Vânturile, marea pe Tine te-ascultă
+Și într-un freamăt dulce Îți răspunde
+Doar Omul nu te recunoaște
+Nu Te-ascultă, nu Te mai cunoaște.

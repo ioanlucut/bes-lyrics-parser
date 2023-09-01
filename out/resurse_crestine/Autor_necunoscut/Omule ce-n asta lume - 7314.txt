@@ -1,0 +1,41 @@
+[title]
+Omule ce-n asta lume {author: {Anonim}, {rcId: {7314}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+/: Omule ce-n astă lume
+Zi și noapte te trudești
+Cât mai multe-averi și haine
+Si pământ s-agonisești. :/
+
+[c]
+/: Nu gândești că mâine, poate,
+Dumnezeu te va chema,
+Si-atunci, câte-ai strâns pe lume
+Ale cui vor rămânea? :/
+
+[v2]
+Cui va rămânea averea
+Câtă-n lume adunași,
+Cui rămân a’ tale fapte
+Si păcatul cui Îl lași?
+
+[c2]
+/: Cine-o să le spele-n lacrimi
+Ca să scapi neosândit,
+Cine, dacă tu-n viață
+Nici măcar nu te-ai gândit? :/
+
+[v3]
+/: Cine-ți va spăla păcatul,
+Întorcându-se supus,
+Dacă tu nu ții În seamă
+Să te-ntorci azi la Isus? :/
+
+[c3]
+/: Nu te rezema pe nimeni,
+Vino singur la Hristos!
+Toate celelalte-s pierderi,
+El e Singurul Folos... :/

@@ -1,0 +1,29 @@
+[title]
+O pan la tine doamne s-ajunga ruga mea {author: {Nicolae Moldoveanu}, {rcId: {5348}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+O, pan’ la Tine, Doamne, s-ajunga ruga mea,
+Sa-mi dai intelepciune, caci Tu ai spus asa;
+/: S-ajunga-a-mele cereri la Tine-acolo sus,
+S-aduci Tu izbavirea, caci Tu asa ai spus. ::/
+
+[v2]
+A-mele buze, Doamne, vesteasca slava Ta,
+C-atunci am bucuria sfanta de-a pururea;
+/: Sa spuna a mea limba Cuvantul Tau cel sfant,
+C-a-Tale legi, Stapane,-n veci, neclintite sunt. :/
+
+[v3]
+Sa-mi fie a Ta mana un ajutor deplin,
+Caci vesnic vreau, Isuse, porunca Ta s-o tin;
+/: Suspin dupa-ajutorul si mantuirea Ta
+Si legea Ta-i placerea si desfatarea mea. :/
+
+[v4]
+Slaveasca-Te-al meu suflet, sa-Ti cante pe-al Tau plac
+Si sfanta-Ti judecata sa ma sustina-n veac!
+/: Sa nu ma pierd, Isuse, o scapa-ma de rau,
+Ca nu Iti uit porunca, respect Cuvantul Tau! :/

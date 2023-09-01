@@ -1,0 +1,53 @@
+[title]
+Daca azi pe drumul vietii {author: {Nicolae Moldoveanu}, {rcId: {5664}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,v5,c5,v6,c6
+
+[v1]
+Daca azi, pe drumul vietii, o Esti lovit mereu,
+Daca esti, in incercari o In suspin si-n greu,
+
+[c]
+/: Daca-n luntrea vietii tale o Bat vanturi fara-ncetare,
+Atunci cheama-n ajutor o Pe al tau Mantuitor! :/
+
+[v2]
+Daca soarta vietii-apasa, o Nu descuraja,
+Cand povara nu te lasa o Si ti-e crucea grea.
+
+[c2]
+/: Chiar daca ai tai din casa o Te hulesc si nu le pasa,
+Atunci cand nu-i mai putea, o Domnu-i de partea ta. :/
+
+[v3]
+Daca esti in suferinta, o Fara ajutor,
+Roaga-te, azi, cu credinta o L-al tau Salvator!
+
+[c3]
+/: Roaga-te, fara-ncetare, o Chiar daca durerea-i mare,
+Caci si Isus a rabdat, o Cand L-au crucificat. :/
+
+[v4]
+Daca ochii-ti varsa lacrimi, o De atatea ori,
+Cand furtuni lovesc in tine, o Tu nu da-napoi!
+
+[c4]
+/: Roaga-te, fara-ncetare, o Ca Isus in Ghetsimani!
+Dumnezeu te v-ajuta, o Caci mare-i mila Sa. :/
+
+[v5]
+Mergi, frate, fara-ncetare! o Urca tot mai sus!
+Urca pana la Golgota, o Pana la Isus!
+
+[c5]
+/: Acolo povara, frate, o Isus ti-o va lua din spate
+Si-ti va sterge lacrima, o Caci mare-i mila Sa. :/
+
+[v6]
+Lupta-te lupta cea buna, o Pe acest pamant,
+Ca sa poti primi cununa o Sus, in cerul sfant.
+
+[c6]
+/: Rabda totul, in tacere, o Chiar de-i mare-a ta durere!...
+Dumnezeu te v-ajuta, o Caci mare-i mila Sa. :/

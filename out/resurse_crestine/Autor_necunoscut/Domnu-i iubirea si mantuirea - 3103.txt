@@ -1,0 +1,42 @@
+[title]
+Domnu-i iubirea si mantuirea {author: {Anonim}, {rcId: {3103}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c,v8,c
+
+[v1]
+Domnu-i iubirea și mântuirea
+Domnu-i iubirea de-a pururea.
+
+[c]
+Eu am să spun mereu:
+/: Domnu-i iubirea, :/
+Isus e-al meu!
+
+[v2]
+Eram departe, prins în păcate,
+Eram departe, dar m-a salvat.
+
+[v3]
+Zăceam în moarte, legat de șarpe,
+Zăceam în moarte prin boldul ei.
+
+[v4]
+Venit-a Domnul, lăsând El cerul,
+Venit-a Domnul jos pe pământ.
+
+[v5]
+Tu-mi dai azi pace, ea mă reface,
+Tu-mi dai azi pace, că mă iubești.
+
+[v6]
+Tu-mi iei durerea și-mi dai puterea.
+Tu-mi iei durerea și mă-ntărești.
+
+[v7]
+Ce moștenire, în strălucire,
+Ce moștenire mi-ai pregătit!
+
+[v8]
+Cânta-voi slavă, da, Ție slavă,
+Cânta-voi slavă cât voi trăi!

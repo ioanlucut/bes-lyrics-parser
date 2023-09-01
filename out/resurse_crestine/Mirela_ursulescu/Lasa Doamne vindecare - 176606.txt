@@ -1,0 +1,29 @@
+[title]
+Lasa doamne vindecare {author: {Mirela Ursulescu}, {rcId: {176606}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Lasă Doamne vindecare, astăzi în popor
+Ca să simtă fiecare, al Tău sfânt fior
+Lasă vindecare-n suflet, cât și-n trupul nost´
+Pune undelemn Isuse, leagă răni ce dor.
+
+[c]
+Vindecare-Ți cerem Tată, undelemn divin
+1x: Peste adunarea-ntreagă, să reverși din plin
+(2x): Fă-Ți azi numele de Slavă, las-al Tău alin
+Credem căci Tu poți și astăzi, să mai faci minuni.
+
+[v2]
+Lasă azi puterea-Ți mare, peste-ai Tăi copii
+N-avem nici un merit Doamne, dar strigăm spre Tin´
+Lasă a Ta îndurare, curățește-ne
+Lasă azi eliberare, re´nnoieste-ne.
+
+[v3]
+Lasă-n noi a Ta putere, să-Ți slujim deplin
+Să nu mai cârtim pe cale, să nu mai greșim
+Să fim una-n Tine Tată, toți un Duh și-un gând
+Focul Tău să se reverse, prin al Tău Duh Sfânt.

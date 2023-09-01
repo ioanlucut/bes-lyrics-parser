@@ -1,0 +1,31 @@
+[title]
+Uneori ma-ntreb care-i calea mea {author: {Anonim}, {rcId: {5901}}
+
+[sequence]
+v1,c,v2,c,v3,c2,v4,c2
+
+[v1]
+Uneori mă-ntreb care-i calea mea;
+Uneori nu știu cum voi rezista.
+
+[c]
+/: Doamne, vreau sa raman
+Doar pe calea Ta.
+Tine-ma mereu cu mana Ta! :/
+
+[v2]
+Când sunt ispitit, atras de lumea rea,
+Atunci eu mă-ntreb care-i voia Ta.
+
+[v3]
+Chiar de ești bogat și ai mult noroc,
+Fericit nu ești, pace n-ai deloc.
+
+[c2]
+/: Vino azi la Isus!
+El te va ierta,
+Pace din belsug, tu vei avea! :/
+
+[v4]
+Timpul ți-l petreci, planuri multe ai,
+În Isus nu crezi, căci nevoie n-ai.

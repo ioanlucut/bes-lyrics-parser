@@ -1,0 +1,28 @@
+[title]
+Sufletul in mine plange {author: {Anonim}, {rcId: {55641}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Sufletul în mine plânge,
+Când se varsă al Său sânge,
+/: Sângele ce s-a vărsat,
+Pentru-al meu și-al tău păcat. :/
+
+[c]
+/: Ah, cum m-aș duce până la cruce,
+Să-I văd coroana Lui, să-I văd eu spinii,
+Ce i-au pus păgânii pe capul Domnului Isus. :/
+
+[v2]
+El suferă și nu plânge,
+Și fața-I plină de sânge,
+/: Sângele ce s-a vărsat,
+Pentru-al tău și-al meu păcat. :/
+
+[v3]
+Plângea Soarele și Luna,
+Că era prea grea cununa,
+/: Sus pe cruce cuiele,
+I-au străpuns și mâinile. :/

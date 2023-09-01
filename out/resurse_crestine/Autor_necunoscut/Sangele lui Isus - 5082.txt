@@ -1,0 +1,17 @@
+[title]
+Sangele lui isus {author: {Anonim}, {rcId: {5082}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+/: Sângele lui Isus, :/ x3
+Mă spală de păcat.
+
+[v2]
+/: Rănile lui Isus, :/ x3
+Mă vindecă acum.
+
+[v3]
+/: Dragostea lui Isus, :/ x3
+Mă curăță acum.

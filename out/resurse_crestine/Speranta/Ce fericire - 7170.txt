@@ -1,0 +1,43 @@
+[title]
+Ce fericire {author: {Speranța}, {rcId: {7170}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În orice zi și-orice moment
+Hristos e gata să revină
+El va veni cum ne-a promis
+Pe nori de slavă și lumină
+El va veni ca să își ia
+Poporul cel răscumpărat
+Când trâmbița va răsuna
+Doresc și eu să fiu chemat
+
+[c]
+/: Ce fericire va fi-n mărire
+Și ce splendoare! O slavă mare!
+Va fi în locul Sfânt și minunat!
+Când vom zbura spre Țara Sa
+Si vom cânta: Aleluia!
+Celui ce de moarte ne-a salvat :/
+
+[v2]
+În orice zi și-n orice clipă
+Isus Hristos va reveni!
+Semnele sunt printre noi
+Isus pe nori se va ivi!
+Se-apropie cu pas grăbit
+Momentul cel de mult visat
+Când trâmbița va răsuna
+Doresc și eu să fiu chemat!
+
+[v3]
+În orice zi sau chiar la noapte
+Se va sfârși al tău drum
+Capitolul din viața ta
+Se poate încheia acum
+De îl primesti pe Isus
+Ca Salvator și Împărat
+Când trâmbița va răsuna
+Atunci și tu vei fi chemat!

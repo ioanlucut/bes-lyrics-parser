@@ -1,0 +1,33 @@
+[title]
+O unde esti {author: {Anonim}, {rcId: {222045}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+De ce stai mut cand iti vorbesc
+Si nu ma mustri cand gresesc
+De ce mi-e cerul nepatruns
+De ce de mine te-ai ascuns
+De ce nu-mi dai, Doamne, rapuns
+
+[c]
+O unde esti, o unde esti
+De ce nu poti sa ma privesti
+Stiu c-am gresit, stiu ca sunt rau
+Dar stiu ca-I mare harul Tau
+Dar stiu ca-I mare harul Tau.
+
+[v2]
+De-atat vreme-s in cuptor
+Ard si n-am nici un ajutor
+Vrei oare sa ma curatesti
+Sau poate sa ma nimicesti
+Sau asa-mi spui ca ma iubesti
+
+[v3]
+Te rog frumos, Stapanul meu,
+Preasfant si mare Dumnezeu,
+Smerit, plecat, umil, supus,
+Vin in numele lui Isus,
+Fa ruga mea s-ajunga sus.

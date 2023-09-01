@@ -1,0 +1,29 @@
+[title]
+Domnul e bun {author: {Anonim}, {rcId: {122484}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Domnul e bun,
+Domnul e bun,
+O, cât de bun
+Este Dumnezeu!
+
+[v2]
+Pe brațul Său,
+Pe brațul Său,
+Mă poartă-n veci
+Bunul Dumnezeu.
+
+[v3]
+Cât mai trăiesc,
+Cât mai trăiesc,
+Tot ce-mi doresc
+Este Dumnezeu.
+
+[v4]
+Fie slăvit,
+Fie slăvit,
+Veșnic slăvit
+Fie Dumnezeu!

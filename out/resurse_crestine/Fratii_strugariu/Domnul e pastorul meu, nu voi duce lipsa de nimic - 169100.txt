@@ -1,0 +1,26 @@
+[title]
+Domnul e pastorul meu nu voi duce lipsa de nimic {author: {Frații Strugariu}, {rcId: {169100}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Domnul e păstorul meu, nu voi duce lipsă de nimic
+Chiar de-ar fi să trec prin greu, Domnul e păstorul meu. :/
+
+[c]
+Și prin valea morții de-aș umbla,
+Domnul e mereu de partea mea!
+El nu mă lasă, El nu mă lasă
+Nu mă tem de nici-un rău, e păstorul meu.
+/: E păstorul meu, Fiu de Dumnezeu
+El nu mă lasă, El nu mă lasă
+Nu mă tem de nici-un rău, e păstorul meu. :/
+
+[v2]
+/: Vremuri grele de-or veni, cu Isus voi birui
+Chiar de-ar fi să trec prin greu, Domnul e păstorul meu. :/
+
+[v3]
+/: Chiar de-ar fi să trec prin greu, nu mă tem de nici-un rău
+Fericit eu sunt mereu, Domnul e păstorul meu. :/

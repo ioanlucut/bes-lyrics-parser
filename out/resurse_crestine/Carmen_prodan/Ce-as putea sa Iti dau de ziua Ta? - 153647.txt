@@ -1,0 +1,27 @@
+[title]
+Ce-as putea sa iti dau de ziua ta? {author: {Carmen Prodan}, {rcId: {153647}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ce-aș putea Isus iubit să Îți dau de ziua Ta
+Ce-aș putea Isus iubit ce-aș putea?
+N-am nimic pe-acest pământ căci prin Tine sunt ce sunt
+Doar un duh zdrobit aduc în fața Ta
+
+[c]
+/: Dar Îți aduc viața-n dar să-mi faci din inimă altar
+Să ardă jertfa dragostei în ea :/
+
+[v2]
+Ce-aș putea Isus iubit să Îți dau de ziua Ta
+Ce-aș putea Isus iubit ce-aș putea?
+Numai lacrimi și dureri suferințe și poveri
+Iată Doamne ce aduc în fața Ta
+
+[v3]
+Ce-aș putea Isus iubit să Îți dau de ziua Ta
+Ce-aș putea Isus iubit ce-aș putea?
+Numai cântul cel sublim ce-l înalț spre cer senin
+Și-n necaz și-n bucurii spre Slava Ta

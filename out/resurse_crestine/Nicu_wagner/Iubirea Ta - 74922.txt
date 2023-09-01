@@ -1,0 +1,29 @@
+[title]
+Iubirea ta {author: {Nicu Wagner}, {rcId: {74922}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Iubirea Ta, Isuse, ne cheamă și ne strânge
+Și ne trimite-n lume cu harul Tău măreț,
+Lumina celor oropsiți din noapte și dispreț
+Iubirea Ta Isuse cu prețul scump de sânge.
+
+[c]
+/: O, iată, inima-mi se frânge
+Și doru-n mine astăzi plânge.
+Da, vreau să merg cu orice preț!
+Da, vreau să merg cu orice preț! :/
+
+[v2]
+Să Te iubesc pe Tine, Cerescule Părinte,
+Punându-Ți la picioare și faptele și gândul;
+E dorul meu cel mare, iubirea mea fierbinte,
+Să nu ne mai despartă nici cerul, nici pământul!
+
+[v3]
+Iubirea ne croiește prin flăcări o cărare,
+Iubirea ușurează poverile amare.
+Iubirea șterge lacrimi, iubirea îndrăznește,
+Iubirea se jertfește, iubirea biruiește!

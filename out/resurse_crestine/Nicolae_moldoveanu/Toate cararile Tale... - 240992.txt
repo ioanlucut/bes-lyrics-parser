@@ -1,0 +1,66 @@
+[title]
+Toate cararile tale {author: {Nicolae Moldoveanu}, {rcId: {240992}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,v5,c5
+
+[v1]
+Toate cărările Tale,
+O, Doamne Sfânt și mare,
+Toate cărările Tale,
+Sunt pace și-ndurare!
+
+[c]
+Chiar când viața-mi este greu-Iovită,
+Și când furtuna neagră mă orbește,
+Știu că-ndurarea Ta nemărginită,
+Cu-a ei lumină pururi mă-nsoțește.
+
+[v2]
+Toate cărările Tale,
+Cerescule Părinte,
+Toate cărările Tale,
+Sunt dragoste fierbinte!
+
+[c2]
+Când viitorul inima-mi frământă,
+Când ura lumii crunt mă săgetează,
+Știu că iubirea Ta cea neînfrântă,
+Cu-a ei putere ființa mi-o veghează!
+
+[v3]
+Toate cărările Tale,
+Din tainica vecie,
+Toate cărările Ta
+Ie-s
+Întregi credincioșie!
+
+[c3]
+Chiar când credința-mi este clătinată
+Și când nădejdea-mi zace doborâtă,
+Credincioșia Ta nestrămutată,
+Mă ține lângă Tine, hotărâtă!
+
+[v4]
+Toate cărările Tale,
+Preaînțelept Stăpâne,
+Toate cărările Tale,
+Sunt sfântă-nțelepciune!
+
+[c4]
+Când calea-mi este cu țepușe-amare,
+Și-ncerc dureri și pierderi ne-ntâlnite,
+Știu că-n înțelepciunea Ta cea mare,
+Mă pregătești pentru lucrări slăvite!
+
+[v5]
+Toate cărălie Tale,
+De mine ne-nțelese,
+Toate cărările Tale,
+Sunt haruri mai alese!
+
+[c5]
+Căci văile de moarte-ntunecate,
+Prin care trec în scurta mea trăire
+Sunt drumurile Tale minunate,
+Ce duc la viață și desăvârșire!

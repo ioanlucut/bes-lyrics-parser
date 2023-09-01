@@ -1,0 +1,45 @@
+[title]
+As privi din zori in zori {author: {Nicolae Moldoveanu}, {rcId: {5787}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Aș privi, din zori în zori
+Toate văile cu flori;
+Aș privi și-aș strânge-n piept
+Tot ce-i tainic și-nțelept.
+
+[c]
+Tot noianul zorilor,
+Tot focul bujorilor,
+Tot parfumul crinilor
+Din umbra grădinilor;
+Tot seninul zărilor,
+Tot argintul mărilor,
+Toată slava stelelor,
+Stelelor, stelelor
+Ce dau farmec nopților.
+
+[v2]
+Și când vine-o iarnă grea,
+Troienind cărarea mea,
+Lângă Domnul am, și-atunci,
+Tot ce-i mai frumos prin lunci.
+
+[v3]
+Iar când Domnul va veni
+Și în ochi mă va privi,
+Nu voi mai vedea atunci
+Nici cărări, nici văi, nici lunci,
+
+[c2]
+Nici noianul zorilor,
+Nici focul bujorilor,
+Nici parfumul crinilor
+Din umbra grădinilor.
+Nici seninul zărilor,
+Nici argintul mărilor
+Și nici stelele de sus...
+Mai de sus, mai de sus,
+Numai Fața lui Isus!

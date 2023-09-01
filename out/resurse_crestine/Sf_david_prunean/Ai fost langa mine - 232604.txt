@@ -1,0 +1,40 @@
+[title]
+Ai fost langa mine {author: {SF3, David Prunean}, {rcId: {232604}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Când nu am știut ce drum să aleg
+Tu m-ai inspirat
+Când nu am putut să-naintez
+M-ai ajutat!
+Ai fost prezent când Te-am chemat
+Și mi-ai răspuns
+Tu mi-ai răspuns, Isus, mereu!
+
+[c]
+Îți mulțumesc pentru grija Ta
+Cuvinte n-am de ajuns
+Să exprim dragostea
+Nu m-ai uitat când singur am fost
+Te-am simțit atât de aproape
+Ai fost lângă mine!
+
+[v2]
+Cum aș putea să nu slăvesc Numele Tău
+Că până aici, m-ai ocrotit
+Când mi-a fost greu
+În mâna Ta vreau azi să las
+Viitorul meu,
+Căci Tu Te îngrijești mereu!
+
+[e]
+Toți acei cei ce se încred
+În Domnul și-al Său Cuvânt
+Vor avea noi puteri
+Și aripi ce zboară-n vânt
+Chiar dacă vor fugi ei
+Nu vor obosi, nu vor osteni
+Căci odihnă găsesc
+Doar în brațul Lui ceresc.

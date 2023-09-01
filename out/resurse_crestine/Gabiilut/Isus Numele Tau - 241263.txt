@@ -1,0 +1,29 @@
+[title]
+Isus numele tau {author: {Gabi_Ilut}, {rcId: {241263}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Isus Numele Tău:
+Vreau sa-L proclam, să-L am pe buze mereu!
+Mare ești, minunat;
+Tu Domn al slavei: glorios Împărat!
+
+[c]
+/: Orice făptură astăzi să știe:
+Nu este un alt nume în veșnicie!
+Cerul se pleacă, pământul se închină!
+Isus e Domn, El este a lumii lumină! :/
+
+[v2]
+Prin sângele-Ți curat,
+Isuse pentru veci m-ai răscumpărat!
+Moartea ai biruit;
+Pentru păcatul meu Tu prețul ai plătit!
+
+[v3]
+Isus puterea Ta:
+În cer și pe pământ se poate vedea!
+Doar în Numele Tău,
+Mă plec smerit la tronul lui Dumnezeu!

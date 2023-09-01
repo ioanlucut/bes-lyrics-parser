@@ -1,0 +1,24 @@
+[title]
+Isus a venit din slava {author: {Anonim}, {rcId: {4953}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Isus a venit din slavă la noi pe pământ
+Să ne dea prin har mântuirea-n dar;
+Într-o iesle s-a născut umil copilul sfânt
+Lângă Betleem, haideți să-L vedem!
+
+[c]
+/: Dragi copii veniți cu toți cântați
+O cântare despre Isus, la el alergați;
+Dragi copii cântați cu toți voioși,
+Isus vă iubește, să fiți bucuroși. :/
+
+[v2]
+Îngerii-au venit din ceruri și cântau în cor
+”
+Slavă Celui sfânt, pace pe pământ”;
+Să cântăm și noi alături din cântarea lor
+Pruncului Isus, Cel venit de sus.

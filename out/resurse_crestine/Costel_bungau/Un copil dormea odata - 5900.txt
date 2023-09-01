@@ -1,0 +1,43 @@
+[title]
+Un copil dormea odata {author: {Costel Bungau}, {rcId: {5900}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Un copil dormea odată,
+Lȋngă chivot, ca un miel,
+Cȋnd ȋn noaptea ȋnstelată,
+Se-auzi un glas din cer:
+
+[c]
+/: Samuel! Samuel!
+Nu-l chema Eli bătrȋnul,
+„
+Samuel! Samuel!
+Ȋl chema a-tot Stăpȋnul :/
+
+[v2]
+„
+Fiul Meu, cum tună norii,
+Voi lovi ȋn Israel!
+Voi zdrobi toți slujitorii,
+Ce-Mi ȋnșeală-nchinătorii!
+
+[v3]
+Și cȋnd sabia ne¬-nfrȋntă
+Fulgeră ȋn larg măcel,
+Slujbă-naltă a fost frȋntă
+Și-a rămas de strajă sfȋntă
+
+[v4]
+Dacă inima te-ndeamnă
+Să-I slujești și tu ca el,
+Stai și-ascultă fără teamă
+Glasul tainic ce te cheamă:
+
+[v5]
+Lasa-L viața să-ți ȋndrume
+Ca ȋn ziua de oțel,
+De pe norii strȋnși pe lume,
+Tu să fii chemat pe nume:

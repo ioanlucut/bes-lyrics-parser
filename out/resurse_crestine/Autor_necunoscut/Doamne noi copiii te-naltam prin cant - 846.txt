@@ -1,0 +1,25 @@
+[title]
+Doamne noi copiii te-naltam prin cant {author: {Anonim}, {rcId: {846}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: Doamne noi copiii Te-nălțăm prin cânt
+Și mărim în lume Numele Tău Sfânt :/
+
+[c]
+/: Laude și cinste prin cântări Îți dăm
+Doamne, Domnul slavei, noi Te lăudăm :/
+
+[v2]
+/: Crește-ne credința ca să te-ascultăm
+Gura ne-o sfințește slavă să Îți dăm :/
+
+[v3]
+/: Tu ești Tatăl nostru, noi ai Tăi suntem
+Și-orice daruri bune de la Tine-avem :/
+
+[v4]
+/: Mulțumim de toate câte tu ne-ai dat
+Fi prin cântul nostru Doamne lăudat :/

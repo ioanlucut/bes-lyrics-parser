@@ -1,0 +1,35 @@
+[title]
+Daniel neincetat e-un exemplu de urmat {author: {Nicolae Moldoveanu}, {rcId: {5582}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Daniel neincetat e-un exemplu de urmat.
+Te roaga, te roaga, cum Daniel s-a rugat!
+Ia exemplu de la el, sa traiesti ca Daniel:
+Prin toate, prin toate sa ramai credincios!
+
+[c]
+/: Priveste-nspre tara de dincolo de rau.
+Dimineata si seara si noaptea-n miez tarziu!
+Spre zarea albastra, privirea s-o tintesti!
+Pe-a rugaciunii fereastra, tu, zilnic, sa privesti. :/
+
+[v2]
+Credinta lui Daniel sa-ti ramana, ca model!
+Cand lupta e mare, tu nu descuraja!
+Chiar in groapa leilor, daca vei fi aruncat,
+Ca Daniel te roaga si vei fi ajutat.
+
+[v3]
+Sa nu poata nimenea stinge rugaciunea ta:
+Nici viata, nici moartea, nici alte incercari.
+De vei fi neclatinat, atunci vei fi ajutat!
+Iubirea cereasca iti va fi de-ajutor.
+
+[v4]
+Chiar de vei sta intre lei, tu sa nu te temi de ei,
+Caci Domnul trimite un inger minunat.
+Domnului fii credincios! Sa nu fii deloc fricos!
+Cand lupta e gata, cununa vei primi.

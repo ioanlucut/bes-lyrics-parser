@@ -1,0 +1,29 @@
+[title]
+Ce frumoasa zi {author: {Anonim}, {rcId: {216455}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ce frumoasă zi este pentru voi,
+Zi de bucurii,
+Soare luminos, soare sfânt din cer
+Luminezi!
+
+[c]
+/: Raze minunate
+Ce străbat de sus din cer spre voi,
+Clipe fericite
+Curg in șuvoi! :/
+
+[v2]
+Inimi care stau larg deschise azi
+Să le umpli poți,
+Umbre negre ștergi inimi reci tu poți
+Să-ncălzești!
+
+[v3]
+Pași ce-s la răscruci Tu poți să-i îndrepți
+Azi pe calea Ta,
+Celor care știu ce să facă poți
+Să le spui așa!

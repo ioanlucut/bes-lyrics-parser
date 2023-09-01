@@ -1,0 +1,45 @@
+[title]
+Duhul domnului cel sfant {author: {Andy Park, Traducere RO}, {rcId: {58950}}
+
+[sequence]
+v1,c,c,v2,c2
+
+[v1]
+Duhul Domnului Cel Sfânt
+peste tine
+Te-a uns ca Evanghelia
+să o vestești
+
+[c]
+Te-a trimis la cei săraci
+În acest an
+La acei cu inimi frânte
+În astă zi
+La acei ce sunt legați
+În acest an
+Să dezlegi pe cei din noapte.
+
+[c]
+În acest an,
+El cu milă S-a uitat
+În astă zi,
+Domnul nostru S-a-ndurat
+În acest an,
+El cu milă S-a uitat
+În astă zi,
+Domnul nostru S-a-ndurat.
+
+[v2]
+Duhul Domnului Cel Sfânt
+peste noi e,
+Ne-a uns ca Evanghelia
+să o vestim.
+
+[c2]
+Cei ce plâng sunt mângâiați
+În acest an
+Domnul va purta de grijă
+În astă zi
+El va aduce bucurie
+În acest an
+În loc de plâns vom lăuda.

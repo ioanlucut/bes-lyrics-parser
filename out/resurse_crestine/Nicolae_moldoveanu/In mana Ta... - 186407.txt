@@ -1,0 +1,35 @@
+[title]
+In mana ta {author: {Nicolae Moldoveanu}, {rcId: {186407}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+În mâna Ta îmi pun,
+Isus, eu mâna mea,
+Și-apoi vreau să rămân,
+Pân-la sfârșit așa.
+
+[c]
+Vreau inima de-a Ta
+Pe veci să mi-alipesc,
+să pot ajunge-așa
+Un om duhovnicesc!
+
+[v2]
+Picioarele să-mi țin,
+Oricând pe urma Ta,
+De-i nor ori de-i senin,
+Să nu m-abat din ea.
+
+[v3]
+Să-mi reazim capul meu,
+Smerit și-ascultător,
+De pieptul Tău mereu,
+Iubit Mântuitor!
+
+[v4]
+Și ochii-n ochii Tăi
+Să-i țin pân-la sfârșit
+S-ajung pe-a Tale căi
+În Cerul fericit!

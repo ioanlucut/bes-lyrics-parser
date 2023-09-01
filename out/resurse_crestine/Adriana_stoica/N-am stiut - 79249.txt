@@ -1,0 +1,42 @@
+[title]
+N-am stiut {author: {Adriana Stoica}, {rcId: {79249}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c2
+
+[v1]
+M-am născut în păcat și nelegiuire
+Dar am trăit fără să simt puțină fericire
+Pofta rea, disprețul și minciuna
+M-au făcut ca să păcătuiesc într-una
+
+[c]
+/: N-am știut că există Dumnezeu
+N-am știut că pân’ la urmă o să-mi pară rău
+N-am știut :/
+
+[v2]
+Am privit la prietenii din lume
+Străin am fost, pierdut cândva și fără de Dumnezeu
+Dar când Isus Hristos îți iese-n cale
+Lumina Lui dă la o parte orice-i rău
+
+[v3]
+Nu poți să faci nimic în lumea-aceasta
+Trăind așa în întuneric și păcat
+Dar când Isus îți luminează calea
+Ai să te simți și tu cu sufletul tău curat
+
+[v4]
+Prieten drag ce rătăcești prin lume
+Străin pribeag, de ce nu asculți de Dumnezeu?
+Ascultă azi a Domnului chemare
+Ca tine-am fost cândva un om pierdut și eu
+
+[c2]
+N-am știut că există Dumnezeu
+N-am știut că pân’ la urmă o să-mi pară rău
+N-am știut
+Acum știu și viața mea în mâna Lui eu i-am predat
+Acum știu că pentru mine Isus a răbdat
+Și-a murit.

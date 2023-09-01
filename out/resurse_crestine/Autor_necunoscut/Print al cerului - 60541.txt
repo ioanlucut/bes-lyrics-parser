@@ -1,0 +1,35 @@
+[title]
+Print al cerului {author: {Anonim}, {rcId: {60541}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+O, Ființă venită din ceruri,
+O, Ființă a Celui Preaînalt,
+Venit-ai să aduci Tu salvare
+La toți ce-au trăit în păcat.
+
+[c]
+Osana Îți cântă natura
+Osana Îți cântăm azi și noi
+Căci tot ce există sub soare
+Îți cântă fără încetare.
+
+[v2]
+O, Prinț al cetății divine,
+Ce garda e doar serafimi
+Îți cântă poporul într-una
+Și-așteaptă să le dai cununa.
+
+[v3]
+O, Doamne, mai este din noapte?
+Mai este din chinul cel greu?
+O, când vei veni cu salvarea?
+Când, Doamne, aduci eliberarea?
+
+[v4]
+Ni-e dor de lumina divină
+Ni-e dor și de țara de sus
+Ni-e dor, Doamne, astăzi de Tine
+O, vino și ia-ne în cer sus.

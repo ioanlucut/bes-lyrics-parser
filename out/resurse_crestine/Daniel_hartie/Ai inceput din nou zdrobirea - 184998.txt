@@ -1,0 +1,35 @@
+[title]
+Ai inceput din nou zdrobirea {author: {Daniel Hartie}, {rcId: {184998}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ai inceput din nou zdrobirea;
+Hai fa cu mine ce voiesti.
+/: Al Tau raman chiar daca doare,
+Privesc spre zarile ceresti. :/
+
+[c]
+/: Nu te uita la greul meu
+Fa tot ce crezi ca este bine;
+Vreau doar s-ajung in cerul Tau,
+Sa scap de lacrimi si suspine. :/
+
+[v2]
+Sa nu Te uiti la rana mea
+Cum tot mai mult se adanceste
+/: Tu fa-Ti deplin lucrarea Ta
+Pana cand aurul luceste. :/
+
+[v3]
+Aceasta-i opera cea sfanta
+Pe care o desavarsesti.
+/: Cand sapi in mine se zdorbeste,
+Tot simtul firii pamantesti. :/
+
+[v4]
+Aceasta-mi este rugaciunea
+Pe care o inalt smerit.
+/: Fa-mi ce voiesti doar Tu, Isuse,
+Sa pot in cer a fi primit. :/

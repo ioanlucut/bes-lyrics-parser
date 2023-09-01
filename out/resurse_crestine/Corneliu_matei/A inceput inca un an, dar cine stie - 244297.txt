@@ -1,0 +1,29 @@
+[title]
+A inceput inca un an dar cine stie {author: {Corneliu Matei}, {rcId: {244297}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+A început încă un an, dar cine știe,
+Dacă va fi încă un an de bucurie?!
+Poate va fi încă un an al îndurării,
+Sau pentru mulți va fi un an al încercării.
+
+[c]
+Noi nu cunoaștem, Doamne, viitorul
+Dar știm că toate sunt în mâna Ta!
+Ai gânduri de pace și nu de nenorocire,
+Când te vom chema, Tu ne vei asculta!
+
+[v2]
+A început încă un an, dar cine știe,
+Dacă vor fi mai multe zilele senine?!
+Poate va fi un an în care suferința,
+Ne va umbri și-apoi va crește-n noi credința.
+
+[v3]
+Vor trece anii vieții noastre ca un sunet,
+Lăsând în urmă un ecou ce se va stinge.
+Vom aduna în inimi lacrimi, bucurie,
+Dar oare unde vom petrece veșnicia?

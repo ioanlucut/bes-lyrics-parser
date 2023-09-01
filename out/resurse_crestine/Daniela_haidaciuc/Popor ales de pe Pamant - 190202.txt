@@ -1,0 +1,60 @@
+[title]
+Popor ales de pe pamant {author: {Daniela Haidaciuc}, {rcId: {190202}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Popor ales de pe Pământ
+Te cheamă astăzi Domnul tău
+Popor umplut cu Duhul Sfânt,
+Așa-ți vorbește Dumnezeu:
+
+[c]
+/: ”
+Unește-te poporul Meu
+Căci vremea e aproape!”
+Așa-ți vorbește Dumnezeu:
+”
+Mai e puțin din noapte!”: \
+
+[v2]
+Popor ales, popor sfințit
+Te-ntreabă astăzi Domnul tău:
+„
+O, pentru ce ai ațipit?
+Trezește-te din somnul greu! : \
+
+[c2]
+/: Trezește-te poporul Meu,
+Nu sta în nepăsare!
+Căci vine Făcatorul tău
+Și via rod nu are! : \
+
+[v3]
+Biserică, mireasa Mea,
+Ți-am dat veșmântul Meu curat
+Cum este astăzi haina ta?
+Eu te intreb cum te-ai păstrat?
+
+[c3]
+/: Te-apropie de Mine acum,
+Te mai trezesc o data,
+Căci norii negri sunt pe drum
+Iar Eu te vreau curată! : \
+
+[v4]
+Te vreau la Mine, te iubesc!
+Biserică, poporul Meu
+Și pentru tine curge iar
+O lacrimă pe-obrazul Meu.
+
+[c4]
+Ce scump e numele ce-l porți!
+Ce scump e sfântul Sânge!
+Dar iarăși nepăsarea ta
+Inima Mea o frange...
+Trezeste-te poporul Meu,
+Venirea Mea-i aproape!
+Așa-ți vorbește Dumnezeu,
+Mai e putin din noapte!

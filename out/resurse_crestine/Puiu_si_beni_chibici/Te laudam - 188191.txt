@@ -1,0 +1,35 @@
+[title]
+Te laudam {author: {Puiu și Beni Chibici}, {rcId: {188191}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Te lăudăm, Domn al universului,
+Te lăudăm, Domn al lumii întregi,
+Te lăudăm, Nume minunat,
+Fii glorificat, fii glorificat, fii glorificat.
+
+[c]
+Tu ești cel mai mare, Stânca noastră tare,
+Domn al tuturor, sfânt biruitor.
+Îți aducem slavă, viața noastră întreagă,
+Domn al Domnilor, al lumii Salvator.
+
+[v2]
+Îți cântăm, Domn al universului,
+Îți cântăm, Domn al lumii-ntregi,
+Îți cântăm, Nume minunat,
+Fii glorificat, fii glorificat, fii glorificat.
+
+[v3]
+Te-nălțăm, Doamne al universului,
+Te-nălțăm, Domn al lumii întregi,
+Te-nălțăm, Nume minunat,
+Fii glorificat, fii glorificat, fii glorificat.
+
+[v4]
+Te lăudăm, Domn al universului,
+Îți cântăm, Domn al lumii-ntregi,
+Te-nălțăm, Nume minunat,
+Fii glorificat, fii glorificat, fii glorificat.

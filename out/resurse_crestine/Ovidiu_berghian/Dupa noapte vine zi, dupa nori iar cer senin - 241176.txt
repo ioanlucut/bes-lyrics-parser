@@ -1,0 +1,26 @@
+[title]
+Dupa noapte vine zi dupa nori iar cer senin {author: {Ovidiu Berghian}, {rcId: {241176}}
+
+[sequence]
+v1,b,c,v2,c
+
+[v1]
+După noapte vine zi, după nori iar cer senin
+Curcubeul zarea-nseninează,
+După lacrimi, mângâieri, după iarnă primăveri
+Floarea albă câmpu-nmiresmează!
+
+[b]
+Și dacă soarele nu va mai luci,
+Și dacă stelele de sus se vor risipi...
+
+[c]
+/: În inima mea Lumină va fi,
+Iubirea eternă va străluci...
+Va străluci noapte și zi.! :/
+
+[v2]
+Dacă vântul bate iar peste munții de cleștar,
+Stânca vieții mele-i Neclintită.
+Bată vântul cât o vrea, stânca mea e Dragostea
+Ce rămâne-n veci Nebiruită!

@@ -1,0 +1,31 @@
+[title]
+Vine domnul e cuvantul mare {author: {Anonim}, {rcId: {5926}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+/: Vine Domnul! :/
+, e cuvântul mare
+Pentru cei ce Îi așteaptă sfânta-I arătare.
+
+[c]
+/: Vine Domnul! Vine! :/
+/: Suflete, te-ntreabă astăzi: „
+Ce va fi cu tine?” :/
+
+[v2]
+/: Vine Domnul! :/ Gata-i să sosească!
+Aurora dimineții prinde să mijească.
+
+[v3]
+/: Vine Domnul! :/ Sus s-avem privirea,
+Căci, de-acolo, ni se-aduce nouă izbăvirea.
+
+[v4]
+/: Vine Domnul! :/ Iată-L, se ivește!
+S-aruncăm orice povară, ce ne copleșește!
+
+[v5]
+/: Vine Domnul! :/ Suflete-fecioare,
+Să-I ieșim, în haine albe, în întâmpinare!

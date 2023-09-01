@@ -1,0 +1,50 @@
+[title]
+Domnul-steagul meu {author: {Not an idol}, {rcId: {209743}}
+
+[sequence]
+v1,c,c2,v2,c,c2
+
+[v1]
+/: Stiu ca Tu
+Ma asculti
+Cand te chem
+Ma ajuti.
+In necaz ma ocrotesti,
+Ma sprijinesti. : \
+
+[c]
+Chiar de voi cadea
+Ma vei ridica
+Te voi inalta
+Toata viata mea!
+Chiar de voi cadea
+Ma vei ridica
+Te voi inalta
+Toata viata!
+/: Chiar de voi cadea
+Ma vei ridica
+Te voi inalta
+Toata viata mea! : \ (3x)
+Chiar de voi cadea
+Ma vei ridica
+Te voi inalta
+Toata viata!
+
+[c2]
+/: Ne vom bucura
+De biruinta Ta,
+In numele tau.
+Spre slava Ta,
+Steagul vom ridica. : \
+/: Ne vom bucura
+De biruinta Ta,
+In numele tau.
+Spre slava Ta,
+Steagul vom ridica. : \ 5x
+Ne vom bucura!
+
+[v2]
+/: Stiu ca Tu ma asculti,
+Cand te chem, Ma ajuti
+In necaz ma ocrotesti,
+Ma sprijinesti. : \

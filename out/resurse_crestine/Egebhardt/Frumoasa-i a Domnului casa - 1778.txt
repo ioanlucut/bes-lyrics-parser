@@ -1,0 +1,29 @@
+[title]
+Frumoasa-i a domnului casa {author: {E.Gebhardt}, {rcId: {1778}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Frumoasa-i a Domnului casa!
+Spre ea merge un sfant popor;
+Biserica Lui cea aleasa
+Slaveste pe-al ei Salvator.
+
+[c]
+Frumuseti vom vedea
+Cand noi sus in cer vom intra!
+Pe Hristos vom vedea atunci
+Cand in cer vom intra!
+
+[v2]
+Cantam slava Sa minunata,
+Dorim paradisul ceresc;
+Isus calea Lui o arata
+Acelora ce azi Il primesc.
+
+[v3]
+Intra-vom in patria sfanta,
+Scapati de pacat si dureri;
+Acolo toti sfintii ii canta
+La tronul eternei puteri.

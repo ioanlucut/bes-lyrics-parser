@@ -1,0 +1,51 @@
+[title]
+Iubit ma simt {author: {Mirela Ursulescu}, {rcId: {71801}}
+
+[sequence]
+v1,c2,v2,c2,v3,c3,v4,c4
+
+[v1]
+Iubit mă simt de Dumnezeu
+În vreme grea sau bună
+Căci El e Salvatorul meu
+În noapte și-n furtună
+
+[c2]
+/: Îi simt prezența Lui mereu
+Îi simt a Lui putere
+Și-atunci când singur mă simt eu
+El e-a mea mângâiere :/
+/: Putere când simt că nu am
+El mi-o re-nnoiește
+Îmi da din nou din al Sau har
+Furtuna potolește :/
+
+[v2]
+Putere-mi dă să biruiesc
+Prin orișice-ncercare
+Chiar printre valuri când plutesc
+E barca de salvare
+
+[v3]
+Chiar împotrivă de ar sta
+O mie-n stânga fie
+Și zeci de mii la dreapta mea
+Cu Domnul merg-nainte
+
+[c3]
+/: El îmi conduce pașii mei
+Prin greu și bucurie
+El este ajutorul meu
+S-ajung în veșnicie :/
+
+[v4]
+Chiar dacă toți te părăsesc
+Cu Tine este Domnul
+Nicicând El nu te va lăsa
+El e Mântuitorul
+
+[c4]
+/: Încrede-te în Dumnezeu
+În orice-mprejurare
+Dat de rușine nu vei fi
+El este-a Ta salvare :/

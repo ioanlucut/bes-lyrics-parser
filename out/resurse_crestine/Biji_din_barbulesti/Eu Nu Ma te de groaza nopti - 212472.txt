@@ -1,0 +1,25 @@
+[title]
+Eu nu ma te de groaza nopti {author: {Biji din Barbulesti}, {rcId: {212472}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Eu nu ma tem de groaza nopti,
+Nici de sageata celui rau.
+Eu nu-s creat la voia sorti,
+Eu sunt copil de Dumnezeu. / (2x)
+
+[c]
+Eu nu ma tem,
+Eu nu ma tem,
+Eu sunt copil de Dumnezeu.
+Eu nu ma tem,
+Eu nu ma tem,
+Cu mine este Dumnezeu. / (2x)
+
+[v2]
+Chiar zece mii la dreapta mea,
+De-ar incerca nu m-ar lovi.
+Si alte mii alaturea,
+Domnul meu ma va pazi. / (2x)

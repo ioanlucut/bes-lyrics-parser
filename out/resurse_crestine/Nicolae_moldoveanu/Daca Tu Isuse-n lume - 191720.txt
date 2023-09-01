@@ -1,0 +1,69 @@
+[title]
+Daca tu isuse-n lume {author: {Nicolae Moldoveanu}, {rcId: {191720}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c,v8,c,v9,c,v10,c
+
+[v1]
+Dacă Tu Isuse-n lume
+Casă n-ai avut, ci drum,
+cum să am eu loc aicea,
+/: Cum, o, cum? :/
+
+[c]
+Unde-i Adevărul prigonit,
+Eu nu vreau, nu vreau să fiu iubit!
+
+[v2]
+Cum să pot avea odihnă,
+Unde Tu ai fost gonit,
+Unde cruce și piroane
+/: Ți-au gătit? :/
+
+[v3]
+Cum să fiu primit Isuse,
+Unde Tu ai fost respins,
+Unde ura și minciuna-s
+/: Foc aprins? :/
+
+[v4]
+Cum să fiu vorbit de bine
+Unde-ai fost batjocorit,
+Și pentru Cuvântu-Ți dulce,
+/: Te-au lovit? :/
+
+[v5]
+Cum să pot trăi în pace
+Unde pace nu Ți-au dat,
+Unde până și cămașa
+/: Ți-au luat? :/
+
+[v6]
+Cum să fiu iubit în locul
+Unde Tu ai fost urât?...
+Fiere ai primit în lume,
+/: Doar atât! :/
+
+[v7]
+Cum să pot avea viată,
+Unde viața Ți-au luat,
+Și pentru-Adevăr, Isuse,
+/: Te-au scuipat? :/
+
+[v8]
+Nu! O, nu, Isuse dulce,
+Eu nu vreau să fiu iubit,
+Unde Tu ai fost, cu ură,
+/: Răstignit! :/
+
+[v9]
+Eu nu vreau să port cunună
+Împletită-n flori de crini,
+Unde Tu-ai purtat ocară,
+/: Răni și spini!... :/
+
+[v10]
+Vreau să fiu ca Tine-n totul,
+Vreau să am viața Ta,
+Vreau să-Ți pot deplin Cuvântul
+/: Asculta!... :/

@@ -1,0 +1,23 @@
+[title]
+A mea bucurie {author: {Domini}, {rcId: {95450}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+A mea bucurie e Isus
+De când pace sfântă mi-a dat
+Și n-am să mai plec niciodat’,
+De El nicidecum n-am să mă las!
+
+[c]
+/: Doar El zi :/ x3 de zi mă-nconjoară
+Cu dragostea-I fără sfârșit
+Și-ntruna în suflet îmi toarnă
+Din harul Său nemărginit.
+
+[v2]
+Credința în Tine mă poartă,
+Părinte, spre cerul înalt,
+Colo am s-ajung eu odat’,
+De Tine voi fi ancorat.

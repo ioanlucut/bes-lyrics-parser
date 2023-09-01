@@ -1,0 +1,42 @@
+[title]
+Viata-i ca un tren de munte {author: {Anonim}, {rcId: {74458}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Viața-i ca un tren de munte,
+Cu-n Mecanic iscusit.
+Drumu-ncepe de la leagăn,
+Și-are la mormânt sfârșit.
+Vezi tunele și semnale,
+Curajos călătorești!
+Ține mâna strâns pe frână,
+Drumul, vezi, să nu-l greșești!
+
+[c]
+O, Isuse, Tu condu-ne
+Până-n locul fericit,
+Unde îngerii ne-așteaptă
+Să-Ți cântăm, Isus iubit!
+
+[v2]
+Peste văi prăpăstioase,
+Poduri lungi vei traversa.
+Dar Isus stă și privește,
+Calea-aceasta-i viața ta.
+Fii atent la avalanșe,
+Datoria să-mplinești!
+Ține mâna strâns pe frână,
+Drumul, vezi, să nu-l greșești!
+
+[v3]
+Când, cu bine ajungi la maluri
+Și-apoi treci peste Iordan,
+Vezi o gară-mpodobită,
+E cerescul Canaan.
+Aici trenul se oprește.
+Tu cobori, ești obosit.
+Însă Domnul îți grăiește:
+„
+Călător, bine-ai venit!”

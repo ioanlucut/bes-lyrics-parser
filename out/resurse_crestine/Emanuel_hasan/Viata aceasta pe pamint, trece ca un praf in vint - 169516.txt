@@ -1,0 +1,30 @@
+[title]
+Viata aceasta pe pamint trece ca un praf in vint {author: {Emanuel Hasan}, {rcId: {169516}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Viața aceasta pe pămînt, trece ca un praf în vant.
+Ea continuă-n veșnicii, în necaz sau bucurii.
+Prieten drag, prieten drag, tu te-ai întrebat unde vei merge?
+Hotărărăște-te chiar azi, Domnul te așteaptă-n prag.
+
+[v2]
+Poți să fii asigurat, poți să fii pe veci salvat.
+Dar grăbește, nu-amîna, chiar la noapte poți pleca.
+Prieten drag, prieten drag! Tu te-ai întrebat unde vei merge?
+Hotărăște-te chiar azi, Domnul te așteaptă-n prag.
+
+[v3]
+Iadul e un loc de chin, printre infinit pelin.
+Cerul e un loc de vis, minunatul paradis.
+Prieten drag, prieten drag! Tu te-ai întrebat unde vei merge?
+Hotărăște-te chiar azi, Domnul te așteaptă-n prag.
+
+[v4]
+Prieten drag, tu poți s-alegi, locul unde vrei să mergi.
+Jos in iadu-ntunecos, sau in cerul glorios.
+/: Prieten drag, prieten drag! Tu te-ai întrebat unde vei merge?
+Hotărăște-te chiar azi, Domnul te așteaptă-n prag. :/
+x2

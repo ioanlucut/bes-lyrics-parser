@@ -1,0 +1,23 @@
+[title]
+Tu om pierdut {author: {Maria Cuc}, {rcId: {61129}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Isus este singurul tău Domn
+Isus el îți este ajutor
+Isus vrea la El tu azi să vii
+Și te va iubi.
+
+[c]
+/: Tu om pierdut
+Vino astăzi la Isus
+El în dar îți va da
+Viața-n slava Sa. :/
+
+[v2]
+Dacă chiar de azi îl vei urma
+Isus mântuire-n dar Îți va da
+Și-n dar o nouă viață vei avea
+Când te va duce-n slava Sa.

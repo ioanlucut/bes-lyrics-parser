@@ -1,0 +1,32 @@
+[title]
+Pastorul oaia isi cauta {author: {Anonim}, {rcId: {74232}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Păstorul, oaia își caută,
+Auzi prin munți cum o cheamă,
+Oaia din turm-a rătăcit,
+De la Părintele iubit.
+
+[c]
+/: Să grăbim a căuta,
+Pe rătăciți a-i înturna.
+Că-s pierduți în pustiu,
+De Mântuitor ei nu știu. :/
+
+[v2]
+Păstorul strigă: „
+Ajutați,
+Oi rătăcite să căutați!
+’
+Napoi la turmă le-aduceți,
+Acasă, la Tatăl ceresc!”
+
+[v3]
+Oile umblă rătăcind,
+Zdrobite, rănite fiind;
+Păstorul strigă: „
+Ascultați,
+Mergeți în grabă să căutați!”

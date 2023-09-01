@@ -1,0 +1,45 @@
+[title]
+Cand vantul {author: {Remus Tămășan Cristi}, {rcId: {155904}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când vântul greu sufla
+Și noaptea era grea
+Într-o iesle-n Betleem
+Isus se năștea
+El Slava a părăsit
+De tot S-a umilit
+Într-o iesle S-a născut
+Cel făr’ de-nceput.
+
+[c]
+/: Să cântăm cu toții
+S-a născut Isus
+El în bezna nopții
+Viață a adus. :/
+:/ Să căntăm cu toții
+S-a născut Isus
+El în bezna nopții
+Viață a adus. :/ x3
+
+[v2]
+O stea a strălucit
+Pe Cer ea s-a ivit
+Magii către staul
+I-a călăuzit
+În iesle au aflat
+Pe Pruncul Minunat
+Daruri i-au adus
+Și s-au închinat.
+
+[v3]
+Și astăzi dacă vrei
+Viață poți să ai
+Dacă vii la iesle
+Și te închini Lui
+Speranță vei primi
+Și fericit vei fi
+Vei cânta, Osana
+Slavă Domnului.

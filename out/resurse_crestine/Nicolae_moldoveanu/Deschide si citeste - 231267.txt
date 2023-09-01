@@ -1,0 +1,25 @@
+[title]
+Deschide si citeste {author: {Nicolae Moldoveanu}, {rcId: {231267}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Deschide și citește a Cărții sfinte file,
+ea fi-ți-va călăuza oricărei nopți sau zile.
+
+[c]
+Dumnezeu ne-a dat, sfânta vieții Carte,
+prin ea, sus în cer să ne facă parte.
+
+[v2]
+La orișice nevoie, ea-n liniște te-nvață
+și ți-e sfătuitorul oricând și-oriunde-n viață.
+
+[v3]
+Să n-o citești în grabă, și nici cu rele gânduri,
+de vrei să guști dulceața preasfintelor ei rânduri.
+
+[v4]
+Deschide și citește din Cartea cea divină,
+și-ndeamnă și pe alții din ea să ia lumină!

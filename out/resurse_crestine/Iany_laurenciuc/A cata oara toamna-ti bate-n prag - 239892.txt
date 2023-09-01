@@ -1,0 +1,37 @@
+[title]
+A cata oara toamna-ti bate-n prag {author: {Iany Laurenciuc}, {rcId: {239892}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+A câta oară toamna-ți bate-n prag
+Să-ți amintești că ești un călător?
+A câta oară, omule pribeag
+Te uiți spre cer, la stolul de cocori?
+A câta oară câmpul e pustiu
+Și frunzele în codru-au ruginit?
+A câta oara Dumnezeul viu
+Îți spune că alergi pe-un drum greșit?
+
+[c]
+Viața aceasta-i ca o frunză ce se leagănă în vânt,
+Ne-ndreptăm în mare grabă
+Către tainicul mormânt.
+După moarte ori cunună, ori în locul cel de jale
+Prieten drag, vino la Domnul,
+Poate-i ultima chemare!
+
+[v2]
+A câta oară, o a câta oară
+Tu ai respins chemarea lui Hristos?
+De vrei să mergi cu noi spre noua Țară,
+Renunță la trecutul păcătos.
+A câta oară Dumnezeu îți spune
+Să faci cu El în grabă legământ?
+Noi nu știm ziua când Isus revine,
+Deci să fii gata, suflet orișicând!
+
+[e]
+Sus în Țara dintre râuri va fi veșnic primăvară,
+Ancorați-vă de Cer, călător spre noua Țară!

@@ -1,0 +1,23 @@
+[title]
+Cum doreste cerbul apa {author: {Anonim}, {rcId: {74319}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Cum dorește cerbul apa
+Și aleargă la izvor
+Tot așa Îți caut fața
+Și mereu mi-e dor.
+
+[c]
+/: Du-mă, Doamne, sus pe stâncă,
+Du-mă în ceresc pridvor;
+Lasă-mi duhul să Te-ajungă
+Și să mă-nfior :/
+
+[v2]
+Sunt fecioară înțeleaptă
+Și mă pregătesc de zor,
+Candela îmi este plină
+Și mereu mi-e dor.

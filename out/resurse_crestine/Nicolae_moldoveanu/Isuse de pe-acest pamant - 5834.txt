@@ -1,0 +1,35 @@
+[title]
+Isuse de pe-acest pamant {author: {Nicolae Moldoveanu}, {rcId: {5834}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Isuse de pe-acest pământ
+Ce e plin de ispite
+Eu rugăciunea mi-o îndrept
+Isuse către Tine.
+
+[c]
+/: O, vino Tu, Isuse
+Din nou ridică-mi starea
+Și mă îmbracă-n Duhul Sfânt
+Ca să-ți urmez cărarea. :/
+
+[v2]
+Furtuni și valuri tot mai mari
+Lovesc în a mea barcă
+Se năpustesc asupra mea
+Credința mi-o încearcă.
+
+[v3]
+Apari Isuse mult dorit
+Din nou în a mea barcă
+Ca să Te simt ca la ’nceput
+Cântându-ți Osanale.
+
+[v4]
+Apari Isuse minunat
+Și stai la cârma vieții
+Luceafăr sfânt și mult dorit
+Din zorii tinereții.

@@ -1,0 +1,45 @@
+[title]
+Tu n-ai nimic in lume {author: {Nicolae Moldoveanu}, {rcId: {4161}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Tu n-ai nimic în lume,
+Nimic din tot ce-i rău,
+Nici bogății, nici nume,
+Nici desfătări, nici glume.
+Tu n-ai nimic în lume,
+Nimic din tot ce-i rău.
+/: Dar ceru-ntreg, dar ceru-ntreg,
+Dar ceru-ntreg e-al tău. :/
+
+[v2]
+Tu n-ai nimic în viață,
+Nimic pe-acest pământ,
+Nici vinul ce răsfață,
+Nici haina cea măreață.
+Tu n-ai nimic în viață
+Nimic pe-acest pământ.
+/: Dar tot ce ai, dar tot ce ai
+Dar tot ce ai e sfânt! :/
+
+[v3]
+Tu n-ai nimic ce leagă
+Ca cei ce totul vor.
+A lor e clipa dragă,
+A lor e lumea-ntreagă.
+Tu n-ai nimic ce leagă,
+A lor e tot ce vor.
+/: Dar cerul nu-i, dar cerul nu-i,
+Dar cerul nu-i al lor. :/
+
+[v4]
+Tu n-ai nimic sub soare.
+Și toți te râd mereu.
+A lor e-a vieții floare
+Și cupa-mbietoare.
+Tu n-ai nimic sub soare.
+Ei au - și râd mereu.
+/: Al tău e doar, al tău e doar,
+Al tău e Dumnezeu. :/

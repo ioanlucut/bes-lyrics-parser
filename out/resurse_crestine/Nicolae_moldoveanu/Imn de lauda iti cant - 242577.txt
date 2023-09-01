@@ -1,0 +1,43 @@
+[title]
+Imn de lauda iti cant {author: {Nicolae Moldoveanu}, {rcId: {242577}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Imn de laudă îți cânt
+Dumnezeul meu
+Cu-n fior mai nou, mai sfânt
+Dumnezeul meu.
+
+[c]
+Binecuvântat să fii
+Dumnezeul celor vii
+Azi Îți cânt și mâini și-n veșnicii!
+Numele Tău Minunat
+Peste toate-i înălțat
+Fie veșnic binecuvântat.
+
+[v2]
+Imn de dragoste-Ți aprind
+Dumnezeul meu
+Cât azi să te cuprind
+Dumnezeul meu.
+
+[v3]
+Imn de adorare-ți spun
+Dumnezeul meu
+Cu tot ce mi-ai dat mai bun,
+Dumnezeul meu.
+
+[v4]
+Imn de soare și de nor
+Dumnezeul meu
+Îți aduc cu duhu-n zbor
+Dumnezeul meu.
+
+[v5]
+Imn de slavă neoprit
+Dumnezeul meu
+Cânt, că-mi ești pe drept iubit
+Dumnezeul meu.

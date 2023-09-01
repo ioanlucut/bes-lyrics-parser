@@ -1,0 +1,54 @@
+[title]
+Prin munti dealuri si campii {author: {Denis Costea}, {rcId: {198283}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Prin munți, dealuri și câmpii,
+Ades’ Te-am căutat
+În cântul păsărilor mii
+Și-n cerul înstelat
+Te-am căutat Isuse,
+Să poți să îmi vorbești
+Să îți aud strigarea
+Și-n taină să-mi vorbești
+
+[c]
+/: Șoptește-mi Doamne Mare
+Si spune-mi cum m-ai iubit
+Atunci când pe Golgota
+Cu drag tu te-ai jertfit :/
+
+[v2]
+Ți-am auzit chemarea
+Și-atunci am tresăltat
+Când glasul Tău de tunet
+Inima mi-a schimbat
+Mi-a-nvăluit ființa
+Și sufletu-mi pribeag
+Și-am înțeles Isuse
+Că Tu m-ai așteptat
+
+[c2]
+/: Ascultă-mi rugăciunea
+Suspinul meu amar
+Alină-mi Tu durerea
+Și-al suferinței jar :/
+
+[v3]
+Preschimbă-mi acuma
+Doamne
+Al inimii tumult
+În râuri de apă vie
+Prin Sfântul tău cuvânt
+Transformă a mea ființă
+Să pot să-ți fiu pe plac
+Și glasul tău cel dulce
+Să îl ascult cu drag
+
+[c3]
+/Cânta-voi ție Doamne
+Un imn de mulțumiri
+Spre slava ta mareață
+Mărite Domn divin :/

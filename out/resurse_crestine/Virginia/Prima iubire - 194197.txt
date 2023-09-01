@@ -1,0 +1,30 @@
+[title]
+Prima iubire {author: {Virginia}, {rcId: {194197}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O Doamne Isuse, ascultă acum departe,
+Pe dealuri, prin văi, pe câmpie,
+Un cântec de lacrimi, de jertfă
+Pe drum e cineva, cântă, prin zarea pustie!
+
+[c]
+/: E cântecul meu de dragoste plin
+Din primul fior de mângâiere!
+Din ziua când Ție Isuse Ți-am spus
+Prima iubire și întâia durere.
+ /:
+
+[v2]
+E cineva cântă, sunt unu, sunt doi
+Sunt sute, sunt miii, mulțimi fără zare
+Și cântă prin soare, prin noapte și ploi
+Un cântec de iubire, de har și chemare!
+
+[v3]
+Ascultă-l Isuse, e imnul slăvit
+Din ziua când harul, veni peste mine,
+Și-n care adevărul a rupt strălucit tristețea
+Trăită departe de Tine!

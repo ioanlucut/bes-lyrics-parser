@@ -1,0 +1,21 @@
+[title]
+Cu cine-l vom asemana {author: {Speranța}, {rcId: {80072}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+Cu cine-L vom asemăna pe Dumnezeu ?
+Cu cine-L vom asemăna pe Dumnezeu?
+
+[v1]
+/: Căci n-are asemănare nici în cer, nici pe pământ, :/
+/: El nu este ca omul ci e de trei ori Sfânt. :/
+
+[v2]
+/: De veacuri El domnește ca Stăpân în Univers, :/
+/: Nici când lungimea vieții nu poate fi pusă in vers. :/
+
+[v3]
+/: Căci El cheamă pe nume tot ce vedem sau nu vedem,
+/: Să fie în veci slăvit, în El vrem să ne încredem. :/

@@ -1,0 +1,35 @@
+[title]
+Astept nvierea (nu mai tin la viata aceasta) {author: {Ovidiu Liteanu}, {rcId: {183374}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Nu mai țin la viața aceasta
+Ȋmi vei spune că-i frumoasă
+Ai dreptate da-i mai bine
+Sus în Rai la mine-acasă
+
+[c]
+/: Cred și-aștept în taină clipa
+Când pe nori apare iară
+Domnul meu să mă răpească
+Ȋn eterna primăvară :/
+
+[v2]
+Simt în piept cum arde dorul
+Să ajung pe plaiuri sfinte
+Să mă-mbrățiseze Domnul
+Și iubitul meu Părinte
+
+[v3]
+Duhul Sfânt mi-e călăuză
+Ȋnspre zările albastre
+El mereu mă-nflăcărează
+Să zbor dincolo de astre
+
+[v4]
+Hai și tu să fii cu Domnul
+Vino azi la pocăință
+Să vezi ce frumoasă-i viața
+Cu Isus și-a Lui credință

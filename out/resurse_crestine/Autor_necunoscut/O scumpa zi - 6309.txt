@@ -1,0 +1,25 @@
+[title]
+O scumpa zi {author: {Anonim}, {rcId: {6309}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+O scumpă zi, o scumpă zi
+Cănd pe Isus l-am primit
+Inima mea i-am dat-o Lui
+Cu totul sunt al Domnului
+
+[c]
+/: Sunt al Lui :/
+Nu al meu ci al Domnului
+Prin sângele sfânt răscumpărat
+De tot păcatul sunt spălat
+/: Sunt al Lui :/
+Nu al meu ci al Domnului
+
+[v2]
+O scumpă zi, o ceas frumos
+Când am aflat eu pe Hristos
+Prin al Său har sunt renăscut
+Și acum știu că nu-s pierdut

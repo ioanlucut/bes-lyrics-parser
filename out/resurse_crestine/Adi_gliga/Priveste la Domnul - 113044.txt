@@ -1,0 +1,21 @@
+[title]
+Priveste la domnul {author: {Adi Gliga}, {rcId: {113044}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Vrei să trăiești cu evlavie-n Hristos ?
+Soarta îți va fi prigoana;
+Cei ne-nfrânați și clevetitori
+Ei îți vor fi povara.
+
+[c]
+Privește la Domnul, El a adus Lumina Luminii în tine
+Piciorul pe stâncă, El ți l-a pus, crede că este cu tine.
+
+[v2]
+Chiar de-ncercarea te-apasă și-i greu
+Să nu renunți la credință
+Rabdă și laudă Numele Său
+El îți va da biruință.

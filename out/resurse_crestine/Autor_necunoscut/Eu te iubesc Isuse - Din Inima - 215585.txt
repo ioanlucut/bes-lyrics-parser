@@ -1,0 +1,33 @@
+[title]
+Eu te iubesc isuse - din inima {author: {Anonim}, {rcId: {215585}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+/: Eu te iubesc Isuse,
+Eu te iubesc Isuse,
+Eu te iubesc Isus din inimă :/
+/: Din inimă, din inimă
+Eu te iubesc Isuse drag din inimă :/
+
+[v2]
+/: Te proslăvesc Isuse,
+Te proslăvesc Isuse,
+Te proslăvesc Isuse drag din inimă :/
+/: Din inimă, din inimă
+Te proslăvesc Isuse drag din inimă :/
+
+[v3]
+/: Eu te urmez Isuse,
+Eu te urmez Isuse,
+Eu te urmez Isuse drag din inimă :/
+/: Din inimă, din inimă
+Eu te urmez Isuse drag din inimă :/
+
+[v4]
+/: Îți mulțumesc Isuse,
+Îți mulțumesc Isuse,
+Îți mulțumesc Isuse drag din inimă :/
+/: Din inimă, din inimă
+Îți mulțumesc Isuse drag din inimă :/

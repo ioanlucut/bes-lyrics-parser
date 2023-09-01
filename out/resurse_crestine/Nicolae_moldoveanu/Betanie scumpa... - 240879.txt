@@ -1,0 +1,35 @@
+[title]
+Betanie scumpa {author: {Nicolae Moldoveanu}, {rcId: {240879}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Betanie scumpă, Altar fericit,
+Aprins de văpaia iubirii,
+/: În flacăra-Ți sfântă, pe veci s-au topit
+Făptura cu Domnul măririi! :/
+
+[v2]
+Ce taină măreață, ce har luminos,
+În casa cea dulce s-arată,
+/: Căci mirul iubirii, divin și frumos,
+Își varsă mireasma-i curată! :/
+
+[v3]
+Acolo odihna și pacea trăiesc
+În sfântă și dulce-armonie,
+/: Lumina Cuvântului viu și ceresc,
+E taina ce dă bucurie! :/
+
+[v4]
+Acolo-Adevăru-și găsește deplin,
+Cămin cu adâncă primire,
+/: Căci numai acolo nu este străin.
+- El pururi trăiește-n iubire! :/
+
+[v5]
+Betanie scumpă, Altar fericit,
+Primește-mă astăzi în tine.
+/: Ca-n tine să ard și să fiu mistuit,
+În focul iubirii divine! :/

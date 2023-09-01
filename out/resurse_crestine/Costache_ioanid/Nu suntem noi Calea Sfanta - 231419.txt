@@ -1,0 +1,45 @@
+[title]
+Nu suntem noi calea sfanta {author: {Costache Ioanid}, {rcId: {231419}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Nu suntem noi Calea Sfântă
+Calea care duce-n sus
+/: Noi suntem doar călătorii
+Însă Calea e Isus! :/
+
+[c]
+/: Isus, Isus,
+Însă Calea e Isus :/
+
+[v2]
+Nu-i în forme Adevărul
+Nici în litere nu-i pus
+/: Adevărul e-o Ființă,
+Adevărul e Isus :/
+
+[c2]
+/: Isus, Isus,
+Adevărul e Isus :/
+
+[v3]
+Nu aceasta ne e viața
+Firul cât ni-i dat pe fus
+/: Viața noastră e Lumina
+Iar Lumina e Isus :/
+
+[c3]
+/: Isus, Isus,
+Iar Lumina e Isus :/
+
+[v4]
+Eu sunt Calea și-Adevărul
+Domnul nostru-așa ne-a spus
+/: Calea, Adevărul, Viața
+Toate-acestea sunt Isus :/
+
+[c4]
+/: Isus, Isus,
+Toate-acestea sunt Isus :/

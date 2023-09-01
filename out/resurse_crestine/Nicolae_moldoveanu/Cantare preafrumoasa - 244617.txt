@@ -1,0 +1,41 @@
+[title]
+Cantare preafrumoasa {author: {Nicolae Moldoveanu}, {rcId: {244617}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Cântare preafrumoasă,
+Vibrare de rai,
+Tu pururi îmi dai,
+O viață luminoasă.
+
+[c]
+Cântare fericită,
+Mereu mă-nsoțești,
+Și-n har mă-ntărești,
+Prin lumea învrăjbită.
+
+[v2]
+Cântare minunată,
+Izvor de puteri,
+Tu-mi dai mângâieri,
+Când viața mi-e-ncercată.
+
+[c2]
+Cântare înțeleaptă,
+Lumină ni-aduci,
+De mână m-apuci,
+Pe calea păcii dreaptă.
+
+[v3]
+Cântare-nnoitoare,
+Scânteie de cer,
+Prin beznă și ger,
+În mine-aprins-a-i soare.
+
+[c3]
+Puterea ta și harul,
+Cântare de Sus,
+Din Domnul Isus,
+Îmi face lin calvarul.

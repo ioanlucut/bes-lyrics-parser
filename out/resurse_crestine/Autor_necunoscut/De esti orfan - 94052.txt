@@ -1,0 +1,35 @@
+[title]
+De esti orfan {author: {Anonim}, {rcId: {94052}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+De ești orfan în viața ta și nu ai mamă
+Izvor de dragoste tu încă n-ai sorbit
+/: Adesea stai și verși mereu lacrimi amare
+Urându-ți soarta care te-a nenorocit :/
+
+[v2]
+De ești orfan în viața ta și nu ai tată
+Și n-are cine-ți da o mână de-ajutor
+/: Copilăria ta afost întunecată
+Și visul tău uscat mereu de-atâta dor :/
+
+[v3]
+De ești străin în lumea-această, n-ai pe nimeni
+Necazul tău, tu n-ai cu cine să-l împarți
+/: Când ți se pare că-i ascunsă fericirea
+Și bucuria te-ocolește ne-ncetat :/
+
+[v4]
+Iată o veste, un cuvânt îți spun acuma
+Este-un izvor de dragoste pentru orfani
+/: El e într-un loc nimit: Locul de răstignire
+Și curge întruna de acum 2000 de ani :/
+
+[v5]
+Fericirea și-n locu-acela te primește
+Și bucuria te așteaptă an de an
+/: Și cine vine aici, Tată, Mamă găsește
+Și fericit nu se numește orfan :/

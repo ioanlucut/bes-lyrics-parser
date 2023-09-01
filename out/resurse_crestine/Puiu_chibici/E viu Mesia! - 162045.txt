@@ -1,0 +1,39 @@
+[title]
+E viu mesia {author: {Puiu Chibici}, {rcId: {162045}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Pune-ți strajă lângă piatră de mormânt
+Pentru veci să putrezească în pământ
+De pe tronul său striga atunci Pilat
+/: Însă Domnu-a treia zi a înviat :/
+
+[c]
+/: Unde ești moarte e rupt pe veci azi boldul tău
+Dați piatra la o parte e viu Fiul Lui Dumnezeu :/
+
+[v2]
+Spre mormânt Maria-n grabă a pornit
+Să îl vadă pe al ei Domn preaiubit
+Chiar în zorii dimineții a plecat
+Cu mult dor și sufletul îndurerat
+Când deodată doi bărbați s-au arătat
+Strălucind și cu veșmânt imaculat
+Ce faci tu o întreabară-ntr-un târziu
+/: De ce-L cauți între morți pe Cel ce-I viu :/
+
+[c2]
+/: E viu Mesia a înviat azi Domnul tău
+O nu plânge Maria e viu Fiul Lui Dumnezeu :/
+
+[v3]
+Este inima ta piatră de mormânt
+Ce împiedică intrarea Celui Sfânt
+Ce te-oprește să Îl rogi acum frumos
+/: Vino și în viața mea Isus Hristos :/
+
+[c3]
+/: E viu Mesia cântați popoare ne-ncetat
+Trăți dar bucuria Hristos din morți a înviat :/

@@ -1,0 +1,40 @@
+[title]
+Ce-ati vazut pastori {author: {Anonim}, {rcId: {3992}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Ce-ați văzut păstori
+Sculați până-n zori
+Am văzut pe nou născutul
+Prunc Isus din cer venitul
+/: Fiu Dumnezeesc :/
+
+[v2]
+Ce palat era
+Unde Domnul sta
+Peșteră străină rece
+Peșteră de dobitoace
+/: Palatul era :/
+
+[v3]
+Ce-avea de-așternut
+Pruncul nou născut
+Ieslea îi era culcușul
+Fân și paie așternutul
+/: Culcușul era :/
+
+[v4]
+Cine sta cu el
+Blândul mielușel
+Sta Maria maica sfântă
+Sta Iosif cu fața blândă
+/: Stau și se rugau :/
+
+[v5]
+Cine îi cânta
+Și îl preamărea
+Îngerii din cer veniră
+Vesele cântări doiniră
+/: Domnului Isus :/

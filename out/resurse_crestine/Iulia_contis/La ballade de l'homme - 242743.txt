@@ -1,0 +1,28 @@
+[title]
+La ballade de l homme {author: {Iulia Contis}, {rcId: {242743}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Il était un temps perdu
+Quand Tu, Dieu, mon Jésus,
+Étais né dans notre monde...
+Oh, comme Tu étais profond!
+
+[v2]
+Oh, ta mère était une fille,
+Je me souviens dans cette ville...
+Elle était une créature,
+Mais elle était, oh, si pure!
+
+[v3]
+Tu étais Dieu, mais homme
+Tu es devenu! Cette pomme
+Ou les fruits mangés par femme
+Nous ont tués, mais nous sommes
+
+[v4]
+Ici, avec une nouvelle
+Vie, car Tu es L’
+Eternel!

@@ -1,0 +1,29 @@
+[title]
+Sa vestim cu bucurie {author: {Ira D.Sankey}, {rcId: {1701}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Să vestim cu bucurie:
+Dumnezeu e dragoste.
+Cer, pământ, întreaga fire
+Spun aceasta-n liniște.
+
+[c]
+Ce măreț e adevărul,
+Cât de drag mi-e să-l vestesc:
+Dumnezeu mult ne iubește,
+El în veci e dragoste!
+
+[v2]
+Spuneți azi că pentru lume,
+Dumnezeu cel îndurat
+Și-a dat Fiul ca să moară;
+Astfel ne-a răscumpărat.
+
+[v3]
+Cine crede și se-nchină
+Domnului în veci slăvit,
+E salvat de la pieire,
+Mântuit și fericit!

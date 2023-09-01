@@ -1,0 +1,35 @@
+[title]
+Eram copil trecea zapada {author: {Traian Dorz}, {rcId: {215152}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Eram copil, trecea zăpada,
+Eu cu tristețe-o petreceam,
+Mi se părea că iarna trece,
+Mi se părea, dar eu treceam.
+Eram crescut, treceau cocorii,
+Mă-ndurera până-i pierdeam,
+/: Mi se părea că vara trece,
+Mi se părea, dar eu treceam :/
+
+[v2]
+Eram gândind pe malul apei,
+Cu unda ei la pas mergeam,
+Mi se părea că apa trece,
+Mi se părea, dar eu treceam
+Priveam ades cum zboară norii,
+Și frunzele zburând priveam,
+/: Mi se părea că ele zboară,
+Mi se părea, dar eu zburam :/
+
+[v3]
+Mi se părea cândva că alții,
+Crezând, se-nșală, și-i plângeam,
+Mi se părea că-s ei pierduții,
+Mi se părea, dar eu eram
+Azi vad cu-amar Isus tot Harul
+Ce L-am pierdut când n-ascultam
+/: Dar azi Isus Tu ești cu Mine
+Și-s fericit că-n veci Te am :/

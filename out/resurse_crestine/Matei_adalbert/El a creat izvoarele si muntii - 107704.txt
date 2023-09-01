@@ -1,0 +1,35 @@
+[title]
+El a creat izvoarele si muntii {author: {Matei Adalbert}, {rcId: {107704}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+El a creat izvoarele și munții
+El a creat și cerul înstelat
+El a pus apelor hotare
+Prin atotputernicia Sa.
+
+[c]
+Ce minunat e Domnul!
+Ce minunat e Domnul meu!
+Ce minunat e Domnul!
+Ce minunat e Dumnezeu!
+
+[v2]
+El a dat păsărilor cântul
+A colorat câmpiile cu flori.
+Să se vestească azi pe tot pământul
+Dumnezeu e Atotcreator.
+
+[v3]
+Ploaia vântul toate Îl ascultă
+Și curcubeul Domnul l-a lăsat
+Să vadă omenirea întreagă
+Există Dumnezeu cu-adevărat.
+
+[v4]
+Dar dintre toate ce au fost create
+Omul a fost făcut mai minunat
+Să I se închine și să îi dea slavă
+Dumnezeului ce l-a creat.

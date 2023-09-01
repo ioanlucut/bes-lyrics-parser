@@ -1,0 +1,29 @@
+[title]
+Privesc spre cer {author: {Adriana Stoica}, {rcId: {109734}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Privesc spre cer, alerg spre țintă
+Spre locul pe care mi-l doresc
+S-ajung, Doamne, cândva acolo,
+Când trupu-acesta-l părăsesc.
+
+[c]
+Acolo-n slavă lângă Tine
+Unde nu-s lacrimi, nici suspine
+Doresc, Doamne s-ajung și eu
+În ceruri, sus, la Dumnezeu
+
+[v2]
+Privesc spre cer, alerg spre țintă
+Căci drumul meu este în sus
+Privirea mea e doar ’nainte
+Acolo m-așteaptă Isus
+
+[v3]
+Privesc spre cer, alerg spre țintă
+Căci ținta mea este Hristos
+Mă lupt cu mine și cu lumea
+Să nu mor ca un păcătos

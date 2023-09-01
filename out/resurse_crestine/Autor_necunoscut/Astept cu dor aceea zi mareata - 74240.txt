@@ -1,0 +1,29 @@
+[title]
+Astept cu dor aceea zi mareata {author: {Anonim}, {rcId: {74240}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Aștept cu dor aceea zi măreață,
+Când voi ajunge sus, în Paradis.
+Când voi păși acolo-n noua viață,
+În țara pregătită de Isus.
+
+[c]
+O, țara mea, o, patrie divină,
+O, Paradis etern și minunat!
+În casa cea sublimă
+Al nostru Mire scump și adorat.
+
+[v2]
+În Tine vom găsi doar bucurie,
+Doar pace, armonie pe deplin,
+În Tine vom gusta din apa vie,
+Ce curge de sub tronul cel divin.
+
+[v3]
+În tine vom uita de amarul vieții,
+De lacrimi, de necaz, dureri și chin,
+Iar în lumina dulce-a dimineții,
+Te vom vedea, Isuse, pe deplin!

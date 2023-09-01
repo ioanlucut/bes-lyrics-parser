@@ -1,0 +1,35 @@
+[title]
+Esti o comoara {author: {Frații Wagner}, {rcId: {162025}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cu Tine, Domnu meu, eu vreau să fiu mereu,
+Când ești cu mine, drumul nu e greu.
+Tu ești tăria mea când lupta-mi este grea;
+De Tine, Doamne, nu mă voi lăsa.
+
+[c]
+Ești o comoară-n viața mea, ești o lumină-n noaptea grea
+Fără de Tine, Doamne, nu pot exista.
+Mi-ai arătat iubirea Ta pe crucea de la Golgota,
+Vreau tot mai mult, Isuse, să fac voia Ta.
+
+[v2]
+Privesc în urma mea și înțeleg acum
+Ce mare bunătate ai avut,
+Când toți m-au părăsit, Tu ai venit, Isus,
+Și-n viața mea iubirea a pătruns.
+
+[v3]
+Un nume minunat, Isuse, Tu mi-ai dat,
+Să fiu pe veci copil de Împărat.
+Prin harul căpătat, pe veci eu sunt salvat
+O, Domne, fi în veci glorificat.
+
+[v4]
+Ești Domn și vei domni în veșnicii;
+Tu mă iubești si-n veci mă vei iubi.
+Tu ești tăria mea, Tu ești speranța mea,
+Fără Tine nu pot exista.

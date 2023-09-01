@@ -1,0 +1,39 @@
+[title]
+Slavesc pe dumnezeu {author: {Persida Mureșan}, {rcId: {194228}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+/: Slăvesc pe Dumnezeu, pe Creatorul meu
+Pe Cel ce este veșnic sfânt
+Căci am iubirea Lui, iubirea Domnului
+Mă ține veșnic Mâna Lui.
+ /:
+
+[c]
+/: Slăvesc pe Dumnezeu, slăvesc pe Fiul Său
+Slăvesc și Duhul Domnului cel Sfânt,
+Căci Tatăl m-a creat, Fiul Său m-a salvat
+Iar Duhul Sfânt e cu min-nencetat.
+ /:
+
+[v2]
+/: Slăvesc pe Domnul Sfânt, cel tare în Cuvânt
+De El ascultă întreg pământ,
+Iar noi făptura Sa, vrem Lui a ne-nchina
+Și Numele ai adora.
+ /:
+
+[v3]
+Veniți cu toți cântați, voi cei răscumpărați
+Voi ce pe Domnul așteptați
+Veniți să îl slăviți, Cuvântu-i să mpliniți
+Și viața să îi dăruiți.
+
+[c2]
+/: Slăvim pe Dumnezeu, slăvim pe Fiul Său
+Slăvim și Duhul Domnului cel Sfânt,
+Căci Tatăl ne-a creat, Fiul Său ne-a salvat
+Iar Duhul Sfânt e cu noi nencetat.
+ /:

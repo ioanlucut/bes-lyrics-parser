@@ -1,0 +1,30 @@
+[title]
+In ziua de apoi cand vom fi toti chemati {author: {Nicolae Moldoveanu}, {rcId: {5553}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În ziua de apoi, când vom fi toți chemați,
+Când cei sfinți întâlnesc pe Domnul lor,
+Când străinul va ajunge în Patria sa,
+Laudă Domnului vom fi acolo.
+
+[c]
+/: Noi vom fi toți acolo,
+În marea zi de apoi,
+Când cei sfinți vin acasă,
+Laudă Domnului vom fi acolo! :/
+
+[v2]
+Când cei răscumpărați vor cânta toți uniți
+În cântul cel măreț al sfinților,
+Când măreața cântare cu a lor s-a uni,
+Laudă Domnului vom fi acolo.
+
+[v3]
+Nu ne vom mai despărți de casa cerească,
+Nu vor mai fi nici dureri în acel loc.
+Iar când Isus va zice „
+Vino la Domnul tău!”,
+Laudă Domnului vom fi acolo.

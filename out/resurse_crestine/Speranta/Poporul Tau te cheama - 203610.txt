@@ -1,0 +1,35 @@
+[title]
+Poporul tau te cheama {author: {Speranța}, {rcId: {203610}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Poporul Tău, Isuse, Te cheamă suspinând
+Să vii Tu mai degrabă, o clipă mai curând.
+Noi Te-așteptăm Isuse să ne dai bucurii
+Și când e greu aicea să vii să ne mângâi.
+
+[c]
+/: O, vino Tu Isuse
+Și intră-n slujba Ta
+Arată-ți Tu puterea
+Răpindu-Ți mireasa. :/
+
+[v2]
+Când greul este mare spre ceruri noi privim
+Căci izbăvirea sfântă de-acolo noi primim.
+Când crucea Ta, Isuse, ne-apasă tot mai greu
+Privim înspre Golgota și Te chemăm mereu.
+
+[v3]
+De vezi iubit Isuse căci este tot mai greu
+Nu ne lăsa Tu singuri revarsă-Ți harul Tău
+Ca inima zdrobită să se refacă iar
+Chemându-Te pe Tine cu-al mântuirii har.
+
+[v4]
+Că inima-i zdrobită din ce în ce mai greu
+O, vino Tu, Isuse, la poporașul Tău
+Și în odaia sfântă Isuse să ne chemi
+Serbându-Ți a Ta nuntă cu oștile cerești.

@@ -1,0 +1,33 @@
+[title]
+Mai este loc (yet there is room) {author: {Horatius Bonar, Ira D. Sankey, Traducere RO}, {rcId: {209350}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c2
+
+[v1]
+Mai este loc la nunta Mielului
+În strălucire ești chemat și tu!
+
+[c]
+Ai loc, ai loc!
+O, Intră chiar acum!
+
+[v2]
+Ziua trece și soarele-apune
+Noaptea se lasă, deci, grăbește-te!
+
+[v3]
+Locul de sus e pregătit frumos
+Acol’ te-așteaptă Mirele Hristos!
+
+[v4]
+Mai este loc, azi, timpul nu-i pierdut
+Vocea lui Isus cheamă blând, plăcut!
+
+[v5]
+Timpul de har curând va înceta
+Iar pentru cei mulți glasul va striga:
+
+[c2]
+N-ai loc, n-ai loc!
+Voi nu mai aveți loc!

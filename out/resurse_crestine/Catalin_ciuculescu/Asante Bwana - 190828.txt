@@ -1,0 +1,28 @@
+[title]
+Asante bwana {author: {Cătălin Ciuculescu}, {rcId: {190828}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+/: Asante, Bwana, kwa kila kitu
+Nakupenda sana!
+Asante, Bwana, mimi ni wako
+Nakupenda sana! :/
+
+[c]
+/: Siwezi kutembea bila wewe
+Siwezi kupumua bila wewe
+Siwezi kuona bila wewe,
+Jesu! :/
+
+[v2]
+Traducere:
+Îți mulțumesc, Doamne, pentru tot
+Te iubesc mult!
+Îți mulțumesc, Doamne, sunt al tău
+Te iubesc mult!
+Nu pot să merg fără Tine,
+Nu pot să respir fără Tine,
+Nu pot să văd fără Tine,
+Isus!

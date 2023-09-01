@@ -1,0 +1,31 @@
+[title]
+Iarta-ma isuse {author: {Mirela Ursulescu}, {rcId: {71798}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Iartă-mă Isuse, vin ’naintea Ta
+Și te rog fierbinte, dă-mi îndurarea Ta
+Am greșit, o, Doamne și Te-am întristat
+De-atâtea ori Tată, voia Ta am călcat.
+
+[c]
+Iartă-mă Isuse, înaintea Ta
+Mă aplec în rugă, cer îndurarea Ta
+Am greșit prin vorbă,
+Faptă sau prin gând
+Azi îmi cer Iertare
+Primește-mă cum sunt.
+
+[v2]
+Când greșesc Isuse știu că te-ntristez
+Duhul Sfânt suspină când păcătuiesc
+Iar eu cer iertare zi de zi mereu
+Vreau să fac doar bine și fac ce e rău.
+
+[v3]
+Sângele-ți pe cruce pentru mine-a curs
+Că să fiu, o, Doamne cu Tine-n cer sus
+Împreună-n Slavă cu toți cei aleși
+Mulțumesc Isuse fiindcă mă iubești.

@@ -1,0 +1,36 @@
+[title]
+Fiul risipitor {author: {Speranța}, {rcId: {111314}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Am plecat în lume departe de Dumnezeu
+Am plecat de-acasă, de lângă Tatăl meu
+Aveam avere și daruri ce am primit
+Dar în lumea mare pe toate le-am risipit
+
+[c]
+/: Credeam că voi fi liber, credeam că am scăpat
+Dar iată, că păcatul m-a prins și m-a legat
+Credeam că-n lumea-aceasta voi fi fericit
+Dar iată c-am ajuns sărman și chinuit :/
+
+[v2]
+Cu zdrențe am ajuns, la porci și la gunoaie
+Și-acum eu stau și zac, printre mușuroaie
+Mi-e dor să-aud cuvântul ce blând mă-ndemna:
+”
+Fiule, rămâi acasă, te rog nu pleca”
+
+[v3]
+Am plecat în lume, dar mă-ntorc ’napoi
+Mă-ntorc la casa mea, la zilele de-apoi
+Tatăl, mă așteaptă, mi-a spus că sunt al Său
+Azi mă-ntorc acasă, mă-ntorc la Dumnezeu
+
+[c2]
+/: Primește-mă stăpâne, mă-ntorc din drumul meu
+Vreau să rămăn de-a pururi cu Tine, Domnul meu
+În lumea de păcate eu simt c-am să mor
+Nu vreau să mai trăiesc ca fiu risipitor. :/

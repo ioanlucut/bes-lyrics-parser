@@ -1,0 +1,65 @@
+[title]
+Inc-un an pe firul vietii {author: {Marius Livanu}, {rcId: {1703}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,v5,c5
+
+[v1]
+Înc-un an pe firul vieții
+S-a înfășurat acum complet,
+Bucurii au trecut iute,
+Dar tristeți și dureri s-au scurs încet.
+
+[c]
+/: Cine poate ști ce-aduce anul
+Care-n fata sta ca un mister?
+Va aduce el o alinare,
+Celor ce mereu o cer? :/
+
+[v2]
+Inc-un an a sumls din inimi
+Pe unii dragi si iubiti din jurul nost’
+Au plecat plini de nadejde,
+Sau cu groaza, c-au trait fara de rost.
+
+[c2]
+/: Cine poate sti ce-aduce anul,
+Cati in el, ne-om mai putea gasi,
+Va fi oare-n el acea-ntalnire,
+Care pe multi va desparti? :/
+
+[v3]
+Inc-un an! Ce-nseamna-aceasta?
+E un nou tribut de seva din viata ta?
+Cerceteaza-te, ce fel de roade
+Ai adus si care-i valoare ta?
+
+[c3]
+/: Cine poate sti ce-aduce anul?
+Daca-n el te vei putea trezi?
+Sau, infasurat mai tare-n noapte,
+Fara grija vei dormi. :/
+
+[v4]
+Inc-in an e taina vietii
+Nu lua in desert mersul lor
+Niciodata nu-i mai poti intoarce
+Ci grabeste-te, sa fii in pasul lor!
+
+[c4]
+/: Cine poate sti, de nu regrete,
+Ce sfasie inima amar,
+Vei gasi in anul ce-o sa vie,
+De-ti pierzi timpul in zadar? :/
+
+[v5]
+Inc-un an! Pricepe-acuma!
+Nu te insela cu vorbe dulci!...
+Scoala-te, sa privesti bine:
+Ce-ai facut, ce-ai adus, ce poti s-aduci!
+
+[c5]
+/: Daca pe Isus Il ai in viata,
+Barca ta iti va pluti usor,
+Si atuncea cand e in pericol,
+El te apara de nor... :/

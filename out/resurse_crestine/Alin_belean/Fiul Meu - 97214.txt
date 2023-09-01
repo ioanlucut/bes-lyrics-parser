@@ -1,0 +1,29 @@
+[title]
+Fiul meu {author: {Alin Belean}, {rcId: {97214}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Fiul Meu, de ce ești trist, și cu ochii plecați la pamânt,
+Pace nu ai și te simți vinovat, și parcă-n tine ceva s-a schimbat?
+Strălucirea acestei lumi te-a orbit și-ncet tu te-ai îndepărtat
+De ce cauți mereu diamante în noroi, când Eu ceru-ntreg ți-am dat?
+
+[c]
+/: O, fiul Meu, întoarce-te
+Dă-mi inima azi căci vreau să te ridic.
+Lasă orice-ar putea să-ți ascundă fața Mea
+Fiul Meu te iubesc, tu știi, mereu :/
+
+[v2]
+Fiul Meu tu nu mai poți, o lacrimă să-mi dai când stai ’naintea Mea,
+Nu poți să simți, să plângi cu cei ce plâng, și nimic nu te-ar mai bucura
+Vezi pe alții cum greșesc, iar pe tin’ nimic nu te-ar putea mișca.
+Rugăciunea ta e doar vorbe spuse-n vânt, căci ești departe cu inima!
+
+[v3]
+Fiul Meu, vreau să te duc la izvoarele vieții din vecii
+Să-ți las din nou pacea Mea în inima, și dorul de-a mă întâlni
+Vreau să pun în gura ta, o cântare nouă ce va izbuti
+Îndoială și teamă și orice te-ar lovi, fiul Meu, te iubesc, să știi!

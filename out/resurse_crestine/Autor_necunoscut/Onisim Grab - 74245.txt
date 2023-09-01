@@ -1,0 +1,29 @@
+[title]
+Onisim grab {author: {Anonim}, {rcId: {74245}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Nu-I mult și vine ziua când toți ne-om înălța
+Spre patria cerească, la El în țara Sa,
+La Cel ce-I veșnic soare, un Dumnezeu preasfânt
+Ce stă sus în splendoare, domnind cu-al Său Cuvânt.
+
+[c]
+Cânta-vom în mărire, în slavă, strălucire,
+Acolo în splendoare, unde e sărbătoare.
+Cânta-va tot poporul, Celui ce-I Creatorul,
+Celui veșnic soare strălucitor și mare.
+
+[v2]
+Ce sărbătoare mare va fi când ne-om uni
+Cu îngerii-n cântare, plecând spre veșnicii,
+Spre țara minunată, ce-o așteptăm de mult,
+Spre slava nevisată, uitând de-acest Pământ.
+
+[v3]
+Nu vor mai fi necazuri, nici lacrimi, nici amar,
+Nici viața cea cu lacrimi, purtați din val în val.
+Cântarea, bucuria, vor fi la nesfârșit,
+Acolo-n strălucirea ce El ne-a pregătit.

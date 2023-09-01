@@ -1,0 +1,32 @@
+[title]
+Odata-ntr-o vreme trecuta {author: {David Stănuș}, {rcId: {205217}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Odată-ntr-o vreme trecută,
+Când Saul cuprins de mâine
+Se-aruncă cu sulița-n mână
+Și-ar vrea într-o clipă nebună
+Ca rege, doar el să rămână.
+
+[c]
+David cânta liniștit,
+Cu Domnul era fericit.
+El pace în suflet primea
+Cântând cu harfa.
+
+[v2]
+Și David, scăpând doar prin fugă
+De cel ce voia să-l omoare.
+Ajuns la nevasta-i fidelă
+La fel tot o fugă preferă,
+Dar Domnul scăpare-i oferă
+
+[v3]
+De treci prin viață și tu
+Ca David urmărit de dușmani,
+Să știi doar că David cânta,
+Și când nu putea, se ruga,
+Să facem și noi tot așa.

@@ -1,0 +1,32 @@
+[title]
+Charis (har) {author: {Luiza Cotea}, {rcId: {205323}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+O, Doamne, Te preamăresc, Te laud și Te slăvesc,
+Căci Tu ești bun orișicând,
+Chiar de mi-e greu Te-aud spunând:
+”
+Tu lângă Mine să stai și tot ce ai să-Mi predai,
+Căci Eu am planuri cu tin’
+Chiar de ți-e greu, greul alin.”
+
+[c]
+M-ai curățit, m-ai mântuit,
+Ai fost cu min’ și m-ai iubit.
+/: Eu n-am ce-ți da, o, Domnul meu,
+Dar Tu Te-ai dat în locul meu :/
+M-ai curățit, m-ai mântuit,
+Ai fost cu min’ și m-ai iubit.
+/: Eu n-am ce-ti da, o, Domnul meu,
+Dar Tu Te-ai dat în locul meu :/
+
+[v2]
+Îți cântă inima mea, un cântec spre slava Ta,
+Căci viața ce-o am în min’
+I-un dar de sus, un dar divin.
+Spre Tin’ ridic mâinile, spre Cel ce paște-oile,
+Spre Cel ce-n veci va domni
+Pe-ntreg pământ, în veșnicii.

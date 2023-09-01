@@ -1,0 +1,46 @@
+[title]
+Domnul ne spune prin cuvant (ada doamne ziua aceea) {author: {Fratii Pal}, {rcId: {215405}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Domnul ne spune prin Cuvânt
+Astăzi mai mult ca și oricând
+/: Mireasă te gătește
+C-al tău Mire sosește,
+El va veni pe nori curând. :/
+
+[c]
+Adă Doamne, Doamne ziua aceea
+Când lacrimile noastre s-or sfârși!
+Adă Doamne, Doamne ziua aceea
+Isuse când pe nori ne-om întâlni.
+
+[v2]
+Azi uită-te-n viața ta
+De-ai fost rănit în lupta grea
+/: Balsam și mângâiere,
+Credință și putere
+Să ceri, Isus, El îți va da. :/
+
+[v3]
+Azi tu poporul Meu iubit
+Tu cum îți spune lamurit
+/: Că mult timp nu mai este
+Haina ți-o curățește
+Ca să fi gata de răpit. :/
+
+[v4]
+Vremea de-acuma s-a scurtat
+Lumea se-afundă în păcat
+/: Voi dar sa fiți lumină
+Pân’ Mirele-o să vină
+Voi să vegheați, să luminați! :/
+
+[v5]
+Și-atunci când Domnul va veni
+Ce bucurie-atunci va fi
+/: Când sfinții dimpreună
+Primi-vor o cunună
+Ce nu se poate veșteji. :/

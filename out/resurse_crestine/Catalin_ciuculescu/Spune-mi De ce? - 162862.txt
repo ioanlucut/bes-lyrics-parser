@@ -1,0 +1,40 @@
+[title]
+Spune-mi de ce? {author: {Cătălin Ciuculescu}, {rcId: {162862}}
+
+[sequence]
+v1,v2,c,v3,c,e
+
+[v1]
+Spune-mi de ce ochii unui copil
+Par așa de nevinovați?
+Spune-mi de ce când îmbătrânim
+Devenim mult prea aroganți?
+Piere frumusețea, piere tinerețea
+În timp, în timp.
+
+[v2]
+Spune-mi de ce când nu mai iubim
+Toată lumea ne pare rea?
+Spune-mi de ce, spune-mi dacă știi
+Când mințim viața e mai grea?
+Unde e blândețea, unde-i inocența
+Știi, știi?
+
+[c]
+/: Sunt răspunsuri greu de dat
+Însă e adevărat, ne schimbăm cu timpul
+Și ajungem singuri.
+Mai rămâne Dumnezeu, e răspunsul tău și-al meu
+Face primăvară când în noi e iarnă! :/
+
+[v3]
+Spune-mi de ce înșelăm ușor
+Ne pricepem la amăgit?
+Spune-mi de ce prin cuvinte dulci
+Îl ucidem pe cel rănit?
+De-am știi cei iubirea, ne-am învinge firea,
+De-am știi, de-am știi.
+
+[e]
+Face primăvară când în noi e iarnă,
+Face primăvară!

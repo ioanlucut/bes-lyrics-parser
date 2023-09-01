@@ -1,0 +1,26 @@
+[title]
+Sa rasune zarea {author: {Frații Bălan}, {rcId: {144832}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Să răsune zarea, Imnuri să cântăm;
+S-a Născut Salvarea, să ne bucurăm!
+
+[c]
+E Sărbătoare, ni S-a Născut Isus
+Și mântuirea, din Slavă A Venit.
+Precum profeții, mai demult au spus,
+Profeția s-amplinit.
+
+[v2]
+Vin din depărtare, la căsuța lor,
+Frați din larga zare, copleșiți de dor.
+
+[v3]
+Iată-i cum se-adună, merg la colindat.
+Cântă împreună Celui Preaînalt.
+
+[e]
+Profeția s-amplinit.

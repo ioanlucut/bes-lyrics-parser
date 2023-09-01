@@ -1,0 +1,25 @@
+[title]
+Oare la usa cine-i? (who at my door is standing?) {author: {Asa B. Everett, Traducere RO}, {rcId: {103553}}
+
+[sequence]
+v1,c,v2,c,v3,c,s,c
+
+[v1]
+Oare la ușă cine-I și ce-o fi așteptând?
+Azi, iarăși ocoli-vei pe Cel ce-L vezi bătând?
+
+[c]
+Dulce răsună-afară: ”
+Lasă-Mă-n casa ta!
+Te rog, a câta oară, spre fericirea ta!”
+
+[v2]
+O, ce pustiu e-n mine fără de Dumnezeu
+Sunt un orfan, văd bine... unde e Tatăl meu?...
+
+[v3]
+O, chiar acum, degrabă, ușa-Ți deschid eu larg
+Hai, nu mai sta afară?, calcă al casei prag!
+
+[s]
+Iată Eu stau la ușă și bat. Dacă aude cineva glasul Meu și deschide ușa, voi intra la el, voi cina cu el, și el cu Mine. Apoc. 3:20

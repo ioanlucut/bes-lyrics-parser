@@ -1,0 +1,24 @@
+[title]
+Psalmul {author: {Corneliu Matei}, {rcId: {246269}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Cum dorește un cerb izvoarele de apă
+Așa Te doresc, Dumnezeule.
+Doamne, sufletul meu însetează într-una
+După Dumnezeu și caută prezența Ta.
+
+[c]
+Ziua eu vestesc îndurarea Ta
+Iar noaptea cânt laudele Tale
+Ești izvorul meu de bucurii
+Ești Domnul vieții mele!
+
+[v2]
+Pentru ce te mâhnești când toți îți spun într-una
+”
+Unde-i Dumnezeu, izbăvirea Ta?”
+Pentru ce te hrănești cu lacrimi zi și noapte?
+Încrede-te în El și te va înviora!

@@ -1,0 +1,32 @@
+[title]
+Isuse o doamne isuse {author: {Nicolae Moldoveanu}, {rcId: {180051}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Isuse, o, Doamne Isuse,
+Mărirea Ta Ți-ai dezbrăcat, pentru mine,
+Smerit Tu crucea ai purtat, pentru mine,
+Paharul morții l-ai băut, pentru mine,
+Te-ai dat Tu Însuți, ca tribut, pentru mine.
+
+[c]
+Mă închin și-Ți mulțumesc, căci prin Tine eu trăiesc;
+Moartea Ta e viața mea, tot ce am și voi avea,
+Am prin Tine scump Isus, am prin Tine scump Isus.
+Slavă-Ți cânt, slavă-Ți cânt, slavă-Ți cânt și-acum și sus!
+
+[v2]
+Isuse, o, Doamne Isuse,
+Ne-nfrânt, din moarte-ai înviat, pentru mine.
+Mărit la cer Te-ai înălțat, pentru mine.
+Ca Mare Preot mijlocești, pentru mine.
+În Sfânta Sfintelor Tu ești, pentru mine.
+
+[v3]
+Isuse, o, Doamne Isuse,
+Din ceruri Tu vei reveni, pentru mine.
+Ai pregătit eterna zi, pentru mine,
+Și negrăite bucurii, pentru mine,
+Tu zămislești, pe veșnicii, pentru mine.

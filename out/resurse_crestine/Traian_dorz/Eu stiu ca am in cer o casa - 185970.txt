@@ -1,0 +1,50 @@
+[title]
+Eu stiu ca am in cer o casa {author: {Traian Dorz}, {rcId: {185970}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Eu știu că am în cer o casă
+Pe care nimeni nu mi-o ia,
+Chiar dacă nedreptatea lumii
+M-alungă din căsuța mea.
+/: Eu știu, eu știu,
+Eu știu că am în cer o casă,
+Pe care nimeni nu mi-o ia. :/
+
+[v2]
+Eu știu că am o tinerețe
+Nemaisfârșită la Isus,
+Chiar dacă-n lume bătrânețea
+Puterile din trup mi-a dus.
+/: Eu știu, eu știu,
+Eu știu că am o tinerețe
+Nemaisfârșită la Isus. :/
+
+[v3]
+Eu știu că am să cânt odată
+Cu toți cei dragi îmbrățișat,
+Chiar dacă azi trăiesc în lacrimi,
+De cei iubiți prea-ndepărtat.
+/: Eu știu, eu știu,
+Eu știu că am să cânt odată
+Cu toți cei dragi îmbrățișat. :/
+
+[v4]
+Eu știu că Răscumpărătorul
+Și Dumnezeul meu e viu,
+Chiar nimicit să-mi fie trupul
+Și chiar uitat de toți să fiu.
+/: Eu știu, eu știu,
+Eu știu că Răscumpărătorul
+Și Dumnezeul meu e viu. :/
+
+[v5]
+Eu știu că-L voi vedea pe Domnul
+Și El va fi răsplata mea,
+Chiar dacă viața mea din lume
+Și moartea fi-mi-ar cea mai grea.
+/: Eu știu, eu știu,
+Eu știu că-L voi vedea pe Domnul
+Și El va fi răsplata mea. :/

@@ -1,0 +1,71 @@
+[title]
+Ce sunt eu ce sunt eu? {author: {Puiu Chibici}, {rcId: {2156}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,v5,c5,e
+
+[v1]
+Ce sunt eu, ce sunt eu?
+Un fir de nisip în vânt.
+Sunt nimic pe pământ,
+Doar prin Tine sunt ce sunt.
+
+[c]
+Eu nimic, Tu veșnicie,
+Eu sărac, Tu bogăție,
+Ce sunt eu, ce sunt eu,
+Tu ești totul, Domnul meu.
+
+[v2]
+Ce sunt eu, ce sunt eu?
+O frunză purtată-n vânt.
+Sunt nimic pe pământ,
+Doar prin Tine sunt ce sunt.
+
+[c2]
+Eu, țărână întinată,
+Tu, a lumii jertfă dată,
+Ce sunt eu, ce sunt eu,
+Tu ești totul, Domnul meu.
+
+[v3]
+Ce sunt eu, ce sunt eu?
+O lumină pâlpâind.
+Sunt nimic pe pământ,
+Doar prin Tine sunt ce sunt.
+
+[c3]
+Eu, un păcătos din fire,
+Tu, a lumii mântuire,
+Ce sunt eu, ce sunt eu,
+Tu ești totul, Domnul meu.
+
+[v4]
+Ce sunt eu, ce sunt eu?
+O floare călcată-n câmp.
+Sunt nimic pe pământ,
+Doar prin Tine sunt ce sunt.
+
+[c4]
+Eu durere chin și jale,
+Tu o sfântă scăldătoare,
+Ce sunt eu, ce sunt eu,
+Tu ești totul, Domnul meu.
+
+[v5]
+Așa-am fost fără har,
+Fără jertfa din Calvar,
+Dar acum eu sunt salvat,
+În sfânt sânge sunt spălat.
+
+[c5]
+Îți aduc azi osanale
+Că-s făptura mâinii Tale,
+Te slăvesc, Te măresc,
+Scump Isus, și-Ți mulțumesc.
+
+[e]
+Tu îmi ești a mea iubire,
+Partea mea de moștenire,
+Te slăvesc, Te măresc,
+Te slăvesc, Mire ceresc.

@@ -1,0 +1,23 @@
+[title]
+Ce dulce-i clipa {author: {Romeo Stan}, {rcId: {55573}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Ce dulce-i clipa și ce plăcut,
+Să fie frații ca la început :/
+
+[c]
+/: Ah, cât de mult doresc,
+Să vină mai degrabă,
+Domnul cu a Lui răsplată,
+Să ne ducă-n Țara Binecuvântată :/
+
+[v2]
+/: Cu Domnul Isus în părtășie,
+Iubirea minunată e de bucurie :/
+
+[v3]
+/: Ce minunat când ne adunăm,
+Puterea Sfântă noi o căpătăm :/

@@ -1,0 +1,27 @@
+[title]
+Din el prin el si pentru el {author: {Anonim}, {rcId: {213679}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Din El, prin El și pentru El
+Sunt toate lucrurile.
+Din El, prin El și pentru El
+Sunt toate lucrurile.
+
+[c]
+/: A Lui să fie gloria :/
+În veci de veci amin. x2
+
+[v2]
+Viață din viața Sa
+La Golgota ne-a dat
+A îndurat El răstignit
+Al lumii-ntregi păcat.
+
+[v3]
+Din inimă vrem să-i cântăm
+Noi laudă in veci
+Căci El a biruit și e
+Triumfător in veci.

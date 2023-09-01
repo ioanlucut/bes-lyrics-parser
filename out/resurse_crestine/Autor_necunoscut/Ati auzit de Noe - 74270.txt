@@ -1,0 +1,23 @@
+[title]
+Ati auzit de noe {author: {Anonim}, {rcId: {74270}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Ați auzit de Noe, care cu Dumnezeu umbla?
+Ați auzit de Moise, omul neprihănit?
+Ați auzit de Daniel, leii nu s-au atins de el?
+Ați auzit de David, ca un înger cântând?
+
+[c]
+Știm multe despre toți aceștia
+Și cu drag vom cânta despre ei.
+Dar și mai mult vom cânta despre Isus,
+De Isus!
+
+[v2]
+Ați auzit de Samson și de puterea lui mare?
+Ați auzit de Iona, cum l-a-nghițit marea?
+Ați auzit despre Iov, cu care Domnul S-a mândrit?
+Ați auzit de Ezra, care Templu-a zidit?

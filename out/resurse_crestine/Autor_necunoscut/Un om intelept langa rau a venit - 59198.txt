@@ -1,0 +1,41 @@
+[title]
+Un om intelept langa rau a venit {author: {Anonim}, {rcId: {59198}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Un om înțelept lângă râu a venit
+Și-o casă pe stâncă și-a construit
+Curând dup-aceea ploaia-a venit
+Norii grei peste ea s-au oprit.
+
+[c]
+Ploaia cădea și râul creștea,
+Val dupa val în casă lovea,
+Dar stânca pe care casa era
+O păzea și-n picioare-o ținea.
+
+[v2]
+Un om ne-nțelept lângă râu a venit
+Și-o casă pe plaja și-a construit
+Curând dup-aceea ploaia-a venit
+Norii grei peste ea s-au oprit.
+
+[c2]
+Ploaia cadea și râul creștea,
+Val dupa val în casă lovea,
+Îndată nisipul s-a sfărâmat
+Și curând casa s-a dărâmat.
+
+[v3]
+De ești înțelept la râu vei veni,
+Și pe stânca ce-I Isus vei zidi,
+Când vântul și ploaia te vor încerca
+Nicidecum Isus nu te va lăsa
+
+[c3]
+De ești înțelept pe Isus vei primi,
+Și râul și stânca în tine vor fi,
+Când vântul și ploaia te vor încerca,
+Prin Isus în picioare vei sta.

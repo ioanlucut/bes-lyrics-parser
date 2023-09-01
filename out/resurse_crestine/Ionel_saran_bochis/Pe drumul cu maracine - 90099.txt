@@ -1,0 +1,35 @@
+[title]
+Pe drumul cu maracine {author: {Ionel Saran Bochis}, {rcId: {90099}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Doamne eu te rog să-mi dai putere
+Să-mi port crucea cu credință
+Chiar când toți acum mă amenință
+Tu fii a mea mângâiere.
+
+[c]
+O, Isuse, fii cu mine în dureri și în suspine
+Pe drumul cu mărăcine, fii mereu, Doamne, fii cu mine,
+Pe drumul cu mărăcine, fii mereu, Doamne, fii cu mine!
+
+[v2]
+O, Isuse, dragă, o, Isuse
+Inima mea e pătrunsă
+De Iubirea Ta cea minunată.
+Tu ești Doamne al meu Tată.
+
+[v3]
+Adă Doamne astăzi la lumină
+Omenirea cea străină,
+Ca în Sfânta Ta Împărăție
+Să formăm o familie.
+
+[c2]
+O, Isuse, fii cu mine în dureri și în suspine
+Pe drumul cu mărăcine, fii mereu, Doamne, fii cu mine!
+O, Isuse, fii cu mine în dureri și în suspine
+Pe drumul cu mărăcine, fii mereu, Doamne, fii cu mine
+Fii cu mine, fii mereu, fii cu mine, fii mereu, fii cu mine!

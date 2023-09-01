@@ -1,0 +1,36 @@
+[title]
+All my hope {author: {Crowder}, {rcId: {177430}}
+
+[sequence]
+v1,c,v2,c,e,v3,c
+
+[v1]
+Am fost păzit de Măntuitor
+Am simțit foc de sus
+M-am coborăt păn la râul
+Nu sunt la fel, fiul risipitor întors
+
+[c]
+Nădejdea mea e în Isus
+Slavă Lui nu mai sunt ce am fost
+Tot păcatul este iertat
+Săngele lui m-a spalat
+
+[v2]
+Am fost legat in închisoare
+In cătușe și lanțuri
+Dar m-a eliberat și m-a iertat
+Nu mă-ntorc ’napoi, nu voi mai fi la fel
+
+[e]
+Există un fel de ceva, care frange un om
+Il coboara pe genunchi
+Si am fost infrant de mai multe ori
+Dar m-a ridicat, și m-ia arătat ce înseamnă să fii om
+
+[v3]
+Nădejdea mea e în Isus
+Slavă Lui nu mai sunt ce am fost
+Tot păcatul este iertat
+/: Săngele lui m-a spalat :/ x2
+Am fost spălat de păcat.

@@ -1,0 +1,41 @@
+[title]
+Ma-ntreb ades in miez de noapte {author: {Mariana Someșan}, {rcId: {211811}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Mă-ntreb ades în miez de noapte
+Mai e ceva mă mai leagă
+Mai e ceva ce m-ar reține
+Să zbor spre patria cea dragă.
+
+[c]
+Mai e vreun colțișor uitat
+În care n-am făcut curat,
+Mai e ceva ascuns in mine
+Ce-mi frânge dorul după Tine.
+
+[v2]
+Mai e vreo șoaptă care-mi spune
+Că raiul e aici în lume.
+Mai e vreun lanț ce mă mai ține,
+Să uit iubirea pentru Tine.
+
+[v3]
+Mai e vreun glas ce mă mai cheamă
+Și îl ascult că mi-este teamă.
+Mai e vreun dor ce mă mai leagă,
+Să uit de fața Ta cea dragă.
+
+[v4]
+Să uit cu câta îndurare,
+Mai căutat în lumea mare.
+Să uit ce preț ai pus pe mine,
+Atunci când mai chemat la Tine.
+
+[v5]
+Trezește-mă Isuse Doamne,
+Să nu fiu fică neînțeleaptă
+Ci îmbrăcată-n in subțire
+Să fiu mireasa care așteaptă.

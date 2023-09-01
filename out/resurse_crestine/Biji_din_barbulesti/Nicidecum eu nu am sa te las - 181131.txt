@@ -1,0 +1,27 @@
+[title]
+Nicidecum eu nu am sa te las {author: {Biji din Barbulesti}, {rcId: {181131}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Nu te teme, nu te-ngrijora,
+Eu sunt cu tine, voi fi de partea ta.
+Nu te las, nu te voi părăsi,
+Voi fi cu tine, copilul meu iubit.
+
+[c]
+Nicidecum eu nu am să te las,
+Cu niciun chip nu te voi părăsi.
+Cu tine sunt la orice pas,
+Căci tu ești fiul meu iubit.
+
+[v2]
+Chiar dacă o mama, copilu-și va lăsa.
+Eu pentru tine, popoare-ntregi voi da.
+Chiar de vei trece, prin ape și prin foc.
+Te port în brațe, te scot biruitor.
+
+[c2]
+Nu te teme, nu te voi lăsa,
+Eu sunt cu tine, voi fi de partea ta.

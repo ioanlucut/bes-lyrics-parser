@@ -1,0 +1,29 @@
+[title]
+Sus in ceruri {author: {Damaris Cauneac}, {rcId: {131302}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Sus în ceruri așa cântă cum noi n-am auzit
+Mii de îngeri cu fața blândă Mielului Preasfânt iubit,
+Numai zâmbet au pe fețe cântă-ntruna și-L slăvesc
+Intonând imnuri mărețe Mielului Preasfânt iubit.
+
+[c]
+Sfânt, sfânt, sfânt e Domnul meu
+Așa cântă îngerii sus în ceruri.
+Sfânt, sfânt, sfânt e Domnul meu
+Despre mântuirea Lui vom cânta.
+
+[v2]
+Îngerii o să ne-asculte și toată oștirea lor,
+Ca un vuiet de pe ape e cântarea sfinților,
+Ei cântă, au biruit cu al Lor sfânt Salvator
+Și Îl laudă tot mereu că i-a ocrotit pe drum.
+
+[v3]
+Eu nu sunt un înger, dar știu atât de bine
+Că sus în cerul Tău, Isus, voi fi cu tine
+Și voi slăvi iubirea, adâncul ei, Isuse,
+În veci Te voi slăvi, iertare Tu mi-ai dat.

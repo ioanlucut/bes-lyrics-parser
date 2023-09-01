@@ -1,0 +1,36 @@
+[title]
+Isus iti mai face-o chemare {author: {Nicu Chereji}, {rcId: {210176}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Isus îți mai face-o chemare
+Din lumea ce zace-n păcat
+Te cheamă pe nume, hai vino
+Și îndată tu vei fi iertat
+
+[c]
+/: Nu e niciun lucru mai scump
+Sub soare și pe-ntreg pământ
+Decât sa te știi sub aripa
+Celui ce e veșnic Preasfânt
+ /:
+
+[v2]
+Isus încă te mai așteaptă
+Te rog dragul meu nu uita
+Azi ușa e încă deschisă
+Ai dreptul să intri pe ea
+
+[v3]
+Tot ce-a fost mai greu El plătise
+Luând totul asupra Lui
+Iar tu fiind iertat de păcate
+Să poți fi numit fiul Lui
+
+[v4]
+Hai intră chiar azi în lumină
+Acum este timpul, acum
+Chemarea ți-o face chiar Domnul
+Te-ntoarce pe al vieții drum.

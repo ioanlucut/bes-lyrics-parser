@@ -1,0 +1,33 @@
+[title]
+Alearga mai alearga {author: {Nicolae Moldoveanu}, {rcId: {204011}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Aleargă, mai aleargă, curând ajungi la țărm,
+Tot cerul te așteaptă, biruitor prin El.
+
+[c]
+Aleargă, mai aleargă, nu obosi nicicând,
+/: Cununa te așteaptă, de-alergi, o iei curând. :/
+
+[v2]
+E uneori grea calea, sunt uneori vrăjmași.
+Credința-nvinge totul, nicicând să nu te lași.
+
+[v3]
+Sunt uneori ispite ce-ndeamnă să te-așezi,
+Tu n-asculta, aleargă și calea s-o veghezi.
+
+[v4]
+Sunt uneori îndemnuri ce înapoi atrag,
+Tu, surd fiind la toate, s-alergi spre țelul drag.
+
+[v5]
+Sunt uneori și piedici ce fac să cazi amar,
+Tu iarăși te ridică, mai dârz și-aleargă iar.
+
+[v6]
+Curând de toate-acestea pe veci vei fi scăpat,
+Și de Isus la capăt vei fi încununat.

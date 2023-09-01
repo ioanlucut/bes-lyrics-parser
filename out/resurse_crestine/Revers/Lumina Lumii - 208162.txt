@@ -1,0 +1,39 @@
+[title]
+Lumina lumii {author: {Revers}, {rcId: {208162}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Tacere-n infinit
+Pamantul s-a oprit intr-o noapte
+Se naste un erou, se-aude un ecou printre soapte
+Ingerii canta printre noi
+Sa fie pace peste noi
+
+[c]
+Azi s-a nascut lumina lumii
+Intr-o iesle culcat, ce minunat, s-a nascut Emanuel
+Veniti sa vedem lumina lumii
+A adus pacea inapoi, Dumnezeu e cu noi
+S-a nascut Emanuel
+Azi s-a nascut lumina lumii
+Intr-o iesle culcat, ce minunat, s-a nascut Emanuel
+Veniti sa vedem lumina lumii
+A adus pacea inapoi, Dumnezeu e cu noi
+S-a nascut Emanuel
+Azi s-a nascut lumina lumii
+Intr-o iesle culcat, ce minunat, s-a nascut Emanuel
+Veniti sa vedem lumina lumii
+A adus pacea inapoi, Dumnezeu e cu noi
+S-a nascut Emanuel
+
+[v2]
+Pastorii au alergat si s-au inchinat intr-o iesle
+Steaua stralucea, parca ne-ndemna dati de veste
+Vestea ca astazi Cel ce-i Sfant
+A venit la noi pe Pamant.
+
+[e]
+/: E iar craciun, se naste Mesia
+Simti tu fiorul in inima ta :/

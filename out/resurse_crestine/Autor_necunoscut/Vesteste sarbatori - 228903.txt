@@ -1,0 +1,42 @@
+[title]
+Vesteste sarbatori {author: {Anonim}, {rcId: {228903}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Vestește sărbători
+Cum Eu Ți-am poruncit
+Și să le prăznuiești
+La timpul hotărât.
+
+[c]
+Privește spre Sion
+Și-n el tu vei vedea
+Cetatea sărbătorilor
+Ce-n veci va rămânea
+
+[v2]
+In fiecare an
+Veniți ’naintea Mea
+In cinstea Domnului
+Vestiți sărbă- toarea
+
+[v3]
+În toată viața
+Lucrați după cuvânt
+Ca fericirea ta
+Se crască pe pământ.
+
+[v4]
+Cântați cu veselie
+’
+Naintea Domnului
+Strigați de bucurie
+In sărbătoarea Lui
+
+[v5]
+Sunați din trâmbița
+Azi sărbătoare avem
+In cinstea Domnului
+Noi toți s-o prăznuim

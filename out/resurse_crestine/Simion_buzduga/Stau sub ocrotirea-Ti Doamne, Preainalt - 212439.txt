@@ -1,0 +1,35 @@
+[title]
+Stau sub ocrotirea-ti doamne preainalt {author: {Simion Buzduga}, {rcId: {212439}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Stau sub ocrotirea-Ți Doamne, Preaînalt
+Și mă odihnesc la umbra-nviorat
+Tu ești adăpostul, cetățuia mea
+Dumnezeu în care-mi pun încrederea
+
+[c]
+/: Doamne mare Te iubesc și Te preamăresc
+Tu-mi dai pacea, liniștea, ocrotirea Ta
+Pentru mâna Ta cea bună-n vreme bună, rea
+Pentru tot ce mă-ncunună meriți gloria: \
+
+[v2]
+Sunt scăpat de lațul vânătorului
+Ca-s acoperit de aripile Lui
+Nu mă tem de ciumă, groaza nopții grea
+De săgeata zilei, molima cea rea
+
+[v3]
+Cad în juru-mi mii, alte zeci de mii
+Știu nici o urgie nu mă va lovi
+Domnu-i adăpostul, turn ocrotitor
+Îl iubesc de-aceea mi-e izbăvitor
+
+[v4]
+Domnul poruncește îngerilor Săi
+Să-mi păzească cortul, pașii mei prin văi
+Îmi dă viață, pace chiar în strâmtorări
+Mântuirea-i printre binecuvântări

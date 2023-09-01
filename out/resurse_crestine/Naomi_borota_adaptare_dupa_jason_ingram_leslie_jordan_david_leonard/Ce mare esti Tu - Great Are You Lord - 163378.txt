@@ -1,0 +1,27 @@
+[title]
+Ce mare esti tu - great are you lord {author: {Naomi Borota adaptare după Jason Ingram, Leslie Jordan, David Leonard}, {rcId: {163378}}
+
+[sequence]
+v1,c,v1,c,v2,c
+
+[v1]
+Viață dai, dragoste,
+Tu lumină aduci în noapte,
+Tu ridici, înnoiești orice inimă zdrobită.
+Ce mare ești Tu!
+
+[c]
+/: Ai suflat viață-n noi,
+De aceea Te lăudăm,
+Cu tot ce-avem cântăm!
+Ai suflat viață-n noi,
+De aceea Te lăudăm
+Doar pe Tine! :/
+
+[v2]
+/: Pământul tot Te va lăuda,
+A noastre inimi vor striga:
+Măreț ești doar Tu!
+Pământul tot Te va lăuda,
+Aceste oase vor striga:
+Măreț ești doar Tu! :/

@@ -1,0 +1,17 @@
+[title]
+Pisicuta cu labuta {author: {Nicolae Moldoveanu}, {rcId: {233536}}
+
+[sequence]
+v1,v2
+
+[v1]
+Pisicuța cu lăbuța tot mereu se spală.
+Asta-i este-ntâia grijă când din somn se scoală.
+Să-nvățăm și noi, copii, de la pisicuță,
+curăția s-o păstrăm pe mâini și hăinuță.
+
+[v2]
+Pisicuța cu lăbuța iute, iute prinde
+șoriceii rozătorii din cămări și tinde.
+Felul ei, dragi copilași, pe noi ne învață,
+să stârpim necontenit relele din viață.

@@ -1,0 +1,23 @@
+[title]
+Cetate sfanta {author: {Diaz Amos}, {rcId: {240670}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+O cetate tapetată de argint,
+De cântări, ce bogat mă simt.
+O cetate înconjurată în iubire,
+Tu presari peste ea mântuire!
+
+[c]
+Cetate sfântă și glorioasă.
+Aștept să merg, să merg acasă.
+Să-mi întâlnesc tot neamul ’nalt,
+Să strălucesc în har bogat!
+
+[v2]
+O cetate revărsată în mister,
+Poarta vieții către eternul cer.
+Strălucire, har bogat, de lume șters,
+Sunt doritor să fiu în dânsa țes!

@@ -1,0 +1,17 @@
+[title]
+Calea ce duce sus in ceruri {author: {Anonim}, {rcId: {4848}}
+
+[sequence]
+c,v1,c
+
+[c]
+Calea ce duce sus în ceruri
+Este doar Isus Hristos,
+Cale spre Tatăl, spre bucurie
+Este doar Isus Hristos.
+
+[v1]
+Nici o altă cale, nici o altă cale
+Nu are omul păcătos,
+Calea ce duce sus în ceruri
+Este doar Isus Hristos.

@@ -1,0 +1,53 @@
+[title]
+Domnul ne-a promis o tara {author: {Otniel Stirb}, {rcId: {160310}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Domnul ne-a promis o țară
+Fără lacrimi și dureri,
+În eterna primăvară,
+De vom asculta de El.
+
+[c]
+Țară sfântă, minunată,
+Loc de vis, ceresc liman,
+Ce frumos va fi odată
+Sus în cer, în Canaan!
+Tu ești țara nemuririi,
+Țară fără de hotar
+Unde Mirele iubirii
+Loc ne-a pregătit în dar.
+
+[v2]
+Numai cei ce vor învinge-n
+Lupta grea pe-acest pământ
+Vor intra atunci pe poartă
+În Ierusalimul sfânt.
+
+[c2]
+Țară sfântă, minunată,
+Fără lacrimi și suspin,
+Vrem să ne luăm adio
+De l-acest pământ străin.
+Tu ești țara cea promisă
+Tuturor ce s-au luptat
+Și prin valuri și ispite
+De Isus nu s-au lăsat!
+
+[v3]
+Suntem călători prin lume,
+Nu ne-am strâns aici comori
+Dar avem o moștenire
+Cu Isus mai sus de nori.
+
+[c3]
+/: Țară sfântă, minunată,
+Țară veșnică de sus,
+Patrie cu străzi de aur,
+Unde-i împărat Isus.
+Țara noastră, țară dragă,
+Oare când te vom vedea?
+Adă, Doamne, mai degrabă
+Ziua să intrăm în ea! :/

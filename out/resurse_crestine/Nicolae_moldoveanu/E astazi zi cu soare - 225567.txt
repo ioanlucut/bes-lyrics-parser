@@ -1,0 +1,23 @@
+[title]
+E astazi zi cu soare {author: {Nicolae Moldoveanu}, {rcId: {225567}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+E astăzi zi cu soare, s-o facem sărbătoare,
+să-ncepem joaca bună, copii, toți împreună.
+
+[c]
+Pe dealuri și câmpii, să alergăm, copii!
+Să alergăm și să cântăm, pe Domnul sfânt să-L lăudăm!
+Să lăudăm, să lăudăm, din inimă să lăudăm,
+pe Dumnezeu Cel Minunat, ce toate, toate le-a creat!
+
+[v2]
+O dulce bucurie viața să ne fie,
+mereu, mereu senină în cântec și lumină!
+
+[v3]
+La școală, ca la joacă, din suflet să ne placă.
+Nălțând pe-orice cărare lui Dumnezeu cântare!

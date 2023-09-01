@@ -1,0 +1,41 @@
+[title]
+Am gasit un drum spre casa {author: {Anonim}, {rcId: {1579}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Am găsit un drum spre casă
+Care duce-n Paradis.
+Mulți au vrut, prin vremi, s-ajungă,
+Dar genunea l-a închis.
+Insă cale-a fost deschisă
+De Isus, prin jertfa Sa.
+Puntea harului a-ntins-o:
+Prin credință poți intra!
+
+[c]
+/: Vino astăzi, chiar acuma!
+Când sfârșești, primești cununa!
+/: O, de ce nu vrei să vii,
+Fericit în veci să fii? :/
+
+[v2]
+Timpul e să vii acuma,
+Asfințitul e pe drum;
+Noaptea, în curând, veni-va;
+Unde ai să mergi și cum?
+Timpul tău, lăsat salvării
+Se va termina-n curând!
+Vei pleca pe drumul care
+Ți-ai croit, de pe pământ....
+
+[v3]
+Munți de dor mi-apar în cale,
+Dar îi urc mereu zorit.
+Căi ce-au fost topite-n zare
+Astăzi le păsesc grăbit.
+Dar prin renunțări de sine,
+Doar hrănit de roade-n Duh,
+Mai ușor urc pe coline,
+Mai ușor, voi fi-n văzduh!

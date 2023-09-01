@@ -1,0 +1,41 @@
+[title]
+Sunt zilele din urma {author: {Emanuel Iancu}, {rcId: {71849}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Sunt zilele din urmă
+Când mulți au adormit,
+Uleiul din candelă
+De mult s-a sfârșit.
+E greu să se mai roage
+Și să aștepte-i greu
+Doamne, umple Tu candela
+Cu untdelemnul Tău.
+
+[c]
+Umple viața mea, Isuse,
+Cu parfumul Tău cel Sfânt
+Ne aduci la revenire
+Să fim plini de Duhul Sfânt.
+
+[v2]
+Iubirea-i o povară
+Ce mulți nu o pot purta,
+Puțini mai sunt creștinii
+Ce calcă-n urma Ta
+Sunt mulți ce-și lasă viața
+Condusă de cel rău
+O, Tată, umple-mi viața
+Cu untdelemnul Tău.
+
+[v3]
+Vedem cum se-mplinește
+Cuvântul Tău cel Sfânt
+Păcatul se înmulțeste
+Mereu pe-acest pământ
+Dar fă ca noi, Doamne
+Tot mai uniți să fim
+Tu să ne umpli viața
+Iar noi să Te slujim.

@@ -1,0 +1,28 @@
+[title]
+Tu m-ai scos din valea mortii {author: {Ionel Saran Bochis}, {rcId: {111164}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Tu m-ai scos din valea morții,
+Mi-ai promis că mă vei duce
+Sus în Slava Ta, Isuse! :/
+
+[c]
+Căci aici nu-i bucurie
+Ca și-a Ta iubire sfântă,
+Nicăieri în lume!
+M-ai scăpat de întristare,
+M-ai luat pe-a Tale brațe
+Cu iubire, cu iubire!
+
+[v2]
+/: Pașii mei de-acum, Isuse,
+Îi îndrept grăbiți spre Tine,
+O, Isuse, o Isuse! :/
+
+[v3]
+/: O, cât mi-este dor de Tine,
+Ca să scap de întristare
+De lacrimi și de durere! :/

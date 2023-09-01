@@ -1,0 +1,29 @@
+[title]
+Ce vrednic esti o dumnezeul nostru {author: {Ilie Puha}, {rcId: {124739}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ce vrednic ești o, Dumnezeul nostru
+Să fii cinstit și slava să Ți-o dăm
+Prin voia Ta cu mâinile întinse
+Spre cerul Tău, cu drag Te lăudam.
+
+[c]
+/: Fiindcă ai biruit și ai răscumpărat
+Cu sângele-Ți stropit, omul din păcat;
+Fiindcă Tu ești viu și-n vecii vecilor
+Stai mereu pe tron, ca Domn al Domnilor :/
+
+[v2]
+Ce vrednic ești căci tu deschisa-i cartea
+Leul din Iuda mielul cel junghiat
+Tot ce cuprinde-n tinderea albastră
+Etern în slavă să fii lăudat.
+
+[v3]
+Te lăudăm, o Dumnezeul nostru
+Tu cel ce ești, erai și ai să vi
+Căci prin puterea Ta nemărginită
+Împărățești pe veci din veșnici.

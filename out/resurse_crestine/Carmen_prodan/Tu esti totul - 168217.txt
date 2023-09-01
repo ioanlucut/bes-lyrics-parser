@@ -1,0 +1,29 @@
+[title]
+Tu esti totul {author: {Carmen Prodan}, {rcId: {168217}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Nici o clipă fără Tine,
+Nu doresc să trăiesc pe-acest pământ.
+Tu ești totul pentru mine,
+Domnul meu, Dumnezeul meu prea Sfânt!
+
+[c]
+Fără Tine bucuria-i jale,
+Fără Tine zâmbetu-i suspin,
+Dar cu Tine-i veșnic sărbătoare
+Și-orcie lacrimă-i surâs divin.
+
+[v2]
+Fericirea-n astă viață
+E un abur ce se-nalță către Cer,
+Dar in Tine am speranță
+Împliniri, bucurii ce-n veci nu pier.
+
+[v3]
+Chiar de am aici în lume
+Răni adânci, întrebări fără răspuns,
+Doamne dă-mi înțelepciune
+Să-nțeleg, harul Tău îmi e deajuns.

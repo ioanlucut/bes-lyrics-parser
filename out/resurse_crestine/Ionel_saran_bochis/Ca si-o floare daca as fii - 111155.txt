@@ -1,0 +1,27 @@
+[title]
+Ca si-o floare daca as fii {author: {Ionel Saran Bochis}, {rcId: {111155}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Ca și-o floare dacă aș fii
+Orșicît m-aș străduii
+După ce aș înflorii
+La urmă m-aă ofilii
+
+[c]
+/: De Tine Isuse
+Nimic nu mă poate
+Ca să mă despartă
+De Iubirea Ta,
+Nimic nu mă poate
+Ca să mă despartă
+De Tine o Domnul meu
+Fericirea mea :/
+
+[v2]
+Cîte vînturi au suflat
+Viața mi s-a spulberat
+Lîngă mine-ai fost mereu
+Numai Tu o Domnul meu

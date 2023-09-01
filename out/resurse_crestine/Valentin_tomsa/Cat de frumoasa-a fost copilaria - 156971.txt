@@ -1,0 +1,29 @@
+[title]
+Cat de frumoasa-a fost copilaria {author: {Valentin Tomșa}, {rcId: {156971}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cât de scumpă este mama cu-ale sale vorbe dulci!
+Și cum des în toi de seara ea ne poartă-n rugăciuni.
+Fii de Domnul întărită și purtată-n brațul Său,
+/: Căci, mamă, mi-ai fost lumină să-L urmez pe Dumnezeu! :/
+
+[c]
+Cât de frumoasă-a fost copilăria,
+Cum cu drag grija, mamă, îmi purtai!
+/: Și mă-nvațai să caut veșnicia,
+Ce bun model, mamă, tu, îmi erai! :/
+
+[v2]
+Multe nopți obositoare ai avut tu, mama mea,
+Când plângeam în toi de noapte mă linișteam la vocea ta!
+Trecutau zile, luni și ani și mă-ocroteai mereu, mereu,
+/: Cu dragoste mă învățai să mă rog la Dumnezeu. :/
+
+[v3]
+Mulțumesc, o! Doamne Sfinte pentru harul ce mi-ai dat!
+Că mi-a fost mama bun părinte și m-a vegheat neîncetat!
+Răsplătită-ți fie, mamă, toată osteneala ta!
+/: Să fii binecuvântată, Domnul să-ți fie paza ta! :/

@@ -1,0 +1,47 @@
+[title]
+Eu sunt numai un calator {author: {Anonim}, {rcId: {3162}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+Eu sunt numai un călător
+Străin pe-acest pământ
+/: Călătorind spre țara mea
+De sus din cerul sfânt. :/
+
+[v2]
+Cu Isus când m-am întâlnit
+Așa blând mi-a vorbit
+/: Era la Golgota Isus
+Pe cruce răstignit. :/
+
+[v3]
+Am vrut să-I spun atunci ceva
+Dar jalea m-a cuprins
+/: A vrut să-mi spună ce-L durea
+Dar n-a putut de plâns. :/
+
+[v4]
+Am început să plâng și eu
+Plângeam de mila Lui
+/: Plângeam ca doi frați prigoniți
+Orfani și părăsiți. :/
+
+[v5]
+Sub cruce am îngenunchiat
+Și-am făcut legământ
+/: Și-am spus că-L voi urma oricând
+Chiar până la mormânt. :/
+
+[v6]
+Legământul a fost stropit
+Cu apă și sânge
+/: Când amândoi plângeam cu foc
+Și-aveam chiar pentru ce. :/
+
+[v7]
+Sunt fericit până ajung
+În patria de sus
+/: Să fiu străin pe-acest pământ
+Dar frate cu Isus. :/

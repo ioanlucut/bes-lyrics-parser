@@ -1,0 +1,33 @@
+[title]
+Ca enoh si ca ilie {author: {Nicolae Moldoveanu}, {rcId: {5719}}
+
+[sequence]
+c,v1,v2,v3,v4
+
+[c]
+/: Ca Enoh si ca Ilie, vom zbura si noi, la fel,
+Cand Isus are sa vie, sa ne ia la El. :/
+
+[v1]
+Ca Enoh si ca Ilie, si noi vom zbura;
+Cu Isus, in vesnicie, si noi vom canta;
+Ziua ceea va fi mare, cea mai mare zi:
+Ziua noastra de plecare catre vesnicii.
+
+[v2]
+Vom lasa si nori si ceata, norii cenusii,
+In aceea dimineata, cand El va veni.
+Se va lumina Taborul de privirea Lui,
+Cand ne vom lua toti zborul, toti ai Domnului.
+
+[v3]
+Cand durerea va fi mare, Domnul va veni
+Si, in norul de salvare, El ne va rapi;
+Cand paharul de urgie se va revarsa,
+Duhul Sfant, in vesnicie, ne va stramuta.
+
+[v4]
+Vom zbura ca porumbeii catre porumbar,
+Dintre Neamuri si evreii, prin acelasi har.
+Prin credinta si rabdare, noi vom birui...
+In iubirea Lui cea mare, El ne va rapi.

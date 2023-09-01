@@ -1,0 +1,30 @@
+[title]
+Cand te voi lauda {author: {Damaris Azamfirei}, {rcId: {179043}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Când Te voi lăuda
+Voi fi cu bucuria pe buze,
+Cu bucuria în sufletul
+Pe care mi l-ai izbăvit.
+
+[c]
+Când Te voi lăuda, mâinile-mi voi ridica
+Căci Tu meriți toată cinstea,
+Slava, Gloria-i a Ta, Tu ești Marele-Mpărat
+Numele Tău fie-n veci lăudat,
+Lăudat.
+
+[v2]
+Eu Te voi lăuda,
+Și mereu Îți voi cânta
+Pentru că mult bine mi-ai făcut
+Și mereu dreapta Ta mă apărat.
+
+[e]
+/: Te voi lăuda Isus, Te voi lăuda
+Toată gloria-i a Ta.
+Te voi lăuda Isus, Te voi lăuda
+Toată viața, Te voi înălța. :/

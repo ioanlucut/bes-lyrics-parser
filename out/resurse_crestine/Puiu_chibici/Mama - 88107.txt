@@ -1,0 +1,29 @@
+[title]
+Mama {author: {Puiu Chibici}, {rcId: {88107}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+De ani mulți și vreme chipu-ți ofilit
+Pentru mine mamă e cel mai iubit
+Blândă adiere, susur liniștit
+O, mamă dragă, înger preaiubit
+
+[c]
+Mama mea, mama mea
+Niciodată n-aș putea
+Să te uit, să nu te-ascult
+Mama, mama mea
+
+[v2]
+Cu suflarea-ți caldă, fruntea-mi mângâiai
+Iar în grea durere greul mi-alinai
+Aplecată-n rugă, te rugai mereu
+O mamă dragă, dar din Dumnezeu
+
+[v3]
+Astăzi ești bătrână dar cântecul tău
+Încă îmi răsună în suflet mereu
+Sfaturile-ți toate mi le amintesc
+O, mamă dragă, ce mult eu te iubesc

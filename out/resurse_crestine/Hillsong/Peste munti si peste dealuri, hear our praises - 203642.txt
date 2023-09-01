@@ -1,0 +1,44 @@
+[title]
+Peste munti si peste dealuri hear our praises {author: {Hillsong}, {rcId: {203642}}
+
+[sequence]
+v1,c,v2,c,v3,c,c,c,c,c,c
+
+[v1]
+Halleluja, halleluja, halleluja, halleluja
+
+[c]
+Peste munți și peste dealuri, să răsune laude
+Tot pămăntul să se închine și să-ți cânte glorie, glorie
+Peste munți și peste dealuri, să răsune laude
+Tot pămăntul să se închine și să-ți cânte glorie, glorie
+Peste munți și peste dealuri, să răsune laude
+Tot pămăntul să se închine și să-ți cânte glorie, glorie
+
+[v2]
+Azi e ziua bucuriei, azi e timpul să cântăm
+Căci prin Tine suntem liberi, și de-acea î-ți cântăm
+
+[v3]
+Vrem lumina Ta să crească, vrem prezența Ta mereu
+Slava Ta să ne inunde, toarnă azi din Duhul Tau!
+
+[b]
+M-ai scimbat, întristarea-n bucurie,
+M-ai îmbrăcat în laudă un loc de plâns
+
+[b2]
+În laudă m-ai îmbrăcat, prin Tine liber sunt,
+Isus viață mi-ai dat și acum eu pot să-ți cânt
+
+[b3]
+M-ai scimbat, întristarea-n bucurie,
+M-ai îmbrăcat în laudă un loc de plâns
+
+[b4]
+Mâna Ta ma ridicat, pe stâncă sus mai pus
+Un nou cântec mi-ai dat, te laud azi Isus
+
+[b5]
+M-ai scimbat, întristarea-n bucurie,
+M-ai îmbrăcat în laudă un loc de plâns

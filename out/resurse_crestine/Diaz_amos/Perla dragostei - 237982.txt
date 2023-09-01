@@ -1,0 +1,23 @@
+[title]
+Perla dragostei {author: {Diaz Amos}, {rcId: {237982}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Semne, transform antagonist, se cerne pe tărâmul de vis;
+Clepsidra timpului adapă misterul, nisipul atinge cu fața-i întreg glorios cerul.
+Și anunță în cetate: rodul muncii pe fermecătoarea haină,
+De pe aripa câmpului spre casă pe lucrătorii din zori îi cheamă!
+
+[c]
+Perla dragostei, un șirag de piatră rară
+Stimabilii soldați spre casă încep să apară!
+Cântul, un cânt desprins din coarda dragostei,
+Se înalță către cel din țărmul viselor noastre!
+
+[v2]
+Zbor către cetatea uitată, către tărâmul unde am fost odată;
+Și sperăm să îl mai întâlnim, voioși de la casa Domnului venim!
+Se cântă în cetate și se anunță despre cel ce vine,
+Purtăm cadoul eternului somn, vom zâmbi în măreața nemurire!

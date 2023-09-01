@@ -1,0 +1,31 @@
+[title]
+Tine-ma la pieptul tau (keep me close to thy heart) {author: {Albert E. Brumley, Traducere RO}, {rcId: {136115}}
+
+[sequence]
+v1,c,v2,c,v3,c,s,c
+
+[v1]
+Poveri adesea când vin par greu de dus,
+În ruga mea cer sprijin, la Tatăl sus.
+Pe cale vreau să alerg păzit de rău
+Doamne, ține-mă, Te rog, la pieptul Tău!
+
+[c]
+Păzește-mă-n noaptea grea prin harul Tău!
+Doamne, ține-mă, Te rog, la pieptul Tău!
+
+[v2]
+Cu Tine vreau să rămân cât timp trăiesc
+Și vocea Ta s-o ascult, mult îmi doresc!
+În lucrul ce-l făuresc dă-mi sfatul Tău,
+Doamne, ține-mă Te rog, la pieptul Tău!
+
+[v3]
+Până la ultimul pas, dă-mi ajutor
+Să ies din orice impas, biruitor;
+Fă-mă un vas înnoit, prin Duhul Tău
+Doamne, ține-mă,
+Te rog, la pieptul Tău!
+
+[s]
+Domnul este aproape de cei cu inima înfrântă și mântuiește pe cei cu duhul zdrobit. Psalm 34:18

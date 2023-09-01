@@ -1,0 +1,28 @@
+[title]
+Imi indrept glasul spre tine {author: {Nicolae Moldoveanu}, {rcId: {5342}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Imi indrept glasul spre Tine, o Domnul mantuirii mele:
+/: „
+Fa s-ajunga rugaciunea, o La locasurile Tale.” :/
+
+[v2]
+Doamne, Iti cer ajutorul o ’
+N fiecare dimineata
+/: Si Te rog, cu staruinta: o „
+Nu-mi ascunde a Ta Fata!...” :/
+
+[v3]
+De-am pasit pe cai straine o Si-am uitat a Ta carare,
+/: Ma primeste iar la Tine o Si ma iarta cu-ndurare! :/
+
+[v4]
+Dupa cum Ioan si Petru, o La ceasul de rugaciune,
+/: Au sculat in sus ologul, o Ma ridica si pe mine! :/
+
+[v5]
+Eu in Tine am credinta o Si nadejdea si taria,
+/: Caci Tu, ma asculti, o, Doamne... o Si imi darui mantuirea. :/

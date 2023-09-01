@@ -1,0 +1,23 @@
+[title]
+Buzele mele urasc minciuna {author: {Lidia Gheorghe}, {rcId: {216171}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Buzele mele urăsc minciuna.
+Mai bine tac decât să mint.
+Nu-mi cere nimenea intr-una
+Să zic ce fac, să zic ce simt,
+
+[c]
+Vestește astăzi adevărul!
+Te-ndemn din toată inima.
+Nu omul, ci Mântuitorul
+Îl minți cu socoteala ta.
+
+[v2]
+Apropie-te cu grăbire!
+Cere-ți iertare cât trăiești!
+Du-ți legământul la-mplinire!
+De vrei cu El să-mpărățești.

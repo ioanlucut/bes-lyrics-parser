@@ -1,0 +1,36 @@
+[title]
+Nunta mielului {author: {Nicolae Moldoveanu}, {rcId: {5753}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,v4,c
+
+[c]
+Nunta Mielului, nunta Mielului!
+Nunta cea slavita a sosit!
+Sa ne bucuram si sa ne veselim,
+Caci Mireasa Lui s-a pregatit!
+
+[v1]
+Hainele de in subtire, fapte de neprihanire
+E puterea ce ne poarta in zenit,
+Ca si porumbelul zarii care sfredeleste norii
+Si se duce-n marele nemarginit.
+
+[v2]
+Ca si tunetele zarii, de pe bolta departarii,
+Milioanele de ingeri au cantat:
+„
+Aleluia! Aleluia! Aleluia! Aleluia!
+Dumnezeul nostru-i sfant si minunat!”
+
+[v3]
+Ca si vuietul de ape, mai aproape... mai aproape,
+Rasunau cantarile de pe pamant;
+Dumnezeu Biruitorul, El a mantuit poporul,
+Prin Isus Hristos si Duhul Lui cel Sfant!
+
+[v4]
+Dumnezeul nostru vine! Orice om sa I se-nchine
+Si sa fie in continuu pregatit!
+Sa-si adune-acuma inul, daca vrea sa uite chinul
+Si sa fie-n ziua ceea mantuit.

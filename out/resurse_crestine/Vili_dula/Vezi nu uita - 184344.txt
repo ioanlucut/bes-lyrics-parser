@@ -1,0 +1,27 @@
+[title]
+Vezi nu uita {author: {Vili Dulă}, {rcId: {184344}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Vezi, nu uita, niciodată nu uita că viața ta e o minune, un gând ceresc
+Vezi, nu uita, niciodată nu uita în mersul tău să spui adesea un ”mulțumesc”!
+
+[c]
+Ai fost dorit de Tatăl tău, tu ești copil de Dumnezeu
+Îndoiește-te de toate, dar nu de Harul Său
+Ține minte totdeauna: ești al Lui, și El al tău
+Nu uita că ai și tu, ai un loc în planul Său!
+
+[v2]
+Vezi, nu uita, niciodată nu uita, că nimeni nu-i la fel ca tine, nici când zâmbești
+Vezi, nu uita, niciodată nu uita că ai un rost și o chemare, așa cum ești!
+
+[v3]
+Vezi, nu uita, niciodată nu uita, că ești un fir de păpădie, de vânt purtat
+Dar nu uita, niciodată nu uita, că prețul tău e-n jertfa crucii ce te-a salvat!
+
+[v4]
+Vezi, nu uita, niciodată nu uita că viața ta e o minune, un gând ceresc
+Vezi, nu uita, niciodată nu uita în mersul tău să spui adesea un ”mulțumesc”!

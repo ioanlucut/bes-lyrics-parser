@@ -1,0 +1,43 @@
+[title]
+Daca tu n-ai fi fost {author: {Claudia Danciu}, {rcId: {6701}}
+
+[sequence]
+v1,b,c,v2,b,c
+
+[v1]
+Dacă Tu n-ai fi fost,
+Ce-ar fi fost viața mea,
+Isuse, când singur, zăceam la pământ
+Și să mă ridic nu reușeam...
+Dacă Tu n-ai fi fost,
+Să-mi întinzi mâna Ta,
+M-aș fi zbătut ca un val dus de vânt pe ocean.
+
+[b]
+Numai Tu mi-ai adus bucuria,
+Când uitasem și să mai zâmbesc,
+Tu, Isus, m-ai salvat,
+Și curajul Tu mi-ai dat, să trăiesc.
+Numai Tu ai făcut să dispară
+Întristarea din sufletul meu
+Și-ai adus pacea Ta
+Să mă umpli de ea tot mereu... și mereu...
+
+[c]
+Dacă Tu n-ai fi fost,
+Să rămâi lângă mine,
+Zile și nopți aș fi plâns fără rost
+Și viața mea mult prea tristă-ar fi fost.
+Dacă Tu n-ai fi fost
+Să mă umpli de Tine,
+Doar un hoinar rătăcit aș fi fost
+Și viața mea s-ar fi scurs fără rost...
+
+[v2]
+Dacă Tu n-ai fi fost,
+Cine m-ar fi primit
+Când oamenii toți, fără nici un cuvânt,
+M-au alungat, m-au părăsit...
+Dacă Tu n-ai fi fost,
+Unde-aș mai fi găsit odihna
+Și cine pe-ntregul pământ m-ar fi iubit...

@@ -1,0 +1,28 @@
+[title]
+Am fost orb {author: {Merișor}, {rcId: {55555}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Am fost orb și am văzut doar o Lumină,
+Ce-a făcut Dumnezeu pentru noi,
+Eu umblam bâjbâind prin întuneric,
+Și ceream ajutor de la om.
+
+[c]
+Unde să mă duc ca să văd Lumina,
+Ca să văd și eu pe Isus din cer.
+
+[v2]
+Oamenii mă purtau-încolo și-ncoace,
+Nu puteau să vindece doar ochii mei,
+Am auzit că în cer este un Medic bun,
+Să vindece pe orice om, dar fără bani.
+
+[v3]
+Dar într-o zi când plângeam eu cu durere,
+Am simțit o mână caldă pe obraz,
+Am auzit o voce blândă și gingașă,
+Și mi-a spus doar: „
+Ce să-ți fac, o, fiul Meu ?”

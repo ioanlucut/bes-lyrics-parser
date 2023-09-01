@@ -1,0 +1,40 @@
+[title]
+Slava ta {author: {Dan Muncaciu}, {rcId: {197797}}
+
+[sequence]
+v1,c,v2,c,e,c
+
+[v1]
+Slava Ta se arată între nori
+Duhul Tău e la lucru în noi
+Cu inima deschisă
+Cu ochii către cer
+Te așteptăm să vii la noi
+
+[c]
+Copii Tăi strigă „slavă”
+Din veșnicie-n veșnicie Tu domnești
+Prin Tine avem astăzi viață
+/: În fața Ta cu tot ce suntem ne-nchinăm :/
+Copii Tăi strigă „slavă”
+Din veșnicie-n veșnicie Tu domnești
+Prin Tine avem astăzi viață
+/: În fața Ta cu tot ce suntem ne-nchinăm :/
+Copii Tăi strigă „slavă”
+Din veșnicie-n veșnicie Tu domnești
+Prin Tine avem astăzi viață
+/: În fața Ta cu tot ce suntem ne-nchinăm :/
+
+[v2]
+Jertfa Ta azi ne spală deplin
+Prin Isus înc-o șansă primim
+O Doamne, tu ne vindeci
+Si liberi vom canta
+Isus, ce mare-i slava Ta
+
+[e]
+/: Aleluia, Aleluia, Aleluia
+Isus, ce mare e slava Ta :/ x 4
+
+[b]
+/: În fața Ta cu tot ce suntem ne-nchinăm :/

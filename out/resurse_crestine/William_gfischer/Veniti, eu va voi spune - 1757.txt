@@ -1,0 +1,27 @@
+[title]
+Veniti eu va voi spune {author: {William G.Fischer}, {rcId: {1757}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Veniți, eu vă voi spune ce Domnul mi-a făcut,
+Voi, ce de El vă temeți, veniți cu glas plăcut!
+Cu dragoste voi spune că Domnul e al meu
+Și cânt de bucurie! Eu sunt pe veci al Său!
+
+[c]
+Veniți, eu vă voi spune ce Domnul mi-a făcut
+Voi, ce de El vă temeți, veniți cu glas plăcut!
+
+[v2]
+Veniți, eu vă voi spune de darul lui Isus,
+De o Ființă nouă ce s-a născut de sus.
+Eram pierdut în lume, la moarte condamnat,
+Dar am primit alt nume, pe veci eu sunt salvat!
+
+[v3]
+Veniți, eu vă voi spune cum Domnul m-a iertat
+Cântând cerescu-I Nume în lumea de păcat!
+Și mulți din cei ce astăzi la El se vor grăbi
+Iertarea de păcate și pacea vor primi.

@@ -1,0 +1,25 @@
+[title]
+Domnul este pastorul meu nu sunt ingrijorat {author: {Alexandru Groza}, {rcId: {87948}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Domnul este Păstorul meu, nu sunt îngrijorat
+Și n-am de ce să mă îndoiesc, sunt răscumpărat.
+Orișiunde-aș umbla, eu știu e tăria mea
+Și-n valea morții de-aș umbla poartă grija mea.
+
+[c]
+Domnul mi-e Păstor și Mântuitor,
+El e Domnul meu mereu, mereu.
+Minunat Păstor și Ocrotitor,
+Poartă grija mea totdeauna.
+O, ce bun, ce minunat e-al meu Păstor
+Mă va-nsoți totdeauna cu dragoste.
+
+[v2]
+Fericirea-ndurarea Lui mă va-nsoți mereu
+În toate zilele vieții voi fi păzit de El.
+Mă conduce cu Mâna Sa, nu sunt îngrijorat,
+Sufletul meu e înviorat, sunt răscumpărat.

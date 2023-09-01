@@ -1,0 +1,50 @@
+[title]
+Va reveni isus {author: {Corneliu Matie}, {rcId: {234022}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Chiar dacă sunt un copilaș
+Aștept și eu măreața zi
+Cânt glorios Domnul meu va veni
+Stând pe genunchi în rugăciune
+Parcă Îl zăresc venind pe nori
+Învăluit în lumină
+
+[c]
+Eu știu în curând
+Va reveni Isus la noi
+Ne va lua în veșnicii
+Și vom fi doar cu El
+Eu știu în curând
+Mireasa lui o va răpi
+Cu slavă o va împodobi
+Și vom fi pururea Doar cu El
+Eu știu în curând
+Va reveni Isus la noi
+Ne va lua în veșnicii
+Și vom fi doar cu El
+Eu știu în curând
+Mireasa lui o va răpi
+Cu slavă o va împodobi
+Și vom fi pururea Doar cu El
+
+[v2]
+Eu te întreb ești pregătit
+Să te întâlnești cu Domnul Tău
+Când plin de slavă Isus va veni
+Ți-ai adunat rezerve în vase
+Mai ai ulei în candelă
+Sau ea de mult nu mai arde
+
+[e]
+Eu știu în curând
+Va reveni Isus la noi
+Ne va lua în veșnicii
+Și vom fi doar cu El
+Eu știu în curând
+Mireasa lui o va răpi
+Cu slavă o va împodobi
+Și vom fi pururea Doar cu El
+Cu Domnul meu

@@ -1,0 +1,46 @@
+[title]
+Daltuit de mana ta {author: {Ionuț Crăciun}, {rcId: {90534}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Ce-aș fi fără de Tine, Doamne,
+Aș fi un abur care trece,
+Un praf pe cumpăna fântânii,
+Aș fi un sloi de gheață rece
+Așa aș fi, fără de Tine.
+
+[c]
+Prin Tine sunt ce sunt,
+Sunt dăltuit de mâna Ta,
+Am fost creat să Te slujesc,
+Să cânt spre slava Ta
+Prin Tine sunt ce sunt,
+Sunt dăltuit de mâna Ta,
+În Tine am putere,
+În Tine-i viața mea!
+
+[v2]
+Ce-aș fi fără de Tine, Doamne,
+Aș fi o stea căzătoare,
+Aș fi o floare ofilită,
+Aș fi o umbră trecătoare,
+Așa a fi, fără de Tine.
+
+[v3]
+Ce-aș fi fără de Tine, Doamne,
+Aș fi sortit pentru pierire,
+Aș fi in foc și în pierzare,
+Aș fi fără de moștenire,
+Așa aș fi fără de Tine.
+
+[e]
+M-ai scos din păcat,
+Mi-ai pus picioarele pe stâncă,
+De jos m-ai ridicat,
+Nu m-ai lăsat în groapa adâncă,
+Un cântec de iubire,
+Mi-ai pus în gura mea,
+În Tine am putere,
+În Tine-i viața mea!

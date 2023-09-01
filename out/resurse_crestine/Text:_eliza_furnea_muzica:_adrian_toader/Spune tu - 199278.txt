@@ -1,0 +1,38 @@
+[title]
+Spune tu {author: {Text: Eliza Furnea, Muzica: Adrian Toader}, {rcId: {199278}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Spune tu, spuneți voi: unde-s bucurii mai noi,
+Unde-i tot ce-i mai frumos? Sǎ spunem toți:
+La Hristos, cu Hristos, în Hristos.
+Cu El creștem fericiți,
+Blânzi și buni și liniștiți.
+El ne scapǎ de-orice rǎu,
+El ne-aratǎ harul Sǎu,
+El ne-ajutǎ-n orice fel
+/: El, El, El. :/
+
+[v2]
+Spuneți voi, spune tu: unde cântǎ sufletul,
+Unde-i bine de nespus? Sǎ spunem toți:
+La Isus, cu Isus, în Isus.
+Lânga El suntem mereu
+Fii plǎcuți lui Dumnezeu.
+El ne-nvațǎ ce-i frumos,
+El ne face de folos,
+El ne crește-n sfântul zel,
+/: El, El, El. :/
+
+[v3]
+Spune tu, spuneți voi: unde sǎ rǎmânem noi,
+Unde-i tot ce-i mai frumos? Sǎ spunem toți:
+Ca la El, ca la El, nu-s nicǎieri
+Bucurii și mângâieri,
+Nici mai dulce și senin.
+El e-al nostru har deplin,
+El ne este-al nostru țel,
+El ne face fericiți
+/: El, El, El. :/

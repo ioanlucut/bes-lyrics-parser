@@ -1,0 +1,41 @@
+[title]
+Nici un prieten nu-i bun ca isus {author: {Anonim}, {rcId: {6625}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Nici un prieten nu-i bun ca Isus:
+Nici unul, nici unul!
+Nici unul, nu poate iubi ca El:
+Nici unul, nici unul!
+
+[c]
+El ne cunoaște de-a fir-a-păr,
+El ne-nțelege orișicând.
+Nici un prieten nu-i bun ca Isus:
+Nici unul, nici unul!
+
+[v2]
+Niciun prieten nu-i sfânt ca Isus:
+Nici unul, nici unul!
+Și totuși nici unul nu-i blând ca El:
+Nici unul, nici unul!
+
+[v3]
+Nu-i clipa când să nu ne-audă El:
+Nici una, nici una!
+Nu-i noapte grea să nu ne mângâie:
+Nici una, nici una!
+
+[v4]
+Ce suflet a fost amăgit de El?
+Nici unul, nici unul!
+Sau n-a fost primit de iubirea Lui?
+Nici unul, nici unul!
+
+[v5]
+Nici unul din cei ce-au venit la El:
+Nici unul, nici unul!
+Nu-i pare rău c-a primit pe Isus:
+Nici unul, nici unul!

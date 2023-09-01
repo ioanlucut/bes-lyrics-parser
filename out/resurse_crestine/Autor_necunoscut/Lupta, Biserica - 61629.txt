@@ -1,0 +1,33 @@
+[title]
+Lupta biserica {author: {Anonim}, {rcId: {61629}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Luptă biserică
+Luptă nu da n-apoi
+Plină de Duhul Sfânt
+Înainte cu avânt :/
+
+[c]
+Luptați, luptați rugați-vă
+De Duhul Sfânt umpleți-vă
+Pe Domnul Isus așteptați
+În dragoste vă îmbrăcați
+Luptați, luptați rugați-vă
+De Duhul Sfânt umpleți-vă
+În Domnul Isus vă-ntăriți
+În rugăciune stăruiți
+
+[v2]
+/: Luptă biserică
+Prin vânt furtună grea
+Isus este cu noi
+Nici un pas nu da-napoi :/
+
+[v3]
+/: Luptă biserică
+Spre cer mereu priviți
+Chiar dacă lupta-i grea
+Înapoi noi nu vom da :/

@@ -1,0 +1,65 @@
+[title]
+De ziua ta iubito ti-aduc ca sfant prinos {author: {Nicolae Moldoveanu}, {rcId: {187079}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,v5,c5
+
+[v1]
+De ziua ta iubito,
+Și-aduc ca sfânt prinos,
+Iubirea mea fierbinte
+Și-adâncă în Hristos!
+
+[c]
+Căci nu-i nimic pe lume
+Mai sfânt și mai curat,
+Ca dragostea duioasă,
+Ce viața ne-a legat.
+
+[v2]
+Și inimile noastre
+Topite-n foc divin,
+Să nu mai fie două,
+Ci una pe deplin!
+
+[c2]
+Doresc ca-n drumul vieții
+Să calci cu pas supus,
+Și inimă smerită
+Pe urma lui Isus!
+
+[v3]
+Să fii ca și Maria,
+Cu sufletu-n văpăi,
+Să-i sorbi cu drag Cuvântul
+Cu ochii-n ochii Săi!
+
+[c3]
+Potirul de iubire,
+Cu mir de nard curat,
+Pe sfintele-I picioare,
+Să-l torni neîncetat!
+
+[v4]
+Ca sfânta Lui mireasmă
+Și harul luminos,
+S-atragă pe-orice suflet
+Deplin lângă Hristos!
+
+[c4]
+Te binecuvinteze
+Isus cu sfântu-I dar,
+Să-ți fie viața dar,
+De adevăr și har!
+
+[v5]
+În haine de lumină
+Spălate-n Sânge sfânt,
+Să umbli totdeauna
+Pe-acest străin pământ.
+
+[c5]
+Ca la sfârșitul vieții
+Să poți primi deplin,
+Cununa răsplătirii
+Cu cerul ei senin!

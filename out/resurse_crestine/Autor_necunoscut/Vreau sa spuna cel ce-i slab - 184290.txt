@@ -1,0 +1,38 @@
+[title]
+Vreau sa spuna cel ce-i slab {author: {Anonim}, {rcId: {184290}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Vreau să spună cel ce-i slab:
+”
+Eu sunt tare în Cristos!”
+Cel sărac: ”
+Eu sunt bogat!”
+Cel bolnav: ”
+Sunt sănătos!”
+
+[c]
+Osana! Osana!
+Mielului ce-a fost junghiat!
+Osana! Osana!
+Celui mort și înviat!
+
+[v2]
+Tot ce-a fost rău și murdar
+Mi-ai iertat prin al Tău har,
+Ca un râu iubirea Ta
+Umple astăzi viața mea.
+
+[v3]
+Știu că mă vei ridica
+Chiar de-aș fi-n adânc de văi!
+Cu-al salvării cânt slăvit,
+Glasul meu Te va mări.
+
+[v4]
+Voi ajunge-n cerul sfânt,
+Și în brațul Tău voi fi,
+Voi cânta pentru vecii:
+Dragostea-Ți m-a mântuit.

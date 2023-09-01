@@ -1,0 +1,53 @@
+[title]
+Pacea crucii tale {author: {Nicolae Moldoveanu}, {rcId: {244402}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c
+
+[v1]
+Pacea crucii Tale,
+Scump Mântuitor,
+Este-al bucuriei
+Mele-adânc izvor!
+
+[c]
+Vreau pacea Ta, o, Domnul meu
+Să-mi umple inima mereu,
+Deplin s-o am și s-o trăiesc,
+Și-așa să Te mărturisesc!
+
+[v2]
+Pacea Ta cerească
+Mângâie deplin,
+Ale vieții mele
+Răni și plâns și chin!
+
+[v3]
+Pacea Ta mi-alină
+Duhul zbuciumat,
+Când prin pocăință
+Sunt din nou iertat!
+
+[v4]
+Pacea Ta-mi păstrează
+Sufletul senin,
+Când Tu-mi ești Stăpânul
+Inimii deplin!
+
+[v5]
+Pacea Ta-mi sfințește
+Viața zi de zi,
+Când smerit Cuvântul,
+Caut a Ți-l păzi.
+
+[v6]
+Pacea Ta-i comoara
+Și odihna mea,
+N-am nimic pe lume
+Mai de preț ca ea!
+
+[v7]
+Pacea Ta Isuse,
+O voi vrea mereu
+Ea e fericirea
+Sufletului meu.

@@ -1,0 +1,29 @@
+[title]
+Iata ca eu sunt cu tine {author: {Andrei C}, {rcId: {209176}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Iată că Eu sunt cu tine în tot ce faci
+Nu te-ngrozi și nu te-nspăimânta niciodată
+Sunt Dumnezeu pentru toți și bogați și săraci
+Ce promisiune minunată.
+
+[c]
+/: Voi fi cu tine și când norii grei vor veni
+Voi fi cu tine și în bucurii
+De mâna dreaptă te iau ne-ncetat și zic:
+Nu trebuie să te temi de nimic. :/
+
+[v2]
+Ți-am spus că n-am să te las când vei fi lovit
+Te voi păzi-n orice pas și-ți voi da biruință
+Eu pentru tine pe cruce am fost pironit
+Tu trebuie doar să ai credință.
+
+[v3]
+Eu v-am promis în Cuvânt că-am să vin din nou
+Nu vă lăsați amăgiți și fiți tari pân la capăt
+În dragoste vă uniți și vegheați tot mereu
+Eu sunt cu voi sfânt și drept Dumnezeu.

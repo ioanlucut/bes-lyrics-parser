@@ -1,0 +1,44 @@
+[title]
+E timpul sa iubesti {author: {Rahela Goagără}, {rcId: {152066}}
+
+[sequence]
+v1,c,v2,c2,e
+
+[v1]
+Sătul ești de-atâtea lupte,
+Putere nu mai ai.
+Ai rătăcit departe,
+Dar stingher nu-are rost să mai stai!
+De răni ți-e brăzdat tot trupul,
+Cum prin viață ai luptat...
+Lasă mânia în urma,
+Căci războiul e deja câstigat!
+
+[c]
+Doar în Sfântul Sânge, speranță ai!
+Oricine-ai fi, azi dacă vi, la Cruce ai loc!
+​Viața ta s-ar putea schimba,
+​Căci atunci când vei ierta, te vei vindeca;
+Acceptă iarăși dragostea!
+
+[v2]
+Durerea ți-a fost mult prea mare;​​​​​
+Și-acum cu mânie trăiești;​​​​​
+Și simți că ți-e lumea-mpotrivă:​​​
+N-ai loc să te-adăpostești!​​​​​​
+Și nu găsești putere,
+Singur ști că nu ai cum să răzbați
+Ajutor îți va da, mâna Sa!
+
+[c2]
+Doar în Sfântul Sânge, speranță ai!
+​Oricine-ai fi, azi dacă vi, la Cruce ai loc!
+Viața ta s-ar putea schimba,
+​Căci atunci când vei ierta, te vei vindeca;
+​Acceptă iarăși dragostea!
+O, viața ta s-ar putea schimba
+Căci atunci când vei ierta, te vei vindeca
+Acceptă iarăși dragostea!
+
+[e]
+E timpul să iubești!

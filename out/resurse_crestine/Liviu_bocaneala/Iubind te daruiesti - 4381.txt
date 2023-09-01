@@ -1,0 +1,28 @@
+[title]
+Iubind te daruiesti {author: {Liviu Bocaneală}, {rcId: {4381}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+Iubind te dăruiești cu tot ce-ți aparține
+Iubind te dăruiești și uiți orice măsură
+
+[v1]
+Chiar de-aș vorbi toate limbile
+Vorbite de oameni și îngeri
+Dacă nu am iubire sunt doar o aramă ce sună
+Sau un chimval zângănitor.
+
+[v2]
+Chiar dacă aș profeți
+Și-aș ști chiar misterele toate
+Chiar de-aș avea o credință
+Încât să mut munții-n mare
+Fără dragoste nu sunt nimic.
+
+[v3]
+Chiar dacă aș împărți săracilor tot ce-i al meu
+Chiar de mi-aș da trupul meu
+În flăcări să fie ars
+Nu mi-ar folosi la nimic.

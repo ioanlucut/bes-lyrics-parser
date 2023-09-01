@@ -1,0 +1,65 @@
+[title]
+La golgota la golgota {author: {Ioan Hiticas}, {rcId: {179044}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,v5,c5
+
+[v1]
+La Golgota, la Golgota,
+La Golgota pe Calvar,
+A murit Domnul vieți,
+Răstignit între tâlhari.
+
+[c]
+Între doi tâlhari pe Cruce
+I-a fost soarta Domnului,
+Ca să rabde și să moară
+Scumpul nost’ Isus, Isus!
+
+[v2]
+O, ce mare tragedie
+La Golgota s-a-ntâmplat,
+Soarele și luna-n data
+De-odată s-au întunecat.
+
+[c2]
+Pământul din temelie
+Atuncea s-a zguduit,
+Când și-au văzut Creatorul
+Sus pe Cruce răstignit.
+
+[v3]
+Cine ar putea-ntelege,
+Iubirea mare-a lui Isus?
+Căci s-a pogorât din Slavă
+Pentru noi cei păcătoși.
+
+[c3]
+El s-a dăruit ca jertfă
+În fața lui Dumnezeu,
+Ca să spele vina noastră
+Și păcatul lumii-ntregi.
+
+[v4]
+Doamne ce iubire mare
+Pentru lume ai avut,
+Că și acolo sus pe Cruce
+Către Tatăl, Te-ai rugat.
+
+[c4]
+Te-ai rugat și pentru aceea
+Care Te-au batjocorit.
+Tată iartă-le păcatul,
+Pentru că, nu știu ce fac
+
+[v5]
+Doamne-Ți mulțumim Părinte
+În Numele lui Isus,
+Pentru mântuirea scumpă
+Pe care ne-ai pregătit.
+
+[c5]
+Îți aducem mulțumire
+Ne-nchinăm în fața Ta
+/: Pentru a Ta mare iubire,
+Pe care ne-ai arătat. :/

@@ -1,0 +1,38 @@
+[title]
+Noaptea dinaintea invierii (the night before easter) {author: {Donnie Sumner, Dwayne Friend, Traducere RO}, {rcId: {106264}}
+
+[sequence]
+v1,v2,v3,c,v4,c,s,c
+
+[v1]
+În acea noapte tristă cu văl de mister
+Orice șoaptă s-a stins pe pământ
+Licăriri nu mai zăreai-n orice stea de pe cer
+Căci Isus se găsea în mormânt.
+
+[v2]
+Mama Lui, cu suspine plângea singură
+Știind că Isus zăcea în mormânt
+Fiul ei a venit ca să împlinească
+Plan divin, pentru noi pe pământ.
+
+[v3]
+Un copil, cu tristețe, atunci s-a-ntrebat
+Cum de bunul Isus a plecat
+Și-amintea cum Isus l-a binecuvântat
+Și tot El, în brațe l-a luat.
+
+[c]
+Atunci piatra a fost dată de pe mormânt
+Iar Lumina se răspândea peste pământ
+Și acel copilaș trist, voios el cânta
+Căci Isus a biruit moartea!
+
+[v4]
+El, Isus, Împăratul și Domnul vieții
+Suferind mult, El viața și-a dat
+Dar curând, dimineața frumoasă sosi
+Când Isus, dintre morți a-nviat!
+
+[s]
+Lumina luminează în întuneric, și întunericul n-a biruit-o. Ioan 1: 5

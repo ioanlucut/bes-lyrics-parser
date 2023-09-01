@@ -1,0 +1,23 @@
+[title]
+Acum merg acasa la domnul meu {author: {Nicolae Moldoveanu}, {rcId: {5552}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Acum, merg acasă, la Domnul meu
+Eu drumul l-am sfâșit și chinul greu
+/: De-acum cântarea mea, în veci, va răsuna
+Domnului glorie, pe vecie! :/
+
+[v2]
+Unde eu merg acum, dureri nu sunt
+Tot chinul este șters de Domnul sfânt
+/: Acolo-i iubire, pace, fericire -
+Acestea le am eu de la Domnul meu. :/
+
+[v3]
+Plânsul meu s-a sfârșit, căci sunt chemat
+De Isus cel iubit, într-un palat,
+/: Nu mă plângeți acum, căci eu merg pe-acest drum.
+În fericire, sus, lângă Isus. :/

@@ -1,0 +1,29 @@
+[title]
+Ferice va fi de omul {author: {Anonim}, {rcId: {1597}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Ferice va fi de omul, care-n toată viața lui,
+/: Cugetă ziua și noaptea, numa-n Legea Domnului. :/
+El, de cei răi, se ferește și de toți cei păcătoși,
+/: La sfatul lor, nu se duce; știe că sunt mincinoși. :/
+
+[v2]
+Cât de fericit în suflet este un astfel de om!
+/: El se-aseamănă în totul cu un mândru, frumos pom :/
+Care, la izvorul vieții, cineva l-a răsădit;
+/: El iși dă rodul la vreme și umbra celui trudit. :/
+
+[v3]
+Nu așa necredincioșii și aceia ce fac rău.
+/: Ei iși vor lua pedeapsa de la dreptul Dumnezeu. :/
+Și, întocmai precum pleava, este spulberată-n vânt,
+/: Tot așa necredincioșii vor fi șterși de pe pământ. :/
+
+[v4]
+Îar, la dreapta judecată, vor plânge, s-or tângui,
+/: Dar va fi târziu atuncea și-n zadar se vor căi. :/
+Iar cei drepți, în haine albe, vor primi cununa lor,
+/: Și vor merge, sus în ceruri, cu dreptul Judecător. :/

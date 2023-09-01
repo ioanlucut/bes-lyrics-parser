@@ -1,0 +1,54 @@
+[title]
+Sfant e sfant e {author: {Elim Harmony}, {rcId: {71702}}
+
+[sequence]
+v1,v2,c,v3,c
+
+[v1]
+Estr-un drum ce duce-n ceruri,
+Un drum plin de încercări
+Dar curând va fi strigarea
+Ce va umple largu-n zări
+Bucuria va cuprinde
+Universul așteptând
+Înspre Sion, țara sfântă
+Noi vom zbura toți cântând
+Tu ești vrednic Domnul Slavei
+Pentru lupta ce s-a dat
+Omenirea se închină,
+De la moarte ne-ai salvat
+
+[v2]
+Este-un drum ce duce-n ceruri
+Unde veșnic vom cânta
+Nu va fi acolo noapte
+Vom vedea doar fața Sa
+Sărbătoarea va începe
+Lângă marele Stăpân
+Înspre Sion, țara sfântă
+Noi vom zbura toți cântând
+Tu ești vrednic Domnul Slavei
+Pentru lupta ce s-a dat
+Omenirea se închină,
+De la moarte ne-ai salvat
+
+[c]
+Sfânt e, sfânt e, sfânt e
+Domn Atotputernic
+Sfânt e, sfânt e, sfânt e
+Dumnezeu
+Aleluia, aleluia, aleluia
+Aleluia, aleluia, aleluia
+
+[v3]
+Estr-un drum ce duce-n ceruri,
+un drum plin de încercări
+Dar curând va fi strigarea
+ce va umple largu-n zări
+Bucuria va cuprinde
+universul așteptând
+Înspre Sion, țara sfântă
+noi vom zbura toți cântând
+Înspre Sion, țara sfântă
+noi vom zbura toți cântând
+Noi vom zbura cântând.

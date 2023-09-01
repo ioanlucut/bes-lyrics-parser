@@ -1,0 +1,31 @@
+[title]
+Hristos ne-a adus biruinta {author: {Nicolae Moldoveanu}, {rcId: {243958}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Hristos ne-a adus biruința
+Prin Numele Lui strălucit,
+Cântați-I cu toată ființa,
+În veci fie EI preamărit!
+
+[c]
+Isus mai presus,
+Slavă Ție, cu-avânt,
+Neînfrânt, Ți-nălțăm,
+Căci Sus, toți am pus,
+Pe vecie, un sfânt, legământ
+Să-Ți urmăm!
+
+[v2]
+Hristos ne-a adus învierea,
+Când noi toți zăceam ca-n mormânt
+Cântați-I, cântați-I puterea,
+Și-al Lui minunat Nume sfânt!
+
+[v3]
+Hristos ne-a adus izbăvirea,
+Când noi toți eram greu legați
+Cântați-I, cântați-I mărirea,
+Și Numele Lui lăudați!

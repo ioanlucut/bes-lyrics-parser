@@ -1,0 +1,27 @@
+[title]
+Here to eternity {author: {Hillsong, Traducere RO}, {rcId: {4069}}
+
+[sequence]
+v1,b,c,v2,c
+
+[v1]
+Poporul Tău declară slava numelui Tău
+O, Doamne, fii înălțat mereu.
+Duhul Tău Sfânt coboară, puterea-i se revarsă
+Și gloria Ta o simțim din plin
+
+[b]
+Mântuire am acum prin Tine
+Prin sângele Tău, Isus
+
+[c]
+Aleluia, Aleluia
+Strigăm victoria Celui Viu
+Cinstea și onoarea I se cuvin
+Regelui Divin
+
+[v2]
+Aleluia, Aleluia
+Ești minunat și-n veci înălțat
+Al Tău har se revarsă acum
+De la tronul Tău

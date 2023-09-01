@@ -1,0 +1,23 @@
+[title]
+Ce frumoasa-i adunarea {author: {David Stănuș}, {rcId: {186133}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ce frumoasă-i Adunarea cu sfintele-i învățături
+Și-ntr-o sfântă părtășie se citește din Scripturii.
+
+[c]
+Cuvântul e Lumina ce s-a coborât de sus,
+Ne rugăm să ne vorbească iarăși tuturor Isus.
+Te rugăm îndreaptă astăzi tot ce-n noi nu este drept,
+Tu ești Domnul, ești Mesia, Tu ești singur înțelept.
+
+[v2]
+Fericit este poporul ce-mplinește ne-ncetat
+Evanghelia curată, tot ce Domnul ne-a-nvățat.
+
+[v3]
+Scurtă este vremea astăzi, Cel ce vine va veni
+Și pe mine și pe tine, oare cum ne va găsi?

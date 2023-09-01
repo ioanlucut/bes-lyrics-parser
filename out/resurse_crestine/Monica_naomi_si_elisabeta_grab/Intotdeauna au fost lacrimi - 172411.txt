@@ -1,0 +1,44 @@
+[title]
+Intotdeauna au fost lacrimi {author: {Monica, Naomi și Elisabeta Grab}, {rcId: {172411}}
+
+[sequence]
+v1,c,v2,c2,v3,c2
+
+[v1]
+Întotdeauna au fost lacrimi
+Au fost și fi-vor cât va fi pământul
+Atâtea lucruri ni se-ntâmplă
+Cum nu vrem noi
+Cum rău sfârșim, și plângem
+
+[c]
+/: Însă în ceruri nu vor fi
+Lacrimi în cer n-om întâlni
+Durerea mare și suspin
+Rămân aici, în cer nu vin
+În ceruri fericiri găsești
+Cum nici măcar nu te gândești
+Mai mult cât poți tu judeca
+Va fi în cer când vom intra :/
+
+[v2]
+Dar pân-atunci aici sunt lacrimi
+Dureri tu ai, și te-ntristezi, curg lacrimi
+Ferice de acei ce-n lacrimi
+Plângând vor fi, când va veni, El Sfântul
+
+[c2]
+/: Gândește-te că și Isus
+A plâns cât fost-a pe pământ
+Și gândul parcă mi s-a dus
+La Fiul Tatălui de sus
+Însă în ceruri nu vor fi
+Lacrimi în cer n-om întâlni
+Durerea mare și suspin
+Rămân aici, în cer nu vin :/
+
+[v3]
+În ceruri fericiri găsești
+Cum nici măcar nu te gândești
+Mai mult cât poți tu judeca
+Va fi în cer când vom intra

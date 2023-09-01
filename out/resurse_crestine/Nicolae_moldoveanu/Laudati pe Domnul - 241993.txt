@@ -1,0 +1,41 @@
+[title]
+Laudati pe domnul {author: {Nicolae Moldoveanu}, {rcId: {241993}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Lăudați pe Domnul,
+Voi cei mântuiți.
+Și s
+Iăvitu-I Nume
+Pururi să-L vestiți.
+Lăudați pe Domnul,
+Voi cei înviați,
+Prin trăirea voastră,
+Voia să-l ’nălțați.
+
+[c]
+Lăudați pe Domnul,
+Lăudați pe Domnul,
+Lăudați pe Domnul, amin!
+
+[v2]
+Lăudați pe Domnul
+Prin cuvânt și cânt,
+Spuneți cu tărie,
+Adevăru-I sfânt.
+Lăudați pe Domnul
+Și-I slujiți mereu,
+Harul Lui v-ajută,
+Când urcușu-i greu.
+
+[v3]
+Lăudați pe Domnul,
+Când pe cer sunt nori,
+Când cu Spini e calea
+Când trăiți fiori.
+Lăudați pe Domnul!
+- Altă slujbă nu-i
+Mai desăvârșită
+Ca slăvirea Lui.

@@ -1,0 +1,29 @@
+[title]
+N-am cuvinte {author: {Beni Moldovan}, {rcId: {60550}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Doamne Tu mi-ai salvat viața
+De la moarte și păcat
+Prin slava Ta cerească mai iertat.
+Doamne Tu mi-ai salvat viața
+O haină nouă azi mi-ai dat.
+Prin mila Ta cerească mai salvat.
+
+[c]
+/: N-am cuvinte să-ți mulțumesc pentru bunătatea Ta
+Oare cum să-ți răsplătesc Domnul meu,
+Pentru tot ce Tu ai făcut Tată sfânt în viața mea
+Voi rămâne eu dator pentru totdeauna,
+Te voi sluji Doamne toată viața!
+Cântarea mea Te va lăuda. :/
+
+[v2]
+Îți mulțumesc o Tată
+Pentru Fiul ce L-ai dat
+Să moară pentru mine, pentru-al meu păcat
+Când n-am avut pe nimeni
+Doamne Tu m-ai ajutat
+Din groapa cea adânca, m-ai ridicat.

@@ -1,0 +1,40 @@
+[title]
+Sa nu privesti inapoi {author: {Ramona Condor}, {rcId: {7239}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Să stai pe stânca mântuirii
+Senin, voios și neclintit.
+/: Chiar dacă stihiile naturii
+Pornite din adâncul firii
+Dezlănțuise-vor cumplit :/
+
+[c]
+Să nu privești ’napoi,
+Să mergi tot înainte.
+Isus va fi cu Tin’
+Prin greu și prin nevoi,
+Dar nu te da ’napoi.
+
+[v2]
+Să stai la umbra Celui veșnic
+Lumina Lui să-ți fie scut
+/: De vin văpăi de întuneric
+De-ai fi trădat de cei puternici
+Să nu te uiți la ce-ai pierdut :/
+
+[v3]
+Să stai în strânsă legătură
+Ca mădular în trupul Lui,
+/: În dragoste fără măsură
+Cu-a Duhului Sfânt armătură
+Să lupți ca fiu al Cerului :/
+
+[v4]
+Chiar dacă tremuri în furtună
+În vânt și în val vijelios
+/: De-asupra ta stă-ntins-o mână
+De cui străpunsă dar stăpână
+E mâna tare-a Lui Hristos :/

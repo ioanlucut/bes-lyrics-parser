@@ -1,0 +1,33 @@
+[title]
+In fiecare dimineata vad doamne bunatatea ta {author: {Nicu Drăghici}, {rcId: {237355}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: In fiecare dimineață
+vad doamne bunătatea ta
+Îți simt iubirea ta de tată
+Și cânt doamne spre slava ta :/
+.
+
+[c]
+/: Doamne ajuta-mi sa-mplinesc
+Cu fapte, nu doar in cuvinte
+Din zori de zi când mă trezesc
+Cuvântul tău iubit părinte :/
+.
+
+[v2]
+/: Ce zi cu binecuvântare
+Când ai in inima mereu
+A domnului cuvinte sfinte
+Trăind prin el cuvântul său :/
+.
+
+[v3]
+/: In fiecare clipă doamne
+Ajuta-mă sa fiu mereu
+Un rob supus in ascultare
+sa împlinesc cuvântul tău :/
+.

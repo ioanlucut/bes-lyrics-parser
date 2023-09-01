@@ -1,0 +1,35 @@
+[title]
+In noaptea de craciun {author: {Gabi Ilut}, {rcId: {4119}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+În noaptea sfântă de Crăciun,
+pe drumul nins de lună,
+trei magi călări, cu suflet bun,
+aleargă împreună.
+
+[v2]
+De unde vin, cum se numesc,
+ce doruri îi frământă?
+Spre iesle ei călătoresc
+și cerurile cântă.
+
+[v3]
+Și cântă inimile lor,
+aprinsă-i bucuria,
+că S-a născut Mântuitor,
+azi S-a născut Mesia.
+
+[v4]
+Veniți, și noi să-L lăudăm
+pe Domnul, cu iubire,
+ca și noi să ne bucurăm
+de marea-I mântuire!
+
+[v5]
+Mărturisindu-I vina grea,
+la El aflăm iertare
+și vom vedea o nouă stea
+pe cer cum ne răsare”

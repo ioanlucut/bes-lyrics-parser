@@ -1,0 +1,29 @@
+[title]
+De pe pamantul plin de patimi (isuse soare minunat) {author: {Otniel Stirb}, {rcId: {226948}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+De pe pământul plin de patimi
+Strigă Doamne-ai Tăi copii
+Ne-am săturat de plâns și lacrimi
+Grăbește-ți pașii să revii
+
+[c]
+/: Isuse soare minunat
+Luceafăr Sfânt de dimineață
+Mi-e dor de chipul Tău curat
+De țara dincolo de ceață :/
+
+[v2]
+Se vede-n zare o lumină
+Se văd ai dimineții zori
+Noi știm că ziua o să vină
+Când Te-om vedea venind pe nori
+
+[v3]
+De două mii de ani Isuse
+Te-așteaptă cei răscumpărați
+Să vii să dai cununa vieții
+Atâtor mii și mii de frați

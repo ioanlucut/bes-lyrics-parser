@@ -1,0 +1,35 @@
+[title]
+Spune-mi {author: {Nicolae Moldoveanu}, {rcId: {246067}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Spune-mi ai aflat iubite,
+După-atâta alergare,
+Fericirea care-o cauți
+Pe-a pământului cărare?
+Spune-mi ai aflat tu pacea
+Și odihna cea plăcută,
+În al lumii drum și leagăn
+Și-n dulceața ei părută?
+
+[v2]
+Spune-mi ai aflat dreptatea
+Și-adevărul și iubirea
+După care-ai plâns în taină
+Răscolind întreagă firea?
+Spune-mi ai aflat prin slava
+Cărților nenumărate
+Libertatea și-nțelesul
+Vieții tale-adevărate?
+
+[v3]
+Nu te-ascunde!... Ci fii sincer
+Și întreabă-te pe tine.
+- Cel ce pierde sau câștigă,
+Ești doar tu... Gândește bine!
+Toate câte tu căutat-ai,
+Poți să le-afli-acum izvorul.
+Stai! Și-ndreapt-a ta ființă
+Spre Isus Mântuitorul.

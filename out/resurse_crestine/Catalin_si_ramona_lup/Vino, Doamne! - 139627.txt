@@ -1,0 +1,26 @@
+[title]
+Vino doamne {author: {Cătălin și Ramona Lup}, {rcId: {139627}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+La noapte va veni să-Și ia ai Săi copii,
+Sus, în slava Sa, Mesia.
+Trâmbița va suna, noi ne vom bucura,
+Slăvind pe Creator cu toți în cor!
+
+[c]
+/: Vino, Doamne, mai degrabă, noi Te așteptăm cu dor
+Să cobori pe nori de slavă, să ne iei cu Tine în zbor! :/
+
+[v2]
+Cum te vei prezenta, atunci, în fața Sa?
+Vei putea privi ochii Lui senini?
+Nu mai amâna, primește dragostea,
+Pe Isus Hristos, vei fi bucuros!
+
+[e]
+Vine Domnul pe nori,
+Să-mplinească tot ce a zis.
+Vom trăi o veșnicie doar cu El!

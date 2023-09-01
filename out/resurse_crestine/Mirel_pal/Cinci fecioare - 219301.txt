@@ -1,0 +1,31 @@
+[title]
+Cinci fecioare {author: {Mirel Pal}, {rcId: {219301}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Iata Mirele apare Sa iesiti spre-ntampinare
+/: Cu candela voastra plina Mirele are sa vina
+Pregatiti-va fecioare cu lumina :/
+
+[c]
+Mirele-a venit si le-a intalnit
+Pe acele cinci, le-a rapit.
+In al Sau palat El le-a ridicat
+Iar la urma usa s-a ’ncuiat.
+
+[v2]
+Cinci fecioare intelepte Au stiut cum sa astepte
+/: Vegheatoare multumite Pentru nunta pregatite
+Inteleptele fecioare vegheatoare :/
+
+[v3]
+Iar la usa incuiata Au venit atunci sa bata
+/: Celalalte in zadar Insa nu mai este har
+Cele cinci nechibzuite adormite :/
+
+[v4]
+Iat-asa va fi atunci Rasunand prin vai si munti
+/: Glasul minunat de sus Vine Mirele Isus
+Sa iesiti spre-ntampinare voi fecioare :/

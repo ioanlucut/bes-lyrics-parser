@@ -1,0 +1,32 @@
+[title]
+In slabiciunea mea tu esti {author: {Denys Laurenciuc}, {rcId: {234760}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În slăbiciunea mea Tu ești
+Putere îndoită
+/: Tu orice lucru mi-l răzbești
+Căci Tu în mine locuiești
+Puterea cea dorită :/
+
+[c]
+/: Eu sunt sărac și ne-nsemnat
+Dar locuiește cerul în mine
+Așa eu sunt cel mai bogat
+Bogăția mea e în Tine :/
+
+[v2]
+În deznădejdea mea Tu ești
+Speranță înzecită
+/: Așa-mi arăți că mă iubești
+Și-n umilință Te apleci
+La oaia cea rănită :/
+
+[v3]
+În necredința mea, Rămâi
+Credință neclintită,
+/: Și cu iubire vrei să-mi spui
+Că vrei să dai, și-acum oricui
+Puterea înzecită :/

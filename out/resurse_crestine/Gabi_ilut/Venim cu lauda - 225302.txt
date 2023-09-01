@@ -1,0 +1,29 @@
+[title]
+Venim cu lauda {author: {Gabi Ilut}, {rcId: {225302}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Tu ești Domnul Dumnezeu adevărat
+Tu în glorie ești îmbrăcat
+Tu ești slava și lumina celor sfinți
+Tu ești Domnul marii biruinți.
+
+[c]
+Venim cu laudă rostindu-Ți Numele
+Și Te rugăm Isus primește-ne
+Avem un singur gând, să Te-onorăm cântând
+Venim să-Ți mulțumim, ascultă-ne.
+
+[v2]
+Tu ești cel ce pentru noi s-a întrupat
+Ai trăit smerit și-ndurerat
+Ai luat asupra Ta păcatul meu
+Tu ești Viața, Tu ești Dumnezeu.
+
+[e]
+Laudele noastre se îndreaptă către cer
+Inimile cântă bucuria mântuirii
+Binecuvântat să fii o Doamne, Scump Mântuitor
+Te-adorăm, ne-nchinăm, Ție îți cântăm.

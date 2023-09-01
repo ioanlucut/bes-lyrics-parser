@@ -1,0 +1,38 @@
+[title]
+Vin naintea ta {author: {Speranța}, {rcId: {80040}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Vin ’naintea Ta cu viața mea
+Îmi aplec genunchii-n fața Ta
+Las’ un strop de sânge sfânt să mă sfințească
+Haina plină de noroi să mi-o albească
+Să fiu curat, făr’ de păcat!
+
+[c]
+/: Ți-am greșit de-atâtea ori, dar îmi pare rău
+Vin ’naintea Ta cu tot trecutul meu...
+Ți-am greșit de-atâtea ori, dar îmi pare rău
+Iartă-mă, o, Doamne, fă-mă copilul Tău! :/
+
+[v2]
+Îmi aduc povara grea ’naintea Ta
+Vreau să-mi curățești deplin ființa mea
+Nu mai pot privi trecutul meu murdar
+Mă aplec cu pocăință la Calvar
+Să fiu curat, făr’ de păcat!
+
+[v3]
+N-am curaj să îmi îndrept privirea-nspre Tine
+De-atâtea ori am făcut rău și mi-e rușine
+Sufletul mi-e gol și-ndurerat
+Doamne, vin în fața Ta să fiu iertat,
+Să fiu curat, făr’ de păcat!
+
+[e]
+/: Primește-mă, primește-mă cum sunt
+Un fiu rătăcitor în lume
+Renunț la lume, renunț la păcat
+Azi mă-ntorc la Tine! :/

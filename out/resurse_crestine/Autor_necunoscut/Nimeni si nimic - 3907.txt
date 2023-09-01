@@ -1,0 +1,37 @@
+[title]
+Nimeni si nimic {author: {Anonim}, {rcId: {3907}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c
+
+[v1]
+/: Nimeni și nimic
+Să nu-ți ia pacea din inima ta :/
+
+[c]
+/: Dă-ne pacea Ta :/
+Dă-ne dragoste Doamne
+
+[v2]
+/: Viața este scurtă
+Vrăjmașul se luptă, Isuse :/
+
+[v3]
+/: Vrăjmașul răcnește
+Dar nu ne lovește sufletul :/
+
+[v4]
+/: Când sunt în încercare
+Dă-mi a Ta răbdare Isuse :/
+
+[v5]
+/: Scurtă ni-e credința
+Dă-ne biruința Isuse :/
+
+[v6]
+/: S-ajungem acasă
+Și să-ți fim mireasă Isuse :/
+
+[v7]
+/: Ajută-ne cu bine
+S-ajungem la Tine Isuse :/

@@ -1,0 +1,45 @@
+[title]
+O spune-mi fiul meu {author: {Daniela Haidaciuc}, {rcId: {212681}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+O, spune-Mi, fiul meu,
+O, spune-Mi ce te doare
+Căci Eu vreau să alin
+A ta durere mare.
+/: La crucea Mea să vii
+Cu rana-nsângerată
+Să-Mi spui așa cum știi
+A ta durere toată :/
+
+[v2]
+O, spune-Mi, fiul meu,
+Ce te înfricoșează
+De ce te temi ades
+Și ochii-ți lăcrimează.
+/: Când te păzesc mereu
+Iar Duhul Meu e-n tine
+Când Eu sunt Tatăl tău
+Iar tu trăiești prin Mine :/
+
+[v3]
+O, spune-Mi, fiul meu,
+O, spune-Mi ce te ține
+Încă-n păcatul tău
+Să nu te-ntorci la Mine
+/: O spune-Mi, fiul meu,
+Căci vreau să-ți dau iertare
+Și sufletului tău
+Să-i dau eliberare :/
+
+[v4]
+Tu, drag copilul Meu,
+Ce porți atâtea doruri
+Se vor sfârși-ntr-o zi
+La locul tău din ceruri.
+/: Fii tare-n orice ceas
+Și-nvinge suferința
+Căci singur nu te las
+Ci-ți întăresc credința :/

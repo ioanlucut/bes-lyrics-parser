@@ -1,0 +1,29 @@
+[title]
+Vestea buna ingerii-au adus - sol maj {author: {ed. Dan Istrate}, {rcId: {222704}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Vestea bună, îngerii-au adus,
+Vestea bună la noi a ajuns
+S-a născut Mesia profețit,
+Pe pământ Isus S-a coborât.
+
+[c]
+Slavă sus în ceruri, pace pe pământ!
+S-a născut Mesia, Domnul nostru Sfânt!
+Cor de îngeri cântă Lui neîncetat
+Numele Lui fie lăudat!
+
+[v2]
+Saltă Betleeme, mic oraș
+Azi în tin’ se naște-un copilaș!
+Domnul cerului s-a întrupat
+Să ne mântuiască din păcat!
+
+[v3]
+Îngerii cu toții cântă-n cor
+Pace fie astăzi tuturor,
+Voie bună pe pământ, mereu,
+Între cei plăcuți lui Dumnezeu!

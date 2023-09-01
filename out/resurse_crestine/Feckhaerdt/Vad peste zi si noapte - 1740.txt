@@ -1,0 +1,26 @@
+[title]
+Vad peste zi si noapte {author: {F.Eckhaerdt}, {rcId: {1740}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Văd peste zi și noapte, Isuse, chipul Tău
+Și mă întreb: ”
+O, Doamne, ce fel de trai duc eu?”
+
+[c]
+O, Doamne-n întregime, pe veci eu sunt al Tău
+Nu pot trăi făr’ tine, Isuse, Domnul meu!
+
+[v2]
+O Doamne, -n întregime, pe veci eu sunt al Tău.
+Produc amărăciune și chin făr’ de folos.
+
+[v3]
+M-am tânguit adesea când rele am făcut.
+Isus acuma insă de pace m-a umplut.
+
+[v4]
+Mereu de-i zi sau noapte în mine-I chipul Tău.
+Și spun cu bucurie Isuse, sunt al Tău.

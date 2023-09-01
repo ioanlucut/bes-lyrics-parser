@@ -1,0 +1,23 @@
+[title]
+Nu descuraja {author: {Romeo Stan}, {rcId: {55621}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+După încercări apar și bucurii,
+Nu descuraja, ține-ți credința ta,
+Chiar valuri și furtuni în tine de-or lovi,
+Isus este cu tine, nu te va părăsi.
+
+[c]
+/: Tu nu dipera, nu descuraja,
+Cu tine e Isus, e chiar la dreapta ta,
+Tu cere-L pe Hristos: îți este de folos,
+Și la greu mereu să stai pe brațul Său :/
+
+[v2]
+Cu Domnul în Cer necazuri n-or mai fi,
+Și în loc de lacrimi vor fi bucurii,
+Căci Domnul Isus ne va Mângâia,
+Și plânsul și durerea nu vor mai exista.

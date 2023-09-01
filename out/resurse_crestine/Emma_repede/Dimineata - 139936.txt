@@ -1,0 +1,27 @@
+[title]
+Dimineata {author: {Emma Repede}, {rcId: {139936}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+E liniște, e noapte-afară, totul s-a oprit
+Dar luna, ea veghează cerul,
+Ce a adormit.
+Privesc înspre Tine
+Mi-e sufletul pustiu,
+Aștept să treacă noaptea și nu știu.
+
+[c]
+/: Poate dimineață, vei apărea pe nori,
+Dimineață, mă vei trezi în zori,
+Dimineață, va fi o nouă zi,
+Dimineață, poate vei veni! :/
+
+[v2]
+Noaptea a trecut, o, Doamne,
+Totuși n-ai venit,
+E o nouă zi în care Te aștept să vii.
+Privesc înspre Tine,
+Mi-e dor să Te-ntâlnesc,
+Să-Ți spun: O, Doamne, Te iubesc!

@@ -1,0 +1,47 @@
+[title]
+Nu mi-ai cerut {author: {Nicolae Moldoveanu}, {rcId: {244568}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,c4
+
+[v1]
+Nu mi-ai cerut aloe,
+Stăpânul meu iubit,
+Știai ce flori puține,
+În suflet mi-ai rodit!
+
+[c]
+Nu mi-ai cerut tămâie,
+Cât cerul cel mai sus,
+Știai ce slab jăratic,
+În suflet mi-am adus!
+
+[v2]
+Și nici în vistierie,
+S-arunc cât cei avuți,
+Știai că toată-averea,
+Mi-s numai doi bănuți.
+
+[c2]
+Ci mi-ai sădit în suflet,
+Un crin, un singur crin,
+Și-n cea mai albă stare,
+Doreai să Ți-l închin.
+
+[v3]
+Nu mi-ai cerut nici aur,
+Știau că n-am să pot,
+Nici mult, nici scump,
+Nici vrednic, cum trebuie să scot.
+
+[c3]
+Mi l-ai luat și-n talpa,
+Iubirii i-ai zdrobit,
+Mireasma lui, Isuse,
+Era tot ce-ai dorit.
+
+[c4]
+Primește-mi-o Stăpâne,
+Ca lacrima Iui Rut,
+Curgându-Ți pe picioare,
+Cucernic și tăcut.

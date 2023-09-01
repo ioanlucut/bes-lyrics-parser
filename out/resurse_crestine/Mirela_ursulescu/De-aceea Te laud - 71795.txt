@@ -1,0 +1,35 @@
+[title]
+De-aceea te laud {author: {Mirela Ursulescu}, {rcId: {71795}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+În Cartea Vieții numele mi-ai scris
+Să fiu cu Tine Isuse-n Paradis
+Îți mulțumesc Isuse Prea Iubit
+Căci Eu cu Tine mă simt doar fericit
+
+[c]
+/: De-aceea Te laud
+Isus Te slăvesc
+Din inima Tată
+Îți mulțumesc. :/
+
+[v2]
+Plătit-ai prețul păcatului meu
+Iar azi Isuse te laud mereu
+Căci sângele care-a curs pe Calvar
+Mi-a dat viața veșnică-n dar
+
+[v3]
+Îmi ești alături Isuse la greu
+Iar Duhul Sfânt mă mângâie mereu
+Iertare-mi dai adesea când greșesc
+Mă simt iubit, sunt Fiu de Dumnezeu
+
+[c2]
+/: Și vreau, o, Isuse
+Când vei reveni
+Cu Tine în slavă
+Cu Tine să fiu. :/

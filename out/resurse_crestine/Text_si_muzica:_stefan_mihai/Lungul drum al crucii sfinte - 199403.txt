@@ -1,0 +1,35 @@
+[title]
+Lungul drum al crucii sfinte {author: {Text și muzica: Ștefan Mihai}, {rcId: {199403}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Lungul drum al crucii sfinte
+Doamne, ai urcat
+Și povara mea pe umeri
+Singur ai purtat.
+Nu sunt vrednic de iubire,
+Dar Tu m-ai iubit.
+De păcate m-ai spălat
+Și m-ai mântuit.
+
+[c]
+/: Îți mulțumesc Isuse
+Că m-ai izbăvit.
+Îți mulțumesc Părinte
+Că m-ai mântuit.
+Doar prin jertfa Ta
+Azi am dragostea
+Și pot să cânt
+Despre numele Tău mare și sfânt. :/
+
+[v2]
+Tu ai înviat în slavă
+Și la cer Te-ai dus.
+Străzi de aur mă așteaptă
+În casa de sus.
+Nu sunt vrednic, dar în drepturi
+Tată, Tu m-ai pus
+Să trăiesc o veșnicie
+Cu Domnul Isus.

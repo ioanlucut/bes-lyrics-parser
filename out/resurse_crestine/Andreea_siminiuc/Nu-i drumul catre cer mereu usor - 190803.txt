@@ -1,0 +1,41 @@
+[title]
+Nu-i drumul catre cer mereu usor {author: {Andreea Siminiuc}, {rcId: {190803}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Nu-i drumul către Cer mereu ușor
+Dar tu să lupți căci prin Isus tu poți
+/: Să învingi orice-ncercare, să primești eliberare
+Bucurie în loc de întristare. :/
+
+[c]
+Nu descuraja, nu te-nfrica
+Cel Atotputernic e de partea ta
+Spune-I Lui acum ce te apasă
+Căci a promis că nicicând nu te lasă!
+
+[v2]
+Oricât de mare ar fi problema ta,
+Isus Hristos o poate rezolva!
+/: La timp El va trimite, izbăvire din ispite,
+Celor ce-așteaptă îndurarea Sa. :/
+
+[c2]
+Tu să te-ncrezi în El și vei vedea
+Cum va porunci furtunii să stea!
+El este Dumnezeu neschimbat,
+Răspunde atunci când este chemat!
+
+[v3]
+Când orice lucru e în Mâna Sa
+De ce te-ngrijorezi de viața ta?
+/: El asupra ta veghează, sufletu-ți înviorează
+Și viața ta o binecuvintează! :/
+
+[c3]
+/: Cântă suflete neîncetat
+Laudă-L pe Cel ce viață ți-a dat
+Laudă-L și-n greu și-n bucurii
+Laudă-L pe El în orice zi! :/

@@ -1,0 +1,27 @@
+[title]
+Dragostea-i un pod {author: {Anonim}, {rcId: {4901}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Dragostea-i un pod
+Între cer și noi,
+Dragostea-i un pod,
+Hai să ne unim.
+
+[c]
+Inima mea strigă-ntruna
+Să-nțeleagă orice om
+Că dragostea, doar ea,
+Este tot ce-i mai frumos.
+Este singura-mi dorință
+Să meargă toți
+Pe drumul nemuririi
+Pe calea către cer, ca-n viață.
+
+[v2]
+Când stăm împreună
+Nimic nu ne desparte
+Că-nspre cer dragostea, dragostea
+Ne arată drumul vieții.

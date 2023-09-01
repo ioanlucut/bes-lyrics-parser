@@ -1,0 +1,26 @@
+[title]
+Osana osana osana-n inaltime {author: {Anonim}, {rcId: {5032}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Osana, Osana, Osana-n înălțime.
+Tu ești Rege și Domn,
+Prin putere domnești.
+Slava Ta se va descoperi.
+Osana-n înălțime.
+
+[v2]
+Glorie, glorie, glorie Regelui Isus.
+Tu ești Rege și Domn,
+Prin putere domnești.
+Slava Ta se va descoperi,
+Glorie Regelui Isus.
+
+[v3]
+Glorie, glorie, glorie Regelui Isus.
+Tu ești Rege și Domn,
+Prin putere domnești.
+Slava Ta se va descoperi,
+Osana-n înălțime.

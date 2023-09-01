@@ -1,0 +1,36 @@
+[title]
+Ingerii soptesc {author: {Anonim}, {rcId: {66668}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Crestinilor noi astazi
+Un praznic mare avem.
+/: Ca sa-L putem cunoaste,
+Veniti la Betleem. :/
+
+[c]
+/: Ingerii soptesc, lumii-ntregi vestesc
+Astazi e Craciun.
+Astazi S-a nascut,
+Cel far’de-nceput
+Astazi e Craciun :/
+
+[v2]
+S-a nascut in lume
+Cel ce-L asteptam,
+/: Isus al nost’ Mesia,
+Veniti ca sa-L vedem. :/
+
+[v3]
+Pe paie-ntre vite
+Isus este strain
+/: Sa-I ducem si noi daruri,
+Veniti la Viflaeem. :/
+
+[v4]
+Sa mergem cu pastorii
+Si sa-l preamarim
+/: Spre-a noastra mantuire
+Veniti la Viflaeem :/

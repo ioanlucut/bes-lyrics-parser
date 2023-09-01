@@ -1,0 +1,42 @@
+[title]
+M-a atins un inger {author: {Florin Modog}, {rcId: {131313}}
+
+[sequence]
+c,v1,c,v2,b,c,e
+
+[c]
+M-a atins un înger
+Simt că m-a atins
+Lacrima să-mi șteargă
+Doamne L-ai trimis!
+/: M-a atins un înger
+Simt că m-a atins
+Lacrima să-mi șteargă
+Doamne L-ai trimis! :/
+
+[v1]
+Tu știi Doamne-n ascuns ce se întâmplă
+Și toate-n taină veșnic le pătrunzi
+Atunci când nu m-aștept, ești lângă mine
+Sub a Ta umbră, Doamne, mă ascunzi
+În rugă Doamne îmi aștern ființa
+Și vreau ca-n toate un cuvânt să spun
+Când cerurile se deschid în slavă
+Cu sfinții Tăi în ceruri Tu mă sui
+
+[v2]
+De voi zidi Doamne-n pustiu altare
+Și-acolo dreapta Ta mă va păzi
+Lovi-vei stânci să îmi dai alinare
+Din apă proaspătă ce va țâșni
+Cu foc din cer să îmi aprinzi Tu jertfa
+Mâna din ceruri, Doamne, să îmi dai
+Aceasta-i ruga mea ce se înalță
+Spre Cerul Tău de pe al meu altar!
+
+[b]
+/: Și-un înger ai trimis atunci din ceruri
+Să ia la Tine toată jertfa mea :/
+
+[e]
+M-a atins un înger....

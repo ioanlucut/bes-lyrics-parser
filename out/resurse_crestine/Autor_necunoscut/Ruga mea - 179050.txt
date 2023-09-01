@@ -1,0 +1,40 @@
+[title]
+Ruga mea {author: {Anonim}, {rcId: {179050}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,e
+
+[v1]
+Doamne Te-aș ruga fierbinte,
+Cât trăiesc jos pe pământ,
+Să îmi dai cuvinte sfinte,
+Și un gând în totul Sfânt.
+
+[c]
+/: Iar de vezi vreodată, Doamne
+Că nu sunt pe calea bună,
+Tu mă cheamă iar pe nume
+Și adu-mă iar în turmă. :/
+
+[v2]
+Doamne nu-mi da bogăție,
+Dă-mi doar pâinea zilnică,
+Dar nu mă lipsi vreodată,
+De-a Ta hrană veșnică.
+
+[v3]
+Dă-mi o minte înțeleaptă,
+Să aleg doar ce bine.
+Doamne fii milos cu mine,
+Ține-mă doar lângă Tine.
+
+[v4]
+Doamne, de nu Îți par prea multe,
+Dă-mi și o inimă curată
+Care să iubească frații
+Și dușmanii și orfanii.
+
+[e]
+/: Ruga mea s-ajungă, la Tine sus
+Eu aș vrea o, Domnul meu! :/
+Eu aș vrea o, Domnul meu!

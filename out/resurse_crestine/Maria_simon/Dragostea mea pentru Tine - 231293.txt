@@ -1,0 +1,29 @@
+[title]
+Dragostea mea pentru tine {author: {Maria Șimon}, {rcId: {231293}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Să Te aștept Isus aș vrea,
+Cu inima arzând de dor,
+Să-mi ardă necurmat în piept
+Cel mai aprins și sfânt fior!
+
+[c]
+/: Dragostea mea pentru Tine
+Zi de zi aș vrea să-mi crească,
+Vreau sa fiu așa ca Tine,
+Dă-mi puterea Ta cerească! : \
+
+[v2]
+Să mă înalț spre cer zi de zi,
+Spre Casa mea eternă din veșnicii;
+Mă leagă un dor sfânt de Țara mea,
+Acolo e Isus, speranța mea!
+
+[v3]
+Sunt străin pe acest Pământ,
+Rătăcitor într-un pustiu,
+Dar cât de grea îmi va fi înaintarea,
+Tot ce îmi doresc e lângă El să fiu!

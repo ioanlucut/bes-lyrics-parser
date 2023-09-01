@@ -1,0 +1,29 @@
+[title]
+Randunica {author: {Alexandru Groza}, {rcId: {193472}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+A sosit o rândunică la căsuța mea cu flori
+De departe, obosită, de vântul de-adineaori
+
+[c]
+Veselă ea ciripește și-mi spune: bun găsit
+... rândunica a venit
+
+[v2]
+Spune-mi dragă rândunică: tu pe unde-ai colindat?
+Domnul ți-a purtat de grijă peste mări când ai zburat?
+
+[c2]
+Îți vei crește puișorii pe cei dragi ca altădat’
+Îi vei învăța să zboare sus pe cerul cel înalt?
+
+[v3]
+Și când iarna iar veni-va, tu de-aicea vei pleca
+Înspre țările mai calde, o, te rog nu mă uita!
+
+[c3]
+Vino iar cu primăvara, eu te-aștept, nu mă uita!
+Vino dragă rândunică, vino rândunica mea!

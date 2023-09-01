@@ -1,0 +1,47 @@
+[title]
+Din tinutul cezareii {author: {Nicolae Moldoveanu}, {rcId: {5812}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Din tinutul Cezareii
+Trecea Isus cu-nvatacei.
+I-a-ntrebat Isus: „
+Drept cine,
+Oamenii Ma iau pe Mine?”
+
+[v2]
+Ei I-au zis: „
+Te ia poporul
+Drept Ioan Botezatorul!
+Drept Ilie-or Daniel,
+Sau altii profeti la fel.”
+
+[v3]
+„
+Iara voi din jurul Meu,
+Cine ziceti ca sunt Eu?”
+Petru-a zis: „
+Esti scumpul Fiu
+Al lui Dumnezeu cel viu!”
+
+[v4]
+Dar Isus i-a glasuit:
+„
+Tu esti Petru, fericit!
+Asta, nu un om ti-a spus!
+Ci chiar Tatal cel de sus.”
+
+[v5]
+„
+Tu esti Petru-alesul Meu,
+Si pe-aceasta piatra, Eu
+Voi zidi Biserica!
+Veacuri n-o vor darama.
+
+[v6]
+Nici chiar Iadul nu-i in stare
+La pamant sa Mi-o doboare!
+Tie-ti dau de-aici-nainte
+Cheia-mparatiei sfinte.”

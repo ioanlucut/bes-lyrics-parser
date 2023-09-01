@@ -1,0 +1,29 @@
+[title]
+Biblia {author: {Daniel Cristian}, {rcId: {99965}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când vin la Tine, Doamne
+Sunt slab și n-am putere
+Dar Cuvântul Tău, Isuse
+Îmi dă și mângâiere
+
+[c]
+/: Căci Biblia este cartea
+Vieții de creștin
+Ce trebuie împlinită
+Aici pe pământ :/
+
+[v2]
+Pe genunchi m-aplec, Isuse
+În fața tronului Divin
+Prin rugă Îți voi spune
+Păcatul pe deplin
+
+[v3]
+Prin îndurarea Ta
+Eu pot spera
+Căci mă vei ierta
+Prin iubirea Ta

@@ -1,0 +1,24 @@
+[title]
+Noapte de craciun {author: {Diaz Amos}, {rcId: {237951}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Într-o noapte, într-un staul s-a născut Isus, Mesia
+Pe fețe a adus bucuria!
+Numai Irod enervat, vrut-a să scape de El
+De Pruncul venit din cer!
+
+[c]
+Noapte de Crăciun, vis frumos împlinit
+La toți zâmbete presară;
+Ne amintește de Isus, cel venit din cer, de sus
+Pentru a scoate lumea din grea ocară!
+
+[v2]
+Iar păstorii văzut-au steaua și spre ea s-au îndreptat,
+Spre staulul înflăcărat.
+Cântă toată zarea, cântă de răsună tot
+pământul,
+Căci s-a împlinit Cuvântul!

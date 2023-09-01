@@ -1,0 +1,33 @@
+[title]
+Laudat sa fii isuse {author: {Cristian Văduva}, {rcId: {118495}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Lăudat să fii Isuse
+Bucurie mare-n cer
+Este astăzi
+C-a dat Domnul
+Pe Isus, Emanuel.
+
+[c]
+Și stele Îl cântă
+Și magii la fel
+Păstorii aleargă
+S-ajungă la El.
+
+[v2]
+La Isus
+Găsim nădejdea
+Și puterea de-a trăi
+Chiar și-n nopți întunecate
+Cu Isus vom birui.
+
+[v3]
+Bucurati-vă cu toții
+Șchiopi și surzi
+Săraci și orfani
+Azi primiți de sus
+Din ceruri
+Mântuire fără banii.

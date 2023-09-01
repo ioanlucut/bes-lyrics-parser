@@ -1,0 +1,29 @@
+[title]
+Canta striga {author: {Cristian Văduva}, {rcId: {202328}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cântă, strigă, cheamă-L, cere-I
+Chiar de ești în clipa cea mai grea,
+Domnul poate biruința să ți-o dea
+Pe loc, prin Dreapta Sa!
+
+[c]
+/: Nu te încrede în puterea ta, ca și frunza se va veșteji,
+Te încrede în puterea Sa, ai s-o primești și tu vei birui! :/
+Tata-n Ceruri mă iubește, și m-a așezat pe brațul Său,
+Zi de zi mă ocrotește, m-a ales să fiu copilul Său!
+
+[v2]
+Oști de duhuri, peste tine,
+De-au venit și te-au împresurat,
+Domnul poate, într-o clipă,
+Să te elibereze de păcat!
+
+[v3]
+Nu fi singur și vegherea
+Cere pază gărzilor de Sus,
+Și-atunci sta-vei în picioare,
+Susținut de brațul Lui Isus!

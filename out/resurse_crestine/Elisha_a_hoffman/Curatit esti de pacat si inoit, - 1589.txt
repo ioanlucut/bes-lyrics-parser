@@ -1,0 +1,29 @@
+[title]
+Curatit esti de pacat si inoit {author: {Elisha A. Hoffman}, {rcId: {1589}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Curățit ești de păcat și înoit,
+Prin sfânt sângele al lui Isus?
+Ești născut din nou, de patimi mântuit,
+Prin sfânt sângele al lui Isus?
+
+[c]
+/: Vrei să fii mântuit?
+Și de tot păcatul curățit?
+Vin’ te spală pe Golgota-n sânge sfânt
+Și-ascultă al lui Isus Cuvânt! :/
+
+[v2]
+Când sfințit ești prin sângele lui Hristos,
+Îi cânți laudă Lui neîncetat,
+Nimic nu ți-e mai plăcut și mai frumos,
+Decât să te păzești de păcat!
+
+[v3]
+Când satan te vede că așa trăiești
+Și prin sângele sfânt ești spălat,
+Te încearcă-n luptă, tu il biruiești
+Și el pleacă atunci rusinat.

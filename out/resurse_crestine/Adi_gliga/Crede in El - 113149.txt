@@ -1,0 +1,30 @@
+[title]
+Crede in el {author: {Adi Gliga}, {rcId: {113149}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Crede în El, crede în El
+Lui te închină,
+Celui ce a murit pentru noi.
+
+[v2]
+Nu te-ndoi, nu te-ndoi
+Lui te închină
+Celui ce a murit pentru noi.
+
+[v3]
+Slavă dă-I Lui, Slavă dă-I Lui
+Lui te închină
+Celui ce a murit pentru noi.
+
+[v4]
+El va veni, El va veni
+Lui Te închină
+Celui ce a murit pentru noi.
+
+[v5]
+Crede în El, crede în El
+Lui Te închină
+Celui ce a murit pentru noi.

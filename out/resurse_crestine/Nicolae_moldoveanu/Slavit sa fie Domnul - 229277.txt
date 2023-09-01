@@ -1,0 +1,17 @@
+[title]
+Slavit sa fie domnul {author: {Nicolae Moldoveanu}, {rcId: {229277}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Slăvit să fie Domnul, cântă copii în cor
+căci El prin jerfa-I sfântă, ni-I scump Mântuitor!
+
+[c]
+Slăvit să fie Domnul, cântăm cu-n duh senin,
+slăvit să fie Domnul, în veci, amin!
+
+[v2]
+Slăvit să fie Domnul, căci El a înviat,
+Și pentru noi, la ceruri, slăvit S-a înălțat!

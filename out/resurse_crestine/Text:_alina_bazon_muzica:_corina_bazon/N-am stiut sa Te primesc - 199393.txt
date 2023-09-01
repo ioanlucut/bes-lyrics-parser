@@ -1,0 +1,30 @@
+[title]
+N-am stiut sa te primesc {author: {Text: Alina Bazon, Muzica: Corina Bazon}, {rcId: {199393}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+N-am știut să Te primesc în casa mea, Isus
+Și n-am crezut că Tu ești Cel Sfânt venit de sus.
+Am avut o inimă așa de înghețată,
+Că Te-am lăsat să Te naști în ieslea-nfrigurată.
+
+[c]
+/: Azi Ți-am deschis o iesle în inima mea
+Și, te rog, primește căldura din viața mea
+Căci n-am altceva, Isuse, mai scump sau mai prețios.
+De când Te-am găsit, doar Tu ești Prințul meu, Hristos! :/
+
+[v2]
+Cum aș fi putut să cred c-al lumii Rege
+A venit în chip de Prunc să se nască-n iesle?
+Ar fi trebuit s-aleagă aur și palate,
+Nu o iesle din a Betleemului cetate.
+
+[v3]
+La iesle doar păstorii în grab’ au alergat
+Și înaintea Pruncului Isus s-au închinat.
+Iar magii au venit tocmai de la răsarit
+Să-I aducă daruri și un: ”
+Bun venit!”

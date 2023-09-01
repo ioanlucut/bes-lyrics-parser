@@ -1,0 +1,17 @@
+[title]
+Plini de bucurie (dient dem herrn mit wonne) {author: {Eduard Eyth, Karl August Groos, Traducere RO}, {rcId: {224105}}
+
+[sequence]
+v1,v2
+
+[v1]
+Plini de bucurie, Domnului slujim
+Razele Lui calde, ne conduc sublim!
+Noi suntem lucrarea Domnului slăvit
+Sfânt popor ce-n toate, El l-a ocrotit!
+
+[v2]
+Să intrăm cu laude în locașu-I sfânt
+Slăvind al Său Nume pe acest pământ!
+Mare-i bunătatea Domnului slăvit
+Cu-al Său har din ceruri, El ne-a mântuit!

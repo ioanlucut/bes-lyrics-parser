@@ -1,0 +1,29 @@
+[title]
+Totul este doar desertaciune {author: {Dănuț Așchilean}, {rcId: {211828}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Totul este doar deșertăciune
+Totul este goană după vânt
+/: Răutatea a ajuns la culme
+Bântuie păcatul pe pământ, pământ. :/
+
+[c]
+/: Doar prin jertfa sfântă de pe cruce
+Ce-a depus-o pentru noi Isus
+Numai îndurarea Lui aduce
+Viață veșnică în ceruri sus. :/
+
+[v2]
+Mulți sunt prinși de pofte și păcate
+Mulți de mreaja morții sunt legați
+/: Mulți sunt privați azi de libertate
+Pentru adevăr sunt torturați. :/
+
+[v3]
+Iată vine ziua judecății
+Când în fața Domnului vom sta
+/: Se apropie ziua dreptății
+Când Isus răsplata ne-o va da, ne-o da. :/

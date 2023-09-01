@@ -1,0 +1,29 @@
+[title]
+Doamne tu vorbeste-mi {author: {Anonim}, {rcId: {1774}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Doamne, Tu, vorbește-mi
+Tainic liniștit.
+Inima când strigă
+Lasă-Te găsit.
+
+[v2]
+Bunule, Părinte,
+Fă din acest ceas
+Inimii trudite
+Un duios popas.
+
+[v3]
+Stele când pe boltă
+Clar vor răsări,
+Tu să-mi torni în suflet
+Pace, bucurii.
+
+[v4]
+Pe cărarea vieții
+Stâlp de foc și nor
+Tu rămâi de-a pururi,
+Braț ocrotitor.

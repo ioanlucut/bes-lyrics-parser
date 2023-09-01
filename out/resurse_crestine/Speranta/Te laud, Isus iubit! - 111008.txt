@@ -1,0 +1,43 @@
+[title]
+Te laud isus iubit {author: {Speranța}, {rcId: {111008}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Te laud, Isus iubit,
+Te laud că Te-ai jertfit!
+Te laud că m-ai salvat,
+Te laud că m-ai iertat!
+
+[c]
+Se cuvine să trăiesc
+Domnului să Îi sluijesc!
+Căci viață de la El primesc,
+Să Îl laud ne-ncetat
+Pe Acel ce m-a salvat
+Doamne, fii în veci glorificat!
+Să răsune până Sus,
+Pân’ la Tine, drag Isus!
+Primește-a mea cântare, Domnul meu!
+Vreau să fie ca un dar,
+Ca o jertfă pe altar,
+Căci Te am pe Tine, o, ce har!
+Îți mulțumesc că m-ai salvat,
+Că sunt un fiu răscumpărat!
+Îți mulțumesc mereu, o, Doamne Preaînalt!
+Îți mulțumesc că sunt al Tău,
+Că sunt un fiu de Dumnezeu.
+Îți mulțumesc pentru toate astăzi, Domnul meu!
+
+[v2]
+Îți cânt din inimă
+O cântare de laudă!
+Îți cânt, o, Doamne Sfânt
+De aici, de pe Pământ!
+
+[v3]
+Îți mulțumesc, Drag Stăpâne,
+Pentru apă, pentru pâine,
+Pentru păcatele iertate
+O, ce mare bunătate!

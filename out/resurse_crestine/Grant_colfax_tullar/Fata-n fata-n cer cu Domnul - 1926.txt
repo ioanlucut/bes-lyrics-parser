@@ -1,0 +1,29 @@
+[title]
+Fata-n fata-n cer cu domnul {author: {Grant Colfax Tullar}, {rcId: {1926}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Fata-n fata-n cer cu Domnul,
+Fata-n fata cum va fi,
+Cand pe Cel jertfit
+Pe cruce glorios Il voi privi?
+
+[c]
+Fata-n fata-L voi vedea
+Eu peste cerul instelat;
+Fata-n fata-atunci in slava
+Cu El voi fi ne-ncetat!
+
+[v2]
+Il privesc doar prin credinta
+Asteptandu-L zi de zi,
+Dar va fi o clipa-n care
+El pe nori va reveni!
+
+[v3]
+O, ce mare bucurie
+Cand vom fi-n prezenta Lui!
+Cand durerea va apune
+Si-n lumina Lui vom sta!

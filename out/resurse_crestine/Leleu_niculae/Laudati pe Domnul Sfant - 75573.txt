@@ -1,0 +1,41 @@
+[title]
+Laudati pe domnul sfant {author: {Leleu Niculae}, {rcId: {75573}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Lăudați pe Domnul Sfânt
+Alelu, Aleluia
+Lăudați pe El cântând
+Alelu, Aleluia
+
+[c]
+Laudă-l,
+Laudă-l
+Laudă-l pe El cântând
+Alelu,
+Aleluia
+
+[v2]
+E născut la Betleem
+Alelu, Aleluia
+Fiu de om de Dumnezeu
+Alelu, Aleluia
+
+[c2]
+E Isus, e Isus
+Fiu de om de Dumnezeu
+Alelu,
+Aleluia
+
+[v3]
+Și-ntr-o zi vom fi cu El
+Alelu, Aleluia,
+Fericit în raiul Său
+Alelu, Aleluia
+
+[c3]
+Primește-l, primește-l
+Primește-l pe Domnul Sfânt
+Alelu, Aleluia

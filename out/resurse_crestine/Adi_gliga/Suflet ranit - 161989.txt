@@ -1,0 +1,23 @@
+[title]
+Suflet ranit {author: {Adi Gliga}, {rcId: {161989}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Nu te-ngrijora, soarele dacă apune
+Nu rămâne-ascuns, te va lumina din nou.
+Știu că ești rănit, însă e o zi ce vine
+Când durerea ta, vei vedea, nu va mai fi.
+
+[c]
+\: Nu...! Drumul tău e greu,
+Dar nu te-opri!
+Poate toți te vor lovi,
+Să te-ncrezi în Dumnezeu! :\
+
+[v2]
+Dacă poți iubi și când nimeni nu-ți va spune,
+Gândul cel mai bun: E cu tine Dumnezeu!
+Știu că ești zdrobit și că vine-o zi anume
+Când vei fii înălțat lângă Cel ce te-a păzit.

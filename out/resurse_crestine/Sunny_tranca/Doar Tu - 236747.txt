@@ -1,0 +1,39 @@
+[title]
+Doar tu {author: {Sunny Tranca}, {rcId: {236747}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Doar Tu îmi dai speranță,
+Doar Tu mă întărești,
+Doar Tu îmi dai viața,
+Doar Tu mă eliberezi.
+Diar Tu îmi dai lumină,
+Doar Tu mă înveselești,
+Doar Tu îmi dai iubirea,
+Doar Tu mă restaurezi.
+
+[c]
+/: Inima mea, Tată, se încrede în Tine
+Atunci când eu nu văd nimic.
+Sufletul meu se bazează pe Tine
+Și atunci când eu nu Te simt.
+Toată ființa mea Te adoră pe Tine,
+Ești cea mai mare minune a mea!
+Eu îmi ridic azi privirea spre Tine,
+Tu ești nădejdea mea! :/
+
+[v2]
+Doar Tu îmi ridici privirea
+Atunci când eu sunt umilit,
+Doar Tu îmi dai mângâierea
+Atunci când de viață eu sunt lovit.
+Doar Tu îmi dai confidența
+Atunci când eu sunt la pământ,
+Doar Tu îmi dai credința
+Să știu în Cine am crezut și cine eu sunt.
+
+[e]
+/: Tu ești nădejdea mea, doar Tu ești nădejdea mea,
+Fără Tine, Doamne, eu nu pot exista :/

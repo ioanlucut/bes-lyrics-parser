@@ -1,0 +1,29 @@
+[title]
+Isus e-n cer {author: {Anonim}, {rcId: {5229}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Isus e-n cer si El mă vede
+Nu pot să păcătuiesc
+Isus e-n cer si El mă vede
+De El trebuie să mă tem :/
+
+[c]
+Ochii Lui văd tot pământul
+Nu pot să păcătuiesc
+Ochii Lui văd tot pământul
+De El trebuie să mă tem
+
+[v2]
+/: Isus din ceruri a venit
+La Golgota El s-a jertfit
+De sub lege m-a scăpat pe veci
+Ca să fiu iertat :/
+
+[v3]
+/: Când voi ajunge-n ceruri sus
+Voi fi în slavă cu Isus
+Cu îngerii îi voi cânta
+Pe veci aleluia :/

@@ -1,0 +1,42 @@
+[title]
+Vine o zi si e aproape {author: {Daniel Briciu}, {rcId: {240369}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Vine o zi și e aproape
+Când toți cei buni se duc la Dumnezeu.
+Vine o zi, dar și o noapte
+Când toți cei răi se duc în chinul greu.
+
+[c]
+Tu unde mergi? Pe care cale?
+Și care este destinația ta?
+/: Alergi spre cer sau mergi în jale?
+Alege azi căci azi e șansa ta. :/
+
+[v2]
+Vine o zi și numai una
+Isus se-ntoarce ca Judecător.
+De-ai fost al Lui primești cununa
+Sau plânsul și scrâșnirea dinților.
+
+[c2]
+Tu unde mergi? Te-oprește-o clipă,
+Verifică-ți busola inimii.
+/: De mergi spre iad, acum te-ntoarce,
+Isus te vrea cu El în veșnicii. :/
+
+[v3]
+Vine o zi și-i foarte-aproape
+Când s-a sfârși cu noaptea de păcat.
+Vine Isus, poate la noapte
+Și vei culege tot ce-ai semănat.
+
+[c3]
+/: Tu unde mergi? Pe care cale?
+Și care este destinația ta?
+/: Alergi spre cer sau mergi în jale?
+Alege azi căci azi e șansa ta! :
+/:/

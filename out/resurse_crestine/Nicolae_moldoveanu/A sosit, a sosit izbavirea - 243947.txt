@@ -1,0 +1,35 @@
+[title]
+A sosit a sosit izbavirea {author: {Nicolae Moldoveanu}, {rcId: {243947}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+A sosit, a sosit izbăvirea,
+S-a sfârșit, s-a sfârșit chinul greu,
+Să nălțăm, să nălțăm mulțumirea,
+Ne-a scăpat, ne-a scăpat Dumnezeu!
+
+[c]
+Mulțumim, mulțumim numai Ție,
+Doamne sfânt, Doamne sfânt și-ndurat
+N-nchinăm, ne-nchinăm pe vecie,
+Numai Tu, numai Tu ne-ai scăpat!
+
+[v2]
+A sosit, a sosit biruința,
+A căzut, a căzut lanțul jos,
+S-a sfârșit, s-a sfârșit suferința,
+Să-nălțăm, să-nălțăm pe Hristos!
+
+[v3]
+S-a sfârșit, s-a sfârșit înnoptarea,
+Am ieșit, am ieșit din mormânt,
+Să-nălțăm, să-nălțăm toți cântarea,
+Ne-a scăpat, ne-a scăpat Duhul Sfânt!
+
+[v4]
+A sosit, a sosit strălucirea,
+S-a sfârșit, s-a sfârșit noaptea grea,
+Până-n veci, până-n veci mulțumirea
+Celui Sfânt, Celui Sfânt vom ’nălța!

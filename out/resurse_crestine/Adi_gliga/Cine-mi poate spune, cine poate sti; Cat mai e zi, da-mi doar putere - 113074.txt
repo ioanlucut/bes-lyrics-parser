@@ -1,0 +1,23 @@
+[title]
+Cine-mi poate spune cine poate sti; cat mai e zi da-mi doar putere {author: {Adi Gliga}, {rcId: {113074}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Cine-mi poate spune, cine poate ști
+Dacă e un mâine, e o nouă zi
+Soarele răsare, dar apune iar
+Viața-i trecătoare chiar de e în dar.
+
+[c]
+Cât mai e zi, dă-mi doar putere
+Doamne, e tot ce îmi doresc
+Și-n bucurii, și-n clipele grele
+Până la cer să Te urmez!
+
+[v2]
+Orice om în lume, vine, dar, e gol
+Tot așa se duce, e doar călător
+Soarele apune, nu, nu stă în loc
+Viața-i trecătoare ca un lemn în foc.

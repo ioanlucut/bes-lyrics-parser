@@ -1,0 +1,35 @@
+[title]
+O soapta divina rasuna intruna {author: {Maria Șimon}, {rcId: {231313}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+O șoaptă divină răsună întruna
+De peste veacuri cu drag,
+Căci El mântuiește, pe-oricine primește
+Și dă mântuire în dar!
+
+[c]
+Brațele Sale sunt larg deschise
+Pentru orice păcătos,
+Mai cheamă cu iubire, să dea mântuire
+Și viață veșnică-n dar!
+
+[v2]
+În dragostea-I mare El dă iertare
+Și cheamă pe orice rănit,
+El vindecă rana, alungă durerea
+Și vrea să fii fericit!
+
+[v3]
+Spune-I necazul, spune-I suspinul
+Și El te va asculta,
+El știe durerea, cunoaște tristețea
+Oricât ar fi de grea!
+
+[v4]
+Ridică-ți privirea și cheamă-L pe Domnul,
+Doar El te va ridica!
+Din groapa adâncă te pune pe Stâncă
+Și te va vindeca!

@@ -1,0 +1,29 @@
+[title]
+Iubire {author: {Anonim}, {rcId: {1468}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Iubire, o sfântă iubire
+Tu ești izvorul dragostei cerești
+Pentru mine!
+Iubire, o sfântă iubire
+Te-ai dat să fii pe lemn crucificat
+Pentru mine!
+
+[c]
+Cum pot să-Ți mulțumesc oare
+Pentru a Ta dragoste mare
+Care eu în Tine am aflat?
+Tu ești izvorul iubirii
+Ești Domn al puterii divine
+Vreau să fii Domn și în viața mea!
+
+[v2]
+Nădejde, o sfântă nădejde
+Tu ești izvorul dragostei cerești
+Pentru mine.
+Nădejde, o sfântă nădejde
+Te-ai dat să fii pe lemn crucificat
+Pentru mine!

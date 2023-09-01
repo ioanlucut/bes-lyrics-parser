@@ -1,0 +1,35 @@
+[title]
+Daca mama iti mai traieste {author: {Nicu Chereji}, {rcId: {208842}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Dacă mama îți mai trăiește
+Domnului îi mulțumește
+Spune-i ca o iubești mereu
+Nu aștepta să-ți pară rău
+
+[c]
+Mama-i floarea ce-nflorește
+Ori de câte ori zâmbește
+Ea e sarea în bucate,
+Suflet plin de bunătate
+
+[v2]
+O mamă adevărată
+Are inima bogată
+Nici la boala nu se lasă
+Cu a ei mâini zidește o casă
+
+[v3]
+Precum frumoasă-i ocrotită
+În copacul care-o crește
+Tot așa o mamă bună
+De odrasla ei grijește.
+
+[v4]
+Mama-i primul nost’ cuvânt
+Ce-l rostim pe acest pământ,
+Vorba ei e o comoară,
+E ploaia caldă de vară!

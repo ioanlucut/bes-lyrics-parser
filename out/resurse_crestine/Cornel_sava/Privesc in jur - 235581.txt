@@ -1,0 +1,35 @@
+[title]
+Privesc in jur {author: {Cornel Sava}, {rcId: {235581}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Privesc în jur și toate par să spună,
+Nu mai e mult e vremea pe sfârșit,
+Mă lupt să înaintez spre veșnicie,
+Acolo voi putea fi fericit.
+
+[c]
+/: Sunt o mână de țarână, sunt un trecător,
+Sunt o adiere vie, simplu călător,
+Am o nădejde, merg spre-o țară cu un dor nespus,
+Vreau sa-ajung acolo-n ceruri la Domnul Isus :/
+
+[v2]
+Ai pus în mine gândul veșniciei,
+Te laudă mereu inima mea,
+Orice-aș avea nimic nu mă încântă,
+O ce frumoasă-i măreția Ta.
+
+[v3]
+Mai toarnă azi din Duhul Tău Isuse,
+Copilul Tău Te strigă obosit,
+Mai dă-I din nou putere îndoită,
+Să ducă lupta până la sfârșit.
+
+[v4]
+Mă uit spre cer și te aștept Isuse,
+Să Te revăd pe nori eu îmi doresc,
+Să Te aud strigându-mi al meu nume,
+Și către cer cu Tine să pornesc.

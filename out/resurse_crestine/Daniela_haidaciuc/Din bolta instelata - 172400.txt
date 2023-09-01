@@ -1,0 +1,27 @@
+[title]
+Din bolta instelata {author: {Daniela Haidaciuc}, {rcId: {172400}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Din bolta cea-nstelată, te cheama un glas de Tată,
+Se pleacă blând spre tine, te striga: Vino la Mine!
+
+[c]
+/: O vino căci Mă doare durerea ta cea mare,
+Povara vreau să-ți iau, și liniște să-ți dau!
+O vino lângă Mine, căci vreau să stau cu tine,
+Să-ți iau suspinul greu, te chem, sunt Dumnezeu: \
+
+[v2]
+Mereu privesc spre tine, văd multele-ți suspine,
+Și frământarea ta, vreau să-ți dau pacea Mea!
+
+[v3]
+În palma-Mi perforată, ti-am scris numele odată,
+Iar doru-Mi arde-n piept, te chem și te aștept!
+
+[v4]
+O vino te-odihnește, căci dreapta-Mi te păzește,
+Așează-ți fruntea ta ușor pe inima Mea!

@@ -1,0 +1,41 @@
+[title]
+Ce n-ar da sa aiba lumea {author: {Gabriel Gorcea și prietenii}, {rcId: {61293}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ce n-ar da să aibă lumea
+Pace-n inimă ?
+Ce n-ar da să aibă lumea
+Liniște deplină ?
+
+[c]
+Însă pacea e la Tine
+Pacea numai Tu o dai
+Când în viață e Isus
+Acolo e colț de rai.
+Însă sfânta mângâiere
+E acelor ce Te slujesc
+Doamne, Tu ești alinarea
+Celor ce Te iubesc!
+Însă câți te-aleg pe Tine
+Ca stăpân și Dumnezeu
+Numai Tu poți mântui
+Din păcat și rău
+Eu te-aleg pe Tine Doamne
+Te aleg Stăpân divin
+/: Și aici și-n veșnicii
+Până-n veci, Amin! :/
+
+[v2]
+Ce n-ar da să aibă lumea
+Dulcea mângâiere ?
+Căci viața e amar
+Doar chin și durere!
+
+[v3]
+Câți n-ar vrea să aibă-n suflet
+Un Mântuitor ?
+Câți n-ar vrea să aibă-n viață
+Un Salvator ?

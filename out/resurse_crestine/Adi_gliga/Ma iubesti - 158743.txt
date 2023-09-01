@@ -1,0 +1,25 @@
+[title]
+Ma iubesti {author: {Adi Gliga}, {rcId: {158743}}
+
+[sequence]
+v1,b,c,v2,c
+
+[v1]
+Mă iubești și nu-i zi să nu m-accepți așa cum sunt.
+Mă iubești și mă faci să fiu mai bun!
+Mă iubești, chiar de sunt așa de mic,
+Mă iubești, nu mi-e frică de nimic!
+
+[b]
+Sunt un suflet viu, Te aud și știu, o da,
+Veșnic voi trăi, într-o zi Te voi vedea.
+
+[c]
+/: Ești Dumnezeu, ești Tatăl meu
+Și Te iubește sufletul meu! :/
+
+[v2]
+Mă iubești și doar atât îmi e îndeajuns.
+Mă iubești, simt cuiele ce Te-au străpuns.
+Mă iubești și-am învățat să pot iubi.
+Mă iubești și prin iubire pot trăi!

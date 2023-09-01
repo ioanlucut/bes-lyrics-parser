@@ -1,0 +1,88 @@
+[title]
+Ia aminte doamne {author: {Nicolae Moldoveanu}, {rcId: {244423}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7,v8,v9,v10
+
+[v1]
+Ia aminte Doamne,
+Starea grea prin care
+Cu-apăsare-n suflet,
+Trecem fiecare,
+/: Mai cu greu ca niciodată,
+Trecem fiecare. :/
+
+[v2]
+Locul nostru-i neagră
+Noapte fără lună,
+Gânduri
+Ie-s biete
+Păsări în furtună;
+/: Obosite și-aruncate
+Păsări în furtună! :/
+
+[v3]
+Duhul nostru-i zbucium,
+Doru-i nerăbdare;
+Rugăciunea noastră-i
+Teamă și-ntrebare;
+/: Arzătoare și-ndelungă
+Teamă și-ntrebare! :/
+
+[v4]
+Nu mai vrei Tu oare
+Jertfele dorite,
+Rodul muncii noastre,
+Fețele iubite,
+/: De nu-ntorci și nu mai mângâi
+Fețele iubite? :/
+
+[v5]
+Plugul ruginește,
+Harfe
+Ie-s sfărmate,
+Săbiile-s frânte
+Căile uitate;
+/: Plâng atât de dragi
+Odată căile uitate! :/
+
+[v6]
+Cât de mulți fac răul,
+Ce puțini fac bine;
+Cât de mult e lucrul,
+Brațe ce puține.
+/: Și Tu totuși Iași legate
+Brațele puține! :/
+
+[v7]
+Anii noștri zboară,
+Trupul se destramă,
+Viața ni se duce,
+Slujba Ta ne cheamă.
+/: Mai adânc ca niciodată,
+Slujba Ta ne cheamă! :/
+
+[v8]
+Ce mărețe gânduri,
+Ce dorinți slăvite,
+Ce lucrări și toate-s
+Doruri ne-mplinite;
+/: Fericite și frumoase
+Doruri ne-mplinite! :/
+
+[v9]
+Ia aminte Doamne,
+Lacrimi
+Ie-amare,
+Gândurile scumpe,
+Dorul de Lucrare;
+/. Și-mplinește tot ce-Ți cere
+Dorul de Lucrare! :/
+
+[v10]
+Ia aminte Doamne,
+Lunga noastră jale,
+C-așteptăm răspunsul
+Izbăvirii Ta
+Ie;
+/: Bucuria și lumina izbăvirii Tale! :/

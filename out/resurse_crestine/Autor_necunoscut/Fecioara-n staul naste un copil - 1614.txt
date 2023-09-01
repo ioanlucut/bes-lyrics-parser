@@ -1,0 +1,28 @@
+[title]
+Fecioara-n staul naste un copil {author: {Anonim}, {rcId: {1614}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Fecioara-n staul naște un Copil (3x)
+Și I-a pus numele ISUS.
+
+[c]
+/: El vine din glorii,
+El vine din gloria de sus! :/
+/: O, da, El vine! :/
+/: El vine din glorii,
+El vine din gloria de sus! :/
+
+[v2]
+O iesle-n staul e al Lui sălaș (3x)
+Lâng-un oraș mic, Betleem.
+
+[v3]
+Răsună cor de îngeri pe câmpii (3x)
+Salvare ni s-a vestit!
+
+[v4]
+Tresaltă al meu prietene acum (3x)
+Robia ta s-a sfârșit!!!

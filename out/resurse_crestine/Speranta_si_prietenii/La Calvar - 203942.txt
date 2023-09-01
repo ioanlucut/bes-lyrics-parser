@@ -1,0 +1,39 @@
+[title]
+La calvar {author: {Speranța și prietenii}, {rcId: {203942}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+La Isus am găsit fericirea
+Prin Isus am primit iertare-n dar
+Isus Hristos mi-a dat mântuirea
+Prin jertfa Sfântă de pe Calvar
+Prin Isus am fost eliberat
+El mi-a luat povara grea
+Prețul păcatelor mele
+Le-a plătit Isus cu jertfa Sa.
+
+[c]
+La Calvar Isus ma iertat
+Prin jertfa de pe Golgota
+Cu cerul m-am păcat
+La Calvar iertare am primit
+Isus Hristos a murit pentru mine
+Fiindcă atât de mult ma iubit.
+/: La Calvar Isus ma iertat
+Prin jertfa de pe Golgota
+Cu cerul m-am păcat
+La Calvar iertare am primit
+/: Isus Hristos a murit pentru mine
+Fiindcă atât de mult ma iubit. :/
+
+[v2]
+La Isus am găsit alinarea
+Prin rănile Lui sunt tămăduit
+Prin al Său nume am primit vindecarea
+De mâna Lui sunt ocrotit
+A fost trăpuns pentru a mele păcate
+Țintuit între cer și pământ
+Prin jertfa Lui am fost scăpat de moarte
+Ma dat viată prin Sfântul legământ.

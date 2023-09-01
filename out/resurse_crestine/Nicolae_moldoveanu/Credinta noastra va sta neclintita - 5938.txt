@@ -1,0 +1,29 @@
+[title]
+Credinta noastra va sta neclintita {author: {Nicolae Moldoveanu}, {rcId: {5938}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Credinta noastra va sta neclintita
+Chiar si in valuri de mari prigoniri;
+Prin jertfa sfanta, de-a pururi sfintita
+Ea ne conduce la mari straluciri.
+
+[c]
+/: Pentru Isus Hristos, stam tari in credinta,
+Nu sovaim a-L urma pe Isus.
+Isus Hristos ne duce la biruinta;
+Cununa ne va da... :/
+
+[v2]
+Inima noastra se bucura-n Domnul,
+Iar buzele noastre Il preamaresc;
+Privirea noastra spre El ni-i-atintita,
+Primim putere din tronul ceresc.
+
+[v3]
+Langa Isus, intariti in credinta,
+E al nostru maret Salvator;
+Cine-L urmeaza, fara sovaire,
+Pana la moarte va fi biruitor.

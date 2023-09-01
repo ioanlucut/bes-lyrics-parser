@@ -1,0 +1,38 @@
+[title]
+Beautiful savior [marire tie] {author: {Stuart Townend, Traducere RO}, {rcId: {61833}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c
+
+[v1]
+În orice zi am să cânt de bucurie,
+Isus va fi desfătarea mea,
+Când în nevoie-am strigat, a auzit
+Și îndurarea Lui m-a copleșit.
+
+[v2]
+Mă încred în crucea Răscumpărătorului,
+Am să cânt de sângele Biruitorului,
+Păcatul mi-e iertat, cugetul curățit,
+Moartea-i învinsă și viața e fără sfârșit.
+
+[c]
+Mărire Ție, Mântuitorul meu,
+Tu ești Împărat, veșnic înălțat,
+Tu, Stăpânul meu,
+Ești Adevărul, Tu luminezi pe om,
+Tu ai înviat, viața Tu ne-ai dat,
+Și domnești, domnești peste noi.
+
+[v3]
+Mă încred în crucea Răscumpărătorului,
+Am să cânt de sângele Biruitorului,
+Păcatul mi-e iertat, cugetul curățit,
+Moartea-i învinsă și viața e fără sfârșit.
+
+[v4]
+Vreau să fiu unde voi cânta întruna,
+Locul meu e acolo-n slavă sus,
+Cu cei răscumpărați mă voi pleca,
+”
+Vrednic este Mielul!” toți vom striga!

@@ -1,0 +1,43 @@
+[title]
+Se-aude pe ulita satului meu {author: {Costache Ioanid}, {rcId: {5768}}
+
+[sequence]
+v1,c,v2,c2,v3,c
+
+[v1]
+Se-aude, pe ulița satului meu,
+Un ropot zorit de copite...
+O voce... un glas care-l știu numai eu...
+Un chiot de doruri cumplite...
+
+[c]
+„
+E, poate, Iubitul... e, poate, chiar El!...
+Nu-mi spune că-i vântul, străine...
+/: Căci, azi, eu zic: „
+Poate... ” și mâine la fel,
+Dar poimâine-i sigur că vine! :/
+E, poate, Iubitul... e, poate, chiar El!...
+Nu-mi spune că-i vântul, străine...
+/: Căci azi, eu zic: „
+Poate... ” și mâine la fel,
+Dar poimâine-i sigur că vine!... :/
+
+[v2]
+„
+Copilă, Mireasă, ce Mire aștepți?
+Nu-i nimeni din cer ca să vie...
+Zadarnic, spre uliță ochii îndrepți,
+Căci ulița ta e pustie...
+
+[c2]
+De când adormiră părinții străbuni,
+Stau toate la fel neschimbate;
+/: Ce chiot auzi tu! Ce stranii minuni!
+Ce glas de vedenii ciudate?” :/
+
+[v3]
+Se-aude, pe ulița satului meu,
+Un glas peste lumea deșartă;
+Și, iată, un tânăr ce-l știu numai eu,
+Se-aruncă din șa lângă poartă.

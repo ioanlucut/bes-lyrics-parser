@@ -1,0 +1,41 @@
+[title]
+Stiti? {author: {Nicolae Moldoveanu}, {rcId: {5783}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Știți? Domnul îl răpește pe Ilie!...
+Și îl înalță sus la cer!
+Acolo sus, acolo-n veșnicie,
+Acolo sus în cer.
+
+[c]
+/: Iată, carele de foc
+S-au apropiat nespus!
+Iată, carele de foc
+În curând, vor merge sus. :/
+
+[v2]
+Să știe azi prorocii toți din țară
+Și toți fiii prorocilor
+Că, în curând, a-lui Ilie care
+S-or înalța în nor!
+
+[v3]
+De-a lor lumină s-a aprins și cerul
+Și norii, norii toți, dispar
+Căci, pe aripi de heruvimi, stă Domnul,
+În minunatul car.
+
+[v4]
+Dar Duhul pe Ilie îl răpește
+Și, într-o clipă-l poartă-n zbor,
+Iar Elisei, din vale, îl privește
+Cum se înalță-n nori...
+
+[v5]
+Dar, iată, o, minune! Ce minune
+Se lasă peste Elisei?...
+Mantaua lui Ilie ce se pune
+Chiar pe umerii săi.

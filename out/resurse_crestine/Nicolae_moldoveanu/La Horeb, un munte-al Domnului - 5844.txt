@@ -1,0 +1,58 @@
+[title]
+La horeb un munte-al domnului {author: {Nicolae Moldoveanu}, {rcId: {5844}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+La Horeb, un munte-al Domnului,
+Si-a gasit Ilie adapost;
+S-a ascuns in pesterile lui,
+Obosit de drum, flamand de post.
+
+[c]
+„
+Ce faci tu Ilie, aici?”
+Cel din ceruri l-a-ntrebat.
+„
+O, Doamne, pentru Legea Ta,
+Azi, de vrajmasi, sunt alungat...
+
+[v2]
+Si divinul glas din nou i-a zis:
+„
+Iesi, si stai pe multele cel sfant!”
+Domnul a trecut pe langa el,
+Dar ’naintea Lui, trecu un vant,
+
+[c2]
+Iar vantul, puternic sufla
+Muntii mari ii despica
+Si stancile le sfarama.
+In vant, Cel Vesnic nu era...
+
+[v3]
+Dupa vant, cutremur de pamant,
+Iar apoi veni in grab-un foc.
+Dar, nici in cutremur, nici in vant,
+Domnu-n ele, nu a fost deloc...
+
+[c3]
+Doar intr-un susur cristalin,
+Iarasi Domnul i-a vorbit:
+„
+Ce faci Ilie-aici strain?”
+Si-atunci, Ilie a iesit...
+
+[v4]
+Cand in lume parasit vei fi,
+Chiar pamantul de s-ar clatina,
+Cineva spre tine va veni
+Si-ti va spune cand te-a ridica:
+
+[c4]
+„
+Fii tare, in ziua cea grea:
+Domnul te va ajuta!
+Caci ne’ncercat, nu vei intra
+In tara care ti-o voi da...!

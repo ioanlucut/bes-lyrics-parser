@@ -1,0 +1,41 @@
+[title]
+Ce minunat {author: {Johnny Daraban}, {rcId: {133320}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Eu cant Domnului aleluia
+Slavesc pe al meu Salvator
+Ca nu e-alt nume in lume
+Prin care in cer sa intram.
+
+[c]
+Ce minunat e Domnul meu
+El pacatul mi-a iertat
+O, ce minunat sunt rascumparat
+Si cu Tatal impacatx2
+
+[v2]
+Veniti voi multimi de popoare
+Cu toti intr-un cor sa-I slavim
+Ca nu e un altul mai tare
+Decat Domnul nostru Cel Sfant
+
+[c2]
+Ce minunat e Domnul meu
+El povara mi-a luat
+E taria mea cand lupta-I grea
+El imi da victoriax2
+
+[v3]
+Curand rasuna-va tompeta
+Curand catre cer vom zbura
+Curand alergarea sfarseste
+Si-n slava cu Tatal vom fii.
+
+[c3]
+O, ce zi va fi cand va reveni
+Si spre ceruri vom zbura
+Iar in slava Sa, cand vom intra
+Toti un imn ii vom cantax2

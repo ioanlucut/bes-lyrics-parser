@@ -1,0 +1,27 @@
+[title]
+Ramai cu noi {author: {Marius Gorcea, Dan Muncaciu}, {rcId: {179831}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Rămâi cu noi Isuse,
+Cunoaște-mi că exiști
+Tu Pâinea Vieții ești!
+Prin Sângele salvării
+Un nume nou mi-ai dat,
+În veci să fii lăudat!
+
+[c]
+Glorie, glorie, Aleluia!
+Harul Tău etern inundă viața mea.
+Glorie, glorie, Aleluia!
+Numai Tu ești Domn,
+Putere am prin Numele Tău, azi!
+
+[v2]
+Rămâi cu noi Isuse,
+Înaintea noastră mergi.
+O, nu ne părăsi!
+Fără-a Ta lumină Isuse de vom fi
+Noi rătăciți vom fi!

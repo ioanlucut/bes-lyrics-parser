@@ -1,0 +1,38 @@
+[title]
+C~atre cer as vrea {author: {Claudia Danciu}, {rcId: {173288}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Către cer aș vrea să merg
+Să mă ’nalț mai sus de stele,
+Să aduc ’naintea Lui
+Toate dorurile mele.
+Trece timpul vine iară
+Încă o zi și iar din nou o zi.
+Trece vremea, parcă zboară,
+Și mi-e dor, mi-e tot mai dor,
+De veșnicii.
+
+[v2]
+Către cer aș vrea să plec,
+Să mă ’nalț mai sus de stele,
+Să aduc ’naitea Lui.
+Toate dorurile mele.
+Să las întristarea mea,
+Și să uit de-a mea durere,
+Să îmi satur inima
+Sufletul de mângăiere.
+
+[v3]
+Aș vrea să plec către cer,
+Aș vrea să zbor către cer.
+Către cer aș vrea să plec,
+Să mă ’nalț mai sus de stele.
+Dă aduc ’naitea Lui
+Toate dorurile mele.
+Să las întristarea mea,
+Și să uit de-a mea durere,
+Dă îmi satur inima
+Sufletul de mângăiere.

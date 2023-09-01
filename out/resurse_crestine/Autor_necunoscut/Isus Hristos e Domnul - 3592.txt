@@ -1,0 +1,35 @@
+[title]
+Isus hristos e domnul {author: {Anonim}, {rcId: {3592}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7,v8,v9,v10
+
+[v1]
+Isus Hristos e Domnul, Aleluia!
+
+[v2]
+El e Mântuitorul, Aleluia!
+
+[v3]
+Isus Hristos e pacea, Aleluia!
+
+[v4]
+Isus este iubirea, Aleluia!
+
+[v5]
+El vindecă bolnavii, Aleluia!
+
+[v6]
+Spre slava Lui noi vom lucra, Aleluia!
+
+[v7]
+În Duhul Sfânt ne-om bucura, Aleluia!
+
+[v8]
+Vom răspândi iubirea Sa, Aleluia!
+
+[v9]
+Isus Hristos va reveni, Aleluia!
+
+[v10]
+Spre slava Lui noi vom cânta, Aleluia.

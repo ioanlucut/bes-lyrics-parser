@@ -1,0 +1,41 @@
+[title]
+Din pantecele mamei mele {author: {Ana Maria Mirăuți}, {rcId: {241299}}
+
+[sequence]
+v1,c,v2,c,v3,c,c2
+
+[v1]
+Din pântecele mamei mele, Doamne mare
+M-ai pus deoparte pentru a Ta sfântă lucrare,
+M-ai învățat să rabd chiar de durerea-i mare
+Mi-ai întărit credința prin orice încercare...
+
+[c]
+Căci nu-mi doresc nimic doar Cerul Tău, Isus
+Să stau cu Tin’ la masă, să-Ți fiu mereu supus
+Să pot să fiu Isus o slugă înțeleaptă
+Să nu Îți întristez nicicând iubita-Ți față
+
+[v2]
+O viață Tu mi-ai dat să Te slujesc pe Tine
+Să fac doar voia Ta chiar dacă greul vine,
+Să lupt până la capăt să mă-ntâlnesc cu Tine
+Chiar dacă ud cu lacrimi drumul prin pustie
+
+[v3]
+Veni-vor vremuri grele cand mulți s-or lepăda
+Dar eu Isus de Tine nu mă voi lăsa
+Lovească valurile în mine cât or vrea
+Din Tine îmi fac scut și uit de vremea rea
+
+[c]
+Căci nu-mi doresc nimic doar Cerul Tău, Isus
+Să stau cu Tin’ la masă, să-Ți fiu mereu supus
+Să pot să fiu Isus o slugă înțeleaptă
+Să nu Îți întristez nicicând iubita-Ți față
+
+[c2]
+Din pruncie m-ai crescut pentru Tine
+Când primi pași i-am făcut ai fost cu mine
+/: Nu Te mai las acum pentru nimic în lume
+O ține-mă la pieptul Tău iubit Stăpâne :/

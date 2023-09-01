@@ -1,0 +1,21 @@
+[title]
+Ce bucurie ce fericire {author: {Nicolae Moldoveanu}, {rcId: {5820}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ce bucurie, ce fericire! o Isus a venit in viata mea!
+Ce bucurie, ce fericire! o Din inima, mereu Ii voi canta.
+
+[c]
+/: O, slava Tie! Tu meriti o Sa fii glorificat.
+O, slava Tie! Tu meriti o Sa fii mereu ’naltat. :/
+
+[v2]
+Ce bucurie, ce fericire! o Caci de acum avem un Salvator.
+Ce bucurie, ce fericire! o Si hrana vie da El, tuturor.
+
+[v3]
+Ce bucurie, ce fericire! o Poarta vietii, Domnul ne-a deschis,
+Ce bucurie, ce fericire! o Caci ne grabim, cu toti spre paradis.

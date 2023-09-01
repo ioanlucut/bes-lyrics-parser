@@ -1,0 +1,17 @@
+[title]
+Isus e rege {author: {Anonim}, {rcId: {3719}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+/: Isus e Rege pe tot Pământul
+Azi mă închin în fața Lui. :/
+
+[v1]
+Laud pe Domnul și-L preamăresc
+Laud pe Domnul căci Îl iubesc.
+
+[v2]
+Toată viața Îi voi cânta
+Căci vreau s-ajung în țara Sa.

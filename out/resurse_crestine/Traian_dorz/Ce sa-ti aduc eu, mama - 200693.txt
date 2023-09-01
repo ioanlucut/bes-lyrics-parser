@@ -1,0 +1,41 @@
+[title]
+Ce sa-ti aduc eu mama {author: {Traian Dorz}, {rcId: {200693}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Ce să-ți aduc eu, mamă,
+’napoi când am să vin?
+/: De unde merg departe :/
+/: Obrazul tău senin :/
+
+[c]
+Ce să-ți aduc eu, mamă,
+Când am să’ntorc cândva?
+Să-ți fac o bucurie,
+Curată fața ta!
+
+[v2]
+Ce să-ți aduc eu, mamă,
+Să-ți bucur ochii dulci?
+/: Iubirea și credința :/
+/: Curate cum le duci :/
+
+[c2]
+Nimic din ce-i prin lume,
+Ieși-va’n calea ta;
+Să nu-ți umbrească fața,
+Nici inima să-ți ia.
+
+[v3]
+Nici să nu-ți Iași departe,
+Oricât vei fi’ncercat.
+/: Iubirea și credința :/
+/: Cu care mi-ai plecat :/
+
+[c3]
+Nici chin și nici ispită,
+Nici loc de sus sau jos;
+Nimic să nu te rupă,
+De frați și de Hristos!

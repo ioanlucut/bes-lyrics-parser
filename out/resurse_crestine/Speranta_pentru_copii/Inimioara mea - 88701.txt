@@ -1,0 +1,30 @@
+[title]
+Inimioara mea {author: {Speranța pentru copii}, {rcId: {88701}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Inimioara mea Ție-Ți dăruiesc
+Vreau pe veci să fie a Ta
+Fiindcă atât de mult Doamne Te iubesc
+Toată viața îți voi cânta.
+
+[c]
+Te înalț, Sfinte Dumnezeu
+Te slăvesc doar pe Tine
+M-ai creat și sunt al Tău
+Tot ce am, tot ce mi-ai dat
+Îți aparține!
+
+[v2]
+Ochișorii mei, privesc la Tine Doamne
+Fiindcă ești minunat!
+Ochișorii mei, privesc la fața Ta
+Te iubesc fiindcă m-ai iertat.
+
+[v3]
+Mâinile mele spre Tine le ridic
+Ție-Ți dau Gloria
+Ești Domn al Domnilor, ești Rege-al Regilor
+Toată slava fie-a Ta.

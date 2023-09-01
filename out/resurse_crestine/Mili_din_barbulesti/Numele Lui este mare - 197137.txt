@@ -1,0 +1,30 @@
+[title]
+Numele lui este mare {author: {Mili din Barbulesti}, {rcId: {197137}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Un nume mare si sfânt
+Conduce universul
+Stelele pe cer, le conduce mersul
+El e creatorul, El e-ntelepciunea
+Prin al Său cuvânt e condusă lumea
+
+[c]
+/: Numele Lui este mare, Aleluia,
+Numele Lui e glorios
+Leul din Iuda cel puternic, puternic
+El a biruit, Isus Hristos :/
+/: Numele Lui este mare, Aleluia
+Numele Lui e glorios
+Leul din Iuda cel puternic, puternic
+El a biruit, Isus Hristos :/ x4
+
+[v2]
+Un nume mare si sfânt
+Mi-a schimbat viata
+Cu sufletul trudit,
+Mi-a redat speranta
+El imi este Domn, mă călăuzeste
+Pe cărarea Lui, El mă sprijineste

@@ -1,0 +1,36 @@
+[title]
+Ne bucuram ca isus a inviat {author: {Utilizator Moldovan Florin}, {rcId: {4518}}
+
+[sequence]
+v1,b,c,v2,c,e
+
+[v1]
+Ne bucurăm că Isus a înviat
+Și la cer Cristos s-a înălțat
+Lăsând mormântul gol așa cum a spus
+Mâ duc la Tatăl în locul cel sfânt.
+
+[b]
+Eu nu mai sunt un rob
+Căci El m-a salvat
+Păcatul meu la cruce l-a aruncat
+A isprăvit toul la Golgota
+Isus Cristos cel care a înviat.
+
+[c]
+Ne bucurăm că Isus a înviat
+Și la cer Cristos s-a înălțat
+Lăsând mormântul gol așa cum a spus
+Mâ duc la Tatăl în locul cel sfânt.
+
+[v2]
+Eu sunt convins că El a înviat
+Lăsând mormântul gol și s-a arătat
+Ucenicilor cât și-n viața mea
+Lăsând în urmă dragostea Sa.
+
+[e]
+Săbătorim că moartea a învins
+Și ca în cer un loc ne-a pregătit
+Cântându-I glorie, aleluia
+Osana, Mielului glorificat.

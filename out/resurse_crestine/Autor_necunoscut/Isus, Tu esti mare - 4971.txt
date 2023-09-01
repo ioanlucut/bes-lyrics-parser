@@ -1,0 +1,23 @@
+[title]
+Isus tu esti mare {author: {Anonim}, {rcId: {4971}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Isus, Tu ești mare,
+Isus, Tu ești Domn,
+Întronat în glorie,
+Rege-al regilor.
+
+[c]
+Stăpân peste popoare
+Prin sfântul Tău Cuvânt,
+Alfa și omega,
+Domnești peste pământ.
+
+[v2]
+Mai tare ești ca moartea,
+Iar sfântul Tău Cuvânt
+Ca sabia zdrobește
+Dușmanii-Ți la pământ.

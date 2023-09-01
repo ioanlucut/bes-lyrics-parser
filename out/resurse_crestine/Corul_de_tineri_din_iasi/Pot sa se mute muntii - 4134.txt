@@ -1,0 +1,26 @@
+[title]
+Pot sa se mute muntii {author: {Corul de tineri din Iasi}, {rcId: {4134}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+Pot să se mute munții, pot să se clatine dealurile
+Dar dragostea Sa nu se va’ndeparta, de la tine, nu, nu,
+Pot să vină furtuni, pot să urle valurile
+Nu te-ngrijora, de viața ta, căci e cu tine!
+
+[v1]
+Încrede-te în Dumnezeu,
+El te va ajuta
+Cu brațul Său când ți-e greu, pe tine,
+Încredete-n Cuvântul Său,
+El te va apăra
+Cu brațul Său de orice rău, pe tine!
+
+[v2]
+Când treci prin încercări, ispite sau dureri
+Nu descuraja, căci El îți va da, pace,
+Când sufletul ți-e întristat,
+El te va mângâia
+În viața ta, va turna, pace!

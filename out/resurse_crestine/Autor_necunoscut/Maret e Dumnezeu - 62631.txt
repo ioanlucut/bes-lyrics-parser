@@ -1,0 +1,23 @@
+[title]
+Maret e dumnezeu {author: {Anonim}, {rcId: {62631}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Măreț e Dumnezeu
+Măreț e Domnul meu
+El este Regele
+Cel ce Domnește-n veci
+
+[c]
+Glorii Lui Dumnezeu
+Glorii Domnului meu
+Glorie regelui,
+Cel ce Domnește-n veci
+
+[v2]
+Tu ești cel preaînalt,
+Numele îți înălțăm
+Ești Creatorul,
+Atotputernic Dumnezeu

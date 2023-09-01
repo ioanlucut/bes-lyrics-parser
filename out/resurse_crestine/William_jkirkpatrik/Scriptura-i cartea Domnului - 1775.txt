@@ -1,0 +1,35 @@
+[title]
+Scriptura-i cartea domnului {author: {William J.Kirkpatrik}, {rcId: {1775}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Scriptura-i cartea Domnului
+Ce starea poate îndrepta
+Deschisă și trăită-aici,
+Ea fericirea poate da.
+
+[c]
+O, sfânt Cuvânt, mesaj ceresc,
+Tu luminează pe pământ,
+Ca mulți din cei ce rătăcesc
+S-ajungă sus, în locul sfânt.
+
+[v2]
+Pe paginile ei găsim
+Iubirea, mila Tatălui,
+Și cei pierduți prin ea
+Se-ntorc pe căile plăcute Lui.
+
+[v3]
+Ne-arată viața lui Isus,
+Cum a murit și a-nviat;
+Suprema jertfă a depus
+Și viață veșnică ne-a dat.
+
+[v4]
+Scriptura sfântă El ne-a dat
+Și e izvor de fericiri.
+Când noaptea morții va sosi,
+Lumina ei va străluci.

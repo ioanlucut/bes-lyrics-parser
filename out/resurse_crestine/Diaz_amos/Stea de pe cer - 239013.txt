@@ -1,0 +1,33 @@
+[title]
+Stea de pe cer {author: {Diaz Amos}, {rcId: {239013}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Stea de pe cer ne prezinți, ne arăți
+Ne înveți tu cu drag ale tale poveți.
+Stea de pe cer cu raza-ți de cristal
+Ne îmbibă plăcut în cuprinsul spectral!
+
+[c]
+Stea de pe cer, luminezi,
+Lumina ta pătrunde și ne înviorezi
+Stea de pe cer în nemărginit dar
+Valea o presari cu luminat astral!
+Stea de pe cer, luminezi,
+Lumina îți pătrunde în oricare loc
+Stea de pe cer sublim ai arătat
+Calea păstorilor când Isus S-a întrupat!
+
+[v2]
+Stea de pe cer ai deschis cu blândețe,
+Calea către rai, tot ce e frumusețe.
+Stea de pe cer o făclie din rai
+Mângâi cu razele-ți a sărăciei strai!
+
+[v3]
+Stea desprinsă din rai, stea din Paradis,
+O cunună de flori peste vid ai aprins.
+Stea din rai, de sub albastru cer,
+Ai deschis Paradisul, palatul etern!

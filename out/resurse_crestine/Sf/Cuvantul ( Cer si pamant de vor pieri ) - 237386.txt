@@ -1,0 +1,27 @@
+[title]
+Cuvantul ( cer si pamant de vor pieri ) {author: {SF3}, {rcId: {237386}}
+
+[sequence]
+v1,v1,c,v2,v2,c,c
+
+[v1]
+/: Cer și pământ de vor pieri
+Al Său Cuvânt În veci de veci va dăinui
+Mă-ncred în El, e adevăr!
+Tot ce-a promis se va-mplini precum a zis :/
+
+[c]
+Credința mea este în El,
+În Dumnezeu E stânca mea
+Când vânturi bat E ancora
+Când valuri mari să mă scufunde ar vrea!
+Credința mea este în El,
+În Dumnezeu rămâne ferm,
+Statornic E în veci de veci
+Din barca mea nu va pleca nicicând!
+
+[v2]
+/: Lumină-mi dă pe calea mea
+Cuvântul Lui mă va-nsoți în noaptea grea
+Îl voi păstra în inimă
+Ca toți din jur acum să Îl poată vedea :/

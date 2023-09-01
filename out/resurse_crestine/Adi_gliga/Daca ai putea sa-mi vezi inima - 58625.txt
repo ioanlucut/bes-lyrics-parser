@@ -1,0 +1,30 @@
+[title]
+Daca ai putea sa-mi vezi inima {author: {Adi Gliga}, {rcId: {58625}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Dacă ai putea, să-mi vezi inima
+Dacă ai simți, ce e în ea
+Știu că te-ar durea și nu ai mai vrea
+Să lovești deloc în ea.
+Și dacă m-ai iubi, nu ai mai minți
+Dacă ai accepta și pe altcineva
+Știu că ai putea, să iubești cândva
+Fără să aștepți ceva...
+
+[c]
+/: Da, asta e iubirea mea
+Nu aștept deloc ceva :/ ×3
+
+[v2]
+Dacă ai putea, să iubești așa
+Răul n-ar mai fi, un rău
+Oamenii ar vedea că în iubirea ta
+E iubirea Celui Sfânt
+Dacă ai jertfi, cei din jur ar ști
+Numai ești ce-ai fost cândva
+Și ce contează acum
+Fă cât poți ce-i bun
+Și iubește fără să aștepți ceva...

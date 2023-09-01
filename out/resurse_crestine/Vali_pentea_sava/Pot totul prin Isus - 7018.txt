@@ -1,0 +1,36 @@
+[title]
+Pot totul prin isus {author: {Vali Pentea Sava}, {rcId: {7018}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Mie atât mi-a mai rămas
+Să mă-ncred în Dumnezeu
+/: Să-L ascult și pas cu pas :/
+Să fiu după placul Sau.
+
+[c]
+/: Pot totul prin Isus :/ x3
+El este tăria mea
+/: Pot totul prin Isus :/ x3
+El este tăria mea
+Doar El!
+
+[v2]
+Vânturi mari de s-ar stârni
+Totu-n jur de s-ar surpa
+/: Nu mă vor putea clinti :/
+De pe temelia mea.
+
+[v3]
+De-ar ieși ’naintea mea
+Iadu-ntreg, ’spăimântător
+/: Tot mai tare-i dreapta Sa :/
+Și mă scoate-nvingător.
+
+[v4]
+Înainte tot mereu
+Orișice s-ar întâmpla
+/: Mă-nsoțește El mereu :/
+Pentru mine de-a lupta.

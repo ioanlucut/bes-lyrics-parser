@@ -1,0 +1,30 @@
+[title]
+Isus a zis: cine vrea a ma urma {author: {Autor necunoscut}, {rcId: {242182}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Isus a zis: ’
+Cine vrea a mă urma
+Zilnic să-și ia crucea chiar dacă e grea’
+Isuse vreau să țin și eu mereu
+Cuvântul Tău :/
+
+[c]
+/: Vreau să-mi consum pentru Isus viața mea
+Să investesc tot ce am spre Slava Sa
+Căci doar ce fac pentru El rămâne-n veac
+Și pururea :/
+
+[v2]
+/: Sunt piedici, da, este greu a ’nainta
+Și crucea uneori se pare foarte grea
+Tu crucea du-o si nu refuza
+Ci cânt-așa: :/
+
+[v3]
+/: Se va sfârși viața-aici și vei sosi
+Unde Isus fericit te va-ntâlni
+Dar pân-atunci cu toată ființa ta
+Cântă așa: :/

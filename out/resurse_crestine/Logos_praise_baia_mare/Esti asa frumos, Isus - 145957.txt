@@ -1,0 +1,35 @@
+[title]
+Esti asa frumos isus {author: {Logos Praise Baia Mare}, {rcId: {145957}}
+
+[sequence]
+v1,c,v2,c,e,c
+
+[v1]
+Dragostea Ta e-un ocean infinit
+Iubirea Ta, Isus, m-a cucerit!
+Cuvinte pline de farmec îmi clocotesc în inimă!
+
+[c]
+/: Ești așa frumos,
+Ești așa frumos, Isus!
+Ești așa frumos, Isus :/
+/: Ești așa frumos,
+Ești așa frumos, Isus!
+Ești așa frumos, Isus :/
+
+[v2]
+Lucrarea mea de laudă
+E pentru Tine, Domnul meu.
+Cuvinte pline de farmec îmi clocotesc în inimă!
+
+[e]
+Pe Tine, scump Mire, Te doresc,
+ Te doresc pe Tin’, Te doresc! 
+De dorul Tău, Isus, tresar și aștept.
+ Te aștept pe Tin’, Te aștept! 
+Tânjesc după Tine, nu întârzia.
+ Nu întârzia, nu întârzia!
+O, vino mai degrabă, aștept venirea Ta!
+
+[c2]
+/: Te iubesc, Isus! :/

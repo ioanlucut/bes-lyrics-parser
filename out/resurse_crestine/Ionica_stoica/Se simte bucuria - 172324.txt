@@ -1,0 +1,35 @@
+[title]
+Se simte bucuria {author: {Ionică Stoica}, {rcId: {172324}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Se simte, se simte aici bucuria
+Se simte, ca aici plutește mântuirea
+Se simte, că aici toată tristețea pleacă
+E adevărat că Domnul e aici
+
+[c]
+/: Nu, nu, nu, nu ți se pare
+Nu, nu, nu, nu-i nimic la întâmplare
+Da, da, da, e adevărat
+Căci Domnul Isus este aici :/
+
+[v2]
+Se simte, se simte cu putere focul
+Se simte, că aici se vindecă ologul
+Se simte, căci Duhul Sfânt aici lucrează
+E adevărat căci Domnul e aici
+
+[v3]
+Se simte, căci Cerul acuma se deschide
+Se simte, caci trambita curand se-aude
+Se simte, căci Duhul Sfânt din cer coboara
+E adevărat căci Isus e aici
+
+[v4]
+Se simte, căci dragostea mai mult răcește
+Se simte, căci ceva lin se pregateste
+Se simte, caci este timpul de plecare
+Curand Domnul Isus va reveni

@@ -1,0 +1,33 @@
+[title]
+Doamne tu piveste si spre mine {author: {Alexandru Groza}, {rcId: {185416}}
+
+[sequence]
+v1,v2,v3,c,v4,c,v4
+
+[v1]
+Doamne, Tu, privește și spre mine
+Cu umilinț-ascultă ruga mea
+Sfârșitul zilelor este aproape
+O mână de țărână-s ’naintea Ta
+
+[v2]
+Îndură-Te, o, Doamne și de mine
+Că păcătos eu sunt pe-acest pământ
+M-acoperă fărădelegi, păcatul
+Azi Ție îți predau viața mea
+
+[v3]
+Fie-Ți milă, Doamne și de mine
+Mântuiește Tu, sufletul meu
+Ajută-mă să Te urmez pe Tine
+O, fii lumina sufletului meu!
+
+[c]
+Mare e dragostea Ta, vin’ degrabă în viața mea
+Mare e dragostea Ta, vin’ degrabă în viața mea
+
+[v4]
+Nu întârzia, ziua-i spre seară!
+Soarele-apune-ncetișor
+Inima dorește-a Ta lumină!
+Te iubesc, o, scump Mântuitor!

@@ -1,0 +1,25 @@
+[title]
+Dar ceresc {author: {Teo Family}, {rcId: {201891}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Câte daruri minunate
+Ai pregatit pentru noi, o, Doamne.
+Nu-s cuvinte ca’ sa spună
+Sau să-Ți multumească vreodată.
+
+[c]
+Am gasit un dar ceresc,
+Un izvor de apă vie.
+Am primit dar Dumneziesc.
+In Isus e atata bucurie!
+O, ce bucurie!
+In Isus e atata bucurie!
+
+[v2]
+Azi Îți mulțumim Stăpâne
+Pentru tot ce Tu ne-ai dat, dar nemeritat.
+Binecuvintează Doamne,
+Că tot ce Tu ai dat ramane binecuvantat!

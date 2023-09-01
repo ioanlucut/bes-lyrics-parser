@@ -1,0 +1,29 @@
+[title]
+Numele tau mi-e-atat de scump si dulce {author: {Nicu Wagner}, {rcId: {61717}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Numele Tău mi-e atât de scump și dulce,
+Mi-e atât de drag și-atât de-armonios,
+Când Îl rostesc, în viață pace îmi aduce,
+Dându-mi bucuria, darul cel mai prețios.
+
+[c]
+/: Isuse sfânt, Comoara vieții mele,
+Îti multumesc pentru iubirea Ta
+Și pentru sângele ce-a curs cândva să spele
+Păcatul meu, pe cruce, sus la Golgota! :/
+
+[v2]
+Când stau la-ncrucișări de drum și parcă
+De toți sunt părăsit, Isuse-n lume,
+Când gândurile negre mă încearcă,
+Eu chem prezența sfântului Tău Nume.
+
+[v3]
+Speranță, Duh de viață și tărie
+Și-adevărată pace am găsit
+În Numele Tău sfânt ce vreau să-mi fie
+În viața mea stapân pân’ la sfârșit.

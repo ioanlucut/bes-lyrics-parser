@@ -1,0 +1,27 @@
+[title]
+Pace adanca {author: {Nicolae Moldoveanu}, {rcId: {186409}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pace adâncă e-n sufletu-acel
+Care-n adânc a primit pe Hristos,
+/: Chipul blândeții Cerescului Miel,
+Luci-va pe față mai viu, mai frumos! :/
+
+[c]
+Chipul Tău blând, sfânt și frumos,
+Fă să-L purtăm, Isus Hristos!
+
+[v2]
+Roada iubirii-ncunună din plin
+Pașnic și dulce pe-al dragostei fiu,
+/: Chipul evlaviei sfânt și senin,
+Luci-va pe față mereu tot mai viu! :/
+
+[v3]
+Cântec de slavă și har strălucit
+umple viața trăită-n Isus,
+/: Chipul luminii frumos și slăvit
+Luci-va pe față în veci, făr-apus! :/

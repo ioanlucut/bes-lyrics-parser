@@ -1,0 +1,54 @@
+[title]
+Ai alergat in aceasta lume {author: {Speranța}, {rcId: {233683}}
+
+[sequence]
+v1,c,v2,c2,e,e2
+
+[v1]
+Ai alergat în această lume
+După faimă să ai un nume
+Ai adunat să-ți faci un viitor
+Dar ai văzut că tot ce-ai strâns
+Atât de repede s-a dus
+Și ai rămas pustiu, cu suflet gol
+
+[c]
+Vise pierdute, speranțe deșarte
+Ai adunat atâția ani în inima ta
+Și ai rămas fără nădejde
+Dar vreau să-ți spun de cineva
+Ce te poate ajuta
+
+[v2]
+Ai ajuns la capăt de drum
+Crezând că mergi pe drumul bun
+Și frica ți-a cuprins inima
+Oprește-te o clipă dragul meu
+Oprește-te din drumul tău
+Este cineva ce te poate ajuta
+
+[c2]
+/: Vise pierdute, speranțe deșarte
+E tot ceea ce îți oferă a lumii plăceri
+Dar vreau să-ți spun, tu mai ai o șansă
+Șansa ta este Isus, pășește spre el :/
+
+[e]
+El te primește cu brațe deschise
+El e Domnul Domnilor
+A biruit boldul morții
+Și a ieșit învingător
+/: Vino azi înaintea lui
+Predăți viața în mâna lui
+Și el v-a netezi cărarea ta
+Vino azi cu credință
+Vino azi cu pocăință
+Viața ta de azi se v-a schimba :/
+
+[e2]
+Ai alergat în această lume
+După faimă să-ți faci un nume
+Dar astăzi te așteaptă Dumnezeu
+Pășește acum prin credință
+Vin la el cu pocăință
+/: De astăzi vei deveni copilul său :/

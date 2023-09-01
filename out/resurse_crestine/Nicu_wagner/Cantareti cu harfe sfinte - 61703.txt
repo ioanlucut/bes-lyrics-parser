@@ -1,0 +1,41 @@
+[title]
+Cantareti cu harfe sfinte {author: {Nicu Wagner}, {rcId: {61703}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Cântăreți cu harfe sfinte,
+Azi veniți cu toți voioși,
+Să intrăm cu zel fierbinte
+Pe a laudelor porți.
+
+[c]
+/: Să răsune-ntreg pământul
+De-ale noastre glasuri vii;
+Răsăritul și apusul
+De la nord la miazăzi. :/
+
+[v2]
+Înfrățiți de Domnul slavei
+Să cântăm cum n-am cântat,
+Să-i aducem jertfa laudei
+Celui Sfânt și preaînalt.
+
+[c2]
+/: Melodii cerești și sfinte
+Să-i cântăm uniți în cor,
+Preadivinului Părinte,
+Bunului Mântuitor. :/
+
+[v3]
+În cereasca-mpărăție
+Vom cânta, doar vom cânta.
+Hai de-aici din pribegie
+Să-nvățăm a-L lăuda.
+
+[c3]
+/: Laudă Ție, laudă Ție,
+Te slăvim neîncetat.
+Glorii, slavă pe vecie,
+Doamne fii pe veci lăudat. :/

@@ -1,0 +1,25 @@
+[title]
+Nu m lsa o doamne {author: {Nicolae Moldoveanu}, {rcId: {199269}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Nu mă ăsa, o, Doamne să obosesc luptând,
+Să nu ămân departe de-al fraților mei rând.
+/: Nu mă lăsa, o, Doamne să nu veghez mereu,
+Când leii dau târcoale, atâția-n jurul meu. :/
+
+[v2]
+Nu mă lăsa, o, Doamne să nu caut ceas cu ceas,
+Al rugăciunii dulce și-ntăritor popas.
+/: Nu mă lăsa, o, Doamne să uit ce datorez
+Luminii și-ascultǎrii pe care le urmez. :/
+
+[v3]
+Nu mă lăsa, o, Doamne să nu-mi doresc smerit
+Mai caldă ascultarea de tot ce-ai poruncit.
+/: Nu mă lăsa, o, Doamne să pot în nici un fel
+Să mă opresc’ nainte de-a fi ajuns la țel. :/
+/: Nu mă lăsa, o, Doamne, și știu că nu mă lași,
+Tu-mi-nsoțești oriunde ai vieții mele pași! :/

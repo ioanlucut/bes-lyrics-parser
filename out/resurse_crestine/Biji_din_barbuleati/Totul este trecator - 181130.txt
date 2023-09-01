@@ -1,0 +1,35 @@
+[title]
+Totul este trecator {author: {Biji din Barbuleati}, {rcId: {181130}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Totul este trecător,
+Omul este muritor,
+Viața trece ca un nor.
+Ai grijă ce tu alegi,
+De pământ să nu te legi,
+În curând tu ai să pleci.
+
+[c]
+Astăzi eșți și mâine pleci,
+Omule pribeag tu eșți.
+Predă-ți viața Lui Isus,
+Să ai parte-n ceruri sus.
+
+[v2]
+Fă-ți bine socoteala,
+Ce alegi în viața ta,
+Lasă tu calea cea rea.
+De-ai făcut bine sau rău,
+Va judeca Dumnezeu,
+Nu uita amicul meu.
+
+[v3]
+Ai în față două căi,
+Peste munți și peste văi,
+Spune pe care o vrei.
+Cea rea te va duce jos,
+Cea bună doar la Hristos,
+Trăiește-ți viața cu folos.

@@ -1,0 +1,23 @@
+[title]
+Salvat ce frumoasa cantare {author: {Anonim}, {rcId: {5215}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Salvat, ce frumoasă cântare
+Salvat prin sfânt sângele scump
+Salvat prin a Sa milă mare
+Pe veci eu sunt al Domnului
+
+[c]
+Salvat, salvat
+Salvat prin sângele său
+Salvat prin a sa milă mare
+Pe veci eu sunt al Domnului
+
+[v2]
+Cu El veșnicia în slavă
+Cu Domnul meu cel adorat
+Ce zilnic pe brațe mă poartă
+Eu laudă-i cânt neîncetat

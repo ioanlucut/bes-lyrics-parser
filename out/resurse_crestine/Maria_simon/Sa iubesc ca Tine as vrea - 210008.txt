@@ -1,0 +1,29 @@
+[title]
+Sa iubesc ca tine as vrea {author: {Maria Șimon}, {rcId: {210008}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Să iubesc ca Tine aș vrea,
+Cu Tine să mă pot asemăna!
+Să-mplinesc al Tău Cuvânt
+E tot ce îmi doresc pe-acest Pământ!
+
+[c]
+Pentru Tine eu trăiesc
+Și vreau mereu să mă sfințesc,
+/: Să pot fi si eu odată
+La Sărbătoare minunată. : \
+
+[v2]
+Ca Tine să iert și eu aș vrea,
+Piatra să n-o arunc vreodat’
+În cel ce poate a greșit,
+Căci prin harul Tău ne-ai mântuit!
+
+[v3]
+Ca Isaac, Avraam și Iacov
+Să cred mereu și eu aș vrea,
+Să spun ca Petru doresc mereu:
+Cu-adevărat doar EL e Dumnezeu!

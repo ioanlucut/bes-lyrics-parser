@@ -1,0 +1,29 @@
+[title]
+Fericita sa fii {author: {Anonim}, {rcId: {74226}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+/: Fericită să fii, fericită să fii,
+O pereche cum Domnul vă vrea! :/
+
+[v2]
+/: Neîncetat, zi de zi, neîncetat, zi de zi,
+Peste voi harul va revarsa! :/
+
+[v3]
+/: Când necazuri vor fii, când necazuri vor fii,
+Se cuvine să stați liniștiți! :/
+
+[v4]
+/: De veni-vor dureri, de veni-vor dureri,
+Strigați amândoi către cer :/
+
+[v5]
+/: Căci El va birui, căci El va birui,
+Și din moarte veți fi izbăviți :/
+
+[v6]
+/: O cât e de frumos, o cât e de frumos,
+Ca-n haina de nuntă să fiți! :/

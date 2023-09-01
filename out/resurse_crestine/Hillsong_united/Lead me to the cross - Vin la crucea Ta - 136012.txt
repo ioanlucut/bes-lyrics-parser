@@ -1,0 +1,33 @@
+[title]
+Lead me to the cross - vin la crucea ta {author: {Hillsong United, Traducere RO}, {rcId: {136012}}
+
+[sequence]
+v1,c,v2,c,c
+
+[v1]
+Isuse, vin să mă închin la cruce,
+Unde sângele Tău s-a scurs pentru-a mea salvare
+Și tot ce-am prețuit odat’ în urmă am lăsat.
+
+[c]
+Vin la crucea Ta, unde m-ai iubit,
+Stau îngenuncheat, Ție mă închin,
+Tot ce am Îți dau, spală-mă deplin,
+Condu-mă! Vin la crucea Ta.
+Vin la crucea Ta, unde m-ai iubit,
+Stau îngenuncheat, Ție mă închin,
+Tot ce am Îți dau, spală-mă deplin,
+Condu-mă! Vin la crucea Ta.
+Vin la crucea Ta, unde m-ai iubit,
+Stau îngenuncheat, Ție mă închin,
+Tot ce am Îți dau, spală-mă deplin,
+Condu-mă! Vin la crucea Ta.
+
+[v2]
+Miel nepătat, ai fost junghiat pentru mine,
+Te-ai întrupat, m-ai răscumpărat prin iubire.
+Și tot ce-am prețuit odat’ în urmă am lăsat.
+
+[b]
+Inima Ta, inima Ta,
+Vreau inima Ta, inima Ta!

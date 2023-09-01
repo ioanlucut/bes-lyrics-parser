@@ -1,0 +1,51 @@
+[title]
+Prin chinuri si necazuri grele {author: {Dionisie Giuchici}, {rcId: {84728}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Prin chinuri și necazuri grele
+E drumul nostru către stele.
+/: E drumul înspre veșnicie,
+Prin necaz, prin bucurie,
+Spre Cereasca-Mpărăție. :/
+
+[c]
+Necaz și bucurii
+Mereu vom întâlni,
+Pe drumul îngust și greu,
+Spre cer, spre Dumnezeu.
+Dar nu descurajați
+Nicicând surori și frați.
+Oricât ar fi de greu,
+Cu noi e Dumnezeu.
+
+[v2]
+Prin chinuri și amărăciune
+E calea înspre cele bune.
+/: E calea înspre izbăvire
+Unde-i numai fericire,
+Lângă Domnul în mărire :/
+
+[v3]
+Prin chinuri și prin mari talazuri,
+E calea noastră prin necazuri.
+/: Dar la sfârșit și la apus
+Ne-așteaptă răsplătirea sus,
+Căci ne va-ncununa Isus :/
+
+[v4]
+Prin suferințe și prin valuri,
+Noi vom ajunge sus la maluri.
+/: La țărmul binecuvântat
+Unde Isus i-a așteptat
+Pe toți acei care-au luptat :/
+
+[v5]
+Prin chinuri și prin încercare,
+E calea noastră spre salvare.
+/: De-aceea rabdă, nu cârti,
+Căci răsplătire vei primi
+Acolo sus în veșnicii :/
+.

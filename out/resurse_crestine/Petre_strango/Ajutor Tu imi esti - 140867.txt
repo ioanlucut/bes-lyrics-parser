@@ -1,0 +1,35 @@
+[title]
+Ajutor tu imi esti {author: {Petre Strango}, {rcId: {140867}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+/: Ajutor Tu îmi ești, ajutor Tu îmi ești,
+Ajutor în veci de veci :/ ×2
+
+[c]
+Când sunt slab Tu mă-ntărești când mă clatin mă proptești
+Numai Tu putere-mi dai să urc către rai
+Zi de zi să-naintez și pe calea Ta să merg
+Numai Tu, Doamne, m-ajuți, Tu-mi ești pavăză și scut!
+
+[v2]
+/: Ajutor Tu mi-ai fost, ajutor Tu mi-ai fost..
+Ajutor și adăpost :/
+
+[c2]
+Un ajutor și-un adăpost am găsit eu în Hristos,
+Căci de drumul rușinos m-a scăpat de-aici de jos.
+Astăzi merg pe drumul care mi-a adus prin El salvare,
+Care duce și încă poartă sus în ceruri dar prin Poartă.
+
+[v3]
+/: Ajutor Tu-mi vei fi, ajutor Tu-mi vei fi
+Când cel rău se va ivi :/
+
+[c3]
+Când cel rău se va ivi, Doamne, Tu-l vei nimici
+Și putere îmi vei da să-mi continui calea mea,
+Până când odată sus mă voi bucura nespus
+De Tine, ajutorul meu, că m-ai ajutat mereu.

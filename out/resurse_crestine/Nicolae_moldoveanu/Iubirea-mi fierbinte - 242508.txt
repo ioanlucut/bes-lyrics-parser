@@ -1,0 +1,23 @@
+[title]
+Iubirea-mi fierbinte {author: {Nicolae Moldoveanu}, {rcId: {242508}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Iubirea-mi fierbinte-ți dorește,
+Mai mult să-L iubești pe Hristos
+/: Căci sufletul care iubește
+E tânăr în veci și frumos! :/
+
+[v2]
+Și capul mereu ți se culce
+Pe umărul Lui mai supus,
+/: Nimic nu-i atâta de dulce
+Ca dragostea pentru Isus! :/
+
+[v3]
+Ea-i viață, putere, lumină,
+Și-avânt înspre veacul măreț,
+De ea fie-ți inima plină,
+E tot ce-ți doresc mai de preț!

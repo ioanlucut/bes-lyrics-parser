@@ -1,0 +1,41 @@
+[title]
+Stai in asteptare {author: {Mariana Someșan}, {rcId: {189244}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Stai în așteptare când furtuna-i mare căci Eu Domnul adesea ți-am vorbit
+Nu privi la tine, nu privi în lume căci ce ți-am promis voi împlini
+Stai în așteptare când furtuna-i mare, căci Cuvântul Meu nu va cădea
+Brațul Meu e tare dar mai ai răbdare Mâna Mea la lucru va intra.
+
+[c]
+1
+Stai în ascultare chiar de lupta-i mare căci Eu Domnul te voi ridica
+Voi intinde Mâna voi opri furtuna, niciodată nu te voi lăsa.
+Stai în ascultare chiar de lupta-i mare niciodată nu te-am părăsit,
+N-asculta vrăjmașul întărește-ți pasul Eu sunt Domnul care te-a iubit.
+2
+Stai în ascultare chiar de nu e soare căci prin Duhul te voi învăța
+Roagă-te fierbinte nu o lua ’nainte, vreau să fiu Eu călăuza ta.
+Lasă-mă pe mine să lucrez cu tine după planul și dorința Mea
+Susurul blând vine, fă liniște-n tine, mâna ta va fi în Mâna Mea.
+3
+Vreau să îți pleci capul și să-mi asculți glasul, vreau încet pe culmi să te ridic
+Vreau să-ți iau durerea să-Mi simți mângâierea Eu sunt Domnul care nu mă schimb
+Vreau să îți pleci capul și să-mi asculți glasul, niciodată nu te-am părăsit.
+Vreau să uiți de tine și să stai cu Mine, Eu sunt Domnul care ți-a vorbit.
+
+[v2]
+Mergi în ascultare chiar de lupta-i mare, căci Eu sunt Acel ce te-a trimis
+’
+Nasculta vrăjmașul întărește-ți pasul, Eu sunt Cel ce-adesea ți-a vorbit.
+Mergi în ascultare chiar de lupta-i mare sunt Acel ce drumu-ți netezesc
+Nu privi la tine încrede-te în Mine și-ai să vezi cum Eu am să lucrez
+
+[v3]
+Stai în ascultare chiar de-i greu pe cale numai Eu pot să te întăresc
+Milă și putere inima ta-mi cere și Eu vreau să ți le dăruiesc
+Vreau să treci cu Mine prin noapte și suspine peste ziduri vreau cu Min’ să treci
+Vreau să uiți de tine vreau să stai cu Mine Eu sunt Domnul care îți vorbesc.

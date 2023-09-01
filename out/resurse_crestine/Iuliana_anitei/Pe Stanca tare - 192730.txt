@@ -1,0 +1,32 @@
+[title]
+Pe stanca tare {author: {Iuliana Anitei}, {rcId: {192730}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Am fost găsit de Dumnezeul minunat
+Ce cu iubire și de mine s-a-ndurat
+M-a ridicat din groapa morții de păcat
+Iar azi sunt liber, prin Isus eu sunt salvat!
+
+[c]
+Pe Stânca tare vreau să stau când drumu-i greu
+Și când necazul împresoară drumul meu
+În orice vreme cu Tine să călătoresc
+Cu bucurie voia Ta să împlinesc.
+
+[v2]
+Când în primejdie mă aflu și sunt frânt
+Tu mă ridici, o Tată bun, milos și blând
+Mă-ncurajezi să cred deplin al Tău Cuvânt
+Să nu mă tem, Tu ești cu mine orișicând!
+
+[v3]
+Prin sfântul Tău Cuvânt mă-nveți cum să trăiesc
+Cum să mă port atunci când alții îmi greșesc
+De dragul Tău să mă jertfesc și să slujesc,
+Prin faptă, vorbă, trai să Te mărturisesc.
+
+[e]
+Cu bucurie pe Isus să-L slujesc!

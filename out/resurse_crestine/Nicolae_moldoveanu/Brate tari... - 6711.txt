@@ -1,0 +1,56 @@
+[title]
+Brate tari {author: {Nicolae Moldoveanu}, {rcId: {6711}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Brațe tari ca ale Tale,
+Dumnezeul meu Preasfânt,
+Nu sunt nicăieri asemeni,
+Nici în cer nici pe pământ.
+EIe-mi țin ființa-ntreagă,
+Mai statornicită-n har,
+De nu poate să mi-o smulgă,
+/: Duh vrăjmaș și vânt hoinar. :/
+
+[v2]
+Ochi pătrunzători de taine,
+Ca ai Tăi, nu sunt nicicând,
+Ei cunosc adâncul vieții,
+Și izvoru-oricărui gând.
+Sub lumina lor cea blândă,
+Mă păstrezi neîncetat,
+De nu poate să mă smulgă,
+/: Șarpele înveninat. :/
+
+[v3]
+Inimă mai iubitoare,
+Ca a Ta, o, unde-ar fi?
+Simțul, c
+Iocotu-i nu-i prinde,
+Mintea nu-l poate gândi.
+Cu încredere adâncă,
+Capu-l plec pe pieptul Tău...
+De aicea nu mă smulge,
+/: Nici ce-i bine, nici ce-i rău. :/
+
+[v4]
+Glas duios și mai puternic,
+Și de adevăr mai plin,
+Ca al Tău, nu-i nici acuma,
+Nici în vecii care vin.
+El aduce mângâiere,
+Vieții mele, pe orice drum,
+De nu poate să mi-o smulgă,
+/: Încercările de-acum. :/
+
+[v5]
+Față mai strălucitoare,
+Ca a Ta, Stăpân Ceresc,
+Bunatate mai întreagă
+Unde oare să găsesc?
+M-alipesc de Tine-n totul,
+Tu ești Adăpostul meu,
+Slavă, slavă, slavă Ție,
+/: Veșnicule Dumnezeu! :/

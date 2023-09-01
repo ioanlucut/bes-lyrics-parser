@@ -1,0 +1,31 @@
+[title]
+Profet {author: {Beniamin Palincaș}, {rcId: {221662}}
+
+[sequence]
+v1,b,c,v1,b,c,e
+
+[v1]
+Oare să țin ascuns de robii Mei
+Planul Meu? Oare?
+Oare să țin ascuns de robii Mei
+Planul Meu?
+
+[b]
+Gânduri de pace și bucurie
+Gândurile Mele
+Sunt bune și pentru tine
+
+[c]
+/: Iată vreau din tine să fac
+Un profet în loc uscat
+Neînfricat, să trăiești
+Și să declari viață celor ce n-au :/
+
+[e]
+/: Eu, Eu te-am ales
+Din valea cu oase
+Eu te-am cules
+Ți-am dat un nume
+Eu te-am găsit
+Le voi fi Tată
+Ei fiice și fii :/

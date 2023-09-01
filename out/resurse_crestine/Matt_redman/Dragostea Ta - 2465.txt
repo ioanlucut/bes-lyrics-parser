@@ -1,0 +1,23 @@
+[title]
+Dragostea ta {author: {Matt Redman}, {rcId: {2465}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Astazi te rog, Doamne din nou
+Să mă strângi mereu la pieptul Tău
+Vreau să Te-ating și să Te simt
+Să mă-ncred în brațul Tău, să mă-nchin.
+
+[c]
+Dragostea Ta, e speranța mea
+Iubirea Ta, e viața mea
+Tu-mi poți schimba inima
+Să fiu al Tău aș vrea.
+
+[v2]
+Tată acum, vreau să Îți spun:
+Te iubesc! Ești tot ce am mai bun!
+Mă-ncred deplin! Ești Domnul viu!
+Viața mea e-n Mâna Ta! Astăzi știu!

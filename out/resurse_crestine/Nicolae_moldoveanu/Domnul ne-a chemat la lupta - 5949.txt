@@ -1,0 +1,47 @@
+[title]
+Domnul ne-a chemat la lupta {author: {Nicolae Moldoveanu}, {rcId: {5949}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+Domnul ne-a chemat la lupta;
+Noi urmam al Sau Cuvant
+/: Si pornim acum, cu totii,
+La razboiul Lui cel sfant. :/
+
+[v2]
+Nu ne-nfricoseaza moartea,
+De s-ar cere sa murim;
+/: Pentru Domnul suntem gata
+Orisicand sa ne jertfim. :/
+
+[v3]
+De dusmani noi nu ne temem,
+Orisicat e ura lor;
+/: Caci in fruntea noastra-i Domnul,
+Scumpul nostru Ajutor. :/
+
+[v4]
+El Se lupta, El invinge,
+El biruitor va fi;
+/: Si pe cei rai, cu suflarea
+Gurii Sale,-i va zdrobi. :/
+
+[v5]
+Cei cu inima-mpartita,
+Cei ce n-au nici un temei,
+/: Cei fricosi sa plece-acasa:
+Nu-i razboiul pentru ei! :/
+
+[v6]
+Sus la Comandantul nostru
+Toti privirea s-o avem!
+/: In prigoana si-n furtuna,
+Sus dreptatea s-o tinem! :/
+
+[v7]
+Catacombe sunt destule,
+Temnite destule sunt,
+/: Si le vom umplea pe toate,
+Pentru-al Domnului Cuvant. :/

@@ -1,0 +1,30 @@
+[title]
+Te chem ca sa vii {author: {Nicolae Moldoveanu}, {rcId: {192898}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Te chem ca să vii, Mântuitorul meu,
+Scăpare să-mi fii, căci trec pe-un drum mai greu
+Să fiu nerăpus, când sunt viclean lovit,
+’
+Nălțând tot mai sus, al păcii steag slăvit!
+
+[c]
+Să-nalț mai sus,
+Să-nalț mai sus,
+Mereu mai sus,
+Cuvântul Tău, Isus!
+
+[v2]
+Un duh luminat prin har să-mi dai oricând,
+Și-un trup îmbrăcat cu chipul Tău cel blând!
+Să-Ți pot înălța mai sfânt, mai luminos,
+Deplin voia Ta, stăpânul meu, Hristos!
+
+[v3]
+Cu Duhul cel Sfânt să mă păzești de rău
+Să pot pe Pământ s-ascult Cuvântul Tău!
+Să-nalț mai deplin, întreg și neschimbat
+Pășind mai senin pe drumul Tău curat!

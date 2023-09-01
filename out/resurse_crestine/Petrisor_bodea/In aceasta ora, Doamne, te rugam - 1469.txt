@@ -1,0 +1,38 @@
+[title]
+In aceasta ora doamne te rugam {author: {Petrișor Bodea}, {rcId: {1469}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+În această oră, Doamne, Te rugăm
+Să iei parte Tu cu noi,
+Să ne-ascuți cum Îți cântăm și Te lăudăm,
+Întotdeauna fii cu noi!
+
+[c]
+Să nu ne lași părăsiți nicicând
+Căci noi trăim doar cu Tine-n gând,
+Doar pe Tine Te avem
+Și-n Tine ne-ncredem!
+Tu ești al nostru Mântuitor
+Minunat și bun Păstor,
+Doar cu Tine vrem să fim, în cerul lin!
+
+[v2]
+Să ne porți de grijă, să nu ne lași nicicând
+Ca să mergem înapoi,
+Tot ’nainte să mergem cu Tine, Doamne,
+Deși-ncercările-s șuvoi!
+
+[v3]
+Când ispite mari apar în viața mea,
+N-am pe nimeni ajutor...
+Doar în Tine pururea ne încredem noi,
+Veșnice Ocrotitor!
+
+[v4]
+Iar acuma, Doamne, noi Îți mulțumim
+Pentru bunătatea Ta,
+Pentru dragostea dintâi și iubirea Ta
+Vrem în veci să-Ți mulțumim!

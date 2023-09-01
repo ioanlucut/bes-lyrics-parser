@@ -1,0 +1,26 @@
+[title]
+Cand ai creat un pamant din nimic {author: {Iulia Contis}, {rcId: {246090}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când ai creat un pământ din nimic,
+Privind spre Tine, eu, astăzi, îmi zic:
+Mai înțelept decât tot Tu ai fost
+Și pentru toate ai dat Tu un rost!
+
+[c]
+/Tu ești glorios! / x3
+
+[v2]
+Când heruvimul căzut a învins,
+Luptând cu omul, în Tine-ai cuprins
+Chiar mărginirea umană atunci
+Și-ai stabilit Tu mai multe porunci!
+
+[v3]
+Prin Domnul veșnic, venit-ai în timp
+Și ai trăit într-al vieții-anotimp;
+Apoi, în slavă, Tu, de-aici, de jos,
+Mers-ai și veșnic Tu ești glorios!

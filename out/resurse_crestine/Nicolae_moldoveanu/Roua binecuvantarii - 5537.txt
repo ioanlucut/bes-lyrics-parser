@@ -1,0 +1,47 @@
+[title]
+Roua binecuvantarii {author: {Nicolae Moldoveanu}, {rcId: {5537}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Roua binecuvântării
+Cu belșug de roade sfinte,
+Peste voi să Și-o reverse
+Preaputernicul Părinte!
+
+[c]
+/: Să vă-nsoțească iubirea
+Ce v-a legat!
+Prin ea, trăiți fericirea,
+Cu-adevărat. :/
+
+[v2]
+Proaspătă și întărită
+Să vă fie-oricând credința!
+De vin vânturi și talazuri,
+Ea v-aduce biruința.
+
+[v3]
+În unirea voastră sfântă,
+Izvorâtă din iubire,
+S-aveți nuntă minunată
+Cu belșug de fericire!
+
+[v4]
+Odihniți-vă pe brațul
+Dragostei și milei Sale
+Și nimic n-o să vă-nfrângă
+Viața, pe-a Lui sfântă cale.
+
+[v5]
+Veți trăi, și azi și mâine,
+În iubirea cea curată,
+Nezărind a ei sfârșire
+Niciodată... niciodată.
+
+[v6]
+Nu priviți la voi întruna!
+Ochii voștri să vă fie
+Spre Acel ce poate totul,
+Spre Isus ce-adânc vă știe.

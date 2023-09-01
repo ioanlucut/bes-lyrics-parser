@@ -1,0 +1,37 @@
+[title]
+O tara mea o domnul meu {author: {Nicolae Moldoveanu}, {rcId: {5330}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7,v8
+
+[v1]
+O tara mea, o, Domnul meu, o O, vesnicule Dumnezeu,
+/: Preasfanta-mparatia Ta, o Doresc sa fie tara mea. :/
+
+[v2]
+O, tara mea, mult te iubesc. o Ca si-un ostas tie-ti slujesc;
+/: Domnul Isus mi-a pregatit, o In tine, loc preafericit. :/
+
+[v3]
+O, tara mea, te voi iubi o Cat pe pamant eu voi trai.
+/: De Domnul, eu voi asculta, o Caci Domnul e iubirea mea. :/
+
+[v4]
+Sunt un strain pe-acest pamant, o Insa al Domnului Cuvant
+/: M-asigura, ca o sa vie o A Tatalui Imparatie. :/
+
+[v5]
+O tara mea, locas iubit... o In tine vom intra-n curand
+/: Si-acolo ne vom bucura o Si de necazuri vom uita. :/
+
+[v6]
+Vom uita ca, pe-acest pamant, o Am suferit atat de mult,
+/: Si ne va sterge lacrima, o El, chiar Isus, cu mana Sa. :/
+
+[v7]
+Ajuta-ne, Isus iubit, o Ca sa fim gata orisicand!
+/: Si-atunci, cand Tu vei aparea, o Sa ne iei sus in slava Ta. :/
+
+[v8]
+Isuse, Doamne, nu uita: o Trimite har, prin mila Ta,
+/: Si-ajuta-ne ca sa-Ti slujim, o Cu Tine-n ceruri, toti, sa fim! :/

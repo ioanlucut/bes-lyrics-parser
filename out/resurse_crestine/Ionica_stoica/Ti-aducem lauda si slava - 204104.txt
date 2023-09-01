@@ -1,0 +1,36 @@
+[title]
+Ti-aducem lauda si slava {author: {Ionică Stoica}, {rcId: {204104}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: Ți-aducem laudă și slavă
+În veci de veci Te preamărim
+Prin Tine am primit iertare
+Cu Tine, Doamne, vrem să fim! :/
+
+[c]
+Trăiască Domnul ce ne-a creat,
+Trăiască Domnul ce ne-a salvat
+Trăiască Domnul ce ne-a mântuit
+Trăiască Isus, în veci fie slăvit!
+
+[v2]
+/: Ți-aducem laudă și slavă
+Prin jerfă ne-ai răscumpărat,
+Ne-ai împăcat prin a Ta moarte
+Cu Dumnezeu cel minunat! :/
+
+[v3]
+/: Ți-aducem laudă, mărire
+Isuse scump Mântuitor
+Prin încercări, prin suferințe
+Ne-ai fost sprijin și-ajutor :/
+
+[v4]
+/: Ți-aducem laudă, Isuse,
+Cât vom trăi pe-acest pământ!
+Și vom striga: ”
+Trăiască Domnul”!
+Căci Tu pe noi ne-ai mântuit. :/

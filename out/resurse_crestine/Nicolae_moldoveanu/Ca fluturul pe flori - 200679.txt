@@ -1,0 +1,41 @@
+[title]
+Ca fluturul pe flori {author: {Nicolae Moldoveanu}, {rcId: {200679}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Ca fluturul pe flori,
+Gingaș și lin.
+În suflet să-mi cobori,
+Al păcii-alin.
+
+[c]
+Mântuitorul meu,
+La Tine vin mereu.
+Când mi-e ușor, ori greu,
+Tu ești al meu.
+
+[v2]
+Ca fulgul alb de nea,
+Și mai ușor.
+Îmi lași Tu, pacea Ta,
+De răni ce dor.
+
+[v3]
+Ca lacrima pe-obraz,
+Curat cleștar.
+În mine picuri azi,
+Al păcii har.
+
+[v4]
+Ca boarea de zefir,
+Divin, plăcut.
+Mă unge-al păcii mir,
+Cu-al ei sărut.
+
+[v5]
+Doar sfântă pacea Ta
+Isus iubit.
+Mă poate mângâia,
+Când sunt lovit.

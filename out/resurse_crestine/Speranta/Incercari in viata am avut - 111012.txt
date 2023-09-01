@@ -1,0 +1,32 @@
+[title]
+Incercari in viata am avut {author: {Speranța}, {rcId: {111012}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Încercări în viață am avut
+Dar Tu Doamne ai rămas lângă mine
+M-ai ridicat când eram căzut
+Prin orice greu, Domnul meu
+M-ai ajutat să trec cu bine.
+
+[c]
+Vreau din inimă să-Ți mulțumesc
+Pentru că în încercare Doamne m-ai păzit,
+Vreau din inimă să Te slăvesc
+Că ochii Tăi cu drag spre mine au privit!
+
+[v2]
+Vânturi au bătut în barca mea
+Ea nu se mai putea zări printre valuri,
+Tu Ți-ai arătat puterea Ta
+O, Scump Isus, m-ai condus,
+M-ai scos din greu și din necazuri!
+
+[v3]
+Cei din jur adesea n-au știut
+Cât de grea a fost povara ce-am purtat
+Doamne, Tu din cer m-ai văzut
+Iar în dureri mi-ai dat puteri,
+Brațul Tău m-a ajutat!

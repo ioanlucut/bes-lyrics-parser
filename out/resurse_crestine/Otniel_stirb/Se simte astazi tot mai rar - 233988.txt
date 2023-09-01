@@ -1,0 +1,55 @@
+[title]
+Se simte astazi tot mai rar {author: {Otniel Stirb}, {rcId: {233988}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Se simte astăzi tot mai rar
+A Duhului putere
+Biserici multe fără har
+Ajuns-au zile grele,
+Suntem din ce în ce mai reci
+La slujbele divine
+Izvoarele-s aproape seci,
+Pierim fără de Tine.
+
+[c]
+O, Doamne îndură-Te de noi,
+Ai milă, Bun Părinte,
+Ni-e dor de dragostea dintâi
+Curată și fierbinte
+Suntem aproape să intrăm
+În țara mult promisă
+Putere-Ți cerem, Te rugăm
+Căci lupta e încinsă
+
+[v2]
+Chiar lumea-ntreagă s-a schimbat
+E multă-nvățătură
+Păcatul nu mai e păcat
+Rușinea, e „cultură”
+E tot mai greu să mai găsești
+Iubire și dreptate
+Creștinii sunt tot mai firești,
+E multă falsitate.
+
+[v3]
+E mare zarvă pe pământ
+Și ură-ntre popoare
+Se-ncalcă azi Cuvântul Sfânt
+E-atâta nepăsare
+Fecioare, voi ce-ați adormit
+De lunga așteptare,
+S-aveți uleiul pregătit
+Căci Mirele apare!
+
+[v4]
+Pe drumul înspre Canaan
+Spre sfânta-mpărăție
+Cu Tine Doamne an de an
+Străbatem prin pustie
+Sub soarele dogoritor
+Doar Tu ne ești drapelul
+Cu Tine Bunule Păstor,
+Noi vom atinge țelul

@@ -1,0 +1,35 @@
+[title]
+Eu te am pe tine {author: {Lidia Gheorghe}, {rcId: {146714}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Eu te am pe Tine,
+M-ajuți să-mi fie bine;
+Dumnezeul meu.
+Tu, mă ai pe mine,
+Vreau să-ți slujesc bine;
+Dumnezeul meu.
+
+[c]
+Dumnezeul meu,
+Tu mă scapi de rău.
+Dumnezeul meu,
+Vreau să fiu mereu al Tău.
+
+[v2]
+Eu, te am pe Tine,
+Tu mă ai pe mine;
+Dumnezeul meu.
+Amândoi mereu,
+Nu îmi va fi greu;
+Dumnezeul meu.
+
+[v3]
+Prin orice ispite
+Pot trece cu bine;
+Dumnezeul meu.
+Dacă-ngenunchez,
+Te chem, cânt, veghez;
+Dumnezeul meu.

@@ -1,0 +1,41 @@
+[title]
+Cuvantul izvorat din tine {author: {Text Traian Dorz, muzica Sebastian Mistreanu}, {rcId: {221022}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Cuvântul izvorât din tine
+E-o parte din ființa ta
+/: Și-n timp acum și-n vesnicie
+El chipul tău ți-l va purta :/
+
+[v2]
+Pe fapta ta se-ntipărește
+Făptura sufletului tău
+/: Din clipa când o săvârșește
+Și gândului curat sau rău :/
+
+[v3]
+Pe toate lucrurile-atinse
+Pe orice căi pe unde treci
+/: Pe anii tăi icoana stării
+Ți-o-ntipărești acum pe veci :/
+
+[v4]
+Și-n marea zi a judecății
+Din orice vorba-ți vei vedea
+/: Venind spre tine tot păcatul
+Sau binele ce-ai pus in ea :/
+
+[v5]
+Vedea-ți vei faptele arătându-ți
+Pecetea chipului avut
+/: Și starea josnică ori sfântă
+În care ai fost când le-ai făcut :/
+
+[v6]
+O nu uita nimic nu piere
+Nici gând, nici faptă, nici cuvânt
+/: Cu toate ai stai o dată
+La judecata Celui Sfânt :/

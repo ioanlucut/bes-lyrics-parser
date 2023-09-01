@@ -1,0 +1,45 @@
+[title]
+Veniti veniti {author: {Nicolae Moldoveanu}, {rcId: {244483}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Veniți, veniți,
+Cei rătăciți,
+Din negre văi,
+Pe albe căi,
+Suiți spre cer,
+Din fum și ger,
+Suiți mereu,
+Spre Dumnezeu.
+
+[c]
+Ce har slăvit,
+V-a pregătit,
+Acolo Sus,
+Domnul Isus!
+De-L ascultați,
+Și de-L urmați,
+Veți bea din plin,
+Al vieții vin.
+
+[v2]
+Veniți Ia El,
+Cerescul Miel,
+El v-a purtat,
+Un greu păcat,
+Prin chin cumplit,
+L-a ispășit,
+Ca voi să fiți,
+În cer primiți.
+
+[c2]
+Veniți acum,
+Hristos e-n drum,
+Și-așteaptă blând,
+Al vostru gând.
+Veniți, veniți,
+Voi cei trudiți,
+El vă va da,
+Odihna Sa!

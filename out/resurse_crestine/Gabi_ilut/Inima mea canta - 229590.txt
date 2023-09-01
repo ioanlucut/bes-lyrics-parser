@@ -1,0 +1,26 @@
+[title]
+Inima mea canta {author: {Gabi Ilut}, {rcId: {229590}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Numai pentru Dumnezeu
+Voi cânta în vesel ritm de laudă
+E e cel ce m-a iubit mereu.
+Mi-a iertat păcatul greu
+Și m-a cucerit cu vocea-I caldă
+Recunosc că nu mai sunt al meu.
+
+[c]
+/: Inima mea pentru Tine cântă
+Tot ce e-n ea, Te binecuvântă
+Inima mea pentru Tine cântă, Domnul meu! :/
+
+[v2]
+Viața mea Lui i-am predat
+Să Te-ncrezi în El e-atât de bine
+Gândurile toate le-am schimbat.
+Vreau să spun neîncetat
+Cine e ca El în slavă, cine?
+Dumnezeu puternic, minunat.

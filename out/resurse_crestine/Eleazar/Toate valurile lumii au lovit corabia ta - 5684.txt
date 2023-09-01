@@ -1,0 +1,35 @@
+[title]
+Toate valurile lumii au lovit corabia ta {author: {Eleazar}, {rcId: {5684}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Toate valurile lumii
+Au lovit corabia ta
+Ești trudit în suflet tare
+Tristă-ți este inima
+
+[c]
+Nu te teme, nu te teme
+Domnul nu te va lăsa
+Nu te teme, nu te teme
+El este tăria ta
+
+[v2]
+Ca și ucenicii-n valuri
+Când au spus că vor pieri
+Strigă tu la Domnul Isus
+Marea se va liniști
+
+[v3]
+Domnul Isus te iubește
+El știe necazul tău
+Numai el te izbăvește
+Fiindcă El e Dumnezeu
+
+[v4]
+Dacă valurile lumii
+Se înalță tot mai sus
+Mai presus de-orice putere
+E puterea lui Isus

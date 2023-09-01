@@ -1,0 +1,38 @@
+[title]
+Psalmul {author: {Nicoleta Mascas adaptare după Jennie Lee Riddle, Josiah Warneking, Josh Miller, Shane Barnard}, {rcId: {181432}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+Priviți lucrarea Domnului,
+Acel în veci lăudat,
+Căci El și sulița a rupt,
+Și arcu’ a sfărâmat.
+Puternic Domn, la glasul Tău,
+Războiul s-a sfârșit
+Și carele de luptă Tu
+Cu foc le-ai mistuit.!
+
+[c]
+Tu ești Adăpostul, sprijin și Nădejde,
+În furtuni sau flăcări, veșnic Ajutor.
+Tatăl nostru, ne conduci în luptă,
+Ești de partea noastră, al oștirii Domn!
+
+[v2]
+Tu stăpânești peste pământ,
+Ești mare și temut.
+Tu clatini munții în ocean,
+Sfârșit ești și-nceput.
+Tu știi ce arde-n inimă
+Și, totuși, ne iubești.
+Cu noi Te lupți s-alungi ce-i rău
+Și să ne cucerești!
+
+[b]
+În valul greu ești Domnul meu și la porunca Ta
+Se liniștește inimă și vânt,
+Și împărății și neamuri se frământă,
+Dar la glasul Tău
+Se-nchină tot ce-i pe pământ!

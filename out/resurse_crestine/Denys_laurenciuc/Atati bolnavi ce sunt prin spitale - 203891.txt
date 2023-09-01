@@ -1,0 +1,41 @@
+[title]
+Atati bolnavi ce sunt prin spitale {author: {Denys Laurenciuc}, {rcId: {203891}}
+
+[sequence]
+v1,c,c2,v2,c,v3,c
+
+[v1]
+Atâția bolnavi ce sunt prin spitale
+Atâția orfani și sărmani care plâng
+/: Te-așteaptă pe Tine să dai vindecare
+Sau măcar un strop de-ndurare
+Vino Isuse la noi jos în vale
+Și prin Duhul Tău mai spune-un cuvânt: \
+
+[c]
+Ridică-ți azi patul și umblă
+Mai poți ca să zici și acum
+Și orice suferință și orice neputință
+Tu poți să o vindeci Părinte bun
+
+[c2]
+Ridică-ți azi patul și umblă
+Mai poți ca să zici și acum
+Și orice slăbiciune și orice amărăciune
+/: Tu poți să o vindeci Părinte bun: \
+
+[v2]
+Atâția Te-așteaptă să vii jos în vale
+S-alini Tu necazuri, dureri și nevoi...
+/: Sunt mame ce plâng în grea disperare
+Scăldând odaița în lacrimi amare...
+Căci vântul lovește în barca mai tare..
+O vino Isuse, coboara la noi... : \
+
+[v3]
+Știu că suntem slabi, și răi o Părinte
+Dar azi Te rugăm să mai spui un cuvânt
+/: În noapte s-alini obrazul fierbinte...
+Ce-Ți spune durerea prin lacrime sfinte
+Și-n cor Te rugăm sa iei azi aminte
+La cel ce povara își duce plângând: \

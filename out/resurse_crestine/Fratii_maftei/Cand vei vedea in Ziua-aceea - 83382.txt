@@ -1,0 +1,29 @@
+[title]
+Cand vei vedea in ziua-aceea {author: {Fratii Maftei}, {rcId: {83382}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când vei vedea în ziua-aceea
+Că El a fost Cel răstignit,
+Ce-amar te vei căii, că Domnul
+Te-a tot chemat, dar n-ai venit!
+
+[c]
+/: O, Dumnezeu să aibă milă,
+Nu-ți pierde sufletu-n pustiu,
+Să plângi acum spre mântuire
+Și nu atuncea prea taziu! :/
+
+[v2]
+Când vei vedea în ce-ntuneric
+Te duci pe veci nemântuit,
+Ce-amar te vei căii, că-n viață
+Ai auzit dar n-ai primit!
+
+[v3]
+Când vei vedea, orice nădejde
+De mântuire ți-ai pierdut...
+Ce-amar te vei căii zadarnic
+De tot ce vezi dar n-ai crezut!

@@ -1,0 +1,29 @@
+[title]
+Iubire mareata {author: {Remus Tămășan Cristi}, {rcId: {155899}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Nu e-n lume o iubire
+Mai măreață ca a Ta
+Ea-mi dă pace, mântuire
+Și îmi schimbă inima.
+
+[c]
+/: Iubire măreață venită de Sus
+Speranță și viață e Domnul Isus. :/
+/: Iubire măreață venită de Sus
+Speranță și viață e Domnul Isus. :/ x4
+
+[v2]
+O, ce mare îndurare
+Mie, Tu, mi-ai arătat
+Când din moarte și pierzare
+Din păcat, Tu, m-ai salvat.
+
+[v3]
+Toată viața eu v-oi spune
+De iubirea lui Isus
+Nu-i nimic în astă lume
+Să mă poată duce Sus.

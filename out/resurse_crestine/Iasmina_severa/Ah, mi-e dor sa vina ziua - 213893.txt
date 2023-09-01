@@ -1,0 +1,47 @@
+[title]
+Ah mi-e dor sa vina ziua {author: {Iasmina Severa}, {rcId: {213893}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Ah, mi-e dor să vină ziua
+Revederii mai curând
+Să-i întâlnesc pe toți aceia
+Ce-au părăsit acest pământ.
+
+[c]
+Mi-e dor de-aceea zi
+Să zbor spre veșnicii
+Spre Țara unde lacrimi n-or mai fi
+Să mă înalț nespus
+Cu Tine scump Isus
+Spre Țara fericirii făr’ apus.
+
+[v2]
+Azi mireasa-i încercată
+Rabdă focul în cuptor
+Fiindcă o vrei fără de pată
+La venirea Ta pe nori.
+
+[c2]
+La poartă în pridvor
+Te-așteaptă cu dor
+Să vii cu-al tău balsam vindecător
+Să ștergi al ei obraz
+Zbârcit de-atât necaz
+Ești așteptat, Isus, să vii chiar azi.
+
+[v3]
+Lupta este tot mai mare
+Drumu-i zi de zi mai greu
+Obosiți privim în zare
+După ajutorul Tău.
+
+[c3]
+Te așteptăm să vii
+Să vii să ne mângâi
+La cârma vieții noastre să rămâi
+Condu-ne Tu, Hristos
+Tu Soare luminos
+Spre Portul fericirii glorios.

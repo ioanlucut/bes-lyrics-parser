@@ -1,0 +1,29 @@
+[title]
+Plecam pe cai necunoscute {author: {Nicolae Moldoveanu}, {rcId: {5607}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Plecăm pe căi necunoscute
+În marea lucrare a Domnului
+Ca să vestim solia sfântă
+A revenirii Lui.
+
+[c]
+/: Astăzi urmăm calea lui Isus.
+Știm că, în curând, El va veni de sus;
+Știm că Domnul nostru va veni de sus,
+Ca să ne ia la El. :/
+
+[v2]
+Plecăm, plecăm, cu voie bună;
+Lucrăm în câmpul Domnului.
+A lumii piedici și păcate
+Nu ne vor ține-n loc.
+
+[v3]
+Plecăm să arătăm în lume
+Iubirea cea mare a Domnului
+Și să vestim solia sfântă
+A revenirii Lui.

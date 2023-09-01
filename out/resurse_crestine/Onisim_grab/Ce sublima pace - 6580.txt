@@ -1,0 +1,29 @@
+[title]
+Ce sublima pace {author: {Onisim Grab}, {rcId: {6580}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Ce sublimă pace, când vom lua lin zborul
+Spre văzduhul plin de simfonii
+Ce măreață clipă, vom vedea pe Domnul
+Cel etern, veșnic din veci.
+
+[c]
+O, ce sărbătoare, bucurie mare
+Când cu îngerii toți vom cânta
+Vom străbate norii ce-s mai sus de stele
+Și vom pe veci în Paradis.
+
+[v2]
+Ne-om unii în cântec cu acei din ceruri
+Spre-a lăuda pe Acel ce-i veșnic sfânt.
+Ce divine clipe, când cu toți în zboruri
+Ne vom îndrepta spre rai cântând.
+
+[c2]
+O, ce bucurie, de-a fi lângă Domnul
+De-a rămâne în iubirea Sa.
+Ca în ziua sfântă, să putem lua zborul
+Și să fim cu El, de-a pururea.

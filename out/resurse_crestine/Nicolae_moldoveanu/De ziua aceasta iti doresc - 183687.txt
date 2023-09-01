@@ -1,0 +1,35 @@
+[title]
+De ziua aceasta iti doresc {author: {Nicolae Moldoveanu}, {rcId: {183687}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+De ziua aceasta iți doresc
+Un har bogat în toate,
+/: Iar omului duhovnicesc
+Deplină sănătate! :/
+
+[v2]
+Din biruinți în biruinți
+Să mergi pe sfânta cale
+/: Și pacea fie-n suferinți
+Cununa frunții tale :/
+
+[v3]
+Blândețea Blândului Isus
+Să-ți lumineze fața,
+/: Și viața Cerului de Sus
+Mereu să-ți umple viața :/
+
+[v4]
+Parfum divin să răspândești
+Oriunde te vei duce
+/: Prin toate să mărturisești
+Iubirea de pe cruce :/
+
+[v5]
+Hristos să fie-n viața ta
+Întreg fără schimbare
+/: Ca-n El deplin să poți avea
+Eternă sărbătoare! :/

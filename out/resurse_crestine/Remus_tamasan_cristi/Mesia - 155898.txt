@@ -1,0 +1,29 @@
+[title]
+Mesia {author: {Remus Tămășan Cristi}, {rcId: {155898}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Nu vreau nicio sărbătoare
+Ci vreau să am în inima mea
+Un loc sfânt, o iesle în care
+Să se nască Mesia.
+
+[c]
+Mesia, Mesia
+El în inimă-i sărbătorit
+Mesia, Mesia
+El e Regele iubit.
+
+[v2]
+Doar El e sfântă sărbătoare
+De Îi faci loc în inima ta
+Ți-aduce pace și iertare
+El e Domnul Mesia.
+
+[v3]
+Nu vreau nicio sărbătoare
+Ci vreau să am în inima mea
+Un loc sfânt, o iesle în care
+Să se nască Mesia.

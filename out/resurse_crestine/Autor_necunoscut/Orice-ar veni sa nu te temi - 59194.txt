@@ -1,0 +1,29 @@
+[title]
+Orice-ar veni sa nu te temi {author: {Anonim}, {rcId: {59194}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Orice-ar veni să nu te temi,
+Domnul te va păzi!
+Pavăza Lui te va scuti,
+Domnul te va păzi.
+
+[c]
+Domnul te va păzi!
+În orice loc și-n orice zi,
+Domnul te va păzi!
+Domnul te va păzi.
+
+[v2]
+În zile pline de necaz,
+Domnul te va păzi!
+Când cel Rău te v-amenința,
+Domnul te va păzi.
+
+[v3]
+De ești lipsit El va vedea,
+Domnul te va păzi!
+Cererea ți-o va asculta
+Domnul te va păzi!

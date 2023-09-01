@@ -1,0 +1,15 @@
+[title]
+Buna dimineata doamne eu iti zic {author: {Anonim}, {rcId: {219891}}
+
+[sequence]
+v1,c
+
+[v1]
+Buna dimineata, Doamne, eu Iti zic
+Buna dimineata, cand ochii-mi deschid
+
+[c]
+Mii de pasarele zorii ii vestesc
+Si in cant cu ele si eu Te slavesc
+Si in zorii zilei spre Tine-mi indrept
+Lauda si cantarea, ma rog si Te-astept

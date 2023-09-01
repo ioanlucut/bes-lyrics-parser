@@ -1,0 +1,36 @@
+[title]
+Bun medic esti isuse {author: {Anonim}, {rcId: {6526}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Bun medic ești Isuse
+Bun medic minunat
+Mărturisesc minunea
+Bolnavii vindecați.
+
+[c]
+Nu-i nimeni să lege o rană
+Cum Doamne Tu ai legat
+Nu-i nimeni, nu-i nimeni,
+Nu-i nimenea să lege
+Cum Doamne Tu ai legat.
+
+[v2]
+Femeia păcătoasă
+Și orbul bartimeu
+Mărturisesc minunea
+Fiului Dumnezeu.
+
+[v3]
+L-ai înviat Isuse
+Pe Lazăr din mormânt
+Și lumea din-prejuru-ți
+Minunea au văzut.
+
+[v4]
+Toți păcătoșii lumii
+Pe care i-ai iubit
+Mărturisesc Isuse
+Mila și harul Tău iubit.

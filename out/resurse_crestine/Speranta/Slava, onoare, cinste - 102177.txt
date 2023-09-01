@@ -1,0 +1,29 @@
+[title]
+Slava onoare cinste {author: {Speranța}, {rcId: {102177}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Spre Tine Doamne, eu privesc
+La Tine Doamne, mă gândesc
+Îți cânt din toată inima
+Un imn de laudă spre slava Ta.
+
+[c]
+/: Slavă, onoare, cinste și mărire
+Ți-aduc Doamne azi ca mulțumire
+Osana, osana, osana cânt mereu
+Tu ești Domnul vieții, Dumnezeu :/
+
+[v2]
+Îți cânt stăpânul meu iubit
+Numai Tu mai izbăvit.
+La Tine am găsit iubire
+Izvor de pace și fericire.
+
+[v3]
+La Tine am găsit iertare
+Nădejde, viață și salvare
+De aceea cât voi trăi
+Doar pe Tine Doamne te voi sluji.

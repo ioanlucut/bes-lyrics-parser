@@ -1,0 +1,35 @@
+[title]
+Doamne {author: {Speranța}, {rcId: {101890}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Doamne, slavă vrem să-Ți dăm
+În veci de veci
+Slavă-n veci de veci :/
+Glorii, glorie-Ți cântăm
+În veci de veci
+Glorii-n veci de veci
+
+[c]
+De veacuri domnești
+Popoare cârmuiești
+Universul tot e-n mâna Ta
+
+[v2]
+/: Doamne, Tu ești Împărat
+În veci de veci
+Împărat în veci de veci :/
+Puternic Domn Minunat
+În veci de veci
+Împărat în veci de veci
+
+[v3]
+Ție cu toții ne-nchinăm
+În veci de veci
+Închinăm în veci de veci
+/: Cerul spune Slava Ta
+Tot mereu
+”
+Există Dumnezeu” :/

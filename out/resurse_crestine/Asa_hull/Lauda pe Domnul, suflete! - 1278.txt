@@ -1,0 +1,29 @@
+[title]
+Lauda pe domnul suflete {author: {Asa Hull}, {rcId: {1278}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Laudă pe Domnul, suflete,
+La tronul Său proșterne-te,
+Laudă în rugă și în cânt
+Pe Tatăl, Fiul, Duhul Sfânt!
+
+[c]
+Laudă--L în zori și pe--nserat
+Pe Cel ce har divin ți--a dat,
+Cântă din toată inima:
+Slava, iubirea, mila Sa.
+
+[v2]
+Duh de viață ai primit,
+Prin harul Său te--a înnoit,
+Ț-i-a dat prin jertfă pacea Lui
+Și moștenirea cerului.
+
+[v3]
+Domnul te scapă de cel rău,
+Te izbăvește--n ceasul greu,
+Cu bucurie și sfânt har
+Îți umple-a-l inimii altar.

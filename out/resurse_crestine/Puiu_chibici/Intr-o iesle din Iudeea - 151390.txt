@@ -1,0 +1,41 @@
+[title]
+Intr-o iesle din iudeea {author: {Puiu Chibici}, {rcId: {151390}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+/: Într-o iesle din Iudeea
+S-a născut Mântuitorul
+Așa cum a spus Isaia
+Se va naște Salvatorul. :/
+
+[c]
+Numele lui e Isus
+Care viață ne-a adus
+Cel ce este Împărat
+Veșnic să fii lăudat.
+
+[v2]
+Niște magi din depărtare
+Au zărit pe cer o stea
+Au pornit cu toți pe cale
+Să-L caute pe Mesia :/
+
+[c2]
+Până-n Betleem la staul
+Steaua i-a călăuzit,
+Să-și aducă a lor daruri
+Celui care s-a născut.
+
+[v3]
+/: Aur smirnă și tămâie
+Pruncului ei au adus
+Și s-au închinat îndată
+Regelui cel sfânt Isus. :/
+
+[c3]
+Haideți de acum și noi
+Să ne închinăm mereu
+Celui care ne-a salvat
+Mulțumind lui Dumnezeu.

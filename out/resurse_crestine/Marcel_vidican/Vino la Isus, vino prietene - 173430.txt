@@ -1,0 +1,29 @@
+[title]
+Vino la isus vino prietene {author: {Marcel Vidican}, {rcId: {173430}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Vino la Isus Vino prietene
+Dă-i viața Lui și întoarce-te
+/: Te-a răscumpărat cu sângele Lui
+Ca să poți vedea îndurarea Domnului. :/
+
+[v2]
+Tu ai fost căzut în bezna de păcat
+Mult ai rătăcit și-ai fost apăsat
+/: De satan cel rău care te-a înșelat
+Și-n viața ta multe răni ți-a dat. :/
+
+[v3]
+Vino dragul meu, cu păcatul tău
+Recunoaște-te și să-ți pară rău
+/: Că L-ai supărat prin trăirea ta
+N-ai știut ca El te poate ajuta. :/
+
+[v4]
+O ascultă-i azi glasul lui Isus
+Și predă-te lui Domnului Isus
+/: Să fi mireasa Lui sus în țara Sa
+Vine în curând, vine să ne ia. :/

@@ -1,0 +1,35 @@
+[title]
+Am auzit de o tara {author: {Cristian Hartie}, {rcId: {7223}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Am auzit de o țară, de țara lui Isus,
+Și că-i frumoasă tare și aș vrea ca să fiu dus
+/: Pe străzile de aur, să fiu cu Domnul meu,
+Să-I spun ce grea-i durerea și cât Îl iubesc eu. :/
+
+[v2]
+M-am săturat de lume străin să fiu mereu,
+Căci n-am mamă și tată, decât pe Dumnezeu.
+/: Aș vrea să zbor spre stele, odihnă să găsesc,
+Și în dulcea primăvară pe veci să locuiesc. :/
+
+[v3]
+Te aștept mereu întruna, dar văd că nu mai vii
+Te așteaptă și martirii, Isuse, să-i învii.
+/: Acolo este țara și Domnul meu Isus,
+Și știu că voi ajunge când noi vom fi răpiți. :/
+
+[v4]
+Chiar dacă lupta-i mare, Te așteaptă ai Tăi copii
+Tot cu nădejde vie, Isus, când ai să vii.
+/: Am auzit de o țară ce o doresc nespus,
+Să las jos tot necazul, să fiu lângă Isus. :/
+
+[v5]
+Pe străzile de aur să fiu cu Domnul meu,
+Să-I spun ce greu necazul și cât Îl iubesc eu.
+/: Am auzit de o țară, de țara lui Isus,
+Să las jos tot necazul, să fiu lângă Isus. :/

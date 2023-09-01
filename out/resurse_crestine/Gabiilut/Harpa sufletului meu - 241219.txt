@@ -1,0 +1,23 @@
+[title]
+Harpa sufletului meu {author: {Gabi_Ilut}, {rcId: {241219}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Mulțimi în sărbătoare cântă-n cer: Ție slavă!
+Cu zecile de mii toți îngerii, veșnic Te slăvesc.
+Tu, Mielul cel junghiat, vrednic ești Tu, să primești lauda!
+Puterea, bogăția, înțelepciunea, cinstea și tăria...
+
+[c]
+/: Cu harpa sufletului meu, doar pentru Tine, Isus:
+Voi cânta, voi cânta, voi cânta, voi cânta mereu!
+Cu harpa sufletului meu, un imn străbate zorii.
+Voi cânta, voi cânta și eu! :/
+
+[v2]
+Cu sângele Tău pentru Dumnezeu, oameni ai răscumpărat.
+Din orice neam, din orișice norod, viață în dar le-ai dat;
+Ești viu și stăpânirea toată în cer și pământ, este a Ta.
+Tu, Leul cel puternic, ai biruit și meriți lauda!

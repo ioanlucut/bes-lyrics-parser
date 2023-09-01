@@ -1,0 +1,23 @@
+[title]
+You raise me up () {author: {Secret Garden, Traducere RO}, {rcId: {3959}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Cand sunt căzut, și sufletul-mi tânjește
+Probleme vin și inima mi-e grea,
+Stau nemișcat, aștept doar în tăcere
+Ca Tu să vii să-mi stai alăturea.
+
+[c]
+/: Tu mă ridici, să pot să stau pe munte
+Tu mă ridici, să pot umbla-n furtuni
+Pe-ai Tăi umeri, Doamne, sunt puternic
+Căci mă ridici mai mult decât pot fi. :/
+
+[v2]
+Nu este niciun suflet fără doruri.
+Trudită, inima îmi bate greu.
+Dar când Tu vii și sunt plin de mirare
+Mă văd pentru-un moment în veșnicii.

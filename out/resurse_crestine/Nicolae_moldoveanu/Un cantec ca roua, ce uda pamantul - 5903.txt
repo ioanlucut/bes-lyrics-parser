@@ -1,0 +1,47 @@
+[title]
+Un cantec ca roua ce uda pamantul {author: {Nicolae Moldoveanu}, {rcId: {5903}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Un cântec ca roua, ce udă pământul
+Și zorile-albastrelor zări
+Frumoasă-i cântărea ce zboară într-una
+Departe, departe de nori.
+
+[c]
+O, harfă a lui David,
+Răsună ne’ncetat!
+O, harfă a lui David!
+Ea cântă minunat!...
+
+[v2]
+Se-ntinde pe ape, pe mări și oceane,
+Spre ceruri se-nalță mereu,
+Un cântec ce David îl cântă cu harfa,
+Spre lauda lui Dumnezeu.
+
+[v3]
+O mână se plimbă pe harfă, coboară
+Dând tonuri plăcute mereu;
+Frumoasă-i cântărea ce-o cântă la harfă,
+Cuvintele lui Dumnezeu.
+
+[v4]
+La curtea lui Saul, chemat e să cânte
+Un tânăr cu părul bălai,
+E tânărul David, venit de la staul,
+Atât de iubit de Isai.
+
+[v5]
+E vesel și cântă; el știe să cânte,
+Pe Domnul să-L laude mereu.
+Cântărea ce-o cântă e-atâta de sfântă,
+Spre lauda lui Dumnezeu.
+
+[v6]
+Prin Duh, David cântă, c-așa-i obiceiul
+Să cânte din suflet senin;
+Din inimă cântă, pe Domnul Îl laudă,
+Pe Domnul din cerul divin.

@@ -1,0 +1,17 @@
+[title]
+Daca voi nu veti canta {author: {Lidia Gheorghe}, {rcId: {127450}}
+
+[sequence]
+v1,c
+
+[v1]
+Dacă voi nu veți cânta,
+Pietrele Îl vor lăuda
+Pe-acest Mare Creator,
+De viață dătător.
+
+[c]
+/: Hai, deschide-ți gura!
+El ți-o va umplea.
+Cântă-I Lui întruna,
+Bunătatea Sa! :/

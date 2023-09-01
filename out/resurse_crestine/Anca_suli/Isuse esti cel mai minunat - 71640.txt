@@ -1,0 +1,35 @@
+[title]
+Isuse esti cel mai minunat {author: {Anca Suli}, {rcId: {71640}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Isuse, ești Cel mai minunat
+Ești Domn al vieții, Împărat
+/: Tu ești Prinț al păcii, Prieten bun, Minunat
+Domnul nostru fii-n veci lăudat! :/
+
+[v2]
+Isuse doar Ție vreau să-Ți cânt
+Atât cât voi trăi pe-acest pământ
+/: Un imn de mărire Domnului meu bun și sfânt
+Aleluia, Osanale-n veci cântând. :/
+
+[v3]
+Isuse fii-n veci glorificat
+Slăvit, preamărit și înălțat
+/: Căci prin jertfa Ta sfântă de la pieire m-ai salvat
+O, ce mare iubire-ai arătat! %
+
+[v4]
+Isus știu că-n curând Tu ai să vii
+Pe nori de slavă, din veșnicii
+/: Ce zi minunată și glorioasă va fi
+Când la cer pe-ai Tăi iubiți îi vei răpi! :/
+
+[v5]
+Isuse vreau cu Tine să merg mereu
+Chiar și pe drumul ce pare atât de greu
+/: Cu mâna Ta bună să conduci pasul meu
+Înspre Tine, o, Tată, Dumnezeu! :/

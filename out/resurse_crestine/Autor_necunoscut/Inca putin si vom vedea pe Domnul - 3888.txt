@@ -1,0 +1,39 @@
+[title]
+Inca putin si vom vedea pe domnul {author: {Anonim}, {rcId: {3888}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Încă puțin și vom vedea pe Domnul
+Încă puțin și vom pleca la El
+Ne-om înălța spre zările senine
+La Dumnezeu sfânt Emanuel
+
+[c]
+/: O Doamne ți-așteptăm venirea
+În taină cu atâta dor
+Să Te vedem iubite mire
+O vino scump mântuitor
+O Doamne ți-așteptăm venirea
+În taină cu atâta dor
+Mai toarnă-n vase untdelemnul
+Să întărești al Tău popor :/
+
+[v2]
+Încă puțin popor mai ai răbdare
+Încă puțin și Domnul ne-o chema
+De Duhul Sânt fiți plini azi fiecare
+Și fericiți spre ceruri vom zbura
+
+[v3]
+Încă puțin mai stai în rugăciune
+Mai stăruiește după Duhul Sfânt
+Nu da-napoi și luptă înainte
+Biruitori plecăm de pe pământ
+
+[v4]
+Încă puțin la ușă este Domnul
+Încă puțin fi treaz și vegheator
+Cât de curând tu vei primi cununa
+Fi plin de duh să fi biruitor.

@@ -1,0 +1,37 @@
+[title]
+In fiecare dimineata {author: {Nicolae Moldoveanu}, {rcId: {5340}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+/: În fiecare dimineață, :/
+Când este cerul luminos,
+/: Mi-e inima de cântec plină :/
+Sunt fericit că sunt al lui Hristos...
+/: Sunt fericit, sunt fericit,
+Sunt fericit ca sunt al lui Hristos... :/
+
+[v2]
+/: În fiecare zi senină, :/
+Când mii de flori aduc prinos,
+/: Mi-e inima de cântec plină :/
+Si-s fericit că sunt al lui Hristos...
+/: Și-s fericit, și-s fericit
+Și-s fericit că sunt a lui Hristos. :/
+
+[v3]
+/: În fiecare clipă sfântă, :/
+Când bate vântul mângâios,
+/: Întregu-mi dor spre zări se-avântă :/
+Și-s fericit că sunt al lui Hristos...
+/: Și-s ferici, și-s fericit,
+Și-s fericit că sunt al lui Hristos :/
+
+[v4]
+/: Chiar dacă anii vieții zboară :/
+Și cer senin de-a pururi nu-i,
+/: Dar Domnul meu e-o primavară :/
+Când, fericit, voi fi pe veci al Lui...
+/: Când fericit, când fericit,
+Când fericit voi fi mereu al Lui. :/

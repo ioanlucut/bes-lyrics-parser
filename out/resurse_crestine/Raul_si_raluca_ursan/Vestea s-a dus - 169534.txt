@@ -1,0 +1,35 @@
+[title]
+Vestea s-a dus {author: {Raul și Raluca Ursan}, {rcId: {169534}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Vestea s-a dus în lung și-n lat
+Ni sa născut un împărat
+Acolo în iesle printre boi
+Venind să moară pentru noi.
+
+[c]
+Pentru mine s-a născut cel ce n-are început
+A venit să aducă pacea pentru noi
+Doamne ce putem să-ți dăm de la tine toate avem
+De aceea din inimă iți cântăm x2
+
+[v2]
+Acel ce în lume ai venit
+Și în locul meu tu ai plătit
+Mi-ai ridicat povara grea
+Murind pe o cruce-n Golgota
+
+[v3]
+Ferice de cel ce îți va da
+Inima să te naști în ia
+Acolo să rămâi mereu
+Căci tu ești domn ești Dumnezeu
+
+[v4]
+Eu știu că locul ți-l gătești
+În inima mea să trăiești
+Și să rămâi pe veci in ia
+Că și tu ești domn ești Mesia.

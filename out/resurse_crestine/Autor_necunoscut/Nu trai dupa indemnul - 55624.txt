@@ -1,0 +1,29 @@
+[title]
+Nu trai dupa indemnul {author: {Anonim}, {rcId: {55624}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+/: Nu trai dupa indemnul firii Pamantesti,
+Cand o sa ajungi la capat moarte-ai sa culegi :/
+
+[c]
+/: Traieste dupa indemnul Duhului Cel Sfant,
+Cand vei ajunge la capat vei fi cu Isus :/
+
+[v2]
+/: Nu trai iubitul meu cum traieste lumea,
+Ei traiesc poftele firii culeg putrezirea :/
+
+[v3]
+/: Este scris in Galateni 5 cu 22,
+Roada Duhului Cel Sfant cum sa traim noi :/
+
+[v4]
+/: Haide-ti fratilor acum sa nu implinim,
+Pofta firii pamantesti cat o sa traim :/
+
+[v5]
+/: Tu daca traiesti in fire n-ai ce sa culegi,
+Decat moarte si durere pana-n veci de veci. :/

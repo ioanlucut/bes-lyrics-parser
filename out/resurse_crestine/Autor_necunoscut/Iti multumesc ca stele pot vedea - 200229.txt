@@ -1,0 +1,45 @@
+[title]
+Iti multumesc ca stele pot vedea {author: {Anonim}, {rcId: {200229}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Iți mulțumesc că stele pot vedea
+Iți mulțumesc că mă iubești așa
+Iți mulțumesc că-mi dai tot ce-I mai bun
+Și că mă porți in inimă adânc
+Iți mulțumesc de liniște-n apus
+Iți mulțumesc de armonia ploii
+Iți multumesc că in tăcerea nopții
+Aud cum cântă universul
+
+[c]
+Viață Doamne Tu ne dai din plin
+Și ne incurajezi sa fim puternici
+Avem motive multe mari si mici
+Să Te iubim, din plin Doamne meriți!
+
+[v2]
+/Iți mulțumesc de adieri de vânt
+Iți mulțumesc că urechea ascultă
+Iți mulțumesc că râurile curg
+Și că in ploaie păsările cântă
+/:
+
+[v3]
+/Iți mulțumesc că palmele sunt calde
+Iți mulțumesc de pașii cei vioi
+Iți mulțumesc că ochii lăcrimează
+Și-ți mulțumesc de sufletul din noi
+/:
+
+[c2]
+:/
+Viață noi din Tine-avem
+Și tot ce mișună sub soare
+Oriunde-am fi ai Tăi suntem
+Curând Te vom vedea
+Curând Te vom vedea
+/:
+Curând Te vom vedea...

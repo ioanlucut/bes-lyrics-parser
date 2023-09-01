@@ -1,0 +1,30 @@
+[title]
+Steaua lumineaza bland {author: {Diaz Amos}, {rcId: {237949}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Steaua blând ne luminează întreg orășelul
+mut;
+Îngerii coboară-n roiuri pe la streșini cu avânt.
+Formează un roi imens înconjurând un
+grăjduț,
+Unde culcat într-o iesle doarme un copilaș
+micuț!
+
+[c]
+Ce fericire de Crăciun în armonia Duhului.
+Cântece de sărbătoare; plin înaltul cerului.
+Ne așezăm cu toți timizi în fața ieslei de
+Împărat,
+Unde cineva ca dar pentru noi S-a dat!
+
+[v2]
+Pe cărarea pietruită păstorii încep a merge,
+Steaua le arătă drumul pentru a-L vedea pe
+Rege!
+Ce minune în noaptea blândă ca un rege să
+se nască,
+Îmbrăcând cu atâta har, în strai de lume
+pământească!

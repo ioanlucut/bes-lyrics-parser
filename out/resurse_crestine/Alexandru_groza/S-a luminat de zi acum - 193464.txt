@@ -1,0 +1,17 @@
+[title]
+S-a luminat de zi acum {author: {Alexandru Groza}, {rcId: {193464}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+S-a luminat de zi acum, noaptea s-a dus în a ei drum
+O nouă zi s-a revărsat, o nouă zi, El, Domnul ne-a dat
+
+[c]
+Soarele drag a răsărit, natura-ntreagă El a trezit
+O zi frumoasă, bine-ai venit, Tată din ceruri, Tu ești slăvit!
+
+[v2]
+Zile frumoase Domnul ne dă, să-L prețuim cu laudă
+Zilele sunt ale Domnului, iar noi suntem copiii Lui!

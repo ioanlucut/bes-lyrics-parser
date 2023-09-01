@@ -1,0 +1,29 @@
+[title]
+Vreau s-am pe isus cu mine {author: {John R. Sweney}, {rcId: {74464}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Vreau s-am pe Isus cu mine
+Fără El, nu biruiesc!
+Vreau să simt a Lui prezență,
+Pe-al Său braț mă întăresc!
+
+[c]
+/: Cu-al meu Domn n-am să mă tem,
+Mă las dus unde vrea El,
+Fără murmur vreau să umblu,
+În urma Domnului meu! :/
+
+[v2]
+Vreau s-am pe Isus cu mine,
+Altfel, pasu-mi șovăie.
+El îmi dă bune cuvinte,
+Har și pace dăruie.
+
+[v3]
+Vreau s-am pe Isus cu mine,
+Pe calea-mi de peregrin;
+El furtunile alină,
+Ce asupra noastră vin.

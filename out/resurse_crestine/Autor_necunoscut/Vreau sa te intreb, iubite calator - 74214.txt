@@ -1,0 +1,67 @@
+[title]
+Vreau sa te intreb iubite calator {author: {Anonim}, {rcId: {74214}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,v5,c5
+
+[v1]
+Vreau să te întreb, iubite călător:
+”
+Nu vrei tu să vii în țara zorilor?”
+C-acolo-s martirii și toți credincioșii
+C-acolo-ți sunt frații, cu toții bucuroși.
+
+[c]
+Acolo, departe pe albastru cer
+Acolo e țara credincioșilor.
+Sunt rascumparatati de Blândul Isus
+/: El i-a luat pe brațe, i-a dus până sus. :/
+
+[v2]
+Ai dormit atâția ani întregi de-a rândul
+Lângă drumul pe care alții l-au străbătut
+Cu povara crucii ai fost după Isus
+L-ai trudit să-Și ducă crucea până sus.
+
+[c2]
+Șiruri te-au ajuns, Calea celor vii
+Numai tu nu mai mergi și nu vrei să vii
+Chiar și cei săraci, fericiți s-au dus
+Dar pe ține păcatul mare te’a răpus
+Nu mai vrei să vii la crucea lui Isus!
+
+[v3]
+Isus pe Golgota pentru ține a mers
+Picurii de sânge încă nu s-au șters
+Multele lacrimi curse în suspin
+Nici urmă de cruce, trecută prin chin.
+
+[c3]
+Întoarce-te iarăși și vino la El!
+Noaptea va veni și ești singurel
+Untdelemn nu ai și nici candelă
+/: Greu te-ai rătăcit, mare-i rana ta! :/
+
+[v4]
+Au ajuns ologii înaintea ta
+Au vorbit și mutii vestind slava Sa
+Surzii și cei răi au auzit de El
+Au pornit slujind și ei tot la fel.
+
+[c4]
+Vino și tu azi să fii mângâiat
+Leapădă povara prinsă de păcat
+Căci destul ai plâns, ai fost chinuit
+/: De Isus, de frați, tu ai să fii iubit :/
+
+[v5]
+Nici povara crucii, nici drumul cu spini
+N-au putut întoarce înapoi pe creștini
+Încercări și valuri multe deseori
+Dar cu Domnul nostru cel biruitor
+
+[c5]
+Mulțumim, o, Doamne, căci ne-ai arătat
+Harul și iubirea pe care ni le-ai dat
+Din păcat, din moarte, unde am fost căzuti
+/: Tu, de mântuire, parte ne-ai făcut :/

@@ -1,0 +1,40 @@
+[title]
+Se va spune odata: a fost un pamant {author: {Dionisie Giuchici}, {rcId: {5881}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Se va spune odată: ”
+A fost un pământ
+Cu pomi cu verdeață, cu păsări și cânt
+Dar flăcări grozave și foc de nespus
+Au ars tot pământul și tot l-au distrus.”
+
+[c]
+/: Da, se va spune că jos în abis
+A fost o lume și-un vechi Paradis. :/
+
+[v2]
+Se va spune odată a fost un pământ,
+Un rai, o grădină a Domnului Sfânt
+Dar unul din îngeri și omul căzut
+Cu ura de moarte pământu-a umplut.
+
+[v3]
+Se va spune odată a fost un pământ
+Și sus pe o cruce un nou legământ
+Ce grea suferință Isus a răbdat
+Să scape pe omul căzut în păcat.
+
+[v4]
+Se va spune odată a fost un pământ
+Și-o sfântă mireasă c-un tainic veșmânt
+Având o candelă și vas și ulei
+Dorind să-ntâlnească pe mirele ei.
+
+[v5]
+Se va spune odată a fost un pământ
+Cu oamenii sfinți ce-au ieșit din mormânt
+Și sus către ceruri cu toți au zburat
+Că jos au rămas doar cei morți în păcat.

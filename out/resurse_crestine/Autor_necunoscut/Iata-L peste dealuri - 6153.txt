@@ -1,0 +1,31 @@
+[title]
+Iata-l peste dealuri {author: {Anonim}, {rcId: {6153}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Iată-L peste dealuri pe blândul Păstor.
+Oaia rătăcită caută cu zor.
+
+[c]
+Pe tine te caută,
+Pe mine mă caută vino suflete.
+Pe tine te caută,
+Pe mine mă caută la Isus vino!
+
+[v2]
+Oaia rătăcită, prin văi a căzut
+Și-o cheamă cu lacrimi și cu glas scăzut.
+
+[v3]
+Hai și mă ridică bunul meu Păstor
+Tu-mi ești mângâierea fără Tine mor.
+
+[v4]
+Leagă a mele rane ce mă dor amar.
+Și-mi dă Tu, Isuse din cerescul har.
+
+[v5]
+Pe-ale Tale brațe iubitor mă ia
+Și mă du Isuse chiar în turma Ta.

@@ -1,0 +1,27 @@
+[title]
+Pe-a betleemului campie {author: {Anonim}, {rcId: {1517}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pe-a Betleemului câmpie
+Păstorii turmele-și păzesc
+Când îngereasca melodie
+Încânt-auzul lor pe dat´.
+
+[c]
+/: Să fie pace, fericire
+Și bucurie și înfrățire. :/
+
+[v2]
+Mulțimi de îngeri dau de veste:
+Azi nouă S-a născut Isus
+Mântuitor El nouă este
+´mplinind dorința din cer sus.
+
+[v3]
+Isus e gata să ne fie
+Tăria spre-a putea fi sfânt
+El tot mai sus pe noi ne îmbie
+Să fie viața noastră cânt.

@@ -1,0 +1,37 @@
+[title]
+Eu cant fiindca-ti cunosc iubirea {author: {Miriam Muntean}, {rcId: {225862}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Eu cant fiindca-Ti cunosc iubirea
+Si n-as putea nicicand sa tac
+/: Caci daca tac canta natura
+Si toate cate le-ai creeat :/
+
+[c]
+Ca sa iubesc nu este greu
+E tot ce-mi cere Dumnezeu.
+/: Vreau zambete lumina culoare
+Sa raspandesc in jurul meu :/
+Ca sa iubesc nu este greu
+E tot ce-mi cere Dumnezeu.
+/: Vreau zambete lumina culoare
+Sa raspandesc in jurul meu :/
+Ca sa iubesc nu este greu
+E tot ce-mi cere Dumnezeu.
+/: Vreau zambete lumina culoare
+Sa raspandesc in jurul meu :/
+
+[v2]
+Eu cant chiar si cand lacrimi multe
+Inunda greu suflet meu
+/: Mi-ai spus ca viata-i o secunda
+Iar restul este Dumnezeu :/
+
+[v3]
+Domn al dragostei, iubire sfanta
+Jertfa desavarsita pe altar
+/: Invata-ma sa-Ti pretuiesc iubirea
+Eu viata mea ti-o dau in dar! :/

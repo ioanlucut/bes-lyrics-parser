@@ -1,0 +1,41 @@
+[title]
+Unde-s crestinii {author: {Ionuț Crăciun}, {rcId: {158619}}
+
+[sequence]
+v1,c,v2,c,e,c2
+
+[v1]
+Stau pe genunchi
+Și ochii mi-au secat demult, de-atâta plâns,
+Tot mai puțini sunt sfinții în dragostea dintâi,
+Ce luptă pentru Cer.
+
+[c]
+Unde-s creștinii care,
+Zideau altar de mulțumiri în binecuvântare?
+Unde-s martirii care,
+Cereau iertare pentru acei ce-i dădeau la fiare?
+Unde-s urmașii care,
+Credința veche ce-au primit și-au dus-o mai departe?
+
+[v2]
+M-am cercetat, mă regăsesc printre acei,
+Ce-n luptă au cedat.
+Să ne trezim, credința veche s-o păzim,
+Lumina răspândind!
+
+[e]
+Să strângem rândul să luptăm,
+Credința veche s-o păstrăm,
+În cinste și dreptate!
+În dragoste vom semăna,
+La urmă, ne vom bucura,
+În roadele-i bogate!
+
+[c2]
+Eu vreau să fiu creștinul care,
+Zidește-altar de mulțumiri, în binecuvântare!
+Să fiu martirul care, cere iertare pentru acei,
+Ce vor să mă împresoare!
+Să fiu urmașul care, credința veche cea primit,
+O duce mai departe!

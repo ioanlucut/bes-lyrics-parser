@@ -1,0 +1,41 @@
+[title]
+Cand eu ma simt pe cale {author: {Anonim}, {rcId: {68993}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Când eu mă simt pe cale
+Singur descurajat
+Nu uit că-n cer e-un Tată
+Ce nu m-a părăsit.
+
+[c]
+Eu cânt în lumină și noapte,
+Cu totul eu Lui m-am supus
+Eu nu pot să tac și voi spune
+Cum Domnul m-a condus.
+
+[v2]
+Soare de dimineață,
+Văd noaptea cum o-nfrângi
+Astfel mă simt cu Tatăl
+Condus prin taine-adânci.
+
+[v3]
+Strălucitoare ziua
+Cum nici gândi nu pot,
+El s-a decis să ducă
+Tatăl conduce tot.
+
+[v4]
+Aștept cu nerăbdare
+Când Domnul va veni
+Să-i ia pe-ai Lui din lume
+Să-i duca-n veșnicii.
+
+[v5]
+Să vină ziua-n care
+Cu Domnul, noi vom sta
+Și-n bucurie mare
+Nunta o vom serba.

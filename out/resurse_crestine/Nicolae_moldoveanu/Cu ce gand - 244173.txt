@@ -1,0 +1,41 @@
+[title]
+Cu ce gand {author: {Nicolae Moldoveanu}, {rcId: {244173}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Cu ce gând cați
+Spre ce dorești,
+Spre ce te-abați,
+Acela ești!
+Cu ce gând cânți,
+Spre slava cui,
+Ce dor frămânți,
+/: E sfânt, sau nu-i! :/ x3
+
+[v2]
+Cu ce gând vii
+Spre cei curați,
+Cu ce gând scrii
+Ce slavă cați?
+Cu ce gând taci,
+Ce nu răspunzi,
+Cu ce gând faci
+/: Ce vrei s-ascunzi? :/ x3
+
+[v3]
+Cu ce gând spui
+Cuvântul sfânt,
+Folosul cui
+Cați pe pământ?
+Ce gând, ce gând
+În tine ai,
+Când cauți și când
+/: Te duci ori stai? :/
+
+[v4]
+/: Căci gândul tău
+E viața ta,
+E bun sau rău,
+Ești tu așa. :/

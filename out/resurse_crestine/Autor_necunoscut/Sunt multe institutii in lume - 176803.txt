@@ -1,0 +1,33 @@
+[title]
+Sunt multe institutii in lume {author: {Anonim}, {rcId: {176803}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Sunt multe instituții în lume
+Sunt multe făcute de om
+Dintre acestea numai două
+Sunt făcute de Dumnezeu
+
+[c]
+Familia și Biserica sunt făcute de Dumnezeu
+Familia și Biserica ai grijă să nu le pierzi
+
+[v2]
+Dintre aceasta toate multe
+Câte sunt pe-acest pământ
+Prețuieștele pe acestea
+Care numai două sunt.
+
+[v3]
+Frate luptă cu putere
+Să păstrezi ce este scump
+Lupta sora dragă luptă
+Că ușor tu poți să-i pierzi
+
+[v4]
+În final acestea doua
+Haina alba vor avea
+E mireasa scumpă frate
+Sus in cer o vei vedea

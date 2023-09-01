@@ -1,0 +1,35 @@
+[title]
+Spre cer doresc a ma grabi {author: {C.H.Gabriel}, {rcId: {1848}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Spre cer doresc a mă grăbi
+Pășind mai sus din zi în zi;
+În calea mea mă rog mereu
+Să mă ridici, o, Domnul meu!
+
+[c]
+Te rog, ridică-mă și-oi sta
+Încrezător pe calea Ta;
+Să mă ajuți a mă-nălța
+Mai sus, mai sus, în slava Ta!
+
+[v2]
+Nicicând eu nu doresc a sta
+În îndoieli și teamă grea,
+Chiar dacă mulți așa trăiesc
+Eu un loc mai înalt doresc.
+
+[v3]
+Doresc să urc mereu mai sus
+Privind la chipul Tău, Isus,
+Prin Duhul Sfânt să cresc mereu
+Din slavă-n slavă, Domnul meu!
+
+[v4]
+Doresc s-ajung acolo sus
+Să văd mărirea lui Isus;
+De-aceea eu mă rog mereu
+Să mă ajuți, o, Domnul meu!

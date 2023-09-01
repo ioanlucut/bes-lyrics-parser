@@ -1,0 +1,55 @@
+[title]
+E craciunul {author: {Kutless}, {rcId: {157271}}
+
+[sequence]
+v1,b,c,v2,b,c2,e
+
+[v1]
+E greu să adormi, ești frământat
+Lângă brad te-ai așezat
+Te gândești, ai uitat ceva,
+Pe lângă tot ce-ai decorat
+Mai mult decât cadou sub brad
+Întrebi mereu, mai e și altceva.
+
+[b]
+Oare am uitat cumva
+De ce sărbătorim?
+Oare am uitat cumva
+De ce sărbătorim?
+
+[c]
+Ce-i Crăciunul,
+Dacă Regele din iesle, e doar poveste
+Ce-i Crăciunul,
+Fără El ?
+
+[v2]
+Îți amintești cum s-a întâmplat
+Când ceru-ntreg s-a luminat
+Și Darul Sfânt în fașă L-am primit,
+De îngeri El a fost lăudat
+Păstori și magi, s-au închinat
+Pe pământ pacea a venit.
+
+[c2]
+Ce-i Crăciunul,
+Dacă Regele din iesle, e doar poveste
+Ce-i Crăciunul,
+Dacă îngerii n-au spus: Glorie, Regelui Isus!
+Ce-i Crăciunul,
+Fără El ?
+
+[e]
+/: N-ar fi nici, Gloria
+In excelsis Deo. :/
+
+[c]
+Ce-i Crăciunul,
+Dacă Regele din iesle, e doar poveste
+Ce-i Crăciunul,
+Fără El ?
+E Crăciunul,
+Căci Regele din iesle, nu-I doar poveste
+E Crăciunul,
+E doar despre Isus.

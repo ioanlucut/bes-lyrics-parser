@@ -1,0 +1,29 @@
+[title]
+Sunt doar un biet pribeag prin lume {author: {Anonim}, {rcId: {5837}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Sunt doar un biet pribeag prin lume
+Un călător spre țara mea
+Dureri și boale și primejdii
+Străbat mereu în calea mea
+
+[c]
+Eu merg spre cer să îmi văd Tatăl
+Trec peste-orice în drumul meu
+Voi trece în curând Iordanul
+Și voi intra-n căminul meu
+
+[v2]
+Trudesc, căci grea mi-a-naintarea
+Mă lupt să biruiesc mereu
+Un foc nestins mă cheamă-acasă
+E dorul după Dumnezeu
+
+[v3]
+Îmi voi parcurge calea toată
+Și voi ajunge-al meu sfârșit
+Primit voi fi cu bucurie
+Acasă când voi fi sosit

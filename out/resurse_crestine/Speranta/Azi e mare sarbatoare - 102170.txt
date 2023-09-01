@@ -1,0 +1,46 @@
+[title]
+Azi e mare sarbatoare {author: {Speranța}, {rcId: {102170}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Azi e mare sărbătoare!
+Omenirea va trăi
+Clipele venirii-n lume
+Domnului din veșnicii.
+
+[c]
+Frate care-asculți colindul ești bucuros ?
+Îl sărbătorești și tu pe Isus Hristos?
+
+[v2]
+Pregătiri se fac oriunde,
+Mese pline din belșug,
+Se servesc în orice casă,
+Lumea spune că este Crăciun.
+
+[c2]
+Frate care-asculți colindul cum sărbătorești ?
+Ești adâncit în chefuri sau te pocăiești?
+
+[v3]
+Bucuroși copii în cete
+Azi colindă peste tot.
+Toți spun ”
+S-a născut Mesia”
+Veselie este peste tot.
+
+[c3]
+Frate care-asculți colindul, tu unde te duci ?
+Mergi să spui despre Isus sau alte căi apuci ?
+
+[v4]
+Pretutindeni în biserici
+Oameni vin de peste tot.
+Toți au straie de sebare,
+Toți arată că sunt credincioși.
+
+[c4]
+Frate care care-asculți colindul, tu din care ești ?
+Ești creștin doar la Crăciun sau tot anul ești ?

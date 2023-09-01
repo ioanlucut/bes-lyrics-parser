@@ -1,0 +1,29 @@
+[title]
+Nu noua doamne lauda {author: {Dionisie Giuchici}, {rcId: {227068}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Nu nouă Doamne laudă, ci numai Numelui Tău
+A Ta să fie slava, că Tu ești Dumnezeu.
+Nu nouă plecăciune, căci noi suntem din lut,
+Doar Tu cu-nțelepciune pe toate le-ai făcut.
+
+[c]
+/: Numai Tu, numai Tu,
+Ai întins și mări și uscat.
+Numai Tu, numai Tu,
+Universul l-ai creat. :/
+
+[v2]
+Nu nouă adorare, căci noi am fost zidiți,
+Ci Ție Doamne Mare, să ne-nchinăm smeriți.
+Nu nouă, numai Ție să-Ți cânte toți cei vii,
+C-a Ta Împărăție în veci va dăinui.
+
+[v3]
+Nu nouă să ne spună părinte-ndurător,
+Căci numai Tu ești Tatăl, Părinte-al tuturor.
+Nu nouă mulțumire, ci noi să-Ți mulțumim,
+În Numele Lui Isus, cu toți să Te slăvim.

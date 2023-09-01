@@ -1,0 +1,23 @@
+[title]
+Dor dupa isus {author: {Vlad Bucur}, {rcId: {193950}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Se așterne peste lume, un freamăt uimitor
+Și un cald fior stârnește, în inimi parcă un dor
+Un dor de sărbătoare, sau dor după Isus?
+Te rog, privește în tine și caută răspuns!
+
+[c]
+/: Ce înseamnă pentru tine, acest Isus născut?
+În paiele din ieslea care I-au fost pătuț
+Ți-aduce El speranța că vei fi mântuit,
+Sau într-o zi osânda, fiindcă nu L-ai primit? :/
+
+[v2]
+Se așterne peste lume, un freamăt uimitor
+Și din nou în poartă-ți bate, un mic colindător...
+La fel ca el și Domnul, la poarta inimii
+De-atâta vreme-ți bate, dar oare-L vei primi?

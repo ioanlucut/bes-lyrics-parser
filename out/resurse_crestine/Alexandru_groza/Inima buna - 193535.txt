@@ -1,0 +1,17 @@
+[title]
+Inima buna {author: {Alexandru Groza}, {rcId: {193535}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+O, veniți copii, la-nchinare toți, să cântăm voioși slavă lui Hristos
+Harul Lui bogat nouă El ne-a dat, El e-al nostru Împărat!
+
+[c]
+Cine are inima bună să cânte Domnului
+Laudă și mulțumire să cânte spre slava Lui!
+
+[v2]
+Dimineața-n zori ceru-i fără nori, soarele-i pe cer, o, priviți spre el
+Păsărele-n zbor cântă Domnului, să-nălțăm Numele Lui!

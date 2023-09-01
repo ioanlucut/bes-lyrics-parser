@@ -1,0 +1,61 @@
+[title]
+Inima imi canta {author: {Lidia Gheorghe}, {rcId: {149312}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Isuse, mi-ai dat mântuirea
+Și multe binecuvântări
+Îmi porți totdeauna de grijă
+Și peste mări și peste țări.
+
+[v2]
+Mărire Îți cânt și osana
+Rugăciunea mi-ai ascultat
+Prin tot ce-am trecut până-acuma,
+Mereu Tu m-ai îmbărbătat.
+
+[c]
+1 Inima îmi cântă
+Isus, Domnul meu
+Plin de bucurie
+E sufletul meu.
+Inima îmi cântă
+Isus, Domnul meu
+Plin de bucurie
+E sufletul meu.
+2 Asta-I fericirea
+Cu adevărat;
+Când ești fiul Celui
+Mai Mare-mpărat.
+Lupta este bună,
+Te vei bucura;
+Răsplătire-ți v-a da
+Însuși Mesia.
+3 Inima îmi cântă
+Isus, Domnul meu
+Plin de bucurie
+E sufletul meu.
+Asta-I fericirea
+Cu adevărat;
+Când ești fiul Celui
+Mai Mare-mpărat.
+
+[v3]
+Mâna Ta cea bună de Tată
+Mi-arată că m-ai ocrotit;
+E sfântă, e blândă, curată,
+Prin Duh, Tu din nou m-ai zidit.
+
+[v4]
+Când Duhul coboară la mine
+În lacrime eu mă topesc.
+Isus, e-așa bine cu Tine,
+În rugă, când Te regăsesc.
+
+[v5]
+Cuvântul e baza în viață
+Rodească în noi tot mereu.
+Îl avem și azi pus în față
+E bun adevărul la greu.

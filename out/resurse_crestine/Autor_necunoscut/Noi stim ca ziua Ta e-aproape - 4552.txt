@@ -1,0 +1,29 @@
+[title]
+Noi stim ca ziua ta e-aproape {author: {Anonim}, {rcId: {4552}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Noi știm că ziua ta e-aproape
+De-aceea azi suntem aici
+/: Și vrem ca voia ta în toate
+Să fie-acum și-n veci amin :/
+
+[c]
+Vei veni pe nori de slavă
+Să-ți iei mireasa ta acas’
+/: Ah vino doamne mai degrabă
+Strigăm cu toții într-un glas :/
+
+[v2]
+Vrem să te vedem isuse
+Mi-e dor de minunatu-ți glas
+/: Mi-e dor de ziua-aceea mare
+Vom merge toți cu tine acas’ :/
+
+[v3]
+Dar până atunci ne pregătește
+De-aceea azi suntem aici
+/: Prin duhul sfânt tu ne vorbește
+Și pe cei slabi tu să-i ridici :/

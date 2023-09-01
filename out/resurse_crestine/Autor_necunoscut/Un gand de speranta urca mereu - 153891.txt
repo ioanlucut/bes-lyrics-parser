@@ -1,0 +1,47 @@
+[title]
+Un gand de speranta urca mereu {author: {Anonim}, {rcId: {153891}}
+
+[sequence]
+v1,c,v2,c2,v4,c4,e
+
+[v1]
+Un gând de speranță urcă mereu
+Mai sus se-nalță la Dumnezeu.
+Stăpânul lumii îndurător,
+Atotputernic, Mântuitor.
+
+[c]
+El Creator, El te-a zidit,
+Eterna viață, ne-a dăruit.
+Domnește-n ceruri ca Împărat
+Îi dăm mărire, neîncetat.
+
+[v2]
+Mărire slavă îi vom cânta
+Veșnic iubirea-i vom trâmbița.
+Pe-ntreg pământul î-L vom vesti
+Cu-a noastre inimi î-L vom sluji.
+
+[c2]
+În El e pacea fără hotar
+El e izvorul veșnic de har
+E bunătate necontenit
+A Lui tărie e-n infinit.
+
+[v4]
+Fără de margini răbdarea Sa
+Sus să ne fie nu va-nceta,
+Lumina lumi, ce ne-a condus
+Domnu-i iubirea-i mult mai presus.
+
+[c4]
+Glorie slavă îi vom cânta
+Doar Lui iubirea-i vom trâmbița.
+Pe-ntreg pământul Îl vom vestii
+Cu-a noastre inimi î-L vom sluji.
+
+[e]
+Glorie, slavă
+Glorie, slavă
+Cânta-vom și vom slăvii
+De-acum și în veșnici.

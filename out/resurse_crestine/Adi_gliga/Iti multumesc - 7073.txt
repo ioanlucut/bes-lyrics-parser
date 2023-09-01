@@ -1,0 +1,23 @@
+[title]
+Iti multumesc {author: {Adi Gliga}, {rcId: {7073}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+Îți mulțumesc Isuse
+Îți mulțumesc Isuse pentru dragostea Ta
+Îți mulțumesc Isuse, Te iubesc
+
+[v1]
+M-ai copleșit cu a Ta iubire
+M-ai ridicat prin jertfă Ta
+/: Mai aproape de Tine
+Mai aproape de inima Ta :/
+
+[v2]
+Privesc spre Tine,
+Privesc spre jerfta Ta
+Îngenunchez în fața Ta
+/: Stau aproape de Tine
+Stau aproape de inima Ta :/

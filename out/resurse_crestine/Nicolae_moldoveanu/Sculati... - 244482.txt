@@ -1,0 +1,35 @@
+[title]
+Sculati {author: {Nicolae Moldoveanu}, {rcId: {244482}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Sculați voi toți fiii credinții,
+De Adevărul sfânt aprinși,
+/: Și datoria conștiinții,
+Să vă ridice neînvinși. :/
+
+[v2]
+Vă lepădați de necredința,
+Descătușați, către Hristos,
+/: Urând cu-ntreagă-vă ființa,
+Tot ce-i nedemn și rușinos... :/
+
+[v3]
+Deplin crezând, ’nălțați privirea,
+Și inima spre Dumnezeu,
+/: Și nimiciți în voi pornirea,
+De robi, trăgând păcatul greu. :/
+
+[v4]
+Deschideți ochii vii, să vază,
+Și să-nțeleagă ce-i frumos,
+/: Primind cu-o inimă vitează,
+Fiți demni ostași ai lui Hristos. :/
+
+[v5]
+Și larg, în numele Luminii,
+Luptați sub al iubirii semn,
+/: Și nu-ncetați cât mai trăiește,
+Pe lume-un singur om nedemn. :/

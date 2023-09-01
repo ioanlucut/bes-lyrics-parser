@@ -1,0 +1,41 @@
+[title]
+Tu esti isus {author: {Silviu Ionatan Iovu}, {rcId: {177058}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c2
+
+[v1]
+Tu ești Isus izvor de bucurie
+Tu ești Isus o sfântă temelie
+Tu ești Isus mereu de partea mea
+Tu ești Isus chiar și-n încercarea grea.
+
+[c]
+Isus, Isus Tu ești cu mine
+Ești al meu Domn din veșnicie
+Ești Creator și Salvator
+Al omului trecător
+
+[v2]
+Tu ești Isus izvor de-ncurajări
+Chiar și atunci când sunt în întristări
+Tu ești Isus pace-n tulburări
+Și-mi dai de sus bucurie-n întristări
+
+[v3]
+Tu ești Isus mereu de partea mea
+Chiar și atunci când n-am pe nimenea
+Tu ești Isus cu mine și la greu
+Și-mi spui mereu ca eu sunt copilul Tău
+
+[v4]
+Și-apoi Isus când voi ajunge-Acasă
+Voi sta-n cer sus cu Tine la masă
+Și voi uita de plâns și de dureri
+De tulburări și multe descurajări
+
+[c2]
+/: Eu vreau să țin mereu Isus
+Adevărul tot mai sus
+Și chiar de sunt batjocorit
+Voi fi în ceruri fericit: \

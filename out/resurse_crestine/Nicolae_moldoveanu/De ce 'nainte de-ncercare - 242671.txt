@@ -1,0 +1,36 @@
+[title]
+De ce nainte de-ncercare {author: {Nicolae Moldoveanu}, {rcId: {242671}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+De ce ’nainte de-ncercare
+E-atâta neștiință-n noi,
+/: De ce ni-s ochii-nchiși ’nainte
+Și se deschid abia apoi?... :/
+
+[v2]
+De ce nu știm să ținem seama
+De tot ce alții-au pătimit,
+/: De ce doar după preț de jertfe
+Și plâns, aflăm ce-a trebuit? :/
+
+[v3]
+De ce e peste mintea noastră
+’
+Nainte-un văl atât de gros,
+/: De ce plătim tot ce cunoaștem
+Cu-un preț atât de dureros? :/
+
+[v4]
+De ce înțelepciunea vine
+Nu-ntâi, ci după ce-am plătit,
+/: De ce nu știm de tineri, totul
+Ci după ce-am îmbătrânit? :/
+
+[v5]
+De ce? Fiindcă nu aceasta
+E viața, ce aici trăim
+/: De-Apoi e-adevărata viață
+În asta doar ne pregătim! :/

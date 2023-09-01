@@ -1,0 +1,39 @@
+[title]
+Aleluia {author: {Johnny Daraban}, {rcId: {121479}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Alături de Tine sunt încrezător,
+Când Tu ești cu mine, sunt biruitor.
+Ești stânca de veacuri în care m-ascund,
+Ești fluviul iertării în care pătrund,
+Ești ploaia trezirii ce-mi picură-n piept,
+Mireasma iubirii venită din cer.
+
+[c]
+Aleluia, aleluia,
+Ești vulcan de bucurii!
+Aleluia, aleluia,
+Pacea Ta m-a copleșit!
+Aleluia, aleluia,
+Mielului ce S-a jertfit!
+Aleluia, aleluia,
+Regelui ce m-a-nfiat!
+
+[v2]
+Tu ești Dumnezeul ce viața-mi veghezi,
+Tu ești Dumnezeul ce mă luminezi,
+Ești Mielul jertfit să fiu mântuit,
+Ești medicul bun ce face minuni,
+Izvorul de viață ce faci să rodim,
+Plecați pe genunchi, în rugă, șoptim.
+
+[v3]
+Tu ești Dumnezeul ce ne-a creat,
+Tu ești Adevărul ce ne-a eliberat,
+Speranța-mpăcării prin harul bogat,
+Tu ești Dumnezeul ce ne-a salvat,
+Ocean de iubire, de milă, de har,
+Ești Scutul credinței și Jertfa pe-altar.

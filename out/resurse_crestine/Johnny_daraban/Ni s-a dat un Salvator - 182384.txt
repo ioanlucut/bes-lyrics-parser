@@ -1,0 +1,41 @@
+[title]
+Ni s-a dat un salvator {author: {Johnny Daraban}, {rcId: {182384}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Cel ce n-are început
+S-a-ntrupat cu chip de lut,
+A-mbrăcat trup muritor
+Să ne fie Salvator.
+Renunțând l-a Sa splendoare,
+S-a născut umil pe paie,
+Fiul Tatălui Ceresc,
+Mă închin și-L preamăresc.
+
+[c]
+Aleluia, aleluia,
+A venit Emanuel,
+Aleluia, aleluia,
+Nu e nimeni ca și El.
+Aleluia, aleluia
+Ni s-a dat un Salvator,
+Aleluia, aleluia,
+Regelui Mântuitor.
+
+[v2]
+Mesia, Copil preasfânt
+Ai venit pe-acest pământ
+Să aduci în lumea rea
+Harul, pacea, dragostea.
+Ai venit ca Miel divin
+Ca să fim iertați deplin
+Rege Sfânt, Dumnezeiesc,
+Mă închin și te slăvesc.
+
+[e]
+E vrednic de cinste și închinare
+Acel ce venit-a s-aduca iertare,
+E Regele pacii, Emanuel,
+Isus, Mesia, nu-I nimeni ca El.

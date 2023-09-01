@@ -1,0 +1,33 @@
+[title]
+Aleluia in ceruri se canta {author: {Speranța}, {rcId: {101945}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Aleluia, în ceruri se cântă mereu,
+Aleluia, Osana lui Dumnezeu!
+E zi de sărbătoare, noi slavă vrem să-Ți dăm,
+Un cântec nou din inimi dorim să Îți cântăm.
+
+[c]
+/: Căci binecuvântare de la Tine am primit,
+De-aceea, Doamne mare, să fii în veci slăvit :/
+
+[v2]
+Aleluia, spre ceruri noi privim,
+Aleluia, cu toții Îți mulțumim,
+Cu inima și gândul noi vrem să ne-nchinăm,
+În semn de mulțumire, în Fața Ta azi stăm.
+
+[v3]
+Aleluia, un suflet nou ne-ai dat,
+Aleluia, să-Ți cânte neîncetat.
+Vrem numai pentru Tine să cânte inima,
+Nu vrem să cânte glorie pentru altcineva.
+
+[v4]
+Aleluia, Îți cântă Biserica Ta,
+Aleluia, și-n ceruri Îți vom cânta.
+Va fi doar sărbătoare în țara Ta pe veci,
+Tristețea va dispare și ochii vor fi șterși.

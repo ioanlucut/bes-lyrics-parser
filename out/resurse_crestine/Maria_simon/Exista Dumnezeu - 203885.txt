@@ -1,0 +1,29 @@
+[title]
+Exista dumnezeu {author: {Maria Șimon}, {rcId: {203885}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Există, există Dumnezeu, ce bucurie!
+Există, e viu cu-adevărat!
+El știe când îți e greu sau îți e bine,
+Există minuni cu-adevărat!
+
+[c]
+/: Cheamă-L, cheamă-L, cheamă-L să vină,
+Spune-I să vină în viața ta!
+Doar Dumnezeu te înțelege,
+Oricât ar fi durerea de grea! : \
+
+[v2]
+Există, există Dumnezeu, o, crede numai,
+A spus odat’ căci nu te va lăsa!
+Privește-n sus, de-acolo vine izbăvirea,
+Îți spune azi căci e de partea ta!
+
+[v3]
+Există, există Dumnezeu, ce fericire,
+Să te-nsoțească în fiecare zi!
+Să-ți poarte pasul spre Țara dincolo de stele,
+Spre Paradisul etern din veșnicii!

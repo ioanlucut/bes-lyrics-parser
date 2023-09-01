@@ -1,0 +1,35 @@
+[title]
+Tu esti acel {author: {Nicolae Moldoveanu}, {rcId: {246518}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Tu ești Acel ce-n gerul aspru
+Dezgheți a inimii-mi priviri,
+Și faci să-mi curgă a-mpărtășirii
+Liniștitoare șiroiri.
+Tu ești Acela care-n jarul
+Cuptorului încins cobori
+Și-i răcorești pân-la răbdare
+Chinuitoarele-i vâltori.
+
+[v2]
+Tu ești Acel ce-n susur dulce
+Treci peste gândul meu ades,
+Și-n tot ce-aș vrea să-ntreb mi-aduce
+Dumnezeiescul înțeles.
+Tu ești Acel a cărui treceri
+Ca un parfum ceresc rămân
+Și-al cărui cântec de iubire
+Îmi arde duhul când l-îngân.
+
+[v3]
+Tu ești Acel ce-ntotdeauna
+Doar blând și dulce mi-ai șoptit,
+În vuiet aspru și-n furtună:
+Nicicând la mine n-ai venit.
+Tu ești Acela, scump Isuse,
+O, cum Te recunosc și-acum
+Când treci și-mi lași atât de dulce
+Dumnezeiescul Tău parfum.

@@ -1,0 +1,29 @@
+[title]
+Omule ce-ai facut omule ? {author: {Adriana Stoica}, {rcId: {109453}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Omule, trecut-au de-atunci milenii, pe aripa vremii
+De când într-o grădină, Eden ea se numea,
+/: Ți-am semănat sămânța, te-am binecuvântat,
+Făptura mâinii mele cu un chip minunat. :/
+
+[c]
+Omule, ce-ai făcut, omule ?
+Mi-ai luat în deșert Numele-
+Dar omule, ce-ai făcut, omule ?
+Mi-ai luat în deșert Numele
+
+[v2]
+Omule, iubirea Mea cea mare, mi-ai răsplătit cu ură
+Iar suferința-mi grea tu ai nesocotit
+/: N-am să mai vin nicicând să bat la ușa ta
+Dar va veni și ziua când te voi întreba: :/
+
+[v3]
+Omule, cândva și tu vei trece și în pământul rece
+Din nou te vei întoarce, nimic nu mai poți face
+/: De-acolo te-am luat când viață eu ți-am dat
+Dar nu m-ai ascultat, și-atunci te-am alungat :/

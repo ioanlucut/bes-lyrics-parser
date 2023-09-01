@@ -1,0 +1,25 @@
+[title]
+Un cantec drag despre isus am scris {author: {Anonim}, {rcId: {6263}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Un cântec drag despre Isus am scris
+Am sperat într-o lumină de vis
+În acea zi am deschis Biblia
+Și în ea mi-am găsit liniștea.
+
+[c]
+Isus e viața, viața veșnică
+Biblia-mi spune, mă încred în ea.
+Eu nu știam că trăiam în păcat
+Nu știam că Isus m-a salvat
+Inima mea m-a legat și mai mult
+
+[v2]
+Har bogat în Isus am aflat.
+Știu că-ncurând viața se va sfârși
+Că atunci cu Isus voi fi.
+Umbletul meu e condus de Isus
+Către cer mă conduce nespus.

@@ -1,0 +1,23 @@
+[title]
+Cantec drag si minunat domnu-n inima mi-a dat {author: {Alexandru Groza}, {rcId: {186259}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Cântec drag și minunat Domnu-n inimă mi-a dat
+Să-L slăvesc, să-I înalț Numele-I sfânt
+Din adânc m-a ridicat, viață veșnică mi-a dat
+La Calvar mântuire am aflat
+
+[c]
+Cel ce e viu trăiește-n viața mea
+Lui îi înalț cântarea mea!
+Inima mea e plină de Hristos
+Prin Harul Lui sunt prețios!
+
+[v2]
+Îl iubesc pe Domnul meu, mă-ncred în Cuvântul Său
+Viața mea i-o închin eu zi de zi
+Tatăl sfânt m-a ridicat, El m-a ridicat
+Cu iertare de păcat prin Fiul Său!

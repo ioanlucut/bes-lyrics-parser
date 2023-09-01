@@ -1,0 +1,29 @@
+[title]
+Veniti sa ne inchinam {author: {Elena Sufletel}, {rcId: {232315}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pe nori când va veni al nostru Mire
+Cu toții îl vom urma in strălucire
+Cânta-vom în cetate în cor o cântare
+Cu îngerii și sfinții la marea sărbătoare
+
+[c]
+Veniți să ne închinăm celui Preaînalt
+Veniți să ne închinăm pân’ la pământ
+Isus e Domnul nostru și în curând vine
+Veniți cu toții să ii dăm cinstire
+
+[v2]
+Cununi frumoase in cer, noi vom primi
+Și Domnul nostru drag, ne va servi
+Orice suferința și lacrimi, noi vom uita
+Fericiți vom fi când în cer, ne vom vedea
+
+[v3]
+O invitație de nuntă, și tu ai primit
+Ce cu mare iubire, Domnul ți a oferit
+Semnează pe ea acum, un mare da
+Domnul Isus te așteaptă, la nunta sa

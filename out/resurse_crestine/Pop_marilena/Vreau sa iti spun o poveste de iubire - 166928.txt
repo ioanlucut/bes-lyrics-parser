@@ -1,0 +1,36 @@
+[title]
+Vreau sa iti spun o poveste de iubire {author: {Pop Marilena}, {rcId: {166928}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Vreau să îți spun o poveste de iubire
+Un Om la moarte este dus
+Este Omul ce-a murit pentru tine
+Ca și tu să fi cu El sus
+
+[c]
+El de pe cruce ți-a șoptit iertare
+Iubire și-n suflet vindecare
+Cu privirea spre cer
+El a răbdat pentru tine
+Că tu să fi salvat și eliberat
+
+[v2]
+Coroana de spini și în trup răni adânci
+Toți i-au dat sute de brânci
+A fost lovit, hulit și la sânge biciuit
+El pe tine te-a iubit
+
+[v3]
+A răbdat crucea grea, a purtat povoara ta
+Ca tu să-ți amintești de Golgota
+De iubirea Lui și de răbdarea Sa
+El vrea doar atât: inima ta
+
+[v4]
+El a înviat și e sus la Tatăl Sfânt
+Vrea să-ți dea și ție loc în cerul preasfânt
+Te iubește azi și te va iubi mereu
+Nu te va lăsa când va fi mai greu

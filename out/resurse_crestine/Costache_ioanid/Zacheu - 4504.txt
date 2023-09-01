@@ -1,0 +1,50 @@
+[title]
+Zacheu {author: {Costache Ioanid}, {rcId: {4504}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Prin mulțimea zgomotoasă,
+Vameșul Zacheu
+A venit voios acasă.
+Și-au stat doi bogați la masă-
+El și Dumnezeu.
+
+[c]
+Dau, strigă din răsputere
+Gazda de pe prag,
+Dau chiar astăzi cu plăcere
+Jumatate din avere!
+Iar bogatul dintre stele
+L-a privit cu drag.
+
+[v2]
+Și-n palatul meu odată
+A venit Isus
+A venit o stea curată,
+Și-n lumina ei deodată
+Cele vechi s-au dus...
+
+[c2]
+Tot ce-a fost de piatră rară
+S-a făcut gunoi,
+Toate-au fost ca o povară,
+Ca o peșteră murdară.
+Și-au ieșit din ea afară
+Repede-amândoi...
+
+[v3]
+O, veniți sărmane gloate,
+Eu, Zacheu de-acum,
+Vă dau tot, nu jumătate,
+Dar nu pungi, nu nestemate
+Care pier în scrum.
+
+[c3]
+Azi eu am alt sac în mine,
+Sac de har divin.
+Eu din el vă dau mai bine,
+Căci ce dau din ceruri vine
+Și cu cât dau la oricine,
+Sacu-i și mai plin!

@@ -1,0 +1,29 @@
+[title]
+Dorul meu {author: {Iulia Contis}, {rcId: {246075}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Cât de greu
+Pășeam în noapte fără Tine!
+Domnul meu,
+Plângea încet inima-n mine;
+Se stingeau
+Mai multe șoapte în ruine
+Și plângeau
+Cer și pământ ca în vechime...
+
+[c]
+Dorul meu
+E cerul Tău!
+
+[v2]
+Dar atunci,
+Din noaptea plină de suspine,
+Sus, pe stânci,
+Tu m-ai urcat și sunt cu Tine!
+Nu mi-e dor
+De negre doruri, nici de mine!
+Pot să mor...
+Sunt liniștit când sunt cu Tine!

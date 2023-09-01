@@ -1,0 +1,26 @@
+[title]
+E lumina la fereastra (i ve never been this homesick before) {author: {Dottie Rambo, Traducere RO}, {rcId: {96276}}
+
+[sequence]
+v1,c,v2,c,s,c
+
+[v1]
+E lumină la fereastră, masa e întinsă
+Cineva m-așteaptă cu drag!
+Văd un râu cu apa vie ce-mi dă bucurie
+Doamne, mult doresc s-ajung acasă!
+
+[c]
+Lumina strălucește, pe toți ea ne conduce
+Să fim cu toți în slavă, în cer sus
+Isus este Lumina, în El avem odihna
+Doamne, mult doresc s-ajung, sus acasă!
+
+[v2]
+Văd familia-mpreună, plin de bucurie
+Lacrimi și dureri nu mai sunt;
+Mult doresc aceea clipă care mă ridică
+Doamne, mult doresc s-ajung acasă!
+
+[s]
+Sunt strâns din două părți: aș dori să mă mut și să fiu împreună cu Hristos, căci ar fi cu mult mai bine; Filipeni 1:23

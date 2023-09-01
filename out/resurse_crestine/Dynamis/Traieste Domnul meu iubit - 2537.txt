@@ -1,0 +1,24 @@
+[title]
+Traieste domnul meu iubit {author: {Dynamis}, {rcId: {2537}}
+
+[sequence]
+v1,c,v3,c
+
+[v1]
+/: Trăiește Domnul meu iubit
+Măreț cuvânt, sublim, duios
+Mormântul gol stă părăsit
+În veci e viu Isus Hristos. :/
+
+[c]
+/: Nu-L căutați printre cei morți
+El a-nviat cu-adevărat
+Isus e Domn al lumii-ntregi
+El e Stăpân, Etern și Rege peste regi. :/
+
+[v3]
+/: Trăiește Domnul meu iubit
+Adie vântul răcoros
+Ne spune codrul înflorit:
+„
+În veci e viu Isus Hristos! „ :/

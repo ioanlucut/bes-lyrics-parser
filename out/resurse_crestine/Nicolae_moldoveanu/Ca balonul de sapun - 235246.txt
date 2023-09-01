@@ -1,0 +1,21 @@
+[title]
+Ca balonul de sapun {author: {Nicolae Moldoveanu}, {rcId: {235246}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Ca balonul de săpun e minciuna când o spun.
+O clipită-i viața ei: nici cât numeri pân’ la trei.
+
+[v2]
+Însă rodu-i greu și-amar. Nu-i balon, ci-aprinde jar,
+O clipită-i viața ei: sfinte legături se rup.
+
+[v3]
+Doamne, Dumnezeul meu, izbăvește-mă mereu
+și în suflet și în trup ca să pot trăi curat!
+
+[v4]
+Chiar copil micuț de sunt, vreau și eu pe-acest pământ
+credincios deplin să-Ți fiu, cât mi-i dat, cât pot să știu!

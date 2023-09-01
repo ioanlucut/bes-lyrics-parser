@@ -1,0 +1,35 @@
+[title]
+Pe cararea mantuirii {author: {Nicolae Moldoveanu}, {rcId: {5418}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Pe cărarea mântuirii
+Munții-s ’nalți, urcușu-i lung,
+/: Calea-i strâmtă, calea-i strâmtă,
+Mulți pornesc, puțini ajung. :/
+
+[v2]
+Pe cărarea mântuirii
+Vânturi mari și nori te-ncing,
+/: Lupta-i cruntă, lupta-i cruntă
+Mulți încep, puțini înving. :/
+
+[v3]
+Pe cărarea mântuirii
+Crucea-i grea, dar bine-i Sus,
+/: Ușa-i strâmtă, ușa-i strâmtă,
+Dar ce plată-i la Isus! :/
+
+[v4]
+Pe cărarea mântuirii
+Mersu-i greu, dar trecător,
+/: Viața-i aspră, viața-i aspră,
+Dar ce har, ai ajutor! :/
+
+[v5]
+Pe cărarea mântuirii
+Mulți promit, puțini s-aleg,
+/: Fericiții-s, fericiții-s
+Cei ce suie drumu-ntreg! :/

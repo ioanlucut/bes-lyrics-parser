@@ -1,0 +1,29 @@
+[title]
+O pasarea ce canti la fereastra mea {author: {Lidia Gheorghe}, {rcId: {149776}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+O, păsărea ce cânți la fereastra mea!
+Mă-auzi când cânt, poate mă zărești când plâng.
+/: Du dorul meu sus înspre Dumnezeu!
+În zborul tău, în vânt, în jocul tău. :/
+
+[v2]
+Sus, sus de tot, mai sus de dealuri și pomi,
+Albastru-i tot cerul cu alburii nori,
+/: Acolo eu, unde e Dumnezeu
+Aș vrea să-nalț ruga și cântul meu. :/
+
+[v3]
+Din lucrul meu, m-am oprit când te-am zărit
+Și-am ascultat ce frumos ai ciripit.
+/: Parcă-mi spuneai: ”cântă cu mine!”
+Mă-ncuraja Domnul prin tine. :/
+
+[v4]
+O Domnul meu, Tu-mi știi tot suspinul meu.
+Simțirea mea, toată e-naintea Ta.
+/: Știu că lucrezi cum este voia Ta;
+Fă-ți planul Tău în familia mea. :/

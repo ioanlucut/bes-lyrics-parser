@@ -1,0 +1,27 @@
+[title]
+Dumnezeu de noi se-ngrijeste {author: {Anonim}, {rcId: {164792}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Dumnezeu de noi se-ngrijește, îi mulțumim
+Pâinea El ne-o dăruiește, îi mulțumim, O Doamne
+Tu ne dai și sănătate, îți mulțumim
+Noi prin har avem de toate, da îți mulțumim
+
+[c]
+Îți mulțumim, îți mulțumim,
+Îți mulțumim, noi îți mulțumim
+
+[v2]
+Dumnezeu de noi se-ngrijește, îi mulțumim
+Fiindcă El mult ne iubește, îi mulțumim, O Doamne
+Pentru zilele seninie, îți mulțumim,
+Pentru rău și pentru bine, da îți mulțumim
+
+[v3]
+Dumnezeu de noi se-ngrijește, îi mulțumim
+Fericiți să fim dorește, îi mulțumim, O Doamne
+Pentru-a Ta călăuzire, îți mulțumim
+Pentru Rai și nemurire, da îți mulțumim

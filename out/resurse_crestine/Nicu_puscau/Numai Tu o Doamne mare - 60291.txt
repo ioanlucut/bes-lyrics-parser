@@ -1,0 +1,40 @@
+[title]
+Numai tu o doamne mare {author: {Nicu Puscau}, {rcId: {60291}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Numai Tu o Doamne mare
+Numai Tu îmi ești salvare
+/: Când vin vânturi și bat tare
+Și furtuna-i tot mai mare
+Tu Isuse-mi ești salvare :/
+
+[v2]
+Numai Tu și-n clipe grele
+Mă ajuți și-mi dai putere
+/: Numai Tu Isuse dulce
+Numai Tu-mi ajuți la cruce
+Zi de zi să o pot duce :/
+
+[v3]
+Numai Tu și-n suferință
+Mă ajuți și-mi dai credință
+/: Când cuptorul arde tare
+Să rezist la încercare
+Tu Isuse-mi dai răbdare :/
+
+[v4]
+Doamne Tu-mi ajuți în toate
+La necaz mi-ești ca un frate
+/: Și-n belșug și-n strâmtorare
+Și la bine și la jale
+Ești cu mine pe cărare :/
+
+[v5]
+Iar când lupta va fi gata
+Și vei veni cu răsplata
+/: Vreau atunci spre zări senine
+Să-mi iau zborul către Tine
+Și să uit de-orice suspine :/

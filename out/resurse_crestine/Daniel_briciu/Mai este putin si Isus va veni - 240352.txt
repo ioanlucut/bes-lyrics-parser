@@ -1,0 +1,45 @@
+[title]
+Mai este putin si isus va veni {author: {Daniel Briciu}, {rcId: {240352}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Mai este puțin și Isus va veni,
+Așa cum ne-a spus la plecare.
+Ca fulgeru-n noapte El va străluci,
+Atunci când pe nor va apare.
+
+[c]
+/: Natura spune: Revino, Isuse!
+Și cerul strigă: Revino, Isus! :/
+
+[v2]
+E vremea din urmă și toate ne spun
+Că Domnul e gata să vină.
+Privește spre cer și așteaptă-l și tu,
+De vrei să te-mbrace-n lumină.
+
+[c2]
+/: Și cheamă-L astăzi: Revino, Isuse!
+Și spune-I astăzi: Revino, Isus! :/
+
+[v3]
+Natura și cerul ne spun tot mereu
+Că marea-ntâlnire e-aproape.
+N-auzi vocea-I dulce din sufletul tău
+Și pașii ca vuiet de ape?
+
+[c3]
+/: Hai, spune-I astăzi: Revino, Isuse!
+Și cheamă-L iarăși: Revino, Isus! :/
+
+[v4]
+Când cer și pământ vor dispare în foc
+Și cele dintâi o să treacă,
+În slavă cu Tine avea-vom un loc,
+În patria noastră cerească.
+
+[c4]
+/: Și-atunci vom spune: Slăvit fii, Isuse!
+O veșnicie, slăvit fii Isus! :/

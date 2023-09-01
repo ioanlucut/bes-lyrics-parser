@@ -1,0 +1,47 @@
+[title]
+Doamne sunt al tau elev am ajuns in scoala ta {author: {Anonim}, {rcId: {55857}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Doamne sunt al Tău elev,
+Am ajuns în școala Ta
+N-am stilou n-am nici caiet
+Dar scriu pe inima mea.
+
+[c]
+/: Vreau să-ncep cu alfabetul
+Și poruncile dintâi
+Și încetul cu încetul,
+Să învăț să pot iubi. :/
+
+[v2]
+Sunt elev cu multe absențe
+Dar clasele le-am trecut
+Și cu multe corijente
+În viața de pocăit.
+
+[v3]
+Teoretic știm de toate,
+Practic însă pe teren
+Avem numai corijente
+În probleme fel de fel.
+
+[v4]
+Zi de zi noi dăm
+Lucrare de control, extemporal
+Din capitolul cel mare,
+Luptă, frate, cu satan
+
+[v5]
+Unii sar în alte clase,
+Alții spun c-au terminat
+Numai vor să bea din lapte,
+Vor deodată mâncări țări.
+
+[v6]
+Fraților să știți prea bine
+Ce ne-a zis Domnul Isus
+Ordin să știe oricine
+De vrei mare, fă-te mic.

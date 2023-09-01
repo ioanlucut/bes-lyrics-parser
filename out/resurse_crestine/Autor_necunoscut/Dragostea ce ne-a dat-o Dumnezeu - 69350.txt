@@ -1,0 +1,31 @@
+[title]
+Dragostea ce ne-a dat-o dumnezeu {author: {Anonim}, {rcId: {69350}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,v4,c
+
+[c]
+Dragostea ce ne-a dat-o Dumnezeu,
+Se arată prin tine, dragul meu!
+Și privindu-te, zăresc pe chipul tău,
+Dragostea ce ne-a dat-o Dumnezeu.
+
+[v1]
+/: Dumnezeu e dragoste. :/
+Dumnezeu cel vesnic, Domnul vietii,
+Dumnezeu e dragoste.
+
+[v2]
+/: Dumnezeu e adevar. :/
+Dumnezeu cel vesnic, Domnul vietii,
+Dumnezeu e adevar.
+
+[v3]
+/: Dumnezeu e pace si har. :/
+Dumnezeu cel vesnic, Domnul vietii,
+Dumnezeu e pace si har.
+
+[v4]
+/: In curand El vine pe nori. :/
+Dumnezeu cel vesnic, Domnul vietii,
+In curand El vine pe nori.

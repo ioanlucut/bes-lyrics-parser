@@ -1,0 +1,24 @@
+[title]
+Sfant e sfant si mare {author: {Franz Schubert}, {rcId: {1242}}
+
+[sequence]
+v1,v2
+
+[v1]
+Sfânt e, sfânt și mare,
+Sfânt e Dumnezeu,
+Sfânt e, sfânt și mare,
+Sfânt va fi mereu.
+Început nu are,
+E din veșnicii,
+E făr’ de hotare,
+Veșnic El va fi!
+
+[v2]
+Sfânt e, sfânt și mare,
+Sfânt e Dumnezeu,
+Sfânt e, sfânt și mare,
+Sfânt va fi mereu.
+Dragoste-ndurare e ființa Sa,
+Sfânt e, sfânt și mare,
+Veșnic El va sta!

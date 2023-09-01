@@ -1,0 +1,29 @@
+[title]
+Zorii diminetii se revarsa {author: {Alexandru Groza}, {rcId: {185505}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Zorii dimineții se revarsă și lumina lor mă-ndeamnă
+Să mă-nchin cu mulțumire: Domnului în noua zi
+Văd cum soarele răsare și cu raza lui mă-mbie
+Să fiu plin de bucurie: Domnul ne-a mai dat o zi
+
+[c]
+Mare este Domnul, laudă să-I fie, harul Lui mă ține credincios mereu
+Slava Lui se-arată peste lumea toată, sfânt și mare este Dumnezeu
+Mare este Domnul, cerurile-L cântă și tot Universul se închină Lui
+Slava Lui se-arată peste lumea toată: Sfânt și mare este Dumnezeu
+
+[v2]
+Ziua-i mare și frumoasă și cântarea mea-i voioasă,
+O înalț cu mulțumire Domnului în noua zi
+Lăudat e Domnul în iubire și când soarele apune
+Chiar și noaptea e frumoasă, pace-n suflet vom primi
+
+[v3]
+Zi de zi prin har, Domnul ne-arată dragostea Lui minunată
+El ne-a dat duhul de viață, El ne ține-n Harul Său
+Văd cum soarele răsare și cu raza lui mă-mbie
+Să fiu plin de bucurie: Domnul ne-a mai dat o zi.

@@ -1,0 +1,49 @@
+[title]
+Frumos e viitorul {author: {Nicolae Moldoveanu}, {rcId: {244411}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Frumos e viitorul
+Spre care vă-ndreptați,
+Voi care cu credință
+Și dragoste luptați,
+/: Frumoasă este-n ceruri
+Ca soarele frumos,
+Cununa ce v-așteaptă
+/: Viteji ai lui Hristos. :/
+x3 :/
+
+[v2]
+Frumoasă e Lucrarea
+La care-ați fost chemați,
+Ș numele și haina
+Și steagul ce-l purtați,
+/: Frumos să faceți lucrul,
+Să strângeți rod frumos,
+Acei ce nu fac astfel
+/: Nu-s vrednici de Hristos! :/
+x3 :/
+
+[v3]
+Frumoasă e credința
+Pe care-o apărați,
+Nădejdea și iubirea
+Pe care le cântați,
+/: Frumos e Adevărul
+Vestit de voi frumos,
+Fiți tari, voi duceți lumii
+/: Solia lui Hristos! :/
+x3 :/
+
+[v4]
+Frumoasă-i veșnicia
+în care-o să intrați,
+voi care pân-la capăt
+frumos o să Iuptați;
+/: Frumos în veci e Cerul
+Sfârșitului frumos,
+Nebănuită slavă
+/: V-așteaptă la Hristos! :/
+x3 :/

@@ -1,0 +1,35 @@
+[title]
+Te-ai intrebat ce-i viata pe pamant {author: {Speranța}, {rcId: {202296}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Te-ai întrebat ce-i viața pe pământ
+E ca un abur e ca o frunză-n vânt
+/: Te-ai întrebat de unde vii și pleci
+Veșnicia unde ai s-o petreci. :/
+
+[c]
+Omule esti trecător
+Anii zboară, viața se duce ca și un nor
+Te-ai întrebat unde vei fii
+În Paradis sau în abis vei locuii.
+
+[v2]
+Sunt două căi, pe acest pământ
+Una spre iad, iar alta în cerul Sfânt
+/: Trăieste-ți viața, trăieste-o cu folos
+Calea spre Cer, e Isus Hristos. :/
+
+[v3]
+Primește în viața pe Isus Hristos
+Că El îți iartă trecutul păcătos
+/: Prin pocăință și o viață lângă El
+Isus Hristos te va duce în Cer. :/
+
+[c2]
+/: Omule ești trecător
+Nu uita pe acest pământ ești muritor
+De îl primești pe Isus în viața ta
+Vei locui pentru vecii în Slava Sa. :/ ×3

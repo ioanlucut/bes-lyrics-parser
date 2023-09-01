@@ -1,0 +1,35 @@
+[title]
+De la tine {author: {Nicolae Moldoveanu}, {rcId: {246154}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Am un Drum deosebit?
+Am un Țel neprețuit?
+De Ia Tine I-am primit,
+Doamne!
+
+[c]
+Tot ce-i bun în viața mea
+Toată dragostea din ea,
+Tot ce-i vrednic și curat
+Tu, lsuse, Tu mi-ai dat.
+
+[v2]
+Port în mine gând curat?
+Vreau din lume să m-abat?
+De la Tine-am învățat,
+Doamne!
+
+[v3]
+Năzuiesc spre cer mereu?
+Vreau să mă păzesc de rău?
+De Ia Tine-i dorul meu,
+Doamne!
+
+[v4]
+Și când vine gând amar,
+Că al meu e tot ce-i dar,
+De la Tine dă-mi Tu har,
+Doamne!

@@ -1,0 +1,36 @@
+[title]
+De cand in lume am venit {author: {Puiu Chibici}, {rcId: {82594}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+De când în lume am venit
+Sfios, plăpând și plin de teamă
+Primul cuvânt ce l-am rostit.
+A fost cuvântul: „
+Mama!”
+
+[c]
+O, mama mea, o, mama mea
+Cu dor ființa mea te cheamă!
+O, mama mea, o, mama mea,
+O, mama, dulce mamă!
+
+[v2]
+O, cum să uit iubirea ta,
+În nopțile de priveghere.
+Când crunt lovit de boala grea
+Tu-mi erai mângăiere.
+
+[v3]
+Mi-așa de dor, mi-așa
+Să-ți aud iar vorba duioasa.
+Să-ți simt al dragostei fior,
+Când vin la tine acasă.
+
+[v4]
+Copile drag ce rătăcești
+Când glasul ei încă te cheamă
+Învață azi s-o prețuiești
+Cât încă mai ai mamă.

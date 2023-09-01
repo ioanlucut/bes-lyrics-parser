@@ -1,0 +1,71 @@
+[title]
+Asa mi-a vorbit domnul {author: {Anonim}, {rcId: {122813}}
+
+[sequence]
+v1,c,v2,c,v3,c2,v4,c3,v5,c4,v6,c5
+
+[v1]
+Așa mi-a vorbit Domnul
+Când eram în necaz,
+Când valurile marii
+Loveau talaz, talaz.
+
+[c]
+Isus, Isus, Tu mie mi-ai spus
+Căci, în curând, durerea-mi vei lua.
+Isus, Isus, Tu mie mi-ai spus
+Căci, în curând, mireasa vei lua.
+
+[v2]
+Așa mi-a vorbit Domnul
+Când zăceam chinuit,
+Când toți m-au părăsit,
+El singur a venit.
+
+[v3]
+Așa mi-a vorbit Domnul
+Când plângeam cu amar,
+Când lovea fără milă
+În mine al vieții val.
+
+[c2]
+Isus, Isus, Tu mâna Ți-ai întins
+Și la ordinul Tău valul s-a stins.
+Isus, Isus, în barcă m-ai pus
+Și-n mână biruință Tu mi-ai pus.
+
+[v4]
+Așa mi-a vorbit Domnul
+Când răni pe trup aveam,
+Dar rănile din suflet
+Mai groaznic mă dureau.
+
+[c3]
+Isus, Isus, El mâna și-a pus
+Și-n locul rănilor turnase untdelemn.
+Isus, Isus, pe asinu-I m-a pus
+Și la hangiu pe asinul Lui m-a dus.
+
+[v5]
+Așa vorbește Domnul:
+Și astăzi iar la fel,
+Când ești în suferință,
+Te-ncrede numa-n El.
+
+[c4]
+Isus, Isus, Tu nouă ne-ai spus
+Căci, în curând, pe toți ne vei răpi
+Și iute-n zbor, la rândul lor,
+Cu toții sus nu ne-om mai despărți.
+
+[v6]
+Așa ți-a vorbit Domnul
+Și ție astăzi la fel.
+El, Domnul, îți vorbește
+Din nou, îți dă puteri.
+
+[c5]
+O, adu, Doamne, aceea zi,
+Când suferințele se vor sfârși.
+Mi-e dor, mi-e dor să zburăm spre cer
+Și nimeni nu ne va mai despărți!

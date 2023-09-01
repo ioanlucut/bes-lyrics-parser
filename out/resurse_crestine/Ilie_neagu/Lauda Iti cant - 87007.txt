@@ -1,0 +1,29 @@
+[title]
+Lauda iti cant {author: {Ilie Neagu}, {rcId: {87007}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+Laudă Îți cânt Ție, Doamne Sfânt
+Căci Tu m-ai salvat de moarte și păcat
+Să fii lăudat, în veci glorificat
+Azi sunt fericit că m-ai mântuit
+
+[v1]
+Sunt în casa Ta
+Domnul meu iubit
+Vreau a Te lăuda
+Căci m-ai mântuit
+
+[v2]
+Căzut când eu eram
+Tu m-ai ridicat
+Speranțe Tu mi-ai dat
+Pe stâncă m-ai urcat
+
+[v3]
+Să Te slujesc de-acuma
+Așa cum Tu dorești
+În viață pentru Tine
+Cu drag să mă jertfesc

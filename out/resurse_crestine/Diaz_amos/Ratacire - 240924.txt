@@ -1,0 +1,33 @@
+[title]
+Ratacire {author: {Diaz Amos}, {rcId: {240924}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Își cântă vocea lin
+A-i fiilor copii de sub drag soare.
+Pe-a firelor de iarbă sclipitoare
+Își cântă vocea lin,
+Își cântă vocea lin fără răbdare!
+
+[v2]
+Își plâng amarul greu
+De-a loviturilor jigniri deșarte,
+De ploile ce atacă în noapte
+Își plâng amarul greu,
+Își plâng amarul greu pe triste pleoape!
+
+[v3]
+Te caută cu dor
+Înfiorați de zile reci și grele.
+Își caută păcatele să-și spele.
+Te caută cu dor,
+Te caută sub lumea de sub stele!
+
+[v4]
+Privești așa senin,
+Privești cu dragoste pe fiecare.
+Iubirea Ta îi Părinte atât de mare;
+Privești așa senin,
+Privești așa senin și cu splendoare!

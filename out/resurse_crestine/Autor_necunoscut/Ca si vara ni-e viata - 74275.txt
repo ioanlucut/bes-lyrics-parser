@@ -1,0 +1,35 @@
+[title]
+Ca si vara ni-e viata {author: {Anonim}, {rcId: {74275}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ca și vara ni-e viața,
+Cu lumină plină
+Și iute se gată cu noi,
+Precum trece noaptea.
+
+[c]
+Acum, trece timpul,
+Și vine sfârșitul:
+Ce seara s-a vestejit,
+Dimineața a-nflorit.
+
+[v2]
+Deși viața e scurtă,
+Ea-i timpul lucrării,
+Vremea îndurării-i acum,
+Și mai mult n-o mai fi.
+
+[v3]
+Scoală-te nu întârzia,
+De lucru te-apucă.
+Că vine întunericul,
+Și nu-i putea lucra.
+
+[v4]
+Fericit care acuma,
+Aici va semăna,
+Că sus în cer va secera,
+Toată fericirea.

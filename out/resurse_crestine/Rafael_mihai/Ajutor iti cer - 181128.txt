@@ -1,0 +1,23 @@
+[title]
+Ajutor iti cer {author: {Rafael Mihai}, {rcId: {181128}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Te rog ascultă-mă Doamne,
+Sunt zdrobit de încercare.
+Te rog să îți întinzi mâna,
+Să pot birui furtuna.
+
+[c]
+Ajutorul îți cer,
+Ajutorul din cer.
+La necaz în cuptor, vine Domnul,
+În tăcere îți aștept, ajutorul.
+
+[v2]
+Spre Tine privesc, Isuse,
+Tu-mi știi lacrimile ascunse.
+Numai Tu, știi cât mă doare,
+Sunt zdrobit de încercare.

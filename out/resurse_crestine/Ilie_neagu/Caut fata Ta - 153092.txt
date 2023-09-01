@@ -1,0 +1,33 @@
+[title]
+Caut fata ta {author: {Ilie Neagu}, {rcId: {153092}}
+
+[sequence]
+v1,c,v2,c,e,c
+
+[v1]
+În zorii zilei Doamne,
+Atunci când mă trezesc,
+Caut fața Ta.
+Îmi plec genunchii Isuse,
+Cu lacrimi fierbinți Te chem
+Și caut fața Ta.
+
+[c]
+/: Pleacă-Ți urechea Doamne
+Ascultă glasul meu
+Ruga spre Tine o-ndrept
+Și-n liniște aștept. :/
+
+[v2]
+Te caut din tot sufletul,
+Cu toată ființa mea,
+Caut fața Ta.
+În Tine găsesc odihnă,
+De-acea eu Te chem
+Și caut fața Ta.
+
+[e]
+Caut fața Ta, Doamne Isuse,
+Ești ce-am mai scump în viața mea.
+Și când e soare sau furtună-n jurul meu
+Eu alerg pe cale și caut fața Ta.

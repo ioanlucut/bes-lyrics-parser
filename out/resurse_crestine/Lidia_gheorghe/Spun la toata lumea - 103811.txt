@@ -1,0 +1,52 @@
+[title]
+Spun la toata lumea {author: {Lidia Gheorghe}, {rcId: {103811}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ai făcut cu mine
+Medic Minunat,
+O lucrare mare;
+Viața mi-ai redat.
+Astăzi eu trăiesc
+Si Îți proslăvesc
+Numele Tău Mare.
+Stânca mea e tare!
+
+[c]
+Spun la toată lumea
+Că m-ai vindecat
+Medic - Bun, Suprem,
+Cel din Betleem.
+
+[v2]
+Tu mi-ai dat tărie,
+Tu m-ai ridicat.
+Laud pe vecie
+Sfântul Împărat!
+Mi-ai întins o mână,
+Mi-ai dat ajutor,
+Mi-ai spus: „
+Nu te teme!”
+Că simțeam că mor.
+
+[v3]
+Tu mi-ai dat credință,
+Dumnezeul meu!
+Tu mi-ai fost alături
+Când mi-a fost mai greu.
+Prin Cuvântul Sfânt
+Tu, m-ai întărit,
+Prin puterea Ta,
+Eu sunt izbăvit.
+
+[v4]
+Doctori cu știință
+Nu au reușit
+Să mă facă bine,
+Dar Tu ai venit.
+Eu Îți mulțumesc
+Că te-ai îndurat.
+Numele să-ți fie
+Veșnic lăudat!

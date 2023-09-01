@@ -1,0 +1,35 @@
+[title]
+Ochii mi-i pazeste doamne {author: {Nicolae Moldoveanu}, {rcId: {200105}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Ochii mi-i păzește Doamne,
+De văpaia stricăciunii,
+/: Și-mi aprinde’n suflet focul,
+Preacurat al rugăciunii! :/
+
+[v2]
+Ochii mi-i îndreaptă Doamne,
+Spre lăcașurile Sfinte,
+/: Ca de-acolo să-mi coboare,
+Limpeziri și duh fierbinte :/
+
+[v3]
+Ochii mi-i sfințește Doamne,
+Să Te recunosc pe cale,
+/: Împlinind mai viu în mine,
+Hotărârea voii Tale :/
+
+[v4]
+Ochii mi-i păstrează Doamne,
+Ațintiți mereu spre Tine,
+/: Ca să am deplin lumină,
+În lucrările Divine :/
+
+[v5]
+Și întreaga mea ființă,
+Să mi-o’mbraci în curăție,
+/: Ca să pot până la capăt,
+Ție, să-Ți slujesc, doar Ție! :/

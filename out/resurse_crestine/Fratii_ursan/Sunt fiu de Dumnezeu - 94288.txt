@@ -1,0 +1,28 @@
+[title]
+Sunt fiu de dumnezeu {author: {Frații Ursan}, {rcId: {94288}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Eram pierdut în lume
+Și nu știam că Tu exiști,
+Mă cunoșteai pe nume
+Spre mine mâna ți-ai întins.
+
+[c]
+/: Să fiu copilul Tău
+Ce har măreț, o, Domnul meu
+Sunt fiu, sunt fiu de Dumnezeu. :/
+
+[v2]
+Eu nu știam de jertfa Ta
+Nu-Ți cunoșteam nici dragostea
+Dar fiindcă m-ai iubit,
+La Tine m-ai primit.
+
+[v3]
+Sunt fiul Tău acum
+Tu, Tatăl meu cel bun,
+Îți mulțumesc că mă iubești
+La Tine mă primești.

@@ -1,0 +1,43 @@
+[title]
+Sfant esti doamne {author: {Anonim}, {rcId: {231280}}
+
+[sequence]
+c,v1,c,v2,b,e,e
+
+[c]
+/: Sfânt ești Doamne, Sfânt ești Doamne
+Noi Te lăudăm, mărim numele Tău! :/
+
+[v1]
+Privesc adesea uimit măreția mâinilor Tale,
+Frumusețea Ta și dragostea-Ți nemărginită.
+Nu pot exprima măestria Ta,
+Nu pot descrie gloria Ta,
+Dar vreau să-Ți cânt și să Te laud!
+
+[v2]
+Vreau să Îți mulțumesc
+Plin de recunoștință
+Ai dat un sens vieții mele.
+Dorința mea-i să Te laud,
+Să-Ți spun cât Te iubesc.
+Ești vrednic de toată gloria,
+Ești vrednic de laudă!
+
+[b]
+/:/
+Te laud!
+Te laud, Isus! / x3
+Ești vrednic de laudă! :/
+
+[e]
+Minunat, Glorios, Sfânt și Drept,
+Victorios, Cuceritor, Triumfător, Măreț,
+Scut de-apărare în război,
+Turn de scăpare în nevoi!
+Conducător, Vindecător, Rege-al regilor,
+Ești Alfa, Omega, Domn al domnilor.
+Glorie, glorie, glorie Domnului!
+
+[e]
+/: Glorie, glorie, glorie, glorie, glorie Domnului! :/

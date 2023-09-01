@@ -1,0 +1,28 @@
+[title]
+Aleluia {author: {Ovidiu Liteanu}, {rcId: {7025}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Lăudați pe Domnul, lăudați-l mereu
+Lăudați pe Domnul, Sfântul lui Israel,
+Sfântul lui Israel
+
+[c]
+/: Aleluia, aleluia, aleluia, aleluia :/
+
+[v2]
+Preamăriți pe Domnul care ne-a mântuit
+Suferind pe cruce fiindcă mult ne-a iubit
+Fiindcă mult ne-a iubit.
+
+[v3]
+Lăudați pe Domnul, pe Acel ce-a-nviat
+Biruind El moartea, viață noua ne-a dat
+Mântuire ne-a dat.
+
+[v4]
+Lăudați pe Domnul, Cel ce va reveni
+Să ne ducă în slava Domnul ne va răpi
+Domnul ne va răpi.

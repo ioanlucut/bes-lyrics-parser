@@ -1,0 +1,32 @@
+[title]
+De dragul tau isuse {author: {Alexandru Groza}, {rcId: {185324}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+De dragul Tău Isuse, da, inima Îți cântă
+Cântarea mea de laudă,
+Căci Tu ești Domn al păcii, al dragostei, al jertfei
+Stăpân și Domn al inimii mele.
+
+[c]
+Prin harul Tău Isus, trăiesc și Te slăvesc
+Cu numele Tău sfânt, Doamne mă-nveselesc
+În bunătatea Ta, iubit Mântuitor,
+Mi-ai dat fericirea, mi-ai dat în dar fericirea.
+Prin harul Tău Isus, trăiesc și Te slăvesc
+Cu Numele Tău sfânt, Doamne mă-nveselesc
+În bunătatea Ta eu am găsit fericirea.
+
+[v2]
+De dragul Tău, Isuse, inima Îți cântă
+Onoare, slavă, glorie!
+Căci Tu mi-ai dat viață, prin jertfa împlinită
+M-ai împăcat cu Tatăl Dumnezeu.
+
+[v3]
+De dragul Tău, Isuse, înalț a mea cântare
+Și-Ți mulțumesc că m-ai salvat.
+Încredere speranță, ai dat vieții mele
+Și-n gândul meu Isus, te port mereu.

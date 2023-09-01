@@ -1,0 +1,31 @@
+[title]
+Pe pamant jos ai venit aleluia {author: {Anonim}, {rcId: {6233}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Pe pământ jos ai venit, Aleluia!
+Viața Ta, Tu ți-ai jertfit.
+
+[c]
+Aleluia! Amin, Aleluia!
+Astăzi, Doamne, Îți cântăm.
+Aleluia! Amin, Aleluia!
+Slavă lui Isus, să-I dăm.
+
+[v2]
+Cu Tine noi vrem să fim, Aleluia!
+Asta, Doamne, ne dorim.
+
+[v3]
+Căci Tu-ai spus, Isus, așa, Aleluia!
+Ca să facem voia Ta.
+
+[v4]
+Ne vei lua de pe pământ, Aleluia!
+Să ne duci în cerul sfânt.
+
+[v5]
+Cu Tine în veci vom sta, Aleluia!
+Cu toți ce fac voia Ta.

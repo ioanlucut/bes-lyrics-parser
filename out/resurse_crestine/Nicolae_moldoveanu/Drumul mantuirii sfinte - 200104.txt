@@ -1,0 +1,42 @@
+[title]
+Drumul mantuirii sfinte {author: {Nicolae Moldoveanu}, {rcId: {200104}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Drumul mântuirii sfinte,
+Trece azi prin văi pustii,
+Printre lacrimi și morminte,
+Și prin negre vijelii!
+Dar zărim la capăt Harul,
+Veșnicei Împărății,
+Unde vom sfârși amarul,
+Îndurat prin văi pustii!
+
+[c]
+Slavă, slavă scump Isuse,
+Pentru ce Ne-ai pregătit,
+Pentru harurile-aduse,
+Slavă, slavă,
+Fii slăvit!
+
+[v2]
+Luptele și suferința,
+Ne’nsoțesc șirag, șirag,
+Și’ncercându-ne credința,
+Brazde-adânci pe viață trag!
+Dar zărim în departare,
+Al Cetății Sfinte prag,
+Și primim îmbărbătare,
+În al luptelor șirag!
+
+[v3]
+Doamne, drumul mântuirii,
+Vrem cu bine să-l sfărșim,
+Și în Templul nemuririi,
+Fără pierderi să sosim!
+Vrem comoara cea divină,
+Care-ai pus-o, Tu, în noi,
+Să Ți-o dăruim deplină,
+Cu frumoase roade noi!

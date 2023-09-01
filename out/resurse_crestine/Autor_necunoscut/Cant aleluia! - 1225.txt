@@ -1,0 +1,23 @@
+[title]
+Cant aleluia {author: {Anonim}, {rcId: {1225}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+/: Cânt Slavă-n
+Veci lui Dumnezeu, :/
+Cânt Aleluia! Cânt Aleluia!
+Cânt Slavă-n veci lui Dumnezeu.
+
+[v2]
+/: Cânt Slavă
+Singurului Fiu, :/
+Cânt Aleluia! Cânt Aleluia!
+Cânt Slavă singurului Fiu.
+
+[v3]
+/: Cânt Slavă
+Duhului Preasfânt, :/
+Cânt Aleluia! Cânt Aleluia!
+Cânt Slavă Duhului Preasfânt.

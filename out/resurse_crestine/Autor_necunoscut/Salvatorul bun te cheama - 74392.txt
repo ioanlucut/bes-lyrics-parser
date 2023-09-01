@@ -1,0 +1,35 @@
+[title]
+Salvatorul bun te cheama {author: {Anonim}, {rcId: {74392}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Salvatorul bun te cheamă
+Vino și vezi!
+La ospăț cu drag te cheamă
+Vino și vezi!
+
+[c]
+Vestea peste tot să sune
+Deal și vale să răsune.
+Isus cheamă pe oricine,
+Vino și vezi!
+
+[v2]
+Spune la mic și la mare:
+Vino și vezi!
+Că primesc pace, iertare,
+Vino și vezi!
+
+[v3]
+Vino înaintea nopții,
+Vino și vezi!
+Nu-amâna în clipa morții,
+Vino și vezi!
+
+[v4]
+Vino la ospățul nunții,
+Vino și vezi!
+La un loc să cânți cu sfinții,
+Vino și vezi!

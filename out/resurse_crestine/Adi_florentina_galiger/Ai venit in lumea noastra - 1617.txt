@@ -1,0 +1,18 @@
+[title]
+Ai venit in lumea noastra {author: {Adi, Florentina Galiger}, {rcId: {1617}}
+
+[sequence]
+v1,c
+
+[v1]
+/: Ai venit în lumea noastră
+Ai fost un rege umilit
+O iesle rece a fost ușa prin care ai venit
+Sărac și gol ai fost în lume
+Doar ca să pot veni și eu
+Să mă închin în umilință, să recunosc. :/
+
+[c]
+/: Te-ai născut ca să mori
+Ai murit să-mi dai viață :/
+Pentru mine ai venit

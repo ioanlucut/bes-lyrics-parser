@@ -1,0 +1,30 @@
+[title]
+Cant cu bucurie {author: {Ionică Stoica}, {rcId: {163288}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Cânt cu bucurie Doamne pentru mine
+Ai murit pe Golgota
+Și-n a Ta iubire m-ai luat pe mine
+Și m-ai pus pe stânca Ta. :/
+
+[c]
+/: Toată adunarea să cânte cântarea
+Plini de Duhul Domnului
+Și la fiecare Domnul să coboare
+Să simțim puterea Lui. :/
+
+[v2]
+/: Cânt cu veselie pentru toți să știe
+Căci Isus e printre noi
+El la toți împarte milă și dreptate
+Căci a spus: ”
+Eu sunt cu voi”. :/
+
+[v3]
+/: Azi cu mulțumire, mă închin doar Ție
+Pentru toate ce mi-ai dat
+Mi-ai dat libertate, m-ai salvat de moarte
+Și m-ai binecuvântat. :/

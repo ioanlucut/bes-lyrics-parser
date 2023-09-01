@@ -1,0 +1,37 @@
+[title]
+Daniel popescu {author: {Daniel Popescu}, {rcId: {218495}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+lacrimi ce-au curs pe-obrjii
+Tăi senini Domnul meu,
+apă ai cerut, soldații au râs, oțet Ți-au dat
+ei nu au înțeles că batjocoresc
+pe Însuși Dumnezeu,
+putere aveai, făceai ce voiai
+dar un exemplu Ai fost, O, ce glorios!
+
+[c]
+Tu ești mai mult decât o simplă carte,
+Tu ești mai mult decât viață sau moarte,
+Tu ești mai mult decât pot să-mi imaginez,
+Tu ești iubire, slavă, putere, înțelepciune și mângâiere
+Tu ești Hristos-ul ce din morți ai înviat.
+ /:
+Tu ești mai mult decât o simplă carte,
+Tu ești mai mult decât viață sau moarte,
+Tu ești mai mult decât pot să-mi imaginez,
+Tu ești iubire, slavă, putere, înțelepciune și mângâiere
+Tu ești Hristos-ul ce din morți ai înviat.
+ /:
+
+[v2]
+Recunosc că a Ta prezență
+fără-ndoială umbrește viață mea
+pentru un lut, un fir de iarbă
+întreagă slavă Ai lăsat
+cată iubire îmi oferă
+numele din Golgota
+și-Ți voi cânta.

@@ -1,0 +1,30 @@
+[title]
+Isus te cheama cu iubire {author: {Anonim}, {rcId: {6805}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Isus te cheama, cu iubire;
+O, suflete, vino la mine,
+Ca Eu, pentru tine-am gatit,
+Locul, cel mai fericit!
+
+[c]
+Ma grabesc, Ma grabessc,
+La parintele ceresc,
+Pacatu-mi naintea Lui
+Alb va fi, alb va fi,
+Ca zapada campului!
+
+[v2]
+De tanar, inimioara mea;
+Domnului o voi preda,
+Cu El, ma voi bucura, 
+Cand pe nume, ma chema.
+
+[v3]
+Isus e prietenul meu;
+Si ma scapa de orice rau,
+Viata mea-i in mana Sa,
+Isus este salvarea mea.

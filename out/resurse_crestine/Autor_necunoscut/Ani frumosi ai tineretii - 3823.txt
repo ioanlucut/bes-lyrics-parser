@@ -1,0 +1,35 @@
+[title]
+Ani frumosi ai tineretii {author: {Anonim}, {rcId: {3823}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Ani frumoși ai tinereții
+Eu vă părăsesc de-acum
+Și păsesc de prima dată
+Pe al căsniciei drum
+
+[v2]
+Ani frumoși de primăvară
+Eu vă las de-acum și plec
+Niciodată, niciodată
+N-am să vă mai întâlnesc
+
+[v3]
+Eu vă las de-acum cu bine
+Și-mi voi aminti cu drag
+De viața părintească
+Lângă-ai mei părinți și frați
+
+[v4]
+Dragi părinți la revedere
+Eu din casa voastră plec
+Și vă multumesc din suflet
+Din iubire și respect
+
+[v5]
+Îmi voi aminti cu lacrimi
+De voi care m-ați crescut
+Rugăciunile ce-n taină
+Pe mine m-au susținut.

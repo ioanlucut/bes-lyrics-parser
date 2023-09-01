@@ -1,0 +1,47 @@
+[title]
+Cand cad lacrimi trecatoare {author: {Quo Vadis}, {rcId: {66667}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când cad lacrimi trecătoare
+Peste inima ce doare
+Cu balsam divin
+Al rănilor suspin
+Mi-l alini cu Mâna Ta
+Când furtunile-ncercării
+Poartă norii întristării
+Tu Luceafăr Sfânt
+Cu-al dragostei cuvânt
+Luminezi cărărea mea
+
+[c]
+Tu ești raza vieții ce răsari din nori
+Ești luceafărul din zori, din zori
+Mi-ai aprins în tainice comori
+Te iubesc și Te-oi iubi nespus
+/: Te iubesc, dulce Isus :/
+
+[v2]
+Când în zarea-nnegurată
+Zorii păcii nu se-arată
+Peste noaptea grea spre Tine ruga mea
+Mi-o înalț, o, Domnul meu
+Stau pe țărmu-nstrăinării
+Bate vântu-nsingurării
+Te zăresc venind
+Furtuna liniștind
+Poruncind Atotstăpan
+
+[v3]
+Azi privirea-mi înspre cruce
+Mă ajută să pot duce
+Spini de sânge grei
+Plătind talanții mei
+Apăsau pe fruntea Ta
+Iar în zori într-o grădină
+Îngeri albi plini de lumină
+Peste-al lumii gând
+Cu-al gloriei veșmânt
+A-nviat al slavei Domn!

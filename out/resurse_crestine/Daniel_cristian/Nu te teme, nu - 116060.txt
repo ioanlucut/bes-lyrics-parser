@@ -1,0 +1,39 @@
+[title]
+Nu te teme nu {author: {Daniel Cristian}, {rcId: {116060}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Oricine ai fi în lumea aceasta,
+Ești încă, un fiu pierdut ?
+Vino azi la apa vieții,
+Mântuit să fii.
+
+[c]
+Nu te teme, nu te teme
+Ajutor îți este El,
+Nu te teme, nu te teme
+Cu tine e mereu
+Nu te teme, nu te teme
+Domnul, iartă trecutul tău,
+Nu te teme, nu te teme
+Isus e cu tine mereu
+
+[v2]
+Demult poate El te-a strigat,
+În seama tu, nu le-ai băgat
+Astăzi încă nu-i târziu,
+Tu poți fi de El primit
+
+[v3]
+Trecutul tău e dat uitării,
+Domnul este al tău sprijin
+În începutul noi vieții,
+Alături de Isus.
+
+[v4]
+Astăzi tu ești salvat,
+De la moarte și pierzare
+Totul este doar să vrei,
+În Isus să te încrezi

@@ -1,0 +1,32 @@
+[title]
+Doamne te-asteptam sa vii {author: {Otniel Stirb}, {rcId: {4487}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Doamne te-asteptam sa vii
+Domane te chemam
+Sa ne duci in vesnicii
+Astazi te rugam
+
+[c]
+Caci lupta este mare
+Vrasmasul este tare
+Vino o Domane-n ajutor
+Nu ne lasa Isuse
+Caci vrem si noi cu tine
+Sa mostenim cerul
+Cu-al Tau popor
+
+[v2]
+Caci aici e de luptat
+Cu pacatul greu
+Vrem sa fim biruitori
+In numele Tau
+
+[v3]
+Multi sunt cei care oe cale
+Au cazut invinsi
+Te rugam pe tine Domane
+Tu sa ii ridici

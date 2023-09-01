@@ -1,0 +1,33 @@
+[title]
+Doamne tu imi esti lumina mea {author: {Claudia Danciu}, {rcId: {168879}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Doamne Tu îmi ești lumina mea
+Cănd negura-i grea
+Mă conduci mereu pe calea Ta
+Tu lumina mea.
+
+[c]
+/: Doamne Tu îmi ești lumină, îmi ești
+Viață nouă Tu îmi dăruiești
+Pașii mi călăuzești
+Tu Lumină îmi ești. :/2X
+
+[v2]
+Doamne Tu îmi ești lumina mea
+În noaptea grea
+Mă însoțești mereu pe calea Ta
+Tu lumina mea.
+
+[c2]
+Tu îmi ești, îmi ești lumină îmi ești
+Viață nouă Tu îmi dăruiești
+Mă conduci pe calea Ta
+Tu Lumina mea
+Doamne Tu îmi ești lumină, îmi ești
+Viață nouă Tu îmi dăruiești
+Mă conduci pe calea Ta
+Tu, lumina mea!

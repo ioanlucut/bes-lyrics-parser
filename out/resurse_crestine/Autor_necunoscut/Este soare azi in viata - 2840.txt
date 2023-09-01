@@ -1,0 +1,35 @@
+[title]
+Este soare azi in viata {author: {Anonim}, {rcId: {2840}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Este soare azi in viata
+Soare fara de apus
+Minunata-i stralucirea sa
+De cand am pe isus.
+
+[c]
+Este soare, numai soare
+Fericite clipe-acum traiesc
+Cand Isus Hristos S-arata fata sa
+Este soare in viata mea
+
+[v2]
+Numai cantec azi in viata mea
+Cantec nou nemai cantat
+Cand Isus mi-asculta inima
+De om rascumparat.
+
+[v3]
+Primavara azi e-n viata mea
+Cand aproape-i Domnul meu!
+Pacea Lui imi umple inima
+Sunt fiu de Dumnezeu.
+
+[v4]
+Fericita azi in viata mea
+Ca un cantec de sabat
+Pentru tot ce vrea Isus sa-mi dea
+Si pentru ce mi-a dat.

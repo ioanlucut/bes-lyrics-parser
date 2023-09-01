@@ -1,0 +1,31 @@
+[title]
+Nu-ti pirede rabdarea asculta chemarea {author: {Ionică Stoica}, {rcId: {195438}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Nu-ți pierde răbdarea, ascultă chemarea
+Să fii veșnic fericit...!
+Domnul te iubește și te spijinește
+Ca să poți fi tu mântuit!
+
+[c]
+Ascultă azi chemarea lui, să intri-n turma Domnului
+Să fii cu El și-al lui popor, cu Bunul nostru Salvator, Mântuitor!
+
+[v2]
+Isus te iubește și te mântuiește
+Luminându-ți calea ta spre cer!
+Părăsește lumea și vino acuma
+La El, să fii fericit!
+
+[v3]
+Căci la judecată, omenirea toată
+Înaintea lui Isus va sta!
+N-au avut credință, în inimă dorință
+Să primească pe Isus Hristos!
+
+[c2]
+N-o să mai poți să fii salvat, vei fi la moarte condamndat
+Oricine-ai fi, nu vei scăpa, întoarce-te din calea rea, nu amâna!

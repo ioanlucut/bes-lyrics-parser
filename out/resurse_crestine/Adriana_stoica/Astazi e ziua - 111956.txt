@@ -1,0 +1,33 @@
+[title]
+Astazi e ziua {author: {Adriana Stoica}, {rcId: {111956}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: Astăzi e ziua când ne vom bucura
+În casa Domnului
+Și într-un glas cu toții vom cânta
+Glorie Mielului :/
+
+[c]
+Cântați cu mine, cântați osana Mielului crucificat!
+Dați-I mărire, cinste și onoare, de la moarte ne-a salvat.
+
+[v2]
+/: Astăzi e ziua când poți să-ți alegi
+Dragostea ce tu i-o porți
+Celui ce crucea la toți ne-a purtat,
+Din dragoste ne-a iertat :/
+
+[v3]
+/: Astăzi e ziua când tu poți să ierți,
+Să poți să fii iertat.
+Numai așa vei putea birui,
+Veșnic fericit vei fi :/
+
+[v4]
+/: Astăzi e ziua să nu mai amâni,
+Rămâi pe calea Sa,
+Lacrimi, dureri, bucurii, orice-ar fi,
+Cu El vei birui :/

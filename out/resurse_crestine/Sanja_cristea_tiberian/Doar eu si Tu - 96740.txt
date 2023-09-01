@@ -1,0 +1,51 @@
+[title]
+Doar eu si tu {author: {Sanja Cristea Tiberian}, {rcId: {96740}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+De câte ori se-arată zorii
+Și văd lumina-n casă mea
+Și soarele-i stăpân și norii
+Se pierd în zare undeva
+
+[v2]
+De câte ori zâmbește-o floare
+Ori mă alintă-un tril zglobiu
+Și totu-mi pare-o sărbătoare
+Cu Tine, Doamne, vreau să fiu
+
+[c]
+/: Doar eu și Tu
+Doar Tu și eu
+Și sufletul
+Cântând mereu
+În viața mea
+Ce-a fost doar Nu
+Nu-i nimenea
+Ești Tu :/
+
+[v3]
+Îți simt în inimă căldura
+Și bucuria-mi cântă-n piept
+Și laude-Ți rostesc cu gura
+Ești Dumnezeul meu cel drept
+
+[v4]
+Ce bine-i, Doamne, lângă Tine
+Și doar cu Tine vreau să stau
+Să-Ți sorb cuvintele divine
+Din apa vie să tot beau
+
+[v5]
+De câte ori se lasă seara
+Și iese luna-n răsărit
+Și-și plânge-un greiere vioara
+Eu știu că, Doamne, Te-am găsit
+
+[v6]
+De câte ori se-alintă vântul
+Când freamată prin crengi zglobiu
+E-n sărbătoare tot pământul
+Și eu cu Tine vreau să fiu

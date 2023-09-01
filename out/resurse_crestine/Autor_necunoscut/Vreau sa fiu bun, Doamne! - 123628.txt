@@ -1,0 +1,37 @@
+[title]
+Vreau sa fiu bun doamne {author: {Anonim}, {rcId: {123628}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Într-o zi, într-o zi
+Domnul va veni
+Pe cei buni, pe cei răi
+El va despărți.
+
+[c]
+Vreau să fiu bun, Doamne,
+Vreau să fiu bun și eu!
+Într-o zi, într-o zi
+Domnul va veni.
+Vreau să fiu bun, Doamne,
+Vreau să fiu bun și eu!
+Se împlinesc, se împlinesc
+Semne pe pământ.
+Vreau să fiu bun, Doamne,
+Vreau să fiu bun și eu!
+Doar puțin, doar puțin
+Clipe au mai rămas.
+
+[v2]
+Se împlinesc, se împlinesc
+Semne pe pământ
+Sus în cer, sus în cer
+Toate gata sunt.
+
+[v3]
+Doar puțin, doar puțin
+Clipe au mai rămas
+Toți cei buni, toți cei buni
+Vor ajunge Acas’.

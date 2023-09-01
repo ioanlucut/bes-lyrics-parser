@@ -1,0 +1,33 @@
+[title]
+Cum doreste cerbul {author: {Anonim}, {rcId: {55579}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Mie suflet bun de Tine insetat,
+Dupa Tine-o Domnul meu,
+/: Si ma gandesc o Domnul meu,
+Sa fiu si eu in cortul Tau :/
+
+[c]
+/: Cum doreste cerbul izvoarele de apa,
+Asa Te doreste inimile noastre :/
+
+[v2]
+Cu lacrimile mele-o Doamne,
+Zi si noapte ma gandesc,
+/: Cand oamenii mereu ma-ntreaba,
+Unde E Domnul tau Ceresc :/
+
+[v3]
+Mi-aduc aminte-o Domnul meu,
+Si focul inimii mi-l vars,
+/: Cand eu mergeam cantand o Doamne,
+Si laudam numele Tau :/
+
+[v4]
+Si-acuma Doamne eu Iti multumesc,
+Caci Doamne Tu mai Mantuit,
+/: Doar Tu imi Esti Izvorul meu,
+Ce-atat de mult il doresc eu :/

@@ -1,0 +1,41 @@
+[title]
+O unde esti iubire dintai de la inceput? {author: {Anonim}, {rcId: {76049}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c2
+
+[v1]
+O, unde esti iubire, dintai de la inceput?
+De ce nu este pace, ca-n vremea cea trecut
+Cand fratii cu caldura in suflet se adunau
+Si cu nadejde vie pe Domnul laudau.
+
+[c]
+Asa de grea e starea, ne-a cuprins disperarea
+Si a noastre inimi ni s-au impietrit
+O vino-n adunare mai fa o cercetare
+Sa Te simtim ca si la inceput.
+
+[v2]
+O, unde e Cuvantul cel insotit de har ?
+Vestit cu greutate, curat si plin de jar.
+O Doamne unde-s fratii care stateau veghind
+Mergand drept pe carare cuvantul Tau pastrand.
+
+[v3]
+O, unde e bolnavul, strigand m-a vindecat ?
+De ce nu mai sunt semne, de ce noi ne-am schimbat
+O unde e Betesda cu acele cinci pridvoare
+Sa se arunce fratii, bolnavii in scaldatoare.
+
+[v4]
+O, unde e proroocul ca sa vorbeasca drept ?
+Ca Samuel, ca Mica, ca cel ce-i intelept.
+Poporul sa asculte al Domnului cuvant
+Sa nu dispretuiasca puterea Duhul Sfant.
+
+[c2]
+Veniti cu staruinta sa cerem noi puteri
+Ca lacrimi de cainta, veniti frati si surori
+Caci Domnul bun din slavane va inviora
+Si ploaia cea tarzie din plin va revarsa.

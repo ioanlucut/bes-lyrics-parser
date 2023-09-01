@@ -1,0 +1,33 @@
+[title]
+O minune de sus {author: {Vadim Maksimov}, {rcId: {88259}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O minune de sus a salvat Universul
+O lumină de sus a luminat pamântul
+Această lumina-a iubirii numită Isus
+A trimis Duhul Sfânt pe pamânt
+
+[c]
+Caută-l pe Isus acum
+Caută-l neîncetat
+Caută-l pe Isus acum
+Caută-l poți fi salvat
+Caută-l pe Isus acum
+Caută-l neîncetat
+Primește-l chiar acum
+Ca să fii salvat
+
+[v2]
+Oprește-te doar o clipă și uită-te atent
+Unde te-ai pornit, pe care drum tu ești
+Privește doar o clipă la calea ta acum
+Căci păcatul greu te-a întors din drum
+
+[v3]
+Căutând pe Isus mereu ne-ncetat
+Și aflând că Isus mântuirea ți-a dat
+Vino acum la El și nu mai sta
+Duhul Sfânt te va alina

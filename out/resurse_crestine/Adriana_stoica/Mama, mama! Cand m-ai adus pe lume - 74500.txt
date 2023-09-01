@@ -1,0 +1,36 @@
+[title]
+Mama mama cand m-ai adus pe lume {author: {Adriana Stoica}, {rcId: {74500}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Mamă, mamă!
+Când m-ai adus pe lume
+Și când mi-ai pus un nume,
+M-ai dus la binecuvântare
+Aici la noi în adunare,
+/: Și m-ai stropit cu lacrimi multe,
+Dorind ca Domnul să Te asculte! :/
+
+[v2]
+Mamă, mamă!
+Și i-ai mai spus lui Isus așa:
+„
+Să aibă grijă de viața mea,
+/: Să-mi binecuvânteze pașii
+Și să înlăture vrăjmași!” :/
+
+[v3]
+Mamă, mamă!
+Îți mulțumesc, o mamă dragă
+Căci m-ai vegheat viața întreagă
+/: Domnul Isus să te-ntăraescă
+Și să-ți dea slava Sa cerească! :/
+
+[v4]
+Mamă, mamă!
+Mamă iubită, ființă aleasă
+În ziua aceasta cea mai frumoasă!
+/: Îl rog pe Domnul care poate,
+Să-ți răsplătească pentru toate :/

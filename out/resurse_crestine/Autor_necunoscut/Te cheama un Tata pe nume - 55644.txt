@@ -1,0 +1,39 @@
+[title]
+Te cheama un tata pe nume {author: {Anonim}, {rcId: {55644}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Te cheamă un Tată pe nume
+O Mama te cheamă plângând,
+Te cheamă Iubirea din ceruri
+Dorind ca să vii mai curând!
+
+[c]
+/: Hai, vino! Hai, vino! :/
+Hai, vino la Isus!
+
+[v2]
+Un glas iubitor îți vorbește
+Un glas ce-a strigat „te-am iertat!”
+E glasul ce-a-nvins continente
+E glasul ce viată ne-a dat.
+
+[v3]
+Ascultă-I strigarea miloasă
+Și susurul blând „te iubesc!”
+Te-mbie-nceputul la toate
+Te cheamă un glas îngeresc.
+
+[v4]
+Te cheamă și firul de iarbă
+Te-mbie albastrul senin,
+Te cheamă izvorul de apă
+Să vii, ca să fii mântuit.
+
+[v5]
+Nu vezi? Rândunica te cheamă
+Și stolul ce zboară-n apus,
+Să mergi înspre țara cea caldă
+Acolo la Domnul Isus.

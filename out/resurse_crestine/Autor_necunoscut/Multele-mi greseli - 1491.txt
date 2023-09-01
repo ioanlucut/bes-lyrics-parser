@@ -1,0 +1,35 @@
+[title]
+Multele-mi greseli {author: {Anonim}, {rcId: {1491}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Multele-mi greșeli
+Tu mi le-ai iertat
+Vreau să fiu al Tău
+Vreau să fiu curat.
+
+[c]
+/: Voi spune la toți
+Despre jertfa Sa
+Desprea-a Lui iubire
+În cântarea mea. :/
+
+[v2]
+Încă de copil
+Mama îmi spunea
+Că în cer e Isus
+Și-are grija mea.
+
+[v3]
+Nu credeam vreodată
+Că tristețea mea
+S-ar duce departe
+Și c-o voi uita.
+
+[v4]
+Reîntors acasă
+Lângă Tatăl meu
+Am pace deplină
+În sufletul meu.

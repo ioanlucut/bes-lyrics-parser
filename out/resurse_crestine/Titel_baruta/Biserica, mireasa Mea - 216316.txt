@@ -1,0 +1,41 @@
+[title]
+Biserica mireasa mea {author: {Titel Băruța}, {rcId: {216316}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Aud cântarea ta prin noaptea tot mai grea
+Și-o lacrimă de dor străluce-n ochii tăi.
+Cu lanțuri te-au legat, și-n peșteri te-au ascuns,
+Dar cine ar putea dragostea ta s-o ia?
+
+[c]
+Biserică, mireasa Mea, să vin la tine-n taină-aș vrea,
+Cuvinte sfinte să-ți șoptesc, plânsul greu să ți-l opresc.
+Să trec prin stânca de granit, să mângâi trupul tău lovit,
+Și-apoi să te ridic să zbori înspre țara fără nori.
+
+[v2]
+Te văd pornind cu greu... soldați în jurul tău;
+Convoiul va pleca noaptea-n Siberia.
+Văzduhul străbătând, vin duhuri din Adânc
+Și lupta ce-a-nceput mai tare-i ca oricând.
+
+[c2]
+Biserică, mireasa Mea, Mă rog pentru credința ta.
+Căci iadu-ntreg s-a ridicat, și pământul e-ncercat.
+Și-aș vrea să-ți dau din Duhul Meu, să-nfrunți puterea celui rău,
+Căci noapte mult nu va mai fi: zorii iar vor răsări.
+
+[v3]
+Te văd, mireasa Mea, odată peste ani,
+Când totul s-a sfârșit și-acasă ai venit.
+Când ceru-ntreg va sta uimit în fața ta,
+Cununa ce-ai primit în veci va străluci.
+
+[c3]
+Biserică, mireasa Mea, tu ești cea mai frumoasă stea.
+Că pentru viața ce ți-am dat, totu-n urmă ai lăsat.
+Prin frig, bătăi și închisori, și-n fața morții-adeseori,
+Pe urma Mirelui iubit ai răbdat și-ai biruit.

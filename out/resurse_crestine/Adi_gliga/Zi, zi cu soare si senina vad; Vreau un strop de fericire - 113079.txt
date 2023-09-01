@@ -1,0 +1,30 @@
+[title]
+Zi zi cu soare si senina vad; vreau un strop de fericire {author: {Adi Gliga}, {rcId: {113079}}
+
+[sequence]
+v1,v2,v1,v3,e
+
+[v1]
+Zi, zi cu soare și senină văd
+Însă nu-i nicio lumină
+Totul e întunecat, norii parcă s-au lăsat
+Și, zi, zi cu soare și senină, o, o,o.
+Fericirea nu-i departe
+Fericirea e de sus
+Cel ce-o are poartă numele Isus.
+
+[v2]
+Vreau, vreau, un strop de fericire
+Dar unde este, cine știe ?
+Omul caută ne-ncetat, nu știu dacă a aflat
+Dar vreau, vreau un strpă de fericire.
+
+[v3]
+Da, omul vrea să tot trăiască dar,
+Poftele nu îl mai lasă
+Se afundă în păcat, norii parcă s-au lăsat
+Și zi, zi cu soare și senină nu-i
+
+[e]
+Zi, zi cu soare și senină văd
+Însă nu-i nicio lumină, nu.

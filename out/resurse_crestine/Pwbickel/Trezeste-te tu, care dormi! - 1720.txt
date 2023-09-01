@@ -1,0 +1,29 @@
+[title]
+Trezeste-te tu care dormi {author: {P.W.Bickel}, {rcId: {1720}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Trezește-te tu, care dormi!
+De Domnul ești chemat!
+Tu ce-n păcate rătăcești,
+De Domnul ești căutat.
+
+[c]
+/: Suflete, spune:
+Când vei fi salvat?
+Te grăbește azi,
+Cât mai ești chemat. :/
+
+[v2]
+Întoarce-te, drumetule,
+Din calea de păcat!
+Isus e trist că tu nu vrei
+De El să fii salvat.
+
+[v3]
+Deci, lasă lumea pofta ei,
+Căci fericire n-ai;
+Te-ntoarce azi la Dumnezeu!
+Iertare-n El tu ai.

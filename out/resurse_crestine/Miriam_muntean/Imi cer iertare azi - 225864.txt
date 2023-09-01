@@ -1,0 +1,27 @@
+[title]
+Imi cer iertare azi {author: {Miriam Muntean}, {rcId: {225864}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Imi cer iertare azi
+Pentru trecutul meu
+Imi cer iertare plang
+Si-astept raspunsul Tau
+
+[c]
+Iertare, vreau iertare
+Iertare Domnul meu
+Eu vreau sa fiu de astazi
+Copil de Dumnezeu
+Iertare, vreau iertare
+Iertare Domnul meu
+Eu vreau sa fiu de astazi
+Copil de Dumnezeu
+
+[v2]
+Imi cer iertare azi
+C-am fost risipitor
+Imi cer iertare vin
+Din lume calator!

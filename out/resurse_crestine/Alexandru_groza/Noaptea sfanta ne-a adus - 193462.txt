@@ -1,0 +1,31 @@
+[title]
+Noaptea sfanta ne-a adus {author: {Alexandru Groza}, {rcId: {193462}}
+
+[sequence]
+v1,b,c,v2,c,v3,c,e
+
+[v1]
+Noaptea sfântă ne-a adus darul Tatălui de sus
+Pe Fiul, Emanuel, Cel născut în Betleem
+
+[b]
+Îngerii, ei au vestit, steaua, ea a strălucit
+Noaptea sfântă ne-a adus darul Tatălui de sus
+
+[c]
+Profeția s-a împlinit, s-a născut Pruncul iubit
+Într-o iesle-n Betleem, s-a născut Emanuel
+
+[v2]
+În mărire a venit Pruncul Sfânt jos pe pământ
+Să ne-aducă bucurii, dragoste din veșnicii
+
+[v3]
+Azi, când iarăși e Crăciun îl slăvesc pe Pruncul Sfânt
+În suflet sunt fericit, inima i-am dăruit
+
+[e]
+El mi-a dat iubirea Sa, mi-a salvat viața mea
+Pruncul Sfânt m-a mântuit, El e Domnul meu iubit!
+Pruncul Sfânt m-a mântuit, El e Domnul meu iubit!
+Mi-a făcut sufletul bun, bucuria-mi de Crăciun!

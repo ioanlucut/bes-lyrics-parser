@@ -1,0 +1,23 @@
+[title]
+Domnul e bun {author: {Cristale}, {rcId: {57631}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Domnul e bun,
+Domnul e bun,
+Domnul e bun,
+El cu mine-I bun.
+
+[v2]
+El a murit,
+El a murit,
+El a murit
+Pentru-al meu păcat.
+
+[v3]
+Liber sunt azi,
+Liber sunt azi,
+Liber sunt azi,
+De mă-ncred în El.

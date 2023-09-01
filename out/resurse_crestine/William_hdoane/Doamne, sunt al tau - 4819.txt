@@ -1,0 +1,29 @@
+[title]
+Doamne sunt al tau {author: {William H.Doane}, {rcId: {4819}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Doamne, sunt al Tău; prin Cuvânt eu știu
+Că păcatul mi-ai iertat,
+Dar doresc, Isus, de ființa Ta
+Să m-apropii ne-ncetat!
+
+[c]
+Du-mă, Doamne, lângă crucea Ta,
+Să-nțeleg cât ai răbdat!
+Du-mă, Doamne, du-mă lângă crucea Ta,
+O, Isuse, Miel junghiat!
+
+[v2]
+O, sfințește-mă prin al Tău Duh Sfânt,
+Să-mi port crucea zi de zi.
+Pentru Tine toate de voi lăsa,
+Fericit atunci voi fi!
+
+[v3]
+O, aprinde iar focul inimii,
+În iubire să trăiesc
+Și-n sfințenie, cu tot ce-i în ea,
+Ție, Doamne, să-Ți slujesc.

@@ -1,0 +1,29 @@
+[title]
+Te binecuvantam pe tine {author: {Nicolae Moldoveanu}, {rcId: {225149}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Te binecuvântăm pe Tine,
+noi copilașii-n cânt senin
+căci slavă-n veci Ți se cuvine,
+o, Tatăl nostru Cel Divin!
+
+[c]
+Te binecuvântăm, Te binecuvântăm
+credința noastră Ție-Ți dăm
+Stăpâne, Tată-n veci de veci
+Te binecuvântăm!
+
+[v2]
+Te binecuvântăm cu toată
+ființa noastră mică-n cânt!
+Ți-aducem slav-adevărată,
+o, Tatăl nostru Cel Preasfânt!
+
+[v3]
+Te binecuvântăm întruna,
+și cânturile noastre cresc
+spre slava Ta întotdeauna,
+o, Tatăl nostru Cel Ceresc!

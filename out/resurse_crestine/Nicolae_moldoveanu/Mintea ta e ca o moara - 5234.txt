@@ -1,0 +1,33 @@
+[title]
+Mintea ta e ca o moara {author: {Nicolae Moldoveanu}, {rcId: {5234}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Mintea ta e ca o moară
+Care macină mereu
+Gânduri bune și păcate
+Sau gândiri din Dumnezeu.
+
+[c]
+/: Păzește-ți mintea că doar prin ea
+Ai viață bună sau viață rea :/
+
+[v2]
+Zilnic vin de dimineață
+Doi: un înger și un drac
+Ca să-ți pună moara-n minții
+Gândurile lor din sac
+
+[v3]
+Cui deschizi copile dragă
+Căci cel care pune-ntâi
+Macină cât ține ziua
+Si cu ce ți-a pus rămâi.
+
+[v4]
+Îngerului care vine
+Ca trimis Dumnezeiesc
+Tu deschide-i și-ți va umple
+Mintea cu tot ce-i ceresc.

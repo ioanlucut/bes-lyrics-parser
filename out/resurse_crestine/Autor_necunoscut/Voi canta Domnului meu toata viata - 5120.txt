@@ -1,0 +1,15 @@
+[title]
+Voi canta domnului meu toata viata {author: {Anonim}, {rcId: {5120}}
+
+[sequence]
+v1,c
+
+[v1]
+Voi cânta Domnului meu toată viața,
+Îl voi lăuda pe El cât timp voi fi.
+Dulce îmi e prezența și pacea Sa,
+Voi fi vesel cu Isus totdeauna.
+
+[c]
+Laudă-L pe El, suflete,
+Laudă-L pe El.

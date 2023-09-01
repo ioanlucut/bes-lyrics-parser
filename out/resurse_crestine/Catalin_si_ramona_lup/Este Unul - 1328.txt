@@ -1,0 +1,35 @@
+[title]
+Este unul {author: {Cătălin și Ramona Lup}, {rcId: {1328}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Când pe-al vieții drum pășești
+Poate crezi că rătăcești
+Scăpare n-ai, nu ști-ncotro să mergi
+Când simți că totul te-ncolteste
+Și toată lumea te urăște
+Este Unul ce te iubește așa cum ești.
+
+[c]
+Este Unul ce te iubește așa cum ești
+Este Unul ce te păstrează adânc în El
+Că un Tată te așteaptă
+Deci grăbește-te și vino la El
+Este Unul ce te iubește așa cum ești.
+
+[v2]
+Dacă te-ai putea vedea
+Prin privirea altcuiva
+Ai știi că ești iubit de la-nceput
+Orice teamă-ți va dispare
+Când cu-a Lui voce ocrotitoare
+Îți va spune: ”
+Eu te iubesc de la început!”
+
+[e]
+El este Același azi și în veci
+Nicicând nu te va lăsa
+El te va ține oricând vei cădea
+Lasă-te în mâna Sa.

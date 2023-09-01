@@ -1,0 +1,35 @@
+[title]
+Vezi cum pasarelele {author: {Nicolae Moldoveanu}, {rcId: {5625}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Vezi, cum păsărelele, spre toamnă,
+Se adună și se pregătesc!
+Numai pentru zbor, cu zor, se-ndeamnă,
+Doar un singur țel împărtășesc.
+
+[c]
+Să ne-nvățăm, să ne-ndemnăm!
+Vom zbura ca niște păsărele...
+Vom zbura în stol, prin văzduh, spre nor,
+Cu Isus apoi, mai sus, mai sus de stele.
+
+[v2]
+Vezi, la noi credința-n zbor e vie
+Și, deși noi suntem doar străini,
+Prea puțini azi se desprind de glie -
+Cei mai mulți, adânc, prind rădăcini.
+
+[v3]
+N-auzi? Se aud mereu semnale
+Și în poarta vremii încă bat;
+Ieși și strigă altora pe cale
+Că e clipa sfânta de plecat!
+
+[v4]
+Vom lăsa pământu-n jos... și norii...
+Vom lăsa amarul în trecut...
+Vom intra, prin cânturi dulci de glorii,
+Iar, în Paradisul cel pierdut.

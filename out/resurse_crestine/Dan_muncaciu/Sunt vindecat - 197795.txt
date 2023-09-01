@@ -1,0 +1,45 @@
+[title]
+Sunt vindecat {author: {Dan Muncaciu}, {rcId: {197795}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Isus Tu ești aici,
+De mine să ai milă
+De jos să mă ridici
+Să-mi dai din nou lumină
+Tu Doamne, totul știi
+Știi inima mea frântă
+Mi-e sufletul zdrobit
+O, ia-mă tu de mână
+
+[c]
+Sunt vindecat, de Tine când m-ating
+Putere azi din Tine-mi vine
+Prin jertfa Ta Isuse, voi trăi
+Prin valea morții merg cu Tine
+Sunt vindecat, de Tine când m-ating
+Putere azi din Tine-mi vine
+Prin jertfa Ta Isuse, voi trăi
+Prin valea morții merg cu Tine
+/: Sunt vindecat, de Tine când m-ating
+Putere azi din Tine-mi vine
+Prin jertfa Ta Isuse, voi trăi
+Prin valea morții merg cu Tine :/ x3
+
+[v2]
+Isuse, ești aici
+Să-mi dai astăzi iertare
+Atinge-mi sufletul
+Și adu-i alinare
+O Doamne știu că poți
+Să lupți azi pentru mine
+În tine mă încred
+Nu voi fii dat de rușine
+
+[e]
+/: Ce mare, e gloria Celui care vine
+Cel mort și înviat
+Ce mare-i puterea Celui ce trăiește
+În veci e împărat :/

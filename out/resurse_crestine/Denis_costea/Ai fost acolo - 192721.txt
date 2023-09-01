@@ -1,0 +1,33 @@
+[title]
+Ai fost acolo {author: {Denis Costea}, {rcId: {192721}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+N-am înțeles nicicând ce-i iubirea
+Ce ai purtat-o pentru min’
+N-am înțeles nicicând ce-i durerea
+Nici chinul ce cu-atât amar te-a cuprins
+
+[c]
+/: Dar Tu ai fost acolo pentru mine
+Când toți m-au lepădat din fața lor
+Când toți m-au lăsat la o parte
+Ai fost acolo Domn mântuitor :/
+/: Căci Tu ai fost acolo pentru mine
+Când toți m-au lepădat din fața lor
+Când toți m-au lăsat la o parte
+Ai fost acolo Domn mântuitor :/
+
+[v2]
+N-am înțeles nicicând sacrificiul
+Și sufletul Tău îndurerat
+Dar știu căci Tu m-ai iubit nespus de mult
+Pe când nici nu existam
+
+[v3]
+Îți mulțumesc Isuse pentru harul
+Ce prin Domnul Isus L-ai revărsat
+Iți mulțumesc pentru iubirea-Ți mare
+Si pentru darul Tău nemeritat

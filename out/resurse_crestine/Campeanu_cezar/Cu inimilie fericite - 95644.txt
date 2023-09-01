@@ -1,0 +1,35 @@
+[title]
+Cu inimilie fericite {author: {Câmpeanu Cezar}, {rcId: {95644}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cu inimilie fericite,
+Părinte-n cântec ne-ai unit,
+Să înălțăm un singur Nume:
+Pe Fiul Tău cel răstignit!
+
+[c]
+Isus e Domnul vieții noastre,
+Din toată inima-l cântăm!
+Prin El, Părinte-n orice vreme,
+Te adorăm, Te lăudăm!
+
+[v2]
+Când e Isus în fruntea noastră,
+Întreg Cuvântul Tău primim,
+Și câtă sfântă bucurie
+Avem atunci când îl trăim!
+
+[v3]
+Când nu e între noi alt Nume
+Mai lăudat și mai iubit,
+Nici duh străin să ne dezbine,
+Prin El, Tu ești deplin slăvit!
+
+[v4]
+Pătrunși de Duhul Cărții Tale,
+Cu flacără să ne iubim,
+Cum Fiul Tău ne-a dat poruncă,
+Prin dragoste în Cer trăim!

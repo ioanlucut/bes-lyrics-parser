@@ -1,0 +1,28 @@
+[title]
+O noua zi {author: {Jean Sibelius}, {rcId: {1283}}
+
+[sequence]
+v1,v2
+
+[v1]
+O nouă zi din cortul sfânt răsare
+Și--n pragul ei
+Spre Dumnezeu mă--nchin:
+„
+O, Doamne,
+Fă--mi cea mai de preț favoare
+Să fiu și eu ca Fiul Tău divin„.
+O nouă zi din cortul sfânt răsare
+Și--n pragul ei smerit eu mă închin.
+
+[v2]
+O nouă zi în pieptul meu răsare
+Și ceru--ntreg s--a luminat deplin
+„
+O, Doamne,
+Dă--mi o viață iubitoare
+Ca să mă port ca Fiul Tău divin„.
+Aceasta-mi e
+Cea mai de preț favoare
+Și--Ți mulțumesc în veci de veci,
+Amin!

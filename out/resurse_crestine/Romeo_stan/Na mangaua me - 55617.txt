@@ -1,0 +1,17 @@
+[title]
+Na mangaua me {author: {Romeo Stan}, {rcId: {55617}}
+
+[sequence]
+v1,c
+
+[v1]
+/: Na mangau-a me o barvalipa,
+Na mangau-a me e lumea ata,
+Me mangau Devla tusa te Rovau,
+Tuca Devla me te slujiau :/
+
+[c]
+Devla Isuse heila acana,
+Miro ilo Tu ta paruas,
+Mire dezela Tu te iarties,
+Me vo manus man Tu te cheres.

@@ -1,0 +1,30 @@
+[title]
+Cat timp {author: {Ana Florea}, {rcId: {188902}}
+
+[sequence]
+v1,b,c,v2,c
+
+[v1]
+Cu mâna Ta de Dumnezeu
+M-ai scos din ruină, din păcat
+Ai schimbat drumul meu,
+M-ai ridicat în lumină.
+
+[b]
+Atunci când mi-e bine și când mi-e greu,
+La Tine înalț glasul meu.
+
+[c]
+Cât timp Tu mă vei iubi,
+Marea se va liniști,
+Munți din loc se vor muta,
+Atât de mare e iubirea Ta.
+Cu brațul Tău mă ocrotești,
+Când te caut îmi vorbești,
+Ești același și ieri și azi și-n veci!
+
+[v2]
+Liber sunt acum să-ți cânt,
+Cu Tine sunt de neînfrânt.
+Lauda mea spre Tine-o-nalț,
+Doamne, m-ai răscumpărat!

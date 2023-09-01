@@ -1,0 +1,30 @@
+[title]
+Te voi inalta {author: {Daniel Cristian}, {rcId: {100049}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În a Ta iubire,
+Doamne m-ai cuprins
+Și pe mine Isuse
+Un fiu rătăcitor!
+
+[c]
+/: Te voi înălța,
+Domn glorios!
+Mereu Îți voi cânta
+Numai Ție,
+Rege al Regilor! :/
+
+[v2]
+Când sunt căzut pe cale
+Și nu mai am putere,
+Tu vino, Doamne-n grabă
+Și dă-mi mângâiere!
+
+[v3]
+Cu a Ta blândețe
+Tu mi-ai vorbit,
+În a Tale brațe,
+Doamne, Tu m-ai cuprins!

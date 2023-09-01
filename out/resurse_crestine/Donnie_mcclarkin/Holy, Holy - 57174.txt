@@ -1,0 +1,31 @@
+[title]
+Holy holy {author: {Donnie McClarkin, Traducere RO}, {rcId: {57174}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+Vocea îmi inalț și voi cânta
+Voi cânta ’
+Sfânt ești, Sfânt ești’
+Pentru al meu Domn, ce m’a salvat
+Voi cânta ’
+Sfânt ești, Sfânt ești’
+
+[c]
+Voi slăvi pe Mielul Domnului cel întronat
+Numai El e vrednic, doar Lui mă voi închina
+El a Fost, El Este și Va Fi
+Doar pe El Îl voi slăvi
+Neîncetat, neîncetat
+
+[v2]
+Îngerii se pleacă în fața Ta
+Și ei spun ’
+Sfânt ești, Sfânt ești’
+Noi, copiii Tăi, Te lăudăm
+Și cântăm ’
+Sfânt ești, Sfânt ești’
+
+[b]
+Sfânt E, Sfânt E!

@@ -1,0 +1,41 @@
+[title]
+Cand te afli-ngrijorat {author: {Anonim}, {rcId: {61137}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Când te afli-ngrijorat
+Strigă către Domnul
+De povară apăsat
+Strigă către Domnul!
+
+[c]
+/: Strigă către Domnul!
+Orișice te-apasă
+Strigă către Domnul!
+Căci El nu te lasă. :/
+
+[v2]
+Dacă vrei să fii mai sfânt
+Strigă către Domnul!
+O lumină pe pământ
+Strigă către Domnul!
+
+[v3]
+Pentru cauza vieții noi
+Strigă către Domnul
+Pentru ziua de apoi
+Strigă către Domnul!
+
+[v4]
+Frământat de ce va fi
+Strigă către Domnul!
+Pentru vremuri ce-or veni
+Strigă către Domnul!
+
+[v5]
+Pentru ultima ta zi
+Strigă către Domnul!
+Izbăvit de chin vei fi
+Strigă către Domnul!

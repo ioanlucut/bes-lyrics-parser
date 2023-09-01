@@ -1,0 +1,35 @@
+[title]
+Mai intai {author: {Ioan Hapca}, {rcId: {97887}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+/: Ceva nou ca să răsară
+În viața ta, precară...
+Ce e vechi trebuie să moară :/
+Mai întâi.
+
+[v2]
+/: Când un glas Divin te cheamă
+Și tu nici nu-L bagi în seamă,
+Cele noi ți se destramă, :/
+Mai întâi.
+
+[v3]
+/: De trăiești condus de fire
+Și nu cauți cu bucurie
+A Cerului Împărăție :/
+Mai întâi,
+
+[v4]
+/: Pierzi nădejdea minunată
+Și moștenirea adevărată,
+Și te duci la Judecată :/
+Mai întâi.
+
+[v5]
+/: Mai întâi de-alegi sfințirea
+Și de cauți Împărăția,
+Mai întâi, mare-ți va fi bucuria
+Și acum și-n veșnicii. :/

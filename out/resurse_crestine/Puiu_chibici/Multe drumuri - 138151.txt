@@ -1,0 +1,53 @@
+[title]
+Multe drumuri {author: {Puiu Chibici}, {rcId: {138151}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Multe drumuri mi se oferă
+Zi de zi în calea mea
+Lângă cei care prosperă,
+Însă nu fac voia Ta.
+
+[c]
+Dar eu vreau să merg cu Tine,
+Drag Isuse, pe calea Ta,
+O, ce poate fi mai bine
+Decât, Doamne, a Te urma?
+
+[v2]
+Pe-a Ta cale, ades am parte
+De necazuri și-ncercări,
+Însă știu că după toate
+Calea aceasta duce-n cer.
+
+[c2]
+De aceea merg cu Tine
+Orice-ar fi și orice-ar veni,
+Brațul Tău mereu mă ține
+Și mă duce-n veșnicii.
+
+[v3]
+Multe șanse mi-a dat lumea,
+Multe uși mi s-au deschis,
+Dar eu am ales doar una,
+Calea către paradis.
+
+[c3]
+Fiindcă vreau să merg cu Tine,
+Drag Isus, pe calea Ta,
+O, ce poate a fi mai bine
+Decât, Doamne, a Te lăudă?
+
+[v4]
+Te-am ales, Isus, pe Tine,
+Al meu veșnic Împărat,
+Fiindcă știu că-n slăvi divine
+Voi fi veșnic mângâiat.
+
+[c4]
+Am ales să merg cu Tine
+Orice ar fi și orice ar veni,
+Brațul Tău mereu mă ține
+Și mă duce-n veșnicii.

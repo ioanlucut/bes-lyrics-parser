@@ -1,0 +1,35 @@
+[title]
+Doresc in tine sa raman {author: {Nicolae Moldoveanu}, {rcId: {186406}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Doresc în Tine să rămân,
+O, Domnul meu iubit Isus,
+Tu, numai Tu să-mi fii Stăpân,
+Iar eu să-Ți fiu un rob supus!
+
+[c]
+Doresc adânc să-Ți pot sluji,
+Sfințit în gânduri și-n simțiri,
+Zdrobește-n mine zi de zi,
+Puterea vechii mele firi.
+
+[v2]
+Doresc Cuvântul Tău divin
+În mine să rămân-oricând,
+Ca-n orice-mprejurări, deplin,
+Să-l am în inimă și-n gând!
+
+[v3]
+Doresc în pacea Ta mereu
+Ființa să mi-o odihnesc,
+Ca liniștit, în orice greu,
+Isus să Te mărturisesc!
+
+[v4]
+Doresc să pot dori, Isus,
+Cu-n dor mereu mai arzător,
+S-am viața Cerului de Sus,
+Și s-o trăiesc ascultător.

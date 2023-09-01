@@ -1,0 +1,52 @@
+[title]
+Incatusat {author: {Impuls}, {rcId: {75878}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Simt cum m-apasă
+Păcatul și lasă
+Durere în jurul meu,
+Prins în minciună
+Apăsat de ură
+Plânge sufletul meu.
+Și când pe buze blând se ridică
+Șoapta stinsă din Duhul Tău,
+Te chem Isuse să-mi dai lumină
+Să-mi iei de pe umeri lanțul cel greu.
+
+[c]
+Încătușat nu vreau să mai stau,
+Cu lanțul greu ce pe umeri m-apasă
+Și în păcat să trăiesc nu mai vreau,
+Lumina Ta în mine-o revarsă.
+Încătușat nu vreau să mai stau,
+Cu lanțul greu ce pe umeri m-apasă
+Și în păcat să trăiesc nu mai vreau,
+Lumina Ta în mine-o revarsă,
+Călăuzire pe calea cea dreaptă eu cer
+Și în lumină să merg condus de El.
+
+[v2]
+Simți cum te-apasă
+Păcatu și lasă
+Durere în jurul tău,
+Prins în minciună
+Apăsat de ură
+Plânge sufletul tău
+Te simți legat și fără scăpare
+Cu mii de lanțuri în jurul tău,
+Nu îl vezi dar simți cum te doare
+Întunericul din sufletul tău.
+
+[c2]
+/: Încătușați nu vrem să mai stăm,
+Cu lanțul greu ce pe umeri ne-apasă
+Și în păcat să trăim nu mai vrem,
+Lumina Ta în noi o revarsă.
+Încătușați nu vrem să mai stăm,
+Cu lanțul greu ce pe umeri ne-apasă
+Și în păcat să trăim nu mai vrem,
+Călăuzire pe calea cea dreaptă îți cerem
+Și în lumină să mergem conduși de El. :/

@@ -1,0 +1,27 @@
+[title]
+Sfintita-i noaptea de craciun {author: {Alexandru Groza}, {rcId: {193463}}
+
+[sequence]
+v1,c,c,v2,c
+
+[v1]
+Sfințită-i noaptea de Crăciun, de Dumnezeu, Tatăl cel bun
+În praznicul cel minunat mântuire El ne-a dat
+Sărbătoare este-n cerul sfânt, bucurie pe pământ
+Hristos, Fiul lui Dumnezeu s-a născut în Betleem
+
+[c]
+Bucurie astăzi fie - s-a născut Isus Hristos
+De la Tatăl, din cer vine - să ne fie de folos
+Bucurie azi să fie, mărire lui Dumnezeu
+Că ne-a dat răscumpărare, prin Mesia, Fiul Său
+
+[b]
+În inimile noastre să-L primim, Pruncul Sfânt născut în Betleem
+Prin credința-n El să devenim, noi cu toți fii ai lui Dumnezeu!
+
+[v2]
+Un cor de îngeri au vestit, Păstorii, ei au auzit
+Și magi venit-au un drum lung, îndemnați de Duhul Sfânt
+Și lumina lor era o stea, care tare strălucea
+Ei Pruncului s-au închinat și cu toți s-au bucurat!

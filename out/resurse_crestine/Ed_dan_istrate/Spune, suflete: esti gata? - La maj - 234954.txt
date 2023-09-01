@@ -1,0 +1,21 @@
+[title]
+Spune suflete: esti gata? - la maj {author: {ed. Dan Istrate}, {rcId: {234954}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Spune suflete: ești gata pe Isus ca să-L primești?
+El ca să-I deschizi așteaptă; cât mai vrei să zăbovești?
+
+[c]
+Vino azi, Isus Te cheamă inima să I-o predai;
+Crede-n El, te pocăiește, și vei fi cu El în rai.
+
+[v2]
+Prietene, te rog, dă-ți seama, grabnic trece viața ta.
+Dacă sufletu-ți vei pierde, spune, ce vei câștiga?
+
+[v3]
+O, primește-L dar pe Domnul, pace sfântă vei avea.
+Cel ce Însuși este Viața, viață veșnică-ți va da.

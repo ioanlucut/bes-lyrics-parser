@@ -1,0 +1,50 @@
+[title]
+Chiar daca vant {author: {Nicolae Moldoveanu}, {rcId: {244105}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Chiar dacă vânt tot mai vrăjmaș,
+Mă-nfruntă tot mai cu putere,
+Chiar dacă fiecare pas
+Tot mai din greu plătit se cere,
+/: Cu cât mai grea furtună vine :/
+/: Cu-atât mai strâns, cu-atât mai strâns
+Cu-atât mai strâns, mă țin de Tine. :/
+
+[v2]
+Chiar dacă lacrimi curg șiroi
+Pe fața mai adânc brăzdată,
+Chiar dacă-mi ard cununi de sloi,
+Pe fruntea tot mai asudată,
+/: Cu cât se cer mai mari suspine
+/: Cu-atât mai strâns, cu-atât mai strâns :/
+Cu-atât mai strâns mă țin de Tine :/
+
+[v3]
+Chiar dacă ochii-mi biciuiți
+Nici nu-mi mai văd nimic în față,
+Chiar dacă pașii mei trudiți
+Mai multe piedici mi-i agață,
+/: Cu cât mai mulți lovesc în mine :/
+Cu-atât mai strâns. cu-atât mai strâns,
+Cu-atât mai strâns, mă țin de Tine.
+
+[v4]
+Chiar dacă tot mai mulți mă țin,
+Mă trag și-mping spre-o altă cale,
+Chiar dacă sunt tot mai străin
+Și-i mai greu prețul slujbei Tale.
+/: Cu cât mai tari puteri m-ar ține :/
+Cu-atât mai strâns, cu-atât mai strâns
+Cu-atât mai strâns, mă țin de Tune.
+
+[v5]
+Chiar să-mi înghețe sub nămeți
+Aici tot sângele din vine,
+Nimic Isus, cu nici un preț
+Nu mă va despărți de Tine.
+/: Cu cât cunosc că moartea-mi vine :/
+Cu-atât mai strâns, cu-atât mai strâns,
+Cu atât mai strâns mă țin de Tine.

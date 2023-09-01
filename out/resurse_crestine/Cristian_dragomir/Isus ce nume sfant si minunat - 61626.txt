@@ -1,0 +1,23 @@
+[title]
+Isus ce nume sfant si minunat {author: {Cristian Dragomir}, {rcId: {61626}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+Isus ce nume sfânt și minunat
+Te laud căci m-ai binecuvântat
+Cuvinte n-am să-Ți mulțumesc îndeajuns
+Căci pentru mine, pe-o cruce Te-ai lăsat străpuns...
+
+[v1]
+Am fost și eu în lume, un fiu rătăcitor
+Dar m-a chemat pe nume al meu Mântuitor,
+M-ai scos din noapte-adâncă a negrului păcat,
+M-ai strâns la piept cu milă și totul mi-ai iertat...
+
+[v2]
+Mă-ntorc acum la Tine plângând păcatul meu,
+Și-Ți mulțumesc Isuse, căci sunt copilul Tău,
+Din marea de păcate, Isuse m-ai salvat,
+Cu mâinile curate, Te-aștept neîncetat.

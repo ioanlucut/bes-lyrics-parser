@@ -1,0 +1,23 @@
+[title]
+Il vad in noaptea grea {author: {Nicolae Moldoveanu}, {rcId: {5476}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Il vad, in noaptea grea, o Colo-n gradina stand,
+Lovit de vina mea, o Cu fata la pamant...
+L-aud cum L-a rugat o Pe Tatal, dac-ar vrea,
+Sa treaca de la El o Acest pahar amar.
+
+[c]
+/: Doamne plin de mila, pe cruce ai murit;
+Sus, pe Golgota, ai fost rastignit.
+Pentru-a-mele pacate, sangele Tau a curs;
+Acum, eu vin la Tine. Primeste-ma, Isus!... :/
+
+[v2]
+Priveste crucea sus o Ca sa-L vezi rastignit!
+In locul tau, Isus o Pe cruce a murit.
+Cu mainile intinse, o El a fost pironit
+Si toate-a suferit, o Pentru ca ne-a iubit.

@@ -1,0 +1,47 @@
+[title]
+Bucuria vietii noastre {author: {Anonim}, {rcId: {3817}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Bucuria vieții noastre
+Ea este în Duhul Sfânt
+Noi te rugăm condu-ne Tu, Isuse
+Pe acest pământ străin
+
+[c]
+O, Aleluia și Maranata
+Condu-ne cu mâna Ta
+O, Aleluia și Maranata
+Până la venirea Ta
+
+[v2]
+O, Aleluia și Osana
+Doamne, Ție-ți vom cânta
+Dar te rugăm o, scumpe Isuse
+Condu-ne în patria Ta.
+
+[v3]
+Te cheamă astăzi porumbița
+Din valea plângerii
+Te rugăm să vii s-alini durerea
+Vino, Mirele iubit
+
+[v4]
+Vino isuse azi la turmă
+Vino, iubite Păstor
+Te rugăm s-alini orice durere
+Leagă rănile ce dor.
+
+[v5]
+Ridică-ți astăzi tineretul
+Doamne, pe trepte de har
+O dă-ne astăzi Tu, Isuse,
+Credință, dragoste-n dar.
+
+[v6]
+Și prin dar de-nțelepciune
+Ca să ’naintăm mereu
+Ca să vadă lumea-ntreagă
+Că suntem din Dumnezeu.

@@ -1,0 +1,33 @@
+[title]
+Doamne cata fericire {author: {Nicolae Moldoveanu}, {rcId: {5260}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Doamne, cata fericire,
+Cata pace am primit,
+Cata sfanta ocrotire
+De la Tine, Doamne Sfant...
+
+[c]
+Cuvinte n-am de-ajuns
+Sa pot sa-Ti multumesc
+Ca-n suflet mi-ai sadit
+Al Tau Cuvant;
+Din grele stramtorari,
+Doar harul Tau ceresc
+M-a scos si m-a-ntarit,
+Sa pot sa-Ti cant.
+
+[v2]
+Cand eram zdrobit pe cale
+Si cand toti m-au parasit,
+Tu mi-ai fost a mea salvare,
+Tu, cu fapta, m-ai iubit.
+
+[v3]
+Mana Ta a fost cu mine,
+Pretutindeni in nevoi;
+M-a condus mereu cu bine,
+Dandu-mi iar sperante noi.

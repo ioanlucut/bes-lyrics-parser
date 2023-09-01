@@ -1,0 +1,40 @@
+[title]
+Candela se stinge {author: {Biji din Barbulesti}, {rcId: {224189}}
+
+[sequence]
+v1,v2,v3,c
+
+[v1]
+Sufletul imi plange.
+Candela se stinge
+Nu mai am putere,
+Inima imi geme.
+Puterea imi scade,
+Azi ma simt departe
+De parte de tine,
+Ce va fi cu mine?
+
+[v2]
+Credinta-mi slabeste,
+Firea iarasi creste.
+Nu mai simt fiorul,
+Doamne sa stins dorul.
+Foc de rugaciune,
+Nu mai arde-n mine.
+Vreau sa dreg altarul,
+Ca sa simt iar Harul.
+
+[v3]
+Vasul inimii mele
+Este fisurat
+Fara sa-mi dau seama
+M-am indepartat
+Sufletul imi geme
+Azi ma simt stingher
+Vorbeste-mi Tu Doamne
+Nu vreau ca sa pier,
+
+[c]
+/: Aprinde-mi Focul inimii
+Aprinde-mi Focul inimii
+Aprinde-mi Focul, inimii. :/

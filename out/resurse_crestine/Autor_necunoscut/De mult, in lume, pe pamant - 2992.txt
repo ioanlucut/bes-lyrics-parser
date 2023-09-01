@@ -1,0 +1,29 @@
+[title]
+De mult in lume pe pamant {author: {Anonim}, {rcId: {2992}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+De mult, în lume, pe pământ,
+Sfânta Biblie spune
+Că s-a născut Emanuel,
+Fiul lui Dumnezeu.
+
+[c]
+/: Îngerii cântau în cor:
+Aleluia, Glorie!
+Al păcii prinț azi s-a născut,
+Al lumii mântuitor. :/
+
+[v2]
+În Betleem a apărut
+O stea din răsărit,
+Pe cei trei magi călăuzind,
+Cu daruri ei au venit.
+
+[e]
+/: Domnul meu, Te-ai născut pentru mine
+Domnul meu, mi-ai adus mântuire,
+Domnul meu, mă-nchin și-Ți mulțumesc Isus,
+Domnul meu Isus. :/

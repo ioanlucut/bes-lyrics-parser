@@ -1,0 +1,53 @@
+[title]
+Drumul de la cer la iesle {author: {Carmen Prodan}, {rcId: {170206}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Drumul de la Cer la Iesle,
+Presărat e cu iubire!
+Că-ai venit s-aduci, Isuse,
+Omenirii mântuire!
+
+[c]
+De n-ai fi venit în lume
+Să lași cerul pentru noi,
+Am fi fost pe totdeauna
+Și săraci... și orbi... și goi...
+Dar suntem bogați prin Tine,
+Suntem binecuvântați!
+De aceea, azi, la Iesle,
+Ne smerim îngenunchiați!
+
+[v2]
+De n-ai fi dorit Isuse
+Ca să fim în cer cu Tine,
+N-ai fi vrut să-Ți lași mărirea,
+Să te naști umil în lume!
+
+[c2]
+Dar ai vrut, fiindcă iubirea-Ți
+Pieptul Sfânt a mistuit...!
+Ne-ai iubit cu-nflăcărare,
+Într-un chip desăvârșit!
+Și prin marea Ta-ndurare,
+Suntem fii răscumpărați!
+De aceea, azi, la Iesle,
+Ne smerim îngenunchiați!
+
+[v3]
+Drumul de la noi la Tine
+Presărat e cu voință...
+Tu ne lași s-alegem singuri
+Dacă vrem s-avem credință!
+
+[c3]
+/: Noi răspundem azi Iubirii
+Și la Iesle ne smerim!
+Vrem s-alegem nemurirea,
+Lângă Tine să trăim!
+Și aici și-n veșnicie,
+Vrem Isuse să-Ți cântăm,
+Pentru dragostea-Ți divină
+Prunc Prea Sfânt din Betleem! :/

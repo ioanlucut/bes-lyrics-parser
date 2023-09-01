@@ -1,0 +1,31 @@
+[title]
+Better than life - mai mare decat orice {author: {Hillsong, Traducere RO}, {rcId: {7220}}
+
+[sequence]
+v1,v2,v3,v4,c
+
+[v1]
+Mai mare decât bogăția mea
+Mai mare decât orice prietenie
+Mai mare decât orice dorința de-a mea
+Ești Tu, Doamne
+
+[v2]
+Mai mare decât a primi ce-mi doresc
+Mai mare decât a a-mi trăi viața
+Mai mare decât orice dragoste e
+Iubirea ta
+
+[v3]
+Lângă tine vreau să fiu
+Căci nu mă vei lăsa
+
+[v4]
+Tu Doamne îmi ești lumina
+Chiar și noaptea ești acolo
+Am viață prin iubirea Ta
+Îți dau inima mea, pentru că
+
+[c]
+/: Nu pot înceta să Te iubesc, Isus
+Nu voi înceta să te iubesc, Isus :/

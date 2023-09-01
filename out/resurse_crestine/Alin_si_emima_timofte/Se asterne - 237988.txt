@@ -1,0 +1,43 @@
+[title]
+Se asterne {author: {Alin și Emima Timofte}, {rcId: {237988}}
+
+[sequence]
+v1,b,c,v2,c,v3,c,v4,c
+
+[v1]
+Se așterne, pretutindeni,
+Stratul proaspăt de omăt,
+Pe la case, s-au pornit copii,
+Astăzi iarăși e Crăciun
+
+[b]
+Peste tot e Peste tot, veselie Veseli,
+Prăjituri și cozonaci,
+Pe la geamuri, fețe zâmbitoare,
+Astăzi iarăși e Crăciun
+
+[c]
+Ne bucurăm că El s-a născut,
+Ca să ne dea în dar pacea Sa
+Și-n inimă să toarne Dragostea
+Ne bucurăm că El s-a născut,
+Ca să ne dea în dar pacea Sa
+Și-n inimă să toarne Dragostea
+
+[v2]
+Strada-i plină Este plin, de colinde De colind,
+Iar în iesle-i înfășat În-fă-șat,
+Este Pruncul, salvatorul nostru,
+Veșnic fiu de Împărat
+
+[v3]
+Strada-i plină Este plin, de colinde De colind,
+Iar în iesle-i înfășat În-fă-șat,
+Este Pruncul, salvatorul nostru,
+Veșnic fiu de Împărat
+
+[v4]
+\Se așterne, pretutindeni,
+Stratul proaspăt de omăt,
+Pe la case, s-au pornit copii,
+Astăzi iarăși e Crăciun: \

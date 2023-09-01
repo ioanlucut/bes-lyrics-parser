@@ -1,0 +1,41 @@
+[title]
+O tu mai putere? rabda {author: {Anonim}, {rcId: {60737}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+O! tu mai ai putere? rabda
+De cand tot spui tu: nu mai pot.
+Dar uite-n urma ta ce valuri,
+Si-ai biruit pana astazi, tot.
+
+[c]
+Mai rabda, mai rabda, mai rabda
+Ca Domnul te ajuta, mereu.
+Priveste ce slava te-asteapta,
+Fii tare sa-nvingi si-acest greu.
+
+[v2]
+O! lacrimi tu mai ai? Te roaga
+Staruitor, profund, aprins
+Atat de mult te poate ajuta
+Acela ce-n rugaciuni e neinvins.
+
+[c2]
+Te roaga, te roaga, te roaga
+Ca Domnul te-asculta oricand
+Invins nu te da niciodata
+Nadejdea, n-o pierde nici cand.
+
+[v3]
+O! tu ai inca foc! iubeste,
+Curat, dator si credincios.
+Ca El iubitor nu-i nimeni,
+Mai mult semeni cu Hristos.
+
+[c3]
+Iubeste, iubeste, iubeste mereu
+Cu iubirea dintai
+Oricat te-ar costa legamantul
+Statornic cu Domnul ramai.

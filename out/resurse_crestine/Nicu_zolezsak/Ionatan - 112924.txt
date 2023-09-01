@@ -1,0 +1,65 @@
+[title]
+Ionatan {author: {Nicu Zolezsak}, {rcId: {112924}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,v5,c5,v6,c6
+
+[v1]
+Mi-amintesc când eram ca străin peste hotar
+Prin pustiu și prin spini sau prin peșteri fugar.
+Dar deodată a venit la mine un străin
+Cu vestea ce de-atunci mă făcea să tot suspin.
+
+[c]
+Vestea ce mi-a adus inima mi-a străpuns
+Stau mereu și plângeam căci a murit Ionatan.
+
+[v2]
+Când eram amândoi la masă la împărat
+Prieteni pe vecie în taină noi am jurat
+Nu mai am niciun prieten ca tine vreun om
+Dar în ceruri mai am un Stăpân și un Domn.
+
+[c2]
+Ionatan Ionatan mi-ai rupt sufletul meu
+Ah, mai bine muream chiar eu în locul tău.
+
+[v3]
+Fala ta Israel zace întinsă prin văi
+Saul și Ionatan și toți viteji săi
+Prin Absalom sau prin Gad vestea să n-o răspândiți
+Să nu știe dușmani ce greu am fost loviți.
+
+[c3]
+Ah, ce durere grea am și ce mult te iubesc
+O dragul meu Ionatan te plâng cu lacrimi de-ocean.
+
+[v4]
+M-ai iubit, te-am iubit ca pe sufletul meu
+Prin tine m-a scăpat de la moarte Dumnezeu
+Când ai tras trei săgeți ca să mă înștiințezi
+Nu știam căci de-atunci tu o să pleci.
+
+[c4]
+Când ne-am îmbrățișat prieten adevărat
+Atunci plângeam amândoi acum plâng doar ochii mei.
+
+[v5]
+De știam că tu ești de dușmani urmărit
+Ca un șoim n-ajutor atunci eu ți-aș fi venit
+Cât de mult mi s-a frânt inima în al meu piept
+Și zdrobit de-al meu dor mă uit la Mefiboșet.
+
+[c5]
+Ionatan prieten bun n-am la cine să-i spun
+Nimeni orcine-ar fi nu te poate înlocui.
+
+[v6]
+Să învețe cântarea am spus poporului
+Este scrisă de mine în cartea dreptului
+Ionatan Ionatan e-o cântare de dor
+Și-oi cânta-o mereu până când am să mor.
+
+[c6]
+/: Prieteni adevărați, mai ceva decât frați
+Dar moartea cu-a ei urgii îi mai poate despărți. :/

@@ -1,0 +1,29 @@
+[title]
+Te slavim cu multumire tata drept si minunat {author: {Nicolae Moldoveanu}, {rcId: {5962}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Te slavim, cu multumire, Tata drept si minunat!
+Preamarim a Ta iubire ce-n Hristos ne-ai aratat!
+Multumim de mantuirea din pacat si din abis,
+Multumim de mostenirea care-n cer Tu ne-ai promis!
+
+[v2]
+Te slavim, cu bucurie, Tata bun si Dumnezeu!
+Laudam iubirea vie ce-o reversi in noi mereu!
+Multumim ca azi ne scalda ploi de har din slavi ceresti!
+Multumim de mana-Ti calda si-n ce fel ne ocrotesti!
+
+[v3]
+Te slavim, cu osanale, Tata scump, senin si sfant
+Si-naltam iubirii Tale, innoit, al nostru cant!
+Multumim de rau, de bine si de tot prin ce ne treci!
+Multumim de veri senine si de ierni oricat de reci!
+
+[v4]
+Te slavim, cu-nflacarare, Tata drag, de haruri plin
+Si-Ti cantam iubirea mare, azi si-n vecii care vin!
+Multumim de lucruri sfinte ce ne iei si ce ne dai!
+Multumim, iubit Parinte! Multumim si-aici si-n Rai!...

@@ -1,0 +1,35 @@
+[title]
+Cand tu iubesti {author: {Narcisa P.}, {rcId: {64734}}
+
+[sequence]
+v1,c,v2,c2,v3,c2
+
+[v1]
+Cand tu iubesti, te dai pe tine
+Cu tot ce ai.. cu tot ce esti.
+Si-un pret prea scump, de ti s-ar cere
+Pentru iubire, sa platesti.
+
+[c]
+Iubirea nu e doar faclia
+Care se stinge-ntr-un moment
+Ea se jertfeste pan’ la moarte
+E vointa, nu doar sentiment
+
+[v2]
+Cand tu iubesti ramai aproape
+De cel cazut, si ostenit
+Ca sa-l ridici, chiar de vreodata
+Te-a intristat, sau ti-a gresit
+
+[c2]
+Iubirea e cantecul dulce
+Cu sange scris pe-un vechi Altar
+E suferinta de pe-o cruce
+Iubirea e cel mai scump dar
+
+[v3]
+Iubirea e o floare rara,
+Margaritarul dintre spini
+Ea creste-n inima zdrobita
+Si-n sufletul, smerit deplin

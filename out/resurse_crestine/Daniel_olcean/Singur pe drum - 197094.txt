@@ -1,0 +1,51 @@
+[title]
+Singur pe drum {author: {Daniel Olcean}, {rcId: {197094}}
+
+[sequence]
+s,v1,c,v2,b,c
+
+[s]
+Ești sigur
+Pe drumul ce mergi
+Că ești în lumină?
+Sau umbrele reci
+Te-acoperă mai mult?
+Mai raspândești tu iubire
+Speranță-adevăr?
+Pe mulți spre Isus îi îndrepți?
+Sau și tu te pierzi?
+
+[v1]
+Azi întreabă-te, tu cui aparți?
+Să nu te înseli, n-ai să poți sluji
+Pentru doi stăpâni, e-alegerea ta.
+Încotro te-ndrepți și spre ce alergi
+Ești cu Dumnezeu sau tu te trezești
+C-ai luptat mereu
+Doar cu pumnul în vânt?
+
+[c]
+Nu vreau să mă duc fără Tine
+Unde-am să apuc,
+Fără dragostea Ta n-am nimic,
+Tu ești viața mea!
+Nu pot să mă lupt fără Tine
+Nu vreau să adun ce nu-i bine
+Nu vreau să rămân fără Tine
+Singur pe drum
+
+[v2]
+Este timpu-acum ca să te trezesti
+Să realizezi unde te găsești
+Vezi viața ta doar odat-o trăiești
+Sufletul tău azi cui îl dăruiești
+Pentru cer te lupti sau în beznă ești
+N-ai să reușești, fără Isus
+
+[b]
+Am eu oare doar o formă
+Conținutu-i doar o vorbă
+În viața mea.
+Îti cer azi călăuzire
+Mă dedic pentru slujire
+Isus.

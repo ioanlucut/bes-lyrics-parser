@@ -1,0 +1,31 @@
+[title]
+Esti rege si domn minunat {author: {Continental}, {rcId: {89183}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+Ești Rege și Domn minunat
+Și tot Universul e-al Tău
+Tu stăpânești înaltul cer
+Și-n mâna Ta ții munții-nalți
+
+[c]
+/: Slava Ta Doamne, o reverși
+Tot pământul cântă: ”
+Ce mare ești”
+Și eu vreau să caut prezența Ta
+Și îndurarea-Ți cea mare vreau să înalț
+Ești Rege și Domn minunat :/
+
+[v2]
+Al cerului Domn preaînalt
+E-al meu Tată preaîndurat
+El ține lumea-n palma Sa
+Și este Domn în viața mea
+
+[b]
+Vreau să urmez doar pașii Tăi
+Să fac doar voia Ta
+Plin de credință aș vreau să Te caut
+Și bucuria mea să fii

@@ -1,0 +1,33 @@
+[title]
+Bucurii ceresti {author: {Daniela Haidaciuc Guțu}, {rcId: {234759}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Tu, Tu m-ai cunoscut
+De la început te gândeai la mine
+Când eu eram nimic, un plod fără chip
+M-ai vrut pentru Tine
+
+[c]
+Tu, Tu îmi dăruiești bucurii cerești
+Har și îndurare Tu,
+Tu mereu mi-aduci sfinte șoapte dulci
+Pace și iertare, Tu
+Ești lumina mea, când pe calea Ta
+Îmi slăbește pasul, Tu
+Pe nume, mă chemi prin oricare vremi
+Să-ți aud iar glasul.
+
+[v2]
+Tu, Tu m-ai înțeles în al vieții mers
+Plânsul și tăcerea doar Tu mi-ai acceptat
+Toate mi-ai iertat,
+Mi-ai luat durerea.
+
+[v3]
+Tu zilnic mă hrănești
+Și în har mă crești, în credincioșie
+Și toată inima e pe veci a Ta
+Mă închin doar Ție.

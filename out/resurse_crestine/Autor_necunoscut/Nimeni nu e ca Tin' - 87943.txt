@@ -1,0 +1,53 @@
+[title]
+Nimeni nu e ca tin {author: {Anonim}, {rcId: {87943}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7,v8
+
+[v1]
+Nimeni nu e ca Tin’
+Nimeni nu e ca Tin’
+Nimeni nu e ca Tin’
+O Domnul meu, o Domnul meu
+
+[v2]
+Tu ești al meu păstor
+Tu ești al meu păstor
+Tu ești al meu păstor
+O Domnul meu, o Domnul meu
+
+[v3]
+Tu ești nădejdea mea
+Tu ești nădejdea mea
+Tu ești nădejdea mea
+O Domnul meu, o domnul meu
+
+[v4]
+Tu ești pe veci Sfânt
+Tu ești pe veci Sfânt
+Tu ești pe veci Sfânt
+O Domnul meu, O Domnul meu
+
+[v5]
+Nimeni nu e ca Tin’
+Nimeni nu e ca Tin’
+Nimeni nu e ca Tin’
+O Domnul meu, o Domnul meu
+
+[v6]
+Numai Tu dai pacea
+Numai Tu dai pacea
+Numai Tu dai pacea
+O Domnul meu, o Domnul meu
+
+[v7]
+Cel ce-i Sfânt minunat
+Domn în veci să fii-nălțat
+Rege Sfânt minunat
+Tu ești Domn în veci
+
+[v8]
+Nimeni nu e ca El
+Nimeni nu e ca El
+Nimeni nu e ca El
+E Domn în veci

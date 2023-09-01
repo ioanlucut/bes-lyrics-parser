@@ -1,0 +1,41 @@
+[title]
+Inspre tara mea pasesc {author: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {112921}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Când rătăceam prin astă lume
+Îndepărtat de casa mea
+însetat și fără pâine
+salvare am căutat.
+Nici ajutor, nici alinare
+nicăieri nu am găsit,
+dar m-am rugat, și-o mână tare
+din adânc m-a izbăvit.
+
+[c]
+Azi mă întorc la Domnul trecutul părăsind,
+Pe căile Lui sfinte mă va călăuzi
+Înspre Țara mea, Țara mea,
+În care doresc să trăiesc
+Eu mă încred în Domnul și nu privesc ’napoi
+Ci merg tot înainte, cât lupta e în toi,
+Înspre Țara mea, Țara mea pășesc.
+Azi mă întorc la Domnul trecutul părăsind,
+Pe căile Lui sfinte mă va călăuzi
+Înspre Țara mea, Țara mea,
+În care doresc să trăiesc
+Eu mă încred în Domnul și nu privesc ’napoi
+Ci merg tot înainte, cât lupta e în toi,
+Înspre Țara mea, Țara mea pășesc.
+
+[v2]
+Din depărtări ’mi zăresc căminul
+și încep s-alerg spre el,
+în pustiu e greu suspinul,
+nu-s bucurii defel.
+Dar Cineva în prag m-așteaptă,
+fericit ’n brațe mă ia,
+e El, e al meu Tată,
+deschisă-i poarta larg.

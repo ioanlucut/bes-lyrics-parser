@@ -1,0 +1,27 @@
+[title]
+Ca un rau e pacea de la dumnezeu {author: {James Mountain}, {rcId: {74274}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ca un râu e pacea de la Dumnezeu
+Trece peste toate, crește tot mereu.
+Limpede curată, ea se va mări;
+Cât de minunată este zi de zi.
+
+[c]
+Numai lângă Domnul neclintiți vom sta.
+Pacea și odihna, veșnic vom avea.
+
+[v2]
+Mâna Lui cea tare ne va ocroti,
+Ură și trădare nu ne vor lovi.
+Valuri întristate sau al grijei nor,
+Nu ne vor abate de lângă Păstor.
+
+[v3]
+Bucurii, necazuri, toate vin de sus;
+Ni le dă în viață Soarele Isus!
+Noi avem credința în Isus Christos.
+Știe tot pământul: El e credincios!

@@ -1,0 +1,40 @@
+[title]
+Doamne dumnezeul nostru {author: {Nicolae Moldoveanu}, {rcId: {5943}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Doamne, Dumnezeul nostru,
+Cat de minunat esti!
+Al Tau Nume peste fata lumii lumineaza...
+/: Mai pe sus de ceruri, Doamne,
+Slava Ta se-nalta... :/
+
+[v2]
+Din guri fara prihana,
+Tu-Ti faci aparare
+Contra celora potrivnici, plini de ingamfare,
+/: S-astupi pe vrajmasul dornic
+Dupa razbunare. :/
+
+[v3]
+Cand privesc spre cer lucrarea
+Mainii Tale sfinte,
+Luna, stelele la care, Tu le esti Parinte,
+/: Ma intreb: Ce-i omul oare,
+De nu ia aminte? :/
+
+[v4]
+L-ai facut putin mai jos doar,
+Doamne, decat Tine;
+L-ai incununat cu slava si puteri depline;
+/: I-ai dat lucrul mainii Tale
+Sub picioare-a-l tine. :/
+
+[v5]
+Oile si boii - una,
+Fiarele pe toate,
+Pasari, pesti si tot ce calea apelor strabate...
+/: Doamne, al Tau Nume-n lume,
+Cat de minunat e! :/

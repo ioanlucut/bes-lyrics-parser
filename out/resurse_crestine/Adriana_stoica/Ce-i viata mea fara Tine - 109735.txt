@@ -1,0 +1,29 @@
+[title]
+Ce-i viata mea fara tine {author: {Adriana Stoica}, {rcId: {109735}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ridic ochii spre cer
+Privesc spre Tine, Doamne
+Înțeleg, cu mine ești
+Și astăzi Domnul meu
+
+[c]
+/: Ce-i viața mea fără de Tin’ ?
+Tu-mi trebuiești în orice zi
+Doar Tu mereu mă înțelegi
+Cu mine ești :/
+
+[v2]
+Ridic ochii spre cer
+Aștept să-mi dai lumină
+Să merg pe-al vieții drum
+Cu Tine chiar de-acum
+
+[v3]
+Aș fi Isuse drag
+Doar Tu mi-ai arătat
+Calea spre veșnicii
+Unde eu vreau să fiu

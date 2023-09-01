@@ -1,0 +1,47 @@
+[title]
+Psalmul {author: {Nicu Wagner}, {rcId: {74673}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Dumnezeu e adăpostul
+Și un sprijin în nevoi,
+Ajutor ce nu lipsește
+Niciodată în nevoi.
+
+[c]
+De aceea nu ne temem
+De-ar vui îngrozitor
+Tot pământu-ntreg și munții
+În adâncul mărilor.
+
+[v2]
+Este-un râu, a lui izvoare
+Veselesc Cetatea vie,
+Sfânt locașul locuinței
+Celui veșnic, din vecie.
+
+[v3]
+Și în mijlocul cetății
+Este Domnul Dumnezeu.
+Nu se clatină vreodată,
+O ajută brațul Său.
+
+[v4]
+Domnu-oștirilor sublime
+E cu cei aleși mereu,
+El e turnul de scăpare
+Ajutor în ceasul greu.
+
+[v5]
+A pus capăt la războaie
+Pân´ la margini de pământ,
+Care de război sfărmat-a
+Arc și suliță a frânt.
+
+[v6]
+Vă opriți, să știți că Domnul
+Peste neamuri e stăpân,
+Dumnezeu pe-ntreg pământul
+Pentru cei ce-n El rămân.

@@ -1,0 +1,25 @@
+[title]
+Spune-o vorba inteleapta {author: {Nicolae Moldoveanu}, {rcId: {6944}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Spune-o vorbă înțeleaptă: la copil și la bătrân,
+nu te stăpânească limba, ci tu fii al ei stăpân!
+
+[c]
+După vorba ce-o rostești, lumea știe cine ești.
+Știe de ești credincios Domnului Isus Hristos.
+
+[v2]
+Pune frâu întotdeauna gurii tale când ar vrea
+vorba să-și înalțe zborul! Să nu-ți facă rană grea!
+
+[v3]
+Vorba spusă, niciodată înapoi n-o mai aduci.
+De nu-i binecuvântată, îți va pune-n cale cruci!
+
+[v4]
+Tu încredințează-ți zilnic soarta-n mâna lui Isus,
+și veghează, căci El poate să Te-ajute până sus!

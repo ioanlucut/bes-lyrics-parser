@@ -1,0 +1,35 @@
+[title]
+In valea aceasta de suspine {author: {Anonim}, {rcId: {3615}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+În valea aceasta de suspine,
+Isuse, eu Te chem cu dor
+Când valuri mari vin peste mine,
+Isuse, vino-n ajutor.
+
+[c]
+/: Isuse scump, în a mea barcă,
+Tu să rămâi necontenit
+Și-apoi la cârma vieții mele,
+Să fii mereu pân’ la sfârșit. :/
+
+[v2]
+Când încolțește iarăși firea
+Cu roade-amare pe pământ
+O, vino Tu, fă-o să moară
+Prin roada Duhului Tău Sfânt.
+
+[v3]
+Dac-am rămas în neveghere
+Și-am adormit în somnul greu,
+Tu să mai treci pe lângă mine
+Și să mă scoli, o, Domnul meu.
+
+[v4]
+Ai scris în sulul Cărții Sfinte
+Că trestia ruptă Tu n-o frângi
+Și candela care mai fumegă,
+Isuse scump, Tu nu o stingi.

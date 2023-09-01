@@ -1,0 +1,55 @@
+[title]
+Laudati popoare pe dumnezeu {author: {Autor necunoscut}, {rcId: {246424}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Lăudați popoare pe Dumnezeu, dați-i cinste Numelui Său
+Dați-i slava pe pămat, căci El e pururi Sfânt
+Lăudați popoare pe Dumnezeu, dați-i cinste Numelui Său
+Dați-i slava pe pămat, căci El e pururi Sfânt, e pururi Sfânt.
+Să-i căntăm Aleluia
+Să-L slăvim pe Mesia
+
+[c]
+Numai El mă ridică din vale
+Numai El mă ține-n picioare
+Numai El îmi dă siguranță
+El, numai El
+Numai El e Domn peste toate
+Numai El face dreptate
+Numai El dă viață
+El, numai El
+Numai El mă ridică din vale
+Numai El mă ține-n picioare
+Numai El îmi dă siguranță
+El, numai El
+Numai El e Domn peste toate
+Numai El face dreptate
+Numai El dă viață
+El, numai El.
+Numai El mă ridică din vale
+Numai El mă ține-n picioare
+Numai El îmi dă siguranță
+El, numai El
+Numai El e Domn peste toate
+Numai El face dreptate
+Numai El dă viață
+El, numai El.
+
+[v2]
+Lăudați popoare pe Dumnezeu, dați-i cinste Numelui Său
+Dați-i slava pe pămat, căci El e pururi Sfânt
+Lăudați popoare pe Dumnezeu, dați-i cinste Numelui Său
+Dați-i slava pe pămat, căci El e pururi Sfânt, e pururi Sfânt.
+Să-i căntăm Aleluia
+Să-L slăvim pe Mesia
+
+[v3]
+/: Aleluia, Aleluia
+Aleluia, Aleluia
+Aleluia, Aleluia
+Aleluia :/
+Să-i cântăm Aleluia
+Să-L slăvim pe Mesia

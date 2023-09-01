@@ -1,0 +1,35 @@
+[title]
+Iubirea el domnul s-o toarne in voi {author: {Marta Bergheaua}, {rcId: {180467}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Iubirea El, Domnul, s-o toarne în voi
+Prin clipe amare, dureri și nevoi
+Să stați mai aproape de Brațu-i divin
+Zidind al iubirii altar în cămin
+
+[c]
+Căci fără iubire mereu vor fi nori
+Pe drumul vieții, iubiți călători
+/: Dar unde-i iubire e totul divin
+Acolo e Soare, e cerul senin :/
+
+[v2]
+Iubirea El, Domnul, s-o toarne în voi
+O sfântă cetate să fiți amândoi
+Cuvinte de aur și zâmbet frumos
+Iar Domnul vieții vă fie Hristos
+
+[v3]
+Iubirea eternă ce rar o-ntâlnesti
+În multe familii nu o mai găsești
+Dar voi care astăzi aici vă uniți
+Porunca din ceruri e să vă iubiți
+
+[v4]
+Iubirea revars-o, Isuse iubit
+Și leagă perechea ce-acum s-a unit
+Nimic să nu rupă al lor legământ
+Uniți să rămână în inimi și-n gând

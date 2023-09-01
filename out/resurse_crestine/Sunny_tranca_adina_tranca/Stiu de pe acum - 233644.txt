@@ -1,0 +1,31 @@
+[title]
+Stiu de pe acum {author: {Sunny Tranca, Adina Tranca}, {rcId: {233644}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+/: Știu de pe acum ca Domnul e cu mine
+Știu de pe acum ca e de partea mea
+Știu de pe acum ca mana Lui ma tine
+Stau liniștit caci sunt in palma Sa :/
+
+[c]
+/: El îmi este Tata, El e Domnul meu
+El ma ia de mana atunci când îmi e greu
+El îmi e prieten, El e ajutor
+Prin El sunt mai mult decât biruitor. :/
+
+[v2]
+/: Știu de pe acum ca El e Atotputernic
+Știu de pe acum ca El e Credincios
+Știu de pe acum ca daca Îl chem ma ajuta
+Eu nu ma tem caci sunt al Lui Hristos. :/
+
+[b]
+Tu de sus îmi zâmbești/ Știu fără-ndoială
+Ca ma iubești/ Azi e o nouă zi
+Cu dragostea Ta/ Tu ma copleșești.
+Tu îmi ești ajutor/Când eu sunt cu Tine
+Nu ma mai tem/Tu îmi ești viitor
+Când ești lângă mine/Eu sunt curajos

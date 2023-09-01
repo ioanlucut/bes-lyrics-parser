@@ -1,0 +1,47 @@
+[title]
+Jesus paid it all / totul ai platit {author: {Anonim}, {rcId: {66575}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c,c
+
+[v1]
+Mi-a spus al meu Salvator
+La El să caut mereu
+Adăpost în lumea rea
+Și putere-n calea mea
+
+[v2]
+Căci nimic bun nu am eu
+Numai cerescul har
+Hainele mi le-a spălat
+Sângele de la Calvar
+
+[c]
+Totul ai plătit
+Tot îți datorez
+Pe deplin ai curățit
+Urma păcatului
+Totul ai plătit
+Tot îți datorez
+Pe deplin ai curățit
+Urma păcatului
+Totul ai plătit
+Tot îți datorez
+Pe deplin ai curățit
+Urma păcatului
+
+[v3]
+Însetat e duhul meu
+După Tine, Isus
+Bucuria mea Tu ești
+Speranța, viața mea
+
+[v4]
+Cât de mult eu îmi doresc
+Să ajung la al Tău tron
+A mea coroană să aduc
+Înaintea Ta Isus
+
+[b]
+Slăviți pe Cel ce a plătit
+Cu viața Sa în locul meu

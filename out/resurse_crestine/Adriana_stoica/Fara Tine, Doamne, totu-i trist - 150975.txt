@@ -1,0 +1,31 @@
+[title]
+Fara tine doamne totu-i trist {author: {Adriana Stoica}, {rcId: {150975}}
+
+[sequence]
+v1,c,v3,c,v4,c
+
+[v1]
+Fără Tine Doamne totu-i trist
+Totul pe acest pământ,
+Numai Tu Doamne ne luminezi
+Calea către Cerul sfânt.
+
+[c]
+Tu ești toată bucuria
+Pacea sfântă, armonia,
+Tu ne dai Doamne din Duhul Sfânt,
+Tu ne-ajuți mereu pe cale
+Și ne dai la toți răbdare,
+Să răbdăm Doamne pân’ la sfârșit.
+
+[v3]
+Fără Tine Doamne n-am nimic
+Nici un rost pe-acest pământ,
+Totu-i gol totul este pustiu
+Tu singur în viața mea rămâi.
+
+[v4]
+Doamne fără Tine sunt pierdut
+Fără Tine viața n-are sens,
+Nu mai pot s-o iau de la-nceput
+Azi te rog Isuse să mă ierți.

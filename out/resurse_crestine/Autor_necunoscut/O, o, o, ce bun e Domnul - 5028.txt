@@ -1,0 +1,21 @@
+[title]
+O o o ce bun e domnul {author: {Anonim}, {rcId: {5028}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+O, o, o, ce bun e Domnul,
+În veci iubirea Lui pe min’ m-a mântuit.
+
+[v2]
+Primit-am iertare, ce bun e Domnul,
+În veci iubirea Lui pe min’ m-a mântuit.
+
+[v3]
+Primit-am sfințenie, ce bun e Domnul,
+În veci iubirea Lui pe min’ m-a mântuit.
+
+[v4]
+A noastre ființe El le-a vindecat,
+În veci iubirea Lui pe min’ m-a mântuit.

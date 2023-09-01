@@ -1,0 +1,37 @@
+[title]
+Esti calator {author: {Ligia Bodea.}, {rcId: {61553}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,e
+
+[c]
+Cât de scurtă este viața, azi te-ai născut
+Însă poate mâine este scris al tău sfârșit
+Poate strângi comori în lume
+Și ești sigur că-ți vor da
+Fericirea și un nume
+Însă nu, nu-i așa
+
+[v1]
+Ești călător, te duci spre veșnicii
+Cui ai slujit cu-acela vei fi!
+Ești călător, te duci spre rai sau iad
+Gândește-te cât se spune ”
+Azi”
+
+[v2]
+Raiul este pregătit, te-așteaptă să vii
+Dacă îl urmezi pe Domnul, cu El vei fi
+El te va chema pe nume, fața-I vei vedea
+Îmbrăcat în haine albe, te vei bucura.
+
+[v3]
+Iar în ceruri bucuria deplină ne va fi
+Căci vom sta cu El la masă, fața-i vom privi
+Împreună coruri sfinte îl vor preamări
+Și cu îngerii din ceruri el ne va sluji
+
+[e]
+Mâine nu e ziua ta
+Astăzi poți să faci ceva
+/: Dă-i inima ta :/

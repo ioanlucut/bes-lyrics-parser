@@ -1,0 +1,41 @@
+[title]
+Vino doamne si asculta {author: {Anonim}, {rcId: {62309}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Vino, Doamne, și ascultă!
+Doamne, ascultă ruga mea!
+Căci s-a strâns durere multă...
+Doamne, cum s-o pot purta?
+
+[c]
+/: Lasă-mă să Ți-o spun Ție
+În miez de noapte când mi-e greu!
+Ca nimenea să nu mai știe
+Greul sufletului meu! :/
+
+[v2]
+Lasă-mă să-Ți spun durerea
+Ce-a fost ruptă din a Ta
+Jugul fie cum Ți-e voia
+Ca o comoară-l voi purta!
+
+[c2]
+/: Tot ce-ndur cu Tin’, Isuse,
+Asta mi-e mângâierea
+Dar mai sunt lacrimi nespuse
+Și-astea cum le voi purta? :/
+
+[v3]
+O, de mi-ai lasa nădejdea
+Ca-intr-o zi, până-n apus,
+Să-mi aduci pe toți aceia
+Ce cu lacrimi Ți-am adus!
+
+[c3]
+/: Nu doresc mai mare plată
+Decât mântuirea lor!
+Și pe veci ca o răsplată
+Să Te cânt nemuritor! :/

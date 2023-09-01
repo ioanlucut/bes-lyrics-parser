@@ -1,0 +1,53 @@
+[title]
+Ce bucurie mare am pe acest pamant {author: {Nicolae Moldoveanu}, {rcId: {5805}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,v5,c5,v6,c6
+
+[v1]
+Ce bucurie mare am pe acest pamant,
+Lumina si viata si Duhul Tau cel sfant.
+
+[c]
+/: Nu umblu-n intuneric, caci Tu mi-ai dat lumina
+Si Duhul Sfant intruna pe cale-i cu mine. :/
+
+[v2]
+Si ce minune mare in Domnul am gasit!
+Mergand pe aceasta cale, lumina mi-ai gatit.
+
+[c2]
+/: Eu nu ma obosesc, mergand pe-aceasta cale,
+Caci Duhul Sfant m-ajuta si-mi da-nviorare :/
+
+[v3]
+Ce buna-mi pare calea, cand pot sa merg pe ea,
+Credinta si Cuvantul si Evanghelia!
+
+[c3]
+/: Ma umplu de putere de pace si iubire,
+Caci Domnul e cu mine, eu singur nu ma tem. :/
+
+[v4]
+In calea-aceasta buna, in calea lui Isus,
+La capat e cununa si locul cel promis.
+
+[c4]
+/: Acolo este locul, spre el calatoresc;
+Si, daca voi ajunge, vreau sa ma odihnesc... :/
+
+[v5]
+Pe cale, sunt cu Domnul; cu El vreau sa ma duc,
+Si Duhul Sfant intruna ma face sa-L ascult,
+
+[c5]
+/: In marea-Mparatie a Domnului Isus,
+Curand eu voi ajunge, si cred ca nu-i prea mult... :/
+
+[v6]
+Iar pentru-aceasta, Doamne Isuse, Te-as ruga
+Ca toata adunarea s-o duci in casa Ta!
+
+[c6]
+/: La locul de odihna, in noul Paradis,
+Sa fiu intotdeauna in casa lui Isus. :/

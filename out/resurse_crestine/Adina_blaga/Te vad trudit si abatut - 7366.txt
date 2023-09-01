@@ -1,0 +1,41 @@
+[title]
+Te vad trudit si abatut {author: {Adina Blaga}, {rcId: {7366}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Te văd trudit și abătut
+O suflet drag ce plângi
+Astăzi ești trist și parc-ai vrut
+Să părăsești acest pământ!
+
+[c]
+/: Durerea, știu, te-apasă greu
+Mai e puțin din noapte!
+Încrede-te în Dumnezeu!
+În Cel ce știe toate. :/
+
+[v2]
+Viața ta e un mister
+Iar zilele ți-s grele.
+Ai vrea să zbori acum spre cer
+Să uiți, să uiți, de toate!
+
+[c2]
+/: Nu mai e mult de așteptat
+Mai rabdă, speră frate!
+Căci totul va fi spulberat
+Mai e puțin din noapte! :/
+
+[v3]
+Iar lacrima ce-a curs cândva
+Va sterge Însuși Mielul!
+Suspinul tău, durerea grea,
+Pe veci vor fi uitate.
+
+[c3]
+/: Acel Ce-a suferit pe lemn
+Ne va primi în slavă.
+Isus Hristos, Rege etern,
+Ne va chema acasă! :/

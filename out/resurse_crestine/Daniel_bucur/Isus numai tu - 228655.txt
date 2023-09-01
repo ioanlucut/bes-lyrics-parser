@@ -1,0 +1,74 @@
+[title]
+Isus numai tu {author: {Daniel Bucur}, {rcId: {228655}}
+
+[sequence]
+v1,b,c,v2,b,c2,v3,c3,c4
+
+[v1]
+Cine e regele gloriei
+Cine e regele slavei
+Oh, Isus numai Tu
+Tu ești Domnul puternic
+Plin de-ndurare eșsti veșnic
+Oh, Isus numai Tu
+
+[b]
+Am căutat, o iubire fără sfârșit
+Doar dragostea Ta
+Viața mi-a împlinit
+Am căutat, o iubire fără sfârșit
+Doar dragostea Ta
+Viața mi-a împlinit
+
+[c]
+Sfânt ești
+Ceru-ntreg cântă laudă
+Tot pământul declară
+Isus numai Tu
+Isus numai Tu
+
+[v2]
+Tu ai pus totu-n mișcare
+Tu ne dai zilnic suflare
+Oh, Isus numai Tu
+Tu ai dat lumii viață
+Ne-ai adus o speranță
+Oh, Isus numai Tu
+
+[c2]
+Sfânt ești
+Ceru-ntreg cântă laudă
+Tot pământul declară
+Isus numai Tu
+Veșnic îngerii cântă Vrednic
+E-mpăratul Puternic
+Isus numai tu
+Isus numai tu
+
+[v3]
+Pentru a noastră salvare
+Ai suferit în durere
+Oh, Isus numai Tu
+Ai înviat în splendoare
+Vei reveni plin de glorie
+Oh, Isus numai Tu
+Oh, Isus numai Tu
+
+[c3]
+Sfânt ești
+Ceru-ntreg cântă laudă
+Tot pământul declară
+Isus numai Tu
+Veșnic îngerii cântă Vrednic
+E-mpăratul Puternic
+Isus numai tu x2
+
+[c4]
+Veșnic îngerii cântă Vrednic
+E-mpăratul Puternic
+Isus numai tu
+Sfânt ești
+Glasul meu te înalță
+Tu ești vrednic de laudă
+Isus numai Tu
+Isus numai Tu

@@ -1,0 +1,41 @@
+[title]
+Glorieglorielui isus hristos {author: {Anonim}, {rcId: {59172}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+/: Glorie,
+Glorie,
+Lui Isus Hristos!
+El e Dragoste si Har! :/
+Toti copii sa-I cantam,
+Pe Isus sa-L laudam!
+Glorie,
+Glorie,
+Lui isus Hristos!
+El e Dragoste si har!
+
+[v2]
+/: Iubiți-L, iubiți-L pe Isus Hristos!
+El e Dragoste și Har! :/
+Toți copiii să-I cântăm,
+Pe Isus să-L lăudăm!
+Iubiți-L, iubiți-L pe Isus Hristos!
+El e Dragoste și Har! :/
+
+[v3]
+/: Slujiți-L, slujiți-L pe Isus Hristos!
+El e Dragoste și Har! :/
+Toți copiii să-I cântăm!
+Pe Isus să-L lăudăm!
+Slujiți-L, slujiți-L pe Isus Hristos!
+El e Dragoste și Har!
+
+[v4]
+/: Mulțumiți-I Lui Isus Hristos!
+El e Dragoste și Har! :/
+Toți copiii să-I cântăm!
+Pe Isus să-L lăudăm!
+Mulțumiți-I Lui Isus Hristos!
+El e Dragoste și Har!

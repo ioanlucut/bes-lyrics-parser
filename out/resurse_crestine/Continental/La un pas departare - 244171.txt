@@ -1,0 +1,57 @@
+[title]
+La un pas departare {author: {Continental}, {rcId: {244171}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Știu că poate ai vrea să întorci
+O zi de regret, o zi de căderi
+Și să schimbi tot ce-a fost,
+Păcate ce ți-au adus dureri.
+Șoapte vin, te conving
+Că nu ești ce-ai fost
+Și nu te vei întoarce-napoi nicicând,
+Dar dacă ți-ar spune:
+
+[c]
+Nu e distanță prea mare!
+Ești la un pas depărtare!
+Vino, vino Acasă!
+Întinse brațe te-așteaptă
+Și-o inimă de Tată
+Vino, vei fi iertat!
+Fă doar un pas!
+Nu e distanță prea mare
+Ești la un pas depărtare!
+Vino, vino Acasă!
+Întinse brațe te-așteaptă
+Și-o inimă de Tată.
+Vino, vei fi iertat!
+Mai fă doar un pas!
+Încă un pas!
+
+[v2]
+Poate astăzi regreți ce-a fost
+Negre umbre-ți spun că viața ta e fără rost,
+Dar, te rog, nu mai privi spre trecut.
+Nu poți să te întorci,
+Însă poți fi schimbat,
+Mila Lui nicicând n-a întâlnit păcat de neiertat.
+Tu nu ești departe!
+
+[e]
+/: Vino, ia-ți noul nume,
+Las-n trecut orice umbre.
+O viață nouă te-așteaptă!
+Mai fă doar un pas! :/ x3
+Azi vino Acasă, vino Acasă!
+Întinse brațe te-așteaptă
+Și-o inimă de Tată
+Vino, vei fi iertat!
+Mai fă doar un pas!
+/: Vino, ia-ți noul nume!
+Lasă-n trecut orice umbre
+O viață nouă te-așteaptă
+Nu ești departe de Casă! :/ x3
+Dar mai fă un pas!

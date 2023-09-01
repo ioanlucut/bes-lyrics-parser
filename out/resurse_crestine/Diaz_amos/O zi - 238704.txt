@@ -1,0 +1,31 @@
+[title]
+O zi {author: {Diaz Amos}, {rcId: {238704}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Vine o zi! Ce va fi? O zi măreață,
+Când vom sta în fața Sa, la sfânta masă!
+Vom cânta, vom lăuda Numele-I slăvit,
+Vom cina și vom bea din rodul preamărit!
+
+[c]
+/: Vine o zi, vine o zi, când Îl vom reîntâlni
+Vine o zi, vine o zi, când spre cer ne va răpi! :/
+Vine o zi, vine o zi, fără griji și nevoi,
+Vine o zi, vine o zi, fără teamă și ploi!
+Vine o zi, sfântă zi, fără lacrimi pe obraz,
+Vine o zi și acea zi, poate fi chiar azi!
+
+[v2]
+Așteptăm, ne bucurăm ca Isus să vină,
+Să ne de-a, să ne de-a la toți lumină!
+L-am ales, L-am ales pe Isus Cristos,
+Numai El, pentru noi, din pierzare ne-a scos!
+
+[v3]
+Bucuros, credincios, merg pe calea Sa,
+Și smerit, pocăit, este de partea mea!
+Lui Îi cânt pe pământ și spre a Lui slavă,
+Ca să vii, om pierdut, Domnul azi te cheamă!

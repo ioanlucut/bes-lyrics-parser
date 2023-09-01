@@ -1,0 +1,31 @@
+[title]
+Fiu de rege {author: {Mirela Ursulescu}, {rcId: {176600}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Fiu de Rege sunt fiu de Împărat
+Fiul Celui Sfânt Celui Prea Înalt.
+
+[c]
+Sunt copilul Lui azi mă simt bogat
+Sunt al Domnului al meu Împărat.
+
+[v2]
+N-am nimic pe lume mai bun mai frumos
+Decât al meu Rege Domnul meu Hristos.
+
+[v3]
+Nimic nu mă leagă de acest pământ
+Știu acolo-n slavă voi fi fericit.
+
+[v4]
+Isus vine iarăși dup’ai Lui copii
+Să ne ducă acasă sus în veșnicii.
+
+[v5]
+Unde-i veșnic soare noapte nu va fi
+Nici lacrimi amare numai bucuri
+Vino mai degrabă Mire minunat
+Căci ne e dor de-acasă Rege Prea Înalt.

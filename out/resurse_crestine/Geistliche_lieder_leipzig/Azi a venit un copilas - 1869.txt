@@ -1,0 +1,29 @@
+[title]
+Azi a venit un copilas {author: {Geistliche Lieder, Leipzig 1539}, {rcId: {1869}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Azi a venit un copilas
+Frumos si dulce si gingas.
+El din fecioara S-a nascut;
+Ce bucurie ne-a facut!
+
+[v2]
+Acesta e Isus Hristos,
+E Domnul nostru cel milos
+Ce vine ca Mantuitor,
+Iubind tot neamul muritor.
+
+[v3]
+El fericirea ne-a adus
+De la Parintele de sus,
+Spre a putea sa ne suim
+In rai si vesnic sa traim.
+
+[v4]
+Cu totii sa ne bucuram
+Si laude-n veci de veci sa-I dam,
+Caci azi din ceruri, Domnul sfant
+Trimis-a Fiul pe pamant.

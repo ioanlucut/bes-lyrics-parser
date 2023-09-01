@@ -1,0 +1,29 @@
+[title]
+Pe la inserat {author: {Speranța}, {rcId: {100791}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pe la inserat, pe cerul înstelat
+A răsărit o stea
+Ea a vestit că-n lume a venit
+Cel ce aduce mântuirea
+
+[c]
+/: S-a născut Isus în lume a venit
+S-a născut al lumii Împărat
+S-a născut Isus, în lume a venit
+S-a născut Isus, ce minunat! :/
+
+[v2]
+Patul i-a fost ieslea, grajdul i-a fost casa
+Unde Domnul Slavei s-a născut
+Fără de palate, fără nestemate
+Nici veșminte scumpe nu a avut
+
+[v3]
+Spuneți tuturor, un Mântuitor
+A venit în lume să se nască
+Cei ce Îl primesc, cei ce îl slujesc
+Să-i ducă în patria cerească

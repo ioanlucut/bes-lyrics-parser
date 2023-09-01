@@ -1,0 +1,23 @@
+[title]
+Mi-e dor de tine {author: {Gabi_Ilut}, {rcId: {241241}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Sunt călător, pașii îmi grăbesc către țara de vis.
+Cât îmi este de dor, văd cerul deschis!
+Sunt așteptat, Mirele meu mă iubește nespus!
+N-am uitat, plăcerea mea e Isus!
+
+[c]
+/: Mi-e dor de Tine! Mi-e dor, mi-e mult prea dor!
+Mi-e dor de Tine! De fața Ta mi-e dor!
+Mă întărește, mă ajută, învață-mă să sper,
+Privirea să-mi rămână țintă către cer! :/
+
+[v2]
+Sunt răbdător, cu bucurie duc sfinte poveri.
+Jugul Tău e ușor, simt dulci mângâieri!
+Blând și curat, Duhul Tău Sfânt mă însoțește pe drum;
+N-am uitat, cât mi-Ești de drag să Îți spun!

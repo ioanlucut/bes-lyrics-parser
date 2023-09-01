@@ -1,0 +1,47 @@
+[title]
+Sa poti sa iubesti {author: {Nicu Wagner}, {rcId: {61713}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,e
+
+[v1]
+Să poți să iubești fără gândul răsplății,
+Când nori mari de ură deasupra ta vin,
+Să fii devotat a sluji doar dreptății,
+Înseamnă să fii în adevăr un bun creștin.
+
+[c]
+Să fii doar plugarul ce merge mai departe,
+Ogoare întinse cu drag pregătind,
+Și pâinea-adunată cu drag și-o împarte
+În vremi de nevoie cu cel ce-i flămând.
+
+[v2]
+Să fii mulțumit că nu tremuri în ploaie
+Și-o haină, chiar veche, să-mbraci încă ai.
+Iar de ai mai multe, belșugul te-nmoaie
+Să poți și la altul o haină să dai.
+
+[c2]
+Când cineva plânge lovit de durere
+Apleacă-ți urechea s-asculți plânsul lui;
+Să fii-ntr-una gata, acelui ce-ți cere
+În duh de blândețe, o vorbă să-i spui.
+
+[v3]
+Să poți să te bucuri, simțind mulțumire,
+Cu cei ce se bucură cu-adevărat
+Și să poți chiar plânge, cuprins de mâhnire
+Alături de cel ce suspină-ntristat.
+
+[c3]
+Căci lumea prin care noi trecem în grabă,
+E-atât de-ncercată de chin și poveri
+Și-atâția lipsiți de speranță se-ntreabă:
+Cât oare vor ține aceste dureri?
+
+[e]
+Acum fiindcă știi adevărul, trăiește-l!
+Așa cum se cere, creștin bun a fi.
+Iubește, iubește și iarăși iubește,
+Căci Domnul iubirii îți va răsplăti.

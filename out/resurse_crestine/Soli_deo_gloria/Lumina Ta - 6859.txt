@@ -1,0 +1,24 @@
+[title]
+Lumina ta {author: {Soli deo Gloria}, {rcId: {6859}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+/: Lumina Ta Doamne s-o reverși astăzi peste noi :/
+Să fim mântuiți, s-avem viata’n veci
+Și-n bezna grea drumul să’l găsim
+Doamne revărs-o peste noi.
+
+[v2]
+/: Harul Divin să-L reverși din cer peste noi acum :/
+Să fim fericiți, s-avem viata’n veci
+Și-n bezna grea drumul să’l găsim
+Doamne revarsă-L peste noi.
+
+[v3]
+/: Dragostea Ta s-o reverși deplin peste noi acum :/
+Să fim fericiți, s-avem viata’n veci
+Și-n bezna grea drumul să’ găsim
+Doamne revărs-o peste noi.
+Toarnă-Ți iubirea peste noi.

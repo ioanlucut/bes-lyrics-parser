@@ -1,0 +1,29 @@
+[title]
+O fiu pierdut {author: {Ovidiu Liteanu}, {rcId: {82816}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+De-atâtea ori ai auzit Cuvântul,
+De-atâtea ori ai auzit un glas...
+Ce te-a chemat să te întorci acasă,
+Dar tu pribeag pe drumuri ai rămas.
+
+[c]
+O, fiu pierdut, întoarce-te acasă
+Și fericit vei fi cu Dumnezeu.
+Întoarce-te, întoarce-te la Tatăl,
+Întoarce-te la Dumnezeul tău!
+
+[v2]
+Așa cum ești, lovit cu-a tale zdrențe,
+Așa cum ești trudit, și-mpovărat
+Vei fi primit cu dragoste în casă,
+De Dumnezeul dragostei iertat!
+
+[v3]
+Toți prietenii te-au părăsit deodată,
+Nu te mai știu, și te-au lăsat uitat,
+Dar Dumnezeu nu te-a uitat, te-așteaptă,
+Să vii la El, o, fiu nemângăiat.

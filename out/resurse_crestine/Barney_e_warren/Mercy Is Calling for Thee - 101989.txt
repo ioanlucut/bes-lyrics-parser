@@ -1,0 +1,35 @@
+[title]
+Mercy is calling for thee {author: {Barney E. Warren}, {rcId: {101989}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Will you come and be free from the bondage of sin?
+Jesus has died on the tree;
+He has purchased redemption to gather you in;
+Mercy is calling for thee.
+
+[c]
+Oh, will you come? Oh, will you come?
+Jesus will save every one;
+Oh, beware! Don’t you see there is pardon for thee?
+Mercy is calling you home.
+
+[v2]
+Will you come to Him now? Then resist every wrong;
+Happy indeed you will be;
+He will bless you with peace and with heavenly song;
+Mercy is calling for thee.
+
+[v3]
+Will you come as you are? for He knoweth your heart,
+Jesus will make trouble flee;
+He will banish your gloom, He will vict’ry impart;
+Mercy is calling for thee.
+
+[v4]
+Will you come? He will save; how He pleads with you now!—
+Jesus had mercy on me—
+He’s the best friend you have, oh, be humble and bow!
+Mercy is calling for thee.

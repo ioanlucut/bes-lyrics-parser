@@ -1,0 +1,36 @@
+[title]
+Un medic bun noi toti avem {author: {Anonim}, {rcId: {6691}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Un medic bun noi toți avem
+Îm Tine scump Isuse,
+Și noi la Tine alergăm
+Iubit și scump Isuse.
+
+[c]
+/: Auzi corul cel frumos
+De la îngeri sună-n jos
+Intonez și eu duios;
+”
+Tu ești Domn, Isuse!” :/
+
+[v2]
+Păcatele mi le-ai spălat
+Cu sângele-Ți Isuse.
+Și har de sus am căpătat
+Prin jertfa Ta Isuse.
+
+[v3]
+Cu mic, cu mare Te slăvim
+Căci Te iubim, Isuse.
+Viața noi Ți-o dăruim
+Să ne conduci Isuse.
+
+[v4]
+Apare ziua de apoi -
+Tu vii curând, Isuse,
+Cu dragoste vom merge noi
+Să Te vedem Isuse.

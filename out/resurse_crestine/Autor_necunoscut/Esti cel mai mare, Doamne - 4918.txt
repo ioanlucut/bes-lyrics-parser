@@ -1,0 +1,17 @@
+[title]
+Esti cel mai mare doamne {author: {Anonim}, {rcId: {4918}}
+
+[sequence]
+v1,c
+
+[v1]
+Ești cel mai mare, Doamne,
+Peste toate continentele.
+Ești cel mai mare
+Peste toți dumnezeii.
+
+[c]
+Te slăvesc pe Tin’,
+Te slăvesc pe Tin’,
+Te slăvesc pe Tin’,
+Doamne.

@@ -1,0 +1,30 @@
+[title]
+Meditand la viata aceasta {author: {Speranța}, {rcId: {4327}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Tot meditând la viața aceasta cât e de trecătoare
+E ca un abur ce se înalță și apoi dispare
+Ca și fulgerul pe cer sau un fulg de nea
+O fărâmă-nfinit, așa este viața.
+
+[c]
+/: Anul, luna, și ziua ne-apropie de veșnicii
+Ora, minutul și secunda ne spun că Domnul va veni
+Ne spun că Domnul va veni
+El va veni. :/
+
+[v2]
+Nu anii trec așa de iute precum ne ducem noi
+Ne-apropiem cu pași grăbiți spre ziua de apoi
+Omenirea se intreabă : „
+Oare ce va fi?”
+Dar Cuvântul sfânt ne spune:” Isus va reveni”.
+
+[v3]
+Nu poți ști clipa sublimă când Domnul va veni
+Poate fi în noaptea grea sau în zori de zi
+Poate fi la orice pas, toate așa ne spun
+Isus va reveni, El este pe drum.

@@ -1,0 +1,26 @@
+[title]
+Another hallelujah {author: {Lincoln Brewster, Traducere RO}, {rcId: {65299}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+O, Domnul meu, eu Te iubesc,
+Cu tot ce am, cu tot ce sunt,
+Și vreau acum să-ți cânt un cântec nou.
+Prin văi adânci și munți înalți,
+Tu m-ai purtat și m-ai salvat,
+Dar vreau să-Ți cânt un simplu „
+Aleluia!”
+
+[c]
+/: Aleluia, aleluia! :/
+
+[v2]
+Știu că Tu ești sfânt și drept,
+O nouă zi îmi.
+Nu pot deplin să-Ți mulțumesc, Isus,
+Dar cântul meu înalț mai sus,
+Pentru acest nou început
+Și vreau să-ți cânt un simplu „
+Aleluia!”

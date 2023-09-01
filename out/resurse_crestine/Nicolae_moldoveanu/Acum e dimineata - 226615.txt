@@ -1,0 +1,21 @@
+[title]
+Acum e dimineata {author: {Nicolae Moldoveanu}, {rcId: {226615}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Acum e dimineață și-ntâiul gând al meu
+/: Înalț cu umilință spre Sfântul Dumnezeu! :/
+
+[v2]
+Eu spun: Te laud, Doamne, și-adânc Îți mulțumesc,
+/: Că Tu mi-ai dat odihnă, prin harul Tău ceresc! :/
+
+[v3]
+Și-n ziua care vine, mă-ncred în mila Ta,
+/: Să mă ajuți ca-n toate să pot a Te-asculta! :/
+
+[v4]
+Acasă și la școală să-nvăț tot ce-i frumos,
+/: Deși-s copil. vreau Ție să-Ți fiu mai credincios! :/

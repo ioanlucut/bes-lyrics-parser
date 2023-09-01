@@ -1,0 +1,29 @@
+[title]
+Unde te duci suflete calator {author: {Ciprian Holbatu}, {rcId: {164704}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Unde te duci suflete călător
+Rătăcind prin pustiu arzător
+Însetat și flămând, de furtună bătut
+Călător prin pustiu arzător.
+
+[c]
+Arsă ți-e inima, cine apă ți-o da
+Nu e nimeni să-ți dea ajutor
+Cheamă-L tu pe Isus, te iubește nespus
+Călător prin pustiu arzător.
+
+[v2]
+În curând tu te vei prăbuși
+Fără apă-n pustiu vei pieri
+Sufletul ți-e străpuns în suspin și în plâns
+Călător chemând azi pe Isus.
+
+[v3]
+Lângă tine Isus va veni
+Sufletul El îți va răcori
+Apă ție ți-o da, El te va înviora
+În curând tu te vei bucura.

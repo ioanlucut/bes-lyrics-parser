@@ -1,0 +1,16 @@
+[title]
+Cerul este plin de stele {author: {Ramona Ibănescu}, {rcId: {157435}}
+
+[sequence]
+v1,c
+
+[v1]
+/: Cerul este plin de stele și noi colindăm,
+Spunem lumii despre Isus și ne bucurăm,
+Străzile-s pustii și reci și noi colindăm,
+Inimile-s tari și seci și noi colindăm.
+
+[c]
+/: Colindăm și ne bucurăm
+Și ne bucurăm, pe Domnul lăudăm! :
+/:/

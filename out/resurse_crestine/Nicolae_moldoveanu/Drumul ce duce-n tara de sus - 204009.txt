@@ -1,0 +1,35 @@
+[title]
+Drumul ce duce-n tara de sus {author: {Nicolae Moldoveanu}, {rcId: {204009}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Drumul ce duce-n țara de sus
+Plin e de trudă și greu.
+Să mergem pe el ne cheamă Isus,
+Martori să-I fim pe pământul cel rău.
+Și-n greu mereu vom cânta
+Un cântec drag, așa:
+
+[c]
+Ce scump, ce dulce Nume e Isus,
+Ce bun Mântuitor!
+Din morți ne-a înviat
+Și sus ne-a dus al nostru Domn!
+
+[v2]
+Vrem ne-ncetat cu foc să vestim
+Viul cuvânt pe pământ.
+În via cea sfântă harnici să fim,
+Viața întreagă cu-ntregu-i avânt.
+Muncind, mereu vom cânta
+Un cântec drag, așa:
+
+[v3]
+Când drumul nostru noi vom sfârși
+Slava cerească primim,
+Căci Domnul Isus atunci va veni
+Pentru vecie cu El să domnim.
+Și-n veci de veci vom cânta
+Un cântec drag, așa:

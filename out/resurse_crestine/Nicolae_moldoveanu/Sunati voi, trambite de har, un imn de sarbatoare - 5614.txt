@@ -1,0 +1,35 @@
+[title]
+Sunati voi trambite de har un imn de sarbatoare {author: {Nicolae Moldoveanu}, {rcId: {5614}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Sunați voi, trâmbițe de har,
+Un imn de sărbătoare,
+Oricând Hristos câștigă iar
+O biruință mare!
+Sunați, cu glasul fericit,
+Chemarea bucuroasă,
+Oricând un fiu ce-a rătăcit
+Se-ntoarce iar acasă... :/
+
+[v2]
+Sunați amarele treziri,
+Adânc în conștiință,
+Oricând, atrași de amăgiri,
+Uităm de pocăință...
+Sunați puternic, peste tot,
+Chemarea cea divină,
+Cât încă este har și pot
+Cei neiertați să vină. :/
+
+[v3]
+Sunați când încă pot afla
+Intrările deschise,
+Căci, în curând, le vor vedea
+Pe veci închise.
+Sunați plecările de frați,
+La munca cea voioasă,
+Căci, în curând, o să sunați
+Venirea lor acasă.

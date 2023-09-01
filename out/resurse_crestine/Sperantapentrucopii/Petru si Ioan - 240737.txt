@@ -1,0 +1,21 @@
+[title]
+Petru si ioan {author: {Speranța_pentru_copii}, {rcId: {240737}}
+
+[sequence]
+v1,c
+
+[v1]
+Petru și Ioan au pornit
+Spre templu cu pasul grăbit.
+La poartă un olog i-a oprit,
+Vrând milă, dar ei i-au vorbit!
+
+[c]
+/: Aur și argint nu avem,
+Dar însă ce avem vei primi.
+În sfânt Numele lui Isus,
+Hai umblă, nu mai ologi!
+/: El sărind și umblând, lăuda pe Isus.
+Sărind și umblând lăuda pe Isus,
+În sfânt Numele lui Isus,
+Hai umblă, nu mai ologi! :/

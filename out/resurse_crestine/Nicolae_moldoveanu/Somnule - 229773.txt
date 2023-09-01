@@ -1,0 +1,21 @@
+[title]
+Somnule {author: {Nicolae Moldoveanu}, {rcId: {229773}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Somnule, iar ai venit, să mă-ndemni la lenevit?
+Eu acum am de-nvățat, nu te-ascult, căci e păcat!
+
+[v2]
+Noaptea eu mă odihnesc, ziua vreau s-o folosesc
+să învăț conșiincios, tot ce-i bun, tot ce-i frumos!
+
+[v3]
+De părinți ascultător și la carte silitor.
+Vreau apoi să fiu mereu credincios lui Dumnezeu.
+
+[v4]
+Somnule, când este zi, fugi de mine, nu opri!
+Domnului mă rog și El mă ajută-n orice fel!

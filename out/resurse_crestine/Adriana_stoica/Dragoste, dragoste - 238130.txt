@@ -1,0 +1,27 @@
+[title]
+Dragoste dragoste {author: {Adriana Stoica}, {rcId: {238130}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Dragostea e cea mai mare, dintre toate pe pământ
+Dragostea îți dă putere, ca să birui orișicând
+Cu ea poți străbate lumea, cu ea orice biruiești
+Fără dragoste divină, pe pământ nimic nu ești
+
+[c]
+/: Dragoste, dragoste, cereți-vă de la bunul Dumnezeu
+Dragoste, dragoste, cu ea biruiești atunci când ți-e mai greu :/
+
+[v2]
+Dragostea nu clevetește, dragostea nu face rău
+Dragostea-ți dă biruință, să iubești pe Dumnezeu
+Dragostea e răbdătoare, nu caută folosul său
+Ea este îngăduitoare, nu se bucură de rău
+
+[v3]
+Dragostea nu se fălește, nu se laudă nicicând
+Dragostea îți dă speranță, să ajungi în cerul sfânt
+Dragostea este din ceruri, ea vine din Dumnezeu
+Ea te umple de putere, te face copilul său

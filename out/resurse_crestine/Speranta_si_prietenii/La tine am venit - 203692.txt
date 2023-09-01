@@ -1,0 +1,41 @@
+[title]
+La tine am venit {author: {Speranța și prietenii}, {rcId: {203692}}
+
+[sequence]
+v1,c,v2,c,v3,c2,c3
+
+[v1]
+La tine am venit poporul meu
+Lăsat-am slava mea de Dumnezeu
+La tine am venit să fi salvat
+Dar tu coroană de spin mi-ai dat.
+
+[c]
+O de-ai fi înțeles că te-am iubit
+Mai fi cinstit, mai fi primit
+O de-ai fi înțeles iubirea mea
+Nu mă răstigneai pe Golgota.
+
+[v2]
+Am venit să-ți vindec rana ta
+Dar tu mi-ai dăruit o cruce grea
+Am venit la tin’ să fiu iertat
+Dar tu mai hulit mai lepădat
+
+[v3]
+Eu mi-am dăruit viața mea
+Cu preț de sânge pentru vina ta
+Eu sunt Mesia al tău Mântuitor
+Isus Hristos Domn al Domnilor.
+
+[c2]
+La tine vin din nou nu refuza
+Nu refuza, iertarea mea
+La Golgota pe cruce m-am jertfit
+Eu team iubit, eu te-am iubit.
+
+[c3]
+La tine vin din nou nu refuza
+Nu refuza, iertarea mea
+/: Israele și astăzi te primesc
+/: Eu te iubesc, eu te iubesc. :/

@@ -1,0 +1,27 @@
+[title]
+Imn trinitatii {author: {Nicu Wagner}, {rcId: {61695}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Un cântec de iubire azi intonăm spre-a fi
+Cinstire și slăvire, Părinte din vecii.
+Pe-al Tău Fiu dăruita-i ca jertfă pentru toți
+Și mulți să poată-n urmă deschide veșnic porți.
+
+[c]
+Osana! Aleluia!
+Mărire! Aleluia!
+
+[v2]
+Sunt veacuri multe scurse de când ne-ai dăruit
+Mângăietor pe Duhul Sfânt făgăduit.
+El pregătește astăzi biserica de jos,
+Ca s-o prezinte-n slavă, când va veni Hristos.
+
+[v3]
+Osana! Aleluia! Te preamărim mereu;
+Ți-aducem ruga, cântul, preasfinte Dumnezeu.
+Dorim să vină ziua când toți vom intona
+Cântarea veșniciei, cu cerul vom cânta.

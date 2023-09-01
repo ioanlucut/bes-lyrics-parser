@@ -1,0 +1,32 @@
+[title]
+Fiecare zi din viata mea {author: {amos7}, {rcId: {106578}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/:
+/: Fiecare zi din viata mea :/
+Il laud pe Messia :/
+
+[c]
+/:
+/: Da..
+Eu ma bucur :/
+Da, eu ma bucur mereu
+Il laud pe Dumnezeu :/
+
+[v2]
+/:
+/: Sprijin si adapost am gasit in El :/ x3
+Fiul lui Dumnezeu :/
+
+[v3]
+/:
+/: Bucura-te azi in inima ta :/ x3
+Ca-L ai pe Dumnezeu :/
+
+[v4]
+/:
+/: Chin si greutati chiar de vor veni :/ x3
+Cu Isus voi birui :/

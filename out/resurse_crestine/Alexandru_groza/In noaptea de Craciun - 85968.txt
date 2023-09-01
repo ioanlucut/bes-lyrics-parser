@@ -1,0 +1,23 @@
+[title]
+In noaptea de craciun {author: {Alexandru Groza}, {rcId: {85968}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+În noaptea de Crăciun s-a născut Isus Mesia
+Cum, cum s-a profețit, din cer a venit la noi
+În toată slava Lui, umil în paie stă Mesia
+Îngerii-L privesc și Îl preamăresc pe Dumnezeu.
+
+[c]
+Ce mare har, mare îndurare
+Slava Tatălui se coboară din cer.
+Ce mare har, mare bogăție
+Să primești în dar mântuirea Lui.
+
+[v2]
+În noaptea de Crăciun s-a născut Isus Mesia
+De, de noi s-a-ndurat și în dar ne-a dat mântuirea Lui
+Din ceruri a venit Fiul preaiubit, Isus
+Magii Îl cinstesc, păstorii-L privesc și se-nchină Lui.

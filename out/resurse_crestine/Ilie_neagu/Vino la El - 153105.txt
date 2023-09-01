@@ -1,0 +1,30 @@
+[title]
+Vino la el {author: {Ilie Neagu}, {rcId: {153105}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Poate sufletul ți-e întristat
+De poveri ești mereu apăsat,
+Poate inima îți e zdrobită
+Și niciunde nu găsești odihnă.
+
+[c]
+/: El poate schimba întristarea-n bucurii
+El poate lacrima să ți-o șteargă, să știi!
+Vino la El, vino la Isus!
+Lasă-n mâna Sa, povara ta cea grea. :/
+
+[v2]
+Întunericul e tot mai des
+Și pe cerul tău zorii nu se ivesc
+Trudit te întrebi murmurând
+”
+Ce e viața pe acest pământ?”
+
+[v3]
+Drumul ți-e presărat cu suferinți
+Iar pe obraji îți curg lacrimi fierbinți
+În piept mai porți răni ce dor
+Tânjesti în tăcere dup-ajutor.

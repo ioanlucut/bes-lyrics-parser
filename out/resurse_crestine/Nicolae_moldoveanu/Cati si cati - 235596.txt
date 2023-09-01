@@ -1,0 +1,17 @@
+[title]
+Cati si cati {author: {Nicolae Moldoveanu}, {rcId: {235596}}
+
+[sequence]
+v1,v2
+
+[v1]
+Câți și câți pui frumoși, amărâți ori voioși,
+stau pe ram lângă geam așteptând, așteptând,
+mama lor vine-n zbor, vine-n zbor, vine-n zbor,
+și-orice pui, hrana lui, hrana lui ia la rând.
+
+[v2]
+Tot așa Tatăl Sfânt, grija Sa arătând,
+ne-ncetat, îndurat rămânând, rămânând,
+pâinea Lui, orișicui, orișicui, orișicui,
+bun sau rău, harul Său, harul Său dă oricând.

@@ -1,0 +1,36 @@
+[title]
+Un cantec dulce din departari {author: {Puiu Chibici}, {rcId: {145654}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Un cântec dulce din depărtări,
+O melodie din alte zări,
+Străbate cerul cel glorios
+Chemarea sfântă ”hai la Hristos!’’
+
+[c]
+O, vino azi la dragostea dintâi,
+O, vino, până când amâni?
+Dă-I viața întreagă,
+Cu cerul te leagă,
+Întoarce-te azi căci Isus te cheamă.
+
+[v2]
+Atâtea șoapte te copleșesc
+Și-n neagra noapte te-nlănțuiesc,
+Dar o lumină lucește sus,
+Speranța dulce, ea e Isus.
+
+[v3]
+Pierdut în noapte și rătăcit
+Ai fost, dar Isus te-a regăsit,
+Oricât de mare e vina ta,
+Ți-a șters-o Isus la Golgota.
+
+[c2]
+O, vino, prietene, nu-L refuza,
+Căci în curând vei regreta,
+Dă-i viața sărmană, o, vino făr’ teamă,
+Întoarce-te, dar, căci Isus te cheamă.

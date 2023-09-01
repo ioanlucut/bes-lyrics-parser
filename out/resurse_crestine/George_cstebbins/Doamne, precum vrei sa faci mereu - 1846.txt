@@ -1,0 +1,33 @@
+[title]
+Doamne precum vrei sa faci mereu {author: {George C.Stebbins}, {rcId: {1846}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Doamne, precum vrei, fie mereu,
+Tu ești olarul, lutul sunt eu.
+/: Doamne dă-mi forma ce o dorești
+Prin încercare să mă călești :/
+.
+
+[v2]
+Doamne, precum vre, fie mereu,
+Îmi curățește sufletul meu
+/: Fă-mă ca neaua, imaculat,
+Prin al Tău sânge sfânt și curat :/
+.
+
+[v3]
+Doamne, precum vrei, fie mereu,
+Tu înainte în urmă eu,
+/: Eu cer putere să-Ți pot urma,
+Tu mergi ’nainte pavăza mea :/
+.
+
+[v4]
+Doamne, precum vrei, fie mereu,
+Fie la bine, fie la rău
+/: Doamne revarsă Duhul cel Sfânt
+Mângâietorul meu pe pământ :/
+.

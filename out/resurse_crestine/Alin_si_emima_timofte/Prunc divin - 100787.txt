@@ -1,0 +1,23 @@
+[title]
+Prunc divin {author: {Alin și Emima Timofte}, {rcId: {100787}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+O, Prunc divin, slava Tu ai părăsit
+Și smerit într-o iesle-ai fost găsit
+O, de la răsărit magii-n grabă au venit
+Să se-nchine Regelui de mult vestit
+
+[c]
+Ai venit pe Pământ, lumea-ntreagă schimbând
+Și la toți ne-ai dăruit viață-n dar
+O, o, ce copil nouă astăzi ni s-a dat!
+Să-I cântăm, să-l slăvim neîncetat!
+
+[v2]
+În Betleem, într-un sat neînsemnat
+S-a născut cel mai mare Împărat
+O, o,o slavă din înalt cor de îngeri a cântat
+Când Isus în miez de noapte s-a-ntrupat!

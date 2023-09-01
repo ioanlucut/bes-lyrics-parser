@@ -1,0 +1,30 @@
+[title]
+Din taina slavilor albastre {author: {Nicolae Moldoveanu}, {rcId: {200655}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Din taina slăvilor albastre,
+Din nepătrunsele tării,
+Isus, nădejdea vieții noastre,
+Te așteptăm cu dor să vii!
+
+[c]
+Ni-e inima tot mai aprinsă,
+în tainicul iubirii jar!
+Cu slava Ta, cea necuprinsă,
+O, vin’ Isuse, vino iar!
+
+[v2]
+Făgăduințe
+Ie-Ți preasfinte,
+În inimi cresc și-s tot mai vii,
+Și’n rugăciune mai fierbinte,
+Isuse, Te chemăm să vii!
+
+[v3]
+Adu-ne sfânta părtășie,
+Când făr-a-Iuptei vrednicii,
+Vom fi topiți pe veșnicie,
+Cu Tine-atunci când ai să vii!

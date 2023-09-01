@@ -1,0 +1,41 @@
+[title]
+Grabeste-te {author: {Nicolae Moldoveanu}, {rcId: {241087}}
+
+[sequence]
+v1,c,v3,c2,v5,c3
+
+[v1]
+Grabește-te să dai fierbinte
+Tot ce mai ai în tine bun,
+Cât razele luminii sfinte
+De peste tine nu apun.
+
+[c]
+Privește mai cu drag la moarte,
+De vrei viață cea de veci,
+Spre tot mai larg hotar împarte
+Comoara după care pleci.
+
+[v3]
+Smereste-te, de vrei-nălatrea,
+Suspină, dacă vrei să cânți,
+Dezbracă-te cu renunțarea,
+De vrei slăvit să te-nveșmânți.
+
+[c2]
+De vrei s-ajungi stăpân a toate,
+De toate leapădă-te-ușor,
+Eșți cel mai mare-a multor gloate,
+Când poți fi robul tuturor.
+
+[v5]
+Dacă-ți doreșți cândva solia
+Încununată fericit,
+Nici steagul, nici statornicia
+Nu-ți lepăda pan-la sfârșit.
+
+[c3]
+Fă tot ce faci cu vrednicie,
+Cât mai grăbit și mai frumos,
+Și vei cunoaște-o măreție
+Nebănuită la Hristos!

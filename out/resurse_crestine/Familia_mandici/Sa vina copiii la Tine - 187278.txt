@@ -1,0 +1,39 @@
+[title]
+Sa vina copiii la tine {author: {Familia Mandici}, {rcId: {187278}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Să vină copiii la Tine,
+Așa, Doamne, ai poruncit
+Și-n brațele Tale divine
+Cu dragoste Tu i-ai primit.
+Pe aripile rugăciunii
+Aducem acești copilași,
+A Ta binecuvântare
+Peste ei acum să o lași.
+
+[c]
+/: Binecuvântă, Te rugăm, copilașii preaiubiți.
+Dă-le pacea Ta, fă-i să fie fericiți! :/
+
+[v2]
+În lupta credinței sublime
+Când ei vor fi toți implicați,
+Să fie alături de Tine,
+Cu arme cerești înarmați.
+În zile cu nori și-ncercare,
+În zile cu soare-arzător,
+Fii bun și adu-le salvare,
+Preasfânt și ceresc Salvator.
+
+[v3]
+Să aibă o pâine pe masă
+Și apă să aibă-n pahar,
+Să aibă Scriptura în casă
+Și-n inimi al cerului dar.
+Să fie smeriți, cumsecade,
+Să fie aleși pentru rai,
+Să-și pună încrederea-n Tine
+Și viața în veci să le dai.

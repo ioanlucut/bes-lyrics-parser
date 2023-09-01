@@ -1,0 +1,36 @@
+[title]
+Nu e viata fara nori {author: {Gabriel Gorcea și prietenii}, {rcId: {201875}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Nu e viața fără nori,
+nu e drumul doar cu flori prin vale
+Sunt adesea suferinți,
+sunt și lacrimi fierbinți pe cale
+Insă cel ce te-a creat ce suflare ți-a dat,
+te sție
+Și încercarea grea, O va schimba,
+În bucurie.
+
+[c]
+/: Lasă te de El modelat
+De mâna Domnului
+Te va face un vas mai curat
+Un vas de preț, în casa Lui :/
+
+[v2]
+Nu e viata fără nori,
+nu e drumul doar cu flori prin vale
+În orice zi poți fi încercat ca să fi aur curat pe cale
+Iar cuptorul aprins,
+cuptorul încins va topii
+Va arde zgura ta și te va prelucra pentru vecii.
+
+[v3]
+Viața este fără nori,
+drumul este doar cu flori în cer
+Isus Hristos mi-a promis, că ne duce în paradis la El
+Insă calea către El, calea către cer, e strîmtă
+Vei fii încercat, del El vei fii testat pe calea sfintă.

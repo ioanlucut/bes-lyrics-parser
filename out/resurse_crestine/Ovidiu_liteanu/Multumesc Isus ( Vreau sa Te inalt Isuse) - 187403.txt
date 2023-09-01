@@ -1,0 +1,31 @@
+[title]
+Multumesc isus ( vreau sa te inalt isuse) {author: {Ovidiu Liteanu}, {rcId: {187403}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Vreau să te înalț Isuse
+Azi cu toată inima
+Că Tu m-ai adus la viață
+Prin Cuvânt prin Jertfa Ta
+
+[c]
+/: Mulțumesc Isus
+O, tăria mea
+Pentru Mântuire
+Că am pacea Ta
+/: Mulțumesc Isus
+Pentru Jertfa Ta :/
+
+[v2]
+Gura mea Te Preamărește
+Ți-am dat inima în dar
+Să Te laude prin Duhul
+Și să ardă pe altar
+
+[v3]
+Nu mai vreau nimic din lume
+Nu vreau amăgiri din ea
+Tu-mi ești pacea, fericirea
+Doamne ești comoara mea

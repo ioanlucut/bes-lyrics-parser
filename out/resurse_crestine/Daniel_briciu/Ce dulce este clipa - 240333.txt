@@ -1,0 +1,60 @@
+[title]
+Ce dulce este clipa {author: {Daniel Briciu}, {rcId: {240333}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Ce dulce este clipa,
+Sublimă și frumoasă
+Când Domnul sfânt își cheamă
+/: Vitejii lui Acasă :/
+
+[v2]
+Nu-i zi mai strălucită
+În slăvile divine
+C-atunci când Domnu-și cheamă
+/: Vitejii Săi la Sine :/
+.
+
+[c]
+/: Deschide, Doamne, cerul ca-n vremea lui Ștefan
+Să intre toți vitejii în Noul Canaan,
+Să stea la masa sfântă acei ce te-au cinstit
+Și-n lupte fără număr doar Ție ți-au slujit. :/
+/: Deschide, Doamne, cerul ca-n vremea lui Ștefan
+Să intre toți vitejii în Noul Canaan,
+Să stea la masa sfântă acei ce te-au cinstit
+Și-n lupte fără număr doar Ție ți-au slujit.. /
+/: Deschide, Doamne, cerul ca-n vremea lui Ștefan
+Să intre toți vitejii în Noul Canaan,
+Să stea la masa sfântă acei ce te-au cinstit
+Și-n lupte fără număr doar Ție ți-au slujit. :/
+
+[v3]
+Isus acum așteaptă
+În Țara de lumină
+Din lupta câștigată
+/: Vitejii Lui să vină :/
+.
+
+[v4]
+E mare pregătire
+În slava glorioasă
+Căci însuși Domnu-așteaptă
+/: Vitejii Lui la masă :/
+.
+
+[v5]
+Ferice e de-aceia
+Ce mor întru Hristos
+Căci mare e răsplata
+/: În cerul glorios :/
+.
+
+[v6]
+Ajută-ne, o Doamne
+Și noi să biruim
+Vitejii Tăi în lume
+/: Pân la sfârșit să fim :/
+.

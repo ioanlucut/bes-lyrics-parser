@@ -1,0 +1,33 @@
+[title]
+Domnul din cersus graieste {author: {Anonim}, {rcId: {74620}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Domnul din cer, sus graieste, asculta
+Omule te pocaieste si vino,
+Te-ntoarce azi la Dumnezeu, 
+Sa-ti ierte El pacatul tau,
+ /: azi :/
+
+[v2]
+Traiti cu toti in iubire ca si frati,
+Pizmz, ura sa nu fie, va iubiti,
+Dumnezeu de sus priveste,
+Pe nesupusi pedepseste.
+ /: vai :/
+
+[v3]
+Domnul vine cu rasplata la ai sai,
+Domnul pe nori se arata sa-l vedem,
+De-L vom servi noi pregatiti
+Cu El vom fi noi fericiti
+ /: da :/
+
+[v4]
+Pedeapsa vesnica-i gata.acolo-n iad
+La nelegiuiti rasplata, oh, vai, vai.
+Dumnezeu vine in curand
+Si El aprinde pe pamant
+ /: foc :/

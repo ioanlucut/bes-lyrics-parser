@@ -1,0 +1,33 @@
+[title]
+Iubire sfinta pace sublima {author: {Ionel Saran Bochis}, {rcId: {111172}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Cum Ti-as putea eu multumii
+Cit eu pe lume voi traii
+Eu nu Te voi mai parasii
+Isuse te-oi iubii
+Cum Ti-as putea eu multumii
+Cit eu pe lume voi traii
+Eu nu Te voi mai parasii
+Isuse te-oi iubii
+
+[c]
+/: Iubire Sfinta pace sublima
+Tu i-ai dat Inimii
+Ce fericire, ce bucurie
+Eu iti voi multumii
+Esti numai Tu, o numai Tu
+Esti Iubirea mea :/
+
+[v2]
+Chiar daca n-as avea nimic
+Sarac si gol chiar si lipsit
+Sa fiu de Isus pretuit
+De El sa fiu iubit
+Chiar daca n-as avea nimic
+Sarac si gol chiar si lipsit
+Sa fiu de Isus pretuit
+De El sa fiu iubit

@@ -1,0 +1,23 @@
+[title]
+Cred ca furtuna se va sfarsi {author: {Loredana Musteata}, {rcId: {185504}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Vin pe genunchi, mă proștern, Domnul meu
+Și îți aduc mulțumire.
+Chiar dacă simt cum m-apasă poveri
+Știu că Tu îmi vei da izbăvire.
+
+[c]
+/: Cred că furtuna se va sfârși
+Și curând voi zâmbi sub un cer senin.
+Norii negri vor trece și-n sufletul meu
+Străluci-vor doar raze de soare. :/
+
+[v2]
+Nu vreau să cred că Tu m-ai părăsit
+Lăsând să gust suferința.
+Ai vrut atunci, o, Isuse iubit,
+Să mă înveți ce înseamnă credința.

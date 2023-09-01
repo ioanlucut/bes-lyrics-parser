@@ -1,0 +1,23 @@
+[title]
+Pentru tine vreau sa traiesc {author: {Speranța}, {rcId: {111383}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+Pentru Tine vreau să trăiesc
+Să port Numele Tău în lume
+Lumina Ta s-o răspândesc
+Nimeni altul nu-i ca Tine
+
+[v1]
+Doar Tu mă poți păzi
+Mă poți ocroti, în orice ceas, în orice zi, Isuse
+Destinul mi-l conduci și-n cele mai mari răscruci
+Îmi dai biruință mereu, Tu ești Domnul meu, Isuse
+
+[v2]
+Sunt foarte trecător, aproape ca un nor
+Și totuși, Doamne, Tu mă știi pe nume
+De unde vin și merg, Tu știi cel mai bine
+O, Doamne, ai milă de mine, de mine

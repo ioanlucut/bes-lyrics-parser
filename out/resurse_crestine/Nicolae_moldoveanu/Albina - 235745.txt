@@ -1,0 +1,20 @@
+[title]
+Albina {author: {Nicolae Moldoveanu}, {rcId: {235745}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Albina, albina, iubește lumina.
+Numai când e soare, ea din floare-n floare
+zboară și adună harnic, mierea bună.
+
+[v2]
+Albină, albină, ești pildă senină!
+Viața să ne fie o lumină vie;
+să nu dăm uitării mierea ascultării.
+
+[v3]
+Ne cheamă, ne cheamă, cu glas ca de mamă,
+Dumnezeu, Preasfântul, să-I-plinim Cuvântul
+și cu-a Lui lumină s-avem viața plină!

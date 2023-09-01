@@ -1,0 +1,40 @@
+[title]
+In cartea ta {author: {Lucian și Adelina Susanu}, {rcId: {194056}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+În Cartea Ta înscriu mereu
+În orice timp si-n orice loc
+/: Eu numai eu, ori slava mea ori chinul meu
+Înscriu cu litere de foc.
+ /:
+
+[v2]
+Înscriu ai vietii mele pasi
+Cu dragostea si ura lor
+/: Eu numai eu, printre prieteni sau vrăsmasi
+Mi scriu si scrisele nu mor.
+ /:
+
+[v3]
+Înscriu ale privirii zări
+Spre curătie sau păcat!
+/: Eu numai eu, prin rugăciuni sau desfrânări
+Înscriu scris nemaiutat!
+ /:
+
+[v4]
+Înscriu si gândul cel frumos
+Si gândul josnic si sărac
+/: Eu numai eu, le scriu în fata Lui Hristos
+Si scrise-mi vor rămâne-n veac!
+ /:
+
+[v5]
+Le-am scris iar mâine când si eu
+Pleca-voi din al lumii vis
+/: Eu numai eu, mă voi împărtăsi mereu
+De tot ce-n Cartea Ta mi-am scris!
+ /:

@@ -1,0 +1,41 @@
+[title]
+Sunt fericit isus e cu mine {author: {Anonim}, {rcId: {6266}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Sunt fericit, Isus e cu mine!
+M-a mântuit, El azi e cu mine.
+Sunt fericit, Isuse cu mine!
+Mâna lui e-asupra mea.
+
+[c]
+Da, Isus e cu mine!
+Da, Cu El e mai bine!
+Da, Isus e cu mine,
+Mâna Lui e-asupra mea!
+
+[v2]
+Când toți m-au lăsat, Isus e cu mine.
+De rău m-a scăpat și azi e mai bine.
+Când toți m-au lăsat, Isus e cu mine,
+Mâna Lui e-asupra mea.
+
+[v3]
+Și-n slăbiciuni Isus e cu mine!
+Eu cred în minuni, Isus e cu mine,
+În slăbiciuni Isus e cu mine!
+Mâna Lui e-asupra mea.
+
+[v4]
+Când sunt pe drum Isus e cu mine!
+ȘI-n casa mea cu El e mai bine.
+Când sunt pe drum Isus e cu mine,
+Mâna Lui e-asupra mea!
+
+[v5]
+Și-n suferințe Isus e cu mine!
+El e balsam când este cu mine.
+Și-n suferințe Isus e cu mine,
+Mîna Lui e-asupra mea.

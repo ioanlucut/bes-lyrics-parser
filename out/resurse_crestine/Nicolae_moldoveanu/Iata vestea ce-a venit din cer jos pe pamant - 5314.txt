@@ -1,0 +1,27 @@
+[title]
+Iata vestea ce-a venit din cer jos pe pamant {author: {Nicolae Moldoveanu}, {rcId: {5314}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Iata vestea ce-a venit din cer jos pe pamant,
+Mantuire sa primeasca sufletul crezand.
+
+[c]
+/: Slava! :/
+, Aleluia! Iti
+ /: cantam: :/ Aleluia!
+Siguranta salvarii noastre e Isus Hristos!
+
+[v2]
+Lumea asta framantata este de al ei pacat;
+Cei nascuti dintr-insa cu pacat s-au imbracat.
+
+[v3]
+Toti cei apasati, priviti la sangele Lui varsat!
+Voi, nemultumiti cu starea, Crucea v-a salvat...
+
+[v4]
+Cand vom bate-n poarta noului Ierusalim,
+S-a deschide, vom incepe sa ne-nveselim.

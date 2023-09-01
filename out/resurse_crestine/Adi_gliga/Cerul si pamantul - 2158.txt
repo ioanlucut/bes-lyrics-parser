@@ -1,0 +1,36 @@
+[title]
+Cerul si pamantul {author: {Adi Gliga}, {rcId: {2158}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: Cerul și pământul :/
+În cântec răsună
+/: Îngeri și oameni :/
+Cântă împreună.
+
+[c]
+/: Hristos se naște
+Duhul Sfânt coboară
+Îngerii cântă, magii îl adoră
+Păstori aleargă, ieslea o ’mpresoară
+Mari minuni se întâmplară. :/
+
+[v2]
+/: Din răsărit vin :/
+Magi cu bucurie
+/: Cu dar de smirnă :/
+Aur și tămâie.
+
+[v3]
+/: În Betleem :/
+Ce mare minune
+/: Vergură curată :/
+Fiu născut în lume.
+
+[v4]
+/: Hristos se naște :/
+Veniți la închinare
+/: Cu vesel suflet :/
+Veselă cântare.

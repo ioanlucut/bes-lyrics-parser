@@ -1,0 +1,29 @@
+[title]
+E-o minune cand soarele apune {author: {Anonim}, {rcId: {4910}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+E-o minune când soarele apune,
+Minune din veșnicii.
+Dar mai mare-i minunea din inimă,
+Minunea că El m-a iubit.
+
+[c]
+Minunat e Domnul meu.
+Mai minunat e El
+Decât orice pe pământ
+Minunat e Domnul sfânt!
+
+[v2]
+E-o minune și vara și iarna
+Și cerul înstelat;
+Dar mai mare-i minunea din inimă,
+Minunea că El m-a salvat.
+
+[v3]
+E-o minune întreaga-mi făptură,
+Minune din veșnicii.
+Dar mai mare-i minunea din inimă,
+Minunea că El va veni.

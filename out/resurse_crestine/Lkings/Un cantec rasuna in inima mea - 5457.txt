@@ -1,0 +1,41 @@
+[title]
+Un cantec rasuna in inima mea {author: {L.Kings}, {rcId: {5457}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Un cântec răsună în inima mea,
+E dragostea pentru Isus;
+Ea arde ca flacăra neîncetat
+Și mă fericește nespus!
+
+[c]
+Orice plâns amar și dureri de jar,
+Ce--mi pasă de sunt pe--a mea cale
+Când știu că Isus mă iubește nespus
+Și m--așteaptă în ceruri sus!
+
+[v2]
+Un cântec de dragoste am făurit,
+Cu el, Doamne, vreau să--Ți slujesc;
+Și din zori de zi până--n noapte târziu
+Vreau mereu să--Ți spun: Te iubesc!
+
+[c2]
+Nicicând n--oi uita că--n iubirea Ta
+Ca jertfă Te--ai dat pentru mine,
+Cumplitu--mi păcat pe veci mi l--a spălat
+Al Tău sânge nevinovat.
+
+[v3]
+Un cântec răsună prin munți și prin văi
+Și chiar peste mări s-a întins;
+Răsună voios și străbate mereu,
+Tot pământu--acum a cuprins.
+
+[c3]
+Oferiți prinos că--n Isus Hristos
+Iertată vă e orice vină!
+Să fie slăvit al meu Domn preaiubit
+C--al meu suflet l--a mântuit!

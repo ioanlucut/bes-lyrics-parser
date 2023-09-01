@@ -1,0 +1,47 @@
+[title]
+Intr-o zi un calator din ierusalim {author: {Otniel Stirb}, {rcId: {233436}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Într-o zi, un călător din Ierusalim
+A căzut între tâlhari pe un drum străin.
+L-au bătut, l-au jefuit și l-au dezbrăcat
+Lângă drum, aproape mort, jos ei l-au lăsat.
+
+[c]
+/: Au trecut pe lângă el
+Un preot și-un levit
+Plini de grijuri, frământați ei l-au ocolit
+Dar pe-același drum trecu
+Și-un Samaritean
+Rănile i le-a legat și l-a dus la han :/
+
+[v2]
+Căci tâlharii mai pândesc azi printre creștini
+Pe cei care nu rămân în Ierusalim.
+Fără milă sunt trântiți, pradă la pământ
+Toți acei ce nu primesc sfatul din Cuvânt.
+
+[c2]
+/: Tu Samaritean milos cerul ai lăsat
+Și spre noi în vale jos
+Blând Te-ai aplecat
+Pe-ale noastre răni ai pus
+Untdelemn și vin
+Și la hanul Tău ne-ai dus pe al Tău asin :/
+
+[v3]
+Dar mai sunt și azi la fel preoți și leviți
+Care trec nepăsători pe lângă cei răniți.
+Pentru cel căzut în drum, timp nu le-a rămas
+Ei la slujbe se grăbesc privind mereu la ceas.
+
+[c3]
+/: Doamne Ție-Ți mulțumim
+Că ne-ai căutat
+Prin această lume rea plină de păcat
+Prețul nostru l-ai plătit Tu cu viața Ta
+Când pe cruce Te-ai jertfit
+Sus la Golgota :/

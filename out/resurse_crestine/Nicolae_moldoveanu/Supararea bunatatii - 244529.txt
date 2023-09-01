@@ -1,0 +1,25 @@
+[title]
+Supararea bunatatii {author: {Nicolae Moldoveanu}, {rcId: {244529}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Supărarea bunătății
+E ca ploaia cea de vară
+/: Iute vine, iute trece,
+Și pe urmă-i soare iară. :/
+
+[c]
+Supărarea urii însă
+E ca ploaia toamnei: rece.
+/: Vine-ncet,
+dar când se lasă,
+Până-ngheață nu mai trece.
+ /:
+
+[v2]
+Voi fiți fiii bunătății,
+A-aveți dragoste-mpreună,
+/: Și peste mânia voastră
+Soarele să nu apună! :/

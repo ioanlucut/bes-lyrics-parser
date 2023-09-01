@@ -1,0 +1,29 @@
+[title]
+Cand eu privesc in urma mea {author: {Anonim}, {rcId: {7342}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cand eu privesc in urma mea
+Vad Doamne Sfinte pasii Tai
+Cum m-au purtat, pe munti inalti,
+Dar si-n prapastii si in vai.
+
+[c]
+/: Lucrarea Tu-Ti insufletesti, 
+O Doamne-n cursul anilor.
+Ajuta-ne sa nu uitam,
+Multimea indurarilor. :/
+
+[v2]
+Cand prin cuptoare ne-ai trecut,
+Ca pe cei trei Tu ne-ai vegheat.
+Focul nu ne-a atins,
+Putere Doamne Tu ne-ai dat.
+
+[v3]
+Prin valea mortii de am fost,
+De nici un rau nu ne-am temut.
+Cand umbrele ne-amenintau, 
+Lumina Sfanta-Ai aparut.

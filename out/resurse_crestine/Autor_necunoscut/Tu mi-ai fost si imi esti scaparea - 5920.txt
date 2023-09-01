@@ -1,0 +1,47 @@
+[title]
+Tu mi-ai fost si imi esti scaparea {author: {Anonim}, {rcId: {5920}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Tu mi-ai fost și îmi ești scăparea,
+Pururi Tu, Isus al meu!
+Nimeni altul nu îmi cunoaște
+Dorul și necazul meu.
+
+[c]
+Unde să mă duc?
+Unde să mă duc?
+Eu nu mă duc, Isuse drag,
+Ci Te aștept plângând în prag.
+
+[v2]
+Unde să alerg, Isuse,
+Când sunt singur, părăsit?
+Toți cei dragi se duc, Tu singur
+Ești mereu nedespărțit!
+
+[v3]
+O, de când Te am pe Tine,
+Sufletul întreg îmi e plin.
+Mâna Ta în viață-mi lasă
+Pace, și belșug, și alin.
+
+[v4]
+O, rămâi, rămâi cu mine,
+Ca să fii pe veci al meu,
+Iar ca rob supus și umil,
+Să rămân al Tău mereu!
+
+[v5]
+Fă să Îți cânt o veșnicie,
+Stând la pieptul Tău dorit
+După care am plâns atâta
+Și pe care l-am iubit!
+
+[v6]
+O, rămâi în veci cu mine,
+Răscumpărătorul meu,
+Și mă ține în veci cu Tine,
+Drag copil și rob al Tău!

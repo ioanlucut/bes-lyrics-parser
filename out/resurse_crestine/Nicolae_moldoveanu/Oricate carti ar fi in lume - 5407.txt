@@ -1,0 +1,53 @@
+[title]
+Oricate carti ar fi in lume {author: {Nicolae Moldoveanu}, {rcId: {5407}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Oricate carti ar fi in lume,
+Tu, niciodata nu-i afla
+O alta carte cu renume,
+La fel, cum este Biblia!
+
+[c]
+Tu, Biblie, esti sfant tezaur,
+Nepieritor si pretios;
+Al tau Cuvant etern, de aur
+Ne-a spus de jertfa lui Hristos.
+
+[v2]
+Tu ai ajuns prin mari prigoane,
+Dar niciodata n-ai tacut!
+Au vrut Cuvantul sa-ti rastoarne
+Prin vremuri multi, dar au trecut...
+
+[c2]
+Prin ruguri au trecut martirii,
+Au suferit ca, mai apoi
+Mesajul sfant al omenirii
+S-ajunga pana azi la noi.
+
+[v3]
+Tu esti oglinda vietii noastre,
+Indrumatorul pentru cer;
+Ne daruiesti doar zari albastre
+Si bogatii ce-n veci nu pier!
+
+[c3]
+Tu ai schimbat vieti pacatoase,
+Tu ai schimbat popoare-ntregi;
+Ai inverzit pustiuri arse
+Prin ale tale sfinte legi...
+
+[v4]
+Pamantul, cerul se vor trece -
+Nu vor mai fi, caci ai prezis...
+Apoi, uitarea grea si rece
+Se va asterne ca un vis...
+
+[c4]
+Cuvantul Tau ramane vesnic
+E Insusi Domnul Dumnezeu!
+Marire, Doamne! Tu esti vrednic
+Ca sa domnesti, in veci, mereu!

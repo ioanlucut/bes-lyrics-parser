@@ -1,0 +1,29 @@
+[title]
+Pe pamant e-asa de greu {author: {Anonim}, {rcId: {5037}}
+
+[sequence]
+v1,v2,v3,c
+
+[v1]
+Pe pământ e-așa de greu
+Când ești singurel,
+Dar poate fi și ușor
+Cu Emanuel.
+
+[v2]
+Sunt cu Isus, nu mi-e frică
+De nici un dușman,
+Sunt cu Isus, voi ajunge
+Sus în Canaan.
+
+[v3]
+Astăzi vreau să-ți dau un sfat
+De vrei să m-asculți:
+Nu mai umbla singurel,
+Umblă cu Isus.
+
+[c]
+/: Ce bine-i cu Isus,
+Ce bine-i cu El,
+Ce bine-i cu Domnul,
+Cu Emanuel. :/

@@ -1,0 +1,29 @@
+[title]
+Ceasul bate {author: {Nicolae Moldoveanu}, {rcId: {232243}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Ceasul bate, ziua trece, oare te-ai gândit
+câte rele, câte bune azi ai făptuit?
+
+[c]
+Judecă, copile, judecă mereu!
+Răsplătită-i orice faptă sus la Dumnezeu!
+
+[v2]
+Nu deschide ușa gurii, să-ți zboare ușor
+vreun cuvânt ce poartă-n sine gând otrăvitor.
+
+[v3]
+Ale tale mâini, curate fie ne-ncetat,
+Nicicând să nu săvârșească fapte cu păcat.
+
+[v4]
+Iar picioarele s-alerge iute, chiar acum,
+fără nicio șovăire, pe-al credinței drum.
+
+[v5]
+Ceasul bate, bate, bate: tica, taca ta!
+Fă cu Dumnezeu să-ți treacă toată viața ta!

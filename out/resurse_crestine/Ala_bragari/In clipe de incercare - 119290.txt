@@ -1,0 +1,46 @@
+[title]
+In clipe de incercare {author: {Ala Bragari}, {rcId: {119290}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,e
+
+[v1]
+În clipe de grea încercare
+În clipele reci cu furtutni
+Când ploaia te-alungă din cale
+/: Și vezi norii grei cum se-adun :/
+
+[v2]
+Chiar dacă viața ți-e tristă
+Chiar dacă totul e greu
+Nu plânge și nu dispera!
+/: Chiar dacă greul e greu :/
+
+[v3]
+Fiorul nesiguranței
+Dispare, dispare curând!
+Alergi în a Domnului brațe
+/: Și-acolo căldura-i găsit :/
+
+[v4]
+Speranța în suflet îți crește
+Și cerul e mai luminos
+Cu Domnul de mână pornește!
+/: Cu Domnul e cel mai frumos! :/
+
+[v5]
+Aleargă, aleargă la cruce!
+Privește-L în ochi pe Isus
+Să vezi ce iubire măreață
+/: Trăiește în Domnul Isus :/
+
+[v6]
+Da! Să spui la-ncercare!
+Da, și nu te-ntrista!
+Doar greul prin care vom trece
+Iubire în noi va lucra, răbdarea în noi va lucra!
+
+[e]
+Doar greul prin care vom trece
+Răbdarea în noi va lucra,
+Iubire în noi va lucra!

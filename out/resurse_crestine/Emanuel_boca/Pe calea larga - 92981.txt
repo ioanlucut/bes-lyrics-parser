@@ -1,0 +1,29 @@
+[title]
+Pe calea larga {author: {Emanuel Boca}, {rcId: {92981}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pe calea largă mergi înspre pierzare
+Cu toți acei ce nu au ascultat
+Cuvantul sfânt ce-aduce salvare
+Oricărui suflet care e-nsetat.
+
+[c]
+Vino să te-mpaci acum cu Domnul!
+Vino cât încă mai e har!
+Doar la Dumnezeu Tu vei găsi adevărul
+Si-o viață nouă vei primi în dar.
+
+[v2]
+Pe calea largă doar plăceri de-o clipă
+Tu vei găsi și vei fi amăgit.
+Dezamăgiri vei strânge cu lacrimi
+Și pe veci tu nu vei fi mântuit.
+
+[v3]
+Pe calea-ngustă urcă azi pe munte
+Și vei găsi în El doar împliniri.
+Ascultă astăzi șoaptele sfinte
+Și nu vei regreta în veșnicii.

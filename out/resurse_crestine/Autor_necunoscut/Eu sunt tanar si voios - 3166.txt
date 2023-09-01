@@ -1,0 +1,35 @@
+[title]
+Eu sunt tanar si voios {author: {Anonim}, {rcId: {3166}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Eu sunt tânăr și voios
+De robie am scăpat
+Bucuros îl urmez pe Isus
+Eu călătoresc pe drum
+Înspre patria de sus
+Unde e fericire, pace.
+
+[c]
+/: A fi tânăr este frumos,
+A fi liber e mai frumos,
+A fi tânăr și mântuit
+Ai bucurii în veșnicii. :/
+
+[v2]
+Eu sunt tânăr, ești și tu
+Vrei s-asculți cuvântul Lui?
+Vrei să fii fericit ca mine?
+Vino la Isus acum!
+Te predă în brațul Lui
+Bucurii vei afla doar la El.
+
+[v3]
+Eu sunt tânăr și eu știu
+Căci Isus m-a mântuit.
+Pentru Domnul Isus mă jertfesc
+Eu călătoresc pe drum
+Înspre patria din cer
+Unde e fericire, pace.

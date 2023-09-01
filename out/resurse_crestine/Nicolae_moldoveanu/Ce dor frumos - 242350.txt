@@ -1,0 +1,41 @@
+[title]
+Ce dor frumos {author: {Nicolae Moldoveanu}, {rcId: {242350}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Ce dor frumos, ce rai ne leagă,
+/: Eu cânt cu lacrimi, Tu le-alini. :/
+/: De dragul Tău :/ mi-e viața dragă,
+/: Că-n ea Te văd și-n flori și-n spini. :/
+
+[v2]
+În crinii albi Ți-e sărutarea
+/: Și-n maci văd sânge pe Calvar, :/
+/: De dragul Tău :/ mi-e dragă valea
+/: Și cerul fără de hotar! :/
+
+[v3]
+În bulgări reci Te văd cum sameni
+/: Și-n spini văd pașii-nsângerați. :/
+/: De dragul Tău :/ iubesc pe oameni,
+/: Azi sunt străini, mâini poate frați! :/
+
+[v4]
+Când turme trec purtându-și dorul,
+/: Și spune-un fluier: ”sunt cu voi!” :/
+/: De dragul Tău :/ iubesc păstorul,
+/: Ce-și pune viața pentru oi! :/
+
+[v5]
+În cei aleși Îți văd iubirea,
+/: Când vin cântându-Ti psalmi în văi, :/
+/: De dragul Tău :/ le sorb privirea,
+/: Pe-obrajii Ior sărut pe-ai Tăi. :/
+
+[v6]
+Și cât mi-e dat să nu-Ți văd Fața,
+/: Dorit de ceruri, ca un mag, :/
+/: De dragul Tău :/ mi-e dragă viața,
+/: Și moartea nu-i decât un prag! :/

@@ -1,0 +1,21 @@
+[title]
+Strig spre tin {author: {Anonim}, {rcId: {5074}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Strig spre Tin’ pentru mâna Ta de-ndurare,
+Dragostea Ta îmi aduce eliberare,
+Ești stânca mea, sunt slab, Tu ești tare,
+Izbăvește-mă Tu, Doamne.
+
+[c]
+/: Căci Tu ești bun, :/
+Căci Tu ești bun cu min’.
+
+[v2]
+Ești speranța mea,
+Credincios promisiunilor Tale,
+Dorința mea
+E să umblu pe a Ta cărare.

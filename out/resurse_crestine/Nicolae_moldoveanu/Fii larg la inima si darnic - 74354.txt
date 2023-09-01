@@ -1,0 +1,54 @@
+[title]
+Fii larg la inima si darnic {author: {Nicolae Moldoveanu}, {rcId: {74354}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+Fii larg la inimă și darnic,
+Fă binele cu pas tăcut.
+/: Că n-ai făcut vei plânge-odată,
+Dar n-ai să plângi c-ai prea făcut. :/
+/: Dar n-ai să plângi :/ c-ai prea făcut.
+
+[v2]
+Ascultă sfatul și-ndrumarea,
+Îndreaptă-te când ești mustrat,
+/: Că nu asculți, vei plânge-odată,
+Dar n-ai să plângi c-ai ascultat :/
+/: Dar n-ai să plângi :/ c-ai ascultat.
+
+[v3]
+Mergi fericit în orice vreme
+Oriunde te-ar mâna Isus,
+/: Că nu te-ai dus vei plânge-odată,
+Dar n-ai să plângi că prea te-ai dus :/
+/: Dar n-ai să plângi :/ că prea te-ai dus.
+
+[v4]
+Fii răbdător până la moarte,
+Oricât de-adânc ai fi brăzdat.
+/: Că n-ai răbdat vei plânge-odată,
+Dar n-ai să plângi c-ai prea răbdat :/
+/: Dar n-ai să plângi :/ c-ai prea răbdat.
+
+[v5]
+Iubește cald, întotdeauna,
+Chiar și pe-acel ce te-a zdrobit.
+/: Că n-ai iubit vei plânge-odată,
+Dar n-ai să plângi c-ai prea iubit. :/
+/: Dar n-ai să plângi :/ c-ai prea iubit.
+
+[v6]
+Și iartă plin de bunătate
+Tot răul pe nedrept purtat.
+/: Că n-ai iertat vei plânge-odată,
+Dar n-ai să plângi c-ai prea iertat. :/
+/: Dar n-ai să plângi :/ c-ai prea iertat.
+
+[v7]
+Din ce-ai văzut, să ai credință
+Spre tot ce încă n-ai văzut.
+/: Că n-ai crezut vei plânge-odată,
+Dar n-ai să plângi c-ai prea crezut. :/
+/: Dar n-ai să plângi :/ c-ai prea crezut.

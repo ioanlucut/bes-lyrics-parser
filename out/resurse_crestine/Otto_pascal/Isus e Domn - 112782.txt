@@ -1,0 +1,41 @@
+[title]
+Isus e domn {author: {Otto Pascal}, {rcId: {112782}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Isus e Domn, El tronează de pe cruce
+Și dragostea e împărăția Lui
+Ca jertfă Mielul lui Dumnezeu aduce
+Viață veșnică în dar oricui
+
+[c]
+Copii ai Dumnezeului cel veșnic
+Sunt cei ce cred în Numele Lui
+Isus e Domn, El tronează de pe cruce
+Dând viață veșnică în dar oricui
+
+[v2]
+Isus e medic, alină suferința
+El e mereu lângă mine în necaz
+În încercare-mi păstrează El credința
+Și-mi șterge lacrima de pe obraz
+
+[c2]
+Când singur sunt și nimeni nu-i aproape
+Să-mi spună-o vorbă bună în necaz
+Isus e medic, alină suferința
+Și-mi șterge lacrima de obraz
+
+[v3]
+Isus curând va veni să-I ia la Sine
+Pe toți ai Săi, după cum El ne-a promis
+Eu știu că El mă cunoaște și pe mine
+Căci numele în cartea Lui ne-a scris
+
+[c3]
+Și vom uita dureri și suferințe
+Atunci când s-a-mplini mărețul vis
+Isus veni-va și ne va lua Sine
+Căci numele în cartea Lui ne-a scris.

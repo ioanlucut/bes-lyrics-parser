@@ -1,0 +1,41 @@
+[title]
+Sa pot ierta {author: {Sanja Cristea Tiberian}, {rcId: {96741}}
+
+[sequence]
+v1,v2,v3,v4,v5,c
+
+[v1]
+Plini de mânie
+Toți mă lovesc
+Când văd că Ție
+Doamne-Ți slujesc
+
+[v2]
+Își lasă vatra
+Vin toți duium
+Aruncă piatra
+Eu cad în drum
+
+[v3]
+Privind cu silă
+Mă iau de mâini
+N-au pic de milă
+Mă dau la câini
+
+[v4]
+Sunt plin de sânge
+Rănile dor
+Trupul se frânge
+Tu vii pe nor
+
+[v5]
+Lovită toată
+Mor în deșert
+Ajută-mi, Tată
+Să pot să iert
+
+[c]
+Ajută-mi, Doamne-n Numele Tău
+Să-ntorc obrazul omului rău
+Când se ridică-mpotriva mea
+Ajută-mi, Doamne, să pot ierta

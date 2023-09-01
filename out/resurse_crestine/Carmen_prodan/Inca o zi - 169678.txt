@@ -1,0 +1,26 @@
+[title]
+Inca o zi {author: {Carmen Prodan}, {rcId: {169678}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Domnul ne-a dat încă o zi,
+Nu meritam dar El e bun,
+Să-I mulțumim și să trăim spre slava Lui! : \
+
+[c]
+Să prețuim ziua de azi!
+Căci de-a trecut, înapoi nu se mai întoarce niciodat’!
+Să prețuim vremea de har
+Și să trăim așa cum Domnul ne-a-nvățat!
+
+[v2]
+/: Domnul ne-a dat mari îndurări,
+A fost cu noi în încercări,
+Ne-a-nconjurat necontenit cu mila Lui! : \
+
+[v3]
+/: Domnul a fost mereu cu noi,
+Pe vreme bună și prin ploi,
+Ne-a ocrotit cu brațu-I tare Emanuel: \

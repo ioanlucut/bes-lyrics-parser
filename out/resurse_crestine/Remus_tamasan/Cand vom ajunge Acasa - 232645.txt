@@ -1,0 +1,30 @@
+[title]
+Cand vom ajunge acasa {author: {Remus Tămășan}, {rcId: {232645}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+În curând noi vom ajunge-Acasă
+Lângă Domnul nostru-n veci vom sta,
+Vom vedea cetatea cea frumoasă
+Și cu îngerii în cor noi vom cânta.
+
+[c]
+Când vom ajunge-acasă
+În Țara cea de vis,
+Lacrima va fi stearsa pe veci în Paradis
+Și vom fi cu Domnul pentru veșnicii
+Când vom ajunge-acasă-n Paradis
+
+[v2]
+Sunt atâția-n lume ce așteaptă
+Ziua-n care-Acasă vor sosi
+Sunt acei ce lupte grele poartă
+Și așteaptă răsplătirea-n veșnicii
+
+[e]
+Și când vom ajunge-n cer
+Cu El în veci vom fi
+Acolo lacrimi pier
+Vor fi doar bucurii

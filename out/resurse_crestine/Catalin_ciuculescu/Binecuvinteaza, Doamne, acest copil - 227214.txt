@@ -1,0 +1,17 @@
+[title]
+Binecuvinteaza doamne acest copil {author: {Cătălin Ciuculescu}, {rcId: {227214}}
+
+[sequence]
+v1,c
+
+[v1]
+Binecuvintează, Doamne-acest copil
+Și ține-l Tu în mâna Ta
+Binecuvintează viitorul lui
+Păzește-l Tu prin mila Ta.
+
+[c]
+Ascultă-l când se va ruga
+Răspunde-i când Te va chema
+Ajută-l când îi va fi greu
+Păzește-l, în numele Tău.

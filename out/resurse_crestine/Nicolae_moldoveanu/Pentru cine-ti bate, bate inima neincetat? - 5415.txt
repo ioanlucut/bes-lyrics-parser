@@ -1,0 +1,35 @@
+[title]
+Pentru cine-ti bate bate inima neincetat? {author: {Nicolae Moldoveanu}, {rcId: {5415}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Pentru cine-ți bate, bate
+Inima neîncetat?
+/: Care doruri te frământă
+De cu zori până-nserat? :/
+
+[v2]
+Pentru cine-ți dai tu timpul
+Cu-atât foc, cu-atât avânt?
+/: Pentru ceasul cel de taină,
+Sau te-aprinzi pentru pământ?
+
+[v3]
+Pentru cine-ți dai tu timpul
+Și puterea ce o ai?
+/: Pentru lumea trecătoare
+Sau pentru eternul Rai? :/
+
+[v4]
+Pentru cine-ți arzi iubirea
+Doru-acesta de nespus?
+/: Pe-un altar zidit de oameni
+Sau pe-altarul lui Isus? :/
+
+[v5]
+Cercetează-te și-ndreaptă
+Totul, până nu-i târziu!
+/: Fă să miște-a ta ființă
+Pentru Dumnezeul viu! :/

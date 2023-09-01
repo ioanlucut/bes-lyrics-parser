@@ -1,0 +1,27 @@
+[title]
+Te rugam isus {author: {Nicolae Zamfir}, {rcId: {117699}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Te rugăm, Isus, lasă binecuvântarea,
+Te rugăm, Isus peste toată adunarea!
+
+[c]
+Doar cu Tine suntem tari,
+Fără Tine suntem slabi!
+Doar prin Duhul Tău cel Sfânt
+Noi putem avea avânt!
+Către Țara cea promisă,
+Spre Noul Ierusalim,
+Lânga Tine să ajungem
+Este tot ce ne dorim!
+
+[v2]
+Mâinile ce se ridică spre Împărăția Ta,
+Mâinile ce se înalță și cer izbăvirea Ta!
+
+[v3]
+Mulțumim de harul ce mai este printre noi,
+Mulțumim de bucuria vieții care este în noi!

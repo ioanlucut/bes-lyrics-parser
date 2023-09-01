@@ -1,0 +1,30 @@
+[title]
+Marit biruitor isus {author: {Nicolae Moldoveanu}, {rcId: {63944}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mărit biruitor, Isus,
+Oștiri de mii de mii
+Îți cântă jos, Îți cântă sus,
+Pe veci de veșnicii.
+
+[c]
+’
+Nălțând mărire Ție
+Cu-al îngerilor cor,
+Noi Îți cântăm și ne-nchinăm,
+Măreț biruitor!
+
+[v2]
+Mărit fii Tu, cel ce murind
+Din morți ne-ai înviat.
+În veci mai mult iubit fiind
+Vei fi mai mult ’nălțat.
+
+[v3]
+Mărit fii Tu căci crucea Ta
+E-al biruinței semn
+Toți cei ce cred primesc prin ea
+Putere și îndemn.

@@ -1,0 +1,32 @@
+[title]
+Raul vietii curge prin mijlocul cetatii {author: {Alexandru Groza}, {rcId: {74249}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Râul vieții curge prin mijlocul cetății,
+E râul ce face minuni,
+Acest râu e viața cu apa cristalină,
+El curge și pentru tine.
+
+[c]
+Râul vieții curge și pentru tine
+El curge ne-ncetat pentru salvarea ta
+El face minuni cu cei păcătoși
+El vindecă sufletul
+/: Râu binecuvântat :/
+Apă cristalină ce curge în dar,
+Ea vindecă sufletul.
+
+[v2]
+În mijlocul râului este pomul vieții
+Acol’ Dumnezeu l-așezat
+Rodul lui slujește la neamuri vindecarea
+Pentru toți cei ce cred în El.
+
+[v3]
+Ți-ai spălat tu haina să intri în cetate
+Ești pregătit prietene?
+Vei putea să intri să guști din pomul vieții
+Din rodul ce ți-e pregătit.

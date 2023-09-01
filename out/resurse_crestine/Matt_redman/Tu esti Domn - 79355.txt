@@ -1,0 +1,23 @@
+[title]
+Tu esti domn {author: {Matt Redman}, {rcId: {79355}}
+
+[sequence]
+v1,v2,c
+
+[v1]
+Tu ești Domn, rege-al Gloriei
+Pe Tine te lăudăm, Isus
+Vrem să ’nălțăm Numele Tău
+Pe-ntregul Pământ și Cer
+
+[v2]
+Doar Tu ești Salvatorul
+Vreau s-alerg spre Tine
+Isus, Tu ești Fiul lui Dumnezeu
+Ești singurul rege-al meu
+
+[c]
+/: Și vreau să te slăvesc pe Tine
+Pentru tot ce ai făcut
+Mă dăruiesc doar Ție
+Isus, Ești tot ce am mai bun :/

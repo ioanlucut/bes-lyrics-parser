@@ -1,0 +1,26 @@
+[title]
+Dupa noapte vine zi dupa nori e cer senin {author: {Utu Șuteu}, {rcId: {97219}}
+
+[sequence]
+v1,b,c,v2,c
+
+[v1]
+După noapte vine zi, după nori e cer senin
+Curcubeul zarea-nseninează,
+După lacrimi, mângâieri, după iarnă primăveri
+Floarea albă câmpu-nmiresmează!
+
+[b]
+Și dacă soarele nu va mai luci,
+Și dacă stelele de sus se vor risipi...
+
+[c]
+/: În inima mea lumină va fi,
+Iubirea eternă va străluci...
+Va străluci noapte și zi.! :/
+
+[v2]
+Dacă vântul bate iar peste munții de cleștar,
+Stânca vieții mele-i neclintită.
+Bată vântul cât o vrea, stânca mea e Dragostea
+Ce-mi rămâne-n veci nebiruită!

@@ -1,0 +1,29 @@
+[title]
+O naintea fetei sale {author: {Ioan Hapca}, {rcId: {96046}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Inima-mi se bucură, sufletu-mi se veselește
+Domnu-n mâna Lui mă ține, de-orice rău mă izbăvește.
+Da! Domnul e tăria mea și Izbăvitorul meu
+El îmi netezește calea și m-ajută când mi-e greu.
+
+[c]
+/: O,’naintea Feței Sale sunt nespuse bucurii,
+Desfătări la dreapta Sa fi-vor până-n veșnicii,
+O, în Cortul Său aș vrea până-n veci să locuiesc,
+Osanale să Îi cânt, ne-ncetat să-L preamăresc. :/
+
+[v2]
+Sufletu-mi se veselește, sunt preaplin de bucurie,
+Domnul este partea mea și acum și în veșnicie.
+La lumina Feței Sale mă voi desfăta mereu
+Domnu-I moștenirea mea, lumina sufletului meu.
+
+[v3]
+Domnul e mereu cu mine și mereu mă izbăvește,
+Mă-ndreaptă pe calea vieții și nespus El mă iubește
+Nici un rău nu mă învinge fiindcă El mă ocrotește;
+Desfătarea mea e-n Domnul, sufletu-mi Îl preamărește.

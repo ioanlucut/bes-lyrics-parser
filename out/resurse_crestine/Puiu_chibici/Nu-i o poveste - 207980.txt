@@ -1,0 +1,49 @@
+[title]
+Nu-i o poveste {author: {Puiu Chibici}, {rcId: {207980}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Nu-i o poveste e-adevărat,
+Tot ce demult s-a întâmplat,
+Printr-o fecioară s-a întrupat
+Mesia Sfânt și minunat.
+Nu-i o legenda din bătrâni,
+Nici o născocire din străbuni,
+E ceea ce s-a profețit
+Din cer un Rege a venit.
+
+[c]
+/: Pace pe pământ și bună învoire
+Cântă îngerii cu cerul în unire
+Să-I cântăm și noi, mărire osana
+A Lui fie în veci, toată gloria. :/
+/: Pace pe pământ și bună învoire
+Cântă îngerii cu cerul în unire
+Să-I cântăm și noi, mărire osana
+A Lui fie în veci, toată gloria. :/
+/: Pace pe pământ și bună învoire
+Cântă îngerii cu cerul în unire
+Să-I cântăm și noi, mărire osana
+A Lui fie în veci, toată gloria. :/
+
+[v2]
+Nu-i o întâmplare, nu-i un mit
+E ceea ce s-a tot vestit,
+E-un mare har care l-am primit,
+Pentru că Tatăl ne-a iubit.
+În umilință să venim,
+Smeriți și sinceri să-I mulțumim,
+Să preamărim Cerescul Miel
+Fie slăvit Emanuel.
+
+[v3]
+Vino și tu orișicine ai fi
+La ieslea Lui te vei odihni
+Pace în inima vei primi,
+Vino acum nu mai zăbovi.
+E sărbătoare pe pământ,
+Se aude al îngerilor cânt,
+Deschide-ți astăzi inima
+Primește-n dar pe Mesia.

@@ -1,0 +1,34 @@
+[title]
+Fericire mare-avem {author: {Anonim}, {rcId: {3197}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Fericire mare-avem, Aleluia,
+Pământul sfânt îl vedem, laudă Lui!
+Din păcate am ieșit, Aleluia,
+Și spre cer noi am pornit, laudă Lui!
+
+[c]
+/: Fie crucea cât de grea,
+Jos nicicând n-o vom lăsa,
+Căci Isus ne v-ajuta laudă Lui! :/
+
+[v2]
+Aici curg lapte, miere, Aleluia,
+Noi gustăm cu plăcere, laudă Lui
+E-un pământ îmbelșugat, Aleluia
+Și e binecuvântat, laudă Lui!
+
+[v3]
+Cetăți ’nalte sunt aici, Aleluia,
+Din aur zidite sunt, laudă Lui!
+Prin credință noi venim, Aleluia,
+Și cu Domnul locuim, laudă Lui!
+
+[v4]
+Scumpă țară, sfântă ești, Aleluia,
+Sfinții-n tine adăpostești, laudă Lui!
+De departe te privim, Aleluia,
+Și mai mult noi te dorim, laudă Lui!

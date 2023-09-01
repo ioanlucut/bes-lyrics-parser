@@ -1,0 +1,47 @@
+[title]
+Cand sunt mic atunci sunt mare; {author: {Puiu Chibici}, {rcId: {3779}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Când sunt mic, atunci sunt mare;
+Cant voios, când lupta-i grea.
+Când sunt slab, atunci sunt tare,
+Căci Isus e stânca mea.
+
+[c]
+Munții de s-ar clătina
+Vânturi mari de-ar sufla
+Ape de s-ar revărsa,
+Isus, Isus ești pacea mea!
+
+[v2]
+Chiar de n-ar mai fi izvoare
+Si de sete m-aș usca,
+Si-n nevoi și-ndestulare,
+Te voi binecuvânta!
+
+[v3]
+Vânturi grele de vor bate,
+Eu mă-ncred în Dumnezeu,
+Căci, în cer, în sfânta carte
+Este scris numele meu.
+
+[v4]
+Chiar de-aș fi la strâmtorare
+Chiar și-n lanțuri de-aș fi pus
+In orice împrejurare
+Stânca mea ești tu Isus
+
+[v5]
+Pentru noi, chiar de e pace
+Pentru noi, chiar de-i război,
+Nu ne temem niciodată:
+Dumnezeu este cu noi!
+
+[v6]
+Dumnezeu, din slăvi divine,
+Sfânt, sfânt, sfânt în veci El!
+Cel ce e, a fost și vine
+E Sfântul lui israel!

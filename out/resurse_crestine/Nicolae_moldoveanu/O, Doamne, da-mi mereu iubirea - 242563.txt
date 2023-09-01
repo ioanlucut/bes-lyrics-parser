@@ -1,0 +1,30 @@
+[title]
+O doamne da-mi mereu iubirea {author: {Nicolae Moldoveanu}, {rcId: {242563}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+O, Doamne, dă-mi mereu iubirea,
+Ce poate prinde-n ea vrăjmașii,
+/: Ce-mi face limpede privirea,
+Și-n calea Ta mi-ndreaptă pașii. :/
+
+[v2]
+Dă-mi Tu înțelepciunea care
+Cu Adevărul mă încinge,
+/: Cu zel m-aprinde în Lucrare,
+Și focul rătăcirii-I stinge. :/
+
+[v3]
+Și dă-mi puterea cea din Tine,
+Să biruiesc orice ispită,
+/: Să ’naintez spre zări senine,
+’
+Nălțând dreptatea Ta slăvită. :/
+
+[v4]
+Cu harurile Tale sfinte,
+Îmi umple zilnic Tu ființa,
+Să pot trăi-mplinind, Părinte,
+Cuvântul Tău, cum Ți-e dorința!

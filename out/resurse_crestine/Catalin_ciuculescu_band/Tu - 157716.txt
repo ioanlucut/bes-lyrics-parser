@@ -1,0 +1,26 @@
+[title]
+Tu {author: {Cătălin Ciuculescu Band}, {rcId: {157716}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Tu faci negrul să fie alb
+Și faci negura să se transforme în zi.
+Tu faci frigul să fie cald,
+Dai culoarea albastru cerului gri
+Tu, Tu.
+
+[v2]
+Tu faci vechiul să fie nou
+Și lipești înapoi unde unii au spart,
+Faci din omul cel slab, un erou,
+Tu-l ridici în picioare pe cel aplecat
+Tu, Tu.
+
+[v3]
+Tu iei spinii și-i schimbi în flori,
+Tu speli ce e murdar și devine curat,
+Tu faci greul să fie ușor,
+Faci o poartă în locul unde e gard
+/: Tu, Tu. :/

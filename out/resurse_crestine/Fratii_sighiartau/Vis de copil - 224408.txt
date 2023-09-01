@@ -1,0 +1,37 @@
+[title]
+Vis de copil {author: {Frații Sighiartău}, {rcId: {224408}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Sunt copil și visul meu e o lume mai bună
+O lume în care să nu fie loc pentru ură
+Lume fericită - să fie un colț de rai
+Să nu mai găsim copii desculți pe stradă
+Să nu-i mai lăsăm în beznă să se piardă
+Să le fim speranță pentru viitor!
+
+[c]
+Acum e timpul nostru dragi creștini
+Acum ne cheamă Dumnezeu să fim
+/: Domnul ne-a dat poruncă drag creștine să-i iubim
+Domnul ne cheamă azi lumini să fim
+Domnul și-a dat viața pe o cruce S-a jerfit
+Fiindcă atât de mult El ne-a iubit! :/
+
+[v2]
+Doamne ajută-mă să știu cum să cresc mare
+Să întind o mână pentru fiecare
+Lumea mea să fie - plină de culori
+Biblia spune ca nu-i dragoste mai mare
+Că atunci când dăruim celui ce n-are
+Când îl ridicăm cu dragoste pe cel de jos!
+
+[v3]
+Într-o lume in care toate-s trecătoare
+Noi avem credința cea nemuritoare
+Sa vestim in lume harul ce ne-a fost adus
+Să-l chemăm pe cel mic și pe cel mare
+Să-i chemăm pe toți azi la sărbătoare
+Să ne bucurăm că suntem prin Isus salvare!

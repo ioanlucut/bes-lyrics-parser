@@ -1,0 +1,55 @@
+[title]
+Increderea {author: {Gabi Ilut}, {rcId: {224501}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Cand nu mai ai nimic de spus,
+Cand viata e o provocare,
+Cand nu astepti niciun raspuns,
+Exista totusi o salvare!
+Prietenul adevarat,
+Isus Hristos e langa tine,
+Iti spune ca nu te-a uitat,
+In ajutorul tau El vine.
+
+[c]
+Increderea, increderea
+Sa nu ti-o pierzi
+Chiar daca nu mai ai nici o speranta.
+Credinta ta, credinta ta
+In Dumnezeu,
+Iti va pastra un loc in siguranta.
+Increderea, increderea
+Sa nu ti-o pierzi
+Chiar daca nu mai ai nici o speranta.
+Credinta ta, credinta ta
+In Dumnezeu,
+Iti va pastra un loc in siguranta.
+Increderea, increderea
+Sa nu ti-o pierzi
+Chiar daca nu mai ai nici o speranta.
+Credinta ta, credinta ta
+In Dumnezeu,
+Iti va pastra un loc in siguranta.
+
+[v2]
+Cand norii nu se mai retrag,
+Sa lase loc si pentru soare,
+Cand valuri grele zilnic bat,
+Exista totusi o scapare!
+Isus Hristos e-n viata ta,
+Si stie sigur cat poti duce,
+El singur nu te va lasa,
+Cand bajbai frant la o rascruce!
+
+[e]
+Stai la loc de scapare,
+Pana trece furtuna!
+Vine ziua cand El,
+Domnul iti va intinde mana!
+Nu te pierde in noapte,
+Nu pleca fara Isus!
+Ajutorul Lui va veni,
+Cand nici nu te vei gandi!

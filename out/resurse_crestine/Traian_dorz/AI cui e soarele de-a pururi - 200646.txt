@@ -1,0 +1,41 @@
+[title]
+Ai cui e soarele de-a pururi {author: {Traian Dorz}, {rcId: {200646}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+AI cui e soarele de-a pururi,
+Și-al cui pământul, pentru veac?
+Cine-a venit aici puternic,
+Și cine n-a plecat sărac?
+
+[c]
+Cine-i pe lumea asta veșnic,
+Și ce-i aici netrecător?
+/: Ce oare e mai slab ca omul,
+Ce zboară oare mai ușor? :/
+
+[v2]
+Ce-i mai supus ca viața’n lume,
+La trecere și la dureri?
+Ce zi nu poate să aducă,
+Sfârșitul unei triste seri?
+
+[c2]
+Cine-a putut opri vreodată,
+Vreun timp și-un soare pentru el?
+/: Pentru cine-a putut să scape oare,
+De putrezirea de vreun fel? :/
+
+[v3]
+A-cui averi n-au fost trecute,
+Și-al cui lăcaș nu s-a mutat?
+A cui tărie n-a fost frântă,
+Și-acui mărire n-a’ncetat?
+
+[c3]
+Sărmane călător, ia seama,
+La câți au fost și nu mai sunt.
+/: Aceeași soart-ai și tu’n lume,
+Nu-ți crede raiul pe pământ :/

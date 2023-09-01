@@ -1,0 +1,36 @@
+[title]
+Ah cat este de frumos {author: {Anonim}, {rcId: {2108}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ah, cât este de frumos
+Să-L lăudăm pe Hristos,
+Toată ziua bunătatea Lui vestim
+Căci Tu, Doamne, ești ’nălțat
+De mărire-nconjurat
+Și noi acum cu toții Te preamărim.
+
+[c]
+Ce frumos este a cânta!
+Doamne, spre mărirea Ta,
+Pentru bunătatea Ta!
+Cât de bine-i și de frumos
+A lăuda numele lui Isus Hristos.
+
+[v2]
+Dacă cei răi înverzesc
+Și ca iarba-n câmpuri cresc,
+Este numai ca să fie nimiciți,
+Că Tu, Doamne, ești ’nălțat,
+Preamărit și onorat
+Și toți cei ce fac răul sunt risipiți.
+
+[v3]
+Ce-i mai scump tu să dorești
+Ca pe Domnul să-L mărești
+Aducându-I roade întotdeauna
+Ce este bun arătând
+Pe Părintele cel sfânt
+Lăudându-L cu fapta și cu vocea.

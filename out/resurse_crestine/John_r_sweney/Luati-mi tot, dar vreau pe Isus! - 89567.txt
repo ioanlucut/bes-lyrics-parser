@@ -1,0 +1,35 @@
+[title]
+Luati-mi tot dar vreau pe isus {author: {John R Sweney}, {rcId: {89567}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Luați-mi tot, dar vreau pe Isus,
+Bucuria mea e El!
+Pe pământ și sus în ceruri,
+Nici un nume nu-i la fel!
+
+[c]
+Ce iubire minunată!
+O, ce har nemeritat!
+Mântuire fără plată
+Eu în Domnul am aflat.
+
+[v2]
+Luați-mi tot, dar vreau pe Isus,
+El e bunul meu Păstor!
+El mă du ce la pășune,
+El mă duce la izvor!
+
+[v3]
+Luați-mi tot, dar vreau pe Isus,
+El e tot ce îmi doresc!
+Pribegind pe-această lume,
+Adăpost în El găsesc!
+
+[v4]
+Luați-mi tot, dar vreau pe Isus,
+Față-n față să-L privesc!
+Și-n a Lui Împărăție
+Eu să-I cânt și să-L slăvesc!

@@ -1,0 +1,29 @@
+[title]
+Jertfa de lauda {author: {Alexandra Luca}, {rcId: {150787}}
+
+[sequence]
+v1,b,c,e
+
+[v1]
+Speranța mea e în Domnul,
+Al meu Dumnezeu,
+Căci El S-a plecat spre mine.
+El m-a scos din groapa morții
+Și m-a ridicat,
+Pe stâncă m-a pus și viața mi-a dat!
+
+[b]
+Mi-ai pus pe buze o cântare nouă,
+De-aceea Îți voi cânta toată viața mea!
+
+[c]
+/: Să te-nalțe munții, să cânte gloria Ta,
+Să urle marea cu tot ce este în ea,
+Să bată din palme râurile,
+Ești puternic! :/
+
+[e]
+/: Ție-Ți voi cânta, Te voi lăuda,
+Ție-Ți voi cânta toată viața mea,
+O jertfă de laudă! :/
+x3

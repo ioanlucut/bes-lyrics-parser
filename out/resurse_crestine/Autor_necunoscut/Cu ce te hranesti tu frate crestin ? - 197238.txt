@@ -1,0 +1,35 @@
+[title]
+Cu ce te hranesti tu frate crestin ? {author: {Anonim}, {rcId: {197238}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cu ce te hrănești, tu frate creștin,
+Cărui Dumnezeu te închini?
+Iar gândul tău unde zboară mereu,
+Cât timp lași pentru Dumnezeu?
+
+[c]
+Cu ce te hrănești, aceea rodești,
+Din inima tu izvorăști,
+Tu dai doar ce ai, din iad sau din rai,
+Ai grija cu Domnul cum stai!
+
+[v2]
+Te crezi pocăit, dar ești împietrit,
+Ești-un perete zugrăvit.
+Vorbești din Cuvânt, dar nu îl trăiești,
+Pe Domnul ades răstignești!
+
+[v3]
+Vorbești de iubire, dar astăzi urăști,
+Pe-aproapele tău nu-l iubești.
+O, nu-ți este teamă, că mâine nu ești?
+Și vei fi cu cel ce-l slujești!
+
+[v4]
+Trezește-te azi cât încă e har,
+Iertare să ceri Domnului.
+Numai risipi viața-n zadar,
+Și vino azi la Crucea Lui!

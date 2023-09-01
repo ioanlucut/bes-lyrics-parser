@@ -1,0 +1,27 @@
+[title]
+Cand fata domnului e peste noi {author: {Text și muzica: Liviu Toma}, {rcId: {199433}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Când fața Domnului e peste noi,
+Ne bucurăm chiar și în nevoi
+Căci Domnul este totul pentru noi.
+Când El coboară într-un cămin
+Îl face rodnic și senin,
+Iar pacea Lui domnește pe deplin.
+
+[c]
+/: Cu bucurie smeriți ne’nchinăm,
+Cu mulțumire cântăm.
+Mare e Domnul și dragostea Sa,
+În veci vom cânta. :/
+
+[v2]
+Când Domnul privește spre cei smeriți,
+Le umple viața de bucurii,
+Îi binecuvintează în orice zi.
+Căminul le e plin de melodii,
+Iar inima de armonii.
+Măresc pe Domnul în fiecare zi.

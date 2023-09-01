@@ -1,0 +1,26 @@
+[title]
+Shout of the king - lauda regelui {author: {Hillsong, Traducere RO}, {rcId: {4116}}
+
+[sequence]
+v1,c,e
+
+[v1]
+Doamne te laud, și știu că meriți
+Doamne te laud, pentru ce-ai făcut
+Doamne te laud, că ești în stare
+Doamne te laud până voi birui!
+Doamne te laud plin de bucurie
+Doamne te laud când îmi este greu
+Doamne te laud, când răul atacă
+Doamne te laud până ce voi ieși!
+
+[c]
+/: Strig! către Regele gloriei.
+Ești aici, slavă Ție
+Strig! către Regele gloriei.
+Laudă-l, laudă-l
+Laudă-l în tot ce faci! :/
+
+[e]
+/: Ceruri se deschid când lăudăm
+Numele Tău sfânt îl înălțăm :/

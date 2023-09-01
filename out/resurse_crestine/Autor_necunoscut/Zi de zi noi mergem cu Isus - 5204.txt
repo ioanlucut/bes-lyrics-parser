@@ -1,0 +1,25 @@
+[title]
+Zi de zi noi mergem cu isus {author: {Anonim}, {rcId: {5204}}
+
+[sequence]
+c,c,v1,c,e
+
+[c]
+/: Zi de zi noi mergem cu Isus :/ x3
+/: Zi de zi, zi de zi, o,
+Zi de zi noi mergem cu Isus :/
+
+[b]
+Simțim iubirea Lui
+Trăim prin Duhul Sfânt
+Vestim numele Lui
+
+[v1]
+Zi de zi noi mergem cu Isus
+Zi de zi simțim iubirea Lui
+Zi de zi trăim prin Duhul Sfânt
+Zi de zi vestim numele Lui
+
+[e]
+/: Zi de zi, zi de zi, o,
+Zi de zi vestim numele Lui :/

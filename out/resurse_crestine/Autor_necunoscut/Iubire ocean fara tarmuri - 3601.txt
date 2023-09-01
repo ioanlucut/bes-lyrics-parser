@@ -1,0 +1,35 @@
+[title]
+Iubire ocean fara tarmuri {author: {Anonim}, {rcId: {3601}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Iubire, ocean fără țărmuri
+Ce cânt să-ți înalț din abis?
+Iubire, putere măreață
+Ce face din viață un vis.
+
+[c]
+Comoară de preț ești și astăzi,
+Tezaurul vieții de-apoi,
+Iubire, mireasmă divină
+Ce curge în inimi șuvoi.
+
+[v2]
+Ești darul slăvitului Mire,
+Podoaba miresei tu ești
+Ca astrele zării, mai vie,
+Iubire, mereu strălucești!
+
+[v3]
+Iubire, putere divină
+Sufletele tu le unești.
+Iubire, tu, legea cea nouă,
+Nădejdea vieții, tu ești!
+
+[v4]
+O, dă-ne veșmântul de slavă
+Iubire, căci toate cuprinzi;
+Și unde doar fumegă astăzi
+Iubire, al tău foc s-aprinzi.

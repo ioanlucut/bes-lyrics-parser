@@ -1,0 +1,29 @@
+[title]
+Cor de ingeri {author: {Anonim}, {rcId: {1264}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+Cor de ingeri canta in ceruri sus
+Glorie, Aleluia Regelui Isus!
+Bucurie mare cu toti avem;
+Isus s-a nascut in Betleem.
+
+[v1]
+Ingerii in cer, pastorii-n camp la oi,
+Mama langa iesle si Pruncul intre boi.
+Cum au profetit prorocii de demult;
+Noapte sfanta astazi, Mesia s-a nascut
+
+[v2]
+Bucurie-n ceruri, pace pe pamant,
+Lumea-ntreaga canta slava Celui Sfant.
+Asteptat de veacuri Robul Domnului
+Sa duca domnia pe umarul Lui.
+
+[v3]
+Oamenii alearga sa vada pe-mparat,
+Lumea e salvata, e scoasa din pacat.
+Vino si tu astazi, nu mai astepta
+Fa un legamant in inima ta.

@@ -1,0 +1,36 @@
+[title]
+Domnul dumnezeul sfant ti-a dat porunca {author: {Nicolae Moldoveanu}, {rcId: {5929}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Domnul, Dumnezeul sfant ti-a dat porunca,
+Omule, ce treci prin lume calator,
+Sa te pocaiesti, acum cat poti si inca
+Fiul Sau Isus e Salvator.
+
+[c]
+Spune-I Domnului ca esti un pacatos!
+Sa crezi ca-n locul tau muri Isus Hristos!
+Cere-I ca sa fii iertat de-al tau pacat!
+Domnul te iubeste: o, ce minunat!...
+
+[v2]
+Recunoaste-ti azi pacatul si regreta-l!
+El te despartea, pe veci de Dumnezeu.
+Vino la Isus Hristos! Mantuitorul
+Vina a platit in locul tau.
+
+[v3]
+Pocainta cere-apoi si renuntarea
+La trecutul ce ades te-a ruinat.
+Duhul Sfant e Cel ce face transformarea.
+Roaga-te, de vrei sa fii salvat:
+
+[c2]
+„
+Doamne, recunosc ca sunt un pacatos...
+Azi cred ca-n locul meu muri Isus Hristos.
+Multumesc ca mi-ai iertat pacatul meu!
+Fii laudat in veci, Preasfinte Dumnezeu!”

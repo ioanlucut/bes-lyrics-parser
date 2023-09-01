@@ -1,0 +1,45 @@
+[title]
+Nu te-ndoi ci crede ca dupa orice nor {author: {Nicolae Moldoveanu}, {rcId: {1796}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Nu te-ndoi, ci crede
+Că după orice nor
+E-un soare și mai dulce,
+Și mai strălucitor.
+/: Nu norul este veșnic,
+Ci soarele-i acel
+Ce-nvinge și rămâne
+Stăpân în urmă El! :/
+
+[v2]
+Nu te uita la tine,
+Că ești atât de slab,
+Nici la vrăjmașul
+Care te-ar nimici degrab.
+/: Nu te uita la ziduri,
+La porțile de fier,
+La ura ce scrâșnește,
+Ci uită-te la cer! :/
+
+[v3]
+Nu te-ndoi, ci crede
+Că dincolo de tot
+Veghează Dumnezeul
+Puternic, Savaot,
+/: Căci nici un păr nu-ți cade
+Și nici o clipă nu-i,
+Că nu-i nici o-ncercare,
+Decât prin voia Lui! :/
+
+[v4]
+Că dacă crezi puternic,
+Nimica nu-i spre rău,
+Ci totul se va-ntoarce
+Spre-un și mai bine-al tău.
+/: Nu te-ndoi, ci crede
+Că-n ceasul cel mai greu,
+Clipită de clipită
+Veghează Dumnezeu! :/

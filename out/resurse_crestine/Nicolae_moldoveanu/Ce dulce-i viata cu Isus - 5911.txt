@@ -1,0 +1,41 @@
+[title]
+Ce dulce-i viata cu isus {author: {Nicolae Moldoveanu}, {rcId: {5911}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Ce dulce-i viata cu Isus!
+Sub jertfa Lui cand te apleci,
+/: Cu El ai vrea ca sa ramai,
+In veci de veci. :/
+
+[v2]
+De ratacesti nefericit
+Si viata-n chinuri ti-o petreci,
+/: De-L ai pe Domnu,-ti da alin,
+In veci de veci. :/
+
+[v3]
+De stai intr-un bordei sarac,
+Prin mii de greutati sa treci,
+/: De-L ai pe Domnul, esti bogat,
+In veci de veci. :/
+
+[v4]
+Poti sa pierzi averi si ranguri
+Bogatii cu rodu-n spic;
+/: Daca n-ai pierdut credinta,
+Inca n-ai pierdut nimic. :/
+
+[v5]
+Dupa chip, cunosti o floare;
+Pasarile - dupa cant;
+/: Aurul - dupa culoare
+Si pe om - dupa cuvant. :/
+
+[v6]
+Isus e fericirea ta!
+O, suflete, tu nu uita!
+/: El bucurie iti va da
+In veci de veci. :/

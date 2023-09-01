@@ -1,0 +1,42 @@
+[title]
+Ce dulce nume e isus {author: {E.S.Lorenz}, {rcId: {1267}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ce dulce-i numele Isus,
+Slăvit de îngeri veșnic, sus,
+În suflet pace mi--a adus
+Scump Numele lui Isus.
+
+[c]
+„
+Isus„ Nume proslăvit,
+„
+Isus„
+Tu ne--ai mântuit,
+„
+Isus„fii de sfinți slăvit,
+De--acum și până în veci!
+
+[v2]
+Iubesc un nume minunat
+Ce toată grija mi--a luat
+Lumină sfântă azi mi--a dat
+Slăvitul nume „
+Isus„!
+
+[v3]
+Acest scump nume, când L--ascult,
+Fiori de slavă mă pătrund,
+Chiar lacrimile se ascund
+La Numele lui „
+Isus„.
+
+[v4]
+Cuvinte--alese n--am de--ajuns
+Să-nalț pe Domnul meu mai sus,
+Căci nu e nume mai presus
+Ca sfântul nume „
+Isus„!

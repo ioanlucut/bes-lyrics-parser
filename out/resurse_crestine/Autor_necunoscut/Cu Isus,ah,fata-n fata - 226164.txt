@@ -1,0 +1,31 @@
+[title]
+Cu isusahfata-n fata {author: {Anonim}, {rcId: {226164}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cu Isus, ah, fata-n fata,
+Fericit ma voi simti!
+Sa privesc o vesnicie
+Pe Cel ce m-a mantuit!
+
+[c]
+Am sa-L vad, da, fata-n fata,
+Sa ma satur de privit!
+Sus cu Domnul pe vecie
+Am sa-L vad necontenit!
+
+[v2]
+Ah, de multe ori gresit-am,
+Tare-am mai pacatuit...
+Vreau sa-L vad pe Cel ce-mi zice:
+”
+Esti iertat si esti primit!”
+
+[v3]
+Cu Isus, ah, fata-n fata,
+Ce-am sa-I spun cand L-oi vedea?
+Am sa strig cu voce tare:
+”
+Mare e iubirea Ta!”

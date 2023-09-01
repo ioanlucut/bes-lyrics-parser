@@ -1,0 +1,37 @@
+[title]
+Iata ceasul vremii suna {author: {Nicu Wagner}, {rcId: {208958}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+/: Iată, ceasul vremii sună
+Timpul de sfârșit la neamuri. :/
+Sunetul duios răzbate
+Doar la inimi descuiate;
+Prin fiori înalță toate,
+/: A vegherii sfinte flamuri. :/
+
+[v2]
+/: Iată, cesul vremii sună
+Ziua când se-ntoarce Domnul. :/
+O, biserică, te scoală
+Din păcat și amorțeală.
+Vezi de candela ți-e goală
+/: Și să nu te prindă somnul. :/
+
+[v3]
+/: Iată, cesul vremii sună
+Ora de trezire, sus! :/
+Dinspre zări vine, se-arată
+Niște pași ce se îndreaptă.
+Tu, mireasă, te deșteaptă,
+/: Căci e Mirele Isus. :/
+
+[v4]
+/: Iată, ceasul vremii sună
+Să ne-alegem, e sfârșitul :/
+Sau etern în fericire
+Sau o veșnică pieire.
+De ce-alegi, de hotărâre.
+/: O s-atârne infinitul. :/

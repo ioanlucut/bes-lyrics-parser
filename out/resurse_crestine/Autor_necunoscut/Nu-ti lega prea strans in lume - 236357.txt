@@ -1,0 +1,41 @@
+[title]
+Nu-ti lega prea strans in lume {author: {Anonim}, {rcId: {236357}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Nu-ți lega prea strâns în lume
+De nimic inima ta.
+/: Va veni-n curând și clipa
+Despărțirii, nu uita! :/
+
+[c]
+Nu-ti lega inima ta de nimic din lumea rea
+Leag-o azi de vesnicie si de-a Lui imparatie
+Vine Domnul incurand sa ne ia de pe pamant
+Suna ceasul revenirii este timpul pregatirii.
+
+[v2]
+Nu te-nchipui stăpânul
+Locului pe care stai.
+/: Va veni-n curând un altul
+Să-ți ia locul care-l ai :/
+
+[v3]
+Va veni-n curând răsplata
+Dupa fapta orisicui
+/: Tine seama de urmarea
+gândului pe care-l pui :/
+
+[v4]
+Va veni-n curând ruina
+Casei care ți-o zidești
+/: Nu uita de locuința
+Care-o ai când nu mai ești :/
+
+[v5]
+Va veni-n curând și clipa
+Intâlnirii cu Cristos
+/: Fericit vei fi văzându-L
+Că te-așteaptă bucuros :/

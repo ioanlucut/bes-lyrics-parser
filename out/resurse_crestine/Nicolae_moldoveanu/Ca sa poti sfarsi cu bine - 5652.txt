@@ -1,0 +1,35 @@
+[title]
+Ca sa poti sfarsi cu bine {author: {Nicolae Moldoveanu}, {rcId: {5652}}
+
+[sequence]
+v1,c,v2,c2,v3,c2
+
+[v1]
+Ca sa poti sfarsi cu bine
+A credintei alergare,
+Ti se cere, pan’ la capat:
+Staruinta si rabdare.
+
+[c]
+Ca sa porti izbanda-n lupta
+Adevarului cel Mare,
+Sa-ti aduni, in suflet, zilnic:
+Staruinta si rabdare!...
+
+[v2]
+Ca sa nu te copleseasca
+Vremurile de-ncercare,
+Intareste-te-n credinta,
+Staruinta si rabdare.
+
+[c2]
+Cand iti simti, pe-al vietii umar,
+Crucea mai apasatoare,
+Cere-I Domnului sa-ti dea
+Staruinta si rabdare!...
+
+[v3]
+Daca dragostea si mila-ti
+Trec prin incercari amare,
+Nu uita: atunci se cere
+Staruinta si rabdare.

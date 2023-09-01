@@ -1,0 +1,30 @@
+[title]
+La pieptul tau ma leganai {author: {Anonim}, {rcId: {851}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+La pieptul tău mă ne legănai
+Și-atât de dulce îmi cântai
+Cu multă grijă tu vegheai
+Pe mine noi mamă mă ne-ngrijeai
+
+[c]
+/: Te voi iubi :/ x3 neîncetat
+/: Te voi iubi :/ o mama mea
+Te voi iubi neîncetat
+Căci viață-n lume tu mi-ai dat
+Te voi iubi neîncetat o mama mea.
+
+[v2]
+La pieptul tău mă ne legănai
+Și somnul dulce mi ni-l vegheai
+Lui Isus mereu te rugai
+Să mă ne ia-n brațe tu doreai.
+
+[e]
+Isuse dragă te-aș ruga
+Să ai grijă de mama mea
+Să mergem toți pe calea Ta
+Până-n Împărăția Ta.

@@ -1,0 +1,20 @@
+[title]
+Nu e mort {author: {Bucuria copiilor}, {rcId: {1021}}
+
+[sequence]
+c,v1,c
+
+[c]
+Nu e mort, nu! Isus trăiește
+Nu e mort, nu! Isus trăiește
+Nu e mort, nu! Isus trăiește
+Îl simt în ființa mea.
+
+[v1]
+Din pat când mă ridic
+Îl simt în trupul meu
+Când chem numele Lui
+Nimic nu-mi pare greu
+În palme-l simt și-aplaud
+În piept îl simt și-l laud
+Îl simt în ființa mea.

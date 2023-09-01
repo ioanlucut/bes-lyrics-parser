@@ -1,0 +1,29 @@
+[title]
+Numai mama {author: {Bianca Alexa}, {rcId: {158665}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Afară e liniștit, pe cer luna s-a ivit
+Te așteaptă în tăcere să vii, numai mama,
+/: Și-n bezna aceasta grea, dorește să vii la ea
+Să știi că te așteaptă plângând, numai mama. :/
+
+[v2]
+Cu mama am locuit, bucurii am împărțit
+Cântări care-mi cânta numai mama.
+/: În toți acești ani, în toți acești ani,
+Nimeni un sfat nu-mi da, numai mama. :/
+
+[v3]
+Și dacă vei vrea cândva, să pleci de lângă ea,
+Să știi că te va aștepta, numai mama;
+/: Un rău de te va lovi, mama să știi va veni
+Să-ți șteargă din ochi lacrima, numai mama. :/
+
+[v4]
+Vedeam deseori cum ea pentru mine se ruga,
+Dorea să trăiesc credincios lângă Domnul;
+/: De tânăr să mă păstrez, și pe Domnul să-L urmez
+Și-n cer mă voi bucura pe vecie. :/

@@ -1,0 +1,51 @@
+[title]
+Multumesc {author: {Persida Mureșan}, {rcId: {194159}}
+
+[sequence]
+v1,c,v2,c2,c3
+
+[v1]
+Neprihănita-ți jertfă
+Și calvarul cel greu
+Îmi aduce în viața mea un har.
+
+[c]
+Mulțumesc îți voi spune
+Îți mulțumesc și cu viața
+Te voi iubi mereu,
+Și pe sfânt altar
+Voi jertfi a inimii rod.
+Mulțumesc îți voi spune
+Îți mulțumesc și cu viața
+Te voi iubi mereu,
+Și pe sfânt altar
+Voi jertfi ne-ncetat.
+
+[v2]
+Neprihănita-ți jertfă
+Numele sfânt Isus
+Mă ridică, îmi dă puteri nespus.
+
+[c2]
+Mulțumesc îți voi spune
+Îți mulțumesc și cu viața
+Te voi iubi mereu,
+Și pe sfânt altar
+Voi jertfi a inimii rod.
+Mulțumesc îți voi spune
+Îți mulțumesc și cu viața
+Te voi iubi mereu,
+Mântuirea Ta
+Îmi dă har de neprețuit!
+
+[c3]
+: Mulțumesc îți voi spune
+Îți mulțumesc și cu viața
+Te voi iubi mereu,
+Și pe sfânt altar
+Voi jertfi a inimii rod.
+Mulțumesc îți voi spune
+Îți mulțumesc și cu viața
+Te voi iubi mereu,
+Te voi aștepta
+Domnul meu minunat!

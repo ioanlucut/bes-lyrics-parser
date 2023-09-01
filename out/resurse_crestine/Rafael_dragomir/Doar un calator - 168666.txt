@@ -1,0 +1,32 @@
+[title]
+Doar un calator {author: {Rafael Dragomir}, {rcId: {168666}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ca și ziua dintr-un an,
+ca și timpul unui gând,
+E viața ce o am, așa trecător eu sunt...
+Ca și valul din ocean, ca și iarba de pe câmp,
+E viața ce o am, așa trecător eu sunt!
+
+[c]
+Sunt un călător, o frunză pe pământ...
+Nu am rădăcini și nu le vreau de pe pământ!
+Doar un călător, un trecător,
+Nu mă ancorez în timp că trece ca în zbor.
+
+[v2]
+Ca și lacrima pe-obraz, ca și floarea din mormânt
+E viața ce o am, așa trecător eu sunt...
+Timpul nu pot controla și nu pot să mă ascund,
+Așa-i viața ce o am căci eu pot pleca oricând.
+
+[v3]
+Ca și apa din Iordan, ca și sunetul în câmp,
+Ca și roua de pe deal, ca și stropul ploii sunt...
+O suflare, un moment, o secundă din minut,
+Așa-i viața ce o am, așa trecător eu sunt...
+Totuși multe planuri am, totuși multe-mi trec prin gând,
+Însă ce se va-mplini este planul Domnului.

@@ -1,0 +1,29 @@
+[title]
+Cum doreste cerbul apa vie {author: {Fratii din Bacesti}, {rcId: {179566}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Cum dorește cerbul apa vie
+Sufletul meu tânjește după Tine!
+Atunci când beau, Doamne, din apa Ta,
+Mi se răcorește inima! :/
+
+[c]
+/: Îți cântăm, Doamne, de bucurie
+Că ne-ai dat să bem din apa vie!
+Ne-ncetat Tu ne-ai adăpat
+Din izvorul minunat! :/
+
+[v2]
+/: Domnul Isus este un izvor
+Plin de pace și viață dătător!
+El ne satură din apa vie
+Setea sufletului pe vecie! :/
+
+[v3]
+/: Omule dacă ești însetat
+Vino la izvorul sfânt, curat!
+Dacă bei acum din apa Sa
+Niciodată nu vei înseta! :/

@@ -1,0 +1,35 @@
+[title]
+Pe drumul vietii multe lupte sunt {author: {Frații Strugariu}, {rcId: {211972}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pe drumul vieții
+Multe lupte sunt de dus.
+De vrei biruință,
+Ochii ți-i îndreaptă sus.
+Tu ai nevoie de puterea lui Isus.
+Tu ai nevoie de iubirea lui Isus.
+
+[c]
+Toți avem nevoie de puterea lui Isus!
+Toți avem nevoie de iubirea lui Isus!
+Atinge Doamne pe acei ce sunt zdrobiți!
+Ridică Doamne pe acei ce sunt căzuți!
+
+[v2]
+Grijile te apasă
+Zi de zi in viața ta.
+Nu mai ai speranță
+Și nu poți înainta.
+Tu ai nevoie de puterea lui Isus.
+Tu ai nevoie de iubirea lui Isus.
+
+[v3]
+Vino azi la Domnul!
+Vino cu povara ta!
+Vino să îți spele
+Pe deplin viața ta.
+Tu ai nevoie de puterea lui Isus.
+Tu ai nevoie de iubirea lui Isus.

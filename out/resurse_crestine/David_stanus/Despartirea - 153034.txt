@@ -1,0 +1,35 @@
+[title]
+Despartirea {author: {David Stănuș}, {rcId: {153034}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Azi se rostește mult prin tribunale
+Cuvântul tragic sunteți divorțați
+/: Ai milä Doanmne, să nu meargă-n ele
+Surorile sau scumpii noștri frați. :/
+
+[c]
+Că Dumnezeu urăște despărțirea
+Pe drumul care cândva ați pornit,
+Și-nfășurați-vă din nou iubirea
+Mai este azi la fel ca la început.
+
+[v2]
+De vină poate fi societatea
+Imaginea femeii a crescut
+/: Azi pot conduce state sau guverne
+Degeaba, când căminul l-au pierdut. :/
+
+[v3]
+De vină poate fi comunicarea
+Sau poate că trăiești cu-atâta stres
+/: Și dacă vrem găsim mii de motive,
+Degeaba când Îl pierzi pe Cel ales. :/
+
+[v4]
+Când Dumnezeu conduce azi viața
+Unor creștini ce i-a salvat prin har,
+/: Ei nu vor merge, Doamne, niciodată
+Să divorțeze pe la tribunal. :/

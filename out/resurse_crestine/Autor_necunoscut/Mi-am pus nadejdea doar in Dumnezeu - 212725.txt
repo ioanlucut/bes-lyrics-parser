@@ -1,0 +1,52 @@
+[title]
+Mi-am pus nadejdea doar in dumnezeu {author: {Anonim}, {rcId: {212725}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Mi-am pus nădejdea doar in Dumnezeu
+Mi-a ascultat suspinul glasul meu
+M-a scos din groapa morții de păcat
+Viața noua mi-a dat
+Un cântec nou in gura El mi-a pus
+Sa pot sa-i cant aici si-n ceruri sus
+Îmi pun nădejdea doar in Dumnezeu
+Liber sunt doar prin El
+
+[c]
+/: Primește Doamne azi, închinarea mea
+Plina de lauda îmi este inima
+Caci Harul Tău viața mi-a schimbat
+Azi mâinile îmi înalt caci Tu m-ai salvat
+Ești măreț ești minunat :/ x2
+/: Primește Doamne azi, închinarea mea
+Plina de lauda îmi este inima
+Caci Harul Tău viața mi-a schimbat
+Azi mâinile îmi înalt caci Tu m-ai salvat
+Ești măreț ești minunat :/ x2
+/: Primește Doamne azi, închinarea mea
+Plina de lauda îmi este inima
+Caci Harul Tău viața mi-a schimbat
+Azi mâinile îmi înalt caci Tu m-ai salvat
+Ești măreț ești minunat :/ x2
+Azi mâinile îmi înalt caci Tu m-ai salvat
+Ești măreț ești minunat
+
+[v2]
+Mi-am pus nădejdea doar in Dumnezeu
+Mi-a ascultat suspinul glasul meu
+M-a scos din groapa morții de păcat
+Viața noua mi-a dat
+Piciorul meu pe stanca El mi-a pus
+Nu mai privesc in jos privesc in sus
+Îmi pun nădejdea doar in Dumnezeu
+Liber sunt doar prin El
+
+[e]
+Eu cânt de bucurie, cânt căci marea Ta iubire
+Prin jertfa de pe cruce am aflat
+Mi-ai dat un semn s-am viată,
+Iubirea Ta de Tata, cânt eu n-am cuvinte Doamne
+Să pot să iți mulțumesc, acum
+Să pot să iți mulțumesc

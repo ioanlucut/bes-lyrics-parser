@@ -1,0 +1,29 @@
+[title]
+Viata e scurata e ca o floare {author: {Maria Șimon}, {rcId: {208749}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Sunt călator spre alte zări spre-o veșnicie
+Spre-o primăvară ce niciodat’nu s-a sfârși
+Pășesc cu dor spre-o nouă Țară ce-i pregătită
+De-un Fiu de Rege ce la Golgota pentru mine a murit
+
+[c]
+Viața e scurată, e trecătore, e ca o floare
+Prin traiul tău, tu răspândești parfumul frumos
+Întreabă-te azi unde va duce a ta umblare
+Duce spre cer, spre veșncia unde-i Hristos?
+
+[v2]
+Zilele trec, anii ne duc dincol’ de tărmuri
+Spre-un nou liman ce-i pregătit, un nou tărâm
+Spre un pământ făgăduit de Cel ce-odată
+La Golgota viața-n dar ne-a dăruit
+
+[v3]
+Cu orice clipă ce trece azi tu te întreabă
+Unde va duce drumul tău când s-a sfârși?
+Vei ancora în portul sfânt pentru vecie
+Sau în amar sufletul tău va chinui

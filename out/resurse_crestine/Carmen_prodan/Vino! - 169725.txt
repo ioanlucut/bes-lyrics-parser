@@ -1,0 +1,29 @@
+[title]
+Vino {author: {Carmen Prodan}, {rcId: {169725}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cât ușa mântuirii e deschisă,
+Întoarce-te acum la Domnul tău!
+/: E încă Salvator și te mai cheamă,
+Nu amâna, să vii la Dumnezeu! :/
+
+[c]
+Vino, azi te cheamă El!
+Domnul, Tatăl tău din cer!
+Vino, de pe căi pustii,
+Vino, mântuit să fii!
+
+[v2]
+O, prieten drag, auzi cum El te cheamă,
+Primește-L cât mai e Mântuitor!
+/: Mai este Har, Isus e plin de milă,
+Dar în curând va fi Judecător! :/
+
+[v3]
+În ceruri este mare bucurie
+Când la Isus se-ntoarce un păcatos!
+/: N-ai vrea să locuiești cu El în slavă?
+Să fii mireasa scumpă-a lui Hristos? :/

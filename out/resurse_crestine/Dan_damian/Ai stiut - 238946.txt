@@ -1,0 +1,41 @@
+[title]
+Ai stiut {author: {Dan Damian}, {rcId: {238946}}
+
+[sequence]
+v1,v2,c,c2
+
+[v1]
+Ai știut, pământul îți va da
+O iesle, un mormânt, o cruce
+Ai știut, că te va aștepta
+Coroana cea de spini cu sânge
+Ai știut, că în cruzimea lor
+Romanii îți vor bate-n mâini piroane
+Dar ne-a iubit și ai venit
+În umilință din a Ta splendoare
+
+[v2]
+Ai știu, pe cruce un tâlhar
+Va fi el primul rod al suferinței
+Ai știut, că omul păcătos
+Va crede-n Tine în harul pocăinței
+Ai știut, din morți vei învia
+Și Te vei înălța din nou la Tatăl
+Prin Duhul Sfânt Tu vei domni
+În inima ce Ție ți-este dată
+
+[c]
+/: Iertat și mântuit, de Domnul sunt iubit
+Prin jertfa din Calvar, mi-ai dat mult har
+Iertat și mântuit, de Domnul sunt iubit
+Prin jertfa din Calvar, mi-ai dat mult har :/
+
+[c2]
+Ai știut, Mireasă vei avea
+Și într-o zi cu Tine va fi-nslavă
+Cuvântul Tău vei împlini
+O, vino Doamne vino mai degrabă
+Ai știut, Mireasă vei avea
+Și într-o zi cu Tine va fi-nslavă
+Cuvântul Tău vei împlini
+/: O, vino Doamne vino mai degrabă :/

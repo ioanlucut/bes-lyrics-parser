@@ -1,0 +1,53 @@
+[title]
+Adesea ispita ma-nvinge {author: {Nicolae Moldoveanu}, {rcId: {5638}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Adesea ispita ma-nvinge,
+Adesea cad iarasi zdrobit
+Si pumnii-mi bat pieptul intruna,
+In planset amar si cumplit.
+
+[c]
+/: Mi-e fata trecuta-n durere;
+Cararea, urcusul e greu...
+Ce-as face, Isus, fara Tine,
+De n-ai fi Tu, sprijin mereu? :/
+
+[v2]
+Cand vine ispita-n puhoaie,
+Cand valul se-nalta-nspumat,
+Aproape Te simt, langa mine;
+Aproape raman, ne’ntinat.
+
+[c2]
+/: De urla furtuna in juru-mi,
+In noaptea de chin si amar,
+Eu stau cu privire-atintita
+La cruce, la jertfa-n Calvar. :/
+
+[v3]
+Acolo furtuna se curma,
+Acolo e pace din plin;
+M-aplec langa poala-I tacuta
+Si-I spun tot amaru-n suspin.
+
+[c3]
+/: Apoi, imi inalt iar privirea
+Senina ca cerul acum;
+Pot iar ca sa merg inainte,
+Sa-nving suferinta pe drum. :/
+
+[v4]
+Pot, iarasi, iubirea-Ti adanca
+S-o spun, s-o vestesc ne’ncetat
+Si crucea o pot duce singur
+Cum Domnul odat-a purtat.
+
+[c4]
+/: Ispite-au fost si-or sa mai fie
+C-asa este drumul in sus;
+Invinge-voi totul, fii sigur,
+Te-ncrede mereu in Isus! :/

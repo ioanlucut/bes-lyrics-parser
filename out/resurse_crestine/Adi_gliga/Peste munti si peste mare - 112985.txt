@@ -1,0 +1,29 @@
+[title]
+Peste munti si peste mare {author: {Adi Gliga}, {rcId: {112985}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+Peste munți și peste mare
+Peste tot ce e sub soare
+Tu ești rege, Tu ești Domn
+Tu ești veșnic Creator.
+
+[v1]
+Orice voi înfrunta
+Sunt în mâna Ta
+Tu mă vei păzi
+Zilnic văd în viața mea
+Îndurarea Ta
+Simt că mă iubești
+Știu că Tu domnești.
+
+[v2]
+Și oriunde-aș alerga
+N-am să pot afla
+Mântuirea Ta
+Nu există pe Pământ
+Nici un loc mai sfânt
+Ca-n prezența Ta
+Doar Prezența Ta.

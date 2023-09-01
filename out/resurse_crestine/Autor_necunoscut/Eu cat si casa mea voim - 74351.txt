@@ -1,0 +1,29 @@
+[title]
+Eu cat si casa mea voim {author: {Anonim}, {rcId: {74351}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Eu cât și casa mea voim,
+O, Doamne, ca să Te slujim!
+/: Te rog să-mi dai puterea Ta,
+Să Te servesc cu viața mea :/
+
+[v2]
+M-ajută, Doamne, să iubesc
+Pe-ai mei și să le dovedesc,
+/: O pildă bună, cum Tu vrei,
+Să fie ucenicii Tăi :/
+
+[v3]
+Eu mă gândesc neîncetat
+Că eu și toți ce mi i-ai dat;
+/: Supuși, uniți să viețuim,
+Și Ție, Doamne, să-Ți servim :/
+
+[v4]
+Drept jertfă Ție mă predau,
+Ai Tăi pe veci să fim, eu vreau,
+/: Ascultă, Doamne, ruga mea,
+Dă binecuvântarea Ta :/

@@ -1,0 +1,58 @@
+[title]
+An de an {author: {Nicolae Moldoveanu}, {rcId: {145443}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+An de an, an de an
+Bate vântu-n grâu pe lan.
+Spic de spic se țin în vânt,
+Cine-i singur cade frânt.
+Trece vântul, n-au nimic
+Parcă te privesc și zic:
+Dar tu ai, dar tu ai,
+Frate drag, un bob în spic?
+
+[v2]
+Săptămâni, săptămâni,
+Cearcă lupul pe la stâni;
+Dă târcoale, hăulind:
+„
+Ia să văd ce pot să prind!”
+Ba vrea oaie, ba vrea miel,
+Nu le dă Emanuel.
+Dar tu sai, dar tu sai
+Să pui pieptul lângă El?
+
+[v3]
+Ceas de ceas, ceas de ceas,
+N-au albinele popas;
+Toate zboară și zoresc,
+În cămară toate cresc.
+Numai trântorul, haihui,
+Strică mierea-n jurul lui.
+Tu zorești, tu zorești?
+Ești albină sau ce ești?
+
+[v4]
+În curând, în curând
+Vom da seama rând pe rând:
+„
+Tu păstor, tu ucenic,
+Unde-s boabele din spic?
+Tu, plugar, tu, învățat,
+Câtă miere-ai adunat?
+Ce-ai făcut, ce-ai făcut
+Cu talantul ce ți-am dat?”
+
+[v5]
+„
+Doamne sfânt, Doamne sfânt,
+N-am fost mare pe pământ.
+Tu, Stăpânul meu prea-nalt,
+Mi-ai dat mie un talant.
+Eu prin griji și prin nevoi,
+Ți-am adus acuma doi.”
+- Așa da! Așa da!
+O cetate-acum e-a ta!

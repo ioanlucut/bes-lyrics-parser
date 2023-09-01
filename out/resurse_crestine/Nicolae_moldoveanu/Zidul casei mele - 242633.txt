@@ -1,0 +1,60 @@
+[title]
+Zidul casei mele {author: {Nicolae Moldoveanu}, {rcId: {242633}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+Zidul casei mele
+Vreau întâi a-l drege,
+Să nu intre fiara
+Cea fărădelege;
+/: Mielușeii să-i sfâșie,
+Fiara fără lege! :/
+
+[v2]
+Dup-aceea brațu-mi
+Altora s-ajute,
+Să ridice ziduri Sparte și căzute;
+/: Cu blândețe să ridice
+Ziduri greu căzute! :/
+
+[v3]
+Grija cea dintâie,
+Dorul ce mă poartă.
+E s-alung păcatul,
+Când îmi bate-n poartă;
+/: Să-I cunosc și-apoi să-l birui,
+Când îmi bate-n poartă. :/
+
+[v4]
+Ca să pot în juru-mi
+Priveghea cu teamă,
+Sufletele care
+Uită să ia seamă;
+/: Pe cărarea mântuirii,
+Când nu bagă seamă! :/
+
+[v5]
+Să nu-nvăț pe nimeni
+Numai cu vorbirea,
+Ci prin viața-mi nouă
+Să duc mântuirea;
+/: Prin trăirea-nvățăturii,
+Să duc mântuirea! :/
+
+[v6]
+Doamne, Domnul milei,
+Dă-mi un duh cucernic,
+Cauza cea sfântă,
+S-o vestesc puternic;
+/: Dintr-o inimă curată,
+S-o vestesc puternic! :/
+
+[v7]
+Să Te-ncrezi în mine,
+Pururea prin lume,
+Fruntea mea să poarte,
+Scris Slăvitu-Ți Nume,
+/: Prin lumină să-Ți înalțe
+Dulcele Tău Nume. :/

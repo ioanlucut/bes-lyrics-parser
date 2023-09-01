@@ -1,0 +1,29 @@
+[title]
+Nu pot singur sa naintez (the things i cannot do alone) {author: {Albert E. Brumley, Traducere RO}, {rcId: {211438}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Domnul meu, nu vin cu altă rugă
+În dorința mea să Te urmez
+Mai degrabă-Ți cer a Ta povață
+Căci nu pot singur să ’naintez!
+
+[c]
+Nu-Ți cer puteri să mut din loc un munte
+Nici bogăția lumii s-o păstrez
+Îți cer să-mi dai curajul vieții sfinte
+Căci nu pot singur să ’naintez!
+
+[v2]
+Când dureri și lipsuri mă doboară
+Către tronul Tău de har eu vin
+Îndurarea Ta, Te rog, coboară
+Căci nu pot singur să mă ridic!
+
+[v3]
+Când pe drum slăbește-a mea voință
+Și când lumea vrea să mă întorc
+Eu Te chem să-mi fii Tu călăuză
+Căci nu pot singur s-ajung la țărm!

@@ -1,0 +1,41 @@
+[title]
+Cand esti cazut in neagra disperare {author: {Puiu Chibici}, {rcId: {129451}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Când ești căzut în neagră disperare,
+Când rătăcești și nu-ți ști calea ta,
+Când copleșit ești de îngrijorare
+Privește sus la dealul Golgota.
+
+[c]
+Nu dispera când greul te apasă,
+Vine Isus, și vei pleca acasă,
+Nu dispera când greul te apasă,
+Vine isus, și vei pleca acasă.
+
+[v2]
+Când lacrimi de dor și întristare
+Brăzdează chipul tău de-atâția ani
+Să-ți amintești acele clipe-amare
+Când plâns-a Domnul tău în Ghetsimani.
+
+[v3]
+Pierdut-ai tot ca Iov cel din vechime
+Pe-aceia dragi și tot ce-ai adunat
+Dar a rămas alături lângă tine
+Isus Hristos, un Frate-adevărat.
+
+[v4]
+De ce să plângi când vara e aproape
+Și se zăresc de-acum ai zilei zori
+Când nu mai e decât puțin din noapte
+Și iată, vine Mirele pe nori.
+
+[v5]
+Să-ți amintești întotdeauna frate
+C-alăturea de tine e Hristos
+E umbra ta, pe mâna ta cea dreaptă
+El e susurul blând, sfânt și duios.

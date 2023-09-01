@@ -1,0 +1,29 @@
+[title]
+Salvat ce frumoasa cantare {author: {Anonim}, {rcId: {215228}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Salvat, ce frumoasă cântare
+Salvat prin sfânt sângele Său,
+Salvat prin a Sa milă mare
+Pe veci sunt copilul Său!
+
+[c]
+Salvat, salvat
+Salvat prin sângele său
+Salvat prin a sa milă mare
+Pe veci sunt copilul Său!
+
+[v2]
+Nu-i grai ce-ar putea să cuprindă
+Pacea din sufletul meu
+Căci slava prezenței Sale
+O port în mine mereu.
+
+[v3]
+Cu El veșnicia în slavă
+Cu Domnul meu cel adorat
+Ce zilnic pe brațe mă poartă
+Eu laudă-i cânt ne-ncetat

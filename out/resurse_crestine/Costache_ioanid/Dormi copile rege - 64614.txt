@@ -1,0 +1,54 @@
+[title]
+Dormi copile rege {author: {Costache Ioanid}, {rcId: {64614}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7,v8
+
+[v1]
+Dormi, Copile-Rege,
+Domn și rob sub Lege,
+Slugă fără plată,
+Prunc la piept și Tată.
+
+[v2]
+Dormi, Odraslă mică,
+Maica Ta Ți-e fiică.
+Dormi ușor la sân,
+Roadă și Stăpân.
+
+[v3]
+Dormi ușor, Copile
+Troienit de zile,
+Înger de departe,
+Preot fără moarte.
+
+[v4]
+Tu vii din Lumină,
+Eu, de jos, din tină.
+Tu, din Raiul sfânt,
+Eu, de pe pământ.
+
+[v5]
+Dormi, Copil de taină,
+Bogat fără haină,
+Păstor fără stână,
+Logos în țărână.
+
+[v6]
+Mama îți dă hrană,
+Tu îi dai coroană.
+Mama-Ți dă alin,
+Tu-i dai chip divin.
+
+[v7]
+”
+Dormi, Copil-Durere,
+Miel pentru junghiere.
+Eu Te cresc spre cruce.
+Tu, spre cerul dulce.
+
+[v8]
+Eu Te cresc să sângeri,
+Tu mă crești spre îngeri.
+Maica ție-s eu
+Tu mi-ești Dumnezeu!”

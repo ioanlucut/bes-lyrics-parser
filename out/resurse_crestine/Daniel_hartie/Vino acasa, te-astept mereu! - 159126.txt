@@ -1,0 +1,41 @@
+[title]
+Vino acasa te-astept mereu {author: {Daniel Hartie}, {rcId: {159126}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Vino acasă, te-aștept mereu...
+Mi-e dor de tine, o, fiul Meu!
+/: Pribeag prin lume nemângâiat
+Vino acasă, căci te-am iertat! :/
+
+[c]
+O, Fiul Meu, o, Fiul Meu,
+Te-aștept și zi și noapte tot mereu,
+De atunci de când tu ai plecat...
+Suspin de dorul tău neîncetat!
+
+[v2]
+În lumea mare tu ai plecat...
+Lăsând un suflet îndurerat,
+/: Plin de iubire te-aștept să vii
+Vino acasă, nu zăbovii! :/
+
+[c2]
+O, Fiul Meu, o, Fiul Meu,
+Întoarce-te acum la Tatăl tău,
+Să-ți vii în fire, nu mai sta!
+Revino, te astept, în casa Mea!
+
+[v3]
+Răsună glasul cel părintesc...
+De-atâta vreme nu-l înțelegi,
+/: Chemarea sfântă de Dumnezeu
+Nu o respinge amicul meu! :/
+
+[c3]
+Acum cât vocea lui Hristos
+Te cheamă, vino, suflet păcătos!
+Vino, ca fiul cel pierdut,
+Să-ți pară rău, să-ți plângi al tău trecut!

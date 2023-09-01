@@ -1,0 +1,29 @@
+[title]
+Tu de ce nu vrei {author: {Ionel Saran Bochis}, {rcId: {93477}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Tu de ce nu vrei astăzi cu Isus
+Pe acest pământ ca să fii mereu
+Inima și toată viața ta
+Dă-i lui Isus nu îl refuza.
+
+[c]
+/: Azi Inima ți-o deschide
+Nu mai stă în nepăsare
+Demult te-așteaptă-ntruna
+De ce nu vrei să vii :/
+
+[v2]
+Pentru tine o sufletul meu
+Mâinile el și-a întins pe cruce
+Că să-ți facă drum pe cale
+Și în Cer El te va duce
+
+[v3]
+Azi Isus la ușă-ți bate
+O deschide-i tu degrabă
+El te duce-n fericire
+Și-n scăpare de necaz

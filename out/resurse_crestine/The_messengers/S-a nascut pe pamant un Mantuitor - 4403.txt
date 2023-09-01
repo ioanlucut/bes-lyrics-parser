@@ -1,0 +1,21 @@
+[title]
+S-a nascut pe pamant un mantuitor {author: {The Messengers}, {rcId: {4403}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+/: S-a născut pe pământ un Mântuitor,
+E Isus, Pruncul Sfânt, Domn triumfător. :/
+
+[v2]
+/: Au venit trei magi, și s-au închinat,
+Aur smirnă și tămâie lui Isus I-au dat. :/
+
+[v3]
+/: Domnul meu vin și eu să-Ți aduc în dar,
+Viața și inima mea, este tot ce am. :/
+
+[v4]
+/: Să-I cântăm glorie, în veci Lui Isus,
+Pentru noi El s-a născut pace ne-a adus. :/

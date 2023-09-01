@@ -1,0 +1,31 @@
+[title]
+Vine cu marire {author: {Nicu Wagner}, {rcId: {61671}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ne cheamă Dumnezeu pe toți
+La lucrul sfânt, în via Lui!
+Veniți, azi, tineri, să lucrați!
+Se-aud clar pașii Domnului!
+
+[c]
+Vine cu mărire, pentru răsplătire,
+Privegheați în așteptarea Sa!
+”
+Vino, Doamne Isus!”, strigă mîntuiții
+”
+Ție Îți cântăm! Aleluia!”
+
+[v2]
+Ce trist c-atâția ațipesc
+Și rătăcesc pe drumul greu!
+Dar toți cei ce Te părăsesc
+Rămân străini de Dumnezeu.
+
+[v3]
+Să-L așteptăm, e pe-nserat.
+Curând va răsări, frumos,
+Luceafărul Cel Minunat,
+Slăvitul Domn, Isus Hristos!

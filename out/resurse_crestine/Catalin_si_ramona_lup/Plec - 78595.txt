@@ -1,0 +1,29 @@
+[title]
+Plec {author: {Cătălin și Ramona Lup}, {rcId: {78595}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Când îmi vine ceasul plec.
+Atunci un lucru mai contează
+Am trăit Isuse cum ai vrut?
+Am trăit în Adevar?
+
+[c]
+Când îmi vine ceasul plec,
+Nu mă-ntreabă de-am fost gata.
+De aceea azi m-opresc să-ntreb
+Oare viața mea-i a Ta?
+
+[v2]
+Doamne-n mila Ta ne chemi
+Să trăim o viață sfântă.
+Să-nțelegem ce este de preț
+Și ce este trecător!
+
+[c2]
+Vreau să-Ți laud numele!
+Aici jos dar și în ceruri.
+Câte zile am eu Te ador
+Și când vine ceasul, plec.

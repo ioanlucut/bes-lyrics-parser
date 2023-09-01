@@ -1,0 +1,35 @@
+[title]
+E scris in sulul cartii {author: {Puiu Chibici}, {rcId: {60418}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+E scris în sulul cărții din vechime
+Așa precum profeții au profețit
+Că sus pe cerul nopții din Iudeea
+O minunată stea a răsărit.
+
+[c]
+Bethleeme, Bethleeme,
+Un sfânt soare se arată.
+Bethleeme, Bethleeme,
+O, ce veste minunată.
+
+[v2]
+Un Nume mai presus de orice nume
+Și-un har mai mare nicicând nu s-a dat,
+Răscumpărare pentru-ntreaga lume,
+Isus, Mesia, Marele-Împărat.
+
+[v3]
+Cântă atunci a cerului oștire
+Cu miile de îngeri un sfânt cor,
+Că din cer pentru-ntreaga omenire
+A coborât un sfânt Mântuitor.
+
+[v4]
+Cu îngerii și noi azi în unire
+Să-L preamărim pe Răscumpărător,
+El pace ne-a adus și fericire,
+Osana Ție, Rege-al regilor.

@@ -1,0 +1,29 @@
+[title]
+Cine oare a crezut ? {author: {Dolores}, {rcId: {111440}}
+
+[sequence]
+v1,v2,c,v3,c
+
+[v1]
+Ai fost disprețuit, de oameni părăsit,
+Om al durerii, în suferință zămislit
+Ca un Miel jertfit, fără un cuvânt
+Respins și singur pe pământ
+
+[v2]
+Te-am văzut căzut în țărână jos
+Și de la Tine privirea mi-am întors
+Credeam că ești lovit, smerit de Dumnezeu
+Dar Tu purtai păcatul meu
+
+[c]
+Cine oare a crezut în ce ni s-a vestit ?
+Cine oare-a cunoscut Glasul Celui Sfânt ?
+Ai crescut ca un lăstar pe pământ uscat,
+Lovit, respins și judecat, din moarte viață Tu ne-ai dat
+
+[v3]
+Ai fost disprețuit, de oameni părăsit,
+Om al durerii, în suferință zămislit
+Credeam că ești lovit, smerit de Dumnezeu
+Dar Tu purtai păcatul meu

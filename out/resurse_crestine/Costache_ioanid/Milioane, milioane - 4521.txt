@@ -1,0 +1,45 @@
+[title]
+Milioane milioane {author: {Costache Ioanid}, {rcId: {4521}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Sunt un firicel de floare
+Lângă crucea cu piroane.
+/: Floarea-i mică, dealu-i mare
+Ce parfum să dea o floare
+Dar ca mine Domnul are
+MILIOANE, MILIOANE. :/
+
+[v2]
+Sunt un fluier care-adună
+Rătăcite oi, sărmane.
+/: Când pe ceruri norii tună
+Cine-aude-o veste bună
+Dar ca mine-n văi răsună
+MILIOANE, MILIOANE. :/
+
+[v3]
+Sunt o rază din Golgota
+Lângă țărmuri de oceane.
+/: O scânteie-n vârf de stâncă
+Cine-o vede-n noapte-adâncă?
+Dar ca mine mai sunt încă
+MILIOANE, MILIOANE. :/
+
+[v4]
+Sunt un călător pe culme
+Străbătând meridiane.
+/: Frații mei de trup și nume
+Mă luară-n râs și glume
+Dar eu am alți frați în lume
+MILIOANE, MILIOANE. :/
+
+[v5]
+Sunt un abur care-adie
+Și se pierde prin liane.
+/: Dar în ziua ce-o să vie
+Nu un om și nu o mie,
+Ci ca mine-ar vrea să fie
+MILIOANE, MILIOANE. :/

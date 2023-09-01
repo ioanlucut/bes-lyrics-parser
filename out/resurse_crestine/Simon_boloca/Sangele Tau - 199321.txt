@@ -1,0 +1,41 @@
+[title]
+Sangele tau {author: {Simon Boloca}, {rcId: {199321}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Te laud și-Ți mulțumesc Isuse,
+Pentru iertarea ce Mi-ai dat,
+Că dintr-un rob al rătăcirii,
+M-ai făcut fiu de Împărat!
+Și astăzi sunt în haine albe,
+Dar haina sufletului meu,
+Vreau să-mi rămână alba’ntruna,
+Pân’ voi ajunge sus în cer!
+
+[c]
+/: Sângele Tău, mi-a dat Isus, viață,
+Sângele Tău, el m-a sfințit,
+Și astăzi închei legământul,
+Cu Tatăl, Fiul și cu Duhul Sfânt! :/
+
+[v2]
+Știu, vor veni, Isus pe cale,
+Ispite multe, și’ncercări,
+Eu nu mă las, de Tine, Doamne,
+Căci Tu ești al meu Salvator!
+Pe Golgota’n arșița mare,
+Viața pentru min’ Ți-ai dat,
+Și vina mea, Ai ispășit-o,
+Cu sângele-Ți nevinovat!
+
+[v3]
+Când cel rău vrea să mă doboare,
+Și-mi pune piedici în război,
+Tu să Mă’ndrepti cuvântul înspre:
+Cerești și veșnice comori!
+O, Dumnezeule Sfinte, Veșnic,
+Cu drag azi eu, îți mulțumesc,
+Căci știu că-Mi vei purta de grijă,
+Și’n rai la Tine-am să pășesc!

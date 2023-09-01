@@ -1,0 +1,27 @@
+[title]
+Ce frumos straluceste {author: {Iany și Cristina Laurenciuc}, {rcId: {176047}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ce frumos stralucește Numele-I cel mai frumos
+Pe Pământ azi se vestește: A-nviat Isus Hristos
+La mormântul din grădină pământenii dau ocol
+Credincioșii se adună să vadă mormântul gol
+
+[c]
+A-nviat! Isus trăiește! A-nviat! Hristos e viu!
+În grădina cu miresme al Său mormânt este pustiu
+
+[v2]
+Imnul sfânt al biruinței să răsune ne-ncetat
+Isus a luptat cu moartea, a învins-o! A-nviat!
+Din robia ceea haină noi am fost eliberați
+Învierea Lui ne-adună să trăim uniți ca frați
+
+[v3]
+Aici prezent la sărbătoare este chiar Isus Hristos
+Să- I cântăm cu mic, cu mare să-L slăvim pe El voioși
+Minunată-i părtășia cu al nost’ Mântuitor
+Să-I cântăm toți Aleluia, El e Domnul domnilor

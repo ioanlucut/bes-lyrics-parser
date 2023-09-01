@@ -1,0 +1,26 @@
+[title]
+O bland pastor (oh gentle shepherd) {author: {Cindy Walker, Jim Reeves, Traducere RO}, {rcId: {90324}}
+
+[sequence]
+v1,v2,v3,s
+
+[v1]
+Sunt rătăcit și fără ajutor
+Sunt ca un miel ce-i de turmă pierdut
+Nu văd cărarea către viitor
+O, Blând Păstor, pașii mei îndrumă-i Tu!
+
+[v2]
+Cu teamă-n suflet eu alerg pe drum
+Și sunt în noapte pândit de cel rău
+Răcnind, el vrea să mă înghită-acum
+O, Blând Păstor, mă păstrează-n brațul Tău!
+
+[v3]
+Isuse drag, auzi strigătul meu
+Pe-a Ta pășune mă du zi de zi
+Din apa Ta cea vie eu voi bea
+O, Blând Păstor, fericit atunci voi fi!
+
+[s]
+Domnul este Păstorul meu: nu voi duce lipsă de nimic. Psalm 23:1

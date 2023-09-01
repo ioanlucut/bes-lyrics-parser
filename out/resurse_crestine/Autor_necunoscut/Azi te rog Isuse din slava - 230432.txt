@@ -1,0 +1,33 @@
+[title]
+Azi te rog isuse din slava {author: {Autor necunoscut.}, {rcId: {230432}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Azi te rog Isuse din slavă
+să privești spre aceștia doi
+Să le dai binecuvântare
+Și-ajutorul Tău în nevoi
+Domnul meu minunat, Revars-acum
+Din bucuria Ta peste-a lor cămin
+
+[c]
+/: Da, e ușor cănd între voi este Domnul
+Vă va-nsoți în orice zi, mâna Sa :/
+
+[v2]
+Când pe marea vieții voastre
+Valul greu în voi va lovi
+Nu uitați că-n orice-ncercare
+Cu Isus puteți birui
+Domnul meu minunat, Revars-acum
+Din bucuria Ta peste-a lor cămin
+
+[v3]
+Ținta să vă fie Domnul
+Pentru El lucrați pe pământ
+Sus în cer v-așteaptă cununa
+Locul sfânt de El pregătit
+Domnul meu minunat, Revars-acum
+Din bucuria Ta peste-a lor cămin

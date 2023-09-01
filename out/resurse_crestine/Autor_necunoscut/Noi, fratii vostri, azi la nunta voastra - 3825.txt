@@ -1,0 +1,30 @@
+[title]
+Noi fratii vostri azi la nunta voastra {author: {Anonim}, {rcId: {3825}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Noi, frații voștri, azi la nunta voastră
+Venim în ceasul cel mai potrivit
+Să prezentăm cu drag urarea noastră
+Și-un „la mulți ani” din inimă pornit.
+
+[c]
+/: Deci „
+La Mulți Ani” mulți ani de-acum nainte
+și domnul să vă apere de rău
+El să-mplinească a voastră rugăciune
+Cum a promis prin sfânt cuvântul Său. :/
+
+[v2]
+Belșug în casă, multă fericire
+Să vă dea Domnul, mult belșug de har
+Și ca părinți să creșteți în iubire
+Copiii voștri ce-i primiți în dar.
+
+[v3]
+Rămână El cu voi și mai departe
+Și îndurarea Lui în veci de veci să stea
+Ca pe aripi de vultur să vă poarte
+Și îndurare multă să vă dea.

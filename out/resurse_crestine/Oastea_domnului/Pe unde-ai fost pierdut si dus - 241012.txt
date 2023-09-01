@@ -1,0 +1,39 @@
+[title]
+Pe unde-ai fost pierdut si dus {author: {Oastea Domnului}, {rcId: {241012}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Pe unde-ai fost pierdut și dus
+De când nu te-a-ntâlnit lsus
+Cu cine-ai mers și-n calea cui
+De cînd n-ai mers cu frații Lui?
+
+[c]
+Orice pas fără Hristos este păcătos
+Orice faci fără Isus la pierzare-i dus.
+
+[v2]
+Pe unde-ai fost și ce-ai făcut
+De când nu te-ai rugat tăcut
+Cu cine-ai stat, cu ce stricați
+De cînd te-ai despărțit de frați?
+
+[v3]
+Ce-ți face ochiul păcătos
+De cînd n-ai plîns lîngă Hristos
+Spre ce-ți merg pașii vinovați
+De cînd te-ai despărțit de frați?
+
+[v4]
+O, ce deșertăciune sunt
+Atâtea zbateri pe pământ
+Ce pierdere și geamăt greu
+E-un umblet fără Dumnezeu!
+
+[v5]
+Întoarce-te cât mai e timp
+Mâine poate-i prea târziu
+Căci pentru tot ce ai făcut
+La judecată vei fi dus.

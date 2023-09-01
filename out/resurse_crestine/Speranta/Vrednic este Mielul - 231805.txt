@@ -1,0 +1,35 @@
+[title]
+Vrednic este mielul {author: {Speranța}, {rcId: {231805}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Vrednic este Mielul ce stă pe tron
+El a învins al morții bold
+/: Aleluia :/
+Vrednic este Mielul ce-a biruit
+Păcatul omenirii l-a plătit
+/: Aleluia :/ (3x)
+
+[c]
+/: Pentru vina mea, pentru vina ta
+S-a jertfit Isus pe Golgota
+Viața El și-a dat, murind crucificat
+Dar a treia zi a înviat :/ Aleluia.
+Aleluia, Aleluia, Aleluia, Aleluia.
+
+[v2]
+Vrednic este Mielul ce stă pe tron
+El a învins al morții bold
+/: Aleluia :/
+Vrednic este Mielul ce-a biruit
+Păcatul lumii l-a plătit
+/: Aleluia :/ (3x)
+
+[e]
+/: Dați onoare și cinste spre slava Lui
+Cântați Osana, Mărire Domnului
+Dați onoare și cinste spre slava Sa
+Cântați Osana, Mărire, Aleluia. :/
+Aleluia, Aleluia, Aleluia, Aleluia.

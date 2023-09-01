@@ -1,0 +1,30 @@
+[title]
+Isus te iubesc {author: {Nicolae Moldoveanu}, {rcId: {186268}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Isus, Te iubesc, supus,
+Îți slujesc, mereu
+Te doresc,
+Căci eu
+Te iubesc!
+
+[c]
+O, vin Tu mereu,
+Deplin Dumnezeu
+Să-mbraci viața mea,
+S-o faci ca a Ta!
+
+[v2]
+Cuvânt întrupat,
+Un sfânt încercat,
+Și-un fiu luminat,
+Să fiu ne-ncetat.
+
+[v3]
+În cort de pământ,
+Sincer el vă port
+Chipul sfânt, senin,
+Luminos, deplin pe Hristos!

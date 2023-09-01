@@ -1,0 +1,29 @@
+[title]
+Ce iubire minunata tu ne-ai aratat {author: {Otniel Stirb}, {rcId: {184013}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ce iubire minunată Tu ne-ai arătat
+Când la Golgota, Isuse, ne-ai răscumpărat.
+/: Ai lăsat a Ta splendoare sus în cerul sfânt
+Să ne-aduci în dar iertare jos pe-acest pământ. :/
+
+[c]
+/: Iubirea Ta, iubirea Ta,
+Cum vom putea să-Ți răsplătim?
+Iubirea Ta, iubirea Ta,
+Isuse, Mielule divin. :/
+
+[v2]
+Te-am primit cu spini și palme, ca pe un tâlhar,
+Făr’ să știm că dăm la moarte cel mai mare dar.
+/: Noi Ți-am răsplătit cu ură dragostea de sus
+Însă Tu, fără măsură, ne-ai iubit, Isus. :/
+
+[v3]
+Toți acei ce vin la Tine și la jertfa Ta
+Vor avea în dar iertare prin iubirea Ta.
+/: Tu ești Calea, Adevărul, Viață din vecii,
+Ce iubire minunată pentru-ai Tăi copii! :/

@@ -1,0 +1,47 @@
+[title]
+Nu e furtuna prea mare {author: {Otniel Stirb}, {rcId: {208608}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Nu e furtună prea mare
+Nici încercare prea grea,
+Nu e problema din care
+Isus nu te poate scăpa.
+Acel ce-a creat și natura
+Și marea și vântul cumplit,
+E Domnul Isus, e Mesia,
+Cu tine la drum a pornit.
+
+[c]
+/: Încrede-te frate în Cel care poate
+Pe valuri sa poarte corabia ta.
+El umblă pe mare când vântul e tare,
+Ți-aduce salvare în clipa cea grea. :/
+
+[v2]
+Așa ca și Petru pe ape,
+Când vrei să pornești spre Isus,
+Pășești prin credință în noapte,
+Deodată de valuri ești dus.
+Dar Domnul e chiar lângă tine,
+El mâna ți-a-ntins, te-a salvat.
+Ce bine-i să ai lângă tine
+Așa Salvator minunat!
+
+[v3]
+Când vezi că se tulbură marea
+Și norii deasupra ta vin,
+Să nu-ți pierzi tu, frate, răbdarea,
+Curând cerul va fi senin.
+Tu pune-ți nădejdea în Domnul
+În Cel care poate salva,
+Oricât ar fi valul de mare,
+Tu strigă și nu te lăsa.
+
+[c2]
+/: Isuse, Isuse, întinde-mi Tu mâna
+Și scapă-mă, Doamne, din valul cumplit.
+De Tine ascultă și marea și vântul,
+La glasul Tău, Doamne, furtuni s-au oprit. :/

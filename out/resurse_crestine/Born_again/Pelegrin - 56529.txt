@@ -1,0 +1,44 @@
+[title]
+Pelegrin {author: {Born again}, {rcId: {56529}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Nu m-am născut la întâmplare,
+Nu m-am născut într-o zi oarecare,
+Când am crescut am înțeles
+Că există un loc mai bun ce poate fi ales.
+De aceea nu vreau să prind rădăcini
+Într-o gară pierdută printre spini,
+Așa că aleg în fiecare zi
+Să merg mai departe orice-ar fi.
+
+[c]
+Din nou la drum,
+Încă n-am ajuns la destinație,
+Mereu pe drum,
+În acest pământ străin
+Nu sunt decât un pelegrin.
+
+[v2]
+Sunt o mulțime de locuri pe pământ
+Care te-atrag cu imaginea lor,
+Pe unele le-am cutreierat,
+Dar totuși n-am găsit ce-am căutat.
+De aceea nu vreau să prind rădăcini
+Într-o gară pierdută printre spini,
+Așa că aleg în fiecare zi
+Să merg mai departe orice-ar fi.
+
+[v3]
+La plecare ai promis c-ai să Te întorci
+Să mă iei lângă inima Ta,
+Și-n adâncul sufletului sunt convins
+Că e mult mai bine-n Țara Ta.
+
+[e]
+/: Un pelegrin, un pelegrin,
+Un pelegrin într-un pământ străin, :/ x3
+Un pelegrin, un pelegrin
+Într-un pământ străin.

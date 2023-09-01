@@ -1,0 +1,25 @@
+[title]
+Sunt pastorul bun {author: {Anonim}, {rcId: {74407}}
+
+[sequence]
+v1,v2
+
+[v1]
+Sunt Păstorul Bun,
+Sunt Păstor de oi.
+Din văi, turma Mi-o adun,
+Astăzi vin și la voi.
+Strig duios prin har
+Glasul Mi-ascultați
+Nu sunt hoț și nici tâlhar,
+Sunt Păstorul Bun.
+
+[v2]
+Viața-n joc Mi-o pun
+Ca să vă adun.
+Nu-s plătit și nu-s fugar
+Sunt Păstorul cel Bun.
+Azi la ușă stau
+Și să intru vreau.
+Glasul Meu îl ascultați
+Sunt Păstorul cel Bun

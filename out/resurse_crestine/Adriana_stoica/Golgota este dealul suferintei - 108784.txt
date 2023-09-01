@@ -1,0 +1,35 @@
+[title]
+Golgota este dealul suferintei {author: {Adriana Stoica}, {rcId: {108784}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Golgota este dealul suferinței
+Unde Domnul Isus a suferit
+Acum răstignit Domnul pe cruce
+Cu viața lui pentru noi a plătit
+
+[c]
+Golgota, Golgota dealul patimilor fără flori
+Golgota, Golgota când treci pe acolo simți că te-n fiori
+Golgota, Golgota acolo unde numai spinii cresc
+Golgota, Golgota ajută-mă Doamne să mă smeresc
+
+[v2]
+Golgota este dealul biruintei
+Unde Domnui Isus a biruit
+Încoronat cu spini lovit in coasta
+Sa fim cu Domnul veșnic fericiți
+
+[v3]
+Golgota este dealul mântuirii
+Acel ce vine poate fii salvat
+Acolo a venit Domnul să moara
+Prin sangele Lui poți fi curătat
+
+[v4]
+Golgota este dealul împăcării
+Cu Dumnezeu prin fiul său Isus
+Oricune vrea astăzi să vină
+Cât încă cerui mai este deschis

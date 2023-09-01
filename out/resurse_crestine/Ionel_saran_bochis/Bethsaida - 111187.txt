@@ -1,0 +1,54 @@
+[title]
+Bethsaida {author: {Ionel Saran Bochis}, {rcId: {111187}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Lânga Bethsaida pe-un deal pustiu
+Mulțime se-aduna
+Isus minuni acol făcea
+Cu drag El le vorbea
+Muții vorbeau, orbii vedeau
+Cu toți Îl Slăveau
+
+[c]
+Lângă marea Galileii
+Pe un pustiu de munte
+Noroade se adunase
+Și de trei zile nu mai plecase
+
+[v2]
+Pe când Isus Îi învățau
+Cu drag îi Sfătuiau
+Atunci Petru s-apropiat
+Pe Domnul l-a-ntrebat
+
+[c2]
+Doamne, te rog să-mi spui
+De câte ori să iert
+De șapte ori ca să-l iert
+Pe Fratele meu ce mi-a greșit
+Șapte zeci câte șapte
+Lui Petru zisu-i-a
+Trebuie ca să ierți
+Pe cel care ție ți-a greșit
+
+[v3]
+Văzând mulțimea atunci chemase
+Pe Ucenicii Săi
+”
+Câtă pâine aveți la voi ?”
+Isus îi întrebă
+Doar numai cinci Pâini Noi avem
+Și doi Peștișori.
+
+[c3]
+După ce El mulțumise
+Pâinea se înmulțise
+Au luat și au frânt
+Și-apoi la toții au împărțit
+După ce Ei mulțumise
+Pâinea se înmulțise
+Patru mii de bărbați
+Au fost atuncea cu toți săturați.

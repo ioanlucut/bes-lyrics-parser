@@ -1,0 +1,37 @@
+[title]
+Cine poate ca sa-ti spuna lin si dulce ava tata? {author: {Nicolae Moldoveanu}, {rcId: {217538}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Cine poate ca să-ți spună
+Lin și dulce Ava-Tată?
+Cine intră-n moștenirea
+Harului prealuminată?
+/: Numai cei născuți din Tine :/
+Doamne lor li se cuvine! :/
+
+[v2]
+Cine poate să pătrundă
+Adevărurile Tale?
+Cine-aleargă drept și sigur
+Pe-a virtuții sfântă cale?
+/: Numai cei născuți din Tine :/
+Doamne, ei știu calea bine. :/
+
+[v3]
+Cine poate să trăiască
+Dragostea mereu fierbinte?
+Cine-n luptele credinței
+Se avântă spre ’nainte?
+/: Numai cei născuți din Tine :/
+Doamne, harul Tău îi ține. :/
+
+[v4]
+Minunata-mpărăție,
+Fericita Sărbătoare
+Nesfârșita tinerețe
+Doamne pentru cine-s oare?
+/: Pentru cei născuți din Mine :/
+Ei au raiul care vine. :/

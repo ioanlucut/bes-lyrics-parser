@@ -1,0 +1,30 @@
+[title]
+Esti atat de bun stapane {author: {Ana Maria Mirăuți}, {rcId: {240694}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ești atât de bun Stăpâne, ești atât de-ndurător
+Te-ngrijești mereu de mine, mereu îmi vii în ajutor
+Când Te-am chemat m-ai ascultat
+Prin mari minuni Tu ai lucrat
+Și când mă uit în urma mea, în toate eu văd mâna Ta
+
+[c]
+O viață-ntreagă la picioare, vreau să îți stau și să îți cânt
+Primește jertfa mea o Doamne sfânt.
+Cu glasul meu vreau să Te laud și pentru tot ce Tu mi-ai dat
+Primește viața mea, mare-mpărat.
+
+[v2]
+Mila Ta e-atât de mare chiar de ades Te întristez
+Nu te-ndepărtezi de mine, așa-mi arăți că valorez
+Chiar dacă mulți lovesc în mine Tu mă ridici și mă-ntărești
+Ce fericit sunt lângă Tine, îmi ești de-ajuns, iubit Stăpâne.
+
+[v3]
+De când Te am Doamne pe Tine mereu viața-mi este cânt
+Când mă trezesc ești lângă mine și tot cu Tine-adorm în gând
+Vreau într-o zi acolo-n ceruri, să-Ți cânt Isus la nesfârșit
+Dar pân’ atunci Te-oi lăuda aici jos pe-acest pământ.

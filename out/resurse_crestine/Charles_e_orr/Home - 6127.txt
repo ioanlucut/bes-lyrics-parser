@@ -1,0 +1,29 @@
+[title]
+Home {author: {Charles E. Orr}, {rcId: {6127}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Oh, home of my soul
+In that far away goal,
+Each day brings me nearer to thee;
+The great throne so white,
+And my crown shining bright,
+Mine eyes ever longing to see.
+
+[v2]
+A musical strain
+From that far distant plain
+Now sweeps gently over my soul;
+And waves of sweet peace
+In my heart shall increase,
+While years of eternity roll.
+
+[v3]
+The day will soon come
+When we’ll all gather home,
+As pilgrims no more we shall roam;
+Ah, whom shall we see?
+And what joy will it be
+To meet with the dear ones at home!

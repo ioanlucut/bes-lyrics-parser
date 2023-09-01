@@ -1,0 +1,41 @@
+[title]
+Cine ma va desparti {author: {Anonim}, {rcId: {2163}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Cin’ mă va despărți
+De Tine scumpe mire?
+Când știu că am un loc
+Colo sus în mărire.
+
+[c]
+/: Nici foamea, nici setea
+Nici moartea de-ar fi
+Nimic de Tine Doamne
+Nu m-ar despărți. :/
+
+[v2]
+De-aș fi în strâmtorare
+În chinuri de-aș zăcea
+Eu nici atuncia Doamne
+De Tin’ nu m-aș lăsa.
+
+[v3]
+Nu pot să uit Isuse
+Cum nici Tu n-ai uitat
+Să vii întotdeauna
+Atunci când Te-am chemat.
+
+[v4]
+Mă-ntreb putea-voi oare
+Să uit iubirea Ta
+Când știu c-atât de mult
+Ai iubit ființa mea.
+
+[v5]
+Te rog să-mi dai putere,
+Să fiu de Tin’ legat
+Cu legătura care
+Va ține până-n veac.

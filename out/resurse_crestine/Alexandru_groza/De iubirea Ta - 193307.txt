@@ -1,0 +1,23 @@
+[title]
+De iubirea ta {author: {Alexandru Groza}, {rcId: {193307}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+De iubirea Ta, eu Te laud, Doamne
+Cum aș putea să nu Îți cânt?
+Când Harul Tău mă mântuiește
+Cum aș putea să tac, Isus?
+
+[c]
+Iubirea Ta vibrează-n cântul meu de slavă
+De mântuirea ce mi-ai dăruit, Isus!
+În Tine, Domnul meu eu am viața
+Cum aș putea să tac, Doamne, să nu îți cânt?
+
+[v2]
+Vrednic n-am fost de a Ta iubire
+Dar Tatăl sfânt s-a îndurat
+Nu aveam iertare fără de Tine
+Sufletul meu plângea-n păcat!

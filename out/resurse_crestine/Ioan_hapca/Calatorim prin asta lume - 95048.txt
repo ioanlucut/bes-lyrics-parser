@@ -1,0 +1,37 @@
+[title]
+Calatorim prin asta lume {author: {Ioan Hapca}, {rcId: {95048}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Călătorim prin astă lume
+Având un țel deosebit
+Și un Cuvânt să ne îndrume
+Spre Plaiul sfânt și mult dorit.
+
+[c]
+Cu Domnu-n inimi, fără teamă
+Călătorim prin lume
+Urmându-I glasul ce ne cheamă
+În fiecare zi pe nume
+Și-ntreaga noastră ființă aclamă,
+Slăvind Sfânta Treime.
+
+[v2]
+A lumii fapte le respingem
+Însă pe oameni îi iubim.
+Ispite și-ncercări învingem
+Și Evanghelia o vestim.
+
+[v3]
+Aducem suflete ostenite
+Să-și afle odihna în Hristos,
+Dăm lumii ale Lui cuvinte
+Ce-l mântuie pe păcătos.
+
+[v4]
+Avem un țel în astă lume,
+Ca Evanghelia s-o vestim
+Și a-L Domnului Sfânt Nume,
+În timp ce-n urma Lui pășim.

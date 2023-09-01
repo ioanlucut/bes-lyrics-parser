@@ -1,0 +1,29 @@
+[title]
+Cant aleluia {author: {Nicolae Moldoveanu}, {rcId: {1653}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cânt Aleluia, cânt Aleluia,
+Ție, Dumnezeul meu slăvit!
+Cânt Aleluia, cânt Aleluia,
+Te iubesc, căci Tu m-ai mântuit!
+
+[c]
+Jertfa mulțumirii
+Ardă pe altar
+Tatălui Iubirii,
+Sfânt Izvor de har!
+
+[v2]
+Cânt cu credință, cânt cu credință,
+Ție, Dumnezeul credincios!
+Cânt cu credință, cânt cu credință,
+Fiului Tău Sfânt, Isus Hristos!
+
+[v3]
+Cânt cu-nchinare, cânt cu-nchinare,
+Ție, Dumnezeul Minunat!
+Cânt cu-nchinare, cânt cu-nchinare,
+Cânt cu focul care Tu mi-ai dat!

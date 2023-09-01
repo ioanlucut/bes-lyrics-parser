@@ -1,0 +1,29 @@
+[title]
+O alta lume {author: {Contrast}, {rcId: {109095}}
+
+[sequence]
+v1,v2,c,v3,c
+
+[v1]
+Ei spun că eu sunt doar un mare fan al Tău
+Că-n tot ce fac încerc să Te imit mereu
+Și când încerc să fac minuni și spun la toți să fie buni
+Parcă-aș trăi într-o altă lume
+
+[v2]
+Ei spun că eu sunt doar un rol, un simplu rol
+Într-un spectacol ce n-are spectatori
+Că tot ce fac e eronat și tot ce spun e demodat
+Parcă-aș trăi într-o alta lume
+
+[c]
+Eu văd venind o altă lume
+Eu văd venind pe Domnul meu dintre nori
+Eu văd venind o altă lume
+O văd venind e-așa aproape de noi
+
+[v3]
+Ei spun că-ncerc să par mai mult decât sunt eu
+Că propiile-mi cuvinte mă doboară la pământ
+Ei spun că eu visez, dar dorm eu oare sau veghez?
+Răspunsul meu, e-n alta lume

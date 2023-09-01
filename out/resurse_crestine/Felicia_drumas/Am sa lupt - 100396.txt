@@ -1,0 +1,35 @@
+[title]
+Am sa lupt {author: {Felicia Drumas}, {rcId: {100396}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Domnul meu, la Tine vin
+Cu ruga mea să mă închin,
+Să-Ți spun acum povara grea
+Ce mult apasă ființa mea.
+
+[c]
+/: Am să mă lupt în ruga mea
+Ca să ajung în slava Ta,
+Să o asculți, să o primești
+Și voia-Ți Doamne s-o-mplinești :/
+
+[v2]
+Povara ce m-apasă greu,
+O, sfânt Isus de dorul Tău,
+Și Te aștept plângând și azi,
+De Tin’ nicicând n-am să mă las.
+
+[v3]
+În ruga mea de zi cu zi
+Te strig, o, Doamne, să revii,
+Căci pe pământ am obosit.
+O, vin’ degrab, Isus iubit!
+
+[v4]
+Dar când pe nori vei apărea,
+Cu frații-aici m-oi bucura
+Și împreună vom cânta,
+Isus iubit, spre Slava Ta!

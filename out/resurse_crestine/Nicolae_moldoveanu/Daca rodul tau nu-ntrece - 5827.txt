@@ -1,0 +1,23 @@
+[title]
+Daca rodul tau nu-ntrece {author: {Nicolae Moldoveanu}, {rcId: {5827}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Daca rodul tau nu-ntrece o Vremea-n care ai trait,
+Gol vei merge-n vesnicie, o Greu vei plange la sfarsit.
+/: Daca plansul tau nu-ntrece o Plansul celui vinovat,
+Starea ta-i tot sub osanda o Si trecutul neiertat. :/
+
+[v2]
+Daca ruga ta nu trece o De-naltimea ta mai sus,
+In zadar, ti-e osteneala: o Gol te-ntorci, cum gol te-ai dus.
+/: Daca fapta ta nu-ntrece o Cu ceva, al tau cuvant,
+Viata ta-i desertaciune o Si-alergare dupa vant. :/
+
+[v3]
+Daca mila ta nu-ntrece o Mila unui fariseu,
+N-ai sa-i vezi in veci lumina o Cerului lui Dumnezeu.
+/: Daca viata ta n-o-ntrece o Pe-a unui necredincios,
+Tu nu esti spre bucuria o Ci spre-ocara lui Hristos. :/

@@ -1,0 +1,35 @@
+[title]
+E ziua bucuriei cu sufletu-naltat {author: {Anonim}, {rcId: {90812}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+E ziua bucuriei
+/: Cu sufletu-nălțat :/
+Cântați, cântați, cântați-l
+Hristos a înviat!
+
+[v2]
+Hristos a înviat
+/: Adevărat :/
+Cântăm, cântăm, cântăm
+Hristos a înviat!
+
+[v3]
+E ziua învierii
+/: Toți cei ce-ați așteptat :/
+Cântați, cântați, cântați-l
+Hristos a înviat!
+
+[v4]
+E ziua biruinței
+/: Toți cei care-ați luptat :/
+Cântați, cântați, cântați-l
+Hristos a înviat!
+
+[v5]
+E ziua liberării,
+/: Toți cei care-ați scăpat :/
+Cântați, cântați, cântați-l
+Hristos a înviat!

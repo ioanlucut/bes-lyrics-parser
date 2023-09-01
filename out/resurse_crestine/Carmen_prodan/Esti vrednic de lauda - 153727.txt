@@ -1,0 +1,23 @@
+[title]
+Esti vrednic de lauda {author: {Carmen Prodan}, {rcId: {153727}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Esti vrednic de lauda, Esti vrednic de cinste
+Esti vrednic sa-Ti cante toata suflarea Domn prea inalt
+Nu-i nimeni ca Tine esti Rege-n marire
+/: Tu esti Creatorul, esti Salvatorul fii laudat:\
+
+[v2]
+Esti vrednic de lauda, Esti vrednic de cinste
+Caci Tu esti alinul si mangierea celui trudit
+Esti sfant si esti mare, traiesti in splendoare
+/: Dar esti plin de mila cu cel ce suspina nemangaiat:\
+
+[v3]
+Esti vrednic de lauda, Esti vrednic de cinste
+Caci Tu ne-ai promis un loc langa Tine in tara de vis
+/: O vino Isuse tanjim dupa Tine caci Tu esti lumina
+/: Esti Aurora din zori de zi:\:\

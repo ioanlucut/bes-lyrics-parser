@@ -1,0 +1,56 @@
+[title]
+Rasuna iarasi pe pamant - i heard the bells on christmas day {author: {Casting Crowns, Traducere RO}, {rcId: {117793}}
+
+[sequence]
+v1,c,v2,c2,c2,v3,c3,e
+
+[v1]
+Răsună iarăși pe pământ,
+Colinzi vestind pruncul preasfânt
+Repetă îngerii în cor,
+Bună-nvoire pace lor.
+
+[c]
+Cerurile cântă: Pace pe Pământ,
+Inima ascultă: Pace pe Pământ,
+Îngeri dau de știre: Pace pe Pământ,
+Pace lor, bună-nvoire.
+
+[v2]
+Iubirea Tatălui am vrut,
+Căci pace nu e pe Pământ,
+Dar clopotele cântă-n cor,
+Bună-nvoire pace lor.
+
+[c2]
+Cerul se frământă: Pace pe Pământ,
+Clopotele cântă: Pace pe Pământ,
+Cine ne aude: Pace pe Pământ,
+Pace lor, bună-nvoire.
+
+[b]
+Mai tare cântecu-a pornit,
+Isus nu-i mort nici n-a dormit: Pace lor, x2
+Tot cel bun va triumfa,
+Și-n El toți pace vom avea,
+Căci s-a născut.
+
+[v3]
+Îngeri vestesc pruncul preasfânt,
+Ce-aduce pacea pe Pământ,
+Și oamenilor cântă în cor,
+Bună-nvoire pace lor.
+
+[c3]
+Cerul se frământă: Pace pe Pământ,
+Clopotele cântă: Pace pe Pământ,
+Deschide inima și-ascultă: Pace pe Pământ,
+Pace lor, bună-nvoire.
+
+[e]
+Inima ascultă: Pace pe Pământ,
+O cântare sfântă: Pace pe Pământ,
+Din cer cu iubire: Pace pe Pământ,
+Pace lor bună-nvoire: Har.
+Pace pe pământ, pace pe pământ,
+Pace pe pământ, bună-nvoire

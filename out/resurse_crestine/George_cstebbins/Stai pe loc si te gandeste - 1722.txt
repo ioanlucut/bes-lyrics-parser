@@ -1,0 +1,29 @@
+[title]
+Stai pe loc si te gandeste {author: {George C.Stebbins}, {rcId: {1722}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Stai pe loc și te gândește:
+Unde-alergi așa grăbit,
+Fără-a te-ntreba vreodată
+Cum va fi al tău sfârșit?
+
+[c]
+Vino astăzi, vino-n grabă
+Căci Isus te cheamă blând.
+Mâine, poate, cine știe,
+Nu mai ești pe-acest pământ.
+
+[v2]
+Te-ai zbătut prea multă vreme
+În rușine și păcat;
+Scoală azi și părăsește
+Tot trecutu-ntunecat.
+
+[v3]
+În lumină, frate dragă,
+Liber vei putea trăi;
+Ocrotit de Tatăl veșnic
+Ce cu drag te va-nsoți.

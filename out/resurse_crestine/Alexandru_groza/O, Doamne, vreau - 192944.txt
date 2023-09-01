@@ -1,0 +1,23 @@
+[title]
+O doamne vreau {author: {Alexandru Groza}, {rcId: {192944}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+O, Doamne vreau să-Ți mulțumesc de mântuirea ce mi-ai dat!
+Când ispitit am fost, jos în păcat, de mine Doamne, Tu Te-ai îndurat
+O, Doamne, vreau să-Ți mulțumesc de mântuirea ce mi-ai dat!
+Că-n locul meu pe cruce Te-ai jertfit, atât de mult Tu, Doamne m-ai iubit!
+
+[c]
+Învață-mă să-Ți mulțumesc, Doamne, că prin iubirea Ta trăiesc, Isus
+Mi-ai dat mai mult decât eu meritam, prin jertfa Ta, Doamne de la Calvar
+Cu crucea-n spate Doamne, Tu mergeai, și-n ceasul greu la mine Te gândeai
+Măreață-a fost lucrarea Ta, Isus, pentru mântuirea mea!
+
+[v2]
+Privesc mereu spre Golgota, mă-ncred în mântuirea Ta!
+Tu ai schimbat viața mea, Isus, cu multe binecuvântări de sus!
+O, Doamne, vreau să-Ți mulțumesc, de mântuirea ce mi-ai dat!
+Că-n locul meu pe cruce Te-ai jertfit, atât de mult Tu, Doamne m-ai iubit!

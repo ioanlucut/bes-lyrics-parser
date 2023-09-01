@@ -1,0 +1,36 @@
+[title]
+Isus a fost mielul pe cruce jertfit {author: {Fratii Pal}, {rcId: {5959}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Isus a fost Mielul pe cruce jertfit,
+Din ceruri, de Tatal trimis.
+Pentru vina mea, pentru vina ta,
+Din dragoste El a murit.
+
+[c]
+/: Atat de mult Isus ne-a iubit!
+Din dragoste El a murit. :/
+
+[v2]
+Cu ochii in lacrimi, la noi El privea.
+Isus, cand pe cruce era,
+Spre Tatal, o ruga din suflet ’nalta:
+„
+O, iarta-i, caci nu stiu ce fac!”
+
+[c2]
+/: Pe-orice trecator, pe-orice muritor
+O, iarta-i, caci Tie Ma rog! :/
+
+[v3]
+Prin El am aflat noi harul bogat,
+Prin sangele Sau sfant varsat.
+Iubirea de sus cobori la Calvar,
+Sa capat viata prin har.
+
+[c3]
+/: Prin jertfa-am primit viata in dar,
+Sa pot sa ajung in cer iar. :/

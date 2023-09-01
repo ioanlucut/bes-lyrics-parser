@@ -1,0 +1,35 @@
+[title]
+Autentic {author: {Revive}, {rcId: {206213}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Tot ce am aduc
+Acum ’naintea Ta.
+Cu tot ce sunt mă-nchin
+Isus în fața Ta.
+Tot ce am aduc
+Acum ’naintea Ta.
+Cu tot ce sunt mă-nchin
+Isus în fața Ta.
+
+[c]
+Și îți cânt, Domnul meu cel viu
+Viata nouă Tu mi-ai dat.
+Și îți cânt, Domnul meu cel viu
+Numai Tu m-ai eliberat.
+
+[v2]
+Tot ce am aduc
+Acum ’naintea Ta.
+Cu tot ce sunt mă-nchin
+Isus în fața Ta.
+
+[e]
+M-ai chemat la Tine
+Și ai făcut din mine
+O făptură nouă-n Hristos.
+Trăiesc o altă viață,
+O viață de iubire
+Autentic pentru Hristos.

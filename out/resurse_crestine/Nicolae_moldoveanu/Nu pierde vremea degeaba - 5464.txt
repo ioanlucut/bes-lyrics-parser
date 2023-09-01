@@ -1,0 +1,36 @@
+[title]
+Nu pierde vremea degeaba {author: {Nicolae Moldoveanu}, {rcId: {5464}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Nu pierde vremea degeaba,
+Nici un ceas făr-a lucra!
+Căci vine seara degrabă
+Să lucrezi nu-i mai putea.
+
+[c]
+/: Cât e ziua, lucră, frate!
+Nici un ceas nu zăbovi,
+Căci sfârșitul e aproape
+Poate mâine vei muri... :/
+
+[v2]
+Să lucrezi, nu la ogoare
+Ci în via lui Isus,
+Căci se-apropie sfârșitul...
+Și atunci, ce ai de spus?
+
+[v3]
+O, nu-L refuza pe Domnul
+Care astăzi te-a chemat!
+Să-L urmezi, cu toată râvna,
+Căci nu mai e timp de stat!
+
+[v4]
+S-a apropiat sfârșitul...
+Poate-i chiar la ușa ta...
+Azi suna-va: „
+Deșteptarea!”
+Și cei morți vor învia.

@@ -1,0 +1,41 @@
+[title]
+Israel israel {author: {Anonim}, {rcId: {72800}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Te-am ales dintre popoare
+Să te fac un nume mare,
+M-am legat cu jurământ,
+Să te fac un popor sfânt.
+
+[c]
+Israel, Israel
+Te-am ales să fi al Meu,
+Te-am ales să fi al Meu
+Iar Eu Dumnezeul tău
+
+[v2]
+Când erai sub apăsare
+Eu te-am scos cu mână tare,
+Din Egipt, desub robie,
+Ți-am dat mană în pustie.
+
+[v3]
+Durerea nu mi-ai văzut,
+Ceasul nu ți-ai cunoscut,
+Când adânc Te-am cercetat,
+În dragoste Te-am mustrat.
+
+[v4]
+Adunat din țări străine
+Te-am chemat dinou la Mine,
+Și Ți-am dat pe Fiul Meu,
+Fiu iubit de Dumnezeu.
+
+[v5]
+Tu nu Mi-ai primit lumina,
+Nu Mi-ai înțeles iubirea,
+Eu Sunt cel ce Te-am creat,
+Și pe nume Te-am chemat.

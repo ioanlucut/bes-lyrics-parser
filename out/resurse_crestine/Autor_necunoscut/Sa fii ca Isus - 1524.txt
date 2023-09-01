@@ -1,0 +1,29 @@
+[title]
+Sa fii ca isus {author: {Anonim}, {rcId: {1524}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Să fii ca Isus, să fii ca Isus
+Eu te întreb: Vrei să fii ca El?
+Nu doar de formă, ci-n întregime
+Eu te întreb: Vrei să fii ca El?
+
+[v2]
+Iubești ca Isus? Iubești ca Isus?
+Eu te întreb: Tu iubești ca El?
+Nu doar de formă, ci-n întregime
+Eu te întreb: Tu iubești ca El?
+
+[v3]
+Te rogi ca Isus? Te rogi ca Isus?
+Eu te întreb: Tu te rogi ca El?
+Nu doar de formă, ci-n întregime
+Eu te întreb: Tu te rogi ca El?
+
+[v4]
+Trăiești ca Isus? Trăiești ca Isus?
+Eu te întreb: Trăiești ca El?
+Nu doar de formă, ci-n întregime
+Eu te întreb: Trăiești ca El?

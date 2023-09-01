@@ -1,0 +1,35 @@
+[title]
+Intr-o noapte-n betleem {author: {Dorin Mihai}, {rcId: {222269}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Intr-o noapte-n Betleem,
+S-a nascut Isus Mesia,
+Asa cum s-a profetit,
+Sa aduca mantuirea.
+
+[c]
+Nu a venit cu-alai si bogatie,
+El s-a nascut sarac, rege din vesnicie,
+Sa ne indrume pasii catre cer,
+Slavit sa fie-n veci Emanuel!
+
+[v2]
+La pastorii de pe camp
+Ingerii au dat de stire,
+Ca s-a nascut pruncul Sfant,
+Sa aduca mantuire.
+
+[v3]
+Trei magi pe ceruri, au zarit
+O stea mare stralucitoare,
+Ce l-a Mesia i-a condus,
+Intr-o iesle cu-animale.
+
+[c2]
+Daruri lui Isus i-au dat
+Si bucurosi s-au inchinat,
+Vrem si noi sa ne-nchinam
+Si inima doar Lui sa i-o predam!

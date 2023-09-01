@@ -1,0 +1,52 @@
+[title]
+Simone spune-mi tu {author: {Anonim}, {rcId: {59144}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[c]
+/: Simone spune-Mi tu
+Dacă Mă iubești
+Oile să Mi le păzești. :/
+
+[v1]
+Căci mi-am lăsat turma
+Să-mi găsească urma
+Pribegind printre munți și prin văi
+Pe cărări spinoase văi întunecoase
+Alungată de vrăjmașii mei.
+
+[v2]
+Tu veghează-ntr-una
+Și păzește-Mi turma
+Să nu piară nici una din oi
+Căci lupul pândește și le urmărește
+Să doboare pe mulți dintre voi.
+
+[v3]
+Vezi la cea bolnavă
+Să te duci degrabă
+Ajutor cu iubire să-i dai
+Vezi-i suferința arată-i credința
+Și s-o vindeci, lângă ea să stai.
+
+[v4]
+Vezi la cea rănită
+Căzută-n ispită
+Ce-n durere se zbate mereu
+Ia-o cu blândețe pe-ale tale brațe
+S-o aduci iar în staulul Meu.
+
+[v5]
+Iar pe oaia slabă
+N-o lăsa să moară
+C-am să-i cer viața din mâna ta
+Dă-i hrană bogată și apă curată
+Ca să poată să meargă și ea.
+
+[v6]
+Tu să-mi aduci turma
+Pe deal la Golgota
+La pășune și dulce izvor
+Vino turmă mică să nu-ți fie frică
+Că ne-așteaptă al nostru Păstor.

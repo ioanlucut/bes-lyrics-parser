@@ -1,0 +1,30 @@
+[title]
+Inaintea noastra {author: {Ovidiu Pal}, {rcId: {4459}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+’
+Naintea noastră, o pereche stă,
+Pe care, cu iubire, o îmbrățișăm.
+Mire și mireasă, făcând un legământ,
+Iubire sfântă, unul altuia jurând.
+
+[c]
+Tu ai dat Doamne, casătoria,
+Fericiți prin Tine vom fi.
+Doamne Ție, ne rugăm acuma
+Binecuvanteaza-i Tu.
+
+[v2]
+Perechea aceasta, pășește pe un drum, 
+Condu-i pe ei către scopul cel bun.
+Ca să aleagă, nedespărțiți,
+Să fie cu Tine în veci fericiți.
+
+[c2]
+Dă Doamne harul Tău peste acești iubiți,
+Să fie credincioși până la sfârșit.
+În rău, în bine și-n orce ispite,
+Să aibă un cuget și-o inimă-n Tine.

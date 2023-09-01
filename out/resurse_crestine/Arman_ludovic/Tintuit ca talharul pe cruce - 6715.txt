@@ -1,0 +1,53 @@
+[title]
+Tintuit ca talharul pe cruce {author: {Arman Ludovic}, {rcId: {6715}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Țintuit ca tâlharul pe cruce să fiu eu aș vrea
+Răstignit la dreapta Domnului Hristos
+Clipe de încercări, agonii, chinul e ca de moarte
+Atunci disperat către Tine am strigat:
+
+[c]
+Domnul meu preaiubit, condamnat Tu ai fost fără vină
+Tu ești Sfânt, eu prea slab, rătăcind pe o cale străină
+Nu găsesc nicăieri pe pământul acest fericirea
+In slava Ta te-aș ruga și de min’ să nu uiți, o, Isus!
+
+[v2]
+Ai pășit pe pământul de propriaț-Ți mână creat,
+Pentru noi ai venit, însă eu am trăit în păcat
+Iar acum, impreună împărțim aceași sentință:
+Un talhar vinovat și o umilă, cerească ființă.
+
+[c2]
+Domnul meu preaiubit, condamnat Tu ai fost fără vină
+Tu ești Sfânt, eu prea slab, rătăcind pe o cale străină
+Nu găsesc nicăieri pe pământul acest fericirea
+In slava Ta te-aș ruga și de min’ să nu uiți, o, Isus!
+
+[v3]
+Am privit spre Hristos, printre spini sânge sfânt se prelinge
+Cât doresc sa-l mângâi, dar nu pot, sunt deja pironit
+E Hristosul, Mesia, e El, inima mi se frânge
+Chiar acum ce n-aș da să mă schimb până nu am murit.
+
+[c3]
+De-aș putea viața să mi-o reiau, timpul să-l întorc înapoi
+Alte căi îmi doresc, pe Isus mereu l-aș urma
+E deja prea târziu, pentru min’ bezna este în toi
+Simt puteri nu mai am, chiar acum moartea mă va lua.
+
+[v4]
+Dar, deodată, spre mine Hristos privirea-și îndreaptă
+Ochii blânzi, iubitori, adânc sufletul mi-au pătruns
+Și o voce duioasă spre mine se-ndreaptă, de tată
+Drept îți spun prietene ”azi cu Mine-n rai vei fii dus!”
+
+[c4]
+Parcă atuncia, din nou inima îmi începe să bată
+O nădejde eternă se naște în inima mea
+Duhul meu era orb, dar acum îmi începe să vadă
+Fericit sunt acum prin Isus care m-a mântuit!

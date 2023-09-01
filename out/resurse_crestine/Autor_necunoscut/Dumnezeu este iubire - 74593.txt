@@ -1,0 +1,29 @@
+[title]
+Dumnezeu este iubire {author: {Anonim}, {rcId: {74593}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Dumnezeu este iubire,
+Dumnezeu e mântuire
+Și prin jertfa Lui măreață
+Ne-a adus pe noi la viață.
+
+[c]
+El este Împărat și Domn în veci
+El ne-a creat pe toți după chipul Său
+Mărire, glorie să-I fie aduse-n veci
+Slava și cinstea, Lui ne închinăm.
+
+[v2]
+Dumnezeu e bunătate
+Si ne dă încă o șansă
+El ne-ajută ca să trecem
+De la moarte înspre viață.
+
+[v3]
+Domnul este Împărat
+Si cu slavă îmbrăcat
+Și pe noi ne va-mbrăca
+Pe deplin cu slava Sa.

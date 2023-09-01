@@ -1,0 +1,35 @@
+[title]
+Tie isuse tie ma-nchin {author: {Nicolae Moldoveanu}, {rcId: {5305}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Tie, Isuse,
+ /: Tie ma-nchin! :/
+Tu-mi esti iubirea,
+/: Tu - pe deplin. :/
+
+[c]
+Dragostea Ta m-a cuprins, Isus,
+Si cu Tine-n cer, pentru veci, m-a dus!
+Dragostea mea eu Ti-o dau, Isus,
+Si-n adancul meu pentru veci Te-am pus!
+
+[v2]
+Tie, Isuse,
+ /: Tie-Ti slujesc! :/
+Tu-mi esti viata,
+/: Mult Te doresc. :/
+
+[v3]
+Tie, Isuse,
+ /: Tie - supus, :/
+Dragostea toata
+/: Eu Ti-am adus. :/
+
+[v4]
+Pentru vecie,
+ /: Tu imi ramai :/
+Dragoste vie,
+/: Sfanta dintai! :/

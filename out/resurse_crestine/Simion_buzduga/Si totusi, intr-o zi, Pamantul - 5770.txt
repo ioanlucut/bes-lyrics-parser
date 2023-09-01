@@ -1,0 +1,35 @@
+[title]
+Si totusi intr-o zi pamantul {author: {Simion Buzduga}, {rcId: {5770}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Și totuși, într-o zi, Pământul
+Va-ntâmpina un Prinț Ceresc
+/: Și ce puțini așteaptă Ziua,
+Chiar dacă mulți o prevestesc! :/
+
+[c]
+Dar Prințul Sfânt, ca Mire vine,
+Cel mai iubit și așteptat!
+/: Isus Hristos e Domnul Păcii,
+Să fie-n veci glorificat! :/
+
+[v2]
+Și eschimoși din nordul rece,
+Din orice colț de pe Pământ,
+/: Și albi și galbeni, cât și negrii,
+Îl vor vedea pe nor venind! :/
+
+[v3]
+Va fi o zi înfricoșată,
+Acelor ce vor rămânea,
+/: Dar ea va fi și minunată,
+Acelor care vor pleca! :/
+
+[v4]
+Va fi o zi neîntâlnită,
+Va fi o realitate grea!
+/: De vrei să zbori spre Țara Sfântă,
+Ascultă-L, crede-n jertfa Sa! :/

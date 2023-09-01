@@ -1,0 +1,42 @@
+[title]
+Noi suntem ostasii credintii {author: {Nicolae Moldoveanu}, {rcId: {243942}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Noi suntem ostașii credinții,
+În Tatăl Preasfânt Dumnezeu,
+Precum au trăit-o părinții,
+Urmând al Scripturii credeu!
+
+[c]
+Lucrând și luptând cu credință
+Gătim viitorul frumos,
+Urmând-o cu-ntreaga ființă,
+Slujim și vestim pe Hristos!
+
+[v2]
+Noi suntem ostașii nădejdii,
+Puternice-n Domnul Isus,
+Statornici în orice primejdii,
+’
+Nălțăm steagul Lui tot mai sus.
+
+[c2]
+Luptând și lucrând cu nădejde
+Gătim viitorul frumos,
+Un gând fericit ne-ntărește,
+Slujim și vestim pe Hristos!
+
+[v3]
+Noi suntem ostașii iubirii,
+Adusă de Duhul cel Sfânt,
+Și ducem solia-nfrățirii,
+La toți în Hristos pe pământ!
+
+[c3]
+Lucrând și luptând cu iubire,
+Gătim viitorul frumos,
+Grăbind fericita-nfrățire,
+Slujim și vestim pe Hristos!

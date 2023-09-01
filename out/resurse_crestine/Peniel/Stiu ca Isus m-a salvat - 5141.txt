@@ -1,0 +1,22 @@
+[title]
+Stiu ca isus m-a salvat {author: {Peniel}, {rcId: {5141}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Știu că Isus m-a salvat
+Păcatul mi l-a spălat
+El e viu, El e viu
+De moarte El m-a scăpat
+Pe stâncă M-a ridicat
+El e viu, El e viu
+
+[c]
+/: Domnul este viu! :/ x3
+
+[v2]
+În clipe grele
+Când n-aveam ajutor
+El mâna și-a întins spre mine
+Și-n brațul Său m-a luat

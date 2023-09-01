@@ -1,0 +1,35 @@
+[title]
+Fecioarele intelepte {author: {Florin Pal}, {rcId: {130947}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Fecioarele-ntelepte,
+Se pregatesc de zbor
+Se pregatesc mereu, mereu
+Doar pentru Dumnezeu
+
+[c]
+/: Esti gata sa zbori spre lumina?
+Tu astazi ai candela plina?
+Isus va veni, rapirea va fi,
+O singura data :/
+
+[v2]
+Se lasa atipirea
+Si pe carare sus
+Se vad tot mai putini crestini
+Urmandul pe Isus.
+
+[v3]
+La fel ca si strajerul
+Ce-asteapta ai zilei zori,
+Si noi dorim chemarea lui
+Sa ne-ntalnim pe nori.
+
+[v4]
+Sa stam in asteptare
+Cu-n dor a ne-ntalni
+Noi nu stim ziua, ceasul sfant
+Cand El va reveni.

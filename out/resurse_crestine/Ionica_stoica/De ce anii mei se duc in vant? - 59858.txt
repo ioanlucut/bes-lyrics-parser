@@ -1,0 +1,42 @@
+[title]
+De ce anii mei se duc in vant? {author: {Ionică Stoica}, {rcId: {59858}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c2
+
+[v1]
+De ce anii mei se duc în vânt?
+De ce toate rămân pe pământ?
+De ce ne zdrobim să adunăm?
+De ce când toate aici le lăsăm?
+
+[c]
+De ce nu căutăm pe Domnul să-L urmăm?
+De ce nu căutăm cu El să ne-mpăcăm?
+De ce nu dăm deoparte tot ce este gunoi?
+De ce fugim de lume când lumea e în noi?
+
+[v2]
+De ce tot în lume ne uităm?
+De ce, ce e rău nu alungăm?
+De ce facem voia celui rău?
+De ce n-ascultăm de Dumnezeu?
+
+[v3]
+De ce nu-adunăm în cer comori?
+De ce nu vrem să fim veghiatori?
+De ce nu gândești că tot ce faci
+De ce nu gândești că-n iad te bagi?
+
+[v4]
+Azi poți singur să analizezi
+Azi poți pe Domnul ca să-L crezi
+Azi poți să îți pleci genunchii tăi
+Azi poți să nu mai fi cu cei răi!
+
+[c2]
+/: Azi poți să te întorci să fi cu Dumnezeu!
+Azi poți ca să alungi din inimă ce-i rău!
+Azi poți să spui și tu „
+Domne și eu aș vrea
+Să fiu în a Ta turmă, să merg spre Țara Ta”! :/

@@ -1,0 +1,48 @@
+[title]
+Poti sa te-ncrezi in isus {author: {Anonim}, {rcId: {184021}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Poți să te-ncrezi
+În Isus ne-ncetat!
+El a învins! El a învins!
+Biruitor peste
+Iad și păcat,
+Domnul Hristos
+A învins!
+
+[c]
+El nu-i învins
+De nimic pe pământ!
+Toată puterea
+E-n harul Său sfânt!
+Crede că ai tot ce
+El ți-a promis:
+Domnul Hristos a învins!
+
+[v2]
+Poți să pășești
+Cu Isus fericit!
+El a-nviat! El a-nviat!
+Tatăl din cer jertfa Lui
+A primit,
+Domnul Hristos a-nviat!
+
+[v3]
+Poți să fii sigur
+În Domnul Hristos!
+El S-a ’nălțat!
+El S-a ’nălțat!
+El este-al tău
+Mare Preot milos
+Domnul Hristos S-a ’nălțat!
+
+[v4]
+Poți să vestești
+Tot ce El a promis!
+El vine iar! El vine iar!
+Drumul spre cer
+Pentru toți e deschis,
+Domnul Hristos vine iar!

@@ -1,0 +1,45 @@
+[title]
+Dincolo de valea mortii {author: {Nicolae Moldoveanu}, {rcId: {241051}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Dincolo de valea morții
+Dincolo de cruce,
+E Cetatea vieții-n care,
+Domnul ne va duce,
+/: Pe-a credinței sfântă cale,
+Domnul ne va duce. :/
+
+[v2]
+Dincolo de marea lumii,
+Dincolo de apă,
+E slăvita-mpărăție
+Unde El ne scapă.
+/: Cu Corabia credinței,
+Domnu-n Ea ne scapă. :/
+
+[v3]
+Dincolo de munții urii,
+Dincolo de noapte,
+E iubirea în lumină,
+Cu-a ei roade coapte.
+/: Cu-a credinței mână,
+Strângem oadele ei coapte! :/
+
+[v4]
+Dincolo de suferință
+Dincolo de chinuri,
+E parfumul cel din via,
+Cu preasfinte vinuri.
+/: Cu-a credinței cupă
+Bem noi sfintele ei vinuri. :/
+
+[v5]
+Ochiul limpede-al credinței
+Să ni-I ții Părinte,
+Să privescă oricând Dincolo
+Harurile sfinte.
+/: În curând păși-vom
+Pragul harurilor sfinte. :/

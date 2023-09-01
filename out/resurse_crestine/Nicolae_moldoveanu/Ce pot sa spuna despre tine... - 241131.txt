@@ -1,0 +1,47 @@
+[title]
+Ce pot sa spuna despre tine {author: {Nicolae Moldoveanu}, {rcId: {241131}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Ce pot să spună despre tine
+Acei ce viața-ți urmăresc?
+/: Te socotesc lucrare sfântă
+A harului dumnezeiesc? :/
+
+[c]
+Tu știi, tu vezi! - O, cercetează-ți
+Adânc și-atent viața ta,
+Chiar de te-nșeli pe tine însuți,
+Pe Domnul nu-l poți înșela!
+
+[v2]
+Văd ei lumină minunată,
+În tot ce faci și-n tot ce spui?
+Și simt în ființa ta de humă
+Că ești copilul Domnului?
+
+[v3]
+Văd pe ogorul vieții tale
+Belșugul roadelor de sus?
+Și fața ta arată pururi
+Blândețea Feței lui Isus?
+
+[v4]
+Te văd ei liberi de pământul
+Și lumea veacului de-acum?
+Și-alergi tu liniștit și sigur
+Pe-al neprihanei veșnic drum?
+
+[v5]
+Isus te-a pus să-I fii lumină,
+Și mărturie pe pământ,
+Cum împlinești voința-l sfântă,
+Și cum ții sfântu-l legământ?
+
+[v6]
+El și-a făcut cu prisosință
+Lucrarea pentru tine, blând,
+De nu-L asculți în umilință.
+Vei da socoata în curând!

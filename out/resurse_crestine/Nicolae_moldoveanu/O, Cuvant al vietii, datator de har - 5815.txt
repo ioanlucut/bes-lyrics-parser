@@ -1,0 +1,29 @@
+[title]
+O cuvant al vietii datator de har {author: {Nicolae Moldoveanu}, {rcId: {5815}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O, Cuvânt al vieții, dătător de har,
+Răscolește bezna nopții grele iar!
+Zboară, spre-orizonturi, cu lumina Ta
+Dar și-n viața noastră să-Ți reverși pacea
+
+[c]
+/: Este vremea să ne ridicăm,
+Flacăra credinței s-aprindem
+Ochii să ne fie ridicați în sus!
+În curând, cu slavă, va veni Isus... :/
+
+[v2]
+O, Cuvânt al vieții, sfânt izvor ceresc,
+Stinge flacăra păcatelor ce cresc!
+Udă înc-o dată via lui Isus!
+Binecuvântată-i ploaia Sa de sus.
+
+[v3]
+O, Cuvânt al vieții, toate-om părăsi;
+Pe calea uitării, se vor risipi...
+Peste toate-n lume, veșnic, vei ședea.
+De la început ai fost, în veci vei sta.

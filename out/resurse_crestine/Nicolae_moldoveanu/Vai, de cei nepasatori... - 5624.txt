@@ -1,0 +1,47 @@
+[title]
+Vai de cei nepasatori {author: {Nicolae Moldoveanu}, {rcId: {5624}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Vai de cei nepăsători,
+În Sion!
+Vai de cei ce dorm în jug,
+Până dă rugina-n plug,
+Și-aduc foame, nu belșug,
+În Sion!
+
+[c]
+/: Vai de cei ce strâng grămezi,
+Și din câmp și din livezi,
+Dar la sapă nu-i mai vezi,
+În Sion! :/
+
+[v2]
+Vai de cei nepăsători,
+În Sion!
+Vai de cei care se-ascund,
+Să-și bea cupa pân-Ia fund,
+Și pe urmă mulg și tund,
+În Sion!
+
+[c2]
+/: Vai de cei care-și închid,
+Ușa inimii cu zid,
+Și-apoi cântă ca David,
+În Sion! :/
+
+[v3]
+Vai de cei nepăsători,
+În Sion!
+Vai de cei cu gâtul lung,
+Ce cu mir de preț se ung,
+Dar pe frații Ior împung,
+În Sion!
+
+[c3]
+/: Vai de cei cu perne moi,
+Care dorm în piei de oi.
+Nu! Ei nu vor fi cu noi,
+În Sion! :/

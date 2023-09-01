@@ -1,0 +1,41 @@
+[title]
+Fii credincios suflete-al meu {author: {Traian Dorz}, {rcId: {172390}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Fii credincios suflete-al meu
+Cum ți s-a spus, pînă la moarte,
+Că-n toate Însuși Dumnezeu
+Purta-ți-va grijă-n orice parte.
+
+[c]
+Mergi până poți, cu drag la toți
+Ori pot, ori nu pot să te cheme
+Și-atunci cînd nici tu n-ai să poți
+Te vor căuta ei! - nu te teme.
+
+[v2]
+Dă, până ai, din vremea ta
+Sau pâinea ta, cu bucurie
+Și-atunci când tu nu vei avea
+O mie au să-ți dea și ție.
+
+[c2]
+Strângi cât mai mult Cuvântul Sfânt
+Cu grijă-n inimă și-n minte
+Căci vor veni iar vremuri când
+Să fie-o secetă fierbinte.
+
+[v3]
+Învață să te înfrânezi
+Cât încă ai, fii cu răbdare
+Și-atunci cînd ai să-nfometezi,
+N-ai să-ți vinzi cerul pe-o mâncare.
+
+[c3]
+Învață suflete al meu
+În chinuri a-ți găsi plăcere
+Căci mai de preț e Dumnezeu
+Ca tot ce pentru El s-ar cere!

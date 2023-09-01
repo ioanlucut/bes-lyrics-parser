@@ -1,0 +1,30 @@
+[title]
+La ceasul rugaciunii petru si ioan {author: {Mihai Gavriluță}, {rcId: {233576}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+La ceasul rugăciunii, Petru și Ioan
+Mergeau ca să se-nchine în Templul Domnului
+Acolo jos la poartă un om olog era
+Era adus să ceară, era un om sărman
+
+[c]
+/: Sărmane om, tu ești iubit,
+Isus te face fericit!
+N-avem argint, nici bani să-ți dăm
+Dar azi Isus te vindecă :/
+
+[v2]
+Și l-au luat de mână și l-au ridicat
+Și îndată o minune, el s-a vindecat
+Umbla, sărea întruna și se minuna
+Striga în gura mare, striga: „
+Sunt vindecat!”
+
+[v3]
+Puternici în credință, puternici în Isus
+Cu Dumnezeu de mână cel Rău era învins
+Așa era și Petru, așa era Ioan
+Puternici în credință, nimic nu-i clătina

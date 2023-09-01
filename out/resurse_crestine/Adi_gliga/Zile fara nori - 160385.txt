@@ -1,0 +1,23 @@
+[title]
+Zile fara nori {author: {Adi Gliga}, {rcId: {160385}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Când vreau să fie zile fără nori,
+Să-mi amintești, pământul s-ar usca.
+Și știu, că sigur nu voi rezista
+Și-atunci aș vrea, să nu m-asculți deloc.
+
+[c]
+/: Tu ești cu mine când cad, când pare că-s slab,
+Dar nu, nu mă pierd, în Tine mă-ncred!
+Căci știu nu mă lași, privești ai mei pași,
+Mereu mă ridici, Tu, Doamne, învingi! :/
+
+[v2]
+Când vreau să fug de-o zi ce-i mult prea rea,
+Să-mi dai puteri, să-mi dai puteri aș vrea.
+Nu știu dacă mereu voi rezista,
+Când nu mai pot, Te rog nu mă lăsa!

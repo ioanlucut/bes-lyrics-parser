@@ -1,0 +1,57 @@
+[title]
+Anii au trecut usor {author: {Ionel Saran Bochis}, {rcId: {111145}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Anul Nou a sosit, 
+Eu vă zic bun venit!
+Anul Nou a sosit, a sosit,
+Și prin cîte-am trecut
+Știe Domnul mai mult,
+Știe Domnul mai mult,
+El mai mult.
+
+[v2]
+Anii au trecut ușor,
+Ca un fulg de boboc.
+Ca un fulger ce trece prin nori,
+/: Noi am fost fericiți,
+Poate-am fost și mîhniți,
+Dar Isus ne-a izbăvit,
+Ne-a izbăvit :/
+
+[v3]
+Să ne-aducem aminte
+Cu toții acum
+De ai noștri părinți ce-au plecat.
+/: Prin cîte-au trecut,
+Până ce ne-au crescut :/
+
+[v4]
+Dumnezeu, El ne-a dat, 
+O poruncă ne-a scris,
+Pe pământ părinții să-i cinstiți!
+/: Și noi vom-bătrâni
+Și atunci vom simți
+Cum am fost cu-ai noștri părinți,
+Ai noștri părinți :/
+
+[v5]
+Ne-au crescut, ne-au păzit,
+Și mereu ne-au iubit,
+În viață ei ne-au sfătuit,
+/: Cu Domnul noi să fim,
+Să nu ne despărțim,
+Să nu ne mai despărțim,
+Despărțim :/
+
+[v6]
+Haideți astăzi să-I dăm
+Viața noi s-o schimbăm,
+Anul Nou cu Isus să pășim.
+/: Până El va veni,
+Tot cu El să trăim,
+Tot cu El să trăim
+Să trăim :/

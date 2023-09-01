@@ -1,0 +1,21 @@
+[title]
+Tu singur iti faci raiul {author: {Nicolae Moldoveanu}, {rcId: {5439}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Tu singur iti faci raiul o Si-ti pregatesti cararea
+Si tu-ti albesti vesmantul, o Sfintindu-ti ascultarea.
+
+[c]
+/: Tu singur! Da, tu singur, o Iti pregatesti, pe veci,
+Odihna sau osanda o In care-ai sa petreci. :/
+
+[v2]
+Tu singur, iti faci iadul o Si-ti pregatesti scrasnirea
+Si tu-ti slabesti nadejdea, o Urmand impotrivirea.
+
+[v3]
+Tu singur, judecata o Ti-o pregatesti cu fapta;
+Trairea ta te-asaza o La stanga sau la dreapta.

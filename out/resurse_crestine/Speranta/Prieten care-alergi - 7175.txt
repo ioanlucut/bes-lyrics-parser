@@ -1,0 +1,31 @@
+[title]
+Prieten care-alergi {author: {Speranța}, {rcId: {7175}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Prieten care-alergi prin lumea de păcat...
+Pace nu găsești si sufletul ți-e-mpovărat...
+Dacă crezi că nu mai ai nici o scăpare,
+Dacă crezi că nu mai ai nici o salvare,
+Vreau să-ți dau o veste bună, lucrul cel mai prețios:
+Șansa ta e Hristos!
+
+[c]
+/: El a luat pe Capul Său păcatul meu, păcatul tău,
+Isus S-a jertfit pentru mine!
+El a luat asupra Sa vina mea și vina ta,
+Isus a murit si pentru tine! :/
+
+[v2]
+Întoarce-te acum din drumul păcătos,
+Nu mai amâna, Salvarea ta e Hristos!
+Trebuie să renunți la ce e rău,
+Trebuie să te împaci cu Dumnezeu!
+Nu există altă cale care poate duce sus
+Calea Sfântă e Isus!
+
+[e]
+/: Hristos a schimbat viata mea,
+El poate schimba și viata ta :/

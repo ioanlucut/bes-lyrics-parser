@@ -1,0 +1,29 @@
+[title]
+Haideti sa cantam cu veselie domnului {author: {Anonim}, {rcId: {4933}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Haideți să cântăm cu veselie Domnului
+Și să strigăm de bucurie
+Către stânca mântuirii noastre,
+Înaintea Lui să mergem toți cu laude.
+
+[c]
+Cântați-I cântece,
+Cântați-I cântece,
+Cântați-I cântece,
+O, în cinstea Lui.
+
+[v2]
+Domnul este un mare Împărat,
+Marea și uscatul le-a creat,
+Domnul este-un mare Dumnezeu,
+Lui mă-nchin, e Creatorul meu.
+
+[v3]
+Să ne-nchinăm, să ne smerim,
+Să plecăm genunchii, să-L slăvim.
+Noi suntem poporul Domnului,
+Nu putem fi smulși din mâna Lui.

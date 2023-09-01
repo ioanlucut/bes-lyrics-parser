@@ -1,0 +1,31 @@
+[title]
+Cand zaceam in bezna neagra a noptii {author: {Dănuț Așchilean}, {rcId: {193029}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când zăceam în bezna neagră a nopții,
+Bătut și dezbrăcat de mâini haine,
+/: Când cei de-aproape m-au lăsat uitării,
+Tu ai venit, te-ai aplecat spre mine. :/
+
+[c]
+/: Iți multumesc din inima Stăpâne,
+Căci m-ai văzut acolo în ruine,
+Te-ai îndurat Samaritean milos,
+Îți multumesc, îți multumesc frumos. :/
+
+[v2]
+Tu ai turnat balsam de vindecare,
+Și suferința grea mi-ai alinat,
+/: Pe-asinul Tău m-ai asezat degrabă,
+Și adăpost la han eu am aflat. :/
+
+[v3]
+În tine am găsit eu mângâiere,
+Isuse scump al dragostei prinos,
+În sufletul mi-ai redat iar bucurie,
+Îți multumesc, îți multumesc frumos.
+În sufletul mi-ai redat iar bucurie,
+Și m-ai salvat si din păcat m-ai scos.

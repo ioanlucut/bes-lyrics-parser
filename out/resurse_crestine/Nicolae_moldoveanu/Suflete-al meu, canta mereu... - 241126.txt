@@ -1,0 +1,27 @@
+[title]
+Suflete-al meu canta mereu {author: {Nicolae Moldoveanu}, {rcId: {241126}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Suflete-al meu, cântă mereu,
+Cântă pe Domnu-n lumină
+Cântă supus, căci ți-a adus,
+Har și primire deplină.
+
+[c]
+Mai luminos, mai credincios,
+Cântă și-ascultă-L pe Domnul Hristos!
+
+[v2]
+Drumu-I slăvit, calcă-I smerit,
+Plin de nădejdea sfințirii,
+Cântă nenfrânt, cântecul sfânt,
+Scut ți-este harul iubirii!
+
+[v3]
+Fii răbdător, spinii ce dor,
+Grabnic trăi-și-vor sfârșitul,
+Zorii de har, dulce răsar,
+Iată e roș Răsăritul!

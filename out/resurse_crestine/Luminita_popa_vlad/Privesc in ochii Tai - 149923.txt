@@ -1,0 +1,35 @@
+[title]
+Privesc in ochii tai {author: {Luminita Popa Vlad}, {rcId: {149923}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Privesc în ochii Tăi
+Lacrimile îți curg
+Esti atârnat pe cruce-n locul meu
+Te văd batjocorit,
+De toti ești părăsit,
+În locul meu pe cruce răstignit.
+
+[c]
+Ma-ntorc să plec și eu
+Cu-acei ce Te-au trădat
+Să nu-Ți mai văd durerea de pe chip,
+Și mă-ngrozesc când știu
+Că singur odată Te-am lăsat
+În locul meu pe cruce ca să rabzi
+Mă-ntorc sa vin și eu
+Cu-acei ce Te iubesc
+Să nu-Ți fiu cauza durerii de pe chip
+Dar mă-ngrozesc când știu
+Că odata Te-am lăsat
+În Locul meu pe cruce ca să rabzi
+
+[v2]
+Ramân uitmit și-acum
+Că totuși m-ai iubit
+Ai alergat spre mine să mă ierți,
+Deși n-am meritat
+Credeam ca m-ai uitat
+Mi-ai dovedit adevăratul har

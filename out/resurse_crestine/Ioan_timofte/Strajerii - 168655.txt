@@ -1,0 +1,45 @@
+[title]
+Strajerii {author: {Ioan Timofte}, {rcId: {168655}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Străjerii toți pe turnuri
+Strigă deșteptare.
+E gata să revină
+Nu stați în nepăsare!
+El vine să-și răpească
+Mireasa Lui iubită,
+În patria cerească,
+În țara mult dorită!
+
+[c]
+E tot mai aproape
+Ziua izbăvirii.
+Toți credincioși-așteaptă
+Momentul întâlnirii.
+Curând se-arată zorii,
+Apare Domnul slavei,
+Să ne-mbrăcăm în haine
+Curate și sfințite de El!
+
+[v2]
+Și sufletul meu astăzi
+Plânge și suspină...
+E lungă așteptarea,
+Iar candela mi-e plină.
+Să stăm cât se mai poate
+În sfântă părtășie,
+Unindu-ne în rugă,
+Păstrând credința vie.
+
+[v3]
+De sub altar toți sfinții
+Ce au plătit cu sânge,
+Mărturisind credința,
+Asteapt-a Lui venire.
+Mai mult ca niciodată
+Să ne rugăm fierbinte:
+Grăbește Doamne clipa,
+Ne este dor de Tine!

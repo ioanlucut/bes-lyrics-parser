@@ -1,0 +1,23 @@
+[title]
+O isus cu bucurie noi te-am asteptat {author: {Anonim}, {rcId: {153184}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+O Isus cu bucurie noi te-am așteptat
+Și un loc la noi în inimi, Ție Ți-am lăsat
+Astăzi vrem ca fiecare să ne bucurăm
+De-o vestire-atât de mare-n Betleem.
+
+[c]
+E Crăciun, e sărbătoare, s-a născut Isus
+Vestea bună de salvare, lumii a adus.
+E Crăciun, colindătorii iarăși se aud,
+Ca și îngerii pe vremuri vestea aducând
+
+[v2]
+Vestea aceasta-i ca lumina unui mare far,
+E speranța și-mplinirea unui mare har.
+Te primim cu bucurie prunc prea sfânt Isus,
+Căci prin nașterea Ta viață ne-ai adus.

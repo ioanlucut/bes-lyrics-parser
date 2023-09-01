@@ -1,0 +1,23 @@
+[title]
+Mai mult ca aerul {author: {Anonim}, {rcId: {62684}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+/: Mai mult ca aerul :/
+E-a Ta prezență,
+Vie în min’
+
+[v2]
+/: Mi-e pâine zilnică :/
+Al Tău cuvânt viu,
+Ce l-ai rostit
+
+[v3]
+Iar eu tânjesc după Tine
+Și sunt pierdut fără Tine
+
+[v4]
+Tânjesc după Tine
+Mă pierd fără Tine

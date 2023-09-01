@@ -1,0 +1,41 @@
+[title]
+Despartiti {author: {Nicolae Moldoveanu}, {rcId: {242637}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Despărțiți Isuse
+De Ființa-Ți dragă,
+Lumea cu-a ei drumuri
+Prinde să ne-atragă.
+
+[c]
+Despărțiți de sfânta
+Vieții Tale Carte,
+Lumea spre-ntuneric,
+Vine să ne poarte.
+
+[v2]
+Despărțiți de-al rugii
+Turn de apărare,
+Lumea ne cuprinde
+Cu ispita-i tare.
+
+[c2]
+Despărțiți de dulcea
+Dragoste frățească,
+Lumea vine, crudă,
+Să ne copleșească.
+
+[v3]
+Despărțiți de râvna
+În lucrarea-Ți sfântă,
+Lumea cu-a ei doruri
+Sufletul ne-ncântă.
+
+[c3]
+Numai când ni-i viața-n
+Tine contopită,
+Lumea nu ne-atrage,
+Calea-i liniștită.

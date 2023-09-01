@@ -1,0 +1,35 @@
+[title]
+Cunosc o iubita capela {author: {Anonim}, {rcId: {74321}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Cunosc o iubită Capelă,
+Unde cu plăcere petrec,
+Unde cu dorința unită,
+Cu frații pe Domnul slăvesc.
+
+[c]
+Călătorule, vino la ea.
+Aici vei afla frații tăi,
+Cari la lucrul bun te-or îndemna:
+Să slăvești pe Domnul cu ei.
+
+[v2]
+Cunoașteți capela aceasta,
+La care așa mult doresc?
+Unde cu inima smerită,
+După Dumnezeu lâncezesc.
+
+[v3]
+Cunoști tu capela aceasta,
+Pacea umple lăuntrul ei;
+Aici pentru toți se vestește,
+Cuvântul sfânt al Bibliei.
+
+[e]
+Călătorule, vino la ea,
+Aici locul păcii-i afla.
+Auzi cum răsună chemarea:
+Bine-ți va fi, de-i vei asculta!

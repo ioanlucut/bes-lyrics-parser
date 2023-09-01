@@ -1,0 +1,24 @@
+[title]
+Sfant in veci {author: {Matt Redman}, {rcId: {2459}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Ție-Ți dau întreaga-mi viață
+Ai plătit un preț, ai dat tot ce aveai să trăiesc,
+La altar primesc iar viață
+Sunt al Tău, viața-ntreagă Ți-o dau
+
+[c]
+/: Tot ce am acum Îți daruiesc
+Tu ești sfânt în veci, sfânt în veci
+Toată viața, tot ce eu trăiesc
+Tu ești sfânt în veci, sfânt în veci :/
+
+[v2]
+Rege-al meu, ești Salvatorul!
+Ai lăsat chiar gloria
+Și Te-ai jerfit să trăiesc,
+Cum pot să-Ți răsplătesc azi
+Ești în viața mea, m-ai eliberat!

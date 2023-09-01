@@ -1,0 +1,36 @@
+[title]
+Ca vantul zboara anii {author: {Nicu Wagner}, {rcId: {5544}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ca vântul zboară anii, ca viforul în zbor,
+Ca și apusul zilei ce-ncet, dispare-ușor...
+Adună cu ei totul și toate duc cu ei-
+Și faptele și gândul, chiar dacă nu o vrei.
+
+[c]
+De aceea astăzi trebuie să știi:
+Orice an te-atrage înspre veșnicii!
+Nu-i o întâmplare viața ta sub soare.
+Cand vei merge-n fața celui ce-a dat viața,
+Ce vei răspunde oare?
+
+[v2]
+El trece ca un sunet: Ce importanță-i dai?
+Spre ce e al tau umblet? Spre ce plăcere ai?
+Ce-ți spune azi balanța, cea dintre bine, rău?
+Sau nu ai cutezanța a ști de locul tău?
+
+[v3]
+Ale-nserării umbre se vor lăsa-n curând
+Și cânturi tot mai sumbre vei auzi sfârșind.
+Dar, daca o să-ți numeri mai bine zilele,
+Vei arunca din umeri, în praf, poverile.
+
+[v4]
+Primind Mântuitorul ca Domn în viața ta,
+Vei merge cu poporul salvat prin jertfa Sa;
+Vei prețui chemarea și voia Domnului,
+Vei aștepta plecarea spre-mpărăția Lui.

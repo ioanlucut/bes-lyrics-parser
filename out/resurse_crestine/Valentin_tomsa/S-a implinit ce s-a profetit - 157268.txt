@@ -1,0 +1,33 @@
+[title]
+S-a implinit ce s-a profetit {author: {Valentin Tomșa}, {rcId: {157268}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+S-a împlinit ce s-a profețit,
+Că odată în Iudea,
+/: Se va naște un Fiu,
+Într-o noapte, târziu,
+Să aducă mântuirea. :/
+
+[c]
+Mesia, Mesia a venit pe Pământ
+Cu două mii de ani înainte,
+/: Să Îl slăvim cu toții în cânt,
+Căci prin El noi avem mântuire! :/
+
+[v2]
+Ce minunată veste a primit
+Atunci Maria!
+/: Când îngerul i-a zis
+De Dumnezeu trimis:
+”
+Îl vei naște pe Mesia!” :/
+
+[v3]
+Azi, într-un glas cu toți ne unim
+Pentru a Lui bunătate,
+/: Să Îi mulțumim,
+Că prin El noi trăim
+Și ne-a adus salvare! :/

@@ -1,0 +1,39 @@
+[title]
+Cu tine drumul mi-e-nainte {author: {Nicolae Moldoveanu}, {rcId: {5798}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Cu Tine, drumul mi-e-nainte,
+Isuse, cate-or mai veni;
+Am mai putina miazanoapte
+/: Si tot mai multa miazazi. :/
+
+[c]
+/: Lumina, Lumina!
+/: Tu ai biruinta cea deplina! :/
+
+[v2]
+Desi mi-e crucea mai de piatra
+Si vantul pare-a se-nteti,
+Am mai putina miazanoapte
+/: Si tot mai multa miazazi. :/
+
+[v3]
+Vrajmasu-mi spune mai cu ura,
+Sageata lui pare-a tinti;
+Dar mai putin e miazanoapte
+/: Si-i tot mai multa miazazi. :/
+
+[v4]
+Cand, spre pustia lumii, norii
+Vin tot mai negri zi de zi,
+E mai putina miazanoapte
+/: Si tot mai multa miazazi. :/
+
+[v5]
+Caci, Tu, Isuse,-n orice clipa
+Esti mai aici si vei sosi...
+Cu Tine miazanoaptea-i dusa
+/: Si-n veci va fi o miazazi! :/

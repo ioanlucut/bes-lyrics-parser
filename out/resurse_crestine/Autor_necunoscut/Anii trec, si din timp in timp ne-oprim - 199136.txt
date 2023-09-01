@@ -1,0 +1,41 @@
+[title]
+Anii trec si din timp in timp ne-oprim {author: {Anonim}, {rcId: {199136}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Anii trec, si din timp in timp ne-oprim
+Urma pasilor in vai s-o privim
+Sa vedem tot ce-n inima avem
+Cum am fost candva si azi cum suntem
+Am purtat in lume Chipul Tau si-ai fost vazut?
+Al Tau Nume oare l-am facut de cunoscut?
+
+[c]
+/: Ai sa vii curand si tot ce-n urma am lasat
+Iti va spune ce-am iubit cu-adevarat :/
+
+[v2]
+Anii trec si vor duce-n zborul lor
+Orice sansa de-a sluji plini de dor
+Regretat va fi lucrul amanat
+Ce-am avut de gand sa dam si n-am dat
+Am purtat in lume oare-al dragostei vesmant
+Sau legata inima ne-a fost doar de pamant?
+
+[c2]
+/: Ai sa vii curand si tot ce-n urma am lasat
+Iti va spune ce-am iubit cu-adevarat :/
+
+[v3]
+Anii trec si nu-i chip sa ii oprim
+Insa clipa ce-o avem s-o traim
+Ca-ntr-o zi cand pe nori vei reveni
+Inspre noi sa poti privi si spune
+C-am purtat in lume Chipul Tau si-ai fost vazut
+Si-al Tau Nume mare L-am facut de cunoscut
+
+[c3]
+/: Vrem cand vei veni, privind la tot ce am lucrat
+Sa ne spui ca Te-am iubit cu-adevarat :/ cu-adevarat!

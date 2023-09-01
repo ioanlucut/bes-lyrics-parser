@@ -1,0 +1,31 @@
+[title]
+Doamne esti a mea tarie {author: {Anonim}, {rcId: {198607}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ori de câte ori eu sunt cu Tine,
+Fericită-mi este inima,
+Ori de câte ori Te simt cu mine,
+Viața mea e rai, încă de-acuma.
+
+[c]
+Doamne ești a mea Tărie,
+Stâncă mea de bucurie,
+Domnul meu, iubirea mea
+Doamne ești a mea speranță,
+Turnul meu de siguranță,
+Mângâierea-n viața mea.
+
+[v2]
+Ori de câte ori am o întristare,
+Și povara firii este grea,
+Tată vin la Tine cu credință,
+Vindecată-mi este inima.
+
+[v3]
+Ori de câte ori pe culmi de glorii
+Tu mă porți în îndurarea Ta,
+Cu haina smereniei mă acopăr,
+Să rămân în îndurarea Ta.

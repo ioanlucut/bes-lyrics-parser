@@ -1,0 +1,41 @@
+[title]
+Binecuvantat {author: {Nihil sine Deo}, {rcId: {4366}}
+
+[sequence]
+v1,b,c,v2,c,e
+
+[v1]
+Binecuvantat sa fii Tu.
+Cand sunt intr-un loc.
+Unde raul Tau curge lin.
+Fii binecuvantat.
+Binecuvantat sa fii Tu.
+Cand sunt in desert.
+In pustiu sau in seceta.
+Fii binecuvantat.
+
+[b]
+Orice binecuvantare. Alegi sa-mi dai.
+Eu cu laude iti voi raspunde.
+Si voi canta.
+
+[c]
+Binecuvantat sa fie El.
+Binecuvantat.
+Binecuvantat sa fie El.
+Numele sa-I fie inaltat.
+
+[v2]
+Binecuvantat sa fii Tu.
+Cand in viata mea.
+Soarele straluceste iar.
+Fii binecuvantat.
+Binecuvantat sa fii Tu.
+Cand in viata mea.
+Cu durere-ti dau jertfa mea.
+Fii binecuvantat.
+
+[e]
+/: Ai dat si ai luat. :/
+Din inima-am strigat.
+Fii binecuvantat.

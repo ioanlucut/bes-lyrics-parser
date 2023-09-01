@@ -1,0 +1,31 @@
+[title]
+Azi e craciun e bucurie {author: {Andreea Popoi}, {rcId: {143949}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Azi e Crăciun, e bucurie,
+Azi S-a născut Isus!
+Lauda mea a Lui să fie,
+Azi S-a născut Isus!
+În toată lumea-i sărbătoare,
+Azi S-a născut Isus!
+Căci am primit o Veste mare:
+Azi S-a născut Isus!
+
+[c]
+/: Azi S-a născut Isus-Mesia,
+Domn peste-ntreg pământ.
+Ne-a mântuit pentru vecie,
+Hristos - Regele Sfânt. :/
+
+[v2]
+Azi vin smerit la Tine, Doamne.
+Azi S-a născut Isus!
+Să mă primești cât mai e vreme!
+Azi S-a născut Isus!
+Întreg pământul Te slăvește,
+Azi S-a născut Isus!
+Și osanale-Ți dăruiește,
+Azi S-a născut Isus!

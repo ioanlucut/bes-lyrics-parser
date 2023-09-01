@@ -1,0 +1,35 @@
+[title]
+Oricat ai fi {author: {Nicolae Moldoveanu}, {rcId: {246364}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Oricât ai fi într-una
+Cu-ai tăi sau cu străini
+Găsește rugăciunii
+O clipă să-i închini.
+Oricât de multe treburi
+Ar fi mereu să ai,
+Găsește rugăciunii
+O clipă să i-o dai.
+
+[v2]
+Oricât ai fi de grabnic
+Să pleci ori să sosești
+Găsește rugăciunii
+O clipă să-i jertfești.
+Oricare ți-ar fi starea
+În bine sau necaz,
+Găsește rugăciunii
+O clipă de răgaz.
+
+[v3]
+Oricât ți-ar fi pe lume
+De greu sau de ușor,
+Găsește rugăciunii
+O clipă și-un fior.
+Oricâte celelalte
+Ți le-ai plini pe rând
+Clipita rugăciunii
+Le va sfinți oricând.

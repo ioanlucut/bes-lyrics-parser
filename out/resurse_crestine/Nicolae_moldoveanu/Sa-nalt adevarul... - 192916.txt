@@ -1,0 +1,35 @@
+[title]
+Sa-nalt adevarul {author: {Nicolae Moldoveanu}, {rcId: {192916}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Să-nalț adevăru-n blândețe,
+Isuse, ca Tine, oricând,
+/: Vestirea Lucrării mărețe
+O pot împlini când sunt blând. :/
+
+[v2]
+Să-nalț adevărul ca Tine
+Isuse, curat și smerit,
+/: Vestirea trăirii divine,
+O pot doar când sunt umilit! :/
+
+[v3]
+Să-nalț adevărul în pace,
+Isuse ca Tine, ceresc,
+/: Lucrare divină pot face,
+Atunci când în pace trăiesc! :/
+
+[v4]
+Să-nalț adevăru-n credință,
+Isuse ca Tine, frumos,
+/: În luptă câștig biruință,
+Când eu îl înalț credincios! :/
+
+[v5]
+Să nalț adevăru-n iubire,
+Isuse cu m Tu L-ai nălțat,
+/: Primindu-i cereasca trăire,
+Voi fi-adevăr întrupat! :/

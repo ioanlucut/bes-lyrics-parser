@@ -1,0 +1,31 @@
+[title]
+Tu ai venit {author: {Text: Victorița Ilie, Muzica: Adrian Toader}, {rcId: {199402}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Tu ai venit lumină-n lume să cauți ce era pierdut,
+Să te-ntrupezi Isuse-anume, așa cum Biblia o spune.
+Să iei asupra Ta pe rând, păcate grele și amare,
+Să fii-nsetat, să fii flămând, să fii Copilul mic și blând.
+Să fii copil, să fii-nsetat,
+Să fii copil, să fii flămând,
+Să fii copilul mic și blând
+Și fără apărare.
+
+[c]
+/: Tu ai venit în Betleem, sărac și umilit
+Ca să aduci un nou Eden, să ne răscumperi din blestem.
+Tu ai venit în Betleem, sărac și umilit
+Să ne răscumperi în chip desăvârșit. :/
+
+[v2]
+Isuse, Domn nebiruit, Copil născut în iesle
+Fă-n orice suflet pocăit altar de dragoste slăvit.
+Să îl renaști din nou cu Tine, în el Tu să domnești
+Ca-n întruparea care vine, când vom porni spre-a Ta-nălțime,
+Tu să domnești, să îl renaști,
+Tu să domnești, să-l stăpânești.
+Când vom porni spre-a Ta-nălțime
+În Tine să-l găsești.

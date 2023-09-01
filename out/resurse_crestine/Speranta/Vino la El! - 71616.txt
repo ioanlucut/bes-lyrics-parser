@@ -1,0 +1,35 @@
+[title]
+Vino la el {author: {Speranța}, {rcId: {71616}}
+
+[sequence]
+v1,b,c,v2,c,v3,c
+
+[v1]
+Ai căutat în viață fericirea,
+Ai căutat pofte și plăceri,
+Dar ai văzut că toate-s trecătoare,
+Și te-au lăsat sleit, făr’ de puteri.
+
+[b]
+Astăzi ai o șansă, poți să fii salvat
+Poți să fii liber, liber de păcat
+Nu amâna, nu amâna
+Hristos te poate ajuta!
+
+[c]
+/: Te cheamă Domnul, vino la El
+Să primești eliberare!
+Te cheamă astăzi chiar Isus
+Să îți dea în dar iertare! :/
+
+[v2]
+Isus Hristos a stat pe lemnul crucii,
+Chinurile groaznice a suferit!
+Și pentru tine, El și-a dat viața,
+Păcatul lumii-ntregi a fost plătit!
+
+[v3]
+Tu poți avea un nou început,
+Să fii făptură nouă în Hristos!
+Dacă îți predai viața Lui,
+El îți face drumul mai frumos!

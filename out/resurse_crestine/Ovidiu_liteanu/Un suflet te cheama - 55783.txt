@@ -1,0 +1,29 @@
+[title]
+Un suflet te cheama {author: {Ovidiu Liteanu}, {rcId: {55783}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Un suflet Te cheamă să vii o Isuse
+Un suflet în noapte așteaptă mereu
+/: În grea încercare să-I dai alinare
+Se-ncrede în Tine că ești Dumnezeu! :/
+
+[v2]
+Un suflet se roagă, Te cheamă Isuse
+Suspină și plânge în ceasuri târzii
+/: În grea strâmtorare, să-i dai vindecare
+Te-așteaptă-n durere Isuse să vii :/
+
+[v3]
+A lui rugăciune nu se mai oprește
+Chiar dacă-i furtună și norii sunt grei
+/: El are credință, că-i dai biruință
+O vino Isuse, povara să-i iei :/
+
+[v4]
+Și chiar dacă-ntârzii să-i dai ajutorul
+Cu toată credința se roagă mereu
+/: Spre ceruri privește și nădăjduiște
+Că-i dai izbăvire, o sfânt Dumnezeu! :/

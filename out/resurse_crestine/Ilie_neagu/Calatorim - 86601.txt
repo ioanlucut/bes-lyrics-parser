@@ -1,0 +1,29 @@
+[title]
+Calatorim {author: {Ilie Neagu}, {rcId: {86601}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Călătorim pe-acest pământ
+Ne îndreptăm spre-o țară aleasă
+Noi mergem cu spor și avânt
+Spre-o Veșnicie ce ne așteaptă
+
+[c]
+/: Să ne încurajăm mereu
+Chiar de drumul este greu
+Suntem ades loviți de val
+Dar în curând sosim la mal :/
+
+[v2]
+Călătorim, călătorim
+Patria-I tot mai aproape
+Prin credință noi privim
+Și mergem mai departe
+
+[v3]
+Călătoria s-a sfârși
+În curând în țară Sfântă
+Cei care vor birui
+Vor vedea fața Lui blândă

@@ -1,0 +1,31 @@
+[title]
+Pacea din inima mi-o da doar domnul meu {author: {Alexandru Groza}, {rcId: {80742}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Pacea din inimă
+Mi-o dă doar Domnul meu,
+Eu am credința-n El,
+În Creatorul meu!
+În alergarea mea
+Nu uit iubirea Sa,
+Pe Domnul Îl cinstesc,
+Mereu Îi mulțumesc!
+
+[c]
+/: Când inima mea suspină
+Numai Domnul mi-o alină,
+El aduce-n ea lumină
+Zi de zi! :/
+
+[v2]
+Când greu sunt încercat,
+De grijuri apăsat,
+Domnu-i de partea mea
+Mi-alină inima.
+Iubind pe Dumnezeu
+Trăiesc prin harul Său,
+Cu mine e mereu
+La bine și la greu!

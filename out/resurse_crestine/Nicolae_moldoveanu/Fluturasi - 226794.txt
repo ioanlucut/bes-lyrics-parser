@@ -1,0 +1,29 @@
+[title]
+Fluturasi {author: {Nicolae Moldoveanu}, {rcId: {226794}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Fluturași cu aripioare
+prind să zboare către soare,
+să vestească primăvara
+cu comoara cea de floare.
+
+[c]
+Totu-i zâmbet și lumină
+pe colină și-n grădină;
+Doamne, câtă fericire
+ai turnat Tu peste fire
+
+[v2]
+Colo-n crânguri păsărele
+vin și ele sprintenele,
+cu cântări de veselie
+într-o vie bucurie.
+
+[v3]
+Copilași în voie bună
+se adună împreună
+să alerge, să se joace
+Doamne-n pace, cât le place.

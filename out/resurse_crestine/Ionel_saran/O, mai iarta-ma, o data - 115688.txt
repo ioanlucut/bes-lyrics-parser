@@ -1,0 +1,23 @@
+[title]
+O mai iarta-ma o data {author: {Ionel Saran}, {rcId: {115688}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+/: Mă întorc din drumul rău
+Vreau să fiu copilul Tău
+Știu că mult te-am întristat
+Cât în nepăsare-am stat :/
+
+[c]
+/: O, mai iartă-mă o dată
+Mai ridică-mă Tu, azi
+Mai trezește-n mine Duhul
+Ce mi-ai dat :/
+
+[v2]
+Mai lasă-mi din Harul Tău
+Mai iartă-mă, Domnul Meu
+Cât pe Lume voi trăi
+Nu te voi mai părăsi

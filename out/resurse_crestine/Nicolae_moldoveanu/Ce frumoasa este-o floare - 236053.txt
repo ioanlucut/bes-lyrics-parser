@@ -1,0 +1,23 @@
+[title]
+Ce frumoasa este-o floare {author: {Nicolae Moldoveanu}, {rcId: {236053}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Ce frumoasă este-o floare, ce mireasmă, ce culori,
+care-ncântă și desfată pe grăbiții trecători!
+Dar cât de frumos e-Acela ce-a zidit-o măiestrit!
+El e veșnic și Se cheamă Dumnezeu cel Preamărit!
+
+[v2]
+Ce puternic este vântul ce doaboară-nalți stejari,
+ce uimește și smerește oameni cât ar fi de tari!
+Dar cât de puternic este Dumnezeu ce l-a făcut!
+Un cuvânt când El rostește, orice glas rămâne mut!
+
+[v3]
+Cât de necuprins e cerul, cât e-ntinsu-i neștiut,
+câte taine-n ce se vede, câte-s în ce-i nevăzut!
+Dar ce necuprins și tainic este-Acel ce l-a creat:
+Dumnezeu, izvorul vieții! Fie veșnic lăudat!

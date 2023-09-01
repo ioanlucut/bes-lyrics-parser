@@ -1,0 +1,38 @@
+[title]
+Am pribegit in asta lume {author: {Hristic}, {rcId: {108044}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Am pribegit în astă lume
+Fără de Tine, Domnul meu,
+Mă-ntorc acum, mă-ntorc la Tine,
+Și vreau să fiu copilul Tău!
+
+[c]
+/: Mă modelează Tu, în toate,
+Ca un Olar ce vrednic ești,
+Mă curățește, mă sfințește,
+Pentru că știu cât mă iubești :/
+/: Isus eu vin, acum, la Tine,
+Primește-mă așa cum sunt,
+Nu-ntoarce fața de la Mine,
+Știu c-am greșit... atât de mult! :/
+/: M-aplec, smerit, ’naintea Ta,
+Cu umilință vin la Tine,
+Îți dăruiesc inima mea,
+Fă Tu de-acum ce vrei cu mine :/
+
+[v2]
+La Tine vin și-mi cer iertare,
+O, Doamne bun și-durator,
+Revarasa Tu a Ta-ndurare,
+Balsamul Tău vindecător!
+
+[v3]
+O, Doamne, ce-aș putea eu face,
+Cum aș putea să-Ți mulțumesc,
+Căci la Golgota, sus, pe cruce,
+Mi-ai spus atunci ”
+Eu te iubesc!”

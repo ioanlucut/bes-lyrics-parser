@@ -1,0 +1,26 @@
+[title]
+Vreau acest munte (i want that mountain) {author: {Bill Harvey, Traducere RO}, {rcId: {224321}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Eu am văzut pe munte uriașii lui Anac
+Și cum râdeau și ne batjocoreau;
+Iar prin pustie eu nu vreau să fiu iarăși pribeag
+Deci, muntele acesta eu îl vreau!
+
+[c]
+Vreau acest munte
+Vreau acest munte
+Unde-s roade din belșug
+Tot ce-i dulce și mai bun!
+Vreau acest munte
+Vreau acest munte
+Munte pe care Domnul mi l-a dat!
+
+[v2]
+Învinge și tu orice uriaș din viața ta
+Fii gata să privești la Dumnezeu;
+El te-a adus pe stâncă și ți-a dat puterea Sa
+Cu Domnul tău vei birui mereu!

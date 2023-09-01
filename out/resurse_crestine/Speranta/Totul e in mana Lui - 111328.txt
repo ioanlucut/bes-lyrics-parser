@@ -1,0 +1,31 @@
+[title]
+Totul e in mana lui {author: {Speranța}, {rcId: {111328}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Lumea-n valuri se frământă,
+Toate duc spre un sfârșit!
+Noi trăim vremea din urmă
+Cum profeții-au profețit.
+Frământarea este mare,
+Multă zarvă-ntre popoare...
+Cei ce sunt ai Domnului
+Știu că totul e în Mâna Lui!
+
+[c]
+/: Totul e în Mâna Lui,
+Totul e a Domnului!
+În Mâna Lui, în mâna tare
+A Domnului! :/
+
+[v2]
+Viața noastră-o-ncredințăm
+În brațul Domnului Isus.
+El ne poartă pașii noștri
+Așa cum ne-a spus.
+Să lăsăm în grija Lui
+De ceea ce va veni,
+Este cineva în slavă
+Ce ne vede zi de zi!

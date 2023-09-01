@@ -1,0 +1,35 @@
+[title]
+Cine a creat {author: {Anonim}, {rcId: {5232}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Cine a creat stele pe cer
+Stelele, stelele
+Cine a creat stele pe cer
+Domnul Dumnezeu
+
+[v2]
+Cine a creat pasărea să zboare
+Pasărea, pasărea
+Cine a creat pasărea să zboare
+Domnul Dumnezeu
+
+[v3]
+Cine a creat peștele să-noate
+Peștele, peștele
+Cine a creat peștele să-noate
+Domnul Dumnezeu
+
+[v4]
+Cine ne-a creat pe noi pe toți
+Pe noi pe toți, pe noi pe toți
+Cine ne-a creat pe noi pe toți
+Domnul Dumnezeu
+
+[v5]
+Cine a creat stele pe cer
+Pasărea, peștele
+Cine ne-a creat pe noi pe toți
+/: Domnul Dumnezeu. :/

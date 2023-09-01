@@ -1,0 +1,31 @@
+[title]
+Esti in mana mea olarul {author: {Souca Danusia}, {rcId: {212042}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+Te-am uitat în încercare ca să spui că nu mai poți
+S-a scurtat Brațul Meu oare, care-ți vine-n ajutor?
+Oprește-te o clipă, meditează: viața ta
+Cum e oare? E predată sau ai de lucrat la ea?
+
+[c]
+/: Ești în Mâna Mea, Olarul,
+Vas de lut prețuit.
+Oare nu-Mi auzi tu Glasul
+Care-ți spune „ești iubit”? :/
+
+[v2]
+Pentru tine mut și munții
+Dau și oameni și popoare
+Și tu spui că singur ești
+Când apare o încercare
+Eu sunt Cel ce-a fost, Cel ce este și Cel ce va veni
+Și cu Mine e răsplata pentru-ai Mei copii!
+
+[b]
+/: Nu întârzii niciodată,
+Nu rămân dator,
+Doar încrede-te și caută
+În Mine ajutor! :/

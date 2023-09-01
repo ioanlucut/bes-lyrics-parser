@@ -1,0 +1,36 @@
+[title]
+Navigam pe oceanele lumii {author: {Surorile Onofrei}, {rcId: {79252}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Navigăm pe oceanele lumii
+Ținta noastră e portul Ceresc
+Am pornit s-ajungem acolo
+Unde plânsul și durerea se sfârșesc
+
+[c]
+Pe catarg e drapelul speranței
+Că-ntr-o zi vom ajunge la mal
+Dar nu cu busola științei
+Ci doar cu-a Domnului Har
+
+[v2]
+Navigăm pe întinsele ape
+Înspre cerul senin ne uităm
+Pescăruși vin în zbor mai aproape
+Parcă spun „
+Ești aproape de țărm”
+
+[v3]
+Am pornit spre o țară departe
+Ce-a fost greu pân’ acum am uitat
+Am trecut prin primejdii de moarte
+Nu ne temem avem un Împărat
+
+[v4]
+Hai acum să pornim cu credință
+Spre cetatea cu străzi aurii
+Nu auzi cum răsună chemarea
+Dumnezeu te îmbie să vii.

@@ -1,0 +1,30 @@
+[title]
+Glorie {author: {Revers}, {rcId: {223784}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Iată, o lumină apare
+Să stie fiecare, e zi de sărbătoare
+Iată, s-a născut Mesia
+Să-nceapă bucuria
+În ritm cu veșnicia
+
+[c]
+Glorie, s-a născut Isus
+Glorie, pace ne-a adus
+Glorie, cerul s-a deschis
+Iubirea ne-a atins printr-un copil!
+
+[v2]
+Iată, steaua ce rasare
+Ca să dea culoare, e zi de sărbătoare
+Iată, s-a născut Mesia
+Să-nceapă bucuria, în ritm cu veșnicia
+Fiecare inimă sa fie plină de lumină
+Și fiecare inimă să cânte tare: GLORIE!
+
+[v3]
+Fiecare inimă Să fie plină de lumină
+Și fiecare inimă să cânte tare: Glorie!

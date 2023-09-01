@@ -1,0 +1,33 @@
+[title]
+Cand imi bat in poarta furtunile ce vin {author: {Anonim}, {rcId: {89881}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când îmi bat în poartă furtunile ce vin
+Nu mă tem, nu mă tem!
+Când e cerul vieții de gânduri negre plin
+Nu mă tem, nu mă tem!
+
+[c]
+Eu Îl țin de mână, de El mă alipesc
+Și întotdeauna, în ochii Lui privesc
+Cu El împreună, cred și reușesc
+Peste toate să pășesc.
+Lânga mine El e cu mine mereu
+Și nici greul nu mai pare atât de greu
+Nu sunt singur, orișice ar veni
+Mâna Lui mă va păzi.
+
+[v2]
+Când mă simt învins de al vieții val
+Nu mă tem, nu mă tem!
+Mâna Lui mie-ntinsă, punte spre liman
+Nu mă tem, nu mă tem!
+
+[v3]
+Dacă îndoiala din nou mă va-ncerca
+Nu mă tem, nu mă tem!
+Chiar dacă puțină e credința mea
+Nu mă tem, nu mă tem!

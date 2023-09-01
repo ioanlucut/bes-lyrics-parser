@@ -1,0 +1,33 @@
+[title]
+Esti tu pregatit sa intalnesti {author: {Alexandru Groza}, {rcId: {1455}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ești tu pregătit să întâlnești azi pe Domnul
+O, spune prietene, ești pregătit?
+Ți-e scris numele tău în cartea vieții?
+Te întreb dacă ești mântuit?
+
+[c]
+Judecata este-aproape
+Nu mai sta nepăsător
+Grăbește la Isus
+De vrei să fii salvat.
+Pregătește-te să-L întâlnești
+Pe Dumnezeul tău acum
+Încrede-te în El
+Ca să fii mântuit.
+
+[v2]
+Un strop de credință e-o rază de soare
+Ce-n sufletul tău mereu va străluci
+Primește viață, primește lumină
+Primește-L tu astăzi pe El.
+
+[v3]
+În jertfa lui Isus găsești mântuire
+Prin sângele Lui tu ești răscumpărat
+În nimenea altul nu este salvare
+Ce Tatăl prin Fiul ne-a dat.

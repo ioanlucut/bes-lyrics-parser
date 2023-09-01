@@ -1,0 +1,41 @@
+[title]
+O zi frumoasa {author: {Persida Mureșan}, {rcId: {104952}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O zi frumoasă și fericită
+Pentru voi Domnu-a pregătit
+Să fiți acuma, împreună
+L-altarul Celui veșnic sfânt.
+O zi frumoasă și fericită
+Pentru voi doi ce vă uniți
+În pasul astăzi vă pornește
+Pe-un drum de voi necunoscut.
+
+[c]
+/: Numai Domnul Isus poate luntrea vieții să v-o poarte
+Spre Limanul cel dorit
+El să rămână în toate Domn, Stăpân și să vă poarte
+Până-n Patria de sus :/
+
+[v2]
+Rămâne-n urmă tinerețea
+Cu-așa de multe amintiri
+Dar dacă veți sta lângă Domnul
+Cu El avea-veți bucurii
+De asta mergeți împreună
+Un drum cu flori noi vă dorim
+Un drum numai de biruință
+E tot ce-n viață vă dorim.
+
+[v3]
+Unește-i, Doamne, chiar acuma
+E ruga care o înălțăm
+Și-un imn spre Tine să rămână
+Pe veci, o, Doamne Te rugăm.
+Rămâi cu ei în a lor barcă
+Condu-i spre patria de sus
+Și fii cu ei pe veci, o, Doamne
+Până când vor ajunge sus.

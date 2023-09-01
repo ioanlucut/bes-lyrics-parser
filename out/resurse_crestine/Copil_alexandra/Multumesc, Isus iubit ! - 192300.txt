@@ -1,0 +1,30 @@
+[title]
+Multumesc isus iubit {author: {Copil Alexandra}, {rcId: {192300}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Mulțumesc, Isus iubit,
+Pentru ce mi-ai dăruit
+Mulțumesc pentru picioare,
+Pentru dragostea Ta mare..
+Mare, mare, foarte mare!
+
+[v2]
+Tu mi-ai dat și o mămică,
+Care-mi face mâncărică
+Și-o iubesc atât de mult..
+Foarte, foarte, foarte mult!
+
+[v3]
+Mi-ai dat și-un tătic puternic,
+Nu se teme de-ntuneric
+Și-l iubesc atât de mult..
+Foarte, foarte, foarte mult!
+
+[v4]
+Mulțumesc, Isus iubit,
+Pentru ce mi-ai dăruit
+Te iubesc atât de mult..
+Foarte, foarte, foarte mult!

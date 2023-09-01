@@ -1,0 +1,29 @@
+[title]
+Biruinta se primeste prin credinta {author: {Anonim}, {rcId: {60410}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Biruinta se primeste prin credinta
+Daca crezi cu-adevarat vei birui
+Daca vii la Domnul azi cu umilinta
+Fericit pe bratul Sau vei fi.
+
+[c]
+/: Crede, roaga-te si inchina-te
+Multumeste-I Domnului ca e cu tine
+Spune-I Domnului tot necazul tau
+Ai sa vezi cum birunta vine. :/
+
+[v2]
+Incercarea care vine peste tine
+Nu e mare ca tu sa n-o poti rabda
+Roaga-te la Domnul astazi cu credinta
+Si pe bratul Lui El te-a lua.
+
+[v3]
+Daca cei din jurul tau te prigonesc
+Si cu spini cararea ti-o impodobesc
+Tu atunci adu-ti aminte de Isus
+Cum pe cruce El a fost strapuns.

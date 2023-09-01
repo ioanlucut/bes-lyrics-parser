@@ -1,0 +1,17 @@
+[title]
+Mamaruta {author: {Nicolae Moldoveanu}, {rcId: {232488}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Mămăruța cea micuță și cu spate pistruiat,
+zboară când pe-un vârf de deget și-a sfârșit al ei plimbat.
+
+[v2]
+Ea iubește liberatatea și o apără mereu.
+Cine, oare, a-nvățat-o? Nu știți cine? - Dumnezeu!
+
+[v3]
+Ea pe noi ne-nvață zilnic să fugim de tot ce-i rău,
+să trăim în libertatea dată de-adevărul Său!

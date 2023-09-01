@@ -1,0 +1,36 @@
+[title]
+Cum voi merge-n cer la domnul? {author: {George C.Stebbins}, {rcId: {1824}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cum voi merge-n cer la Domnul?
+Cum voi sta in fata Lui?
+Daca nici macar un suflet
+Nu aduc la crucea Lui?
+
+[c]
+Cum voi merge-n cer la Domnul?
+Cum voi sta in fata Lui?
+Daca nici macar un suflet
+Nu aduc la crucea Lui?
+
+[v2]
+Domnul meu mi-a dat viata,
+Nu ma tem de-al mortii ceas.
+Ce voi spune cand va zice:
+”
+Fara snopi tu ai ramas?”
+
+[v3]
+Anii mei pierduti in lume
+Inca-odata de-ar veni,
+Sa lucrez doar pentru Domnul,
+Cat de fericit as fi!
+
+[v4]
+Voi, crestini, lucrati cu ravna,
+Harnici pe ogor sa fiti.
+La Isus pe multi aduceti,
+Cat in lume mai traiti.

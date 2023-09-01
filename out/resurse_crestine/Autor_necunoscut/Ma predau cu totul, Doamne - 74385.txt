@@ -1,0 +1,29 @@
+[title]
+Ma predau cu totul doamne {author: {Anonim}, {rcId: {74385}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mă predau cu totul, Doamne,
+Vreau al Tău să fiu mereu.
+Pacea, binecuvântarea
+Toarnă-le-n sufletul meu.
+
+[c]
+Tot ce am Îți dau!
+Tot ce am Îți dau!
+Ție, Doamne, bun Părinte,
+Tot ce am Îți dau!
+
+[v2]
+Mă predau cu totul, Doamne,
+Smerit Ție mă închin.
+Lumea las, cu-a ei plăcere,
+și la crucea Ta azi vin.
+
+[v3]
+Mă predau cu totul, Doamne,
+Numai Ție-Ți voi urma;
+Până-ajunge-voi la Tine,
+Viața mea va fi a Ta!

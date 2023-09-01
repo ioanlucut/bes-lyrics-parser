@@ -1,0 +1,37 @@
+[title]
+Ai lasat tronul tau si coroana ta (o vino isuse doamne) {author: {Familia Demian}, {rcId: {238509}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c2
+
+[v1]
+Ai lăsat tronul Tău și coroana Ta
+Când la noi pe pământ ai venit,
+Însă în Betleem nu ți-a dat nimeni loc,
+De ai tăi nu ai fost primit.
+
+[c]
+O, vino, Isuse Doamne,
+Eu în inima mea te primesc.
+
+[v2]
+Îngerii au cântat, ceru-a răsunat
+Ca un Rege te-au anunțat.
+Însă Tu te-ai smerit și ca Prunc ai venit,
+Și în scutece înfășat.
+
+[v3]
+Libertatea Ta prin Cuvântul viu,
+Să aduci pe pământ ai venit,
+Dar coroana de spini și calvarul de chin,
+Omenirea ți-a oferit.
+
+[v4]
+Când cei sfinți vor cânta, cerul va suna,
+Când în glorie vei veni,
+Vreau s-aud vocea Ta când mă va chema,
+Invitându-mă-n casa Ta.
+
+[c2]
+O, ce mare bucurie
+Când vom fi in prezența Ta. strofa 4

@@ -1,0 +1,33 @@
+[title]
+Eu plec spre tara mea {author: {Anonim}, {rcId: {3149}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Eu plec spre țara mea, sus la cer,
+Viața și toate-mi ești Doamne
+Sionu-i locul pe care-l sper
+Viața și toate-mi ești Doamne!
+
+[c]
+/: Doamne :/
+Viața și toate-mi ești Doamne!
+
+[v2]
+Nimic n-o poate înlocui,
+Viața și toate-mi ești Doamne
+Cereasca țară ce-o voi privi,
+Viața și toate-mi ești Doamne!
+
+[v3]
+Furtuni sau vifor de s-or stârni,
+Viața și toate-mi ești Doamne
+Cu El am pace chiar de-aș muri,
+Viața și toate-mi ești Doamne!
+
+[v4]
+Curând voi cânta-n cerescul cor,
+Viața și toate-mi ești Doamne
+Pe străzi de aur, triumfător,
+Viața și toate-mi ești Doamne!

@@ -1,0 +1,47 @@
+[title]
+Tu esti iubirea din etern {author: {Nicolae Moldoveanu}, {rcId: {5303}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Tu esti iubirea din etern,
+Tu - viitorul ce-mi astern.
+/: Tu ceru-mi pregatesti,
+Tu-n lume ma-nsotesti;
+Tu, totul, Tu imi esti, Tu! :/
+
+[v2]
+Tu dai lumina zorilor,
+Tu - frumusete florilor.
+/: Tu, ploaie daruiesti,
+Tu, painea-n brazde cresti,
+Tu, totul, Tu imi esti, Tu! :/
+
+[v3]
+Acolo unde nu e nor,
+Tu porti pecetea cuielor,
+/: Vesnic sa-mi amintesti
+Ca-n taina ma iubesti.
+Tu, totul, Tu imi esti, Tu! :/
+
+[v4]
+Tu imi aduci din cer cantari,
+Tu plangi cu mine-n incercari.
+/: Chiar cand ma parasesti,
+Tu-n taina ma pazesti,
+Tu, totul, Tu imi esti, Tu! :/
+
+[v5]
+Tu, numai Tu m-ai castigat,
+Tu spini si cuie ai rabdat.
+/: Chiar daca-n ochi lumesti
+Nimic nu pretuiesti,
+Dar mie totu-mi esti, Tu! :/
+
+[v6]
+Tu, Tu ai cheia lui David
+Prin care toate se deschid.
+/: In cea din urma zi,
+Deodata voi privi
+Si-n fata mea vei fi Tu! :/

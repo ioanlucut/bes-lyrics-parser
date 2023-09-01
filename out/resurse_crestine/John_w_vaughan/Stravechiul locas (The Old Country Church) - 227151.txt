@@ -1,0 +1,35 @@
+[title]
+Stravechiul locas (the old country church) {author: {John W. Vaughan, Traducere RO}, {rcId: {227151}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Este-un loc drag și scump
+Unde-aș vrea iar s-ajung
+Cu cei dragi, lăudând pe Cel Sfânt;
+Unde mama m-a dus
+Să-L slăvesc pe Isus
+În iubitul locaș de demult.
+
+[c]
+Amintiri de neuitat
+Bucurii am ne-ncetat
+Mult aș vrea să stau din nou
+În străvechiul locaș de demult.
+
+[v2]
+De copil am venit
+Dornic și fericit
+Și-n acel loc eu m-am închinat;
+Căci Isus m-a iubit
+Pentru mine-a murit
+Prin al Său sânge sfânt m-a salvat.
+
+[v3]
+O, de-ar fi-n orice loc
+Ruga noastră cu foc
+Cum era și atunci, de demult;
+Când la Isus venim
+Viață nouă primim
+Fericiți Îi cântăm Celui Sfânt.

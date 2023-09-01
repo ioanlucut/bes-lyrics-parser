@@ -1,0 +1,47 @@
+[title]
+Atunci cand te-am aflat pe tine {author: {Nicolae Moldoveanu}, {rcId: {243945}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+Atunci când Te-am aflat pe Tine
+De toate eu m-am lepădat,
+/: Eram în sfânta-mi sărăcie,
+Dumnezeiește de bogat! :/
+
+[v2]
+Atunci când Te-am aflat pe Tine,
+Tot sufletul mi-era vrăjit
+/: Plângeam ca-n cea mai grea durere,
+Atât eram de fericit! :/
+
+[v3]
+Atunci când Te-am aflat pe Tine
+Așa o zi de rând era,
+/: Dar n-am pe lume sărbătoare,
+Mai fericită decât ea. :/
+
+[v4]
+Atunci când Te-am aflat pe Tine,
+Eram atât de vinovat,
+/: Dar ca pe cel mai fără vină,
+Așa cu drag m-ai sărutat! :/
+
+[v5]
+Atunci când Te-am aflat pe Tine
+Nici nu simțeam că merg pe jos
+/: Părea că zbor prin întuneric,
+Atât era de luminos! :/
+
+[v6]
+Atunci când Te-am aflat pe Tine,
+Al primăverii vis era,
+/: Dar ca-ntr-un mijloc greu de iarnă,
+Atât belșug de flori ningea! :/
+
+[v7]
+Atunci când Te-am aflat pe Tine,
+Eu m-am simțit că sunt bogat,
+/: Dar nici atunci, nici azi Isuse,
+Nu știu cât sunt cu-adevărat! :/

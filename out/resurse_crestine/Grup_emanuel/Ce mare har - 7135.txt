@@ -1,0 +1,35 @@
+[title]
+Ce mare har {author: {Grup Emanuel}, {rcId: {7135}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Ce mare har să poți vedea cu ochii tăi lumina,
+Dar mult mai mare har tu ai când ți-e iertată vina.
+/: Ce mare har, ce mare har,
+Când ți-e iertată vina. :/
+
+[v2]
+Ce mare har să poți s-auzi cu-a ta ureche cântul,
+Dar mult mai mare har tu ai când poți s-auzi Cuvântul.
+/: Ce mare har, ce mare har,
+Când poți s-auzi Cuvântul. :/
+
+[v3]
+Ce mare har să poți să guști din roade de tot felul,
+Dar mult mai mare har tu ai când guști ce bun e Domnul.
+/: Ce mare har, ce mare har,
+Când guști ce bun e Domnul. :/
+
+[v4]
+Ce mare har, când mirosind parfum de flori frumoase
+Tu răspândești mereu în jur miresme sfinte-alese.
+/: A lui Hristos, a lui Hristos
+Miresme sfinte alese. :/
+
+[v5]
+Ce mare har să poți să simți pe Domnul ca și Toma,
+Dar mult mai mare har să crezi deși nu-L vezi acuma.
+/: Ce mare har, ce mare har,
+Să crezi în El acuma. :/

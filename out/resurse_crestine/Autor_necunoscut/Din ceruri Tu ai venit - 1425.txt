@@ -1,0 +1,33 @@
+[title]
+Din ceruri tu ai venit {author: {Anonim}, {rcId: {1425}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Din ceruri Tu ai venit
+Murind ca noi toți să trăim
+Nu pentru a fi slujit
+Ci să slujești Tu ai venit.
+
+[c]
+Acesta e al nostru Domn
+El, Regele cel slujitor
+În mâna Lui viața să ne-o încredințăm,
+Pe-umilul Rege să-L lăudăm.
+
+[v2]
+În Ghețimani chinuit
+Grea povară ai primit
+- Facă-se nu voia Mea
+Ci a Ta, Tată - ai rostit.
+
+[v3]
+Vino să-I vezi mâinile
+Unde piroanele-au străpuns
+Mâinile întinse spre cer
+Vorbesc de-al lumii Salvator.
+Haideți Lui să ne închinăm
+Să învățăm cum să-I slujim
+Pe El cum să-L întronăm
+În viața noastră să-L lăudăm.

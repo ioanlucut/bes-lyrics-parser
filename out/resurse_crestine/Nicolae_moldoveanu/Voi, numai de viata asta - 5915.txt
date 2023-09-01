@@ -1,0 +1,45 @@
+[title]
+Voi numai de viata asta {author: {Nicolae Moldoveanu}, {rcId: {5915}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Voi, numai de viața asta,
+Vă-ngrijorați și vă vedeți,
+De parcă numai viață este...
+/: Voi, moarte, oare, nu aveți? :/
+
+[c]
+/: Treziți-vă, treziți-vă!
+Voi, moarte, oare, nu aveți? :/
+
+[v2]
+Acestei clipe cereți totul;
+Ei vă jertfiți și ei vă vreți,
+De parcă numai astăzi este...
+/: Voi, veșnicie, nu aveți? :/
+
+[c2]
+/: Treziți-vă, treziți-vă!
+Voi, veșnicie, nu aveți? :/
+
+[v3]
+Doar trupu-acesta vă robește;
+Pe el puneți întregul preț,
+De parcă sunteți numai trupul...
+/: Voi, suflet, oare, nu aveți? :/
+
+[c3]
+/: Treziți-vă, treziți-vă!
+Voi, suflet, oare, nu aveți? :/
+
+[v4]
+Urziți la planuri vinovate
+Cutezători și îndrăzneți,
+De parcă nu este-o răsplată...
+/: Voi, oare, Dumnezeu n-aveți? :/
+
+[c4]
+/: Treziți-vă, treziți-vă!
+Voi, oare, Dumnezeu n-aveți? :/

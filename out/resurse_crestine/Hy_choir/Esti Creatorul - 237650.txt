@@ -1,0 +1,47 @@
+[title]
+Esti creatorul {author: {HY Choir}, {rcId: {237650}}
+
+[sequence]
+v1,c,v2,c,c,c
+
+[v1]
+Ești Creatorul, cu-a Ta mână m-ai întocmit
+Tu ești statornic, ai fost așa-n totdeauna
+Tu ești Regele vieții noi din veșnicii
+Vrednic de cinste-ai fost și vei fi
+
+[c]
+Tu ești Domn peste toate, Stăpân, Suveran
+Munții se-nchină înaintea Ta
+Iar soarele-ți poartă lumina noian
+Dar eu voi cânta mereu
+Ce mare-i iubirea Ta
+Tu ești Domn peste toate, Stăpân, Suveran
+Munții se-nchină înaintea Ta
+Iar soarele-ți poartă lumina noian
+Dar eu voi cânta mereu
+Ce mare-i iubirea Ta
+Tu ești Domn peste toate, Stăpân, Suveran
+Munții se-nchină înaintea Ta
+Iar soarele-ți poartă lumina noian
+Dar eu voi cânta mereu
+Ce mare-i iubirea Ta
+Iubirea Ta
+Tu ești Domn peste toate, Stăpân, Suveran
+Munții se-nchină înaintea Ta
+Iar soarele-ți poartă lumina noian
+Dar eu voi cânta mereu
+Ce mare-i iubirea Ta
+Iubirea Ta, În veac!
+
+[v2]
+Ești Creatorul Ești Creatorul
+cu-a Ta mână m-ai întocmit Mâna Ta m-a întocmit
+Tu ești statornic, Tu ești statornic
+ai fost așa-n totdeauna Ai fost întotdeauna
+Tu ești Regele vieții noi din veșnicii
+Vrednic de cinste-ai fost și vei fi
+
+[b]
+Sfânt ești și atotputernic
+Mare și de cinste vrednic

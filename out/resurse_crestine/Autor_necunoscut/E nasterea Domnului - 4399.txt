@@ -1,0 +1,27 @@
+[title]
+E nasterea domnului {author: {Anonim}, {rcId: {4399}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: E nasterea Domnului
+Ca si la-nceput
+Munti si vai a strabatut
+Mesia sa nascut. :/
+
+[c]
+/: Mesia :/ e nadejdea vieti noastre
+In lumea cea grea. :/
+
+[v2]
+N-avem daruri ca sa-I dam
+Ce ar putea primi
+Dar in loc de daruri vrem
+Vesnic sa-L slujim. :/
+
+[v3]
+Sa nascut in Betleem
+Pruncul salvator
+Azi cu toti Il preamarim
+Il asteptam cu dor. :/

@@ -1,0 +1,33 @@
+[title]
+Isuse isuse vreau sa-ti cant mereu {author: {Anonim}, {rcId: {819}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+Isuse, Isuse, vreau să-Ți cânt mereu
+Am ales în viața mea să fi Domnul meu
+Ne-ncetat Te laud și Îți cânt mereu
+Și acum, și-n veșnicie vreau să-Ți cânt mereu.
+Isuse, Isuse, vreau să-Ți cânt mereu
+Chiar dacă în viață drumu-mi va fi greu
+Eu privesc spre Tine, Tu-mi ești Domnul meu
+Și acum și-n veșnicie vreau să-Ți cânt mereu.
+
+[v1]
+Tu-mi ești fericirea, Domnul meu iubit
+În Tine eu aflu pace aici pe pământ
+Tu-mi ești fericirea, eu Te voi iubi
+Toată viața mea întreagă Te voi preamări.
+
+[v2]
+Tu-mi ești mângâierea, Domnul meu iubit
+Bucuria vieții mele Tu mi-ai dăruit
+Când în viața mea pe Tine Te-am primit
+Harul Tău o Doamne sfinte ce m-a mântuit.
+
+[v3]
+Tu-mi ești Domnul meu și Dumnezeul meu
+Eu cu Tine vreau să merg până în cerul Tău
+Și atunci o veșnicie-Ți voi cânta
+Sus, în cerul Tău preasfânt, eu Te voi lăuda.

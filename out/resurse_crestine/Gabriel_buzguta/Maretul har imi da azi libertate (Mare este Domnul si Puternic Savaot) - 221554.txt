@@ -1,0 +1,41 @@
+[title]
+Maretul har imi da azi libertate (mare este domnul si puternic savaot) {author: {Gabriel Buzguta}, {rcId: {221554}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Mare este Domnul și Puternic Savaot
+În fața Lui se-nchină tot pământul
+Măreția Lui ne cuprinde aici pe toți
+În laude noi ne aplecăm genunchiul
+Răscumpărați, Răscumpărați,
+Răscumpărați pe veci.
+
+[c]
+Mărețul har îmi dă azi libertate
+Să pot să cânt, să pot să te urmez
+Mărețul har mi-a șters pe veci trecutul
+Și tot prin har mă-nchin mereu.
+Mărețul har îmi dă azi libertate
+Să pot să cânt, să pot să te urmez
+Mărețul har mi-a șters pe veci trecutul
+Și tot prin har mă-nchin mereu.
+/: Mărețul har îmi dă azi libertate
+Să pot să cânt, să pot să te urmez
+Mărețul har mi-a șters pe veci trecutul
+Și tot prin har mă-nchin mereu. :/
+
+[v2]
+Sângele Tău Doamne a iertat păcatul meu
+Și azi mai este loc și har la cruce
+Liber pot trăi și victorios voi fi
+Tu ești lumina care mă conduce
+Eliberat, eliberat, eliberat pe veci.
+
+[e]
+O ce har minunat liber sunt de păcat
+Toată vina mea Tu ai plătit la cruce
+Sunt al Tău pe veci
+Te înalț Domnul meu
+Pentru harul Tău ce viață îmi aduce.

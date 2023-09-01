@@ -1,0 +1,31 @@
+[title]
+Hai si plange {author: {Gabi_Ilut}, {rcId: {241206}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Trist e pretutindeni, oriunde privești:
+Oameni ce mult în deznădejdea lor,
+La orice pas poți să întâlnești!
+Vezi Tu: disperată este starea lor.
+Greu ești lovit, dar ai fost răstignit;
+Știi prea bine că rănile dor!
+
+[c]
+Hai și plânge alături de Domnul și tu;
+Seamănă acuma pământul cu lacrimi.
+O jertfă aleasă la tronu-I adu:
+Hai, mijlocește și tu!
+Hai și plânge alături de Domnul și tu;
+Ziua răsplătiții e foarte aproape;
+Zăduful e mare, dar totuși îl du:
+Haide și nu spune nu!
+
+[v2]
+Poți tu înțelege ce ți s-a cerut?
+Oamenilor să le fii ajutor,
+Să-i îndrumi spre un nou început!
+Știi tu: rugăciunea are un preț nespus.
+Slab te numești, dar în ea dacă crești
+Vei simți cum suspină Isus!

@@ -1,0 +1,41 @@
+[title]
+Cred ca el {author: {Anonim}, {rcId: {4551}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Vad pe fata ta
+Durerea ce-o ascunzi
+Dar incet te macina
+Desi incerci sa fugi
+Sa scapi sa te ascunzi
+Cazi si te ranesti
+El te vede
+
+[c]
+Cred ca El te va ocroti oricand
+Cred ca El te va mangaia cand plangi
+Cred ca El nu te va lasa
+Sa uiti de fata Sa
+Cred ca El te va ajuta s-alegi
+Cerd ca El te va invata sa mergi
+Cred ca El te va indruma
+Si te va apara
+/: Cred ca El te va ocroti oricand
+Cred ca El te va mangaia cand plangi
+Cred ca El nu te va lasa
+Sa uiti de fata Sa
+Cred ca El te va ajuta s-alegi
+Cerd ca El te va invata sa mergi
+Cred ca El te va indruma
+Si te va apara :/
+
+[v2]
+De cate ori astepti
+Schimbarea-n viata ta
+Tanjesti si nu mai poti spera
+Uita-te in sus
+Priveste la isus
+Deschide-i inima
+Da-i viata ta

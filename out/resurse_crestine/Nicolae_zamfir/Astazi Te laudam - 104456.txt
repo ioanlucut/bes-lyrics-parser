@@ -1,0 +1,26 @@
+[title]
+Astazi te laudam {author: {Nicolae Zamfir}, {rcId: {104456}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Astăzi Te laudăm, numele Tău înălțăm,
+Pentru al Tău soare ce răsare, pentru sfânta bucurie,
+Bunătatea dimineții, pentru sfânta apă a vieții!
+
+[c]
+Cine e ca Tine, sus în cer și pe pământ,
+Cine e ca Tine, Rege bun și sfânt, sfânt, sfânt,
+Cine știe să iubească așa cum ne-ai iubit Tu,
+Cine știe să jertfească numai Tu, Fiul lui Dumnezeu!
+
+[v2]
+Astăzi Te lăudăm, numele Tău înălțăm,
+Pentru ploaia cea tarzie, pentru ploaia timpurie,
+Pe ogorul semănat și mult binecuvântat.
+
+[v3]
+Astăzi Te lăudăm, numele Tău înălțăm,
+Stăm smeriți în așteptare și privim mereu în zare,
+Pregătiți de-a Ta venire, Să-ți culegi rodul, Stăpâne!

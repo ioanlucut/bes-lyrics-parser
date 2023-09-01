@@ -1,0 +1,35 @@
+[title]
+Nicicand nu se va stinge {author: {Nicolae Moldoveanu}, {rcId: {246520}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Nicicând nu se va stinge lumina lui Hristos,
+Mereu sunt numai alții acei ce vin s-o poarte,
+/: Când unii-s lași, vin alții s-o ’nalțe mai frumos,
+Biruitori purtând-o spre țintă mai departe. :/
+
+[v2]
+Nicicând n-o să se-ncline stindardul lui Hristos,
+Mereu sunt numai alții vitejii ce-l ridică.
+/: Când unii cad, vin alții să-l poarte mai voios,
+Prin lupte mai statornici, prin vânt mai fără frică. :/
+
+[v3]
+Nicicând n-o s-amuțească Cuvântul lui Hristos,
+Când unii-l tac, vin alții să-l strige și mai tare;
+/: N-ajunge Adevărul nicicând mai luminos
+Ca-n vremea când grăiește din beznă și-ncercare. :/
+
+[v4]
+Nicicând nu se va pierde iubirea lui Hristos,
+Căldura ei va crește din veac în veac mai mare;
+/: Când unii-o sting, vin alții s-o ardă mai duios,
+Crescând-o mai frumoasă prin ruguri și altare. :/
+
+[v5]
+Nicicând nu va fi-nfrântă Oștirea lui Hristos,
+Când unii fug, El pe-alții mai hotărâți îi scoală,
+/: Căci El va fi-mpăratul în veci victorios
+Și-a Lui va fi, măreață, Victoria Finală. :/

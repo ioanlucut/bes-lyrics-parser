@@ -1,0 +1,41 @@
+[title]
+Mama {author: {David Hapurne}, {rcId: {211221}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Mamă, pe lume m-ai adus
+Prin Harul Domnului Isus,
+Nu prin meritul tău,
+Ci așa-a vrut Dumnezeu.
+
+[c]
+Mamă, ce mult m-ai iubit,
+Mamă, ce mult ai dorit,
+Mamă, ca-ai tăi copii,
+Să fie-n veșnicii.
+
+[v2]
+Pe brațe când mă legănai
+La capul meu tu te rugai:
+Doamne, ai milă de-acest copil
+Ca să nu ajungă-n chin.
+
+[v3]
+Și când va crește el mare
+Fă-l să-nțeleagă a Ta cale,
+Nu-l lăsa în lumea rea
+Ca să fie-n slujba Ta.
+
+[v4]
+Îți mulțumesc, o, mama mea
+Pentru rugăciunea Ta,
+Ce mult tu te-ai mai rugat
+Ca să fiu răscumpărat.
+
+[v5]
+Slăvit fie Numele Lui
+Că acum sunt pe Calea Lui
+Și nu voi mai rătăci
+Nici măcar un ceas din zi.

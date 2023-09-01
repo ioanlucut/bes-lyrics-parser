@@ -1,0 +1,29 @@
+[title]
+O isuse da-mi rabdare {author: {Ionel Saran}, {rcId: {128276}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O, Isuse dă-mi răbdare
+/: Ca să trec prin încercare :/
+Când durerea e mai mare
+/: O, trimite-mi alinare. :/
+
+[c]
+/: Ține-mă Isuse, ține-mă mereu
+Lângă Tine, Domnul meu
+Să-mplinesc cuvântul Tău,
+Veșnicule, Dumnezeu. :/
+
+[v2]
+De n-ai fi azi lângă mine
+/: Ce aș fi eu fără Tine :/
+Dar Tu Te înduri mereu
+/: Atunci când eu sunt la greu. :/
+
+[v3]
+Saltă inima în mine
+/: Doamne, pentru-a Ta iubire :/
+Nu aș mai pleca vreodată
+/: Chiar de-aș avea lumea toată. :/

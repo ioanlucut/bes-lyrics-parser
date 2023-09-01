@@ -1,0 +1,35 @@
+[title]
+Cat de lunga ti-ar fi calea {author: {Anonim}, {rcId: {185959}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cat de lunga ti-ar fi calea
+Si privita de pamant
+Fara Dumnezeu sunt toate
+/: Alergare dupa vant. :/
+
+[c]
+/: Caci numai pocainta-i calea Domnului
+Pentru fericirea omului
+Niciun lucru nu e de folos
+Fara de Hristos. :/
+
+[v2]
+Bogatiile din lume
+Daca ti le-ai aduna
+Nu-ti pot darui odihna
+/: Ce Isus ti-o poate da. :/
+
+[v3]
+Nici copii nici parintii
+Nu-ti ofera dragostea
+Cand din ceruri te-nconjoara
+/: Domnul cu iubirea Sa. :/
+
+[v4]
+Nu este nimic in viata
+Spre al omului folos
+Cum e harul mantuirii
+/: Ce ni-l da in dar Hristos. :/

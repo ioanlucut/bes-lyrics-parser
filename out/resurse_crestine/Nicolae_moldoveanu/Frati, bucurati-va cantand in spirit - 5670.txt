@@ -1,0 +1,23 @@
+[title]
+Frati bucurati-va cantand in spirit {author: {Nicolae Moldoveanu}, {rcId: {5670}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Frati, bucurati-va cantand in spirit!
+Marire, cinste, sa-I dati lui Hristos!
+/: El pe noi toti, din pacat, ne-a mantuit
+Si din noapte-ntunecoasa ne-a scos; :/
+
+[v2]
+Iubirea Lui sfanta, mantuitoare,
+Ne-a dat El noua aici, pe pamant,
+/: Si ne conduce-n orice imprejurare
+Si va fi cu noi, pana la mormant. :/
+
+[v3]
+Prin pocainta si viata sfanta,
+In pace vesnica noi vom fi dusi;
+/: Domnul ne da viata fericita
+Si-n raiul cel sfant, noi toti vom fi pusi. :/

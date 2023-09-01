@@ -1,0 +1,31 @@
+[title]
+Azi vin acasa rob nu fiu {author: {Credo}, {rcId: {2822}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Azi vin acasă rob nu fiu
+Primește-mă chiar de-i tîrziu
+Vin fără rod, slăbit și gol
+Dar sufletul mi-e plin de dor
+E dorul zilelor de ieri
+De dulci și sfinte primăveri
+Cînd Tu-mi vorbeai eu ascultam
+Cuvinte vii pline de har.
+
+[c]
+/: Vreau să ascult din nou cîntări
+Cum nu există nicăieri
+Decît acolo unde-i El
+Tatăl prea sfînt, Emanuel :/
+
+[v2]
+Azi vin acasă și las tot
+Renunț la numele ce-l port
+La tot ce leagă sufletul
+Și ce pătează cugetul
+Nu mai admit un compromis
+Cînd brațul tău este deschis
+Cînd lacrima chinului Tău
+Curge pe obrazul meu.

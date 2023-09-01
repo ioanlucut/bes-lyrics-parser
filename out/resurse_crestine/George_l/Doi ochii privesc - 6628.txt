@@ -1,0 +1,41 @@
+[title]
+Doi ochii privesc {author: {George L}, {rcId: {6628}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Doi ochii privesc, din nemurire!
+Sunt ochii jertfei lui Cristos
+Doi ochii adus-au jos iubire
+La omul cel mai păcătos.
+
+[c]
+Sunt ochii celui de pe cruce,
+Ce mântuire-a dat în dar
+E cel care de-aici ne duce,
+Ca să scăpăm noi de amar.
+
+[v2]
+Sunt două mâini din nemurire
+Ce ne-a creat așa frumos
+Sunt mâinile ce din iubire
+Străpunse-au fost de-un păcătos
+
+[c2]
+Sunt mâinile care odadă
+Ne-a ridicat când am căzut
+Și din iubirea lui curată
+Cu dragoste EL ne-a umplut.
+
+[v3]
+Este o ființă-n nemurire
+Ce-a coborânt până la noi
+Ca să ne-aducă mântuire.
+Văzându-ne că suntem goi.
+
+[c3]
+El a venit să ne îmbrace
+Cu haina dragostei de sus
+Să fim noi gata să ne-mbarce
+Spre țara unde El s-a dus.

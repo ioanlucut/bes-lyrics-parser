@@ -1,0 +1,55 @@
+[title]
+Am strigat {author: {Neli Todea}, {rcId: {6757}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c
+
+[v1]
+În mulțimea de popor
+Eu un simplu trecător,
+Pas cu pas mergeam cu Tine
+Nu priveam deloc la mine.
+
+[c]
+Am strigat:”
+Ce păcat greu!”
+Nu știam că e al meu,
+Am strigat:”
+Ce cruce grea!”
+Nu știam că-i crucea mea.
+
+[v2]
+Am văzut când Te-a vândut
+Iuda cu al său sărut,
+Când și-a numărat argintul
+Ce preț mic avea Cuvântul.
+
+[v3]
+Pe Pilat l-am auzit
+Când mulțimi i-a vorbit:
+-V-am primit, L-am judecat,
+Îl găsesc nevinovat.
+
+[v4]
+-Nu-nțeleg de ce strigați,
+Pentru ce Îl condamnați,
+Omul nici o vină n-are
+Eu îi dau eliberare.
+
+[v5]
+Apă pe mâini i-am turnat,
+Să se spele de păcat,
+Sângele ce s-o vărsa,
+Să nu cadă asupra sa.
+
+[v6]
+Priveam la ochii Tăi senini,
+De lacrima milei plini,
+Ți-auzeam ades suspinul,
+Dar nu-Ți înțelegeam chinul.
+
+[v7]
+Sus pe cruce răstignit
+Cu ce milă m-ai privit,
+Șoaptă dulce-n duhul meu:
+„-Ia darul Lui Dumnezeu”

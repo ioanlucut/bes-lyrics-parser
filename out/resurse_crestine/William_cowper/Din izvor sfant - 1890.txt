@@ -1,0 +1,29 @@
+[title]
+Din izvor sfant {author: {William Cowper}, {rcId: {1890}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Din sfant izvor pe Golgota
+Mult sange s-a varsat,
+Izvorul-acesta minunat
+Ne spala de pacat.
+
+[c]
+Si pentru-al meu pacat
+A curs izvorul minunat;
+Isuse, -n sangele-Ti varsat,
+Iertarea-n veci mi-ai dat!
+
+[v2]
+Acest izvor a fost aflat
+La cruce de talhar;
+Crezand in jertfa lui Hristos
+A fost salvat prin har.
+
+[v3]
+Puterea-acestui sfant izvor
+Aceeasi e mereu.
+Ea ma pastreaza-n legamant
+Cu Salvatorul meu.

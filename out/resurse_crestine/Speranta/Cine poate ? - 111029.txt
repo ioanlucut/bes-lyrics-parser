@@ -1,0 +1,27 @@
+[title]
+Cine poate ? {author: {Speranța}, {rcId: {111029}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cine poate a te ajuta ?
+Cine poate problema-ți rezolva ?
+Cine poate să te ridice sus ?
+Când nu mai ai pe nimeni, tu cheamă-L pe Isus!
+
+[c]
+Numai prin Isus, numai prin Isus
+Numai prin Isus avem răspuns!
+
+[v2]
+Cine poate să-ți umple viața ta ?
+Cu iubire și pace îți dea
+Cine poate să-ți ia păcatul tău ?
+Numai Isus poate, Fiul lui Dumnezeu!
+
+[v3]
+Cine poate să-nvie trupul tău ?
+În ziua-nvierii să fii cu Dumnezeu!
+Cine poate chiar să te ducă sus ?
+În Împărăția fără de apus ?

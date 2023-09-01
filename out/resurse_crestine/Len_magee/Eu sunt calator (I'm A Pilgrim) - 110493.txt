@@ -1,0 +1,36 @@
+[title]
+Eu sunt calator (i m a pilgrim) {author: {Len Magee, Traducere RO}, {rcId: {110493}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,s,c
+
+[v1]
+Este-un drum plin de lumină spre-un oraș îndepărtat
+Unde glorie, mărire, fericire-i ne-ncetat;
+Zilnic merg pe drumu-acesta, ca să pot intra și eu
+În orașul sfânt din ceruri, la Mielul lui Dumnezeu.
+
+[c]
+/: Eu sunt călător pe pământ, străin
+Înspre țara sfântă, peregrin. :/ x2
+
+[v2]
+Azi orașul este Templul pentru Dumnezeul sfânt
+Dar curând, el se va umple cu oameni de pe pământ;
+Și iubirea ce ne-o poartă, ne ajută să trăim
+Dorul pentru noua casă, unde vrem și noi să fim.
+
+[v3]
+Orașu-acesta este gata, pregătită-i casa ta
+Dumnezeu așteaptă clipa când ești gata să te ia;
+Deci, nu dispera pe cale și nu fii îngrijorat
+Tu, doar laudă-L pe Isus și iubește-L ne-ncetat.
+
+[v4]
+Este-un drum plin de lumină spre-un oraș îndepărtat
+Unde glorie, mărire, fericire-i ne-ncetat
+Hai cu toți pe drumu-acesta care duce-n ceruri sus
+Vom trăi o veșnicie împreună cu Isus.
+
+[s]
+Căci el aștepta cetatea care are temelii tari, al cărei meșter și ziditor este Dumnezeu. Evrei 11:10

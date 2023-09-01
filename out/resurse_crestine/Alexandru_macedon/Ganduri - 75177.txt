@@ -1,0 +1,48 @@
+[title]
+Ganduri {author: {Alexandru Macedon}, {rcId: {75177}}
+
+[sequence]
+v1,v2,c,v3,c2,v4,c2,v5,c2
+
+[v1]
+Am fugit prin lume trist și fără sens
+Și am strâns durere mult prea mult în piept
+Sufletul meu plânge e rănit și frânt
+Lacrimi multe-n noapte m-au îmbătrânit
+
+[v2]
+Lumea-n cursul vieții m-a lovit ades
+Singur fără nume căutam un sens
+Doar indiferența în lume am găsit
+Rătăcit și singur de toți părăsit
+
+[c]
+Gânduri te frământă în nopțile târzii:
+”
+Pustiit și singur iarăși eu rămâi
+Dacă totul trece și se pierde-n vânt
+Unde-i dragostea!”
+
+[v3]
+Mulți se luptă-ntruna spre-a ajunge sus
+Calcă în picioare chiar și ce e sfânt
+Își vând și părinții pentru-n gologan
+Te întrebi într-una de-i dreptate iar
+
+[c2]
+Gânduri te frământă în nopțile târzii
+Pustiit și singur iarăși tu rămâi
+Dacă totul trece și se pierde-n vânt
+Unde-i dragostea!
+
+[v4]
+Așteptam o șoaptă un cuvânt de dor
+Raze de lumină și un viitor
+Așteptam iubirea cu suflet răvășit
+Unde-i fericirea, când omul e rănit?
+
+[v5]
+Este o speranță venită de sus
+Pentru noi adusă de Domnul Isus
+Nu-i respinge glasul chiar de-i greu să crezi
+Dragostea există, Ea-i din Dumnezeu!

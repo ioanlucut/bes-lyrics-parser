@@ -1,0 +1,35 @@
+[title]
+Un copil {author: {Nicolae Moldoveanu}, {rcId: {241153}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Un copil a fost odată
+între apostoli adus,
+ca o pildă neuitată
+când Domnul nostru le-a spus:
+- Dacă voi nu veți fi ca un prunc,
+nicidecum n-aveți parte cu Mine!
+Un copil a fost odată
+între apostoli adus.
+
+[v2]
+Cum stătea copilul oare
+strâns lângă pieptul divin?
+N-ar fi fost mirat să zboare
+cu Domnu-n largul senin.
+El știa că Isus e în Cer
+și-I vedea ceru-ntreg în privire.
+N-ar fi fost mirat să zboare
+cu Domnu-n largul senin.
+
+[v3]
+Dacă ai în suflet dorul
+să fii în Cer cu Isus,
+nu uita că Salvatorul
+și pentru tine a spus:
+- Dacă voi nu veți fi ca un prunc,
+nicidecum n-aveți parte de Mine!
+Dacă ai în suflet dorul
+să fii în Cer cu Isus.

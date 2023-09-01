@@ -1,0 +1,65 @@
+[title]
+Implineste-ti misiunea {author: {Ilie Mandici}, {rcId: {5836}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,v5,c5
+
+[v1]
+Implineste-ti misiunea,
+Crudule ostas roman!
+Bate-Mi cuie in picioare
+/: Si in maini, :/ cu-al tau ciocan! :/
+
+[c]
+Nu privi acum cum merge
+Sangele suvoi din Mine
+Caci el curge sa te spele,
+Sa te curete pe tine...
+
+[v2]
+Voi, preoti cu barba lunga
+Si mantie stravezie,
+Puneti-Mi pe cap cununa!
+/: Poate si de spini sa fie! :/
+
+[c2]
+Dezbracati-Ma de haina,
+Lasati biciul sa loveasca!
+Tot ce-i scris in vechea Carte
+Trebuie sa se-mplineasca...
+
+[v3]
+Ridicati acuma crucea
+Sus, pe culmea cea mai ’nalta,
+Cei ce sunt acolo-n vale
+/: Ca sa poata sa Ma vada!... :/
+
+[c3]
+Eu Imi dau a Mea viata
+Pentru pacea ta, Sioane,
+Ca sa mantuiesc pe cine
+Crede-n ale Mele rane...
+
+[v4]
+Tu, Cezar ce-aveai putere
+Ca sa scrii cu a ta mana
+Si sa osandesti la moarte
+/: Pe Acel ce n-are vina, :/
+
+[c4]
+Sa-ti aduci acum aminte
+Ce le-am spus la ucenici:
+Ca, dupa a Mea-ngropare,
+Eu o sa-nviez de-aici.
+
+[v5]
+Cum a sris Pilat pe tabla
+Ce-mi umbreste capataiul,
+Eu sunt Imparatul vesnic
+/: Care va-nvia intaiul! :/
+
+[c5]
+Iar intreaga Mea viata
+Va fi sfanta temelie
+Pe care-o sa se zideasca
+Cea mai mare-mparatie.!

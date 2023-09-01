@@ -1,0 +1,29 @@
+[title]
+Privesc adanc si ma-ntreb deseori {author: {Florin Ștefan}, {rcId: {212652}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Privesc adânc și mă-ntreb deseori
+Cum este viața cu valuri și nori?
+/: Aici, uneori, nu mi-e dat să-nțeleg,
+Ci numai în ceruri când am să sosesc! :/
+
+[c]
+/: Prin câte în viață eu am de trecut,
+Un singur lucru nu vreau să uit
+Căci Tu, o, Doamne, ești Împărat
+Și-mi dai biruință când sunt încercat! :/
+
+[v2]
+În viață, când vreau voia Ta s-o-mplinesc,
+Ispite-n talaz vin și mă copleșesc...
+/: Din suflet doresc lângă mine să stai,
+Și când sunt răpus izbăvire să-mi dai! :/
+
+[v3]
+Mă lupt mereu ca să port neîncetat
+În suflet Cuvântul Tău sfânt și curat,
+/: Iar dacă aici, jos, voi fi încercat
+La Tine în ceruri voi fi mângâiat! :/

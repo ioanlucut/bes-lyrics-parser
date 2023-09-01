@@ -1,0 +1,27 @@
+[title]
+Isus hristos e domnul {author: {Anonim}, {rcId: {215863}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Isus Hristos e Domnul
+Amin, Aleluia!
+El e Mântuitorul.
+Amin, Aleluia. :/
+
+[c]
+/: Aleluia, Amin, Aleluia
+Aleluia, Amin, Aleluia :/
+
+[v2]
+/: Sa cânte fiecare:
+Amin, Aleluia!
+E zi de sarbatoare.
+Amin, Aleluia :/
+
+[v3]
+/: Curând vine rapirea
+Amin, Aleluia!
+Ne vine izbavirea
+Amin, Aleluia! :/

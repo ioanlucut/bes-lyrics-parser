@@ -1,0 +1,41 @@
+[title]
+You raise me up ( tu ma ridici ) {author: {Secret Garden, Traducere RO}, {rcId: {89808}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Când sunt lovit și sufletul îmi plânge,
+Necazuri am și inima mi-e grea
+Și când puterea-ntreagă mi se frânge
+Te chem să vii, să-mi stai alăturea.
+
+[c]
+Tu mă ridici, să pot să stau pe munte,
+Tu mă ridici, când valuri mă lovesc
+Când sufletu-mi de Tine vrea s-asculte
+Mă porți pe umeri spre-un liman ceresc.
+
+[v2]
+Când inima-mi poveri prea multe duce,
+Când sufletul îmi este obosit,
+Nehotărât când stau la vreo răscruce
+Te chem să vii și Te aștept smerit.
+
+[v3]
+Tu-mi ușurezi orice poveri și zbateri,
+Mă porți pe brațe ca pe-un fiu iubit
+În dragostea-Ți, de orice rău mă aperi
+Asupra mea veghezi necontenit.
+
+[v4]
+M-ai învățat să urc mereu spre culme,
+Pe ape să pășesc neînfricat
+Mereu să calc doar pe-ale Tale urme,
+Să fiu de Tine binecuvântat.
+
+[v5]
+Ajută-mi să rămân în sfânta-Ți pace
+Să mă încred doar în cuvântul Tău
+Atunci vrăjmașul rău n-are ce-mi face
+Căci sunt mereu păzit la sânul Tău.

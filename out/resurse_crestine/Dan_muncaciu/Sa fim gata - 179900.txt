@@ -1,0 +1,27 @@
+[title]
+Sa fim gata {author: {Dan Muncaciu}, {rcId: {179900}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Ne-ai promis că într-o zi vei reveni...
+Să fim gata!
+Cuvântul Tău se împlinește zi de zi...
+Să fim gata!
+Ne este dor de Tine Domnul nostru,
+Vino mai degrab’ la noi!
+
+[c]
+/: Într-o dimineață, pe nori Îl voi vedea
+În brațe mă va ține și mâna-mi va lua
+Lacrima pe față, atunci nu voi avea
+Isus cu a Sa mână, durerea-mi va lua! :/
+
+[v2]
+Nu știm ceasul când pe nori vei apărea...
+Să fim gata!
+Lucrând, o Doamne, Te vom aștepta...
+Să fim gata!
+Mireasa Ta, veghează-n așteptare,
+Vino mai degrab’ la noi!

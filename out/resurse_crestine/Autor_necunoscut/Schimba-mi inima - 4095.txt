@@ -1,0 +1,23 @@
+[title]
+Schimba-mi inima {author: {Anonim}, {rcId: {4095}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Schimbă-mi inima
+Fă-mă mai curat
+Mai real mai sfânt,
+Mai adevărat.
+
+[c]
+/: Tu ești olarul
+Iar eu lutul
+Fă-mă să semăn
+Doamne cu tine. :/
+
+[v2]
+Schimbă-mi inima
+Fă-o ca și-a ta
+Schimbă-mi inima
+Asta-i ruga mea.

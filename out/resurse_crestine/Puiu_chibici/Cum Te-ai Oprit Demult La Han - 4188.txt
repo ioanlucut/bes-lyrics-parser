@@ -1,0 +1,53 @@
+[title]
+Cum te-ai oprit demult la han {author: {Puiu Chibici}, {rcId: {4188}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Cum te-ai oprit de mult la han, venind pe asin călare,
+Milos și blând samaritean în bunătatea-ți mare.
+
+[c]
+/: Te prește o clipă și la noi,
+Suntem bătuți trântiți și goi
+Samariteanule milos
+Mai leagă rănile ce dor
+Mai toarnă leac vindecător
+O medic sfânt, Isus Hristos. :/
+
+[v2]
+Trecut-au preoți și leviți spre Ierihon la vale,
+Învățători cu pași grăbiți văzând de a lor cale.
+
+[c2]
+/: Dar tu Isuse te-ai oprit
+La cel căzut la cel lovit
+Ce din durerea te-a chemat
+I-ai pus pe răni ulei și vin
+L-ai pus călare pe asin
+Isuse medic minunat. :/
+
+[v3]
+Acum aici în casa Ta e-un han de poposire,
+Să intre orișicine-ar, căci Tu-i dai mântuire.
+
+[c3]
+/: Și-acei săraci, și-acei sărmani
+Și-ologi și văduve și-orfani
+Căci brațul tău e larg deschis
+Și-acei goniți și-acei huliți
+Și-acei ce-n lume-s rătăciți
+Veniți la Mine Tu ai zis. :/
+
+[v4]
+La margine de drum cândva, m-ai găsit și pe mine,
+N-aveam Isus pe nimeni durerea să-mi aline.
+
+[c4]
+/: Spre mine-ncet Te-ai aplecat
+Cu dragoste m-ai ridicat
+Și mi-ai vorbit blând și duios
+M-ai mângâiat m-ai îngrijit
+Și prețul meu Tu L-ai plătit
+Prieten drag Isus Hristos. :/

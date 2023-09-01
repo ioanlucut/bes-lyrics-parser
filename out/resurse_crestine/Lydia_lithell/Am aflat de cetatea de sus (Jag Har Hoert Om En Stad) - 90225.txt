@@ -1,0 +1,32 @@
+[title]
+Am aflat de cetatea de sus (jag har h"ort om en stad) {author: {Lydia Lithell, Traducere RO}, {rcId: {90225}}
+
+[sequence]
+v1,c,v2,c,v3,c,s,c
+
+[v1]
+Am aflat de cetatea de sus,
+Pregătită de Domnul Isus,
+Unde la masa Domnului meu,
+În acea zi vreau să fiu și eu!
+
+[c]
+Aleluia! în cer răsună,
+Când a Domnului oaste cântă,
+Și, de-ar fi greu aici pe pământ,
+Pașii Tu îmi porți spre cerul sfânt.
+
+[v2]
+Am aflat, din Cuvântul cel sfânt,
+Că în cer plâns și lacrimi nu sunt,
+Nici război, ci doar pace mereu.
+Vino, Doamne sfânt, Te-aștept și eu!
+
+[v3]
+Am aflat cum pe veci sunt gătiți
+Cu-albe haine toți cei mântuiți,
+Ce prin credință ei dobândesc
+Viața pe care și eu o doresc!
+
+[s]
+Căci noi n-avem aici o cetate stătătoare, ci suntem în căutarea celei viitoare. Evrei 13:14

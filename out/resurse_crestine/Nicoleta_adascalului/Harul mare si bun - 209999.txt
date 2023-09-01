@@ -1,0 +1,28 @@
+[title]
+Harul mare si bun {author: {Nicoleta Adascălului}, {rcId: {209999}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Harul mare și bun, minunat și puternic
+Mă ridică când sunt doborât la pământ.
+Mă învață s-alerg curajos prin credință
+Până voi apuca premiul chemării Lui.
+
+[c]
+Dreapta Ta este vestită pe-ntregul pământ!
+Cine poate sta-n picioare când rostești un cuvânt?
+Nu e nimeni ca Tine între dumnezei
+Bogat în îndurare, făcător de minuni!
+
+[v2]
+Tu ești mare la sfat și puternic la faptă,
+Ochii-i-ai îndreptați spre om și calea sa,
+Brațul când îl întinzi pui dușmanul pe fugă
+Nu-i nimic de mirat Doamne din partea Ta!
+
+[e]
+Minunat în sfințenie, în fapte de laudă
+puterea Ta ne-ndreaptă
+spre Locașul sfințeniei Tale!

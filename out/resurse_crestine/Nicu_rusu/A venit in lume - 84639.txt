@@ -1,0 +1,33 @@
+[title]
+A venit in lume {author: {Nicu Rusu}, {rcId: {84639}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+A venit în lume ca un copilaș,
+La necazul nostru S-a făcut părtaș,
+N-a avut o casă, nici un pat, curat,
+Fiindcă într-un staul El S-a întrupat...
+El, Mântuitorul, cel mult așteptat.
+
+[v2]
+A venit în lume, a venit la-ai Săi,
+N-au vrut să-L primească oamenii cei răi...
+Când aflară vestea, mult s-au tulburat,
+Și-au trimis să-L caute, cu gând necurat,
+Pe Mântuitorul cel mult așteptat.
+
+[v3]
+A venit în lume ca un mielușel,
+Căci era o cruce numai pentru El,
+S-a născut să moară, El, neprihănit,
+Pentru-ntreaga lume, fiindcă ne-a iubit,
+Astfel mântuirea El a dăruit!
+
+[v4]
+A venit în lume și de dragul tău!
+Te-ntreb: Ce vei face cu-acest Dumnezeu?
+/: Îl primești în viață ca Mântuitor,
+Ori rămâi și astăzi tot nepăsător? :/
+Tot nepăsător, făr’ Mântuitor ?...

@@ -1,0 +1,27 @@
+[title]
+Hristos in noi nadejdea slavei {author: {Biji din Barbulesti}, {rcId: {202127}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Pot totul în Isus Hristos
+Care mă întărește,
+El mă ridică de jos
+Când vrășmașul răcnește! :/
+
+[c]
+/: Hristos în noi, nădejdea slavei
+Cu El vom birui! :/
+
+[v2]
+/: Pot totul în Isus Hristos
+Chiar dacă am necazuri
+Pot totul în Numele Lui,
+Chiar dacă vin talazuri! :/
+
+[v3]
+/: Când eu sunt slab atunci sunt tare
+Pot totul în Hristos,
+Și chiar de trec prin încercare,
+Eu sunt victorios! :/

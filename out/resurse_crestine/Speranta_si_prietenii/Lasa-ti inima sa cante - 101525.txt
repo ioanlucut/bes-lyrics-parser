@@ -1,0 +1,29 @@
+[title]
+Lasa-ti inima sa cante {author: {Speranța și prietenii}, {rcId: {101525}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Azi s-a născut în Betleem,
+Pruncul Sfânt Emanuel;
+Mesia cel așteptat,
+Cel cei din vecie binecuvantat.
+
+[c]
+/: Lasă-ți inima să cânte,
+Nu fi și tu un Irod
+Vin ca magii și păstorii,
+Să te-nchini azi lui Cristos. :/
+
+[v2]
+Magii-atunci s-au bucurat,
+Numai Irod s-a tulburat,
+Nu credeau ce-a fost vestit
+O nouă împărăție a venit.
+
+[v3]
+Multe veacuri au trecut
+Și aceasta-mpărăție n-a ajuns,
+Dar de-atunci și până acum
+Isus este Împărat, Atotstăpân.

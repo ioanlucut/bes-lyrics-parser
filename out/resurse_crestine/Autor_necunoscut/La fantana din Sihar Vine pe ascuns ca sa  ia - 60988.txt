@@ -1,0 +1,27 @@
+[title]
+La fantana din sihar vine pe ascuns ca sa ia {author: {Anonim}, {rcId: {60988}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+La fantana din Sihar Vine pe ascuns ca sa ia
+Pe calduri cu pasul rar Un ulcior cu apa vrea
+
+[c]
+Domnul stabileste locul intalnirii
+Totul merge impotriva firii
+Singur Domnul hotaraste
+Chiar si locul unde se intalneste
+
+[v2]
+Saul la Damasc porneste Cu un plan de el facut
+Singur Domnul hotaraste Un popas neprevazut
+
+[v3]
+Intr-un dud mai laturalnic Catarat statea Zacheu
+El era mic de statura Dar il vede Dumnezeu
+
+[v4]
+Cati de acestia mai ai Doamne Azi in lumea asta mare
+Pregateste intalnirea Doamne azi cu fiecare,

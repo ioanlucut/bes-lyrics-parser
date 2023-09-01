@@ -1,0 +1,45 @@
+[title]
+Alerg cu tine {author: {Daniel Olcean}, {rcId: {197102}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+Fiecare zi ce o primesc
+Este bunătatea Ta
+Fiecare clipa ce-o traiesc
+E-ndurarea Ta.
+Zi de zi, Isus, Tu mă-nsoțești,
+Mă conduci pe-al vieții drum.
+Fericit sunt să-Ți slujesc și
+Să mă-nchin voios.
+
+[c]
+Alerg cu Tine,
+Mă-ndrept spre patria mea,
+Al Tău braț mă ține,
+Doar cu Tine alături
+E șansa mea :/
+Final: Doar cu Tine alături
+În brațul puternic
+Cu Tine alături
+Este șansa mea.
+
+[v2]
+Fiecare vorbă ce-o rostesc
+Slava Ta să spună.
+Fiecare pas ce îl pășesc
+E-n voia Ta.
+Nu mă tem orice-ar veni doar
+Tu mă ții de mână.
+Credincios rămâi în veci, căci
+Ai promis așa.
+
+[b]
+Îndoieli, poveri
+Ce mai pot sa vină
+Greutăți, dureri,
+Le înfrunt cum mi-ai spus.
+Nu va fi prea greu,
+Căci mă vei susține
+Salvatorul meu ești Isus.

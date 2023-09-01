@@ -1,0 +1,29 @@
+[title]
+Vrem altare sa zidim {author: {Speranța}, {rcId: {102169}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Vrem altare să zidim, pentru Cel ce-i veșnic
+Vrem din inimi să cântăm, Celui Atotputernic!
+
+[c]
+Vrem să răsune a noastră cântare, aici jos și-n ceruri sus!
+Vrem să audă orice ființă, căci Domnul nostru este Isus!
+
+[v2]
+Rodul buzelor Îi dăm, altar de mulțumire
+Despre El mărturisim, căci ne-a făcut mult bine!
+
+[c2]
+Numele Celui care e veșnic, vrem ca să fie proslăvit,
+Harul Său ne umple viața, nu-i nimeni ca Domnul nostru iubit!
+
+[v3]
+Din iubire Îi cântăm, nu-I cântăm de frică,
+Domnul vine între noi, viață să ne-aducă!
+
+[c3]
+Duhul Sfânt ne este în inimi, pace sfântă cu toții avem
+Râuri de viață coboară din ceruri, cum am putea noi să tăcem?

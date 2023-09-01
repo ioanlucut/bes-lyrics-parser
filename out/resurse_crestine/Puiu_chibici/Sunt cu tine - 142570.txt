@@ -1,0 +1,33 @@
+[title]
+Sunt cu tine {author: {Puiu Chibici}, {rcId: {142570}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c2,c3
+
+[v1]
+Negrii nori când se zăresc și cei mai mulți se îngrozesc
+Frate nu te-nspăimânta, stai pe turn și-ascultă numai vocea Sa
+
+[c]
+/: Sunt cu tine :/ nu te teme orice-ar fi copilul meu
+/: Sunt cu tine :/ Eu sunt viu și-a tot puternic Dumnezeu
+
+[v2]
+Când mai cazi și pari învins, când spaima morții te-a cuprins
+Șoapta Lui îți spune așa, fiul meu viața ta e-n mâna Mea
+
+[v3]
+Fii mereu bun lucrător în via Sa și-al său ogor
+Ca David învingător, Și-n numele Domnului biruitor
+
+[v4]
+Eu sunt cel neprihănit, ce pentru tine a murit
+Am pus preț pe ființa ta, și te-am salvat pe crucea de la Golgota
+
+[c2]
+/: Doar cu Mine :/ Viața ta aicea poate fi un vis
+/: Doar cu Mine :/ vei ajunge în cerescul Paradis
+
+[c3]
+/: Sunt cu tine :/ nu te teme orice-ar fi copilul meu
+/: Sunt cu tine :/ Eu sunt viu și-a tot puternic Dumnezeu.

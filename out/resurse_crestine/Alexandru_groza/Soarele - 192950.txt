@@ -1,0 +1,21 @@
+[title]
+Soarele {author: {Alexandru Groza}, {rcId: {192950}}
+
+[sequence]
+v1,c,c
+
+[v1]
+Când zorii zilei se-arată Domnul ne dă îndurarea
+Cânt cu mulțumire un cânt de iubire lui Dumnezeu
+Ziua ce vine-i frumoasă, inima mea e voioasă
+Cânt cu bucurie, laudă să-I fie, o, Domnul meu!
+
+[c]
+Soarele cu drag se arată,
+Iubirea Ta-i minunată
+Prin Duhul Sfânt ne vestești,
+Doamne, Tu ce mult ne iubești!
+
+[b]
+Ce mare ești, Doamne, Tu strălucești, Doamne
+Ce mare ești, Doamne-n inima mea!

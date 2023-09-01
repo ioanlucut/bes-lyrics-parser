@@ -1,0 +1,41 @@
+[title]
+Cand te uiti prea mult in soare {author: {Nicolae Moldoveanu}, {rcId: {3918}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Când te uiți prea mult în soare,
+Nu mai vezi pământul jos;
+Când te crezi prea multe-n stare,
+Uiți de cel neputincios.
+
+[c]
+Nu uita, nu uita, nu uita
+Că-i un vis și viața ta, că-i un vis și viața ta;
+În curând, în curând, în curând
+Parcă nici n-ai fost, n-ai fost nicicând!
+
+[v2]
+Când lumina-n tine scade,
+Cresc a umbrelor poveri;
+Când virtutea-n pofte-ți cade,
+Pierzi cereștile puteri.
+
+[v3]
+Când iți e prea cald și bine,
+Umbli singur, rupt de toți;
+Când ai zile prea senine,
+Nu mai cauți pe frați și soți.
+
+[v4]
+Cât de bine-ți face ție
+Dumnezeu când ești fălos,
+Că te duce-n sărăcie
+Și te-aruncă-n lacrimi jos.
+
+[v5]
+Ce cunună, ce cunună
+Umblă Domnul ne-ncetat
+Și pe capul tău s-o pună
+Dac-ar fi mai aplecat.

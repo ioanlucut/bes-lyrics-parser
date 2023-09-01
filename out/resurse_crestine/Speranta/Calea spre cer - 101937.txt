@@ -1,0 +1,53 @@
+[title]
+Calea spre cer {author: {Speranța}, {rcId: {101937}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Nu se poate-ajunge-n ceruri
+Fără a fi încercat
+Fără să cunoști valoarea
+Aurului prelucrat.
+
+[c]
+Dar se poate când în viață
+Biruiești în orice greu
+Și ca scut al vieții tale
+Este numai DUMNEZEU!
+
+[v2]
+Nu se poate-ajunge-n ceruri
+Fără să fii iubitor
+Chiar de ura este mare
+Și e cerul plin de nori
+
+[c2]
+Dar se poate când iubești
+Chiar și pe vrăjmașul tău
+Nu uita c-așa făcut-a
+Totdeauna DUMNEZEU!
+
+[v3]
+Nu se poate-ajunge-n ceruri
+Fără a îți împărți
+Partea ta cu cei flămânzi
+Hrană spre-a le dărui
+
+[c3]
+Dar se poate când iubești
+Dăruiești la cel sărac
+Și din cat tu dai mai mult
+Tu devii cel mai bogat
+
+[v4]
+Stăruiește-n fapte bune
+Fii exemplu tot mereu
+Astfel vei putea ajunge
+Sus în Cer la DUMNEZEU!
+
+[c4]
+Calea către Cer e sfântă
+Caută să mergi pe ea
+Astfel vei avea izbândă
+Și-n veci te vei bucura

@@ -1,0 +1,29 @@
+[title]
+Mai e putin pe-acesta cale {author: {Simion Buzduga}, {rcId: {83384}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mai e puțin pe-această cale
+Mireasa strigă suspinând
+Și te așteaptă jos în vale
+Să vii s-o iei o Mire sfânt
+
+[c]
+/: Se-arată florile iar pe câmpii
+Și ploaia de necazuri s-a opri
+Se-aude glasul turturice-n vii
+Și a cântării vreme a sosi :/
+
+[v2]
+Tot mai aproape este ziua
+Când vom uita de tot ce-i rău
+Când vom striga toți: Aleluia
+Slăvind pe Mire-n cerul Său
+
+[v3]
+E tot mai greu acum la urmă
+Dar vom lupta pân’ la sfârșit
+Când vom fi un Păstor și-o turmă
+Pe plaiul sfânt și infinit

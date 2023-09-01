@@ -1,0 +1,41 @@
+[title]
+Pregateste-te de-o mare biruinta {author: {Lidia Gheorghe}, {rcId: {212362}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Pregătește-te de-o mare biruință.
+Pregătește-te ca să te izbăvesc.
+Nu uita că-s Dumnezeu și-s în putință
+Ca apele din jur să-ți liniștesc.
+
+[c]
+Nu te-ndoi de iubirea ce ți-o port,
+Nu te-ndoi de iubire ce ți-o port,
+Nu te-ndoi de iubire ce ți-o port,
+Sunt al tău adăpost, iubesc al tău cort.
+
+[v2]
+Amintește-ți azi, ce-am făcut în vechime.
+Cum am dat poporului apă din stânci.
+Cum să nu pot fi același pentru tine?
+Când tu Mă lauzi și Mie îmi cânți.
+
+[c2]
+Te-am ocrotit și dreptate ți-am făcut
+De-atâtea ori, privește în trecut.
+Și-acum te-ncrede că sunt al tău scut.
+Am dat sânge ca preț, tu să scapi de dispreț.
+
+[v3]
+Nu știu ce plan ai o Doamne, tu cu mine,
+Că m-ai pus de-oparte și încă trăiesc;
+Vreau ca mult popor să se-ntoarcă la Tine,
+Să am roade și să te iubesc.
+
+[c3]
+Nu te-ndoi de iubirea ce Ți-o port,
+Nu te-ndoi de iubirea ce Ți-o port,
+Nu te-ndoi de iubirea ce Ți-o port,
+Am făcut legământ cu-un Dumnezeu ce-i Sfânt.

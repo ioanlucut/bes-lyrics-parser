@@ -1,0 +1,27 @@
+[title]
+Cea mai mare veste care-a rasunat {author: {Anonim}, {rcId: {1605}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Cea mai mare veste care-a rasunat,
+Pe pamantul nostru si in lung si-n lat,
+Este Vestea Sfanta, Mielul Sfant jertfit;
+Cine-n El se-ncrede este mantuit.
+
+[c]
+O, ce Veste Sfanta! Glorie, Isus!
+Tu povara lumii ai purtat supus.
+Glorie, marire, vesnic vom canta!
+Biruinta noastra-n har o vom avea!
+Vestea cea mai buna si-azi rasuna lin!
+Pamanteni - multime, azi la Tine vin;
+Cine vrea si crede, inca este har...
+O, veniti, prieteni, la cerescul dar!...
+
+[v2]
+Peste continente, zboara glorios
+A salvarii veste, prin Isus Hristos.
+Daru-i fara plata. Nu mai amanati,
+Ca sa nu ramaneti vesnic neiertati!

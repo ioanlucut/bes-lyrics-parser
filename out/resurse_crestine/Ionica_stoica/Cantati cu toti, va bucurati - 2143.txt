@@ -1,0 +1,53 @@
+[title]
+Cantati cu toti va bucurati {author: {Ionică Stoica}, {rcId: {2143}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Cântați cu toți, vă bucurați
+Puțin a mai rămas
+Oricât ar fi crucea de grea
+Din ea să nu tăiați.
+
+[c]
+/: Încă puțin ne-a mai rămas
+Isus din cer va reveni
+Să-și ia mireasa sus la cer
+Prin Duhul Sfânt o va răpi. :/
+
+[v2]
+Mulți au căzut sub crucea grea
+De grijuri și poveri
+Dar Dumnezeu prin Duhul Sfânt
+Le-a dat din nou puteri.
+
+[c2]
+/: Chiar dacă mergi spre cer plângând
+Curând toate le vei uita
+Isus Hristos cu mâna Lui
+Va șterge lacrima, nu dispera! :/
+
+[v3]
+Chiar dacă treci prin încercări
+Frate, nu te lăsa!
+Tu strigă-ntruna la Isus
+El e scăparea ta.
+
+[c3]
+/: El e salvarea tuturor
+A celor ce se-ncred în El
+El e Fiul Lui Dumnezeu
+Isus Hristos Emanuel. :/
+
+[v4]
+Chiar dacă valuri vin mereu
+Și bat în barca ta
+Tu nu uita că Dumnezeu
+Îți stă alăturea.
+
+[c4]
+/: Tu urcă-ți crucea până sus
+Acolo sus la Golgota
+Unde Isus cel răstignit
+Îți va lua povoara ta. :/

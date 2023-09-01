@@ -1,0 +1,44 @@
+[title]
+Jos in ieslea bethleem {author: {Ionel Saran}, {rcId: {115656}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Jos în Ieslea Bethleem
+S-a născut Emanuel
+/: Peste noapte se așterne
+Mii de coruri Îngerești :/
+
+[v2]
+O stea de la Răsărit
+De departe s-a zărit
+/: Magii îi călăuzii
+Și cu toți la drum porni :/
+
+[v3]
+Și deodată s-a oprit
+Steaua de la Răsărit
+/: Peste Ieslea cea saracă
+Nu peste casa bogată :/
+
+[v4]
+Magii-atuncea s-au oprit
+Înspre Iesle au pășit
+Smirnă, aur și tămâie
+I-au așternut la picioare
+Lui Isus micuțul Prinț
+Ce a fost vestit de mult
+
+[v5]
+Păstorii și Ei cântau
+Cu toții se bucurau
+/: Îngerii cântau ”
+Mărire”
+Lui Isus de fericire :/
+
+[v6]
+Pentru Omul păcătos
+Ai venit din Ceruri jos
+/: Ai venit și pentru mine
+Ca să-mi dai Mântuire :/

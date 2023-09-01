@@ -1,0 +1,41 @@
+[title]
+Domnul meu {author: {Speranța}, {rcId: {102155}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Domnul meu, azi luminează-mi viața
+Să-nțeleg iubirea Ta
+Iar când greul îmi umbrește viața
+Fă și-atunci să pot cânt
+
+[c]
+Aș vrea să cânt chiar dacă moartea
+S-ar război cu trupul meu
+Numai să știu că-n ziua mare
+Voi fi numit Copilul Tău :/
+
+[v2]
+Domnul meu, azi luminează-mi viața
+Să deslușesc Cărarea Ta
+Iar miile de căi din lume
+Să nu le schimb nicicând cu-a Ta
+
+[c2]
+Aș vrea să merg pe Calea Sfântă
+Chiar dacă e-ngustă sau e grea
+Căci doar pe ea au mers toți sfinții
+Privind mereu la Golgota
+
+[v3]
+Domnul meu azi luminează-mi viașa
+Să nu urăsc pe nimenea
+Nici chiar vrășmașii cei de moarte
+Căci și Tu ai făcut așa
+
+[c3]
+Aș vrea ca să renunț în viață
+La tot ce-i rău și păcătos
+Și lângă Crucea Ta, Isuse
+Fă să rămân tot credincios

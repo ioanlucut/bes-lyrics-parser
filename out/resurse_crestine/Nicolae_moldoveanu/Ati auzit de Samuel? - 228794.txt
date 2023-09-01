@@ -1,0 +1,20 @@
+[title]
+Ati auzit de samuel? {author: {Nicolae Moldoveanu}, {rcId: {228794}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Ați auzit de Samuel? N-ați vrea să fiți și voi ca el?
+/: De-un an era, dragi copilași, când el făcu întâii pași
+în Casa Domnului, supus, de mama lui cea bună dus! :/
+
+[v2]
+El a crescut apoi frumos, acolo-n templu, credincios,
+/: Deși micuț, a fost chemat de Dumnezeul Minunat,
+și-n slujba-I sfântă l-a trimis, să spun-al Lui Cuvânt deschis. :/
+
+[v3]
+Și voi, acum, deși micuți, în Domnul de sunteți crescuți,
+/: de El deplin ascultători, puteți să-I fiți folositori,
+’mplinind cu râvn-al Său Cuvânt, ca Samuel în templul sfânt. :/

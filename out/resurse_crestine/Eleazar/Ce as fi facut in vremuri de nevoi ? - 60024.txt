@@ -1,0 +1,35 @@
+[title]
+Ce as fi facut in vremuri de nevoi ? {author: {Eleazar}, {rcId: {60024}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ce as fi facut in vremuri de nevoi?
+De n-ai fi fost la carma vietii mele,
+Cand navalit-au valuri mari puhoi
+Credinta sa mi-o sfarme sa mi-o spele
+
+[c]
+M-ar fi inecat atatea valuri mari
+Si ar fi trecut paraie peste mine
+Dar in grelele talazuri Tu apari
+Si mai departe merge ferit cu Tine
+
+[v2]
+Ce as fi facut in lumea asta rea?
+De n-ai fi fost Isus samaritene
+Sa ma ridici cand nimenea n-a vrut
+Si sa-mi alini Tu lacrimile in gene
+
+[v3]
+Dar simt mereu cum ma calauzesti
+Si adapost imi dai pe a vietii cale
+Si fiindca atat de mult Tu ma iubesti
+Eu vreau sa stau sub scutul mainii Tale
+
+[v4]
+Ce as putea eu singur pe pamant
+Un calator pribeag si fara tinta
+De n-as fi auzit al Tau Cuvant
+De ceruri si de tara sfanta.

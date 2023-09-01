@@ -1,0 +1,41 @@
+[title]
+Azi iti multumesc {author: {Mirela Ursulescu}, {rcId: {237970}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Azi iți mulțumesc o Doamne Sfânt
+Că-nspre mine ai privit cu milă,
+Când în încercare m-ai cernut
+Mi-ai adus speranță și lumină.
+
+[c]
+/: Azi îți mulțumesc și te slăvesc
+Căci tot greul meu a fost spre bine,
+Ca viața-ntreagă să-Ți slujesc
+Și în veșnicii să fiu cu Tine :/
+
+[v2]
+Când zdrobit eram fără puteri
+Ai ales ca să cunosc smerenia,
+Singur când zăceam în disperări
+Tu mă prelucrai, vroiai sfințirea.
+
+[v3]
+Când adesea Tată nu vedeam
+Nici speranța nici ce-i fericirea,
+Mi-ai vorbit in taina căci erai
+Langa mine și-mi vroiai trezirea.
+
+[v4]
+Deseori atunci te întristam
+Când credința mea era prea mică,
+Dar pe-a Tale brațe mă purtai
+Și mă-ncurajai să nu am frică.
+
+[v5]
+Doamne azi te rog ca să mă ierți
+Pentru toate greșurile mele,
+Mulțumesc Isuse că mă porti
+Pe a Tale brațe pe-a Ta cale.

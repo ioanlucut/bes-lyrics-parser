@@ -1,0 +1,35 @@
+[title]
+As vrea sa zbor in zori {author: {Nicolae Moldoveanu}, {rcId: {5704}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Aș vrea să zbor, în zori, ca porumbelul,
+S-ajung mai sus, la Domnul meu iubit;
+/: Să nu mai fiu, în asta tristă viață,
+Să fiu mângâiat de Dumnezeu. :/
+
+[v2]
+Ajunge pentru mine-această viața
+În care eu m-am chinuit mereu!
+/: Aș vrea ca pururi să fiu lângă Domnul,
+Din instrument să-I cânt și eu mereu. :/
+
+[v3]
+Să-mi stâmpăr inima ce mult suspină,
+De-atâta timp lovită de dureri;
+/: Să-mi cânt mereu, din instrument, sfârșitul
+De zile cu necazuri și dureri. :/
+
+[v4]
+Să-mi răcoresc a mea inimă tristă,
+Cântând cu cei ce i-a răscumpărat;
+/: Pe veci de veci, să fiu mereu cu Domnul,
+Cu-acei ce-n lume s-au iubit ca frați. :/
+
+[v5]
+Aș vrea să fiu unit cu-aceia care
+Cu sânge scump au fost răscumpărați,
+/: Ce și-au primit cununa de viață
+Din mâna Domnului ce i-a salvat. :/

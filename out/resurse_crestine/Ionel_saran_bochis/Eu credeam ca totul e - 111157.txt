@@ -1,0 +1,31 @@
+[title]
+Eu credeam ca totul e {author: {Ionel Saran Bochis}, {rcId: {111157}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Eu credeam că totul e
+Să am bani să am cu ce
+/: Viața eu să mi-o distrez
+Fără să știu unde alerg
+Și trăiam în lumea rea
+Fără Voia Ta :/
+
+[c]
+/: Dar într-o zi din viața mea
+Mi-ai adus fericirea
+Mi-ai șoptit plin de iubire
+Că ai murit și pentru mine :/
+
+[v2]
+Astăzi cânt Isuse
+Cânt cu foc de bucurie
+Inima și sufletul meu
+Saltă acum de fericire
+
+[e]
+Orice ar fi. orice ar veni
+Știu că Tu mă vei păzi
+Și cu mine Tu vei fi
+/: Cât pe lume eu voi mai trăi :/

@@ -1,0 +1,37 @@
+[title]
+Mai este mult isuse drag pan la a ta venire? {author: {Anonim}, {rcId: {163871}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Mai este mult, Isuse drag,
+Pân’ la a Ta venire?
+Te-așteaptă sufletul pribeag
+De dor de veșnicie.
+
+[c]
+Te-așteaptă ai Tăi copii,
+Te-așteaptă ca să vii
+Biserica de pe pământ.
+/: Din crăpături/înălțimi de stânci
+Sau văile adânci
+Mireasa-așteaptă suspinând. :/
+
+[v2]
+Mai este mult, Isuse drag,
+Pe-acest pământ de jale?
+Mai este mult pân-o să scap
+De lacrimile-amare?
+
+[v3]
+Mai este mult, Isus iubit,
+Din noaptea cea pustie?
+Dorim s-aduci cât mai curând
+A ta împărăție!
+
+[v4]
+Mai este mult, când vei striga
+Cei sfinți să vin-acasă?
+O, Doamne-atunci nu ne uita
+Ci du-ne-n a Ta slavă!

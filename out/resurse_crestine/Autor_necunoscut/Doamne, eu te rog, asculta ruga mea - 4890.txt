@@ -1,0 +1,16 @@
+[title]
+Doamne eu te rog asculta ruga mea {author: {Anonim}, {rcId: {4890}}
+
+[sequence]
+v1,c
+
+[v1]
+Doamne, eu Te rog,
+Ascultă ruga mea,
+Către Tine strig,
+Ascultă glasul meu.
+
+[c]
+Și-atunci când inima mi-e grea
+Du-mă pe stânca ce n-o pot urca,
+Ce n-o pot urca.

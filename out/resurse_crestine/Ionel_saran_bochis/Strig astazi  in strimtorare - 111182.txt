@@ -1,0 +1,41 @@
+[title]
+Strig astazi in strimtorare {author: {Ionel Saran Bochis}, {rcId: {111182}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ooooo! Din adâncuri către Tine
+Doamne strig cu-adînci suspine
+Unde Ești Tu Domnul meu
+Că îmi este tare greu
+Ooooo! Din adâncuri către Tine
+Doamne strig cu-adînci suspine
+Unde Ești Tu Domnul meu
+Că îmi este tare greu
+
+[c]
+/: Strig astăzi în strîmtorare
+Doamne dămi Tu alinare
+Scoatemă din suferință
+Nu mă lăsa o Isuse :/
+
+[v2]
+Ooooo! Vai ce greu e câteodată
+Să n-ai Mamă să n-ai Tată
+Dar îmi pare și mai greu
+Cănd nu-l am pe Dumnezeu
+Ooooo! Vai ce greu e câteodată
+Să n-ai Mamă să n-ai Tată
+Dar îmi pare și mai greu
+Cănd nu-l am pe Dumnezeu
+
+[v3]
+Ooooo! Ești un ajutor bogat
+Ești Tată pentru săraci
+Le dai hrană și-i înbraci
+Tu Ești Tat-adevărat
+Ooooo! Ești un ajutor bogat
+Ești Tată pentru săraci
+Le dai hrană și-i înbraci
+Tu Ești Tat-adevărat

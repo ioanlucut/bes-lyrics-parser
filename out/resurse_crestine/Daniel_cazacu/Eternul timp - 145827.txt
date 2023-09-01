@@ -1,0 +1,17 @@
+[title]
+Eternul timp {author: {Daniel Cazacu}, {rcId: {145827}}
+
+[sequence]
+v1,c
+
+[v1]
+Pe scara eternului timp
+Ce-ades se duce-n zbor
+%Ne trecem ca un vis
+Spre patria de dor.%2
+
+[c]
+Grabiti ca si un tren
+Ce un-i oprit nici cand
+Se duce viata noastra
+De-aici de pe pamint

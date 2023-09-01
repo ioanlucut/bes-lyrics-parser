@@ -1,0 +1,29 @@
+[title]
+Unde-ai sa fugi {author: {Frații Wagner}, {rcId: {162029}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: N-ai liniște, ești zbuciumat,
+Ești urmărit de-al tău păcat.
+Mereu auzi chemarea Lui,
+Te vrea-napoi în turma Lui. :/
+
+[c]
+/: Unde-ai să fugi să te ascunzi,
+De Dumnezeu să nu auzi?
+Oricât ai vrea, nu încerca,
+E peste tot, e-n preajma ta. :/
+
+[v2]
+/: De spui: ”sunt foarte păcătos”,
+Te iartă azi Isus Hristos,
+Îți dă-napoi veșmânt curat,
+De spui adio la păcat. :/
+
+[v3]
+/: Ridică-te, te cheamă acum
+Samariteanul sfânt și bun.
+E clipa ta, nu refuza,
+Îngenunchează-n fața Sa. :/

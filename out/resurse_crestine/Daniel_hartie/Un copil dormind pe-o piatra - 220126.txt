@@ -1,0 +1,61 @@
+[title]
+Un copil dormind pe-o piatra {author: {Daniel Hartie}, {rcId: {220126}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Un copil dormind pe-o piatra
+A vazut o scara-n vis,
+Foarte lunga foarte-nalta
+Pana sus in Paradis.
+Pe-a ei drepte luminate
+Din cer coborau mereu
+Cete binecuvantate
+Ingerii lui Dumnezeu.
+
+[c]
+Pe de-asupra era Domnul
+Iar pe scara coborau
+Mii de ingeri din lumina,
+Inspre Iacov Ei veneau.
+
+[v2]
+Si de-asupra scarii pline,
+Ca un vesnic curcubeu
+A vazut in vis baiatul
+Pe al nostru Dumnezeu.
+Doamne ce minune mare
+Ce tinut infricosat
+Tanarul din somnul dulce
+S-a trezit si s-a mirat.
+
+[v3]
+Dumnezeu cu bunatate
+Lui Israel I-a vorbit,
+Nu te teme sunt cu tine
+Domnul I-a fagăduit,
+Tie iti voi da pământul
+Tie si l-ai tai copii
+Canaanul plin cu roade
+Si cu multe bogatii.
+
+[v4]
+Tu imi vei zidi o casa
+Si o vei numi Betel,
+Unde v-a aduce jertfe
+Neamul vostru Israel
+Si s-a implinit Cuvantul
+Care Domnul L-a rostit
+Cand facuse legamantul
+Cu acel baiat smerit.
+
+[v5]
+Iata visul se-mplineste
+Scara rezemata sus,
+Ea cu Tatal ne uneste
+Prin jertfirea lui Isus.
+Si de-atunci pe ea coboara
+Mi de ingeri pe pamant
+Prin Isus, Slavita scara
+Noi urcam la Tatal Sfant.

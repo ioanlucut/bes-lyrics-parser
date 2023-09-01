@@ -1,0 +1,35 @@
+[title]
+Sa ai putere sa spui nu {author: {Otniel Stirb}, {rcId: {168329}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Să ai putere să spui nu
+În marea luptă cu păcatul
+Chiar dacă-i greu să poți fi tu
+Să nu te dai nicicând drept altul.
+
+[c]
+Când Domnului îi place calea ta
+Chiar din vrăjmași iți face prieteni
+De-aceea frate nu uita
+Numai cu Domnul să te-asemeni.
+
+[v2]
+Când ai putere să iubești
+Pe-al tău dușman ca pe un frate
+Chiar fără luptă biruiești
+Căci doar iubind le-nvingi pe toate.
+
+[v3]
+Iar când ești gata să renunți
+La dreptul tău chiar dacă doare
+Ești un erou ce mută munți
+Și când ești slab atunci ești tare.
+
+[v4]
+Căci Dumnezeu ne-a mântuit
+Și ne-a iubit fără de plată
+Prin Fiul Său la toți ne-a dat
+Același drept să-I spunem Tată.

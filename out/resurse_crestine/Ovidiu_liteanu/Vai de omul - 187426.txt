@@ -1,0 +1,29 @@
+[title]
+Vai de omul {author: {Ovidiu Liteanu}, {rcId: {187426}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Vai de omul păcătos
+Ce moare făr’ de Hristos
+Vai de el unde s-o duce
+/: Acolo pe veci va plânge :/
+
+[v2]
+Vai de omul amăgit
+Care nu s-a pocăit
+Că trăiește în păcat
+/: De Hristos e depărtat :/
+
+[v3]
+Am fost și eu rătăcit
+În lume nemântuit
+Am aflat Sfânta Credință
+/: Și-am venit la pocăință :/
+
+[v4]
+O ascultă dragul meu
+Vino azi la Dumnezeu
+/: El vrea să te curațească
+Sufletul să-ți mântuiască :/

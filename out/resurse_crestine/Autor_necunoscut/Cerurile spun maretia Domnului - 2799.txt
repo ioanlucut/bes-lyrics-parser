@@ -1,0 +1,22 @@
+[title]
+Cerurile spun maretia domnului {author: {Anonim}, {rcId: {2799}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cerurile spun măreția Domnului
+Cine poate întrece frumusețea Lui?
+
+[c]
+În veci de veci ești Tu
+Divinul miel pe tron
+Genunchii îmi aplec, și Ție mă închin.
+
+[v2]
+Eu îl proclam, glorie mărețului Domn!
+Cine altul s-a dat ca jerfă pentru om?
+
+[v3]
+El va fi în veci Mielul de pe tron.
+Fericit mă-nchin, Isus este Domn.

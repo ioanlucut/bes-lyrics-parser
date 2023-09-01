@@ -1,0 +1,47 @@
+[title]
+Pe drumul ce duce pe dealul golgota {author: {Anonim}, {rcId: {66362}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Pe drumul ce duce la dealul Golgota,
+Un om cu o cruce urca,
+Bătut, plin de sânge, cu ochii în lacrimi
+Pentru lumea-ntreagă răbda.
+Și iată-L cum cade, sleit de putere
+De gloate, de oameni împins,
+Dar El, Domnul slavei răbdând pân’ la urmă
+Nimica din gură n-a zis.
+
+[c]
+Și a căzut jos în țărână
+Și nimănui nu-i pare rău,
+Căci Acel hulit de gloată
+Era Fiul lui Dumnezeu.
+
+[v2]
+Ridică iar crucea, durerea e mare
+Dar știe că nu mai e mult.
+În spate-i mulțimea, în față-i Golgota
+Și lacrimi pe față Îi curg.
+Dar mulți Îl lovesc și alții Îl scuipă
+Pe Fiul lui Dumnezeu.
+Acolo pe cruce purtat-a păcatul
+Al lumii întregi și al meu.
+
+[v3]
+Dar iată-L, ajunge pe dealul Golgota,
+Zdrobit de povara cea grea,
+Îl bate în cuie, ridică iar crucea,
+Căci toate acum se sfârșesc.
+Cu ochii în lacrimi privește cu milă
+Mulțimea de jos ce-L ura.
+Dar inima-i plânge și dragostea-i mare
+Pe toți, Domnul nostru, Îi vrea.
+
+[c2]
+Și a strigat plin de iubire:
+O, iartă-i, Tatăl meu cel drag,
+Căci toți acei ce-Mi doresc moartea
+Astăzi ei nu știu ce fac.

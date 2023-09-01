@@ -1,0 +1,20 @@
+[title]
+Tata iubit straluceste-acum (lord let your light) {author: {Philips Craig and Dean}, {rcId: {225839}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Tată iubit strălucește-acum peste noi
+
+[c]
+Salvați să fim, liberi să trăim
+Noaptea cea grea s-o biruim
+Strălucește peste noi.
+
+[v2]
+Har din vecii,
+Har din mâna Ta toarnă acum
+
+[v3]
+Iubirea Ta fără sfîrșit revars-acum

@@ -1,0 +1,23 @@
+[title]
+La capat de drum {author: {Adi Gliga}, {rcId: {158399}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Creștem încet, dar nu prea lent,
+Nu ne gândim, că îmbătrânim!
+Astăzi copii, dar mâine părinți,
+Iar mai târziu, poate bunici!
+
+[c]
+Când timpul s-a scurs și toate s-au dus,
+Ce mai e bun la capăt de drum?
+Și sigur știi, că vine o zi,
+Când vei pleca, ce va urma?
+
+[v2]
+Toate se sting și oricât am vrea,
+Ne ridicăm, dar iar vom cădea!
+Doar de-am iubi, pe Dumnezeu,
+Ne-am ridica și-am fi cu El!

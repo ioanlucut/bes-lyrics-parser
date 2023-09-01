@@ -1,0 +1,33 @@
+[title]
+Iata lupta-i pe sfarsite {author: {Nicolae Moldoveanu}, {rcId: {247813}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Iată, lupta-i pe sfârșite,
+Pe pământ, pe pământ,
+/: Și-n curând vor fi-mplinite,
+Toate câte-au fost rostite
+De Isus, prin Cuvânt. :/
+
+[v2]
+Va veni Împărăția
+Cea de har, cea de har;
+/: Nesfârșită bucuria
+Va domni în veșnicia
+Fără plâns și amar. :/
+
+[v3]
+Fericiți câți cu credință
+Au trăit, au trăit;
+/: Sfânta Domnului voință,
+Le va da ca locuință
+Raiul Său fericit. :/
+
+[v4]
+Mulțumim cu închinare,
+Doamne Sfânt, Doamne Sfânt,
+/: Pentru că ne-ai dat intrare
+În Locașul slavei, mare,
+Cum ne-ai spus, prin Cuvânt. :/

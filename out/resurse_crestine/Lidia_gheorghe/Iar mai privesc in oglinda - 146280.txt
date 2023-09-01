@@ -1,0 +1,33 @@
+[title]
+Iar mai privesc in oglinda {author: {Lidia Gheorghe}, {rcId: {146280}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Iar mai privesc în oglindă
+Și zăresc același chip
+Plâns, cu inima zdrobită
+Către ceruri murmurând:
+
+[c]
+/: Scapă-mă, te rog, scapă-mă!
+Isuse, privește-mă! :/
+
+[v2]
+Ai atâta putere,
+Folosește-te de ea!
+Lasă Tu îndurare
+Și peste ființa mea!
+
+[v3]
+Iar mai privesc în oglindă
+Și zăresc același chip.
+După ruga îndelungă,
+Nu-mi mai trebuie nimic.
+
+[v4]
+Până-acum m-ai ascultat.
+Rezolvare-n tot mi-ai dat.
+Sper că mă vei ajuta
+Că Tu ești Salvarea mea.

@@ -1,0 +1,32 @@
+[title]
+Nu privi inapoi {author: {Adi Gliga}, {rcId: {158398}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Poți s-alegi, dacă vrei,
+Dacă vrei, poți să schimbi ceva!
+Știi că poți fi mai bun,
+Fii mai bun și nu te uita,
+La ce-a fost în trecut,
+În trecut nu, nu mai trăi!
+Trebuie doar să asculți,
+Să asculți, ce îți vorbi.
+
+[c]
+Nu privi înapoi și nu te-ngrijora,
+Ce a fost nu va fi, ce va fi vei vedea.
+Nu privi înapoi și nu te-ngrijora,
+Norii vin, norii trec și te vei bucura.
+/: Vei vedea! :/ x2
+
+[v2]
+Orice om, poate fi,
+Poate fi, dacă vrea mai bun!
+Ce e scris, doar atât,
+Doar atât, ce e scris, îți spun.
+Acum știi, că nimic,
+Că nimic, nu te poate-opri,
+Să trăiești, să iubești
+Și iubind, fericit să fii!

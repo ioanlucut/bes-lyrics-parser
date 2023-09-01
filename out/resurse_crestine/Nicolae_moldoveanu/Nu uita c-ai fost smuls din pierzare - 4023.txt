@@ -1,0 +1,35 @@
+[title]
+Nu uita c-ai fost smuls din pierzare {author: {Nicolae Moldoveanu}, {rcId: {4023}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Nu uita c-ai fost smuls din pierzare
+De Isus când viața și-a dat;
+/: Nu uita ce-a costat, ce Preț Mare:
+Mântuirea din negrul-ți păcat! :/
+
+[v2]
+Nu uita că tu porți sfântul nume
+Al Vieții și-al Harului Sfânt,
+/: Rânduit ești să fii pentru lume
+Mărturie prin trai și cuvânt! :/
+
+[v3]
+Nu uita, nu uita niciodată
+Că tu ești pe pământ un străin,
+/: Nu uita că viața ți-e dată
+Ca să-nalți Adevărul Divin! :/
+
+[v4]
+Nu uita de chemarea cerească
+Și de-alegerea ta pentru Har;
+/: Prin veghere s-o faci să lucească
+Dovedind că nu lupți în zadar! :/
+
+[v5]
+Să-ți aduci totdeauna aminte
+De Isus și Cuvântu-I nespus;
+/: Propășire și viață fierbinte
+Vei avea când nu uiți ce ți-a spus! :/

@@ -1,0 +1,32 @@
+[title]
+Cu bucurie la nunta voastra {author: {Anonim}, {rcId: {197808}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cu bucurie la nunta voastră,
+Ne închinăm în fața Celui Sfânt
+Prezența Lui dorim să fie,
+Când vă jurați credincioșie
+Mire, Mireasa prin legamant
+
+[c]
+/: Noi vă dorim să fiți fericiți,
+Viață frumoasă de-acum să trăiți
+Dar mai mult ca orice vă dorim,
+La nuntă-n cer să ne-ntâlnim :/
+
+[v2]
+Avem în fața noastră astăzi
+Ca un simbol, al nunții Mielului
+Luati exemplu de iubire,
+Scumpa mireasă și tu mire
+El s-a jerfit pentru mireasa Lui
+
+[v3]
+Aporape este clipa cea mare
+În alb veșmânt mireasa va zbura
+Când vom pleaca cu bucurie
+Spre-a cerului Împărăție,
+În Jurul lui Isus ne-om aduna.

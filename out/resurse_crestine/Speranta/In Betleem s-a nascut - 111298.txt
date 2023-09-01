@@ -1,0 +1,21 @@
+[title]
+In betleem s-a nascut {author: {Speranța}, {rcId: {111298}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În Betleem s-a născut Fiul lui Dumnezeu
+Doar o iesle a avut, Fiul lui Dumnezeu
+
+[c]
+/: S-a născut Isus Hristos :/ ×3
+Să ne fie de folos
+
+[v2]
+Pe pământ a venit, Fiul lui Dumnezeu
+Copilaș blând și smerit, Fiul lui Dumnezeu
+
+[v3]
+A venit pentru mine, Fiul lui Dumnezeu
+A venit și pentru tine, Fiul lui Dumnezeu

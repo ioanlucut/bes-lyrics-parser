@@ -1,0 +1,41 @@
+[title]
+Aproape sunt de cel mahnit {author: {Nicolae Moldoveanu}, {rcId: {5636}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Aproape sunt de cel mâhnit,
+Cu inima înfrântă;
+/: Aproape sunt, să-nviorez
+O inimă zdrobită... :/
+
+[v2]
+Aproape sunt, în ceasul greu
+Ca să dau alinare
+/: Și rana-s gata să o leg,
+Să simtă vindecare... :/
+
+[v3]
+În stare sunt ca să te scap;
+Încrede-te în Mine,
+/: Căci nicidecum n-am să te las;
+Voi fi, mereu cu tine!... :/
+
+[v4]
+Privește cerul cât de ’nalt
+Și nepătruns se pare...
+/: Dar totuși, îndurarea Mea
+E mult cu mult mai mare... :/
+
+[v5]
+De ce te temi și te-nspăimânți,
+În clipe de-ncercare?
+/: Ți-am spus că nu te voi lăsa
+Ca să te pierzi pe cale!... :/
+
+[v6]
+Dar pân-atunci, să ții mereu
+Privirea ridicată,
+/: Ca-n ceasul când ți-o fi mai greu
+Salvarea se arată... :/

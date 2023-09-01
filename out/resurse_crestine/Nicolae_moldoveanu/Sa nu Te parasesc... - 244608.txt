@@ -1,0 +1,35 @@
+[title]
+Sa nu te parasesc {author: {Nicolae Moldoveanu}, {rcId: {244608}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Să nu Te părăsesc pe Tine
+Mântuitorul meu slăvit,
+/: Chiar dac-ar trebui pe lume,
+Să părăsesc tot ce-am iubit. :/
+
+[v2]
+Să-mi pot chiar părăsi părinții,
+Și casa-n care m-am născut,
+/: Pe Tine însă niciodată,
+Nici chiar pe-un drum necunoscut. :/
+
+[v3]
+Să pot să mă despart de locuri,
+Și lucruri cât mi-ar fi de dragi,
+/: De Tine însă niciodată,
+Pe orișiunde mă atragi. :/
+
+[v4]
+Să pot lăsa ființe scumpe,
+Și tot ce-aveam de preț, să Ias,
+/: Pe tine însă niciodată,
+Ci să-Ți urmez cu orice pas! :/
+
+[v5]
+Aceasta mi-e și rugăciunea,
+Și teama inimii mereu,
+/: Să nu Te părăsesc pe Tine,
+În veci Mântuitorul meu! :/

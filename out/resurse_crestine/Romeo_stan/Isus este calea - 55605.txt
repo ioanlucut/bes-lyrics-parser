@@ -1,0 +1,27 @@
+[title]
+Isus este calea {author: {Romeo Stan}, {rcId: {55605}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Să nu vi se tulbure inima,
+Pe Ucenici Isus încuraja,
+Aveți credință-n Dumnezeu,
+Aveți credință în Isus.
+
+[c]
+/: Isus Este Calea, Adevărul și Viața, este El,
+El E Mântuitorul, El Este Salvatorul de-L primești :/
+
+[v2]
+Isus dorește pentru tine,
+Să fii cu El în Cer atunci când vine,
+El locuri pentru noi a pregătit,
+Grăbește-te să fii azi mântuit.
+
+[v3]
+Dureri aici cât ai purtat,
+Necaz și suferință le-ai răbdat,
+Acolo sus în Cer le ve-i uita,
+Când Domnul îți va șterge lacrima.

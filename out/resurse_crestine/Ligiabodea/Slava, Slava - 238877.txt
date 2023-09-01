@@ -1,0 +1,25 @@
+[title]
+Slava slava {author: {Ligia_Bodea}, {rcId: {238877}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Nici o noapte n-a fost mai frumoasă
+Ca aceea în care, a venit Mesia în lume
+Din a Lui splendoare!
+Cor de îngeri să răsune aducând mărire
+Împăratului Păcii, venit din strălucire!
+
+[c]
+/: Slavă, Slavă, Slavă lui Dumnezeu
+În locuri preaînalte,
+Pace, pace, pace pe pământ
+Între oamenii plăcuți Lui! :/
+
+[v2]
+Nici o stea n-a fost mai luminoasă
+Ca aceea care, a condus păstorii la iesle,
+Strălucind ca un soare!
+Cor de îngeri să răsune aducând mărire
+Împăratului Păcii, venit din strălucire!

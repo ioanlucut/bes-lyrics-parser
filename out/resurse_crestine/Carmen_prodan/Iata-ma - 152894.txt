@@ -1,0 +1,31 @@
+[title]
+Iata-ma {author: {Carmen Prodan}, {rcId: {152894}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Răsună iar un glas din ceruri
+De la Divinul slavei tron,
+Așa vorbește Domnul Sfânt:
+„
+Caut un om, caut un om! ”
+
+[c]
+/: O, Doamne, iată-mă, sunt gata
+Să mă trimiți unde vei vrea,
+Să-Ți fiu un rob supus Stăpâne,
+Să Te slujesc cu viața mea! : \
+
+[v2]
+Caut un om să stea-n spărtură
+Și să vestească voia Mea;
+Așa vorbește Domnul Sfânt:
+„
+Caut un om, o, cine vrea? ”
+
+[v3]
+Aș vrea ca viața ce-mi rămâne
+S-o mai trăiesc pe-acest Pământ,
+Să fie-n slujba Ta, Isus,
+Să laud Numele-Ți preasfânt!

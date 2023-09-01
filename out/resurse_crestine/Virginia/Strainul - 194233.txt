@@ -1,0 +1,83 @@
+[title]
+Strainul {author: {Virginia}, {rcId: {194233}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,c,v7,c,v8,c,v9,c2
+
+[v1]
+Mereu pribeag din loc în loc
+Mergea prin arșiță, prin ploi,
+Era un călător prin lume
+Și gândul Lui zbura spre noi.
+
+[v2]
+Mesajul blând de-atâta vreme,
+Este ecoul: Pace vouă,
+Dar ne-nțeles era Străinul
+Semănător de viață nouă.
+
+[v3]
+Un visător părea sărmanul,
+Uitat de lipsuri, de nevoi,
+/: Dar deveni în lungul vieții
+Deschizător de drumuri noi.
+ /:
+
+[v4]
+Cuvântul ce părea atuncia
+Doar o strigare în zadar
+S-a răspândit, a prins viața
+Și astăzi e al lumii far.
+
+[v5]
+Bătea la ușile-ncuiate
+Și oameni simpli l-au primit
+De-atuncia vieți nenumărate
+Nemuritoare au devenit!
+
+[v6]
+Nu voi uita cred niciodată
+Măreața clipă ce-am trăit
+/: Mi-a ciocanit duios la ușă
+Eu i-am deschis și l-am primit.
+ /:
+
+[c]
+Pentru El aici în lume
+De necaz o să ai parte
+Nu-L lăsa însă străin,
+Însoțește-L până la moarte.
+Peste tot oricând în toate
+Să nălțăm steagul Lui sus
+/. Și să spunem tuturora
+Că-n noi totul e Isus!
+ /:
+
+[v7]
+Și trăirea-mi păcătoasă
+Boldul falnic a surpat
+A clădit apoi în mine
+Viață nouă, gând curat.
+
+[v8]
+Dar Străinul de-altădată,
+Azi îmi este cel mai drag,
+Nu l-aș da pe lumea toată
+Vreau să fiu cu El pribeag.
+
+[v9]
+Deschide clipa mântuirii,
+Căci fără El viața-i pustiu
+Mâine, data următoare,
+Ia seama va fii prea târziu.
+
+[c2]
+Pentru El, aici în lume,
+De necaz o să ai parte
+Nu-L lăsa însă străin,
+Însoțește-L până la moarte.
+Peste tot oricând în toate
+Să nălțăm steagul Lui sus
+/. Și să spunem tuturora
+Că-n noi totul e Isus!
+ /: x3

@@ -1,0 +1,16 @@
+[title]
+Sunt uimit {author: {Anonim}, {rcId: {2777}}
+
+[sequence]
+v1,c
+
+[v1]
+Doamne, Tu vezi ce e-n inima mea
+Tu știi tot ce se-ntâmplă cu mine,
+Tu ești peste tot în jurul meu
+Ești în fața mea și în spatele meu.
+
+[c]
+/: Mă susții cu puterea Ta :/
+Sunt uimit de cât de bine mă cunoști,
+Ești mai mult decât pot să-nțeleg Doamne. :/

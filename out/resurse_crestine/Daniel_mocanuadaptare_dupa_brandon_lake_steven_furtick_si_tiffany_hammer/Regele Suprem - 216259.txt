@@ -1,0 +1,41 @@
+[title]
+Regele suprem {author: {Daniel Mocanuadaptare după Brandon Lake, Steven Furtick și Tiffany Hammer}, {rcId: {216259}}
+
+[sequence]
+v1,c,v2,c2,v3,c2,c3
+
+[v1]
+Stă printre noi astăzi un Rege,
+În inimă să Îl primim,
+Va locui unde e laudă,
+Cu mila Sa ne va înconjura.
+
+[c]
+El ne va lua, negreșit orice povară,
+Îi vom da Lui orice laude sau cununi.
+Numele Lui e mai presus de toate,
+E Isus, e Regele suprem!
+
+[v2]
+Mielului Sfânt, cinste și slavă!
+Vrednic e Cel ce-a biruit!
+Pus în mormânt, adus la viață,
+El este viu, mormântul Lui e gol!
+
+[c2]
+Doar lui Isus ne-nchinăm de-acum și pururi,
+Moarte-i frântă, cheile-s în mâna Lui,
+Numele Lui e mai presus de toate,
+E Isus, e Regele suprem!
+
+[v3]
+Nu mai e mult, Îl vom vedea toți
+Când lacrima va șterge El
+Și în curând ajungem acasă,
+Îl vom vedea pe Domnul nostru drag!
+
+[c3]
+/: Doamne, Ție, ne-nchinăm de-acum și pururi.
+Sfânt ești, sfânt ești în vecii vecilor,
+Numele Tău e mai presus de toate,
+Ești Cristos, ești Regele suprem! :/

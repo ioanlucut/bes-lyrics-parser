@@ -1,0 +1,18 @@
+[title]
+Voi canta iubirea {author: {Matt Redman}, {rcId: {5146}}
+
+[sequence]
+v1,c
+
+[v1]
+/: Privind la munți, privind în jur,
+Eu văd iubirea Domnului
+Și inima eu mi-o deschid
+Să-L laud pe Domnul cerului.
+Vreau să trăiesc în adevăr,
+Să fiu mereu mulțumitor,
+Zâmbind să le spun tuturor
+De-a Ta iubire. :/
+
+[c]
+/: Veșnic Îți voi cânta iubirea :/

@@ -1,0 +1,47 @@
+[title]
+Adeseori cararea mea {author: {Ionică Stoica}, {rcId: {5792}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Adeseori cărarea mea
+E-o cale de durere;
+/: E-o cale de-ncercare grea,
+Dar am și mângâieri pe ea,
+Căci Domnu-mi dă putere. :/
+
+[v2]
+Căci orișicât de trist aș fi,
+Eu simt a Lui putere;
+/: Eu nu mă tem de nici un rău,
+Căci știu că Dumnezeul meu
+Mi-alin-a mea durere... :/
+
+[v3]
+Când gânduri negre mă răpun,
+Și nu simt mângâiere,
+/: Necazul oare cui să-i spun?
+Căci nu găsesc pe nimeni bun
+S-aline-a mea durere... :/
+
+[v4]
+Atuncea când m-au părăsit
+Chiar prietenii pe cale,
+/: Eu m-am rugat lui Dumnezeu
+Să imi ajute tot mereu
+Și să imi dea răbdare. :/
+
+[v5]
+Să pot să iert și să iubesc
+Vrajmașii-ntotdeauna,
+/: Căci doar așa voi birui,
+Și pentru tot ce-oi suferi
+Eu voi primi cununa. :/
+
+[v6]
+Un singur prieten mi-a rămas,
+Chiar la necazuri, frate;
+/: La El, mă duc cu-amarul meu,
+Căci El e Fiu de Dumnezeu;
+El m-a salvat de moarte! :/

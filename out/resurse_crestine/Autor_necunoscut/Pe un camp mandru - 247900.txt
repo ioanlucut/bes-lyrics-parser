@@ -1,0 +1,47 @@
+[title]
+Pe un camp mandru {author: {Anonim}, {rcId: {247900}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+/: Pe un mândru cu flori
+/:
+/: Mergeam cu Domnul amândoi.
+ /:
+
+[v2]
+/: Și așa mergeam pe cale
+/:
+/: Inima-mbracată-n jale
+ /:
+
+[v3]
+/: Ochii încep a lăcrima
+ /:
+/: De frumoasă ce era cântarea din Golgota
+/:
+
+[v4]
+/: Atunci nu plânge copile
+ /:
+/: Ci mă urmează pe mine
+/:
+
+[v5]
+/: Mă urmează nu mai sta
+ /:
+/: De Golgota nu uita
+/:
+
+[v6]
+Căci Golgota-i loc de jale
+/:
+/: E locul nașterii tale
+/:
+
+[v7]
+/: Când pe Golgota am stat
+/:
+/: Atunci naștere ți-am dat
+/:

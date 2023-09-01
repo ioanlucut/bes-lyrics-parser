@@ -1,0 +1,23 @@
+[title]
+Bucuria mantuirii (mi bem min) {author: {Mirela Ursulescu}, {rcId: {176657}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Bucuria mântuirii, am in inimă mereu,
+Drumul fericirii, e cu Dumnezeu.
+
+[c]
+/: Glorie și Onoare, Împăratul meu
+Slavă, Osanale, Ție Dumnezeu
+Mare e-al Tău nume, veșnic să trăiești
+Laudă și Mărire, căci mult ne iubești :/
+
+[v2]
+Bucuria mântuirii, pace mi-a adus,
+Calea nemuririi, e Domnul Isus.
+
+[v3]
+Bucuria mântuirii, viață mi-a adus,
+Raiul fericirii, e doar cu Isus.

@@ -1,0 +1,26 @@
+[title]
+Isus s-a nascut la betleem {author: {Anonim}, {rcId: {151397}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Isus s-a născut, la Betleem,
+Se-aude în noapte, Israel te cheamă.
+
+[c]
+/: E seară, e seară,
+Și îngeri cânt-afară. :/
+
+[v2]
+Ce fiu și ce preț,
+Dumnezeu ne-a dat,
+De-acea-i cântăm ne-ncetat.
+
+[v3]
+O stea sus din cer, primi o poruncă,
+Pe bolta cerească, pe magi să-i conducă.
+
+[v4]
+Ne-atinge cu mâna venind pe pământ,
+Să plătească cu sânge, un Nou Legământ.

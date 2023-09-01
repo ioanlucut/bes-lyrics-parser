@@ -1,0 +1,35 @@
+[title]
+Vino la isus indata {author: {Anonim}, {rcId: {6643}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Vino la Isus îndată!
+Nu vrei tu să fii iertat?
+În iubirea-I minunată,
+Vina-ntreagă ți-a purtat.
+
+[c]
+Sângele Lui curățește
+Orice vină și păcat;
+Sângele Lui înnoiește.
+O, ce sânge minunat!
+
+[v2]
+La Golgota, pentru tine
+Domnul mult a suferit
+Chin, ocară și rușine
+Mult a mai fost înjosit!
+
+[v3]
+Mielul fără de prihană
+S-a lăsat chiar junghiat;
+Trupul tot I-a fost o rană
+Pentru tine-a sângerat.
+
+[v4]
+Față de-atâta iubire,
+Mai poți sta nepăsător?
+Să-ți alegi tu osândire,
+Când ai un Mântuitor?

@@ -1,0 +1,23 @@
+[title]
+Ninge cu stele {author: {Ramona Ibănescu}, {rcId: {3746}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+Ninge cu stele și flori de zăpadă
+Lumea are în cine să creadă
+El, Mesia, din cer a venit
+Cum Isaia a prezis.
+
+[v1]
+Seară frumoasă cu dalbe flori
+Îngeri coboară, urcă pe nori
+Cerul de gheață lucește în culori
+Totul e nins, e plin de flori.
+
+[v2]
+Noapte mare, noapte sfântă
+Pe tot pământul oamenii cântă
+Totul e vis, e minunat
+Noapte de basm, de neuitat.

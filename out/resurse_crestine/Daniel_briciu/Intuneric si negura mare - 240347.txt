@@ -1,0 +1,53 @@
+[title]
+Intuneric si negura mare {author: {Daniel Briciu}, {rcId: {240347}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Întuneric și negură mare
+Peste lumea întreagă domnea.
+Tot poporul zăcea în pierzare
+Și speranță nimeni n-avea.
+
+[c]
+/: Dumnezeu își arată iar mila
+Înspre omul făcut chiar de El
+Și atuncea trimis-a Lumina
+Jos în staulul din Betleem. :/
+
+[v2]
+Pe pășunea imensă a lumii
+Fiecare de drum își vedea.
+Mii de turme erau risipite
+Și nici una păstor nu avea.
+
+[c2]
+/: Dumnezeu își arată iar mila
+Și privi înspre noi iubitor
+Și trimis-a în taină solia
+Pe Isus, pe Blândul Păstor. :/
+
+[v3]
+Judecata sta gata să-nceapă,
+Iar poporul zăcea condamnat,
+Căci nu-i nimeni un preț să plătească
+Pentru omul căzut în păcat.
+
+[c3]
+/: Dumnezeu își arată iar mila
+Înspre lume și-al Său sfânt popor
+Și din cer ne-a trimis pe Mesia
+Pe Isus, singurul Salvator. :/
+
+[v4]
+Dacă astăzi nu ești în lumină
+Și nu ai pentru suflet păstor,
+Dacă zaci în păcat și ruină
+Și nu ai din pierzare salvator.
+
+[c4]
+/: Azi Isus vrea să-ți fie pe cale
+Și Lumină, dar și Blând Păstor,
+Iar în ieslea inimii tale
+Să se nască ar vrea ca Salvator. :/

@@ -1,0 +1,36 @@
+[title]
+O zilele prind aripi {author: {Nicolae Moldoveanu}, {rcId: {244325}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+O, zilele prind aripi,
+Ori bune-au fost, ori rele,
+/: Și merg să spună-n ceruri,
+Cum te-ai purtat cu ele. :/
+
+[v2]
+Iluzii sau cătușe,
+Le cad când vine seara,
+/: Se duc numai cu vina,
+Sau numai cu comoara. :/
+
+[v3]
+De fiecare dată,
+Mai singură pe ape,
+/: Lumina Ior apune,
+Aproape mai aproape. :/
+
+[v4]
+Iar ultima-ți rămâne,
+Fără apus și stele,
+/: Ca să te ia Ia toate,
+Să te-ntâlnești cu ele. :/
+
+[v5]
+Ferice-atunci de-aceia,
+Ce-n pace pot să moară,
+/: Ce zile
+Ie-i așteaptă,
+În cer ca o comoară! :/

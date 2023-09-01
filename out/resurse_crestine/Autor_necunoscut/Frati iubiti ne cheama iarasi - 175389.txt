@@ -1,0 +1,40 @@
+[title]
+Frati iubiti ne cheama iarasi {{rcId: {175389}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Frați iubiți ne cheamă iarăși,
+Goarna luptei sfinte.
+/: Dup-o încercare-amară,
+Glasul Lui ne cheamă iarăși,
+Pentru Numele Său mare, înainte! :/
+
+[v2]
+Azi chemarea Lui măreață,
+Este mai fierbinte.
+/: Dup-o lungă așteptare,
+Soarele Isus apare,
+Pentru Numele Său mare, înainte! :/
+
+[v3]
+După lupta cea trecută,
+Mulți sunt în morminte.
+/: Dar în lupta începută,
+Domnul e cu noi ne-ajută,
+Biruința nu-i pierdută, înainte! :/
+
+[v4]
+Norii grei se văd în față,
+Ținta luptei sfinte.
+/: Pentru slava Lui măreață,
+Pentru cer și pentru viață,
+Pentru Cel ce merge-n față, înainte! :/
+
+[v5]
+Duceți azi din nou fiorul,
+Noii lupte sfinte.
+/: Către cer ne este dorul,
+Steagul sus și tot poporul,
+Spre Isus biruitorul, înainte! :/

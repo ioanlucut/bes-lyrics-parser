@@ -1,0 +1,33 @@
+[title]
+Calea catre isus {author: {Speranța}, {rcId: {101872}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Credința este sfântă, frate
+Tu trebuie să o păzești
+De vrei cu Isus să fii în slavă
+Tu trebuie să te sfințești
+
+[c]
+/: Calea este Isus, calea către Cer
+Și în veci rămâne, calea numai El :/
+
+[v2]
+Căci Calea aceasta este sfântă
+Pe ea nu poți fi chiar cum vrei
+Cu pofte, plăceri și păcate
+Pe ea nu poți să-naintezi
+
+[v3]
+Lucrarea pe sfânta cărare
+Cândva o va-ncerca Isus
+De-i aur, argint sau pietre scumpe
+Tu sigur vei fi cu Isus
+
+[v4]
+De nu ai pășit pe ea, frate
+Pășește în vremea de-acum
+Căci cununa vieții va fi dată
+Celor care merg pe sfântul drum

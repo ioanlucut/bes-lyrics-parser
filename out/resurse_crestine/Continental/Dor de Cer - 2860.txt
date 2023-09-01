@@ -1,0 +1,33 @@
+[title]
+Dor de cer {author: {Continental}, {rcId: {2860}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+În orice suflet e un tainic dor,
+Aprins în noapte sau stins și gol,
+Dor de lumina, de veșnicie
+Ascuns în inimi de Dumnezeu.
+
+[c]
+Poartă-ți lumina prin întuneric
+În noaptea făr’ de nădejdi pe drum,
+Far neclintit să-ți fie viață,
+/: Pașii să-ndrepte pe drumul bun. :/
+
+[v2]
+Pe calea noastră se află aievea,
+Lumini căzute și stinse-n vânt
+Și mulți încearcă să țină aprinsă
+O amăgire, un dor străin.
+
+[v3]
+Să lași în urmă mereu lumină
+Pe drumul celor ce-au rătăcit,
+Arată calea, atinge inimi
+Și dă speranță prin Duhul Sfânt.
+
+[e]
+Lasă-n inimi
+ /: un dor de cer. :/

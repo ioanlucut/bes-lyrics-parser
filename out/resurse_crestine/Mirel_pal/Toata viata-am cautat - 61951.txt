@@ -1,0 +1,29 @@
+[title]
+Toata viata-am cautat {author: {Mirel Pal}, {rcId: {61951}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Toată viața-am căutat
+Un prieten adevărat
+Și orișiunde am umblat
+Pe Isus l-am aflat.
+
+[c]
+/: Am nevoie de Isus
+Am nevoie de dragostea Sa,
+Am nevoie de Isus
+Numai El mă poate ajuta :/
+
+[v2]
+Când eu mă aflu-n suferinți
+La Isus mă gândesc
+Și-n rugăciunile fierbinți
+Prin El mă întăresc.
+
+[v3]
+Pe Isus eu doresc să-L laud
+În inimă mereu
+Și toată viața ne-ncetat
+Să umblu doar cu El.

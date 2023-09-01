@@ -1,0 +1,61 @@
+[title]
+Sa pastrezi {author: {Nicolae Moldoveanu}, {rcId: {232296}}
+
+[sequence]
+c,v2,c2,v3,c3,v4,c4
+
+[c]
+Știi tu, suflete, știi sigur
+Ce-ai primit și cine
+Este-Acela care-adus-a
+Daruri pentru tine
+/: Prețioase și eterne,
+Daruri pentru tine? :/
+
+[v2]
+Ai primit tu de la Domnul
+Sfânta Lui iertare?
+Pentru ochii tai de beznă
+Ai tu vindecare?
+/: Poți să spui așa ca orbul:
+”
+Văd! Am vindecare!” :/
+
+[c2]
+Ai primit tu mântuire
+Prin har și credință?
+Renăscut ai fost prin Duhul
+În a ta ființă?
+/: Firea cea dumnezeiască
+E-n a ta ființă? :/
+
+[v3]
+Haina albă-a neprihanei,
+Dulce gingășie,
+Și inel divin în deget
+Pentru cununie
+/: Ai primit tu toate-acestea
+Pentru cununie? :/
+
+[c3]
+Ai primit tu infierea? -
+Știi că ea ți-e dată
+Prin Isus Mântuitorul,
+De Cerescul Tată?
+/: Dacă crezi pe veci ți-e dată
+De Cerescul Tată :/
+
+[v4]
+Ce-ai primit tu de la Domnul,
+Spune fără teamă!
+Numai ce-i ce știu aceasta
+Pot sa ia seamă
+/: Ce-i ce au in ei comoara
+Pot sa țină-n seamă! :/
+
+[c4]
+Să păstrezi ce ai, căci drumul
+Tot mai greu se face
+Dar curând limanul cel dorit de Pace
+/: Și uitând ce-a fost în urmă,
+Odihnești in pace :/

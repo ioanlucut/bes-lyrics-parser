@@ -1,0 +1,21 @@
+[title]
+Fa-ne viata-ntreaga {author: {Nicolae Moldoveanu}, {rcId: {228018}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Fă-ne viața-ntreagă, Doamne, Ție dragă
+s-o trăim frumos, s-o trăim frumos, Ție cu folos.
+
+[c]
+Copii suntem, dar vrem, dar vrem să Te-ascultăm, cât noi putem!
+O, Doamne buni, Tu să ne crești, să fim așa cum ne dorești!
+
+[v2]
+Fă-ne viața lină, de credință plină,
+s-o trăim curat, s-o trăim curat cum ne-ai învățat!
+
+[v3]
+Fă-ne viața soare, ca o sărbătoare,
+fără zile seci, fără zile seci, Doamne-acum și-n veci!

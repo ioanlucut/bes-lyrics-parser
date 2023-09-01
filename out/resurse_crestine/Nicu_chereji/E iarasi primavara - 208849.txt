@@ -1,0 +1,35 @@
+[title]
+E iarasi primavara {author: {Nicu Chereji}, {rcId: {208849}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+E iarăși primăvară, și iarna a trecut
+Câmpia-i înflorită, de nerecunoscut
+Sub razele de soare, se odihnesc păstori
+Și-n zare-n depărtare, se văd cum vin cocori.
+
+[c]
+Cel ce-a creat natura, și astrele pe cer
+A dat lumină zilei, și nopților mister,
+Îl vezi în anotimpuri și-ntinsul curcubeu
+E Cel Atotputernic, E Domnul Dumnezeu!
+
+[v2]
+Acum se pregătește și totul e deschis
+E-o binecuvântare, culori de nedescris
+Flori ce zâmbesc în soare si păsări ciripind,
+Au fost create toate, de-un Creator divin.
+
+[v3]
+Dar omul n-are odihnă, mereu nemulțumit
+Aleargă zi si noapte, robit și chinuit
+De-a lui murdare patimi și ambiții e purtat
+El n-are ochi să vadă ceea ce Domnu-a creat.
+
+[v4]
+Iar Dumnezeu privește, cu milă către om
+Îl iartă și așteaptă trezirea lui din somn
+Să vadă primăvara pământul îmbelșugat
+Și să aleagă viața, darul cel minunat!

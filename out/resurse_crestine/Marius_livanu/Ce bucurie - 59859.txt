@@ -1,0 +1,23 @@
+[title]
+Ce bucurie {author: {Marius Livanu}, {rcId: {59859}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Ce bucurie mă așteaptă-n ceruri sus!
+Ce fericire acolo în Slava lui Isus!
+Ce strălucire și splendori noi vom vedea!
+Când va începe veșnicia.
+
+[c]
+/: Cu bucurie către ceruri vom zbura
+Și îmbrăcați in haine albe vom cânta
+Cu bucurie noi pământul vom lăsa
+Când va începe veșnicia :/
+
+[v2]
+Lumea aceasta nu poate oferi
+Atâta pace, atâtea bucurii
+Nu vrem de lume să rămânem alipiți
+Când va începe veșnicia.

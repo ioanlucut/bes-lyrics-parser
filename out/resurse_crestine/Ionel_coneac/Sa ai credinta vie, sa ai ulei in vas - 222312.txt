@@ -1,0 +1,29 @@
+[title]
+Sa ai credinta vie sa ai ulei in vas {author: {Ionel Coneac}, {rcId: {222312}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Să ai credința vie, să ai ulei în vas
+Și când El se va întoarce, să te găsească treaz
+/: În zori de dimineață, sau în noapte târziu
+Când glasul Lui răsună să nu fi ațipit :/
+
+[c]
+/: Fraților vegheați, fraților vegheați
+Că nu stiți când Domnul va veni
+Cu toți spre cer să putem zbura
+Și despărțiți să nu mai fim nicicând :/
+
+[v2]
+Cu candelele pline să Îl întâmpinăm
+Pe Domnul sus în zare și voios să-I cântăm
+/: Și candela să ardă, credință să avem
+Nădejdea noastră sfântă e să-L întâmpinăm :/
+
+[v3]
+Ca cele cinci fecioare cari au avut ulei
+Când mirele apare să Îl întâmpinăm
+/: Să nu fim ațipite când glasul va striga
+Și ușa se va-nchide și jos vom rămânea :/

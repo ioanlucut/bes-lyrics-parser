@@ -1,0 +1,40 @@
+[title]
+Hristos a inviat din morti () {author: {Nicolae Moldoveanu}, {rcId: {244525}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Hristos a înviat din morți,
+Hristos a înviat!
+Deschise-s iar a vieții porți
+Hristos a înviat!
+
+[c]
+A înviat, a înviat, Hristos a înviat,
+Adevărat, adevărat, Hristos a înviat!
+
+[v2]
+Cu moartea pre moarte călcând,
+Hristos a înviat!
+Păcatul tuturor iertând,
+Hristos a înviat!
+
+[v3]
+Și celor din mormânturi jos
+Hristos a înviat!
+Răsare soare luminos,
+Hristos a înviat!
+
+[v4]
+Viață dăruindu-Ie,
+Hristos a înviat!
+Scripturi
+Ie-mplinindu-Ie,
+Hristos a înviat!
+
+[v5]
+Cântăm spre slava Tatălui,
+Hristos a înviat!
+Mărire învierii Lui,
+Hristos a înviat!

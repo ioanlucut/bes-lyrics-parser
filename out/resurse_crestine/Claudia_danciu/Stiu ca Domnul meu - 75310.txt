@@ -1,0 +1,31 @@
+[title]
+Stiu ca domnul meu {author: {Claudia Danciu}, {rcId: {75310}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Când pe cerul vieții mele
+Norii negri se strâng,
+Când mă-ncearcă vremuri grele
+Deznădejde semănând:
+Ochii mi-i ridic spre El
+Ajutorul Său îl cer.
+
+[c]
+Știu, știu că Domnul meu
+El e cu mine-ntotdeauna,
+Atunci când drumul meu e greu
+Și-atunci când bate greu furtuna.
+Știu, Știu că Domnul meu
+El e cu mine-ntodeauna,
+Atunci când drumul meu e greu
+El e al meu, noi suntem una.
+
+[v2]
+Când în jurul meu e noapte
+Și am obosit pe drum,
+Când se-aud în preajmă șoapte
+Îndoieli ce mă răpun:
+Ochii mi-i ridic spre El
+Ajutorul Său îl cer.

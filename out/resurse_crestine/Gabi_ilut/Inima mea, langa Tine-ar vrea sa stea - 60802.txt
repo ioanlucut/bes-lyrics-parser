@@ -1,0 +1,28 @@
+[title]
+Inima mea langa tine-ar vrea sa stea {author: {Gabi Ilut}, {rcId: {60802}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Tu mi-ai redat bucuria
+Tocmai atunci când puțin m-așteptam
+Mi-ai arătat bogăția, casei ce-n cer o am
+Astăzi Te simt mai aproape
+Vocea Ta blândă mereu o ascult
+Ard lacrimile în ploape, să Te cunosc mai mult.
+
+[c]
+/: Inima mea, langă Tine-ar vrea să stea
+De ar fi să dăruiesc în schimb
+Tot timpul din viața mea
+Inima mea, lângă Tine-n veci va sta
+Și nimeni n-o va smulge din prezența Ta. :/
+
+[v2]
+Tu m-ai cuprins cu blândețe
+Mai strâns cu dragoste la pieptul Tău
+Privind a Ta frumusețe, Te laud Domnul meu
+Tu nu mă uiți niciodată
+Mereu răspunzi rugăciuni-n ascuns
+Iubirea Ta, Doamne Tată, îmi este îndeajuns.

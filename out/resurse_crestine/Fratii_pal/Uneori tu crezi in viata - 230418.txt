@@ -1,0 +1,53 @@
+[title]
+Uneori tu crezi in viata {author: {Fratii Pal}, {rcId: {230418}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Uneori tu crezi în viață
+Că ești tare bine-așa
+Dar când barca-ți este-n valuri
+Te intrebi de vei scăpa
+Dacă-n barca ta e Domnul
+Sau dacă umblă pe val
+Dacă El îți zice vino,
+Credincios să calci pe val
+
+[c]
+/: O, nu descuraja :/
+Cât timp privești în sus,
+Spre El, nu te vei scufunda
+/: O, nu descuraja :/
+Căci Dumnezeu Își întinde brațul,
+Nu, nu te va lăsa!
+
+[v2]
+Nu slăbi-n credința ta
+Când de val tu ești lovit
+Țineți ochii și privirea
+Către Domnul cel slăvit
+Vocea Lui și azi se-aude
+Să-ți mărești credința ta
+Chiar de ești purtat de valuri
+Brațul Lui te va salva
+
+[v3]
+Recunoaște-L, nu e altul
+Să pășească peste val
+El e-Acela care-și scoate
+Credincioșii Lui la mal
+Cât de minunat e Domnul
+Cât de minunat e El
+Căci ne-a pregătit salvarea
+Prin Isus, slăvitul Miel
+
+[v4]
+Chiar dacă barca vieții
+Se va sfărâma prin val
+Știu că Dumnezeu va duce
+Sufletul pe-al slavei mal
+De aceea-mi țin privirea
+Numai către Dumnezeu
+Căci prin orice-mprejurare
+El este-n control mereu

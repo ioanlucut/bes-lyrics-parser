@@ -1,0 +1,35 @@
+[title]
+Frumoasa dragoste dintai {author: {Nicolae Moldoveanu}, {rcId: {242732}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Frumoasă dragoste dintâi,
+Numai odată ești în viață,
+/: Dar cât de scumpă ne rămâi,
+Frumoasă dragoste dintâi! bis 1 :/
+
+[v2]
+Credință dar dumnezeiesc,
+Doar una poți să fii pe lume
+/: Când toți ai tăi la fel trăiesc,
+Credință dar dumnezeiesc! bis 1 :/
+
+[v3]
+Nădejde har neprețuit,
+Doar tu ești unica avere,
+/: Când tot ce-avem s-a nimicit,
+Nădejde har neprețuit! bis 1 :/
+
+[v4]
+Frumoase fețe-a lui Hristos,
+Doar voi dați veșnic strălucire,
+/: Când stați pe chipul credincios
+Frumoase fețe-a lui Hristos! bis 1 :/
+
+[v5]
+Isuse, Doamne, Te rugăm,
+Păstrează-ni-Ie-n veci curate,
+/: Ca-n totul noi să-Ți semănăm
+Isuse, Doamne, e rugăm! bis 1 :/

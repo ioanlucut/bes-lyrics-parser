@@ -1,0 +1,29 @@
+[title]
+La betleem in iesle (zu bethlehem geboren) {author: {Friedrich Spee, Traducere RO}, {rcId: {222182}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+La Betleem, în iesle
+Un Prunc ni S-a născut
+E Fiul din vecie
+Robul trimis de sus!
+Isus, Isus
+Cel fără început!
+
+[v2]
+În brațu-I de iubire
+Un adăpost găsim
+La El, cu mic și mare
+Încrezători venim!
+Isus, Isus
+Mărețul Domn sublim!
+
+[v3]
+Cu inimi de iubire
+Venim să-I mulțumim
+Oricând, în greu sau bine
+Mai mult vrem să-L iubim!
+Isus, Isus
+Slăvitul Domn divin!

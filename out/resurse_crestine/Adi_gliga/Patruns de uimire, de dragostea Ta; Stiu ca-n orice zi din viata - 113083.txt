@@ -1,0 +1,23 @@
+[title]
+Patruns de uimire de dragostea ta; stiu ca-n orice zi din viata {author: {Adi Gliga}, {rcId: {113083}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Pătruns de uimire, de dragostea Ta
+Alături de Tine voi umbla
+Voi merge pe ape, voi trece prin foc
+Și munții îi voi muta din loc
+
+[c]
+Știu că-n orice zi din viață
+Tu ești scutul meu
+Eu sunt Fiul Tău, o, Tată,
+Tu ești Dumnezeu.
+
+[v2]
+Cu Tine e soare, în inima mea
+În Tine, Isuse, pot cânta
+A Ta bunătate și dragostea Ta
+Inundă, o, Doamne, viața mea.

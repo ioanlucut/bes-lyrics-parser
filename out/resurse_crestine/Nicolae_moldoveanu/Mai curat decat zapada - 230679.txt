@@ -1,0 +1,29 @@
+[title]
+Mai curat decat zapada {author: {Nicolae Moldoveanu}, {rcId: {230679}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Mai curat decât zăpada Tu îl faci în veci pe-acel
+ce Ți se predă, Isuse, cu tot sufletul din el.
+
+[c]
+O, Isuse, o, Isuse, fă-mă și pe mine-așa,
+căci doresc așa să-mi vină sufletu-naintea Ta.
+
+[v2]
+Mai frumos ca orice cântec faci Tu drumu-ngust și sfânt
+al aceluia ce-și ține al Tău dulce legământ.
+
+[v3]
+Mai curat decât cristalul faci Tu duhul orișicui
+îți încredințează Ție toate gândurile lui.
+
+[v4]
+Mai de preț ca orice aur faci Tu viața celui blând,
+care umblă și lucrează binefăcător, oricând.
+
+[v5]
+Mai slăvit ca orișicine îl vei face Tu pe-acel,
+care-a semănat mai bine cu un crin și cu un miel.

@@ -1,0 +1,35 @@
+[title]
+Esti in floarea vietii tale {author: {Train Dorz}, {rcId: {212432}}
+
+[sequence]
+v1,e,v2,v3,v4
+
+[v1]
+Esti in floarea vietii tale
+Fa ceva pentru Hristos
+Ca sa poti odata spune
+Ca ai fost Lui de folos
+
+[e]
+Tinere te cheama Domnul
+Sa te-apleci la Crucea Lui
+Lasa lumea trecatoare
+Vino-n slujba Domnului
+
+[v2]
+Tineri frati si surioare
+Azi e timpul sa luptam
+Sa pornim cu toti la lupta
+Cununa s-o castigam
+
+[v3]
+Tinere porneste astazi
+Inroleaza-te voios
+In ostirea care lupta
+Pentru slava lui Hristos
+
+[v4]
+Vino astazi pan esti tanar
+Si da-ti viata lui Hristos
+Lasa lumea trecatoare
+Ca nu-ti este de folos

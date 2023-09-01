@@ -1,0 +1,23 @@
+[title]
+Ma-nchin {author: {Anonim}, {rcId: {4088}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Mă-nchin - Mă-nchin
+Cu inima mea - Cu inima mea
+Și Te laud - Și Te laud
+Cu tăria mea - Cu tăria mea.
+
+[c]
+Îți dau toată închinarea
+Îți dau toată lauda
+Numai Ție vreau să mă-nchin
+Singur meriți toată lauda.
+
+[v2]
+Te voi lăuda - Te voi lăuda
+Cu viața mea - Cu viața mea
+Te voi urma - Te voi urma
+Pe calea Ta - Pe cărarea Ta.

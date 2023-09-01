@@ -1,0 +1,31 @@
+[title]
+Chiar daca o mama {author: {Viorel Manolache}, {rcId: {227489}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Chiar dacă o mamă, copilul și-ar uita
+Eu niciodat’ nu voi face așa :/
+
+[c]
+Te-am săpat în palmele Mele.
+Te-am scris în inima Mea
+Te iubesc cu-o iubire eternă
+Niciodată nu te voi uita!
+Te-am săpat în palmele Mele
+Te-am scris în inima Mea.
+Te iubesc cu-o iubire eternă!
+Tu rămâi dar în dragostea mea!
+
+[v2]
+Dar fii credincios, mergi doar pe calea mea!
+Nu renunța când ți-e greu,
+căci Eu sunt cu tine biruință-ți voi da
+dacă în toate nume-mi vei chema.
+
+[v3]
+Aș vrea să rodești numai prin Duhul meu,
+Dumnezeu să fie proslăvit,
+ca-n ziua aceea să te pot răsplăti,
+cum tu niocdată nu ai putea gândi.

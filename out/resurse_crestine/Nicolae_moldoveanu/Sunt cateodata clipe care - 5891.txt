@@ -1,0 +1,50 @@
+[title]
+Sunt cateodata clipe care {author: {Nicolae Moldoveanu}, {rcId: {5891}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Sunt câteodată clipe care,
+Isus, n-aș vrea să treacă-n veci;
+Sunt cele-n care eu cu Tine
+Și Tu cu mine le petreci.
+/: O, Domnul meu Isus, :/
+Sunt cele-n care eu cu Tine
+Și Tu cu mine le petreci.
+
+[v2]
+Sunt câteodată drumuri care,
+În veac, n-aș vrea să le sfârșesc.
+Sunt cele-n care merg cu Tine,
+Însoțitorul meu ceresc.
+/: O, Domnul meu Isus, :/
+Sunt cele-n care merg cu Tine,
+Însoțitorul meu ceresc.
+
+[v3]
+Sunt câteodată stări din care,
+În veac, n-aș vrea ca să mai ies.
+Sunt cele de pe Tabor cu Tine,
+Preastrălucitul meu Ales.
+/: O, Domnul meu Isus, :/
+Sunt cele de pe Tabor cu Tine,
+Preastrălucitul meu Ales.
+
+[v4]
+Sunt câteodată locuri unde
+Ajuns, în veci, n-aș vrea să plec.
+Sunt cele-n care doar cu Tine,
+Iubitul meu Isus, petrec.
+/: O, Domnul meu Isus, :/
+Sunt cele-n care doar cu Tine,
+Iubitul meu Isus, petrec.
+
+[v5]
+O, Dumnezeul meu cel dulce,
+Ce-n toate ești desăvârșit,
+Grăbește-mă spre toate-acestea,
+Cu început, fără sfârșit!
+/: O, Domnul meu Isus, :/
+Grăbește-mă spre toate-acestea,
+Cu început fără sfârșit!

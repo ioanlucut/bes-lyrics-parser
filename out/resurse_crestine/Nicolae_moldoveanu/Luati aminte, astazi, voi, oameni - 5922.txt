@@ -1,0 +1,35 @@
+[title]
+Luati aminte astazi voi oameni {author: {Nicolae Moldoveanu}, {rcId: {5922}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Luați aminte voi astăzi oameni
+Vegheați neîncetat
+Cuvântul spune cel ce veghează
+Curând va fi luat
+
+[c]
+Mult dori-vor atuncea oamenii
+S-audă din cuvântul sfânt
+Dar Dumnezeu va-nchide harul
+/: El nu va mai fi pe pământ :/
+
+[v2]
+Amos prorocul a spus odată
+Căci foamete-n lume va fi
+Dar nu de pâine nici sete de apă
+Cuvântul va lipsi
+
+[v3]
+Vor pribegii de la o mare la alta
+Și-atunci vor fi istoviți
+Flăcăii și fetele cele frumoase
+De har vor fi lipsiți
+
+[v4]
+Se va topi lumea atunci de groază
+Și vor fi îngroziți
+Voind s-audă cuvânt de la Domnul
+Cuvântul va lipsi.

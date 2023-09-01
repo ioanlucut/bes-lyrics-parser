@@ -1,0 +1,39 @@
+[title]
+Ce mult m-ai iubit o isuse {author: {Viorel Tăpârdău}, {rcId: {187367}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Ce mult m-ai iubit, o, Isuse,
+Ce mare Ți-a fost dragostea!
+Cu mâinile întinse pe cruce
+Ai vrut să-mi salvezi viața mea.
+
+[c]
+/: Îți mulțumesc și Te preamăresc
+Pentru iubirea Ta! :/
+
+[v2]
+Ai rupt Tu lanțul robiei
+Și m-ai făcut liber pe veci,
+Azi mă întorc cu mulțumire
+Și vreau să Te preamăresc!
+
+[v3]
+Eram sortit pentru moarte,
+Eram pierdut eu pe veci,
+Dar ai venit Tu în lume
+Și-ai vrut ca să mă salvezi.
+
+[v4]
+Ce har, ce iubire, ce milă
+Am găsit în Tine, Isus!
+Îmi aplec viața-nspre Tine,
+Mă-nchin și te laud, Isus!
+
+[v5]
+Aș vrea să rămân lângă Tine
+O viață întreagă, Isus!
+Când ai să revii Tu în lume,
+Mă ia lângă Tine, Isus!

@@ -1,0 +1,23 @@
+[title]
+Nu stim cand vei reveni in slava {author: {Cantata de grupul Amos, Cluj}, {rcId: {237676}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Nu stim cand vei reveni in slava,
+Cand vei vrea sa-ti iei al Tau popor,
+Insa una stim: ca vei veni degraba!
+Stim ca esti un tata iubitor!
+
+[c]
+/: Aleluia-Ti cant, Doamne-Ti cant: Aleluia!
+Aleluia-Ti cant, o, Doamne Sfant!
+Fii laudat in veci numai Tu, Aleluia!
+Fii laudat in veci, o, Isus!
+
+[v2]
+Asteptam aceea zi: Ziua cea sfanta,
+Cand, Isus, din cer vei cobora!
+Vei vedea copiii cum iti canta,
+Cand in ceruri sus cu toti vom fi!

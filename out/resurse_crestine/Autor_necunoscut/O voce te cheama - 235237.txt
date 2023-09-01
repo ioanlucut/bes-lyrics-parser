@@ -1,0 +1,35 @@
+[title]
+O voce te cheama {author: {Anonim}, {rcId: {235237}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+O voce te cheamă azi pe nume:
+e vocea ce te cheamă ca să vii!
+E vremea cercetării pentru tine,
+căci mâine va fi poate prea târziu.
+
+[c]
+Trăiește astăzi clipa cercetării!
+Primește astăzi harul minunat!
+Numai Isus poate să-ți schimbe viața.
+Întoarce-te, acum să fii salvat!
+
+[v2]
+De-atâtea ori prin lacrimi și tăcere
+ai suspinat adânc nemângâiat
+dar, iată că, la cruce pentru tine
+Isus s-a dus ca tu să fii iertat!
+
+[v3]
+Va șterge-al tău trecut de altă dată
+și vei trăi în viață fericit.
+Te va primi cu dragoste curată
+și vei uita de tot ce-ai suferit.
+
+[v4]
+Vocea lui Isus te chemă:
+Vino, să te întorci din patimi și păcat!
+Și dincolo în viața viitoare
+vei fi cu El în cerul minunat!

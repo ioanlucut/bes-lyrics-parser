@@ -1,0 +1,46 @@
+[title]
+Astazi nu mai sunt minuni {author: {Anonim}, {rcId: {75569}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Astăzi nu mai sunt minuni,
+Lumea va striga,
+Astăzi care pe pământ
+Se mai pot afla.
+Noi credem însă în minuni,
+Căci Isus ne-a învățat,
+Căci Dumnezeul dragostei
+Rămâne până în veac.
+
+[c]
+El rămâne în veci,
+Ca și ieri, ca și azi,
+Brațul Său printre noi,
+Făptuiește minuni.
+Dumnezeu neschimbat
+Pe pământ va lucra.
+Îndoială să n-ai,
+Domnul nu va-nceta.
+
+[v2]
+Când drumul tău
+Pe acest pământ
+Plin de dureri va fi,
+Să știi că Isus pe pământ
+În locul tău muri.
+Predă-ți deci viața-n mâna Lui
+Și atuncea vei vedea,
+Căci Cel ce e în veci la fel,
+În veci vă rămânea.
+
+[c2]
+Dumnezeu neschimbat
+Pe pământ va lucra
+Brațul Său printre nori
+Făptuiește minuni,
+Dumnezeu neschimbat
+Pe pământ va lucra
+Îndoială să n-ai
+Domnul nu va-nceta.

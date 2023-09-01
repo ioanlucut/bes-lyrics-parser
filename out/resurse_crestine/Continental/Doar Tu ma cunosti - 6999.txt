@@ -1,0 +1,41 @@
+[title]
+Doar tu ma cunosti {author: {Continental}, {rcId: {6999}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Deseori încerc să mă ascund,
+Poate am un zâmbet trist
+Sau lacrimă pe-obraz
+Ștearsă-n taină ușor
+Și sufletul mi-e gol..
+Cât am să aștept? mă-ntreb în taină,
+Cine poate ști ce port în inimă?
+
+[c]
+Dar Tu vezi ce sunt eu,
+Ascuns de-atâția ochi,
+Frânt de-atâta zbor,
+O, Doamne, vorbește-mi,
+Mă pierd pe calea mea,
+Nu pot să mai ascund
+Durerea... căci Tu vezi ce sunt eu.
+
+[v2]
+Chip de om ascuns după mii de măști,
+Rătăcesc și în zadar
+Încerc să aflu cine sunt,
+Nu mă regăsesc în viața ce-o trăiesc,
+Doar am risipit tot ce-am primit,
+Dar Tu încă mă iubești
+Și inima mi-aștepți.
+
+[e]
+Tu m-asculți, mă cunoști,
+Doar Tu mă înțelegi,
+Tu mă vezi,
+Tu poți schimba sensul tristei mele vieți,
+Să-mi dai un viitor,
+O cât de mult eu doresc,
+Să fiu al Tău.

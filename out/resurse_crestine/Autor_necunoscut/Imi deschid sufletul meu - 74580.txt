@@ -1,0 +1,29 @@
+[title]
+Imi deschid sufletul meu {author: {Anonim}, {rcId: {74580}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Îmi deschid sufletul meu
+Ca să-L simt pe Dumnezeu
+Îmi deschid și inima
+Ca să-ți faci Tu loc în ea.
+
+[c]
+Bun prieten Dumnezeu
+Lângă Tine stau mereu
+În orice zi și-n orice ceas
+Eu de Tine nu mă las.
+
+[v2]
+Căci atunci când sunt cu Tine
+Eu mă simt cu mult mai bine
+Și de-aceea Te-aș ruga
+Să lucrezi, Tu-n viața mea.
+
+[v3]
+Cei ce vor a Te urma
+Și lângă Tine să stea
+Să-și deschidă inima
+Ca să-ți faci Tu loc în ea.

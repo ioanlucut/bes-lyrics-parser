@@ -1,0 +1,29 @@
+[title]
+Eu n-am nimi de pret pe lume {author: {Eleazar}, {rcId: {7225}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Eu n-am nimic de preț pe lume
+Numai o cruce și un nume
+O cruce și un Nume sfânt
+Cel port în inima plângând.
+
+[c]
+/: Aș vrea să maă întâlnesc cu Tine
+Să plâng și să spun numai Tie
+Ce mă apasă și mă doare
+Iar Tu să îmi dai alinare :/
+
+[v2]
+Aș vrea să-ți văd eu ranele
+Să mă ating de ele Doamne.
+Să-Ți văd și coasta găurită
+Și fața Ta cea pălmuită.
+
+[v3]
+Să aud iar vocea care
+În Ghețimani când te-ai rugat
+Și să primesc eu alinare
+Căci Tu ești bun cu adevărat.

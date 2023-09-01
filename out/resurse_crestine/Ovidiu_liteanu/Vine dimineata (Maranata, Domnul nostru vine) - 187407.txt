@@ -1,0 +1,43 @@
+[title]
+Vine dimineata (maranata domnul nostru vine) {author: {Ovidiu Liteanu}, {rcId: {187407}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Vine dimineața
+Să vă lumineze viața
+De prezența lui Isus
+Să fiți gata de plecare
+Vine Domnul nostru mare
+Să ne ia în slavă sus
+
+[c]
+Maranata, Domnul nostru vine
+Pentru noi iubitul Mire
+Maranata, vine-al nostru soare
+Ești tu gata de plecare?
+
+[v2]
+Iată zorile se-arată
+Tu să te păstrezi curată
+Porumbița lui Hristos
+În curând lua-vei zborul
+Spre Isus Mântuitorul
+Ce te-așteaptă bucuros
+
+[v3]
+Candela să-ți fie plină
+Și mereu să fii lumină
+Pentru cei făr’ de Hristos
+Răspândind a lui mireasă
+Floare albă, floare-aleasă
+Pentru Raiul luminos
+
+[v4]
+Iată trâmbiță din urmă
+În curând și ea răsună
+Mirele ne va chema
+Porumbiță ajungi acasă
+Sus în patria cerească
+Și mereu ne-om bucura

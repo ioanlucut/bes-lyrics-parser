@@ -1,0 +1,29 @@
+[title]
+Te iubesc din inima isus doamne taria mea {author: {Anonim}, {rcId: {235995}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Te iubesc din inima, Isus
+Doamne, taria mea
+Tu esti sursa ce imi da mereu
+Bucurie in viata mea.
+
+[c]
+Aleluia, Aleluia
+Mi-ai schimbat inima mea
+Aleluia, Aleluia
+Toata viata iti voi canta: \
+
+[v2]
+Iti multumesc caci m-ai iubit, Isus
+Atunci cand nu te cunosteam
+Spre mine Tu te-ai aplecat, Isus
+Ca un milos samaritean.
+
+[v3]
+Tu de jos m-ai ridicat, Isus
+Ranile mi le-ai legat
+Si pentru mine ai platit, Isus
+Te voi iubi neincetat.

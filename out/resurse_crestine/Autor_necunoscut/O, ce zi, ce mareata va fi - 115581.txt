@@ -1,0 +1,30 @@
+[title]
+O ce zi ce mareata va fi {author: {Anonim}, {rcId: {115581}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Dumnezeu, ce nume sfânt și minunat
+Te-aștept să vii curând, o, Mire drag
+Dorul meu și ruga mea le-ndrept
+Vino cât mai curând, eu Te aștept.
+
+[c]
+/: O, ce zi, ce zi măreață va fi
+Când trâmbița va suna venirea Ta
+Te aștept și-mi bate inima-n piept
+Să spun mereu aș vrea: ”
+Eu te iubesc” :/
+
+[v2]
+Dragostea, sublimul Tău adevăr
+L-am resimțit mereu în viața mea
+Ești izvor de pace și bucurii
+Și ochii îmi îndrepți spre veșnicii.
+
+[v3]
+Sufletul și gândul meu aș vrea
+Spre Tine să-mi îndrept cât mai curat
+Mâna mea să fie în mâna Ta
+Că Tu să mă conduci spre veșnicii.

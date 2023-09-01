@@ -1,0 +1,59 @@
+[title]
+Iar e craciun {author: {Gabi Ilut}, {rcId: {65721}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Iar e crăciun
+Și-mi amintesc că intr-o zi
+Ai coborât
+Isus la min’ din veșnicii
+Să îmi dai viață și mântuire
+Ceru-ntreg Tu ai lăsat
+Chip de om Tu ai luat.
+Iar e crăciun
+Afară ninge-ncetisor
+Și an de an
+Tu te întorci din cer la noi
+Aduci lumină și bucurie
+Pentru-acei ce sunt căzuți,
+Pentru-acei ce sunt pierduți.
+
+[c]
+Dragostea Ta
+E cel mai scump cadou
+În viața mea
+Tu te-ai născut din nou
+Când pe cerul înnorat
+Steaua Ta s-a arătat
+De crăciun am învățat
+Să iubesc cu-adevărat
+
+[v2]
+Iar e crăciun
+Povestea se repetă iar
+Tu vii din nou
+Și bați la inimă, la geam
+Noi îți deschidem
+Sau te respingem
+Tu ne-nveți cum să iubim
+Și ne chemi mai buni să fim.
+Iar e crăciun
+Și poate că și’n viața ta
+Va răsări
+Pe cerul inimii o stea
+Domnul se naște
+Hristos coboară,
+Îngeri cântă azi în cor
+Despre’al lumii Salvator.
+
+[c2]
+Dragostea Ta
+E cel mai scump cadou
+În viața mea
+Tu te-ai născut din nou
+Când pe cerul înnorat
+Steaua Ta s-a arătat
+De crăciun am învățat
+Să iubesc cu-adevărat.

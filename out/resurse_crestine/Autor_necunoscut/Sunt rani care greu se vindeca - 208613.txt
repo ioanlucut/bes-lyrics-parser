@@ -1,0 +1,27 @@
+[title]
+Sunt rani care greu se vindeca {author: {Anonim}, {rcId: {208613}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Sunt răni care greu se vindecă,
+Sunt amintiri de care vrem să uităm.
+Am crezut că timpul le va rezolva,
+Dar am înțeles târziu că nu-i așa
+
+[c]
+Doar Domnul cunoaște cu adevărat
+Un suflet mâhnit și împovărat.
+Doar Domnul poate alina
+Inima zdrobită și o poate vindeca.
+
+[v2]
+Sunt răni care nu vor dispărea..
+In timp se așterne uitarea.
+Vom învață sa-naintăm
+Cu Domnul curaj căpătăm.
+
+[e]
+Durerea ne va aminti cât de ușor putem răni..
+Durerea ne va aminti cât de ușor putem greși.

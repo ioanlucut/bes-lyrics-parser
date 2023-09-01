@@ -1,0 +1,17 @@
+[title]
+Sunt doar un om {author: {Gabriela Palincas}, {rcId: {103437}}
+
+[sequence]
+v1,v2
+
+[v1]
+/: Sunt doar un om, doar un om
+Dar eu mă-ncred în Domnul meu :/
+/: Și ca un copil, ca un copil
+Mă încred în Domnul meu cel viu :/
+
+[v2]
+/: Fiecare zi lângă Tine, e-un nou început
+Tu mă cunoști așa de bine, Doamne, cum sunt doar Tu
+Fiecare zi lângă Tine, e-un colț de rai
+Învață-mă doar pentru Tine să trăiesc, vreau :/

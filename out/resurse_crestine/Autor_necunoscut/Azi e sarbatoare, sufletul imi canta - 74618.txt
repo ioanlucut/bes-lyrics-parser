@@ -1,0 +1,29 @@
+[title]
+Azi e sarbatoare sufletul imi canta {author: {Anonim}, {rcId: {74618}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Azi e sărbătoare, sufletul îmi cântă,
+Inima-mi tresare-n bucurie sfântă,
+Căci în casa Domnului cu drag venim,
+La altar, prin jertfă, să Îi mulțumim.
+
+[c]
+Aleluia cântă sufletul meu iar,
+Pentru prețul crucii ce-ai dat pe Calvar.
+Pentru mântuirea ce mi-ai dăruit
+Fii slăvit, Isuse, că mult m-ai iubit.
+
+[v2]
+Bucurie sfântă, har și mângâiere,
+Dragoste curată, lacrimi, dar putere,
+Pace, fericire, noi primim acum
+De la Domnul Slavei care este bun.
+
+[v3]
+Cântați, voi, popoare, omenirea-ntreagă,
+Ne-ai salvat din moarte, ne-a adus la viață
+Și ne-ai dat un nume, mai presus de toate,
+Pentru că-i iubire, slavă și dreptate.

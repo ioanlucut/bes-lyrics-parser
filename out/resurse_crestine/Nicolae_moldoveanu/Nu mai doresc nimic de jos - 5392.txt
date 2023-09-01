@@ -1,0 +1,54 @@
+[title]
+Nu mai doresc nimic de jos {author: {Nicolae Moldoveanu}, {rcId: {5392}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Nu mai doresc nimic de jos:
+Puținul ce-l găsesc, mi-ajunge;
+Tot ce-i mai mult, e-anevoios;
+Tot ce-i mai strălucit, străpunge.
+
+[c]
+Nu mai doresc să am aici
+Nici laude, nici veselie:
+Mi-ajunge partea celor mici,
+Iubirea lor mi-e avuție.
+
+[v2]
+Nu mai doresc decât să pot
+Să merg cu frații împreună;
+Un gând și-o inimă în toți,
+Ce au primit ei din cer să țină.
+
+[c2]
+Nu mai doresc decât să fiu
+Găsit, în orișice-ncercare,
+Zidit pe adevărul viu,
+Tăcut în orice-mprejurare.
+
+[v3]
+Smerit, în orice loc-nalțat;
+Curat, în orice-ntinăciune;
+Umblând, în tot ce-am învățat;
+Plângând în orice rugăciune.
+
+[c3]
+Iubind, în orice lepădări;
+Crezând, în orice zguduire;
+Statornic primei ascultări;
+Neostenit, spre mântuire.
+
+[v4]
+Nu mai doresc nimic străin
+Ce ne-amenință veșnicia;
+Mi-ajunge-n suflet pe Hristos
+Și-n adunare, părtășia.
+
+[c4]
+Nu-mi mai doresc, nu-mi mai doresc,
+Decât de Domnul împreună
+Să poată, când am să sfârșesc,
+Să zică: „
+Vino, slugă bună!”

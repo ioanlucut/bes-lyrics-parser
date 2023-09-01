@@ -1,0 +1,37 @@
+[title]
+Azi canta frate {author: {Nicolae Moldoveanu}, {rcId: {2126}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Azi cântă frate
+/: Că tu ești salvat :/
+Domnul pe tine
+/: Te-a răscumpărat. :/
+
+[c]
+Cântece să răsune,
+Să se ducă vestea-n lume
+Că Domnul e mântuitorul tău;
+El te călăuzește,
+Zi și noapte te-nsoțește
+Stai dar acum, o, stai pe brațul Său.
+
+[v2]
+Azi cântă frate
+/: Și fii bucuros :/
+Căci ai aflat prin
+/: Har, pace-n Hristos. :/
+
+[v3]
+Azi cântă frate
+/: Și nu te-ntrista :/
+Căci Domnul Isus
+/: Nu te va lăsa. :/
+
+[v4]
+Azi cântă frate
+/: Dar cântă așa :/
+Plin de credință
+/: De dragostea Sa. :/

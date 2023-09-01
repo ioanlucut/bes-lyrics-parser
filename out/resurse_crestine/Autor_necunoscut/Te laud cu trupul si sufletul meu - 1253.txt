@@ -1,0 +1,33 @@
+[title]
+Te laud cu trupul si sufletul meu {author: {Anonim}, {rcId: {1253}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Te laud cu trupul și sufletul meu
+Pe Tine, Eternule, Sfânt Dumnezeu!
+Te laud la timp, ne la timp, pe deplin,
+/: Te laud prin Fiul, Hristosul Divin! :/
+Te laud! Te laud!
+
+[v2]
+Te laud cu-aceleași cuvinte de jar,
+Dar Duhul e proaspăt și viu iar și iar!
+Te laud în rugă, în strigăt și-n gând,
+/: Te laud prin Fiul, Hristosul Cel blând! :/
+Te laud! Te laud!
+
+[v3]
+Te laud, Părinte, arzând Te iubesc,
+Și voia-Ți preasfântă, mai sfânt s-o-mplinesc!
+Te laud că Tu mă ajuți neoprit,
+/: Te laud prin Fiul, Hristosul jertfit! :/
+Te laud! Te laud!
+
+[v4]
+Te laud, Te laud și-n veci voi cânta
+Frumos adevărul și dragostea Ta!
+Te laud în cântec de cor minunat,
+/: Te laud prin Fiul, Hristosu-nviat! :/
+Te laud! Te laud!

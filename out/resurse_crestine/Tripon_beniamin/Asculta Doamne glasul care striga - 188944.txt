@@ -1,0 +1,36 @@
+[title]
+Asculta doamne glasul care striga {author: {Tripon Beniamin}, {rcId: {188944}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ascultă Doamne glasul care strigă,
+Și te cheamă din vale disperat
+Ascultă Doamne pe cel ce te cheamă,
+Cu dor arzând, să îl scapi de sub păcat
+
+[c]
+Ascultă Doamne strigătele mele
+Ascultă Doamne ruga mea de dor,
+Căci eu te chem cu lacrimi din vale
+Să vi să mai cobori în al Tău popor.
+
+[v2]
+Ascultă Doamne ruga ce se înalță
+Din locuri care lumea le-a uitat
+Ascultă Doamne glasul ce te cheamă
+Să îi dai ajutorul așteptat.
+
+[v3]
+Ascultă Doamne glasul meu ce strigă
+Și ce te cheamă arzând de dor sa vii
+Să te cobori cu a Ta mare slavă
+Și să-i ridici la cer pe ai Tăi copii.
+
+[v4]
+Ascultă Doamne glasurile noastre
+Căci noi tânjim mereu de al Tău dor
+Ascultă-ne și iartă-ne, o Doamne,
+Primește-ne la Tine în al Tău cer.
+R:

@@ -1,0 +1,30 @@
+[title]
+Pentru paine pentru sare pentru hrana ce-o primim {author: {Nicolae Moldoveanu}, {rcId: {5963}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pentru pâine, pentru sare, pentru hrana ce primim,
+Cu întreaga adunare, Doamne, noi Îți mulțumim!
+Pentru darul vindecării, pentru Duhul Tău cel Sfânt,
+Pentru strălucirea zării, Te slăvim cu al nostru cânt!
+
+[c]
+Cu toată adunarea, pe Tine Te mărim!
+Cu toată adunarea, înaintea Ta venim!
+Cu toată adunarea, cu tot poporul Tău,
+Noi Te slăvim, o, Doamne, căci Tu ești Dumnezeu!
+
+[v2]
+Pentru frații care cântă, pentru cei ce s-au rugat,
+Pentru cei se se avântă și sunt gata de lucrat,
+Pentru ploaia cea târzie, noi Îți mulțumim frumos,
+Pentru mare bucurie revărsată în Hristos!
+
+[v3]
+Pentru locul fericirii, pentru Raiul minunat,
+Pentru Mirele iubirii, noi cântăm neîncetat!
+Pentru Tatăl, pentru Fiul, pentru Duhul Tău cel Sfânt,
+Îți cântăm cu toții: „
+Osana!” cât trăi-vom pe pământ!

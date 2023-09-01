@@ -1,0 +1,23 @@
+[title]
+Ma intorc acasa {author: {Diaz Amos}, {rcId: {238805}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+În a crinilor vale, grăbit spre casă mă întorc;
+Condus de al soarelui raze și de al pietrelor tropot!
+Mă las purtat de vântul care mă îmbrățișează sublim,
+Acasa mea. o grai divin, spre tine astăzi grăbit vin!
+
+[c]
+Eu mă întorc. eu mă întorc acum spre casă,
+Eu mă îndrept. spre Țara ce e maiestoasă!
+Eu mă întorc cu, da, întreagă ființa mea
+Spre Tine vin! O, ce sublim, acasa mea!
+
+[v2]
+Susurul caldului izvor, își varsă apa cristalin,
+Foșnesc ușor prin cuiburi vii al păsărilor tril divin!
+De al sunetului mister și flora e în plină splendoare,
+Căci drumul mi-este pregătit, spre lumea ce-i nepieritoare!

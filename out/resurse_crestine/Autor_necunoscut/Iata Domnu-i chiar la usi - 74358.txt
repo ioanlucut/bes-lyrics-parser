@@ -1,0 +1,43 @@
+[title]
+Iata domnu-i chiar la usi {author: {Anonim}, {rcId: {74358}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Iată Domnu-i chiar la uși
+Gata să se-arate,
+Ești tu oare pregătit
+Să-L întâmpini, frate?
+
+[c]
+Ce măreț va fi
+Când vom auzi
+Glasul Celui drag
+Mirele din prag
+Glasul de nespus,
+Mirele Isus.
+
+[v2]
+Ai în vasu-ți untdelemn?
+Candela-i aprinsă?
+Duhul ți-e trezit deplin
+Mâna ta-i întinsă?
+
+[v3]
+Poate peste-o clipă-auzi
+Ultima strigare.
+Cum te vei afla atunci?
+Te întrebi tu oare?
+
+[v4]
+Numai cei ce-așteaptă-acum
+Sfânta Lui venire
+Vor avea cu-adevărat
+Parte de răpire.
+
+[v5]
+Iată, Domnu-i chiar la uși
+Și spre noi se-ndreaptă.
+Se va bucura cu El
+Cel care-L așteaptă.

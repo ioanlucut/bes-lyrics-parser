@@ -1,0 +1,41 @@
+[title]
+Soarele luceste {author: {Puiu Chibici}, {rcId: {82593}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Soarele lucește azi mai luminos,
+Florile parcă-nfloresc azi mai frumos,
+Păsările ciripesc, oamenii cu toți zâmbesc,
+Și natura-n sărbătoare s-a-mbrăcat.
+
+[v2]
+Nu-nțeleg de ce îmi pare totul un vis,
+Și de ce zâmbetul meu e trist,
+De cămin eu mă despart,
+Amintiri frumoase las,
+Multe lacrimi las și-o mamă suspinând.
+
+[v3]
+Mamă iartă-mi zilele cât am fost rău,
+Iartă-mi albe fire din părul tău.
+Când bolnav zăceam în pat,
+Nopți de-a rândul m-ai vegheat,
+Astăzi, mamă, și-n genunchi îți mulțumesc.
+
+[v4]
+Tată, locul tău, azi, eu gol îl zăresc,
+Triste amintire de-atunci mă copleșesc.
+De copil te-am așteptat,
+Ochii-n lacrimi mi-am scăldat,
+Deși e-n zadar, eu parcă tot te aștept.
+
+[v5]
+O, Isuse drag, pe Tine Te aștept,
+Ruga mea spre Tine, Doamne, o îndrept.
+Mângăiere-n ceasul greu,
+Ca mama la pieptul său,
+Fii-ne Tată când suntem amenițați,
+Când furtunile apar, să le fii Tu la hotar,
+Și-n nevoi să ne ajuți, Isuse bun.

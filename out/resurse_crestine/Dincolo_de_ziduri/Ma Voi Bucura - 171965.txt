@@ -1,0 +1,38 @@
+[title]
+Ma voi bucura {author: {Dincolo De Ziduri}, {rcId: {171965}}
+
+[sequence]
+v1,v2,c,c2,c2
+
+[v1]
+Recunosc adevărul
+Văd oboseală-n viața mea
+Am alergat la izvoare care nu m-au săturat
+Sunt lucrătorul
+Preocupat de slujba sa
+Dar am uitat bucuria care m-a răscumpărat
+
+[v2]
+Văd nemulțumirea
+Încolțind printre noi
+Obținem mai mult, dar avem mai puțin
+Avem opinii tari
+Dar suflete mai mici
+Am uitat să ne bucurăm din plin
+
+[c]
+/: Tot ce fac, fac pentru Tine
+Cu bucurie :/ x2
+
+[c2]
+/: Mă voi bucura :/ x4
+/: Mă voi bucura :/ x4
+
+[b]
+/: De mi-e bine sau mă doare
+Nu mă iau după ce pare
+Mă-ntăresc în Cel mai tare
+Viața mea are valoare
+Îl ascult pe Cel ce are
+Pentru mine cea mai mare
+Dragoste ce nu moare :/ x2

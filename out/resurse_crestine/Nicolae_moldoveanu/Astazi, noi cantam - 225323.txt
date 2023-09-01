@@ -1,0 +1,25 @@
+[title]
+Astazi noi cantam {author: {Nicolae Moldoveanu}, {rcId: {225323}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Astăzi, noi cântăm și ne bucurăm;
+Domnului cântăm, toți să-L lăudăm!
+
+[c]
+El ne-a mântuit
+și ne-a pregătit
+un locaș sfințit,
+veșnic fericit
+dacă-n duh smerit
+Lui ne-am dăruit
+
+[v2]
+Cântec luminos să-nălțăm frumos,
+mai armonios, Domnului Hristos!
+
+[v3]
+Copilași, prin cânt, să slujim cu-avânt,
+Domnului Preasfânt, veseli pe pământ!

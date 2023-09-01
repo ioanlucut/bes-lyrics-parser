@@ -1,0 +1,34 @@
+[title]
+Daca nu ai pace-n viata {author: {Gabriel Gorcea și prietenii}, {rcId: {59954}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Dacă nu ai pace-n viață,
+Și inima ți-e tulburată
+/: În Isus găsești speranța,
+Mântuire fără plată :/
+
+[c]
+/: Vino, din lumea de păcat,
+Vino, tu poți să fi salvat,
+Vino, lasă trecutul tău,
+Vino, vino la Dumnezeu. :/
+/: Vino, Isus Cristos te vrea
+Vino, El vrea salvarea ta
+Vino, să fi copilul Său
+Vino, vino la Dumnezeu. :/
+
+[v2]
+Dacă nu găsești iubire
+Și viața ta e un coșmar
+/: Prin Isus ai mântuire
+În jertfa de pe Calvar :/
+
+[v3]
+Dacă patimi te robesc,
+Gânduri negre te apasă
+/: Isus îți spune ”
+Te iubesc,
+Fiu pierdut, azi vino-acasă” :/

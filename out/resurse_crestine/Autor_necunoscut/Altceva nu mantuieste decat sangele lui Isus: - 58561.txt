@@ -1,0 +1,41 @@
+[title]
+Altceva nu mantuieste decat sangele lui isus: {author: {Anonim}, {rcId: {58561}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Altceva nu mântuiește
+Decât sângele lui Isus
+Altceva nu fericește
+Decât sângele lui Isus
+
+[c]
+Al lui Isus sânge scump
+Să slăvim acum cu toți!
+Nu e nimic mai de preț
+Decât sângele lui Isus.
+
+[v2]
+Altceva nu dă iertare
+Decât sângele lui Isus:
+Altceva nu spală vina
+Decât sângele lui Isus.
+
+[v3]
+Altceva nu ne dă pace
+Decât sângele lui Isus
+Altceva nu ne dă viață
+Decât sângele lui Isus.
+
+[v4]
+Altceva nu ne dă slavă
+Decât sângele lui Isus
+Altceva n-a deschis cerul
+Decât sângele lui Isus.
+
+[v5]
+Altceva nu mă împacă
+Decât sângele lui Isus
+Altceva nu Ți-aduc, Doamne,
+Decât sângele lui Isus.

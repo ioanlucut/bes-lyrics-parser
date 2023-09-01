@@ -1,0 +1,38 @@
+[title]
+S-a intrupat mesia {author: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {220945}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Pentru omenire
+salvarea a venit;
+despre-a Lui venire
+de veacuri s-a vestit,
+Betleeme, iată
+ceea ce a fost scris
+se împlinește căci sfântul Tată
+pe Fiul Său ne-a trimis.
+
+[c]
+Ascultați,
+Vă bucurați,
+Răsune vestirea:
+ca dar suprem
+în Betleem
+S-a-ntrupat Mesia!
+Îngerii
+și oamenii
+cântă bucuria,
+Sfântul Miel - Emanuel
+S-a-ntrupat Mesia!
+
+[v2]
+Dați lumii de știre -
+robia s-a sfârșit,
+pentru mântuire
+e totul pregătit.
+Soarele apune
+dar noaptea s-a sfârși...
+Crede în Isus, în al Său Nume
+si vei fi mântuit.

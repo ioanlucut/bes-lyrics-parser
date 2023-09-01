@@ -1,0 +1,29 @@
+[title]
+Frange noaptea {author: {Nicolae Moldoveanu}, {rcId: {244421}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Frânge noaptea asta
+De-apăsare plină
+Și-adu Doamne-odată
+Peste noi lumină.
+/: În această noapte-a groazei,
+Doamne-adu lumină. :/
+
+[v2]
+Ia-ne Doamne greul
+Care ne doboară,
+Fă-ne drum prin bezna
+Care ne-nconjoară.
+/: Printre ziduri și prin bezna
+Care ne-nconjoară! :/
+
+[v3]
+Sfarmă lanțul care
+Sufletul ni-I strânge,
+Toarnă alinare
+Peste răni cu sânge,
+/: Peste arșița de lacrimi,
+Peste răni cu sânge... :/

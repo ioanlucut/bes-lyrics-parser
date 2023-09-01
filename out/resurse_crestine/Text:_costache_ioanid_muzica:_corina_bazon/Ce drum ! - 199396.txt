@@ -1,0 +1,32 @@
+[title]
+Ce drum {author: {Text: Costache Ioanid, Muzica: Corina Bazon}, {rcId: {199396}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ce drum sub zări de peruzele!
+Ce vis de ne-nțeles pribeag!
+Să mergi cu ochii către stele,
+Privind cum una dintre ele
+Ți-arată calea spre Cel Drag!...
+
+[c]
+Să simți că zbori printre planete
+Deasupra văilor pustii,
+Deasupra lumilor deșerte,
+Spre veșnicele simfonii!
+
+[v2]
+Să vezi o stea sub bolți senine
+Venită din nemărginiri
+Ca să te cheme chiar pe tine
+Din lumea asta de suspine
+În țara veșnicei iubiri!
+
+[v3]
+Și-apoi să te-nfiori deodată
+Privind c-un simțământ suprem
+Cum steaua s-a oprit si, iată,
+Acum lumina ei ți-arată
+Un Prunc divin în Betleem!

@@ -1,0 +1,24 @@
+[title]
+Veniti cu credinta {author: {Anonim}, {rcId: {237306}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Veniți cu credință, plini de bucurie,
+Veniți, o veniți toți la Betleem!
+Iată-l în paie, Rege al Măririi!
+
+[c]
+/: Veniți să ne-nchinăm Lui :/ ×3
+Domnului!
+
+[v2]
+Coruri de îngeri, cântă mărire,
+Al păcii Domn astăzi s-a născut,
+Glorie, cinste, în adorare!
+
+[v3]
+Îți multumim o Doamne Hristoase
+Pentru al dragostei Tale dar!
+Te-ai întrupat să porți vina noastră!

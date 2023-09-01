@@ -1,0 +1,43 @@
+[title]
+Isuse eu te rog sa-mi fii {author: {Speranța}, {rcId: {3882}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Isuse eu te rog să-mi fii
+Mereu a mea comoară
+Să Te iubesc și să doresc
+Mereu sfânta Ta țară
+
+[c]
+Căci nu am pe nimeni
+Ca să-mi aline
+Durerea mea și dorul
+Căci numai prin Tine
+A mele suspine
+Își află ajutorul
+
+[v2]
+Isuse eu te rog să-mi fi
+Un tot în tot și-n toate
+Ca eu să nu mai fi văzut
+Nicicând a mele fapte
+
+[v3]
+Isuse eu te rog să-mi fi
+Lumina pe cărare
+Și izbăvire să-mi aduci
+În ziua de-ncercare
+
+[v4]
+Isuse eu te rog să-mi fi
+Un scut când e furtună
+Și dacă vezi că-mi pierd credința
+Tu să mă iei de mână
+
+[v5]
+Isuse eu te rog să-mi fi
+Stăpân și Domn în viață
+Ca eu să-ți fiu un rob supus
+Urmând mereu sfânta-Ți povață.

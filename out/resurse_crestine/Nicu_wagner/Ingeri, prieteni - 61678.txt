@@ -1,0 +1,29 @@
+[title]
+Ingeri prieteni {author: {Nicu Wagner}, {rcId: {61678}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când Elisei, profetul, a fost înconjurat
+De oștile vrăjmașe, la Domnul s-a rugat.
+Și astfel, slujitorul văzu mai mulți cu ei;
+Au fost trimiși mulți îngeri, păzind pe Elisei.
+
+[c]
+/: Mai numeroși sunt frate acei ce sunt cu noi
+Din cer ne ocrotește, trimite în nevoi
+Ca duhuri slujitoare, mulțimi de îngeri sfinți
+Să ne călăuzească în încercări fierbinți. :/
+
+[v2]
+Ocrotitorul nostru, arhanghel Mihail,
+Se luptă cu vrăjmașul să ai acces divin.
+Noi suntem slabi, de-aceea în rugă stăruim,
+Să vină ajutorul, pe rău să-l biruim.
+
+[v3]
+El, Domnul, te păzește în încercarea grea
+Și-n jurul tău mulți îngeri, vor tabărî spre a-ți da
+În grabă ajutorul, ce lucru minunat;
+Ascultă Salvatorul, El fie lăudat!

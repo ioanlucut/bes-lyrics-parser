@@ -1,0 +1,53 @@
+[title]
+Sa nu-ti para rau {author: {Ilie Belciu}, {rcId: {6662}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Să nu-ți pară rău niciodată,
+De ziua când fost-ai smerit,
+Când cinstea din plin meritată,
+În locul tău alții-au primit.
+
+[c]
+/: Dar plânge-ți cu multă căință,
+Greșeala cumplitului ceas,
+Când n-ai arătat umilință,
+Și-n fapte smerit n-ai rămas. :/
+
+[v2]
+Adu-ți cu plăcere aminte,
+De ziua când blând ai răbdat,
+De dragostea-aceea fierbinte,
+Prin care iubind, ai iertat.
+
+[c2]
+/: Dar plânge-ți cu lacrimi de jale,
+Ieșirea din ceasul cumplit,
+Când sabia vorbelor tale,
+Pe semenii tăi i-a rănit. :/
+
+[v3]
+Să nu-ți pară rău niciodată,
+De inimă largă-ai avut,
+Căci fi-va o dreaptă răsplată,
+La tot ce în viață-ai făcut.
+
+[c3]
+/: Dar plânge căci poate străinul,
+Ce cândva la tine-a venit,
+A fost chiar Isus peregrinul,
+Pe care tu nu l-ai primit. :/
+
+[v4]
+Te bucură astăzi de toate,
+Trăirile sfinte prin har,
+Și luptă mai mult cu dreptate
+Căci lupta nu-ți este-n zadar.
+
+[c4]
+/: Dar plânge-ți cu lacrimi căderea,
+Din clipa când nu ai vegheat,
+Și-atunci vei avea mângâierea,
+Iertării de orice păcat. :/

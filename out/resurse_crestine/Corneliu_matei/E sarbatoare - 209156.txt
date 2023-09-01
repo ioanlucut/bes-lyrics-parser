@@ -1,0 +1,31 @@
+[title]
+E sarbatoare {author: {Corneliu Matei}, {rcId: {209156}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+E noapte și cerul întreg s-a deschis
+Acum se-mplinesc profeții care-au prezis
+Pământul și cerul acum s-au unit
+Întregul văzduh cu lumini sa-mpodobit
+Îngerii din cer coboară pe pământ
+În Betleem de naște Domnul preasfant!
+
+[c]
+E sărbătoare, se naște un Rege
+Emanuel e printre noi, în veci domnește
+Să spunem lumii că Isus s-a născut
+El e Mesia, cel fără de început
+
+[v2]
+Pastorii aleargă în noapte grăbiți,
+Să-L vadă doresc le Isus și ai Lui părinți
+E prințul venit din cer din veșnicii
+S-aducă speranța la toți și bucurii
+Fiu de Dumnezeu, a luat un chip de om
+El s-a smerit în iesle divinul Domn!
+
+[b]
+/: Aleluia, aleluia
+S-a născut Emanuel :/

@@ -1,0 +1,17 @@
+[title]
+Calul {author: {Nicolae Moldoveanu}, {rcId: {234522}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Calul face partea lui la căruță dacă-l pui.
+Dragi copii, și voi să știți, partea voastră s-o-mpliniți!
+
+[v2]
+Calu-aleargă drum întins, fără să se dea învins,
+S-alergați și voi cu-avânt drumul ascultării sfânt.
+
+[v3]
+De părinți, de Dumnezeuc, ascultați, copii, mereu!
+Căci atunci când ascultați, veți fi binecuvântați.

@@ -1,0 +1,29 @@
+[title]
+Cand cantarea mea e gata {author: {Speranța}, {rcId: {111407}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când cântarea mea e gata
+Când rugăciunea mi s-a încheiat
+Când nu mai am ce să Îți spun, o, Doamne
+Tu ai nevoie de inima mea!
+
+[c]
+Tot ce este dincolo de cuvinte
+În simțuri, inimă și gând
+Orice bătaie a inimii mele
+E pentru Tine, o, Doamne sfânt!
+
+[v2]
+Atunci când slujba se încheie
+Și însrpre case toți grăbiți plecăm
+Putem să facem zilnic sărbătoare
+Atunci când inima Ție ți-o dăm.
+
+[v3]
+Când sărmanii se despart de noi
+Cu bucurie că i-am mângâiat
+Când se pare că am făcut ce-a trebuit
+Tu dorești inima mea neîncetat

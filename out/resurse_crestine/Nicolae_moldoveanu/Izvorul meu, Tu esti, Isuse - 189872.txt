@@ -1,0 +1,23 @@
+[title]
+Izvorul meu tu esti isuse {author: {Nicolae Moldoveanu}, {rcId: {189872}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Izvorul meu, Tu ești, Isuse,
+De Adevăr, de Har, de Cer,
+/: Străine glasuri fă-le-apuse,
+Să nu mă-nșele, să nu pier! :/
+
+[v2]
+Cărarea mea, Tu ești, Isuse, â
+Pe care sigur merg spre Cer,
+/: Străine căi le fă apuse,
+Să nu mă-nșele - să nu pier! :/
+
+[v3]
+Iubirea mea, Tu ești, Isuse,
+Și viață-mi ești și veșnic Cer,
+/: Iubiri străine fă-le-apuse,
+Să nu mă-nșele - să nu pier!

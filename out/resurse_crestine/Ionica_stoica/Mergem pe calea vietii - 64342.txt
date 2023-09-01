@@ -1,0 +1,55 @@
+[title]
+Mergem pe calea vietii {author: {Ionică Stoica}, {rcId: {64342}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Mergem pe calea vietii
+Cu mers asa grabit
+De parca niciodata
+N-ajungem la sfarsit
+Si strangem la gunoaie
+Si ziduri inaltam
+De parca niciodata
+N-ar fi sa le lasam
+
+[c]
+Sa ne oprim si sa vedem
+In inima ce-avem
+Comori de aici de jos
+Sau L-avem pe Hristos
+Cu El mereu, in veci, vei fi
+Nici cand nu vei muri
+Si-acolo-n tara Sa
+Cu El in veci vom sta
+
+[v2]
+Mori langa noi părinții
+Prieteni dragi si soți
+Căci moartea nu alege
+La fel îi ia pe toți
+Si mor pe neașteptate
+Se duc iar noi privim
+De parcă niciodată
+Noi n-ar fi să murim
+
+[v3]
+Din câte toamne frunza
+Ți-a spus ceva căzând
+Si parul alb la tample
+Si ochi înlacrimand
+Si mersul greu pe cale
+Si sufletul greoi
+De parcă, totuși moartea
+N-ar fi si pentru noi
+
+[v4]
+Dar daca astazi inca
+Mai esti aici, și viu
+E semn că pentru tine
+Nu-I totusi prea tarziu
+Dar maine, maine poate
+Sa vina-al tau apus
+Ce mare lucru este
+Sa vii azi la Isus.

@@ -1,0 +1,37 @@
+[title]
+Nu trebuie s-astept {author: {Anonim}, {rcId: {828}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Nu trebuie s-aștept
+Să cresc mai mult
+Isus mă vrea cum sunt
+În lucrul sfânt!
+Chiar dacă sunt micuț
+Pot să vestesc
+De viața ce în Isus o găsesc
+
+[c]
+Mi-a dat ochi ca să văd
+Urechi să aud
+Și-o gură să vorbesc
+Să văd ce-a creat
+S-aud vocea Sa
+Să pot mereu a-L lăuda
+Un nas să miros
+O limbă să gust
+Și-o minte să gândesc
+Chiar de-s doar un copil
+Poate-a mă folosi
+Cuvântul să vestesc.
+
+[v2]
+Despre dragoste
+Pot să spun oricui
+Isus poate ierta
+Vina orișicui!
+Nu, nu ești prea micuț
+Ca să-L vestești
+Isus te poate folosi cum ești!

@@ -1,0 +1,30 @@
+[title]
+O cat m-ai iubit {author: {Dan Damian}, {rcId: {238951}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ce dragoste, ce Har măreț
+Mi-ai arătat, o Tată
+Să-ți mulțumesc îndeajuns
+Nu voi putea vreo dată
+
+[c]
+/: O cât m-ai iubit, Isus ai murit
+Pe-o cruce pentru mine, ai fost răstignit :/
+/: O cât m-ai iubit, Isus ai murit
+/: Pe-o cruce pentru mine, ai fost răstignit :/ x4
+/: O cât m-ai iubit :/
+
+[v2]
+De ce-ai ales, să mă iubești
+Pe-un păcătos, ca mine
+Și răstignit între tâlhari
+Tu te-ai gândit la mine.
+
+[v3]
+Cu dragoste, Te voi urma
+În umblet și în fapte
+Că-n mâna Ta e viața mea
+Nimic nu ne desparte.

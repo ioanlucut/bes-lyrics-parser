@@ -1,0 +1,51 @@
+[title]
+Privesc la golgota {author: {Iany Laurenciuc}, {rcId: {209604}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Privesc la Golgota, privesc,
+La tabloul răstignirii.
+Mă prind fiori, mă îngrozesc,
+Dus de valul nostalgiei.
+Sânge văd, și spini, și cuie,
+Văd pe culme trei cruci mari.
+Sus pe-o cruce, în agonie,
+Moare Domnu-ntre tâlhari.
+
+[c]
+/: Golgota, o, Golgota..
+Loc de chin, de plâns, de jale.
+Golgota, o, Golgota
+Tu chemi lumea la-mpăcare.
+Prin Hristos, Mielul străpuns,
+Ai dat Viață omenirii.
+Fii lăudat în veci, Isus
+Pentru darul mântuirii! :/
+
+[v2]
+Privesc la Golgota și plâng.
+Îl văd în chinuri cum se zbate.
+Văd mii de inimi cum se frâng,
+De Dragoste și de Dreptate.
+
+[v3]
+Tâlharu-și recunoaște vina
+În ceasul despărțirii greu.
+Întâiul rod, pe Căpățâna,
+Iertat, salvat de Dumnezeu.
+
+[v4]
+De n-ar fi fost Golgota-nsângerată,
+De n-ar fi suferit Isus pe ea,
+N-am fi avut cui spune ”
+Tată”
+Eram sortiți pierzării pururea.
+
+[v5]
+Dar ne-a cules Iubirea jertfitoare
+S-a aplecat în praful cel de jos.
+Cu mâna Lui a scris ”
+Iertare”,
+Fii lăudat în veci, Isus Hristos!

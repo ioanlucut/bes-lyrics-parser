@@ -1,0 +1,29 @@
+[title]
+Din departare {author: {Mitel Dumbra}, {rcId: {5960}}
+
+[sequence]
+v1,c,c
+
+[v1]
+Din depărtare
+Aud glasul Tău
+Și vreau să m-apropii
+De Tine
+Tot ce vreau,
+Isuse
+E să Te-atingi de mine
+Să mă umpli
+Cu puterea Ta
+
+[c]
+Să mă salvezi
+Rege scump
+Am nevoie de Tine
+Povara mea
+Tu să o iei
+
+[b]
+În prezența Ta
+O, Doamne vreau
+Să stau
+Să mă închin

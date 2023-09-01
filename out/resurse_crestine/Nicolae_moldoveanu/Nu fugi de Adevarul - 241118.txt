@@ -1,0 +1,41 @@
+[title]
+Nu fugi de adevarul {author: {Nicolae Moldoveanu}, {rcId: {241118}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Nu fugi de Adevărul
+Ce trezește-amenințând,
+El întoarce înspre iadul
+Unde poți să arzi curând.
+
+[v2]
+Nu lupta cu Adevărul
+Ce te smulge din păcat,
+El e singurul ce-ți caută
+Binele cu-adevărat
+
+[v3]
+Nu te rupe de-Adevărul
+Ce te mustră când faci rău,
+El e-n lume cel mai mare
+Binefăcător al tău.
+
+[v4]
+Nu te-ascunde de-Adevărul
+Ce te-nreaptă iubitor,
+El e-acela ce-ți arată
+Drumul cel mântuitor.
+
+[v5]
+Nu răstălmăci-Adevărul,
+Să-l înfățișezi cum nu-i
+El nu-și cruță-n veci vrășmașii,
+Teme-te de-osânda lui.
+
+[v6]
+Ci iubește Adevărul,
+Chiar mai mult ca viața ta,
+Fericit pe veșnicie
+N-o să fii decât așa.

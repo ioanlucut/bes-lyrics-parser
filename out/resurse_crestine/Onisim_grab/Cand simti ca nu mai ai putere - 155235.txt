@@ -1,0 +1,43 @@
+[title]
+Cand simti ca nu mai ai putere {author: {Onisim Grab}, {rcId: {155235}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Când simți că nu mai ai putere
+Și ești descurajat pe drum,
+În viață nu ai mângâiere,
+Și nu găsești nimica bun.
+
+[c]
+/: Când simți că nu mai poți pe cale
+Și parcă totul e pierdut,
+Vino la Cel ce dă salvare,
+La Domnul Vieții, la Isus! :/
+
+[v2]
+Când simți că nu mai ai pe nimeni,
+Ești părăsit, de toți uitat,
+Durerea și necazul n-ai cui spune
+Și crezi că nu ești ascultat.
+
+[v3]
+Când simți că nu mai ai iertare,
+De tot trecutu-ți păcătos,
+Și ceas de ceas te-ndrepți spre moarte
+Fără speranță în Hristos.
+
+[c2]
+Când simți că nu mai ai iertare,
+De tot trecutul păcătos,
+Vino la Cel ce dă salvare,
+La Domnul Vieții, la Isus!
+Când simți că nu mai poți pe cale
+Și parcă totul e pierdut,
+Vino la Cel ce dă salvare,
+La Domnul Vieții, la Isus!
+Când simți că nu mai ai iertare,
+De tot trecutul păcătos,
+Vino la Cel ce dă salvare,
+La Domnul Vieții, la Isus!

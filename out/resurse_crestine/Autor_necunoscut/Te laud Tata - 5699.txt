@@ -1,0 +1,23 @@
+[title]
+Te laud tata {author: {Anonim}, {rcId: {5699}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Te laud Tata ca m-ai creat
+Te laud Tata ca m-ai salvat
+Te laud la bine, Te laud la greu
+Te laud, Te laud mereu
+
+[v2]
+Te laud in ziua cu nori
+Te laud cind roua-i pe flori
+Te laud in umbletul meu
+Te laud, Te laud mereu
+
+[v3]
+Te laud in fosnet de frunze
+Te laud cind zilele-s triste
+Te laud in somn si in vis
+Te laud aici si in Paradis

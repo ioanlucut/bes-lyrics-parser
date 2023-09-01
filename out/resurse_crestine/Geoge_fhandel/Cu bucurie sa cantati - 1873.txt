@@ -1,0 +1,23 @@
+[title]
+Cu bucurie sa cantati {author: {Geoge F.Handel}, {rcId: {1873}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Cu bucurie sa cantati: Mesia S-a nascut!
+Va inchinati, Il laudati,
+/: Pamant si cer de sus :/
+Cantati, pamant si cer de sus!
+
+[v2]
+Cu bucurie sa primiti pe Regele ceresc;
+In inima, cu dragoste,
+/: El sa gaseasca loc :/
+Cu drag El sa gaseasca loc!
+
+[v3]
+In maretie va domni cu-ai Sai rascumparati!
+Veniti cu toti sa-L adoram
+/: Si sa-L servim pe El :/
+Veniti, sa Il servim pe El!

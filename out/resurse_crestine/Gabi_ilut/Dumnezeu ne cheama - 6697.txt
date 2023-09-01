@@ -1,0 +1,36 @@
+[title]
+Dumnezeu ne cheama {author: {Gabi Ilut}, {rcId: {6697}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Dumnezeu ne cheamă pe toți
+„
+Veniți la mine!” zice El
+Viață veți primi pe vecie
+Oricine-însetează să vie!
+
+[c]
+/: El cheamă, El bate, El bate
+La porțile-ncuiate
+El spune, El spune
+Astăzi veniți, nu mâine! :/
+
+[v2]
+Mai cheamă și-astăzi prin Duhul Sfânt
+Întreg pământul tresare
+Toți acei ce ascultă strigarea
+Să nu respingă chemarea!
+
+[v3]
+În curând se va sfârși
+Tot ce este sub soare
+Cuvintele sfinte în veci vor rămâne
+Mărturie pe mâine!
+
+[v4]
+Fii înțelept, nu neglija
+Rostul zilelor tale
+Șansa vieții ți-e dată acum
+Hai pune piciorul pe drum!

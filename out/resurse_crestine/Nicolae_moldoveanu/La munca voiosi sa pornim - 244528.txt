@@ -1,0 +1,33 @@
+[title]
+La munca voiosi sa pornim {author: {Nicolae Moldoveanu}, {rcId: {244528}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+La muncă, la muncă voioși să pornim,
+Cu pluguri, cu sape și coase.
+În rugă și-n cântec muncind pregătim,
+Ogorul rodirii frumoase!
+
+[c]
+La muncă, Ia muncă voioși,
+Pornim și sfârșim credincioși,
+Vom strânge cântând Ia cules,
+Rod bun și bogat și ales!
+
+[v2]
+Uniți și-nfrățiți de-o credință, muncind
+Cu brațe și inimi voioase,
+Vedea-vom mai grabnic și dulce-nflorind. Sămânța rodirii frumoase!
+
+[v3]
+Pe ploi, prin furtuni, pe călduri sau zăpezi, Muncind cu priviri luminoase,
+Vom strânge din câmp, de prin vii sau livezi,
+Belșugul rodirii frumoase!
+
+[v4]
+O, Tată din Cer Te rugăm să ne dai,
+Ani buni, plini de roade mănoase,
+Ca toți să-Ți aducem în fapte și-n grai,
+Prinosul rodirii frumoase!

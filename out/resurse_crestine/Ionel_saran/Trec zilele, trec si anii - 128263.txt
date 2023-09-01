@@ -1,0 +1,29 @@
+[title]
+Trec zilele trec si anii {author: {Ionel Saran}, {rcId: {128263}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Trec zilele, trec și anii,
+Trec și anii tinereții.
+Ca și frunzele din pom,
+Nu se mai întorc la loc!
+
+[c]
+/: Nu am crezut vreodată
+Căci vine-o zi în care
+La fel ca frunza de pe pom,
+Se va sfârși viața de om. :/
+
+[v2]
+Doamne, scurtă-mi pare viața
+Acum când-am îmbătrânit!
+Iar când eram mic copil,
+Nu mă gândeam la nimic.
+
+[v3]
+Viața asta-i suferință
+Oricât alergi, n-ai odihnă.
+Zilele sunt numărate,
+Doamne, câte-aș vrea eu face...

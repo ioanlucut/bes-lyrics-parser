@@ -1,0 +1,55 @@
+[title]
+Cum soarele {author: {Nicolae Moldoveanu}, {rcId: {240878}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Cum soarele-ncălzește
+Pământul înghețat,
+Să-și poat-aduce rodul
+Frumos și-mbelșugat,
+Așa-ncălzește-mi Doamne,
+Mereu viața mea,
+Ca Duhul să rodească,
+Belșug de cer în ea!
+
+[v2]
+Cum roua-nviorează
+Câmpiile cu flori,
+Când arșița le stinge
+Lumina din culori,
+Așa mi-nviorează,
+Isuse viața mea,
+Ca mai frumos iubirea,
+Să strălucească-n ea!
+
+[v3]
+Cum vântul poartă-n drumu-i
+Miresmele de crin,
+Și-aduce-n port corăbii
+Din largul mării plin,
+Așa să port oriunde
+Isuse-n viața mea,
+Mireasma veșniciei
+Pătruns și plin de ea!
+
+[v4]
+Cum pururea balsamul
+Alină răni ce dor,
+Și linișteste-n suflet
+Al chinului fior,
+Așa să-mi fie-ntr-una
+Isuse viața mea,
+Balsam de har și pace
+În frământarea grea!
+
+[v5]
+Ca-n minea toți să vadă
+Lucrarea-Ți mai frumos,
+Lumina Ta să-mi fie
+Viața mea - Hristos!
+Să-ndrept pe orice suflet,
+Din lumea de păcat,
+Spre Cerul unde Tu ești
+Și Mire și-mpărat!

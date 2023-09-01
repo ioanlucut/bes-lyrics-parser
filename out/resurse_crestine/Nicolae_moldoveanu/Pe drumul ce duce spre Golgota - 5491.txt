@@ -1,0 +1,53 @@
+[title]
+Pe drumul ce duce spre golgota {author: {Nicolae Moldoveanu}, {rcId: {5491}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Pe drumul ce duce spre Golgota
+Mergea Mântuitorul meu;
+De bice brăzdată-I era fața
+Și drumu-i tot mai greu,
+Dar crucea pe umăr Îl apăsa,
+Noroade strigă ne’ncetat:
+„
+La moarte cu Cel ce nu ne pasă
+Să stea crucificat! ”
+
+[c]
+/: Amarnic El pentru toți Se ruga:
+„
+O, Tată, iartă-i căci nu știu
+Că astăzi la moarte ei duc acum
+Pe singurul Tău Fiu! ” :/
+
+[v2]
+El stând în genunchi înspre cer privea,
+Batjocorit și chinuit,
+Și nimeni pe cale nu-L ajuta
+Pe Domnul meu iubit.
+Cununa-mpletită de spini purta
+Pe fruntea Lui, îndurerat
+Și către noroade mereu privea,
+Bătut și însetat.
+
+[v3]
+Dar nici o vină El nu avea!
+Între tâlhari a fost menit
+Ca pentru păcatele lumii-ntregi,
+Să moară răstignit.
+Dar lumea de El nu și-a amintit,
+Mereu în păcate trăia,
+Așa cum și noi odat-am trăit,
+Rătăcitori prin ea.
+
+[v4]
+Dar Cel ce-a murit sus pe Golgota,
+Prin jertfa Lui m-a mântuit
+De lumea în care pacătuiam,
+O, Domnul meu iubit!
+La Tine, o, Doamne Isuse, vin
+Și cu mult foc, Te rog, acum
+Să-mi dai Tu putere să pot pleca
+Pe-al mântuirii drum.

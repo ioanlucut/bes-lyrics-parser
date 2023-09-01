@@ -1,0 +1,26 @@
+[title]
+Zi de sarbatoare {author: {Gabi_Ilut}, {rcId: {241249}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: Împreună suntem azi și vom sărbători.
+Sărbătoarea vine din adâncul inimii! :/
+
+[c]
+/: Vrem pentru Dumnezeu să sărbătorim mereu;
+Liberi ne-a făcut, a dat tot ce a avut.
+Vrem să ne închinăm; doar pe El să-L înălțăm! :/
+
+[v2]
+/: Știm că în mijlocul nostru e prezent Isus,
+Și-a ținut promisiunea așa cum a spus! :/
+
+[v3]
+/: Vrem să ne unim în duh, le punem toate jos;
+Teamă și îngrijorări la crucea lui Cristos! :/
+
+[v4]
+/: Hai să dăm mână cu mână, Lui să-I facem loc;
+Duhul Sfânt va reaprinde al inimilor foc! :/

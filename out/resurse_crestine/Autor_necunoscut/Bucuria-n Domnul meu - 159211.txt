@@ -1,0 +1,20 @@
+[title]
+Bucuria-n domnul meu {author: {Anonim}, {rcId: {159211}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+/: Bucuria-n Domnul meu
+Este tăria mea! :/ (3x)
+Bucuria-n Domnul e tăria mea!
+
+[v2]
+/: El apa vie-mi dă
+Și sete nu-mi mai e! :/ (3x)
+Bucuria-n Domnul e tăria mea!
+
+[v3]
+/: Aș vrea să merg cu El
+În toată viața mea! :/ (3x)
+Bucuria-n Domnul e tăria mea!

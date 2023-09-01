@@ -1,0 +1,41 @@
+[title]
+Credinta dreapta {author: {Nicolae Moldoveanu}, {rcId: {247850}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Credința dreaptă-i doar aceea
+Ce-aduce-n suflet pe Hristos,
+/: Deosebindu-L pretutindeni
+De ce-i stricat și păcătos. :/
+
+[c]
+Credința, credința din ceruri
+Turnată în inimi prin har,
+Preface viața-n lumină
+Și-n jertfă sfințită pe-altar.
+
+[v2]
+Credința dreaptă-i cunoscută
+Prin focul dragostei din ea,
+/: Căci nimănui nimic nu cere,
+Ci stă la toți oricând să dea. :/
+
+[v3]
+Credința dreaptă poartă pacea
+Ca pe stindardul cel mai sfânt,
+/: Ea dă comoara mântuirii
+Oricui o caută, pe pământ. :/
+
+[v4]
+Credința dreaptă-nmiresmează
+Cu bunătate orice loc,
+/: Și stinge-n suflete de-a pururi
+Nesățiosul urii foc. :/
+
+[v5]
+Credința dreaptă-i numai una:
+Acea adusă de Isus.
+/: Ea strânge pe toți risipiții
+În Casa Dragostei de Sus. :/

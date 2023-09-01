@@ -1,0 +1,35 @@
+[title]
+De cine sa ma tem ? {author: {Adi Gliga}, {rcId: {7075}}
+
+[sequence]
+v1,c,c,v2,c
+
+[v1]
+De cine să mă tem
+Când sunt mereu cu Tine ?
+Tu ești stânca mea
+În Tine mă ascund!
+Și cine ar putea
+Inima să-mi fure
+Când Tu domnești în ea
+Iar eu sunt al Tău ?
+
+[c]
+Toate de s-ar duce
+Tu rămâi în sufletul meu
+Pentru Tine Doamne eu trăiesc
+Tu ești Dumnezeu.
+
+[b]
+Prin Tine..
+Trăiesc doar prin Tine..
+
+[v2]
+Doamne, jertfa Ta
+M-a legat de Tine
+Sunt iertat în ea
+Prin sângele Tău
+Și cine ar putea
+Pe veci să mă despartă
+De iubirea Ta
+De Tine Isus?

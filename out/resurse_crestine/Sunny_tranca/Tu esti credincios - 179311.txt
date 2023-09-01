@@ -1,0 +1,32 @@
+[title]
+Tu esti credincios {author: {Sunny Tranca}, {rcId: {179311}}
+
+[sequence]
+v1,c,v2,c,b,c,e
+
+[v1]
+Tu ești credincios, tot ce faci e desăvârșit
+Ce începi duci la bun sfârșit, o, Tată, Tu ești credincios!
+Tu ești credincios, m-ai convins cu iubirea Ta
+Tu ești Doamne minunea mea, o, Tată, Tu ești credincios!
+
+[c]
+Îmi ridic mâinile spre Tine, în Tine-i nădejdea mea
+Tu lucrezi Tată pentru mine, Tu nu mă vei abandona
+Îmi ridic ochii către Tine, recunosc bunătatea Ta
+Eu sunt lucrarea Ta!
+
+[v2]
+Tu ești credincios, m-ai ales după planul Tău
+Îmi vorbești azi prin Duhul Tău, o, Tată, Tu ești credincios!
+Tu ești credincios, Tu ești Tatăl luminilor
+Vreau s-arăt asta tuturor, o, Tată, Tu ești credincios!
+
+[b]
+Eu sunt lucrarea Lui, lucrarea Tatălui!
+
+[e]
+/: Tot ce ai început în mine, Tu vei duce la bun sfârșit
+Tot ce ai început în mine, Tu vei duce la bun sfârșit!
+Frică eu nu mai am în mine, dragostea Ta m-a izbăvit
+Eu sunt lucrarea ta, Tu bucuria mea! :/

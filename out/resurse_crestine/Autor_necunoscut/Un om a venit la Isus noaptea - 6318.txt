@@ -1,0 +1,32 @@
+[title]
+Un om a venit la isus noaptea {author: {Anonim}, {rcId: {6318}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Un om a venit la Isus noaptea
+Ca să-nțelegă mântuirea
+Iar la întrebare El i-a răspuns
+”
+Trebuie să vă nașteți de sus!”
+
+[c]
+/: ”
+Să vă nașteți de sus” :/
+”
+Adevăr, adevăr v-am spus
+Să vă nașteți de sus!” :/
+
+[v2]
+Voi, fiii lui Avraam, mereu ascultați
+Cuvintele lui Isus le urmați
+Să faceți așa cum El v-a spus
+”
+Trebuie să vă nașteți de sus!”
+
+[v3]
+Voi care odată în cer vreți să fiți
+De la El viața în dar s-o primiți
+Să știți că raiul este nepătruns
+Și trebuie să vă nașteți de sus!

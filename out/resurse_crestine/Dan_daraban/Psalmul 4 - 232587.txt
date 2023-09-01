@@ -1,0 +1,29 @@
+[title]
+Psalmul {author: {Dan Daraban}, {rcId: {232587}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Răspunde-mi, răspunde-mi când strig,
+Dumnezeule neprihănit,
+Scoate-mă la loc larg, când sunt în strâmtori,
+Ai milă și-ascultă-mă.
+
+[c]
+Eu mă culc, mă culc și-adorm în pace,
+Căci numai Tu, Doamne, îmi dai,
+Tu-mi dai liniște deplină,
+Doamne, -n locuința mea.
+
+[v2]
+Domnu-aude când strig către El
+Și îmi dă mai multe bucurii
+Decât au alții, când li se înmulțesc
+Rodul grâului și-al vinului.
+
+[v3]
+Aduceți jertfe neprihănite
+Și încredeți-vă în Domnul,
+Să zicem: fă să răsară, peste noi,
+Lumina feței Tale, Doamne.

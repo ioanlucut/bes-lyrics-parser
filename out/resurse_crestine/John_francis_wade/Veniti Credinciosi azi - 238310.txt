@@ -1,0 +1,25 @@
+[title]
+Veniti credinciosi azi {author: {John Francis Wade}, {rcId: {238310}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Veniți, credincioși, azi plini de bucurie
+Veniți, o, veniți toți la Betleem
+Iată-L în paie, Regele măririi
+
+[c]
+/: Veniți să ne-nchinăm Lui :/ x3
+El este Domn.
+
+[v2]
+Voi, coruri de îngeri, glorie aduceți
+Cântați Domnului cete îngerești
+”
+Slavă lui Dumnezeu în înălțime”
+
+[v3]
+O Doamne îți spunem bun venit în lume
+Isuse, a Ta fie slava-n veci
+Cuvântul Tatălui ești printre oameni.

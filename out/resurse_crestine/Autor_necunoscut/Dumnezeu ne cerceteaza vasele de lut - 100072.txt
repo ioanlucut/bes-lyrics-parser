@@ -1,0 +1,35 @@
+[title]
+Dumnezeu ne cerceteaza vasele de lut {author: {Anonim}, {rcId: {100072}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Dumnezeu ne cercetează vasele de lut
+Și eu cred cu bucurie, Duhul ne-a umplut!
+Duhul Sfânt ne-nflăcărează să-I cântăm mereu,
+Cântă toată Adunarea: „
+Mare-I Dumnezeu!”
+
+[c]
+/: Dumnezeu e mare, Dumnezeu e tare,
+Domnul e cu noi în Adunare! :/
+
+[v2]
+Peste cei bolnavi, El toarnă Untdelemnul Său,
+Dăruiește vindecare, bun e Dumnezeu!
+Iar pe cei plini de-ntristare îi va mângâia:
+Iată Domnul ne atinge cu puterea Sa!
+
+[v3]
+Toarnă Domnul îndurarea, toarnă Duhul Sfânt
+Și acum la toți ne umple, vasele de lut!
+Cântă toată adunarea, cu ea cânt și eu,
+Inima îmi cântă-ntr-una: „
+Mare-i Dumnezeu!”
+
+[v4]
+Hai și tu prietene dragă, vino la Hristos,
+Să primești a Lui iertare, să fii bucuros!
+Mângâiere, pace sfântă, Domnul îți va da
+Și, cu haina Mântuirii, te va îmbrăca!

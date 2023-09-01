@@ -1,0 +1,23 @@
+[title]
+Binecuvantati-l pe el {author: {Anonim}, {rcId: {4838}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Binecuvântați-L pe El,
+Binecuvântați-L pe El,
+Binecuvântați-L pe El,
+Cel Prea’nalt.
+
+[c]
+Numele Lui e
+Un turn puternic,
+Credincioșii vin
+Și sunt salvați.
+
+[v2]
+Glorificați-L pe El,
+Glorificați-L pe El,
+Glorificați-L pe El,
+Cel Prea’nalt.

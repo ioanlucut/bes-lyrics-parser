@@ -1,0 +1,36 @@
+[title]
+Privim cu credinta in zare {author: {Anonim}, {rcId: {6429}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Privim cu credință în zare
+Pe bolta de aur strălucind
+Un Soare măreț ce răsare
+Pe treptele vremii urcând.
+
+[c]
+Ni-e dor tuturora s-apară Aurora
+Pe bolta cerească iar noi
+Zbura-vom printre stele
+Mai falnici decât ele
+Departe de-a lumii nevoi.
+
+[v2]
+Credința ne duce departe
+Pe treptele lumii de vis
+Ajungem în sfânta cetate
+Intra-vom pe porți în Paradis.
+
+[v3]
+Tu suflet ce plângi în durere
+Departe de harul divin
+O, vino primește credința
+Ce-aduce iertare deplin.
+
+[v4]
+E-aproape e ziua cea mare
+Si-atunci împreună cu noi
+Zburavei în marea splendoare
+Departe de-a lumii nevoi.

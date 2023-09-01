@@ -1,0 +1,27 @@
+[title]
+Nu ma tem {author: {Adi Gliga}, {rcId: {157681}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Când trec prin valea umbrei morții
+Și în jur e totul stins,
+Când plânge sufletul în mine,
+Îmi doresc să trăiesc doar un vis.
+
+[c]
+Și Te rog, să rămâi lângă mine,
+Când în suflet îmi stai, nu mă tem!
+Doamne, știu că-ntr-o zi va fi bine,
+Nu mă tem, nu mă tem, nu mă tem!
+/: Și Te rog, să rămâi lângă mine,
+Când în suflet îmi stai, nu mă tem!
+Doamne, știu că-ntr-o zi va fi bine,
+Nu mă tem, nu mă tem, nu mă tem! :/
+
+[v2]
+Când mă pierd, fugind de Tine,
+Doamne, știi că nu mai pot,
+Dar Te rog, deschide-mi ochii,
+Să Te văd, să Te văd, să Te văd!

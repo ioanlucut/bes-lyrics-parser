@@ -1,0 +1,29 @@
+[title]
+Astazi esti mireasa {author: {Nicolae Zamfir}, {rcId: {106701}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Astăzi ești mireasă aleasă
+Pentru mirele tău drag,
+În această zi din viață
+Voi veți fi puși pe altar.
+
+[c]
+/: Dumnezeu să vă unească
+Sufletele voastre azi,
+Duhul Sfant vă dăruiască
+Binecuvântări și har :/
+
+[v2]
+Fie pașii voștri în viață
+Totdeauna întăriți
+De iubirea Lui cerească
+Și în toate fericiți!
+
+[v3]
+Când vor fi zile cu soare,
+Când vor fi zile cu nori,
+Domnul Isus să vă fie
+Cel mai bun îndrumător.

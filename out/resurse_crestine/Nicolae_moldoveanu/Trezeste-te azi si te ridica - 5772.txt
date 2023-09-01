@@ -1,0 +1,41 @@
+[title]
+Trezeste-te azi si te ridica {author: {Nicolae Moldoveanu}, {rcId: {5772}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c2
+
+[v1]
+Trezeste-te azi si te ridica,
+O, popor al Meu iubit,
+Caci secerisul este aproape
+Si-al tau ceas iata-l sosit!
+
+[c]
+/: O, Aleluia! :/
+Vino, Doamne Isuse!
+/: O, Aleluia! :/
+Vino, Doamne Isuse! :/
+
+[v2]
+Caci, prin cuptorul de suferinta,
+Pentru o vreme te-am trecut,
+Si-n loc de-arama vrea sa-ti dau aur,
+Si-argint - in loc de lut.
+
+[v3]
+Si iata, astazi, te chem la Mine
+Ca sa nu mai ratacesti,
+Sa fii poporul de sfinti in lume
+Si doar Mie sa-Mi slujesti!
+
+[v4]
+Eu te-am salvat prin al Meu sfant sange
+Si mereu te voi iubi;
+Acum e ceasul sa vii acasa,
+Ca-n curand te voi rapi.
+
+[c2]
+/: O, Maranata! :/
+Isus vine, in curand!
+/: O; Maranata! :/
+Sa ne ia de pe pamant! :/

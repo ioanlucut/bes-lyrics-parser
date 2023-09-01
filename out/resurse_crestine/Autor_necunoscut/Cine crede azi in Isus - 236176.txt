@@ -1,0 +1,41 @@
+[title]
+Cine crede azi in isus {author: {Necunoscut}, {rcId: {236176}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cine crede azi in Isus
+ /:
+N-ai vrea tu
+/:
+Sa iesi afara din lume la Isus Hristos
+Poftele sunt trecatoare
+ /: Anii tai
+/:
+Ce-ai facut cu a ta viata unde -s anii tai?
+
+[c]
+/: Numele Lui e-o mireasma /e Isus
+/:
+E mai dulce ca si mierea ca sa stii si tu
+/:
+
+[v2]
+Cum ti-ai petrecut viata
+ /: In pacat
+/:
+Si-ai avut chemari atatea dar ai refuzat
+Tu ce esti strain in lume
+ /: Nu uita
+/:
+Asa am fost și noi ca tine Domnul ne-a iertat.
+
+[v3]
+Nu vezi semnele din lume
+ /: De nevoi
+/:
+Este foamete și lipsuri chiar si printre noi
+Destartit de Domnul Isus
+ /: N-ai putea
+/: Nu poate primi inima ta pacea, linistea.

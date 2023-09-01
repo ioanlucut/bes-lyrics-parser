@@ -1,0 +1,35 @@
+[title]
+S-a nascut christos {author: {Anonim}, {rcId: {74391}}
+
+[sequence]
+c,v1,v2,v3,c2
+
+[c]
+/: S-a născut Christos :/
+A venit la noi Mesia!
+/: S-a născut Christos :/
+A venit Mesia.
+
+[v1]
+Pe bolta înstelată o stea s-a arătat
+Vestind la toți cerescul Împărat
+Și magii cu grăbire, pe drum L-au căutat,
+Când L-au găsit, s-au închinat.
+
+[v2]
+Afară-n câmp, păstorii în jurul turmei lor
+Priveau uimiți cerescul vestitor
+Iar oastea îngerească în cântec s-a unit
+Vestind și ei pe Cel venit.
+
+[v3]
+Ne-ngrijorăm adesea de fiecare zi
+Când toate nu-s așa cum le dorim
+Dar singura lucrare ce azi s-ar cuveni
+E să-nvățăm cum să iubim.
+
+[c2]
+/: S-a născut Christos :/
+A venit la noi Iubirea!
+/: S-a născut Christos :/
+Ne-a cuprins Iubirea.

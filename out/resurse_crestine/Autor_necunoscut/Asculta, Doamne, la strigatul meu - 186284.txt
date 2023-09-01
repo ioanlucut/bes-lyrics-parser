@@ -1,0 +1,29 @@
+[title]
+Asculta doamne la strigatul meu {author: {Anonim}, {rcId: {186284}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ascultă, Doamne, la strigătul meu
+Și rugăciunea mea
+Către Tine strig din depărtări
+Cu inima mâhnită și Te rog
+
+[c]
+/: Du-mă, Doamne, pe stânca cea înaltă,
+Prea înaltă ca să o pot ajunge
+Căci Tu ești un loc sigur pentru mine
+Și un turn nepieritor. :/
+
+[v2]
+În cortul Tău aș vrea să locuiesc,
+Să mă adăpostesc,
+Sub aripile Tale s-alerg,
+Căci Tu-mi știi toate juruințele.
+
+[v3]
+Numele Tău ne-ncetat voi cânta,
+Veșnic Te voi lauda,
+Întotdeauna și-n tot locul
+Împlini-voi toate juruințele.

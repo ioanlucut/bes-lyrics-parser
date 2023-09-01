@@ -1,0 +1,29 @@
+[title]
+Am pus o pecete {author: {Nicu Wagner}, {rcId: {58465}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Am pus o pecete numele tău
+Și-n deget inelul ți-am pus,
+Am vrut ca să fii pe vecie cu Mine,
+Părtaș al măririi în slava de sus.
+
+[c]
+/: De-ai știi cât de mult te-am iubit eu, copile,
+Căci viața pe cruce mi-am dat,
+La Gologota-n chinuri plătit-am eu prețul,
+Ca tu să nu fii condamnat :/
+
+[v2]
+Venit-am din cer, vestea bună s-aduc
+Și pace să las pe pământ,
+S-arăt că din Mine-i născută iubirea,
+Din veacuri spre veacuri Eu sunt Cel ce sunt!
+
+[v3]
+De ce nu-mi deschizi cât Eu încă mai bat,
+Să intru, la cină să stăm,
+Căci am mântuirea în dar pentru tine,
+Din nou legământul pe veci să-l legăm.

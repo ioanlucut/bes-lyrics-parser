@@ -1,0 +1,21 @@
+[title]
+Poporul tau {author: {Anonim}, {rcId: {65011}}
+
+[sequence]
+v1,c
+
+[v1]
+Suntem poporul,
+Numelui Tău
+Smeriți noi azi ne rugăm
+Suntem poporul,
+Numelui Tău
+Smeriți noi azi ne rugăm
+Și cu pocăință
+Fața-Ti căutăm.
+
+[c]
+Tată din cer,
+Iartă-ne păcatele
+Vindecă Tu,
+A noastră țară.

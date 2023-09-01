@@ -1,0 +1,53 @@
+[title]
+Ai fost chemat {author: {Remus Tămășan Cristi}, {rcId: {156557}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ai fost chemat de Domnul,
+Să umbli în lumină,
+Să mergi pe calea dreaptă,
+Să ai pace deplină.
+Ai fost chemat la viață,
+Trăită cu Isus,
+Să fii mereu povață
+Pentru cei ce merg în Sus.
+
+[c]
+Ești fiu de Dumnezeu,
+Tu, frate, nu uita!
+Să porți Cuvântul Său
+Toată viața ta.
+Ești fiu venit de Sus,
+Din slăvile divine,
+Și numai prin Isus
+Tu ai bucurii depline.
+/: Ești fiu de Dumnezeu,
+Tu, frate, nu uita!
+Să porți Cuvântul Său
+Toată viața ta.
+Ești fiu venit de Sus,
+Din slăvile divine,
+Și numai prin Isus
+Tu ai bucurii depline. :/
+
+[v2]
+Ai fost chemat de Domnul,
+Să mergi pe calea dreaptă,
+Să porți mereu Cuvântul,
+Ce viața ți-o îndreaptă.
+Ai fost chemat de Domnul,
+Să fii bun slujitor
+Și să-ți pătrundă gândul
+Al veșniciei dor.
+
+[v3]
+Ai fost chemat de Domnul
+Să lucrii spre-a Lui slavă,
+Să pui sămânța bună
+În inima bolnavă.
+Să faci doar fapte bune
+La toți din jurul tău
+Și-atunci lumea va spune
+Că ești fiu de Dumnezeu.

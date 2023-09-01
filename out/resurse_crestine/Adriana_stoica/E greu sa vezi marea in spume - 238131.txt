@@ -1,0 +1,36 @@
+[title]
+E greu sa vezi marea in spume {author: {Adriana Stoica}, {rcId: {238131}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+E greu să vezi marea în spume
+Și-n jurul tău doar vijelii
+/: Cum a strigat Petru pe ape
+Cheamă-l și tu: „
+De ce nu vii?” :/
+
+[c]
+/: De ce nu vii, de ce nu vii
+Când marea e învolburată
+De ce nu vii, de ce nu vii
+Isuse ca altă dată :/
+
+[v2]
+Plutim cu toți pe marea vieții
+Ce-i plină de multe-încercări
+/: Și când mai vine vreo furtună
+La Tine Doamne apelăm :/
+
+[v3]
+Dar în corabie vâslașii
+Zoresc într-una ne-încetat
+/: Ei sunt acei ce-n încercare
+La Tine Doamne s-au rugat :/
+
+[v4]
+Deodată strigă corăbierul
+Opriți căci iată am ajuns
+/: Dar când te-apropii șii vezi fața
+În fața ta e chiar Isus :/

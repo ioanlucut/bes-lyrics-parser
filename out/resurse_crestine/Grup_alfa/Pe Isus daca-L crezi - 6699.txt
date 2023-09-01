@@ -1,0 +1,35 @@
+[title]
+Pe isus daca-l crezi {author: {Grup Alfa}, {rcId: {6699}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Pe Isus dacă-L crezi și la El meditezi,
+Nici un rău nu va fi de neînvins.
+Viața ta ți-ar schimba, sigur n-ai regreta
+Și-ai sluji de acum doar pe El.
+
+[c]
+Astăzi vino la El, preda-ți viața ta
+Și sigur vei fi mântuit.
+El te cheamă acum, te conduce pe drum
+Și vei fi pururea fericit.
+
+[v2]
+Cei ce nu Te cunosc și-n lume rătăcesc,
+Viața lor în distracții și-o petrec.
+Însă vine o zi, când cu toți s-or trezi,
+Dar atunci va fi prea târziu.
+
+[v3]
+Dacă vrei să te-ntorci, la Domnul chiar acum,
+Nu uita ca să faci tot ce-i bun,
+Dar să nu mai amâni, pe pământ să nu rămâi,
+Deci, acum vino și să-L primești.
+
+[v4]
+Iar acum dacă vrei, haina ta să ți-o speli,
+Cât mai curge din sânge și azi.
+Calea rea să o lași și cu El să te împaci
+Cu Acel ce se cheamă Isus.

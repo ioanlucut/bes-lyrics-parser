@@ -1,0 +1,41 @@
+[title]
+Laudati-l pe domnul maririi {author: {Nicolae Moldoveanu}, {rcId: {240965}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Lăudați-L pe Domnul măririi,
+Cei născuți din Izvorul curat;
+Al credinței în Harul iubirii,
+Pe Golgota întreg arătat!
+
+[c]
+Lăudați și cântați
+Voi ce-ați fost răscumpărați
+Cu avânt, neînfrânt,
+Lăudați pe Domnul Sfânt!
+
+[v2]
+Lăudați-L pe Domnul veciei,
+Voi ce-ați fost din păcat izbăviți
+Voi cei liberi de lanțul robiei,
+Lăudați-L pe El și-L slăviți!
+
+[v3]
+Lăudați-L pe Domnu-ndurării,
+Voi copii credincioși care stați,
+În lumina din Templul iertării,
+Numai voi doar puteți să-I cântați!
+
+[v4]
+Numai voi Îi cunoașteți puterea
+Și iubirea și haru-l nespus,
+Numai voi ați primit înfierea
+Voi ce credeți adânc în Isus!
+
+[v5]
+Acultați și primiți cu credință,
+Adevărul din sfântu-I Cuvânt,
+Căci atunci veți avea biruință,
+- Lăudați-L pe Domnul preasfânt!

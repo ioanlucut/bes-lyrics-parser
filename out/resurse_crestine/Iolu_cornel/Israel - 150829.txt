@@ -1,0 +1,28 @@
+[title]
+Israel {author: {Iolu Cornel}, {rcId: {150829}}
+
+[sequence]
+v1,c,v2,c,c
+
+[v1]
+Israel nu te increde in cei mari
+La ei nu vei gasi ajutor
+/: Suflarea lor va trece
+Se intorc cu totii-n pamant
+In aceeasi zi le pier
+Si planurile lor :/
+
+[c]
+Israel, Israel
+Lauda-l pe Dumnezeu
+Israel, Israel, increde-te in Dumnezeu
+/: Israel, Israel
+Lauda-l pe Dumnezeu
+Israel, Israel, increde-te in Dumnezeu :/
+
+[v2]
+Ferice de cine-L are ca ajutor
+Pe Dumnezeu lui Iacov
+/: Ferice de cine-n El
+Isi pune nadejdea mereu
+In El in Domnul Dumnezeu :/

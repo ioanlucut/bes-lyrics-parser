@@ -1,0 +1,39 @@
+[title]
+Sfant e domnul sfant si mare {author: {Alexandru Groza}, {rcId: {80791}}
+
+[sequence]
+c,v1,c,v2,c,e
+
+[c]
+Sfânt e Domnul, sfânt și mare,
+Credincios e Dumnezeu,
+Bunătatea și-ndurarea
+Curge de la tronul Său.
+Peste Univers domnește
+Glorios, măreț și sfânt,
+Zi de zi El înnoiește harul,
+Pacea pe pământ.
+
+[v1]
+Închinarea noastră
+Fie plină de mulțumire
+Să-nălțăm cinste,
+Onoare Domnului ca să vie
+El prin Fiul ne iubește,
+Iertare sfântă ne-a dat
+În toate Domnul să fie
+Numele Lui lăudat.
+
+[v2]
+Să cinstim cu bucurie
+Numele lui Dumnezeu
+El prin harul Lui ne ține,
+Ne dă pacea Lui mereu
+Toată cinstea și onoarea
+A Tatălui să fie
+El ne-a dat prin Fiul viață,
+În ceruri veșnicie.
+
+[e]
+Zi de zi El înnoiește harul,
+Pacea pe pământ.

@@ -1,0 +1,23 @@
+[title]
+Stai {author: {Cătălin Ciuculescu}, {rcId: {181085}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Pe cine crezi că minți, pe cine crezi că-nșeli
+Chiar dacă râzi frumos, să știi, mă uit la ochii tăi
+Și tot ce văd în ei e goană după vânt
+Alergi la nesfârșit, câștigi, dar sufletul ți-l pierzi
+
+[c]
+Stai!
+Oprește-te puțin din drumul tău
+Stai, împacă-te, te rog, cu Dumnezeu,
+Stai!
+
+[v2]
+Ce-ai face dacă azi ar fi ultima zi
+Și tot ce-ai adunat în timp deodată ar pieri
+Îmi pare rău să-ți spun că n-o să iei nimic
+În Rai sau poate-n Iad ajungi așa cum ai venit

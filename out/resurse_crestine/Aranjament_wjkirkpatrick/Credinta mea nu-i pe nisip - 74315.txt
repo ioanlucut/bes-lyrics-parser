@@ -1,0 +1,29 @@
+[title]
+Credinta mea nu-i pe nisip {author: {Aranjament W.J.Kirkpatrick}, {rcId: {74315}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Credința mea nu-i pe nisip
+Clădită-n forme seci,
+Ci-n veșnicul meu Salvator
+Eu mă încred pe veci.
+
+[c]
+Sângele Lui îmi e de-ajuns,
+Mai mult nu-mi trebuie
+Destul că a murit Isus,
+Jertfit pentru mine.
+
+[v2]
+Destul că Isus m-a iertat
+Frica se va sfârși
+Așa cum sunt, azi vin la El,
+El nu mă va goni.
+
+[v3]
+Mă-ncred în al Său minunat
+Și neclintit Cuvânt.
+În numele Lui sunt salvat,
+Salvat prin sânge sfânt.

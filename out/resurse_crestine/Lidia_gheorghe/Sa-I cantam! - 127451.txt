@@ -1,0 +1,42 @@
+[title]
+Sa-i cantam {author: {Lidia Gheorghe}, {rcId: {127451}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: Să-I căntăm!
+Pe Isus să Îl serbăm!
+Numai Lui să ne-nchinăm
+Să-L lăudăm! :/
+Că merită!
+
+[c]
+/: Să-I cântăm!
+Să-L lăudăm!
+Să-I cântăm!
+Să-L lăudăm!
+Să-I cântăm!
+Să-L lăudăm
+Pe Isus! :/
+
+[v2]
+/: Lui să-I dăm
+Grijurile noastre-acum
+Și să ne eliberăm.
+Să-L lăudăm! :/
+Că merită!
+
+[v3]
+/: Să venim
+Cum suntem ’naintea Sa.
+Și Isus ne va primi.
+Ne dă bucurii :/
+Toarnă pacea!
+
+[v4]
+/: El schimbă
+Inima mea și pe-a ta,
+Simțul meu și pe al tău,
+Prin Duhul Său :/
+Ăsta-i Dumnezeu!

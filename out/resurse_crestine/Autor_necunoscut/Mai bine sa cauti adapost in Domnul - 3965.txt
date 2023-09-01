@@ -1,0 +1,27 @@
+[title]
+Mai bine sa cauti adapost in domnul {author: {Anonim}, {rcId: {3965}}
+
+[sequence]
+c,v1,c2,v2,c2
+
+[c]
+/: Mai bine să cauți adăpost în Domnul
+Decât să te-ncrezi în om. :/
+
+[v1]
+/: Căci omul este-nșelător,
+Ca vremea este schimbător
+Astăzi spune ”
+Da”, mâine ”
+Nu”
+Nu te-ncrede-n om. :/
+
+[c2]
+/: Mai bine să cauți adăpost în Domnul
+Decât să te-ncrezi în cei mari. :/
+
+[v2]
+/: Încrede-te dar în Isus
+În El vei găsi adăpost
+El te-ntărește, te-ajută
+Nu te-ncrede-n om. :/

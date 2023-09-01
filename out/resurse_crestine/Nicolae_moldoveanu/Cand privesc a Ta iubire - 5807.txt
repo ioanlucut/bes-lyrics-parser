@@ -1,0 +1,30 @@
+[title]
+Cand privesc a ta iubire {author: {Nicolae Moldoveanu}, {rcId: {5807}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Cand privesc a Ta iubire, o Ma strabate-un fior sfant
+Caci, din slava si marire, o Ai venit jos pe pamant.
+
+[c]
+Aleluia! Slava Tie, o Cel ce-n locul meu, pe cruce, ai murit!
+Toata slava a Ta fie, o Caci Tu pe mine asa mult m-ai iubit.
+
+[v2]
+Ah, povara-mi de pacate o Tu, Isuse, ai purtat
+Si, din chinuri, de la moarte, o Tu pe mine m-ai scapat.
+
+[v3]
+Eu traiam in ratacire; o Totusi, Tu m-ai cautat
+Si, in urma, cu iubire, o Tot trecutul mi-ai iertat.
+
+[v4]
+Fericit sunt eu acuma, o Impacat prin jertfa Ta;
+Inima mea canta-ntruna: o „
+Aleluia! Osana!”
+
+[v5]
+Al Tau Nume sfant si mare o Fie-n veci, El, proslavit!
+Caci pe mine, din pierzare, o Numai Tu m-ai mantuit!

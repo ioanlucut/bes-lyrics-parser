@@ -1,0 +1,36 @@
+[title]
+Keep me near thee {author: {Barney E. Warren}, {rcId: {100427}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Keep me near Thee, blessed Jesus,
+Keep me near Thee lest I stray;
+With Thy mighty hand uphold me,
+Lead me gently all the way.
+
+[c]
+/: Life without Thee would be dreary,
+Cheerless all my path would be;
+But while walking in Thy presence,
+Heaven’s glory shines on me. :/
+
+[v2]
+Keep me near Thee, precious Savior,
+Many snares are by the way;
+’
+Neath Thy balmy wings protect me,
+Draw me nearer Thee each day.
+
+[v3]
+Help me live so near Thee, Jesus,
+That Thy whispers I may hear,
+Let me feel Thy arms around me
+When the hand of danger’s near.
+
+[v4]
+Draw me nearer, blessed Jesus,
+Closely fold me to Thy breast;
+Pillowed on Thy loving bosom,
+Let me ever sweetly rest.

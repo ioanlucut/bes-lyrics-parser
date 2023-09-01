@@ -1,0 +1,23 @@
+[title]
+An nou si-o inima noua in isus {author: {Ovidiu Liteanu}, {rcId: {3816}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: An nou și-o inimă nouă în Isus
+An nou și o nouă viață în Hristos. :/
+
+[c]
+Slavă mărire și glorie Domnului
+Slavă și glorie lui Dumnezeu
+Slavă mărire și glorie Domnului
+Vesel îi cântă sufletul meu
+
+[v2]
+/: An nou începem cu toții în Isus
+An nou trăi-vom cu toții în Hristos :/
+
+[v3]
+/: An nou și-apoi vesșnicia cu Isus
+An nou pleca-vom cu toții la Hristos. :/

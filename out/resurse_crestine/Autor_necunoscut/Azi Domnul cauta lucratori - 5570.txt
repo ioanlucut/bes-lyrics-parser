@@ -1,0 +1,26 @@
+[title]
+Azi domnul cauta lucratori {author: {Anonim}, {rcId: {5570}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Azi Domnul cauta lucratori, o In lucrul pentru cer,
+Sa fie buni semanatori, o Cat si plugari, la fel.
+
+[c]
+/: Azi sa lucram cu-nflacarare!
+Pana cand nu se face noapte,
+Ca secerisul este mare... Sa lucram cat tine ziua! :/
+
+[v2]
+Pamantul bun, ca cel pustiu, o S-auda Biblia,
+Azi, sa-i chemam, pan’ nu-i tarziu, La mantuirea Sa.
+
+[v3]
+Sa-l semanam la mii si mii o Si una, toti sa fim!
+Ca stelele vom straluci, Sus in Ierusalim.
+
+[v4]
+Coboar-amurgul peste plai... · Lucratorii viei
+Asteapta leul sa le dai, · Plata vesniciei.

@@ -1,0 +1,23 @@
+[title]
+Ai inviat din mortii {author: {Biji din Barbuleati}, {rcId: {193061}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Ai inviat din morti,
+Din lume sa ne scoti.
+Ai inviat Isus,
+Sa ne duci la tine-n ceruri sus. / (2x)
+
+[c]
+Doamne eu, ma inchin,
+Eu ma inchin.
+Doamne eu ma inchin,
+La Tine, ca Esti Bun si Divin. / (2x)
+
+[v2]
+Moartea ai biruit,
+Pe noi ne-ai mantuit.
+Prin sangele varsat,
+Noi suntem cu Tatal impacati. / (2x)

@@ -1,0 +1,23 @@
+[title]
+M-am cercetat in rugaciune {author: {Alexandru Groza}, {rcId: {113217}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+M-am cercetat în rugăciune, am stat de vorbă cu Isus
+I-am spus păcatul ce m-apasă și El prin Duh Sfânt m-a pătruns
+Ce fericire fără margini, mi-a umplut sufletul pribeag
+Să știu că Isus mă iubește, să știu că sunt răscumpărat.
+
+[c]
+/: Mi-am adunat bogății și veșnice bucurii
+Prin rugăciuni și prin credința-n Dumnezeu
+Am fost iertat de păcat și Harul Sfânt mi s-a dat
+Din clipa când Lui m-am predat, am fost salvat. :/
+
+[v2]
+Ce fericire fără margini mi-a umplut sufletul pribeag!
+Să știu că Isus mă iubește, să știu că sunt răscumpărat
+Știu, bogăția pământească se pierde ca rouă în zori
+Mult mai de preț îmi e credința, mult mai de preț mi-e Harul Sfânt.

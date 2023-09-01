@@ -1,0 +1,29 @@
+[title]
+O ce har si bucurie mare {author: {Ioan Hapca}, {rcId: {95255}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Anevoios e-adesea drumul,
+Anevoios și-atât de greu...
+Ce-ași face eu de n-ar fi Domnul
+Păstorul sufletului me?!
+
+[c]
+O, ce har și bucurie mare
+Că suntem turma Domnului
+Și trăim plini de-ncredințare
+Adăpostiți la umbra Lui!
+
+[v2]
+De orice lacrimi și suspine
+Ai parte-n astă lume,
+Învingi orice când peste tine
+E-al Domnului Sfânt Nume.
+
+[v3]
+Când drumu-i greu și-anevoios
+Prielnic doar dușmanului,
+Iubitul Domn, Isus Hristos
+Ne poartă pe brațele Lui.

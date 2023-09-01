@@ -1,0 +1,27 @@
+[title]
+Mireasa mea {author: {Anonim}, {rcId: {55616}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ai incepu sa bajbai prin negru intuneric,
+Ai inceput sa murmuri cand suferinta-i grea,
+Zice-ai ca s-a dus totul nimic nu-i pentru tine,
+Iar crucea ce-a fost data iti pare-atat de grea.
+
+[c]
+/: Mireasa Mea batuta de furtuna,
+Nemangaiato vino, vino :/
+
+[v2]
+Uitat-ai de de nadejde si ce spune Cuvantul,
+Uitat-ai tu de toate pana si legamantul,
+Ai inceput sa murmuri sa mergi stramb pe carare,
+Uitand fagaduinta ceri astfel indurare.
+
+[v3]
+Vezi Tata vezi copii ce mi i-ai dat in lume,
+Se pierd in valuri grele loviti sunt de durere,
+Azi masa este gata odaia-I pregatita,
+Ma duc, Ma duc o Tata c-a sa-i aduc la Nunta.

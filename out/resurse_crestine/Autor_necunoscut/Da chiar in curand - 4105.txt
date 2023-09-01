@@ -1,0 +1,22 @@
+[title]
+Da chiar in curand {author: {Anonim}, {rcId: {4105}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+/: Da, chiar în curând
+Vom vedea toți pe Regele :/ x3
+Aleluia, Aleluia, pe Rege îl vom vedea.
+
+[v2]
+/: Sunt fericit, Isus m-a eliberat :/ x3
+Îi cânt glorie, aleluia, Isus m-a eliberat.
+
+[v3]
+/: Satan m-a legat, Isus m-a eliberat :/ x3
+Îi cânt glorie, aleluia, Isus m-a eliberat.
+
+[v4]
+/: Moarte nu va fi când vom vedea toți pe regele :/ x3
+Aleluia, Aleluia, pe Rege îl vom vedea.

@@ -1,0 +1,23 @@
+[title]
+Am ales {author: {Cătălin Ciuculescu Band}, {rcId: {142739}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Am ales să te iubesc dincolo de toate
+Am ales să te iubesc până la moarte
+/: Încotro vei merge tu voi merge și eu
+Și Dumnezeu va fi cu noi :/
+
+[v2]
+Azi începe viața-n trei: tu și cu mine
+Și cu bunul Dumnezeu, doar El ne ține.
+/: Poa’ să vin-orice, nu ne vom clătina
+Dumnezeu ne va păzi :/
+
+[v3]
+Mă unesc cu tine azi cu bucurie,
+Îți ofer iubirea mea, tu pe-a ta mie.
+/: Nu mai suntem singuri începând de-acum
+Suntem doar un singur trup :/

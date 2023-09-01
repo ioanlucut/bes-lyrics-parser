@@ -1,0 +1,32 @@
+[title]
+Astazi cred ca dumnezeu {author: {Daniel și Emilia Husar}, {rcId: {84781}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: Astăzi cred că Dumnezeu,
+Astăzi cred că Dumnezeu
+Este aici! :/
+
+[c]
+/: Duhul Lui, puterea Lui, aici!
+Duhul Lui, puterea Lui, aici! El e aici
+Duhul Lui, puterea, e aici!
+Căci El ne-a spus că e cu noi,
+Căci El ne-a spus că e cu noi :/
+
+[v2]
+/: Astăzi cred că Dumnezeu,
+Astăzi cred că Dumnezeu
+Ne dă iertare! :/
+
+[v3]
+/: Astăzi cred că Dumnezeu,
+Astăzi cred că Dumnezeu
+Dă Duhul Sfânt! :]
+
+[v4]
+/: Astăzi cred că Dumnezeu,
+Astăzi cred că Dumnezeu
+Dă vindecare! :/

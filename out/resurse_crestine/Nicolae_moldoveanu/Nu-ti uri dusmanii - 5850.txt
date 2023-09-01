@@ -1,0 +1,29 @@
+[title]
+Nu-ti uri dusmanii {author: {Nicolae Moldoveanu}, {rcId: {5850}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Nu-ți urî dușmanii nici în gând măcar,
+Nu-ntrista iubirea cu nici un amar.
+/: Numai bunătatea arma ta s-o faci,
+Și blândețea punte când răspunzi sau taci. :/
+
+[v2]
+Ușa niciodată n-o-ncuia-n zăvor,
+Orișicând să intre bietul călător.
+/: Câinii blânzi să-ți fie, prietenoși oricând,
+Orișicui îți vine dragoste-arătând. :/
+
+[v3]
+Lampa-ți fie-aprinsă cum ai aștepta
+Cineva să-ți vină drag de undeva.
+/: Masa-mbelșugată, patul primitor,
+Totul să se vadă cald și iubitor. :/
+
+[v4]
+Când așa-ți vei face dragostei părtași,
+Vor pleca prieteni câți îți vin vrăjmași.
+/: Și-n a ta căsuță, mai mulți an de an,
+Vei avea doar prieteni și nici un dușman. :/

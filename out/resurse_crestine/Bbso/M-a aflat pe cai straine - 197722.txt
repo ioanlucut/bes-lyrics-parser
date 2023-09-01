@@ -1,0 +1,33 @@
+[title]
+M-a aflat pe cai straine {author: {BBSO}, {rcId: {197722}}
+
+[sequence]
+v1,v2,c,c,v3,c
+
+[v1]
+M-a aflat pe căi străine bunul meu Păstor Isus
+Din adânc și întuneric la lumină m-a adus
+
+[v2]
+M-a luat cu drag pe brațe, de pac6at m-a vindecat
+Hrană din Cuvântul vieții, și putere El mi-a dat
+
+[c]
+Aleluia, Aleluia,
+Voi cânta neîncetat
+Prin Isus am mântuire, fie veșnic lăudat
+Miel preasfânt, Miel divin
+Veșnic Ție mă închin
+M-ai aflat, m-ai mântuit
+Fie numele-Ți slăvit
+Miel preasfânt, Miel divin
+Veșnic Ție mă închin
+M-ai aflat, m-ai mântuit
+Fie numele-Ți slăvit
+
+[v3]
+M-a spalat mantuitorul, haina alba am primit
+M-a sfintit prin al Său sânge
+O cat sunt de fericit,
+O cat sunt de fericit,
+O cat sunt de fericit!

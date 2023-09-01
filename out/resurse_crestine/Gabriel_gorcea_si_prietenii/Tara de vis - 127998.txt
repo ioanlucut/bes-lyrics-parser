@@ -1,0 +1,40 @@
+[title]
+Tara de vis {author: {Gabriel Gorcea și prietenii}, {rcId: {127998}}
+
+[sequence]
+c,v1,c2,v2,c2,v3,c3
+
+[c]
+Țara de vis, țara de vis, țara de vis, Paradis.
+Țara cea de vis, țara ce-o doresc
+Unde vreau să locuiesc!
+Țara cea de vis, țara cea de Sus, unde e Isus!
+
+[v1]
+Trăim vremurile din urmă,
+Isus Hristos din nou va apărea
+Să ia cu El pe cei ce-L așteaptă,
+Să ia cu El în cer, Biserica.
+
+[c2]
+/: Țara cea de vis, țara ce-o doresc
+Unde vreau să locuiesc.
+Țara cea de vis, țara cea de Sus, unde e Isus! :/
+
+[v2]
+Vom lăsa în urma durerea,
+Spre Paradis ne vom îndrepta.
+Vom zbura stoluri după stoluri,
+În vazduh ne vom înalța!
+
+[v3]
+Cu orice neam și orice popor,
+Cu cei ce pe Domnul L-au urmat,
+Vom cânta o cântare nouă
+În Paradis, în Raiul minunat!
+
+[c3]
+Țara de vis, țara de vis, țara de vis, Paradis.
+Țara cea de vis, țara ce-o doresc
+Unde vreau să locuiesc!
+Țara cea de vis, țara cea de Sus, unde e Isus.

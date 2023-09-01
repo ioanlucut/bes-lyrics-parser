@@ -1,0 +1,34 @@
+[title]
+Isuse stiu ca-n viata asta {author: {Ionel Saran Bochis}, {rcId: {89851}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Isuse știu că-n viața asta
+Odată, va veni o zi
+/: În care lungile mele suspine
+Și frământările se vor sfârși :/
+
+[c]
+/: Mi-e dor să Te văd pe Tine, Isuse
+Cât mi-e dor Doamne de Tine!
+Și să te întâlnesc :/
+
+[v2]
+Și-n ziua aceea umbra morții
+Va duce acest corp de lut
+/: Din care eu am fost făcut
+Întâiul bulgăr de pamânt :/
+
+[v3]
+Să zbor, cu-aripi albe spre cer
+Mai sus, mai sus de stele
+/: S-ajung la zările Iubirii
+Ce curg din chipul Tău, Isus :/
+
+[v4]
+Cu ce cântări de bucurie
+Isus, atunci Te voi slăvi
+/: Scapând de-această neagră noapte
+Spre strălucita aceea zi :/

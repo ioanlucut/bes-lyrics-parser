@@ -1,0 +1,37 @@
+[title]
+Seara craciunului nost {author: {Anonim}, {rcId: {3981}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7,v8
+
+[v1]
+/: Seara Crăciunului nost :/
+/: Mare bucurie-a fost :/
+
+[v2]
+/: Și-a fost mare bucurie :/
+/: De așa mare minune :/
+
+[v3]
+/: Și-a pornit călătoria :/
+/: Iosif cu sfânta Maria :/
+
+[v4]
+/: Și s-au dus într-un oraș :/
+/: Să ceară puțin locaș :/
+
+[v5]
+/: Orașul era plin tare :/
+/: Loc pentru ei nimeni n-are :/
+
+[v6]
+/: Și s-au dus la cei săraci :/
+/: Într-un grajd cu oi și vaci :/
+
+[v7]
+/: Acolo-a născut Maria :/
+/: Pe Isus Hristos, Mesia :/
+
+[v8]
+/: Veniți toți să-L lăudăm :/
+/: De El să ne bucurăm :/

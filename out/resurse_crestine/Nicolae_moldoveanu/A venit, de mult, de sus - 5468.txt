@@ -1,0 +1,59 @@
+[title]
+A venit de mult de sus {author: {Nicolae Moldoveanu}, {rcId: {5468}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7,v8,v9
+
+[v1]
+A venit, de mult, de sus
+Păstorul cel bun, Isus,
+/: Și prin lume a umblat
+Oi pierdute a căutat :/
+
+[v2]
+Să le ducă la izvoare,
+Ca de sete să nu moară;
+/: Ușa le-a deschis să iasă
+La pășunea cea aleasă. :/
+
+[v3]
+Dar oile n-ascultau;
+Cu capul se repezeau,
+/: Cu coarnele L-au împuns
+Și, în coastă, L-au străpuns :/
+
+[v4]
+De-a curs apă și mult sânge;
+Cerul a-nceput a plânge...
+/: Soarele s-a-ntunecat,
+Luna-n sânge s-a schimbat. :/
+
+[v5]
+Acum, El e dus din lume
+Să afle la oi pășune
+/: Și poruncă a lăsat
+Oilor ce-au pășunat :/
+
+[v6]
+Oile să se-mpreune,
+Laolaltă să se-adune,
+/: Lupul să nu le mănânce,
+Tâlharul să nu le strice. :/
+
+[v7]
+Păstorul cel blând și bun,
+În ceruri, e dus acum,
+/: Dar, peste puțina vreme,
+Vine iarăși să le cheme, :/
+
+[v8]
+Să le ducă-ntr-o grădină
+Unde vor avea odihnă.
+/: Acolo-n pace vor fi,
+Mai mult nu vor flămânzi, :/
+
+[v9]
+Nici nu vor mai rătăci,
+Căci Domnul le va păzi
+/: Și vor fi, în viitor,
+Doar o turmă și-un Păstor. :/

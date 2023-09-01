@@ -1,0 +1,29 @@
+[title]
+O isus viata mea {author: {William H.Doane}, {rcId: {1845}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O, Isus, viața mea,
+Ce plăcută e prezența Ta,
+Înspre culmile cerești
+Cu iubirea Ta mă însoțești!
+
+[c]
+/: Domnul meu, mă condu
+Și pe drum cu mine fii,
+Mai aproape, zi de zi,
+Până când la Tine voi sosi! :/
+
+[v2]
+Pe-al meu drum obositor
+Tu îmi ești mereu al meu Păstor.
+Sigur calea n-o greșesc,
+Ale Tale mâini mă ocrotesc!
+
+[v3]
+Ție-Ți dau azi inima
+Ca să locuiești pe veci în ea.
+Voi urma al Tău cuvânt
+Cât voi fi, Isuse, pe pământ!

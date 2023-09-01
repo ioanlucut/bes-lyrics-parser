@@ -1,0 +1,30 @@
+[title]
+Vino si lauda-l {author: {Teo Family}, {rcId: {182265}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Israele, încrede-te în Domnul
+Și la plecare și la venire
+Israele, încrede-te în Domnul
+El va rămâne lângă tine.
+
+[c]
+Laudă-L, vino și Laudă-L
+Pentru lucrariile Sale cele mari
+Vino și Laudă-L vino și Laudă-L
+Pentru lucrariile Sale cele mari
+
+[v2]
+Israele, încrede-te în Domnul
+Acolo nu e-nțelepciune
+Israele, adu-ți aminte bine
+Că Domnul luptă pentru tine.
+
+[e]
+El e sfânt, El e sfânt
+Și-ndurarea Lui
+Ține-n veci de veci
+Nimeni nu e ca Domnul
+Care a creat Cerul și pământul.

@@ -1,0 +1,43 @@
+[title]
+Tu pribeag calator {author: {Puiu Chibici}, {rcId: {107111}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Tu, pribeag călător,
+Azi te cheamă cu dor
+Un glas dulce de sus,
+Un Păstor pe nume Isus!
+Căci din turmă ai plecat,
+Fiindcă nu ai ascultat,
+Dar din goluri de stânci
+Și abisuri adânci
+El mereu te-a căutat!
+
+[c]
+Vino acasă degrab’ tu, copil rătăcit,
+Cât ești încă chemat
+Și de cer așteptat, întoarce-te!
+Vino, nu-ntârzia, astăzi te poți salva!
+Cât e încă milos, vino dar, la Hristos,
+Vino, nu amâna!
+
+[v2]
+În desfrâu și-n plăceri
+N-ai să ajungi nicăieri!
+Vei fi într-una hoinar,
+Rătăcind și alergând în zadar!
+Cât mai este-n Calvar o iertare prin har,
+Hai la cruce supus, alte căi spre cer nu-s,
+Te așteaptă Isus!
+
+[v3]
+Dacă astăzi ai vrea să-ți deschizi inima,
+El iertare ți-ar da
+Și de lanțuri te-ar elibera!
+Mâine nu poți să știi dacă tu vei mai fi...
+Când atâția-s ce pier,
+Fă un pas către El,
+Spune ’’
+DA’’ pentru Cer!

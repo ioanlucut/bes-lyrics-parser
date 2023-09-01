@@ -1,0 +1,40 @@
+[title]
+Alege viata sa traiesti {author: {Rafael Dragomir}, {rcId: {151562}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+De câte ori stai și gândești
+Cine-ai fost sau cine ești?
+Dac-ai iubit și dacă iubești,
+În viața cui te dăruiești?
+Suflete, unde tu te regăsești?
+Faci ce e bine sau greșești?
+E greu să cauți când nu știi ce dorești.
+Alege viața să trăiești!
+
+[c]
+/: Alege viața să trăiești,
+Dragostea sfântă s-o primești,
+Pe Dumnezeu tu să-L iubești
+Și de păcat să te ferești :/
+
+[v2]
+De ce să pieri, când poți să fii salvat?
+De ce legat, și nu eliberat?
+De ce murdar, când poți să fii curat?
+De ce căzut, când poți fi ridicat?
+De ce alegi să fii abandonat?
+Când drept de fiu Isus din Cer ți-a dat?
+De ce alegi să fii lipsit, sărac?
+De ce un mort, când viața El ți-a dat?
+
+[v3]
+Alegerea ta e destinul tău,
+Fie bine sau fie rău, tu decizi eternitatea ta,
+Tu decizi între rai și iad!
+Oare știi că Dumnezeu te vrea?
+Că ești creat pentru cetatea Sa?
+Oare știi c-ai preț în ochii Lui?
+Că ești creat să fii copilul Lui?

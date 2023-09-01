@@ -1,0 +1,29 @@
+[title]
+Ce frumos va fi odat acasa {author: {Mitică Delibaș}, {rcId: {200811}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ce frumos va fi odat’ Acasă,
+Nu aici pe-acest pământ,
+Ci Acolo-n cerul sfânt..
+Cu Isus, cu Isus!
+
+[c]
+Rămas cu durere, eu nu te-oi mai vedea,
+Rămas cu tristețe, eu nu te-oi mai gusta,
+Voi sta-n fericire c-un Mire minunat
+În cer Sus.. cu Isus!
+
+[v2]
+Voi zbura spre zările albastre
+Înspre slava lui Hristos,
+În Căminul glorios
+La Isus, la Isus!
+
+[v3]
+Voi cânta un imn al adorării
+Cu al îngerilor cor,
+Mult de-asupra stelelor
+Lui Isus, lui Isus!

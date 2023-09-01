@@ -1,0 +1,41 @@
+[title]
+Traim acum vremea din urma {author: {Daniel Hartie}, {rcId: {82588}}
+
+[sequence]
+v1,c,v2,c,v3,c2,v4,c2
+
+[v1]
+Trăim acum vremea din urmă,
+Așa ne spune Domnul sfânt.
+De veți deschide în Scriptură
+Le-a spus Isus acest cuvânt.
+
+[c]
+Fraților să ne trezim, să ne pocăim
+Căci Domnul Isus Christos vine glorios!
+Dimineața va veni zori s-or ivi
+O ce mare sărbătoarea atuncea va fi.
+
+[v2]
+Priviți doar mersul omeniri
+Cum merg cu toții spre păcat.
+E urâciunea pustiirii
+Pe-acest pământ ce-i blestemat.
+
+[v3]
+Noi așteptăm să vină ziua
+Când Domnul va veni pe nori.
+Încă puțin mai stai în veghe
+Pân’ s-or ivi, ai zilei zori.
+
+[c2]
+Fraților cu toți vegheați, nu vă întinați!
+Cu lucruri de aici de jos că nu-i de folos.
+Totul este trecător pe acest pământ
+Cum zice Eclesiatul; goană după vânt.
+
+[v4]
+Doar o poruncă la-ncheiere
+Aș vrea să-ți las fratele meu.
+Să nu-ți pierzi premiul alergări
+C-atunci va fi de tine greu.

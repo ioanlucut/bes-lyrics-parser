@@ -1,0 +1,54 @@
+[title]
+Unde esti? {author: {Nicolae Moldoveanu}, {rcId: {241041}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Unde ești tu astăzi,
+ /: unde ești? :/ x3
+Unde duce-a ta cărare?
+Spre izvor de viață tu pășești,
+Sau spre veșnică pierzare?
+
+[c]
+Nu te-ascunde, nu te-ascunde,
+Dumnezeu cunoaște toate,
+Ochiul Lui adânc pătrunde,
+Ale tale-adânci păcate;
+Când te cheamă, tu răspunde,
+Din pierzare El te scoate!
+
+[v2]
+Unde ești tu astăzi,
+ /: unde ești? :/ x3
+În lumină minunată,
+Și-n neprihănire te găsești?
+Sau în stare-ntunecată?
+
+[v3]
+Unde ești tu astăzi, unde ești?
+Domnu-ți este ocrotirea?
+Și Ia umbra Lui te odihnești?
+Sau păcatu-ți poartă firea?
+
+[v4]
+Unde ești tu astăzi,
+ /: unde ești? :/ x3
+În iubire-ți scalzi viața?
+Sau în ură neagră tu trăiești?
+- Care chip îți umple fața?
+
+[v5]
+Unde ești tu astăzi,
+ /: unde ești? :/ x3
+În Hristos, pe calea-I sfântă?
+Sau în duhul lumii locuiești?
+Dorul tău spre ce se-avântă?
+
+[v6]
+Te oprește, vezi, o,
+ /: unde ești? :/ x3
+Domnu-ți spune să iei seamă,
+Harul Lui tu vino să-I primești,
+Când te strigă, când te cheamă!

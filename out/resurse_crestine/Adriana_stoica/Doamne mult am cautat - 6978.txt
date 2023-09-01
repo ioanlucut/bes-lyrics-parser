@@ -1,0 +1,41 @@
+[title]
+Doamne mult am cautat {author: {Adriana Stoica}, {rcId: {6978}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Doamne mult am căutat
+Fericirea-n lume
+Ochii mei multe au văzut
+Și-au crezut că-s bune
+Ochii mei s-au înșelat
+Lumea-i trecătoare
+Toate trec aici se duc
+N-au nici o valoare.
+
+[c]
+/: Viata trece, totul trece
+Omule ești doar un călător
+Lângă Isus poți ramane
+Veșnic tânăr și nemuritor. :/
+
+[v2]
+Lângă Tine-s ocrotit
+De orice primejdii
+Tu-mi cunoști viata mea
+Tu pe toate le știi,
+Lângă Tine îmi găsesc
+Pace și-alinare
+De la Tine eu primesc
+Binecuvântare.
+
+[v3]
+Tu îmi ești nădejdea mea
+Tu-mi dai alinare
+Tu îmi ești lumina mea
+Când mi-e greu pe cale,
+Doar Tu ma povățuiești
+Ești mereu cu mine
+Tu ești călăuza mea
+Să ajung cu bine.

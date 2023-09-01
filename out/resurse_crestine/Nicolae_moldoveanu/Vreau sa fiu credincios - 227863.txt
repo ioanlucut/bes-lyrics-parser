@@ -1,0 +1,23 @@
+[title]
+Vreau sa fiu credincios {author: {Nicolae Moldoveanu}, {rcId: {227863}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Vreau să fiu credincios, Domnului Hristos!
+Numai Lui să-I slujesc, cât aici trăiesc!
+
+[c]
+Chiar de sunt pitic, multe pot să zic;
+pot să cânt și eu despre Dumnezeu,
+care m-a zidit și mi-a dăruit
+chipul Lui sfințit, fie-n veci slăvit!
+
+[v2]
+Vreau să-nvăț să mă-nchin Tatălui Divin!
+Să-L ascult ne-ncetat, căci e minunat!
+
+[v3]
+Vreau să știu cum să cred și să mă încred,
+ca să fiu lui Isus credincios supus!

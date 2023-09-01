@@ -1,0 +1,27 @@
+[title]
+Pe ceru-ntins a rasarit o stea {author: {Puiu Chibici}, {rcId: {207632}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pe ceru-ntins a răsărit o stea,
+E semnul că din ceruri a venit
+/: Un Fiu de Rege, de mare Domn, un Fiu de Împărat,
+Un Fiu de Dumnezeu sfânt și curat. :/
+
+[c]
+/: Numai la Betleem, numai la Betleem,
+Pace, speranță și fericire găsești doar la Betleem. :/
+
+[v2]
+Păstorii cei din vale au venit
+La Pruncul ce în iesle S-a născut.
+/: Pân’ la pământ s-au aplecat și I s-au închinat
+Acelui Rege sfânt și minunat. :/
+
+[v3]
+Veniți și noi acum să ne-nchinăm,
+Pe Domnul cel din cer să-L lăudăm,
+/: Căci L-a trimis pe Mesia, pe Fiul Său iubit
+Jos pe pământ, deci fie-n veci slăvit! :/

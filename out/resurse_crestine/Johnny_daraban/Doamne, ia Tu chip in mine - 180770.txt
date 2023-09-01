@@ -1,0 +1,53 @@
+[title]
+Doamne ia tu chip in mine {author: {Johnny Daraban}, {rcId: {180770}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Doamne, ia Tu chip în mine,
+Șlefuiește eul meu,
+Pân-ajung în cer, la Tine,
+Prelucrează-mă mereu.
+
+[c]
+Fie Duhul Tău în mine,
+Călăuză pe pământ,
+Să-mă-ndrume-n a Ta voie
+Și-n lumina celor sfinți.
+
+[v2]
+Pune, Tu, credință-n mine,
+Te rog, schimbă-mi inima,
+Doamne, dă-mi înțelepciune
+Și putere-a Te urma.
+
+[c2]
+Pune-Ți, Tu, pecetea, Doamne,
+Pe al inimii meu dor
+Și, cuprins de-a Ta iubire,
+Să te laud cu fior.
+
+[v3]
+Vreau să vadă toți în mine
+Chipu-Ți blând și iubitor
+Și eterna-Ți bunătate
+Îndreptată către om.
+
+[c3]
+Doamne, aprinde-un foc in mine,
+Ca să ard în slujba ta
+Și să vadă toți în mine
+Marea îndurare-a Ta.
+
+[v4]
+Doamne, cânt a Ta iubire
+Și de Sfântă jertf-a Ta,
+Căci murit-ai pentru mine
+Și-ai luat povara mea.
+
+[c4]
+Mulțumiri Ți-aduc, Isuse,
+Pentru bunătatea Ta,
+Pentru dragoste și pace
+Și credincioșia Ta.

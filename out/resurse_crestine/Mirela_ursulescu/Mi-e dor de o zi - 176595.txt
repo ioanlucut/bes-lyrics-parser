@@ -1,0 +1,33 @@
+[title]
+Mi-e dor de o zi {author: {Mirela Ursulescu}, {rcId: {176595}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mi-e dor de-o zi când va veni
+Isus Hristos al meu Mire
+Când cei aleși cu El vom fi
+În țara unde-i fericire.
+
+[c]
+Acolo moarte nu va fi
+Va fi doar pace și-armonie
+Căci Dumnezeu v-a’mpărăți
+Pe veci va fi al notru Mire
+Acolo n-or mai fi dureri
+Nici încercări nici nopți amare
+Vor fi nespuse mângăieri
+/: În țara unde-i veșnic soare :/
+
+[v2]
+Prin Duhul Sfânt vom fi schimbați
+Cu toți la fel vom fi în Slavă
+Când sus la cer vom fi luați
+O vino Doamne mai degrabă
+
+[v3]
+Pe străzi de aur vom umbla
+Cu Dumnezeu în nemurire
+La masa Lui noi vom serba
+La nunta cea din veșnicie

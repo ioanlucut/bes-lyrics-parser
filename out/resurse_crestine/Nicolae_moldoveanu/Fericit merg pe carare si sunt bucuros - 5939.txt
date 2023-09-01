@@ -1,0 +1,41 @@
+[title]
+Fericit merg pe carare si sunt bucuros {author: {Nicolae Moldoveanu}, {rcId: {5939}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Fericit merg pe carare si sunt bucuros,
+Caci ’naintea mea pe cale merge si Hristos.
+Cand e greu, mi-ntinde mana foarte iubitor;
+Ma conduce pe-a Lui cale, bunul meu Pastor.
+
+[c]
+/: El nu-mi cere lucru mare; ma vrea doar sa-I cant,
+Sa-mplinesc a Lui lucrare si al Sau Cuvant.
+Fericit merg pe carare si sunt bucuros.
+O, ce binecuvantare! Cu El sunt voios... :/
+
+[v2]
+Cand pe calea mea, spre ceruri, apare Satan,
+Domnul meu doar c-o privire l-alunga din drum,
+Eu, in urma lui Isus, atunci merg sa-I cant
+Fericit, ca nu ma lasa singur, pe pamant.
+
+[c2]
+/: Fericit merg pe carare, caci El m-a salvat
+De Satan si de-ncercare... O, ce minunat!
+Fericit merg pe carare si sunt bucuros
+Caci Domnul e Cel Puternic si pe pamant jos. :/
+
+[v3]
+Daca, tot urcand pe cale, eu am obosit,
+Domnul m-a luat in brate, pan’ m-am odihnit;
+El, mi-a zis, cu glasul dulce, ca sa-ncep sa-I cant,
+Caci asa va fi placuta viata pe pamant.
+
+[c3]
+/: Eu atuncea, plin de pace, Ii cant bucuros,
+Fericit ca-n incercare Il vad pe Hristos;
+Fericit merg pe carare numai cu Isus,
+Fericit, ca Lui Ii place ca sa-I fiu supus. :/

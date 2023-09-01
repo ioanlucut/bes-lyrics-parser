@@ -1,0 +1,39 @@
+[title]
+Celui inviat marire {author: {Anonim}, {rcId: {1405}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Celui înviat, mărire!
+Noi strigăm cu toți cântând
+El trezi din mormânt lumea
+Viață și putere dând.
+Soare, tu sol al dreptății
+Cum răsari măreț din nori
+Bezna nopții risipit-ai
+Când te urci strălucitor!
+
+[c]
+/: Isus e viu! Isus e viu!
+Laudă și onoare lui. Amin. :/
+
+[v2]
+Isprăvit-ai Tu în groapă
+Greul Tău Calvar și sfânt
+Multe lacrimi și suspine
+Au sfințit al Tău mormânt.
+Peste groapa Ta deschisă
+Trec toți îngerii în zbor
+Și binecuvântând cântă
+Cu al învierii cor.
+
+[v3]
+Ce măreț ai izbăvit Tu
+Ce făceau dușmanii Tăi
+S-au distrus, s-au nimicit ei
+Ca să nu mai fie răi.
+Doamne, Tu trăiește-n mine
+Eu prin Tine voi urca
+Doamne, fă ca prin mormânt eu
+Să ajung la dreapta Ta.

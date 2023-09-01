@@ -1,0 +1,35 @@
+[title]
+Sa te laud doamne vesnic {author: {Anonim}, {rcId: {6455}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Să Te laud, Doamne, veșnic îmi doresc,
+Pe pământ și-n cerul Tău divin,
+Și, cum primăvara pomii înfloresc,
+De laude-mi fie firul vieții plin.
+
+[c]
+/: Te laud :/ x4
+Pentru toate câte-n viață mi-ai adus,
+Osana-n veci, Isus,
+Te laud.
+
+[v2]
+Pentru dragostea-Ți sublimă, azi Te laud,
+Pentru harul Tău cel minunat,
+Pentru răni și-ncercări Te laud,
+Pentru ruga ce mi-ai ascultat.
+
+[v3]
+Inima-mi va spune-ntruna cât de mult
+Ai turnat din untdelemnul sfânt,
+Peste-al rănilor amar tumult
+Să pot să-Ți cânt și-n umbra norilor.
+
+[v4]
+Tot ce este-n mine Te va lăuda,
+Căci numai pentru Tine trăiesc.
+Să Îți fie-un imn de laudă viața mea
+E tot ce azi Te rog și-mi mai doresc.

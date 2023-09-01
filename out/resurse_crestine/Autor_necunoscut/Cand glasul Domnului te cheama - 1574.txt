@@ -1,0 +1,36 @@
+[title]
+Cand glasul domnului te cheama {author: {Anonim}, {rcId: {1574}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Când glasul Domnului te cheamă,
+O, suflet scump, de ce n-asculți?
+De ce tot mergi pe calea care
+I-a dus in iad, pe cei mai mulți.
+
+[c]
+/: O, vino,-ntoarce-te și lasă
+Păcatele în cari trăiești!
+Din mâna Domnului, iertarea
+Acum, chiar azi, poți s-o primești! :/
+
+[v2]
+De ce-I nesocotești chemarea?
+De ce nepăsător petreci?
+Nu-ți pasă ție de-al tău suflet?
+De ce vrei să ți-l pierzi, pe veci?
+
+[v3]
+Azi ușa harului-i deschisă
+Și poți și tu să treci prin ea;
+Iertarea de păcat, te-așteaptă!
+Oare nici azi, să vii, n-ai vrea?
+
+[v4]
+Să nu mai lasi să treacă vremea!
+Să nu zici: „
+Mâine voi veni!”
+Azi poate-i ultima chemare
+Și mâine, prea târziu va fi.

@@ -1,0 +1,37 @@
+[title]
+Doamne te rog {author: {Lavinia Stan}, {rcId: {236394}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Sufletul te cheama, ce mult inseteaza
+Al meu Pastor
+Dupa-nviorare, dupa Duhul Sfant Mangaietor
+Sufletul trudit-a, prea mult obosit-a
+Doamne te rog
+Peste adunare, duh de-nviorare toarna te rog
+
+[c]
+Doamne te rog
+Mai atinge-ne pe toti si astazi cu al Tau fior
+Duhul Sfant sa se-aprinda Tata si in al Tau popor
+Tine-ne in mana Ta, da-ne puterea Ta Tata te rog
+Doamne te rog
+Mai atinge-ne pe toti si astazi cu al Tau fior
+Duhul Sfant sa se-aprinda Tata si in al Tau popor
+Tine-ne in mana Ta, da-ne puterea Ta Doamne te rog
+Doamne te rog
+Mai atinge-ne pe toti si astazi cu al Tau fior
+Duhul Sfant sa se-aprinda Tata si in al Tau popor
+Tine-ne in mana Ta, da-ne puterea Ta Tata te rog
+Doamne te rog
+Mai atinge-ne pe toti si astazi cu al Tau fior
+Duhul Sfant sa se-aprinda Tata si in al Tau popor
+Tine-ne in mana Ta, da-ne puterea Ta Doamne te rog
+
+[v2]
+Peste omenire valul de-amagire necrutator
+Ochii mult orbeste, inima raneste nepasator
+Multi in atipire fara undelem in vase dorm
+Mirele e gata ii cheama pe-ai Sai la El cu dor

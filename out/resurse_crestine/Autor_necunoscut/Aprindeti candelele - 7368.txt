@@ -1,0 +1,47 @@
+[title]
+Aprindeti candelele {author: {Anonim}, {rcId: {7368}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+Aprindeți candelele,
+Noaptea asta-i Paștele,
+Nu dormiți până la zi
+Poate Domnul va veni.
+
+[v2]
+Aprindeți candelele,
+Luminați sufletele,
+A-nviat Isus Hristos,
+Lumina fără apus.
+
+[v3]
+Aprindeți candelele,
+Să se vadă în lume,
+Înspre nord și înspre vest
+Înspre sud și înspre est.
+
+[v4]
+Cei cu pletele albe,
+Noi, băieți, și voi, fete,
+Toți părinții și copiii,
+Aprindeți lumina Lui.
+
+[v5]
+Aprindeți candelele,
+Luminați sufletele,
+A-nviat din morți Hristos,
+Bezna morții a învins.
+
+[v6]
+Și vedeți candelele
+Să ardă cât mai bine,
+Lumina lor pân’ la zi,
+Tot mai mult se va mări.
+
+[v7]
+Aprindeți candelele,
+Noaptea asta-i Paștele,
+Nu dormiți până la zi,
+Poate Domnul va veni.

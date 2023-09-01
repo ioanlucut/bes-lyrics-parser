@@ -1,0 +1,30 @@
+[title]
+Cantare veche oastea domnului {author: {Costel Constandache}, {rcId: {226572}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Domnul meu cel scump si dulce,
+Viata mea Te cauta,
+Dupa Tine-n veci mi-alearga inima-nsetata!
+/: Fericita si aprinsaminima-nsetata. :/
+
+[v2]
+Ti-a simtit odata Mana inima-mi sarmana
+Si de-atuncea nu-s pe lume maini sa-mi lege-o rana!
+/: Nici o mana nu mai stie
+Sa-mi mai lege-o rana! :/
+
+[v3]
+Alinatu-m-au odata linistile Tale
+Si de-atuncea nu-i pe lume nici o perna moale...
+/: Nu-i pe lume ca iertarea
+Nici o perna moale! :/
+
+[v4]
+O, de n-as fi-aflat, Isuse, dragostea-Ti curata,
+Cui as mai fi dat eu oare inima mea toata?
+/: Multumirea, rugaciunea
+Si iubirea toata! :/
+x2

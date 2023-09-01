@@ -1,0 +1,32 @@
+[title]
+Stau in fata ta {author: {Claudia Benchea}, {rcId: {213697}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Prin arșița verii Tu ai umblat desculț
+Și totul pentru mine ai răbdat
+Ai străbătut deșertul și ai ajuns prin munți
+Și-acolo Isuse te-ai rugat :/
+
+[c]
+/: Acum mă-ntreb Isuse
+Plecându-mi capul jos
+De ce așa de mult
+Pe mine m-ai iubit
+Aș vrea să-mi dau răspunsul
+Dar nu mi-l pot găsi
+Și totuși pentru mine te-ai jertfit :/
+
+[v2]
+/: O, lasă-te descoperit de ființa mea
+Și-o să-nțeleg atunci poate mai multe
+Ajuta-mă sa cuget mereu la legea ta
+Și să mă urc mereu Doamne pe munte :/
+
+[v3]
+/: Acolo vreau să stau în fața ta Isuse
+Cu toată firea mea neînțeleasă
+Și-acolo sus pe munte vreau să-nțeleg eu totul
+Să-ți ințeleg chiar jertfă minunată :/

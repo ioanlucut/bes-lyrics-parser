@@ -1,0 +1,40 @@
+[title]
+Dragostea vine de sus {author: {Anonim}, {rcId: {110089}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Ne-ntrebăm uneori căutând un răspuns
+Vrem să știm când vom fi fericiți
+Strângem multe comori că s-ajungem mai sus
+Și-n final ne simțim amăgiți.
+
+[c]
+Timpul trece în zbor în același decor
+Lăsând în inimi răni care dor
+Din cer se-aude un cor de îngeri cântând ușor
+Dragostea vindecă inimi ce mor.
+Dragostea vine de sus
+Dragostea e din Isus
+Dragostea e din veșnicii
+Și nu va pieri.
+
+[v2]
+Ne-ntrebăm uneori căutând un răspuns
+Vrem să știm când vom fi fericiți
+Strângem multe comori că s-ajungem mai sus
+Și-n final ne simțim amăgiți.
+
+[v3]
+Fericiți noi vom fii numai când vom iubi
+Și-n dragoste mereu vom trăi
+Când peste ani vom privi
+Vor fi doar inimi vii
+Fericiți vom fi doar când vom iubi.
+
+[e]
+Dragostea vine de sus
+Dragostea e din Isus
+Dragostea e din veșnicii
+Și nu va pieri.

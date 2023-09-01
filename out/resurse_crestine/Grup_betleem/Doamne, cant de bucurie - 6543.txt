@@ -1,0 +1,35 @@
+[title]
+Doamne cant de bucurie {author: {Grup Betleem}, {rcId: {6543}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Doamne, cânt de bucurie
+Când văd bunătatea Ta,
+Simt a Ta credincioșie
+Orișicând, în viața mea.
+
+[c]
+/: Vreau să cânt de veselie
+Dimineața-n zori de zi
+Pentru tot ce-mi dărui mie
+Pentru tot ce va veni! :/
+
+[v2]
+Cei sădiți în casa-Ți sfântă
+Ca și cedrii înverzesc.
+Ei stau tari, zidiți pe stâncă
+Și totdeauna rodesc.
+
+[v3]
+Doamne,-ntinde-Ți și spre mine
+Mila, bunătatea Ta
+Și deschide-mi ochii bine
+Să te pot oricând vedea!
+
+[c2]
+Vreau să cânt de veselie
+Și la prânz, și pe-nserat
+Pentru toate câte mie
+Ziua-ntreagă Tu mi-ai dat.

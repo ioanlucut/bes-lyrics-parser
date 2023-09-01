@@ -1,0 +1,29 @@
+[title]
+Ca un fluture {author: {Rebeca Buga}, {rcId: {244336}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ca un fluture
+eu las in urma mea
+Tot ce este rau
+Si e greu în viata mea
+
+[c]
+Isus, iti multumesc
+Că mă-nconjori
+Că mă ridici
+Că mă iubești
+
+[v2]
+Chiar dacă e greu
+Nu voi privi înapoi
+Cu Isus eu merg
+Spre cer biruitor
+
+[v3]
+Cum să nu cânt eu
+Despre cerul minunat
+Unde în veci cu El
+Noi ne vom bucura

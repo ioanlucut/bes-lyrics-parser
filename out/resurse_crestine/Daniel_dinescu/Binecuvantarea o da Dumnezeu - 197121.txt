@@ -1,0 +1,31 @@
+[title]
+Binecuvantarea o da dumnezeu {author: {Daniel Dinescu}, {rcId: {197121}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Dacă chivotu-i plecat din casa ta
+A plecat și binecuvântarea ta
+Roagă-te frate neîncetat
+Fă ca David altădat
+Să vină binecuvântarea in casa ta :/
+
+[c]
+/: Binecuvântarea o dă Dumnezeu
+Acelor ce se incred în El din toată inima
+Încrede-te în Domnul și nu descuraja
+Domnul Isus e de partea ta :/
+
+[v2]
+/: Domnul i-a purtat de grijă lui Ilie
+Când era fugar în peștera pustie
+Oare ție n-ar putea
+Ca să-ți dea Domnul pâinea
+Încrede-te in Dumnezeu nu renunța :/
+
+[v3]
+/: Domnul pe Avram l-a binecuvântat
+Când s-a încrezut în Dumnezeu cu adevărat
+Dacă vrei să fii plăcut înaintea Celui Sfânt
+Sună-l de azi pe Domnul prin Cuvânt :/

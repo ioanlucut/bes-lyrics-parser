@@ -1,0 +1,31 @@
+[title]
+De cand te-am aflat o domnul meu pe tine {author: {Anonim}, {rcId: {217224}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+De când Te-am aflat,
+O, Domnul meu pe Tine,
+Eu sunt cel mai fericit!
+Chiar dacă valuri se izbesc în mine,
+Eu lângă Tine stau neclintit!
+
+[c]
+Căci Tu mi-ai dăruit
+Din pacea Ta
+Și mi-ai legat inima de Tine,
+O, Domnul meu, ești minunat!
+
+[v2]
+De când Te-am aflat,
+O, Domnul meu pe Tine,
+Viața întreagă mi-ai schimbat!
+Mi-ai pus în gură o cântare nouă,
+Ca să Te laud ne-ncetat!
+
+[v3]
+Azi vin ’naintea Ta cu mulțumire,
+Căci ai lucrat în viața mea!
+Mi-ai dăruit speranță și iubire
+Și mi-ai lăsat în suflet liniștea!

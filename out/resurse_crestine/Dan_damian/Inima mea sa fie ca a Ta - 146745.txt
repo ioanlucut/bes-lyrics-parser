@@ -1,0 +1,33 @@
+[title]
+Inima mea sa fie ca a ta {author: {Dan Damian}, {rcId: {146745}}
+
+[sequence]
+v1,c,c2,e
+
+[v1]
+Inima mea să fie ca a Ta,
+Plină de Har și de compasiune!
+Vreau să îi văd pe cei din jurul meu,
+Cum Îi Vezi Tu, Isuse, Domnul meu!
+Cu fapta mea să Te oglindesc, doresc!
+Pe cel căzut să îl ridic ca Tine!
+Dragostea Ta, Domnească-n viața mea!
+Slujirea mea să fie ca a Ta!
+
+[c]
+/: Sunt aici, Isus, trimite-mă pe mine!
+Folosește-mi viața mea pentru Slava Ta!
+Inima mea bate numai pentru Tine!
+Tu îmi Ești de-ajuns și Te voi Lăuda! :/
+
+[c2]
+/: Doamne, ajută-mă! Doamne, învață-mă!
+Doamne ascultă ruga mea!
+Chipul Tău, Isus, tot mai mult aș vrea,
+Să se vadă-n viața mea! :/
+
+[e]
+Sunt aici, Isus, trimite-mă pe mine!
+Folosește-mi viața mea pentru Slava Ta!
+Inima mea bate numai pentru Tine!
+Tu îmi Ești de-ajuns și Te voi Lăuda!

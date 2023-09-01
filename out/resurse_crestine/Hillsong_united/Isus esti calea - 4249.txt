@@ -1,0 +1,31 @@
+[title]
+Isus esti calea {author: {Hillsong United}, {rcId: {4249}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Pun viața mea ’naintea Ta
+Ești singura nevoie-a mea
+Că Te găsesc oricând Te-aș căuta
+Când mi-este greu la Tine vin
+Așa cum sunt, smerit mă-nchin
+Și Te pun din nou pe primul loc.
+
+[c]
+/: Isus ești Calea
+Pentru Tine eu vreau să trăiesc! :/
+
+[v2]
+Când eu Te caut Te găsesc
+În orice loc, orice moment
+Și harul Tău îmi este îndeajuns
+Tu niciodată nu Te schimbi
+Ieri, azi, în veci la fel rămâi
+Mereu așa, pe veci Tu o să fi.
+
+[e]
+Calea, Adevărul și Viața ești
+Ceea ce cred și nu ce văd
+Trăiesc
+Trăiesc doar pentru Tin’!

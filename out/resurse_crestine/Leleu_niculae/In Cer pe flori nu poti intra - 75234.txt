@@ -1,0 +1,29 @@
+[title]
+In cer pe flori nu poti intra {author: {Leleu Niculae}, {rcId: {75234}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+În Cer pe flori nu poți intra
+Când alții s-au luptat
+Căci pentru Mirele Isus
+Chiar viața și-au dat
+
+[c]
+Când lupta e gata
+Vom purta cununa
+Când luptă e gata
+Vom purta cununa
+În Ierusalimul cel nou
+Cununa vom purta
+Cununa în veci de veci
+Când luptă e gata
+Vom purta cununa
+În Ierusalimul cel nou
+
+[v2]
+Trebuie să luptăm neînvinși
+Doamne ajută-ne
+Atacul vrem cât mai învins
+Când vom fi în luptă!

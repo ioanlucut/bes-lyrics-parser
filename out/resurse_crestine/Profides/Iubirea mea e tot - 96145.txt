@@ -1,0 +1,23 @@
+[title]
+Iubirea mea e tot {author: {Profides}, {rcId: {96145}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+/: Cum aș putea să Te iubesc mai mult?
+În vasul meu parfum nu am destul
+Dar, vin acum
+Îngenunchez, cu lacrimi, picioarele să-Ți șterg. :/
+
+[c]
+/: Iubirea mea e tot ce eu pot să-Ți ofer
+Deși e ca un singur strop de ploaie căzut în deșert,
+Însă Tu nu mă iubești pentru ce eu pot să-Ți ofer
+Tu mă iubești pentru că iubire ești! :/
+
+[v2]
+/: Aș vrea să uit tot ce-am iubit,
+Comoara mea, Tu ai devenit
+Mult m-ai iertat, mult vreau să iubesc
+Tot ce am sa-Ți dăruiesc! :/

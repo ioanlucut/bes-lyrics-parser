@@ -1,0 +1,27 @@
+[title]
+Saule saule pentru ce ma prigonesti {author: {Frații din Bărbulești}, {rcId: {173425}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Pe drumul Damascului Saul repede-a plecat
+S-aducă pe ucenici chinuiți, bătuți, legați
+Și-o lumină din cer sus a venit și-așa i-a spus:
+Saule, Saule pentru ce mă prigonești :/
+
+[c]
+Saule, Saule pentru ce mă prigonești
+Spune-mi azi, spune-mi azi, oare Saule de ce?
+
+[v2]
+Tremurând și plin de frică Saul i-a răspuns
+/: Spune-mi Doamne :/ ce ai Tu de spus
+De când am văzut lumina nu mai am de loc vedere
+Tu ești Dumnezeul meu dă-mi din nou te rog putere
+
+[v3]
+Scoală-te și du-te-n grabă du-te pe ulița dreaptă
+Du-te tu la Anania și voi ridica mânia
+Anania s-a temut și pe Domnul l-a crezut
+Pe Saul el l-a primit căci era împuternicit.

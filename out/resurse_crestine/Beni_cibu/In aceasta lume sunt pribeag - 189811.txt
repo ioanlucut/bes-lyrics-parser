@@ -1,0 +1,36 @@
+[title]
+In aceasta lume sunt pribeag {author: {Beni Cibu}, {rcId: {189811}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În această lume sunt pribeag,
+Căutând cu dor un sfânt liman
+Și-am aflat că este dincolo de stele
+O cetate fără de hotar,
+Unde Dumnezeu e Suveran
+Și Hristos acolo sus domnește.
+
+[c]
+/: El este Domnul meu,
+El e cu noi mereu,
+El izbăvire ne-a adus!
+Cu El, în orice greu, înaintez mereu,
+Să fie înălțat Isus!
+
+[v2]
+Din Cuvântul vieții am aflat
+Că Isus prin jertfă m-a salvat
+Și păcatul mi-a iertat, și orice vină.
+Fericirea vieții El mi-a dat,
+Cu nădejde sfântă m-a-mbrăcat
+Și-L aștept cu dor din cer să vină.
+
+[v3]
+Poarta vieții-n Domnul am găsit,
+Când eram pe drumul pustiit,
+O lumină sfântă mi-a redat speranța.
+Nu mai sunt pribeagul rătăcit,
+Sunt copil sfințit și preaiubit,
+Domnului onoare toată viața!

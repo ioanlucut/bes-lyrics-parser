@@ -1,0 +1,29 @@
+[title]
+Ne-om vedea in dimineata {author: {Nicolae Moldoveanu}, {rcId: {5555}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ne-om vedea în dimineața
+Când Mirele va sosi.
+Călătorule, fii gata!
+Cât nu-i prea târziu, să vii!
+
+[c]
+/: Ne vom vedea, :/
+La Isus, în frumosul Paradis!
+/: Ne vom vedea, :/
+Cu toți ce-au ascultat ce El a zis.
+
+[v2]
+Candela aprinsă o ține!
+Pe Hristos Îl așteaptă,
+Căci El a promis că vine.
+Deci, fii treaz și te gată!
+
+[v3]
+Ce fericiți noi o să fim
+Și cât va fii de frumos,
+Când, cu toți cei sfinți ne-ntâlnim,
+Sus la nunta lui Hristos!

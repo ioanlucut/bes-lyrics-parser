@@ -1,0 +1,29 @@
+[title]
+Mai lasa-mi doamne duhul tau {author: {Maria Șimon}, {rcId: {205385}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mai lasă Doamne, Duhul Tău în viața mea,
+Mai lasă-mi înc-o zi a Ta iubire!
+Singur și stingher adeseori mă simt,
+Nu am în lume nici o fericire...
+
+[c]
+Am nevoie de Tine, de puterea Ta,
+Singur eu nu pot înainta!
+Am nevoie de Tine în viața mea,
+Pentru veci să-mi fii alăturea!
+
+[v2]
+Mai lasă stropi de har peste ființa mea,
+Să mă ridic să pot sta în picioare,
+Deseori găsesc în cale piedici mari,
+Pe veci n-aș vrea vreodat’ să mă doboare!
+
+[v3]
+Cuprins de dor în nopți târzii mă uit spre cer
+Și Te zăresc dincol’ de nori și stele...
+Știu că așteptarea va lua sfârșit
+Și lacrimi și dorurile mele!

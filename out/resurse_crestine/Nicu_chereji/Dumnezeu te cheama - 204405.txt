@@ -1,0 +1,36 @@
+[title]
+Dumnezeu te cheama {author: {Nicu Chereji}, {rcId: {204405}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Dacă vrei să ai viață,
+Lasă lumea aceasta, vino la Isus
+Du-te pe genunchi ăn taină
+Spune-i Lui cu lacrimi, tot ce ai de spus.
+
+[c]
+Dumnezeu te cheamă, la inima-ți bate
+Milă încă mai împarte
+Nu amâna pe mâine, dragul meu prieten
+Poate va veni la noapte!
+
+[v2]
+Astăzi încă apa curge,
+Din izvorul veșnic de la Dumnezeu,
+Hai și bea să ai viață
+Isus a plătit păcatu în locul tău!
+
+[v3]
+Nu-i nimic mai scump ca viața
+Orice lucru piere si e trecător
+Stânca mântuirii noastre
+Ne va duce-n slavă!
+Bunul Salvator.
+
+[v4]
+Spală-ți hainele degrabă
+Isus mai așteaptă să te hotărăști
+Până inima-ți mai bate,
+Cere-i azi iertare și ai să trăiești!

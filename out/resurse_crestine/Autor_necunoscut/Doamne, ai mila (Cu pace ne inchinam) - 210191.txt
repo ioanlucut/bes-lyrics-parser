@@ -1,0 +1,31 @@
+[title]
+Doamne ai mila (cu pace ne inchinam) {author: {Anonim}, {rcId: {210191}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Cu pace ne-nchinăm, umili noi Te rugăm:
+Către noi azi să privești, sufletul să-l izbăvești!
+Te rugăm, Te rugăm!
+
+[c]
+Doamne, ai milă! Doamne, ai milă!
+Îndurerați, iar la Tine venim..
+Doamne, ai milă! Doamne, ai milă!
+Primește-ne, doar la Tine privim.
+
+[v2]
+Te rugăm să ne ierți acum, doar pe Tine Te urmăm;
+Doamne-îndură-Te de noi și ne iartă, Te rugăm!
+Iartă-ne, Te rugăm!
+
+[v3]
+În Cartea Ta de-ar fi să scrii păcatele, unde-am fi... ?
+Dar milă îmbelșugată doar Tu reverși!
+
+[c2]
+O, Doamne, iartă-ne! În sânge sfânt spală-ne!
+Îndurerați, iar la Tine venim..
+O, Doamne, iartă-ne! În sânge sfânt spală-ne!
+Îndurerați, doar la Tine venim.

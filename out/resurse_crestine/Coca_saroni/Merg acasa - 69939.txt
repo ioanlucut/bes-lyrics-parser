@@ -1,0 +1,23 @@
+[title]
+Merg acasa {author: {Coca Saroni}, {rcId: {69939}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Sunt doar străină, mă duc acasă
+Isus se-ndreapta spre fața mea
+/: Merg acasă, mă duc acasă
+Și mă grăbesc s-ajung la El :/
+
+[c]
+/: Nori și vânt, nu-mi stați în cale
+Cu Păstorul n-am să cad vre-o dat
+Merg acasă, mă duc acasă,
+Și doar un pic mi-a mai rămas :/
+
+[v2]
+Sunt doar străină, nu-s părăsită
+Isus m-așteaptă, m-așteaptă-n cer
+Merg acasă, mă duc acasă,
+Și mă grăbesc s-ajung la El

@@ -1,0 +1,44 @@
+[title]
+Sange scump (o the blood) {author: {Thomas Miller, Traducere RO}, {rcId: {75834}}
+
+[sequence]
+v1,c,v2,b,c,e
+
+[v1]
+Sânge scump
+al dragostei
+Al vieții preț
+Păcat murdar
+a purtat
+Speranța tuturor
+
+[c]
+Sângele lui Isus m-a spălat
+Sângele lui Isus s-a vărsat
+Jertfă ce-a salvat viața mea
+Sângele e biruința mea.
+
+[v2]
+Fiul Sfânt
+Salvator
+Pentru noi ucis
+Îl văd pe Miel
+Marele EU SUNT
+Păcatul mi l-a luat
+
+[b]
+Sânge-al Mielului
+Sânge-al Mielului
+Sânge-al Mielului
+Ce scump e sângele!
+Jertfă ce-a salvat
+Viața mea
+Sângele e biruința mea.
+
+[e]
+Dragoste
+mai mare nu-i
+Har de nepătruns
+Că în păcat
+Da, chiar și-așa
+El sângele-a vărsat.

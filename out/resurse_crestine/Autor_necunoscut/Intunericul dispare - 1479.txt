@@ -1,0 +1,29 @@
+[title]
+Intunericul dispare {author: {Anonim}, {rcId: {1479}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Întunericul dispare
+E Crăciun!
+S-a născut Mântuitorul
+Îngeri spun.
+
+[c]
+Pace, pace e pe lume
+Pentru cei ce sunt păcătoși
+A venit azi Salvatorul
+Pe pământ.
+
+[v2]
+Melodie îngerească
+Auzim
+Și în iesle Pruncușorul
+Noi găsim.
+
+[v3]
+Cine vine la Isus
+Ca păcătos
+Ia iertare, mângâiere
+E voios.

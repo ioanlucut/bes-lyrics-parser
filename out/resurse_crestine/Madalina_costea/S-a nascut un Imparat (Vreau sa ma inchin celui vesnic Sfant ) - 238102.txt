@@ -1,0 +1,35 @@
+[title]
+S-a nascut un imparat (vreau sa ma inchin celui vesnic sfant ) {author: {Mădălina Costea}, {rcId: {238102}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+S-a născut un Împărat!
+Viață să ne dea, s-a întrupat.
+S-a dezbrăcat de slava pentru mine-un păcătos
+Salvat pe veci eu sunt c-a venit Isus Hristos.
+
+[c]
+Vreau să ma închin celui veșnic Sfânt
+Nu pot sa înțeleg de ce m-ai iubit așa de mult.
+În iesle-ai coborât să ne-ntâlnesti,
+Te-ai născut pe pământ, planul să-l împlinești.
+
+[v2]
+El te așteptă la ieslea sa
+Nu cu aur, smirnă, ci cu inima ta.
+El pentru tine a venit, smereni-a arătat
+În dragostea Sa mare, haina de om a luat.
+
+[v3]
+O, cât as vrea să-L întâlnești
+Și-n viața ta să îl primești!
+El încă stă și bate azi la ușa ta
+Așteaptă să-i deschizi, să-L inviți în viața ta.
+
+[c2]
+Vreau sa îl cunoști pe Salvatorul meu,
+În El găsești tu împlinire-n Fiul lui Dumnezeu!
+E minunat, e glorios
+Ce poate face Dumnezeu in viața unui păcătos.

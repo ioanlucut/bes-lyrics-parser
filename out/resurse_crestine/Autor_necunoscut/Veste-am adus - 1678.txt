@@ -1,0 +1,43 @@
+[title]
+Veste-am adus {author: {Anonim}, {rcId: {1678}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[b]
+Veste-am adus, o veste, o veste
+Veste-am adus, o veste-am adus
+
+[v1]
+Voi oameni buni, ce stați în casă
+Cu o creangă de brad și nuci pe masă
+Noi o veste-am adus
+S-a născut, S-a născut Isus
+Cum porunci Preasfântul Tată
+Născu pe-al Său Fiu, Cea Preacurată
+Noi o veste-am adus
+S-a născut, S-a născut Isus
+
+[c]
+S-a născut Mântuitorul, Domnul și Izbăvitorul
+O veste-am adus, S-a nascut Isus
+
+[v2]
+Sub fulgii albi în ieslea săracă
+Un Prunc a venit pace să facă
+Noi o veste-am adus
+S-a născut, S-a născut Isus
+Pruncul e mic, mare-I menirea
+Din nou pe pământ dumnezeirea
+Noi o veste-am adus
+S-a născut, S-a născut Isus
+
+[v3]
+Din răsărit magii plecară
+Și în Betleem I se-nchinară
+Noi o veste-am adus
+S-a născut, S-a născut Isus
+Și lumii întregi i se arată
+Cel făr’ de-nceput și făr’ de pată
+Noi o veste-am adus
+S-a născut, S-a născut Isus

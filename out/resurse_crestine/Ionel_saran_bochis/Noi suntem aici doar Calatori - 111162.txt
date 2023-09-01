@@ -1,0 +1,47 @@
+[title]
+Noi suntem aici doar calatori {author: {Ionel Saran Bochis}, {rcId: {111162}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Noi suntem aici doar călatori
+Înspre Țara ce-i mai sus de nori
+Casa mea ie pe un munte sus
+Sunt vecin lingă al meu Isus
+/: Ma cuprins un dor de Casă
+/: De gradina ce-a frumoasă :/
+Unde veșnic vom cînta
+/: Și mereu ne-om bucura :/
+Pentru veci Aleluea :/
+
+[v2]
+Mă grabesc s-ajung acum acasă
+Cît soarele mai luminează
+Căci in grabă se inserează
+N-am s-ajung acasă eu degrabă
+/: Casa mea e sus pe munte
+/: Am sa trec o lunga punte :/
+Puntea-i lunga lunecoasă
+/: Calea-i plină si spinoasă :/
+
+[v3]
+Calea-i lungă si ingustă Frate
+Nu poti merge pe ea-n toi de noapte
+Dacă n-ai Tu ulei in Lampă
+N-ai s-ajungi acasă tu în grabă
+/: De aceia Frați iubiți
+/: Voi cu mine va grabiti :/
+Domnu-acasă ne asteaptă
+/: Să mergem la El degrabă :/
+
+[v4]
+Ne asteaptă cu mâna-i intinsă
+Cu lumina tot aprinsă
+Pe cale Isus ne luminează
+Pin-ajungem sus acasa
+/: Ca o pasare maiastra
+/: Vom zbura spre El odata :/
+Vom uita de grijuri toate
+Vom uita de grijuri toate
+Ce aicea ne apasă :/

@@ -1,0 +1,41 @@
+[title]
+Presara pe cararea vietii {author: {Speranța}, {rcId: {111311}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Presară pe cărarea vieții
+Florile speranței
+Parfumul vieții cu Isus
+Fă să-l simtă și alții
+
+[c]
+Gândește-te că-atâția pier
+Fără de speranță
+Ei trec în lumea veșniciei
+Fără de siguranță
+
+[v2]
+Presară pe cărarea vieții
+Florile iubirii
+Căci sunt atâția care azi
+Sunt lăsați uitării
+
+[c2]
+Mai fă să simtă și cei triști
+Că-n lumea cea cu ură
+Trăiesc urmașii lui Isus
+Car’ simt cu cei ce-ndură
+
+[v3]
+Presară pe cărarea vieții
+Florile credinței
+Căci sunt mai rari acei ce au
+Parfumul pocăinței
+
+[c3]
+Când cei din jurul tău doresc
+Un rod bun să primească
+Ajută-i ca prin tot ce-i bun
+În tine să-l găsească

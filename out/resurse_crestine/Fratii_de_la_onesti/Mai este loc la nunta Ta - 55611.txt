@@ -1,0 +1,35 @@
+[title]
+Mai este loc la nunta ta {author: {Fratii de la Onesti}, {rcId: {55611}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Isus iubit când vei veni,
+Mireasa Ta pentru-a răpi,
+Ce scump-a fi aceea zi,
+O Mire drag de ce nu vii?
+
+[c]
+/: Mai este loc la Nunta Ta,
+Unde doresc și mult aș vrea,
+Să fiu chemat de Tin’ Isus,
+Și să ne bucurăm nespus ? :/
+
+[v2]
+Mireasa Te va aștepta,
+În haine albe ca de nea,
+Ce bucurie mare-a fi,
+O, Mire drag, de ce nu vii?
+
+[v3]
+Când marea nuntă-o vei serba,
+Sus în Împărăția Ta,
+Ce veselie mare-a fi,
+O, Mire drag, de ce nu vii?
+
+[v4]
+Aș vrea Isus iubit, aș vrea,
+Să ies și eu ’naintea Ta,
+În haine albe îmbrăcat,
+O, Mire scump și minunat!

@@ -1,0 +1,31 @@
+[title]
+Alege-l pe isus {author: {Vera Bogdan}, {rcId: {215438}}
+
+[sequence]
+v1,c,v2,c,b,c,
+
+[v1]
+Când ești trist, speranță unde găsești?
+Când ești obosit, capul pe ce umăr pleci?
+La ce prieten vei striga, la cine vei privi?
+Te îndemn, privește la Isus!
+
+[c]
+/: Isus iți întinde primul o mână sinceră!
+El nu te va părăsi,
+Singur, nicidecum, nu vei mai fi :/
+/: Isus iți întinde primul o mână sinceră!
+El nu te va părăsi,
+Singur, nicidecum, nu vei mai fi :/
+/: Doar Alege-L pe Isus! :/
+
+[v2]
+Când ești frânt, putere cine iți dă?
+Când ești lovit, cine te apără?
+La ce prieten vei striga, la cine vei privi?
+Te îndemn, privește la Isus!
+
+[b]
+/: Daca astăzi ești împovărat,
+Si te-apasă greu al tău păcat,
+Nu uita, Isus pentru tine a murit! :/ Ca tu sa poți fii mântuit

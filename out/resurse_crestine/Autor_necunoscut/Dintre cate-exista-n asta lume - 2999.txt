@@ -1,0 +1,35 @@
+[title]
+Dintre cate-exista-n asta lume {author: {Anonim}, {rcId: {2999}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Dintre câte-există-n astă lume
+Poți s-alegi și să culegi mereu
+/: Dar la urmă sunt deșertăciune
+Vezi că ți-ai pierdut sufletul tău. :/
+
+[v2]
+Am fost mic copil în frăgezie
+Și de multe ori stam și priveam
+/: Sus de tot în zările albastre
+Și cu mintea nu înțelegeam. :/
+
+[v3]
+Și-am găsit într-una din zile
+O carte ce nu o cunoșteam
+/: Și citind în ea din întâmplare
+Am găsit ceea ce căutam. :/
+
+[v4]
+Înțelesu-acestei cărți prea sfinte
+Este ca-n viața pe pământ
+/: Fiecare să-și păstreze haina
+Nepătată până la mormânt. :/
+
+[v5]
+Deci amice stai și te gândește
+Serios la viața ce-o trăiești
+/: Dacă nu fugi de deșertăciune
+Vei fi chinuit în veci de veci. :/

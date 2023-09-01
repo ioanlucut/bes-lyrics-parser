@@ -1,0 +1,35 @@
+[title]
+M-a aflat pe cai straine {author: {Robert Robinson, John Wyeth}, {rcId: {201057}}
+
+[sequence]
+v1,v2,c,c,v3,c
+
+[v1]
+M-a aflat pe căi străine bunul meu păstor Isus
+Din adânc și întuneric la lumina ma adus
+
+[v2]
+M-a luat cu drag pe brațe, de păcat ma vindecat
+Hrană din cuvântul vieții, și putere el mi-a dat
+
+[c]
+Aleluia, Aleluia,
+Voi cânta neîncetat
+Prin Isus am mântuire, fie veșnic lăudat
+Miel prea sfânt, miel divin
+Veșnic ție mă închin
+Mai aflat, mai mântuit
+Fie-ți numele slăvit.
+
+[b]
+Miel prea sfânt, miel divin
+Veșnic ție mă închin
+Mai aflat, mai mântuit
+Fie-ți numele slăvit
+
+[v3]
+M-a spălat mântuitorul, haină alba am primit
+M-a sfințit prin al său sânge
+O cât sunt de fericit,
+O cât sunt de fericit,
+O cât sunt de fericit!

@@ -1,0 +1,29 @@
+[title]
+Aud ciocanele cum bat {author: {Anonim}, {rcId: {4830}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Aud ciocanele cum bat
+Acolo sus pe-un deal înalt.
+Bate ciocanul tot mereu
+În Sfântul Fiu de Dumnezeu.
+
+[c]
+Pentru mine, pentru tine,
+Pentru noi, la Golgota, ciocanele bat.
+Pentru mine, pentru tine,
+Pentru noi pe Isus L-au răstignit.
+
+[v2]
+Ciocanul bate cuiele
+Să-I pironească mâinile
+Și în picioare I-au bătut,
+Batjocorindu-L ne-ntrerupt.
+
+[v3]
+Când crucea grea au ridicat
+Cu-Acel’ ce-a fost nevinovat,
+Cu sulița coasta-au străpuns,
+Nevinovat sânge a curs.

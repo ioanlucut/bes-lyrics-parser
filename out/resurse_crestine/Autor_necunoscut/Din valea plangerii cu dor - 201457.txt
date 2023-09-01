@@ -1,0 +1,35 @@
+[title]
+Din valea plangerii cu dor {author: {Anonim}, {rcId: {201457}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Din valea plângerii cu dor
+Privesc spre zările senine.
+Te chem, o, Bunule Păstor,
+Să vii și să mă iei la Tine!
+
+[c]
+Spre ceruri se-ndreaptă gândul meu,
+Spre țară sfântă și curată.
+Cu Domnul, cu Dumnezeul meu
+Acolo vreau s-ajung odată
+
+[v2]
+N-am adunat aicea jos
+O pământească bogăție,
+Dar am în ceruri prin Hristos
+Viață pentru veșnicie.
+
+[v3]
+Acum, când lupta-i tot mai grea
+Și cel rău vrea să ne doboare
+Mai dă-ne din puterea Ta,
+Revars-o peste fiecare!
+
+[v4]
+Să ne găsești pe toți veghind
+În dragoste și unitate,
+Spre țară sfântă ’naintând,
+Biruitori să fim în toate.

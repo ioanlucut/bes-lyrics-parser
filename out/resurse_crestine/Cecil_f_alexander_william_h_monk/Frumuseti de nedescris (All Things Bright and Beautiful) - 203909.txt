@@ -1,0 +1,28 @@
+[title]
+Frumuseti de nedescris (all things bright and beautiful) {author: {Cecil F. Alexander, William H. Monk, Traducere RO}, {rcId: {203909}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,v4,c,s,c
+
+[c]
+Frumuseți de nedescris ce Tatăl a creat
+Să trăim ca-n Paradis, atât de minunat.
+
+[v1]
+Privește colo-n zare a stelelor cununi
+Se-ntinde în splendoare o lume de minuni.
+
+[v2]
+E vântul ce adie și apa din izvor
+Un soare ce se ’nalță și pasărea din zbor.
+
+[v3]
+Natura Te mărește, nu pot să tac nici eu
+Și cânt de fericire că sunt copilul Tău.
+
+[v4]
+Le-ai pus în fața noastră și glasuri Tu ne-ai dat
+Să spunem tuturora cât ești de minunat.
+
+[s]
+Tu, Doamne, numai Tu ai făcut cerurile, cerurile cerurilor și toată oștirea lor, și pământul cu tot ce este pe el, mările cu tot ce cuprind ele. Tu dai viață tuturor acestor lucruri, și oștirea cerurilor se închină înaintea Ta. Neemia 9:6

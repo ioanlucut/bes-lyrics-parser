@@ -1,0 +1,35 @@
+[title]
+Eu voi binecuvanta {author: {Speranța}, {rcId: {7101}}
+
+[sequence]
+v1,b,c,v2,c,v3,c
+
+[v1]
+Voi binecuvânta
+Pe Domnul în orce vreme
+Laudele Lui
+Sunt desfătarea mea
+Voi binecuvânta
+Pe Domnul în orce vreme
+
+[b]
+/: Glorie, onoare
+Cânta-voi totdeauna :/
+
+[c]
+Înălțați pe Domnul împreună cu mine
+Să lăudam numele Lui
+Înălțați pe Domnul împreună cu mine
+El e Stânca veacului
+
+[v2]
+Eu am căutat pe Domnul
+Și m-a ascultat
+M-a izbăvit din necaz
+Teama, El a spulberat
+
+[v3]
+Înălțați-l cei ce îl iubiți
+Lăudați-lcei ce îl slujiți
+Căci El va scapă din strâmtorare
+El vă ajută în încercare

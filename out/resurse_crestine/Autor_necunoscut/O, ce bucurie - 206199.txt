@@ -1,0 +1,29 @@
+[title]
+O ce bucurie {author: {Anonim}, {rcId: {206199}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+E noapte afară, tăcere deplină
+Din ceruri coboară, îngerii de lumină
+Coboară s-aducă vestea ce-a bună
+Mesia se naște, un cântec răsună
+
+[c]
+/: O ce bucurie Isus s-a născut
+Nădejdea vieți a celor pierduți
+Oameni și îngeri cântă împreună
+Slavă n-cer si pace pe pământ :/
+
+[v2]
+Păstori aleargă, cuvântul ne spune
+În Betleem e o marea minune
+Aleargă si cântă de bucurie
+S-a născut Mesia pace să fie
+
+[v3]
+Pe cer strălucește o stea călătoare
+Ce conduce Magii din depărtare
+Cu daruri alese vin sa senchine
+Sa născut Mesia ce fericire

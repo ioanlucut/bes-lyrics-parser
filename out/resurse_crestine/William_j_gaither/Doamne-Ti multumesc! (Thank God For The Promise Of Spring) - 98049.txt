@@ -1,0 +1,26 @@
+[title]
+Doamne-ti multumesc (thank god for the promise of spring) {author: {William J. Gaither, Traducere RO}, {rcId: {98049}}
+
+[sequence]
+v1,c,v2,c,s,c
+
+[v1]
+Când pe cer nori grei se-adună
+Și lumina n-o pot vedea
+Printre umbre răzbate-o rază
+Îmi zâmbește Isus prin ea.
+
+[c]
+Doamne-Ți mulțumesc pentru noua viață
+Ce mi-ai dat-o să-Ți slujesc
+Pentru fiecare dimineață
+Cu evlavie, Îți mulțumesc.
+
+[v2]
+De-i pământul numai bulgări
+Și sămânța în el moare
+Am în mine-o nădejde scumpă
+Știu că viață în el are.
+
+[s]
+Adevărat, adevărat vă spun că dacă grăuntele de grâu care a căzut pe pământ nu moare, rămâne singur; dar dacă moare, aduce mult rod. Cine își iubește viața o va pierde; și cine își urăște viața în lumea aceasta o va păstra pentru viața veșnică. Ioan 12:24-25

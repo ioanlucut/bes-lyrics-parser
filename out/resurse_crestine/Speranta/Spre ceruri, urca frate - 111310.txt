@@ -1,0 +1,41 @@
+[title]
+Spre ceruri urca frate {author: {Speranța}, {rcId: {111310}}
+
+[sequence]
+v1,c,v2,c2,c3
+
+[v1]
+Spre ceruri, urcă frate
+Chiar de drumul este greu
+Pe munte, ca și Moise
+Să te-ntâlnești cu Domnul Tău
+
+[c]
+Curând ajungi acasă
+În locul sfânt și minunat
+Iar Domnul îți va da cununa
+Că nu ai coborât, ci ai urcat
+
+[v2]
+Spre ceruri, tu privește
+Ca Ștefan să faci la fel
+Când oamenii lovesc cu pietre
+Tu roagă-te și rabdă ca și el
+
+[c2]
+Curând ajungi acasă
+În locul sfânt și minunat
+Iar Domnul îți va da cununa
+Că nu ai cârtit, ci ai răbdat
+
+[c3]
+Domnul ne așteaptă
+Cerul încă stă deschis
+Când pe porțile mărețe
+Vom intra în Paradis
+
+[c4]
+O, ce mare fi-va ziua
+Când în slăvi, în cerul sfânt
+Se va auzi cântarea
+Sfinților de pe pământ

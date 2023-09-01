@@ -1,0 +1,35 @@
+[title]
+O mama tezaur maret {author: {Puiu și Beni Chibici}, {rcId: {188176}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Din clipa când mi-ai pus un nume
+Și-ai scris cu foc o zi în calendar,
+Atunci tu m-ai adus pe lume
+Și m-ai primit ca pe-un mărgăritar.
+
+[c]
+/: O, mamă, tezaur măreț,
+Tu ești darul cel mai de preț.
+O, mamă, al tău nume sfânt
+E cel mai frumos de pe pământ. :/
+
+[v2]
+M-ai copleșit cu a ta iubire
+Și-n brațe cu mult dor m-ai legănat,
+M-ai alintat cu a ta privire
+Și-o viață fericită tu mi-ai dat.
+
+[v3]
+Tu ești comoara mea iubită
+Cu suflet bun, curat și credincios.
+Tu-mi faci viața împlinită
+Când mă mângâi și îmi șoptești duios.
+
+[v4]
+Fii mamă, binecuvântată,
+Cu viață și cu multe bucurii
+De Preamăritul nostru Tată,
+Iar drumul tău să ducă-n veșnicii.

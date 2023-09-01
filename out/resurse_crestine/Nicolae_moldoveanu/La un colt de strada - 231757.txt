@@ -1,0 +1,19 @@
+[title]
+La un colt de strada {author: {Nicolae Moldoveanu}, {rcId: {231757}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+La un colț de stradă stopul s-a roșit,
+vin mașini grămadă. Iute m-am oprit.
+
+[c]
+Prin Cuvântul Său,
+Dumnezeu îmi pune
+stop la tot ce-i rău,
+liber celor bune
+
+[v2]
+Să veghez în viață alergând sau stând,
+stopul ce mă-nvață să nu-l trec nicicând.

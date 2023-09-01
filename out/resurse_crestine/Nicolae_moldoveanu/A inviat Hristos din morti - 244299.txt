@@ -1,0 +1,35 @@
+[title]
+A inviat hristos din morti {author: {Nicolae Moldoveanu}, {rcId: {244299}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+A înviat Hristos din morți,
+Prin El și noi vom învia,
+Când slava Lui se va ivi,
+Când glasul Lui ne va chema.
+
+[c]
+Vom învia, vom învia,
+Avem credință tare,
+Ce fericiți noi vom cânta,
+În sfânta Sărbatoare!
+
+[v2]
+Uitat va fi orice mormânt,
+În care-am fi zăcaut cândva,
+Și-n al luminii alb veșmânt,
+Spre ceruri ne vom înălța!
+
+[v3]
+Când strălucirea făr-apus,
+A Feței Lui o vom privi,
+Noi sus în Cer lângă Isus,
+De-a pururi ne vom veseli.
+
+[v4]
+A înviat Isus iubit,
+Nădejdea sufletului meu,
+Mântuitorul meu slăvit,
+Prin Tine am să-nviu și eu!

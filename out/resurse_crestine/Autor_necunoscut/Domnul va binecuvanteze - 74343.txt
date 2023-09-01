@@ -1,0 +1,33 @@
+[title]
+Domnul va binecuvanteze {author: {Anonim}, {rcId: {74343}}
+
+[sequence]
+v1,c,v2,c,v3,c,v3,c
+
+[v1]
+Domnul vă binecuvânteze;
+Pe-al Său braț El să vă țină,
+Scutul vostru să rămână,
+Domnul vă binecuvânteze.
+
+[c]
+Până când ne-om vedea
+Și-naintea Lui vom sta,
+El cu noi să fie,
+Până iarăși ne-om putea vedea.
+
+[v2]
+Domnul vă binecuvânteze,
+El pe aripi să vă poarte,
+Pâinea vieții El vă-mparte.
+Domnul vă binecuvânteze!
+
+[v3]
+Domnul vă binecuvânteze;
+Norii greii dacă se ridică,
+Bratul Lui să vă călăuzească.
+Domnul vă binecuvânteze;
+Domnul vă binecuvânteze;
+În iubirea Lui vă țină,
+Să vă dea prin har lumină;
+Domnul vă binecuvânteze.

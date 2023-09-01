@@ -1,0 +1,30 @@
+[title]
+Hai e timpul de-nchinare {author: {Anonim}, {rcId: {782}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Hai, e timpul de închinare!
+Hai, vino să-I dai Lui inima!
+Hai, să cânte fiecare!
+Hai, așa cum ești cu starea ta!
+
+[c]
+Vine o zi când toți se vor închina.
+Vine o zi când toți vor cânta.
+Toți copiii Tăi
+O comoară vor primi din mâna Ta!
+
+[v2]
+Hai, e timpul Lui să I te-nchini
+Hai, e timpul să-I dai inima
+Hai așa cum esti să I te-nchini
+Hai așa cum esti, dă-I inima
+Hai...
+
+[c2]
+/: Într-o zi vor spune toți doar Tu ești Domn
+Într-o zi toți se vor pleca
+Comoara de pret Vei ramane-n veci
+Celor ce Te-aleg :/

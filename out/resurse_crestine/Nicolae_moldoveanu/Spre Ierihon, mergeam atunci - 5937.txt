@@ -1,0 +1,33 @@
+[title]
+Spre ierihon mergeam atunci {author: {Nicolae Moldoveanu}, {rcId: {5937}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Spre Ierihon, mergeam atunci, Străine;
+Între tâlhari, lovit, eu am căzut.
+Ei m-au bătut, cu mâini de sânge pline;
+În pieptul lor, milă nu au avut.
+
+[c]
+/: Nu există altă jertfă, glorioasă ca a Ta!
+Nici o altă mântuire, să poată a mă salva! :/
+
+[v2]
+Pe-același drum, se cobora la vale,
+O, nepăsător, se plimba un levit;
+Dar n-a cunoscut dulceața vorbei Sale,
+Nici preotul ce m-a ocolit.
+
+[v3]
+O, Tu, Străine, nu ai hain-aleasă,
+O, Tu nu dorești moartea nimănui.
+Tu îmi vorbești, cu vocea Ta duioasă...
+Pe-asinul Tău, Doamne, cum să mă sui?
+
+[v4]
+Mult mai târziu, eu Te-am văzut pe Tine:
+Purtai o cruce, cu spini încoronat...
+Și-am înțeles că Tu ești Mielul,
+Care păcatul lumii întregi ai purtat.

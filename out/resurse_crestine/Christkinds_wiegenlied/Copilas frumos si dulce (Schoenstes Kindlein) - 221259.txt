@@ -1,0 +1,23 @@
+[title]
+Copilas frumos si dulce (sch"onstes kindlein) {author: {Christkinds Wiegenlied, Traducere RO}, {rcId: {221259}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Copilaș frumos și dulce
+Minunat și bun Păstor
+Te chemăm cu bucurie
+Fii al nostru Salvator!
+
+[v2]
+Ale noastre inimi calde
+Întărite-n al Tău har
+Ți se-nchină, slujitoare
+Preamărind frumosu-Ți dar.
+
+[v3]
+Te mărim Isuse, Doamne
+C-ai venit pe-acest pământ
+Ești a noastră mângâiere
+Ne conduci la Tatăl sfânt.

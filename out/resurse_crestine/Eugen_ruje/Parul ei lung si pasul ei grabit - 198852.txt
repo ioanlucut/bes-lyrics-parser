@@ -1,0 +1,42 @@
+[title]
+Parul ei lung si pasul ei grabit {author: {Eugen Ruje}, {rcId: {198852}}
+
+[sequence]
+v1,c,v2,c,s,c
+
+[v1]
+Parul ei lung si pasul ei grabit
+Spuneau din departari ca e Maria
+Dar mai devreme ca si-n oricare zi
+Ea alerga pe strazile pustii
+Cu doru-n piept si ganduri doar spre El
+Cu inima zdrobita de durere
+Cu vasul cel cu mir mirositor
+Ea nu stia dar alerga inspre mormantul gol
+
+[c]
+Cine esti? Unde l-ai pus?
+Nu mai sta pe ganduri dus
+Spune-mi omule, unde e Isus?
+Vasul meu e plin cu mir, vreau ranile sa-i alini
+Caci El a fost singurul om care m-a iubit.
+A inviat Isus din morti,
+Ea alerga spunand la toti
+Oameni buni, Hristos a inviat!
+El este cel adevarat, chiar si pe moarte a calcat
+El este singurul care a inviat!
+
+[v2]
+A inceput sa planga hohotind
+Dar la o soapta, ea a tresarit
+„
+Eu sunt Maria, Eu am inviat
+Asa cum este scris, s-a intamplat
+Priveste palmele si fruntea mea
+Eu am fost mort, dar azi sunt viu, Maria
+Tu du-te acum si spune-le la toti
+Cum este scris s-a intamplat,
+Am inviat din morti!”
+
+[s]
+Rx2: S2: Rx2

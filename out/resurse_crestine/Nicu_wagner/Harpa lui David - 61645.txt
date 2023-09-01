@@ -1,0 +1,42 @@
+[title]
+Harpa lui david {author: {Nicu Wagner}, {rcId: {61645}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+E amurg, se-mbrățișează,
+Își dau mâna și fac schimb,
+Ziua pleacă, ’naintează
+Noaptea argintie-n nimb,
+Vântul serii parcă-l cheamă
+Iar la harpă pe David,
+Lungi ecouri, blând destramă,
+Al cântărilor bolid.
+
+[c]
+/: Ce-acorduri sublime, șuvoi se revarsă
+Din harpa divină în cânt ușor,
+Cuprinde în cântec doar glorii, doar slavă
+Spre lauda Acelui în veci Salvator. :/
+
+[v2]
+Jos în vale-n depărtare
+Răspund turmele de oi,
+Și Sionul sfânt din zare
+Răspund de-odată-n șuvoi.
+Stelele pe boltă cântă
+Munți și văi răspund cu zor
+Și prin simfonia sfântă,
+Îl slăvesc toate în cor.
+
+[v3]
+S-au stins toate, a sa harpă
+El și-a așezat-o-n cui,
+Și plecă senin să doarmă,
+Visa și-n somn harpa lui,
+Se trezi-n noapte copilul
+Și-auzii coardele-n cânt,
+’
+Luneca prin ele vântul,
+Cântul sfânt continuând.

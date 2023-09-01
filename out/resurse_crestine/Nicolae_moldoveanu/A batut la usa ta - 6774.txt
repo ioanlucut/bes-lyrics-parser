@@ -1,0 +1,45 @@
+[title]
+A batut la usa ta {author: {Nicolae Moldoveanu}, {rcId: {6774}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+/: A bătut la ușa ta cineva
+Și n-a deschis nimenea :/
+În tăcerea negrei nopți
+Stă un om și plânge,
+/: Fața Lui e numai răni,
+Pieptul numai sânge. :/
+
+[v2]
+/: Cine ești străin pribeag, cine ești?
+De-al cui dor Tu pribegești? :/
+Pentru cine Te-au brăzdat
+Bice fără număr?
+/: Ce povoară Ți-a lăsat
+Rana de pe umăr? :/
+
+[v3]
+/: Eu sunt robul ce slujesc tuturor
+Un om al durerilor :/
+Nimeni plată nu Mi-a dat
+Numai spini și ură
+/: Numai roșii trandafiri
+Pieptul Mi-l umplură :/
+
+[v4]
+/: Eu sunt Pâinea ce s-a frânt lumii-ntregi
+Și sunt Vinul noii legi :/
+N-am venit să plâng în drum
+Răni usturătoare
+/: Plâng pe cei ce pierd acum
+Ultima chemare... :/
+
+[v5]
+/: A bătut la ușa ta cineva
+O deschide-I nu mai sta. :/
+Nu lăsa să plece trist
+Poate niciodată
+/: Mâna Lui la ușa ta
+N-are să mai bată :/

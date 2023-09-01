@@ -1,0 +1,22 @@
+[title]
+Sunt prieten cu dumnezeu {author: {Anonim}, {rcId: {65004}}
+
+[sequence]
+v1,c,e
+
+[v1]
+Cine-s eu de mă cunoști pe nume?
+Și mă auzi chiar când Te chem?
+E-adevărat
+Că Te gândești la mine?
+Oh, ce iubire, e-o minune!
+E-o minune, e-o minune!
+
+[c]
+Sunt prieten cu Dumnezeu,
+/: Prieten cu Dumnezeu :/
+Pe nume mă chemi.
+
+[e]
+Domn al gloriei, și al slavei,
+Prietenul Tău mă chemi.

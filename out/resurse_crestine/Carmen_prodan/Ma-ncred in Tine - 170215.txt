@@ -1,0 +1,41 @@
+[title]
+Ma-ncred in tine {author: {Carmen Prodan}, {rcId: {170215}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Mă-ncred în Tine orice s-ar întâmpla
+Doamne, Dumnezeu!
+Cand vine încercarea, oricât ar fi de grea,
+Ești Scutul meu!
+
+[c]
+/: Chiar dacă smochinul nu va-nflori,
+Vița nu va da nici un rod,
+Și rodul măslinului va lipsi
+Eu tot în Tine mă-ncred! :/
+
+[v2]
+Mă-ncred în Tine când vin în fața Ta
+În rugăciuni,
+Știu că ești puternic și poți ca să lucrezi
+Chiar cu minuni!
+
+[c2]
+/: Și dacă alături mii vor cădea,
+La dreapta chiar zeci de mii,
+Pe calea spre ceruri nicicând n-am să cad
+Când Tu, Isuse mă ții :/
+
+[v3]
+Mă-ncred în Tine și tot ce mi-ai promis
+Știu că-mi vei da!
+Și eu ca mulțumire, aș vrea să Te slăvesc
+Toată viața mea!
+
+[c3]
+/: Să stau lângă Tine să mă bucur mereu,
+Cu dragoste să Te slujesc,
+Să-Ți cânt pe vecie cu cei mântuiți
+O, Doamne, asta doresc! :/

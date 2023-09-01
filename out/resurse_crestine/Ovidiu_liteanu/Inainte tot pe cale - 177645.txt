@@ -1,0 +1,34 @@
+[title]
+Inainte tot pe cale {author: {Ovidiu Liteanu}, {rcId: {177645}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Sa cantam cu bucurie Domnului din vesnicie
+: Iata inima-mi porne pe Isus sa-L laude
+asta-I bucuria me’: 
+
+[c]
+Inainte tot pe cale spre neprihanitul Soare
+Inainte si in sus, : credinciosi ai lui Isus: 
+
+[v2]
+Dragostea Dumnezeiasca ea mereu in voi sa creasca
+: Voi intr-una va iertati si iubitiva ca frati
+Pentru Domnul luminati: 
+
+[v3]
+Va-mbracati cu indurare, cu blandete si rabdare
+: Va-mbracati cu dragostea ca Isus ne va lua
+Si in Rai ne-o ridica: 
+
+[v4]
+Mangaiati-va intr-una ca Isus ne da cununa
+: Si ne-o dat arvuna Lui, Duhul Sfant al Domnului
+Ca sa fim ai Tatalui: 
+
+[v5]
+Averi nu va trebuiasca avem Patria Cereasca
+: Suntem binecuvantati fratii mei va bucurati
+Ca in Rai vom fi luati:

@@ -1,0 +1,14 @@
+[title]
+Lasa puterea ta sa vina peste noi {author: {Anonim}, {rcId: {4986}}
+
+[sequence]
+v1,c
+
+[v1]
+Lasă puterea Ta să vină peste noi,
+Lasă puterea Ta să cadă peste noi
+Și ploaia Ta târzie să inunde acest loc.
+
+[c]
+Lasă puterea Ta
+Să cadă peste noi.

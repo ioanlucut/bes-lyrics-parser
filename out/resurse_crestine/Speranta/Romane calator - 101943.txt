@@ -1,0 +1,45 @@
+[title]
+Romane calator {author: {Speranța}, {rcId: {101943}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+În țara unde plânsul inundă mii de ochi mereu
+/: Și frica umple zilnic gândul sărmanilor car’ gem din greu :/
+Puteai să fii și tu și eu
+Însă mila lui Dumnezeu
+Prin dragostea și Harul Său
+Ne-a izbăvit de toate
+
+[c]
+Ascultă plânsul ce te cheamă
+Să-i vii în ajutor
+/: O, nu-ți închide astăzi mâna
+Române călător :/
+
+[v2]
+Acolo unde nu e pâinea pe masă la copii
+/: Căldură, haine, încălțăminte și tot ce-ar trebui :/
+Gândește-te că tu și eu
+Puteam să fim cu mai mult rău
+Însă Mila lui Dumnezeu
+Ne-a izbăvit de toate
+
+[v3]
+Aici, în țara unde tot ai din belșug soră și frate
+/: Împarte în șapte sau în opt și-aruncă-le pe ape :/
+Căci poți oricând și tu și eu
+Chiar și aici să dăm de greu
+Însă la Domnul nu e prea greu
+’
+Napoi a ți le întoarce
+
+[v4]
+A Îl iubi pe Dumnezeu cuprinde și acest gând
+/: De-a-l ajuta pe om la greu și-a da din pâine la flămând
+Și-atunci când Domnul va veni
+Va zice: ”
+Vino robul meu
+Că ai fost credincios aici
+De-acum vei fi cu Dumnezeu”

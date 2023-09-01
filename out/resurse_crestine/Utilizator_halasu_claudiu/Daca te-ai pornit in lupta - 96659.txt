@@ -1,0 +1,35 @@
+[title]
+Daca te-ai pornit in lupta {author: {Utilizator Halasu Claudiu}, {rcId: {96659}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Dacă te-ai pornit în luptă ca și noi,
+Luptă frate, luptă și nu da ’napoi
+
+[c]
+În furtuni și vremuri grele
+La necaz și la durere
+Luptă frate și nu da ’napoi
+Luptă, că Isus este cu noi.
+
+[v2]
+Dacă duci o luptă dreaptă, o să ai mare răsplată
+Luptă frate, luptă și nu da ’napoi
+
+[v3]
+Dacă n-ai sabia în teacă, biruința nu ai, frate
+O, mai luptă, luptă frate și nu da ’napoi
+
+[v4]
+Va fi o zi de sărbătoare, curînd se va ivi în zare
+Luptă frate, luptă și nu da ’napoi
+
+[v5]
+Mai e puțin și va veni, Mireasa lui Isus vom fi
+Mai luptă frate, luptă, că nu va zăbovi
+
+[v6]
+Să fim gata de plecare, când pe cer Mirele apare
+Mai luptă, frate luptă și nu obosi, că mare răsplată vei primi.

@@ -1,0 +1,35 @@
+[title]
+Desi mergem pe o cale ce e grea {author: {Lewis E.Jones}, {rcId: {74334}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Deși mergem pe o cale ce e grea,
+Vom vedea pe Dumnezeu,
+Atunci suferința n-a mai exista,
+Vom vedea pe Dumnezeu.
+
+[c]
+/: Vom vedea pe Dumnezeu,
+Vom cânta în mărire;
+Când ne va chema în jurul tronului,
+Vom vedea pe Dumnezeu. :/
+
+[v2]
+După multe valuri și furtună grea,
+Vom vedea pe Dumnezeu;
+Pe vecie cu El ne vom bucura,
+Vom vedea pe Dumnezeu.
+
+[v3]
+După ce ispitele s-or isprăvi,
+Vom vedea pe Dumnezeu,
+După ce luptă sfântă vom dobândi,
+Vom vedea pe Dumnezeu.
+
+[v4]
+Acolo-n mărire cei care am mers,
+Vom vedea pe Dumnezeu;
+Durerea n-a mai fi, lacrima s-a șters,
+Vom vedea pe Dumnezeu.

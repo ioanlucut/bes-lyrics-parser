@@ -1,0 +1,33 @@
+[title]
+Laudati pe domnul {author: {Speranța}, {rcId: {111341}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Mari sunt lucrările Domnului
+Și cercetate de cei ce le iubesc
+Glorie și slavă e-mprejurul Lui
+Mari sunt isprăvile Lui
+
+[c]
+Lăudați pe Domnul
+Voi toți cei iubiti de El
+Lăudați pe Domnul
+Stânca lui Israel
+
+[v2]
+El și-a arătat minunile Lui
+Față de poporul Său
+Cu braț puternic și mâna tare
+Dovedind ca El e Dumnezeu
+
+[v3]
+Poruncile Lui stau întărite
+Pe stâlpii adevărului
+Ne sunt călăuza către viață
+Spre împărăția cerului
+
+[e]
+Lăudați pe Domnul
+Stânca lui Israel

@@ -1,0 +1,29 @@
+[title]
+Prin credinta noi invingem {author: {Nicolae Zamfir}, {rcId: {220255}}
+
+[sequence]
+v1,v2,c,v3,c
+
+[v1]
+Soarele pe cer ne spune
+Încă o zi ne-ai mai lăsat
+Este un har pentru oricine
+Să te laude nencetat
+
+[v2]
+Dragostea Ta Doamne spune
+Că există veșnicie
+Și doar ea aici ne ține
+Să fim gata de răpire
+
+[c]
+Prin credință noi învingem
+Tot ce ni se pare greu
+Prin credință noi ajungem
+Sus în cer cu Dumnezeu
+
+[v3]
+Bunătatea te ne spune
+Cat de mult tu ne iubesti
+Și în cer când vom ajunge
+Vom cânta ce mare esti

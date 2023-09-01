@@ -1,0 +1,25 @@
+[title]
+Mare-i domnul {author: {Alexandru Groza}, {rcId: {192952}}
+
+[sequence]
+v1,b,c,v2,c,e
+
+[v1]
+Mare-i Domnul și plin de-ndurare - despre dragostea Lui voi cânta
+El domnește în slavă, în ceruri, El domnește în inima mea
+
+[b]
+Zi de zi brațul Lui mă conduce, bucurii în necaz eu primesc
+Eu îi cânt că-L iubesc, numele-I preamăresc, El domnește în ființa mea
+
+[c]
+Dumnezeu mă iubește, dulce e iubirea Lui
+Harul Lui mă întărește când slăvesc Numele Lui.
+
+[v2]
+Mare-i Domnul și plin de-ndurare - bucurați-vă-n Numele Lui
+El din ceruri ne dă îndurarea, preamăriți sfințenia Lui
+
+[e]
+Dumnezeu mă iubește, dulce e iubirea Lui
+Harul Lui mă întărește, eu cânt Slavă Domnului!

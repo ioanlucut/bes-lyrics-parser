@@ -1,0 +1,23 @@
+[title]
+O doamne isuse noi te preamarim {author: {Surorile Ciui}, {rcId: {1584}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+O, Doamne Isuse, noi Te preamărim
+Că ne dai și astăzi bucurii din plin,
+Copilașii astăzi înainte-Ți stau,
+O, Doamne Isuse, binecuvântă-i.
+
+[c]
+/: Doamne, binecuvântă pe copilași, azi,
+Noi Te rugăm
+Dă-le a Ta iubire
+Și fericirea din harul Tău. :/
+
+[v2]
+De vin clipe grele în viața lor
+S-alerge la Domnul în a Lui brațe,
+Domnul plin de milă îi va ajuta
+De e nor sau soare în viața lor.

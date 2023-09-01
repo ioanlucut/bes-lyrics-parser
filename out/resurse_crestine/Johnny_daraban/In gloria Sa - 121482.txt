@@ -1,0 +1,29 @@
+[title]
+In gloria sa {author: {Johnny Daraban}, {rcId: {121482}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+Cântăm Domnului căci ne-a salvat,
+Povara cea grea din suflet ne-a luat,
+În schimb pacea Lui în noi a revărsat,
+Căci e Dumnezeu cu-adevărat.
+
+[c]
+Măreață va fi ziua învierii,
+Când ne vom trezi în gloria Sa,
+Vom fi fericiți și-un imn vom cânta
+Cânta-vom cu toți pentru Regele ’nost.
+
+[v2]
+Aici pe pământ suntem peregrini,
+Căci ne îndreptăm spre casa de sus,
+Vom fi cu cei dragi și-un imn vom cânta
+În raiul ceresc, la Isus.
+
+[b]
+Nu știm ziua și nici ceasul,
+Când Isus ne va chema,
+Deci întoarce-te la Domnul,
+Schimbă-ți astăzi viața ta.

@@ -1,0 +1,35 @@
+[title]
+Un cuvant pentru toti azi rasuna {author: {Fratii Pal}, {rcId: {239127}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Un cuvânt pentru toți azi răsună
+E Cuvântul sfânt și curat
+Ne aduce la toți vestea bună
+A credinței în Cel ce-a-nviat!
+
+[c]
+/: Să ne-ncredem dar Isus
+Noi vom fi învingători
+Doar cu Isus, prin încercări
+Vom ieși mereu biruitori :/
+
+[v2]
+Cel ce-a spus ca să fie lumină
+E Iehova Cel veșnic și sfânt.
+Prin Isus mi-a iertat a mea vină
+Și prin El azi eu sunt ceea ce sunt
+
+[v3]
+De-i amară și grea suferința
+Ce apasă pe umerii tăi.
+Nu uita căci prin toate credința
+Te va ține mereu între-ai Săi
+
+[v4]
+Când prin valea umbrită a morții
+Trecem azi fiecare pe rând
+De Isus ne e țelul vieții
+Îl vom vedea revenind în curând

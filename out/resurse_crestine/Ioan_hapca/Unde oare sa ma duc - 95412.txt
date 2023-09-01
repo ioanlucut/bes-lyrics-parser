@@ -1,0 +1,31 @@
+[title]
+Unde oare sa ma duc {author: {Ioan Hapca}, {rcId: {95412}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Unde oare să mă duc
+Și pe ce cărări să-apuc
+Căci toate-s întunecate
+Și-ndreptate înspre moarte!
+
+[c]
+Doar Tu ai Cuvântul vieții,
+Tu Ești Domnu-Eternității...
+Doar în Tine-i mântuire,
+Libertate, har, iubire...
+Tu Ești Domnu-Atotputernic
+Tu Ești Dumnezeul veșnic!
+
+[v2]
+Sunt încredințat Stăpâne
+Că nu-i nimenea ca Tine;
+Drept, Bun, Sfânt și Iubitor
+Și plin de Har Mântuitor.
+
+[v3]
+Nu vreau să mă duc Stăpâne
+Niciodată de la Tine.
+Numai sub aripa Ta
+Îmi doresc pe veci a sta!

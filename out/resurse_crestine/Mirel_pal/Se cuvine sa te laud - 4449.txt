@@ -1,0 +1,25 @@
+[title]
+Se cuvine sa te laud {author: {Mirel Pal}, {rcId: {4449}}
+
+[sequence]
+v1,e,v2,v3,v4
+
+[v1]
+Se cuvine să Te laud Domnul meu
+Se cuvine să Te laud tot mereu.
+
+[e]
+/: Sunt dator și se cuvine, cine altul decât Tine
+M-a iubit și mă iubește tot mereu ? :/
+
+[v2]
+Zi de zi vreau să Te laud Domnul meu
+Zi de zi vreau să Te laud tot mereu.
+
+[v3]
+În tot timpul să Te laud Domnul meu
+În tot timpul să Te laud tot mereu.
+
+[v4]
+Se cuvine să Te laud Domnul meu
+Zi de zi vreau să Te laud tot mereu.

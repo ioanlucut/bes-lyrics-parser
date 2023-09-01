@@ -1,0 +1,32 @@
+[title]
+Este-un rau (crimson river) {author: {Mack Taunton, Traducere RO}, {rcId: {90530}}
+
+[sequence]
+v1,c,v2,c,v3,c,s,c
+
+[v1]
+Este-un râu de veacuri revărsat
+Din Isus crucificat
+Din rana Lui izvor de sânge-a curs
+Jertfa scump-a Mielului Isus.
+
+[c]
+Sânge sfânt, scump și curat
+Spală azi orice păcat
+E nespus de prețuit
+Viață-n dar ne-a dăruit.
+
+[v2]
+Peste vremi, acest râu nesecat
+Ne-a adus harul bogat
+Și-n locul meu Isus a suferit
+Și salvarea, El mi-a dăruit.
+
+[v3]
+Cu Isus voi fi în veșnicii
+Îl slăvesc în orice zi
+Prin sânge sfânt am fost de El iubit
+Cu puterea ce m-a mântuit.
+
+[s]
+Și sângele lui Isus Hristos, Fiul Lui, ne curățește de orice păcat. 1 Ioan 1:7b

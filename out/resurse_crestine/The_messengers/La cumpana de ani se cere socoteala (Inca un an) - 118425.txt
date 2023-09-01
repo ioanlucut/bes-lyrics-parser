@@ -1,0 +1,44 @@
+[title]
+La cumpana de ani se cere socoteala (inca un an) {author: {The Messengers}, {rcId: {118425}}
+
+[sequence]
+v1,v2,v3,v4,e
+
+[v1]
+La cumpăna de ani se cere socoteală
+Fii întelept si fă-ți-o, să nu o facă El
+Gândește-adânc și bine cât timp pierdut-ai oare
+Trăind în nepăsare din timpul dat de El.
+Cât bine ai făcut la cel de lângă tine
+De câte ori tu mâna ți-ai tras-o înapoi
+Pe buze doar cuvinte de dragoste avut-ai
+Sau cu știință-n semeni ai aruncat noroi ?!
+
+[v2]
+Pe-al tău cântar al vieții, ce taler e mai tare
+E firea pământească sau Regele Isus?
+La cine-ai dat mai multă voință și-ascultare
+La lucruri pieritoare sau celor făr-apus ?!
+Știm, toată închinarea o merită doar Domnul
+Aduți aminte acuma cât timp te-ai închinat
+Câtă recunoștință cu mulțumire adus-ai
+Ca jertfă-n anu-acesta și cât L-ai lăudat.
+
+[v3]
+Mandatul mărturiei primit să-l duci la alții
+Căci Isus îi iubește și-i iartă de păcat
+Ai folosit talantul sau îngropat e încă ?
+Când semenul tău piere în moarte și păcat.
+Azi trece Grădinarul, se uită-n pomul vieții
+Găsește numai frunză sau va găsi și rod?
+Va îngriji el pomul, îl va uda să crească
+Sau taie și aruncă tot ce-i uscat în foc ?!
+
+[v4]
+Mă recunosc Isuse și-mi cer iertare Doamne
+Smerit cu pocăință m-aplec sub crucea Ta
+Și-aud jertfa iubirii cum mijlocește-n rugă:
+/: O, Tată sfinte, Tată! Mai lasă-l înc-un an. :/
+
+[e]
+Înc-un an!

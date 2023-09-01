@@ -1,0 +1,29 @@
+[title]
+Triste sunt zilele mele {author: {Ionel Saran}, {rcId: {128256}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Triste sunt zilele mele,
+Triste sunt și supărate!
+Mă gândesc, Doamne, la Tine,
+Zi de zi Te chem la mine! :/
+
+[c]
+/: Și de-ar fi să mor chiar mâine
+Și să n-am nimic în lume,
+Dar sus când mă vei-ntâmpina,
+Să mă pui la dreapta Ta! :/
+
+[v2]
+/: Triste sunt zilele mele
+Dacă nu ești lângă mine!
+Parcă greul de pe lume
+Mă cuprinde și mă ține! :/
+
+[v3]
+/: Dar așa-i lăsat în viață,
+Ca și-o pânză de mătasă
+Dacă azi se rupe tot,
+Mâine se face la loc! :/

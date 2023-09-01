@@ -1,0 +1,32 @@
+[title]
+El shadai {author: {Nicu Wagner}, {rcId: {61692}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Ce imn răsună, ce armonie
+Revarsă îngerescul cor.
+Acele patru făpturi divine
+Il laudă pe Creator.
+
+[c]
+/: Sfânt, Sfânt, Sfânt,
+E Domnul Dumnezeu!
+El Shadai, rostesc la tron mereu. :/
+
+[v2]
+Splendoarea slavei e mai divină
+Când se apleacă cei bătrâni.
+Celui ce-i veșnic ei se închină,
+Spre tron și-aruncă a lor cununi.
+
+[v3]
+Iar tronu-n care Cel sfânt domnește
+E-nconjurat de-un curcubeu.
+Tot cosmosul azi dăinuiește,
+Că-n el tronează Dumnezeu.
+
+[e]
+Cel ce-a fost‚ Cel care este,
+Cel ce vine; Sfânt e Numele Său!

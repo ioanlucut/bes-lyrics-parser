@@ -1,0 +1,29 @@
+[title]
+Cuvinte pline de farmec {author: {Nicu Chereji}, {rcId: {208823}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cuvinte pline de farmec
+Îmi clocotesc în inimă
+Și zic lucrarea mea
+Pe Împărat îl laudă
+
+[c]
+/: Ca pana unui scriitor iscusit
+Să fie și limba mea
+Căci Tu ești Cel mai frumos dintre oameni
+Harul pe buze ți-e turnat:
+
+[v2]
+Îl laud pe Împărat
+Îl laud căci e minunat
+Pământul și-ntreg Universul
+ÎI dau slavă neîncetat
+
+[v3]
+Pe scaunul Tău de domnie
+Isuse Tu cârmuiești
+Ești Sfântul Prinț al păcii
+Și neprihănirea o iubești

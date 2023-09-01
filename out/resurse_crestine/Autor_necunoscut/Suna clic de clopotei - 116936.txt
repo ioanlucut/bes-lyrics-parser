@@ -1,0 +1,35 @@
+[title]
+Suna clic de clopotei {author: {Anonim}, {rcId: {116936}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Sună clic de clopoței
+Și pe dealuri și prin văi
+Căci Crăciunul a venit
+Mesia fie slăvit.
+
+[c]
+Slavă, cinste și mărire
+Cântă toți copiii-n cor
+Astăzi s-a născut Mesia
+Isus, Domnul Domnilor.
+
+[v2]
+Se aud colinzi în sat
+Spun că Isus e-Mpărat.
+S-a născut în Betleem
+Fiu Preasfânt de Dumnezeu.
+
+[v3]
+Ca și Magii din câmpie
+Să-ne-apropiem de El.
+Să-I aducem slavă, cinste,
+Pruncului Emanuel.
+
+[v4]
+Să vestim și noi cu toții
+Despre întruparea Sa
+Să știe toată lumea
+Că Isus e Mesia.

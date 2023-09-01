@@ -1,0 +1,35 @@
+[title]
+In curand noi vom pleca {author: {Anonim}, {rcId: {3606}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+În curând noi vom pleca
+O, ce fericită zi!
+Pe cei dragi vom revedea
+Când ne vom reîntâlni.
+
+[c]
+Vine ziua fericită
+Când vom părăsi pământul
+Aleluia I se cântă
+Când ne vom reîntâlni.
+
+[v2]
+Trec pe malul celălalt
+O, ce fericită zi!
+Cerul se deschide larg
+Când ne vom reîntâlni.
+
+[v3]
+Vreau la Isus să mă duc
+O, ce fericită zi!
+În brațe-I să mă arunc
+Când ne vom reîntâlni.
+
+[v4]
+La picioarele-I vom sta
+O, ce fericită zi!
+Toți un cântec vom cânta
+Când ne vom reîntâlni.

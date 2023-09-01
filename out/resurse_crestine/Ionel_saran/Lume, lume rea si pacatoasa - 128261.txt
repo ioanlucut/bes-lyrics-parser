@@ -1,0 +1,30 @@
+[title]
+Lume lume rea si pacatoasa {author: {Ionel Saran}, {rcId: {128261}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Lume, lume rea și păcătoasă
+M-ai mințit și am crezut în tine
+Tu mi-ai promis fericire
+Dar tu mi-ai dat lacrimi și suspine.
+
+[c]
+Nu te mai iubesc, nu te mai doresc
+Eu de azi te las cu al tău necaz
+Eu am pe Isus, mă iubește mult
+Căci El m-a iertat
+Și azi sunt salvat.
+
+[v2]
+Lume nu mă mai întorc la tine
+Orice-ar fi și mi-ai promite mâine
+Amăgești doar suflete
+Prin minciuni și vise tot amăgitoare.
+
+[v3]
+Azi Îi cânt lui Isus, al meu Domn
+Cânt voios și laud pe Creator
+Mă iubește El mereu
+De aceea mă-n cred în Dumnezeu.

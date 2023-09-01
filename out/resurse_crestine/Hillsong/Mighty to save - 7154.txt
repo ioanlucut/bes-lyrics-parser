@@ -1,0 +1,37 @@
+[title]
+Mighty to save {author: {Hillsong, Traducere RO}, {rcId: {7154}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c,e
+
+[v1]
+Fiecäre căuta mila
+Și dragostea eternă
+Vrem îndurarea Ta
+
+[v2]
+Toate lümea vrea iertare
+Bunătatea unui Rege
+Speranța lumii
+
+[c]
+Doamne, Cel ce mută munții
+Ești un măreț Salvator
+Un măreț Salvator
+Pe veci doar Tu dai mântuire
+Și-ai înviat dintre morți
+Ai înviat dintre morți
+
+[v3]
+Cu tot ce sunt Isuse
+Te rog să mă primești azi
+Umple-mă din nou
+
+[v4]
+Îți dau întreaga-mi viață
+Și tot ce am în mine
+Ție-ți dăruiesc
+
+[e]
+Lasă-ți gloria peste întreg pământ
+Cântăm, pentru slava celui veșnic viu, Isus

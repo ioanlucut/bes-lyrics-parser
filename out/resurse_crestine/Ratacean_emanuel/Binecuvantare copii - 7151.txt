@@ -1,0 +1,29 @@
+[title]
+Binecuvantare copii {author: {Rătăcean Emanuel}, {rcId: {7151}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Dumnezeul dragostei
+Noi te binecuvântăm
+Pentru darul ce le-ai dat
+Numele-Ți glorificăm.
+
+[c]
+Noi te lăudăm în veci
+Pentru Darul Tău
+Vrem și azi să-Ți mulțumim
+Doamne, Dumnezeu
+
+[v2]
+Viața lui pe-acest pământ
+O predăm în Mâna Ta
+Viața-i fie-i legământ
+În prezența Ta să stea
+
+[v3]
+Te rugăm că să-l sfințești
+Pentru-Mpărăția Ta
+Întru stările cerești
+Să Îl crești Doamne, am vrea.

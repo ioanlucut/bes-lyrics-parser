@@ -1,0 +1,42 @@
+[title]
+Am fost pierdut in lume {author: {Daniel Briciu}, {rcId: {240329}}
+
+[sequence]
+v1,v2,v3,e
+
+[v1]
+Am fost pierdut în lume, am fost străin, pribeag și călător,
+Departe de-al său nume, departe de-a iubirii lui fior.
+Am rătăcit ca un străin în noapte,
+Fără să știu ce-nseamnă dragostea,
+Dar într-o zi eu mi-am venit în fire
+Și m-am întors smerit la cel ce m-aștepta,
+„
+Mă-ntorc acasă!”.
+
+[v2]
+Eram încă departe și obosit pășeam umil prin colb.
+Veneam să-mi cer iertare și să-l implor să mă primească rob.
+Dar iată că spre mine el se-ndreaptă,
+Cu fața-n lacrimi m-a îmbrățișat,
+„
+Te rog mă iartă, bunule părinte,
+Și mă primește-acum ca și pe un argat,
+Căci mă-ntorc acasă”.
+
+[v3]
+Dar, iată că pe umeri o haină scumpă el mi-a așezat,
+Și-n deget, ce minune, mi-a pus inelul său de-aur curat.
+„
+O, tată, eu nu merit toate-acestea,
+Căci am păcătuit ’naintea ta”.
+„
+O, fiule, mă bucur că odată
+Pierdut ai fost, dar azi ești iar în casa mea,
+Din nou acasă”.
+
+[e]
+Nicăieri nu este-un loc atât de minunat,
+Nicăieri nu simți că ești un fiu de împărat
+: Ca-n Casa Tatălui, ca-n brațul Domnului,
+Atunci când Isus te-a iertat:.

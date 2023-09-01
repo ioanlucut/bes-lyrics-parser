@@ -1,0 +1,25 @@
+[title]
+Alelu-alelu alelu-aleluia {author: {Anonim}, {rcId: {59175}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,v4,c
+
+[c]
+/: Alelu-alelu, Alelu-aleluia
+Slavă Domnului! :/
+
+[v1]
+/: Slavă Domnului, Aleluia :/ x3
+Slavă Domnului!
+
+[v2]
+/: Noi ÎL așteptăm, Aleluia :/ x3
+Noi ÎL așteptăm.
+
+[v3]
+/: Noi Îl vom vedea, Aleluia :/ x3
+Noi Îl vom vedea.
+
+[v4]
+/: El va reveni, Aleluia :/ x3
+El va reveni.

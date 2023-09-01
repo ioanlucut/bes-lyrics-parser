@@ -1,0 +1,23 @@
+[title]
+Viata mea {author: {Măslinu’}, {rcId: {78329}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+În prezența Ta eu vin
+Și vreau să mă închin
+Că pe Fiul Tău L-ai dat
+Cu-al Său sânge sunt spălat.
+
+[c]
+Viața mea Ție Ți-o dau
+Astăzi Doamne mă predau
+Vreau să fiu pe veci al Tău,
+Iar Tu să fii Domnul meu!
+
+[v2]
+De încercări vor veni
+Vreau lângă mine ca să fii.
+Să mă ții la pieptul Tău,
+Biruitor să fiu mereu.

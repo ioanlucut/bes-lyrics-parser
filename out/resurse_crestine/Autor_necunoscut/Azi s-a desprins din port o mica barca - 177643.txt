@@ -1,0 +1,29 @@
+[title]
+Azi s-a desprins din port o mica barca {author: {Anonim}, {rcId: {177643}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Azi s-a desprins din port o mică barcă
+Cu ea doi tineri au pornit la drum
+Un dor îi mână s-ajungă departe
+La celălalt capăt al noului drum
+
+[c]
+Ferice acel ce șade lângă Domnul
+Lângă iubitul nostru Domn Isus
+Căci barca vieții voastre
+Cu siguranță va ajunge sus
+
+[v2]
+Furtuna mării nu îi înspăimântă
+Căci Isus e conducătorul lor
+El va conduce barca și pe valuri
+Și lor le poate fi ocrotitor
+
+[v3]
+O scumpe Domn, liman al fericirii
+La tine sus aș vrea s-ajung curând
+Mi-e dor, mi-e dor de plaiurile minunate
+Și nu-i departe nici aceasta zi.

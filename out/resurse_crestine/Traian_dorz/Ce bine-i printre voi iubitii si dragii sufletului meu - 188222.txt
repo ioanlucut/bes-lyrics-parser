@@ -1,0 +1,50 @@
+[title]
+Ce bine-i printre voi iubitii si dragii sufletului meu {author: {Traian Dorz}, {rcId: {188222}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ce bine-i printre voi iubiții
+Și dragii sufletului meu
+Iubirea voastră-n mine arde
+Alături de-a lui Dumnezeu
+Întâi e-a Lui apoi aproape
+De ea mi-e dragostea de voi
+/: Hristos și voi mi-ați fost comoara
+Prin lumea asta de noroi :/
+
+[c]
+/: Fiți binecuvântați :/
+Fiți binecuvântați surori iubite și scumpi frați.
+/: Și scumpi frați :/
+
+[v2]
+Ce bine-i printre voi iubiții
+Și scumpii vieții mele-ntregi
+De voi mă strâng ale iubirii
+În veci nebiruite legi
+De voi și de Hristos pe viață
+Și veșnicie sunt legat
+/: Nimic nu va putea desparte
+Ce Dumnezeu a-mpreunat :/
+
+[v3]
+Ce bine-i lângă voi, cu lacrimi
+Îngenunchiați să ne rugăm
+Ce bine-i lângă voi când Sfântul
+Cuvânt ceresc îl ascultăm
+Ce bine-i lângă voi când glasul
+Printre cântari ni-l împletim
+/: Ce bine-i când gândim că-n ceruri
+În veci n-o să ne despărțim :/
+
+[v4]
+Ce bine-i când la despărțire
+Sunt petrecut cu drag de voi
+Ce bine-i când iubirea voastră
+Mă-ntâmpină venind-napoi
+Ce dulce e cu voi la muncă
+Și ce ușor cu voi la greu
+/: Cu voi e Dumnezeu în mine
+Și eu cu voi în Dumnezeu :/

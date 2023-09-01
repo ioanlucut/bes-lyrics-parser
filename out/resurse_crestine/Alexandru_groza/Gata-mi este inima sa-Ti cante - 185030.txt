@@ -1,0 +1,31 @@
+[title]
+Gata-mi este inima sa-ti cante {author: {Alexandru Groza}, {rcId: {185030}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Gata-mi este inima să-Ți cânte
+Un psalm, un cântec nou spre slava Ta, Isuse
+Spre slava Ta și-a Tatălui din cer
+Înalț cântarea mea de laudă.
+În zori de zi Îți cânt cu mulțumire
+Căci sufletul mi-e plin, mi-e plin de-a Ta iubire
+Din ziua când pe Tine Te-am urmat
+Mi-ai binecuvântat viața ne-ncetat.
+
+[c]
+Pământul, mările și toate stelele
+Îți preamăresc Numele Tău și jertfa Ta
+Natura-n jurul meu Te laudă mereu
+Cerurile vestesc, Doamne, iubirea Ta.
+
+[v2]
+Mai de preț ca orișice comoară
+Este iubirea Ta din tot ce mă-nconjoară
+În orice zi Te voi lăuda, Isus
+De jertfa Ta voi spune, voi cânta mereu.
+În zori de zi Îți cânt cu mulțumire
+Căci sufletul mi-e plin, mi-e plin de fericire
+Din ziua când pe Tine Te-am urmat
+Mi-ai binecuvântat viața ne-ncetat!

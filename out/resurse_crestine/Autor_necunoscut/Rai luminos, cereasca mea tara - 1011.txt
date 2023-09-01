@@ -1,0 +1,32 @@
+[title]
+Rai luminos cereasca mea tara {author: {Anonim}, {rcId: {1011}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Rai luminos, cereasca mea țară,
+Căminul celor răscumpărați,
+Cetatea mea cu străzi de aur
+Ești visul meu scump,
+Dorul meu aprins.
+
+[c]
+Odihnă, pace lângă Isus!
+Nu va mai fi suspin, nici plâns.
+
+[v2]
+Iertat prin har, intra-voi acolo,
+Iar Tu, Isuse, m-aștepți cu drag.
+”
+Vino”, îmi spui,
+”
+Căci locul te-așteaptă:
+Cu preț de sânge ți l-am câștigat.”
+
+[v3]
+Rai luminos, cereasca mea țară,
+Căminul celor răscumpărați,
+Cetatea mea cu străzi de aur
+Ești visul meu scump,
+Dorul meu aprins.

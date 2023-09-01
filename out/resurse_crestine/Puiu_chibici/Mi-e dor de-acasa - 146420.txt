@@ -1,0 +1,41 @@
+[title]
+Mi-e dor de-acasa {author: {Puiu Chibici}, {rcId: {146420}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Departe de căsuța cu pridvor
+Împins de lipsuri și necazuri
+Departe de al meu popor
+Purtat de vânturi și talazuri
+De-atâta vreme doar printre străini
+Cu dor în suflet totdeauna
+Mă simt ca floarea între mărăcini
+Ca țara mea nu e niciuna.
+
+[c]
+Mi-e dor de-acasă, mi-e dor de-acasă
+Mi-e dor de-ai țării mele zori
+Mi-e dor de-acasă, mi-e dor de-acasă
+De-ai mei părinți, frați și surori
+
+[v2]
+Pribegi ca și poporul Israel
+Căutând și azi limanuri bune
+Batjocoriți mereu în fel și fel
+Un rege așteptăm să ne adune
+Să ne adune sus in noua țară
+O veșnicie împreună
+Acolo unde-i veșnic primavară
+Și nu mai este vânt și nici furtună.
+
+[v3]
+Să nu mai știm de lacrimi și dureri
+Să dăm uitării suferința
+Să nu mai fie mâine și nici ieri
+Doar cerul să ne fie locuința
+Acolo unde Isus e-mpărat
+Să retrăim copilăria
+In raiul ce aici doar l-am visat
+Si unde-i nesfârșită bucuria.

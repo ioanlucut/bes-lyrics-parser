@@ -1,0 +1,27 @@
+[title]
+Noaptea era linistita {author: {Speranța}, {rcId: {111297}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Noaptea era liniștită, vântul ușor adia
+Când deodată din văzduh, un cor se auzea
+
+[c]
+Îngeri plini de bucurie, cântă dulce și frumos
+Într-o sfântă armonie: ”
+S-a născut Hristos”
+Iar păstorii cu mirare vor să vadă ce s-a spus
+Și în staulul din vale văd Pruncul Isus.
+Hai veniți la Betleem să cântăm Pruncului Sfânt
+Slavă, slavă sus în cer, Pace pe pământ!
+
+[v2]
+Îngerul aduce vestea mai întâi păstorilor
+”
+Astăzi s-a născut în ielse un Mântuitor”
+
+[v3]
+Mare bucurie este pe pământ și-n ceruri sus,
+Cea mai minunată veste, S-a născut Isus

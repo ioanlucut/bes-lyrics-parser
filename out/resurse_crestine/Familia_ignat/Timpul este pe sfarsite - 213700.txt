@@ -1,0 +1,45 @@
+[title]
+Timpul este pe sfarsite {author: {Familia Ignat}, {rcId: {213700}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Timpul este pe sfârșite
+Dar putini azi iau aminte,
+La mesajul ce răzbate prin etern,
+Deșteptarea sus, creștine
+Dumnezeul nostru vine!
+Este timpul să fim gata pentru Cer.
+
+[c]
+Să fim gata,
+Vine Domnul, Maranata
+Pregătit ești să-L întâmpini bucuros?
+Paradisul e răsplata
+Pentru cel ce este gata,
+Și trăiește în așteptarea lui Hristos.
+
+[v2]
+Mulți își părăsesc credința,
+Și resping azi pocăința
+Impietriți fiind, nu le pasă că pier,
+Deșteptarea sus, creștine
+Dumnezeul nostru vine!
+Este timpul să fim gata pentru Cer.
+
+[v3]
+Răul parcă ia amploare
+E răceală-n Adunare
+Și sfințenia-i uitată într-un ungher,
+Deșteptarea sus, creștine
+Dumnezeul nostru vine!
+Este timpul să fim gata pentru Cer.
+
+[v4]
+Duhul lumii tot mai tare,
+Poruncește-n Adunare
+Și cel sfânt, se simte astăzi mai stingher,
+Deșteptarea sus, creștine
+Dumnezeul nostru vine!
+Este timpul să fim gata pentru Cer.

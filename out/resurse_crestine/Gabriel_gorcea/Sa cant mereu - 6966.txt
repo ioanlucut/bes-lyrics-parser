@@ -1,0 +1,29 @@
+[title]
+Sa cant mereu {author: {Gabriel Gorcea}, {rcId: {6966}}
+
+[sequence]
+c,v1,c,v2,c,v3
+
+[c]
+Să cânt mereu, un cântec de mărire,
+Să cânt mereu spre slava Ta, Domnul meu,
+Să cânt mereu, un cântec de slăvire,
+Să cânt mereu, când e bine sau e greu!
+
+[v1]
+/: Doamne, Tu ești pace și-armonie,
+Ești Farul cel aprins și luminos!
+Ești Salvatorul meu, Isus Cristos!
+Ești Salvatorul meu, Isus Cristos! :/
+
+[v2]
+/: Doamne, Tu m-ai adus la viață,
+Din valurile lumii m-ai scăpat!
+Mâna Ți-ai întins și m-ai salvat!
+Mâna Ți-ai întins și m-ai salvat! :/
+
+[v3]
+/: Doamne, Tu ești a mea speranță,
+Ești izbăvirea mea și steagul meu,
+Ești Împărat, Domn și Dumnezeu!
+Ești Împărat, Domn și Dumnezeu! :/

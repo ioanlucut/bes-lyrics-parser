@@ -1,0 +1,29 @@
+[title]
+Nu pot iubi nu pot ierta {author: {Mesagerii Iubirii}, {rcId: {203457}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În lumea-ceasta plină de culoare
+Sunt călător, sunt un pribeag aici
+/: De când Ți-am cunoscut a Ta iubire
+Mă-ndrept spre Țara fără de sfărșit! :/
+
+[c]
+/: Nu pot iubi, nu pot cânta
+Nu pot ierta făr’ de Tine
+Nu pot trăi, nu pot visa
+Nimic sunt fără Tine! :/
+
+[v2]
+Chiar dacă drumul nu-i ușor adesea
+Și spini pe cale întâlnesc mereu
+/: Chair dacă suferința mi-e aproape
+Doresc ca să rămân la pieptul Tău. :/
+
+[v3]
+Dar Tu ai spus că-mi vei rămâne-alături
+Orice ar fi, orice s-ar întâmpla
+/: Chiar de adesea Doamne, sunt nevrednic
+De-a Ta iertare și iubirea Ta! :/

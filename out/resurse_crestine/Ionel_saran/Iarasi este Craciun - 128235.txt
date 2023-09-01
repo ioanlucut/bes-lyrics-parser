@@ -1,0 +1,38 @@
+[title]
+Iarasi este craciun {author: {Ionel Saran}, {rcId: {128235}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Iarăși este Crăciun, cântecele răsună
+Când colindătorii duc vestea în lume
+Din Betleem, al Său Nume
+
+[c]
+/: Căci iată, S-a născut al nostru Sfânt Isus
+De mult, El așteptat, Mesia Împărat. :/
+
+[v2]
+Iarăși este Crăciun
+Cântecele răsună
+Și la fiecare, bucuria-i mare
+Ce iubire și-ndurare.
+
+[v3]
+Iarăși este Crăciun
+Cântecele răsună
+Și la tot săracul
+Și la tot bogatul
+Răsună pe tot pământul.
+
+[v4]
+Iarăși este Crăciun
+Cântecele răsună
+Și la fiecare
+Bucuria-i mare
+Ce iubire și-ndurare
+Cântecele răsună
+Și la tot săracul
+Și la tot bogatul
+Răsună pe tot pământul.

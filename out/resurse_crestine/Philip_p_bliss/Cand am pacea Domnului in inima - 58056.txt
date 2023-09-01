@@ -1,0 +1,29 @@
+[title]
+Cand am pacea domnului in inima {author: {Philip P. Bliss}, {rcId: {58056}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când am pacea Domnului în inimă
+Orice vifor poate veni,
+Și-atunci inima tot așa va cânta:
+„
+Bine e, bine e în Isus!”
+
+[c]
+/: Bine e, bine e în Isus,
+Bine e, bine e în Isus! :/
+
+[v2]
+Satana când stă-n cale și sunt fricos,
+Mă mângâie acest cuvânt:
+„
+Isus a murit pentru mine atunci;
+Sunt curat prin al Său sânge Sfânt!”
+
+[v3]
+El sarcina păcatului a purtat,
+Și sufletul mi-a ușurat;
+Pe cruce pentru mine a sângerat,
+Cântă inima mea lui Isus!

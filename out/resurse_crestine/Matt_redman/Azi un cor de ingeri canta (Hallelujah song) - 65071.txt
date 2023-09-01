@@ -1,0 +1,40 @@
+[title]
+Azi un cor de ingeri canta (hallelujah song) {author: {Matt Redman, Traducere RO}, {rcId: {65071}}
+
+[sequence]
+v1,c,v2,c,v3,b,c
+
+[v1]
+Azi un cor de îngeri cântă
+Cu făpturile din cer.
+Și bătrâni umil se-nchină.
+Aș vrea să vin la tronul Tău
+Cu un simplu cânt.
+
+[c]
+Aleluia, Isus.
+Aleluia, Alelu.
+Aleluia, Isus,
+Inima în față-Ți pun.
+
+[v2]
+Cu făpturile din ceruri
+Laudă, laudă, laudă iar,
+În prezența raiului.
+Aș vrea să vin la tronul Tău
+Cu un simplu cânt.
+
+[v3]
+Ți-aduc laudă ca tămâia,
+O înalț la tronul Tău,
+Iar văzduhu-i plin de cântec,
+De armonii și melodii
+Spre Iubitul meu.
+
+[b]
+Cine poate spune slava
+Ce va fi la tronul Tău?
+Orice om se va pleca
+Pentru Împărat, singurul,
+Cel Preasfânt,
+Noi toți cânta-vom.

@@ -1,0 +1,30 @@
+[title]
+Azi venim la altar {author: {Anonim}, {rcId: {6748}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Azi venim la altar sa rostim juramantul dragostei
+Cad flori din cer cu lacrimi soptite din inalt
+Ne zambesc si ingerii in zborul lor
+Ei nu-nteleg ce taina se ascunde-n noi.
+
+[c]
+Doar Tu ai stiut de la-nceput
+Ce iubire se va naste intre noi
+Doar Tu ne-ai ascuns in dragoste
+Sa ne-ntalnim amandoi
+Numai in Tine.
+
+[v2]
+Dragostea ce ne-a unit e un cantec nesfarsit din Dumnezeu
+Doamne mereu vrem sa raspandim in jur mireasma Ta
+Ca cei din jur sa vada ce-nseamna iubirea
+Sa-nteleaga taina ce se-ascunde-n noi.
+
+[e]
+In amurgul lumii toate-s pe sfarsit
+Dragostea noastra Doamne e un nou rasarit
+Totul in jur e frumos
+Fiindca Tu ne-ai iubit.

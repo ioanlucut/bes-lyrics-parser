@@ -1,0 +1,26 @@
+[title]
+S-a nascut azi isus (gdy sie chrystus rodzi) {author: {Colind polonez, Traducere RO}, {rcId: {143503}}
+
+[sequence]
+v1,c,v2,c,v3,c,s,c
+
+[v1]
+S-a născut azi, Isus! O, ce bucurie!
+Zorii dau de știre, a Lui mântuire.
+
+[c]
+/: Îngerii din ceruri cântă
+Domnului, cu voie bună:
+Gloria, Gloria, Gloria,
+In excelsis Deo! :/ x2
+
+[v2]
+Iosif și Maria, stau și-adoră Pruncul
+Și cu teamă sfântă, ei slujesc pe Domnul.
+
+[v3]
+Se grăbesc păstorii, Pruncul să Îl vadă
+Și cu bucurie, Domnului dau slavă.
+
+[s]
+Slavă lui Dumnezeu în locurile preaînalte și pace pe pământ între oamenii plăcuți Lui. Luca 2:14

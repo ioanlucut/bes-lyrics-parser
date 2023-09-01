@@ -1,0 +1,39 @@
+[title]
+Iubiti frati si dragi surori {author: {Frații Bălan}, {rcId: {144861}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Iubiți frați și dragi surori,
+Să aveți de Sărbători
+Bucurii în Domnul Minunat;
+Iar, la anul de-o să fim,
+Cu iubire să-L slujim,
+Zi de zi, pe-al nostru Împărat!
+
+[c]
+Vedem cum trece timpul ca un sunet
+Și anii se perindă tot mereu;
+Iar noi plecăm în Cer, spre Veșnicie
+Și într-o Zi vom fi la Dumnezeu.
+/: Vedem cum trece timpul ca un sunet
+Și anii se perindă tot mereu;
+Iar noi plecăm în Cer, spre Veșnicie
+Și într-o Zi vom fi la Dumnezeu. :/
+
+[v2]
+În sfințire și mult zel,
+Sub al Domnului Drapel,
+Să slujim cu toți neobosiți;
+Cu o inimă și-un gând,
+Lăudând pe Cel ce-I Sfânt
+Până când, în Cer vom fi primiți.
+
+[v3]
+Nu știm ce-om întâmpina,
+Mai departe, de-om intra
+Într-un an nou, pe acest Pământ;
+Deaceea toți, uniți,
+Să rămânem neclintiți,
+Împlinind al Domnului Cuvânt!

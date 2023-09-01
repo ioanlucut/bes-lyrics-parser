@@ -1,0 +1,29 @@
+[title]
+Pentru mine domnul a rabdat {author: {Speranța}, {rcId: {111010}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+/: Pentru mine Domnul a răbdat
+Pentru tine a fost crucificat,
+Pentru mine Domnul a pătimit
+La Golgota unde S-a jertfit! :/
+
+[v1]
+Eram pierdut pe veci dar Domnul m-a scăpat
+Din lanțurile morții Isus m-a eliberat
+Pe cruce răstignit viața Și-a dat
+Că eu să fiu un om răscumpărat!
+
+[v2]
+Eram în întuneric, în beznă de păcat
+Eram un om pierdut și condamnat la moarte
+Dar Domnul Isus Vina mi-a plătit
+Dându-Și viața fiindcă m-a iubit!
+
+[v3]
+Astăzi Îl slăvesc pe Cel ce m-a iertat
+Pe Isus Hristos, Mielul junghiat,
+Prin sângele Lui am fost scăpat de moarte
+Prin jertfa Sa am iertare de păcate!

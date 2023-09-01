@@ -1,0 +1,29 @@
+[title]
+Hristos a inviat {author: {Carmen Prodan}, {rcId: {153758}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Hristos Domnul nostru din morți a înviat
+Hristos a înviat!
+Mormântul e gol piatra-n lături s-a dat
+E viu cu-adevărat!
+
+[c]
+Oștiri îngerești si voci omenești
+Il laudă neîncetat
+De-un cântec sublim văzduhul e plin
+Hristos a înviat!
+
+[v2]
+Hristos Domnul nostru-mpăratul ceresc
+Din morți a înviat
+S-aducă lumina la cei ce-L primesc
+Și cred cu-adevărat
+
+[v3]
+Hristos a-nviat fericiți ca să fim
+Și-aici și-n ceruri sus
+Lumină, iertare viață primim
+De credem în Isus.

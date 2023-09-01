@@ -1,0 +1,25 @@
+[title]
+Ce frumos se vede de sus {author: {Isaura Dinca  Isaura Gheorgiu}, {rcId: {154076}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: Ce frumos se vede de sus casa acelor cu Isus
+Casa acelor ce cântă mereu și trăiesc cu Dumnezeu :/
+
+[c]
+/: Cântărea răbdării cântăm acum, Domnul Isus este pe drum
+Chiar și munții de s-ar clătina, nu ne îndoim de dragostea Sa :/
+
+[v2]
+/: Domnul Isus le dă har celor cu cortul Che Dal
+Loc de izvoare ce curg tot mereu, e harul lui Dumnezeu :/
+
+[v3]
+/: Ce frumos se vede de sus când facem voia lui Isus
+Că toate aici se vor termina, și la cer ne va lua :/
+
+[v4]
+/: Ce frumos se vede când vrei decizii frumoase să iei
+Să fi mai aproape de cer, de Hristos, trăind în lumină frumos :/

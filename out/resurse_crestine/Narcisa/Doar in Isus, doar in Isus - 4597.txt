@@ -1,0 +1,29 @@
+[title]
+Doar in isus doar in isus {author: {Narcisa}, {rcId: {4597}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când ești singur și întristat
+Când nu ai pe nimenea
+Să îți fie apropiat
+Și fericire să îți dea,
+
+[c]
+Doar în Isus, doar în Isus
+Tu ai tot ce îți dorești
+Doar prin Isus, doar prin Isus
+Tu cu-adevărat trăiești
+
+[v2]
+Când te apăsă întristări
+Când te simți neînsemnat
+Fără binecuvântări
+Sau adesea tulburat
+
+[v3]
+Spune-i Lui durerea ta
+Și El te va ridica
+Mai mult decât poți gândi
+Isus te va răsplăti

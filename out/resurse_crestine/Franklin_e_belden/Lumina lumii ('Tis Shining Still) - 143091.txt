@@ -1,0 +1,32 @@
+[title]
+Lumina lumii ( tis shining still) {author: {Franklin E. Belden, Traducere RO}, {rcId: {143091}}
+
+[sequence]
+v1,c,v2,c,v3,c,s,c
+
+[v1]
+În miez de noapte, o stea se ’nălța
+Cerul strălucea, când ea lumina;
+Cu razele ei, pe magi i-a condus
+Spre ieslea unde, S-a născut Isus.
+
+[c]
+Lumina lumii, e Domnul vieții
+Și azi o vedem, pe drum, tot mereu;
+Lumina lumii, e Domnul vieții
+E Isus Hristos, Domnul glorios!
+
+[v2]
+Cei trei magi știau, ce s-a profețit
+Că un Împărat, în lume-a venit;
+Cu toți au pornit, fiind conduși de stea
+Să se-nchine Lui, daruri să Îi dea.
+
+[v3]
+Și noi vom umbla, în lumina Sa
+De Isus conduși, urmând calea Sa;
+El ne-a pregătit, loc în țara Sa
+Unde noi vom sta, în prezența Sa.
+
+[s]
+O stea răsare din Iacov, un toiag de cârmuire se ridică din Israel. Numeri 24:17

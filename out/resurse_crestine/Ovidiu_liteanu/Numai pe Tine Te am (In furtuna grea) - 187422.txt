@@ -1,0 +1,39 @@
+[title]
+Numai pe tine te am (in furtuna grea) {author: {Ovidiu Liteanu}, {rcId: {187422}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+In furtuna grea
+Când toți m-au părăsit
+Numai pe Tine Te am, Isus,
+O, Mântuitorul meu iubit
+Numai pe Tine Te am, Isus,
+Lăudat să fii că m-ai mântuit
+
+[c]
+Numai pe Tine Te am,
+Isuse Doamne, speranța mea,
+Numai pe Tine Te am,
+Și-acolo-n ceruri Te voi avea
+/: Numai pe Tine Te am, Isus,
+Imi ești iubirea, comoara mea,
+Numai pe Tine Te am, Isus,
+Cât de minunat e-n Prezența Ta :/
+
+[v2]
+Toti vrăjmașii mei,
+Mă atacă ne-ncetat
+Numai pe Tine Te am, Isus,
+Din orice necaz Tu m-ai scăpat
+Numai pe Tine Te am, Isus,
+Doamne, scutul meu, să fii lăudat!
+
+[v3]
+Tu ești pacea mea
+Când trec prin încercări
+Numai pe Tine Te am, Isus,
+Când peste mine vin dureri
+Numai pe Tine Te am, Isus,
+Pe acest pământ și-n albastre zări.

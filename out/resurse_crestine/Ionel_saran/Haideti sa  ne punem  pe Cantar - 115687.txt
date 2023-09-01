@@ -1,0 +1,29 @@
+[title]
+Haideti sa ne punem pe cantar {author: {Ionel Saran}, {rcId: {115687}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Gândește-te, Omule, tu bine
+Cât mai trăiești pe această Lume
+/: Dacă un bine ai făcut la oricine
+Sau trăiești doar numai pentru tine :/
+
+[c]
+/: Haideți să ne punem pe cântar
+Fiecare azi să ne-ntrebăm
+Pentru Domnul noi dac-am lucrat
+Sau nepăsători mereu am stat :/
+
+[v2]
+Cine face astăzi voia Mea
+Din necazuri Eu îl voi scăpa
+/: Voi fi cu Tine Eu alăturea
+Singur tu nu vei mai rămânea :/
+
+[v3]
+Cine varsă astăzi lacrimi multe
+Izbăvit va fi de El când vine
+/: Căci Domnul îi va șterge lacrima
+Și în veci El se va Bucura :/

@@ -1,0 +1,29 @@
+[title]
+Doamne tu-n necazuri {author: {Text: Traian Dorsz, Muzica: Adrian Toader}, {rcId: {199258}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Doamne, Tu-n necazuri lângǎ noi rǎmâi,
+Chinurile noastre Tu le-nduri întǎi.
+Ele mai’nainte trec prin mâna Ta
+/: Și nu-ngǎdui numai cât putem purta. :/
+
+[v2]
+Lacrimile noastre numǎrate sunt,
+Tu mǎsori povara duhului înfrânt.
+Tu porți mâna care taie-n rana grea
+/: Și nu-ngǎdui numai cât putem purta. :/
+
+[v3]
+Chinurile noastre Tu le-ai mǎrginit,
+Mǎrginitǎ-i jalea celui asuprit,
+Mǎrginit e rǎul și putera sa
+/: Și nu-ngǎdui numai cât putem purta. :/
+
+[v4]
+Doamne, Tu-n necazuri fi cu toți ai Tǎi,
+Sǎ nu meargǎ singuri pe-a durerii cǎi.
+Cântǎrește crucea, Tu, cu mâna Ta,
+/: Sǎ nu-ngǎdui numai cât putem purta. :/

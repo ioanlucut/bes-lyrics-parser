@@ -1,0 +1,41 @@
+[title]
+Casnicie sfanta va dorim acuma {author: {Nicolae Moldoveanu}, {rcId: {5530}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Casnicie sfanta, va dorim acuma,
+Cand, pe-a voastra fata, astazi radiaza
+Mii de raze sfinte, ce sporesc lumina
+De la Cel ce, singur, binecuvanteaza!
+
+[c]
+Crinii mantuirii, va doresc iubire
+Si o puritate, ca pe-a lor petala;
+Cantaretii, cantul, puneti in uimire
+Trilurile care canta-n crang, cu fala.
+
+[v2]
+Plange azi gradina, freamata cu jale
+Amintiri, ce-au insorit copilaria;
+Plang parintii care-au ostenit cu-ardoare,
+Sa va faca-n viata numai bucuria...
+
+[c2]
+Brazii biruintei, va doresc tarie!
+Sa urmati credinta, numai in rabdare!
+Biblia, in toate, calauza fie!
+Ascultarea are, zile-n sir cu soare...
+
+[v3]
+Da-le, Doamne,-n viata ne’ncetat iubirea!
+Fii cu ei, la bine, fii cu ei la greu!...
+Mergi cu ei alaturi! Tu esti ocrotirea;
+Nelipsita fie pacea Ta mereu!
+
+[c3]
+Fericire va doreste adunarea,
+Peste ei, o, Doamne-acum, intinde-Ti mana!
+Da-le biruinta, binecuantarea
+Iar apoi, in urma, sa le dai cununa!

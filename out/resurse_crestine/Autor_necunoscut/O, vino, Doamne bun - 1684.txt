@@ -1,0 +1,21 @@
+[title]
+O vino doamne bun {author: {Anonim}, {rcId: {1684}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+O, vino, Doamne bun, afară nu mai sta,
+Să potolești al meu suspin, s-alungi durerea mea;
+Sărac și orb eu sunt, de frică-s chinuit,
+Tu, îndurat, bogat și sfânt; cu Tine-s fericit.
+
+[c]
+/: Te chem acum, pe altul nu-l primesc.
+Te chem acum, ce mult eu Te doresc! :/
+
+[v2]
+O, vino, Doamne bun, cu adevărul Tău,
+A Ta-ndurare s-o cunosc și s-o doresc mereu.
+Vreau bine să-nteleg preasfântă legea Ta
+Ce judecă al meu păcat; Tu dă-mi iertarea Ta!

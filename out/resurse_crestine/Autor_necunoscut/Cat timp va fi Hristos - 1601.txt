@@ -1,0 +1,29 @@
+[title]
+Cat timp va fi hristos {author: {Anonim}, {rcId: {1601}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Cât timp va fi Hristos,
+Cât timp rămân cu El,
+Cântatul meu melodios,
+Nu va-nceta de fel.
+
+[v2]
+El e-al meu Păstor.
+O, cat îmi e de drag!
+Cu hrană-mi vine-n ajutor,
+Când sunt străin, pribeag.
+
+[v3]
+Când vine vremea grea,
+Când toți mă părăsesc,
+Rămâne El speranța mea,
+În El m-adăpostesc.
+
+[v4]
+De scap-al meu picior,
+Necazuri de-ar veni,
+Alerg l-al meu iubit Păstor,
+El mă va izbăvi.

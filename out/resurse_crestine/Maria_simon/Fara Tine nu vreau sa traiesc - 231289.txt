@@ -1,0 +1,29 @@
+[title]
+Fara tine nu vreau sa traiesc {author: {Maria Șimon}, {rcId: {231289}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Fără Tine nu vreau să trăiesc
+Fără Tine viața nu are sens
+Fără Tine cerul vieții e-norat
+Soarele n-a răsărit
+
+[c]
+/: De mână vreau să mergem amândoi
+De este soare, de-i viscol sau de-s ploi
+Oceane-nvolburate de-ar vui
+De asupra tuturor noi vom pluti: \
+
+[v2]
+Fără Tine pasărea nu îți ia zborul
+Fără Tine floare n-are parfum
+Fără Tine natura nu e-nsplendoare
+Cerul fără Tine-i fără soare
+
+[v3]
+Prin Tine avem viață și mișcare
+Și mângâiere-n greu și în suspin
+Ție Îți aducem adorare
+De-acum și până-n veci de veci Amin

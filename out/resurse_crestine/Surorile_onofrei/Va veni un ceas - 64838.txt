@@ -1,0 +1,40 @@
+[title]
+Va veni un ceas {author: {Surorile Onofrei}, {rcId: {64838}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Va veni un ceas
+Când iar cocorii
+Se vor întoarce în zbor
+Pe țărmuri de mărgean...
+Să priviți în sus, se arată zorii
+Pe aripi de har
+Noi vom zbura-n ceresc liman!
+
+[c]
+/: Nu va mai fi vreun suspin
+Și cer de-nlăcrimare,
+Văi de însingurări,
+N-or mai doini către zări
+Cu harfe de visări
+O inimă în ceasul greu...
+Vor fi doar zorii de senin
+Când Domnul în sărbatoare
+Pe țărmul iubirii nins
+Ne va-nsoți-n necuprins
+Spre zări de cânt nestins, mereu! :/
+
+[v2]
+Va veni un ceas
+Când din furtună
+Mai sus de ploi
+Și vânturi dulce, curcubeu
+Ne va purta către lumină
+Din înserări
+Spre-al vieții soare, Dumnezeu!
+
+[e]
+Ne va-nsoți-n necuprins
+Spre zări de cânt nestins, mereu.

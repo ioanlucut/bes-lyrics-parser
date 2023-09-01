@@ -1,0 +1,35 @@
+[title]
+Ce frumos va fi acasa {author: {Anonim}, {rcId: {151737}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Va fi o zi în care noi
+Vom părăsi acest pământ
+Căci vine ziua de apoi
+Când vom zbura în cerul Sfânt
+
+[c]
+/: Ce frumos va fi acasă
+În cetatea cea cerească
+Când vom sta cu El la masă
+Noi aleasa Sa mireasă :/
+
+[v2]
+Sus lacrimi și dureri n-or fi
+Ci numai pace și-armonie
+Când Domnul nost’ va reveni
+Noi vom pleca în veșnicie
+
+[v3]
+Dar ca s-ajungi acolo sus
+Trebuie luptă-nverșunată
+Lui Dumnezeu să-I fi supus
+Trăind o viață nepătată
+
+[v4]
+Hristos e stânca de granit
+Și doar pe ea viața toată
+Să o zidim ca la sfârșit
+Să ne-ntâlnim cu-al nostru Tată

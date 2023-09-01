@@ -1,0 +1,36 @@
+[title]
+Vino cu noi {author: {HY Choir}, {rcId: {166195}}
+
+[sequence]
+v1,b,c,v2,b,c
+
+[v1]
+Câtă splendoare e-n jurul meu
+Când, Dumnezeu, Tu ești cu mine.
+În încercare uit de greu
+Când, Domnul meu, Tu ești cu mine.
+
+[b]
+Daca nu ne ești alături, nu ne lăsa să mergem singuri.
+Dacă nu ne ești alături, nu ne lăsa să mergem singuri.
+
+[c]
+Vino cu noi să pășim împreună
+Când sunt văi sau vin ploi.
+Te rog, mergi înainte.
+Când Tu ești cu noi, nu privim înapoi,
+Dar noi știm că e mai bine să pășim după Tine.
+Vino cu noi.
+Vino cu noi să pășim împreună
+Când sunt văi sau vin ploi.
+Te rog, mergi înainte.
+Când Tu ești cu noi, nu privim înapoi,
+Dar noi știm că e mai bine să pășim după Tine.
+/: Vino cu noi. :/
+x7
+
+[v2]
+Sub aripa-Ți tare de ne ascunzi,
+Știm că totul va fi bine.
+Vrem să-Ți auzim glasul, Păstor iubit,
+Să nu ne-ndepărtăm de Tine.

@@ -1,0 +1,29 @@
+[title]
+A dat stapanul robilor talanti {author: {Nicolae Moldoveanu}, {rcId: {5431}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+A dat Stăpânul, robilor, talanți
+După puterea ce-o au de lucrat
+Și i-a chemat la El, când S-a întors,
+Să cunoască cine-i robul credincios.
+
+[c]
+/: Nu-ți înveli talantul în prosop,
+Stăpânul vrea să-I fii de bun folos!
+Lucrează azi, cât încă mai e zi,
+Mâine nu se știe dacă vei mai fi! :/
+
+[v2]
+Cel ce-a muncit, a fost și răsplătit;
+Talanți, Stăpânul, iar, i-a dăruit,
+Dar cel ce-a fost un rob necredincios,
+Fără de talant, afară, a fost scos!
+
+[v3]
+Veniți, cu toți, în via Domnului,
+Robi credincioși, să fim în Casa Lui!
+Vom fi ferice, dacă vom munci;
+În Împărăția Cerului vom fi!

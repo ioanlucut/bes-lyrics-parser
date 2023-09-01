@@ -1,0 +1,30 @@
+[title]
+O ce dar placut {author: {Miron Cornel}, {rcId: {101763}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O, ce dar plăcut! O, ce har măreț!
+O, Doamne Dumnezeul meu!
+Singurul Tău Fiu ai îngăduit
+Să vină pe pământ!
+
+[c]
+/: O, ce minunat! Isuse, ai venit
+Pe acest pământ: ce mult Tu ne-ai iubit,
+O, prunc ce Te-ai născut în iesle în Betleem
+Viața ne-ai adus, Tu, Fiu de Dumnezeu. :/
+
+[v2]
+Îngerii din Cer proslăvesc în cor
+Pe pruncul Sfânt ce s-a născut
+Slavă sus în Cer, pace pe pământ
+Cu toții au cântat.
+
+[v3]
+Înaintea Ta vin cu ființa mea
+O, Pruncule preasfânt, divin
+Vreau a te lăuda, vreau a te-nălța
+’
+Naintea ta mă închin.

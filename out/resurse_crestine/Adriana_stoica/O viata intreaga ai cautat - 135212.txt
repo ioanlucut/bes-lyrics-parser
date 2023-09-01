@@ -1,0 +1,41 @@
+[title]
+O viata intreaga ai cautat {author: {Adriana Stoica}, {rcId: {135212}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+O viață întreagă ai căutat,
+Să-ți faci avere să-ți strângi lauri.
+Crezând că lumea-i toată a ta,
+Vei fi bogat și plin de aur.
+
+[c]
+Dar singur tu te amăgești,
+Căci viața e doar o clipită.
+Se duce, trece ca un vis,
+Și munca ta e risipită.
+
+[v2]
+Dar totul este trecător,
+Și viața e așa de scurtă.
+De tine toate or rămânea,
+Căci omul e un pumn de țărână.
+
+[c2]
+Căci bogățiile îți răpesc,
+Clipă cu clipă fericirea...
+Ce te așteaptă sus în cer,
+Lângă Isus e mântuirea.
+
+[v3]
+Dar va veni și ziua când,
+Cu ochii ai să-ți vezi sfârșitul.
+Și pe la tot ce-ai strâns aici,
+Ai să rămâi numai cu gândul.
+
+[c3]
+Căci la sfârșit ai vrea și tu,
+Pentru viață să dai totul.
+Dar dacă astăzi nu te-ntorci,
+În viața aceasta nu-ți văd rostul.

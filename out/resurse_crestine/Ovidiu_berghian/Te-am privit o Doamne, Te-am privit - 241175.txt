@@ -1,0 +1,25 @@
+[title]
+Te-am privit o doamne te-am privit {author: {Ovidiu Berghian}, {rcId: {241175}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Te-am privit o Doamne, Te-am privit
+Esti Luceafarul din zori de zi
+/: Esti Lumina dulce :/ stralucind pe cerul inimii :/
+
+[v2]
+Te-am privit o Doamne, Te-am privit
+Esti Parfumul crinilor din vai
+/: Esti o Floare alba :/ in gradina vesnicei iubiri :/
+
+[v3]
+M-ai privit o Doamne, m-ai privit
+Ca un soim ranit in zbor eram
+/: Mi-ai legat aripa :/ cu blandete Tu m-ai mangaiat :/
+
+[v4]
+Si atunci in viata mea mereu
+Imi inalt spre Tine cantul Meu
+/: Te slavesc o Doamne :/ si in veci de veci Te voi slavi :/

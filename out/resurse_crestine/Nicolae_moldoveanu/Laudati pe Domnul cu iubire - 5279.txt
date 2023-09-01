@@ -1,0 +1,35 @@
+[title]
+Laudati pe domnul cu iubire {author: {Nicolae Moldoveanu}, {rcId: {5279}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Laudati pe Domnul cu iubire,
+Caci El pentru noi S-a jertfit.
+Cantati-I si dati-I marire,
+Caci El pentru noi a murit.
+
+[c]
+/: Laudati :/
+Pe Acela ce S-a jertfit!
+/: Laudati :/
+Pe Cel ce atat ne-a iubit!
+
+[v2]
+Laudati minunata-I putere
+Care boldul mortii a frant
+Si prin glorioasa inviere
+Ajuns-a la Tatal Preasfant.
+
+[v3]
+Laudati, fiind plini de speranta,
+Domnul e mereu printre noi;
+Priveghind sa avem siguranta:
+Domnul Se-ngrijeste de noi.
+
+[v4]
+Laudati-L toti pe Salvatorul,
+Pe Domnul cel viu pururea,
+Pe Tatal si Mantuitorul
+Caci El ne-a dat mantuirea.

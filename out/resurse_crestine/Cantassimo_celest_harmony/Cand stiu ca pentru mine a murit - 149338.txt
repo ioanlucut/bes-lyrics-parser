@@ -1,0 +1,29 @@
+[title]
+Cand stiu ca pentru mine a murit {author: {Cantassimo, Celest Harmony}, {rcId: {149338}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când știu că pentru mine a murit
+Pe cruce Isus răstignit - Aleluia
+Când știu că pacea doar ȋn El găsesc
+În urmă eu nu mai privesc.
+
+[c]
+Nu, nu, niciodată, Doamne, nu!
+În urmă eu nu mai privesc! Aleluia
+Da, da, totdeauna, Doamne, da!
+Isus este tot ce-mi doresc.
+
+[v2]
+Când știu că pentru mine a-nviat
+Și viața eternă mi-a dat - Aleluia
+Când știu că viața doar ȋn El găsesc
+În urmă eu nu mai privesc.
+
+[v3]
+Când știu că pentru mine va veni
+Și-n slavă cu El voi păși - Aleluia
+Când știu că slava doar ȋn El găsesc
+În urmă eu nu mai privesc.

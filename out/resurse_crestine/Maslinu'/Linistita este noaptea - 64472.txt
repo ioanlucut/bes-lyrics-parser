@@ -1,0 +1,41 @@
+[title]
+Linistita este noaptea {author: {Măslinu’}, {rcId: {64472}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Liniștită este noaptea
+Întuneric deslușit
+/: Doar pe cer apare steaua
+Magilor la răsărit :/
+
+[v2]
+Dar Isus Mântuitorul
+Azi în lume a venit
+/: Și aleargă tot poporul
+Ca să fie mântuit :/
+
+[v3]
+Biblia și azi ne-arată
+Cum că magii au plecat
+/: Și-ntr-o iesle-ndepărtată
+Ei pe Domnul l-au aflat :/
+
+[v4]
+Și mulțimea de pe-atuncea
+A încercat să-I facă rău
+/: Dar Isus întodeauna
+Învingea cu Dumnezeu :/
+
+[v5]
+Ca să fie mântuită
+Turma Sa de pe pământ
+/: Fost-a viața Sa jertfită
+Trupul Său de răni înfrânt :/
+
+[v6]
+Astăzi noi printr-o credință
+Neclintită în Isus
+/: Dobândi-vom biruință
+Vom fi-n cer cu-al nost’ Isus :/

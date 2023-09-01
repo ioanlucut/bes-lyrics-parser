@@ -1,0 +1,45 @@
+[title]
+Cine-ar putea sa-ti dea iertare? {author: {Nicolae Moldoveanu}, {rcId: {7373}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Cine-ar putea să-ți dea iertare
+Pentru păcatul tău cel mare?
+Cine-ar putea, cine-ar putea?
+Isus, Dumnezeiescul Miel,
+Prin jertfa ce-a adus-o El,
+El ar putea! El ar putea!
+
+[v2]
+Cine-ar putea să-ți dea lumină
+Și-n suflet liniște deplină?
+Cine-ar putea, cine-ar putea?
+Isus e unicul izvor,
+De haruri pururi dădător.
+El ar putea! El ar putea!
+
+[v3]
+Cine-ar putea să-ti dea tărie
+În vremurile de urgie?
+Cine-ar putea, cine-ar putea?
+Isus cu brațul Lui ne-nfrânt,
+Ce ține soare si pământ,
+El ar putea! El ar putea!
+
+[v4]
+Cine-ar putea să-ti facă parte
+De viața fără de moarte?
+Cine-ar putea, cine-ar putea?
+Isus, iti spun, si sigur stiu,
+Că mort a fost, dar este viu,
+El ar putea! El ar putea!
+
+[v5]
+De crezi, cu inima curată,
+Și Lui ii dai viața toată,
+El iți va da, El iți va da
+Comori de har, comori de har
+Și fericiri fără hotar,
+Cu mâna Sa! Cu mâna Sa!

@@ -1,0 +1,41 @@
+[title]
+Mai treaza-mi tine tu isuse {author: {Nicolae Moldoveanu}, {rcId: {7357}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Mai trează-mi ține Tu,
+Isuse,
+Credința în venirea Ta
+Să-mi poată dragostea sfințită
+În orice timp a Te-aștepta.
+
+[c]
+/: Vino Isuse, precum ai spus.
+Nădejdea-mi toată, în Tine-am pus
+Vino Isuse, dulce Isus! :/
+
+[v2]
+Să nu mă las furat de-ndemnul
+Și șoapta că Tu întârzii
+Ci-aprinde-mi mai puternic gândul
+Prin care-mi spui mereu că vii.
+
+[v3]
+Împrospătează-mi Tu lumina
+Să-Ți văd Cuvântul împlinit
+Când norii albi Ți-ar fi cărarea
+Pe care vei veni slăvit.
+
+[v4]
+Să-Ți pot ieși-n întâmpinare
+Cu candela în foc preasfânt.
+Cu haine albe-n sărbătoare
+Cu sufletu-mi aprins de cânt.
+
+[v5]
+Mai trează-mi ține Tu Isuse
+Credința în venirea Ta
+Mărturisind-o-n orice vreme
+Să poată toți a Te-aștepta.

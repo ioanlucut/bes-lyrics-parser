@@ -1,0 +1,29 @@
+[title]
+Demult intr-o iesle pe paie {author: {Adi Gliga}, {rcId: {66664}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Demult într-o iesle pe paie
+Un prunc se năștea tare greu
+Din cer se-auzea o cântare
+Venea printre noi Dumnezeu.
+
+[v2]
+Un înger din cer plin de slavă
+Se-arăta în câmp la păstori
+O veste-au primit, și în grabă
+Aleargă spre Mântuitor.
+
+[v3]
+Irod era plin de mâhnire
+Cand magii la El au venit
+Cu gând unui Prunc să se-nchine
+Și daruri să-I dea au dorit.
+
+[v4]
+Pe bolta senină se naște
+Lumina ce călăuzea
+În iesle un prunc printre fașe
+E chiar Dumnezeu ce zâmbea.

@@ -1,0 +1,27 @@
+[title]
+Nu suntem vrednici {author: {Alexandru Groza}, {rcId: {193441}}
+
+[sequence]
+v1,c,c,v2,c
+
+[v1]
+Când, uneori citesc din Cuvânt, din Scripturi
+Dumnezeu îmi dă har să-nțeleg voia Lui
+El este bun, Domnul e credincios
+Tatăl nostru din cer ne iubește mereu!
+
+[c]
+Nu suntem vrednici, o, Doamne
+Să stăm înaintea Ta
+Căci păcatul ne ascunde
+Doamne, azi, de Fața Ta!
+
+[b]
+Te rugăm, o, Doamne, ai milă
+Ține îndurarea Ta
+
+[v2]
+Nu, mâna Domnului nu este prea scurtă
+Ca să ne mântuiască pe noi din păcat
+Pe lemnul crucii, sus, pe Golgota
+Fiul Lui preaiubit pentru noi l-a jertfit!

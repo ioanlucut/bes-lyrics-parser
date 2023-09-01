@@ -1,0 +1,31 @@
+[title]
+Mii de rani {author: {Rugul aprins}, {rcId: {7168}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Cine a crezut, în ce li se vestise
+Cine a cunoscut brațul Domnului
+Când priveai la fața Lui
+Te-ngrozeai de atâta chin...
+
+[c]
+Mii de răni i-au făcut,
+Mii de răni Mielului Sfânt
+Disprețuit și alungat
+Om al durerii Miel curat
+Atât de mult El te-a iubit
+Din dragoste S-a dăruit
+Ți-a deschis ușa spre cer
+Spre Dumnezeu, spre raiul Său
+
+[v2]
+Sângele șiroi curgea
+Când străzile, El le colinda
+La Golgota când au ajuns
+Sus pe cruce ei l-au străpuns...
+
+[e]
+/: El era om, om al durerii
+Și disprețuit de toți :/

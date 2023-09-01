@@ -1,0 +1,43 @@
+[title]
+Multumesc {author: {Excelsior Band}, {rcId: {189167}}
+
+[sequence]
+v1,b,c,v2,b,c
+
+[v1]
+Mă gândesc mereu,
+La tot ce-a fost greu,
+Și iți mulțumesc, te prețuiesc Isus!
+Când am fost căzut,
+De mâini M-ai ținut
+Vreau să te cinstesc, să te slăvesc Isus!
+
+[b]
+M-ai schimbat, pacea Ta mi-ai dat,
+In veci de veci sa fii glorificat.
+Când pace vei avea, vei putea canta,
+Versurile care spun așa:
+
+[c]
+Vreau să-nvăț să-ți mulțumesc deplin
+Și-ntreaga-mi viață Ție să Ți-o-nchin
+Mereu să spun la toți ce minunat,
+Ești Dumnezeu
+Cu Tine-am fost mereu învingător
+Întotdeauna mi-ai fost ajutor
+În Tine-am să mă-ncred pân’ la sfârșit
+Domnul meu
+Vreau să-nvăț să-ți mulțumesc deplin
+Și-ntreaga-mi viață Ție să Ți-o-nchin
+Mereu să spun la toți ce minunat,
+Ești Dumnezeu
+Cu Tine-am fost mereu învingător
+Întotdeauna mi-ai fost ajutor
+În Tine-am să mă-ncred pân’ la sfârșit
+Domnul meu
+
+[v2]
+Mereu vor fii, încercări dar să știi,
+Nu te vor lovi, dacă vei privi in sus.
+El te va-ntării, te va sprijinii,
+Nu te-ngrijora, ești in mâna lui Isus.

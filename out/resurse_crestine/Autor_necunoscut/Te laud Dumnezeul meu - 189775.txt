@@ -1,0 +1,29 @@
+[title]
+Te laud dumnezeul meu {author: {Anonim}, {rcId: {189775}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Te laud Dumnezeul meu
+Caci numai Tu in ceasul greu
+Cand oamenii m-au parasit
+M-ai ridicat m-ai intarit
+
+[c]
+/: Te inalt o Doamne ca Tu n -ai lasat
+Pe vrasmasi sa rada si m-ai ascultat
+Mi-ai intarit pasul si m-ai vindecat
+O cantare noua Doamne Tu mi-ai dat :/
+
+[v2]
+Cu Tine Dumnezeul meu
+Strabat in viata orice greu
+Imi dai pace in incercari
+Prin orice trec Iti cant cantari
+
+[v3]
+Pe Tine Dumnezeul meu
+Te laud si Te cant mereu
+In veci fii binecuvintat
+Pentru salvarea ce mi-ai dat

@@ -1,0 +1,35 @@
+[title]
+Ziua domnului soseste {author: {Nicolae Moldoveanu}, {rcId: {5781}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Ziua Domnului sosește, Sionul se pregătește:
+/: Cu haine de mireasă, cu ulei în candelă,
+Să-ntâmpine pe Mire, când vine :/
+
+[v2]
+O, ce clipă fericită când Mireasa-i pregătită,
+/: În toată podoaba sa, ca să înceapă nunta
+Cu Mirele-Împărat adorat! :/
+
+[v3]
+Doamne, de când e lumea, n-a fost nuntă ca a Ta!
+/: În sunet de trâmbiță vom pluti în glorie,
+Pe aripi de nori, albiți în veșnicie :/
+
+[v4]
+La această nuntă mare, bucurii nepieritoare:
+Oștile cerurilor toate vor cânta în cor,
+Iar Mireasa-și va cânta cântarea sa :/
+
+[v5]
+Cântare deosebită - cum n-a mai fost auzită -
+Cântare de salvare, de bucurie mare,
+Ce nici îngerii n-o știu să o cânte :/
+
+[v6]
+Sunetul cântărilor umple nunta nunților,
+/: Ca sunet de ape multe, se-aud corurile multe
+Ce-L măresc pe Împărat, ne-ncetat :/

@@ -1,0 +1,31 @@
+[title]
+In christ alone {author: {Brian Littrell}, {rcId: {4252}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+In Christ alone will I glory
+Though I could pride myself in battles won
+For I’ve been blessed beyond measure
+And by His strength alone I overcome
+Oh I could stop and count successes
+Like diamonds in my hand
+But those trophies could not equal
+To the grace by which I stand.
+
+[c]
+In Christ alone I place my trust
+And find my glory in the power of the cross
+In every victory let it be said of me
+My source of strength, my source of hope is Christ alone.
+
+[v2]
+In Christ alone will I glory
+For only by His grace I am redeemed
+And only His tender mercy
+Could reach beyond my weakness to my need
+Now I seek no greater honor
+Than just to know Him more
+And to count my gains
+But losses to the glory of my Lord.

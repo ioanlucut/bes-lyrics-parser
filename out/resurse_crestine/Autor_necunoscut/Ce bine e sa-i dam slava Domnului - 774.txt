@@ -1,0 +1,19 @@
+[title]
+Ce bine e sa-i dam slava domnului {author: {Anonim}, {rcId: {774}}
+
+[sequence]
+c,c,v1,c
+
+[c]
+/: Ce bine e sa-I dam slava Domnului :/
+El captivi elibereaza, inimi vindeca
+Binecuvantam numele Lui
+
+[b]
+/: Vreau sa-L slavesc pe El :/ x 3
+
+[v1]
+Iti multumim esti Salvatorul
+Cu inimi de recunostinta ne-nchinam
+Indurarea Ta va tine vesnic
+Eu Te voi lauda toata viata mea.

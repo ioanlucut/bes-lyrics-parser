@@ -1,0 +1,47 @@
+[title]
+Doar prin jertfa ta {author: {Marius Bahica}, {rcId: {209744}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Ce pret Isus ca sa fiu salvat!
+O Domnul Meu, Mute ai rabdat
+Pana la capat crucea Ti-ai purtat
+Ca eu sa fiu al tau rascumparat! : \
+
+[c]
+/: Doar prin jertfa Ta,
+Prin sangele Tau,
+Eu sunt mantuit, stiu o, Domnul Meu!
+Tu m-ai infiat,
+Viata mi-ai schimbat,
+Sunt eliberat,
+Isuse, m-ai salvat! : \
+/: Doar prin jertfa Ta,
+Prin sangele Tau,
+Eu sunt mantuit, stiu o, Domnul Meu!
+Tu m-ai infiat,
+Viata mi-ai schimbat,
+Sunt eliberat,
+Isuse, m-ai salvat! : \
+/: Doar prin jertfa Ta,
+Prin sangele Tau,
+Eu sunt mantuit, stiu o, Domnul Meu!
+Tu m-ai infiat,
+Viata mi-ai schimbat,
+Sunt eliberat,
+Isuse, m-ai salvat! : \
+
+[v2]
+/: Batjocorit,
+Pe cruce rastignit,
+Pentu-omenire, Isus, ai patimit.
+Ai luat otet si-ai spus:,, S-a ispravit!”,
+Iar Tu, Isus, la moarte-ai fost sortit. : \
+
+[v3]
+Dispretuit, de oameni parasit
+Om al durerii, Tu ne-ai mantuit!
+Dragostea Ta, nimic n-o va schimba.
+Noi azi trai cu toti prin jertfa Ta.

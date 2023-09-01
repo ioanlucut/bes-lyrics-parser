@@ -1,0 +1,22 @@
+[title]
+Dar te rog {author: {Daniel Cristian}, {rcId: {99968}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Eu spre Tine azi privesc
+Neputincios îngenunchez
+În fața Ta, Isus
+Și Te rog Tu să mă ierți
+
+[c]
+/: Dar Te rog, o, Tatăl meu :/
+Tu să te înduri
+De sufletul meu
+
+[v2]
+La Tine am venit
+Doamne, ca să fiu mântuit
+Îmi ridic privirea-n sus
+Te rog, ajuta-mă

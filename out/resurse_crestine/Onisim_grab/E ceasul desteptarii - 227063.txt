@@ -1,0 +1,41 @@
+[title]
+E ceasul desteptarii {author: {Onisim Grab}, {rcId: {227063}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+E ceasul deșteptării
+Doar clipe-au mai rămas
+Sunt semnele venirii
+Mai este doar un pas!
+
+[c]
+O vino, Maranata!
+Cu toții te dorim!
+Mireasa este gata,
+Pe tine Te iubim!
+O vino tu Isuse,
+Ni-e inima plină de dor.
+Ridică-ne la Tine,
+Te-așteaptă-al Tău Popor!
+/: O vino, Maranata!
+Cu toții te dorim!
+Mireasa este gata,
+Pe tine Te iubim!
+O vino tu Isuse,
+Ni-e inima plină de dor.
+Ridică-ne la Tine,
+Te-așteaptă-al Tău Popor! :/
+
+[v2]
+Aproape e răsplata,
+Celor ce-au așteptat
+Mireasă fii tu gata
+El vine ca-mpărat!
+
+[v3]
+Sunt clipele din urmă,
+Puțin de așteptat,
+El Domnul stă să vină,
+Fii gata de plecat

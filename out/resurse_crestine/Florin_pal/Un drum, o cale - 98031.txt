@@ -1,0 +1,36 @@
+[title]
+Un drum o cale {author: {Florin Pal}, {rcId: {98031}}
+
+[sequence]
+v1,c,v2,c2,v3,c2
+
+[v1]
+Un drum, o cale, un singur izvor,
+Te duce la Isus, dar nu-i calea cu flori,
+Pe această cale cu spini presărați,
+S-a dus El Miel de jertfă,
+S-a dus El pentru frați.
+
+[c]
+/: Nu-i calea largă, și nici mulți pe ea,
+E foarte-ngustă de-o vei căuta,
+De pasul tău pe această cale-i dus,
+Fii sigur că la capăt, vedea-vei pe Isus. :/
+
+[v2]
+Acest drum, iubite călător, 
+E drumul presărat cu lacrimi și cu dor,
+Pentru ființa ta și pentru a mea, 
+A stat Isus pe crucea, din dealul Golgota.
+
+[c2]
+/: Privește blând? spre rana Lui din piept,
+Cu glasul Lui cel stins și-ncet,
+De-atâta vreme te cheamă mereu,
+Te cheamă cu iubire, te cheamă Dumnezeu. :/
+
+[v3]
+Întoarce-te degrab’ din calea rea,
+Și schimbă-ți viața ta, acum cât vei putea, 
+Căci El și azi te cheamă, tot mereu, 
+Întoarce-te degra’ la Domnul Dumnezeu.

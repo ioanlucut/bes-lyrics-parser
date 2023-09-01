@@ -1,0 +1,34 @@
+[title]
+Vreau sa vad chipul tau {author: {Angeli}, {rcId: {78687}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Dintre-atâtea hotare care sunt pe pământ
+Mă îndrept către zare căci eu, Doamne, vreau să fiu sfânt!
+Și din mii de dorințe ce se nasc și-apoi pier
+Numai una-mi rămâne: ”
+Doamne vreau să merg în cer!”
+
+[c]
+Vreau să văd Chipul Tău!
+E dorința ce-o am pe pământ
+M-ai creat pentru cer, m-ai creat să fiu sfânt!
+Vreau să văd chipul Tău!
+E dorința ce-o am pe pământ
+M-ai creat pentru cer să fiu sfânt!
+
+[v2]
+Cu dorința în suflet să Te întâlnesc
+Cred cuvintele Tale și poruncile le împlinesc
+”
+Sunt cu tine mereu! Nu te teme!” mi-ai spus
+Și-am deplină credință că-mi vei da har de sus!
+
+[v3]
+Până când va veni ziua să Te-ntâlnesc
+Îndrăznesc să Te rog: ”
+Nu lăsa ca să rătăcesc!
+O făclie să faci din întreg trupul meu
+Și de Duhul Tău Sfânt să fiu locuit mereu!”

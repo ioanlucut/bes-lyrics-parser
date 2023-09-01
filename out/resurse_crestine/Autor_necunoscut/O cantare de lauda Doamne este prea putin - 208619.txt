@@ -1,0 +1,25 @@
+[title]
+O cantare de lauda doamne este prea putin {author: {Anonim}, {rcId: {208619}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+O cântare de laudă Doamne este prea puțin
+Ca ofrandă să-Ți închin
+Ajută-mă să-mplinesc tot ce buzele-mi rostesc
+Fapta mea să oglindească voia Ta
+Zilnic în viața mea.
+
+[c]
+Doamne mare, Doamne mare
+Noi Te lăudăm
+Și implorăm prezența Ta.
+În orice durere și în încercări
+Dă-ne Tu din pacea Ta.
+
+[v2]
+O cântare de laudă cred că este prea puțin
+De aceea azi eu vin, inima mea să-Ți închin.
+Sufletul și cugetul Te vor lăuda mereu în viața mea
+Pentru că Tu ești în ea

@@ -1,0 +1,44 @@
+[title]
+Mi-e dor de tine {author: {Lăcrămioara Asăndoaie}, {rcId: {6682}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În inima mea e târziu,
+Și gândul fără Tine-i pustiu...
+Trimit dorul meu să te cheme,
+Să vii cu-n ceas mai devreme!
+Mi-e greu printre străini, Domnul meu,
+E grea povara, drumul e greu
+Și sufletul strigă: „
+Când vii?”
+
+[c]
+Mi-e dor de Tine, Domnul meu
+Mi-e dor să Te-ntâlnesc
+Să stau lipit la pieptul Tău
+Să plâng, să-Ți vorbesc
+Să îmi rostești cuvinte dulci,
+De mână să mă duci -
+Ce-am suferit, să pot să uit,
+Să pot să uit...
+
+[v2]
+Aici în vale-i plâns și suspine
+Și nu e nimeni dureri s-aline,
+Iar lacrimi pe-obraz cad ușor
+Am răni adânci ce încă dor,
+Mă lupt cu deznădejdea mereu
+Nu vreau să cad, nu vreau Domnul meu
+Și sufletul strigă: „
+Când vii?”
+
+[v3]
+Am obosit de când te aștept,
+De dor arde inima-n piept
+Și teama ades mă cuprinde
+Te rog, dă-mi puteri Scump Părinte
+Uneori speranțele-mi plâng
+Și visele-mi pleacă-n adânc
+Dar știu Isus, vii curând!

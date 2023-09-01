@@ -1,0 +1,33 @@
+[title]
+[unnamed] {author: {Anonim}, {rcId: {151288}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c
+
+[v1]
+Hai, spune-mi cine a biruit moartea,
+Cine-a călcat peste ea?
+Cine e Leul din Iuda,
+Scutul, tăria mea?
+
+[v2]
+Spune-mi cine a biruit frica,
+Cine-a călcat peste ea?
+Cine e Leul din Iuda,
+Scutul, tăria mea?
+
+[c]
+Aleluia Aleluia Aleluia, Isus este Domn!
+Aleluia Aleluia Aleluia, Isus este Domn!
+
+[v3]
+Hai spune-mi cine a murit pentru mine,
+Cine-a murit pentru noi?
+Cine-a murit pentru lume?
+Glorie doar Regelui!
+
+[v4]
+Spune-mi cine-ntr-o zi se va-ntoarce
+În fruntea oștirii Lui?
+El va primi închinarea,
+Pământul și cerul e-al Lui!

@@ -1,0 +1,41 @@
+[title]
+Tu-mi esti lumina mea in lumea asta rea {author: {Anonim}, {rcId: {6277}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Tu-mi ești lumina mea
+În lumea asta rea
+Pe Tine, Te ador
+O scump Mântuitor.
+
+[c]
+Căci nimeni în lume
+Nu este ca Tine
+În dragostea sfântă
+Să-mi mângâie inima.
+
+[v2]
+Pe deal la Golgota
+O cât ai suferit
+Să spună inima
+Și câți Te-au cunoscut.
+
+[v3]
+O trandafir din văi
+Arată-Ți fața Ta.
+Luceafăr strălucit
+O vino chiar acum.
+
+[v4]
+O vino acum degrab
+Îi ia-Ți poporul Tău
+Căci mulți suspin acum
+În mreaja celui rău.
+
+[v5]
+O vino, numai sta
+Te cheamă-ai Tăi copii
+Cu lacrimile-n ochii
+Să-i duci în veșnicii.

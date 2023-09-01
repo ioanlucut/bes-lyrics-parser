@@ -1,0 +1,41 @@
+[title]
+Te rog ia-mi doamne {author: {Nicolae Moldoveanu}, {rcId: {199013}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Te rog ia-mi, Doamne, și-amintirea,
+Păcatelor cândva trăite,
+C-aceasta-mi duce’nchipuirea,
+Și-o ’neacă’n ape otrăvite.
+
+[c]
+Și’n fiecare clipă, o Isuse,
+Spre Tine ia-mi a inimii dorinți,
+Să-Ți fie-ntregi cu dragoste supuse,
+Pe calea unei mari credinți.
+
+[v2]
+Ia-mi din adânc pornirea care
+De lumea asta prea mă leagă,
+Să nu mai poată fi în stare
+De lângă Tine să m-atragă!
+
+[v3]
+Dorințele străine ia-le,
+Și-n locul lor dă-mi numai una,
+Mai drag ca cerul voii Tale,
+Nimic să n-am pe totdeauna!
+
+[v4]
+Ia-mi prietenii de-ndemnuri rele,
+Pornirea spre ușurătate,
+Și tot ce dă vieții mele,
+Îndemn străin de căi curate!
+
+[v5]
+Și-n locul tuturor Ți-aș cere,
+Să-mi lași doar singură iubirea,
+Dar care nici într-o durere,
+Să nu cunoască despărțirea.

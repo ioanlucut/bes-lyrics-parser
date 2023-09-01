@@ -1,0 +1,29 @@
+[title]
+Cine stie ce inseamna sa fi azi copil orfan {author: {Anton Varga}, {rcId: {209208}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Cine stie ce inseamna sa fi azi copil orfan
+Sa fi singur fara sprijin si de lipsuri an de an.
+
+[c]
+Dar El e Tatăl orfanilor, apărătorul văduvelor
+Dar El iti da pâinea pe masă, si-ti trimite bani in casă :/
+
+[v2]
+Cine stie ce înseamnă să-mbraci haina de orfan
+Altii s-aiba mamă, tată tu pe nimeni an de an.
+
+[v3]
+Cine stie suferința, văduvei nemângâiate
+Toții sa o părăsească cand se afla în etate.
+
+[v4]
+Tot ce pot sa va spun astazi pe deplin încredințat
+Căci Isus e mamă, tată pentru cei nemângâiați.
+
+[v5]
+Chiar de n-am pe pământ tata care să mă sprijinească
+Dumnezeul meu din ceruri El dă hrană și povață.

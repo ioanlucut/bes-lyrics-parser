@@ -1,0 +1,45 @@
+[title]
+Numai tu {author: {Text și muzică: Costel Mijan}, {rcId: {199436}}
+
+[sequence]
+v1,c,c,v2,c
+
+[v1]
+Numai Tu ești Doamne viața mea mereu,
+Numai Tu, Stapân și Tată, Dumnezeu.
+Numai Tu lumină ești în viața mea,
+O, Doamne, Tu ești dragostea.
+Numai Tu ești Doamne viață-n adevăr,
+Numai Tu ești tot ce am într-adevăr;
+Numai Tu ești viața mea în veci de veci,
+O, Doamne, Tu ești Dumnezeu.
+
+[c]
+Și vreau ca Tu să mă înalți mai sus în cer,
+Aș vrea ca Tu să-mi fii pe veci Stăpân,
+Căci Doamne, numai Tu
+Viața Ți-ai jertfit ca eu să fiu al Tău.
+Aș vrea ca Tu să mă primești ca rob în cer,
+Să știu și eu că am un rost
+Și vreau să fiu umil mereu,
+Căci Tu ești veșnic Doamne.
+
+[c]
+Dac-ar fi să fie noapte-n jurul meu, Tu mi-ai fi lumină Doamne;
+Dac-ar fi să fie totul cât de greu, Tu ai fi mereu cu mine.
+Căci știu și simt o, Doamne, căldura dragostei din Tine;
+Dac-ar fi să fie răul cel mai rău, eu sunt fiul Tău.
+Tu ești dragostea, Tu ești totul pentru mine,
+Tu ești present în preajma mea mereu, da, Doamne
+Tu ești dragostea, Tu ești Doamne lângă mine,
+Tu ești în veci de veci al meu.
+Dac-ar fi să fie noaptea cât de grea, Tu m-ai întări, o, Doamne;
+Dac-ar fi să fie noaptea cea mai rea, Tu ai fi mereu cu mine.
+Căci știu și simt o, Doamne, căldura dragostei din Tine;
+Dac-ar fi să fie răul cel mai rău, eu sunt fiul Tău.
+
+[v2]
+CODA: Numai Tu ești viața mea în veci de veci,
+Numai Tu, Stăpân și Tată, Dumnezeu;
+Numai Tu ai fost și ești, vei fi mereu,
+O, Doamne, Tu ești Dumnezeu.

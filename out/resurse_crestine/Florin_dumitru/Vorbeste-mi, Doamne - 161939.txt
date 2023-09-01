@@ -1,0 +1,41 @@
+[title]
+Vorbeste-mi doamne {author: {Florin Dumitru}, {rcId: {161939}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c
+
+[v1]
+Vorbește-mi, Doamne!
+Vorbește-mi, nu tăcea!
+Că vreau să aud
+Care este voia Ta!
+
+[v2]
+Sângele Tău mie îmi spunea:
+”
+Te iubesc! Murind, te voi salva!”
+Astăzi Doamne este ziua Ta
+Când lumea-ntreagă
+Slava Ta o va vedea!
+
+[c]
+Sângerai și totuși îmi vorbeai
+Când erai pe cruce
+Sufereai și viață îmi dădeai
+Și astăzi Te pot proclama!
+Sângerai și totuși îmi vorbeai
+Când erai pe cruce
+Sufereai și viață îmi dădeai
+Și astăzi Te pot proclama!
+
+[v3]
+Vorbește-mi, Doamne!
+Vorbește-mi, nu tăcea!
+Că vreau să aud
+Care este voia Ta!
+
+[v4]
+Golgota, Tu, dealul Căpățânii
+Ești vestită în întreagă lume.
+Ai ridicat deasupra tuturor
+Pe Împăratul veșniciilor!

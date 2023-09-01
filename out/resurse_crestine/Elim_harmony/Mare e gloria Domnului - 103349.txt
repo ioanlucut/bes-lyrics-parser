@@ -1,0 +1,36 @@
+[title]
+Mare e gloria domnului {author: {Elim Harmony}, {rcId: {103349}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Domnul pentru mine a murit
+Amin, amin
+În sânge Sfânt Isus a biruit
+Amin, amin
+A fost mort, dar azi e viu
+Amin, amin
+Stă la dreapta Tatălui Divin
+Amin, Amin
+
+[c]
+Mare e gloria Domnului, Puternic
+Mare e gloria Domnului
+Îl voi lăuda cu tot ce sunt pe Cel Puternic
+Mare e gloria Lui!
+
+[v2]
+Pe nedrept a fost batjocorit
+Amin, amin
+Dar n-a rămas pe cruce pironit
+Amin, amin
+Azi iubirea Lui, e peste noi
+Amin, amin
+Aleluia El va reveni
+Amin, amin
+
+[e]
+/: Tu ești acel ce-a fost
+Tu ești acel ce ești
+Tu ești acel ce va veni :/

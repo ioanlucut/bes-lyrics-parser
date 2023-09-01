@@ -1,0 +1,25 @@
+[title]
+Doamne ti-aducem slava {author: {Anonim}, {rcId: {5177}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+/: Doamne ți-aducem slavă
+Pentru sfântul tău cuvânt :/
+
+[v2]
+/: El îmi spune blând și duios
+Cât ești tu de bun :/
+
+[v3]
+/: Tu-mi arăți în cuvântul tău
+Numai adevăr :/
+
+[v4]
+/: În viața mea doar tu
+Ești biruitor :/
+
+[v5]
+/: Din cuvântul tău primesc
+Bucurii mereu :/

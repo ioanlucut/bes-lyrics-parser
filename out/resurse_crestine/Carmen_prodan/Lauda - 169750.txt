@@ -1,0 +1,38 @@
+[title]
+Lauda {author: {Carmen Prodan}, {rcId: {169750}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Eu strig: „
+Lăudat să fie Domnul! ”
+Și sunt izbăvit de-ai mei vrăjmași!
+/: Valurile când trec peste mine
+Tu mă scoți Isuse, nu mă lași! : \
+
+[c]
+Doar pe Tine eu Te laud,
+Domnul meu Isus iubit!
+Pot chiar munții să se mute,
+Eu de Tine-s ocrotit!
+Pot chiar munții să se mute,
+Eu de Tine Doamne-s ocrotit!
+
+[v2]
+Nu mă înspăimântă încercarea,
+Căci eu știu în cine am crezut,
+/: De mi-e împotrivă toată lumea,
+Eu pe Tine Doamne Te am scut! : \
+
+[v3]
+Vreau să știe toți ce bun e Domnul
+Și să spun la toți iubirea Sa!
+/: Cum s-a îndurat Isus de mine
+Și mi-a ridicat povara grea! : \
+
+[v4]
+Domnul te iubește și pe tine,
+Vrea să guști și tu din Harul Său!
+/: Vino, să primești eliberare,
+Să-nțelegi ce bun e Domnul meu! : \

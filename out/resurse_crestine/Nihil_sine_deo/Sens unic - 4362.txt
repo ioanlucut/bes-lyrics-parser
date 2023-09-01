@@ -1,0 +1,30 @@
+[title]
+Sens unic {author: {Nihil sine Deo}, {rcId: {4362}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Cu viața mea azi mă închin
+Căci Tu ești tot ce mi-am dorit
+Te laud Doamne că sunt fericit
+Pe Tin’ Te caut când sunt lovit
+Doar Tu ești Domnul meu iubit
+Umil astăzi eu vin sunt doar al Tău.
+
+[c]
+/: Tu ești Isus
+Singurul de care avem nevoie. :/
+
+[v2]
+Sunt uimit de harul Tău
+Cum ai salvat sufletul meu
+Să-ți aparțin deplin e tot ce vreau
+Niciodată nu te schimbi
+Ai fost și ești din veșnicii
+De-aceea îți cânt din tot sufletul meu.
+
+[e]
+Numai pe Tine noi Te iubim
+Doar prin Tine vrem să trăim
+Tu ești, ești Fiul lui Dumnezeu.

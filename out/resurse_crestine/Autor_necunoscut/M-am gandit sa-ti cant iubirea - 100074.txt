@@ -1,0 +1,41 @@
+[title]
+M-am gandit sa-ti cant iubirea {author: {Anonim}, {rcId: {100074}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+M-am gândit să-ți cânt iubirea
+Cu-acel foc de la început
+Dar când m-am uitat în mine
+Focul Sfânt ardea mocnit.
+Dragostea dintâi Isuse
+De mult parcă a plecat
+Și-au rămas doar vreascuri arse
+Doar cărbuni am mai aflat.
+
+[c]
+Vino iar iubire Sfântă
+Duh Sfânt cu adânc fior
+/: Mi-e așa de dor de Tine
+Vino scumpe Salvator! :/
+
+[v2]
+Vremea cea de altădată
+Iubirea de frați s-a dus
+Și-a rămas pustiu locașul
+Unde te-am pierdut, Isus.
+Setea sufletului care
+Ne-adună în părtașii
+/: Duhule de rugăciune
+Vino iar, te-aștept să vii. :/
+
+[v3]
+Sfântă zi a întâlnirii
+Cu Isus, Mirele drag
+Jertfa Golgota iubirii
+Vino iar în al meu prag.
+Ne pătrunde în inimi iară
+Preaiubite salvator
+/: Să te-avem în noi pe Tine
+Și să te-așteptam cu dor. :/

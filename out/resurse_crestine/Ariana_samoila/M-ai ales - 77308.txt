@@ -1,0 +1,31 @@
+[title]
+M-ai ales {author: {Ariana Samoila}, {rcId: {77308}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Isuse, mă dăruiesc cu inima,
+Cu tot ce am vreau să-Ți slujesc.
+Tu mă-nțelegi, mă binecuvintezi,
+Niciodată nu mă părăsești, căci mă iubești.
+Multe dureri vin, ispite-n șir, dar mă-ncred în Tin’,
+Când nu știu ce să fac și Te-aștept în prag
+Atunci strig: ”
+Tată, ai milă de min’!”
+
+[c]
+Căci m-ai ales, mă iubești, în dragoste mă crești,
+Mă atingi, îmi vorbești, văd cum îmi zâmbești,
+M-ai ales, mă iubești, în dragoste mă crești,
+Mă atingi, îmi vorbești, mi-ai dat har să-nțeleg cum ești.
+
+[v2]
+De mic copil Te-am lăudat
+Și pentru toată lucrarea Ta m-am dedicat.
+Doar pe Tine Te-am avut când n-am avut pe nimenea
+Și când singur plângeam și mă rugam, Tu m-ai alinat.
+Multe dureri vin, ispite-n șir, dar mă-ncred in Tin’,
+Când nu știu ce să fac și Te-aștept în prag
+Atunci strig: ”
+Tată, ai milă de min’!”

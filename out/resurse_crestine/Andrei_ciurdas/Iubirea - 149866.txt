@@ -1,0 +1,30 @@
+[title]
+Iubirea {author: {Andrei Ciurdas}, {rcId: {149866}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Iubirea, ce-i iubirea?
+Ce taină ce mister
+Ce aripi poartă gândul înspre Dumnezeu
+Ce lanțuri ne văzute uni-vor om cu om
+Și tainic se-alipesc atom lângă atom.
+
+[c]
+Iubirea-i simțământul ce n-are asemănare
+Se naște, înflorește, trăiește dar nu moare
+Iubirea n-are vârstă cât inimia-i mai bate
+E mai presus de toate.
+Iubirea-i simțământul ce n-are asemănare
+Se naște, înflorește, trăiește dar nu moare
+Iubirea n-are vârstă cât inimia-i mai bate
+E mai presus de fire
+E mai presus de toate.
+
+[v2]
+Iubirea dorul tainic,
+De viață de zidire
+Izvorul nesecat de pace fericire
+Iubirea-i mână blândă, ce sufletu-nfioară
+O eternă și blândă primăvară.

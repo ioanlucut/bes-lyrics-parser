@@ -1,0 +1,35 @@
+[title]
+Sa cantam azi o cantare fratilor {author: {Călinuț}, {rcId: {146442}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: Să cântăm azi o cântare, fraților
+Dacă de Isus, de Domnul ne e dor,
+Să răsune adunarea iar și iar,
+Să-I aducem jertfa noastră pe altar. :/
+
+[c]
+Nu-i nimeni ca Domnul Ceresc Împărat,
+Nu-i nimeni ca El în Splendoare!
+În dragostea-I mare la El ne-a chemat,
+Veniți să-I cântăm Osanale!
+
+[v2]
+Să cântăm azi o cântare, fraților
+Dacă de Isus, de Domnul ne e dor,
+Să răsune adunarea iar și iar,
+Să-I aducem jertfa noastră pe altar,
+
+[v3]
+Să cântăm azi o cântare iar în cor,
+Dumnezeu e biruință și-ajutor!
+În mijlocul laudei El va veni!
+Dumnezeul nostru ne va izbăvi!
+
+[v4]
+/: Să cântăm azi o cântare, să-ndrăznim
+Înaintea Lui cu laude să venim,
+Dumnezeu dă binecuvântări și-acum
+Ne-a promis că e cu noi pe-al vieții drum. :/

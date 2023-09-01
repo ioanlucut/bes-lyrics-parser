@@ -1,0 +1,42 @@
+[title]
+Mireasa mea batuta de furtuna {author: {Nicolae Moldoveanu}, {rcId: {3998}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,v4,c,v5,c
+
+[c]
+Mireasa Mea, bătută de furtună,
+Nemângâiată, vino! vino!...
+
+[v1]
+Ai început să bâjbâi prin negrul întuneric,
+Ai început să murmuri în suferința grea
+/: Ziceai că s-a dus totul, nimic nu-i pentru tine,
+Iar crucea ce ți-am dat-o, îți pare-atât de grea. :/
+
+[v2]
+Uitat-ai de nădejde și ce spune Cuvântul
+Uitat-ai tu de toate până și legământul.
+/: Ai început să murmuri, să mergi strâmb pe cărare
+Uitând făgăduința, cerească îndurare. :/
+
+[v3]
+Uitat-ai ce-a zis Domnul: că-n noaptea cea amară,
+Ca fulgerul pe ceruri Isus o să apară.
+/: Descurajarea-ți mare, la ceruri a ajuns
+Cu lacrime la Tatăl mijlocește Isus. :/
+
+[v4]
+”
+Vezi Tată? Vezi copiii ce Mi I-ai dat în lume:
+Se pierd în valuri grele, loviți sunt de durere
+/: Azi masa este gata, odaia-i pregătită...
+Mă duc, Mă duc, o, Tată, ca să-i aduc la nuntă.!”
+
+[v5]
+Acolo vei gusta din fructe hrănitoare
+Vei bea din apa vie ce e răcoritoare.
+/: Acolo ești scutită de vânt și vijelie.
+”
+Amin!” Mireasa strigă: ”
+Amin Isuse Ție!” :/

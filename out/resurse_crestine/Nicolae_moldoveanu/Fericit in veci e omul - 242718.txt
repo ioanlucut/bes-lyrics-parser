@@ -1,0 +1,29 @@
+[title]
+Fericit in veci e omul {author: {Nicolae Moldoveanu}, {rcId: {242718}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Fericit în veci e omul,
+Ce trăiește prin credință,
+/: Și deplin se-ncrede-n Domnul
+Cu întreaga lui ființă! :/
+
+[v2]
+Fericit e când ascultă
+Sfânta Lui învățătură,
+Și nu schimbă nici o iotă
+De cum scrie la Scriptură!
+
+[v3]
+Fericit e în nădejde
+Și-n văpaie de iubire,
+Așteptând cu dor fierbinte
+Strălucita Lui venire!
+
+[v4]
+Fericit e viața toată
+Fericit în veșnicie,
+Fericit în suferință,
+Fericit în bucurie!

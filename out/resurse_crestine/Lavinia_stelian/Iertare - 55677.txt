@@ -1,0 +1,26 @@
+[title]
+Iertare {author: {Lavinia Stelian}, {rcId: {55677}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Mi-ai arătat ce e durerea
+M-ai fascinat cu tăcerea
+Știu, a fost greu, o, Tatăl meu
+Tatăl meu...
+
+[c]
+/: Când nu poți ierta
+Ascultă-ți inima
+Lasă dragostea
+Să pătrundă-n ea
+El ne-a iubit
+Pentru noi s-a jertfit
+Și iertare în dar am primit. :/
+
+[v2]
+M-ai învățat ce e iubirea
+Mi-ai arătat fericirea
+Și m-ai făcut copilul tău
+Tatăl meu.

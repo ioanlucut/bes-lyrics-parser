@@ -1,0 +1,29 @@
+[title]
+Iubirea voastra {author: {Eugen Ruje}, {rcId: {139174}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Soapte straine, soapte murdare
+Vor incerca sa spulbere tot ce-i frumos
+Dar nici o clipa, sa nu dati crezare
+Acestor soapte, caci nu sunt de folos.
+
+[c]
+/: Si-atunci cand va fi greu, roaga-te la Dumnezeu
+Cand tu nu vei putea, Isus te va ajuta! :/
+x2
+/: Si-atunci cand va fi greu, roaga-te la Dumnezeu
+Cand tu nu vei putea, Isus te va ajuta! :/
+x2
+
+[v2]
+Iubirea voastra, sa fie ca roua
+Ce limpezeste floarea dupa o noapte grea;
+Iubirea voastra sa fie un soare,
+Ce-alunga norii negri si tristetea grea!
+Sa nu va despartiti, este o porunca
+A zis Isus si ce a spus e, e sfant
+Sa nu va despartiti, oricat de mare
+Va fi-ncercarea, voi s-o biruiti!

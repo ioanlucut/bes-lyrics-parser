@@ -1,0 +1,53 @@
+[title]
+Copilas balai cu chip de soare {author: {Anonim}, {rcId: {196387}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Copilaș bălai cu chip de soare
+Pe pășuni cu harfa lui cânta
+Pe pășuni lupta-tu-sa cu leii
+Dar inimă de împărat avea.
+
+[c]
+Nu mă tem de nimeni
+Deși nu-s David eu
+În luptă cu mine
+E tare Dumnezeu.
+
+[v2]
+Auzit-ați de un tânăr care
+S-a păstrat curat în Babilon
+Înțeleptul care dat la fiare
+A făcut din groapă un amor.
+
+[c2]
+Nu mă tem de nimeni
+Deși nu-s Daniel
+În în lume cu mine
+E același Dumnezeu.
+
+[v3]
+Auzita-ți despre un altul care
+Pentru fecioria lui curată
+Suferita ani de închisoare
+Dar acum e o carte adevărată.
+
+[c3]
+Nu mă tem de nimeni
+Deși nu-s Iosif eu
+În lume cu mine
+E tare Dumnezeu.
+
+[v4]
+Voi care purtați un suflet tânăr
+Fiți și voi o carte ca mai sus
+Faptele El vi le pregătește
+Veniți cu tinerețea la Isus.
+
+[c4]
+Nu mă tem de nimeni
+Deși nu-s tare eu
+În lume cu mine
+E tare Dumnezeu.

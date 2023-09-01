@@ -1,0 +1,41 @@
+[title]
+O sfinte duh de viata darnic {author: {Nicolae Moldoveanu}, {rcId: {5505}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+O, Sfinte Duh de viata darnic,
+Ce inimile le-ncalzesti,
+Poporul Tau Te cheama dornic,
+Lumina Ta s-o daruiesti.
+
+[c]
+/: Noi Te rugam, revars-acuma
+Din stropii Tai, cei minunati,
+Si Te-om slavi, pe Tine,-ntruna,
+Pana, la cer, vom fi luati. :/
+
+[v2]
+Coboara, plin de roade sfinte,
+Cu haina Ta sa ne-mbraci;
+Cu noi, pe drum, sa mergi-nainte,
+Sa miluiesti pe cei saraci.
+
+[v3]
+Cobori cu daruri si putere,
+Minuni si semne din belsug!
+Inlatura orice durere
+Si sa zdrobesti al firii jug!
+
+[v4]
+Marire sa-Ti cantam, pe cale,
+Sa Te servim de seva plini;
+Iar pentru ziua nuntii Tale,
+Ti-om pune, la picioare, crini.
+
+[v5]
+O, Sfinte Duh de viata darnic
+In orice zi sa ne-nsotesti!
+Sa ne vedem curand, in ceruri,
+Acolo unde locuiesti.

@@ -1,0 +1,35 @@
+[title]
+Isus pe via dolorosa/doamne ce-as putea sa-ti dau {author: {Anonim}, {rcId: {240776}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Isus pe Via Dolorosa
+Ai fost batut in locul meu
+Si cu toti strigau la moarte
+Ai fost lovit de oameni rai
+
+[c]
+/: Doamne ce-as putea sa-ti dau
+In schimbul jertfei tale
+Inima mea ti-o dau Isus
+Si imi cer mereu iertare :/
+
+[v2]
+Era asa de grea povara
+Ai dus-o Tu in locul meu
+Nu ai privit deloc in urma
+Si ai rabdat in locul meu
+
+[v3]
+Pe curce ai stat atarnat
+Purtai ai lumii greu pacat
+Si cuie-n palme ti-au batut
+Curgea din Tine sange sfant
+
+[v4]
+Iar Tu pe Tatal ai strigat
+O iarta-i caci nu stiu ce fac
+Iubirea Ta ai raspandit
+Si-o lume-ntreaga ai mantuit

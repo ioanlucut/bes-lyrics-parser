@@ -1,0 +1,29 @@
+[title]
+Fara tine viata-i trista {author: {Puiu Chibici}, {rcId: {145085}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Fără Tine, viața-i tristă,
+Fără Tine, totul e pustiu,
+Doar prin Tine, ce-i frumos există,
+Toate acestea, fiindcă Tu ești viu.
+
+[c]
+/: Doamne mare, sfânt și minunat,
+Ziditor ce toate le-ai creat,
+/: Fii lăudat și-n veci glorificat,
+Peste toate numai Tu ești înălțat! :/
+
+[v2]
+Orice zâmbet, orice floare,
+Orice har ce-aicea îl primesc,
+Orice rază sclipitoare,
+Despre Tine, Tată, îmi vorbesc.
+
+[v3]
+Niciodată, niciodată,
+Să Te laud nu voi înceta,
+Căci Tu meriți slava toată,
+Vreau de-aceea veșnic a-Ți cânta!

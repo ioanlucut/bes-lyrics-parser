@@ -1,0 +1,40 @@
+[title]
+Liberi noi suntem {author: {Anonim}, {rcId: {4989}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Liberi noi suntem,
+Liberi noi suntem,
+Liberi noi suntem acum.
+O, pace avem în inimă,
+Liberi noi suntem acum.
+
+[v2]
+Suntem cu Isus,
+Suntem cu Isus,
+Suntem cu Isus acum.
+O, pace avem în inimă,
+Suntem cu Isus acum.
+
+[v3]
+Noi suntem uniți,
+Noi suntem uniți,
+Noi suntem uniți acum.
+O, pace avem în inimă,
+Noi suntem uniți acum.
+
+[v4]
+Noi suntem sfințiți,
+Noi suntem sfințiți,
+Noi suntem sfințiți acum.
+O, pace avem în inimă,
+Noi suntem sfințiți acum.
+
+[v5]
+Noi suntem iubiți,
+Noi suntem iubiți,
+Noi suntem iubiți acum.
+O, pace avem în inimă,
+Noi suntem iubiți acum.

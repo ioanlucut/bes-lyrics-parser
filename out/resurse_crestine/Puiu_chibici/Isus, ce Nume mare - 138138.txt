@@ -1,0 +1,29 @@
+[title]
+Isus ce nume mare {author: {Puiu Chibici}, {rcId: {138138}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Isus, Isus, ce Nume mare,
+Ce Nume sfânt și minunat,
+Isus, Isus, ești o splendoare,
+Ești peste veacuri tot mai adorat.
+
+[c]
+Isus, Isus, a mea iubire,
+Tu ai umplut viața mea
+Cu har nespus și fericire,
+A Ta să fie în veci gloria.
+
+[v2]
+Isus, Isus, rostesc de veacuri
+Ai Tăi copii răscumpărați,
+Îți cântă mii și mii de glasuri
+Osiana Numelui Tău drag și înălțat.
+
+[v3]
+Isus, Isus, Domn al drepății,
+Războiesc sfânt biruitor,
+Isus, Isus, Rege al vieții,
+Izvor curat de pace dătător.

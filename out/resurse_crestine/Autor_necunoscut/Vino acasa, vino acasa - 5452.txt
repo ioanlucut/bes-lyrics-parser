@@ -1,0 +1,27 @@
+[title]
+Vino acasa vino acasa {author: {Anonim}, {rcId: {5452}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Vino acasă, vino acasă, o, fiu risipitor!
+Vino și lasă că totul trece, totul e trecător.
+
+[c]
+/: De ce :/ de ce, nu te întorci ?
+Întoarce-te o, fiu pierdut!
+De ce, de ce nu vii,
+De ce, de ce tot mai amâi ?
+
+[v2]
+Tatăl te cheamă la mântuire și tu tot rătăcești.
+De ce respingi tu a Lui iubire și nu te hotărăști ?
+
+[v3]
+El te așteaptă în veșnicie, în patria de sus!
+Vin’ dar acasă din pribegie, o, vino la Isus!
+
+[v4]
+O, te grăbește, o, te grăbește, Te cheamă Tatăl tău,
+El te primește, El te iubește, căci El e Dumnezeu

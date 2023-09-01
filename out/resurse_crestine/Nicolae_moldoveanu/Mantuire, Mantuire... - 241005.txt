@@ -1,0 +1,45 @@
+[title]
+Mantuire mantuire {author: {Nicolae Moldoveanu}, {rcId: {241005}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Mântuire, Mântuire,
+Din adânci păcate,
+Să-ți aducă cu iubire,
+Numai Domnul poate;
+/: Dragul meu, să-ți dea viață,
+Domnul singur poate. :/
+
+[v2]
+Alinare, alinare,
+În dureri cumplite,
+Cu iubire, cu-ndurare,
+Domnu-ți dă iubite.
+/: Mângâiere vieții tale,
+Domnu-ți dă iubite. :/
+
+[v3]
+Biruință, biruință,
+În ispite grele,
+Cu iubire, prin credință,
+Domnu-ți dă în ele.
+/: De-L asculți, tu mai puternic,
+Vei ieși din ele. :/
+
+[v4]
+Bucurie, bucurie,
+Har venit prin cruce,
+Cu iubire, Domnul ție,
+Zilnic ți-I aduce.
+/: De trăiești în curăție,
+Zilnic ți-I aduce. :/
+
+[v5]
+Fericire, fericire,
+Vrajă ce te leagă
+Cu putere, cu iubire,
+Ți-o dă Domnu-ntreagă.
+/: De rămâi în El statornic,
+Vei primi-o-ntreagă! :/

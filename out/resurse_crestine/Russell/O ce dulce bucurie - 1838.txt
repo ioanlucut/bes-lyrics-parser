@@ -1,0 +1,28 @@
+[title]
+O ce dulce bucurie {author: {Russell}, {rcId: {1838}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O, ce dulce bucurie,
+Scump Mântuitor,
+Să-ți slujesc deplin doar Ție,
+Bunul meu Păstor!
+
+[c]
+/: Să-Ți închin întreaga-mi viață
+Pentru veci aș vrea
+Și să am dorita-ți față înaintea mea. :/
+
+[v2]
+Doamne, -ntreaga mea dorință
+E să fiu mai sfânt;
+Dă-mi putere și credință
+În al Tău Cuvânt.
+
+[v3]
+Tu-mi dai, Doamne, biruință,
+Când smerit Ți-o cer;
+Ea-i comoara, prin credință
+Adunată-n cer.

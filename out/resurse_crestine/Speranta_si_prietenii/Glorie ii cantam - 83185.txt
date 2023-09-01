@@ -1,0 +1,35 @@
+[title]
+Glorie ii cantam {author: {Speranța și prietenii}, {rcId: {83185}}
+
+[sequence]
+v1,b,c,v2,c,v3,c
+
+[v1]
+În lumea noastră a venit un Mântuitor
+Un Mântuitor, Răscumpărător
+El S-a născut în lumea noastră s-aducă bucurie
+S-aducă bucurie pentru omenire.
+
+[b]
+Slavă, slavă slavă sus în cer și pe pământ
+Slavă, slavă azi s-a născut Pruncul Sfânt
+
+[c]
+/: Glorie, îi cântăm
+Glorie, îl lăudăm
+Glorie, Pruncului de sus.
+Glorie, îi cântam
+Glorie, îl lăudam
+Glorie, pe veci lui Isus. :/
+
+[v2]
+În lumea noastră a venit un Fiu de Rege
+Un Fiu de Rege pe oameni să-i dezlege
+De lanțurile morții care i-a legat
+Ca ei să fie liberi de orișice păcat.
+
+[v3]
+În lumea noastră a venit Domnul păcii
+Regele etern, Împăratul vieții
+E mare bucurie pe pământ și-n cer
+Fiindcă s-a născut Isus Emanuel.

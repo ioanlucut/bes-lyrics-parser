@@ -1,0 +1,25 @@
+[title]
+Din nou pe caile trezirii {author: {Nicolae Moldoveanu}, {rcId: {5586}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Din nou, pe caile trezirii, o Pe vechi carari ce-au fost dintai,
+Te-ntoarce iar, Mireasa sfanta, o Caci sunt, si-au fost de capatai!
+
+[c]
+/: Biserica, te pregateste, o Te cerceteaza deslusit!
+Priviti la candele, fecioare! o Caci miezul noptii a venit. :/
+
+[v2]
+Vegheaza-n bezna atipirii, o Chiar daca-n urma ai vegheat...
+Mergi iar, pe caile iubirii, o Caci astazi poate le-ai uitat.
+
+[v3]
+Atatia au tinut aproape, o Dar neveghind, au tot cazut...
+Ce multi doresc sa aiba pace, o Cum au avut la inceput...
+
+[v4]
+Asteapt-acum, acum asteapta! o Prea mult, nu ai de asteptat;
+Ca fulgerul veni-va Isus, o Te va lua, ce minunat!...

@@ -1,0 +1,35 @@
+[title]
+Trec incercarile {author: {Nicolae Moldoveanu}, {rcId: {186277}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Trec încercările,
+Vin mângâierile,
+Trec pustiirile,
+Vin fericirile.
+
+[c]
+/: Slavă, o, slavă dăm,
+Slavă în veci cântăm,
+Slavă Isus iubit,
+Slavă, o fii slăvit! :/
+
+[v2]
+Trec suferințele,
+Vin biruințele,
+Vin să-ncunune az’
+Fruntea din greu necaz!
+
+[v3]
+Îngeri cu miile
+Dau bucuriile,
+Raze de soare plin,
+Vin în viață vin!
+
+[v4]
+Doamne, spre slava Ta,
+Cântă azi inima,
+Cântă, smerit, frumos,
+Slavă, Isus Hristos!

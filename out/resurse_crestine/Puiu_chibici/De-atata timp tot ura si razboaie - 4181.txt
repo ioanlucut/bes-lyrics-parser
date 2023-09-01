@@ -1,0 +1,44 @@
+[title]
+De-atata timp tot ura si razboaie {author: {Puiu Chibici}, {rcId: {4181}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+De-atâta timp tot ură și războaie,
+Tot lacrimi, tânguiri și despărțiri,
+Splendoarea Ta, Sioane, o despoaie
+/: Păcate grele și neleguiri! :/
+
+[c]
+/: Te-am părăsit în marea Mea mânie
+Pentru o vreme, însă nu de tot,
+Dar te-oi primi din nou cu bucurie
+/: Căci Eu sunt Domnul Sfânt, sunt Savaot! :
+/:/
+
+[v2]
+Mă voi întoarce iar cu bunătate,
+Popor ales, poporul Meu iubit,
+Iar porțile ce-acum ți-s dărâmate
+/: Se vor zidi, căci Domnul a vorbit! :/
+
+[c2]
+/: Ascultă ce-ți vorbește Cel ce-I veșnic,
+Acela credincios și-adevărat:
+Curând va arde iar lumina-n sfeșnic!
+/: Curând se-ntoarce Marele-mpărat! :
+/:/
+
+[v3]
+Nu se va mai atinge de cetate
+Nimic din ce-i spurcat și necurat,
+Căci El împărăți-va cu dreptate,
+/: Israele, El te-a răscumpărat! :/
+
+[c3]
+/: Întoarce-te acuma cu căință,
+Cu remușcări și cu păreri de rău,
+Să fi primit din nou cu-ngăduință
+/: De Cel ce e Iehova, Dumnezeu! :
+/:/

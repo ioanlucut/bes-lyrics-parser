@@ -1,0 +1,41 @@
+[title]
+Inima-mi de dor suspina {author: {Nicolae Moldoveanu}, {rcId: {5737}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Inima-mi de dor suspină
+După Țara cea de sus,
+După Țara de lumină,
+După Mirele Isus!
+
+[c]
+/: Ah, mi-e dor, mi-e dor de-Acasă,
+De Căminul minunat,
+Unde sfinții stau la masă
+Și-al meu Mire e-Mpărat! :/
+
+[v2]
+Sus, acolo-i Țara păcii,
+Țara veșnicei iubiri,
+Țara mângâierii mele:
+Țara dulcei fericiri!
+
+[v3]
+Cântecele tale sfinte,
+Țara mea, locaș iubit,
+Și de tine-atât cât astăzi,
+Niciodat, n-am dorit!
+
+[v4]
+Țara dorurilor mele,
+Țara Mirelui meu drag,
+Fă-mă să te văd mai iute
+Și să-ți trec doritul prag!
+
+[v5]
+Dă-mi, o clipă mai degrabă,
+Să-Ți văd fața de smarald
+Și-al meu suflet, in Oceanul
+Fericirii, să mi-l scald!

@@ -1,0 +1,29 @@
+[title]
+Isus e biruinta {author: {Nicolae Moldoveanu}, {rcId: {5272}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7,v8
+
+[v1]
+/: Isus e biruința, Aleluia! :/ x3
+
+[v2]
+/: Spre cer El ne conduce, Aleluia! :/ x3
+
+[v3]
+/: El binecuvântează, Aleluia! :/ x3
+
+[v4]
+/: El vindecă bolnavii, Aleluia! :/ x3
+
+[v5]
+/: El iartă păcătoșii? Aleluia :/ x3
+
+[v6]
+/: Isus Cristos e Domnul, Aleluia! :/ x3
+
+[v7]
+/: Vom fi cu El in slavă, Aleluia! :/ x3
+
+[v8]
+/: Pe străzi de aur vom cânta, Aleluia! :/ x3

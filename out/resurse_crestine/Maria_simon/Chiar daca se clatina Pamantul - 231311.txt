@@ -1,0 +1,29 @@
+[title]
+Chiar daca se clatina pamantul {author: {Maria Șimon}, {rcId: {231311}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Tu mi-ai spus Isuse de nimic să nu mă tem,
+Chiar dacă în jur sunt numai lacrimi și dureri.
+Chiar dacă Pământul cu suspine-i presărat,
+Tu îmi ești, Isuse, bucurie necurmat!
+
+[c]
+/: Chiar dacă se clatină Pământul zi de zi,
+Foamete, războaie, orișice-ar veni,
+Viitorul meu este numai în Mâna Ta,
+Din orisice primejdie doar Tu mă vei scăpa! : \
+
+[v2]
+Vin atâtea vești să-mi îngrozească inima
+Dar mi-ai spus că ești mereu salvarea mea!
+Chiar dacă oștiri în jurul meu s-ar ridica,
+Tu mi-ai spus, Isus, că pentru mine vei lupta!
+
+[v3]
+Prin furtuni, prin valuri, prin cuptoarele fierbinți,
+Doar cu Tine, Doamne, avut-am biruinți!
+Inima mi-e plină de speranță căci odat’
+Vom fi nedespărțiți în Raiul minunat!

@@ -1,0 +1,31 @@
+[title]
+Vestit-au ingerii {author: {Anonim}, {rcId: {1552}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Vestit-au îngerii din cer
+În câmp, jos la păstori:
+Acum vi s-a născut Cristos
+La lume de folos.
+
+[c]
+/: Cu îngerii toți să-I cântăm :/
+Și cu oastea-aceea cerească
+Laudă lui Dumnezeu.
+Mărire. mărire
+Lui Dumnezeu din înălțime.
+Pace fie pe pământ.
+
+[v2]
+Când îngerii la cer s-au dus
+Atunci păstori-au zis:
+Să mergem dar la Betleem
+Pe Isus să-L vedem.
+
+[v3]
+Să alergăm și noi cu toți
+La ieslea lui Cristos
+Și împreună cu păstori
+O veste să primim.

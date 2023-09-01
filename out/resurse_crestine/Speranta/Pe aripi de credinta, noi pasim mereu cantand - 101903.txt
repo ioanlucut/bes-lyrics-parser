@@ -1,0 +1,43 @@
+[title]
+Pe aripi de credinta noi pasim mereu cantand {author: {Speranța}, {rcId: {101903}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Pe aripi de credință,
+Noi pășim mereu cântând,
+Căci Domnul e-nainte!
+Dorim ca să-mplinim
+Tot ceea ce au spus
+A lui Isus cuvinte.
+
+[c]
+Niciodată să nu dăm înapoi,
+Chiar dacă-i greu pe Cale,
+Isus Hristos ne va-ntări
+Și ne va da răbdare!
+
+[v2]
+Cununa pentru care
+Noi luptăm acum cu drag,
+Nu este trecătoare!
+Și în împărăția
+În care sfinții vor intra
+Pe veci, nimeni nu moare!
+
+[v3]
+Chiar dacă astăzi unii,
+Din care ne-au-nvățat pe noi,
+Au fost învinși în luptă,
+Cu mic, cu mare, într-una,
+Să ne-ncurajăm cu toți
+Strigând: tot înainte!
+
+[v4]
+Cei care ne sunt pildă
+În Cuvântul ce-L citim,
+Au mers pe această Cale.
+În tot ne-au dat exemplu,
+Ca și noi să biruim,
+Căci toate-s trecătoare!

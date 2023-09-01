@@ -1,0 +1,30 @@
+[title]
+Sunt calator {author: {Nicu Chereji}, {rcId: {210185}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Sunt călător spre veșnicie,
+Pe-acest pământ sunt doar pribeag un trecător,
+Nu mai tânjesc la bogăție,
+Averea mea-i acolo sus cu-al meu Păstor!
+
+[c]
+El vine iar, El vine iar
+Și orice ochi Îl va vedea în slava Sa,
+Isuse drag, Mireasa-i gata
+Să își ia zborul, cât mai curând
+Nu-ntârzia!
+
+[v2]
+Cu pași grăbiți, alerg spre locul,
+Cel pregătit de Domnul meu Isus Hristos,
+În viața mea, El este totul,
+Cel mai iubit, Cel mai bogat, Cel mai frumos!
+
+[v3]
+Cu Dumnezeu, viața-i senină
+Chiar dacă nori de încercări mă apasă greu,
+Dar știu ca El are să vină
+Și mă va lua de pe Pământ în Raiul Său!

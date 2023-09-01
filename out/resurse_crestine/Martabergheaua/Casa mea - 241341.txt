@@ -1,0 +1,33 @@
+[title]
+Casa mea {author: {Marta_Bergheaua}, {rcId: {241341}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+O cetate stătătoare noi avem acolo sus;
+Unde-i veșnică lumină. și împărat este Isus!
+O cetate luminată, un Ierusalim ceresc;
+Unde sfinții strigă: Slavă Mielului dumnezeiesc!
+
+[c]
+Casa mea, casa mea, oare când Te voi vedea?
+Mult doresc, mult aș vrea. să văd strălucirea ta!
+
+[v2]
+O cetate minunată: fără lacrimi și dureri!
+Unde scumpul nostru Tată ne va da dulci mângâieri!
+Suferință, chinuri grele, despărțiri nu vor mai fi;
+Căci acolo va fi casa veșnicelor bucurii!
+
+[v3]
+Încercările amare și cuptoarele fierbinți;
+Nici un gram de întristare. nu va mai fi pentru sfinți!
+În cetatea pregătită pentru cei răscumpărați.
+Fi-va veșnic sărbătoare; pentru noi: surori și frați!
+
+[v4]
+O cetate stătătoare, unde Ziditorul Sfânt:
+Își așteaptă porumbița. care-i încă pe pământ!
+Casa mea e pregătită: în cetate, acolo sus;
+Casa mea e minunată. că-i zidită de Isus!

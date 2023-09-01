@@ -1,0 +1,44 @@
+[title]
+Vas de cinste {author: {Liviu Gacia}, {rcId: {139859}}
+
+[sequence]
+v1,c,v2,c2,c3
+
+[v1]
+Sunt lutul ce l-ai plămădit demult în Eden
+Nu sunt nimic, dar Tu, o, Doamne, ești etern!
+Sunt țărâna în care ai pus suflare de viață, Părinte de sus,
+M-ai creat după a Ta înfățisare, ce măreață binecuvântare!
+Sunt lutul pe care zi de zi îl modelezi,
+Vasul de pământ la care neîncetat lucrezi,
+Să arunci tot ce-i rău, să arunci ce-i firesc
+Vas de cinste să fiu la sfârșit, așa cum Tu dorești.
+
+[c]
+Vreau sa mă las acum în mâna Ta
+Să poți lucra în viața mea, în viața mea
+Să-ndepărtezi pe veci tot ce-i rău din ea
+Chiar de durerea va fi grea!
+
+[v2]
+Sunt lutul ce l-ai plămadit demult în Eden
+Nu sunt nimic, dar Tu, o, Doamne, ești etern!
+Sunt țărâna în care ai pus suflare de viață, Părinte de sus,
+M-ai creat după a Ta înfățisare, ce măreață binecuvântare!
+Sunt lutul pe care zi de zi îl modelezi,
+Vasul de pământ la care neîncetat lucrezi,
+/: Să arunci tot ce-i rău, să arunci ce-i firesc
+Ca s-ajung la sfârșit, la sfârșit, cum numai Tu dorești :/
+
+[c2]
+Vreau să inunzi acum viața mea
+Îți dăruiesc azi inima, inima!
+Îndepărtează-n veci tot ce-i rău din ea
+Chiar de durerea va fi grea!
+
+[c3]
+Vreau să mă las acum în mâna Ta
+Să poți lucra în viața mea, în viața mea!
+Și chiar de drumu-acesta-mi pare greu
+/: Sfințeste tot trecutul meu! :/
+x3

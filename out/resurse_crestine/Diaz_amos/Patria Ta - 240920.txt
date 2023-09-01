@@ -1,0 +1,35 @@
+[title]
+Patria ta {author: {Diaz Amos}, {rcId: {240920}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Bat clopotele laolaltă,
+Ne adunăm noi pe la porți.
+Azi îți așteptăm venirea:
+/: Să vii, te chemăm toți! :/
+
+[v2]
+Ne-am săturat de astă lume
+Și de durerea ce-i în ea.
+Dorim ca să zburăm acasă:
+/: Sus, în patria Ta! :/
+
+[v3]
+Tânjim după patria sfântă
+Și după al odihnei rai.
+Dorim ca să îți auzim
+/: Al Tău sfânt, ceres grai! :/
+
+[v4]
+La pieptul Tău e atâta pace
+Și ce har nespus este în el.
+Vrem ca să vedem Paradisul,
+/: Mult prea iubitul cer! :/
+
+[v5]
+Acolo unde curge lapte, miere,
+Cascadă de aur cristalin.
+Spre patria Ta nemărginită
+/: Cu toții azi tânjim! /

@@ -1,0 +1,29 @@
+[title]
+Noaptea se lasa {author: {Diaz Amos}, {rcId: {238702}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Noaptea se lasă, dorul mă apasă
+Mi-e dor de casă, de Tin’ Isus!
+Sunt revoltat în beznă, păcat
+Nu mai pot să rabd, o ia-mă sus!
+
+[c]
+/: La Tine Isuse ajutor găsesc
+Sunt păzit de harul dumnezeiesc;
+Prin Tine Doamne eu sunt fericit,
+Căci pacea prin Cristos am primit! :/
+
+[v2]
+Am ascultat de tot ce-ai lăsat,
+Deși noaptea dorea a mă scufunda!
+Strig către cer, să uit de dureri,
+Pun Numele Tău și sunt vindecat!
+
+[v3]
+Griji se arată, toate în ceată,
+De lumea rea sunt înconjurat.
+Dar ocolesc păcatul lumesc,
+Căci spre veșnicie doresc să salt!

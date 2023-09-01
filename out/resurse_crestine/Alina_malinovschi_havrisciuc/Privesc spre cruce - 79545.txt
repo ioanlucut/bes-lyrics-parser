@@ -1,0 +1,23 @@
+[title]
+Privesc spre cruce {author: {Alina Malinovschi Havrisciuc}, {rcId: {79545}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Privesc spre cruce să caut iertare
+Alerg spre Tine să caut adăpost
+Alerg spre stâncă să caut scăpare
+În a mea durere ce mă apasă
+
+[c]
+Doar la Tine găsesc alinare
+Doar la Tine când alerg am scăpare
+Doar la Tine adăpost în stâncă găsesc
+O, Domnul meu Te iubesc
+
+[v2]
+Alerg gonit de-al meu păcat
+Alerg să caut speranță, doar Tu pacea mi-o poți da
+Alerg la Tine, liniștea Tu mi-ai adus
+Pe stancă, Tu, Isus m-ai pus

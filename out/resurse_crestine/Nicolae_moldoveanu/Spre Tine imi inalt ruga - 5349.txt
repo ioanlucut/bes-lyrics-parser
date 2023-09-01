@@ -1,0 +1,38 @@
+[title]
+Spre tine imi inalt ruga {author: {Nicolae Moldoveanu}, {rcId: {5349}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Spre Tine îmi înalț ruga, Stăpânul meu divin...
+Primește-mă la Tine când cu sfială vin.
+
+[c]
+/: N-am aur, nici tămâie s-aduc pe-al Tău altar,
+Dar vreau să-Ți dărui, Doamne, inima mea, în dar. :/
+
+[v2]
+Ca cel mai neînsemnat vin la Tine, să mă primești.
+În a Ta Împărăție, Tu să mă pomenești.
+
+[c2]
+/: În ziua judecății, când Tu vei judeca,
+Să fiu și eu cu-aceia ce-or sta la dreapta Ta. :/
+
+[v3]
+Așa-i șopti tâlharul, pe cruce, lui Isus,
+Iar Domnul, plin de milă, S-a-ntors spre El și-a spus:
+
+[c3]
+/: „
+Chiar astăzi, îți zic ție, cel ce-n cuie stai,
+Primi-vei mântuirea! Vei fi cu Mine-n rai!” :/
+
+[v4]
+Acum Isus e-n slavă, pe tronul Său domnesc,
+Și-așteaptă, cu răbdare, pe cei ce-L prigonesc.
+
+[c4]
+/: Te cheamă și pe tine, amicul meu, să vii,
+Să fii, pe veci, ferice în ale Sale bucurii! :/

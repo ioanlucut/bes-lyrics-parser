@@ -1,0 +1,27 @@
+[title]
+E craciun e sarbatoare {author: {Cristina_Toma}, {rcId: {241366}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+E Crăciun, e sărbătoare! Bucurie toți simțim!
+Și Ți’ aducem închinare. Ție, Pruncule divin!
+
+[c]
+Îngerii vestesc bucuroși în cor!
+Fulgii strălucesc. și dansează în zbor!
+Vestea a sosit astăzi pe pământ!
+Pruncul a venit de la Tatăl Sfânt!
+
+[v2]
+Ai avut ieslea ca pat; iară staulul palat!
+Stelele au luminat! Îngeri au cântat!
+
+[v3]
+Steaua când a răsărit; magii după ea au pornit!
+Regelui S-au închinat, și daruri I-au dat!
+
+[v4]
+Prin nămeți, cu clopoței. azi copii cântă și ei!
+Aduc un frumos colind! Pe Isus slăvind!

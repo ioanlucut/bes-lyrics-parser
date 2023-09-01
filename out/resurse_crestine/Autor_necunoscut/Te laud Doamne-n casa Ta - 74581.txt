@@ -1,0 +1,43 @@
+[title]
+Te laud doamne-n casa ta {author: {Anonim}, {rcId: {74581}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Te laud Doamne-n casa Ta
+Căci e cu putință
+/: Să laud și să pot cânta
+Divina Ta ființă
+Divina Ta ființă :/
+
+[c]
+Te laud, Te laud
+Doamne te laud mereu
+Te laud, Te laud
+Doamne Te laud mereu.
+
+[v2]
+În casa Ta eu înțeleg
+Adevărat și bine
+/: Frumos adevăr întreg
+Și sunt cuprins în Tine
+Și sunt cuprins în Tine :/
+
+[v3]
+Și una e desăvârșit
+Zidirea Ta cea vie
+/: E trupul lui Hristos sfințit
+De-acum și-n veșnicii. :/
+
+[v4]
+Căci cei ce s-au născut din nou
+Sunt în casa Ta preasfântă
+/: Tu ești prin ei etern ecou
+Prin dragostea ce cântă :/
+
+[v5]
+Te laud Doamne-n casa Ta
+Și lauda aprinsă
+/: Să fie-n veșnicii așa
+Iubire nemaistinsă :/

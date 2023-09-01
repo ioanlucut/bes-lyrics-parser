@@ -1,0 +1,41 @@
+[title]
+Nu-i viata totu pe pamant {author: {Vasy Ursulean}, {rcId: {151232}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Nu-i viața totu pe Pamânt, 
+Nu aici ne este imparăția
+Nu-i Raiul ce-l traim aici
+Ci ne așteapta sus o veșnicie.
+
+[c]
+/: Trimite Doamne harul Tău
+Ca sa putem lupta mereu
+C-am obosit,
+Și așai de greu :/
+
+[v2]
+Nu-i totu numai dezmerdari aici, 
+Și avem și lacrimi și suspine
+Dar vino Tu in barca noastră
+Noi te rugam Stapâne.
+
+[c2]
+/: Ai milă Doamne de popor, 
+Că strigă după ajutor
+Condune Tu spre veșnicii
+Că ne este așa de dor :/
+
+[v3]
+Nu-i totu numai faimă și renume,
+Și avem și plânsete amare
+Dar stai de vorba Tu cu noi, 
+Că ne este sete de izvor.
+
+[c3]
+/: Condune Tu pe braț divin
+Inspre cetatea Nou Ierusalim, 
+Ca vrem de toate sa uitam
+Isuse bun :/

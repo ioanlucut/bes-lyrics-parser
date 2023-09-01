@@ -1,0 +1,36 @@
+[title]
+Mai spune-mi mai spune-mi ceva {author: {Anonim}, {rcId: {154510}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cuvinte eu nu am de-ajuns
+Să-Ți mulțumesc azi nespus
+De dragostea ce ne-ai adus
+Să mori pentru mine, Isus!
+
+[c]
+Mai spune-mi, mai spune-mi ceva!
+Isuse, de dragostea Ta
+Cum dus-ai povara mea grea ?
+Și viața Ți-ai dat pentru a mea.
+
+[v2]
+Mai spune-mi de biciul roman
+Mai spune-mi de chinul amar
+De palmele ce Ți s-au dat
+Isus pentru greu-mi păcat
+
+[v3]
+Mai spune-mi cum toți te-au lăsat
+Când oamenii te-au condamnat
+De departe ei au privit
+Pe cruce cum Te-au răstignit
+
+[v4]
+Mai spune-mi când Tu ai strigat
+„
+Tată, iartă-i că nu știu ce fac!”
+Cu drag Tu m-ai răscumpărat
+Eu nu vreau să uit niciodat’.

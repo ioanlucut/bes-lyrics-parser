@@ -1,0 +1,37 @@
+[title]
+Te-ai coborat in ieslea cea saraca {author: {Ami și Crista}, {rcId: {145564}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Te-ai coborât
+În ieslea cea săracă,
+Isuse, Prunc Divin;
+Iar corul îngerilor cântă,
+Pace lumii vestind!
+
+[c]
+/: O, Prunc Ceresc, Copil Divin!
+O, lume-Ți cântă ne-ncetat.
+Ai Coborât în noaptea sfântă,
+Tu, Fiul Celui Preaînalt. :/
+
+[v2]
+Un cor măreț
+De mii și mii de îngeri
+Vestesc Venirea Ta.
+Păstorii duc a lor Vestire,
+Slăvind Mărirea Ta!
+
+[v3]
+Noi Te chemăm
+Să vii în casa noastră
+În seara de „
+Crăciun”!
+Ascultă Tu colinda noastră,
+Ți-o închinăm, acum!
+
+[e]
+Ai Coborât în noaptea sfântă,
+Tu, Fiul Celui Preaînalt.

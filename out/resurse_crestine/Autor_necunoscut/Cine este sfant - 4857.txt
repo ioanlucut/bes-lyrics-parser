@@ -1,0 +1,15 @@
+[title]
+Cine este sfant {author: {Anonim}, {rcId: {4857}}
+
+[sequence]
+v1,c
+
+[v1]
+Cine este sfânt,
+Cine este drept,
+Cine-i atotputernic,
+Cine-i veșnic viu?
+
+[c]
+/: Isus, Fiul lui Dumnezeu.
+Isus, este Mielul ce-a murit și-a înviat. :/

@@ -1,0 +1,59 @@
+[title]
+Ce plan am eu cu tine {author: {Lidia Gheorghe}, {rcId: {94769}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Ce plan am Eu cu tine,
+Tu nici nu te gândești.
+Când o să-ți fie bine,
+Tu o să-Mi multumești.
+/: Căci te-am văzut copile
+Trist și înlăcrimat
+În locul singuratic
+Te-ai dus și te-ai rugat. :/
+
+[c]
+Vino! Vino aproape!
+Mai aproape de sânul Meu.
+Vino! Vino aproape!
+De pieptul Meu
+De Dumnezeu.
+
+[v2]
+Eu te cunosc pe nume,
+Te știu că ești al Meu.
+Îți știu umblarea-n lume
+Și știu că îți e greu
+/: Dar te rog, nu uita!
+De dragostea Mea.
+Ce mare-i pentru tine,
+O, de-ai putea vedea! :/
+
+[c2]
+Simte! Căci pentru tine,
+Da, pentru tine
+Eu M-am jertfit.
+Adu-ți, aduți aminte!
+Căci din iubire
+Am suferit.
+
+[v3]
+Iubește și tu suflet
+Chiar de e dureros.
+Fi bun cu cei din juru-ți
+Să semeni cu Hristos.
+/: Și nu se poate, dacă
+Îmlinești cuvântul Meu,
+Să nu aducă roadă
+Cum am adus și Eu. :/
+
+[c3]
+Vino! Vino aproape!
+De pieptul Meu,
+De Dumnezeu.
+Simte! Căci pentru tine,
+Da pentru tine
+Eu M-am jertfit.
+Copil iubit.

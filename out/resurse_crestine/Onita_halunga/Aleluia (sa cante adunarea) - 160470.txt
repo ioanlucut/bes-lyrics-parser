@@ -1,0 +1,23 @@
+[title]
+Aleluia (sa cante adunarea) {author: {Oniță Halunga}, {rcId: {160470}}
+
+[sequence]
+c,c,v1,c,c,v2,c,c,c,c,
+
+[c]
+Aleluia, să cânte adunarea,
+Aleluia, să răsune zarea,
+Osana, să cântăm mereu,
+Sfânt, sfânt, sfânt este Dumnezeu.
+
+[v1]
+Ești vrednic de cinste și de închinare
+Ești vrednic de laudă și de adorare,
+Nu-i nimeni ca Tine, Tu ești Domnitor,
+Ești din veșnicie, Doamne, Rege-al regilor.
+
+[v2]
+Ești Alfa și Omega, Tu nu ai început,
+Ești Veșnicul Iehova, ești Dumnezeu Sfânt,
+Tu nu ai hotare, ești fără de sfârșit,
+Și în bunătate, Doamne, ești nemărginit.

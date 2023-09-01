@@ -1,0 +1,23 @@
+[title]
+Imnul vacantei {author: {Lidia Gheorghe}, {rcId: {216173}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Am luat vacanța!
+Ce frumoasă-i viața!
+Caldă-i apa-n mare!
+În sfârșit e soare!
+
+[v2]
+Mare-i bucuria
+Noastră-a tuturor!
+Cântul, veselia
+-s a copiilor.
+
+[v3]
+Doamne-ți mulțumim!
+Tu ai fost cu noi.
+Azi te preamărim!
+Ne-ai ținut vioi.

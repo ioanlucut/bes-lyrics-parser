@@ -1,0 +1,37 @@
+[title]
+O veste de pace {author: {Cornel Matei}, {rcId: {156972}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+O veste de pace, ascună-ntr-o stea
+Un semn al iubirii, ce nimeni nu-l știa,
+Doar magii de departe, au înțeles uimiți
+Că s-a născut în Betleem, cerescul Prinț.
+
+[c]
+A coborât, din slăvi eterne
+Acel ce este Alfa și Omega,
+El este Isus, ce-n ceruri domnește
+S-a întrupat și ne-a învățat
+Ce-nseamnă iubirea.
+
+[v2]
+Adesea spre ceruri, uimit eu privesc
+Mulțimea de stele, ce-n noapte strălucesc,
+Îmi amintesc de Tatăl a toate Creator
+Și parcă spun că am în cer, un Salvator.
+
+[e]
+Întreb, tu-L cunoști
+Pe Isus, ce la noi a venit
+Și-a dat chiar și viața în dar
+Căci ne-a iubit.
+
+[c]
+A coborât, din slăvi eterne
+Acel ce este Alfa și Omega,
+/: El este Isus, ce-n ceruri domnește
+S-a întrupat și ne-a învățat
+Ce-nseamnă iubirea. :/

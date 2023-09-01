@@ -1,0 +1,23 @@
+[title]
+Tu esti stanca mea {author: {Cătălin Ciuculescu}, {rcId: {188894}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Doamne, știu bine că fără Tine
+Nu pot să fac nimic...
+Tu-mi dai putere, în orice vreme,
+Doamne, Tu m-ai păzit!
+
+[c]
+Tu ești Stânca mea, ocrotirea mea
+Locul meu de adăpost
+Tu ești pacea mea, bucuria mea
+Fără Tine nu am rost...
+
+[v2]
+Te porți cu mine cu gingășie
+Inima-mi copleșești
+Am siguranță, Tu-mi dai speranță
+Doamne, ce drag îmi ești!

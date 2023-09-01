@@ -1,0 +1,25 @@
+[title]
+Tu stai mereu in asteptare {author: {Nicolae Moldoveanu}, {rcId: {5438}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Tu stai mereu in asteptare o Si tot mai pribegesti hoinar...
+/: Sa vii pan-usa e deschisa o Si cat mai tine al Sau har! :/
+
+[v2]
+Sa vezi pe Isus cum te cheama o Cu glasul Sau bland si duios;
+/: El te iubeste, ca o mama, o Si vrea sa-I fii Lui de folos. :/
+
+[v3]
+De vii la Isus Savatorul o Cu toata viata sa-I slujesti,
+/: El te va duce, sus la Tatal, o Ca, sus in cer, sa locuiesti. :/
+
+[v4]
+Sa nu mai simti suspin, durere o Cum ai simtit aicea jos,
+/: Tu vei simti o mangaiere o Cu Domnul tau, Isus Hristos. :/
+
+[v5]
+Acolo lacrima nu este, o Nici bocete si nici suspin,
+/: Acolo va fi bucuria o E-orasul: Noul Ierusalim. :/

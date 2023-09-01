@@ -1,0 +1,29 @@
+[title]
+Eu voi zbura {author: {Spiritual Touch}, {rcId: {1542}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Într-o zi când viața voi sfârși
+Eu voi zbura
+Spre albastrul și seninul Cer
+Eu voi zbura
+
+[c]
+Eu voi zbura spre glorii
+Eu voi zbura
+Când viața jos voi termina
+Eu voi zbura
+
+[v2]
+Când pe țărmul mării de cristal
+Eu voi sosi
+Voi vedea pe sfinții Tatălui
+Și pe Isus
+
+[v3]
+Voi cânta la masa Mirelui
+Eu voi cânta
+Și voi sta la dreapta Mirelui
+Acol’ eu voi sta.

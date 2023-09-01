@@ -1,0 +1,21 @@
+[title]
+Lasa duhul tau sa cada {author: {Anonim}, {rcId: {2847}}
+
+[sequence]
+v1,c
+
+[v1]
+Lasa Duhul Tau sa cada
+Lasa raul Tau sa curga
+Lasa focul Tau sa arda
+Tot ce e rau.
+Lasa ploaia Ta sa cada
+Lasa vantul Tau sa bata
+Lasa focul Tau sa arda
+Tot ce e rau.
+
+[c]
+/: Sa ma sfintesti,
+Sa ma curatesti
+Tot mai mult
+Ca Tine mai mult. :/

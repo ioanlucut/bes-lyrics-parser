@@ -1,0 +1,41 @@
+[title]
+Shalom shalom {author: {Nicu Chereji}, {rcId: {208861}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Dovada ne-e vântul ca Domnul trăiește
+Dovada ne-e cerul pot spune oricui
+Sunt lucruri mărețe dar nu pot cuprinde
+Iubirea-I sublimă și dragostea Lui
+Când zorii se-arată, El dragostea-și spune
+Trezindu-te iară-ți mai da încă o zi
+Îți pune în gură cântarea de laudă
+Ți-acordă prilejul să-i poți mulțumi.
+
+[c]
+Shalom, Shalom, Isus ne-a dat
+Cuvântul cel mai scump și cel mai minunat
+Shalom, Shalom, e pacea Sa
+Isus Hristos ne-a dat mântuirea.
+
+[v2]
+Dovada sunt crinii cei albi ca zăpada
+Cu-a lor frumusețe și dulce miros
+Iar Cel ce-i îmbracă și-i face sa crească
+E marele Rege Iubitul Hristos
+Când zorii se-arată, El dragostea-și spune
+Trezindu-te iară ți mai dă încă o zi
+Îți pune în gură cântarea de laudă
+Ți-acordă prilejul să-i poți mulțumi.
+
+[v3]
+În tot ce se mișca și are suflare,
+Avem drept dovada ca Domnul E Viu!
+E stânca de veacuri izvor de iubire
+Ce veșnic trăiește, cu El vreau să fiu
+Când zorii se-arată, El dragostea-și spune
+Trezindu-te iară-ți mai dă încă o zi
+Îți pune în gură cântarea de laudă
+Ți-acordă prilejul să-i poți mulțumi.

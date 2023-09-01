@@ -1,0 +1,36 @@
+[title]
+Inlatura furtuna {author: {Rad Maria}, {rcId: {7208}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c
+
+[v1]
+Te chem Isus cu dor, Te strig și Te ador,
+Te chem Isus mereu Te strig, o Domnul meu.
+
+[c]
+Înlătură furtuna pentru totdeauna.
+
+[v2]
+Te chem din zor de zi, Te chem Isus să vi,
+Te strig necontenit, o unde Te-ai oprit,
+
+[v3]
+Te chem dorind acum să vi pe al meu drum
+Unde mă zbat plîngînd și strig să vi curînd.
+
+[v4]
+Te chem în miez de noapte și bat la porți departe,
+În fața cerului, strigînd spre tronul Lui.
+
+[v5]
+Te chem mai obosit și strig necontenit,
+Te chem să lupți mereu să aduci solul Tău.
+
+[v6]
+Te chem nu Te opri, o vino-n zori de zi,
+Oprește-te la mine și barca mea o ține.
+
+[v7]
+Zi un cuvînt acum furtuna e pe drum,
+Oprește nu lăsa înaintarea sa.

@@ -1,0 +1,35 @@
+[title]
+Avem pe-acest pamant strain {author: {AC, RAN}, {rcId: {209163}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Avem pe-acest pământ străin
+Lupte de dus cu-amar și chin
+Cel rău mereu la pândă stă
+Dar Doamne-ți cer putere-mi dă.
+
+[c]
+/: Am obosit pe-acest pământ
+O, vino Doamne mai curând
+Călăuzește viața mea
+S-aștept cu drag venirea Ta :/
+
+[v2]
+Avem furtuni de străbătut
+Și-n față-avem pe Domnul scut
+El ne ridică când cădem
+Și-n rugă noi de Îl strigăm.
+
+[v3]
+În Cartea-ți sfântă ne-ai lăsat,
+Cuvântul Tău ne-a-mbărbătat
+În barcă de ne clătinăm
+Ne dă curaj să ’naintăm.
+
+[v4]
+Avem un dor de Paradis
+Vom fi cu Tine ne-ai promis
+Cu cei dragi ce deja s-au dus,
+Ne-om bucura la Tine sus.

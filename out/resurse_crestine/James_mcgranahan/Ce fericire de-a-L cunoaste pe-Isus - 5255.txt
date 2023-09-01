@@ -1,0 +1,35 @@
+[title]
+Ce fericire de-a-l cunoaste pe-isus {author: {James McGranahan}, {rcId: {5255}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ce fericire de-a-L cunoaste
+Pe-Isus, Pastorul minunat
+Ce cu blandete turma-Si paste
+Si-o apara neincetat.
+
+[c]
+/: Lui sa-I cantam, :/ x4 ori
+/: El pentru noi :/ /: Viata Si-a dat; :/
+/: Acum si noi :/ /: Viata sa-I dam, :/
+/: Sa-I fim urmasi :/ /: Ai lui Isus. :/
+
+[v2]
+Cu totii-am mers pe cai desarte,
+In pofte rele si-n pacat,
+Dar El veni si, de la moarte,
+In viat-eterna ne-a mutat.
+
+[v3]
+Ca niste oi pe calea lata,
+Mergeam spre vesnicul abis,
+Dar El ne-a sters a vinei pata
+Si-acum pasim spre Paradis.
+
+[v4]
+Sa-naintam dar, fara frica
+Si fara grija, neintinati,
+Caci azi suntem o ceata mica,
+O ceata de rascumparati.

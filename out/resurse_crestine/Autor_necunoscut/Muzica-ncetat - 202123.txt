@@ -1,0 +1,43 @@
+[title]
+Muzica-ncetat {author: {Anonim}, {rcId: {202123}}
+
+[sequence]
+v1,c,c2,v2,c,c2
+
+[v1]
+Muzica-ncetat, totu-i nemiscat
+Dar eu vin spre Tin’
+Doamne, m-a durut, tot ce n-am facut
+Voia sa-Ti ascult
+
+[c]
+Mai mult de-un cantec Ti-aduc
+Caci doar cantecul nu-i
+Ceea ce Tu ai fi vrut
+Tu cauti mai mult, mai adanc
+Decat se poate vedea
+Te uiti in inima mea
+Mai mult de-un cantec Ti-aduc
+Caci doar cantecul nu-i
+Ceea ce Tu ai fi vrut
+Tu cauti mai mult, mai adanc
+Decat se poate vedea
+Te uiti in inima mea
+
+[c2]
+Ma-ntorc la inima inchinarii
+Vreau sa vad fata Ta, doar fata Ta Isus
+Imi pare rau de a mea greseala
+Ca nu Te-am cautat
+Si nu m-am inchinat destul
+Ma-ntorc la inima inchinarii
+Vreau sa vad fata Ta, doar fata Ta Isus
+Imi pare rau de a mea greseala
+Ca nu Te-am cautat
+Si nu m-am inchinat destul
+
+[v2]
+Oamenii nu pot intelege tot
+Ce Tu ai jertfit
+Tot ce am primit, tot ne-ai daruit
+Doamne, prin Isus

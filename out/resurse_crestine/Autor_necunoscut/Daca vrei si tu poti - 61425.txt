@@ -1,0 +1,29 @@
+[title]
+Daca vrei si tu poti {author: {Anonim}, {rcId: {61425}}
+
+[sequence]
+c,v1,c2,v2,c2
+
+[c]
+Dacă vrei și tu poți
+Să ajungi mântuit
+Eu te chem azi să vii,
+La crucea Lui Isus.
+
+[v1]
+Tot pământul ți-a spus
+Flori și vânt îți vorbesc zi de zi
+Păsărelele-n ram,
+Strigă să nu stai!
+
+[c2]
+Hai nu mai sta, te aștept
+Strigă inima-n piept
+Hai cu noi la Isus
+Ca să fii mântuit!
+
+[v2]
+Soarele de pe cer
+Stelele ce sclipesc ne-ncetat
+Și cascada de sus
+Toți te cheamă: Hai!

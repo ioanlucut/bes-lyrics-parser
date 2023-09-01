@@ -1,0 +1,35 @@
+[title]
+Tu esti doamne a mea iubire {author: {Grupul Maslinul}, {rcId: {154817}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Tu ești, Doamne, a mea iubire,
+Tu mi-ai adus mântuire,
+Fericit sunt cu Tine mereu!
+/: Cu Tine am siguranță,
+Ești singura mea speranța,
+Isuse, ești Dumnezeul meu! :/
+
+[c]
+/: Slavă! Eu am să-Ți cânt
+Și în inima și-n gând!
+Inima îmi va cânta mereu,
+/: Isuse, ești Domnul meu! :/
+
+[v2]
+De Ține nu mă desparte
+Nici durere și nici moarte,
+Doamne, sunt de-acum pe veci al Tău!
+/: Da-mi putere cât trăiesc
+Pe Tine să Te slujesc,
+Isuse, ești Prințul meu ceresc! :/
+
+[v3]
+Ești un Prieten minunat,
+Bun și drept și-adevărat,
+Nu-i ca Tine, Doamne, nimenea!
+/: Căci toți câți Te-au căutat
+Cu mâini goale de la Tine
+Niciodată n-au plecat! :/

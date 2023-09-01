@@ -1,0 +1,29 @@
+[title]
+Nu este sub cer o lucrare mai mareata {author: {David Știrb}, {rcId: {224258}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Nu este sub cer o lucrare mai măreață
+Decât ce-a făcut Dumnezeu pentru om.
+/: Prin singurul Fiu ne-a adus la viață,
+Slăvim pe Hristos toți în cor. :/
+
+[c]
+Jertfa Ta, jertfa Ta,
+Multumim, Isuse drag, căci prin ea
+Ne-ai mântuit, ne-ai izbăvit,
+Te iubim, fii în veci preamărit!
+
+[v2]
+Prin Isus Hristos am primit mântuirea
+Și vrem ca viața întreagă să-I dăm.
+/: Prin moartea-i pe cruce avem nemurirea,
+Slăvim pe Hristos și-I cântăm. :/
+
+[v3]
+De n-ar fi Calvar, și Golgota, și cruce
+Eram pe vecie pierduți, în păcat
+/: Dar harul divin mântuire aduce,
+Slăvim pe Hristos ne-ncetat. :/

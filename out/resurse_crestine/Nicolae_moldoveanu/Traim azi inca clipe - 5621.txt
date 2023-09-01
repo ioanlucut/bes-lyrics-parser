@@ -1,0 +1,54 @@
+[title]
+Traim azi inca clipe {author: {Nicolae Moldoveanu}, {rcId: {5621}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Traim azi inca clipe,
+Din timpul pretios,
+Sa stam tot mai aproape
+De-al nost’ Isus Hristos.
+
+[c]
+/: Popor, ce esti azi turma
+Maretei intalniri,
+E vremea cea din urma...
+Sa nu uitati crestini! :/
+
+[v2]
+„
+Intoarceti-va astazi!”
+Rasuna in urechi.
+Sa mergem, cu pasi repezi,
+Pe caile mai vechi!
+
+[c2]
+/: Cuvantul rasunat-a
+Atat de cald si viu,
+Caci Domnul tot vorbit-a,
+Devreme si tarziu... :/
+
+[v3]
+Uniti in fapte bune,
+Voi, tineri deci sa fiti!
+Sa fiti lumini in lume
+Si pentru cer traiti!
+
+[c3]
+/: Vor curge-atunci suvoaie,
+Din inimi, ape vii,
+Caci Domnul ne-a dat ploaie
+Si har si bogatii... :/
+
+[v4]
+Ce-aproape este ceasul
+Cand Domnul va veni!...
+Dac-auzi-vom glasul,
+Atunci cu toti vom sti:
+
+[c4]
+/: Avea-vom biruinta,
+In ceruri vom intra,
+Prin har si prin credinta!
+Cununa vom purta...

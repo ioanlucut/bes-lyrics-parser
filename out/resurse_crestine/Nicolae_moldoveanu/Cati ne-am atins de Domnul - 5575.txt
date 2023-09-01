@@ -1,0 +1,32 @@
+[title]
+Cati ne-am atins de domnul {author: {Nicolae Moldoveanu}, {rcId: {5575}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Cati ne-am atins de Domnul · Si El ne-a vindecat,
+/: Datori suntem, :/ datori suntem,
+Sa spunem aceasta ne’ncetat.
+
+[c]
+/: Sa spunem :/ mereu o Ce mult ne-a iubit Dumnezeu!
+Sa spunem mereu, o Da, mereu si mereu,
+Noi si voi - tu si eu o
+ /: Cat de mult, :/ ne-a iubit Dumnezeu...
+
+[v2]
+Toti cati zaceam in moarte · Si El ne-a inviat,
+/: Datori suntem :/ sa spunem · Aceasta ne’ncetat.
+
+[v3]
+Toti cati eram in lanturi · Si El ne-a liberat,
+/: Datori suntem :/ sa spunem o Aceasta ne’ncetat.
+
+[v4]
+Toti cati am fost robi lumii · Si El ne-a infiat,
+/: Datori suntem :/ sa spunem o Aceasta ne’ncetat.
+
+[v5]
+Recunostinta noastra · Se-ntinde-n lung si-n lat;
+/: Cu slava Lui, :/ sa umplem o Pamantul ne’ncetat.

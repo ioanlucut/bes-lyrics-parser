@@ -1,0 +1,29 @@
+[title]
+Urma ta s-o iau isus {author: {Traian Dorz}, {rcId: {191697}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Urma Ta s-o iau, Isus și așa voi ține
+Pân’ la moarte, cum am spus legământ cu Tine.
+/: Drag Isus, scump Isus, fă să țin precum am spus
+Legământ cu Tine! :/
+
+[v2]
+Glasul Tău as vrea mereu să-L aud întruna
+Și să-mi țină duhul meu treaz pe totdeauna.
+/: Domnul meu, scumpul meu, fă-mă să Te-aștept și eu
+Treaz pe totdeauna! :/
+
+[v3]
+Lupta Ta s-o port frumos, orișicât ar ține,
+Steagul Tău să-L ’nalț voios și să mor cu Tine.
+/: Domnul meu Isus Hristos, Steagul Tău să-L ’nalț voios
+Și să mor cu Tine! :/
+
+[v4]
+Soarta mea o vreau, Isus, cu-a Ta soartă una,
+Până voi ajunge Sus, să-mi primesc cununa.
+/: Scump Isus, drag Isus, fă s-ajung cu bine Sus,
+Să-mi primesc cununa! :/

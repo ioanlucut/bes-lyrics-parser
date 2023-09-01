@@ -1,0 +1,25 @@
+[title]
+Slava indelung rabdarii tale {author: {Nicolae Moldoveanu}, {rcId: {244140}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+/: Slavă îndelung răbdării :/ x3
+Tale, Dumnezeu Slăvit,
+/: Care pentru noi osândă :/
+Și ocară-ai pătimit.
+
+[c]
+Slavă, slavă, slavă Ție,
+Dumnezeul nostru sfânt,
+Pentru marea Ta iubire,
+Pentru multa pătimire,
+Pentru sfânta mântuire,
+Ce-ai adus-o pe pământ.
+
+[v2]
+/: Tu ne-ai izbăvit din moarte, :/ x3
+Tu ne-ai mântuit de greu,
+/: Slavă îndelung răbdării :/
+Tale Sfinte Dumnezeu.

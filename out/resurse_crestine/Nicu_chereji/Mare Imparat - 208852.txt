@@ -1,0 +1,30 @@
+[title]
+Mare imparat {author: {Nicu Chereji}, {rcId: {208852}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Noi nu ne închinăm, nu ne aplecăm,
+Nimănui decât în fața Celui veșnic viu
+Chiar dacă-n cuptor ne va arunca
+Dumnezeu cu mâna-i tare ne va apăra!
+
+[c]
+Mare Împărat, fii glorificat!
+Brațul Tău puternic, din foc ne-a salvat
+Ești izbăvitor, scump Mântuitor
+Print al păcii, Domn al slavei
+Rege al regilor.
+
+[v2]
+Noi nu dăm napoi, nici chiar în nevoi,
+Cu Isus Hristos vom fi oricând biruitori
+Când ne-au condamnat nu ne-am clătinat
+Nici cuptorul încins în flăcări nu ne-a înspăimântat.
+
+[v3]
+O nădejde avem, și un Dumnezeu
+Ce ne ia pe-a Sale brațe atunci când drumu-i greu,
+Nu ne va lăsa, Domnul așa ne-a spus
+Marele Împărat al slavei, Regele Isus!

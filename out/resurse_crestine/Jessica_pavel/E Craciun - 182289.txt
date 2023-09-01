@@ -1,0 +1,29 @@
+[title]
+E craciun {author: {Jessica Pavel}, {rcId: {182289}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Un copil zâmbește lumii dintr-un leagăn sărac
+Vin păstorii să Îl vadă, magii daruri ii fac
+Blândul Iosif și Maria stau în preajma Sa
+Și din ceruri îi veghează cea mai frumoasă stea!
+
+[c]
+E Crăciun chiar acum pe pământ și-n Betleem
+Vino creștine, la nașterea sfântă te chem!
+Fii-nțelept și mai bun și iubeste ca și cum
+În orice zi ce o vei trăi ar fi doar Crăciun.
+
+[v2]
+Un copil nu are-n leagăn jucării de pluș
+Doarme-n fân sub răsuflarea unui măgăruș
+Dar îngeri din înalturi veste dau în cor
+Că-I născut s-aducă pace și dragoste tuturor!
+
+[c2]
+E Crăciun chiar acum pe pământ și-n Betleem
+Vino creștine, la nașterea sfântă te chem!
+Fii-nțelept și mai bun și iubeste ca și cum
+În orice zi ce o vei trăi ar fi doar Crăciun.

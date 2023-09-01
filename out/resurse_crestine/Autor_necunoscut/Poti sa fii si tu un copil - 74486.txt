@@ -1,0 +1,35 @@
+[title]
+Poti sa fii si tu un copil {author: {Anonim}, {rcId: {74486}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+/: Poți să fii și tu un copil
+Care să te rogi :/
+
+[c]
+/: Să te pleci în genunchi
+Să ridici privirea-n sus
+Și să vii cu umilință
+Înaintea lui Isus! :/
+
+[v2]
+/: Poți să fii și tu un copil
+Care să asculți :/
+
+[c2]
+/: De părinți și de bunici
+De frați și de surori
+Și Domnului Isus
+Să-I fii ascultător :/
+
+[v3]
+/: Poți să fii și tu un copil
+Care să ajuți :/
+
+[c3]
+/: Să hrănești pe cel flămând
+Să îmbraci pe cel sărac
+Și să-ndrepți la mântuire
+Pe cei ce merg înspre iad :/

@@ -1,0 +1,41 @@
+[title]
+A fost odata demult pe pamant {author: {Autor necunoscut}, {rcId: {244290}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+A fost odată, demult pe pământ,
+Al Tatălui Preasfânt Cuvânt,
+Să schimbe al nostru destin, a plătit
+Cu sânge neprihănit.
+
+[c]
+/: Duceți spre zare povestea iubirii,
+Hristos, plin de slavă, din morți a-nviat!
+Astăzi s-audă toți vestea salvării,
+Isus Domnul a triumfat!
+A înviat și de-a pururi domni-va,
+Isus, Prințul păcii, din ceruri venit,
+Va fi a noastră speranță de-acuma,
+Căci moartea El a biruit. :/
+
+[v2]
+Cuiele, crucea și negrul mormânt,
+Să-L țină pe veci n-au putut,
+Au râs degeaba și s-au bucurat,
+Căci triumfător a înviat!
+
+[v3]
+E-adevărat, Hristos a înviat!
+Da, e adevărat, Hristos a înviat!
+Plin de putere și de strălucire,
+Triumfător, Domnul a înviat!
+
+[v4]
+Piatră, soldați, la pământ cad deodată,
+Căci viu este cu-adevărat!
+Și azi răsună a Sa blândă voce,
+Pace vouă, luați Duhul Sfânt!
+Cum M-a trimis pe Mine Tatăl,
+Și Eu vă trimit pe-ntregul pământ.

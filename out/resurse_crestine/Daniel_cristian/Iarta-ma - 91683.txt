@@ -1,0 +1,29 @@
+[title]
+Iarta-ma {author: {Daniel Cristian}, {rcId: {91683}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Dragostea Ta m-a coplesit,
+Eu stiu ca sunt iubit
+/: Si iertat voi fi mereu
+Prin Divinul Mie :/
+
+[c]
+/: Iarta-ma Tata, caci am gresit
+Adeseori te-am intristat
+Nu ti-am fost pe plac mereu
+Dar Tu, mereu m-ai iertat :/
+
+[v2]
+Lumea spre ea ma atras
+De Tine sa ma las,
+/: Jertfa ta ca so uit
+Si pentru mine ce-ai facut :/
+
+[v3]
+Din calea Ta sa ma abat,
+Calea larga s-o strabat
+/: Si pierdut pe veci sa fiu
+Dar Tu nu mai lasat :/

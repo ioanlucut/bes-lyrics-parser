@@ -1,0 +1,27 @@
+[title]
+Esti ca o frunza calatoare {author: {Anonim}, {rcId: {158873}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Ești ca o frunză călătoare
+Ești ca un abur care trece
+/: Întreabă-te creștine oare
+Ce veșnicie vei petrece. :/
+
+[c]
+E poate ultima ta zi
+Nu pierde șansa mântuirii
+Nu ești stăpân pe viața ta
+Isus te cheamă cu iubire
+Și dacă azi ai auzit
+Chemarea Sfântă la Viață
+Întoarce-te cu tot ce ai
+Cât Dumnezeu îți dă o șansă.
+
+[v2]
+Chiar dacă lumea îți oferă
+Plăceri și pofte de o clipă
+/: E mult prea scumpă veșnicia
+Prin Harul Lui azi te ridică. :/

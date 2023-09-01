@@ -1,0 +1,36 @@
+[title]
+Un cantec nou {author: {Costache Ioanid}, {rcId: {4432}}
+
+[sequence]
+v1,v2,c,v3,c,e
+
+[v1]
+Un cântec nou, o-nfiorare nouă
+Prietene răsună-n calea ta
+Vom mai cânta un cântec, poate două
+Dar cine știe cât vom mai cânta!
+
+[v2]
+Un cântec nou, un fir de ape-n spume
+Aduce de departe un, suspin
+E-un dor înalt ce plange pentru lume
+Și lacrimile Lui prin cântec vin!
+
+[c]
+/: Dar ca un vis și cântecul se curma
+Și va incepe-adevăratul vis
+Dar poate acesta-i cântecul din urmă
+Și poate pentru tine-a fost trimis :/
+
+[v3]
+E-un suflet frânt ce-a fost cu noi o dată
+Privind cu milă viața noastră rea
+Și-acum din cer El cheama lumea toată
+Veniți cu toții azi la crucea Sa!
+
+[e]
+/: Dar ca un vis și cântecul se curmă
+Și va începe-adevăratul vis!
+Aceasta-i poate ultima chemare,
+Și pentru tine azi a fost trimis! :/
+Și pentru tine azi a fost trimis.....

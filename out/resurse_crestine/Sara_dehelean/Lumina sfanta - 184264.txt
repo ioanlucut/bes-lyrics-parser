@@ -1,0 +1,41 @@
+[title]
+Lumina sfanta {author: {Sara Dehelean}, {rcId: {184264}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Lumină sfântă ce cobori din Ceruri,
+Să-mi mângâi ziua-n clipa cea mai grea,
+De raza ta, pier norii întristării
+Și-L văd pe Domnul cu-ndurarea Sa.
+
+[c]
+În zborul lin, tu strălucești
+Și nicicând nu te stingi,
+Tot Cerul e-n lucirea ta,
+Când fruntea îmi atingi.
+
+[v2]
+În întuneric, luminând cărarea,
+M-ajuți să trec peste urcușul greu
+Și, liniștind învolburată marea,
+Mă duci în pace către Domnul meu.
+
+[c2]
+Chiar în furtuni tu strălucești
+Și nicicând nu te stingi,
+Tot Cerul e-n lucirea ta
+Când fruntea îmi atingi.
+
+[v3]
+Când peste viața mea cade-nserarea,
+Lumină sfântă-a harului nespus,
+Tu strălucind, eu jos punându-mi crucea,
+Mă vei lăsa la porțile de sus;
+
+[c3]
+În glorie, la Tronul Său
+Când mă voi închina,
+Îl voi slăvi că-n raza ta
+A fost iubirea Sa.

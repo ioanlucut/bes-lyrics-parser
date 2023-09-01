@@ -1,0 +1,33 @@
+[title]
+Iti multumesc {author: {Anonim}, {rcId: {4545}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Iti multumesc, o Doamne
+Ca Tu ai fost in viata mea
+Un sprijin si-o nadejde
+Si-acum as vrea...
+
+[c]
+Sa-Ti multumesc, sa Te slavesc
+Tu esti Domnul meu
+Eu Te iubesc, Te preamaresc
+Ai fost sprijunul meu
+Tu m-ai creat viata mi-ai dat
+Tu esti Tatal meu
+De-aceea eu Iti multumesc.
+
+[v2]
+Iti multumesc, o Doamne
+Ca Tu m-ai binecuvantat
+Ai pus in mine daruri
+Si-acum eu vreau...
+
+[v3]
+Iti multumesc, o Doamne
+Ca esti asa de minunat
+In indurarea-Ti mare
+Harul tu Ti-ai revarsat.
+Si acum eu vin.

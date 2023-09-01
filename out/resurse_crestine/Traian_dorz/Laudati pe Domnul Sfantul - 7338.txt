@@ -1,0 +1,40 @@
+[title]
+Laudati pe domnul sfantul {author: {Traian Dorz}, {rcId: {7338}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Lăudați pe Domnul Sfântul,
+Lăudăm, lăudăm.
+El e Bun pe tot pământul,
+Lăudăm, lăudăm, lăudăm.
+
+[c]
+Noi lăudăm pe Domnul
+El e Bun pe tot pământul,
+Lăudăm, lăudăm, lăudăm.
+
+[v2]
+Lăudați-L dimineața,
+Lăudăm, lăudăm...
+El ne lumineaza fața,
+Lăudăm, lăudăm, lăudăm.
+
+[v3]
+Lăudați-L ziua-ntreagă,
+Lăudăm, lăudăm...
+El ne face munca dragă...
+Lăudăm, lăudăm, lăudăm.
+
+[v4]
+Lăudați-L până seara,
+Lăudăm, lăudăm...
+Să răsune-ntreaga țară,
+Lăudăm, lăudăm, lăudăm.
+
+[v5]
+Lăudați al Lui sfânt nume,
+Lăudăm, lăudăm...
+Să răsune-ntreaga lume,
+Lăudăm, lăudăm, lăudăm

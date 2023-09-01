@@ -1,0 +1,23 @@
+[title]
+Toate-ai sa le pierzi in viata {author: {Traian Dorz}, {rcId: {154803}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Toate-ai să le pierzi în viață, una astăzi, alta mâine,
+Lângă tine pe vecie, numai dragostea rămâne.
+Orice preț frumos pe lume, clipa-l crește, clipa-l duce,
+Veșnic este numai prețul mântuirii de pe Cruce!
+
+[c]
+Toate-s schimbătoare-n lume, orice neam și orice limbă,
+Vremea schimbă totul, numai Adevărul nu se schimbă!
+Orice om e nestatornic, azi e-n slavă, mâine-n tină,
+Neschimbat rămâne numai cel ce umblă în lumină!
+
+[v2]
+Toate-mbătrânesc cu anii, toate se-ofilesc și-nceată,
+Numai binecuvântarea ascultării, niciodată!
+Toată slava lumii piere mai degrabă de cum vine,
+Veșnică e numai slava celui care face bine!

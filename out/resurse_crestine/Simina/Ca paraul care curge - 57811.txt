@@ -1,0 +1,29 @@
+[title]
+Ca paraul care curge {author: {Simina}, {rcId: {57811}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ca pârâul care curge,
+Curge tot mereu.
+Este-n viața mea Isuse harul Tău
+Este-n viața mea Isuse harul Tău
+
+[c]
+Harul Tău, îmi redă speranța-n calea mea
+Harul Tău, îmi înseninează viața mea.
+Când sunt trist îmi alină iarăși inima,
+Focul Său îmi aprinde-n suflet Dragostea
+
+[v2]
+Ca o pasăre ce zboară
+Spre înalt mereu
+Înspre Tine-n veci mă poartă harul Tău
+Înspre Tine-n veci mă poartă harul Tău
+
+[v3]
+Precum soarele răsare,
+Zi de zi mereu,
+Viața mea o luminează harul Tău,
+Viața mea o luminează harul Tău.

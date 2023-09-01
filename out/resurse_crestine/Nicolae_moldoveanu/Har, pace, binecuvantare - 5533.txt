@@ -1,0 +1,41 @@
+[title]
+Har pace binecuvantare {author: {Nicolae Moldoveanu}, {rcId: {5533}}
+
+[sequence]
+v1,c,v2,c2,e
+
+[v1]
+Har, pace, binecuvantare,
+Domnul sa va dea!
+Pe a voastra cale binecuvantare,
+/: Domnul sa va dea! :/
+
+[c]
+Doamne,-n fata Ta, stau astazi
+Doua inimi cu credinta.
+Si, uniti in a lor tinta,
+Tu sa le dai biruinta!
+/: Iar a-Tale haruri, multe,
+Fa, din ceruri, sa coboare
+Peste cei ce Te asteapta,
+Azi, aici, in adunare!... :/
+
+[v2]
+Prin credinta, dragoste curata,
+Mergeti inspre cer.
+Iar in suferinta, doar cu biruinta
+/: Va conduce El. :/
+
+[c2]
+Inspre culmile iubirii,
+Dragostei si bucuriei,
+Inspre darurile sfinte,
+Sa pasiti cu barbatie!
+/: Caci Isus va vrea cu Sine
+Sa va duca-n a Lui casa
+Ca in marea vesnicie,
+Sa Ii fiti, pe veci, mireasa. :/
+
+[e]
+Har, pace, binecuvantare, dragoste curata,
+Binecuvantare, Domnul sa va dea!

@@ -1,0 +1,55 @@
+[title]
+Zice domnul prin cuvant {author: {Nicolae Moldoveanu}, {rcId: {5919}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+Zice Domnul, prin Cuvânt,
+Poporului de pe pământ:
+/: „
+Pregătiți-vă de-acum
+Și stați treji, pe-al vieții drum,
+În lume-aceasta!” :/
+
+[v2]
+Haideți, tineri, voi, acum,
+Să stăm treji, pe-al vieții drum,
+/: Și să ne purtăm așa
+Cum ne-nvață Biblia,
+În lume-aceasta. :/
+
+[v3]
+Dac-așa ne vom purta,
+Cum ne-nvață Biblia,
+/: Cei din lume vor vedea
+Și-or începe-a ne urma,
+În lume-aceasta. :/
+
+[v4]
+Dumnezeu ne-a învățat,
+La popor i-a arătat
+/: Cum să-și poarte haina sa,
+Ca s-ajungă-n cer cu ea,
+Din lume-aceasta. :/
+
+[v5]
+Dar unii n-au ascultat
+Și ținuta și-au pătat,
+/: Făr-a se gândi așa
+C-aici jos vor rămânea,
+În lume-aceasta. :/
+
+[v6]
+Dar gândiți-vă și voi:
+Va veni o zi de-apoi,
+/: Și care s-a pregătit,
+În ceruri va fi răpit,
+Din lume-aceasta. :/
+
+[v7]
+Și ce bine-atunci va fi
+Când cu El ne-om întâlni!...
+/: Noi, atuncea vom uita
+C-am fost pe pământ cândva,
+În lume-aceasta. :/

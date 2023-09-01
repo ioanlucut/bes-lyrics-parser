@@ -1,0 +1,33 @@
+[title]
+Suna-n inima mea melodii {author: {Leleu Niculae}, {rcId: {75262}}
+
+[sequence]
+v1,c,c2
+
+[v1]
+Vreau cântând pe Domnul să-l vestesc
+Numele Lui să-l slăvesc
+Cu tot ce este-n cer și pe pământ
+Vreau și eu Domnului să-i cânt
+
+[c]
+/: Sună-n inima mea melodii
+Plăcute melodii
+Cu mii de armonii
+Sună-n inima mea melodii
+Plăcute melodii, cerești
+Isus, Isus, Isus,
+A-nviat Isus, Aleluia
+Slavă-i cântă-n ceruri
+Pace fie pe pământ :/
+
+[c2]
+/: Sună-n inima mea
+Melodii pentru Isus
+Sună-n inima mea
+Armonii pentru Isus
+Toate melodiile
+Toate armoniile
+Pentru Isus sunt
+Pentru El eu cânt
+Pentru că m-a mântuit :/

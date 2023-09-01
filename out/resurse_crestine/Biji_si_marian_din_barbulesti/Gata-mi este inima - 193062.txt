@@ -1,0 +1,26 @@
+[title]
+Gata-mi este inima {author: {Biji si Marian din Barbulesti}, {rcId: {193062}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Gata-mi este inima
+De-a Te Lauda, de-a Te Lauda Isuse
+Pentru Bunatatea Ta,
+Si iubirea Ta, Maretia Ta. / (2x)
+
+[c]
+Doamne stiu ca Te-ai jertfit,
+Pe cruce Rastignit,
+Pacatul mi-ai platit Isuse,
+De-aceea Numele iti cant,
+Numele iti cant,
+Cat voi fi pe pamant. / (2x)
+
+[v2]
+Tata tie ma dedic,
+Vreau sa fiu smerit,
+Vreau sa fiu smerit Ca Tine,
+Sa fac in toate voia ta,
+Din toata inima, din toata inima. / (2x)

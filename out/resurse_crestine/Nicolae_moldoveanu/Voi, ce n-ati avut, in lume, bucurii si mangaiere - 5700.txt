@@ -1,0 +1,35 @@
+[title]
+Voi ce n-ati avut in lume bucurii si mangaiere {author: {Nicolae Moldoveanu}, {rcId: {5700}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Voi, ce n-ați avut, în lume, bucurii și mângâiere;
+Voi, ce-ați plâns atâta vreme, în necaz și în durere;
+/: Voi, ce lumea va urăște și vă vinde ca pe El,
+N-aveți frică, n-aveți teamă, nu vă rușinați defel! :/
+
+[v2]
+Voi, ce-ați mers tot înainte și-ați urcat cu greu Calvarul;
+Voi, ce-ați suferit ca Dânsul și-ați băut întreg paharul;
+/: Voi, ce n-ați uitat pe Domnul niciodată și nicicând
+Ci L-ați lăudat, în toate, I-ați dat slavă, I-ați dat cânt! :/
+
+[v3]
+Voi, ce viața voastră-ntreagă ați spălat-o-n al Lui sânge
+Și în inimi vi-e aprinsă flacăra ce nu se stinge;
+/: Voi, care-ați gemut, sub cruce, și mai gemeți și acum,
+Bucurați-vă de acuma! Ziua sfântă e pe drum! :/
+
+[v4]
+Iată, zorii se arată... marea zi se prevestește!...
+Iarna este pe sfârșite și măslinu-nfrăgezește...
+/: Voi, ce-ați biruit păcatul, prin jertfa de pe Calvar,
+Bucurați-vă de-acuma: n-ați suferit în zadar! :/
+
+[v5]
+Voi, ce-ați privegheat într-una și ați fost tot timpul gata.
+Bucurați-vă de-acuma! Iată, vine cu răsplata,
+/: Ca să dea, pentru amarul și durerea ce-a trecut,
+Viață lină, fericită, viață fără de sfârșit!...

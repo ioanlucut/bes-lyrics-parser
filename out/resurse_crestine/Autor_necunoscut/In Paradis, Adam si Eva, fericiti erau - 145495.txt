@@ -1,0 +1,39 @@
+[title]
+In paradis adam si eva fericiti erau {author: {Anonim}, {rcId: {145495}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+În Paradis, Adam și Eva, fericiți erau.
+În fiecare dimineață, Domnul le făcea cercetare.
+Grădina-ntreagă aștepta ivirea zorilor
+Și rouă era peste tot, udând întinderea.
+
+[c]
+/: - „
+Unde ești Adame?”
+- „
+Sunt gol, Doamne!”
+- „
+Blestemat va fi Pământul,
+Din cauza ta!” :/
+
+[v2]
+Era un Vânt ce adia în fiecare zi,
+Văzduhul, plin de păsări, ce cântau atât de minunat.
+Livada, plină cu mulți pomi, plăcuți și roditori.
+- „
+Puteți să vă-nfruptați din ei, având fericirea.”
+
+[v3]
+- „
+Dar despre Pomul Cel Oprit, să nu mâncați din el!
+Ca să trăiți, să nu muriți, nu v-atingeți de el!”
+Șarpele cel înveninat, a venit la Eva.
+- „
+Mâncați din pomul cel oprit și astfel, fericirea, ve-ți afla.”
+
+[e]
+- „
+Unde ești Adame?”

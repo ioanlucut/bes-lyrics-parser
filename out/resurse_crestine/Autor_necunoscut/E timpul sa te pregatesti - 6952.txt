@@ -1,0 +1,42 @@
+[title]
+E timpul sa te pregatesti {author: {Anonim}, {rcId: {6952}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+E timpul sa te pregatesti
+E ceasul indurarii
+Caci in curind apar in prag
+Si zorii dimineti
+
+[c]
+Misionarul duhul sfint
+E dat aici jos pe pamint
+Ca sa vesteasca tuturor
+Venirea bunului pastor
+
+[v2]
+O mie sa cada alaturi de tine
+Si zece mii la dreapta ta
+Tu vei privi cu ochii
+Si vei vedea minunea
+De tine nu se va apropia
+
+[v3]
+Etimpul greu si valuri mari
+Vino la cirma vietii
+Condu-ne la limanul sfint
+Cel asteptam cu totii.
+
+[v4]
+EL astazi plinge pentru noi
+Sa-ne intoarcem la domnul
+Caci pe cruce a suferit
+Si-n chinuri grele a murit.
+
+[v5]
+Apocalipsa ne vorbeste
+Si astfel se adevereste
+Caci Domnul Isus va veni
+La sunetul trimbiti.

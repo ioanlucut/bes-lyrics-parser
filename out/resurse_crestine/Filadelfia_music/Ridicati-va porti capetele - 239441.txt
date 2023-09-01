@@ -1,0 +1,35 @@
+[title]
+Ridicati-va porti capetele {author: {Filadelfia Music}, {rcId: {239441}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+/: Ridicati-va, porti capetele
+Ridicati-va, porti vesnice
+Ca sa intre Imparatul,
+Imparatul slavei. :/
+/: Cine e acest Imparat?
+Cine e acest Imparat?
+Cine e acest Imparat?
+Imparat al slavei. :/ x2
+
+[c]
+/: El este Domnul tare și puternic, triumfator
+El este Domnul cel viteaz in lupte, biruitor. :/ x2
+
+[v2]
+/: Cine poate sta împotriva Lui
+Toti genunchii se pleaca-n fata Lui
+Nimeni nu-i ca Impăratul,
+Imparatul slavei. :/
+/: Cine e acest Imparat?
+Cine e acest Imparat?
+Cine e acest Imparat?
+Imparat al slavei. :/ x2
+
+[e]
+Ooo, ooo
+/: Vrednic, vrednic e de cinste
+Vrednic de-nchinare.
+Vrednic de-adorare Dumnezeu. :/ x6

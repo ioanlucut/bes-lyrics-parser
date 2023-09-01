@@ -1,0 +1,45 @@
+[title]
+Omul-n lume-i ca vaporul {author: {Anonim}, {rcId: {6275}}
+
+[sequence]
+v1,c,v2,c,v3,c,v5,c
+
+[v1]
+Omul-n lume-i ca vaporul
+Îi trebuiește ajutor
+/: Dacă n-are cârmaci bun
+Se duce ca el la fund. :/
+
+[c]
+Fii gata, fii gata întotdeauna
+Candela să-ți fie plină
+Haina să-ți fie curată și spălată
+Și să n-aibă niciodată, nici-o pată
+Candela să-ți ardă-ntr-una
+Până vei primi cununa.
+
+[v2]
+Omul-n lume-i ca o glie
+Viața-i o călătorie
+/: Așa a spus Mântuitorul:
+”
+Eu sânt Calea și-adevărul.” :/
+
+[v3]
+”
+Eu sânt Calea și Viața.”
+Așa Scriptura ne-nvață
+/: Sânt pe lume doua căi
+Poți să mergi pe care vrei :/
+.
+4. Dar la urmă vei fi-ntrebat
+Pe calea care ai umblat?
+/: De-ai umblat pe calea dreaptă
+Domnul Isus te așteaptă. :/
+
+[v5]
+Dacă umbli pe calea rea
+N-ai să vezi fericirea
+/: Și-atunci te va-ntreba:
+”
+Ce-ai făcut cu viața ta?” :/

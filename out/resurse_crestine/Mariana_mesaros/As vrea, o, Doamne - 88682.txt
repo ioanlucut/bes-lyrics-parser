@@ -1,0 +1,40 @@
+[title]
+As vrea o doamne {author: {Mariana Mesaroș}, {rcId: {88682}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Aș vrea, o, Doamne, să Te văd,
+Mi-e dor de Tine, Te aștept, 
+Aș vrea să-Ți văd odată fața Ta, Isus,
+Aș vrea în față să Te am,
+Să-Ți spun, Isuse, tot ce n-am,
+Să-mi plâng amarul și durerea să Ți-o las.
+
+[c]
+/: Dar știu c-atunci când Te-oi vedea,
+Dureri și chinuri voi uita
+Și voi tăcea că voi mânca la masa Ta. :/
+
+[v2]
+Aș vrea, Isuse, să Te simt,
+Aș vrea în brațe să Te strâng,
+Să-Ți spun cât Te iubesc și cât Te-am așteptat,
+Aș vrea pe veci să fiu al Tău,
+Să pot să-Ți spun necazul meu,
+Să-mi plâng amarul și să-l las pe brațul Tău.
+
+[v3]
+Rămâne să mă pregătesc, 
+Să pot s-ajung la ce tânjesc, 
+Rămâne să-mi predau în bratu-Ți viața mea,
+Căci vreau să știu sufletul meu
+Chiar azi umplut de harul Tău
+Și vreau să am o siguranță către cer.
+
+[c2]
+/: Dar, până când vei reveni
+Din nou să-Ți iei ai Tăi copii, 
+Te-oi aștepta și Ți-oi cânta în cinstea Ta.
+ /:

@@ -1,0 +1,30 @@
+[title]
+Din nou pe drum {author: {Adrian Cost}, {rcId: {83457}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Mă pregătesc din nou de drum
+Lăsând în urmă pe toți cei dragi
+Ori.. de nu te-aș iubi, de ce oare-aș porni?
+Sunt pregătit, gata de drum
+Pornesc spre locul unde Tu vrei s-ajung
+De ce-aș bate la uși de nu mi-ai fi spus Tu?
+
+[c]
+/: Dar Tu slava-ai lăsat
+Și desculț Galileea-ai colindat
+Dându-ți viața la Calvar
+Eu n-o să-ncetez să le spun cât Tu m-ai iubit. :/
+
+[v2]
+Călătoresc distanțe mari
+S-ajung la cei de Tine-nsetați
+Ori.. nu aș face un pas de nu m-ai chema Tu?
+Din nou privesc ochii plângând
+E momentul când iarăși Tu chemi
+De ce-aș fi oare aici dacă nu Te-aș iubi?
+
+[e]
+Eu n-o să-ncetez să le spun cât Tu m-ai iubit.

@@ -1,0 +1,29 @@
+[title]
+Domnul te cheama la viata (melodia: lauda astazi pe domnul suflet robit de patimi) - re min {author: {Dan Istrate}, {rcId: {200589}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c2
+
+[v1]
+Domnul Te cheamă la viață, om făurit din tină,
+Căci doar prin jertfa-I măreață poți fi scăpat de vină.
+
+[c]
+Vin la cruce, Domnu-ți va da iertare,
+Prin credință primi-vei îndurare.
+
+[v2]
+El a ales ascultarea și S-a supus în toate,
+Ca să ne-aducă salvarea, S-a dat chiar și la moarte.
+
+[v3]
+Azi înălțat e-n mărire, biruitor prin moarte,
+Gata să dea mântuire, spre ceruri să ne poarte.
+
+[v4]
+Toți cei salvați, lăudați-L - să-I mulțumim întruna!
+Și pe Isus așteptați-L - El ne va da cununa!
+
+[c2]
+Căci la cruce Domnul ne-a dat iertare,
+Lui I-aducem veșnică închinare!

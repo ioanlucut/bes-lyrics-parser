@@ -1,0 +1,23 @@
+[title]
+Da eu cred in isus {author: {Anonim}, {rcId: {4874}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Da, eu cred în Isus,
+Cred că El e Fiul lui Dumnezeu,
+Cred că a murit și-a înviat,
+Prețul pentru noi a plătit.
+
+[c]
+Cred că El e prezent
+Printre noi aici,
+Pe bolnavi vindecând
+Și păcate iertând.
+
+[v2]
+Da, cred în Tine, Doamne,
+Cred că Tu ești Fiul lui Dumnezeu,
+Cred că ai murit și-ai înviat,
+Prețul pentru noi ai plătit.

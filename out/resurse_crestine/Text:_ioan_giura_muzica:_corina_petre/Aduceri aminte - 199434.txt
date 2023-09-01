@@ -1,0 +1,41 @@
+[title]
+Aduceri aminte {author: {Text: Ioan Giura, Muzica: Corina Petre}, {rcId: {199434}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Stau și-mi aduc aminte
+De noaptea de demult...
+Și, fără de cuvinte,
+Cântarea o ascult:
+Cântare îngerească,
+Cum nu e pe pământ,
+Trimisă să slăvească
+Un Prunc gingaș și sfânt, un Prunc gingaș și sfânt.
+
+[c]
+Ce minunat răsună
+Divinele-armonii!
+Și ce mai voie bună
+Pe dealuri și câmpii!
+În fața ieslei Sale,
+Umil, eu mă închin
+Și-n cânt de osanale
+Îi mulțumesc. Amin!
+
+[v2]
+Păstorii se-nspăimântă
+Și multe nu-nțeleg,
+Dar îngerii, ei cântă,
+Și cântă ceru-ntreg!
+Nici eu nu știu prea bine
+Cu inima mea ce-i,
+Căci ascultând îmi vine
+Să merg și eu cu ei, să merg și eu cu ei.
+
+[v3]
+CODA: Născut într-o cetate,
+În loc sărăcăcios,
+Nu-n temple sau palate,
+Deși era Cristos!

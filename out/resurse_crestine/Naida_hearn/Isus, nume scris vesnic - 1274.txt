@@ -1,0 +1,17 @@
+[title]
+Isus nume scris vesnic {author: {Naida Hearn}, {rcId: {1274}}
+
+[sequence]
+v1,v2
+
+[v1]
+Isus, Nume scris veșnic,
+Atotputernic, Părinte--al veșniciei,
+Emanuel, cu noi e Domnul,
+Ce minunat e-al păcii Domn!
+
+[v2]
+Isus, cel mai sfânt Nume,
+Mântuitorul, Părinte--al veșniciei,
+Emanuel, cu noi e Domnul,
+Biruitorul adorat!

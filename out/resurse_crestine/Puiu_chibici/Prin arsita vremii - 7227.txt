@@ -1,0 +1,43 @@
+[title]
+Prin arsita vremii {author: {Puiu Chibici}, {rcId: {7227}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Prin arșița vremii
+Trecut-au milenii
+Și glorii de mult apuse,
+Dar noi știm prea bine
+Că astăzi sau mâine
+Vei reveni, Isuse.
+
+[c]
+Revino, Isuse, revino din nou,
+Te cheamă fecioara-nțeleaptă.
+Revino, al slavei ne-nfrânt Erou,
+O, vino, Mireasa Te-așteaptă.
+
+[v2]
+Din goluri de stânci
+Și din văi adânci,
+Din moarte și ruine,
+Din neguri și valuri,
+Din foc și talazuri
+Strigăm azi către Tine.
+
+[v3]
+Mai sunt înca patimi,
+Mai sunt încă lacrimi
+În lumea blestemată,
+Mai sunt încă paturi
+Și boli fără leacuri,
+Dar s-or sfârși odată.
+
+[v4]
+Rămas-au în urmă
+Dureri și nevoi
+Și palme și rușine,
+Purtăm doar speranța
+Că vii iar la noi
+Și dorul după Tine.

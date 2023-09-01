@@ -1,0 +1,60 @@
+[title]
+Betleeme betleeme {author: {Familia Mandici}, {rcId: {182911}}
+
+[sequence]
+v1,c,b,v2,c2,b2,v3,c3,c4,e
+
+[v1]
+Lungă cale e în urmă,
+Multă cale mai avem.
+Câte dealuri și coline,
+Pân’ la satul Betleem.
+
+[c]
+/: Betleeme, Betleeme,
+Mai departe ești acum.
+Iosife, îndeamnă măgarul,
+Că a obosit pe drum. :/
+
+[b]
+/: A-a-a-a, a-a-a-a,
+A-a-a-a, a-a-a-a :/
+
+[v2]
+Fii, Marie, liniștită,
+Nu e mult și ajungem,
+Vezi, la han este lumină,
+Ne vom odihni, credem.
+
+[c2]
+/: Betleeme, nu se poate
+Să nu ai un colțișor,
+Că la tine astă noapte
+Se va naște-un Pruncușor. :/
+
+[b2]
+/: O-o-o-o, o-o-o-o,
+O-o-o-o, o-o-o-o. :/
+
+[v3]
+Haidem, Iosife, în staul,
+Va fi bine, va fi cald,
+Fânul ne va fi salteaua
+Lângă ieslea din grajd.
+
+[c3]
+Betleeme, ce se-aude?
+Cine cântă sus în nor?
+Mii de îngeri cântă „
+Slavă,
+S-a născut Mântuitor!”
+
+[c4]
+/: Bucură-te, Betleeme,
+Și noroadele, la fel,
+Pace ție, pământene,
+S-a născut Emanuel! :/
+
+[e]
+/: Aleluia, Aleluia,
+Aleluia, Aleluia! :/

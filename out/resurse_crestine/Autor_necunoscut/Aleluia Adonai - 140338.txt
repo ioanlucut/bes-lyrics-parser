@@ -1,0 +1,21 @@
+[title]
+Aleluia adonai {author: {Anonim}, {rcId: {140338}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Aleluia Adonai Îți cântăm,
+Lăudați pe Domnul popoare!
+Neamurile de pe pământ
+Să te laude căci Tu ești sfânt!
+
+[c]
+/: Aleluia, Aleluia :/ x3
+Aleluia :/
+
+[v2]
+Aleluia Adonai Îți cântam,
+Căci mare e a Ta bunătate,
+Iar credincioșia Ta, Doamne,
+Ține-n veci pentru-ai Tăi copii!

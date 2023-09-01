@@ -1,0 +1,41 @@
+[title]
+Dulce rasuna in noapte {author: {Familia Demian}, {rcId: {238510}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Dulce răsună în noapte
+Iarăși colinzi de Crăciun,
+Glasuri de îngeri în șoapte,
+Vestea cea bună o spun.
+
+[c]
+Domnul din ceruri la noi a venit,
+Și mântuire El ne-a dăruit,
+Pace și bună-nvoire,
+Noi prin Isus am primit.
+
+[v2]
+Când a bătut ceasul vremii,
+De Dumnezeu hotărât,
+Ca un copil mic în iesle,
+Domnul Isus s-a născut.
+
+[c2]
+Slava din ceruri Isus a lăsat,
+Să ne salveze pe noi din păcat
+O, cât de mare iubire,
+Domnul Isus ne-arătat.
+
+[v3]
+Cu bucurie să-I cânte
+Astăzi întregul pământ,
+Laudă, cinste s-aducă,
+Prințului Păcii Preasfânt.
+
+[c3]
+Suflete, astăzi la El să grăbești,
+Blând, El te cheamă prin glasuri cerești,
+Vino, cât ușa-i deschisă,
+Darul cel Sfânt să primești.

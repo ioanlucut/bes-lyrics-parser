@@ -1,0 +1,36 @@
+[title]
+A mai trecut un an prin noi {author: {Dan Muncaciu}, {rcId: {244309}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+A mai trecut un an prin noi,
+A fost și soare, au fost și ploi.
+Singur nu eram, eram amândoi.
+În nopțile pustii și reci
+Și zilele cu nori pe cer,
+Doar Tu, Isus, m‑ai ajutat.
+Vreau acum, la sfârșit de an,
+O rugă să înalț și să‑Ți spun:
+
+[c]
+Îți mulțumesc pentru acest an!
+Îți mulțumesc pentru ce mi‑ai dat!
+Îți mulțumesc că niciodată
+Singur nu m‑ai lăsat!
+Îți mulțumesc pentru acest an!
+
+[v2]
+A mai trecut prin viața mea
+Vreme bună și vreme rea;
+Toate erau în mâna Ta.
+Iubire Tu mi‑ai arătat,
+Inima mi‑ai înălțat;
+În toate Tu m‑ai binecuvântat.
+Vreau acum, la sfârșit de an,
+O rugă să înalț și să‑Ți spun:
+
+[b]
+Și-n anul care vine, vreau să fiu tot cu Tine,
+Viața mea o las în mâna Ta, în mâna Ta.

@@ -1,0 +1,35 @@
+[title]
+Canta o suflete {author: {Nicolae Moldoveanu}, {rcId: {186275}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Cântă, o, suflete-n haina credinței,
+Cântă, o cântă și fii fericit,
+/: Cântă mai viu, mai cu foc biruinței,
+Jertfei aduse de Domnul iubit! :/
+
+[v2]
+Cântă, o, suflete-n haina nădejdii,
+Cântă și pace să ai pe deplin,
+/: Cântă, căci Domnul în ceas de primejdii,
+Mâna ți-o-ntinde și-ți face senin! :/
+
+[v3]
+Cântă, o, suflete-n haina iubirii,
+Cântă, o, cântă, iubește mereu,
+/: Cântă pe-Acel ce-i Izvor mântuirii,
+Cântă-L pe Domnul Preasfânt Dumnezeu! :/
+
+[v4]
+Cântă, o, suflete-n haina luminii,
+Cântă-mbrăcat cu putere de Sus,
+/: Cântă, nu-ți pese ce-or spune străinii,
+Cântă, o, cântă cu drag lui Isus! :/
+
+[v5]
+Cântă în alba lumină-a iertării,
+Fii o lumină și fii credincios,
+/: Cântă, o, cântă-L pe Domnu-ndurării,
+Cântă smerit și arzând lui Hristos! :/

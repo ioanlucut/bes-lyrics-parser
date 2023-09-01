@@ -1,0 +1,23 @@
+[title]
+Langa tine {author: {Cătălin Ciuculescu}, {rcId: {172292}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+/: Lângă Tine e mai bine decât oriunde aș fi,
+Fără Tine de iubire n-aș mai ști.
+Lângă Tine e mai bine, Tu-mi faci sufletul frumos,
+Lângă Tine, Doamne, viața are rost! :/
+
+[v2]
+/: E o Lume în altă lume, unde-abia aștept s-ajung,
+Vreau să fiu acolo unde ești și Tu!
+E o Lume în altă lume, unde lacrimile pier,
+Lumea asta poartă numele de Cer. :/
+
+[v3]
+/: Cu iubire mă acoperi, Doamne, Tu-mi ești adăpost
+Sunt așa de încântat să Te cunosc!
+Cu iubire mă acoperi, mă vei însoți mereu,
+Sunt copilul Tău, copil de Dumnezeu :/

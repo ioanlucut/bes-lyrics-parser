@@ -1,0 +1,42 @@
+[title]
+Intr-o iesle colo jos {author: {Grupul Voces}, {rcId: {221779}}
+
+[sequence]
+v1,v2,v3,b,e
+
+[v1]
+Într-o iesle ’colo jos
+Într-o iesle ’colo jos
+Ceru-a coborât frumos
+Pentru lume
+S-a născut Isus Hristos.
+
+[v2]
+Cântă îngeri vestitori
+Cântă îngeri vestitori
+Laolaltă cu păstori
+Drum de stele
+Cântă magii călători.
+
+[v3]
+Iar prin vreme mai apoi
+Iar prin vreme mai apoi
+Bucurie-avem și noi
+Pân’ la iesle
+Ne întoarcem înapoi.
+
+[b]
+Lacrimi câte ne-or durea
+Lacrimi câte ne-or durea
+Lacrimi câte ne-or durea
+El pe toate ni le ia
+Mântuire El veni ca să ne dea.
+Inimi multe vor cânta
+Inimi multe vor cânta
+Inimi multe vor cânta
+Pe Isus vor lăuda
+Mântuire El veni ca să ne dea.
+
+[e]
+Într-o iesle ’colo jos
+Ceru-a coborât frumos.

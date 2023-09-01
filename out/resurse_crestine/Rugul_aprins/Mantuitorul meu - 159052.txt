@@ -1,0 +1,30 @@
+[title]
+Mantuitorul meu {author: {Rugul aprins}, {rcId: {159052}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Te strigă azi, inima mea Isuse,
+Mai este mult până Tu vei veni?
+Inima-mi arde de focul Tău, Isuse,
+/: Te chem din toată inima să vii! :/
+
+[c]
+/: Mântuitorul meu, Te aștept să vii,
+Salvatorul meu, numai zăbovii,
+De-atâta timp Te aștept cu dor,
+Vreau la Tine să zbor! :/
+
+[v2]
+Privesc în sus la zorii dimineții
+Și mă întreb: ”
+Oare, azi, vei veni?”
+Și lăcrimând, Îți spun astăzi, Isuse,
+/: Eu Te iubesc și Te aștept să vii! :/
+
+[v3]
+În imn de slavă voi aștepta Isuse,
+Cu dor aprins Îți voi cânta mereu.
+Până când va veni ziua cea mare,
+/: Să-L văd pe-al meu, Isus Mântuitor! :/

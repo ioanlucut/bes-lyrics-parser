@@ -1,0 +1,33 @@
+[title]
+Ma simt lovit dar nu infrant {author: {Nicolae Moldoveanu}, {rcId: {5681}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mă simt lovit, dar nu înfrânt,
+Și-oricâte fi-vor pe pământ,
+Alături de al meu Stăpân,
+În orice zi vreau să rămân
+Și să Îi cânt... și să Îi cânt.
+
+[c]
+De poala Ta, Isus, mă prind
+Și-oricât cel rău ar încerca,
+De-ar fi să sfâșii haina Ta,
+Eu tot nu mă desprind!
+
+[v2]
+Mă simt lovit, dar nu răpus;
+Eu sper în gloria de sus.
+Îmi arde inima de dor,
+După al meu Mântuitor,
+De-aceea cânt: „
+Isus, Isus!...”
+
+[v3]
+Mă simt lovit, dar nu ucis;
+Mai am în viața mea, un vis:
+Să mă îndrept spre El, smerit,
+Și-oricât de greu voi fi lovit,
+Eu vreau să cânt și-n Paradis!...

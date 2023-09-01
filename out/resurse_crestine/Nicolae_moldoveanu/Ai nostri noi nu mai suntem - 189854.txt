@@ -1,0 +1,35 @@
+[title]
+Ai nostri noi nu mai suntem {author: {Nicolae Moldoveanu}, {rcId: {189854}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ai noștri noi nu mai suntem,
+Ci-ai Tăi, Isuse, pe vecii,
+Că-n Tine Ceru-ntreg avem,
+Cu haruri mii și mii de mii.
+
+[c]
+Nimic, nimic n-avem pe lume,
+Nici noi ai noștri nu suntem,
+Ne-ncredem în preasfântu-Ți Nume,
+Ca-n veci, Isuse, să Te-avem!
+
+[v2]
+O inimă și-un cuget vrei
+Să fim deplin cei mântuiți,
+Căci dragostea-n frumsețea ei,
+E numai când suntem uniți!
+
+[v3]
+Cu-n preț ales ne-ai cumpărat,
+Ca robi nicicând să nu mai fim,
+De duhul lumii și păcat,
+Noi liberi, liberi să trăim!
+
+[v4]
+Când nu-i robit al nostru dor,
+Când cerul vieții e senin,
+Când numai Tu ne ești Păstor,
+Atunci suntem uniți deplin!

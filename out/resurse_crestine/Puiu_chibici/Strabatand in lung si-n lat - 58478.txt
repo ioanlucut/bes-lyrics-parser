@@ -1,0 +1,35 @@
+[title]
+Strabatand in lung si-n lat {author: {Puiu Chibici}, {rcId: {58478}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Străbătând în lung și-n lat
+Lumea toată-am căutat
+Un prieten și un frate-adevărat
+Dar zadarnic, n-am gasit
+Și-am rămas dezamagit
+Totuși într-o zi un om am întâlnit.
+
+[c]
+Isus, Isus,
+O ce nume minunat
+Isus, Isus,
+Prietenul adevărat
+
+[v2]
+Oameni mulți am cunoscut
+Și în mulți m-am încrezut
+Însa de-al lor drum cu toții și-au văzut
+O ce crunt m-am înșelat
+Toți sunt oameni slabi și cad
+Numai unul niciodat’ nu m-a trădat
+
+[v3]
+Nu-ți dorești și tu acum
+Așa prieten scump la drum
+Când toți cei din jur sunt abur, praf și scrum
+Poți să-l ai dacă ai vrea
+El e-aproape, zi doar „da”
+E Isus Hristos, omul din Golgota.

@@ -1,0 +1,27 @@
+[title]
+Dragostea {author: {Alina Havrisciuc}, {rcId: {188098}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+N-ai intelege ce-nseamna iubirea
+De nu ai stii ce-nseamna cu-adevarat jertfirea
+Ai fi ca un pribeag mereu stingher fara speranta
+Si-n suflet ai avea mereu umbre de nesiguranta.
+
+[c]
+/: Caci dragostea e indelung rabdatoare
+E plina mereu de bunatate
+Nu se umfla de mandrie
+Ci se bucura de-adevar
+Nu cauta nicicand folosul sau
+Ea nu se gandeste deloc la rau
+Sufera totul, acopera totul
+Dragostea-i din Dumnezeu. :/
+
+[v2]
+N-ai intelege ce-nseamna iubirea
+De nu ai stii ce-nseamna cu-adevarat iertarea
+Ai fi ca un chimval zanganitor ce-n noapte suna
+N-ar straluci in jurul tau nicio raza de lumina.

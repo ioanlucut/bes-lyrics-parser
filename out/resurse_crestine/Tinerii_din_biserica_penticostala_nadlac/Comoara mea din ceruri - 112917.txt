@@ -1,0 +1,41 @@
+[title]
+Comoara mea din ceruri {author: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {112917}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Tu ești vindecarea
+sufletului în pustiu,
+rătăcesc și mi-e greu când nu simt brațul Tău,
+am greșit - știu bine.
+La Tine mă-ntorc,
+vreau să scap de lumea rea,
+știu că mă vei primi, nu mă vei izgoni
+/: și îmi va fi bine :/
+
+[c]
+Comoara mea din ceruri ești doar Tu, Isuse,
+ești tot ce vreau să am,
+îmbracă-mă în har să Te slăvesc.
+Știu c-au rămas prea multe rugăciuni nespuse,
+dar vreau să-Ți cer acum,
+să mă însoțești pe drum.
+Comoara mea din ceruri
+ești doar Tu, Isuse,
+ești tot ce vreau să am,
+îmbracă-mă în har să Te slăvesc.
+Știu c-au rămas prea multe
+rugăciuni nespuse,
+dar vreau să-Ți cer acum,
+să mă însoțești pe drum.
+
+[v2]
+Știu că niciodată
+Tu nu mă vei părăsi,
+fiindc-așa a fost scris, fiindc-așa ai promis,
+mă încred în Tine.
+La Tine mă-ntorc,
+vreau să scap de lumea rea,
+știu că mă vei primi, nu mă vei izgoni
+/: și îmi va fi bine :/

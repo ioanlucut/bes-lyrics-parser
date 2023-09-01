@@ -1,0 +1,45 @@
+[title]
+Cana galileea {author: {Nicu Chereji}, {rcId: {208806}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c2
+
+[v1]
+A fost chemat în Cana Galileea
+Isus Hristos cu ucenicii Lui
+Acolo apa-n vin se prefăcuse
+La glasul și Cuvântul Domnului.
+
+[c]
+Isus, Isus al nostru soare
+Al nostru Mire minunat
+Îți faci prezența și-a Ta slavă
+În locu-n care ești chemat!
+
+[v2]
+La nunta aceea toți se minunară
+Și ochii ucenicilor văzu
+Adevărata slavă minunată
+Când vasele de piatra se umplu
+
+[v3]
+Acum și noi Isuse Domnul Slavei
+La sărbătoare te rugam cu foc
+Unește toate inimile Doamne
+Și toarnă Duhul Tău în acest loc!
+
+[v4]
+Iubirea-ți Sfântă, dragostea Divină
+Revarsă Tu peste acești copii
+Privește cu-ndurare ia aminte
+Le umple viața lor cu bucurii.
+
+[c2]
+Isus, Isus al nostru soare
+Al nostru Mire minunat
+Iți faci prezența și-a Ta slavă
+În locu-n care ești chemat!
+Precum la nuntă ăn vechime
+În locu-n care ai fost chemat
+Tu Ți-ai făcut prezența Doamne
+Nuntașilor vin Sfânt le-ai dat!

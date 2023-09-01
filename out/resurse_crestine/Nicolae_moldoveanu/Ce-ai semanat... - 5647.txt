@@ -1,0 +1,47 @@
+[title]
+Ce-ai semanat {author: {Nicolae Moldoveanu}, {rcId: {5647}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,c4
+
+[v1]
+Ce-ai semănat cu lacrimi,
+Ai să culegi cântând,
+Oricât de lung e drumul,
+Sfârși-va în curând.
+
+[c]
+/: Nu plânge după anii,
+Ce trec și nu mai vin,
+Fii răbdător în chinuri,
+Nu-i cerul tot senin! :/
+
+[v2]
+Alege din durere,
+Adâncul ei folos,
+Tărie-ți dă privirea,
+Răbdării lui Hristos.
+
+[c2]
+/: Nu piere niciodată,
+Un bine semănat,
+Când mai în lipsă fi-vei,
+Tu vei primi ce-ai dat. :/
+
+[v3]
+Nu piere Adevărul,
+Mărturisit și viu,
+El nu e niciodată,
+Zadarnic și târziu.
+
+[c3]
+/: Nici plânsul rugăciunii,
+Nici micul milei dar,
+Nici jertfa dusă-n taină.
+Nimic nu-i în zadar. :/
+
+[c4]
+/: Căci orice bob rodește,
+Și-n tot ce vine-i rând;
+Ce-ai semănat cu lacrimi.
+Ai să culegi cântând. :/

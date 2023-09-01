@@ -1,0 +1,39 @@
+[title]
+Nu jos ci sus sa-mi tin privirea {author: {Nicolae Moldoveanu}, {rcId: {5851}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Nu jos, ci sus să-mi țin privirea
+Mereu spre cele dragi și noi;
+Nu-i rău ca noi suntem în lume,
+Ci-i rău când lumea e în noi.
+
+[c]
+/: Nu jos, ci sus! :/
+/: Ca să ajung cum vrea Isus. :/
+
+[v2]
+Nu jos, ci sus e fericirea
+De care eu doresc s-ascult;
+De-aș plânge-o prea puțin aicea,
+Aș plânge-o dincolo, prea mult...
+
+[v3]
+Nu jos, ci sus o să se vadă
+Ce-i roditor și ce-i pustiu,
+Dar cine râde, prea devreme,
+Adesea plânge... prea târziu...
+
+[v4]
+Nu jos, ci sus se vad cei vrednici
+A-L întâlni pe Dumnezeu;
+Din râs, ai pagubă de-a pururi;
+Din lacrimi, ai câștig mereu.
+
+[v5]
+Nu jos, ci sus se năzuiește,
+De vrei să poși sfârși frumos;
+Slăvită, dar înfricoșată,
+Va fi-ntâlnirea cu Hristos.

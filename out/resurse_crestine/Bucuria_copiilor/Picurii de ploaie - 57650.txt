@@ -1,0 +1,23 @@
+[title]
+Picurii de ploaie {author: {Bucuria copiilor}, {rcId: {57650}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+/: Pic, pic picurii de ploaie
+Cad încet pe geamul meu
+Pic, pic ploaia cade-ntruna
+Vine de la Dumnezeu. :/
+
+[v1]
+Ploaia cade pretutindeni,
+Pe drum oameni trec grăbiți
+Sub umbrele colorate
+Stau copii-ngramaditi.
+
+[v2]
+Un cățel uitat în ploaie
+Scheaună din răsputeri
+Trei copii îl cheamă-ntruna
+Sub umbrele lângă ei

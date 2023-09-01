@@ -1,0 +1,35 @@
+[title]
+Ma intorc acasa {author: {Alin și Florina Jivan}, {rcId: {139039}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Mă voi întoarce într-o zi acasă,
+Pe drumul unde lacrimi am vărsat.
+Mi-e dor de toate clipele frumoase.
+Mi-e dor de mama și de tata și de frați.
+
+[c]
+Mă întorc acasă, cu dor în suflet
+Să-mi plec genunchii și să plâng,
+Că am plecat, nimic nu poate să mă oprească!
+În drum spre casă am plecat!
+
+[v2]
+Cu trupul obosit, cu răni în suflet,
+Cu doruri sfinte după Dumnezeu,
+Mi-e dor să mai privesc al mamei zâmbet
+Și să mai cânt despre Isus cu frații mei.
+
+[v3]
+Cu ochii-nlăcrimati, privesc în zare,
+Și văd o umbră, parcă-i trupul lui,
+Dar anii au trecut si ce schimbare!
+Îl văd spre Mire, alergând, pe tatăl meu!
+
+[e]
+Am rătăcit, dar azi din nou spre casă am pornit.
+Îmi pare rău că tot ce am avut, am risipit.
+Îmi doresc la pieptul Tău să cad, să fiu primit!
+O, Doamne știi, o, cât de mult regret că Te-am rănit!

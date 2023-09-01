@@ -1,0 +1,41 @@
+[title]
+Fericirea mea {author: {Mirela Ursulescu}, {rcId: {176593}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c2
+
+[v1]
+Fericirea mea e Domnul, nu e alta pe pământ
+Isus este Salvatorul, nimeni nu-i ca El de sfânt.
+
+[c]
+Fericit mă simt cu Domnul
+(2x): El e-al meu Mântuitor
+Ca El nimeni nu e altul
+Cu El sunt biruitor.
+
+[v2]
+Chiar nimic nu se compară cu bunătatea Sa
+Când problemele mă-ncearcă El de grijă-mi va purta.
+
+[v3]
+De ar fi să trec în viață prin necazuri nu mă tem
+El Isus îmi e speranță, mă ajută-n orice greu.
+
+[v4]
+El și-a dat a Sa viață pentru-al meu și-al tău păcat
+Doar prin El tu ai speranță dacă vrei să fi salvat.
+
+[v5]
+Mântuit dar prin credintă poți ajunge cu Isus
+Dacă astazi pocăința o trăiești precum a spus.
+
+[c2]
+/: Fericit mă simt cu Domnul
+(2x): El e-al meu Mântuitor
+Ca El nimeni nu e altul
+Cu El sunt biruitor :/
+/: Fericirea mea e Domnul,
+(2x): Nu e alta pe pământ
+Isus este Salvatorul,
+Nimeni nu-i ca El de sfânt :/

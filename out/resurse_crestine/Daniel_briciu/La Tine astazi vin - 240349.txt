@@ -1,0 +1,37 @@
+[title]
+La tine astazi vin {author: {Daniel Briciu}, {rcId: {240349}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+La Tine astăzi vin, Isus, cu viața mea,
+Căci am alunecat din nou pe cale,
+Dar azi mă-ntorc smerit, pe brațul Tău iubit,
+Căci numai Tu-mi poți da iarăși iertare.
+
+[c]
+/: La Tine azi mă-ntorc, Isus, cu viața mea,
+Căci nu e nici un alt Nume sub soare
+În care să găsesc primesc iertare când greșesc,
+Decât în Numele Tău Sfânt și Mare. :/
+/: La Tine azi mă-ntorc, Isus, cu viața mea,
+Căci nu e nici un alt Nume sub soare
+În care să găsesc primesc iertare când greșesc,
+Decât în Numele Tău Sfânt și Mare. :/
+/: La Tine azi mă-ntorc, Isus, cu viața mea,
+Căci nu e nici un alt Nume sub soare
+În care să găsesc primesc iertare când greșesc,
+Decât în Numele Tău Sfânt și Mare. :/
+
+[v2]
+Am rătăcit destul și m-am oprit din drum,
+Nu vreau să mai privesc în urmă, Doamne.
+Rostește un cuvânt și dă-mi din Duhul Sfânt
+Căci vreau să stau de-acuma în picioare.
+
+[v3]
+De-acum vreau să-Ți slujesc și-n dragoste să cresc,
+Lumina Ta să răspândesc mereu.
+Și orice ar veni să pot mărturisi
+Că Tu ești Domnul meu și Dumnezeu!

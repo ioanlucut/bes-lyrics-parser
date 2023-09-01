@@ -1,0 +1,39 @@
+[title]
+Iehova nissi {author: {IHOP, TM}, {rcId: {232878}}
+
+[sequence]
+v1,c,v1,c,e,e2
+
+[v1]
+/: Am Unul la care alerg când mă tem, când mi-e greu
+Am Unul căruia-I dau poavara mea, păcatul meu
+Am Unul în care mă-ncred chiar de tot s-ar clătina
+Am Unul pe care Îl chem, El îmi dă victoria :/
+Am Unul la care alerg când mă tem, când mi-e greu
+Am Unul căruia-I dau poavara mea, păcatul meu
+Am Unul în care mă-ncred chiar de tot s-ar clătina
+Am Unul pe care Îl chem, El îmi dă victoria.
+
+[c]
+Am un steag ridicat chiar în vreme de necaz
+Am un steag ridicat, este Domnul cel prea-nalt
+Am un steag ridicat, peste toate înălțat
+Iehova Nissi, Tu ești steagul meu.
+Am un steag ridicat chiar în vreme de necaz
+Am un steag ridicat, este Domnul cel prea-nalt
+Am un steag ridicat, peste toate înălțat
+/: Iehova Nissi, Tu ești steagul meu :/
+
+[e]
+Voi înălța steagul în numele Domnului
+Voi proclama peste tot: ”
+Biruința-i a Lui!”
+Voi înălța steagul în numele Domnului
+Voi proclama peste tot: ”
+Biruința-i a Lui!”
+
+[e2]
+/: Domnul e de partea mea
+Domnul e de partea mea
+De aceea nu mă voi clătina
+Căci Domnul e de partea mea :/ ×3

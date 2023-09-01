@@ -1,0 +1,23 @@
+[title]
+Sa-nveti sa citesti {author: {Nicolae Moldoveanu}, {rcId: {233483}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Să-nveți să citești, copile, nu numai a Cărții file,
+ci și-n iarba cea de jos, de citești, înveți frumos,
+adevărul cel ne-nfrânt ce-i în cer și pe pământ.
+Vei descoperi mereu pe Eternul, pe Eternul Dumnezeu.
+
+[v2]
+Să-nveți să citești, copile, cartea fiecărei zile,
+că-ntâmplările ce vin, de citești, înveți deplin,
+adevărul minunat, ce te-ndreaptă în umblat.
+Astfel vei vedea mereu pe Eternul, pe Eternul Dumnezeu.
+
+[v3]
+Să-nveți să citești, copile! Cele bune ține-ți-le!
+Cele rele să le-arunci în a mării ape-adânci.
+Adevărul să-l păstrezi de oriunde - să-l urmezi!
+C-Adevăru-i Dumnezeu, cel neschimbat, cel neschimbat și sfânt mereu.

@@ -1,0 +1,29 @@
+[title]
+Sa ai candela plina {author: {Dănuț Așchilean}, {rcId: {80037}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+/: Să ai candelă plină, și untdelemn în vas
+De miezul nopți frate, ne mai desparte-un ceas :/
+
+[c]
+/: Să nu ațipim, să nu adormim
+Treji în așteptare, spre cer să privim. :/
+
+[v2]
+/: În post și-n rugăciune, tu frate să veghezi
+În ziua glorioasă, să poți să-L întâlnești. :/
+
+[c2]
+/: Duhul și Mireasa strigă: te-așteptăm.
+Pe nori cu slavă mare să-L întâmpinăm. :/
+
+[v3]
+/: Se-aude iar strigarea, Mirele va veni
+Făclia să îți ardă până, în zori de zi. :/
+
+[c3]
+/: În Glorie și-n Slavă, noi îl vom vedea
+Pe al nostru Mire când va apărea :/

@@ -1,0 +1,37 @@
+[title]
+Nu te teme niciodata {author: {Dan Damian}, {rcId: {238942}}
+
+[sequence]
+v1,c,v2,c,c2
+
+[v1]
+Te înalț Doamne căci m-ai ridicat
+Și n-ai lăsat vrăjmașii mei să se bucure de mine
+Când eu am strigat, Doamne Dumnezeu
+Către Tine, Tu m-ai vindecat
+
+[c]
+Nu te teme, niciodată
+Din mâna Mea, n-am să te las, Eu îți promit
+Pentru tine pe o cruce
+De dragul tău, sângele Meu, te-a mântuit
+/: Nu te teme, niciodată
+Din mâna Mea, n-am să te las, Eu îți promit
+Pentru tine pe o cruce
+De dragul tău, sângele Meu, te-a mântuit :/
+/: Nu te teme, niciodată
+Din mâna Mea, n-am să te las, Eu îți promit
+Pentru tine pe o cruce
+De dragul tău, sângele Meu, te-a mântuit :/
+/: De dragul tău, n-am să te las
+Eu îți promit :/
+
+[v2]
+Doamne ai milă, Doamne ajută-mă
+Tânguirea-n veselie, Tu ai prefăcut
+Sacul meu de jale, Doamne-ai dezlegat
+Bucurii mi-ai dat, fii lăudat
+
+[c2]
+/: Nu te voi lăsa, niciodată :/ (3x)
+Din mâna Mea, n-am să te las, n-am să te las.

@@ -1,0 +1,29 @@
+[title]
+Mergi inainte (si bem) {author: {Mirela Ursulescu}, {rcId: {176628}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mergi înainte, chiar de putere nu mai ai
+Tu mergi ´nainte, căci drumul tău e către rai
+Mergi înainte, de toți ar fi-mpotriva ta
+Tu mergi ´nainte, căci Domnul e de partea ta.
+
+[c]
+Mergi înainte, cu Tine merge Dumnezeu
+1x: Mergi înainte, doar El e ajutor la greu
+(2x): Și chiar de totul s-ar nărui în jurul tău,
+Tu mergi cu Domnul, cu El vei birui mereu.
+
+[v2]
+Mergi înainte, chiar dacă toți te părăsesc
+Tu mergi ´nainte, că singur nicicând tu nu ești
+Mergi înainte, chiar dacă lupta este grea
+Tu mergi ´nainte, căci Domnul e scăparea ta.
+
+[v3]
+Mergi înainte, căci Domnul e lumina ta
+Tu mergi ´nainte, pe-a Sale brațe te-a purta
+Mergi înainte și El răsplată îți va da
+Tu mergi ´nainte, ca să ajungi în Slava Sa.

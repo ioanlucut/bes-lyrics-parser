@@ -1,0 +1,27 @@
+[title]
+Isus e-al meu domn si salvator {author: {Anonim}, {rcId: {4535}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Isus e-al meu Domn și Salvatorul :/
+De-acum și până-n veac, aleluia,
+De-acum și până-n veac;
+
+[c]
+Slavă Ție, Fiu etern
+Și sânge al Mielului,
+Rege-al regilor,
+Domn în veac,
+/: Sfântul lui Avraam :/ aleluia.
+
+[v2]
+/: Isus este cel care ne izbăvește :/
+Din păcat și moarte, aleluia,
+Din păcat și moarte.
+
+[v3]
+/: Isus va veni pe nori cu slavă :/
+Și ne va lua la El, aleluia,
+Și ne va lua la El.

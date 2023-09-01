@@ -1,0 +1,32 @@
+[title]
+Ca si niste copilasi {author: {Nicolae Moldoveanu}, {rcId: {5513}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+„
+Ca si niste copilasi o Dragi, plapanzi si iertatori,
+Blanzi, frumosi si dragalasi o Si de pace iubitori,
+Ca si ei,” - Isus a zis - o „
+Trebuie si voi sa fiti.
+Doar asa in Paradis o Veti ajunge fericiti.”
+
+[c]
+/: „
+Lasati copilasii sa vie!”
+Isus la ucenici spunea...
+Si azi, cu-aceeasi bucurie,
+El vrea a-i binecuvanta. :/
+
+[v2]
+Doamne, pe acesti copii o De primejdii sa-i feresti!
+Da-le binecuvantari, o Din comorile ceresti!
+Pe parintii lor, la fel, o Sa-i ajuti, sa-i creasca mari
+Pana cand, o, Sfinte Miel, o Sus pe nori o sa apari...
+
+[v3]
+Fa-i sa-Ti fie sujitori, o Credinciosi rascumparati!
+Fa-i s-ajunga vestitori o De Cuvant inflacarati!...
+Cand vei reveni, pe nor, o Sa Te-ntampine, la fel,
+Pruncii cu parintii lor, o Sfinte Domn, Emanuel!”

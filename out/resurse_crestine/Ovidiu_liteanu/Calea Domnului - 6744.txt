@@ -1,0 +1,35 @@
+[title]
+Calea domnului {author: {Ovidiu Liteanu}, {rcId: {6744}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Multe drumuri sunt in lume
+Ce te duc unde nu-i bine
+Numai calea Domnului
+Ea da viata omului
+
+[c]
+/: Unde sa ma duc
+Doamne fara tine
+Doar pe calea ta
+Este-atat de bine :/
+
+[v2]
+Calea sfanta e doar una
+Pe ea nu gasesti minciuna
+Nu e ura omului
+Ci doar pacea Domului
+
+[v3]
+Calea morti este larga
+Pe ea merge lumea toata
+Amagita de cel rau
+Si nu e cu Dumnezeu
+
+[v4]
+Cine crede se boteaza
+Calea Domnului urmeaza
+Tu pe cine vei urma
+Spunemi care-i calea ta

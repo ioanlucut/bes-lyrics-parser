@@ -1,0 +1,29 @@
+[title]
+Inima mi-e gata sa-ti cante-o domnul meu {author: {Anonim}, {rcId: {113099}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Inima mi-e gata să-Ți cânte-o Domnul meu
+Inima mi-e gata să Te laude mereu
+Pentru bunătatea ce Tu mi-ai arătat
+Căci din valea morții pe mine m-ai salvat.
+
+[c]
+/: De-aceea-Ți cânt, cânt, cânt, Îl laud pe Isus
+Cânt, cânt, cânt, căci pace ne-a adus
+Cânt, cânt, cânt, în veci îți voi cânta
+Cânt, cânt, cânt că-mi saltă inima! :/
+
+[v2]
+Inima mi-e gata pentru cuvântul Tău
+Inima mi-e gata s-asculte-o Domnul meu
+Schimbă Doamne Isuse tot ce e rău în ea
+Și transform-o, Doamne, așa cum Tu ai vrea.
+
+[v3]
+Inima mea, Doamne este toată a Ta
+Vreau să locuiești numai Tu în ea
+Să rămâi acolo, să mă ocrotesti
+Și pe calea Ta să mă călăuzești.

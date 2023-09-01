@@ -1,0 +1,29 @@
+[title]
+Cand valurile vor urla {author: {Nicolae Moldoveanu}, {rcId: {5800}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Cand valurile vor urla,
+Eu voi veni, te-oi ajuta;
+/: Cand valurile vor izbi,
+Cu mila te voi izbavi. :/
+
+[v2]
+Vegheaza si-astazi sa fii treaz!
+Ce-ti spune tie Domnul azi:
+/: Caci Cel Rau se va ridica
+Sa-ti puna spini in calea ta. :/
+
+[v3]
+Dar Eu ti-am spus ca nu te las
+Pe tine singur, nici un pas!
+/: De-ai sa te duci unde-ti spun Eu
+Si sa-mplinesti Cuvantul Meu. :/
+
+[v4]
+Asculta azi, ce iti spun Eu,
+Te-oi ajuta cand ti-o fi greu
+/: Ma duc Eu inaintea ta,
+Talazuri cand s-or ridica. :/

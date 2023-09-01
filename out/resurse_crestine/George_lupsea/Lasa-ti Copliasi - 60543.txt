@@ -1,0 +1,35 @@
+[title]
+Lasa-ti copliasi {author: {George Lupsea}, {rcId: {60543}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Lasa-ti Copilasi Sa Vine La Mine
+Caci Cerul Va Fi Acelor Ca Ei
+Acum Te Rugam Coboara O Lumina
+Si Paza Sa Pui In A Lor Gradina
+
+[c]
+O Lasa-ti Tu Pacea Din Cer
+Eu Bine-cuvin-tare i-ti Cer
+La Aceast’ Copilas O Isus
+Tu Da-O Din Ceruri De Sus.
+
+[v2]
+In A Lor Gradina O Floare Ai Sadit
+Isuse Iubit Sa-o Pazesti Pe Pamint
+Si Fa Ea Sa Creasca Dupa Voia Ta
+Cind Tu Vei Veni S-o Poti Ridica
+
+[v3]
+Sa-o Adapi Tu Cu Apa Ce Curge Din Cer
+Si Hrana Sa-i Dai, Ca La Izraiel
+Pune-n Jurul Ei, Un Stilp De Foc
+Sa Fie Pazita, Aici De-orice Rau
+
+[v4]
+Iar Cand Doamne Ei in Ruga Vor Fi
+Sa Strige La Tine Tu Nu Zabovi
+Caci Tu Le-ai Dat Viata si Tu ii Pazesti
+Cu Mana Ta Doamne De Rau Sa-i Feresti.

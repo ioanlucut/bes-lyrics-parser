@@ -1,0 +1,41 @@
+[title]
+Astazi noi cu drag am venit la voi {author: {Anonim}, {rcId: {3772}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Astăzi noi cu drag am venit la voi
+Să vestim Împărăția cerului
+Duhul sfânt e aici vă umple la toți
+Inima cu bucurii.
+
+[c]
+Duhul ne-nsoțește cu puterea sa
+Să vestim la toți evanghelia
+Noi suntem cu Domnul pretutindenea
+Îi cântăm voioși Aleluia.
+
+[v2]
+Călăuza noastră este Duhul Sfânt
+Când lucrăm ne dă putere și avânt
+Cu a sa putere propovăduim
+Pe Isus ce îl iubim.
+
+[c2]
+Prin noroi și ploaie grindină și vânt
+Noi vestim voioși Sfântul Tău Cuvânt
+Harul și cu pacea ne-nsoțesc mereu
+Înaintea noastră-i Dumnezeu.
+
+[v3]
+Inima din noi cântă ne-ncetat
+Domnului Isus îi cântă minunat
+Că ne-a-nvrednicit cu puterea sa
+Să vestim mântuirea.
+
+[c3]
+Inima-ți deschide la Cuvântul Său
+Pace vei primi de la Dumnezeu
+Sângele lui Isus te va curăți
+Mântuit pe veci cu el vei fi.

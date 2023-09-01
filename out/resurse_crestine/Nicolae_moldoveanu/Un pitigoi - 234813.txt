@@ -1,0 +1,20 @@
+[title]
+Un pitigoi {author: {Nicolae Moldoveanu}, {rcId: {234813}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Un pițigoi vioi spre fereastră zboară,
+parcă vrea să ceară apă și mâncare,
+căci zăpada-i mare!
+
+[v2]
+Dragi pițigoi, la noi, vino, că-ți dăm pâine
+de la Cel ce ține cerul și pământul,
+Dumnezeu Preasfântul!
+
+[v3]
+Slavă și noi, și voi: băiețași, fetițe,
+păsărici drăguțe, să-nălțăm curată
+El la noți ni-I Tată!

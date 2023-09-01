@@ -1,0 +1,41 @@
+[title]
+De ce sa plangi nemangaiat {author: {Traian Dorz}, {rcId: {200660}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+De ce să plângi nemângâiat,
+Ce poți să pierzi în orice vreme?
+De ce n-asculți un gând curat,
+Cât este încă să te cheme?
+
+[c]
+Nu-i fericirea în plăceri,
+Dar poate fi și’n suferință!
+Nu-i pacea’n lume nicăieri,
+Dar e’n Hristos cu prisosință!
+
+[v2]
+Nu-i bucuria în păcat,
+Nu crede-n cine te-amăgește.
+Numai Hristos e-adevărat,
+Și doar ce EI făgăduiește.
+
+[c2]
+Ia-ți ochii de la tot ce-i jos,
+Si ieși din a’ntristării ape!
+Comoara veșnică-i Hristos,
+Câștigă-L până ți-este-aproape!
+
+[v3]
+De haru’ndemnului preasfânt,
+Te Iasă-atras cu bucurie!
+Spre Cel al cărui crezământ,
+Te va’nsoți pe veșnicie.
+
+[c3]
+De-asculți acest îndemn curat,
+Cât este încă să te cheme!
+N-ai să mai plângi nemângâiat,
+Ce poți să pierzi în orice vreme!

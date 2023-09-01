@@ -1,0 +1,35 @@
+[title]
+Ca doi trandafiri sa fiti amandoi {author: {Dionisie Giuchici}, {rcId: {5528}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ca doi trandafiri, sa fiti amandoi,
+In sfanta gradina a Duhului Sfant!
+Mereu sa-nfloriti si sa raspanditi
+Parfumul iubirii, parfumul dorit!
+
+[c]
+E mai bine-n doi, chiar si la nevoi.
+Funia-mpletita mult mai tare e.
+Cand ai de lucrat, cand ai de luptat,
+Chiar si-n rugaciune vei fi ascultat.
+
+[v2]
+Sa fiti un buchet cu flori de migdal,
+Cu roade ca roua ce cade-n Saron!
+Sa stati langa rau pe al vietii mal,
+La raul care curge din noul Sion.
+
+[v3]
+Sa fiti un potir cu parfum de nard,
+In ruga, pe fata, mereu sa udati,
+Cu lacrimi fierbinti, cu lacrimi ce ard;
+Prin sfanta credinta, voi sa va rugati.
+
+[v4]
+Si noi va uram, cu toti va dorim
+Pe noua carare pe care-ati plecat,
+Sa mergeti cu El, spre cer ne’ncetat,
+Cu Domnul iubirii, in Ierusalim.

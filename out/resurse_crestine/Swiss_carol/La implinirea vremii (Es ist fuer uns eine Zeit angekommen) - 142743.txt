@@ -1,0 +1,32 @@
+[title]
+La implinirea vremii (es ist f"ur uns eine zeit angekommen) {author: {Swiss Carol, Traducere RO}, {rcId: {142743}}
+
+[sequence]
+v1,v2,v3,s
+
+[v1]
+/: La împlinirea vremii,
+Lumea a cunoscut,
+Iubirea Domnului :/ x2
+A venit al nostru Salvator,
+Printre noi, printre noi,
+Isus, Domnul Domnilor!
+
+[v2]
+/: În ieslea din Betleem,
+S-a născut Pruncul sfânt,
+Isus, Emanuel :/ x 2
+Să ne fie scump Mântuitor,
+Pe pământ, pe pământ,
+Isus, Domnul Domnilor!
+
+[v3]
+/: Veniți acum să cântăm,
+Bucuroși, Celui sfânt,
+Pe El Să-L adorăm :/ x 2
+El ne este bun Conducător,
+Către cer, către cer,
+Isus, Domnul Domnilor!
+
+[s]
+Dar, când a venit împlinirea vremii, Dumnezeu a trimis pe Fiul Său, născut din femeie, născut sub Lege, ca să răscumpere pe cei ce erau sub Lege, pentru ca să căpătăm înfierea. Galateni 4:4-5

@@ -1,0 +1,35 @@
+[title]
+Sa iau cat mai putin {author: {Nicolae Moldoveanu}, {rcId: {244177}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Să iau cât mai puțin din toate,
+Să dau cât pot mai mult mereu,
+/: Să-mi strâng comorile curate,
+Umblând smerit cu Dumnezeu. :/
+
+[v2]
+Să dorm cât mai puțin din viață
+Și să muncesc cât pot mai mult
+/: Păstrând din tot ce mă învață
+Puțin să spun și mult s-ascult. :/
+
+[v3]
+S-acopăr cât mai mult la alții,
+La mine să n-ascund nimic,
+/: Mereu mai ’nalți privindu-mi frații
+Mereu pe mine tot mai mic. :/
+
+[v4]
+Să-mi uit spre alții orice bine,
+Să-mi uit spre mine orice rău,
+/: Să caut - uitându-mă pe mine -
+De-aproapelui folosul său. :/
+
+[v5]
+O, de-aș putea așa prin lume
+Să trec smerit și credincios,
+/: Atunci m-aș vrednici de-un nume
+De ucenic al lui Hristos. :/

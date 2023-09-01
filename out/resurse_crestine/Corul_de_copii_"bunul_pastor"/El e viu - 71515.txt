@@ -1,0 +1,24 @@
+[title]
+El e viu {author: {Corul de copii ”Bunul Păstor”}, {rcId: {71515}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+El e Domn, El e Domn pe-ntreg pământul
+El e Domn,
+Împăratul minunat, dragostea ne-a arătat
+El e Domn, El e Domn.
+
+[v2]
+El e viu, El e viu și totul cântă
+El e viu,
+Pentru noi El s-a jertfit, viață El ne-a dăruit.
+El e viu, El e viu.
+
+[v3]
+Va veni, va veni pe norii slavei
+Va veni,
+Să ne ia în slava Sa, pentru veci îi voi cânta
+Va veni, Va veni.
+Slavă Lui, Slavă Lui.

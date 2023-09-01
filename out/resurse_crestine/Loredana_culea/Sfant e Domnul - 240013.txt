@@ -1,0 +1,29 @@
+[title]
+Sfant e domnul {author: {Loredana Culea}, {rcId: {240013}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+Am vazut pe Domnul
+Sus in ceruri stand pe Tron
+Slava Lui umplea Templul
+Serafimii isi spuneau:
+
+[c]
+Sfant, Sfant, Sfant e Domnul /×3
+
+[v2]
+Acolo sus in ceruri
+Tu un loc mi-ai pregatit
+Cu ingerii si batranii
+Ma voi inchina in curand
+
+[b]
+Te astept Isus
+Impreuna sa fim
+Sa ma duci
+In vesnicii
+Sa ma iei acasa
+Unde totul e sfant
+O vesnicie sa iti cant:

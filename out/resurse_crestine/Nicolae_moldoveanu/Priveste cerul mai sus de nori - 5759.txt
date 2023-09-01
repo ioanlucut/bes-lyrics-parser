@@ -1,0 +1,36 @@
+[title]
+Priveste cerul mai sus de nori {author: {Nicolae Moldoveanu}, {rcId: {5759}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Privește cerul, mai sus de nori,
+Cu mii de stele ca niște flori,
+Ce, cu-a-lor raze dulce sclipesc
+Și Universul împodobesc.
+
+[c]
+/: Acolo-i țara mea, acolo-i viața,
+Acolo-i dorul meu, se-nalță către cer!
+Departe de-orice chin, departe de dureri,
+De unde Mielul blând revarsă mângâieri! :/
+
+[v2]
+De vrei să crezi, de vrei să știi,
+Numai lui Isus tu-I poți sluji
+Și în mărire poți viețui
+Și-a Lui iubire o poți primi.
+
+[v3]
+O, Țară Sfântă, când te-oi zări?
+Pe-ale tale plaiuri când voi sosi?
+Pe-a ta câmpie-n aceea zi,
+Toți credincioșii s-or întâlni.
+
+[v4]
+Parcă se-aude din depărtări
+Un glas ce strigă: „
+Noi v-așteptăm
+În Țara Sfântă de-aur curat,
+Ce, prin credință, ați câștigat! ”

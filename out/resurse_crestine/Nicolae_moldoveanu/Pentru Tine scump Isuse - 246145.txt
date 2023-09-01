@@ -1,0 +1,43 @@
+[title]
+Pentru tine scump isuse {author: {Nicolae Moldoveanu}, {rcId: {246145}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Pentru Tine scump Isuse,
+Inima mea bate,
+Și-n zvâcniri
+Ie-i nespuse,
+Vrea să Te arate.
+
+[c]
+Mii de inimi de-aș avea,
+Toate Ție Ți Ie-aș da;
+/: Toate pentru Tine-ar bate,
+Veșnicii nemăsurate. :/
+
+[v2]
+Pentru Tine drag Isuse,
+inima mea cântă,
+Și-n vibrări
+Ie-i nespuse
+Tot mai sus se-avântă.
+
+[c2]
+Mii de inimi de-aș avea
+Toate Tie Ți-ar cânta
+/: Și-n cerească armonie,
+Ar vibra în veșnicie. :/
+
+[v3]
+Pentru Tine sfânt Isuse,
+Inima mi-e pară,
+Doru-n vâlvătăi nespuse-o
+Arde și-o-mpresoară.
+
+[c3]
+Mii de inimi de-aș avea
+Toate ar arde-n slujba Ta
+/: Focul dragostei divine,
+Le-ar topi pe toate-n Tine! :/

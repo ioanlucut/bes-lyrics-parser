@@ -1,0 +1,42 @@
+[title]
+Am fost lutul cel cu zgura {author: {Ovidiu Liteanu}, {rcId: {166760}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Am fost lutul cel cu zgură,
+Lut luat din bătătură,
+Dar Isus m-a curățit
+Și pe-o roată m-a-nvârtit,
+M-a făcut un vas sfințit;
+M-a umplut cu Duhul Sfânt,
+L-a turnat în vas de lut,
+Toată viață mea să-I cânt!
+
+[c]
+Fă din mine ființa
+Care m-ai creat să fiu,
+Dumnezeul meu Cel Viu
+Și frământă-mă cât vrei
+/: Numai la cer să mă iei! :/
+
+[v2]
+Am fost lutul cel cu piatră,
+Așa cum e lumea toată
+Dar m-a frământat Isus
+Până pietrele s-au dus
+Și cu Untdelemn m-a uns,
+M-a făcut un vas curat,
+De păcate m-a spălat,
+Fie Domnul lăudat!
+
+[v3]
+Am fost lutul cu tăciune,
+Aprins de păcat în lume,
+Dar s-a îndurat Hristos
+Și tăciunele l-a scos
+Să fiu un vas de folos,
+Și m-a călit în cuptor
+Să lucrez pe-al lui ogor
+Să fiu vasul slujitor!

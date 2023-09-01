@@ -1,0 +1,33 @@
+[title]
+De mic copil am invatat - mama roaga-te pentru mine {author: {Speranța pentru copii}, {rcId: {147898}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+De mic copil am învățat
+Cum să mănânc, cum să mă îmbrac;
+Le stiu de la mama mea,
+Fiindcă ea mă sfătuia. -
+Dar a venit o zi când am simțit,
+Că mama mea atât mi-a lipsit;
+Atunci când la școală am plecat,
+Cu lacrimi ea m-a îmbrățișat.
+
+[c]
+/: Mamă, roagă-te pentru mine!
+Vreau să ne vedem cu bine!
+Cu mine să fie Isus,
+Așa cum mi-ai spus. :/
+
+[v2]
+Iar când voi fi puțin mai mare,
+De voi pleca în depărtare;
+La școală sau la muncă de voi fi,
+Și-atunci mama mea, te voi iubi.
+
+[v3]
+Și-atunci când mă voi căsători,
+Eu tot copilul tău voi fi;
+Sau anii grei de-or fi în viața ta,
+Tot mama mea vei rămânea.

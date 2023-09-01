@@ -1,0 +1,32 @@
+[title]
+Poti sa fii {author: {Eldad Kids}, {rcId: {230364}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+/: Ești chemat să fii sprijin la nevoie
+Dăruind un zâmbet cald oricui e trist
+Nu uita, un neînsemnat pahar de apă
+Nu va rămânea de El nerăsplătit :/
+
+[c]
+/: Poți să fii o mână întinsă
+O făclie ce stă mereu aprinsă
+Luminând cărarea către Dumnezeu
+Poți să ai o inimă mare,
+Să dăruiești o binecuvântare
+Zi de zi, oricărui om din jurul tău :/
+/: Poți să fii o mână întinsă
+O făclie ce stă mereu aprinsă
+Luminând cărarea către Dumnezeu
+Poți să ai o inimă mare,
+Să dăruiești o binecuvântare
+Zi de zi, oricărui om din jurul tău :/
+/: Oricărui om din jurul tău! :/
+
+[v2]
+/: Într-o lume ce e tot mai tulburată
+Dă din pacea ta celui îngrijorat
+În inimă dragostea ți-a fost turnată
+Să iubești pe toți cum Tatăl ne-a învățat :/

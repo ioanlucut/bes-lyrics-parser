@@ -1,0 +1,31 @@
+[title]
+Cred in tine {author: {Tommy Walker}, {rcId: {158397}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Chiar de nu pot, să Te privesc
+Și-al Tău tron, din Cerul înalt, pare departe.
+Și chiar de nu pot, urmele cuielor s-ating,
+O bucurie adâncă mi-ai dat, ce mă-ntărește.
+
+[c]
+Eu cred în Tine, mă-ncred, Doamne-n Tine,
+Deși ochii mei, nu Te zăresc,
+În inimă, prezența-Ți găsesc.
+Eu cred în Tine, mă-ncred, Doamne-n Tine,
+Să spună lumea-ntreagă ce-ar vrea,
+Dar bucuria nu-mi va lua, Doamne, eu cred!
+ Eu cred în Tine, mă-ncred, Doamne-n Tine,
+Deși ochii mei, nu Te zăresc,
+În inimă, prezența-Ți găsesc.
+Eu cred în Tine, mă-ncred, Doamne-n Tine,
+Să spună lumea-ntreagă ce-ar vrea,
+Dar bucuria nu-mi va lua, Doamne, eu cred! x3
+
+[v2]
+Ales din vecie, ai coborât din înaltul Cerului,
+Și-ai arătat, că ești singura cale spre inima Tatălui.
+Pe cruce-ai murit, dar azi ești viu, ești Domn și-mpărat!
+Învins e păcatul și moartea, iar eu sunt eliberat!

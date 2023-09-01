@@ -1,0 +1,29 @@
+[title]
+Aprinde-mi tu viata iubite isus {author: {Nicolae Moldoveanu}, {rcId: {189855}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Aprinde-mi Tu viața, iubite Isus,
+Cu focul divin al iubirii,
+/: Ca fumul tămâiei să nalte în sus,
+Mireasma plăcut-a sfințirii. :/
+
+[v2]
+Aprinde-mi Tu viața și fă-o altar,
+Cu focul preasfânt al credinții,
+/: Ca zilnic să guste din cerul de har,
+Dulceața trăirii cu sfinții! :/
+
+[v3]
+Aprinde-mi Tu viața, să ardă mereu,
+În focul nădejdii curate,
+/: Ca-n pace deplină, în greul mai greu,
+Să aibă priviri luminate. :/
+
+[v4]
+Aprinde-mi Tu viața cu focul ceresc,
+Topește-o Isuse în Tine,
+/: Ca pururi în Tine arzând să trăiesc,
+Și arzând să trăiești Tu în mine!

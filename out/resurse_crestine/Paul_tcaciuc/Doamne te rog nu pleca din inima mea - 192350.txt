@@ -1,0 +1,37 @@
+[title]
+Doamne te rog nu pleca din inima mea {author: {Paul Tcaciuc}, {rcId: {192350}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Când Îți întorci privirea de la mine
+Și când Prezența-Ți nu o mai simt
+Un gol adânc sapă în mine
+În disperare Tată eu strig
+
+[c]
+Doamne, te rog nu pleca
+Din inima mea
+Nu te duce departe de mine
+Doamne, te rog nu pleca
+Nu mă lăsa
+Viața asta n-o vreau fără Tine.
+
+[v2]
+Inima-i rece fără simțire
+Fără voință de-a mai trăi
+Dar am în suflet dorul de Tine
+Doar el mă-mpinge Tată să strig.
+
+[v3]
+Numai un gând atât mă mai ține
+Inima frântă nu o respingi
+Duhul străpuns Îl strângi la Tine
+Și fără merit în palmă mă ții.
+
+[v4]
+Astăzi eu știu că viața-i deșartă
+Când bucuria mea nu ești Tu
+Ființa-mi toată e prinsă de Tine
+Nu te mai las Isuse nicicum.

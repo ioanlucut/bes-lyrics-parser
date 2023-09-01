@@ -1,0 +1,35 @@
+[title]
+Doamne ce comoara sfanta {author: {Marta Bergheaua}, {rcId: {66286}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Doamne, ce comoara sfanta
+Am gasit in Jertfa Ta
+/: Alinare sufleteasca
+Pentru toata viata mea :/
+
+[v2]
+Cand eram fara de Tine
+Eram trist si apasat
+/: De pacatul necredintei
+Care ma tinea legat :/
+
+[v3]
+Dar Isus vazandu-mi starea
+Ca-i din ce in ce mai grea
+/: M-a chemat sa vin la Dansul
+Caci mi-o poate alina :/
+
+[v4]
+Eu I-am ascultat chemarea
+Si-am venit cum El mi-a spus
+/: Si-am vazut ca mangaierea
+Era-n mana lui Isus :/
+
+[v5]
+Si de-atuncea, ah! ce bine
+Ma simtesc la sanul Tau
+/: Nu as mai pleca o clipa
+De la Tine, Domnul meu :/

@@ -1,0 +1,15 @@
+[title]
+Slavita sa fii stanca a mantuirii {author: {Anonim}, {rcId: {5069}}
+
+[sequence]
+v1,c
+
+[v1]
+Slăvită să fii stâncă a mântuirii,
+Căci Domnul e de partea mea.
+Victoria Lui e a mea,
+Slăvită să fii, Stâncă a mântuirii.
+
+[c]
+/: Slăvită să fii,
+Stâncă a mântuirii. :/

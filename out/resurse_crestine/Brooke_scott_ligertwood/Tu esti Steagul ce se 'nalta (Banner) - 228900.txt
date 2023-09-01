@@ -1,0 +1,33 @@
+[title]
+Tu esti steagul ce se nalta (banner) {author: {Brooke, Scott Ligertwood, Traducere RO}, {rcId: {228900}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+Doamne, pe veci ești lăudat
+Slava Ta ne înconjoară
+Cerul Te-admiră minunat
+Și creația Ți se-nchină
+Eu m-aplec și Îți dau slavă.
+
+[c]
+Ești Singurul vrednic, Doamne
+Puterea Ta, moartea-a biruit
+Ai înviat, o, ce glorie
+Ești al nostru Domn slăvit!
+
+[v2]
+Ești credincios și neschimbat
+Al Tău Nume dă izbândă
+Prin jertfa Ta Tu ne-ai salvat
+Ai purtat a noastră vină.
+
+[b]
+Îți aducem închinare
+Nu e altul sfânt și tare
+Tu ești Steagul ce se ’nalță maiestos!
+Ești bogat în îndurare
+Ești Păstorul bun și mare
+Tu ești Steagul ce se ’nalță maiestos
+Isus, Domnul glorios!

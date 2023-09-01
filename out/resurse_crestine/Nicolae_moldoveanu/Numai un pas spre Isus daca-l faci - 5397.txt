@@ -1,0 +1,30 @@
+[title]
+Numai un pas spre isus daca-l faci {author: {Nicolae Moldoveanu}, {rcId: {5397}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Numai un pas spre Isus daca-l faci,
+/: Numai un pas! :/
+Pacatul tau, lui Isus azi sa-l dai,
+Fericire sa ai.
+
+[c]
+/: Numai un pas! :/
+El te-asteapta: vino, chiar azi,
+Iertarea Lui in dar s-o primesti
+Si sa te mantuiesti!
+
+[v2]
+Numai un pas si sa crezi in Isus,
+El te-asteapta iubind nespus.
+Sa lasi acum pacatul cel greu
+Sa vii la glasul Sau!
+
+[v3]
+Grabeste-te! Azi pe ganduri nu sta!
+Lui Isus, tu sa-I deschizi inima!
+Spune: „
+Pe veci vreau sa fiu doar al Tau,
+Mantuitorul meu!”

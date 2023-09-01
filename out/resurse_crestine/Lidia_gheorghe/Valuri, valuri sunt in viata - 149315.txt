@@ -1,0 +1,41 @@
+[title]
+Valuri valuri sunt in viata {author: {Lidia Gheorghe}, {rcId: {149315}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Valuri, valuri sunt în viață,
+Valuri tot mereu.
+Ca să poți să simți cu alții,
+Când se află-n greu.
+
+[v2]
+Dacă n-ai trecut pe-acolo,
+N-ai cum să-nțelegi.
+Dar dacă ești încercat,
+Poți să-ncurajezi.
+
+[v3]
+Spune-i frate și la altul
+Care-i derutat
+Cum de tine Împăratul
+Mult S-a îndurat.
+
+[v4]
+Cum ai fost un păcătos
+Și El te-a iertat,
+Și-n loc să te pedepsească,
+În brațe te-a luat.
+
+[v5]
+Te-a primit cu brațe calde,
+Și cu dor nespus.
+Iar te-a ridicat în palme
+Când erai căzut.
+
+[v6]
+El ți-a spălat rănile
+Și le-a vindecat.
+Dumnezeu este Acela
+Ce te-a cercetat.

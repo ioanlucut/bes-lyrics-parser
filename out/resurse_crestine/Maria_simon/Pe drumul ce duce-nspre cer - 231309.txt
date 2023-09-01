@@ -1,0 +1,35 @@
+[title]
+Pe drumul ce duce-nspre cer {author: {Maria Șimon}, {rcId: {231309}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Pe drumul ce duce-nspre cer ați pornit,
+Spre Patria Sfântă porniți fericiți,
+Pe Domnul s-aveți zi de zi
+El sprijin vă fie orice-ar veni!
+
+[c]
+Veți întâlni pe cale și spini,
+Nu vor fi doar trandafiri...
+Dar cu Hristos, drumu-i frumos
+Și duce în cerul glorios!
+
+[v2]
+Cu haina spălată în Sângele Sfânt,
+Cu o viață nouă și-un Nou Legământ,
+Mergeți spre glorii spre drumul luminos
+Căci la capăt v-așteaptă Hristos!
+
+[v3]
+Intra-veți pe porți în Sfânta Cetate
+Unde în veci nu va fi noapte!
+Unde Hristos ne va fi mângâiere,
+Pe veci va fi ștearsă orice durere!
+
+[v4]
+Drum bun, vă spunem de azi înainte,
+Mergeți cu Domnul spre plaiurile sfinte,
+Cu toții dorim să ne-ntâlnim odată,
+Să fim fericiți cu al nostru Tată!

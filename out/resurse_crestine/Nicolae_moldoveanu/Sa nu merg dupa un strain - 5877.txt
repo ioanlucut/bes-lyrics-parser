@@ -1,0 +1,41 @@
+[title]
+Sa nu merg dupa un strain {author: {Nicolae Moldoveanu}, {rcId: {5877}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Să nu merg după un străin,
+Doamne, niciodată!
+Chiar de-aș fi silit prin chin,
+Ori pe-un drum cu flori de crin
+Să nu merg după-un străin,
+Ci să calc deplin, deplin,
+Urma Ta curată!
+
+[v2]
+Să-nțeleg chemarea Ta,
+Pururea prin lume!
+Zilnic să pot asculta
+Și să nu m-abat din ea;
+Să-nțeleg chemarea Ta,
+Ca să-ți pot mereu ’nălța,
+Doamne, sfântul Nume!
+
+[v3]
+Să n-aduc, pe-altarul sfânt,
+Foc străin de Tine!
+Ci, aprins de-al Tău Cuvânt,
+Vreau să ard cu tot ce sunt;
+Să n-aduc, pe-Altarul sfânt,
+Un amestec de pământ,
+Ci, sfințit, pe Tine!
+
+[v4]
+Doamne, să mă-ncred deplin,
+În cereasca-Ți Mână!
+Mă păzește de străin,
+Ochii-n ochii Tăi să-i țin,
+Pașii-mi calce mai senin
+Și, pe drumul Tău divin,
+Pururi să rămână!

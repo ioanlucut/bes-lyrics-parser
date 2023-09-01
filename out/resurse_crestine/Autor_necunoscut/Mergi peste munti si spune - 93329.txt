@@ -1,0 +1,17 @@
+[title]
+Mergi peste munti si spune {author: {Anonim}, {rcId: {93329}}
+
+[sequence]
+c,v1,c
+
+[c]
+Mergi peste munți și spune
+De iubirea Domnului mare.
+Mergi peste munți și spune
+Despre Domnul Isus.
+
+[v1]
+Pentru că ne iubește,
+Cerul ni-l dă în dar.
+Spre cer cu aripi de har,
+Zburăm, mereu zburăm.

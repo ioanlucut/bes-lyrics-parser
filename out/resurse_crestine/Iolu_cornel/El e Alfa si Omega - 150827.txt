@@ -1,0 +1,35 @@
+[title]
+El e alfa si omega {author: {Iolu Cornel}, {rcId: {150827}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Priveste firul de trandafir, priveste
+Priveste frumusetea lui, priveste
+Si lasa inima acum sa se’ntrebe:
+Cine-i cel ce l-a creat?
+Priveste toate florile din lume
+Priveste frumusetea lor si spune
+Parfumul in ele, cine l-a turnat?
+
+[c]
+/: Este Isus Creatorul nostru
+Este Isus Dumnezeu
+In El avem miscarea si fiinta
+El este viata tuturor :/
+
+[v2]
+Priveste’n ochii de copil, priveste
+Priveste frumusetea Lui si spune
+Cine a pus in El iubire
+Pentru mama, mama lui
+Priveste catre toti copiii lumii
+Si-ntreaba-te cine a pus iubire
+Ca sa rosteasca acel cuvant:
+Mama te iubesc
+
+[e]
+/: El e Alfa si Omega
+Inceputul si sfarsitul
+El e Domnul vesniciilor :/ 4X

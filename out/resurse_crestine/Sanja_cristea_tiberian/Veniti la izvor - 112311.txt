@@ -1,0 +1,37 @@
+[title]
+Veniti la izvor {author: {Sanja Cristea Tiberian}, {rcId: {112311}}
+
+[sequence]
+v1,v2,v3,v4,c
+
+[v1]
+Se pierd în lanuri razele de soare
+Domoale cum e apa unui râu
+Le-mbrățișează cald, e sărbătoare,
+E sărbătoarea spicelor de grâu.
+
+[v2]
+Odaia cea de sus ne-așteaptă iară
+Să ne unim în post și rugăciuni
+Să-Și pună Domnul mâna peste țară,
+Să facă iarăși semne și minuni.
+
+[v3]
+Priviți cum geme și suspină firea...
+E vremea să ne-ntoarcem la Elim!
+Aici e Dumnezeu, e mântuirea!
+E Dumnezeu ce vrea ca să trăim!
+
+[v4]
+Veniți degrabă toți, cu mic, cu mare
+Revarsă Domnul Duhul, cum a spus
+Răsuna trâmbițe, e sărbătoare!
+Veniți să stăm la dreapta lui Isus!
+
+[c]
+Veniți să cântăm,
+Să ne bucurăm,
+Veniți la izvorul de har!
+Veniți să primim,
+Veniți să cinstim,
+Revărsarea mărețului dar!

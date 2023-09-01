@@ -1,0 +1,50 @@
+[title]
+Sa mergi pe calea-ngusta {author: {Puiu Chibici}, {rcId: {141060}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Să mergi pe calea-ngustă,
+E-un har, e-un har nespus.
+De și pe ea e luptă, ea duce la Isus
+
+[c]
+Deși-s dureri și lacrimi
+Și-urcușu-i tot mai greu.
+La capăt ne așteaptă
+Pe tronu-I Dumnezeu
+
+[v2]
+Pe-această cale sfântă
+Puțini se-anevoiesc, dar calea aceasta
+Sfântă-I un drum Dumnezeiesc
+
+[c2]
+Au mers pe ea martirii
+Privind mereu în sus
+Cu dorul întâlnirii de mirele Isus
+
+[v3]
+Au mers pe ea profeții
+Și regi și împărați
+Toți sfinții și toți drepții
+De același dor mânați
+
+[c3]
+Au mers plin de iubire
+Și David și Avraam
+Privind spre răsplătire,
+Spre noul Canaan
+
+[v4]
+Pe calea cea îngustă
+Nu-s pofte nici plăceri
+Pe ea sunt multe piedici
+Și-atâtea încercări
+
+[c4]
+Pe ea sunt nori și neguri
+Și cer întunecos
+Dar e și-adesea soare
+Căci soarele-I Cristos

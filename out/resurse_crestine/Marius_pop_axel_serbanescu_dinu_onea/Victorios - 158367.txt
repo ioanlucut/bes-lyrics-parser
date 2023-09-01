@@ -1,0 +1,32 @@
+[title]
+Victorios {author: {Marius Pop, Axel Serbanescu, Dinu Onea}, {rcId: {158367}}
+
+[sequence]
+v1,v2,c,v1,c,e,c
+
+[v1]
+Domnul steagul meu,
+Domnul scutul meu,
+Îmi ești apărător și sprijinitor,
+Ești refugiul meu.
+
+[v2]
+Când mă rog, m-auzi,
+Când Te chem, răspunzi,
+Rostesc Numele Tău, cade tot ce-i rău
+Și sunt izbăvit.
+
+[c]
+Nu e munte să nu-l pot urca,
+Nu e val prea furios.
+Sunt mai mult decât biruitor,
+Prin Isus Hristos.
+Tu ești stânca în furtuna grea,
+Ești un turn de adăpost,
+Brațul Tău îl chem în ajutor,
+Sunt victorios.
+
+[e]
+/: Revarsă-acum ungerea Ta,
+Viață din prezența Ta. :/
+Vreau harul Tău în viața mea!

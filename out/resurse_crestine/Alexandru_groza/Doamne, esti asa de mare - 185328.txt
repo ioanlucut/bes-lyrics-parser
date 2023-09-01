@@ -1,0 +1,47 @@
+[title]
+Doamne esti asa de mare {author: {Alexandru Groza}, {rcId: {185328}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Doamne ești așa de mare
+În tot locul, Doamne, ești!
+Pretutindeni unde caut
+Acolo Tu ești!
+Stau și-admir a Ta lucrare
+Ce-mi încântă inima,
+Munți, păduri, câmpii, izvoare,
+Cântă slava Ta!
+
+[c]
+Cerurile Îți dau slavă
+Ție, Doamne, Dumnezeu;
+Universul Ți se-nchină,
+Doamne mă închin și eu!
+
+[v2]
+O, ce minunat e câmpul
+Înverzit cu mii de flori,
+Ai împodobit Pământul
+În mii de culori!
+Printre ramuri, păsărele,
+Îți cântă așa voios,
+Mereu toate Îți dau slavă,
+Mare Dumnezeu!
+
+[v3]
+Și când soarele răsare
+Peste văi, peste câmpii,
+Razele lui scaldă-suflet
+Mii de bucurii!
+Și în murmur de izvoare,
+Doamne și acolo ești!
+Și în picurul de rouă,
+Doamne Te găsesc!
+
+[c2]
+Fă, Tu, Doamne a mea viață,
+Ca și crinul: alb, curat!
+Dă-mi o inimă voioasă
+Să Îți cant neîncetat!

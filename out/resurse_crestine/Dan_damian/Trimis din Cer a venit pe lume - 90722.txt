@@ -1,0 +1,27 @@
+[title]
+Trimis din cer a venit pe lume {author: {Dan Damian}, {rcId: {90722}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Trimis din Cer a venit pe lume
+El Sfântul Fiu de Dumnezeu
+Să mântuie toată omenirea
+El a murit și-a înviat
+Isus e viu
+
+[c]
+Pentru că-I viu
+Mă-ncred în El și mâine
+Pentru că-I viu frică nu am
+Eu știu că-n mâna Lui e viitorul
+Valoarea vieți mele-i El
+Pentru că-I viu
+
+[v2]
+Și într-o zi mi-a spus că-n Ceruri
+În Paradis cu El voi fi
+Cu mii și mii în corul slavei
+Cânta-vom toți
+Cântarea celui mântuit

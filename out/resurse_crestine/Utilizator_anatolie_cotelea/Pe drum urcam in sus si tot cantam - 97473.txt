@@ -1,0 +1,69 @@
+[title]
+Pe drum urcam in sus si tot cantam {author: {Utilizator Anatolie Cotelea}, {rcId: {97473}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Pe drum pe drum mergeam eu la biserică
+Pe drum pe drum grăbit mergeam de-a binelea
+Mergeam mergeam mergeam eu la biserică
+Mergeam mergeam grăbit mergeam de-a binelea
+Pe drum pe drum mergeam eu la biserică
+Pe drum pe drum grăbit mergeam de-a binelea
+Un - de n-aș fi unde n-aș rătăci
+Eu știu că drumul meu pe Tin’ te va găsi
+Mergeam mergeam pe drum unde n-aș rătăci
+Mergeam mergeam grăbit pe Tin te va găsi
+Pe drum pe drum pe drum unde n-aș rătăci
+Pe drum pe drum grăbit pe Tin te va găsi
+
+[c]
+Doresc atât de mult să fiu în casa Ta Isuse
+Voi cânta 1Hop, m-am împiedicat
+Dar sus din nou și iar pornesc
+Încât întruna da voi cânta pe drum
+M-am împiedicat dar sus din nou și iar pornesc
+Da voi cânta pe drum m-am împiedicat
+Dar sus din nou și iar pornesc.
+
+[v2]
+Pe drum pe drum urcam în sus și tot cântam
+Pe drum pe drum privind în zări cărarea mea
+Urcam urcam urcam în sus și tot cântam
+Urcam urcam privind în zări cărarea mea
+Pe drum pe drum urcam în sus și tot cântam
+Pe drum pe drum privind în zări cărarea mea
+Cât de greu n-ar fi prin multe pietre-n jur
+Ușor sărind3 să fiu atent la drum
+Urcam urcam urcam prin multe pietre-n jur
+Urcam urcam privind să fiu atent la drum
+Pe drum pe drum urcam prin multe pietre-n jur
+Pe drum pe drum privind să fiu atent la drum
+
+[v3]
+Pe drum pe drum în jos chear e mai bine da
+Pe drum pe drum acum o văd între poteci
+În jos în jos în jos chear e mai bine da
+În jos în jos acum o văd între poteci
+Pe drum pe drum în jos chear e mai bine da
+Pe drum pe drum acum o văd între poteci
+Bi -serica e chiar în fața mea
+O știu e Casa Tatălui am ajuns
+În jos în jos în jos e chiar în fața mea
+În jos în jos acuma am ajuns
+Pe drum pe drum în jos e chear în fața mea
+Pe drum pe drum acuma am ajuns
+vo-i cânta
+Doresc atât de mult să fiu în casa Ta
+Isuse Încât întruna da voi cânta da voi cânta.
+
+[e]
+Pe drum pe drum mergeam de la biserică
+Pe drum pe drum mergeam de la biserică
+Pe drum.
+Mergeam mergeam mergeam de la biserică
+Mergeam mergeam mergeam de la biserică
+Pe drum pe drum mergeam de la biserică
+Pe drum pe drum mergeam de la biserică
+Pe drum.

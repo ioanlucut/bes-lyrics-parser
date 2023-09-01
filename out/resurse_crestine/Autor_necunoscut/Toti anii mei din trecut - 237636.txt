@@ -1,0 +1,31 @@
+[title]
+Toti anii mei din trecut {author: {Anonim}, {rcId: {237636}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: Toți anii mei din trecut
+Fără Tine i-am trăit,
+Dumnezeul meu iubit. :/
+
+[c]
+Dar acuma eu mă-ntorc la Tine
+Cu durerea sufletului meu
+Și Te rog din inimă, Stăpâne,
+Ajută-mă să-Ți slujesc mereu!
+
+[v2]
+/: Îmi pare rău așa de mult
+De timpul ce l-am pierdut,
+Pace-n suflet n-am avut. :/
+
+[v3]
+/: Eu, Doamne, Îți mulțumesc
+Pentru mine ce-ai făcut,
+Ai salvat un fiu pierdut. :/
+
+[v4]
+/: Iar acuma la sfârșit
+Îmi înalț cântarea mea
+Să te bucuri Tu de ea. :/

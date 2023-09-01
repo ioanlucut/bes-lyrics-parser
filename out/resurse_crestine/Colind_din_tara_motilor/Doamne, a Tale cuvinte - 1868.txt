@@ -1,0 +1,33 @@
+[title]
+Doamne a tale cuvinte {author: {Colind din tara motilor}, {rcId: {1868}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Doamne a Tale cuvinte
+Care le-ai zis mai-nainte
+/: S-a-mplinit precum le scrie
+Moise în cartea întâie:
+O minune! :/
+
+[v2]
+Dinspre răsărit, răsare,
+O stea cu lumina mare
+/: Razele își răspândește
+Pe trei magi călăuzește:
+Ce minune! :/
+
+[v3]
+Steaua semnului Hristos
+Strălucește prea frumos
+/: De la stea s-a cunoscut
+Ca Mesia s-a născut:
+Ce minune! :/
+
+[v4]
+Bucurie-întru-nălțime
+Pace sus acolo fie
+/: Pe pământ împăciuire
+La oameni bună vestire:
+Bună vestire! :/

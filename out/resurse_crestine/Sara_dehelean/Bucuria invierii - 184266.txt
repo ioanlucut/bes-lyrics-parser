@@ -1,0 +1,41 @@
+[title]
+Bucuria invierii {author: {Sara Dehelean}, {rcId: {184266}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Răsună, plutind peste zare
+Ecouri de cântec sublim,
+De sus, din cereasca splendoare
+Să-I cânte, chiar îngerii vin...
+
+[c]
+Și-I cântă cu ceata de îngeri
+Voios, inima mea,
+Vestind dimineața-nvierii,
+De veacuri mulțimi I-au cântat.
+
+[v2]
+E cântul ce dă fericire
+Și celor trudiți, bucurii,
+E graiul ce-nalță-n mărire
+Din inimă, sfinte simțiri.
+
+[c2]
+Cu el, mulțumind, al meu suflet
+Se-nalță spre Calvar
+Și în închinare divină,
+Mă plec la al Crucii altar,
+
+[v3]
+În el, e minunea cea sfântă,
+Ce-mi spune de harul bogat
+În cor îngeri binecuvântă,
+Mărire, Christos a-nviat!
+
+[c3]
+Și cântă cu-a Cerului slavă,
+Măreț, inima mea,
+Trăind bucuria-nvierii,
+În gloria Lui voi intra.

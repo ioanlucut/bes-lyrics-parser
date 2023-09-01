@@ -1,0 +1,32 @@
+[title]
+Cine cine ne va desparti {author: {Dionisie Giuchici}, {rcId: {154833}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+/: Cine, cine ne va despărți
+De iubirea cea din veșnicii
+Care El - în inimi ne-a turnat
+Când cu Duhul Sfânt ne-a botezat. :/
+
+[v1]
+Nici acei din înălțimi
+Nici acei din adâncimi
+Nici urât și nici frumos
+De iubirea lui Hristos
+Nu ne poate despărți.
+
+[v2]
+Nici necaz, nici chinuiri
+Nici a veacului oștiri
+Nici vrăjmașul furios
+De iubirea lui Hristos
+Nu ne poate despărți.
+
+[v3]
+Nici cuptoare și nici lei
+Și nici oamenii cei răi
+Dacă tu ești credincios
+De iubirea lui Cristos
+Nu te poate despărți.

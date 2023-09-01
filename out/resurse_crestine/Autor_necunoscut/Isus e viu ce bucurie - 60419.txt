@@ -1,0 +1,35 @@
+[title]
+Isus e viu ce bucurie {author: {Anonim}, {rcId: {60419}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Isus e viu ce bucurie
+Isus trăiește cu-adevărat
+Întreaga lume azi să știe
+Isus hristos a înviat
+
+[c]
+/: Piatra și sigiliul care
+Fost-au puse pe mormânt
+S-a văzut că nu-s în stare
+Să-l țină veșnic în pământ :/
+
+[v2]
+Isus e viu ce bucurie
+Viață nouă el ne-a dat
+Cu el trăim noi pe vecie
+Cu cel din morți ce-a înviat
+
+[v3]
+Am înviat cu el și noi
+Sperăm să-nviem odată
+În ziua mare de apoi
+În ziua cea minunată.
+
+[v4]
+Isus e viu, ce bucurie
+Viața nouă El ne-a dat
+Cu El trăim o veșnicie
+Cu Cel din morți care-a-nviat.

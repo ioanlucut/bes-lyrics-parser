@@ -1,0 +1,33 @@
+[title]
+Sunt fericit cu isus {author: {Rafael Dragomir}, {rcId: {168693}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Sunt fericit cu Isus în viața mea,
+Sunt fericit cu El și voi cânta,
+Căci și mai fericit voi fi când El va reveni!
+Sunt fericit și nu pot evita
+Să spun la toți că-i pace-n viața mea,
+Dar și mai fericit voi fi când El va reveni.
+
+[c]
+El va veni cu multă slavă pe Pământ,
+Cine-L așteaptă va fi plin de Duhul Sfânt.
+În armonie ca și Îngeri vom cânta,
+Sunt fericit cu Isus în viața mea!
+
+[v2]
+Sunt fericit și nimeni n-ar putea
+Să mă despartă de inima Sa,
+Dar și mai fericit voi fi când El va reveni.
+Sunt fericit, ce bine este așa,
+Sunt binecuvântat de ce-i așa,
+Căci însăși fericirea după mine va veni!
+
+[e]
+Oh! Isus, Isus, Isus este Rege!
+El va veni, se va-mplini, El va domni.
+Oh! Isus, Isus, Isus este Rege,
+Deci nu mai sta, deschide-I acum inima că va veni!

@@ -1,0 +1,38 @@
+[title]
+Este har {author: {Coca Saroni}, {rcId: {59309}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,v4,c
+
+[c]
+Este har să iubești
+Fără să fii iubit
+Este har să slujești
+Să fii, neprețuit
+/: Este har tu să ierți
+Fără să fii iertat
+Să-l susți pe cel care te-a lepădat. :/
+
+[v1]
+Este-un har să dăruiești
+Și-napoi să nu primești
+Este har să te jertfești
+Pentru cei ce nu-i dorești..
+
+[v2]
+Este-un har mereu să taci
+Pentru binele ce-l faci
+Chiar de ești ne-ndreptățit
+Răbda și fii umilit!
+
+[v3]
+Este har mereu să ierți
+Pe acei ce te urăsc
+Este har mereu să crezi
+În aceia ce nu vezi.
+
+[v4]
+Este har să dăruiești
+Pe tine să te lipsești
+Tu să taci să nu cârtești
+Tu doar numai să iubești.

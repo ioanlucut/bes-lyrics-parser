@@ -1,0 +1,29 @@
+[title]
+Domnul pe mine azi ma cheama {author: {Nicolae Moldoveanu}, {rcId: {5368}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Domnul pe mine azi mă cheamă
+Să mă întorc, să-I slujesc neîncetat
+Și să fiu plin de iubire
+Cu speranța că pot fi salvat.
+
+[c]
+/: Domnul pe azi mă cheamă
+Și dorește cu-adevărat
+Să mă scape pe mine
+Din cumplitul păcat. :/
+
+[v2]
+Eu nu I-am dat ascultare
+Și credeam că e bine șa
+N-am înțeles eu chemarea
+Ce cu dragoste El mi-o făcea.
+
+[v3]
+În clipe fără speranță
+Căutam să găsesc ajutor
+Nu am găsit nici la unul
+Mângâiere în sufletul meu.

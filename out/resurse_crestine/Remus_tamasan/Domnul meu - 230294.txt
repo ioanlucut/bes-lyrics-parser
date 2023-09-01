@@ -1,0 +1,39 @@
+[title]
+Domnul meu {author: {Remus Tămășan}, {rcId: {230294}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Precum Toma a crezut
+Când pe Domnul l-a văzut
+Și când palma lui străpunsă a atins
+Tot la fel azi cred și eu
+În preasfântul Dumnezeu
+Știu că El e cel ce moartea a învins
+Și deși nu l-am văzut
+Eu aștept să-l întâlnesc
+În Isus eu am crezut și îl iubesc
+
+[c]
+Domnul meu și Dumnezeul meu
+Azi eu știu că Tu ai înviat
+Domnul meu și Dumnezeul meu
+Da eu cred, eu cred cu-adevărat
+
+[v2]
+Credincioși atâția sunt
+Astăzi pe acest pământ
+Fiecare crede-n dumnezeul său
+Noi avem un Dumnezeu
+Ce răspunde chiar la greu
+Și trimite-n grabă ajutorul său
+Și deși nu l-am văzut
+Așteptăm să-l întâlnim
+În Isus noi am crezut și îl iubim
+
+[e]
+Ferice de acei ce au crezut
+Deși pe Domnul nici nu l-au văzut
+Ce mare bucurie vor avea
+Când pe Isus în față-l vor vedea

@@ -1,0 +1,31 @@
+[title]
+Pocainta cale sfanta {author: {David Stănuș}, {rcId: {186135}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Pocăință cale sfântă, sfinții-n tine-s fericiți,
+Cântă toți cu bucurie,
+Că Isus Domnul i-a mântuit.
+
+[c]
+/: Am ales cândva această cale,
+Care duce la Dumnezeu,
+Cu Isus pe ea eu voi rămâne,
+Orișicât ar fi de greu. :/
+
+[v2]
+Pocăință, cale sfântă, mântuire tu ne-ai dat,
+Dumnezeul meu trăiește,
+El e sfânt și minunat.
+
+[v3]
+Pocăință, cale sfântă, tu ești plină de comori,
+Și ne dai la fiecare,
+Mângăieri și bucurii de-atâtea ori.
+
+[v4]
+Pocăință, cale sfântă, numai tu m-ai învățat,
+Despre Isus și-a Lui jertfă,
+Numai El viața aceasta mi-a schimbat.

@@ -1,0 +1,41 @@
+[title]
+Eu sunt un baietel voinic - mama imi place biblia {author: {Anonim}, {rcId: {147899}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Eu sunt un băiețel voinic
+Și mama m-a-nvățat de mic,
+Ca Biblia eu s-o citesc
+Și Lui Isus să-i mulțumesc.
+Mama îmi spune:
+„
+Fata mea, citește zilnic Biblia!”
+„
+Mămico vreau să o citesc.
+Mă rog și să pot să-o împlinesc!”
+
+[c]
+/: Mama, îmi place Biblia!
+Tata, îmi place Biblia!
+Vreau, când voi crește mare
+Să spun la fiecare
+Că Biblia ne învață,
+Cum să ai veșnica viață,
+Cum să capeți Fericirea,
+Și să primești Nemurirea. :/
+
+[v2]
+Tata îmi spune: „
+Băiețel,
+De vrei să fii în Rai cu El,
+Citește Biblia și tu,
+Să știi când să zici ’
+Da!’ sau ’
+Nu!’”
+Mama îmi spune: „
+Fata mea,
+Vreau să te ajut în viața ta.
+Citește Biblia acum,
+Ca să-ți fie ușor pe drum!”

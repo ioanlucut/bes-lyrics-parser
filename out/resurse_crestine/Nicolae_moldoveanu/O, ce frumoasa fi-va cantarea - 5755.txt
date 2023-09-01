@@ -1,0 +1,29 @@
+[title]
+O ce frumoasa fi-va cantarea {author: {Nicolae Moldoveanu}, {rcId: {5755}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O, ce frumoasa fi-va cantarea,
+Cand ne vom intalni,
+Cand rasuna-vor cerul si zarea
+De-a-noastre melodii.
+
+[c]
+O, ce frumos va rasuna
+Si ce duios noi vom canta!
+O, ce frumoase melodii
+Noi vom canta ca ingerii!
+
+[v2]
+Fara de numar, in sarbatoare,
+Cu ramuri de finic,
+Noi vom canta o noua cantare
+Cu ingerii din cer.
+
+[v3]
+Cand vom vedea pe Domnul iubirii,
+In toata slava Sa,
+In dimineata reintalnirii,
+Noi toti Ii vom canta.

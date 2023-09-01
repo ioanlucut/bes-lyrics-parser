@@ -1,0 +1,43 @@
+[title]
+Eu pe puterea ta ma bizuiesc {author: {Nicolae Moldoveanu}, {rcId: {246279}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Eu pe puterea Ta mă bizuiesc,
+Mântuitorul meu iubit,
+Când lupte mari în juru-mi se ivesc,
+Prin ea rămân nebiruit.
+
+[c]
+Puterea Ta,
+În lupta grea,
+Păstrează pacea-n viața mea,
+Și-mi dă avânt
+Să fiu ne-nfrânt
+Oricând pe-acest pământ.
+
+[v2]
+Puterea Ta, în mine, necurmat,
+Îmi crește-un tineresc avânt,
+Să pot ’nălța mai viu și-adevărat
+Dumnezeiescul Tău Cuvânt.
+
+[v3]
+Puterea Ta în orice zori de zi
+Din somn mă scoală-ncrezător,
+În lucrul Tău să pot din nou porni
+Cu-nflăcărare și cu spor.
+
+[v4]
+Puterea Ta mă trece liniștit
+Prin valurile lumii, mari,
+Ea mă păstrează-n Tine neclintit
+Prin bezne-adânci și vânturi tari.
+
+[v5]
+Puterea și iubirea Ta mereu
+Să mă-nsoțească pe deplin,
+Să pot al harului sfânt curcubeu
+Spre slava Ta să-l ’nalț, amin.

@@ -1,0 +1,45 @@
+[title]
+Ninge pe strazi {author: {Anonim}, {rcId: {3941}}
+
+[sequence]
+c,v1,c2,v2,c3,v3,c
+
+[c]
+Ninge pe străzi, cad fulgi de zăpadă
+Ninge pe străzi, e iarăși Crăciun,
+Prin fulgi copiii merg iar cu colindul.
+Este timpul dragii mei să ne amintim.
+Ninge pe străzi, cad fulgi de zăpadă
+Ninge pe străzi, e iarăși Crăciun,
+Prin fulgi copiii merg iar cu colindul.
+/: Este timpul dragii mei să ne amintim :/
+
+[v1]
+În acel ținut păstorii, tureme-și vegheau
+Când îngerul de-odată, din slavă le vorbi,
+Vi s-a născut urmaș lui David, un Mântuitor,
+Și înfășat în paie, în iesle-L veți găsi.
+
+[c2]
+Din cer cu el cor de îngeri cântă
+Un cântec nou ei azi ne-au adus,
+Slavă în cer și între oameni pace,
+Că astăzi în Betleem, Isus s-a născut
+
+[v2]
+Dintr-o țară depărtată magii au pornit,
+Și L-au găsit pe Împărat, călăuziți de o stea,
+Când L-au văzut s-au închinat, cu fața la pământ
+Tămâie, smirnă, aur ei I-au adus în dar.
+
+[c3]
+Aur i-au dat, aur pentru Rege,
+Smirnă i-au dat pentru prooroc,
+Mare preot, ei i-au dat tămâie
+Inima i-au dat în dar când s-au închinat
+
+[v3]
+A venit Isus pe lume, ca Mântuitor
+Păstori și magi venit-au și I s-au închinat,
+Și astăzi iarăși e Crăciun și ieslea Lui e-aici,
+Dar tu ce fac, tu Îl te-nchini sau Îl nesocotești?

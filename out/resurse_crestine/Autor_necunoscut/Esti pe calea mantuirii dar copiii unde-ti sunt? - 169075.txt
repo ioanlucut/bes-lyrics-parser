@@ -1,0 +1,35 @@
+[title]
+Esti pe calea mantuirii dar copiii unde-ti sunt? {author: {Anonim}, {rcId: {169075}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ești pe calea mântuirii
+Dar copiii unde-ți sunt?
+Sunt pe căile pierzării,
+Departe de Tatăl sfânt.
+
+[c]
+/: Voi, părinți, chemați copiii
+Ce de Domnul v-au fost dați
+La izvorul mântuirii,
+Să se-ntoarcă vă rugați. :/
+
+[v2]
+O, de ce nu vin copiii
+Langă tine, mama acum?
+Pentru ce in vadul lumii
+Văd un loc așa de bun?
+
+[v3]
+Tu te afli-n casa păcii,
+Ești atât de fericit,
+Dar copiii tăi, părinte,
+Pe ce drum s-au rătăcit?
+
+[v4]
+Azi vorbește-le degrabă,
+Către Domnul vă rugați
+Calea bună să aleagă
+Și cu ei în cer să stați.

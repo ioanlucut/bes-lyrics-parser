@@ -1,0 +1,27 @@
+[title]
+S-a nascut emanuel {author: {Adonia, Friends}, {rcId: {207680}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Se aude-un cor de îngeri, lăudând pe Dumnezeu,
+Că s-a întrupat Mesia, Salvatorul tău și-al meu.
+El, Lumina din Lumină, Dumnezeu din Dumnezeu,
+A venit s-aduca pace, în sufletul tău și-al meu.
+
+[c]
+/: S-a născut Emanuel, un Prunc Sfânt, venit din cer,
+E a lumii Salvator, Sfetnic bun, Mântuitor. :/
+
+[v2]
+Să răsune vestea bună pentru omul păcătos,
+Că s-a dat din cer salvarea, prin Domnul Isus Hristos.
+Doar un nume e sub ceruri, Numele Isus Hristos,
+Doar prin El avem salvarea, o, ce Nume Glorios.
+
+[e]
+Ne-nchinăm, cu bucurie, Domnului Hristos,
+A venit din nemurire și a fost victorios.
+O, ce mare bucurie că e Dumnezeu cu noi,
+Să răsune vestea bună, până-n ziua de apoi.

@@ -1,0 +1,41 @@
+[title]
+Mireasa esti pregatita {author: {Anonim}, {rcId: {55615}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Mireasa esti pregatita,
+In curand vei fi rapita,
+Sa te iau de pe Pamant,
+Sa vezi fata Celui Sfant.
+
+[c]
+/: Nu zice ca-ti este greu,
+In curand vin sa te iau,
+Sa te duc in a Mea Casa,
+Sa stai cu Sfintii la masa :/
+
+[v2]
+N-ai vazut si nici nu stii,
+Ce este in vesnicii,
+Inca ochiul n-a vazut,
+Ceea ce Ti-am pregatit.
+
+[c2]
+/: O mai rabda si suspina,
+Porumbita mea straina,
+Glasul tau iata-l aud,
+Si Sunt gata sa-L ascult :/
+
+[v3]
+Multi azi s-au racit pe cale,
+Nu Te-asteapta cu rabdare,
+Nu mai au nadejdea Sfanta,
+Nu se pregatesc de Nunta.
+
+[c3]
+/: O ce lacrimi vor mai fi,
+Cand nu vor mai auzi,
+Glasul blandului Pastor,
+Care le-a dat ajutor :/

@@ -1,0 +1,35 @@
+[title]
+Te-ai intrupat in asta lume {author: {Adina Blaga}, {rcId: {7365}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Te-ai întrupat în astă lume
+Un Prunc umil pe paie reci,
+Ai renunțat la cer și nume
+Să ne salvezi Isus pe veci!
+
+[c]
+Doamne ce-aș putea să-Ți dau
+Pentru marea Ta iubire ?
+Nu am decât o inima zdrobită, Doamne,
+M-aplec acum cerând iertare!
+
+[v2]
+N-a fost de-ajuns atâta Doamne
+A trebuit și un pahar.
+Un bici, o cruce și un munte,
+Un Ghetsimani și doi tâlhari!
+
+[v3]
+Dar fiindcă Tu-ai venit din ceruri
+Ești Dumnezeu nemărginit!
+Învins-ai boldul morții care,
+L-au sigilat și l-au păzit!
+
+[v4]
+Apoi Te-ai înălțat în slavă
+Un loc să pregătești, Isus.
+Pentru a Ta Mireasă dragă,
+Ce te-a iubit și s-a supus!

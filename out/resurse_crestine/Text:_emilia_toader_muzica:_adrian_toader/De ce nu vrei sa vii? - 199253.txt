@@ -1,0 +1,32 @@
+[title]
+De ce nu vrei sa vii? {author: {Text: Emilia Toader, Muzica: Adrian Toader}, {rcId: {199253}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+De ce nu vrei să vii, tu, omule străine?
+Din căile pustii, întoarce-te la Mine!
+S-asculți, de ce nu vrei?
+Un Glas încă te cheamă,
+Greșești și n-ai temei,
+Tu n-ai în suflet teamă?
+
+[v2]
+De ce nu vrei să vezi că viața ta-i murdară?
+De ce nu vrei să crezi că El te iartă iară?
+De ce nu vrei să simți
+Că totul este gata?
+De ce te vinzi pe-arginți,
+Care-ți va fi răsplata?
+
+[v3]
+O, suflete, grăbește și vin’ la Domnul Sfânt,
+Fii gata și-L primește, căci vine pe pământ.
+S-asculți, de ce nu vrei?
+Un Glas încă te cheamă,
+Greșești și n-ai temei,
+Tu n-ai în suflet teamă?
+
+[v4]
+Coda: De ce nu vrei să vii?

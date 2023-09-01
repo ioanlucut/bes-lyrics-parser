@@ -1,0 +1,21 @@
+[title]
+In cartea cea sfant-am citit {author: {Anonim}, {rcId: {862}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+În cartea cea sfânt-am citit de-un om care mult m-a iubit
+/: Pe El Îl slăvesc și-L laud mereu, Isus este numele Său :/
+
+[v2]
+Din cartea cea sfântă eu știu că Domnul meu este viu
+/: El e pacea mea, la bine și greu, e ajutorul meu :/
+
+[v3]
+În cartea cea sfânt-am aflat căci El m-a creat
+/: El e al meu, eu sunt al Lui, copil al Domnului :/
+
+[v4]
+În cartea cea sfânt-am citit de-un om ce mult m-a iubit
+/: Pe El îl slăvesc și-L laud mereu, Isus e numele Său :/

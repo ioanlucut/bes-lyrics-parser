@@ -1,0 +1,30 @@
+[title]
+Imi cer iertare {author: {Alin și Florina Jivan}, {rcId: {96411}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Astăzi vin ca fiu rătăcitor
+Mă închin la cruce mă cobor,
+Și iți spun acum îmi pare rău
+Nu am trăit ca fiu de Dumnezeu.
+
+[c]
+/: Îmi cer iertare Domnul meu
+Îmi cer iertare azi,
+Vreau să mă strângi la pieptul Tău,
+Nicicând să nu mă lași
+Singur să rămân, să nu mă lași. :/
+
+[v2]
+Am rătăcit pe străzi murdare-noapte
+Mie rușine de-ale mele fapte,
+Azi regret că n-am stat lângă Tine
+Unde totul e curat și bine.
+
+[e]
+Vin la Tine și-mi doresc
+Pentru Tine să trăiesc,
+Pe genunchi mă dăruiesc
+Iertare să primesc.

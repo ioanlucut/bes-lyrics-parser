@@ -1,0 +1,57 @@
+[title]
+Isus fiu de dumnezeu // jesus son of god {author: {UniDEO}, {rcId: {234686}}
+
+[sequence]
+v1,c,v2,c,e,e2
+
+[v1]
+Ai lăsat palat ceresc
+Să iei păcatul omenesc
+Ce dragoste cum nu s-a mai văzut!
+Ocară, spini și greu păcat
+Iertarea Ta a-mbrățișat
+Ce dragoste cum nu s-a mai văzut!
+
+[c]
+Din altarul inimii
+Veșnic Te vom preamări,
+Fiu de Dumnezeu!
+Fără vină-ai suferit
+Și prețul l-ai plătit,
+Fiu de Dumnezeu,
+Isus, Fiu de Dumnezeu!
+Din altarul inimii
+Veșnic Te vom preamări,
+Fiu de Dumnezeu!
+Fără vină-ai suferit
+Și prețul l-ai plătit,
+Fiu de Dumnezeu,
+Isus, Fiu de Dumnezeu!
+
+[v2]
+Rușinea mea Tu ai purtat
+Când Te-ai jertfit și pe moarte-ai călcat
+Ce dragoste cum nu s-a mai văzut!
+Rușinea mea Tu ai purtat
+Cand Te-ai jertfit și pe moarte-ai călcat
+Ce dragoste cum nu s-a mai văzut!
+
+[e]
+Tu ești mai mare
+Decât ispita grea
+Și mai puternic
+Decât putem cânta,
+Cu neclintire
+Dragostea ce ne-ai purtat
+Pe cruce Ți-ai dat,
+Pe cruce Ți-ai dat!
+
+[e2]
+Tu ești mai mare
+Decât ispita grea
+Și mai puternic
+Decât putem cânta
+Crucea-ndurării,
+Unde vina-mi te-a străpuns,
+A fost îndeajuns,
+A fost îndeajuns!

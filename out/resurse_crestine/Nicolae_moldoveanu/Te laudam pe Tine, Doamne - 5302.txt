@@ -1,0 +1,29 @@
+[title]
+Te laudam pe tine doamne {author: {Nicolae Moldoveanu}, {rcId: {5302}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Te lăudăm pe Tine, Doamne,
+Te lăudăm în cor pe Tine,
+Și ne-nchinăm cu bucurie
+Din inimi de credință pline.
+
+[c]
+Te lăudăm, Te lăudăm,
+Te lăudăm pe Tine, Doamne,
+Te lăudăm și ne-nchinăm,
+Te lăudăm, Te lăudăm, Te lăudăm.
+
+[v2]
+Te lăudăm pe Tine, Doamne,
+Slăvitul Ziditor a toate,
+Căci Tu ne faci a noastre inimi
+Ascultătoare și curate.
+
+[v3]
+Te lăudăm pe Tine, Doamne,
+Cu gânduri de iubire pline,
+Cu laudele gurii noastre,
+În veci Te lăudăm pe Tine.

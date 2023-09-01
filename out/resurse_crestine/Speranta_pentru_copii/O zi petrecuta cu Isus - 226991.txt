@@ -1,0 +1,29 @@
+[title]
+O zi petrecuta cu isus {author: {Speranța pentru copii}, {rcId: {226991}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O zi petrecută cu Isus
+E pace deplină
+Când pe El Îl ai în viață
+Ești în lumină
+
+[c]
+/: Ce minunat e ca să știi
+Că Domnul Sfânt din veșnicii
+E cu tine la orice pas
+Și te scapă din necaz :/
+
+[v2]
+O zi petrecută cu Isus
+Îți dă speranță
+Chiar furtuna de-ar veni
+Ești în siguranță
+
+[v3]
+O zi petrecută cu Isus
+E armonie
+În orice ceas la orice pas
+E doar veselie

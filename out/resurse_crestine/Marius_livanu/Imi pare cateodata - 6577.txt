@@ -1,0 +1,37 @@
+[title]
+Imi pare cateodata {author: {Marius Livanu}, {rcId: {6577}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Îmi pare câteodată că nu știu cât mai ține
+Zăcerea mea, uitată aici, fără de Tine
+Și-atuncea mi se lasă în suflet o povară
+Grijile m-apăsă tristețea mă-nconjoară.
+
+[c]
+Îmi pare câteodată că nu se mai sfârșește
+Viața-mi zbuciumată și chinul ce zdrobește
+Și dragostea îmi pare că nu se mai arată
+Tristețile amare cuprind viața-mi toată.
+Îmi pare câteodată că norii umplu cerul
+Și ziua întunecată învăluie misterul
+Și-atâta îndoailă în suflet mă răpune
+Privirea mă înșală și soarele apune.
+Îmi pare câteodată că-n veci va ține chinul
+Și lacrima vărsată nu-și va primi alinul
+Chiar dacă mi se pare, o, Doamne știu prea bine
+Că toate-s trecătoarea speranța mea e-n Tine.
+
+[v2]
+Îmi pare câteodată că-n veci va ține chinul
+Și lacrima vărsată nu-și va primi alinul
+Chiar dacă mi se pare, o, Doamne știu prea bine
+Că toate-s trecătoarea speranța mea e-n Tine.
+
+[v3]
+Îmi pare câteodată că nu știu cât mai ține
+Zăcerea mea uitată aici fără de Tine
+Și-atuncea mi se lasă în suflet o povară
+Grijile mă-apăsă tristețea mă-nconjoară.

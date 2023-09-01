@@ -1,0 +1,37 @@
+[title]
+Nimeni nu-i ca tin' {author: {Anonim}, {rcId: {218720}}
+
+[sequence]
+c,v1,c2,c,v2,c
+
+[c]
+/: Nimeni nu-i ca Tin’
+Nimeni n-a putut viața-mi schimba
+Cât de mult aș căuta, n-aș găsi
+Nimeni nu-i ca Tin’ :/
+/: Nimeni nu-i ca Tin’
+Nimeni n-a putut viața-mi schimba
+Cât de mult aș căuta, n-aș găsi
+Nimeni nu-i ca Tin’ :/
+/: Nimeni nu-i ca Tin’
+Nimeni n-a putut viața-mi schimba
+Cât de mult aș căuta, n-aș găsi
+Nimeni nu-i ca Tin’ :/
+
+[v1]
+Nu-i prieten bun Isus asemeni Lui
+Nimenea, nimenea
+Nu este cine a iubi așa
+Nimenea, nimenea
+
+[c2]
+/: Isus ne știi pe noi mai bine
+El poate să ne ajute
+Nu-i prieten bun Isus asemeni Lui
+Nimenea, nimenea :/
+
+[v2]
+Căci dragostea-Ți fără margini m-a prins
+Și m-a copleșit
+Sunt în siguranță în brațul tău Sfânt
+Nimeni nu-i ca Tin’

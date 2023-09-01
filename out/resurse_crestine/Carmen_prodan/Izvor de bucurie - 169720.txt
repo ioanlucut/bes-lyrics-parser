@@ -1,0 +1,39 @@
+[title]
+Izvor de bucurie {author: {Carmen Prodan}, {rcId: {169720}}
+
+[sequence]
+v1,c,v2,c,v3,c2,c
+
+[v1]
+Domnul e-un izvor de bucurie,
+Domnul e-un izvor de apă vie!
+Toți cei însetați la El să vină,
+Și să bea din Apa cristalină!
+
+[c]
+Veniți cei însetați să beți din apa Lui,
+Veniți cu toții la Izvor!
+El vindecă dureri, împarte mângâieri,
+Dă astăzi bucurie tuturor!
+Veniți cei însetați să beți din apa Lui,
+Veniți cu toții la Izvor!
+El vindecă dureri, împarte mângâieri,
+Dă astăzi bucurie tuturor!
+
+[v2]
+Domnul s-a oprit chiar lângă tine
+Și durerea ta vrea s-o aline!
+Lasă-n Mâna Lui îngrijorarea,
+Domnul azi ți-alungă întristarea!
+
+[v3]
+Cântă-I Domnului cu bucurie,
+Muțumește-I azi de Apa Vie!
+Să ne închinăm cu mulțumire,
+Să-I dăm slavă, cinste și mărire!
+
+[c2]
+Slăvit să fii în veci Mesia, Dumnezeu,
+Ți-aducem glorie mereu!
+Cu Tine-n slava Ta în veci ne-om bucura
+Și din Izvorul Tău mereu vom bea

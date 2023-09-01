@@ -1,0 +1,27 @@
+[title]
+Ramai cu noi caci iata vine seara {author: {E.Gebhardt}, {rcId: {74440}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Rămâi cu noi, căci iată vine seara,
+Ziua s-a dus, de parcă a zburat.
+Fără de Tine, Doamne, ce ne-am face?
+Pe marea vieții când s-a-ntunecat!
+
+[c]
+/: Rămâi cu noi :/
+Da, rămâi cu noi.
+
+[v2]
+Cel înviat, ne-a apărut și nouă,
+Atâta timp cât nu L-am cunoscut.
+N-am înțeles măreața Lui jertfire,
+Ce pentru noi din dragoste-a făcut!
+
+[v3]
+Ce bine e la inima Ta, Doamne!
+Umbrele pier de dinaintea Ta:
+Când ești cu noi, se duc dureri amare,
+Primim în schimb din mângâierea Ta.

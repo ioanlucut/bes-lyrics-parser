@@ -1,0 +1,35 @@
+[title]
+Ma voi intoarce acasa {author: {Alexandru Groza}, {rcId: {192924}}
+
+[sequence]
+v1,c,c,v2,c2
+
+[v1]
+Mă voi întoarce într-o zi acasă
+Când alergarea voi sfârși pe-acest pământ
+Și nu-mi voi aminti de-această lume
+Nici de necaz și de dureri ce-au fost aici!
+
+[c]
+Aici mi-e inima împovărată
+Adesea drumul este-atât de greu
+O, Doamne, întărește-mă pe mine
+Să pot s-ajung acolo Sus în Cerul Tău!
+
+[b]
+Va fi o dimineață, un nou răsărit
+Zi strălucitoare, zi de bucurie fără de sfârșit
+Când pe Domnu-n față îl voi vedea
+Și cu îngeri mii slavă îi voi da întotdeauna!
+
+[v2]
+Voi revedea după atâta vreme
+Pe-ai mei cei dragi car’ mă vor aștepta
+Și voi uita de toată suferința
+Acolo-orice necaz va înceta!
+
+[c2]
+Ce măreție și ce plinătate
+Ce bogăție și ce har nespus!
+S-ajung în Țara cea nemeritată
+Acolo unde Rege e Isus!

@@ -1,0 +1,54 @@
+[title]
+Banii {author: {Bejenar Valentin}, {rcId: {6250}}
+
+[sequence]
+c,v1,v2,c2,v3,c3,v4,c4,v5,c4
+
+[c]
+/: Banii, banii :/×3
+Strigă toată lumea,
+/: Banii, banii :/×3
+De ce strigi și tu azi frate ?
+
+[v1]
+/: De te potrivești cu lumea,
+Tu nu vei avea cununa,
+Nu te înșela, iubitul meu...! :/
+
+[v2]
+/: Vrei plăcere, vrei avere,
+Dar mai vrei și mângâiere,
+Uităte, ce ceri amicul meu ? :/
+
+[c2]
+/: Banii, banii :/×3
+Strigă lumea disperată,
+/: Banii, banii :/×3
+Au ajuns obsesie-nviață.
+
+[v3]
+/: De ce te complaci cu lumea,
+Și te lauzi tu într-una,
+Că cu tine-i Dumnezeu ? :/
+
+[c3]
+/: Banii, banii :/×3
+Caută toată lumea,
+/: Banii, banii :/×3
+Au ajuns un zeu în viață.
+
+[v4]
+/: Spui că banii-s fericirea
+Și alungi tu mântuirea,
+Care iți este astăzi de folos. :/
+
+[c4]
+/: Banii, banii :/×3
+Te-a închis pe veci o frate,
+/: Banii, banii :/×3
+Te vor osândii odată.
+
+[v5]
+/: Ai avut timp să te-ntorci,
+Dar ai spun că n-are rost,
+Banii e plăcerea ta. :/

@@ -1,0 +1,27 @@
+[title]
+Nu-s cuvinte {author: {Text și muzica: Ștefan Mihai}, {rcId: {199437}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Nu-s cuvinte ca să-Ți mulțumesc,
+Domnul meu Isus, Te proslăvesc
+Că ești Domn și-n viața mea.
+Numai Ție Glorie îți voi cânta.
+Zilnic mă-nconjori cu harul Tău,
+Tu mă-ntărești când mi-este greu,
+Îmi faci bucuria de a fi
+/: Binecuvântat în orice zi. :/
+
+[c]
+Te laud Doamne căci Tu m-ai creat
+În chip așa frumos și minunat.
+Te laud și mereu îți voi cânta
+Căci Tu ești Domn și în viața mea.
+
+[v2]
+Bunătatea Ta m-a copleșit,
+Mă închin în fața Ta smerit.
+Veșnic voi cânta iubirea Ta
+Care-a transformat viața mea.

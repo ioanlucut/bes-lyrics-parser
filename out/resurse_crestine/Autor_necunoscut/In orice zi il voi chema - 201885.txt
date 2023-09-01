@@ -1,0 +1,51 @@
+[title]
+In orice zi il voi chema {author: {Anonim}, {rcId: {201885}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+În orice zi îl voi chema pe Domnul meu iubit
+Ce aude e ruga mea
+Mereu ma întărit.
+
+[c]
+/: Nimeni nu este ca Tine
+Tu imi iei povara mea
+Mâna Ta ma întarește
+Și îmi șterge lacrima :/
+
+[v2]
+Copil fiind eu am văzut
+Ce mare e slava Ta
+Atunci când cel rău a voit
+Să curme viața mea.
+
+[c2]
+/: Astăzi cânt de bucurie
+Lauda ție Domnul meu
+Să aiba sufletul in mine
+Mai facut copilul tău :/
+
+[v3]
+Să invațăm dela cei sfinți
+Credința s-o pâzim
+Cum e exemple vii au fost
+La fel și noi să fim
+
+[c3]
+/: Chipul Tău să strălucească
+În viața noastră zi de zi
+Haina să-o păstrăm curată
+Până când vei revenii.
+ /:
+
+[v4]
+Sunt vremuri grele, dar privim, increazi in norii sus
+Prin Duhul Sfânt vom birui, prin Tine scump Isus.
+
+[c4]
+/: Viața noastră intreagă fie
+O jertfa pe altarul Tău
+Miros plăcut să răspândească
+Depărtan-dune de rău :/

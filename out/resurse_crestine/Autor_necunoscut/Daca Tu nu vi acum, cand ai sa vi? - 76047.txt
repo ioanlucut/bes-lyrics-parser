@@ -1,0 +1,23 @@
+[title]
+Daca tu nu vi acum cand ai sa vi? {author: {Anonim}, {rcId: {76047}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Daca Tu nu vi acum, cand ai sa vi,
+Ma intreb Isuse zi de zi
+/: Acum cand inima-mi e franta si este tare obosita
+Daca Tu nu vi acum cand ai sa vi? :/
+
+[v2]
+Daca Tu nu vi acum cand ai sa vi,
+Caci slabesc in rugaciune zi de zi.
+/: Cand ma simt singur strain, nu am pe nimeni sprijin
+Daca Tu nu vi acum cand ai sa vi? :/
+
+[v3]
+Daca Tu vi acum cand ai sa vi?
+Eu te-astept Isuse zi de zi.
+/: Acum astept a Ta venire cand pe nori iubite mire
+Acum stiu Isus ca ai sa vi :/

@@ -1,0 +1,51 @@
+[title]
+Te asteptam sa vii {author: {Nicolae Moldoveanu}, {rcId: {5727}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Te așteptăm să vii,
+Să vii să ne mângâi
+Pe acest pământ străin.
+Nimeni nu-mi poate da
+O, mângâierea Ta
+Pe acest pământ străin.
+
+[c]
+/: Vino, Isuse, vino, o, Doamne
+Vino să ne mângâi
+Vino, Isuse, vino, o, Doamne
+Noi te așteptăm să vii. :/
+
+[v2]
+Vei vedea ologii,
+Cum te-așteaptă orbii
+Ca să îi tămăduiești.
+În cele cinci pridvoare
+De la scăldătoare
+Vei găsi o mult popor.
+
+[v3]
+Vei găsi rănite,
+Slabe, fugărite
+Din cauza-adevărului.
+Setoase și flămânde
+Vei găsi plăpânde
+După Tine, o, scump Isus.
+
+[v4]
+Vei găsi părinții
+Cum își plâng copiii
+Ce-au fost smulși din brațul lor.
+Vei găsi copiii
+Cum își plâng părinții
+Căzuți de satan învinși.
+
+[v5]
+Ia-le pe-al Tău umăr,
+Dule-n a Ta turmă,
+Vindecă-le rănile.
+Du-le la pășune,
+La izvoare bune,
+Fii păstorul nost’ Isus.

@@ -1,0 +1,29 @@
+[title]
+Isus pruncul sfant {author: {Carmen Prodan}, {rcId: {156629}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Azi ne-amintim de ziua când Isus
+Pruncul Sfânt s-a-ntrupat,
+În ieslea rece-n micul Betleem
+S-a născut Cel Prea Înalt.
+
+[c]
+Să-I cântam cu iubire Aleluia
+Să-L slăvim pe Isus
+Că-n iubirea Lui fără de margini
+Mântuire ne-a adus!
+
+[v2]
+El pentru noi lăsat-a cerul Său
+Domnul Păcii Cel Sfânt
+Și a venit să rabde suferinți
+Pentru noi pe Pământ
+
+[v3]
+Să ne-nchinăm ca Magii-n fața Sa
+Să-i dăm inima-n dar
+S-aducem jertfa sfânta-a dragostei
+Pe al vieții altar!

@@ -1,0 +1,17 @@
+[title]
+Devla baro san {author: {Anonim}, {rcId: {78374}}
+
+[sequence]
+v1,c
+
+[v1]
+Devla man Ashunés
+Hai man Dikhés
+Hai Haléarés
+Haléarés muro ilo
+
+[c]
+/: Devla Baro San
+Devla Baro San
+Devla Baro San
+Ké Tu Devla man Ashunés :/

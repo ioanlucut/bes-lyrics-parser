@@ -1,0 +1,31 @@
+[title]
+Eu stau in asteptare privesc spre ceruri sus {author: {Anonim}, {rcId: {75141}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Eu stau în așteptare, privesc spre ceruri sus
+Și Te aștept într-una căci vi, așa ne-ai spus
+Inima mea suspină de dorul Tău Isus
+Duhul, Mireasa strigă:”
+Vino, vino Isus!”
+
+[c]
+Porumbita-i ascunsă în peșterile adânci
+Cu candela aprinsă, ea stă mereu veghind
+Față-i arsă de soare dar privirea e-n sus
+Ziua și noaptea strigă:”
+Vino, vino Isus!”
+
+[v2]
+Noaptea e pe sfâșite se văd zorile acum
+O vino mai degrabă, nu zabovi pe drum!
+Cu ochii plini de lacrimi după Tine, Isus
+Tu ești nadejdea noastră, cel ce la cer Te-ai dus
+
+[v3]
+Oricât de greu e drumul noi Te voi aștepta
+Să ne alini Tu dorul în suferința grea
+Vino, vino Isuse! Te chemam suspinând
+Cu făclia aprinsă și mijlocul încins.

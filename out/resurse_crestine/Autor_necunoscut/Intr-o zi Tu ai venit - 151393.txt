@@ -1,0 +1,35 @@
+[title]
+Intr-o zi tu ai venit {author: {Anonim}, {rcId: {151393}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: Într-o zi Tu ai venit
+Lăsând glorii și măriri,
+Pentru mine să Te naști
+Într-o iesle, dintr-un grajd :/
+
+[c]
+Aleluia slavă Ție!
+Aleluia Doamne Ție!,
+Prunc venit din ´nalta slavă
+Căci așa mult m-ai iubit
+
+[v2]
+/: Îngerii din slăvi veniră
+La păstorii din câmpie
+Vestea mare să le-aducă
+În Betleem se naște-un Rege :/
+
+[v3]
+/: Numele lui e Isus
+Rege sfânt venit de sus
+Pe noi ca să ne salveze
+Pentru slava cea de sus :/
+
+[v4]
+/: Inima noi Ție-Ți dăm
+Viața-ntreagă Ți-o predăm
+Te iubim așa de mult
+Rege sfânt venit de sus. :/

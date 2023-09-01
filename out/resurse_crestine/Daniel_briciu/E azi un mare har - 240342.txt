@@ -1,0 +1,46 @@
+[title]
+E azi un mare har {author: {Daniel Briciu}, {rcId: {240342}}
+
+[sequence]
+v1,c,v2,c,v3,c,c2
+
+[v1]
+E azi un mare har, căci Domnul la Calvar
+Păcatele mi le-a iertat deplin,
+Și-acum eu vin smerit la Domnul meu iubit
+Viața mea întreagă să i-o-nchin.
+
+[c]
+/: Eu azi îngenunchez la crucea Sa
+Și vreau să-I mulțumesc de Golgota.
+Viața-ntreagă azi i-o dăruiesc
+Și tuturor eu spun că îl iubesc. :/
+/: Eu azi îngenunchez la crucea Sa
+Și vreau să-I mulțumesc de Golgota.
+Viața-ntreagă azi i-o dăruiesc
+Și tuturor eu spun că îl iubesc. :/
+
+[v2]
+Am fost un păcătos, dar Domnul meu Hristos
+Plătit-a prețul pentru vina mea,
+Iar eu m-am încrezut în Cel ce m-a iubit
+Și mântuire am prin jertfa Sa.
+
+[v3]
+Și tu ești azi chemat să vii ne-ntârziat
+Să șteargă vina grea pe care-o porți.
+Isus te va primi dacă vei îndrăzni
+Și-ți va deschide-a mânturii porți.
+
+[c]
+Te-ntoarce azi și tu să spui un „
+Da”
+Acelui ce-a murit pe Golgota.
+O viață nouă-n dar tu să primești,
+S-ajungi cu El în cer să locuiești.
+
+[c2]
+Isus și azi te-așteaptă ca să vii
+De pe cărările lumești, pustii.
+Vrea să-ți ofere-n dar salvarea Sa,
+Deci vino azi și tu la Golgota.

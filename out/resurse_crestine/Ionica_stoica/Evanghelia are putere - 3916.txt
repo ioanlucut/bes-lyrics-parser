@@ -1,0 +1,49 @@
+[title]
+Evanghelia are putere {author: {Ionică Stoica}, {rcId: {3916}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cerul și Pământul,
+Ne spune Cuvântul, vor pieri,
+Un lucru rămâne,
+Peste timp și lume pe vecii,
+Ne-a fost dăruită,
+Cu sânge sfințită la Calvar,
+N-are asemănare
+Sub întregul soare sau hotar.
+
+[c]
+/: Evanghelia :/ are putere,
+/: Evanghelia :/ nicicând nu piere.
+
+[v2]
+Vremuri de prigoană
+Să strecoare teama n-au lipsit
+Temelia sfântă
+Nu a fost zidită pe nisip,
+Unde a fost vestită,
+Ea a fost primită ca un dar,
+În inimi păstrată,
+Și la alții dată ca un jar.
+
+[v3]
+Cine-o împlinește,
+Fericit trăiește tot mereu
+Și-n clipele grele,
+Îi dă mângâiere Dumnezeu.
+Ea ne este harul
+Ne-alungă amarul și ne dă,
+Prin credință-n Domnul,
+O viață-n ceruri veșnică.
+
+[v4]
+Ea mereu ne-nvață,
+Și ne dă povață, cum trăim,
+Calea ne arată,
+Jertfa Domnului s-o prețuim,
+Nu-i carte în lume,
+Care să te-ndrume spre Isus,
+Ea te luminează,
+Și îți dă viață-n ceruri sus.

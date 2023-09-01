@@ -1,0 +1,37 @@
+[title]
+Mama {author: {Carmen Prodan}, {rcId: {152898}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Când pe pământ se naște-un copil
+Lângă el e mama,
+Dragoste sfântă-ocrotire, alin,
+Pentru el e mama.
+
+[c]
+Mama e primul cuvânt
+Rostit de copil pe pământ,
+Mama e zâmbet, e floare, e cântec sublim. mama.
+Mama e-un dar minunat,
+Domnul divin ni l-a dat,
+Să moștenim împreună cu ea cerul sfânt!
+
+[v2]
+Ruga spre ceruri o ’nalță mereu
+Către Domnul, mama,
+Pruncul să fie-ocrotit de Cel Rău,
+Stăruiește mama.
+
+[v3]
+Și-n încercare și-n ceas luminos
+Lângă prunc e mama,
+Pasu-i conduce spre cer, spre Hristos,
+Cu iubire, mama.
+
+[v4]
+Multe greșeli ce le face-un copil
+Nu le ține-n seamă.
+Numai Cel Sfânt ar putea răsplăti
+Cât jerfește-o mamă!

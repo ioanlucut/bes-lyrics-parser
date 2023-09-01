@@ -1,0 +1,39 @@
+[title]
+O trambita sa fiu {author: {Nicolae Moldoveanu}, {rcId: {242713}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+O trâmbiță să fiu, cu glas de-aramă,
+A Adevărului divin și-etern,
+/: Și noaptea de minciună, fără teamă :/
+/: S-o biruiesc - lumină să aștern! :/
+
+[c]
+O trâmbiță, o trâmbiță să fiu
+Spre slava Dumnezeului cel Viu!
+
+[v2]
+Să spun mai deslușit mereu, chemarea
+La lupta sfântă-a Domnului Hristos,
+/: Să pregătesc poporului intrarea
+În Canaanul harului frumos! :/
+
+[v3]
+Să cadă zidurile întărite
+A-Ierihonului, cu larg ecou,
+/: Și oști vrăjmașe, fie nimicite :/
+/: Desăvârșit, de Iosua cel nou! :/
+
+[v4]
+O trâmbiță să fiu, să fiu scânteie,
+Și-un Ghedeon viteaz să fiu,
+Să surp-nălțimi de Baali și Astarteie
+Și cultul lui Iehova să-I re-nviu!
+
+[v5]
+Prin mine biruiască Adevărul
+Lumina și iubirea cea de sus,
+Ființa mea, deplin s-arate Cerul
+Și frumusețea Blândului Isus!

@@ -1,0 +1,26 @@
+[title]
+Lucrurile simple {author: {Cătălin Ciuculescu Band}, {rcId: {125061}}
+
+[sequence]
+v1,b,c,e
+
+[v1]
+/: Lucrurile simple să le prețuiesti
+Ele iți vor da, bucurii la care nici nu te gândești
+Nu te complica. :/
+
+[b]
+Viața e prea scurtă ca s-o înțelegi
+Nu privii în urmă, înainte mergi.
+
+[c]
+Fii plin de iubire, învață să ierți
+Acceptă ce nu-nțelegi,
+Rămâi cât mai simplu cu duhul zdrobit
+Ai grijă de ce-ai primit.
+
+[e]
+Nu uita, cineva te iubește-atât de mult
+Doar să-L rogi, doar să-L chemi
+Te va însoți pe drum.
+Lucrurile simple să le prețuiești.

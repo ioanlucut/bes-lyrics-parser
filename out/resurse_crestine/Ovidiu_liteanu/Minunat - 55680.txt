@@ -1,0 +1,29 @@
+[title]
+Minunat {author: {Ovidiu Liteanu}, {rcId: {55680}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Ce minunata-i viata mea langa tine Doamne
+Inmiresmata-i viata mea in prezenta ta
+/: Pe calea mantuirii sunt mereu cu Tine
+Pe Bratul Tau Isuse e asa de bine :/
+
+[v2]
+Ce minunata-i viata mea cu cei sfinti pe cale
+Naintea noastra e mereu Sfantul Dumnezeu
+/: Voiosi cantam pe cale chiar de e furtuna
+Atunci cand valu-i mare Isus ne ia de mana :/
+
+[v3]
+Ce minunata-i calea mea sfanta a pocaintei
+Dintotdeauna-s bucuros cu Isus Cristos
+/: Nu poate humea-ntreaga sa-mi dea bucuria
+O sfanta bucurie ca si mantuirea :/
+
+[v4]
+Ce minunat esti Domnul meu minunat Isuse
+Eu stiu ca Tu ma vei lua acolo-n slava Ta
+/: Mi-atat de dor Isuse sa ma-ntalnesc cu Tine
+O vino mai degraba, vino scumpe Mire :/

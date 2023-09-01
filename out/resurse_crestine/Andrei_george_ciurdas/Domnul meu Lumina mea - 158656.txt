@@ -1,0 +1,39 @@
+[title]
+Domnul meu lumina mea {author: {Andrei, George Ciurdas}, {rcId: {158656}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+În încercare sau lupta grea
+În îndoiala Tu nu mă lași
+Cu dragostea Ta mă conduci
+Ești pacea mea când sunt în furtuni
+Doamne ești pacea mea
+Când sunt în furtuni.
+Din eșecuri mă ridici
+La întrebări răspuns aduci
+În adevăru-Ți mă conduci
+Ești pacea mea când sunt în furtuni.
+Doamne ești pacea mea
+Când sunt în furtuni.
+
+[c]
+Domnul meu lumina mea
+Far în întuneric eu Te voi urma
+Domnul meu lumina mea
+Cred promisiunea
+Că Tu mă vei purta.
+/: Pân’ la mal. :/ x4
+
+[v2]
+Nu mi-e frică orice-ar veni
+Ești cu mine în fiecare zi
+Cu dragostea Ta mă conduci
+Ești pacea mea când sunt în furtuni
+Doamne ești pacea mea când sunt furtuni
+
+[b]
+/: Stâlp de foc ești,
+Sfânt puternic
+Ne conduci prin încercări. :/ x4

@@ -1,0 +1,32 @@
+[title]
+In fata tronului {author: {Cătălin și Ramona Lup}, {rcId: {7307}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+În fața tronului de sus eu am un bun Apărător,
+Un mare Preot, pe Isus, la care aflu ajutor.
+
+[c]
+/: Săpat eu sunt pe mâna Sa și pe-a Lui inimă sunt scris
+Iar cât în ceruri El va sta, pârâșul meu va fi învins,
+Pârâșul meu va fi învins. :/
+
+[v2]
+Satan când mă va acuza spunându-mi că sunt vinovat,
+Privesc la Domnul, Stânca mea ce-a șters pe cruce-al meu păcat.
+
+[c2]
+/: Fiindcă Domnul a murit, eu am ajuns neprihănit;
+Dreptatea s-a îndeplinit, prin moartea Lui sunt mântuit,
+Prin moartea Lui sunt mântuit. :/
+
+[v3]
+Și iată Mielul înălțat, Cel nepătat, neprihănit,
+Cuvântul viu și întrupat e Rege-al regilor slăvit.
+
+[c3]
+/: Unit cu El nu voi muri, cu sânge m-a răscumpărat;
+Voi fi cu El în veșnicii, cu Domnul meu glorificat!
+/: Cu Domnul meu glorificat! :/

@@ -1,0 +1,29 @@
+[title]
+Sunt strain in lume sunt un calator {author: {Anonim}, {rcId: {227187}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Sunt străin în lume, sunt un călător
+Casa mea-i în ceruri, mă avânt cu dor
+Căci mi-e dor de-a casă, vreau să-l întâlnesc
+Pe-al meu sfânt parinte, ce mult îl iubesc
+
+[c]
+Cât mi-e dor de Domnul să mă ducă acasă
+Unde cântă corul melodii cerești
+Vreau să mă alătur vocilor ce cântă
+/: Imnuri de-adore glasuri îngerști :/
+
+[v2]
+Am în cer o casă, și în casa mea
+Voi cânta cu sfinți, mă voi bucura
+Stiu că vine ziua, când eu voi fi dus
+Sus mai sus de stele, să fiu cu Isus
+
+[v3]
+Sus e fericire, sus e Dumnezeu
+Sus e țara sfântă, și e tata-l meu
+Nu va fi tristețe, nu va fi suspin
+Vom uita durerea, vom uita de chin

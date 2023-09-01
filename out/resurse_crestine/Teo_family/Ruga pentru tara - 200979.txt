@@ -1,0 +1,27 @@
+[title]
+Ruga pentru tara {author: {Teo Family}, {rcId: {200979}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+O, Doamne preainalt, drept și-adevărat,
+Nu cerem nici aur, nu cerem nici pat.
+/: Nu cerem nici pâine, nici ziua de mâine,
+Înainte să cerem un suflet curat :/
+
+[v2]
+Venim cu sfiala celui ce-a greșit,
+Căci celui ce ierți mult, iubește tot mult.
+/: Nu cerem să vină o viață mai bună,
+Înainte să plângem cu cel necăjit :/
+
+[v3]
+Venim cu speranța unui suflet nou,
+Și noi, România, poporului Tău!
+/: Nu vrem libertate, nici miere, nici lapte,
+Înainte să-Ți cerem să ne naști din nou :/
+
+[v4]
+/: Ascultă Părinte, ruga fierbinte,
+A celor ce se-închină în Numele Tău :/

@@ -1,0 +1,53 @@
+[title]
+Ce nume porti? {author: {Nicolae Moldoveanu}, {rcId: {246209}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Ce nume porți iubite,
+Pe drumul greu al vieții
+Pe fruntea ta-n lumină,
+Ce pot citi drumeții?
+
+[c]
+Picioarele când umbli,
+Și mâna când lucrează,
+Și inima când bate,
+Ce nume însemnează?
+
+[v2]
+Porți oare tu în toate
+Al păcii dulce nume,
+Și-a dragostei lumină,
+Pe unde treci prin lume?
+
+[c2]
+Credincioșia sfântă,
+Blândețea și răbdarea,
+Și curăția albă
+Ți-mpodobesc purtarea?
+
+[v3]
+lsus Mântuitorul,
+Purtat-a nume sfinte
+Și-n fața lumii negre
+Și-a Sfântului Părinte.
+
+[c3]
+Și jos în valea urii,
+Și-n slavă sus pe munte,
+El minunate nume
+Purta smerit pe frunte.
+
+[v4]
+Ce nume porți iubite,
+Acum când mergi pe cale
+Ce pot citi drumeții
+Pe fruntea vieții tale?
+
+[c4]
+Tu de la Domnu-nvață
+- Ca pururea prin lume -
+Să-ți fie viața-n toate,
+Mănunchi de sfinte nume!

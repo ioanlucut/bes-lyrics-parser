@@ -1,0 +1,41 @@
+[title]
+Adevarul inviaza {author: {Nicolae Moldoveanu}, {rcId: {192900}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Adevărul înviază
+Sufletul pentru Isus,
+Duhul Sfânt prin El lucrează
+Taina nașterii de Sus!
+
+[c]
+Cuvântul cel sfânt e-Adevărul curat,
+El face schimbarea-n trăire,
+Vei fi fericit de-l primești neschimbat,
+- Așa vei primi mântuire!
+
+[v2]
+Adevărul liberează
+Sufletul din greu păcat
+Îl aduce și-l păstrează
+În Căminul minunat!
+
+[v3]
+Adevărul izbăvește
+Sufletul de rătăciri,
+Îl îmbracă și-i gătește
+Sfintele orânduiri!
+
+[v4]
+Adevărul dă sfințire
+Sufletului de pământ,
+Îl preface în iubire,
+După Chipul Celui Sfânt!
+
+[v5]
+Adevărul dă lumină,
+Dă comori de har mereu,
+Sufletul prin El se-nchină,
+Pentru veci lui Dumnezeu!

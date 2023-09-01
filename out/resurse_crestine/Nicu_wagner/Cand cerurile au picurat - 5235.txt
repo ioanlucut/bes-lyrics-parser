@@ -1,0 +1,35 @@
+[title]
+Cand cerurile au picurat {author: {Nicu Wagner}, {rcId: {5235}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Când cerurle au picurat din slavă
+Pământul mărturia lui și-a dat,
+Iar norii au picurat neprihănirea;
+/: Ascultă glasul Celui Preaînalt. :/
+
+[v2]
+Eu șterg fărădelegile ca norul
+Ca ceața șterg păcatul și îl rup.
+Întoarce-te că Eu sunt Făcătorul,
+/: Eu te-am răscumpărat prin Fiul Sfânt. :/
+
+[v3]
+Căci voi turna peste pământuri ape
+Și râuri pe pământul însetat.
+Turna-voi Duhul meu pe-acel ce crede,
+/: Va fi copilul binecuvântat. :/
+
+[v4]
+Va răsări ca firele de iarbă,
+Ca sălciile lângă pâraie reci.
+Așa vorbește Cel dintâi și-n urmă
+/: Acel ce-i Dumnezeu în veci de veci. :/
+
+[v5]
+Va zice unul eu al Domnului sunt
+Iar altul s-a numi chiar Israel
+Iar altul se va scrie cu-a sa mână
+/: Al Domnului sunt și-l slujesc pe El. :/

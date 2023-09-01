@@ -1,0 +1,42 @@
+[title]
+Tot ce stiu {author: {Rick Vale}, {rcId: {159191}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+În tăcerea unei clipe
+Chipul Său eu l-am zărit.
+Nu știu cum, dar într-o clipă
+De trecut m-am despărțit.
+Am simțit cum disperarea
+Inima îmi stăpânea...
+Nu știu cum, dar mâna-I sfântă
+A luat povara mea!
+
+[c]
+Tot ce știu e că din lume
+M-a găsit și m-a salvat!
+Păcatul și durerea mea
+Le-a luat asupra Sa!
+Liber sunt și asta-i tot ce știu.
+/: Tot ce știu e că din lume
+M-a găsit și m-a salvat!
+Păcatul și durerea mea
+Le-a luat asupra Sa!
+Liber sunt și asta-i tot ce știu! :/
+
+[v2]
+Cine-I Cel ce mi-a dat viață
+Când eram atât de rău?
+Mi-a frânt inima prin piatră,
+M-a făcut copilul Său!
+A venit să mă salveze,
+S-a-ntrupat în chip de om,
+A purtat întreaga-mi vină,
+Și-acum mi-e al vieții Domn!
+
+[e]
+Păcatul și durerea mea
+Le-a luat asupra Sa!
+Liber sunt și asta-i tot ce știu.

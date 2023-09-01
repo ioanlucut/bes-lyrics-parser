@@ -1,0 +1,17 @@
+[title]
+O tata sfant noi te iubim {author: {Bob Fitts}, {rcId: {224450}}
+
+[sequence]
+v1,c
+
+[v1]
+O Tată Sfânt noi Te iubim
+și Numele Tău înălțăm
+Vie-mpărăția Ta, noi te rugăm
+și lucrarea Ta noi o preamărim!
+
+[c]
+Binecuvântat fii, O, Doamne
+Cel ce ai fost, ești și vei fi!
+Sfânt și minunat, și puternic
+În veci Tu vei domni!

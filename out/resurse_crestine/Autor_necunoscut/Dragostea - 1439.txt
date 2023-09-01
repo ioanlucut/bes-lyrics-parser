@@ -1,0 +1,55 @@
+[title]
+Dragostea {author: {Anonim}, {rcId: {1439}}
+
+[sequence]
+v1,c,v2,c2,v3,c2
+
+[v1]
+Dragostea-i darul cel mare
+Care la oameni s-a dat
+Este lumină și slavă
+E-un sentiment minunat.
+Dragostea-i șoaptă de taină
+E un cuvânt nerostit
+Dragostea-i jar și speranță
+Este un râu lipezit.
+
+[c]
+Dragostea-i cântec pe buze
+Este nădejde și teamă
+E un fior în privire
+Dragostea-i sfântul magnet.
+Locul de-origine-i cerul
+Locul răbdării pe cruce
+Locul nădejdii e-acasă
+Locul unirii în văzduh.
+
+[v2]
+Dragostea e fericire
+Este ca cerul senin
+Dragostea-i sfântă arvună
+N-are în sine venin.
+Dragostea-i neprefăcută
+Sinceră, candidă e
+Este de mulți neștiută
+Dragostea viață ne e.
+
+[c2]
+Dragostea-i susur de ape
+Dragostea-i loc liniștit
+Este balsam pus pe rană
+Dragostea-i vis fericit.
+Dragostea-i darul din ceruri
+Dar care nu-i prețuit
+Dragostea e de la Tatăl
+Este-un cuvânt mulțumit.
+
+[v3]
+O, dacă dragostea în viață
+Inima ne-ar copleși
+Dacă iubirea divină
+În suflet ni s-ar vădi
+Ce minunat-ar fi viața
+Fără de ploi și furtuni
+Dacă zdrobit-ar fi ura
+Cea din ascunse genuni.

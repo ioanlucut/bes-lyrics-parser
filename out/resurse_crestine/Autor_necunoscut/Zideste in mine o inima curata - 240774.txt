@@ -1,0 +1,29 @@
+[title]
+Zideste in mine o inima curata {author: {Anonim}, {rcId: {240774}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Zidește în mine o inimă
+Curată, Dumnezeule
+Și pune în mine un Duh nou,
+Statornic, Dumnezeule.
+
+[c]
+/: Nu mă lepăda de la fața Ta
+Și nu lua de la mine Duhul Tău cel Sfânt,
+Dă-mi iarăși bucuria mântuirii Tale,
+Umple-mă cu Duhul Tău cel Sfânt. :/
+
+[v2]
+Zidește în mine iubirea Ta
+Măreață, Dumnezeule
+Și pune în mine un cuget nou,
+Statornic, Dumnezeule.
+
+[v3]
+Zidește în mine lumina Ta
+Curată, Dumnezeule
+Și pune în mine un suflu nou,
+Statornic, Dumnezeule.

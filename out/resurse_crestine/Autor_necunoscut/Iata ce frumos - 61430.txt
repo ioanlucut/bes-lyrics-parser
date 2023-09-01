@@ -1,0 +1,31 @@
+[title]
+Iata ce frumos {author: {Anonim}, {rcId: {61430}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Iată ce frumos,
+Ce minunat când frații toți
+În Casa Domnului se-adună
+Și Domnului Îi cântă.
+N-am mai pleca de-aici
+Să facem trei colibe mici
+Și cu toți cei ce merg spre cer
+Să cântăm Domnului în cor.
+
+[c]
+/: Suntem mântuiți
+Prin jertfa de la Calvar! :/
+Pentru ca Isus pe cruce a murit.
+Ca să fim noi, astăzi mântuiți.
+
+[v2]
+Iată ce frumos,
+Ce minunat când frații toți,
+În Casa Domnului se-adună,
+Și Domnului Îi cântă.
+E ca un untdelemn
+Pe veșmintele lui Aron
+E ca o rouă din Hermon
+Ce se coboară din Sion.

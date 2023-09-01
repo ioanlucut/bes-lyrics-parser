@@ -1,0 +1,41 @@
+[title]
+Eu sunt domnul sunt mantuitorul tau {author: {Anonim}, {rcId: {73701}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Eu sunt Domnul sunt Mântuitorul tău
+Eu te chem pe nume ești al meu
+Nu te teme de nimic de nici un rău
+Eu te izbăvesc, Eu, Dumnezeu!
+
+[c]
+/: Nu te teme, nu te teme
+Eu veghez asupra Ta mereu
+Nu te teme, nu te teme
+Eu te izbăvesc, Eu, Dumnezeu! :/
+
+[v2]
+Dacă treci prin ape cu talazuri mari,
+Eu voi fi cu tine-n orice greu
+Bată vânturile, bată oricât de tari,
+Eu te izbăvesc, Eu, Dumnezeu!
+
+[v3]
+De vei merge-n focul cel de ură aprins
+Adăpost și pază îți sânt Eu.
+Viata nu ți-o arde, nu vei fi atins
+Eu te izbăvesc, Eu, Dumnezeu!
+
+[v4]
+Pentru tine-n lume dau popoare-ntregi
+Tu ai preț nespus în ochiul Meu.
+Te iubesc de-apururi, asta să-ntelegi
+Eu te izbăvesc, Eu, Dumnezeu!
+
+[v5]
+Eu sunt Domnul, sunt Mântuitorul tău
+Tu-mi porți numele mereu, mereu.
+Nu te teme Eu lucrez și nici un rău
+Nu-ți va fi am zis Eu, Dumnezeu!

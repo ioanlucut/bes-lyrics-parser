@@ -1,0 +1,30 @@
+[title]
+Cant de dor (prin vai adanci cantam si ne rugam) {author: {Ovidiu Liteanu}, {rcId: {187413}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Prin văi adânci cântăm și ne rugăm,
+Și-n fiecare clipă te-așteptăm,
+Răsună valea de un cânt de dor,
+O vino Doamne, scump Mântuitor!
+
+[c]
+/: Te așteptăm să vii, in fiecare zi,
+Să ne ridici pe nori in veșnicii!
+Te așteptăm nespus,
+Să vii iubit Isus,
+Să ne răpești in patria de sus! :/
+
+[v2]
+În luptă ne ajută Duhul Tău,
+Pe calea-ngustă nu ne pare greu,
+Cu valuri și ispite ne luptăm,
+În post și rugăciune Te-așteptăm!
+
+[v3]
+Cu lacrimi e cântarea deseori,
+Și rugăciunea-n șoaptă uneori,
+Așa privim spre ceruri drag Isus,
+Ne-e dor sa fim cu Tine acolo sus!

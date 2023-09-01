@@ -1,0 +1,53 @@
+[title]
+Ce cruce grea ai dus {author: {Nicolae Moldoveanu}, {rcId: {239126}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Ce cruce grea ai dus
+Pe Golgota Isus
+Și-n ea era mai grea
+Fărădelegea mea
+
+[c]
+/: Ce-adânc ai suferit
+Să pot fi mântuit
+Adânc Îți mulțumesc
+O, Miel Dumnezeiesc! :/
+
+[v2]
+Ce plin și-amar pahar
+Băut-ai pe Calvar
+Și-amaru-acesta greu
+A fost păcatul meu
+
+[c2]
+/: Ce-adânc Te-ai zbuciumat
+Să pot fi-n veci iertat
+Adânc Îți mulțumesc
+O, Miel Dumnezeiesc! :/
+
+[v3]
+Ce-ntunecos mormânt
+Avut-ai pe pământ
+Dar eu Ți L-am gătit
+Prin tot ce-am făptuit
+
+[c3]
+/: Ce-adânc! - în cel mai jos
+Ai stat să fiu eu scos
+Adânc Îți mulțumesc
+O, Miel Dumnezeiesc! :/
+
+[v4]
+Ce mult eu Te iubesc
+O, Miel Dumnezeiesc
+Căci m-ai răscumpărat
+Din moarte și păcat
+
+[c4]
+/: De-aceea cât trăiesc
+Te-ador și Te slăvesc
+Și-n veci Îți mulțumesc
+O, Miel Dumnezeiesc! :/

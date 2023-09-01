@@ -1,0 +1,39 @@
+[title]
+In iesle doarme pruncul isus {author: {Apascaritei Raul și Ciobanu Ghedo}, {rcId: {143584}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În Betleem, oraș micuț
+Într-un grajd, într-un staul
+Într-un loc neînsemnat
+S-a născut Pruncul Sfânt,
+Emanuel, Cel așteptat,
+S-a născut: Ce minunat!
+
+[c]
+În iesle doarme Pruncul Isus,
+Fiindcă-n case nu L-au primit
+Într-un staul din Betleem
+Mântuitorul meu s-a născut!
+Și-o stea a răsărit pe cer
+Ce nicicând nu s-a mai văzut
+Ce vestea că pentru noi
+Un Rege S-a născut!
+
+[v2]
+Îngerii-n cor au proclamat:
+S-a născut un Împărat
+Mântuitorul întrupat!
+Ne-nchinăm și noi cu ei
+Căci Isus, Cel așteptat
+S-a născut: E minunat!
+
+[v3]
+Îl lăudăm pe Pruncul sfânt
+Emanuel de mult promis
+Care Cerul l-a deschis
+Să-I cântăm, să-L adorăm
+Mântuitorul așteptat
+S-a născut: E minunat!

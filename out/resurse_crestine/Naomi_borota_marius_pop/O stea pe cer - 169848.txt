@@ -1,0 +1,39 @@
+[title]
+O stea pe cer {author: {Naomi Borota, Marius Pop}, {rcId: {169848}}
+
+[sequence]
+v1,c,v2,c,b,c
+
+[v1]
+Pe cer se vede o stea
+Veste aduce cu ea.
+Pe cer se vede o stea
+A coborât lumina.
+Și magii au pornit spre El
+Conduși fiind de stea,
+Spre Regele din Betleem
+Cu dar s-au închinat.
+
+[c]
+/: S-a născut Isus
+Pruncul Sfânt de sus.
+Viață ne-a adus,
+Spre cer ne-a condus! :/
+
+[v2]
+Pe cer se vede o stea
+Veste aduce cu ea.
+Pe cer se vede o stea
+A coborât lumina.
+Așa de mult El te-a iubit
+Și ceru-a părăsit
+De slava Lui s-a dezbrăcat
+Ca om s-a întrupat.
+
+[b]
+Ce bucurie e să știi
+Că ai un Salvator,
+Speranță și iubire ai în El.
+Că viața ta nu e-n zadar,
+Că toate au un rost
+Pentru că. S-a născut.

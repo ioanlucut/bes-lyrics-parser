@@ -1,0 +1,33 @@
+[title]
+Hai mai lupta tu crestine {author: {Anonim}, {rcId: {153834}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ești chemat a fi lumină
+În a lumii neagră tină.
+Adevărul să-l trăiești,
+Și pe Domnul să-L slujești.
+
+[c]
+Hai mai luptă tu creștine,
+Domnul e mereu cu tine.
+Și de noaptea este grea,
+Domnul e lumina Ta.
+Hai mai luptă tu creștine,
+Domnul e mereu cu tine.
+Chiar de lupta este grea,
+Înapoi nici când nu da.
+
+[v2]
+Luptă-te lupta cea bună,
+Până Domnul v-a venii.
+Luptă cântă și te roagă,
+Domnul te va sprijinii.
+
+[v3]
+Căci în slavă vor ajunge,
+Ce-i ce-au biruit prin El,
+Se vor bucura de-apururi,
+Lângă bunul Dumnezeu.

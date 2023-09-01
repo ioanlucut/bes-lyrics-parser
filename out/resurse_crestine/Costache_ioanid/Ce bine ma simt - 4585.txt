@@ -1,0 +1,29 @@
+[title]
+Ce bine ma simt {author: {Costache Ioanid}, {rcId: {4585}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Ce bine mă simt când în clipa cea grea
+Aud glasul Tău cum mă cheamă.
+/: O, pune-mi în inimă liniștea Ta
+Și scapă-mă, Doamne, de teamă. :/
+
+[v2]
+Apucă-mi Tu brațul, puternic, și ia-l,
+Când marea mă-nvolbură-n spume.
+/: Rămâi lângă mine la oricare val,
+Și scapă-mă, Doamne, de lume. :/
+
+[v3]
+Ajută-mi privirea spre Tine să țin,
+Predat închinării depline,
+/: Așterne-o maramă pe tot ce-i străin
+Și scapă-mă, Doamne, de mine. :/
+
+[v4]
+Ce bine mă simt când în ceasul cel greu
+Simt liniștea-n piept cum revine.
+/: O, scapă-mă, Doamne, de tot ce-i al meu
+Și umple-mă-n totul de Tine. :/

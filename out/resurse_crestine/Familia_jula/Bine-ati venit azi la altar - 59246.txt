@@ -1,0 +1,29 @@
+[title]
+Bine-ati venit azi la altar {author: {Familia Jula}, {rcId: {59246}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Bine-ați venit azi la altar, în casa Domnului sfânt,
+Să împliniți ce Dumnezeu a rânduit pe pământ
+Să vă iubiți și să trăiți, spre slava Lui Dumnezeu
+Făcând așa, de veți lucra, veșnic vă veți bucura.
+
+[c]
+Domnul Isus să vă dea pe deplin
+Pacea din ceruri și Harul Divin
+Veșnic iubirea să fie în voi,
+Până în ziua de-apoi.
+
+[v2]
+Căminul vost’ neîncetat Domnului să-l închinați,
+Pe cel trudit pe cel lipsit mereu cu drag s-ajutați
+Și când veți fi în strâmtorări Domnul cel Sfânt și milos
+Va fi cu voi, va sprijini, mâna Lui Isus Hristos.
+
+[v3]
+Noi vă iubim și vă dorim cerești binecuvântări
+Viață cu flori, fără de nori, plină de har și cununi
+Și când pe cer va răsări, soarele nostru Isus
+Noi Îl slăvim, Mireasa Lui, în ziua fără apus.

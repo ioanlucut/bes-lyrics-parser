@@ -1,0 +1,29 @@
+[title]
+Lumina a lumii {author: {Anonim}, {rcId: {61380}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Lumină a lumii, aprinsă în noapte,
+Ochii, să văd, mi-ai deschis
+De-așa frumusețe mă-nchin cu uimire
+Privind către cerul promis.
+
+[c]
+Vin cu închinare
+Vin în adorare
+Vin să-Ți spun doar Ție: Tu ești Domn!
+La Tine e iubirea,
+La Tine-i fericirea,
+Minunea vieții mele ești doar Tu!
+
+[v2]
+Tu, Rege din Cer înălțat peste toate,
+Ai vrut să plătești vina mea
+Cu-atâta păcat, judecată și moarte
+Ți-am frânt pe altar inima.
+
+[e]
+/: Și nu voi ști cât Te-a costat
+Păcatul meu, să fiu iertat. :/

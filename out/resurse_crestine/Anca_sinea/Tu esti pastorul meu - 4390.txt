@@ -1,0 +1,39 @@
+[title]
+Tu esti pastorul meu {author: {Anca Șinea}, {rcId: {4390}}
+
+[sequence]
+v1,c,v2,c2,c
+
+[v1]
+Tu ești păstorul meu, al sufletului meu,
+Așez viața mea azi în mâna Ta,
+Astăzi hotărăsc cu Tine să trăiesc,
+Și-n fiecare zi al Tău voi fi.
+
+[c]
+/: Nu mai vreau să rătăcesc,
+Azi la cruce mă opresc,
+Ție, pe deplin, Isus, mă dăruiesc,
+Curățește-mi inima,
+Umple-o de prezența Ta,
+Și împărățește Tu pe veci în ea. :/
+/: Nu mai vreau să rătăcesc,
+Azi la cruce mă opresc,
+Ție, pe deplin, Isus, mă dăruiesc,
+Curățește-mi inima,
+Umple-o de prezența Ta,
+Și împărățește Tu pe veci în ea. :/
+
+[v2]
+Tu ești păstorul meu, al sufletului meu,
+Așez viața mea azi în mâna Ta,
+Astăzi hotărăsc cu Tine să trăiesc,
+Și vreau să îți spun: Te iubesc!
+
+[c2]
+/: Chiar de-ar fi prin valea morții,
+Sau prin încercări să trec,
+Știu că El, Păstorul meu, mă va păzi,
+Pot să-nfrunt orice munte,
+Orice val și orice greu,
+Căci păstorul meu e însuși Dumnezeu :/

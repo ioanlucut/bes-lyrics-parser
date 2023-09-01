@@ -1,0 +1,37 @@
+[title]
+Odata in lume {author: {Ionel Saran}, {rcId: {128253}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: Odată în lume
+Te-am hulit Isuse
+Te-am nesocotit
+Rău, Te-am mai lovit. :/
+
+[c]
+M-a iubit și m-a iertat la cruce
+Mântuirea-n dar El îmi aduce
+Mi-a salvat sufletul de la moarte
+El e Dumnezeu măreț în toate
+Haidi Pralo, haide manța
+Te jas ame Le Devlesa
+
+[v2]
+/: N-a fost singur Iuda
+Singur vinovat
+Am fost și eu, Doamne
+Cel ce Te-a scuipat. :/
+
+[v3]
+/: Dumnezeu Cel Mare
+Ne-a iubit El tare
+Căci Fiul și-a dat
+Ne-a răscumpărat. :/
+
+[v4]
+/: Astăzi cânt întruna
+Plin de fericire
+Ți-oi cânta întruna
+Până-n veșnicie. :/

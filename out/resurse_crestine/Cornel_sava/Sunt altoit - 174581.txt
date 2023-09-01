@@ -1,0 +1,29 @@
+[title]
+Sunt altoit {author: {Cornel Sava}, {rcId: {174581}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Sunt altoit în Pomul Vieții,
+Lângă Izvor Domnul m-a așezat,
+Al Său Cuvânt e plin de armonie,
+Stând lângă El cu roade-s încărcat.
+
+[c]
+Și tot ce-ai pus în mine rodeasc-o veșnicie
+Statornic la-ndemâna Ta să stau,
+În orice-mprejurare, să-ascult a Ta chemare,
+Căci voia Ta să împlinesc eu vreau.
+
+[v2]
+Și rodul care locuiește-n mine,
+Aș vrea cu frații mei să-mpărtășesc,
+C-o inima plină de bucurie,
+În slava Ta curând să-i întâlnesc.
+
+[v3]
+El ți-a deschis și tie azi o cale,
+Prin al Său Sânge poți fi curățat
+Zidește azi pe a Sa temelie,
+La secerat să poți să fii chemat.

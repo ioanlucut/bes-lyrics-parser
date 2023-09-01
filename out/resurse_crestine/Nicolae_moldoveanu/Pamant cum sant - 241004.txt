@@ -1,0 +1,29 @@
+[title]
+Pamant cum sant {author: {Nicolae Moldoveanu}, {rcId: {241004}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pământ cum sânt,
+Preasfânt Cuvânt,
+Cu-avânt ne-nfrânt,
+Te cânt!..
+
+[c]
+/: Căci har și far
+Și jar și-altar
+Mi-ești Tu Cuvant,
+În dar. :/
+
+[v2]
+De vin, senin,
+Alin, divin
+Mi-aduci deplin,
+În chin!
+
+[v3]
+De sus Isus,
+Te-adus, supus
+Și-n har nespus
+M-a pus!

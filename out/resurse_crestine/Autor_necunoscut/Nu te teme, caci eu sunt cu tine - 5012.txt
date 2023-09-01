@@ -1,0 +1,27 @@
+[title]
+Nu te teme caci eu sunt cu tine {author: {Anonim}, {rcId: {5012}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Nu te teme, căci Eu sunt cu tine,
+A spus Isus.
+Eu Te-am chemat pe Nume,
+Te-am răscumpărat.
+Prin ape, prin flăcări
+Când vei umbla,
+Cu tine voi fi.
+
+[c]
+Fii ferm, fii tare,
+Căci Eu sunt cu tine.
+
+[v2]
+Fii ferm, fii tare,
+Căci Domnul e cu tine.
+Nu îmi este frică,
+Nu sunt descurajat,
+Pentru că umblu în credință și-n victorie.
+Haide și umblă în credință și în victorie,
+Căci Domnul e cu tine.

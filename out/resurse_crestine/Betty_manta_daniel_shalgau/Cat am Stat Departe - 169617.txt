@@ -1,0 +1,27 @@
+[title]
+Cat am stat departe {author: {Betty Manta, Daniel Shalgau}, {rcId: {169617}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Cât am stat departe culegeam doar spini,
+Mâna-nsângerată nu găsea alin
+Lacrimile Tale mă chemau mereu
+Sângerai pe cruce, Tu în locul meu
+
+[c]
+Florile iubirii, de la pieptul Tău
+Au uscat toți spinii sufletului meu
+Mi-ai adus iertarea, pacea ca un râu
+Vreau de-acum, Isuse, doar al Tău să fiu
+
+[v2]
+Anii trec ca norii, duși de-al vieții vânt
+Fără Tine, Doamne, pumnii goi îmi sunt
+Ți-am adus la cruce sufletul pribeag
+Și mi-ai dat iertarea, Domnul meu cel drag
+
+[e]
+Ți-am adus la cruce sufletul zdrobit
+Și mi-ai dat iertarea, Domnul meu iubit.

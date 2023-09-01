@@ -1,0 +1,31 @@
+[title]
+Ce bucurie am in isus {author: {Phoebe P.Knapp}, {rcId: {1764}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ce bucurie am în Isus!
+O viață nouă El mi-a adus.
+Ce moștenire mi-a dăruit,
+Și pe vecie m-a mântuit.
+
+[c]
+În veci cânta-voi că-s fericit:
+Isus pe cruce m-a mântuit!
+In veci aceasta eu voi cânta:
+”
+Te-ador, Isuse, ești viața mea!”
+
+[v2]
+Cu bucurie inima mea,
+Una cu Domnul să fie-ar vrea.
+El pace sfânta îmi dă din plin,
+Inviorat sunt prin har divin.
+
+[v3]
+Ce fericit sunt și liniștit,
+Pe brațul Lui mă simt odihnit.
+Eu știu prea bine și spun mereu:
+”
+Domnul e viața și e al meu!”

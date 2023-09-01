@@ -1,0 +1,41 @@
+[title]
+Sa se veseleasca-n tine {author: {Anonim}, {rcId: {74254}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Eu mi-am pus nădejdea-n Domnul
+Și spre mine El s-a plecat.
+M-a scos din groapa pieirii,
+Sufletul El mi-a înviorat.
+M-ai izbăvit o, Doamne!
+Sufletul meu vesel cântă
+Inima mea Te mărește
+Căci m-ai izbăvit!
+
+[c]
+/: Să se veselească-n Tine!
+Cei ce Te caută în viața lor
+Răscumpărații Tăi să strige
+Mărit să fie Domnul Dumnezeu Dumnezeu! :/
+
+[v2]
+M-ai chemat cu voce blândă,
+Și m-ai pus pe a Ta stâncă.
+Eu Ți-am mulțumit o, Doamne!
+Și-am răspuns chemării Tale.
+Te-ai îndurat de mine,
+Cu mare credincioșie
+Și prin marea-Ți bunătate
+Tu m-ai izbăvit.
+
+[v3]
+Fericit e omul care,
+În Domnul nădăjduiește.
+El ascultă de-a Lui Lege
+Și în om nu se încrede.
+Multe-Ți sunt minunile,
+Mari Îți sunt planurile,
+În orice faci Tu pentru mine
+Nimeni nu-i ca Tine.

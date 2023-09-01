@@ -1,0 +1,35 @@
+[title]
+O iubire cantec dulce {author: {Traian Dorz}, {rcId: {113718}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+O, iubire, cântec dulce,
+Ce răsună peste veci,
+/: Toate trec în lumea asta,
+Toate, numai tu nu treci. :/
+
+[v2]
+Tu rămâi mereu iubire,
+Pace-n suflete să semeni:
+/: Și de cea mai scumpă jertfă,
+Să le spui mereu la oameni. :/
+
+[v3]
+Al tău cântec plin de vraje,
+De atâta timp străbate;
+/: Mii de inime cuprinse,
+De amar și de păcate. :/
+
+[v4]
+Și cântarea ta, iubire,
+Pretutindenea sub stele,
+/: Mângâiere duce-n chinuri,
+Bucurie-n clipe grele :/
+
+[v5]
+Nici un cântec, niciodată,
+N-o suna așa de dulce,
+/: Ca și versul tău, de taina,
+Scumpei jertfe de pe cruce. :/

@@ -1,0 +1,55 @@
+[title]
+Atunci cand vei veni {author: {Nicolae Moldoveanu}, {rcId: {5706}}
+
+[sequence]
+v1,v2,v3,v5,v6,v7,v8
+
+[v1]
+Atunci când vei veni, Mesia,
+Isuse binecuvântat,
+/: Cand vei veni din nou, Mesia,
+Ce mare va fi bucuria
+/: Acelor ce Te-au așteptat!... :/
+
+[v2]
+Intâmpina-Te-vom, Mesia,
+Cuprinși de bucurii si cânt;
+/: Primi-Te-vom, cu-o bucurie
+Cu care n-am primit, Mesia,
+/: Pe nimenea de pe pământ... :/
+
+[v3]
+Cu biblice cântări, Mesia,
+Cânta-vom ceru-n lung și-n lat,
+/: Iar noi cânta-vom: „
+Aleluia!”
+Cum nu se cântă nimănuia
+/: Si nimănuia n-am cântat... :/
+
+[v5]
+Priveliște infricoșată!
+Mormintele s-or nărui...
+/: Cei morți vor invia... deodată
+Tarana este transformată,
+/: În trupuri noi ce vor primi... :/
+
+[v6]
+Copiii Tăi ce dorm sub glie,
+În ceasul cand vei reveni,
+/: Vor decola, cu bucurie,
+Spre veșnica împărăție
+/: Și, in văzduh, ne-om intalni... :/
+
+[v7]
+Tu vei aduce răsăritul
+Vieții fără de apus;
+/: Vei pune plânsului sfârșitul
+Și-ncununa-vei fericitul
+/: Prinos de dar ce ne-ai adus... :/
+
+[v8]
+Și-atunci, va-ncepe veșnicia
+Acelor ce Te-au așteptat,
+/: Și-n veci va ține bucuria...
+O, vino! Te dorim, Mesia,
+/: Isuse binecuvântat!... :/

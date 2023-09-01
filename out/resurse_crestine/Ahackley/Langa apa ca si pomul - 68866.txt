@@ -1,0 +1,25 @@
+[title]
+Langa apa ca si pomul {author: {A.H.Ackley}, {rcId: {68866}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Langa apa ca si pomul Domnul vietii ma sadit
+Voi traii si-mi void a rodul tot la timpul potrivit.
+
+[c]
+Unde sunt sadit, eu stau neclintit
+Pe temeiul mantuirii eu stau neclintit!
+
+[v2]
+Cand furtuna ma-nconjoara numai la Isus privesc
+Fata Lui ma-nvioreaza pace de la El primesc.
+
+[v3]
+Cand m-apasa grijuri multe si mi-e trista inima
+Canta binecuvantare am in sfanta mila Ta
+
+[v4]
+Cand il voi privii in fat ape al meu mantuitor
+Voi canta o vesnicie slava Lui cu-al Sau popor.

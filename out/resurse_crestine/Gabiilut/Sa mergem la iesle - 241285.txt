@@ -1,0 +1,29 @@
+[title]
+Sa mergem la iesle {author: {Gabi_Ilut}, {rcId: {241285}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O liniște deplină domnește pe pământ!
+E o noapte așa senină cum n-a mai fost nicicând;
+Dar steaua care-a răsărit pe cer, vrea să ne spună:
+Că s-a născut un Prunc Preasfânt; să mergem pe-a ei urmă!
+
+[c]
+Să mergem la iesle, să vedem Pruncul Sfânt!
+Să mergem la iesle o veste aducând!
+Singura salvare pentru neamul omenesc;
+Este dată celor care la iesle se smeresc!
+
+[v2]
+Părinții cu iubire privesc înspre copil,
+Cel coborât din slavă în staulul umil!
+Și taina scrisă în Scripturi, acum se împlinește;
+Copilul Sfânt ce S-a născut: viață dăruiește!
+
+[v3]
+Tot cerul în sărbătoare se bucură nespus;
+Și îngeri vin din slavă, cu vestea cea de sus.
+Păstorii se grăbesc pe drum, uimiți de strălucire!
+Trei magi călăuziți de o stea, doresc să I se închine!

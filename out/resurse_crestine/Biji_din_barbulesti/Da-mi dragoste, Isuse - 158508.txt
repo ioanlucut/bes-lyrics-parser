@@ -1,0 +1,29 @@
+[title]
+Da-mi dragoste isuse {author: {Biji din Barbulesti}, {rcId: {158508}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Dă-mi dragoste Isuse
+Să-mi iubesc aproapele
+Căci dacă n-am dragostea Ta
+Nu voi putea înainta. :/
+
+[c]
+/: Căci fără dragostea Ta eu nimic nu sunt
+Căci fără dragostea Ta sunt un om pierdut
+Chiar dacă mi-aș da să-mi fie trupul ars
+Și de n-am dragoste, la ce-mi folosește? :/
+
+[v2]
+/: Chiar dacă fac milostenii
+La nimic n-ar folosii
+Eu dacă n-am dragostea Ta
+În zadar va fii toată truda mea. :/
+
+[v3]
+/: Dragostea nu pizmuiește
+Și nicicând nu se mândrește
+Căci la sfârșit va rămânea
+Credința, nădejdea mai mare-i dragostea. :/

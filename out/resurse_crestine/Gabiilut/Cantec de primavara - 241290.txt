@@ -1,0 +1,38 @@
+[title]
+Cantec de primavara {author: {Gabi_Ilut}, {rcId: {241290}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Natura îmbracă straie de primăvară!
+Totu-i frumos, și învie iară;
+Mii de culori inundă sufletul!
+Păsările cântă: Slavă Ție!
+Insectele din pământ învie.
+Toate le-ai creat minunat!
+
+[c]
+Cum să nu Îți cânt Dumnezeul meu?
+Cum să nu Te laud mereu?
+Cum să nu îmi plec genunchii?
+Cum să nu Îți mulțumesc?
+Mă închin smerit înaintea Ta.
+Și Te laud iar din toată inima.
+Tu ești Dumnezeu, Tatăl meu!
+
+[v2]
+Natura renaște pentru a câta oară,
+Sufletul meu spre lumină zboară.
+Viața este darul minunat!
+Flori parfumate, mii și mii de soiuri;
+Albinele se adună în roiuri:
+Freamătă pământul neîncetat!
+
+[v3]
+Natura mă învață să mă încred în Tine,
+După furtuni, iarăși soare vine;
+Norii grei de plumb se risipesc!
+Din anotimpuri viața e formată:
+Din noaptea grea, zorii se arată!
+Dragostea triumfă în viața mea!

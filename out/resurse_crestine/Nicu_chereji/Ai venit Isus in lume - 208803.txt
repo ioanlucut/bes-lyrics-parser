@@ -1,0 +1,35 @@
+[title]
+Ai venit isus in lume {author: {Nicu Chereji}, {rcId: {208803}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ai venit Isus în lume să ne mântuiești
+Ai lăsat splendori divine slăvile cerești,
+Voia Tatălui în Tine s-a adeverit,
+Când la noi cei păcătoși Tu ai venit.
+
+[c]
+Laudă și închinare Doamne
+Îți aducem cu iubire
+Căci Tu ești Acel ce Te-ai jertfit
+Pentru că mult ne-ai iubit
+
+[v2]
+De la iesle la Golgota, Doamne Te-ai smerit
+Tot ce-i mai de preț pe-acest pământ ne-ai dăruit
+N-am nici aur nici tămâie să-ți aduc în dar
+Doar o inima curată la altar
+
+[v3]
+Ai venit fară de slavă Mielule Preasfânt,
+Și ai dovedit neprihănirea pe Pământ
+Bolile și suferința lumii le-ai luat
+Și de bună voie pentru noi Te-ai dat
+
+[v4]
+Te iubesc Isuse dragă, vin și mă închin
+Cu inima-ntreagă pe genunchi la Tine vin
+Și îți cânt plin de iubire, că sunt fiul Tău
+Împăcat pe veci cu Tatăl Dumnezeu!

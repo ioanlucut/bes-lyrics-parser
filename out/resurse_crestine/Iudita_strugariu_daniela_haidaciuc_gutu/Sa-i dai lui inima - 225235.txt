@@ -1,0 +1,35 @@
+[title]
+Sa-i dai lui inima {author: {Iudita Strugariu, Daniela Haidaciuc Guțu}, {rcId: {225235}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Dulce iubire te-a cuprins
+Din cer o mana ți s-a intins
+O voce calda te-a chemat
+Ești așteptat.
+
+[c]
+/: Să-i dai Lui inima
+sa fie doar a Sa
+sa fie Domn în ea
+doar Dumnezeu. :/
+
+[v2]
+Dragostea Lui te-a inconjurat
+La sânul Lui te-a imbratisat
+Și ți-a șters lacrimă cea curs
+Este Isus.
+
+[v3]
+Vino să-i dai ce-apasă greu
+Lacrima ta și dorul tau
+Sa știi ca-n ochii lui Hristos
+Ești prețios.
+
+[v4]
+Tot ce te doare sa îi spui
+Lasă ce porți la crucea Lui
+Te va primi, te va ierta
+Dă-i inima.

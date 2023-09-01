@@ -1,0 +1,29 @@
+[title]
+Vreau sa te fac pescar de om {author: {Anonim}, {rcId: {807}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Vreau să te fac pescar de om
+Vreau să te fac pescar de om dacă Mă urmezi.
+Dacă Mă urmezi, dacă Mă urmezi
+Vreau să te fac pescar de om dacă Mă urmezi.
+
+[v2]
+O, Isuse vreau să-ți urmez
+O, Isuse vreau să-ți urmez dacă mă primești.
+Dacă mă primești, dacă mă primești,
+O, Isuse vreau să-ți urmez dacă mă primești.
+
+[v3]
+Arunca-vom pâinea în râu
+Arunca-vom pâinea în râu la Cuvântul Tău
+Vom fi buni pescari, vom fi buni pescari
+Dacă Tu ne vei da în dar undița de har.
+
+[v4]
+Citește Biblia-n fiecare zi, în fiecare zi
+Și roagă-te în fiecare zi, dacă vrei să crești.
+Dacă vrei să crești, dacă vrei să crești
+Citește Biblia-n fiecare zi, dacă vrei să crești.

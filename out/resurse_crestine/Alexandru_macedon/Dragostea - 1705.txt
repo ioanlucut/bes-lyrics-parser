@@ -1,0 +1,27 @@
+[title]
+Dragostea {author: {Alexandru Macedon}, {rcId: {1705}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ce dulce ne-a fost Doamne iubirea Ta frumoasă
+Prin ea am fost oriunde ca-n cea mai dulce casă
+Prin ea am fost oriunde ca-n cea mai sfântă pază
+Prin ea prin orice noapte ne-a strălucit o rază
+
+[c]
+/: Nu ne lăsa Isuse nicicând fără de ea
+Iubirea dacă-o pierdem nimic n-om mai avea :/
+
+[v2]
+Iubirea Ta prin soare ne-a dus întotdeauna
+Ea-n blânda susurare ne-a preschimbat furtuna
+Oriunde ne-a dat umbre și-oriunde ne-a-ntins masă
+Ce dulce ne-a fost Doamne iubirea Ta frumoasă
+
+[v3]
+Iubirea Ta mi-e Doamne cea mai curată pară
+În ea am dat comoara ori cui a fost s-o ceară
+Ea orice rugăciune de-o faci înlăcrimată
+Ea-i numai bucurie de fiecare dată

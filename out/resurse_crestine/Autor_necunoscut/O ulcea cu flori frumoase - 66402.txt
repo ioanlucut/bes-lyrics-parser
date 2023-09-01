@@ -1,0 +1,33 @@
+[title]
+O ulcea cu flori frumoase {author: {Anonim}, {rcId: {66402}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+O ulcea cu flori frumoase a început mereu să crească
+/: În căsuța mea de lut, a început să facă fruct :/
+
+[v2]
+Fructul este fruct frumos, umple casa cu miros,
+/: Răspândește parfum fin, ca parfumul florii de crin :/
+
+[v3]
+Cât îmi este de dorită floarea scumpă și iubită
+/: N-aș da-o din a mea casă nici pe averea cea frumoasă :/
+
+[v4]
+Nici pe aur nici pe argint, nu-i floare de pe pământ
+/: E adusă pe aripi de vânt se numește Duhul Sfânt :/
+
+[v5]
+Duhul Sfânt de la Rusalii de la sărbătoarea marea,
+/: Cine vrea ca să-L iubească să se roage să-L primească :/
+
+[v6]
+Când primești tu Duhul Sfânt în căsuță pe pământ,
+/: În ulcioara ta sădește floarea ce nu veștejește :/
+
+[v7]
+Asta-i floarea minunată cea mai scumpă și bogată,
+/: În inimă mea s-a sădit Tatăl, Fiul, Duhul Sfânt :/

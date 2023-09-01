@@ -1,0 +1,20 @@
+[title]
+Slava slava toti copiii canta {author: {Anonim}, {rcId: {57641}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Slavă, slavă
+Toți copiii cântă
+Slava Lui, slava Lui.
+
+[v2]
+Să-L servim
+Pe Domnul cu iubire
+Sa-L servim, să-L servim.
+
+[v3]
+Mulțumire Lui
+Noi Îi aducem
+Mulțumim, mulțumim.

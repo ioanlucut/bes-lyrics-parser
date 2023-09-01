@@ -1,0 +1,27 @@
+[title]
+Cine cauta gaseste fericire-n dumnezeu {author: {Alexandru Groza}, {rcId: {185043}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cine caută găsește fericire-n Dumnezeu
+Înaintea Feței lui sunt bucurii
+Cea mai mare bucurie e să fii copilul Său
+Căci prin har vei moșteni iubirea Lui!
+
+[c]
+Fericiți sunt acei ce-L slujesc pe Dumnezeu!
+Fericiți sunt acei ce-L slujesc pe Dumnezeu!
+
+[v2]
+Dacă sufletu-ți dorește să te-ntorci la Dumnezeu
+Nu-l opri că tu în veci vei regreta
+Căci în clipe de-ntristare sigur El poate-alina
+Numai El poate să-ți dea salvarea ta!
+
+[v3]
+Dacă azi auzi chemarea și mesajul dragostei
+Lasă-ți inima deschisă-n fața Lui
+Lasă goana după vânt, căci vânt vei secera
+Isus poate da astăzi fericirea!

@@ -1,0 +1,45 @@
+[title]
+Ce folos ce folos viata fara de hristos ? {author: {Traian Dorz si Nicolae Moldoveanu}, {rcId: {99701}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+De-aș ajunge cea mai mare
+Slavă pământească
+În zadar dacă mi-aș pierde,
+Slava cea cerească
+/: Ce folos, ce folos: slavă,
+Fără de Hristos?! :/
+
+[v2]
+De-as avea toți banii lumii
+Să-mi stea-n vraf arginții,
+În zadar, dacă-mi lipsește
+Aurul credinței!
+/: Ce folos, ce folos: aur,
+Fără de Hristos?! :/
+
+[v3]
+De-aș ști toată-nțelepciunea
+Câtă e sub soare,
+În zadar, dacă-mi lipsește
+Cea mântuitoare!
+/: Ce folos, ce folos: minte,
+Fără de Hristos?! :/
+
+[v4]
+De-aș fi omul cel mai tare
+De pe lumea toată,
+În zadar, dacă mă-nvinge
+Pofta desfrânată!
+/: Ce folos, ce folos: tânăr,
+Fără de Hristos?! :/
+
+[v5]
+De-aș cuprinde tot pământul,
+Tot, al meu să fie,
+În zadar, dacă-mi pierd viața
+Cea din veșnicie!
+/: Ce folos, ce folos, dacă mori
+Fără Hristos?! :/

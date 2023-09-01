@@ -1,0 +1,29 @@
+[title]
+Uneori {author: {Cătălin Ciuculescu}, {rcId: {189714}}
+
+[sequence]
+v1,v2,c,v3,c
+
+[v1]
+Uneori, când aș vrea să fac un bine
+Nu, nu pot, răul stă lipit de mine,
+Dar un glas inimii încet îi spune
+Dacă cer, ajutor de sus îmi vine!
+
+[v2]
+Alteori, mă aplec în rugăciune
+Mă descarc, însă vorbele-s puține
+Îmi vorbești printre dese suspine
+Mă-ntărești, am putere-n slăbiciune!
+
+[c]
+Nu e nimic de Tin’ să mă despartă
+Chiar de-aș muri, eu tot aș exista...
+Ține-mă strâns, Te rog, o, scumpe Tată,
+Nu vreau să cad nicicând din Mâna Ta!
+
+[v3]
+Nu mai vreau să mint nici să mă mândresc
+Vreau să crești iar eu să mă micșorez...
+Iar de-acum pe oricine am s-accept
+Voi iubi, Doamne-ajută-mă să iert!

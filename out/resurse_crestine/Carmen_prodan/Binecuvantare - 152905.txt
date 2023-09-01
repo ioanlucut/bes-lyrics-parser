@@ -1,0 +1,29 @@
+[title]
+Binecuvantare {author: {Carmen Prodan}, {rcId: {152905}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+La Tronul Slavei venim în rugă,
+Binecuvântă-ne, Doamne!
+Mâna Ta Sfântă las-o s-atingă
+A noastre inimi, o, Doamne!
+
+[c]
+Binecuvântă-ne, Doamne, / x 3
+Întotdeauna!
+Binecuvântă-ne, Doamne/ x 2
+Doamne ajută, Doamne dă izbândă!
+
+[v2]
+Și la plecare și la venire
+Binecuvântă-ne, Doamne!
+Să fim un cuget și o simțire,
+Binecuvântă-ne, Doamne!
+
+[v3]
+Și-n bucurie și-n încercare,
+Binecuvântă-ne, Doamne!
+În orice vreme și-mprejurare
+Binecuvântă-ne, Doamne!

@@ -1,0 +1,33 @@
+[title]
+Tata am pacatuit {author: {Liviu Bocaneală}, {rcId: {123306}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Tată, am păcătuit
+Împotriva Cerului și împotriva Ta!
+Mă întorc ca un fiu blând
+Și la picioarele-Ți cad, primește-mă cum sunt!
+
+[c]
+Am rătăcit atât de mult, Părinte
+În noaptea fără de hotar...
+Dar, iată, noaptea mă cuprinde
+Și vin la Tine iar!
+Pentru că-Ți sunt copil, pentru că-Ți sunt copil,
+Port chipul Tău adânc în mine!
+Și port numele Tău
+Pentru că-ți sunt copil, pentru că-Ți sunt copil.
+Țin mâna Ta în mâna-mi slabă,
+Mă odihnesc pe brațul Tău
+Și-aud cum glasul Tău mă cheamă:
+„
+Tu ești copilul Meu!”
+
+[v2]
+Tată, cum pot să-Ți mulțumesc
+La pieptul Tău cel cald că m-ai primit?
+Cu veșmânt curat m-ai îmbrăcat,
+Mi-ai șters obrazul plâns,
+Cu pâine m-ai hrănit.

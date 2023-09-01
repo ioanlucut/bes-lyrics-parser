@@ -1,0 +1,53 @@
+[title]
+Peste valurile lumii {author: {Ioan Hapca}, {rcId: {95243}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Furios al lumii val
+Izbește-n corabia mea...
+Sunt departe de-orice mal
+Și furtuna-i tot mai grea...
+
+[c]
+Dar în mijlocul furtunii,
+Peste valurile lumii
+Domnul meu vine ca-n vis
+Și mă scoate din abis.
+El, oprește-orice furtună
+Și mă scoate la lumină.
+Liniștește valul, marea...
+Și-mi asigură salvarea.
+
+[v2]
+Urlă lumea furioasă
+Vrând credința-mi îneca
+Și nădejdea luminoasă
+Pe veci a-mi întuneca...
+
+[c2]
+Dar în mijlocu furtunii,
+Peste valurile lumii,
+Vine Domnul ca în vis
+Și mă scoate din abis,
+Din noapte și din furtună,
+La pace și la lumină;
+La Limanul mult dorit
+Să fiu veșnic fericit.
+
+[v3]
+Prin furtunile vieții
+Vâslesc și prin întuneric
+Căci vin zorii dimineții
+Și Cel ce-I Atotputernic.
+
+[c3]
+În mijlocu-ntunecimii,
+Poruncind mării, furtunii,
+Plin de har și de lumină
+Hristos Domnul E la cârmă.
+Cumplitele-amenințări;
+Suferinți, boli și dureri,
+La Cuvântul Său se-opresc
+Și toți vrăjmașii amuțesc!

@@ -1,0 +1,23 @@
+[title]
+Ia-ma doamne-asa cum sunt {author: {Chris}, {rcId: {4126}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Ia-mă Doamne-așa cum sunt
+Știu că n-am nimica bun
+Zi și noapte mă frământ
+Și printre suspine-Ți spun:
+
+[c]
+Sunt ca fiul cel pierdut
+Trist, murdar, flămând și mut
+Vin acasă-ntr-un târziu
+Să-ți fiu rob de nu-ți sunt fiu.
+
+[v2]
+Ceru-ntreg l-am întristat
+Când de-acasă am plecat
+Azi mă-ntorc ca un străin
+Și ’naintea Ta mă-nchin.

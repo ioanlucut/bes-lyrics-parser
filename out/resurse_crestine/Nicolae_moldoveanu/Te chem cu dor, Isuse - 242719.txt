@@ -1,0 +1,29 @@
+[title]
+Te chem cu dor isuse {author: {Nicolae Moldoveanu}, {rcId: {242719}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Te chem cu dor, Isuse,
+și-aștept răspunsul Tău,
+/: O, vin și ne ridică bis 2
+Din veacu-acesta rău! :/
+
+[v2]
+Cu toți ai Tăi din lume
+Acei ce Te-au primit
+/: Unesc cu ei chemarea: bis 2
+O, vin, lsus iubit! :/
+
+[v3]
+Povara suferinței
+Și dorul ca să vii,
+/: Îmi copleșesc ființa bis 2
+Și strig: să nu-ntârzii! :/
+
+[v4]
+Te chem, Te chem, Isuse,
+Și știu că vei veni;
+/: Te-aștept cu doru-n suflet
+În fiecare zi! :/

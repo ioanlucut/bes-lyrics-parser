@@ -1,0 +1,29 @@
+[title]
+Se duce viata ta {author: {Ilie Neagu}, {rcId: {86607}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+/: Se duce viața ta, omule, nu uita
+Mai e încă puțin: spre cer tu vei pleca :/
+
+[c]
+/: Tot ce aici ai adunat
+Ce ai trudit ce ai lucrat
+Totul se va spulbera
+Când de aicea vei pleca :/
+
+[v2]
+/: Se duce viața ta suflete iubit
+Cât din timpul tău Domnului ai slujit :/
+
+[v3]
+/: Se duce viața și ziua cea de mâine
+Nu mai e a ta, ce ai cui va rămâne ? :/
+
+[c2]
+/: Pe pământ ce ai adunat
+Într-o zi totul va arde
+Dar pentru cer ce ai făcut
+Răsplata îți va fi mare :/

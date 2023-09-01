@@ -1,0 +1,17 @@
+[title]
+Vino te cheama pastorul {author: {Bucuria copiilor}, {rcId: {5318}}
+
+[sequence]
+v1,v2
+
+[v1]
+/: Vino, te cheamă Păstorul, Păstorul
+Vino, până nu e noapte, te cheamă.
+Dacă-ți este foame, dacă-ți este sete,
+Până se mai poate, spune-I: vin. :/
+
+[v2]
+Vino, te cheamă Păstorul, Păstorul
+Vino, stai cu El la masă, te cheamă.
+Foamea-ți potolește, setea-ți domolește,
+Trupu-ți odihnește, spune-I: vin.

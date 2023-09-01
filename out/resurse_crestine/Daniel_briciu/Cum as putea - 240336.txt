@@ -1,0 +1,39 @@
+[title]
+Cum as putea {author: {Daniel Briciu}, {rcId: {240336}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c
+
+[v1]
+Cum aș putea să mă număr, o, Doamne
+Din cei ce se cheamă creștini?
+Să fiu ales printre cei ce te cheamă,
+Să pot fi și eu printre crini.
+
+[v2]
+Eu sunt străin, rămășiță de neamuri,
+Dar azi sunt de Tine primit,
+Căci mi-ai dat harul când ramuri tăiat-ai
+Și-n Viță am fost altoit.
+
+[c]
+/: Baruch Hashem Adonai :/
+Fie slăvit Numele Domnului,
+Baruch Hashem Adonai.
+/: Baruch Hashem Adonai :/
+Fie slăvit Numele Domnului,
+Baruch Hashem Adonai.
+
+[v3]
+Tu Ți-ai dat Fiul pe cruce să moară
+Ca mila Ta s-o înțeleg.
+Dragostea Ta e o sfântă comoară,
+Mai ’naltă ca cerul întreg.
+
+[v4]
+Ai dat perdeaua cea grea la o parte
+Să pot să Te văd în sfârșit,
+Să pot striga acum „
+AVA!”, „
+O, TATĂ!”
+Ca un copil preaiubit.

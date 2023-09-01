@@ -1,0 +1,29 @@
+[title]
+Avem in cer un tata {author: {Claudia Danciu}, {rcId: {6761}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Avem în cer un tată, un scump mântuitor
+Mereu grija ne-o poartă, e bun și ocrotitor
+/: Viața ne conduce în fiecare zi
+Păziți suntem de Domnul orișice-ar veni :/
+
+[v2]
+Noi suntem o familie, suntem un neam ales
+Avem origini sfinte și rădăcini cerești
+/: Iubirea Lui divină pe veci ne-a înfrățit
+Ne ține împreună, suntem nedespărțiți :/
+
+[v3]
+Frumos e viitorul spre care ne îndreptăm,
+Nădejdea și iubirea în suflet le purtăm
+/: Nebănuită slavă ne-așteaptă acolo sus
+Cununa veșniciei, răsplata lui Isus :/
+
+[v4]
+Frumoasă ne e viața și traiul cu folos
+Și pavăză ne este iubirea lui Hristos
+/: Mai mare fericire și har pe lume nu-i
+Decât să fi cu Domnul, să știi că ești al Lui :/

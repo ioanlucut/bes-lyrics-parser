@@ -1,0 +1,53 @@
+[title]
+Toamna {author: {Nicu Wagner}, {rcId: {61406}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Mi-aplec din nou urechea să înțeleg Cuvântul,
+Să ascult ce spune polaia și-apoi ce spune vântul,
+Și dezlegându-mi mintea de gândurile rele,
+Să înțeleg mesajul covorului de stele.
+
+[c]
+Din nopțile de vară cu miez de viață nouă,
+Cu dimineți frumoase parcă scăldate-n rouă,
+Când vântul care sulfă din ce în ce mai rece
+Îmi spune parcă-n taină căci vara iarăși trece.
+
+[v2]
+Prin vâjâitul parcă din ce în ce mai tare
+Îmi amintește vântul căci vine gerul mare
+Ce stinge picătură de viață din natură
+Și va schimba pământul cu-ntreaga lui făptură.
+
+[c2]
+Însă între arșița din zilele de vară
+Și iarna-n care totul parcă-i sortit să moară,
+Există o toamnă lungă atât de minunată,
+Ca o speranță-n lume de Dumnezeu lăsată.
+
+[v3]
+Toamna vei culege doar rodul mincii tale
+Cu plâns de bucurie sau lacrimi mari de jale,
+Căci toamna-i foarte dreaptă, ea este rea sau bună,
+Știind că omul toamna ce-a semănat adună.
+
+[c3]
+Cei mulți, cuprinși de groază, privesc bolta pustie
+Căci s-au trezit la lucru-ntr-o vreme prea târzie.
+Ai ochii plini de lacrimi și inima amară
+Privind la vremi pierdute din zilele de vară.
+
+[v4]
+Mi-aplec din nou urechea să înțeleg Cuvântul,
+Să ascult ce spune ploaia și-apoi ce spune vântul.
+Și dezlegându-mi mintea de gândurile rele,
+Să înțeleg mesajul covorului de stele.
+
+[c4]
+/: Ți-ai pus vreodată-n taină mareața întrebare,
+În toamna sufletească ce aduni tu în hambare?
+Căci universul are o lege neschimbată-
+Ce semeni vei culege în toamna ce te-așteaptă. :/

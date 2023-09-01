@@ -1,0 +1,33 @@
+[title]
+Te cheama dumnezeu {author: {Gabi_Ilut}, {rcId: {241270}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+E minunat să trăiești, e minunat să iubești;
+Tainic în miez de noapte,
+Te îndeamnă a Duhului șoapte:
+Domnului să-I vorbești!
+
+[c]
+Am văzut cerul în sărbătoare;
+Bucurie și cântec, cum nu sunt pe pământ!
+Cerul întreg se îmbracă în splendoare
+Pentru cel păcătos, când se întoarce plângând!
+Am văzut oști divine de îngeri;
+Sărbătoare a fost când m-am întors și eu!
+Te așteaptă la fel și pe tine!
+Te așteaptă. te cheamă Dumnezeu!
+
+[v2]
+E minunat să găsești, e minunat să-I vorbești,
+Domnul stă și ascultă;
+Vina toată ți-o ia, chiar de-i multă;
+Poți liber să trăiești!
+
+[e]
+În cer e sărbătoare când omul păcătos:
+Se întoarce din pierzare, se întoarce la Cristos!
+În cer e sărbătoare, al îngerilor cânt
+Se aude jos pe pământ!

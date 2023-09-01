@@ -1,0 +1,27 @@
+[title]
+Te rog doamne {author: {Florin Jula}, {rcId: {109055}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Azi către Tine-mi îndrept privirea,
+Ascultă-mi ruga ce-o-ndrept spre Tine!
+Fă să străbată cerul cu stele,
+Și să ajungă la Tine-n Slavă!
+
+[c]
+Te rog, o, Doamne întinde-Ți mâna
+Și liniștește din nou furtuna!
+
+[v2]
+Așa cum Moise spre Tine strigă,
+Când poporul se răzvrătește;
+Domnul din Slavă cel plin de milă,
+De Moise-ascultă și-l izbăvește.
+
+[v3]
+Fă să-nțeleagă întreg poporul
+Că ești puternic și plin de milă!
+Al Tău Cuvânt Sfânt rămâne-n veci de veci,
+În Cer, în Slavă și pe Pământ!

@@ -1,0 +1,35 @@
+[title]
+Sa ne rugam fratilor {author: {Violeta}, {rcId: {90299}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+/: Să ne rugăm fraților :/
+Să ne dea El iertare!
+
+[c]
+Vino Isus, mai vino,
+Vino în adunare!
+Vino Isus, mai vino,
+Dă-ne la toți iertare!
+
+[v2]
+/: Să ne rugăm fraților :/
+Să lase Domnul pacea!
+
+[c2]
+/: Vino Isus, mai vino,
+Vino în adunare!
+Vino Isus, cu pacea
+Treci pe la fiecare! :/
+
+[v3]
+/: Să ne rugăm fraților :/
+Să lase Domnul Harul!
+
+[c3]
+/: Vino, Isus, cu Harul,
+Vino în adunare!
+Umple-ți de Duh Sfânt frații,
+Treci pe la fiecare! :/

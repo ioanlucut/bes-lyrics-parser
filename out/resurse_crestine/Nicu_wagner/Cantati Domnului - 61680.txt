@@ -1,0 +1,29 @@
+[title]
+Cantati domnului {author: {Nicu Wagner}, {rcId: {61680}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cântați Domnului o cântare mai nouă
+Că El a făcut lucruri mari pentru noi.
+Tot El a-mpărțit vremurile în două,
+Prin Domnul Isus cu-al Său sfânt legământ.
+
+[c]
+El și-a arătat mântuirea slăvită,
+Dreptatea eternă și-a descoperit;
+La margini de lume azi este vestită
+Salvarea, ce-n Domnul Isus a venit.
+
+[v2]
+Strigați către Domnul dar, cu bucurie,
+Toți locuitorii de pe acest pământ.
+Cântați laude, imne de veselie,
+Cu harfa iubirii, al cerului cânt.
+
+[v3]
+Să urle chiar marea prin valuri și vânturi
+Și râuri să bată din palme zglobii.
+Să strige și munții, ’nainte-I, prin cânturi
+El, Judecătorul, curând va veni.

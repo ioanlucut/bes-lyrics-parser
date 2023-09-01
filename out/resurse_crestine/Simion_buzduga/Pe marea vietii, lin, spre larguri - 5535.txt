@@ -1,0 +1,35 @@
+[title]
+Pe marea vietii lin spre larguri {author: {Simion Buzduga}, {rcId: {5535}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Pe marea vieții, lin, spre larguri
+A voastră barcă s-a lansat
+Cu țintă înspre sfinte țărmuri,
+Spre raiul sfânt și minunat.
+
+[c]
+/: Conducător în barca voastră nouă
+S-aveți pe Domnul Isus ne’ncetat!
+El singur poate să v-aducă vouă
+Victorie spre Portul așteptat. :/
+
+[v2]
+Pe-oceanul vieții, se ridică
+Atâtea valuri și furtuni!
+Orice-ar veni, să n-aveți frică,
+Vă va scăpa ca prin minuni!
+
+[v3]
+Curând la orizont în zare
+O să zăriți un țărm sublim;
+Veți ancora, în sărbătoare,
+Curând sus în Ierusalim.
+
+[v4]
+Catargul vostru să se lase
+Sub călăuza Domnului!
+N-o să ciocnească alte vase,
+Nici stâncile oceanului.

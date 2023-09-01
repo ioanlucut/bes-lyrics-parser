@@ -1,0 +1,39 @@
+[title]
+Sunt un pribeag calator {author: {Anonim}, {rcId: {3982}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Sunt un pribeag călător, nimic în lume
+Vreau Doamne Sfânt a Ta iubire,
+Azi, de Crăciun, dă-mi Doamne viața prin viața Ta.
+Vreau dragoste din belșug și bucurie
+Dă-mi pacea Ta și fericire,
+Nu mă lăsa, ia-mă cu Tine în Patria Ta.
+
+[c]
+/: O, Doamne, vin’ mai degrab’ în al meu suflet
+Condu-mă Tu în al meu umblet,
+Fii preamărit în veșnicie, Doamne Dumnezeu.
+Fă-mi inima Betleem, unde Te naști azi
+Să mă închin cu lacrimi pe-obraji
+Să mă smeresc și să-Ți dau slavă
+Veșnic Domnul meu. :/
+
+[v2]
+Alfa, Omega Tu ești, iubit Părinte
+La vocea Ta voi lua aminte
+Căci viața mea este pierdută fără Mâna Ta.
+Tu ai venit pe pământ sărac și singur,
+Plin de Duh Sfânt vestind Cuvântul,
+Te naști din nou, Tu ești prea sfântul Isus, Mesia.
+
+[v3]
+Din cerul sfânt ai venit la noi, în lume
+Să ne aduci doar mântuire
+Sunt copleșit de-a Ta iubire, Isus, Domnul meu.
+În veșnicii vom cânta în cor de îngeri,
+Dragostea Ta ce ne cuprinde,
+Și ne dă har și mângâiere
+Prin Cuvântul Tău.

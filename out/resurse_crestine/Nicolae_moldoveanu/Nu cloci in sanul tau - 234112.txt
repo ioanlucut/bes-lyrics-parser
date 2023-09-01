@@ -1,0 +1,24 @@
+[title]
+Nu cloci in sanul tau {author: {Nicolae Moldoveanu}, {rcId: {234112}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Nu cloci în sânul tău oul gândului cel rău,
+că-n curând îți scoate pui, fapte cât nu poți să spui.
+
+[c]
+Veghează, veghează!
+
+[v2]
+Tu sporește-ți necurmat floarea gândului curat,
+ce rodește fericit rodul faptelor, sfințit.
+
+[v3]
+Orișicând să te ferești între răi să locuiești.
+Cine stă-ntre lupi, curând, urlă ca și ei, la rând.
+
+[v4]
+Fie-ți gândul tău în sus la preadulcele Isus,
+să-nveți din al Lui Cuvânt, cum să umbli pe Pământ.

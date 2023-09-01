@@ -1,0 +1,27 @@
+[title]
+Sa mergi pe calea ingusta {author: {Grupul Nathanael}, {rcId: {168903}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Să mergi pe calea îngustă ce duce la Hristos
+Chiar dacă-i greu în luptă, vei fi victorios
+El te va lua de mână când vei fi încercat
+Și îți va da lumină să vezi tot ce-i păcat
+
+[c]
+/: Luptă-te, luptă-te ajutorul e la Dumnezeu
+Luptă-te, luptă-te, te încrede-n brațul Său mereu:\
+
+[v2]
+Pe calea-acesta-ngustă nu-s pofte nici plăceri
+E numai bucurie, din Duhul Sfânt puteri
+E pace și iubire, e dargoste prin El
+Pe ea-i neprihănirea e calea către cer
+
+[v3]
+Pe cale și-ncercarea te face tot mai bun
+În vremea strâmtorării să poți să stai pe turn
+Să biruiești ispita și planul Celui Rău
+Aceasta este calea spre cer, spre Dumnezeu

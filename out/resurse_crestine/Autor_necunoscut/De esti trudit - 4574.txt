@@ -1,0 +1,28 @@
+[title]
+De esti trudit {author: {Anonim}, {rcId: {4574}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+De ești trudit și ți-e grea povoara
+Nu vrei chiar astăzi să te ridici?
+Iată, e clipa hotărâtoare,
+Trece Isus pe-aici.
+
+[c]
+/: Trece Isus pe-aici :/
+Cheamă-L și cere-I îndurare
+Trece Isus pe-aici.
+
+[v2]
+Vei refuza marea Sa iubire,
+Sau vei veni după har să strigi?
+Iată că alții găsesc salvarea,
+Trece Isus pe-aici.
+
+[v3]
+Ce vrei să-ți fac? Azi Isus întreabă
+A auzit tristul tău oftat,
+Vino și spune-I ce griji te-apasă
+Să fii eliberat.

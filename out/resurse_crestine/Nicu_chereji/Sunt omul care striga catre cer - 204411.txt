@@ -1,0 +1,31 @@
+[title]
+Sunt omul care striga catre cer {author: {Nicu Chereji}, {rcId: {204411}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Sunt omul care strigă către cer,
+Sunt păcătos Isus nu vreau să pier
+/: Cu fața-nlăcrimată și inima predată
+Te rog Isuse dragă să mă ierți, : \
+
+[v2]
+Sunt omul care plânge neîncetat
+Mă-ntorc la Tin’ Isus cu-adevărat
+/: Un pumn sânt de tărnă, întinde-mi a Ta mână
+Și tuturor să spun că m-ai iertat. : \
+
+[v3]
+Eu sânt acel ce Te-a străpuns pe lemn
+Atunci când nu voiam să Te-nțeleg
+/: Că Tu ești Salvatorul, Isus Mântuitorul
+Oricărui om de-aici de pe Pământ: \
+
+[v4]
+Te laud Domnul meu că m-ai iubit
+Din cerul Tău preasfânt m-ai auzit,
+Te-ai îndurat de mine, în lacrimi și suspine
+În mila Ta cea mare m-ai cuprins
+/: Nu mai privesc în urmă că Tu m-ai pus în turmă,
+Să te urmez de dragoste aprins: \

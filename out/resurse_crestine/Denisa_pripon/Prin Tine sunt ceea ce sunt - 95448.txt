@@ -1,0 +1,27 @@
+[title]
+Prin tine sunt ceea ce sunt {author: {Denisa Pripon}, {rcId: {95448}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+La Tine vin, Ție mă închin
+Ești viața mea, bucuria mea
+
+[c]
+/: Prin Tine sunt ceea ce sunt
+Și-Ți mulțumesc
+Ești Domnul meu cel Minunat
+Tată ceresc
+Viața întreagă Ți-am predat
+E-n mâna Ta
+Ești sfânt, Ești divin
+Ție mă închin :/
+
+[v2]
+Ajută-mă voia Ta să fac
+Ființa mea să-Ți fie mereu pe plac
+
+[v3]
+Rămâi mereu, a mea fericire
+Iar glasul meu, să-Ți cânte doar Ție.

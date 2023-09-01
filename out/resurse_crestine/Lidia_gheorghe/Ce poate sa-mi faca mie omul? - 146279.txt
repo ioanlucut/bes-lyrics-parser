@@ -1,0 +1,29 @@
+[title]
+Ce poate sa-mi faca mie omul? {author: {Lidia Gheorghe}, {rcId: {146279}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ce poate să-mi facă mie omul,
+Când eu sunt cu Dumnezeu?
+Când El este Atotputernic,
+Și este Tatăl meu.
+
+[c]
+Ce părinte-ar fi
+Să dorească rău,
+În orice ar fi
+Copilului său?
+
+[v2]
+Suntem fii de-mpărat,
+Prinți și prințese.
+El ne iubește-așa curat
+Nicând nu ne lasă.
+
+[v3]
+El este Alfa și Omega.
+Este pacea mea.
+E începutul și sfârșitul
+Pentru casa mea.

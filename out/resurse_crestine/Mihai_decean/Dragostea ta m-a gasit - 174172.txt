@@ -1,0 +1,44 @@
+[title]
+Dragostea ta m-a gasit {author: {Mihai Decean}, {rcId: {174172}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Dragostea Ta m-a gasit
+Cand singur eram
+Viata mi-ai schimbat
+Trecutul meu Tu l-ai iertat
+Mi-ai umplut inima cu pace
+Ochii mei au vazut slava Ta
+Blestemul l-ai rupt din viata mea
+Si liber traiesc prin mila Ta
+Cu tot ce am iti voi canta
+
+[c]
+Isus este numele Lui
+Isus in locul meu a murit
+[Isus viata noua am primit]
+Zi de zi traiesc prin puterea Sa
+Salvatorul meu, Emanuel
+Isus este numele Lui
+Isus in locul meu a murit
+Zi de zi traiesc prin puterea Sa
+Salvatorul meu, Emanuel
+
+[v2]
+Dragostea Ta m-a gasit
+Cand singur eram
+Viata mi-ai schimbat
+Trecutul meu Tu l-ai iertat
+Mi-ai umplut inima
+Ma ridic in prezenta Ta
+Si pasesc in lumina Ta
+Credincios ramai nu ma vei lasa
+Ma-nconjori pe veci cu iubirea Ta
+
+[e]
+Ma ridic in prezenta Ta
+Si pasesc in lumina Ta
+Credincios ramai nu ma vei lasa
+Ma-nconjori pe veci cu iubirea Ta

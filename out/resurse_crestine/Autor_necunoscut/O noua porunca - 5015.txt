@@ -1,0 +1,17 @@
+[title]
+O noua porunca {author: {Anonim}, {rcId: {5015}}
+
+[sequence]
+v1,v2
+
+[v1]
+/: O nouă poruncă
+Eu vouă vă dau:
+Să vă iubiți unii pe alții
+Cum Eu v-am iubit. :/
+
+[v2]
+/: Așa vă vor cunoaște
+Ca pe ucenicii Mei:
+Când voi vă iubiți
+Unii pe alții. :/

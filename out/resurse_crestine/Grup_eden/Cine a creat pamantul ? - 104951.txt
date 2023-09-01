@@ -1,0 +1,29 @@
+[title]
+Cine a creat pamantul ? {author: {Grup Eden}, {rcId: {104951}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cine a creat pământul și-a lui Univers ?
+Dumnezeul nostru, sfântul Tată!
+Cine stabilește cu strictețe al sau mers ?
+Dumnezeul nostru, sfântul Tată!
+
+[c]
+/: El e Creatorul nostru, Marele-mpărat
+El ne-a dat și văzul și vorbirea
+El a pus în noi valori de neimaginat
+A Lui să fie slavă și mărirea. :/
+
+[v2]
+Cine cârmuiește viitorul omenesc ?
+Dumnezeul nostru, sfântul Tată!
+Cine dă poruncă și chiar toate se-mplinesc ?
+Dumnezeul nostru, sfântul Tată!
+
+[v3]
+Cine-ți da și ție viață, numai s-o dorești ?
+Dumnezeul nostru, sfântul Tată!
+Cine te invită astăzi să te pocăiești ?
+Dumnezeul nostru, sfântul Tată!

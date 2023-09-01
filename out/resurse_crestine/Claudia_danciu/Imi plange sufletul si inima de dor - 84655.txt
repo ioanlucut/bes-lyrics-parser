@@ -1,0 +1,35 @@
+[title]
+Imi plange sufletul si inima de dor {author: {Claudia Danciu}, {rcId: {84655}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Îmi plânge sufletul și inima de dor,
+Privesc spre cer, dincolo de nor,
+Te-aștept să vii în orice ceas, în orice zi,
+În diminețile sau serile târzii.
+
+[c]
+/: Mi-e dor, mi-e dor,
+De Tine mi-e dor.. :/
+
+[v2]
+Aș vrea să plec să uit de toate și de chin,
+Să părăsesc tot ce-i zadarnic și străin,
+Să-mi ștergi și lacrima și plânsul de pe-obraz,
+Dar răbdătoare te-aștept în prag.
+
+[c2]
+/: Te-aștept, Isus,
+Cu dor nespus.. :/
+
+[v3]
+Te chem să vii - cu gene-nrourate,
+În rugăciunea inimii curate,
+Și copleșit de-al veșniciei dor,
+Privesc spre cer dincolo de nor.
+
+[c3]
+/: Mi-e dor, mi-e dor,
+De Tine mi-e dor.. :/

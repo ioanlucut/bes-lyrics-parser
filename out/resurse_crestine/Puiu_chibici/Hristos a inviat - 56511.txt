@@ -1,0 +1,35 @@
+[title]
+Hristos a inviat {author: {Puiu Chibici}, {rcId: {56511}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Tu n-ai cum ști ce-i Dolorosa,
+Nici crucea ce grea e de dus,
+N-ai cum să ști ce e Golgota,
+Tu n-ai răbdat ca și Isus!
+
+[c]
+Ce simți când spui: Hristos a înviat!
+Ce-nseamnă-acest salut te-ai intrebat?
+Ce simți când spui: E viu e-adevărat!
+E sărbătoare azi... Hristos a înviat!
+
+[v2]
+Tu n-ai fost osândit la moarte,
+Pentru al altora păcat,
+Ce simți tu soră, ce simți frate,
+Când spui: Hristos a înviat!
+
+[v3]
+De-ai ști ce grea-i crucificarea,
+Să mori când ești nevinovat,
+Ți s-ar opri chiar răsuflarea,
+Când zici: Hristos a înviat!
+
+[v4]
+Acum Isus e-n strălucire,
+E rege sfânt, e împărat,
+Nu-ți este dor de-a Lui venire,
+Când spui: Hristos a înviat!?

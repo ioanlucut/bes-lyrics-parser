@@ -1,0 +1,43 @@
+[title]
+Locas ceresc eu am aflat {author: {John R. Sweney}, {rcId: {5742}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Locas ceresc eu am aflat;
+Prin Isus mi l-am castigat...
+Acolo, vesnic este zi;
+Acolo, noapte nu va fi...
+
+[c]
+O, sfant locas, al meu salas,
+La tarmul tau, ma aflu eu;
+Privesc ’nainte peste mari:
+Oras frumos zaresc in zari,
+Cu strazi de aur ce nu trec...
+E tara mea spre care merg.
+
+[v2]
+Eu sunt condus de-al meu Isus
+Si fericit ma simt, nespus...
+Ma duce mana Sa - nu pier -
+Prin locuri sfinte, catre cer.
+
+[v3]
+Acolo pomii infloresc,
+Parfumul lor ei raspandesc
+Si apele acolo-s vii
+Si floricele pe campii.
+
+[v4]
+Acolo vantul sufla lin,
+Nu se aude nici suspin;
+Doar ingerii canta in cor
+Ca Isus e Mantuitor.
+
+[v5]
+Si eu, acolo, cand voi fi,
+Cu mantuitii voi slavi
+Pe-al meu iubit Mantuitor
+Si scumpul meu Izbavitor.

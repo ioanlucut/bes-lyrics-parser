@@ -1,0 +1,35 @@
+[title]
+Singuratati {author: {Nicolae Moldoveanu}, {rcId: {244100}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Singurătăți și-ndepărtări,
+Mă-nchid ca-ntr-o cetate,
+Și-adesea printre negre zări,
+Nici gândul nu-mi străbate!
+Dar când la Tune Doamne vin,
+Ușor mi-e totul și senin,
+Tu-mi schimbi în binecuvântări
+Singurătăți și-ndepărtări!
+
+[v2]
+Dezamăgiri și-ndurerări,
+Mă ard și mă sfâșie,
+Și-n toate cele patru zări,
+Văd numai vijelie.
+Dar când spre Tine Doamne vin
+Mi-e pașnic totul și senin.
+Tu-mi schimbi în binecuvântări
+Dezamăgiri și-ndurerări.
+
+[v3]
+Neliniștiri și-amenințări,
+Mă-nconjor ca o mare,
+Și cât privesc în depărtări,
+Nu văd nici o scăpare.
+Dar când spre Tine Doamne vin
+Frumos văd totul și senin,
+Tu-mi schimbi în binecuvântări,
+Neliniștiri și-amenințări.

@@ -1,0 +1,35 @@
+[title]
+Ce bine e cu isus in orice moment din zi {author: {Neiconi Nutzy}, {rcId: {4849}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Ce bine e cu Isus
+În orice moment din zi!
+Ce bine e cu Isus,
+El e calea vieții.
+Ce bine e cu Isus,
+El umple al meu suflet gol.
+Ce bine e cu Isus,
+El împlinește al meu dor.
+
+[v2]
+Ce bine e cu Isus
+În orice moment din zi!
+Ce bine e cu Isus,
+El e calea vieții.
+Ce bine e cu Isus,
+El umple al meu suflet gol.
+Ce bine e cu Isus,
+El împlinește al meu dor.
+
+[v3]
+Ce bine e cu Isus
+În orice moment din zi!
+Ce bine e cu Isus,
+El e calea vieții.
+Ce bine e cu Isus,
+El umple al meu suflet gol.
+Ce bine e cu Isus,
+El împlinește al meu dor.

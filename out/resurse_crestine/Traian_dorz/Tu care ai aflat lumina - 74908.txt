@@ -1,0 +1,30 @@
+[title]
+Tu care ai aflat lumina {author: {Traian  Dorz}, {rcId: {74908}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Tu, care-ai aflat lumina fericitei căi,
+Zboară-n valurile lumii, scapă-ți frații tăi!
+/: Nu lăsa să se-odihnească trupul tău nicicând,
+Spune-le de moartea care va veni curând! :/
+
+[v2]
+Spune-le de Judecata care va veni,
+De osânda și pierzarea ce-o vor însoți!
+/: Spune-le de-Acela singur Care i-ar scăpa,
+Spune-le să-L cheme astăzi, pân-vor mai putea :/
+
+[v3]
+Spune-le cu lacrimi, strigă-i, ține-te de toți,
+Roagă-i, ei se duc la moarte, nu-i lăsa, cât poți!
+/: Știi că-a mântuirii haruri ție ți s-au dat
+Și pentru-a-ajuta să scape alții din păcat? :/
+
+[v4]
+Cum cauți tu a lor salvare de pe-a morții căi?
+Ce vei spune la-ntrebarea: ”
+Unde-s frații tăi?”
+/: Tu, care-ai aflat lumina fericitei căi,
+Zboară-n valurile lumii, scapă-ți frații tăi! :/

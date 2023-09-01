@@ -1,0 +1,38 @@
+[title]
+A batut un calator la al inimii pridvor {author: {Ovidiu Berghian}, {rcId: {239891}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,e
+
+[v1]
+A bătut un călător la al inimii pridvor,
+La al inimii pridvor sângerau pe frunte spinii
+Când lovind sub cruce străinii
+Îl plângeau în vale crinii, c-un fior.
+
+[c]
+/: Ai bătut și din suspin mi‑ai schimbat cer în alin
+Stea de cântec preacurată floare albă, nepătată
+Viața mea din har spălată, Ți-o închin. :/
+
+[v2]
+A bătut și c-un oftat cerul lumii s-a înnoptat
+Eli Lama Sabactani
+Se frângeau în crâng castanii
+Și trecând pierduți toți anii, l-am uitat.
+
+[v3]
+A bătut Cel veșnic sfânt și căzut‑am la pământ
+Când Maria într‑o grădină
+Printre îngeri de lumină
+Celui Viu I se închină, la mormânt.
+
+[v4]
+Ai bătut și din pridvor ușa inimii cu dor
+Ți‑am deschis în plâns Stăpâne
+Când în praf și din rușine
+Am strigat pierdut spre Tine: ajutor!
+
+[e]
+/: Și astăzi El bate la inima ta,
+La inima ta, la inima ta. :/

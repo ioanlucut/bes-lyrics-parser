@@ -1,0 +1,31 @@
+[title]
+Prima oara cand te-am cunoscut {author: {Lidia Gheorghe}, {rcId: {109407}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Prima oară când Te-am cunoscut,
+Mi-ai șoptit un cuvânt, n-am să-l uit:
+
+[c]
+Suflete drag, de ce?
+Mai amâni și azi, de ce?
+Isus te iubește!
+Întoarce-te!
+
+[v2]
+Acest cuvânt, mult m-a răscolit.
+Am privit înapoi, bun n-am găsit.
+
+[v3]
+Cercetare adâncă mi-am făcut,
+Hotărâri noi, pe loc am luat.
+
+[v4]
+Legămintul în apă l-am luat,
+Cu puteri în Duh Sfânt, M-a îmbrăcat.
+
+[v5]
+Vino și tu, prietenul meu!
+Să afli pacea în Dumnezeu.

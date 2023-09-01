@@ -1,0 +1,47 @@
+[title]
+Eu sunt pastorul {author: {Remus Tămășan Cristi}, {rcId: {155901}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Eu sunt Păstorul cel bun
+Și tuturor spun
+Veniți la Mine
+Eu cu drag vă primesc
+Și vă mântuiesc
+Veniți la Mine.
+
+[c]
+Eu sunt Isus
+Cel ce moartea a răpus
+Fiul lui Dumnezeu
+Mântuitorul
+Eu sunt Mesia
+Mielul ce-a fost înjunghiat
+Eu din morți am înviat
+Sunt Salvatorul.
+/: Eu sunt Isus
+Cel ce moartea a răpus
+Fiul lui Dumnezeu
+Mântuitorul
+Eu sunt Mesia
+Mielul ce-a fost înjunghiat
+Eu din morți am înviat
+Sunt Salvatorul. :/
+
+[v2]
+Eu viața mi-am dăruit
+Și am pătimit
+Pentru tine
+Azi eu te chem, dragul meu
+Vino la Dumnezeu
+Vino la Mine.
+
+[v3]
+În Cer loc ți-am pregătit
+Să fi fericit
+Lângă Mine
+Veșnic te vei bucura
+Căci Eu voi veghea
+Lângă tine.

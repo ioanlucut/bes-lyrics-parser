@@ -1,0 +1,17 @@
+[title]
+Cantarea harului {author: {Nicolae Moldoveanu}, {rcId: {186820}}
+
+[sequence]
+v1,v2
+
+[v1]
+Cântarea Harului aprins
+E cea mai dulce din cântări,
+/: E Ceru-ntreg în ea cuprins,
+Cu veci de binecuvântări. :/
+
+[v2]
+Ferice-acel ce va cânta
+Sublimele ei armonii,
+/: Căci de-i aprins acum de ea,
+Va arde-așa și-n veșnicii! :/

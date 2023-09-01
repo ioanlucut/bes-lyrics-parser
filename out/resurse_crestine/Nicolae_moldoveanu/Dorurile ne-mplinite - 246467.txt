@@ -1,0 +1,30 @@
+[title]
+Dorurile ne-mplinite {author: {Nicolae Moldoveanu}, {rcId: {246467}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Dorurile ne-mplinite
+Pân-Ia moarte scumpe sunt,
+/: Culmi
+Ie nedobândite
+Le tânjim pân-la mormânt. :/
+
+[v2]
+Orișice dorință-atinsă
+E un paradis sfârșit,
+/: Orice năzuință-nvinsă
+E un munte depășit. :/
+
+[v3]
+Trecător și slab ca spuma-i
+Tot ce-i cucerit și-nvins,
+/: Minunat rămâne numai
+Țelul încă neatins. :/
+
+[v4]
+Scump să ai pe veci în față
+Pe Hristos-Feeric Țel:
+/: Va sfinți întreaga-ți viață,
+- Luptă să te-nalți spre El. :/

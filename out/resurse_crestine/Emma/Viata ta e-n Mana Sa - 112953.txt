@@ -1,0 +1,33 @@
+[title]
+Viata ta e-n mana sa {author: {Emma}, {rcId: {112953}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Poate nori s-au adunat
+Ești de grijuri apăsat
+Poate soare nu mai vezi
+Și nu știi ce să mai crezi
+Privește-n sus, doar la Isus!
+
+[c]
+Astăzi, ieri, și-n veci la fel
+E Isus Hristos, Domnul Dumnezeu
+Viața ta e-n mâna Sa
+Ești săpat în ea, sus la Golgota!
+
+[v2]
+Cel ce mișcă Galaxii
+Crește grâul din câmpii
+Ploi și tunete răspund
+La Cuvântu-I de temut
+E Dumnezeu, e Tatăl tău.
+
+[v3]
+El promite în Cuvânt
+”
+Nu te voi lăsa nicicând”
+Munții de s-or clătina
+Domnul e de partea ta!
+Dă-I laudă-acum, căci Domnu-I bun!

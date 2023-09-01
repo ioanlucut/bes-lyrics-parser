@@ -1,0 +1,21 @@
+[title]
+Celui cu viata grea {author: {Traian Dorz}, {rcId: {74071}}
+
+[sequence]
+v1,v2,c
+
+[v1]
+Celui cu viața grea, Doamne, fă-i moartea ușoară;
+celui pus în foc să stea, Doamne, ia-i altă povară!
+Celui căruia-i cer toți, Doamne, fă-l să poată duce;
+celui fără loc și soți, Doamne, nu-i da altă cruce!
+
+[v2]
+Celui care iartă tot, Doamne, iartă-i-le toate;
+celor ce nimic nu pot, Doamne, milostiv socoate!
+Celui ce măsoară plin, Doamne, dă-i cu nemăsură;
+celuia cu prea puțin, Dumnezeule, Te-ndură!
+
+[c]
+Doamne, Tu ești Cel ce știi tot ascunsul din aceste,
+Tu, Cel Drept, în veci să fii fiecăruia cum este!

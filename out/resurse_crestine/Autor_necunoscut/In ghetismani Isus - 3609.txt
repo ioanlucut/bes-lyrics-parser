@@ -1,0 +1,29 @@
+[title]
+In ghetismani isus {author: {Anonim}, {rcId: {3609}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În Ghetismani, Isus,
+În noapte-ngenuncheat,
+Se luptă-n chin nespus
+Și strigă-ndurerat.
+
+[c]
+/: Tată, paharul e amar
+/: Cât de amar :/
+Dacă se poate să nu-l beau
+Totuși nu cum Eu vreau. :/
+
+[v2]
+Paharul de venin
+Nu e îndepărtat
+Așa cum este plin
+La gură e purtat.
+
+[v3]
+Și iată Domnul bea
+Paharul de venin
+Să mântuie El vrea
+Pe om din orice chin.

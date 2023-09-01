@@ -1,0 +1,30 @@
+[title]
+Adanc dorim {author: {Nicolae Moldoveanu}, {rcId: {242624}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Adânc dorim, să-Ți împlinim
+O, Doamne toată voia Ta,
+/: Slăvitu-Ți Glas, în orice ceas,
+Ajută-ne a-I asculta! :/
+
+[v2]
+Cu Duhul Sfânt, pe-acest pământ,
+Să ne conduci pe drumul Tău,
+/: Descoperind, și biruind,
+Îndemnurile celui rău! :/
+
+[v3]
+Stăruitori și roditori,
+În lucrul Tău să fim mereu,
+/: ’
+Nălțând cu drag, frumosul steag,
+Ne-mpiedicați de nici un greu! :/
+
+[v4]
+Ca la sfârșit, mai strălucit,
+Cu toții să-Ți putem cânta
+Când Tu măreț, a noastre vieți,
+Cu har le vei încununa!

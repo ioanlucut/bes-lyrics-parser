@@ -1,0 +1,40 @@
+[title]
+Ma apropii {author: {Benone Rus}, {rcId: {75314}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+M-apropii de Tine acum
+Și-ating tronul Tău,
+Plin de speranță și cântec doresc
+Să-ți spun dorul meu.
+Sunt ostenit de-așteptare și dor
+De cântec și chin,
+A Ta-ndurare aștept s-o primesc,
+Părinte divin.
+
+[c]
+Și fața Ta o privesc
+Cu-n zâmbet senin,
+Rostește-un cuvânt minunat, te rog!..
+Să-mi fie alin.
+
+[v2]
+Plin de-ndoială între suspine mă zbat,
+Nu știu planul Tău,
+Rămână-mi gândul și pasul curat
+Când drumul e greu.
+Nu vreau nicicum să te las ca să pleci
+Chiar dacă-i târziu,
+O mână caldă pe creștet să-mi treci,
+Eu sunt al Tău fiu.
+
+[e]
+/: Și Fața Ta o privesc,
+Fața Ta o privesc, o privesc
+Fața Ta o privesc. o privesc :/ x 3
+Eu o privesc, o, da.
+Fața Ta o privesc,
+Fața Ta o privesc,
+Eu o privesc, o, da.

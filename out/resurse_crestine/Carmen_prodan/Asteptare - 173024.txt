@@ -1,0 +1,37 @@
+[title]
+Asteptare {author: {Carmen Prodan}, {rcId: {173024}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Te-așteaptă-al Tău popor din valea plângerii,
+Să vii și să ne iei Acasă,
+Privind mereu spre cer cu dor noi așteptăm
+Să vină ziua glorioasă.
+
+[c]
+O, Doamne, vino mai curând,
+Ca să scăpăm de-acest Pământ
+Pe care-adeseori cu lacrimi l-am stropit!
+O, Doamne, du-ne-n țara Ta,
+Acolo-n veci ne-om bucura,
+O, Doamne, vino, vino, Te-așteptăm!
+
+[v2]
+Te-așteaptă cei bolnavi ca orbul Bartimeu,
+Să-i chemi cu dragoste pe nume,
+Căci la al Tău Cuvânt pe veci ei vor scăpa
+De boală, lacrimi si suspine.
+
+[v3]
+Te-așteaptă cei flămânzi și toți acei sărmani
+Ce-au cunoscut în lume sărăcia,
+Dar Tu, o, scump Isus, esti totul pentru ei,
+Te-așteaptă ca să vii, Mesia!
+
+[v4]
+Cu toții Te-așteptăm, o, Mire minunat,
+Privind spre zările senine!
+O, vino, Te rugam, Isuse, Te-așteptăm,
+Ne este-așa de dor de Tine!

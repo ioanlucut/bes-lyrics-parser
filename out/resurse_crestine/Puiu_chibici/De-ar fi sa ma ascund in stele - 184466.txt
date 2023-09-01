@@ -1,0 +1,29 @@
+[title]
+De-ar fi sa ma ascund in stele {author: {Puiu Chibici}, {rcId: {184466}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+De-ar fi să mă ascund în stele
+Și-n infinit de-aș înnopta,
+De-aș locui sus între ele,
+De urmă nimeni nu mi-ar da.
+
+[c]
+/: De-ar fi să zbor printre planete
+Și aripi de raze de-aș lua,
+Nu aș putea nicicând, o, Doamne,
+Să mă ascund de fața Ta! :/
+
+[v2]
+De-ar fi să stau pe fundul mării
+Pierdut în adânc, pe undeva,
+De-ar fi s-alerg în largul zării
+Sau în pământ pitit de-aș sta.
+
+[v3]
+N-aș fi lipsit de-a Ta prezență
+Oriunde, Doamne, aș pleca.
+Tu știi de a mea existență
+Și pe-al meu braț ești umbra mea!

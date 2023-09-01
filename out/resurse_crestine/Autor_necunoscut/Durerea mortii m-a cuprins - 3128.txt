@@ -1,0 +1,28 @@
+[title]
+Durerea mortii m-a cuprins {author: {Anonim}, {rcId: {3128}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Durerea morții m-a cuprins
+În fața Lui am plâns;
+Venind Isus m-a vindecat
+Și nu m-a lepădat!
+
+[c]
+/: Eu nu sunt lepădat :/
+Venind Isus m-a vindecat
+Și nu m-a lepădat.
+
+[v2]
+Ca Iacov noaptea eu am stat
+În rugă m-am luptat;
+Dau laudă Lui că m-a primit
+Și-acum sunt mântuit.
+
+[v3]
+Azi cânt de bucurie Lui,
+Căci El m-a vindecat,
+Și am să-I cânt și-n ceruri sus;
+Căci nu sunt lepădat.

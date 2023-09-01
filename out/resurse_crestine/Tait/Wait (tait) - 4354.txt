@@ -1,0 +1,50 @@
+[title]
+Wait (tait) {author: {Tait}, {rcId: {4354}}
+
+[sequence]
+v1,c,v2,c2,c2,v3,b,c2,e
+
+[v1]
+Looking out my front door
+I see a frantic world desperate for more
+Quick fix at your fingertips
+The longer it takes the harder it gets
+
+[c]
+But I’ll wait for You
+To give me everything I need
+I’m gonna wait for You
+You make my life complete
+Yeah, You know You do
+
+[v2]
+We want it all and we want it now
+Caught in a high speed chase, can’t slow down
+Headed for a panic attack
+I gotta get off this one way track
+
+[c2]
+So I’ll wait for You
+To give me everything I need
+I’m gonna wait for You
+You make my life complete
+
+[b]
+I’m gonna wait wait wait for You
+Cause you’re the perfect one for me
+I’m gonna wait wait wait for You
+Oh yeah
+Wait for You to give me everything I need
+I’m gonna wait wait wait for You
+Ooh You make my life complete
+
+[v3]
+I know You see the deepest part of me
+But still Your love for me is a mystery
+
+[e]
+To give me everything I need
+I’m gonna wait wait wait for You
+God You make my life complete, yeah
+I’m gonna wait for You
+Oh yeah

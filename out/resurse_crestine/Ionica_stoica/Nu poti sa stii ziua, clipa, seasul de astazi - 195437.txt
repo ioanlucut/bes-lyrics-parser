@@ -1,0 +1,29 @@
+[title]
+Nu poti sa stii ziua clipa seasul de astazi {author: {Ionică Stoica}, {rcId: {195437}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Nu poți să știi ziua, clipa, ceasul de astăzi
+Nu poți să știi, oare mâine, tu vei mai fi
+Timpul se scurge și trece de nu-ți dai seama
+Astăzi te cheamă, Isus la El! De ce nu vii?
+
+[c]
+Vino, astăzi poți tu alege
+Mâine nu știu de vei putea
+Vino, lumea oricum va trece
+Și tu vei trece, vino la El, nu amâna!
+
+[v2]
+Astăi te cheamă Isus, omule dragă
+Încă puțin, și El, va reveni
+El te iubește, te cheamă astăzi întruna
+Vino la El, o, nu mai sta! De ce nu vii?
+
+[v3]
+Nimeni din lumea aceasta nu va rămâne
+Doar cei ce L-au iubit pe Isus Hristos
+Ei vor pleca înspre zările albastre
+Hai vino tu! N-ai vrea să fii mereu voios?

@@ -1,0 +1,35 @@
+[title]
+Intreaba-ti inima {author: {Cătălin Ciuculescu Band}, {rcId: {157715}}
+
+[sequence]
+v1,v2,v3,e
+
+[v1]
+Știu că iubirea nu moare,
+Știu că nu are sfârșit,
+Cine iubește e mare,
+Cine urăște e mic,
+/: Mic sau nimic. :/
+Da, nimic, e nimic.
+
+[v2]
+Doar prin credință se vede,
+Ce nu se poate vedea,
+Oricât de mare ți-e visul,
+Ea-l poate face real.
+/: Un vis real. :/
+Da, real, visul real.
+
+[v3]
+Când ai speranță în suflet,
+Drumul e mult mai ușor,
+Când Dumnezeu îți e prieten,
+Vezi soarele printre nori.
+/: Vezi printre nori. :/
+Da, printre nori, printre nori.
+
+[e]
+/: Hai întreabă-ți inima
+Dacă e iubire-n ea,
+Dacă speră la mai mult,
+Dacă crede vreun cuvânt. :/ x3

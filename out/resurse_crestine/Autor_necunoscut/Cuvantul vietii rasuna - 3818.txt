@@ -1,0 +1,53 @@
+[title]
+Cuvantul vietii rasuna {author: {Anonim}, {rcId: {3818}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Cuvântul vieții răsună
+Răsună ca trâmbița-n zori
+Podoaba ta frate creștine
+Să fie cuvântul mereu
+
+[c]
+Acesta-i cuvântul ce sună
+Și sună să ști nu-n zadar
+La cei mândri le stă împotrivă
+Iar celor smeriți le dă har
+
+[v2]
+Podoaba ta frate creștine
+Nu-i slava de-aicea de jos
+Ci pacea și harul să-ți fie
+Căci acestea duc la Hristos
+
+[c2]
+Nu vinde tu slava pe ocară
+Căci astfel nu poți ca să scapi
+Cuvântul rămâne-n picioare
+Căci el îți dă biruință-n rai
+
+[v3]
+Când cerul își scutură bolta
+Când domnul veni-va pe nori
+Cel smerit va fi o scânteie
+Iar cel mândru va fi ca un stâlp
+
+[c3]
+Te-ntreabă tu frate creștine
+Te-ntreabă ce roade ai adus
+Căci aur argint și pietre scumpe
+Acestea rămân doar atât
+
+[v4]
+Un vuiet de ape se-aude
+Un vuiet se-nalță în slăvi
+E gloata cea mare ce cântă
+E Domnul se-nalță în zări
+
+[c4]
+Ești vrednic părinte de slavă
+Acela ce-ai fost și vei fi
+Ți-aducem cu toți mulțumirea
+De slava ce-a fost si va fi.

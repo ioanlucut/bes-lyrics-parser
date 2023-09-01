@@ -1,0 +1,27 @@
+[title]
+Cantati regelui osanale {author: {David Preuteasa}, {rcId: {184785}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+Lumina în noapte se-arată
+Si viu strălucește de sus
+E semnul că Domnul se naște
+Așa cum prorocii au spus
+
+[c]
+Azi s-a născut, Isus pruncul sfânt
+Din cer a coborât pe pământ
+Noi îi cântăm și tot ce-avem
+Îi dăruim cu bucurie căci Îl iubim
+
+[v2]
+Cântați Regelui osanale
+Veniți să-L vestim tuturor
+Căci pruncul născut într-o iesele
+E-al nostru măreț Salvator
+
+[b]
+Osana, osana, osana Regelui
+Osana, osana, osana Îi cântăm.

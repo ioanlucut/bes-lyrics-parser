@@ -1,0 +1,32 @@
+[title]
+Doamne mai vreau rusalii {author: {Callatis Praise}, {rcId: {4431}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Doamne, mai vreau rusalii cu limbi de foc
+Să le împrăștii pe fiecare,
+Să ne atingi cu Duhul Tău
+Doamne, vreau o trezire și într-un gând
+Și o simțire, să fim cu toții
+Și să cântăm în limbi o mie.
+
+[c]
+/: Tu faci cerul să coboare
+Naști în inimă izvoare
+O Duh Prea Sfânt, dă-ne Rusalii
+O Duh Prea Sfânt :/
+
+[v2]
+Doamne, dă-mi bucurie și să mă legi
+Strâns în iubire, Doamne eu vreau
+Vreau tot mai mult din Duhul Tău
+Doamne, mai vreau sfințire
+Și-un foc adânc să ardă-n mine
+Pe veșnicii să fiu al Tău în nemurire.
+
+[e]
+Doamne, vreau o trezire și într-un gând
+Și o simțire, să fim cu toții
+Și să cântăm în nemurire.

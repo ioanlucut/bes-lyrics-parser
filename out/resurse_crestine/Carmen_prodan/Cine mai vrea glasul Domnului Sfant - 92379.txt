@@ -1,0 +1,41 @@
+[title]
+Cine mai vrea glasul domnului sfant {author: {Carmen Prodan}, {rcId: {92379}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,e
+
+[v1]
+Cine mai vrea glasul Domnului Sfânt,
+Să îl asculte?
+Și-n rugăciuni necurmate să stea,
+Cu El pe munte?
+
+[c]
+/: Azi, atâtea dureri,
+Sunt în popor de-alinat,
+Azi suntem chemați,
+Să ne rugăm neîncetat! :/
+
+[v2]
+Cine mai vrea să se-apropie blând,
+De cel ce plânge?
+Și înspre cer înălțând rugăciuni,
+Nori să alunge!
+
+[v3]
+Domnul ne cheamă pe toți să pășim,
+Pe urmele Sale!
+Neîncetat pentru semeni să fim,
+O alinare!
+
+[v4]
+Să ne unim azi cu toții, creștini,
+În sfânta lucrare!
+Să-ngenunchem, să zidim, să luptăm,
+Cu mic, cu mare!
+
+[e]
+/: Hai să ne unim,
+Și-mpreună să pășim,
+Spre ținta cea de sus,
+Că steagul nostru este Isus! :/

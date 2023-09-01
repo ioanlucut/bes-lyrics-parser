@@ -1,0 +1,30 @@
+[title]
+O primavara {author: {Nicolae Moldoveanu}, {rcId: {244488}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O primăvară fericită-n orice zi,
+Trăiesc prin Cel ce pentru mine Se jertfi.
+Iubirea Lui mi-e soare fără de apus,
+Iar sfântul Lui Cuvânt mă mângâie nespus.
+
+[c]
+Frumoasă e credința vie în iubire,
+Ea dă sfințire,
+Și fericire.
+Izvorul veșnic de lumină în trăire,
+E Domnul Slavei, Domnul meu iubit Isus.
+
+[v2]
+O sărbătoare liniștită am mereu,
+De când Isus e și Mântuitorul meu.
+Puterea Lui îmi dă puteri să biruiesc,
+Și haruri noi, prin El, în mine înfloresc.
+
+[v3]
+O tinerețe nesfârșită Tu mi-ai dat,
+Isuse când prin cruce m-ai răscumpărat.
+În viitorul cel măreț trăiesc de-acum,
+Căci Tu-mi ești viața și-ocrotirea mea pe drum.

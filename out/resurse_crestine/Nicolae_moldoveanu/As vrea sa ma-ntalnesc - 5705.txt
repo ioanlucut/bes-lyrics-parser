@@ -1,0 +1,40 @@
+[title]
+As vrea sa ma-ntalnesc {author: {Nicolae Moldoveanu}, {rcId: {5705}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Aș vrea să mă-ntâlnesc cu Domnul,
+Să-I spun a mea dorință
+Ce inima adesea mi-o frământă.
+/: Ah! oare, când, Isus, m-oi întâlni cu Tine
+Și-Ți voi putea tot dorul a Ți-L spune? :/
+
+[v2]
+Aș vrea să mă-ntâlnesc cu Domnul,
+Să-I spun a mea durere
+Sub care inima adesea-mi geme.
+/: Mai este, oare, mult din zilele durerii,
+Pân’ vei aduce ceasul mângâierii? :/
+
+[v3]
+Aș vrea să mă-ntâlnesc cu Domnul,
+Să-I cer o alinare
+Și să-mi scurteze zilele amare.
+/: Ah! cât de multe-au fost ispite mari și grele!
+Dar, numai Tu m-ai izbăvit din ele. :/
+
+[v4]
+Mi-atât de dor, Isuse dragă,
+De ziua întâlnirii
+Ce-o vom serba pe-a-Tale plaiuri sfinte.
+/: Ah, cât mi-e de dor ca să Te văd pe Tine,
+Și să privesc splendoarea Țării sfinte! :/
+
+[v5]
+Mi-e inima atrasă către Tine,
+Și ochii înspre zările senine
+De unde-aștept să vin-o izbăvire.
+/: Ah, cât de mult doresc să vină, mai degrabă,
+O izbăvire pe vecie dată! :/

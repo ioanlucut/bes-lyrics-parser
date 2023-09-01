@@ -1,0 +1,48 @@
+[title]
+Voi lauda pe domnul meu {author: {Alexandru Groza}, {rcId: {157074}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+Voi lăuda pe Domnul meu, mereu
+Cât voi trăi
+Voi lăuda pe Dumnezeu, mereu
+Da, cât voi fi.
+
+[v2]
+Ferice de cine-are ajutor
+Pe Dumnezeul lui Iacov
+Acela, da, este fericit
+și va trăi în veci.
+
+[v3]
+Ferice de cine se-ncrede-n El
+În Domnul Dumnezeul său
+Acela e binecuvântat
+Și va trși în veci.
+
+[v4]
+Nu vă încredeți în cei mari
+În suflarea oamenilor
+Suflarea lor trece-ntr-o zi
+Cu planurile lor
+
+[v5]
+/: Încredeți-vă-n Dumnezeu
+El vă ferește de-orice rău
+Încredeți-vă în Isus
+Ce v-a răscumpărat! :/
+Ce ne-a răscumpărat
+
+[v6]
+Domnul deschide ochii oribilor
+Dă pâine celor flămânzi
+Pe cei bolnavi îi vindecă,
+Prin credința lor în El
+
+[v7]
+/: Încredeți-vă-n Dumnezeu
+El vă ferește de-orice rău
+Încredeți-vă în Isus
+Ce ne-a răscumpărat :/

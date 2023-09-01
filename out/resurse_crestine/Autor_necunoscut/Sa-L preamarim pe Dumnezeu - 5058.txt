@@ -1,0 +1,23 @@
+[title]
+Sa-l preamarim pe dumnezeu {author: {Anonim}, {rcId: {5058}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Să-L preamărim pe Dumnezeu
+În orice zi, în tot locul.
+Vă ridicați a voastre mâini
+Și-n locul sfânt să-L preamărim.
+
+[v2]
+Să ne rugam lui Dumnezeu
+In orice zi, în tot locul.
+Vă ridicați a voastre mâini
+Și-n locul sfânt să-L preamărim.
+
+[v3]
+Toti sa-i cintam lui Dumnezeu
+În orice zi, în tot locul.
+Vă ridicați a voastre mâini
+Și-n locul sfânt să-L preamărim.

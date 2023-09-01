@@ -1,0 +1,35 @@
+[title]
+Va fi o zi {author: {Nicu Wagner}, {rcId: {86913}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Acum privim spre cer sfios ca-ntr-o oglindă
+Și multe lucruri ni se par de ne-nțeles;
+Adesea nedreptatea-ncearcă să învingă
+Fiindcă rodul muncii încă n-am cules.
+
+[c]
+/: Va fi o zi când vom vedea față-n față,
+Când vom primi răspuns la mii de întrebări,
+Dar pân-atunci trăim crezând, privind prin ceață,
+La lucruri ce se par în depărtări. :/
+
+[v2]
+De ce-i atâta suferință printre oameni
+De ce săracii mor de foame între noi?
+Când unii se desfată-n lux și îmbuibare
+Pe alții lasă chiar să piară în nevoi?
+
+[v3]
+Oricum am vrea să nu mai fie-n lume ură
+Să fie sfântă armonie între frați
+Să nu mai fie aurul închis în zgură
+Și robii toți să fie-odată dezlegați.
+
+[v4]
+Îndepărtat de Dumnezeu ca și Sodoma
+Pământul s-a umplut acum de urâciuni;
+Dar iată ce-a adus păcatul printre oameni
+Dureri, necaz și nesfârșite-amărăciuni.

@@ -1,0 +1,37 @@
+[title]
+Tu esti domnul meu {author: {Studenți Poarta Cerului}, {rcId: {232885}}
+
+[sequence]
+v1,c,e,e2
+
+[v1]
+/: Când eram în întristare,
+Cu vocea Ta m-ai liniștit,
+Și când nu aveam scăpare,
+Mâna Ta m-a izbăvit :/
+
+[c]
+De aceea-Ți cânt,
+ /: Tu ești Domnul meu pe veci,
+Credincios și vrednic ești.
+Doar pe Tin’ Te voi lăuda
+Doamne, ești iubirea mea! :/
+
+[e]
+/: Și când totul îmi pare pierdut,
+Privesc la Tine!
+Și când nu mai știu unde să fug,
+Alerg spre Tine, Isus! :/
+
+[c2]
+Și Îți spun,
+ /: Tu ești Domnul meu pe veci
+Credincios și vrednic ești,
+Doar pe Tin’ Te voi lăuda
+Doamne, ești iubirea mea! :/
+
+[e2]
+Acum eu cânt de bucurie,
+Căci Tu m-ai salvat, Isus!
+Viața mea Îți aparține,
+/: Numai Ție am să-Ți cânt mereu! :/

@@ -1,0 +1,25 @@
+[title]
+Se duce cel neprihanit {author: {Nicolae Moldoveanu}, {rcId: {5566}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Se duce cel neprihănit, o, și nimănui nu-i pasă;
+Se duc cei buni, și oare câți, o, văd golul care-l lasă?
+
+[c]
+/: Ferice-acei ce-n Domnul mor, o, căci faptele-i urmează
+Și la odihnă Domnul lor, o, în Casa Lui i-așază... :/
+
+[v2]
+O, oare câți mai văd acum, o, că, pentru zile grele,
+Luat e cel neprihănit, o, spre-a nu ajunge-n ele?
+
+[v3]
+El intră-n pace-n groapa lui, o, și-n pașnică odihnă,
+Căci fericit e-n veci de veci, o, acel ce-i fără vină.
+
+[v4]
+Cel ce-a umblat în drumul drept, o, în pace-o să se culce,
+Iar somnul lui, pe veci, va fi, o, senin și lin și dulce.

@@ -1,0 +1,29 @@
+[title]
+Ce prunc e acesta? {author: {Anonim}, {rcId: {156568}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ce Prunc e Acesta ce doarme în paie
+La sânul mamei Sale?
+Pe frunte îngerii Îl sărută
+Păstorii vin cu daruri.
+
+[c]
+Da, da, Pruncul e Isus
+Veniți la El și vă-nchinați
+Pruncului cel mult așteptat
+Ce-aduce cu El mântuire.
+
+[v2]
+De ce s-a născut într-un staul de vite?
+Ce vină are Pruncul?
+Îngenunchiați și-n tăcere priviți-L
+Azi s-a născut Cuvântul.
+
+[v3]
+Tămâie s-aduci și aur și smirnă
+Oricum ai fi și oriunde
+Dar nu uita printre daruri s-aduci
+Și inima-ți la iesle.

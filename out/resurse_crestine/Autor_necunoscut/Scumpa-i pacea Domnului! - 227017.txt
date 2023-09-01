@@ -1,0 +1,30 @@
+[title]
+Scumpa-i pacea domnului {author: {Anonim}, {rcId: {227017}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+\: Scumpă-i pacea Domnului, pacea Domnului,
+Când este-n poporul Lui, pacea Domnului! :/
+
+[v2]
+\: Când e dragoste și pace, pacea Domnului,
+Cel rău nu are ce face, pacea Domnului! :/
+
+[v3]
+\: Când trăim în armonie, pacea Domnului,
+Avem mare bucurie, pacea Domnului! :/
+
+[v4]
+\: Când e dragoste aprinsă, pacea Domnului,
+Dușmănia e învinsă, pacea Domnului! :/
+
+[v5]
+\: Haideți frați să ne unim, pacea Domnului,
+Pe dușman să-l biruim, pacea Domnului! :/
+
+[v6]
+\: Haideți frați să ne iubim, pacea Domnului,
+Și ca frații să trăim, pacea Domnului! :/
+Amin!

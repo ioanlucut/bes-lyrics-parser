@@ -1,0 +1,27 @@
+[title]
+It is you - ridicam mainile {author: {Newsboys, Traducere RO}, {rcId: {2470}}
+
+[sequence]
+v1,b,c,e
+
+[v1]
+Ridicam mainile, Te chemam aici
+Iti rostim numele, Te chemam aici
+Noi vrem in acest loc, sa ne-nchinam
+Plin de mila si har, esti doar Tu
+
+[b]
+Te-adoram, esti doar Tu
+Te laudam, doar pe Tin’
+Cer si pamant, toate spun
+Esti doar Tu
+
+[c]
+Sfant e Domnul si Atotputernic
+Numai numele Lui este Sfant
+Te-adoram doar pe Tin’
+Sfant esti Tu, numai Tu
+
+[e]
+Ridicam mainile, Iti strigam Numele
+Doamne, Tu ne vei da harul si mila Ta

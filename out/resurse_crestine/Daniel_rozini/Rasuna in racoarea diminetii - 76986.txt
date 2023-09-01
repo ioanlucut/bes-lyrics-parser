@@ -1,0 +1,41 @@
+[title]
+Rasuna in racoarea diminetii {author: {Daniel Rozini}, {rcId: {76986}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Răsună ceru-ntreg de armonie
+Răsună mii de glasuri îngerești
+Și toți îți cântă slavă numai ție
+Dumnezeu care pe tron domnești
+
+[v2]
+Răsună în răcoarea dimineții
+Glasuri de păsări mii și mii
+Și toate te măresc pe Tine, creatorul vieții
+Și toate-ți cântă-n mii de simfonii
+
+[c]
+Răsună munții și câmpia
+De imnuri mule fel de fel
+Și toate-ți cântă armonia
+Prea bun și sfânt Emanuel
+
+[v3]
+În cor cu-aceste mari orchestre
+Îți cântă și sufletul meu
+Căci bucuriile terestre
+Doar Tu le dai scump Dumnezeu
+
+[v4]
+Un imn de slavă către Tine
+Înalt acuma Dumnezeu
+Să zboare către zări senine
+Până în cer la tronul Tău
+
+[v5]
+Căci meriți toată preamărirea
+Părinte scump din veșnicii
+Prin Tine avem izbăvirea
+Acum și până vei veni!

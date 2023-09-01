@@ -1,0 +1,53 @@
+[title]
+Privesc inspre ceruri {author: {Mirela Ursulescu}, {rcId: {71805}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Privesc înspre ceruri
+Și știu că vei veni
+Să-Ți iei la Tine-n Slavă
+Ai Tăi iubiți copii
+
+[c]
+/: Căci nu mai este mult
+Și Domnul va veni
+Ca împărat al Slavei
+La cer ne va răpi :/
+
+[v2]
+E greu când treci prin ape
+E greu când treci prin foc
+E greu în încercare
+Când pace n-ai deloc
+
+[c2]
+/: Dar știu, acolo-n Slavă
+De toate vom uită
+Uita-vom suferință
+Și de am plâns cândva :/
+
+[v3]
+Când cei din jur aruncă
+Ocări asupra ta
+Amenințări, vorbe nebune
+Iar lupta-i tot mai grea
+
+[c3]
+/: Tu nu uita căci viața
+E scurtă pe pământ
+Doar dacă rabzi aicea
+Poți merge-n cerul Sfânt :/
+
+[v4]
+Isus răbdat-a primul
+Tot greul tău și-al meu
+Ți-ascultă și suspinul
+Te-ajută când ți-e greu
+
+[c4]
+/: Nu poți primi cununa
+De n-o câștigi aici
+Tu luptă și veghează
+Cu El vei birui :/

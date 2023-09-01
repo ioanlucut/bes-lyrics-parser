@@ -1,0 +1,39 @@
+[title]
+In prezenta ta {author: {Anonim}, {rcId: {85073}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,e
+
+[v1]
+În prezența Ta, Doamne vreau să rămân
+Tu-mi cunoști inima, știi ce este în ea
+Tu-mi știi dorința și vezi că eu caut să fiu.
+
+[c]
+În prezența Ta îți simt slava și gloria
+Și recunosc, nu sunt vrednic să stau în fața Ta
+Atinge-mă și spală-mă, dă-mi Duhul Tău, aici în prezența Ta.
+
+[v2]
+Nu-mi doresc mai mult decât să pot să rămân
+În lumina Ta, în lumina Ta
+Bucuria mea este să știu că mă aflu mereu.
+
+[c2]
+În prezența Ta îți simt slava și gloria
+Și recunosc, nu sunt vrednic să stau în fața Ta
+Atinge-mă și spală-mă, dă-mi Duhul Tău, aici în prezența Ta.
+
+[v3]
+Văd că Tu ești drept și nu pot să spun nimic
+Văd cât ești de măreț iar eu sunt un nimic
+Și caut să Te cunosc, să cunosc puterea Ta.
+
+[c3]
+În prezența Ta îți simt slava și gloria
+Și recunosc, nu sunt vrednic să stau în fața Ta
+Atinge-mă și spală-mă, dă-mi Duhul Tău, aici în prezența Ta.
+
+[e]
+Atinge-mă și spală-mă, dă-mi Duhul Tău,
+Atinge-mă și spală-mă în prezența Ta.

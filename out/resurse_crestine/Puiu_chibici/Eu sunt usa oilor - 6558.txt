@@ -1,0 +1,39 @@
+[title]
+Eu sunt usa oilor {author: {Puiu Chibici}, {rcId: {6558}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Eu sunt ușa oilor,
+Eu sunt bunul lor Păstor,
+Eu le duc la apă vie,
+Care curge-n veșnicie
+În Cereasca-Împărăție.
+
+[v2]
+Eu sunt pâinea tuturor
+Coaptă-n Golgota-n cuptor,
+Pâine ce se înmulțește
+Și-n inimi curate crește
+Și prin Duhul Sfânt rodește.
+
+[v3]
+Eu sunt jertfa pe altar,
+Sunt izvorul sfânt de har,
+Râu de viață dătător și balsam vindecător,
+Eu sunt Rege-al regilor.
+
+[v4]
+Eu sunt cel de la-nceput,
+Cel din Dumnezeu născut,
+Cine se încrede-n Mine
+Și se leapădă de sine
+Nu va fi dat de rușine.
+
+[v5]
+Numele Meu e Isus,
+Peste toate-s mai presus,
+Eu sunt jerfa de iubire,
+Mielul cel de ispășire,
+Sunt a lumii mântuire.

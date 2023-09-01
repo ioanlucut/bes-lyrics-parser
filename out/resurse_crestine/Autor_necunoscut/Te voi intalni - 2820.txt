@@ -1,0 +1,35 @@
+[title]
+Te voi intalni {author: {Anonim}, {rcId: {2820}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Sunt atâția oameni care
+Spun că niciodată n-ai să vii,
+Alții, așa siguri de sine,
+Spun că tu de mult ai revenit.
+
+[c]
+/: Voi spune la lume despre Tine
+De norii și zorii, când vei reveni
+Nu pot știi când va fii ziua aceea
+dar știu, Te voi întâlni :/
+
+[v2]
+Și din marea de opinii
+Poți ieși doar crezând,
+În Cuvântul care-mi spune
+Că toți te vom vedea venind.
+
+[v3]
+E-așa de greu să cred în lucruri
+Pe care niciodată nu le-am văzut,
+Și-așa ușor cred în acelea
+Ce par să fie-aceea ce nu sunt.
+
+[v4]
+Și din ceață de iluzii
+Pot ieși doar crezând,
+În Cuvântul care-mi spune
+Că, ce nu văd, pot să simt!

@@ -1,0 +1,23 @@
+[title]
+Parfumul cantarilor {author: {Diaz Amos}, {rcId: {238798}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Parfum de crin îmbietor, răsunet cu foc tare,
+Perind ținutul de granit într-o vie splendoare!
+/: Parfumul cântărilor, a stelelor iubire
+Ne poartă gândul, ce sublim, spre sfânta nemurire! :/
+
+[v2]
+Zumzet de albie de nea spre lumea în dor scăldată,
+Își cântă azi iubirea drag cu voce în har bogată!
+/: Orchestra splendorilor, surâs în plin descântec
+Al iazului cântarea grea, își poartă vocea în umblet! :/
+
+[v3]
+Parfumul de cântare, drag, în simfonia trează
+Surâde și azi plăcut și cald, parcă cuprins în mreajă.
+/: Parfumul cântărilor, a Duhului noblețe,
+Mă las purtat spre Paradis, eternă frumusețe! :/

@@ -1,0 +1,43 @@
+[title]
+Esti dispretuit de lume {author: {Crețu Mihai}, {rcId: {237296}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7,v8
+
+[v1]
+Ești disprețuit de lume (2x)
+
+[v2]
+/: Fiindcă calci pe-a Mele urme
+Ești disprețuit de lume
+Dar cu Mine vei domni
+Pe-al Meu scaun de domnie :/
+
+[v3]
+Suferi și în adunare (2x)
+
+[v4]
+/: Ești împuns de fiara care
+Bea din apele amare
+Dar Eu-ți dau puteri de sus
+Ca să-naintezi pe cale :/
+
+[v5]
+Salt-acum de veselie (2x)
+
+[v6]
+/: Căci mai am o gloată-n lume
+Care suferă ca tine
+Cel ce vine, va veni
+Nu va zăbovi, ci, vine :/
+
+[v7]
+Pân-atunci, tu rabdă toate
+Căci eu vin să-ți fac dreptate
+
+[v8]
+/: Căci Eu vin să-ți fac dreptate
+Tu arată dragoste
+Și-ți voi da cununa vieții
+Credincios fii pân-la moarte :/
+Amin

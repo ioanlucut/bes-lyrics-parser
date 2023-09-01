@@ -1,0 +1,29 @@
+[title]
+In betleem azi s-a nascut {author: {Ruben și Beatrice Filoti}, {rcId: {118024}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În Betleem azi S-a născut
+Pruncul Emanuel
+Prinț așteptat, de toți dorit
+Împăratul Păcii fie-n veci slăvit.
+
+[c]
+Veniți să Îi cântăm cu toți-n cor
+Că s-a născut al nost’ Mântuitor
+Speranță și iertare ne-a adus
+În Betleem azi s-a născut Isus.
+
+[v2]
+Păstorii-aleargă cu grăbire
+Și rămân uimiți când îl văd pe-mpărat,
+Mesia, Rafa, Stăpânul lumii
+Împăratul cel de veacuri așteptat.
+
+[v3]
+De mii de ani a fost vestit
+În Cartea Sfântă despre El s-a profețit
+Cu toți atunci s-au bucurat
+Dar Irod cel înfricat s-a tulburat.

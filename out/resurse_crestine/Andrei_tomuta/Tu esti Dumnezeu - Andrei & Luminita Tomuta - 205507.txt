@@ -1,0 +1,31 @@
+[title]
+Tu esti dumnezeu - andrei & luminita tomuta {author: {Andrei Tomuta}, {rcId: {205507}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+Tu ești mare în slavă, fără margini în glorie,
+Nesfârșit în iubire, vrednic Dumnezeu.
+Tu ești mare-n dreptate, așa plin de îndurare,
+Îmbrăcat în onoare, veșnic Dumnezeu.
+Cine poate fi ca Tine,
+Dumnezeul meu?
+
+[c]
+Natura întreagă să-Ți cânte întruna,
+În locuri cerești fii slăvit totdeauna,
+Tu ești Dumnezeu!
+În veci fie laude înălțate spre Tine
+Și orice făptură să Ți se închine,
+Tu ești Dumnezeu!
+
+[v2]
+Ești măreț în splendoare, infinit în putere,
+Credincios peste veacuri, vrednic Dumnezeu.
+Ești încet la mânie, neschimbat pe vecie,
+Înțelept cum nu-i nimeni, veșnic Dumnezeu.
+
+[b]
+Glorie Ție, glorie Ție, glorie Ție,
+Tu ești Dumnezeu!

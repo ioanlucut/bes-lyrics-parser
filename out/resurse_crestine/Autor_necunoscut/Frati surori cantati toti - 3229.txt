@@ -1,0 +1,29 @@
+[title]
+Frati surori cantati toti {author: {Anonim}, {rcId: {3229}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Frați, surori cântați toți și vă bucurați,
+Laudă și mărire Domnului să-I dați,
+Noi eram străini ieri, azi suntem amici,
+Ne-am apropiat prin sângele lui Crist.
+
+[c]
+/: Să răsune: Aleluia!
+Dumnezeu ne mântuie,
+Ale noastre nume scrise-s
+Pentru veci în cartea Lui. :/
+
+[v2]
+Ne-am apropiat toți dar nu de Sinai
+Pe noi nu ne-nfrică nici un fel de grai
+Un cuvânt al milei Domnul ne-a vorbit
+Și ne-a mângâiat prin sângele lui Crist.
+
+[v3]
+Numai prin credință noi acum trăim
+Și-n iubire sfântă către cer grăbim
+Inimile noastre se înveselesc,
+Vom trăi în veci prin sângele lui Crist.

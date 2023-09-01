@@ -1,0 +1,30 @@
+[title]
+Intemeiata pe puterea ta {author: {Nicolae Moldoveanu}, {rcId: {163802}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Intemeiata pe puterea
+Ta,
+Isuse vreau deplin credinta mea
+/: Ajuta-ma sa fie asa :/
+Credinta mea, credinta mea
+
+[c]
+Tu si cuvantul Tau cel sfant
+Mi-esti azi putere pe pamant
+Pe altceva eu nu-mi zidesc,
+Credinta, credinta dar dumnezeiesc
+
+[v2]
+Oricand pe jertfa si-nvierea Ta
+Imi intaresc si cresc credinta mea
+/: Ajuta-ma sa fie asa :/
+Credinta mea, credinta mea
+
+[v3]
+Isuse, tot ce nu-i Scriptura Ta
+Sa nu se-amestece-n credinta mea
+/: Ajuta-ma sa fie asa :/
+Credinta mea, credinta mea

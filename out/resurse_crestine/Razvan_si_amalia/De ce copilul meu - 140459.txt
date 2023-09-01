@@ -1,0 +1,30 @@
+[title]
+De ce copilul meu {author: {Razvan si Amalia}, {rcId: {140459}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: De ce copilul meu te-ndepărtezi mereu
+De ce în viața ta n-asculți porunca Sa? :/
+
+[c]
+De ce, de ce, de ce mereu, mereu
+Te uiți la Dunnezeu
+Te uiți la chipul Său Când tu mereu n-asculți de vocea ce-o
+auzi
+Respingi cuvântul său, cuvânt de Dumnezeu
+Când El strigă mereu
+S-asculți de glasul Său
+
+[v2]
+/: De ce în încercări tu strigi la El mereu
+Iar când ai biruit atunci L-ai părasit? :/
+
+[v3]
+/: De ce nu vii la El să-I spui necazul tău
+Să fii smerit supus cum biblia a spus? :/
+
+[v4]
+/: Acum cât mai e har tu vino la altar
+Să crezi in Dumnezeu să fii un fiu al Său! :/

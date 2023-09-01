@@ -1,0 +1,23 @@
+[title]
+Iubesc pe domnul {author: {Speranța}, {rcId: {7347}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Iubesc pe Domnul căci mi-ascultă vocea
+Iubesc pe Domnul căci mi-ascultă plânsul
+Iubesc pe Domnul căci mi-ascultă ruga
+Îl chem mereu, în orice greu
+
+[c]
+Cheamă-L și tu în viața ta
+Cheamă-L mereu și-ai să vezi puterea Sa.
+Cheamă-L și tu în viața ta
+Cheamă-L mereu și-ai să vezi puterea Sa.
+
+[v2]
+Căci El este mare de aceea Îl iubesc
+Căci El este mare de aceea Îi slujesc.
+Căci El este mare de aceea Îl iubesc
+Căci El este mare de aceea Îi slujesc.

@@ -1,0 +1,37 @@
+[title]
+Vreau sa sper {author: {Carmen Prodan}, {rcId: {112828}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Isus, Te chem în rugăciune
+Ajută-mă să pot să-nving
+Că încercarea mă doboară
+Te rog, răspunde-mi, când Te strig!
+
+[c]
+/: Nu-ngădui să-mi pierd speranța
+Chiar dacă-i grea și tristă viața,
+În deznădejde nu vreau să pier!
+Nu-ngădui să-mi pierd speranța
+Chiar dacă-i grea și tristă viața,
+Mă uit spre cer și vreau să sper! :/
+
+[v2]
+Am obosit în luptă, Doamne,
+Săgeți vrășmașe mă rănesc
+N-aș vrea să cad în disperare,
+N-aș vrea, Isuse, să cârtesc!
+
+[v3]
+Ai milă Tu, Fiul lui David
+Te strig ca orbul Bartimeu,
+Fă-Ți loc, Isuse, prin mulțime,
+Oprește-Te și-n dreptul meu!
+
+[v4]
+Eu vreau să sper căci știu, Isuse,
+Ce poți să faci cu mâna Ta
+În viața celui care crede
+Și-așteaptă fără-a murmura.

@@ -1,0 +1,23 @@
+[title]
+Tineretea mea {author: {Ilie Neagu}, {rcId: {86605}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+In Tine am pace si bucurie
+Tu imi esti Doamne totul mie
+Raze de soare sunt pe-al meu drum
+Cand ma conduci Tu Doamne bun
+
+[c]
+/: Tineretea mea o dau Lui Isus
+Tineretea mea o inchin doar Lui
+Cu tineretea mea pe El il slujesc
+In tineretea mea sa fiu doar cu El :/
+
+[v2]
+In Tine ma-ncred tot mereu
+De aceea eu laud numele Tau
+Legea Ta mult o iubesc
+Tineretea mea Ti-o daruiesc

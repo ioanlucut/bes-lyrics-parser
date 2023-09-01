@@ -1,0 +1,30 @@
+[title]
+Prietene {author: {Speranța}, {rcId: {101881}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Azi prietene te-ntreb: cunoști tu pe Isus,
+L-ai primit ca Domn în viața ta ?
+Sângele Lui sfânt, curat te poate salva
+Haide vin’ la El, o, nu mai sta!
+
+[c]
+/: Căci toate, toate, toate-s trecătoare,
+Toate pier, se duc ca și un vis
+În viață ce-ai lucrat, la ce ai meditat
+Te va conduce-n iad sau Paradis. :/
+
+[v2]
+Nu uita și pentru tine, Isus s-a jertfit
+Vino să te-mpaci cu Dumnezeu!
+Lasă lumea cu-a ei pofte care te-au robit
+Vino azi și intră-n harul Său.
+
+[v3]
+Pleacă-ți azi genunchii-n fața marelui Stăpân
+Ce lumea a biruit pe Golgota,
+Nu cu arme sau război, ci cu iubirea Sa
+Și spune-I: „
+Eu de azi Te voi urma.”

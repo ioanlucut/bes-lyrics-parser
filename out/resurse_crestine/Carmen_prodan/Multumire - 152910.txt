@@ -1,0 +1,29 @@
+[title]
+Multumire {author: {Carmen Prodan}, {rcId: {152910}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Viața mea e-un cântec pentru Tine,
+Isus, Mântuitorul meu iubit!
+Și-Ți cânt cu drag, din zori și până-n seară,
+Căci Tu ești Rege-n cer și pe pământ!
+
+[c]
+Doresc să ’nalț spre ceruri mulțumirea
+Chiar de trăiesc în Valea Plângerii!
+Căci Tu, Isus, m-ai izbăvit din toate,
+Și m-ai ales să-Ți cânt cu îngerii!
+
+[v2]
+Mi-ai pus în gură o cântare nouă,
+Și-n inimă un dor nemărginit
+Să spun mereu, ca toți din jur să știe
+De bunătatea-Ți fără de sfârșit!
+
+[v3]
+Nu mai credeam că voi privi seninul,
+Eram în deznădejdea cea mai grea...
+Dar Tu m-ai scos din val cu Brațul Tare,
+O, Doamne, mare e Puterea Ta!

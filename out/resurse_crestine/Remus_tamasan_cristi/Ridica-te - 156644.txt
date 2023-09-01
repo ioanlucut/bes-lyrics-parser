@@ -1,0 +1,29 @@
+[title]
+Ridica-te {author: {Remus Tămășan Cristi}, {rcId: {156644}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Menirea ta, iubite frate
+E să biruiești prin orice greu
+Să treci învingător prin toate
+De partea ta e Dumnezeu.
+
+[c]
+/: Ridică-te, o, frate din țărână
+Să nu mai fii biruit de cel rău
+Domnul îți întinde a Sa mână
+Ridică-te de partea ta e Dumnezeu. :/
+
+[v2]
+Menirea ta e să ai viață
+Când totu-n jur se risipește
+Urmează acum a Domnului povață
+Viață-n dar Isus îți dăruiește.
+
+[v3]
+Menirea ta e să ai pace
+Când cei din jur se-ngrijorează
+Să poți doar ce e bun a face
+Sfințește-te și pe Isus urmează.

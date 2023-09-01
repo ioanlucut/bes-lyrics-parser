@@ -1,0 +1,42 @@
+[title]
+Un fior sfant ma cuprinde {author: {Nicolae Moldoveanu}, {rcId: {5902}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Un fior sfânt mă cuprinde,
+Uimit plec capu-n jos,
+Când văd lacrimi sângerânde,
+Pe obrazul lui Hristos.
+
+[c]
+/: Plânsul meu va fi vreodată
+Ca al Lui în Ghetsimani,
+Când striga la Sfântul Tată:
+„
+Eli, lama sabactani?” :/
+
+[v2]
+Azi citesc în Sfânta Carte,
+Viața pentru min’ Și-a dat;
+Blestemuri, chinuri și moarte
+Pentru mine a răbdat.
+
+[v3]
+Doamne, lacrimi dă-mi și mie
+Să pot plânge-al meu păcat
+Ce Ți-a fost o cruce Ție,
+Până m-ai răscumpărat.
+
+[v4]
+Iar păcatul ce mă leagă,
+Să-l înving prin Duhul Sfânt!
+Apoi, viața mea întreagă,
+Să trăiesc după Cuvânt!
+
+[v5]
+Căci văd zorii zilei sfinte
+Răsar, iată, mângâieri
+Și-om intra cu toți în țară
+Cu senine primăveri.

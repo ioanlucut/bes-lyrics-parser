@@ -1,0 +1,27 @@
+[title]
+Esti stanca ce-n toate ma tine(nu este ca tine vreo stanca) {author: {Marta Bergheaua}, {rcId: {95605}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: Nu este ca Tine vreo stâncă, de care să mă ancorez
+Cum ești Tu, Isuse, Stăpâne, pe nimeni ca Tine nu găsesc :/
+
+[c]
+Ești stânca ce-n toate mă ține
+De ceruri mereu ancorat,
+/: Iar când vântul suflă mai tare
+Cu Tine Isuse nu cad :/
+
+[v2]
+/: Nu este ca Tine vreo stâncă, de care credința să-mi țin
+Isuse, Tu ești cel mai mare, Tu-mi dai zi de zi har divin :/
+
+[v3]
+/: Mă ține părinte, mă ține, de Tine mereu ancorat,
+Tu ești stânca mea minunată, pe veci Tu m-ai răscumpărat :/
+
+[v4]
+/: Să știți stânca mea este Domnul, cu El să rămân eu aș vrea,
+Curând înspre țara dreptății, de-aici fraților vom zbura :/

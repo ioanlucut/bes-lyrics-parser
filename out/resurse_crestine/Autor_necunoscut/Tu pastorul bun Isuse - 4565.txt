@@ -1,0 +1,41 @@
+[title]
+Tu pastorul bun isuse {author: {Anonim}, {rcId: {4565}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Tu păstorul bun Isuse
+Paște-mă-n pășunea Ta mereu,
+Ca nimic să nu-i lipsească
+Omului duhovnicesc al meu.
+
+[c]
+O Isuse, Isuse, Isuse,
+Bunul meu și neschimbat păstor,
+Fă-mi supuse, supuse, supuse
+Ție toate-a mele-n cânt și dor.
+
+[v2]
+Când îmi cercetezi lăuntrul
+Și răbdarea n-o mai vezi în el,
+Du-mă tu-n pășunea care
+O pot regăsi în orice fel.
+
+[v3]
+Când iubirea-i ofilită
+Și mireasma nu mai are-n ea,
+Du-mă tu-n pășunea care
+Pe deplin o-nvie-n viața mea.
+
+[v4]
+Când smerenia cea sfântă
+Nu-și mai are-n mine locu-ntâi,
+Du-mă tu-n pășunea care
+Mi-o așează iarăși căpătâi.
+
+[v5]
+Tu păstorul bun Isuse
+Ruga mea spre Tine o ridic,
+Du-mă pururi prin pășunea
+Unde nu duc lipsă de nimic.

@@ -1,0 +1,35 @@
+[title]
+Cei ce nu ard in focul sacru {author: {Anonim}, {rcId: {6253}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Cei ce nu ard în focul sacru
+Al adevărului ceresc
+Sânt prinși în flacăra minciuni
+Și prefăcuți în jar drăcesc.
+
+[c]
+Păstrează-ne Isus
+În Tine cum ne-ai spus
+Ca s-arătăm deplin
+Sfințitul Tău, Amin.
+
+[v2]
+Cei ce nu-aleargă cu veghere
+Pe calea sfântului Cuvânt
+Sânt prinși în lanțul rătăciri
+Și duși de beznă spre mormânt.
+
+[v3]
+Cei ce nu vor ca să primească
+Al cerului vieții fel
+Sânt plini, umpluți deplin cu duhul
+Pământului cu cei pe el.
+
+[c2]
+Mântuitorule puternic
+Ajută-ne ca rămânând
+Pe temelia vieți Tale
+Să nu ne clătinăm nicicând.

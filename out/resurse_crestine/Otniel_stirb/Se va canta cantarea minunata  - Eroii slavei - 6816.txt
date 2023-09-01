@@ -1,0 +1,29 @@
+[title]
+Se va canta cantarea minunata / eroii slavei {author: {Otniel Stirb}, {rcId: {6816}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Se va canta cantarea minunata
+Mireasa-si va canta imnul dorit
+Si se va-ncepe nunta asteptata
+Cu-acei ce-n lupte si prigoane-au biruit.
+
+[c]
+/: Eroii slavei vin acum acasa
+Au biruit in marele necaz
+Si ei vor sta cu Domnul lor la masa
+El le va sterge lacrima de pe obraz. :/
+
+[v2]
+Din orice neam din orice semintie
+Din orice limba din orice norod
+O mare gloata pentru-mparatie
+Isus va strange-al suferintei rod.
+
+[v3]
+In fata scaunului de domnie
+S-or apleca cu fata la pamant
+Vor preamari, vor lauda pe Domnul
+Pe-acel ce este Sfant, de-apururi Sfant.

@@ -1,0 +1,34 @@
+[title]
+Cand bezna e-n juru-ti {author: {Nicolae Moldoveanu}, {rcId: {189857}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Când beznă e-n juru-ți cu cer furtunos,
+Când tu nu mai știi ce-o să vină,
+/: Rămâi în lumină, rămâi în Hristos,
+Lumina aduce Lumină! :/
+
+[v2]
+Când moartea, păcatul, mai mult și-a adus
+În juru-ți grămadă de gheață,
+/: Rămâi în viață, rămâi în Isus,
+Viața aduce viață! :/
+
+[v3]
+Când azi necredința mai crudă și-a scos, Săgeți să-ți străpungă ființa,
+/: Rămâi în credință, rămâi în Hristos,
+Credința aduce credința! :/
+
+[v4]
+Când tot ce-i statornic îți pare răpus,
+Și-n jur nu mai ai siguranță,
+/: Rămâi în speranță, rămâi în Isus,
+Speranța aduce Speranță! :/
+
+[v5]
+Când ura se-aruncă mușcând furios,
+În juru-ți făcând pustiire,
+/: Rămâi în iubire, rămâi în Hristos,
+Iubirea aduce iubire! :/

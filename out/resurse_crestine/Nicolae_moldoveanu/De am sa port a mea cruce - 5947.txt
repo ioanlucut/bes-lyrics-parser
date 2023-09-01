@@ -1,0 +1,30 @@
+[title]
+De am sa port a mea cruce {author: {Nicolae Moldoveanu}, {rcId: {5947}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+De am sa port a mea cruce,
+Domnul Isus ma conduce.
+Nici grija n-am, nici temere:
+El m-ajuta-mi da putere.
+
+[c]
+/: Eu sunt voios, caci Dumnezeu
+Iubeste mult sufletul meu.
+Iubirea Lui e vesnica;
+Il voi urma fara frica. :/
+
+[v2]
+Isus e-al meu Mantuitor;
+’
+Nainte mi-e ca-Nvatator,
+Parca-L aud cum vorbeste,
+In inima-mi El traieste.
+
+[v3]
+De vin furtuni asupra mea,
+Am pe Domnul. El m-a tinea.
+Ce m-apasa, El o stie.
+Ma scoate din primejdie.

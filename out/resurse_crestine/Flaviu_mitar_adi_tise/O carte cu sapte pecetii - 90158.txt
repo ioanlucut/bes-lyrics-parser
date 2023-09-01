@@ -1,0 +1,43 @@
+[title]
+O carte cu sapte pecetii {author: {Flaviu Mitar, Adi Tise}, {rcId: {90158}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O carte cu șapte peceți
+O carte stă închisă
+În mâna Dumnezeului Sfânt
+În mâna Să întinsă
+Și un înger puternic din ceruri strigă
+Cine-i vrednic s-o poate deschide
+Dar nici unul din îngeri din cerul înalt
+N-a fost vdrednic s-o poată deschidă. Aleluia
+
+[c]
+Vrednic este Mielul
+Ce-a fost în-junghiat
+Să primească slava
+Slavă ne-ncetat.
+
+[v2]
+Nici îngeri din cerul înalt
+Nici sfinții care cântă
+Niciunul vrednic nu s-a găsit
+Să ceară cartea sfântă
+Dar deodată-n picioare apare un Miel
+Ce părea-njunghiat și zdrobit
+Cu ochii în lacrimi, de dragoste plin
+Pentru noi a murit răstignit. Aleluia
+
+[v3]
+Isus din cer a venit
+Lăsat-a slavă toată
+Și-n lume pentru că ne-a iubit
+A suferit odată
+Să ne spună că este un cer minunat
+Și o veșnică viață-n mărire
+Și-a murit răstignit
+Pe cruce la calvar
+Minunată-i a Sa mântuire.
+Aleluia

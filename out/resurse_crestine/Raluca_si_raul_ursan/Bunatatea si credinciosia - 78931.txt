@@ -1,0 +1,29 @@
+[title]
+Bunatatea si credinciosia {author: {Raluca și Raul Ursan}, {rcId: {78931}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Să faci întotdeauna ce e bine
+Păzește-te de rău și nu uita
+A Domnului Preasfântă înțelepciune
+Să locuiască în inima ta.
+
+[c]
+/: Bunătatea și credincioșia
+Nu te părăsească nicicând
+Scrie-le pe-a inimii tăbliță
+Poartă-le la gâtul tău oricând. :/
+
+[v2]
+Fă binele și fii cinstit în viață
+Trăiește totdeauna-n adevăr
+Ascultă a Domnului Isus povață,
+Să fii copilul cel ascultător.
+
+[v3]
+Fii bun și fii supus în ascultare
+Și-n drumul tău vei fi biruitor
+Ascultă și așteaptă cu răbdare
+Doar astfel vei ieși învingător.

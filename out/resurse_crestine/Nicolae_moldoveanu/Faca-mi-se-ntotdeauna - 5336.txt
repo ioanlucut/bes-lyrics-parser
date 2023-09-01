@@ -1,0 +1,41 @@
+[title]
+Faca-mi-se-ntotdeauna {author: {Nicolae Moldoveanu}, {rcId: {5336}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Facă-mi-se-ntotdeauna
+După Sfântul Tău Cuvânt
+Chiar de-ar fi să-mi cadă toate
+Planurile la pământ.
+Chiar de-ar fi să-mi cadă toate,
+Chiar de-ar fi să-mi cadă toate
+Toate planurile la pământ.
+
+[v2]
+Gândul Tău să se-mplinească
+Neștirbit în mine-oricând,
+Chiar de-ar fi să se dărâme
+Tot ce mi-am zidit în gând
+Chiar de-ar fi să se dărâme,
+Chiar de-ar fi să se dărâme
+Tot ce mi-am zidit în gând
+
+[v3]
+Voia Ta să se înalțe
+Ca stăpână-n viața mea,
+Și-n fărâme sparge-mi voia
+Printr-o lovitură grea
+Și-n fărâme sparge-mi voia,
+Și-n fărâme sparge-mi voia
+Printr-o lovitură grea.
+
+[v4]
+Rugăciunea asta Doamne,
+Tu să mi-o asculți mereu,
+Iar, de-ar fi s-o schimb vreodată,
+N-asculta de gândul meu
+Iar, de-ar fi s-o schimb vreodată
+Iar, de-ar fi s-o schimb vreodată
+N-asculta de gândul meu.

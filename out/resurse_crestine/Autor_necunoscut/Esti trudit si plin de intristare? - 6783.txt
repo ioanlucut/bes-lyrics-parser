@@ -1,0 +1,36 @@
+[title]
+Esti trudit si plin de intristare? {author: {Anonim}, {rcId: {6783}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Esti trudit si plin de intristare ?
+Spune-I Lui Isus, spune-I totul Lui!
+Caci El e gata oricand sa te-asculte:
+Lui Isus spune-I tot!
+
+[c]
+/: Spune-I Lui Isus,
+Spune-I totul Lui!
+El te primeste oricand.
+El te-ntelege si cu drag te-asculta:
+Lui Isus spune-I tot! :/
+
+[v2]
+El iti vede ochii plini de lacrami:
+Spune-I Lui Isus, spune-I totul Lui
+El iti cunoaste inima si plansul:
+Lui Isus spune-I tot!
+
+[v3]
+Trecutul daca te invinueste,
+Spune-I Lui Isus, Spune-i totul Lui
+A-tale mari pacate El le sterge:
+Lui Isus spune-I Tot!
+
+[v4]
+Orice grija a zilei de maine
+Spune-o Lui Isus, spune-I totul Lui!
+El totdeauna este langa tine:
+Lui Isus spune-I tot!

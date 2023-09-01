@@ -1,0 +1,26 @@
+[title]
+Cinci degete {author: {Nicolae Moldoveanu}, {rcId: {232312}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cinci degete sunt la mână, dar lucrează împreună.
+Nu se ceartă între ele, ci se-ajută-n toate cele,
+căci un singur trup le ține, căci un singur trup le ține
+și la greu ca și la bine.
+
+[c]
+Dragi copii, să ne silim, dragostea s-o-nfăptuim!
+
+[v2]
+Dumnezeu este Iubire, și-n iubire e unire.
+El pe toți, duios, ne cheamă de-adevăr să ținem seamă,
+să trăim în părtășie, să trăim în părtășie,
+prin iubirea Lui cea vie!
+
+[v3]
+Căci și degetele toate sunt o vie unitate.
+În unire e putere, și-alinare în durere.
+Să trăim cu toți iubirea, să trăim cu toți iubirea,
+căci în ea e mântuirea!

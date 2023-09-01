@@ -1,0 +1,33 @@
+[title]
+Pastorul meu {author: {Carmen Prodan}, {rcId: {152912}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Doamne, ești Păstorul meu,
+Minunat Păstor!
+Tu mă duci la verzi pășuni
+Și l-al Tău izvor!
+/: Sufletu-mi înviorezi,
+Prin minuni Tu mă conduci...
+Și la ape de odihnă
+Tu mă duci :/
+
+[v2]
+De mă aflu-n întristări
+Sau în bucurii,
+Cu toiagul și nuiaua
+Doamne mă mângâi!
+/: Chiar prin Valea Umbrei Morții
+Nu mă tem de niciun rău,
+Sprijin tare am în Tine, Domnul meu! :/
+
+[v3]
+Ce plăcută pentru mine
+Este Casa Ta!
+Și doresc să stau cu Tine
+Toată viața mea!
+/: Fericirea și-ndurarea
+Știu că sunt cu mine-oricând,
+De aceea Îți dau slavă și Îți cânt! :/

@@ -1,0 +1,29 @@
+[title]
+Cu crucea-n spate el mergea {author: {Nicolae Moldoveanu}, {rcId: {5470}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Cu crucea-n spate El mergea o In locul tau si-al meu;
+Durerea mortii-o suferea o Fiul lui Dumnezeu.
+
+[c]
+/: Ah, cat a suferit o Isus, cand S-a jertfit...
+In schimb, tu ce i-ai dat o Ca te-a rascumparat? :/
+
+[v2]
+A fost batut si-a fost scuipat, o In locul tau si-al meu;
+Cununa de spini a purtat o Fiul lui Dumnezeu.
+
+[v3]
+In fata mereu Il bateau, o In locul tau si-al meu;
+Pe spate altii-L biciuiau, o Pentru pacatul meu.
+
+[v4]
+Si-asa urcand cu crucea grea, o In locul tau si-al meu
+Pan-a ajuns, la Golgota, o Fiul lui Dumnezeu.
+
+[v5]
+Nu vrei sa stii ce a facut o Isus, in locul tau?
+Muri pe cruce la Calvar, o Sa fii scapat de rau!...

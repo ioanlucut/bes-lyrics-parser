@@ -1,0 +1,41 @@
+[title]
+Viata aceasta-i trecatoare {author: {Ionică Stoica}, {rcId: {127953}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Viața aceasta-i trecătoare
+Trece parcă nici n-ar fi
+/: Prin dureri și prin necazuri
+Vom ajunge-n veșnicii :/
+
+[v2]
+Viața aceasta-i plină, Doamne,
+De lacrimi și de-ncercări
+/: Doar cu Tine, Isuse, Doamne,
+Vom iesi biruitori :/
+
+[v3]
+Suntem puși la încercare
+Mereu ești verificat
+/: Să mergi drept, privind ’nainte
+De la moarte-ai fost salvat :/
+
+[v4]
+Orișicum viața trece...
+Dar să treaca cu folos
+/: Căci sfârșitul e aproape
+Va veni Isus Hristos! :/
+
+[v5]
+Dumnezeu ți-a dat viața
+El ți-o poate și lua
+/: Chiar daca ți-e greu pe cale
+Nu-ți tăia din crucea t! a :/
+
+[v6]
+Ne va duce-n țara sfântă
+Și-acol’ lacrimi n-or mai fi
+/: Îți mulțumim Isuse, Doamne,
+Căci suntem ai Tăi copii :/

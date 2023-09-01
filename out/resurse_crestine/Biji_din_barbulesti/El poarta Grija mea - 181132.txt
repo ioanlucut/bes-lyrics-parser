@@ -1,0 +1,27 @@
+[title]
+El poarta grija mea {author: {Biji din Barbulesti}, {rcId: {181132}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Tu, tu mă iubeșți,
+Viață îmi dăruieșți,
+Tu mi-ai spus Isus,
+Să-mi strâng comoară sus.
+Să nu mă îngrijesc,
+De ziua ce-o trăiesc.
+
+[c]
+El poartă, El poartă grija mea,
+El poartă, El poartă grija ta.
+Fiindcă mă iubește, și mă ocrotește,
+Fiindcă te iubește, și te ocrotește.
+
+[v2]
+Tu, îmi vei purta,
+În toate Isus grija mea.
+Și orice ar veni,
+Pe tin’ te voi sluji.
+Și vreau să-ți dovedesc,
+Isus că te iubesc.

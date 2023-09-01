@@ -1,0 +1,35 @@
+[title]
+Cand rataceam in noapte {author: {Anonim}, {rcId: {4333}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Când rătăceam în noapte
+Ca un fiu pierdut
+Ți-ai întins o mână
+Și-n casa Ta m-ai dus
+Mi-ai oferit căldură,
+La pieptul Tău m-ai strâns
+Cuvinte de iubire,
+Isuse, Tu mi-ai spus.
+
+[c]
+Ce bun ești Doamne,
+Atât de bun,
+Recunoscător ’naintea-Ți
+Cu tot ce am mă-nchin.
+De la Tine-am totul
+Și vreau să-Ți mulțumesc,
+Tu ești cel mai bun Prieten,
+Cel mai bun Tu ești.
+
+[v2]
+Simțeam cum altă lume
+Atunci mă cucerea,
+Un cer senin albastru
+Și-un veșnic soare cald.
+Și-atâția oameni care
+Sunt frații mei mi-au spus
+Doar dragostea e steagul
+Sub care Tu ne-ai strâns.

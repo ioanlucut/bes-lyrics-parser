@@ -1,0 +1,43 @@
+[title]
+Un prieten la nevoie - friends {author: {Michael W. Smith, Traducere RO}, {rcId: {2082}}
+
+[sequence]
+v1,v2,v3,c
+
+[v1]
+Lacrimi mari în ochi ca roua
+Pe-obraji șuvoaie reci se scurg
+În inimă speranța mai rămâne
+O lumină strălucind vioi
+Zi după zi în suflet
+Dragostea Ta o simt mereu
+Căci-am fost suntem și fi-vom
+De dragoste legați pe veci
+
+[v2]
+Un prieten la nevoie
+În Domnul ai mereu
+Un prieten ce coboară
+La tine când ți-e greu
+Nu va-ntârzia defel
+Dacă-n rugă tu Îi ceri
+Izbăvirea astăzi El îți dă în dar
+
+[v3]
+Dumnezeu din cer spre tine
+Harul Său măreț coboară
+Pe cruce Fiul Său murise
+Iertare să primești în dar
+Inima ta e tot ce vreau
+Lucrul cel mai de preț îl ai
+Căci ce-i scris e da și amin
+Cuvântul Său va ține-n veci.
+
+[c]
+/: Un prieten la nevoie
+În Domnul ai mereu
+Un prieten ce coboară
+La tine când ți-e greu
+Nu va-ntârzia defel
+Dacă-n rugă tu Îi ceri
+Izbăvirea astăzi El îți dă în dar :/

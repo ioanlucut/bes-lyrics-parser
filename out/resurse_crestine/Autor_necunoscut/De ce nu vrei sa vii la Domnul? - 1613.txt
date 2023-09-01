@@ -1,0 +1,35 @@
+[title]
+De ce nu vrei sa vii la domnul? {author: {Anonim}, {rcId: {1613}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: De ce nu vrei să vii la Domnul
+Când El te cheamă pe-al Său drum
+Să mergi voios și să lași totul
+Ce te împiedică acum? :/
+
+[c]
+/: O vino azi :/ cât mai degrabă
+Căci mâine va fi prea târziu,
+Isus te cheamă-n fericire
+Vino acum cât mai ești viu. :/
+
+[v2]
+/: El pentru tine a suferit
+Sus la Golgota, la Calvar
+Și-n locul tău El a murit
+Vino acum la al Său har. :/
+
+[v3]
+/: Vino să vezi și tu iubirea
+Cea sfântă și nemărginită
+Și vei vedea tu fericirea
+Ce pentru sfinți e pregătită. :/
+
+[v4]
+/: Cu El vom fi în veșnicie,
+Mereu, mereu vom lăuda,
+Sus va fi mare bucurie
+Și-I vom cânta: Aliluia. :/

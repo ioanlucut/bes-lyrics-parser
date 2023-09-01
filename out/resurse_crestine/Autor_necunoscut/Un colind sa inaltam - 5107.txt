@@ -1,0 +1,39 @@
+[title]
+Un colind sa inaltam {author: {Anonim}, {rcId: {5107}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Un colind să înălțăm
+S-a născut Isus Hristos.
+Din inimă să-I cântăm
+S-a născut Isus Hristos.
+
+[c]
+Aleluia, Aleluia,
+S-a născut Isus Hristos.
+
+[v2]
+Mii de îngeri cântă-n cor -
+S-a născut Isus Hristos.
+El ne e Mântuitor -
+S-a născut Isus Hristos.
+
+[v3]
+Vestea bună auziți -
+S-a născut Isus Hristos.
+Pe Isus să Îl primiți -
+S-a născut Isus Hristos.
+
+[v4]
+Vino azi să-ngenunchem -
+S-a născut Isus Hristos.
+Vino azi la Betleem -
+S-a născut Isus Hristos.
+
+[v5]
+Glorie în veșnicii -
+S-a născut Isus Hristos.
+Să răsune pe câmpii -
+S-a născut Isus Hristos.

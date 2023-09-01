@@ -1,0 +1,39 @@
+[title]
+Esti izbavirea mea versuri {author: {irinamoisa}, {rcId: {145646}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Mi-e fața scăldată în lacrimi...
+În suflet suspin după al tău dor...
+/: Te aștept să vii Isuse Doamne,
+Te aștept Isus să vii cu dor
+ /:
+
+[c]
+/: Ești izbăvirea mea...
+Ești tot ce am mai scump,
+Ești dragostea, ce mi-a cuprins inima mea
+/:
+
+[v2]
+Te aștept să vii Isuse noaptea...
+Căci eu sunt treaz și vegheator...
+/: Te aștept să vii Isuse ziua,
+Când ard Isuse, de-al tău dor
+ /:
+
+[v3]
+Te aștept, candela e aprinsă...
+Și fața ta, vreau a-ți vedea,
+/: Și mâna care a fost întinsă,
+Din dragoste a mă salva
+ /:
+
+[v4]
+Eu plâng cu fața înlăcrimată...
+De ale tale bucurii,
+/: Îți mulțumesc, o Sfinte Tată,
+De prețul tainicei iubirii
+ /:

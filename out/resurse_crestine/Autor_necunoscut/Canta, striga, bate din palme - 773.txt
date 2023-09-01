@@ -1,0 +1,19 @@
+[title]
+Canta striga bate din palme {author: {Anonim}, {rcId: {773}}
+
+[sequence]
+c,v1,c
+
+[c]
+Cântă, strigă, bate din palme,
+Stăpânului Îi dă laudă,
+Pleacă-te înaintea Domnului!
+Cântă, strigă, bate din palme,
+Stăpânului Îi dă laudă,
+Că El e un mare Dumnezeu!
+
+[v1]
+Astăzi e zi de sărbătoare,
+E ziua când ne bucurăm,
+Mărețul Rege ne-a eliberat,
+Să Îi dăm laudă Numelui Său!

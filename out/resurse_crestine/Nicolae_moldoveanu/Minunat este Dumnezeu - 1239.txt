@@ -1,0 +1,40 @@
+[title]
+Minunat este dumnezeu {author: {Nicolae Moldoveanu}, {rcId: {1239}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Minunat este Dumnezeu,
+Minunat, minunat,
+În iubirea Sa, în dreptatea Sa
+Și în jertfa Sa
+Dumnezeu este minunat!
+
+[c]
+În tot ce ne--a dat, e El arătat
+În slavă--mbrăcat, Etern Împărat.
+Dumnezeu, Dumnezeu minunat,
+Fie-n veci, fie-n veci lăudat!
+
+[v2]
+Minunat este Dumnezeu,
+Minunat, minunat,
+În lucrarea Lui, în puterea Lui
+Și în harul Lui
+Dumnezeu este minunat!
+
+[v3]
+Minunat este Dumnezeu,
+Minunat, minunat,
+Între sfinții Săi, pe--ale Sale căi,
+Și pe munți, și--n văi
+Dumnezeu este minunat!
+
+[v4]
+Minunat este Dumnezeu,
+Minunat, minunat,
+Și--n trecutu--apus,
+Și--n prezentu--adus,
+Și în „mâine„ spus
+Dumnezeu este minunat!

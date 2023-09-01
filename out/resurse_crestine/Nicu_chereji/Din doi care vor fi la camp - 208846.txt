@@ -1,0 +1,35 @@
+[title]
+Din doi care vor fi la camp {author: {Nicu Chereji}, {rcId: {208846}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Din doi care vor fi la câmp, unul va fi luat
+Cuvântul ce e scris, e viu și-adevărat
+Acest eveniment se va împlini, ce glorios
+Ne-arată Biblia, ne-a spus Isus Hristos.
+
+[c]
+Unde o să fii când Isus va veni
+Unde vei privi, în jos ori spre nălțimi
+Cum te va găsi, pierdut ori pregătit
+Ai să plângi ori vei fi fericit.
+
+[v2]
+Pentru un blid de linte, dreptul de întâi născut
+Mulți dintre-ai noștri frați, ce trist ei l-au pierdut
+Pentru plăceri de-o clipă ce aduc doar amăgiri
+Nu se mai pot numi nici fiice și nici fii.
+
+[v3]
+Deșarte învățături și multe mari filozofii
+Se strecură-ntre frați, ai Domnului copii
+Ei spun căci mântuirea ce odată ai primit
+Poți s-o păstrezi chiar și de ești nechibzuit.
+
+[v4]
+Păstrează ce-ai primit și nu lasă nimic străin
+Să te înșele amar, la urma să suspini
+Alege adevărul și fii plin de Duhul Sfânt,
+Ce îți va da aripi, să zbori de pe pământ!

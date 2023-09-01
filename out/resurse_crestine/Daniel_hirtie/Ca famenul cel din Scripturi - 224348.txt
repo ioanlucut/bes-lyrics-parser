@@ -1,0 +1,51 @@
+[title]
+Ca famenul cel din scripturi {author: {Daniel Hîrtie}, {rcId: {224348}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ca famenul cel din Scripturi
+Oprește carul tău în loc,
+Încheie grabnic legământ
+De-ai fost atins de Sfântul Foc!
+Nu mai goni prin greu pustiu,
+Coboară-te acum la râu
+Căci viața ta se va sfârși,
+Grăbește până nu-i târziu!
+
+[c]
+Dacă ai înțeles tot ce ți s-a spus
+Trebuie să crezi și să te botezi!
+Cine va putea a te-mpiedica
+Intr-acum în apă, nu mai amâna!
+
+[v2]
+Ca famenul cel din Scripturi
+De-ai auzit despre Isus
+Cum El a fost batjocorit
+Și răstignit pe-o cruce sus,
+Nu fi nepăsător acum
+De suferința Mielului,
+O, vino azi să te botezi
+De crezi în jertfa Domnului!
+
+[v3]
+Căci nu contează cine ești
+Oricât de mare-aici ai fi,
+Tu trebuie să te botezi
+De vrei s-ajungi în veșnicii!
+De ești bogat sau învățat
+De ești ministru ori savant
+Acesta-i pasul spre Isus
+De vrei să fii răscumpărat!
+
+[v4]
+Adu-ți aminte cum Isus
+Veni odată la Ioan
+Să împlinească tot ce-i scris,
+Intrând în apă, în Iordan.
+De-atunci exemplu de urmat
+Rămas-a Domnul pentru noi,
+Veniți acum să Îl urmăm,
+Veniți la râu, veniți și voi!

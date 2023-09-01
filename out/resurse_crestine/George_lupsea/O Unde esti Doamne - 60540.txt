@@ -1,0 +1,35 @@
+[title]
+O unde esti doamne {author: {George Lupsea}, {rcId: {60540}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Dam-i Tu Din Puterea Divina Din Cer
+Ce-aduce Salvare La Cei Care Pier
+Si Fa Ca Sa Fiu O Lumina Aici
+Sa Vada Aceia Ce Sint Rataciti
+
+[c]
+O Unde Esti Doamne
+Caci Eu Te-am Cautat
+Aprinde Lumina
+Ca Sa Pot Vedia
+
+[v2]
+O Doamne Fa-mi Inima Tu Un Eden
+Acolo Sa Pot Sa Te Vad Domnul Meu
+Sa Simt Eu Fiorul Duhului Tau Sfint
+Cat Timp Eu Trai Voi Aici Pe Pamint
+
+[v3]
+Deschide Tu Bolta Isuse Iubit
+Priveste La Mine Cat Sint Obosit
+Si Spalama In Singe Sa Fiu Curatat
+Prin Singele T-au Eu Voi Fi Vindecat
+
+[v4]
+Te Laud Pe Tine O Doamne Ceresc
+De Tot Ce In Mine Ai Pus Domnul Meu
+Cuvintul T-au Doamne E Pe Calea M-ia
+Care Ma Conduce Spre Patria Ta

@@ -1,0 +1,46 @@
+[title]
+Cand la noi tu ai venit {author: {Daniel Briciu}, {rcId: {240334}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când la noi Tu ai venit,
+Cerul când L-ai părăsit
+Loc în case n-ai avut,
+Și în staul te-ai născut.
+Cu păstorii n-am venit
+În locașul cel smerit,
+Nici cu magii n-am intrat
+Daruri sfinte nu ți-am dat.
+
+[c]
+/: Însă Tu, Isuse, dragostea ne-ai oferit
+Și ai venit din cerul slăvit
+Ce mult, Doamne, Tu ne-ai iubit! :/
+/: Însă Tu, Isuse, dragostea ne-ai oferit
+Și ai venit din cerul slăvit
+Ce mult, Doamne, Tu ne-ai iubit! :/
+/: Însă Tu, Isuse, dragostea ne-ai oferit
+Și ai venit din cerul slăvit
+Ce mult, Doamne, Tu ne-ai iubit! :/
+
+[v2]
+Printre noi Tu ai umblat
+Plin de harul minunat,
+Ne-ai hrănit, ne-ai vindecat
+Și Cuvântul Tău ne-ai dat.
+Pe o cruce noi Te-am pus
+Fără milă Te-am străpuns,
+Te-am hulit și Te-am scuipat
+Vin și fiere noi Ți-am dat.
+
+[v3]
+Astăzi noi îți mulțumim
+Pentru harul ce-l primim,
+Căci în sângele-Ți vărsat
+Mântuire am aflat.
+Azi noi spunem tuturor
+Despre-al nostru Salvator
+Ca orice om păcătos
+Să se-ntoarcă la Hristos.

@@ -1,0 +1,31 @@
+[title]
+O cetate statatoare {author: {Nicolae Moldoveanu}, {rcId: {5757}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+O cetate statatoare o Nu avem pe-acest pamant;
+Suntem azi in cautarea o Celei ce e-n cerul sfant.
+
+[c]
+Cetatea mea, curand te voi vedea;
+Spre tine zboara al meu gand mereu...
+Cetatea mea, tu esti iubirea mea!
+In tine e Domnul Dumnezeu!
+
+[v2]
+Sus, in tine-i Raul vietii o Limpede, ca un cristal;
+El, prin mijlocul cetatii, o Curge vesnic triumfal.
+
+[v3]
+Iar cetatea e de aur o Si cu ziduri de iaspis;
+Temelii, maret tezaur o Care Domnul ne-a promis.
+
+[v4]
+Strazile sunt aurite, o Portile-s de margarit;
+Vesnic n-or fi zavorate! o N-a fi noapte,-n infinit!
+
+[v5]
+In cetate, nu e soare o Caci lumina-i Dumnezeu!
+Vom umbla in sarbatoare, o Il vom lauda mereu.

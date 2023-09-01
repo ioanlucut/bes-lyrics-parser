@@ -1,0 +1,45 @@
+[title]
+Bucurie bucurie {author: {Daniel Dinescu}, {rcId: {55566}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Bucurie, bucurie
+Vino astăzi peste mine.
+
+[c]
+/: Să mă bucur că sub Soare,
+Nu sunt singur pe cărare,
+Că-s cu Domnul meu Isus,
+Pe Pământ și-n Ceruri sus :/
+
+[v2]
+Nu sunt singur pe Pământ
+Am un Tată-n Ceruri sus.
+
+[c2]
+/: Jos la mine El coboară,
+Știe c-am în suflet rană,
+Chiar de rana-i dureroasă,
+Când vine El sunt voios :/
+
+[v3]
+Și-a venit Domnul Isus
+Și dragoste El mi-adus,
+
+[c3]
+/: Și Isus m-a învățat,
+Să-l iubesc pe-al meu vrăjmaș,
+Cu săgeți multe aruncă,
+Eu i-arăt dragoste multă :/
+
+[v4]
+Când ți-o da Isus și ție
+Dragoste cum mi-a dat mie.
+
+[c4]
+/: N-ai să mai fii așa rău,
+Că ești a lui Dumnezeu,
+Căci El viața ți-a schimbat,
+De frate neîncetat :/

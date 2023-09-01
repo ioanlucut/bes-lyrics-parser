@@ -1,0 +1,47 @@
+[title]
+Doamne tu ai spus {author: {Anonim}, {rcId: {7043}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Doamne Tu ai spus
+Că unde vor fi doi sau trei
+Adunați în al tău nume
+Tu vei fi cu ei
+
+[c]
+Scump Isuse scump, Isuse
+Te chemăm să vi la noi
+Și-ntre noi, că-n al Tău Nume,
+/: Ne-adunăm :/
+
+[v2]
+Binecuvintează locul
+Unde ne-ai adus
+Duhul Tău cel Sfânt
+Revarsă peste noi de Sus
+
+[v3]
+Binecuvintează Frații
+Ce Cuvântu-Ți spun
+Binecuvintează rodul
+Ascultării bun
+
+[v4]
+Rugăciunile ascultă
+Cum Ți le-nălțăm
+Și sfințește viața noastră
+Ție ți-o predăm
+
+[v5]
+Fă-ne să-mplinim Cuvântul
+Cu adevărat
+Fiecare să ne-ntoarcem
+Binecuvântați
+
+[v6]
+Și-n acest Sabat Isuse
+Noi ne-am adunat
+Ca să-Ți mulțumim o Doamne
+Tu ne-ai binecuvântat.

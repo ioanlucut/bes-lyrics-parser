@@ -1,0 +1,41 @@
+[title]
+Acei ce stau intotdeauna {author: {Otniel Stirb}, {rcId: {199027}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Acei ce stau întotdeauna,
+La umbra Celui Preaînalt,
+Ei despre Domnul spun într-una:
+El este cetățuia mea!
+Când lumea-ntreagă se frământă,
+De groaza care-i pe pământ,
+Noi nu ne clătinăm pe stâncă,
+La adăpostul Celui sfânt!
+
+[c]
+/: Iehova Domnul Dumnezeul nostru mare,
+Cu brațul Său ne va păzi.
+El pentru noi dă oameni și popoare,
+Și nu ne temem orice ar veni! :/
+
+[v2]
+Căci Domnul poate să ne scape,
+De lațul vânătorului,
+De ciuma care umblă-n noapte,
+Și chiar din gura leului.
+Nu-ți fie frică de săgeata,
+Ce zboară peste cortul tău,
+În mâna Lui tu pune-ți soarta,
+Vei fi ferit de orice rău.
+
+[v3]
+Atunci când vor cădea o mie,
+Și zece mii la dreapta ta,
+Să nu te temi nici prin pustie,
+El mană sfântă îți va da.
+Căci Mă iubește, zice Domnul,
+De-aceea Eu îl voi păzi,
+Voi fi cu el în strâmtorare,
+Și voi preface noaptea-n zi!

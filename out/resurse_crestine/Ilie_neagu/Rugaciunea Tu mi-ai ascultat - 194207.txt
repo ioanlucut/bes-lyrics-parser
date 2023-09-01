@@ -1,0 +1,30 @@
+[title]
+Rugaciunea tu mi-ai ascultat {author: {Ilie Neagu}, {rcId: {194207}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cu bucurie astăzi mă-nchin
+Tot ce am de la Tine primesc
+Sufletu-mi cântă căci mi-e senin
+Jertfa buzelor îți dăruiesc!
+
+[c]
+/: Rugăciunea Tu mi-ai ascultat
+De mine Doamne Te-ai îndurat
+Te-ai plecat spre mine, m-ai mântuit
+Și din temeri Tu m-ai izbăvit!
+ /:
+
+[v2]
+O cântare ai pus în gura mea
+Un imn de slavă pentru Tine Isus
+Îți cânt din toată inima
+Ajutor Tu mi-ai trimis de sus.
+
+[v3]
+În părtășie cu Tine când stau
+Mă cercetezi și îmi vorbești
+Viața mea cu drag îți predau
+Iar Tu cântări îmi dăruiești.

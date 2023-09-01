@@ -1,0 +1,35 @@
+[title]
+Noi nu ne vom teme de-al mortii priboi {author: {Nicolae Moldoveanu}, {rcId: {5688}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Noi nu ne vom teme, de-al morții priboi
+Fiindcă Isus Domnul, este cu noi;
+Prin văile morții, vom trece cântând,
+Spre slava cerească, privirea având.
+
+[c]
+Chiar dac-ar fi ca să murim,
+Pentru Isus, ne dăruim!
+/: Chiar dac-ar fi, :/
+Noi, înapoi, nu vom mai privi.
+
+[v2]
+Noi nu ne vom teme, de-al morții fior,
+Călăuziți fiind de-al Duhului nor;
+La luptă, vom merge spre-un nou Canaan,
+Și îl vom învinge pe-al nostru dușman.
+
+[v3]
+Noi nu ne vom teme, de-al morții bolid!
+La luptă, vom merge, ca vechiul David,
+În Numele Domnului oștirilor
+Și chiar dacă vom trece printr-un cuptor.
+
+[v4]
+Noi nu ne vom teme, de-al morții soroc!
+În cărțile sfinte era prorocit
+Ca lumea aceasta va arde în foc,
+Așa cum și Sodoma s-a nimicit.

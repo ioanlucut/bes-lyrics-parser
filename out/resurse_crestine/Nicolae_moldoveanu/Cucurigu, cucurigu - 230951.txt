@@ -1,0 +1,21 @@
+[title]
+Cucurigu cucurigu {author: {Nicolae Moldoveanu}, {rcId: {230951}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Cucurigu, cucurigu! A cântat cocoșul rar
+iară Petru cel cu vina s-a trezit și-a plâns cu-amar.
+
+[v2]
+Cucurigu, cucurigu! Cugetul cu glasul mut,
+ne trezește, ca pe Petru, când în vină am căzut.
+
+[v3]
+Să nu-i amuțim noi glasul, prin păcatul repetat,
+căci atunci cocoșul nostru se oprește din cântat.
+
+[v4]
+Ci spre Domnul, cu căință ca și Petru să venim
+El ne iartă și ne-ndeamnă curăția s-o păzim, ascultarea s-o-mplinim.

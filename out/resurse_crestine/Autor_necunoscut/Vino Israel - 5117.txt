@@ -1,0 +1,23 @@
+[title]
+Vino israel {author: {Anonim}, {rcId: {5117}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Vino Israel,
+Nu te teme, crede-n El,
+În Domnul Dumnezeu.
+
+[c]
+Șalom, șalom, Ierușalaim.
+Șalom, șalom,
+Șalom, șalom, Ierușalaim.
+
+[v2]
+El te așteaptă,
+El nu te alungă,
+Te va reprimi.
+El te conduce
+Pe calea cea dreaptă
+Veșnic, zi de zi.

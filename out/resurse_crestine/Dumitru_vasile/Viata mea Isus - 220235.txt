@@ -1,0 +1,29 @@
+[title]
+Viata mea isus {author: {Dumitru Vasile}, {rcId: {220235}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Inima-mi strigă după Tine
+Și sufletul mi-e plin de dor
+De n-ai fi fost Tu lângă mine
+Viața mea nu avea un rost :/
+
+[c]
+Viața mea, Isus
+O pun in mâna Ta
+De-acum eu vreau, să-ți spun
+Să faci ce vrei cu ea
+
+[v2]
+/: Dar Tu te-ai îndurat de mine
+Și-n brațul Tău Isus m-ai luat
+Să stau o Doamne lângă Tine
+Și să Te laud ne-încetat :/
+
+[v3]
+/: Pe drumul Tău Isuse drag
+Voi merge chiar și prin durere
+Dar Te rog Doamne ne-încetat
+Tu să îmi dai putere :/

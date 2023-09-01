@@ -1,0 +1,35 @@
+[title]
+In inima am un dor nespus {author: {Anonim}, {rcId: {76041}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+In inima am un dor nespus
+Ce ma apasa asa de greu
+Dorul dupa Tine Isus
+Iehova Sfant o Tatal meu.
+
+[c]
+/: Isus Isus cand vei venii
+Sa-Ti iei mireasa in vesnicii
+Aduti aminte si de mine
+Cand strig la Tine si supin :/
+
+[v2]
+Vezi valuri grele se abat
+Sa ma doboare in drumul greu
+Si vanturi tari si reci se abat
+Sa ma doboare in drumul meu.
+
+[v3]
+Caci vreau sa-Ti fiu urmas fidel
+De langa mine sa nu pleci
+Ca sa raman sub crucea Ta
+Sa ma odihnesc sub umbra Ta.
+
+[v4]
+Dar cand poporul in linul zbor
+Se va indrepta curand spre nori
+Sa-Ti amintesti de mine
+Dar sa nu plang Doamne in zadar.

@@ -1,0 +1,25 @@
+[title]
+Dac-am sa plec; e viata mea {author: {Adi Gliga}, {rcId: {56534}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Dacă-am să plec, nu voi regreta
+Dincolo de moarte, când toate-s departe
+M-așteaptă o viață ce-o doresc.
+
+[c]
+E viața mea!
+Căci nu-i viața mea...
+E viața mea!
+
+[v2]
+Dacă-am să plec, în urmă voi lăsa
+O viață în care, cu lacrimi amare,
+Doream ne-ncetat să nu fiu.
+
+[v3]
+Dac-am să plec, mă voi bucura
+De-o viață în care, Isus este Soare,
+Și lacrimi în ochi nu vor fi.

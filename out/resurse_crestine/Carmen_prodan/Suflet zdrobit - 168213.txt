@@ -1,0 +1,41 @@
+[title]
+Suflet zdrobit {author: {Carmen Prodan}, {rcId: {168213}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+O, suflete zdrobit, unde alergi
+Cu povara ta?
+Unde te duci să cauți adăpost
+Când vine ziua grea?
+
+[c]
+/: Vino la Isus cu-a ta durere!
+El rana grea ți-o va lega
+Si mângâiere îti va da,
+Domnul Dumnezeul tău:\
+
+[v2]
+Unde alergi când ești disprețuit
+Și de toți uitat?
+Te-ncrede-n Cel ce-atunci când ți-a fost greu
+Nicicând nu te-a lăsat!
+
+[c2]
+/: Crede ne-ncetat în Cel ce poate
+Să-ți ia tristeatea cea mai grea,
+Să poarte El povara ta,
+Crede-n Domnul Dumnezeu! :\
+
+[v3]
+De șapte ori de cazi sub greul tău,
+Nu descuraja!
+El ce-a promis, va ține negreșit
+Si te va ridica.
+
+[c3]
+/: Crede ne-ncetat în Domnul, frate!
+De faci din El taria ta,
+Nimic nu te va clătina,
+Crede-n biruinta Sa! :\

@@ -1,0 +1,29 @@
+[title]
+Toti copiii ii cantam {author: {Speranța pentru copii}, {rcId: {87369}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Isus e sfânt, Isus e sfânt
+Nimeni nu-i ca El așa de sfânt
+Isus e sfânt, Isus e sfânt
+E sfânt în cer și pe pământ.
+
+[c]
+Toți copiii Îi cântăm
+Pe Isus Hristos Îl lăudăm.
+Toți copiii Îi cântăm
+Pe Isus Hristos Îl lăudăm.
+
+[v2]
+Isus e Domn, Isus e Domn
+Isus e Regele Regilor
+Isus e Domn, Isus e Domn
+Isus e Domnul Domnilor.
+
+[v3]
+Isus e bun, Isus e bun
+În veci de veci ține bunătatea Lui
+Isus e bun, Isus e bun
+E mare bunătatea Domnului.

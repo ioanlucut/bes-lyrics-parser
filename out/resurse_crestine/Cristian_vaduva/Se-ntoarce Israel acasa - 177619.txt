@@ -1,0 +1,35 @@
+[title]
+Se-ntoarce israel acasa {author: {Cristian Văduva}, {rcId: {177619}}
+
+[sequence]
+v1,c,c2,v1,v2,c,c2,v1,v3,c,c2,v1
+
+[v1]
+/: Se întoarce Israel acasă,
+Din răsărit și celelalte zări,
+Azi Domnul îi cheamă la masă,
+Ei vin din cele patru depărtări. :/
+
+[c]
+Pe cai și dromadere, s-au umplut de putere,
+Cu bani și cu avere și cu mari bogății.
+Ei vin și vin întruna, Păstoru-și cheamă turma
+Le e făcută urma, te-așteaptă ca să vii.
+
+[c2]
+Alungați de vrășmași, în cuptoare au fost arși.
+Când ai morții cruzi pași, într-una i-au urmărit,
+N-avea apă să bea, doar la Tine striga,
+Tu din dragostea Ta, într-una i-ai auzit!
+
+[v2]
+Căci te-au bătut popoarele din lume, și mult necaz și greu ai pătimit,
+Dar Domnul azi te strigă iar pe nume, necazul tău Israel s-a sfârșit!
+Cădeava-ți jos mahrama de pe față, să vezi cu ochii mântuirea ta,
+Întreaga Lege spuse despre El, dar ochii tăi nu l-au putut vedea.
+
+[v3]
+Eu te iubesc cu dragoste de mamă, mânia pentru tine s-a sfârșit!
+Căci glasul Meu milos astăzi te cheamă: ” Vino acas’ poporul Meu iubit
+Și ai să uiți cântarea jalei tale, căci noi cântări voi pune-n pieptul tău,
+Să nu te mai cobori nicicând în vale, cu tin’ va fi însuși Dumnezeu!”

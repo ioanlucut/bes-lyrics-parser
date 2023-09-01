@@ -1,0 +1,61 @@
+[title]
+N-auzi tu pasii lui duiosi {author: {Nicolae Moldoveanu}, {rcId: {246218}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+N-auzi tu pașii Lui duioși,
+Cum casa-ți-mpresoară,
+Și-n ușa ta n-auzi bătând,
+Chemarea Lui ușoară?
+/: Chemarea Lui, chemarea Lui,
+Chemarea Lui ușoară! :/
+
+[v2]
+Când încă-n zori mai strălucesc
+A-nopții stele rare,
+Nu simți pe rouă picurând
+Duioasa Lui chemare?
+/: Duioasa Lui, duioasa Lui,
+Duioasa Lui chemare. :/
+
+[v3]
+Când bunătatea-I varsă larg
+Belșugul spre-a ta casă,
+Nu vezi pe pâine strălucind
+Chemarea Lui duioasă?
+/: Chemarea lui, chemarea lui,
+Chemarea Lui duioasă? :/
+
+[v4]
+Când rugăciunii răspunzând,
+Durerea ta ți-o duce,
+Nu vezi că-n vindecarea ta,
+Chemarea Lui străluce?
+Chemarea Lui, chemarea Lui,
+Chemarea Lui străluce.
+
+[v5]
+Când și mai mult de ce-ai gândit,
+Îți dă cu-ndestulare,
+Nu simți că-n bunătatea Sa,
+Străluce-a Lui chemare?
+/: Străluce-a Lui, străluce-a Lui,
+Străluce-a Lui chemare. :/
+
+[v6]
+Când dragostea-nfășoară cald,
+Ființa ta întreagă,
+N-auzi chemarea Lui cum vrea
+La sânu-I să te-atragă?
+/: Chemarea Lui, chemarea Lui,
+La sânu-I să te-atragă. :/
+
+[v7]
+De ce nu vezi, de ce n-auzi,
+De ce nu simți cum vine,
+De-atâția ani, pe-atâtea căi,
+Chemarea Lui spre tine?
+/: Chemarea Lui, chemarea Lui
+Chemarea Lui spre tine! :/

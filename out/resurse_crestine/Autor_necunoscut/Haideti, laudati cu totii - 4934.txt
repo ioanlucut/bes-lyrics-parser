@@ -1,0 +1,28 @@
+[title]
+Haideti laudati cu totii {author: {Anonim}, {rcId: {4934}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+Haideți, lăudați cu toții
+Pe Dumnezeul Sfânt al lui Israel.
+Ridică-ți mâinile și cântă-I Numele,
+Căci Dumnezeu te-a ridicat.
+
+[v1]
+Haideți, haideți,
+Să urcăm pe Muntele Sfânt,
+Unde-i veselie și cânt,
+Să strigăm în fața Lui,
+Să jucăm în fața Lui,
+El e Domn, sus în cer
+Unde-i tronul Său.
+
+[v2]
+Hava nagila, hava nagila,
+Hava nagila, v’nism’chah.
+Hava n’ranena, hava n’ranena
+Hava n’ranena v’nism’chah.
+Uru, uru, achim.
+Uru, achim, belev sameach!

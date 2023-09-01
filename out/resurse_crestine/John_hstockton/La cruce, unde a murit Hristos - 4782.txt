@@ -1,0 +1,35 @@
+[title]
+La cruce unde a murit hristos {author: {John H.Stockton}, {rcId: {4782}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+La cruce unde a murit Hristos,
+Eu am venit ca un păcătos;
+Sângele Lui mi-a fost de folos.
+Laudă lui Hristos!
+
+[c]
+/: Laudă lui Hristos!
+Laudă lui Hristos
+Sângele Lui mi-a fost de folos.
+Lauda Lui Hristos! :/
+
+[v2]
+Ce minunat: sunt eliberat
+Domnul pe cruce mult a răbdat,
+El mi-a dat harul de-a fi iertat.
+Laudă lui Hristos!
+
+[v3]
+Tu sfânt izvor ce speli de păcat,
+Un loc mai bun eu nu am aflat;
+Numai la cruce pot fi salvat.
+Laudă lui Hristos!
+
+[v4]
+Vino si bea din acest izvor,
+Te-nchină bunului Salvator,
+Crede în El, fii ascultător.
+Laudă lui Hristos!

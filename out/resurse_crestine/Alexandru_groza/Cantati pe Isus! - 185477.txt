@@ -1,0 +1,29 @@
+[title]
+Cantati pe isus {author: {Alexandru Groza}, {rcId: {185477}}
+
+[sequence]
+v1,b,c,v2,c
+
+[v1]
+Frumoase sunt, Doamne, lucrările Tale
+Slăvit ești Tu, Doamne, de tot ce-ai creat
+Universul întreg, Te adoră-Ți dă slavă
+Și în sufletul frânt, Doamne Tu ești lăudat
+
+[b]
+Plăcute, sunt Doamne, cântările Tale
+În inimile ce te iubesc
+Ele-aduc mângâiere și pace divină
+Și sufletul frânt, Doamne, Tu-L întărești
+
+[c]
+Cântați pe Isus, Numele Lui este sfânt
+Vestiți mântuirea ce-i scrisă-n Cuvânt
+Domnul dă pace în sufletul frânt
+Mai multă lumină s-avem pe pământ
+
+[v2]
+O poartă din cer înspre noi s-a deschis
+Și Domnul privește spre cel umilit
+Ziua-i aproape, El va reveni
+Și sufletul frânt mântuire va primi!

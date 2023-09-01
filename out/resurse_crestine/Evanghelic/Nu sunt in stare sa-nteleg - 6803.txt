@@ -1,0 +1,35 @@
+[title]
+Nu sunt in stare sa-nteleg {author: {Evanghelic}, {rcId: {6803}}
+
+[sequence]
+v1,v2,v3,c,v4,c
+
+[v1]
+Nu sunt în stare să-nțeleg
+Al Dumnezeului plan drept
+Dar știu că sus la dreapta Lui
+Stă Isus, Salvatorul
+
+[v2]
+Îl cred pe El și-al Său Cuvânt
+Isus muri să fiu eu sfânt
+Vreau inima să-i dăruiesc
+Lui Isus, Salvatorul
+
+[v3]
+El Și-a lăsat al Său loc sfânt
+Să vină aici jos pe pământ
+Răspunsu-i simplu: L-am găsit
+În Isus, Salvatorul
+
+[c]
+/: El este viu, El m-a iubit
+De-a pururi stânca mea va fi
+Domnul a fost, Domnul va fi
+Domnul meu veșnic va domni :/
+
+[v4]
+Trăind, murind aș vrea să-ți spun
+De Dumnezeul sfânt și bun
+Cel ce trăiește-n veșnicii
+Muri să mă salveze

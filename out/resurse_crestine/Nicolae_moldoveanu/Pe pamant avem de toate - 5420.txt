@@ -1,0 +1,36 @@
+[title]
+Pe pamant avem de toate {author: {Nicolae Moldoveanu}, {rcId: {5420}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Pe pământ avem de toate:
+Și mai bune și mai rele;
+Dar, în cer avem un Frate,
+Dincolo de stele.
+
+[c]
+El e Calea, Adevărul!
+El dă pace, bucurie!
+El a dat morților viață
+Și mi-a dat și mie.
+
+[v2]
+N-am știut că am un Frate
+Ce-a-ndurat crucea cumplită
+Și ne-a dat, prin a Lui moarte,
+Viață nesfârșită.
+
+[v3]
+El e Calea, Adevărul!
+Viață pentru toți împarte.
+Cine calcă pe-a-Lui urme
+Nu mai are moarte.
+
+[v4]
+Mi-a vorbit cu vocea-I blândă:
+„
+Dacă vrei să-ți fie bine,
+Poartă-ți și tu a ta cruce!
+Vino după Mine! ”

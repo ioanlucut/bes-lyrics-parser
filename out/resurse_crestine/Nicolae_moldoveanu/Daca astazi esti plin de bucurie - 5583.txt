@@ -1,0 +1,29 @@
+[title]
+Daca astazi esti plin de bucurie {author: {Nicolae Moldoveanu}, {rcId: {5583}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Daca astazi esti plin de bucurie,
+Tare, sanatos... maine cine stie?
+Nu cunosti nimic: clipa, ora, ceasul
+Cand, fara sa stii, ti se-opreste pasul.
+
+[c]
+Daca astazi ai aur si palate,
+Cine ti le da oare, dupa moarte?
+Poate strangi comori pentru... cine stie?
+Vino la Isus, sa-ti dea apa vie!
+
+[v2]
+Astazi Isus vrea sa iti dea cununa.
+Vino, azi, la El, pentru totdeauna!
+Vesnic, tu cu El, in imparatie,
+Vei cunoaste-atunci sfanta bucurie!
+
+[v3]
+Daca astazi esti pacatos si rece,
+Iata-L pe Isus: pe carare, trece!
+Ai prilejul rar, sa iti spui durerea;
+Pentru-o clipa doar leapada tacerea!

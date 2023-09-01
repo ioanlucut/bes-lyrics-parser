@@ -1,0 +1,19 @@
+[title]
+Toti impreuna {author: {Anonim}, {rcId: {5222}}
+
+[sequence]
+v1,v2
+
+[v1]
+Toți împreună vrem să îți cântăm
+Toți împreună să Te lăudăm
+Toți împreună îți spunem Te iubim
+Noi Te iubim Te iubim
+Toți împreună îți spunem Te iubim
+
+[v2]
+Toți împreună vrem să îți cântăm
+Toți împreună să Te lăudăm
+Toți împreună îți mulțumim
+Îți mulțumim mulțumim
+Toți împreună îți mulțumim.

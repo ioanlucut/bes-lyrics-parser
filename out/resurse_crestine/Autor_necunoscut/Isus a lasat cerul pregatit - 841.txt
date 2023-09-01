@@ -1,0 +1,23 @@
+[title]
+Isus a lasat cerul pregatit {author: {Anonim}, {rcId: {841}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Isus a lăsat cerul pregătit
+În lume a venit să poți fii mântuit.
+
+[c]
+Prin Domnul Isus poți fii salvat
+Prin Domnul Isus poți fii iertat
+Prin Domnul Isus poți fii vindecat
+Oricine ai fii tu!
+
+[v2]
+Isus ne-a eliberat de-al nostru greu păcat.
+Pe cruce a suferit să poți fii mântuit
+
+[v3]
+Isus s-a înălțat în cerul preamărit
+Și loc a pregătit pentru cel mântuit!

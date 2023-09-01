@@ -1,0 +1,28 @@
+[title]
+Glorie lauda {author: {Iany și Cristina Laurenciuc}, {rcId: {156911}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În țara lui Israel, în noapte plină de mister
+Când liniștea adâncă plutea între Pământ și Cer,
+Un cor măreț de îngeri venit din empireu,
+Cânta imnul salvării preamărind pe Dumnezeu!
+
+[c]
+Glorie, laudă! S-a născut Mesia!
+Glorie, laudă!cânta omenirea.
+
+[v2]
+Păstorii de la turme spaima i-a cuprins,
+De-atâta strălucire cântări de nedescris...
+”
+Vă spun să nu vă temeți!”, un înger le-a vorbit,
+S-a născut Mântuitorul în cetatea lui David!
+
+[v3]
+Cu îngerii din ceruri, cu păstorii de la oi,
+Îl lăudam pe Domnul că S-a îndurat de noi!
+Strigați, cântați popoare! Isus e Împărat!
+Imnuri sfinte, osanale să răsune ne-ncetat!

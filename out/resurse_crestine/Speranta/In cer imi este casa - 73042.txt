@@ -1,0 +1,38 @@
+[title]
+In cer imi este casa {author: {Speranța}, {rcId: {73042}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Aici sunt pentru-o vreme
+Nu știu cât mai am de stat
+Și unde locuiesc,
+Nu-i nici bordel sau vre-un palat.
+Pe acest pământ, eu am o locuință
+Casa mea e sus, o văd prin credință.
+
+[c]
+/: În cer îmi este casa
+Unde S-a dus Hristos
+Să-mi pregătească un loc atât de frumos
+În orașul de aur, acolo e și casa mea
+Unde pe veci voi locui, când de aici voi pleca. :/
+
+[v2]
+Casa pe care-o am
+Nu e casa-adevărată
+De nu mai plătești la ea,
+Banca ți-o ia pe dată.
+Poate să o ardă focul,
+Și nu mai e de trebuință
+Dragul meu să știi, aici ești doar la locuință.
+
+[v3]
+E bine să ai un loc
+Ca vântul să nu te bată
+Dar nu uita să-ți faci
+O casa-adevărată.
+O casă ca-n povești,
+Să fie a ta reședință
+Fiindca pe pământ, tu esti doar la locuință.

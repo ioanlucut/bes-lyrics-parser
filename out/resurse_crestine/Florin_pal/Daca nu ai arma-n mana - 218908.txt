@@ -1,0 +1,35 @@
+[title]
+Daca nu ai arma-n mana {author: {Florin Pal}, {rcId: {218908}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Dacă nu ai arma-n mână, când la luptă ești chemat
+Vei fugi din câmpul luptei, fiindcă nu ești echipat
+Dacă n-ai cuvântul vieții, scutul Lui în jurul tău
+Vei fi doborât în luptă, de puterea celui rău
+
+[c]
+Ce poți să faci, ce poți să faci?
+Să strigi spre cer să strigi și să nu taci
+Mai poți primi, cât mai e har
+Prin Duhul Sfânt, armura sfântă-n dar
+
+[v2]
+Fă un legământ acuma, în inimă să-l păstrezi
+Dacă vrei înțelepciunea, în cuvântul Lui să crezi
+Înarmează te-n credință, cu dar armătura Lui
+Ca să poți s-ai buruință, împotriva răului
+
+[v3]
+Duhul Sfânt te echipează, ca să poți să-naintezi
+Fiindcă El și azi lucrează, nici-o luptă să nu pierzi
+Căci în lupte e-mpăratul, El merge în fața ta
+Căci în luptă nu e altul, ca mielul din Golgota
+
+[v4]
+O, ajuta-ne, tu, Tată, sus în ceruri s-ajungem
+Dă-ne Tu putere mare, în luptă să nu cădem
+Să rămânem în picioare, până la venirea Ta
+Să putem să-ți dăm onoare, să cântăm spre slava Ta

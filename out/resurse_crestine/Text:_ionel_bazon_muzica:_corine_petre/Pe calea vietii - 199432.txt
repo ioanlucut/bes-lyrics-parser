@@ -1,0 +1,35 @@
+[title]
+Pe calea vietii {author: {Text: Ionel Bazon, Muzica: Corine Petre}, {rcId: {199432}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pe calea vieții merg și eu Isus
+Slăvind Numele Tău cel minunat,
+Căci pentru mine jertfa Te-ai adus;
+Cu viața Ta Tu m-ai răscumpărat!
+
+[c]
+Mai e puțin și vei veni,
+Ce minunată zi va fi!
+Pământu-ntreg va străluci
+Când slava Ta se va ivi.
+Cu toți acei ce Te-au urmat
+Îți vom cânta neîncetat
+Pentru mântuirea, nădejdea și viața
+Ce Tu ne-ai dat!
+
+[v2]
+Pe calea vieții sunt mari bucurii;
+Chiar și-n necazuri poți fi bucuros,
+Căci niciodată singur n-ai să fii:
+Ești însoțit întruna de Hristos!
+
+[v3]
+CODA: Pe calea vieții eu merg fericit,
+Chiar dacă mulți sunt împotriva mea,
+Căci Tu ești scutul meu, ești slava mea!
+Prin brațul Tău puternic, nelipsit,
+Eu voi învinge în orice luptă grea
+Ești tăria mea!

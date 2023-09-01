@@ -1,0 +1,29 @@
+[title]
+Iubirea ta {author: {Nicolae Moldoveanu}, {rcId: {244193}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Iubirea Ta m-a căutat,
+Când eu eram departe,
+Și brațul Tău m-a ridicat
+Din fund adânc de moarte.
+
+[c]
+Îți mulțumesc, îți mulțumesc,
+/: Căci dacă am vreun bine, :/
+Mântuitorul meu ceresc,
+E numai de la Tine.
+
+[v2]
+Și sângele Tău preasfințit
+Spălatu-mi-a păcatul,
+Prin el, pe veci, îndreptățit
+Să fiu eu, vinovatul.
+
+[v3]
+Iar harul Tău cel necuprins
+M-a dus în sfânta-Ți casă,
+Și-n focul fericirii-aprins
+M-a așezat la masă.

@@ -1,0 +1,31 @@
+[title]
+Rataceam in pacat si-n pierzare {author: {The Messengers}, {rcId: {7360}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Rătăceam în păcat și-n pierzare,
+Eram singur în noapte, străin,
+Dar bunul Păstor, cu-ndurare,
+M-a găsit și mi-a dat har din plin.
+
+[c]
+/: Bunătatea,-ndurarea mă vor însoți
+Zi de zi, zi de zi-n viața mea! :/
+
+[v2]
+Cu blândețe El mă-nviorează,
+Și putere îmi dă zi de zi;
+La ape tot El mă conduce,
+Mă păzește de orice-ar veni.
+
+[v3]
+Când străbat valea umbrelor morții,
+El și-atunci îmi rămâne Păstor
+Mă poartă cu mâna Lui tare,
+Spre limanul dincolo de nor.
+
+[e]
+Și voi trăi veșnic în casa Domnului meu,
+La masa Lui, în mărire voi cina.

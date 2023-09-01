@@ -1,0 +1,29 @@
+[title]
+Alerg mereu catre o tinta {author: {Dorel Breabăn}, {rcId: {223995}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Alerg mereu către o țintă,
+Spre Tine, Doamne minunat,
+/: Spre țara veșnică, dorită,
+Unde, Isus, ești împărat. :/
+
+[c]
+/: Aștept să cânt în patria Ta,
+Aceasta e nadejdea mea!
+Un imn sublim s-a înălța
+Când mii de coruri și oștiri îl vor cânta! :/
+
+[v2]
+Am obosit de-atâta cale
+Dar Tu mereu ne întărești,
+/: Tu ne ridici din orice vale
+Și ne conduci spre culmi cerești. :/
+
+[v3]
+În drumul meu, cu bucurie,
+Cobor prin văi, urc înălțimi,
+/: Cu mine port speranța vie:
+Voi fi-n a cerului mulțimi! :/

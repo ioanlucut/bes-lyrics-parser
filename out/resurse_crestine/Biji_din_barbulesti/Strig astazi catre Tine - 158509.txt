@@ -1,0 +1,27 @@
+[title]
+Strig astazi catre tine {author: {Biji din Barbulesti}, {rcId: {158509}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+/: Strig astăzi către Tine,
+Strig, ai milă de mine!
+Nu mă lăsa, nu mă lăsa,
+Nu mă lăsa, în lumea rea. :/
+
+[c]
+Doamne Mare și Puternic,
+Fă din mine un cucernic,
+Un scut tare de apărare,
+Când cel rău vrea să mă doboare!
+Dă-mi, te rog, a Ta credință,
+Ca să stau în pocăință.
+Și să fiu în umilință,
+Până când vei veni!
+
+[v2]
+/: Cel rău e pe a mea urmă,
+Și vrea să mă îndrume,
+La tot ce-i rău, la tot ce-i rău,
+La tot ce-i rău, o Domnul meu. :/

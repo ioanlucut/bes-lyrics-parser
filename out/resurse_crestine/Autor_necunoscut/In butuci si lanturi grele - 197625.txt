@@ -1,0 +1,29 @@
+[title]
+In butuci si lanturi grele {author: {Anonim}, {rcId: {197625}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: În butuci și lanțuri grele
+Pavel și Sila erau
+Chinuiți în acea vreme
+Ei pe Domnul lăudau :/
+
+[c]
+/: Noi cântăm astăzi că Pavel
+Lanțurile să se rupă
+N-avem frică, n-avem teamă
+Că Domnul Isus ne scapă! :/
+
+[v2]
+/: Când suntem loviți de valuri
+Noi pe Domnul lăudăm
+Un înger din cer coboară
+La cei ce mereu Îl cheamă :/
+
+[v3]
+/: Gândul, credința cea sfântă
+Să luptăm pân la sfârșit
+Să putem spune că Pavel
+Alergarea mi-am sfârșit :/

@@ -1,0 +1,43 @@
+[title]
+Doamne vreau sa te slavesc {author: {Speranța}, {rcId: {111409}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Doamne, vreau să Te slăvesc
+Doamne, vreau să Te măresc
+Pentru Harul Tău divin, pentru tot ce am din plin
+Te laud
+
+[v2]
+Te laud pentru jertfa din Calvar
+Te laud pentru minunatul Har
+Sunt atât de fericit pentru că m-ai mântuit
+O, Doamne
+
+[c]
+Voi cânta, mereu, neîncetat
+Te voi lăuda, o, Doamne preaînalt
+În veci de veci, e slava Ta
+Și-n veci de veci Îți voi cânta
+
+[v3]
+Te laud pentru ziua cea senină
+Te laud pentru pacea Ta divină
+Pentru cerul înstelat, pentru tot ce Tu mi-ai dat
+Te laud
+
+[v4]
+Te laud pentru roua dimineții
+Te laud că ești Împăratul Vieții
+Pentru hrana ce mi-o dai,
+Pentru cer și pentru Rai
+Te laud
+
+[v5]
+Te laud și în veci Îți voi cânta
+Pe pământ și-n slava Ta
+Până când vei reveni
+Eu prin toate te voi slăvi
+O, Doamne!

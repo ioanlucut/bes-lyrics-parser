@@ -1,0 +1,41 @@
+[title]
+Pe cararea vietii {author: {Anonim}, {rcId: {7383}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Isuse scump, Tu ne-ai promis
+Că-n todeauna ești cu noi,
+Iar noi asta o simțim
+Și-n lacrimi și-n nevoi.
+
+[c]
+/: Pe cărarea vieții mele,
+Când drumul mi-e greu,
+Ești Luceafăr între stele,
+Strălucești mereu.
+
+[v2]
+De n-ai fi tu de partea mea
+Aici pe pământ,
+Să-naintez eu n-aș putea,
+Aș fi mereu înfrânt.
+
+[v3]
+Când sunt slab, îmi dai putere.
+Când mă clatin, mă întărești,
+În necaz ești mângâiere,
+În toate mă sprijinești.
+
+[v4]
+Iar când de aicea voi pleca
+În slavă pentru a fi cu Tine,
+În veci de veci m-oi minuna
+De tot ce faci Tu pentru mine.
+
+[v5]
+Va fi cu Tine un cer senin
+Fără lacrimi și durere,
+Iar sufletul îmi va fi plin
+De-o nesfârșită mângâiere.

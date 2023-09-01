@@ -1,0 +1,21 @@
+[title]
+Vino duh sfant {author: {Adi Gliga}, {rcId: {113151}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Vino, Duh Sfânt și cu putere
+Umple-ne azi, dă mângâiere!
+
+[c]
+Ești Râul ce curge și mă-nviorează
+Mai dulce ca mierea, ești Duhule Sfânt!
+
+[v2]
+Tu mă cunoști și-mi dai putere
+Să recunosc când eu greșesc.
+
+[v3]
+Tu îmi șoptești cum să-Ți slujesc
+Dragostea Ta îmi dăruiești.

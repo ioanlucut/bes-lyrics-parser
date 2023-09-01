@@ -1,0 +1,33 @@
+[title]
+Tatal din cer are un dar si pentru tine astazi {author: {Alexandru Groza}, {rcId: {188484}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Tatăl din cer are un dar și pentru tine astăzi
+Deschide-ți inima, primește-L, nu mai sta
+Pe nume ești chemat de El, cu dragostea divină
+O, vino, astăzi ești chemat să fii răscumpărat
+
+[c]
+Pe nume ești chemat din starea de păcat
+Te caută Hristos, omule păcătos!
+Prin jertfă-ai fost salvat, păcatul Ți-a spălat
+Pe cruce, la Calvar și-a dat viața-n dar!
+
+[v2]
+În slava Tatălui din cer Isus Hristos domnește
+Încrede-te în El, în Dumnezeu Tău
+Mărturisește-L pe Isus, El e Stăpânul vieții
+Trăiește-ți viața ta cu El, fii fericit mereu!
+
+[v3]
+Prin har Tatăl ne cheamă azi pe toți la mântuire
+Din starea de păcat El te-a eliberat
+Prin Fiul El ne-a pregătit un loc în veșnicie
+Te pocăiește, nu mai sta! Te cheamă Dumnezeu!
+
+[e]
+Cei ce-L iubesc pe Domnul sunt mântuiți de El
+Fii plin de bucurie, încrede-te în El!

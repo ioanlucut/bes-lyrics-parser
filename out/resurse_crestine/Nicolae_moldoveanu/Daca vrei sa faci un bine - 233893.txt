@@ -1,0 +1,21 @@
+[title]
+Daca vrei sa faci un bine {author: {Nicolae Moldoveanu}, {rcId: {233893}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Dacă vrei să faci un bine, n-amâna, copile.
+Amânarea-i fiica morții, scrie-a Cărții file.
+
+[c]
+Dumnezeu, Dumnezeu ne învață să lucrăm,
+cât se poate, cât e zi, nicidecum să n-amânăm.
+
+[v2]
+Scoală-te de dimineață și întâi te roagă,
+Dumnezeul Cel Bun îți face orice muncă dragă.
+
+[v3]
+Nu lăsa să treacă vremea, fă mereu un bine;
+asta-i calea fericirii pentru orișicine.

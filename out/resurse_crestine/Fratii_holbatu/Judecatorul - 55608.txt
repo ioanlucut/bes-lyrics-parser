@@ -1,0 +1,29 @@
+[title]
+Judecatorul {author: {Fratii Holbatu}, {rcId: {55608}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Judecătorul când te-o judeca,
+Și sentința pe loc îți va da.
+
+[c]
+/: N-am vrut să fiu de partea Ta,
+Că să Te scap de crucea grea,
+Iar Tu priveai la neputința mea :/
+/: Dar eu n-am fost de partea Ta,
+Că să Te scap de crucea grea,
+Și Te-am lăsat să mergi singur cu ea :/
+
+[v2]
+Atunci când oamenii Te-au judecat,
+Și Te-a dus cu toți pân’ la Pilat.
+
+[v3]
+În Ghetsimani Isus când Te-ai rugat,
+Tu Te-ai rugat și pentru-al meu păcat.
+
+[v4]
+Pe cruce Isuse Te-au răstignit,
+Că m-ai iertat pentru că m-ai iubit.

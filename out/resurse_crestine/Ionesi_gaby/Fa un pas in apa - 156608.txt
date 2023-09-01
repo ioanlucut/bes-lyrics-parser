@@ -1,0 +1,33 @@
+[title]
+Fa un pas in apa {author: {Ionesi Gaby}, {rcId: {156608}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+Fă un pas în apă
+Predă-ți viața lui Isus
+Gustă din izvorul iubirii Lui
+Fă un pas în apă
+Predă-ți viața lui Isus
+Cântă-I azi osana, laudă pe Mielul Sfânt
+
+[v1]
+Este timpul ca poporul
+S-aleagă ce e sfânt
+Sabia s-o pună-n luptă
+Pentru sfântul Său Cuvânt
+Fiindcă Biblia e arma
+Scutul Său e Duhul Sfânt
+Iar biserica să fie
+O lumină pe pământ.
+
+[v2]
+Dacă Domnul e cu tine
+Tu azi poți birui
+Deci încrede-te fi tare
+Și cununa vei primi
+Vreau mereu sa fiu cu Isus
+Cât trăiesc pe acest pământ
+Și cununa veșniciei
+Să o port în cerul sfânt.

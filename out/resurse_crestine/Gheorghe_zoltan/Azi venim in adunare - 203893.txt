@@ -1,0 +1,35 @@
+[title]
+Azi venim in adunare {author: {Gheorghe Zoltan}, {rcId: {203893}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Azi venim în adunare
+Doamne ca să-Ți mulțumim
+Numele Tău sfânt și mare
+Vrem Isuse să-L slăvim
+
+[c]
+Nimeni nu este ca Tine
+Brațul Tău ne-a ocrotit
+Și prin Mielul din Golgota
+Doamne Tu ne-ai mântuit
+
+[v2]
+Tu ne dai cu Mână largă
+Binecuvântări mereu
+Azi venim cu mulțumire
+Sfinte Tată Dumnezeu
+
+[v3]
+Îmbrăcat cu măreție
+Mii și mii la dreapta Ta
+Tot cerul Îți cântă laudă
+Se-nchină naintea Ta
+
+[v4]
+Tu ne-ai adus mântuiea
+Doamne, cel mai mare dar
+Și în sulflet ne-ai dat pacea
+Bucurii fără hotar

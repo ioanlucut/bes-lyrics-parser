@@ -1,0 +1,29 @@
+[title]
+Sunt un calator {author: {Speranța}, {rcId: {102646}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Sunt un călător în lumea-aceasta
+Sunt un trecător pe pământ
+În inimă îmi arde focul
+S-ajung în cer, să locuiesc cu Domnul Sfânt
+
+[c]
+/: Când voi sfârși călătoria
+Și greul ce-am avut de dus
+În Țara de dincolo de stele
+Voi sta pe veci cu Isus :/
+
+[v2]
+Sunt stăin și pribeag în lume
+Aurul de-aici nu-i de folos
+În Țara de dincolo de stele
+Comoara mea, aurul va fi Hristos
+
+[v3]
+Prietene și tu ești călător
+Pe acest pământ ești muritor
+De-l ai pe Isus, dragul meu
+Vei moșteni cerul sfânt cu Dumnezeu

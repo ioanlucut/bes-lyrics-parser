@@ -1,0 +1,49 @@
+[title]
+Desert song {author: {Hillsong, Traducere RO}, {rcId: {136017}}
+
+[sequence]
+v1,v2,c,v3,c,c,v4,c
+
+[v1]
+La Tine-mi înalț rugăciunea
+Când sufletul meu e secat,
+Doamne, spre Tine mă-ntorc în nevoi,
+Tu, singur, ești susținător.
+
+[v2]
+Aceasta mi-e ruga din flăcări
+Când sunt în necaz sau dureri,
+Vreau o credință-ncercată prin foc,
+Ajută-mă să-ndur, Te rog.
+
+[c]
+Iar eu voi cânta, eu voi cânta,
+Nici o-ncercare nu e prea grea,
+Voi lăuda, voi declara:
+Tu-mi ești victorie în vreme rea!
+Iar eu voi cânta, eu voi cânta,
+Nici o-ncercare nu e prea grea,
+Voi lăuda, voi declara:
+Tu-mi ești victorie în vreme rea!
+Iar eu voi cânta, eu voi cânta,
+Nici o-ncercare nu e prea grea,
+Voi lăuda, voi declara:
+Tu-mi ești victorie în vreme rea!
+
+[v3]
+Aceasta mi-e ruga din lupte,
+Salvarea când încă-i pe drum.
+Eu biruiesc prin Cuvântul Tău sfânt,
+Alături de Tine rămân.
+
+[b]
+Cât voi trăi, în orice vreme,
+Ești Dumnezeu
+Ș-am un motiv să Îți cânt,
+Am un motiv să Te laud.
+
+[v4]
+Aceasta mi-e ruga-n belșug
+Când sufletul meu e umplut.
+Știu că-n curând voi fi iarăși zdrobit,
+Sămânța din mine-a rodi.

@@ -1,0 +1,33 @@
+[title]
+Doamne ce comoara scumpa am aflat la golgota {author: {Ilie Puha}, {rcId: {124619}}
+
+[sequence]
+v1,c,v2,c,v3,c2,v4,c3
+
+[v1]
+Doamne ce comoară scumpă am aflat la Golgota
+Căci cu-al Tău sânge Isuse, mi-ai spălat viața mea.
+
+[c]
+/: Nu pot ca să-Ți uit iubirea, vocea blândă cu a ei iubire
+Lacrimile și durerea când urcai sus la Calvar :/
+
+[v2]
+Un pribeag ca toți pribegii, eram eu, nefericit
+Fără vreo speranță-n lume, fără cerul mult dorit.
+
+[v3]
+Dar de când prin jertfa sfântă m-ai salvat, Isuse al meu
+Inima de dor îți cântă și Te aștept mereu, mereu.
+
+[c2]
+/: Să mă duci la Tine-n slavă, împreună cu-ai mei frați
+Ce din patru zări de lume, vor fi Doamne, adunați :/
+
+[v4]
+Ca o pasăre fugară, zilele se duc pe rând
+Și mă uit privind spre ceruri, căci mi-ai spus că vi curând.
+
+[c3]
+/: Vino, vino mai degrabă, vino căci Te aștept și plâng
+Căci mi-e dor de Tine, Mire, la al meu piept ca să Te strâng :/

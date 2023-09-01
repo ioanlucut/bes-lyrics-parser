@@ -1,0 +1,37 @@
+[title]
+Osana - grup golgota {author: {Simon Boloca}, {rcId: {237972}}
+
+[sequence]
+v1,c,v2,c2,e
+
+[v1]
+Osana, osana,
+Mesia prea iubit, Fiul Celui Prea-Înalt!
+Osana, osana
+Mântuitor iubit, fii binecuvântat!
+/: Eu nu pot să tac, să nu Te slăvesc
+Pentru nașterea Ta Isus îți mulțumesc. :/
+
+[c]
+S-a născut Emanuel
+Glorie Lui Dumnezeu
+/: Să răsune-ntreaga zare: S-a născut Isus Hristos,
+Precum îngerii-au cântat să-i cântăm cu toți! :/
+/: Slavă Lui Dumnezeu în locurile prea-înalte
+Și pace pe pământ între oamenii plăcuți Lui! :/
+
+[v2]
+El cu mii de ani în urmă a venit jos pe pământ
+Să salveze omenirea, dar câți oare l-au primit?..
+L-ai lăsat tu să se nască pe Hristos în viața ta,
+Sau îl ții mereu afară, refuzând mântuirea?
+
+[c2]
+/: Vino, vino cât mai este Har
+Vino, să-ți plângi al tău trecut murdar
+Vino, iertarea s-o primești
+Și-apoi o veșnicie cu El în Rai să locuiești! :/
+
+[e]
+Isus s-a născut și pentru tine
+Primește-l azi ca Domn în viața ta!

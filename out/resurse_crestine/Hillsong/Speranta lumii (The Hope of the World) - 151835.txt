@@ -1,0 +1,26 @@
+[title]
+Speranta lumii (the hope of the world) {author: {Hillsong, Traducere RO}, {rcId: {151835}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Pentru dragostea și-a Ta libertate
+Tot pământul azi Îți aduce laude.
+Suntem uimiți de harul Tău minunat, revărsat!
+
+[c]
+Înălțat pe Calvar,
+La pieptu-Ți brăzdat
+Ne chemi acasă din chin și păcat
+Să Te cunoaștem,
+Să Te iubim.
+Ești Speranța lumii!
+
+[v2]
+Ne-ai primit la Tin’, ne-ai dat iertare,
+Ai croit un drum, ne ești Răscumpărare.
+Suntem datori să-Ți mulțumim în veci, da, în veci!
+
+[e]
+Tot ce vrem ești Tu! x4

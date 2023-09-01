@@ -1,0 +1,35 @@
+[title]
+Mi-e dor de tine doamne {author: {Nicolae Moldoveanu}, {rcId: {1809}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Mi-e dor de Tine, Doamne,
+Stăpânul meu preasfânt,
+Ce-aș face fără Tine
+Pe-acest străin pământ?
+
+[c]
+În orice zi și clipă
+De Tine dornic sunt,
+Ce-aș face fără Tine,
+Stăpânul meu preasfânt!
+
+[v2]
+În jurul meu dușmanii
+Sporesc neîncetat
+Dar Tu de ei mă aperi,
+Stăpâne îndurat!
+
+[v3]
+În urletul furtunii,
+Sub trăsnete și frig,
+Durerea mea și spaima
+La cine sș le strig?
+
+[v4]
+Ființa Ta, o, Doamne,
+E pacea, viața mea.
+Ce-aș face fără Tine
+În noaptea vieții grea?

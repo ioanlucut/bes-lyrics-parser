@@ -1,0 +1,36 @@
+[title]
+Sunt in mana ta isuse {author: {Anonim}, {rcId: {74406}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Sunt în Mâna Ta, Isuse
+Și aceasta mi-e de-ajuns,
+Chiar când temeri nemaispuse
+În adâncuri mi-au pătruns.
+
+[c]
+Sunt în Mâna Ta, sunt în Mâna Ta
+Sunt în Mâna Ta cea tare
+Și pe nor ca și pe soare
+Sunt în Mâna Ta, Isuse,
+/: Sunt în Mâna Ta :/
+
+[v2]
+Sunt în Mâna milei Tale
+Când bat vânturi de-ndoieli,
+Iar când sunt rănit pe cale
+Tu mă vindeci și mă speli.
+
+[v3]
+Sunt în Mâna nesecată
+A-nsoritului Tău har,
+Chiar când viața mi-e purtată
+Peste-al beznelor hotar.
+
+[v4]
+Sunt în Mâna Ta oriunde,
+Orișicând și orișicum
+Ea de moarte mă ascunde
+Când s-ar arăta în drum.

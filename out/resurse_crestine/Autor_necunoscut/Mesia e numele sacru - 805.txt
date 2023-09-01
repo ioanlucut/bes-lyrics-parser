@@ -1,0 +1,33 @@
+[title]
+Mesia e numele sacru {author: {Anonim}, {rcId: {805}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Mesia e numele sacru
+Venit din ceruri de la Dumnezeu,
+Ca să salveze pe cei ce vor crede
+Că El e Fiul Lui Dumnezeu.
+
+[c]
+Mesia, Mesia e Salvatorul tău și-al meu
+Mesia, Mesia, El este Fiul lui Dumnezeu.
+
+[v2]
+Mesia este Hristosul
+Născut în ieslea din Betleem
+El ne-a iertat la cruce păcatul
+Ca noi cu toții viață s-avem.
+
+[v3]
+Mesia, Tu ești și-astăzi
+Prezent cu noi în orice zi,
+Tu ești în contra celor ce-s mândri
+Dar le dai har celor smeriți.
+
+[v4]
+Mesia, Tu ești exemplu
+Pentru credința ce o trăim,
+Dă-ne puterea să-ți urmăm calea
+Trăind prin tine să biruim.

@@ -1,0 +1,29 @@
+[title]
+Cand incercarile prea grele ni se par {author: {Nicolae Moldoveanu}, {rcId: {5690}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când încercările prea grele ni se par
+Și zilele-s prea lungi, poverile-s prea mari
+Ne mângaie Isus, El se va arăta
+Să-Și ia pe nori Mireasa, să-i șteargă lacrima
+
+[c]
+/: Când vom vedea pe nori fața lui Isus
+Necazul greu de aici îl vom uita
+Și doar privirea Lui atunci va lumina
+Deci, călător pribeag, nu dispera. :/
+
+[v2]
+Sub cerul furtunos când rănile mă dor
+De valuri încercat, când stau fără ajutor
+E Cineva în cer ce știe chinul meu
+El vine printre valuri să-Și ia pe fiul Său.
+
+[v3]
+Curând se va sfârși al vieții greu suspin
+Vom trece peste râu, în țara de lumini
+Acolo vom gusta din slava lui Hristos
+Ispita va dispare, vom pune crucea jos.

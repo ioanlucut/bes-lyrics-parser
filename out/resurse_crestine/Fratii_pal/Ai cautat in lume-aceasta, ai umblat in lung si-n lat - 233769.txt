@@ -1,0 +1,23 @@
+[title]
+Ai cautat in lume-aceasta ai umblat in lung si-n lat {author: {Fratii Pal}, {rcId: {233769}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ai căutat în lume-aceasta, ai umblat în lung și-n lat,
+/: Să-ți găsești tu fericirea, dar niciunde n-ai aflat. :/
+
+[c]
+Isus este Adevărul ce te va elibera!
+El e Calea și viața, El e fericirea ta!
+Vin’ la El, vino la cruce, viața El ți-o va schimba!
+Să primești a Lui iertare, viață veșnică să-ți dea!
+
+[v2]
+Dobândește liberare de poveri și legături!
+/: Isus poate da iertare, astăzi spune prin Scripturi! :/
+
+[v3]
+Nu-s comori să-ți poată umple golul din inima ta!
+/: Aici jos totul se duce, totul se va ruina! :/

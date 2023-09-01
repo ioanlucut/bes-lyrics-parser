@@ -1,0 +1,39 @@
+[title]
+Da-ne doamne zile bune {author: {Nicolae Moldoveanu}, {rcId: {5258}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Da-ne, Doamne, zile bune
+In viata pe pamant,
+Luminati sa fim in Tine
+Si de Sfantul Tau Cuvant.
+
+[c]
+Esti izvor de viata, Doamne!
+Fericirea pentru noi!
+Salvatorul tuturora!
+Osanale sa-Ti cantam.
+Aprinde in noi, Isuse
+Bucuria cerului,
+Focul dragostei sa arda,
+Scumpule Mantuitor!
+
+[v2]
+Calatori suntem pe cale
+Aici jos, pe-acest pamant;
+Dar ne-ai spus, o, Tu, Isuse,
+Caci Tu vei veni-n curand.
+
+[v3]
+O, nu ne lasa, o, Doamne,
+Parasiti de harul Tau,
+In necazuri si-n durere
+Sa uitam de bratul Tau...
+
+[v4]
+Sa mergem mereu ’nainte,
+Bucurosi noi sa cantam!
+Cu Isus, El, Salvatorul,
+Vom iesi biruitori!

@@ -1,0 +1,35 @@
+[title]
+Ferice casa unde este domnul {author: {Nicolae Moldoveanu}, {rcId: {5534}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Ferice casa unde este Domnul,
+Prietenul cel mai bine venit!
+Acolo unde, dintre toti ce-s oaspeti,
+Tu, o, Isuse, esti cel mai iubit...
+Acolo toate inimile-Ti canta
+Si ochii catre Tine sunt tintiti;
+Acolo buzele Iti aduc slava
+Si toti ai casei sunt preafericiti.
+
+[v2]
+Ferice casa unde sot, sotie,
+In al Tau spirit, una sunt mereu
+Si, de iubirea Ta cuprinsi, ei - Tie
+Alaturi stau la bine si la rau...
+Cand amandoi se sprijina pe Tine,
+In orice timp cat de primejdios,
+A lor iubire nu se micsoreaza
+Ci, tot mai mult, ei se iubesc duios.
+
+[v3]
+Ferice casa unde fii si fiice
+Purtati ei sunt pe maini de rugaciuni,
+Iar voia Ta in toate ii conduce;
+Le esti Pastorul ce-i duci la pasuni.
+Sunt voitori de Tine sa asculte,
+Smeriti, supusi si de credinta plini;
+La Tronul Tau, ei le aduc pe toate
+Si-apoi cu Tine vor domni-n mariri.

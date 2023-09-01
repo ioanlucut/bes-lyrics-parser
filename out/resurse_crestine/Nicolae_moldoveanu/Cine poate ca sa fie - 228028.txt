@@ -1,0 +1,23 @@
+[title]
+Cine poate ca sa fie {author: {Nicolae Moldoveanu}, {rcId: {228028}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Cine poate ca să fie
+mântuit, mântuit?
+/: Omul cu credință vie :/
+în Hristos cel răstignit!
+
+[v2]
+Cine poate să-nțeleagă
+cerul sfânt, minunat?
+/: Omul cu credință-ntreagă :/
+În Isus Cel înviat!
+
+[v3]
+Poți și tu, deplin, copile,
+sus în cer să fii dus,
+/: dacă crezi, și-a tale zile :/
+I le dărui lui Isus!

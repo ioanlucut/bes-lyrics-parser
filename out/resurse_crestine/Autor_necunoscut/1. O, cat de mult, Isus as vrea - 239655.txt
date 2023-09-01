@@ -1,0 +1,30 @@
+[title]
+O cat de mult isus as vrea {author: {Autor necunoscut}, {rcId: {239655}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+O, cât de mult, Isus aș vrea
+Doritu-ți chip să-L pot vedea;
+Alinul Tău să-l simt mereu
+Înviorând sufletul meu,
+/: Duiosul glas să ți-l ascult,
+Atât de mult, atât de mult!... :/
+
+[v2]
+Plecat cu capul în poala Ta,
+Ți-aș spune-atunci durerea mea,
+Ți-aș spune-atunci al meu suspin,
+DIn noaptea când eu eram străin.
+/: Cum n-am găsit odihna mea
+La nimenea, la nimenea. :/
+
+[v3]
+Ți-aș spune c-azi, Isus al meu,
+Nu-i nimeni fericit cum-s eu,
+De când odihna mi-am aflat
+În harul Tău îmbelșugat,
+/: De când veghez, de când doresc,
+Eu Te iubesc, eu Te iubesc! :/
+.

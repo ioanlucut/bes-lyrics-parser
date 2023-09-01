@@ -1,0 +1,21 @@
+[title]
+Cantati domnului {author: {Speranța}, {rcId: {111337}}
+
+[sequence]
+v1,c,c
+
+[v1]
+Cântați Domnului, cântați numai Lui
+El e Domnul Domnilor
+Cântați Domnului, cântați numai Lui
+El e Regele regilor.
+
+[c]
+Împărăția Sa în veci va rămânea
+Numai El, numai EL
+E Dumnezeu.
+
+[b]
+Toate popoarele vor sta ’naintea Lui
+Toate se vor închina
+Înaintea Domnului.

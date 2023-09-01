@@ -1,0 +1,35 @@
+[title]
+Vreau candela-mi arzand {author: {Jean, Claude Gianadda}, {rcId: {233807}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,v4,c
+
+[c]
+Vreau candela-mi arzând, cu flacăra-i fragilă
+Tu Domnul meu s-o ții, prin greu, cu har și milă
+Vreau candela-mi arzând, s’ajung în prag la Tine
+Doar Tu mă poți ghida.
+
+[v1]
+Aprinde-mi Tu în suflet, ceva din adevăr,
+Acel ceva din Tine, ce nimeni să nu stingă.
+Nici frica de eșec, nici greutatea vieții
+Și pasul meu grăbit spre Tine să ’ndrăznească.
+
+[v2]
+Aprinde-mi în priviri lumină nepătată
+Acel ceva din Tine, ce nimeni să nu stingă.
+Nici-un prezent cu greu, nici viitor nesigur
+Și fie chipul meu oglinda feței Tale.
+
+[v3]
+Aprinde-mi în purtare ceva plin de dulceață
+Ceva real din Tine ce nimeni să nu stingă.
+Ceva firav-discret, arzând plin de iubire
+Și pieptu’mi să nu uite căldura-mbrătișării.
+
+[v4]
+Aprinde-mi Tu în viață o frumusețe nouă
+Acel ceva din Tine, ce nimeni să nu stingă.
+Cu gust plin de iubire și visuri înnoite
+Și fie calea mea o hartă către Tine.

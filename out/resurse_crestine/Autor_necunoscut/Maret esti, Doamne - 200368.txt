@@ -1,0 +1,29 @@
+[title]
+Maret esti doamne {author: {Anonim}, {rcId: {200368}}
+
+[sequence]
+v1,v2,c
+
+[v1]
+Măreț ești, Doamne,
+Poți muta și munții,
+Mă păstrezi în palme,
+Ocrotire-mi dai.
+Măreț ești, Doamne,
+Ești sursa vindecării,
+Tu îmi dai putere,
+În mine Tu trăiești.
+
+[v2]
+Măreț ești, Doamne,
+Ești Salvatorul lumii,
+Dătător de viață,
+Prin Tine-s vindecat.
+Măreț ești, Doamne,
+Ești sursa vindecării,
+Tu îmi dai putere,
+În mine Tu trăiești
+
+[c]
+/: Măreț ești, Doamne,
+Doamne, Doamne, ești măreț! :/

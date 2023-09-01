@@ -1,0 +1,33 @@
+[title]
+Nu te teme {author: {Nicolae Zamfir}, {rcId: {220257}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+E greu când furtuna loveste
+E greu, dar la cârmă-i Isus
+Si-atuncea când El porunceste
+Coboară putere de sus
+
+[c]
+Nu te teme de-ncercare
+Cu El esti biruitor
+Nu te teme și fi tare
+El îti vine în ajutor
+Nu te teme, e cu tine;
+El e Dumnezeul tău;
+nu privi cu îngrijorare,
+E cu tine Dumnezeu
+
+[v2]
+E greu când ești pus la-ncercare
+E greu dar cu tinei Isus
+Și când încercare e mare
+Trimite ajutorul de sus
+
+[v3]
+Cu Tine pe mare e Domnul
+Cu Tinei la bine și greu
+Chiar dacă furtuna liveste
+Tu ești fiul lui Dumnezeu

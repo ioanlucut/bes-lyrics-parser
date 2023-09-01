@@ -1,0 +1,43 @@
+[title]
+Degeaba cauti in lume fericirea {author: {Fratii Pal}, {rcId: {238543}}
+
+[sequence]
+v1,c,v2,c2,v3,c2,c
+
+[v1]
+/: Degeaba cauți în lume fericirea
+Degeaba alergi pe drumuri după ea
+Căci fericirea ce lumea-ți dorește
+Este osândă pentru viața ta :/
+
+[c]
+Tu vino la cruce, la crucea Lui Isus
+Și pleacă genunchii, smerit și supus
+Căci niciunde în lume, tu nu vei afla
+O pace deplină ca la crucea Sa
+Tu vino la cruce, la crucea Lui Isus
+Și pleacă genunchii, smerit și supus
+Căci niciunde în lume, tu nu vei afla
+O pace deplină ca la crucea Sa
+
+[v2]
+/: Degeaba cauți în lume adevărul
+Și-alergi pe drumuri, poate-l întâlnești
+Căci adevărul e doar Unul singur
+Și-acesta doar prin cruce-L găsești :/
+
+[c2]
+Iertare divină în El vei afla
+Păcatul și vina El ți-o va ierta
+Prin El tu vedea-vei că ești dezlegat
+De toate ce-n lume din greu te-a legat
+Iertare divină în El vei afla
+Păcatul și vina El ți-o va ierta
+Prin El tu vedea-vei că ești dezlegat
+De toate ce-n lume din greu te-a legat
+
+[v3]
+/: Degeaba cauți în lume ușurare
+Căci lumea lanțuri grele ți-a păstrat
+Tu astăzi dacă vrei să scapi de ele
+Dezleagă-le la cruce de păcat :/

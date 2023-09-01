@@ -1,0 +1,36 @@
+[title]
+Ori de urc ori de cobor {author: {Nicolae Moldoveanu}, {rcId: {244328}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Ori de urc ori de cobor,
+Inima mi-e numai dor,
+/: Numai dor ce arde pară,
+După sfânta păcii Țară. :/
+
+[v2]
+Ori de stau, ori de alerg,
+Gânduri
+Ie-mi toate merg,
+/: Spre slăvita-mpărăție,
+Leagăn cald de părtășie. :/
+
+[v3]
+Ori de dorm, ori de lucrez,
+Eu cu dorul priveghez,
+/: Și prin el trăiesc fierbinte,
+În lăcașurile sfinte. :/
+
+[v4]
+Ori de tac, ori de vorbesc,
+Doru-n suflet tot mi-l cresc,
+/: Și-l îndrept cu stăruință,
+Înspre-a Domnului Ființă... :/
+
+[v5]
+Doamne, fă-mi mai arzător,
+Tainicul vieții dor,
+/: Ori de merge, ori de vine,
+Să nu poată fără Tine. :/

@@ -1,0 +1,35 @@
+[title]
+Sa avem credinta si rabdare {author: {Nicolae Moldoveanu}, {rcId: {5879}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Să avem credință și răbdare,
+Fraților, oricât ar fi de greu!
+Pentru slava vieții viitoare,
+Să fim credincioși lui Dumnezeu!
+
+[c]
+Prin credință, munții s-au mutat;
+Prin credință, morții-au înviat;
+Prin credință, frații din trecut
+Mari minuni cu Domnul au făcut.
+
+[v2]
+Să privim la norul mărturiei
+Cum ne scrie Pavel în Evrei -
+Să păzim cărările pustiei,
+Să ieșim biruitori ca ei...
+
+[v3]
+Să privim și leii și cuptorul
+Și pe Iov acel îndurerat;
+Prin Isus Hristos, Mântuitorul,
+Vom învinge-n moarte și-n păcat.
+
+[v4]
+Și vom sta, în țara fericirii,
+Cu Avraam, Isaac și Israel
+Și cu frații noștri și martirii,
+Sub al biruințelor drapel.

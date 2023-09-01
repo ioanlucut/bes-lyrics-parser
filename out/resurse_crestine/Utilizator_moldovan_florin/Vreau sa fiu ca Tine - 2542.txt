@@ -1,0 +1,23 @@
+[title]
+Vreau sa fiu ca tine {author: {Utilizator Moldovan Florin}, {rcId: {2542}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+/: Vreau să fiu ca Tine
+Curat pe-acest pământ
+Și să-ți semăn ție
+Prin vorbe, fapte, cuvânt :/
+
+[c]
+/: Sunt curat prin jertfa Ta
+Mai curat și mai real
+O viață nouă Tu ne-ai dat
+Când Tu te-ai îndurat :/
+
+[v2]
+/: Sunt curat prin Tine
+Prin sângele Tău Sfânt
+Acum că sunt cu Tine
+E darul cel mai sfânt :/

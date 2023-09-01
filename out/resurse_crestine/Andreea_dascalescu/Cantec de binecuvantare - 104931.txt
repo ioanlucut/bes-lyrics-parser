@@ -1,0 +1,33 @@
+[title]
+Cantec de binecuvantare {author: {Andreea Dascalescu}, {rcId: {104931}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Doamne vin să-Ți mulțumesc că Tu ai fost cu mine
+Când orice speranță vie se pierdea-n neant
+Ai venit atunci cu dragoste și mi-ai șoptit:
+
+[c]
+Iți dau în dar ce va fi din partea mea
+Un semn de iubire
+Îl vei creste sub privirea Mea
+Iar Eu îl voi binecuvânta.
+
+[v2]
+Acum știu că Tu exiști iar eu trăiesc prin Tine
+Tu ai scris în dreptul meu binecuvântare
+M-ai îmbrățișat cu dragoste și mi-ai șoptit:
+
+[v3]
+Văd un prunc scăldat în cânt și soare
+Cu zâmbet cald și duios
+Ce-mi inspiră viață și cantoare
+Un suflet luminos.
+
+[v4]
+Copleșită de a Ta minune
+Ce-ai făcut-o-n viața mea
+Mă ascund în palma Ta
+Să-Ți aud mereu vocea Ta.

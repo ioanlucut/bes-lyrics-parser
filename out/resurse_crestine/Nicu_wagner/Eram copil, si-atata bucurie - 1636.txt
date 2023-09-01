@@ -1,0 +1,56 @@
+[title]
+Eram copil si-atata bucurie {author: {Nicu Wagner}, {rcId: {1636}}
+
+[sequence]
+v1,c,v2,c2,v3,c2,v4,c3,v5,c3
+
+[v1]
+Eram copil, și-atâta bucurie
+Mă însoțea pe calea spre Hristos!
+Aveam fiorul sfânt de nostalgie,
+Când mici poveri mă apăsau în jos.
+
+[c]
+/: În primăveri, treceam prin lungi zăvoaie
+Și cânturi ascultam de ciocărlii;
+Vedeam seninul cald, chiar și pe ploaie;
+Cântam pătruns de sfinte melodii. :/
+
+[v2]
+Dar mai apoi, fiind pribeag prin lume,
+Am fost atras de amăgiri mereu;
+Crezând că au și slavă și renume,
+Mi-au stins căutarea după Dumnezeu.
+
+[c2]
+/: Căutam mâhnit adesea fericirea
+Și când mi se părea că o găseam,
+Eram mai trist, era nefericirea -
+Dezamăgit și frânt iar rămâneam. :/
+
+[v3]
+Târziu am întâlnit un sfânt pe cale
+Și eu i-am spus ce-n suflet am avut;
+M-a ascultat, apoi mi-a zis cu jale:
+„
+Întoarce-te de unde ai căzut!”
+
+[v4]
+Azi m-am întors, îmi pare rău de anii
+Ce i-am pierdut și nu i-am folosit;
+Îmi plâng trecutul: „
+Doamne-Ți cer iertare...
+Primește-mă din drumul rătăcit!...
+
+[c3]
+/: Mai dă-mi, o, Doamne, iar divinul cântec
+Ce mă-nsoțea când eu eram umil!
+Mai dă-mi seninul anilor de fraged
+Ca și atunci când eu eram... copil... :/
+
+[v5]
+Azi m-am întors, îmi pare rău de anii
+Ce i-am pierdut și nu i-am folosit;
+/: Îmi plâng trecutul: „
+Doamne,-Ți cer iertare...
+Primește-mă din drumul rătăcit! :/

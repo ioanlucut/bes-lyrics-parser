@@ -1,0 +1,29 @@
+[title]
+M-am departat de domnul meu; vin asa cum sunt {author: {Alexandru Groza}, {rcId: {113200}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+M-am depărtat de Domnul meu;
+Îmi plâng păcatul și vina mea.
+Să-mi dai iertare, azi, Te rog
+E rugăciunea din noaptea grea.
+
+[v1]
+Vin așa cum sunt
+Azi ’naintea Ta, și mă închin.
+Gol e sufletul,
+Dar mă mai iubești și mai sper.
+
+[v2]
+Văd ’nlăuntrul meu,
+Și mă cercetez, și mă îngrozesc,
+Vin așa cum sunt,
+Sunt un păcatos, iartă-mă!
+
+[v3]
+Domnul este iubirea,
+Vreau s-o simt din nou în viața mea.
+Știu că mă iubești
+Și că mai primești un fiu pierdut.

@@ -1,0 +1,31 @@
+[title]
+Iti multumesc ca m-ai facut {author: {Nicolae Moldoveanu}, {rcId: {247875}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Îți mulțumesc că m-ai făcut,
+Așa cum sunt pe lume,
+Că Tu mi-ai dat, cum Tu ai vrut
+Și loc și trup și nume.
+Îți mulțumesc că m-ai chemat
+La sfânta-Ți părtășie,
+Așa cum sunt, cu ce mi-ai dat
+Să-Ți fiu spre slavă Ție.
+
+[v2]
+Îți mulțumesc că nu m-ai pus
+În loc de slujbă ’naltă,
+Ci m-ai făcut să fiu supus
+Cu cei mici laolaltă.
+Îți mulțumesc că pâinea mea,
+Cu lacrimi și sudoare,
+Ai rânduit s-o pot avea
+Din ploi și vânt și soare.
+
+[v3]
+/: Îți mulțumesc că m-ai zdrobit
+Sub fier și sub călcâie,
+Să-nvăț și cum să fiu smerit
+Și cât o să-mi rămâie. :/

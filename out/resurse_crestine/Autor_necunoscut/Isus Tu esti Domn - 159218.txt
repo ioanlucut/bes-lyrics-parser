@@ -1,0 +1,20 @@
+[title]
+Isus tu esti domn {author: {Anonim}, {rcId: {159218}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+/: Isus Tu ești Domn :/
+Intră în inima mea,
+Căci Isus tu ești Domn.
+
+[v2]
+/: Isus iartă-mă :/
+Intră în inima mea,
+Și Isus iartă-mă.
+
+[v3]
+/: Isus te slăvesc :/
+Intră în inima mea,
+Căci Isus te slăvesc.

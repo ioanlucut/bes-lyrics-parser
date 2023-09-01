@@ -1,0 +1,33 @@
+[title]
+N-ar fi un maine {author: {Ionuț Crăciun}, {rcId: {89473}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+Chiar de singur aș fi fără vreun dor să-mi umple inima
+Far’ calde mâini a-mbrățișa.
+Chiar de-aș uită orice vis, necunoscând emoții ce ar fi
+Al stelelor mister dacă l-aș știi, chiar de lumea ar fi a mea
+Cărarea mi-aș urmă.
+
+[c]
+Dar mâine n-ar fi pentru mine fără speranță de la Tine!
+Nu pot să trăiesc nici o zi!
+Doamne, nu-s zori, nici înserare, fără a Ta îmbrățișare!
+Fără Tine în inimă nu pot să trăiesc nici o zi!
+
+[v2]
+Chiar în zări rătăcind, a lumii mari minuni de aș privi
+De Tine doar mi-ar aminti...
+Și de-aș avea tot pământul, cu bogății dincolo de-orice gând,
+Dorința-mi împlini să pot oricând,
+Lumea-ntreagă de-ar fi a mea,
+Dar de n-ai fi Tu în ea...
+
+[b]
+Ooo, Isus, trăiesc căci Tu trăiești!
+Tu ești suflarea mea!
+Ooo,
+Isus, ce am tu-mi dăruiești!
+Tu ești viața mea!

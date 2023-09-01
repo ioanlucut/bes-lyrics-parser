@@ -1,0 +1,29 @@
+[title]
+Se duc anii unul cate unul {author: {Grup Saron}, {rcId: {75004}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Se duc anii unul câte unul
+Firul vieții este tot mai scurt
+Nu poți știii câți rămasau anii
+Insă știu că timpu-i foarte scurt
+
+[c]
+Anii tăi sunt ca un sunet
+Ca un fir de iarbă-n vânt
+Ca o floare ofilită
+Ce se pleacă la pământ
+
+[v2]
+Viața omule e trecătoare
+Ești viteaz cât soarele stă sus
+Și apoi ea asfințește
+Cum soarele coboară la apus
+
+[v3]
+Binecuvintează Doamne anii
+Celor ce cu Tine au petrecut
+Și te rog ca să le aduci aminte
+De câte ori in viață le-ai fost scut

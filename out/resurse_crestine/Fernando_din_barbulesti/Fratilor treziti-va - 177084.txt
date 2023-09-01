@@ -1,0 +1,23 @@
+[title]
+Fratilor treziti-va {author: {Fernando din Bărbulești}, {rcId: {177084}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Fraților treziți-vă, căci iată vine Mirele,
+Ulei în candelă s-aveți, pentru El gata să fiți! :/
+
+[c]
+/: Haideți cu toți să ne trezim,
+Tot ce-i lumesc să părăsim,
+/: Trăind curați pentru Hristos
+Ca să nu rămânem jos! :/
+
+[v2]
+/: Nu mai stați nepăsători în al Domnului ogor,
+Sculați cu toți, nu dormiți, căci timpul e sfârșit! :/
+
+[v3]
+/: Orice-ar fi tu nu sta jos, scoală-te, mergi cu Hristos,
+Și fă fapte prin credință, vrednice de pocăință! :/

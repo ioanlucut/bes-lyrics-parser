@@ -1,0 +1,41 @@
+[title]
+Ochii mei sunt doua rauri {author: {Nicolae Moldoveanu}, {rcId: {246195}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Ochii mei sunt două râuri
+Limpezi stropi de cer senin
+/: Unde-Ți scalzi, Isuse Doamne
+Chipul Tău de soare plin. :/
+Ochii mei, ochii mei,
+Tu Îți scalzi în ei Isuse,
+Chipul Tău de soare plin.
+
+[v2]
+Inima mea este-ntreagă
+Un palat împodobit,
+/: Cu covoarele iubirii,
+Pentru Tine pregătit. :/
+Inima, inima,
+Cu covoarele iubirii,
+Pentru Tine s-a gătit.
+
+[v3]
+Trupul meu e-un templu falnic,
+Cu altar spre jertfă dat,
+/: Unde arde focul sacru,
+Ție, Doamne, închinat. :/
+Trupul meu, trupul meu,
+E un templu-n întregime,
+Ție, Doamne, închinat.
+
+[v4]
+Și întreaga mea ființă
+Este-a Ta, lsuse-al meu,
+/: Contopeșțe-mă în Tine,
+Să Te vezi doar Tu, nu eu. :/
+Domnul meu, Domnul meu
+Contopește-mă în Tine,
+Să Te vezi doar Tu, nu eu!

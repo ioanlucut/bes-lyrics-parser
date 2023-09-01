@@ -1,0 +1,33 @@
+[title]
+Sa-mi odihnesc fiinta ravasita {author: {Nicolae Moldoveanu}, {rcId: {241008}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Să-mi odihnesc ființa răvășită,
+Isuse-n Adevărul cel din Tine,
+Ca Adevărul - dulce, liniștită -
+Odihnă să-și găsească-n mine.
+
+[c]
+Ajută-mă mereu
+Slăvite Dumnezeu,
+Ca-n Adevărul sfânt,
+Să fiu pe-acest pământ.
+Și El, apoi, deplin,
+Cu felul Său divin,
+Să fie-n viața mea
+Și să rămână-n ea!
+
+[v2]
+Plăcere să-mi găsesc fără-ncetare,
+În Casa Adevărului cerească,
+Ca Adevărul, sfântă desfătare,
+În mine totdeauna să-și găsească!
+
+[v3]
+Și să rămân predat în sfânta mână
+A Adevărului nebiruită,
+Ca Adevăru-n mine să rămână
+Și-acum și-n Veșnicia fericită!

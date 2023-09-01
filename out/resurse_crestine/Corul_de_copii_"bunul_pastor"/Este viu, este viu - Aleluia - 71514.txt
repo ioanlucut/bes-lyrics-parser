@@ -1,0 +1,33 @@
+[title]
+Este viu este viu - aleluia {author: {Corul de copii ”Bunul Păstor”}, {rcId: {71514}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Este viu, este viu Aleluia
+Domnul Isus e viu Aleluia,
+Este viu, este viu Aleluia
+Domnul Isus e viu Aleluia.
+
+[c]
+Aleluia, Aleluia, Aleluia,
+Aleluia, Aleluia, Aleluia,
+
+[v2]
+Sărbătoare e în toată lumea
+Căci din morți a-nviat nemurirea,
+Sărbătoare e în toată lumea
+Căci din morți a-nviat nemurirea.
+
+[v3]
+Este viu, Domnul meu Aleluia
+L-a văzut chiar cu ochii Maria,
+Este viu, Domnul meu Aleluia
+L-a văzut chiar cu ochii Maria.
+
+[v4]
+Azi în numele Lui se împarte
+Mântuire la oricine crede,
+Azi în numele Lui se împarte
+Mântuire la oricine crede.

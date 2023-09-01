@@ -1,0 +1,44 @@
+[title]
+Doamne nu ma lasa {author: {Anonim}, {rcId: {87511}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Doamne nu mă tem, ești cu mine
+Eu în tine mă încred
+Și prin valea plângerii când pășesc
+Și dacă vin furtuni să mă bată
+Înapoi n-am să dau
+Mă-ndrept către locașul ceresc
+Nu mă tem de nici un rău
+Fiindcă ești cu mine
+Brațul Tău mă tine
+/: Nu vreau să mă tem :/
+
+[c]
+Doamne nu mă lăsa,
+Fie vreme bună, rea
+Doamne nu mă lăsa,
+ține-mă în mâna Ta
+Doamne nu mă lăsa,
+Nu, nu mă vei părăsi
+
+[v2]
+Și văd în depărtări o lumina
+Glorioasă din cer
+Acolo vreau s-ajung într-o zi
+Dar pân’ atunci trăiesc prin credință
+Celui Sfânt mă ofer,
+Necazurile se vor sfârși
+Nu mă tem de nici un rău
+Fiindcă ești cu mine
+Brațul Tău mă ține
+/: Nu vreau să mă tem :/
+
+[e]
+Și văd în depărtări
+O lumină glorioasă din cer
+Dar pân’ atunci trăiesc prin credință
+Celui Sfânt mă ofer
+Jertfă de laudă, jertfă da laudă.

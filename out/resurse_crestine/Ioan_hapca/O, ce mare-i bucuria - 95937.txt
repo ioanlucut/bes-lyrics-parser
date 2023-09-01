@@ -1,0 +1,31 @@
+[title]
+O ce mare-i bucuria {author: {Ioan Hapca}, {rcId: {95937}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O, ce mare-i bucuria
+Într-un suflet omenesc
+Care gustă părtășia
+Cu Stăpânul cel ceresc!
+
+[c]
+/: O, ce mare bucurie
+Inundă sufletul meu
+Căci pot sta la părtășie
+Cu Preabunul Dumnezeu
+Și pot locui pe vecie
+Fericit în Cortul Său! :/
+
+[v2]
+O, ce mare-i bucuria
+Când mergi cu Domnul pe cale
+Și guști zilnic părtășia
+Stând ’naintea Feței Sale!
+
+[v3]
+O, ce mare bucurie
+Numai dacă mă gândesc
+Că întreaga veșnicie
+Cu El am să locuiesc!

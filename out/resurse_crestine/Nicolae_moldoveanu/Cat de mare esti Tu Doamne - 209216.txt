@@ -1,0 +1,35 @@
+[title]
+Cat de mare esti tu doamne {author: {Nicolae Moldoveanu}, {rcId: {209216}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cât de mare ești Tu Doamne
+Cât de mic și ne-nsemnat sunt eu
+Tu ești Creator, Tu ești Ziditor
+Tu ești veșnic viu Dumnezeu!
+
+[c]
+Toate te slăvesc în veci Stăpâne
+Toate merg așa cum voiești
+Și de-i rău acum în lume
+E că-un bine veșnic pregătești.
+
+[v2]
+Lângă Tine-i sărbăoare
+Necuprinsul minunat e-al Tău
+Chiar și-acest pământ, unde-al Tău Cuvânt
+E călcat mereu de cel rău.
+
+[v3]
+Ne-nțelese-s Doamne astăzi
+Ale Tale căi aicea jos
+Dar va fi o zi când va străluci
+Adevărul Tău preafrumos.
+
+[v4]
+Adă mult dorita clipă
+Când pământul îl vei înoi
+Și în pacea Ta, toți îți vor cânta
+Căci Stăpânul lui Tu vei fi!

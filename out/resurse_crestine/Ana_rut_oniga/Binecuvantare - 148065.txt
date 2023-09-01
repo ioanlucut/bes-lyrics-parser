@@ -1,0 +1,23 @@
+[title]
+Binecuvantare {author: {Ana Rut Oniga}, {rcId: {148065}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Dumnezeu a mai binecuvântat o familie
+C-un dar atât de valoros,
+El le-a adus în casă bucurie,
+Un copil nespus de prețios.
+
+[c]
+Dumnezeu este Cel ce veghează,
+Mâna Sa binecuvintează:
+”
+Îndurarea Lui, pacea Lui peste voi... ”
+
+[v2]
+Voi părinți și copii, ca familie
+Înălțați altar de laude,
+Hristos în casă vrea să fie!
+El e Domn și-n veci e Dragoste.

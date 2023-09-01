@@ -1,0 +1,32 @@
+[title]
+Bucura-te fiica sionului (tochter zion) {author: {Georg F. Händel, Traducere RO}, {rcId: {194620}}
+
+[sequence]
+v1,v2,v3,s
+
+[v1]
+Bucură-te, fiica Sionului
+Strigă de veselie, cântă Domnului!
+Iată vine la tine Împăratul sfânt
+Prințul păcii sfinte vine pe pământ.
+Bucură-te, fiica Sionului
+Strigă de veselie, cântă Domnului!
+
+[v2]
+Fiu al lui David, noi Te lăudăm
+Îți cântăm Osana, slava Ție-Ți dăm!
+A Ta-mpărăție vine cu puterea Ta
+Cântecul măririi Tale ’nalță slava Ta.
+Fiu al lui David, noi Te lăudăm
+Îți cântăm Osana, slava Ție-Ți dăm!
+
+[v3]
+Fiu al lui David Te glorificăm
+Împărat al slavei, Ție ne-nchinăm!
+Tronu-Ți de domnie, pe veci e-ntărit
+Cu-al Tău braț puternic Tu ne-ai mântuit.
+Fiu al lui David Te glorificăm
+Împărat al slavei, Ție ne-nchinăm!
+
+[s]
+Strigă de veselie și bucură-te, fiica Sionului! Căci iată, Eu vin și voi locui în mijlocul tău, zice Domnul. Zaharia 2:10

@@ -1,0 +1,13 @@
+[title]
+Dragostea ce ne-a dat-o dumnezeu {author: {Anonim}, {rcId: {6607}}
+
+[sequence]
+v1,c
+
+[v1]
+Dragostea ce ne-a dat-o Dumnezeu,
+Se arată prin tine, dragul meu!
+
+[c]
+/: Și privindu-te, zăresc pe chipul tău,
+Dragostea ce ne-a dat-o Dumnezeu :/

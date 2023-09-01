@@ -1,0 +1,31 @@
+[title]
+Viata mea sa-i cante lui {author: {Continental}, {rcId: {89184}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Mâinile-mi ridic
+Dar n-am ce să-Ți ofer
+Doar un suflet trist și gol
+Tu să îl transformi!
+Prin cuvântul meu și prin fapta mea
+Viața mea să Îți las
+Jertfă pe altar!
+
+[c]
+Viața mea să-I cânte Lui
+Viața mea să-I cânte Lui
+Vreau să vestesc acum,
+Al Său nume cântând
+Până când încă mai e timp
+Viața mea să-I cânte Lui!
+
+[v2]
+Doamne, azi Îți dau
+Ca jertfă viața mea
+Ca să-i pot sluji pe toți
+Și voia să-Ți urmez!
+Prin cuvântul meu și prin fapta mea
+Viața mea să Îți las
+Jertfă pe altar!

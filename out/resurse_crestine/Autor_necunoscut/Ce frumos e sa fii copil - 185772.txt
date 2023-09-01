@@ -1,0 +1,41 @@
+[title]
+Ce frumos e sa fii copil {author: {Anonim}, {rcId: {185772}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[c]
+Ce frumos e să fii copil
+Și pe Domnul să-l iubești,
+Ce frumos e să fii copil
+Și pe Domnul să-l slujești.
+
+[v1]
+/: Iar dacă voi nu veți fi ca noi,
+De nu știți să vă-mpăcați,
+În rai n-o să intrați! :/
+
+[v2]
+/: Iar dacă voi nu veți fi ca noi,
+Dacă nu puteți iubi,
+În rai voi nu veți fi! :/
+
+[v3]
+/: Iar dacă voi nu veți fi ca noi,
+De nu știți să v-ajutați,
+În rai n-o să intrați! :/
+
+[v4]
+/: Iar dacă voi nu veți fi ca noi,
+De răutate veți ținea,
+În rai nu veți intra. :/
+
+[v5]
+/: Iar dacă voi nu veți fi ca noi,
+De nu știți să vă bucurați,
+În rai n-o să intrați. :/
+
+[v6]
+/: Haideți și voi împreună cu noi,
+Pe Isus să Îl iubim,
+Cerul să moștenim. :/

@@ -1,0 +1,40 @@
+[title]
+Isus eroul adorat {author: {Nicu Rusu}, {rcId: {84640}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Eu sunt mic, mă bucur tare,
+De-al cerului cadou,
+Îl primesc cu încântare:
+/: El e-al meu iubit Erou! :/
+
+[c]
+Cum să nu-L iubesc pe Isus,
+Cum să nu ÎL prețuiesc?
+Cât de mult doresc, o,
+Doamne,
+Pentru slava Lui să cresc!
+Mă cunoaște-atât de bine,
+Mă iubește ne-ncetat,
+El, e totul pentru mine,
+Mi-e Eroul adorat!
+
+[v2]
+El a fost copil ca mine,
+S-a născut la Betleem,
+S-a-ntrupat pentru-al meu bine,
+/: Să mă scape de blestem! :/
+
+[v3]
+Ca un miel veni pe lume,
+Sa ridice-al ei păcat,
+Orice limbă poate spune:
+/: Slavă Lui! Neîncetat. :/
+
+[v4]
+I-au dat magii închinare
+Si păstorii-n felul lor,
+Bucuroși fiind fiecare
+/: Că-n Isus, au Salvator! :/

@@ -1,0 +1,50 @@
+[title]
+Exista speranta {author: {Corneliu Matei}, {rcId: {173993}}
+
+[sequence]
+v1,c,v2,c2,c2,e
+
+[v1]
+Într-o lume plină de durere
+Și cuprinsă-n a păcatului miraj,
+Când totul în jurul noastru-apune,
+Vrem să spunem acum acest mesaj:
+„
+Evanghelia-i Cuvântul ce-ți dă viață,
+Vestea bună ce te poate transforma,
+Un izvor ceresc de apă vie
+Pentru orice suflet însetat! ”
+
+[c]
+Există speranță! Există viață veșnică!
+Trebuie doar să crezi în Dumnezeu
+Din toată inima!
+Există salvare! Există iertare de păcat!
+Doar prin jertfa de pe cruce poți să fii eliberat!
+Există speranță!
+
+[v2]
+Prieten drag, de nu mai ai nădejde
+Și de rătăcești lipsit de ajutor,
+Noi îți spunem acum „tu ai nevoie
+De un Tată, de-un Mântuitor! ”
+
+[c2]
+Există speranță! Există viață veșnică!
+Trebuie doar să crezi în Dumnezeu
+Din toată inima!
+Există salvare! Există iertare de păcat!
+Doar prin jertfa de pe cruce poți să fii eliberat!
+Există speranță! Există viață veșnică!
+Trebuie doar să crezi în Dumnezeu
+Din toată inima!
+Există salvare! Există iertare de păcat!
+Doar prin jertfa de pe cruce poți să fii eliberat!
+
+[b]
+Astăzi îți spunem „există viață veșnică!
+Crede în Evanghelie și cerul întreg vei moșteni! ”
+
+[e]
+Există speranță! Există o cale!
+Și ea e Hristos! E vestea bună!

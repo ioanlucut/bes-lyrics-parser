@@ -1,0 +1,33 @@
+[title]
+Astept aceea zi {author: {Speranța}, {rcId: {110999}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,c4
+
+[v1]
+Aștept aceea zi, aștept cu nerăbdare,
+Să văd pe Domnul meu, în slavă cum apare.
+
+[c]
+/: Ce frumos va fi, când Isus va apărea,
+Sfinte melodii cu îngerii vom cânta :/
+
+[v2]
+Mi-e dor de clipa-aceea, mi-e dor de veșnicii,
+Eu știu că nu-i departe, când Domnul va veni.
+
+[c2]
+/: Va începe nunta Mirelui iubit
+Cu Mireasa Sfântă ce Domnului a slujit :/
+
+[v3]
+Vom uita de toate, de tot ce-am suferit,
+Când vom vedea pe Domnul, Mirele iubit.
+
+[c3]
+/: Lacrimi și suspine Domnul va lua,
+Nu va fi tristețe, Isus va triumfa :/
+
+[c4]
+/: Ce frumos va fi, când Isus va apărea,
+Sfinte melodii cu îngerii vom cânta :/

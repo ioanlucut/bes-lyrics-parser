@@ -1,0 +1,24 @@
+[title]
+Cat te iubesc {author: {Text: Emilia Toader, Muzica: Adrian Toader}, {rcId: {199162}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+/: Cât te iubesc, mi-s martori îngerii
+Al căror cânt Tu îl asculți.
+Isus, oprește-te lângă mine,
+Ajută-mi Tu să înțeleg. :/
+
+[c]
+Îngândurat, m-aplec spre Tine,
+Dă-mi puteri de har din plin.
+Îngăndurat mă rog mereu,
+Isus, vreau să Te primesc.
+
+[v2]
+/: Cât te iubesc, mi-s martori îngerii
+Al căror cânt Tu îl asculți.
+Isus, oprește-te lângă mine,
+Ajută-mi Tu să înțeleg. :/
+Coda: Cât te iubesc!

@@ -1,0 +1,35 @@
+[title]
+Isus te cheama {author: {C.B.McAfea}, {rcId: {1712}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Isus te cheama, vin’ la El,
+Vino la pieptul Sau,
+Nu-I nicaieri alt scut la fel
+Cum e la pieptul Sau.
+Alunga orice teama,
+Astazi, din gandul tau,
+Isus mereu te cheama,
+Vino la pieptul Sau!
+
+[v2]
+Isus te cheama, vin’ la El,
+Vino la pieptul Sau,
+Vesmant de har si scump inel
+Primesti la pieptul Sau,
+Isus e Painea vie,
+Calea spre Dumnezeu.
+Isus e vesnicie,
+Vino la pieptul Sau!
+
+[v3]
+Isus te cheama, vin’ la El,
+Vino la pieptul Sau,
+Alearga-n zbor de porumbel
+Si vin’ la pieptul Sau,
+Isus cel sfant ti-e frate,
+Sprijin in orice rau,
+Isus e libertate,
+Vino la pieptul Sau!

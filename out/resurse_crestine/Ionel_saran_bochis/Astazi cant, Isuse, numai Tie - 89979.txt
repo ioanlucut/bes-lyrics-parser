@@ -1,0 +1,41 @@
+[title]
+Astazi cant isuse numai tie {author: {Ionel Saran Bochis}, {rcId: {89979}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Azi Îți cânt, Isuse, numai Ție,
+M-ai salvat și m-ai chemat la Tine,
+Tu ai spus că-mi vei da mângâiere,
+Și-alinare, Doamne, în durere.
+
+[c]
+Pentru Tine, Doamne, astăzi cânt,
+Pentru Tine, Doamne, eu trăiesc.
+Mi-ai iertat întragă vina mea.
+/: Din inimă, Doamne,-Ți voi cânta! :/
+
+[v2]
+Doamne, Tu ești fericirea mea,
+Te iubesc din toată Inima!
+Nu mai vreau să pleci Tu de la mine,
+Fii mereu, Doamne Isuse, cu mine!
+
+[c2]
+Pentru Tine, Doamne, astăzi cânt,
+Pentru Tine, Doamne, eu trăiesc.
+Mi-ai iertat întragă vina mea,
+/: Din inimă, Doamne,-Ți voi cânta :/
+
+[v3]
+Doamne, astăzi eu Te laud pe Tine,
+Ajută-mă să rămân mereu
+În credință, dragoste, iubire,
+Ajută-mă, o, Isus, al meu!
+
+[c3]
+Pentru Tine, Doamne, astăzi cânt,
+Pentru Tine, Doamne, eu trăiesc.
+Mi-ai iertat întragă vina mea,
+/: Din inimă, Doamne,-Ți voi cânta :/

@@ -1,0 +1,35 @@
+[title]
+Ma uit in jur {author: {David Stănuș}, {rcId: {153065}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Mă uit în jur și văd atâta
+Indiferență de Cuvânt,
+Societatea azi respinge
+Valorile și tot ce-i Sfânt
+
+[c]
+Pe câți am salvat de la iad și-am adus
+O singură roadă pentru Isus?
+Și cât am trăit Evanghelia
+Cu viața mea, cu viața ta?
+
+[v2]
+Domnul Isus este Cuvântul
+Și-n jurul nostru mor mereu
+Atâția fără mântuire
+Străini și fără Dumnezeu.
+
+[v3]
+Mai sunt și-acum atâția oameni
+Ce au nevoie de ajutor.
+Cu atâtea suferinți și rane
+Ei vor balsam vindecător.
+
+[v4]
+Să alergăm s-ajungem carul,
+Să fim la famen de folos,
+S-aducem tot mai multă roadă
+Ca ucenici ai lui Hristos.

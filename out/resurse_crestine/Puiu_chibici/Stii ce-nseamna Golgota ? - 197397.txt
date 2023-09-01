@@ -1,0 +1,47 @@
+[title]
+Stii ce-nseamna golgota ? {author: {Puiu Chibici}, {rcId: {197397}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Știi ce-nseamnă Golgota,
+Știi ce-nseamnă crucea?
+Cine-a dus povara ta,
+Și-a murit întins pe ea?
+
+[c]
+Emanuel, Emanuel,
+Din vecie neschimbat,
+/: Mielul ce-a fost junghiat,
+Pentru-al meu și-al tău păcat! :/
+
+[v2]
+Știi durerea ce-a răbdat,
+Răstignit în cuie?
+Știi iubirea ce-a iertat,
+A lumii întreg păcat?
+
+[v3]
+Știi ce-nseamnă Gethsimani,
+Ce-i fiorul morții?
+Știi tu ura lui satan,
+Și cruzimea de roman?
+
+[v4]
+Știi tu oare cât a plâns,
+Singur în grădină?
+Cât amar în piept a strâns,
+Pentru-a mea și-a ta vină?
+
+[v5]
+Știi ce-nseamnă-al tău păcat,
+Moartea, frate dragă!
+Dar să nu uiți niciodat’,
+Domnul te-a răscumpărat!
+
+[v6]
+Dacă crucea-ți este grea,
+Și mai cazi pe cale.
+Du-o și tu până sus,
+Cum a dus-o și Isus!

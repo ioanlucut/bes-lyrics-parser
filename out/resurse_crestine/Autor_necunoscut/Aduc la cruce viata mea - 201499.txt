@@ -1,0 +1,41 @@
+[title]
+Aduc la cruce viata mea {author: {Album necunoscut}, {rcId: {201499}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Aduc la cruce viața mea
+Să o primești mai bine
+/: Și dacă o mai poți salva
+Te rog s-o faci, Stăpâne :/
+
+[c]
+/: Tu mă cunoști știi ce-am făcut
+Cu sufletul din mine
+În fața Ta stă un căzut
+Ce faci Doamne cu mine? :/
+
+[v2]
+Mi-a fost rușine ca să spun
+C-am fost iertat de Tine
+/: Credeam că trebuie să-ndur
+Cununi de spini ca Tine :/
+
+[c2]
+/: Sunt păcătos vin la Calvar
+Cu viața-mi de rușine
+/: Îngenunchez lângă altar
+Ce faci Doamne cu mine? :/
+
+[v3]
+Când Te-am văzut pe cruce pus
+Cu mâinile-n piroane
+/: Te-am părăsit și m-am ascuns
+Ca să nu-ndur ca Tine :/
+
+[c3]
+/: Sunt Petru care m-am lepădat
+De frică și rușine
+Si-acuma vreau sa fiu iertat
+/: Ce faci Doamne cu mine? :/

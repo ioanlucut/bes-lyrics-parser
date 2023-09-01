@@ -1,0 +1,35 @@
+[title]
+Sa fiu o lumina {author: {Magdalena Fleșariu}, {rcId: {6654}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Atât de mulți sunt în întuneric
+În agonie căutând lumina
+Popoare mii și mii în beznă nopții
+Ce nu cunosc pacea, fericirea.
+
+[c]
+Să fiu o lumină prin viața mea
+Să mă consum pe mine însumi în lucrarea Ta
+Vreau să renunț la tot ce nu e după voia Ta
+Și vreau să mă predau cu totul în lucrarea Ta.
+
+[v2]
+Atât de mulți cuprinși de groază
+Se-nchină-n fața unor statuete
+Și își dedică ființa întreagă
+Zeităților lipsite de viață.
+
+[v3]
+O, Doamne, pot să duc și eu vestea bună
+La capătul lumii la orice făptură
+Să mă unesc în rugăciune cu lacrimi
+Cu cei plecați la secerișul mare.
+
+[c2]
+Să fii o lumină prin viața ta
+Să te consumi pe tine însuti în lucrarea Sa
+Și să renunți la tot ce nu e după voia Sa
+Să vrei să te predai cu totul în lucrarea Sa

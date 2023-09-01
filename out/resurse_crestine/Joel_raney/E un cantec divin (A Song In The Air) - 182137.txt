@@ -1,0 +1,27 @@
+[title]
+E un cantec divin (a song in the air) {author: {Joel Raney, Traducere RO}, {rcId: {182137}}
+
+[sequence]
+v1,c,v2,c,s,c
+
+[v1]
+Noaptea coboară, păstorii turm-au lăsat
+Îngerii cântă, Pruncului sfânt, minunat
+În noaptea sfântă, Maria veghează, iubind
+Și poartă-n brațe pe-al cerului, Rege divin.
+
+[c]
+E un cântec divin, e o stea strălucind
+O rugă de mamă și-un scâncet sublim
+Lumini se revarsă și-un cântec plăcut
+În iesle-I un Rege, Isus S-a născut!
+
+[v2]
+Haideți la iesle, Regelui să ne-nchinăm
+Imnuri de laudă din inimă să-I cântăm
+Daruri s-aducem ’naintea Regelui de sus
+Cu mic și mare să-I dăm slava, doar lui Isus.
+
+[s]
+Dar îngerul le-a zis: ”
+Nu vă temeti: căci vă aduc o veste bună, care va fi o mare bucurie pentru tot norodul: astăzi, în cetatea lui David, vi S-a născut un Mântuitor, care este Hristos, Domnul.” Luca 2:10-11

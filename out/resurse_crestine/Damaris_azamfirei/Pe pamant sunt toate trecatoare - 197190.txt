@@ -1,0 +1,29 @@
+[title]
+Pe pamant sunt toate trecatoare {author: {Damaris Azamfirei}, {rcId: {197190}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pe pământ sunt toate trecătoare
+Nimic în veci de veci nu va dăinui
+Pe pământ sunt călător pe-o cale
+Ce duce sus în cer la Tatăl în veșnici
+
+[c]
+Pe pământ sunt un străin o, Doamne
+Țara mea e-acolo sus în cerescul Paradis
+Pe pământ ajută-mă Isuse
+Să mă-ncred în Tine caci Tu-mi dai izbăvirea
+
+[v2]
+Pe pământ cât voi mai sta Isuse
+Ajută-mă să adun snopi pentru Împărăție
+Pe pământ aș vrea sa fiu unealta
+De care Tu, Te folosești o, Doamne în lucrare
+
+[v3]
+Pe pământ de-atât de greu o, Doamne
+Să înaintez pe cale când toți stau împotrivă
+Pe pământ de lacrimi am parte adesea
+Dar fericit voi fii odată lângă al meu Mântuitor

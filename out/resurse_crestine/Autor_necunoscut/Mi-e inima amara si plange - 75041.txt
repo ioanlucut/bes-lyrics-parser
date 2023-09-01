@@ -1,0 +1,35 @@
+[title]
+Mi-e inima amara si plange {author: {Anonim}, {rcId: {75041}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Mi-e inima amara si plange
+Dar vino in ajutor
+Caci viata fara de Tine se stinge
+Si singur eu numai pot.
+
+[c]
+/: Sunt singur pe mare
+Si valul e tare si sunt un pacatos
+Intinde-Ti Tu mana opreste furtuna
+Caci numai Tu esti Hristos. :/
+
+[v2]
+De indoieli sunt apasat
+Dar Tu m-ai vindecat
+Pe bratul Tau Tu m-ai luat
+Salvare Tu mi-ai dat.
+
+[v3]
+Umbrele mortii si incercarii
+Cadea asupra mea
+Ziceam ca n-am sa mai rezist
+Si ma voi clatina.
+
+[v4]
+Pe Tine Te laud mereu
+Tu esti carmaciul meu
+Linistit stau in bratul Tau
+Cand valul este greu.

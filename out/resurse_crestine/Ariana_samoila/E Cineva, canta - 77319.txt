@@ -1,0 +1,31 @@
+[title]
+E cineva canta {author: {Ariana Samoila}, {rcId: {77319}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Isuse, Isuse, ascultă acum
+Departe, pe dealuri, prin văi, pe câmpie
+Un cântec de lacrimi, de jertfă și drum
+E cineva, cântă prin zarea pustie
+E cineva, cântă, e unul, sunt doi,
+Sunt sute, sunt mii, sunt mulțimi fără zare
+Și cântă prin soare, prin noapte și ploi
+Un imn de iubire, de har și chemare
+
+[c]
+E cântecul meu de dragoste, strâns din primul fior de grea sfâșiere
+Din ziua când, Ție, Isuse Ți-am plâns întâia iubire și-ntâia durere
+Ascultă-l cum crește mereu, mai aprins, mereu mai puternic, mereu mai fierbinte,
+O oaste, o țară, o lume-a cuprins, o ’nalță, o-ncântă și-o poartă ’nainte.
+
+[v2]
+Ascultă-l Isuse, e imnul slăvit
+Din ziua când haru-Ți veni peste mine
+Și-n care-Adevărul a rupt, strălucit
+Tristețea trăită departe de Tine
+Ascultă-l Isuse, în ceasul ceresc
+Când harfa se stramă pe culmi de extaze
+Când lutul apune, când ochii privesc
+Uimiți Veșnicia de slavă și raze

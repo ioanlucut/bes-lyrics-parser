@@ -1,0 +1,41 @@
+[title]
+Lupta nu da-napoi {author: {Frații Fedur}, {rcId: {96502}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Dacă te-ai pornit la oaste ca și noi
+Luptă nu da-napoi!
+În furtuni prin vremuri grele și prin ploi
+Luptă, nu da-napoi!
+Multe lipsuri și necazuri vor veni
+Chiar de-ar fi să cazi în luptă nu obosi
+Drumul pân’ la capăt este doar război
+Hai, luptă nu da-napoi!
+
+[c]
+/: Prinde curaj viteaz, să-nfrunți dușmanul
+Nu fi laș nicicând nu da-napoi
+Mergi în război alături de noi
+Hai, luptă, nu da-napoi! :/
+
+[v2]
+Domnul vrea la oaste numai luptători
+Luptă nu da-napoi!
+Chiar de soarele și luna-s printre nori
+Luptă nu da-napoi!
+Vei primi raspalata și cerești comori
+Dar pân-atunci pe cale vor fi spini și flori
+Premiul îl primești doar în ziua de-apoi
+Hai, luptă nu da-napoi!
+
+[v3]
+Nu e mult și vine Domnul iar la noi
+Luptă nu da-napoi!
+Vom zbura cu toți spre cer în haine noi
+Luptă nu da-napoi!
+Va începe sărbătoarea de apoi
+Vom uita c-am fost în luptă și război
+Veselia sus în cer va fi în toi
+Hai luptă, nu da-napoi!

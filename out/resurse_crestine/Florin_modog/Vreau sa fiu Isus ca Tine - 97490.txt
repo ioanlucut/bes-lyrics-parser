@@ -1,0 +1,46 @@
+[title]
+Vreau sa fiu isus ca tine {author: {Florin Modog}, {rcId: {97490}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Vreau să fiu, Isus, ca Tine!
+Vreau să fiu, Isus, cum ești!
+Să m-aprind în noaptea lumii
+Și speranțe noi să cresc!
+Să mă dărui pentru lume
+Cum, Isuse, ai făcut
+Și în mine toți să vadă
+Că sunt fiul Tău iubit!
+
+[c]
+Lasă, Doamne, să răsune
+Clipa dragostei în om,
+Ca o torță să se-aprindă
+Flacăra iubirii noi!
+Să mă pun acolo, Doamne,
+Unde nimeni nu ar sta
+Așa cum făcut-ai, Doamne,
+Când ai stat pe Golgota!
+Să mă pun acolo, Doamne,
+Unde nimeni nu ar sta,
+Să ard că o torță vie
+Până-n-mpărăția Ta!
+Să mă-aprind lumină-n noapte
+Să aduc speranțe noi,
+Să șterg cum vei șterge, Doamne,
+Lacrimile sfinților!
+
+[v2]
+Vreau să fiu, Isus, ca Tine
+Vreau să fiu, Isus, cum ești
+Să-mi apropii a mea mână,
+Rănile ca să le leg...
+Lacrimile, ce pe față
+Se preling așa ușor,
+Să le șterg cum Tu vei șterge
+Lacrimile sfinților!
+
+[e]
+Vreau să fiu, Isus, ca Tine...

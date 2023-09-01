@@ -1,0 +1,31 @@
+[title]
+Dragostea ta scump isuse {author: {Alexandru Groza}, {rcId: {185327}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Dragostea Ta, scump Isuse, m-a reâ
+ntors iarăși la Tine
+Știu că Tu, Doamne, nu disprețuiești, inima zdrobită
+Fie-Ți milă și-ndurare, Doamne-n bunătatea Ta
+Și șterge fărădelegile mele, spală-mă să fiu curat!
+
+[c]
+Credința Ta, Isus Hristos, pune-o-n inima mea
+Sub Crucea Ta sfântă de la Golgota!
+Deschide-mi inima, Isus, ca să te slăvesc
+Cu tine viața vreau să trăiesc!
+
+[v2]
+Sunt născut în nelegiuire și păcatul mă apasă
+Pune în mine un duh nou, statornic, vreau, Doamne să-Ți servesc
+Tu mi-ai izbăvit păcatul, sângele-Ți vărsat pe cruce
+Spală-mă și voi fi alb ca zăpada, în Tine eu mă încred!
+
+[e]
+’
+Naintea Ta, Isus Hristos bucuriile sunt
+Învață-mă, Doamne, al Tău sfânt Cuvânt
+Dă-mi o speranță, Isus, dă-mi mântuirea Ta
+În veci îndurarea eu voi cânta!

@@ -1,0 +1,33 @@
+[title]
+Osana osana {author: {Hillsong, Traducere RO}, {rcId: {6611}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+Văd cerul plin de glorie
+Regele venind pe nori
+Îngeri cântă, îngeri cântă
+Văd marea Lui iubire
+Tot ce-i vechi devine nou
+Pământul cântă, pământul cântă
+
+[c]
+/: Osana, osana,
+Osana-n înălțimi :/
+
+[v2]
+O generație nouă
+Se ridică-naintând
+Ei ceru-au țintă, ei ceru-au țintă
+Văd zile de trezire
+Inimi pentru el arzând
+Stând pe genunchi și-n duhul lor cântând
+
+[b]
+Ochii mei deschide-i larg, Isus
+Să aud ce-mi spui Doamne în ascuns
+Să iubesc cum Tu iubești, Isus
+Tot ce am îți dăruiesc
+Numai pentru Tine vreau să trăiesc
+Cum pășesc în drumul meu spre veșnicii

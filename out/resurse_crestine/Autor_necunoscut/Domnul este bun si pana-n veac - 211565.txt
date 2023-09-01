@@ -1,0 +1,20 @@
+[title]
+Domnul este bun si pana-n veac {author: {Anonim}, {rcId: {211565}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+/: Domnu este bun și până-n veac
+Ține îndurarea Lui :/
+/: Până în veac, ține îndurarea Lui :/
+
+[v2]
+/: Domnul ne-a promis că va veni
+Și noi toți Îl așteptăm :/
+/: El va veni, și noi toți Îl așteptăm :/
+
+[v3]
+/: Domnul ne-a promis că ne va lua
+Sus în cer în Slava Sa :/
+/: El ne va lua sus în cer în Slava Sa :/

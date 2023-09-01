@@ -1,0 +1,26 @@
+[title]
+Ce frumoasa-i tineretea {author: {Speranța}, {rcId: {3810}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Ce frumoasă-i tinerețea cu al meu Păstor
+El mă duce la pășune și ape de izvor
+/: El mă conduce :/
+El mă conduce la izvor
+El e-al meu Păstor
+
+[v2]
+Zi de zi cu el pe cale vreau să merg mereu
+El e stânca vieții mele, Domnul Dumnezeu
+/: El mă conduce :/
+El mă conduce mereu
+Domnul Dumnezeu
+
+[v3]
+Cât trăiesc în astă lume vreau să Îl slujesc
+Doar Isus îmi poartă pașii spre raiul ceresc
+/: El mă conduce :/
+El mă conduce cât trăiesc
+Spre raiul ceresc.

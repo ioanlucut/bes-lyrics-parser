@@ -1,0 +1,29 @@
+[title]
+Sunt un mic copil {author: {Anonim}, {rcId: {854}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Sunt un mic copil dar vreau lui Isus să Îi predau
+Viața mea și inima.
+El mi-aduce bucurii, mă păzește zi de zi
+Căci eu sunt al Lui copil.
+
+[c]
+Eu Isus Te iubesc căci Tu îmi dăruiești
+Viața care chiar Tu ești.
+Tatăl meu, mama mea nu mă pot ajuta
+Dar Tu îmi porți grija mea.
+
+[v2]
+Astăzi eu Isus Te rog să mă-nveți ca să mă rog
+Orișicând ca Samuel.
+Vreau al toți ca să le spun căci cu mine Tu ești bun
+Singur nu mă lași nicicând.
+
+[v3]
+Când din Biblie-mi citesc părinții ce mă iubesc
+Atunci la Tin mă gândesc.
+Știu c-acolo sus în cer îmi vei stinge orice dor
+De voi fi ascultător.

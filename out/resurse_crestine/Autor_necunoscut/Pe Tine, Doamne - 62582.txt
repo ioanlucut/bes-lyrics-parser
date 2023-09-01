@@ -1,0 +1,26 @@
+[title]
+Pe tine doamne {author: {Anonim}, {rcId: {62582}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+Pe Tine, Doamne,
+Eu vreau să Te urmez
+De Tine, Doamne,
+Eu vreau să mă apropii
+Isuse, pe calea Ta
+Eu doresc să merg
+Tot timpul cât voi trăi.
+
+[v1]
+Învață-mă Cuvântul Tău
+Ca să fac voia Ta
+Învață-mă Cuvântul Tău
+Isuse, doar de Tine să ascult.
+
+[v2]
+Deschide-mi ochii ca să văd
+Cât ești Tu de minunat
+Deschide-mi inima mai mult
+Isuse, doar de Tine să ascult.

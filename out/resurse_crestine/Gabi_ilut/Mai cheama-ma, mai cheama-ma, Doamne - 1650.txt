@@ -1,0 +1,33 @@
+[title]
+Mai cheama-ma mai cheama-ma doamne {author: {Gabi Ilut}, {rcId: {1650}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mai cheamă-mă, mai cheamă-mă, Doamne
+Mai cheamă-mă, vorbește-mi din nou,
+Pe munte sus spre Tine mă-ndeamnă
+Singur să urc, să fim doar noi doi.
+
+[c]
+Singur, singur cu Tine,
+Urc pe muntele Tău cel sfânt,
+Singur în noapte cu Tine
+Mă-ncumet pe aripi de vânt,
+Singur, singur cu Tine,
+Pot în stâncă să mă ascund,
+Când vei veni lângă mine
+Voi răspunde susurului blând.
+
+[v2]
+Trudit aștept, coboarâte-n munte
+Purtat de nori ridic ochii-n sus,
+În vânt și foc îți caut prezența
+În acest loc vorbește-mi din nou.
+
+[v3]
+Prin fața mea să treci plin de slavă,
+Cu mâna Ta acoperă-mă,
+Vreau să trăiesc, să-Ți văd frumusețea,
+Îți cer măcar o parte din ea.

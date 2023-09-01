@@ -1,0 +1,35 @@
+[title]
+Canta campul fericit {author: {Nicolae Moldoveanu}, {rcId: {225882}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cântă câmpul fericit
+slavă și mărire
+Celui ce l-a-mpodobit
+cu așa iubire!
+
+[c]
+Cântă păsările-n crâng
+cântece de slavă
+/: și-ntr-un cor voios se strâng
+toate din dumbravă. :/
+
+[v2]
+Floricelele privesc
+cerul fericite;
+Fericite mulțumesc
+cu priviri smerite.
+
+[v3]
+Domnului cu grija Lui
+care-n mii de fețe,
+le-a împodobit de nu-i
+ca a lor frumusețe.
+
+[v4]
+Fă-mă, Dumnezeul meu,
+ca pe floricele,
+sufletul să-l am mereu
+alb și sfânt, ca ele.

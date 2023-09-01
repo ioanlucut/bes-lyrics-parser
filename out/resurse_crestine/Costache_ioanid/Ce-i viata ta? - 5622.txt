@@ -1,0 +1,53 @@
+[title]
+Ce-i viata ta? {author: {Costache Ioanid}, {rcId: {5622}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+Ce-i viața ta? E o peniță
+Cu care scrii mereu pe-un drum
+Și-apoi la ultima portiță
+Cand vrei sa-l stergi ca pe-o tăbliță,
+/: Nu se mai șterge nicidecum! :/
+
+[v2]
+Și vorbe-n vânt și fapte rele
+Raman pe veci ca-ntr-un album
+Păzit e scrisul tău de stele,
+De-ai pune mări întregi să-l spele,
+/: Nu se mai șterge nicidecum! :/
+
+[v3]
+Să nu te minți că-n veșnicie
+Trecutul se preface-n scrum!
+Căci Dumnezeu stă mărturie
+Ca-n fața Lui tot ce se scrie,
+/: Nu se mai șterge nicidecum! :/
+
+[v4]
+In ceasul greu de judecată
+Iti vei citi întregul drum.
+Și vei zbucni în plâns deodată,
+/: Nu se va șterge nicidecum :/
+
+[v5]
+Nu poate șterge decât sange,
+Dar sânge Sfânt și nu oricum
+Ce înger trupul si-l va frânge?
+Si-astfel ce-ai scris, oricât ai plange,
+/: Nu se va șterge nicidecum :/
+
+[v6]
+Hai, adu-ți vina ta și gresul,
+Isus iti sterge-al vieții drum,
+Cum trece pe nisip vârtejul,
+Dar dacă azi nu prinzi prilejul
+/: Nu se va șterge nicidecum :/
+
+[v7]
+Isus, pe lemn, rabda arsita,
+Isus e prețul tău acum,
+Te face alb ca lămâița,
+Și tot ce-a scris pe drum penița,
+/: Nu se mai vede nicidecum :/

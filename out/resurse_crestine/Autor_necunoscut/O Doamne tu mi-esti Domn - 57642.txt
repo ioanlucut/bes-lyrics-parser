@@ -1,0 +1,18 @@
+[title]
+O doamne tu mi-esti domn {author: {Anonim}, {rcId: {57642}}
+
+[sequence]
+c,v1,c
+
+[c]
+O Doamne tu mi-esti Domn
+Si lauda mea vesnic ti-o dau,
+O Doamne tu mi-esti Domn
+Si lauda mea vesnic ti-o dau.
+
+[v1]
+Eu te caut dimineata
+Si-nvat sa umblu-n
+Ale Tale cai.
+Si pas cu pas condu-Ma
+Te voi urma in fiecare zi.

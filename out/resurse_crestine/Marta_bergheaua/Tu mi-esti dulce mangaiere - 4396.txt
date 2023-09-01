@@ -1,0 +1,29 @@
+[title]
+Tu mi-esti dulce mangaiere {author: {Marta Bergheaua}, {rcId: {4396}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Tu mi-ești dulce mângâiere
+Scumpul meu Mântuitor!
+Eu simt mare-nviorare
+Când ascult Cuvântul Tău
+
+[c]
+Tu ești singurul meu sprijn
+Împlini-vei tot ce-ai spus;
+Mi-am găsit totul în Tine,
+Sunt de acum numai al Tău.
+
+[v2]
+Când sunt slab, eu vin la Tine, 
+Tu îndată mă-ntărești;
+Când sunt trist, eu îți spun Ție,
+Tu atunci mă-nveselești.
+
+[c2]
+Orice grijă și povară
+Eu, asupra Ta le-arunc,
+Și atunci rămân în pace
+Căci iubirea Ta mi-e scut.

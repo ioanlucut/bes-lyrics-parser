@@ -1,0 +1,30 @@
+[title]
+Stanca vietii e scaparea {author: {Nicolae Moldoveanu}, {rcId: {5422}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Stânca vieții e scăparea care-n lume S-a adus
+Pentru cei pierduți în valuri, pentru cei fără Isus.
+
+[c]
+Stânca vieții e Golgota, e Isus cel răstignit!
+/: El ne-a scos din valul lumii; jertfa Lui ne-a mântuit. :/
+
+[v2]
+Urlă marea-nfuriată... Zboară valurile-n sus...
+Noi suntem pe Stânca Vieții și ne apără Isus.
+
+[v3]
+E puternică furtuna, adieri s-aud pe sus,
+Dar, noi stăm, pe Stânca Vieții și ne apără Isus!
+
+[v4]
+„
+Voi, pe care valul lumii încă tot nu v-a răpus:
+Apucați spre Stânca Vieții! Apucați către Isus!
+
+[v5]
+Ridicați, spre El, privirea din al vieții trist apus,
+Căci în marea de păcate, Stânca noastră e Isus!”

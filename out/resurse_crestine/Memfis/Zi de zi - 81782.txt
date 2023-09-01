@@ -1,0 +1,27 @@
+[title]
+Zi de zi {author: {Memfis}, {rcId: {81782}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Te văd, din somn
+Tu mă trezești
+Prin soare Îmi zâmbești
+Văd frumusețea Ta
+Și simt bucuria Ta
+Îmi umple inima
+Începe o nouă zi.
+
+[c]
+/: Trăiesc să las ceva în urma mea
+Mărturisesc Împărăția Ta. :/
+
+[v2]
+Zi de zi ești cu mine
+Al Tău braț mereu mă ține
+Nu mă tem orice-ar veni
+Cu glasul meu eu te laud
+Fața Ta o Doamne caut
+Nu mă tem orice-ar veni
+Ești cu ine zi de zi.

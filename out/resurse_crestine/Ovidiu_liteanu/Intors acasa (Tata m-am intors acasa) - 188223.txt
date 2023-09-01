@@ -1,0 +1,45 @@
+[title]
+Intors acasa (tata m-am intors acasa) {author: {Ovidiu Liteanu}, {rcId: {188223}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Tată m-am întors acasă
+Dacă poți Te rog mă iartă
+Ca m-am dus de lângă tine
+Și-am plecat în depărtare
+Te-am lăsat cu supărare
+Și-am făcut ce nu e bine
+
+[c]
+M-am întors acasă
+Tată o mă iartă
+Ți-am adus numai rușine
+Vin din depărtare
+Inima mă doare
+Și plângând mă-ntorc la Tine
+
+[v2]
+Într-o țară -ndepărtată
+Am pierdut averea toată
+M-a robit păcatul Tată
+Banii toți am cheltuit
+În păcatul cel urât
+Tată meu Te rog mă iartă
+
+[v3]
+Împotriva Cerului
+Și-mpotriva Tatălui
+Am păcătuit știu bine
+Nu mai merit Tatăl meu
+Să mai fiu copilul Tău
+Ia-mă că argat la Tine
+
+[v4]
+Nu mă mustri nu mă cerți
+Tată mă îmbrățișezi
+A ta dragoste mă iartă
+M-ai pot oare fii iubit
+Că mult am păcătuit
+Ce iubire ai Tu Tată

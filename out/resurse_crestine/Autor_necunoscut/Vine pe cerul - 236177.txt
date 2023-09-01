@@ -1,0 +1,40 @@
+[title]
+Vine pe cerul {author: {Necunoscut}, {rcId: {236177}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Vine pe cerul albastru soarele a înaltat
+Ca lumina si caldura
+Sa ne dea neîncetat?
+
+[c]
+Este Domnul Dumnezeu binefăcătorul meu.
+
+[v2]
+Cine noptilor da farmec prin tacere de nespus,
+Cand puzderie de stele
+Stralucesc pe bolta sus?
+
+[v3]
+Cine iarba înverzeste și-o asterne pe câmpi
+Verzi covoare mandre lanuri uriase aurii
+
+[v4]
+Cine mi de flori gingase
+Prin livezi a presarat
+Si-n colori vii minunate
+Maiestrit le-a imbracat?
+
+[v5]
+Cin’ semintei da putere
+Sa rodeasca insutit
+Ca sa dea belsug de hrana
+Muncitorului trudit?
+
+[v6]
+Cu puterea-i minunata
+El pe toate le-a-ntocmit,
+De aceea acum cu totii
+Sa-i cantam fii preamārit!”

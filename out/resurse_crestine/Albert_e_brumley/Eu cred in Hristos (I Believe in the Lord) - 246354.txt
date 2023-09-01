@@ -1,0 +1,29 @@
+[title]
+Eu cred in hristos (i believe in the lord) {author: {Albert E. Brumley, Traducere RO}, {rcId: {246354}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Eu cred, Isus e Fiul Tatălui
+Eu cred în Hristos! Eu cred în Isus Hristos!
+Eu cred în jertfa scump-a Mielului
+Eu cred în Hristos! Eu cred în Isus Hristos!
+
+[c]
+Eu mă-ncred în Isus, Nume sfânt
+Cred al Său sfânt Cuvânt
+Al Său Nume este cel mai glorios
+Eu cred în Hristos! Eu cred în Isus Hristos!
+
+[v2]
+Eu știu că sunt de El răscumpărat
+Eu cred în Hristos! Eu cred în Isus Hristos!
+Pe Domnul meu Îl laud ne-ncetat
+Eu cred în Hristos! Eu cred în Isus Hristos!
+
+[v3]
+Eu cred, Isus e Adevărul sfânt
+Eu cred în Hristos! Eu cred în Isus Hristos!
+Cu El voiesc să fiu în cerul sfânt
+Eu cred în Hristos! Eu cred în Isus Hristos!

@@ -1,0 +1,53 @@
+[title]
+N-am venit la tine doamne {author: {Anonim}, {rcId: {4539}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c
+
+[v1]
+N-am venit la Tine, Doamne
+După aur și argint
+Cu a Ta mână să-mi ștergi ochii
+Plin de lacrime fierbinți.
+
+[c]
+/: Oare ce-ai văzut la mine
+Că sunt rău și păcătos
+Ai venit din înălțime
+Ca să vii la mine jos :/
+
+[v2]
+N-am venit să-mi dai veșminte
+Cum se află pe pământ,
+Am venit să-mi dai Isuse
+Ungerea și sfânt veșmânt.
+
+[v3]
+N-am venit să-mi dai putere
+Să mă laud cu ce-mi dai,
+Fă-mă mic o, Doamne, astăzi
+Ca să pot ajunge-n rai.
+
+[v4]
+N-am venit să-mi dai izbândă
+La-ncercările cerești,
+Fă dovada cea mai sfântă
+Că Tu încă mă iubești.
+
+[v5]
+N-am venit să-mi dai doar mie
+Altora să nu le spui
+Spune-mi doar unde-i cărarea
+Sus la Tine să mă sui.
+
+[v6]
+N-am venit la poarta sfântă
+Mie doar să mi-o deschizi,
+Vreau atât ca mâna sfântă
+Și spre mine s-o întinzi.
+
+[v7]
+Înainte de-a fii lumea,
+Mai întâi Tu mi l-ai scris
+Numele în cartea vieții
+Spre-a mă lua în paradis.

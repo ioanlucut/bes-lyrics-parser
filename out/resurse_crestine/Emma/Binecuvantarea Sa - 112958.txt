@@ -1,0 +1,29 @@
+[title]
+Binecuvantarea sa {author: {Emma}, {rcId: {112958}}
+
+[sequence]
+v1,v2,c,v3,c
+
+[v1]
+Spre viitor pășim azi împreună
+Pe-un tainic drum, ce duce-n veșnicie
+Pornim spre un tărâm al fericirii
+Uniți în inimi, mână în mână.
+
+[v2]
+Iubirea ta e azi sfânta comoară
+Cu care, Doamne, ne-ai împodobit
+Când paradisul va părea departe
+Veni-vor îngeri să ne dea aripi
+
+[c]
+Azi visul nostru se împlinește
+Primim în dar, la altar, binecuvântarea Ta
+E-n un vis din zori, ce nu cunoaște noapte
+Și zboară la cer să ne aducă-n dar comori înstelate.
+
+[v3]
+Păstrează-ne pân’ la sfârșitul vieții
+Uniți în inimi de un singur dor
+Să ne-ntâlnim pe nori cu Tine-n slavă
+Să Îți cântăm cu îngerii în cor.

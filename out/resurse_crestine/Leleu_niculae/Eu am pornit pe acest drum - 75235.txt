@@ -1,0 +1,29 @@
+[title]
+Eu am pornit pe acest drum {author: {Leleu Niculae}, {rcId: {75235}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Eu am pornit pe acest drum
+Să te las nu pot nicicum
+Eu am pornit pe calea Ta
+Să rătăcesc nu mă lăsa
+
+[c]
+O Isus, Tu m-ai iubit!
+De aceea la mine ai venit
+Din nimic m-ai ridicat
+Harul Tău mi l-ai dat!
+
+[v2]
+Tu ești al meu Stăpânitor
+Să fiu pe veci nemuritor
+Inima mea ți-o dăruiesc
+Și vreau pe veci să Te slăvesc
+
+[v3]
+Tu m-ai primit, m-ai ajutat
+De viața mea Te-ai îndurat
+Îți mulțumesc că m-ai iubit
+Îți mulțumesc că m-ai primit

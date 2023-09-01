@@ -1,0 +1,23 @@
+[title]
+Peste pamant rasuna iubirea {author: {Anonim}, {rcId: {198964}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Peste pămînt, răsună iubirea,
+Celui Sfînt, ce Fiul Si-a dat
+Peste pămînt, se-aude un cîntec
+Căci Hristos din morți a’nviat! x2
+
+[c]
+Strigă pămîntul, ce minunat
+Domnul Sfînt pe Sine S’a dat!
+Strigă pămîntul, ce minunat!
+Domnul Sfînt din morți a’nviat! x2
+
+[v2]
+Dovada ’nvierii e’n mugurul blînd
+Și’n al dragostei cuvînt
+Dovada’nvierii este’n cei salvat,
+De Isus Hristos răscumpărati! x2

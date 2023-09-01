@@ -1,0 +1,30 @@
+[title]
+Cantarile mele {author: {Corina Moldovan}, {rcId: {187936}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cântările mele, zboară către stele
+Sus, în Slava cea de sus
+Se unesc cu ele dorurile mele
+De-a lauda pe Isus.
+
+[c]
+El vrea să-mi ofere
+Ce-n lume nu piere:
+Dragoste și Duhul Sfânt
+E Divinitate, Sfânt este în toate
+Și în cer și pe pământ!
+
+[v2]
+Tot ce e în mine, Lui îi aparține
+Eu sunt creatura Lui.
+M-a facut din tină, ca să fiu divină
+O faptură-a Domnului.
+
+[v3]
+Firea pământească, vreau să o zdrobească
+Templul care-l port să fie sfânt
+Ca să locuiască pacea Lui cerească
+Cât voi fi pe-acest pământ.

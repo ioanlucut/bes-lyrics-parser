@@ -1,0 +1,27 @@
+[title]
+Lauda cinste onoare mielului ce-a inviat {author: {Sunny Tranca}, {rcId: {180150}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+Tu domnești pe tronul slavei, în veșnicie îmbrăcat,
+Strălucirea slavei Tale mă uimește ne-ncetat.
+Cine oare se compară Doamne cu puterea Ta,
+Tu ești Domnul vieții mele, Tu ești mântuirea mea.
+
+[c]
+Laudă, cinste, onoare, Mielului ce-a înviat,
+Noi aducem închinare, Numelui glorificat.
+Laudă, cinste, onoare, Mielului ce stă pe tron,
+Noi aducem închinare, doar pe El îl înălțăm.
+
+[v2]
+Îngerii și heruvimii fredonează toți în cor,
+El e vrednic de mărire, doar El e biruitor.
+Peste moarte ai călcat Doamne cu puterea Ta,
+Tu ești Domnul vieții mele, Tu ești mântuirea mea.
+
+[b]
+Peste moarte ai călcat Doamne cu puterea Ta
+Tu ești Domnul vieții mele, Tu ești mântuirea mea.

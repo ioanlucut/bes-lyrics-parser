@@ -1,0 +1,25 @@
+[title]
+Dragoste - odor curat {author: {Nicolae Moldoveanu}, {rcId: {244537}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Dragoste - odor curat,
+M-ai iubit, dar ce ți-am dat!
+/: Casa care m-a crescut,
+M-a iubit - și m-a pierdut. :/
+
+[v2]
+Brațul ce m-a legănat,
+M-a iubit - și s-a uscat.
+/: Sufletul ce m-a crezut,
+M-a iubit - și I-a durut. :/
+
+[v3]
+Legământul cel curat,
+M-a iubit - și I-am uitat.
+Ochii ce mă-nvăluiau,
+M-au iubit - și nu mă au.
+Doamne, harul nepătruns,
+M-a iubit - și n-am răspuns.

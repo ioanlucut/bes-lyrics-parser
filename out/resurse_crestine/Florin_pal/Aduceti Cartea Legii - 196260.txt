@@ -1,0 +1,35 @@
+[title]
+Aduceti cartea legii {author: {Florin Pal}, {rcId: {196260}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Aduceți Cartea Legii, aduceți-o înapoi!
+În Casa Lui cea Sfîntă, aduceți-o cu voi!
+E timpul să ne-ntoarcem din căile pustii
+La Dumnezeul vieții, la harul Lui să vii!
+
+[c]
+/: Să căutăm pe Domnul, e sigur c-am greșit!
+Tot ce e scris în Carte, noi nu am împlinit!
+Să ne sfințim viața și să ne pocăim
+Și toți, din clip-aceasta, veniți să ne smerim! :/
+
+[v2]
+Aduceți slova Vieții să o citim cu drag,
+Căci ea îți dă putere în viața de pribeag,
+Ea te ridică zilnic pe culmi măreți de har,
+Te schimbă și te spală, și-ți dă har după har.
+
+[v3]
+Și legământul nostru din nou să-l înnoim,
+Cu multă pocăință, la Domnul, să venim!
+Și tot Cuvântul vieții de-acuma să-l trăim
+Așa cum scrie-n Carte, pe Domnul să-L slujim!
+
+[v4]
+Să nu lărgim cărarea și să nu dăm ’napoi,
+Creștinii cei dintâi murit-au ca eroi...
+Păstrând credința-n Domnul, prin harul lui Isus,
+Avem viață-n slavă, cu El în ceruri sus.

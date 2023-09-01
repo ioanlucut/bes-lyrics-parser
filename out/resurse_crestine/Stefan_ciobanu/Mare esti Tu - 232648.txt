@@ -1,0 +1,38 @@
+[title]
+Mare esti tu {author: {Stefan Ciobanu}, {rcId: {232648}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Doamne, prin mila Ta mare noi stăm în picioare
+Iată-ne astăzi în fața Ta.
+Venim la Tine cu inimi umile
+Suntem uimiți, Tată, de slava Ta.
+Fii și fiice noi suntem prin cruce
+Acolo unde Domnul nostru a murit
+Dar trăiește, Isus domnește cu-adevărat!
+Mare ești Tu!
+
+[c]
+Soarele cât e de mare Îți stă la picioare
+Tu strălucești în viața mea.
+Toată bolta senină Îți cere lumină
+Puterea e în mâna Ta!
+
+[v2]
+Privind prin credință avem biruință
+Știind că toate sunt din mâna Ta
+Venim la Tine cu inimi umile
+Suntem uimiți, Tată, de slava Ta
+Fii și fiice noi suntem prin cruce
+Acolo unde Domnul nostru a murit
+Dar trăiește, Isus domnește cu-adevărat!
+Mare ești Tu!
+
+[e]
+Mare ești, Tu, Domn al slavei
+Îți cântăm cu îngerii, te lăudăm
+Împărat puternic
+Suveran și veșnic
+Ție-Ți dau viața mea!

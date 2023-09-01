@@ -1,0 +1,29 @@
+[title]
+Croieste-mi cararea {author: {Marta Bergheaua}, {rcId: {63170}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Croieste-mi cararea pe care trebuie sa pasesc
+Indruma-mi Tu pasii caci nu vreau sa gresesc
+Condu-ma Isuse spre-mparatia Ta
+Indreapta-mi privirea spre Golgota.
+
+[c]
+/: De acolo imi vine izbavirea
+De acolo iertare am primit
+Si vreau sa spun Isuse tuturora
+Ca pentru mine pe lemnul crucii ai murit :/
+
+[v2]
+Calauzeste-mi gandul cu duhul Tau cel sfant
+Oricand sa-mi fie scutul pe acest pamant
+Prezenta Ta Isuse o vreau in viata mea
+Mereu sa ma-nsoteasca pe calea Ta.
+
+[c2]
+/: Aceasta imi este dorinta
+Sa fiu o unealta-n Mana Ta
+/: Mai neclintita sa-mi fie credinta
+Si implineasca-se doar voia Ta. :/

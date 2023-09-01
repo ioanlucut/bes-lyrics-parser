@@ -1,0 +1,29 @@
+[title]
+Cantati copii cu veselie {author: {Nicolae Moldoveanu}, {rcId: {225151}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Cântați, copii, cu veselie,
+zburdați ca mieii pe câmpie!
+/: În toate voi să nu uitați
+Pe Dumnezeu să-L lăudați! :/
+
+[v2]
+Cântați, copii, fără de teamă,
+Zburdați ca mieii lândă mamă!
+/: Dar nu uitați - cu voi mereu
+Să lăudați pe Dumnezeu :/
+
+[v3]
+Cântați, copii, răsune cântul!
+Zburdați ca mieii-ntins pământul!
+/: Voi, însă, nu uitați nicicând,
+Pe Dumnezeu-nălțați cântând :/
+
+[v4]
+Cântați, copii, și-n vremi cu soare
+Și-n vremi de-adâncă-ntunecare!
+/: Sunteți păziți de Dumnezeu!
+Să știți! Deci să-I cântați mereu! :/

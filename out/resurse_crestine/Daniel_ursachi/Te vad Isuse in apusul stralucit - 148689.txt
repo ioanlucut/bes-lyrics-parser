@@ -1,0 +1,38 @@
+[title]
+Te vad isuse in apusul stralucit {author: {Daniel Ursachi}, {rcId: {148689}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Te văd, Isuse, în apusul strălucit,
+Te văd în nori plini de ploaie ce tot vin,
+Te văd în stele mii și-n galaxi
+Și în parfumul florilor de crin!
+
+[c]
+/: În tot se-arată că ești viu,
+Chiar și natura strigă:
+’’
+Exist-un Dumnezeu din Cer,
+Care pe toate le-a-ntocmit!’’ :/
+
+[v2]
+Te văd, Isuse, în trăsnetul furios,
+Te văd în curatul cer senin,
+Te văd în ciripitul păsărelelor din vii
+Și în cocorii ce la timp se duc.
+
+[v3]
+Te văd, Isuse, în curcubeul colorat
+Și-mi amintesc de-un legământ
+Ce l-ai făcut cu omul pe Pământ,
+În vechea vreme, ch
+Iar la început.
+
+[e]
+/: Și tu acum care nu crezi în Dumnezeul unic,
+Privește-acum în jurul tău și spune cu credință
+Cine a creat stelele ce strălucesc în noapte?
+Și munți, și ape, și câmpii ce toate strigă: ’’
+Slavă!’’ :/

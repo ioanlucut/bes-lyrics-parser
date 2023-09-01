@@ -1,0 +1,31 @@
+[title]
+E seara instelata {author: {Anonim}, {rcId: {7255}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+E seara instelata
+Si-afara langa foc
+Pastorii fac de straja
+In jurul turmelor.
+Din zarile albastre
+O raza de lumina
+Un inger se coboara
+Si-aduce veste buna
+
+[c]
+S-a nascut Domnul Isus
+Intr-un sat din Betleem
+Har si pace dar de sus
+Mantuire-n El avem
+
+[v2]
+Pastori si magi spre iesle
+Deodata au pornit
+Cuprinsi de bucurie
+De vestea ce-au primit
+I s-a plecat nainte
+Si lui s-au inchinat
+Si inima deschisa
+Pe loc ei i-au predat

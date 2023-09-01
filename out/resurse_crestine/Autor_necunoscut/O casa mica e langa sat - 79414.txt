@@ -1,0 +1,35 @@
+[title]
+O casa mica e langa sat {author: {Anonim}, {rcId: {79414}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+O casă mică e lângă sat
+Domnu-o veghează ne încetat
+/: Această casă n-o pot uita
+Acolo șade mămica mea :/
+
+[v2]
+Rază de soare când tu răsari
+Primele raze mamei să-i dai
+/: O, lumineaz-o din zori în zori
+Sărută-i fruntea de mii de ori :/
+
+[v3]
+Privighetoare de vei zbura
+Oprește-o clipă la mama mea
+/: Bate la gemul ei liniștit
+Să-i cânți un cântec cât mai iubit :/
+
+[v4]
+Când noaptea-i neagră și este grea
+De dor suspină mămica mea
+/: Voi, mii de astre să-i luminați
+Și mamei mele somn lin să-i dați :/
+
+[v5]
+Amurgul vieții vine-n curând
+Ea își ea zborul spre cer plecând
+/: Îmi va fi goală căsuța mea
+Când mamă dulce n-oi mai avea :/

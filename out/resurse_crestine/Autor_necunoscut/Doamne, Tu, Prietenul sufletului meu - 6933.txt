@@ -1,0 +1,35 @@
+[title]
+Doamne tu prietenul sufletului meu {author: {Anonim}, {rcId: {6933}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,e
+
+[c]
+Doamne, Tu, Prietenul
+Sufletului meu, ești,
+Și de aproape bine mă cunoști
+Știi când dorm, când mă scol,
+Îmi pătrunzi tot gândul,
+Ești cu mine pe oriunde umblu.
+
+[v1]
+Iată, Tu, ești în cerul de sus
+Tu ești și în adâncul de jos
+Ești pe aripile zărilor,
+Și pe marginea mărilor.
+
+[v2]
+Tu mă-nconjori din față,
+Mă-nconjori dinapoi
+Și când nu știu, pe brațe
+Doamne, Tu mă ții.
+
+[v3]
+Mă-nconjori din față
+Mă-nconjuri dinapoi
+Și când nu știu, pe brațe
+Doamne, mă ții.
+
+[e]
+/: O, știința Ta minunată
+E pentru mine prea înalta. :/

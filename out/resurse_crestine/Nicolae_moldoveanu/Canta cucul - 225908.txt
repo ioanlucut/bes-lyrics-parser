@@ -1,0 +1,38 @@
+[title]
+Canta cucul {author: {Nicolae Moldoveanu}, {rcId: {225908}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Cântă cucu-n limba lui:
+cucu, cucu!
+Cântă slavă Domnului:
+cucu, cucu!
+Cântă și tu-n limba ta,
+Domnului spre slava Sa
+cântă, drag copil, așa:
+slavă-Ți cânt, slavă-Ți cânt,
+Doamne-Ți cânt și-Ți voi cânta!
+
+[v2]
+Cântă cucul cânt zglobiu:
+cucu, cucu!
+Dumnezeului Cel Viu,
+cucu, cucu!
+Cântă și tu, dragul meu,
+laudă lui Dumnezeu,
+cânt-așa cu glasul tău:
+laudă, laudă!
+Cântă-I laudă mereu!
+
+[v3]
+Cântă cucul neoprit:
+cucu, cucu!
+Dumnezeului Slăvit,
+cucu, cucu!
+Cântă și tu-n glas curat,
+pentru Domnul minunat,
+cânt-așa neîncetat:
+fii în veci, fii în veci,
+Doamne-n veci fii lăudat!

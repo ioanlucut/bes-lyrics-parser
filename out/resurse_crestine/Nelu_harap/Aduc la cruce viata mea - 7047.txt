@@ -1,0 +1,59 @@
+[title]
+Aduc la cruce viata mea {author: {Nelu Harap}, {rcId: {7047}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7,v8,v9
+
+[v1]
+Aduc la cruce viața mea,
+Să mi-o primești mai bine.
+/: Și, dacă mă mai poți salva,
+Te rog să-mi faci, Stăpâne :/
+
+[v2]
+Tu îmi cunoști ce am făcut
+Cu sufletul din mine.
+/: În fața Ta stă un căzut,
+Ce faci cu el, Stăpâne? :/
+
+[v3]
+M-am lepădat de-al crucii jug,
+Umblând pe căi ascunse,
+/: Nu știu nici cum, nu știu nici când,
+Am lunecat pe cale :/
+
+[v4]
+Sunt păcătos, vin la Calvar
+Cu o viață de rușine,
+/: Îngenunchez lângă altar,
+Ce faci, Doamne, cu mine :/
+
+[v5]
+Sunt Petru car’ s-a lepădat
+De frică și rușine.
+/: Credeam că trebuie să-ndur
+Cununi de spini ca Tine :/
+
+[v6]
+Urmașii Tăi pe-acest pământ
+Sunt alungați de lume
+/: Batjocoriți de toți ei sunt,
+Căci poartă al Tău nume :/
+
+[v7]
+Când Te-am văzut pe cruce sus,
+Cu mâinile-n piroane,
+/: Te-am părăsit și m-am ascuns
+Ca să nu-ndur prigoane :/
+
+[v8]
+Te-am părăsit, dar nu voiam
+Să îndur cu Tine ocară,
+/: Dar Te-am văzut, Isuse drag,
+În Ghetsimani aseară :/
+
+[v9]
+Tu îmi cunoști ce am făcut
+Cu sufletul din mine.
+/: În fața Ta stă un căzut.
+Ce faci cu el, Stăpâne? :/

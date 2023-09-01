@@ -1,0 +1,30 @@
+[title]
+E sarbatoare mare pe pamant {author: {Onisim Grab}, {rcId: {223256}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+E sărbătoare mare pe Pământ
+Că s-a născut un copilaș Preasfânt
+În iesle, în țara lui Israel
+Se naște Mesia, Emanuel.
+
+[c]
+/: Azi s-a născut Isus
+Și mântuire ne-a adus
+A coborât din slava Sa de sus.
+El a venit la noi, în staulul de oi
+În lumea aceasta plină de nevoi :/
+
+[v2]
+Veniți cu toți acum, vă bucurați
+Iar vestea buna astăzi să o dați
+Că mântuirea s-a primit în dar
+Salvarea a venit în lume iar.
+
+[v3]
+De-auzi și tu această veste azi
+Vino la iesle în genunchi să cazi
+Iar darul tău să fie viața ta
+Predată azi de tot în mână Sa.

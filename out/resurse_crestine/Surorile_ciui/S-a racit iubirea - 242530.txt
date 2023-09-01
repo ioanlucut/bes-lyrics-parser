@@ -1,0 +1,27 @@
+[title]
+S-a racit iubirea {author: {Surorile Ciui}, {rcId: {242530}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+S-a răcit iubirea din frățietate,
+Pe mulți îi cuprinde somnul cel de moarte.
+
+[c]
+/: Iubire te-ai răcit, :/
+Și tu inimă te-ai împietrit.
+/: Iubire unde ești? :/
+Și-n ce inimă mai locuiești?
+
+[v2]
+În timpul din urmă, timpul așa va fi,
+Credința, iubirea la mulți s-a răci...
+
+[v3]
+Eu mă tem Isuse că Tu vei veni,
+Credință, iubire nu vei mai găsi.
+
+[v4]
+Pătrunde în inimi să ne pocăim,
+Pentru-a Ta venire să ne pregătim.

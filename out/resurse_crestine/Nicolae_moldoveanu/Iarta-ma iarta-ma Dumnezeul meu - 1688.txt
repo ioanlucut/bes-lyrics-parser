@@ -1,0 +1,45 @@
+[title]
+Iarta-ma iarta-ma dumnezeul meu {author: {Nicolae Moldoveanu}, {rcId: {1688}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Iartă-mă, iartă-mă,
+Dumnezeul meu!
+/: Pentru gândul nesfințit,
+Pentru patimă-n privit,
+Pentru vorba fără har,
+Doamne, iartă-mă, Tu, iar! :/
+
+[v2]
+Iartă-mă, iartă-mă,
+Dumnezeul meu!
+/: Pentru timpul meu trecut
+Fără rodul ce l-ai vrut,
+Fără dragostea cu jar,
+Doamne iartă-mă, Tu, iar! :/
+
+[v3]
+Iartă-mă, iartă-mă,
+Dumnezeul meu!
+/: Pentru felul meu firesc
+Printre oameni când pășesc,
+Pentru traiu-mi în zadar,
+Doamne, iartă-mă, Tu, iar! :/
+
+[v4]
+Iartă-mă, iartă-mă,
+Dumnezeul meu!
+/: Pentru nevegherea mea
+De-a rămâne-n voia Ta,
+Pentru tot ce-a fost murdar,
+Doamne, iartă-mă, Tu, iar! :/
+
+[v5]
+Iartă-mă, iartă-mă,
+Dumnezeul meu!
+/: Doar iertarea ce mi-o dai
+Îmi păstrează-al păcii rai
+Și mă poartă iar și iar,
+Doamne, -n veșnicu-Ți hotar! :/

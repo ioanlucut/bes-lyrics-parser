@@ -1,0 +1,35 @@
+[title]
+A batut isus hristos la usa ta {author: {Liviu Gacia}, {rcId: {239889}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c
+
+[v1]
+A bătut Isus Hristos la ușa ta,
+Te grăbește de-L deschide, nu mai sta,
+Nu mai amâna că timpu-i pe sfârșit,
+Tu în viaț-ai lunecat pe-un drum greșit.
+
+[v2]
+El dorește să îți dea salvarea Sa,
+Ȋți întinde-o mână, hai, n-o refuza!
+Vrea inima ta să-I dai pe totdeauna
+Ca în cer, în paradis, să-ți dea cununa.
+
+[c]
+Nu refuza chemarea Sa
+Vino degrab’ acum la El
+El îți va da din pacea Sa
+Și veșnic te vei bucura.
+
+[v3]
+A bătut Isus Hristos la ușa ta
+Te grăbește de-L deschide, nu mai sta,
+Vrea inima ta să-I dai pe totdeauna
+Ca în cer, în paradis, să-ți dea cununa.
+
+[v4]
+El dorește să îți dea salvarea Sa
+Ȋți întinde-o mână, nu o refuza.
+Nu mai amâna că timpu-i pe sfârșit
+Nu întârzia și vei fi fericit.

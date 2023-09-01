@@ -1,0 +1,41 @@
+[title]
+Christ pentru cei ce lancezesc {author: {Severus Gaetorius}, {rcId: {74305}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Christ! Pentru cei ce lâncezesc,
+Cuvântul Tău e rouă;
+E stropul nost’ Dumnezeiesc,
+Nu, ni-l închide nouă!
+
+[c]
+Din mândri nori,
+Să-l lași pe flori,
+Ca toate roditoare,
+Să crească-mbelșugare.
+
+[v2]
+Cuvântul Tău e bici de foc,
+Un fulger sparge stâncă,
+El arde-n inimă pe loc,
+O stricăciune-adâncă,
+
+[c2]
+Să lași mereu,
+Cuvântul Tău,
+Păcatul să-l stârpească,
+Să-l ardă ca pe-o iască.
+
+[v3]
+Cuvântul Tău e stea pe mări,
+Pe rătăciți deșteaptă,
+Și din întinse depărtări,
+Spre Domnul îi îndreaptă.
+
+[c3]
+O stea ce-nvingi,
+Să nu stingi,
+Pătrunde pân’ la mine
+Și ia-mă-n cer la Tine.

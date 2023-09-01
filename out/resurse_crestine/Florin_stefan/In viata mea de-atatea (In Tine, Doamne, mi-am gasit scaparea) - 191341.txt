@@ -1,0 +1,29 @@
+[title]
+In viata mea de-atatea (in tine doamne mi-am gasit scaparea) {author: {Florin Ștefan}, {rcId: {191341}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În viața mea, de-atâtea ori
+Am fost lovit și părăsit
+Când nori și valuri au lovit,
+Doar harul Tău m-a izbăvit, m-a izbăvit!
+
+[c]
+/: În Tine, Doamne, mi-am găsit scăparea,
+La umbra Ta mă adăpostesc!
+Când vin furtuni și-ar vrea să mă răpună,
+Lângă Tine eu adăpost găsesc! :/
+
+[v2]
+Pe-acest Pământ nu e ușor
+Ca eu să urc când mulți cobor...
+Ajută-mă, nu mă lăsa,
+Vreau să mă țin de mâna Ta, de mâna Ta!
+
+[v3]
+Noian de valuri și-ncercări
+De ar veni în viața mea,
+De Tine nu vreau să mă las,
+Tu ești cu mine în orice ceas, în orice ceas!

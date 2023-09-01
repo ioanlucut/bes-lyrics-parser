@@ -1,0 +1,29 @@
+[title]
+Intoarce-te {author: {Carmen Prodan}, {rcId: {172593}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Te-ntoarce la Isus cât mai e zi,
+Căci noaptea vieții tale vine.
+Și-atunci tu vei lăsa tot ce ți-ai strâns
+Cât ai trăit aici în lume.
+
+[c]
+Întoarce-te din drumul rătăcirii,
+Întoarce-te din lumea păcătoasă!
+Întoarce-te din calea amăgirii,
+Căci Tatăl Sfânt te-aștaptă-acasă!
+
+[v2]
+Te-ntoarce la Isus cât mai e har,
+Cât Domnu-ți dă în dar iertare.
+Cât glasul Lui mai cheamă-atât de blând
+Pe păcătoși din lumea mare.
+
+[v3]
+Te-ntoarce azi căci mâine nu poți ști
+De mai trăiești aici sub soare,
+Și dacă mori fără de Dumnezeu,
+Te-ndrepți spre veșnică pierzare.

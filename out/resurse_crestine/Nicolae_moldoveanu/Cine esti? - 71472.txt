@@ -1,0 +1,35 @@
+[title]
+Cine esti? {author: {Nicolae Moldoveanu}, {rcId: {71472}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Cine ești?... de unde vii?
+Pasăre trudită?
+Din ce munți, din ce pustii
+Te întorci rănită?
+Cine sunt?... de unde vin?
+M-ai uitat, creștine?
+Eu sunt cântecul senin,
+Scris cândva de tine.
+
+[v2]
+Am zburat din mâna ta
+Peste munți și ape,
+Și-unde-a fost o rană grea,
+m-am lăsat aproape.
+Dar nu șoimii m-au răpus,
+Nici pe vale spinii.
+Penele de-argint mi-au smuls
+Frații, nu străinii...
+
+[v3]
+Dacă ești cântarea mea,
+Pasăre zdrobită,
+Zboară sus, din stea în stea,
+Smulsă și rănită!
+Și la Cel mai Sfânt din sfinți
+Să te-oprești o clipă.
+Lacrimile Lui fierbinți
+Să le simți pe-aripă.

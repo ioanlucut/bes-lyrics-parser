@@ -1,0 +1,42 @@
+[title]
+Ia seama tu cel ce te crezi ca stai bine {author: {Anonim}, {rcId: {5593}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Ia seama tu, cel ce te crezi ca stai bine,
+Ia seama ca nu cumva sa fii inselat,
+Caci, daca tu crezi ca nu-i nimeni ca tine,
+Un duh de mandrie te-a si atacat...
+
+[c]
+Ia seama si vegheaza asupra ta sa vezi
+Adanc, te cerceteaza: in cine te increzi?
+Caci de te-ncrezi in tine si-n iscusinta ta,
+Vei fi dat de rusine si-n lupta vei cadea.
+
+[v2]
+Ia seama tu, cel ce te crezi ca stai tare,
+Nu cumva in lupta tu sa fii cazut;
+Tu, cel ce te crezi ca stai bine-n picioare,
+Ia seama, nu cumva tu sa fii trantit!
+
+[v3]
+Ia seama tu, cel ce te crezi in credinta!
+Te-ncearca, nu cumva tu sa fii cazut,
+Caci, daca-n fiinta ta nu-i umilinta,
+Mandria, inima ta ti-a si umplut.
+
+[v4]
+Ia seama tu, cel ce te crezi lucratorul,
+Ia seama, la sfatul ce altora-l dai!
+Ia seama caci Domnul e Mantuitorul:
+El merge-nainte, iar tu-n urma Lui.
+
+[v5]
+Ia seama si astazi, la roadele tale:
+Mai esti tu si azi, cum odata erai?
+’
+Nainte pe cale mai esti tu acelasi?
+Te-ncearca, nu cumva ai dat inapoi.

@@ -1,0 +1,53 @@
+[title]
+Gadareni suntem isuse {author: {Traian Dorz}, {rcId: {226184}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Gadareni suntem Isuse
+Plini de patimi și nevoi
+/: Suntem inimi nesupuse
+Te-am gonit dar o Isuse,
+/: Nu Te duce de la noi. :
+/:/
+
+[v2]
+Plini suntem de patimi rele
+Și-al păcatului noroi
+/: Gemem sub păcate grele
+Nu ne părăsi în ele
+/: Nu Te duce de la noi :
+/:/
+
+[v3]
+N-asculta de-aceia care
+Și-azi Te-alungă înapoi
+/: Lasă-un duh de vindecare
+Peste-a noastre răni amare
+/: Nu Te duce de la noi :
+/:/
+
+[v4]
+Mii de inimi chinuite
+Varsă lacrime șuvoi
+/: Cer cuvintele-Ți slăvite
+Nu ne părăsi iubite
+/: Nu Te duce de la noi :
+/:/
+
+[v5]
+Nu te duce de la noi
+Suntem orbi flămânzi și goi
+/: Ia-ne tot ce-avem mai bine
+Toate n-au un preț ca Tine
+/: Nu Te duce de la noi :
+/:/
+
+[v6]
+Doamne, oastea Ta umilă
+Duce greutăți șuvoi
+/: Le vom duce fără silă
+Dar îndură-te ai milă
+/: Nu Te duce de la noi :
+/:/

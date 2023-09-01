@@ -1,0 +1,29 @@
+[title]
+Mai buna ca o jertfa-i ascultarea {author: {Nicolae Moldoveanu}, {rcId: {5595}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mai bună ca o jertfă-i ascultarea
+Ce are faptele duhovnicești;
+Din ea revarsă binecuvântarea,
+Comori de har din slăvile cerești.
+
+[c]
+/: Pe-altarul sfânt, slăvirea să sporească,
+A Duhului Sfânt roadă să rodești,
+Iar fumul jertfei sfinte răspândească
+Miros plăcut, în viața ce-o trăiești. :/
+
+[v2]
+Altarul inimii, curat păstrează-l
+Căci el e templul Duhului cel Sfânt!
+Nu-L întrista în viață, ci ascultă-L,
+Ca să primești putere și avânt.
+
+[v3]
+Când fi-vei semănat în putrezire,
+Tu, cel ce ai avut al păcii Duh,
+Te vei schimba, să zbori spre nemurire,
+Să-L întâlnești pe Domnul în văzduh!...

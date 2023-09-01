@@ -1,0 +1,35 @@
+[title]
+Voi canta doar despre isus {author: {Peter P.Bilhorn}, {rcId: {1761}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Voi cânta doar despre Isus,
+Căci din cer El a venit.
+Părăsind cerească slavă,
+Pentru mine a murit!
+
+[c]
+Voi cânta doar despre Isus,
+Fiindcă El m-a mântuit;
+Cu toți sfintii-aici și-n cer sus
+Voi cânta necontenit!
+
+[v2]
+Rătăcit-am în păcate,
+Dar Isus m-a căutat,
+M-a găsit în lumea largă,
+Calea Lui mi-a arătat.
+
+[v3]
+Îndelunga rătăcire
+Multe răni mi-a provocat.
+Eu zăceam în grea orbire
+Dar Isus m-a vindecat.
+
+[v4]
+Zile negre de-ncercare
+Și dureri adesea vin,
+Dar prin Domnul am scăpare,
+Biruință pe deplin.

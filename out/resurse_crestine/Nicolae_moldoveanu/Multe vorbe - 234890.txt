@@ -1,0 +1,21 @@
+[title]
+Multe vorbe {author: {Nicolae Moldoveanu}, {rcId: {234890}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Multe vorbe, pe hârtie, sora mea cea mare scrie!
+Și aș vrea și eu să știu să citesc și-apoi să scriu!
+
+[v2]
+Doamne, crește-mă Tu mare, ca să-nvăț să scriu scrisoare,
+și să pot citi și eu Cartea Ta mereu, mereu!
+
+[v3]
+Vreau, citind în sfânta Carte, adevărul să mă poarte,
+zilnic să-l pot asculta, după cum e voia Ta!
+
+[v4]
+Sunt copil, dar vin la Tine, și Te rog să torni în mine
+Duhul Tău, prin El să cresc, binele să-l făptuiesc.

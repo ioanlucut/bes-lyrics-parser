@@ -1,0 +1,32 @@
+[title]
+O doamne vreau {author: {Pavel Mariana, Florica}, {rcId: {6542}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O, Doamne, Doamne, vreau,
+Sub ocrotirea Ta să stau
+Și să-mi găsesc odihna mea
+La umbra Ta, la umbra Ta!
+
+[c]
+Ascunde-mă,
+Sub aripa Ta,
+Acoperă-mă
+Cu dragostea Ta
+Până trece furtuna cea grea.
+Tu-mi fii adăpostul
+Și fii stânca mea!
+
+[v2]
+De n-ar fi Dumnezeu
+Tăria și-ajutorul meu,
+Demult, demult aș fi pierit
+Sau aș fi-n tină prăbușit.
+
+[v3]
+O, Doamne, când te chem,
+Știu că vii lângă mine,
+De-aceea nu vreau să mă tem
+Când strâmtorarea vine.

@@ -1,0 +1,41 @@
+[title]
+O patrie mareata sfanta {author: {Speranța}, {rcId: {6617}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O patrie măreață, sfântă,
+În inima-am un dor nespus,
+Mi-e dor de ziua cea măreață,
+De întâlnirea cu Isus!
+Doresc să cânt cântarea nouă
+Ce nu s-a mai cântat vreodată,
+Atuncea când va fi serbarea
+A Fiului de Împărat!
+
+[c]
+/: Să ne pregătim și să ne silim
+Ca să-ntâmpinăm pe Mirele!
+Pentru-aceea zi gata să fim!
+Pe Isus Hristos să-L întâlnim! :/
+
+[v2]
+Aștept aceea zi sublimă
+Când tot văzduhul va fi plin
+De strigăte de bucurie,
+De un extaz și Har divin!
+O Țară binecuvântată,
+Te-așteaptă cei de pe pământ,
+Ce prin necazuri și prigoane
+Rămas-au în Cuvântul Sfânt!
+
+[v3]
+De zeci de veacuri ești promisă
+Celor ce răul biruiesc
+Și știu că ziua nu-i departe
+Când vom lăsa ce-i pământesc.
+Caci Duhul Sfânt, Puterea dată,
+Ne va atrage tot mai sus
+Și vom petrece veșnicia
+În slavă cu Domnul Isus!

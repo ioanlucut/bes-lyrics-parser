@@ -1,0 +1,23 @@
+[title]
+Cand sunt cazut si n-am pe nimeni {author: {Mili din Barbulesti}, {rcId: {232222}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Când sunt căzut si n-am pe nimeni
+Si nu găsesc un ajutor
+/: Mana Ta e peste mine
+Sa ma scoată din cuptor :/
+
+[c]
+/: Tu mi-ai spus că ești cu mine
+În furtuni si-n încercări
+Nu mă temi de ce-o să vina
+Tu-mi ești sprijin si ajutor :/
+
+[v2]
+Când sunt trudit si-mpovărat
+De necazuri și păcat
+/: Pacea și speranță-n viata
+Si odihna Tu îmi dai :/

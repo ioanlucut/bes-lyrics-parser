@@ -1,0 +1,38 @@
+[title]
+Cea mai minunata zi din viata mea {author: {Anonim}, {rcId: {156335}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cea mai minunată zi din viața mea
+A fost când Isus bătu la poarta mea.
+/: L-am lăsat să intre căci inima-mi bătea
+De-atâta fericire ce mă copleșea. :/
+
+[c]
+Inima mea, inima mea
+Este gata Doamne spre-a Te lăuda.
+Inima mea, inima mea,
+Bate, bate, Doamne de iubirea Ta.
+
+[v2]
+Când chemarea-ți dulce, eu Ți-am înțeles,
+Am știut atunci că am de ales
+/: Să Te am pe Tine ca mântuitor,
+Sau să-mi trăiesc viața fără salvator.
+/:
+
+[v3]
+Legământ cu Tine eu am încheiat
+Căci doresc fierbinte să mă știu salvat
+/: În al Tău sfânt sânge haina am spălat
+Cred pe veci Isuse că Tu m-ai iertat.
+/:
+
+[v4]
+În a mea inimă, Domnul e-mpărat,
+Viața pe pământ Lui I-am dedicat,
+/: Când a mea inimă nu va mai bătea
+Eu pe Tine Doamne Te voi aștepta.
+/:

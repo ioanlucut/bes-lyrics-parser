@@ -1,0 +1,45 @@
+[title]
+Un om obosit la rascruce {author: {Nicolae Moldoveanu}, {rcId: {5456}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Un om obosit la răscruce,
+Se-oprește... e străin în drum...
+Amurgul se lasă pe sate,
+E ceasul din urmă acum.
+
+[c]
+/: „
+Deschide!” :/
+Răsună-ntr-o ușă bătând;
+/: „
+Deschide! :/
+Căci vin de departe și-s frânt!”
+
+[v2]
+În casă e noapte... tăcere...
+Nu-i nimeni de milă silit...
+Nu-i nimeni cu inima bună,
+O gazdă celui ostenit...
+
+[c2]
+„
+Zadarnic, străine, mă cauți,
+Copiii mei dorm liniștiți,
+Continuă-ți drumu-nainte...
+Nu pot să mă scol, să-ți deschid!...”
+
+[v3]
+Dar glasul celui care bate
+Și-așteaptă în drum tremurând,
+Alungă și-acuma tăcerea,
+Mereu tot mai dulce, mai blând...
+
+[c3]
+/: „
+Deschide, :/ amice!
+Sunt Solul vieții de-apoi.
+Deschide, să intru în casă!
+Căci vreau să cinăm amândoi...”

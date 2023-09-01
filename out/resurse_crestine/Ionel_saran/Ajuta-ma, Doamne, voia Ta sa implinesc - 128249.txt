@@ -1,0 +1,24 @@
+[title]
+Ajuta-ma doamne voia ta sa implinesc {author: {Ionel Saran}, {rcId: {128249}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când dimineața, Doamne, mă trezesc,
+Când zorii de ziuă iarăși se ivesc,
+Atunci eu privirea spre Tine-o îndrept.
+
+[c]
+/: Ajută-mă, Doamne, voia Ta să împlinesc,
+Ajută-mi, Isuse, până-n veci să Îți slujesc. :/
+
+[v2]
+Și la amiază eu Îți mulțumesc
+De tot ce-mi dai, Isuse, de tot ce eu primesc,
+Căci Tu îmi porți de grijă, o, Tatăl meu ceresc.
+
+[v3]
+Când seara vine peste ziua mea,
+Eu îmi aplec genunchii, vin în fața Ta,
+Căci Tu ai fost cu mine mereu totdeauna.

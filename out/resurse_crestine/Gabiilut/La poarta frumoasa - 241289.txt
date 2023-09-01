@@ -1,0 +1,23 @@
+[title]
+La poarta frumoasa {author: {Gabi_Ilut}, {rcId: {241289}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+La poarta frumoasă stătea, un olog care cerea!
+/: Petru și Ioan, pe acolo treceau; iar el, mâna întindea! :/
+
+[c]
+Aur și argint, nu avem pe pământ,
+Însă Numele Domnului Îl avem cu noi!
+Ridică-te acum, nu mai sta în drum:
+/: Să fii martorul Lui! :/
+
+[v2]
+L-au prins de mâna dreaptă; ridică-te, i-au zis!
+/: Îndată ologul a sărit și a fost tămăduit! :/
+
+[v3]
+Mulți l-au cunoscut, minunea au văzut;
+/: Cel vindecat mărturisea Și pe Domnul lăuda! :/

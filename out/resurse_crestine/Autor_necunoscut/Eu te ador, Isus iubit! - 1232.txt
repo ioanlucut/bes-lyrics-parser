@@ -1,0 +1,14 @@
+[title]
+Eu te ador isus iubit {author: {Anonim}, {rcId: {1232}}
+
+[sequence]
+v1,c
+
+[v1]
+Eu Te ador, Isus iubit!
+Cu Tine eu sunt fericit!
+Eu mă închin, Părinte Sfânt!
+Spre lauda Ta eu vreau să cânt:
+
+[c]
+Aleluia! Aleluia! Aleluia! Aleluia!

@@ -1,0 +1,32 @@
+[title]
+Aleluia in tot timpul zilei binecuvantare {author: {Nicolae Moldoveanu}, {rcId: {5246}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+Aleluia! În tot timpul
+Zilei binecuvântare,
+Aleluia! Pretutindeni, orișicând.
+Mie îmi place lauda, cântul
+Domnului să le-nchin,
+Mie îmi place lauda, cântul, ruga,
+Toate, Domnului să le-nchin.
+
+[v1]
+Eu vreau să spun de Isus,
+/: Orișiunde sunt; :/
+Eu vreau să spun de Isus,
+Orișiunde sunt, adevărul proclamând.
+
+[v2]
+Eu vreau să spun credința,
+/: Orișiunde sunt; :/
+Eu vreau să spun credința,
+Orișiunde sunt, adevărul proclamând.
+
+[v3]
+Eu vreau să cânt iubirea,
+/: Orișiunde sunt; :/
+Eu vreau să cânt iubirea,
+Orișiunde sunt, adevărul proclamând.

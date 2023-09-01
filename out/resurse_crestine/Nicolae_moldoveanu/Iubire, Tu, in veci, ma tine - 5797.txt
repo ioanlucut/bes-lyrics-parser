@@ -1,0 +1,35 @@
+[title]
+Iubire tu in veci ma tine {author: {Nicolae Moldoveanu}, {rcId: {5797}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Iubire, Tu, in veci, ma tine!
+Fii sprijin sufletului meu
+Si stapaneste Tu, in mine!
+Sa fii ocean, iar val, in Tine, eu.
+
+[c]
+/: O, Golgota insangerata,
+Doar langa tine eu voi sta.
+In praf arunc mandria toata
+Sa poata rasari, curata, viata vesnica. :/
+
+[v2]
+Lumina sfanta pe carare,
+Faclie-n suflet mi-ai aprins.
+Sa straluceasca, arzatoare,
+Mai clar ca razele de soare.
+
+[v3]
+Mareata, dulce bucurie
+Ce ma ridici peste dureri,
+Si-n incercari imi dai tarie
+Sa vad, prin nori, in vesnicie.
+
+[v4]
+Eu, in necaz Iti voi canta
+Nemarginita mila-a Ta.
+Si pururea-Ti voi preamari
+Iubirea Ta de-ai Tai copii.

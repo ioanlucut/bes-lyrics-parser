@@ -1,0 +1,37 @@
+[title]
+King of my heart {author: {Bethel, Traducere RO}, {rcId: {147909}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c,c
+
+[v1]
+Tu ești Regele meu,
+Adăpost și stînca mea
+Izvor de viata ești,
+Ție-ți voi cînta.
+
+[v2]
+Tu ești Regele meu
+Umbra-n care mă ascund,
+Cel ce m-ai rascumpărat,
+Ție-ți voi cînta.
+
+[c]
+Tu ești bun, bun, o-o.
+Tu ești bun, bun, o-o.
+
+[v3]
+Tu ești Regele meu
+În furtuni ancora mea,
+Vînt de-nviorare ești,
+Ție-ți voi cînta.
+
+[v4]
+Tu ești Regele meu,
+Focul din inima mea,
+Pentru Tine eu trăiesc.
+Ție-ți voi cînta.
+
+[b]
+Tu nu mă vei lăsa,
+Nu mă vei lăsa să cad.

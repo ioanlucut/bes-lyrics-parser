@@ -1,0 +1,38 @@
+[title]
+Inca putin mai este {author: {Anonim}, {rcId: {4486}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Inca putin mai este
+Din neagra noapte
+Si zorii vor veni
+Cand trambita maiastra
+Va rasuna in zare
+Veniti ai mei copii
+
+[c]
+Isus vine in slava
+Ce bucurie
+Apare mirele
+Vine pe nori
+Vine cu slava mare
+Cu mii de ingeri
+Osana,
+Aleluia, o Rege-al regilor
+
+[v2]
+O clipa mai asteapta
+Ridica-ti ochii
+Vegheaza n-atipi
+Caci s-a sfarsi durerea si amarul
+Cand Domnul va veni
+
+[v3]
+In candela mai arde
+Uleiul astazi
+Iubirea nu s-a stins
+Caci toate trec in noapte
+Doar dragostea ramane
+Te duce-n Paradis

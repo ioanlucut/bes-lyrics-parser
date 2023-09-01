@@ -1,0 +1,29 @@
+[title]
+Ma gandesc ades la tine {author: {Nicolae Moldoveanu}, {rcId: {5848}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mă gândesc ades la Tine, la iubirea Ta adâncă,
+La fântâna apei vieții ce mai izvorăște încă.
+Doar un pas am mers spre ceruri, o, și m-ai răsplătit așa
+Cum gândirea cea mai-naltă, o, niciodată n-ar visa...
+
+[c]
+/: O, de s-ar deschide cerul și Te-ai coborâ în slavă,
+S-ar aprinde înălțimea, o, de splendoarea Ta grozavă,
+Și s-ar despica în două munții în cuprinsul lor,
+De lumina Ta, s-ar umple, o, Muntele Măslinilor. :/
+
+[v2]
+Ai veni la mine și Te-aș invita la cină
+Și Ți-aș dărui cu totul inima de pace plină;
+Aș privi mereu la chipul care-a suferit disprețul
+Și, spre fericirea noastră, a plătit cu sânge prețul.
+
+[v3]
+Dacă voi intra vreodată, în a-nemuririi spații,
+Ca, în lumea înnoită, îngerii să-mi fie frații,
+Numai prin a Ta iubire, voi păși în veșnicie;
+Tu-mi vei fi și-acolo, Doamne, cea mai sfântă bucurie!

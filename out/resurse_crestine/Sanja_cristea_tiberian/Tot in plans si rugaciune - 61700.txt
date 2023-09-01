@@ -1,0 +1,35 @@
+[title]
+Tot in plans si rugaciune {author: {Sanja Cristea Tiberian}, {rcId: {61700}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Tot în plâns și rugăciune
+Suie drumul printre stele
+Și le-adun pe cele bune
+Și mă spăl de cele rele
+
+[c]
+/: Tot în plâns și rugăciune
+Mă conduci spre ceruri, iată
+Și le-adun pe cele bune
+Și Te chem pe nume, Tată :/
+
+[v2]
+Tot în plâns și suferință
+Suie drumul către lună
+Dar Te caut cu credință
+Și pășesc pe calea bună
+
+[v3]
+Tot în plâns și bucurie
+Suie drumul către soare
+Și mă uit la ce-o să fie
+Și mă pierd de ce mă doare
+
+[v4]
+Tot în plâns și fericire
+Suie drumul către Tine
+Și mă lupt să scap de fire
+Și doresc să fac ce-i bine

@@ -1,0 +1,42 @@
+[title]
+Mama {author: {Eugen Ruje}, {rcId: {234199}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Nu pot sa ma stapânesc,
+Lacrima sa mi-o opresc
+Când ma gândesc la mama mea
+Întristat daca a fi ea-mi aduce bucurii
+Mama te iubesc sa sti.
+Sufletu-mi este legat
+De bratele ce m-au purtat
+Si m-au leganat
+Daca ti-as putea rosti
+Mii si mii de multumiri
+Tot nu ti-as putea plati!
+
+[c]
+Mama, mama de-as putea
+Sa ramân mereu, mereu cu tine
+Te-as privi si ti-as sopti
+Ce mult facut-ai mama pentru mine!
+De când mama m-ai nascut
+Zi de zi sub mana-ti calda
+Prin necaz si bucurie
+Tu mi-ai daruit iubire!
+
+[v2]
+Pe genunchi stau aplecat
+Mama cum m-ai învatat
+Înaintea lui Isus
+Cartea sfânta o citesc
+Ca si-acolo eu gasesc
+Viata vesnica mi-ai spus
+Chiar daca ne despartim
+Prin Isus mereu sa fim strânsi
+În lantul dragostei
+Si atunci când va veni
+Sus la cer ne va rapi
+Si ce fericiti vom fi.

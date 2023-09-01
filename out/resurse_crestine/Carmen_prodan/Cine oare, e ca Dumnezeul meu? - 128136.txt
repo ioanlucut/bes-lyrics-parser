@@ -1,0 +1,40 @@
+[title]
+Cine oare e ca dumnezeul meu? {author: {Carmen Prodan}, {rcId: {128136}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cine oare, e ca Dumnezeul meu?
+Cine oare, e ca Dumnezeul meu?
+Cine e mereu cu mine?
+Cine-mi dă belșug de pâine?
+Cine îmi alină dorul greu?
+
+[c]
+Cine oare, e ca Tine, Domnul meu?
+Eu Te laud și-Ți cânt glorie mereu!
+Sus în cer și jos în lume
+Nu e nimenea ca Tine!
+Tu ești veșnic, mare Dumnezeu!
+
+[v2]
+Cine oare, e ca Dumnezeul meu?
+Cine oare, e ca Dumnezeul meu?
+Cine îmi păzește pașii
+Când mă urmăresc vrăjmașii
+Cine luminează calea mea mereu?
+
+[v3]
+Cine oare, e ca Dumnezeul meu?
+Cine oare, e ca Dumnezeul meu?
+Cine-mi dă eliberare
+De-s cuprins de-ngrijorare?
+Cine-mi dă puteri s-alerg spre cer mereu?
+
+[v4]
+Cine oare, e ca Dumnezeul meu?
+Cine oare, e ca Dumnezeul meu?
+Cine-mi pregătește-o țară
+În eterna primăvară
+Ca să fiu în veci de veci cu El mereu?

@@ -1,0 +1,50 @@
+[title]
+Nu te teme nu te teme {author: {Puiu Chibici}, {rcId: {198672}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Nu te teme, nu te teme,
+Drag ostaș fii curajos!
+/: Căci în luptă-n orice vreme,
+Lângă tine e Hristos! :/
+
+[c]
+Nu te teme, nu te teme!
+Chiar de-i zi de zi mai greu.
+În necazuri și-n probleme,
+Glasul tău mereu să-l cheme
+Pe Fiul lui Dumnezeu.
+În necazuri și-n probleme
+Tu să-l chemi pe Dumnezeu.
+
+[v2]
+Nu te teme când furtuna,
+Bate tare-n barcă ta.
+/: Te așteaptă-n cer cununa,
+Care Domnul ți-o va da.
+
+[c2]
+Mergi ’naine, mergi ’înainte!
+Du-te în numele Său!
+Să-ți aduci mereu aminte,
+Ale tale jurăminte,
+Tu în fața lui Dumnezeu.
+Să-ți aduci mereu aminte,
+De Fiul lui Dumnezeu
+
+[v3]
+Pregătește-te mireasă.
+Ridică-ți privirea-n sus.
+/: Că-n curând tu pleci acasă
+Lângă mirele Isus :/
+
+[c3]
+Nu te teme, turmă mică!
+Când talazul e-nspumat!
+Stai pe turn nu-ți fie frică
+Tu a Sionului fiică
+Lângă tine-i cel prea-nalt.
+Stai pe turn nu-ți fie frică,
+Lângă tine-i cel prea-nalt

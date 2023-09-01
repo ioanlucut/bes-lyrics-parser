@@ -1,0 +1,41 @@
+[title]
+Dupa ani de zile de chin si durere {author: {Ionel Saran}, {rcId: {128270}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+După ani de zile, de chin și durere
+Ce-am trăit pe lume numai Domnul știe
+/: El Și-a întins mâna, m-a salvat pe mine,
+Eu eram atuncea un pribeag pe lume. :/
+
+[c]
+/: Dar astăzi sunt fericit
+Că Isus m-a mântuit
+Inima i-am dăruit,
+Nu mai vreau lume nimic. :/
+
+[v2]
+Lacrimile mamei, n-au fost în zadar
+M-au urmat întruna chiar de nu știam
+/: Mult ea pentru mine, mult s-a mai rugat,
+Unge ești copile, unge ai plecat. :/
+
+[c2]
+/: Nu mai plânge, mamă dragă
+Căci a tale lacrimi iată
+Domnul Isus le-ascultat,
+Și pe mine m-a salvat. :/
+
+[v3]
+Dacă mai ai frate, pe lume o mamă
+Prețuiește-o astăzi, poate mâine pleacă
+/: Și vei plânge-ntruna căci nu se mai poate
+Glasul ei de mamă să-l asculți tu iară. :/
+
+[c3]
+/: Prețuiește-ți a ta mamă
+N-o lăsa să plângă-ntruna
+Pentru-a tale căi deșarte
+Vino astăzi suflet dragă. :/

@@ -1,0 +1,35 @@
+[title]
+Un cantec nou {author: {Text și muzică: Costel Mijan}, {rcId: {209521}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Un cântec nou despre Isus,
+Un cântec nou despre El
+Înalț spre cer cu iubire
+Pentru că El e al meu.
+Un cântec de bucurie
+Pentru al meu Dumnezeu.
+Plin de iubire și de fericire
+Eu sunt al lui Dumnezeu.
+
+[c]
+Astăzi eu sunt cel mai fericit,
+Domnul Isus m-a salvat.
+Astăzi, pe veci El m-a mântuit,
+Pace în suflet mi-a dat.
+Tot ce-am mai bun, tot ce-am mai curat,
+Tot ce e în viața mea
+Pentru Acel ce iubire mi-a dat,
+Azi îi predau inima.
+
+[v2]
+Un cântec de mulțumire,
+Slavă și cinste mereu,
+Lui azi aduc cu iubire,
+Mielului lui Dumnezeu.
+Un cântec de sărbătoare
+Pentru al meu Salvator
+Cânt cu iubire și cu dăruire
+Căci e-al meu Mântuitor.

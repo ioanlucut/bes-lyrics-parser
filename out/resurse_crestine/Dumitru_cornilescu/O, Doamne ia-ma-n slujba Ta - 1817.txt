@@ -1,0 +1,35 @@
+[title]
+O doamne ia-ma-n slujba ta {author: {Dumitru Cornilescu}, {rcId: {1817}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+O, Doamne ia-mă-n slujba Ta
+Cu viața mea, cu tot ce am
+Și clipele, și zilele
+Să fie ale Tale.
+
+[c]
+Ia-mă pe mine însumi,
+Fii Tu stăpân pe mine;
+Ia-mă cu tot ce am, o, Doamne,
+Și fă ce vrei cu mine.
+
+[v2]
+Ia-mi gura, Doamne-n slujba Ta
+Să îți vestească dragostea
+Și buzele dreptatea Ta
+Să o mărturisească.
+
+[v3]
+Ia-mi glasul meu să cânte doar mărirea Ta
+Și-al Tău scump har,
+Să laude așa cum Tu
+Dorești cereasca îndurare!
+
+[v4]
+Smerit mă plec ’naintea Ta
+Și Îți supun voința mea.
+Te rog să-mi umpli inima
+Cu dragoste de Tine!

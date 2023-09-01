@@ -1,0 +1,30 @@
+[title]
+Sunt salvat {author: {Adriana Stoica}, {rcId: {109452}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Sunt salvat, sunt iertat, de păcate spălat
+Dumnezeu fie-n veci lăudat
+Jertfa Lui ne-a deschis drumul înspre Paradis
+Prin sângele Lui cel sfânt, mântuit
+
+[c]
+Sunt salvat, sunt salvat
+Dumnezeu m-a iertat
+Azi pe El îl slăvesc
+Mântuire eu primesc.
+
+[v2]
+M-ai iubit, Domnul meu, ai murit în locul meu
+Pe o cruce ai fost răstignit
+Tu pe toți ne-ai iertat, ai purtat al nost’ păcat
+Și-ai strigat: ”
+Tată, iartă-i că nu știu ce fac”
+
+[v3]
+Astăzi știu că trăiești, simt că Tu mă iubești
+Mă ajuți când mi-e calea grea
+Mă-ntărești tot mereu, m-ai făcut copilul Tău
+Și de-atunci te urmez tot mereu

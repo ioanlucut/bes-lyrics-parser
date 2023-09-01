@@ -1,0 +1,17 @@
+[title]
+Sta intr-o ograda {author: {Nicolae Moldoveanu}, {rcId: {233555}}
+
+[sequence]
+v1,v2
+
+[v1]
+Stă într-o ogradă omul de zăpadă
+și copii, grămadă, astăzi vin să-l vadă.
+Mâine, înspre seară, vin să-l vadă iară,
+dar se întristară, căci nu-l mai aflară.
+
+[v2]
+Unde este, oare, omu-acela mare?
+Și-a răspuns cutare: S-a topit de soare!
+Ține minte, bine: tot ce-n cale-ți vine,
+dacă nu rămâne, să nu iei cu tine!

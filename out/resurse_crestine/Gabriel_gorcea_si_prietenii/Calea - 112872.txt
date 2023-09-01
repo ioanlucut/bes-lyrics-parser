@@ -1,0 +1,27 @@
+[title]
+Calea {author: {Gabriel Gorcea și prietenii}, {rcId: {112872}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Eu am pornit pe-o cale, calea care duce sus, calea-aceasta e Isus
+Oricine mi-ar spune, de calea-aceasta nu mă las, vreau să merg pe ea pas cu pas.
+
+[c]
+Și spun tututor
+Că sunt călător
+Nu mă rușinez
+De calea ce o urmez
+Merg pe calea pocăinței
+Nu mă rușinez
+De calea ce o urmez
+Merg pe calea biruinței
+
+[v2]
+Eu am pornit pe-o cale, condus de Dumnezeu, pe ea vreau să merg mereu
+Chiar de unii râd, și-și bat joc de mine, de-această cale nu mi-e rușine.
+
+[v3]
+Eu am pornit pe-o cale, ea e calea strâmtă, mulți pe ea nu se avântă
+Pășesc prin credință, cu ochii ațintiți în sus, la capăt m-așteaptă Isus.

@@ -1,0 +1,35 @@
+[title]
+Ca o pasare in zbor {author: {Coca Saroni}, {rcId: {59399}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ca o pasăre în zbor
+Urmărită de dușmani
+Este sufletul sărman
+Rătăcind fără-ajutor
+
+[c]
+/: Cine îmi da aripi
+Ca să zbor
+Ca un porumbel aș zbura
+Sus la Golgota :/
+
+[v2]
+Te-au rănit și ai căzut
+Și strivit tu ai gamut
+Și în jur tu te-ai uitat
+Și-ai crezut căci vei fi salvat
+
+[v3]
+Dar nu a fost nimenea
+Rana mea o legă
+Și-atunci am privit în sus
+Și doar Isus m-a văzut
+
+[v4]
+Numai Isus m-a salvat
+Numai El m-a mângâiat
+De aceea viața mea
+Lui acum Eu i-am predat

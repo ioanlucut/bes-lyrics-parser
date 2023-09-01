@@ -1,0 +1,34 @@
+[title]
+Cantam de mila si laudele tale {author: {Mark Altrogge, Traducere RO}, {rcId: {78259}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+Cântăm de mila
+și laudele Tale,
+Cântăm iubirea-Ți veșnică.
+Cântăm de mila
+și laudele Tale,
+Cel ce ai murit,
+Cel ce pentru noi ai murit.
+
+[v1]
+El stele a creat,
+Pe lemn e atârnat.
+Și mâini ce-au vindecat
+Străpunse de păcat.
+Acel ce ne-a hrănit
+Din fiere a gustat,
+Suflare, viață ne-a adus,
+Și pentru noi S-a dat.
+
+[v2]
+Acel ce-I luminos
+în noapte este dus.
+Și Domnul dragostei
+în inimă-I străpuns.
+Un prieten El ne-a fost
+Dar noi L-am părăsit.
+Pe Cel ce-a fost fără păcat
+Noi crunt L-am pedepsit.

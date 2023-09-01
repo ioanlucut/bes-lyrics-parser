@@ -1,0 +1,29 @@
+[title]
+Ingerul din cer vestise {author: {Anonim}, {rcId: {4946}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Îngerul din cer vestise:
+Isus s-a născut,
+Precum Dumnezeu promise’
+Astfel s-a făcut.
+
+[c]
+S-a născut în Betleem
+Scumpul nost’ Mântuitor,
+/: Isus, plin de glorii
+S-a născut în Betleem. :/
+
+[v2]
+Păcătoșii toți să vină,
+Astăzi s-a născut
+Cel care nu are margini,
+Cel făr’ de-nceput.
+
+[v3]
+La Isus cu toți să mergem
+Să ne închinăm,
+Și din Betleem să facem
+Sfânt altar ceresc.

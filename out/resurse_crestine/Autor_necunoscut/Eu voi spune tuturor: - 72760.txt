@@ -1,0 +1,37 @@
+[title]
+Eu voi spune tuturor: {author: {Anonim}, {rcId: {72760}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Eu voi spune tuturor:
+Cine-i mantuirea mea,
+Cine-i scumpa-mi bucurie,
+Cine -mie lumina-n viata.
+/: E Isus, e Isus
+E Isus Cel rastignit! :/
+
+[v2]
+Eu voi spune tuturor :
+Cine este viata mea, 
+Cin’n mi-i cel mai bun prieten,
+Cin’ mi-i sprijin in nevoi.
+/: E Isus, e Isus
+E Isus Cel rastignit! :/
+
+[v3]
+Eu voi spune tuturor :
+Cine este scutul meu, 
+Cine-i dulcea mangaiere,
+Cine este pacea mea.
+/: E Isus, e Isus
+E Isus Cel rastignit :/
+
+[v4]
+Eu voi spune tuturor :
+Cine e rasplata mea,
+Cine -n cer, sus, ma va duce
+Cand pe nori El va veni.
+/: E Isus, e Isus, 
+E isus Cel rastignit :/

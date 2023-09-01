@@ -1,0 +1,53 @@
+[title]
+Fara lupta nu-i cununa {author: {Mirela Ursulescu}, {rcId: {71797}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Fără luptă, nu-i cunună,
+Fără fapte, nu-i arvună,
+Fără dragoste, nu-i har,
+Le zidești dar în zadar.
+
+[c]
+/: Căci credința, cere fapte,
+Iar dragostea, cere roade,
+Bunătatea, milostire
+Bucuria, duioșie :/
+
+[v2]
+Dragostea, cere iubire,
+Pacea, cere liniștire,
+Și răbdarea, blândețe,
+Credincioșia pe fețe.
+
+[c2]
+/: Înfrânarea nu stă-n pofte,
+Ce e-n inimi e-n purtare,
+Dacă ai înțelepciune,
+Vei vedea nu toate-s bune. :/
+
+[v3]
+Dacă spui că nu te mustră,
+Conștiința ta vreodată,
+Poate e chiar îngropată,
+De păcate e pătată.
+
+[c3]
+/: Roagă-te chiar cu credință,
+Să-ți dea Domnul biruință,
+Cunoscând ce-i bun și rău,
+Împlinind cuvântul Său. :/
+
+[v4]
+Biruința-i prin credință,
+Dragoste, recunoștință,
+Pocăința e un har,
+Nu o trăiești în zadar,
+
+[c4]
+/: Dacă toate-aceste roade,
+Se găsesc în pomul tău,
+Pururi, tu, o veșnicie,
+Vei fi doar cu Dumnezeu. :/

@@ -1,0 +1,31 @@
+[title]
+Trezeste-te {author: {Mirela Ursulescu}, {rcId: {176607}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Există rai, există iad, sunt două căi in astă viață
+Întreabă-te pe care mergi și care este-a ta răsplată.
+
+[c]
+Trezește-te azi din păcat
+Trezește-te și te ridică
+Căci Domnul vrea să fi salvat
+El te iubește și te-așteaptă
+Trezește-te nu amâna
+Căci mâine poate fi târziu
+Dă-i lui Isus viața ta
+Și mântuire vei primi.
+
+[v2]
+Întreabă-te unde-ai să pleci, când a ta viață se termină
+În strălucirea cea de veci, sau iadul este-a ta ruină.
+
+[v3]
+Domnul Isus viața și-a dat, plătit-a tot cu al Său sânge
+Să te salveze din păcat, pentru că mult El te iubește.
+
+[v4]
+O vino astăzi la Isus, cu dragoste El te primește
+Să fi o veșnicie sus, a Sa iertare-ți dăruiește.

@@ -1,0 +1,17 @@
+[title]
+Voi intra cu cantari si cu laude-n casa lui {author: {Anonim}, {rcId: {74461}}
+
+[sequence]
+v1,c
+
+[v1]
+Voi intra cu cântări și cu laude-n Casa Lui!
+Voi cânta Numele-I slăvit!
+Voi cânta: „
+Această zi Dumnezeu ne-a dat!”
+Îl voi lăuda că El m-a-nveselit!
+
+[c]
+El m-a-nveselit
+El m-a-nveselit
+Îl voi lăuda că El m-a-nveselit!

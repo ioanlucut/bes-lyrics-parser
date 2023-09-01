@@ -1,0 +1,36 @@
+[title]
+Isuse vocea ta {author: {Nicolae Moldoveanu}, {rcId: {244363}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+/: Isuse, scumpă vocea Ta, :/
+Mă însoțește orișiunde,
+/: De-ar mângâia ori de-ar mustra, :/
+De fericire mă pătrunde.
+
+[v2]
+/: Că doar ace
+Ia-i mângâiat, :/
+Ce stă-n preasfânta-Ți părtășie,
+/: Iar când adâncu-i e-ntristat, :/
+Tu-l copleșești cu bucurie.
+
+[v3]
+/: Și iarăși știu că pedepsești, :/
+Cu glasu-Ți ca o adiere,
+/: Doar pe acela ce-l iubești, :/
+Pedeapsa Ta e mângâiere.
+
+[v4]
+/: Sunt fericit Isuse sfânt, :/
+Că Tu-mi ești Călăuza vie,
+/: Cu glasul Tău, azi pe pământ, :/
+Mă-ndrumi spre sfânta-mpărăție.
+
+[v5]
+/: Acolo unde voi cânta, :/
+Făpturii cea de farmec plină,
+/: Ce nevăzută mă-ndruma, :/
+Prin bezna Iumii, spre lumină.

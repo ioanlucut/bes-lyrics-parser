@@ -1,0 +1,16 @@
+[title]
+Aleluia {author: {Matt Redman}, {rcId: {5132}}
+
+[sequence]
+v1,c
+
+[v1]
+/: Aleluia, Aleluia
+Domnul nostru domnește în veci :/
+Aleluia.
+
+[c]
+/: Tu ești sfânt, ești sfânt
+Domnul nostru din ceruri
+Vrednic ești în veci
+Că Tu doar ești sfânt. :/

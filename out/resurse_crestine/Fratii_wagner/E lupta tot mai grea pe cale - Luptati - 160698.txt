@@ -1,0 +1,35 @@
+[title]
+E lupta tot mai grea pe cale / luptati {author: {Frații Wagner}, {rcId: {160698}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+E lupta tot mai grea pe cale,
+Atâtea valuri bat mereu
+Ca să dărâme, să doboare
+Pe cei aleși de Dumnezeu!
+
+[c]
+Luptați, luptați, puțin mai este!
+Priviți în sus, nu dați ’napoi!
+Sunt două mâini mereu întinse
+Care veghează peste noi!
+
+[v2]
+Sunt mulți bolnavi cu grele boale
+Cari gem pe paturi de spital;
+Mai suferiți, puțin mai este!
+În cer nu vor mai fi bolnavi!
+
+[v3]
+Sunt mulți lipsiți în adunare,
+Rămân săraci cu mari nevoi;
+Mai suferiți, puțin mai este,
+În cer de toate-s pentru noi!
+
+[v4]
+Azi plângem mulți cu lacrimi grele,
+Îi vrem cu noi pe toți cei dragi.
+Mai plângem, dar puțin mai este;
+Isus vine, s-a terminat!

@@ -1,0 +1,21 @@
+[title]
+Cand tu esti langa mine {author: {Marius Livanu}, {rcId: {111826}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Când Tu ești lângă mine, Viața-mi pare vis
+Să fiu mereu cu tine, Ȋnseamnă Paradis.
+Când Tu ești lângă mine, Eu nu mă simt străin
+Viața mi-e mai dulce, Cerul mai senin.
+
+[c]
+/: Când ești lângă mine, cânt cu drag mereu,
+Tu ești fericirea, sufletului meu. :/
+
+[v2]
+Când Tu ești lângă mine, Chiar lacrimi de apar
+Ȋmi dărui bucurie, Și uit de-al meu amar.
+Când Tu ești lângă mine, Pământul este Rai
+Și zilele senine, Tu toate ni le dai.

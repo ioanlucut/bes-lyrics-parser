@@ -1,0 +1,25 @@
+[title]
+O vino cu mine {author: {Nicolae Moldoveanu}, {rcId: {5862}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+O, vino cu mine, o
+ /: In Casa sfanta! :/
+O, vino cu mine, in Casa sfanta, unde e pace!
+
+[v2]
+Isus acolo-I Domn: o
+ /: In Casa sfanta! :/
+Isus acolo-i Domn: in Casa sfanta, unde e pace!
+
+[v3]
+Duhul Sfant e-acolo, o
+ /: In Casa sfanta. :/
+Duhul Sfant e-acolo, in Casa sfanta, unde e pace!
+
+[v4]
+Acolo doresc eu, o
+ /: In Casa sfanta, :/
+Acolo doresc eu, in Casa sfanta unde e pace!

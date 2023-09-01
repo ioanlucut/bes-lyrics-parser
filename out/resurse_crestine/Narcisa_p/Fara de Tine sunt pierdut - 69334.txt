@@ -1,0 +1,30 @@
+[title]
+Fara de tine sunt pierdut {author: {Narcisa P.}, {rcId: {69334}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ce sunt eu fara Tine, Doamne?
+Ce sunt, fara protectia Ta?
+Ce sunt, nu sunt decat un abur
+Sunt doar o cazatoare stea..
+
+[c]
+Fara de tine sunt pierdut
+Sunt ca un fir de pleava care
+Paleste-n arsita de soare....
+Fara iubirea Ta eterna
+Sunt ca o clipa trecatoare
+
+[v2]
+Ce sunt Eu fara Tine, Doamne?
+Sunt un izvor secat, ascuns
+Printre prapastii si deserturi
+Ca rau, de seceta, distrus
+
+[v3]
+Ce sunt, eu fara Tine, Doamne
+Doar un bogat sarac si gol
+Sunt ca un vas fara ulei...
+Ca un chimval zanganitor.

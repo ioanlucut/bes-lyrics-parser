@@ -1,0 +1,37 @@
+[title]
+Sa spun lui isus problemele mele {author: {Anonim}, {rcId: {75129}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Să spun lui Isus problemele mele
+Nu pot purta sarcina singur,
+În necazul meu El mă ajută,
+EL păzește pe al Său popor.
+
+[c]
+Să spun lui Isus,
+Să spun lui Isus,
+Nu pot purta sarcina singur,
+Să spun lui Isus,
+Să spun lui Isus,
+Isus m-ajută, Isus singur.
+
+[v2]
+Să spun lui Isus grijile mele
+EL este bun amic îndurat,
+Dacă-l rog, El mă eliberează
+El mă scapă de al meu păcat.
+
+[v3]
+Încercat-am lipsa de Salvatorul
+Care poate să mă ajute.
+Să spun lui Isus, să spun lui Isus
+El va purta grijile mele.
+
+[v4]
+O, cum m-ar amăgi lumea la rău
+Inima mea e ispitită,
+Să spun lui Isus și El m-ajută
+A izbândi lupta cea sfântă.

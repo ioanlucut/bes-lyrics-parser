@@ -1,0 +1,35 @@
+[title]
+La orice pas {author: {Măslinu’}, {rcId: {4511}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Toată încrederea-n Tine-mi pun
+O, Doamne Dumnezeu
+Tu ești un tată milos și bun
+O, Doamne Dumnezeu.
+
+[c]
+/: La orice pas, în orice ceas
+Prezența Ta doresc
+În bucurii sau în necaz
+Cu Tine să trăiesc. :/
+
+[v2]
+Când inima mea suspină greu
+O, Doamne Dumnezeu
+Găsesc mângăiere-n brațul Tău
+O, Doamne Dumnezeu.
+
+[v3]
+În toată lumea eu n-am aflat
+O, Doamne Dumnezeu
+O fericire cum Tu mi-ai dat
+O, Doamne Dumnezeu.
+
+[v4]
+Ție-ți predau astăzi viața mea
+O, Doamne Dumnezeu
+Ca numai Tu să domnești în ea
+O, Doamne Dumnezeu.

@@ -1,0 +1,30 @@
+[title]
+Inima ratacitoare {author: {Cristian Văduva}, {rcId: {206038}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Inimă rătăcitoare, inimă
+Inima Domnului doare,
+Tu într-una îți dorești, inimă
+Și atât de des păcătuiești :/
+
+[c]
+De-ar sădi Domnul în tine
+Tot cuvântul Său
+Asta te-ar feri de rău
+Și te-ar face fericită, nu te-ai înșela
+Și atât de bine ți-ar sta!
+
+[v2]
+/: Dacă ai tu tot mai vrei, inimă
+De la altul ca să iei,
+La ce spune Domnul da, tu nu vrei
+După tine tot te iei. :/
+
+[v3]
+/: Să te schimbe Domnul vrea, inimă
+Să fi după voia Sa
+Să stai drept să nu mai cazi, inimă
+Pentru ceruri ca să arzi! :/

@@ -1,0 +1,29 @@
+[title]
+In curand s-a termina {author: {Puiu Chibici}, {rcId: {60293}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În curând s-a termina
+Greul ce aici l-am dus
+Și în slavă vom pleca
+Împreună cu Isus!
+
+[c]
+/: Vom cânta, ne-om bucura,
+Vom uita tot ce-a fost greu
+Pentru veci, Aleluia!
+Sus în cer, cu Dumnezeu. :/
+
+[v2]
+Nopți și zile parcă trec
+Azi mai iute ca oricând,
+Semnele ne prevestesc:
+Isus vine, vine în curând!
+
+[v3]
+Prieten drag ce rătăcești
+Pe cărări ce duc spre-abis,
+N-ai vrea-n veci să locuiești
+În cerescul paradis?

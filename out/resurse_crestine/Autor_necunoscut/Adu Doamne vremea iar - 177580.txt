@@ -1,0 +1,36 @@
+[title]
+Adu doamne vremea iar {author: {Anonim}, {rcId: {177580}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Adu Doamne vremea iar,
+Când ardeam toți ca un jar,
+Duhul Sfânt ne cerceta.
+Când cu lacrimi ne rugam
+Și cu toții ne iubeam
+Adu Doamne vrenea iar.
+
+[c]
+/: Ne tânjește inima Isuse
+Ne tânjește sufletul
+După pocăința sfântă
+După dragostea dintâi.
+ /:
+
+[v2]
+Părtășia nu lipsea
+Și pâinea se împărțea,
+După nevoi în iubire.
+Bucuroși ne întâlnean,
+Și în brațe ne strângeam,
+Adu Doamne vremea iar.
+
+[v3]
+Tu ai rămas neschimbat
+Credincios și adevârat
+Însă noi mult am răcit.
+Tată, Tu să ne atingi,
+În Duhul Sfânt să ne aprinzi,
+Nu ne lasa să fim stinși.

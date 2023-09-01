@@ -1,0 +1,41 @@
+[title]
+Iubirea s-a nascut in paie {author: {Familia Timofte}, {rcId: {229839}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Frumoasă zi a bucuriei
+Din nou în inimi o avem
+Iar gândul nostru se îndreaptă
+Cu dragoste spre Bethleem
+Căci, Cel ce a creeat pământul
+În lumea noastră a pășit
+Din cer, s-a întrupat Cuvântul
+Mesia, darul oferit
+
+[c]
+Iubirea s-a nascut in paie
+În locul rece si umil
+Căci într-o zi Dumnezeirea
+Luase un chip de copil
+
+[v2]
+Priveau păstorii cu mirare
+Al îngerilor tainic cor
+Ce vestea aducea, în noapte
+Căci am primit un Salvator
+Iar magii, plini de bucurie
+Conduși de-o stea, din răsărit
+În lunga lor călătorie
+Să se închine au venit
+
+[v3]
+Mai sună astăzi, iar colindul
+Pe al zilelor șirag purtat
+Să fie pace peste lume
+Și slava Celui prea înalt
+Isus lăsat-a ieslea rece
+Pe tronul veșniciei pus
+Ieri a fost prunc, dar azi e Rege
+Și ne așteaptă acolo sus

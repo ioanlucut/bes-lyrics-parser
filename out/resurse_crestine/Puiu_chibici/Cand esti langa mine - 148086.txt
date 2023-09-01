@@ -1,0 +1,35 @@
+[title]
+Cand esti langa mine {author: {Puiu Chibici}, {rcId: {148086}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Când ești lângă mine
+Nu mă tem de nici un rău,
+Căci mă-ncred în Tine,
+Mare Dumnezeu.
+
+[c]
+Numai lângă Tine, Doamne, mă simt bine,
+Știu că Tu mă ocrotești,
+Si-n grea încercare, când furtuna-i mare,
+Lângă mine Tu pășești alături ești.
+
+[v2]
+Valurile vieții,
+Barca când mi-au clătinat
+Ca și altă dată,
+Tu, Isuse, le-ai mustrat.
+
+[v3]
+Meriți pe vecie,
+Doamne, să fii lăudat,
+Căci din grea robie
+Doar Tu m-ai eliberat.
+
+[v4]
+O nădejde vie
+În inimă mi-ai sădit,
+Cred deci cu tărie,
+Doamne, că m-ai mântuit.

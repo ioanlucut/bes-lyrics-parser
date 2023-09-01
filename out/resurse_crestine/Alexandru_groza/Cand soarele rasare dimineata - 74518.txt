@@ -1,0 +1,35 @@
+[title]
+Cand soarele rasare dimineata {author: {Alexandru Groza}, {rcId: {74518}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Când soarele răsare dimineața
+Și raza lui îmi luminează fața
+Îți mulțumesc, Isus de viața ce-o trăiesc
+Prin harul binecuvântării Tale!
+Privesc natura cu a ei splendoare
+Și universul ce îți dă onoare
+Isuse, Domnul meu Te onorez și eu
+Mă-nchin ’naintea Ta cu mulțumire.
+
+[c]
+Doamne-n Tine eu mă încred
+Nu mă îndoiesc de iubirea Ta
+Tu ești adăpostul meu
+Cetățuia mea în noapte grea
+Doamne-n Tine mă încred
+În Cuvântul Tău plin de adevăr
+Tu ești fericirea mea
+Tu îmi dai cântări de laudă!
+
+[v2]
+Numele Tău, îmi e binecuvantare
+Iubirea Ta, cuprinde-ntreaga zare
+În inima mea ești, Isuse strălucești
+Mai tare ca orice rază de soare
+Mă simt înconjurat de-a Ta iubire
+Sufletul mi-e plin de bucurie
+În inima mea ești, Isuse strălucești
+Mai tare ca orice rază de soare!

@@ -1,0 +1,41 @@
+[title]
+Numai o luna de nu cant {author: {Nicolae Moldoveanu}, {rcId: {66269}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Numai o lună de nu cânt,
+Îmi pare că s-a stins un soare
+/: Și că de veacuri pe pământ,
+N-am mai ajuns la sărbătoare. :/
+
+[v2]
+Numai o zi de nu citesc
+Cuvântul Sfânt al Cărții Tale,
+/: Se uscă gândul meu și-mi cresc
+Noi temeri și-ndoieli pe cale. :/
+
+[v3]
+Numai un ceas de nu mă rog
+Îmi arde inima-nsetată
+/: Și-mi pare sufletul zălog
+La o-ntristare necurmată. :/
+
+[v4]
+Numai o clipă de nu-Ți pot
+Simți prezența lângă mine,
+/: Nici Cerul, nici pământul tot
+Nu pot ființa să-mi aline. :/
+
+[v5]
+Căci, drag Isus, iubirea mea,
+Cu cât mai din belșug Te are,
+/: Cu-atât Te cere și Te vrea
+Mai din adânc mai cu-nsetare. :/
+
+[v6]
+Din orice lună, zi și ceas,
+Și toate clipele senine,
+/: Mi-au fost, Isus și mi-au rămas
+Doar câte le trăiesc cu Tine. :/

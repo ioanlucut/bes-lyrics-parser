@@ -1,0 +1,20 @@
+[title]
+Isus e al meu {author: {Anonim}, {rcId: {211232}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+/: Isus e al meu și eu sunt a Lui!
+Căci dragostea Lui m-a răscumpărat! :/ x3
+Dragostea m-a răscumpărat!
+
+[v2]
+/: El m-a dus în casa de ospăț
+Și dragostea Lui m-a cucerit. :/ x3
+Dragostea Lui m-a cucerit
+
+[v3]
+/: Apele cele mari, nu pot să stingă
+Dragostea Domnului meu Isus! :/ x3
+Dragostea Domnului Isus.

@@ -1,0 +1,31 @@
+[title]
+Sufletul meu il lauda pe domnul {author: {Alexandru Groza}, {rcId: {155853}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Sufletul meu Îl laudă pe Domnul,
+În orice zi, la bine și la greu!
+Privesc spre cer cu inima voioasă,
+Pentru că L-am primit pe Domnul meu.
+Sufletul meu Îl laudă pe Domnul,
+Eu îmi zidesc credința-n Domnul meu!
+Născut din nou, am pace în inimă,
+Am harul sfânt și-s fericit mereu!
+
+[c]
+/: Nu te întrista când viața ta e grea,
+Dumnezeu are grijă și de tine!
+El este cu noi, El ne scapă din nevoi,
+Zi de zi, El ne poartă-n brațul Său. :/
+
+[v2]
+Sufletul meu Îl laudă pe Domnul,
+Inima mea e plină de Hristos!
+Și viața mea e binecuvântată,
+Cinstesc pe Domnul și sunt bucuros!
+Prin rugăciune-mi întăresc credința,
+În Tatăl, Fiul și Duhul cel Sfânt
+Și viața mea e binecuvântată,
+De când mă-ncred în Tatăl, în Cuvânt.

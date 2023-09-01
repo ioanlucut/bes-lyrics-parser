@@ -1,0 +1,53 @@
+[title]
+Mai rabda {author: {Nicolae Moldoveanu}, {rcId: {5682}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Mai rabdă! O, mai rabdă încă!
+Mai rabdă, nu te întrista!
+De ce-ai uitat tu, jurământul
+Ce-am zis că nu te voi uita?
+
+[c]
+/: Cum poate-o mamă ca să-și uite
+Copilul ce l-a alăptat?
+Și chiar și dacă ea îl uita,
+Eu nici atunci nu te-oi uita. :/
+
+[v2]
+Pe-acel ce rabdă și păzește
+Cuvântul Meu cu răbdare,
+Și Eu îl voi păzi atuncea,
+În ceasul greu de-ncercare.
+
+[c2]
+/: Păstrează dar, întotdeauna,
+Vegheaz-asupra ta, oricănd,
+Ca nimeni să nu-ți ia cununa
+Căci, iată, Eu revin curând! :/
+
+[v3]
+Fiți gata dar, în orice vreme!
+Mijlocul să vă fie-ncins!
+Acel ce rabdă și veghează,
+La umbra Lui, s-a odihni.
+
+[c3]
+/: Curând e ziua ce sosește,
+Când noaptea grea se va sfârși;
+Din suferință și durere,
+Acolo te vei odihni. :/
+
+[v4]
+Acel ce rabdă și veghează
+Și-a birui pan’ la sfârșit
+El va purta, pe-a lui cunună,
+Un nume nou, necontenit.
+
+[c4]
+/: Scut și pavăză este Domnul,
+Un ajutor din veșnicii;
+Acel ce rabdă și veghează,
+La umbra Lui s-a odihni :/

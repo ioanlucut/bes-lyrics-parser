@@ -1,0 +1,37 @@
+[title]
+Cantec de leagan {author: {Traian Dorz}, {rcId: {131730}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+Nani-nani-na,
+puisor de stea...
+
+[v1]
+Ia cu tine-n gand
+Chipul mamei bland.
+Ia cu tine-n vis
+Floare de cais.
+Ia cu tine-n gene,
+Pasari din poiene,
+Ia cu tine-n pleoape,
+Leganari de ape...
+Langa patul tau,
+Vor veghea mereu,
+Maicuta ta
+Si DUMNEZEU.
+
+[v2]
+Ia cu tine-n somn,
+Dulce glas de corn,
+Ia cu tine-n joc
+Flori de busuioc,
+Ia cu tine fluturi,
+De pe flori si canturi.
+Ia cu tine stele,
+Sa petreci cu ele.
+Langa patul tau
+Vor veghea mereu,
+Maicuta ta
+Și DUMNEZEU.

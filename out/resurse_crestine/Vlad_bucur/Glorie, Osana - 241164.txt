@@ -1,0 +1,32 @@
+[title]
+Glorie osana {author: {Vlad Bucur}, {rcId: {241164}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Natura creată de mâna Ta
+Te laudă și-Ți dă toată gloria,
+Toate se-nchină în fața Ta, Dumnezeu minunat!
+Vântul vestește iubirea Ta,
+Ploaia arată știința Ta,
+Toată adoră măreția Ta, Dumnezeu minunat!
+Și cum aș putea să nu Te laud,
+Când tot ce-ai creat Te laudă?
+
+[c]
+/: Glorie, Osana, Aleluia,
+Tot ce-are suflare Îți va cânta!
+Glorie, Osana, Aleluia,
+În veci de veci va răsuna! :/
+
+[v2]
+Vuietul mării sună ușor:
+”
+Slăvit fie Domnul oștirilor!”
+Păsări ce zboară Îți cântă-n cor, Dumnezeu minunat!
+Luminători, prin lumina lor,
+Arată puterea-Ți de Creator,
+Îngeri în ceruri Îți cântă-n cor, Dumnezeu minunat!
+Și cum aș putea să nu Te laud,
+Când tot ce-ai creat Te laudă?

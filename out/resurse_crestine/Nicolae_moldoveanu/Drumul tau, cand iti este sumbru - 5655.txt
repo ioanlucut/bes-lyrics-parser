@@ -1,0 +1,29 @@
+[title]
+Drumul tau cand iti este sumbru {author: {Nicolae Moldoveanu}, {rcId: {5655}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Drumul tau, cand iti este sumbru,
+Si cand cerul s-a-ntunecat,
+Cineva care este-n umbra.
+Te priveste ne’ncetat.
+
+[c]
+Ajutor va da, o Da, ajutor va da
+Isus, ce cunoaste toata starea ta...
+/: Sa crezi al Sau Cuvant! :/
+Ochii Lui sunt asupra ta...
+
+[v2]
+Cand esti trist si singuratic
+Si cand esti apasat de necaz,
+Doar spre Isus indreapta-ti ruga!
+El va mangaia al tau obraz.
+
+[v3]
+Iar cand valurile, furtuna
+Iti rapesc din nou linistea ta,
+Tu ridica-ti, spre Domnul, privirea!
+El din nou, iar, te va mangaia...

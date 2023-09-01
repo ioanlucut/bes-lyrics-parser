@@ -1,0 +1,35 @@
+[title]
+Am pornit pe calea vietii {author: {Ovidiu Liteanu}, {rcId: {55784}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Am pornit pe calea vieții
+Cu Isus Hristos
+Și în carul biruinței
+Eu cânt bucuros.
+
+[c]
+/: Minunată fericire
+Cânt mereu cu bucurie.
+Că s-a îndurat de mine
+Domnul meu Isus :/
+
+[v2]
+Cânt mereu cu bucurie
+Și spun tuturor
+Că în inimă am pace
+Și-un Mântuitor.
+
+[v3]
+Și cu haina mântuirii
+El m-a îmbrăcat,
+Al meu nume-i scris în ceruri.
+O, ce minunat!
+
+[v4]
+Hai și tu pe calea vieții,
+Prietene iubit,
+Să primești azi mântuirea
+Să fii fericit!

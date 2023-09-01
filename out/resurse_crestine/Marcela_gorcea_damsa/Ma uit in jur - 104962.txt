@@ -1,0 +1,33 @@
+[title]
+Ma uit in jur {author: {Marcela Gorcea Damsa}, {rcId: {104962}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c
+
+[v1]
+Mă uit în jur, lumea se teme
+Omul e mic pe-acest pământ
+Încearcă să pătrundă Universul
+Lumea de-aici, cea după mormânt.
+
+[v2]
+Schimbări, abis, trăiește Universul
+Vești care ne lasă fără de puteri
+Se zguduie din temelii pământul
+Se înmulțesc cei fără mângâieri.
+
+[c]
+Vino, Doamne, Trezește-ne
+Suflă viață iar în noi
+
+[v3]
+Mă uit în jur, lumea aleargă
+Către biserici și se roagă iar
+Spun că se-ncred în Acel ce-i veșnic
+Așteaptă peste țară îndurare iar.
+
+[v4]
+Mă uit în jur și mă cutremur
+De rugăciunea din popor
+Unde-i Scriptura, unde-i adunarea ?
+Unde-i postul, dragostea cu foc ?

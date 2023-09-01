@@ -1,0 +1,29 @@
+[title]
+M-a gasit pastorul cel bun {author: {Anonim}, {rcId: {74381}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+M-a găsit Păstorul cel bun,
+Și pe umeri El m-a pus,
+Din adânc și întuneric
+La lumină m-a adus.
+
+[c]
+Aleluia, aleluia!
+Sună azi cântarea mea.
+Domnului fie mărire,
+Mi-a făcut mântuire.
+
+[v2]
+Sunt cu rana vindecată
+Și cu sufletul spălat.
+Viața mea e azi salvată
+Căci putere El mi-a dat.
+
+[v3]
+În sfânt sânge al lui Isus,
+Hainele mi le-am albit.
+Voi intra în cer cu sfinții,
+O, cât sunt de fericit!

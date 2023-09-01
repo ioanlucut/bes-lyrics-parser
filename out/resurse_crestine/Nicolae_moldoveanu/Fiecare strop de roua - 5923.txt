@@ -1,0 +1,35 @@
+[title]
+Fiecare strop de roua {author: {Nicolae Moldoveanu}, {rcId: {5923}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Fiecare strop de roua, strans in zori,
+In potirele gingase de la flori,
+/: Este-o lacrima ce s-a prelins, odata, pe-un obraz
+Si-a lasat pe chip paloarea de topaz. :/
+
+[v2]
+E uitata gingasia mamelor
+Si-i tradata nazuinta fratilor;
+/: Spulberate sunt nadejdile cladite-n suferinti,
+Si-s calcate juruintele fierbinti. :/
+
+[v3]
+Numai Tu, Isuse dulce, ne rasari
+Cu lumina Ta si splendoarea dinspre Rai.
+/: Fruntea ne-o putem pleca, la sanul Tau, in liniste,
+Sa ne mangai Tu, divina Dragoste. :/
+
+[v4]
+Dac-un prieten nefatarnic, te-a-nsotit,
+Dac-o inima de mama, te-a iubit,
+/: Dac-o gura de prieten ti-a vorbit sa mergi in sus,
+Prin acestea toate, ti-a vorbit Isus. :/
+
+[v5]
+Nu schimba iubirea sfanta pe-un fior
+Nu-ti risipi vesnicia pentr-un dor!
+/: Nu schimba zambetul mamei, in al lacrimii suspin!
+Nu trada onoarea Mirelui Divin! :/

@@ -1,0 +1,41 @@
+[title]
+Eu strig cu glsaul meu {author: {Frații Ursan}, {rcId: {219064}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Eu strig cu glasul meu
+Traiasca Dumnezeu
+Traiasca Isus Salvatorul
+/: El pace mi-a dat cale mi- a aratat
+În veci fie El laudat: \
+
+[v2]
+Eu strig cu glasul meu
+Traiasca Dumnezeu
+Traiasca traiasca Mesia
+/: El viata si-a dat pentru al meu pacat
+In veci fie El laudat: \
+
+[v3]
+Eu strig cu glasul meu
+Traiasca Dumnezeu
+Acel ce ne da mantuirea
+/: Fiul sau Si-a trimis sa fim noi mantuiti
+In veci fie El preamarit: \
+
+[v4]
+Eu strig cu glasul meu
+Te astept O Domnul meu
+Sa vi sa-ti rapesti a Ta mireasa
+/: Te astept cu gand curat, te astept neincetat
+Sa vi sa ne duci la Tine acasa: \
+
+[v5]
+Eu stirg cu glasul meu traisaca Dumnezeu
+Traiasca traiasca iubirea
+Din dragoste a venit pe cruce S-a jertfit
+Sa pot sa fiu eu azi mântuit
+/: Din dragoste a venit in veci fie Slavit
+Acela ce moartea a biurit: \

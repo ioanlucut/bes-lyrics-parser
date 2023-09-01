@@ -1,0 +1,33 @@
+[title]
+O nu respinge al sau cuvant {author: {J.Calvin Bushey}, {rcId: {1716}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+O nu respinge-al Sau cuvant,
+Cerescul har nu-l risipi
+Si inima nu ti-o impietri,
+Ci vino acum.
+
+[c]
+De ce nu acum? De ce nu acum?
+Sa fi salvat, de ce nu acum?
+
+[v2]
+Prin mila astazi esti chemat,
+Ai grija, n-o nesocoti.
+Caci poate maine vei muri,
+Deci vino acum.
+
+[v3]
+Isus Hristos a mantuit,
+Pe nimeni nu a refuzat.
+Si tu prin El poti fi salvat,
+Deci vino acum.
+
+[v4]
+De nu-L primesti azi pe Isus,
+In veci de veci vei regreta.
+Nu amana salvarea ta,
+Ci vino acum.

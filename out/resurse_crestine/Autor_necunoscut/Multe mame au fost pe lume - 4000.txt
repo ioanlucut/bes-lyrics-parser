@@ -1,0 +1,35 @@
+[title]
+Multe mame au fost pe lume {author: {Anonim}, {rcId: {4000}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Multe mame au fost pe lume
+Multe mame sunt și acum
+Însă mama cea mai scumpă
+E Isus Domnul cel bun.
+
+[c]
+/: E Isus și mama mea
+El ne dă mântuirea
+Și o dă oricărui vrea
+Fără plată să o ia. :/
+
+[v2]
+Sigur, calea mântuirii
+E cu spini și cu dureri
+Însă la sfârșit ea duce
+În eterne mângâieri.
+
+[v3]
+Nu uita creștine dragă
+De-a ta mamă, tu, nicicând
+Te gândește tot la ea
+Poart-o-n inimă și-n gând.
+
+[v4]
+Căci Isus mântuitorul
+Este mama tuturor
+Care l-a primit ca medic,
+Ca mamă și salvator.

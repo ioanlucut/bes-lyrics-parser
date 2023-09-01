@@ -1,0 +1,29 @@
+[title]
+Am fost orfan {author: {Beni Moldovan}, {rcId: {60529}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Am fost orfan fără tatăl meu și mereu disperam,
+Am trăit fără Dumnezeu și-n păcat eu mă aflam,
+Am fost orfan fără tatăl meu și mereu disperam,
+Dar am întâlnit pe Dumnezeu și mereu îmi spunea:
+
+[c]
+Fiule, nu te voi părăsi!
+Te voi lua în brațe ca și pe David!
+O, fiule, voi fi Tatăl tău,
+Eu te voi păzi de orice rău!
+
+[v2]
+O viață-ntreagă am rătăcit în lumea aceasta,
+Disprețuind Cuvântul Tău și crezând că-i bine-așa,
+Dar zi de zi realizam că nu-mi găseam fericirea
+Și am intrat în casa Ta unde Tu mi-ai arătat
+
+[c2]
+Ce frumos e în casa Ta,
+Unde pot să cânt spre slava Ta!
+O, ce frumos e să cântăm
+Și Numele Tău să-l adorăm!

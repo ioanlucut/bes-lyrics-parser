@@ -1,0 +1,36 @@
+[title]
+Trecut-au anii de cand isuse {author: {Nicolae Moldoveanu}, {rcId: {5548}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Trecut-au anii de cand Isuse,
+Eu prima data Te-am intalnit
+Si-am cunoscut bucurii nespuse
+Ce-n harul Tau Tu ne-ai daruit...
+
+[c]
+In Tine, Doamne, gasim fericirea,
+Comori cum altele nu-s pe pamant!
+Esti Singurul cu noi in durere
+Si ne trimiti ajutor: Duhul Sfant!
+
+[v2]
+Adesea ochii in lume privit-au
+Si-au admirat ce e trecator;
+Si cate, Doamne, nu cunoscut-am,
+In viata noastra de calatori?
+
+[v3]
+Si cati prieteni noi nu avut-am
+Ce-n zi cu soare, mult ne-au iubit!
+Au stat cu noi, doar la bucurie,
+Dar, la necazuri, ne-au parasit...
+
+[v4]
+Asa trecut-au anii, Isuse,
+Si cand odata ne-am intalnit
+Si-am cunoscut bucurii nespuse
+Ce-n harul Tau,
+Tu ne-ai daruit.

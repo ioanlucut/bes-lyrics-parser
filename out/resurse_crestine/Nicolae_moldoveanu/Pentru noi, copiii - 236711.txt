@@ -1,0 +1,25 @@
+[title]
+Pentru noi copiii {author: {Nicolae Moldoveanu}, {rcId: {236711}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Pentru noi, copiii, cresc atâtea flori,
+să le știm Stăpânul Cel mai sus de nori.
+
+[c]
+Dumnezeu din ceruri e Stăpânu-n veac,
+pururi să-I dăm slavă și să-I fim pe plac.
+
+[v2]
+Pentru noi, copiii, mii de stele sunt,
+să vedem prin ele pe Stăpânul Sfânt.
+
+[v3]
+Pentru noi, copiii, păsări cântă-n cor,
+să putem cunoaște pe Stăpânul lor.
+
+[v4]
+Pentru noi sunt toate de la Dumnezeu,
+Lui I se cuvine laudă mereu.

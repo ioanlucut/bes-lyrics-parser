@@ -1,0 +1,30 @@
+[title]
+Esti aici cerul e deschis {author: {Isaura Gheorghiu}, {rcId: {180145}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: Ești aici, cerul e deschis,
+Eu mă închin, eu mă închin. :/ x4
+
+[c]
+/: Izbăvitorul, Domn peste toate,
+Cel ce face o cale,
+Lumină-n întuneric,
+Doamne, doar tu ești Împărat! :/
+
+[v2]
+/: Ești aici, vindeci suflete,
+Eu mă închin, eu mă închin :/
+x4
+
+[v3]
+Ești mereu cu noi, mereu Tu ne-ai promis,
+Tu cerul ai deschis, cerul ai deschis,
+Tu ești aici Isus, mereu Tu ne-ai promis,
+Prin Duhul Tău Cel Sfânt, Tu ești aici.
+
+[v4]
+/: Ești aici, Duhul Tău e-n noi,
+Eu mă închin, Eu mă închin. :/

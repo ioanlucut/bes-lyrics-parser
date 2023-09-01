@@ -1,0 +1,23 @@
+[title]
+Tata din cer esti minunat {author: {Anonim}, {rcId: {78744}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+/: Tată din cer, ești minunat! :/
+/: Te iubesc, te ador
+Te doresc cu mult dor
+Tată din cer ești minunat :/
+
+[v2]
+/: Isus, ești Domn preaînalt :/
+/: Viața mea mi-ai salvat
+De păcate m-ai iertat
+Isus, ești Domn Preaînalt :/
+
+[v3]
+/: Duh Preasfânt, fii înălțat :/
+/: Mă conduci tot mereu
+Prin bine și prin greu
+Duh Preasfânt, fii înălțat :/

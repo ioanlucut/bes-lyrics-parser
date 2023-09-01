@@ -1,0 +1,33 @@
+[title]
+Doar un cuvant {author: {Adi Gliga}, {rcId: {157796}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Doamne, Tu poți, să înțelegi,
+Greul ce s-a lipit inimii.
+Doar un Cuvânt, de-ai să rostești,
+Sufletul s-ar putea liniștii.
+
+[c]
+Lângă Tine când stau
+Nu mă pierd, nu mă tem,
+Tu mă conduci prin furtuni.
+Lângă Tine mă-nving
+Și nu vreau să greșesc,
+Doar un Cuvânt, de-ai rosti.
+Lângă Tine când stau
+Nu mă pierd, nu mă tem,
+Tu mă conduci prin furtuni.
+Lângă Tine mă-nving
+Și nu vreau să greșesc,
+Doar un Cuvânt, de-ai rosti.
+Doar un Cuvânt dacă rostești,
+Sufletul s-a liniști.
+
+[v2]
+Tu m-ai creat și mă cunoști,
+Uneori nu mă pot stăpânii.
+Inima mea, nespus de rea,
+Fără Tine n-o pot birui.

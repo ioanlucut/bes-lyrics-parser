@@ -1,0 +1,29 @@
+[title]
+Bine e sa stii {author: {Anonim}, {rcId: {1804}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Bine e sa stii ca ai
+Sus in cer un Tata!
+Ce in fiecare zi
+Grija ta o poarta.
+
+[c]
+Eu astazi cant si sunt voios
+Ca Dumnezeu e Tatal meu.
+Eu astazi cant si sunt voios
+Cu mine e mereu Hristos.
+
+[v2]
+Iar cand mama, tatal tau
+Pleaca-n vesnicie,
+Te increde-n Dumnezeu:
+Toate El le stie!
+
+[v3]
+Langa Dumnezeul tau
+Sufletul sa-ti fie.
+Sa-L iubesti pe El
+Mereu cu credinciosie.

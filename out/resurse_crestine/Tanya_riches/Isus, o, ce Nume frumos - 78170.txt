@@ -1,0 +1,29 @@
+[title]
+Isus o ce nume frumos {author: {Tanya Riches, Traducere RO}, {rcId: {78170}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Isus, o ce nume frumos,
+Fiu de Domn, Fiu de om,
+Mielul jertfit.
+Bucurie și speranță,
+Har ce teama a luat.
+Isus, o ce Nume frumos.
+
+[v2]
+Isus, o ce nume frumos,
+Adevăr, Vindecător,
+Al meu viitor,
+Libertate, Dragoste,
+Har ce teama a luat.
+Isus, o ce Nume frumos.
+
+[v3]
+Isus, o ce nume frumos,
+Salvator, Adăpost,
+Rușinea-a spălat.
+Siguranță și iertare,
+Har ce teama a luat.
+Isus, o ce Nume frumos.

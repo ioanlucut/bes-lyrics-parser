@@ -1,0 +1,37 @@
+[title]
+Magii s-au dus pan' la palat {author: {Anonim}, {rcId: {63697}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Magii s-au dus pan’ la palat,
+Si pe Irod l-au intrebat:
+Unde este noul-nascut?
+Caci noi steaua I-am vazut...
+Noi am zarit pe cer o stea,
+Care ne calauzea
+Pana la Ierusalim
+Si acum am vrea sa stim:
+
+[c]
+/: La Betleem, la Betleem...
+Sa mergem ca sa-L vedem pe El
+La Betleem, la Betleem
+S-a nascut Emanuel. :/
+
+[v2]
+Cand magii au adormit,
+Printr-un inger le-a vorbit,
+Dumnezeu i-a-nstiintat
+Sa-l fereasca de pacat
+Caci Irod le-a-ntins un lat
+Pe la el sa nu mai dati...
+El vrea moarte, vrea razboi,
+Cand va-ntoarceti inapoi.
+
+[c2]
+/: La Betleem, la Betleem...
+S-a nascut Emanuel.
+El e-al nostru voievod
+E mai mare ca Irod. :/

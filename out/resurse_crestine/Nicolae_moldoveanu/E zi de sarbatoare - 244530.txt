@@ -1,0 +1,55 @@
+[title]
+E zi de sarbatoare {author: {Nicolae Moldoveanu}, {rcId: {244530}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+E zi de sărbătoare,
+Scăldată-n rai de soare
+Și lin mai lin,
+Splendori de crin,
+Cireșul risipește,
+Din tril în tril,
+Un imn febril,
+Grădina ciripește!
+
+[v2]
+E ziua biruinței,
+Și moartea suferinței
+Vin, vin vibrând,
+Și val și vânt,
+Dau lumilor de știre,
+E-nvins, e-nvins,
+Al morții-ntins,
+Prin viață și iubire!
+
+[v3]
+E ziua izbăvirii,
+A omului și-a firii,
+Și cresc, tot cresc,
+Și înfloresc,
+Vieți de ceruri pline
+Iubind, iubind,
+Azi toate prind,
+A semăna cu Tine.
+
+[v4]
+E ziua înălțării,
+Dați zbor înalt cântării
+Suim, suim,
+În salt sublim,
+Cu inimile noastre,
+Sonor, sonor,
+Zoresc în zbor,
+Popoarele de astre!
+
+[v5]
+E zi de sărbătoare,
+Pământ și Cer și soare,
+Și timpu-nving,
+Și spațiu-l sting,
+Și în veșnică lumină,
+Cântând, strigând,
+Nou nume-având
+lsuse, Ți-se-nchină!

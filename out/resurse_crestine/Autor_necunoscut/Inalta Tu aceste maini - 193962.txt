@@ -1,0 +1,35 @@
+[title]
+Inalta tu aceste maini {author: {Anonim}, {rcId: {193962}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c
+
+[v1]
+Înalță Tu, aceste mâini!
+Căci n-am tăria să Te laud îndeajuns,
+Fără Tine, fără Tine,
+Sunt nimic.
+
+[v2]
+Vocea mea, revars-o Tu!
+Ca să cânte despre mila ce-am găsit,
+Fără Tine, fără Tine,
+Sunt nimic.
+
+[c]
+Doamne, cât doresc,
+Iubirea Ta să o reverși
+Și lumea-ntreagă va ști:
+Că fără Tine sunt nimic!
+
+[v3]
+Trupul meu, zidește-l Tu,
+Ca o jertfă de iubire îl dăruiesc,
+Fără Tine, fără Tine,
+Sunt nimic.
+
+[v4]
+Viața mea Ți-o dăruiesc,
+Toată gloria Ta prin mine s-o reverși,
+Fără Tine, fără Tine,
+Sunt nimic.

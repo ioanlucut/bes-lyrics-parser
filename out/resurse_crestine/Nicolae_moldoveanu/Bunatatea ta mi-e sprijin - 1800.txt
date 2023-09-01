@@ -1,0 +1,50 @@
+[title]
+Bunatatea ta mi-e sprijin {author: {Nicolae Moldoveanu}, {rcId: {1800}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Bunătatea Ta mi-e sprijin
+Orișicând pe-al lumii vale,
+Doamne, ea-mi pastrează pașii
+Pe-a credinței sfântă cale!
+Bunătatea Ta, bunătatea Ta,
+Doamne, ea-mi păstrează pașii
+Pe-a credinței sfântă cale!
+
+[v2]
+Când în suflet negre gânduri
+Năvălesc să mă răpună,
+Bunătatea Ta mi-e sprijin
+Și tărie în furtună!
+Bunătatea Ta, bunătatea Ta,
+Doamne, ea oricând mi-e sprijin
+Și tărie în furtună!
+
+[v3]
+Când cel rău îmi dă târcoale
+Și ar vrea ca să mă-nghită,
+Bunătatea Ta mi-e sprijin,
+Și odihnă liniștită!
+Bunătatea Ta, Bunătatea Ta,
+Doamne, ea oricând mi-e sprijin,
+Și putere, și odihnă!
+
+[v4]
+Când în jur se prăbușește
+Slaba omului lucrare,
+Bunătatea Ta mi-e sprijin,
+Adăpost și-nviorare!
+Bunătatea Ta, bunătatea Ta,
+Doamne, ea oricând mi-e sprijin,
+Adăpost și-nviorare!
+
+[v5]
+Doamne-n sfânta-Ți bunătate
+mă încred în orice vreme,
+Când m-ascund în ea, de nimeni
+Viața mea nu se mai teme!
+Bunătatea Ta, Bunătatea Ta,
+Când m-ascund în ea, de nimeni
+Viața mea nu se mai teme!

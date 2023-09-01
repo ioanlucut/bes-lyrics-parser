@@ -1,0 +1,35 @@
+[title]
+Laudati pe domnul {author: {Carmen Prodan}, {rcId: {169722}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: Lăudați pe Domnul: \
+Din înălțimea cerului!
+/: Lăudați pe Domnul: \
+Toate oștirile Lui!
+
+[c]
+Lăudați- L îngeri, soare, lună, stele,
+Pe al vostru Creator!
+Lăudați-L oameni, lăudați popoare
+Pe Domnul domnilor!
+
+[v2]
+/: Lăudați pe Domnul: \
+Cedri și pomi roditori!
+/: Lăudați pe Domnul: \
+Dealuri și voi munților!
+
+[v3]
+/: Lăudați pe Domnul: \
+Tineri, bătrâni și copii!
+/: Lăudați pe Domnul: \
+El e izvor de bucurii!
+
+[v4]
+/: Lăudați pe Domnul: \
+El tăria noastră a-nălțat!
+Împărați ai lumii și popoare toate
+Lăudați pe Marele-Împarat!

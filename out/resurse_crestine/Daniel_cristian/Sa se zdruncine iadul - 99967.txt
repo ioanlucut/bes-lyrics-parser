@@ -1,0 +1,23 @@
+[title]
+Sa se zdruncine iadul {author: {Daniel Cristian}, {rcId: {99967}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Înaintea Ta, Doamne
+Doar în fața Ta, Isus
+Cu inima mea
+Eu azi mă-nchin.
+
+[c]
+Să se zdruncine iadul
+Când ne rugăm
+Să se clatine vrăjmașul
+Când ne-nchinăm
+
+[v2]
+Prin puterea Ta, o, Tată
+Cu iubirea Ta, mereu
+Noi vom birui orice
+Încercare va veni.

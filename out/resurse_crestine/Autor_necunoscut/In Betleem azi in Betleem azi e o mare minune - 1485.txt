@@ -1,0 +1,31 @@
+[title]
+In betleem azi in betleem azi e o mare minune {author: {Anonim}, {rcId: {1485}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: În Betleem azi,
+În Betleem azi
+E o mare minune! :/
+
+[c]
+/: Hristos se naște, Domnul coboară,
+Îngerii cântă, magii Îl adoră,
+Păstorii aleargă, ieslea o-nconjoară,
+Mari minuni se întâmplară :/
+
+[v2]
+/: Îngeri și oameni,
+Îngeri și oameni
+Cântă împreună. :/
+
+[v3]
+/: De El s-ascultați,
+De El s-ascultați
+Ca să vp mântuiască! :/
+
+[v4]
+/: Căci El a venit,
+Căci El a venit
+Să mântuie poporul. :/

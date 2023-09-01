@@ -1,0 +1,42 @@
+[title]
+Prin lume trec strain {author: {Nicolae Moldoveanu}, {rcId: {199007}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Prin lume trec străin,
+Cu doru-n suflet pară,
+Și pășesc spre-o altă,
+Fericită Țară!
+
+[c]
+Frumoasă de nespus,
+E Țara pregătită,
+De Domnul meu Isus,
+Prin Jertfa Lui slăvită.
+
+[v2]
+Credința mi-este drum,
+Iar Dragostea lumină,
+Și pășesc spre dulcea,
+Țară-n veci senină!
+
+[v3]
+Privirea azi mi-o țin,
+’
+Nainte îndreptată,
+Să pășesc spre Tine,
+Țară minunată!
+
+[v4]
+Ce taine, ce lucrări
+Adânci a-măreției
+Tu le ai gătite
+Țară-a bucuriei!..
+
+[v5]
+O, Doamne dă-mi puteri,
+S-alerg cu dor fierbinte,
+Să s-ajung în Țara,
+Harurilor sfinte!

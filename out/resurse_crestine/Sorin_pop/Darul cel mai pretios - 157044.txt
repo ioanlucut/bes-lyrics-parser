@@ -1,0 +1,45 @@
+[title]
+Darul cel mai pretios {author: {Sorin Pop}, {rcId: {157044}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c,e,v5,c
+
+[v1]
+Când vremea s-a împlinit
+Copilaș din cer venit,
+Într-o iesle-n Betleem
+S-a născut Emanuel.
+
+[v2]
+Cuvântul Tatălui în trup,
+Toate prin El s-au făcut.
+Fiu al lui David, Avraam,
+Dar Fiul lui Adonai.
+
+[c]
+/: Isus e viață, El e speranță!
+Isus e Mântuirea mea!
+El e iertare și împăcare,
+Cu Dumnezeu, prin jertfa Sa! :/
+
+[v3]
+Astăzi eu, din nou, Te chem,
+Tu Fiul lui Dumnezeu.
+Din vechiul Betleem
+Și-n ieslea din pieptul meu.
+
+[v4]
+Darul cel mai prețios
+Gratis și mult valoros.
+Lumea-ntreagă de-aș avea,
+Mai mult tot n-aș câștiga.
+
+[e]
+Isus e viața mea
+Lumină și dragostea x 8
+
+[v5]
+Prietene poți să alegi
+Viața cum să ți-o petreci.
+Isus e-n cer, Isus e viu!
+Primește-L până nu-i târziu.

@@ -1,0 +1,29 @@
+[title]
+Zbor alb {author: {Gabi Ilut}, {rcId: {231091}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Zbor alb curat și sublim
+Simt cum îmi cresc albe aripi;
+În dragoste mă ridic
+Privesc în sus cu dor.
+
+[c]
+Îmi iau către Tine zborul
+Aș vrea să mă-nalț!
+Îmi iau către Tine zborul
+Să mă-nalț aș vrea, mai sus să mă-nalț.
+
+[v2]
+Aripile-mi se deschid
+Privesc în duh înălțimea;
+Încrezător mă avânt
+Cu strigăt mă ridic.
+
+[v3]
+Ca pasărea în văzduh
+Plutesc acum prin credință!
+Învăț curenți să înfrunt
+Vreau tot mai sus să urc.

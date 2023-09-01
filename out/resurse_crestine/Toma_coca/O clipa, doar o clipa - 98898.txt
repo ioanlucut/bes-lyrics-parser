@@ -1,0 +1,35 @@
+[title]
+O clipa doar o clipa {author: {Toma Coca}, {rcId: {98898}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Sunt călătorul cu suflet trist
+Plângând urc drumul silnicit
+Am ascultat când mai chemat
+Mai ocrotit mai binecuvântat
+În încercarea din a mea viață
+Trimis-ai îngeri mi-au făcut strajă
+Credința în Tine ma ținut aproape
+De izvoarele sfinte cu limpezi ape.
+
+[c]
+Cu gândul urc mai sus de nori
+O clipă doar o clipă
+Doresc Isus să trec de ei
+O clipă doar o clipă
+Să văd splendorile mărețe
+O clipă doar o clipă
+Privirea Ta să mă aline
+Iar eu Să-Ți spun rămâi cu mine.
+
+[v2]
+Ești soarele vieții, fântâna iubirii
+De la început ai fost cu mine
+Când soarele dispărea în unde
+Puteri mi-ai dat să urc pe munte
+Când văzduhul își trăgea perdeaua tăceri
+Peste pământ umbrindu-mi calea
+Te-am chemat mi-ai alungat teama
+Pe brate mai luat mi-ai dat salvarea.

@@ -1,0 +1,65 @@
+[title]
+Ochii mei in ochii tai isuse {author: {Nicolae Moldoveanu}, {rcId: {200665}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,v5,c5
+
+[v1]
+Ochii mei în ochii Tăi, Isuse,
+Își găsesc odihnă dulce!
+Ochii mei în ochii Tăi, Isuse,
+Liniștiți pot să se culce.
+
+[c]
+Ochii mei, ochii mei,
+Să privească’n ochii Tăi;
+Să privească necurmat,
+Să mă pot păstra curat!
+
+[v2]
+Inima-mi, din inima-Ți preasfântă,
+Își primește’ntruna hrană!
+Inima-mi, din inima-Ți preasfântă,
+Se’nveșmântă-n neprihană.
+
+[c2]
+Inima, inima,
+Să-mi rămână într-a Ta;
+Să primească luminos,
+Chipul Tău Isus Hristos!
+
+[v3]
+Mâna mea în mâna Ta cea tare,
+Crește pururi în putere!
+Mâna mea în mâna Ta cea tare,
+Simte-alin și mângâiere.
+
+[c3]
+Mâna mea, mâna mea,
+Să primească din a Ta;
+Har și biruințe noi
+În al luptelor șuvoi!
+
+[v4]
+Viața mea în viața Ta, Isuse,
+Roditoare se păstrează!
+Viața mea în viața Ta, Isuse,
+Cântă și se luminează.
+
+[c4]
+Viața mea, viața mea,
+S-o topești în viața Ta;
+Să Te ’nalțe tot mai sus,
+Doar pe Tine drag Isus!
+
+[v5]
+Ține-mă întruna-ntreg în Tine,
+Scump Mântuitor puternic!
+Căci doar stăpânirea Ta, din mine,
+Face-un slujitor cucernic.
+
+[c5]
+Viața mea, viața mea,
+S-o păstrezi in viața Ta;
+Să te ’nalțe tot mai sus,
+Doar pe Tine drag Isus!

@@ -1,0 +1,39 @@
+[title]
+Pentru cei ce i-a iubit {author: {Ioan Chismorie}, {rcId: {155906}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pentru cei ce I-a iubit
+Sus pe cruce, răstignit
+Între doi tâlhari Isus a murit.
+Pentru treizeci de arginți
+Fără lacrimi și căinți
+M-ați vândut preoților, ca să mor.
+
+[c]
+Oile mele ce v-am făcut eu vouă?
+În loc să veniți, crucea să-mi fi luat
+Cunună de spini mi-ați dat
+Oile mele, ce v-am făcut eu vouă?
+M-ați dus la calvar, ca să mor pentru voi
+Să fiți voi fericiți.
+
+[v2]
+Iuda, oișoara mea
+Ca să-ți umpli punga ta
+M-ai vândut tu la dușmani pentru bani
+Te-am nedreptățit cândva
+Sau ți-am tras dragostea mea
+Pentru bine ce ți-am vrut,
+M-ai vândut.
+
+[v3]
+Pe pășuni verzi v-am purtat
+Și la timp v-am adăpat
+Și-am umblat prin vânt și ploi, pentru voi.
+Ziua întreagă prin păduri
+V-am păzit de lupi și furi
+Pentru bine ce v-am vrut,
+M-ați vândut.

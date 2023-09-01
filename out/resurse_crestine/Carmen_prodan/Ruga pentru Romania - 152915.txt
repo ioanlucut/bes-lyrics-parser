@@ -1,0 +1,41 @@
+[title]
+Ruga pentru romania {author: {Carmen Prodan}, {rcId: {152915}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+O, iartă, Doamne, România,
+Îndură-Te de țara noastră!
+Tu ai îngăduit urgia
+Și apele s-o pustiască...
+
+[c]
+Ne prăbușim în fața Ta...
+O, dă-ne azi putere!
+Îndură-te de noi, Isus,
+Căci zilele sunt grele!
+
+[v2]
+Îndură-te de frații noștri
+Ce au rămas ca Iov odată,
+Doar ei și marea lor durere...
+O, nu-i lăsa ca să cârtească!
+
+[v3]
+E-atât păcat în țara noastră...
+Mânia Ta, o, Doamne-i dreaptă!
+Dar Te rugăm, ne iartă Doamne,
+Și dă-ne-o inimă-nțeleaptă!
+
+[v4]
+De mai găsești și azi vreo zece
+Sau cinci ce-n fața Ta suspină,
+Nu nimici cetatea toată,
+Dă mântuirea Ta deplină!
+
+[v5]
+Revarsă ploaia cea târzie,
+Transformă Tu în har urgia,
+Toți să Te-accepte-n umilință,
+Salvează, Doamne, România!

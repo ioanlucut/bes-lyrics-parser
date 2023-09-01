@@ -1,0 +1,23 @@
+[title]
+Arata-mi calea ta {author: {Ramona Vass}, {rcId: {106402}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Viața întreagă am căutat pe Cineva
+Să-mi dea speranță, să-mi liniștească inima.
+Mă chinuiam în zbuciumul acestei lumi,
+Nu știam că fericirea o dai doar Tu.
+
+[c]
+/: Arată-mi calea Ta,
+Vreau să merg pe ea.
+La bine și la greu
+Te chem, o, Domnul meu :/
+
+[v2]
+Astăzi mă închin și Îți mulțumesc că m-ai găsit,
+Te-ai aplecat, cu-atâta iubire Mi-ai vorbit.
+Cine altul e ca Tine atât de bun ?
+Mi-ai luat păcatul și M-ai umplut cu Duhul Sfânt!

@@ -1,0 +1,29 @@
+[title]
+Eu ma-ncred doar in domnul {author: {Claudiu Lupei, Lidia Veciunca, Gabriela Preduț}, {rcId: {104936}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Eu mă-ncred doar în Domnul
+Eu mă-ncred doar în El
+Căci ce-a promis își ține
+E credincios mereu :/
+
+[c]
+/: Poate să sufle vântul, și valuri de-ar veni
+Isuse, dă-mi credință, prin Tin’ voi birui
+Poate să urle marea, să spumege mereu
+Fă-mă Doamne puternic, ești singur Dumnezeu :/
+
+[v2]
+/: Credința de-mi slăbește
+Eu strig dup-ajutor
+O, Tată, dă-mi putere
+Să fiu biruitor. :/
+
+[v3]
+/: Cuvântul Său mă ține
+Îmi dă avânt mereu
+În El găsesc nădejde
+Oricât mi-ar fi de greu. :/

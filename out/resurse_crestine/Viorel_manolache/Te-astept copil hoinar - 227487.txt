@@ -1,0 +1,29 @@
+[title]
+Te-astept copil hoinar {author: {Viorel Manolache}, {rcId: {227487}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Te-aștept, copil hoinar, să vii acasă.
+Te-aștept de mult să vii la piept, să-mi cazi,
+să-ți curaț viața de tot ce te-apasă
+și-o haină nouă să-ți ofer în dar.
+
+[c]
+Te-aștept să vii, în brațele-mi de Tată,
+să te întorci o, fiu risipitor!
+A Mea iubire, încă mai așteaptă,
+să-ți dea iertarea pentru tot ce-ai fost.
+
+[v2]
+Astazi e har păstrat chiar pentru tine.
+Nu te-ndoi, chemarea ți-o fac Eu
+sunt Domnul tău, te chem acum, pe nume.
+Nu amâna! Vino, copilul meu!
+
+[v3]
+De vei veni primi-vei mântuirea,
+viață nouă, credință și har.
+Vei moșteni cu mine veșnicia.
+Răscumpărat ai fost cu sânge pe Calvar.

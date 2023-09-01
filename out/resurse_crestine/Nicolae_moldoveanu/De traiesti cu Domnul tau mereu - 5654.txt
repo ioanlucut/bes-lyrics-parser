@@ -1,0 +1,29 @@
+[title]
+De traiesti cu domnul tau mereu {author: {Nicolae Moldoveanu}, {rcId: {5654}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+De trăiești cu Domnul tău mereu,
+Fericit iți este traiul tău;
+R :
+/: Pe-ale vieții tale căi,
+Peste dealuri și prin văi,
+El te duce numa-n fericiri. :/
+
+[v2]
+Lasă soarta ta in mâna Lui,
+Viața ta să fie-a Domnului!
+R :
+/: Să-I predai tot ce-i al tău,
+Să-mplinești Cuvântul Său!
+El te-a duce numa-n fericiri. :/
+
+[v3]
+Când ispita te va încerca
+Și când crucea te va apăsa,
+R :
+/: Nici atunci nu șovăi!
+El și-atunci te va iubi;
+El te-a duce numa-n fericiri. :/

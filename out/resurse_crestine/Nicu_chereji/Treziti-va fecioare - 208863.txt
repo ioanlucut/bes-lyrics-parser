@@ -1,0 +1,35 @@
+[title]
+Treziti-va fecioare {author: {Nicu Chereji}, {rcId: {208863}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Treziți-vă fecioare, nu-i timp de zăbovit
+Fiți gata de plecare spre locul mult dorit
+Nu mai e mult din noapte, vă veți trezi cântând
+Cântarea bucuriei o veți cânta zburând.
+
+[c]
+El vine iar, El vine iar, cu toți Îl vom vedea
+Pe nori de slavă încununat să-și ia mireasa Sa
+Văzduhu-ntreg va străluci de mii și mii de sfinți
+Iar cei rămași jos pe pământ Îi vor privi uimiți.
+
+[v2]
+Păstrați-vă veșmântul de tot ce e lumesc
+Să fiți plăcuți tot timpul, Părintelui Ceresc
+Având candela plina cu Untdelemn sfințit
+Și harul mântuirii, vă fie înmulțit!
+
+[v3]
+O zi strălucitoare cum n-a mai fost nicicând
+Divina sărbătoare a Mielului Cel Sfânt
+Viteji, eroi ce-n luptă, ținut-au steagul sus
+În ziua cea măreață îi va-ncununa Isus.
+
+[v4]
+Se va auzi strigarea, o cat de minunat
+Vor înălța drapelul cei ce l-au așteptat
+Și cât de glorioasă va fi aceea zi
+Când Mirele iubirii, la cer ne va răpi.

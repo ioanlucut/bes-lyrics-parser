@@ -1,0 +1,38 @@
+[title]
+Cand privesc inspre cer lumea albastra {author: {Grupul Silo}, {rcId: {169447}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Când privesc înspre cer lumea albăstra
+Eu văd mâna tare a Tatălui.
+Chiar în vale adâncde-aș fi cufundat
+Eu văd mâna tare a Tatălui.
+
+[c]
+Eu văd mâna Lui
+Când privesc în juru-mi Vocea Tatălui
+Ca un susur blând
+Pot simți atingerea blândă a Tatălui
+Ori și unde aș fi Ori și unde aș fi
+E prezent și El Eu văd mâna Lui.
+Vocea i-o ascult
+Pot să-L simt mereu prezent
+
+[v2]
+Când aud ciripit de păsări în cânt
+Eu pot auzi vocea Tatălui.
+Tunetul în furtuniși susurul blând
+Eu pot auzi vocea Tatălui.
+
+[v3]
+Chiar in vara fierbinte cu arșița ei
+Pot simți atingerea Tatălui.
+Printre fulgii zăpezii iarna târzie
+Pot simți atingerea Tatălui.
+
+[e]
+/: Eu il văd Il ascult Pot să-L simt mereu :/
+x3
+DA, Eu il văd Il ascult Și il simt prezent.

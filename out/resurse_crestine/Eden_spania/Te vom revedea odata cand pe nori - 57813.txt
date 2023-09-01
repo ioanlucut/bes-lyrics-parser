@@ -1,0 +1,30 @@
+[title]
+Te vom revedea odata cand pe nori {author: {Eden Spania}, {rcId: {57813}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Te vom revedea odata cand pe nori
+Vei reveni sa-ti iei ai Tai inchinatori
+Va fi mare bucurie cand vei reveni sa-Ti iei
+In Paradisul Tau pe veci copiii Tai
+
+[c]
+Aleluia vine Domnul, se aude-n departari
+La ecouri raspandite, sus de dincolo de nori
+Esti tu gata? Sunt eu gata? Vine-o voce sa vesteasca
+Caci un tren sta ca sa plece catre patria cereasca,
+O Aleluia!
+
+[v2]
+Te vom revedea Isuse, Rege Sfant
+Cand vei veni sa-ti iei mireasa de pe pamant
+Va fi minunat cand cerul va deschide poarta Lui
+Si vom intra in fericirea Domnului.
+
+[v3]
+Te vom revedea Stapane minunat
+Marite Domn si fiu de Rege, de Imparat
+Vom cina in cer cu Tine, si cu-acei inaintasi
+Care te-au slujit pe Tine ca urmas.

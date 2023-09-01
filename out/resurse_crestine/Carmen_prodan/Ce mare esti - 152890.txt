@@ -1,0 +1,21 @@
+[title]
+Ce mare esti {author: {Carmen Prodan}, {rcId: {152890}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Te înalț o Doamne căci m-ai ridicat
+Cei vrășmași de mine nu s-au bucurat
+
+[c]
+Sunt nimic o Doamne dar Tu mă iubești
+Mă cutremur în fața Ta, Doamne ce mare ești
+
+[v2]
+Sacul cel de jale Tu l-ai dezlegat
+Și în bucurie plânsul mi-ai schimbat
+
+[v3]
+Fericită-Ți cântă astăzi inima
+Până-n veșnicie Te voi lăuda

@@ -1,0 +1,45 @@
+[title]
+Unde esti domnul meu? {author: {Carmen Prodan}, {rcId: {155932}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Unde ești, Domnul meu?
+Vreau să văd fața Ta!
+Norii grei Te-au ascuns
+Azi de privirea mea!
+/: Am nevoie să-mi vorbești,
+Să îmi spui că mă iubești!
+Am nevoie Domnul meu
+Azi de prezența Ta! : \
+
+[v2]
+Unde ești? Sunt în necaz!
+Lacrimi curg pe obraz...
+Și putere nu mai am
+Să fac măcar un pas.!
+/: Știu că nu m-ai părăsit,
+Dar acum singur mă simt.
+Domnul meu, dă-mi lumină
+Pe cărarea mea! : \
+
+[v3]
+Unde ești, Domnul meu?
+În rugăciuni Te-astept mereu!
+Să m-asculți și să-mplinești
+Tot ce mi-ai promis!
+/: Știu cât de Puternic ești,
+Și ce spui înfăptuiești!
+Nu-nțeleg însă de ce,
+Doamne, zăbovești? : \
+
+[v4]
+Unde ești? Glasuri vuiesc.
+Și ispite mă-ngrozesc!
+Mi-este teamă să nu cad
+De oboseală-nvins!
+/: Chiar de azi nimic nu văd,
+În minuni încă mai cred!
+Domnul meu, arată-Ți slava
+Și în viața mea! : \

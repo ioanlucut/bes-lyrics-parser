@@ -1,0 +1,23 @@
+[title]
+Sunt copil isuse {author: {Nicolae Moldoveanu}, {rcId: {227841}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Sunt copil, Isuse, multe nu vorbesc,
+dar știu spune-atâta: că eu Te iubesc.
+
+[c]
+Lângă Tine vreau pururea să stau
+să mă crești cum Tu dorești și să mă păzești!
+La pătuțul meu, să trimiți mereu
+îngerașii, drăgălașii, de la Tronul Tău!
+
+[v2]
+Fii mereu cu mine, Doamne să mă crești,
+ca să fiu cuminte precum Tu dorești.
+
+[v3]
+Când voi crește mare și-oi ști să citesc,
+fă ca numai Ție, Doamne, să-Ți slujesc.

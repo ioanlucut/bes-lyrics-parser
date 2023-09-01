@@ -1,0 +1,47 @@
+[title]
+Ce nume minunat (what a beautiful name) {author: {Ben Fielding, Brooke Ligertwood, Traducere RO}, {rcId: {168117}}
+
+[sequence]
+v1,c,v2,b,c,c2,s,c2
+
+[v1]
+De la-nceput ai fost Cuvântul
+Una cu Domnul Cel Prea ’nalt
+Tu ai creat tot Universul
+Iar nouă Te-ai arătat.
+
+[c]
+Ce Nume minunat ai Tu
+Ce Nume minunat ai Tu
+Isus Hristos, Domn minunat!
+Ce Nume minunat ai Tu
+Nu-i altul mai înalt
+Ce Nume minunat ai Tu
+Isus, Nume sfânt!
+
+[v2]
+Din slava Ta de sus, din ceruri
+Isus, la noi Te-ai coborât
+Să porți ocara cu batjocuri
+Pe o cruce răstignit.
+
+[b]
+Mormântul rece nu Te-a ținut
+Prin jertfa Ta ne-ai mântuit
+Cerul tresaltă de bucurie
+Căci Tu din morți ai înviat!
+
+[b2]
+Nu este nimeni la fel ca Tine
+Ești Dumnezeu din veșnicii
+Ești Împăratul vrednic de slavă
+Numele Tău va dăinui!
+
+[c2]
+Ce Nume minunat avem
+Plin de putere
+Ce Nume minunat avem
+În Numele Isus!
+
+[s]
+Ca să știe că numai Tu, al cărui nume este Domnul, Tu ești Cel Preaînalt pe tot pământul. Ps. 83:18

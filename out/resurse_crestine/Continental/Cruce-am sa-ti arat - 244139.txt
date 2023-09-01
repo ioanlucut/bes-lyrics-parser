@@ -1,0 +1,54 @@
+[title]
+Cruce-am sa-ti arat {author: {Continental}, {rcId: {244139}}
+
+[sequence]
+v1,c,v2,c,e,c
+
+[v1]
+Ai fost și tu, oare, dezamăgit de cei iubiți?
+Un zid ridicând, apoi, în jurul tău să nu mai fi rănit?.
+Printre vorbe mii de-aș căuta, ce aș putea să zic?
+Căci niciun cuvânt nu ar schimba ce-ai suferit.
+Și n-am să-ți mai spun, acum, nimic.
+
+[c]
+Cruce-am să-ți arăt,
+Isus pe lemn întins.
+Groapa unde El,
+Chiar moartea a învins.
+Să-ți arăt pe Cel ce-a plătit păcatul greu.
+Rana ta eu văd, crucea doar s-o vezi!
+Cruce-am să-ți arăt,
+Isus pe lemn întins.
+Groapa unde El,
+Chiar moartea a învins.
+Să-ți arăt pe Cel ce-a plătit păcatul greu.
+Rana ta eu văd, crucea doar s-o vezi!
+
+[v2]
+Tu stai la o parte singur și tot mai trist
+Nici nu mai crezi acum că harul Său te poate-oricând găsi.
+Atâtea ne împliniri au fost în tot ce ai sperat.
+Și cum aș putea să te ajut cu-adevărat?
+Un lucru mai rămâne-acum să fac:
+
+[e]
+Vino cum ești! Vino cum ești!
+Cu rănile tale!
+Vino cum ești! Vino cum ești!
+E vindecare!
+Vino cum ești! Vino cum ești!
+Mai este iertare!
+
+[b]
+Să-ți arăt ce-am fost,
+Totuși sunt iertat!
+Să-ți arăt ce har viața mi-a schimbat!
+Să-ți arăt pe Cel ce-a plătit păcatul greu!
+Rana ta eu văd
+Și cruce-am să-ți arăt:
+Isus pe lemn întins.
+Groapa unde El,
+Chiar moartea a învins.
+Să-ți arăt pe Cel ce-a plătit păcatul greu.
+/: Rana ta eu văd, crucea doar s-o vezi! :/ x3

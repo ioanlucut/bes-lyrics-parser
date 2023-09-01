@@ -1,0 +1,33 @@
+[title]
+Tara mea {author: {Gabi_Ilut}, {rcId: {241287}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Călător sunt aici pe pământ;
+Țara mea e în cerul sfânt!
+Eu sunt fiu de împărat, voia Lui o împlinesc;
+Pe Isus Îl iubesc și-L slujesc!
+
+[c]
+Țara mea, loc de vis! Țara mea-i Paradis;
+Căci Isus un loc mi-a pregătit!
+Țara mea, loc de vis! Țara mea-i Paradis;
+Căci Isus un loc mi-a promis!
+
+[v2]
+Greutăți, îndoieli vin mereu:
+Să-mi clatine crezul meu!
+Pe genunchi mă așez, în rugă Îl implor:
+Pe Isus să-mi de ajutor!
+
+[v3]
+Voi pleca și nimic n-o să iau,
+Casa Tatălui pregătită-i să stau.
+Chiar de-am strâns comori, toate scrum se prefac;
+Lângă Domnul voi fi în veac!
+
+[e]
+Orice lacrimă va fi ștearsă în prezența Domnului!
+Durere nu va mai fi. bucuria ne va însoți!

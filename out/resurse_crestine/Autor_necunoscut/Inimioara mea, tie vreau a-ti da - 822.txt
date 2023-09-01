@@ -1,0 +1,29 @@
+[title]
+Inimioara mea tie vreau a-ti da {author: {Anonim}, {rcId: {822}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Inimioara mea, Ție vreau a-Ți da
+Ia-o Tu, Isuse-n mâna Ta
+Fă ce vrei cu ea, căci este a Ta
+Tu ai biruit pe Golgota.
+
+[c]
+Ție eu mă-nchin, la Tine eu vin
+Fii slăvit Regele meu divin
+Căci Tu m-ai chemat, harul Tău mi-ai dat
+Fii slăvit și-n veci de veci lăudat
+
+[v2]
+Inimioara mea, și viața mea
+Ia-le Tu, Isuse-n mâna Ta
+Fii tu Domnul meu, Dumnezeul meu,
+Căci cu Tin’ voi birui mereu.
+
+[v3]
+Inimioara mea, curată eu aș vrea
+S-o păstrez toată viața mea
+Iar când vei reveni, să Te pot privi
+Și să-ți pot cânta cu îngerii.

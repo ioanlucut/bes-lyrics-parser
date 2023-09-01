@@ -1,0 +1,25 @@
+[title]
+Mari si minunate sunt lucrarile tale {author: {Anonim}, {rcId: {4997}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mari și minunate sunt lucrările Tale,
+O, Domn Creator, Atotputernic,
+Drepte și adevărate sunt căile Tale,
+Al lumii Împărat.
+
+[c]
+Sfant, sfant, sfant, sfant.
+
+[v2]
+Cine de Tin’ să nu se teamă
+Și să Te proslăvească,
+Singurul sfânt ești Tu, Doamne,
+Tu, numai Tu.
+
+[v3]
+Popoarele toate Ți se vor închina,
+Căci slava Ta ni se va arăta,
+Aleluia, Aleluia, Aleluia, Amin.

@@ -1,0 +1,26 @@
+[title]
+Ajuta-ma domnul meu {author: {Ionel Saran}, {rcId: {115686}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Ajută-mă, Domnul meu,
+Ca să fiu copilul Tău
+/: Când lupta este mare,
+Valuri sunt mereu pe cale,
+Întărește-mă Tu tot mai tare :/
+
+[v2]
+Când Tu ești, Doamne, cu mine,
+Nu mă tem de orice vine,
+/: Căci Tu îmi dai credință
+Și mă-mbraci în biruință
+Când eu sunt în neputință :/
+
+[v3]
+În veci, Doamne, fii lăudat,
+Căci pe mine m-ai salvat
+/: Și numai lângă Tine,
+Doamne, eu mă simt mai bine!
+Nu mai vreau eu să plec de la Tine :/

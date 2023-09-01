@@ -1,0 +1,35 @@
+[title]
+Cand treci prin pustia vietii {author: {Dina Maria Pop}, {rcId: {174553}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Când treci prin pustia vieții
+Și vezi mulți căzuți și zdrobiți
+/: Oprește-te-n drum cu răbdare
+Ridică pe cei greu loviți: \
+
+[c]
+Să te asemeni c-un milos Samaritean
+Ce se apleacă și te duce pân’la han
+Acol’plătește ca să-ți lege rana grea
+E Mielul blând ce s-a jertfit pe Golgota
+
+[v2]
+Cu milă privește pe frații
+Căzuți și sleiți de puteri
+/: Întinde-ți o mână și-ajută
+Isus iți dă dulci mângâieri: \
+
+[v3]
+Când legi răni adânci și deschise
+Să cureți întâi tot ce-i rău
+/: Și chiar dacă ustură rana
+El vine cu balsamul Său: \
+
+[v4]
+El te-a ridicat și pe tine
+Care azi ajuți și ridici
+/: Răsplata din ceruri e mare
+Credință să ai și învingi: \

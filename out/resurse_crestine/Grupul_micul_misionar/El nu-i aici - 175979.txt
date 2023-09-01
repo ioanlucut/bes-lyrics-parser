@@ -1,0 +1,49 @@
+[title]
+El nu-i aici {author: {Grupul Micul Misionar}, {rcId: {175979}}
+
+[sequence]
+v1,c,v2,c,e,v3,c
+
+[v1]
+De ce căutați pe Cel viu printre morti,
+El nu-i aici
+El nu-i aici El nu-i aici
+El nu-i aici.
+El a înviat după cum a zis,
+El nu-i aici
+El nu-i aici El nu-i aici
+El nu-i aici.
+
+[c]
+El trăiește în veci ca și Împărat,
+A înviat cu adevărat.
+Boldul morții a înfrânt,
+El nu-i aici
+El nu-i aici El nu-i aici
+El nu-i aici.
+
+[v2]
+Vino să vezi că mormântul e gol,
+El nu-i aici
+El nu-i aici El nu-i aici
+El nu-i aici.
+Îngerii piatra au prăvălit,
+El nu-i aici
+El nu-i aici El nu-i aici
+El nu-i aici.
+
+[e]
+S-a înălțat victorios dintre cei morții,
+Și trăiește în veci, da El trăiește în veci!
+El trăiește printre Cei Sfinți,
+La Tron!!
+
+[v3]
+El e în inimă neîncetat,
+El este aici
+El este aici El este aici
+El este aici.
+El a înviat din morti
+El este aici
+El este aici El este aici
+El este aici.

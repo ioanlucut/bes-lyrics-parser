@@ -1,0 +1,27 @@
+[title]
+Cu isus merg pe drum (where no one stands alone) {author: {Mosie Lister, Traducere RO}, {rcId: {99977}}
+
+[sequence]
+v1,c,v2,c,s,c
+
+[v1]
+Singur stând, cugetând la viața mea
+Întuneric adânc am aflat
+Apăsat și-ntristat, am strigat: Isus!
+Rămâi cu mine acum!
+
+[c]
+Ține-mă-n mâna Ta
+Zi de zi, pas cu pas
+Prin negura deasă din jur!
+O, ce har, nu sunt singur
+Cu Isus merg pe drum!
+
+[v2]
+Pe ’nălțimi de aș fi, în frumos palat
+Și un nume măreț de-aș avea
+Chiar bogat de aș fi pe acest pământ
+Fără Isus sunt pierdut.
+
+[s]
+Cel ce M-a trimis este cu Mine; Tatăl nu M-a lăsat singur, pentru că totdeauna fac ce-I este plăcut. Ioan 8:29

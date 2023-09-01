@@ -1,0 +1,27 @@
+[title]
+Iubesc pe domnul din toata inima {author: {Alexandru Groza}, {rcId: {185413}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Iubesc pe Domnul din toată inima!
+Iubesc pe Domnul cu toată ființa mea!
+Sunt plin de bucurie, El e tăria mea!
+Totul ce mă înconjoară este lucrarea Sa
+Îl laudă natura și tot ce a creat!
+Și în ramuri păsărele dau slavă ne-ncetat
+
+[c]
+O, cântă, azi, inima mea,
+Laudă-L pe Domnul, nu uita
+Grija ta o poartă Domnul
+Zi de zi!
+
+[v2]
+Iubesc pe Domnul din toată inima!
+Iubesc pe Domnul cu toată ființa mea!
+Să cânte cu mic și mare, cu toții Slava Sa
+Îl cântă și crinul din vale îi poartă grija sa
+Îl laudă natura și tot ce a creat
+Și în ramuri păsărele dau slavă ne-ncetat!

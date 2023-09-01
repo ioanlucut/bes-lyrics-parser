@@ -1,0 +1,23 @@
+[title]
+Mana inghetata {author: {Diaz Amos}, {rcId: {237946}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Mâna înghețată ce a bătut la ușa ta,
+Pentru ca fecioara să Îl nască pe Mesia
+Nimeni n-a primit-o, toți au alungat-o
+Iar pe alte drumuri, dânsa a luat-o!
+
+[c]
+Maria, femeie sfântă
+Împrejurul tău toți îngerii cântă!
+Maria, femeie credincioasă
+Să Îl naști pe Mesia, ai fost aleasă!
+
+[v2]
+Într-un staul loc părinții au găsit
+Într-o iesle caldă, pruncul în lume a venit;
+Cu privire blândă, de El se îngrijea
+Zarea în veselie, cerul tot cânta!

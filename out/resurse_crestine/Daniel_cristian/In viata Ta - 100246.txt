@@ -1,0 +1,31 @@
+[title]
+In viata ta {author: {Daniel Cristian}, {rcId: {100246}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+De știi să iubești,
+De știi să te jertfești,
+Vei avea parte,
+Numai de binecuvântări.
+
+[c]
+În viața Ta,
+Domnul va lucra
+Niciodată nu te va lăsa.
+Deschide-I inima,
+El, va intra
+Și cu Tine, va cina.
+
+[v2]
+De pacea, tu ai găsit
+Blândețea te-a copleșit,
+Atunci vei avea
+Numai bucurii.
+
+[v3]
+De ști, ca să ierți,
+Dragostea, o găsești
+Iartă mereu,
+Din tot, sufletul tău.

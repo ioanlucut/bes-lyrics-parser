@@ -1,0 +1,42 @@
+[title]
+Esti necuprins {author: {Puiu Chibici}, {rcId: {78700}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ești necuprins de timp și spațiu,
+De-orice gândire mai presus,
+Ești pretutindenea în toate
+Și totuși, cât de nepătruns.
+Deasupra tuturor, o, Doamne,
+Cu măreție strălucești,
+Cu-nțelepciunea-Ți fără margini
+În orice clipă mă uimești.
+
+[c]
+Din veșnicie ești același,
+Iehova e numele Tău.
+Splendori cerești Te înconjoară,
+Din veșnicie-n veșnicie ești mereu,
+Iehova, Dumnezeu!
+
+[v2]
+Ești Dumnezeu din veșnicie,
+Izvorul tainice-i lumini,
+În cer Ți-e tronul de domnie
+Înconjurat de heruvimi.
+Ești Tatăl nostru bun și mare
+Ce ne dai pâine zi de zi,
+Și adunarea-n sărbătoare
+Îți cântă sfinte melodii.
+
+[v3]
+În fața măreției Tale,
+Se-nchină orice muritor,
+Ți se înalță osanale,
+Atotputernic Creator.
+În toate voia Ta să fie,
+Sfințească-se Numele Tău,
+Vie a Ta Împărăție,
+Preasfânt și mare Dumnezeu.

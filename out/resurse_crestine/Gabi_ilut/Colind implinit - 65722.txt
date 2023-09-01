@@ -1,0 +1,31 @@
+[title]
+Colind implinit {author: {Gabi Ilut}, {rcId: {65722}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Seară de crăciun
+Nori și stele spun
+S-a născut în zori, Regele.
+Fără de veșmânt
+În casă de pământ
+Însoțit de vânt, Regele.
+
+[c]
+S-a născut în fân
+Al lumii Stăpân
+Ieslea i’era scut
+Singur așternut.
+Magii l-au găsit
+Și i-au dăruit
+Tot ce-i mai de preț
+Domnului măreț
+
+[v2]
+Lucitoare stea
+Peste lumea rea
+Regele Isus, a venit.
+Din lacrimi fierbinți
+Spre multe suferinți
+Prunc nevinovat, s-a-ntrupat.

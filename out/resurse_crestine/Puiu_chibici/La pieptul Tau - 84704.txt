@@ -1,0 +1,45 @@
+[title]
+La pieptul tau {author: {Puiu Chibici}, {rcId: {84704}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+La pieptul tau m-ai leganat
+De mic copil o mama mea
+La sanul Tau m-ai alintat
+O cum sa-ti uit dragostea Ta
+M-ai alintat m-ai mangaiat
+Cuvinte dragi spunea-i mereu
+Tu mama somnul mi-ai vegheat
+Dragostea ta-i din Dumnezeu
+
+[c]
+Mama-i nume minunat
+Mama-i dar nemasurat
+Ea e ce-i mai scump pe lume
+Si-ar da viata pentru mine
+Mama-i dorul cel curat
+Mama-i cea mai mare avere
+Un izvor de mangaiere
+Daca-ai mama esti bogat
+
+[v2]
+Daca-aici jos tu mama ai
+Poti sa mai spui sunt fericit
+Si-atuncia cand in ruga stai
+S-o aminteste necontenit
+S-o pretuiesti si s-o iubesti
+Caci daca-odata va pleca
+Va fi tarziu s-o mai iubesti
+Amar atunci vei regreta
+
+[v3]
+Daca azi mama tu nu mai ai
+Si n-ai cui spune-al tau necaz
+Atunci cand greul tau il ai
+Isus va sterge-al tau obraz
+Curand curand ne-om revedea
+Cu toti cei dragi care s-au dus
+Curand curand ne-om bucura
+In Tara Sfanta a lui Isus

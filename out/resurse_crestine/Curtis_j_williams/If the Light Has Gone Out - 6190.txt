@@ -1,0 +1,35 @@
+[title]
+If the light has gone out {author: {Curtis J. Williams}, {rcId: {6190}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+When the sun of your life has gone down,
+And the clouds in the west turn to gold,
+Endless death will to you then have come,
+If the light has gone out in your soul.
+
+[c]
+Oh, just think how in death you would feel,
+With the light growing dim in your soul;
+Oh, how lonely ’twill be, oh, how still!
+If the light has gone out in your soul.
+
+[v2]
+When you come to the end of the way,
+And life’s story for you has been told,
+Oh, how sad all to you will appear
+If the light has gone out in your soul.
+
+[v3]
+When the chill winds of death ’round you steal,
+And the sweat on your brow’s damp and cold,
+What a dread in your life you would feel,
+If the light has gone out in your soul.
+
+[v4]
+When before judgment’s bar you shall stand,
+And the deeds of your life have been told,
+Good and evil appears, oh, what then,
+If the light has gone out in your soul?

@@ -1,0 +1,35 @@
+[title]
+Vin la tine scumpe tata {author: {Veneciuc Alberto}, {rcId: {224889}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Vin la Tine, scumpe Tată
+Eu, truditul călător
+Și te rog, în umilință
+Să îmi vii în ajutor
+
+[c]
+:/ Eu sunt gol și n-am pe nimeni
+Dar te am pe Tin’ Isus
+Mângâiere, pace sfântă
+Eu primesc mereu de sus :/
+
+[v2]
+Vin smerit astăzi la cruce
+Obosit sunt de pe drum
+Ți-am greșit în multe feluri
+Iartă-mă, te rog, acum
+
+[v3]
+Încercări vin peste mine
+Să înaintez, mi-e greu
+Dar eu știu că nu lupt singur
+Lângă mine-i Dumnezeu
+
+[v4]
+Când cu greu eu urc Calvarul
+Apelez la jertfa Ta
+Și recapăt iar putere
+Pot din nou înainta

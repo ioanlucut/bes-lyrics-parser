@@ -1,0 +1,29 @@
+[title]
+Let not your heart be troubled {author: {Barney E. Warren}, {rcId: {101983}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Let not your weary heart be troubled,
+Believe in God, believe in Me;
+For in My Father’s house are mansions,
+I will prepare a place for thee.
+
+[c]
+Let not your heart be troubled,
+Let not your heart be troubled;
+Let not your heart be troubled,
+Nor let it be afraid.
+
+[v2]
+Let not your peace in calm assurance
+Be ruffled by the storms of life;
+But soldier-like, with firm endurance,
+Just glory in the holy strife.
+
+[v3]
+Let not your hope be dimmed with doubting,
+Let not life’s burdens foil your grace;
+But in each conflict vict’ry shouting,
+Like he who runs to win a race.

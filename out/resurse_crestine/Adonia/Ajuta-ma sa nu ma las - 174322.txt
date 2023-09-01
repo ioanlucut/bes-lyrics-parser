@@ -1,0 +1,41 @@
+[title]
+Ajuta-ma sa nu ma las {author: {Adonia}, {rcId: {174322}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Ajută-mă să nu mă las
+Să nu mă las de Tine
+Urmănd cu drag al Tău sfânt glas
+Să ajung în Cer la Tine
+
+[c]
+Ajută-mă să fiu smerit
+Când totu-mi merge bine
+/: Și să rămân în al Tău har
+Urmându-Te pe Tine :/
+
+[v2]
+Ajută-mă să nu cârtesc
+Când încercarea vine
+Ci să rămân încredințat
+Că Tu ești lângă mine
+
+[c2]
+Ajută-mă când sunt lipsit
+Să mă încred în Tine
+/: Și să rămân mulțumitor
+Slăvindu-Te pe Tine :/
+
+[v3]
+Ajută-mă pân la sfârșit
+Să stau în adorare
+Și să Te laud ne-ncetat
+Că Tu ești al meu soare
+
+[c3]
+/: Când alergarea îmi voi sfârși
+Primește-mă la Tine
+Și fii Tu bunul meu cel bun
+Să fiu pe veci cu Tine :/

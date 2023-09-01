@@ -1,0 +1,35 @@
+[title]
+Pe drum cu spini incununat {author: {Nicolae Moldoveanu}, {rcId: {5486}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+/: Pe drum cu spini încununat,
+Cu crucea-n spate, nemâncat, :/
+/: Isus azi trece iar. :/
+
+[v2]
+/: E cald și crucea-I este grea;
+Sudori se scurg din fruntea Sa :/
+/: Și spinii-L dor amar. :/
+
+[v3]
+/: El în tăcere suie dealul.
+El singur Își goli paharul :/
+/: Ce dat I-a fost să-L bea. :/
+
+[v4]
+/: Priviți-L cum Se uită blând
+La cei ce Îl hulesc scuipând :/
+/: În sfântă-I fața Sa. :/
+
+[v5]
+/: Dar pentru cine-a răbdat toate?
+Gândește-te, iubite frate, :/
+/: Gândește pân-ești viu! :/
+
+[v6]
+/: Gândește-te, căci mâine, poate,
+Te va chema Dumnezeu, frate, :/
+/: Și-atunci va fi târziu. :/

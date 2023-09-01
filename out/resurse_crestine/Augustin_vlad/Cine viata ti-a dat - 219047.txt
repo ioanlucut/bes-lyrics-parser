@@ -1,0 +1,32 @@
+[title]
+Cine viata ti-a dat {author: {Augustin Vlad}, {rcId: {219047}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Orice rau s-ar intampla
+Omule, nu te-ntrista
+Pe genunchi sa te pui
+Sa-i spui tot Domnului
+
+[c]
+Cine viata ti-a dat
+Cine te-a ridicat
+Cine-a scos din Egipt
+Pe poporul iubit
+Cine-a dat pe Isus
+Si pe cruce L-a pus
+Sa ai viata-n cer cu Isus
+
+[v2]
+Împreună doar cu El
+De nimic să nu te temi
+Să te-ncrezi în Domnul tău
+Că tu ești copilul Său
+
+[v3]
+Pentru că tu L-ai primit
+Domnul tău ți-a pregatit
+Un lic sfânt și minunat
+Fără pată și păcat

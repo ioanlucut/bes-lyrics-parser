@@ -1,0 +1,29 @@
+[title]
+In noaptea sfanta {author: {Andrei Rosu}, {rcId: {117435}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+În noaptea Sfantă, lin coboară,
+Îngeri mii, prin fulgi de nea.
+/: Creștine, azi, e sărbătoare
+S-a nascut Mesia :/
+
+[v2]
+Prunc Preasfânt, venit din ceruri
+Atât de mult, Tu Te-ai smerit.
+/: În Betleem, în ieslea rece,
+În paie jos, noi te-am primit :/
+
+[v3]
+Magi și păstori și mii de ingeri
+Toți te-au lăudat, daruri ți-au dat.
+/: Și noi am vrea să îți aducem
+Ce-avem mai scump și mai curat :/
+
+[v4]
+Aur, smirnă sau tămâie,
+Noi nu-avem să Îi aducem.
+/: Dar tot ce-avem, chiar inima,
+În dar I-o dam Lui Mesia :/

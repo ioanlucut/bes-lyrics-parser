@@ -1,0 +1,42 @@
+[title]
+Dumnezeul manturii mele {author: {Sunny Tranca}, {rcId: {187006}}
+
+[sequence]
+v1,c,v2,c,e,s,c
+
+[v1]
+Tu esti cel care ma vede
+Si vegheaza asupra mea
+Bratul Tau ma inconjoara
+Si-mi pazeste inima
+Tu esti cel ce leaga rana
+Cand in viata sunt ranit
+Tu esti cel ce-mi da speranta
+Cand eu sunt dezamagit
+
+[c]
+Doamne, Dumnezeul mantuirii mele
+Zi si noapte catre Tine strig
+Doamne, Dumnezeul mantuirii mele
+Catre Tine ochii imi ridic
+
+[v2]
+Cand pacatul ma-nconjoara
+Si in viata sunt cazut
+Tu esti cel ce ma ridica, harul Tau imi e de-ajuns
+Cand tot iadul sta-n picioare
+Si sta impotriva mea
+Tu esti turnul de scapare
+Stiu ca esti de partea mea
+
+[e]
+De unde vine ajutorul meu
+Ajutorul imi vine de la Domnul
+Cel ce a creat cerul si pamantul
+Nu ingaduie sa mi se clatine piciorul
+
+[s]
+Doamne, Dumnezeul mantuirii mele
+Zi si noapte catre Tine strig
+Doamne, Dumnezeul mantuirii mele
+Catre Tine ochii imi ridic

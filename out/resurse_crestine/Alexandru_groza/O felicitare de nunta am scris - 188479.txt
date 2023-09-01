@@ -1,0 +1,29 @@
+[title]
+O felicitare de nunta am scris {author: {Alexandru Groza}, {rcId: {188479}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O felicitare de nuntă am scris
+Și-un buchet de flori cu ea am trimis
+Pentru nunta voastră urez și doresc
+Binecuvântarea Tatălui Ceresc!
+
+[c]
+Zile fericite cu Domnul s-aveți
+El să lumineze calea voastră-n veci
+S-aveți bucuria harului mereu
+Aceasta-i urarea sufletului meu!
+
+[v2]
+Cei ce se unesc printr-un sfânt legământ
+Îngenunchează ’naintea Celui Sfânt
+Domnul prin har binecuvântă
+A lor unire și a lor nuntă!
+
+[v3]
+Când în viața voastră vor fi încercări
+Nu uitați că Domnul dă binecuvântări
+În căminul vostru Isus va domni
+Dragostea Lui vă va însoți!

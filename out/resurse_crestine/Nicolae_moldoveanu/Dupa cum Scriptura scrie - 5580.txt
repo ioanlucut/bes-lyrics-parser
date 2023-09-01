@@ -1,0 +1,63 @@
+[title]
+Dupa cum scriptura scrie {author: {Nicolae Moldoveanu}, {rcId: {5580}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c2
+
+[v1]
+Dupa cum Scriptura scrie,
+Timpu-i pe sfarsit -
+Dragostea de calea sfanta
+La multi s-a racit.
+
+[c]
+A sosit timpul din urma,
+Si afara si in turma,
+Inainte de-a veni Isus.
+Deci, fii totdeauna gata,
+Caci El vine cu rasplata
+Sa ne duca-n ceruri sus.
+
+[v2]
+Necredinta cucereste
+Intregul pamant;
+A-nceput sa se arate
+Si-n poporul sfant.
+
+[v3]
+Multi din cei spalati cu sange,
+Multi cu Duhul Sfant,
+Si-au ales alta carare
+Pe acest pamant.
+
+[v4]
+Lumea-ntreaga e cuprinsa
+De-al placerii dor,
+Iar mandria-si face cuibul
+Chiar si in popor.
+
+[v5]
+Adormirea se intinde
+Pan’ la infinit;
+Chiar si fecioarele-ntelepte
+Parca au adormit.
+
+[v6]
+Deci, te scoala-n graba mare,
+Tu, popor ales,
+Caci s-au copt struguri-n vie,
+Gata de cules.
+
+[v7]
+Fii mereu in asteptare
+Si-n alb imbracat,
+Ca-i copt secerisul lumii,
+Bun de secerat.
+
+[c2]
+Vine Mirele-n curand,
+Dup-ai Sai de pe pamant.
+Vine Mirele Isus!
+Deci, fii totdeauna gata,
+Caci El vine, cu rasplata,
+Sa ne duca-n ceruri sus.

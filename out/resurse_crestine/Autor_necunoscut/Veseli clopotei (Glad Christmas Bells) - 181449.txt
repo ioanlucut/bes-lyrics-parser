@@ -1,0 +1,32 @@
+[title]
+Veseli clopotei (glad christmas bells) {author: {Anonim, Traducere RO}, {rcId: {181449}}
+
+[sequence]
+v1,v2,v3,v4,s
+
+[v1]
+Veseli clopoței sună iar, deodat’
+Și ne spun povestea lui Isus
+Cum El a venit, cum S-a întrupat
+Printre noi, slăvitul Domn de sus.
+
+[v2]
+N-a avut aici, vreun măreț palat
+Un loc cald, ca pentru cel bogat
+Într-o iesle jos, într-un loc sărac
+S-a născut al lumii Împărat.
+
+[v3]
+Când la Betleem, steaua s-arătat
+Cei trei magi îndată au pornit
+Și conduși de stea, ei s-au închinat
+Pruncului, cel de mult profețit.
+
+[v4]
+Împreună-n cor, îngeri au cântat
+Slavă Lui, în cer și pe pământ!
+Și păstorii-n câmp, toți s-au bucurat
+Să-L vadă pe Isus, Pruncul sfânt.
+
+[s]
+Astăzi, în cetatea lui David, vi S-a născut un Mântuitor, care este Hristos, Domnul. Luca 2:10

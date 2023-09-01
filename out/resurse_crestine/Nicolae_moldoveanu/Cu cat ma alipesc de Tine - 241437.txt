@@ -1,0 +1,41 @@
+[title]
+Cu cat ma alipesc de tine {author: {Nicolae Moldoveanu}, {rcId: {241437}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Cu cât mă alipesc de Tine,
+Isus, cu suflet mai întreg,
+/: Mai dezlipit mă simt de toate
+Si mai deplin Te înțeleg. :/
+
+[c]
+Cu cât privesc a-Tale ceruri,
+Mai orb sunt față de pământ,
+Mai fermecat sunt de frumsețea
+Eternului Așezământ.
+
+[v2]
+Cu cât mai sprinten calc
+Pe drumul Cuvântului Tău preasfințit,
+/: Mai greu alunec spre cădere
+Și spre-un făgaș nelegiuit. :/
+
+[c2]
+Cu cât țin firul rugăciunii,
+Prin Duhul, mai neîntrerupt,
+Câștig mai multe biruințe
+Și mai curat și vrednic lupt.
+
+[v3]
+Cu cât mai umilit și sincer
+Ascult de tot ce-mi poruncești
+/: Mai neascultător si liber
+Sunt de chemările lumești. :/
+
+[c3]
+Balanța vieții totdeauna,
+Își are legea ne-ndoios
+Cu cât un taler se ridică,
+Se lasă celălalt în jos.

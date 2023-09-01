@@ -1,0 +1,72 @@
+[title]
+Sunt un copil sarman uitat de lume {author: {Nicolae Moldoveanu}, {rcId: {5762}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,v5,c4,v6,c5
+
+[v1]
+Sunt un copil sărman, uitat de lume,
+Și pribegesc hoinar pe-acest pământ,
+În căutarea unei lumi mai bune
+Pe care-aș vrea s-o aflu mai curând.
+
+[c]
+/: Sunt călător și n-am nimic pe lume;
+Bucuriile toate mi se frâng.
+De-s amărât, nimeni nimic nu-mi spune
+Și nimănui nu-i pasă că eu plâng. :/
+
+[v2]
+De-atâtea ori, aștept o-ncurajare
+Să-mi îndulceasc-amarul de pelin
+Și-n sufletul pribeag să îmi strecoare
+O bucurie în eternul chin.
+
+[c2]
+/: De-atâtea ori sunt singur, n-am pe nimeni
+Și n-are cin’ să-mi vină-n ajutor;
+N-aud nicăieri o vorbă bună,
+Să-mi răcorească pieptul plin de dor. :/
+
+[v3]
+Îmi plânge sufletul, în vâlvătaie,
+Inima care răni a primit,
+În lupta grea, în aprigă bătaie
+În care, deseori, căzui lovit!...
+
+[c3]
+/: Dar țara mea o văd, în depărtare,
+Și-adeseori, deși mă simt învins,
+Mă scol din nou și-alerg tot într-acolo,
+Căci țara mea-i eternul paradis. :/
+
+[v4]
+Dar țara mea e sus de tot, în zare,
+Iar aici jos săgețile mă-mpung
+Și-adeseori mă clatin pe picioare
+Și-mi pare că acolo n-am s-ajung.
+
+[c4]
+/: Dar, chiar de-ar fi să cad în nesimțire,
+Va apărea lângă mine Isus
+Și m-a întreba-n susur blând și subțire:
+„
+Ce faci tu, frate? N-ai vrea să vii sus?” :/
+
+[v5]
+Mă voi scula atunci, plin de putere,
+Și voi zbura-mpreună cu Isus;
+Cu El de mână, m-oi plimba pe stele,
+În țara de cleștar, acolo sus.
+
+[v6]
+Acolo, fericirea s-a așterne;
+Nu vor mai fi dureri pe-al țării șes.
+Ultima lacrimă ce-o am pe gene
+Și-obrazul tot de plâns îmi va fi șters.
+
+[c5]
+/: Și-orice jignire, suferință, răni
+Vor fi uitate - parcă n-ar fi fost -
+Căci Dumnezeu va-mpărăți cu slavă
+Și, lângă El, voi fi la adăpost. :/

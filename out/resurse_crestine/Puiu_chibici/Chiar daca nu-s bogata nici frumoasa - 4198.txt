@@ -1,0 +1,35 @@
+[title]
+Chiar daca nu-s bogata nici frumoasa {author: {Puiu Chibici}, {rcId: {4198}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Chiar daca nu-s bogata nici frumoasa,
+Ci sint o sinmpla fata de pastor,
+Dar sint al Lui, a cerelui craiasa,
+Si Solomon ma mingiie cu dor.
+
+[c]
+/: Porumbita mea, o Sunamito,
+Mai rabda, plinge, asteapta-ma cu dor!
+S-apropie rapirea, o iubito!
+Si ne vom intilni curind pe nori! :/
+
+[v2]
+Chiar daca rideti, fete moabite,
+De arsa-am fata, totusi voi cinta,
+Cind soarele va fi pe asfintite,
+De arsita si lacrimi voi uita!
+
+[v3]
+Chiar daca alte fete isi pateaza
+Vesmintul alb curat de porumbel,
+Iubita ta te-asteapta si vegheaza,
+Si dorul ei e numai pentru El.
+
+[v4]
+Chiar daca valurile se ridica
+Dorind sa stinga-al dragostei foc sfint,
+Eu nu ma clatin si nu stiu de frica!
+Iubirea sfarma-al mortii greu mormint!

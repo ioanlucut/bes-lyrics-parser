@@ -1,0 +1,61 @@
+[title]
+Strigat mut {author: {Dincolo De Ziduri}, {rcId: {177593}}
+
+[sequence]
+v1,c,v2,c,c,e
+
+[v1]
+Strig adânc
+Deși n-am glas
+Micuț cum sunt
+Crezi că nu te simt?
+Vrei să zdrobești
+Un om, o ființă plăpândă?
+De nu sunt om
+Totuși eu ce sunt?
+
+[c]
+Vreau să trăiesc, să te iubesc
+Să-ți mângâi inima când plângi
+Să râd, să zâmbesc
+Pe brațe să-ți cresc
+Eu strig, dar tu nu vrei
+Să auzi!
+Vreau să traiesc, să te iubesc
+Să-ți mângâi inima când plângi
+Să râd, să zâmbesc
+Pe brațe să-ți cresc
+Eu strig, dar tu nu vrei
+Să m-auzi! /x2
+Vreau să traiesc, să te iubesc
+Să-ți mângâi inima când plângi
+Să râd, să zâmbesc
+Pe brațe să-ți cresc
+Eu strig, dar tu nu vrei
+Să m-auzi!
+
+[v2]
+Ființa mea
+E fără apărare
+Mi-e frică... mă poți zdrobi tu
+Cu atâta nepăsare?
+Strig din nou
+Oare cine m-aude?
+Rămân un strigăt mut
+Printre milioane.
+
+[b]
+Ai făcut din pântecul tău de viață
+O cameră a morții fără speranță
+Acest pântec mi-e mormânt acum
+Nu știu unde să mă duc,
+Nu știu unde să mai fug
+Atunci când fierul îmi va străpunge pieptul
+Zdrobindu-mi os cu os de rămân doar resturi
+Eu voi fi plecat în cerul luminos
+Dar voi fi apărat de Cel
+Ce m-a creat în chip frumos.
+
+[e]
+Eu strig, dar tu nu vrei să auzi
+Vreau să trăiesc.

@@ -1,0 +1,45 @@
+[title]
+Asteptand fericita nadejde {author: {Otniel Stirb}, {rcId: {176970}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Se-mplinesc ale Tale cuvinte
+Ce-n Scripturi, Doamne, Tu le-ai lăsat,
+Azi vedem ce ne-ai spus dinainte,
+Omenirea de Tine-a uitat!
+Tot mai mult ești respins azi, Isuse,
+Ca și-atunci când ai fost pe Pământ,
+Dar în taină, în inimi ascunse,
+Arde-un dor să revii mai curând!
+
+[c]
+/: Așteptând fericita nădejde,
+Doamne, știm că-ntr-o zi vei veni
+Și de-aici, din amar și durere,
+Sus la Tine Tu ne vei răpi!
+Ce măreață, sublimă cântare,
+Zarea-ntreagă atunci va umplea,
+Când al nost’ Mire sfânt va apare,
+Ne va șterge din ochi lacrima! :/
+
+[v2]
+Pe Pământ răutatea domnește,
+Tot mai mult dragostea s-a răcit,
+Azi Cuvântul Tău sfânt se-mplinește,
+E aproape-al robiei sfârșit!
+În curând va veni judecata
+Pentru lumea ce zace-n păcat,
+Dar Mireasa așteaptă răsplata,
+Vino, Doamne, că ne-am săturat!
+
+[v3]
+Așteptăm ziua aceea, Isuse,
+Când în corul ceresc vom cânta!
+Ce splendori, ce momente nespuse,
+Când Mireasa spre Cer va zbura!
+Pân-atunci, Doamne, ascultă-ne glasul
+Și grăbește-Ți venirea pe nori,
+Întărește credința și pasul
+Să vegehem așteptând până-n zori!

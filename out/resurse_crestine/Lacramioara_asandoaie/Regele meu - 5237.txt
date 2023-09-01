@@ -1,0 +1,37 @@
+[title]
+Regele meu {author: {Lăcrămioara Asăndoaie}, {rcId: {5237}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Ești Dumnezeul meu pe Tine eu te caut
+Îmi însetează sufletul de dor
+Bunătatea Ta îmi copleșește viața
+De acea eu te laud și te ador.
+
+[c]
+/: Tu ești Regele meu
+Pe Tine eu te caut
+Și te doresc mereu. :/
+
+[v2]
+Ești Ajutorul meu
+Mereu ești lângă mine
+La umbra aripilor Tale stau
+Ca un copilaș, stau lipit de Tine
+De brațul Tău de El sunt ocrotit.
+
+[v3]
+Ca un pământ setos
+De roua dimineții
+Ca o vindecare te doresc
+Ca un vis frumos
+Ce gândul rău alungă
+Și-n așternut la Tine mă gândesc.
+
+[e]
+Stânca puterii mele
+Locul meu de adăpost
+Fericirea vieții mele
+Bucuria mea în tot.

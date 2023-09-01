@@ -1,0 +1,17 @@
+[title]
+Psalmul {author: {Ilie Neagu}, {rcId: {153099}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+Fie Numele Domnului binecuvântat
+De acum și până-n veac
+De la răsăritul soarelui
+Până la apusul lui
+Fie lăudat Numele Domnului
+
+[c]
+/: Lăudați pe Domnul
+Lăudați Numele Domnului :/ x3
+Numele Lui. :/

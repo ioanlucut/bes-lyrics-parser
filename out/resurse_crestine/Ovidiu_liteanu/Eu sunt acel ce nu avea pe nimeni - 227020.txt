@@ -1,0 +1,41 @@
+[title]
+Eu sunt acel ce nu avea pe nimeni {author: {Ovidiu Liteanu}, {rcId: {227020}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Eu sunt acel ce nu avea pe nimeni,
+Atunci când la Betesda sufeream,
+/: Pe patul meu, bolnav de multă vreme
+Speranță de mai bine nu aveam :/
+
+[v2]
+Zăceam plângând acolo, la pridvoare,
+De-atâția ani de toți cei dragi uitat,
+/: Aș fi intrat la tulburarea apei
+Să fiu și eu de boală vindecat :/
+
+[v3]
+Dar cine oare să mă bage-n apă,
+Eram de toată lumea ocolit,
+/: Că nici doi bani nu s-ar fi dat pe mine
+O cât de mult aveam de suferit :/
+
+[v4]
+Dar într-o zi Un Om veni la mine
+El m-a privit cu milă și mi-a spus
+/: M-a întrebat de vreau să mă fac bine
+O, Doamne n-am pe nimeni I-am răspuns... :/
+
+[v5]
+Scoală-te, mi-a zis atunci Străinul,
+Ridică-ți patul, umblă, mi-a mai spus,
+/: Îndată, sănătatea mă cuprinse
+Și pe picioare iată am ajuns :/
+
+[v6]
+Iar dup-aceea m-a găsit în Templu,
+Acel Străin și mi-a vorbit duios,
+/: M-a sfătuit să nu mai fac păcate
+Și am aflat că e ISUS Hristos! :/

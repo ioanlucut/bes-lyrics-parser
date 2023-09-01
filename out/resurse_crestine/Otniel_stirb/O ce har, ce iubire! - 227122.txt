@@ -1,0 +1,40 @@
+[title]
+O ce har ce iubire {author: {Otniel Stirb}, {rcId: {227122}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: O ce har, ce iubire! :/
+La Golgota-n Isus ni s-a dat
+/: Căci prin El mântuire :/
+Și izvor de viață am aflat
+
+[c]
+O ce har, ce minune
+Să te știi mântuit
+Prin credință poți spune:
+”
+Sunt acum izbăvit!”
+Cea mai mare iubire
+Pentru noi s-a-ntrupat
+Scump e prețul salvării
+Ce-n Isus ne-a fost dat
+
+[v2]
+/: Minunată salvare :/
+Prin Isus poți să fii mântuit
+/: El e prețul pe care :/
+Pentru noi Dumnezeu l-a plătit
+
+[v3]
+/: Nu-i departe de tine :/
+Harul Sfânt ce te poate salva
+/: El e-aproape de-oricine :/
+Vino azi la Isus nu mai sta
+
+[v4]
+/: Nu e mult și revine :/
+Să-și răpească Mireasa la cer
+/: Cel ce-a plâns în grădină :/
+Pentru noi într-o noapte stingher

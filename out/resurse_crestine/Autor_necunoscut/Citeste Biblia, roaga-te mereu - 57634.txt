@@ -1,0 +1,21 @@
+[title]
+Citeste biblia roaga-te mereu {author: {Anonim}, {rcId: {57634}}
+
+[sequence]
+v1,v2
+
+[v1]
+Citește Biblia, roagă-te mereu
+/: Roagă-te mereu. :/
+Citește Biblia, roagă-te mereu,
+/: Dacă vrei să crești. :/ (3x)
+Citește Biblia, roagă-te mereu,
+Dacă vrei să crești.
+
+[v2]
+Isus te va duce sus în cer
+/: Acolo sus în cer :/
+Isus te va duce sus in cer
+/: Dacă vrei să crești. :/ (3x)
+Isus te va duce sus în cer
+Dacă vrei să crești.

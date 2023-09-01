@@ -1,0 +1,33 @@
+[title]
+Daca-ti este greu in viata {author: {Mihail Cebotarev}, {rcId: {7141}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Dacă-ți este greu în viață
+Și sufletul ți-e întristat
+Cere-i lui Isus povață
+Și atunci vei fi mângâiat.
+
+[c]
+/: Cine la nevoi ne-ajută?
+E Isus, e Isus.
+Cine ne dă pace-n suflet?
+E Isus, e Isus.
+Cine ne-a dat fericire?
+Da Isus. Da Isus.
+Cine ne-a dat mântuire?
+Da Isus. Da Isus :/
+
+[v2]
+Pentru tine la Golgota
+Crucea grea a suferit
+Cununa de spini purtat-a
+De iad să fii izbăvit.
+
+[v3]
+Stă la ușa ta și bate
+Cu iubire al tău Păstor
+Azi deschide-i pân’se poate
+Bunului Mântuitor.

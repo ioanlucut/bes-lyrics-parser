@@ -1,0 +1,28 @@
+[title]
+Duh producator de roade {author: {A.Thomson}, {rcId: {3897}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Duh producator de roade, veseleste-mi inima
+Toarna-n mine tot mai multe, roade din iubirea Ta
+Pace, bucuri rabdare, orice dar dumnezeiesc
+Bogatiile nenumarate doar la Tine le gasesc.
+
+[c]
+Bucuros, eu merg in lupata
+Imbracat cu-a Ta iubire
+Lupt far de sovaire
+
+[v2]
+Ratacit-am in pacate, iar cand Tu mai chemat
+Inima mea azi tresalta, de iertarea ce i-ai dat
+Ma ajuta ca pe altii, eu de-acum sa-i mantuiesc
+Sa-i conduc la Tine Doamne, Fiule Dumnezesc
+
+[v3]
+Da-mi din rodul bucuriei, ce preface noaptea-n zi
+Ca prin el sa cant eu Doamne, in furtuni si-n vijeli
+Cand indurerat ma aflu, prieteni de mo-r lasa
+Toarna-n mine tot mai multe, roade din iubirea Ta

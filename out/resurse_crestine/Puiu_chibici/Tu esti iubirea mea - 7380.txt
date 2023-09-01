@@ -1,0 +1,36 @@
+[title]
+Tu esti iubirea mea {author: {Puiu Chibici}, {rcId: {7380}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Tu n-ai sub soare asemănare
+Ești necuprins ești nemărginit
+Privirea-Ți blândă e o splendoare
+Pe drept Isuse, Tu ești iubit.
+
+[c]
+/: Tu ești iubirea mea
+Tu-mi ești comoara vieții
+Soarele meu frumos
+Din zorii dimineții! :/
+
+[v2]
+Îți cântă marea, îți cântă cerul
+Și mii de astre, în a lor mers
+Căci Tu ești calea și adevărul
+Ești Cel mai Frumos din univers!
+
+[v3]
+Tu ești iubire, neprihănire
+’
+Natale buze îi-un râu de har
+Tu locuiești sus în strălucire
+Tu ești Cel mai scump mărgăritar!
+
+[v4]
+Ești sprijin tare, în încercare
+Ești ușurare în ceasul greu
+În strâmtorare, turn de scăpare
+Din veșnicie ești Dumnezeu!

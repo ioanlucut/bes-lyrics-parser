@@ -1,0 +1,37 @@
+[title]
+In cer s-a nascut fericirea {author: {Nicolae Moldoveanu}, {rcId: {5273}}
+
+[sequence]
+v1,c,v2,c,v3,c,v3,c2
+
+[v1]
+In cer s-a nascut fericirea,
+/: În cer. :/
+Tot acolo s-a nascut si iubirea,
+/: În cer. :/
+
+[c]
+/: Melodii, melodii,
+Sfinte melodii
+Sunt in cerul minunat. :/
+
+[v2]
+Dar aici fericirea-i de-o clipa,
+/: E de-o clipa, :/
+Iar in ceruri ea este vesnica,
+/: E vesnica. :/
+
+[v3]
+Nu uita ca Hristos, din cer,
+/: Din cer, :/
+Ti-a adus fericirea din cer,
+/: Din cer. :/
+Daca vrei sa canti in cor minunat,
+/: in cer, :/
+Fa ce Domnul tie ti-a ordonat,
+/: Prin Scripturi. :/
+
+[c2]
+/: Si atunci melodii,
+Sfinte melodii,
+Vei canta-n cor minunat. :/

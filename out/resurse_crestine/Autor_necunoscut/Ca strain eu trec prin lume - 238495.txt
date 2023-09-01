@@ -1,0 +1,29 @@
+[title]
+Ca strain eu trec prin lume {author: {Anonim}, {rcId: {238495}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ca străin eu trec prin lume
+Înconjurat de dușmani
+Mai pe sus de cer cu stele
+Mi-am aflat Patria mea
+
+[c]
+Acolo e țara mea, acolo e Patria
+Acolo e Tatăl meu, și toată familia
+Ei sunt cu toții în Patria lor
+Iar eu pe lume sunt călător
+
+[v2]
+Moartea-aici mă urmărește
+Printre cei ce mă urăsc
+Acolo viața m-așteaptă
+Printre cei ce mă iubesc
+
+[v3]
+Aici ură-i, răutate
+Fiul care hulește
+Acolo-i numai iubire
+Fiindcă-i Patria din cer

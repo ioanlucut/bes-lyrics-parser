@@ -1,0 +1,23 @@
+[title]
+As vrea sa zbor {author: {Ilie Neagu}, {rcId: {87005}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Privesc în sus spre ceruri și mă gândesc cu atâta dor
+Și-n ochii mei zăresc o țară plină de farmec și splendori :/
+
+[c]
+/: Aș vrea să zbor mai sus de nori
+Aș vrea să zbor mai sus de zări
+Aș vrea să zbor spre-acele țărmuri
+Să uit de tot ce-I trecător :/
+
+[v2]
+/: Mi-e dor de-o voce caldă s-o simt mereu cu mine
+Mi-e dor de-acele clipe nedespărțit să fiu de Tine :/
+
+[v3]
+/: Tânjesc după acea țară și după Tine, prinț al păcii
+Dar știu că nu mai e mult până în cetatea dimineții :/

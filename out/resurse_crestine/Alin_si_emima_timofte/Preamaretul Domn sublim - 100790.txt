@@ -1,0 +1,27 @@
+[title]
+Preamaretul domn sublim {author: {Alin și Emima Timofte}, {rcId: {100790}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Într-un staul printre de vite stă fecioara Maria
+Chipul Domnului din ceruri se-află-n iesle lângă ea
+Este întruparea gloriei și al harului divin
+El din ceruri coborât-a, preamărețul Domn sublim
+A venit să mântuiască și să schimbe apa-n vin
+Pe cei orbi chiar și leproșii El i-a vindecat deplin
+Lăudat să fie Domnul pentru-nțelepciunea Sa
+Căci vorbit-a omenirii prin mărețul Domn sublim.
+
+[c]
+Aleluia, aleluia, aleluia, preamaretul Domn sublim
+
+[v2]
+El, Hristosul suferit-a pentru-al nostru greu păcat
+Curățit în al Lui sânge, de păcate am scăpat
+Lăudați-L, dați-I glorie pentru harul Său divin
+Haideți toți să îl primim azi pe mărețul Domn sublim
+
+[e]
+/: Glorie, aleluia :/×7

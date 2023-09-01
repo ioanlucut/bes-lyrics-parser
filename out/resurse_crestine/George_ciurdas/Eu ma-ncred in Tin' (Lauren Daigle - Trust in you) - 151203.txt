@@ -1,0 +1,45 @@
+[title]
+Eu ma-ncred in tin (lauren daigle - trust in you) {author: {George Ciurdas}, {rcId: {151203}}
+
+[sequence]
+v1,c,v2,c,c,e
+
+[v1]
+Renunțând la orice vis al meu
+La picioare Ți-l pun, Domnul meu
+Nici un moment al meu de rătăciri
+Nu Te-a schimbat, la fel mă vei privi.
+Mărturisesc, am vrut singur să lupt
+Am obosit, odihnă-n Tine caut
+Măreț războinic, Rege neînfricat
+Prin orice-aș trece ești de partea mea.
+
+[c]
+Când munții nu se mută, ajută-mă să-i urc
+Când marea-mi stă în față, ajută-mă s-o-nfrunt
+Când Tu nu-mi dai răspunsul ce-n rugă Ți-am cerut
+Eu mă-ncred, eu mă-ncred, eu mă-ncred in Tin’!
+Când munții nu se mută, ajută-mă să-i urc
+Când marea-mi stă în față, ajută-mă s-o-nfrunt
+Când Tu nu-mi dai răspunsul ce-n rugă Ți-am cerut
+Eu mă-ncred, eu mă-ncred, eu mă-ncred in Tin’,
+Eu mă-ncred in Tin’!
+Când munții nu se mută, ajută-mă să-i urc
+Când marea-mi stă în față, ajută-mă s-o-nfrunt
+Când Tu nu-mi dai răspunsul ce-n rugă Ți-am cerut
+Eu mă-ncred, eu mă-ncred, eu mă-ncred in Tin’!
+
+[v2]
+E-adevărat, Tu știi ce va veni
+Nu ții nimic ascuns din ce va fi
+Prin toate fii al meu sfătuitor
+Nu vreau nimic mai mult, ești în control.
+
+[b]
+Tu ești a mea tărie, odihnă Tu îmi ești
+Ești brațul cel puternic, stâncă-n furtună ești
+Căile Tale-s sfinte, planul Tău e perfect
+Nu e vreun loc în care, s-ajung și Tu nu ești.
+
+[e]
+Eu mă-ncred in Tin’, eu mă-ncred in Tin’, eu mă-ncred in Tin’!

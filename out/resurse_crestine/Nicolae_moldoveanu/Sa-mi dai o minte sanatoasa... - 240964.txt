@@ -1,0 +1,47 @@
+[title]
+Sa-mi dai o minte sanatoasa {author: {Nicolae Moldoveanu}, {rcId: {240964}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c3
+
+[v1]
+Să-mi dai o minte sănătoasă,
+Părinte-Ți cer cu stăruință,
+Ca voia Ta cea luminoasă,
+S-o înțeleg cu ușurință.
+
+[c]
+Să-mi dai puteri și har mai mare
+Să pot urma întotdeauna,
+A adevărului cărare,
+Să nu mai pot urma minciuna!
+
+[v2]
+Să-mi dai iubire mai fierbinte,
+De Cer, de frați s-alerg ca vântul
+Spre Ținta ce mi-ai pus ’nainte,
+Să nu mai pot iubi pământul!
+
+[c2]
+Să-mi dai prin Duhul Sfânt dorință,
+S-ascult Cuvântul care-L sameni,
+Și-apoi trăindu-l cu credință,
+Să nu mai pot s-ascult de oameni!
+
+[v3]
+Să-mi dai oricând statornicie,
+În lupta sfântă și curată,
+Și biruind cu bărbăție,
+Să nu mai pot cădea vreodată!
+
+[c3]
+C-atuncea pot s-ascult de Tine
+Călcând pe urma voii Tale,
+Când nu ascult de voci străine,
+Când nu pășesc pe altă cale!
+
+[v4]
+Și-atunci primesc din plin iubire,
+Când nu iubesc a lumii viață,
+Pe-aripi de har și fericire,
+Zoresc spre alba Dimineață.

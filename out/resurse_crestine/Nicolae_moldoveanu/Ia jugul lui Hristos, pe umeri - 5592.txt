@@ -1,0 +1,41 @@
+[title]
+Ia jugul lui hristos pe umeri {author: {Nicolae Moldoveanu}, {rcId: {5592}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Ia jugul lui Hristos pe umeri
+Si trage lângă el arând
+Chiar dacă semeni numai lacrimi
+Și umbli numai suspinând
+
+[c]
+/: Hristos cel sfânt te va cunoaște
+In saracie nu-n belsug
+Căci mulți au stat cu el la mese
+Dar prea puțini au tras la jug :/
+
+[v2]
+Ia sarcina și-o du alături
+Si simte apăsând din greu
+Cum ai răspunde-atuncia singur
+De tot ce are Dumnezeu
+
+[c2]
+/: Hristos cel sfânt te va cunoaște
+Odată-n cerul Lui de sus
+Nu după haina ce-ai purtat-o
+Ci după sarcina ce-ai dus :/
+
+[v3]
+Ia-ti crucea ta și-o du alături
+Trăind si mulțumind ca El
+Iubește, roagă-te și rabdă
+Urmând Dumnezeescul tel.
+
+[c3]
+/: Hristos cel sfânt te va cunoaște
+Nu după numele cel spui
+Ci după ranele-i purtate
+Sub crucea ta, sub crucea Lui :/

@@ -1,0 +1,29 @@
+[title]
+Vrem trezire {author: {Matt Redman}, {rcId: {2458}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Fața Ta, o, Doamne o căutăm,
+Pentru-a noastră țară ne rugăm,
+Trezește-ne, o, Doamne, inima
+Și toți din jur pe Tin’ Te vor vedea.
+
+[c]
+/: Înălțăm numele Tău,
+În unitate ne-nchinăm,
+Laudele vor răsuna, :/
+/: Țara o vei transforma! :/
+
+[v2]
+Niciodată nu vom da ’napoi,
+Cu credință noi înaintăm,
+Când, cu lacrimi, noi vom semăna,
+Recoltă din belșug vom secera.
+
+[v3]
+/: Vrem trezire,
+Vrem trezire,
+Vrem trezire
+În noi. :/ x3

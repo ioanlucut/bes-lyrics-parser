@@ -1,0 +1,37 @@
+[title]
+Cine a crezut ? {author: {Sami Lupu}, {rcId: {223876}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+De ce-ai ales să Te naști în ieslea săracă,
+De ce-ai ales să cobori în grajd între oi?
+De ce-ai lăsat slava Ta, splendoare curată,
+De ce-ai venit să pășești prin praf și noroi?
+
+[c]
+Cine-a crezut că un Rege
+Se va naște într-o iesle
+Și cine-a crezut că ești Fiu
+De Dumnezeu
+Și azi mulți încearcă să nege
+Spunând că-i doar o poveste,
+Dar noi ne-nchinăm
+Tu ești Împărat în veci!
+
+[v2]
+De ce-ai venit pe pământ să guști Tu amarul?
+De ce ai plâns pentru noi, copil Împărat?
+De ce-ai lăsat slava Ta alegând calvarul?
+De ce-ai venit pe pământ atât de sărac?
+
+[e]
+Tu ești Hristosul Mesia,
+Tu ești Creatorul lumii!
+Din Tine, prin Tine sunt
+Toate-n Univers!
+/: Tu ai lăsat toată slava
+De pe străzile luminii
+Să cobori într-o iesle săracă,
+Ai ales. :/

@@ -1,0 +1,40 @@
+[title]
+Un tata si-un fiu (like father like son) {author: {James, Jeff Easter, Traducere RO}, {rcId: {151338}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,s,c
+
+[c]
+Un tată și-un fiu
+Merg pe drum amândoi
+Doi prieteni nedespărțiți
+Un tată și-un fiu.
+
+[v1]
+M-ai învățat să râd
+O floare cum s-o ud
+Pe cei din jur să-i prețuiesc
+Oricând să îi iubesc;
+M-ai învățat s-ascult mult
+De Domnul și-a lui Cuvânt
+În rugă să Îi vorbesc
+Și mereu să Îl slăvesc.
+
+[v2]
+Când nu te-am ascultat
+O, cum te-am întristat
+Eu am urmat un drum străin
+Plin de dureri și chin;
+Dar m-ai iubit așa mult
+Cu lacrimi pe-acest pământ
+Iertarea să o primesc
+Pacea să o găsesc.
+
+[v3]
+În ziua încercării
+În lupta fără puteri
+La Domnul am apelat
+Și izbândă ne-a dat.
+
+[s]
+Și s-a sculat și a plecat la tatăl său. Când era înca departe, tatăl său l-a văzut și i s-a făcut milă de el, a alergat de a căzut pe grumazul lui și l-a sărutat mult. Luca 15:20

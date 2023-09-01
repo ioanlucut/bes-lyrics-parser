@@ -1,0 +1,29 @@
+[title]
+Ajuta-ma doamne pe mine si ma condu la tine {author: {Anonim}, {rcId: {80565}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Ajută-mă, Doamne, pe mine și mă condu la Tine!
+Ce frumos va fi în cer, unde vreau s-ajung și eu,
+Unde n-or mai fi dureri, ci eterne mângâieri.
+
+[c]
+Ce glorie, ce frumusețe este-n jur de tronul Lui!
+Splendoarea aceea măreață nimeni s-o descrie nu-i.
+/: Lipsă-acolo nu-i de soare, noapte acolo nicicând nu-i,
+Cântă toți sfinții-n splendoare, glorie fie Mielului! :/
+/: Cântă îngeri din chitare, cântă mii de heruvimi,
+Nu-nțeleg a lor cântare, numai cei din înălțimi. :/
+Ce durere, ce-ntristare atunci se va arăta,
+Când cei răi merg în pierzare, drepții-n lumină vor sta.
+/: Ei acolo nu duc lipsă, nici dureri acolo nu-s,
+Că Domnul le dă de toate și-or sta-n jur de tronul. :/
+/: Cântări frumoase și imnuri vor cânta cu toții-n cor,
+Că El i-a scăpat de chinuri, dându-le lor mângâieri. :/
+
+[v2]
+Ajută-mă, Doamne, pe mine în bucurii la Tine,
+Când poporul s-a răpi, soarele va răsări,
+Sub aripi scutire-a fi pentru cei ce-L vor iubi.

@@ -1,0 +1,31 @@
+[title]
+Sarbatoare minunata veste binecuvantata {author: {Nicu Drăghici}, {rcId: {194643}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Sărbătoare minunată,
+Veste binecuvântată.
+Se aude sus din cer,
+S-a născut Emanuel.
+
+[c]
+/: E sărbătoarea regelui,
+Cânta oștirea cerului,
+S-a născut Isus Mesia.
+Eu l-am primit în viața mea,
+El mi-a adus mântuirea,
+Glorie, Glorie, Aleluia! :/
+
+[v2]
+Îngeri plini de bucurie,
+Vestea bună au adus,
+La păstorii din câmpie
+S-a născut pruncul Isus!
+
+[v3]
+Și noi astăzi vă aducem,
+Vestea bună tuturor,
+S-a născut în Betleem,
+A lumii mântuitor!

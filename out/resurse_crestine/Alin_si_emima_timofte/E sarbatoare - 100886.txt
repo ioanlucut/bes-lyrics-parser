@@ -1,0 +1,33 @@
+[title]
+E sarbatoare {author: {Alin și Emima Timofte}, {rcId: {100886}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+E sărbătoare, și tu ce-ai făcut?
+Un an se încheie, e-un nou început.
+Să ai fericire, să ai bucurii,
+Mereu lângă Domnul, aproape să fii.
+Iar Domnul să-ți fie, al tău veșnic scut
+Să mergi prin credință, să-I fii plăcut.
+
+[c]
+Da, e sărbătoare, și pentru cel slab,
+Și pentru cel tare, bogat sau sărac.
+Noi știm, fericirea, o da Dumnezeu,
+E zâmbet în glorie, e zâmbet și-n greu.
+Iar Domnul să-ți fie, al tău veșnic scut,
+Să mergi prin credință, să-i fii Lui plăcut.
+
+[v2]
+Da, e sărbătoare, iar noi ce-am făcut ?
+I-am dat Lui onoare, sau cui am plăcut ?
+Am stat lângă Domnul, va zice: e drept,
+Suntem noi buni oare, sau mai înțelepți ?
+Iar Domnul să-ți fie al tău veșnic scut,
+Să mergi prin credință, să-I fii lui plăcut.
+
+[e]
+Da e sărbătoare, i-ar noi ce-am făcut?
+Un an se încheie, un nou început.

@@ -1,0 +1,26 @@
+[title]
+Sarbatorim pe cel ce e vrednic {author: {Andrei și Eliza Roșu}, {rcId: {182942}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+/: S-a născut Hristos Mesia,
+Cu îngerii toți cântăm osana,
+Sărbătorim pe Cel ce e vrednic. :/
+
+[v1]
+A fost vestit cu mult în urmă,
+Că se va naște Hristos Mesia,
+Mântuitorul omenirii întregi.
+El a adus speranță în lume
+Și orcine crede poate vedea
+Dragostea, bucuria, pacea.
+
+[v2]
+Ne bucurăm, cu toți colindăm
+Din casă în casă, o veste vă dăm,
+Isus Hristos astăzi s-a născut.
+El este vrednic de această serbare
+Îl recunoaștem cu onoare,
+Ni s-a născut Mântuitorul.

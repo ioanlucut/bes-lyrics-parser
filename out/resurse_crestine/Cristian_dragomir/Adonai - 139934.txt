@@ -1,0 +1,45 @@
+[title]
+Adonai {author: {Cristian Dragomir}, {rcId: {139934}}
+
+[sequence]
+v1,b,c,v2,b,c,c
+
+[v1]
+Stăpân peste veșnicii,
+Doamne în veci vei fi,
+Domn peste cer și pământ, Sfântul lui Israel,
+Vino-n puterea Ta,
+Îmbrăcat în onoarea Ta,
+Strigă acum inima: Vino, Rege, din nou!
+
+[b]
+Și orice ochi va vedea
+Strălucirea și gloria Ta.
+Și tot Sionul cântă:
+„
+Baruh Habab Eșer”.
+El e Domn peste-ntreg pământ! x4
+
+[c]
+Adonai, Adonai!
+Toți genunchii astăzi se vor pleca.
+Adonai, Adonai!
+Tu ești singurul Domn, iar noi vom striga: Adonai! Adonai!
+Adonai, Adonai!
+Toți genunchii astăzi se vor pleca.
+Adonai, Adonai!
+Tu ești singurul Domn, iar noi vom striga: Adonai!
+Adonai, Adonai!
+Toți genunchii astăzi se vor pleca,
+Adonai, Adonai!
+Tu ești singurul Domn, iar noi vom striga!
+Adonai, Adonai!
+Toți genunchii astăzi se vor pleca,
+Adonai, Adonai!
+Tu ești singurul Domn, iar noi vom striga: Adonai!
+
+[v2]
+În Ierusalim stăm,
+Laude-Ți înălțăm,
+Porți deschise avem,
+Ne e dor să revii.

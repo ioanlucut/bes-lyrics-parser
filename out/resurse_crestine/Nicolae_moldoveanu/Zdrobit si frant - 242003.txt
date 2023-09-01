@@ -1,0 +1,39 @@
+[title]
+Zdrobit si frant {author: {Nicolae Moldoveanu}, {rcId: {242003}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Zdrobit și frânt la Tine vin
+Mântuitorul meu,
+/: Tu vezi c-al șarpelui venin
+M-a copleșit din greu. :/
+
+[c]
+Doamne, Doamne
+Mila Ta o cer.
+
+[v2]
+Tu vezi că nici nu am cuvânt,
+Spre mine să Te chem,
+/: Ci-ntins cu fața Ia pământ,
+Mă frâng, și plâng, și gem! :/
+
+[v3]
+Vezi cum din sufletu-mi rănit
+Puterea mi s-a smult,
+/: Și-al remușcării foc cumplit
+Mă arde-adânc și mult. :/
+
+[v4]
+Tu vezi... și-n îndurarea Ta
+Ridică-mă din nou,
+/: Căci numai Tu-mi poți asculta
+Al plânsului ecou. :/
+
+[v5]
+Tu singur poți ca să-mi redai
+Al vindecării har,
+/: Și-n pacea dulcelui Tău rai
+Să mă ridici, Tu, iar!... :/

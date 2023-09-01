@@ -1,0 +1,46 @@
+[title]
+Inima mea {author: {Pavel Mariana, Florica}, {rcId: {6545}}
+
+[sequence]
+c,v1,v2,v3,v4,c2
+
+[c]
+Inima mea, inima mea,
+De ce vrei a uita
+De toată alinarea
+Și binecuvântarea
+Ce Dumnezeu ți-a dat,
+Atunci când L-ai chemat?
+
+[v1]
+Inima ne e-ntristată,
+Sufletul tânjește-n noi
+Ca grădina fără apă,
+Ca pomii de frunze goi.
+
+[v2]
+”
+Mâinile slăbănogite
+Și genunchii-I întăriți!
+Izbăviri sunt pregătite
+Și cu Domnul biruiți!
+
+[v3]
+Căci pustia fără apă
+În curând s-o bucura
+Dumnezeu e Cel ce-adăpă
+Pe toți cei din turma Sa.”
+
+[v4]
+Noi nădăjduim în Tine,
+Doamne, ai milă de noi
+Dă-ne iarăși izbăvire
+În necazuri și nevoi!
+
+[c2]
+Inima mea, inima mea,
+Nicicând nu va uita
+Toată îmbărbătarea
+Și toată alinarea
+Ce astăzi am primit,
+Căci El m-a izbăvit!

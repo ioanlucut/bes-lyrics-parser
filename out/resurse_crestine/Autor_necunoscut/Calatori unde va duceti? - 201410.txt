@@ -1,0 +1,47 @@
+[title]
+Calatori unde va duceti? {author: {Anonim}, {rcId: {201410}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+Călători unde vă duceți
+În mâini cu toiegele?
+/: Spre ce țară voi vreți să mergeți
+Răbdând ostenelile? :/
+
+[v2]
+Înspre țara mult dorită
+Noi cu toți ne îndreptăm
+/: Că ne-a fost făgăduită
+Dacă cuvântul păstrăm :/
+
+[v3]
+Dar nu vă este oare teamă
+Că voi sunteți puțini și slabi?
+/: E vre-un rege care vă cheamă
+De voi vă credeți așa bravi? :/
+
+[v4]
+Noi nu ne temem de nimica
+Că avem răscumpărător
+/: Noi nu știm ce este frica
+El ajuta tuturor :/
+
+[v5]
+Dragi călători ce vreți să cereți
+Să pot si eu intra în ea?
+/: Eu n-am o haină ca a voastră
+O, cine mi-ar putea-o da? :/
+
+[v6]
+Domnul Isus plătit-a prețul
+El spre cer îți este drum
+/: Și El te îmbracă în haină albă
+Vin la El o vino acum :/
+
+[v7]
+Dragi călători vă ascult chemarea
+Și vin cu voi pe-al vieții drum
+/: Primește-mă Isuse dulce
+Să fiu și eu al Tău de acum :/

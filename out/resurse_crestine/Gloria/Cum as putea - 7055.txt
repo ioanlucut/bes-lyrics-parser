@@ -1,0 +1,29 @@
+[title]
+Cum as putea {author: {gloria}, {rcId: {7055}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Azi privesc spre crucea Ta
+Si ma intreb: „
+Doamne,
+Cum ai acceptat sa mori in locul meu?”
+Nu stiu cum sa-Ti multumesc,
+Nu stiu cum sa Te slavesc
+Pentru dragostea Ta.
+
+[c]
+/: Cum as putea sa nu privesc la Golgota
+Cum as putea sa rasplatesc iubirea Ta
+Ai murit in locul meu sa am
+Viata vesnica. :/
+
+[v2]
+Azi privesc spre crucea Ta
+Si ma intreb: „
+Doamne,
+Cum ai acceptat sa mori in locul meu?”
+Nu stiu cum sa-Ti multumesc,
+Nu stiu cum sa Te slavesc
+Pentru dragostea Ta.

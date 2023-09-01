@@ -1,0 +1,41 @@
+[title]
+Regele vietii {author: {Johnny Daraban}, {rcId: {121481}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+Regele vieții m-a salvat
+De la moarte, din păcat,
+Mi-a arătat iubirea Sa,
+Prin jertfa de la Golgota.
+Din păcat și fărdelege,
+Brațul Domnului m-a scos
+Și m-a pus sub noua lege
+Jertfa Lui Isus Hristos.
+
+[c]
+Pentru dragostea de Tată,
+Astăzi vin să-Ți mulțumesc,
+Pentru jertfa minunată,
+Mă aplec și-ngenunchez.
+Te lăudăm pe Tine, Doamne,
+Căci păcatul ne-ai iertat
+Și ne-ai dat o viață nouă,
+Să fim fii de Împărat.
+
+[v2]
+Nu am merit și nici fapte,
+Am doar viața ce mi-ai dat,
+Ți-o aduc acum, Isuse,
+Te proclam ca împărat.
+Pune Tu în mine, Doamne,
+Duhul Tău să înțeleg
+Dragostea Ta nepătrunsă,
+Arătată-n Golgota.
+
+[b]
+Veniți să-I cântăm Aleluia
+Acelui ce viața și-a dat,
+Căci jertfa Domnului nostru
+Cu Tatăl ceresc ne-a mpăcat.

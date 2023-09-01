@@ -1,0 +1,36 @@
+[title]
+Sus pe cer o stea se-arata {author: {Valentin Tomșa}, {rcId: {157270}}
+
+[sequence]
+v1,c,v2,c2,c3
+
+[v1]
+Sus, pe cer, o stea se-arată,
+Celor trei magi din răsărit.
+/: Și ei și-au amintit de-odată,
+Ce de profeți s-a prevestit. :/
+
+[c]
+Unde este Împăratul?
+Pe Irod l-au întrebat,
+/: Căci steaua-i luminează cerul
+Și daruri încă nu I-am dat. :/
+
+[v2]
+Ne având atunci răspunsul,
+Ei tot steaua au urmat,
+/: Fiindcă doreau să vadă Pruncul,
+Căci ei știau ca e-mpărat. :/
+
+[c2]
+Când au ajuns magii la iesle,
+Cu fața la pământ s-au aruncat.
+/: Și-au deschis apoi visteriile,
+Aur, tămâie și smirnă I-au dat. :/
+
+[c3]
+Cântați voi, oameni, de bucurie,
+Căci Mesia S-a născut!
+/: Dar El, astăzi, este-n slăvi divine,
+Deci să-I cântam ’’
+Osana!’’ Mielului! :/

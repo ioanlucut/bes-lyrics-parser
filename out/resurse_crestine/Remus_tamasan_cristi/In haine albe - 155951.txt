@@ -1,0 +1,33 @@
+[title]
+In haine albe {author: {Remus Tămășan Cristi}, {rcId: {155951}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Dintr-o lume de păcate
+Noi la Tine acum venim
+Și cu hainele spălate
+Vrem de acum să Te slujim.
+
+[c]
+/: Îmbrăcați în haine albe
+Stăm în fața Ta, o, Doamne
+Și dorim să Te slujim
+Toată viața cât trăim. :/
+/: Îmbrăcați în haine albe
+Stăm în fața Ta, o, Doamne
+Și dorim să Te slujim
+Toată viața cât trăim. :/ x3
+
+[v2]
+Știm cu toții c-am greșit
+Și că merităm pedeapsa
+Însă Tu ne-ai mântuit
+Și ne-ai dat pe veci viața.
+
+[v3]
+Doamne noi acum dorim
+Să-Ți slujim în orice loc
+Chiar la moarte Te urmăm
+Nu ne-nspăimântăm deloc.

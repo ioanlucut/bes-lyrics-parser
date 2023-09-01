@@ -1,0 +1,29 @@
+[title]
+Isus m-a iubit (jesus loves even me) {author: {Philip P. Bliss, Traducere RO}, {rcId: {230891}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ce fericire, ce har minunat
+Domnul din ceruri, iubire mi-a dat;
+Ce frumusețe în El am găsit
+O, ce minune, Isus m-a iubit!
+
+[c]
+Sunt fericit, Isus m-a iubit
+Da, m-a iubit, m-a mântuit!
+Sunt fericit, Isus m-a iubit
+Domnul meu m-a iubit!
+
+[v2]
+Negura lumii când m-a-mpresurat
+Pe-o cale rea eu am alunecat;
+Chiar și atunci, Domnul meu m-a găsit
+O, ce minune, Isus m-a iubit!
+
+[v3]
+Laud pe Isus în cântecul meu
+Sfânta-I iubire mă-ncântă mereu;
+Cu El în ceruri voi fi fericit
+O, ce minune, Isus m-a iubit!

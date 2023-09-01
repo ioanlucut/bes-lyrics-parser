@@ -1,0 +1,47 @@
+[title]
+Nu va fi belsug de-a pururi {author: {Nicolae Moldoveanu}, {rcId: {4024}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Nu va fi belșug de-a pururi,
+Nici tot mesele-ncărcate,
+/: Vor veni și ani de lipsuri
+Și de căi întunecate! :/
+
+[c]
+/: Ce-i face-n suferință
+Dac-astăzi nu-ți aduni
+Răbdare prin credință
+Și har prin rugăciuni? :/
+
+[v2]
+Nu vor fi mereu părinții
+Să muncească și să strângă,
+/: Vine-o zi ca-n casa goală
+Singuri ochii tăi să plângă! :/
+
+[v3]
+Nu va fi tot libertate,
+Tot senin și sărbătoare,
+/: Vor veni și zile aspre
+Cu furtuni și cu-ncercare! :/
+
+[v4]
+Nu vor fi mereu tot alții
+Să îți poarte grija-n toate,
+/: În curând vei geme singur
+Sub întrega-ți greutate! :/
+
+[v5]
+Nu vei fi tot împreună
+Cu mulțimi și cu cântare,
+/: Vin și despărțiri pe lume,
+Sunt și pribegii amare! :/
+
+[v6]
+Nu vei fi mereu tot tânăr,
+Nici tot sănătos și bine...
+/: Ce vei face-atuncea dacă
+N-ai pe Dumnezeu cu tine? :/

@@ -1,0 +1,37 @@
+[title]
+Eu vin curandeu vin curand {author: {Otniel Stirb}, {rcId: {143083}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Eu vin curând, Eu vin curând
+Eu vin răsună-ntr-una
+Păstrează numai ce-ai primit
+Ca să nu-ți pierzi cununa.
+
+[c]
+La miez de noapte sau în zori
+El va apare sus pe nori
+Să-și cheme porumbița.
+Tu frate drag te-ai întrebat
+Dacă vei fi și tu chemat
+Cum stai cu pocăința?
+
+[v2]
+Adună-ți aur și argint
+Comori și bogăție
+Dar nu aici pe-acest Pământ
+Ci sus în veșnicie.
+
+[v3]
+De vei păzi Cuvântul Meu
+Cu râvnă și răbdare
+Te voi păzi în ceasul greu
+În ziua de-ncercare.
+
+[v4]
+Veniți cu toți, să ne grăbim
+Să facem fapte bune
+De lume să ne pocăim
+Că Domnul Isus vine!

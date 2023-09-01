@@ -1,0 +1,39 @@
+[title]
+Nu te-nchipui stapanul locului pe care stai {author: {Anonim}, {rcId: {175747}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Nu te-nchipui stăpânul
+Locului pe care stai,
+/: Va veni curând un altul
+Să-ți ia locul care-l ai. :/
+
+[c]
+Nu-ți lega inima ta,
+De nimic din lumea rea,
+Leag-o azi de veșnicie
+Și de-a Lui Împărăție!
+Vine Domnul în curând
+Să ne ia de pe Pământ,
+Sună ceasul revenirii,
+Este timpul pregătirii!
+
+[v2]
+Va veni-n curând răsplata
+După fapta orișicui,
+/: Ține seama de urmarea
+Gândului pe care-l pui! :/
+
+[v3]
+Va veni-n curând ruina
+Casei care ți-o zidești,
+/: Nu uita de locuința
+Care-o ai când nu mai ești! :/
+
+[v4]
+Va veni-n curând și clipa
+Întâlnirii cu Hristos,
+/: Fericit vei fi văzându-L
+Că te-așteaptă bucuros! :/

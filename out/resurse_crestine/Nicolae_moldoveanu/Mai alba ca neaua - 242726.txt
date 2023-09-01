@@ -1,0 +1,36 @@
+[title]
+Mai alba ca neaua {author: {Nicolae Moldoveanu}, {rcId: {242726}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Mai albă ca neaua-nsorită
+Să-ți fie mereu viața ta,
+/: Comoara de har fericită,
+S-o poată deplin arăta. :/
+
+[v2]
+Mai tare ca stânca de munte
+Să-ți fie credința oricând,
+/: Și vânturi și valuri să-nfrunte,
+Aceeași Solie purtând. :/
+
+[v3]
+Mai vie nădejdea, mai plină
+Să-ți fie în lupta cea grea,
+/: Și pacea adâncă, divină,
+În suflet adânc să ți-o dea. :/
+
+[v4]
+Mai mult decât soare
+Ie-n slavă
+Fierbinte iubirea s-o ai,
+/: Topindu-te-n sfânta ei lavă,
+Să poți tuturora s-o dai... :/
+
+[v5]
+Acestea-ți doresc preaiubite...
+- Și Domnul cel bun și-ndurat,
+să-ți dea mult mai mult... strălucite
+Și roade și har nesecat.

@@ -1,0 +1,29 @@
+[title]
+Pune-ti viata-n randuiala {author: {Lidia Gheorghe}, {rcId: {149769}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Pune-ți viața-n rânduială
+De vrei să lucrez cu tine.
+Vin’ la Mine cu sfială
+Ca să vin și Eu spre tine.
+
+[c]
+Iubire vreau, iubire-ți cer,
+Nu-i greu deloc, încearcă!
+Iubire vreau, iubire-ți cer,
+Nu-i greu deloc, încearcă!
+
+[v2]
+Fă un pas și Eu fac doi
+Și-ai să-ntâmpini bucurie.
+Nu te uita înapoi
+Ca să primești izbăvire.
+
+[c2]
+Iubire vrei, iubire-ți dau,
+Nu-i greu deloc, încearcă!
+Iubire vreau, iubire-ți cer,
+Nu-i greu deloc, încercă!

@@ -1,0 +1,30 @@
+[title]
+Tu esti tot {author: {Matt Redman}, {rcId: {82728}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+/: Tu ești tot ce eu pot sa sper
+Eu sunt tot ce pot să-ți ofer
+Tu-mplinești orice nevoie
+Mă iubești, iar tot ce-mi dai acum
+Îmi este de-ajuns :/
+
+[v1]
+Tu ești tot ce simt, tot ce respir
+Ești mai mult decât eu știu
+Tu ești darul meu, ce-L trăiesc mereu
+Ești mai mult decât eu știu
+
+[v2]
+Tu ești jertfa-n dar Cel mai mare har
+Ești mai mult decât eu știu
+Tu ești rege-n veci, vei veni sa domnești
+Ești mai mult decât eu știu
+
+[v3]
+Tu ești tot ce vreau Tu ești tot ce simt
+Ești mai mult decât pot să știu
+Tu ești tot ce am, tot ce pot sa-ți spun
+Ești mai mult decât știu

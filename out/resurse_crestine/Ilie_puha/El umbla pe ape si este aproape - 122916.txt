@@ -1,0 +1,36 @@
+[title]
+El umbla pe ape si este aproape {author: {Ilie Puha}, {rcId: {122916}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+El umblă pe ape și este aproape,
+Când valul izbește în corăbieri;
+Furtuna se-oprește când Domnu-i vorbește,
+Căci Domnul e-Același și astăzi și ieri.
+
+[c]
+O, voi preaiubiți călători prin vânturi, furtună și nori,
+Priviți spre lumina din zori,
+Căci vine pe ape Isus, Căci vine pe ape Isus;
+Curând vom ajunge la mal, trecând și furtună și val,
+Și-n ceruri, pe țărm de cristal, purta-vom cununa de sus.
+
+[v2]
+El este cu mine, El este cu tine,
+Furtuna când vine, când vin încercări;
+Corabia noastră pe ape o ține,
+Căci El potolește furtuna pe mări.
+
+[v3]
+Să nu ți se pară un vis sau nălucă,
+Când El poruncește pe ape să vii;
+Tu lasă corabia ta s-o conducă,
+Spre țărmuri de aur, cu zori argintii.
+
+[v4]
+Corabia noastră prin valuri albastre,
+Plutește într-una spre zori argintii;
+Prin val și furtună cu Domnu-mpreună,
+La țărmuri eterne, curând vom sosi.

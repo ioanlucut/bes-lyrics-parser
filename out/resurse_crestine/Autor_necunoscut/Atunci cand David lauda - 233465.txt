@@ -1,0 +1,33 @@
+[title]
+Atunci cand david lauda {author: {Anonim}, {rcId: {233465}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Atunci când David lăuda,
+Întreg văzduhul se bucura,
+Căci pacea din înalt venea în inimi.
+În acorduri calde sunet lin,
+Prindea contur al său cânt divin
+Un dulce dar puternic Aleluia!
+
+[c]
+/: Aleluia :/
+x4
+
+[v2]
+Credința Lui nu se-asemăna,
+Cu al nimănui altcineva
+Și totuși a gustat din rodul vinei,
+Cu duh zdrobit adânc plecat,
+Cu suflet trist, gândul zbuciumat
+Și-au strâns puteri să cânte Aleluia!
+
+[v3]
+Dumnezeu e neschimbat,
+Și vrednic de-a Fi lăudat.
+Când sufletul surâde sau când plânge,
+Când drumu-i drept și e luminat,
+Când ceru-i greu și-ntunecat,
+E demn să i Se cânte Aleluia!

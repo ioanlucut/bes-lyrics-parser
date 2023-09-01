@@ -1,0 +1,23 @@
+[title]
+Zboara timpul {author: {Gabi Ilut}, {rcId: {71299}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Zboară timpul, zboară anii, zboară mereu
+Parcă peste tot răsună: Tu ești Dumnezeu!
+Cu răbdare-aștepți și cauți roade în noi
+Vântul ce-a fost a lăsat pomii goi.
+
+[c]
+/: Cad toamna frunzele, frunzele
+Ne trezim că zboară-n grabă zilele
+Și rodul ce-a rămas, a rămas,
+E comoara ultimului ceas. :/
+
+[v2]
+Anul acesta de-ndurare va oferi,
+Șansă pentru fiecare, timpul ne-a rodi.
+Domnul nostru se-ngrijește zilnic de noi,
+Ce rod i-aducem în ziua de apoi.

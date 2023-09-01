@@ -1,0 +1,29 @@
+[title]
+Avem un dumnezeu adevarat {author: {Cornel Sava}, {rcId: {203892}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Avem un Dumnezeu adevărat,
+Avem un Tată ce nicicând nu ne-a lăsat,
+Avem în El mângâietor, avem ocrotitor,
+Nădejdea unui veșnic viitor.
+
+[c]
+/: Nu ne-am săturat de Tine Doamne,
+Mai trimite ploi de binecuvântări,
+Vrem ca slava Ta să se coboare,
+Prin Duh Sfânt în rugă si cântări. : \
+
+[v2]
+Avem un Dumnezeu adevărat,
+Avem un Tată ce pe Fiul Său a dat.
+Avem în El un Împărat, un Rege Prea Înalt,
+Un Miel ce mijlocește ne-ncetat.
+
+[v3]
+Avem un Dumnezeu adevărat,
+Avem un Tată ce de grija ne-a purtat,
+Avem în El vie speranță, în orice dimineată,
+El satură tot ce are viață.

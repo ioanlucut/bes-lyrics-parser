@@ -1,0 +1,46 @@
+[title]
+Cine mi-a adus lumina {author: {Anonim}, {rcId: {156337}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Cine mi-a adus lumina
+Mântuirii minunate,
+Și mi-a-mbogățit viața
+Cu comori nemăsurate
+
+[c]
+Numai Tu, numai Tu
+Numai Tu Isuse Doamne
+Numai Tu
+
+[v2]
+Cine crește-n mine zilnic
+Focul dragostei divine
+Cine necurmat mă suie
+De la bine spre mai bine.
+
+[v3]
+Cine-mi dă tărie-n lupta
+Prea curată a credinței.
+Cine mi-a sădit în suflet
+Prietenia cu toți sfinții.
+
+[v4]
+Cine mi-a gătit eterna
+Patrie prea fericită.
+Unde nu-s dureri nici lupte
+Nici iubire mărginită.
+
+[v5]
+Cine-n veacuri fără număr
+Cu cântări în sărbătoare.
+O să poarte-a mea ființă
+Dintr-un soare în alt soare.
+
+[v6]
+Tu prea scumpul meu Isuse
+În adânca-ți bunătate.
+Și-n iubirea-ți fără margini
+Mi-ai gătit acestea toate.

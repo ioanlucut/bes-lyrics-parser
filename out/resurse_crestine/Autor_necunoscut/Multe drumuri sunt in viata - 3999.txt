@@ -1,0 +1,29 @@
+[title]
+Multe drumuri sunt in viata {author: {Anonim}, {rcId: {3999}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Multe drumuri sunt în viață,
+Voi străbate să ajung
+La sfârșit să-mi cunosc drumul
+Veșniciei, cel mai lung.
+
+[c]
+/: Moartea nu ne înspăimântă,
+Nu ne e frică de ea,
+Ținta noastră e Golgota,
+Să străbatem pân’ la ea. :/
+
+[v2]
+Vrem ca s-ajungem acolo
+Unde n-or mai fi dureri,
+Unde L-om vedea pe Domnul
+În eternul unde-i El.
+
+[v3]
+Calea noastră e îngustă,
+Multe piedici sunt pe ea
+Știm că Domnul ne ajută
+Să-nvingem în lupta grea.

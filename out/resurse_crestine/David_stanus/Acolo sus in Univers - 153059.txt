@@ -1,0 +1,27 @@
+[title]
+Acolo sus in univers {author: {David Stănuș}, {rcId: {153059}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Acolo sus în Univers
+E Cineva ce mă iubește așa mult.
+E Dumnezeu, e Tatăl meu și prin Isus
+Doar El mi-a dat un început.
+
+[c]
+/: Aleluia, dragostea Lui m-a salvat!
+Aleluia, eu am un tată minunat! :/
+
+[v2]
+Ca un copil am învățat
+Din primii pași că-n mâna Lui eu sunt mereu.
+Sunt fericit, m-a mântuit
+Și laudă Îi cânt acum lui Dumnezeu.
+
+[v3]
+În casa Lui, cu frații mei
+Am învățat că Tatăl nostru este Sfânt.
+Prin rugăciuni și părtășii să mergem drept
+În ea Învățat al Său Cuvânt.

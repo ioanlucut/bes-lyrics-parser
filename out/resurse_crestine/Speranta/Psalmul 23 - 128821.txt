@@ -1,0 +1,30 @@
+[title]
+Psalmul {author: {Speranța}, {rcId: {128821}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Păstorul meu e Dumnezeu
+El mă conduce la pășune și izvor
+Sufletul îmi înviorează, inima îmi cercetează
+Al meu Păstor este Domnul Domnilor.
+
+[c]
+Fericirea și-ndurarea
+În orice zi mă vor însoți
+În toată vremea cât voi trăi
+În Casa Domnului voi locui.
+
+[v2]
+De voi umbla prin valea morții
+Nu mă tem de niciun rău
+Toiagul Tău mă îndrumă, în vreme rea sau vreme bună
+Peste mine reverși din Duhul Tău.
+
+[v3]
+El m-a salvat din pierzare
+M-a ridicat când eram căzut pe cale
+El mi-a șoptit ”
+Nu te teme, eu sunt cu tine în orice vreme
+De nimic nu te teme, fiu iubit!”

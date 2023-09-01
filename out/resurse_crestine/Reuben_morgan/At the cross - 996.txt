@@ -1,0 +1,38 @@
+[title]
+At the cross {author: {Reuben Morgan, Traducere RO}, {rcId: {996}}
+
+[sequence]
+v1,c,v2,b,c,v3,c
+
+[v1]
+Doamne Isuse, Tu mă cunoști
+Chiar și-atunci când greșesc
+Eu știu... mă iubești
+Cu-a Ta prezență mă înconjori
+Și-n orice vreme
+Eu știu... mă iubești
+Eu știu... mă iubești
+
+[c]
+Vin la cruce-ngenuchiat
+Unde viața Tu ți-ai dat
+Dragostea Ți-ai arătat
+Tu mormântu-ai biruit
+Slavă-n cer ai dobândit
+Viață-n dar ne-ai dăruit
+
+[v2]
+Tu mergi nainte, calea mi-arăți
+Pe brațul Tău stau
+Eu știu... mă iubești
+
+[b]
+Ai biruit
+Ceru-ai deschis
+Ce-ai promis s-a împlinit
+
+[v3]
+Și-atunci când lumea se va sfârși
+Cu Tine-n ceruri
+Pe veci voi trăi
+Căci Tu m-ai iubit

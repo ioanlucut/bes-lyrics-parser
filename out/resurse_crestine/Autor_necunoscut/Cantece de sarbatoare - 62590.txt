@@ -1,0 +1,22 @@
+[title]
+Cantece de sarbatoare {author: {Anonim}, {rcId: {62590}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+Cântece de sărbătoare
+Vom înălța doar Mielului Isus
+El va veni, Isus, El va Veni
+
+[v1]
+Vom privi la chipul Său
+Și lumina Lui
+Va străluci peste noi
+El va veni, Isus, El va veni
+
+[v2]
+Vom dansa pe străzi de aur
+În prezența Mirelui
+Vom fi veșnic împreună
+Cântând Lui Dumnezeu

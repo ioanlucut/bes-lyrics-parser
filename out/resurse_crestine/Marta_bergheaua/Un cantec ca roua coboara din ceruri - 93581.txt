@@ -1,0 +1,30 @@
+[title]
+Un cantec ca roua coboara din ceruri {author: {Marta Bergheaua}, {rcId: {93581}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Un cântec ca roua coboară din ceruri
+Și udă pamântul, natura mereu
+În cântec de păsări cu flori și parfumuri
+E numele sacru din cer, Dumnezeu.
+
+[c]
+Dumnezeu,
+Dumnezeu,
+Dumnezeu ce minunat
+Numele Tău, Numele Tău răsună în lung și-n lat
+Dumnezeu.
+
+[v2]
+Mărețe-universe cu stele și aster
+Cu-ntregi necuprinsuri de taine și vis
+Și îngerii-n ceruri în coruri mărețe
+Îl cântă pe-acela ce stă-n Paradis.
+
+[v3]
+Un cântec ca roua inundă pamântul
+Pe lunci și pe ape, pe munți și uscat
+În zi și în noapte mesajul iubirii
+Te caută și astăzi, tu nu-l refuza!

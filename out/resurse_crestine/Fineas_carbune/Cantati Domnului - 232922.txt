@@ -1,0 +1,36 @@
+[title]
+Cantati domnului {author: {Fineas Carbune}, {rcId: {232922}}
+
+[sequence]
+v1,c,v2,c,v3,b,c
+
+[v1]
+Voi lauda pe domnul
+Din toată inima mea
+Și voi spune tuturor de iubirea ta
+Voi preamari numele tău pt tot ce ai făcut
+Fi laudat Isus
+
+[c]
+Cântați Domnului cata vreme mai e har
+Și nu Uitați de bunătatea lui
+El înnoiește in viața ta in fiecare zi de zi
+Și dragostea lui nu se va sfarsi
+
+[v2]
+Voi lauda pe domnul căci el m-a iubit
+A dat pe singurul sau fiu ca sa fie răstignit
+Pt min un păcătos a murit Isus Hristos
+Sa fiu salvat iertat
+
+[v3]
+Voi lauda pe domnul pt harul lui bogat
+Cel revarasa in al meu suflet ca sa îl laud neîncetat
+Voi ridica mâna spre cer și voi proclama
+Iubirea ta in veci
+
+[b]
+El a spus el nu te va lasă
+A promis va fi de partea ta
+Zi de zi mereu te va înșoti
+Doar prin isus vei birui

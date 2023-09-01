@@ -1,0 +1,31 @@
+[title]
+La-acele tarmuri {author: {F.Venter}, {rcId: {1927}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+La-acele tarmuri, dincol’ de rau,
+O, ce frumoase locuri vad eu:
+Sfintii-n marire canta in cor,
+Ce minunat e cantecul lor!
+
+[c]
+”
+Vino acasa, la Domnul Tau!”
+A lor chemare suna mereu.
+”
+In stralucire esti asteptat,
+Vino degraba, fii mangaiat!”
+
+[v2]
+Ce bucurie cand intre sfinti
+Vor fi copiii langa parinti;
+Ce revedere in slava sus
+Cu Domnul vietii, Hristos Isus!
+
+[v3]
+O, tara scumpa, eu te doresc,
+Acolo unde toti ma iubesc,
+Eu am in tine loc pregatit
+Prin harul care m-a mantuit!

@@ -1,0 +1,39 @@
+[title]
+Cand rataceam nestiutor {author: {Anonim}, {rcId: {60408}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cand rataceam nestiutor
+Departe de blandul Pastor
+/: Cand eram trist si parasit
+Atunci un glas am auzit
+O, vino tu fiu ratacit :/
+
+[c]
+/: Isus :/ Tu-mi esti comoara cea de sus
+/: Isus :/ esti minunat si nepatruns
+Dar totusi Tu nu stai ascuns
+Ci vii la noi iubit Isus.
+
+[v2]
+Cand tot in jur se naruia
+Si cand povara era grea
+/: Atuncea Tu m-ai ajutat
+De mana si m-ai ridicat
+Isus, povara mi-ai luat :/
+
+[v3]
+Cand am trecut prin suferinti
+Si plangeam cu lacrimi fierbinti
+/: Tu mana bland pe fata mea
+Ti-ai pus si mi-ai sters lacrima
+Mi-ai aratat iubirea Ta :/
+
+[v4]
+Acuma sunt si eu salvat
+Prin sangele ce s-a varsat
+/: Nadejde am ca intr-o zi
+Cand Tu pe nori vei reveni
+Isus, Te voi reintalni :/

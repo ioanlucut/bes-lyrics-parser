@@ -1,0 +1,29 @@
+[title]
+Coboara maria {author: {George L}, {rcId: {6636}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Coboară Maria la vale cântând!
+Ulciorul îl duce cu apă.
+Din inima Ei izvorește un cânt!
+și ființa-i se umple de slavă.
+
+[c]
+/: Ce veste să fie în inima mea
+Se-ntreabă Maria mirată!
+Căci parcă în mine i-a ființă o stea,
+E Steaua, din lumea Preanaltă. :/
+
+[v2]
+Un fiu mi se naște aici pe pământ,
+Un fiu dintr-o lume divină.
+Al cerului taină El este un sfânt.
+Se naște s-aducă lumină.
+
+[v3]
+Așa se întâmplă cum mi s-a vorbit
+Despre-acest copil minunat!
+Voi fi eu o mamă copilului sfânt!
+în planul de sus am intrat.

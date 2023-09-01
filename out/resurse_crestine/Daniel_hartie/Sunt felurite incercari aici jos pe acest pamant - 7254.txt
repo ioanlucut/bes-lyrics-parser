@@ -1,0 +1,42 @@
+[title]
+Sunt felurite incercari aici jos pe acest pamant {author: {Daniel Hartie}, {rcId: {7254}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Sunt felurite încercări
+Aici jos pe acest pământ.
+Tu brav ostaș al lui Hristos
+Cu Domnul ești victorios.
+
+[c]
+Privește, privește
+Privește prin credință dragul meu
+Din ceruri biruința trimete Domnul Dumnezeu.
+În urmă-i, în urmă-i, în urmă-i greul cel amar
+În urmă-i, în urmă-i în urmă-i lumea cu satan.
+
+[v2]
+De ești lovit, batjocorit
+Fii robul lui Isus Hristos
+Pentru ocara de aici jos
+Nu-ți pierde raiul cel frumos.
+
+[v3]
+Căci Domnul când a fost urcat
+Pe cruce la Golgota sus
+Între tâlhari se chinuia
+Și înspre ceruri El privea.
+
+[v4]
+Cum nici nu poți tu judeca
+Sunt bucuriile de sus
+La mintea ta nu s-a suit
+Ce Domnul sus ne-a pregătit.
+
+[v5]
+Luptă în oastea lui Hristos
+Luptă după Cuvântul Lui
+Numai privi nicicând înapoi
+După plăcerea veacului

@@ -1,0 +1,29 @@
+[title]
+Asculta glasul ce te cheama {author: {Anonim}, {rcId: {2779}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ascultă glasul ce te cheamă
+Predă-ți viața Domnului
+Ascultă glasul ce te-ndeamnă
+Supune-te azi cerului.
+
+[c]
+Isus Hristos te vrea cu El în slavă
+Ziua de mâine nu-i a ta;
+De vrei să fii în veci cu Creatorul
+Ascultă-acum chemarea Sa!
+
+[v2]
+Ascultă glasul blând de Tată
+Până când ți-e Mântuitor
+Oricum Îl vei vedea odată
+În haina de judecător.
+
+[v3]
+Acum e timpul cel din urmă
+Când necredința ia avânt
+Dar tu alege calea bună
+Și vei ajunge-n cerul sfânt.

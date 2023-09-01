@@ -1,0 +1,45 @@
+[title]
+Iti multumesc {author: {Mirela Ursulescu}, {rcId: {71800}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Îți mulțumesc, o, scump Isuse
+Pentru tot ce în viață-mi dai
+Căci Tu ești totul pentru mine
+Îmi dai avant să merg spre Rai
+Îmi dai viață, fericire
+Îmi dai putere că să lupt
+Că sper, să cred în nemurire
+Tu ești alături, al meu scut.
+
+[c]
+/: Căci nimeni Doamne nu-i ca Tine
+Mai scump, mai dulce și mai Sfânt
+Tu mă-ntărești în încercare
+Mă iei pe brațe când sunt frânt
+Mă protejezi, îmi ești aproape
+Când prietenii mă părăsesc
+Mă cercetezi, îmi dai răbdare
+/: Și doar cu Tine biruiesc. :/
+
+[v2]
+Mă iei de mână când alături
+Cu mine Doamne mergi pe drum
+Tu mă ajuți chiar și-n furtună
+Ești ținta mea și-al meu răspuns
+Ești Soarele care răsare
+Și viața-mi luminează iar
+Mă ierți atunci când cad pe cale
+Și-mi dai din nou din al tău har.
+
+[c2]
+/: O, Doamne, toată viață-ntreagă
+Cu Tine vreau ca s-o trăiesc
+Ești singurul care-nțelege
+Când slab mă simt sau când greșesc
+Rămâi cu mine toată viață
+Căci vreau cu Tin’ să biruiesc
+Și-n veșnicii să fiu Isuse
+/: Cu toți cei dragi Doamne ceresc. :/

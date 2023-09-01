@@ -1,0 +1,33 @@
+[title]
+Vreau prezenta ta {author: {Anonim}, {rcId: {5148}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Vreau prezența Ta
+Vreau să simt cum mă înconjoară
+Vreau prezența Ta
+O vreau acum.
+
+[c]
+Nimeni nu-i ca Tine,
+Nimeni nu se compară cu Tine,
+Nimeni nu-i ca Tine,
+Te vreau acum.
+
+[v2]
+Ești speranța mea
+În prezența Ta simt pace
+Ești bucuria mea
+Te vreau acum.
+
+[v3]
+Sunt pierdut în Tine,
+Sunt pierdut în prezența-Ți măreață,
+Sunt pierdut în Tine
+Ești viața mea.
+
+[e]
+Am nevoie de Tine, Doamne...
+Am nevoie de Tine-n viața mea.

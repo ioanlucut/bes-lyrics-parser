@@ -1,0 +1,29 @@
+[title]
+Ce frumoase vorbe-aud eu {author: {Anonim}, {rcId: {212690}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ce frumoase vorbe-aud eu
+De-un locaș Dumnezeiesc,
+Din cuvântul Sfânt ce cred eu
+Și cu dragoste-L doresc.
+
+[c]
+Zidit pe eterna stâncă
+Ce te va putea clinti?
+/: Fericirea te așteaptă
+Mântuit in veci vei fi :/
+
+[v2]
+În Sionul cel ceresc
+Prin har membru sunt făcut
+În Hristos mă-nveselesc
+Și-l slăvesc căci mi-e plăcut.
+
+[v3]
+Viața-aceasta-i trecătoare
+Cu toată mărirea ei
+În Sion e sărbătoare
+Vino și tu dacă vrei.

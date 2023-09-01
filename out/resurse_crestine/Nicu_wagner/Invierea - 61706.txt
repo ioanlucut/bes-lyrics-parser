@@ -1,0 +1,35 @@
+[title]
+Invierea {author: {Nicu Wagner}, {rcId: {61706}}
+
+[sequence]
+v1,c,v2,c2,v3,c2
+
+[v1]
+În ceasul trist al înserării, sus pe Golgota poți zări
+O jale fără de speranță, căci răstignit Isus muri.
+Veneau în jos plângând sărmanii, căci l-au pierdut pe cel mai drag,
+Pe Cel ce-a fost o mângâiere și prieten bun celui pribeag.
+
+[c]
+El, Cel ce a făcut adesea minuni, rostind doar un cuvânt,
+A fost pecetluit de oameni, ca pentru veci, întru-n mormânt.
+/: Credeau vrăjmașii căci sfârșiră cu-nvățătura lui Isus,
+Credeau căci Soarele Dreptății, sus pe Golgota a apus. :/
+
+[v2]
+Dar n-au putut supune morții
+Dumnezeiasca Lui putere,
+Căci în a treia zi răsună
+Mesajul sfânt: e înviere!
+
+[c2]
+/: Și glorios asupra morții,
+Puterea Lui și-a arătat,
+/: Te bucură creștinătate!
+Hristos din morți a înviat! :/
+
+[v3]
+Dar va mai fi o înviere, care pe mulți îi va-ngrozi,
+Atunci ca Rege, cu putere, Isus pe nori va reveni!
+Vor învia toți muritorii, din al pământului ungher,
+/: Unii pentru osânda morții, iar alții pentru slavă-n cer. :/

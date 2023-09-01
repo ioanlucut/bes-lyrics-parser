@@ -1,0 +1,41 @@
+[title]
+O patrie mult dorita {author: {Nicolae Moldoveanu}, {rcId: {5743}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+O, patrie mult dorita,
+O, cand voi fi in tine,
+Dorita cetate sfanta
+Ce-aprinzi dorinta-n mine!
+
+[c]
+/: Noi, privim, spre cer, plangand...
+Vino azi! Nu-ntarzia!
+Te chemam de pe pamant;
+De dor ne arde inima. :/
+
+[v2]
+De multe ori, privesc in sus
+La cerul plin de stele;
+Sa vii Tu, azi, iubit Isus,
+Si sa zburam spre ele.
+
+[v3]
+De tara cea din vesnicii,
+De tara minunata,
+De locul plin de bucurii
+Unde-om ajunge-odata.
+
+[v4]
+De Isus, Mirele iubit,
+Steaua stralucitoare,
+De Cel ce-a fost chiar rastignit,
+Lumina iubitoare.
+
+[v5]
+Caci Te asteapt-ai Tai copii,
+Veghind mereu, privind in sus,
+Al nost’ iubit Mire sa vii
+Si sa ne duci in ceruri.

@@ -1,0 +1,29 @@
+[title]
+Lacrimi {author: {Carmen Prodan}, {rcId: {122901}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Lacrimi, adâncă durere sau bucurie ascundeți în voi,
+Lacrimi, lacrimi.
+
+[c]
+Dar sus în cer nu vor mai fi, de ele doar ne-om aminti
+C-au existat pe-acest pământ, lacrimi.
+El, Domnul Sfânt le va lua și pentru veci n-om mai avea
+Lacrimi, lacrimi.
+
+[v2]
+Lacrimi de întâlnire sau despărțire trăim ades,
+Lacrimi, lacrimi.
+
+[v3]
+Lacrimi de-ndepartare, de-nstărinare, de dor nestins,
+Lacrimi, lacrimi.
+Balada iubirii, a nemuririi, dor de Paradis,
+Lacrimi, lacrimi.
+
+[v4]
+Lacrimi, numai Isus poate-nțelege ce-ascundeți în voi,
+Lacrimi, lacrimi.

@@ -1,0 +1,35 @@
+[title]
+Eu inca nu sunt pregatit am deschis biblia {author: {Anonim}, {rcId: {3143}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Eu încă nu sunt pregătit,
+Am deschis Biblia
+Și dintre toate ce-am citit
+Iată, ce mai scria:
+
+[c]
+/: În dragoste supuneți-vă,
+În pace să trăiți,
+Cu-adevărat iubiți-vă,
+De rău să vă feriți! :/
+
+[v2]
+Nu faceți certuri, dezbinări,
+Nu țineți ura grea,
+Căci Domnul ne-a-nfrățit pe toți
+Pe dealul Golgota!
+
+[v3]
+Simțiți cu toți că sunteți frați,
+Răscumpărați uniți,
+Că sunteți toți de-același neam
+Și toți spre cer porniți!
+
+[v4]
+I-atât de greu de ’naintat,
+Suntem cu toți loviți;
+Strângeți, dar, rândurile-acum,
+Căci mult e de luptat!

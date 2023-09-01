@@ -1,0 +1,35 @@
+[title]
+O doamne departeaza-mi ceata {author: {Nicolae Moldoveanu}, {rcId: {246054}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+O, Doamne, depărtează-mi ceața
+întotdeauna de pe cale,
+/: Nimic să nu mă poat-abate
+De Ia trăirea voii Tale. :/
+
+[v2]
+Să nu mă biruie vrăjmașul,
+Îndepărtându-mă de Țintă,
+/: Nici când e sincer și lovește,
+Nici când e prefăcut și-alintă. :/
+
+[v3]
+Pe drumuri drepte poartă-mi pașii,
+Să netezesc cărări curate,
+/: Ca nimeni care mă urmează,
+Din drum să nu mă poat-abate. :/
+
+[v4]
+Să-mi pot trimite înainte
+În orice seară-o zi frumoasă,
+/: Să mi le aflu toate raze,
+Atunci când am s-aiung acasă :/
+
+[v5]
+Să-mi pot în orice dimineață
+Trimite-o roadă-mbelșugată,
+/: Căci astea fi-mi-vor apărarea
+Și martori buni Ia judecată. :/

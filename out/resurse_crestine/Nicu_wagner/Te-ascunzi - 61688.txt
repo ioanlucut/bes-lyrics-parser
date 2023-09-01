@@ -1,0 +1,57 @@
+[title]
+Te-ascunzi {author: {Nicu Wagner}, {rcId: {61688}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Te-ascunzi în florile câmpiei,
+Parfumul lor Te dovedește.
+Tu ești splendoarea veșniciei
+Și ea în veci îți dăinuiește.
+
+[c]
+/: Te-ascunzi în ciripit de păsări,
+Prin trilurile nesfârșite.
+Nu-s simfonii, nici oratorii,
+Cu armonii așa de sfinte... :/
+
+[v2]
+Te-ascunzi în adierea verii,
+Când freamătă frunza-n răcoare,
+În taina și-n susurul serii,
+Te-ascunzi în murmur de izvoare.
+
+[c2]
+/: Tu ești în liniștea adâncă
+Ce-n codrii-ntunecoși domnește.
+Tu ești în tablele din stâncă,
+În glasul vântului ce crește. :/
+
+[v3]
+Te-ascunzi în vijelii și-n ploaie,
+În soarele ce-apoi surâde.
+Te-ascunzi în pânset de pâraie, 
+În gângurit de prunc când râde.
+
+[c3]
+/: Tu ești si-n fulgii de zăpadă,
+În viforul ce răbufnește,
+În norii ce seninul pradă,
+În tunetul ce răscolește. :/
+
+[v4]
+Te-ascunzi, dar nu Te pot cuprinde
+Nici cerul, cerurile-ntinse.
+Dar totuși ‚Tu, Nemărginire,
+Ești și în inimi sfânt aprinse.
+Vedem doar urmele-Ți divine
+Din care răsar blând‚ maiestuos,
+Speranță, viață, zări senine,
+Căci Tu ești tot ce-i mai frumos.
+
+[c4]
+/: Noi Te-om vedea sus în mărire
+Dar nu cum ne-am închipuit.
+Tu ești dincolo de gândire,
+O, Doamne, fii în veci slăvit! :/

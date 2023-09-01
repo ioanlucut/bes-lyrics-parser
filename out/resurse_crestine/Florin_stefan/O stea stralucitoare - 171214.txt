@@ -1,0 +1,29 @@
+[title]
+O stea stralucitoare {author: {Florin Ștefan}, {rcId: {171214}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Printr-o fecioară pe nume Maria
+La Betleem un Fiu ni s-a născut
+/: Mântuitorul Cel promis, Mesia
+Cum prin Isaia ne-a fost profețit :/
+
+[c]
+O Stea strălucitoare
+A coborât jos pe Pământ
+Ce ne-a adus salvare
+Și bucurii prin Duhul Sfânt
+
+[v2]
+Atunci un înger de sus din mărire
+Vestea cea bună la Păstori a dus
+/: În Betleem în cetatea lui David
+Mântuitorul s-a născut Isus :/
+
+[v3]
+De mii de ani vestește omenirea
+Pe Salvatorul lumii din păcat
+/: Dar în zadar mereu e amintirea
+Dacă în suflet nu este purtat :/

@@ -1,0 +1,31 @@
+[title]
+Invata-ma doamne calea voii tale {author: {Narcis Popa}, {rcId: {217311}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Învață-mă Doamne calea voii Tale,
+Să merg pân’ la moarte pe această cale;
+Pân’ la moarte să pot merge doar pe-această cale.
+
+[v2]
+Dă-mi înțelepciune să-Ți țin sfânta lege
+Și să-i salvez pe cei aleși din moarte;
+S-o și pot ține și cu toată inima-nțelege.
+
+[v3]
+Mă povățuiește pe-a Ta cale-n pace
+Si-n a Ta poruncă, fiindcă-aceasta-mi cutremură sufletul;
+De lumea a fi ocară și pustiu, eu tot de voi lăuda căci ești Sfânt;
+
+[v4]
+Ce-ai promis Tu, Doamne să-mplinești cu mine,
+Ce-ai promis Tu celor ce se tem de Tine,
+/: Fă-mi ce-ai spus că faci acelor ce se tem de Tine!
+ /:
+
+[v5]
+Cât timp Tu vei fi cu mine, și pământul s-a cutremura
+Eu voi fi cu tine și biruitor sunt cu tine-n veci,
+A slavei mărire a Ta să Fie.

@@ -1,0 +1,29 @@
+[title]
+Isus e viu isus e viu {author: {Leleu Niculae}, {rcId: {75263}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Isus e viu,
+Isus e viu
+Toată lauda și cinstea I se cuvine
+Știu că Salvatorul meu trăiește
+Și cu El voi fi
+În veșnicii, în veșnicii.
+
+[c]
+Aleluia, aleluia
+Numai a Lui este cântarea
+Din toată lumea numai Domnului
+I se cântă așa:
+”
+Aleluia, aleluia!”
+
+[v2]
+Domnul e Sfânt, Domnul e Sfânt
+Numai a Lui este acest cuvânt
+În cer și pe pământ
+Numai Lui i se cântă acest Sfânt
+Domnul e Sfânt,
+Domnul e Sfânt.

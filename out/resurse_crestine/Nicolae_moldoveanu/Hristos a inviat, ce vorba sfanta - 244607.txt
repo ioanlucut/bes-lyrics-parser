@@ -1,0 +1,30 @@
+[title]
+Hristos a inviat ce vorba sfanta {author: {Nicolae Moldoveanu}, {rcId: {244607}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Hristos a înviat, ce vorbă sfântă,
+Îți simți de lacrimi calde ochii uzi,
+/: Și-n suflet parcă serafimi îți cântă,
+De câte ori creștine o auzi. :/
+
+[v2]
+Hristos a înviat în firul ierbii,
+A înviat Hristos în adevăr,
+/: În poienița unde zburdă cerbii,
+În florile de piersic și de măr. :/
+
+[v3]
+În stupii de albine fără greș,
+În vântul ce adie mângâios,
+/: În ramură-nflorită de cireș,
+Dar vai în suflet ți-a-nviat Hristos? :/
+
+[v4]
+O, dac-aceste legi de-a pururi sfinte,
+În aur măcar azi te-au îmbrăcat,
+/: Cu serafimi în suflet imn fierbinte,
+Ai drept să cânți ”
+Hristos a înviat!” :/

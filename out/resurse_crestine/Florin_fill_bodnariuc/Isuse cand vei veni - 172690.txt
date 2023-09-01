@@ -1,0 +1,31 @@
+[title]
+Isuse cand vei veni {author: {Florin Fill Bodnariuc}, {rcId: {172690}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ca și norul călător, viața trece zi de zi,
+Tinerețe, flori de mai, când te vei sfârși?!
+Vestejesc în zare flori, ce parfum îmbătător
+Au lăsat în urma lor, toate s-au uitat!
+
+[c]
+Isuse, când vei veni,
+Cine oare va mai ști
+Sa te-aștepte-nmiresmat
+Când vei reveni?
+Cine oare va putea ca să stea în Fața Ta?
+Doar Mireasa ce la cer o vei înălța!
+
+[v2]
+Suflă vântu-n vijelii, smulge lacrimi și suspin...
+Doamne, vino mai curând, viața mi-e un chin..
+Zorii-n cumpănă răsar, sfatul Tău e înțelept,
+Dar răbdarea n-a-ncetat! Doamne, cum te-aștept!
+
+[v3]
+Parcă toți un drum avem, în necaz îmbătrânim,
+Isuse, cu Tine vreau, viața s-o sfârșim!
+De se va întoarce iar floarea de unde-a pornit
+Sufletul la Tine ia-l, Tu-l dai mântuit!

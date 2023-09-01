@@ -1,0 +1,24 @@
+[title]
+Doamne cel ce ma stapanesti {author: {Anonim}, {rcId: {59195}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Doamne Cel ce mă stăpânești,
+Și cu-al Tău braț,
+Sfânt, mă umbrești,
+Revars-asupra-mi, mila Ta,
+Și-acum primește ruga mea.
+
+[c]
+/: Ai Tăi nori plini de îndurări,
+Ce se înalță în depărtări,
+Las’să reverse peste noi,
+A binecuvântării ploi. :/
+
+[v2]
+Doamne condu-mă Tu mereu,
+Și mă păzește de-orice rău
+Alunga orice întristări
+Și vindecă orice dureri.

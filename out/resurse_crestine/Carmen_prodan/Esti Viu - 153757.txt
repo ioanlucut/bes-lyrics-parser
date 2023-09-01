@@ -1,0 +1,35 @@
+[title]
+Esti viu {author: {Carmen Prodan}, {rcId: {153757}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ai înviat si ne-ai adus lumina
+Lumină din lumina Ta
+Ca orice om venind in astă lume
+Să fie luminat de ea
+
+[c]
+Esti viu pentru veci o Isuse
+În cinstea Ta azi vom cânta
+Un cântec măret de bucurie
+Spre slava si gloria Ta
+
+[v2]
+Ai înviat si ne-ai adus iertare
+Prin jertfa Ta pe Golgota
+Si am primit în dar eliberare
+De-al nost păcat de starea grea
+
+[v3]
+Ai înviat si ne-ai adus iubire
+Iubire din iubirea Ta
+Ne-ai imbracat pe toti in nemurire
+Sa fim cu Tine-n slava Ta
+
+[v4]
+Vom învia si noi odată-n slavă
+Prin moartea si-nvierea Ta
+Ne-om bucura vom fi a Ta mireasă
+În veci de veci Te-om lăuda

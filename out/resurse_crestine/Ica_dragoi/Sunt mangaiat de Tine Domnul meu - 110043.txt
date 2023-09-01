@@ -1,0 +1,29 @@
+[title]
+Sunt mangaiat de tine domnul meu {author: {Ica Dragoi}, {rcId: {110043}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Sunt mângâiat de Tine Domnul meu,
+În fiecare clipă a vieții mele,
+Cu Tine vreau, la bine și la greu,
+Privesc la Tine, dincolo de stele.
+
+[c]
+/: Tu m-ai chemat și m-ai ales din lume,
+Ai pus în mine Duhul Tău
+Mă-ncred în Tine ’n-al Tău Nume,
+O sfânt și mare Dumnezeu :/
+
+[v2]
+Sunt împlinit, am pace, bucurie,
+Nu Te-aș lăsa să pleci din viața mea,
+Cu Tine vreau aici și-n veșnicie
+Ți-aduc azi laudă, cinstea, gloria.
+
+[v3]
+Purtat din biruință-n biruință,
+Cu Tine, doar cu Tine drag Isus,
+Privesc în sus la Tine cu credință,
+Îți mulțumesc și Te iubesc nespus

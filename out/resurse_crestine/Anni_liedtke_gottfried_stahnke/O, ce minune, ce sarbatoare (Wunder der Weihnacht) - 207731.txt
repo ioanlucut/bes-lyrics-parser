@@ -1,0 +1,29 @@
+[title]
+O ce minune ce sarbatoare (wunder der weihnacht) {author: {Anni Liedtke, Gottfried Stahnke, Traducere RO}, {rcId: {207731}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O, ce minune, ce sărbătoare
+Cu darul dragostei de necuprins
+Hristos s-a dezbrăcat de slavă
+Și ne-a adus harul ce ne-a cuprins.
+
+[c]
+O, ce minune, o, ce iubire
+Domnul măririi la noi a venit
+O, ce minune, azi împlinită
+Pacea de sus, de la El am primit.
+
+[v2]
+O, ce minune, ce sărbătoare
+Cu mântuirea vestită demult
+Cel Preaînalt, Isus, Prințul păcii
+Din străluciri a venit pe pământ.
+
+[v3]
+O, ce minune, ce sărbătoare
+Cu vestea bună: Isus S-a născut!
+Ne închinăm cu adorare
+Domnului slavei, Cel făr’ de-nceput.

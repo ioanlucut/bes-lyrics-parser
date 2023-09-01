@@ -1,0 +1,44 @@
+[title]
+Stie el ce face {author: {Denys Laurenciuc}, {rcId: {202710}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+E tot mai greu să astepti răspunsul,
+Când cerul e de plumb și tace...
+Și îți îneci în lacrimi plânsul,
+Dar știe Domnul, El ce face...
+
+[c]
+Chiar dacă tot ce-ai strâns plângând,
+Tu ai pierdut în noapte.
+/: Chiar dacă ești în luptă’nfrânt,
+Tu nu uita că în curând,
+Revine Cel ce milă’mparte :/
+
+[v2]
+E tot mai greu să treci furtuna,
+Cand totu-i năruit de vânt...
+Si lupți din greu să îți invingi frica,
+În numele Celui ce-i Sfânt...
+
+[c2]
+Dar nu privi nicicând la val,
+Ci ține’n sus privirea.
+/: Căci în curând ajungi la mal,
+Și vei uita de plâns amar,
+Căci vine Domnul, izbăvirea! :/
+
+[v3]
+E tot mai greu să îți înalți glasul,
+Spre Cel ce te-a răscumpărat...
+Când vezi că-ți obosește pasul,
+Și ești de oameni alungat...
+
+[c3]
+Dar nu uita că Dumnezeu,
+Te ține strâns de mână.
+/: Si fie-n luptă cât de greu,
+El e cu tine tot mereu,
+Și-n vreme rea și-n vreme bună :/

@@ -1,0 +1,21 @@
+[title]
+Suflete vino la isus {author: {Nicolae Moldoveanu}, {rcId: {5427}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Suflete, vino la Isus! o, predă-I Lui sarcina ta!
+El vrea sa te nască de sus, o, și să-ți dea pacea Sa.
+
+[c]
+/: Vino azi, nu-ntârzia! O, auzi cum te cheamă El;
+Cauta mântuirea ta, o, la Isus, la Sfântul Miel! :/
+
+[v2]
+Auzi, glasul Lui răsună, o, și te cheamă ne’ncetat;
+Vin’ la El acum, amice! O, vino! Azi vei fi iertat.
+
+[v3]
+Mâine poate-ntârzierea, o, de azi, rău o s-o plătești
+Căci, doar astăzi încă-i mila... o, astăzi, să te pocăiești!

@@ -1,0 +1,23 @@
+[title]
+Pentru nimic in lume {author: {Nicolae Moldoveanu}, {rcId: {244468}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Pentru nimic în lume nu-ți pierde trei comori:
+Credința și nădejdea și dragostea dintâi,
+/: Chiar dacă pentru ele ar trebui să mori,
+Dă totul pân-la capăt, cu ele să rămâi. :/
+
+[v2]
+Pentru nimic în lume să nu uiți trei porunci:
+Virtutea, ascultarea și-ntâiul legământ.
+/: Cu cât mai mulți le calcă, cu-atât mai mult atunci
+Veghează-le mai harnic, urmează-le mai sfânt. :/
+
+[v3]
+Pentru nimic în lume să nu lași trei virtuți:
+Smerenia-nfrânarea și pacea în Hristos,
+/: Și-atunci, cu cât trec anii, mai mulți și mai plăcuți
+Cu-atâta rodul vieții va crește mai frumos. :/

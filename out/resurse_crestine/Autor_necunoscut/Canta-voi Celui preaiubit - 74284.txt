@@ -1,0 +1,41 @@
+[title]
+Canta-voi celui preaiubit {author: {Anonim}, {rcId: {74284}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Cânta-voi Celui preaiubit
+Cântarea lui de jale,
+Cântarea unui prinț avut
+Asupra viei Sale.
+
+[c]
+Iubitul meu avea pe-un câmp
+O vie-așa mănoasă.
+Cât a muncit sădind în ea
+Doar viță mai aleasă.
+
+[v2]
+Făcut-a Domnul și-aștepta
+Acum cu nerăbdare
+Să facă struguri buni, dar ea
+A dat doar roade-amare.
+
+[c2]
+Ah, unde ești poporul Meu?
+De-ați judeca voi bine:
+Ce-am dobândit săpând în ea
+Și ce-Mi făcu ea Mie?
+
+[v3]
+Ah, ce-aș mai fi putut să-i dau,
+Ce n-am făcut Eu oare?
+De ce în loc de struguri buni
+Mi-a dat doar roade-amare?
+
+[c3]
+Ah, via Domnului, de ce
+S-aduci doar roade rele?
+Când te gândești s-aduci rod bun
+Răsplată pentru ele?

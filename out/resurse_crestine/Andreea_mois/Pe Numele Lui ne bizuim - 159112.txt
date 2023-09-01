@@ -1,0 +1,30 @@
+[title]
+Pe numele lui ne bizuim {author: {Andreea Mois}, {rcId: {159112}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Să te-asculte Domnul în ziua de necaz,
+Când îți curg amare lacrimi pe al tău obraz.
+/: Să te sprijinească din Sionul Sfânt,
+Să-ți trimită ajutor din Locașul Lui cel Sfânt! :/
+
+[c]
+/: Pe Numele Lui ne bizuim,
+Și-n Numele Lui noi biruim!
+/: Și chiar dacă alții se vor lepăda,
+În Căile Domnului pe veci vom rămânea! :/
+
+[v2]
+Să-Și aduc-aminte de toate și din tot,
+Jertfa ta să o primească, Domnul Savaot.
+/: Să-ți asculte dorul și iubirea Lui,
+Să te-mbrace-n pocăință-n haina cerului! :/
+
+[v3]
+Atunci, bucuria și biruința ta,
+Înălța-va veșnic steagul fericiri-n ea.
+/: Știm de-acum, că Domnul, scapă unsul Său,
+Și de-a pururi spune, ”
+Ești copilul Meu!” :/

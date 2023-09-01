@@ -1,0 +1,29 @@
+[title]
+Se va pune o intrebare candva {author: {Dorel Breabăn}, {rcId: {223996}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Se va pune o întrebare cândva,
+Când vedea-vor cu toți mărețe lucrări
+Iar sfinții, în zbor, către cer vor pleca,
+Străbătând glorios divinele zări.
+
+[c]
+/: Cine sunt cei ce se-nalță în zbor
+Ca niște porumbei spre porumbarul lor?
+Universul întreg un răspuns va afla
+Când de-aici, Mireasa, Isus Își va lua. :/
+
+[v2]
+Fericiți sunt veșnic acei mântuiți,
+Lui Isus I-au fost slujitori credincioși.
+În corturile Domnului vor fi primiți
+Și pentru vecii vor fi bucuroși.
+
+[v3]
+Va fi un răspuns dar va fi prea târziu
+Pentru cei rămași pe-un pământ răscolit.
+Dar ’nălțați către zări, izbăviți din pustiu,
+Sunt cei ce privesc un alt răsărit.

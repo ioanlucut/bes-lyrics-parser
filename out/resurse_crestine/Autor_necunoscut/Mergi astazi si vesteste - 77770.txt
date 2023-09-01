@@ -1,0 +1,21 @@
+[title]
+Mergi astazi si vesteste {author: {Anonim}, {rcId: {77770}}
+
+[sequence]
+v1,c
+
+[v1]
+Mergi astăzi și vestește
+La toată lumea pretutindeni
+Mergi astăzi și vestește
+Căci s-a născut Isus
+
+[c]
+Pe când păstorii turmele
+Si-le păzeau noaptea
+Pe bolta cerului
+Lumină a văzut
+Și iată că un înger
+A stat-naintea lor
+Și veste bună le-a adus
+Căci s-a născut Isus.

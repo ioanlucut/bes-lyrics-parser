@@ -1,0 +1,29 @@
+[title]
+Isus va reveni {author: {adi petras}, {rcId: {210587}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+S-a spus nu mai e mult curând va veni
+Cel ce ne-a mântuit, cu sânge ne-a plătit
+Și sus ne va lua
+E vremea pe sfârșit și semnele spun
+Cutremur și război e ziua de apoi
+El vine pe nori!
+
+[c]
+Trompeta va suna, Isus se v-arata
+În slavă îmbrăcat cu glorie-ncununat
+Isus va reveni!
+Trompeta va suna, Isus se v-arăta
+În slavă îmbrăcat cu glorie-ncununat
+Isus va reveni!
+
+[v2]
+Răsar ai zilei zori și noaptea s-a dus
+Al zilelor noian trec iute an de an
+Iar lumea-i tot mai rea...
+Și mulți au ațipit de vise furați
+Candela-ncet s-a stins uleiul tot s-a dus
+Si Vine Isus!

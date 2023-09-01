@@ -1,0 +1,29 @@
+[title]
+Adeseori {author: {Nicolae Moldoveanu}, {rcId: {244120}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Adeseori ispite grele
+Asupra vieții mele vin,
+Zdrobind odihna nopții mele
+Și-al zilei liniștit senin.
+
+[c]
+Atunci alerg la rugăciune,
+Și prin Hristos din nou primesc
+Putere să Ie-nving pe toate,
+Și iarăși pacea să-mi găsesc!
+
+[v2]
+Adeseori dureri amare,
+Adânc mi-ncearcă viața mea,
+Și dreapta-ncrederii cărare,
+Așa de greu o pot ținea!
+
+[v3]
+Adeseori puteri dușmane,
+Spre mine năvălesc cumplit,
+Lăsându-mi viața numai rane
+Și sufletul adânc lovit!

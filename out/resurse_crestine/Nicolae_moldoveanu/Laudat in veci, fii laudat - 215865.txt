@@ -1,0 +1,32 @@
+[title]
+Laudat in veci fii laudat {author: {Nicolae Moldoveanu}, {rcId: {215865}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Lăudat, în veci, fii lăudat!
+Doamne-n veci de veci, fii lăudat!
+Lăudat, Lăudat!
+Harul Tău etern L-ai revărsat
+peste noi, deplin și minunat.
+/: Lăudat, lăudat,
+Doamne-n veci de veci fii lăudat! :/
+
+[v2]
+Preamărit în veci, fii preamărit!
+Doamne-n veci de veci, fii preamărit!
+Preamărit, Preamărit!
+Adevărul Tău ne-ai dăruit,
+Și prin El din nou ne-ai zămislit.
+/: Preamărit, preamărit,
+Doamne-n veci de veci fii preamărit! :/
+
+[v3]
+Îți cântăm, în veci, noi Îți cântăm!
+Doamne-n veci de veci, noi Îți cântăm!
+Îți cântăm, Îți cântăm!
+Pentru tot ce ești, ne închinăm,
+Cântul nostru re-nnoit Îți dăm.
+/: Îți cântăm, Îți cântăm,
+Doamne-n veci de veci noi Îți cântăm! :/

@@ -1,0 +1,29 @@
+[title]
+Eram odata robi la faraon in egipt {author: {Anonim}, {rcId: {89170}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Eram odată robi la Faraon în Egipt
+Lucram din greu să-i facem un palat.
+N-aveam odihnă din zori și până târziu seara
+Și la amiaz soarele ne ardea.
+
+[c]
+/: Dar Dumnezeu așa de mult ne-a iubit
+Și cu noi un legământ a făcut
+Să nu mai fim robi niciodată în Egipt
+Și-n dar să ne dea Canaanul Sfânt. :/
+
+[v2]
+Eram odată robi puterii mari a Celui Rău
+Eram robi în păcate și-n desfrâu
+N-aveam odihnă și în întuneric noi lucram
+Și pașii spre osândă ne-ndreptau../
+
+[c2]
+/: Dar Dumnezeu așa de mult ne-a iubit
+Pentru noi toți viața și-a jertfit
+Să nu mai fim robi niciodată Celui Rău
+Și viața-ntreagă Lui să I-o-nchinăm. :/

@@ -1,0 +1,35 @@
+[title]
+Cand treci pe-a pamantului cale {author: {Nicolae Moldoveanu}, {rcId: {241046}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Când treci pe-a pământului cale,
+Doresc să-Ți aștern, Împărate,
+/: Nu haine, nici seci osanale,
+Ci-a inimii doruri curate. :/
+
+[v2]
+Nici flori răsărite-n grădină
+N-arunc pe cărarea-Ți slăvită
+/: Ci-o viață în har și-n lumină,
+Prin sângele Tău curățită! :/
+
+[v3]
+Să calci pe veșmântul iubirii,
+Cu sfintele Tale picioare,
+/: Să simți, ca în zori trandafirii,
+Plăcută și dulce răcoare! :/
+
+[v4]
+Și-apoi să rămâi pe vecie,
+Stăpân și-mpărat peste mine
+/: Osana să-Ți cânte doar Ție,
+Iubirea-mi cu ape-n lumine! :/
+
+[v5]
+Să pot prin veghere, statornic,
+Păstra-n a vieții cetate,
+/: Credința și-un duh mai cucernic
+Să-Ți placă în ea, Împărate! :/

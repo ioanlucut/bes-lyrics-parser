@@ -1,0 +1,23 @@
+[title]
+Binecuvanteaza doamne romania {author: {Necunoscut}, {rcId: {168459}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Binecuvântează, Doamne, România!
+Binecuvântează țara mea
+Vino cu putere, vino cu trezire
+Te rugăm, Isus, ai milă de ea!
+
+[c]
+Noi Te chemăm, arată-Ți iubirea,
+Dă-ne credința din nou Te rugăm!
+Ajută-ne să Te cunoaștem,
+Să Te-ascultăm, Doamne, să Te iubim.
+
+[v2]
+Suntem flamânzi, Doamne, de Tine,
+Pâinea vietii doar Tu ne-o poți da.
+Suntem setoși de neprihănire,
+Lasă să plouă apa vieții-n țara mea.

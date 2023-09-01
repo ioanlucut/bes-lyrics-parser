@@ -1,0 +1,35 @@
+[title]
+Nainte-i domnul {author: {Nicu Chereji}, {rcId: {204409}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Nainte-i Domnul, în urmă-i lumea,
+E timpul pe sfârșit
+Pe-alocuri boale și mari războaie,
+Peste lume a venit.
+
+[c]
+Îndreaptă-ți ochii spre mântuire
+Fii gata de plecat
+Mai sus de nori cu al nost’ Sfânt Mire
+Cerescul Împărat.
+
+[v2]
+Prin foc și săbii sânt dați la moarte
+Ai noștri frați creștini
+Ei din iubire pentru dreptate
+Îndură orice chin.
+
+[v3]
+Nu pierde șansa, vino degrabă
+Cât se mai spune azi
+Iar de ești tare, cere îndurare
+Veghează să nu cazi!
+
+[v4]
+Din bezna nopții Domnul te cheamă
+Cu glasul Lui duios,
+Vrea să-ți dea viață și siguranță
+Domnul Isus Hristos!

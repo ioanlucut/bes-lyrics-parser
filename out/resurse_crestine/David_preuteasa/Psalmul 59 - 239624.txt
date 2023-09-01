@@ -1,0 +1,27 @@
+[title]
+Psalmul {author: {David Preuteasa}, {rcId: {239624}}
+
+[sequence]
+v1,v2
+
+[v1]
+Când privesc adânc în viața mea
+Văd că sunt și vrăjmași în calea mea,
+Dar eu știu, o Doamne că prin puterea Ta
+Sunt biruitor, prin Sfântă Jertfa Ta.
+Refren:
+Dar eu voi cânta, puterea Ta
+Dis de dimineață voi lăuda,
+Pentru mine Tu ești, un turn de scăpare
+Și-un adăpost când furtuna-i mare.
+
+[v2]
+Doamne Dumnezeul meu, în bunătatea Ta
+Înainte îmi ieși, când lupta-i grea,
+Iar de furtuni pe cale, de vor apărea
+Nu mă tem nicicând, vei fi de partea mea.
+Bridge
+O, Tăria mea, te voi lăuda
+Pacea mea Tu ești, fiindcă mă iubești..
+O, Tăria mea, te voi lăuda
+Pacea mea Tu ești, fiindcă mă iubești.

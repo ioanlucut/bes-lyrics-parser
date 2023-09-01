@@ -1,0 +1,37 @@
+[title]
+Se-aude peste munti vocea minunata {author: {Nicolae Moldoveanu}, {rcId: {5613}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Se-aude, peste munți, vocea minunată
+De laudă, laudă, laudă lui Isus!
+Aceasta-i cântarea de îngeri cântată
+De laudă, laudă, laudă lui Isus!
+
+[c]
+„
+Înainte toți, la învingere!”
+Strigă Comandantul nostru.
+Noi, la a Sa comandă, vom da ascultare
+Și vom lupta tot cântând: „’
+Nainte, cu Isus! ”
+
+[v2]
+Auzi sunetul ce mișcă pământul
+De laudă, laudă, laudă lui Isus!
+Sculați! Cu-ndrăzneală, să mergem la luptă,
+Dând laudă, laudă, laudă lui Isus!
+
+[v3]
+Veniți ca să luptăm, cu voce să strigăm
+Dând laudă, laudă, laudă lui Isus!
+Pe-a lui Satan oaste de tot s-o învingem,
+Dând laudă, laudă, laudă lui Isus!
+
+[v4]
+Tinerețea noastră în luptă s-o punem,
+Dând laudă, laudă, laudă lui Isus!
+Și cu Evanghelia, cu toți, să învingem,
+Dând laudă, laudă, laudă lui Isus!

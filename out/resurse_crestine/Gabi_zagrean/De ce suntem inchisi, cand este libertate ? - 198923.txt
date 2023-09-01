@@ -1,0 +1,41 @@
+[title]
+De ce suntem inchisi cand este libertate ? {author: {Gabi Zagrean}, {rcId: {198923}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+De ce suntem închiși, când este libertate?
+De ce suntem zgârciți, când le avem pe toate?
+De ce ne împărțim, când suntem împreună?
+De ce nu ne iubim, când Domnul ne adună?
+
+[c]
+Mi-e dor de părtășia, cu frații ce-am avut,
+Mi-e dor să simt fiorul, ca la-nceput.
+Mi-e dor de tot ce-i sfânt, mi-e dor de ce-i curat,
+De ce-i Dumnezeiesc, și-adevărat!
+
+[v2]
+De ce ne dezbinăm, în trupul Lui Hristos?
+De ce lovim cu piatra, în cel căzut de jos?
+De ce nu mai simțim, cu cei de lângă noi?
+De ce iubirea scade, și suntem tot mai goi?
+
+[c2]
+Mi-e dor de cântarea, cântată cu Har,
+Mi-e dor de rugăciunea plină de jar!
+Mi-e dor de Tine, Doamne, mi-e dor de veșnicii,
+Mi-e dor să-Ți aud glasul, când Vei veni!
+
+[v3]
+De ce nu renunțăm, la forme și tradiții?
+De ce nu mai slujim, și vrem doar funcții?
+De ce ne credem sfinți, care mai de care?
+De ce vopsim rugina, chiar și-n adunare?
+
+[c3]
+Mila și-ndurarea, Doamne o chemam,
+Iartă-ne pe toți, Te rugam!
+Dă-ne-o Haină nouă, și-o inimă aleasă,
+Să cinăm apoi, cu Tine la masă!

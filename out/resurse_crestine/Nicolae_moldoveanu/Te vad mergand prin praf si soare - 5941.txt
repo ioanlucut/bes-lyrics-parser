@@ -1,0 +1,40 @@
+[title]
+Te vad mergand prin praf si soare {author: {Nicolae Moldoveanu}, {rcId: {5941}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Te vad mergand prin praf si soare,
+Purtand povara salvatoare...
+Te vad, cum, prin multimi straine,
+Isus, duci crucea pentru mine...
+
+[c]
+Multumesc si ma inchin,
+O, Isuse, Miel divin
+Caci, prin jertfa Ta, ne-ai dat
+Harul vietii nesecat.
+Laudat, laudat, laudat, fii laudat!
+Te vad, cum fruntea cu ocara,
+Vrajmasii Ti-o incununara;
+Te vad, si inteleg mai bine
+Cat ai platit Tu, pentru mine...
+
+[v2]
+Te vad, smerit, intins pe cruce,
+Cum sangele suvoi Iti curge;
+Te vad, sub norii urii pline,
+Isus, cum suferi pentru mine...
+
+[v3]
+Te vad, in marea Ta durere
+Stand singur, fara mangaiere...
+Te vad, sub lovituri haine,
+Cum mori, Isuse, pentru mine...
+
+[v4]
+Te vad, cetatea cea divina,
+Ce ai o jertfa pentru mine,
+Si pe altar Te-ai pus pe Tine,
+Platind Tu pretul pentru mine...

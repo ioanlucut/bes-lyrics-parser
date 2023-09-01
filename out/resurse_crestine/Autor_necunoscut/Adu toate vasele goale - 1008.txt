@@ -1,0 +1,23 @@
+[title]
+Adu toate vasele goale {author: {Anonim}, {rcId: {1008}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Adu toate vasele goale la mine,
+Adu din casa ta și din jurul tău,
+Iată ce pot face acum Eu pentru tine:
+Să îți pun untdelemn în vase.
+
+[c]
+Mai ai un vas,
+Dacă ai fi adus la mine mai multe
+Aș fi pus în toate ulei să fie pline
+Și ai fi luat pe ele preț mare.
+
+[v2]
+Roagă-te pentru cei ce n-au mântuire,
+Pentru cei din casa ta și din jurul tău,
+Iată ce pot face acum Eu pentru tine:
+Pot să le deschid inimile.

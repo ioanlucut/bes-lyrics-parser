@@ -1,0 +1,24 @@
+[title]
+Asculta doamne strigatele mele {author: {Anonim}, {rcId: {893}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Ascultă Doamne strigătele mele
+Ia aminte la rugăciunea mea
+/: De la capătul pământului strig către Tine
+Cu inima mâhnită și zic :/
+
+[c]
+Du-mă pe stânca
+Ce eu n-o pot ajunge
+Căci e prea înaltă pentru mine
+Tu vii în ajutor când inima îmi plânge
+Și ies biruitor prin încercări.
+
+[v2]
+Aș vrea să locuiesc în cortul Tău
+Tu, Doamne, îmi asculți ruga mea
+/: Tu-mi dai moștenire în cerul Tău
+Și mă păzești de orice rău :/

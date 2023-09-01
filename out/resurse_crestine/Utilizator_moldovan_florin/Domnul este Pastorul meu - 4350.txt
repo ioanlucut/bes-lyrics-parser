@@ -1,0 +1,18 @@
+[title]
+Domnul este pastorul meu {author: {Utilizator Moldovan Florin}, {rcId: {4350}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+/: Domnul este Păstorul meu
+Și nu voi duce lipsă de nimic :/
+
+[c]
+/: Chiar dacă ar fi să umblu
+Prin valea umbrei morții
+Eu nu mă tem, de nici un rău :/
+
+[v2]
+/: Căci Tu ești cu mine și mă împovărezi
+De aceea eu, de nimic nu mă tem :/

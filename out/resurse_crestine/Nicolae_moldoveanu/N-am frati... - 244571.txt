@@ -1,0 +1,29 @@
+[title]
+N-am frati {author: {Nicolae Moldoveanu}, {rcId: {244571}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+N-am frați și n-am prieteni mai dragi ca cei ce sunt,
+Statornici în urmarea curatului Cuvânt.
+
+[c]
+Nu am mai drag în lume pe nimeni ca pe-acel,
+Ce n-are duhul trufaș, nici gând viclean în el.
+
+[v2]
+Cu suflet de prieteni și frați voi fi mereu,
+În stare să-nfrunt moartea și chinul cel mai greu.
+
+[c2]
+Spre-a Ie rămâne-alături, nedespărțit să pot,
+Mi-aș da cu bucurie avutul vieții tot.
+
+[v3]
+Căci ei gătesc prin munca și chinul lor mereu,
+Cerescul drum pe care se-ntoarce Dumnezeu.
+
+[c3]
+N-am frați și n-am prieteni mai dragi ca cei ce sunt,
+Statornici în urmarea curatului Cuvânt.

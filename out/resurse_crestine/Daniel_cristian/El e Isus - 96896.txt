@@ -1,0 +1,24 @@
+[title]
+El e isus {author: {Daniel Cristian}, {rcId: {96896}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Legat sunt de pământ
+Prin păcatul meu
+Dar cineva de sus
+Mi-a iertat tot greșul meu
+
+[c]
+/: El e Isus
+Fiu de Împărat
+Ce Tatăl, le-a trimis de sus
+Să ierte al meu păcat
+Să ierte al tău păcat :/
+
+[v2]
+N-am știu a Sa iubire
+Că e atât de mare
+Și că ea înseamnă
+A mea salvare.

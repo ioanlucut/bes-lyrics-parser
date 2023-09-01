@@ -1,0 +1,55 @@
+[title]
+Pentru mine ai venit {author: {Iulia Zaha}, {rcId: {212816}}
+
+[sequence]
+v1,b,c,v2,b,c,c,b,c,e,
+
+[v1]
+Pentru mine ai venit
+De slava Ta Te-ai lipsit
+Pân la Calvar m-ai iubit
+Deși n-aveam niciun merit
+
+[b]
+Dragostea Ta m-a găsit
+Prin al Tău har trăiesc
+Ființa-Ți dăruiesc
+Dragostea Ta m-a găsit
+Copleșit spre Tin’ privesc
+Mă-nchin și-Ți mulțumesc
+Tu de toate m-ai iertat
+M-ai binecuvântat
+Viață-n dar mi-ai dat
+Să se-audă ne-ncetat
+Hristos a înviat
+El m-a salvat!
+Dragostea Ta m-a găsit
+Prin al Tău har trăiesc
+Ființa-Ți dăruiesc
+Dragostea Ta m-a găsit
+Copleșit spre Tin’ privesc
+Mă-nchin și-Ți mulțumesc
+
+[c]
+La cruce m-ai eliberat
+Cu moartea pe moarte când ai călcat
+Cu Tatăl sfânt m-ai împăcat
+Tu din morți ai înviat!
+/: La cruce m-ai eliberat
+Cu moartea pe moarte când ai călcat
+Cu Tatăl sfânt m-ai împăcat
+Tu din morți ai înviat! :/ x2
+La cruce m-ai eliberat
+Cu moartea pe moarte când ai călcat
+Cu Tatăl sfânt m-ai împăcat
+Tu din morți ai înviat!
+
+[v2]
+Umilit, părăsit
+Și de toți batjocorit
+Te gândeai doar la min’
+Când cuie-n mâini Ți-am pironit
+
+[e]
+La cruce m-ai eliberat
+Cu moartea pe moarte când ai călcat

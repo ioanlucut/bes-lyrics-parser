@@ -1,0 +1,41 @@
+[title]
+Domnul ne istoriseste {author: {Diaz Amos}, {rcId: {237944}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Domnul ne istorisește,
+Bucuria în noi crește!
+%La Betleem, într-o iesle
+Un micuț copilaș este, ce sublim! %
+
+[v2]
+Iosif și Maria cântă
+Iară Irod se frământă,
+%Ni s-a născut Salvatorul
+E Isus, Mântuitorul, ce sublim! %
+
+[v3]
+Magii au venit de-ndată
+Pe copilaș să Îl vadă,
+%Saltă inimă și spune
+Să audă întreaga lume, ce sublim! %
+
+[v4]
+Păstorii din câmp veni
+Căci îngerul istorisi;
+%O ce bucurie mare
+Saltă și cântec și zare, ce sublim! %
+
+[v5]
+Steaua se arătase sus
+Pe păstori, magi a condus;
+%Aur, smirnă și tămâie
+I s-au pus la căpătâie, ce sublim! %
+
+[v6]
+Saltă toată zarea, cântă
+O ce bucurie sfântă,
+%Munți și mare, deal și vale
+Duc cântarea sus, în zare, ce sublim! %

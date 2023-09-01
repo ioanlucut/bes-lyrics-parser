@@ -1,0 +1,41 @@
+[title]
+Mai mult decat asteapta dimineata {author: {Dionisie Giuchici}, {rcId: {145483}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mai mult decât așteaptă dimineața
+Străjerii de pe ziduri obosiți,
+Noi așteptăm să vină Domnul nostru,
+Noi așteptăm să fim la cer răpiți!
+Mai mult decât așteaptă zorii zilei
+Străjerii care-o noapte au vegheat,
+Noi așteptăm cu toții răsăritul,
+Să vină Soarele Cel Minunat!
+
+[c]
+/: Noi așteptăm să vină cu slavă și lumină
+Mântuitorul nostru pe care Îl iubim;
+Mai mult decât așteaptă străjerii dimineața,
+Noi așteptăm pe Domnul, cu El să ne-ntâlnim! :/
+
+[v2]
+Ascultă, Doamne, cererile mele,
+Căci din adânc Te chem în ajutor,
+Ridică-mă din chinurile grele,
+Nu mă lăsa nemântuit să mor!
+La Tine Doamne am găsit scăpare,
+Tu-i ierți pe-aceia care s-au temut
+De-al Tău Cuvânt, de-a Ta amenințare
+Și-n bunătatea Ta s-au încrezut!
+
+[v3]
+Nădejdea noastră pentru veșnicie,
+La Tine noi cu toții am găsit,
+Belșug de pace și de bucurie
+Noi. de la Tine, Doamne, le-am primit
+Căci, Doamne, Tu nu-Ți mai aduci aminte
+Și uiți pe veci al nostru greu păcat
+Și ne îmbraci cu haine albe, sfinte,
+Căci prin Isus Tu ne-ai răscumpărat!

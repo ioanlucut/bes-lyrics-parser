@@ -1,0 +1,27 @@
+[title]
+Spre ceruri zilnic ma avant {author: {Ioan Hapca}, {rcId: {95244}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Spre ceruri, zilnic mă avânt
+Preaplin de pace, har și cânt,
+De bucurie și speranță
+Căci Domnul meu Preasfânt
+Mi-a dat o nouă viață.
+
+[c]
+/: Cu-avânt, cu-avânt,
+Spre ceruri mă avânt.
+Vestind, vestind,
+Cîntând și preamărind
+Mereu, mereu
+Pe Domnul și Mântuitorul meu. :/
+
+[v2]
+Dorința mea-i nespus de vie
+Să mă avânt cu bucurie
+Spre Locul Sfânt și minunat,
+Că-a cerului Împărăție
+Ființă-n ființa mea-a luat!

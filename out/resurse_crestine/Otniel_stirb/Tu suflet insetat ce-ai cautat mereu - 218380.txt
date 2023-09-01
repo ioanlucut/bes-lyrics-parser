@@ -1,0 +1,29 @@
+[title]
+Tu suflet insetat ce-ai cautat mereu {author: {Otniel Stirb}, {rcId: {218380}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Tu suflet însetat ce-ai căutat mereu
+Prin lume setea să îți potolești
+Departe-ai rătăcit.. străin de Dumnezeu
+N-ai vrea odihnă, astăzi să primești?
+
+[c]
+El te cheamă cu iubire astazi vino
+Lasă lumea fă un pas spre Dumnezeu
+Ușa harului e încă larg deschisă
+Azi e ziua mântuirii dragul meu
+
+[v2]
+Cu pași grăbiți alergi spre-a răului cărări
+Împins de-al fericirii tale vis
+Te simți împovărat de multe condamnări
+Ce vor să-ți ducă viața-nspre abis
+
+[v3]
+Ascultă chiar acum chemarea Celui sfânt
+Întoarce-te din drumul tău stingher
+Din miile de voci un glas te cheamă blând
+El vrea să-ți scrie numele în cer

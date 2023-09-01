@@ -1,0 +1,24 @@
+[title]
+Astazi venim {author: {Speranța}, {rcId: {78309}}
+
+[sequence]
+v1,c,e
+
+[v1]
+[:Astăzi venim să-Ți aducem inima pe-al Tău altar.
+Noi Te iubim pentru mântuirea ce ne-ai dat-o-n dar.
+Tu esti Domn al Domnilor,
+Tu ești Rege al Regilor,
+Ești Stăpân și Împărat, ești Acel ce ne-a salvat.
+
+[c]
+/: Te lăudam, Te lăudam,
+Mâinile spre Tine, Doamne, ridicăm.
+Te adorăm, Te adorăm,
+În prezența Ta, o, Doamne, vrem să stăm :
+/:]
+
+[e]
+[: Nimeni nu e ca Tine-n cer și pe pământ,
+Nimeni nu e ca Tine-n cer și pe pământ
+/: Tu ești Sfânt :/×4 :] ×2

@@ -1,0 +1,35 @@
+[title]
+Isus nume vesnic {author: {Speranța}, {rcId: {111301}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Isus este Cel din veșnicie
+Mesia, Domn preaînalt
+Lumină și viață din vecie
+Un frate și un prieten adevărat
+
+[c]
+Isus, Nume veșnic
+Isus, Nume măreț
+Ești mai presus de toate
+În întregul Univers
+
+[v2]
+Viața fără El e o ruină
+Viața fără El e un pustiu
+Prin Isus pășim pe Calea bună
+Către Dumnezeul nostru viu
+
+[v3]
+Vino la El prietene, acum
+Isus este Cel ce-ți dă iertare
+Lasă calea rea și vechiul drum
+Vino la El și vei găsi salvare
+
+[c2]
+Vino la Isus,
+Hai, vino la El
+Te cheamă, azi, Isus
+Să fii pe veci cu El

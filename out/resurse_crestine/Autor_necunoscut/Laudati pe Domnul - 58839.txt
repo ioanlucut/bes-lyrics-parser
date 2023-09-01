@@ -1,0 +1,27 @@
+[title]
+Laudati pe domnul {author: {Anonim}, {rcId: {58839}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+/: Lăudați pe Domnul, :/ x3
+Căci Domnul, este bun.
+
+[v1]
+Așa vom zice noi
+Cei răscumpărați,
+Scăpați din mâna celui rău,
+Chemați la viață,
+La lumină și har,
+Iertați prin jertfa lui Isus,
+La calvar.
+
+[v2]
+Atunci în strâmtorare
+Noi am strigat,
+Și Dumnezeu ne-a auzit,
+Cuvântul Lui cel sfânt
+Ne-a tămăduit,
+Speranță nouă am primit,
+Prin Isus.

@@ -1,0 +1,55 @@
+[title]
+Cerceteaza-ma {author: {Bianca Cernisov}, {rcId: {149262}}
+
+[sequence]
+v1,c,v2,c,c,c
+
+[v1]
+Cerceteaza-ma te rog
+Vorbeste-mi Tu cu dragoste
+Vreau sa aud doar vocea Ta
+Dumnezeul meu.
+Vezi daca sunt pe calea rea
+Aduma iar in prezenta Ta
+Sa privesc frumusetea Ta
+Dumnezeul meu.
+
+[c]
+/: Sufletul meu te doreste
+Inima mea azi cauta fata Ta
+Tu esti Domnul meu
+Si Dumnezeul meu.
+Vrea sa m-ascund la umbra aripilor Tale
+Sa ma odihnesc doar in prezenta Ta. :/
+Sufletul meu te doreste
+Inima mea azi cauta fata Ta
+Tu esti Domnul meu
+Si Dumnezeul meu.
+Vrea sa m-ascund la umbra aripilor Tale
+Sa ma odihnesc doar in prezenta Ta.
+/: Sufletul meu te doreste
+Inima mea azi cauta fata Ta
+Tu esti Domnul meu
+Si Dumnezeul meu.
+Vrea sa m-ascund la umbra aripilor Tale
+Sa ma odihnesc doar in prezenta Ta. :/
+
+[v2]
+Intinde mana Ta te rog
+Alina-mi Tu durerea mea
+Vreau mangaierea Ta sa simt
+Dumnezeul meu.
+Asculta Doamne ruga mea
+Te rog raspunde cand te chem
+Ma-ncred doar in cuvantul Tau
+Dumnezeul meu.
+
+[b]
+/: Esti iubirea mea,
+Esti totul in viata mea
+Tu esti Domnul meu,
+Esti Dumnezeul meu. :/
+Esti iubirea mea,
+Esti totul in viata mea
+Tu esti Domnul meu,
+Esti Dumnezeul meu.

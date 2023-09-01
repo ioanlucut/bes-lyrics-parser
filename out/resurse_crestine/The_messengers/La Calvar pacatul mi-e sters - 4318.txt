@@ -1,0 +1,41 @@
+[title]
+La calvar pacatul mi-e sters {author: {The Messengers}, {rcId: {4318}}
+
+[sequence]
+v1,c,v2,c,e,c
+
+[v1]
+Uimit de-atâta bogăție
+Ce am găsit, o Doamne-n Tin’
+Mă-ntreb ce-aș fi fără de Tine
+În viața acesta de suspin
+Credința, Pacea, Dragostea
+Ce le-am primit din mâna Ta
+Pentru nimic nu le-aș schimba
+Isus ești fericirea mea.
+
+[c]
+La Calvar păcatul mi-e șters
+La Calvar eu Har primesc
+/: La Calvar, mântuire am în dar
+Îți mulțumesc Isus pentru Calvar. :/
+
+[v2]
+Cine sunt eu să pot intra
+Doamne-n împărăția Ta?
+Nu merit și nu voi putea
+Să-Ți răsplătesc Iubirea Ta
+Dar pot să spun la toți Isus
+De harul Dragostei nespus
+Ce se găsește-n jerfa Ta
+Veniți și voi la Golgota.
+
+[e]
+De n-ar fi Golgota
+N-am ști ce-i dragostea
+N-am ști ce-s bucurii
+Nici zâmbet de copii
+Eram pierduți pe veci
+Legați în lanțuri reci
+În moarte și păcat
+Dar Isus, ne-a salvat.

@@ -1,0 +1,29 @@
+[title]
+Departat de casa {author: {Alexandru Groza}, {rcId: {1419}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Depărtat de casă, de la Dumnezeu
+Din drumul pierzării mă întorc și eu.
+În ceasul din urmă, Doamne, m-am trezit
+La a Ta chemare, Doamne, am venit.
+
+[c]
+/: M-am trezit la viata din pacatul greu
+Ce mare-i minunea in sufletul meu
+Din somnul pierzarii astazi m-am trezit
+Dulcea Ta chemare azi am auzit. :/
+
+[v2]
+Gol, fără credință mi-a fost sufletul
+Tu ai avut milă, m-ai întors din drum
+Cu psalmul lui David Tu m-ai mangaiat
+Tu mi-ai dat putere când eu m-am rugat.
+
+[v3]
+M-am trezit, o, Doamne, si-atunci m-am rugat
+Prin Cuvantul Tau Sfant Tu m-ai luminat.
+Tu mi-ai dat putere, Salvator iubit
+Astazi vin la Tine sa fiu mantuit.

@@ -1,0 +1,25 @@
+[title]
+Doamne astazi ne incinge {author: {Nicolae Moldoveanu}, {rcId: {5587}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Doamne, astazi ne incinge o Cu bratara de iubire!
+Astfel, nimeni nu ne-a-nfrange, o Caci manunchiul e-n unire.
+
+[c]
+/: Dragostea dintai e tinta o Faptele dintai din ea;
+Urmariti mult infratirea! o Urmariti azi dragostea! :/
+
+[v2]
+Multe tinte inainte o Ne aduc desavarsirea;
+Una singura, in urma o Ne arata clar menirea.
+
+[v3]
+Fara dragoste, pe cale o Esti chimval zanganitor;
+Dragostea ramane vesnic, o E un cant nepieritor!
+
+[v4]
+Dragostea, mereu se cere... o Azi mai mult ca orisicand...
+Daca dragoste avea-vom, o Fi-vom fiii Celui Sfant.

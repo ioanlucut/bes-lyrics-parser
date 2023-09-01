@@ -1,0 +1,41 @@
+[title]
+Te rog mai spala-mi haina {author: {Daniel Bolohan}, {rcId: {151402}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Mă văd rămas în urmă
+Lăsat de frații mei,
+Mă văd cuprins de teamă
+Căci nu sunt printre-ai Tăi!
+
+[c]
+/: Te rog, mai spălă-mi haina
+Și dă-mi uleiul Tău
+Sa luminez în noapte!
+O, Sfinte Dumnezeu! :/
+
+[v2]
+Căci vreau pe-a Ta cărare
+Să meargă pașii mei,
+Și eu atent în urmă
+Să îi urmez mereu.
+
+[v3]
+Dezleagă-mă, Părinte,
+De tot ce-n lume-i rău!
+Și dă-mi a Ta tărie
+Să lupt cu tot ce-i rău!
+
+[v4]
+Al Tău pentru vecie
+Să fiu, o, Domnul meu!
+Și Sus, în cer, cu drag
+Să locuim mereu!
+
+[v5]
+Mi-e dor, mi-e dor de Tine,
+Isuse, Domnul meu!
+Și vreau pentru vecie
+Să Te urmez mereu!

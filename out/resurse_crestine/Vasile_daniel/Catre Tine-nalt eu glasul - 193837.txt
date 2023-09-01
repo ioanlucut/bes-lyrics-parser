@@ -1,0 +1,35 @@
+[title]
+Catre tine-nalt eu glasul {author: {Vasile Daniel}, {rcId: {193837}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Către Tine-nalț eu glasul
+Și Te rog neîncetat,
+/: O îndreaptă-mi Doamne pasul
+Spre Tine cu-adevărat. :/
+
+[c]
+Pune dragostea în mine
+Dragostea din Dumnezeu
+/: Pune dorul după Tine
+Ca să Te iubesc mereu. :/
+
+[v2]
+Nu lăsa în mine Doamne
+Să mai fie-alte porniri,
+/: Stinge orice foc din mine
+Ce aprinde-alte iubiri. :/
+
+[v3]
+O, de mă mai plac pe mine!
+Eul de mi-l mai slujesc!
+/: Doamne-atrage-mă la Tine
+Ca pe veci să Te iubesc! :/
+
+[v4]
+Dragostea din Tine Doamne
+Dragostea din Duhul Tău
+/: Să aprindă doru-n mine
+Pe veci după Fiul Tău! :/

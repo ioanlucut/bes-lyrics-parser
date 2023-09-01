@@ -1,0 +1,35 @@
+[title]
+Noi te asteptam sa vii sa ne mangai {author: {Anonim}, {rcId: {153172}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Noi te așteptăm să vii să ne mângâi
+Pe acest pământ străin
+Nimeni nu poate da mângâiere ca a Ta
+Pe acest pământ străin.
+
+[c]
+/: Vino Isuse, vino o Doamne
+Vino să ne mângâi
+Vino Isuse, vino o Doamne
+Vino, te așteptăm să vii :/
+
+[v2]
+Unele-s căzute altele-s rănite
+Din a Tale oi Isus
+Vino și le-adună și fă-le o turmă
+Din oile ce-ai găsit.
+
+[v3]
+Vei găsi lovite slabe suferinde
+Din cauza adevărului.
+Poate și plăpânde, poate și flămânde
+După tine scump Isus.
+
+[v4]
+Ia-le pe-al Tău umăr dule-n a Ta turmă
+Vindecă răni, dureri
+Du-le la pășune, la izvoare bune
+Fii păstorul lor cel bun.

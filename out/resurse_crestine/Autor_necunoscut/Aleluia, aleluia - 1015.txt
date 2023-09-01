@@ -1,0 +1,15 @@
+[title]
+Aleluia aleluia {author: {Anonim}, {rcId: {1015}}
+
+[sequence]
+v1,c
+
+[v1]
+Aleluia, Aleluia
+Îți cânt azi și mă închin
+În templul Tău cel sfânt,
+Ești Împărat și Domn în veci,
+Luceafărul preasfânt.
+
+[c]
+Aleluia, Aleluia, Aleluia.

@@ -1,0 +1,44 @@
+[title]
+Unde-i imparatul? {author: {Marian Zamfir}, {rcId: {4397}}
+
+[sequence]
+v1,c,v2,c,v2,c,v3,c
+
+[v1]
+E din nou serbare cu colinzi și-urare
+E din nou Crăciun, e vuiet pe drum
+Dar din depărtare se-aude o-ntrebare
+Unde-I Împăratul, Regele Iudeu?
+Unde-I Împăratul, Fiu de Dumnezeu?
+Unde-I Împăratul?
+
+[c]
+/: Dar tu, omule? Unde ești? :/
+Unde ești?
+Unde-i Împăratul?
+
+[v2]
+E prima-ntrebare în Noul Testament
+Oare cine-a pus-o, magii sau Cel Drept?
+Iar din depărtare se-aude o-ntrebare?
+/: Unde ești, omule? Unde ești? :/
+Cheamă tot mereu privind înspre tine
+Bunul Dumnezeu.
+/: Unde ești, omule ?
+Unde ești :/ Unde ești?
+E prima-ntrebare în Vechiul Testament
+Iar omul se-ascunde, gol, independent.
+Și-e frică mare, o! Ce întrebare?
+/: Unde ești omule? Unde ești? :/
+Tot mai pribegești? Când ai să te-oprești?
+Când ai să-L primești?
+/: Unde ești, omule? Unde ești? :/
+Unde ești?
+
+[v3]
+Unde-I Domnul astăzi, raportat la tine?
+Unde e Isus, să răspunzi, creștine?
+Asta-i o-ntrebare, vei răspunde oare?
+Unde-I Împăratul, unde e Isus?
+Unde-i Împăratul, unde noi l-am pus?
+Unde-I Împăratul?

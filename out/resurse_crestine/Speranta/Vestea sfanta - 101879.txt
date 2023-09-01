@@ -1,0 +1,29 @@
+[title]
+Vestea sfanta {author: {Speranța}, {rcId: {101879}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Vestea sfânt-a Regelui din veșnicii
+Mai răsună astăzi pentru cei ce-s vii
+Să se-ntoarcă omul rău din calea lui
+Și viața să și-o-nchine Domnului!
+
+[c]
+/: În Isus e pace, e iubire și-ajutor
+Chiar și greu-n viață e ușor
+Vino azi la Isus și deschide-Ți inima,
+Lasă pacea Lui să intre-n ea! :/
+
+[v2]
+Dacă-n lumea asta ești nepăsător,
+Și-ai uitat ca să-L slăvești pe Creator,
+Nu uita că numai Domnul Dumnezeu,
+Te salvează, de-L primești pe Fiul Său!
+
+[v3]
+Temelia lui Isus e dragoste
+Sfințenia Lui străbate sferele
+Nu-ncerca să mai trăiești fără de El
+Căci vei regreta la urmă, dragul meu!

@@ -1,0 +1,30 @@
+[title]
+Din neam in neam esti adapost {author: {Marius Livanu}, {rcId: {4133}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Din neam în neam ești adăpost
+Celor ce se încred în Tine
+Tu vieții mele scut ai fost
+Când vânturi au bătut în mine.
+
+[c]
+Tu ești cetățuia mea
+Tu ești adăpostul meu
+O lumină-n noaptea grea, Tu Doamne
+Îmi ești scăpare, în ceasul greu,
+În zidul tare, din jurul meu.
+
+[v2]
+O mie cadă-n preajmă mea
+Și zeci de mii pot chiar să fie
+Rămân sub ocrotirea Ta
+Din Tine fac nădejde vie
+
+[v3]
+Eu niciodată nu mă tem
+De groaza nopții ce-o să fie
+Nici de săgeata celui rău
+Și nici de-aprinsa lui lucire

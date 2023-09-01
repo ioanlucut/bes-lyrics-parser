@@ -1,0 +1,27 @@
+[title]
+Pot sa se mute muntii {author: {Ariana Samoila}, {rcId: {71361}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+/: Pot să se mute munții,
+Pot să se clatine dealurile,
+Dar dragostea Mea
+Nu se va muta de la tine :/
+
+[c]
+/: ”
+Căci Dragostea Mea rămâne
+Dragostea Mea n-apune
+Dragostea” - Zice Domnul iar :/
+/: ”
+Căci legământul Meu rămâne
+Legâmantul Meu n-apune
+Legământul” - Zice Domnul :/
+
+[v2]
+/: Legământul Meu de Pace
+Nu se va clătina,
+Zice Domnul,
+Că așa va rămânea :/

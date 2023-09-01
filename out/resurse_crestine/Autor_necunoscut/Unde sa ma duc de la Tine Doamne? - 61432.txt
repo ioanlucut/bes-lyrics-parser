@@ -1,0 +1,23 @@
+[title]
+Unde sa ma duc de la tine doamne? {author: {Anonim}, {rcId: {61432}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Unde să mă duc de la Tine, Doamne?
+Unde să mă duc de la fața ta
+/: Numai la Tine este viața
+Mai de preț decât toata lumea :/
+
+[v2]
+Unde să mă duc de la Tine, Doamne ?
+Unde să mă duc de la fața ta
+/: Numai la Tine am găsit pacea
+M-ai de preț decât toata lumea. :/
+
+[v3]
+Unde să mă duc de la Tine, Doamne?
+În lume nu merg de la Tine
+/: Numai Tu ai Cuvântul Vieții
+Mai de preț decât prețul lumii :/

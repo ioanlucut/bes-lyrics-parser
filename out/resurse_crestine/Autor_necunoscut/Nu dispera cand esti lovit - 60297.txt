@@ -1,0 +1,53 @@
+[title]
+Nu dispera cand esti lovit {author: {Anonim}, {rcId: {60297}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Nu dispera cand esti lovit
+Si mergi plangand pe cale
+Cu sufletul indurerat
+Si versi lacrimi amare
+
+[c]
+/: Nu dispera o frate drag
+Oricat de mare-i greul
+Dispretuit si parasit
+Ca Tine-a fost si Domnul :/
+
+[v2]
+Mergi trist pe drum, anevoios
+Mergi frate, mergi ’nainte
+Hristos ti-e pavaza si scut
+Pastor, prea bun Parine
+
+[c2]
+/: E mangaiere-n ceasul greu
+E turnul de scapare
+Increde-Te in Dumnezeu
+Iti trimite salvare :/
+
+[v3]
+Mai e putin, s-a termina
+Necazul si-ncercarea
+Cand Domnul Isus va veni
+Se va sfarsi-alergarea
+
+[c3]
+/: Dureri si lacrimi n-or mai fi
+Nici plans, nici tanguire
+Vor fi eterne fericiri
+Cu Domnul in marire :/
+
+[v4]
+Cand semeni lacrimi pe-al tau drum
+Vei strange bucurie
+Cununa aici va strluci
+In semn de rasplatire
+
+[c4]
+/: Ce bucurii atunci vor fi
+Cand vom atinge telul
+La nunta cea din vesnicii
+Cu Mirele, cu Domnul :/

@@ -1,0 +1,35 @@
+[title]
+Veniti la mine-a spus isus {author: {Nicolae Moldoveanu}, {rcId: {244406}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Veniți Ia Mine-a spus Isus,
+Voi cei adânc împovărați,
+/: Și toți în harul meu de Sus
+Odihna vieții-o să aflați. :/
+
+[c]
+Veniți, veniți la Mine,
+Voi cei osteniți
+Veniți, veniți,
+Odihna vieții s-o găsiți!
+
+[v2]
+Luați cu toții jugul Meu,
+Căci cei ce duc povara Mea,
+/: Chiar și-n necazul cel mai greu
+Odihna vieții-și vor afla! :/
+
+[v3]
+Isuse și eu am venit,
+La Tine-adânc împovărat
+/: Și-n harul Tău cel fericit,
+Odihna vieții mi-am aflat! :/
+
+[v4]
+Ajută-mi jugul Tău purtând,
+Pe urma Ta mereu sa vin,
+/: Să-mi poți și mie da oricând
+Odihna vieții pe deplin! :/

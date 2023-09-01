@@ -1,0 +1,29 @@
+[title]
+De esti strain in lumea aceasta {author: {Gabriel Gorcea și prietenii}, {rcId: {112285}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+De ești străin în lumea aceasta, de ești trudit și apăsat
+De nu ai cui să spui necazul, și sufletul ți-e-mpovarat;
+Vreau să-ți spun prietene, ca și ține-am fost și eu
+Dar cineva m-a ajutat, și-acesta este. Dumnezeu
+
+[c]
+Încrede-te în Domnul din toată inima
+Și lasă-L pe El să conducă viața ta
+Încrede-te în Domnul orice ar venii
+La bine și la greu cu el vei birui.
+
+[v2]
+De ești în valea cu suspine, și soarele e-ascuns în nori
+Aurul se curățește atunci când este în cuptor
+Este cineva ce știe chiar și-atunci când ți-e mai greu
+El cunoaște orice gând, acesta este. Dumnezeu
+
+[v3]
+De ești străin în lumea această, de ești trântit pan’ la pământ
+De simți că nu mai ai speranță și crezi că lupți cu pumnu-n vânt
+Nici un fir de păr nu-ți cade, fără voia Domnului
+El e-acel ce știe tot, încrede-te. în brațul Lui.

@@ -1,0 +1,29 @@
+[title]
+Rut si naomi {author: {David Stănuș}, {rcId: {153058}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Așa vorbea odată către soacra ei
+O tânără femeie, despre iubirea ei
+Dorea în casă pâini, dorea un început
+Să plece cu Naomi, să uite de trecut.
+
+[c]
+Unde vei merge, voi fi și eu
+Lipit de tine e sufletul meu,
+Voi merge-n țara de unde-ai venit,
+Vom fi în Domnul de nedespărțit.
+
+[v2]
+Pe drumul căsniciei voi doi azi ați pornit
+Luați pe Rut exemplu și veți fi fericiți.
+Mai tare decât moartea este dragostea
+Celor ce sfârșesc drumul, ei vor primi cununa.
+
+[v3]
+Când dulcele cu-amarul se vor împleti,
+Uniți în Rugăciune voi doi veți mulțumi
+Și Binecuvântarea veni-va negreșit,
+În casa celor care rămân nedespărțiți.

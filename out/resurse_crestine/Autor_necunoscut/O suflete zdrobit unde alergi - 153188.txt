@@ -1,0 +1,41 @@
+[title]
+O suflete zdrobit unde alergi {author: {Anonim}, {rcId: {153188}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+O suflete zdrobit unde alergi
+Cu povara ta
+Unde te duci să cauți adăpost,
+Când vine ziua grea?
+
+[c]
+Vino la Isus cu-a ta durere
+El rana grea ți-o va lega
+Și mângâiere îți va da
+Domnul Dumnezeul tău.
+
+[v2]
+Unde alergi când ești disprețuit
+Și de toți uitat
+Te-ncrede-n cel ce-atunci când ți-a fost greu
+Nici când nu te-a uitat.
+
+[c2]
+Crede nencetat în cel ce poate
+Să-ți ia tristețea cea mai grea
+Să-ți poarte el povara ta
+Crede-n Domnul Dumnezeu.
+
+[v3]
+De șapte ori de cazi sub greutăți
+Nu decuraja,
+El ce-a promis va ține negreșit
+Și te va ridica.
+
+[c3]
+Crede ne-ncetat în Domnul frate
+De faci din El tăria ta
+Nimic nu te va clătina
+Crede-n biruința Sa.

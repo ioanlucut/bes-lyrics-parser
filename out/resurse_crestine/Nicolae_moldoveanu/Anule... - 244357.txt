@@ -1,0 +1,35 @@
+[title]
+Anule {author: {Nicolae Moldoveanu}, {rcId: {244357}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Anule care te-ai dus,
+Martor drept îmi vei fi Sus.
+Tot ce-n tine am trăit,
+Tu vei spune, negreșit,
+Dumnezeului Cel Sfânt,
+/: Tată-n cer și pe pământ. :/
+
+[c]
+/: Un an s-a dus, un an s-a dus,
+Cu bucurii și cu dureri,
+În Fața Domnului lsus,
+Mi-e martor pentru traiul dus,
+În biruințe sau căderi. :/
+
+[v2]
+Anule care-ai venit,
+De Ia Domnul Preaslăvit,
+Tu de azi ești drumul meu,
+Când mai Iin și când mai greu,
+Să poți spune-odată Sus,
+/: C-am trăit pentru Isus. :/
+
+[c2]
+/: Bine-ai venit, bine-ai venit,
+An nou ce mi te-a dat Isus,
+În El m-ascund și-s liniștit,
+Oricât ai fi de tăinuit,
+Bine-ai venit, bine-ai venit! :/

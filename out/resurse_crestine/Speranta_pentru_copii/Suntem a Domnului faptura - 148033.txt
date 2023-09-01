@@ -1,0 +1,37 @@
+[title]
+Suntem a domnului faptura {author: {Speranța pentru copii}, {rcId: {148033}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+/: Suntem a Domnului făptură:
+Cu păr, urechi și gură;
+Ochi și nas, bărbie și gât:
+Așa Domnul ne-a făcut. :/
+
+[c]
+/: Să vedem, să mirosim,
+Să gustăm, să auzim. :/ x 4
+
+[v2]
+/: Suntem făptura Mâini Tale:
+Cu umeri, mâini și picioare;
+Cu-n păr atât de minunat,
+Doamne, ne-ai creat. :/
+
+[c2]
+/: Să fugim, să ne jucăm,
+Să umblăm, să ne mișcăm. :/ x4
+
+[v3]
+/: E minunat să fii creat
+De Dumnezeu!
+E minunat să fii
+Numit copilul Său! :/
+
+[c3]
+/: Să vedem, să mirosim,
+Să gustăm, să auzim. :/
+/: Să fugim, să ne jucăm,
+Să umblăm, să ne mișcăm. :/

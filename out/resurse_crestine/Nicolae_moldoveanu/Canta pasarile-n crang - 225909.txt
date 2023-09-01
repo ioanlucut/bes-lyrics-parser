@@ -1,0 +1,21 @@
+[title]
+Canta pasarile-n crang {author: {Nicolae Moldoveanu}, {rcId: {225909}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cântă păsările-n crâng; nu sunt triste și nu plâng.
+Vesel este traiul lor, preamărind pe Creator!
+
+[c]
+Veseli să cântăm și noi, chiar când trecem prin nevoi.
+Să cântăm lui Dumnezeu, dragi copii mereu, mereu.
+
+[v2]
+Păsările ciripesc, chiar când n-au tot ce doresc.
+Ele cântă și atunci, Domnului Cel Sfânt—prin lunci.
+
+[v3]
+Bucuria lor nicicând nu-ncetează, ci cântând,
+Laudă cu-adevărat pe Acel ce le-a creat!

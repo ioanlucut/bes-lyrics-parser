@@ -1,0 +1,29 @@
+[title]
+Pe nori te-asteptam {author: {Adriana Stoica}, {rcId: {109739}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pe nori Te-așteptăm să vii
+Spre ceruri privind plângând
+Ajută-ne, o, Domnul meu
+Să nu ne găsești dormind.
+
+[c]
+/: Cu mâinile întinse, Doamne
+Pe nori Te-om întâmpina
+Pământul cu tot ce-i aicia
+Curând ele vor rămânea :/
+
+[v2]
+Îngerii vor cânta
+Când Doamne, Tu vei apărea
+Atunci toți copiii Tăi
+Spre cer se vor înălța.
+
+[v3]
+Nu vreți să cântați cu noi
+Cu toți să ne bucurăm ?
+Căci timpu-e aproape trecut
+Curând pe Isus îl vedem.

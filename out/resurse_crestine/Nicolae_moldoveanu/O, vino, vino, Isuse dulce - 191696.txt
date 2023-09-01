@@ -1,0 +1,29 @@
+[title]
+O vino vino isuse dulce {author: {Nicolae Moldoveanu}, {rcId: {191696}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+O vino, vino, Isuse dulce,
+Te cheamă astăzi iubirea mea.
+/: Tot mai străină, tot mai departe
+E lumea-n care străbat prin ea. :/
+
+[v2]
+O, vino, vino, s-aduci cu Tine
+O stare nouă, cu-n nou avânt
+/: Spre-o mai frumoasă și limpezită,
+Iubire-aprinsă din focul sfânt. :/
+
+[v3]
+O, vino, vino, Te-așteaptă-ntruna
+Iubirea albă cu flori de jar
+/: Și-n sărbătoarea nemaisfârșită,
+Vom fi-mpreună, scăldați în har. :/
+
+[v4]
+O, vino, vino, Isuse dulce,
+Mi-e dor de Tine, de-ai Tăi mie dor!
+/: Cu toți acasă, pe veșnicie,
+Cântați-vom slavă în veșnic cor. :/

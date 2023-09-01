@@ -1,0 +1,25 @@
+[title]
+Vino la isus {author: {Paradis}, {rcId: {208799}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Dacă vrei să ajungi în ceruri sus
+Alipește-ți viața ta de Isus
+Lasă tot ce-i rău aici jos pe pământ
+Cheamă-L azi pe acei, cei viu și sfânt!
+
+[c]
+/: Vino la Isus
+Vino azi sub pus
+Tu vei fii cu El în ceruri sus
+El e pacea ta
+Salvare iți va da
+Toate vei găsi la Golgota! :/
+
+[v2]
+Vrei să fii și tu pe veci salvat
+De Isus vei fii și tu iertat
+Recunoaște-L ca al tău Mântuitor
+Crede în al tău îzbăvitor!

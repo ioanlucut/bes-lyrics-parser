@@ -1,0 +1,35 @@
+[title]
+O de-ai vrea tu {author: {Mirela Ursulescu}, {rcId: {176612}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+O de-ai vrea tu să înțelegi
+De ce te-ncearcă Dumnezeu
+El te iubește și-ai să vezi
+Căci înspre bine e-al tău greu
+Când te căiești și nu primești
+Tot greul ce Domnul ți-a dat
+Tu doar pe loc ai să pășești
+Și n-ai s-ajungi aur curat.
+
+[c]
+Aurul îl curășește
+În cuptorul cel aprins
+Prin toate El te pregătește
+1x: Să poți ajunge-n Paradis
+(2x): Cu cât mai încercat vei fi
+Cu-atât mai mult vei străluci
+Căci doar așa vei deveni
+Aur curat pentru vecii.
+
+[v2]
+A ta-ncercare chiar de-i mare
+Tu doar așa te curățești
+În mulțumire și-ascultare
+Cu Domnul ai să biruiești
+Nu-ți pune-ncrederea în oameni
+C-ai să rămâi dezamăgit
+Căci doar Isus e bun prieten
+Adevărat și neclintit.

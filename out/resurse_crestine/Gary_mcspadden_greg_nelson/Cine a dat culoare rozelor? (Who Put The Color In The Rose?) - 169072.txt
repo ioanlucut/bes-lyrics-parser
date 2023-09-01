@@ -1,0 +1,29 @@
+[title]
+Cine a dat culoare rozelor? (who put the color in the rose?) {author: {Gary McSpadden, Greg Nelson, Traducere RO}, {rcId: {169072}}
+
+[sequence]
+s,v1,c,v2,c,s,c,s,c
+
+[s]
+Cine-i Acel ce-a dat culoare rozelor?
+El, Dumnezeu a dat culoare rozelor!
+Cât de multe sunt lucrările Tale, Doamne! Tu pe toate le-ai făcut cu înțelepciune, și pământul este plin de făpturile Tale. Ps. 104:24
+
+[v1]
+Rozele-nflorite cu-al lor parfum în zori
+Sunt fără pereche între mii de flori
+Privesc a lor splendoare, buchet viu, prețios
+Și mă-ntreb ce Creator le-mbracă-așa frumos?
+
+[c]
+Cine-a dat farmec rozelor?
+Cine-i Creatorul florilor?
+Din pământul unde cresc
+Viață au și înfloresc
+Cine-i Acel ce-a dat culoare rozelor?
+
+[v2]
+Voi vedea în ceruri pe Isus, Domnul meu
+Îmbrăcat cu slava de la Dumnezeu
+Cunosc o bucurie când știu că într-o zi
+Trandafirul din Saron, cu drag Îl voi privi.

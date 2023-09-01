@@ -1,0 +1,21 @@
+[title]
+Pe marea vietii {author: {Anonim}, {rcId: {210530}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pe marea vieții o barcă plutește ușor
+E noapte-ntunecoasă și cerul e plin de nori.
+
+[c]
+Te așteptăm Isuse, să vii, să vii lângă noi
+E noapte-ntunecoasă și cerul e plin de nori
+
+[v2]
+Odată pe mare Isus pe-nserate era
+O barcă-ncet pe valuri ușor mi se legăna.
+
+[v3]
+Văzând deci, ucenicii furtuna aceasta grea
+La Isus ei aleargă pentru a-L deștepta.

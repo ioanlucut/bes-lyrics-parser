@@ -1,0 +1,41 @@
+[title]
+Pe-un deal pe o cruce pe-un lemn rastignit {author: {Raluca și Raul Ursan}, {rcId: {84414}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c2
+
+[v1]
+Pe-un deal, pe o cruce, pe-un lemn răstignit,
+A ales Domnul Vieții să moară,
+S-a lăsat în piroane bătut, țintuit,
+Purtând a noastră ocară.
+
+[c]
+Se sfârșea Domnul meu pe o cruce de chin,
+Murea în cumplita durere,
+Ochii plânși, fruntea încoronată cu spini,
+Murea Isus în tăcere.
+
+[v2]
+Deseori mă gândesc la Golgota și azi,
+La chinul, la moartea cumplită,
+La sângele ce îi curgea pe obraz,
+La sulița-n coastă înfiptă.
+
+[v3]
+A lăsat cerul sfânt și sublimul locaș,
+A murit pe crucea murdară,
+Să trăiesc și să fiu unul dintre urmași,
+Pregătindu-mi în ceruri comoară.
+
+[v4]
+Azi Isus este viu, a-nviat dintre morți,
+Domnește în cer în mărire,
+A deschis pentru mine a cerului porți,
+A deschis ceru-ntreg pentru tine.
+
+[c2]
+Este viu, boldul morții Isus l-a înfrânt,
+Este viu, Împăratul Vieții,
+Va veni să ne ia, va veni în curând,
+Să ne ducă-n locașul cel Sfânt.

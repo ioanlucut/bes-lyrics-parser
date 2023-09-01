@@ -1,0 +1,21 @@
+[title]
+Cat esti in floarea vietii tale {author: {Nicolae Moldoveanu}, {rcId: {5626}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Cat esti in floarea vietii tale, o, fa ceva pentru Hristos!
+/: Ca sa-I poti odata spune, o, ca I-ai fost Lui de folos. :/
+
+[v2]
+Caci vine timpul batranetii, o, cand slabeste vazul tau;
+/: Ti se-ncruciseaza mersul, o, chinuindu-te mereu. :/
+
+[v3]
+Vezi, se apropie sfarsitul, o, timpul trece ca si-n zbor;
+/: Deci, lucreaza pana-i timpul, o, ca apoi sa te bucuri. :/
+
+[v4]
+De aceea, cat mai esti tanar, o, preda-I viata lui Cristos!
+/: Lasa lumea trecatoare, o, caci nu-ti este de folos. :/

@@ -1,0 +1,29 @@
+[title]
+Cand furtuna bate-n barca mea {author: {Ionel Saran}, {rcId: {128236}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Am un Tată sus în cer
+El m-ajută atunci când mi-e greu
+Mă veghează și Îl port în gând,
+Cât voi trăi pe pământ.
+
+[c]
+/: Cand furtuna bate-n barca mea
+Isus e cu mine-alăturea
+Mă pazeste mereu de cel rău,
+Mă iubește căci sunt Fiul Său. :/
+
+[v2]
+Nu mă lasă când mi-e greu
+Mă ia pe umărul Său
+Mă ridică și mă-ntărește,
+Pe mine mă iubește.
+
+[v3]
+E cu mine-n clipa grea
+Mă-ntărește când e grea lupta
+El îmi șterge lacrima,
+Și-mi alină durerea.

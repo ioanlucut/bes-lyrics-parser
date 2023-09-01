@@ -1,0 +1,29 @@
+[title]
+Vise de imprumut {author: {Dolores}, {rcId: {111438}}
+
+[sequence]
+v1,v2,c,v3,c
+
+[v1]
+Vise de împrumut, timpul meu trecut
+Toată viața mea, las la Crucea Ta.
+Tot ce am adunat, tot ce am sperat
+În mândria mea, las la Crucea Ta.
+
+[v2]
+Lacrimi și tăceri, drum spre nicăieri
+Toată vina mea, las la Crucea Ta.
+Gândul meu murdar, zâmbetul amar
+Și rușinea rea las la Crucea Ta.
+
+[c]
+Știu că m-ai iubit, prețul ai plătit
+Totul ai schimbat, ca să fiu curat!
+Tot ce-Ți pot eu da, n-ar putea schimba
+Tot trecutul meu, numai Harul Tău!
+
+[v3]
+Dorul meu în vânt, zborul meu înfrânt
+Amăgirea mea, las la Crucea Ta.
+Tot ce m-a durut, masca mea de lut
+Lacrimi fără rost, azi renunț la tot!

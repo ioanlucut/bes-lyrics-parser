@@ -1,0 +1,29 @@
+[title]
+De n-ar fi fost domnul de partea noastra {author: {Carmen Prodan}, {rcId: {178727}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+De n-ar fi fost Domnul de partea noastră,
+Să spună Israel acum!
+/: Ar fi năvălit apele șuvoi și-ar fi trecut talazuri peste noi,
+Ne-ar fi-necat de mult. : \
+
+[v2]
+De n-ar fi fost Domnul de partea noastră,
+Să spună Israel acum!
+/: Când s-au ridicat oamenii cei răi și cu mânie au venit la noi,
+Ne-ar fi-nghițit de vii. : \
+
+[v3]
+De n-ar fi fost Domnul de partea noastră,
+Să spună Israel acum!
+/: Însă Domnul fie binecuvântat, ca și o pasare noi am scăpat
+Din lațul Celui Rău! : \
+
+[v4]
+De n-ar fi fost Domnul de partea noastră,
+Să spună Israel acum!
+/: Ajutorul nostru este Domnul Sfânt, care-a făcut și Ceruri și Pământ,
+Să-L preamărim în veci! : \

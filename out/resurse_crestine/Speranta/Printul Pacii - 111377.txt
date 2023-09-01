@@ -1,0 +1,25 @@
+[title]
+Printul pacii {author: {Speranța}, {rcId: {111377}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Corul de îngeri sună, vestea ne-a adus
+Despre Isus, Mesia, Cel venit de sus
+
+[c]
+El e Prințul Păcii, e darul cel promis
+E unica speranța pentru Paradis.
+
+[v2]
+Slăvit să fie El, cel a fost și va fi
+Din slăvi a coborât, ce minunat va fi!
+
+[v3]
+Vine cu mare-ndurare, vine cu mare har
+Cu Tatăl avem împăcare, viață prin El am aflat
+
+[v4]
+Dați-I și voi azi mărire, din noapte să veniți
+El e Lumina Lumii, credeți și vă mântuiți

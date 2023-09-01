@@ -1,0 +1,32 @@
+[title]
+Ziditi-va casa cu domnul pe stanca {author: {Tabita Bobu}, {rcId: {152024}}
+
+[sequence]
+v1,c,v2,c2,e
+
+[v1]
+Acum stai alături de-o blândă făptură
+Sădită de Domnul în inima ta
+Iubește-o, îți zice și sfânta Scriptură
+Cum Isus iubit-a biserica Sa.
+
+[c]
+Veghează-i asupra-i cu dragoste multă
+Hrănește-o, îngrijește-o și nu-i face rău
+Ea-ți este supusă, în toate te-ascultă
+Și trupul ei gingaș e chiar trupul tău.
+
+[v2]
+Porniți deci de mână uniți pe vecie
+Și unde e unul să fie-amândoi
+Ce Domnul unește aici, o să fie uniți
+Și în ceruri și-n viața de-apoi.
+
+[c2]
+/: Trăiți deci cu Domnul în dragoste adâncă
+Iubiți-vă în Domnul, pe El să-L urmați
+Zidiți-vă casa cu Domnul pe stâncă
+Și-n casă cu Domnul la masă să stați :/
+
+[e]
+Iubiți-vă-n Domnul, pe El să-L urmați.

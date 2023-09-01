@@ -1,0 +1,29 @@
+[title]
+Ce dulce-i povara iubirii {author: {Nicolae Moldoveanu}, {rcId: {242506}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Ce dulce-i povara iubirii,
+Pe umeri curați așezată,
+Ea-i mirul din Templul măririi
+Și jarul pe-altarul jertfirii,
+Așa e povara iubirii,
+În inima-n care-i purtată!
+
+[v2]
+Ce albă e floarea iubirii,
+Mai albă ca neaua-nsorită,
+Ea-i sfânta podoab-a unirii,
+Și-i veșnic izvor fericirii,
+Așa este floarea iubirii,
+În inima-n care-i primită!
+
+[v3]
+Povara și floarea iubirii,
+Păstreaz-o și crește-o în mine
+Să fiu de folos mântuirii,
+La toți de pe calea pieirii,
+Prin harul ales al iubirii,
+Isus să-i atrag lângă Tine!

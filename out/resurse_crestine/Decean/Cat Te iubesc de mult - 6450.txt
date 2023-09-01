@@ -1,0 +1,26 @@
+[title]
+Cat te iubesc de mult {author: {Decean}, {rcId: {6450}}
+
+[sequence]
+v1,c,e,v2,c
+
+[v1]
+În fiecare zi m-ajuți să pot zâmbi
+Eu te iubesc Isus
+Chemând Numele Tău, te laud Domnul meu
+Eu te iubesc Isus
+
+[c]
+Am nevoie de Tine Doamne
+Am nevoie de Tina
+
+[e]
+Cât Te iubesc de mult
+Cât Te iubesc de mult
+Cât Te iubesc, cât Te iubesc Isuse
+
+[v2]
+Ai șters păcatul meu curat să fiu din nou
+Eu te iubesc Isus
+Tu-mi iei durerea mea, Tu schimbi viața mea
+Eu Te iubesc Isus

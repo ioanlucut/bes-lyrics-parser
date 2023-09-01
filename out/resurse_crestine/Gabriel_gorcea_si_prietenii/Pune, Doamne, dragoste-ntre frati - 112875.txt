@@ -1,0 +1,40 @@
+[title]
+Pune doamne dragoste-ntre frati {author: {Gabriel Gorcea și prietenii}, {rcId: {112875}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+/: Pune Doamne dragoste-ntre frați :/
+/: De la mic și pân’ la mare, ca s-aleagă fiecare
+Pune Doamne dragoste-ntre frați :/
+
+[v2]
+/: Pune Doamne dragoste-ntre fraț i :/
+/: Ca prin fapte de credință, s-ajungă la biruință
+Pune Doamne dragoste-ntre frați :/
+
+[v3]
+/: Pune Doamne dragoste-ntre frați :/
+/: Fă mereu să se iubească, să nu se mai clevetească
+Pune Doamne dragoste-ntre frați. :/
+
+[v4]
+/: Pune Doamne dragoste-ntre frați :/
+/: Frații să-și întindă mâna, să fie cu toții una
+Pune Doamne dragoste-ntre frați. :/
+
+[v5]
+/: Pune Doamne dragoste-n surori :/
+/: Fă ca ele-n adunare, să stea numa-n ascultare
+Pune Doamne dragoste-n suror i :/
+
+[v6]
+/: Pune Doamne dragoste-ntre frați :/
+/: Până la a Ta venire, să ne ducă-n veșnicie
+Pune Doamne dragoste-ntre frați. :/
+
+[v7]
+/: Pune Doamne dragoste-ntre frați :/
+/: Fă ca ei să fie una, până vor primi cununa
+Pune Doamne dragoste-ntre frați. :/

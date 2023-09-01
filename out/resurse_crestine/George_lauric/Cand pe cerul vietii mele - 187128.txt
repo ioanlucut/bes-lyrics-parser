@@ -1,0 +1,39 @@
+[title]
+Cand pe cerul vietii mele {author: {George Lauric}, {rcId: {187128}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Când pe cerul vieții mele norii negri-au năvălit
+Ascunzându-mi astfel bolta cea senină,
+Mi-am întors atunci privirea spre zenit și-n infinit
+Am zărit o dulce rază de lumină.
+
+[c]
+De aceea vin să mă-nchin și să țin
+Către cer stindardul Vieții
+Până-n zorii dimineții
+Când la cer mă vei chema;
+Să-Ți mulțumesc, să-Ți slujesc și să cresc
+În a Ta asemănare,
+Să se vadă tot mai tare
+Chipul Tău în viața mea.
+
+[v2]
+Când ispitele cumplite m-au cuprins în lupta grea
+Clătinându-mă-n văpaie sau furtună,
+Chiar de nu-Ți simțeam suspinul Tu mi-ai fost alăturea
+Căci Tu ști că sunt o mână de țărână.
+
+[v3]
+Când pe calea-nsingurării eu pășeam îndurerat
+Rătăcind stingher prin munții-ngrijorării,
+Pe cărarea deznădejdii harul Tău s-a arătat
+Și-am văzut dulceața binecuvântării.
+
+[v4]
+Când privirile trufașe se-ndreptau asupra mea
+Judecând a mea purtare cu osândă,
+Chiar de-a fost înaintarea-anevoioasă-n clipa rea
+Tu mi-ai fost sfătuitor cu vocea-Ți blândă.

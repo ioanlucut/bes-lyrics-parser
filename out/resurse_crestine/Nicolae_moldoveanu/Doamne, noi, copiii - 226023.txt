@@ -1,0 +1,25 @@
+[title]
+Doamne noi copiii {author: {Nicolae Moldoveanu}, {rcId: {226023}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Doamne, noi, copiii, Te-nălțăm prin cânt
+și mărim în lume Numele Tău sfânt.
+
+[c]
+Laudă și cinste prin cântări Îți dăm,
+Doamne, Domnul slavei, noi Te lăudăm!
+
+[v2]
+Crește-ne credința, ca să Te-ascultăm,
+gura ne-o sfințește, slavă să-Ți cântăm!
+
+[v3]
+Tu ești Tatăl nostru, noi ai Tăi suntem,
+și-orice daruri bune de la Tine-avem!
+
+[v4]
+Mulțumim de toate câte Tu ne-ai dat,
+fii, prin cântul nostru, Doamne, lăudat!

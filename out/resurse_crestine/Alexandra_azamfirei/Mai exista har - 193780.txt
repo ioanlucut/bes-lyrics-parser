@@ -1,0 +1,35 @@
+[title]
+Mai exista har {author: {Alexandra Azamfirei}, {rcId: {193780}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+O Doamne mai există har
+Pentru un om ca mine?
+Mă mai primești acum când vreau
+Să mă întorc la Tine
+Mai ai în mila ta un strop
+De leac de vindecare
+Să-mi vindeci sufletul bolnav
+Să-mi vindeci a mea stare
+
+[c]
+Să simt prin Duhul Tău ceresc
+O, sfântă-nviorare
+Și sufletul împovărat
+Să simtă dezlegare
+
+[v2]
+O Doamne mai există har
+Pentru un om ca mine?
+Mă mai primești acum când vreau
+Să mă întorc la Tine
+Mai ai în mila ta un strop
+De leac de vindecare
+Să-mi vindeci sufletul bolnav
+Să-mi vindeci a mia stare
+
+[e]
+Și sufletul împovărat
+Să simtă dezlegare

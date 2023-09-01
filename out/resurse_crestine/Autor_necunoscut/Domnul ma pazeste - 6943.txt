@@ -1,0 +1,41 @@
+[title]
+Domnul ma pazeste {author: {Anonim}, {rcId: {6943}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Domnul ma pazeste,
+Oriunde as fi
+Domnul ma iubeste,
+Si-mi da bucurii.
+
+[c]
+/: Chiar de sunt singur nu ma tem
+Caci Domnul e cu mine
+El ma pazeste de-orice rau,
+Si Mana Lui mi-ntinde. :/
+
+[v2]
+Domnul ma ajuta,
+Cand eu zic ca-I greu,
+El imi da putere,
+Stie gandul meu.
+
+[c2]
+/: Chiar de sunt singur nu ma tem
+Caci Domnul e cu mine
+El ma ajuta cand mi-e greu
+Si Mana Lui mi-ntinde. :/
+
+[v3]
+Domnul meu ma vede,
+Cand sunt intristat
+Mana-Si va atinge
+Si sunt mangaiat.
+
+[c3]
+/: Chiar de sunt singur nu ma tem
+Caci Domnul e cu mine
+Stiu ca ma vede ochiul Sau.
+Si Mana Lui mi-ntinde. :/

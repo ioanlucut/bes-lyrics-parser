@@ -1,0 +1,41 @@
+[title]
+Cine esti tu doamne? {author: {David Stănuș}, {rcId: {153069}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+„
+Cine ești Doamne?„ Te întreba
+Cel ce odinioară Te prigonea.
+Cel ce la moarte dădea pe sfinți
+Vărsa cu frații lacrimi fierbinți.
+Sunteți tăria, cununa mea,
+Bisericii sfinte, Pavel spunea.
+Păstrează-ți cununa și numele tău,
+Răsplată divină-ți va da Dumnezeu.
+
+[c]
+/: Cine ești Tu, Doamne?
+Te-ntreb după milenii,
+Când învățătura e după moda vremii. :/
+
+[v2]
+Cel ce la neamuri a fost trimis
+De-a Lui iubire a fost cuprins.
+Din loc în loc mergea mereu
+Vestea Cuvântul lui Dumnezeu.
+Barnaba și Sila, tovarășii săi,
+Adesea mergeau ei prin depărtări,
+Bătuți și-alungați în temnița grea
+Dar inima lor nu se temea!
+
+[v3]
+Credința am păzit-o, spunea neclintit,
+Bătrânul ostaș ce treaz a rămas.
+Pe urmele lui ne cheamă acum,
+Ne cheamă iubirea, al nostru Stăpân.
+Dacă citim prin câte-au trecut
+Primii creștini, cei de demult,
+Nu știu cum vom sta în fața Sa,
+În fața Celui din Golgota.

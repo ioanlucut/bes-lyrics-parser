@@ -1,0 +1,21 @@
+[title]
+Pierdut am fost {author: {Anonim}, {rcId: {5040}}
+
+[sequence]
+v1,c,e
+
+[v1]
+Pierdut am fost în lumea de păcat
+Dar Isus a venit și m-a salvat,
+Viață El mi-a dat, de povară m-a scăpat
+Deci sa-I dăm glorie, El e-mpărat.
+
+[c]
+/: Laudați pe Domul, :/ x3
+/: Și El vă va da, :/ x3
+Victoria.
+
+[e]
+/: Satan ai fost înfrânt pentru totdeauna, :/ x3
+/: Isus e Domnul, :/ x3
+El e-mpărat.

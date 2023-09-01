@@ -1,0 +1,29 @@
+[title]
+Samariteanule milos {author: {Ramona Vass}, {rcId: {211270}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Eram cazut în drum plângând
+Vrăjmașul m-a lovit cumplit
+În durerea mea eu am strigat
+O, Doamne tu nu ma lăsa
+
+[c]
+/: Samariteanule milos
+Întindeti astazi din nou mâna
+Tu ești balsam vindecator
+Tu ști să ierți și să legi rana :/
+
+[v2]
+Pacatul, viața mi-a zdrobit
+Ma-nfăsurat cu mii de fapte
+Ce doar rusine mi-au adus
+Și-n suflet doar singuratate
+
+[v3]
+Târziu în noapte când zăceam
+Și așteptam o mângăiere
+Tu Soare veșnic, ai venit
+Și-n dreptul meu ai scris iertare

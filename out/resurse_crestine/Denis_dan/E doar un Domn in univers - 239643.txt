@@ -1,0 +1,29 @@
+[title]
+E doar un domn in univers {author: {Denis Dan}, {rcId: {239643}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+E doar un Domn în univers,
+E Prietenul cel mai de preț,
+Iubirea Lui m-a fermecat
+La Golgota când m-a iertat.
+
+[c]
+Îl voi lăuda cât voi trăi
+Pe al meu Domn din veșnicii,
+Atât cât viață voi avea
+Doar pentru Domnul voi cânta.
+
+[v2]
+E doar un Salvator divin
+Ce a răbdat al nostru chin,
+Nu-i alt Mijlocitor în cer
+Decât Isus, Emanuel.
+
+[v3]
+Nu-i nici un mit, El este viu,
+Poți să fi și tu al Său fiu
+Și să îi cânți neîncetat
+În cerul sfânt și minunat.

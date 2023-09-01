@@ -1,0 +1,35 @@
+[title]
+In suferiti sunt bucurii {author: {?}, {rcId: {198556}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+În suferiți sunt bucurii
+Pe care altfel nu le știi
+Decât prin ele tu de treci
+Le știi folosul lor pe veci.
+
+[c]
+/: Cu Domnul Isus de vei fi
+Orice furtuni vei birui
+El îți trimite ajutor
+Scăpându-te chiar din cuptor :/
+
+[v2]
+În fața morții tremuri tu
+Te-ntrebi: ”o, ce va fi acum?”
+Dar vine El, lumina ta,
+Și calea ți-o va lumina.
+
+[v3]
+Când chiar în groapă te pândesc
+Spre hrana lor te hărăzesc
+Un înger Domnul a trimis
+Și toate trec ca într-un vis
+
+[v4]
+Deci niciodat’ să nu disperi
+Că Tată bun ai tu în cer
+Rămâi al Său copil curat
+Și din necaz vei fi scăpat

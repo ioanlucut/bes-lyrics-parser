@@ -1,0 +1,29 @@
+[title]
+Nu renunta {author: {Raymond Vancu și Tabita Alexa}, {rcId: {210979}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Când ești trist și povara îi grea
+Nu uita, El te va purta
+Zi de zi, în fiecare ceas
+Tu vei fi în mâna Sa
+Uneori simți că ești pierdut
+Și nu poți s-o iei de la început
+Nu renunța, doar privește-n sus
+Ai prieten pe Isus!
+
+[c]
+Chiar dacă tot ce ai avut
+Visele tale s-au pierdut
+Să știi că niciodată, El nu te va lăsa
+Chiar dacă unii te-au rănit
+Chiar dacă toți te-au părăsit
+Ridică-ți mâinile și cheamă-l pe Isus!
+
+[v2]
+Poate crezi, că totul s-a sfârșit
+Ai să vezi, El nu te-a părăsi
+Nu renunța, tu privește-n sus
+Ajutorul e Isus!

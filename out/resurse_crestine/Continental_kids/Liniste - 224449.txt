@@ -1,0 +1,50 @@
+[title]
+Liniste {author: {Continental Kids}, {rcId: {224449}}
+
+[sequence]
+v1,c,v2,c2,c3
+
+[v1]
+Nicio miscare, liniște mare
+Nicio suflare nu exista numai tăcere
+Liniste-adanca, apasatoare
+Nicio clipire sau adiere, numai tacere
+Dealuri si mare, luna si soare
+Nu existau nici pasari, nici fluturi si nicio floare
+Nu erau frunze si nici culoare
+Nu era vant, nici picuri, nici fulgi
+Doar liniste mare
+
+[c]
+/: Dar dintr-o data o voce porunceste
+Lumina fie si totul s-a schimbat.
+Cine vorbeste si are-asa putere
+E Dumnezeu care toate le-a creat :/
+
+[v2]
+Nicio miscare, liniste mare
+Nicio suflare nu exista numai tacere
+Liniste-adanca, apasatoare
+Nicio clipire sau adiere, numai tacere
+Vulturi si zebre, girafe, pantere
+N-ai fi vazut nici urme de lei sau taratoare
+Era doar haos si intuneric
+Totul statea incremenit fara miscare
+
+[c2]
+Dar dintr-o data o voce porunceste
+Lumina fie si totul s-a schimbat.
+Cine vorbeste si are-asa putere
+E Dumnezeu care toate le-a creat
+
+[c3]
+Lai lai lai lai lai lai la la la la la la la la
+Lai lai lai lai lai lai la la la la la
+Lai lai lai lai lai lai lai lai la la la la la la
+Lai lai lai lai lai lai la la la la la
+
+[c4]
+Dar dintr-o data o voce porunceste
+Lumina fie si totul s-a schimbat.
+Cine vorbeste si are-asa putere
+E Dumnezeu care toate le-a creat

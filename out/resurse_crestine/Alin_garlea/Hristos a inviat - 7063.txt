@@ -1,0 +1,33 @@
+[title]
+Hristos a inviat {author: {Alin Gârlea}, {rcId: {7063}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+În noaptea de-nviere prin văi, prin sat
+Când clopotele bat, uniți în priveghere
+Cu cei care n-au mângâiere
+/: Cântati: „
+Hristos a înviat!” :/
+
+[v2]
+În noaptea de-nviere când iar deodat’
+Lumina s-a dat, de-ai știi ce flori stinghere
+Și câtă lumină se cere
+/: Cântați: „
+Hristos a înviat!” :/
+
+[v3]
+În noaptea de-nviere prin văi, prin sat,
+Prin vânt legănat, purtând o scânteiere
+Ca semn că lumina nu piere
+/: Cântați: „
+Hristos a înviat!” :/
+
+[v4]
+Iar după înviere cu dor curat
+De crin nepătat, cu raza în unghere
+Să fiți ca un semn de putere
+/: Că-n voi: „
+Hristos a înviat!” :/

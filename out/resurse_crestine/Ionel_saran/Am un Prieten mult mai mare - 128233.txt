@@ -1,0 +1,31 @@
+[title]
+Am un prieten mult mai mare {author: {Ionel Saran}, {rcId: {128233}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+De când lumea am lăsat,
+Prietenii toți au plecat.
+/: Nu mai sunt prieteni cu mine,
+Chiar dacă le-am făcut bine. :/
+
+[c]
+/: Am un Prieten mult mai mare,
+M-a salvat de la pierzare.
+Și-a dat viața pentru mine,
+Mi-a dat a Sa mântuire. :/
+
+[v2]
+Lume lasă-mă în pace,
+Că nu mai ai ce îmi face.
+/: Căci Isus m-a mântuit
+Și de El eu sunt iubit. :/
+
+[v3]
+Nu-i mai mare bucurie,
+Să-L ai pe Isus cu Tine,
+Pe Isus Mântuitor,
+Și al tău ocrotitor,
+Și la bine, și la greu,
+E cu tine tot mereu.

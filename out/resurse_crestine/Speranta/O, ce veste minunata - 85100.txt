@@ -1,0 +1,35 @@
+[title]
+O ce veste minunata {author: {Speranța}, {rcId: {85100}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+O, ce veste minunată
+La Belteem ni se-arată,
+/: Îngerii cântau în cor
+S-a născut Mântuitor. :/
+
+[v2]
+Păstorilor ce-n câmp stăteau
+Turmele și le păzeau,
+/: Îngerii cântau în cor
+S-a născut mântuitor. :/
+
+[v3]
+Magi din răsărit aleargă
+Pruncul ei doresc să-L vadă,
+/: Plini de bucurii și dor
+S-a născut mântuitor. :/
+
+[v4]
+Vestea bună ea răsună
+Oamenii cu voie bună,
+/: Pretutindeni cântă-n cor
+S-a născut mântuitor. :/
+
+[v5]
+Să se audă-n toată lumea
+Căci sărbătorim acuma
+/: Zi de har e în popor
+S-a născut mântuitor. :/

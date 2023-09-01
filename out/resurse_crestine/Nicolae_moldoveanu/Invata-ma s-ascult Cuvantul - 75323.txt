@@ -1,0 +1,45 @@
+[title]
+Invata-ma s-ascult cuvantul {author: {Nicolae Moldoveanu}, {rcId: {75323}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Învață-mă s-ascult Cuvântul,
+Stăpânul meu prea bun,
+Chiar de s-ar despica pământul
+Și furios ar bate vântul.
+Învață-mă s-ascult Cuvântul,
+/: Și lui să mă supun :/
+
+[v2]
+Învață-mă să fiu statornic
+În rânduiala Ta,
+Fă-mi sufletul mereu mai dornic,
+În ascultare tot mai spornic,
+Învață-mă să fiu statornic,
+/: Și să rămân așa! :/
+
+[v3]
+Învață-mă lucrarea-Ți toată
+Și-ntreg să fiu în ea,
+Dă-mi o cunoaștere curată,
+De rătăcire dezlegată,
+Învață-mă lucrarea-Ți toată,
+/: Să nu-mi fac voia mea! :/
+
+[v4]
+Învață-mă deplin iubirea,
+Păzește-mă de rău,
+Să-mi înnoiești prin ea simțirea,
+Spre Tine să-mi îndrepți privirea,
+Învață-mă deplin iubirea,
+/: Și Adevărul Tău! :/
+
+[v5]
+În toate să mă-nveți pe mine,
+Stăpânul meu ceresc,
+Căci numai învățat de Tine,
+Pricep ce-i rău și ce e bine,
+Pricep Scripturile divine,
+/: Și știu cum să trăiesc. :/

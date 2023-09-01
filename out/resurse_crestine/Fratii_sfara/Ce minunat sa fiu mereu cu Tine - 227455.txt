@@ -1,0 +1,35 @@
+[title]
+Ce minunat sa fiu mereu cu tine {author: {Fratii Sfara}, {rcId: {227455}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ce minunat, să fiu mereu cu Tine!
+Ce minunat, să fiu copilul Tău!
+Când valuri și furtuni vin peste mine,
+mă ocrotește-ntruna brațul Tău.
+
+[c]
+Singur nu sunt, Tu ești mereu cu mine
+și-n zile cu soare dar și când mi-e greu.
+Sigur nu sunt, de-i rău sau de e bine,
+Tu vei rămâne Dumnezeul meu.
+
+[v2]
+Ce minunat, să stau în părtășie
+cu Tine și cu toți copiii Tăi!
+E minuant când stau în rugăciune
+cu toți aceia ce-s aleșii Tăi.
+
+[v3]
+Ce minunat, să știi că ai o țară
+aleasă, pregătită pentru noi!
+Te așteptăm, Isuse, să vii iară
+și-n cerul sfânt Tu să ne duci apoi.
+
+[v4]
+Ce har bogat, în marea-ți îndurare,
+Isuse, peste noi ai revărsat!
+Ajută-ne, să Te slujim cu-ardoare,
+mereu să Te iubim cu-adevărat!

@@ -1,0 +1,38 @@
+[title]
+Ce folos de viata ta pribeaga? {author: {Ovidiu Liteanu}, {rcId: {84296}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ce folos de viața ta pribeagă?
+Ai trăit-o fără Dumnezeu,
+Ai crezut că Dumnezeu există,
+Dar nicicând nu L-ai primit pe El.
+
+[c]
+Ce folos să ai de toate?
+Dacă nu ai mântuirea,
+Dacă nu ai fericirea cu Isus,
+Tot ce-ai strâns în astă lume,
+În curând le lași pe toate,
+Poate vei pleca la noapte,
+Prieten drag...
+
+[v2]
+Ce folos să spui că ai credință?
+Ce folos să te numești creștin?
+Când mereu ți-e inima aprinsă
+După lume cu al ei venin.
+
+[v3]
+Păcătos tu ești în lumea-aceasta,
+Osândit ești de păcatul tău,
+Domnul meu ISUS Hristos te iartă
+Vino să te-mpaci cu Dumnezeu!
+
+[v4]
+Domnul ISUS Hristos te cheamă
+Să te-ntorci la El să te predai,
+A ta inimă de azi să bată
+Pentru Domnul, să ajungi în Rai!

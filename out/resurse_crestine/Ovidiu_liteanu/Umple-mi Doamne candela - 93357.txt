@@ -1,0 +1,35 @@
+[title]
+Umple-mi doamne candela {author: {Ovidiu Liteanu}, {rcId: {93357}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Duhul Sfânt aici coboară
+Și pe toți ne înfășoară
+Cu iubirea Lui divină
+Ne inundă cu lumină
+
+[c]
+Umple-mi Doamne candela
+Să ard pentru Slava Ta
+O, inundă adunarea
+Să înceapă sărbătoarea
+
+[v2]
+Ca și roua dimineața
+Duhul Sfânt ne-a duce viața
+Sufletul ne înviorează
+Inima ne-o ține trează
+
+[v3]
+El ne umple cu iubire
+Ne ajută în sfințire
+Când va fi la miezul nopții
+Să ne ia din valea morții
+
+[v4]
+Spune dacă ești tu gata
+Că se aude maranata
+Domnul nostru iată-L vine
+Va veni și pentru tine.

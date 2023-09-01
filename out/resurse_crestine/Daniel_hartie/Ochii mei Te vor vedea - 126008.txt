@@ -1,0 +1,25 @@
+[title]
+Ochii mei te vor vedea {author: {Daniel Hartie}, {rcId: {126008}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ochii mei Te vor vedea, chiar de așteptarea-i grea
+În credință neclintit, Te aștept Isus și zic:
+
+[c]
+Stânca mea, stânca mea ești Isus de-a pururea
+Stânca mea, Stânca mea, într-o zi Te voi vedea.
+
+[v2]
+Nici o clipă nu disper, ochii mei privesc la cer,
+Prin furtuni, prin vijelii, Doamne, Stânca mea să fii.
+
+[v3]
+Chipul Tău strălucitor, mi-e balsam vindecător,
+Într-o zi, blând, m-ai privit, mi-ai vorbit, m-ai mântuit.
+
+[v4]
+De atunci, mereu, cu dor, Te aștept o, scump Păstor,
+Te slăvesc prin cântul meu, Stânca mea ești Dumnezeu.

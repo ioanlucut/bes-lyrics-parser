@@ -1,0 +1,35 @@
+[title]
+La altarul adevarului cand vii {author: {Nicolae Moldoveanu}, {rcId: {5841}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+La altarul adevarului, cand vii,
+Lasa-ti darul tau ’nainte
+/: Si alearga sa-mplinesti, intai si intai,
+Cele a-iubirii sfinte... :/
+
+[v2]
+La altarul rugaciunii, cand pasesti,
+Darul lasa-ti-l afara
+/: Si te-ntoarce, cu grabire, sa-mplinesti
+Legea dragostei-comoara... :/
+
+[v3]
+La altarul Evangheliei, cand mergi,
+S-aduci jertfa prin lucrare,
+/: Lasa-ti darul si, grabit, intai s-alergi
+La iubire si-mpacare... :/
+
+[v4]
+Si la orice-altare, cand vii sa-ti aduci
+Jertfele de multumire,
+/: Cerceteaza-te si-n viata-ntai s-apuci
+Caile dinspre iubire... :/
+
+[v5]
+Caci nu-i jertfa mai sfanta pe-acest pamant,
+Nici altar, nici darnicie
+/: Ca iubirea cea de sus, din Duhul Sfant,
+Flacara de-a pururi vie... :/

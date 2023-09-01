@@ -1,0 +1,39 @@
+[title]
+Cat de bun esti tata {author: {Depealtaplaneta}, {rcId: {150253}}
+
+[sequence]
+v1,c,v2,c,e,v3,c
+
+[v1]
+Atat de mult s-a spus despre tine, de cine esti
+Dar Tu ne-ai soptit in noapte de cat de mult iubesti
+Tu imi spui ca ma primesti si ca nu, nu ma mai lasi
+
+[c]
+Cat de bun esti tata
+Asa esti tu, asa esti tu
+Asa esti tu
+In iubirea ta
+Asa sunt eu, Asa sunt eu
+Asa sunt eu
+
+[v2]
+Atat de multi raspunsul il cauta in lung si-n lat
+Dar tu ai raspunsuri, Doamne la tot ce-am cautat
+Inainte sa rostesc, tu cunosti ce imi doresc
+
+[e]
+In ce moduri perfecte lucrezi
+In ce moduri perfecte lucrezi
+In ce moduri perfecte lucrezi
+In noi
+
+[v3]
+Ce iubire, ce-as putea sa mai zic
+Cum pot sa raspund
+Si ce pace, nu pot sa o explic
+Nu am ce sa spun
+Tu ma chemi la mult mai mult
+Tu ma chemi la mult mai mult
+Tu ma chemi la mult mai mult
+Sa cunosc dragostea ta!

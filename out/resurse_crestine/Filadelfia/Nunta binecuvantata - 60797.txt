@@ -1,0 +1,53 @@
+[title]
+Nunta binecuvantata {author: {Filadelfia}, {rcId: {60797}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Binecuvântată-i nunta tinerilor credincioși,
+Domnu-i face prin iubire fericiți și luminoși.
+Binecuvântată fie nunta voastră tot așa,
+Pe pământ și-n veșnicie să vă bucurați de ea.
+
+[c]
+Binecuvântată-i viața soților ascultători,
+Ei rămân în Domnul una, credincioși și iubitori.
+Binecuvântată fie viața voastră tot așa,
+Pe pământ și-n veșnicie să vă bucurați de ea.
+
+[v2]
+Binecuvântată-i roada soților rămași curați,
+Fiii lor vor crește-n Domnul credincioși adevărați.
+Binecuvântată fie roada voastră tot așa,
+Pe pământ și-n veșnicie să vă bucurași de ea.
+
+[c2]
+Binecuvântată-i munca soților nedespărțiți,
+Ei, prin harul rugăciunii, de nimica nu-s lipsiți.
+Binecuvântată fie munca voastră tot așa,
+Pe pământ și-n veșnicie să vă bucurați de ea.
+
+[v3]
+Binecuvântată-i casa celor primitori de frați,
+Dăruind, primesc belșugul - ajutând, sunt ajutați.
+Binecuvântată fie casa voastră tot așa,
+Pe pământ și-n veșnicie să vă bucurați de ea.
+
+[c3]
+Binecuvântată-i plata care vor primi-o Sus,
+Soții buni, uniți în slujba și-ascultarea lui Isus.
+Binecuvântată fie plata voastră tot așa,
+Pe pământ și-n veșnicie să vă bucurați de ea.
+
+[v4]
+Binecuvântată-i nunta tinerilor credincioși,
+Domnu-i face prin iubire fericiți și luminoși.
+Binecuvântată fie nunta voastră tot așa,
+Pe pământ și-n veșnicie să vă bucurați de ea.
+
+[c4]
+Binecuvântată-i viața soților ascultători,
+Ei rămân în Domnul una, credincioși și iubitori.
+Binecuvântată fie viața voastră tot așa,
+pe pământ și-n veșnicie să vă bucurați de ea.

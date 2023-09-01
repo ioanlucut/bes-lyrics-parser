@@ -1,0 +1,29 @@
+[title]
+Pe fiul tau pe cel preasfant {author: {Anonim}, {rcId: {7304}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pe Fiul Tău, pe Cel Preasfânt,
+Tu L-ai trimis pe-acest pământ
+Să poarte-al lumii greu păcat,
+Să fie Mielul înjunghiat.
+
+[c]
+/: O, Miel ceresc, blând Miel ceresc,
+Din tot adâncul te iubesc.
+Mă spală-n scumpul sânge-al Tău,
+O, Miel ceresc, o, Dumnezeu :/
+
+[v2]
+În dar ne-ai dat iubirea Ta,
+Noi te-am jertfit pe-o cruce grea,
+Un rege fals Te-am socotit,
+Pe Tine, Miel din cer venit.
+
+[v3]
+Eram pierdut în chin și iad,
+Tu m-ai găsit și m-ai salvat.
+Azi sunt un miel în brațul Tău,
+Tu-mi ești păstor și Dumnezeu.

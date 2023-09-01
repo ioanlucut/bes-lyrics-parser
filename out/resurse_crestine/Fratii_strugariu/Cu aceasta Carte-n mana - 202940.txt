@@ -1,0 +1,35 @@
+[title]
+Cu aceasta carte-n mana {author: {Frații Strugariu}, {rcId: {202940}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cu această Carte-n mână,
+Care este vestea bună,
+Eu călătoresc mereu.
+Pentru uni-i demodată,
+Pentru noi e pâinea dată,
+Din cer de la Dumnezeu!
+
+[c]
+Nu voi duce lipsă de nimic,
+Adevărul, pacea am găsit!
+Și-n Lumina Bibliei mereu, mereu, da!
+Mai aproape sunt de Dumnezeu!
+
+[v2]
+Cu această Carte-n mână,
+Totdeauna am lumină,
+Luminate Dumnezeu!
+Ea de dragoste-mi vorbește,
+Pocăința mi-o dorește,
+Mântuit să fiu și eu!
+
+[v3]
+Cu această Carte-n mână,
+Și tu poți să ai lumină,
+Duhul Sfânt din Dumnezeu!
+Să ai pace și iubire,
+Har divin și mântuire,
+Prin Fiul lui Dumnezeu!

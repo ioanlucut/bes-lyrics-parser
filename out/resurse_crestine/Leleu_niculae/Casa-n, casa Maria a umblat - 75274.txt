@@ -1,0 +1,27 @@
+[title]
+Casa-n casa maria a umblat {author: {Leleu Niculae}, {rcId: {75274}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Casă-n, casă Maria a umblat
+Toată seara pe toți i-a întrebat:
+”
+O, o, o, o! N-aveți un loc în casa voastră ?”
+Căci, nimeni, nici unul, n-a primit
+/: Doar o iesle cu paie s-a găsit. :/
+
+[v2]
+Toți dorm și nici măcar ei nu gândesc
+Că-n Betleem se naște Un Prunc Ceresc
+O, o, o, o nimeni, nici nu s-a așteptat
+Să vină Mesia
+/: Și cu toții în sat au adormit. :/
+
+[v3]
+Numai cel ce privește pe-nserat
+Numai cel ce vegează ne-ncetat
+O, o, o, o doar înțelepții, magii
+Și umilii păstori zăriră,
+/: Steaua ce anunță nașterea Sa. :/

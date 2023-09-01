@@ -1,0 +1,34 @@
+[title]
+Cum as putea sa tac ? {author: {Camelia}, {rcId: {6990}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: Cum aș putea să tac,
+Cum aș putea să tac și să nu-Ți cânt?
+Căci dacă eu nu-Ți voi cânta,
+Te va lăuda și mare și pământ. :/
+
+[c]
+/: Dacă voi tăcea, pietrele vor striga,
+Dacă nu Îți voi cânta, o, Doamne,
+Natura-ntreagă oricum Te va lăuda! :/
+
+[v2]
+/: Cum aș putea să tac,
+Cum aș putea să nu Îți spun
+Când văd la orice pas că mă iubești
+Și că ești bun? :/
+
+[v3]
+/: Cum aș putea să stau,
+Cum aș putea să stau în nepăsare
+Când simt atât parfum
+Și văd culori pe fiecare floare? :/
+
+[v4]
+/: Și cum să nu mă-nchin,
+Cum să nu mă-nchin cu mulțumire
+Când azi îngenuncheați
+Cad ai Tăi îngeri, din a Ta oștire? :/

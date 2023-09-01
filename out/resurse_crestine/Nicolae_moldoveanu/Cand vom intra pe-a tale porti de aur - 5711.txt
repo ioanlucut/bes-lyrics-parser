@@ -1,0 +1,41 @@
+[title]
+Cand vom intra pe-a tale porti de aur {author: {Nicolae Moldoveanu}, {rcId: {5711}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Când vom intra pe-a-tale porți de aur,
+Ierusalime, loc iubit și sfânt,
+/: Tot cerul va fi plin de osanale,
+Spre slava Celui pururi drag și sfânt. :/
+
+[v2]
+Uimiți de-atâta sfântă măreție,
+Scăpați de lutul ce ne-a frământat,
+/: În veci de veci, cânta-vom numai Ție
+Și sângelui ce ne-a răscumpărat. :/
+
+[v3]
+Cu ochii-n lacrimi de bucurie sfântă,
+Scăldați în raza Soarelui dorit,
+/: Nesăturați de Fața Ta cea blândă,
+Iți vom cânta, pe veci, căci ne-ai iubit. :/
+
+[v4]
+Pe străzi de aur ca sticla străvezie,
+Cu toți cei dragi și scumpi ce i-am iubit,
+/: Cânta-vom veșnic slavă, numai Ție,
+De dragostea cu care ne-ai iubit. :/
+
+[v5]
+Ierusalime, vei auzi cântarea,
+Ce îngerii n-o știu și n-au cântat,
+/: Atunci, în ziua când va fi serbarea
+Poporului pe veci răscumpărat. :/
+
+[v6]
+Când întristarea, din inimi, va fi ștearsă,
+Și fericirea veșnică va fi,
+/: Dorita noastră, scumpa noastră casă,
+Ierusalime, când te vom zări? :/

@@ -1,0 +1,27 @@
+[title]
+Asa cum david {author: {Anonim}, {rcId: {96616}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Așa cum David a lăudat
+Războiul când l-a câștigat,
+Așa îl voi lăuda.
+Femei cu tamburinele
+Lăudau-nălțându-și mâinile,
+Așa Îl voi lăuda.
+
+[c]
+/: Iar noi avem chiar astăzi
+Un drum spre ceruri sus,
+O poartă spre-nchinare,
+Prin jertfa lui Isus :/
+
+[v2]
+Așa cum Iuda a strigat,
+Dușmanul s-a înspăimântat
+De frica Domnului.
+Strigăm toți ca la Ierihon
+Și Îl lăudam pe-al nostru Domn,
+Așa ca Iosua.

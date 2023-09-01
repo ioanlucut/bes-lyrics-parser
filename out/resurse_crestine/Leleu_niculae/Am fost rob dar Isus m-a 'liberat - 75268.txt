@@ -1,0 +1,33 @@
+[title]
+Am fost rob dar isus m-a liberat {author: {Leleu Niculae}, {rcId: {75268}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Am fost rob, dar Isus m-a ’liberat,
+Dumnezeu, care Fiul Său Și-a dat.
+Plin de milă și de har,
+Și-a dus crucea pe Calvar.
+Am fost rob, dar Isus m-a ’liberat.
+
+[v2]
+Am fost gol, dar Isus m-a îmbrăcat,
+Dumnezeu, care Fiul Său Și-a dat.
+Plin de milă și de har,
+Și-a dus crucea pe Calvar.
+Am fost gol, dar Isus m-a îmbrăcat.
+
+[v3]
+Am fost orb, dar Isus m-a vindecat,
+Dumnezeu, care Fiul Său Și-a dat.
+Plin de milă și de har,
+Și-a dus crucea pe Calvar.
+Am fost orb, dar Isus m-a vindecat.
+
+[v4]
+Am fost trist, dar Isus m-a-nviorat,
+Dumnezeu, care Fiul Său Și-a dat.
+Plin de milă și de har,
+Și-a dus crucea pe Calvar.
+Am fost trist, dar Isus m-a-nviorat.

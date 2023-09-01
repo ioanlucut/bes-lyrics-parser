@@ -1,0 +1,30 @@
+[title]
+E vocea ta {author: {Speranța}, {rcId: {4294}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Printre miile de glasuri ce mă cheamă spre păcat,
+Eu aleg o voce sfântă care vrea să fiu salvat!
+Ca și susurul duios ce adie-atât de lin
+Eu aud mereu chemarea ce mă cheamă ca să vin!
+
+[c]
+/: E vocea Ta, e vocea Ta,
+Care schimbă viața mea!
+E vocea Ta, e glasul Tău,
+Ce mă cheamă la Dumnezeu! :/
+
+[v2]
+Când primejdii stau în cale ce mă amenință mereu,
+La ureche îmi șoptești să am grijă-n ceasul greu.
+La orice pas îmi ești aproape, mă indrumi cu-a Ta povață,
+Domnul meu scump Isus,
+Tu îmi ești a mea speranță!
+
+[v3]
+Vocea Ta îmi va rămâne dintre toate cea mai dragă,
+Și o voi iubi mereu, mai mult ca lumea-ntreagă!
+Mereu o voi prețui că a fost de partea mea,
+Și tot ea mă va primi în Împărăția Ta!

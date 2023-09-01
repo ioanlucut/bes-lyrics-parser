@@ -1,0 +1,35 @@
+[title]
+Isus e-al meu pastor {author: {Speranța}, {rcId: {101925}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ce mult El m-a iubit!
+Căci El m-a mântuit!
+Prin Jertfa Lui răscumpărat
+În sânge sfânt spălat!
+
+[c]
+Isus e-al meu Păstor!
+Iubit conducător
+El mă conduce la pășuni
+La ape dulci și la izvoare!
+
+[v2]
+Ajută-mă ca să-Ți slujesc
+O Doamne numai Ție
+Și să nu uit Iubirea Ta
+Și s-ajung în Împărăția Ta
+
+[v3]
+Cum pot să-Ți seamăn Ție
+În vorbe și-n fapte ?
+Urmându-Ți calea Ta, Isus
+Pân’ voi ajunge Sus
+
+[v4]
+Cu dor aștept măreața zi
+Când Tu pe nori vei apărea
+Eu știu că mult nu va mai fi
+Și noi cu toți te vom vedea

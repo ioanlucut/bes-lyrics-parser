@@ -1,0 +1,39 @@
+[title]
+La crucea ta isus {author: {Ioana Teodoru, David Preuteasa}, {rcId: {193508}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Privesc la viața plină de-ncercare
+Și-n jurul meu nu pot să mai zăresc
+Vreo urmă ca să Te găsesc în vale
+Îndreaptă-mi pașii să nu rătăcesc!
+
+[c]
+La crucea Ta Isus, scump Mântuitor
+M-ai ridicat atunci când am căzut.
+Te rog, cu mâna Ta, de Creator
+Să faci din mine tot ce ai fi vrut!
+La crucea Ta Isus, scump Mântuitor
+M-ai ridicat atunci când am căzut.
+Te rog, cu mâna Ta, de Creator
+Să faci din mine tot ce ai fi vrut!
+
+[v2]
+Oricât de grea ți-ar fi înaintarea
+Nu te opri nicicând din mersul tău
+Doar prin Isus tu poti avea puterea
+S-ajungi în cer, lângă Dumnezeu!
+
+[v3]
+Ce har măreț, ce binecuvântare
+Să fiu găsit, la pieptul Tău, ascuns.
+Pot totul în Hristos, El mă-ntărește
+De-aceea merg ’nainte cu Isus!
+
+[e]
+La Tine vin,
+Isus, Ție mă închin
+Cu tot ce sunt eu
+Vreau să-ți aparțin!

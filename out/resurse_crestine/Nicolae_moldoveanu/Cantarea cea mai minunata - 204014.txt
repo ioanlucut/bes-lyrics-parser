@@ -1,0 +1,33 @@
+[title]
+Cantarea cea mai minunata {author: {Nicolae Moldoveanu}, {rcId: {204014}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Cântarea cea mai minunată ce răsuna-va pe pământ,
+Va fi în ziua când veni-va Isus cu-ai Săi din cerul sfânt.
+Acordul ei, cel plin de slavă, uni-va miile de mii
+De îngeri și de sfinți, cântându-I neauzite armonii.
+
+[c]
+„
+Osana, osana” suna-va din inimile tuturor,
+Cântând slăvita biruință a Marelui Biruitor!
+
+[v2]
+C-atunci se va preda în mâna Stăpânului adevărat,
+Împărăția lumii care zăcu-se-atâta în păcat.
+Și-atunci se va-ntrona dreptatea, pe veșnicii de veșnicii,
+În lumea-n care-atâtea veacuri domnit-au negrele urgii.
+
+[v3]
+Iar cerul nou, umplut cu slavă, unit va fi cu-n nou pământ,
+Pe veșnicia veșniciei, prin Numele Isus, cel sfânt.
+Împărăția fericirii se va întinde peste tot,
+Și-n veci cânta-vom toți ”
+Osana! Sfânt, sfânt e Domnul Savaot!”
+
+[e]
+Cântând slăvita biruință a Marelui Biruitor!
+I: Cântările Domnului, volumul 2, cântarea 211.

@@ -1,0 +1,57 @@
+[title]
+Pentru cel ce are avere {author: {Frații Bălan}, {rcId: {144833}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Pentru cel ce are avere,
+Dar și pentru cel sărman;
+Pentru prinți și regi puternici,
+Pentru văduvă și orfan, -
+Din Ținuturi Nevăzute,
+Din Țara Splendorilor,
+Pentru oile pierdute,
+A Venit Un Salvator.
+
+[c]
+El Este Domnul nostru, Sfânt, Isus,
+Comoara Ce-a Venit de Sus;
+Numele Lui E Minunat,
+El Este-al nostru Împărtat. -
+Cu Ceru-ntreg, azi, Îi cântăm;
+„
+Mărire! Slavă-n veci!” - Îi dăm.
+Pe Fiu Sfânt de Dumnezeu,
+Îl Lăudăm!
+
+[v2]
+Pentru lumea-ntunecată,
+În durere și păcat,
+Pe Isus, Lumina Vieții,
+Dumnezeul Sfânt L-a dat.
+El e Alfa și Omega,
+E Păstorul Cel Milos,
+E Mesia Salvatorul,
+Prințul nostru Glorios.
+
+[v3]
+Dumnezeu, din Înălțime,
+Ce-a avut mai Scump Și-a Dat,
+Pentru toți aceia care,
+L-au iubit sau L-au scuipat. -
+Ne-a trimis în Dar iertarea,
+Prin Isus-Emanuel,
+Ca oricine crede-n Fiul,
+Să fie în Rai, cu El.
+
+[c2]
+El Este Domnul, Sfânt, Isus,
+Comoara Ce-a Venit de Sus;
+Numele Lui E Minunat,
+El Este-al nostru Împărtat.
+Cu Ceru-ntreg, azi, Îi cântăm;
+„
+Mărire! Slavă-n veci!” - Îi dăm
+Pe Fiu Sfânt de Dumnezeu,
+Îl Lăudăm!

@@ -1,0 +1,29 @@
+[title]
+Strain pribeag {author: {Mirela Ursulescu}, {rcId: {176599}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Străin pribeag în lume-aceasta
+Sunt eu pe-acest pământ
+Dar am în ceruri o comoară
+La Tatal meu cel Sfânt.
+
+[c]
+Străin dar nu singur pe lume
+1x: Cu mine este Dumnezeu
+Atât la greu cât și la bine
+2: x Cu El biruitor sunt eu.
+
+[v2]
+M-am săturat de-acest pământ
+Atât de păcătos
+Unde-i doar goană după vânt
+Mi-e dor de-al meu Hristos.
+
+[v3]
+Străin dar cu mare speranță
+Atunci când va veni
+M-așteaptă o nouă viață
+Cu El în veșnicii.

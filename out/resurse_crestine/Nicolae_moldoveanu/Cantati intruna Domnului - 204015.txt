@@ -1,0 +1,29 @@
+[title]
+Cantati intruna domnului {author: {Nicolae Moldoveanu}, {rcId: {204015}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cântați întruna Domnului, cântare nouă,
+Din inimi și din glas să-I dați,
+Lui, slava-atunci când voi cântați,
+Cu ochii-n rouă.
+
+[c]
+Cântați, cântați, pentru Isus,
+Mereu, cântare nouă,
+Cântăm, cântăm, pentru Isus,
+Cântare tot mai nouă.
+
+[v2]
+Voi, cei iubiți de El, cântați a lui iubire,
+Din inimi și din glas să-I dați,
+Cu ochii-n lacrimi când cântați,
+Despre iubire.
+
+[v3]
+Suntem iubiți pe veci, suntem iubiți de Tine,
+Pe veci și noi, Isuse, vrem,
+Cântând, să-Ți aducem,
+Iubiri depline.

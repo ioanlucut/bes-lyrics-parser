@@ -1,0 +1,29 @@
+[title]
+In grajd pe paie un prunc se naste {author: {Сэм Перебиковский Trad. AC}, {rcId: {209165}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În grajd pe paie, un Prunc se naște
+Pentru ca eu să fiu salvat
+El e speranță și siguranță
+Maria blând Îl legăna.
+
+[c]
+S-a născut ca să ne-arate
+Dragostea Lui pentru noi
+Izbăvindu-ne de la păcat
+Pace am primit, pace am primit și eu
+
+[v2]
+Cine-a crezut că în noaptea-ceea
+Se naște Domnul Domnilor
+Ce ne dă pace, ne dă putere
+De-anvinge orișice păcat.
+
+[v3]
+În grajd pe paie, născut în iesle.
+Acum ne-așteptă sus în cer
+Ne cheamă astăzi și ne oferă
+Să fim în veci cu El în rai.

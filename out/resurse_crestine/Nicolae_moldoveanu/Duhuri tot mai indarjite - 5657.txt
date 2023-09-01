@@ -1,0 +1,25 @@
+[title]
+Duhuri tot mai indarjite {author: {Nicolae Moldoveanu}, {rcId: {5657}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Duhuri tot mai indarjite o Si mai tainic navalesc,
+/: Doamne, peste mine-ntruna, o Cu cat vreau ca sa-Ti slujesc... :/
+
+[c]
+/: Dar Tu-mi esti, Tu-mi esti, in greu,
+Izbavirea mea, izbavirea mea, mereu! :/
+
+[v2]
+Tot mai mult imi vin ispite o Si furtunile mai mult,
+/: Doamne, vor sa ma doboare, o Cu cat vreau sa Te ascult. :/
+
+[v3]
+Lupte-s tot mai multe-n cale o Si mai tainic se ascund,
+/: Doamne, mersul sa mi-l curme o Cu cat vreau sa Te patrund... :/
+
+[v4]
+Dar Tu-mi spui sa am credinta o Inspre Tine, necurmat!...
+/: Doamne, dar si daru-acesta o Tot din Tine-mi este dat... :/

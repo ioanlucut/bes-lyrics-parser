@@ -1,0 +1,35 @@
+[title]
+Povara zilei {author: {The Messengers}, {rcId: {4302}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Nu vă-ngrijorați gândindu-vă
+Ce veți mânca.
+Nu va-ngrijorați gândindu-vă
+Ce veți bea.
+Nu va-ngrijorați gândindu-vă
+Ce veți îmbrăca.
+Tatăl vostru Cel din ceruri
+Știe să vi le dea.
+
+[c]
+Ajuta-mă să port necazul zilei
+Căci numai cu Tine-L pot purta
+Să nu mă-ngrijorez ce va fi mâine
+Ajunge zilei povara sa.
+
+[v2]
+Căutați mai întâi de toate
+Împărăția Lui.
+Și-a neprihănirii cale
+Spre slujba Domnului.
+Căci de grijă poartă Domnul
+Promite în Cuvânt
+El e Credincios, Puternic
+Drept, milos și Sfânt.
+
+[e]
+Ajunge zilei de azi
+Povara sa.

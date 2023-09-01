@@ -1,0 +1,43 @@
+[title]
+Vrem sa stie fiecare {author: {Nicu Rusu}, {rcId: {84641}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Să pornim cu colindatul, să pornim cu toți în cor,
+Vestea bună să o ducem tuturor!
+Căci Isus S-a întrupat, să ne scape din păcat,
+Toți în El au Salvator, Ce minunat!
+
+[c]
+Vrem să știe fievâcare
+În Isus găsesc salvare din păcat;
+Să-I cântăm, dar, mic și mare,
+Lui Hristos Isus: ”
+Mărire!” ne-ncetat!
+
+[v2]
+Să pornim cu colindatul, să pornim cu toți acum,
+Pe Isus să-L ducem celor de pe drum,
+El e darul minunat, e al Păcii Împărat,
+Salvatorul lumii-ntregi, Ce minunat!
+
+[c2]
+Vrem să știe fiecare
+Doar Isus ne poate mântui deplin,
+Să-I cântăm dar : ”
+Aleluia!”
+Slavă-n veci, Mântuitorului Divin!
+
+[v3]
+Să pornim cu colindatul, până încă mai e har
+Câtă vreme mântuirea e în dar...
+Pentru noi S-a întrupat, jertfă pentru noi S-a dat,
+Cine crede-n El, pe veci este salvat!
+
+[c3]
+Vrem să știe fiecare
+Doar Isus e Calea către Paradis.
+Să-I cântăm, dar, mic și mare,
+Cerul slavei pentru noi este deschis!

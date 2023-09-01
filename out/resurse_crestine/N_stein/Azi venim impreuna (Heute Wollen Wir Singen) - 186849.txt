@@ -1,0 +1,33 @@
+[title]
+Azi venim impreuna (heute wollen wir singen) {author: {N. Stein, Traducere RO}, {rcId: {186849}}
+
+[sequence]
+v1,c,v2,c,v3,c,s,c
+
+[v1]
+Azi venim împreună
+Bucuroși să cântăm
+Domnul nostru trăiește
+Slava Lui o ’nălțăm.
+
+[c]
+A-nviat, Aleluia! Aleluia
+Isus, Mielul jertfit Mielul jertfit
+Moartea a biruit-o a biruit
+Și la cer s-a suit!
+
+[v2]
+Toma n-a vrut să creadă
+Că Isus a-nviat
+El dorea doar să vadă
+Semnul din mâna Sa.
+
+[v3]
+Fericiți, ucenicii
+Cu Isus au umblat
+Chiar și noi, peste veacuri
+Îl slăvim ne-ncetat.
+
+[s]
+Ceilalți ucenici i-au zis deci: ”
+Am văzut pe Domnul!” Ioan 20:25

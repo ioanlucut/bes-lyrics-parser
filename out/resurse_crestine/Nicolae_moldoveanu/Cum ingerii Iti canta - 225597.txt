@@ -1,0 +1,29 @@
+[title]
+Cum ingerii iti canta {author: {Nicolae Moldoveanu}, {rcId: {225597}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Cum îngerii Îți cântă-n cer,
+și noi copiii, pe pământ
+vrem să-Ți cântăm în adevăr,
+Isuse-n cântec viu și sfânt
+Te lăudăm, Te lăudăm,
+/: Isuse-n cântec viu și sfânt :/
+
+[v2]
+Cum îngerii Te-ascultă Sus,
+și noi, copiii-aicea jos
+vrem s-ascultăm, iubit Isus,
+Cuvântul Tău cel preafrumos!
+Vrem s-ascultăm, vrem s-ascultăm
+/: Isuse, Cuvântul Tău frumos :/
+
+[v3]
+Cum îngerii din cer sunt sfinți,
+și noi, copiii-aici dorim
+să fim așa curați, cuminți
+ca ei, Isus, să trăim!
+Ne închinăm, ne închinăm,
+/: Isus, ca îngerii să fim! :/

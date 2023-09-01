@@ -1,0 +1,29 @@
+[title]
+Din slava stralucirilor albastre {author: {Biruința}, {rcId: {55860}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Din slava strălucirilor albastre
+Un mic copil Tu, Doamne-ai dăruit
+Aceștia doi deplină bucurie
+Prin el în inimi, Doamne au primit.
+
+[c]
+/: Ia mâna lui în mâna Ta Părinte
+Călăuzește-I pașii spre liman
+Al tău copil să fie până la moarte
+S-ajungă-n fericitul Canaan. :/
+
+[v2]
+În orice clipă Doamne dă-I lumină
+De-ai săi părinți, Tu fă-l ascultător
+Chipul Tău Sfânt în el ca să se vadă
+Cu Tine-n toate va fi-nvingator.
+
+[v3]
+Înstrâmtorat în viață va ajunge
+În suferinti, necazuri, încercat
+Fă să-și ridice ochii înspre Tine
+Și-n veci El va fii binecuvântat.

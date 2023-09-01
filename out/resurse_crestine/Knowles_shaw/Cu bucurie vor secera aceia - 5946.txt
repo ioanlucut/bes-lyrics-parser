@@ -1,0 +1,29 @@
+[title]
+Cu bucurie vor secera aceia {author: {Knowles Shaw}, {rcId: {5946}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Va fi bucurie pentru toți aceia,
+Cei ce azi cu lacrimi pun sămânța lor;
+Numai dacă de la Domnul au sămânța,
+Căci de snopi numai-atunci bucura-se-vor!
+
+[c]
+/: Snopi aduce-vor :/
+Cei ce azi cu lacrimi pun sămânța lor!
+/: Snopi aduce-vor :/
+Sus în cer gusta-vor bucuria lor.
+
+[v2]
+Puneți dimineața-a cerului sămânță,
+Nu-ncetați și de-ar fi chiar la miez de zi;
+Semănați și dacă s-apropie seara,
+Că-n sfârșit un mare seceriș va fi!
+
+[v3]
+Semănați în inimi și de-ar fi ca drumul,
+Ori pietros pământul, unde semănați,
+Totuși vor cădea și pe pământul cel bun
+Și-apoi din rod însutit voi veți gusta.

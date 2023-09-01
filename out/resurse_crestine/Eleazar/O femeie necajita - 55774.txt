@@ -1,0 +1,28 @@
+[title]
+O femeie necajita {author: {Eleazar}, {rcId: {55774}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O femeie necajita a venit la Elisei
+Sa-i spuna a ei durere, sa-i spuna necazul ei
+Caci barbatul ei murise si a ramas cu datorii
+Si acel ce-o imprumutase vrea sa-i ia cei doi copii
+
+[c]
+/: Izbavire, izbavire nu avea
+Insa bunul Dumnezeu,
+El s-a indurat de ea :/
+
+[v2]
+Aplecat sa ceara vase de la toti ai sai vecini
+Caci durerea ei e mare, drumu-i presarat cu spini
+A intrat apoi in casa cu copiii dupa ea
+Ea ducea vasele goale si Isus i-le umplea
+
+[v3]
+Dar la fel ca si femeia, mai sunt azi multimi de frati
+Peste care vanturi grele cu putere si astazi bat
+Nu exista mangaiere decat doar la Dumnezeu
+Vaduvele si orfanii le tine pe bratul Sau.

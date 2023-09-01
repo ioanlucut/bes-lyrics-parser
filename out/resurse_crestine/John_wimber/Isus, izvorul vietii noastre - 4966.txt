@@ -1,0 +1,27 @@
+[title]
+Isus izvorul vietii noastre {author: {John Wimber}, {rcId: {4966}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Isus, izvorul vieții noastre,
+Har ceresc ne-ai dăruit,
+De noi Tu Te-ai îndurat și ne-ai găsit.
+Tu ne-ai umplut întregul suflet
+De cântări, de bucurii,
+Ce spre Tine se înalță-n veșnicii.
+
+[c]
+/: Isus, o, Isus,
+Azi noi Te slăvim,
+Isus, o, Isus,
+Vrem ai Tăi să fim. :/
+
+[v2]
+Primește-a noastră tinerețe,
+Ca pe-o jertfă Ți-o predăm,
+Tu de ea Te folosește, Te rugăm.
+A Ta lucrare s-o servească
+Și lumină toți să fim,
+Pe Isus în noi să-L vadă o dorim.

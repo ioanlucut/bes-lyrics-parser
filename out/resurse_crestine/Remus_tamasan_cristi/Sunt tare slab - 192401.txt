@@ -1,0 +1,29 @@
+[title]
+Sunt tare slab {author: {Remus Tămășan Cristi}, {rcId: {192401}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Sunt tare slab o Domnul meu,
+Și cad zi de zi pe-a mea cărare.
+Cârtesc mereu când-mi este greu
+Dar te rog să-mi dai de azi răbdare.
+
+[c]
+/: Putere n-am dar esti cu mine,
+Mă-ncred mereu numai în Tine.
+Eu sunt prea slab dar Tu ești tare,
+Și mă poți scăpa din încercare :/
+
+[v2]
+La orice pas eu mă-ndoiesc,
+Și credința mea e fără viață.
+În orice zi mă poticnesc dar te rog,
+să-mi fi de azi povațâ.
+
+[v3]
+Prin încercări alerg mereu,
+Și incerc să caut o scăpare.
+Mă las bătut cand este greu,
+Dar te rog să-mi fii azi alinare.

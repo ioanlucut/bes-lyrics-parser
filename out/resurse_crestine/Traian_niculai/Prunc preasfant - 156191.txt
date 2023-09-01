@@ -1,0 +1,25 @@
+[title]
+Prunc preasfant {author: {Traian Niculai}, {rcId: {156191}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Prunc preasfânt din cer venit,
+Tu o lume ai iubit,
+/: Mare e iubirea Ta, ea rămâne pururea!
+
+[v2]
+Domn divin, Ție ma-nchin,
+De-acum ție-ți mulțumim;
+/: Sfântă e iubirea Ta, ea rămâne pururea!
+
+[v3]
+Aur, smirnă, nici tămâie,
+N-am Isus să-ți aduc ție,
+/: Dar aduc iubirea mea, într-un mănunchi cu a Ta!
+
+[v4]
+Prunc preasfânt din cer venit,
+Tu o lume ai iubit,
+/: Mare e iubirea Ta, ea rămâne pururea!

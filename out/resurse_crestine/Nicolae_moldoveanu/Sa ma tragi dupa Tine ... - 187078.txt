@@ -1,0 +1,53 @@
+[title]
+Sa ma tragi dupa tine {author: {Nicolae Moldoveanu}, {rcId: {187078}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c
+
+[v1]
+Când nu mai am putere,
+Să merg pe sfânta-Ți cale,
+Tu să mă tragi Isuse,
+Pe urma urmei Tale.
+
+[c]
+Să mă tragi, să mă tragi după Tine,
+Să mă tragi, o, Isuse mereu,
+Să mă tragi, să mă tragi după Tine,
+Să mă tragi, chiar și când nu vreau eu.
+
+[v2]
+Când focul suferinței
+Îmi seac-a mea răbdare,
+Tu să mă tragi Isuse,
+Spre Tine cu-ndurare.
+
+[v3]
+Când moartă mi-e dorința
+de dulcea Ta povață,
+Tu să mă tragi spre Tine,
+Și iar să-mi dai viață.
+
+[v4]
+Când duhul îndoielii
+Îmi macină ființa,
+Tu să mă tragi spre Tine
+Și să-mi mărești credința.
+
+[v5]
+Să nu mă lași Stăpâne
+În mlaștina căderii,
+Ci să mă tragi spre Tine,
+Izvorul mângâierii...
+
+[v6]
+Căci numai Tu-mi știi starea,
+Tu mă cunoști mai bine,
+Chiar peste-a mea voință,
+Tu să mă tragi spre Tine.
+
+[v7]
+Și-n alipirea dulce,
+La sânu-ți de iubire,
+S-atrag pe toți, Isuse,
+C-aici e mântuire.

@@ -1,0 +1,105 @@
+[title]
+Ramai la datorie {author: {Traian Dorz}, {rcId: {211812}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,v5,c5
+
+[v1]
+Rămâi la datorie,
+Cu ochii înainte,
+Oricât de aspru-i gerul,
+Sau para de fierbinte;
+Oricine-ar fi să plece,
+Oricât de greu să-ți fie,
+Rămâi la datorie,
+Rămâi la datorie!
+
+[c]
+Hristos te-a pus acolo,
+Și El te cercetează,
+În cea mai grea furtună,
+Te roagă și veghează,
+Orice te amenință
+Sau orice te îmbie,
+Rămâi la datorie,
+Rămâi la datorie!
+
+[v2]
+Nu ține la viață
+Mai mult ca la-nviere,
+Nu-ți vinde conștiința
+Pe nici un fel de-avere.
+Hristos te-a pus acolo
+Și cât poți sta, El știe;
+Rămâi la datorie,
+Rămâi la datorie!
+
+[c2]
+Hristos te-a pus acolo,
+Și El te cercetează,
+În cea mai grea furtună,
+Te roagă și veghează,
+Orice te amenință
+Sau orice te îmbie,
+Rămâi la datorie,
+Rămâi la datorie!
+
+[v3]
+De ești neliniștit
+Si grijuri te frământa
+Aleargă la Isus
+Si spre El te avântă
+Isus sa-ti fie ținta
+Implora-i mila sa
+Iar scopul tău sa fie
+Rămâne la datorie
+
+[c3]
+Creștinul la-ncercare
+In rugăciune stă
+Așteaptă cu răbdare
+Sa-i vina izbândă
+De stai in brațul Lui
+Si-oricât de greu sa-ti fie
+Rămâi la datorie
+Rămâi la datorie
+
+[v4]
+Nimic să nu-ți întreacă
+Puterea de răbdare,
+La timp sfârși-va totul
+În imn de sărbătoare,
+Nu sti din viața aceasta
+Si cât o sa mai fie
+Rămâi la datorie
+Rămâi la datorie
+
+[c4]
+Nu ști cât mai ai harul
+Să te poți pregăti,
+Te roagă, cânta astăzi
+S-ajungi măreață zi.
+Cununa Lui de slavă
+Hristos ți-o dă și ție,
+Rămâi la datorie,
+rămâi la datorie!
+
+[v5]
+Ocazia e astăzi
+S-ajungi in raiul Său
+Citește cuvântul
+Si stai cu Dumnezeu
+Oferta lumi-i mare
+Cu multe te îmbie
+Dar tu rămâi statornic
+Rămâi la datorie
+
+[c5]
+Nu ști cât mai ai harul
+Să te poți pregăti.
+Te roagă, cânta astăzi
+S-ajungi măreață zi.
+Cununa Lui de slavă
+Hristos ți-o dă și ție,
+Rămâi la datorie,
+Rămâi la datorie!

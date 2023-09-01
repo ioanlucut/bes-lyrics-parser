@@ -1,0 +1,28 @@
+[title]
+Doamne tu-mi cunosti numele {author: {Utilizator Moldovan Florin}, {rcId: {106730}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Doamne Tu-mi cunoști numele
+Tu-mi numeri anii și zilele
+Dacă sunt pe-o cale rea
+Izbăvește-mă din ea
+Dumnezeul meu milos
+Ascultă ruga mea
+
+[c]
+Doamne, Ți-am auzit vocea-ți blândă
+Când cei dragi ai Tăi spre Tine înălțau
+Că ești Sfântul Emanuel, singur Dumnezeu
+Doar prin Tine noi trăim
+Și cu Tine vrem să fim
+
+[v2]
+Doamne Isuse, ai milă
+Scoate-mi sufletul din temnița întunecoasă
+Pune Duhul Tău în mine
+Să-ți slujească numai Ție
+Ca-n viața mea să fac
+Doar sfântă voia Ta

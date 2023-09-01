@@ -1,0 +1,33 @@
+[title]
+Caci te iubesc {author: {Rafael Dragomir}, {rcId: {168672}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Strălucește pentru Mine,
+Fă să vadă cei din jur că sunt cu tine!
+Oglindește-Mă pe Mine,
+Fii un steag în întuneric, Eu sunt cu tine!
+Mărturisește despre Mine,
+Spune tuturor ce am făcut pentru tine,
+Povestește Cuvintele Mele
+Și voi mântui pe cei ce cred în ele.
+
+[c]
+Chiar dacă munții se vor sfărâma, să nu te temi
+Dragostea mea nu se va muta, căci te iubesc!
+Poate fi oricât de grea noaptea ce e,
+Cu nici un chip nu te voi lăsa căci te iubesc!
+
+[v2]
+Fii o lumină pentru lume,
+Poartă steagul biruinței în al Meu Nume.
+Fii al meu martor și-n inima punte
+Vestește Cuvantul Meu și tuturor spune...
+
+[e]
+Și-atunci când gura îți va tăcea,
+Sufletul tău Mă va lauda.
+Clipă de clipă țin viața ta,
+În orice zi sunt nevoia ta.

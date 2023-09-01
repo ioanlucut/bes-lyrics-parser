@@ -1,0 +1,53 @@
+[title]
+Sa cresti in viata de credinta {author: {Nicolae Moldoveanu}, {rcId: {201023}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Să crești în viața de credință,
+Tot mai plăcut și mai frumos!
+S-arăți, trăind în umilință,
+Că ești lucrarea, Lui Hristos!
+
+[c]
+Să crești în harul ascultării,
+De Dumnezeu, neîncetat!
+C-așa tu nu vei da uitării,
+Sfânt Iegământul încheiat!
+
+[v2]
+Să crești în harul curăției,
+În tot ce spui și-n tot ce faci!
+Veșmântul nevinovăției,
+Nepângărit, tu să-l imbraci.
+
+[c2]
+Să crești în limpedea iubire,
+Ca florile, în luna mai!
+Și gata fii pentru jertfire:
+La toți să-mparți, la toți să dai!
+
+[v3]
+Să crești în haru’nțelepciunii,
+La umbra ei să te ascunzi!
+Și’n baia sfânt-a rugăciunii,
+Desăvârșit, să te cufunzi!
+
+[c3]
+Să crești în pace și’n răbdare,
+Cu fiecare zi și ceas!
+Să zbori mai sus, mai sus spre soare,
+Uitând ce’n urmă, ți-a rămas.
+
+[v4]
+Să crești în Domnul, totdeauna,
+Cu El să semeni pe pământ!
+Lumina Lui s-o’mparți într-una,
+Prin trai, prin gând și prin cuvânt.
+
+[c4]
+Să crești în pace și’n răbdare,
+Cu fiecare zi și ceas!
+Să zbori mai sus, mai sus spre soare,
+Uitând ce’n urmă, ți-a rămas.

@@ -1,0 +1,33 @@
+[title]
+Bine-ati venit in casa lui {author: {Otniel Stirb}, {rcId: {227070}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+Bine-ati venit in Casa Lui
+Bine-ati venit la umbra Lui
+Si binecuvantarea Sa
+Domnul din ceruri sa va dea
+Iar cand veti trece prin nevoi
+Prin toate El va fi cu voi
+Dar voi sa nu uitati nicicand
+De sfantul vostru legamant
+
+[v1]
+Un mire si-o mireasa pe-un drum voi azi plecati
+Noi va dorim in viata fiti binecuvantati
+Si Domnul sa vegheze caminul vost’ mereu
+Sa va iubiti in toate la bine si la greu
+
+[v2]
+Sa nu uitati vreodata ca Domnul v-a legat
+Ce El binecuvanta e binecuvantat
+Iubirea este arma prin care biruiti
+Sa-nvingeti orice soapta sa nu va despartiti
+
+[v3]
+Acum la nunta voastra cu toti noi va dorim
+Drum bun in casnicie in noul vost’ camin
+Sa mergeti inainte prin toate dupa El
+Si Domnul sa va fie cel mai frumos model

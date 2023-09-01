@@ -1,0 +1,35 @@
+[title]
+Dimineata cant~a-i bucuria {author: {Anonim}, {rcId: {151227}}
+
+[sequence]
+v1,c,v2,c2,v3,c2
+
+[v1]
+/: Dimineața cântă-I bucuria, laudă-I măreția
+Dimineața, pleacă-te ´naintea Lui :/
+
+[c]
+/: Cât timp va fi Cristos
+Cât timp ramân cu el
+Cântatul meu melodios
+/: Nu va-nceta de fel :/
+El e al meu păstor
+O cât imi e de drag
+Mereu îmi vine-n ajutor
+:/
+Când singur sânt și slab :/
+
+[v2]
+/: La amiază cântă-I bucuria, lauda-I măreția
+La amiază, pleacă-te´naintea Lui :/
+
+[c2]
+/: În veci să țină slava Domnului
+Să se bucure Domnul de lucrările Lui
+:/
+Voi cânta Domnului cât voi trăi
+Voi lăuda pe Dumnezeul meu cât voi fi :/
+
+[v3]
+/: Pe-nserate cântă-I bucuria, lauda-I măreția
+Pe-nserate, pleacă-te ´naintea Lui. :/

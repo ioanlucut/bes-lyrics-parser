@@ -1,0 +1,35 @@
+[title]
+Toate sfintele podoabe {author: {Nicolae Moldoveanu}, {rcId: {244375}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Toate sfintele podoabe
+Din cereasca-mpărăție,
+/: Le primești deplin în tine
+Când trăiești în curăție. bis :/
+
+[v2]
+Binecuvântări și roade
+Și-a izbânzii bucurie,
+/: Ți-ncunună viața toată
+Când trăiești în curăție. bis :/
+
+[v3]
+Pace nemaitulburată,
+Dragoste și părtășie,
+/: Te-nveșmântă-n strai de raze
+Când trăiești în curăție. bis :/
+
+[v4]
+Adevărul sfânt și veșnic
+Adăpost îți este tie,
+/: Și odihnă și putere,
+Când trăiești în curăție. bis :/
+
+[v5]
+Dumnezeu și cerul slavei,
+Pentru-ntreaga veșnicie,
+/: Ți se dăruie în totul,
+De trăiești în curăție. bis :/

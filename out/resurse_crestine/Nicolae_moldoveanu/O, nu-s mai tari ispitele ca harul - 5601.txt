@@ -1,0 +1,41 @@
+[title]
+O nu-s mai tari ispitele ca harul {author: {Nicolae Moldoveanu}, {rcId: {5601}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+O, nu-s mai tari ispitele ca harul
+Ce l-ai primit ca sa le poti rabda;
+Caci nu se cere-ntai sa urci Calvarul -
+Intai, primesti putere de-a rabda.
+
+[c]
+Credinta se cere, credinta,
+Si orice ispit-ai sa-nvingi!
+Credinta, de-avea-vei credinta,
+Puterea ispitei o stingi!
+
+[v2]
+O, nu-s mai tari durerile-ntalnite
+Decat puterea care-o vei primi;
+Caci nu-s intai poverile sporite -
+Ci-ntai, primesti putere-a suferi.
+
+[c2]
+Nadejde se cere, nadejde,
+Si orice durere invingi!
+Nadejde, de-avea-vei nadejde,
+Puterea durerii o stingi!
+
+[v3]
+O, nu-s mai tari vrajmasii, niciodata
+Decat iubirea, gata a ierta;
+Ca-ntai nu vine ura-nversunata -
+Ci-ntai, se va mari iubirea ta.
+
+[c3]
+Iubire se cere, iubire,
+Si orice vrajmas ai sa-nvingi!
+Iubire, de-avea-vei, iubire,
+Jertfind ura-ntreaga o stingi!

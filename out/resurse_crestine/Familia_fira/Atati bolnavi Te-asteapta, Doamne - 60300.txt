@@ -1,0 +1,39 @@
+[title]
+Atati bolnavi te-asteapta doamne {author: {Familia Fira}, {rcId: {60300}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Atâți bolnavi te-așteaptă, Doamne,
+O, câți suspină după Tine!
+O, lasă untdelemnul, Doamne,
+Să curgă azi și peste mine!
+
+[c]
+Pune-Ți mâna Ta, Isuse,
+Peste locul ce mă doare!
+Doamne, eu mă-ncred în Tine,
+Că-mi dai astăzi vindecare!
+Pune-Ți mâna Ta, Isuse,
+Mâna binecuvântată,
+Un cuvânt de spui, o, Doamne,
+Rana mea e vindecată!
+
+[v2]
+O, treci, te rog, prin adunare,
+Cu mângâierile divine,
+Cu-al Tău balsam de vindecare,
+O, vino, Doamne, și la mine!
+
+[v3]
+Bolnavii de la scăldătoare
+Te-așteaptă, Doamne,-n suferință!
+Atinge-Te de ei, Isuse,
+Și-alungă orice neputință!
+
+[v4]
+Acei ce n-au pe nimeni, Doamne,
+Te-așteaptă să faci o minune!
+Atinge-Te de ei, Isuse,
+Să-și facă patul și să umble!

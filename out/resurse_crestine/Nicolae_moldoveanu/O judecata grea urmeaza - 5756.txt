@@ -1,0 +1,53 @@
+[title]
+O judecata grea urmeaza {author: {Nicolae Moldoveanu}, {rcId: {5756}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c
+
+[v1]
+O judecata grea urmeaza,
+O judecata pentru multi;
+Vor merge-n fata ei, cu groaza,
+Cei morti si vii: goi si desculti...
+
+[c]
+La Tronul Alb, multimi in randuri
+In fata Celui Sfant vor sta;
+Vor lua sentinta in cutremur
+Ce multi, atunci, vor regreta!...
+
+[v2]
+Va fi deschis-a Vietii Carte
+Iar cei ce n-or fi scrisi in ea,
+De foc si chin avea-vor parte,
+C-au refuzat pe Mesia...
+
+[v3]
+Vor tremura prigonitorii
+Si le vor persista mereu
+Toti cei ucisi, ce-n fata mortii,
+Le-au spus ca vor raspunde greu...
+
+[v4]
+Ii vor vedea gemand si-n sange,
+Sub toata gama de torturi;
+Nu vor dispare... isi vor frange
+Greu cugetul de lovituri...
+
+[v5]
+Albi-vor cei ce-au dat povata,
+Dar adevarul n-au trait;
+Cand cei pierduti le-or sta in fata,
+Cum ii vor condamna cumplit!...
+
+[v6]
+Voievozii, sclavii, cersetorii,
+Saraci, de mijloc sau bogati,
+In ziua grea a razbunarii,
+Vor fi la fel: toti condamnati!...
+
+[v7]
+Tu, pacatos ce porti robirea,
+Azi, inca ai Aparator;
+Primeste astazi, mantuirea,
+C-atunci va fi Judecator...

@@ -1,0 +1,41 @@
+[title]
+Strajerul {author: {Speranța}, {rcId: {189623}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,c,c2,c3
+
+[v1]
+Tu, străjer, ce stai pe stâncă:
+Nu dormi în noaptea adâncă,
+/: Ridică-ți privirea-n sus:
+În curând vine Isus. :/
+
+[c]
+/: Mai veghează, tu, străjere,
+Fii mereu tot în veghere;
+Stai la postul care ești,
+De vrei plată să primești. :/
+
+[v2]
+Mulți au ațipit pe cale,
+Nu urmează a-Ta cărare.
+/: Vino, Doamne-n ajutor,
+Astăzi la al Tău popor. :/
+
+[c2]
+/: Tu, Biserică, veghează,
+Luptă și înaintează;
+Să străbați prin noaptea grea,
+Pân-ajungi în țara ta. :/
+
+[v3]
+Doamne ajută să veghem
+În păcat să nu cădem,
+/: Pe satan să-l biruim
+Și cu Tine-n veci să fim. :/
+
+[c3]
+Doamne, ajută-ne cu toții,
+Să veghem în toiul nopții;
+Până când vei reveni
+Să veghem în orice zi.

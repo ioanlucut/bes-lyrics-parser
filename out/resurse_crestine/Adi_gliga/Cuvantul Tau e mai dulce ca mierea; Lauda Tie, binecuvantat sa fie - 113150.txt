@@ -1,0 +1,21 @@
+[title]
+Cuvantul tau e mai dulce ca mierea; lauda tie binecuvantat sa fie {author: {Adi Gliga}, {rcId: {113150}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Cuvântul Tău e mai dulce ca mierea
+E mângâierea sufletului meu
+Cuvântul Tău, bucurie-mi aduce
+E lumina ce duce înspre veșnicie
+
+[c]
+Laudă Ție, binecuvântat să fie
+Cuvântul Tău, cu glorie mereu.
+
+[v2]
+Cuvântul Tău este pâinea din care
+Cel ce mănâncă nu moare, ci veșnic va fi
+Cuvântul tău, mă ocrotește,
+Mă întărește în încercări.

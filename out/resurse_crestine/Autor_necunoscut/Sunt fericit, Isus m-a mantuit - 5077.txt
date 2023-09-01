@@ -1,0 +1,23 @@
+[title]
+Sunt fericit isus m-a mantuit {author: {Anonim}, {rcId: {5077}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Sunt fericit,
+Isus m-a mântuit.
+Îi cânt glorie, Aleluia,
+El m-a mântuit.
+
+[v2]
+Satan m-a legat,
+Isus m-a eliberat.
+Îi cânt glorie, Aleluia,
+El m-a eliberat.
+
+[v3]
+I’m so glad
+Jesus set me free.
+Singing glory Hallelujah
+Jesus set me free.

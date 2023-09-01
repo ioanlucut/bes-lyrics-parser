@@ -1,0 +1,27 @@
+[title]
+Eu doresc doamne sa te urmez mereu {author: {Alexandru Groza}, {rcId: {193657}}
+
+[sequence]
+v1,c,c,v2,c
+
+[v1]
+Dumnezeu ne-nsoțește pe-un drum, omul face-alegerea cum vrea;
+Unde merge drumul tău? Te înalți sau te cobori?
+Ai ales tu calea spre cerul sfânt, ești condus de Duhul Sfânt?
+Ești tu mântuit de Isus Hristos sau ești un păcătos?
+
+[c]
+Eu doresc, Doamne să te urmez mereu
+Să am parte de harul Tău
+Să ascult de glasul Tău duios,
+Dumnezeul meu!
+
+[b]
+Înalță-te, sufletul meu, înspre cerul lui Dumnezeu
+Înalță-te sufletul meu, mereu, mereu
+
+[v2]
+Dumnezeu ne-nsoțește pe-un drum, omul face-alegerea cum vrea;
+Unde merge drumul tău? Te înalți sau te cobori?
+Doamne, harul Tău mereu aș vrea să-mi conducă viața mea
+Calea Ta să o urmez, să mă-nalț spre cer!

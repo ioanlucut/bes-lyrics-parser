@@ -1,0 +1,42 @@
+[title]
+In fiecare zi deschidem {author: {Nicolae Moldoveanu}, {rcId: {5276}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+In fiecare zi deschidem
+A-laudelor porti de cant,
+Din templele sfinte noi Ti-aducem
+A-noastre daruri, Doamne Sfant.
+
+[c]
+Esti vrednic, Doamne, de marire!
+Cat vom trai, Iti vom canta...
+Si chiar in cer, in stralucire,
+Cantarea-n veci va triumfa!
+
+[v2]
+’
+Nainte de orice, Isuse,
+Noi cautam cinstirea Ta.
+In Tine-avem comori nespuse;
+Prin Tine, cerul vom avea.
+
+[c2]
+In Tine-i Adevarul vesnic;
+A-noastre temple il slavesc;
+Avem cinstirea Ta ca sfesnic;
+Recunostinta - dar ceresc.
+
+[v3]
+Intrand pe portile slavite,
+Gasim refugiu si alin;
+Momente sfinte, fericite
+Traim, Mantuitor divin.
+
+[c3]
+Tu, esti eterna bunatate,
+Izvor sublim de cant si har;
+Din cate noua ne-au fost date,
+Tu esti, o, Cel mai mare dar!

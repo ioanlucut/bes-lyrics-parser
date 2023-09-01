@@ -1,0 +1,32 @@
+[title]
+Raspunde-mi cand strig {author: {Frații Wagner}, {rcId: {74194}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Demult eu stam departe căzut pe Calea Ta
+Și mă întreb eu oare: ”
+Isus, mă vei ierta” ?
+
+[c]
+/: Răspunde-mi când strig
+Răspunde-mi când plâng
+Răspunde-mi când te chem, Dumnezeul meu :/
+
+[v2]
+Am fost un vas de cinste, curat în casa Ta
+Te foloseai de mine, dar azi sunt altceva.
+
+[v3]
+Mă văd pierdut, dar totuși, Te știu așa de Bun
+Tu ești Samariteanul milos Cel Bun și Sfânt.
+
+[v4]
+Oprește-te o clipă, doar un Cuvânt să-ți spun
+Te rog să-mi dai iertare, cu Tine vin de-acum.
+
+[v5]
+Ți-am înțeles privirea, când mâna mi-ai întins
+În palma Ta cu sânge ”
+Iertare” era scris.

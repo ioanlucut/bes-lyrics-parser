@@ -1,0 +1,41 @@
+[title]
+De ce-n asta lume sunt numai dureri? {author: {Anonim}, {rcId: {2988}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+De ce-n astă lume sunt numai dureri
+De ce pace nu-i nicăieri?
+/: Trăit-am rușine, desfrâu și păcat
+De ce pace nu-i nicăieri. :/
+
+[v2]
+În lume păcatul domnește deplin
+Și totul e numai un chin
+/: Hristos este totul, El harul divin
+Prin El vom fi toți ai săi fii. :/
+
+[v3]
+Ne-ntoarcem la Tine cu suflet curat
+Isuse să ne mântuiești
+/: Mereu să privim la chipul Tău drag
+Isuse să ne mântuiești. :/
+
+[v4]
+Dorim deci Isuse cu Tine să fim
+Cu Tine să ne veselim
+/: Căci Tu, ești izvorul din care dorim
+În veci al Tău har să-l servim. :/
+
+[v5]
+Dar astăzi Isuse suntem fericiți
+Căci Tu de păcat ne-ai spălat
+/: Purtăm azi credința în suflet curat
+Căci Tu de păcat ne-ai spălat. :/
+
+[v6]
+La tronul Tău Doamne cu toți vrem să fim
+Cu Tine să ne veselim
+/: De harul măreț, de chipul Tău drag
+Nicicând despărțiți să nu fim. :/

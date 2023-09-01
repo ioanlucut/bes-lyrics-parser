@@ -1,0 +1,30 @@
+[title]
+N-am sa uit o doamne niciodata {author: {Marta Bergheaua}, {rcId: {63362}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+N-am sa uit, o, Doamne niciodata
+Clipa cand pacatul mi-ai iertat
+Si nici ziua aceea minunata
+Cand Isuse m-ai salvat.
+
+[c]
+N-am sa uit nici lacrimile Tale,
+Nici Calvarul Tau amar si greu,
+Mi-ai schimbat tot sensul vietii mele
+Oh,
+Isuse, Domnul meu.
+
+[v2]
+N-am sa uit, o, Doamne niciodata
+A Ta dragoste fara hotar
+Ce din Golgota a fost aratata,
+A cerului maret har.
+
+[v3]
+N-am sa uit, o, Doamne niciodata,
+Da-mi putere sa nu pot uita
+Tot ce pentru mine de indata
+A facut iubirea Ta.

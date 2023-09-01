@@ -1,0 +1,36 @@
+[title]
+Din tot ce-aduni omule-n graba {author: {Adriana Stoica}, {rcId: {100403}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Din tot ce-aduni omule-n grabă
+Și-ai vrea să fii tot mai bogat
+/: Te-ai întrebat și tu vreodată
+Că tot ce-aduni cu-atâta grabă
+Este al tău cu-adevărat? :/
+
+[c]
+Nu vezi că tot ce-adună omul
+Rămân de el cât de curând;
+Și tot ce strângi cu lăcomie
+Se spulberă ca pleava-n vânt!
+Și n-ai să duci nimic
+Nimic, nimic cu tine!
+Și n-ai să duci nimic
+Căci, tot ce strângi aici rămâne!
+
+[v2]
+Nu vezi cu ochii tăi că toate
+Rămân de noi pe-acest pământ
+/: Întreabă-te măcar o dată
+Când inima ți-e întristată
+Ce duci când ai să pleci curând? :/
+
+[v3]
+Nu vezi ce repede trec anii?
+Căci, totul este trecător
+/: Așa de repede se duce,
+Dar dacă te smerești la cruce
+Isus îți vine-n ajutor! :/

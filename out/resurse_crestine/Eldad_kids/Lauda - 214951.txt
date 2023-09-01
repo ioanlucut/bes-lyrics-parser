@@ -1,0 +1,23 @@
+[title]
+Lauda {author: {Eldad Kids}, {rcId: {214951}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Cânt de bucurie,
+Cânt cu veselie
+Îl laud pe Împărat, fiindcă m-a salvat,
+Chiar de sunt așa micuț, cânt neîncetat.
+
+[c]
+/: Laudă, Îi aducem laudă
+Și slăvim pe Domnul Isus cel minunat.
+Laudă, Îi cântă natura
+Și-orice vietate Îl laudă pe-Împărat. :/ ×2
+
+[v2]
+Îi aduc mărire,
+Și cu mulțumire
+Îi cânt neîncetat, fiindcă m-a salvat
+El e Domn al Domnilor, Mare Împărat.

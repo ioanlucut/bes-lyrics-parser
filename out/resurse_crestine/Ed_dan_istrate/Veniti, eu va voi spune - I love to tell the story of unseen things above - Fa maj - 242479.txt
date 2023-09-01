@@ -1,0 +1,27 @@
+[title]
+Veniti eu va voi spune - i love to tell the story of unseen things above - fa maj {author: {ed. Dan Istrate}, {rcId: {242479}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Veniți, eu vă voi spune cât bine mi-a făcut
+Isus Mântuitorul, ce milă a avut!
+Cu dragoste voi spune că Domnul e al meu
+Și cânt de bucurie: eu sunt pe veci al Său!
+
+[c]
+Veniți eu vă voi spune ce milă a avut
+Isus Mântuitorul de mine-un fiu pierdut!
+
+[v2]
+Veniți, eu vă voi spune de darul lui Isus:
+Prin har am viață nouă, fiind născut de sus!
+Eram pierdut în lume, la moarte condamnat,
+Dar Domnul, cu iubire, pe veci m-a grațiat!
+
+[v3]
+Veniți, eu vă voi spune cum Domnul m-a iertat
+Când disperat, în noapte, la El am alergat;
+Și toți acei ce astăzi la El se vor grăbi,
+Iertare de păcate și pace vor primi!

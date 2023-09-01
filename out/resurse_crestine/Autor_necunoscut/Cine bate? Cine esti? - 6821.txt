@@ -1,0 +1,43 @@
+[title]
+Cine bate? cine esti? {author: {Anonim}, {rcId: {6821}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cine bate? Cine esti ?
+Ce vrei? Spune-mi: ce doresti?
+De ce Calator straine,
+La-a mea usa ai venit?
+Cine Te-a trimes pe Tine?
+Pari un Sol din cer sosit.
+
+[c]
+Eu sunt, Eu sunt, Domnul tau.
+N-auzi, n-auzi glasul Meu?
+Calator Imparatesc sunt,
+Sunt Mantuitorul tau.
+Si pentru asa minune, 
+Suflete, tu nu deschizi?
+Bate, bate, Domnul tau.
+Nu vrei s-auzi glasul Lui?
+El te imbie azi pe tine
+Sa-I deschizi inima ta.
+Pana cand Il lasi s-astepte?
+Nu ti-e teama c-o pleca?
+
+[v2]
+Bate, bate! N-ai plecat?
+Atunci de ce n-ai intrat?
+Usa-i greu sa se deschida.
+Iedera-i crescuta jos
+Cu carcei lungi ce se-agata,
+Infasurati pe usiori.
+
+[v3]
+Bate, bate! Tot aici?
+Da, si-asteapta necurmat.
+Mana Lui strapunsa bate
+Si, sub paru-ncununat,
+Lucesc ochii Lui duiosi :
+Cel ce-asteapta e Isus!

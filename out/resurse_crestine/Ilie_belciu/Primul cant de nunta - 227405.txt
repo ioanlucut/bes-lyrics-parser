@@ -1,0 +1,33 @@
+[title]
+Primul cant de nunta {author: {Ilie Belciu}, {rcId: {227405}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Primul cânt de nuntă, vers melodios,
+ce s-a auzit vreodată pe acest pământ,
+l-a cântat Adam femeii pe un câmp frumos,
+cândva în răcoarea zilei, în eternul sfânt
+
+[c]
+Doamne, ce minune, iată, în sfârșit,
+după multă așteptare dorul împlinit
+În sfârșit, ce fericire, nu mai sunt de-acum
+fără ajutor și singur pe-al vieții drum
+Cânt de fericire sus în cer va fi,
+când venind pe nori mireasa El și-o va răpi.
+Vom cânta uniți cu sfinții-n slava cea de sus
+cântecul frumos de nuntă Mirelui Isus.
+
+[v2]
+Plin de bucurie, cât de minunat,
+într-un strai de sărbătoare totu-i îmbrăcat
+Mai frumos ca altădată totul adia,
+iar Adam privind femeia fericit cânta
+
+[v3]
+Marea bucurie încă n-a-ncetat
+cântul frumos de nuntă sună minunat
+Și va răsuna prin veacuri până la sfârșit
+când îl vom cânta la nunta Mirelui iubit

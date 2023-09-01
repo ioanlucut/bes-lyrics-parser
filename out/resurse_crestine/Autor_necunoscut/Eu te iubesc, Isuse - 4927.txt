@@ -1,0 +1,14 @@
+[title]
+Eu te iubesc isuse {author: {Anonim}, {rcId: {4927}}
+
+[sequence]
+v1,c
+
+[v1]
+Eu Te iubesc, Isuse,
+Domn și Rege veșnic,
+Cânt mărire, laudă,
+Glorie, Aleluia.
+
+[c]
+/: Aleluia, Aleluia, Aleluia, Amin. :/

@@ -1,0 +1,36 @@
+[title]
+Domnul nostru pe pamant {author: {Anonim}, {rcId: {3988}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Domnul nostru pe pământ
+Azi a venit
+Mântuirea lumii a înfăptuit
+
+[c]
+/: Cântă făptura toată
+Căci lumii se arată
+Pruncul sfânt
+ /: la betleem :/
+
+[v2]
+Mii de îngeri se coboară
+Pe pământ
+Într-un glas îl preamăresc pe cel preasfânt
+
+[v3]
+În nespusa lui iubire
+Dumnezeu
+L-a trimis în lume chiar pe fiul său
+
+[v4]
+Vin păstorii cu grăbire
+La isus
+Și se-nchină pruncului venit de sus
+
+[v5]
+Hadeți fraților cu toții
+Să-i cântăm
+Cu păstorii pruncului să ne-nchinăm.

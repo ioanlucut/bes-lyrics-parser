@@ -1,0 +1,53 @@
+[title]
+Suntem doar niste calatori {author: {Nicolae Moldoveanu}, {rcId: {5765}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Suntem doar niște călători
+Străini, pribegi prin lume.
+Purtăm în piept comori de Sus
+Și al Lui Isus Nume.
+
+[c]
+/: Ne arde inima de dor
+După aceea Țară,
+Unde-s câmpiile cu flori
+Și-i veșnic primăvară. :/
+
+[v2]
+Un dor ne-a strâns și ne-a legat
+De Tine, scumpe Tată,
+Și nu ne poate despărți
+Doar inima de piatră.
+
+[c2]
+/: Nici foamea, nici un crunt război,
+Nici prigoniri vreodată,
+Nici al săgeților puhoi,
+Nu pot să ne despartă. :/
+
+[v3]
+Chiar de-ar fi mii de căi spre Rai,
+Cărarea noastră-i una
+Noi într-o Iesle L-am găsit,
+Și Sus ne e cununa!
+
+[c3]
+/: Prin bucurii și prin amar,
+Pe mare urmând drumul,
+Corăbioara de-ar pieri,
+Noi biruim cu Domnul.
+
+[v4]
+Ajută-ne să ne purtăm
+Cu vrednicie-n lume,
+Căci ne-ai răscumpărat c-un Preț
+Ce nu se poate spune.
+
+[c4]
+/: Orice am câștiga aici
+Sau pierde, ni-e tot una
+Dacă Te-avem pe Tin’, Isus,
+Am câștigat Cununa! :/

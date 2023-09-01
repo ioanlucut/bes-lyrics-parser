@@ -1,0 +1,21 @@
+[title]
+Cine e ca el? {author: {Anonim}, {rcId: {5118}}
+
+[sequence]
+c,v1,b,c
+
+[c]
+/: Cine e ca El? Nu e nimeni!
+Cine e ca El? El e-Atotputernic!
+Cine e ca El? El e vrednic!
+Vino și laudă-L acum. :/
+
+[v1]
+Slavă Lui, slavă Lui,
+El este vrednic de laudă;
+De când soarele-i pe cer și până la apus
+Numele Lui Îl înălțăm.
+
+[b]
+/: Vino și laudă-L și dă-I toată gloria. :/
+De laudă El este demn.

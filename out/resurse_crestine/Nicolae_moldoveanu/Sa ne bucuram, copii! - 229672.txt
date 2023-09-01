@@ -1,0 +1,29 @@
+[title]
+Sa ne bucuram copii {author: {Nicolae Moldoveanu}, {rcId: {229672}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Să ne bucurăm, copii!
+Să fim veseli dimpreună,
+Dumnezeu ne-a hărăzit
+daruri pentru-o viață bună.
+
+[c]
+Bucuria este roada
+ascultării de Isus.
+Ascultați-L, El vă face
+viața veselă nespus!
+
+[v2]
+Să ne bucurăm, copii,
+de lumină, de iubire,
+Dumnezeu ni le-a trimis.
+Lui se cade mulțumire.
+
+[v3]
+Să ne bucurăm, copii,
+Viața cea adevărată
+este-un cer de bucurii
+și de pace necurmată.

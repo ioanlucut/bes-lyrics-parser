@@ -1,0 +1,35 @@
+[title]
+Veghere se cere {author: {Maria Șimon}, {rcId: {234839}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Veghere, se cere, trezire, veghere
+E noapte târzie și somnu-i adânc!
+Trezește-te astăzi fecioară-nțeleaptă
+Căci Mirele vine, așteaptă-L veghind!
+
+[c]
+Trezire, trezire căci Mirele vine,
+La straja a doua sau poate în zori.
+Fecioară-nțeleaptă așteaptă al tău Mire
+Căci iată, cu slavă El vine pe nori!
+
+[v2]
+Îmbracă-te azi cu tot Adevărul,
+Cu râvnă creștine să fii încălțat,
+El vine, fii sigur că nu zăbovește,
+Veghează, la ceruri să poți fi luat!
+
+[v3]
+Așteaptă-L pe Domnul și stai în lumină,
+Adună uleiul în candela Ta,
+Toiagul dreptății să-ți fie în mână,
+Să poți să ajungi în Patria Sa!
+
+[v4]
+Ferice va fi de acei ce veghează,
+Ferice va fi de acei pregătiți,
+Când Domnul cu slavă pe nori va apare,
+Ferice va fi de aceia răpiți!

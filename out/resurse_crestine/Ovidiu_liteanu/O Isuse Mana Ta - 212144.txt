@@ -1,0 +1,35 @@
+[title]
+O isuse mana ta {author: {Ovidiu Liteanu}, {rcId: {212144}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Inima ți-e ostenită
+De păcate-n îmbolnăvită
+Doar Isus e medic mare
+El te pune pe picioare
+
+[c]
+/: O, Isuse mâna Ta
+Să-mi aline inima
+Mâna Ta de m-ar atinge
+Doamne eu m-aș face bine :/
+
+[v2]
+Spune-mi ce spital din lume
+Te mai poate face bine
+Doctorii nu-ți dau scăpare
+Dar Isus, dă vindecare
+
+[v3]
+Fără bani și fără plată
+El te vindecă îndată
+Nu vrea Domnul meu cel mare
+Să te chinui prin spitale
+
+[v4]
+S-a oprit Isus la tine
+Crede că te face bine
+Domnul îți va da iertare
+Și-a Lui dulce vindecare

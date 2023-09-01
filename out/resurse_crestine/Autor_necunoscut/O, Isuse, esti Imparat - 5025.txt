@@ -1,0 +1,17 @@
+[title]
+O isuse esti imparat {author: {Anonim}, {rcId: {5025}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+O, Isuse, ești Împărat, ești minunat
+O, Isuse, în veci fii lăudat.
+
+[c]
+Aleluia, Isus e Domn în viața mea,
+Aleluia, cântați lui Mesia.
+
+[v2]
+Toată viața Ție Ți-o-nchin, căci m-ai iertat
+Și în ceruri voi fi cu Tine-odat’.

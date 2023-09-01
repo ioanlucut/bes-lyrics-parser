@@ -1,0 +1,22 @@
+[title]
+Noi vrem pe isus sa-l inaltam {author: {Anonim}, {rcId: {5009}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Noi vrem pe Isus să-L înălțăm,
+Un steag fluturând peste pământ;
+Și oamenii vor afla că El
+E calea către ceruri.
+
+[c]
+Să-L înălțăm,
+Să-L înălțăm,
+Noi vrem pe Isus să-L înălțăm.
+
+[v2]
+Pas cu pas înaintăm
+Să câștigăm acest pământ;
+Și cu arma rugăciunii
+Noi surpăm întărituri.

@@ -1,0 +1,42 @@
+[title]
+Te-ai intrebat vreodata {author: {David Hapurne}, {rcId: {211224}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7,v8,v9
+
+[v1]
+/: Te-ai întrebat vreodată ce faci cu viața ta?
+Te-ai întrebat vreodată unde alergi așa? :/
+
+[v2]
+/: Gândește-te la viața ta, gândește-te ce faci cu ea
+De n-o predai în mâna Sa, gândește-te ce va urma! :/
+
+[v3]
+/: Te-ai întrebat vreodată dacă ești pregătit?
+Te-ai întrebat vreodată oare ești tu mântuit? :/
+
+[v4]
+/: Te-apropie de Dumnezeu și nu m-ai fă ce este rău
+Te-apropie de Tatăl tău și fă doar binele mereu :/
+
+[v5]
+/: Te-ai întrebat vreodată care e ținta ta?
+Te-ai întrebat vreodată care este scopul tău? :/
+
+[v6]
+/: Întoarce-te din drumul tău, vino acum la Dumnezeu
+Întoarce-te azi la Isus, El vrea să fii în Ceruri sus :/
+
+[v7]
+/: Sunt două căi în viața ta, una bună și una rea
+Gândește-te acum ce faci, cu care vrei tu să te-mpaci? :/
+
+[v8]
+/: Alege viața veșnică și mergi pe ea orice-ar costa
+Alege calea către Cer, ea duce la Emanuel :/
+
+[v9]
+/: Întoarce-te din drumul tău, vino acum la Dumnezeu
+Întoarce-te azi la Isus, El vrea să fii în Ceruri sus :/
+El vrea să fii în ceruri sus!

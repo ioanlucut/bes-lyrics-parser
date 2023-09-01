@@ -1,0 +1,41 @@
+[title]
+Intoarcerea {author: {Florin Pal}, {rcId: {89226}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Așa cum sunt, eu vin plângând,
+Mă-ntorc Isus la Tine.
+Cu sufletu-mi zdrobit și-nfrânt
+Alerg, căci n-am la cine.
+
+[c]
+/: În toată lumea am căutat,
+Să-mi găsesc desfătare.
+Dar peste tot ce am aflat,
+Au fost lacrimi amare. :/
+
+[v2]
+Mă-ntorc, primește-mă cum sunt,
+Zdrobit de răni ce doare.
+Prin sângele de preț și sfânt,
+Mă spală, dă-mi iertare.
+
+[c2]
+/: De toate câte-am făptuit,
+Umblând pe căi străine,
+Dar astăzi văd cât Ți-am greșit,
+Primește-mă la Tine. :/
+
+[v3]
+Eu nu sunt vrednic, să-mi spui fiu,
+Pierdut am fost prin lume,
+În bezna nopții, ceas târziu,
+Tu m-ai chemat pe nume.
+
+[c3]
+/: Te voi sluji cum n-am slujit
+Pe nimenea vreodată.
+Căci pot de-acum să-Ți spun și eu,
+Din sufletul meu: Tată! :/

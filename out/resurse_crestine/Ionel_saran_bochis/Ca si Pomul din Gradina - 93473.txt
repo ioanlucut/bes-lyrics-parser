@@ -1,0 +1,28 @@
+[title]
+Ca si pomul din gradina {author: {Ionel Saran Bochis}, {rcId: {93473}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Ca și pomul din Gradina
+Da și roade da si frunze
+/: Ma întreb daca-am dat roade
+Sau doar sunt un maracine :/
+
+[c]
+/: Mai sadit Isuse-n via Ta
+Toata viața eu îți voi canta
+Ajutama voia Ta să fac
+Niciodată eu să nu te las :/
+
+[v2]
+Ajutăma să fiu așa,
+Așa ajută-ma să fiu mereu
+Cum vrei Isuse
+
+[c2]
+/: Făra Tine eu nu mai traiesc
+Eu pe Tine vreau sa te urmez
+Nu știu Doamne cum să-ți multumesc
+Numai Ție vreau să Îți slujesc :/

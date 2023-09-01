@@ -1,0 +1,29 @@
+[title]
+In haine albe {author: {Rugul aprins}, {rcId: {55601}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+E sărbătoare, e o zi măreață,
+Mulți dintre noi sunt cu lacrimi pe față,
+Îmbrăcați în haine albe de iubire,
+/: Așteptând un legământ cu Tine :/
+
+[c]
+/: În haine albe ne vei îmbrăca,
+Isuse când vom fi la nunta Ta,
+Atunci pe nume când ne vei chema,
+O veșnicie în Cer îți vom cânta :/
+
+[v2]
+Orice pas Isus ce L-ai făcut spre Golgota,
+Ne-ai țesut o haină prin suferința Ta,
+/: Orice picătură de Sânge ce-ți curgea,
+Ne-ai spălat haina de-a Te-ntâmpina :/
+
+[v3]
+Tu te-ai jerfit pentru această zi,
+Ai suferit în locul nostru chin,
+/: Ne-ai răscumpărat din blestemul morții,
+Și ne-ai pregătit pentru ziua nunții :/

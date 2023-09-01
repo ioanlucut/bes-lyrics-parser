@@ -1,0 +1,29 @@
+[title]
+In casa ta odihna este {author: {Gabi Ilut}, {rcId: {7233}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În casa Ta, odihnă este
+Pentru cel trudit.
+Oricine vrea și îndrăznește,
+Va fi chiar acum primit.
+
+[c]
+Te caut Domnul meu, Te strig, vino Isuse
+Îmi plec genunchii și în liniște aștept.
+În casa Ta sunt multe bucurii nespuse,
+Cu mii de mulțumiri spre Tine mă îndrept.
+
+[v2]
+În casa Ta oricine vine
+Va pleca schimbat.
+Cât de măreț, e locul acesta
+Și cât de înfricoșat.
+
+[v3]
+În casa Ta e rugăciune
+Laudă prin cânt.
+Isus e Domn, vrem să răsune
+Aici e locul prea-sfânt.

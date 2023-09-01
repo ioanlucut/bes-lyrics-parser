@@ -1,0 +1,30 @@
+[title]
+Depind mereu de tine doamne {author: {Maria Șimon}, {rcId: {210797}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+N-aș vrea vreodată ca să uit
+Că sunt țărână, doar țărână!
+Iar dacă în picioare sunt,
+E că sunt susținut de-o Mână!
+
+[c]
+/: Aș vrea întotdeauna ca să spun:
+„
+Ce sunt Îi datorez Acelui care
+A fost cu mine-n fiecare zi
+Și va fi pân’ la ultima suflare!”: \
+
+[v2]
+Aș vrea mereu să-mi amintesc
+Căci eu depind mereu de Tine,
+Tu totul ești iar eu nimic,
+Prin Tine e a mea trăire!
+
+[v3]
+Ce merit am că astăzi sunt
+Copilul Tău salvat de Tine?
+Căci m-ai ales din mii și mii
+Și numai Harul Tău mă ține!

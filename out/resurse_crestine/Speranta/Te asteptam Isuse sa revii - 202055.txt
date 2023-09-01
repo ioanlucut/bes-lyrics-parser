@@ -1,0 +1,35 @@
+[title]
+Te asteptam isuse sa revii {author: {Speranța}, {rcId: {202055}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Te așteptăm Isuse să revii
+Păcatul și răul e în toi
+Te așteptăm să vii cât mai curând
+O vino Doamne, vino după noi.
+
+[c]
+Te așteptăm în zorii dimineții
+Te asteptăm în miez de zi
+Pe înserate sau în toiul nopții
+Te așteptăm, Isuse să revii.
+
+[v2]
+Te așteaptă cei ce sunt în suferință
+Te așteaptă cei ce gem, acei ce plâng
+Privirea lor spre cer se îndreaptă
+O vino Doamne, vino mai curând.
+
+[v3]
+Ești așteptat de oamenii sărmani
+Dorul lor de Tin se leagă
+Te așteaptă cei ce singuri și orfani
+O vino Doamne, vino mai degrabă.
+
+[v4]
+Te asteptăm cu candela aprinsă
+Te așteptăm cu untdelemn în vas
+Chiar dacă vremea aceasta e târzie
+Vei reveni, doar chin a mai rămas.

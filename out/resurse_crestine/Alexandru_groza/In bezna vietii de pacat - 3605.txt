@@ -1,0 +1,29 @@
+[title]
+In bezna vietii de pacat {author: {Alexandru Groza}, {rcId: {3605}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În bezna vieții de păcat
+Trăit-am Doamne îndurat
+Dar azi la Tine vin cu dor
+O, scump și dulce Salvator.
+
+[c]
+Isus la crucea Ta eu vin
+Și vreau viața să Ți-o-nchin
+/: Primește Doamne, ruga mea
+Și dă-mi în dar salvarea Ta! :/
+
+[v2]
+În valuri și ispite-am fost,
+Trăit-am viața fără rost...
+De făr’delegi împresurat,
+O, Doamne vin să fiu iertat.
+
+[v3]
+În dragostea-Ți mă-ncred acum,
+Cu Tine voi merge pe-un drum
+Și cânt voios și-s fericit
+O, Doamne vin să fiu smerit.

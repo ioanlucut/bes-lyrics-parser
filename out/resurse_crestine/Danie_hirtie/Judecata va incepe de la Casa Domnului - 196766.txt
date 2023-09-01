@@ -1,0 +1,29 @@
+[title]
+Judecata va incepe de la casa domnului {author: {Danie Hîrtie}, {rcId: {196766}}
+
+[sequence]
+v1,c,v2,c,v3,c,v5,c,v6,c
+
+[v1]
+Judecata va începe de la Casa Domnului
+Fiecare va răspunde pentru nesfințirea lui
+
+[c]
+/: Unde-s faptele, unde-s faptele,
+Când atât de multe ne sunt vorbele? :/
+
+[v2]
+Judecata va începe cu acei care-au știut
+Căci credința nu e bună fără fapte pe Pământ!
+
+[v3]
+Judecata va aduce osândirea tuturor,
+Care au trăit de formă amăgind cu vorba lor!
+
+[v5]
+Judecata va începe, în curând vom tremura
+Dacă azi nu ne proșternem, Doamne, înaintea Ta!
+
+[v6]
+Cine vrea să aibă parte de un loc în Paradis,
+Să se judece azi singur până ușa nu s-a-nchis!

@@ -1,0 +1,28 @@
+[title]
+Cand lupta-i mare {author: {Florin de la Targoviste}, {rcId: {55568}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Când lupta-i mare și ești singur,
+Și nu ai nici un ajotor,
+Este Unul care poate,
+A te izbăvi de toate :/
+
+[c]
+/: Domnul Isus a suferit,
+Pentru mine, pentru tine,
+Pe cruce răstignit :/
+
+[v2]
+/: Când sufletul îți este amar,
+Și plin de răni care te dor,
+Este Unul care poate,
+A te izbăvi de toate :/
+
+[v3]
+/: Când vin ispitele haine,
+Și vor ca să lovească-n tine,
+Este Unul care poate,
+A te izbăvi de toate :/

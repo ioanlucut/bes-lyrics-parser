@@ -1,0 +1,33 @@
+[title]
+Inima inima mea {author: {Grup Saron}, {rcId: {80378}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Inima, inima mea
+Te cheama, Doamne
+Si te vrea doar pe Tine
+Sufletul, sufletul meu
+Tanjeste, Doamne, tot mereu
+De dorul Tau :/
+
+[c]
+/: Inima-mi zice din partea ta:
+„cauta, cauta fata mea!”
+Si fata ta, doamne o caut :/
+
+[v2]
+/: Stau asteptand cu tine-n gand
+Si astept, isus, sa vii
+Pe nori de slava
+Voi astepta venirea ta
+Ca tu vii si sa-ti ridici biserica :/
+
+[v3]
+/: Nu te-ntrista, nu te-ntrista
+Preda-ti chiar astazi inima
+Lui dumnezeu
+Nu te opri! Nu te-mpietri!
+Ci spune : „doamne
+Chiar acum te voi primi” :/

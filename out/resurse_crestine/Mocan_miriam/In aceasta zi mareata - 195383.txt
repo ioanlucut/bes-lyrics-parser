@@ -1,0 +1,39 @@
+[title]
+In aceasta zi mareata {author: {Mocan Miriam}, {rcId: {195383}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,e
+
+[v1]
+În această zi măreață,
+Când în apă a intrat,
+În Iordan, Isus, El, Mielul,
+Ca să fie botezat.
+
+[c]
+El Ne-a dat la toți exemplu,
+Ca să fim noi martori vi,
+Plini de Duhul Sfânt să mergem,
+Pe Isus noi să-L vestim.
+
+[v2]
+Dar Ioan vrea să-L oprească,
+Însă Isus n-a lăsat,
+Ca să fie împlinită,
+Ce Isus le poruncea.
+
+[v3]
+Când Isus ieși din apă
+Cerurile s-au deschis,
+Și într-un chip de porumbel alb,
+Duhul Sfânt din cer veni.
+
+[v4]
+Și din cer un glas se-aude:
+Acesta e Fiul Meu,
+În El Îmi găsesc plăcerea,
+Voi să ascultați de El!
+
+[e]
+Pentru cer noi să muncim,
+Pe Isus noi să-L vestim.

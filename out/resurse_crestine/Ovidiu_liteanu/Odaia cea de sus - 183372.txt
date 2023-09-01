@@ -1,0 +1,29 @@
+[title]
+Odaia cea de sus {author: {Ovidiu Liteanu}, {rcId: {183372}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ȋn odaia cea de sus
+Mă aplec în rugăciune
+/: Ȋn prezența lui Isus
+Minunat e-așa de bine :/
+
+[c]
+E-așa de bine jos în rugăciune
+E-așa de bine în odaia cea de sus
+E-așa de bine când plângi în rugăciune
+Ȋn prezența lui Isus
+
+[v2]
+Ȋn odaia cea de sus
+Stau cu frații-n părtășie
+/: Ȋn prezența lui Isus
+Este multă bucurie :/
+
+[v3]
+Ȋn odaia cea de sus
+Untdelemn de vindecare
+/: Toarnă Domnul meu Isus
+Peste răni la fiecare :/

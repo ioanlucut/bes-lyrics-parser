@@ -1,0 +1,31 @@
+[title]
+Azi isus te intreaba tu ce faci cu viata ta {author: {Anonim}, {rcId: {227186}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Azi Isus te întreaba tu ce faci cu viața ta
+Dacă maîne din lume vei pleca
+Ce să faci unde pleci, Vesnicia unde-o petreci
+Vino azi, vino azi la isus
+
+[c]
+A purtat păcatul tău
+A suferit atât de greu
+Vino la isus
+Mantuire îțî va da
+Viața ta se va schimba
+/: Vino la isus :/
+
+[v2]
+De esti singur și strain, părasit si alungat
+Azi te cheamă Dumnezeu nu zabovii
+Astazi încă mai e har, Maîne nu stii dacă va fii
+Vino azi, vino azi la isus
+
+[v3]
+Vocea lui te cheamă azi, bratul sau el la deschis
+Te asteapta ca să vii așa cum esti
+Pacatul tau va fi iertat o viată noua o să primesti
+Vino azi, vino azi la isus

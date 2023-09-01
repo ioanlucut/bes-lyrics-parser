@@ -1,0 +1,41 @@
+[title]
+Yahweh {author: {Steven Furtick, Jane Williams, Matthews Ntele}, {rcId: {176264}}
+
+[sequence]
+v1,c,v2,c,c
+
+[v1]
+Duhule Sfinte
+Vino acum
+Dă-ne tu azi putere;
+Mergem ’nainte
+Plini de credință
+Șoptind marețu-i nume.
+
+[c]
+Sfânt e, Sfânt e Dumnezeu
+Vrednic e de laudă
+Yahweh!
+Focul din sufletul meu
+Arde ne-ncetat
+Yahweh.
+Sfânt e, Sfânt e Dumnezeu
+Vrednic e de laudă
+Yahweh!
+Focul din sufletul meu
+Arde ne-ncetat
+Yahweh.
+
+[v2]
+Plin de uimire
+Azi mă predau
+Harul tău mă-ncojoara;
+Mă chemi aproape
+Să umblu-n fapte
+Trăind în al tău nume.
+
+[b]
+El a fost și va veni
+El e viu trăind în noi
+El Dumnezeu
+Yahweh.

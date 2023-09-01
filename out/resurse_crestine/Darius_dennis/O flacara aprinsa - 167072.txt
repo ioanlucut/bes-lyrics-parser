@@ -1,0 +1,37 @@
+[title]
+O flacara aprinsa {author: {Darius, Dennis}, {rcId: {167072}}
+
+[sequence]
+v1,c,v2,c,c
+
+[v1]
+Lumea se zbate in noapte, Raul se plimba pe strazi
+Si nu vrea nimeni sa-l opreasca, Suntem prea indiferenti
+Cad in capcane batranii, Copii sunt atrasi in pacat
+Si tinerii sunt in lanturi legati, De patimi pe veci condamnati
+
+[c]
+% Avem noi oare astazi credinta?
+Mai stim noi oare sa ne iubim?
+Mai suntem noi o flacara aprinsa, un far?
+Mai suntem noi lumini?%
+Avem noi oare astazi credinta?
+Mai stim noi oare sa ne iubim?
+Mai suntem noi o flacara aprinsa, un far?
+% Mai suntem noi lumini?% x2
+Avem noi oare astazi credinta?
+Mai stim noi oare sa ne iubim?
+% Mai suntem noi o flacara aprinsa, un far?
+Mai suntem noi lumini?%
+
+[v2]
+Lupte si vesti de razboaie, Drame, nevoi, tragedii
+Si intre frati ne luptam cu arme, Crestini, cum oare traim?
+Se clatina si inteleptii, Si multi de pe stanca au cazut
+Glasul profetilor se aude, Isus, vine curand
+
+[b]
+Se apropie sfarsitul, E timpul sa ne trezim
+Si sa fim umpluti cu Duhul Sfant, Curand Isus va veni
+Este ceasul de pe urma, Este timpul sa ne trezim
+Sa ingenunchem, cu foc sa ne rugam, % Curand isus va veni%

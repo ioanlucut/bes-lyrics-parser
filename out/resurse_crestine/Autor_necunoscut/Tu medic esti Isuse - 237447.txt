@@ -1,0 +1,29 @@
+[title]
+Tu medic esti isuse {author: {Anonim}, {rcId: {237447}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Tu medic ești Isuse,
+Tu medic și-ndurat,
+Mărturisește rana
+Și sufletul vindecat.
+
+[c]
+Nu-i nimeni să lege-o rană
+Cum Doamne, Tu ai legat!
+Nu-i nimeni, nu-i nimeni,
+Nu-i nimeni să ierte cum Doamne, Tu ai iertat!
+
+[v2]
+Femeia păcătoasă
+Și orbul Bartimeu,
+Mărturisesc Isuse,
+De mila și harul Tău.
+
+[v3]
+Toți păcătoșii lumii
+Pe care i-ai salvat,
+Mărturisesc puterea
+Cu care I-ai vindecat.

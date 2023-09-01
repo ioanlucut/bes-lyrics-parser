@@ -1,0 +1,101 @@
+[title]
+O suflete ce esti iubit {author: {Anonim}, {rcId: {4555}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,v5,c5,v6,c6,v7,c7,v8,c8
+
+[v1]
+O suflete ce ești iubit
+Și ales de Domnul cel jerfit
+Dar tu să răspândești
+Lumină pe pământ
+
+[c]
+/: Să știi că Domnul te-a păstrat
+Și vrea să fii aur curat
+Pe veci El te-a răscumpărat
+Prin sângele sfânt :/
+
+[v2]
+Când încercarea din inimă
+Ți se pare că e mare
+Și suferința
+Este din ce în ce mai grea
+
+[c2]
+/: Tu pleacă-te pe genunchi jos
+Și roagă-l pe Isus Hristos
+Să-ți întărească inima
+Să poți răbda :/
+
+[v3]
+Tu simți că boala ta din corp
+Este tot mai mare
+Și nimeni nu-ți poate da
+Salvare
+
+[c3]
+/: Isus e-acel ce va putea
+Să-ți aline durerea
+Și pe deplin te vei credea
+Chiar vindecat :/
+
+[v4]
+Tu mamă care plângi și chemi
+Adesea fii tăi mereu
+Ce sunt plecați
+Pe-ndepărtatele căi
+
+[c4]
+/: Să știi că și problema ta
+Isus el ți-o va rezolva
+Așa ți-a fost să treci din greu
+Prin încercări :/
+
+[v5]
+Iar tu copilă ascultă
+Astăzi de a ta mamă
+Ce încă mai este
+Cu tine pe pământ
+
+[c5]
+/: Căci va veni și clipa grea
+Când te vei despărți de ea
+Și vei ajunge-n ceasul când
+S-o chemi plângând :/
+
+[v6]
+Iar celora ce ați rămas
+Orfani pe lume și uitați
+Și nicăieri
+Voi mamă n-o să mai aveți
+
+[c6]
+/: Cu ochii disperați spre nori
+Chemați pe-al vost mângâietor
+Și din izvorul ce curge
+S-o mai vedeți :/
+
+[v7]
+Să nu descurajați nicicând
+Niciodată pe cale
+Și-n inimă
+Nădejdea vie s-o purtați
+
+[c7]
+/: În țara dincolo de nori
+Veți fi cu-al Domnului popor
+Și-n veci o să vă bucurați
+Cu ai voștri frați :/
+
+[v8]
+Iubiții mei haideți cu toții
+Pân’ la Golgota să mergem
+Să ne plecăm
+Genunchii-n rugăciune jos
+
+[c8]
+/: Căci El totul pentru noi
+În suferință și nevoi
+Din umbra morții El ne-a scos
+Isus Hristos :/

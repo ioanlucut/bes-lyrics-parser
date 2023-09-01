@@ -1,0 +1,29 @@
+[title]
+Ce frumos va fi in ceruri (miezul noptii e aproape) {author: {Emanuel Hasan}, {rcId: {136034}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ce frumos va fi în ceruri
+Voi cânta în mii de coruri
+Sus în Cer pe sfinte plaiuri
+Voi cânta Celui m-a iubit.
+
+[c]
+Miezul nopții e aproape
+Se aud în taină șoapte
+Domnul e gata s-apară
+Fecioare fiți gata nu dormiți.
+
+[v2]
+Sus în Țara glorioasă
+Eu voi fi a Sa aleasă
+Voi intra în noua casă
+Ce Isus cu drag mi-a pregătit.
+
+[v3]
+Voi cânta o veșnicie
+Îmbrăcat cu in subțire
+Eu Mireasă iar El Mire
+Pentru veci vom fi în ceruri sus.

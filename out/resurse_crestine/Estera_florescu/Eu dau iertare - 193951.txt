@@ -1,0 +1,26 @@
+[title]
+Eu dau iertare {author: {Estera Florescu}, {rcId: {193951}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+De multe ori, am încercat
+Să îți vorbesc dar tu ai refuzat...
+Mă uit la tine, cât de mic ești
+Dar tu tot în tine te încrezi...
+Ai uitat când te-am ridicat
+Ai uitat când te-am ascultat
+Ai uitat, ai uitat...
+
+[c]
+/: Eu dau iertare și eliberare
+Doar cheamă-Mă și am să vin
+Ști că sunt aici! :/
+
+[v2]
+Când tu plângeai, Eu har îți dăruiam
+Dar din nou tu te îndepărtezi și Mă întristezi
+Ai uitat când Te-am vindecat,
+Ai uitat când Te-am ajutat?
+Ai uitat, ai uitat...

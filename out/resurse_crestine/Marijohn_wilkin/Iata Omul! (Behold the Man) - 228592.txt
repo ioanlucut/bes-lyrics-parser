@@ -1,0 +1,23 @@
+[title]
+Iata omul (behold the man) {author: {Marijohn Wilkin, Traducere RO}, {rcId: {228592}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Priviți spre El! Acesta este Omul!
+A fost jertfit pe Golgota;
+El a venit să ne-aducă mântuirea
+Pacea Lui și dragostea.
+
+[c]
+Priviți spre El! Cel ce este viu în slavă
+Stă lângă noi când durerea este grea;
+Credința-n El ne aduce biruință
+Iată Omul! Cel jertfit pe Golgota.
+
+[v2]
+Priviți spre El! Înaintea lui Pilat
+A fost legat și condamnat;
+Dar dragostea-I arătată la Calvar
+Ne-a răscumpărat și ne-a salvat.

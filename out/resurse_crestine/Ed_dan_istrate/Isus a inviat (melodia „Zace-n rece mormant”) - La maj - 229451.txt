@@ -1,0 +1,23 @@
+[title]
+Isus a inviat (melodia "zace-n rece mormant") - la maj {author: {ed. Dan Istrate}, {rcId: {229451}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Isus a înviat!
+Noi Îl mărim, căci ne-a răscumpărat, ai Lui să fim.
+
+[c]
+Veșnic Îl vom mări, căci Christos din morți a înviat,
+Și la ceruri lângă Tatăl S-a-nălțat,
+Pentru-ai Săi iubiți mereu va mijloci,
+A-nviat! A-viat! Fie veșnic lăudat!
+
+[v2]
+Isus a înviat!
+Noi vom căuta în viață ne-ncetat a Îl urma.
+
+[v3]
+Isus a înviat!
+Și vom domni cu El în slava Sa pentru vecii.

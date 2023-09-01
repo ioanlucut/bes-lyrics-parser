@@ -1,0 +1,24 @@
+[title]
+Cand parca nu exist {author: {Adi Gliga}, {rcId: {216248}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Gândesc, dar Tu auzi că strig
+Și mă-nțelegi,
+Iubesc, dar Tu mă vezi jertfind
+Și mă iubești.
+
+[c]
+/: Mă vezi când parcă nu exist
+Când lumea nu mă vede,
+Mă ții când parcă nu rezist
+Și sufletul meu crede. :/
+Și mi-e de ajuns!
+
+[v2]
+Eu sper, dar Tu mă faci să văd,
+Tot ce-am sperat,
+Te cred și-atunci trăiesc minuni,
+Greu de uitat!

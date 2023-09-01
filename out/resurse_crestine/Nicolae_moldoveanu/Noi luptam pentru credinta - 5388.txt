@@ -1,0 +1,35 @@
+[title]
+Noi luptam pentru credinta {author: {Nicolae Moldoveanu}, {rcId: {5388}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Noi luptăm pentru credință
+Ce-am găsit-o în Isus!
+Îndurăm chiar suferința,
+Când ne-o dă Domnul Isus.
+
+[c]
+/: Mântuiți de-un singur sânge,
+O familie formăm;
+Cu Isus noi vom învinge,
+Credincioși de Îl urmăm. :/
+
+[v2]
+Lupta e înverșunată,
+Căci cu spirite luptăm;
+Biruința-i câștigatș
+De Isus, de Îl urmăm.
+
+[v3]
+Lumea stă nepăsătoare;
+Isus e disprețuit.
+Strânge-ți rândurile tale
+Tu, popor cel mântuit!
+
+[v4]
+Evanghelia cerească
+Și credința-n Cel de sus
+Să-ntâlnim iubirea sfântă,
+Îndreptată în Isus.

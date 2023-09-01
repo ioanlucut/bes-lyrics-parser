@@ -1,0 +1,49 @@
+[title]
+Oare nu au nici o vina {author: {Mircea Ciugudeanu}, {rcId: {4557}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c2
+
+[v1]
+Oare nu au nici o vină
+Cei chemați a fi lumină
+Căci atâtea suflete se duc în iad
+Oare spun ei despre Domnul
+Care mântuie tot omul
+Ca să vină să le dea cerescul har.
+
+[c]
+Cel ce zici că ești lumină
+Oare câte imimi ai rănit
+Pentru câți tu ești de vină
+Căci pe Isus ei nu L-au primit.
+
+[v2]
+Tu prin neînțelepciune
+Sau prin vorbele-ți nebune
+De Hristos pe unii i-ai îndepărtat
+Astăzi poate nici nu-ți pasă
+Căci lipsește a morții coasă
+Și tu negi că ești atât de vinovat.
+
+[v3]
+Oare nu îți pasă ție
+Că atâți n-au Apa Vie
+Și venind aici un zâmbet n-au primit
+Și-au plecat în lumea mare
+Unde nu-i astâmpărare
+Setea sfuletului de-a o potoli.
+
+[v4]
+Doamne Tu ma-ntelepteste
+De pacate, ma fereste
+Caci as vrea in cerul slavei sa ajung
+Stiu ca drumul cartre ceruri
+E adesea plin de neguri
+De aceea eu te rog: Nu-l fa prea lung.
+
+[c2]
+Dar te rog azi cat te cheama
+Predate chiar daca ai gresit
+Si nu uita ca cu-atata dor
+O ce mult Isus te-a iubit.

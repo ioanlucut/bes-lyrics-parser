@@ -1,0 +1,83 @@
+[title]
+Eu sunt in barca ta {author: {Lidia Gheorghe}, {rcId: {227166}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7,v8,v9,v10,v11,v12,v13
+
+[v1]
+%Eu sunt în barca ta.
+Deci nu te teme!
+Eu sunt în barca ta
+Deci nu te teme! %
+
+[v2]
+Eu sunt cu tine
+Și te țin bine.
+Stânca ta tare,
+Biruitoare
+
+[v3]
+Deci nu te teme!
+Da, nu te teme!
+Sunt Salvatorul,
+Izbăvitorul.
+
+[v4]
+Simte-Mi prezența!
+Ți-am lăsat pace,
+Ai siguranță,
+Valul va tace.
+
+[v5]
+%Tu ești tăria mea
+Mă-ncred in Tine.
+Tu ești tăria mea
+Mă-ncred in Tine! %
+
+[v6]
+Tu ești cu mine
+Și mă ții bine.
+Stânca mea tare,
+Biruitoare.
+
+[v7]
+Chiar de-i furtună,
+Noroi și spumă,
+Ești Salvatorul!
+Izbăvitorul!
+
+[v8]
+Îți simt tăria,
+Pot să te laud,
+Mi-ești bucuria,
+Fața Ta caut.
+
+[v9]
+%O mie de-ar cădea
+Chiar lângă mine,
+Și zece mii-n dreapta
+Tu mă ții bine. %
+
+[v10]
+Tu-mi ești Salvare,
+A mea scăpare,
+Nu mă voi teme,
+Nici nu voi geme.
+
+[v11]
+Mi-ești Adăpost,
+Chiar am un rost,
+Mi-ai dat valoare,
+Ai pus preț mare.
+
+[v12]
+Tu mă iubești,
+Mă liniștești,
+Și-n cer mă-așteaptă
+Mare răsplată.
+
+[v13]
+%Tu-mi ești iubirea
+Și fericirea,
+Ești Mântuirea,
+Și izbăvirea. %

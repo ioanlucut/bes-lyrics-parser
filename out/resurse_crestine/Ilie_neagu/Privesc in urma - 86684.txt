@@ -1,0 +1,23 @@
+[title]
+Privesc in urma {author: {Ilie Neagu}, {rcId: {86684}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Privesc în urma mea mă uit la trecutul meu
+Sunt amintiri ce m-apasă greu
+Să uit de toate aș vrea să nu mai retrăiesc
+Nici o clipă ce nu mi-o doresc
+
+[c]
+/: Trudit la Tine vin, aștept al Tău alin
+Și să pui balsam pe rănile mele
+Ostenit implor, cer al Tău ajutor
+Și să dai un nou sens vieții mele :/
+
+[v2]
+Clipe risipite s-au scurs rând pe rând
+Mi-au lăsat doar urme în suflet și-n gând
+Ne-mpliniri și doruri, taine ce ard în piept
+În mâna Ta las totul și Te aștept

@@ -1,0 +1,41 @@
+[title]
+O stanca eu am {author: {Puiu Chibici}, {rcId: {124513}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+O stâncă eu am, o stâncă eu am,
+Și-un Nume ce-mi dă bucurie,
+Ce din neam în neam, ce din neam în neam
+Stă tare și-acum și-n veșnicie.
+
+[c]
+Cine e ca Domnul, cine e ca Domnul,
+Sfânt și prea puternic drept și înălțat.
+Cine e ca Domnul, cine e ca Domnul,
+N-are asemănare al meu Împărat.
+
+[v2]
+El e Dumnezeu, El e Dumnezeu
+Ce mă sprijinește în toate.
+Voi spune mereu, voi spune mereu
+La toți despre-a Lui bunătate.
+
+[v3]
+El e pacea mea, El e pacea mea
+La vreme de grea strâmtorare.
+În El voi avea, în El voi avea
+Izbândă-n orice-mprejurare.
+
+[v4]
+Mă plec la pământ, mă plec la pământ,
+În fața Lui nu mă simt vrednic
+El este Cel sfânt, El este Cel sfânt,
+E Domnul meu Cel atotputernic.
+
+[v5]
+Căci nu am în cer, căci nu am în cer
+Pe nimeni în afară de El.
+Toiagul de fier, toiagul de fier,
+Iehova, Sfântul lui Israel.

@@ -1,0 +1,29 @@
+[title]
+Domnul e acelasi {author: {Grupul Speranta}, {rcId: {112846}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Viața e frumoasă când pe munte te găsești
+Când e cer senin în siguranță locuiești,
+Dar când treci prin vale, când te simți însingurat
+Nu uita că Domul e Același neschimbat.
+
+[c]
+/: Domul de pe munte e Acela ce-n vale
+E Dumnezeu peste noapte și zi
+Când e vreme bună sau furtuna-i mare
+El rămâne la fel, El te va ocroti! :/
+
+[v2]
+E ușor să crezi când pe munte te-ai urcat,
+Când ești sănătos sau când ești bogat,
+Dar când esti sărac sau boala te lovește
+Chiar și-acolo-n vale Dumnezeu te izbăvește
+
+[v3]
+În această viață credincios să rămâi mereu
+Chiar de-i calea dreaptă sau de-i drumul greu
+Să nu te temi nicicând de-ncercarea care vine
+Încrede-te în Domnul, Brațul Lui te ține!

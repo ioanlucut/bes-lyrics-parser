@@ -1,0 +1,23 @@
+[title]
+Haideti impreuna sa mergem la isus {author: {Nicolae Moldoveanu}, {rcId: {5940}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Haideți împreună să mergem la Isus,
+Născut în Betleem, un Împărat venit de sus.
+Să ne închinăm, cu fața la pământ,
+Căci El e Dumnezeu, Mesia sfânt.
+
+[c]
+/: C-un zâmbet blând,
+Pe noi, Isus ne va-ncălzi.
+Privind la El,
+Inimile vor străluci. :/
+
+[v2]
+Am și eu o iesle ce-mi este inima.
+Isuse, să Te naști, doresc acum, în ieslea mea,
+Am și eu o iesle ce-mi este inima.
+Tu să mi-o luminezi cu Fața Ta!

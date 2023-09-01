@@ -1,0 +1,29 @@
+[title]
+Sunt fericit {author: {Simon Boloca}, {rcId: {202130}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Sunt fericit și vreau să-Ți cânt, cât voi trăi pe-acest pământ,
+Iertare, pace, Tu mi-ai dat, cu Duhul Sfânt m-ai botezat.
+N-am meritat dar Tu ești bun, și vreau la toți ca să le spun,
+De Tine, de iubirea Ta, ce-ai revărsat-o în viața mea!
+
+[c]
+/: O, cum să tac când Tu, o, Doamne, atâta bine mi-ai făcut,
+Eram de nebăgat în seamă, și M-ai iubit atât de mult!
+Îți mulțumesc, dar niciodată, știu că nu va fi îndeajuns,
+Să-Ți răsplătesc iubite Tată, să-Ți răsplătesc preascump ISUS: \
+
+[v2]
+De n-ar fi fost jertfirea Ta, era pierdută viața mea,
+Destinul meu iadul era, și focul veșnic m-aștepta.
+Dar prin sângele Tău, Hristos, eu sunt salvat și-s bucuros,
+Că loc în cer mi-ai pregătit, Mântuitorule iubit!
+
+[v3]
+Aștept cu dor măreața zi, când față în fața Te-oi privi,
+Când în prezența Ta voi sta, și-n cor cu sfinții îți voi cânta.
+Dar știu că nu e mult și vii, să îți răpești ai Tăi copii,
+Tu ce-ai promis și împlinești, din veșnicii același Ești!

@@ -1,0 +1,53 @@
+[title]
+Eu m-am intors cu credinta {author: {Anonim, Traducere RO}, {rcId: {58958}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Eu m-am întors cu credință la Domnul
+Când eram mic despre El am aflat
+Ca un fiu rătăcit, eu doream după tihnă
+Locașul sfânt de acum am aflat
+
+[c]
+Eu m-am întors cu credință la Domnul
+Eu despre El în profeți am citit
+El e Isus al veciei Părinte
+Slavă deci Lui, acas-am sosit
+
+[v2]
+Eu m-am întors la a mamei credință
+Pe-ai ei genunchi de Isus auzeam
+Ea îmi vorbea ca să-L pot înțelege
+Pe-acest Isus eu acum regăseam
+
+[c2]
+Eu m-am întors la a mamei credință
+La-al ei Isus, la Stăpânul slăvit
+El e Isus al veciei Părinte
+Slavă deci Lui, acas-am sosit
+
+[v3]
+Eu m-am întors la credința ce tata
+Cu stăruință mărturisea
+În cor mii de îngeri cântau: Aleluia!
+Un fiu rătăcit acasă sosea
+
+[c3]
+Eu m-am întors la Stăpânul vieții
+Cel ce-a creiat ceru-ntreg și pământ
+El mi-e Isus al veciei Părinte
+Slavă deci Lui acas-am sosit
+
+[v4]
+Eu m-am întors la Yahve-al lui Iuda
+Pe genunchi m-am plecat la-al harului tron
+Voi rămâne smerit în familia divină
+Iar Dumnezeu îmi va fi veșnic Domn
+
+[c4]
+Eu m-am întors la Yahve-al lui Avraam
+Păstorul lui Moise, la ˝Acela ce este˝
+El mi-e Isus al veciei Părinte
+Slavă deci Lui, acas-am sosit

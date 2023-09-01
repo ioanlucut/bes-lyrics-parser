@@ -1,0 +1,23 @@
+[title]
+Acolo unde duhul sfant {author: {J.R.Sweney}, {rcId: {1920}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Acolo unde Duhul Sfânt domnește, pace e.
+Și fericire pe pământ într-alt loc nu mai e.
+
+[c]
+Iubirea Ta, o, Doamne bun,
+Noi Te rugăm, revars-acum
+Pe-aceștia doi ce se unesc
+Să Te urmeze cât trăiesc!
+
+[v2]
+Acolo unde dragostea cerească e pe tron,
+Nu-s certuri și nici dezbinări căci Isus este domn.
+
+[v3]
+Familia în care e iubirea lui Isus,
+Chiar dacă trece prin nevoi, ferice e nespus.

@@ -1,0 +1,30 @@
+[title]
+De ce-am cantat ? {author: {Nicolae Moldoveanu}, {rcId: {199251}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+De ce-am cântat așa iubirea,
+Și prietenia neschimbată?
+/: - Fiindcă Te-am aflat lsuse,
+Și-n Tine-am cunoscut-o toată! :/
+
+[v2]
+De ce-am a
+Ies Cărarea jertfei,
+Și-am vrut să-ndur orice lovire?
+/: - Fiindcă Tu mi-ai spus că nu e,
+O mai deplină fericire. :/
+
+[v3]
+De ce mă rog pentru iertarea,
+Acelor ce lovesc în mine?
+/: - Fiindcă Tu făcut-ai astfel,
+Și-așa doresc să fac ca Tine. :/
+
+[v4]
+Ce scump cuvânt ar fi acuma,
+Să-Ți mai grăiesc de-acum ’nainte,
+/: Când nu-i nici gând, nici dor pe lume,
+Să nu Ți-l fi șoptit fierbinte. :/

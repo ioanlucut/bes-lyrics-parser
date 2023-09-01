@@ -1,0 +1,41 @@
+[title]
+Vino azi la el {author: {Adrian Cost}, {rcId: {62411}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Oare când va-nceta durerea între oameni?
+Și când amarul va seca?
+Atâtea suflete zac cu frică prin noapte
+Fără speranță prin nevoi...
+E speranță-n Hristos!
+Să ne unim!
+Vom birui!
+
+[c]
+Hai, creștini, de azi în unire!
+Hai să dăm celor căzuți un sens!
+E putere în Hristos
+Ce ne-a chemat să fim ca El,
+Plini de dragoste!
+
+[v2]
+Observ un tânăr plângând, vrând să-și ia viața
+Am putea să-l ajutăm
+O mama pe-a ei genunchi cu lacrimi se roagă
+Pentru băietii ei închiși...
+Pe-ntregul pământ plâns și necaz
+În El ne unim!
+
+[v3]
+De azi cauți pacea: e numai la Tatăl
+Fără de El nu biruiești!
+El e speranța ce-aduce pacea
+De-aceea azi eu te chem!
+
+[c2]
+/: Vino azi la El cu-ndrăzneală!
+Vino și vei fi eliberat!
+El prin jertfa Lui, pe lemn te-a mântuit
+Și te-a iertat! :/

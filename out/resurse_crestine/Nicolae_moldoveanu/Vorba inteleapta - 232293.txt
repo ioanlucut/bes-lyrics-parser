@@ -1,0 +1,30 @@
+[title]
+Vorba inteleapta {author: {Nicolae Moldoveanu}, {rcId: {232293}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Vorba înțeleaptă spune: Să nu stai cu cei mișei!
+Cine stă-ntre lupi învață ca să urle-așa ca ei.
+
+[c]
+Dragi copii, să învățăm, calea dreaptă să urmăm!
+Să nu fim amestecați cu cei răi și necurați.
+Din amestec cu cel rău numai pierdere-i mereu!
+
+[v2]
+Zilnic să-nvățăm virtutea, cei micuți și mari—cu toți!
+Să fugim de prietenia celor mincinoși și hoți!
+
+[v3]
+Prin Cuvântul Său ne-ndeamnă Domnul—ca să nu pierim—,
+la un jug cu fărdelegea nicio clipă să nu fim!
+
+[v4]
+Căci ce părtășie poate fi între Hristos Cel Sfânt
+și nelegiuitul diavol, rău și-n fapte și-n cuvânt?
+
+[v5]
+Să păstrăm cărarea dreaptă de credință și-adevăr,
+căci pe ea cu toți ajungem în preafericitul cer!

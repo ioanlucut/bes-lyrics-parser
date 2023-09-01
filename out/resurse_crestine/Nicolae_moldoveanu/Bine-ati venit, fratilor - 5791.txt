@@ -1,0 +1,42 @@
+[title]
+Bine-ati venit fratilor {author: {Nicolae Moldoveanu}, {rcId: {5791}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Bine-ati venit, fratilor,
+Pe al muncii sfant ogor!
+Pacea Domnului cu voi,
+Sa va scape din nevoi.
+
+[c]
+Pacea Domnului cu voi,
+/: Sa va scape :/ /: de nevoi! :/
+/: Sa va fie :/ /: de-ajutor, :/
+Pe al muncii sfant ogor!
+
+[v2]
+Lucratori, nu-ntarziati!
+Va grabiti de secerati,
+Cat mai e timpul de har,
+Ca la urm-a fi-n zadar...
+
+[v3]
+Dumnezeul cerului,
+Domnul secerisului,
+Sa trimita lucratori
+Si mai multi seceratori!
+
+[v4]
+Vedeti, secerisu-i copt
+Pentru Domnul Savaot!
+Strangeti toate spicele,
+Pana harul mai tine!
+
+[v5]
+Noi va zicem: „
+Bun venit!”
+La toti care ati sosit.
+Tatal nostru cel din cer
+Sa va ocroteasca El!

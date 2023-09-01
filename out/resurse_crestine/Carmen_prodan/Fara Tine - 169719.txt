@@ -1,0 +1,31 @@
+[title]
+Fara tine {author: {Carmen Prodan}, {rcId: {169719}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c2
+
+[v1]
+Doamne, Tu-mi ești totul pe acest Pământ,
+Ești a mea nădejde când mă simt înfrânt!
+
+[c]
+Fără Tine, Doamne, viața n-are nici un sens,
+Făr-a Ta prezență în zadar trăiesc!
+
+[v2]
+Tu-mi ești bucurie chiar când lăcrimez,
+Prin dureri și valuri vreau să Te urmez!
+
+[v3]
+Poți să ai în lume tot ce ți-ai dorit,
+Fără Domnul vieții nu ești împlinit!
+
+[v4]
+Doar pe Tine, Doamne, Te voi lăuda,
+Tu ești fericire pentru viața mea!
+
+[c2]
+Fără Tine, Doamne, viața n-are nici un sens,
+Făr-a Ta prezență în zadar trăiesc!
+Dar cu Tine, Doamne, fericire am mereu,
+Tu ești împlinirea sufletului meu!

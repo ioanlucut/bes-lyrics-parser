@@ -1,0 +1,41 @@
+[title]
+Cine-ti stie {author: {Nicolae Moldoveanu}, {rcId: {244548}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Cine-Ți știe calea lină,
+De viață și lumină,
+/: Fericit pe veci va fi,
+Doamne, pe ea de-o păși! :/
+
+[v2]
+Cine-Ți știe-a Ta iubire,
+Veșnic rai de fericire,
+/: Ceru-ntreg îl va avea,
+Loc în suflet de-i va da. :/
+
+[v3]
+Cine-Ți știe-a Ta cântare,
+De odihnă dătătoare,
+/: Liniștit va fi deplin,
+În furtunile ce vin. :/
+
+[v4]
+Cine-Ți știe sfânta Carte,
+De Iumină-avea-va parte,
+/: Traiul său de-l va-ndrepta,
+După cele scrise-n ea. :/
+
+[v5]
+Cine-Ți știe dulcea Lege,
+Fericire va culege,
+/: De-o primi adânc în el,
+Duhul ei și sfântu-i fel. :/
+
+[v6]
+Căci acela care știe,
+Și-mplinește-n curăție,
+/: Fericit e pe pământ,
+Fericit și-n cerul sfânt! :/

@@ -1,0 +1,33 @@
+[title]
+Acest dar e cel mai mare dar {author: {Cristale}, {rcId: {4345}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+Acest dar e cel mai mare dar
+Din tot ce lumea a cunoscut
+Dragostea Lui într-un copilaș
+Pe pământ s-a coborât
+Câtă credință, câtă bucurie
+A adus pe pământ
+Acest dar, cel mai mare dar
+E din mâna Lui.
+
+[v1]
+Ce poți să-I dai tu celui ce suferă
+Cum poți să vindeci tu pe cel căzut
+Într-o zi a speranței cum poți tu oare
+S-ajuți inimi ce s-a zdrobit.
+
+[v2]
+Numai Domnul meu din veșnicii
+L-a trimis chiar pe Fiul Său
+Căci inima cerului bate și-acum
+Pentru binele meu și-al tău.
+
+[v3]
+În lumea de-ntuneric
+O rază s-a ivit
+Speranța și salvarea
+Chiar în El s-au împlinit.

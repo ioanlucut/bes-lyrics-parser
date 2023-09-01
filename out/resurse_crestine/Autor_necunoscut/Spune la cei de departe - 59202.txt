@@ -1,0 +1,45 @@
+[title]
+Spune la cei de departe {author: {Anonim}, {rcId: {59202}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Spune la cei de departe
+La cei care nu Mă cunosc,
+Spunele că-ntr-o Carte,
+Le-am scris cât Îi iubesc!
+
+[v2]
+Spune la cei care-au plecat,
+La cei care M-au părăsit.
+Că-n vazduh, mereu le șoptesc:
+„
+Vă primesc, vă iubesc!!”
+
+[v3]
+Spune la cei care-au pierdut,
+Dragostea și nu o mai simt,..
+Spunele că Eu sunt Izvor
+De iubire și dor..
+
+[v4]
+Dragostea Ta, Doamne,
+Dragostea Ta mare,
+Dintr-o departare m-a atras la Tine
+/: Acum mai bine, viața mi-aș pierde,
+Decât să pierd a Ta dragoste :/
+
+[v5]
+Dragostea Ta Doamne,
+Dragostea Ta mare,
+Când eu m-am rătăcit, ea m-a regăsit
+/: În văzduh șoptesc: Doamne, mulțumesc!
+Viața mea Ție Ți-o dăruiesc!! :/
+
+[v6]
+Dragostea Ta Doamne,
+Dragostea Ta mare,
+Izvor de Iubire, e pentru mine,
+/: Când Te-am pe Tine, eu simt în mine,
+Izvoare Sfinte de Dragoste!! :/

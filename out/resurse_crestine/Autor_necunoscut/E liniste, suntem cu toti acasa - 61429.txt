@@ -1,0 +1,23 @@
+[title]
+E liniste suntem cu toti acasa {author: {Anonim}, {rcId: {61429}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+E liniște, suntem cu toți acasă
+Și pentr-un timp
+lăsăm acum povara zilei
+Noaptea încet din cer vine ușor,
+Doamne Tu ești al nopții Creator!
+
+[c]
+Nu sunt singur
+Tu, Doamne, ești cu mine,
+Gândul acum, se-nalță către Tine.
+
+[v2]
+Iartă-mă, Tu, de tot ce am greșit
+Și voi dormi în pace liniștit
+Sunt obosit, dar voi dormi ușor
+Îți mulțumesc, al nopții Dătător!

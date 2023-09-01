@@ -1,0 +1,26 @@
+[title]
+Merg cu drag la scoala {author: {Nicolae Moldoveanu}, {rcId: {233305}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Merg cu drag la școală să-nvăț să citesc
+Cartea unde-mi spune de Tatăl Ceresc.
+Cum El a zidit toate câte sunt,
+cele sus în cer și jos pe pământ.
+Slavă, slavă Celui Sfânt!
+
+[v2]
+Tot în Cartea Sfântă văd ce-a suferit,
+pentru noi pe cruce Domnul Cel Slăvit.
+El, prin jertfa Sa, ne-a răscumpărat
+Și în veșnic Rai loc ne-a câștigat.
+Slavă Lui, că ne-a iertat!
+
+[v3]
+Merg cu drag la școală și învăț mereu,
+Ca să știu mai bine despre Dumnezeu.
+Să-L ascult supus, să-L mărturisesc,
+Să-I fac bucurii și să-L preamăresc.
+Slavă Tatălui Ceresc!

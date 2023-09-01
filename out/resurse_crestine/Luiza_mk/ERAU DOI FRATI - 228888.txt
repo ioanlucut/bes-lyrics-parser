@@ -1,0 +1,47 @@
+[title]
+Erau doi frati {author: {LUIZA MK}, {rcId: {228888}}
+
+[sequence]
+v1,v2,v3,v4,e
+
+[v1]
+Erau doi frati dar nu din fire
+Si-au jurt sa fie frati
+Dar nu oricum ci-adevarati
+Chiar pana la jertfire
+/: O David si Ionatan
+A voastra iubire
+Invinge pe dusman
+Chiar si a lor gândire :/
+
+[v2]
+Si fiind David încredintat
+Sa lupte cu lepadatul rege chiar
+Ca prieteni s-aujtau la greu
+În dragoste de jar
+/: O David si Ionatan
+A voastra iubire
+Invinge pe dusman
+Chiar si a lor ostire :/
+
+[v3]
+Si tare Ionatan învins
+De sabia dusmanului
+Iar David nu putea de plâns
+Vazând atâta-i rana
+/: O David si Ionatan
+A voastra cetate
+Învinge pe dusman
+S-ajungi la libertate :/
+
+[v4]
+Fi si tu unul din cei doi
+S-ajuti fratele în nevoi
+Când e cazut si chiar rapus
+Roagate lui Isus
+
+[e]
+Fiiti ca David si Ionatan
+Având a lor iubire
+În umblet si în cuget
+Traind toti în iubire

@@ -1,0 +1,44 @@
+[title]
+Neclintit(build my life) {author: {Ekklesia Arad}, {rcId: {189324}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Vrednic de lauda ce o pot cânta
+Vrednic ești Tu in veci de-nchinarea mea
+Vrednic de tot ce sunt toată viața mea
+Ești Tu Isus
+Isus e numele cel mai minunat
+Isus e singurul care m-a salvat
+Vrednic de tot ce sunt toată viața
+Esti Tu Isus
+Ești Tu Isus
+
+[c]
+Sfânt ești, nimeni nu-i ca Tine
+Totu-ti aparține
+Luminează Tu prin mine
+Vreau sa Te cunosc mai bine
+Vreau a Ta iubire
+Pentru cei de langa mine
+Sfânt ești
+Nimeni nu-i ca Tine
+Totu-ti aparține
+Luminează tu prin mine
+Vreau sa Te cunosc mai bine
+Vreau a Ta iubire
+Pentru cei de langa mine
+
+[v2]
+Vrednic de lauda ce o pot cânta
+Vrednic ești Tu in veci de-nchinarea mea
+Vrednic de tot ce sunt toată viața mea
+Esti Tu Isus
+Ești Tu Isus
+
+[e]
+Voi zidi pe-a Ta iubire
+E o temelie tare
+Voi trai doar prin credință
+Neclintit în orice vreme

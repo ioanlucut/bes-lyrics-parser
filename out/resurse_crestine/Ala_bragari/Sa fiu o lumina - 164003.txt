@@ -1,0 +1,29 @@
+[title]
+Sa fiu o lumina {author: {Ala Bragari}, {rcId: {164003}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Să fiu o lumină doresc,
+Să nu trăiesc în zadar
+Pentru oameni vreau să fiu
+Un ajutor real.
+
+[c]
+Eu cred în Tine Rege Bun,
+Tu Te înduri de noi,
+Viața și moartea e în mâna Ta,
+Drept și Bun Salvator.
+
+[v2]
+Iubirea Ta Doamne în mine e,
+Ea mă conduce spre Tine,
+Vreau să fac fapte bune
+Care Le-ai pregătit pentru mine.
+
+[v3]
+Tu Esti olarul ce mă pregătești
+Pentru venirea Ta
+Modelează-mă cum dorești
+Să fiu în împărăția Ta.

@@ -1,0 +1,28 @@
+[title]
+Isus intra in ierusalim {author: {Mirela Cimpean}, {rcId: {219707}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Isus intră-n Ierusalim
+Călare pe-un măgăruș.
+Mulțimea exclamă puternic:
+Osana lui Isus!
+
+[c]
+/: Osana lui Isus: \
+Binecuvântat să fie-n veci
+Împăratul lui Israel
+
+[v2]
+Și acei care au crezut
+În minunile ce le-a făcut,
+Bucuroși hainele le-așternau
+Și toți Îl aplaudau.
+
+[v3]
+Și mulți trecători se-nchinau,
+Pe Domnul Îl lăudau,
+Cu ramuri de finic,
+Acelui Isus iubit.

@@ -1,0 +1,52 @@
+[title]
+Cum sa nu te cant isuse? (am strigat am strigat la tine doamne) {author: {Anonim}, {rcId: {3889}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c
+
+[v1]
+Cum să nu Te cânt, Isuse?
+Cum să nu Te cânt?
+Cum să nu-Ti slăvesc eu oare,
+Numele Tău sfânt?
+
+[c]
+/: Am strigat :/ la Tine Doamne, Doamne!
+Si m-ai ascultat;
+Bucuria și iubirea mie mi le-ai dat. :/
+
+[v2]
+Cum să tac acum că-mi vine
+Lumii-ntregi să spun
+Cât de bun Ai fost cu mine,
+Ah, cât Ești de bun!
+
+[v3]
+O de-ar fi lacrimi Isuse
+Nu mi-ar fi de-ajuns,
+Să-Ti slăvesc cu ele,
+Tie scump Isus.
+
+[v4]
+Până-n veci voi spune, Doamne
+Cât de-adevărat
+Ce puternic e-al Tău nume
+Scump și minunat
+
+[v5]
+Fă să strig de bucurie
+Fă să strig voios,
+Căci din moarte și pieire
+Prin jertfă m-ai scos.
+
+[v6]
+Si m-ai scos din astă lume,
+La lumina Ta;
+Multe lacrimi pentru mine
+Au curs pe fața Ta.
+
+[v7]
+Fă să cânt și azi Isuse
+Tie ne’ncetat,
+Să-mi aduc mereu aminte
+Din ce m-ai scăpat.

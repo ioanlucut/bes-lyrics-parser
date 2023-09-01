@@ -1,0 +1,31 @@
+[title]
+Daca dragoste avem {author: {Sanctus Pro Deo}, {rcId: {162341}}
+
+[sequence]
+v1,v2,e,v3
+
+[v1]
+Vom fi una în Isus, vom fi una în El,
+Vom fi una în Isus dacă dragoste avem
+Și vrem să fim ca Isus și vrem să iubim ca El.
+Să se vadă în lume cum iubim ca și El,
+Să se vadă că noi dragoste avem.
+
+[v2]
+Vom păși împreună, mână-n mână cântând,
+Vom păși împreună, dragoste arătând,
+Vestea bună vom spune, cu noi este Dumnezeu!
+Să se vadă în lume că iubim ca și El,
+Să se vadă că noi dragoste avem.
+
+[e]
+/: Noi vom fi una în El, numai prin dragoste! :/
+x3
+
+[v3]
+/: Vom lucra împreună, cot la cot vom lupta,
+Vom lucra împreună, dragoste vom arăta,
+Vom păzi cu demnitate, vom salva ce încă e!
+Să se vadă în lume ca iubim ca și El,
+Să se vadă că noi dragoste avem. :/
+Să se vadă că noi dragoste avem.

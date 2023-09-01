@@ -1,0 +1,33 @@
+[title]
+Ah ce grea durere pe mine m-apasa {author: {Ionel Saran Bochis}, {rcId: {93472}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Ah, ce grea durere pe mine m-apasă,
+Sufletul îmi plânge, lanțuri mă-nconjoară,
+/: De Tine, Isuse, ca să mă despartă
+Și-n fiori năpaste inima mi-e frântă :/
+
+[c]
+Vino Tu, Isuse dragă, vino la mine,
+Dorurile mele toate Tu le știi bine!
+Nu lăsa ca-n viața asta la sfârșit ca ea să fie
+Pe acest pământ goană după vânt,
+Nu lăsa ca-n viața asta la sfârșit ca ea să fie
+Pe acest pământ fără Tin’ Isus!
+
+[v2]
+Viața mi-a fost tristă fără Tine, Doamne,
+Cât în lumea largă eu umblam pustiu.
+/: Dar acum, Isuse, cânt de bucurie,
+M-ai salvat pe mine, o, ce fericire! :/
+
+[c2]
+Vino Tu, Isuse dragă, vino la mine,
+Dorurile mele toate Tu le știi bine!
+Nu lăsa ca-n viața asta la sfârșit ca ea să fie
+Pe acest pământ goană după vânt,
+Nu lăsa ca-n viața asta la sfârșit ca ea să fie
+Pe acest pământ fără Tin’ Isus!

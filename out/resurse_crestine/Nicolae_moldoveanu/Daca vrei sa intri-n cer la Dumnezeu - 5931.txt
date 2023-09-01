@@ -1,0 +1,29 @@
+[title]
+Daca vrei sa intri-n cer la dumnezeu {author: {Nicolae Moldoveanu}, {rcId: {5931}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Daca vrei sa intri-n cer la Dumnezeu,
+Numai Calea Crucii duce-n Raiul Sau.
+Ea e Adevarul, este-al Vietii drum.
+Suflete, azi intra! E deschis acum!
+
+[c]
+Usa mantuirii e Isus!
+Doar prin El tu intri-n ceruri sus.
+Foloseste clipa spre-a intra!
+Dumnezeu va-nchide usa. Nu mai amana!
+
+[v2]
+Domnul te invita, timpu-i pe sfarsit.
+Astazi e momentul cel mai potrivit.
+Prinde azi prilejul cel mai minunat,
+Gratia divina, harul ce s-a dat...
+
+[v3]
+Cand a Vietii usa se va incuia,
+Cei mai multi afara-n veci vor ramanea;
+In zadar vor bate, prea tarziu va fi.
+Au respins oferta Celui din vecii...

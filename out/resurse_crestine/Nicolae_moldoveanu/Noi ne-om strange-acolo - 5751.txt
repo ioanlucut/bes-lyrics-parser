@@ -1,0 +1,28 @@
+[title]
+Noi ne-om strange-acolo {author: {Nicolae Moldoveanu}, {rcId: {5751}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Noi ne-om strânge-acolo unde
+Îngerii ne-așteaptă
+Și, din tronul lui Dumnezeu,
+Curge apa cristalină.
+
+[c]
+/: Da! Ne-om strânge toți acolo
+/: De unde curge apa vieții: :/
+La tronul lui Dumnezeu. :/
+
+[v2]
+Acolo, la malul apei,
+Vom depune sarcina
+Și vom intona cu toții
+Domnului o cântare.
+
+[v3]
+Sus, mai sus la ’cele țărmuri
+Unde Isus e pe tron,
+Ne așteaptș, cu toți sfinții,
+Pe noi și-ntregul popor.

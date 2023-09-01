@@ -1,0 +1,25 @@
+[title]
+Semanatorul a iesit {author: {Anonim}, {rcId: {238164}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Semănătorul a ieșit, sămânța a semănat
+Într--un pământ lângă drum, iar păsările vin acum.
+
+[c]
+Ești un pământ, omule, ești un pământ, omule,
+Ești un pământ, pământ ești, o, spune de ce nu rodești?
+
+[v2]
+Erai o stâncă-n înălțimi, sămânța a căzut în tin’,
+Tu ai respins-o direct și n-a avut nici un efect.
+
+[v3]
+Semănătorul a trecut, sămânța, vai, a căzut
+Într-un pământ plin cu spini, o, spune de ce tot suspini?
+
+[v4]
+Iată, sămânța acum cade-n pământul cel bun,
+Unul aduce treizeci, o sută, iar altul șaizeci.

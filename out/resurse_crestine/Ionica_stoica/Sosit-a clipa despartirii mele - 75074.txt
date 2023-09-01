@@ -1,0 +1,53 @@
+[title]
+Sosit-a clipa despartirii mele {author: {Ionică Stoica}, {rcId: {75074}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Sosit-a clipa despărțirii mele
+De scumpul meu cămin unde am trăit
+Și las pe față lacrimi să se prelingă
+Căci clipa despărțirii a sosit.
+
+[c]
+/: De a mea mamă, de al meu părinte
+De frații mei ce i-am iubit.
+Plâng cu lacrimi, cu mari suspine,
+Căci mult pe dânșii i-am iubit :/
+
+[v2]
+Iar dintre toate ceea ce-mi dă aripi
+E harul Domnului din viața mea,
+Ce-ar vrea și în ceruri
+Să am pe aceea ce mi-a dat viață.
+
+[c2]
+/: Căci eu mă duc, o mamă scumpă
+Și iartă-mă de ți-am greșit,
+Căci niciodată a ta iubire
+În viață nu m-a părăsit :/
+
+[v3]
+Eu voi pleca, acum, de la tine
+De azi viața mea se va schimba,
+Aș vrea să simt pe veci a ta iubire
+Să fii aproape de ființa mea.
+
+[c3]
+/: Căci, mamă, scumpa ta iubire
+Pe veci n-o pot uita.
+Cu ce căldură și bucurie
+Te-ai îngrijit de viața mea :/
+
+[v4]
+Iar dacă va veni și ziua aceea
+Când dorurile ni se vor uni,
+Vom fi împreună-n slava Lui cea mare
+Și gândurile ni se vor sfârși.
+
+[c4]
+/: Să ai credință, o, mamă scumpă,
+Că Domnul te va ajuta.
+Să crezi puternic, că vom fi împreună
+Cu toții sus la nunta Sa. :/

@@ -1,0 +1,35 @@
+[title]
+Tot ce am pe acest pamant {author: {Gabi Miclea}, {rcId: {221712}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Tot ce am pe-acest pământ
+Tot ce e curat și sfânt
+Orice lucru cât de mic prin tine-l am
+Totu-n dar eu am primit
+Tu mi-ai dat Isus iubit
+Pentru toate azi venim și-ți mulțumim
+
+[c]
+Venim acum cu mulțumire
+La tine noi venim
+Ne-ai dat atâta fericire
+Isuse-Ți mulțumim
+
+[v2]
+Ești lumină-n drumul nost’
+Ești al nostru adăpost
+Tu ești tot ce noi vreodată ne-am dorit
+Doar la tine noi privim
+Și putere-n dar primim
+De aceea azi venim și-Ți mulțumim
+
+[v3]
+Tot ce-avem pe acest pământ.
+Tot ce e frumos și sfânt
+Orice lucru cât de mic prin Tine avem
+Totu-n dar noi am primit
+Tu ne-ai dat Isus iubit
+De aceea azi venim și-Ți mulțumim.

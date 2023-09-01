@@ -1,0 +1,29 @@
+[title]
+In ierusalim {author: {Filadelfia}, {rcId: {64445}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Unde pot găsi iertarea de păcat
+Cine-ar vrea să-mi ia durerea mea?
+Unde pot găsi iertarea de păcat
+Cine-ar vrea să-mi ia durerea mea?
+
+[c]
+În Ierusalim s-a ivit o stea
+Aș vrea să strălucesc ca ea,
+În Ierusalim s-a ivit o stea
+Aș vrea să strălucesc ca ea.
+
+[v2]
+Ninge frumos, ninge ca-n povești
+Totul din jur e curat
+Inima mea însă vrea ceva
+Să strălucească și ea.
+
+[v3]
+Îngerii cântă cu toții în cor
+Că azi Hristos s-a născut,
+Toți se închină pruncului sfânt
+Că a venit pe pământ.

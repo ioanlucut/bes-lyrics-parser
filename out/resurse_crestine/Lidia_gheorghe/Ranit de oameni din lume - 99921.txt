@@ -1,0 +1,47 @@
+[title]
+Ranit de oameni din lume {author: {Lidia Gheorghe}, {rcId: {99921}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Rănit de oameni din lume,
+Rănit de cei dragi din jur,
+Așa cum sunt vin la tine
+Mielule făr’ de cusur.
+
+[c]
+/: Da rănit, si lovit si trântit
+Mă-ntorc la Tine
+Numai Tu, numai Tu
+Domnul meu, m-ai ridicat :/
+
+[v2]
+În jertfa Ta găsesc pacea.
+Jertfa Ta îmi dă alin.
+Prin Duh sufletu-mi desface
+Și-mi ridică-al meu suspin.
+
+[v3]
+Îndată găsesc liberarea,
+Cum inima eu mi-o deschid.
+Prin rugă îmi fac cercetarea,
+Puterea Ți-o simt ca sprijin.
+
+[v4]
+Prezența-Ți mă face mai tare,
+Mă-ndeamnă ca să îndrăznesc,
+Să trec de durere și jale
+Și plâng când te regăsesc.
+
+[v5]
+Ietarea, Isuse ce mare!
+Ți-a fost după ce-ai suferit
+Piroane în mâini și-n picioare
+Și tot... ai iertat și-ai iubit
+
+[v6]
+Lăsat-ai și sânge și viață
+Ca eu astăzi să înțeleg
+Că sunt de preț în a ta față
+La pieptul Tău eu azi alerg.

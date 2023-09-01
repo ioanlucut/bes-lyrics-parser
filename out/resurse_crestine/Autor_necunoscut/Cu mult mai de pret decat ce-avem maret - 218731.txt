@@ -1,0 +1,35 @@
+[title]
+Cu mult mai de pret decat ce-avem maret {author: {Anonim}, {rcId: {218731}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cu mult mai de preț decât ce-avem măreț
+E mesajul care m-a străpuns:
+Că Isus ispăși vina mea când muri,
+Că jertfa Lui mi-este-ndeajuns
+
+[c]
+Jertfa Lui mi-este-ndeajuns.
+Păcatul meu e iertat.
+Isus l-a spălat prin sângele-I vărsat.
+Da, jertfa Lui mi-este-ndeajuns.
+
+[v2]
+Când a fost zdrobit, sus pe lemn pironit,
+Și prin răni sângele sfânt a curs,
+Era asupra Sa toată vina mea grea.
+Da, jertfa Lui mi-este-ndeajuns.
+
+[v3]
+Când eu L-am privit pe Calvar răstignit,
+M-a înfrânt iubirea-I, m-am supus.
+De atunci viața mea e pe veci doar a Sa,
+Căci jertfa Lui mi-este-ndeajuns.
+
+[v4]
+Eu azi sunt salvat, pe veci răscumpărat
+De al meu Mântuitor Isus.
+Tot mereu voi cânta și aici, și-n slava Sa,
+Căci jertfa Lui mi-este-ndeajuns.

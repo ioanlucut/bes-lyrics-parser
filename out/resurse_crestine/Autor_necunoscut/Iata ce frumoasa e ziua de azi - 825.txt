@@ -1,0 +1,23 @@
+[title]
+Iata ce frumoasa e ziua de azi {author: {Anonim}, {rcId: {825}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+Iată ce frumoasă e ziua de azi
+Eu cânt mereu chiar și în necaz
+Vreau să Îl slăvesc pe Marele Stăpân
+Căci El e nespus de bun!
+
+[v1]
+Tată eu Te rog, fă-mă-ascultător
+Să Te urmez ca pe un păstor
+Mereu să trăiesc pentru Tine
+Iar Tu să fii lângă mine
+
+[v2]
+Ajută-mi să-nțeleg tot Cuvântul Tău
+Te rog dă-mi curaj ca să-L spun mereu
+La cei ce n-au mântuirea
+Iar Tu să le dai fericirea!

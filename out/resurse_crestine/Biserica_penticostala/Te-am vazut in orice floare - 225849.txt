@@ -1,0 +1,29 @@
+[title]
+Te-am vazut in orice floare {author: {Biserica Penticostala}, {rcId: {225849}}
+
+[sequence]
+v1,c,v3,c,v4,c
+
+[v1]
+/: Te-am văzut în orice floare,
+În orice miros plăcut,
+Eu Îți admiram splendoarea,
+Însă nu te-am cunoscut :/
+
+[c]
+/: Azi mă-nchin în fața Ta,
+Ție îți dau inima!
+Tu Ești Domn, în veci domnești,
+Peste vreme-același Ești :/
+
+[v3]
+/: Te-am văzut în orice ploaie,
+Orice vuiet, fulger, vânt,
+Eu Îți admiram puterea,
+Însă nu Te-am cunoscut :/
+
+[v4]
+/: Te-am văzut murind pe cruce,
+Între doi tâlhari, Isus,
+Tu imi dăruiai iubirea,
+Însă nu Te-am cunoscut :/

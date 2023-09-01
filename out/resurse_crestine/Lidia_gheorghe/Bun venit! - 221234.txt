@@ -1,0 +1,32 @@
+[title]
+Bun venit {author: {Lidia Gheorghe}, {rcId: {221234}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Bun venit pe lumea asta
+Copilaș bun și frumos!
+Dumnezeu să te păzească,
+Să te țină credincios!
+/: Bun venit, bun venit!
+Ești primit și iubit!
+ /:
+
+[v2]
+Multă binecuvântare
+Îți dorim în viața ta!
+Ești o bucurie mare
+Pentru cei din casa mea!
+/: Bucurii, bucurii,
+Să ai ca și îngerii!
+ /:
+
+[v3]
+Te iubim, te-mbrățișăm
+În rugăciuni te purăm.
+Isus te va învăța
+Pașii buni pe calea Sa.
+/: Te-o-nvăța, te-o-nvăța
+Pașii buni pe calea Sa.
+ /:

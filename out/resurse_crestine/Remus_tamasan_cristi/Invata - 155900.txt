@@ -1,0 +1,51 @@
+[title]
+Invata {author: {Remus Tămășan Cristi}, {rcId: {155900}}
+
+[sequence]
+v1,c,v2,c,s,c
+
+[v1]
+Învață să fi credincios
+Învață să fi ca Hristos
+Învață să fi neclintit
+Pe calea ta pân’ la sfârșit
+Învață să fi om smerit
+Învață să fi mulțumit
+Să ai în inima ta
+Pacea Sa, pacea Sa.
+
+[c]
+Și-atunci tot Ceru-ți va surâde
+Și vei avea în casa ta
+Un colț de Rai, un colț de Rai
+Multe uși se vor deschide
+Că doar la umbra Celui Sfânt
+În orice zi, smerit tu stai.
+/: Și-atunci tot Ceru-ți va surâde
+Și vei avea în casa ta
+Un colț de Rai, un colț de Rai
+Multe uși se vor deschide
+Că doar la umbra Celui Sfânt
+În orice zi, smerit tu stai. :/
+Și-atunci tot Ceru-ți va surâde
+Și vei avea in casa ta
+Un colț de Rai, un colț de Rai
+Multe uși se vor deschide
+Că doar la umbra Celui Sfânt
+În orice zi, smerit tu stai.
+
+[v2]
+Învață mai mult să iubești
+Învață mai mult să jertfești
+Învață mai mult să ajuți
+Pe cei ce sunt pe cale căzuți
+Învață să fi răbdător
+Învață să fi vegheator
+Să luminezi mereu
+În noaptea grea din jurul tău.
+
+[s]
+Învață să fi credincios
+Învață să fi ca Hristos
+Învață să fi neclintit
+Pe calea ta pân’ la sfârșit.

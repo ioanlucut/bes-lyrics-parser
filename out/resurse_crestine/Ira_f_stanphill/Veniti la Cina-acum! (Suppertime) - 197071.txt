@@ -1,0 +1,32 @@
+[title]
+Veniti la cina-acum (suppertime) {author: {Ira F. Stanphill, Traducere RO}, {rcId: {197071}}
+
+[sequence]
+v1,c,v2,c,v3,c,s,c
+
+[v1]
+În anii de copil, trăiți acasă
+Când fără grijuri mă jucam voios
+Mereu, am auzit în prag de seară
+Chemarea mamei cu-al ei glas duios.
+
+[c]
+Veniți, veniți la Cină-acum
+Căci seara a sosit!
+Veniți, veniți la Cină-acum
+Că totu-i pregătit!
+
+[v2]
+În ziua când vegheam la patul mamei
+Când îngerii-n văzduh s-au ridicat
+O voce a chemat-o-n cerul slavei
+La Cina unde-s și eu așteptat.
+
+[v3]
+La fel, vom auzi și noi odată
+Chemarea lui Isus, Cel glorios
+Cu slava Lui, atât de minunată
+Ne-așteaptă sus, la Cină, bucuros.
+
+[s]
+Iată Eu stau la ușă și bat. Dacă aude cineva glasul Meu și deschide ușa, voi intra la el, voi cina cu el, și el cu Mine. Apoc. 3:20

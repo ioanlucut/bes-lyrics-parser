@@ -1,0 +1,29 @@
+[title]
+Cu gandul catre patria cea sfanta {author: {Stelica Strugariu}, {rcId: {197400}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cu gândul către Patria cea Sfântă,
+Cu gândul spre eternul Canaan,
+Înaintăm prin vânt și prin furtună,
+Sperând că vom ajunge la liman.
+
+[c]
+/: Uitând de lacrimi și de-orice suspine,
+O veșnicie să ne bucurăm,
+Să stăm la masa cu al nostru Mire,
+O, Paradis, cu dor te așteptăm! :/
+
+[v2]
+Cu dor arzând și cu privirea țintă,
+Spre locul care Tu l-ai pregătit,
+Spre alte zari, spre țara-aceea sfântă,
+Ne-om bucura cu cei ce-au biruit!
+
+[v3]
+Biserică ce-asculti acum mesajul,
+Din partea Celui ce a biruit,
+N-ai vrea să ai și tu atuncea Harul,
+De-a fii în Paradis de El rapit?

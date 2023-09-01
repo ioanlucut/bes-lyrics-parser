@@ -1,0 +1,25 @@
+[title]
+Un nume-mi place sa ascult {author: {Melodie Americana}, {rcId: {1660}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Un Nume-mi place să ascult, de El aș vrea să cânt,
+Ca Numele Isus Hristos nu-i altul pe pământ.
+
+[c]
+/: Îl iubesc pe Isus, Îl iubesc pe Isus,
+Îl iubesc pe Isus, că-ntâi El m-a iubit. :/
+
+[v2]
+Îmi spune Numele iubit de-un Miel dumnezeiesc
+Ce-n locul meu a fost jertfit ca-n veci eu să trăiesc.
+
+[v3]
+Îmi spune ce îmi dă Hristos în fiecare zi,
+Deși e drumu-ntunecos, cu El va străluci.
+
+[v4]
+Îmi spune că iubirea Lui m-ajută-n întristări,
+Și că puterea Domnului mă scapă de dureri.

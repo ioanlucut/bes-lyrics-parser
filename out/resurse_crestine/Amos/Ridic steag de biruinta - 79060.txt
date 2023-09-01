@@ -1,0 +1,45 @@
+[title]
+Ridic steag de biruinta {author: {amos7}, {rcId: {79060}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Ridic steag de biruință
+Și strig tare, cu credință,
+Căci Isus e Salvator,
+/: Medic și Mântuitor. :/
+El e mângâierea mea
+/: Când mi-e tristă inima. :/
+
+[c]
+Voi vesti lucrarea Ta
+Ce-ai făcut în viața mea.
+La Tine când am strigat,
+Doamne, Tu m-ai ascultat.
+Isus, esti nădejdea mea,
+Pururi Te voi lăuda,
+Voi sluji cu bucurie
+Căci Tu ești a mea tărie.
+
+[v2]
+De câte ori mi-a fost mai greu
+Am chemat Numele Tău.
+Tu îmi ești turnul de scăpare
+/: Tu mi-ai adus alinare :/
+Și valul când mă lovea
+/: Tu mi-ai întins mâna Ta. :/
+
+[v3]
+Cei ce se încred în Tine
+Nu vor fi dați de rușine.
+Sfătuiesc pe orice om
+/: Să creadă în Isus ca Domn, :/
+Să vină la pocăință
+/: Ca să aibă biruință. :/
+
+[e]
+Căci Isus e Salvator,
+Medic și Mântuitor,
+El e mângâierea mea
+Când mi-e tristă inima.

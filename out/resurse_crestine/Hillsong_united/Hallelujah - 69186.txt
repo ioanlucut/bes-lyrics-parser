@@ -1,0 +1,36 @@
+[title]
+Hallelujah {author: {Hillsong United, Traducere RO}, {rcId: {69186}}
+
+[sequence]
+v1,v2,v3,v4,c,e
+
+[v1]
+/: Salvat de mila Ta, găsit în harul Tău,
+Total predat în brațul Tău,
+Nu există nimic mai mult ca Tin’.
+
+[v2]
+Ești Domn perfect, mă pierd în pacea Ta,
+Credința Ta este în min’,
+Iar Dragostea Ta e lumină.
+
+[v3]
+Îmi ridic ochii spre Tin’,
+Creatorul lumii întregi.
+
+[v4]
+Eu stau în prezența Ta, în gloria Ta,
+Eu trăiesc ca să mă închin Fiului,
+Rege al cerului :/
+
+[c]
+Îngerii Îți strigă: ”
+Sfânt”
+În fața tronului,
+La Cel care este viu,
+Și eu cânt: ”
+Aleluia”.
+
+[e]
+”
+Aleluia, Aleluia, Aleluia.”

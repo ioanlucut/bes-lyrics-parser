@@ -1,0 +1,33 @@
+[title]
+Daca toate trec in viata {author: {Speranța}, {rcId: {6286}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Dacă toate trec în viață ca și cum n-au fost
+Atunci care-i sensul vieții și ce are rost ?
+Când bogații și săracii mor fără nimic
+Atunci pentru ce ne naștem și de ce trăim ?
+
+[c]
+/: Pentru Dumnezeu, pentru Dumnezeu
+Pentru Dumnezeu să trăim :/
+
+[v2]
+Dacă tinerețea trece cum se duce-un crin
+Pentru cine s-o trăiești, cui să o închini ?
+Dacă toată-nțelepciunea o pierzi la sfârșit
+Pentru cine se merită azi să te dedici ?
+
+[v3]
+Dacă bogăția trece și puterea ta
+Pentru cine se cuvine astăzi a lucra ?
+Când Satana vrea să vadă că te nimicești
+Pentru cine se cuvine astăzi să trăiești ?
+
+[v4]
+Dacă toate trec în viață ca și cum n-au fost
+Atunci care-i sensul vieții și ce are rost ?
+Când bogații și săracii mor fără nimic
+Atunci pentru ce ne naștem și de ce trăim ?

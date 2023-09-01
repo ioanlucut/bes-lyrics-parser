@@ -1,0 +1,41 @@
+[title]
+Ridica-ma cand sunt cazut {author: {Mădălina Iurașoc}, {rcId: {232221}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Ridică-mă când sunt căzut
+Ridică-mă când sunt pierdut
+Putere n-am și simt că pier
+Pe drumul care duce-n cer.
+
+[c]
+/: Te caut demult da nu-ndrăznesc
+La pieptul Tău să mă așez
+Povara mă apasă greu,
+Sunt răni adânci ce dor mereu. :/
+
+[v2]
+Starea mea aș vrea să o schimb
+Durerea vreau să nu-o mai simt
+Credința mea e-atât de mică
+Și sunt cuprins de-o mare frică.
+
+[c2]
+/: Unde să caut fericirea?
+Și cine mi-o mai poate da?
+Eu știu că doar sus la Golgota
+Acolo este mila Ta. :/
+
+[v3]
+Aș vrea sa-ngenunchez acum
+Sa-Ți cer Isus să mă ajuți
+Căci sunt căzut si-mpovărat
+De încercări tot apăsat.
+
+[c3]
+/: Trimite-mi Doamne ajutor
+Ca-n starea mea sa nu mai dorm
+Credință-Ți cer in casa mea
+Umple-ne Doamne de puterea Ta :/

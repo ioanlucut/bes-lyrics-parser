@@ -1,0 +1,33 @@
+[title]
+Nimic prea greu {author: {Adi Gliga}, {rcId: {113045}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Nu-i nimic prea greu
+Dacă vrei să-nțelegi
+Că Isus te iubește cum ești
+Pentru tine a murit
+Penru că te-a iubit
+Și în dar viață ți-a oferit
+
+[c]
+Vino-acum la Isus, te iubește nespus
+De păcat te-a iertat
+Când pe cruce a urcat!
+Strigă Numele Lui!
+Ca El nimenea nu-i!
+Dacă ceri îndurare, primești.
+
+[v2]
+Viața ta din trecut,
+Timpul ce l-ai pierdut
+Se vor șterge de vrei să-L primeș
+Vei începe-un nou drum
+Vei gusta ce e mai bun
+Zi de zi cu Isus vei trăi.
+
+[e]
+Vino acum;
+Vino la El.

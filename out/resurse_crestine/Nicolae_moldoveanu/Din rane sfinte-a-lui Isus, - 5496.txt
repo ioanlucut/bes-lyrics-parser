@@ -1,0 +1,60 @@
+[title]
+Din rane sfinte-a-lui isus {author: {Nicolae Moldoveanu}, {rcId: {5496}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,v5,c5
+
+[v1]
+Din rane sfinte-a-lui Isus,
+Izvor de sange-a curs
+Si cine se scufunda-n El
+Deplin s-a curatit.
+
+[c]
+Deplin s-a curatit,
+Si cine se scufunda-n El,
+Deplin s-a curatit.
+
+[v2]
+Talharul pe cruce murind
+Prin El s-a mantuit;
+Si-acum cei pacatosi la fel
+Deplin s-or curati.
+
+[c2]
+Deplin s-or curati,
+S-acum cei pacatosi, la fel
+Deplin s-or curati.
+
+[v3]
+De cand si eu m-am increzut
+In harul Lui cel sfant,
+Ma duc mereu la Golgota,
+Pe Domnul laudand.
+
+[c3]
+Pe Domnul laudand,
+Ma duc mereu la Golgota:
+Pe Domnul laudand.
+
+[v4]
+Al Tau sfant sange, Mielule,
+Nicicand nu va scadea
+Pana cand cei ce-s mantuiti
+In cer Te vor vedea.
+
+[c4]
+In cer Te vor vedea,
+Pana cand cei ce-s mantuiti
+In cer Te vor vedea.
+
+[v5]
+Un cantec nou Iti voi canta,
+Cand colo voi sosi,
+Cand trupul meu cel ostenit
+Eu il voi parasi.
+
+[c5]
+Eu il voi parasi,
+Cand trupul meu cel ostenit
+Eu il voi parasi.

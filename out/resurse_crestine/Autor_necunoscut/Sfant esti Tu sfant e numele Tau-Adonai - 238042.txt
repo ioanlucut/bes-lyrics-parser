@@ -1,0 +1,38 @@
+[title]
+Sfant esti tu sfant e numele tau/adonai {author: {Anonim}, {rcId: {238042}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Sfânt ești Tu, sfânt e Numele Tău,
+Sfânt ești Tu, sfânt e Numele Tău,
+Și-L înalț ca o stea,
+Peste viața mea.
+
+[c]
+Aleluia, Aleluia, Aleluia
+
+[v2]
+Adonai este Numele Tău,
+Adonai este Numele Tău,
+Și-L înalț ca o stea,
+Peste viața mea.
+
+[v3]
+Iehova Iire este Numele Tău,
+Iehova Iire este Numele Tău,
+Și-L înalț ca o stea,
+Peste viața mea.
+
+[v4]
+Iehova Rafa este Numele Tău,
+Iehova Rafa este Numele Tău,
+Și-L înalț ca o stea,
+Peste viața mea.
+
+[v5]
+Emanuel este Numele Tau
+Emanuel este Numele Tau
+Și-L înalț ca o stea,
+Peste viața mea.

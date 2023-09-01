@@ -1,0 +1,53 @@
+[title]
+Ce mult face-o zi {author: {Otniel Stirb}, {rcId: {127419}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+/: Ce mult face-o zi
+În curțile Tale Doamne
+Ce mult face-o zi
+În Templul Tău cel Sfânt :/
+
+[c]
+/: Decât o mie în altă parte
+Decât o mie în altă parte
+Mai bine-i Doamne-n casa Ta
+Mai bine-i Doamne-n casa Ta :/
+
+[v2]
+/: Aș vrea să locuiesc
+În pragul casei Tale
+Aș vrea să stau mereu
+In cortul Tău cel Sfânt :/
+
+[c2]
+/: Că lângă Tine-i atât de bine
+Că lângă Tine-i atât de bine
+Ca nicăieri pe-acest pământ
+Ca nicăieri pe-acest pământ :/
+
+[v3]
+/: Eu nu găsesc un loc
+Nici unde mai ferice
+Decât în casa Ta
+Cu frații mei mereu :/
+
+[c3]
+/: Că unde frații, sunt împreună
+Că unde frații, sunt împreună
+Acolo vine Dumnezeu!
+Acolo vine Dumnezeu! :/
+
+[v4]
+Mai mult face-o zi
+În curțile Tale Doamne
+Mai mult face-o zi
+În Templul Tău cel Sfânt
+
+[c4]
+/: Decât o mie în altă parte
+Decât o mie în altă parte
+Mai bine-i Doamne în casa Ta
+Mai bine-i Doamne în casa Ta :/

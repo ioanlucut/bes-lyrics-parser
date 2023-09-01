@@ -1,0 +1,35 @@
+[title]
+Doamne tu esti stanca mea {author: {Anonim}, {rcId: {151234}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Doamne Tu ești stânca mea
+Tu ești cetățuia mea
+
+[c]
+/: Tu îmi ești a mea scăpare
+Când sunt în încercare
+Mă ajuți în vreme grea
+Doamne Tu ești stânca mea :/
+
+[v2]
+Tu ești fericirea mea
+Tu ești bucuria mea
+
+[c2]
+/: Să rămân tot mereu
+Doar cu Tine Dumnezeu
+Totdeauna voi cânta
+Tu ești fericirea mea :/
+
+[v3]
+Doamne Tu m-ai mântiut
+Doamne Tu m-ai izbăvit
+
+[c3]
+/: De cumplitul meu păcat
+Tu pe mine m-ai salvat
+Prin Isus cel răstignit
+Doamne Tu m-ai mântuit. :/

@@ -1,0 +1,33 @@
+[title]
+Numele tau isus e o splendoare {author: {Beni Cibu}, {rcId: {191785}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Numele Tău, Isus, e o splendoare,
+Numele Tău, Isus, e cel mai mare!
+/: Nume dorit, Nume slăvit,
+De inima mea Tu ești iubit,
+Nume măreț ce merită onoare! :/
+
+[v2]
+Numele Tău, Isus, e o minune,
+Numele Tău, Isus, e-nțelepciune!
+/: Nume ’nălțat, Nume-adorat,
+De Universul întreg adorat,
+În cer și jos Ți se aduce cinste! :/
+
+[v3]
+Numele Tău, Isus, în veci n-apune
+Numele Tău, Isus, nu va apune!
+/: Nume etern, Nume suprem,
+Mirele sfânt la nunta din cer
+Iar noi, Mireasă sfântă pentru Mire. :/
+
+[v4]
+Numele Tău, Isus, este viață,
+Numele Tău, Isus, este speranță!
+/: Nume preasfânt, Nume ne-nfrânt,
+Drapel sublim ce stă fluturând
+De veacuri într-o inimă curată. :/

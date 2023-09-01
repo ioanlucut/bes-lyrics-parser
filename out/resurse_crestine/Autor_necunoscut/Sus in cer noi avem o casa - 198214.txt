@@ -1,0 +1,35 @@
+[title]
+Sus in cer noi avem o casa {author: {Necunoscut}, {rcId: {198214}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Sus, in cer, noi avem o casa,
+Casa Tatalui cel Ceresc
+Ea e plina de mare slava
+Si de nespuse fericiri.
+
+[c]
+Spre cer, spre cer
+Mergem spre cer, mergem
+In cer, in cer
+Ni-i mostenirea cea de veci.
+
+[v2]
+Acolo nu domneste nimic
+Din ce este pacat aici;
+Acolo dragostea domneste
+Si de fata este Isus.
+
+[v3]
+Pe pamant obositi cand suntem
+De valtoarea luptelor mari,
+Ne-ntarim cand gandim la casa,
+La casa Tatalui Ceresc
+
+[v4]
+Fie zile de intristare,
+Fie zile de bucurii,
+Ele sa ne indrepte-ntruna
+Spre casa noastra cea din cer.

@@ -1,0 +1,35 @@
+[title]
+Vreau s-ajung la tine doamne (iarta-mi vina mea) {author: {Ovidiu Liteanu}, {rcId: {187410}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Vreau s-ajung la Tine Doamne
+Vreau să fiu în cerul Tău
+Grea și multă mi-e povara
+O, mă iartă Domnul meu
+
+[c]
+/: Iartă-mi vina mea
+Spală-mi azi păcatul meu
+Mântuiește-mă Isuse
+Ca să fiu în Raiul Tău :/
+
+[v2]
+Vreau să scap de amăgire
+Vreau să ies din lumea rea
+Leagă-mi inima de Tine
+Să fiu în prezența Ta
+
+[v3]
+Duhul Sfânt Isuse Doamne
+Să coboare-n viața mea
+Și să umple vasul care
+De păcat murdar era
+
+[v4]
+Rupe-mi lanțurile grele
+Care m-au ținut legat
+Și mă scoate la lumină
+Vreau să fiu un mântuit

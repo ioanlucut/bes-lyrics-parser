@@ -1,0 +1,39 @@
+[title]
+Lacrimi (in fata ta isuse) {author: {Ovidiu Liteanu}, {rcId: {187402}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+În fața ta Isuse
+Vin cu-a mea durere
+N-am pe nimeni Doamne
+Să-mi dea mângâiere
+
+[c]
+Lacrimile curg întruna
+Mi-e durerea mare
+Eu mă rog și am credință
+Că-mi dai vindecare
+Doctorii mi-au spus Isuse
+Că mă țin degeaba
+Și m-au dat să mor acasă
+Mă usuc că iarba
+
+[v2]
+Mă atinge Doamne
+Cu-a Ta Mână Sfântă
+Un cuvânt îmi spune
+Boala să se ducă
+
+[v3]
+A Ta vorbă Doamne
+Din pat mă ridică
+Îmi dă multă pace
+Să n-am nici o frică
+
+[v4]
+Numai Tu Isuse
+Mă ierți de păcate
+Îmi dai Mântuire
+Și mă scapi de moarte

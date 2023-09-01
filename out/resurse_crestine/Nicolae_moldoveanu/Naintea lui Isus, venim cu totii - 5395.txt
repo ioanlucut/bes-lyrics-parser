@@ -1,0 +1,46 @@
+[title]
+Naintea lui isus venim cu totii {author: {Nicolae Moldoveanu}, {rcId: {5395}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+’
+Naintea lui Isus, venim cu totii
+S-aducem jertfa de un bun miros;
+’
+Naintea Lui, asa cum El ne spune,
+Venim ca sa-I slujim azi lui Hristos.
+
+[c]
+/: Dar inimile noastre sa ne fie
+Curate, sa-I cantam: „
+Aleluia!”
+Celui ce, prin iubirea Lui cea mare,
+In viata noastra, ne va ajuta. :/
+
+[v2]
+Deci, suflete, ce-n fata Lui acuma
+Cu inima-mpartita de mai stai,
+Alunga orice gand, orice durere!
+Fii drept, de vrei s-ajungi la El in rai.
+
+[c2]
+/: Caci numai cei ce-n inimi au iubirea
+Lui Isus vor canta: „
+Aleluia!”
+Atunci cand va veni pe nori cu slava
+Ca sa-i stramute in patria Sa. :/
+
+[v3]
+Fii pregatit cu viata-n orice clipa
+Si proslaveste-L pe Domnul Isus!
+Nu face din Cuvantul Lui risipa!
+Iubeste-L, caci El te-a iubit nespus.
+
+[c3]
+/: Apoi, in suflet, El iti va da pace
+Si dragoste frateasca iti va da,
+Dar trebuie ca inima curata
+Sa-ti fie, ca sa-I canti: „
+Aleluia” - :/

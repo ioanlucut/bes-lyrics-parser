@@ -1,0 +1,29 @@
+[title]
+Dor de cer {author: {Daniel Cristian}, {rcId: {115262}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+/: Un dor de cer m-a cuprins
+Un dor de Tine scump Isus
+Un dor de necuprins
+În inimă îl simt :/
+
+[v2]
+/: Un dor de cer m-a cuprins
+Un dor de Tronul Sfânt
+Un dor de Regele regilor
+De Domnul domnilor :/
+
+[v3]
+/: Un dor de cer m-a cuprins
+Un dor ce-mi pare doar un vis
+Un dor de neînchipuit
+În inimă aprins :/
+
+[v4]
+/: Un dor de cer m-a cuprins
+După care noi toți tânjim
+Să ajungem în cerul sfânt
+Lângă Tatăl Divin :/

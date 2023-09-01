@@ -1,0 +1,23 @@
+[title]
+Psalmul {author: {Corneliu Matei}, {rcId: {246101}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Vreau să-mi găsesc desfătarea mea
+Numai în Cuvântul Sfânt
+Și cugetând doar la legea Ta
+Să trăiesc pe-acest pământ.
+
+[c]
+Vreau să merg pe calea celui neprihănit
+Tot ce încep să duc la bun sfârșit
+Știu că Tu îmi vei da binecuvântarea Ta
+Dacă-n fiecare zi Te voi urma.
+
+[v2]
+Aș vrea să fiu ca un pom sădit
+Lângă un izvor curat
+Care-și rodul la vremea lui
+Și să fiu îmbelșugat.

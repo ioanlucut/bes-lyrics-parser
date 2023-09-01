@@ -1,0 +1,41 @@
+[title]
+Vie sfanta {author: {Speranța}, {rcId: {101895}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Tu, vie, adusă din Egipt
+Din negura păgână
+Ai fost sădită în Locul Sfânt
+S-aduci o roadă sfântă.
+
+[c]
+Vie sfântă, vie sfântă
+Stăpânul tău nu-i omul,
+Ci este Domnul Dumnezeu
+Răscumpărătorul!
+
+[v2]
+Minuni și semne s-au făcut
+Când Împăratul lumii
+S-a-mpotrivit să nu fii tu
+Sădită-n Țara Pâinii.
+
+[v3]
+Chiar dacă drumul a fost pustiu
+Tu ai avut de toate
+Și călăuză pentru drum
+Avut-ai zi și noapte.
+
+[v4]
+Și-acum, aicea, în Țara ta
+Ai fost mereu udată
+Și-ngrăditură ți s-a dat
+Să nu fii ruinată!
+
+[v5]
+Dar cum se face că acum
+Sunt fiare din pădure
+Care îți strică tot ce-i bun
+Și-n tine intră lume?

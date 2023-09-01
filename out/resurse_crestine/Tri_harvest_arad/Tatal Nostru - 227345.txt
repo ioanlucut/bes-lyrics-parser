@@ -1,0 +1,32 @@
+[title]
+Tatal nostru {author: {TR3i, Harvest Arad}, {rcId: {227345}}
+
+[sequence]
+v1,b,c,v2,b,c,e,c
+
+[v1]
+Tată Sfânt, Tatăl nostru care ești sus în cer
+Preamărit, Cel mai mare, singurul Dumnezeu!
+Tată bun, Pâinea Vieții dă-ne-o azi, Te rugăm
+Și iertați, prin iubire să iertăm cum dorești!
+
+[b]
+Vrednic ești în veci,
+Tu ești Alfa și Omega!
+
+[c]
+/: Doamne voia Ta să se facă-n viața mea!
+Vie-mpărăția Ta,
+Precum în cer și-n viața mea! :/
+
+[v2]
+Tată Sfânt, Domn puternic, izbăvire Tu ești
+Împărat, Rege vrednic, Domn suprem, fii-nălțat!
+Tată bun, dragostea Ți-ai revărsat peste noi
+Prin Isus tot păcatul a fost șters și uitat!
+
+[e]
+/: Ne smerim, Te iubim
+Voia Ta o primim.
+Ne rugăm, Te chemăm,
+Plini de credință cântăm! :/

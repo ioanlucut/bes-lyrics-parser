@@ -1,0 +1,56 @@
+[title]
+S-a dus doamne bucuria {author: {Nicolae Moldoveanu}, {rcId: {5925}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+„
+S-a dus, Doamne, bucuria
+Din inimile noastre.”
+Așa spune Ieremia,
+În Cartea Plângerilor.
+„
+Și jalea a luat locul
+Jocurilor din popor,
+Căci vedem cum s-a stins focul
+Scumpului Mântuitor.”
+
+[c]
+O, bucurie, bucurie,
+Unde ești? Unde te-ai ascuns?
+Vin’ la noi, încă o dată,
+Bogăție de nespus!
+
+[v2]
+„
+A căzut, Doamne, cununa
+De pe capul nostru-acum
+Și cu toți gemem întruna,
+Când călătorim pe drum.
+Inima mereu ne doare,
+Ochii s-au întunecat
+Și-așteptăm, iubite Soare,
+Să răsari încă o dat’.”
+
+[v3]
+„
+Doamne, uită-Te cu milă
+Spre Sionul pustiit!
+Căci mereu în el se plimbă
+Toți șacalii profețiți.
+Scaunul Tău de domnie
+Dăinui-va-n veșnicii,
+În a Ta Împărăție,
+Unde-s numai bucurii.”
+
+[v4]
+„
+Pentru ce ne uiți, o, Doamne
+Și ne-ai părăsit de tot?
+Întoarce-ne iar la Tine!
+Dă-ne zile ca-n trecut!
+Ne-ai lepădat de tot, Doamne,
+Și-așa rău Te-ai mâniat,
+Azi, când inima ne doare,
+Și-avem duhul întristat!...”

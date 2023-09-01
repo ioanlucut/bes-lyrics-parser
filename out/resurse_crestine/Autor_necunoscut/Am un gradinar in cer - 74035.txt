@@ -1,0 +1,27 @@
+[title]
+Am un gradinar in cer {author: {Anonim}, {rcId: {74035}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Am un grădinar în cer
+ /: ce mă udă să nu pier :/
+A venit, m-a curățit
+ /: viața El mi-a dăruit :/
+
+[c]
+/: Tu ești grădinar, iar noi suntem flori,
+Tu ne-ai dat viață și apă din nori. :/
+
+[v2]
+Ne-ai dat viață și lumină
+ /: și sufletului odihnă :/
+Tu pe cruce ai răbdat
+ /: viața ne-ai înviorat :/
+
+[v3]
+Că Tu, Doamne, ne-ai iertat
+ /: și cu lacrimi ne-ai spălat :/
+Ți-ai dat viața, ai suferit
+ /: c-ai fost grădinar iubit :/

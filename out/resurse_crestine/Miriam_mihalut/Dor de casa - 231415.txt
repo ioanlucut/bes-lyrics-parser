@@ -1,0 +1,35 @@
+[title]
+Dor de casa {author: {Miriam Mihalut}, {rcId: {231415}}
+
+[sequence]
+v1,v0,v2,v3,v4,v5
+
+[v1]
+Biruitor mă-ndrept spre țintă
+Chiar dacă ades mă simt înfrânt
+Mi-e dor de ziua aceea sfântă
+Când voi lăsa acest pământ
+
+[v2]
+Încrezător privesc spre casă
+Și-L văd pe Tatăl așteptând
+Căci au trecut în grabă anii
+Si-a stat în prag tot așteptând
+
+[v3]
+Nu voi privi nicicând în spate
+Căci nu mai vreau să rătăcesc
+Puțin mai este și e noapte
+Dar vreau cu El să poposesc
+
+[v4]
+Am ascultat străine șoapte
+Și m-au făcut să rătăcesc
+Dar în a nopții grele șoapte
+Mi-a spus cu drag Eu te iubesc
+
+[v5]
+Cu drag privesc către acasă
+Mi-e dor de clipa ce-o veni
+Căci mult nu este și la masă
+Cu Tatăl meu mă voi veseli.

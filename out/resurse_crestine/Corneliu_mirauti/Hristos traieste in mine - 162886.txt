@@ -1,0 +1,35 @@
+[title]
+Hristos traieste in mine {author: {Corneliu Mirăuți}, {rcId: {162886}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cândva departe de Dumnezeu
+În moarte și-n păcat
+Fără lumină în inimă
+Eu nu-L puteam vedea.
+
+[c]
+Hristos trăiește în mine
+Hristos trăiește în mine
+O, ce salvare e!
+Că El Trăiește în mine.
+
+[v2]
+Dar în Cuvântul lui Dumnezeu
+Lumină am găsit
+Acum Hristos trăiește-n mine
+Și sunt fericit.
+
+[v3]
+Cum razele din soare ies
+Și flori din pământ cresc,
+Așa viața și dragostea
+Ies din Hristos din mine.
+
+[v4]
+Cu dor mi-e plină inima
+Să-L las pe El în ea,
+Ca să conducă ființa mea
+Prin toată puterea Sa.

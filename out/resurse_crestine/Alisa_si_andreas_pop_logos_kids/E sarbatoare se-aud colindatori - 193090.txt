@@ -1,0 +1,39 @@
+[title]
+E sarbatoare se-aud colindatori {author: {Alisa si Andreas Pop, Logos Kids}, {rcId: {193090}}
+
+[sequence]
+c,s,s2,c2,c3
+
+[c]
+E sărbătoare se-aud colindatori
+Glas de copii lauda pe Mantuitor
+Isus Mesia la noi s-a coborat
+Sa cantam sa-L laudam pe Isus
+
+[s]
+Am citit in Scripturi
+Ca Mesia-a venit
+Sa ne-mpace cu Tatal din ceruri
+Voia Lui s-amplinit
+Prin Isus s-a dovedit
+Sa-L sarbatorim pe Regele Isus nascut
+
+[s2]
+Veniti cu toti sa cantam
+Veniti cu toti sa-L laudam
+Imparatul e Regele Isus
+Din fecioara venit
+Prin Duh Sfant prevestit
+Fiul lui Dumnezeu Isus Hristos s-a nascut
+
+[c2]
+Veniti sa cantam
+Veniti sa-L laudam
+Sa ne inchinam
+Lui Isus Mesia / Hristos
+
+[c3]
+Veniti sa cantam
+Veniti sa-L laudam
+Sa ne inchinam
+Lui Isus Mesia / Hristos toti in cor.

@@ -1,0 +1,23 @@
+[title]
+Prin jertfire-asupra mortii-a triumfat (invierea si viata) {author: {Grup Triumf}, {rcId: {247934}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Prin jertire-asupra morții-a triumfat
+Când pe cruce vina noastră a purtat,
+/: Cel ce crede c-a murit și-a înviat
+Prin Isus, e cu Tatăl împăcat. :/
+
+[c]
+/: Învierea și viața e Isus,
+Pace sfântă, bucurie ne-a adus
+O speranță-n viața veșnică de sus,
+Pentru oameni se deschide prin Isus. :/
+
+[v2]
+Ce-ai crezut tu, mare preot și Pilat,
+Creatorul în mormânt că-l ții-ngropat?
+/: Ați pus strajă la mormântul sigilat
+Dar Isus dintre morți a înviat. :/

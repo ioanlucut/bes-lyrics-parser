@@ -1,0 +1,32 @@
+[title]
+De partea mea {author: {Muzica: Alin Timofte   Versuri: Alin Craciunean}, {rcId: {211435}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Să aud vocea Ta când în jurul meu,
+Se adună furtuna-ndoielii mereu!
+Să nu uit că în Tine am totul deplin,
+Și-n suflet naști un cer senin!
+
+[c]
+Dacă n-ai fi de partea mea,
+Ca să fii Tu puterea mea,
+Nimic n-aș zidi, nimic nu aș fi
+N-ar fi soare în viața mea, în viața mea!
+Dacă n-ai fi de partea mea,
+Ca să fii Tu puterea mea,
+Nimic n-aș zidi, nimic nu aș fi
+Fără harul Tău!
+
+[v2]
+Vreau să fiu brațul Tău ce ridică spre Cer,
+Pe acei ce-n durere salvarea o cer!
+Să cunosc ochii ce în milă privesc,
+Prin tot ce sunt să Te oglindesc!
+
+[e]
+Dar când Ești Tu orizontul meu,
+Nimic nu e prea greu,
+Visez la cerul Tău!

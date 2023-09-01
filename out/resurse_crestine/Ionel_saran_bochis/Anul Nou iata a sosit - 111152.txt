@@ -1,0 +1,31 @@
+[title]
+Anul nou iata a sosit {author: {Ionel Saran Bochis}, {rcId: {111152}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Anul Nou iată a sosit,
+Eu vă zic la toții bun venit,
+Deci cu toti vrem să Îi cântăm
+Și pe Tatăl Sfânt să-L lăudăm.
+
+[c]
+/: Lui Isus să-I dăm mărire,
+Să-I cântăm cu mulțumire,
+Căci ne-a dat a Lui iubire,
+Lui Isus să-I dăm mărire
+Pentru sfînta mântuire,
+Pentru întâlnirea-n glorie :/
+
+[v2]
+Anii au trecut și trec mereu
+Și viața noastră ca și ei,
+Prin furtună și prin valul greu,
+Ne-a vegheat din ceruri Dumnezeu.
+
+[v3]
+Haideți, fraților, uniți acum,
+S-alergăm smeriți pe sfântul drum,
+Untdelemn în candelă să avem
+Și în pocăință să veghem!

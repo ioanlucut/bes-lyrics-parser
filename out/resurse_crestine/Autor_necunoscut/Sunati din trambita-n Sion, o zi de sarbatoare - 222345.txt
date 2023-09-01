@@ -1,0 +1,29 @@
+[title]
+Sunati din trambita-n sion o zi de sarbatoare {author: {Anonim}, {rcId: {222345}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Sunați din trâmbiță-n Sion
+O zi de sărbătoare:
+[: O zi când moartea n-o mai fi,
+Când soare nou va apare: ]
+
+[v2]
+Sunați din trâmbiță’n Sion:
+Un an de îndurare
+[: Când tot pământul va’nflori
+În strai de sărbătoare: ]
+
+[v3]
+Sunați din trâmbiță’n Sion:
+Cristos Isus apare
+[: Înconjurat de străluciri
+Și primăveri în floare: ]
+
+[v4]
+Sunați din trâmbiță’n Sion
+E ziua Lui cea mare
+[: Nădejdea noastră, în sfârșit
+Isus pe nori v-apare: ]

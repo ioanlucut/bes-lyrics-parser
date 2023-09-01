@@ -1,0 +1,48 @@
+[title]
+Pe marea vietii tale {author: {Daniel Briciu}, {rcId: {240362}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Pe marea vieții tale, cutreierând mereu,
+Te-ntrebi de mai există în cer un Dumnezeu.
+Căci valuri mari te-ncearcă și vânturi grele bat,
+Furtuna te-amenință ne-ncetat.
+
+[c]
+/: Dar nu uita că-n ceruri stă un Ocrotitor,
+E Unul care vede și-ți vine-n ajutor.
+Invită-L azi în barcă și lasă-te condus
+De Cel ce totul poate,
+ /: de Isus :
+/:/
+
+[v2]
+Când valuri mari și grele loveau în barca mea
+Mi-am înălțat privirea spre dealul Golgota
+Și printre lacrimi grele atâta doar I-am spus:
+„
+Condu și a mea barcă, scump Isus”.
+
+[c2]
+/: Eu și azi trec prin valuri ce strigă ne-ncetat,
+Dar nu-mi mai este frică de vânturi care bat,
+Căci azi la cârma vieții Isus, cu braț de fier,
+Conduce a mea barcă
+ /: înspre cer :/
+. /.
+
+[v3]
+Și viața ta e-o barcă pe-al vieții vast ocean,
+Și inima ta are nevoie de-un liman.
+De ți-ai pierdut busola și n-o mai poți afla,
+Privirea ta să fie-n Golgota.
+
+[c3]
+/: Invită-L azi pe Isus să vină-n barca ta
+Și El o va conduce chiar de-i furtuna grea.
+Încrede-te în Isus și vei fi fericit
+Și viață îți va da
+ /: pân’ la sfârșit :
+/:/

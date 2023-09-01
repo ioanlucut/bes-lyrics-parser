@@ -1,0 +1,27 @@
+[title]
+Linistit {author: {Adi Gliga}, {rcId: {165149}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Stau liniștit căci știu Tu mă faci să fiu
+În ceasul cel mai greu la fel.
+Te privesc și nu mă tem, în Tine mă încred
+Nu mi-e frică de nimic!
+
+[c]
+Tu ești Cel ce mă păzești,
+Doamne știu că Tu veghezi,
+Lângă Tine eu rămân, rămân.
+
+[v2]
+Toate-n jurul meu se duc și zilele-au plecat,
+Perii albi mi-au apărut
+Dar Tu nu Te-ai schimbat.
+Zilnic simt că sunt iubit, mereu mă copleșești,
+Nu mi-e frică de nimic!
+
+[e]
+Văd, nu Te schimbi deloc,
+Cu Tine eu rămân, rămân!

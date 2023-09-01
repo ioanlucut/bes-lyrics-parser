@@ -1,0 +1,36 @@
+[title]
+Ce-as fi fost fara tine {author: {Dorel Breabăn}, {rcId: {223328}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+De n-ai fi de partea mea
+Aș fi fost pierdut și-nfrânt
+Dar cu Tine, Doamne, eu
+Am făcut un legământ
+Și prin Tine sunt ce sunt!
+
+[c]
+/: Ce-aș fi fost fără Tine?
+Nici nu pot să mă gândesc
+Dar Tu ești lângă mine,
+Doamne Te slăvesc!
+Ce-aș fi fost fără Tine?
+Nici nu vreau să mă gândesc.
+Dar Tu ești lângă mine
+Și acum Îți mulțumesc! :/
+
+[v2]
+Am văzut iubirea Ta
+Brațul Tău m-a întărit
+Când în încercarea grea
+Ai venit, m-ai izbăvit
+Valul greu l-ai risipit.
+
+[v3]
+Câte zile voi trăi
+Îți voi rămânea dator
+Doamne pentru a-Ți mulțumi
+Mi-ai fost prieten și-ajutor
+Tu îmi ești Mântuitor!

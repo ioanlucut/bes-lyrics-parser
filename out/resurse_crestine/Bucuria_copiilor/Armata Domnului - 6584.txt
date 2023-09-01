@@ -1,0 +1,46 @@
+[title]
+Armata domnului {author: {Bucuria copiilor}, {rcId: {6584}}
+
+[sequence]
+v1,s,v2,c,v3,c
+
+[v1]
+Sunt prea mic
+Să fiu între luptători
+Sau printre trăgători
+Sau între-alergători
+Sunt prea mic
+Să port arcul Domnului
+Dar sunt în armata Lui.
+
+[s]
+Armata Domnului cântă :
+
+[v2]
+Sunt prea mic
+Să fiu între luptători
+Sau printre trăgători
+Sau între-alergători
+Sunt prea mic
+Să port arcul Domnului
+Dar sunt în armata Lui.
+
+[c]
+Sunt în armata Lui,
+Armata Domnului.
+Sunt prea mic
+Să fiu între luptători
+Sau printre trăgători
+Sau între-alergători
+Sunt prea mic
+Să port arcul Domnului
+Dar sunt în armata Lui.
+
+[v3]
+Nu-s prea mic
+Să ÎL laud ne-ncetat
+Pe Cel ce m-a creat
+Singurul Împărat
+Nu-s prea mic s-aduc
+Slavă Domnului
+Căci sunt în armata Lui.

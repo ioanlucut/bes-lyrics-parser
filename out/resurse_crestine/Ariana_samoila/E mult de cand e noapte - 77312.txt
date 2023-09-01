@@ -1,0 +1,37 @@
+[title]
+E mult de cand e noapte {author: {Ariana Samoila}, {rcId: {77312}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+E mult de când e noapte și lumea-i bântuită
+De mii de duhuri rele cu ucigaș tumult,
+Mi-e dor de dimineață, de-odihnă fericită
+- Străjerule, străjere, mai e din noapte mult?
+Plâng inimi sfâșiate de-o lungă depărtare,
+Le ard atâtea rane și-au suferit atât,
+Și-așteaptă obosite un ceas de ușurare
+- Străjerule, străjere, o cât mai este, cât?
+
+[c]
+Atât de grea mi-e starea cum n-a fost niciodată,
+Vin valuri tot mai grele cum n-am mai întâlnit,
+Simțim c-a noastre inimi curând n-au să mai poată,
+- O sună răsăritul, strajerule iubit!
+
+[v2]
+Atâți din cei ce-așteaptă sunt doborâți de jale
+Gemând sub greutatea ce inima le-a smuls
+Și-așteaptă izbăvirea înștiințării tale
+- Strajerule, străjere, mai este oare mult?
+E-atât de grea vegherea când noaptea se lungește,
+Când zarea e pustie și sufletul e jar,
+Când nu mai e putere, iar greul tot mai crește
+- Străjerule, străjere, o, zorii nu răsar?
+
+[c2]
+Străjer iubit, vestește sfârșitul suferinței
+Să cadă stăvilarul de piatră și de fier
+Să-nceapă Sărbătoarea dorit-a Biruinței,
+Și Nunta fericită a Mirelui din Cer.

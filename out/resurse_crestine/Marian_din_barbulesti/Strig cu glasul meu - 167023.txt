@@ -1,0 +1,24 @@
+[title]
+Strig cu glasul meu {author: {Marian din Barbulesti}, {rcId: {167023}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Strig cu glasul meu către Dumnezeul meu
+Și El îmi vine în ajutorul meu!
+El și-a întins mâna de sus,
+M-a apucat și El mi-a spus:
+Te voi izbăvi copilul meu!
+
+[c]
+/: Eu nu am să te las, nu te voi părăsi!
+Cu tine sunt mereu, în ceasul cel mai greu!
+Căci te-am răscumpărat din lumea de păcat
+Acum ești al meu și ești păzit mereu! :/
+
+[v2]
+Chiar și zece mii împotrivă de-ar veni,
+Mâna Mea te va păzi!
+Te voi ocroti în orice clipă, în orice zi,
+De te-ncrezi în Min’ vei birui!

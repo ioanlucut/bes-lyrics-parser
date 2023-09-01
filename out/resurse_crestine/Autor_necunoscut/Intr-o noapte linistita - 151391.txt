@@ -1,0 +1,57 @@
+[title]
+Intr-o noapte linistita {author: {Anonim}, {rcId: {151391}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Într-o noapte liniștită
+În orașul Betleem
+Jos în ieslea cea umilă
+S-a născut Emanuel.
+
+[c]
+Îngeri cântă Osanale!
+Pace-n cer și pe pământ,
+Căci din slăvile divine
+Mesia s-a coborât.
+
+[v2]
+Îngerul le duce vestea
+Mai întâi păstorilor.
+Ce stăteau în miez de noapte,
+Păstorindu-și turma lor.
+
+[c2]
+Nu vă temeți!, nu vă temeți!
+Vestea bună eu v-aduc!,
+În Betleemul din Iudeea
+Mântuirea s-a născut.
+
+[v3]
+Iar pe cer o stea apare
+Strălucind mai luminos.
+Trei magi de la răsărit vin
+Ca să-L vadă pe Hristos.
+
+[c3]
+Aur smirnă și tămâie
+Pruncului ei au adus.
+Lui se-nchină cu iubire
+Preamărind pe cel de sus.
+
+[v4]
+Haideți toți cu bucurie
+Pruncului să ne-nchinăm.
+Lui să-i dăm inima toată,
+Viața-ntreagă să-i predăm.
+
+[c4]
+Haide-ți să-I cântăm Mărire!
+Tatălui din cerul sfânt,
+Pentru marea Lui iubire
+Ce-a trimis-o pe pământ.
+Să răsune azi cântarea,
+Peste munți și peste văi.
+Căci ni s-a născut salvarea
+Isus Hristos Emanuel.

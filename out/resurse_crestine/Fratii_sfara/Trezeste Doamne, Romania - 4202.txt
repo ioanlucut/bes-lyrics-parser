@@ -1,0 +1,69 @@
+[title]
+Trezeste doamne romania {author: {Fratii Sfara}, {rcId: {4202}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,v5,c5,v5,c5
+
+[v1]
+Trezește, Doamne, România
+Să se întoarcă din păcat.
+/: Fă să cunoască azi mulțimea
+Că Tu ești viu cu-adevărat. :/
+
+[c]
+Pentru poporul Tău, o, Doamne,
+Revarsă pace peste noi,
+Păzește, Doamne, România,
+Păzește-o Doamne de război.
+
+[v2]
+Voi care azi mai stați de veghe,
+Să nu.ncetați să vă rugați.
+/: Strigați în lung și-n latul țării
+Vă-ntoarceți oameni din păcat. :/
+
+[c2]
+Păzește, Doamne, România,
+Oprește valul de păcat;
+Fă să triumfe-n veci credința
+Și adevărul Tău curat.
+
+[v3]
+Trezește, Doamne, fii și fice
+Ce fără veste au căzut,
+/: Atrași în mreaja făr’de legii
+Pe Dumnezeu l-au părăsit. :/
+
+[c3]
+Oprește, Te rugăm, minciuna,
+Și învoirea la păcat;
+Trezește, Doamne, România,
+Trezește-o, Tu cu-adevărat.
+
+[v4]
+Trezește, Doamne, toată țara
+Trezește-ți azi poporul Tău,
+/: Ca să ridici altare sfinte
+În care Tu să Te cobori. :/
+
+[c4]
+O vino, Doamne, vino astăzi,
+Tu să îmbraci orice altar;
+Dă binecuvântare-acelor
+Ce-n rugăciuni Te-așteaptă iar.
+
+[v5]
+Arată-ți, Doamne, azi puterea
+Zdrobește planul celui rău;
+/: Fă să se știe-n toată lumea
+Că-n cer există un Dumnezeu :/
+Arată-ți, Doamne, azi puterea
+Zdrobește planul celui rău;
+/: Fă să se știe-n toată lumea
+Că-n cer există un Dumnezeu :/
+
+[c5]
+Trezește astăzi orice suflet
+Trezește-ți azi poporul Tău
+Ca să ridici altare sfinte
+În care Tu să Te cobori.

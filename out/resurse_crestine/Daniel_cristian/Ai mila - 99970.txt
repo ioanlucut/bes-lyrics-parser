@@ -1,0 +1,28 @@
+[title]
+Ai mila {author: {Daniel Cristian}, {rcId: {99970}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Trăim vremurile de pe urmă,
+Când lumea din rău înspre mai rău se-avântă,
+Când timpu-i prețios acuma
+Și nu îl folosim pentru Hristos.
+
+[c]
+Ai milă, o, scump Tată,
+Lasă Duhul Tău să lucreze!
+Nu ne împietri ale noastre inimi,
+Ci Te rugăm cu al Tău foc
+Tu să le-ncălzești.
+Ai milă, o, scump Tată,
+De sufletele noastre.
+Sfințește ale noastre inimi
+Și Te rugăm Tu să rămâi în ele.
+
+[v2]
+De Tine, Doamne, ne-am îndepărtat,
+Calea Ta de urmat am uitat,
+Pacea și credința din inimi
+Le-am dărâmat și pe Tine Te-am uitat.

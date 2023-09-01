@@ -1,0 +1,28 @@
+[title]
+Aleluia glorie osana {author: {Virginia}, {rcId: {7093}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: O, Isuse, soare Domn,
+Coborât-ai de pe tron.
+Serv ai fost și ne-ai slujit,
+Mult popor ai mântuit! :/
+
+[c]
+/: Aleluia, Glorie, Osana!
+Aleluia, Glorie, Osana!
+Aleluia, Glorie, Aleluia! :/
+
+[v2]
+/: Tu pe cruce ai murit,
+Pe Golgota răstignit,
+Ca să fiu eu fericit.
+O, Isuse, fii slăvit! :/
+
+[v3]
+/: Suflet drag, mult nu gândi,
+Vin la El, nu zăbovi,
+Căci Isus Te va primi,
+Și-n curând El va veni! :/

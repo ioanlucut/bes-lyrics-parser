@@ -1,0 +1,33 @@
+[title]
+Suntem in adunare-ai promis c-ai sa revii {author: {Biserica Pentricostala}, {rcId: {225851}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Suntem în adunare în sfânta unitate te lăudăm
+Cântăm despre speranța, despre nadejdea vie ce-o avem
+Ți-aducem mulțumire, de tot ce Tu ne-ai daruit acum
+Viața pentru noi Ți-ai dat, ai murit și-ai înviat
+Și la cer te-ai înaltat.
+
+[c]
+/: Ai promis c-ai să revii!
+Te-așteptăm al nostru Domn!
+Când pe nori vei apărea,
+Orice ochi Te va vedea
+Slăvindu-Ți al Tău nume. :/
+
+[v2]
+Coboar-azi cu putere și atinge-Te de cel ce este slab!
+Mai fă o scăldătoare și vindecă pe cel ce e bolnav!
+Biserica să fie mereu umplută de puterea Ta!
+Curați să fim mereu pe cale, Domnul meu,
+Chiar și când drumu-i greu.
+
+[v3]
+Va răsuna trompeta și Domnul sus pe nori va apărea
+Iar sfinții din morminte, spre plaiurile sfinte vor zbura.
+Cu haine nepătate ne-om înalta cu toți spre veșnicii,
+Nu e mult si Domnul vine, ne-a promis si noi știm bine
+Ne e dor de-aceea zi.

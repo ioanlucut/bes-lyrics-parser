@@ -1,0 +1,27 @@
+[title]
+Nascut din nou (born again) {author: {Andrew Culverwell, Traducere RO}, {rcId: {90395}}
+
+[sequence]
+v1,c,v2,c,s,c
+
+[v1]
+De vei crede fără sens ce am să-ți spun
+Nu mă rușinez, nu mă rușinez;
+Isus m-a găsit, m-a scos din greu păcat
+Și-o viață nouă El mi-a dat.
+
+[c]
+Sunt născut din nou și viața-mi s-a schimbat
+Sunt născut din nou, eu sunt iertat;
+Sunt născut din nou, din Domnul Dumnezeu
+Îl laud și Îi mulțumesc mereu.
+
+[v2]
+La Isus veni fruntașul Nicodim
+Plin de teamă, în noapte, zicând:
+Doamne, știu, Tu vii din cer, ești Dumnezeu
+Vreau să-nțeleg Cuvântul Tău!
+
+[s]
+Nu te mira că ți-am zis: ”
+Trebuie să vă nașteți din nou!” Ioan 3:7

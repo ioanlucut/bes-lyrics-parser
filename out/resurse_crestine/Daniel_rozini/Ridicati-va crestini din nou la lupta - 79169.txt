@@ -1,0 +1,29 @@
+[title]
+Ridicati-va crestini din nou la lupta {author: {Daniel Rozini}, {rcId: {79169}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ridicați-vă creștini din nou la luptă
+Pentru adevărul nostru sfânt
+Ridicați-vă creștini din nou la luptă
+Pentru-al Dumnezeului cuvânt
+
+[c]
+Luptă creștine, luptă ne-ncetat
+Ești în armata Regelui prea-nalt
+Luptă creștine pentru biruință
+Luptă creștine, luptă cu credință
+
+[v2]
+Ridicați-vă creștini din nou la luptă
+Pentru ceasul rugăciunii cel uitat
+Ridicați-vă creștini din nou la luptă
+Pentru Dumnezeul nostru prea-nalt
+
+[v3]
+Ridicați-va creștini din nou la luptă
+Ca să zdrobiți și ura și mândria
+Ridicați-vă creștini din nou la luptă
+Căci vă așteaptă-n ceruri veșnicia!

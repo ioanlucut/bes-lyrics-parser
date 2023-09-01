@@ -1,0 +1,37 @@
+[title]
+Frumos este sa laudam pe domnul {author: {Ovidiu Liteanu}, {rcId: {55786}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Frumos este să lăudam pe Domnul
+Și să mărim Numele Tău Preaînalte
+/: Să vestim dimineața bunătatea Ta
+Și noaptea credincioșia Ta :/
+
+[c]
+/: Veniți să ne-nchinăm și să ne smerim
+Să ne plecăm genunchiul
+Înaintea Domnului, înaintea Domnului
+Făcătorului nostru :/
+
+[v2]
+Cât de plăcute sunt locașurile Tale
+Doamne al Oștirilor
+/: Ferice de cei ce locuiesc în Casa Ta
+Căci ei tot mai pot să te laude :/
+Ridicați-vă mâinile spre Sfântul Locaș
+Și binecuvântați pe Domnul
+Ridicați-vă mâinile spre Sfântul Locaș
+Și binecuvântați pe Domnul
+
+[v3]
+Binecuvântat să fie Domnul
+Dumnezeul lui Israel
+Binecuvântat să fie Domnul
+Dumnezeul lui Israel
+Din veșnicie în veșnicie
+Și tot poporul să zică amin!
+Din veșnicie în veșnicie
+Și tot poporul să zică: Amin!!

@@ -1,0 +1,35 @@
+[title]
+O ce mare bucurie {author: {Ioan Hapca}, {rcId: {95043}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+O, ce mare bucurie
+Noi, în suflete avem
+Domnu-I gata să revie
+Și noi, să-L întîmpinăm!
+
+[c]
+O ce pace, bucurie
+Și nădejde vie avem;
+Domnu-l gata să revie
+Și noi, Fața să-I vedem!
+
+[v2]
+Minunată va fi ziua
+Când pe nor ne va chema
+Ce măreață va fi clipa
+Când vom sta în Fața Sa!
+
+[v3]
+Minunată va fi ziua
+Când spre Isus vom zbura
+Să fim toată veșnicia
+Cu El, plini de slava Sa!
+
+[v4]
+O, ce mare bucurie
+Ne inundă sufletul
+C-avem harul, pe vecie
+Să împărățim cu Domnul!

@@ -1,0 +1,35 @@
+[title]
+In stravechea carte sfanta {author: {Robert Lowry}, {rcId: {834}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+În străvechea Carte sfântă
+Tot citesc și iar citesc,
+Cât de bun a fost pe lume,
+Blândul Fiu dumnezeiesc.
+
+[c]
+Da-n străvechea Carte sfântă:
+Citesc, citesc, citesc și iar citesc:
+Cât de bun a fost Mântuitorul,
+Cât de mult, El ne-a iubit.
+
+[v2]
+Cum să vină copilașii,
+Toți la Dânsul i-a chemat
+Și la pieptul Său îi strânse
+Și cu drag i-a dezmierdat.
+
+[v3]
+Cum El n-a oprit pe nimeni,
+Chiar pe cel mai păcătos
+Să se-apropie de Dânsul
+Și cu toți a fost milos.
+
+[v4]
+Da-n străvechea Carte sfântă
+Nu mă satur de citit,
+Cât a fost de bun și dulce,
+Cât de mult, El ne-a iubit.

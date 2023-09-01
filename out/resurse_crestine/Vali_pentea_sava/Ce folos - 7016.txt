@@ -1,0 +1,41 @@
+[title]
+Ce folos {author: {Vali Pentea Sava}, {rcId: {7016}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ce folos să am prieteni
+Și să fiu iubit
+Ce folos în lumea-aceasta
+Să fiu împlinit
+Ce folos, ce folos
+Să câștig o lume-ntreagă
+/: Și să nu Îl am :/
+Pe Cristos, ce folos?..
+
+[c]
+/: Ce folos
+Să câștig o lume-ntreagă
+/: Dar să nu îl am :/
+Pe Cristos, ce folos. :/
+
+[v2]
+Ce folos să știu Cuvântul
+Dacă-n viață nu-L aplic
+Ce folos s-ascult mesajul
+Dacă inima nu-mi schimb
+Ce folos, ce folos
+Să cunosc atâtea lucruri
+/: Și să nu-L urmez :/
+Pe Cristos, ce folos?..
+
+[v3]
+Ce folos să fac o faptă
+Și să-mi iau răsplata aici
+Ce folos să fur
+Din slava Domnului
+Ce folos, ce folos
+Să mă laud cu viața-mi
+/: Și să nu-L slăvesc :/
+Pe Cristos, ce folos?.

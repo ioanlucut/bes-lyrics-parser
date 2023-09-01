@@ -1,0 +1,33 @@
+[title]
+In tine ma bucur {author: {Utu Șuteu}, {rcId: {167688}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Vreau să merg cu Tine,
+Doresc să am mântuirea
+Vreau s-ajung în țara Ta
+Nu mă uita.
+Cer să mă călăuzești,
+În fiecare clipă
+Cer ocrotirea Ta,
+Iubirea Ta s-o pot cânta.
+
+[c]
+/: În Tine mă bucur :/ x3
+Și-s fericit!
+Este drept să Te lăudăm!
+Este drept să Îți cântăm!
+Este drept să Te iubim!
+Ești al nostru Dumnezeu!
+
+[v2]
+Te voi binecuvânta,
+În orice timp și vreme
+Lauda Ta voi cânta
+Cât voi trăi!
+Când mă uit spre fața Ta
+Simt gustul fericirii
+Și-n suflet eu primesc
+Bucuria mântuirii!

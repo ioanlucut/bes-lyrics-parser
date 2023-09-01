@@ -1,0 +1,29 @@
+[title]
+Vin la isus azi nu intarzia {author: {George Fr.Root}, {rcId: {74459}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Vin’ la Isus, azi, nu întârzia!
+Fă-n toate cum a zis El așa!
+El este gata spre a-ți ajuta,
+Deci, lasă tot și vin’!
+
+[c]
+Fericiți vom fi atunci curați,
+Când spălați de orișice păcat,
+Cu Domnul vom fi neîncetat!
+O, Doamne, iată vin’!
+
+[v2]
+Vino, ascultă de-a Lui cuvânt,
+Inima-ți dă-I-o numaidecât,
+El ți-este sigur acoperământ,
+Deci, lasă tot și vin’!
+
+[v3]
+O, crede numai, nu te-ndoi!
+Cu siguranță te va primi!
+Și pentru tine El se jertfi,
+Ești păcătos, deci vin’!

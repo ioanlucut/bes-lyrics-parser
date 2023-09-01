@@ -1,0 +1,61 @@
+[title]
+Nu ma stie {author: {Sanja Cristea Tiberian}, {rcId: {2854}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,c5
+
+[v1]
+Se pleacă ziua înspre seară
+Se-aprinde un luceafăr sus,
+Mă-nconjoară tăceri de ceară
+Pândind cuvintele ce nu-s.
+
+[c]
+Mă uiți, Dumnezeu,
+Mă tulbură-o stea
+În sufletul meu
+Și inima mea.
+
+[v2]
+Mi-s munții-alături la picioare
+Și trece-un mâine peste ieri
+Mai plânge-un cântec, mă mai doare
+Mai suflă-un vânt de nicăieri.
+
+[c2]
+Mai suflă un vânt
+Mai suflă-a pustiu
+Pe-un drum de pământ
+Mă cheamă să fiu.
+
+[v3]
+Mă mai arăt într-o oglindă
+Mă mai privesc un pic și las
+Să-mi ardă stelele în tindă
+În liniștea ce mi-a rămas.
+
+[c3]
+Oglinda-i a mea
+Dar nu mai sunt eu
+Mă tulbură-o stea
+Mă uiți,
+Dumnezeu.
+
+[v4]
+Un val se-nalță peste-o mie
+O zi s-a dus, o alta nu-i
+M-am rătăcit și nu mă știe
+Nici Dumnezeu de sunt a Lui.
+
+[c4]
+Am fost, am venit
+Am fost, am plecat
+Un ceas s-a oprit
+Un râu a secat.
+
+[c5]
+Mă uiți,
+Dumnezeu
+Mă tulbură-o stea
+Și sufletul meu
+Se duce cu ea.

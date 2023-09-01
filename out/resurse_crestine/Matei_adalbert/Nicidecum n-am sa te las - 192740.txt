@@ -1,0 +1,36 @@
+[title]
+Nicidecum n-am sa te las {author: {Matei Adalbert}, {rcId: {192740}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Dacă păsările cerului au ce să mănânce
+Dacă crinii nici nu țes, nici nu torc
+Tu, omule, să ai credință-n Mine
+Eu sunt al tău Salvator!
+
+[c]
+Nicidecum n-am să te las
+Cu nici un chip nu te voi părăsi
+Eu sunt Cel ce te-am creat
+Încrede-te în Mine!
+
+[v2]
+Și corbilor le-am poruncit să ducă lui Ilie
+Carne și pâine, căci sunt Dumnezeu
+Am prefăcut apa sărată-n dulce
+Să poată bea poporul Meu!
+
+[v3]
+Poporul Meu a fost hrănit cu mană în pustie
+Încălțămintele, nici ele nu s-au ros
+De-atâtea ori au fost în încercare
+Cu braț puternic, Eu, i-am scos!
+
+[v4]
+Peste viața acum este încercare
+Te gândești, pe mâine: „
+Oare ce va fi?”
+Tu să te uiți la Cel ce-a stat pe cruce
+Cu El mereu vei birui!

@@ -1,0 +1,25 @@
+[title]
+De ce te temi? {author: {Narcisa P.}, {rcId: {75185}}
+
+[sequence]
+v1,v2
+
+[v1]
+De ce te temi, cand incercarea
+Peste tine-a navalit?
+De ce te temi, cand disperarea
+Ultima sansa ti-a umbrit..
+De ce te simti abandonat?
+Neinteles si parasit
+Eu sunt Cel care te-A vegheat
+Cand M-ai chemat, te-Am auzit
+
+[v2]
+De ce te temi, cand libertatea
+Se pare ca n-o mai gasesti
+Cand simti in piept singuratatea
+Asa usor te ofilesti
+Eu sunt cu tine-n orice vreme
+Pe veci sunt al tau Dumnezeu
+O, fiul Meu, o, Nu te teme
+Eu te voi sprijini mereu..

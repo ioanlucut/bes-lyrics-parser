@@ -1,0 +1,27 @@
+[title]
+Daca domnul te incearca {author: {Florin Ciulin}, {rcId: {125159}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Dacă Domnul te încearcă, tu fii treaz
+Să învingi atunci când tu esti în necaz.
+
+[c]
+Că-ncercarea și răbdarea
+Ți-aduc binecuvântarea
+Dacă Domnul te încearcă
+Tu fii treaz.
+
+[v2]
+Dacă Domnul de suferință nu te-a scutit
+De durere și de plâns n-ai fost lipsit.
+
+[v3]
+Dacă Domnul te încearcă, nu uita
+Tu să ți în mâna dreaptă, credința.
+
+[v4]
+Dacă Domnul vrea creștine, să fii încercat
+Nu uita că tot de El, vei fi salvat.

@@ -1,0 +1,43 @@
+[title]
+Canta-i nu descuraja {author: {Maria Șimon}, {rcId: {197371}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Soarele chiar de-a apus
+Și biruință n-ai avut,
+Domnul nu te va lăsa, să știi,
+El merge ’naintea ta,
+Pentru tine va lupta,
+Cântă-I neîncetat Aleluia!
+
+[c]
+/: Cântă-I, nu descuraja,
+Chiar de-i grea durerea ta,
+Domnul din cer te privește,
+Din necaz te izbăvește! : \
+
+[v2]
+Drumul ți-l va netezi,
+De tot ce-i rău te va păzi,
+Căci El te-a luat în Mâna Sa
+De-ai căzut te va ridica,
+Nicicând nu te va lăsa
+Cântă-I neîncetat Aleluia!
+
+[v3]
+Valurile de-or veni,
+Nu te vor acoperi
+Căci e-un Dumnezeu adevărat!
+Singur nu te va lăsa,
+Va conduce barca ta,
+Laudă-L mereu, Aleluia!
+
+[v4]
+Viața ta e-n mâna Sa,
+Frate nu te-ngrijora,
+El pe brațul Său te va purta!
+El e sfânt, e minunat,
+Dumnezeu adevărat,
+Să-L slăvim cu toți neîncetat!

@@ -1,0 +1,31 @@
+[title]
+La golgota {author: {Carmen Prodan}, {rcId: {169721}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Îngenunchez, o, Domnul meu la Golgota,
+Și-mi amintesc de suferința Ta cea grea.
+/: Și Te privesc pe cruce sus în chinuri mari,
+Răbdând ocara lumii-ntregi între tâlhari: \
+
+[c]
+Doamne-Ți mulțumesc pentru dragostea Ta,
+Și Te preamăresc pentru Jertfa Ta!
+Pentru Sângele vărsat, pentru chinul greu,
+Doamne, Îți aducem slavă, Te-nălțăm mereu!
+Mulțumim de mântuirea ce-am primit-o-n dar,
+Doamne, Te slăvim cu toții pentru sfântu-Ți har!
+
+[v2]
+Îngenunchez așa cum sunt, primește-mă!
+Păcatele m-apasă greu, o, iartă-mă!
+/: Căci vreau să las a mea povară-n Mâna Ta,
+La crucea Ta iertare-n dar să pot afla! : \
+
+[v3]
+De toți ai fost disprețuit și părăsit
+Dar chiar și-atunci Isuse drag Tu ne-ai iubit.
+/: De dragul meu și-al lumii-ntrgi Tu ai răbdat,
+Prin moartea Ta cu Tatăl Sfânt ne-ai împăcat! : \

@@ -1,0 +1,43 @@
+[title]
+Pentru cate am primit {author: {Nicolae Moldoveanu}, {rcId: {5416}}
+
+[sequence]
+v1,v2,v4,v5
+
+[v1]
+Pentru câte am primit,
+Pentru câte Tu mi-ai dat,
+Vreau
+ /: să-Ți cânt :/
+Cât trăiesc pe-acest pământ.
+Să Îți cânt neîncetat,
+Numai Ție, pe vecie,
+Cel mai sfânt și minunat! :/
+
+[v2]
+Pentru câte am primit,
+Pentru câte Tu mi-ai dat,
+Vreau
+ /: să plâng, :/
+Totu-n inimă să strâng.
+Să-Ți slujesc neîncetat,
+/: Numai Ție, pe vecie,
+Cel mai sfânt și minunat! :/
+
+[v4]
+Pentru câte am primit,
+Pentru câte Tu mi-ai dat,
+Slavă-Ți dau mereu-mereu
+Ție, Ție, Dumnezeu,
+Tată sfânt, adevărat!
+/: Numai Ție, pe vecie,
+Cel mai sfânt și minunat! :/
+
+[v5]
+Rob netrebnic, știu că sunt,
+Dar ca rob eu vreau să-Ți cânt,
+Să Te laud, drept Stăpân,
+Rob într-una să-Ți rămân.
+Fie ploaie, fie vânt,
+Numai Ție, pe vecie,
+Cel mai sfânt pe acest pământ!

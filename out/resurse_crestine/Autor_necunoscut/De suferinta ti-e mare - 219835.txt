@@ -1,0 +1,28 @@
+[title]
+De suferinta ti-e mare {author: {Anonim}, {rcId: {219835}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+De suferința ți-e mare
+Nu știi încotro s-o apuci
+Adu-ți aminte că mare
+E cel ce din lut te-a făcut
+
+[c]
+/: Nu e încercare prea mare
+Nu este nimic prea greu
+Vino, vino, vino acum la El :/
+
+[v2]
+La rugăciune aleargă
+Lui Dumnezeu să îi spui
+Tot ce în suflet apasă
+El e salvarea oricui
+
+[v3]
+Vino cu toată povara
+La crucea Lui să o pui
+El ia pacatul tău mare
+Și vindeca rana oricui

@@ -1,0 +1,29 @@
+[title]
+Ai venit {author: {Anonim}, {rcId: {2818}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Ai venit din cer senin,
+Isuse iubit.
+Pe pământ de rele plin,
+Isuse iubit.
+
+[c]
+/: Ai venit să-i mântuiești,
+Isuse iubit.
+De păcat să-i izbăvești,
+Isuse iubit. :/
+
+[v2]
+Oamenii n-au ascultat.
+Isuse iubit.
+N-au crezut, nu Te-au urmat,
+Isuse iubit.
+
+[c2]
+/: Dar la cei ce Te-au primit,
+Isuse iubit.
+Viață Tu le-ai dăruit,
+Isuse iubit. :/

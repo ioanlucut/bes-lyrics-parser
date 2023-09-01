@@ -1,0 +1,30 @@
+[title]
+Glorie lui dumnezeu {author: {Anonim}, {rcId: {6331}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+/: Glorie lui Dumnezeu! :/
+Glorie, Aleluia! Glorie, Aleluia!
+Glorie lui Dumnezeu!
+
+[v2]
+/: Isus este dragoste! :/
+Isus, Aleluia, Isus, Aleluia,
+Isus este dragoste.
+
+[v3]
+/: Isus este adevăr. :/
+Isus, Aleluia, Isus, Aleluia
+Isus este adevăr.
+
+[v4]
+/: Domnul este al meu Domn. :/
+Domnul, Aleluia! Domnul, Aleluia
+Domnul este al meu Domn.
+
+[v5]
+/: Isus va veni-n curând. :/
+Isus, Aleluia! Isus, Aleluia
+Isus va veni-n curând.

@@ -1,0 +1,33 @@
+[title]
+In ajun {author: {Nicolae Moldoveanu}, {rcId: {244345}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+A venit la mine mama
+Și mi-a spus c-un zâmbet bun:
+- Puiule, stai treaz, ia seama,
+/: Și ascultă toată gama
+Cântecelor de ajun. bis :/
+
+[v2]
+Clătinând apoi fereastra,
+Vântul mi-a șoptit ușor:
+- Puiule, în noaptea asta
+/: Își despică norii creasta
+Și vin îngerii în zbor. bis :/
+
+[v3]
+Iar o vrabie măruntă
+M-a-ndemnat să nu mă tem:
+- Vino, puiule, și-ascultă.
+/: Ia auzi ce oaste multă
+A pornit spre Betleem! bis :/
+
+[v4]
+Am răspuns la toate:
+Bine! Și... am adormit în pat.
+Iar târziu, pe căi senine,
+/: A venit Isus la mine
+Și, zâmbind, m-a sărutat... bis :/

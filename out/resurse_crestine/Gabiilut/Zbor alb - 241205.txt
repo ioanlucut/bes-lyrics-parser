@@ -1,0 +1,29 @@
+[title]
+Zbor alb {author: {Gabi_Ilut}, {rcId: {241205}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Zbor alb curat și sublim:
+Simt cum îmi cresc albe aripi;
+În dragoste mă ridic,
+Privesc în sus cu dor!
+
+[c]
+Uuu. îmi iau către Tine zborul.
+Uuu. aș vrea să mă înalț;
+Uuu. îmi iau către Tine zborul.
+Să mă înalț aș vrea, mai sus să mă înalț!
+
+[v2]
+Aripile-mi se deschid.
+Privesc în duh înălțimea;
+Încrezător mă avânt:
+Cu strigăt mă ridic!
+
+[v3]
+Ca pasărea în văzduh:
+Plutesc acum prin credință!
+Învăț curenți să înfrunt.
+Vreau tot mai sus să urc!

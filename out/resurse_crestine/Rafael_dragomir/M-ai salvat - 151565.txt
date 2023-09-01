@@ -1,0 +1,47 @@
+[title]
+M-ai salvat {author: {Rafael Dragomir}, {rcId: {151565}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Mult în viață Doamne, eu am rătăcit
+Și am alergat după nimic
+Ca o floare care moare în uscat,
+Și mereu cu sufletul trudit
+Până într-o zi spre min’ Te-ai aplecat,
+Că să-mi iei povara mea deplin
+Mi-ai șoptit Isus, ce mult Tu mă iubești,
+Mi-ai șoptit ce mult sunt pentru Tin’ fiindcă:
+
+[c]
+M-ai salvat și m-ai iubit!
+M-ai vindecat,
+Când eu Te-am răstignit
+M-ai salvat.
+
+[v2]
+Nu credeam că pacea se găsește-n Tin’
+Nu vedeam ce har mi-ai dăruit,
+Nu vroiam să mă gândesc că Te-ai jertfit,
+În păcat și-n foc aș fi pierit.
+Dar când ochii inimii mi s-au deschis,
+Am aflat ce-o viață n-am găsit,
+Am aflat că este-o viață cu folos,
+Am aflat răspunsul e: Hristos - fiindcă:
+
+[v3]
+De n-ai fi Tu, Isus în viața mea,
+De n-ar fi Duhul Tău în min’
+Aș fi pierdut și iar aș alerga,
+În întuneric și-n pustiu.
+Acum, Stăpâne, Îți cânt Gloria
+Dator să Te slăvesc pe Tin’
+Isus Hristos este Victoria!
+Acum și-n veci de veci, Amin! - fiindcă:
+
+[e]
+Acum, Stăpâne îți cant Gloria
+Și sunt dator să Te slăvesc pe Tin’
+/: Isus Hristos este Victoria!
+Acum și-n veci de veci, Amin! :/

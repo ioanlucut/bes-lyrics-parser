@@ -1,0 +1,35 @@
+[title]
+Pe calea vietii {author: {Carmen Prodan}, {rcId: {152900}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Pe calea vieții tale, iubite călător,
+Prin Valea Umbrei Morții cu suspine,
+De ce oftezi adesea, în deznădejde cazi,
+Și parcă izbavirea nu mai vine?
+
+[c]
+Să nu spui niciodată: ”sunt uitat! ”
+Căci Domnul înspre tine El privește,
+/: Când urlă valu-nfuriat și ți-e obrazu-nlăcrimat
+El Mâna-ntinde și te izbăvește! :/
+
+[v2]
+Când trece-o luptă grea, o alta vine-n loc
+Și-ți pierzi puterea ce-o aveai în tine,
+Când Cel Rău iți șoptește: ”acuma esti învins! ”
+Încrede-te în Domnul, o, creștine!
+
+[v3]
+Privește-n urmata cum El te-a izbăvit
+De-atâtea ori din clipe de durere,
+Isus Hristos e-același și ieri și azi și-n veci,
+Mai crede înc-o dat’ ’n a Sa putere!
+
+[v4]
+Mai este doar puțin și toate s-or sfârși
+Și lacrimi și dureri și clipe amare,
+Mai rabdă înc-un ceas, Isus vine-ncurând
+Să-i ia pe-ai Săi înveșnică splendoare!

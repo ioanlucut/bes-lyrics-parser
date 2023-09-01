@@ -1,0 +1,29 @@
+[title]
+Trandafirul din saron {author: {Grup Saron}, {rcId: {120834}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: N-ai în lume asemănare,
+Trandafirule sublim!
+Nu există crin sub soare,
+Cum e Domnul meu divin! :/
+
+[c]
+Ești trandafirul cel din Saron,
+Ești crinul alb imaculat.
+Singură floare ce emană
+Parfumul cel mai minunat!
+
+[v2]
+/: Nu există asemănare,
+Nu e crin mai minunat,
+Trandafir să se compare,
+Cu al nostru Împărat! :/
+
+[v3]
+/: Ai rămas și vei rămâne
+Un parfum divin și sfânt!
+Vreau și eu să-Ți semăn, Doamne
+Cât voi trăi pe Pământ! :/

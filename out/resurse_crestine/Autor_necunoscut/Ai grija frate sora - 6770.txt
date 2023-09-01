@@ -1,0 +1,46 @@
+[title]
+Ai grija frate sora {author: {Anonim}, {rcId: {6770}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+/: Ai grijă frate soră cum te-mbraci :/
+/: Căci rochița ta scurtată nu e binecuvântată
+Ai grijă soră dragă cum te-mbraci :/
+
+[v2]
+/: Ai grijă tu soră la pieptănat :/
+/: Cu cocul făcut prea mare
+Nu se stă în adunare
+Ai grijă tu soră la pieptănat :/
+
+[v3]
+/: Ai grijă soră dragă cum te-ncalți :/
+/: Căci pantofii cu toc cui
+Nu-s pe placul Domnului
+Ai grijă soră dragă cum te-ncalți :/
+
+[v4]
+/: Ai grijă frate dragă cum te tunzi :/
+/: Cu păr lung și favoriți
+Nu se stă la pocăiți
+Ai grijă frate dragă cum te tunzi :/
+
+[v5]
+/: Ai grijă limbă mică ce vorbești :/
+/: Pentru limba ta odată
+Vei fi tras la judecată
+Ai grijă limbă mică ce vorbești :/
+
+[v6]
+/: Ai grijă frate, soră un’ te duci :/
+/: Căci la teatru și la film
+Nu este servici divin
+Ai grijă frate, soră un-te duci :/
+
+[v7]
+/: Ai grijă frate soră un-te uiți :/
+/: Căci venirea Sa pe nor
+N-o vezi la televizor
+Ai grijă frate soră un-te uiți :/

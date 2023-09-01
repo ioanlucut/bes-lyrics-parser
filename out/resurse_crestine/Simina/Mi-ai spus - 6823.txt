@@ -1,0 +1,42 @@
+[title]
+Mi-ai spus {author: {Simina}, {rcId: {6823}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mi-ai spus că fără a tale șoapte
+Mi-apune ceru-n asfințit,
+Când stele plâng ascunse-n noapte
+Al zorilor cânt nerostit.
+Mi-ai spus că fără a Ta nădejde,
+Sunt ca un șoim rătăcitor
+Ce țărmul gloriei îl vede,
+Dar rănile din piept îl dor.
+
+[c]
+Pribeag prin munții de întristări
+Tu m-ai chemat din rug de foc mistuitor,
+La Tine plângând ’nainte Ți-am căzut
+Și te-am rugat să-mi fi
+Al vieții mele scut și bun mântuitor.
+
+[v2]
+Mi-ai spus că fără a Ta iubire
+Mi-e sufletul un jar nestins,
+Când flăcări vii din nemurire
+Cu ură vânturi reci l-au stins.
+Mi-ai spus că fără a Ta speranță
+Al inimii catarg mi-e frânt,
+Când vin furtuni de suferință
+Și-n barca vieții nu e cânt.
+
+[v3]
+Ți-am spus că Tu-mi ești dimineața
+Pe cerul rănilor din piept,
+Și-mi risipește-n lacrimi ceața
+Când mângâierea o aștept.
+O, Doamne dragostea-Ți mi-e focul
+Speranța e catargul meu,
+Nădejdea-i aripa și cântul
+Ce-L poartă-n el pe Dumnezeu.

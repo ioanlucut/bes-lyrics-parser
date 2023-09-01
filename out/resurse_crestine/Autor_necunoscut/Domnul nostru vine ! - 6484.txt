@@ -1,0 +1,37 @@
+[title]
+Domnul nostru vine {author: {Anonim}, {rcId: {6484}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Domnul nostru vine!
+Vine, auziți ?
+Ca să ia la Sine
+Pe cei pregătiți!
+
+[c]
+/: Să ne pregătim :/
+Toți în ascultare
+Și-mbrăcați în alb,
+Gata să ieșim
+În întâmpinare,
+În întâmpinare.
+
+[v2]
+Domnul nostru vine!
+Vine, ascultați ?
+Cei ce-asculta bine
+Toți vor fi luați.
+
+[v3]
+Domnul nostru vine!
+Vine încurând
+Candelele pline
+Să le-aveți arzând.
+
+[v4]
+Domnul nostru vine!
+Toți să-L așteptăm
+Și cum se cuvine
+Să-L întâmpinăm!

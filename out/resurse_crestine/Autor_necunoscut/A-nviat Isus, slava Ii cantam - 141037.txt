@@ -1,0 +1,30 @@
+[title]
+A-nviat isus slava ii cantam {author: {Anonim}, {rcId: {141037}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+A-nviat Isus, slavă Îi cântăm,
+A-nviat Isus, glorie să-I dăm.
+Boldul morții a-nvins, piatra a răsturnat.
+O, ce minunat, Hristos a înviat!
+
+[c]
+Isus a-nviat, o, ce minunat!
+Slavă Îi cântăm și ne închinăm!
+Din morți El a-nviat
+Și ne-a răscumpărat.
+Hristos a înviat!
+
+[v2]
+Noi ne bucurăm și Îl lăudăm.
+Pe Cel înviat Îl glorificăm.
+Pentru noi Și-a dat viața la Calvar.
+Ce har minunat, Hristos a înviat!
+
+[v3]
+Domnul nostru-i viu, vine în curând
+Și vom moșteni cu El cerul sfânt.
+Ce har minunat nouă ni s-a dat,
+Ca să fim în cer cu Emanuel.

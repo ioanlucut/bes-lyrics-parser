@@ -1,0 +1,35 @@
+[title]
+Glorie si slava {author: {Carmen Prodan}, {rcId: {152893}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Glorie și slavă, glorie și slavă
+Ție veșnic Dumnezeu!
+Pentru îndurarea fără asemănare
+Ce-o reverși spre noi mereu.
+
+[c]
+Glorie și slavă, glorie și slavă
+Îți cântăm neincetat,
+Inimile noastre cântă Aleluia
+Fii înveci glorificat!
+
+[v2]
+Glorie și slavă pentru Jertfa sfântă
+Care ne-a răscumpărat!
+Pentru curățire și eliberare
+De-orice patimi și păcat.
+
+[v3]
+Glorie și slavă pentru ocrotirea
+Ce-o simțim pe acest Pământ!
+Glorie și slavă, glorie și slavă
+Pentru Duhul Tău cel Sfânt.
+
+[v4]
+Glorie și slavă, glorie și slavă
+Pentru cerul strălucit,
+Pentru măreția și splendoarea toată
+Ce cu dragne-ai pregătit!

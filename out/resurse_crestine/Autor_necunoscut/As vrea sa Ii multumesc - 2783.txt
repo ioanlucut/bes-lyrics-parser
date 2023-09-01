@@ -1,0 +1,23 @@
+[title]
+As vrea sa ii multumesc {author: {Anonim}, {rcId: {2783}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Aș vrea să îi mulțumesc
+Aș vrea să Îl preamăresc
+Pe Cel ce-n veci e Rege,
+Pe Isus Hristos.
+
+[c]
+În El cel sărac este bogat
+Cel păcătos este iertat
+Căci El e Domn și Împărat
+În veci de veci.
+
+[v2]
+Veniți să îi mulțumim
+Veniți să îl preamărim
+Pe Cel ce-n veci e Rege,
+Pe Isus Hristos.

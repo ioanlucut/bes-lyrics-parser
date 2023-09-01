@@ -1,0 +1,33 @@
+[title]
+Un peregrin un calator {author: {Simion Buzduga}, {rcId: {225263}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Un peregrin, un călător
+Sunt pe acest pământ străin.
+În mine port un mare dor
+S-ajung pe plaiul cel divin.
+
+[c]
+O patrie, mult te doresc
+Doamne, te rog ca mai curând s-ajung în ea
+S-ajung în ea și să trăiesc
+Să fiu cu Tine-n cerul sfânt.
+/: O patrie, mult te doresc
+Doamne, te rog ca mai curând s-ajung în ea
+S-ajung în ea și să trăiesc
+Să fiu cu Tine-n cerul sfânt. :/
+
+[v2]
+Plăceri-aici nu mai doresc
+Căci toate-s goană după vânt.
+Pe plaiul sfânt, dar și ceresc
+Aș vrea s-ajung cât mai curând.
+
+[v3]
+Acolo sus când am s-ajung
+O să fiu cel mai fericit.
+Voi fi cu cei ce i-am iubit
+Cu Isus ce m-a mântuit.

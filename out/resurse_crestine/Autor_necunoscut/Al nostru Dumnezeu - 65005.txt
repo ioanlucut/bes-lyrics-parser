@@ -1,0 +1,35 @@
+[title]
+Al nostru dumnezeu {author: {Anonim}, {rcId: {65005}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cine e Cel ce în lumină
+A transformat întunericul?
+Cine e Cel ce a creat cerul,
+Și soarele, luna, stelele?
+
+[c]
+Nu este nimeni ca Domnul
+Omnipotent și înțelept!
+Mereu prezent, dar nevăzut,
+El este sfânt și preaînalt.
+
+[v2]
+Al nostru Dumnezeu
+Va fi cu noi și ne va păzi,
+Ne va călăuzi,
+De-acum și până la sfârșit.
+
+[v3]
+Acesta e Cel venit din ceruri,
+Ce a chemat pe copii la El,
+A vindecat pe cei bolnavi
+Și a murit ca să fim salvați.
+
+[v4]
+El ne-a iubit dintotdeauna,
+Chiar și-atunci când L-am trădat,
+Dragostea Lui ne va păstra
+Până când fața Îi vom vedea.

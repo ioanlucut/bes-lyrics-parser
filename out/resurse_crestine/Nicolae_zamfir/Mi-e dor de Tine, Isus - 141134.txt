@@ -1,0 +1,30 @@
+[title]
+Mi-e dor de tine isus {author: {Nicolae Zamfir}, {rcId: {141134}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mi-e așa de dor Tine, Isuse și aș vrea
+Sa văd ce strălucire ai sus în țara Ta
+Sa merg pe străzi de aur cu Tine o veșnicie
+Și să mă bucur Doamne cu sfinții-n strălucire
+
+[c]
+Fă-mă să fiu vrednic de venirea Ta
+Fă-mă să fiu sigur de mântuirea Ta
+Eu nu pot fără Tine și Tu știi asta
+N-am să te las o clipă plecat din viața mea.
+
+[v2]
+Puțin a mai rămas, și tot ce-i profetit
+Se împlinește Doamne, din ce Tu ne-ai vestit
+Păcatul e la culme, dragostea s-a răcit
+Războaiele sunt multe, totu-i de neoprit
+
+[v3]
+Nu ne lăsa, Isuse, să privim înapoi
+Cu Tine înainte prin arșiță si ploi
+Și cine va rabda până la sfârșit
+Acela poate spune: ”
+Sunt, Doamne, mântuit”!

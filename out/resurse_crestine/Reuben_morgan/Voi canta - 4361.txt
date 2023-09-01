@@ -1,0 +1,26 @@
+[title]
+Voi canta {author: {Reuben Morgan, Traducere RO}, {rcId: {4361}}
+
+[sequence]
+v1,c,e,v2,c
+
+[v1]
+Veșnic voi cânta despre tot ce mi-ai făcut
+Viața mi-ai schimbat
+De păcate m-ai iertat
+
+[c]
+/: Îți mulțumesc acum
+Pentru viața nouă ce mi-ai dat :/
+
+[e]
+Te iubesc, Te ador
+Ești Tatăl meu
+Domnul meu
+Regele meu
+Tu ești tot ce-mi doresc
+
+[v2]
+Viața mea de-acum
+E cu totul doar a Ta
+Inima mea vreau să bată doar cu a Ta

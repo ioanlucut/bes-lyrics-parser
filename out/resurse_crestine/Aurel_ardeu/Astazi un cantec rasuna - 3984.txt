@@ -1,0 +1,29 @@
+[title]
+Astazi un cantec rasuna {author: {Aurel Ardeu}, {rcId: {3984}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Astăzi un cântec răsună:
+O, Duhule Preasfânt,
+Căci S-a născut Mesia
+În ieslea din Betleem.
+
+[c]
+/: Azi s-a născut, o, veniți!
+El s-a născut în grajd.
+În ieslea din Betleem,
+Soarele Emanuel :/
+
+[v2]
+Isus cerul a lăsat
+Și ca noi trup a-mbrăcat,
+A venit jos să servească
+Lumea să o mântuiască.
+
+[v3]
+Mi-e drag de tine, Isuse
+Căci pentru mine-ai venit.
+De-aceea Îți voi da slavă,
+Mărire, fii proslăvit!

@@ -1,0 +1,41 @@
+[title]
+Sus in cer in cartea sfanta {author: {Anonim}, {rcId: {7041}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Sus în Cer, în Cartea Sfântă
+Isus numele mi-a scris
+S-avem drept la moștenire
+În Cerescul Paradis.
+
+[c]
+/: Și pe mine, și pe tine
+Ne-a salvat Isus din Cer
+Și ne-a pregătit un loc
+Colo-n ceruri sus la El. :/
+
+[v2]
+Dacă nu ești scris în Carte
+Te grăbește ne-ncetat
+Că se-apropie să vină
+Mirele ’nost minunat.
+
+[v3]
+Că ne duce-n fericire
+Domnul Isus ne-a promis
+La un loc să fim cu Dânsul
+În cerescul Paradis.
+
+[v4]
+Rătăceam străin prin lume
+Ca fiul rătăcitor
+Până a venit Mesia
+Bunul nostru Salvator.
+
+[v5]
+Haine albe ca zăpada
+Domnu Isus ne-a făcut
+Și ne-a îmbrăcat în ele
+Ca pe fiul cel pierdut.

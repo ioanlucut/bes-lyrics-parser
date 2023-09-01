@@ -1,0 +1,27 @@
+[title]
+E aici cu noi {author: {Alin și Emima Timofte}, {rcId: {100376}}
+
+[sequence]
+v1,c,v2,c,e,c,c
+
+[v1]
+Chiar dacă nu-nteleg deplin,
+Cum Dumnezeu cel Viu S-a întrupat,
+Și-acele mâini ce-acum părinții le țineau
+Sunt mâinile prin care toate s-au creat.
+
+[c]
+/: Haleluia, Haleluia!
+Dumnezeu coborât printre noi,
+Haleluia, Haleluia!
+Harul Său revărsat peste noi, e-aici cu noi :/
+
+[v2]
+Chiar dacă nu-nțeleg deplin,
+Că ochii Lui vedeau în slăvi splendori,
+Că îngerii Îi cântau mii de simfonii,
+Și-acum Maria Îl legăna ușor...
+
+[e]
+Isus Hristos, născut în Betleem,
+Un prunc venit să ne ridice din blestem!

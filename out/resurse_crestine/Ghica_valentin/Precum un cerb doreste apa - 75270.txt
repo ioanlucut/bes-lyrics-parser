@@ -1,0 +1,35 @@
+[title]
+Precum un cerb doreste apa {author: {Ghica Valentin}, {rcId: {75270}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Precum un cerb dorește apa,
+Din muntele-i răcoritor
+Ființa mea-ți dorește fața
+O, Mire Scump, Izbăvitor
+
+[c]
+Dorim să fim numai cu Tine
+Pe plaiurile îngerești
+Acolo unde-i numai bine
+Să admir lucrările cerești
+
+[v2]
+Nu te-am văzut, așa cum ești
+Căci n-a sosit clipa-ntâlnirii
+Dar te-am simțit că împlinești
+Splendoarea vie-a fericirii
+
+[v3]
+Pe mâini străpunse m-ai purtat
+Când inima-mi era-mpotrivă
+M-ai suportat, m-ai îndurat
+Și-apoi mi-ai șters orice vină
+
+[v4]
+Acuma eu îți sunt dator
+Cu viața mea să-ți mulțumesc
+Și Ți-o închin, căci te ador
+Și tot ce am îți dăruiesc!

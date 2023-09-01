@@ -1,0 +1,36 @@
+[title]
+O duh preasfant {author: {Nicolae Moldoveanu}, {rcId: {200692}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+O, Duh Preasfânt al ascultării,
+Păstrează-mi sufletul smerit.
+/: Să nu mă’ngâmf, să nu mă laud,
+S-ascult de tot ce-ai poruncit :/
+
+[v2]
+O, Duh Statornic al credinței,
+Încurajează-mă mereu.
+/: Să pot păși peste-orice valuri,
+Încrezător spre Dumnezeu :/
+
+[v3]
+O, Duh Fierbinte al iubirii,
+Înflăcărează-mă oricând.
+/: Răbdarea mea să n-aibă margini,
+Iertarea mea să n-aibă gând :/
+
+[v4]
+O, Duh Preadulce a
+I nădejdii,
+Despovărează-mi orice drum.
+/: Înseninează-mi orice clipă,
+Renaște-mă din orice scrum :/
+
+[v5]
+O, Duh Cucernic al blândeții,
+Sfințește-mi sufletul prinos.
+/: Și’ntreaga mea ființă jertfă,
+De bunăvoie lui Hristos :/

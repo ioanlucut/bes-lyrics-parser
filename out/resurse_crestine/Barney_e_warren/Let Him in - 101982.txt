@@ -1,0 +1,39 @@
+[title]
+Let him in {author: {Barney E. Warren}, {rcId: {101982}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Who is knocking at your heart today?
+Let the Savior in;
+Sinner, do not grieve the Lord away,
+Will you let Him in?
+
+[c]
+Let Him in, let Him in,
+Sinner, rise, let Him in.
+
+[v2]
+He is ling’ring at the closed door,
+Let the Savior in;
+You have heard Him knocking o’er and o’er,
+Will you let Him in?
+
+[v3]
+He has long protected you from death,
+Let the Savior in;
+Don’t refuse the Lord who gives you breath,
+Will you let Him in?
+
+[v4]
+On the cross His blood was shed so free,
+Let the Savior in;
+Do not let your will thus dormant be,
+Will you let Him in?
+
+[v5]
+Is your heart now like the granite stone?
+Let the Savior in;
+Soon His blood for you will not atone,
+Will you let Him in?

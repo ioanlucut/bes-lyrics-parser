@@ -1,0 +1,39 @@
+[title]
+Cetate tare-i dumnezeu (mighty fortress) {author: {Aaron Shust, Paul Baloche, Traducere RO}, {rcId: {177448}}
+
+[sequence]
+v1,c,v2,b,c,e,s,c
+
+[v1]
+/: Cetate tare-i Dumnezeu, statornic pe vecie :/ x2
+Nu ne-a lăsat dar, singuri să fim
+Nu ne-a uitat, o, în locuri pustii
+Nicicum nu ne lasă lipsiți de sprijin
+Așa ne promite, Cel Sfânt, divin
+În dragostea Sa, în dragostea Sa.
+
+[c]
+Cetate tare-i Dumnezeu
+Puternic zid de neclintit
+Este Isus, Cel Sfânt și drept
+Mântuitorul, Nume preaiubit
+Stânca mea, Turnul meu, pe vecie.
+
+[v2]
+Nu ne-a lăsat dar, singuri să fim
+Nu ne-a uitat, o, în locuri pustii
+Nicicum nu ne lasă lipsiți de sprijin
+Așa ne promite, Cel Sfânt, divin
+În dragostea Sa, în dragostea Sa.
+
+[b]
+Ieri și azi și în veci, marea Ta dragoste
+Va domni, dăinui pentru-a Ta glorie
+Stânca mea, Turnul meu, Ajutorul de sus
+Stânca mea, Turnul meu, pe vecie.
+
+[e]
+/: Cetate tare-i Dumnezeu, statornic pe vecie :/ x3
+
+[s]
+Dumnezeu este adăpostul și sprijinul nostru, un ajutor care nu lipșeste niciodată în nevoi. Ps. 46:1

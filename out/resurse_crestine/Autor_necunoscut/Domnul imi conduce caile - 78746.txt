@@ -1,0 +1,29 @@
+[title]
+Domnul imi conduce caile {author: {Anonim}, {rcId: {78746}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Domnul îmi conduce căile
+Slavă Lui, slavă Lui
+Ca un cerb trec munții, văile, 
+Slavă Domului
+
+[c]
+/: Aleluia-i cântarea mea
+Lui Isus mereu voi câta
+Cu pace-mi umpe El inima
+Slavă Domului :/
+
+[v2]
+Domnul mi-a iertat păcatele
+Slavă Lui, slavă Lui
+Și în rugi srăbat azi astrele
+Slavă Domnului
+
+[v3]
+El dezleagă întrebările
+Slavă Lui, slavă Lui
+Potolindu-mi frământările
+Slavă Domnului

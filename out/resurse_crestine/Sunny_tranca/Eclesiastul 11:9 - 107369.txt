@@ -1,0 +1,17 @@
+[title]
+Eclesiastul : {author: {Sunny Tranca}, {rcId: {107369}}
+
+[sequence]
+v1,c
+
+[v1]
+Spune-mi ce este viața omului:
+Doar un abur ce se-arată un pic
+Ajută-mă să-mi număr bine zilele
+Până nu vine al meu sfârșit.
+
+[c]
+/: Bucură-te tinere în tinerețea ta
+Umblă pe căile alese de inima ta
+Dar să știi că într-o zi te va chema
+Dumnezeu la judecata Sa :/

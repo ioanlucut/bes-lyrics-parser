@@ -1,0 +1,41 @@
+[title]
+Lauda sa izvorasca {author: {Nicolae Moldoveanu}, {rcId: {4538}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Laudă să izvorască
+Din ființa mea mereu
+/: Pentru Tine, pentru Tine
+Dulce Dumnezeul meu :/
+
+[c]
+/: Laudă! laudă! laudă!
+Ție-ți cânt neîncetat,
+Ție, Creatorul lumii,
+Tatăl meu cel minunat! :/
+
+[v2]
+Laudă să mi se-aprindă
+Pe al inimii altar,
+/: Pentru Tine, pentru Tine,
+Nesecat izvor de har! :/
+
+[v3]
+Laudă să-ți cânte-ntruna
+Gura mea înflăcărat,
+/: Pentru Tine, pentru Tine,
+Cel ce m-ai răscumpărat! :/
+
+[v4]
+Laudă să se înalțe
+Din tot ce trăiesc și cânt,
+/: Pentru Tine, pentru Tine,
+Dumnezeul meu prea sfânt! :/
+
+[v5]
+Laudă mereu mai nouă
+Fie-n viața mea deplin,
+/: Pentru Tine, pentru Tine,
+Veșnic Dumnezeul meu! :/

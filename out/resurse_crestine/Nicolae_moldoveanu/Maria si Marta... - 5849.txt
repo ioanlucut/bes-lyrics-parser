@@ -1,0 +1,29 @@
+[title]
+Maria si marta {author: {Nicolae Moldoveanu}, {rcId: {5849}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Maria și Marta sunt două surori,
+Alese din lumea cea largă,
+/: Maria-i credința ce-nvață din zori,
+Iar Marta-i credința ce aleargă. :/
+
+[v2]
+Maria stătea ascultând și simțea,
+Că ceru-și desferecă poarta.
+/: Să stau ca Maria într-una aș vrea,
+Dar Domnul iubea și pe Marta. :/
+
+[v3]
+Maria și Marta sunt două surori,
+Ce-n rai își petrec veșnicia,
+/: Dar eu, pe pământ, parc-aș vrea,
+Uneori când Marta să fiu, când Maria. :/
+
+[v4]
+Isus pe-amândouă surori le iubea,
+Și azi laolaltă li-e soarta,
+/: O, fă-mă, Isuse, în dragostea Ta,
+Să fiu și Maria și Marta! :/

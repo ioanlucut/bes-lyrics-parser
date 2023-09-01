@@ -1,0 +1,33 @@
+[title]
+Caut fata ta isuse drag {author: {Ruben Filoti}, {rcId: {156331}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Caut fața Ta Isuse drag
+În prezența Ta aș vrea să stau
+Pacea, fericirea n-o găsesc,
+Dar Tu-mi dai mereu ce doresc.
+Cu-umilință astăzi mă-nchin
+În fața tronului divin eu stau
+Prezența Ta în inimă o simt
+Cu tot ce am acum eu mă predau.
+
+[c]
+/: Inima azi ti-o dau
+Spală-mă în Sângele
+Ce-a curs din Golgota
+Iarta-mă ți-am greșit
+Nici nu mai știu
+De câte ori ți-am greșit. :/
+
+[v2]
+Vreau iertare să primesc în dar
+Îngenunghez în fața Ta și eu
+În rugă zi și noapte stau, te chem
+Tu ești Doamne Stânca mea mereu.
+Cu tine niciodată nu mă tem
+Glasul mi-l asculti când gem
+Fața ta de mine nu ti-ascunzi
+Cu dragostea ta sufletu-mi pătrunzi.

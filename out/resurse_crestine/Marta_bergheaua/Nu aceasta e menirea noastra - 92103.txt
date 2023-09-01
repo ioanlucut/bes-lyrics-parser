@@ -1,0 +1,43 @@
+[title]
+Nu aceasta e menirea noastra {author: {Marta Bergheaua}, {rcId: {92103}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Nu aceasta e menirea noastră,
+Să clădim mereu aici valori,
+Căci mai sus de zarea cea albastră,
+Vrem să fim cu toți moștenitori!
+Nu aici ne este bogăția,
+Nici comoara noastră aici jos,
+Vrem să spunem astăzi cu tărie:
+Fericirea noastră e Hristos!
+
+[c]
+/: Dar pân’ atunci, mai plâng, mai cânt,
+Și îl aștept pe El,
+Și vreau să-I spun, că-mi este dor de Cer,
+În orice zi, suspin și-L chem,
+Să vină mai curând,
+/: Să scap, să uit, de-acest amar pământ! :/
+
+[v2]
+De nimic ce este-n astă lume,
+Noi nu vrem nicicând a ne lega,
+Vrem să fim legați pe totdeauna,
+Drag Isuse, de iubirea ta!
+Aurul, argintul, bogăția,
+Tot ce pare-a fi aici frumos,
+Nu ne-ncântă căci, Isus e Stânca,
+Pentru omul drept și credincios!
+
+[v3]
+Vrem să spunem Doamne, cu tărie,
+Doar Tu ești al nostru ideal,
+Ne conduci spre portul veșniciei,
+Vrem s-ajungem la al Tău Liman!
+Doar aceasta e menirea noastră,
+Să ajungem pe Tărâmul Sfânt,
+Să lăsăm aici dureri și lacrimi
+Și să-nceap’ al bucuriei cânt!

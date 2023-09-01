@@ -1,0 +1,30 @@
+[title]
+S-a nascut un fiu {author: {Iasmin Rey}, {rcId: {224490}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+Un Fiu s-a născut, un Fiu a venit
+Pentru tine, s-a umilit
+Într-un grajd El s-a născut
+Dumnezeu de sus l-a uns
+
+[c]
+/ S-a născut un Fiu
+S-a născut Emanuel
+S-a născut Mesia
+Dumnezeu este cu El :/
+
+[v2]
+Un Prunc Divin, un Împărat
+În chip de om, s-a întruchipat
+Într-un grajd ei au venit
+Păstori, magi din răsărit
+
+[b]
+/ Osana, Osana, Osana
+Un Fiu s-a născut
+Osana, Osana, Osana
+E Fiul cel uns :/
+E Isus cel uns

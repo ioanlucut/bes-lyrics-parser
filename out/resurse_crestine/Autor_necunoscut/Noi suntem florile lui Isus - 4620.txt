@@ -1,0 +1,23 @@
+[title]
+Noi suntem florile lui isus {author: {Anonim}, {rcId: {4620}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Noi suntem florile lui Isus
+Pe care mult le iubește
+/: Și pentru care-n toată vremea
+Cu dragoste se-ngrijește :/
+
+[v2]
+Când vine-un vânt să ne doboare
+Și ne amenință mari furtuni
+/: În orice vreme de-ncercare
+Ne-acoperă cu-a-Sale mâini :/
+
+[v3]
+Isus e Grădinarul nostru
+Ne conduce cu bucurii
+/: Noi suntem florile lui Isus
+Și-al nostru soare el va fi :/

@@ -1,0 +1,28 @@
+[title]
+Dincolo de stele {author: {Claudius și Aurelian}, {rcId: {82463}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+/: Dincolo de stele este casa mea
+Acolo Tatăl pregătește pentru mine
+Multe bucurii ce nu se vor sfârși :/
+
+[v1]
+Sunt călător, sunt pe un pământ străin
+Locul unde vreau s-ajung încă e departe
+Drumul nu-i ușor multe-obstacole apar
+Dar cu bine le voi trece pe toate
+
+[v2]
+Sunt peregrin și în drum spre Țara mea
+În hățișuri cu spini ades mă poticnesc
+Dar nu mă tem, Domnul e de partea mea
+Și m-ajută să înaintez
+
+[v3]
+Când încercările mă copleșesc
+Simt Mâna lui Isus cum mă ajută
+Și când sunt gata să mă prăbușesc
+Cu brațu-I tare mă ridică

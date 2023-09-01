@@ -1,0 +1,39 @@
+[title]
+Biruitori biruitori {author: {Nicolae Moldoveanu}, {rcId: {6283}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Biruitori, biruitori, biruitori suntem,
+Când mai deplin, când mai adânc,
+Isuse Te avem.
+În slujba Ta, în slujba Ta,
+Înflăcărați pornim,
+Un rod bogat, un rod frumos,
+Noi vrem să-Ți dăruim.
+
+[c]
+Isus, Isus, Isus, Isus,
+Ce har etern pentru noi ai adus!
+Te lăudăm, Te lăudăm,
+Numele Tău, drag Isus, lăudăm.
+
+[v2]
+Încredințați, încredințați, încredințați mereu
+De harul Tău, de harul Tău,
+Noi trecem orice greu,
+Și ne păstrăm, și ne păstrăm
+Senini și-ncrezători,
+Când vin furtuni, când vin dureri,
+Când ceru-i numai nori.
+
+[v3]
+Ne-ai pregătit, ne-ai pregătit,
+Un viitor sublim,
+În stări de rai, în stări de cer,
+Cu Tine-n veci să fim.
+Ce fericiri, ce fericiri
+Adânci noi vom trăi
+Căci noaptea grea se va sfârși
+Și veșnic fi-va zi.

@@ -1,0 +1,35 @@
+[title]
+In casa ta {author: {David Stănuș}, {rcId: {153055}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+În casa ta mai sunt și azi altare,
+În casa ta mai arde focul oare?
+/: În casa ta mai este azi cuvântul
+Și nicidecum nu te va bate vântul. :/
+
+[v2]
+În casa ta să n-ai idolii lumii
+Să macini azi semințele minciunii
+/: Să fugi mereu de tot ce-i inălțare
+Și-apoi vei fi la marea sărbătoare. :/
+
+[v3]
+În casa ta mai este azi lumină
+În rugăciuni și peste disciplină
+/: Că doar așa soțul și soția
+Vor moșteni în ceruri veșnicia. :/
+
+[v4]
+În casa ta mai este armonie
+Când cerul tot ți-aduce bucurie
+/: Căminul tău a fost și pentru alții
+Venit-au des surorile și frații. :/
+
+[v5]
+În casa ta ca Iosua să spui
+Că tu cu-ai tăi lângă Domnul rămâi
+/: Chiar dacă toți își schimbă azi stăpânul
+Tu vei striga: ca Domnul nu-i nici unul. :/

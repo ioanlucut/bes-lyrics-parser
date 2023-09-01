@@ -1,0 +1,26 @@
+[title]
+Un cantec ce ingerii nu-l pot canta (a song the holy angels cannot sing) {author: {Gordon Jensen, Traducere RO}, {rcId: {91778}}
+
+[sequence]
+v1,c,v2,c,s,c
+
+[v1]
+Îngerii n-au parte de mântuirea
+Dăruită prin jertfa de pe Calvar
+Ei cântă-n cer și își îndreaptă privirea
+Când pe pământ, cei mântuiți cântă în cor: Mărețul har!
+
+[c]
+Este-un cântec ce îngerii nu-l pot cânta
+Mărețul har, m-a mântuit!
+Este-un cântec ce îngerii nu-l pot cânta
+Pierdut eram, dar m-a găsit!
+
+[v2]
+Îngerii slăvesc pe Sfântul Dumnezeu
+I se-nchină și Îl laudă ne-ncetat
+Uniți cu ei și noi Îi vom cânta mereu
+Dar îngerii, nu pot cânta: Dragostea Lui m-a ridicat!
+
+[s]
+În adevăr, nu unor îngeri a supus El lumea viitoare despre care vorbim. Evrei 2:5

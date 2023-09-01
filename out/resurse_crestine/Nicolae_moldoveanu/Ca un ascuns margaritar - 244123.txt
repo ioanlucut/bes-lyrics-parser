@@ -1,0 +1,35 @@
+[title]
+Ca un ascuns margaritar {author: {Nicolae Moldoveanu}, {rcId: {244123}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Ca un ascuns mărgăritar
+E-al mântuirii mare dar,
+/: Ferice sufletul acel
+Ce l-a primit și-l are-n el. :/
+
+[v2]
+Ca un tezaur de mult preț
+E-al mântuirii dar măreț,
+/: Ferice-acel ce l-a găsit
+Și-l va păstra pân-la sfârșit! :/
+
+[v3]
+Ca un izvor curat și plin
+E-al mântuirii dar divin,
+/: Ferice-acel ce l-a aflat,
+Ce bea din el cu-adevărat. :/
+
+[v4]
+Ca mirul cel cu bun miros
+E-al mântuirii dar frumos,
+/: Ferice-acel ce-l va păstra,
+Împrăștiind mireasma sa. :/
+
+[v5]
+O, suflet drag, de n-ai primit
+Al mântuirii dar slăvit
+/: Dă tot ce ai s-o poți avea,
+Că nu-i nimic mai scump ca ea. :/

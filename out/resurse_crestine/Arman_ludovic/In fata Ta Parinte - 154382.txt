@@ -1,0 +1,63 @@
+[title]
+In fata ta parinte {author: {Arman Ludovic}, {rcId: {154382}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+In fata Ta Parinte
+Smerit eu ma prostern
+Vin sa-ti multumesc
+O Domn Etern
+De binecuvantarea
+Ce Tu ne-ai daruit
+Prin micul copilas
+Din mana Ta primit
+
+[c]
+Doamne cata fericire!
+Tu m-ai ascultat
+Mai mult decat gandeam eu
+M-ai binecuvantat
+Doamne cata fericire!
+In inima simt
+Mi-ai dat in dar comoara
+Ce mult eu mi-am dorit
+
+[v2]
+Ce liniste si pace
+Gasesc in inima Ta
+Tu-mi ocrotesti comoara mea
+Cu cei de langa mine
+Cu cei din jurul meu
+Ma las in paza-Ti Sfanta
+Puternic Dumnezeu
+
+[c2]
+Doamne cata fericire
+Am in bratul Tau
+Mi-am pus taria-n TIne
+Puternic Dumnezeu
+Doamne cata fericire
+Am in bratul Tau
+Mi-am pus taria-n TIne
+Puternic Dumnezeu
+
+[v3]
+Cand stelele pe bolta
+Aprind lumina lor
+Gandul meu se-avanta-n sus usor
+Indrept spre tine-o ruga
+Spre tronul Tau sublim
+Spunand am vrea la Tine
+Cu toti cei dragi sa fim
+
+[c3]
+Ah ce mare fericire
+Ce frumos va fi
+Cand sus vom fi cu Tine
+Si-n veci te vom slavii
+Doamne cata fericire!
+In inima simt
+Mi-ai dat in dar comoara
+Ce mult eu mi-am dorit

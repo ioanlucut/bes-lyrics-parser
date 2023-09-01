@@ -1,0 +1,32 @@
+[title]
+Vine domnu {author: {Decean}, {rcId: {6927}}
+
+[sequence]
+v1,b,c,v2,c,e
+
+[v1]
+Vine iar Isus
+Acel ce ne-a iertat
+Pe mine și pe tine
+El ne-a răscumpărat.
+
+[b]
+/: Fie glorificat! :/
+
+[c]
+Vine Domnu’, vine iarăși
+Vine pentru acei iubiți de El!
+Vine Domnu’, vine iarăși
+Vine să ne ia în slava Sa!
+
+[v2]
+Isus ne-a iubit
+Pentru noi S-a jerfit
+Păcatele le-a spălat
+Isus ne-a răscumpărat.
+
+[e]
+Isus, viața mea
+Ține-o Tu în mâna Ta!
+Calea Ta să n-o greșesc
+Pe pământ cât eu trăiesc!

@@ -1,0 +1,34 @@
+[title]
+Intr-o cetate {author: {Naomi Borota}, {rcId: {170467}}
+
+[sequence]
+v1,c,v2,c,e,c
+
+[v1]
+Într-o cetate adânc în noapte
+Când toți din jur au adormit,
+Doi tineri simpli cu visu-n suflet
+Îl așteptau pe Cel promis.
+Pe Acel ce va fi Salvatorul lumii
+Creator ce coboară acum pe pământ!
+
+[c]
+Mergeți căutați-L în staul, în iesle-L veți găsi!
+Este Mesia, Salvatorul, Acel ce din vecii
+S-a dezbrăcat de Gloria Lui
+Venind ca Fiu al omului!
+Fiindcă atât de mult El lumea a iubit!
+
+[v2]
+Lângă cetate adânc în noapte
+Păstorii turmele-și vegheau.
+Dar deodată Cerul răsună
+Mulțimi de îngeri le vestesc:
+Bucurați-vă toți, azi Scripura se-mplinește
+Cel promis prin profeți vine să vă salveze!
+
+[e]
+Rege și Preot, e Domn peste veacuri
+Pământul și Cerul I se supun!
+Vrednic de cinste, de laudă, onoare,
+Leul din Iuda, Emanuel!

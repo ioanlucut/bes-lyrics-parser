@@ -1,0 +1,26 @@
+[title]
+Bunatatea ta {author: {Marius Gorcea, Dan Muncaciu}, {rcId: {244442}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+O, Domnul meu, pe Tine Te caut,
+Sufletul meu după Tine-nsetează.
+Ca un pământ uscat, sufletul meu tânjește
+După apa divină, după slava de sus.
+
+[c]
+Bunătatea Ta prețuiește mai mult decât viața,
+De-aceea, Doamne, eu Te voi lăuda
+Și în Numele Tău, Doamne, voi ridica mâinile!
+/: Bunătatea Ta prețuiește mai mult decât viața,
+De-aceea, Doamne, eu Te voi lăuda
+Și în Numele Tău, Doamne, voi ridica mâinile! :/ ×3
+Bunătatea Ta prețuiește mai mult decât viața mea!
+
+[v2]
+Al meu ajutor ești, la umbra Ta, Doamne,
+Găsesc ocrotirea în dreapta Ta.
+Cu Tine mă laud, în Tine mă bucur.
+Dumnezeule, Mare ești în vreme rea!

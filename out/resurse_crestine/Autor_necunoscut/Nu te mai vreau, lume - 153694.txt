@@ -1,0 +1,61 @@
+[title]
+Nu te mai vreau lume {author: {Anonim}, {rcId: {153694}}
+
+[sequence]
+v1,c,c,v2,c2,c2,v3,c3,c4,c3
+
+[b]
+/: Nu te mai vreau! :/
+/: Nu te mai vreau, lume! :/
+Nu te mai vreau nicicând!
+/: Nu te mai vreau! :/
+/: Nu te mai vreau, lume! :/
+Nu te mai vreau nicicând!
+/: Nu te mai vreau! :/
+/: Nu te mai vreau, lume! :/
+Nu te mai vreau nicicând!
+/: Nu te mai vreau! :/
+/: Nu te mai vreau, lume! :/
+Nu te mai vreau nicicând!
+
+[v1]
+Eu am găsit o lume mai frumoasă,
+Cu plaiuri și cu veșnice grădini.
+Acolo bucuria nu se gată
+Și cantă corul marilor iubiri.
+
+[c]
+Când intri pe poartă e o uimire,
+Totul te-ncântă și te înoiești.
+Acolo găsit-am pe Iubitul meu Mire,
+Hai, vino și tu să te regăsești!
+
+[v2]
+Eu am găsit o lume mai frumoasă,
+Cu plaiuri și cu veșnice grădini.
+Cu bucurii ce veșnic nu se gată
+Și cântă corul marilor iubiri.
+
+[c2]
+Hai, vino pe drumul ce duce-n grădină,
+Totul te încântă și te înoiești.
+Chiar El e Stăpânul, a spus despre tine,
+El vrea să te vadă, de ce zăbovești?
+
+[v3]
+Eu am găsit o lume mai frumoasă,
+În care aș dorii să fii și tu.
+Acolo bucuria nu se gată,
+Isus Hristos împărățește-acol’!
+
+[c3]
+Hai, vino pe poartă și intră-n grădină,
+Căci totul te-așteaptă să te reîntorci.
+O lume întreagă trăiește-ntuneric,
+Deci vino la Domnul, de ce mai aștepți?
+
+[c4]
+Când intri pe poartă e o uimire,
+Totul te-ncântă și te înoiești.
+Acolo găsit-am pe Iubitul meu Mire,
+Hai, vino și tu să te regăsești!

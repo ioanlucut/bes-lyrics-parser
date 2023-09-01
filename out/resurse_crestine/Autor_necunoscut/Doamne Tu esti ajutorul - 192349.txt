@@ -1,0 +1,47 @@
+[title]
+Doamne tu esti ajutorul {author: {Anonim}, {rcId: {192349}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Doamne Tu ești ajutorul
+Doamne Tu ne ești Păstorul
+Doamne Tu ești călăuză-n al nost drum
+Tu ești sprijin și tărie
+Tu ești Stânca din vecie
+Vrem cu toți să-ți mulțumim Părinte Bun.
+
+[c]
+Ce-am fi fost fără de Tine pe cărare
+Cand treceam prin văi adânci și strâmtorare.
+Dar Tu ne-ai fost Bun Păstor
+Ne-ai venit în ajutor
+Te slăvim că ai fost plin de îndurare
+Când furtuna a venit
+Brațul Tău ne-a sprijinit.
+Tu ne-ai fost Isuse barcă de salvare
+Mulțumim pentru a Ta iubire mare
+Mulțumim că ai fost Turnul de scăpare
+Mulțumim pentru chemare
+Mulțumim pentru iertare
+Mulțumim că ai fost plin de îndurare
+Te slăvim pentru salvare
+Te slăvim și-ți dăm onoare
+/: Dumnezeu nostru Bun Slăvit și Mare. :/
+
+[v2]
+Doamne Tu în clipe-amare
+Când treceam prin încercare
+Ai stat lângă noi aproape în cuptor
+Si în noaptea încercării
+Până-n lung și-n largul zării
+Strălucind un soare Sfânt izbăvitor.
+
+[v3]
+Azi Îți mtumim cu toții
+Că în valea umbrei morții
+Ai rămas cu noi aproape zi de zi
+Nu ne-ai părăsit o clipă
+Ți-ai atins a ta aripă
+Fii slăvit Atotputernic Dumnezeu.

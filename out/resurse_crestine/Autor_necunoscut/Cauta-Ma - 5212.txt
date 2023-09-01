@@ -1,0 +1,23 @@
+[title]
+Cauta-ma {author: {Anonim}, {rcId: {5212}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Caută-Mă, caută-Mă, caută-Mă
+Zice azi Dumnezeu
+Caută-Mă, caută-Mă
+/: Și ție Mă voi descoperi :/
+
+[v2]
+Crede-Mă, crede-Mă, crede-Mă
+Zice azi Dumnezeu
+Crede-Mă, crede-Mă
+/: Și ție Mă voi descoperi :/
+
+[v3]
+Iubește-Mă, iubește-Mă, iubește-Mă
+Zice azi Dumnezeu
+Iubește-Mă, iubește-Mă
+/: Și ție Mă voi descoperi :/

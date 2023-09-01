@@ -1,0 +1,33 @@
+[title]
+Sa nu te-ngrijorezi {author: {Ovidiu Berghian}, {rcId: {95401}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Să nu te-ngrijorezi în seara vieții tale
+Prin negura-ntristării de singur tu vei sta.
+/: Căci nu e noapte-adâncă pe cerurile Sale
+Să nu o lumineze cu har iubirea Sa! :/
+Cu har, cu har iubirea Sa.
+
+[v2]
+Să nu te-ngrijorezi când sufletu-n suspine
+Va trece-n lăcrimare prin văi de încercări.
+/: Cu tine e Păstorul ce poate să-ți aline
+Durerea-n reci izvoare ce curg în îndurări! :/
+Ce curg, ce curg în îndurări.
+
+[v3]
+Să nu te-ngrijorezi de-a lumii grea furtună
+Cu valurile urii lovind necruțător.
+/: Din cer Corăbierul, cu vocea Lui senină,
+Îți liniștește marea în dulce cânt de dor :/
+În dulce, dulce cânt de dor
+
+[v4]
+În Domnul să te-ncrezi căci nu este iubire
+Mai mare ca iubirea ce brațele și-a-ntins
+/: Pe crucea jertfei Sale săpând in nemurire
+Destinul vieții tale in Rai de stele nins :/
+In Rai, in Rai de stele nins!

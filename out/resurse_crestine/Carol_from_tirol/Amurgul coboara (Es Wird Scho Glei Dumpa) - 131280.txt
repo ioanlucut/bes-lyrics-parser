@@ -1,0 +1,31 @@
+[title]
+Amurgul coboara (es wird scho glei dumpa) {author: {Carol from Tirol, Traducere RO}, {rcId: {131280}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Amurgul coboară, domol, liniștit
+Și pașii mă poartă spre Pruncul iubit;
+La iesle doresc să cânt un cântec duios
+Privind Copilașul, Preasfânt și frumos.
+
+[c]
+Bun venit, bun venit
+Bun venit, scump Mântuitor!
+
+[v2]
+Încet, Copilașul, adoarme zâmbind
+Și văd bucuria pe chipul Lui blând;
+Spre casă mă-ntorc voios și încrezător
+Căci Pruncul ce S-a născut e-al meu Salvator.
+
+[v3]
+Iar îngerii-n slavă, Îl laudă pe El
+Păstorii și magii se-nchină și ei;
+Isus este viața mea și-I cânt fericit
+Cu harul Său minunat El m-a mântuit.
+
+[c2]
+Fii slăvit, fii slăvit
+Fii slăvit, scump Mântuitor!

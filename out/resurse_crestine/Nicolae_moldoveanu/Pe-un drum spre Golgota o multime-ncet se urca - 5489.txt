@@ -1,0 +1,57 @@
+[title]
+Pe-un drum spre golgota o multime-ncet se urca {author: {Nicolae Moldoveanu}, {rcId: {5489}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Pe-un drum spre Golgota,
+O mulțime-ncet se urca;
+Natura-ntreagă plânge-n cor,
+E-o tristețe-așa de-adâncă...
+
+[c]
+Isus greu suie Golgota,
+Zdrobit de-a crucii grea povară
+Și spinii mari Îi sunt cununa,
+De trecători batjocorit într-una,
+În locul meu Se duce ca să moară.
+
+[v2]
+Și-au ajuns la Golgota: gloata,
+Domnul și tâlhării.
+Îl văd întins pe-o cruce grea,
+Iertând preoții, cărturarii.
+
+[c2]
+Se-aud femeile cum plâng,
+Ostașii-I bat în mâini piroane,
+Pe frunte-I curge sfântul sânge,
+Iar jos, sub cruce mama-L plânge
+Cu ucenicul ce-L iubea mai tare.
+
+[v3]
+Sus pe deal, al nost’
+Isus, boldul morții-a biruit
+Tot iadu-atunci a fost răpus
+Și capul Șarpelui zdrobit.
+
+[c3]
+Isus murea privind milos
+Prin negura de vremi-nainte.
+El ne vedea-nghițiți de moarte,
+Pierduți în lumea de păcate,
+Neîmpăcați cu Marele Părinte.
+
+[v4]
+Murind și înviind cu El
+Vei începe o nouă viață;
+Te apropii de Emanuel;
+Crezând, te roagă cu speranță.
+
+[c4]
+Prin Tine, Doamne, sunt salvat!
+Doar mulțumiri Îți pot aduce:
+Te preamăresc, Isus, fierbinte!
+Te laud veșnic, n-am cuvinte,
+În locul meu, Tu Te-ai jertfit pe cruce.

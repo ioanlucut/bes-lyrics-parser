@@ -1,0 +1,17 @@
+[title]
+Un arici {author: {Nicolae Moldoveanu}, {rcId: {235644}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Un arici cu ochii mici, merge pe cărare,
+pare-un ghem cu țepi, mă tem! Face rău el oare?
+
+[v2]
+Nu-îmi spun, cu pare bun, că și lui, ca mie,
+Tatăl Sfânt pe-acest pământ i-a dat trup - să fie!
+
+[v3]
+Îl privesc și socotesc, cât de minunate,
+Dumnezeu cu brațul Său le-a făcut pe toate!

@@ -1,0 +1,31 @@
+[title]
+Prezenta ta {author: {Speranța}, {rcId: {194195}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Când înalți laude spre tronul sfânt,
+Slava Domnului coboară pe pământ,
+Când înalți imnuri sfinte,
+Pentru Dumnezeu,
+Iubirea Lui inundă sufletul meu!
+
+[c]
+Prezenta ta, prezența ta
+Doresc sa fie în viața mea.
+Prezența ta, prezența ta
+Îmi umple cu pace inima.
+
+[v2]
+Când înalți laude spre tronul sfânt,
+Slava Domnului coboară pe pământ,
+Când inalți imnuri sfinte,
+Pentru Dumnezeu,
+Iubirea Lui inundă sufletul meu!
+
+[e]
+Cânt doar pentru Tine
+Eu cânt doar despre Tine
+Cânt neâncetat
+Fii in veci glorificat!

@@ -1,0 +1,15 @@
+[title]
+Sa-l sarbatorim sa cantam cu to&# {author: {Anonim}, {rcId: {2768}}
+
+[sequence]
+v1,c,e
+
+[v1]
+Să-L sărbătorim, să cântăm cu toți
+Domnului un imn de slavă!
+
+[c]
+/: Să-L lăudăm, să-I cântăm un imn de slavă. :/
+
+[e]
+/: Aleluia, aleluia, alelu, aleluia. :/

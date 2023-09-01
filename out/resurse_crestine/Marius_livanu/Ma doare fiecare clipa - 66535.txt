@@ -1,0 +1,41 @@
+[title]
+Ma doare fiecare clipa {author: {Marius Livanu}, {rcId: {66535}}
+
+[sequence]
+v1,c,v2,c,c,v3,c
+
+[v1]
+Mă doare fiecare clipă
+Din viața plină de mister
+Ce mi se pare o risipă
+De nu mă-nalță către cer
+
+[c]
+Mă doare pasărea rănită
+Ce moare fără ajutor
+Și orice floare ofilită
+Când toamna vine pe ogor
+Mă doare zilnic nepăsarea
+Ascunsă-n inimi de granit
+Inimi surde la chemarea
+Părintelui din infinit
+Mă doare fiecare clipă
+Din viața plină de mister
+Ce mi se pare o risipă
+De nu mă-nalță către cer
+Mă doare zilnic nepăsarea
+Atâtor inimi de granit
+Inimi surde la chemarea
+Părintelui din infinit
+
+[v2]
+Mă doare ziua cea trecută
+Fără vreun scop, fără vreun țel
+Când știu că veșnic e pierdută
+Și alta nu va fi la fel
+
+[v3]
+Mă doare inima rănită
+De-orice păcat mă înfior
+Când floarea vieții-i ofilită
+Și toamna vine pe ogor

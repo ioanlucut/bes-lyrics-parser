@@ -1,0 +1,23 @@
+[title]
+Eu nu sunt mai mult decat fulgul de nea {author: {Nicolae Moldoveanu}, {rcId: {5832}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Eu nu sunt mai mult decât fulgul de nea
+Un joc de cristale e trecerea mea
+/: Se scutură clipa din timpul deplin
+Surâde și cade și altele vin :/
+
+[v2]
+Eu nu sunt mai mult decât un fir de parâng
+Ce coasa îl taie și furcile-l strâng
+/: Țărână rămâne și uită de el
+Și alt fir se-nalță și cade la fel :/
+
+[v3]
+Eu nu sunt mai mult ca o rază-n abis
+Dar drumul spre soare, oricând mi-e deschis
+/: Eu nu sunt luceafăr cu chip marmoreu
+Pe fruntea mea însă e scris DUMNEZEU. :/

@@ -1,0 +1,31 @@
+[title]
+Aici e casa domnului {author: {Ovidiu Liteanu}, {rcId: {187398}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Aici e casa Domnului
+E poarta către veșnicii
+/: Aici e Sfântul Dumnezeu
+Să mângâie pe-ai Săi copii :/
+
+[v2]
+Aici e-o scară către cer
+Pe ea coboară îngerii
+/: Și un izvor ce curge lin
+Să umple vase mii și mii :/
+
+[v3]
+Aici bolnavii sunt aduși
+Acei trudiți și-mpovărați
+/: Ca să-i atingă Duhul Sfânt
+Să plece-acasă vindecați
+
+[v4]
+Aici copii Domnului
+În dragoste se întâlnesc
+/:
+/: Se bucură în rugăciuni
+Pe Tatăl Sfânt îl preamăresc :
+/:/

@@ -1,0 +1,36 @@
+[title]
+Veniti cantati {author: {Nicu Wagner}, {rcId: {61686}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Veniți, cântați în cinstea Domnului,
+Cât încă este vremea harului!
+Veniți, creștini, acuma să cântăm,
+Pe Dumnezeu cu toți să lăudăm!
+
+[c]
+Veniți la Domnul, voi ce n-ați venit!
+Răsună gongul, vremea de sfârșit.
+Iar voi, ce L-ați primit, vă bucurați!
+Atâtea semne strigă lămurit:
+Isus revine iar, să-L așteptați!
+
+[v2]
+El va aduce pace pe pământ
+Și va domni, cu brațul Său cel Sfânt.
+A urii arme se vor sfărâma
+Și-n fiare pentru plug s-or transforma.
+
+[v3]
+Veniți, cântați, planete, galaxii,
+Tot universu-n sfinte simfonii!
+Văzduh și nori, păduri, câmpii cu flori
+Și tot șiragul sfintelor splendori.
+
+[v4]
+Veniți, popoare, astăzi la Isus!
+El, prin Golgota, harul ne-a adus.
+Acum e vremea să ne mântuim,
+Și-n Paradis, pe veci, cu El să fim!

@@ -1,0 +1,27 @@
+[title]
+Stau la geam {author: {Formatia Celis, Ruben Ianovici}, {rcId: {134829}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Stau la geam și privesc răsăritul de soare
+O nouă zi în dar pentru voi
+Raze de lumină se arată în zare
+Iată florile zâmbesc și vă șoptesc:
+
+[c]
+Mereu să vă iubiți din toată inima
+Tot ce rămâne-i dragostea
+Iar gândul vostru-acum se-nalță către cer
+Spre Acel ce v-a unit visul împlinit.
+Mereu să vă iubiți din toată inima
+Tot ce rămâne-i dragostea
+Iar gândul vostru-acum se-nalță către cer
+Spre Acel ce v-a unit visul împlinit.
+
+[v2]
+Clipe trec în zbor și zile senine
+Domnul v-a trimite mereu
+Iar atunci când norii vor aduce furtuna
+Să vă-ncredeți doar în El, în Dumnezeu.

@@ -1,0 +1,31 @@
+[title]
+Dumnezeu este iubire {author: {Miron Cornel}, {rcId: {184895}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Domnul Dumnezeu este iubire
+Credincios si plin de indurare
+/: Plin de dragoste si bunatate
+Dumnezeu s sfant, e drept, e mare :/
+
+[c]
+Fiinca atat de mult a iubit
+Domnul Dumnezeu
+Pe omul pacatos si ratacit
+Ca a dat ca sa moara
+Pe singurul Lui Fiu
+Ca oricine crede in El sa fie mantuit
+
+[v2]
+Care Dumnezeu este ca Tine
+Ierti nelegiuirea si pacatul
+/: Tu nu ti mania pe vecie
+Noi gasim la Tine indurare :/
+
+[v3]
+Care Dumnezeu este ca Tine
+Vei calca-n picioare a noastra vina
+/: Si vei arunca-n marea uitari
+Pacatul celor ce cred in Tine :/

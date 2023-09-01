@@ -1,0 +1,35 @@
+[title]
+Iata ce placut si cat e de dulce {author: {Anonim}, {rcId: {162952}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Iată ce plăcut și cât e de dulce
+C-al iubirii foc, fraților, ne strânge.
+Ah, cât de frumos înălțăm cântarea!
+Al iubirii foc aprinde adunarea.
+
+[c]
+/: Aici e Betelul de-altădat’,
+Aici este raiul minunat,
+Aici este Casa Domnului,
+Aici e Împărăția Lui! :/
+
+[v2]
+Fraților, veniți la a Lui picioare,
+Că-ndurarea Lui e așa de mare!
+Noi primim aici pace minunată,
+Cât e de plăcut lângă Tine, Tată!
+
+[v3]
+Haideți la Betel, că e sărbătoare,
+Duhul Sfânt, aici, ne dă vindecare!
+Voi, cei părăsiți și zdrobiti pe cale,
+Haideți să gustați bunătatea-I mare!
+
+[v4]
+Ce plăcută e, Doamne, părtășia,
+Căci prin Duhul Tău ne dai bucuria!
+Ea va continua și la Domnu-acasă,
+Sus, la nunta Sa, când vom fi mireasă.

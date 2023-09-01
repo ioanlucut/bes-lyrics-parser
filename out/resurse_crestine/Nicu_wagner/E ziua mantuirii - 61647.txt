@@ -1,0 +1,29 @@
+[title]
+E ziua mantuirii {author: {Nicu Wagner}, {rcId: {61647}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+E ziua mântuirii, prietene iubit
+Dar ziua-i pe sfârșite, tu nu ești mântuit.
+Tu stai și-amâi, dar mâine ești sigur c-ai să vii?
+Poate e cea din urmă chemare-n veșnicii.
+
+[c]
+E ziua mântuirii, dar ea e azi, acum.
+Nu amâna pe mâine, nu știi al vieții drum
+Eu am primit ieri harul, tu azi îl poți primi,
+Dar mâine nu te-asigur, că alții vor veni.
+
+[v2]
+Acum te poți decide, tu fă cum vei dori.
+În față-i veșnicia, mult timp nu va mai fi.
+Fii sincer dar cu tine, deci unde-ai s-o petreci?
+Cu Dumnezeu, sau chinuri, pierdut în veci de veci?
+
+[v3]
+În noaptea veșnciei vei auzi mereu
+Chemarea ce-ai respins-o, de-a fi cu Dumnezeu.
+Dar în vecii veciei vei lăuda în cânt
+Pe Dumnezeu, Iubirea, Isus și Duhul Sfânt.

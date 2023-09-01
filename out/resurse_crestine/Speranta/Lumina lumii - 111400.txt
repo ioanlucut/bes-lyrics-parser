@@ -1,0 +1,29 @@
+[title]
+Lumina lumii {author: {Speranța}, {rcId: {111400}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Bezna nopții s-a risipit
+Că Lumina a venit
+S-a coborât din Cerul Sfânt
+Să vină pe Pământ.
+
+[c]
+Lumina Lumii e Isus
+Lumina ce-a venit de sus
+Lumina Lumii e Isus
+Lumină fără de apus.
+
+[v2]
+Greul și amarul păcat
+De Isus a fost luat
+Oamenii ce văd lumina Sa
+Vin la Golgota.
+
+[v3]
+Nu vom mai umbla prin noroi
+Căci Isus este cu noi
+Ne luminează calea către Cer
+Isus Hristos, Emanuel.

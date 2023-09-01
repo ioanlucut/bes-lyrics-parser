@@ -1,0 +1,53 @@
+[title]
+Ce frumos atunci va fi {author: {Anonim}, {rcId: {227607}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Ce frumos atunci va fi,
+Când Isus va reveni,
+Ce frumos, ce frumos, ce frumos!
+Când va reveni Hristos, ce frumos!
+Sus, la nunta cea din cer,
+Vom sta veșnic lângă El,
+Ce frumos, ce frumos, ce frumos!
+Vom fi mireasa lui Hristos!
+
+[c]
+La nuntă-n cer vom fi și noi,
+’colo-n slăvita Casă.
+/: Sus, în Ierusalimul nou,
+Vom sta cu El la masă. :/
+
+[v2]
+Mirilor, să vă iubiți
+Pe Pământ cât voi trăiți!
+Doar iubind, doar iubind, doar iubind
+Veți ajunge biruind, doar iubind.
+Prin necazuri și nevoi,
+Să-L luați pe El cu voi:
+Pe Isus, pe Isus, pe Isus,
+Până veți ajunge sus.
+
+[c2]
+Să Îi slujiți necontenit
+Până vă cheam-Acasă.
+/: Apoi, în Raiul mult dorit,
+Să fiți a Lui mireasă! :/
+
+[v3]
+Prieten drag, te chem să vii
+De pe-a lumii căi pustii
+La Isus, la Isus, la Isus!
+El te vrea cu-n dor nespus, doar Isus.
+Dacă astăzi te grăbești
+Să te-ntorci, să Îl primești,
+Pe Isus, pe Isus, pe Isus,
+Te va duce-n ceruri sus.
+
+[c3]
+La nuntă-n cer vei fi cu noi,
+’colo-n slăvita Casă,
+/: Sus, în Ierusalimul nou,
+Vei fi și tu mireasă! :/

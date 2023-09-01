@@ -1,0 +1,45 @@
+[title]
+Tu esti odihna mea {author: {Nicolae Moldoveanu}, {rcId: {186749}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Tu ești Odihna mea,
+O, Dumnezeul meu,
+Și-n frământarea grea,
+Mi-aduci mereu,
+Har să mă liniștesc,
+Tărie să-ndrăznesc,
+Căci în iubirea Ta,
+E-odihna mea!
+
+[v2]
+Tu-mi dai puteri și-avânt,
+Spre Cerul drag,
+Cuvântul Tău cel sfânt
+Mi-e scut și steag.
+Tu calea-mi luminezi,
+Și pașii-mii îndreptezi,
+Căci în iubirea Ta,
+E-odihna mea!
+
+[v3]
+Tu-mi ești Mântuitor,
+Stăpân Ceresc,
+Putere și-ajutor
+Deplin primesc
+Să fiu pân-la sfârșit
+De Tine alipit,
+Dăci în iubirea
+Ta e-odihna mea!
+
+[v4]
+Când calea-mi voi sfârși,
+Smerit aș vrea,
+Să pot și-atunci
+Primi odihna Ta!
+Și-apoi în veci, mereu,
+O, Doamne, Domnul meu,
+Doresc să pot cânta
+Iubirea Ta!

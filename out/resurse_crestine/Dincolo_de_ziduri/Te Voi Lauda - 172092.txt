@@ -1,0 +1,65 @@
+[title]
+Te voi lauda {author: {Dincolo De Ziduri}, {rcId: {172092}}
+
+[sequence]
+v1,c,v2,c,c2
+
+[v1]
+Chiar de nori vor veni
+Eu tot te voi lăuda
+În prăpastie căzut
+Eu tot te voi lăuda
+Chiar de mi-este greu
+Eu aleg să-i cânt Lui Iahve!
+
+[c]
+Domnul vieții
+În Tine eu mă-ncred
+Chiar de-i noapte
+Și nu văd în jurul meu
+Eu tot te laud
+Și-ți cânt neîncetat
+Ești Dumnezeu minunat!
+Chiar de-i frutună
+Și mă simt slăbit
+Mă ții de mână
+Când sunt obosit
+Mă-ncred în Tine
+Și lanțurile cad
+Ești Dumnezeu minunat!
+Domnul vieții
+În Tine eu mă-ncred
+Chiar de-i noapte
+Și nu văd în jurul meu
+Eu tot te laud
+Și-ți cânt neîncetat
+Ești Dumnezeu minunat!
+Chiar de-i furtună
+Și mă simt slăbit
+Mă ții de mână
+Când sunt obosit
+Mă-ncred în Tine
+Și lanțurile cad
+Ești Dumnezeu minunat!
+Chiar de-i furtună
+Și mă simt slăbit
+Mă ții de mână
+Când sunt obosit
+Mă-ncred în Tine
+Și lanțurile cad
+Ești Dumnezeu minunat!
+
+[v2]
+De cei dragi m-au lăsat
+Eu tot te voi lăuda
+De la spate ’njunghiat
+Eu tot te voi lăuda
+Chiar de mi-este greu
+Eu aleg să-i cânt Lui Iahve!
+
+[c2]
+Domnul vieții
+În Tine eu mă-ncred
+Chiar de-i furtună
+Și nu văd în jurul meu
+Ești Dumnezeu minunat!

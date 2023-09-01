@@ -1,0 +1,33 @@
+[title]
+Speranta {author: {Simina}, {rcId: {55836}}
+
+[sequence]
+v1,c,c,v2,c,e
+
+[v1]
+Te-ai obișnuit, dar ai obosit,
+Mereu să iubești, fără să fii iubit.
+Te-ai obișnuit, dar ai obosit,
+În lumea ce trăiești, să nu fi auzit.
+
+[c]
+Oamenii te vor dezamăgi,
+Oamenii au uitat a iubi.
+Oamenii te vor dezamăgi,
+Dar nu-i nimic, tu-i poți iubi.
+
+[b]
+Un zâmbet când, atâția plâng,
+O speranță când, lumini se frâng.
+Un zâmbet când, atâția plâng
+Doar așa, lumea se va schimba.
+
+[v2]
+Te-ai obișnuit zi de zi,
+Să asculți mereu pe cei ce spun
+Doar lacrimi vor fi.
+Te-ai obișnuit, dar ai obosit,
+
+[e]
+În lumea ce trăiești,
+Fără dragul de-a trăi.

@@ -1,0 +1,42 @@
+[title]
+Mai sus de stele {author: {Puiu Chibici}, {rcId: {131638}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mai sus de stele,
+Mai sus de nori,
+Eu merg spre țara
+Veșnicei splendori
+Spre locul veșnic
+De El promis,
+Spre țara slavei,
+Spre Paradis.
+
+[c]
+Acolo unde nu sunt dureri,
+Nici griji, nici lacrimi,
+Ci sfinte mângâieri,
+Acolo unde e Împărat
+Isus Mesia, ce minunat!
+
+[v2]
+Dincol’ de zare,
+Dincol’ de-apus
+E al meu soare,
+Al meu drag Isus.
+Plutind pe marea
+Cea de cleștar
+Voi fi cu Domnul,
+Ce mare har.
+
+[v3]
+N-ai vrea și tu dar,
+Amicul meu,
+S-ajungi în ceruri
+Sus la Dumnezeu,
+La pomul vieții
+Să te găsești,
+În raiul veșnic
+Să locuiești?

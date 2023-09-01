@@ -1,0 +1,44 @@
+[title]
+Jag har b"orjat ett nytt liv {author: {Lidia Gheorghe}, {rcId: {149777}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7,v8
+
+[v1]
+Jag har börjat ett nytt liv (2x)
+Som ger mig glädje (2x)
+Glädje
+
+[v2]
+Jag är mera leende (2x)
+För jag har tacksamhet (2x)
+Tacksamhet
+
+[v3]
+Dina ord stärker mig (2x)
+Och ger mig trofasthet (2x)
+Trofasthet
+
+[v4]
+/: Och jag vill tjäna och tjäna
+Av hela mitt hjärta, Dig, Gud
+ /:
+
+[v5]
+/: Ske Din vilja i mitt liv
+Din vilja, Din vilja, min Gud
+ /:
+
+[v6]
+/: Jag vill tacka för allt
+Här på jorden och i himmelen
+ /:
+
+[v7]
+/: Jag ska ära Ditt namn
+Jag ska prisa Ditt Heliga Namn
+ /:
+
+[v8]
+För evigt, för evigt, för evigt, min Gud
+För evigt, för evigt, för evigt, amen.

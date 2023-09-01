@@ -1,0 +1,29 @@
+[title]
+Intr-o sear~a intr-o noapte de cr~aciun {author: {Anonim}, {rcId: {144182}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Intr-o seara, intr-o noapte de Craciun
+In Betleem, in Iudeea dupa cum pastorii spun
+Bunul Iosif si Maria de departe au venit
+Si s-a intamplat acolo ceva nemaipomenit
+
+[c]
+/: S-a nascut Pruncul Sfant
+Pace voua pe Pamant
+Nu uitati sa fiti mai buni
+Si sa credeti in minuni! :/
+
+[v2]
+Magii au venitatunci cand soarele a apus
+Aur, smirna si tamaie pentru Prunc ei au adus
+Steaua revarsa lumina inceput asupra lor
+Si tinandu-se de mana ingerii cantau in cor
+
+[v3]
+Ce va spun acum nu-i o poveste de copii
+Desi au trecut ani multi, mai multi de 2000
+Doar asa Craciunul are pentru toata lumea rost
+Sa va fie cald in suflet, spune mami, cum a fost?

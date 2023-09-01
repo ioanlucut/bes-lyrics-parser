@@ -1,0 +1,48 @@
+[title]
+Prezenta ta {author: {Nicolae Moldoveanu}, {rcId: {246307}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Prezența Ta m-a fericit,
+În orice loc, de orice dată,
+Cât aș fi fost de părăsit,
+Ea mi-a umplut ființa toată.
+
+[c]
+Prezența Ta-i, Isus iubit,
+Tot ce-am mai sfânt și mai dorit,
+/: ”
+Prezența Ta-i tot ce-aș mai vrea
+Să-mi umple veșnicia mea. :/
+
+[v2]
+Prezența Ta m-a mângâiat
+În orișice zdrobiri gemute,
+Când Te-am simțit m-am înălțat
+Pân-la-ndrăzniri nemaicrezute.
+
+[v3]
+Prezența Ta m-a răsplătit
+De orice pierdere-ndurată;
+Sărac eram, dar m-am simțit
+Mai fericit ca lumea toată.
+
+[v4]
+Prezența Ta m-a-mbărbătat
+Prin luptele îndelungate,
+Prezența Ta mi-a-nfiorat
+Cântările înlăcrimate.
+
+[v5]
+Prezența Ta mi-a liniștit
+Atâtea valuri și furtune,
+Și-atâtea nopți mi le-a-nsorit,
+Schimbându-mi-le-n rugăciune.
+
+[v6]
+Prezența Ta mi-e tot ce-aș vrea,
+Nu rai, nu cer, nu orice fie,
+Să Ți-o cuprind, cuprins in ea,
+Stăpân și rob pe veșnicie.

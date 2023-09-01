@@ -1,0 +1,45 @@
+[title]
+Spune-mi cat a nins {author: {Sanja Cristea Tiberian}, {rcId: {63940}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+O-ntrebare grea
+Doamne m-a ajuns
+S-o asculți aș vrea
+Și să-i dai răspuns
+
+[c]
+Spune-mi cât a nins!
+Spune-mi de e ger!
+Cât nu s-a aprins
+Soarele pe cer ?
+Spune-mi câți în zori
+Nu vor însoți
+Șirul de cocori
+Într-o nouă zi!
+
+[v2]
+Doamne cât e vis ?
+Cât mi-a mai rămas ?
+Cât îmi e permis
+Să mai cer un ceas ?
+
+[v3]
+Doamne și de-au fost
+Cum vor învia
+Morții fără rost
+Înaintea Ta
+
+[v4]
+Cum o să Te-nduri
+Să mi-i dai napoi
+Mohorâți și suri
+Fără haine noi ?
+
+[v5]
+O-ntrebare-am pus
+Doamne, că mă dor
+Dragii mei ce nu-s
+Unde-i locul lor ?

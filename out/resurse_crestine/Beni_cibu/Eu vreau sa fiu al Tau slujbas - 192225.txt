@@ -1,0 +1,40 @@
+[title]
+Eu vreau sa fiu al tau slujbas {author: {Beni Cibu}, {rcId: {192225}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Eu vreau să fiu al Tău slujbaș
+În vremea asta cruntă,
+/: Cu Tine vreau să fiu părtaș,
+Să-nfrunt ispita de-a fi laș,
+O, Doamne, îmi ajută! :/
+
+[v2]
+Eu vreau lumina Ta să fiu
+În negură și noapte,
+/: Să strălucesc în cenușiu,
+Călăuzindu-l prin pustiu
+Pe cel ce greu răzbate. :/
+
+[v3]
+Mărturisind mereu, mereu,
+Ajută-mi, Doamne, mie,
+/: Să știe toți de Dumnezeu
+Din viața și din traiul meu,
+Epistola cea vie. :/
+
+[v4]
+Și, până când mai sunt cu voi,
+Eu vreau să cânt întruna!
+/: Nu mă opresc când vin șuvoi
+Necazuri și ispite noi,
+Nu tac, eu am arvuna! :/
+
+[v5]
+Odată vreau să fiu în cer
+Pe marea străvezie...
+/: Nu mă opriți ’n-acest ungher,
+Nu vreau doar jos în efemer,
+Eu vreau în veșnicie! :/

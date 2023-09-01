@@ -1,0 +1,37 @@
+[title]
+Revelion {author: {Vali Pentea Sava}, {rcId: {232840}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Stau la cumpăna dintre ani
+Și mă gândesc la ce-a trecut
+Stau și retrăiesc
+Imagini ce nu aș dori să le revăd.
+
+[c]
+Isuse câte lacrimi Tu ai vărsat
+Pentru mine și în acest an
+Isuse prin ce locuri sumbre Te-am dus
+Și câte vorbe de ocară eu Ți-am adus.
+Isuse Tu ești singurul ce-ai rămas
+Să vindeci rănile ce alții mi le-au lăsat
+Isuse cum de poți să mă mai privești
+Și cum de poți să-mi spui și-acum că mă iubești.
+%Isuse nu mai vreau ca și-n acest an
+Pentru viața mea, pentru ce fac eu, Tu să plângi cu amar
+Isuse dă-mi putere să-Ți fiu credincios
+S-ascult mereu doar de-al Tău glas Isuse. %
+
+[v2]
+Stau cu sufletul răvășit
+Și parcă simt chiar și acum chinul cumplit
+Stau și îmi pare atât de rău
+Când înțeleg câte-am greșit lui Dumnezeu.
+
+[v3]
+Stau la început de an
+Dar fără Tine nu îmi fac niciun plan
+Tot ce vreau și tot ce îmi doresc
+Este Isuse bun pe Tine să Te slujesc.

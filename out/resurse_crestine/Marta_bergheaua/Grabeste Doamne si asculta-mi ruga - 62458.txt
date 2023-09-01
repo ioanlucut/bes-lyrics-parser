@@ -1,0 +1,41 @@
+[title]
+Grabeste doamne si asculta-mi ruga {author: {Marta Bergheaua}, {rcId: {62458}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Grăbește Doamne și ascultă-mi ruga
+Din încercarea mea cu lacrimi eu Te chem!
+Nu-ntârzia răspunde-mi o Isuse
+Ajută-mă că Tu ești Domn Suprem!
+
+[c]
+Doamne nu zăbovii
+Mâna să mi-o întinzi
+Șterge-mi lacrima
+Și dă-mi pacea Ta!
+
+[v2]
+Ai fost cu sfinții Tăi odinioară
+Când Te-au chemat Tu le-ai dat biruinți,
+Ai înviat chiar morții din morminte
+Ai mîngâiat, și-Ai șters lacrimi fierbinți.
+
+[c2]
+Doamne nu zăbovii
+Mâna să mi-o-întinzi,
+Te chem din necaz
+Domnul meu viteaz!
+
+[v3]
+Ruga mea Doamne Isus ai ascultat
+Și mâna Ta Sfîntă de jos m-a ridicat!
+Tu ai văzut că lupta era grea
+Și pe cel rău atuncia l-ai mustrat.
+
+[c3]
+Doamne te voi slăvii,
+Te voi preamării
+Mi-ai dat ajutor
+Bunul meu pastor!

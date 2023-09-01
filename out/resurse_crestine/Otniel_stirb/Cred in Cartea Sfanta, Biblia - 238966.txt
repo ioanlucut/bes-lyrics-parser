@@ -1,0 +1,35 @@
+[title]
+Cred in cartea sfanta biblia {author: {Otniel Stirb}, {rcId: {238966}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Cred în Cartea Sfântă, Biblia
+Cred tot Adevărul scris în ea
+Cred în tot ce Domnul mi-a promis
+Cred Cuvântu-așa cum este scris.
+Cred în Cel ce crucea mi-a purtat
+Cred c-a treia zi a înviat,
+Cred și eu în Noul Legământ
+Cred în Tatăl, Fiul, Duhul Sfânt.
+
+[c]
+Cred în Cartea Sfântă, Biblia
+Cred făgăduințele din ea
+Am credința dată prin Cuvânt
+Sfinților o dată pe pământ,
+Cred și știu în Cine am crezut
+El e Adevărul absolut
+/: Până-n ziua când Îl voi vedea,
+Cred în Cartea Sfântă, Biblia :/
+
+[v2]
+Cred și azi în semne și minuni
+Cred în sfintele promisiuni,
+Cred în prorocii și-n vindecări
+Cred adevăratele lucrări.
+Cred în învierea de apoi
+Cred că Domnul vine după noi
+Cred în Cel ce-Și ține-al Său Cuvânt
+Cred în Tatăl, Fiul, Duhul Sfânt.

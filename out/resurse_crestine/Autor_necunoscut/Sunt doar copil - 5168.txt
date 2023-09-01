@@ -1,0 +1,31 @@
+[title]
+Sunt doar copil {author: {Anonim}, {rcId: {5168}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Din cer Isus veni
+Să moară pe-o cruce răstignit
+Atât m-a iubit
+Că-n locul meu pedeapsa-a suferit
+
+[c]
+Sunt doar copil
+Dar viața mea Lui Isus
+De mic i-o închin
+Să fie a Lui Isus
+Că sunt liber de păcat
+Și viață veșnică prin El am câștigat
+
+[v2]
+El mă iubește mult
+De mână mă duce înspre cer
+Mă-nvață să trăiesc
+Să cresc să spun și altora de El
+
+[v3]
+Dacă-l iubești și tu
+Viață prin Isus poți avea
+El te iubește mult
+Purtă pe lemnul greu și vina ta.

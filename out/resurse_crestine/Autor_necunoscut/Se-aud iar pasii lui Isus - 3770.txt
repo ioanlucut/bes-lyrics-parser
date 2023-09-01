@@ -1,0 +1,41 @@
+[title]
+Se-aud iar pasii lui isus {author: {Anonim}, {rcId: {3770}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Se-aud iar pașii lui Isus
+Semnele spun vine Isus
+/: Toate vestesc despre sfârșit
+Te-ntreb astăzi ești pregătit. :/
+
+[c]
+/: Te-ntreb :/ x3 astăzi ești pregătit.
+
+[v2]
+De peste doua mii de ani
+De când a stat între tâlhari
+/: Isus te cheamă ca să vi
+Vino astăzi de ce amâi. :/
+
+[c2]
+/: Vino :/ x3 astăzi de ce amâi.
+
+[v3]
+Să facem azi de pe pământ
+Cu Dumnezeu un legământ
+/: Viața trece ca un vis
+Spre Rai mergem sau spre abis. :/
+
+[c3]
+/: Spre Rai :/ x3 mergem sau spre abis..
+
+[v4]
+Nu mai e mult vine Isus
+Cu slava Sa din cer de sus
+/: Spre cer privirea ne-o-ndreptăm
+Isuse drag te așteptăm. :/
+
+[c4]
+/: Isus :/ x3 Isuse drag Te așteptăm.

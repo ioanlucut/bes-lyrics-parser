@@ -1,0 +1,38 @@
+[title]
+Cantati lui dumnezeu {author: {Speranța}, {rcId: {102651}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+I Se cuvine toată cinstea
+I Se cuvine gloria
+Toate Lui îi aparțin
+Toate sunt în Mâna Sa
+A Domnului este splendoarea
+La fel și astrele pe cer
+Oameni, dați-I Slavă Lui
+Și voi ați fost creați de El
+
+[c]
+Cântați lui Dumnezeu cântări
+Voi, oamneni de pe pământ
+Închinați-vă-naintea Lui
+El e veșnic sfânt
+Cântați lui Dumnezeu cântări
+Lăudați-L pe Creator
+Dați-I cinste și mărire
+El e Domnul Domnilor
+
+[v2]
+Cuvântul Lui are putere
+Din flăcări face slujitori
+A Domnului este tăria
+Din vânturi El își face soli
+E începutul și sfârșitul
+E Dumnezeu nemărginit
+El e Alfa și Omega
+E Dumnezeu, e infinit
+
+[b]
+/: Lăudați, lăudați, lăudați pe Dumnezeu :/

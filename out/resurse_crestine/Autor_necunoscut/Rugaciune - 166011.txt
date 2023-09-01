@@ -1,0 +1,29 @@
+[title]
+Rugaciune {author: {Anonim}, {rcId: {166011}}
+
+[sequence]
+v1,c,v2,c2,e,c,c2
+
+[v1]
+Dumnezeu minunat mâna Ta m-a creat
+Ca pe-un lut frământat viața mi-ai modelat.
+
+[c]
+Dumnezeu suveran, nu vreau să fug,
+Să m-ascund de Tine.
+Te rog să schimbi în mine tot ce Tu dorești,
+Că tot ce faci este bine!
+
+[v2]
+Tu vezi perfect ce nu se vede
+Totuși, mă-ncurajezi și cu răbdare mereu mă ierți!
+
+[c2]
+În iubire m-ascunzi,
+Că ști valoarea ce-ai pus în mine.
+Cu bunătatea Ta mereu mă cucerești
+Și mă atragi înspre Tine!
+
+[e]
+Eu mă retrag și Tronul Îți cedez în viața mea
+Te recunosc Domn și Împărat adevărat.

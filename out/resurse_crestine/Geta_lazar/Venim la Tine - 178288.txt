@@ -1,0 +1,29 @@
+[title]
+Venim la tine {author: {Geta Lazăr}, {rcId: {178288}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Venim la Tine o bun Stăpâne
+Venim la Tine să ne închinăm
+Căci numai Tu ne știi prea bine
+/: Tot ce facem și tot ce lucrăm: \
+
+[c]
+/: Ochii Tăi veghează-n orice zi
+Pe întreg Pământul
+Mare ești Tu Doamne-n veci vei fi
+Mare Ti-e Cuvântul: \
+
+[v2]
+Veniți cu toții plecați genunchii
+În fața-acestui Domn, Isus Hristos
+Căci El e Cel ce-nvie moriții
+/: Slavă-I fie-n cer și-aicea jos: \
+
+[v3]
+Căci Domnul vine, se-ntoarece iarăși
+Să-Și ia Mireasa să o ducă sus
+O vino Doamne, mi-e dor de Tine
+/: O vino Mire scump și drag Isus: \

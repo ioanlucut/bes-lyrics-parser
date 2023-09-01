@@ -1,0 +1,35 @@
+[title]
+Cand te-ai coborat isuse {author: {Nicolae Moldoveanu}, {rcId: {201026}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Când Te-ai coborât, Isuse,
+Din cereasca’mpărăție,
+/: Te-a primit pe lume numai,
+Un bordei într-o câmpie :/
+
+[v2]
+Cât ai fost apoi în lume,
+Ca să chemi la mântuire,
+/: Doar bordeiele sărace,
+Te primiră cu iubire :/
+
+[v3]
+Dar Te-ai dus lsuse, Doamne,
+Stă bordeiul trist și rece,
+/: De-atunci nimeni cu iubire,
+N-a fost pragul a-i mai trece :/
+
+[v4]
+O, Isuse-acum când iarăși,
+Ne-aduci zorii bucuriei,
+/: Amintește-Ți cu’ndurare,
+De bordeiele câmpiei :/
+
+[v5]
+Cercetează-Ie, ’ncălzește,
+Cu lumina Ta, pustia,
+/: Că nu-i unul, ci e plină,
+De bordeie azi câmpia :/

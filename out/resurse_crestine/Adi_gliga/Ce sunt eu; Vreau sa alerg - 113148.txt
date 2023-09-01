@@ -1,0 +1,31 @@
+[title]
+Ce sunt eu; vreau sa alerg {author: {Adi Gliga}, {rcId: {113148}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Ce sunt eu ca să judec pe altul ?
+Ce sunt eu ca să critic mereu ?
+Osândit voi fi în răutate,
+Ce sunt eu, judecat voi fi eu.
+Ce sunt eu ca să caut ce-mi place ?
+Ce sunt eu să n-ascult Glasul Tău ?
+Nu-s averi, toate mă duc la moarte
+Însă Tu, viață-mi dai, Domnul meu.
+
+[c]
+Vreau să alerg mai aproape de Tine
+Vreau să aleg Voia Ta, Domnul meu!
+Vreau să mă ierți, să-mi arăți ce e bine
+Și să iubesc Pacea Ta, Domnul meu!
+
+[v2]
+Ce sunt eu când sunt plin de mândrie ?
+Ce sunt eu să mă laud mereu ?
+Când Tu ești Cel ce ’nalță pe omul
+Care stă în smerenie mereu ?
+Ce sunt eu să înalț mâini spre ceruri
+Când în suflet mi-e ură mereu
+Ce sunt eu, să nu iert, când Tu, Mielul
+M-ai iertat și mi-ai dat Harul Tău.

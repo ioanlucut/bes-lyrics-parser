@@ -1,0 +1,39 @@
+[title]
+Isus e domn al domnilor {author: {Anonim}, {rcId: {1154}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,e
+
+[v1]
+Isus e Domn al Domnilor
+Și Rege-al Regilor.
+Cântări de laudă înălțați
+Și Lui vă închinați.
+
+[c]
+Cu toții să cântăm
+Pe Domnul lăudăm,
+Că ne-a iubit și ne-a iertat
+Și în cer locaș ne-a dat
+Al nostru Împărat!
+
+[v2]
+Moartea și iadul le-a învins
+Pe cruce când S-a stins,
+De la pierzare ne-a scăpat
+Și viață El ne-a dat.
+
+[v3]
+Voi însetaților, veniți
+Din apă să sorbiți,
+Isus e singurul izvor,
+Cei care-L beau nu mor.
+
+[v4]
+Tu chinuit de-al tău păcat
+Vrei ca să fii scăpat?
+La crucea lui Isus de vii
+Iertare vei primi!
+
+[e]
+Al nostru Împărat!

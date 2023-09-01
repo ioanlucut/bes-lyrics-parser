@@ -1,0 +1,38 @@
+[title]
+Lucruri noi {author: {Nicu Clipa, Radu Dragoiu, Vali Misaras, Paul Onitiu, Dani Catana}, {rcId: {195513}}
+
+[sequence]
+v1,v2,c,v3,c,e,c
+
+[v1]
+Nu vă mai gândiți la ce a fost ’nainte
+Nu vă mai uitați la lucruri vechi, trecute
+Iată Eu voi face,
+Eu voi face lucruri noi!
+
+[v2]
+Lucrări mari veți vedea,
+Mai mult decat ’nainte,
+Am lucruri noi să fac
+Și-s gata să se-ntâmple,
+Iată, Eu voi face,
+Eu voi face lucruri noi!
+
+[c]
+Voi face un drum, chiar prin pustie,
+În locuri uscate va curge apă vie
+Iată, Eu voi face, Eu voi face lucruri noi!
+Vă dau Duhul Meu, vă-mbrac în putere
+Națiuni vor cunoaște căile Mele
+Iată, Eu voi face, Eu voi face lucruri noi!
+
+[v3]
+Spune-ți celor slabi, fiți tari și nu vă temeți
+Mâinile-ntăriți, în Mine vă încredeți,
+Iată, Eu voi face, Eu voi face lucruri noi!
+
+[e]
+/: Atunci șchiopii vor sări
+Orbii vor vedea,
+Surzii vor auzi,
+Iar glasul celor muți va cânta! :/

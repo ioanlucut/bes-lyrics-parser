@@ -1,0 +1,29 @@
+[title]
+De al vietii stapan {author: {Nicolae Moldoveanu}, {rcId: {230362}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+De al vieții Stăpân, Dumnezeu,
+copilași, să-nvățați s-ascultați tot mereu,
+credincioși de-I sunteți, voi, copii
+El v-aduce din cer bucurii.
+
+[c]
+Să-I cântați frumos, necontenit,
+căci doar El e Cel ce v-a iubit;
+să-nvățați să-I cântați mereu,
+El e sfânt și-ndurat Dumnezeu.
+
+[v2]
+De-al iubirii izvor preacurat,
+copilași, v-alipiți și-ndrăzniți ne-ncetat;
+el v-alină tot greul din piept,
+iubitor și milos și-nțelept.
+
+[v3]
+De-al puterii Împărat orișicând,
+copilași, mai curați, vă legați orișicând,
+pentru voi, credincios, v-a gătit
+viitor luminos și slăvit!

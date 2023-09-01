@@ -1,0 +1,41 @@
+[title]
+Lemnul crucii sfinte {author: {Beniamin Fodoreanu  HYChoir }, {rcId: {189196}}
+
+[sequence]
+v1,v2,c,v3,c,c,c
+
+[v1]
+Lemnul crucii sfinte a vorbit:
+”
+Sângele ce m-a acoperit
+Pentru a lumii vină și-al ei păcat
+Curge și astăzi pentru cel vinovat.”
+
+[v2]
+Spinii din coroana lui Isus
+Dintre fire sfinte ei au spus:
+”
+Pentru a ta iertare, om păcătos
+Am fost înfipți în fruntea lui Hristos!”
+
+[c]
+Jertfa de pe Golgota purta păcatul lumii și-al meu.
+Glorie, slăvite Rege! Isus Mesia ești Dumnezeu!
+Jertfa de pe Golgota purta păcatul lumii și-al meu
+Glorie, slăvite Rege! Isus Mesia ești Dumnezeu!
+Laudă! Veșnică-onoare! În veci mărire! A înviat!
+Slavă și adorare! Vrednic e Mielul cel junghiat!
+Laudă! Veșnică-onoare! În veci mărire! A înviat!
+Slavă și adorare Celui ce veșnic e înălțat!
+
+[v3]
+Isus dintre morți a înviat
+Și cu Tatăl sfânt m-a împăcat
+Astăzi cu bucurie pot să declar:
+Viața-i în întregime, Mărețu-I Har!
+
+[b]
+Isus e viu!
+În veci de veci trăiește!
+Al Tatălui veșnic Fiu
+În veci de veci domnește! El este! x4

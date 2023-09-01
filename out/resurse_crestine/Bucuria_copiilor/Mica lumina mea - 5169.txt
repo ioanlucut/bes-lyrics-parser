@@ -1,0 +1,31 @@
+[title]
+Mica lumina mea {author: {Bucuria copiilor}, {rcId: {5169}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+Mică lumina mea, poate-a lumina
+Mică lumina mea, poate a lumina
+Lumina, lumina, lumina.
+
+[v1]
+Chiar de-o-ascunzi nu va pieri
+Ea tot va lumina,
+Chiar de-o-ascunzi nu va pieri
+Ea tot va lumina,
+Lumina, lumina, lumina.
+
+[v2]
+Chiar satan de va sufla,
+Ea tot va lumina,
+Chiar satan de va sufla
+Ea tot va lumina,
+Lumina, lumina, lumina.
+
+[v3]
+Până Isus va veni
+Ea tot va lumina,
+Până Isus va veni
+Ea tot va lumina,
+Lumina, lumina, lumina.

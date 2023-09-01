@@ -1,0 +1,23 @@
+[title]
+Slava-ti aducem isus iubit {author: {Nicolae Moldoveanu}, {rcId: {204008}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Slavă-Ți aducem, Isus iubit,
+Căci slavă-n ceruri Tu ne-ai gătit.
+Azi slava noastră e să-Ți slujim,
+Smeriți ca Tine, așa să fim!
+
+[c]
+/: Slavă Ți-aducem, Slavă-Ți cântăm,
+Viața noastră Ție-o predăm.
+Inima noastră Ție-o jertfim,
+Slavă-Ți aducem, asta dorim! :/
+
+[v2]
+Slava cerească Tu ne-ai adus,
+Părtași la slavă prin har ne-ai pus.
+Acum chemarea iar suferim,
+Dar mâin’ răsplata slava va fi!

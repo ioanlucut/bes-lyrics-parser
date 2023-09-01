@@ -1,0 +1,31 @@
+[title]
+Un copil alearga fara nicio grija; toata lumea de-ai avea; iubire divina {author: {Adi Gliga}, {rcId: {113190}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Un copil aleargă fără nicio grijă
+E prea fericit, știe că-i iubit
+Chipul lui senin și blând încet se duce,
+Și nu întineri,
+Și furat de timpul care trece
+Parcă am uitat,
+Că iubire nu găsești de cumpărat
+
+[c]
+Toată lumea de-ai avea
+La nimic n-ar ajuta
+Nimeni nu te va-ntreba
+De-ai avut sau nu ceva..
+Dacă nu poți să iubești
+O minciună este viața ce-o trăiești
+E totul un nimic.
+
+[v2]
+Să iubești nu este-o vorbă care-apoi s-a dus
+Și nu-i un sentiment ce-i de mult apus
+Toată viața să aduni dacă ai alerga
+Să poți oferi, dar n-ai dragostea
+Ai fi doar o amăgire, și aș zice c-ai uitat
+Că iubire nu găsești de cumpărat.

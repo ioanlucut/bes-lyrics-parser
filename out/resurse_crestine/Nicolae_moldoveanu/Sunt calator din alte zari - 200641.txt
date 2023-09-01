@@ -1,0 +1,41 @@
+[title]
+Sunt calator din alte zari {author: {Nicolae Moldoveanu}, {rcId: {200641}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Sunt călător din alte zări,
+Prin lumea rea spre cer.
+Privind pe-nvolburate mări,
+Azi, Doamne, eu iți cer.
+
+[c]
+/: Putere-n luptă zi de zi,
+Lumină-n orice pas.
+Prin bezna nopților pustii,
+Condu-mă cu-al Tău glas :/
+
+[v2]
+Când năvăli-va-n jurul meu,
+Satan cu-a lui mișei.
+Tu dă-mi puteri să lupt mereu,
+Și să-i înving pe ei.
+
+[c2]
+/: De-a pururi pașii să mi-i porți,
+Pe singurul Tău drum.
+Pe care cei ce Te iubesc,
+Pășesc mereu și-acum :/
+
+[v3]
+O, sus în brațul Tău duios,
+Aș vrea și eu s-ajung.
+Dar sunt atâți ce merg în jos,
+Iar drumu-i greu și lung.
+
+[c3]
+/: Întinde-Ți mâna, scump Isus,
+Și-ajută-mă mereu.
+Mai sus să merg, mereu mai sus,
+S-ajung în Cerul Tău :/

@@ -1,0 +1,48 @@
+[title]
+In lumea aceasta eu sunt un strain {author: {Necunoscut de mine}, {rcId: {228615}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+În lumea aceasta eu sunt un străin
+A ei bucurii pentru mine sunt chin
+/: O dulce Isuse, al meu bun Păstor
+În lumea aceasta eu sunt călător :/
+
+[v2]
+În lumea aceasta eu sunt ispitit
+Dar cred că pe calea Ta, Tu m-ai primit
+/: De-oi merge înainte și nu m-oi lăsa
+În ceruri o Doamne cu Tine voi sta :/
+
+[v3]
+În lumea aceasta eu cât mai trăiesc
+Ajută-mă Doamne să mă pocăiesc
+/: Ca să fiu lumină cu viața mea
+Cu faptele mele să pot lumina :/
+
+[v4]
+Fugitau din luptă acei ce-s fricoși
+Acei neascultători și necredincioși
+/: Acei ce te ascultă, ei nu vor cădea
+Vor merge înainte cu Biserica :/
+
+[v5]
+De multe ori Doamne noi te-am supărat
+Dar faptul că Doamne pe noi ne-ai iertat
+/: Nu-i viața aceea, nici fapte eu nu am
+E mila Ta Doamne ce o căpătăm :/
+
+[v6]
+Ajută Isuse Poporului Tău
+În crâncena luptă ce-o dă cu cel rău
+/: De-om păzi credința, și nu ne-om lăsa
+În ceruri odată noi ne vom bucura :/
+
+[v7]
+Te chemăm aicea noi de pe pământ
+Și-n mâna Ta sfântă noi ne încredințăm
+/: Noi singuri Isuse, nimic nu putem
+Prin Tine Isuse noi suntem ce suntem :/
+.

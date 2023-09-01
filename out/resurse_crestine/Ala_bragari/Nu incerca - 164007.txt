@@ -1,0 +1,35 @@
+[title]
+Nu incerca {author: {Ala Bragari}, {rcId: {164007}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Nu încerca să găsești fericirea
+Printre oameni pe-ntregul pământ
+N-ai să ști când în loc de iubire
+Vei găsi numai ură într-a lor gând.
+
+[c]
+Ai să ajungi în veșnicii
+Unde locul ți-e pregătit
+Și vei rămâne în abis
+Sau pe veci în paradis.
+
+[v2]
+Nu încerca să ajungi ca bogatul
+În palate de aur să stai
+Vei vedea căci pe drumul de plecare
+Nici palate nimic nu vei lua.
+
+[v3]
+De-ai crezut și-ai păstrat legământul
+Te-ai sfințit și-ai slujit bucuros
+O răsplată în ceruri te-așteaptă
+Doar să fi mereu victorios.
+
+[v4]
+Chiar și-atunci când necaz și durere
+Te apasă până la pâmănt
+Tu să ști că Isus te așteaptă
+Te grăbește spre El mai curând.

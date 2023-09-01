@@ -1,0 +1,36 @@
+[title]
+Oare azi nu e timpul sa vii la isus {author: {Nicolae Moldoveanu}, {rcId: {5944}}
+
+[sequence]
+v1,c,v2,c,v4,c,v5,c
+
+[v1]
+Oare azi nu e timpul sa vii la Isus,
+Zilele vietii tale la El sa le-aduci?
+Oare nu e timpul sa te bucuri nespus,
+Vestea Buna in lume sa duci?
+
+[c]
+/: Oare nu e timpul? Oare nu e timpul,
+Ca sa vii tu acum la Isus? Vino, astazi!
+Oare nu e timpul? Oare nu e timpul?
+Fericit cu El vei fi nespus. :/
+
+[v2]
+Fara El, tu nu ai pace, fericire;
+Doar prin El vei gasi adevarul cel sfant.
+Deci, alearga si vei gasi mantuirea,
+De vei implini al Sau Cuvant.
+
+[v4]
+Tineretea s-o pui la picioarele Lui!
+Sa-I predai viata ta, inima si-al tau cant!
+Oare nu te gandesti sa aduci Domnului
+Toamna anilor tai pe pamant?
+
+[v5]
+Deci, asculta chemarea ce azi rasuna:
+„
+Suflete, te grabeste la El ca sa vii!”
+Si de vei cauta, vei gasi lumina,
+Si-n Isus vei avea bucurii.

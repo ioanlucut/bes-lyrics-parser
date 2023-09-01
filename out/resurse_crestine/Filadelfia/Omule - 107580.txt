@@ -1,0 +1,29 @@
+[title]
+Omule {author: {Filadelfia}, {rcId: {107580}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când am văzut mila Ta
+M-a străpuns Golgota
+Cu spini încoronat ai fost Isus
+Ce mare preț pe mine-ai pus
+
+[c]
+Isus a venit la tine, omule...
+Îți oferă izbăvire, omule...
+El te iartă și-ți dă pacea, omule!
+Să-i predai Lui toată viața, omule.
+
+[v2]
+Tu ai răbdat și-ai suferit
+Atunci când toți te-au batjocorit
+Ai fost o stea din Dumnezeu
+Te voi iubi mereu, mereu
+
+[v3]
+Prin tot ce ești eu am aflat
+Că m-ai iubit și tot mi-ai dat
+Să fiu supus la-l Tău Cuvânt
+Aceasta-i viața pe pământ

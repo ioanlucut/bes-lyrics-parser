@@ -1,0 +1,29 @@
+[title]
+Un nume ca roua {author: {Anonim}, {rcId: {237446}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Un Nume ca roua coboară din ceruri,
+Inundă natura, pământul mereu,
+În cântec de păsări, culori și parfumuri,
+E-un Nume din ceruri, din cer: DUMNEZEU.
+
+[c]
+: Dumnezeu: Dumnezeu, ce minunat!
+: Numele Său: Numele Său
+Răsună-n lung și-n lat,
+DUMNEZEU.
+
+[v2]
+Măreț Universul cu stele și astre,
+Întreg necuprinsul de taine și vis,
+Și îngeri în ceruri, în coruri mărețe,
+Îl cântă pe-Acela ce stă-n Paradis.
+
+[v3]
+Iar omul, ce este măreață făptură,
+Creată din lut, din țărână e,
+Să-I cânte întruna cu-ntreaga făptură,
+Să-I cânte din suflet, cu râvnă și zel.

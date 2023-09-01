@@ -1,0 +1,30 @@
+[title]
+Cum traiesti asa ramane {author: {Ilie Neagu}, {rcId: {153093}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Fii doritor de-a fi lumină
+În fiecare zi
+Căci ziua care e trecută
+N-o vei mai întâlni. :/
+
+[c]
+/: Cum trăiești în astă lume
+Așa rămâne, rămâne scris
+Tot ce faci în viața aceasta
+Așa rămâne, nu poți schimba. :/
+Nu poți schimba.
+
+[v2]
+/: Fii doritor de-a te sfinți
+Ai grijă de greșești
+Căci ziua care ai pierdut-o
+Nu poți s-o retrăiești. :/
+
+[v3]
+/: Trăiește-ți timpul ca și cum
+E ultimul tău ceas
+Căci nu știi clipa când tu pleci
+Și-n urmă ta ce lași... :/

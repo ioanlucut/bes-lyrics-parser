@@ -1,0 +1,48 @@
+[title]
+Te preamarim pe tine {author: {Nicolae Moldoveanu}, {rcId: {243944}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Te preamărim pe Tine Tatăl,
+Ceresc și Unic Dumnezeu,
+Cel Căruia se-nchină toate,
+/: Oștirile cerești mereu! :/
+
+[c]
+Te preamărim, și ne-nchinăm,
+Și-n veci dorim să-Ți înălțăm,
+Mărire-n Cer și pe pământ,
+Numelui Tău cel sfânt, sfânt, sfânt
+Mărire Numelui Tău sfânt!
+
+[v2]
+Te preamărim pe Tine Tatăl,
+Atotputernic și slăvit,
+Cel Căruia Îi cântă ceruri
+/: De Heruvimi necontenit! :/
+
+[v3]
+Te preamărim pe Tine Tatăl,
+În care viața toți ne-avem,
+Ccăci bunătatea Ta ne ține,
+/: Cât Tu voiești, atât suntem! :/
+
+[v4]
+Te preamărim pe Tine Tatăl
+Prin Fiul Tău Isus Hristos,
+Căci El e slava Ta prin care,
+/: Faci totul sfânt și luminos! :/
+
+[v5]
+Te preamărim pe Tine Tatăl,
+Prin Duhul Tău Ceresc și Sfânt
+Căci Tu prin El ne dai viață,
+/: Îndemn și pază pe pământ! :/
+
+[v6]
+Te preamărim pe Tine Tatăl
+Chemând doritul veac divin,
+Când Cerul și pământul una
+/: Îți vor cânta la fel, amin. :/

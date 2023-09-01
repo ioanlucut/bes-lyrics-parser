@@ -1,0 +1,32 @@
+[title]
+Sa-l sarbatorim {author: {Anonim}, {rcId: {144860}}
+
+[sequence]
+v1,b,c,v2,b,c
+
+[v1]
+/: Să-L sărbătorim,
+Să-I cântăm cu toți
+Domnului un Imn de Slavă! :/ -
+
+[b]
+/: Să-L Lăudăm,
+Să-I cântăm un Imn de Slavă!
+Să-L Lăudăm,
+Să-I cântăm un Imn de Slavă! :/ -
+/: Să-L lăudăm,
+Să-I cântăm un Imn de Slavă!
+Să-L lăudăm,
+Să-I cântăm un Imn de Slavă! :/ -
+
+[c]
+/: Aleluia, Aleluia, Aleluia Aleluia
+Să-i cântăm un Imn de Slavă! :/
+/: Aleluia! Aleluia! Aleluia! Aleluia!
+Să-i cântăm un Imn de Slavă! :/
+
+[v2]
+/: Isus este Domn,
+pe El vreau să înalț
+Vreau să-I cânt
+Un Imn de Slavă! :/ -

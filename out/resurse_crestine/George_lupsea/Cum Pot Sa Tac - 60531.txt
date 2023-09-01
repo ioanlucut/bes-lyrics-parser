@@ -1,0 +1,35 @@
+[title]
+Cum pot sa tac {author: {George Lupsea}, {rcId: {60531}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Eu n-am stiut ca-n ochii tai sint mare
+Caci de copil pe mine mai chemat
+Mai pus pe buze Doamne o cintare
+Sa cint sa te slavesc ne-incetat
+
+[c]
+/: Cum pot sa tac cind pasarile-ti cinta
+Si florile prin frumusetea lor
+De-acea vreau si eu sa-iti cint Isuse
+Sa te slavesc cu ingeri in cor :/
+
+[v2]
+Na-m inteleles atunci a Ta chemare
+Fiind prea mic eu nu te-am cunoscut
+Dar tu-ai vegheat asupra vietii mele
+Si chiar de foc o Doamne mai pazit
+
+[v3]
+Tu ai avut atunci cu mine
+La planul tau O Doamne ai vegheat
+Ca cel rau sa nu strice-a Ta lucrare
+Si sa distruge tot ce Tu-ai creat
+
+[v4]
+Iar azi cind simit prezenta-n adunare
+Te preamaresc cu Tot ce Tu mi-ai dat
+Si vrea sa fie o jerfta a mea lucrare
+Caci Tu esti sfint si cel mai minunat

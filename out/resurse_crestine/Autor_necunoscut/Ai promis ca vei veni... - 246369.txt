@@ -1,0 +1,35 @@
+[title]
+Ai promis ca vei veni {author: {Anonim}, {rcId: {246369}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ai promis că vei veni...
+Că, în cer, mă vei răpi!
+Grâul îi copt, și vara a sosit;
+Însă, Tu, scump Mire, n-ai venit!
+
+[c]
+/: Holda e coaptă! Holda e coaptă!
+La seceriș, mi-ai spus, că: vei veni!
+Că sus, pe nori, ne ’om întâlni;
+Că mă așteaptă nunta, în veșnicii! :/
+
+[v2]
+Reze calde strălucesc...
+Spicele se unduiesc!
+Doar ușor adie, vântul sfânt;
+Rodul se apleacă, spre pământ!
+
+[v3]
+Oare, când vei apărea?
+La amiaz’... Te voi vedea?
+Sau, în faptul serii vei veni;
+Sau revii chiar mâine, în zori de zi!
+
+[v4]
+Copt e rodul, și bogat...
+Iar veșmântul, mi-e curat!
+Semnele, acum, s-au împlinit...
+Vino! Te aștept, Isus iubit!

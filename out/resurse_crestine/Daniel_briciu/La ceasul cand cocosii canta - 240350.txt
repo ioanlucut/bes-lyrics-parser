@@ -1,0 +1,39 @@
+[title]
+La ceasul cand cocosii canta {author: {Daniel Briciu}, {rcId: {240350}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+La ceasul când cocoșii cântă,
+Îmi amintesc cum te-au trădat
+Acei ce-n noaptea cea adâncă
+Credincioșie ți-au jurat.
+
+[c]
+/: Isuse, Isuse, mă-ntorc și eu acum smerit,
+Isuse, Isuse, primește-mă, o, Domn iubit! :/
+/: Isuse, Isuse, mă-ntorc și eu acum smerit,
+Isuse, Isuse, primește-mă, o, Domn iubit! :/
+/: Isuse, Isuse, mă-ntorc și eu acum smerit,
+Isuse, Isuse, primește-mă, o, Domn iubit! :/
+/: Isuse, Isuse, primește și sufletul meu,
+Isuse, Isuse, ești Domnul meu și Dumnezeu :/
+
+[v2]
+La ceasul când cocoșii cântă
+Mă cercetez și eu smerit
+Și-mi amintesc că și eu, Doamne,
+De-atâtea ori te-am părăsit.
+
+[v3]
+La ceasul când cocoșii cântă
+Îmi amintesc cum m-ai iertat
+Când de la focuri de-ndoială
+M-am ridicat și te-am urmat.
+
+[v4]
+La ceasul când cocoși mai cântă,
+Te cercetează și tu, dar,
+De nu primești iertarea-I sfântă
+Rămâi pe veci cu-n plâns amar.

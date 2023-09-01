@@ -1,0 +1,32 @@
+[title]
+Cu bucurie la nunta voastra {author: {Dorel Breabăn}, {rcId: {199530}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cu bucurie la nunta voastră,
+Ne închinăm în fața Celui sfânt.
+Prezența Lui dorim să fie
+Când vă jurați credincioșie,
+Mire, mireasă, prin legământ.
+
+[c]
+/: Noi vă dorim să fiți fericiți!
+Viață frumoasă de-acum să trăiți!
+Dar, mai mult ca orice, vă dorim:
+La nuntă-n cer să ne întâlnim! :/
+
+[v2]
+Avem în fața noastră, astăzi,
+Ca un simbol al nunții Mielului;
+Luați exemplu de iubire,
+Scumpă mireasă și tu, mire,
+El S-a jertfit pentru Mireasa Lui.
+
+[v3]
+Aproape este clipa cea mare:
+În alb veșmânt, Mireasa va zbura
+Când vom pleca cu bucurie
+Spre-a cerului împărăție,
+În jurul lui Isus ne-om aduna.

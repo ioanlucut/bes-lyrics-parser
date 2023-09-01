@@ -1,0 +1,20 @@
+[title]
+Ti s-a aratat ce este binele {author: {Anonim}, {rcId: {5093}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Ți s-a arătat ce este binele.
+Și ce alta cere Domnul de la tine,
+Decât să umbli pe căile drepte.
+
+[v2]
+Ți s-a arătat ce este binele.
+Și ce alta cere Domnul de la tine,
+Decât să umbli cu milă prin lume.
+
+[v3]
+Ți s-a arătat ce este binele.
+Și ce alta cere Domnul de la tine,
+Decât să umbli smerit cu Dumnezeu.

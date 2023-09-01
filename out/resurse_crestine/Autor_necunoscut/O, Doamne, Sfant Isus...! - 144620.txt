@@ -1,0 +1,28 @@
+[title]
+O doamne sfant isus {author: {Anonim}, {rcId: {144620}}
+
+[sequence]
+v1,v2,e
+
+[v1]
+O, Doamne, Sfânt Isus,
+Cel ce-Ai iubit
+Micuții copilași
+Și i-Ai Primit,
+/: Te Rugăm și acum,
+Primește-acest copil!
+Tu să-l păzești
+Și să-l sfințești! :/
+
+[v2]
+Când mare el va fi,
+Să poată sta neclintit
+Pe Sfânta Cale a Ta!
+/: Plăcerea sa, mereu,
+Să fie Dumnezeu!
+Să fie-un sfânt,
+Aici, pe pământ! :/
+
+[e]
+Să fie-un sfânt,
+Aici, pe pământ!

@@ -1,0 +1,29 @@
+[title]
+Isus te cheama astazi {author: {Grupul Filadelfia}, {rcId: {164005}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Crede în Domnul Isus
+Care viața ți-a dat și trăiești
+Numai prin Domnul Isus
+Fericire în viață primești.
+
+[c]
+Isus Te cheamă astăzi, tu vino degrabă
+Predă-i viața Lui și El pacea-ți v-a da
+Iubire și iertare în cale o să vadă
+Acel ce crede în Domnul din inima sa.
+
+[v2]
+Gânduri, gânduri deșarte
+În viață apar da să ști
+Toate, toate-s uitate,
+Dacă astăzi la Domnul tu vii.
+
+[v3]
+Toate zilele vieții,
+Domnul Isus ne v-a ocroti
+Multă, multă iubire Dumnezeu,
+Azi îți v-a dărui.

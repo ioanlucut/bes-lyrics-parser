@@ -1,0 +1,25 @@
+[title]
+Cu fiecare zi sa-ncepi o dragoste mai plina {author: {Anonim}, {rcId: {74316}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Cu fiecare zi să-ncepi o dragoste mai plină
+/: Mai avântat și mai ușor să zbori înspre lumină :/
+
+[v2]
+Cu fiecare zi să faci un legământ mai tare
+/: Să te-alipești mai hotărât de Domnul cu-ascultare :/
+
+[v3]
+Cu fiecare zi să-ți iei un nou îndemn de luptă
+/: Și viața tot mai mult s-o ai de lumea asta ruptă :/
+
+[v4]
+Cu fiecare zi să duci mai liniștit povara
+/: În slujba Celui ce-a purtat de dragul tău ocara :/
+
+[v5]
+Căci dacă focul nu-l învii cu untdelemn mai tare
+/: Cu fiecare zi mai mult se stinge-ncet și moare. :/

@@ -1,0 +1,44 @@
+[title]
+Si eu astazi merg spre tine {author: {Ionel Saran Bochis}, {rcId: {111166}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Când Tu mai chemat la Tine
+Eu eram pe căi străine
+/: Mi-ai șoptit cu-a Ta Iubire
+Vino azi la mîntuire :/
+
+[c]
+/: Și eu astazi merg spre Tine
+Eu alerg mereu-nainte
+Sus, sus la cruce
+Merg să mă-ntîlnesc cu Tine
+Și să-mi ștergi orice suspine :/
+
+[v2]
+M-ai chemat la mîntuire
+Mi-ai dat din a Ta Iubire
+/: Și mi-ai dat din Duhul Tău
+Ca să fiu pe veci al Tău :/
+
+[c2]
+/: Și eu astazi merg spre Tine
+Eu alerg mereu-nainte
+Sus, sus la cruce
+Merg să mă-ntîlnesc cu Tine
+Și să-mi ștergi orice suspine :/
+
+[v3]
+M-ai făcut copilul Tău
+Și m-ai ocrotit de rău
+/: Te slăvesc cu umiliță
+Pentrucă mi-ai dat Ființă :/
+
+[c3]
+/: Și eu astazi merg spre Tine
+Eu alerg mereu-nainte
+Sus, sus la cruce
+Merg să mă-ntîlnesc cu Tine
+Și să-mi ștergi orice suspine :/ x3

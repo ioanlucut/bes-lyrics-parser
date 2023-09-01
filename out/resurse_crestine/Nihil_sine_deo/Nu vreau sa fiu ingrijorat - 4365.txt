@@ -1,0 +1,32 @@
+[title]
+Nu vreau sa fiu ingrijorat {author: {Nihil sine Deo}, {rcId: {4365}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Nu vreau sa fiu ingrijorat
+Nu vreau sa fiu nici intristat
+Mai bine il laud pe El neincetat
+Nu vreau sa fiu impovarat
+Nu vreau sa fiu nici apasat
+Mai bine il laud pe El neincetat
+
+[c]
+/: Da, da, da, da
+Doamne da
+Tu esti bucuria mea
+Eu te laud si ma inchin
+Amin :/
+
+[v2]
+Eu stiu ca-n viata asta voi avea
+Multe necazuri
+Dar nu vreau sa ma las
+Sunt binecuvantat
+Esti cu mine pas cu pas
+Isus Tu m-ai salvat
+
+[e]
+Daca seara oftez plang si strig
+Sunt vesel dimineata

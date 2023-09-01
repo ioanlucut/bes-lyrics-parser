@@ -1,0 +1,35 @@
+[title]
+Mereu te framanti {author: {Vasile și Dani Bălan}, {rcId: {6591}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Mereu te frămânți, te zbați fără rost
+Prin valuri cumplite ți-e greu
+/: De ce nu vii azi, de ce nu te-ntorci
+Te-așteaptă acum Dumnezeu. :/
+
+[c]
+Întoarce-te, prietene iubit,
+Primește acum mântuirea,
+Renunță la viața ce-ai trăit
+Și Domnul îți dă fericirea.
+
+[v2]
+Privește în trecut, cum anii s-au dus
+Și tu i-ai trăit fără rost
+/: De ce nu vii azi, de ce nu te-ntorci
+Te cheamă Domnul Hristos. :/
+
+[v3]
+De ce nu înțelegi că toate se duc
+Tu ești trecător pe pământ
+/: De ce nu vii azi, de ce nu te-ntorci
+Te cheamă acum Duhul Sfânt. :/
+
+[v4]
+Nu mai amâna, întoarce-te acum
+Ți-e sufletul greu de păcat
+/: Te-așteaptă acum, Păstorul cel bun
+Acum mai poți fi iertat. :/

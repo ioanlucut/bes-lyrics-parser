@@ -1,0 +1,33 @@
+[title]
+Alelulia doamne {author: {Rugul aprins}, {rcId: {166763}}
+
+[sequence]
+v1,c,v3,c,v3,c
+
+[v1]
+/: Nimeni nu-i ca Tin’ de sfânt
+Nici în cer nici pe pământ,
+O Domnul meu!
+Tu ești bucuria mea,
+Pe tine te voi lăuda
+O Domnul meu! :/
+
+[c]
+/: Aleluia Doamne te slăvesc,
+Aleluia Doamne îți mulțumesc,
+Aleluia Tu ești stânca mea
+Și cetățuia mea! :/
+
+[v3]
+/: Aduci iertare în viața mea,
+Ești cel ce poate vindeca,
+O Domnul meu!
+De aceea cât eu voi trăi,
+Pe Tine mă voi bizui
+O Domnul meu! :/
+/: Sunt copleșit de Tin’ Isus
+De ce în mine Tu ai pus
+O Domnul meu!
+Ești tot ce am în viața mea,
+Eu am primit din mâna Ta
+O Domnul meu! :/

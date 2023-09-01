@@ -1,0 +1,30 @@
+[title]
+Inconjurati de prezenta ta {author: {Zao Thusia}, {rcId: {74122}}
+
+[sequence]
+v1,v2,c,e
+
+[v1]
+Înconjurați de prezența Ta
+Cântăm, o, Doamne, iubirea Ta,
+Înconjurați de puterea Ta
+Cântăm: „
+Aleluia”!
+
+[v2]
+Înconjurați de splendoarea Ta
+Îți aducem toată lauda,
+Înconjurați de lumina Ta
+Cântăm: „
+Aleluia”!
+
+[c]
+Aleluia, aleluia, Domn al domnilor
+Aleluia, aleluia, Rege-al regilor
+Sfânt Isus!
+
+[e]
+Cânt aleluia, prezența Ta-i aici
+Toată gloria Ți-aduc,
+În strălucirea Ta Te pot vedea acum
+Eu vocea îmi înalț și strig: Aleluia!

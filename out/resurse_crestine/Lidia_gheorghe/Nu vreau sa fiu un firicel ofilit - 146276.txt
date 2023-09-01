@@ -1,0 +1,37 @@
+[title]
+Nu vreau sa fiu un firicel ofilit {author: {Lidia Gheorghe}, {rcId: {146276}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Nu vreau să fiu
+Un firicel ofilit.
+Nu vreau să fiu
+Un lucru de nimic.
+Nu vreau să fiu
+Departe de Tine,
+De-al Tău Cuvânt,
+De Duhul Tău cel Sfânt.
+
+[c]
+Doresc să te slujesc
+Doresc să Îți vestesc
+Numele Tău cel Sfânt
+Cât voi trăi pe pământ.
+
+[v2]
+Nu vreau să fiu
+Nici rece nici căldicel.
+Nu vreau să fiu
+Așa departe de El.
+Nu vreau să fiu
+În destrăbălare.
+Vreau să trăiesc
+În neprihănire.
+
+[c2]
+Doresc să fiu în clocot
+Prin Duhul Tău cel Sfânt.
+Doresc să mă-nflăcărez
+Cât mai e har pe pământ.

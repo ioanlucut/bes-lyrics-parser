@@ -1,0 +1,35 @@
+[title]
+La a ta chemare vin {author: {Lewis Hartsough}, {rcId: {1728}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+La a Ta chemare vin,
+’naintea Ta pasesc
+Si-n sangele-ti ce-odata a curs
+Vreau sa ma mantuiesc.
+
+[c]
+La Tine vin cu drag,
+Isuse indurat;
+Ma spala-n sangele-Ti divin,
+Pe Golgota varsat.
+
+[v2]
+Eu stiu ca-n harul Tau,
+Tu toate imi vei da,
+Si orice urma de pacat
+O sterge mila Ta
+
+[v3]
+Cuvantul Tau mi-ai dat
+Si pace mi-ai promis,
+Odihna dulce si-adapost
+Ca parte Tu mi-ai scris.
+
+[v4]
+Isuse, fii slavit,
+Lucrarea Ti-ai sfarsit;
+Prin sangele ce L-ai varsat
+Pe noi ne-ai fericit.

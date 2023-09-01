@@ -1,0 +1,29 @@
+[title]
+De mine doamne tu sa-ti amintesti {author: {Anonim}, {rcId: {3808}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+De mine, Doamne, Tu să-ți amintești
+Și iartă-mi greșurile tinerești!
+Iubirea Ta să fie asupra mea,
+Mai mult să împlinesc eu voia Ta.
+
+[c]
+/: Adu-ți aminte de-a mea silință
+Căci pentru cauza evangheliei am luptat
+Am mers-nainte, cu sârguință,
+Deși, am fost de încercări înconjurat. :/
+
+[v2]
+Așa precum Neemia a învins
+Când mâna Ta, o Doamne, Ți-ai întins
+Așa spre mine, Doamne, să privești;
+Cu brațul tău, tu să mă izbăvești.
+
+[v3]
+Aștept ca într-o zi să izbutesc
+Încât eu ție, să îți mulțumesc;
+Să fii, Isuse Doamne, îndurător
+Să vadă azi întregul Tău popor.

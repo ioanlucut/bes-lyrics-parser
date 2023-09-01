@@ -1,0 +1,23 @@
+[title]
+E-o zi mult mai deosebita {author: {Anonim}, {rcId: {4911}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+E-o zi mult mai deosebită
+E-o zi așa diferită,
+O zi dorită-n care eu vin
+În casa Ta, Doamne, eu vin.
+
+[c]
+/: Aici este Templul Tău sfânt,
+Aici atât de-aproape Te simt,
+Aici sunt frații mei, cu ei cânt: Aleluia,
+Să cânt în Templul Tău cel sfânt. :/
+
+[v2]
+Să fie o zi deosebită,
+Să fie o zi minunată,
+O zi dorită-n care eu vin
+În casa Ta, Doamne, eu vin.

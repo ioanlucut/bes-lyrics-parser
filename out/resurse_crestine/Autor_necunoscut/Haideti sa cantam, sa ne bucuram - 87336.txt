@@ -1,0 +1,30 @@
+[title]
+Haideti sa cantam sa ne bucuram {author: {Anonim}, {rcId: {87336}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Haideți să cântăm, să ne bucurăm
+Să strigăm cu toții: ”
+Osana!”
+Mirele Isus așa cum a promis
+În curând pe nori va reveni :/
+
+[c]
+/: Inima, inima mea va sălta
+Gura mea, gura mea Îi va cânta
+Ochii mei, ochii mei îl vor vedea
+Și atunci cu toții ne vom bucura :/
+
+[v2]
+/: Haideți să cântam, să ne bucurăm
+În curând vine Mesia
+Viața El Și-a dat pentru al meu păcat
+De la moarte, Doamne, m-ai salvat :/
+
+[v3]
+/: Haideți să cântam slavă, în veci să-I dăm
+Celui ce-a murit pe-o cruce
+Nu mai este mult, Îl vom revedea
+Îmbrăcat în mare slava Sa :/

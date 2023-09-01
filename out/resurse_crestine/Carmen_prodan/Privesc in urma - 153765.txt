@@ -1,0 +1,45 @@
+[title]
+Privesc in urma {author: {Carmen Prodan}, {rcId: {153765}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c2
+
+[v1]
+Privesc în urmă la anii ce s-au scurs
+Și-mi zboară gândul Doamne către Tine
+Căci numai Tu știi drumul ce-am parcurs
+Cu lacrimi, cu dureri și cu suspine.
+
+[c]
+Dar n-aș dori să schimb viața mea
+Nici chiar cu cea mai fericită-n lume
+Căci tocmai încercarea cea mai grea
+M-a condus mai aproape de Tine.
+
+[v2]
+Privesc în urmă la tinerețea mea
+Și văd cum zboară fără încetare
+A mai rămas puțin, puțin din ea
+Curând s-a scuturat ca și o floare.
+
+[v3]
+Privesc adesea la cei din jurul meu
+Și nu mă leagă nimic de-această lume
+Tot ce-mi doresc e, Doamne, harul Tău
+Și să mă strigi când veni veni, pe nume.
+
+[v4]
+Așa odată am scris în vers duios
+Și glasu-mi trist se înălța spre Tine
+Fără să știu că și aici jos
+Ai bucurii nespuse pentru mine.
+
+[c2]
+Căci azi trăiesc reale sărbători
+Și-nalț spre ceruri simfonii divine
+Să știe toți că am un Dumnezeu
+Ce a făcut minuni și pentru mine.
+Ne-ai dăruit mai mult decât am vrut
+Și-am îndraznit, Isus, să-Ți cer vreodată
+/: Ce pot să spun și cum să-Ți mulțumesc?
+Iubirea Ta, o Doamne-i minunată.

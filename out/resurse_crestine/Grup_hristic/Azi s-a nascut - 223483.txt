@@ -1,0 +1,27 @@
+[title]
+Azi s-a nascut {author: {Grup Hristic}, {rcId: {223483}}
+
+[sequence]
+v1,c,v2,c,v1,v2,c
+
+[v1]
+Azi S-a născut în Betleem Mesia,
+Și mare-i bucuria, planul sfânt s-a împlinit.
+Iată-n sfârșit venita mântuirea,
+Ce ne-a promis Mesia prin proroci când s-a vestit.
+
+[c]
+Aleluia, aleluia,
+S-a născut Domnul aleluia amin.
+Aleluia, aleluia,
+S-a născut Domnul aleluia amin.
+Aleluia, aleluia,
+S-a născut Domnul aleluia amin.
+Aleluia, aleluia,
+S-a născut Domnul aleluia amin.
+
+[v2]
+Da S-a născut și-n inimă Mesia,
+Și mare-i bucuria, planul sfânt s-a împlinit.
+Iată-n sfârșit venita mântuirea,
+Ce ne-a promis Mesia prin proroci când s-a vestit.

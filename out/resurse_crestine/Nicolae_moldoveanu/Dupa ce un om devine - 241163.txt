@@ -1,0 +1,29 @@
+[title]
+Dupa ce un om devine {author: {Nicolae Moldoveanu}, {rcId: {241163}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+După ce un om devine,
+Mai asemeni cu Hristos,
+/: Ascultarea lui tăcută :/
+/: Strălucește mai frumos. :/
+
+[v2]
+După ce a lui credință,
+Mai aprinsă-i în Hristos,
+/: Rodul faptelor smerite :/
+/: Strălucește mai frumos. :/
+
+[v3]
+După ce mai cu iubire,
+Caută pe-alții, ca Hristos,
+/: Viața lui schimbată-n aur :/
+/: Strălucește mai frumos. :/
+
+[v4]
+După ce mai mult râvnește
+Spre mai sus, uitând de jos,
+/: Fața lui tot mai cerească :/
+/: Strălucește mai frumos. :/

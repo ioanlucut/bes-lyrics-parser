@@ -1,0 +1,32 @@
+[title]
+Eu cred in dumnezeu eu cred in fiul sau {author: {Anonim}, {rcId: {151259}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Eu cred în Dumnezeu, eu cred în Fiul Său
+Eu cred în Dumnezeu
+Ce m-a iertat de-al meu păcat
+Eu cred că a-nviat, la cer s-a înălțat
+Eu cred că va venii
+Și ne-a răpii în veșnicii.
+
+[c]
+Credința mea e-n El,
+Nădejdea mea e-n El,
+Există Dumnezeu cu-adevărat
+Cristos a Înviat!, la cer S-a înălțat
+Osana! Lui Isus neîncetat.
+
+[v2]
+Ologi s-au vindecat, iar șchiopii au umblat
+Leproșii curățați, strigau, Osana! lui Isus
+Pe orbi i-a vindecat, păcate l-ea iertat
+Cu toți se bucurau, strigând, Osana lui Isus
+
+[v3]
+De vrei și tu să crezi, acum în Dumnezeu,
+Vei fi eliberat, pe veci și tu poți fi salvat
+Încrede-te în El, predă-ți viața ta
+Să poți și tu cânta, acum și-n veci spre slava Sa.

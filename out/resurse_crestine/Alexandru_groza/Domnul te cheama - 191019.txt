@@ -1,0 +1,33 @@
+[title]
+Domnul te cheama {author: {Alexandru Groza}, {rcId: {191019}}
+
+[sequence]
+v1,b,c,v2,c
+
+[v1]
+Dumnezeu te cheamă azi să faci un nou început
+El de-atâtea ori în an te-a ridicat
+El te cheamă să-L urmezi, să-ți dea har să fii salvat
+Omule, la pocăință ești chemat!
+
+[b]
+Nu privi-napoi, uită totul ce-a fost ieri
+Dumnezeu te cheamă să faci primul pas
+Știi că ai greșit, pocăiește-te din nou
+Vin’ la cruce, spune-I Domnului Isus
+
+[c]
+Domnul te iartă, din nou spune-I Lui
+O nouă șansă la viață tu ai
+Cere-ndurare, la cruce primești
+Mântuirea sufletului tău când Îl mărturisești
+Zilele zboară și anii se duc
+Și Domnul te cheamă la un nou început
+O nouă șansă la viață tu ai
+Să-l primești acum în sufletul tău, veșnicie ai!
+
+[v2]
+Dumnezeu te cheamă azi să faci un nou început
+El de-atâtea ori te-a binecuvântat
+Te iubește ne-ncetat, părăsește-al tău păcat
+Omule, pune-ți viața-n ordine!

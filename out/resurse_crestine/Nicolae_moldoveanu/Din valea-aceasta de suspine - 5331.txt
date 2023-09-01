@@ -1,0 +1,35 @@
+[title]
+Din valea-aceasta de suspine {author: {Nicolae Moldoveanu}, {rcId: {5331}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Din valea-aceasta de suspine, Isuse, eu Te chem cu dor;
+Când valuri mari izbesc în mine, Isuse, vino-n ajutor!
+
+[c]
+Isuse scump, în a mea barcă,
+Tu să rămâi necontenit
+Și-apoi, la cârma vieții mele,
+să fii mereu, pân’ la sfârșit!
+
+[v2]
+Când gata sunt să cad pe cale, să fii cu mine, tot mereu!
+De șchiopătez, Tu dă-mi putere și mă ridică, Domnul meu!
+
+[v3]
+Când încolțește iarăși firea, cu roada-amară pe pământ,
+O, vino Tu, fă-o să moară, prin roada Duhului Tău Sfant.
+
+[v4]
+Daca-am rămas în neveghere, și-am adormit, o, Domnul meu,
+Tu să nu treci pe lângă mine ci, să mă scoli din somnul greu!
+
+[v5]
+Ai spus, prin sulul Cărții Sfinte că trestia frântă, Tu n-o frângi,
+Iar candela ce-aproape-i stinsă, o curățești și nu o stingi.
+
+[v6]
+Te rog să vii și-n încercare, să fii cu mine ne’ncetat!
+Când nu mai pot, Tu mă-ntărește, căci Tu ești sprijin minunat.

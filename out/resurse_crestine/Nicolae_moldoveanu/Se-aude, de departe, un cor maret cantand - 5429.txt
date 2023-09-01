@@ -1,0 +1,29 @@
+[title]
+Se-aude de departe un cor maret cantand {author: {Nicolae Moldoveanu}, {rcId: {5429}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Se-aude, de departe, un cor măreț cântând
+De sunete și harfe, un glas duios chemând,
+O, vino, vino astăzi, cu noi te bucură
+Și lasă lumea și păcatul, Mie te predă acum!
+
+[c]
+Ascultă dar acum chemarea dulce-a lui Isus
+Și adu-n dar inima Domnului Isus,
+Căci El te vrea, te vrea și te-a-ajuta
+Să mergi cântând pe calea Sa!
+
+[v2]
+Acesta este glasul Domnului Isus;
+Ce mult așteaptă ceasul când tu-I vei fi supus!
+O, nu-L lăsa s-aștepte, ci vino chiar acum
+Și te predă ca să-I urmezi ca unui bun Stăpân al tău.
+
+[v3]
+Atunci vei ști tu numai ce-nseamnă a trăi
+Și-n inimă iubirea în val va clocoti;
+Predă-te, chiar acum, privind la crucea Lui
+Și crede-n sângele vărsat pentru păcatul meu și-al tău.

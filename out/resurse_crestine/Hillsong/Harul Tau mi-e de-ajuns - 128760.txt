@@ -1,0 +1,49 @@
+[title]
+Harul tau mi-e de-ajuns {author: {Hillsong, Traducere RO}, {rcId: {128760}}
+
+[sequence]
+v1,b,v2,b,c,c,e
+
+[v1]
+Harul Tău mi-e de-ajuns
+E-atât de mult
+În Cuvântul Tău mă-ncred
+Și te aștept, lângă Tine m-așez
+Fă-mă nou prin Duhul Tău
+
+[b]
+Și la picioare Îți cad
+La picioare Îți cad
+Și mă închin Ție-acum
+Și la picioare Îți cad
+La picioare Îți cad
+Și mă închin Ție-acum
+
+[v2]
+În mine trăiești, viața să-mi luminezi
+Prin Cuvântul Tău rostit
+Sunt ridicat, răscumpărat
+Duhul Tău m-a eliberat
+
+[c]
+Tot ce-ai avut mi-ai dat în dar
+Te-ai sacrificat pe crucea grea
+Ne-ai copleșit cât ne-ai iubit
+Ce Domn avem
+Moarte-ai învins și-ai înviat
+Pe veci Domnul nostru-i înălțat
+Rob și-Împărat, lume-ai salvat
+Ce Domn avem
+Tot ce-ai avut mi-ai dat în dar
+Te-ai sacrificat pe crucea grea
+Ne-ai copleșit cât ne-ai iubit
+Ce Domn avem
+Moarte-ai învins și-ai înviat
+Pe veci Domnul nostru-i înălțat
+Rob și-Împărat, lume-ai salvat
+Ce Domn avem
+
+[e]
+Și la picioare Îți cad
+La picioare Îți cad
+Și mă închin Ție-acum

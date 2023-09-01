@@ -1,0 +1,35 @@
+[title]
+Nu te cobori inspre ierihon {author: {Debora Wenger}, {rcId: {172319}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Nu te cobori imspre Ierihon,
+Spre cetatea lumii pieritoare
+Spre Ierusalim urca bucuros,
+Mai aproape de Isus Hristos
+
+[c]
+Langa Domnul pace si alin gasesti
+Binecuvantarea vietii o primesti,
+Urca inspre munte cu alesii Lui
+Caci placuta-i calea Domnului
+
+[v2]
+Nu te cobori spre cetati lumesti
+Care n-au pe Domnul calauza,
+Fugi de Babilon, Timna sau Egipt,
+Cei fara credinta au pierit.
+
+[v3]
+Nu te cobori, nu te du spre iad
+Urca mai aproape de lumina,
+Drumul e ingust pe el sunt si spini,
+Mergi cu drag alaturi de crestini.
+
+[v4]
+Nu te cobori, nu te-aventura
+Prin acele locuri pacatoase,
+Fii mai vegheator, mai ascultator,
+Fii pe placul marelui Pastor.

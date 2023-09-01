@@ -1,0 +1,36 @@
+[title]
+Voi lauda in orice vreme {author: {Puiu Chibici}, {rcId: {58479}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Voi lăuda în orice vreme
+Bunătatea Domnului
+Și-ndurările-I eterne
+Pentru toți copiii Lui!
+
+[c]
+Mi se bucură în Domnul
+Inima neîncetat!
+El îmi e Ocrotitorul
+Și Păstorul minunat!
+
+[v2]
+Sufletul meu se înalță
+Cănd iubirea Lui o cânt
+Fremătând de adierea
+Caldă a Duhului cel Sfânt!
+
+[v3]
+Stropii bucuriei sfinte
+Mă inundă zi de zi
+Prin acele dragi cuvinte:
+”
+Eu nu te voi părăsi! ’’
+
+[v4]
+Încă din copilărie
+Viața mea I-o dăruiesc
+Și odată-n veșnicie
+Pe-al meu Domn vreau să-L slujesc!

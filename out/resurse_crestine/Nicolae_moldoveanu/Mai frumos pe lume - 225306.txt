@@ -1,0 +1,21 @@
+[title]
+Mai frumos pe lume {author: {Nicolae Moldoveanu}, {rcId: {225306}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mai frumos pe lume nu-i, nu-i nimic mai sfânt,
+decât laudă să spui Domnului, prin cânt!
+
+[c]
+Laudă, laudă, Doamne, noi Îți dăm,
+laudă, laudă azi și-n veci cântăm!
+
+[v2]
+Mai plăcut, mai de folos, nu-i nimic nicicând,
+decât Domnului Hristos laudă cântând!
+
+[v3]
+Mai întâi și mai deplin nu-i nimic în veac,
+decât Domnului Divin să-I cântăm pe plac.

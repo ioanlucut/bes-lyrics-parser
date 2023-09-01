@@ -1,0 +1,23 @@
+[title]
+Cand te am pe tine doamne {author: {Nicolae Moldoveanu}, {rcId: {5646}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Cand Te am pe Tine, Doamne,
+De nimica nu ma tem!
+/: In necazurile vietii,
+Zi si noapte, eu Te chem :/
+
+[v2]
+Ochii Tai sunt plini de mila
+Si de sfant-ajutorare.
+/: Jugul vietii, cand m-apasa,
+Eu la Tine am scapare. :/
+
+[v3]
+Vreau ca-ntreaga mea viata
+Numai Tie sa-Ti slujesc;
+/: Adevarul Tau, Isuse,
+Ne’ncetat vreau sa-l traiesc... :/

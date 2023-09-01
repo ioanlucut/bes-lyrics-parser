@@ -1,0 +1,23 @@
+[title]
+Cu tine stau de vorba {author: {Otto Pascal}, {rcId: {230546}}
+
+[sequence]
+v1,v0,v2,e
+
+[v1]
+Tu ești sfânt și vrednic de laudă
+Tu ești bun si îndurător
+Mă închin cu toată ființa
+Și cu pasiune spre Tine privesc
+
+[v2]
+Vremuri noi, ei vor fără Tine
+Ei te scot din școli si biserici
+Dar nicicând nu pot stinge dorul
+Ce-mi arde în suflet, Isuse iubit
+
+[e]
+Ei nu stiu ce simt
+Ei nu stiu ce simt
+Când cu mine stai de vorbă
+În fiecare zi.

@@ -1,0 +1,33 @@
+[title]
+E frumos cand poti in viata {author: {Anonim}, {rcId: {3130}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+E frumos când poți în viață
+Să fii darnic și milos
+/: Să te duci de dimineță,
+Să ștergi lacrima răzleață
+ /: e frumos. :/
+
+[v2]
+E frumos când zboară anii
+Să-ți faci viața un prinos
+/: Să hrănești cu drag orfanii,
+Să-i ajuți pe toți sărmanii
+ /: e frumos. :/
+
+[v3]
+E frumos când nu-i răpusă
+Jertfa ta de-un gând fălos
+/: Și în taina nepătrunsă
+Îți faci haina cea ascunsă
+ /: e frumos. :/
+
+[v4]
+Însă fapta cea mai mare
+Darul cel mai de folos
+/: E să chemi pe-un om oricare
+Dintr-o viață de pierzare
+ /: la Hristos. :/

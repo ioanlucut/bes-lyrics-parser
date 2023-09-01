@@ -1,0 +1,52 @@
+[title]
+Cand nu vrei sa-naintezi pe cale (mi) {author: {Mirela Ursulescu}, {rcId: {176625}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când vrei să-naintezi pe cale
+Și nimeni nu te-ajută-n greu
+Când vezi că nu mai ai scăpare
+Te simți legat si far´ puteri
+Când nu mai simți ca ești iubit
+Și-auzi dispreț cum se aruncă
+După sageți ce te-au lovit
+Și mai lovesc în a ta rană
+
+[c]
+Există-n ceruri Unul singur, ce niciodat´ nu te-a lăsat
+1x: A suferit cu tine-alături, pe-a Sale brațe te-a purtat
+(2x): E Dumnezeu ce te iubește, El este Tată iubitor
+Aur curat te vrea în toate, te modelează prin cupor
+Cu El vei fi biruitor.
+Doar Unul singur e Prieten, adevărat și iubitor
+Doar Unul singur ce nu îți face niciodată nici un rău
+De-L ai pe El ai totu-n viață, doar El e fericirea ta
+El te iubește și așteaptă, să mergi cu El pe calea Sa
+Pân´ vei ajunge-n Slava Sa.
+Tu crede, luptă, speră, iartă, căci lupta nu-ți va fi-n zadar
+Pe-a Sale brațe El te poartă și mântuire-ți dă prin har
+Răspunsul vei primii odată, la tot ce astăzi nu-nțelegi
+Privește-n sus spre a Sa țintă, de vrei cu El să locuiești
+Ca mântuire să primești.
+
+[v2]
+Când ochii tăi îți lăcrimează
+Și singur lupți cu al tău greu
+Când barca ta nu-naintează
+Și numai răni primești mereu
+Când nu ești înțeles de nimeni
+Oricât de mult te-ai strădui
+Când cei ce-odată ți-au fost prieteni
+Iar astăzi sunt niște străini.
+
+[v3]
+Când simți că lupți cu pumni-n vânt
+Iar țărmul nu-l zărești de valuri
+Când nimeni pe acest´ pământ
+Nu-i lângă tine în necazuri
+Când nopțile nu poți să dormi
+De lacrimi perna uzi adesea
+Aduți aminte că și-atunci
+Doar Dumnezeu iți e salvarea.

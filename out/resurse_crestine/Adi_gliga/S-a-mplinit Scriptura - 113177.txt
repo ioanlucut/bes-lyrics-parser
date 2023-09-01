@@ -1,0 +1,38 @@
+[title]
+S-a-mplinit scriptura {author: {Adi Gliga}, {rcId: {113177}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+S-a-mplinit Scriptura
+În lume a venit
+Pruncul sfânt vestit
+Prunc dumnezeiesc
+Pruncul sfânt ceresc
+În lume a venit
+Pruncul sfânt vestit
+Prunc dumnezeiesc
+Pruncul sfânt ceresc.
+
+[v2]
+S-a născut în Betleem,
+Hai veniți la el
+Veniți la Betleem
+Maica a născut
+Prunc din Duhul Sfânt
+Hai, veniți la el
+Veniți la Betleem
+Maica a născut
+Prunc din Duhul Sfânt.
+
+[v3]
+La ieslea Sa
+Magii au adus
+Daruri lui Isus
+Haideți să-I cântăm
+Și să-L lăudăm.
+Magii au adus
+Daruri lui Isus
+Haideți să-I cântăm
+Și să-L lăudăm.

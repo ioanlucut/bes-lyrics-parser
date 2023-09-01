@@ -1,0 +1,29 @@
+[title]
+In seara cinei {author: {Nicolae Moldoveanu}, {rcId: {1911}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+În seara Cinei, când Tu, Isus,
+Spre jertfa trupul întreg Ți-ai pus,
+/: Adus-ai vieții nou răsărit,
+Prin moartea-ți crudă ne-ai mântuit. :/
+
+[v2]
+În seara Cinei Tu ne-ai deschis
+O poartă vie spre paradis,
+/: Adus-ai harul ce ne-a unit,
+Prin jertfa-Ți sfântă ne-ai mântuit. :/
+
+[v3]
+În seara Cinei ne-ai învățat
+Al părtășiei izvor curat.
+/: Iubirea-Ți dulce Te-a dăruit;
+Prin jertfa crucii ne-ai mântuit. :/
+
+[v4]
+În seara Cinei ne-ai dat îndemn
+S-avem în inimi al morții semn,
+/: Prin vin și pâine să ne-amintim
+Că-n Jertfa-Ți mare ne mântuim. :/

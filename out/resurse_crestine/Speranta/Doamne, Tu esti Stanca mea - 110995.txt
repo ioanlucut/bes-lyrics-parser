@@ -1,0 +1,36 @@
+[title]
+Doamne tu esti stanca mea {author: {Speranța}, {rcId: {110995}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Doamne, Tu ești Stânca mea
+Cetățuie-n vreme grea
+Izbăvire-mi ești mereu
+Doamne, Dumnezeul meu
+
+[c]
+/: Eu strig: ”
+Lăudat să fie Domnul”
+În veci să fie binecuvântat
+/: Și-ndată fug vrăjmașii care
+Cu ură m-au înconjurat :/
+
+[v2]
+Legături ca de mormânt
+În jurul meu s-au adunat
+Spaima morții mă cuprinse
+Lanțuri negre m-au legat
+
+[v3]
+Atunci s-a zguduit pământul
+Chiar și munții s-au mișcat
+S-a mâniat Stăpânul Slavei
+Privind vrăjmașii adunați
+
+[v4]
+Doamne-n ajutorul meu
+A venit tăria Ta
+Te iubesc din inimă
+Tu ești salvarea mea

@@ -1,0 +1,25 @@
+[title]
+Inc-un an s-a scurs acum {author: {Speranța}, {rcId: {1443}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Înc-un an s-a scurs acum, înc-un an din viața ta
+/: Și-n filele care s-au scris, nimic nu mai poți schimba. :/
+
+[v2]
+Înc-un an s-a scurs acum, îți șoptește cineva:
+/: E firul alb din părul tău, e ridul de pe fața ta. :/
+
+[v3]
+Înc-un an s-a scurs acum, poți ca să crezi așa ceva?
+/: Căci ca și el s-au dus chiar zeci, s-au scurs chiar fără voia ta. :/
+
+[v4]
+Înc-un an s-a scurs acum, la judecată-l vei vedea.
+/: Dacă-n sfințenie ai trăit, tu fața sus o vei ținea. :/
+
+[v5]
+Înc-un an s-a scurs acum, curând Isus va reveni!
+/: Fă tot ce poți, pentru Isus, să fii cu El în veșnicii! :/

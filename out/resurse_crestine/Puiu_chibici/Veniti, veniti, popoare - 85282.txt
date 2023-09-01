@@ -1,0 +1,29 @@
+[title]
+Veniti veniti popoare {author: {Puiu Chibici}, {rcId: {85282}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Veniți, veniți, popoare, veniți cu toți să ne-nchinăm
+Căci S-a născut un Rege astăzi în Bethleem!
+Ca magii de-altădată la ieslea-I sfântă s-alergăm,
+Cu inime voioase să cântăm: ”
+Osana! Aleluia!”
+
+[c]
+Aleluia! Aleluia! Isus, să fii lăudat!
+Aleluia! Aleluia! Mesia, fii binecuvântat!
+
+[v2]
+Stea călăuzitoare, stea ce de mii de ani lucești,
+Condu-ne către locul unde împărățești,
+Cu îngerii din ceruri, ale noastre imnuri să unim
+Și pentru veci în slavă să-I cântăm: ”
+Osana! Aleluia!”
+
+[v3]
+Veniți, pastori din vale, lăsați acum turma de oi,
+Veniți la sărbătoare, Dumnezeu este cu noi!
+Lăsați, dar, bucuria să vă inunde inima,
+Căci S-a născut Mesia! Osana! Osana! Aleluia!

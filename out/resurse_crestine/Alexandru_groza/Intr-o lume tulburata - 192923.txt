@@ -1,0 +1,20 @@
+[title]
+Intr-o lume tulburata {author: {Alexandru Groza}, {rcId: {192923}}
+
+[sequence]
+v1,v2,e
+
+[v1]
+Într-o lume tulburată caut pacea s-o găsesc
+Pacea inimii și-a minții ca s-o pot să o-nțeleg
+Valuri vin peste măsură ce-mi tulbură inima
+Am căutat pacea în lume, nimeni nu mi-o poate da!
+
+[v2]
+Citind din Cuvânt aflat-am despre pacea Lui Isus
+Care este-un râu de viață, în El am găsit răspuns
+Pacea ce mult am căutat-o, astăzi mi-a dat-o Hristos
+Vindecare, fericire dă omului păcătos!
+
+[e]
+În Isus găsit-am pacea, în El am găsit răspuns!

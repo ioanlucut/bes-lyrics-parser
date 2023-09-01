@@ -1,0 +1,41 @@
+[title]
+Jertfa domnului {author: {Nicolae Moldoveanu}, {rcId: {240898}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Jertfa Domnului Hristos,
+Este drumul luminos,
+Care-n ceruri suie.
+/: Veșnic fi-va fericit,
+Sufletul care-a venit,
+Și pe drumul cel slăvit,
+/: Pașii să și-i puie!... :/
+
+[v2]
+Jertfa Domnului Isus,
+Mântuire a adus,
+Pentru-ntreaga fire;
+/: Dar din harul ei bogat,
+Care scapă din păcat,
+Gustă azi cel ce curat,
+/: Crede-a ei vestire! :/
+
+[v3]
+Jertfa Domnului iubit,
+Și pe mine m-a primit,
+Din adânci păcate...
+/: Cântă azi inima mea,
+C-am găsit în Jertfa Sa,
+Har în starea cea mai grea.
+/: Și în Cer, Cetate! :/
+
+[v4]
+Jertfa Domnului e Har,
+Este ceru-ntreg în dar,
+E comoar-aleasă!...
+/: Suflete ce-n greu te frângi,
+Vrei tu fericit s-ajungi!
+Vin acum, să nu-i respingi,
+/: Dragostea duioasă! :/

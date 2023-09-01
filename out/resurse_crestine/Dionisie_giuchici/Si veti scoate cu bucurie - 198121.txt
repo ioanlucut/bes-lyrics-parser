@@ -1,0 +1,41 @@
+[title]
+Si veti scoate cu bucurie {author: {Dionisie Giuchici}, {rcId: {198121}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Dumnezeu a dăruit
+Duhul Sfânt de la-nălțime,
+Cum profeții au prezis
+Toate acestea din vechime
+
+[c]
+Și veți scoate cu bucurie
+Din izvoarele mânturiii
+Apă sfântă, apa cea vie,
+Apa fericirii
+
+[v2]
+Și Isaia și Ioel
+Despre ploaia cea târzie.
+Ei au proorocit la fel,
+Despre sfânta apă vie.
+
+[v3]
+Tinerii vor proorocii,
+Cei bătrâni vor avea vise.
+Duhul Sfânt când va veni
+Va-mplinii cele promise.
+
+[v4]
+Fiul lui Avraam avea
+O fântână ca moșie,
+Care o simboliza
+Pe aceea cu apă vie.
+
+[v5]
+Cine crede în Isus
+Va avea în piept izvoare,
+Care vor tâșni în sus
+În viața viitoare.

@@ -1,0 +1,23 @@
+[title]
+Voi canta {author: {Diaz Amos}, {rcId: {240671}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Străbătând cărările în noapte,
+Am văzut o lumină pâlpâind.
+La un pas fusesem de moarte,
+Dar am simțit harul Său divin!
+
+[c]
+Voi cânta, voi cânta cât voi trăi
+Te-oi lăuda: o Doamne mare
+Vrednic ești de adorare; și mai ești
+Cel mai minunat de sub soare!
+
+[v2]
+Lumea cu ai plăceri deșarte
+Încercau din răsputeri a mă orbi.
+Dar lumina ochii mi-a deschis,
+Spre tărâmul orchestrat în glasuri mii!

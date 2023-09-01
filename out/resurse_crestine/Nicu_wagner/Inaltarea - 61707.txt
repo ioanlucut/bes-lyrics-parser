@@ -1,0 +1,35 @@
+[title]
+Inaltarea {author: {Nicu Wagner}, {rcId: {61707}}
+
+[sequence]
+v1,c,v2,c2,v3,c2
+
+[v1]
+Urcau apostolii cu Domnu-n frunte
+Pe coama Muntelui Măslinilor.
+Ei nu știau că în curând pe munte
+Se vor desparte de speranța lor.
+
+[c]
+/: Ei nu știau că ultimele-I sfaturi
+Și promisiuni din lume-I ascultau,
+Simțeau în schimb tristețe grea în piepturi,
+Minore simfonii ei ascultau... :/
+
+[v2]
+Ieșind înspre Betania, afară
+Pe toți cu drag i-a binecuvântat...
+Și-n timp ce-i învăța, a câta oară ?
+Deodată lin la ceruri S-a înălțat.
+
+[c2]
+/: Cu ochii pironiți în sus priviră
+Cum tot mai sus spre zări se ridica.
+Dar norii pe Isus L-acoperiră
+Se tot uitau să-L vadă cum pleca... :/
+
+[v3]
+/: Pe când scrutau cu-atâta nostalgie,
+Doi îngeri au venit, i-a înștiințat
+C-așa cum a plecat spre veșnicie,
+Va reveni la fel, ce minunat. :/

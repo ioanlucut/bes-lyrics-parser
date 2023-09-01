@@ -1,0 +1,42 @@
+[title]
+Caci dragostea lui de tata {author: {Gabi Ilut}, {rcId: {168653}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Vino :/ nu te-ntrista,
+Domnul te așteaptă.
+Hai spune-i acum vina ta
+Și vei vedea: te iartă!
+Dragostea Lui e mai mult decât crezi
+Este nemărginită.
+Pune ’naintea Lui viața ta
+Inima ta trudită!
+
+[c]
+Căci dragostea Lui de Tată,
+E-o dragoste de Dumnezeu.
+O dragoste care
+ /: iartă :/
+Și uită păcatul tău!
+
+[v2]
+/: Vino :/ nu mai fi trist,
+Haide îndrăznește,
+Spune-i Domnului c-ai greșit
+Și te pocăiește.
+Nu e păcat să nu poată ierta,
+Oricât este de mare.
+Nu mai ascunde de El vina ta
+Cere-ți acum iertare!
+
+[v3]
+/: Vino :/ nu-ntarzia
+Nu mai este vreme
+Dacă îi respigi dragostea,
+N-o să te mai cheme.
+Nu te baza pe puterea ce-o ai
+Prin credință răzbate.
+Singur nu poți în picioare să stai
+Cu Dumnezeu se poate!

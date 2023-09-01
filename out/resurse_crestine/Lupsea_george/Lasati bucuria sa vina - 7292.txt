@@ -1,0 +1,35 @@
+[title]
+Lasati bucuria sa vina {author: {Lupșea George}, {rcId: {7292}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Lăsați colindele să sune
+Mesajul sfânt a lui Isus
+În gând și-n inimi să răsune
+Cuvintele Celui de sus!
+
+[c]
+Lăsați bucuria să vină
+Cu imnuri la Pruncul Isus
+La Cel ce din lumea divină
+Iubirea la om a adus.
+
+[v2]
+Lăsați colindele să sune
+În cinstea Celui Preaînalt
+Să fie din această lume
+Solii, pentru un Împărat,
+
+[v3]
+Lăsați colindele să sune
+Cântări spre slava Domnului,
+Căci a venit în astă lume
+Să dea salvare omului,
+
+[v4]
+Uniți cu îngerii-n cântare
+Să sune imnuri pământești
+Să traverseze munți și mare
+S-ajungă-n slăvile cerești.

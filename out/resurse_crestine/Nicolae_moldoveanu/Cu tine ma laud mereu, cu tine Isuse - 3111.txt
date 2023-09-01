@@ -1,0 +1,37 @@
+[title]
+Cu tine ma laud mereu cu tine isuse {author: {Nicolae Moldoveanu}, {rcId: {3111}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Cu Tine ma laud mereu
+Cu Tine, Isuse, cu Tine, Isuse,
+/: Pe drumul vietii cel greu
+Cand greul imi pare mai greu
+Cu Tine ma laud mereu
+Cu Tine, cu Tine, Isuse. :/
+
+[v2]
+Cu Tine spre ceruri m-avant,
+Cu Tine, Isuse, cu Tine, Isuse,
+/: Lumina mi-e sfantu-Ti cuvant
+Oriunde si-oricand pe pamant
+Cu Tine spre ceruri m-avant
+Cu Tine, cu Tine, Isuse. :/
+
+[v3]
+De Tine mi-e sufletul plin,
+De Tine, Isuse, de Tine, Isuse,
+/: Tu-mi esti adevarul deplin
+Si pace, cand plec sau cand vin,
+De Tine mi-e sufletul plin
+De Tine, de Tine, Isuse. :/
+
+[v4]
+Cu Tine an har dupa har,
+Cu Tine, Isuse, cu Tine, Isuse,
+/: Mi-e inima templu si-altar
+Si jertfa-n al dragostei jar
+Cu Tine pe orice hotar
+Cu Tine, cu Tine, Isuse. :/

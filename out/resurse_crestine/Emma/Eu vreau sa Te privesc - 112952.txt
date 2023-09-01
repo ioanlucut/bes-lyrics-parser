@@ -1,0 +1,29 @@
+[title]
+Eu vreau sa te privesc {author: {Emma}, {rcId: {112952}}
+
+[sequence]
+v1,v2,c,v3,c
+
+[v1]
+Aș fi trist, dac-ar trece o zi
+Și n-aș vedea soarele pe cer
+Dar mai trist aș fi, dacă nu Te-aș zări
+Pe, Tine, o, Doamne.
+
+[v2]
+Aș fi trist, dac-ar trece o noapte
+Și n-aș vedea stelele pe cer
+Dar mai trist aș fi, dacă n-aș mai simți
+Prezența Ta.
+
+[c]
+Eu vreau să Te privesc
+Să văd frumusețea Ta
+Aș vrea în fiecare zi
+Să Te simt mai aproape
+
+[v3]
+Aș fi trist dacă numai suspine
+Aș auzi în sufletul meu
+Dar mai trist aș fi, dacă inima
+Nu Te-ar mai lăuda

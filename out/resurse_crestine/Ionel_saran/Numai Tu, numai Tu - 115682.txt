@@ -1,0 +1,31 @@
+[title]
+Numai tu numai tu {author: {Ionel Saran}, {rcId: {115682}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Ce bucurie, Isus
+Mi-e Tu mi-ai dat
+Căci de la moarte
+Pe mine m-ai Salvat :/
+
+[c]
+Numai Tu, numai Tu
+Ai schimbat Viața mea
+Numai Tu
+Numai Tu, numai Tu
+Mi-ai dat din Pacea Ta
+Numai Tu.
+
+[v2]
+/: Viața mea, Doamne
+Era doar un chin
+Când Tu pe mine
+Isuse, m-ai găsit :/
+
+[v3]
+/: Zidește-n mine
+O Inimă curată
+Care pe veci Ție doar
+Să Îți Slujească :/

@@ -1,0 +1,39 @@
+[title]
+Isus isus isus {author: {Anonim}, {rcId: {65006}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c
+
+[v1]
+Isus, Isus, Isus, Isus
+Noi celebrăm faima Ta
+Tu ai un nume mai presus
+Decât toate numele.
+Dumnezeu în chip de om
+Ai venit din cer și te-ai născut
+Viața ți-ai sacrificat
+Ceru-ntreg te laudă.
+
+[v2]
+Isus, Isus, Isus, Isus
+Națiunile te preamăresc
+Astăzi oameni mulți din orice loc
+Îți înalță numele.
+
+[c]
+Aleluia, aleluia
+Aleluia Regelui
+Aleluia lui Mesia
+Pentru faima Lui cântăm.
+
+[v3]
+Isus, Isus, Isus, Isus
+Istoria proclamă
+Pământul n-a mai fost la fel
+De când Tu ai apărut.
+
+[v4]
+Isus, Isus, Isus, Isus
+Toți ne vom pleca în fața Ta
+Te vom încorona ca Domn
+Și-mpreună vom cânta.

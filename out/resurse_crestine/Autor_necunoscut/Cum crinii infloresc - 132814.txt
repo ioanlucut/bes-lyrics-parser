@@ -1,0 +1,27 @@
+[title]
+Cum crinii infloresc {author: {Anonim}, {rcId: {132814}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cum crinii înfloresc, În zori sub cer
+Și doar o zis trăiesc, Iar seara pier.
+
+[c]
+Așa-I de trecător,
+E omul muritor
+Ca norul călător,
+Mai trecător.
+
+[v2]
+Ca ceața de pe văi, Ce piere-n vânt
+Se duc a noastre căi, Către mormânt.
+
+[v3]
+Ca umbre străvezii, Spre zări trecând
+Se duc mereu cei vii, Rând după rând.
+
+[v4]
+Întoarce-te acum, La Domnul Sfânt
+Căci viața-i vis și fum, Și nori și vânt.

@@ -1,0 +1,37 @@
+[title]
+Astazi vin la tine doamne {author: {Daniel Briciu}, {rcId: {240332}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Astăzi vin la Tine, Doamne, să îți mulțumesc frumos
+Pentru jertfa din Golgota, pentru harul glorios,
+Căci din groapa de piere Tu m-ai scos și m-ai salvat
+Și pe Stâncă mi-ai pus pașii să Te laud ne-ncetat.
+
+[c]
+/: Astăzi vin la Tine, Doamne, și mă-nchin în Fața Ta
+Căci prin sângele-Ți pe cruce ai salvat viața mea.
+Nimeni altul nu-i ca Tine nici în cer, nici pe pământ,
+Mă închin cu mulțumire, Doamne Sfânt. :/
+/: Astăzi vin la Tine, Doamne, și mă-nchin în Fața Ta
+Căci prin sângele-Ți pe cruce ai salvat viața mea.
+Nimeni altul nu-i ca Tine nici în cer, nici pe pământ,
+Mă închin cu mulțumire, Doamne Sfânt. :/
+/: Astăzi vin la Tine, Doamne, și mă-nchin în Fața Ta
+Căci prin sângele-Ți pe cruce ai salvat viața mea.
+Nimeni altul nu-i ca Tine nici în cer, nici pe pământ,
+Mă închin cu mulțumire, Doamne Sfânt. :/
+
+[v2]
+Azi pe-altarul Tău, Isuse, inima eu o jertfesc
+Și cu tot ce-ai pus în mine Te slăvesc și-Ți mulțumesc,
+Căci din bulgărul de tină care-am fost, Isus, cândva
+Ai făcut din el lumină pentru-mpărăția Ta.
+
+[v3]
+Pentru tot ce-n dar primit-am eu sunt recunoscător,
+Dar privesc cu bucurie înspre Țara fără nori.
+Tu mi-ai spus că sus, în slavă, un locaș îmi pregătești
+Și de-atunci privesc spre ceruri și aștept să Te ivești.

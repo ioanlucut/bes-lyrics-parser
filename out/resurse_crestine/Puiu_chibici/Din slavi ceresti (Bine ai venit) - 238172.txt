@@ -1,0 +1,29 @@
+[title]
+Din slavi ceresti (bine ai venit) {author: {Puiu Chibici}, {rcId: {238172}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Din slăvi cerești și din splendori
+Ai vrut aicea să cobori
+Ca voia Tatălui s-o faci
+Și-n umilință să Te-mbraci
+
+[c]
+Bine-ai venit, bine ai venit
+Mântuitor blând și smerit
+Te lăudăm Te adorăm
+La ieslea Ta ne aplecăm
+
+[v2]
+O-mpărăție făr-apus
+Ai vrut să faci cu noi Isus
+Un rai de cânt și bucurii
+Acolo sus în veșnicii
+
+[v3]
+Tu ai venit Isus Hristos
+Să-l scapi pe omul păcatos
+De moarte și de chinul greu
+Și să-l împaci cu Dumnezeu

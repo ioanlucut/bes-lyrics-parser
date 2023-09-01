@@ -1,0 +1,47 @@
+[title]
+Am vazut adancul marii {author: {Dionisie Giuchici}, {rcId: {5630}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Am văzut adâncul mării și atunci m-am îngrozit
+Și-am crezut că-s dat uitării și Domnul m-a părăsit.
+
+[c]
+/: Dar am zis în disperare:
+„
+Isuse, nu mă lăsa!
+Doamne-n mila Ta cea mare,
+Eu Te rog, nu mă uita!... ” :/
+
+[v2]
+M-au lovit, fără de milă valurile înspre mal
+Și-am crezut că îmi sfărâmă barca, un puternic val.
+
+[c2]
+/: Am strigat și eu ca Iona,
+Din fundul adâncului:
+„
+Doamne, Doamne-ntinde-Ți mâna
+Împotriva valului!... ” :/
+
+[v3]
+Când ziceam că-i sfărâmată barca, iar eu sunt pierdut,
+Văd o mână că-i întinsă: al credinței veșnic scut!
+
+[c3]
+/: S-a întunecat și cerul
+Și văzduhul plin de nori
+Peste mine-a trecut valul
+Cu ai morții reci fiori... :/
+
+[v4]
+Cel ce-a potolit furtuna-e Domnul Isus, Cel Iubit;
+Înspre mine Și-a-ntins mâna și de val, m-a izbăvit...
+
+[c4]
+/: De-aș putea să scot din pieptu-mi
+Inima-n versuri s-o pun,
+Ca s-arăt la fiecare
+Cât a fost Domnul de bun! :/

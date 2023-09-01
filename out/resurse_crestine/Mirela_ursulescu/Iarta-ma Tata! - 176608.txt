@@ -1,0 +1,29 @@
+[title]
+Iarta-ma tata {author: {Mirela Ursulescu}, {rcId: {176608}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Iartă-mă Tată căci mult am greșit
+Mai iartă-mă odată, am păcătuit
+Iartă-mi nepăsarea și starea cea rea
+În care adesea trăiesc viața mea.
+
+[c]
+Iartă-mă Tată, mai iartă-mă odat´
+1x: Iartă-mă Doamne, șterge-al meu păcat
+(2x): Tu care murit-ai ca eu să trăiesc
+Și-a Ta veșnicie cu Tin´ s-o petrec.
+
+[v2]
+Iartă-mă Tată și-atunci când te uit
+Când cad și îndată a Ta milă o simt
+Iartă-mă Doamne când voia nu-Ți fac
+Când haine străine adesea îmbrac.
+
+[v3]
+Iartă-mă iarăși și dă-mi Tu puteri
+Statornic în toate cu Tine să merg
+Și haina sfințirii s-o am zi de zi
+Ca-n ziua răpirii cu Tine sa fiu.

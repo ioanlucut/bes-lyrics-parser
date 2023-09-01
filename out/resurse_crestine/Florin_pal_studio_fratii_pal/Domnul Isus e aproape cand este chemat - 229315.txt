@@ -1,0 +1,41 @@
+[title]
+Domnul isus e aproape cand este chemat {author: {Florin Pal, Studio Fratii Pal}, {rcId: {229315}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Domnul Isus e aproape cand este chemat
+Langa cel intristat si apasat
+El cunoaste povara si lupta cea grea
+Crede-n El si El va lucra
+
+[c]
+/: Nu-i nimeni ca Domnul Isus
+Sa-sculte tot ce ai de spus
+El nu uita pe cei ce-s ai Lui
+Biruinta e-n numele Lui :/
+
+[v2]
+Domnul Isus cunoaste si lacrima ta
+Si durerea din inima ta
+El astapta sa-L chemi cu credinta sa zici
+Doamne cred tu ma vindeci aici
+
+[v3]
+Domnul Isus e pacea ce tu o doresti
+Este raza de soare ceresc
+E raspuns la problema din viata ta
+Da-io Lui si El o va rezolva
+
+[v4]
+Domnul Isus isi tine cuvantul Lui sfant
+Pentru cei care-l cred pe cuvant
+Plina de oase de-i valea din viata ta
+Duhul Sau viata iar le va da
+
+[v5]
+Domnul Isus a spus ca in cer cu El sus
+Va lua pe acei ce si-au pus
+In El toata nadejdea si-n harul adus
+Cand din nou va veni cum a spus

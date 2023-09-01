@@ -1,0 +1,55 @@
+[title]
+Biruitorul {author: {Johnny Daraban}, {rcId: {203249}}
+
+[sequence]
+v1,c,v2,c2,e
+
+[v1]
+Ce dragoste ai arătat
+Când ai murit crucificat,
+Purtând al meu păcat murdar,
+Tu ai murit ca un tâlhar.
+Căci nu doar cuie Te-au străpuns,
+Ci tot păcatul meu ascuns,
+Dar sfântul Sânge m-a spălat
+Și-acum eu sunt nevinovat.
+
+[c]
+Îți mulțumesc, o, Domnul meu,
+Că-n jertfa Ta am fost și eu
+Răscumpărat, prin al Tău har,
+Îți mulțumesc pentru acest dar.
+Îți mulțumesc, o, Domnul meu,
+Că-n jertfa Ta am fost și eu
+Eliberat de sub păcat,
+Isuse-n veci fii lăudat.
+
+[v2]
+Din dragoste Tu te-ai jertfit
+Și m-ai salvat căci m-ai iubit,
+Prin jertfa Ta am fost iertat,
+Cu Tatăl Sfânt m-ai împăcat.
+Povara mea, Tu ai luat
+Și pace-n suflet mi-ai lăsat,
+În mâna Ta e ființa mea,
+Sunt liniștit și-n noaptea rea.
+
+[c2]
+Tăria mea ești Tu, Isus,
+Un scut ce e de nepătruns,
+În luptă Tu ai biruit
+Ești vrednic ca să fii slăvit.
+Tu boldul morții ai surpat,
+Ai înviat și ne-ai salvat,
+Biruitor desăvârșit
+Domnia Ta n-are sfârșit.
+
+[e]
+Biruitor desăvârșit,
+Domnia Ta n-are sfârșit,
+Tu boldul morții ai surpat,
+Isuse, -n veci fii lăudat.
+Tu ești puternic, Tu ești Sfânt
+În fapte, vorbe, în cuvânt,
+Domnia Ta n-are sfârșit,
+Isuse, în veci să fii slăvit.

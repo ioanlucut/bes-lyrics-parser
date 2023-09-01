@@ -1,0 +1,23 @@
+[title]
+Haideti sa cantam copii {author: {Anonim}, {rcId: {6236}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Haideți să cântăm copii Domnului Isus,
+Într-un cor cu îngerii, Celui de sus,
+Să-i dăm toată inima fără de mister,
+Să se ’nalțe glasul nostru către Cer.
+
+[c]
+/: Isus e Domn și ne iubește,
+Haide-ți să cântăm spre slava Lui,
+Doar bucurii ne dăruiește,
+Haide-ți să cântăm spre slava Lui :/
+
+[v2]
+În Cuvântul Lui ne-a spus să venim la El,
+Căci doar El ne poate da pace si-adevăr,
+Haide-ți azi să-L lăudăm și să-i mulțumim,
+Și să-I arătăm cu toții că-L iubim.

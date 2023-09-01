@@ -1,0 +1,23 @@
+[title]
+Ce dragoste mai mare poate fi; da el pe cruce sus la calvar {author: {Anca Ban}, {rcId: {113237}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Ce dragoste mai mare poate fi
+Decât viața a ți-o oferi ?
+Ca să ridici din moarte, din păcat pe veci
+Și pe omul vinovat să-l vezi iertat
+
+[c]
+Da, El pe cruce Sus, la Calvar, era batjocorit
+Fiul Lui Dumnezeu, căci m-a iubit
+Pân’ la moarte a suferit, scuipat și umilit
+Cu sânge a plătit vina grea!
+
+[v2]
+Nu există altă Cale-n sus,
+Numai Jertfa Sfântă-a lui Isus
+El e Calea, pururi, adevăr în veci
+Viața poți s-o ai dacă-L iubești!

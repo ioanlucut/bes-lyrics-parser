@@ -1,0 +1,54 @@
+[title]
+Unde mergi o doamne? {author: {Nicolae Moldoveanu}, {rcId: {5905}}
+
+[sequence]
+c,v1,v2,v3,v4,v5
+
+[c]
+/: „
+Unde mergi, o, Doamne?...
+/: Unde mergi, o, Doamne?” :/
+
+[v1]
+„
+V-am iubit, copiii Mei, v-am iubit;
+Cât în lume am trăit, Eu v-am iubit.
+Viața pentru voi Mi-am dat,
+Ca să fiți cu Mine-odată sus în cer;
+Azi, Mă cheamă Dumnezeu
+Să Mă reîntorc la El. Vremea s-a-mplinit.
+
+[v2]
+Voi să nu va depărtați pe-alte căi!
+În curând voi veți primi din Duhul Meu!
+El vă va călăuzi neîncetat, vă va păzi, zi de zi.
+Deci, să nu descurajați
+Singuri, Eu n-am să vă las
+Singuri nici un ceas!
+
+[v3]
+„
+Unde mergi, Isus iubit? Nu pleca!...
+Mai rămâi cu noi aicea! Nu pleca!
+Unde mergi, Păstorule?
+Unde-Ți lași oițele? Mai rămâi...”
+„
+El vă va călăuzi pe cărarea vieții,
+Aici pe pământ.”
+
+[v4]
+„
+Voi pleca la Tatăl Meu, voi pleca!
+Voi rămâneți pe pământ în nevoi;
+Viața cursu-și va urma,
+Mulți crezare nu-Mi vor da, dar voi fiți treji!
+Chiar de voi fi sus în cer,
+Ajutor vă voi da Eu, când vă va fi greu.”
+
+[v5]
+Norii L-au acoperit pe Isus...
+Ochii ne-au rămas țintiți, spre ceruri sus.
+Nu mai avem mângâieri, a plecat Isus la cer.
+Nu-L mai avem,
+Dar așa cum a plecat, Se va-ntoarce El odat’
+Și ne-a duce-n cer.

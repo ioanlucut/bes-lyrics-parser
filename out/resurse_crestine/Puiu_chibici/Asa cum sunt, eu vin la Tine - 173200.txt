@@ -1,0 +1,31 @@
+[title]
+Asa cum sunt eu vin la tine {author: {Puiu Chibici}, {rcId: {173200}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Așa cum sunt, eu vin la Tine
+Din noapte și cărări străine
+Vin ca să-Ți las povara mea
+/: La cruce sus, în Golgota. :/
+
+[c]
+Îți dau viața mea, fă tot ce vrei cu ea
+E-așa pustiu, e-așa de greu
+Fără de Tine, Domnul meu
+Îți dau viața mea, ce-a mai rămas din ea
+E-așa pustiu, e-așa de greu
+Fără de Tine, Domnul meu.
+
+[v2]
+Primește-mă ca pe tâlharul
+Cel mântuit prin Tine, Harul
+Căci chiar de sunt un păcătos
+/: Eu cred Isus, Tu ești Hristos. :/
+
+[v3]
+Așa cum sunt, dintre ruine
+Mă întorc smerit Isus la Tine
+Ca fiul cel risipitor
+/: Primește-mă iubit Păstor. :/

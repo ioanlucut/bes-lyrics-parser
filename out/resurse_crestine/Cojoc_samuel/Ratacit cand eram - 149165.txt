@@ -1,0 +1,35 @@
+[title]
+Ratacit cand eram {author: {Cojoc Samuel}, {rcId: {149165}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Rătăcit când eram și prin lume alergam
+Mereu lângă mine ai fost
+M-ai păzit, m-ai iubit și cu drag mi-ai vorbit
+Pentru mine ai murit
+
+[c]
+Mângâiere-am aflat, haina alb-am primit
+Atunci când lovit zăceam jos
+M-ai luat, m-ai spălat, rănile mi le-ai legat
+Și pe stâncă m-ai așezat
+
+[v2]
+Milă Doamne ți-a fost de un biet păcătos
+Câtă grijă de mine-ai avut
+Părăsit, alungat și de lume uitat
+Domane de mine te-ai îndurat
+
+[v3]
+Va veni acea zi când Isus va reveni
+Pe cer ca judecător
+Voi uita ce-a fost greu, voi uita ce-am suferit
+Isus, mă va lua cu El
+
+[c2]
+/: Voi zbura, voi cânta, pe cei dragi voi revedea
+Când pe nori El se va arăta
+Pân-atunci îl aștept suspinând și plângând
+Până când în cer voi pleca :/

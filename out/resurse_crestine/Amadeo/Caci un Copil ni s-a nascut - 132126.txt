@@ -1,0 +1,29 @@
+[title]
+Caci un copil ni s-a nascut {author: {Amadeo}, {rcId: {132126}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Căci un Copil ni s-a născut
+Cel ce n-are început
+Căci un Fiu ni s-a dat
+El e Marele Împărat
+
+[c]
+Îl vor numi sfetnic, minunat
+Domn al Păcii adorat,
+Dumnezeu Tare, Savaot
+Părinte al veșniciilor
+
+[v2]
+El, Dumnezeul nevăzut
+S-a făcut azi cunoscut
+A venit din veșnicii
+Să ne aducă bucurii
+
+[v3]
+Plăcerea Lui va fi mereu
+Frica de Dumnezeu
+Și Duhul Domnului cel Sfânt
+Se va odihni în El

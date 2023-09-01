@@ -1,0 +1,16 @@
+[title]
+Pace sa fie {author: {Speranța}, {rcId: {80380}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+/: Pace să fie între zidurile tale
+Pace-n Ierusalim :/
+
+[c]
+/: Pace să fie în Ierusalim :/
+
+[v2]
+/: Pace să fie între zidurile tale
+Pace-n Ierusalim :/

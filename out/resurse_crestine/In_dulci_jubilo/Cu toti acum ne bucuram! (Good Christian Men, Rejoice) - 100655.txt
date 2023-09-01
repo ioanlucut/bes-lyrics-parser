@@ -1,0 +1,27 @@
+[title]
+Cu toti acum ne bucuram (good christian men rejoice) {author: {In Dulci Jubilo, Traducere RO}, {rcId: {100655}}
+
+[sequence]
+v1,v2,v3,s
+
+[v1]
+Cu toți acum ne bucurăm, cu-nsuflețire noi cântăm
+Veste bună v-aducem, Cel sfânt S-a născut în Betleem
+Printre vite stă culcat, în iesle, Pruncul-Împărat
+Iată S-a născut Hristos, Domnul glorios!
+
+[v2]
+Cu toți acum ne bucurăm, cu-nsuflețire noi cântăm
+Bucurie de nespus, Isus pentru toți, El ne-a adus
+Ne-a deschis calea spre cer, prin jertfa Lui eu pot să sper
+Pentru-aceasta S-a născut, Pruncul sfânt Isus!
+
+[v3]
+Cu toți acum ne bucurăm, cu-nsuflețire noi cântăm
+De-ntuneric nu mă tem, ”
+Pace” s-a cântat în Betleem
+Vino și tu la Isus să fii pe veci cu Tatăl sus
+Domnul Slavei întrupat, El te vrea salvat!
+
+[s]
+Bucurați-vă, ceruri! Înveselește-te, pământule! Izbucniți în strigăte de bucurie, munților! Căci Domnul mângâie pe poporul Său și are milă de nenorociții Lui. Isaia 49:13

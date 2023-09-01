@@ -1,0 +1,23 @@
+[title]
+Cred {author: {Diaz Amos}, {rcId: {239004}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Cred în Tine, cred în Dumnezeul meu.
+Scutul meu ești, mă întărești în greu,
+Salt de fericire și cu drag zâmbesc
+În splendoarea bogată doresc să cresc!
+
+[c]
+/: Cred în Tine, Doamne nu mă pot schimba;
+Cred în Tine, cred în bunătatea Ta!
+Fiecare cuvânt își are rostul lui,
+Sunt purtat de albă aripa Duhului! :/
+
+[v2]
+Cred atât de amplu într-o măreție
+Ai creat totul cu plină armonie!
+Am o șansă pentru a ajunge în cerul ’nalt
+Vreau să-Ți laud ființa cu al meu talant!

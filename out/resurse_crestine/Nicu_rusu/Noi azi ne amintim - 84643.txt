@@ -1,0 +1,29 @@
+[title]
+Noi azi ne amintim {author: {Nicu Rusu}, {rcId: {84643}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Noi azi ne amintim, de-o zi de neuitat,
+Când pe acest pământ, Mesia S-a-ntrupat.
+La Betleem născut, ca și un muritor,
+El, Dumnezeu și om, al lumii Salvator!
+
+[c]
+Azi e crăciunul, e ziua lui Mesia;
+Cu toată bucuria, veniți toți să-L glorificăm!
+E sărbătoare, zi plină de splendoare,
+E ziua bucuriei, veniți dar să ne bucurăm!
+
+[v2]
+Întregul univers, pe El l-a salutat,
+Și îngerii din cer, în cor Lui I-au cântat;
+Căci Fiul ne-a fost dat, Copilul S-a născut,
+Și om a devenit, Cel fără de-nceput!
+
+[v3]
+Căci nu suntem pierduți în lumea de păcat,
+Al nostru Salvator, în lume S-a-ntrupat!
+La noi a coborât, pentru-a ne mântui,
+De-aceea ne-ncetat, noi ÎL vom preamări!

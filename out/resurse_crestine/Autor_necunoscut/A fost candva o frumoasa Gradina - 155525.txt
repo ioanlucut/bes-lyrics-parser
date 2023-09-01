@@ -1,0 +1,54 @@
+[title]
+A fost candva o frumoasa gradina {author: {Anonim}, {rcId: {155525}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+A fost cândva o frumoasă Grădină,
+Cu lotuși, cu crini, cu migdali și măslini,
+Cu-o tainică și ne-ntinată lumină
+C-un cer ce-ar fi fost de-apururi senin.
+
+[c]
+Și-acolo-n Eden în Grădina străveche,
+Ca rod al iubirii și-al dorului sfânt,
+A fost așezată întâia pereche
+/: Cu suflet ceresc într-un cot de pământ. :/
+
+[v2]
+Și-acolo-n Eden, ca-ntr-o veșnică nuntă,
+Legați în iubire, feriți de vrăjmaș,
+Trăiau partășia curată și sfântă
+Cu Domnul iubirii în Sfâtul Locaș.
+
+[c2]
+Dar, nu prea departe, în tainică umbră,
+Satana, privindu-i cu ochiul viclean,
+Aduse-n Grădină și ziua cea sumbră,
+/: Cu moarte lovindu-i pe Eva și-Adam. :/
+
+[v3]
+Vai, unde-i de-atuncea acea fericire,
+Cerești desfătări din edenice vremi,
+Durere și plâns și necaz și robire,
+Pământ frământat, lovit de blestem.
+
+[c3]
+Și-a fost peste veacuri o altă grădină.
+Isus Își așteaptă mireasa plângând,
+Primind să plătească cumplita ei vină
+/: Pe crucea Golgotei să moară iertând :/
+
+[v4]
+Și slava și pacea, viața, iubirea,
+Pierdute atuncea în vechiul Eden
+Din nou le-am găsit, primind mântuirea,
+Prin jertfa ce-a frânt al morții blestem.
+
+[c4]
+Cântăm azi cu toții, cântăm azi mărire,
+Din nou suntem liberi, din nou izbăviți,
+E-al nostru Edenul cu-a lui strălucire,
+Din nou suntem liberi, prin har mântuiți,
+Prin har suntem liberi, prin har mântuiți.

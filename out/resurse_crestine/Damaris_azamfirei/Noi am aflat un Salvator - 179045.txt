@@ -1,0 +1,40 @@
+[title]
+Noi am aflat un salvator {author: {Damaris Azamfirei}, {rcId: {179045}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Noi am aflat un Salvator
+Ce mântuire-n veci ne-a dat.
+Sub aripa Sa mereu,
+Isus ne strânge ne-ncetat!
+
+[c]
+/: Slavă, cinste și mărire
+Venim și noi cu mulțumire
+Al Tău nume-L înălțăm
+Isuse-n veci, Te glorificăm. :/
+Amin!
+/: Slavă, cinste și mărire
+Venim și noi cu mulțumire
+Al Tău nume-L înălțăm
+Isuse-n veci, Te glorificăm. :/
+
+[v2]
+Noi am aflat un Salvator
+Ce-I plin de dragoste,
+E iubitor, îndurător,
+Dar și un foc mistuitor.
+
+[v3]
+Noi am aflat un Salvator
+Ce grija noastră o poartă.
+Chiar de e greu de înaintat
+Cu Domnul am biruința ne-ncetat.
+
+[e]
+/: Fii Slăvit, al nost’ Părinte
+Ce plin de dragoste, Tu ești
+Iubitor, îndurător,
+Dar și un foc mistuitor :/

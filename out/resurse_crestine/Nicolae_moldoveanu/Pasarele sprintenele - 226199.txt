@@ -1,0 +1,35 @@
+[title]
+Pasarele sprintenele {author: {Nicolae Moldoveanu}, {rcId: {226199}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Păsărele sprintenele,
+toate ciripesc mereu,
+iar cu glasul lor și ele
+preamăresc pe Dumnezeu.
+
+[c]
+Să cântăm, copii și noi
+cântece mereu mai noi
+Domnului să-L lăudăm,
+Lui smeriți să ne-nchinăm!
+
+[v2]
+Florile-ndreptând senine
+înspre ceruri fața lor,
+spun în taină, la oricine,
+despre Tatăl Creator.
+
+[v3]
+Munți, păduri și râuri toate,
+după felu-n care sunt,
+cântă laude curate
+Dumnezeului Preasfânt!
+
+[v4]
+Sfânta cerului oștire
+imnuri-nalță ne-ncetat
+Celui vrednic de mărire,
+Dumnezeul minunat!

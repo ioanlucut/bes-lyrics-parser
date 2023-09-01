@@ -1,0 +1,24 @@
+[title]
+E viu e viu {author: {Jean Staneschi}, {rcId: {198934}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+E viu, e viu mormântul Lui e gol
+E viu, e viu trăiește Domnul meu
+E viu, e viu în toată strălucirea
+Îl vom vedea în slava Sa!
+
+[v1]
+Maria, ucenicii aleargă spre mormânt
+Un înger le aduce din cer mesajul sfânt
+Vă duceți și vestiți azi: Hristos a înviat!
+Deci credeți și vă bucurați!
+
+[v2]
+Maria stă și plânge, ar vrea să știe ce-i
+Dar iată, o minune! Isus ’naintea ei!
+Ce mare fericire! „
+Rabuni!” zice ea
+Și noi în cer Îl vom vedea.

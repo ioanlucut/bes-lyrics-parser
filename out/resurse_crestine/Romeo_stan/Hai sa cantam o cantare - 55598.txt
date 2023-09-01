@@ -1,0 +1,29 @@
+[title]
+Hai sa cantam o cantare {author: {Romeo Stan}, {rcId: {55598}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Eu cu familia mea,
+Ție Doamne-Ți vom cânta,
+Că avem un Dumnezeu,
+Ce nu ne lasă la greu :/
+
+[c]
+/: Hai să cântam o cântare,
+Hai să cântăm Domnului,
+Hai să uităm de necazuri,
+Haide să-I dăm Slavă Lui :/
+
+[v2]
+/: Și oricât mi-ar fi de greu,
+Vreau s-ascult de Dumnezeu,
+Asta e credința mea,
+Domnul nu mă va lăsa :/
+
+[v3]
+/: De necazurile multe,
+Nu-mi las inima s-asculte,
+Avem o fereastră sus,
+Să privim doar la Isus :/

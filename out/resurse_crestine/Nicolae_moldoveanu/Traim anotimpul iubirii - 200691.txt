@@ -1,0 +1,29 @@
+[title]
+Traim anotimpul iubirii {author: {Nicolae Moldoveanu}, {rcId: {200691}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Trăim anotimpul iubirii,
+Cu soare și ploi fericite.
+/: Prin muncă să dăm încolțirii,
+Sămânța rodirii dorite :/
+
+[v2]
+Și pâine să strângem, cerească,
+S-o ducem flămândelor gloate.
+/: Prin ea, pentru cer să trăiască,
+Și cerul prin ea să se-arate :/
+
+[v3]
+Trăim anotimpul iubirii,
+Să prindem prilejul cel mare.
+/: S-aducem în Templul măririi,
+Pe toți cei ce zac în pierzare :/
+
+[v4]
+Frumoasă va fi veșnicia,
+Iubirea va fi primăvară.
+/: Ea’n plin va’mpărți bucuria,
+Căci ziua va fi fără seară :/

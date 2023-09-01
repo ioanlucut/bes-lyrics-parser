@@ -1,0 +1,28 @@
+[title]
+S-a inchis {author: {Diaz Amos}, {rcId: {237954}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Adeseori pe drumul tău, tăcut, uitat de lume
+Te avânți, te agiți, te faci mai rău, cu strigăt te opune;
+Ești conștient, ești fiu de cer, iar tu te dai deoparte,
+Încearcă să privești în sus și lepădat de moarte!
+
+[c]
+În tine parcă s-a închis, e o lume așa stricată, trist;
+Iar când te lupți, privești în jos și nu te uiți înspre Hristos,
+Cel care te poate salva, de tristă moarte, ocară grea!
+
+[v2]
+Stelele se adună în stol pe cerul de diamant
+Cu cântec ca de sărbătoare lumea s-a înseninat.
+În inima ca de rubin, uitată în tristețe
+Primește-L astăzi pe Isus, cu atâta dor, blândețe!
+
+[v3]
+Pietrele din cetate se adună ca un roi
+Colindul vesel și sublim ne cheamă în joc pe noi.
+Cu zâmbet de om fericit, și cald ca o cenușă
+Să Îl întâmpini cu așa dor, de-ți bate la a ta ușă!

@@ -1,0 +1,38 @@
+[title]
+Stralucind pe colt de cer {author: {Speranța}, {rcId: {101285}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Milioane de stele pe cer veghează
+Doar una din ele luminează
+Strălucind pe colț de cer
+Ea slăvește, aduce solia
+Că s-a născut Hristos Mesia
+S-a născut Hristos Mesia.
+
+[c]
+Într-o iesle a venit, cum a fost profețit
+Prințul păcii, Domnul slavei
+Fiul celui Preaînalt
+Prințul păcii, Domnul slavei
+Să ne scape din păcat.
+
+[v2]
+Corul de Îngeri străbat văzduhul
+Ei aduc vestea: „
+S-a născut Pruncul!
+S-a născut în Betleem!”
+Ei cântau: „
+Slavă celui Preasfânt
+Pace să fie pe pământ
+Să fie pace pe pământ!”
+
+[v3]
+Magi sosesc, Lui I se-nchină
+Ei aduc aur, tămâie și smirnă
+Îl slăvesc pe Împărat
+Și noi am venit pe Prunc să-L vedem
+Daruri ca Magii noi nu avem
+Dar inima Lui i-am predat!

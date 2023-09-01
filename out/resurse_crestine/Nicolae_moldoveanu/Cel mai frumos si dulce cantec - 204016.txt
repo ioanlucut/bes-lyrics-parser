@@ -1,0 +1,30 @@
+[title]
+Cel mai frumos si dulce cantec {author: {Nicolae Moldoveanu}, {rcId: {204016}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Cel mai frumos și dulce cântec,
+Din câte am aflat,
+Nu este altul ca acesta,
+/: ”
+Hristos a înviat!” :/
+
+[c]
+Căci El de Domnul ne vorbește,
+De Cel ce-a dat iertarea,
+De-Acela ce-a murit pe cruce,
+Hristos a înviat!
+
+[v2]
+Și în mii de nori spre slavă,
+La ceruri s-a-nălțat,
+De-aceea noi îi dăm mărire,
+/: Hristos a înviat! :/
+
+[c2]
+Noi toți răspundem cu credință,
+Că El cu-adevărat,
+Ne va-nvia să fim cu Dânsul,
+Hristos a înviat!

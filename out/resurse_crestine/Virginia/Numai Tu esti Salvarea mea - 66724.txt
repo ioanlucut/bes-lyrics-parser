@@ -1,0 +1,23 @@
+[title]
+Numai tu esti salvarea mea {author: {Virginia}, {rcId: {66724}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Numai Tu ești Salvarea mea.
+Și la Tine este dragostea.
+/: Tu Isuse mi-ai luat păcatul greu
+Că să fiu sus cu Dumnezeu :/
+
+[c]
+Nu mă lăsa Doamne-n ziua grea.
+Vezi lacrima și durerea mea.
+/: Adăpostul, Scutul, și Tăria mea.
+Ești cu mine și în ziua grea :/
+
+[v2]
+Doamne mare vin în fața Ta.
+Cer iertare și salvarea Ta.
+/: Pe Golgota se mai vede crucea grea
+Unde-i plâns pentru noi pe ea :/

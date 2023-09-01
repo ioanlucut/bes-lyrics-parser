@@ -1,0 +1,29 @@
+[title]
+Isuse viata ta mie mi-ai dat {author: {Robert Lowry}, {rcId: {74365}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Isuse, viața Ta mie mi-ai dat,
+În Tine mă încred, Tu m-ai salvat
+Simt că iubirea Ta umple ființa mea.
+Iată-Ți dau inima, Doamne Isus.
+
+[c]
+Prin mila Ta acum primește-mă
+Doamne, pe brațul Tău, o, ține-mă.
+Ca să port crucea mea; eu merg pe calea Ta.
+Cu drag Îți voi cânta, Doamne Isus.
+
+[v2]
+Sfințește-mi inima și fă-mă bun,
+Oricine va afla cui mă supun.
+Fapta, dorința mea, cu toată dragostea,
+Le pun în slujba Ta, Doamne Isus.
+
+[v3]
+Tot ce eu sunt și am e harul Tău.
+Altă avere n-am, o, Domnul meu!
+Aici și-n cer doresc, doar Ție să-Ți slujesc
+Veșnic să Te slăvesc, Doamne Isus.

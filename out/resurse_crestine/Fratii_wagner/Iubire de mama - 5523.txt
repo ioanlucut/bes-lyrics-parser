@@ -1,0 +1,41 @@
+[title]
+Iubire de mama {author: {Frații Wagner}, {rcId: {5523}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Stau adeseori pe gânduri și privesc
+Primăvara florile cum înfloresc;
+/: Pe câmpie, mielușei zburdă lângă mama lor,
+Păsărelele își cântă cântul lor. :/
+
+[v2]
+Îmi aduc aminte și de mama mea,
+Cum zburdam când eram mic pe lângă ea.
+/: Cu dragoste, pe genunchii ei, cu drag mă așeza
+Și pe obrăjori cu drag mă săruta. :/
+
+[v3]
+Mamă dragă, astăzi de te-aș mai avea,
+Nu doresc în lumea asta altceva
+/: Și de dorul tău, o, mama, sufletu-mi tânjeste greu,
+Căci doresc din nou să-ți aud glasul tău... :/
+
+[v4]
+Multe lacrimi ai vărsat pân’ m-ai crescut,
+Multe nopți neadormite au trecut;
+/: Când eram în suferintă, mamă dragă, te rugai
+Iar în brațe pruncușorul ți-l strângeai. :/
+
+[v5]
+Astăzi, mamă, în mormânt te odihnesti,
+Iar obrajii mei în lacrimi se topesc;
+/: Iar acuma aștept ziua să plec de pe-acest pământ,
+Căci doresc să te-ntâlnesc în cerul sfânt. :/
+
+[v6]
+Iar până când Tu, Isuse, vei veni,
+Și pe mama în cer o voi întâlni,
+/: Vor rămane amintiri ce nu se vor uita nicicând -
+C-am avut o mamă scumpă pe pământ... :/

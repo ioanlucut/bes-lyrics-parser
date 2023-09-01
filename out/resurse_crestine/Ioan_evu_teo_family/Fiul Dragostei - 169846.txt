@@ -1,0 +1,42 @@
+[title]
+Fiul dragostei {author: {Ioan Evu, Teo Family}, {rcId: {169846}}
+
+[sequence]
+v1,v2,c,v3,v4,c,e
+
+[v1]
+Ce poveste de demult
+Printre lacrimi o ascult.
+Chiar și-acum când zăpada
+Pe pământ s-a coborât.
+
+[v2]
+E-o poveste minunată
+Dintr-un veac de altădată.
+Niciodată ea nu moare,
+E-al iubiri început!
+
+[c]
+/: Colindăm în astă seară,
+Din iubire pentru El,
+Se va naște-n astă seară
+Fiul Dragostei din Cer! :/
+Fiul Dragostei din Cer, Emanuel!
+
+[v3]
+Niște magi din răsărit
+De departe au venit
+Să vestească, să-mplinească
+Voia Tatălui iubit!
+
+[v4]
+Că la Betleem Maria
+Îl va naște pe Mesia,
+Bucuria să-nflorească
+Chiar și pentru cel mâhnit!
+
+[e]
+Ce poveste de demult
+Printre lacrimi o ascult.
+E-o poveste minunată,
+E-a nu moare niciodată!

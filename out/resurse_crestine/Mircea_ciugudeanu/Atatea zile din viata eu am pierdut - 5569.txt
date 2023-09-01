@@ -1,0 +1,41 @@
+[title]
+Atatea zile din viata eu am pierdut {author: {Mircea Ciugudeanu}, {rcId: {5569}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Atatea zile din viata eu am pierdut
+Si n-am lucrat, in via Sa, cum as fi vrut!
+Dar eu va spun ca mie-asa de rau imi pare
+Ca n-am lucrat atunci mai mult cand s-a putut.
+
+[c]
+/: Asa trecut-au anii unul dupa altul
+Si noi am stat, am stat nepasatori
+Iar fiecare an ne-apropie de Domnul
+Si noi mai stam, mai stam nepasatori. :/
+
+[v2]
+De-aceasta zi as vrea ca toti sa-si aminteasca,
+Caci zile ca acestea n-or mai fi,
+Iar celor ce-au venit ca sa se pocaiasca,
+De-aceasta zi as vrea mereu a le-aminti.
+
+[c2]
+/: E, poate, ziua cea din urma a chemarii
+Si tu mai stai, mai stai nepasator...
+Tu stii ca se va-nchide usa indurarii?
+Atunci, de ce, de ce mai stai nepasator? :/
+
+[v3]
+Acolo-n ceruri, cand se va deschide cartea,
+Cand numele acelor sfinti se vor citi
+Si fiecare dintre ei isi va lua partea,
+Acolo-as vrea, Isuse sfant, si eu a fi.
+
+[c3]
+/: Si, ce frumoasa fi-va atunci amintirea
+Acelor ce-au lucrat aici, pe-acest pamant,
+Iar partea lor cea buna va fi fericirea
+De-a sta in cer mereu, in veci, cu Domnul Sfant. :/

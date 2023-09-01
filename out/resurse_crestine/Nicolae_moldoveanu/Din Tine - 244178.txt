@@ -1,0 +1,23 @@
+[title]
+Din tine {author: {Nicolae Moldoveanu}, {rcId: {244178}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Din Tine este-mpărtășirea
+Pătrunzătoare în Cuvânt,
+/: Prin rugăciune și cântare
+Vremelniciei legământ. :/
+
+[v2]
+Prin Tine este unitatea
+De dragoste în Duhul Sfânt,
+/: Prin adevăr și prin iubire
+Frățietății legământ. :/
+
+[v3]
+Și pentru Tine este jertfa
+De faptă și de crezământ,
+/: În plâns, în sânge și-n rodire
+Eternității legământ. :/

@@ -1,0 +1,29 @@
+[title]
+Sus la lucru amice crestine {author: {Nicolae Moldoveanu}, {rcId: {5612}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Sus, la lucru, amice creștine!
+Miluiește, și fă tot bine!
+Servește-L pe Domnul cu averea!
+Nu-L înșela, oprind partea Sa.
+
+[c]
+Dacă dăruiești,
+Tu, în schimb, primești
+Bunuri dulci, cerești.
+Isus îți va da pace în inima ta!
+
+[v2]
+Averea ta nicicând nu va scădea,
+Când pe Domnul Îl vei ajuta
+Căci El toate-ți înmulțește ție,
+Ca și pâinile în pustie.
+
+[v3]
+Dacă partea Domnului o oprești,
+Nicicând n-ai să te îmbogățești;
+Căci Domnul suflă ce agonisești
+Și tu fericirea n-o găsești.

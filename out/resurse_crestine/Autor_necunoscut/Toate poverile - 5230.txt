@@ -1,0 +1,23 @@
+[title]
+Toate poverile {author: {Anonim}, {rcId: {5230}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Toate poverile mele-au căzut
+/: Rostogolindu-se :/
+Toate poverile mele au căzut
+La crucea lui Isus
+
+[v2]
+Pacea inundă azi inima mea
+/: Inima mea :/
+Pacea inundă azi inima mea
+Prin crucea lui Isus
+
+[v3]
+Ca un torent bucuria țâșni
+/: Din inima mea :/
+Ca un torent bucuria țâșni
+Prin crucea lui Isus

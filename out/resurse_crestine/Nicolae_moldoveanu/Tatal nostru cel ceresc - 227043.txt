@@ -1,0 +1,35 @@
+[title]
+Tatal nostru cel ceresc {author: {Nicolae Moldoveanu}, {rcId: {227043}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Tatăl nostru cel ceresc,
+mâinile ni se unesc,
+/: inimile se smeresc :/
+Lacrimile ni-s fierbinți,
+că-n curând vom fi părinți
+/: și ne vrem copiii sfinți. :/
+
+[c]
+Să ne dai Tu ce vrei,
+Sănătos să-l sfințești
+și să-l crești credincios și frumos,
+/: spre mărirea lui Hristos :/
+
+[v2]
+Înduratul nostru Tată,
+dacă ne vei da o fată,
+/: dă-ne-o binecuvântată :/
+Tatăl nostru îndurat,
+dacă ni-l vei da băiat,
+/: dă-ni-l binecuvântat :/
+
+[v3]
+Tatăl nostru strălucit,
+glasul nostru-i fericit,
+/: duhul nostru-i liniștit, :/
+Ție i-am încredințat
+ori fetiță, ori băiat,
+/: știm că-i binecuvântat :/

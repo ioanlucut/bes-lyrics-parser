@@ -1,0 +1,43 @@
+[title]
+O ce multe flori sunt pe dealuri sus {author: {Alexandru Groza}, {rcId: {193468}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c
+
+[v1]
+O, ce multe flori sunt pe dealuri sus,
+Mă-ntreb: oare cine le-a pus?
+Când vântul le-adie în zori,
+sunt o comoară ochilor
+Mă minunez le-ador!
+Oare cine-i Creatorul lor?
+
+[v2]
+Ce minuni văd iarăși ochii mei
+Pe iarbă niște mielușei
+Ce-aleargă-n joc și-s fericiți
+Că de copii ei sunt iubiți!
+Mă minunez și îi ador
+Oare cine-i Creatorul lor?
+
+[c]
+Creatorul minunat al frumuseței lor
+Este Domnul Dumnezeu
+Când eu le privesc, Numele-I preamăresc!
+Pentru El e și Creatorul meu!
+
+[v3]
+Când privesc în sus, cerul e senin
+De pacea Domnului e plin
+Văd soarele cel minunat
+Ce ne-ncălzește ne-ncetat
+Și aerul ce-l respirăm
+El ne-ndeamnă pe El să-L lăudăm!
+
+[v4]
+Ce mare și bun este Dumnezeu
+De dragul Lui eu cânt mereu
+Când munții-nalți îi preamăresc
+Cu ei pe Domnul îl slăvesc
+Și-i mulțumesc că m-a creat
+Copilul Lui cu-adevărat

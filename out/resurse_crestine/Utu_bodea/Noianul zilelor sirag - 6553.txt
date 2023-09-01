@@ -1,0 +1,43 @@
+[title]
+Noianul zilelor sirag {author: {Utu Bodea}, {rcId: {6553}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Noianul zilelor șirag
+Aduse iar Crăciunul drag
+Aduse ziua din trecut
+În care, Doamne, Te-ai născut.
+O stea pe cer înainta
+În fața magilor mergea
+Azi ne conduce ca-n trecut
+Spre ieslea-n care Te-ai născut.
+
+[c]
+/: Ai adus o pace celor mai de jos
+Un har măreț la păcătoși
+Puterea dragostei cerești!
+Și arătând cât ne iubești
+În ieslea rece din trecut
+Te-ai născut. :/
+
+[v2]
+Noianul zilelor șirag
+Aduse iar Crăciunul drag
+Aduse ziua din trecut
+În care, Doamne, Te-ai născut.
+Din inimi astăzi noi clădim
+O iesle caldă, și dorim
+Să fii, Isuse, Prunc Preasfânt
+Și să Te naști cât mai curând.
+
+[v3]
+Noianul zilelor șirag
+Ne spun ca ești aproape-n prag
+Ne spun de ziua din trecut
+În care, Doamne, Te-ai născut.
+Pe cer a răsărit o stea
+Porniți de-acuma după ea
+Ea ne conduce ca-n trecut
+Spre ieslea-n care Te-ai născut!

@@ -1,0 +1,23 @@
+[title]
+Cand zorile revarsa margaritar pe flori {author: {Lowell Mason}, {rcId: {74282}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Când zorile revarsă mărgăritar pe flori,
+Când razele-și arată bogatele culori,
+Când umbra nopții piere și raze cresc ușor,
+Așterne-te la lucru, căci timpul trece-n zbor!
+
+[v2]
+Când soarele revarsă, al razei sale joc,
+Și lumea încălzește, cu para lui de foc,
+Așterne-te la muncă, lucrează iar cu spor,
+Căci trece dimineața și timpul trece-n zbor.
+
+[v3]
+Încet coboară seara și noaptea va veni,
+Murmură vântul dulce în codrii și câmpii,
+Amurgul tainic vine, munciți, munciți, cu zor,
+Căci iată vine noaptea, și timpul trece-n zbor.

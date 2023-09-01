@@ -1,0 +1,51 @@
+[title]
+Domnul s-a nascut {author: {Mircea}, {rcId: {6536}}
+
+[sequence]
+v1,v2,c,v3,c,e,v4,c,v5,c,v6,c
+
+[v1]
+Domnul azi s-a nascut
+Mantuitor noi am primit
+Veniti Lui sa ne-nchinam
+Ca pe-un Domn sa-L laudam
+
+[v2]
+Isus azi a venit
+Ravna-n noi a trezit
+El e Domn, Mantuitor
+Slava-n veci cantam de zor
+
+[c]
+Azi Domnul s-a nascut
+Si in suflet acum fericirea mi-a pus
+Veniti Lui sa ne inchinam
+Mantuire noi azi sa luam
+
+[v3]
+Mare-i Domnul, Domn Isus
+Pace noua ne-a adus
+Ne-a iubit si ne iubeste
+Zi de zi ne-o dovedeste
+
+[e]
+Chiar de-i greu sau e usor
+In El am mare ajutor
+
+[v4]
+Azi eu sunt fericit
+Domnul Isus mi-a daruit
+O viata buna si mantuire
+In El ma-ncred, cu El mi-e bine
+
+[v5]
+Doamne eu iti multumesc
+Ca in mine Tu lucrezi
+Pentru asta Te slavesc
+Si te laud, Te iubesc
+
+[v6]
+Fratii mei sa-I multumim
+Domnului si sa-L iubim
+De pacat ne-a salvat
+Si-o noua viata El ne-a dat.

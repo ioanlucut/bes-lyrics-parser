@@ -1,0 +1,39 @@
+[title]
+Voi azi porniti pe drumul care {author: {Simon Boloca}, {rcId: {212153}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Voi azi porniți, pe drumul care
+De la-nceput, a fost trasat
+Când Dumnezeu, i-a dat nevastă
+Primului om, pe nume Adam
+
+[c]
+Cu mulțumiri de azi nainte,
+Sa stați în fata Domnului
+Ca astăzi vedeți împlinirea,
+Promisiunilor Lui
+Și prin orice-ncercări veți trece,
+Nu uitați Domnul v-a unit
+Și legământul ce azi îl faceți,
+Sa-l duceți până la sfârșit
+
+[v2]
+O miri iubiți, sa știți că-n viața
+Nu vor fi numai, flori și cânt
+Dar de-i Hristos, stăpân în casă
+Biruitori, veți fi oricând
+
+[v3]
+Sa va iubiți, întodeauna
+Pe Dumnezeu, sa-L onorați
+In traiul vostru, sfânt cu teama
+Cel rău sa plece, rușinat
+
+[v4]
+Slujiții Lui, în orice vreme
+Chiar de averi, nu veți avea
+Căci voi aveți, ce n-are lumea
+Al vostru tată, e-mpărat

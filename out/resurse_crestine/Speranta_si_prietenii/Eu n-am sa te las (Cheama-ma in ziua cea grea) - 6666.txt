@@ -1,0 +1,61 @@
+[title]
+Eu n-am sa te las (cheama-ma in ziua cea grea) {author: {Speranța și prietenii}, {rcId: {6666}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,c5
+
+[v1]
+„
+Eu n-am să te las ca să pieri
+Când treci prin necazul cel greu;
+Atunci când Mă chemi în dureri,
+Eu vin! „, a promis Dumnezeu!
+
+[c]
+/: „
+Cheamă-Mă în ziua cea grea,
+Când nori de necaz vor veni,
+Atunci Eu te voi ajuta,
+Iar tu-n cânt Mă vei proslăvi! :/
+
+[v2]
+Când ziua s-a dus, e târziu
+Și singur în noapte rămâi
+În jurul tău totu-i pustiu
+Și-o piatră de-ți pui căpătâi,
+
+[c2]
+/: Cheamă-Mă și am să vin
+Și-o scară la Cer voi ’nălța
+În noapte, sub cerul senin,
+Cu tine de vorbă voi sta! :/
+
+[v3]
+Te simți, de furtuni, clătinat
+Și valul te-mpinge spre stânci,
+În jur mai auzi, disperat,
+Un vuiet de ape adânci...
+
+[c3]
+/: Cheamă-Mă-n ziua cea grea
+Când valul lovește cumplit;
+În Mine, pe Stâncă, vei sta
+Furtuna privind liniștit! :/
+
+[v4]
+Eu sunt Cel ce sunt, Dumnezeu
+Și-aud când mă strigi din necaz,
+Căci Eu văd din cer chinul tău
+Și lacrima pe-al tău obraz,
+
+[c4]
+Crede și nu te-ndoi!
+Așteaptă-n tăcere-ajutor
+Căci Eu lângă tine voi fi
+Și chinul va fi mai ușor!
+
+[c5]
+Cheamă-Mă în ziua cea grea
+Când nori de necaz vor veni;
+Atunci Eu te voi ajuta,
+Iar tu-n cânt Mă vei proslăvi!”

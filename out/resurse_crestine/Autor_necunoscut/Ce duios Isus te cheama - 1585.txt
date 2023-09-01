@@ -1,0 +1,40 @@
+[title]
+Ce duios isus te cheama {author: {Anonim}, {rcId: {1585}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ce duios Isus te cheamă,
+Călător ce-n lume treci!
+/: De atâția ani te-așteaptă,
+Să-I deschizi a vieții poartă,
+Ca să nu te pierzi pe veci. :/
+
+[c]
+/: Vino azi, :/ nu-ntârzia!
+Dacă-ți plângi viața ta,
+Dumnezeu te va ierta,
+Fericire iți va da;
+Viață-n veci, tu vei afla! :/
+
+[v2]
+Cât de greu iți va fi plânsul,
+Când vei auzi cu-amar:
+/: Har a fost și pentru tine,
+Dar n-ai vrut, ți-a fost rușine
+Și-ai respins mărețul har :/
+
+[v3]
+Azi, e vremea ta! Grabește!
+Mâine alții vor veni...
+/: N-amâna în pragul nopții!
+Vei dori, în clipa morții,
+Dar, atunci târziu va fi. :/
+
+[v4]
+Dar de-L vei primi chiar astăzi,
+Fi-vei fericit mereu.
+/: Vei pleca la Domnu-acasă,
+Sus, în țara glorioasă,
+La tronul lui Dumnezeu :/

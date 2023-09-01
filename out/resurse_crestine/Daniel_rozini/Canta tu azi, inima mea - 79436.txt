@@ -1,0 +1,29 @@
+[title]
+Canta tu azi inima mea {author: {Daniel Rozini}, {rcId: {79436}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Glasurile noastre astăzi ridicăm
+Și pe Domnul sfânt în cântec înălțăm
+Înălțăm pe Domnul marele-mparat
+Înălțăm pe Domnul care ne-a salvat
+
+[c]
+Cântă tu astăzi inima mea
+Cântă spre slava, slava, slava Sa
+Cântă un imn înălțător
+Pentru al Tău scump Mântuitor
+
+[v2]
+Hai să cântăm pe marele-mpărat
+Ce pentru noi murii crucificat
+Ochii Lui calzi atunci au lăcrimat
+Pentru vina noastră și al ’nost păcat
+
+[v3]
+Haideți să cântăm un imn de mărire
+Pentru Dumnezeu și a Lui iubire
+Să cântăm acum cu-ntraga natură
+Celui ce-a creat a noastră faptură

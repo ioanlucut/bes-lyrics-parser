@@ -1,0 +1,29 @@
+[title]
+Vin azi inaintea ta {author: {Grupul Omega}, {rcId: {239455}}
+
+[sequence]
+v1,b,c,v2,c
+
+[v1]
+Vin azi înaintea Ta
+Un lucru simplu să-Ți spun eu aș vrea
+Mulțumesc, mulțumesc
+Pentru ce mi-ai dăruit
+Binecuvântarea ce am primit
+Mulțumesc, mulțumesc
+
+[b]
+Inima-mi deschid, Te voi lauda
+Mâinile-mi ridic, Doamne-Ți voi canta
+
+[c]
+/: Mulțumesc, vreau doar să Îti mulțumesc. :/ x2
+Mulțumesc
+
+[v2]
+Viața mi-ai schimbat
+În noapte lumina mi-ai arătat
+Mulțumesc, mulțumesc
+Păcatul ai șters deplin
+Eliberat sunt acum de-orice chin
+Mulțumesc, mulțumesc

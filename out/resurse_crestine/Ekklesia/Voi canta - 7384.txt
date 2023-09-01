@@ -1,0 +1,32 @@
+[title]
+Voi canta {author: {Ekklesia}, {rcId: {7384}}
+
+[sequence]
+v1,b,c,v2,c
+
+[v1]
+Doamne-mi pari îndepărtat
+Chiar ani lumină sau un mai lung drum...
+Deși credința mi-am păstrat
+Mărturisesc acum: nu mă mai simt ascultat.
+
+[b]
+Dar nu știu ce să mai spun
+Și nu știu a ’nainta
+Însă Harul ce-l primesc
+Îmi schimbă inima.
+
+[c]
+Voi cânta, Te voi lăuda!
+Chiar în ceasul cel mai rău
+Prin durere și prin greu
+Voi cânta, Te voi lăuda!
+Mâinile le-am ridicat
+Fiindcă ești adevărat
+Voi cânta!
+
+[v2]
+Nu pot să întrezăresc
+Gândul Tău și-al Tău plan ceresc...
+Doar în Tine-am să mă-ncred
+Știind că ai murit să mă salvezi.

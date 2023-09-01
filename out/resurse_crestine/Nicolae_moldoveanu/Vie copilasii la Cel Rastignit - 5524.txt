@@ -1,0 +1,30 @@
+[title]
+Vie copilasii la cel rastignit {author: {Nicolae Moldoveanu}, {rcId: {5524}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Vie copilașii la Cel Răstignit!
+Pentru păcătoși, Domnul a murit!
+/: Iată, acum atârnă blând și răbdător,
+Plin de răni, pe cruce, Bunul Salvator. :/
+
+[v2]
+Inimile voastre să le înmuiați
+Și iertare cereți, lacrimi să vărsați,
+/: Căci păcatul nostru Domnul l-a purtat;
+Pentru vina noastră, moartea a răbdat. :/
+
+[v3]
+Deci, fugiți de rele, nu păcătuiți
+Și iertare cereți când vă știți greșiți!
+/: Izgoniți mândria, pofta de-orice rău!
+Din inimă rugați-L chiar dacă vi-e greu! :/
+
+[v4]
+Lăudați-L pe El, pe Crucificat,
+Spuneți-I: „
+O, Doamne, Ție ne-am predat!
+/: Prin al Tău sfânt sânge, Tu ne-ai curățit;
+Pentru veșnicie, Tu ne-ai mântuit.” :/

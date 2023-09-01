@@ -1,0 +1,41 @@
+[title]
+Atata har atata bine {author: {Nicolae Moldoveanu}, {rcId: {240937}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Atâta har, atâta bine,
+Și-atâta fericire,
+Primesc când îmi îndrept spre Tine,
+Isuse-a mea privire.
+
+[c]
+Dar cât de greu și cât de frântă,
+Mi-e totdeauna viața,
+Când uit Ființa Ta cea sfântă
+Și-ndrept spre lume fața,
+
+[v2]
+Ce bucurii, ce roade sfinte,
+Deplin mă-ncununează,
+Când Te prives cu dor fierbinte,
+Când ochii-Ți mă veghează!
+
+[c2]
+Dar ce căderi, ce-nfrângeri grele,
+Ce viață de pustie,
+Trăiesc când lumea-n toate cele,
+Privirea mi-o îmbie!
+
+[v3]
+Desăvârșită-mi fă dorința,
+Și-a ochilor lumine,
+Ca să-Ți privesc adânc Ființa,
+Întipărind-o-n mine.
+
+[c3]
+Și-apoi s-o nalț cu vrednicie,
+În trupul meu de tină,
+Ducând de-aici, spre Veșnicie,
+Lumină din Lumină.

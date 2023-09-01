@@ -1,0 +1,53 @@
+[title]
+Cu fata-nlacrimata {author: {Anonim}, {rcId: {7060}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7,v8
+
+[v1]
+Cu fata inlacrimata
+Caut spre slavile ceresti
+/: Caut ca acolo am nadejde
+O! Isuse unde esti? :/
+
+[v2]
+Tanar sunt dar n-am odihna
+Intre cele pamantesti
+/: Glasul meu umil te cheama
+O! Isuse unde esti? :/
+
+[v3]
+N-am odihna si nici pace
+Nu stiu daca ma iubesti
+/: Inima plangand te cheama
+O! Isuse unde esti? :/
+
+[v4]
+Ochii varsa mereu lacrimii
+De ce tu nu te ivesti
+/: Plang cu dorul tinereti
+O! Isuse unde esti? :/
+
+[v5]
+Tineretea mea te cheama
+Pana cand mai zabovesti?
+/: Fata mi-se ofileste
+O! Isuse unde esti? :/
+
+[v6]
+Sufletul din mine suspina
+Tu nimica nu-mi vorbesti
+/: Scapa-ma din gheara mortii
+O! Isuse unde esti :/
+
+[v7]
+Geme fiinta mea in lacrimi
+Plang de dorul tau Isuse
+/: Tineretea mea se stinge
+O! Isuse unde esti? ? :/
+
+[v8]
+Glasul meu te cheama-ntruna
+O! Isuse unde esti?
+/: Daca nu vi azi o Doamne
+Greu va fi sa mai traiesc. :/

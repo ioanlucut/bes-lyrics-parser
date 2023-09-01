@@ -1,0 +1,24 @@
+[title]
+Tu ma conduci {author: {Samuel Moldovean}, {rcId: {201605}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Tu mă conduci în orice vreme
+Și mi-ești mereu mângâietor,
+Iubirea Ta este puterea
+Ce în pustiu mi-e ajutor!
+
+[c]
+/: Tu îmi îndrepți ochii spre ceruri
+Când ispitiri sunt deseori
+Îmi amintești că veșnicia
+E acelor ce-s biruitori! :/
+
+[v2]
+Tu, Doamne, zilnic ești cu mine
+În ceasul rugii Tu m-asculți,
+Și când inima mea Te laudă,
+Îmi spui: ”
+În Mine ești ascuns!”

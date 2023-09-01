@@ -1,0 +1,29 @@
+[title]
+Ce minune {author: {Costache Ioanid, Otto Pascal}, {rcId: {225078}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cât de minunat e câmpul, plin de flori in fel și fel
+Dar ce minunat e-Acela care l-a făcut pe el :/
+x2
+
+[c]
+Ce minune, ce minune, suntem toți Creația Sa
+Ce minune, ce minune, Aleluia-I vom cânta
+
+[v2]
+Cât de minunata-i noaptea, cu luceferii din ea
+Dar ce minunat e-Acela, care i-a făcut așa :/
+x2
+
+[v3]
+Dacă așa frumos e cerul și pământul-așa plăcut
+Cât de minunat e Domnul Dumnezeu ce l-a făcut :/
+x2
+
+[v4]
+Dacă-atat de buna este inima din mama mea
+Cât de buna este a-Celui care a zidit-o-n ea :/
+x2

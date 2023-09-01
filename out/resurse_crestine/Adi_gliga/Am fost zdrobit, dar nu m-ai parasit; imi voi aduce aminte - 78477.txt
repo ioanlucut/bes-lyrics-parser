@@ -1,0 +1,24 @@
+[title]
+Am fost zdrobit dar nu m-ai parasit; imi voi aduce aminte {author: {Adi Gliga}, {rcId: {78477}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Am fost zdrobit, dar nu m-ai părăsit,
+M-ai încercat, pe brațe m-ai purtat.
+Credeam mereu că-s singur când mi-e greu,
+Dar m-ai păzit, mereu m-ai întărit.
+
+[c]
+Îmi voi aduce aminte, în clipa cea mai grea,
+Că Tu ești lângă mine, ești bucuria mea.
+Îmi voi aduce aminte, în clipa cea mai grea,
+Că Tu ești lângă mine, ești bucuria mea.
+
+[v2]
+N-am înțeles de ce m-ai încercat
+O, Doamne bun, dar tot am învățat
+S-ascult mereu și-n ceasul cel mai greu
+Să pot striga: „
+Există Dumnezeu!”

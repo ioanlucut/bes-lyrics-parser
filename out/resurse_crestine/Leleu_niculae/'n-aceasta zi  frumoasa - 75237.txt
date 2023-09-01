@@ -1,0 +1,31 @@
+[title]
+N-aceasta zi frumoasa {author: {Leleu Niculae}, {rcId: {75237}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+’n acestă zi frumoasă
+Aducem lui Isus
+Cântărea noastră aleasă
+Căci ne-a iubit nespus
+
+[c]
+Slăvim,
+Slăvim
+Pe-al nostru împărat Ceresc
+Slăvim,
+Slăvim
+Pe Domnul Adorat
+
+[v2]
+El a iubit copiii
+Cât a fost pe pământ
+Și-acuma sus în Ceruri
+El ne iubește mult
+
+[v3]
+La Tronul Milei Sale
+Acum îngenunchiem
+Din suflet fiecare
+Lui Viața să-i predăm

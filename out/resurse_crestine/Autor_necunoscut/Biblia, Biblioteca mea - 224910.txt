@@ -1,0 +1,41 @@
+[title]
+Biblia biblioteca mea {author: {Anonym}, {rcId: {224910}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Biblia, biblioteca mea
+Biblia e farmacia mea
+Biblia e bogăție
+Vesnica împărăție
+
+[c]
+Și daca Domnul cuvânt nu ne-ar da
+Nefericiți și săraci ne-am afla
+N-am fi stiut de Domnul Isus
+Nici de viata ce duce-n cer sus
+
+[v2]
+Biblia carte curată
+Biblia viata schimbată
+Biblia lumina vie
+Plina de armonie
+
+[c2]
+Haideți cu toți sa citim Biblia
+Ca sa putem mântuire avea
+Nu-ti risipi deci timpul-n zadar
+Ci studiază al cerului dar
+
+[v3]
+Biblia iti revelează
+Biblia te luminează
+Biblia duce la viață
+Biblia iti da povață
+
+[c3]
+Foarte curând Biblia nu va mai fi
+Nici Duhul Sfânt nu va mai vorbi
+Nu va mai fi nici biserica sa
+La judecata cu toți vor sta.

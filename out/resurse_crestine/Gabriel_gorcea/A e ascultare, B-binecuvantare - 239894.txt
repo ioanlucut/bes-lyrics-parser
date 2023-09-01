@@ -1,0 +1,55 @@
+[title]
+A e ascultare b-binecuvantare {author: {Gabriel Gorcea}, {rcId: {239894}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+A e ascultare, B-binecuvântare
+C e credință, D-dragoste
+E e evlavie, F-facerea de bine,
+G e glasul Domnului, H e harul Lui.
+Alfabetul limbii sfinte, eu am învățat
+Cum să citesc, cum să vorbesc,
+Cum să trăiesc curat.
+Alfabetul limbii sfinte în inimă-l păstrez
+Cât trăiesc mă ajută, pe Domnul să-L urmez.
+A, B, C, D, E, F, G, H.
+
+[v2]
+I e Isus, Î-înțelepciune,
+J e judecată, K-kilograme de roade bune
+L-leul din Iuda, M-mântuire prin Isus,
+N e nădejde, O-odaia de sus.
+Alfabetul limbii sfinte, eu am învățat
+Cum să citesc, cum să vorbesc,
+Cum să trăiesc curat.
+Alfabetul limbii sfinte în inimă-l păstrez
+Cât trăiesc mă ajută, pe Domnul să-L urmez.
+A, B, C, D, E, F, G, H, I, Î, J, K, L, M, N, O
+
+[v3]
+P e pocăință, R-recunoștință,
+S-sfințenia Domnului, Ș-șoapta Duhului
+T e tărie, Ț-țara de sus,
+U-unitate, V-viață fără apus.
+Alfabetul limbii sfinte, eu am învățat
+Cum să citesc, cum să vorbesc,
+Cum să trăiesc curat.
+Alfabetul limbii sfinte în inimă-l păstrez
+Cât trăiesc mă ajută, pe Domnul să-L urmez.
+A, B, C, D, E, F, G, H, I, Î, J, K, L,
+M, N, O, P, R, S, Ș, T, Ț, U, V.
+
+[v4]
+X se aseamănă cu o cruce, unde Isus s-a jertfit,
+Z e ziua mare ce Domnul a pregătit.
+Învață alfabetul să ai mântuire
+În El vei găsi comori de fericire!
+Alfabetul limbii sfinte, eu am învățat
+Cum să citesc, cum să vorbesc,
+Cum să trăiesc curat.
+Alfabetul limbii sfinte în inimă-l păstrez
+Cât trăiesc mă ajută, pe Domnul să-L urmez.
+A, B, C, D, E, F, G, H, I, Î, J, K, L,
+M, N, O, P, R, S, Ș, T, Ț, U, V, X, Z.

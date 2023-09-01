@@ -1,0 +1,38 @@
+[title]
+Daca esti cuprins de-ngrijorare {author: {Anonim}, {rcId: {74578}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Dacă ești cuprins de-ngrijorare
+Inima ți-e plină de-ntristare
+Amară-i lacrima, e grea povara ta
+Pe drumuri plângi mereu, te știe Dumnezeu.
+
+[c]
+/: Nu-i nimeni ca să-ți ia
+Din piept durerea ta
+Doar Isus, doar Isus, doar Isus :/
+
+[v2]
+Dacă ești uitat în astă lume
+De durerea ta nu ai cui spune
+De n-ai cui să te plângi și inima ți-o frângi
+Ascultă dragul meu, există Dumnezeu.
+
+[c2]
+/: Să-L chemi tu pe Isus
+Și îți v-a fi de-ajuns
+Doar Isus, doar Isus, doar Isus :/
+
+[v3]
+Vino acum cu viața ta amară
+Vino la Isus cu a ta povară
+Un har nemărginit e Domnul meu iubit
+Și crede dragul meu te iartă Dumnezeu.
+
+[c3]
+/: Povara-ți va lua
+Isus te va ierta
+Doar Isus, doar Isus, doar Isus :/

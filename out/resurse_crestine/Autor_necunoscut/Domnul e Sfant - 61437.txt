@@ -1,0 +1,26 @@
+[title]
+Domnul e sfant {author: {Anonim}, {rcId: {61437}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+/: Domnul e Sfânt x2
+Numai a Lui este acest cuvânt
+În cer și pe pământ
+Numai Lui I se cântă-acest cânt
+Domnul e Sfânt. :/
+
+[c]
+Aleluia, aleluia,
+Numai a Lui este cântarea
+În toată lumea
+Numai Domnului I se cânt-așa
+Aleluia, aleluia!
+
+[v2]
+/: Duhul Tău Sfânt :/
+A pus în noi a veșniciilor gând
+Mâinile către Tine
+Le înălțăm și Te rugăm
+Cu Tine pe veci noi să fim.

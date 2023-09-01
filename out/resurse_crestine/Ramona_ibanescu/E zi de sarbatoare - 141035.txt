@@ -1,0 +1,34 @@
+[title]
+E zi de sarbatoare {author: {Ramona Ibănescu}, {rcId: {141035}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+E zi de sărbătoare, o zi de neuitat
+Când Isus sfântul Soare, din morți a înviat
+E zi de bucurie, răsună-n lung si-n lat
+Că pentru veșnicie Hristos a înviat.
+
+[c]
+/: A-nviat, A-nviat,
+O ce minunat
+Hristos a înviat. :/
+
+[v2]
+În zori de dimineața, cu sufletul arzând
+Aleargă plină de dor Maria la mormânt.
+Văzând mormântul rece, că-i gol s-a-nspăimântat
+Dar îngerul îi zice Hristos a înviat.
+
+[v3]
+Uimiți stau ucenici, privind la-L Său mormânt
+O unde-i, unde-i Domnul se-ntreabă ei plângând.
+Dar îngerul le spune tot ce s-a întâmplat
+Spuneți la toată lumea Hristos a înviat.
+
+[v4]
+Își cântă bucuria, natura-ntreagă-n cor
+Si râul si câmpia și pasările-n zbor.
+Isus e viu mărire, El ne-a eliberat
+Si ne-a dat mântuire, Hristos a Înviat!

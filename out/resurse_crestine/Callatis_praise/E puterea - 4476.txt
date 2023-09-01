@@ -1,0 +1,35 @@
+[title]
+E puterea {author: {Callatis Praise}, {rcId: {4476}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Lumea se întreabă ce-i cu noi
+De trăim mereu biruitori
+Ei nu știu de locul minunat
+În Golgota frică ne-a lăsat
+
+[c]
+E puterea Tatălui de sus
+E puterea jertfei lui Isus
+Eputerea Duhului cel sfânt
+E puterea crucii zi de zi în noi
+
+[v2]
+Crucea-i locul unde ne-a spălat
+De robia morții ne-a scăpat
+Și trăim mereu biruitori
+Căci puterea crucii ce-i în noi
+
+[v3]
+Lumea se intreaba ce-i cu noi
+De traim mereu biruitori
+Ei nu stiu ca locul minunat
+La Golgota frica ne-am lasat
+
+[v4]
+El cu sangele Lui ne-a spalat,
+De frica mortii ne-a scapat
+Si traim mereu biruitori
+Caci puterea crucii e in noi

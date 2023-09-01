@@ -1,0 +1,35 @@
+[title]
+Rugaciune pentru romania {author: {Nicoleta Mașcaș, Răzvan Rește}, {rcId: {182554}}
+
+[sequence]
+v1,c,v2,c,c2,e,c,c2
+
+[v1]
+Privește iar cu-ngăduință pământul românesc
+Mai toarnă har de dragul celor care Te iubesc!
+Sfințește-i țării noastre pasul, veșnic frământat
+Și inima păstrează-i, Doamne, un izvor curat!
+
+[c]
+Să Te cinstească toată România
+Din sufletul încins cu bucurie
+Prin jertfa lui Isus cel fără pată,
+Desăvârșește-o pentru veșnicie!
+
+[v2]
+Îndură-te de România, de suflarea toată
+Și iartă nevegherea noastră, viața întinată.
+Îmbrățișează iar cu milă neamul românesc
+De dragul inimilor care încă Te slujesc!
+
+[c2]
+Trimite gărzi de îngeri s-o păzească
+Și dă-i în cele sfinte biruința,
+Evlavie, curaj, statornicie,
+Ca să-și trăiască răspicat credința!
+
+[e]
+Prin văi adânci și ape-nvolburate
+Ai fost mereu cu noi când Te-am chemat
+Sub cer de plumb și pe pământ de-aramă
+Al nostru sac de jale-ai dezlegat.

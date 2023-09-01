@@ -1,0 +1,42 @@
+[title]
+Pocaieste-te omule {author: {preluare Familia Jireada}, {rcId: {204329}}
+
+[sequence]
+v1,c,v2,c,v3,c,v5,c
+
+[v1]
+Meditează la viața ta astăzi, tu, omule!
+Scoală-te din păcat, cercetează-ți-viața ta!
+Cine ești, ce dorești, cum trăiești fără de Dumnezeu
+Nu te pierde așa de ușor, încrede-te-n El!
+
+[c]
+Pocăiește-te, omule, ca să nu-ți pierzi sufletul!
+Ridică-ți privirea-n sus, stai de vorbă cu Isus!
+Pocăiește-te, omule, până încă nu-i târziu
+Până încă mai e har și totul primești în dar!
+Pocăiește-te, omule, ca să nu-ți pierzi sufletul!
+Ridică-ți privirea-n sus, stai de vorbă cu Isus!
+Pocăiește-te, omule, până încă nu-i târziu
+Până încă mai e har și totul primești în dar!
+Pocăiește-te, omule, ca să nu-ți pierzi sufletul!
+Ridică-ți privirea-n sus, stai de vorbă cu Isus!
+Pocăiește-te, omule, până încă nu-i târziu
+Până încă mai e har și totul primești în dar!
+
+[v2]
+După moarte va fi prea târziu și vei regreta
+Vin’la Isus acum să-Ți dea El mântuirea Lui!
+Meditează la viața ta astăzi, tu, omule!
+Eul tău, omule, frânge-ți-l, pocăiește-te!
+Nu-amâna că nu-i timp de pierdut,
+tu nu știi cât trăiești
+Vin’la Isus acum ca să fii mântuit pe veci!
+
+[v3]
+După moarte va fi prea târziu și vei regreta
+Vin’la Isus acum să-Ți dea El mântuirea Lui!
+
+[v5]
+După moarte va fi prea târziu și vei regreta
+Vin’la Isus acum să-Ți dea El mântuirea Lui!

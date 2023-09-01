@@ -1,0 +1,36 @@
+[title]
+Sunt in mana ta isuse {author: {Nicolae Moldoveanu}, {rcId: {215491}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Sunt în mâna Ta, Isuse
+Și aceasta mi-e de-ajuns
+Chiar când temeri nemaispuse
+În adâncuri mi-au pătruns.
+
+[c]
+/: Sunt în mâna Ta :/
+Sunt în mâna Ta cea tare
+Și pe nor ca și pe soare
+Sunt în mâna Ta, Isuse
+/: Sunt în mâna Ta :/
+
+[v2]
+Sunt în mâna milei Tale.
+Când bat vânturi de-ndoieli,
+Iar când sunt rănit pe cale,
+Tu mă vindeci și mă speli.
+
+[v3]
+Sunt în mâna nesecată
+A-nsoritului Tău har
+Chiar când viața mi-e purtată
+Peste-al beznelor hotar.
+
+[v4]
+Sunt în mâna Ta oriunde,
+Orșicând și orișicum
+Ea de moarte mă ascunde
+Când s-ar arăta în drum.

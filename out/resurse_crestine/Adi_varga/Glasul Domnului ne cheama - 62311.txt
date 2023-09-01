@@ -1,0 +1,54 @@
+[title]
+Glasul domnului ne cheama {author: {Adi Varga}, {rcId: {62311}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+Glasul Domnului ne cheamă
+Să privim cu toții-n sus
+/: Ne spune pe față
+Să trăim o viață
+Mai aproape de Isus :/
+
+[v2]
+Este vremea cea din urmă
+Se desface al vieți fir
+/: Azi ne cheamă Domnul
+Să vină tot omul
+Mai aproape de Isus :/
+
+[v3]
+Bucurii ca în credință
+Nicăieri în lume nu-s
+/: Să băgăm de seamă
+Biblia ne-ndeamnă
+Mai aproape de Isus :/
+
+[v4]
+Acum înainte de moarte
+Te cheamă Domnul Isus
+/: Biblia ne-nvață
+Să trăim o viață
+Mai aproape de Isus :/
+
+[v5]
+Vremurile cele bune
+Nu mai sunt, demult s-au dus
+/: Și în vremuri grele
+Astăzi mi se cere
+Mai aproape de Isus :/
+
+[v6]
+Deci și tu frate creștine
+Înțelege ce ți-am spus
+/: Și cu bucurie
+Toți aici să fie
+Mai aproape de Isus :/
+
+[v7]
+Au trecut acele vremuri
+Nu mai sunt demult s-au dus
+/: În lumina vieți
+Să trăim cu toții
+Mai aproape de Isus :/

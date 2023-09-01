@@ -1,0 +1,35 @@
+[title]
+Popor poporul meu {author: {Betel Grup Dumbrăveni}, {rcId: {6300}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Popor ales din lumea rea
+popor, poporul Meu
+/: Răscumpărat prin jertfa Mea,
+o neam din Dumnezeu. :/
+
+[v2]
+O viață nouă, Eu ți-am dat
+popor, poporul Meu
+/: Cu Duhul Sfînt te-am botezat,
+o neam din Dumnezeu. :/
+
+[v3]
+Prin încercări ce vor veni
+popor, poporul Meu
+/: Mereu de partea ta voi fi,
+o neam din Dumnezeu. :/
+
+[v4]
+Căci tu Mireasă vreau să-mi fi
+popor, poporul Meu
+/: Și-n cerul Sfânt vom locui,
+o neam din Dumnezeu. :/
+
+[v5]
+De-acum ’nainte eu îți spun
+popor, poporul Meu
+/: Așteaptă-mă că sunt pe drum,
+o neam de Dumnezeu :/

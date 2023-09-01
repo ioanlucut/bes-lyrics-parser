@@ -1,0 +1,37 @@
+[title]
+Multumesc-thank you jesus {author: {James and Ursula Matchack}, {rcId: {169553}}
+
+[sequence]
+v1,c,c
+
+[v1]
+Sunt fericit, căci ai ales
+Inima-mi pentru tin’
+Născut din nou, sunt binecuvântat
+Ca și tin’
+
+[c]
+Doamne vreau să-ți mulțumesc
+Doamne vreau să te slăvesc
+Gloria îți aparține în veci
+Doamne te iubesc pe tin’
+Numai ție mă închin
+Binecuvintez numele tău
+Mulțumesc
+Doamne vreau să te slăvesc
+Gloria îți aparține în veci
+Doamne te iubesc pe tin’
+Numai ție mă închin
+Binecuvintez numele
+Mulțumesc
+Doamne vreau să te slăvesc
+Gloria îți aparține în veci
+Doamne te iubesc pe tin’
+Numai ție mă închin
+/: Binecuvintez numele tău :/ (2x)
+
+[b]
+/: Mulțumesc :/4x
+/: Te iubesc :/4x
+/: Te măresc :/4x
+/: Te slăvesc :/7x

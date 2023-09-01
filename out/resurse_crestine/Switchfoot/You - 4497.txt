@@ -1,0 +1,59 @@
+[title]
+You {author: {Switchfoot}, {rcId: {4497}}
+
+[sequence]
+v1,c,c,v2,c,v3,b,c,e
+
+[v1]
+There’s always something
+In the way
+There’s always something
+Getting through
+But it’s not me
+It’s You, it’s You
+
+[c]
+Sometimes ignorance
+Rings true
+But hope is not in
+What i know
+It’s not in me..me
+It’s in You, it’s in You
+
+[b]
+It’s all i know
+It’s all i know
+It’s all i know
+It’s all i know
+It’s all i know
+It’s all i know
+In You
+In You
+Its in You
+Its in You
+
+[v2]
+I find peace when
+I’m confused
+I find hope when
+I’m let down
+Not in me... Me
+In You
+It’s in you
+
+[v3]
+I hope to lose myself
+For good
+I hope to find it in the end
+Not in me... Me
+In You
+In You
+In You
+
+[e]
+There’s always something in the way
+There’s always something getting through
+But it’s not me
+It’s You
+It’s You
+It’s You....

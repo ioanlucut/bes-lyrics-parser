@@ -1,0 +1,17 @@
+[title]
+A inviat a inviat {author: {Anonim}, {rcId: {213500}}
+
+[sequence]
+c,v1,c
+
+[c]
+/: A Înviat, a înviat
+Isus Hristos a înviat :/
+/: A Înviat, A Înviat
+Isus Hristos a înviat :/
+
+[v1]
+Mormântul nu l-a întemnițat
+Să-l țină pentru veci legat
+Căci El era nevinovat
+De aceea a înviat

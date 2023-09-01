@@ -1,0 +1,35 @@
+[title]
+Iata zorile sunt aproape {author: {Anonim}, {rcId: {3870}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Iată zorile sunt aproape
+Si inima-mi spune căci Tu vei veni
+Te aștept mereu zi și noapte
+Și sunt fericit căci cu Tine voi fi
+
+[c]
+Glorioasă nespus va fi ziua
+Când mă vei chema la Tine Isus
+Ziua când mă vei duce Acasă
+În Țara frumoasă pregătită sus
+
+[v2]
+Te aștept iubitul meu Mire
+Să-ți cânt osanale când Tu vei veni
+Dorul Tău în suflet mă arde
+Și sunt fericit căci cu Tine voi fi
+
+[v3]
+Sufletul meu Ție îți cântă
+Imnuri glorioase căci Tu vei veni
+Te aștept cu dor zi și noapte
+Și sunt fericit căci cu Tine voi fi
+
+[v4]
+Pregătiri se fac azi în ceruri
+Și-n văzduh răsună sfinte melodii
+Iată zorile sunt aproape
+Și sunt fericit căci cu Tine voi fi.

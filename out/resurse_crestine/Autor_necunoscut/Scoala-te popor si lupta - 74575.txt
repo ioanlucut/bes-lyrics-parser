@@ -1,0 +1,35 @@
+[title]
+Scoala-te popor si lupta {author: {Anonim}, {rcId: {74575}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Scoală-te popor și luptă
+Luptă-te neîncetat
+/: Că ’naintea noastră merge
+Sfântul nostru Împărat :/
+
+[c]
+Luptă-te, luptă-te mereu,
+Înaintea noastră este Dumnezeu
+Luptă-te întruna, fii voios
+Înaintea noastră e Isus Hristos.
+
+[v2]
+Să fii treaz popor pe cale
+Fii mereu curat și sfânt
+/: Nu uita că scurtă-i vremea
+Și-om pleca de pe pământ :/
+
+[v3]
+Mai avem de a străbate
+Nopți amare, văi adânci
+/: Porumbițo nu te teme
+Ieși degrabă dintre stânci :/
+
+[v4]
+O, ridică-te și luptă
+În Hristos vei birui
+/: Să fii gata-n orice clipă
+Că Isus ne va primi :/

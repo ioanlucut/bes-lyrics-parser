@@ -1,0 +1,32 @@
+[title]
+E zi de sarbatoare azi botez in casa domnului {author: {Alexandru Groza}, {rcId: {185724}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+E zi de sărbătoare azi, botez în casa Domnului,
+Isus Hristos Mielul cel sfânt e preamărit.
+Mulțimi de oameni vin în rând, atrași de Tatăl Dumnezeu,
+Și printre ei, iată-mă, Doamne, vin și eu!
+
+[c]
+În apă-s botezat, haină albă am îmbrăcat
+În Dumnezeu în Hristos sunt ancorat.
+Născut din nou eu sunt
+Din apă și din Duh Sfânt
+E bucurie în cer și pe pământ.
+Minunată e lucrarea Domnului
+Pentru salvarea păcătosului.
+
+[v2]
+Îl voi urma pe Domnul meu, cu bucurie tot mereu.
+Că sângele Lui mi-a spălat al meu păcat.
+Și pentru că Lui m-am predat, de El sunt binecuvântat,
+Născut din nou eu sunt copil al cerului!
+
+[v3]
+Dacă și tu-n inima ta, dorești pe Domnul a urma
+Primește mântuire-n dar, e timp de har
+Să ai iertare ești chemat, crede în El să fii salvat
+Că sângele Lui spală azi și-al tău păcat!

@@ -1,0 +1,53 @@
+[title]
+Zilele trec ca si gandul {author: {Nicolae Moldoveanu}, {rcId: {5550}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Zilele trec ca și gândul,
+Anii vieții trec în șir,
+Iar pe plaiurile vieții,
+Zi de zi se țese-un fir.
+
+[c]
+/: Pe războiul vieții tale,
+Fire albe s-au urzit;
+Hristos Domnul, cu-a Lui mână,
+Firul tău l-a năvădit :/
+
+[v2]
+Deci, ai grijă și veghează
+La orice faptă și cuvânt,
+Căci suveica mereu țese,
+În pânza vieții, rând pe rând!...
+
+[c2]
+/: Când tu cercetezi săracul,
+Și un bine ai făcut,
+Fire albe și curate
+În pânza vieții ai țesut :/
+
+[v3]
+Pe cărarea vieții tale,
+Țese-ntruna, dragul meu,
+Firele de rugăciune
+Și cântări lui Dumnezeu!
+
+[c3]
+/: Pânza vieții e o taină
+Ea cuprinde mersul tău,
+Tot ce faci în lumea asta:
+De faci bine, de faci rău :/
+
+[v4]
+Nu uita căci mâine, poate,
+Firul vieții s-a găta;
+Din războiul vieții tale,
+Pânza ta se va lua.
+
+[c4]
+/: Vei vedea în veșnicie
+Ce-ai lucrat jos pe pământ.
+Pânza vieții îți arată
+Orice faptă și cuvânt. :/

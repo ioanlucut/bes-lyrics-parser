@@ -1,0 +1,53 @@
+[title]
+Nimic nu-i mai frumos {author: {Nicolae Moldoveanu}, {rcId: {244051}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Nimic nu-i mai frumos pe lume,
+Nimic nu-i mai statornic, nu-i
+Ca bucuria muncii sfinte,
+Ca rodul strâns la vremea lui.
+
+[c]
+Când Dumnezeu ca un prieten
+Veghează peste cortul tău,
+Cine-ar putea să te-amenințe
+Și ce-ar putea să-ți facă rău?
+
+[v2]
+Când cel nenorocit se roagă
+Spre binecuvântarea ta,
+Cine-ar putea s-o-ndepărteze
+Ca Dumnezeu să nu ți-o dea?
+
+[c2]
+Când orbului îi ești vedere
+Și șchiopului îi ești picior,
+Când ești orfanului părinte
+Și slabului ocrotitor,
+
+[v3]
+Când ți-e cuvântul tău ca roua,
+Când ești ca ploaia așteptat,
+Nimic nu-i mai frumos ca urma
+Ce-o lasă pasul tău curat.
+
+[c3]
+Atunci lumina ta va crește,
+Ca soarele spre-al zilei miez,
+Atunci pe-ai tăi crescând și-n număr
+Și-n vrednicie ai să-i vezi.
+
+[v4]
+Atunci urcușul vieții tale,
+Va fi ca drumul cel ușor,
+Încununat cu bucurie
+Spre-un drept și sigur viitor.
+
+[c4]
+Atunci prin tine-mbogățite
+Mulțimi în veac te vor cinsti,
+Și cine-ar ști în veșnicie
+Pe cât întins vei străluci!

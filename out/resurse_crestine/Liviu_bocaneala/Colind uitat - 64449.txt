@@ -1,0 +1,21 @@
+[title]
+Colind uitat {author: {Liviu Bocaneală}, {rcId: {64449}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+Ninge peste noi, ninge ca-ntr-un vis
+Ninge și-am uitat de unde am pornit
+Ninge ca-ntr-un basm, într-un vechi oraș
+Ninge-n toată lumea și timpul s-a oprit.
+
+[v1]
+Înfloresc la geamuri florile de ger
+Și se-aude-n noapte: Leru-i, Doamne, ler.
+Vin colindătorii, Leru-i, Doamne, ler.
+
+[v2]
+Și primesc iar vestea despre Pruncul drag
+Să nu-L las afară să-L aștept în prag
+Să-l primesc în casă, Pruncul cel mai drag.

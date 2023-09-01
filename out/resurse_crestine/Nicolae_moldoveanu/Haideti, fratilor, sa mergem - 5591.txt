@@ -1,0 +1,53 @@
+[title]
+Haideti fratilor sa mergem {author: {Nicolae Moldoveanu}, {rcId: {5591}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,v5,c5,v6,c6
+
+[v1]
+Haideti, fratilor, sa mergem o Cu pasi repezi, spre Isus!
+Sa ne tinem, mana-n mana, o Pana vom ajunge sus!
+
+[c]
+/: Haideti, fratilor, ’nainte o Cu Satan sa ne luptam!
+Domnul Isus ne ajuta o Ca-n lupta sa rezistam. :/
+
+[v2]
+Caci lui Satan pe pamant o Toti i-am declarat razboi.
+Hai, sa ne iubim cu totii, o Caci Isus este cu noi.
+
+[c2]
+/: Sa ne sprijinim, in ruga, o Cand suntem prin incercari!
+In Isus, salvarea noastra o Sa ne gasim dezmierdari. :/
+
+[v3]
+Acum traim timpuri grele, o Si nu-i deloc de glumit,
+Hai, sa ne iubim mai tare, o Caci e timpul pe sfarsit.
+
+[c3]
+/: Domnul nostru e Domn mare: o Cu El nu putem glumi
+El va da cununa vietii o Celor ce vor birui. :/
+
+[v4]
+Nici chiar moartea sa nu poata o De El a ne desparti!
+Cei ce au murit in Domnul, o Cu El, in veci vor trai.
+
+[c4]
+/: Sadrac, Mesac si-Abed-Nego o L-au biruit pe cel rau;
+Noi sa facem toti ca dansii, o Caci cu noi e Dumnezeu! :/
+
+[v5]
+Multi au suferit cu Domnul, o Ani de-a randul, pe pamant,
+Dar nu au vegheat o clipa o Si cununa si-au pierdut.
+
+[c5]
+/: Poti sa-L pierzi pe Domnul Isus o Dac-o clipa n-ai vegheat
+Si atunci o vesnicie o N-ai decat de regretat. :/
+
+[v6]
+Cel Rau lupta cu putere o Ca pe multi sa-i lege-n lat,
+Sa-i prinda-n pacate grele, o Sa nu mai fie iertati.
+
+[c6]
+/: Isus altul nu mai moare, o Sus pe lemn crucificat!
+Cin’ L-a parasit o data, o In veci nu va fi iertat... :/

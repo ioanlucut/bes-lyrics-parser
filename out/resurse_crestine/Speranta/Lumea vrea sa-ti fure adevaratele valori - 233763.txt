@@ -1,0 +1,35 @@
+[title]
+Lumea vrea sa-ti fure adevaratele valori {author: {Speranța}, {rcId: {233763}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Lumea vrea să-ți fure adevăratele valori
+Dar tu omule nu sta nepăsător
+Nu te ascunde după zid când bătălia este grea
+Luptă-te pentru familia ta.
+
+[c]
+Luptă-te nu te lăsa, chiar dacă lupta-i grea
+Luptă până la sfârșit și vei fi răsplătit
+Luptă-te nu te lăsa, luptă pentru casa ta
+Luptă-te lupta cea bună, să primești în cer cunună.
+
+[v2]
+Dușmanul vrea cu orice chip să te fărâme
+Temelia casei tale să o dărâme
+Cu o mână pe armă și alta pe zid, că asta este vremea grea
+Luptă-te pentru familia ta.
+
+[v3]
+Chiar dacă vei plăti un preț dragul meu
+Tu nu ești singur, ești cu Dumnezeu
+Nu sta nepăsător, fii preot în casa ta
+Luptă-te pentru familia ta.
+
+[e]
+Ține adevărul sus chiar de ești hulit
+Păstrează credința sfântă de ești lovit
+Nu te lăsa în voia celui rău
+Căci finalul tău va fi cu Dumnezeu!

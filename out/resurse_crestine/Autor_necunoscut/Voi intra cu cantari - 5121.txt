@@ -1,0 +1,18 @@
+[title]
+Voi intra cu cantari {author: {Anonim}, {rcId: {5121}}
+
+[sequence]
+v1,c
+
+[v1]
+Voi intra cu cântări
+În cetatea Domnului,
+Voi intra cu laude pe porți.
+Și voi spune:
+”
+Aceasta e ziua Domnului”
+Și mă voi bucura că-s mântuit.
+
+[c]
+/: El m-a mântuit, El m-a mântuit,
+Îl voi slăvi, căci azi sunt fericit. :/

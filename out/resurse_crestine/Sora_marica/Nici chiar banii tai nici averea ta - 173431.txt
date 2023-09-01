@@ -1,0 +1,35 @@
+[title]
+Nici chiar banii tai nici averea ta {author: {Sora Marica}, {rcId: {173431}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Când treci prin necaz și moarte,
+Si prin strâmtorare...
+Nu este împărați si doctori
+/: Să-ți aducă Salvare... :/
+
+[c]
+/: Nici chiar bani tăi...
+Nici avearea ta...
+Decât Isus din Nazareat
+/: Ce-a învis pe Golgota... :/
+
+[v2]
+/: Când treci prin necaz și boale,
+Ești pus în cuptor...
+Nu este împărați și doctori
+/: Să-ți vie în ajutor... :/
+
+[v3]
+/: Când treci prin necaz și valuri,
+Și ești încercat...
+Nu este împărații și doctorii
+/: Să-ți vindece rana ta... :/
+
+[v4]
+/: Când treci prin necaz în lume,
+Și simți cu n-ai pe nimeni
+Nu este împărați și oameni
+/: Necazul să-ți aline... :/

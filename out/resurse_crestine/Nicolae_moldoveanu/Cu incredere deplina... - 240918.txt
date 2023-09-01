@@ -1,0 +1,41 @@
+[title]
+Cu incredere deplina {author: {Nicolae Moldoveanu}, {rcId: {240918}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Cu încredere deplină
+În lucrarea harului,
+Viața mea o pun senină,
+Deasupra Altarului.
+
+[v2]
+Ca să ardă-n sfânta pară,
+Jertfă aducându-se,
+Adevărului și iară
+Lui mai mult predându-se!
+
+[v3]
+Să-l înalțe cu tărie,
+Fără nici o temere,
+Morții din păcat să-nvie,
+Lumea s-o cutremure!
+
+[v4]
+Să dărâme temelia,
+Tuturor minciunilor,
+Aducând Împărăția
+Veșnic-a luminilor.
+
+[v5]
+Cu încredere curată
+În Cuvântul Cerului,
+Viața mi-o jertfesc pe toată,
+Numai Adevărului.
+
+[v6]
+Să rodească El în mine,
+Prin Lucrarea Harului,
+Viața limpedei lumine
+Deasupra Altarului!

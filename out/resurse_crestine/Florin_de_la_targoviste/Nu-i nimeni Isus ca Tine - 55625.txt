@@ -1,0 +1,41 @@
+[title]
+Nu-i nimeni isus ca tine {author: {Florin de la Targoviste}, {rcId: {55625}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+/: Nu-i nimeni Isus ca Tine :/
+/: Prin nopți de durere,
+Să dea mângâiere,
+Nu-i nimeni Isus ca Tine :/
+
+[v2]
+/: Nu-i nimeni Isus ca Tine :/
+/: Nu-i nimeni ca Tine,
+Să facă bine,
+Nu-i nimeni Isus ca Tine :/
+
+[v3]
+/: Nu-i nimeni Isus ca Tine :/
+/: S-aducă iertare,
+Și eliberare,
+Nu-i nimeni Isus ca Tine :/
+
+[v4]
+/: Nu-i nimeni Isus ca Tine :/
+/: S-aducă lumina
+Să mustre furtuna,
+Nu-i nimeni Isus ca Tine :/
+
+[v5]
+/: Nu-i nimeni Isus ca Tine :/
+/: S-aducă credință,
+Să dea biruință,
+Nu-i nimeni Isus ca Tine :/
+
+[v6]
+/: Nu-i nimeni Isus ca Tine :/
+/: Să poarte spre Stele,
+Pe-aripi de putere,
+Pe-aceia ce-n Slavă îi duci :/

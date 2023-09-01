@@ -1,0 +1,35 @@
+[title]
+Multe-s relele pe lume {author: {Anonim}, {rcId: {6795}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Multe-s relele pe lume
+Insă una-i cea mai rea,
+Mama care n-o să-și vadă
+Toți copiii-n cer cu ea.
+
+[c]
+/: O, isuse tare-i greu
+Să fi mamă cum sunt eu.
+Când copiii nu te-ascultă
+Si îți fac durere multă. :/
+
+[v2]
+Multe lacrimi sunt amare
+Insă plânsul mai cu bai
+Este a mamei cu copiii
+Despărțiți pe veci de rai.
+
+[v3]
+Dureros-i focul care
+Arde, adânc, sfâșietor
+Arde-n mama cu copiii
+Care n-au mântuitor.
+
+[v4]
+Doamne, ai milă de mine
+Asta-i rugăciunea mea.
+Nu-mi lăsa pierduți copiii
+Dă-le mântuirea ta.

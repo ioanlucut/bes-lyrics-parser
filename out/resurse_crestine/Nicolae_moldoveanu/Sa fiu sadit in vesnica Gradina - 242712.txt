@@ -1,0 +1,29 @@
+[title]
+Sa fiu sadit in vesnica gradina {author: {Nicolae Moldoveanu}, {rcId: {242712}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Să fiu sădit în veșnica Grădină,
+Pe malul râului cu Apă vie,
+/: Din sevă de-Adevăr și de Lumină :/
+Să-mi trag deplin și viață și tărie!
+
+[v2]
+Să fiu finic cu frunza veșnic verde,
+Cu roade-n Soarele Dreptății coapte,
+/: Privirea Lui de aur să-mi dezmierde :/
+Făptura mea - că-n Iume-i miez de noapte!
+
+[v3]
+Sub mâna Grădinarului - în pace,
+Să mă supun, să-mi curățească toate
+/: Mlădițele uscate și sărace, :/
+Să pot rodi mai mult cât El socoate!
+
+[v4]
+Iar roadele de viață dătătoare,
+Crescute-n har și-n a iubirii lege,
+/: Să fie zilnic mai atrăgătoare, :/
+Să placă tuturor a le culege!

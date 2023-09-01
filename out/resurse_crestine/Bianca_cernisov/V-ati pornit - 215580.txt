@@ -1,0 +1,35 @@
+[title]
+V-ati pornit {author: {Bianca Cernisov}, {rcId: {215580}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+V-ați pornit pe muntele iubirii,
+Să urcați oricât de greu ar fi
+Să nu vă opriți chiar dacă mărăcinii
+Prea des pe cale voi veți întâlni
+
+[c]
+Nimeni și nimic să nu vă despartă,
+Să fiți uniți la bine și la greu
+Iubirea Lui să fie-n inimile voastre,
+Să rămâneți lângă Dumnezeu
+
+[v2]
+Să priviți la piscurile-nalte
+Sus în vârf furtuni nu vor mai fi
+Să știți că norii vor rămâne-n urmă
+Și veți găsi doar soare strălucind
+
+[v3]
+Și când se va sfârși odată drumul
+Veți auzi doar sfinte simfonii
+Și copleșiți în valuri de lumină
+Voi amândoi spre cer vă veți topi
+
+[c2]
+/ Nimeni și nimic să nu vă despartă,
+Să fiți uniți la bine și la greu
+Iubirea Lui să fie-n inimile voastre,
+Să rămâneți lângă Dumnezeu / x2

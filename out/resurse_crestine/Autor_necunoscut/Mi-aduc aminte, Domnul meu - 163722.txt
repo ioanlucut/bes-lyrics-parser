@@ -1,0 +1,45 @@
+[title]
+Mi-aduc aminte domnul meu {author: {Anonim}, {rcId: {163722}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Mi-aduc aminte, Domnul meu, de-aceea zi atât de-amară
+Când umăru-Ți ducea din greu al crucii lemn ca pe-o povară.
+În urma Ta sute și mii veneau să-Ți vadă cruda moarte
+Cu cei pe care i-ai iubit să Te privească de departe.
+
+[c]
+Pe drum, cu spini încununat, mergeai, o, scumpe Împărat,
+/: Erai de bice crunt lovit, o, cât de mult ai suferit. :/
+
+[v2]
+Mi-aduc aminte, Domnul meu, cum pentru-a mele mari păcate,
+Aceastea toate Ți s-au dat să pleci cu ele din cetate.
+Pe poartă Tu când ai ieșit, un bocet se-auzea-n mulțime,
+Plângeau femei ce te-au slujit, plângeau săracii după Tine.
+
+[c2]
+Pe drum, cu spini încununat, mergeai, o, scumpe Împărat,
+/: Erai de bice greu lovit dar Te loveau necontenit. :/
+
+[v3]
+Mi-aduc aminte Domnul meu, și trist m-aplec sub a Ta cruce,
+Ca Simon, ce venea din câmp, dorind povara a Ți-o duce.
+Eu nu-s ca el dar sunt partaș la suferinți și la durere
+Cand fratii mei nemangaiati cer de la Tine mangaiere.
+
+[c3]
+Pe drum, cu spini încununat, adesea ai îngenunchiat,
+/: Rugai pe Tatăl pentru noi, să ne ajute în nevoi. :/
+
+[v4]
+Mi-aduc aminte, Domnul meu, cum, țintuit în trei piroane,
+Stăteai urcat între tâlhari, privind spre cetele dușmane.
+Izvor de sânge trupu-Ți da, pe rând iertare să primească
+O lume ce-n păcat zăcea și nu voia să Te cunoască.
+
+[c4]
+Cu spini pe cap încununat, plângeai, o, scumpe Împărat,
+/: Plângeai privind spre mama Ta, ce jos la cruce Te plângea. :/

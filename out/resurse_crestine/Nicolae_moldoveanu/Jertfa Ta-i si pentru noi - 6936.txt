@@ -1,0 +1,33 @@
+[title]
+Jertfa ta-i si pentru noi {author: {Nicolae Moldoveanu}, {rcId: {6936}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Jertfa Ta-i și poentru noi
+Cei micuți, cei micuți
+Căci și noi suntem, Isus
+În păcat toți născuți.
+
+[c]
+Avem nevoie de jerfa Ta
+Căci mântuirea-i numai prin ea.
+
+[v2]
+Nu suntem tâlhari, nici hoți,
+Dar nici sfinți, dar nici sfinți
+Din păcat venim cu toți
+Și copii și părinți.
+
+[v3]
+Harul mântuirii sfânt
+Tu ni-l dai, Tu ni-l dai,
+Prin credința-n jerfa Ta,
+Ne ridici sus în rai.
+
+[v4]
+Noi copiii te slăvim,
+Scump Isus, scump Isus,
+Și prin cânt îți mulțumim
+Pentru tot până sus.

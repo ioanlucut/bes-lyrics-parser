@@ -1,0 +1,29 @@
+[title]
+Gandul meu spre tine zboara {author: {Gabi Ilut}, {rcId: {6736}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Gandul meu spre Tine zboara Tata Ceresc
+N-am cuvinte indeajuns sa iti multumesc
+Eu mi-am pus numai in Tine increderea
+Fa ce vrei Doamne cu viata mea
+
+[c]
+/: Pentru fiecare clipa vreau sa-Ti multumesc
+Pentru fiecare zi din viata te slavesc
+Si in fiecare clipa Doamne eu iti cant
+Esti tot ce am mai scump pe pamant :/
+
+[v2]
+Ma inchin cu multumire in fata Ta
+Chiar daca nu imi darui tot ce as vrea
+Daca voia mea nu este si planul Tau
+Ma dezleg de tot ce-mi doresc eu
+
+[v3]
+Iubirea Ta imi umple inima
+Nu mai este loc de altceva in viata mea
+Iubirea Ta, vreau sa raman in ea
+S-o traiesc deplin, Tie ma inchin

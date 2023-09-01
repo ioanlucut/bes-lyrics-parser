@@ -1,0 +1,29 @@
+[title]
+Te onoram isus {author: {Alexandru Groza}, {rcId: {85977}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Te onorăm Isus de mântuirea ce ne-ai dat,
+A Ta biserică Te preamărește ne-ncetat.
+Prin Duhul Tău cel Sfânt, Isuse, ești mereu cu noi,
+Ne dăruiești în suflet binecuvântări.
+
+[c]
+Credincios e Domnul, El ne-a mântuit.
+Harul, pacea Sa, El ne-a dăruit.
+Vom învinge valuri și ispita grea
+Cu Isus totdeauna.
+
+[v2]
+Te lăudăm Isus, iubitul nostru Salvator,
+Cu buzele noastre al Tău Nume glorificăm.
+Vom cugeta mereu la mântuirea ce ne-ai dat,
+Isuse drag noi Te iubim cu-adevărat.
+
+[v3]
+Te onorăm Isus, iubim Cuvântul Tău cel sfânt,
+Învață-ne mereu să împlinim al Tău cuvânt.
+Tatăl din cer e bun, El ne iubește ne-ncetat,
+Prin Fiul Său viață veșnică ne-a dat.

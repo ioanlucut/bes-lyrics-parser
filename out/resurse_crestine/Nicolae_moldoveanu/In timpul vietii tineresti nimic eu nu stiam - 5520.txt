@@ -1,0 +1,45 @@
+[title]
+In timpul vietii tineresti nimic eu nu stiam {author: {Nicolae Moldoveanu}, {rcId: {5520}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,e
+
+[v1]
+In timpul vietii tineresti nimic eu nu stiam;
+Din zori si pana-n noapate grea, in nepasari traiam.
+Traiam condus de gandul meu, traiam pe placul meu,
+Iar mama suspina adanc dupa sufletul meu.
+
+[c]
+/: In rugaciunea mamei, o In rugaciunea ei,
+Eu numele mi-l auzeam - o In rugaciunea ei. :/
+
+[v2]
+Umblam pe drumuri ratacind, la Domnul nu gandeam;
+Prin fapte rele ce faceam, pe mama-ndureram...
+Cu inima ranita greu, dar plina de iubire
+Vedeam cum se ruga mereu plangand pentru mine.
+
+[v3]
+In timpul vietii tineresti, pe mama auzeam:
+„
+Te rog, pe tine, fiule asculta glasul meu!
+Fugi de pacat, nu face rau, la Domnul vino azi!...”
+Si-am auzit cum se ruga: „
+O, fiul meu pierdut!”
+
+[v4]
+Traiam tot zile vesele si viata-mi se scurgea;
+De multe rele ce faceam nimica nu stiam.
+Dar, prin furtuni si ganduri noi prin viata cand treceam,
+Eu glasul ei il auzeam cum iarasi se ruga.
+
+[v5]
+Tarziu pe Domnul L-am aflat, pe vesnicul Isus;
+Eu faptele le-am parasit si Il iubesc nespus,
+Iar raza Domnului Isus s-a revarsat duios
+Si-n dar pe toate le-am primit de la Isus Hristos.
+
+[e]
+/: Prin rugaciunea mamei, o Prin rugaciunea ei,
+Mi-a sters Isus pacatele, o Prin rugaciunea ei. - :/

@@ -1,0 +1,28 @@
+[title]
+Te-aleg pe tine {author: {Speranța}, {rcId: {4313}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Dintre tot ce-i mai frumos în viață
+Dintre tot ce-ncântă gândul meu
+/: Te-aleg pe Tine :/
+Dumnezeu!
+
+[c]
+/: Numai pe Tine, numai pe Tine!
+Numai pe Tine te aleg!
+Veșnicia cu Tine vreau să o petrec! :/
+
+[v2]
+Dintre vocile ce mă cheamă-ntruna
+Și îmi spun că drumul meu e greu
+/: Te-aleg pe Tine :/
+Dumnezeu!
+
+[v3]
+Lumea-ntreagă, orice mi-ar oferi
+N-am să aleg și am să spun mereu:
+/: Te-aleg pe Tine :/
+Dumnezeu!

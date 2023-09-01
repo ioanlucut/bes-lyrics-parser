@@ -1,0 +1,31 @@
+[title]
+Print al pacii {author: {David Preuteasa}, {rcId: {184786}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Într-o cetate din Galileea
+Numită Nazaret
+Dumnezeu trimite vestea
+Despre Fiul Său
+Îngerul a spus: Maria!
+Nu te înspâimânta
+Fiul tău ce se va naște
+Lumea va salva
+
+[c]
+El va fi chemat Fiul Celui Preaînalt
+Dumnezeu puternic, Prinț al păcii
+De la moarte El lumea va salva
+Împărat al slavei, Domn al păcii
+
+[v2]
+Azi și noi vă dăm de veste
+Fiul cel născut
+Nu mai e culcat în iesle,
+Nu mai e un prunc
+E Hristos Mărețul Rege
+Unic Salvator
+Doar El poate să ne salveze,
+Isus Hristos e Domn

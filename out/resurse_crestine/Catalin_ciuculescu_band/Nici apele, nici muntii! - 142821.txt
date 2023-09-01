@@ -1,0 +1,40 @@
+[title]
+Nici apele nici muntii {author: {Cătălin Ciuculescu Band}, {rcId: {142821}}
+
+[sequence]
+v1,c,v2,c,v3,b,c,e
+
+[v1]
+Nici apele, nici munții nu ne-au oprit
+Iată-ne pe-amândoi!
+Stând împreună și dovedind
+Dragostea dintre noi!
+
+[c]
+Da! Ce vreau să- ți spun e doar că te iubesc!
+Astăzi, mai mult ca ieri știu că te prețuiesc!
+
+[v2]
+Casa mea e-acolo unde ești și tu
+Deci nu mă-ngrijorez!
+Dac-avem credință, dacă ne iubim
+Suntem deja în Cer!
+
+[v3]
+Și-atunci când, cine știe, răul va veni
+Și ne va-nconjura,
+Dumnezeu din Ceruri ne va sprijini
+El ne va apăra!
+
+[b]
+Timpul va trece și noi vom albi
+Dar vom întineri.
+Știu că iubirea nu are sfârșit
+Te voi iubi, îți promit!
+
+[e]
+Da! Ce vreau să-ți spun e doar că te iubesc!
+Astăzi, mai mult ca ieri știu că te prețuiesc!
+Da! Ce vreau să-ți spun e doar că te iubesc!
+Astăzi, mai mult ca ieri
+/: știu că te prețuiesc! :/ x3

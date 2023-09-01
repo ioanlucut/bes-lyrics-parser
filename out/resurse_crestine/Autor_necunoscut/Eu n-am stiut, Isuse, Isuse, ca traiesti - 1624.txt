@@ -1,0 +1,39 @@
+[title]
+Eu n-am stiut isuse isuse ca traiesti {author: {Anonim}, {rcId: {1624}}
+
+[sequence]
+v1,v2,v3,v4,v5,c
+
+[v1]
+Eu n-am știut, Isuse, Isuse, că trăiești
+Și viață, fără plată, Tu poți să-mi dăruiești;
+/: Prin lumea de păcate, eu nu Te cunoșteam,
+Dar mi-ai ieșit în cale, cum nici nu mă gândeam. :/
+
+[v2]
+Lumea mă mângâiase cu ranguri și plăceri;
+Eu n-am știut, Isuse, că mă iubești din cer.
+/: Tu mi-ai bătut la ușă, dar eu nu ți-am deschis...
+Tu Ți-ai păstrat iubirea și totuși m-ai convins. :/
+
+[v3]
+Pe patul meu, Isuse, Tu mi-ai îngăduit
+Să Te cunosc pe Tine, să știu că m-ai iubit;
+/: Când oamenii și lumea nu m-au putut salva,
+Tu ai venit la mine și mi-ai vorbit așa: :/
+
+[v4]
+Că vrei să-mi dai viață, aici pe-acest pământ
+Și să mă iei la Tine, dincolo de mormânt...
+/: Din clipa când, Isuse,-ai intrat în casa mea,
+Am simțit că în mine a intrat viața Ta. :/
+
+[v5]
+Și ceva Ți-aș mai spune și despre neamul meu
+Ca să-l aduci la Tine să fie neamul Tău.
+/: Căci vreau, cu Tine-n slavă, să ajungă și ei:
+Copiii și parinții si toți cei dragi ai mei. :/
+
+[c]
+/: Căci vreau cu Tine-n slavă să ajungă și ei
+Soția și copiii și toți cei dragi ai mei. :/

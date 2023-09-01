@@ -1,0 +1,35 @@
+[title]
+Ce dulce este mesajul pentru tin-ce treci {author: {Albert B. Simpson}, {rcId: {5650}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ce dulce este mesajul pentru tin-ce treci
+Că Isus este Același, ieri și azi și-n veci.
+El e gata să primească și pe cel mai rău,
+Preaslăvit în veci să fie Sfânt Numele Său.
+
+[c]
+Da, Isus este Același, ieri și azi și-n veci.
+Toate pot să se înschimbe, El rămâne-n veci.
+Slavă Domnului, Slavă numai Lui,
+Toate pier, dar El rămâne, Slavă numai Lui.
+
+[v2]
+Cel ce l-a iertat pe Petru când s-a lepădat
+Și lui Toma ca să creadă i s-a arătat,
+M-a primit chiar și pe mine un biet păcătos,
+Căci și azi El este-Același: Bun, Sfânt și Milos.
+
+[v3]
+El, care-a pășit pe ape, în noaptea cea rea,
+Poate liniști furtuna și din viața mea.
+El, care în Ghetsimani, a plâns, s-a rugat,
+Oare nu mă va-nțelege când sunt întristat?
+
+[v4]
+După cum, atunci, pe cale, spre Emaus S-a dus,
+Poate și-azi să ne-nsoțească, pân-ajungem sus.
+Chiar și noaptea te ajută liniștit să treci
+Și să vezi că e Același: ieri și azi și-n veci!

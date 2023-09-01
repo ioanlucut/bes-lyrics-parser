@@ -1,0 +1,44 @@
+[title]
+Numele tau {author: {Beniamin Palincaș}, {rcId: {221999}}
+
+[sequence]
+v1,v2,b,c,e
+
+[v1]
+Sfânt, sfânt
+E Regele meu
+Sfânt, sfânt
+În veci Dumnezeu
+Sfânt și vrednic
+E numele Tău
+
+[v2]
+Sfânt, sfânt
+Din morți a-nviat
+Sfânt, sfânt
+În veci Împărat
+Sfânt și vrednic
+E numele Tău
+
+[b]
+În Numele Tău e putere
+Numele Tău îl chemăm
+În Numele Tău la viață
+Ne ridicăm, ne ridicăm
+
+[c]
+Numele Tău, e foc și apă vie
+Pace în pustie
+Numele Tău, e cel mai minunat
+Numele Tău, în veci e stâncă tare
+Loc de apărare
+Numele Tău să fie lăudat
+Numele Tău, e steag de biruință
+Izvor de cunoștință
+Numele Tău e binecuvântat
+
+[e]
+/: Numele Tău, L-am chemat
+Spre Numele Tău am strigat
+La Tine Doamne am venit
+Căci Regele meu se lasă găsit :/

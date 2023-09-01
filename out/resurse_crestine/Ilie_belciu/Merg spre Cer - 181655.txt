@@ -1,0 +1,43 @@
+[title]
+Merg spre cer {author: {Ilie Belciu}, {rcId: {181655}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Merg spre Cer lăudând, cu bucurie,
+Pe Isus, Acel ce m-a salvat;
+/: El mi-a dăruit, pentru vecie,
+O speranță de neclătinat :/
+
+[c]
+Merg cu El, smerit în Ghetsimanii
+Unde ’nalț în taină ruga mea
+Lui îi spun când văd în jur dușmanii:
+”
+Facă-Ți-se-n toate voia Ta!”
+
+[v2]
+Pe Tabor încoronat de glorii
+Sau urcând Calvarul suspinând
+/: Când de teamă mă cuprind fiorii
+Că voi fi răzleț, sărac, flămând :/
+
+[c2]
+Merg cu El, oricât ar fi de mare,
+Bucuria sau necazul meu,
+Căci nu-i sus în cer, nici jos sub soare,
+Un așa de mare Dumnezeu!
+
+[v3]
+Merg cu El pe-ngusta Lui cărare,
+Lângă El, smerit vreau să trăiesc
+/: Și de-ar fi să trec prin vreo-ncercare
+Voia Lui în toate să-mplinesc :/
+
+[c3]
+Vreau să fiu cu El, sub clar de lună,
+Când mă-ncearcă vreo furtună grea,
+Glasul Lui, duios, atunci să-mi spună:
+”
+Nu te teme, ești în mâna Mea!”

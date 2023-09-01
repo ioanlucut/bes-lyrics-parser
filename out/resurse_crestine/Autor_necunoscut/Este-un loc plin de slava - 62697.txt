@@ -1,0 +1,35 @@
+[title]
+Este-un loc plin de slava {author: {Anonim}, {rcId: {62697}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Este-un loc plin de slavă
+Și de gloria Mielului
+Este-un drum ce ne duce
+În acel loc minunat
+
+[c]
+Isus, doar Tu,
+Isus, doar Tu, Isus,
+Doar dragostea Ta
+Isus, doar sângele Tău
+
+[v2]
+Nici dureri, nici suferință
+Nici întristare, și nici plâns
+Nici păcat și nici moarte
+Nici nedreptate în acel loc
+
+[v3]
+Va fi mereu bucurie,
+Fericire și pace va fi mereu
+O celebrare,
+O sărbătoare veșnică
+
+[e]
+O, o, o curățiți deplin de tot ce e rău
+Veșnic vom trăi, numai cu tin’
+O, o, o toți în fața ta ne vom bucura
+Și-n prezența ta mereu vom sta.

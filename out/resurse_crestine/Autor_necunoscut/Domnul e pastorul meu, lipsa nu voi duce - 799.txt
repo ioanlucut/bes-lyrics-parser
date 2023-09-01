@@ -1,0 +1,21 @@
+[title]
+Domnul e pastorul meu lipsa nu voi duce {author: {Anonim}, {rcId: {799}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Domnul e păstorul meu, lipsă nu voi duce
+El mă paște pe pășuni, pace îmi aduce.
+
+[c]
+Da, da, El e Domnul Dumnezeu
+Da, da, El este păstorul meu.
+
+[v2]
+El pe noi ne-a ascultat, și-a venit la mine
+Inima mi-a vindecat, și-acum eu sunt bine.
+
+[v3]
+Domnul e păstorul meu și cânt fericit
+Cu El vreau să fiu mereu, chiar de-acum de mic.

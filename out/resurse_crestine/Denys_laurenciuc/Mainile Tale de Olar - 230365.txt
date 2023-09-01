@@ -1,0 +1,33 @@
+[title]
+Mainile tale de olar {author: {Denys Laurenciuc}, {rcId: {230365}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Prin foc mi-ai spus că mă iubești
+Și că mă vrei aur curat.
+/: Deși-am crezut că mă zdrobești,
+Tu har mai mult ai turnat :/
+
+[c]
+/: Mâinile Tale de Olar
+M-au lucrat cu-atâta grijă
+Și inima mi-ai ars-o iar
+În dragostea-Ți aprinsă.
+Și-n slăbiciune, a Ta putere
+A fost desăvârșită-n mine,
+Dându-mi har si mângâiere,
+Să pot rămâne lângă Tine :/
+
+[v2]
+Priveam ades la mâna Ta,
+Ce ani la rând m-a frământat.
+/: Tu știi, o, Doamne cât durea
+Să faci din lutul meu palat :/
+
+[v3]
+Ți-am spus să mă frămânți cât vrei,
+Să fiu mereu cu ochii-n lacrimi
+/: În palma Ta nu-s munții grei
+Și nici poveri a Tale sarcini :/

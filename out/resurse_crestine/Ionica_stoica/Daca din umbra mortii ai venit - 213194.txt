@@ -1,0 +1,38 @@
+[title]
+Daca din umbra mortii ai venit {author: {Ionică Stoica}, {rcId: {213194}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Dacă din umbra morții ai venit
+Și pragu-acestei case l-ai pășit,
+Un Prieten, iată, mâna ți-a întins,
+O, lasă-te de brațul Lui cuprins!
+
+[c]
+/: Iar sacul de păcate, ce pân-acum l-ai dus,
+Plecat-a de la tine cu greul de nespus:
+Îl duce-acum Isus. :/
+
+[v2]
+O, cât de dulce-i al iertării ceas!
+Dar, câți, fără iertare au rămas!
+Gândește-te, iubit ascultător,
+Că pasul tău e azi hotărâtor!
+
+[c2]
+/: Iar sângele lui Isus, ce-a curs cândva șuvoi,
+Stropindu-te, te spală, cum ne-a spălat pe noi,
+De moarte și noroi. :/
+
+[v3]
+Gândește-te, iubit ascultător,
+Că pasul tău e azi hotărâtor.
+O clipă la-ndoială să nu stai
+Ci mergi pe calea care duce-n rai!
+
+[c3]
+/: A tale mâini, acuma, ți le-mpreună sus
+Și vin cu bucurie, cu râvnă de nespus,
+Te roagă lui Isus! :/

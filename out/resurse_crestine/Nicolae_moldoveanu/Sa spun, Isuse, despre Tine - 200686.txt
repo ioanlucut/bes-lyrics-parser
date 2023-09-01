@@ -1,0 +1,41 @@
+[title]
+Sa spun isuse despre tine {author: {Nicolae Moldoveanu}, {rcId: {200686}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Să spun, Isuse, despre Tine,
+Cu flacără’n vorbirea mea.
+S-audă toți, de pretutindeni,
+Ce-adâncă e, iubirea Ta!
+
+[c]
+Să spun, să spun, să spun mereu,
+Cu vorba și cu traiul meu.
+Isus, să spun neîncetat,
+Prin tot ce Tu, din plin, mi-ai dat!
+
+[v2]
+Să spun de taina mântuirii,
+Ce’n cruce-și are-ascuns izvor.
+Cum ea, cu largă dărnicie,
+Împarte viață tuturor!
+
+[v3]
+Să spun cât de bogat e harul,
+Adus din cer pentru pierduți.
+Cum Tu te-apleci cu duioșie,
+Să-i ierți pe toți și să-i ajuți!
+
+[v4]
+Să spun ce mi-ai făcut Tu,
+Mie cum ochii mi i-ai vindecat.
+Cum mi-ai iertat fărădelegea,
+Și ce mi-ai dat și cât mi-ai dat!
+
+[v5]
+Să spun Isuse despre Tine,
+E tot ce-n lume mai doresc.
+Să-Ți pot ’nălța mai cu putere,
+Numele Tău Dumnezeiesc!

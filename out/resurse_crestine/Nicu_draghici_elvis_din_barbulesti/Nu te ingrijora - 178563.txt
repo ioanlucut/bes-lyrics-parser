@@ -1,0 +1,29 @@
+[title]
+Nu te ingrijora {author: {Nicu Draghici, Elvis din Bărbulești}, {rcId: {178563}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Nu te-ngrijora de ziua, care mâine va veni
+Căci El Însuși, Dumnezeu, de tine se va îngriji!
+Caută Împărăția care este sus în cer
+Și iubește-L pe Mesia, Regele Emanuel!
+
+[c]
+/: Toate sunt în mâna Lui,
+Tot ce vezi Îi aparține,
+Frate nu te-ngrijora
+Pentru ziua cea de mâine! :/
+
+[v2]
+I-a seama, frate, la crini, ei nu torc și nici nu țes
+Totuși, nici chiar Solomon nu s-a îmbrăcat ca ei!
+Cu mult mai mult pe tine, Domnul nu te va lăsa,
+Se-ngrijește de ai tăi, tu stai la-ndemâna Sa!
+
+[v3]
+Pe pământ n-ai siguranță, ca să strângi comori în viață,
+Toate se vor spulbera, pe pământ nu-i viața ta.
+Comoara ta să fie în cer, să o strângi la Dumnezeu,
+Unde-i comoara ta, acolo e și inima!

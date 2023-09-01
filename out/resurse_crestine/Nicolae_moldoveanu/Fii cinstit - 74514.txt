@@ -1,0 +1,33 @@
+[title]
+Fii cinstit {author: {Nicolae Moldoveanu}, {rcId: {74514}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Fii cinstit că cinstea este
+Avuția cea mai mare
+Dac-o pierzi nici când nimic
+Preț în viață nu-ți mai are.
+
+[c]
+/: Păzește-ți cinstea copilul meu
+Ea te păstrează în Dumnezeu :/
+
+[v2]
+Fără cinste nu-i credință
+Nici frumusețe, nici iubire,
+Și nici cale să te ducă
+Spre liman de mântuire!
+
+[v3]
+Fără cinste adevărul
+Loc în tine nu-și mai face
+Căci necinstea e minciună
+Și-n minciună nu e pace!
+
+[v4]
+Când cinstit tu totdeauna
+Ești în umbletele tale
+Dumnezeu te-ncununează
+Cu izbânzi pe-a vieții cale!

@@ -1,0 +1,32 @@
+[title]
+Esti glorios {author: {Exodul}, {rcId: {187859}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Mi-ai fost aproape când mi-era greu
+Îmi ești alături în drumul meu
+Vreau doar cu Tine mereu să fiu
+Cu Tine Doamne sunt veșnic viu
+
+[c]
+/Ești Glorios, Ești Glorios /
+Isus Hristos
+
+[v2]
+O veșnicie vreau să îți cânt
+Acolo-n ceruri și pe pământ
+Astăzi sunt liber un om salvat
+Prin sângele Tău eliberat
+
+[v3]
+Nu este nimeni ca al nost’ Isus
+Fără de EL eu nimica nu-s
+Cu bucurie Lui ne-nchinăm
+Cu toți în coruri să Îi cântăm
+
+[e]
+Slavă în ceruri si pe pământ
+Toți să-I aducem
+E Domn Preasfânt

@@ -1,0 +1,36 @@
+[title]
+Maranata domnul nostru vine {author: {Nicolae Moldoveanu}, {rcId: {74383}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Maranata, Maranata!
+- Domnul nostru vine!
+Ești tu gata, ești tu gata,
+Să-L întâmpini bine?
+Maranata, Maranata!
+Soarele răsare!
+/: Ești tu gata, ești tu gata?
+- Stai în așteptare? :/
+
+[v2]
+Maranata, Maranata!
+Vremea e sosită!
+Ești tu gata, ești tu gata?
+Cande
+Ia-i gătită?
+Maranata, Maranata!
+Ultima strigare.
+/: Ești tu gata, ești tu gata?
+Cum te afli oare? :/
+
+[v3]
+Maranata, Maranata!
+Ce gând te frământă?
+Știi că-ncepe judecata
+De la Casa sfântă?
+Maranata, Maranata!
+Azi te pregătește,
+/: Să fii gata, să fii gata,
+Căci Isus sosește. :/

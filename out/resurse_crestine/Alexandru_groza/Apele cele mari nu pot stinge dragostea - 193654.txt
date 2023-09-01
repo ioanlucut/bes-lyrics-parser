@@ -1,0 +1,21 @@
+[title]
+Apele cele mari nu pot stinge dragostea {author: {Alexandru Groza}, {rcId: {193654}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Prin credință ispășim nelegiuirea
+Prin credință ne dă Domnnul harul Său!
+
+[c]
+Apele cele mari nu pot stinge dragostea
+Bunătatea Domnului ne sprijină
+
+[v2]
+Prin credință Domnul e tăria noastră
+Prin credință Domnul vindecă bolnavi!
+
+[v3]
+Prin credință Domnul e tăria noastră
+Prin credință Domnul vindecă bolnavi

@@ -1,0 +1,36 @@
+[title]
+Sfant esti sfant esti sfant esti {author: {trad veche}, {rcId: {217073}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Sfânt ești, sfânt ești, sfânt ești
+Dumnezeu puternic
+Grabnic în dimineaț-asta noi Te proslăvim.
+Sfânt ești, sfânt ești, sfânt ești
+Și foarte milostiv
+Doamne Dumnezeu, Tată, Fiu, Duh Sfânt.
+
+[v2]
+Sfânt ești, sfânt ești, sfânt ești
+Toți sfinții Ți se-nchin
+Naintea Ta pun coroana de învingator.
+Cântându-Ți se proștern
+Heruvimi, Serafimi
+Cel ce ai fost, ești, și vei fii in veci.
+
+[v3]
+Sfânt ești, sfânt ești, sfânt ești
+Norul Te ascunde
+Ochiul celui păcătos nu-Ți vede mărirea
+Numai singur Sfânt ești, Singur perfect Tu ești
+A Ta-i puterea, Iubirea Tu ești.
+
+[v4]
+Sfânt ești, sfânt ești, sfânt ești
+Domn atot puternic
+Ale Tale mari lucrări slăvesc Numele Tău..
+Sfânt ești, sfânt ești, sfânt ești
+Milostiv, puternic
+Doamne Dumnezeu Tată, Fiu, Duh Sfânt.

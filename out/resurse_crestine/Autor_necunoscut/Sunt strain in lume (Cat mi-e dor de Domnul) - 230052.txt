@@ -1,0 +1,29 @@
+[title]
+Sunt strain in lume (cat mi-e dor de domnul) {author: {Anonim}, {rcId: {230052}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Sunt străin în lume, sunt un călător,
+Casa mea-i în ceruri, mă avânt cu dor,
+Căci mi-e dor de-Acasă, vreau să-L întâlnesc
+Pe-al meu sfânt Părinte, ce mult Îl iubesc!
+
+[c]
+Cât mi-e dor de Domnul, să mă ducă Acasă,
+Unde cântă corul melodii cerești!
+Vreau să mă alătur vocilor ce cântă
+/: Imnuri de-adorare glasuri îngerești :/
+
+[v2]
+Am în cer o Casă, și în Casa mea
+Voi cânta cu sfinții, mă voi bucura.
+Știu că vine ziua când eu voi fi dus
+Sus mai sus de stele, să fiu cu Isus!
+
+[v3]
+Sus e fericire, sus e Dumnezeu,
+Sus e Țara Sfântă și e Tatăl meu.
+Nu va fi tristețe, nu va fi suspin,
+Vom uita durerea, vom uita de chin!

@@ -1,0 +1,42 @@
+[title]
+Biblia sfanta deschisa {author: {Alexandru Groza}, {rcId: {113233}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Biblia sfântă deschisă
+Azi ne-ndeamnă s-o citim
+Biblia sfântă vorbește
+”
+Crede, tu, inima mea”
+Biblia sfântă ne-arată
+Dragostea lui Dumnezeu
+Pentru mine, pentru tine
+Pentru toți cei ce cred în El
+
+[c]
+Să ne încredem în Domnul
+Să nu fim pierduți
+Să facem azi legământul
+Cu Hristos Isus.
+
+[v2]
+Jertfa sfântă a lui Isus
+Pe cruce la Golgota
+Este legământul nostru
+Suflete, nu ști de ea?
+Zi de zi, Isus te strigă
+Să-ți deschizi tu inima
+Să-L primești, să-ți dea viață
+Să-ți dea mântuirea Sa
+
+[v3]
+Ce plăcut să crezi în Domnul
+Să te simți Copilul Lui!
+Să ai tu un rost în viață
+Să faci numai voia Lui!
+Mâna Lui s-o simți aproape
+Să fii binecuvântat!
+Toată viața lângă Isus
+Tu vei fi răscumpărat.

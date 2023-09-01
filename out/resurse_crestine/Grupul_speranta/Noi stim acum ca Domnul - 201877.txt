@@ -1,0 +1,41 @@
+[title]
+Noi stim acum ca domnul {author: {Grupul Speranta}, {rcId: {201877}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Noi stim acum că Domnul în curand va apărea
+Și ușa într-o zi se va încuia
+Se împlinesc cuvintele Slăvitului Isus
+Așa cum ucenicilor le-a spus.
+
+[c]
+Biserica păstrează doar credința ce-ai primit
+Păstrează nostalgia cercetării ce-ai simțit
+/: Fecioară așteptarea în curând se va sfărși
+Veghează când curând El va veni :/
+
+[v2]
+Smochinul care două mii de ani a fost uscat
+Smochinul blestemat azi rod a dat
+Copacii de asemeni cu putere înverzesc
+Venirea primăverii o vestesc.
+
+[c2]
+Al nasterii dureri le simte omenirea iar
+Dar iarăși fericirea vine după acest amar
+/: Fecioară așteptarea în curănd se va sfărsii
+Veghează când curând El va veni :/
+
+[v3]
+Uleiul și candela să veghezi ca să le ai
+Și doctorie pentru ochi să-ți iei
+Fecioară îți ridică apoi privirea ta în sus
+Așteaptă în orice clipă pe Isus.
+
+[c3]
+Să-ti pui apoi nădejdea în Harul ce-ți va fi adus
+Cu Slavă când pe nori veni-va Mirele Isus
+/: Fecioară așteptarea în curănd se va sfărșii
+Veghează când curând El va veni :/

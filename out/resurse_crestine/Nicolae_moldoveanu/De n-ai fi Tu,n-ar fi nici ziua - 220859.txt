@@ -1,0 +1,41 @@
+[title]
+De n-ai fi tun-ar fi nici ziua {author: {Nicolae Moldoveanu}, {rcId: {220859}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+De n-ai fi Tu, n-ar fi nici ziua
+Cu toate razele-i divine
+Nici semănatul nici culesul,
+Căci toate sunt și cresc prin Tine.
+
+[c]
+/: De n-ai fi Tu :/
+N-ar fi nicicând un bine
+/: Căci harul tot :/
+Isus e numa-n Tine.
+
+[v2]
+De n-ai fi Tu, n-ar fi nici seara
+Cu dulci întoarcerile acasă
+Nici toamna și nici primăvara,
+Căci totul mâna Ta ni-l lasă.
+
+[v3]
+De n-ai fi Tu, n-ar fi nici noaptea,
+Cu odihnirea-noitoare,
+Nici trecerea ce primenește,
+/: Căci toate sunt a Ta lucrare. :/
+
+[v4]
+De n-ai fi Tu, n-ar fi nici zorii,
+Nici dimineață și-nviere,
+Nici tinerețea, nici cântarea,
+/: Căci tuturor ești Tu putere. :/
+
+[v5]
+Dar toate acestea, toate, toate
+Șoptesc și strigă spre oricine
+C-ai fost, că ești și vei fi veșnic,
+/: Frumos și adevăr și bine. :/

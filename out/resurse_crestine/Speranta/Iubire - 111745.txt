@@ -1,0 +1,27 @@
+[title]
+Iubire {author: {Speranța}, {rcId: {111745}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Iubire, speranță
+Am găsit la Tine, Domnul meu
+Când mi-a fost greu, m-ai ridicat
+La pieptul Tău m-ai așezat
+
+[c]
+/: Domnul meu, sufletu-mi tânjește după Tine
+Îți voi cânta, te voi lăuda
+Căci Tu ești tot în viața mea
+Tu ești totul pentru mine :/
+
+[v2]
+Iertare de păcate,
+Am găsit la crucea din Calvar
+Prin al Tău har sunt mântuit
+Prin Jertfa Ta m-ai sfințit
+
+[e]
+Nu mi-e rușine de Numele Tău
+Tu ești Dumnezeul meu

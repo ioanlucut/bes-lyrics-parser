@@ -1,0 +1,47 @@
+[title]
+Eu nu stiu doamne {author: {Nicolae Moldoveanu}, {rcId: {185731}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+Eu nu știu, Doamne, unde încă,
+Îmi vei mai duce pașii mei,
+/: Dar știu că Tu poți fi oriunde
+Lumină sfântă pentru ei. :/
+
+[v2]
+Eu nu știu câte noi primejdii
+M-așteaptă-n calea mea de-acum,
+/: Dar știu că Tu poți fi-ajutorul,
+Și paza mea pe orice drum! :/
+
+[v3]
+Eu nu știu câte lacrimi încă,
+Au să mai verse ochii mei,
+/: Dar știu că Tu-mi poți fi-alinare
+Și mângâiere pentru ei. :/
+
+[v4]
+Eu nu știu Doamne de câți prieteni,
+Și frați mai pot fi părăsit,
+/: Dar știu că Tu rămâi cu mine,
+Însoțitor nedespărțit! :/
+
+[v5]
+Eu nu știu câte noi ispite
+Vor mai veni în calea mea,
+/: Dar știu că-n Tine biruință
+Și izbăvire pot avea. :/
+
+[v6]
+Eu nu știu câte jertfe încă,
+Mai trebuie s-aduc din greu,
+/: Dar știu că Tu-mi poți da putere
+Să-mi urc deplin calvarul meu. :/
+
+[v7]
+Eu nu știu, Doamne, viitorul,
+Dar știu că el e-n mâna Ta.
+/: Ajută-mi să nu uit aceasta,
+Ca liniștit să-Ți pot urma! :/

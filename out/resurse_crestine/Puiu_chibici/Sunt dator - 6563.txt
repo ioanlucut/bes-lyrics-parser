@@ -1,0 +1,35 @@
+[title]
+Sunt dator {author: {Puiu Chibici}, {rcId: {6563}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Sunt dator, Isuse, toată viața mea
+Să Te laud într-una, să-Ți dau inima,
+/: Pentru-a Ta iubire, pentru jertfa Ta,
+Pentru mântuire, pentru Golgota. :/
+
+[v2]
+Pentru mângâiere, pentru-al Tău Cuvânt,
+Pentru plinătatea Duhului cel Sfânt,
+/: Pentru apa vie, pentru-al Tău izvor,
+Fii lăudat, Isuse, Rege-al regilor. :/
+
+[v3]
+Dacă am suflare, cuget și vorbesc,
+Dacă am mișcare și pot să privesc,
+/: E pentru că-n toate Tu Te-ai arătat
+Că ești bun și mare, că ești minunat. :/
+
+[v4]
+Oamenii alergă străbătând lumea,
+Căutând fericirea, dar n-o pot afla.
+/: Pentru mine, Isus, bucuria mea
+E să fiu cu Tine, Doamne-n casa Ta. :/
+
+[v5]
+Pentru toate astăzi vreau să-Ți mulțumesc
+Și cu-a mea ființă să Te preamăresc,
+/: Să Îți cânt de-a pururi și să Te slăvesc,
+Împărtul slavei, Isus, Te iubesc. :/

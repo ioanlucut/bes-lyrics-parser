@@ -1,0 +1,27 @@
+[title]
+Vreau cu tine mereu {author: {Grupul Evangelion}, {rcId: {103719}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Am fost un păcătos, iertare mi-ai adus
+Cum voi putea vreodată să-Ți mulțumesc-ndeajuns?
+Din mâna Ta, Stăpâne, viață am primit,
+Iertare de păcate e tot ce mi-a lipsit!
+
+[c]
+/: Vreau cu Tine mereu, lângă Tine mereu
+Să trăiesc cum Tu dorești, Domnul meu!
+Vreau să simt iubirea Ta, ce-mi alină inima
+Tu ești Domnul meu! :/
+
+[v2]
+În sfântul Tău Cuvânt, eu vreau să mă afund
+Și vreau să-l împlinesc în tot ce eu trăiesc
+Și asta voi putea doar prin puterea Ta!
+Trimite Duhul Tău în viața mea!
+
+[e]
+/: Cum voi putea vreodată?
+Cum voi putea să uit jertfa Ta, Isus? :/

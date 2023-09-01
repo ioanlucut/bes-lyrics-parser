@@ -1,0 +1,25 @@
+[title]
+Iata ce placut si dulce {author: {Anonim}, {rcId: {205146}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Iată ce plăcut și dulce e să locuiască
+Frații pururea-împreună să se veselească!
+/: Cu cântări cu psalmii în Domnul să se veselească :/
+
+[v2]
+E plăcut cum e mireasma care-i mai aleasă
+Cum pe capul care curge spre veșmânt se lasă
+/: Peste barba spre veșmântul lui Aaron se lasă :/
+
+[v3]
+Curge ca și roua care din Hermon coboară
+Spre-al Sionului sfânt munte-n fiecare seară
+/: Dulce, răcoroasă, sfântă-n fiecare seară :/
+
+[v4]
+Ce plăcută-i și ce dulce-i Doamne adunarea
+Acolo-și revărsa Domnul binecuvântarea
+/: Viața pentru veșnicie, binecuvântarea. :/

@@ -1,0 +1,21 @@
+[title]
+Trezeste-te tu care dormi {author: {ed. Dan Istrate}, {rcId: {242589}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Trezește-te, tu, care dormi, de Domnul ești chemat!
+Cel ce-n păcate rătăcești, de Domnul ești căutat.
+
+[c]
+/: Suflet drag, spune când vei fi salvat?
+Te grăbește azi, cât mai ești chemat! :/
+
+[v2]
+Întoarce-te, drumețule, din calea de păcat,
+Și vin’ la cruce, la Christos, de vrei să fii iertat.
+
+[v3]
+Deci lasă lumea, pofta ei, căci fericire n-ai.
+Te-mpacă azi cu Dumnezeu, scăpare-n El să ai.

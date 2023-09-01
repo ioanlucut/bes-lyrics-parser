@@ -1,0 +1,35 @@
+[title]
+Dumnezeu sa fie cu voi toti ( sus in cer in cer sus in cer) {author: {Anonim}, {rcId: {218423}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Dumnezeu să fie cu voi toți,
+Pân’ la-a noastră revedere;
+Har și pace și putere
+Să ne dea Isus Cristos la toți!
+
+[c]
+Sus în cer, în cer, sus în cer
+Ne vom revedea cu toți în cer;
+Sus în cer, în cer, sus în cer
+Dumnezeu să fie cu voi toți.
+
+[v2]
+Dumnezeu să fie cu voi toți,
+Aripa-I să vă umbrească,
+Mana-ascunsă și cerească,
+Să vă dea Isus Cristos la toți!
+
+[v3]
+Dumnezeu să fie cu voi toți,
+Când v-amenință furtuna,
+Vă păzească cu-a Lui mână
+Domnul nost’ Isus Cristos pe toți!
+
+[v4]
+Dumnezeu să fie cu voi toți,
+Să-L urmați cu hotărâre;
+Biruință și iubire
+Să vă dea Isus Cristos la toți!

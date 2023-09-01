@@ -1,0 +1,35 @@
+[title]
+Noi plecam spre-o alta tara {author: {Mircea Ciugudeanu}, {rcId: {5763}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Noi plecăm spre-o altă țară;
+Vrei să vii, Hobab, cu noi?
+Ni s-a spus că e frumoasă
+Și că nu-s în ea nevoi.
+
+[c]
+/: Deci să vii, Hobab! Să vii și tu cu noi,
+Ca să fii părtaș la binecuvântări!
+Hotărăște-te acum și să vii, cu noi, pe drum,
+Către alte zări! :/
+
+[v2]
+Mă frământă viitorul
+Și aș vrea ca să te cruț,
+Căci, lovit va fi Egiptul,
+Și, ca om, tu ești slabuț...”
+
+[v3]
+Dar Hobab nu îi urmase,
+Glas de dragoste-a respins...
+Tu ce-asculți acestea toate,
+L-ai urmat sau L-ai respins?
+
+[v4]
+Domnul Isus azi te cheamă
+Și pe tine, dragul meu,
+Ca să-ți dea din fericirea
+Pregătită-n cerul Său!

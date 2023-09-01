@@ -1,0 +1,41 @@
+[title]
+Poate maine vom pleca {author: {Costache Ioanid}, {rcId: {7238}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+O, poate mâine vom pleca
+Spre-acele zări senine,
+Și ce-am putut aici lucra?
+Ce dragoste? Cât bine?
+
+[c]
+În urma vieții lui Isus
+Stă turmă lângă turmă.
+Dar noi cu ce vom merge sus?
+Și ce lăsăm în urmă?
+
+[v2]
+Isus ne-a dat un Ghetsimani,
+O Golgotă, un nume
+Ce timp de două mii de ani
+A-mbogățit o lume.
+
+[c2]
+Cuvântul care ni l-a spus
+Mereu în inimi scurmă.
+Dar noi cu ce vom merge sus?
+Și ce lăsăm în urmă?
+
+[v3]
+Cu fiecare strop de plâns,
+Cu fiecare rană,
+Isus veșmânt de har ne-a strâns
+Și aur de coroană.
+
+[c3]
+O primăvară ne-a adus
+Ce-n veci nu se mai curmă.
+Dar noi cu ce vom merge sus?
+Și ce lăsăm în urmă?

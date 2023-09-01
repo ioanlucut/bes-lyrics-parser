@@ -1,0 +1,29 @@
+[title]
+Oricine-ai fi {author: {Text: Traian Dorsz, Muzica: Adrian Toader}, {rcId: {199271}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Oricine-ai fi, nu cere ce nu ți-e dat sǎ ai,
+Oricine-ai fi, nu râde nefericitu-ți trai,
+/: Oricine-ai fi, nu stinge lumina nimǎnui,
+Oricine-ai fi, ajutǎ-l pe orb în calea Lui. :/
+
+[v2]
+Oricine-ai fi, nu crede cǎ-i veșnic locul tǎu,
+Oricine-ai fi, ajutǎ-l pe-aproapele la greu,
+/: Oricine-ai fi, nu face ce-i crud și necinstit,
+Oricine-ai fi, sǎ-l aperi pe cel nǎpǎstuit. :/
+
+[v3]
+Oricine-ai fi, gândește smerit privind în sus,
+Oricine-ai fi, respectǎ cuvântul ce l-ai spus,
+/: Oricine-ai fi-ndrǎznește când aperi ce e drept
+Oricine-ai fi, ascultǎ-l pe omul înțelept. :/
+
+[v4]
+Oricine-ai fi, pe lume, tu nu-ți uita nicicând
+Întâia ta chemare, fii om în primul rând.
+/: Oricine-ai fi, pe lume, tu nu-ți uita nicicând
+Întâia ta chemare, fii om în primul rând. :/

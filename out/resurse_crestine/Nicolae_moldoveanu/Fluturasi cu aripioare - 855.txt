@@ -1,0 +1,29 @@
+[title]
+Fluturasi cu aripioare {author: {Nicolae Moldoveanu}, {rcId: {855}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Fluturași cu aripioare
+Peste albe flori coboară
+Mii de păsări cântătoare
+Urcă psalmi de primăvară.
+
+[c]
+Pentru-atâtea daruri Doamne,
+Pentru viața ce-o trăim
+Pentru cântec, pentru soare
+Pentru toate-ți mulțumim.
+
+[v2]
+Într-un nou veșmânt se-mbracă
+Unduioasele coline
+Din grădini și din prisacă
+Vin pe vale nori de-albine.
+
+[v3]
+Copilași în șiruri albe
+Ies în larguri să se joace
+Să-mpletească flori în salbe
+Și să-Ți cânte plini de pace.

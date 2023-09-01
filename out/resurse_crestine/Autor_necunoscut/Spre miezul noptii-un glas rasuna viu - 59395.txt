@@ -1,0 +1,31 @@
+[title]
+Spre miezul noptii-un glas rasuna viu {author: {Anonim}, {rcId: {59395}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Spre miezul nopții-un glas răsună viu:
+„
+O, iată, vine Mirele!„
+Este Isus, al nost’ Mântuitor,
+El, cel dorit cu-atâta dor!
+
+[c]
+Mireasa Lui, te pregăteste,
+Ca să-ți întâmpini scumpu-ți Mire!
+Frumoasă sărbătoare-ncepe:
+„
+O, iată, vine Mirele!„
+
+[v2]
+Cei adormiți vor învia din morŃi
+Când Însusi Domnul va striga
+Si-atunci, cu toții, în văzduh răpiți,
+Pe Domnul vom întâmpina.
+
+[v3]
+O, ce speranță glorioas-avem,
+Să fim de-a pururi cu Isus!
+Ce fericire ni s-a pregătit:
+Ridică-ți fruntea, tu, cel trist.

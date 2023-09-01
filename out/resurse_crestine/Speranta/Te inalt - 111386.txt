@@ -1,0 +1,31 @@
+[title]
+Te inalt {author: {Speranța}, {rcId: {111386}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Te înalț, o, Doamne,
+Că m-ai ridicat!
+Pe vrăjmașii mei
+Să râdă nu i-ai lăsat.
+/: Am strigat spre Tine și m-ai ascultat,
+Am strigat spre Tine și m-ai vindecat! :/
+
+[c]
+Te înalț, o, Doamne că m-ai ridicat!
+Pe vrăjmașii mei să râdă nu i-ai lăsat!
+/: M-ai adus la viață, din groapă m-ai scos
+Și m-ai ridicat, din locul întunecos. :/
+Am strigat spre Tine și m-ai ascultat,
+Am strigat spre Tine și m-ai vindecat!
+M-ai adus la viață, din groapă m-ai scos
+Și m-ai ridicat, din locul întunecos.
+
+[v2]
+Te înalț, o, Doamne
+Că m-ai ridicat!
+Pe vrăjmașii mei
+Să râdă nu i-ai lăsat!
+/: În necazul meu, ai fost fericire
+Și în jalea mea, ai fost bucurie. :/

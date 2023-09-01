@@ -1,0 +1,35 @@
+[title]
+Venirea domnului e aproape {author: {Gabriel Gorcea}, {rcId: {198142}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Venirea Domnului e-aproape
+Poate fi în zori de zi
+Poate fi la amiaz, poate pe-nserate
+/: Isus Hristos va reveni! :/
+
+[c]
+/: Vine Domnul în curând
+Aleluia, Maranata!
+Fecioară înțeleaptă rabdă și-așteaptă
+Domnul vine cu răsplata! :/
+
+[v2]
+Rămâi mereu în așteptare
+Chiar dacă vremea este grea
+Chiar de-i târziu stai în veghere
+/: Pe Isus al întâmpina! :/
+
+[v3]
+Veghează, veghează fecioară
+Strânge-ți untdelemn în vas
+Mirele dorit, mirele iubit
+/: Poate apărea în orice ceas! :/
+
+[v4]
+Nu e mult și vine Domnul
+Așa cum a promis
+Când s-a înălțat la Tatăl a plecat
+/: Să pregătească un loc în Paradis! :/

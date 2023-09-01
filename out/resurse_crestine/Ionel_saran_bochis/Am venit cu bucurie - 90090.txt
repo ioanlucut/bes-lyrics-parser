@@ -1,0 +1,73 @@
+[title]
+Am venit cu bucurie {author: {Ionel Saran Bochis}, {rcId: {90090}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Am venit cu bucurie am venit cu toti
+Pentru mire si mireasa sa ne bucuram
+Azi e zi de sarbatoare cu totii cintam
+Si voios va zic la totii bine azi venit
+
+[c]
+/: Multa pace fericire s-aveti amindoi
+Sanatate bucurie la multi ani sa aveti :/
+/: Multă pace, fericire, s-aveți amândoi!
+Sănătate, bucurie, „
+La mulți ani!” să aveți! :/
+
+[v2]
+Doamne azi venim aicea inaintea Ta
+las-o bine cuvintare peste-acestea doi
+Binecuvinceaza-i Doamne fii mereu cu ei
+In a vietii barca Doamne fii sprijinul lor
+Doamne, azi venim aicea, înaintea Ta,
+Las-o binecuvântare peste-aceștia doi!
+Binecuvântează-i, Doamne, fii mereu cu ei,
+În a vieții barcă, Doamne, fii sprijinul lor!
+
+[c2]
+/: Multa pace fericire s-aveti amindoi
+Sanatate bucurie la multi ani sa aveti :/
+/: Multă pace, fericire, s-aveți amândoi!
+Sănătate, bucurie,”
+La mulți ani!” să aveți! :/
+
+[v3]
+Vino Doamne te chemam te chemam cu dor
+Te chemam cu dor Isuse te chemam mereu,
+Te strigam de pe pamint vino Doamne sfint
+Mireasa te-asteapta-n truna vino mai curand
+Vino, Doamne, Te chemăm, Te chemăm cu dor,
+Te chemăm cu dor, Isuse, Te chemăm mereu,
+Te strigam de pe pământ, vino, Doamne sfânt,
+Mireasa te-așteaptă-ntruna, vino mai curând!
+
+[c3]
+/: Te chemam pe Tin Isuse al nostru Pastor
+Fii nadejdea noastra-n tine tu Emanuel :/
+/: Te chemăm pe Tin’, Isuse, al nostru Păstor,
+Fii nădejdea noastră-n Tine, Tu, Emanuel! :/
+
+[v4]
+Am venit cu bucurie am venit acum
+La mire si la mireasa le uram drum bun,
+Azi e zi de sarbatoare bucurosi cintam
+Si pe Tatal sfant din slava toti sa-l laudam
+Am venit cu bucurie, am venit acum,
+La mire și la mireasă le urăm: „
+Drum bun!”
+Azi e zi de sărbătoare, bucuroși cântăm,
+Și pe Tatăl sfânt din slavă toți să-L lăudăm!
+
+[c4]
+/: Multa pace fericire s-aveti cu Totii
+Sanatate fericire la multi ani sa- aveti :/1. Am venit cu bucurie, am venit cu toții,
+Pentru mire și mireasa să ne bucurăm.
+Azi e zi de sărbătoare, cu toții cântăm,
+Și voios vă zic la toți: „
+Bine ați venit!”
+/: Multă pace, fericire, s-aveți cu toții!
+Sănătate, fericire, „
+La mulți ani!” să-aveți! :/

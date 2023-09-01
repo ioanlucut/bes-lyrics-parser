@@ -1,0 +1,43 @@
+[title]
+La fantana celui viu care ma vede {author: {Puiu și Beni Chibici}, {rcId: {188602}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+La fântâna Celui Viu, care mă vede,
+Doborâtă de-ntristare stă Agar;
+Alungată în pustia care-i arde
+Sufletul plin de durere și amar.
+Când un înger din cereasca înălțime
+S-a oprit în dreptul ei și i-a vorbit:
+„
+Nu te teme fiică, Domnul e cu tine!”
+Și de-atunci acel loc astfel s-a numit.
+
+[c]
+/: La fântâna Celui Viu, care e Domnul,
+Stai de vorbă azi cu El lângă izvor.
+Prietene, oricine-ai fi
+Spune-ți dorul inimii,
+El cu drag te va primi. :/
+
+[v2]
+La fântâna Celui Viu, ce te asteaptă,
+Copleșit de remușcare și abătut
+Cauti de mult și tu măcar un strop de apă
+Ostenit de drumul ce l-ai străbătut.
+În pustia de miraje și de urlet
+Tu nu știi de unde vi nici unde mergi
+Copleșit de gânduri și iluzi sumbre
+În nisipuri mișcătoare te îneci.
+
+[v3]
+La fântâna Celui Viu, ce niciodată,
+Orișicine La chemat, nu la lăsat,
+Curge astăzi apă vie și curată
+Cine bea nu însetează niciodat.
+Spre izvorul sfânt acuma îndrăzneste
+Spală-ți sufletul trudit și-npovărat,
+Dumnezeu e apa ce te curățește
+Vino dar acum să fi eliberat.

@@ -1,0 +1,37 @@
+[title]
+Samariteanul (am fost cazut intre talhari) {author: {Ovidiu Liteanu}, {rcId: {183389}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,c
+
+[v1]
+Am fost căzut între tâlhari
+Am fost bătut și jefuit
+Lăsat în drum aproape mort
+Și în durere părăsit
+
+[c]
+/: Cine să mă vadă și să mă-nțelegă
+Milă de-un sărman să aibă :/
+Ai iubit străine mi-ai făcut mult bine
+Nu mă mai despart de Tine
+Ești a mea iubire a mea mântuire
+O Isus rămâi cu mine
+
+[v2]
+Trecea pe-acolo un preot
+Dar și-a văzut de drumul lui
+M-a ocolit nepăsător
+Și m-a lăsat al nimănui
+
+[v3]
+Și-a mai trecut și un levit
+Dar tot așa s-a depărtat
+Ce greu e ca să fii căzut
+Nu ești de nimeni ajutat
+
+[v4]
+Trecea pe cale și-un străin
+Un călător Samaritean
+Umil El s-a aplecat
+M-a dus degrabă la un han

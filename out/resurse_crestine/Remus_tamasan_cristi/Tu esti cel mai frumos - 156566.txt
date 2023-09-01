@@ -1,0 +1,39 @@
+[title]
+Tu esti cel mai frumos {author: {Remus Tămășan Cristi}, {rcId: {156566}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Chiar dacă fața Ta era zdrobită,
+Chiar dacă trupul Tău era lovit,
+Chiar dacă haina Ta, Isus, era ruptă,
+Tu ai rămas pe veci cel mai iubit!
+
+[c]
+Tu ești cel mai frumos în Universu’-ntreg,
+Tu ești Isus, ești Domnul glorios!
+Tu ești cel mai frumos și pe Tine Te aleg,
+Tu ești Domnul meu, Isus Hristos!
+/: Tu ești cel mai frumos în Universu’-ntreg,
+Tu ești Isus, ești Domnul glorios!
+Tu ești cel mai frumos și pe Tine Te aleg,
+Tu ești Domnul meu, Isus Hristos! :/
+
+[v2]
+Chiar dacă fruntea Ta era rănită,
+Chiar dacă ochii Tăi greu lăcrimau,
+Chiar dacă inima Ta era mâhnită,
+Tu ești cel mai frumos și pe Tine Te vreau!
+
+[v3]
+Chiar dacă a Ta coastă era străpunsă,
+Chiar dacă nimeni apă nu-ți dădea,
+Chiar dacă ființa Ta era pironită,
+Tu vei fi cel mai frumos deapururea!
+
+[v4]
+Eu știu că ai lăsat Slava măreață
+Din Țara unde-ai fost cel mai frumos,
+Și ai venit aici ca să-mi dai viață
+Tu ești al meu Păstor, Isus Hristos!

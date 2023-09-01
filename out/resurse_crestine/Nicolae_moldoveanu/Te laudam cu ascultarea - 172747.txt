@@ -1,0 +1,29 @@
+[title]
+Te laudam cu ascultarea {author: {Nicolae Moldoveanu}, {rcId: {172747}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Te laudam cu ascultarea
+Si-n cant o doamne te-naltam
+Caci nici o jertfa cat de mare
+Tu nu primesti cand n-ascultam
+
+[c]
+Cand te-ascultam te laudam
+Si dovedim ca te iubim
+Cand tot ce-ai spus
+Cand tot ce-ai spus noi implinim
+
+[v2]
+Te laudam si-ti dam iubire
+Cand te-ascultam cu duh smerit
+Caci doamne nu primesti cinstire
+Cand nu-mplinim ce-ai poruncit
+
+[v3]
+Te laudam cu adevarul
+Cand ascultarea-i adevar
+Ascultatorii intra-n ceruri
+In care cei intrati nu pier

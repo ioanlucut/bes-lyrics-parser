@@ -1,0 +1,47 @@
+[title]
+Acolo de unde cei dusi am venit {author: {Nicolae Moldoveanu}, {rcId: {244490}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+Acolo de unde cei duși, am venit,
+Nu-i lună, nici stele, nici soare,
+/: Dar nu-i loc să-L vezi pe Hristos mai slăvit
+Mai viu, mai puternic, mai mare! :/
+
+[v2]
+Acolo-n cuptorul ce arde încins,
+Pier umbre și visuri și fețe,
+/: Dar sufletul gustă din Cerul atins,
+Divinul trăirii mărețe! :/
+
+[v3]
+Acolo-n căința și-n plânsul amar,
+Mor patimi, dorinți și păcate,
+/: Dar sufletul iese din marea de jar,
+Ca fața luminii curate! :/
+
+[v4]
+Acolo se-ngroapă deșarte
+Ie-averi,
+Cu scrumul trăirii deșarte,
+/: Dar sufletul strânge din chin și dureri
+Comori care trec peste moarte! :/
+
+[v5]
+De-acolo v-aducem cu chip strălucit,
+Minuni și-adevăr și cântare,
+/: Și calea aflată și prețul plătit,
+Și harul reîntors în Lucrare! :/
+
+[v6]
+Hristos să vă facă mai treji să păstrați, Frumsețea Lucrării curate,
+/: Nicicând să nu strice iubirea-ntre frați,
+Vânzări, dezbinări și păcate! :/
+
+[v7]
+Hristos să v-ajute, mai sus să țineți,
+Lumina soliei primite,
+/: S-ajungeți Ia harul eternei vieți,
+Urmați de mulțimi nesfârșite! :/

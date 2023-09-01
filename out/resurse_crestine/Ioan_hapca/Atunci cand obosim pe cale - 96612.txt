@@ -1,0 +1,43 @@
+[title]
+Atunci cand obosim pe cale {author: {Ioan Hapca}, {rcId: {96612}}
+
+[sequence]
+v1,c2,v2,c2,v3,c2
+
+[v1]
+Atunci când obosesc pe cale
+Și crucea-mi pare greu de dus,
+Privesc la întunecata vale
+De unde-am fost la viață adus
+Și înalț din suflet osanale
+Slăvind pe Domnul meu Isus.
+
+[c2]
+O, ni se pare greu sub cruce
+Că aici a firii pofte pier...
+Însă vedem că ea ne duce
+Mereu, mereu, mai sus spre cer.
+Și-atunci, o bucurie dulce
+Inundă-al inimii ungher.
+Când mi se pare greu pe cale
+Și crucea greu de suferit,
+Privesc la chinurile Sale
+Și văd cum Domnul S-a jertfit
+Purtând a lumii fapte rele
+În trupul Său neprihănit...
+
+[v2]
+Când crucea mi se pare grea
+Și obosit mă simt pe cale,
+M-aplec și-ngenunchez sub ea
+Cu mulțumiri, că dintr-a morții vale
+M-a scos Hristos prin crucea Sa,
+M-a izbăvit prin patimile Sale!
+
+[v3]
+Mă-nchin slăvind a Ta dreptate
+Și crucea ce mi-ai hărăzit,
+Prin ea calc zilnic peste moarte
+Și-n urma Ta, Isus, necontenit.
+Mă-ndrept spre slăvile înalte
+Ce Tu în cer mi-ai pregătit!

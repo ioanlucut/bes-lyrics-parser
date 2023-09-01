@@ -1,0 +1,29 @@
+[title]
+Vrei sa fii iertat ? vino prieten la isus {author: {Anonim}, {rcId: {3762}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Vrei să fii iertat ? Vino, prieten, la Isus!
+Astăzi ești chemat din al tău păcat
+Pacea Domnului să-ți umple astăzi inima
+Vino la Isus, nu întârzia.
+
+[c]
+Am fost și eu pierdut în astă lume
+Am fost și eu ca tine dragul meu
+Dar într-o zi am auzit chemarea
+Si m-am întors la Domnul Dumnezeu.
+
+[v2]
+Ești ne-mântuit câtă vreme în păcat
+Tu trăiești mereu fără Dumnezeu
+Te apasă greu tot păcatul adunat
+Vino la Isus ca să fii iertat.
+
+[v3]
+O, ce minunat este harul Domnului
+Ca să fii iertat și răscumpărat
+Vino la Hristos așa cum ești, te va primi
+Domnul tău Isus te va mântui.

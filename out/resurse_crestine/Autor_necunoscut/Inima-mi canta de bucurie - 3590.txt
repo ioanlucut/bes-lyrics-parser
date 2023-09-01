@@ -1,0 +1,40 @@
+[title]
+Inima-mi canta de bucurie {author: {Anonim}, {rcId: {3590}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Inima-mi cântă de bucurie
+Sunt vesel, fericit
+Căci Dumnezeu pentru veșnicie
+Viață mi-a dăruit
+Mi-a dat credință și biruință
+Prin El o pot avea
+Și-am mai primit prin făgăduință
+Nădejdea și dragostea.
+
+[c]
+/: O, Domnul meu
+Eu sunt al Tău
+De-aceea-Ți mulțumesc mereu. :/
+
+[v2]
+M-a învățat și mi-a dat putere
+Prin al Său sfânt cuvânt
+Să pot oricând și orice mi-ar cere
+Cât voi fi pe pământ
+Deci printr-o viață de rugăciune
+Vreau să Îi mulțumesc
+Și prin cuvântu-I tot ce mi-ar cere
+Vreau ca să împlinesc.
+
+[v3]
+Atât credința cât și nădejdea
+Mă vor călăuzi
+Doar pe pământ și-n viața aceasta
+Atât cât voi trăi
+Mă va conduce în veșnicie
+Cu ea voi fi mereu
+Dragostea care-i nepieritoare
+Dragostea-i Dumnezeu.

@@ -1,0 +1,44 @@
+[title]
+A plecat la drum rebeca {author: {Anonim}, {rcId: {6913}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+A plecat la drum Rebeca
+Spre iubitul ei sortit
+Împlinind o taină mare
+Când trecea peste nisip.
+Dorul ei se împlinește
+Pe Isac când l-a-ntâlnit
+El i-a zis: ”
+Bine-ai venit!”
+
+[c]
+File de istorii,
+File de istorii
+Ați păstrat în voi
+O veșnică comoară.
+Dragoste curată,
+Albă, nepătată,
+Să rămâi curată
+Și-n aceștia doi.
+
+[v2]
+Veacuri au trecut întruna
+Dar iubirea n-a-ncetat
+Este aceeași numai una
+Un dor sfânt și minunat.
+O minune repetată
+Pentru mii și mii de miri
+Care-au fost, care vor fi.
+
+[c2]
+Se vor scrie-n glorii
+File de istorii
+C-ați păstrat în voi
+O veșnică comoară.
+Dragoste curată,
+Albă, nepătată
+Să rămâi curată
+Și-n aceștia doi.

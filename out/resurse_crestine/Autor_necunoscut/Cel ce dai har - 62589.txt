@@ -1,0 +1,29 @@
+[title]
+Cel ce dai har {author: {Anonim}, {rcId: {62589}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Cel ce dai har și îndurare
+Neprețuită e dragostea ta
+Viață mi-ai dat
+Și tot ce-am nevoie
+Și de aceea
+Eu îți mulțumesc
+
+[c]
+/: Căci tu ești bun,
+Ești bun cu min’
+Da, tu ești bun,
+Ești bun cu min’ :/
+
+[v2]
+Speranță mi-ai dat,
+Ești stânca salvării
+Turn de scăpare,
+În tine găsesc
+Tu mă iubești,
+Sunt în siguranță
+Și de aceea
+Eu îți mulțumesc

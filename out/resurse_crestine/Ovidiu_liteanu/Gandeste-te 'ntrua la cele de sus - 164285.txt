@@ -1,0 +1,35 @@
+[title]
+Gandeste-te ntrua la cele de sus {author: {Ovidiu Liteanu}, {rcId: {164285}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Gândește-te ’ntruna la cele de sus,
+Ai viața ascunsă în Isus.
+/: Și-atunci când se arată Hristos în viața ta
+În slavă cu El tu vei sta. :/
+
+[c]
+Fii gata de zbor, fii gata de zbor
+Spre țara eternă copil călător
+Fii gata de zbor, fii gata de zbor
+Spre Domnul de care ți-e dor.
+
+[v2]
+Vorbirea să-ți fie întruna cu har
+Lipsită de orice amar
+/: Răscumpără vremea și fii înțelept
+Iubirea să-ți ardă în piept. :/
+
+[v3]
+Întruna să ierți cum Hristos te-a iertat
+Cu milă să fii îmbrăcat
+/: Iar pacea sfințirea mereu s-o urmezi
+În ceruri pe Domnul să-L vezi. :/
+
+[v4]
+În orișice lucru mereu fii plăcut
+Lucrează creștine mai mult
+/: Mărește-L pe Tatăl că s-a îndurat
+Că mult te-a iubit, te-a salvat. :/

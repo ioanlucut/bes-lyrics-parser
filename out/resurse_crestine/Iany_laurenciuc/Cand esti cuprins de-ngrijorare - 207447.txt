@@ -1,0 +1,44 @@
+[title]
+Cand esti cuprins de-ngrijorare {author: {Iany Laurenciuc}, {rcId: {207447}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Când ești cuprins de-ngrijorare,
+Îndreaptă-ți privirea-n sus,
+Când îți curg lacrimi amare,
+Aminteste-ți c-al tău tată e Isus!
+
+[c]
+Nu te teme de nimic, creștine,
+Domnul Isus e mereu cu tine!
+El ți-aduce pace-n încercare,
+El, Isus, e Stânca ta cea tare!
+
+[v2]
+Când ești cuprins de-amărăciune,
+Pleacă-ți genunchii jos,
+Când necazul n-ai cui spune,
+Amintește-ți c-al tău tată e Hristos.
+
+[c2]
+”
+Nu te teme, căci Eu sunt cu tine!”
+Vei auzi mereu aceste șoapte line,
+”
+Eu ți-ascult ruga-nlăcrimată,
+Eu sunt Domnul tău, Frate și Tată!”
+
+[v3]
+Când ești zdrobit de suferință,
+Tu să rămâi liniștit.
+Când te afli-n neputință,
+Amintește-ți că Isus a suferit.
+
+[c3]
+Nu te teme de nimic, creștine,
+lată, Eu sunt mereu cu tine-n lume
+Când vei trece prin talazuri grele!
+Eu te port pe brațele Mele,
+Eu, Isus, te port pe brațele Mele!

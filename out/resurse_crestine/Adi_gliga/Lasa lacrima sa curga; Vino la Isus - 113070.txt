@@ -1,0 +1,28 @@
+[title]
+Lasa lacrima sa curga; vino la isus {author: {Adi Gliga}, {rcId: {113070}}
+
+[sequence]
+v1,b,c,v2,c
+
+[v1]
+Lasă lacrima să curgă
+Lasă inima s-audă, glasul Lui
+Spune-I tot ce te apasă
+Ești al Lui și nu te lasă, nu!
+
+[b]
+Vino cu a ta durere
+Vino să-ți dea mângâire
+Orișicât ar fi de greu
+Tu să strigi la Dumnezeu
+Inima Lui să I-o dai
+Dă-i-o numai Lui
+
+[c]
+Vino la Isus!
+
+[v2]
+Nu lăsa a ta povară
+Ca să te doboare iară, n-o lăsa
+Lasă ochii tăi să vadă
+Lasă inima să creadă, în Isus!

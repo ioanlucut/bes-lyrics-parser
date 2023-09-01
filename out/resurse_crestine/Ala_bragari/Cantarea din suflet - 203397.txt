@@ -1,0 +1,33 @@
+[title]
+Cantarea din suflet {author: {Ala Bragari}, {rcId: {203397}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Cântarea din suflet,
+ce sună mereu
+E dragostea mare
+de-al meu Dumnezeu.
+Iubire divină ce-inimi ne-aduci
+Frumoase cuvinte,
+mărețe și dulci.
+
+[v2]
+Tu ești sfânt și tare,
+Tu esti Domnul meu.
+În Tine-i nădejdea
+și tot ce am eu.
+Măreț Domn al păcii
+din Tine-ai creat
+Întreaga-mi făptura
+cu suflet curat.
+
+[v3]
+Mă-nchin și Te laud,
+în veci voi cânta
+Iubirea divină și dragostea Ta.
+Tu ești Creatorul,
+ce viață mi-ai dat,
+Mă-nchin și Te laud și-Ți
+cânt ne-ncetat.

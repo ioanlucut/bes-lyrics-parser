@@ -1,0 +1,31 @@
+[title]
+Ti-ai pregatit sufletul? {author: {Cornel Sava}, {rcId: {178575}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ți-ai pregătit sufletul de plecare?
+Ți-ai pregătit haina de sărbătoare?
+Ai avut timp s-asculți a Sa chemare,
+Să te jertfești, să te smerești, să-ți ceri iertare!
+
+[c]
+/:
+/: Nu mai e timp: \ de nepăsare
+/: Te-așteaptă El: \ să-ți dea salvare
+Un trup s-a frânt la Golgota
+Un sânge-a curs pentru-a salva
+O nu disprețui tu jertfa Sa: \
+
+[v2]
+Nu te-ai gândit că nu-i o întâmplare?
+Nu te-ai gândit că viața-i trecătoare?
+Ai avut timp să-I simți puterea mare
+În strâmtorări, în încercări, în vindecare
+
+[v3]
+Vino la El să-ți dea eliberare
+Vino la El la marea scăldătoare
+Azi este timp primește-a Lui iertare
+Primind pe El astăzi în cer e sărbătoare

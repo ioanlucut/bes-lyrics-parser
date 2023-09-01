@@ -1,0 +1,53 @@
+[title]
+Cetate tare {author: {Johnny Daraban}, {rcId: {177468}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Cântarea mea de laudă e pentru Domnul meu,
+El a adus salvarea sufletului meu,
+Mi-a ridicat povara ce greu m-a apăsat
+Și-n schimbul deznădejdii, speranță El mi-a dat,
+Mi-a dat în suflet pace, mi-a dat și Duhul Sfânt,
+De-atunci, eu cânt într-una, mereu am să Îi spun.
+
+[c]
+Cetate tare ești, Domnul meu,
+Turn de scăpare, ești Scutul meu,
+Ești Leul Cel puternic, ești Mielul Salvator,
+Ești Sfântul Lui Israel, ești foc mistuitor,
+Puterea Ta e mare, ești Domn biruitor,
+Ești steag de biruință, ești Domn triumfător.
+
+[v2]
+Cuvinte pline de farmec, în mine clocotesc,
+De când prezența Ta, în inimă o simt,
+Ești dătător de viață, de pace, bucurii,
+Ești Soarele dreptății, ești Stâncă-n vijelii,
+Cetate de scăpare și Turnul de adăpost,
+În care, orice suflet, găsește adăpost.
+
+[c2]
+Cetate tare ești, Domnul meu,
+Turn de scăpare, ești Scutul meu,
+Ești steag de biruință, ești Domn triumfător,
+Ești Sfântul Lui Israel, ești foc mistuitor,
+Ești Leul cel puternic, ești Mielul Salvator,
+Puterea Ta e mare, ești Domn biruitor.
+
+[v3]
+Cântarea mea de laudă e pentru Dumnezeu,
+El a adus salvare sufletului meu,
+M-a ridicat din groapă, pe stâncă El m-a pus
+Și-n loc de grea osândă, iertare mi-a adus.
+Încrede-te în Domnul și nu descuraja,
+Căci Domnul te ridică și ia povara ta.
+
+[c3]
+Turn de scăpare e Dumnezeu,
+Cetate tare în ceasul greu,
+Puterea Lui e mare, e Domn biruitor,
+E Leul Cel puternic, e Mielul Salvator,
+E Sfântul Lui Israel, e foc mistuitor,
+E steag de biruință, e Domnul domnilor.

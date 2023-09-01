@@ -1,0 +1,41 @@
+[title]
+Cand neguri trec prin viata {author: {Nicu Wagner}, {rcId: {61698}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Când neguri trec prin viață,
+Te-ntrebi adeseori
+De ce-și ascunde fața
+Cel Sfânt de-atâtea ori.
+
+[c]
+Păcatul, e răspunsul
+E zidul înălțat,
+Te-a despărțit de Domnul
+Și greu te-a condamnat.
+
+[v2]
+Numai credința vie
+În jertfa Lui Isus
+Dărâmă pe vecie
+Tot zidul interpus.
+
+[c2]
+Ce mare sărbătoare
+Va fi în cer prin cânt,
+Când vei primi iertare
+Din mâna Celui Sfâtnt.
+
+[v3]
+Cel rău se va opune,
+Furtuni vor bântui,
+Dar tu, prin rugăciune,
+Mereu vei birui.
+
+[c3]
+În fața Celui Veșnic
+Isus te-a prezenta,
+Un bun urmaș ce-i vrednic
+Să intre-n slava Sa.

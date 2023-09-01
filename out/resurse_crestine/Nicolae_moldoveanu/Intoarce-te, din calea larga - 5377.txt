@@ -1,0 +1,25 @@
+[title]
+Intoarce-te din calea larga {author: {Nicolae Moldoveanu}, {rcId: {5377}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Intoarce-te, din calea larga o Pe calea stramt-a lui Isus,
+Acum, cand norii negri parca o Ne prevestesc urgii de sus.
+
+[c]
+/: Acum, te-ntoarce si nu maine! o Isus va reveni-n curand...
+De ce nu vii, din cai straine, o La Tatal ce etern e sfant? :/
+
+[v2]
+Intoarce-te, cat sanatatea o O ai, si poti sa te jertfesti
+Sa poti vesti din plinatatea o Comorilor de slavi ceresti...
+
+[v3]
+Intoarce-te, cat anii fragezi o Iti dau tarie ca sa vii;
+Pan’ nu-ti ajung obrajii umezi, o De lacrimi grele si tarzii...
+
+[v4]
+Intoarce-te, pan’ nu se-nchide o Fereastra ochilor tai reci...
+Dar numai tu, te poti decide, o De vrei sa fii salvat, pe veci...

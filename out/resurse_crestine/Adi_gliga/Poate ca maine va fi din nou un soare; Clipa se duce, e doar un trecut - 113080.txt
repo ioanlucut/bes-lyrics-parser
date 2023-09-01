@@ -1,0 +1,23 @@
+[title]
+Poate ca maine va fi din nou un soare; clipa se duce e doar un trecut {author: {Adi Gliga}, {rcId: {113080}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+Poate că mâine, va fi din nou un soare.
+Poate că mâine va fi din nou o zi.
+Dar, cine știe dacă va fi oare;
+Încă un mâine, încă o zi?
+
+[v1]
+Clipa se duce, e doar trecut.
+Dar ce rămâne e ce-ai făcut.
+Ziua ce trece, nu va mai fi
+De e un mâine, azi nu vom ști.
+
+[v2]
+Ai doar o viață, o poți trăi
+Dar se va duce, se va sfârși
+Dincolo de toate, vor rămânea
+Rele sau bune, te vor urma.

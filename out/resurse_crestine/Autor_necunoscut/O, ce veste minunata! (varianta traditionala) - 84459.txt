@@ -1,0 +1,40 @@
+[title]
+O ce veste minunata (varianta traditionala) {author: {Anonim}, {rcId: {84459}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Ce vedere minunată
+Lângă Betleem s-arată:
+Cerul strălucea
+Îngerul venea
+Pe-o rază curată!
+
+[v2]
+La păstorii din câmpie
+Le vestește-o bucurie:
+Că-ntr-un mic sălaș
+Din acel oraș
+S-a născut Mesia!
+
+[v3]
+Păstorașii se uimiră
+Și spre locul sfânt porniră,
+Unde au aflat
+Pruncul înfășat
+Și Îl preamăriră.
+
+[v4]
+E Isus, Păstorul mare,
+Turmă ca El nimeni n-are!
+Noi Îl lăudăm
+Și ne închinăm
+Cu credință tare.
+
+[v5]
+În coliba păstorească
+Vrut-a Domnul să se nască,
+Fiul Celui sfânt,
+Nouă, pe pământ,
+Să ne mântuiască.

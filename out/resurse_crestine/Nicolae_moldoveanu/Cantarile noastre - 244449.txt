@@ -1,0 +1,35 @@
+[title]
+Cantarile noastre {author: {Nicolae Moldoveanu}, {rcId: {244449}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Cântările noastre cântate plângând,
+Lua-și-vor odată aripile-albastre,
+/: Și-n soare pluti-vor curate arzând,
+De para iubirii cântările noastre. :/
+
+[v2]
+Din roua de lacrimi ce-n ele-au rămas
+Luci-vor pe ceruri ghirlande de stele,
+/: Iar îngerii slavei cu tremur în glas,
+Cântând, învăța-vor să plângă din ele. :/
+
+[v3]
+Cântările noastre n-au seamăn și soț
+În nici o simțire și limbă și zare.
+/: Oricine le-aude se-aprinde și-n toți
+Învie cereasca și sfânta-ncântare. :/
+
+[v4]
+Venind din al tainei ceresc nehotar
+Cu-adânc duh de jertfă ființa-nveșmântă,
+/: Purtând mierea dulce lăsată de har,
+Fac dulce și gura și duhul ce cântă. :/
+
+[v5]
+Cântările noastre sunt nimb lui Hristos
+Sunt imnuri iubirii, sunt jertfă suavă,
+/: Sunt tot ce pământul și-ar da mai frumos,
+Acelui din ceruri mai vrednic de slavă. :/

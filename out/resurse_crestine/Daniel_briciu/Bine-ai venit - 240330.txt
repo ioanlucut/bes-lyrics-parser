@@ -1,0 +1,39 @@
+[title]
+Bine-ai venit {author: {Daniel Briciu}, {rcId: {240330}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Eram străini odată pe un pământ străin,
+Trăiam în lumea-aceasta de lacrimi și suspin,
+Dar ai venit din ceruri în staulul de oi
+Să ne-aduci mântuirea. Bine-ai venit la noi!
+
+[c]
+/: Isuse, bine-ai venit la noi!
+Isuse, în lumea de nevoi. :/
+
+[v2]
+Trăiam în întuneric în lumea de păcat,
+N-aveam nici o nădejde și cerul l-am uitat,
+Dar într-o zi din ceruri al dragostei șuvoi
+L-ai revărsat, Isuse. Bine-ai venit la noi!
+
+[v3]
+Eram străini odată și rătăceam stingheri,
+Pribegi fără de țintă și fără Dumnezeu,
+Dar ai venit din slavă, ne-ai înfiat și-apoi
+Ne-ai dat în dar tot cerul. Bine-ai venit la noi!
+
+[v4]
+Îți mulțumim Isuse pentru iubirea Ta
+Și pentru sfântul sânge vărsat la Golgota
+Tu ești în veci Păstorul, iar noi a Tale oi
+Îți mulțumim Isuse. Bine-ai venit la noi!
+
+[v5]
+Și azi ca și-n vechime cobori pe-acest pământ
+Și cauți loc în inimi să-Ți faci un templu sfânt.
+Chiar toți de te-ar respinge, că-i vremea de apoi,
+Poporul Tău îți spune: Bine-ai venit la noi!

@@ -1,0 +1,58 @@
+[title]
+Cetate tare-i dumnezeu {author: {Martin Luther, Traducere RO}, {rcId: {74303}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Cetate tare-i Dumnezeu
+Și armă-apărătoare!
+El ne ajută-n orice greu
+Ce-ar vrea să ne doboare.
+
+[c]
+Vrăjmașul cel bătrân,
+Se crede-acum stăpân.
+Putere, vicleșug,
+El are din belșug.
+Cât nu-i poți da de seamă.
+
+[v2]
+Tăria noastră nu-i deajuns
+Și-am fi răpuși pe dată;
+Dar luptă pentru noi Isus,
+El duce lupta toată.
+
+[c2]
+Și-ntrebi tu cine-i El?
+El e Emanuel!
+E Domnul Sabaot!
+Și Dumnezeu a tot!
+El e Biruitorul!
+
+[v3]
+De-ar fi cu draci pământul plin
+Ce-ar vrea să ne-nghită,
+Nu ne-ndoim cât de puțin
+De-această reușită.
+
+[c3]
+Al lumi-acestea prinț
+Scrâșnește-amar din dinți;
+Dar oricât ar scrâșni,
+Nimic n-ar izbuti:
+Scriptura-I va răpune.
+
+[v4]
+Să nu se-atingă de „
+Cuvânt”,
+Să-I lase cum e-n Carte!
+Cuvântul și cu Duhul Sfânt
+Ne sunt a noastră parte.
+
+[c4]
+Și-atunci să tot lovească
+În viața pământească
+Tiranul inamic,
+Noi n-am pierdut nimic,
+Căci cerul nou e-al nostru!

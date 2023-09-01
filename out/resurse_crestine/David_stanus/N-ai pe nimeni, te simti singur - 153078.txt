@@ -1,0 +1,39 @@
+[title]
+N-ai pe nimeni te simti singur {author: {David Stănuș}, {rcId: {153078}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+N-ai pe nimeni, te simți singur,
+Te simți singur, biet orfan
+N-ai nici mamă, n-ai nici tată
+Lacrima să-ți înțeleagă
+N-ai pe nimeni, biet orfan.
+
+[c]
+Dar există Cineva
+Care-ți vede lacrima,
+Lacrimi ce le verși mereu
+Când pe lume-ți este tare greu.
+
+[v2]
+Ai o mamă, ai un tată
+De-L primești pe Dumnezeu
+Nu vei fi un biet orfan
+Părăsit și fără-un ban
+Și vei fi copilul Său!
+
+[v3]
+Fără Domnul vei fi singur,
+Întristat și părăsit
+Într-o lume de dureri
+Să-ți aducă mângâieri
+Chiar Isus a venit!
+
+[v4]
+Îndrăznește, vino iute,
+Ca și orbul Bartimeu
+Ca Zacheu de altă dată
+Vino înspre cer pe poartă
+Te primește Dumnezeu.

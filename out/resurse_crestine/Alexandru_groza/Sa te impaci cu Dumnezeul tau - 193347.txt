@@ -1,0 +1,23 @@
+[title]
+Sa te impaci cu dumnezeul tau {author: {Alexandru Groza}, {rcId: {193347}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Să te împaci cu Dumnezeul tău, oriunde ești, întoarce-te!
+Căci viața e în mâna Lui, împacă-Te cu El!
+Și pentru tine Domnul S-a jertfit, sufletul tău l-a mântuit
+Întoarce-te din calea ta, te cheamă Dumnezeu
+
+[c]
+Iubirea Lui e scutul tău mereu, cu El învingi orice greu
+Atât de mult El te-a iubit, prin har te-a mântuit!
+Iubirea Lui e scutul tău mereu, cu El învingi orice greu
+Nu te lăsa atras de rău, te cheamă Dumnezeu!
+
+[v2]
+Ce mare har să fii călăuzit prin încercări de orice fel
+Ridică-te dac-ai căuzut, te cheamă Dumnezeu!
+Și pentru tine Domnul S-a jertfit, sufletul tău l-a mântuit
+Întoarce-te din calea ta, te cheamă Dumnezeu.

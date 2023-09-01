@@ -1,0 +1,23 @@
+[title]
+Tu esti scutul si taria mea {author: {Sunny Tranca}, {rcId: {233658}}
+
+[sequence]
+v1,c,c
+
+[v1]
+Tu ești scutul și tăria mea,
+În Tine mă încred.
+În Tine mi se-ncrede inima,
+De-aceea nu mă tem!
+
+[c]
+Doamne, Tu ești bun
+Căci în veac ține îndurarea
+Și credinciosia Ta
+Nu mă va părăsi!
+
+[b]
+Aleluia, Dumnezeu e dragoste!
+Aleluia, în mine frică nu mai e!
+Aleluia, Dumnezeu e dragoste!
+Aleluia, în mine frică nu mai e!

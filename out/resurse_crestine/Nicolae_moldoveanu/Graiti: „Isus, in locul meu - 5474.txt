@@ -1,0 +1,29 @@
+[title]
+Graiti: "isus in locul meu {author: {Nicolae Moldoveanu}, {rcId: {5474}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Graiti: „
+Isus, in locul meu,
+Pe cruce a murit
+Si catre-un pierdut, cum sunt eu,
+S-a-ntors, caci m-a iubit.
+
+[c]
+Si in locul meu, si in locul tau,
+Murit-a Domnul pentru toti.
+Veniti, sa-I multumim!
+
+[v2]
+Soarele s-a intunecat,
+Ascunzand raza sa
+Cand Isus rabda pe cruce,
+Luptand El cu moartea.
+
+[v3]
+De as ascunde fata mea
+De rusine pe veci
+Si de as plange, cat as vrea,
+Asa, sa-I multumesc.”

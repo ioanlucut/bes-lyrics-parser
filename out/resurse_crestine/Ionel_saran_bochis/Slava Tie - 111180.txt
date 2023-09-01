@@ -1,0 +1,27 @@
+[title]
+Slava tie {author: {Ionel Saran Bochis}, {rcId: {111180}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Zbura-vom totii spre cer ne-om inalta
+Spre Tine Doamne spre fericirea Ta
+Uitavom totul dureri amar si jale
+Cinta-vom totii un imn de slava Tie
+
+[c]
+/: Slava Tie-ti vom cinta sus in slava Ta
+Si cu ingerii impreuna in veci te-om lauda :/
+
+[v2]
+Si lumea aceasta noi o vom parasii
+Spre vesnicie tu ne vei insotii
+Tu vei fi Doamne al nost Biruitor
+In veci Isuse al nost Mintuitor
+
+[v3]
+Te-astept Isuse ca sa revii la noi
+Mi-e dor de Tine unde esti Domnul meu
+Isuse vino in ajutorul meu
+Cind drumul vietii mi se pare greu

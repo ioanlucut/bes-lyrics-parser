@@ -1,0 +1,27 @@
+[title]
+Iubiti-va (la bem) {author: {Mirela Ursulescu}, {rcId: {176697}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Astăzi la nunta voastră, noi am venit cu mare drag,
+Această zi e-o zi aleasă, iar Domnul fie-al vostru steag.
+
+[c]
+/: Iubiți-vă până la moarte,
+Iubiți-vă căci El a spus,
+Iar Dumnezeu vă fie-aproape,
+Pe drumul vostru ce-ați ales :/
+
+[v2]
+Pacea și fericirea, să fie-n toate pe deplin
+Dragostea și iubirea, să inunde-al vost’ cămin.
+
+[v3]
+De astăzi, a voastră casă, va fi așa cum o zidiți,
+Altarul să nu vă lipsească, în Domnul rămâneți uniți.
+
+[v4]
+De astăzi, pășiți cu Domnul și niciodată fără El,
+Caci bine e când Creatorul, conduce-n toate-al vostru mers.

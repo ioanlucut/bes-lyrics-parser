@@ -1,0 +1,41 @@
+[title]
+Toata lumea asta zice {author: {Frații Cătălin}, {rcId: {84482}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Toată lumea asta zice, că se-ncrede în Isus,
+Orișiunde în viață, El ne ascultă voios,
+Când ajungi la încercare, atunci vezi credința ta,
+De nu-ai biruit ispita, lângă Isus nu poți sta.
+
+[v2]
+De ai lacomie, în suflet, lângă Isus nu poți sta,
+De mai spui și o minciună, lângă Isus nu poți sta,
+De mai ai mândrie-n suflet, și la vrăjitori te duci,
+Unde-ți este atunci credința? Nu poți sta lângă Isus.
+
+[v3]
+De mai ai ceva în viață, si de nu ai biruit,
+Si daca poftesti tu cumva, vre-un pahar de vin spumos,
+Căci bețivi și nedrepți, sus în cer nu pot intra,
+Unde-ți este atunci credința? Lângă Isus nu poți sta.
+
+[v4]
+De ți-e mintea ocupată, tot cu gânduri pământești,
+De te ții în pas cu moda, Biblia n-o mai citești,
+De te lupți după avere, n-ai nici timp a te ruga,
+Unde-ți este atunci credința? Lângă Isus nu poți sta.
+
+[v5]
+De mai ai ceva în viață, și de nu ai biruit,
+De bârfești sau mai ai ură, încă nu ești pocăit,
+Daca nu-ți iubești vrăjmașii, și n-ai sufletul milos, 
+Unde-ți este atunci credința? Nu poți sta lângă Hristos.
+
+[v6]
+De mai ai păcate-ascunse, și nu le-ai mărturisit,
+De mai ai plăceri și idoli, de pofte ești biruit,
+Nu ținea ascuns păcatul, astăzi în inima ta,
+Ca să poți intra în ceruri, lângă Isus să poți sta.

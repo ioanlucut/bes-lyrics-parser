@@ -1,0 +1,39 @@
+[title]
+Din cer din locuri sfinte {author: {Nicolae Moldoveanu}, {rcId: {246178}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Din cer, din locuri sfinte,
+Spre neamul omenesc,
+Al nostru drag Părinte
+Trimise Fiul Său ceresc
+Dumnezeiesc.
+
+[c]
+Slăvit, slăvit să fie Domnul
+- În veci, în veci de veci, amin -
+Isus, Isus Biruitorul,
+Miel Sfânt și Salvator divin.
+
+[v2]
+Viteji au fost sub soare
+David și Ghedeon.
+Dar cine să doboare
+Străvechiul șarpe de pe tron,
+Chiar în Sion?
+
+[v3]
+Văzând dușmanul lumii,
+Isus, în luptă grea,
+l-a-nfrânt în Ghetsimani
+Și l-a zdrobit pe Golgota,
+Prin Jertfa Sa.
+
+[v4]
+Acum spre Tatăl veșnic
+Noi vom zbura cântând,
+În haine de lumină
+Pe Cel crucificat urmând
+Mereu cântând.

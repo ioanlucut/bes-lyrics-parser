@@ -1,0 +1,31 @@
+[title]
+De la iesle {author: {Text: Costache Ioanid, Muzica: Corina Bazon}, {rcId: {199400}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+De la iesle pân-la cruce...
+Cât amar, cât suflet frânt!
+Ce alean, ce milă dulce
+Te-a putut din cer aduce pe pământ?
+De la staul la Golgota...
+Numai zbucium și colind.
+Trist privea spre cruce bolta.
+Munții grei porneau revolta clocotind!
+
+[c]
+De la iesle pân-la mine...
+Câte lacrimi, câți martiri!
+Unde voi găsi suspine,
+Doamne, să-ți aduc depline mulțumiri?
+
+[v2]
+De pe fân și pân-la cuie
+Numai răni și vânătăi,
+Ce cuvinte pot să spuie
+Cum plângeai pe-o cărăruie pentru-ai Tăi?
+Din Egipt în Ghetsimani...
+Numai plâns și privegheri...
+Crunt pândeau în drum dușmanii,
+Până n-au mai fost Betanii nicăieri.

@@ -1,0 +1,61 @@
+[title]
+Noaptea este pe sfarsite {author: {Daniel Briciu}, {rcId: {240344}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Noaptea este pe sfârșite,
+Zorii zilei se ivesc
+Și mă uit acum spre ceruri,
+Semnele se împlinesc.
+Nu mai este mult din noapte
+Până ziua va veni
+Și Luceafărul Vieții
+În curând va străluci.
+
+[c]
+/: Și curând sosi-va ziua, cea pe care-o așteptăm,
+Ca pe norul cel de slavă pe Isus să îl vedem. :/
+
+[v2]
+Este ultima chemare
+Ce se face în popor,
+Ești chemat să vii acasă,
+Fiule risipitor.
+Rătăcești pe căi străine,
+Depărtat de-al tău cămin.
+Porți în suflet o durere
+Și viața ta-i un chin.
+
+[c2]
+/: Tatăl Tău acum te cheamă și te-așteaptă ca să vii,
+Vrea în dar să îți ofere viața cea din veșnicii. :/
+
+[v3]
+Azi dezbracă-te de haina
+Cea murdară de păcat.
+Vino azi la al tău Tată
+Și în alb vei fi-mbrăcat.
+Un ospăț va fi în ceruri,
+Îngerii s-or bucura.
+Tatăl, părăsindu-și tronul,
+Însuși te va-ntâmpina.
+
+[c3]
+/: Și inelul biruinței ți-l va da prin Duhul Sfânt,
+Ca pecete a credinței cât vei fi pe-acest pământ. :/
+
+[v4]
+Azi grăbește-te căci harul
+S-a oprit la ușa ta,
+Nu respinge astăzi darul
+Câștigat pe Golgota.
+Astăzi ești chemat la cruce
+Ca să-ți lași povara ta
+Și spălat în sfântul sânge
+Să ai mântuirea Sa.
+
+[c4]
+/: Azi predă-ți viața-ntreagă minunatului Isus,
+Dacă vrei ca veșnicia s-o petreci în ceruri sus. :/

@@ -1,0 +1,37 @@
+[title]
+Psalmul {author: {Remus Tămășan Cristi}, {rcId: {155948}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Domnul este-al meu Păstor
+Lipsă eu nu voi duce
+Mă conduce la izvor
+Și la apă dulce. :/
+
+[c]
+Domnul este al meu Păstor
+Mă conduce la izvor
+Mâna Lui e veșnic peste mine
+El îmi dă comori de har
+Și iubirea Sa în dar
+Cu Domnul meu este atât de bine.
+/: Domnul este al meu Păstor
+Mă conduce la izvor
+Mâna Lui e veșnic peste mine
+El îmi dă comori de har
+Și iubirea Sa în dar
+Cu Domnul meu este atât de bine. :/
+
+[v2]
+/: Dacă ar fi să trec prin greu
+Jos în valea umbrei morții
+E cu mine Dumnezeu
+Și-mi păzește firul vieții. :/
+
+[v3]
+/: Fericirea mă va-nsoți
+Zi de zi-n a mea viață
+Liniștit eu voi trăi
+Cu Isus a mea povață. :/

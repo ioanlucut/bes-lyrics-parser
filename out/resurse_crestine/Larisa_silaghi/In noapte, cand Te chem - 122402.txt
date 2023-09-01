@@ -1,0 +1,29 @@
+[title]
+In noapte cand te chem {author: {Larisa Silaghi}, {rcId: {122402}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În noapte, când Te chem
+Tu vii, și niciodată nu-ntârzii
+Chiar dacă așteptare-i grea
+Tu știi să apari, când e vremea.
+
+[c]
+Nu-i nimenea ca Tine, Doamne,
+Tu mă îndrumi, mă sfătuiești
+Și la necaz mă izbăvești
+Ești Domnul meu, și Te iubesc.
+
+[v2]
+Când tulburată-mi este viața
+Tu, Doamne, îmi redai speranța
+Și din tristețea cea mai grea
+Tu îmi aduci bucuria!
+
+[v3]
+Îți mulțumesc că mă iubești
+Și nici când nu mă părăsești
+Cu mine la nevoie ești
+O, Domnul, meu Îți mulțumesc!

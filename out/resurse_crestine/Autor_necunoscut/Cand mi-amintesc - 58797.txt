@@ -1,0 +1,21 @@
+[title]
+Cand mi-amintesc {author: {Anonim}, {rcId: {58797}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Cand mi-amintesc c-A murit pentru mine
+Nicicand inapoi nu voi da :/
+
+[c]
+/: Nu, nu, nu, nu, nu, nu, nu, nu
+Nicand inapoi nu voi da :/
+
+[v2]
+/: Cand mi-amintesc c-Anviat pentru mine
+Nicicand inapoi nu voi da :/
+
+[v3]
+/: Cand mi-amintesc ca v-A veni pentru mine
+Nicicand inapoi nu voi da :/

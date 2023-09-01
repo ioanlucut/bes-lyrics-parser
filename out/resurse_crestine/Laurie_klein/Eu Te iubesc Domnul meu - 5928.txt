@@ -1,0 +1,17 @@
+[title]
+Eu te iubesc domnul meu {author: {Laurie Klein}, {rcId: {5928}}
+
+[sequence]
+v1,v2
+
+[v1]
+/: Eu Te iubesc Domnul meu slavit
+Si-n adorare Îti cânt, smerit,
+Ma-nchin cu drag si doresc nespus
+Sa te bucuri de cântul meu, drag Isus. :/
+
+[v2]
+Eu Te iubesc Domnul meu slavit
+Si-n adorare Îti cânt, smerit,
+Ma-nchin cu drag si doresc nespus
+Sa te bucuri de cântul meu, drag Isus.

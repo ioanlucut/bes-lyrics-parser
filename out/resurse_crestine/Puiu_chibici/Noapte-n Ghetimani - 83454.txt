@@ -1,0 +1,30 @@
+[title]
+Noapte-n ghetimani {author: {Puiu Chibici}, {rcId: {83454}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Noapte-n Ghețimani,
+Strigăt trist al disperării,
+Plânge Domnul singur în grădină,
+Plânge amar Isus: :/
+
+[c]
+/: ”
+Tată, Tată,
+Ca de moarte-i întristarea Mea..
+Tată, Sfinte Tată,
+Totuși să se facă Voia Ta!” :/
+
+[v2]
+/: Noapte-n Ghețimani,
+Lacrimi calde de iubire,
+Jertfa sfântă pentru omenire,
+Rugă-n ceas târziu. :/
+
+[v3]
+/: Noapte-n Ghețimani
+Luptă sfântă, biruință,
+Pregătire pentru suferință,
+Plânge amar Isus: :/

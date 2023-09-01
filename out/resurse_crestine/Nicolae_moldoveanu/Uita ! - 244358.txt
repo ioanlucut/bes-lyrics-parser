@@ -1,0 +1,29 @@
+[title]
+Uita {author: {Nicolae Moldoveanu}, {rcId: {244358}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Uită zâmbetul ispitei,
+Uită-al despărțirii chin,
+Uită groaza morții,
+Uită tot ce-ți poate fi venin.
+
+[c]
+Și adu-ți aminte numai,
+Că pe drumul către Țel,
+De nu uiți ce este-n urmă,
+Nu te-nvrednicești de el.
+
+[v2]
+Nu privi către amurgul,
+Peste care treci grăbit,
+Ci privește strălucirea,
+Grabnicului răsărit.
+
+[c2]
+Moartea trece ca părerea,
+Unui vis grăbit uitat,
+Și te vei trezi-n splendoare,
+Fericit înspăimântat.

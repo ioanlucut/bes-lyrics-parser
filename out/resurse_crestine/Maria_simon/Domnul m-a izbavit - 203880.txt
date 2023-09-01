@@ -1,0 +1,41 @@
+[title]
+Domnul m-a izbavit {author: {Maria Șimon}, {rcId: {203880}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Domnul m-a izbăvit de toate temerile mele,
+Când L-am strigat El mi-a răspuns,
+În greu necaz eu L-am chemat să vină
+Și cu bunătate m-a privit Isus.
+
+[c]
+Îngeri din cer ai trimis în jurul meu,
+Să mă salveze de tot ce-i rău!
+Dumnezeu de sus m-a ascultat
+Și de orice boală m-a vindecat!
+
+[v2]
+Pământul întreg era cuprins de-o mare groază,
+Boala și necaz în lung și-n lat,
+Teamă, disperarea cuprins-a omenirea
+Dar eu pe Tine Doamne Te-am chemat!
+
+[v3]
+Mâna Ta, o, Tată, apăsa poporul,
+Care departe de fața Ta era,
+Tu ne vorbeai prin boală și durere,
+Să privim spre Tine și să ne căim!
+
+[v4]
+Astăzi Te slăvesc și Îți cânt Osana,
+Căci mai presus de toate, Tată, esti,
+Ne-ai scăpat de boală, de moarte și urgie,
+Căci peste toate doar Tu stăpânești!
+
+[v5]
+Tu ești Dumnezeu, nimeni nu-i ca Tine,
+Te slăvesc căci viață adus-ai înc-o dată,
+Cerul și Pămânul Îți cântă din vecie,
+Tu ești Dumnezeul sfânt și-adevărat!

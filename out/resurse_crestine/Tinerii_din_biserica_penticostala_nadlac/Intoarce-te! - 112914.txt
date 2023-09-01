@@ -1,0 +1,45 @@
+[title]
+Intoarce-te {author: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {112914}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Suflete ce plângi, zăcând în pustie,
+de ce spui că totul este de prisos?
+Ai un Dumnezeu, ai un Salvator,
+El e Cristos!
+
+[c]
+Prin credință munții-i poți muta din loc,
+prin credință mergi pe ape, treci prin foc,
+prin credință ești oricând tămăduit.
+Întoarce-te!
+Prin credință orb fiind, totuși poți vedea,
+prin credință mereu te vei ridica
+prin credință în Isus ești mântuit.
+Întoarce-te!
+Prin credință munții-i poți muta din loc,
+prin credință mergi pe ape, treci prin foc,
+prin credință ești oricând tămăduit.
+Întoarce-te!
+Prin credință orb fiind, totuși poți vedea,
+prin credință mereu te vei ridica
+prin credință în Isus ești mântuit.
+Întoarce-te!
+
+[v2]
+De-ai căzut pe cale Dumnezeu știe,
+însă știi tu oare cine e Isus Cristos?
+E Rege-al regilor, e Domn al domnilor,
+bun și milos.
+
+[v3]
+Prin credință orice-ai cere vei primi
+prin credință ai putere-a birui,
+prin credință ceru-l ai făgăduit.
+Întoarce-te!
+
+[e]
+Domnu-acum la ușa inimii-ți bate
+și te cheamă: Întoarce-te!

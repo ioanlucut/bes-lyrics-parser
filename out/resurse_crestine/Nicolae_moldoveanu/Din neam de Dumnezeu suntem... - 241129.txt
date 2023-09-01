@@ -1,0 +1,33 @@
+[title]
+Din neam de dumnezeu suntem {author: {Nicolae Moldoveanu}, {rcId: {241129}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Din neam de Dumnezeu suntem
+Născuți din veșnica-l Ființă,
+Toți câți pecetea Lui avem,
+Toți câți purtăm în duh credință;
+
+[c]
+Din Dumnezeu
+Suntem din Dumnezeu.
+
+[v2]
+Toți câți în inimă-am primit
+Chemarea harului divină
+Adusă-n chip desăvârșit,
+Prin jertfa Fiului deplină;
+
+[v3]
+Toți câți păstrăm al Lui Cuvânt
+Lumină sfântă pe cărare;
+Toți câți înaintăm cu-avânt,
+Spre-mpărăția viitoare;
+
+[v4]
+Toți câți suntem înveșmântați,
+Cu arzătoarea Lui iubire.
+- Suntem din neamul Lui, curați
+Și El e-a noastră Moștenire!

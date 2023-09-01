@@ -1,0 +1,41 @@
+[title]
+Ce limpede scriptura spune sa nu iubim aceasta lume {author: {Rusu Nicolae}, {rcId: {213673}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Toate-s trecătoare în această lume,
+Tot e goană după vânt,
+Sfânta Carte spune, că-i deșertăciune
+Orice lucru pe pământ.
+Însă omul crede, doar ceea ce vede
+Și adună la comori,
+Dar nu pentru sine, căci sfârșitul vine
+Fiindcă toți sunt muritori.
+
+[c]
+/: Ce limpede Scriptura spune, să nu iubim această lume,
+Legați să nu fim de pământ, căci toate-s goană după vânt.
+Nu-i pe pământ a noastră țară, cerul promis ne e comoară,
+Când Dumnezeu mă va chema, cerul va fi căsuța mea :/
+
+[v2]
+Toate-s trecătoare în această lume,
+Toate pier precum apar,
+Totul e vremelnic, tot ce-i sus apune,
+Toate își au un hotar.
+Dar Cuvântul vieții, în veci nu va trece,
+Fără a se împlini,
+Cine îl citește și îl împlinește,
+Fericire va găsi.
+
+[v3]
+Toate-s trecătoare în această lume,
+Unde noi puțin trăim,
+Dar trăim cu dorul și un scop anume,
+Pentru cer ne pregătim.
+Toate ne sunt date, de al nostru Tată,
+Să ne fie de folos,
+Nu să ne robească, ci să ne slujească
+Spre onoarea lui Hristos.

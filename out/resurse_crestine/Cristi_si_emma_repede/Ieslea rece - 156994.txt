@@ -1,0 +1,39 @@
+[title]
+Ieslea rece {author: {Cristi și Emma Repede}, {rcId: {156994}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Stând și-așteptând colindători, în casă lânga foc,
+M-am rătacit cu gândul, spre-un friguros sfânt loc.
+O iesle și un grajd murdar în lume a găsit,
+Eu doar atât I-am oferit, Acelui din vecii.
+
+[c]
+El S-a smerit mai mult ca omul
+Și-n ieslea rece s-a născut.
+Deși a Lui era Pământul
+Și caldul așternut.
+A fost o noapte atât de lunga
+Deși-n lumină locuia.
+Dar ieslea aceea rece, era inima mea și-a ta!
+/: El S-a smerit mai mult ca omul
+Și-n ieslea rece s-a născut.
+Deși a Lui era Pământul
+Și caldul așternut.
+A fost o noapte atât de lunga
+Deși-n lumină locuia.
+Dar ieslea aceea rece, era inima mea și-a ta! :/
+
+[v2]
+În taina nopții de Crăciun, cad fulgii jucăuși,
+Plutesc urări din mii de guri ”
+Hristos ni s-a născut!”
+Dar cine din aceștia toți, un loc i-a oferit
+O inimă mai caldă, Acelui din vecii..
+
+[e]
+/: Inimă de gheață, lasă-L să se nască
+/: Să te încălzească cu dragostea Sa. :/
+X2

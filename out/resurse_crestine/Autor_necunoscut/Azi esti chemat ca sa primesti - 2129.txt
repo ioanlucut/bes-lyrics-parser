@@ -1,0 +1,23 @@
+[title]
+Azi esti chemat ca sa primesti {author: {Anonim}, {rcId: {2129}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Azi ești chemat ca să primești
+Oferta de salvare
+Care Isus a pregătit
+Prin marea-i îndurare.
+
+[c]
+/: Încheie azi un legământ
+Cu Cel ce pentru tine
+Pe cruce a fost răstignit
+Ca să-ți dea mântuire. :/
+
+[v2]
+Azi mai e timp spre a găsi,
+Jos în a morții vale,
+Ale lui Isus bogății
+Ce pot să-ți dea salvare.

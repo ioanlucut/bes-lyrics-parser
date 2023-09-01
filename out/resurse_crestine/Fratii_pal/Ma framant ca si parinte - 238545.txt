@@ -1,0 +1,41 @@
+[title]
+Ma framant ca si parinte {author: {Fratii Pal}, {rcId: {238545}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Mă frământ ca și părinte
+Pentru copilașii mei
+Mii de gânduri am în minte
+Toată lupta-i pentru ei
+
+[c]
+Mă lupt să-i țin mai aproape
+De mine de casa mea
+Să pot să-i ajut prin toate
+Câtă vreme voi putea
+
+[v2]
+Vreau să le ’nalț viitorul
+Către țelul mult dorit
+Să cunoască adevărul
+Despre-un Dumnezeu slăvit
+
+[v3]
+Cât Dumnezeu mă va ține
+Cât suflare îmi va da
+Să-i îndrum s-aleagă bine
+Calea bună, nu cea rea
+
+[v4]
+Pentru ei inima-mi plânge
+Când mi-aplec genunchii jos
+Și în lacrimi mi se frânge
+Dorul după ei Hristos
+
+[v5]
+Mă rog Doamne cu credință
+Știu că-n toate vei lucra
+Sus în ceruri lângă Tine
+Să fiu cu familia mea

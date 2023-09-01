@@ -1,0 +1,29 @@
+[title]
+Sa spunem tuturor {author: {Revers}, {rcId: {143033}}
+
+[sequence]
+v1,v2,e
+
+[v1]
+Stelele din cer s-au aliniat,
+O lumină ni s-a arătat,
+S-a născut Isus!
+Și hai să spunem tuturor:
+” S-a născut Isus!”
+Să știe orice călător:
+S-a născut Isus!
+
+[v2]
+Viața umple străzile pustii,
+E sezonul noii bucurii,
+S-a născut Isus!
+Și hai să spunem tuturor:
+” S-a născut Isus!”
+Să știe orice calator:
+S-a născut Isus!
+
+[e]
+/: Hai să spunem tuturor:
+” S-a născut Isus!”
+Să știe orice călător:
+S-a născut Isus! :/ x4

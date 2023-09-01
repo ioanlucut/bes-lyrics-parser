@@ -1,0 +1,41 @@
+[title]
+Te asteptam isuse sa ne izbavesti {author: {Familia Robu}, {rcId: {210090}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Te așteptăm Isuse să ne izbăvești
+Privind cu ochi spre ceruri să vii ca să lucrezi,
+Ne arde-n inimi dorul de puterea Ta
+O, vino Tu Isuse și șterge lacrima!
+
+[c]
+Tu ești Stânca ce mă ține
+De ceruri mereu ancorat;
+Nu te voi lăsa niciodat’,
+Tu ești al meu împărat.
+
+[v2]
+E grea ’ncercarea care ne-apasă tot mai greu
+Având credință-n Tine, te-ndură Dumnezeu
+Și orice suferință o iei asupra Ta,
+Tu ai biruit chiar moartea pe dealul Golgota.
+
+[v3]
+Oseana acuma Ție, al nost’ Stăpân ceresc,
+Ți-aducem mulțumire căci Tu același ești,
+În orice clipă-n viață ne ești biruitor,
+Ne fii Tu mai departe al nostru Salvator.
+
+[v4]
+Deci Tu ne vei rămâne al nostru Dumnezeu
+Pe cărarea vieții, cu Tin’ nu va fi greu,
+Vom merge mai departe cu râvnă înspre cer
+Sus unde ne așteaptă Tatăl Dumnezeu.
+
+[v5]
+Căci ei vor fi ai Mei, îmi vor fi o comoară
+Îi voi izbăvi, le voi da viață iară
+Va răsări din nou al iubirii soare
+Căci ei sunt ai Mei, îmi sunt a Mea comoară.

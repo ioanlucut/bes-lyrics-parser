@@ -1,0 +1,33 @@
+[title]
+Rege sfant emanuel {author: {Kevin Kocsis}, {rcId: {223252}}
+
+[sequence]
+v1,c,v2,b,c,c
+
+[v1]
+E sărbătoare, Domnul s-a născut
+E bucurie, a venit Isus
+Un colind din inimă-i cântăm
+Regelui Emanuel
+
+[c]
+Aleluia, Tu ești Domn și Împărat
+Aleluia, tot trecutul l-ai schimbat
+Cu bucurie astăzi îți cântăm
+Rege Sfânt, Emanuel
+
+[v2]
+El a venit și iertare mi-a adus
+De la moarte la viață m-a condus
+Prin El sunt liber și glorie îi cânt
+Lui Isus, Domnului Sfânt
+
+[b]
+S-a născut Isus Cristos
+S-a născut un Împărat
+El e Domn din veșnicii
+Viața mea i-o dau în dar
+Vestea aceasta pe mine m-a schimbat
+Isus e Rege și m-a eliberat
+Colindu’-acesta Lui îl dedicăm
+Glorie lui Dumnezeu!

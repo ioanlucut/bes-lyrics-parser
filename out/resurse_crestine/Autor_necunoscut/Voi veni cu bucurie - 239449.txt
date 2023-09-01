@@ -1,0 +1,31 @@
+[title]
+Voi veni cu bucurie {author: {Autor necunoscut}, {rcId: {239449}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Voi veni cu bucurie
+Înaintea Domnului;
+Voi veni cu mulțumire-n casa Lui.
+Această zi e-a Domnului,
+Deci să ne bucurăm în ea;
+Cântându-I glorie Aleluia.
+
+[v2]
+/: Eu sunt fericit, eu sunt fericit
+Sunt fericit căci El m-a mântuit. :/
+/: Osana, laudă Domnului
+Laudă Domnului ce ne-a salvat. :/
+
+[v3]
+/: Măreț ești Dumnezeu
+Cu laude noi Te onorăm. :/
+/: Osana, laudă Domnului
+Laudă Domnului ce ne-a salvat. :/
+
+[v4]
+/: Voi binecuvânta,
+Pe Domnul în toata vremea. :/
+/: Osana, binecuvântăm
+Binecuvântăm pe Salvatorul. :/

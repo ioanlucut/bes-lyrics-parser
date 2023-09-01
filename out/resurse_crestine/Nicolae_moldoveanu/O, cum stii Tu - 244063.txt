@@ -1,0 +1,29 @@
+[title]
+O cum stii tu {author: {Nicolae Moldoveanu}, {rcId: {244063}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+O, cum știi Tu să-Ți acoperi fața
+Și strălucirea să-Ți ascunzi,
+/: Când vrei să Te cuprinzi în gândul
+De care vrei să Te pătrunzi! :/
+
+[v2]
+Cum poți să-Ți strângi nemărginirea
+Să-ncapă-n duhul mărginit,
+/: În care vrei să Te dezvălui
+Prin saltul spre desăvârșit! :/
+
+[v3]
+Și cum ne-nveți că-n vremea zilei
+Știm doar puținul ce-I privim,
+/: Că noaptea doar ne desfășoară
+Nemărginirea ce-o trăim! :/
+
+[v4]
+De unde-am ști ce lumi, ce taine
+Ne-nconjor bănuite-abia,
+/: De n-ar fi noaptea să le-arate
+Și moartea să ni le redea. :/

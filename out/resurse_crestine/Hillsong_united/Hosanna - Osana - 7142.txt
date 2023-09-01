@@ -1,0 +1,36 @@
+[title]
+Hosanna / osana {author: {Hillsong United, Traducere RO}, {rcId: {7142}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Îl văd pe Domnul gloriei
+Venind din nou la noi pe nori
+Pământu-ntreg, se clatină
+Îi văd în ochi iubirea,
+Ce spală tot păcatul meu
+Toți oamenii îi cântă.
+
+[c]
+Osanna, osanna!
+Osanna-n înălțime.
+
+[v2]
+O nouă generație
+Apare pentru a-l sluji
+/: Prin credința lor :/
+Trezirea e aproape
+Tot pământul e cuprins
+De slava Sa, de slava Sa.
+
+[e]
+Spală tot ce este-n min’
+Cu tot ce sunt Isuse Ție îți aparțin
+Vreau să pot iubi
+La fel cum m-ai iubit
+Fă-mi inima să plângă cu a Ta
+Deschide-mi ochii
+Spre împărăția Ta
+Vreau să trec
+Din lumea mea, în lumea Ta.

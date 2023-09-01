@@ -1,0 +1,37 @@
+[title]
+Se-aud pasii lui isus {author: {Simon Boloca}, {rcId: {176145}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Se-aud pașii lui Isus,
+Da, El vine cum a spus.
+
+[c]
+/: Ești tu gata de-a-L întâmpina?
+Cercetează-ți azi ființa ta!
+Nu sta-n nepăsare, dragul meu,
+Caută-L ne-ncetat pe Dumnezeu!
+În prezența Lui mereu vei sta,
+Lacrimi, plâns, durere, vei uita,
+Pace, bucurii de nedescris,
+Asta Domnul Isus ne-a promis! :/
+
+[v2]
+El e Mirele iubit,
+Te vrea sfânt și pregătit!
+
+[v3]
+Poate azi vei chemat,
+De Cel care te-a creat!
+
+[c2]
+/: Ține-mă, Isus, în mâna Ta,
+În Tine mi-am pus încrederea!
+Încercări și valuri de-or veni,
+Izbăvire Tu-mi vei dărui!
+Vreau să stau departe de păcat
+Să pot fi la nunta Ta chemat,
+Cu toți cei ce Ție Ți-au slujit,
+Să-Ți cântăm pentru că ne-ai iubit! :/

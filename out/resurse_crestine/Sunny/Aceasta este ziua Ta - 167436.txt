@@ -1,0 +1,40 @@
+[title]
+Aceasta este ziua ta {author: {Sunny}, {rcId: {167436}}
+
+[sequence]
+v1,b,c,v2,b,c,e
+
+[v1]
+Aceasta este ziua Ta,
+Cu bucurie mă întorc
+Doamne în prezența Ta.
+Aceasta este ziua Ta,
+Un cântec nou va răsuna
+Doamne din inima mea.
+
+[b]
+Mila Ta m-a căutat,
+Bunătatea m-a găsit și m-a salvat!
+
+[c]
+Voi cânta Domnul meu,
+Numai Numelui Tău.
+Jertfa mea de iubire
+Este doar pentru Tine.
+Voi cânta Domnul meu
+Numai Numelui Tău,
+Cu suflarea din mine
+Veșnic cânt pentru Tine!
+
+[v2]
+Aceasta este ziua Ta,
+Mulțumirea este haina
+Care o voi îmbrăca.
+Aceasta este ziua Ta,
+Altar de laudă zidesc,
+Al Tău nume îl iubesc!
+
+[e]
+/: Voi adora, voi celebra,
+Voi înalta Numele Tău! :/
+x3

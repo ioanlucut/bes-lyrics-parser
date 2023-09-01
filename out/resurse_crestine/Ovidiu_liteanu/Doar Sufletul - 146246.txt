@@ -1,0 +1,29 @@
+[title]
+Doar sufletul {author: {Ovidiu Liteanu}, {rcId: {146246}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Te rog să te gândești la veșnicie,
+Te rog întreabă-te unde-ai să fii
+Când ochii tăi pe veci se vor închide,
+Și vei pleca de-aici fără să știi.
+
+[c]
+/: Doar sufletul e liber ca să zboare
+Acolo unde loc i-ai pregătit
+Cu Dumnezeu în ceruri în splendoare
+Ori pentru Iad să fie chinuit :/
+
+[v2]
+Adu-ți aminte că ești doar țărână,
+Și viața ta-i un abur pe pământ
+Țărână ești și în pământ vei merge,
+Chiar de nu vrei ești pus într-un mormânt
+
+[v3]
+Cu-al tău păcat întoarce-te la Domnul,
+Căci timpul trece și e pe sfârșit
+Împacă-te cu Dumnezeu degrabă,
+Să fie și-al tău suflet mântuit.

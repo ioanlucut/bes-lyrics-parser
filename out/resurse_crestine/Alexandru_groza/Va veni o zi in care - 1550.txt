@@ -1,0 +1,31 @@
+[title]
+Va veni o zi in care {author: {Alexandru Groza}, {rcId: {1550}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Va veni o zi în care toți aleșii Domnului
+Vor cânta un imn de slavă Mielului
+Ziua-aceea nu-i departe, pregătiți-vă acum
+Nu uitați că ziua aceea e pe drum!
+
+[c]
+/: Ce minune va fi când Domnul va veni
+Toți aleșii Domnului cu El vor fi
+Vei fi și tu acol’ la masa Domnului?
+Pregătește-te că ziua e pe drum! :/
+
+[v2]
+După toată alergarea fericit vei fi și tu
+Vei primi cununa slavei lui Isus.
+Deci, grăbește-te acuma până când mai este har
+Nu lăsa să treacă timpul în zadar.
+
+[v3]
+Pune-ți viața-n rânduială
+Și așteaptă-L pe Cel Sfânt,
+Că-n curând El va apare pe pământ;
+Va veni să-Și ia acasă
+Rodul jertfei din Calvar,
+Dând la toți aleșii, veșnicia-n dar.

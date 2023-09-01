@@ -1,0 +1,42 @@
+[title]
+Nu-i mult si isus va veni {author: {Autor necunoscut}, {rcId: {239652}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Nu-i mult și Isus va veni să își ia mireasa sfântă
+S-o ducă în cerul Său cel sfânt, în haina cea de nunta
+/: Dar în curând se va arăta, vegherea ce se pare grea
+Mai rabdă încă o clipă! :/
+
+[v2]
+Nu-i mult și toate s-or sfârșii și plânsul, și durerea,
+Și-n locul la atâta plâns primi-vei mângâierea.
+/: Când trâmbița va răsuna și toți aleși vor striga:,, Vine Domnul!”. :/
+
+[v3]
+Nu-i mult și cei ce au plâns cu amar și cei ce vor înfrunta amarul,
+Și ei vor gusta în veșnici în plinătatea darul
+De bucurie vor striga, vor fi în cer încoronați,
+Acolo-n veci cu Domnul.
+De bucurie vor striga, vor fi în cer mângâiați
+Acolo-n veci cu Domnul.
+
+[v4]
+Nu-i mult și cei ce au suferit căldura și arșița
+Au semănat plângând aici a Domnului sămânța.
+/: Vor secera și-n veșnici, atâtea sfinte bucuri,
+Acolo sunt în ceruri. :/
+
+[v5]
+Nu-i mult și cei care au plâns își vor cânta alergarea,
+Acesta-i Dumnezeul nostru care ne a adus salvarea.
+/: Acel pe care L-am iubit și după care atâta am plâns
+Acesta-i Domnul. :/
+
+[v6]
+Nu-i mult și cei ce s-au luptat, vor câștiga cununa
+Pe capul lor vor purta, pe veci întotdeauna.
+/: De bucurie vor striga, vor fi în cer încoronați
+Acolo în veci de Domnul. :/

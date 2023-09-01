@@ -1,0 +1,45 @@
+[title]
+Spune doamne {author: {Sanja Cristea Tiberian}, {rcId: {63941}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Spune-mi, Doamne, spune-mi iar
+De Te-am întristat
+De mi-e plânsul în zadar
+Și m-am depărtat
+Spune-mi că Ți-s dragă eu
+Spune-mi un cuvânt
+Spune-i sufletului meu
+Că mai pot să cânt.
+
+[c]
+Zi și noapte stau și plâng
+Și să strângă-aș vrea
+Ochiul drept și ochiul stâng
+Doar lumina Ta
+Zi și noapte Te aștept
+Zi și noapte stau
+Ochiul stâng și ochiul drept
+Ție să Ți-i dau.
+
+[v2]
+Doamne, nici nu pot să spun
+Cât îmi pare rău
+Că nu sunt destul de bun
+Pentru raiul Tău.
+Te-ai atins de slăbănog
+Și l-ai vindecat
+De-am greșit, să ierți, Te rog
+Fă-mă iar curat.
+
+[v3]
+Doamne, sunt și eu un pom
+Legănat de vânt
+Dar pe drumul meu de om
+Vreau să fiu mai sfânt.
+Vreau cu Tine să pot sta
+Dumnezeul meu
+O mlădiță-n via Ta
+Vreau să fiu și eu.

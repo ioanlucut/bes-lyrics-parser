@@ -1,0 +1,33 @@
+[title]
+Credinta adevarului {author: {Nicolae Moldoveanu}, {rcId: {192915}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Credința Adevărului să-mi dai,
+Ca adevăr să fiu eu în credință,
+Deplină stăpânire Tu să ai,
+Isuse scump, pe-ntreaga mea ființă.
+
+[c]
+Adevăr vreau să fiu necurmat,
+Căci e UNU-Adevărul curat:
+- Adevăr este Tatăl de Sus,
+- Adevăr este Domnul Isus,
+- Adevăr este Duhul Preasfânt,
+- Adevăr este viul Cuvânt,
+- Adevăr e viața de Har,
+De-o trăiești pe-al iubirii altar!
+
+[v2]
+Nădejdea Adevărului să-mi dai,
+Ca adevăr să fiu eu în nădejde,
+Isuse scump, în viața me a să stai,
+Să nu vând Adevărul în primejde!
+
+[v3]
+lubirea adevărului să-mi dai,
+Ca adevăr să fiu eu în iubire,
+Lăuntrul meu gătește-l ca un rai,
+Să-Ți nalț slăvitul Nume în sfințire!

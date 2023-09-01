@@ -1,0 +1,33 @@
+[title]
+In inima mea {author: {Adi Gliga}, {rcId: {1592}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c
+
+[v1]
+Îmi aduc aminte, de iubirea Ta
+Cum în clipe grele, da.. mă întăreai
+Cum prin șoapte calde, inimii vorbeai
+Stând în rugăciune, da.. mă întăreai
+
+[v2]
+Când cerul parcă e departe
+Când nimeni parcă nu mă vrea
+Isuse știu că-mi ești aproape
+/: În inima mea :/
+
+[c]
+/: În inima mea, în inima mea,
+În inima mea Isuse drag :/
+
+[v3]
+Și îmi aduc aminte, de iubirea Ta
+Cum în clipe grele, da, mă întăreai
+Nu îmi va fi frică, mă vei ocroti
+Mă încred în Tine, da, mă vei păzi.
+
+[v4]
+Când cerul parcă e departe
+Când nimeni parcă nu mă vrea
+Isuse știu că-mi ești aproape
+/: În inima mea :/

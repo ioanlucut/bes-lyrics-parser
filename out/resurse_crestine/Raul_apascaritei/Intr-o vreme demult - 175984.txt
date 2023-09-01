@@ -1,0 +1,29 @@
+[title]
+Intr-o vreme demult {author: {Raul Apăscăriței}, {rcId: {175984}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Într-o vreme demult, într-o noapte cândva
+Întuneric și frig era
+Într-un sat, Betleem, pe-o alee apar
+Doi tineri căutând un loc
+Un loc ca să stea peste noaptea cea grea
+Căci la drum nu puteau pleca
+Bătut-au la uși, la hanuri și case,
+Dar nimeni nu îi primea!
+
+[c]
+/: Deci în Betleem, într-un grajd, proorocia s-a-mplinit
+Și Pruncul, Isus, pe pământ s-a născut! :/
+
+[v2]
+Darul ce ni s-a dat: Pruncul Cel înfășat
+Și în iesle, în paie, culcat
+E Dumnezeu întrupat, Cel numit: Minunat
+Veșnic Rege, Domn adorat!
+
+[c2]
+/: Veniți să-I cântăm, căci un Prunc ni s-a dat, Ce glorios!
+Aleluia în veci să-I cântăm Celui sfânt :/

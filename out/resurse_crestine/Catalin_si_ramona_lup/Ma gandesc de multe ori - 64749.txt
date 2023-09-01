@@ -1,0 +1,25 @@
+[title]
+Ma gandesc de multe ori {author: {Cătălin și Ramona Lup}, {rcId: {64749}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Mă gândesc de multe ori la vremea din trecut,
+Și sunt uimit de minunea ce-ai făcut.
+Singurul Tău fiu l-ai dat să vină jos,
+L-ai părăsit să moară pentru noi.
+Și îngeri cântă-n cor.
+
+[c]
+/: Cântă slavă, Celui ce e veșnic,
+Pace, fie pe pământ.
+Glorie, pruncului din iesle,
+Isus, salvator ne ești. :/
+
+[v2]
+Ieri visam la slava ce-o aveai în cer,
+Și-ai suportat, ai luat povara întregii lumi.
+În dragostea-ți măreață Tu ne-ai mântuit,
+Ai adus pacea și speranța pentru noi.
+Și îngerii cântă-n cor.

@@ -1,0 +1,41 @@
+[title]
+Cuvantul tau {author: {Puiu și Beni Chibici}, {rcId: {188188}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cuvântul Tău e o candelă
+O, Doamne, în viața mea;
+Un far în vreme de furtună
+Și o lumină-n noaptea grea.
+Mă bucur, ca de-o mare pradă,
+În cartea Ta când Îl găsesc
+Și lupt să-i fac pe toți să creadă
+Și-n orice loc, eu, Îl vestesc.
+
+[c]
+/: Strâng Cuvântul Tău în inima mea
+Ca să nu păcătuiesc, Doamne, împotriva Ta.
+Doar condus de-al Tău cuvânt, vreau să fiu mereu,
+Cât voi fi pe-acest pământ, Sfinte Dumnezeu. :/
+
+[v2]
+Cuvântul Tău mi-e pâinea vieții,
+E mana ce-o primesc din cer,
+E raza caldă a dimineții,
+E cel mai dulce mesager.
+E sabia ce nimicește
+Cu-al ei tăiș necruțător,
+Păcatul ce se răspândește
+Acum chiar și-n al tău popor.
+
+[v3]
+Cuvântul Tău e apa vie
+Ce-alină setea orișicui.
+Aduce-n suflet bucurie
+Și revărsarea harului.
+Cuvântul Tău mai liniștește
+Și astăzi valuri mii și mii,
+E neschimbat și-n veci trăiește
+De-acum și până-n veșnicii.

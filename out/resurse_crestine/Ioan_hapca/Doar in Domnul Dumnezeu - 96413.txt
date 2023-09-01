@@ -1,0 +1,45 @@
+[title]
+Doar in domnul dumnezeu {author: {Ioan Hapca}, {rcId: {96413}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Doar în Domnul Dumnezeu
+Mi se încrede sufletul,
+El este-ajutorul meu!
+El e Stânca mea și Turnul
+De scăpare când mi-e greu.
+
+[c]
+/: O, bucuria mea e în Domnul!
+Sufletu-mi în El se încrede.
+De la El vine ajutorul
+Și-adevărata nădejde.
+El este Mântuitorul,
+Viața de la El purcede...
+Da! Domnul este-a mea nădejde,
+De la El vine-ajutorul,
+Viața de la El purcede,
+Da! El este Mântuitorul! :/
+
+[v2]
+Pe Domnul se-ntemeiază
+Ajutorul meu și slava,
+Duhul Sfânt mă cercetează
+Și inima-mi strigă „ava!”
+Căci Domnul mi-o luminează.
+
+[v3]
+A Domnului e Puterea,
+Mila, harul, bunătatea.
+A Domnului este-ndurarea!
+O, în mâna Sa sunt toate,
+El dă binecuvântarea!
+
+[v4]
+Doar pe Domnul se bazează
+Sufletul meu încercat
+Și nici decum nu se-ntristează
+Că-i de Domnul luminat
+Și-a Lui slavă-o radiază.

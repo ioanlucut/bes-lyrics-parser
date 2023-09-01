@@ -1,0 +1,29 @@
+[title]
+Vei veni isuse stiu ca vei veni {author: {Nicolae Moldoveanu}, {rcId: {5775}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Vei veni, Isuse, știu că vei veni
+Și pe nori cu slavă Tu vei răsări;
+/: Mare va fi Ziua când ai să cobori,
+Sărbătoarea celor fără sărbători. :/
+
+[c]
+/: Plâng în strâmtorare, plâng copiii Tăi,
+Alungați de lume și de oameni răi;
+Suspinând, Te cheamă fiii asupriți,
+Tu, dreptatea celor neîndreptățiți. :/
+
+[v2]
+Mare-i jalea celor care gem și plâng
+Și-n amare lacrimi, chinul lor și-l frâng,
+/: Așteptându-Ți ziua când iar ai să vii,
+Bucuria celor fără bucurii. :/
+
+[v3]
+Gem, pe drumuri grele, bieții Tăi copii
+Și cu dor Te cheamă, așteptând să vii
+/: Să le stingi, în suflet multele dureri,
+Mângâierea celor fără mângâieri. :/

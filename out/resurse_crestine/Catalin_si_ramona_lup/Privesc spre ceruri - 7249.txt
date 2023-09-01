@@ -1,0 +1,38 @@
+[title]
+Privesc spre ceruri {author: {Cătălin și Ramona Lup}, {rcId: {7249}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Nu știu ce să-Ți spun, o, Doamne mare
+Pe genunchi eu mă pun
+Și stau până doare
+Și gânduri adun în mintea mea plină
+Și lacrimi îmi curg, și vocea-mi suspină.
+Știu greșeli ce-am făcut
+Și știu că Te doare
+Vreau să lupt zi de zi
+Dar parcă firea nu moare
+Aș zbura de aici către bolta senină
+Vreau să merg spre lumină.
+
+[c]
+Privesc spre ceruri zi de zi
+Ce am în inimă Tu știi
+Vrei Tu, o, Doamne să mă ierți
+O, ține-mă la piept cum știi,
+Ridică-mă între cei vii,
+Leagă-mi Tu rănile ce dor.
+
+[v2]
+Nu mă duc nicăieri,
+Eu te am doar pe Tine
+Doamne Tu m-ai creat
+Tu ești Cel ce mă ține.
+Nu lăsa Tu nimic Doamne să ne despartă
+/: Vreau să-Ți dau viață toată. :/
+
+[e]
+Ești Domnul meu mă-nchin doar Ție,
+Mă leg de Tine pe vecie.

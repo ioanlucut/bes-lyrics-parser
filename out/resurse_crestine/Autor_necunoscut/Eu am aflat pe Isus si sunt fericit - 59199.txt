@@ -1,0 +1,23 @@
+[title]
+Eu am aflat pe isus si sunt fericit {author: {Anonim}, {rcId: {59199}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Eu am aflat pe Isus și sunt fericit
+Sunt bucuros că-s mântuit,
+În Domnul, biruință eu am câștigat,
+Lumina vieții am aflat.
+
+[c]
+/: Eu în lumină sunt,
+Eu în lumină sunt
+Eu în lumina vieții sunt. :/
+
+[v2]
+Tu, ostenitule, te cheamă, azi,
+Isus,
+Vino-n lumina Sa de sus
+Zilnic El te va ține, te va lumina
+Vino, deci în Lumina Sa!

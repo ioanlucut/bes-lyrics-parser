@@ -1,0 +1,28 @@
+[title]
+Betleeme betleeme cum nu l-ai primit? {author: {Frații Bălan}, {rcId: {144834}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Betleeme, Betleeme, cum nu L-ai primit?
+Pe Mântuitorul lumii, L-ai nescotit!
+Așteptai să vină un rege, de toți prețuit;
+Dar El S-a Născut în Iesle, Blând și Umilit.
+
+[c]
+Cântă îngerii, din ceruri: „
+Slavă Tatălui de Sus!
+Pace fie pretutindeni! S-a Născut Isus!”
+
+[v2]
+Cel Născut printr-o fecioară, din Cer A Venit,
+Să te scape de povară, să fii mântuit.
+Betleeme, Betleeme, Împăratul tău,
+E Isus Hristos, Mesia! Este Dumnezeu!
+
+[v3]
+Când preoții și aprozii L-au disprețuit,
+El te-a copleșit cu Milă, căci ai fost iubit.
+Beteeme, Betleeme, El nu te-a uitat.
+Hai, întoarcete la Domnul, ca să fii salvat!

@@ -1,0 +1,26 @@
+[title]
+Noi suntem turma cea mica {author: {Anonim}, {rcId: {4013}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Noi suntem turma cea mică, fericită
+De Domnul Isus ea este pregătită.
+/: Domnul ne-a iertat păcatul,
+Dar să nu mai facem altul,
+Bucură-te turmă mică, fericită. :/
+
+[v2]
+Domnul ne-a schimbat inima, Aleluia
+Păcatele El ni le-a șters, laudă-I fie
+/: Sângele Lui m-a curățit
+Sufletul meu l-a mântuit
+Drum în împărăția sfântă mi-a deschis. :/
+
+[v3]
+Nu vreau lumea să mă-nșele niciodată,
+Sufletul meu doar fericirea Lui caută.
+/: În cer sus Împărăție
+Vreau a mea pe veci să fie
+O, Isuse, du-mi sufletu-n Paradis.

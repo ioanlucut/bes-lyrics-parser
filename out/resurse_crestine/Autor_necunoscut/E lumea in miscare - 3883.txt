@@ -1,0 +1,38 @@
+[title]
+E lumea in miscare {author: {Anonim}, {rcId: {3883}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+E lumea în mișcare
+Ceva se prevestește
+Pământul e-n mișcare plutește un mister:
+Răspunsul la-ntrebarea Isus sosește
+Cu-alai de sărbătoare cu oastea cea din cer.
+
+[c]
+Vine Isus, vine Mirele pe nori
+Sunteți gata voi fecioare
+Stați mereu în așteptare
+Gata pentru întâmpinare
+
+[v2]
+E pregătire mare mireasa este gata
+Așteaptă doar semnalul
+Stă gata pentru zbor
+Se-aude în cer strigarea : o, maranata!
+O vino! vino! Isus te așteptăm cu dor
+
+[v3]
+Că semnele ne-arată că mult nu este
+Curând se arată zorii
+Iar noaptea s-a sfârși
+Din cer cu slavă mare Isus sosește
+In mii și mii de stoluri cu El ne-om întâlni.
+
+[v4]
+Vom fi cu El in slava, te pregateste
+Faclia ta iti arde, mijlocul ti-e incins?
+Nu mai e mult si iata: Isus soseste,
+Umplea-vom dar cu totii, al zarii necuprins.

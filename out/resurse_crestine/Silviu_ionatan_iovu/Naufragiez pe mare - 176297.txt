@@ -1,0 +1,39 @@
+[title]
+Naufragiez pe mare {author: {Silviu Ionatan Iovu}, {rcId: {176297}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Naufragiez pe mare
+Și este atât de greu
+Valul e atât de mare
+Dar cu mine-i Dumnezeu
+
+[c]
+E furtună pe mare și e atât de greu
+E furtună, furtună o, Doamne
+E furtună pe mare și eu întreb mereu:
+„
+Unde-i a mea salvare?”
+
+[v2]
+Dar de-odată-un glas se-aude
+Din Patria Cerească:
+„
+Nu te teme sunt cu tine
+Inima-ți să nu se împietrească”
+
+[v3]
+„
+Salvarea-i la Mine fiule”
+Zice Domnul Dumnezeu
+„
+Încrede-te în Mine fiule
+Și n-o să-ți mai fie greu„
+
+[v4]
+Ajuns la limanul mult dorit
+Sunt plin de bucurie
+C-am ajuns la Tatăl meu iubit
+Acolo sus în nemurire

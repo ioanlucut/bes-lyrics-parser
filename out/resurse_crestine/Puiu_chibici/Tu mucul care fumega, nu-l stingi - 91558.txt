@@ -1,0 +1,35 @@
+[title]
+Tu mucul care fumega nu-l stingi {author: {Puiu Chibici}, {rcId: {91558}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Tu mucul care fumegă, nu-l stingi
+Tu trestia căzută nu o rupi
+Oricât ar fi căzut omul de jos
+Tu îl ridici prieten credincios.
+
+[c]
+/: Ești necuprins în bunătate
+Ușor de înduplecat în toate
+Ca Tine nu e nimenea
+O miel iubit din Golgota. :/
+
+[v2]
+Tu nu disprețuiești un duh zdrobit
+Tu inima mâhnită n-o rănești
+Te pleci spre cel cu sufletul amărât
+Căci jertfe ca acestea Tu iubești.
+
+[v3]
+Când strigă Doamne un nenorocit
+Chemându-te să-i vii în ajutor
+Tu îl asculți o Doamne negreșit
+Și-l scapi chiar și din gura leilor.
+
+[v4]
+Tu nu disprețuiești un duh zdrobit
+Tu inima mâhnită n-o rănești
+Oricât ar fi căzut omul de jos
+Tu îl ridici prieten credincios.

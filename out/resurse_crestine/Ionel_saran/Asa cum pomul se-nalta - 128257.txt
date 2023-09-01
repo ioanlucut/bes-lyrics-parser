@@ -1,0 +1,41 @@
+[title]
+Asa cum pomul se-nalta {author: {Ionel Saran}, {rcId: {128257}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Așa cum pomul se-nalță
+Atât de falnic în sus,
+Dar parcă câteodată,
+E aproape la pământ,
+Așa-i și viața noastră,
+Când bună, când mai grea,
+De Dumnezeu lăsată,
+Să trecem noi prin ea.
+
+[c]
+/: Ne dai, Isuse, ne dai mereu,
+La bine și la greu,
+Ne dai o, Doamne, pacea Ta,
+Ne dai iubirea Ta. :/
+
+[v2]
+Trăim zile din urmă,
+Când tot ce-i mai frumos
+Se pierde-n norii negrii,
+Ce mistuie de tot.
+Dragostea ce ne-a dat-o
+Pe cruce odat’ Hristos,
+Parcă, pe zi ce trece,
+Ne-o-ndepărtăm de tot.
+
+[v3]
+Prin lume-aceasta toată,
+Plină de-al ei desfrâu,
+Tu Te-nduri, Isuse,
+Mereu de-ai Tăi copii.
+Nu știu ce-aduce mâine,
+Ziua ce va urma,
+Dar știu căci de acolo,
+Tu îmi porți grija mea.

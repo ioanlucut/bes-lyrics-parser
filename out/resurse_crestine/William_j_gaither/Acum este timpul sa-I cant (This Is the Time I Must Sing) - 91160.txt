@@ -1,0 +1,44 @@
+[title]
+Acum este timpul sa-i cant (this is the time i must sing) {author: {William J. Gaither, Traducere RO}, {rcId: {91160}}
+
+[sequence]
+v1,c,v2,c,s,c
+
+[v1]
+De acum eu sunt liber
+Pot să merg unde-mi spune
+Robit de păcat nu mai sunt;
+În prezența lui Isus
+Îmi trăiesc a mea viață
+Din inimă cânt: El e Domn!
+Vor fi zile cu trudă
+Planuri mari pentru mâine
+Dar astăzi e timpul să cânt!
+Domnul mi-a dat cântare
+Daruri și o chemare
+De-aceea, azi eu vreau să cânt!
+
+[c]
+O, tăceți voi ostroave
+Voi munți și văi joase
+E timpul când eu voi cânta!
+Din a plângerii vale
+Voi ’nalța Osanale
+Acum este timpul să-I cânt!
+
+[v2]
+Am ajuns să știu multe
+Să-ntocmesc lucruri bune
+De toate eu am pe pământ;
+Însă știu ce-ndrurare
+Domnul mi-a dat și mie
+De-aceea doresc mult să-I cânt!
+Dacă nu voi cânta eu
+Pietrele vor striga deci
+Lăudându-L pe Domnul Prea Sfânt!
+Cât timp eu am suflare
+Voi cânta o cântare
+Spre lauda Lui pe-acest pământ!
+
+[s]
+Să dea slavă Domnului, și să vestească laudele Lui în ostroave! Isaia 42:12

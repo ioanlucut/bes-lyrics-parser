@@ -1,0 +1,30 @@
+[title]
+Exista-un prieten {author: {Nelu Mot}, {rcId: {191692}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Există-un prieten ce-i mai mult ca-un frate
+Ce-a răspândit iubirea pe pământ.
+Iubise că se duse chiar la moarte,
+Isus Cristos e Numele-I cel sfânt!
+
+[c]
+Eu știu că m-a iubit pân’ la sfârșit,
+Eu știu că sufletul mi-e ocrotit.
+Când vin furtuni în viață,
+În Isus am speranță,
+Eu știu că m-a iubit pân’ la sfârșit!
+
+[v2]
+Iubirea Sa-i lumină pe cărare
+Dureri, necazuri El va alina.
+Ușoară-mi face-a crucii apăsare,
+În rugă când ’naintea Lui voi sta!
+
+[v3]
+În tot momentul El e lângă mine,
+Prin Duhul Sfânt e chiar în viața mea.
+Și nimeni nu-i să-ofere-atâta bine
+Și nimeni pace nu poate să-mi dea!

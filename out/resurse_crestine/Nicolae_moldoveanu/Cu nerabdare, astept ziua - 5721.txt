@@ -1,0 +1,41 @@
+[title]
+Cu nerabdare astept ziua {author: {Nicolae Moldoveanu}, {rcId: {5721}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Cu nerabdare, astept ziua
+Cand Isus va veni:
+/: Zi minunata! :/
+Acolo, nu vor mai fi grijuri
+Cand, cu Isus, vom fi...
+/: Zi minunata! :/
+
+[c]
+Zi minunata si ce frumos va fi
+Cand, cu Isus, noi in cer vom fi!
+Zi minunata! Ce fericire
+Va fi cand, dup-ai Sai copii, El va veni.
+
+[v2]
+Vor fi incoronati toti sfintii,
+In slava cerului.
+/: Zi minunata! :/
+Iar fata Lui, in vesnicie,
+Cu toti o vom vedea.
+/: Zi minunata! :/
+
+[v3]
+Nu vrei sa fii si tu, acolo,
+Prietene iubit,
+La masa sfanta, sus pregatita?
+De-ti plangi pacatul, chiar acuma,
+Poti fi un mantuit;
+Isus te-asteapta, calea ti-arata.
+
+[c2]
+/: Zi minunata si pentru tin’ va fi
+Daca pe Isus Il vei primi.
+Zi minunata si fericire
+Va fi cand, printre-ai Sai copii, te vei gasi. :/

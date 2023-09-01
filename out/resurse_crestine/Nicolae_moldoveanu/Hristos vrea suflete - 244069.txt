@@ -1,0 +1,47 @@
+[title]
+Hristos vrea suflete {author: {Nicolae Moldoveanu}, {rcId: {244069}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c3
+
+[v1]
+Hristos vrea suflete în care
+Să ardă pentru tot ce-i sfânt,
+Să-nfăptuiască cu-ascultare,
+Întregul Tatălui Cuvânt.
+
+[c]
+Să plângă-n caldă rugăciune
+Cu cel pierdut și pentru el
+În tot ce-i face și ce-i spune,
+A-l mântui, fiindu-i țel.
+
+[v2]
+Pe Dumnezeu avându-L soare
+Și voia Lui având-o gând,
+Prin noaptea lumii pierzătoare,
+Să lumineze ascultând.
+
+[c2]
+Să-nvăluie cu bunătate
+Întregul semenilor chin,
+Din adâncimi netulburate
+Să-i izvorască orice-alin.
+
+[v3]
+Oricât ar fi de rău poporul
+La care-ar fi trimiși de El,
+Să i se dăruiască-n dorul
+De-al mântui cu unic zel
+
+[c3]
+Să nu-i ademenească șesul
+Lenevitor și vinovat,
+Ci să-i înalțe înțelesul
+A tot ce-i sfânt și-adevărat.
+
+[v4]
+Și cum Hristos cel Om în slavă
+Și Domn al slavei pe pământ,
+Din cea mai omenească pleavă
+Să-i cearnă grâul cel mai sfânt.

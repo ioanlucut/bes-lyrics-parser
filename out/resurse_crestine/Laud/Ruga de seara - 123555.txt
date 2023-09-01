@@ -1,0 +1,23 @@
+[title]
+Ruga de seara {author: {Laud}, {rcId: {123555}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Deseori, privind ’napoi, zboară frunze printre noi,
+Iar iubirea e departe;
+Ploaia trece, vine iarăși, dar în suflet suntem goi.
+Uneori suntem chiar triști,
+Fără zâmbet sau soliști într-o zi de sărbătoare;
+Alții, copleșiti de grijuri, au uitat că mai exiști.
+
+[c]
+Doamne, iartă-ne, te rog, știm că vina ne e mare.
+Astăzi am venit la Tine să Îți cerem îndurare!
+
+[v2]
+Noi nu merităm nimic, chiar dacă ni se pare
+Totul e în mâna Ta!
+Noi nu merităm nimic, chiar dacă ni se pare
+Totul e iubirea Ta!

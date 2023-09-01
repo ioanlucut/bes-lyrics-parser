@@ -1,0 +1,45 @@
+[title]
+Cantecul meu de iubire {author: {Doris și Eunice}, {rcId: {104948}}
+
+[sequence]
+v1,c,v2,c,v3,c,e,v4,c2
+
+[v1]
+Cântecul meu de iubire
+Te învață azi cum să fii
+Cum să găsești împlinire
+Păstrând dragostea cea dintâi.
+
+[c]
+Îndreaptă-ți privirea întruna
+Doar către soția ta
+Fă să se simtă iubită
+Și bine în prezența ta.
+
+[v2]
+Cântecul meu de iubire
+Să îți răsune în gând
+Iar de-ți dorești fericire
+Caut-o acasă oricând.
+
+[v3]
+Fii cât se poate romantic
+Vino acasă cu flori
+Fă să se simtă iubită
+Vorbește-i frumos deseori.
+
+[e]
+Iar acum tu cea iubita
+În schimb să i te dăruiești.
+
+[v4]
+Fă-l să se simtă cu tine
+Ca într-un vis din povești
+În orice lucru, vezi bine
+Visul să i-l împlinești.
+
+[c2]
+Fiți amândoi împreună
+Că un mănunchi minunat
+Să răspândiți o mireasma
+/: Iubirea care v-a legat. :/

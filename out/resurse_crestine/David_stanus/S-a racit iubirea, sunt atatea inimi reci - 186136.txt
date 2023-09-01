@@ -1,0 +1,31 @@
+[title]
+S-a racit iubirea sunt atatea inimi reci {author: {David Stănuș}, {rcId: {186136}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+S-a răcit iubirea, sunt atâtea inimi reci
+Pe-ale cerului poteci, grijă ai pe unde treci
+Pe unde treci, pe unde treci.
+
+[c]
+Focul dragostei dacă s-a răcit
+Ia seama căldicel, tu ai devenit.
+În cer nu e loc, dacă nu ai foc,
+Întoarce-te la dragostea dintâi!
+
+[v2]
+S-a răcit iubirea uită-te-n inima ta
+Dacă e sfințenia, este Domnul sau lumea
+Sau lumea, sau lumea?
+
+[v3]
+S-a răcit iubirea și de dragul de-a cânta,
+Fii atent, nu murmura, că-ți va fi tristă inima
+Inima, inima.
+
+[v4]
+S-a răcit iubirea, la masa Domnului noi stăm
+Dar nu ne mai aplecăm, ca și Domnul să spălăm
+Să spălăm, să spălăm.

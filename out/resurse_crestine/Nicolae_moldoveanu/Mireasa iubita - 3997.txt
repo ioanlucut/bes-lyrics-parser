@@ -1,0 +1,41 @@
+[title]
+Mireasa iubita {author: {Nicolae Moldoveanu}, {rcId: {3997}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Mireasă iubită, privește în sus,
+Te-așteaptă cu drag al tău Mire, Isus;
+/: Gătit este cerul cu aur curat,
+Te-așteaptă să intri al tău Împărat. :/
+
+[v2]
+Lumină acolo e Domnul cel Sfânt,
+Cuprinsă-i cetatea de aur și cânt,
+/: Un râu izvorăște din tronul iubit,
+Cu apele limpezi ce curg liniștit. :/
+
+[v3]
+Mireasă iubită, te-așteaptă cu flori,
+Podoabe sunt multe, în mii de culori
+/: Iar pomul vieții cu rodul cel sfânt,
+Alină durerea ce-a fost pe pământ. :/
+
+[v4]
+Cunună de aur pe cap vei purta,
+Slăvită vei fi atunci la dreapta Sa,
+/: Pe piatră un nume înscris vei purta,
+Cu haină de slavă El te va îmbrăca. :/
+
+[v5]
+Cetatea e gata, deci nu-ntârzia,
+Te-așteaptă de-acuma să intri în ea,
+/: Mireasă iubită, privește în sus
+Chemarea ți-o face Domnul Isus. :/
+
+[v6]
+Vegheză-n iubire chiar pân’la sfârșit
+Să nu uiți vreodată că El te-a iubit;
+/: Așteaptă întruna pe Mirele tău
+Căci iată-L apare Isus, Dumnezeu! :/

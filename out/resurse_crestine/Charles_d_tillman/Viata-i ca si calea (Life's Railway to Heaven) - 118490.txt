@@ -1,0 +1,45 @@
+[title]
+Viata-i ca si calea (life s railway to heaven) {author: {Charles D. Tillman, Traducere RO}, {rcId: {118490}}
+
+[sequence]
+v1,c,v2,c,v3,c,s,c
+
+[v1]
+Viața-i ca și calea prin munți
+Având brav conducător
+Unde greul, ai să-l înfrunți
+Și-ai s-ajungi învingător;
+Griji de dealuri și tunele
+Curajul nicicând pierzând
+Treci învingător prin ele
+Cu ochii spre cer privind.
+
+[c]
+O, Isuse, Tu condu-ne
+Pân’ la locul fericit
+Unde îngerii ne-așteaptă
+Să-Ți cântăm, Isus iubit!
+
+[v2]
+Întristări pe-această cale
+Și ispite vor veni
+Dar Isus, Regele mare
+Mereu lângă noi va fi.
+Fii dar treaz și mergi ’nainte
+Datoria-ți s-o-mplinești
+Alergând pe-această cale
+Tot la Isus să privești!
+
+[v3]
+Când cu bine-ajungi la capăt
+Și-apoi treci peste Iordan
+Vezi o țară-mpodobită
+E cerescul Canaan.
+Aici trenul se oprește
+Tu cobori, ești fericit
+Domnul Isus Îți vorbește:
+”
+Călător, bine-ai venit!”
+
+[s]
+Iată, Dumnezeul acesta este Dumnezeul nostru în veci de veci; El va fi călăuza noastră până la moarte. Psalm 48:14

@@ -1,0 +1,41 @@
+[title]
+Ce mai prieten si ce frate (what a friend we have) {author: {Anonim}, {rcId: {74299}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Ce mai prieten și ce frate.
+Noi în Isus am aflat!
+Căci Isus veșnic ne-aude,
+Și ne ajută de-am strigat.
+
+[c]
+Cunoscându-ne prea bine,
+Că ne temem tot mereu,
+El chemându-ne la Sine,
+Ne susține-n drumul greu.
+
+[v2]
+Ce mai prieten, și ce frate,
+Noi în Isus am aflat!
+El să ne-nțeleagă poate
+Și ne scapă de păcat.
+
+[c2]
+Să Îi spunem teama noastră,
+Deschizându-I inima,
+Căci cuvântu-i partea noastră,
+Vom urma de acum.
+
+[v3]
+Ce mai prieten, și ce frate
+Noi în Isus am aflat!
+Gata pururi să ne-nvețe,
+Căci pe el ne-am rezemat.
+
+[c3]
+Pentru-a-nvinge mai departe
+Trebuie să ne sfințim;
+Căutând a Sa dreptate
+Și în El să ne-ntărim.

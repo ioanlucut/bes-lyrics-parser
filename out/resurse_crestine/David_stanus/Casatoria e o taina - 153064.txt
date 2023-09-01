@@ -1,0 +1,27 @@
+[title]
+Casatoria e o taina {author: {David Stănuș}, {rcId: {153064}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Frumoasă e această zi
+Când două flori imaculate
+Destinele își vor uni
+Nimic nu le va mai desparte.
+
+[c]
+Căsătoria e o taină.
+E creată de Cel ce a făcut și veșnicia.
+
+[v2]
+Azi florile vă vor șopti
+Cu zâmbetul cel de petale,
+Voi doi mereu să vă iubiți
+Cu Isus să mergeți pe cale.
+
+[v3]
+Cu ei și noi ne bucurăm
+Slăvim pe Domnul în adunare,
+Îi mulțumim că El ne-a dat
+Această zi de sărbătoare.

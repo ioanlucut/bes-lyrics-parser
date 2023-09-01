@@ -1,0 +1,36 @@
+[title]
+Curand curand va trebui {author: {Daniel Hartie}, {rcId: {146415}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Curând, curând, va trebui,
+Să părăsești acest pământ.
+Ce-ai făcut cu viața ta?
+Pe Dumnezeu, tu L-ai slujit?
+Doar în plăceri tu ai trăit,
+La mântuire nici nu te-ai gândit.
+
+[c]
+/: Care va fi soarta ta
+Oare unde vei pleca
+După ce pământul vei lăsa
+Vei ajunge-n chinul greu, departe de Dumnezeu?
+Pocăiește-te amicul meu! :/
+
+[v2]
+Curând, curând, tu vei lăsa
+Pe-ai tăi, cei dragi, ce i-ai iubit
+Aici, in viața ta.
+Divinul Har, L-ai refuzat,
+Trăind viața, în păcat.
+Și la sfârșit tu vei fi judecat.
+
+[c2]
+/: Astăzi cât mai este Har,
+Pune răului hotar.
+Pocăiește-te amicul meu!
+Mâine nu vei mai putea,
+Curând ușa s-a-încuia
+Pocăiește-te, nu amâna! :/

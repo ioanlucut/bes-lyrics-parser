@@ -1,0 +1,23 @@
+[title]
+Tu esti o steluta mica {author: {Anonim}, {rcId: {59201}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+Tu ești o steluță mică
+Dar ce mare-i misiunea ta!
+O steluță speciala,
+Dar lumina ta va lumina...
+
+[v1]
+Tot pământul ca să vadă,
+Drumul către Salvatorul Sfânt.
+
+[v2]
+O steluță specială,
+Pentru cer și pentru pământ!!!
+
+[v3]
+Tu ești o steluță
+chiar din cerul Sfânt!

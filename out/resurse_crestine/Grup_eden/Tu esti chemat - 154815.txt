@@ -1,0 +1,32 @@
+[title]
+Tu esti chemat {author: {Grup Eden}, {rcId: {154815}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[b]
+/: Tu ești chemat :/ X4
+
+[v1]
+/: Să lași lumea păcătoasă,
+Să te-ntorci la Dumnezeu,
+Să cunoști chemarea sfântă,
+Să fii fiul Său. :/
+
+[c]
+Vino, vino, vino, vino,
+Astăzi nu mai amâna!
+Vino, vino, vino, vino,
+Astăzi este șansa ta!
+
+[v2]
+/: Ca să fii un fiu al păcii,
+Fiu de Rege, de-mpărat,
+Să primești cununa vieții
+Pentru ce-ai lucrat. :/
+
+[v3]
+/: Ca să moștenești viața
+Sus în Cer, în veșnicii
+Cu acei ce pe Pământ
+Au fost ai Lui copii. :/

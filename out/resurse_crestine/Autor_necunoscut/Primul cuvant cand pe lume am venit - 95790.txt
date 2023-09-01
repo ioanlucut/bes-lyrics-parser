@@ -1,0 +1,29 @@
+[title]
+Primul cuvant cand pe lume am venit {author: {Anonim}, {rcId: {95790}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Primul cuvânt când pe lume am venit
+A fost mama căci mult ea m-a iubit
+/: La pieptul ei mă legăna pe frunte mă săruta
+Și lui Dumnezeu mereu ea se ruga. :/
+
+[c]
+/: O mamă mamă mama mea te iubesc și mult aș vrea
+Să te port în inima și-n gândul meu
+Ești cel mai de preț cadou pentru mine ești un erou
+Mama mea cât de mult eu te iubesc. :/
+
+[v2]
+Mulțumesc din inimă lui Dumnezeu
+Căci ți-a dat viață și te-a păzit de rău
+/: El te-a binecuvântat sănătate-n dar ți-a dat
+Cum voi putea oare sa îi răsplătesc :/
+
+[v3]
+Azi de sus din cer te rog Isus
+Dă putere mamelor ce au plâns
+/: S-au rugat și au postit și la Tine au venit
+Tu pe brațe le-ai luat și le-ai primit :/

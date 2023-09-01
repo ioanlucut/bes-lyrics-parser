@@ -1,0 +1,29 @@
+[title]
+Sfant sfant sfant {author: {Nicu Chereji}, {rcId: {208860}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O cât de mari sunt Doamne, lucrările Tale
+De nedescris e măreția Ta,
+Se închină întreg Pământul și apele toate
+Iar cerul neîncetat Te laudă
+
+[c]
+Sfânt, Sfânt, Sfânt, se-aud în depărtare
+Glasuri mii, slăvind pe Dumnezeu
+Mă alătur corurilor sfinte
+Și Te laud Dumnezeul meu.
+
+[v2]
+Frumos și minunat e să lăudăm pe Domnul
+Și să mărim Numele Lui Preaînalt!
+Pe-acel ce stăpânește întreg Universul
+Și cu-a Lui sânge ne-a răscumpărat.
+
+[v3]
+Pământu-i așternutul picioarelor Tale
+Iar cerul este tronul Tău preasfânt
+O viață-ntreagă vreau să Te laud Isuse
+Și tot mai mult de dragul Tău să cânt!

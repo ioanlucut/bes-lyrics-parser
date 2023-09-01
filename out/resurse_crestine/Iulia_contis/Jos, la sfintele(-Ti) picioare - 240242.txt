@@ -1,0 +1,25 @@
+[title]
+Jos la sfintele(-ti) picioare {author: {Iulia Contis}, {rcId: {240242}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Jos, la sfintele-Ți picioare,
+Mă așez adânc smerit
+Și mă-ntreb: Mai este, oare,
+Din al cerului zenit,
+Pentru mine, azi, iertare?
+
+[c]
+Iartă-mi vina nerostită
+Și ferește-mi de ispită
+Pașii mei împleticiți
+Și păcatele să-mi uiți!
+
+[v2]
+Mila Ta e-atât de mare,
+Iar în sufletu-mi trudit,
+Renaște o întrebare:
+Dacă am păcătuit,
+Mai este astăzi iertare?

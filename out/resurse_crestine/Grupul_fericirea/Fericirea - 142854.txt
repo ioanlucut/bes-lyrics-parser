@@ -1,0 +1,42 @@
+[title]
+Fericirea {author: {Grupul, Fericirea}, {rcId: {142854}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Fericirea este-o inimă iubită,
+Fericirea este-un zâmbet așteptat.
+Fericirea este-o lacrimă trăită,
+Fericirea este totul ce ai dat.
+Fericirea este strigătul din suflet,
+Fericirea este dorul alinat.
+Fericirea este o privire sfântă.
+Fericire-i când ești iertat!
+
+[c]
+/: Isus este fericire,
+Isus Tu ești minunat,
+Isus rază de iubire
+Fericirea-i când ești salvat! :/
+
+[v2]
+Fericirea e când Domnu-i lângă tine,
+Fericirea e când duhul e sărac.
+Fericirea e când în neprihănire
+Cei ce plâng acuma vor fi mânghâiați.
+Fericirea este inima curată,
+O simțire sfântă plină de mult Har.
+Fericirea e când în răbdare blândă
+Noi primim salvarea în dar!
+
+[v3]
+Fericire este totul ce există
+Armonia vieții Domnul a creat.
+Fericire este totul prin credință,
+Visul veșniciei, este’adevărat!
+Fericirea este o speranță vie,
+Fericirea este totul ce-i curat
+Fericirea Sfântă este’n veșnicie
+Unde Isus este ’
+Împărat!

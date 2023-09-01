@@ -1,0 +1,36 @@
+[title]
+Fericit e omul ce sta la izvor {author: {Speranța pentru copii}, {rcId: {146252}}
+
+[sequence]
+v1,v2,v3,s
+
+[v1]
+Fericit e omul ce stă la Izvor,
+El e ca Pomul, Pomul Roditor.
+Oare câte Roade, din el adunăm?
+Haide-m să le numărăm:
+
+[v2]
+Unu: e Roada Dragostei,
+Doi: e Roada Bucuriei,
+Trei: Pacea-n încercare,
+Patru: E-ndelunga Răbdare,
+Cinci: Bunătate pentru-oricine,
+Șase: E Facerea de Bine,
+Șapte: Credincioșia Sfântă,
+Opt: Blândețea care cântă,
+Nouă: Înfrânarea poftelor.
+Zece, zece,
+Cântăm despre Pomul Roditor.
+
+[v3]
+Nouă Roade Sfinte prin El arătăm
+Și cu zece, din nou repetăm.
+Nouă Roade Sfinte prin El adunăm,
+Haideți copii să le păstrăm!
+
+[s]
+Română :
+/: Unu, doi, trei, patru, cinci, șase, șapte, opt, nouă... și zece. :/
+Engleză: One, two, three, four, five, six, seven, eight, nine... and ten.
+Franceză: Un, deux, trois, quatre, cinq, six, sept, huit, neuf... et dix.

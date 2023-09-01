@@ -1,0 +1,29 @@
+[title]
+Cu dor astept clipa cand {author: {Damaris Azamfirei}, {rcId: {178686}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cu dor aștept clipa când
+Mă vei lua, de pe Pământ
+Acolo sus când voi sosi
+La dreapta Ta, aș vrea să fiu.
+
+[c]
+Mi-e dor de-acele clipe Doamne,
+Mi-e dor de ziua minunată,
+Mi-e dor să Te privesc Isuse,
+Mi-e dor, mi-e dor s-ajung acasă
+
+[v2]
+Ajută-mă, Isuse drag,
+Pe-acest Pământ să fiu curat
+Oricând smerit și-ascultător
+În orice clipă, gata de zbor.
+
+[v3]
+În rugăciune să veghez,
+Ulei în candelă să-mi păstrez
+Ca la a Ta, strigare Mire
+Să pot ieși cu bucurie.

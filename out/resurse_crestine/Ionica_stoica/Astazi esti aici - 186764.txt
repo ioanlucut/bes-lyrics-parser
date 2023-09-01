@@ -1,0 +1,30 @@
+[title]
+Astazi esti aici {author: {Ionică Stoica}, {rcId: {186764}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Astăzi ești aici, mâine nu vei știi,
+Ce ți-e pregătit și unde vei fi
+Azi mai ești aici, poți sa meditezi
+Cum ți-e viața ta, sa te pocăiești.
+
+[c]
+Viața e scurtă și trece,
+Nu știi cum se duce
+Nu te lasă amăgit de lumea de azi
+Pofte, plăceri, multe vicii, ce astăzi te-atrage
+Toate te duc intr-o zi, înspre chin și necaz.
+
+[v2]
+Azi mai ești aici, mâine ce-ai sa faci
+Ești cu lumea rea sau vrei sa o lași
+Azi mai esti aici, poți sa te gândești
+De-L vrei pe Isus, sa te pocaiesti.
+
+[v3]
+Azi mai esti aici, schimba-ți viața ta,
+De te pocaiesti, nu vei regreta
+Viața cu Isus nu se va sfârși
+Veșnic lângă El, fericiti vom fi!

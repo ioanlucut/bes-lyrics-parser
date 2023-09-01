@@ -1,0 +1,15 @@
+[title]
+Isus hristos este domn {author: {Anonim}, {rcId: {4958}}
+
+[sequence]
+c,v1,c
+
+[c]
+Isus Hristos este Domn.
+Domnul lumii întregi.
+
+[v1]
+Unul e Domn peste popoare,
+Unul e Dumnezeu;
+În nici un alt nume nu-i mântuire,
+Isus Hristos e Domn.

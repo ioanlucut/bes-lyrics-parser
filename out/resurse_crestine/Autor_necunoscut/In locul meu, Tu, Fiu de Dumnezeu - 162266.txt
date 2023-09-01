@@ -1,0 +1,29 @@
+[title]
+In locul meu tu fiu de dumnezeu {author: {Anonim}, {rcId: {162266}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În locul meu, Tu, Fiu de Dumnezeu,
+În locul meu ai ispășit păcatul meu.
+De bunăvoie pedeapsa amară-ai răbdat,
+Din bezna morții să fiu eu salvat.
+
+[c]
+Pe cruce la Calvar ai murit nevinovat,
+Pe cruce la Calvar mântuire am aflat,
+Sub cruce la Calvar vreau să stau necontenit
+Să nu uit cât de mult m-ai iubit.
+
+[v2]
+În locul meu ai fost batjocorit,
+În locul meu ai fost lovit și biciuit.
+Și fără murmur pedeapsa amară-ai răbdat,
+Din bezna morții să fiu eu salvat.
+
+[v3]
+Îți mulțumesc Isus o, Domnul meu,
+Că m-ai făcut la Golgota copilul Tău.
+Și-n strălucire odată cu Tine vom sta
+Și-a Ta iubire pe veci vom cânta.

@@ -1,0 +1,44 @@
+[title]
+A venit un om {author: {Anonim}, {rcId: {1376}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+A venit un om la Domnul
+/: A venit cu jale grea. :/
+/: ”
+Omule, de poți a spune
+Cu ce foc vii tu la Mine?”
+”
+Doamne, am venit la Tine
+Fiindcă-mi este viața grea.” :/
+
+[v2]
+A venit un om la Domnul
+/: A venit cu pas voios. :/
+/: ”
+Omule cu brâie pline
+Cu ce gând vii tu la Mine?”
+”
+Doamne, vin că e mai bine
+Fiindcă e mai de folos.” :/
+
+[v3]
+A venit un om la Domnul
+/: A venit din putregai. :/
+/: ”
+Om departe de căință
+Cum vii astăzi la credință?”
+”
+Doamne, cu recunoștiință
+Pentru toate ce mi-ai dat.” :/
+
+[v4]
+Și-a venit un om cu lacrimi
+/: Și Isus a tresărit. :/
+/: ”
+Doamne, într-o zi din viață
+Te-am privit pe cruce-n față
+Și am plâns de dimineață
+Și-s nespus de fericit!” :/

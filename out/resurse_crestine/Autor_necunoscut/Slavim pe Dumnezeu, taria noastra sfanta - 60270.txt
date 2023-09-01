@@ -1,0 +1,33 @@
+[title]
+Slavim pe dumnezeu taria noastra sfanta {author: {Anonim}, {rcId: {60270}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Slăvim pe Dumnezeu, tăria noastră sfântă
+Mărim Numele Său, inima-n veci ne cântă.
+De-ar veni norii grei și valuri cu tărie
+Noi cu Isus cântăm, cântăm o veșnicie.
+
+[c]
+Nu-i ceas de încercare
+Peste cel credincios
+Fără să n-aibă-n urmă
+Salvarea lui Hristos.
+Deci, veghetori pe cale
+Să fim mereu, mereu
+Din cea mai grea-ncercare
+/: Ne scapă Dumnezeu. :/
+
+[v2]
+Povara când te-apasă și simți că te doboară
+Genunchii îți apleacă și cerul îl imploră.
+Nu-i prea departe Domnul de cei ce Îl iubesc
+Ascultă ruga celor ce-L strigă și-L slujesc.
+
+[v3]
+Când inima îți cântă și-s ochii-nlăcrimați
+Să știi iubite frate că Dumnezeu lucrează,
+Nu lasă niciodată să-nvingă răutatea
+Lumina strălucește, iubirea și dreptatea.

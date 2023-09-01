@@ -1,0 +1,41 @@
+[title]
+Daca nu zideste domnul el o casa {author: {Anonim}, {rcId: {74258}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Dacă nu zidește Domnul El o casă
+Degeaba vor lucra cei ce-o zidesc
+De nu păzește Domnul o cetate
+Degeaba vor veghea cei ce-o păzesc
+
+[c]
+Degeaba vă sculați de dimineață
+Și vă culcați târziu în noaptea grea
+Ca să mâncați o pâine câștigată
+Cu trudă cu durere cu amar
+
+[v2]
+Căci El la toți aceia ce-L asculta
+La preaiubiții Lui El le va da
+Ca-n somn și pâinea care le lipsește
+Ei totdeauna pâine vor avea
+
+[c2]
+Copiii-n viață sunt o moștenire
+Și răsplătire de la Domnul Sfânt
+Cum sunt săgețile pentru războinic
+Copiii cei din tinerețe sunt
+
+[v3]
+Ferice acei ce-și umple cu ei casa
+Ferice omul care-i va avea
+Iar când vorbi-va cu vrăjmașu-n poartă
+Ei nicicând rușinați n-or rămânea.
+
+[c3]
+Ferice acei ce-și umple cu ei casa
+Ferice omul care-i va avea
+Iar când vorbi-va cu vrăjmașu-n poartă
+Ei nicicând rușinați n-or rămânea.

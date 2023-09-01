@@ -1,0 +1,21 @@
+[title]
+Sunt strain in lume {author: {Speranța}, {rcId: {111315}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Sunt străiin în lume, Isuse, Domnul meu
+Sunt un călător ce răzbesc din greu
+Prăpăstii mă așteaptă și locuri de netrecut
+Dar Te chem pe Tine, Tu să-mi fi un scut
+
+[c]
+Vreau mereu, Isuse, Tu să mergi ’naintea mea
+Iar eu smerit pe cale, să pășesc în urma Ta
+
+[v2]
+Sunt ca și cocorul ce caută o țară
+Unde nu e iarnă și este vară
+Doresc s-ajung acolo, în Țara de sus
+Dar nu voi putea, decât cu Tine, Isus

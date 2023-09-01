@@ -1,0 +1,32 @@
+[title]
+El e crinul cel din vale (he s the lily of the valley) {author: {Traditional Negro Spiritual, Traducere RO}, {rcId: {203779}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,s,c
+
+[c]
+El e Crinul cel din vale
+Domnul meu!
+El e Crinul cel din vale
+Domnul meu!
+
+[v1]
+Isuse, Nume minunat
+Domnul meu!
+Ești Rege veșnic, înălțat
+Domnul meu!
+
+[v2]
+De slava Ta Te-ai dezbrăcat
+Domnul meu!
+Ocara lumii ai purtat
+Domnul meu!
+
+[v3]
+Cu sânge sfânt Tu m-ai iertat
+Domnul meu!
+Și mântuire Tu mi-ai dat
+Domnul meu!
+
+[s]
+Credincioșia răsare din pământ, și dreptatea privește de la înălțimea cerurilor. Psalm 85:11

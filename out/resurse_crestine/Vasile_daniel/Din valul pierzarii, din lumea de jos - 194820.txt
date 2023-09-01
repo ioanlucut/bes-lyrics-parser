@@ -1,0 +1,53 @@
+[title]
+Din valul pierzarii din lumea de jos {author: {Vasile Daniel}, {rcId: {194820}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Din valul pierzării, din lumea de jos
+Gândul meu se-ndreaptă la Domnul Hristos,
+/: El e apa vie, El e-al meu izvor
+El m-adapă-n taină ca eu să nu mor. :/
+
+[c]
+El îmi dă tărie, har și izbăviri
+El mi-aduce pace, multe bucurii,
+El mă întărește când sunt încercat
+El mă ocrotește să trăiesc curat.
+
+[v2]
+Din multe căi bune și din orice țel
+Eu doresc în suflet pe Emanuel
+/: El mi-ascultă ruga, El e-al meu Păstor
+El mi-arată calea, El mi-e-Nvățător. :/
+
+[c2]
+El este viața și lumina mea
+El deschide calea ca să merg pe ea.
+El mă face ntr-una, să-L iubesc mai mult
+El mi-aduce harul, să trăiesc ca sfânt.
+
+[v3]
+Din tot ce-i în lume și din tot ce-i sus
+Gândul meu se-ndreaptă la Domnul Isus,
+/: El e pâinea vieții, El e-al meu Cuvânt
+El mă curățește prin Duhul lui Sfânt. :/
+
+[c3]
+El îmi dă plăcere pentru voia Sa
+El mi-aprinde-n taină duhul, inima,
+El mă-nviorează ca să-i cânt mereu
+El e al meu soare, El e Dumnezeu.
+
+[v4]
+Mulțumesc o, Doamne, pentru tot ce-mi dai
+Mulțumesc că viața mi-o conduci spre rai,
+/: Tu lupți pentru mine, Tu mă ocrotești
+Ești mereu cu mine, mă călăuzești. :/
+
+[c4]
+Tu-mi îndrepți privirea țintă spre Isus
+Și mă faci să cuget la tot ce e sus,
+Tu-mi deschizi inima ca să-Ți cânt mereu,
+Tu ești Domnul vieții, Tu ești Dumnezeu.

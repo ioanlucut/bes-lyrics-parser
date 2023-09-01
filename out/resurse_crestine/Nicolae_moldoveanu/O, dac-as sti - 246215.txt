@@ -1,0 +1,35 @@
+[title]
+O dac-as sti {author: {Nicolae Moldoveanu}, {rcId: {246215}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+O, dac-aș ști eu de pe-acum
+Eterna lacrimei răsplată,
+/: Cum aș sădi-o pe-orice drum,
+Cum n-aș usca-o niciodată! :/
+
+[v2]
+O, de-aș cunoaște eu de-aici
+Eterna Milei răsplătire,
+/: Ce dragi mi-ar fi cei slabi și mici
+Ce prețuit-a lor iubire! :/
+
+[v3]
+O, dac-aș ști să prețuiesc,
+Eterna liniște-a iertării,
+/: Cum m-aș grăbi să dăruiesc,
+De cald, sărutul împăcării! :/
+
+[v4]
+O, dac-aș ști cum voi gusta,
+Eterna slavă a-nvierii,
+/: Cum m-aș sili și-aș aștepta
+Să-mbrac lumina înfierii! :/
+
+[v5]
+Și dac-aș ști cum am să cânt,
+Eterna dragostei cântare,
+/: Cu ce dumnezeiesc veșmânt,
+M-aș pregăti de sărbătoare! :/

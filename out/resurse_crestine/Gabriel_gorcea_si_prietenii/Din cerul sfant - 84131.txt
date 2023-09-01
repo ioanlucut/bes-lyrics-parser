@@ -1,0 +1,28 @@
+[title]
+Din cerul sfant {author: {Gabriel Gorcea și prietenii}, {rcId: {84131}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Din cerul sfânt, pe-acest pământ a venit
+Isus Hristos, așa profeți-au profețit
+Că se va naște Mântuitorul lumi-ntregi
+Isus Hristos, El este Rege peste regi
+
+[c]
+S-a născut Isus Hristos
+S-a născut Isus Hristos
+Ce minunat, ce glorios
+
+[v2]
+Din cerul sfânt, a venit să ne salveze
+Isus Hristos, El calea să ne-o lumineze
+Asupra Lui luat-a tot păcatul greu
+Isus Hristos, Isus Fiul Lui Dumnezeu
+
+[v3]
+Din cerul sfânt veni-va iar Isus la noi
+Emanuel, să ia cu El aleșii Lui
+Să ia pe-acei, ce îl urmează zi de zi
+Isus Hristos, in cerul Său îi va răpi

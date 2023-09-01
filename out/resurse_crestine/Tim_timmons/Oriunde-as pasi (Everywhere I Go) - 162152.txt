@@ -1,0 +1,42 @@
+[title]
+Oriunde-as pasi (everywhere i go) {author: {Tim Timmons, Traducere RO}, {rcId: {162152}}
+
+[sequence]
+v1,c,v2,c,v3,c,e,s,c
+
+[v1]
+O cetate m-așteaptă în cer
+O cetate m-așteaptă în cer
+Înspre ea mă îndrept sub privirea sfinților
+O cetate m-așteaptă în cer.
+
+[c]
+Oriunde-aș păși, printre văi, pe cărări
+Merg cu Tine, Domnul meu!
+Nu mă tem nicicum, de furtuni și-ncercări
+Merg cu Tine, Domnul meu!
+Oriunde-aș păși, printre văi, pe cărări
+Merg cu Tine, Domnul meu!
+Nu mă tem nicicum, de furtuni și-ncercări
+Merg cu Tine, Domnul meu!
+
+[v2]
+Bucuros, eu pășesc pe-acest drum
+Bucuros, eu pășesc pe-acest drum
+Nu-i nimic pe pământ să mă țină-n loc să cânt
+Bucuros, eu pășesc pe-acest drum.
+
+[v3]
+Nu sunt singur pe drumul spre cer
+Nu sunt singur pe drumul spre cer
+Mă conduce Isus, Domnul vieții, Cel de sus
+Nu sunt singur pe drumul spre cer.
+
+[e]
+Ai pus în noi viața
+În suflete fierbinți
+Să alergăm spre țara
+Cu toți cei mântuiți.
+
+[s]
+Ei merg din putere în putere și se înfățișează înaintea lui Dumnezeu în Sion. Ps. 84:7

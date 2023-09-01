@@ -1,0 +1,29 @@
+[title]
+Tu esti tare {author: {Remus Tămășan Cristi}, {rcId: {155946}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Sunt tare slab, o, Domnul meu
+Și cad zi de zi pe-a mea cărare.
+Cârtesc mereu când mi-este greu,
+Dar Te rog să-mi dai de azi răbdare!
+
+[c]
+/: Putere n-am, dar ești cu mine,
+Mă-ncred mereu numai în Tine!
+Eu sunt prea slab, dar Tu ești tare
+Și mă poți scăpa din încercare! :/
+
+[v2]
+La orice pas eu mă-ndoiesc
+Și credința mea e fără viață,
+În orice zi mă poticnesc,
+Dar Te rog să-mi fii de azi povață!
+
+[v3]
+Prin încercări alerg mereu
+Și încerc să caut o scăpare,
+Mă las bătut când este greu,
+Dar Te rog să-mi fii azi alinare!

@@ -1,0 +1,26 @@
+[title]
+Toate vor trece-ntr-o zi {author: {Anonim}, {rcId: {233707}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Toate vor trece intr-o zi
+Oricat de bune ar fi
+Doar Tu esti vesnic, doar Tu ramai
+Natiuni s-au ridicat si-au disparut in praf
+Doar Tu esti vesnic.
+
+[c]
+Anii trec Tu ramai Dumnezeu neschimbat
+Generatii la rand se ridica si cad
+Lumea din jurul meu se schimba ne-ncetat
+Anii trec, Tu ramai Dumnezeu neschimbat.
+
+[v2]
+Anii in trecerea lor
+Sterg fala oamenilor
+Doar Tu esti vesnic, doar Tu ramai
+Oamenii se nasc si mor
+Totul e-asa trecator
+Doar tu esti vesnic.

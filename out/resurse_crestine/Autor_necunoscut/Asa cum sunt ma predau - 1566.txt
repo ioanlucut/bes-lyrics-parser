@@ -1,0 +1,29 @@
+[title]
+Asa cum sunt ma predau {author: {Anonim}, {rcId: {1566}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Așa cum sunt, mă predau, Doamne, Ție!
+Primește-mă, să fiu al Tău pentru vecie!
+
+[c]
+/: M-am săturat de această lume stricată.
+Primește-mă, redă-mi o inimă curată! :/
+
+[v2]
+Pe-acest pământ și-n veșnicii, în cer, Isuse,
+Doresc să-Ți cânt, căci Tu-mi dai bucurii nespuse.
+
+[c2]
+/: Spre slava Ta, acea cântare minunată
+Doresc să-Ți cânt, când vei veni, Isuse,-odată... :/
+
+[v3]
+La nunta Lui, vino și tu, amice dragă!
+Predă-te Lui, să fii cu El o viață-ntreagă!
+
+[c3]
+/: Renunță azi la fericirea de o clipă
+Și vei avea, în schimbul ei, viața veșnică. :/

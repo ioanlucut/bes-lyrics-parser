@@ -1,0 +1,27 @@
+[title]
+Cer sublim {author: {Diaz Amos}, {rcId: {239014}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Voința mea de a cunoaște
+Tot mai bine calea Sa.
+În fiecare zi crește tot mai tare,
+Tresaltă în farmec inima!
+
+[c]
+/: Cer sublim, cer senin;
+Cer de pace, bucurie, ce divin! :/
+
+[v2]
+Nu mă lăsa la mâna morții
+Sau să mă cobor priveag!
+Să zac stingher, nici nu mă gândesc
+Tu-mi ești un adăpost drag!
+
+[e]
+Scapă-mi viața de mă prăbușesc;
+Fii un scut orișiunde pășesc.
+Am găsit în Tine o siguranță
+Sunt bucuros, fericire-mi pe față!

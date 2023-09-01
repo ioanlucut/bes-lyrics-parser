@@ -1,0 +1,29 @@
+[title]
+In curand trompeta revederii {author: {Anonim}, {rcId: {239887}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În curând trompeta revederii
+Va suna în largul de cristal,
+Iar cei sfinți în visul primăverii
+/: Vor zbura prin slăvi din val în val. :/
+
+[c]
+Vino Mire, dorul vieții noastre,
+Când veni-vei să ne iei?
+Mult dorim ca-n zborul către astre
+/: Să plutim ca niște porumbei! :/
+
+[v2]
+Vom uita de foamea disperată
+Ce ne-a mistuit de-atâtea ori.
+Mult dorim seninul fără pată
+/: Ce cuprinde așteptații zori :/
+
+[v3]
+Vom uita de anii de urgie,
+Vom uita de arșiți și nevoi,
+Ca apoi întreaga veșnicie
+/: Să sorbim misterul vieții noi! :/

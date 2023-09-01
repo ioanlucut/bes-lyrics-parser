@@ -1,0 +1,27 @@
+[title]
+Domnu-i steag de biruinta {author: {Nelu Tomsa}, {rcId: {151240}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+Domnu-i steag de biruință,
+În Domnul e a mea credință,
+Tăria mea în vreme grea.
+
+[v1]
+Și când mă clatin și sunt slab,
+Isus mi-e sprijin și mi-e steag,
+El mâna mea o va ținea,
+Piciorul a nu-mi clătina.
+
+[v2]
+Puterea mea și scutul meu,
+Îmi este numai Dumnezeu,
+El pași-mi va călăuzii,
+Și-n veci de veci mă v-a-ntării.
+
+[v3]
+Încrezător mereu voi fii,
+În Domnul ce mă va păzii,
+Nicicând de El

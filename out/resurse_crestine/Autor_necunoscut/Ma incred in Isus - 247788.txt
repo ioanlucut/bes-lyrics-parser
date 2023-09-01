@@ -1,0 +1,52 @@
+[title]
+Ma incred in isus {author: {Anonim}, {rcId: {247788}}
+
+[sequence]
+v1,c,v2,c2,e
+
+[v1]
+Mă încred în Isus
+Mă încred în Cel înviat
+Cred că sunt biruitor
+Prin puterea sângelui.
+
+[c]
+Amin, Amin
+Eu sunt viu, Eu sunt viu
+Că El e viu
+Amin, Amin
+Să răsune în veci cântarea mea
+Că El e viu.
+
+[v2]
+Eram mort în mormânt
+Eram plin de al meu păcat
+Dar când Mila M-a chemat
+M-a scos, deplin salvat!
+
+[c2]
+Amin, Amin
+Eu sunt viu, Eu sunt viu
+Că El e viu
+Amin, Amin
+Să răsune în veci cântarea mea
+
+[e]
+/: Că El e viu
+Pot privi ’nainte
+Că El e viu
+Teamă nu mai am
+Eu știu, că El, pe veci, mă ține-n mâna Lui :/
+
+[c3]
+/: Amin, Amin
+Eu sunt viu, Eu sunt viu
+Că El e viu :/ x4
+Că El e viu
+Pot privi ’nainte
+Că El e viu
+Teamă nu mai am
+Eu știu, că El, pe veci, mă ține-n mâna Lui
+Că El e viu
+Că El e viu
+E viu!

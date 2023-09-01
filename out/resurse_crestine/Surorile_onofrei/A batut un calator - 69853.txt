@@ -1,0 +1,44 @@
+[title]
+A batut un calator {author: {Surorile Onofrei}, {rcId: {69853}}
+
+[sequence]
+v11,c,v2,c,e
+
+[v11]
+A bătut un Călător
+La al inimii pridvor,
+Sângerau pe frunte spinii, 
+Când loveau sub cruce străinii.
+Îl plângeau în vale crinii, c-un fior.
+A bătut și, cu-n oftat,
+Cerul lumii s-a-nnoptat.
+Eli Lama Sabactani!
+Se frângeau în crâng castanii,
+Și, trecând pierduți toți anii, L-am uitat.
+
+[c]
+/: Ai bătut și din suspin
+Mi-ai schimbat ceru-n alin.
+Stea de cântec preacurată
+Floare albă, nepătată,
+Viața mea din har spălată,
+Ți-o închin. :/
+
+[v2]
+A bătut Cel veșnic sfânt
+Și căzut-am la pământ, 
+Când Maria într-o grădină,
+Printre îngeri de lumină,
+Într-o zi I se închină la mormânt.
+Ai bătut și, din pridvor, 
+Ușa inimii cu dor
+Ți-am deschis în plâns, Stăpâne,
+Când în praf și din rușine
+Am stigat pierdut spre Tine: „
+Ajutor!”
+
+[e]
+Și astăzi El bate
+/: La inima Ta :/ x3
+Și astăzi El bate
+/: La inima Ta :/ x3

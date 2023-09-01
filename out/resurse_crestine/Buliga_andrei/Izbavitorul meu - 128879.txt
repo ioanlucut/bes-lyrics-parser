@@ -1,0 +1,38 @@
+[title]
+Izbavitorul meu {author: {Buliga Andrei}, {rcId: {128879}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Binecuvântat e Domnul, Binecuvântat e El
+Binefăcătorul meu și Cetățuia mea
+Turnul meu de scăpare și Izbăvitorul meu, scutul meu.
+
+[c]
+/: Ne-ai izbăvit, ne-ai mântuit și ne-ai scăpat din ape mari :/
+
+[v2]
+Binecuvântat e Domnul Stânca mea
+Binecuvântat e El Scutul meu
+Binecuvântată-I Cetățuia mea
+Turnul meu de scăpare și Izbăvitorul meu.
+
+[v3]
+Stânca mea Stânca mea Tu ești
+Scutul meu Scutul meu pe veci,
+Turnul meu de scăpare și Izbăvitorul meu
+Puterea Ta zdrobește pe dușmani,
+Ești măreț ești glorios ce frumos!
+
+[v4]
+Pleacă cerurile Doamne, și coboară-Te!
+Atinge munții ca să fumege
+Fulgeră și risipește pe vrăjmașii mei, aruncă-Ți săgețile spre ei
+Tu ești Cel ce ne-a izbăvit.
+
+[v5]
+Pleacă cerurile Doamne, și coboară-Te!
+Atinge munții ca să fumege
+Fulgeră și risipește pe vrăjmașii mei, aruncă-Ți săgețile spre ei
+Tu ești Cel ce ne-a izbăvit.

@@ -1,0 +1,29 @@
+[title]
+Departe intr-un sat {author: {Nicolae Zamfir}, {rcId: {184033}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Departe într-un sat trei magi au plecat
+Să caute un Fiu de Împărat
+O stea sus pe cer frumos lumina
+Pe drum îi călăuzea
+
+[c]
+Veniți să vestim că astăzi s-a născut
+În lume un Mântuitor
+El este Domn El e Împărat
+Isus este al nost salvator
+
+[v2]
+Mergând s-au oprit la Ierusalim
+Si astfel au întrebat
+Unde e Împăratul ce s-a născut
+Noi daruri i-am am adus
+
+[v3]
+Ca magii si noi toți astăzi venim
+Pruncului să ne închinăm
+Și inima noastră îi dăruim
+Osana, mărire îi cântăm

@@ -1,0 +1,22 @@
+[title]
+A inviat {author: {Anonim}, {rcId: {6466}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+/: A înviat Isus!
+Isus nu este mort
+A înviat! :/
+
+[v1]
+Domnul Isus a fost în mormânt
+Dar a înviat a treia zi
+Asta să știți cu toți
+Și în cor să-i cântați
+
+[v2]
+Isus e al nost’ Salvator
+Căci El ne-a mântuit pe noi
+El e cu noi în orice clipă
+Și ne ajută să trecem peste ispită

@@ -1,0 +1,25 @@
+[title]
+A fost o zi cand isuse ai venit {author: {Vasile Mihai}, {rcId: {244287}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+A fost o zi când, Isuse, ai venit,
+Pentru mine ai murit,
+M-ai răscumpărat din lumea de păcat.
+
+[c]
+Eram pierdut, căzut, fără nădejde în păcat uitat,
+Dar mâna Ți-ai întins, Isus
+Și de la moarte m-ai salvat.
+
+[v2]
+Îți mulțumesc că prin har acum trăiesc,
+Prin sfânt sânge sunt spălat,
+Astăzi sunt iertat, Isus, ești minunat!
+
+[v3]
+Tu m-ai iubit, inima mi-ai cucerit
+Și ai pus în vasul meu,
+Har din harul Tău să Te iubesc și eu.

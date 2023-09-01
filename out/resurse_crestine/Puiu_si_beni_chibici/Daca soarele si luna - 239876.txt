@@ -1,0 +1,50 @@
+[title]
+Daca soarele si luna {author: {Puiu și Beni Chibici}, {rcId: {239876}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+Dacă soarele și luna
+Ar vorbi și-ar cuvânta
+Ceru-ntreg de osanale
+Ne-ncetat ar răsuna
+Dacă miile de stele,
+Glas și voce ar avea
+Cu cântări de preamărire,
+Zi și noapte L-ar lăuda.
+Dacă soarele și luna
+Ar vorbi și-ar cuvânta
+Ceru-ntreg de osanale
+Ne-ncetat ar răsuna
+Dacă miile de stele,
+Glas și voce ar avea
+Cu cântări de preamărire,
+Zi și noapte L-ar lăuda.
+
+[v1]
+Vezi tu omule ce dar
+Ti-a dat ție Ziditorul,
+Să ai parte de-așa Har
+Să vorbești cu Creatorul,
+De ce taci când El ți-a dat
+Gură și un grai curat,
+Vrei de pietre El să fie lăudat?
+
+[v2]
+Ți-a dat tot când te-a-ntocmit
+Te-a-mbrăcat în nemurire,
+Loc în cer ți-a pregătit
+Domnul în a Sa iubire,
+De ce taci când El ți-a dat
+Gură și un grai curat
+Vrei de pietre El să fie lăudat?
+
+[v3]
+Ce-ai putea să-ți mai dorești
+Când ai mâini și ai picioare,
+Poți gândi, poți să privești,
+Și s-admiri a Sa splendoare,
+De ce taci când El ți-a dat
+Gură și un grai curat
+Vrei de pietre El să fie lăudat?

@@ -1,0 +1,61 @@
+[title]
+Fa-ma tu folositor {author: {Nicolae Moldoveanu}, {rcId: {241123}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+Fă-mă Tu folositor,
+Doamne prin iubire,
+/: Ca să pot pe-al Tău ogor,
+Duce mântuire! :/
+Isuse, Isuse, fă-mă Tu folositor
+Numai prin iubire!
+
+[v2]
+Duhul pururi sfințitor,
+Să mă poarte-n lume,
+/: Ca să fiu folositor,
+Sfântului Tău Nume! :/
+Isuse, Isuse, vreau să fiu folositor
+Sfântului Tău Nume!
+
+[v3]
+Mai aprins, mai râvnitor,
+Să alerg nainte,
+/: Ca să fiu folositor,
+Cauzei preasfinte, :/
+lsuse, lsuse, vreau să fiu folositor
+Cauzei preasfinte!
+
+[v4]
+Dă-mi puterea să-mi omor,
+Zilnic vechea fire,
+/: Ca să fiu folositor,
+Căii de sfințire. :/
+lsuse, lsuse, vreau să fiu folositor
+Căii de sfințire!
+
+[v5]
+Stinge-mi foc ucigător,
+De dorinți străine,
+/: Ca să fiu folositor,
+Numai pentru Tine! :/
+lsuse, lsuse, vreau să fiu folositor
+Numai pentru Tine!
+
+[v6]
+Fă-mă Tu mai răbdător,
+În dureri amare,
+/: Ca să-Ți fiu folositor,
+Ție în Lucrare! :/
+lsuse, lsuse, vreau să fiu folositor
+Ție în Lucrare!
+
+[v7]
+Și de Tine mai cu dor
+Inima-mi anină,
+/: Ca să-Ți fiu folositor,
+Pururi prin lumină! :/
+lsuse, lsuse, vreau să fiu folositor
+Pururi în lumină!

@@ -1,0 +1,43 @@
+[title]
+Domnul spune nu te teme {author: {Simion Bolohan}, {rcId: {246374}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Domnul spune: nu te teme,
+Chiar când inima îți geme,
+El este la cârma ta,
+Știe când povara-i grea,
+Știe de problema ta,
+Frate nu descuraja.
+
+[c]
+/: Nu-i problem-așa mare și grea,
+Ca Domnul să n-o poată rezolva,
+Hai, vino, la El chiar acum,
+Isus te ajută la drum :/
+
+[v2]
+Iosua, când sa rugat,
+Dumezeu la ascultat,
+Soarele a stat pe cer.
+Domnul va interveni,
+Îndurare vei găsi,
+Isus te va izbăvi.
+
+[v3]
+Pe naman l-a vindecat,
+La iordan când sa scăldat,
+El lucrează și acum.
+Ce-i trei, tineri în cuptor,
+L-au chemat în ajutor,
+Domnul e îndurător.
+
+[v4]
+Astăzi, nu descuraja,
+Domnul e de partea ta,
+El mai face azi minuni.
+Fă ca orbul ce striga:
+Dă-mi, Isuse, mila ta!
+Domnul te va asculta.

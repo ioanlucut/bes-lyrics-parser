@@ -1,0 +1,41 @@
+[title]
+Bun e domnul {author: {Carmen Prodan}, {rcId: {169715}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Da, bun e Domnul Dumnezeu,
+Cu cei cu inima curată!
+/: Chiar de alunec uneori
+Când vin furtuni și negri nori,
+Cu El nu cad niciodată: \
+
+[v2]
+Când la cei răi ades priveam
+Și le vedeam fericirea,
+/: Ziceam: „
+Degeaba m-am trudit
+Și inima mi-am curățit,
+Căci m-a atins nenorocirea”: \
+
+[v3]
+O, Doamne-acum am înțeles
+Că totuși este o răsplată.
+/: Că toți cei răi sunt nimiciți
+Și într-o clipă-s doborâți,
+Pe toți pierzarea îi așteaptă! : \
+
+[v4]
+Dar toată fericirea mea
+E să m-apropii de Tine!
+/: Din Tine-mi fac loc de-adăpost
+Și spun la toți ce bun ai fost,
+O, Doamne, Domnul meu, cu mine! : \
+
+[v5]
+Chiar carnea și inima mea
+Pot să mi se prăpădească!
+/: Tu vei fi pururi stânca mea,
+Cu Tine mă voi lăuda
+Și-aici și-n slava Ta cerească! : \

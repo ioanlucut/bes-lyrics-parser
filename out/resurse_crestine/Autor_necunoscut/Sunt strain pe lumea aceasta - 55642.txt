@@ -1,0 +1,33 @@
+[title]
+Sunt strain pe lumea aceasta {author: {Anonim}, {rcId: {55642}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Sunt străin pe lumea aceasta,
+Că nimeni nu îmi calcă casa,
+/: Să mă-ntrebe ce-i cu mine,
+Să mai uit de-amărăciune,
+Lacrimile valuri vine :/
+
+[v2]
+Doamne eu Te-aș mai ruga,
+Să vii azi și-n casa mea,
+/: Măcar să treci pe la poartă,
+Măcar să Te văd o dată,
+Tu-mi ești Mamă, Tu-mi ești Tată :/
+
+[v3]
+Isuse, vino la mine,
+Că-s cuprins de-amărăciune,
+/: Vino Doamne dă-mi iertare,
+Că nu mai simt cercetare,
+Of, Doamne, eu nu mai simt cercetare :/
+
+[v4]
+Sunt mulți oameni Doamne pe lume,
+Care sunt fără de Tine,
+/: Fă-le Doamne o chemare,
+S-aibă parte de iertare,
+S-aibă parte de iertare :/

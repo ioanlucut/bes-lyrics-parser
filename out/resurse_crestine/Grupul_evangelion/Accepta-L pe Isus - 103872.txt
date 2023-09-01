@@ -1,0 +1,23 @@
+[title]
+Accepta-l pe isus {author: {Grupul Evangelion}, {rcId: {103872}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+/: Dacă tu Îl accepți în viața ta
+Pe Isus, Mântuitor personal, 
+Viața veșnică în dar ți se va da.
+Ce minunat, vei fi în familia Sa! :/
+
+[v1]
+Poate de mult te rogi, poate de mult aștepți
+Un răspuns, din partea lui Dumnezeu.
+Nu te îngrijora, El chiar acum îți poate da,
+Problema ta se poate rezolva!
+
+[v2]
+Trebuie să înțelegi, omule, ce alegi ?
+Că viața e mai mult decât bogății,
+E o viață veșnică alături de Isus Hristos,
+Pe care nimeni nu ți-o poate da.

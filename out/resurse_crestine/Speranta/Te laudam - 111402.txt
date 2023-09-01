@@ -1,0 +1,29 @@
+[title]
+Te laudam {author: {Speranța}, {rcId: {111402}}
+
+[sequence]
+v1,b,c,v2,c
+
+[v1]
+Te lăudăm, Te lăudăm, Dumnezeule!
+Te lăudăm, Te lăudăm, Creatorule!
+Îți cântăm, Îți cântăm, Dumnezeu!
+Îți cântăm, Îți cântăm, Creatorule!
+
+[b]
+În toate meriți slava!
+În toate meriți cinstea!
+În toate meriți gloria!
+Toată slava fie-a Ta!
+
+[c]
+Cu viața, sufletul și inima,
+Doamne, stăm în fața Ta.
+În veci Te vom lăuda:
+Osana, Osana, Osana, Aleluia!
+
+[v2]
+Ne-nchinăm, ne-nchinăm, Salvator iubit!
+Ne-nchinăm, ne-nchinăm, în veci fii proslăvit!
+Te onorăm, Te onorăm, Salvator iubit!
+Te onorăm, Te onorăm, în veci fii proslăvit!

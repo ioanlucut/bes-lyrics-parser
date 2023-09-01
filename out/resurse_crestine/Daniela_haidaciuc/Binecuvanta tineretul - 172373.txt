@@ -1,0 +1,36 @@
+[title]
+Binecuvanta tineretul {author: {Daniela Haidaciuc}, {rcId: {172373}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+O Doamne astăzi Te chemăm
+Cu stăruința Te rugăm
+În lumea veacului de-acum,
+Să luminezi al nostru drum.
+
+[c]
+Binecuvântă Doamne tineretul Tău,
+Păzește-ne de ispită, păzește-ne de Cel Rău,
+Binecuvântă-ne, cu Duh Sfânt umple-ne,
+Și doar cu Tine, știm, în luptă biruim!
+
+[v2]
+Cu toți venim în fața Ta,
+Și vrem smeriți a Te ruga,
+Tu să conduci ai noștri pași,
+Din mâna Ta să nu ne lași!
+
+[v3]
+Ne dă puteri să fim uniți,
+În Duh să fim nedespărțiți.
+Vrem să trăim cu toți ca frați,
+Să fim curați și nepătați.
+
+[v4]
+Ne pune Doamne-n slujba Ta,
+Și pentru
+Tine vom lucra.
+Vrem viața toată s-o trăim
+Cu Tine, și să Te slujim!

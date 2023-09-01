@@ -1,0 +1,24 @@
+[title]
+Voi canta {author: {CristoCentric}, {rcId: {111436}}
+
+[sequence]
+v1,b,c
+
+[v1]
+Munții Îți dau slavă, marea-Ți cântă gloria
+Toate-mi spun, toate-mi spun de iubirea Ta!
+Soarele și luna Te laudă prin Lumina Ta,
+Întreaga omenire Ție Ți se-nchină!
+
+[b]
+Voi intra cu laude în Templul Tău,
+Cu veselie-Ți dăruiesc cântecul meu!
+
+[c]
+Voi cânta, Doamne, în prezența Ta
+Mâinile-mi ridic spre Tine!
+Veșnic laud a Ta iubire!
+Voi cânta, saltă-n mine inima!
+Nimeni nu-I ca Tine, Domn Ceresc,
+Peste veacuri Tu domnești!
+Veșnic Tu stăpânești, veșnic Tu strălucești!

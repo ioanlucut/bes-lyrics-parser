@@ -1,0 +1,37 @@
+[title]
+Vin acum in fata ta {author: {Balan Adriana Mirela}, {rcId: {108107}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Fii slăvit, fii binecuvântat
+Că în viață tot ce-am cerut, mi-ai dat
+Și în toate Tu m-ai învățat
+Să Te-ascult mereu!
+
+[c]
+Vin acum în fața Ta
+Să Îți pun viața mea
+Iarăși eu Îți mulțumesc
+Pentru tot ce am!
+
+[v2]
+Eu mereu în rugăciuni
+Te-am rugat pentru cei buni,
+Pentru cei ce stau în suferinți,
+Să ne-ajuți la greu.
+Tu ai ascultat mereu,
+Și-ai călăuzit la greu,
+Iar în viața de pe pământ
+Ajutor ne-ai dat.
+
+[v3]
+Eu acum Îți cer mai mult
+Pentru pruncii noștri scumpi
+Să lași binecuvântarea Ta
+Și să-i protejezi!
+Tu în cer și pe pământ
+Ai putere și ești sfânt
+În viață călăuzește-i Tu
+Să nu facă rău!

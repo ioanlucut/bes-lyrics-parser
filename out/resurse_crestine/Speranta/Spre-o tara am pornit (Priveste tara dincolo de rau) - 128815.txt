@@ -1,0 +1,37 @@
+[title]
+Spre-o tara am pornit (priveste tara dincolo de rau) {author: {Speranța}, {rcId: {128815}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Spre-o țară am pornit
+Lăsând în urmă lumea
+Egiptul cu al lui noroi
+Mergem cu-ndrăzneală
+Înspre Canaan
+Dumnezeu este cu noi!
+
+[c]
+Privește țara dincolo de râu
+Țară cu lapte, miere și grâu
+Curând se va sfârși amarul
+Necaz, suferință și suspin
+Secetă boală, neajuns și chin
+Se vor sfârși când vom trece Iordanul!
+
+[v2]
+Ce e mai de preț
+Am luat cu noi
+Lucruri care au valoare
+Ne vor folosi
+Când vom ajunge-acolo
+În țara dincolo de zare!
+
+[v3]
+Nu privi-napoi
+La paie și pământ
+Egiptul care ne-a robit
+Privește prin credință
+Spre străzile de aur
+Spre locul cel făgăduit!

@@ -1,0 +1,38 @@
+[title]
+Tu alfa si omega vietii {author: {Anonim}, {rcId: {1246}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Tu, Alfa și Omega vieții,
+O, Dumnezeule slăvit,
+Îți cânt în zorii dimineții
+Și când e ziua--n asfințit!
+
+[c]
+Te laud dimineața,
+Te laud la amiază,
+Te laud seara, noaptea
+Cât inima mi--e trează!
+Te laud mereu, Te laud mereu,
+Preasfinte Dumnezeu!
+Preasfinte Dumnezeu!
+
+[v2]
+Te laud prin Hristosul - Soare
+Prin Fiul Tău ce ni L-ai dat
+Ca jertfă de răscumpărare
+Spre--un Mâine binecuvântat!
+
+[v3]
+Te laud veșnic cu iubire
+Și cu recunoștință--n cânt
+C--o jertfă--n jar de mulțumire,
+Părinte, Dumnezeu Preasfânt!
+
+[v4]
+Te laud cu--nchinare vie
+Și la acest sfârșit divin!
+Tu ești Omega--n veșnicie
+Dar ești și Alfa--n veci, Amin!

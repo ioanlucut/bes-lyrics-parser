@@ -1,0 +1,25 @@
+[title]
+Eu sunt cu voi in orice zi {author: {Anonim}, {rcId: {5013}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,v4,c
+
+[c]
+/: Eu sunt cu voi în orice zi, :/ x3
+A spus Isus Hristos. :/
+
+[v1]
+/: Nu întâmplător stau eu aici,
+Domnul are ceva de făcut. :/
+
+[v2]
+/: Singuratic, trist și apăsat
+Nu mai am nevoie să fiu. :/
+
+[v3]
+/: Domnul e cu mine-n orice zi,
+El e existența mea. :/
+
+[v4]
+/: De bucurie eu acuma cânt,
+Căci pe Isus Îl cunosc. :/

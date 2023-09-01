@@ -1,0 +1,38 @@
+[title]
+O vine dimineata {author: {Nicolae Moldoveanu}, {rcId: {244372}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+O, vine Dimineața, dar noaptea-i tot așa...
+De ce se prelungește această noapte grea,
+De ce nu se zărește nici semn de zori ieșind,
+Ci aripile nopții tot negre se întind?
+
+[c]
+Doamne, Doamne,
+Dar eu mă-ncred în Tine,
+De brațul Tău mă prind.
+
+[v2]
+De ce nu vine oare odată ziua iar?
+Ori are să mai cadă în cursă vreun pândar,
+Ori nu-i destulă rana, ori zorii n-au răspuns,
+Ori lutul nostru încă nu-i frăgezit de-ajuns?
+
+[c2]
+Doamne, Doamne,
+Dar eu mă-ncred în Tine,
+Și-atâta mi-e deajuns!
+
+[v3]
+E-atât de lungă vreme de când s-a înnoptat,
+De câtă cale lupii urlând ne-au spăimântat,
+De când năluci vrăjmașe cu țipete și plâns,
+Ne-au biciuit obrajii și sufletul ne-au strâns!
+
+[c3]
+Doamne, Doamne,
+Dar eu mă-ncred în Tine,
+De Tine mă țin strâns.

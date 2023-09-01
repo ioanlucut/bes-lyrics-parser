@@ -1,0 +1,53 @@
+[title]
+Pe nilul fugar {author: {Gheorghe Zoltan}, {rcId: {218305}}
+
+[sequence]
+v1,c,v2,c,v3,c2,v4,c3,v5,c4
+
+[v1]
+De frații săi a fost vândut și Iosif
+Și revândut lui Potifar
+Dar Cel ce conduce Universul
+I-a dăruit mare har
+
+[c]
+Pe Nilul fugar privirea-și adâncea
+Și lacrimi din ochi îi curgeau...
+
+[v2]
+Dumnezeu l-a-nsoțit pretutindeni mereu
+Dumnezeu și-a-nsoțit robul Său
+El n-a pângărit fecioria
+Și sufletul său curat
+
+[v3]
+Și ani mulți s-au scurs pe roata vremii
+Din temnița cea grea a scăpat
+Și Cel ce i-a văzut suferința
+Pe el l-a mângâiat
+
+[c2]
+Cu ochii spre cer privirea-și adâncea
+Și inima lui Iosif mulțumea.
+
+[v4]
+De mulți ani în Canaan foametea bântuia
+După grâu, frații lui au venit
+Ca înalt dregător era Iosif
+Și ei l-au întâlnit.
+
+[c3]
+În străvechiul Egipt ei s-au întâlnit
+Și Iosif era fericit.
+
+[v5]
+Dar apoi în Egipt toți s-au coborât
+A venit tatăl său și iubit
+Și Cel ce conduce Universul
+În Gosen i-a ocrotit.
+
+[c4]
+În străvechiul Egipt ei s-au întâlnit
+Și Iosif a fost fericit.
+În străvechiul Egipt ei s-au întâlnit
+Și Iosif a murit fericit.

@@ -1,0 +1,43 @@
+[title]
+Mii si mii de mii de ingeri {author: {Daniel Briciu}, {rcId: {240351}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mii și mii de mii de îngeri cântă ne-ncetat
+Lângă tronul de domnie unde-i Isus Împărat
+Și bătrânii se apleacă înaintea tronului,
+Iar cununile de aur le închină numai Lui.
+Ei strigă:
+
+[c]
+/: „
+Vrednic este Mielul să primească gloria,
+Vrednic este Mielul să primească slava,
+Vrednic este Mielul să primească lauda,
+Vrednic este Mielul slavei și pe veci va rămânea.” :/
+/: „
+Vrednic este Mielul să primească gloria,
+Vrednic este Mielul să primească slava,
+Vrednic este Mielul să primească lauda,
+Vrednic este Mielul slavei și pe veci va rămânea.” :/
+/: „
+Vrednic este Mielul să primească gloria,
+Vrednic este Mielul să primească slava,
+Vrednic este Mielul să primească lauda,
+Vrednic este Mielul slavei și pe veci va rămânea.” :/
+
+[v2]
+Și-am văzut o gloată mare, într-un cuget, într-un gând,
+Îmbrăcați în haine albe, lăudând pe Mielul Sfânt,
+Fiindcă din necazul mare El i-a scos, biruitor,
+Iar acum o veșnicie ei înalță acest cor,
+Și cântă:
+
+[v3]
+Să venim și noi cu toții să cântăm azi Mielului,
+Fiindcă am primit prin cruce viață din viața Lui,
+Sus pe lemnul de durere ne-a născut prin jertfa Sa,
+De aceea-n orice vreme să-I cântăm și noi așa:
+Din inimi:

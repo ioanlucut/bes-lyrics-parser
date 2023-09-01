@@ -1,0 +1,53 @@
+[title]
+Nu esti invins cat timp credinta {author: {Nicolae Moldoveanu}, {rcId: {74424}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Nu ești învins cât timp credința
+Nu ți-ai schimbat și nu ți-ai stins
+/: Credința iarăși te ridică
+Poți fi căzut, dar nu învins :/
+
+[c]
+Nu ești înfrânt cât ai nădejdea
+Și țelul ei rămâne sfânt
+Nădejdea iarăși te-ntărește
+Poți fi trântit, dar nu înfrânt.
+
+[v2]
+Nu ești zdrobit cât ai iubirea
+Curată și de neclintit
+/: Iubirea, iarăși te înalță
+Poți fi călcat, dar nu zdrobit :/
+
+[c2]
+Nu ești departe până duhul
+Și rugăciunea nu ți-s reci
+Prin ele ești mereu aproape
+Dar fără ele, dus pe veci.
+
+[v3]
+Nu rătăcești cât timp ți-i gândul
+Și inima la ce-ai primit
+/: Când inima ți-e-n altă parte
+Chiar stând aici, ești rătăcit :/
+
+[c3]
+Nu mori când inima-ncetează
+Ci când de cer ți-s ochii rupți
+Când nu mai arzi și nu mai sângeri
+Când nu mai plângi și nu mai lupți.
+
+[v4]
+Nu ești învins cât timp credința
+Nu ți-ai schimbat și nu ți-ai stins,
+/: Credința iarăși te ridică,
+Poți fi căzut, dar nu învins. :/
+
+[c4]
+Biruitori, eroi și vrednici
+Nu numai cei ce neclintiți
+Duc legământul pân-la jertfă
+Și luptă până la sfârșit.

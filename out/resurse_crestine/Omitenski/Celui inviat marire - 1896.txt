@@ -1,0 +1,26 @@
+[title]
+Celui inviat marire {author: {O.Mitenski}, {rcId: {1896}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+,, Celui înviat mărire!” Noi cântăm cu toți în cor
+El a’nvins tăria morții, înviind triumfător.
+Soare, Tu sol al dreptății, cum răsari măreț din nori!
+Bezna morții se destramă când Te uric strălucitor.
+
+[c]
+Isus e viu! Isus e viu! Laudă și onoare Lui! Amin.
+
+[v2]
+Isprăvit-ai, Tu în groapă greul Tău calvar și sfânt,
+Multe lacrimi și suspine au sfințit al Tău mormânt!
+Peste groapa Ta deschisă trec toți îngerii în zbor;
+Binecuvântând ei cântă, cu al învierii cor.
+
+[v3]
+Ce măreț ai izbăvit Tu peste toți dușmanii Tăi,
+S-au distrus pe totdeauna planurile celor răi,
+Doamne, Tu trăiește’n mine, eu prin Tine voi urca
+Biruind puterea morții, sus în cer, la dreapta Ta!

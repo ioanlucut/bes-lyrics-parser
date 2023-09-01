@@ -1,0 +1,35 @@
+[title]
+Am sa raman cu tine {author: {Emanuel Boca}, {rcId: {92983}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Pe veci am să rămân cu Tine,
+Mântuitorul meu iubit,
+Căci pe o mare-nfuriată
+Tu singur nu m-ai părăsit!
+Plecară prietenii și frații,
+Înspăimântați de val și vânt,
+Tăiară ancora nădejdii
+Și o trântiră la pământ.
+
+[c]
+Tu ai rămas cu mine-n barcă,
+Cârmaci cum n-am mai întâlnit,
+Și peste-a lumii valuri grele,
+Isus, cu Tine am plutit!
+Tu nu Te-ai înfricat de valuri,
+N-ai tremurat de-amenințări,
+Căci plin de har Tu porți iubirea
+Și-o dai în cele patru zări.
+
+[v2]
+Pe veci am să rămân cu Tine,
+Mântuitorul meu iubit,
+Căci jos, în valurile vieții,
+Nicicând Tu nu m-ai părăsit!
+Și vom pluti prin valuri grele
+Spre țărmul veșnic și sublim,
+Căci toate dorurile mele
+Sunt ancore-n ceresc Elim.

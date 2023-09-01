@@ -1,0 +1,23 @@
+[title]
+Nu te teme {author: {Speranța}, {rcId: {111389}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Așa vorbește Domnul, cel ce Te-a făcut
+Dumnezeul mare, ce Te-a întocmit:
+
+[c]
+Nu te teme, nu te teme
+Eu te izbăvesc
+Nu te teme, nu te teme
+Eu te ocrotesc
+
+[v2]
+Prin ape de voi trece cu tine eu voi fi
+Chiar și din foc te voi izbăvi!
+
+[v3]
+Ești de mare preț și ai o valoare
+Pentru Tine, Israel, eu dau popoare!

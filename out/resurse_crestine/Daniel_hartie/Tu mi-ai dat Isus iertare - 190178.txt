@@ -1,0 +1,35 @@
+[title]
+Tu mi-ai dat isus iertare {author: {Daniel Hartie}, {rcId: {190178}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Tu mi-ai dat Isus iertare, de al meu păcat murdar
+Tu mi-ai dat o haină nouă și m-ai îmbrăcat cu har
+Mi-ai schimbat Isus trăirea, ai venit în viața mea
+Și de când te am pe Tine, merg voios pe calea Ta.
+
+[c]
+Pentru veci, pentru veci vreau să fiu al Tău
+Tu ești Domn și-mpărat, Dumnezeul meu
+Nici furtuni, nici torturi, nici sentința grea
+Nu mă pot despărți de iubirea Ta.
+
+[v2]
+Tu mi-ai dat răscumpărare din robia de păcat
+Căci în lumea pieritoare, nimeni nu m-a ajutat
+M-ai chemat cu bunătate, cu al Tău duios Cuvânt
+De pe calea cea stricată, m-ai adus pe drumul Sfânt.
+
+[v3]
+Prieteni mulți avut-am Doamne care mă chemau spre rău
+Înspre patimi și păcate, departe de harul Tău
+Dar când vocea Ta cea blândă cu iubire m-a strigat
+Am venit plângând la cruce și-n sfânt sânge m-ai spălat.
+
+[v4]
+O, Isus ce fericire ai adus în viața mea!
+Eu te laud cu iubire, Tu ești izbăvirea mea!
+Ține-mă statornic Tată, poartă-mă pe brațul Tău
+Până voi ajunge-acasă, fii ocrotitorul meu.

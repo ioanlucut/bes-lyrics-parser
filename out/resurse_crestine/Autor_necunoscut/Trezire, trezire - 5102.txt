@@ -1,0 +1,20 @@
+[title]
+Trezire trezire {author: {Anonim}, {rcId: {5102}}
+
+[sequence]
+c,v1,b,c
+
+[c]
+Trezire, trezire,
+Trezire e-aici.
+Trezire, trezire,
+Puterea Lui o vom vesti.
+
+[v1]
+De la est și de la vest,
+De la nord și sud,
+Ne plecăm mărturisind:
+Isus este Domn.
+
+[b]
+Trezire-i aici.

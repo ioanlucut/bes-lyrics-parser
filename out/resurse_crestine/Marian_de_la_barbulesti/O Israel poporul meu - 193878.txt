@@ -1,0 +1,29 @@
+[title]
+O israel poporul meu {author: {Marian de la Bărbulești}, {rcId: {193878}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: O Israel, poporul meu
+Ascultă-mă, Eu sunt Domnul tău
+De ce te temi, oare nu știi
+Căci dreapta mea te va izbăvii :/
+
+[c]
+/: Eu te iubesc
+Și nu vreau să te părăsesc
+Te port mereu
+Cu drag în sufletul meu :/
+
+[v2]
+/: O Israel, copilul meu
+Știu că aștepți ajutorul meu
+Mai rabdă un ceas, mereu stai treaz
+Și Domnul Tău te va scoate din necaz :/
+
+[v3]
+/: O Israel, tu nu uita
+Apele in două pentru tine le voi da
+Dușmanii tăi îi voi lovi
+Și te voi duce in veșnicii :/

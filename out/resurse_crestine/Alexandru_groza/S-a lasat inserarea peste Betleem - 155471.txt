@@ -1,0 +1,31 @@
+[title]
+S-a lasat inserarea peste betleem {author: {Alexandru Groza}, {rcId: {155471}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+S-a lăsat înserarea peste Betleem
+Și Maria cu Iosif tot caută mereu,
+Dar se-aude, nu-i loc pentru ei în oraș,
+Ca să nască Sfântul Copilaș.
+Iată steaua le-arată un drum spre sălaș,
+Acolo se va naște Micul Copilaș,
+Într-o iesle săracă, umil S-a născut,
+Împăratul făr’ de început.
+
+[c]
+Ce simfonie sfântă, un cor de îngeri cântă,
+Sunt vremuri împlinite în Pruncul Isus,
+Magii și păstorașii grăbesc să I se-nchine,
+E ceru-n sărbătoare, Tatăl e preamărit.
+
+[v2]
+Profeție-mplinită în Pruncul Isus,
+Bucuria iertării din cer ne-a adus,
+Și-n lumina lui sfântă pământu-i sfințit,
+Că din cer Pruncul Sfânt a venit.
+I-a priviți, colo-n iesle Sfântul Copilaș,
+Somnul lin îl veghează mii de îngerași,
+Sărbătoare e-n Ceruri și jos pe Pământ,
+Preamăriți pe Isus, Pruncul Sfânt!

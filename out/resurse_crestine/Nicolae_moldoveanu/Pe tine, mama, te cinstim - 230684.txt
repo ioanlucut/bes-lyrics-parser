@@ -1,0 +1,25 @@
+[title]
+Pe tine mama te cinstim {author: {Nicolae Moldoveanu}, {rcId: {230684}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Pe tine, mamă, te cinstim, căci tu de mici ne-ai învățat
+credința sfântă s-o păzim, mergând pe drumul ei curat.
+
+[c]
+Bine te cuvânte sfântul Dumnezeu,
+asta-i rugăciunea ce-o-nălțăm mereu!
+
+[v2]
+Cu lacrimi, ne vorbeai duios, ca să-nțelegem lămurit
+iubirea Domnului Hristos, ce mult pe cruce-a pătimit.
+
+[v3]
+Ne-ai învățat să ne rugăm, să fim ascultători mereu,
+și-ntreagă inima s-o dăm de mici, deplin, lui Dumnezeu.
+
+[v4]
+Pe tine, mamă, te cinstim, curat și proaspăt pe pământ,
+iubirea noastră-ți dăruim, c-așa-mplinim Cuvântul sfânt.

@@ -1,0 +1,29 @@
+[title]
+Sa fiu smerit {author: {Narcisa P.}, {rcId: {60136}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Să fiu smerit, cu inima și viața...
+Cu tot ce am crezut că-mi aparține...
+Să îți dau Ție gândurile mele
+Și tot mai mult să Te doresc pe Tine.
+
+[c]
+/: Eu n-am fost singur niciodată
+Oricât de greu mi-a fost paharul,
+Ai suferit cu mine-odată
+Doar Tu mi-ai înțeles amarul. :/
+
+[v2]
+Să fiu smerit, cu inima și viața...
+Cu faptele care mereu vorbesc.
+Să îți dau Ție lacrimile mele
+Și tot mai mult, pe Tine să Te iubesc.
+
+[c2]
+/: Eu n-am fost părăsit de Tine
+În suferința cea mai grea,
+În orice clipă ai fost cu mine
+Ca să-mi alini durerea mea. :/

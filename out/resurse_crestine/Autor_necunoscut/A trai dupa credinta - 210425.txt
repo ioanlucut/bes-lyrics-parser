@@ -1,0 +1,45 @@
+[title]
+A trai dupa credinta {author: {Anonim}, {rcId: {210425}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+A trăi dupa credință
+Nu-i ușor, dar nici nu-i greu
+A trăi dupa credință
+E la om cu neputință
+/: Însă nu la Dumnezeu. : \
+A trai dupa credință
+E la om cu neputință
+Însă nu la Dumnezeu.
+
+[v2]
+A trăi după iubire
+Nu-i ușor, dar nici nu-i greu
+A trăi după iubire
+E o cruce pentru fire
+/: Și o-nviere-n Dumnezeu. : \
+A trăi după iubire
+E o cruce pentru fire
+Și o-nviere-n Dumnezeu.
+
+[v3]
+A umbla pe ape-n spume
+Nu-i ușor, dar nici nu-i greu
+A umbla pe ape-n spume
+E-a muri față de lume
+/: Și-a trăi în Dumnezeu. : \
+A umbla pe ape-n spume
+E-a muri față de lume
+Și-a trăi în Dumnezeu.
+
+[v4]
+Dar a fi în necredință
+E ușor, dar nu mereu.
+Căci a fi in necredință
+Și-a muri fără căință
+/: Doamne, nu-i nimic mai greu. : \
+Căci a fi in necredință
+Și-a muri fără căință
+Doamne, nu-i nimic mai greu.

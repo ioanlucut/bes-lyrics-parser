@@ -1,0 +1,41 @@
+[title]
+Amar ai suferit (fa min) {author: {Mirela Ursulescu}, {rcId: {176617}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c2
+
+[v1]
+Te-ai coborât din slăvile divine
+Ai renunțat Isuse pentru mine
+Ca să plătești păcatul meu
+Să mă numești copilul Tău.
+
+[c]
+Amar ai suferit
+(2x): Și mult te-au chinuit
+La moarte ai fost dat
+Ca eu să fiu salvat.
+
+[v2]
+Tu numai bine ai făcut Isuse
+Dar ei te-au răstignit pe o cruce
+Ca eu să pot primi în dar
+Mântuirea Ta prin har
+
+[v3]
+La moarte ai fost condamnat Isuse
+A treia zi ai inviat cum spuse-i
+Ca eu să fiu răscumpărat
+De osândă și păcat.
+
+[v4]
+Apoi la cer te-ai înălțat Isuse
+Să pregătești un loc, să fiu cu Tine
+Când dup-ai Tăi, Tu vei veni
+Să fiu cu Tine-n veșnicii.
+
+[c2]
+Îți mulțumesc Isus
+(2x): Și te iubesc nespus
+Căci prețul ai plătit
+Să pot fi mântuit.

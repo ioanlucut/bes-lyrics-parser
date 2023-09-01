@@ -1,0 +1,28 @@
+[title]
+Vezi ziua s-a dus si seara-i pe drum {author: {Nicolae Moldoveanu}, {rcId: {5451}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Vezi, ziua s-a dus și seara-i pe drum;
+Soarele-i spre apus, coboară de acum.
+Privește în sus: splendori vei vedea
+Acolo-i Isus, mântuirea ta!
+
+[c]
+/: Noi vrem să te întorci cât mai este timp;
+Curând tu vei vrea, dar nu vei mai putea...
+Ușa se va-ncuia! :/
+
+[v2]
+Noaptea va veni și îți va lua
+Speranța ce zici c-o mai poți avea.
+Hai, vino acum, mult timp n-a rămas,
+Căci noaptea-i pe drum, e chiar la un pas!
+
+[v3]
+Rămâne de-acum să te hotărăști;
+Alege-ți un drum, și-apoi să pornești;
+Spre cer e mai greu, dar ești răsplătit,
+Căci sufletul tău va fi mântuit.

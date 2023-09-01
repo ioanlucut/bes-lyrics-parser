@@ -1,0 +1,41 @@
+[title]
+Asteptam pe domnul el va veni {author: {Alexandru Groza}, {rcId: {185703}}
+
+[sequence]
+v1,c,v2,c,v3,c2,v4,c2
+
+[v1]
+Așteptăm pe Domnul: El va veni
+Tot ce-a promis El se va împlini!
+Mult n-a rămas pân’ la-acel ceas
+Și-n strălucire cu Domnul vom fi!
+
+[c]
+Ce e scris se împlinește
+Vino și te pocăiește!
+Ziua mare e aproape,
+O, crede și tu!
+
+[v2]
+Vestea bună este trimisă de sus
+Inima ta dă-i-o azi lui Isus!
+Mult n-a rămas pân’ la-acel ceas
+Și-n strălucire cu Domnul vom fi!
+
+[v3]
+Cerul și pământul vor trece-ntr-o zi
+Dar cei aleși cu El veșnic vor fi!
+Mult n-a rămas pân’ la-acel ceas
+Și-n strălucire cu Domnul vom fi!
+
+[c2]
+După multă așteptare
+Cerul va fi-n sărbătoare
+Bucuria va fi mare
+O crede și tu!
+
+[v4]
+Așteptăm pe Domnul: El va veni
+Tot ce-a promis El se va împlini!
+Mult n-a rămas pân’ la-acel ceas
+Și-n strălucire cu Domnul vom fi!

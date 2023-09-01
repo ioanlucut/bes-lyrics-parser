@@ -1,0 +1,30 @@
+[title]
+Mergem inspre cer {author: {Anonim}, {rcId: {5170}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Mergem înspre cer
+/: În țara de sus :/ x3
+Unde-s bucurii
+
+[v2]
+Calea e isus
+/: Spre țara de sus :/ x3
+Unde-s bucurii
+
+[v3]
+Totu-i pregătit
+/: În țara de sus :/ x3
+Unde-s bucurii
+
+[v4]
+Nu mai sunt dureri
+/: În țara de sus :/ x3
+Ci doar bucurii
+
+[v5]
+N-ai vrea tu să mergi
+/: În țara de sus :/ x3
+Unde-s bucurii

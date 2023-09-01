@@ -1,0 +1,17 @@
+[title]
+Astazi sa ne veselim {author: {Nicolae Moldoveanu}, {rcId: {226654}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Astăzi să ne veselim căci pe Domnul Îl iubim,
+împrejurul Lui venim, și din inimă-L slujim!
+
+[c]
+Plin de bucurie, noi cu veselie Îi aducem mulțumire
+Plini de bucurie și de veselie, pentru marea Lui iubire!
+
+[v2]
+Slavă, slavă-I vom cânta, Numele-I vom lăuda,
+și în lume cât vom sta, noi pe Domnul vom urma!

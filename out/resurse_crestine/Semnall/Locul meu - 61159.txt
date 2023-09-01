@@ -1,0 +1,36 @@
+[title]
+Locul meu {author: {Semnall}, {rcId: {61159}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Acolo unde timpul nu se măsoară,
+Acolo unde-orice vise, nu mai e vis,
+Acolo unde răul nu se strecoară,
+Acolo, sus acolo, în paradis
+Acolo unde-s gândurile mele
+Mi-e dor de locu-acela, o Domnul meu,
+Unde pot zbura alături de stele
+Sus, în ceruri, acolo e locul meu...
+
+[c]
+Unde vrei să fiu,
+Pe Pământ cât timp trăiesc
+Spune-mi să știu
+Nicio clipă nu vreau să risipesc
+Cred c-am un rol
+Și mă duc chiar dacă știu că mi-e greu
+Să-mplinesc
+Ce-ai ales pentru mine,
+Tu cunoști cel mai bine locul meu...
+
+[v2]
+Acolo unde pacea stăpânește
+Acolo unde lacrimi nu vor mai fii
+Acolo unde durerea loc nu-și găsește
+Acolo, departe-acolo, în veșnicii
+Acolo unde-s gândurile mele,
+Mi-e dor de locu-acela, o Domnul meu
+Unde pot zbura alături de stele
+Sus, în ceruri, acolo e locul meu

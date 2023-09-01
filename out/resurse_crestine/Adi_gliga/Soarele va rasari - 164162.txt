@@ -1,0 +1,21 @@
+[title]
+Soarele va rasari {author: {Adi Gliga}, {rcId: {164162}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Doamne știi, e-o lume-n care-i tot mai frig
+Prea multe suflete se sting, e ger!
+Până vii iubirea Ta va încălzi
+Pe orice om Te va-ntalni, om bun.
+
+[c]
+Dar iarna nu va sta, soarele va răsări
+Și aștept, viața care va veni.
+
+[v2]
+E prea frig, departe de tot ce ești Tu
+O, Doamne atinge sufletul, înghețat
+Știu va fi, și primăvara într-o zi
+Voi vedea ce-am așteptat, ce am visat.

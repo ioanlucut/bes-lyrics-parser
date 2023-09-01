@@ -1,0 +1,27 @@
+[title]
+Am bucurie {author: {Otto Pascal}, {rcId: {3725}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+/: Am o pace ca o mare :/ x3
+În inima mea.
+
+[v2]
+/: Am bucurie ca fântâna :/ x3
+În inima mea.
+
+[v3]
+/: Fiindcă Isus este-n mine :/ x3
+În inima mea.
+
+[v4]
+/: Am iubire ca un fluviu :/ x3
+În inima mea.
+
+[v5]
+Am bucurie ca fântâna
+Am o pace ca o mare
+Am iubire ca un fluviu
+În inima mea

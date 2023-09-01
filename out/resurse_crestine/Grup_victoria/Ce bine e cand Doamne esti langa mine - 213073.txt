@@ -1,0 +1,29 @@
+[title]
+Ce bine e cand doamne esti langa mine {author: {Grup Victoria}, {rcId: {213073}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Ce bine e când Doamne ești lângă mine
+Și-n încercarea grea îmi ești ajutor
+Chiar lacrimi de curg pe obraz în noapte
+Tu te prezinți ca mângăietor
+
+[c]
+/: Ce-as fi dacă tu Doamne m-ai părăsi
+Și ți-ai întoarce privirea de la mine
+Un fir de praf spulberat în vânt
+Nici suflare n-as avea de n-ai fi cu mine :/
+
+[v2]
+Mi-e sufletul însetat după tine
+Am alergat pe alte căi rătăcind
+Așa cum sunt acum eu vin la tine
+Primește-mă din nou la pieptu-ți să mă stângi
+
+[c2]
+/: Mi-e dor de-a ta îmbrățișare
+Să simt că m-ai iertat și mă primești
+Știu că nu merit nimic o Doamne
+Primește-mă din nou să-ți cad la piept :/

@@ -1,0 +1,60 @@
+[title]
+Ca pe vremea lui avraam {author: {David Stănuș}, {rcId: {153077}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Ca pe vremea lui Avraam
+Vremuri azi trăim și noi
+Când am vrea din loc în loc
+Iarăși cortul să-l mutăm.
+Se vede cum lui Faraon
+Bogățiile-i sporesc
+Pace e doar în Gosen
+Ca un adăpost ceresc.
+
+[c]
+Ca profetul Habacuc
+Totul dacă ar pieri
+Cu Domnul eu m-oi bucura
+Și pe El îl voi iubi!
+Din pustie face lacuri
+Stânca în izvor de ape
+Peste Soare pune nor
+Să umbrească al Său popor
+Dumnezeu e-atât de-aproape!
+
+[v2]
+Trec caravanele mereu
+Spre toate cele patru zări
+Cu negustorii ce te cheamă
+Să mergi cu ei spre alte zări.
+Nu coborî spre Ierihon
+Pe drumul lui mai sunt tâlhari
+Ce vor să prindă orice om
+Să-i facă viața un calvar.
+
+[v3]
+Dacă privim la fel ca Lot
+Din înălțimi pe vale-n jos
+Am fi la fel ca Așael
+Străpunși de spada lui Abner.
+Am fi aproape de Canaan
+Netrecând peste Iordan
+Am fi la fel ca un popor
+Fără un conducător.
+
+[c2]
+/: Ca profetul Habacuc
+Totul dacă ar pieri
+Cu Domnul eu m-oi bucura
+Și pe El îl voi iubi!
+Din pustie face lacuri
+Stânca în izvor de ape
+Peste Soare pune nor
+Să umbrească al Său popor
+Dumnezeu e-atât de-aproape! :/
+Peste Soare pune nor
+Să umbrească al Său popor
+Dumnezeu e-atât de-aproape!

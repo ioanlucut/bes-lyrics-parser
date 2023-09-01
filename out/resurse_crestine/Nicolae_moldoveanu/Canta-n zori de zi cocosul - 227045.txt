@@ -1,0 +1,31 @@
+[title]
+Canta-n zori de zi cocosul {author: {Nicolae Moldoveanu}, {rcId: {227045}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cântă-n zori de zi cocoșul:
+”
+Cucurigu, cucurigu!”—vă treziți, vă treziți,
+pentru joacă, pentru școală,
+dragi copii, vă pregătiți!
+
+[c]
+Dar întâi de toate voi să nu uitați.
+Dumnezeului cel veșnic, Lui să vă rugați
+și cu glasul vostru toți să-L lăudați!
+
+[v2]
+Cântă-n orice zi cocoșul:
+”
+Cucurigu, cucurigu!”—vă sculați, vă sculați,
+Dumnezu l-a pus de veghe:
+cântul lui să-l ascultați!
+
+[v3]
+Cântă-n limba lui cocoșul:
+”
+Cucurigu, cucurigu!”—tot mereu, tot mereu,
+Dragi copii, în limba voastră,
+lăudați pe Dumnezeu!

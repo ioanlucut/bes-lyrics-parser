@@ -1,0 +1,57 @@
+[title]
+In noaptea ce trecuse un vis eu am visat {author: {Anonim}, {rcId: {66967}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+In noaptea ce trecuse un vis eu am visat,
+Era a judecatii zi si Isus Imparat,
+Milioane de oameni in jurul Lui stateau,
+Dar Isus trist spre ei privi si astfel le vorbi:
+
+[c]
+”
+Vai cat de rau imi pare
+Plecati nicicind nu v-am stiut
+Vai cat de rau imi pare
+Mergeti cu-acel ce-n viata i-ati slujit”
+
+[v2]
+Dar a sosit si timpul spre mine a privi,
+I-am spus atunci lui Isus ca-n viata i-am slujit
+Atunci in marea carte El numele-mi cauta
+Dar negasindu-l trist privi si astfel imi vorbi:
+
+[c2]
+”
+Vai cat de rau imi pare
+Caci rod in viata n-ai avut
+Vai cat de rau imi pare
+Pleci cu acel ce-n viata iai slujit”
+
+[v3]
+Sotia si copii in dreapta i-am zarit
+Cu totii-n haine albe cum e crinul inflorit
+Coroana de lumina pe capete purtau
+Fetita mea spre-min privi si astfel imi vorbi:
+
+[c3]
+”
+Ah draga scumpe tata
+Ne pare rau ca tu ramai
+Noi te iubim scump tata
+Dar tu in cer cu noi nu poti sa vii”
+
+[v4]
+Cand somnul se sfarsise cu ochii-n-lacrimati
+Priveam mirat in jurul meu de ceea ce vedeam
+Sotia si copii dormeau in somn adanc
+Atunci din somn mi-am revenit in ruga implorind:
+
+[c4]
+”
+Tata ce esti in in glorii
+La Tine vreau acum sa vin
+Viata mea ti-o dau Tie
+La Tine vreau s-ajung Rege Divin”

@@ -1,0 +1,30 @@
+[title]
+Chibzuieste-ti timpul {author: {Speranța}, {rcId: {111027}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Chibzuiește-ți timpul, om al lui Dumnezeu!
+Timpul e-o valoare, nu-l risipi mereu!
+/: Se pune o-ntrebare, încearcă să răspunzi!
+”
+Ai timp și pentru suflet ?” Te rog să mă auzi! :/
+
+[v2]
+Chibzuiește-ți timpul, om al lui Dumnezeu!
+Te rog citește Biblia, să nu o neglijezi!
+/: Când alții studiază chiar multe ore-n șir
+Te-ntreb de ai dorința vreo slovă să inspiri ? :/
+
+[v3]
+Chibzuiește-ți timpul, om al lui Dumnezeu!
+Nu vezi ce bogăție este-n Cuvântul Său ?
+/: Orice făgăduințe sunt scrise în Cuvânt!
+Te bucuri tu de ele, sau parcă nici nu sunt ? :/
+
+[v4]
+Chibzuiește-ți timpul, om al lui Dumnezeu!
+Și strânge ca albina, în vasul tău mereu
+/: Valori ce pot în viață, să-ți dea puteri de sus
+Te rog nu pierde timpul, urmează-L pe Isus :/

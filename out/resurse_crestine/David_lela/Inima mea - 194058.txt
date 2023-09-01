@@ -1,0 +1,38 @@
+[title]
+Inima mea {author: {David Lela}, {rcId: {194058}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+/: Inima mea, inima mea
+Strigă-ntruna Doamne
+Mare-i slava Ta!
+ /:
+
+[v1]
+Am o rană-n suflet
+Și e tare grea
+Nimenea nu poate
+A mi-o vindeca
+Rana mă apasă
+Si-s îndurerat
+Numai Tu Isuse
+Mi-o poti alina.
+
+[v2]
+Am umblat în lume
+Si-am fost rătăcit
+Dar satana Doamne
+Mult m-a mai lovit
+Nu Te-am stiut Doamne
+Nu Te-am cunoscut!
+Petreceam în lume
+Zi de zi mai mult!
+
+[v3]
+/: Într-o noapte mare
+Într-o noapte grea
+M-a trezit Stăpânul
+Fiindcă mă iubea.
+ /:

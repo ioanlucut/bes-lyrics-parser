@@ -1,0 +1,25 @@
+[title]
+Nu-i altul pe pamant {author: {Anonim}, {rcId: {180226}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Nu-i altul pe pământ, nu-i altul sus în cer
+Domnul meu mi-e de-ajuns
+”
+Fericirea mea e să m-apropii de El”
+
+[c]
+Nu mi-e teamă să pierd totul
+Îmi rămâne El
+Doar să știu ca mi-alături
+Și toate-s la fel
+Eu știu Domnul meu mi-e de-ajuns
+Fericirea mea e să m-apropii de El
+
+[v2]
+El e plăcerea mea, e tot e moștenesc
+Singurul meu câștig
+”
+Fericirea mea e să m-apropii de El”

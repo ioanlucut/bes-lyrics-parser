@@ -1,0 +1,21 @@
+[title]
+Da-mi iubirea ta isus {author: {Elvis din Barbulesti}, {rcId: {166008}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+/: Dă-mi iubirea Ta Isus ca să văd prin ea
+Doar așa eu voi putea să iubesc, să iert
+Și să accept pe cei ce mă lovesc. :/
+
+[c]
+/: Fără dragoste pustie-mi este viața,
+Fără dragoste sufletul mi-e gol,
+Tu ești dragostea care s-a jertfit
+Suferind pedeapsa pentru vina mea. :/
+
+[v2]
+/: Dă-mi iubirea Ta Isus să îndur prin ea
+Vânturi reci care se-abat peste viața mea
+Eu le îndur doar prin dragostea Ta. :/

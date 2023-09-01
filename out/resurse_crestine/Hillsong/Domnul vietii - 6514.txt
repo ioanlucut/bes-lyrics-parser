@@ -1,0 +1,36 @@
+[title]
+Domnul vietii {author: {Hillsong, Traducere RO}, {rcId: {6514}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Domnul vieții
+Coboară slava Ta
+Tu ești bun, Tu ești bun
+Fiu neprihănit
+Cu toată inima
+Pe Tin’ te vreau.
+
+[c]
+Viață tu dai,
+Speranță ești celui pierdut
+Întreg pământ
+E luminat de glorie
+Ești Dumnezeul viu,
+Cel ce mă vindecă
+Speranță mea Tu ești Isus.
+
+[v2]
+În tot ce ai promis,
+Tu ești Credincios
+În țin’ mă-ncred în orice zi
+Rege veșnic,
+Domnești glorios
+Fii slăvit!
+
+[e]
+Pe noi Tu ne-ai salvat
+Pacea Ta ne-ai lăsat
+Ești Domnul meu
+Ești tot ce am.

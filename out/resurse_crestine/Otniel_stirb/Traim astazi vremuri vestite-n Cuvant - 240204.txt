@@ -1,0 +1,42 @@
+[title]
+Traim astazi vremuri vestite-n cuvant {author: {Otniel Stirb}, {rcId: {240204}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Trăim astăzi vremuri vestite-n Cuvânt
+E tot mai lovită credința
+Se simte-o răceală-n poporul cel sfânt
+Și mulți au schimbat pocăința.
+
+[c]
+/: Ne-aducem aminte de vremi de demult
+Cu oaze de har cristaline
+Dar Domnul lucrează la fel ca-n trecut
+Depinde de are cu cine :/
+
+[v2]
+Sunt mulți prinși în iureșul lumii de-acum
+Mamona e idolul vremii
+Poporul își pierde răbdarea pe drum
+Atras de oferte și premii
+
+[c2]
+/: Sunt tot mai puțini azi creștinii curați
+Cu mintea și inima trează
+Dar Domnul mai are-n biserică frați
+Ce-n taină mai plâng și veghează :/
+
+[v3]
+Nu-i vremea acum să privim înapoi
+Spre lumea cu masa-i întinsă
+Egiptul e-n urmă, iar Domnul pe noi
+Ne cheamă-nspre țara promisă
+
+[c3]
+/: E vremea când Mirele vine pe nori
+Să dea fiecărui răsplata
+”
+Trezire!” se strigă, azi, frați și surori
+El vine-n curând, Maranata! :/

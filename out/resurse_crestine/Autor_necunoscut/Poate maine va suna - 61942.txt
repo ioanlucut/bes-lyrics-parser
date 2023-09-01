@@ -1,0 +1,37 @@
+[title]
+Poate maine va suna {author: {Anonim}, {rcId: {61942}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Poate mâine va suna
+Trâmbița ce va chema
+Pe cei sfinți în cer în slava Sa
+/: Pe acei ce pe pământ
+Au luptat și-au biruit
+Și de lume nu s-au alipit! :/
+
+[v2]
+Dar atunci se va vedea
+De-ai fost grau sau pleava rea
+Că cei sfinți de-aicea vor pleca
+/: Dacă-ai fost creștin supus
+Și-ai făcut ce-a spus Isus
+Te va duce și pe tine sus! :/
+
+[v3]
+Însă vai ce trist va fi
+Pentru cei ce L-au respins
+Plata lor va fi iadul aprins!
+/: Că aici au refuzat
+Harul care le-a fost dat
+Prin Isus cea fost crucificat! :/
+
+[v4]
+Nu uita a te-ntreba
+Dacă mâine vei pleca
+Unde va fi veșnicia ta?
+/: Vei fi-n ceruri cu Isus?
+Sau în ghenă vei fi dus?
+Numai tu poți ca să-ți dai răspuns :/

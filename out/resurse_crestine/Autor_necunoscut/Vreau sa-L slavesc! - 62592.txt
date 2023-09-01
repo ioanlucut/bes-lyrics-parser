@@ -1,0 +1,29 @@
+[title]
+Vreau sa-l slavesc {author: {Anonim}, {rcId: {62592}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+/: Vreau să-L slăvesc
+Pe Mielul Lui Dumnezeu! :/
+Pentru-asta sunt aici,
+Nu am altă dorință
+Vreau să-L slăvesc
+Pe Mielul Lui Dumnezeu!
+
+[v2]
+/: Vreau să-L ador
+Pe Mielul Lui Dumnezeu! :/
+Pentru-asta sunt aici,
+Nu am altă dorință
+Vreau să-L ador
+Pe Mielul Lui Dumnezeu!
+
+[v3]
+/: Vreau să-L înalț
+Pe Mielul Lui Dumnezeu! :/
+Pentru-asta sunt aici,
+Nu am altă dorință
+Vreau să-L înalț
+Pe Mielul Lui Dumnezeu!

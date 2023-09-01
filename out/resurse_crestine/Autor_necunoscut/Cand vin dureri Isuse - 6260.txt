@@ -1,0 +1,41 @@
+[title]
+Cand vin dureri isuse {author: {Anonim}, {rcId: {6260}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Când vin dureri Isuse
+Când trecem prin nevoi
+/: Tu ești pe țărmul vieții
+Necunoscut de noi. :/
+
+[c]
+/: Noi nu vedem atuncea
+Decât ce-i neplăcut
+Dar Tu ești în durere
+De noi necunoscut. :/
+
+[v2]
+Când n-e senin tot cerul
+Când haruri curg șuvoi
+/: Tu ești pe țărmul vieții
+Necunoscut de noi. :/
+
+[c2]
+/: Noi înțelegem numai
+Când ochii ne-au văzut
+Dar Tu ești cel ce dărui
+De noi necunoscut. :/
+
+[v3]
+Când tot ce vine-n viață
+În senin, nori ori ploi
+/: Ești Tu ascuns în ele
+Necunoscut de noi. :/
+
+[c3]
+/: Dar la sfârșit când toate
+Vor fi cum n-am știut
+Te vom vedea Isuse
+Cum nu Te-am cunoscut. :/

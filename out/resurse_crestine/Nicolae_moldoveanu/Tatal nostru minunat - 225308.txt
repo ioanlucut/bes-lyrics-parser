@@ -1,0 +1,17 @@
+[title]
+Tatal nostru minunat {author: {Nicolae Moldoveanu}, {rcId: {225308}}
+
+[sequence]
+v1,v2
+
+[v1]
+Tatăl nostru minunat, Dumnezeu adevărat,
+Te lăudăm, Te lăudăm, Te lăudăm cu duhul înălțat,
+Te lăudăm cu cânt înflăcărat! Te lăudăm, Te lăudăm
+pe Tine, Tatăl nostru minunat, Te lăudăm, Te lăudăm!
+
+[v2]
+Tatăl nostru preaslăvit, Dumnezeu nemărginit,
+Te lăudăm, Te lăudăm, Te lăudăm cu sufletul smerit,
+Te lăudăm cu cânt însuflețit! Te lăudăm, Te lăudăm,
+Pe Tine, Tatăl nostru preaslăvit, Te lăudăm, Te lăudăm!

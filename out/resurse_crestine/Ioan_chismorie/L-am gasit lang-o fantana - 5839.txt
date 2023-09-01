@@ -1,0 +1,42 @@
+[title]
+L-am gasit lang-o fantana {author: {Ioan Chismorie}, {rcId: {5839}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+L-am găsit lang-o fântână
+Obosit de drum, setos;
+Mi-a cerut apă să beie,
+Dar n-am știut că e Hristos.
+
+[c]
+Mi-a fost rușine să stau de vorbă,
+Dar El nu S-a rușinat;
+Mi-a spus că-n ceruri îngerii cântă,
+Și-o haină albă El mi-a păstrat.
+
+[v2]
+Am vorbit cu El obraznic
+Și L-am privit cu dispreț,
+Fără să știu că El pe mine
+Pune-așa de mare preț.
+
+[v3]
+Nu L-am mai văzut vreodată,
+Dar când spuse-al meu secret,
+Mă-nchinai, privindu-I fața,
+Și am zis: „
+Tu ești profet!”
+
+[v4]
+Toată viața mea întreagă
+Cum a fost, mi-a arătat;
+Am văzut că-i ruinată,
+Dar mi-a spus că m-a iertat.
+
+[v5]
+Nu L-am mai văzut vreodată
+Așa trist precum era;
+Dar mi-a spus că El mă iartă
+Și, așa cum sunt, mă vrea.

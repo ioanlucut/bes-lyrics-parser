@@ -1,0 +1,23 @@
+[title]
+Azi e sarbatoare (sing we now of christmas) {author: {Noël Nouvelet, Traducere RO}, {rcId: {222043}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Azi e sărbătoare, Domnul e slăvit
+Noi venim cu laude către Cel iubit.
+Ni s-a născut al nostru Domn de sus
+Cântecul măririi laudă pe Isus.
+
+[v2]
+La păstori, un înger li s-a-nfățișat
+Și o veste mare ei, toți, au aflat.
+Ni s-a născut al nostru Domn de sus
+Cântecul măririi laudă pe Isus.
+
+[v3]
+Cu a ei lumină, steaua de pe cer
+I-a condus pe-acei magi înspre Betleem.
+Ni s-a născut al nostru Domn de sus
+Cântecul măririi laudă pe Isus.

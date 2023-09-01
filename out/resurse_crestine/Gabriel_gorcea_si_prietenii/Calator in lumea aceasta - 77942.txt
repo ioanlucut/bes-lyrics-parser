@@ -1,0 +1,32 @@
+[title]
+Calator in lumea aceasta {author: {Gabriel Gorcea și prietenii}, {rcId: {77942}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: În lumea aceasta eu sunt călător
+Pornesc înspre țara de sus
+Acolo e ținta unde vreau s-ajung
+În cer unde e Isus :/
+
+[c]
+Sunt trecător pe-acest Pământ
+Sunt călător spre locul preasfânt
+/: Când voi sfârși alergarea pe Isus voi vedea
+Cu brațele deschise mă va aștepta
+Voi vedea pe Domnul ce m-a iubit
+Și-mi va spune duios: ”
+Bine-ai venit!” :/
+
+[v2]
+/: În lumea aceasta eu sunt un străin
+Nimic nu mă leagă de ea
+Nu vreau să adun comori pe Pământ
+Căci în cer e țara mea :/
+
+[v3]
+/: În lumea aceasta cât voi trăi
+Vreau să-L urmez pe Isus
+Pe urmele Lui să pășesc
+Până voi ajunge sus :/

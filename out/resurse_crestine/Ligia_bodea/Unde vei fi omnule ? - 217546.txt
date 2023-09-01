@@ -1,0 +1,33 @@
+[title]
+Unde vei fi omnule ? {author: {Ligia Bodea}, {rcId: {217546}}
+
+[sequence]
+v1,c,v2,c,v3,c,c
+
+[v1]
+Stiu, Vei reveni, Isus cu mare Slava
+Iar ziua aceea va fi pentru multi de groaza
+Vor vedea fata Ta, toti de pe pamant,
+Caci Tu Esti Sfant, Sfant, Sfant,
+De trei ori Sfant!
+
+[c]
+Unde vei fi omule? Unde vei fi?
+Cand trambita se va auzi
+Unde vei fi omule? Unde vei fi?
+Niciunde n-ai sa poti fugi
+
+[v2]
+Va pasi in haine Sfinte, inchins cu brau de aur
+Si cerul se deschide, in fata Sa
+Plin de Slava, cu ingeri mii si mii,
+Tot pamantul, va sta naintea Sa
+Si ma va privi pe mine si pe tine
+Nimic nu e ascuns, nici macar un gand
+Glasul Lui va rasuna pe-ntreg pamant
+
+[v3]
+Mii de ingeri cu mireasa, vor canta in cor
+Tot pamantul sa auda, Mielul E Biruitor!
+Glasul Lui ca vuietul, ochii, para focului,
+Fata straluceste ca soarele

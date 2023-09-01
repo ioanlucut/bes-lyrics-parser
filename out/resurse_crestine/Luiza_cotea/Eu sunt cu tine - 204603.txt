@@ -1,0 +1,37 @@
+[title]
+Eu sunt cu tine {author: {Luiza Cotea}, {rcId: {204603}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Domnul Meu spre Tin’ ridic privirea,
+Viața mea este în mâna Ta.
+Al meu suflet în veci va cânta,
+Mereu Te voi lăuda.
+
+[c]
+Iubirea Ta este peste mine,
+Blândețea Ta în veci va birui,
+A Ta suflare viață ne aduce.
+Doar Tu, în veci cu noi vei fi.
+Domnul meu, Tu îmi ești puterea
+Duhul Tău, mă va călăuzi.
+De drumu-i greu, Tu vei fi cu mine,
+Cărarea Tu vei netezi.
+Îți mulțumesc căci știu că ești cu mine,
+Că îmi ești scut în lupta grea,
+Că mă-înveți să stau lângă Tine.
+În veci, iubirea-Ți voi cânta!
+
+[v2]
+În încercări la Tine vin în grabă,
+Iar Tu, Isus, în brațe mă cuprinzi.
+Atunci sigur de iubirea Ta,
+Răspuns voi aștepta.
+
+[e]
+Nu te teme, sunt cu tine
+Nu te-uita cu îngrijorare,
+Eu te întăresc, știi bine,
+Dreapta Mea-i biruitoare

@@ -1,0 +1,30 @@
+[title]
+S-a implinit promisiunea {author: {Nicu Rusu}, {rcId: {84644}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,v4,c
+
+[c]
+S-a-mplinit ce Domnul a promis
+Căci pe Fiul Său, El L-a trimis
+
+[v1]
+Prin fecioara Maria, s-a-ntrupat Mesia,
+Undeva-n Iudeea,
+ /: la Betleem :/
+
+[v2]
+A venit din iubire, pentru omenire,
+Să dea mântuire
+ /: celor pierduți :/
+
+[v3]
+De aceea noi astăzi, plini de bucurie,
+Vrem ca toți să știe despre Isus, cine-I Isus!
+
+[v4]
+Doamne Tată, noi Îți mulțumim,
+Și din inimă Te proslăvim:
+Pentru harul Tău mare, pentru îndurare,
+Binecuvântarea
+ /: de-ați fi copii! :/

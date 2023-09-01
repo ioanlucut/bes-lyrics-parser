@@ -1,0 +1,23 @@
+[title]
+Cat de mare esti isus {author: {Debora Arman}, {rcId: {153825}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cât de mare ești Isus, cât ești Tu de frumos
+Tu Domnești în slavă sus, în Cerul glorios
+
+[c]
+Serafimii laude Îți cântă-n cor
+Ne-ncetat ei Te slăvesc
+Sfânt ești Doamne, Domnul oștirilor
+Fii lăudat o Miel Ceresc
+
+[v2]
+Vrednic ești să fii slăvit, Domnul meu minunat
+Că din Ceruri ai venit, ca eu să fiu salvat
+
+[v3]
+Viața și cântarea mea Ție Doamne-Ți închin
+Preamăresc iubirea Ta, Te laud Miel Divin

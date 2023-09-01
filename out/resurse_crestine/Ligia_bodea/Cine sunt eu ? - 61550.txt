@@ -1,0 +1,30 @@
+[title]
+Cine sunt eu ? {author: {Ligia Bodea.}, {rcId: {61550}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cine sunt eu să te-nduri de mine ?
+Ce sunt eu să-mi întinzi mâna Ta ?
+Nu Ți-am făcut niciodată vreun bine!
+Mi-e rușine, Doamne de viața mea!
+
+[c]
+/: Nu-ți întoarce fața de la mine
+Nu lua-napoi Mâna Ta
+Știu că am greșit
+Dar ai privit spre mine
+Mi-ai descătușat inima :/
+
+[v2]
+Cine-am fost eu când privirea-Ți blândă
+M-a-nvăluit pe când un plod am fost
+Mi-ai numărat fiecare clipă
+Mi-ai deschis o cale și am un rost
+
+[v3]
+Cine-am fost eu când erai pe cruce
+Te-am batocorit În rând cu ceilalți
+Privirea Ta ai întors spre mine
+Parcă-ai vrut să-mi spui ” De dragul tău ”

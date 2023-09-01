@@ -1,0 +1,35 @@
+[title]
+In noaptea sfanta de craciun (i heard the bells on christmas day) {author: {Henry W. Longfellow, John Baptiste Calkin, Traducere RO}, {rcId: {207391}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+În noaptea sfântă de Crăciun
+Atâtea clopote răsun’
+Solemn, le-am auzit spunând
+Să fie pace pe pământ!
+
+[v2]
+Și-am zis că peste tot, așa
+Creștinii cântă dragostea
+Sărbătorind pe Pruncul sfânt
+Să fie pace pe pământ!
+
+[v3]
+Și-atunci m-am plâns lui Dumnezeu
+Că nu e pace-n jurul meu
+Că mulți fac haz de-al Său Cuvânt
+Să fie pace pe pământ!
+
+[v4]
+Dar clopotele spun sonor
+Că El e-Atotstăpânitor
+Hristos e viu, nu e-n mormânt
+Să fie pace pe pământ!
+
+[v5]
+Când zorii zilei s-au ivit
+Și clopotele-au amuțit
+Ecoul lor mai cântă-n vânt
+Să fie pace pe pământ!

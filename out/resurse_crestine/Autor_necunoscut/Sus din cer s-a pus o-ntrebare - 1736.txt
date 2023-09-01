@@ -1,0 +1,35 @@
+[title]
+Sus din cer s-a pus o-ntrebare {author: {Anonim}, {rcId: {1736}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Sus din cer s-a pus o-ntrebare cine merge pe pământ?
+E nevoie de răscumpărare să-mplinească al Meu cuvânt.
+
+[c]
+/: Cine lumea rea o poate salva?
+Cine o va mântui?
+Cine-o va scăpa de pedeapsa grea?
+Cine, cine va suferi? :/
+
+[v2]
+După un timp de tăcere cumplită iată un glas se auzi
+Eu sunt cel ce Mă duc, Eu, Părinte, lumea a o mântui.
+
+[c2]
+/: Eu Sunt Cel Ce Sunt, Eu al Tău Cuvânt,
+Eu, Mesia cel trimis,
+Eu voi salva de pedeapsa grea pe
+Cei ce mă vor primi. :/
+
+[v3]
+Ce iubire și ce îndurare Dumnezeu ne-a arătat
+Când pe cruce în grea suferință Domnul Isus a răbdat.
+
+[c3]
+/: El e Mielul sfânt ce jos pe pământ
+Groaza morții-a suferit
+El, iubirea Lui, harul Domnului
+Cât de mult El ne-a iubit. :/

@@ -1,0 +1,43 @@
+[title]
+Urare {author: {Speranța}, {rcId: {1683}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Am venit din depărtare,
+Să v-aducem o urare,
+Și un dar la fiecare.
+Să aveți un an frumos,
+Și-o viață cu folos,
+O viață cu Hristos.
+
+[c]
+Un an de fericire,
+Un an cu iubire,
+/: Dumnezeu să vă dea la toată familia
+Prin Isus Hristos Mesia. :/
+
+[v2]
+Har și pace vă dorim,
+Bucurie și alin
+Si credință pe deplin.
+Îndurarea Domnului,
+Binecuvântarea Lui,
+Și arvuna Cerului.
+
+[v3]
+Astăzi noi v-am colindat,
+Sfaturi bune v-am lăsat,
+Mulțumim c-ati ascultat.
+Iar de-o fi să dați de greu,
+Amintiți-vă mereu,
+Că există Dumnezeu.
+
+[v4]
+Să rămâneți cu Isus,
+Ținta să vă fie sus,
+După cum Domnul a spus.
+Iar de nu ne-om mai vedea,
+În Împărăția Sa,
+Veșnic ne vom bucura.

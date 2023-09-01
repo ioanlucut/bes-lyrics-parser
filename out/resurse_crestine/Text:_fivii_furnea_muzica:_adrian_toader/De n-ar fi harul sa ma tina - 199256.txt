@@ -1,0 +1,29 @@
+[title]
+De n-ar fi harul sa ma tina {author: {Text: Fivii Furnea, Muzica: Adrian Toader}, {rcId: {199256}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+De n-ar fi harul să mă țină
+Cât sunt de mic și ne-nsemnat,
+/: Aș fi pierit de mult de spada
+Vrăjmașului ne-nduplecat. :/
+
+[v2]
+De n-ar fi harul să mă lege
+Mai strâns de El, mai fericit,
+/: M-ar fi-nnecat de mult durerea
+Purtată-n sufletul-mi trudit. ; /
+
+[v3]
+Prin har, cu haina cea mai nouă,
+De nu m-ar fi-mbrăcat Isus,
+/: Orfan prin lume, fără țintă,
+Povara singur mi-aș fi dus. :/
+
+[v4]
+Să cânt aș vrea pe totdeauna
+C-am fost pierdut și m-a aflat.
+/: Am fost un orb, dar prin jertfirea-I,
+Sunt fiul cerului bogat. :/

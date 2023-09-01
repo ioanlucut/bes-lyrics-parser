@@ -1,0 +1,31 @@
+[title]
+Cu dureri si cu suspine azi poporul tau {author: {Anonim}, {rcId: {3829}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+/: Cu dureri și cu suspine azi poporul Tău
+Își mănâncă Doamne pâinea și geme din greu :/
+
+[c]
+Vino Doamne la mireasa ta
+Ca să-i ștergi din ochi lacrima
+Cu lacrimi pâinea ne-o mâncăm
+Și pe tine doamne te-așteptăm
+
+[v2]
+/: Astăzi Duhul Sfânt ne spune să fim pregătiți
+Căci curând apare Domnul ca să fim răpiți :/
+
+[v3]
+/: La altarul vieți sfinte azi puțini jertfesc
+Cei mai mulți dintre ai noștri nu se mai iubesc :/
+
+[v4]
+/: Pomii care aduc roade sunt loviți mereu
+Așa pregătește domnul pe poporul său :/
+
+[v5]
+/: Anul îndurării sfinte este pe sfârșit
+Cine azi se pocăiește va fi mântuit. :/

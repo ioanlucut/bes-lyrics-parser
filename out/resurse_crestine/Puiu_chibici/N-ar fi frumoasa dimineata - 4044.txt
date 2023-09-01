@@ -1,0 +1,45 @@
+[title]
+N-ar fi frumoasa dimineata {author: {Puiu Chibici}, {rcId: {4044}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+N-ar fi frumoasă dimineața
+Cu răsăritul ei de zori
+De n-ar fi fost și adesea ceața
+Cu umbre adânci și reci fiori.
+N-ar fi frumos seninul zării
+Cu-acea splendoare de culori
+De n-ar fi fost umbra-nserării
+Și ceru-acoperit de nori.
+
+[v2]
+N-ar fi frumoasă primăvara
+Cu păsări mii cântând prin lunci
+De n-ar fi fost zăpezi și iarna
+Cu vijelii și cu nopți lungi.
+N-ar fi frumoasă biruința,
+Nici greul mai ușor de dus
+De n-ar fi fost mereu credința,
+De n-ar fi biruit Isus.
+
+[v3]
+N-ar fi frumoasă bucuria
+De n-ar fi fost și întristări,
+N-ar fi frumoasă părtășia
+De n-ar fi fost și depărtări.
+N-ar fi frumoasă fericirea
+Cu lacrimi șiroind pe obraz
+De n-am fi cunoscut iubirea
+Și rugăciunile-n extaz.
+
+[v4]
+N-ar fi frumoasă pocăința,
+Nici mântuirea azi prin har
+De n-ar fi fost și suferința,
+Și plânsul cel de pe Calvar.
+N-ar fi frumoasă reîntâlnirea
+Cu Cel ce ne-a răscumpărat
+De n-ar fi fost și despărțirea
+Și-atâtea veacuri de așteptat.

@@ -1,0 +1,35 @@
+[title]
+Zi de zi {author: {Ioan Hapca}, {rcId: {95060}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Zi de zi Doamne simțim
+Minunata Ta prezență,
+Îți cântăm și Te slăvim
+Pentru-a Ta omniprezență.
+
+[c]
+Zi de zi Te preamărim
+Căci sufletul ne-ai salvat,
+Zi de zi ne întărim
+Prin harul ce ni L-ai dat.
+
+[v2]
+Zi de zi-Ți vedem lucrarea
+În Universul în mișcare
+Și-Ți aducem închinarea...
+Căci Ești necuprins de mare.
+
+[v3]
+Zi de zi, din întuneric
+Chemăm suflete să vină
+La Cel ce-I Atotputernic,
+Plin de glorie și lumină.
+
+[v4]
+Zi de zi ne minunăm
+De necuprinsa Ta știință,
+Din inimi Te lăudăm
+Pentru-a Ta omnisciență.

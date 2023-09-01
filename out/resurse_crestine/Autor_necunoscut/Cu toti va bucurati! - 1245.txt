@@ -1,0 +1,33 @@
+[title]
+Cu toti va bucurati {author: {Anonim}, {rcId: {1245}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cu toți vă bucurați,
+Isus e Împărat,
+Veniți cu mulțumire
+Și cu gând curat!
+
+[c]
+Vă ridicați! Cu laudă
+Ale voastre glasuri înălțați!
+
+[v2]
+Al nostru Salvator
+E drept și-ndurător,
+El ne-a eliberat,
+Suntem al Său popor.
+
+[v3]
+Întregul Univers
+Ascultă-al Său cuvânt,
+El ține toate-n cer
+Și toate pe pământ.
+
+[v4]
+Cu toți vă bucurați,
+El sigur va veni
+Și-i va lua cu El pe nori
+Pe--ai Săi copii.

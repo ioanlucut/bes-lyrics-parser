@@ -1,0 +1,53 @@
+[title]
+Nu e timp mai minunat (mama) {author: {Puiu Chibici}, {rcId: {203248}}
+
+[sequence]
+v1,c,v2,c,v3,c,s,c
+
+[v1]
+/: Nu e timp mai minunat: \
+Ca vremea copilariei.
+/: Lângă mama alintat: \
+Si la masa bucuriei!
+
+[c]
+Mamă bună, mama mea,
+Alinare-n clipa grea,
+Mama mea, mama mea!
+Tu esti darul minunat,
+Insuși Domnul mi te-a dat,
+El să fie lăudat!
+
+[v2]
+/: Ce frumos era demult: \
+La căsuța părintească!
+/: Cântecul să ți-l ascult: \
+Despre patria cerească.
+
+[v3]
+/: Astazi, mamă îți aduc, : \
+Flori si lacrimi de iubire.
+/: Pentru tot ce ai facut, : \
+O adânca mulțumire!
+
+[s]
+Mamă, tu mi-ai fost mereu
+Stâlp puternic de-ancorare.
+Si mi-ai aratăt in greu
+Dragoste nespus de mare...
+De la leagănul micuț
+Pân’ la primii pași în soare
+De la plânsul din pătuț
+Până am ajuns om mare.
+Ochii tăi blânzi și miloși
+M-au vegheat fără-ncetare
+Ochi de mama, ochi miloși
+O, ce binecuvântare...
+Mamă dragă, mama mea!
+Soare blând al dimineții
+Lângă noi să fii am vrea
+Până la sfârșitul vieții!
+Iar de-o fi să pleci cândva
+Sus în cer, în veșnicie,
+Amintire ți-om păstra, mamă,
+Cu iubire mereu vie!

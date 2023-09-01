@@ -1,0 +1,30 @@
+[title]
+Rugaciunea mea {author: {Narcisa}, {rcId: {6848}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+De câte ori Te chem în rugăciunea mea
+Tu îmi răspunzi, cu-nțelepciune
+Ca Tine, Domnul meu, eu n-am pe nimenea
+Și nici nu voi avea, pe-această lume.
+
+[c]
+/: Mila Ta e tot ce am
+Mila Ta mă va ridica
+Mila Ta mă va izbăvi
+Când frică mă va copleși :/
+
+[v2]
+De câte ori Te chem, în taină în ascuns
+Tu îmi răspunzi cu izbăvire
+’
+Nainte să-ți vorbesc, Tu, gândul mi-l pătrunzi
+Și inima-mi inunzi de fericire
+
+[v3]
+De câte ori Te chem, Tu-n bunătatea Ta
+Mi-arăți iubire și dreptate
+Atât de minunat, lucrezi în viața mea
+Să pot să Te iubesc în toate

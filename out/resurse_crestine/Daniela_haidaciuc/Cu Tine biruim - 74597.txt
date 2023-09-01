@@ -1,0 +1,29 @@
+[title]
+Cu tine biruim {author: {Daniela Haidaciuc}, {rcId: {74597}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pe-acest pământ murdar, trăim prin al Tău har,
+Trăim doar prin credința-n brațul Tău.
+/: Doar în puterea Ta, ne-am pus încrederea
+Și înaintăm oricât ar fi de greu. :/
+
+[c]
+Cu Tine biruim, cu Tine biruim,
+Cu Tine biruim pe cel Rău.
+Și biruitori, sus, mai sus de nori,
+Ne vom înălța învingători.
+
+[v2]
+În această lume rea, trăim prin jertfa Ta
+Luptând cu răul pentru slava Ta, luptăm pân’ la sfârșit
+/: Căci Tu ne-ai mântuit
+Din moarte și păcat ne-ai izbăvit. :/
+
+[v3]
+Prin bine și prin greu cu noi ești Tu mereu
+Chiar dacă drumu-i greu și lumea-i rea,
+/: Chiar dacă suferim noi vrem să nu cârtim
+Și pentru toate vrem să-Ți mulțumim. :/

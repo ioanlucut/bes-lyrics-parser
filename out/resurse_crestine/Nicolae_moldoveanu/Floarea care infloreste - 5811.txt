@@ -1,0 +1,30 @@
+[title]
+Floarea care infloreste {author: {Nicolae Moldoveanu}, {rcId: {5811}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Floarea care infloreste, o Soarele pe cer lucind,
+Tot ce-i bun se-asemuieste o Cu-al lui Isus vesnic cant.
+
+[c]
+/: Langa tine nu-i tristete, o Nu e nor, doar cer senin!
+Langa tine-a mea durere o alin! o Langa tine mama mea
+Stau mereu, alaturea o Langa tine, fericirea mi-o gasesc. :/
+
+[v2]
+Fost-a viata Ta jertfita, o Trupul Tau de rani infrant.
+Ca sunt fiu al mantuirii, o De aceea, azi Iti cant.
+
+[v3]
+Cand inima mi-e-ntristata o Si n-am cu ce-o mangaia,
+Atunci mila Lui de Tata, o Straluceste-n viata mea.
+
+[v4]
+Te-am visat, Isuse Doamne, o Cum pe brate ma tineai
+Si, cu vocea Ta cea blanda, o Durerea mi-o alinai.
+
+[v5]
+Astazi noi, printr-o credinta o Neclintita in Isus,
+Dobandi-vom biruinta. o In Numele lui Isus.

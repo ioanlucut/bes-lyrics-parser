@@ -1,0 +1,31 @@
+[title]
+Isus e rege pe tot pamantul {author: {Anonim}, {rcId: {4955}}
+
+[sequence]
+c,v1,c2,v2,c3
+
+[c]
+Isus e Rege pe tot pământul,
+Azi mă închin în fața Lui,
+În fața Lui.
+
+[v1]
+Toată viața Îi voi cânta,
+Căci vreau s-ajung în țara Sa.
+
+[c2]
+Isus e Rege pe tot pământul,
+Azi mă închin în fața Lui.
+Aleluia.
+
+[v2]
+Laud pe Domnul și-L preamăresc,
+Laud pe Domnul, căci Îl iubesc.
+
+[c3]
+Isus e Rege pe tot pământul,
+Azi mă închin în fața Lui,
+În fața Lui.
+Isus e Rege pe tot pământul,
+Azi mă închin în fața Lui.
+Aleluia.

@@ -1,0 +1,35 @@
+[title]
+Dragostea {author: {Profides}, {rcId: {110416}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+/: Dragostea mereu va lupta
+Până la capăt ea va răbda,
+Bunătatea e felul ei de a fi,
+De rău pe nimeni nu va vorbi,
+Dragostea nu se va lăuda,
+De mândrie nu se va umfla,
+Dragostea nu se va mânia,
+Folosul ei nu va căuta. :/
+
+[c]
+Chiar dacă-aș vorbi în limbi îngerești,
+Chiar de-aș avea credință
+Munții-n mare să rostogolesc
+Trupul de mi-aș da, ca să fie ars,
+Chiar de aș vinde tot ce am
+Și-aș da celor ce săraci,
+Pe cei de lângă mine,
+De nu i-aș iubi, nimic aș fi.
+
+[v2]
+Dragostea nu va invidia,
+De cei rău nu se va bucura
+Greșeală o va acoperi
+Să facă rău nu se va gândi,
+Va crede totul, va nădăjdui
+Niciodată nu va minți,
+Dragostea să sufere va ști
+De aceea niciodată nu va muri.

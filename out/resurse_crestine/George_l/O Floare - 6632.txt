@@ -1,0 +1,35 @@
+[title]
+O floare {author: {George L}, {rcId: {6632}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+O floare-ntrun ungher ascuns am fost Stăpâne!
+De nu vene-ai din cer, pierdut eram prin lume;
+Dar prin iubirea Ta, o Doamne mai salvat...
+Ai mers la Golgota, unde Tu ai răbdat...
+
+[c]
+/: Pentru un păcătos, isuse cum sunt eu,
+Ai coborât să mori, pe cruce-n locul meu. :/
+
+[v2]
+O floare-ntro grădină, plantată sunt de Tine.
+Cu drag mă îngrijești, să cresc aici Stăpâne.
+Mi-ai dat din duhul Tău, și harul Tău bogat,
+Isuse pentru mine, pe cruce ai răbdat...
+
+[c2]
+/: Ai suferit o Doamne pentru păcatul meu
+Să mă salvezi din lume să fiu pe veci al Tău :/
+
+[v3]
+Ca pasărea în zbor, ce se înalță-ntruna!...
+Mă voi nălța și eu, spre cer să-mi i-au cununa;
+Spre locul cel mai sfânt, ce-a existat vreodată...
+Acolo-i țara Ta, și țara mea, o, Tată.
+
+[c3]
+/: Căci pentru mine Doamne, pe cruce ai murit
+Să am un loc la Tine, care m-ai pregătit. :/

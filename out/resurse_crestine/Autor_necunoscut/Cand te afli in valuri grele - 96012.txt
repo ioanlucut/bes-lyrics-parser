@@ -1,0 +1,29 @@
+[title]
+Cand te afli in valuri grele {author: {Anonim}, {rcId: {96012}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Când te afli în valuri grele, nu cârti și nu uita
+Cel ce-a liniștit furtuna, știe încercarea ta.
+
+[c]
+/: Roagă-te și crede, roagă-te și crede,
+Cel ce totul vede nu te va lăsa :/
+
+[v2]
+Când îți mor ființe scumpe, nu te teme, nu uita
+Cel ce morți înviază, știe de durerea ta.
+
+[v3]
+Când îți vezi pierduți copiii, crede încă, nu uita
+Cel ce vede tot ți-i află, știe rugăciunea ta.
+
+[v4]
+Când ajungi în vremi de lipsă, ai nădejde, nu uita
+Cel ce pâinea o înmulțește, știe îngrijorarea ta.
+
+[v5]
+Când înconjur numai spaime, ’nalță-ți capul, nu uita
+Dumnezeu cel viu și tare, va grăbi scăparea ta.

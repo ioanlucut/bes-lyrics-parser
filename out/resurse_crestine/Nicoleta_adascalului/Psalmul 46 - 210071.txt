@@ -1,0 +1,23 @@
+[title]
+Psalmul {author: {Nicoleta Adascălului}, {rcId: {210071}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Dumnezeu este-un adăpost, un ajutor ce nu lipsește
+Niciodată când Îl chemi în nevoi
+El este-un Turn de scăpare, când vrăjmașii mă-nconjoară,
+O cetățuie tare, de-aceea nu mă tem!
+
+[c]
+/: Chiar dacă s-ar zgudui pământul întreg,
+Ocrotit atunci voi fi de Brațul Său!
+Chiar dacă munții înalți s-ar clătina,
+Să mă încred în Dumnezeu nu voi înceta! :/
+
+[v2]
+Fiindcă El mă iubește va fi cu mine în strâmtorare,
+Mă va sprijini orice ar veni!
+El este o Stâncă tare când e marea-nvolburată,
+De aceea în încercare aleg să nu mă tem!

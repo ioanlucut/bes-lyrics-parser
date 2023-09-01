@@ -1,0 +1,47 @@
+[title]
+La umbra lui {author: {Speranța și prietenii}, {rcId: {233109}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Mă-ncred în El
+Orișice s-ar întâmpla!
+Mă-ncred în El,
+El e Salvarea mea!
+
+[c]
+/: Mă-ncred în El orice ar fi,
+Chiar de-i noapte sau e zi!
+Mi-a spus să-L chem când sunt în strâmtorare.
+Mă izbăvește din cuptor,
+E Dumnezeu Ocrotitor,
+El mă ajută când sunt în încercare! :/
+
+[v2]
+La umbra Lui,
+Un adăpost mereu găsesc!
+La umbra Lui,
+Deseori mă odihnesc!
+
+[c2]
+/: La umbra Lui sunt ocrotit,
+De arșiță sunt scutit,
+Când Își întinde Mâna Lui spre mine!
+E Dumnezeu ce dă speranță,
+Eu sunt cu El în siguranță!
+La umbra Lui mă simt atât de bine! :/
+
+[v3]
+La tronul Său,
+Am primit a Lui iertare!
+În preajma Lui,
+Găsesc alin și vindecare!
+
+[c3]
+/: În preajma Lui sunt fericit,
+Fiindcă atât m-a iubit,
+S-a jertfit pe cruce, la Calvar!
+A părăsit slăvi divine,
+Și S-a aplecat spre mine,
+Dându-mi mântuirea Sa în dar! :/

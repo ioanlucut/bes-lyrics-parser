@@ -1,0 +1,48 @@
+[title]
+Stop joc {author: {Dincolo De Ziduri}, {rcId: {237411}}
+
+[sequence]
+v1,c,s,c,v2,c,s,c,e
+
+[v1]
+Te scoală, mănâncă
+Omletă cu brânză
+Pe fugă adună
+Să prinzi busu’ de cinci
+La muncă, gândește,
+Transpiră, trudește,
+Respiră, ai rate trebuie să le achiți
+
+[c]
+/: Strigă: STOP JOC! :/
+x2
+/: Strigă: STOP JOC! :/
+x2
+
+[s]
+Pentru toți cei care
+Au uitat să zâmbească natural
+Pentru cei cărora
+Munca le-a devenit altar
+Viața nu este doar atât
+Trăiește, crede și dansează!
+Pentru toți cei care
+Au uitat să zâmbească natural
+Pentru cei cărora
+Munca le-a devenit altar
+Viața nu este doar atât
+Trăiește, mai uită și dansează!
+
+[v2]
+Ai nuntă, pune banu’
+Cad dinții, pune banu’
+Schimbă priza, pune banu’
+Vrei concediu nu-i mai banu’
+Te consumă, te stresează
+Șefu’ doarme la amiază
+Tu lucrezi de bobotează
+Nu mai știi ce chiar contează
+
+[e]
+/: STOP JOC :/
+x12

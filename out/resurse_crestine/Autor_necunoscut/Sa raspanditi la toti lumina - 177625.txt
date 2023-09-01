@@ -1,0 +1,41 @@
+[title]
+Sa raspanditi la toti lumina {author: {Anonim}, {rcId: {177625}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+/: Tineri dragi ce sunteți astăzi
+Transformați de al Lui Cuvânt,
+Cei ce-aveți o viață sfantă
+Și-ați făcut un legământ :/
+
+[c]
+/: Să răspândiți la toți lumina
+cuvântului Sfintei Scripturi,
+Să nu vă-mpovărați cu vina
+A falselor învățături :/
+
+[v2]
+/: Tineri dragi ce sunteți astăzi
+Și păstrați haina curată,
+Rămâneți dar indicatoare
+Pe-a Evangheliei cale dreaptă. :/
+
+[c2]
+/: Simtiți cu cei în suferință,
+Pe cei căzuți să-i ridicați,
+Aduceți-i la pocăință,
+Prin Duhul să-i înviorați. :/
+
+[v3]
+/: Tineri dragi, vă cere Domnul,
+Țineți sus stindardul sfânt!
+Luptând aici cu prețul vieții,
+Veți moșteni cerul preasfânt. :/
+
+[c3]
+/: Vegheați, vegheați în așteptare,
+Vă spune Domnul chiar acum,
+Veniți, lucrați pentru lucrare,
+Răsplata voastră e pe drum! :/

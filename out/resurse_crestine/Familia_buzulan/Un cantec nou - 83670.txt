@@ -1,0 +1,29 @@
+[title]
+Un cantec nou {author: {Familia Buzulan}, {rcId: {83670}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Un cântec nou de dor se naște-n inimă;
+E-un cântec nou ce face viața plină.
+De dorul Tău mi se frământă ființa mea.
+Ah, cât de mult doresc intimitatea Ta.
+
+[c]
+Tu ești minunat acum și mâine și în veac
+Tu ai pus în viața noastră farmec și mult har
+Te laud căci biruitor ești azi și-n veșnicii
+Ah, Tu ești Iubitul inimii.
+
+[v2]
+La poala crucii vin cu melodia mea
+S-o curățești să fie precum Tu voiești, așa
+S-o pot cânta o viață și apoi în cer
+O veșnicie-ntreagă-a mele versuri nu mai pier
+
+[v3]
+Ești Rege-al Regilor și Domnul tuturor
+Tu ești Iehova, doar Tu izbăvești al Tău popor
+Te pregătești să vii cu slavă pe pământ
+Eu Te aștept Isuse: vino mai curând.

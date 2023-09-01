@@ -1,0 +1,29 @@
+[title]
+Sa te asculte domnu-n ziua de-ncercare {author: {Dionisie Giuchici}, {rcId: {4543}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Să te asculte Domnu-n ziua de-ncercare!
+Să te-ocrotească-n ziua când tu ai necaz
+Și să-ți trimită harul milei și-a-ndurării!
+Să-ți potoleasc-al încercărilor talaz!
+
+[c]
+/: Și bucuria noastră atunci va fi mare,
+Când biruințele vor fi de partea ta;
+Să te asculte Domnu-n ziua de-ncercare
+Și să-ți trimită ocrotirea Sa! :/
+
+[v2]
+Să se ridice, ca mirosul de tămâie,
+A-tale arderi-de-tot neîncetat!
+Să se înalțe sus, mai sus, în veșnicie,
+Acolo sus, la Tronul sfânt și minunat.
+
+[v3]
+Să te asculte Domnu-n ziua de-ncercare
+În ziua când necazul greu îți bate-n prag;
+Din ceruri să-ți trimită El înviorare
+Și-atunci vom flutura al biruinței steag.

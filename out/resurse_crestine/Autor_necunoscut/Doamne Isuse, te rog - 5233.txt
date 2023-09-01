@@ -1,0 +1,35 @@
+[title]
+Doamne isuse te rog {author: {Anonim}, {rcId: {5233}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+/: Doamne Isuse, te rog acum
+Să mă înveți cum să mă rog. :/
+
+[c]
+Tu știi că eu sunt mic
+Și nu știu încă să mă rog.
+Tu știi că eu sunt mic
+Și nu știu încă să mă rog
+
+[v2]
+/: Doamne Isuse, te rog acum
+Să mă înveți ca să ascult. :/
+
+[c2]
+Tu știi că eu sunt mic
+Și nu știu încă să ascult
+Tu știi că eu sunt mic
+Și nu știu încă să ascult
+
+[v3]
+/: Doamne Isuse te rog acum
+Să mă înveți ca să iubesc. :/
+
+[c3]
+Tu știi că eu sunt mic
+Și nu știu încă să iubesc
+Tu știi că eu sunt mic
+Și nu știu încă să iubesc

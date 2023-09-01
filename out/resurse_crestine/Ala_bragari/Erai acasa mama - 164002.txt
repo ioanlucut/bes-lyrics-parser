@@ -1,0 +1,33 @@
+[title]
+Erai acasa mama {author: {Ala Bragari}, {rcId: {164002}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Erai acasă mamă
+Și în grădină noi lucram,
+Când m-ai apucat de mână,
+Să-mi spui că dorul tău eram.
+
+[c]
+Acuma sunt acasă,
+Pustie-i casa mea,
+Că mama nu-i aproape,
+Că tata nu-i în ea
+Mamă, tată îmi doresc,
+Privirea lor mă crește
+Nu bani, nici aur nici averi,
+Un suflet cald ce mă iubește.
+
+[v2]
+Sunt un copil ce așteaptă,
+A dimineții noi zori
+Și mă rog să vii acasă,
+Să iasă soarele din nou.
+
+[v3]
+O Doamne ascultă-mi ruga,
+În tăcere aștept mereu
+Să vină mama acasă,
+Să vină tatăl meu.

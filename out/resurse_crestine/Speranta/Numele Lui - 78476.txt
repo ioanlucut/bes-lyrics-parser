@@ -1,0 +1,27 @@
+[title]
+Numele lui {author: {Speranța}, {rcId: {78476}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Ce frumos e Numele lui Isus,
+Ce plăcut este El!
+Nu-i în lume mai prețios
+Ca și numele lui Isus Hristos!
+Numele lui Isus e un nume Sfânt,
+E cel mai de preț în cer si pe pământ!
+
+[c]
+Numele Lui e minunat!
+Numele Lui fie în veci lăudat!
+Numele Lui e minunat!
+Numele Lui fie în veci lăudat!
+
+[v2]
+Numele Lui e vindecare!
+Numele Lui este iertare!
+Doar El, Isus, e fericire,
+Doar prin El e mântuire!
+Numele lui Isus e un nume Sfânt,
+E cel mai de preț în cer si pe pământ!

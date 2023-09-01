@@ -1,0 +1,23 @@
+[title]
+Te laud doamne {author: {Unity}, {rcId: {7082}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Ani la rând Te-am căutat și-am crezut
+Că îmi va fi greu să Te găsesc.
+Erai acolo și așteptai
+Inima să-ți dăruiesc
+
+[c]
+Te laud Doamne cu inima mea.
+Viața întreagă te voi înălța.
+Ție Doamne îți voi cânta.
+Mulțumesc pentru Dragostea Ta.
+
+[v2]
+Din clipa în care Te-am găsit.
+Nu încetez să-Ți mulțumesc.
+Căci m-ai salvat cu sângele.
+Cu Tine merg, nu mă opersc.

@@ -1,0 +1,41 @@
+[title]
+Cand credinta-mi se destrama {author: {Necunoscut}, {rcId: {228663}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când credința-mi se destramă
+Tu îmi amintești
+Nicio frică să nu am
+Căci Tu mă iubești.
+Fără scop eu rătăceam
+Pe cărări lumești
+Brațul Tău m-a ridicat
+Fiindcă mă iubești.
+
+[c]
+Zilnic mă iubești,
+Veșnic mă iubești,
+Salvatorul meu Tu ești
+Veșnic mă iubești!
+
+[v2]
+Tu ne-ai scos din negre văi
+Azi ne amintești
+Avem preț în ochii Tăi
+Căci Tu ne iubești.
+Nicicând nu ne vei lăsa
+Tu în noi trăiești
+Cumpărați prin jertfa Ta
+Fiindcă ne iubești.
+
+[v3]
+Sânge sfânt a fost vărsat
+Azi îmi amintești
+Ca să fiu și eu salvat
+Căci Tu mă iubești.
+Viață nouă Tu mi-ai dat
+Fiindcă mă iubești
+În curând eu voi zbura
+Spre lumini cerești!

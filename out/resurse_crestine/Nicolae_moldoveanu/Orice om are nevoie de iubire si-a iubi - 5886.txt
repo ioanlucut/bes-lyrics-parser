@@ -1,0 +1,36 @@
+[title]
+Orice om are nevoie de iubire si-a iubi {author: {Nicolae Moldoveanu}, {rcId: {5886}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Orice om are nevoie de iubire si-a iubi;
+Orice viata, fara ea, n-are destin.
+Nu se poate viata mea, fara de iubirea Ta!
+Oare cine si ce este iubirea?
+
+[c]
+/: Cineva, sus in cer, ma iubeste,
+Cineva ma pazeste mereu.
+Eu sunt sigur ca-n orice vreme,
+Sunt iubit de Insusi Dumnezeu! :/
+
+[v2]
+De nu m-ar iubi in lume nici copii si nici parinti,
+Nici un om nu-mi dovedeste-a ma iubi;
+Daca ura ma loveste si este greu chinul meu,
+Va veni o zi in care ma va scapa Dumnezeu!
+
+[v3]
+Spuneti dar, la orisicine: „
+Dumnezeu e dragostea!”
+De-L iubesti, tu ai putere sa iubesti pe-altcineva.
+Toti cei ce-L iubesc pe Isus, ii iubesc si pe vrajmasi...
+Dumnezeu, l-a Sa iubire, ne-a chemat sa fim partasi.
+
+[e]
+/: Cineva ma iubeste :/
+Cineva ma iubeste sus in cer.
+/: Cineva ma iubeste :/
+Cineva ma iubeste sus in cer.

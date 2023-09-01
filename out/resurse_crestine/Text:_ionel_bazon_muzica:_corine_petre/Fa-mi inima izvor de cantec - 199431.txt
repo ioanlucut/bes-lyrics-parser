@@ -1,0 +1,35 @@
+[title]
+Fa-mi inima izvor de cantec {author: {Text: Ionel Bazon, Muzica: Corine Petre}, {rcId: {199431}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Fă-mi inima izvor de cântec
+Armonios, precum Tu însuți ești
+Și, ca izvorul, stânci să spintec,
+S-aduc în inimi stropii Tăi cerești.
+Fă-mi inima o harfă vie,
+Izvor de cântec, Doamne, fă-mi în ea,
+Ca-n orice zi o melodie
+Să pot găsi spre slava Ta!
+
+[c]
+Revarsă-Ți peste mine darul,
+Dă-mi iscusința să-mpletesc
+În melodii și versuri harul,
+Da, harul Tău dumnezeiesc!
+Să cânt spre slava Ta divină,
+Spre slava Ta, prin harul Tău,
+Cântări ce mângâie și-alină
+Și-ntorc pe oameni către Dumnezeu!
+
+[v2]
+Izvor de versuri pune-n mine,
+Să mi se umple zilnic inima
+Și-un vers de aur pentru Tine
+Oricând să pot găsi în ea!
+
+[v3]
+Coda: Fă-mi inima izvor de cântec
+Armonios, precum Tu însuți ești!

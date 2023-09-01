@@ -1,0 +1,29 @@
+[title]
+Ce ai vazut isus la mine {author: {Ionel Saran}, {rcId: {128248}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ce ai văzut Isus la mine
+Așa un păcătos
+Căci în grădina cu măsline
+Ai plâns cu-adânc suspine.
+
+[c]
+/: Ce mult Isus, El a mai răbdat
+Pe cruce la Calvar
+Și pentru mine și pentru tine
+Viața El și-a dat. :/
+
+[v2]
+Ce multe lacrimi a vărsat
+Isus în Ghețimani
+Durerea ce El o simțea
+Doar Tatăl o știa.
+
+[v3]
+O vino azi, o, suflet drag
+Spune-I al tău necaz
+Privește azi la cruce sus
+La Cel ce-a fost străpuns.

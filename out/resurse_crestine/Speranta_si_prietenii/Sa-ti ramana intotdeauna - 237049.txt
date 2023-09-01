@@ -1,0 +1,41 @@
+[title]
+Sa-ti ramana intotdeauna {author: {Speranța și prietenii}, {rcId: {237049}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Să-ți rămână întotdeauna
+Amintirile frumoase
+Ce-ți vor strânge-n suflet pace
+Și clipe mai bucuroase
+
+[c]
+Cu Domnul mi-a rămas al dimineții ceas
+Cu Domnul mi-au rămas și clipele de-amiaz
+Cu Domnul mi-a rămas și-al serii tainic ceas
+În Domnul mi-am păstrat tot Harul minunat
+
+[v2]
+Să-ți rămână întotdeauna
+Dulce al rugii ceas fierbinte
+Numai El păstra-va seva
+Rugăciunii tale sfinte
+
+[v3]
+Să-ți rămână întotdeauna
+Amintirile iubirii
+Ce-ți păstrează floarea vieții
+Și petala pregătirii
+
+[v4]
+Răsplătirile-s la Domnul
+Numai El în orice ceas
+Ia din rugăciuni și fapte
+Perla sfântă de pe-obraz
+
+[v5]
+Și atunci tu vei vedea
+Cât de scump al rugii ceas
+Fosta pe pămantu-acesta
+Chiar la greu și la necaz

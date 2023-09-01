@@ -1,0 +1,41 @@
+[title]
+Tu izvorul mantuirii {author: {Nicolae Moldoveanu}, {rcId: {241130}}
+
+[sequence]
+v1,c,v3,c2,v5,c3
+
+[v1]
+Tu, Izvorul mântuirii,
+Nesecată Bogăție,
+Îți aduc prin cânt și lacrimi
+Slavă, slavă, slavă Ție!
+
+[c]
+Tu-mi aduci înseninarea
+Și-a odihnei bucurie,
+Tu-mi dai harul sănătății,
+Slavă, slavă, slavă Ție!
+
+[v3]
+Tu-mi păstrezi până la capăt
+Sufletu-n credincioșie,
+Tu mă-mbraci cu adevărul,
+Slavă, slavă, slavă Ție!
+
+[c2]
+Tu mi-nflacarezi iubirea,
+Tu mă umpli de tărie,
+Dreapta-Ți sfântă-mi dă izbândă,
+Slavă, slavă, slavă Ție!
+
+[v5]
+Tu-mi ești pururi prin furtună
+Stanca de Nădejde vie,
+Tu mă-nvalui în lumină,
+Slavă, slavă, slavă Ție!
+
+[c3]
+Tu, Isuse-mi ești Cărarea
+Spre Eterna-mpărăție
+TOTUL am deplin în Tine,
+Slavă, slavă, slavă Ție!

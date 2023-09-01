@@ -1,0 +1,33 @@
+[title]
+In butuci pavel canta mereu {author: {Maria Șimon}, {rcId: {209375}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Dacă în viață vei fi-ngenunchiat
+Și de suferință înconjurat,
+Ridică-ți privirea spre Cel din vecii,
+El mi-a luat povara mie și ție.
+
+[c]
+În butuci Pavel cânta mereu
+Și-L slăvea cu dor pe Dumnezeu!
+Chiar dacă în lanțuri el era
+Plin de bucurie Îi cânta,
+Îl slăvea pe Cel ce l-a salvat
+De lanțurile greului păcat!
+Și chiar dacă în butuci era
+Cu bucurie pe Domnul laudă!
+
+[v2]
+Dacă putere nu vei mai avea
+Să înaintezi în noaptea cea grea,
+El ți-a promis odată că-n orice vreme
+Va fi cu tine, deci nu te teme!
+
+[v3]
+Ziduri înalte întâlnești deseori,
+Munți de probleme amenințători,
+Mai presus de toate în orice vreme
+Domnul învinge prin a Sa putere!

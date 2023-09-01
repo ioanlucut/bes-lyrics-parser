@@ -1,0 +1,41 @@
+[title]
+Oare-acestia cine sunt {author: {Dionisie Giuchici}, {rcId: {5906}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Oare aceștia cine sunt,
+Care au pe cap cununi
+Botezați cu Duhul Sfânt.
+Ei fac semne și minuni.
+
+[c]
+/: Ei mâinile peste bolnavi și-au așezat,
+Iar cei bolnavi la ruga lor s-au vindecat,
+Ei au luat în mână șerpii veninoși,
+Acești-au fost adevărații credincioși. :/
+
+[v2]
+Noi suntem cu ei părtași
+La același Har slăvit,
+Domnul la ai Săi urmași
+Duhul Sfânt a dăruit.
+
+[v3]
+Ei și morți au înviat
+În Numele lui Isus,
+Ușile le-au descuiat,
+Când în temnițe i-au pus.
+
+[v4]
+Ei din lanțuri și butuci
+Au privit spre cer cântând,
+Și-au murit uciși pe cruci,
+Pentru Domnul triumfând.
+
+[v5]
+Domnul Dumnezeul lor
+E același, neschimbat
+El e bun și-ndurător,
+El e Sfânt și minunat.

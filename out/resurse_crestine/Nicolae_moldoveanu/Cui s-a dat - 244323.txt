@@ -1,0 +1,41 @@
+[title]
+Cui s-a dat {author: {Nicolae Moldoveanu}, {rcId: {244323}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Cui s-a dat aripi - să zboare,
+Spre ’nălțimile luminii,
+Să nu mai rămână-n locul,
+Unde cresc, în voie, spinii.
+
+[v2]
+Cui s-a dat urechi - s-audă,
+Glasul tainelor divine,
+Care pot să deie viața,
+Fericirilor depline.
+
+[v3]
+Cui s-a dat harul vederii,
+Să privească mai cucernic,
+Bunătatea și-adevărul,
+Dumnezeului Puternic.
+
+[v4]
+Cui s-a dat înțelepciunea,
+Duhului, neîngrădită,
+S-o aducă-n slujba păcii,
+Și-a unirii mult dorită.
+
+[v5]
+Cui s-a dat inimă nouă,
+Ruptă din Divinul Soare,
+S-o păstreze pe altarul,
+Dragostei mistuitoare.
+
+[v6]
+Fericit e-acela, Doamne,
+Care pune-n slujba-Ți toate,
+Darurile ce-n ființa-i,
+De la Tine i-au fost date!

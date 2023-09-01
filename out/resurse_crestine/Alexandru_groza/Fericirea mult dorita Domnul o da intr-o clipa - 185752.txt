@@ -1,0 +1,25 @@
+[title]
+Fericirea mult dorita domnul o da intr-o clipa {author: {Alexandru Groza}, {rcId: {185752}}
+
+[sequence]
+v1,c,c,v2,c
+
+[v1]
+Ce minunat răsună vestea: e nuntă azi în Casa Domnului
+Doi tineri, ei îngenunchează umiliți, de Tatăl Sfânt din ceruri sunt uniți
+Prezenți la nuntă este Domnul cu toată binecuvântarea Sa
+El legământul lor sfințește, Dumnezeu, El unește cu iubirea Sa!
+
+[c]
+/: Fericirea mult dorită, Domnul o dă într-o clipă
+Dragostea Lui minunată i-a unit pe-aceștia doi :/
+
+[b]
+Domnul dă bucurie în inimile noastre
+Și binecuvântați sunt cei ce cred în El!
+
+[v2]
+Doi tineri astăzi se căsătoresc, cu Domnul Isus ei la drum pornesc
+Și harul, pacea Lui domni-va în căminul lor în veci, că Isus, El e domn
+Uniți în dragostea Lui sfântă Domnul îi va conduce zi de zi
+Cu mâna Lui va ocroti El casa și căminul ce pe stâncă a zidit.

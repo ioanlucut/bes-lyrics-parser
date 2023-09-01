@@ -1,0 +1,29 @@
+[title]
+Cand domnul e la carma vietii-orice furtuna ar veni {author: {Marius si Fernando de la Bărbulești}, {rcId: {197261}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Când Domnul e la cârma vieții
+Cu El prin valuri nu mă tem
+Cu El orice furtună trece
+Doar El e ajutorul meu :/
+
+[c]
+/: Orice furtună ar veni
+Și orice val s-ar ridica
+Nimic nu este mai puternic
+Ca Domnul Isus stânca mea :/
+
+[v2]
+/: Cu Domnul meu în lumea aceasta
+Nu mă voi da nicicând bătut
+Cu El e mai ușoară lupta
+Cu El voi fi de neînfrânt :/
+
+[v3]
+/: Cu Domnul meu întotdeauna
+Prin ape și prin văi adânci
+Chiar prin cuptorul încercării
+Cu El voi fi de neînfrânt :/

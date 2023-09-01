@@ -1,0 +1,29 @@
+[title]
+Oare nu mai esti acelasi? {author: {Puiu Chibici}, {rcId: {6560}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Oare nu mai esti acelasi, oare Te-ai schimbat?
+De nu-Ti mai simtim prezenta, Doamne-atunci cand esti chemat.
+/: Oare, nu mai esti acelasi, oare te-ai schimbat
+Ori noi am lasat cararea si ne-am departat. :/
+
+[v2]
+Tu ramai acelasi, Doamne, ieri si azi si-n veci
+Indurarea Ta ramane Tu nicicand nu treci
+/: Noi Te intristam adesea, suntem cartitori
+Suntem slabi suntem tarana, suntem trecatori! :/
+
+[v3]
+Caci din totdeauna Doamne omu-i schimbator
+Numai Tu ramai acelasi, vesnic, sfant, nemuritor
+/: Tu ramai drept si puternic, bun si iertator
+Binecuvantat fi vesnic, Domn al Domnilor! :/
+
+[v4]
+Te rugam ca si Ilie in ruga asteptan
+Fa si peste noi sa vie, Doamne azi susurul bland
+/: Soare al neprihaniri, cu dor Te chemam
+Ada ziua intalnirii, caci Te asteptam. :/

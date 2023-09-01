@@ -1,0 +1,27 @@
+[title]
+Venim la poala crucii tale {author: {Speranța}, {rcId: {785}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Venim la poala crucii Tale
+Venim să-Ți cerem îndurare
+Venim din beznă și nevoi
+Întinde-Ți mâna Doamne peste noi.
+
+[c]
+/: Cu fruntea la pământ cu inima zdrobită
+Îți cerem, Doamne azi. putere înoită. :/
+
+[v2]
+Căci fără Duhul Tău suntem tot pământești
+Ajută-ne ca să trăim așa cum Tu dorești
+Noi vrem cu cinste să purtăm în lume orișicând
+Chipul Tău, iubirea Ta, aici pe pământ.
+
+[v3]
+Ce mare har s-avem în dar iertare
+Să știm că vina noastră ai plătit
+În suflet ne a-duci raze de soare
+O, Doamne, fii slăvit!

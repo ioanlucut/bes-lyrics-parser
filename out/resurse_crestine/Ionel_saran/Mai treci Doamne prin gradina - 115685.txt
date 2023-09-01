@@ -1,0 +1,21 @@
+[title]
+Mai treci doamne prin gradina {author: {Ionel Saran}, {rcId: {115685}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Mai treci Doamne prin grădină
+Ca să vezi ce s-a-ntâmplat
+/: Să vezi crinii mântuirii
+Cum jos ei s-au plecat :/
+
+[c]
+/: Mai ridică azi, mai salvează azi
+Pe toți care astăzi sunt în grele poveri :/
+
+[v2]
+Ce durere e-n Grădină
+Ce mulți crini s-au vestejit
+/: De atâtea ploi și vânturi
+Mereu au fost loviți :/

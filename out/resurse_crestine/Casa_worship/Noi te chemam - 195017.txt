@@ -1,0 +1,52 @@
+[title]
+Noi te chemam {author: {CASA WORSHIP}, {rcId: {195017}}
+
+[sequence]
+v1,b,c,v2,b,c2,c2
+
+[v1]
+Suntem aici
+Setoși după tin
+E focul tău cel sfânt, îi simt prezența
+Revarsă-l acum
+Suntem aici
+Setoși după tin
+E focul tău cel sfânt, îi simt prezența
+Revarsă-l acum;
+
+[b]
+Focul ce arde în inima ta
+Îmi umple din nou viața mea
+Focul ce arde în inima ta
+Îmi umple din nou viața mea.
+Focul ce arde în inima ta
+Îmi umple din nou viața mea
+Focul ce arde în inima ta
+Îmi umple din nou viața mea.
+Proclamăm azi,
+Ne-nchinăm azi,
+Noi te chemăm
+Noi te chemăm
+O Doamne, arată-ți slavă.
+
+[c]
+Noi te chemăm
+Lasă duhul tău să ne inunde ne-ncetat
+Noi te chemăm
+Lasă duhul tău să ne inunde ne-ncetat.
+
+[v2]
+Suntem aici
+Setoși după tin
+E focul tău cel sfânt, îi simt prezența
+Revarsă-l acum
+Suntem aici
+Setoși după tin
+E focul tău cel sfânt, îi simt prezența
+Revarsă-l acum;
+
+[c2]
+Noi te chemăm
+Lasă duhul tău să ne inunde ne-ncetat
+Noi te chemăm
+Lasă duhul tău să ne inunde ne-ncetat.

@@ -1,0 +1,35 @@
+[title]
+Isus mai iubit esti mie {author: {Anonim}, {rcId: {74371}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Isus, mai iubit ești mie,
+Decât toată lumea;
+De când ești Tu amicul meu,
+Am pace-n inimă.
+
+[c]
+Eu nici nu aș fi cugetat,
+Că așa mă iubești;
+Eu nici nu aș fi cugetat,
+Că iertare-mi cinstești.
+
+[v2]
+Iubesc, Doamne amicii mei,
+Dar e Tine mai mult;
+Numele tău așa-mi sună,
+Ca un cântec plăcut.
+
+[v3]
+Cu Tine în inima mea,
+Bucuria-a intrat,
+Iubirea Ta de n-aș avea,
+Aș fi tot întristat.
+
+[v4]
+O, Isus, iubit Isuse,
+Frumos e la Tine!
+Ce bucurie vom avea,
+Sus în înălțime.

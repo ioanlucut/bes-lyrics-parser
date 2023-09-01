@@ -1,0 +1,27 @@
+[title]
+Toti ar trebui sa stim {author: {Anonim}, {rcId: {5201}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+El e Crinul cel din vale
+Trandafirul din Saron
+Cine este Salvatorul,
+Toți ar trebui să știm.
+
+[c]
+/: Toți ar trebui să știm :/ (3x)
+Cine-I Isus.
+
+[v2]
+El e Salvatorul lumii
+Si al nostru Domn Isus
+El ne dă înțelepciune,
+Toți ar trebui să știm.
+
+[v3]
+Pentru păcătoși muri El
+Si prin sânge i-a albit
+Cine este Salvatorul,
+Toți ar trebui să știm.

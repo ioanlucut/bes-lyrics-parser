@@ -1,0 +1,35 @@
+[title]
+Pentru mine {author: {Bejenar Valentin}, {rcId: {7224}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Pentru mine din ceruri ai plecat,
+Pentru mine slava ai lăsat.
+Pentru mine Doamne te-ai jertfit,
+Pentru mine pe cruce ai murit.
+
+[c]
+/: Te voi lăuda o Doamne,
+Te voi lăuda aicea jos.
+Un imn de slavă și de mulțumire,
+Doar Ție Doamne, eu îți voi cânta. :/
+
+[v2]
+Pentru mine Doamne ai venit,
+Pentru mine Tu te-ai daruit.
+Pentru mine exemplu Tu te-ai dat,
+Pentru mine viața te-a costat.
+
+[v3]
+Pentru mine, pâinea Tu ai frânt,
+Pentru mine ea viață mi-a adus.
+Pentru mine, sangele-ți vărsat,
+Pentru mine El iertare-a dat.
+
+[c2]
+/: Un imn de slavă și de mulțumire,
+Îți voi cânta, eu din inimă.
+Căci viața mea, astăzi e schimbată,
+Cu sângele-ți din Golgota. :/

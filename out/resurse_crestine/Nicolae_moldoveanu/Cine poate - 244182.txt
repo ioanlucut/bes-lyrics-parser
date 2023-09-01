@@ -1,0 +1,29 @@
+[title]
+Cine poate {author: {Nicolae Moldoveanu}, {rcId: {244182}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Cine poate-n pumni să frângă
+Toate florile de-april?
+Cine poate-n sân să strângă
+Nuferii cu mâna stângă
+Și cu dreapta Iui să-nfrângă
+/: Orice cântec, orice tril? :/
+
+[v2]
+Eu! Răspunde de departe
+Iarna, aducând fiori.
+Eu pun vânturi să mă poarte
+Și las crengile deșarte,
+Așternând îngheț și moarte
+Peste cântec, peste flori!
+
+[v3]
+Da, răspunde primăvara,
+Dar cu mine iar răsar!
+Macii iar și-aprind comoara,
+Iar se-aude-un greier seara,
+Tot așa, uitând povara,
+Și credința cântă iar.

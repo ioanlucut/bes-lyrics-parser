@@ -1,0 +1,30 @@
+[title]
+Dulce-i domnul meu {author: {Anonim}, {rcId: {177354}}
+
+[sequence]
+s,e,s2,e2
+
+[s]
+Mai multa credinta, mai multa nadejde
+Tot mai mult pe El sa-L iubesc
+Sa-L stiu tot mai bine, sa-L am langa mine
+Asta-i tot ce-n viata doresc.
+
+[e]
+Dulce dulce-I Domnul meu
+Tot mai dulce-mi este Dumnezeu
+A Lui iubire, mare, ramane tare
+Dulce, dulce tot mai dulce-I Domnul meu.
+
+[s2]
+Din clipa in care mi-a dat El salvare
+Umpluta-mi-e de har inima
+Cu Domnul alaturi eu merg azi pe cale
+De El in veci nu m-as departa
+
+[e2]
+/: Dulce dulce-I Domnul meu
+Tot mai dulce-mi este Dumnezeu
+A Lui iubire, mare, ramane tare
+Dulce, dulce tot mai dulce-I Domnul meu :/
+Dulce, dulce tot mai dulce-I Domnul meu.

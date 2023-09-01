@@ -1,0 +1,35 @@
+[title]
+Incredere (ma-ncred in dumnezeul meu) {author: {Ovidiu Liteanu}, {rcId: {187420}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Mă-ncred în Dumnezeul meu,
+Mă-ncred în Sfânt Cuvântul Său,
+Mă-ncred în tot ce a promis,
+Că mă va duce-n Paradis!
+
+[c]
+/: Ieri Dumnezeu a fost cu mine,
+Astăzi eu sunt sub protecția Lui!
+Nu mă-ngrijorez de ziua de mâine,
+Mă-ncred în Cuvântul Domnului! :/
+
+[v2]
+Mă-ncred și prin furtuna grea,
+Că Domnul e la dreapta mea,
+Iar de mă tem El va vorbi,
+Furtuna se va liniști!
+
+[v3]
+Și dacă toți m-ar părăsi,
+Isus în preajma mea va fi,
+El mi-a promis pân’ la sfârșit,
+Vei fi de Mine însoțit!
+
+[v4]
+Eu cred că va veni o zi,
+Când Domnul Sfânt mă va răpi,
+Mă va lua chiar din mormânt,
+Să fiu cu El în Cerul Sfânt!

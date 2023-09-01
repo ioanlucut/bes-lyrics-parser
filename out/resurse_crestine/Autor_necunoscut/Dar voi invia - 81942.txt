@@ -1,0 +1,32 @@
+[title]
+Dar voi invia {author: {Anonim}, {rcId: {81942}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Într-o zi l-ai Săi Isus le-a zis:
+”
+Tot ce s-a scris se va împlini.
+Căci Eu voi fi, la moarte condamnat
+Și-al meu mormânt sigilat”
+
+[c]
+/: Dar voi învia, de mormânt nu m-or putea lega
+Dar voi învia, moartea nu mă va ținea :/
+
+[v2]
+Mă vor scuipa și mă vor biciui
+Și numele-L vor batjocori.
+Când veți vedea, să nu vă întristați
+Și-n duhul să nu disperați.
+
+[v3]
+Și eu am fost, la moarte condamnat
+Și-n bezna nopții afundat.
+Dar a venit, al meu Isus iubit
+Și-n locul meu, El a murit.
+
+[c2]
+/: Dar a înviat, mormântul pe veci nu l-a legat
+Dar a înviat, glorios pe moarte a călcat :/

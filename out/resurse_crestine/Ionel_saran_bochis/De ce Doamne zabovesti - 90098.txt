@@ -1,0 +1,55 @@
+[title]
+De ce doamne zabovesti {author: {Ionel Saran Bochis}, {rcId: {90098}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7,v8,v9,v10
+
+[v1]
+De ce Doamne zabovesti pe nori ca sa Te ivesti
+/: Biserica sa Ti-o Iei
+ /: De ce sa Te-ntorci nu vrei :/
+
+[v2]
+Odata eu voi afla si raspuns voi capata
+/: Tu-mi vei sterge lacrima
+ /: Dorul din inima mea :/
+
+[v3]
+De ce pe uni-i feresti cu nimic nu ii lovesti
+/: Iar altii rabda din greu
+ /: De ce toate Domnul meu :/
+
+[v4]
+Odata eu voi afla si raspuns voi capata
+/: Tu-mi vei sterge lacrima
+ /: Dorul din inima mea :/
+
+[v5]
+De ce altii sunt bogati feriti de orice necaz
+/: Iar altii in lipsuri zac
+ /: De ce Doamne astea-s plac :/
+
+[v6]
+Odata eu voi afla si raspuns voi capata
+/: Tu-mi vei sterge lacrima
+ /: Dorul din inima mea :/
+
+[v7]
+De ce atitea bolnavi si in suferinta zac
+/: De ce atitea orfani
+ /: De ce Doamne astea-ti plac :/
+
+[v8]
+Odata eu voi afla si raspuns voi capata
+/: Tu-mi vei sterge lacrima
+ /: Dorul din inima mea :/
+
+[v9]
+Cand in ceruri voi intra durerea va inceta
+/: Tu-mi vei sterge lacrima
+ /: Si raspunsul imi vei da :/
+
+[v10]
+Odata eu voi afla si raspuns voi capata
+/: Tu-mi vei sterge lacrima
+ /: Dorul din inima mea :/

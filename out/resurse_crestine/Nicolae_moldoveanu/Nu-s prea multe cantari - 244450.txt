@@ -1,0 +1,40 @@
+[title]
+Nu-s prea multe cantari {author: {Nicolae Moldoveanu}, {rcId: {244450}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Nu-s prea multe cântări,
+Nu-s prea multe cântări,
+Să Te-nalțe Isuse prin lume
+/: Nici condei și nici grai să cuprindă-n chemări
+Cât de dulce și sfânt e-al Tău Nume. :/
+
+[v2]
+Nu-s prea multe cântări,
+Nu-s prea multe cântări,
+Ca s-aprindă în inimi iubirea,
+/: Să le ducă curate spre-a-cerului zări,
+Să primească deplin fericirea. :/
+
+[v3]
+Nu-s prea multe cântări,
+Nu-s prea multe cântări,
+Despre har, adevăr și lumină,
+/: Despre-a-Tale eterne și sfinte-ndurări
+Și nădejdi ce-n curând o să vină. :/
+
+[v4]
+Nu-s prea multe cântări,
+Nu-s prea multe cântări,
+Despre crucea și jertfa-Ți slăvită;
+/: Ele-arată mai limpezi și drepte cărări
+Spre-a vieții Cetate-nsorită. :/
+
+[v5]
+Nu-s prea multe cântări,
+Nu-s prea multe cântări!...
+Căci în Templul veciei cel mare,
+/: Și ființe și toate-ale Tale lucrări
+Vor vibra-n necurmată cântare. :/

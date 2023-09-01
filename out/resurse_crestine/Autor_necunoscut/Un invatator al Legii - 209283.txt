@@ -1,0 +1,29 @@
+[title]
+Un invatator al legii {author: {Anonim}, {rcId: {209283}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Un învățător al Legii
+Pe Isus l-a întrebat:
+Ca să intru în Împărăție,
+Ce trebuie ca să fac? :/
+
+[c]
+Doamne, sunt un păcătos..
+Te rog, nu mă lăsa jos!
+Ia-mă, Doamne și pe mine
+Că Te-aștept de ani de zile %
+
+[v2]
+/: Nicodime, Eu îți spun:
+Trebui’ să te naști din nou.
+Fără nașterea din nou,
+Nu poți fi cu Dumnezeu! :/
+
+[v3]
+/: Doamne, eu sunt un păgân
+Nu știu, Doamne, ce să-Ți spun..
+Aș vrea să mă pocăiesc,
+Lângă Tine să trăiesc! :/

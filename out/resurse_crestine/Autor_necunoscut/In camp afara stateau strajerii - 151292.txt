@@ -1,0 +1,27 @@
+[title]
+In camp afara stateau strajerii {author: {Anonim}, {rcId: {151292}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În câmp afară stăteau străjerii,
+Păstori pîzindu-și turmele lor,
+Iată un înger din cer coboară,
+Se înfățișează înaintea lor.
+
+[c]
+Haideți să mergem la Betleem,
+Și multă cinste pruncului să-i dăm.
+
+[v2]
+Înfricoșați, chiar foarte tare,
+Priveau spre înger, care vorbind.
+Voi nu vă temeți căci de la Domnul,
+V-aduc mesaj ce-aduce bucurii.
+
+[v3]
+Astăzi în casa lui David s-a născut,
+Hristos Domnul al nost mântuitor.
+Și iată semnul că-L veți cunoaște,
+Voi ve-ți găsi un prunc în ieslea oilor.

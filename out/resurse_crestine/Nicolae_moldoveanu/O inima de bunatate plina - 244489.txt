@@ -1,0 +1,29 @@
+[title]
+O inima de bunatate plina {author: {Nicolae Moldoveanu}, {rcId: {244489}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O inimă de bunătate plină,
+Îți cer, o, Doamne, așa cum Tu mi-o cei
+Sfârșindu-și toate luptele, senină,
+Să nu-și sfârșească bunătatea ei.
+
+[c]
+Te rog, o, Doamne Sfânt să-mi dai,
+O inimă cum Tu mi-o vrei,
+C-așa o inimă doresc,
+Cum Tu dorești să-Ți dăruiesc!
+
+[v2]
+O inimă de-a Ta iubire plină,
+Îmi vreau, o, Doamne, așa cum Tu mi-o vrei
+Iubind pe toți, nicicând iubiri cu vină,
+Să nu-i păteze curăția ei!
+
+[v3]
+O inimă de Tine Doamne plină,
+Doresc să-Ți dau, oricând dorești s-o iei,
+Ca-n Cerul primăverii ce-o să vină,
+S-așezi cu drag pe veci frumsețea ei!

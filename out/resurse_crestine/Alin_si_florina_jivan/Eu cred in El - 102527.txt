@@ -1,0 +1,38 @@
+[title]
+Eu cred in el {author: {Alin și Florina Jivan}, {rcId: {102527}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Chiar dacă toată lumea m-ar uita,
+Chiar dacă multe pierderi aș avea,
+Chiar dacă cerul va fi cenușiu,
+Și chiar voi păși pe vreun drum pustiu.
+Chiar dacă mulți se vor clătina,
+Chiar dacă valul mării va urla,
+Chiar dacă oamenii nu m-ar mai iubi,
+Și chiar dacă ai mei m-ar părăsi.
+
+[c]
+/: Eu cred în El, orice ar fi
+Eu cred și sper că vine o zi
+Când voi fi cu El
+Cu El, în veșnicii :/
+Eu cred în El, cred în Dumnezeu,
+Eu cred și sper, mă va auzi mereu,
+Eu cred, în El, în Domnul meu
+Eu cred în El, orice ar fi
+Eu cred și sper că vine o zi
+/: Când voi fi cu El :/
+În veșnicii
+
+[v2]
+Chiar dacă noaptea lumii ar veni,
+Chiar dacă stele nu ar mai luci,
+Chiar dacă soarele ascuns va sta,
+Și dimineața va întârzia.
+Chiar dacă zilele se vor grăbi,
+Chiar dacă anii iute vor fugi,
+Chiar dacă viața se va termina,
+/: Eu cred :/ în Dumnezeu, iubirea mea.

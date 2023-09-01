@@ -1,0 +1,35 @@
+[title]
+Sa mergem inainte {author: {Câmpeanu Cezar}, {rcId: {100103}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Să mergem tot ’nainte
+Și niciodată înapoi,
+Cu dragostea-I fierbinte,
+Isus Hristos este cu noi.
+
+[c]
+Spre slava țării sfinte,
+Și-a ei mari biruinți,
+Să mergem toți ’nainte,
+Prin cânt și suferinți.
+
+[v2]
+Ne este mare mângâiere,
+Că în Isus suntem uniți,
+El este-a noastr-avere,
+Cu toții suntem fericiți.
+
+[v3]
+Necazuri multe și urgie,
+De vor veni mereu șuvoi,
+Vom birui orice pustie,
+Hristos Isus este cu noi.
+
+[v4]
+El este-n veci Biruitorul
+Ce S-a jertfit, că ne-a iubit,
+Al nostru-i veșnic viitorul,
+Cu raiul sfânt ce l-am dorit.

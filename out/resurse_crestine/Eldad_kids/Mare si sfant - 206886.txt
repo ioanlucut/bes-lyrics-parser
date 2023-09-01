@@ -1,0 +1,26 @@
+[title]
+Mare si sfant {author: {Eldad Kids}, {rcId: {206886}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+Merg prin pădure adesea, privesc in jurul meu
+Întreaga natură și codrii cântă: mare-i Dumnezeu!
+Oceane fără margini și munții cei înalți
+Păsări, mii și mii, ce zboară-n înălțimi
+Îl laudă pe Împărat
+
+[c]
+/: Mare, mare, mare E și sfânt
+Mare, mare, în cer și pe pământ :/
+
+[v2]
+Sunt un copil, dar vreau să spun: viața mi-am predat
+Celui care E sfânt și mare, Domnul preaînalt!
+Împreună cu natura și cu ceru-ntreg
+Îl voi slăvi și-L voi lăuda pe Domnul Dumnezeu
+
+[b]
+/: Minunat, glorios, e Dumnezeul Sfânt
+Minunat, glorios, în cer și pe pământ! :/

@@ -1,0 +1,40 @@
+[title]
+Drumul ce duce la golgota {author: {Quo Vadis}, {rcId: {161447}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Drumul ce duce la Golgota
+E plin de oameni, ce par a-ntreba:
+”
+Cine e omul ce poartă, cu greu,
+Imensa cruce in spatele Său?
+În El, speranța noi toți ne-am pus,
+Credeam că-I Mesia, din Ceruri de Sus!”
+
+[v2]
+Plină-i de răni toata fața Sa,
+Cu greu pășește, sub crucea grea.
+Pentru ce vină e osândit
+Omul Acesta neprihănit?
+Mulțimi de oameni a vindecat!
+Speram că-I Mesia mult așteptat!
+
+[v3]
+Chinul cumplit cum va îndura?
+De-I El Hristosul, Se va salva!
+Jugul roman l-ar putea zdrobi,
+Și-al nostru Rege, atunci, ar fi.
+:/
+Însă, speranța-n zadar ne-am pus:
+Iată-L, E mort, sus pe cruce străpuns
+/: BIS
+
+[v4]
+Dar, ce minune, ce mare har,
+Că moartea Lui nu a fost in zadar!
+Iată, din morți El a înviat,
+Precum a spus, la cer S-a-nălțat!
+Prin marea-I jertfă, la Golgota,
+Crezând, primi-vom iertarea Sa.

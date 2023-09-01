@@ -1,0 +1,47 @@
+[title]
+Te prind fiori te simti murdar {author: {Nicolae Moldoveanu}, {rcId: {4196}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Te prind fiori, te simți murdar,
+Te-a prins păcatul la răscruce.
+/: Și tu nu știi, copil fugar,
+C-am fost lovit cu-atât amar
+/: Și-am stat, în locul tău, pe cruce? :/
+
+[v2]
+Te uiți la cer, te simți zdrobit,
+Nu-i nimenea să te-nțeleagă!
+/: Și tu nu știi, n-ai auzit
+Că, pentru tot ce-ai săvârșit,
+/: Eu am plătit pedeapsa-ntreagă? :/
+
+[v3]
+O, cât ai vrea să fii curat
+Și să începi o viață nouă!
+/: Și tu nu știi, tu n-ai aflat
+Că pentru ține, mi-am lăsat
+/: Străpunse mâinile-amândouă? :/
+
+[v4]
+Ce fericiți sunt frații mei,
+Toți cei iertați de fapte rele
+/: Și tu nu știi și tu nu vrei
+Să-ntinzi doar mâna și să iei
+/: Ofrandă îndurării mele! :/
+
+[v5]
+Ți-a spus un duh neînțelept
+Că nu mai poți găsi iubire...
+/: Și tu nu știi că tot ce-aștept
+E doar să vii, să-mi cazi la piept
+/: Cu un cuvânt de mulțumire? :/
+
+[v6]
+O, vino dar, te chem să vii,
+Să-ți iei din mâna Mea cununa!
+/: Și-atunci vei știi ce azi nu știi:
+C-ai fost al Meu din veșnicii,
+/: Și ești al Meu pe totdeauna! :/

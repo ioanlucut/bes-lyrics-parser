@@ -1,0 +1,29 @@
+[title]
+Nu mai e mult din noaptea {author: {Gabriel Gorcea}, {rcId: {232426}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Nu mai e mult din noaptea întunecoasa
+Nu mei e mult până zorii se ivesc
+Doresc sa ajung, doresc s-ajung acasă
+Pe salvatorul meu sa-l întâlnesc
+
+[c]
+Isus Hristos cu slava va veni
+Orice ochii îl va vedea
+Dar ne-a promis ca ne vom întâlni
+Si-o veșnicie cu El ne-om bucura.
+
+[v2]
+Nu mai e mult din greu din noaptea rece
+Zorile curând se vor ivi
+Mai e puțin si întunericul va trece
+Pe Domnul meu îl voi reîntâlni.
+
+[v3]
+Mai rabdă porumbiță din ruine
+Isus Hristos curând va apărea
+Mântuitorul revine după tine
+Si te va duce in împărăția Sa.

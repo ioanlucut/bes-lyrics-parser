@@ -1,0 +1,29 @@
+[title]
+Mai auzi tu vocea sfanta ? {author: {Speranța}, {rcId: {111323}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Mai auzi tu vocea sfântă,
+Glasul Tatălui Ceresc ?
+Te mai însoțește astăzi
+Sfatul sfânt, Dumnezeiesc ?
+Mai auzi mustrarea sfântă
+Când pe drumul rău pornești
+Îți mai spune Duhul Ție
+Când să mergi sau să te oprești ?
+
+[c]
+Lasă-ți urechea s-audă mesajul din Scripturi!
+O, cât de bune și curate sunt sfintele învățături!
+
+[v2]
+Mai auzi tu vocea sfântă,
+Care-ți spune că acum
+Biblia se împlinește ?
+Domnul vine, e pe drum
+Mai auzi chemarea blândă
+Vocea Duhului cel Sfânt
+Care-și cheamă azi mireasa
+Să o ia de pe pământ.

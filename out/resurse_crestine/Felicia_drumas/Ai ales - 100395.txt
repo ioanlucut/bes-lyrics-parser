@@ -1,0 +1,35 @@
+[title]
+Ai ales {author: {Felicia Drumas}, {rcId: {100395}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Stau și-mi aduc aminte, Doamne,
+Cum pe pământu-acesta ai venit.
+Da, stau și mă-ntreb pentru ce oare
+Părăsit-ai slava Ta, Isus Iubit.
+
+[c]
+/: Ai ales în lume să trăiești,
+Să mă înveți ce-nseamnă dragostea.
+M-ai iubit și încă mă iubești,
+Rămâi, Isus, tăria mea :/
+
+[v2]
+Cred tot ce spune Sfânta Carte,
+Când în paginile ei citesc.
+Da, cred c-ai fost plin de bunătate
+Și ai venit până aici să mă salvezi.
+
+[v3]
+Pot să spun NU la-ngrijorare
+Și toată Ție, Doamne, să Ți-o dau.
+Da, pot să mă lupt cu încercarea
+Și în Fața Ta biruitor să stau.
+
+[v4]
+Știu să Te strig când mă simt singur,
+Tu îmi vii în ajutor mereu.
+Da, știu să tac azi și să nu murmur,
+Când din Cerul Tău îmi spui să rabd la greu.

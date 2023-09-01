@@ -1,0 +1,28 @@
+[title]
+Fii laudat {author: {Daniel Cristian}, {rcId: {91751}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Isus este dragostea
+Este a mea fericire
+Mai presus de orice
+E cea mai mare bucurie
+Tu, cu Tatal m-ai impacat
+De-al meu pacat ai uitat
+Esti cel mai mare imparat
+Numai Tu
+
+[c]
+/: Fii laudat, aleluia
+Fii laudat, osana
+Fii laudat,
+Mesia
+In veci de veci Fii laudat :/
+
+[v2]
+Mantuire am primit
+Cand inima Ti-am predat
+Adonai, esti Preasfant
+Esti laudat, glorificat

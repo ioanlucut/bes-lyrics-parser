@@ -1,0 +1,41 @@
+[title]
+Capul cand te doare canta o cantare {author: {Dionisie Giuchici}, {rcId: {1496}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Capul când te doare, cântă o cântare
+Și-ai să vezi cum te vei ușura
+Ia medicamentul Biblia, Testamentul
+Și citește-n ea neîncetat.
+
+[c]
+/: Mai ridică-ți privirile-n sus
+Și privește la Domnul Isus
+Care-a stat și-a răbdat pe Calvar
+Să ne-aducă iertarea în dar. :/
+
+[v2]
+Fă ca și ologul ca și slăbănogul
+Care prin credință au privit
+Domnul cu-ndurare le-a dat vindecare
+S-a-ndurat de ei, i-a vindecat.
+
+[v3]
+Orice slăbiciune, orice amărăciune
+Care îți apasă trupul tău
+Roagă-te și cere Doamne dă-mi putere
+Strigă neîncetat la Dumnezeu.
+
+[v4]
+Rabdă încercarea, cere îndurarea
+Căci la urmă te vei bucura
+După ce căldura îți topește zgura
+Domnul te va binecuvanta.
+
+[v5]
+Domnu-i lângă tine, brațul Lui te ține
+Să te rogi mai mult să stăruiești
+Orice încercare cât ar fi de mare
+Prin Isus Hristos o biruiești!

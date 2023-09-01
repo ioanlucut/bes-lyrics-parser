@@ -1,0 +1,50 @@
+[title]
+Mare e domnul meu {author: {Puiu Chibici}, {rcId: {89721}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Mare e Domnul meu,
+Mare e Domnul meu,
+Mare și puternic,
+De iubire vrednic,
+Mare e Domnul meu.
+
+[v2]
+Mare e Domnul meu,
+Mare e Domnul meu,
+Plin de îndurare,
+Gata de iertare,
+Mare e Domnul meu!
+
+[v3]
+Mare e Domnul meu,
+Mare e Domnul meu,
+Plin de bunătate
+Și bogat în toate,
+Ce mare-i Domnul meu!
+
+[v4]
+Ce mare-i Domnul meu,
+Ce mare-i Domnul meu,
+Plin de blândețe,
+Har și frumusețe,
+Ce mare-i Domnul meu!
+
+[v5]
+Ce mare-i Domnul meu,
+Ce mare-i Domnul meu,
+Medic fără plată,
+Dumnezeu și Tată,
+Mare e Domnul meu.
+Mută chiar și munții,
+Înviază morții,
+Așa e Domnul meu!
+
+[v6]
+Acesta-i Dumnezeu,
+Acesta-i Dumnezeu,
+Vrednic de-nchinare
+Și de ascultare,
+Acesta-i Domnul meu!

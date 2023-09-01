@@ -1,0 +1,33 @@
+[title]
+Tu esti vesnic {author: {Oniță Halunga}, {rcId: {160492}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,
+
+[c]
+Tu ești veșnic, puternic,
+Dumnezeu adevărat!
+Nu-i nimic ce nu poți face,
+Fii în veci glorificat!
+Tu ești veșnic, puternic,
+Dumnezeu adevărat!
+Nu-i nimic ce nu poți face,
+Atotputernic Împărat!
+
+[v1]
+Tu poți face un ocean în inima deșertului,
+Stânca-n două poți s-o dai, miști muntele din locul lui,
+Piatra-n pâine o prefaci și hrănești și buni, și răi,
+Chiar și mările desparți, izbăvești copiii Tăi!
+
+[v2]
+Orbilor vedere dai, șchiopii pot umbla din nou,
+Surzii pot auzi iar al Cuvântului ecou.
+Ești ce nimeni n-ar putea fi, Tată al orfanilor,
+Și lumină-n miezul nopții în al gândului război.
+
+[v3]
+Florile Îți cântă-n susur, norii ne spun a Ta slavă,
+La Cuvântul Tău și vântul se poate opri îndată!
+Păsărilor le dai hrană-n fiecare zi din an,
+Omenirea-Ți cânta azi: ești Dumnezeul suveran!

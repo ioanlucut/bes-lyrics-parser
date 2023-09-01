@@ -1,0 +1,45 @@
+[title]
+Eu sunt mic nu stiu nimic {author: {Natanael Neag}, {rcId: {211581}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Eu sunt mic, nu știu nimic
+Doar atât am învățat
+Cor:
+Să iubesc cu inima
+Să nu urăsc pe nimenea
+Chiar de mi-a greșit
+Să iert din toată inima :/
+x2
+
+[v2]
+Eu sunt mic, nu știu nimic
+Doar atât am învățat
+Cor:
+Să mă rog Lui Dumnezeu
+Și să cred in Harul Său
+Să stau lângă El mereu
+Căci El este Tatăl meu :/
+x2
+
+[v3]
+Eu sunt mic, nu știu nimic
+Doar atât am învățat
+Cor:
+Să nu-mi leg inima mea
+De nimic din lumea rea
+Să o leg de Dumnezeu
+Căci eu sunt copilul Său :/
+x2
+
+[v4]
+Eu sunt mic, nu știu nimic
+Doar atât eu pot să-ți spun
+Cor:
+Ca s-ajungi in cer la El
+Să trăiești și tu la fel
+Chiar așa cum ne-a-nvătat
+Să iubim cu-adevărat :/
+x2

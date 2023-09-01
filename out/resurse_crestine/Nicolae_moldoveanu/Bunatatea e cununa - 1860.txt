@@ -1,0 +1,29 @@
+[title]
+Bunatatea e cununa {author: {Nicolae Moldoveanu}, {rcId: {1860}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Bunătatea e cununa
+Celui drept și credincios,
+Ce păstrează-n el statornic
+Frumusețea lui Hristos!
+
+[c]
+Bunătatea, bunătatea,
+Roada Duhului Preasfânt,
+Doamne, crește-ne-o deplină
+În trăire și-n cuvânt!
+
+[v2]
+Bunătatea-i ca lumina
+Ce se dăruie deplin,
+Orișicând, la orișicine,
+La al tău și la străin!
+
+[v3]
+Dumnezeul bunătății,
+Fă-ne ca să-Ți semănăm,
+Să fim necurmat ca Tine:
+Bunătatea s-o-nălțăm!

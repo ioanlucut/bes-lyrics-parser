@@ -1,0 +1,41 @@
+[title]
+Vin la tine isus ca sa te slavesc {author: {Nicolae Moldoveanu}, {rcId: {5447}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Vin la Tine Isus, ca să Te slăvesc
+Și viața-ntreagă să Te preamăresc;
+/: Vreau să Te măresc Isuse, că-mi dai bucurii nespuse;
+M-ai făcut copilul Tău, să mă scapi de rău. :/
+
+[v2]
+Eu, Isuse dragă, pe pământul Tău,
+Am trăit o viață fără Dumnezeu.
+/: Fără Dumnezeu în lume, nu știam de fapte bune,
+Dar prin mare mila Ta, mi-ai arătat calea. :/
+
+[v3]
+Prin harul Tău mare, m-ai răscumpărat;
+Prin a Ta dragoste, sângele Ți-ai dat.
+/: Sângele nevinovat pe pământ a picurat,
+Lângă cruce-aicea jos, căci sunt păcătos. :/
+
+[v4]
+Căci păcatul meu pe care l-am făcut
+A fost așa mare, de neîntrecut,
+/: Dar Isus văzându-mi starea, El Și-a început lucrarea:
+A sunat cu trâmbița, la urechea mea. :/
+
+[v5]
+Și, ca într-un vis, Mielul Cel junghiat
+Hainele murdare mi le-a dezbrăcat.
+/: Și m-a îmbrăcat, deodată, în haina Lui minunată
+Și în haina Mielului stă Duhul Domnului. :/
+
+[v6]
+De astăzi înainte, Ție vreau să-Ți cânt
+Chiar și când voi fi în cerul Tău preasfânt;
+/: Când va fi lumina mare, ce nu are-asemănare,
+Vreau să-Ți cânt cu glasul meu, Tu s-asculți mereu. :/

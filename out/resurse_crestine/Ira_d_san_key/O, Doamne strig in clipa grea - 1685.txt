@@ -1,0 +1,35 @@
+[title]
+O doamne strig in clipa grea {author: {Ira D. San, key}, {rcId: {1685}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+O, Doamne, strig în clipa grea:
+Privește neputința mea,
+Cu bratul Tău mă scapi de ea;
+Cum sunt primește-mă!
+
+[c]
+Cum sunt, primește-mă,
+Cum sunt primește-mă,
+Tu ești Mântuitorul meu,
+Cum sunt primește-mă!
+
+[v2]
+Păcatul mă apasă greu;
+Te rog, mă scapă de cel rău!
+Doresc de-acum să fiu al Tău,
+Cum sunt primește-mă!
+
+[v3]
+Zel, râvnă, pace îmi lipsesc,
+Încât și ceea ce doresc
+Precum aș vrea nu-ndeplinesc;
+Cum sunt primește-mă!
+
+[v4]
+Te-aștept acum îngenuncheat,
+Dar nu ca și disperat
+Știind că Tu ești îndurat;
+Cum sunt primește-mă!

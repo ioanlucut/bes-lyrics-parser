@@ -1,0 +1,29 @@
+[title]
+Din slavi ai coborat {author: {Gabriel Gorcea și prietenii}, {rcId: {80075}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Din slăvi ai coborât în astă lume,
+Venit-ai pe pământ de dragul meu,
+Lăsat-ai cerul cu al lui splendoare
+Să împaci omenirea cu Dumnezeu.
+
+[c]
+/: Pentru mine ai răbdat pe cruce la Calvar
+La Golgota mi-ai șters al meu păcat,
+Pentru mine ai băut chinul cel amar,
+Ce mare Har să fiu iertat. :/
+
+[v2]
+Din slăvi ai coborât în astă lume,
+Iar oamenii de-atunci Te-au judecat,
+Însă pentru cei ce cred în Tine
+I-ai mântuit și i-ai iertat.
+
+[v3]
+Din slăvi ai coborât în astă lume,
+Și chip de om, Doamne-ai îmbrăcat,
+Iar celor care cred în Sfântu-Ți Nume,
+I-ai numit fii de Împărat.

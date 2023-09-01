@@ -1,0 +1,23 @@
+[title]
+Nu mai fi trist amice {author: {Alexandru Groza}, {rcId: {7123}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Nu mai fi trist, amice, uită-ți necazul greu
+Nădăjduiește-n Domnul, E salvatorul tău
+Întoarce-ți tu azi privirea spre Cel ce te-a creat
+/: Primește-L azi în suflet să fii și tu salvat :/
+
+[c]
+/: Întoarce-te din pierzare, din lumea de păcat
+Primește mântuirea să fii și tu salvat
+Întoarce-te din pierzare la viața veșnică,
+Numai în Domnul vei găsi pace, fericire. :/
+
+[v2]
+Nu-ți pierde a ta suflare, nu-ți stinge zilele
+Fără de mântuire nu ai izbăvire
+Un strop de fericire în suflet tu nu ai
+/: Dacă nu-L ai pe Domnul, nici pacea tu nu ai :/

@@ -1,0 +1,28 @@
+[title]
+Isus prietenul meu {author: {Decean}, {rcId: {4320}}
+
+[sequence]
+v1,c,c
+
+[v1]
+Ai auzit de Salvatorul
+Ai auzit de dragostea Lui
+Ai auzit tu de Cel din ceruri
+Ai auzit cum și-a dat Fiul Lui
+Iubire am găsit
+Și cred în Fiul Său
+Condu-mă Tu!
+
+[c]
+Eu cred în Salvatorul
+Cred că El a înviat
+Cred că voi trăi totdeauna
+Cu al meu Domn și împărat
+Iubire am găsit
+Și cred în Fiul Său
+Condu-mă Tu.
+
+[b]
+Isus ești prietenul meu
+Și vei fii mereu
+Nimeni nu schimbă asta.

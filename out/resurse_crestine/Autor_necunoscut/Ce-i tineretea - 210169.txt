@@ -1,0 +1,35 @@
+[title]
+Ce-i tineretea {author: {Anonim}, {rcId: {210169}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ce-i tinerețea fără de iubire
+Ce-s trandafirii fără de miros
+Ce-i ziua fără razele de soare
+Ce-i viața aceasta fără de Hristos
+
+[c]
+Hristos e dragostea, e Regele Suprem
+Isus e-acel ce ne-a iubit întâi
+Poți totul în Hristos, nimic ești fără El
+Te roagă să rămâi în harul Lui
+
+[v2]
+Ce-s norii fără ploaia timpurie
+Ogorul fără grâul încolțit
+Pădurea fără glas de ciocârlie
+Ce-ai fi fără al tău Isus iubit
+
+[v3]
+Ce-s zorii fără glas de păsărele
+Și crinii fără-al lor miros plăcut
+Cântarea fără melodia-i dulce
+Izvoare fără ape de băut
+
+[v4]
+E Dumnezeul Sfânt și-Atotputernic
+Ce totul a creat cu-al Său Cuvânt
+Prin El tot ce vedem are valoare
+În ceruri sus și-aici jos pe Pământ.

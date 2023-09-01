@@ -1,0 +1,19 @@
+[title]
+Tatal avraam {author: {Anonim}, {rcId: {5173}}
+
+[sequence]
+c,v1,c
+
+[c]
+Tatăl Avraam are mulți fii,
+Mulți fii are Tatăl Avraam.
+Suntem printre ei si tu si eu,
+Dam slavă Domnului.
+
+[v1]
+Dreapta
+2. Dreapta/stânga/
+3. Dreapta/stânga/Dreptul
+4. Dreapta/stânga/Dreptul/Stângul
+5. Dreapta/stânga/Dreptul/Stângul/Ne-nvârtim
+6. Dreapta/stânga/Dreptul/Stângul/Ne-nvârtim/Stăm jos!

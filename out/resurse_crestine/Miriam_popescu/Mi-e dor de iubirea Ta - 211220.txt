@@ -1,0 +1,34 @@
+[title]
+Mi-e dor de iubirea ta {author: {Miriam Popescu}, {rcId: {211220}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Îndurarea Ta, bunătatea Ta,
+Mila Ta ce-o ai pentru mine.
+Mă copleșesc, mă liniștesc
+Câte binecuvântări ai Tu.
+
+[c]
+Mi-e dor de iubirea Ta
+Ce-mi inundă inima.
+Nu te văd, dar Te simt întotdeauna
+Cât ești de bun și de frumos.
+Mi-e dor să văd Chipul Tău,
+Dragostea Ta atât de mare.
+Inima mi-ai salvat
+Îți mulțumesc cu-adevărat,
+Eu te iubesc!
+
+[v2]
+Cât ești Tu de bun în dreptatea Ta,
+Tu mă izbăvești de durere.
+Îmi ștergi lacrima, îmi iei durerea.
+Câte binecuvântări ai Tu.
+
+[v3]
+O, cât de mare ești Tu, Doamne,
+O, cât de frumos ești Tu.
+Pune-n gura mea și-n inima mea
+Dorul de-a Te adora.

@@ -1,0 +1,28 @@
+[title]
+O o cerul e in inima mea {author: {Anonim}, {rcId: {5027}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Împărăția Lui e aici,
+Cerul e în inima mea.
+Îi simt prezența lui Isus,
+Cerul e în inima mea.
+Și în sfințenie îmbrăcat,
+Cerul e în inima mea.
+Îi cânt că sunt răscumpărat,
+Cerul e în inima mea.
+
+[c]
+/: O, o, cerul e în inima mea. :/
+
+[v2]
+Noi suntem templul Lui cel sfânt,
+Cerul e în inima mea,
+Ce în Hristos am fost zidiți,
+Cerul e în inima mea.
+Și când pe nori El va veni,
+Cerul e în inima mea,
+Mireasa sa o va răpi.
+Cerul e în inima mea.

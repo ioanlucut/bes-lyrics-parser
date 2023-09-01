@@ -1,0 +1,37 @@
+[title]
+Chiar daca valuri vor veni {author: {Fratii din Bacesti}, {rcId: {210127}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Isus cu ucenicii a pornit,
+Pe mare o furtuna s-a starnit,
+Iar Domnul Isus in barca dormea,
+A vrut sa le incerce credinta. :/
+
+[c]
+/: Chiar daca valuri vor veni,
+Ele nu ma vor birui,
+/: Eu nu ma tem! : \
+Vantul, furtuna de-ar urla,
+Isus este de partea mea,
+/: Eu nu ma tem! : \
+/: Chiar daca valuri vor veni,
+Ele nu ma vor birui,
+/: Eu nu ma tem! : \
+Vantul, furtuna de-ar urla,
+Isus este de partea mea,
+/: Eu nu ma tem! : \
+
+[v2]
+/: Cand totul in viata ne merge bine
+Noi nu ne mai gandim, Doamne, la Tine,
+Dar cand vin valuri si nu biruim
+Strigam:,, Scapa-ne, Doamne, ca pierim!”: \
+
+[v3]
+/: Daca de Domnul nu vei asculta
+Si ve fugi de El ca si Iona,
+Valuri, furtuni vor bate-n barca ta
+Sa te opreasca din calea cea rea. : \

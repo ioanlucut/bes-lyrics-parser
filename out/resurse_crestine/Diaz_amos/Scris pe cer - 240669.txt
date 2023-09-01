@@ -1,0 +1,23 @@
+[title]
+Scris pe cer {author: {Diaz Amos}, {rcId: {240669}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Pe cerul nopții în albastru închis
+Se joacă stelele în celest abis.
+Cât e de frumos, Doamne a lăuda
+Minunea ce creionează ființa Ta!
+
+[c]
+Desenez pe cerul deschis
+În culori și în alb aprins!
+Modelez literele astfel încât
+Să se înțeleagă Cuvântu-Ți Sfânt!
+
+[v2]
+Chipul meu privește necuprinsul;
+Privirea-mi ațintită-i spre scrisul.
+Scris plin de mister pe albastrul cer,
+De a Ta iubire mă simt liber!

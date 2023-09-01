@@ -1,0 +1,24 @@
+[title]
+El e domn {author: {Anonim}, {rcId: {1247}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+El e Domn, El e Domn,
+El din morți a înviat și este Domn!
+Toți se vor pleca, vor mărturisi:
+Isus Hristos e Domn!
+
+[v2]
+El e Domn, El e Domn,
+El la cer S--a înălțat și este Domn!
+Toți se vor pleca, vor mărturisi:
+Isus Hristos e Domn!
+
+[v3]
+El e Domn, El e Domn,
+El cu slavă va veni,
+Căci este Domn!
+Toți se vor pleca, vor mărturisi:
+Isus Hristos e Domn!

@@ -1,0 +1,60 @@
+[title]
+Nu e nume mai minunat(what a beautiful name) {author: {Hillsong Worship}, {rcId: {183518}}
+
+[sequence]
+v1,c,v2,c2,b,e,c3,e,c3
+
+[v1]
+La inceput a fost Cuvantul
+Dumnezeul preainalt
+Iar slava Ta ce umple cerul
+Printre noi ai aratat
+
+[c]
+Nu e nume mai minunat
+Nu e nume mai minunat
+Isus, al nostru Imparat
+Nu e nume mai minunat
+Nu poate fi comparat
+Nu e nume mai minunat
+Ca al lui Isus
+
+[v2]
+Tu n-ai vrut cerul fara oameni
+Si pentru noi Tu l-ai lasat
+Pacatul cat a fost de mare
+Mai mare-a fost iubirea ta
+
+[c2]
+Nu e nume mai glorios
+Nu e nume mai glorios
+Ca numele Isus Hristos
+Nu e nume mai glorios
+Ce poate fi mai frumos?
+Nu e nume mai glorios
+Ca al lui Isus
+
+[b]
+Moartea e-nfranta
+Perdeaua e rupta
+Ai biruit al meu pacat
+Cerul exclama
+Ingeri proclama
+Tu din mormant ai inviat
+
+[e]
+Nu este nimeni
+Nimeni ca tine
+Azi si in veci esti imparat
+A ta e domnia
+Cinstea si gloria
+Numele cel mai inaltat
+
+[c3]
+Cat de mare Ti-e numele
+Cat de mare Ti-e numele
+Isus, al nostru Dumnezeu
+Cat de mare Ti-e numele
+Nimeni nu e la fel
+Cat de mare Ti-e numele
+O, Doamne Isus!

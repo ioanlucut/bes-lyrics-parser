@@ -1,0 +1,35 @@
+[title]
+O porumbita ce stai printre stanci {author: {Nicolae Moldoveanu}, {rcId: {5672}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+O, porumbita, ce stai printre stanci,
+Ascunsa-n scobiturile adanci...
+/: Ridica-ti mahrama si glasul sa-ti ascult!
+Te caut, prin munti si pesteri: si de ce nu-Mi raspunzi? :/
+
+[v2]
+O, vino, iesi afara ca sa-ti vorbesc,
+Caci florile-n camp miros raspandesc
+/: Se parguiesc roadele in smochin
+Iar via, in floare, miroase din plin. :/
+
+[v3]
+De ce mai plangi, cand tu esti aceea de pret!
+Vreau sa te duc, in casa de ospat,
+/: Dar pana-atunci, invioreaza-te!
+Cu turtele de struguri, intareste-te! :/
+
+[v4]
+O, vino... Iesi afara, zorii se ivesc...
+Tu esti a Mea, si Eu la tine vin;
+/: Sar, peste muntii care ne despart,
+Caci, tu esti singura ce o am mai cu drag. :/
+
+[v5]
+De-aceea Eu iti zic: tu nu inceta
+Sa-Mi canti cantarea dragostei dintai,
+/: Caci, in curand, vei fi in casa Mea,
+Scapata-n veci, de suferinta grea... :/

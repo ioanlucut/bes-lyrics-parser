@@ -1,0 +1,42 @@
+[title]
+Pe marea vietii {author: {Alexandru Groza}, {rcId: {7203}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Pe marea vieții plutesc obosit
+De valuri sunt amenințat,
+N-am nici o șansă ca să fiu salvat
+Nu-i nimeni să-mi dea ajutor.
+
+[c]
+Atunci eu strig către Isus
+Către al meu Mântuitor
+El liniștește mările pe loc,
+Cu-al Său cuvânt mareț și sfânt
+El dirijează orice vânt
+Slăvit să fie numele Lui Sfânt.
+Slăvit să fie numele lui sfânt
+În veci de veci, da, să fie mărit.
+
+[v2]
+Când munți înalți se cutremură toți,
+Atunci eu mă rog lui Isus
+El mă ridică dar cu mâna Sa
+Și mă ocrotește cu ea.
+
+[c2]
+/: Printr-un cuvânt eu sunt salvat
+De Cel ce m-a răscumpărat
+Numele Lui fie lăudat în veci, Slăvit să fie numele Lui Sfânt.
+Slăvit să fie numele lui sfânt
+În veci de veci, da, să fie mărit.
+Pe El îl voi cânta mereu
+El e Mântuitorul meu
+Numele Lui fie lăudat în veci!
+Printr-un cuvânt eu sunt salvat
+De Cel ce m-a răscumpărat
+Numele Lui fie lăudat în veci. :/ Slăvit să fie numele Lui Sfânt.
+Slăvit să fie numele lui sfânt
+În veci de veci, da, să fie mărit. :/

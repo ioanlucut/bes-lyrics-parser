@@ -1,0 +1,35 @@
+[title]
+Auzi cum suna de departe {author: {Ioan Chismorie}, {rcId: {203217}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Auzi cum sună de departe
+Un cor măreț de sfinți
+Ce prin inima mea străbate
+Aș vrea să cânt cu ei
+
+[c]
+Vino și tu amice dragă
+Până ai timp
+Vino, cât ușa e deschisă
+Vino și tu
+
+[v2]
+Cântarea lor îmi place mie
+Ce-o cântă îngerii
+Ce nimeni pe Pământ nu știe
+Aș vrea să cânt cu ei
+
+[v3]
+Când voi sfârși călătoria
+Și-n ceruri sus voi fi
+Pe Domnul meu mântuitorul
+În veci îl voi slăvi
+
+[v4]
+Acolo-n marea sărbătoare
+Voi întâlni pe-ai mei
+Și vom cânta mărire, slavă
+Aș vrea să fiu cu ei

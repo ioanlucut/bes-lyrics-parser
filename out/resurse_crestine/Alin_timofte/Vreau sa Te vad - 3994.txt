@@ -1,0 +1,27 @@
+[title]
+Vreau sa te vad {author: {Alin Timofte}, {rcId: {3994}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Într-un loc liniștit și-ascuns
+În tăcere ești prezent
+Într-un ceas tainic și tăcut
+Te aștept, căci îmi doresc
+Să Te cunosc mai mult.
+
+[c]
+Vreau să Te văd,
+Vreau s-aud Vocea Ta,
+Să Te cunosc mai mult,
+Vreau să Te-ating
+Vreau să văd Fața Ta,
+Să Te cunosc mai mult.
+
+[v2]
+Înspre țintă ne-ncetat alerg,
+Voia Ta vreau s-o-mplinesc.
+Orice-obstacol îl înlătur
+Și-naintez, căci îmi doresc
+Să Te cunosc mai mult.

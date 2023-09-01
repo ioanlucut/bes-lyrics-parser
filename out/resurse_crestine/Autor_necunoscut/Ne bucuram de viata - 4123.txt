@@ -1,0 +1,29 @@
+[title]
+Ne bucuram de viata {author: {Anonim}, {rcId: {4123}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Ne bucurăm de viață în fiecare zi
+Avem bucurie-n suflet, indiferent ce-ar fi
+Fiindcă tot ce ne-nconjoară vine din Dumnezeu
+Și tot ce noi vedem cu ochii e creat de Dumnezeu.
+
+[c]
+/: Mulțumește-I azi pentru flori și soare
+Pentru ziua ce-o trăiești
+Pentru dragoste și pace
+Azi vino să-I mulțumești :/
+
+[v2]
+Privind la Dumnezeu și la iubirea Sa
+Vedem câtă bunătate la toți ne-a arătat
+Deși noi eram departe, robiți de-al nost’ păcat
+Totuși Isus, murind pe cruce, Eliberare El ne-a dat
+
+[c2]
+/: Mulțumește-I azi pentru mântuire
+Pentru drumul către cer
+Tu și eu avem iertare
+Și pace cu Dumnezeu :/

@@ -1,0 +1,16 @@
+[title]
+Te voi slavi {author: {Speranța}, {rcId: {111360}}
+
+[sequence]
+v1,c
+
+[v1]
+Te voi slăvi și-Ți voi cânta,
+Voi înălța mărirea Ta!
+Tu ești minunat, Sfinte Tată, Dumnezeu!
+Tu ești minunat, Mare e Numele Tău!
+
+[c]
+/: Ești Rege-al regilor, Domn al Domnilor! :/
+Te lăudăm, Te lăudăm, Te lăudăm, Salvator Divin!
+Te lăudăm, Te lăudăm, Te lăudăm, în veci fii proslăvit!

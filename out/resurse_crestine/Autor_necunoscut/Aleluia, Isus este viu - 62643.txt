@@ -1,0 +1,20 @@
+[title]
+Aleluia isus este viu {author: {Anonim}, {rcId: {62643}}
+
+[sequence]
+c,v1,c
+
+[c]
+Aleluia, Isus este viu,
+Pe cruce-a biruit,
+Puterea morții a învins
+Pentru totdeauna
+El trăiește, El trăiește.
+
+[v1]
+El e Alfa și Omega,
+Începutul și sfârșitul.
+Viață și tărie
+Doar prin El noi am primit
+Pentru totdeauna
+El trăiește, El trăiește.

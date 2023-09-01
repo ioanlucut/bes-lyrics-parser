@@ -1,0 +1,33 @@
+[title]
+In deznadejdea vietii mele {author: {Daniel Cojocărescu}, {rcId: {7372}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+În deznădejdea vieții mele
+La oameni mulți am alergat
+Dar nici la unul dintre aceștia
+Eu fericirea nu am aflat.
+
+[c]
+/: Numai la Isus :/
+Numai la El, eu pacea am aflat. :/
+
+[v2]
+Iar când durerea era mare
+Din cei mai mulți m-au alungat
+Și m-au lovit cu vorbe goale
+Iar spatele mi l-au întors.
+
+[v3]
+O, frate drag care mai suferi
+Căci ai tăi dragi te-au părăsit
+Hai la Isus să-i spui durerea
+Și orice lacrimi îți va lua.
+
+[v4]
+Și voi care sunteți pe lume
+Batjocoriți și mulți orfani
+Avem un frate sus în ceruri
+Ce ne păzește printre câini.

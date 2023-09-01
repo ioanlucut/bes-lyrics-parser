@@ -1,0 +1,41 @@
+[title]
+Nu mai spune-a ta durere frate nimanui {author: {Nicolae Moldoveanu}, {rcId: {5347}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Nu mai spune-a ta durere, frate, nimănui!
+Povestește-I tot necazul numai Domnului!
+/: N-alerga cu grijurile tale sufletești
+Nici la prieteni, nici la oameni, să le povestești! :/
+
+[v2]
+Oamenii nu pot s-aline suferința ta,
+Prietenii nu pot s-ajute orișicui ar vrea,
+/: Însă Cel din veșnicie binecuvântat
+A venit întotdeauna la câți L-au chemat. :/
+
+[v3]
+De plângi astăzi și te doare, mâine vei cânta;
+Cel ce știe-a face rana o va vindeca.
+/: Nu pierde curajul, frate, nu te întrista!
+Rana ta nu e spre moarte, ci spre slava Sa. :/
+
+[v4]
+Și când tu vei înțelege, vei dori mereu
+Pe Acela ce nu uită de poporul Său,
+/: Căci obrajii tăi cu lacrimi au fost adăpați,
+Dar în veșnicia slavei vor fi mângâiați. :/
+
+[v5]
+Deci, te du la Domnul, frate, El te-a ridica!
+Rana ta cea grea de moarte o va și lega.
+/: Și astfel vei fi de-a pururi de El ușurat,
+Căci așa cum El lucrează nimeni n-a lucrat!... :/
+
+[v6]
+Doamne, peste-a noastră față, toarn-al Tău alin!
+Peste ceața vieții noastre toarn-al Tău senin!
+/: Doamne, varsă-a Ta putere, mângâierea Ta!
+Peste noi întinde-Ți brațul, dă-ne pacea Ta! :/

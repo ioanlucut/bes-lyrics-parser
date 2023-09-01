@@ -1,0 +1,32 @@
+[title]
+Te stiu {author: {Adi Gliga}, {rcId: {1390}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c
+
+[v1]
+Te știu, alergi, când alții stau pe loc
+Te văd cum plângi, când oamenii nu pot
+Să stea puțin, să’sculte vocea Mea.
+
+[v2]
+Te văd cum strigi, când nu mă auzi deloc
+Dar Eu te ascult, chiar dacă treci prin foc
+Nu te opri, ascultă vocea Mea.
+
+[c]
+/: Te-aud, cu tine sunt
+Nu înceta!
+Fiecare clipă ce-o jertfești
+Pentru Mine știu că o trăiești
+Nu înceta, nu înceta! :/
+
+[v3]
+Nu te-ndoi, ci crede voia Mea
+Vei fi plăcut, și lumea va vedea
+Că Eu sunt sfânt, și sunt de partea ta.
+
+[v4]
+Mă vor credea, și se vor închina
+În față Mea cu toții vor cădea
+Mărturisind, că Eu sunt Dumnezeu.

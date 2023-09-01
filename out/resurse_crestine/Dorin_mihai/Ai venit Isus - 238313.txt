@@ -1,0 +1,35 @@
+[title]
+Ai venit isus {author: {Dorin Mihai}, {rcId: {238313}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Ai venit Isus din cer
+Intr-o iesle-n Betleem
+Intr-un staul neansemnat
+In lumea noastra de pacat
+
+[c]
+Vreau sa-ti cant o Domnul meu
+Vreau sa ma inchin doar tie
+Ca-n lumea noastra ai venit
+Plin de speranta si iubire
+
+[v2]
+Trei magi calauziti de-o stea
+Au ajuns la ieslea Ta
+Daruri scumpe-n dar ti-au dat
+Si cu drag s-au inchinat
+
+[v3]
+Ai venit ca m-ai iubit
+Ai vrut sa fiu mantuit
+Prin viata Ta ne-ai aratat
+O cale sfanta de urmat
+
+[c2]
+Vreau sa-ti multumesc mereu
+Ca te-ai nascut si pentru mine
+Cu tot ce am ma daruiesc
+Viata mea iti apartine

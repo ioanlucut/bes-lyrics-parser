@@ -1,0 +1,38 @@
+[title]
+De n-ai deschide mana {author: {Anonim}, {rcId: {75978}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+De n-ai deschide mana,
+Cu darurile Tale,
+/: As fi sortit, Isuse, 
+Pieirii pe-orice cale! :/
+
+[c]
+/: E harul Tau :/
+
+[v2]
+De n-ai veghea cu mila
+Asupra vieti mele,
+/: M-as prabusi-n adancul
+Nelegiuirii grele! :/
+
+[v3]
+De nu mi-ai da lumina
+Invataturii sfinte,
+/: In veci n-as fi in stare
+De nici un pas ’nainte! :/
+
+[v4]
+De nu mi-ai pune -n suflet
+Iubirea -n foc mai mare,
+/: S-ar stinge-n mine dorul
+Si ravna in lucrare! :/
+
+[v5]
+Caci tot ce am Isuse, 
+Am numai de la tine:
+/: E harul Tau cel vesnic, 
+Turnat mereu in mine! :/

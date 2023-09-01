@@ -1,0 +1,29 @@
+[title]
+Astept o zi {author: {Marius Livanu}, {rcId: {84658}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Aștept o zi, măreață zi, o zi de bucurie,
+Când, sus pe nori, vom întâlni iubitul nostru Mire.
+Îmi este dor să-L întâlnesc, să-I cânt cum n-am cântat
+Cântarea fericirii: Vino, Isus, Te doresc!
+
+[c]
+Aștept o zi, măreață zi, o zi de mare slavă,
+Isus pe nori va veni, ce strălucită zi!
+Aștept o zi, măreață zi, Îl voi vedea în slavă,
+Cu îngeri pe nori va veni, mi-e dor de-aceea zi.
+
+[v2]
+Trecut-au ani și trec mereu atâtea clipe sfinte,
+În care-aștept din cerul Său cu-atâta dor fierbinte
+Să-L întâlnesc și să-I rostesc ruga mea de seară
+Cântarea fericirii: Vino, Isus, Te aștept!
+
+[c2]
+/: Aștept o zi aștept o zi, măreață zi măreață zi, o zi de mare slavă
+Isus pe nori va veni va veni, ce strălucită zi!
+Aștept o zi aștept o zi, măreață zi măreață zi, o zi de mare slavă
+Cu îngeri pe nori va veni El va veni, mi-e dor de-aceea zi. :/

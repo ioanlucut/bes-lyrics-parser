@@ -1,0 +1,45 @@
+[title]
+Cu gandul doar la tine {author: {Frații Strugariu}, {rcId: {183891}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cu gândul doar la Tine,
+În zori eu mă trezesc.
+Cu gândul doar la Tine,
+Spunându-Ți Te iubesc.
+Cu gândul doar la Tine,
+Eu ziua o încep.
+Isus, în gând cu Tine,
+Viața îmi petrec.
+
+[c]
+Cu gândul doar la Tine,
+Eu cânt cântări de dor.
+Atunci când greul vine
+Cu Tine-l trec ușor.
+Isus, în gând cu Tine,
+Viața-i vis frumos,
+Mă simt atât de bine;
+Îți cânt, sunt bucuros.
+
+[v2]
+Cu Tine-n gând, Stăpâne,
+Lucrarea-mi isprăvesc.
+Îmi dai belșug de pâine
+Să-Ți cânt, să Te slăvesc.
+Cu Tine-n gând, cu Tine
+Adorm în ceas târziu.
+Am liniște deplină,
+De frică eu nu știu.
+
+[v3]
+Cu gândul doar la Tine,
+Cu gândul că revii,
+Țin candela aprinsă
+În nopțile târzii.
+Cu gândul doar la Tine,
+Spre cer mereu privesc;
+Să mă ridici din lume,
+Aștept, Mire ceresc.

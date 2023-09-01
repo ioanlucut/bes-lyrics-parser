@@ -1,0 +1,29 @@
+[title]
+N-aceasta zi frumoasa {author: {Anonim}, {rcId: {57639}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+N-aceasta zi frumoasa,
+S-aducem lui Isus
+Cantarea noastra aleasa,
+Caci ne-a iubit nespus.
+
+[c]
+Slavim slavim, slavim slavim,
+Pe-al nostru Imparat ceresc,
+Slavim slavim, slavim slavim,
+Pe Domnul adoram.
+
+[v2]
+El a iubit copii
+Cat a fost pe pamant
+Si-acuma sus in ceruri
+El ne iubeste mult.
+
+[v3]
+La tronul milei Sale
+Acum ingenunchem,
+Din suflet fiecare,
+Lui, viata sa-I predam.

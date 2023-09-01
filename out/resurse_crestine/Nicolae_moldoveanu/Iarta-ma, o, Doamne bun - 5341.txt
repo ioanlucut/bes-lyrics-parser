@@ -1,0 +1,29 @@
+[title]
+Iarta-ma o doamne bun {author: {Nicolae Moldoveanu}, {rcId: {5341}}
+
+[sequence]
+c,v1,v2,v3,v4,v5
+
+[c]
+Iarta-ma, o, Doamne bun! o Iarta-ma, Isus iubit!
+Iarta-ma, o, Duh Preasfant o Dumnezeul meu!
+
+[v1]
+/: Pentru gandul nesfintit, o Pentru patima-n privit,
+Pentru vorba fara har - o Doamne, iarta-ma Tu, iar! :/
+
+[v2]
+/: Pentru timpul meu trecut o Fara rodul ce l-ai vrut,
+Fara dragostea cu jar, o Doamne, iarta-ma Tu, iar! :/
+
+[v3]
+/: Pentru felul meu firesc o Printre oameni cand pasesc,
+Pentru traiul in zadar, o Doamne, iarta-ma Tu, iar! :/
+
+[v4]
+/: Pentru nevegherea mea o De-a ramane-n voia Ta,
+Pentru tot ce-a fost murdar, o Doamne, iarta-ma Tu, iar! :/
+
+[v5]
+/: Doar iertarea ce mi-o dai o Imi pastreaz-al pacii rai
+Si ma zboara iar si iar, o Doamne,-n vesnicu-Ti hotar. :/

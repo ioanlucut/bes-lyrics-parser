@@ -1,0 +1,26 @@
+[title]
+Iubeste domnul pasarea {author: {Anonim}, {rcId: {61421}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Iubește Domnul pasărea
+Și crinul înflorit;
+Pe ei de îi iubește El și eu îi sunt iubit.
+
+[c]
+/: Iubit de El :/
+De Domnul sunt iubit!
+Pe copilașii mari și mici,
+Pe toți iubește El.
+
+[v2]
+Și porumbelul din văzduh,
+De Domnul e iubit...
+Așa iubește pe copii!
+Cum să nu-i fiu iubit ?
+
+[e]
+El floricica ce-a creat, frumos a colorat,
+O îngrijește ne-ncetat și eu sunt apărat!

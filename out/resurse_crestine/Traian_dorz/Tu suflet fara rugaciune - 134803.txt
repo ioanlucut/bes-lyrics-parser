@@ -1,0 +1,47 @@
+[title]
+Tu suflet fara rugaciune {author: {Traian Dorz}, {rcId: {134803}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+O, soare care-ți dai lumina
+Spre toți atât de minunat,
+Cum ai să-nvinuiești odată
+Pe-acel ce nu te-a meritat!
+
+[c]
+Tu suflet fără rugăciune,
+Nepăsător și surd mereu,
+Când toate-au să te-nvinuiască,
+/: Ce-ai să-I răspunzi :/ X3 lui Dumnezeu?
+
+[v2]
+O, dulci izvoare-mbelșugate
+Ce stâmpărați pe-orice-nsetat,
+Cum o să-nvinuiți odată
+Pe cel ce bând, nu S-a-nchinat!
+
+[v3]
+O, pâine ce te dărui hrană
+Cu-ndestulare tuturor,
+Cum ai să-nvinuiești odată
+Pe cel nerecunoscător!
+
+[v4]
+O, sânge sfânt ce-ai curs pe Cruce
+Să-i speli pe toți desăvârșit,
+Cum ai să-nvinuiești odată
+Pe-acel ce te-a batjocorit!
+
+[v5]
+O, legământ ceresc și unic,
+Făcut să fii în veci păstrat,
+Cum ai să-nvinuiești odată
+Pe-acela care te-a călcat!
+
+[v6]
+O, sfânt prilej al mântuirii,
+Acum de-atâtea ori avut,
+Cum ai să-nvinuiești odată
+Pe-acela ce te-a tot pierdut!

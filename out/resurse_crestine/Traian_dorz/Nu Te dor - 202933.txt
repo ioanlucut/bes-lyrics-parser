@@ -1,0 +1,39 @@
+[title]
+Nu te dor {author: {Traian Dorz}, {rcId: {202933}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Nu Te dor, Isuse Mâinile străpunse,
+Nu Te dor, cât viața noastră în păcate-ascunse.
+Nu Te dor, asprimea spinilor cununii,
+Cât umblarea noastră-n căile minciunii.
+Nu Te dor...
+
+[v2]
+Nu Te doare, o, Doamne sulița-ascuțită,
+Cât Te doare, azi Sfânta Casă pângărită.
+Nu Te dor, oricâte răni a Pătimirii,
+Cât înstrăinarea fiilor Iubirii.
+Nu Te dor...
+
+[v3]
+Nu Te doare, și ura celor răi din lume,
+Nu Te doare, cât a celor, care spun de Sfântu-Ți Nume.
+Nici nu plângi, de-a lumii hule și ocare,
+Cât de stricăciunea din a Ta Lucrare.
+Nu Te dor...
+
+[v4]
+Toți se plâng, în lume că n-au de-o mulțime,
+Toți se plâng, dar că n-au credință, nu se plânge nimeni.
+Toți se plâng, că nu știu cu ce-or să trăiască,
+Dar morții, bani n-or să-i plătească.
+Toți se plâng...
+
+[v5]
+Greu suspini, Isuse și adânc Te doare,
+Pentru orișicine, ce umblă-n nepăsare.
+Dar de-acela, care de-al Tău Har grăiește,
+Înmiit Te doare, că-n păcat trăiește...

@@ -1,0 +1,33 @@
+[title]
+Sunt multe glasuri {author: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {210618}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Sunt multe glasuri care cheamă
+Să le-asculți, să le urmezi
+/: Dar te-ndemn ca să veghezi
+Fiindcă-odată ai să vezi
+De ce alegi ai să dai seamă :/
+
+[v2]
+Exist-un sens al vieții tale,
+Exist-un scop, există un plan,
+/: Exist-un Meșter suveran,
+El prin râu, înspre liman,
+De-L lași, trasa-va a ta cale :/
+
+[v3]
+Din mii de glasuri ce răsună
+Amăgind ca să le crezi
+/: Tu unul doar să îl păstrezi
+Și-n Cristos să te încrezi
+Și-n secetă și în furtună :/
+
+[v4]
+Nu respinge-a Sa chemare,
+Fără să lupți nu trăi,
+/: Mai degrabă te-a’ căi
+Vorbe-ușoare a grăi,
+Că-n ochii Lui ai tu valoare :/

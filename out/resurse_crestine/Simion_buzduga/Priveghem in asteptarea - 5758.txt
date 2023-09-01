@@ -1,0 +1,35 @@
+[title]
+Priveghem in asteptarea {author: {Simion Buzduga}, {rcId: {5758}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Priveghem în așteptarea Mielului sfânt, glorios;
+Așteptăm mult întâlnirea cu al nost’ Isus Hristos.
+Nime-n lume fericire nu ne dă, cum El ne-a dat;
+Așteptăm a Sa venire, este timpul de plecat.
+
+[c]
+/: Va veni și vremea noastră;
+Duhul Sfânt ne-a înălța
+Mai presus de zare-albastră,
+Glorie, Aleluia! :/
+
+[v2]
+Doamne, Tu ne-asculți suspinul înălțat prin rugi și cânt,
+Ne redai mereu alinul, Tu rămâi același: Sfânt!
+Suntem și-azi urâți de lume și de râsul celor răi;
+Greul nu avem cui spune, noi dorim să fim ai Tăi!
+
+[v3]
+Marea urlă, vântul bate, dă semnale tuturor
+Că-ntr-o zi uita-vom toate, când ne-om înălța în zbor.
+Pregătiri se fac în ceruri, ceru-așteaptă marea zi;
+Îngerii vuiesc în coruri, ei pe veci cu noi vor fi.
+
+[v4]
+Chiar de vremea e pustie și-ncărcată de pustiu,
+Chiar de iarna o să vie peste toate, una știu:
+Dincolo de neaua rece văd câmpiile-nverzind;
+Dincolo de tot ce trece văd flori sfinte răsărind.

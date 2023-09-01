@@ -1,0 +1,41 @@
+[title]
+Plange-n inimi sfasierea {author: {Nicolae Moldoveanu}, {rcId: {5864}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Plânge-n inimi sfâșierea
+Dorului nemărginit:
+/: Depărtare, depărtare,
+Unde-i oare-al tău sfârșit? :/
+
+[c]
+/: Nu cârtim nici unul, Doamne,
+Dar Tu știi cât e de grea
+Așteptarea, așteptarea,
+Să ne chinuim în ea. :/
+
+[v2]
+Până când, Isuse dragă?
+Până când vom aștepta
+/: S-ajungem odat-acasă,
+Unde n-om mai suspina? :/
+
+[v3]
+Arde flacăra dorinței,
+Arde inima de jar.
+/: Întâlnire, întâlnire,
+Oare, când veni-vei iar? :/
+
+[v4]
+Unde-i, oare, clip-aceea care
+Din a veșniciei zi
+/: Fericire, fericire,
+Oare unde voi găsi? :/
+
+[v5]
+Dorim s-ajungem acasă
+Cu Isus și-L vom vedea!
+/: Dar cei ce-au pierdut credința
+Nădejdea și dragostea? :/

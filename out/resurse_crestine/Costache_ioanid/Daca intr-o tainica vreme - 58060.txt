@@ -1,0 +1,30 @@
+[title]
+Daca intr-o tainica vreme {author: {Costache Ioanid}, {rcId: {58060}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Dacă într-o tainică vreme
+Din lut cineva m-a făcut
+/: Și dacă sunt om și nu vierme
+O, Doamne, așa ai vrut Tu :/
+
+[v2]
+Dacă am grai și nu muget
+Să spun ce iubesc și ce nu
+/: Și dacă am harul să cuget
+O, Doamne, așa ai vrut Tu :/
+
+[v3]
+Dacă m-ai scos din neghină
+Nu viata-mi urâtă-ți plăcu
+/: Nu eu am vrut iarăși lumina
+O, Doamne, ci Tu, numai Tu :/
+
+[v4]
+Dacă voi merge odată
+La Cel ce din duh m-a născut
+/: Voi spune de-a pururi ”
+Tată”
+Te laud că așa ai vrut Tu :/

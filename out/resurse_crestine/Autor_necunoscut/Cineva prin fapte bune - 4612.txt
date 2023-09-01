@@ -1,0 +1,20 @@
+[title]
+Cineva prin fapte bune {author: {Anonim}, {rcId: {4612}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cineva prin fapte bune s-a dat exemplu la lume.
+Cineva vesel a cântat și-o viață trist-a-n-seninat
+
+[c]
+/: Fosta-i acela tu? Fosta-i acela tu? :/
+
+[v2]
+Cineva bine a luptat, pe mulți la Isus i-a-ndrumat;
+Cineva nobil a trăit, pentru mulți s-a jerfit.
+
+[v3]
+Cineva prin lumina sa, la mulți le-a luminat calea;
+Cineva pacea a iubit și mântuire a vestit.

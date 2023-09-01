@@ -1,0 +1,29 @@
+[title]
+E sarbatoare {author: {Grup Otniel}, {rcId: {84473}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+E sărbătoare iar
+Cântați creștini din inimă,
+Astăzi ni s-a născut
+Un prunc preasfânt Isus Hristos.
+
+[c]
+În ieslea Betleemului,
+În țara sfântă-a lui David,
+S-a născut azi, nouă regele Isus
+Mântuitorul lumii-ntregi.
+
+[v2]
+Lăsați orice poveri,
+Priviți acum la Dumnezeu,
+El a venit din cer
+Să dea în dar lumina Sa.
+
+[v3]
+Să nu uităm nicicând
+Iubirea Lui pentru noi toți,
+Și veșnic să-I cântăm
+Căci numai El ne-a mântuit.

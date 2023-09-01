@@ -1,0 +1,40 @@
+[title]
+Nu ma tem {author: {Claudia Danciu}, {rcId: {7215}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când îmi bat în poartă
+Furtunile ce vin
+Nu mă tem
+/: Când e cerul vieții
+De gânduri negre plin
+Nu mă tem :/
+
+[c]
+Eu Îl țin de mână de El mă alipesc
+Și întotdeauna
+În ochii Lui privesc
+Cu El împreună cred și reușesc
+Peste toate să pășesc,
+Lângă mine El e cu mine mereu
+Și nici greul nu mai pare atât de greu
+Nu sunt singur orișice-ar veni
+Mâna Lui mă va pazi.
+
+[v2]
+Când mă simt învins
+De al vieții val
+Nu mă tem
+/: Mâna Lui mi-e-ntinsă
+Punte spre liman
+Nu mă tem :/
+
+[v3]
+Chiar dacă-ndoiala
+Din nou mă va-ncerca
+Nu mă tem
+/: Chiar dacă puțină
+E credința mea
+Nu mă tem :/

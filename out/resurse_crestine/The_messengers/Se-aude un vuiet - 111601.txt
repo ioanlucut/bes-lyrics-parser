@@ -1,0 +1,30 @@
+[title]
+Se-aude un vuiet {author: {The Messengers}, {rcId: {111601}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Te-au așteptat apostolii să vii
+Și au trecut de-atunci două milenii
+Dar bine știm că fiecare zi
+Apropie momentul revenirii.
+
+[c]
+Se-aude un vuiet de gloate multe
+Din cer auzi chemarea lor:
+/: O, Tată, pe-al nost’ Domn trimite
+Ne-atât de dor, de El, ne este dor. :/
+
+[v2]
+Te așteptăm și noi ca să revii
+Să-Ți iei mireasa, să o duci acasă
+Însuflețiți de Duhul Tău cel Sfânt
+Strigăm: ”
+Amin, vino, cât mai curând!”
+
+[v3]
+Ne-e dor să stăm la pieptul Tău, Isus
+Să Te vedem cântând de bucurie
+Căci am ajuns la locul mult dorit,
+În Canaan, cu Tine-o veșnicie.

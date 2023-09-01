@@ -1,0 +1,26 @@
+[title]
+Nu vom sti ce aduce viitorul {author: {Alexandru Groza}, {rcId: {193349}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Nu vom ști ce aduce viitorul, dar eu mă-ncred în Dumnezeu
+El e calea și-adevărul și speranța mea e El
+Îmi cunoaște starea ființei mele când sunt slab îmi dă-ajutor
+Mă ridică, mă-ntărește scumpul meu Mântuitor!
+
+[c]
+Nu vom ști ce-aduce viitorul, dar eu mă-ncred în Dumnezeu
+El e calea vieții și-adevărul, zi de zi mă ține-n harul Său
+Nu vom ști ce-aduce viitorul, dar eu mă-ncred în Dumnezeu
+El e calea vieții și-adevărul, și speranța mea e-n El
+
+[v2]
+De când Domnul îmi conduce viața numai îndurări primesc,
+El e Stânca vieții mele în care mă odihnesc
+Când îngenunchez mi-ascultă ruga, Domnul e de partea mea
+Mă ridică, îmi dă pace, El îmi ia povara grea!
+
+[e]
+O, ce frumusețe, să-nțelegi iubirea Lui și să știi că viitorul aparține Domnului!

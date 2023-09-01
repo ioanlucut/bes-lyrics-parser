@@ -1,0 +1,42 @@
+[title]
+Frati adevarati {author: {Frații Wagner}, {rcId: {95803}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,e
+
+[v1]
+Ai hotărât, pentru o vreme,
+Să fim loviți și încercați,
+Să știm și să vedem mai bine
+Care sunt frații adevărați.
+
+[c]
+/: Așa de rar găsești un frate,
+Un prieten sincer și loial,
+Oricând să-l ai, să-l simți aproape,
+Să-ntindă mâna la necaz. :/
+
+[v2]
+De câțiva ani vorbit-a Domnul.
+A spus: ”
+Vegheați, nu vă lăsați!”
+Căci diavolul urlat-a, spus-a:
+De Dumnezeu am să-i despart.
+
+[v3]
+S-a năsputit asupra noastră,
+Ne-a umilit și ne-a lovit.
+Plângeau părinții și copiii,
+Strigau la Dumnezeul viu.
+
+[v4]
+Și când crezut-a el, vicleanul,
+Că ne-a luat tot și ne-a distrus,
+Din cer venit-ai cu salvarea,
+Ne-ai ridicat din nou, Isus.
+
+[e]
+/: De acum, Isus, Te-avem ca frate,
+Prieten sincer și loial,
+Ești lângă noi, mereu aproape.
+Îți mulțumim pentru-acest har. :/

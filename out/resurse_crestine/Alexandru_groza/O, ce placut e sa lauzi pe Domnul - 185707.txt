@@ -1,0 +1,32 @@
+[title]
+O ce placut e sa lauzi pe domnul {author: {Alexandru Groza}, {rcId: {185707}}
+
+[sequence]
+v1,c,s,c,v2,c,s,c,e
+
+[v1]
+O, ce plăcut e să lauzi pe Domnul și cu bucurie Lui să te închin
+Clipe de cer poți trăi prin credință, când glorifici pe Dumnezeu
+În Duhul Lui Sfânt e puterea-I divină, deschide-ți inima, slăvește-L pe El
+Înalță cântarea cu-ntreaga ființă, glorifică-L pe Dumnezeu!
+
+[c]
+Isus Hristos, El este Domnul, lăudăm cu toți numele-I sfânt
+Isus Hristos, El este viața, El este Domn, El este Domn!
+
+[s]
+Fiindcă mă iubește, zice Domnul, de-aceea îl voi izbăvi,
+îl voi ocroti, căci cunoaște numele meu
+Când mă va chema îi voi răspunde, voi fi cu el în strâmtorare!
+Veniți să ne-nchinăm și să ne smerim, să mergem înaintea Lui cu laude
+Să facem să răsune cântece în cinstea Lui, căci Domnul este un Dumnezeu mare!
+
+[v2]
+În adorarea Lui pacea domnește și Duhul Lui sfânt te-ntărește mereu
+Când te închini ai în suflet lumina, aproape ești de Dumnezeu
+Înalță cântarea, adoră-L pe Domnul, în inima ta El va fi tot mereu
+Clipe de cer poți trăi prin credință când glorifici pe Dumnezeu!
+
+[e]
+În Duhul Lui Sfânt e puterea-I divină, deschide-ți inima, slăvește-L pe El
+Înalță cântarea cu-ntreaga ființă, glorifică-L pe Dumnezeu!

@@ -1,0 +1,29 @@
+[title]
+Iata cerul asteapta candidati {author: {Anonim}, {rcId: {3588}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Iată, cerul așteaptă candidați...
+Cine vine, cine vine?
+Dumnezeu își întinde al Său braț
+Cine vine, cine vine?
+
+[c]
+/: Cine vine, o, cine vine?
+Căci cerul încă e deschis!
+Cine vine, o, cine vine?
+Grăbiți-vă spre Paradis! :/
+
+[v2]
+Domnul Isus mai este salvator
+Cine vine, cine vine?
+Și așteaptă nespus de răbdător
+Cine vine, cine vine?
+
+[v3]
+Timpul este nespus de limitat
+Cine vine, cine vine?
+Te grăbește de vrei să fii salvat
+Cine vine, cine vine?

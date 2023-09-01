@@ -1,0 +1,38 @@
+[title]
+Sus pe deal {author: {Cristian și Cristina Văduva}, {rcId: {132122}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Sus pe deal cu oile
+Urcă badea muntele,
+Jos se-aud colindele.
+Sus pe deal cu oile
+Urcă badea muntele,
+Urcă badea muntele,
+Jos se-aud colindele
+
+[c]
+/: Cântă brad din cetină
+Că vremea se clatină
+Toarce maica la fuior
+că-i vremea colindelor :/
+
+[v2]
+Maica poartă un dor în piept
+Cine-i strâmb și cine-i drept
+Eu pe Isus Îl aștept.
+Prin colinde L-oi lua
+L-oi pune-n inima mea
+Toată viața oi asculta
+Ce scrie în cartea Sa.
+
+[v3]
+Ne-or mințit boierii mari
+Că ne fac bogați și tari,
+Dar ne-o dat la cămătari.
+Dar Isus nu ne-o lăsat
+Că iubește țara mea
+Pâine-n casă om avea
+De noi grijă o purta.

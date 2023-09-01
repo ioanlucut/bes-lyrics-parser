@@ -1,0 +1,35 @@
+[title]
+Drumurile vietii toate {author: {Mirela și Dorel Campean}, {rcId: {218763}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: Drumurile vieții toate,
+Sunt atât de intortochiate
+Câteodată zbuciumate...
+Alteori chiar și spinoase. :/
+
+[c]
+/: Isus e Calea și Adevărul
+Viață-n dar ne a dat
+El e stânca și ajutorul
+Nicicând nu ne-a lăsat :/
+
+[v2]
+/: Dar, orișicum ar fi cărarea
+Tu când mergi lângă Hristos,
+El alungă întristarea
+Să ai pasul mai voios :/
+
+[v3]
+/: Dacă ai rătăcit cărarea
+Și n-ai stat lângă Hristos,
+Astăzi încă este vremea
+Să te-ntorc, să-i fi supus. :/
+
+[v4]
+/: Iar, credința niciodată,
+Să n-o pierzi pe drumul greu!
+Ea îți va da biruință,
+Să rămâi cu Dumnezeu! :/

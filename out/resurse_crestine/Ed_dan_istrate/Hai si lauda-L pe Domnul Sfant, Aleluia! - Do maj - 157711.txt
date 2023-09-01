@@ -1,0 +1,25 @@
+[title]
+Hai si lauda-l pe domnul sfant aleluia - do maj {author: {ed. Dan Istrate}, {rcId: {157711}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Hai și laudă-L pe Domnul sfânt, Aleluia!
+Laudă-L pe El cântând, Aleluia!
+Laudă-L, laudă-L, laudă-L pe El cântând, Aleluia!
+
+[v2]
+Cel născut în Betleem, Aleluia!
+Fiu de om, de Dumnezeu, Aleluia!
+El Isus, El Isus, fiu de om, de Dumnezeu, Aleluia!
+
+[v3]
+A murit și-a înviat, Aleluia,
+Să ne scape de păcat, Aleluia!
+S-a-ntrupat, s-a-ntrupat, să ne scape de păcat, Aleluia!
+
+[v4]
+Într-o zi vom fi cu El, Aleluia!
+Fericiți în raiul Său, Aleluia!
+Fericiți, fericiți, fericiți în raiul Său, Aleluia!

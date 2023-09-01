@@ -1,0 +1,29 @@
+[title]
+Numele tau este mare {author: {Decean}, {rcId: {206028}}
+
+[sequence]
+v1,v2,c,c,c
+
+[v1]
+Viața mea vreau să fie un cântec
+Pentru Numele Domnului meu.
+Tot ce am vreau să fie tămâie
+La picioarele tronului Tău.
+
+[v2]
+Tot ce ești Îți arată iubirea,
+În strălucirea Ta mă privesc.
+Tu ești Cel ce respiră în mine,
+Tu ești Cel prin care trăiesc.
+
+[c]
+Numele Tău este mare,
+Numele Tău este sfânt,
+Numele Tău este drept pe pământ!
+El Shadai, Tu ești Domn al puterii.
+Adonai, Tu ești Regele meu.
+Elohim, Cel ce-ai fost și vei fi Dumnezeu.
+
+[b]
+Inimi de foc Tu să aprinzi,
+În gloria Ta să ne cuprinzi.

@@ -1,0 +1,66 @@
+[title]
+Se cuvine sa te laud {author: {Mariana Someșan}, {rcId: {211714}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,v5,c5
+
+[v1]
+Se cuvine să Te laud,
+Să mă-nchin cu mulțumire,
+Să-mi plec inima și viața
+S-o sfințești pentru slujire.
+
+[c]
+Căci m-ai scos din întuneric
+La lumina feței Tale
+Și mi-ai pregătit în ceruri
+Frumuseți nepieritoare.
+
+[v2]
+Și de câte ori vrăjmașul
+M-a trântit cu-nverșunare,
+Tu m-ai ridicat, Isuse,
+Prin puterea mâinii Tale.
+
+[c2]
+M-ai privit cu multă silă
+Și știai că sunt țărână,
+Dar ai hotărât în ceruri
+Sa mă faci să fiu fântână,
+
+[v3]
+Ca să izvorăsc din Tine
+Apă rece, limpezit,
+Pentru inima rănită,
+Însetată și-obosită.
+
+[c3]
+Luându-mi crucea ca și Tine
+Să pășesc spre sfânta Țară,
+Îndurând pe drum adesea
+Când batjocuri, când ocară.
+
+[v4]
+Umple-mă cu Tine, Doamne,
+Ca să dau pe dinafară
+Și lumină și iubire
+Și parfum de floare rară.
+
+[c4]
+Umple-mă cu Tine, Doamne,
+Ca să pot s-aduc la Tine
+Prinșii de război ai țării,
+Să-i faci liberi pentru Tine.
+
+[v5]
+Umple-mă cu Tine, Doamne,
+Ca să pot să știu ce-i mila.
+Toarnă dragoste din Tine,
+Să pot împlini menirea.
+
+[c5]
+Toarnă foc ceresc, Isuse,
+Ca să ard doar pentru Tine,
+Căci se-aude-n cer strigarea:
+”
+Iată Mirele, El vine!”

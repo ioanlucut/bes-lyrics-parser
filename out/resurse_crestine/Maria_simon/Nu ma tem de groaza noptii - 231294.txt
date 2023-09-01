@@ -1,0 +1,35 @@
+[title]
+Nu ma tem de groaza noptii {author: {Maria Șimon}, {rcId: {231294}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Stau la umbra aripilor Tale
+Și sunt păzit de puterea Ta,
+Tu-mi ești turnul de scăpare
+Și cetățuia mea!
+
+[c]
+/: Nu mă tem de groaza nopții
+Și nici de săgeata ce zboară ziua,
+Ești Dumnezeul în care mă încred
+Și îmi răspunzi când Te chem! : \
+
+[v2]
+Tu mă ascunzi sub aripile Tale,
+Pavăza îmi e credincioșia Ta,
+Pot să cada alături o mie,
+Căci Domnul nu mă va lăsa!
+
+[v3]
+El te păzește de nenorocire
+Și cortul ți-l scapă de orice urgie
+Căci îngerilor El le poruncește
+Și viața oricând ți-o păzește.
+
+[v4]
+Fiindcă mă iubește, zice Domnul,
+De aceea și Eu te voi păzi,
+Când Mă vei chema, îți voi răspunde,
+Cu tine voi fi-n orice zi!

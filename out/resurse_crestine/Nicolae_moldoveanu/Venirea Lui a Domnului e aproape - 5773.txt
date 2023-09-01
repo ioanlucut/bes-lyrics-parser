@@ -1,0 +1,41 @@
+[title]
+Venirea lui a domnului e aproape {author: {Nicolae Moldoveanu}, {rcId: {5773}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Venirea Lui, a Domnului,
+ /: e-aproape :/
+O clipă mai este acum
+ /: din noapte :/
+/: Zorile apar, razele răsar, Ziua minunată vine!
+Nu mai este mult, plânsul cel amar
+A trecut, căci Domnul vine! :/
+
+[v2]
+Din cer la noi, a-Sale oi,
+ /: El vine :/
+Ca să ne ducă-n slava Sa,
+ /: la Sine... :/
+/: Blăndule Păstor, Te-așteptăm cu dor
+Să ne duci în cer la Tine!
+La izvoare reci, scumpe Salvator,
+Durerea să mi se aline! :/
+
+[v3]
+Ne pregătim, gata să fim, cu haina curată;
+În candela, neâncetat uleiul să ardă!
+/: Cu mijlocu-ncins, arde-vom nestins, Cu făcliile aprinse,
+Negurile reci, de pe-ntreg cuprins
+Vor dispare toate-nvinse... :/
+
+[v4]
+Te așteptăm, Te adoram,
+ /: Isuse! :/
+Păstor iubit, du-ne acasă
+ /: la Tine :/
+/: Cand ai sa rasuni, popor sa-Ți aduni,
+Scoală-ne din ațipire!
+Cu toți cei aleși, Doamne, să ne pui
+La dreapta, iubite Mire :/

@@ -1,0 +1,29 @@
+[title]
+Daca duhul domnului e asupra mea {author: {Anonim}, {rcId: {4878}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+/: Dacă Duhul Domnului e asupra mea
+Voi cânta ca și David. :/
+/: Voi cânta :/ ca și David,
+/: Voi cânta :/ ca și David.
+
+[v2]
+/: Dacă Duhul Domnului e asupra mea
+Eu mă rog ca și David. :/
+/: Eu mă rog :/ ca și David,
+/: Eu mă rog :/ ca și David.
+
+[v3]
+/: Dacă Duhul Domnului e asupra mea
+Voi lupta ca și David. :/
+/: Voi lupta :/ ca și David,
+/: Voi lupta :/ ca și David.
+
+[v4]
+/: Dacă Duhul Domnului e asupra mea
+Voi iubi ca și Isus. :/
+/: Voi iubi :/ ca și Isus,
+/: Voi iubi :/ ca și Isus.

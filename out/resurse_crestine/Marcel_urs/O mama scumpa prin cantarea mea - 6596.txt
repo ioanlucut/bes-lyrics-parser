@@ -1,0 +1,29 @@
+[title]
+O mama scumpa prin cantarea mea {author: {Marcel Urs}, {rcId: {6596}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+O mamă scumpă prin cântarea mea
+Iubirea-ți dulce s-onorez aș vrea
+/: Vreau s-aduc slavă ’n veci lui Dumnezeu
+Că lângă tine pot să cânt mereu :/
+
+[v2]
+Unde pe lume aș putea găsi
+Jertfă mai bună ce s-ar potrivi
+/: Ziua și noaptea scutul meu ai fost
+Doar lângă tine găsit-am adăpost :/
+
+[v3]
+O Doamne Sfinte eu te-aș mai ruga
+Dă-mi Tu iubire pentru mama mea
+/: Ajută-mi Doamne ’ntruna s-o ascult
+Și mângăiere multă să-i aduc :/
+
+[v4]
+Ție părinte scump îți mulțumesc
+Numele Tău vreau să-L preamăresc
+/: Că Tu pe mine, astfel m-ai iubit
+Mi-ai dat o mamă, dar neprețuit :/

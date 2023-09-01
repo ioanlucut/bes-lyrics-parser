@@ -1,0 +1,35 @@
+[title]
+Ce fericit ma simt isuse {author: {Nicolae Moldoveanu}, {rcId: {240820}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Ce fericit mă simt Isuse,
+Când pașii-mi urma Ta o țin
+/: Când dorurile-mi sunt supuse
+Doar Ție, Ție pe deplin. :/
+
+[v2]
+Ce fericit sunt in credință,
+Cuvântul când Ți-l înțeleg,
+/: Când Îl ascult în umilință,
+Și-L pot trăi așa, întreg. :/
+
+[v3]
+Ce fericit sunt dimineața,
+Curat când mă trezesc din somn
+/: Când liniștit pot să-ndrept fața,
+Spre Tine dulcele meu Domn! :/
+
+[v4]
+Ce fericit sunt când senină,
+Mi-e ziua-n Tine necurmat,
+/: Când umblu-n pace și-n lumină,
+Când biruiesc orice păcat. :/
+
+[v5]
+Ce fericit sunt când în Tine,
+Viața mi-o trăiesc așa,
+/: Ca-n toate să Te vezi în mine,
+Căci Tu ești Fericirea mea! :/

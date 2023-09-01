@@ -1,0 +1,26 @@
+[title]
+Magi ce alergati pe cale (medrcy 'swiata) {author: {Colind din Polonia, Traducere RO}, {rcId: {206214}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Magi, ce alergați pe cale, unde vă grăbiți așa?
+Căutați pe Pruncul Isus, Domnul sfânt, Mesia?
+/: Într-o iesle S-a născut El, jos, în umilință
+Ca să moară pentru oameni, să dea biruință. :/
+x2
+
+[v2]
+Magi, ce alergați pe cale, cel rău tare-i furios
+Planuri rele, viclenie, stau în mintea lui Irod!
+/: Înspre Betleem, toți magii, s-au grăbit să meargă
+În lumina razei sfinte, plină de speranță. :/
+x2
+
+[v3]
+Lângă Pruncul sfânt din iesle s-au plecat ei, fericiți
+Daruri scumpe, fiecare, lui Isus I-au dăruit;
+/: Astăzi, vrei și tu-mpreună, să vii înainte-I?
+Plin de bucurie sfântă, inima să-ți cânte! :/
+x2

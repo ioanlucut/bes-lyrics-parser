@@ -1,0 +1,29 @@
+[title]
+Da-ne lumina {author: {Carmen Prodan}, {rcId: {155545}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Doamne, nu înțelegem
+Când planuri ne facem pe rând,
+De ce uneori se răstoarnă
+Și cad în praf la pământ?
+
+[c]
+/: Dă-ne lumină să înțelegem
+Care e voia Ta,
+Și-n umilință să ne supunem
+Căci Tu știi de ce-i așa! : \
+
+[v2]
+Când ni se pare că-n viață
+Nu știm încotro s-apucăm,
+Când nimeni nu ne-nțelege
+Și-n suflet adânc ne-ntristăm,
+
+[v3]
+Vrem s-acceptăm totdeauna
+Ceea ce Tu hotărăști,
+Și să ne-ncredem în Tine,
+Căci Tu niciodat’ nu greșești!

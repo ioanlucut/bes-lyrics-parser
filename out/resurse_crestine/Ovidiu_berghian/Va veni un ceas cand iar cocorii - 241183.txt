@@ -1,0 +1,40 @@
+[title]
+Va veni un ceas cand iar cocorii {author: {Ovidiu Berghian}, {rcId: {241183}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Va veni un ceas
+Când iar cocorii
+Se vor întoarce-n zbor
+Pe țărmuri de mărgean...
+Să priviți în sus, se arată Zorii
+Pe aripi de har
+Noi vom zbura-n ceresc Liman!
+
+[c]
+/: Nu va mai fi vreun suspin
+Și cer de-nlăcrimare,
+Văi de însingurări,
+N-or mai doini către zări
+Cu harfe de visări
+O inimă-n ceasul greu...
+Vor fi doar zori de senin
+Când Domnu-n sărbatoare
+Pe Tărmul iubirii nins
+Ne va-nsoți-n necuprins
+Spre zări de cânt nestins, mereu! :/
+
+[v2]
+Va veni un ceas
+Când din furtună
+Mai sus de ploi
+Și vânturi, dulce Curcubeu
+Ne va purta către lumină
+Din înserări
+Spre-al vieții soare, Dumnezeu!
+
+[e]
+Ne va-nsoți-n necuprins
+Spre zări de cânt nestins, mereu.

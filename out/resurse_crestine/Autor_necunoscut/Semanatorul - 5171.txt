@@ -1,0 +1,29 @@
+[title]
+Semanatorul {author: {Anonim}, {rcId: {5171}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Semănătorul iese
+Sămânța să semene
+Pe un pământ lângă drum
+Dar păsările vin acum.
+
+[c]
+Ești doar pământ omule
+Ești doar pământ omule
+Ești doar pământ, pământ ești
+O spune-mi de ce nu rodești.
+
+[v2]
+Semănătoru-a trecut
+Sămânța-n văi a căzut
+Pe un pământ plini cu spini
+O spune-mi de ce tot suspini.
+
+[v3]
+Iată sămânța acum
+Cade-n pământul cel bun
+Un bob aduce 30
+Altul 100 altul 60.

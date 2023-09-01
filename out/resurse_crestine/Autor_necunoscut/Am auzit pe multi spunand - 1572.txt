@@ -1,0 +1,41 @@
+[title]
+Am auzit pe multi spunand {author: {Anonim}, {rcId: {1572}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Am auzit pe mulți spunând:,, Isus nu sfarmă zăvorul,
+El bate-n ușă-ncet și blând,
+Dar tu deschizi, nu Salvatorul! ’’
+
+[c]
+/: Odată însă-n viața mea
+Isus vârând în ușă mâna,
+Mi-a zis: „
+Eu totuși pot intra,
+Căci Eu sunt Domnul, tu - țărâna!” :/
+
+[v2]
+Dar n-a intrat, și-am plâns cu-amar
+Întelegând de ce nu vine,
+Căci El n-a vrut ca un tâlhar
+Să tragă fierul pus de mine.
+
+[c2]
+/: Când I-am deschis, era târziu
+El dispăruse-n umbra serii
+Orașu-ntreg părea pustiu
+Și m-au lovit, pe drum, străjerii... :/
+
+[v3]
+Abia în zori ne-am întâlnit,
+În Ghetsimani, pe o cărare,
+El - Dorul cel nemărginit,
+Iar eu - țărâna cu zăvoare...
+
+[c3]
+/: O, frate drag, Isus e blând!
+El stă la ușa ta și bate...
+/: El poate s-o sfarăme-oricănd,
+Dar dragostea din El nu poate! :/

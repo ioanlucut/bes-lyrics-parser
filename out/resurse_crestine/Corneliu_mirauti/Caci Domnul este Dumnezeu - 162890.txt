@@ -1,0 +1,35 @@
+[title]
+Caci domnul este dumnezeu {author: {Corneliu Mirăuți}, {rcId: {162890}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,v4,c
+
+[c]
+Căci Domnul este Dumnezeu
+E Împărat mai presus
+De toți ceilalți dumnezei
+Și nu e fals ca ei.
+
+[v1]
+Veniți să cântăm, cu veselie Domnului
+Și toți să strigăm, de bucurie:Glorie!
+Să mergem înainte, cu laude și cinste
+Să facem să răsune în veci Numele Lui!
+
+[v2]
+El ține în mână, marea și uscatul
+Căci El a făcut, pământul întreg.
+Văile și munții, păsări si-animale
+Cu-a Sa înțelepciune, pe toate le-a creat.
+
+[v3]
+Veniți să ne smerim și să ne închinăm
+Să ne plecăm genunchiul, ’naintea Domnului
+Căci El e Creatorul, noi suntem poporul
+Doar pe-a Sa pășune, El blând ne conduce.
+
+[v4]
+Nu vă împietriți și nu vă-mpotriviți
+Ci dați-vă pe voi, ca vii lui Dumnezeu.
+A voastre mădulare, pentru neprihănire
+Să fie unelte, de El stăpânite.

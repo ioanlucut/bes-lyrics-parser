@@ -1,0 +1,27 @@
+[title]
+O pacatos primeste chemarea cerului {author: {Puiu Chibici}, {rcId: {141145}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+O, păcătos primește chemarea cerului
+Vino și te grăbește e vremea harului
+
+[c]
+/: Vino la El, vino la El
+El te primește o păcătos, vino la El
+Vino la El, vino la El
+Așa cum ești, El te primește vino la El :/
+
+[v2]
+Păcatul te apasă și viața-ți este grea
+N-ai pace sufletească o vino și El ți-o va da
+
+[v3]
+Întoarce-te la Domnul prietene iubit
+Nu vrei să vezi tu locul de Domnul Isus pregătit
+
+[v4]
+Vrăjmașul te robește, și nu vrea să te-ntorci
+Dar Isus te iubește o vino cât încă mai poți

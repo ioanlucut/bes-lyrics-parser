@@ -1,0 +1,31 @@
+[title]
+Peste vai peste coline {author: {Iany și Cristina Laurenciuc}, {rcId: {156913}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Peste văi, peste coline se aud colindele-n noapte.
+Prin noian de ninsoare, vin copii din alte sate
+Să ne-aducă vestea cea bună: ”
+S-a născut Mântuitor!”
+Munții și văi, dealuri răsună de cântul copiilor!
+
+[c]
+Căci S-a născut în Betleem al nostru Domn, Emanuel!
+Haideți copii cu toții să-I cântam Pruncului din Betleem,
+Pentru-a noastră mântuire a venit din Strălucire!
+Pruncul Sfânt cu chip frumos este Domnul Isus Hristos!
+Inimioare în dar să-I dăm, să Îl bucurăm!
+
+[v2]
+Peste văi, peste coline duceți vestea mai departe!
+Ca să afle orișicine: prin Isus avem viață!
+Cântece de bucurie să se-audă peste tot!
+Dumnezeu din veșnicie ne-a trimis Mântuitor!
+
+[e]
+Haideți copii cu toții să-I cântam Pruncului din Betleem,
+Pentru-a noastră mântuire a venit din Strălucire!
+Pruncul Sfânt cu chip frumos este Domnul Isus Hristos
+Inimioare în dar să-I dăm, să Îl bucurăm!

@@ -1,0 +1,23 @@
+[title]
+Multumim doamne pentru-aceasta zi {author: {Anonim}, {rcId: {809}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Mulțumim, Doamne, pentru-această zi
+Mulțumim că-n mâna Ta Tu ne ții,
+Pentru dragostea Ta Te lăudăm
+De aceea Îți cântăm.
+
+[c]
+Aleluia, astăzi Te lăudăm,
+Aleluia, astăzi Te onorăm,
+Aleluia, astăzi Îți mulțumim
+Pentru Harul Tău. Amin.
+
+[v2]
+Pentru pacea Ta Îți mulțumim
+Ne-ai eliberat, vrem ai Tăi să fim
+Pentru grija ce ne-o porți din plin
+Pentru toate Îți mulțumim.

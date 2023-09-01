@@ -1,0 +1,44 @@
+[title]
+La noi isus cand ai venit {author: {Puiu Chibici}, {rcId: {145652}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+La noi, Isus, când ai venit,
+Noi Te-am primit în grajd, în staul,
+Dar Tu în cer ne-ai pregătit
+Oraș măreț cu străzi de aur.
+
+[c]
+Când ai venit, noi Te-am respins
+Și Ți-am dat scutece sărace,
+Dar Tu cu drag ai coborât
+Să ne aduci, Isuse, pace
+Să ne aduci, Isuse, pace.
+
+[v2]
+Ai vrut Ascultător, Smerit,
+Să faci voia Sfântului Tată,
+Să vii cum a fost profețit
+Printr-o fecioară preacurată.
+
+[c2]
+Tu ai venit căci ne-ai iubit,
+La noi, Isus, din veșnicie,
+Și să ne dai Tu ai dorit
+A cerului Împărăție
+A cerului Împărăție.
+
+[v3]
+O, Prunc din cer nevinovat,
+Noi Te primim cu bucurie
+Și Îți cântăm cum altădat’
+Cântau păstorii din câmpie.
+
+[c3]
+Tu, Stea ce veșnic strălucești
+Înconjurat de nemurire,
+De sus, din slăvile cerești,
+Ne-ai adus, Doamne, mântuire
+Ne-ai adus, Doamne, mântuire.

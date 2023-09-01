@@ -1,0 +1,31 @@
+[title]
+O ce zi de fericire este in inima mea {author: {Ionel Saran}, {rcId: {115661}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O, ce zi de fericire este în inima mea
+Cu drag eu vă zic acuma din toată inima:
+
+[c]
+Astăzi e ziua mea, cu toți ne-om bucura
+Astazi e ziua mea, cu toți ne-om bucura
+/: Eu astăzi, astăzi părăsesc tinerețea mea, amintirea mea
+Nu te voi revedea :/
+Doamne-acum eu Te rog la noi azi ca să cobori
+Binecuvântarea Ta revarsă todeauna
+/: Eu Astăzi astăzi părăsesc tinerețea mea, amintirea mea
+Nu te voi revedea :/
+Mama Mea, Draga Mea, ți se rupe Inima
+Mama Mea, Draga Mea, mi se frânge Inima
+/: Eu Astăzi astăzi părăsesc tinerețea mea, amintirea mea
+Nu te voi revedea :/
+
+[v2]
+Toată tinerețea mea rămâne-n urma mea
+Și lacrimi de fericire îmi umplu Inima
+
+[v3]
+Te rog Mamă, te rog Tată cu ochii-nlăcrimați
+Binecuvântarea voastră mie acum să-mi dați!

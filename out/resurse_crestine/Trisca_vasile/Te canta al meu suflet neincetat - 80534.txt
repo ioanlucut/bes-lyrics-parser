@@ -1,0 +1,29 @@
+[title]
+Te canta al meu suflet neincetat {author: {Trișcă Vasile}, {rcId: {80534}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Te cântă al meu suflet neîncetat
+Isuse, Fiu de Dumnezeu ales
+Prin dragostea Ta ai îmbucurat
+Întregul nostru Univers
+
+[c]
+/: O, Doamne dă-ne azi Mâna Ta
+Inima noastră, ca inima Ta
+Să ne iubim, să ne smerim
+Să ne iertăm, frați toți să fim! :/
+
+[v2]
+O viață nouă a luat ființă
+De la acel eveniment măreț
+Când a venit Isus în umilință
+Un dar de cel mai mare preț
+
+[v3]
+Se bucură acum mereu creștinii
+În inimi Te slăvesc mereu
+Harul și dragostea sunt fără margini
+Mărire Ție, Fiu de Dumnezeu

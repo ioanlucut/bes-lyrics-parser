@@ -1,0 +1,35 @@
+[title]
+Luceafar minunat {author: {Lavinia Leș}, {rcId: {4621}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+O zi de mare bucurie
+O zi aleasă de Isus
+Ne-am pus nădejdea noi în Tine
+Căci Tu ești tot ce-avem mai scump
+
+[c]
+/: Și această mare hotărâre
+Nimic și nimeni nu ne-o va schimba
+C-ai apărut în viața noastră
+Ca un Luceafăr minunat. :/
+
+[v2]
+Iar de-i îngustă această cale
+Noi vrem cu toți să te urmăm
+Și-n viață de-or veni necazuri
+Cu Tine vrem să le urmăm.
+
+[v3]
+C-o rugă sfântă, arzătoare
+Venind înainte Isus
+În viață de-or fi nori sau soare
+Noi să te urmăm cum Tu ne-ai spus.
+
+[v4]
+Și acol’ odată-n veșnicie
+Vom sta la masă cu Isus
+Și ca o veșnică făclie
+Ne-a alina dorul nespus.

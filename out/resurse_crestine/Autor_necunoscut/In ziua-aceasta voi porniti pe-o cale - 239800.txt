@@ -1,0 +1,29 @@
+[title]
+In ziua-aceasta voi porniti pe-o cale {author: {Anonim}, {rcId: {239800}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: În ziua-aceasta voi porniți pe-o cale
+Necunoscută care voi n-o știți
+Și ajutor vă poate fi doar Domnul
+Ca împreună pân la sfârșit să fiți :/
+
+[c]
+/: Doamne vin acum, fii cu ei pe drum.
+Vin Isuse-n viața lor
+Fii mângâietor, sprijin, și-ajutor
+Și pe veci fii Tatăl lor. :/
+
+[v2]
+/: Pe-această cale vor fi și necazuri,
+Vor fi dureri, ispite, greutăți.
+Să nu vă temeți de aceste toate.
+Aceste lucruri trec că-s pământești. :/
+
+[v3]
+/: E sărbătoare, fiți plini de bucurie,
+Drum bun în viață astăzi vă dorim
+Fiți fericiți așa în orice vreme
+Să știți că singuri voi n-o să mai fiți. :/

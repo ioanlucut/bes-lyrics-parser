@@ -1,0 +1,39 @@
+[title]
+Trei pastori in noapte stand {author: {Puiu Chibici}, {rcId: {151334}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Trei păstori în noapte stând
+Lângă turma lor în câmp,
+Au văzut un înger înaintea lor.
+,,
+Nu vă temeți!’’, el le-a spus
+Și o veste le-a adus:
+Că-n Israel S-a născut Mântuitor.
+
+[c]
+Vestea bună din Cer pentru cei ce-n lume pier,
+Corul slavei a adus: S-a născut Isus! Isus!
+Aleluia! Osana! a Lui fie gloria!
+S-a născut Mântuitorul, Mesia!
+
+[v2]
+,,
+Că-i Mesia voi veți ști,
+Într-un grajd Îl veți găsi,
+Într-o iesle-n scutece înfășurat’’.
+Ei îndată au plecat
+Și-ntr-acolo au alergat
+Să-L întâmpine pe Marele-Împărat.
+
+[v3]
+Salvator Divin și Sfânt,
+Mântuind acest Pământ,
+Fie-I preamărită-n veci iubirea Sa!
+’’
+Binecuvântat să fii!’’,
+Cântă azi ai Săi copii,
+’’
+Bine ai venit la noi, Mesia!’’

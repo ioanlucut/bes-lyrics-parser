@@ -1,0 +1,47 @@
+[title]
+Iertare vreau {author: {Adriana Stoica}, {rcId: {150974}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Ce nu poate să-ți dea lumea,
+Nici un om nu-ți poate da
+Spune azi, Isuse, Doamne
+Vreau să-mi dai iertarea Ta
+N-am crezut în Tine, Doamne
+Am făcut doar ce e rău
+Am umblat pribeag în lume
+N-am crezut în Dumnezeu.
+
+[c]
+Iertare vreau să-mi dai din Cer
+Iertare vreau, o, Domnul meu
+Te strigă azi, inima mea
+Te cheamă azi, sufletul meu.
+
+[v2]
+Vreau să recunosc, Isuse
+Relele ce le-am facut
+Niciodat’, Cuvântul Tău
+Eu nu am vrut să îl ascult
+Nici chemarea, nici iubirea
+Ce mereu mi-ai arătat
+Eu în loc să te urmez
+Mă afundam mult în păcat
+
+[v3]
+Astăzi vin la Tine, Doamne
+Și Te rog a mă ierta
+Pentru toate ce-am greșit
+Și n-am făcut voia Ta
+Îți predau a mea viață
+Și regret tot ce-am greșit
+Vreau să merg pe a Ta cale
+Și de Tine să ascult.
+
+[c2]
+Îți mulțumesc o Domnul Meu
+Eu îți mulțumesc cântând mereu
+Căci în dureri eu te-am strigat
+Și inima mi-ai mângâiat.

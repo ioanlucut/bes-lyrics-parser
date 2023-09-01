@@ -1,0 +1,40 @@
+[title]
+Din tinerete m-ai chemat la tine {author: {Nelu Muresan}, {rcId: {6739}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Din tinerete m-ai chemat la Tine
+Copilul Tau prin jertfa m-ai facut
+De aceea azi in semn de multumire
+Voi spune ”
+Da” Isus iubit
+
+[c]
+Voi spune ”
+Da” si-n incercari, ispite
+In orice loc oricat as suferi
+Dar te-as ruga Isus ramai cu mine
+Sa spun tot ”
+Da” cand Tu vei reveni
+
+[v2]
+Mi-ai dat o viata binecuvantata
+Cu atata drag pe brate m-ai purtat
+De aceea azi cu inima smerita
+Voi spune ”
+Da” Isus iubit
+
+[v3]
+Promit sa te iubesc mereu Isus
+Sa-ti fiu aproape orisicand
+Si sa ma daruiesc cu-ntreaga-mi fiinta
+Sa te ador, sa-ti cant o Domnul meu
+
+[c2]
+Daca nori si ploaie vin in calea mea
+Daca ceru-ntunecat nu se va-nsenina
+Ma voi ruga la Tatal meu din cer
+Sa linisteasca noaptea rea
+Si seninul sa patrunda in viata mea

@@ -1,0 +1,41 @@
+[title]
+Dumnezeul meu {author: {Speranța}, {rcId: {101875}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Dumnezeul meu, spre ceruri
+Îmi înalț eu ruga mea
+Ascultă-mă azi, Stăpâne!
+Mântuiește viața mea!
+Că-n curând veni-va ziua
+Când pe nori vei apărea
+Prin Isus să-Ți faci lucrarea
+Începând judecata!
+
+[c]
+/: Să-ți amintești atuncea și de mine
+C-am vrut ca să trăiesc doar lângă Tine
+Când spaima va cuprinde pe oricine
+Să-Ți pui cu milă Mâna peste mine :/
+
+[v2]
+Dumnezeul meu din ceruri
+Azi revarsă-Ți iubirea
+Și îngăduie atuncea
+Cu sfinții să pot intra
+În Cetatea Nemuririi
+Unde Tu domnești în veci
+Tot în jur Îți cântă slavă
+Căci Tu din vecie ești
+
+[v3]
+Dumnezeul meu din ceruri
+Sfințește-Ți biserica
+Dă-i putere ca să treacă
+Greul ce va apărea
+Prin Isus ce este Rege
+Domn în vecii vecilor
+Și prin Duhul Sfânt arvuna
+Ce-a fost dată sfinților

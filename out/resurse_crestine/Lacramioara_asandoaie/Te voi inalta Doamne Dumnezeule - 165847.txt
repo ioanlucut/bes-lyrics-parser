@@ -1,0 +1,45 @@
+[title]
+Te voi inalta doamne dumnezeule {author: {Lăcrămioara Asăndoaie}, {rcId: {165847}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Te voi înălța, Doamne, Dumnezeule
+Și voi binecuvânta Numele Tău în veci,
+În orice zi Te voi binecuvânta
+Și voi lăuda a Ta lucrare în orice vreme!
+Împăratul meu, ești Isus, Regele meu,
+Al meu Soare și Luceafăr ești, Isuse,
+Ție mă-nchin, slavă Ție-Ți cânt mereu,
+Fii lăudat, glorificat și onorat!
+
+[c]
+Aleluia-Ți cânt, Isus,
+Aleluia, Glorie Ție!
+Rege-al Regilor,
+Ești în veci adorat!
+Aleluia-Ți cânt, Isus,
+Aleluia, Glorie Ție!
+Rege-al Regilor,
+Fii în veci glorificat!
+
+[v2]
+Toți îngerii și oștirea cerului,
+Te laudă, Doamne, nencetat doar pe Tine.
+Soarele, stele și luna și norii Ție ți se închină,
+Cerurile Te slăvesc cu osanale sfinte.
+Binecuvântat să fii Împăratul lui Israel,
+Binecuvântat să fie-n veci slăvitu-Ți Nume!
+Te adorăm, mâini curate spre cer înălțăm,
+Binecuvântăm pe Prințul Slavei, Emanuel!
+
+[c2]
+Binecuvântăm pe Dumnezeu,
+Tot pământul să-L binecuvânte,
+Mare este Domnul
+Și lăudat de toți!
+Aleluia să-I cântăm,
+Aleluia, Glorie, Osana,
+Prințul veșniciei,
+Fii în veci glorificat!

@@ -1,0 +1,35 @@
+[title]
+Asculta doamne strigatele mele {author: {Nicolae Moldoveanu}, {rcId: {5945}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Asculta, Doamne, strigatele mele
+Si ia aminte la rugaciunea mea!
+/: Caci, de la capatul lumii, strig la Tine
+Si-mi plange, in mahnire, inima... :/
+
+[v2]
+Alerg la stanca ce n-o pot ajunge
+Caci e prea-nalta si singur n-o razbesc;
+/: Caci Tu esti adapostul meu cel tare
+In contra celor ce ma dusmanesc... :/
+
+[v3]
+As vrea sa locuiesc, pe veci, cu Tine
+Sub aripile Tale-adapostit,
+/: Caci Tu asculti a-mele juruinte
+Si mosteniri, pe veci, mi-ai daruit. :/
+
+[v4]
+Tu dai la imparatul zile multe,
+In veci, sa se lungeasca anii lui;
+/: In veci, sa stea pe scaun de domnie,
+In veci, sa stea-naintea Domnului. :/
+
+[v5]
+Fa bunatatea si credinciosia
+Mereu sa privegheze-asupra mea!
+/: Atunci implini-voi zilnic juruinta
+Si pururi sfant Numele-Ti voi canta... :/

@@ -1,0 +1,25 @@
+[title]
+Trezeste-te copile {author: {Nicolae Moldoveanu}, {rcId: {234321}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Trezește-te, copile, din somn de dimineață,
+mai limpede ți-e mintea, mai bine se învață.
+
+[v2]
+Trezește-te, copile, tot mai de dimineață,
+și când te cheamă Domnul să mergi cu El în viață.
+
+[v3]
+Trezește-te, copile, când vine-o rea povață,
+să nu ascunzi păcatul, să nu-l urmezi în viață.
+
+[v4]
+Trezește-te, copile, când vei greși-n viață,
+la început te-ntoarce, mai bine-i dimineață.
+
+[v5]
+Trezește-te-nainte de-a te trezi sub gheață,
+de tânăr vin la Domnul, mai bine-i dimineață.

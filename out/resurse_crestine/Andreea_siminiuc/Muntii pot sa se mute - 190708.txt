@@ -1,0 +1,29 @@
+[title]
+Muntii pot sa se mute {author: {Andreea Siminiuc}, {rcId: {190708}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Munții pot să se mute
+Dealurile să se clatine
+Dar dragostea lui Dumnezeu
+De la noi nu se va muta. :/
+
+[c]
+/: Tu nu ne lași, Tu nu ne uiți
+Ne întărești în slăbiciuni
+Harul Tău Isus
+Ne este îndeajuns :/
+
+[v2]
+/: Dragostea lui Hristos
+Pentru orice păcătos
+Viață nouă a dăruit
+Prin Isus Cel Răstignit. :/
+
+[v3]
+/: Ne întoarcem către Tine
+Ca să primim a Ta îndurare
+Spre slava Ta vrem să trăim
+Cu Tine-n cer să locuim. :/

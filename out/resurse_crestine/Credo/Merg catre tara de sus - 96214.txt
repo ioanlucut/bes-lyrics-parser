@@ -1,0 +1,31 @@
+[title]
+Merg catre tara de sus {author: {Credo}, {rcId: {96214}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Eu am nădejdea că vine-o zi
+Când pacea în Isus o voi afla.
+Când lumea-n urmă, cu tot ce este-al ei,
+Eu voi lăsa, spre ceruri voi zbura.
+
+[c]
+/: Merg către țara de sus
+Ținta mea e Isus
+Dureri, probleme-ncercări
+Sunt treapta pe care urc.
+Un singur dor am în pieptul meu,
+Lacrimi curg și îmi este greu,
+Merg către țara de sus,
+Ținta mea e Isus :/
+
+[v2]
+Eu am nădejdea că sufletul
+Va ancora-n odihna Mielului.
+Și-atunci iubirea cea fără de sfârșit
+Va mângâia drumețul obosit.
+
+[e]
+/: Merg către țara de sus,
+Ținta mea, ținta mea e Isus! :/

@@ -1,0 +1,26 @@
+[title]
+Sunt rascumparat (i am redeemed) {author: {Phil Cross, Traducere RO}, {rcId: {178652}}
+
+[sequence]
+v1,c,v2,c,s,c
+
+[v1]
+Eram un rob pe pământ străin
+Departe de locașul Tatălui divin
+Dar într-o zi am fost salvat
+Răscumpărat cu un preț nemăsurat.
+
+[c]
+Sunt mântuit, răscumpărat
+Isus m-a aflat și m-a eliberat
+Sunt mântuit, răscumpărat
+Nu mai sunt cu lanțuri reci, nicicum legat.
+
+[v2]
+Deși aici sunt doar peregrin
+Liber pășesc sub mâna Tatălui divin
+Curând voi fi cu toți acei
+Copii iubiți, mântuiți din Casa Lui.
+
+[s]
+Doamne, Tu ai apărat pricina sufletului meu, mi-ai răscumpărat viața! Plângeri 3:58

@@ -1,0 +1,36 @@
+[title]
+Eu vin curand {author: {Adina Blaga}, {rcId: {6647}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Eu vin curând - a spus Isus
+Eu vin să-mi iau Mireasa
+Păstrează-te așa curat,
+Să-mi fii și tu aleasa!
+
+[c]
+Eu vin curând,
+Eu vin curând
+Te voi lua acasă!
+Vom fi o turmă și-un Păstor,
+Un Mire și-o mireasă!”
+
+[v2]
+Da, voi veni și nu e mult
+Nu sta în atipire,
+Te voi lua în slava Mea
+Să-mi fii a Mea iubire!
+
+[v3]
+Pe lemnul crucii-am suferit
+Luând povoara-ți mare!
+Păcatul tău, Eu l-am plătit
+Sub arșita de soare!
+
+[v4]
+Te voi lua în slava Mea
+Te voi chema acasă,
+Iar lacrima ce-a curs cândva
+Pe veci îți va fi ștearsă!

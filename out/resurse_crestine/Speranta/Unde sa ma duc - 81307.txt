@@ -1,0 +1,32 @@
+[title]
+Unde sa ma duc {author: {Speranța}, {rcId: {81307}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Trăiesc în lumea-aceasta, mă simt însingurat
+Cu lumea și păcatul am de luptat
+Când răul mă-nconjoară și norul este gros
+Unde-am să mă duc, decât la Hristos ?
+
+[c]
+/: Unde să mă duc ? :/
+Când sunt dezorientat
+Alerg în sus și-n jos
+Unde-am să mă duc
+Decât la Hristos ?
+
+[v2]
+Am frați și prieteni, care sunt cu mine
+Mulți nu mă-nțeleg la greu și bine
+Dar când viața mea e fără de folos
+Unde-am să mă duc, decât la Hristos ?
+
+[e]
+Nu-i nimeni ca Tine, o Doamne!
+Nu-i nimeni ca Tine, mereu!
+Ești Dumnezeu din veșnicii!
+Ești Rege al Cerului!
+Împărat al Universului!
+În veci de veci vei stăpâni.

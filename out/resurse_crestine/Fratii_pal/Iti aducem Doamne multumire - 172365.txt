@@ -1,0 +1,29 @@
+[title]
+Iti aducem doamne multumire {author: {Fratii Pal}, {rcId: {172365}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+/: Iti aducem Doamne mulțumire
+Pentru tot ce pana aici mi-ai dat
+Pentru viata pentru mântuire
+Pentru haru-ti binecuvântat :/
+
+[v1]
+O Doamne mare cu bratul Tare
+Din foc si apa ne-ai scapat
+Ne-ai dat speranta si siguranta
+Al tau Cuvânt e neschimbat
+
+[v2]
+Tu esti Stapanul nu e niciunul
+Ca Tine-n cer si pe pamant
+Esti Creatorul si Ziditorul
+Tu le ti toate prin Cuvant
+
+[v3]
+Cu indurare si adorare
+Inaintea Ta venim
+Toti fiecare cu mic cu mare
+Doamne vrem sa-ti multumim

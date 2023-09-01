@@ -1,0 +1,39 @@
+[title]
+Cu duhul tau {author: {Nicolae Moldoveanu}, {rcId: {246543}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cu Duhul Tău, ființa mea,
+O, Doamne, să mi-o umpli vreau,
+Să pot apoi, oricând, din ea
+La alții din belșug să dau.
+
+[c]
+Umple-mă mereu,
+Sfinte Dumnezeu;
+Umple-mă deplin
+Cu-al Tău har divin,
+Ca apoi, curat,
+Să dau ce mi-ai dat,
+Celor ce doresc
+Darul Tău ceresc!
+
+[v2]
+Din ce e-al meu, sau de la om,
+Să nu dau nimănui nicicând,
+Ci numai din al vieții pom
+Să-mpart la orișice flămând.
+
+[v3]
+Să mă golesc desăvârșit
+De eul meu, de tot ce-i rău,
+Ca să mă umpli neoprit,
+Cu Tine și cu cerul Tău.
+
+[v4]
+Te rog, cu plinătatea Ta,
+O, Doamne, să mă copleșești,
+Să pot din ale Tale da
+La orișicine - cum dorești!

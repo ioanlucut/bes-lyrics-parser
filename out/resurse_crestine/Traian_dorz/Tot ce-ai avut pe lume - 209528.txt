@@ -1,0 +1,29 @@
+[title]
+Tot ce-ai avut pe lume {author: {Traian Dorz}, {rcId: {209528}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Tot ce-ai avut, tot ce-ai avut pe lume
+Mai sfânt ca Dumnezeu
+/: Îți va ajunge-un blestem
+Aici si-n veci mereu :/
+
+[c]
+Numai Hristos, Numai Hristos mai poate
+Ierta al tău păcat
+/: Dar vino, vino, vino,
+Cât poți sa fii iertat :/
+
+[v2]
+Tot ce-ai avut, tot ce-ai avut in viață
+Mai drag ca pe Hristos
+/: Va chinui-al tău suflet
+Etern și nemilos :/
+
+[v3]
+Tot ce-ai avut, tot ce-ai avut nainte
+Ca dragostea mai sfânt
+/: Îți va zdrobi odihna odihna
+Și-aici și sub pământ :/

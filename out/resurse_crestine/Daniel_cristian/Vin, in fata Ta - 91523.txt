@@ -1,0 +1,25 @@
+[title]
+Vin in fata ta {author: {Daniel Cristian}, {rcId: {91523}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Vin, în fața Ta
+Îți aduc jertfă
+Prin lauda mea
+:
+/: Primește-mă :/
+
+[c]
+Nu-i onoare mai mare, nu-i altă iertare
+Să stau mereu în fața Ta,
+Nu-i altă chemare, nu-i iubire mai mare
+Decât la tronul Tău ceresc!
+
+[v2]
+Prăbușit, azi
+La Ține vin
+Te-am întristat
+:
+/: De-atatea ori :/

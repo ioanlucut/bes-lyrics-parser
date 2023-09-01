@@ -1,0 +1,39 @@
+[title]
+Vino cu laude {author: {Anonim}, {rcId: {231278}}
+
+[sequence]
+v1,c,e,e,b,e,e,b,c
+
+[v1]
+/: Vino cu laude în prezența Sa,
+Cerul să fie plin de cânt în cinstea Lui!
+Intră cu laude în prezența Sa,
+Inima ta să cânte-acum un cântec nou! :/
+
+[c]
+/: El e vrednic, El e înălțat,
+Isus e vrednic să fie lăudat. :/
+
+[e]
+Salvarea mea, Lumină pe cărare,
+Isus, Stânca mea, de ce să mă tem?!
+Salvarea mea, Lumină pe cărare,
+Isus, Stânca mea, eu nu mă tem!
+
+[b]
+/: Vino cu laude în prezența Sa!
+Intră cu laude în prezența Domnului! :/
+
+[e]
+/: Laudă-L! x4
+
+[b]
+El e vrednic! x3
+Laudă-L! :/ x2
+
+[c]
+El e vrednic, El e înălțat,
+Isus e vrednic să fie lăudat.
+El e vrednic, El e înălțat,
+Isus e vrednic!
+Vrednic este El! x3

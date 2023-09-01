@@ -1,0 +1,29 @@
+[title]
+De cand christos m-a mantuit {author: {Anonim}, {rcId: {74328}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+De când Christos m-a mântuit
+Cu mine e necontenit,
+Și-n mijloc de-ntristări și vai,
+Mă simt ferice ca în rai.
+
+[c]
+/: Aleluia, sunt fericit
+Mă simt ca-n cer, că-s mântuit.
+Sunt fericit chiar pe pământ
+Căci unde-i El e cerul sfânt. :/
+
+[v2]
+Ceru-mi părea îndepărtat,
+Când în păcat stam cufundat,
+Dar când pe Isus Îl primii
+Cerul în suflet îmi veni.
+
+[v3]
+Nu-i important unde aș fi
+În munți sau văi pot locui,
+În scump palat sau într-un cort,
+Căci ceru-ntreg în mine-l port.

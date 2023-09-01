@@ -1,0 +1,35 @@
+[title]
+Cand vanturi bat {author: {Ramona Ibănescu}, {rcId: {6614}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Când vânturi grele bat
+Și trec prin încercare
+Te chem Doamne să vii
+Atunci să-mi dai răbdare.
+
+[c]
+Umple-mi sufletul cu pace
+Chiar în juru-mi De-i război
+Împreun-om trece toate
+Tu ’nainte eu ’napoi.
+
+[v2]
+Eu vreau să te iubesc
+În orice-mprejurare
+Ajută-mă mereu
+Să merg pe a Ta cale.
+
+[v3]
+Eu sunt atât de mic
+M-ar spulbera furtuna
+Dar bunătatea Ta
+Mă ocrotește-ntruna.
+
+[v4]
+Îți mulțumesc Isus
+Că ești mereu cu mine
+Ajută-mă să fiu
+Și-n cerul sfânt cu Tine.

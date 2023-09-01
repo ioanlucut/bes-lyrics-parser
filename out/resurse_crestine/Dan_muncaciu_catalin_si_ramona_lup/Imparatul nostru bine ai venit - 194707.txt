@@ -1,0 +1,37 @@
+[title]
+Imparatul nostru bine ai venit {author: {Dan Muncaciu  Catalin si Ramona Lup}, {rcId: {194707}}
+
+[sequence]
+v1,v2,c,v3,c,e
+
+[v1]
+/: Într-o noapte cerul s-a deschis pentru mine
+După lungă așteptare-Ai apărut
+Îngeri mii din înălțime cântă slavă, Împăratul nostru, bine ai venit! :/
+Împăratul nostru, bine ai venit!
+
+[v2]
+Steaua sus a strălucit,
+Magii au pornit la drum din răsărit
+Te-am găsit Mesia, Rege sfânt
+Bine ai venit la noi!
+
+[c]
+Aleluia, Glorie Ție Doamne,
+Pentru mine ai venit
+M-ai iubit și Te-ai gândit la mine
+Slava când ai părăsit
+
+[v3]
+În Betleem e sărbătoare azi că iată
+Cel ce e din veșnicie s-a întrupat
+El e împăratul slavei Domnul nostru
+/: Numele lui Sfânt să fie lăudat :/
+
+[e]
+/: Mă închin îți predau Ție
+Viața mea tot ce am Ți-a duc!
+Mă închin îți predau Ție
+Viața mea tot ce am Ți-a duc! :/
+Tot ce am ti-aduc
+Bine ai venit la noi

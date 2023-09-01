@@ -1,0 +1,40 @@
+[title]
+Pe a mea cale nainte mi-ai iesit {author: {Florin Fill Bodnariuc}, {rcId: {164316}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pe a mea cale ’nainte mi-ai ieșit
+De mântuire, de viață mi-ai vorbit
+Nu credeam că-s vrednic eu
+Să-mi vorbească Dumnezeu,
+Să-mi dea iertare.
+
+[c]
+Eu veșnic Te voi iubi, Domnul meu
+Măreț Dumnezeu!
+Eram doar un păcătos când m-ai ridicat de jos
+Și mi-ai spus că sunt fiul Tău...
+S-a schimbat atunci viața mea
+Am simțit puterea Ta.
+Tu mi-ai spus: ”
+Nimic nu-i prea greu!
+Crede-n Mine doar.
+Pe pământ îți e-ndeajuns al Meu har!”
+
+[v2]
+În întristare un zâmbet mi-ai adus
+Și în durere Tu m-ai vegheat de sus
+Când în rătăcirea mea
+Nu-ndrăzneam să spun ceva
+Mi-ai fost aproape.
+
+[v3]
+Tu mi-ai spus că sunt fiul Tău
+S-a schimbat atunci viața mea
+Am simțit puterea Ta
+Tu mi-ai spus: ”
+Nimic nu-i prea greu!
+Crede-n Mine doar.
+/: Pe pământ îți e-ndeajuns al Meu har!” :/

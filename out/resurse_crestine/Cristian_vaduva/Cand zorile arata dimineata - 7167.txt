@@ -1,0 +1,29 @@
+[title]
+Cand zorile arata dimineata {author: {Cristian Văduva}, {rcId: {7167}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când zorile arată dimineața
+Să-mbrace cu lumină și căldură
+Atunci ușor îmi mângâi Doamne fața
+Ce-Ai făurit-o după-a Ta făptură
+
+[c]
+/: Te laudă și câmpul și stejarii
+Și apele cu clinchet Te slăvesc
+Și-orice făptură tot ce are viață
+Strigă în cor mărire Te iubesc :/
+
+[v2]
+Și urșii se-mbată-n frumusețea
+Cascadelor de adieri de vânt
+Lumină dai Tu pentru toată lumea
+Ești Creator premăreț și blând
+
+[v3]
+Ce bun ești Doamne ce frumos ție chipul
+Tu poruncești și soarelui s-apună
+Și stelele să cânte-n legea Ta
+Din ele Ți-ai ales să-Ți faci cunună

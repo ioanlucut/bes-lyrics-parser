@@ -1,0 +1,29 @@
+[title]
+Isuse durerea ma macina greu {author: {Dumitru Coroama}, {rcId: {177637}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Isuse, durerea mă macină greu
+Să-Ți spun n-am puteri nici cuvinte..
+O, nu plânge, astăzi, cu tine sunt Eu,
+Tu cântă și mergi înainte!
+
+[c]
+Căci vremea cântării e cea de acum
+Când lacrima-ți arde sub gene,
+Cu tine Eu fi-voi pe al crucii drum,
+Tu cântă, nu plânge, nu geme!
+
+[v2]
+Sfârșise-va totul, așa, ca un vis,
+Ce pare că fost-a vreodată
+Tu știi că-mplini-Voi, Eu, tot ce ți-am spus,
+Dar cântă, o, cântă și rabdă!
+
+[v3]
+Se-apropie zorii, departe nu sunt,
+Sorbi-vei dulceața-ntâlnirii...
+Dar vrea s-aud laude, să n-aud plângând,
+O, cântă, tu, imnul iubirii!

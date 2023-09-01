@@ -1,0 +1,47 @@
+[title]
+Am venit doamne in casa ta {author: {Valentin Bejenar}, {rcId: {102427}}
+
+[sequence]
+v11,c,v2,c2,v3,c3
+
+[v11]
+Am venit, Doamne, în casa Ta,
+Am venit cu toții-naintea Ta,
+Am venit pentru-a Te lăuda,
+Aleluia.
+
+[c]
+Îți cântăm Osana,
+Rege al regilor!
+Îți cântam Aleluia,
+Împărat al împăraților!
+/: Osana, Aleluia
+Ție, Doamne, Îți cântăm :/
+
+[v2]
+Cu toții stăm-naintea Ta,
+Revarsă-Ți, Doamne, slava Ta,
+Ca în clocot a-Ți cânta,
+Aleluia.
+
+[c2]
+Îți cântăm Osana,
+Rege al regilor!
+Îți cântăm Aleluia,
+Împărat al împăraților!
+/: Osana, Aleluia
+Ție, Doamne, Îți cântăm :/
+
+[v3]
+Smeriți, umili, noi ne-nchinăm,
+Pe Tatăl, Fiul înălțăm.
+Și Duhul Sfânt îl onorăm.
+Aleluia.
+
+[c3]
+Îți cântăm Osana,
+Rege al regilor!
+Îți cântam Aleluia,
+Împărat al împăraților!
+/: Osana, Aleluia
+Ție, Doamne, Îți cântăm :/

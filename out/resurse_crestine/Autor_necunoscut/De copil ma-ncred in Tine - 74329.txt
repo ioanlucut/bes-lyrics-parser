@@ -1,0 +1,29 @@
+[title]
+De copil ma-ncred in tine {author: {Anonim}, {rcId: {74329}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+De copil mă-ncred în Tine,
+Scumpul meu Isus,
+Totdeauna ești cu mine,
+Tu așa mi-ai spus.
+
+[c]
+De copil Ție mă-ncred,
+De Conducător Te-aleg,
+Tu veghează-asupra mea,
+Blând cu mâna Ta.
+
+[v2]
+De copil mă-ncred în Tine
+În sângele Tău,
+Ce-ai vărsat pe lemnul crucii
+Pentru greșul meu.
+
+[v3]
+De copil mă-ncred în Tine,
+Bunule Păstor,
+Știu că mă conduci pe mine,
+La-l vieții izvor.

@@ -1,0 +1,65 @@
+[title]
+Ce pot isus sa-ti daruiesc {author: {Mariana Someșan}, {rcId: {211849}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,v5,c5
+
+[v1]
+Ce pot Isus să-ți dăruiesc
+Mergând pe a Ta cărare
+Tu-mi dai in fie are zi
+Și har și îndurare.
+
+[c]
+/: Ce pot Isus să-ți dăruiesc
+Eu floarea cea sădită
+Mă plec adânc și Te slăvesc
+Și vreau parfum să răspândesc :/
+
+[v2]
+Ce pot Isus să-ți dăruiesc
+Mergând pe a Ta cărare
+Tu-mi dai în fiecare zi
+Și pace și iertare.
+
+[c2]
+/: Ce pot Isus să-ți dăruiesc
+Eu floarea cea sădită
+Mă plec adânc și Te slăvesc
+Și vreau cu Tine să rodesc :/
+
+[v3]
+Ce pot Isus să-ți dăruiesc
+Mergând pe a Ta cărare
+Tu-mi dai în fiecare zi
+Putere și răbdare.
+
+[c3]
+/: Ce pot Isus să-ți dăruiesc
+Eu floarea cea sădită
+Mă plec adânc și Te slăvesc
+Și vreau mereu să-Ți mulțumesc :/
+
+[v4]
+Și-ți mulțumesc că mă iubești
+Mai mult ca orișicine,
+Mireasma Ta mi-o dăruiești
+Și ești mereu cu mine.
+
+[c4]
+/: Dar vreau să-mi dai dragostea Ta
+Sa pot iubi ca Tine,
+Și-arată-mi Doamne slava Ta
+Să cred mai mult în Tine :/
+
+[v5]
+Îți mulțumesc că mai salvat
+Și mi-ai iertat păcatul,
+Cu Duhul Sfânt m-ai botezat
+Și mi-ai umplut iar vasul.
+
+[c5]
+/: Dar vreu si focul Tău Isus
+Să cadă peste mine,
+Să-ți fiu în toate mai supus
+Și să lucrez cu Tine. :/

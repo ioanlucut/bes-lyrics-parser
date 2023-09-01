@@ -1,0 +1,45 @@
+[title]
+Nu doar ca petru {author: {Daniel Hartie}, {rcId: {201387}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Nu doar ca Petru de trei ori,
+Ne-am lepădat de Tine.
+Și, Doamne, de prea multe ori,
+Ți-adus-am doar rușine.
+Ți-am spus cândva că te-om sluji,
+Cu râvnă pe cărare.
+Dar mai târziu ne-am depărtat,
+Isuse, de-a Ta cale.
+
+[c]
+Dar ne smerim la crucea Ta,
+În sac și în cenușă.
+Să ne deschizi prin jertfa Ta,
+A îndurării ușă!
+Căci suntem, Doamne vinovați,
+Te-am părăsit în noapte.
+Dar Te rugăm îndurerați,
+Ne iartă de pacate!
+
+[v2]
+Atâtea semne și minuni,
+Lucrări de vindecare.
+Noi am văzut prin mila Ta,
+Isuse’n adunare.
+Dar am uitat așa ușor,
+De harul făr’ măsură.
+Turnat peste al tău popor,
+În vremea cea din urmă.
+
+[v3]
+Nu vrem să mai trăim aici,
+Cuprinși de nostalgie.
+Tu mai reverși Isus și azi,
+Izvor de bucurie!
+Nu te-ai schimbat, Ești și Vei fi,
+Un Dumnezeu puternic.
+Ne’ntoarcem vrem să ne căim,
+Părinte Sfânt și veșnic!

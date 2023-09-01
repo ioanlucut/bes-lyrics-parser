@@ -1,0 +1,37 @@
+[title]
+Sunati din trambita (doamne te astepatm) {author: {Ovidiu Liteanu}, {rcId: {72607}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Sunați din trâmbiță în Sion,
+Treziți-i pe acei ce dorm,
+Umpleți-vă de Duhul Sfant,
+Curând plecăm de pe pământ.
+
+[c]
+/: Doamne, te așteptăm cu dor
+Știm că vei veni pe nori
+Ca un stol de porumbei,
+Doamne, Tu o să ne iei.
+/: Va fi o zi mare, o zi de sărbătoare
+Răpirea creștinilor. :/
+
+[v2]
+Creștinilor, nu vă înșelați,
+Cu lumea nu vă asemănați
+Că numai cine este sfânt
+Va fi luat de pe pământ
+
+[v3]
+Iar candela vă fie plină
+Cu undelemn, să fiți lumină
+Strigarea când s-o auzi
+Să ne înălțăm spre veșnicii.
+
+[v4]
+Ne-om întâlni cu Domnul Sfânt
+Și vom uita de acest pământ
+Acolo, în rai, în veșnicii,
+Trăi-vom numai bucurii.

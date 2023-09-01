@@ -1,0 +1,45 @@
+[title]
+Cand in zorii invierii {author: {Necunoscut}, {rcId: {144135}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Când în Zorii Învierii,
+Sfânt Semnal ni se va da,
+/: Ne-om scula! ALELUIA! :/
+Atunci Dulcea Mângâiere,
+Lacrimile le-or usca.
+/: Ne-om scula! ALELUIA! :/
+
+[c]
+/: Ne-om scula! ALELUIA!
+Ne-om scula! AMIN!
+Ne-om scula! ALELUIA!
+Dintr-o Trâmbiță să sune,
+Lin semnal să se adune.
+/: Ne-om scula! ALELUIA! :/
+
+[v2]
+Când în Zorii Învierii,
+Noi cu toți ne-om aduna,
+/: Ne-om scula! ALELUIA! :/
+Ca splendoarea primăverii,
+Vom fi toți-naintea Sa.
+/: Ne-om scula! ALELUIA! :/
+
+[v3]
+Când în Zorii Învierii,
+Domnul ne va trasforma,
+/: Ne-om scula! ALELUIA! :/
+Vom fi-n Veci cu El în Slavă,
+Și oriunde-L vom urma,
+/: Ne-om scula! ALELUIA! :/
+
+[v4]
+Când în Zorii Învierii,
+Domnul ne va aduna,
+/: Ne-om scula! ALELUIA! :/
+Bucuria revederii,
+Pentru veci ne va umplea.
+/: Ne-om scula! ALELUIA! :/

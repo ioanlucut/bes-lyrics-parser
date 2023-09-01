@@ -1,0 +1,32 @@
+[title]
+Prima porunca {author: {Miron Cornel}, {rcId: {4435}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Prima și cea mai mare
+Poruncă din Scripturi
+E să-L iubești ne-ncetat
+Pe Domnul Dumnezeu.
+
+[c]
+Cu toată inima ta,
+Cu tot sufletul tău,
+Cu tot cugetul tău,
+Cu toată puterea ta,
+Din toată inima ta,
+Din tot sufletul tău
+Să-L iubești pe Domnul Dumnezeu.
+
+[v2]
+Nu e de ajuns a crede
+În Dumnezeu, să știi
+Mai important e să-L iubești
+Pe Domnul Dumnezeu.
+
+[v3]
+Să-ți iubești aproapele
+Ca pe tine însuți,
+Dacă dorești cu Dumnezeu
+În cer să locuiești.

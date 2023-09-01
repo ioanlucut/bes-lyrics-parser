@@ -1,0 +1,29 @@
+[title]
+Asteapta {author: {Nicolae Moldoveanu}, {rcId: {244068}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Așteaptă-n fiecare ceas,
+Privește-n fiecare zare,
+Ascultă flecare glas,
+Că nu știi, Domnul, când ți-apare!
+
+[c]
+Deschide ușa ta oricui,
+Dă-ți pâinea ta oricine-ți cere,
+Oricui ți-așteaptă mila,
+Du-i fărâma ta de mângâiere.
+
+[v2]
+Căci, după ce primești, sau dai,
+Sau saturi, sau îmbraci cu milă,
+Vei auzi Cerescul grai
+De după fața cea umilă.
+
+[c2]
+Și nu-i mai sfânt fior... și nu-s
+Trăiri mai binecuvântate,
+Decât când vezi că lui Isus
+I le-ai făcut acestea toate.

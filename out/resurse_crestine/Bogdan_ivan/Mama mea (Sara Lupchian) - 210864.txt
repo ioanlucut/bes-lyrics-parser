@@ -1,0 +1,29 @@
+[title]
+Mama mea (sara lupchian) {author: {Bogdan Ivan}, {rcId: {210864}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Dintre tot ce cuprinde pământul,
+Dintre tot ceea ce Tu ai creat
+Cea mai blândă ființă din lume
+Este mama, ce viață mi-a dat!
+
+[c]
+Mama mea, mama mea, mama mea
+Ești un dar prețios pe pământ
+Mama mea, mama mea, mama mea
+Pentru mine ai luptat orișicând.
+
+[v2]
+Chiar de ani după ani au trecut
+Și atâtea-ncercări tu ai avut
+Te-a ținut să fii tare: Dumnezeu
+Și mi-ai spus că El e ajutorul meu!
+
+[v3]
+Chiar de ochii mei nicicând n-au văzut
+Chipul mamei ce e blajin și sfânt
+Mâna ei a mângâiat obrazul meu
+Și chipul ei s-a oglindit în chipul meu.

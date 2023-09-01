@@ -1,0 +1,25 @@
+[title]
+Pliveste-a inimii gradina {author: {Nicolae Moldoveanu}, {rcId: {229710}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Plivește-a inimii grădină, copile de-orice iarbă rea,
+de gânduri rele ce-nvenină neîncetat viața ta.
+
+[c]
+Veghind să trăiești, ce-i rău să plivești,
+s-aduci oricând frumos, un rod pentru Hristos.
+
+[v2]
+Să smulgi lăstarii neascultării de Dumnezeu, de-al Său Cuvânt,
+și roada binecuvântării va crește-n tine cu avânt.
+
+[v3]
+Să smulgi neghinele minciunii din tot ce ești, necontenit,
+și îți va crește-a-nțelepciunii plăcutul rod desăvârșit.
+
+[v4]
+Plivește-a inimii grădină de tot răsadul cel străin,
+și viața ta va fi-n lumină plăcerea Tatălui Divin.

@@ -1,0 +1,35 @@
+[title]
+Sclipeste neaua {author: {Text și muzica: Ștefan Mihai}, {rcId: {199428}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Sclipește neaua-n cetină de brad
+Și iarna toarce-ntruna din fuioare
+Și-alte colinde, cântece răzbat
+S-aducă orișicui înseninare.
+E casa ruptă parcă din poveste,
+Dormind sub blana rece a ninsorii,
+Înmărmurită parcă de-această veste
+Pe care o aduc colindătorii.
+
+[c]
+Ni s-a născut un Prunc și El e Rege;
+E Fiu de Dumnezeu din cer venit.
+Pe oameni din robie să-i dezlege,
+Să-i izbavească-n chip desăvârșit.
+Ni s-a născut în staul Prunc frumos
+În care Dumnezeu se oglindește.
+El e Mesia cel promis, Hristos
+Care ne-aduce pace și nădejde.
+
+[v2]
+Din Betleem lumină și iubire
+S-a revărsat peste pământ din plin.
+Căci Pruncul ne aduce mântuire
+Și-acesta-i darul cerului sublim.
+Și ne aduce vremi de-nviorare,
+Și-n inimi ne aduce al Său cer.
+Este cu noi, prin har, cu fiecare
+El, Prințul cel Divin, Emanuel!

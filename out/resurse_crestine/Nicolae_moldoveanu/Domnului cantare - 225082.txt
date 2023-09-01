@@ -1,0 +1,23 @@
+[title]
+Domnului cantare {author: {Nicolae Moldoveanu}, {rcId: {225082}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Domnului cântare, toți cu mic, cu mare,
+/: să-I cântăm, să-I cântăm, copilași, să-I cântăm, :/
+Numele să-I lăudăm! Lăudăm, lăudăm,
+Numele să-I lăudăm, până-n veci să-I lăudăm!
+
+[v2]
+Domnului, mărire, veșnică iubire
+/: dăruim, dăruim, copilași, dăruim, :/
+Numele să-I proslăvim! Proslăvim, proslăvim,
+Numele să-I proslăvim, până-n veci să-I proslăvim!
+
+[v3]
+Domnului frumoasă ascultare-aleasă,
+/: orișicând, orișicând, toți să-I dăm, orișicând :/
+Numele Lui lăudând! Lăudând, lăudând,
+Numele Lui lăudând, veșnic, veșnic lăudând!

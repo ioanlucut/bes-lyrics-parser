@@ -1,0 +1,57 @@
+[title]
+Unii spun ca n-a fost nici o inviere {author: {Daniel Briciu}, {rcId: {240368}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Unii spun că n-a fost nici o înviere,
+Și că soldații la mormânt doar au visat,
+/: Dar noi știm că sol ceresc, plin de putere
+Piatra grea de pe mormânt a ridicat. :/
+
+[c]
+/: Da, noi știm, da, noi știm
+Știm că Domnul a-nviat precum El ne spunea.
+Da, noi știm, da, noi știm
+Și ne-ncredem pe deplin în jertfa Sa. :/
+/: Da, noi știm, da, noi știm
+Știm că Domnul a-nviat precum El ne spunea.
+Da, noi știm, da, noi știm
+Și ne-ncredem pe deplin în jertfa Sa. :/
+/: Da, noi știm, da, noi știm
+Știm că Domnul a-nviat precum El ne spunea.
+Da, noi știm, da, noi știm
+Și ne-ncredem pe deplin în jertfa Sa. :/
+/: Da, noi știm, da, noi știm
+Știm că Domnul a-nviat precum El ne spunea.
+Da, noi știm, da, noi știm
+Și ne-ncredem pe deplin în jertfa Sa. :/
+/: Da, noi știm, da, noi știm
+Știm că Domnul a-nviat precum El ne spunea.
+Da, noi știm, da, noi știm
+Și ne-ncredem pe deplin în jertfa Sa. :/
+
+[v2]
+Unii spun că n-a fost nici o înviere,
+Că ucenicii noaptea trupul i-au furat,
+/: Dar Isus în trup de slavă și putere
+La ai Săi plin de dovezi s-a arătat. :/
+
+[v3]
+Unii spun că n-a fost nici o înviere,
+Că Isus a fost un om obișnuit,
+/: Dar noi știm că El era venit din ceruri
+Fiu de om și Dumnezeu, cum s-a vestit. :/
+
+[v4]
+Unii spun că n-a fost nici o înviere
+Că Isus rămas-a veșnic în mormânt,
+/: Însă noi cunoaștem azi a Sa-nfiere.
+Și pe noi ne-a înviat Isus Cel Sfânt. :/
+
+[v5]
+Unii spun că Domnul azi nu mai lucrează,
+Că minuni au fost, dar astăzi nu mai sunt,
+Dar noi știm că Dumnezeu și azi veghează,
+Noi suntem minunea Sa pe-acest pământ.

@@ -1,0 +1,41 @@
+[title]
+Se-nalta doamne o ruga catre tine {author: {Simona Rusu}, {rcId: {63133}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Se-nalță Doamne, o rugă către Tine
+Poporul Tău, Te cheamă să lucrezi
+/: Surori și frați, Te strigă cu suspine
+Tu să cobori, să-I binecuvântezi :/
+
+[c]
+/: Cobori la noi, aici în adunare
+Fii Medic pentru cei care suspin
+Isus, fii pentru ei, o dulce alinare
+Ei au nevoie, de al Tău alin :/
+
+[v2]
+Sunt multe cereri, care azi așteaptă
+Răspuns o rezolvare-n dreptul lor
+/: Ce multe lacrimi, Doamne azi se varsă
+Vino și fii, al nostru scump Păstor :/
+
+[v3]
+Te rog lucrează-n fiecare cuget
+De e rănit, sau de e apăsat
+/: Fii bucurie, pentru orice suflet
+Să simtă Tată, că Tu ai lucrat :/
+
+[v4]
+Să treci Tu și la inima rănită
+Care oftează mult de al Tău dor
+/: De-i obosită, și înlăcrimată
+Fă-o să simtă, sfântul Tău fior :/
+
+[v5]
+Apoi revarsă, Tată îndurare
+Rămâi cu noi, în multele-ncercări
+/: Și nicio clipă, fie zi sau noapte
+Să nu ne lași, pe propriile puteri :/

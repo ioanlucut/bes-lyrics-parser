@@ -1,0 +1,26 @@
+[title]
+Condus de mana lui (led by the master s hand) {author: {Mosie Lister, Traducere RO}, {rcId: {116081}}
+
+[sequence]
+v1,c,v2,c,s,c
+
+[v1]
+Pașii mei au obosit pe drumul vieții
+Și de spini eu mă lovesc în praf pustiu
+Dar nicicând eu nu mă tem de umbra nopții
+Căci eu sunt condus de mâna Lui!
+
+[c]
+Prin furtuni, vijelii, eu sunt păzit
+De Isus, ce mereu, m-a călăuzit;
+Prin văzduh când am să urc la tronul Lui
+Eu voi fi condus de mâna Lui!
+
+[v2]
+Chiar de calea o străbat prin văi cu neguri
+Mă ridic s-ajung mai sus spre ’nalte culmi
+Știu mereu și am să spun: nu voi fi singur
+Căci eu sunt condus de mâna Lui!
+
+[s]
+... și acolo mâna Ta mă va călăuzi, și dreapta Ta mă va apuca. Psalm 139:10

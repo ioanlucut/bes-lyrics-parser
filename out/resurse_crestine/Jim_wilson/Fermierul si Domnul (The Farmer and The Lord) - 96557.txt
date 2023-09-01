@@ -1,0 +1,48 @@
+[title]
+Fermierul si domnul (the farmer and the lord) {author: {Jim Wilson, Traducere RO}, {rcId: {96557}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,s
+
+[v1]
+Când seara a sosit și lângă drum m-am odihnit
+Alături, într-un ogor cules, un fermier în vârstă am zărit
+Cu fața-i arsă de soare și cu riduri de la aspru vânt
+El vorbea cu Domnul, așa cum doi amici discută pe pământ.
+
+[v2]
+Doamne, spuse el, cu glas încet și calm:
+Porumbul cum să-l tai, când putere nu mai am?
+N-a mai plouat de-atâta vreme, iar holdele sunt prăfuite
+Și căldura încă-i mare, nici copiii nu au stare.
+
+[v3]
+Iarba este la pământ deși, uite...
+Până la genunchi ar trebui să fie
+Și Doamne, de-ar cădea puțini stropșori
+Astfel și văcuței i-ar fi mai ușor.
+
+[v4]
+O, acum când Îți vorbesc, nu-mi arăt nemulțumire
+Mă cunoști atât de bine, știi că nu am răzvrătire
+N-am uitat de vițelușul ce se joacă-n curtea mea
+Nici de banii de la poștă, încât să plătesc chiria
+Tusea mamei nu mai e și Ionel s-a-ntors acasă
+Iar Duminică la cină, și găluște, dar și pui au fost pe masă
+Chiar și pastorul trimis de Tine, da, e-acel tânăr bun
+Ce aleargă să conducă, mulți spre Tine-acum.
+
+[v5]
+Doamne, mă îndrept acum spre casă
+Timpul Tău e prețios când seara se lasă
+Știu că sunt și alții, ce așteaptă mult
+Să Îți spună cum i-apasă al zilei tumult.
+
+[v6]
+Noapte bună, Domnul meu cel bun!
+Și veghează peste noi, acum!
+Și să nu-Ți faci griji cu mine!
+Căci în toate voi fi bine!
+
+[s]
+Domnul vorbea cu Moise față în față, cum vorbește un om cu prietenul lui Exodul 33:11

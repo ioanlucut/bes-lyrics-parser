@@ -1,0 +1,26 @@
+[title]
+O cantare de lauda (o say but i m glad) {author: {Mildred Ellen Sullivan, Traducere RO}, {rcId: {125784}}
+
+[sequence]
+v1,c,v2,c,s,c
+
+[v1]
+O cântare de laudă în inima mea
+Astăzi, spre ceruri ridic;
+Spre Isus, al meu scump Mântuitor
+Ce-a șters pe Calvar vina mea.
+
+[c]
+Astăzi eu cânt și sunt fericit
+Isuse, pe mine, Tu m-ai mântuit;
+Slavă-Ți înalț și Îți mulțumesc
+Căci Tu m-ai salvat.
+
+[v2]
+Mi-amintesc cum în noapte, căzut lângă drum
+De mână, Tu m-ai ridicat;
+Și haina-ndurării, cu drag, Tu mi-ai dat
+Isus, vreau să Îți mulțumesc.
+
+[s]
+Cei izbăviți de Domnul se vor întoarce și vor merge spre Sion cu cântece de biruință. Isaia 35:10

@@ -1,0 +1,33 @@
+[title]
+Cand ai sa vii {author: {Traian Dorz}, {rcId: {131013}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Când ai să vii ca să mă iei
+Te voi primi in casa plină
+Și-ți voi aduce-n ochii mei
+Cea mai netulbure lumină.
+
+[c]
+/: Cu cel mai limpede izvor
+A lacrimei spăla-ți-voi mâna
+Când mă vei dezlega de dor
+Și-mi vei dezpovara țărâna :/
+
+[v2]
+Cu cele mai cerești cântări
+Îți voi întâmpina privirea
+Și-n toate a inimii cămări
+Va străluci arzând iubirea
+
+[c2]
+/: Cel mai de preț mărgăritar
+Păstrat cu greu atâta cale
+Am să-l așez ca pe-un altar
+In zarea alba a mâinii tale :/
+Dar când plecând mă vei lua
+Isuse lasă-mi dupa mine
+La toți câți vin in urma mea
+O cale alba către tine.

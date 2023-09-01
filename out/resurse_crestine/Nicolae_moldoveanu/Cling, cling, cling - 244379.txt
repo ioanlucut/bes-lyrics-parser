@@ -1,0 +1,52 @@
+[title]
+Cling cling cling {author: {Nicolae Moldoveanu}, {rcId: {244379}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+/: Cling, cling, cling! :/
+/: - Cine vine
+Pe coline? :/
+- Noi suntem, cinstit găzdaș!
+Căutăm un copilaș.
+- Dar ce-aduceți voi ca dar?
+/:
+/:- Trei ieduți :/ x3
+Și-un miel sugar... :/
+Cling, cling, cling.
+
+[v2]
+/: Boc, boc, boc! :/
+/: - Cine-adastă
+La fereastră? :/
+- Noi suntem, iubit găzdaș!
+Căutăm un copilaș.
+- Și ce dar o să-L mângâie?
+/:
+/: Aur scump :/ x3
+Aur, smirnă și tămâie! :/
+Boc, boc, boc!
+
+[v3]
+/: Bum, bum, bum! :/
+/: - Cine bate
+Ca-n cetate? :/
+- Noi suntem, bătrân găzdaș.
+Căutăm un copilaș.
+- Dar ce-aduceți ca prinos?
+/:
+/: Săbii lungi :/ x3
+Cu vârf tăios, :/
+Bum, bum, bum.
+
+[v4]
+/: Osana! :/
+/: - Cine cântă-n noaptea sfântă? :/
+- Noi cei mici, cu fluieraș
+căutând un copilaș.
+- Dar ce daruri i-ați adus?
+/:
+/: Tot ce-avem :/ x3
+e-al lui Isus. :/
+Osana! Osana!

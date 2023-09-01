@@ -1,0 +1,35 @@
+[title]
+Cu dor in piept privim spre zari albastre {author: {Otniel Stirb}, {rcId: {176037}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cu dor în piept privim spre zări albastre
+Și ne frământă-n taină un răspuns.
+Ne întrebăm „mai este mult din noapte
+Și după noi când vei veni, Isus?”
+
+[c]
+/: Ni-e dor de-o dimineață minunată
+Când lacrimi pe obraz nu vor mai fi,
+Când toată truda ne va fi uitată,
+Ah, vino Mire, nu mai zăbovi! :/
+
+[v2]
+Am vrea să știm când vom lăsa Pământul
+Cu-atâtea lacrimi, zbucium și nevoi.
+Te așteptăm și-n piept ne arde dorul
+Să vii, Isuse, vino după noi!
+
+[v3]
+Ce sărbătoare nemaintâlnită
+Va fi atunci pe bolta cerului,
+Când credincioșii vor pleca acasă
+Să-nceapă nunta mare-a Mielului!
+
+[v4]
+De vrei s-ajungi la nunt-acea, frate,
+Nu zăbovi cât încă mai e har,
+Lucrează azi cât încă se mai poate,
+Doar grâul bun va fi pus în grânar!

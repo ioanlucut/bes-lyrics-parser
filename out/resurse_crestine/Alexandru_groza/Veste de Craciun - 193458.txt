@@ -1,0 +1,27 @@
+[title]
+Veste de craciun {author: {Alexandru Groza}, {rcId: {193458}}
+
+[sequence]
+v1,b,c,v2,c
+
+[v1]
+Veste de Crăciun îngerii au adus,
+Bucurie mare Pământul a umplut
+Cum s-a profețit, așa s-a împlinit
+S-a născut Mesia, El pacea ne-a adus
+
+[b]
+Cu îngerii în cor, veniți să-L lăudăm
+Pe pruncul cel iubit, născut în Betleem
+/: Slăviți pe Pruncul Sfânt ce-a venit pe Pământ
+Și din cer astăzi Pacea s-a coborât prin el :/
+
+[c]
+Magii, păstorașii-n grabă, ei de Prunc mereu întreabă
+Dar steaua-i călăuziră la iesle, în Betleem
+
+[v2]
+Credință să avem, să mergem să vedem
+Să ne-nchinăm lui Isus, la iesle-n Betleem
+Din inimi să cântăm și să ne bucurăm
+Că darul cel mai scump venit-a pe Pământ

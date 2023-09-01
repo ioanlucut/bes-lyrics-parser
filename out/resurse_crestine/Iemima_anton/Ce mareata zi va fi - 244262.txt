@@ -1,0 +1,29 @@
+[title]
+Ce mareata zi va fi {author: {Iemima Anton}, {rcId: {244262}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Țara Gloriei nu-i în depărtări
+Și-ntr-o zi o vom vedea pe nori
+Ținta este Cerul și doresc
+Pe vecii, în Rai să locuiesc!
+
+[c]
+Ce măreață zi va fi,
+Ce sărbătoare-n glorii
+Tot Raiul va fi prezent
+Ce-ntâlnire sus în Cer!
+
+[v2]
+Este greu să-i vezi pe cei pierduți
+Fără Dumnezeu, în lume rătăciți
+Să-i salvăm, să fim cu toți în Cer
+Împreună-n țara făr’ dureri!
+
+[v3]
+Lacrimi nu-s, s-au dus, au dispărut
+Căci acolo nu-i necaz, doar cânt
+Imnuri sfinte acol’ vor răsuna
+Slavă lui Isus îi vom cânta!

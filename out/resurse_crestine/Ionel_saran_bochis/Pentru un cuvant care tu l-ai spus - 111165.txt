@@ -1,0 +1,53 @@
+[title]
+Pentru un cuvant care tu l-ai spus {author: {Ionel Saran Bochis}, {rcId: {111165}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Ești în val dar Tu nu ai putere
+Omule stai în Veghere
+/: Vorbele cele deșarte :/
+/: Ele pot să te despartă :/
+
+[c]
+Pentru un cuvânt care tu l-ai spus
+Vei da socoteala Sus
+/: Daca tu nu poți un bine sa faci
+Cum vei sta sus, Tu linga Isus :/
+
+[v2]
+Căci câștig de avuție
+Aceasta nu-i bucurie
+/: Nu le poți asemăna :/
+/: Cu Împărăția Mea :/
+
+[c2]
+Pentru un cuvânt care tu l-ai spus
+Vei da socoteala Sus
+/: Daca tu nu poți un bine sa faci
+Cum vei sta sus, Tu linga Isus :/
+
+[v3]
+Ranele mă dor amar
+C-am suferit în zadar
+/: Nu-i rabdare nu-i nici cruce
+Pentru-a cei ce n-o pot duce :/
+
+[c3]
+Pentru un cuvânt care tu l-ai spus
+Vei da socoteala Sus
+/: Daca tu nu poți un bine sa faci
+Cum vei sta sus, Tu linga Isus :/
+
+[v4]
+Iar când voi venii de sus
+Cu ce-am fost pe cruce pus
+/: Atunci ve-ti vedea curat :/
+Pentru cine a-ti răbdat :/
+
+[c4]
+Pentru un cuvânt care tu l-ai spus
+Vei da socoteala Sus
+/: Daca tu nu poți un bine sa faci
+Cum vei sta sus, Tu linga Isus :/

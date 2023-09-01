@@ -1,0 +1,27 @@
+[title]
+Salvat pe vecie {author: {Puiu Chibici}, {rcId: {145656}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Salvat pe vecie de Isus Hristos,
+Către-mpărăție merg victorios.
+
+[c]
+Sunt salvat, sunt salvat
+Din robia de păcat.
+Sunt salvat, sunt salvat,
+Isus m-a răscumpărat.
+
+[v2]
+Urle cu turbare iadu-ntunecat,
+Eu merg către soare, spre-al meu Împărat.
+
+[v3]
+Căci de la robie și din greu păcat,
+El, pentru vecie, m-a eliberat.
+
+[v4]
+Glasul Lui te cheamă, brațu-I e deschis,
+Vino fără teamă, hai spre paradis.

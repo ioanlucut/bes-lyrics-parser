@@ -1,0 +1,42 @@
+[title]
+Osana-i cant {author: {Lidia Gheorghe}, {rcId: {115637}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Îți mulțumesc
+Că mă iubești!
+Tu, Te-ai jertfit,
+M-ai mântuit,
+Nu M-ai lăsat
+Mort în păcat,
+Viață Mi-ai dat.
+
+[c]
+/: Osana-I cânt
+Domnului Sfânt
+Pentru iubirea
+Ce-a avut.
+Osana-I cânt
+Mereu, mereu
+Din tot, din tot
+Sufletul meu. :/
+
+[v2]
+Îți mulțumesc
+Isuse drag!
+M-ai ascultat
+Când Te-am chemat.
+De-aceea-Ți cânt
+Neîncetat
+Fii lăudat!
+
+[v3]
+Îți mulțumesc
+Isuse Scump!
+M-ai curățit cu
+Sânge sfânt
+Ce-a șiroit
+Din Golgota
+Să fiu iertat.

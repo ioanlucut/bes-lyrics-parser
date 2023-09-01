@@ -1,0 +1,33 @@
+[title]
+Alternative {author: {Dan Damian}, {rcId: {161161}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+De ce să privești mereu înapoi
+Când dorul spre zare te poartă?
+De ce stai murdar? În sânge șuvoi
+Te spală te curăță de orice noroi
+/: Și orice păcat El iți iartă :/
+
+[v2]
+De ce să stai gol fără haina de fiu
+Când haina cea alba te-așteaptă?
+De ce să fii mort, când poți să fii viu?
+De ce nu vrei cerul, ci doar un pustiu?
+/: De ce să nu schimbi a ta soartă? :/
+
+[v3]
+De ce să mai porți pe umeri poveri
+Când Tatăl tău vrea a le duce?
+De ce să mai plângi? De ce să disperi?
+De ce mai le-aduni și-acum la tăceri
+/: Când iată ești chiar lângă cruce ? :/
+
+[v4]
+De ce să amâi dacă ziua de azi
+i-a ta, dar nu știi despre mâine?
+De ce să mai ai lacrimi pe-obraz,?
+De ce să aduni comori de necaz,
+/: Când ceru-i deschis pentru tine? :/

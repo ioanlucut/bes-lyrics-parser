@@ -1,0 +1,29 @@
+[title]
+Cu gandul la tine {author: {Nicolae Zamfir}, {rcId: {104642}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cu gândul la Tine, cu dorul aprins
+Și inima gata să Te slujească
+Pe Tine Cel care din slăvi ai venit
+Cununa vieți să n-e dăruiască
+
+[c]
+Te iubesc și mi-e deajuns
+Inima când mi-o pătrunzi
+Cu dragostea Ta cea mare
+Har si binecuvantare
+
+[v2]
+Puterea-i cuvântul cântarea-i avânt
+Dorim ca să fie sfințite prin Tine
+Și în rugăciuni prin Duhul Tău Sfânt
+Cu toți să simțim în Tine iubire
+
+[v3]
+Altarele nostre stropite să fie
+Cu lacrimi de multumiri
+In jertfa ascultări cu toți în unire
+Slăvind Preamărind pe Domnul dreptăți.

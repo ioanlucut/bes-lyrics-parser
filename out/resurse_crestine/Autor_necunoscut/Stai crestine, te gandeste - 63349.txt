@@ -1,0 +1,41 @@
+[title]
+Stai crestine te gandeste {author: {Anonim}, {rcId: {63349}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Stai creștine, te gândește,
+Unde alergi așa zorit?
+/Moartea în urmă te pândește
+Și tu nu ești pocăit./
+
+[v2]
+Lasă averea și moșia,
+Vin la Domnul tău Cel Sfânt!
+/Mâine, poate, cine știe?
+De mai ești pe acest pământ./
+
+[v3]
+Te-ai zbătut prea multă vreme
+În rușine și-n păcat.
+/Scoală azi și părăsește
+Tot trecutu-ntunecat./
+
+[v4]
+Azi biserica te cheamă
+Vin la Domnul ei cel blând!
+/Te primește ca o mamă,
+Te așteaptă suspinând./
+
+[v5]
+Stai și te gândește bine
+Căci nu-i vremea de pierdut!
+/Focul iadului te așteaptă,
+Dacă nu ești pocăit./
+
+[v6]
+Inima larg ți-o deschide
+La cuvântul lui Isus!
+/Căci El este Domnul slavei
+Împăratul cel de sus./

@@ -1,0 +1,29 @@
+[title]
+An de an ne-aducem aminte {author: {Valentin Tomșa}, {rcId: {157269}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+An de an ne-aducem aminte
+Că Mesia S-a născut
+/: Și cântăm cu glas fierbinte,
+Căci prin El pace-am avut! :/
+
+[c]
+/: E sărbătoare, cântăm pentru El,
+Acela care a fost la Betleem.
+Și numele-I preasfânt, Isus Emanuel,
+Prin El mântuire noi avem. :/
+
+[v2]
+Îngerii coborau din ceruri
+Să aducă vestea lor,
+/: Vestea salvării omenirii:
+Că S-a născut un Mântuitor! :/
+
+[v3]
+Cu bucurie și daruri scumpe
+Magii la iesle au venit,
+/: Și cu dorința să se-nchine
+Pruncului, Isus numit. :/

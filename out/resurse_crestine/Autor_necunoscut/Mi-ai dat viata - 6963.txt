@@ -1,0 +1,32 @@
+[title]
+Mi-ai dat viata {author: {Anonim}, {rcId: {6963}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mi-ai dat viață pe pământ!
+Și vreau să fie cu iubire
+/: Pe o cruce Te-ai jertfit
+Viața Ta ți-ai dăruit
+Ca să avem mântuire! :/
+
+[c]
+/: Totdeauna-Ți voi cânta
+Isuse, Domnul meu
+Numele-Ți voi înălța
+Tu ești Dumnezeu! :/
+
+[v2]
+Din lumea largă și-ntuneric
+M-ai chemat la pocăință!
+/: Eram trist și aruncat
+Cei din jur m-au înșelat
+Dar Tu mi-ai dat biruință! :/
+
+[v3]
+Vocea Ta ce m-a chemat
+A răsunat atât de bland
+/: Doamne eu am ascultat
+Când la Tine m-ai chemat
+Tu îmi ești Păstorul bland! :/

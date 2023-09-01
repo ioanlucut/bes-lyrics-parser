@@ -1,0 +1,35 @@
+[title]
+Eu cunosc un mielusel {author: {Anonim}, {rcId: {5190}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Eu cunosc un mielușel
+Ce nu asculta de fel
+Ziua-ntreagă alerga
+Părăsindu-și turma sa
+
+[v2]
+Ce să vezi acel miel rătăcit
+Am fost eu dar Isus m-a iubit
+Și în marea Sa iubire
+M-a căutat și m-a găsit
+
+[v3]
+Tot fugind el pe furiș
+Mai s-a prins într-un tufiș
+Fiara iute-a alergat
+Mai că mi l-a sfșiat
+
+[v4]
+Pe-acel miel ce-l cunosc eu
+L-a căutat păstorul său
+Din tufișul cel spinos
+Mi l-a scos cu braț vânjos
+
+[v5]
+Eu sunt mielul cum v-am spus
+Iar păstorul e Isus
+Lui urmez eu de acum
+Ca să merg pe drumul bun

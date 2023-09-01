@@ -1,0 +1,41 @@
+[title]
+Se aude-n inima un glas duios {author: {Nicolae Moldoveanu}, {rcId: {5454}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Se aude-n inimă un glas duios:
+Este glasul cel dulce-al lui Hristos.
+/: El începe a te-ntreba ce-ai făcut în viața ta?
+Că-n curând va veni judecata :/
+
+[v2]
+A trecut înc-un an din viața ta;
+Te-ai gândit vreodată ce-ai făcut?
+/: Pe-un flămând ai săturat, sau mereu l-ai alungat,
+Căci tatăl ție rod bogat ți-a dat. :/
+
+[v3]
+Pe bolnavi oare tu i-ai cercetat?
+Căci Tatăl sănătate ție ți-a dat!
+/: El mereu te-a învățat pe bolnavi a-i cerceta,
+Și să faci totdeauna voia Sa :/
+
+[v4]
+Dacă nu cumva la tine a venit
+Vreun setos din lume și-obosit,
+/: Apă vie tu i-ai dat din cuvântul cel bogat?
+Sau cu lucruri ai fost ocupat? :/
+
+[v5]
+Dac-acestea toate tu nu le-ai făcut,
+Securea la rădăcină s-a înfipt,
+/: Și-orice pom va fi tăiat care roade nu a dat,
+Căci destul în grădina mea a stat. :/
+
+[v6]
+Însă noi mai avem Mijlocitor
+Și-l roagă tot mereu pe Creator:
+/: Să-l mai lași un an așa și-ngrășăminte-i voi da!
+Dacă rod n-aduce-l vei tăia :/

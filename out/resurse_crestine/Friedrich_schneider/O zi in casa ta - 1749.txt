@@ -1,0 +1,23 @@
+[title]
+O zi in casa ta {author: {Friedrich Schneider}, {rcId: {1749}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+O zi in Casa Ta, Parinte minunat,
+Eu mii de ani n-as da in cel mai scump palat.
+Voi sta cu Tine-n vesnicii
+/: Si fericit in veci voi fi voi fi! :/
+
+[v2]
+Din Sfintele Scripturi povata cand primesc,
+Ispitei pot atunci sa ma impotrivesc.
+Si nu cunosc alt loc mai bun
+/: Sa pot al meu necaz sa-l spun. :/
+
+[v3]
+O zi in casa Ta, la Sfantul Tau Cuvant,
+E pentru viata mea balsamul cel mai sfant.
+Si mii de ani si zeci de mii
+/: Cu Tine, Doamne i-as trai! :/

@@ -1,0 +1,23 @@
+[title]
+Tu esti lumina ce-mi da speranta {author: {Anonim}, {rcId: {95747}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+/: Tu ești lumina ce-mi da speranță
+Ești bucuria ce umple-a mea viață.
+Tu ești pentru mine o rază de soare
+Care străbați norii grei. :/
+
+[v1]
+Când fără Tine Doamne trăiesc
+Numai suspine în suflet găsesc.
+Departe de Tine viața-i un chin,
+Nici o lumină, nici un cer senin.
+
+[v2]
+Doar lângă Tine sunt fericit
+E atât de bine să fij mântuit.
+Aproape de Tine e pace deplin
+Sfântă lumină, cer veșnic senin.

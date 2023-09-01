@@ -1,0 +1,37 @@
+[title]
+Poti simti cum muntii tremura? {author: {Anonim}, {rcId: {62696}}
+
+[sequence]
+v1,c2,v2,c2
+
+[v1]
+Poți simți cum munții tremură?
+Cum oceanul spumegă?
+Când poporul cântă despre
+Isus, cel ce este viu
+Tot poporul Său se bucură
+Cântăreții strigă când
+Cei pierduți încep să cânte
+Despre Isus, cel ce a-nviat.
+
+[c2]
+Al nostru Dumnezeu se mișcă
+Ca un râu printre națiuni
+Tineri și bătrâni se-ntorc la El
+Deschideți-vă, porți cerești
+Pregătiți calea Domnului.
+Al nostru Dumnezeu se mișcă
+Un timp de sărbătoare vine
+Oameni mulți Il vor primi pe El
+Deschideți-vă, porți cerești
+Pregătiți calea Domnului.
+
+[v2]
+Să-L lăudăm și zidurile vor cădea
+Străzile vor răsuna
+De cântări pline de pace și speranță
+Când slava Lui o vom vedea
+Intunericul se clatină
+Când toți sfinții se unesc
+Cântând laude Impăratului
+Si scoțând un strigăt de război.

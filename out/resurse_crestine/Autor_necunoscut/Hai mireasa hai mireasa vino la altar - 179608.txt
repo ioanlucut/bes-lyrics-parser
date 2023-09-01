@@ -1,0 +1,35 @@
+[title]
+Hai mireasa hai mireasa vino la altar {author: {Anonim}, {rcId: {179608}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: Hai mireasă hai mireasă vino la altar
+Domnul astăzi te-a umplut cu dragoste și har :/
+
+[c]
+/: O binecuvântare tu astăzi ai primit, pe soțul cel pe care
+L-ai ales că l-ai iubit :/
+/: O binecuvântare tu astăzi ai primit, cea mai frumoasă floare
+Din toate câte sunt :/
+O binecuvântare tu astăzi ai primit, pe soțul cel pe care
+L-ai ales că l-ai iubit
+O binecuvântare tu astăzi ai primit, cea mai frumoasă floare
+Din toate câte sunt
+O binecuvântare tu astăzi ai primit, pe soțul cel pe care
+L-ai ales că l-ai iubit
+O binecuvântare tu astăzi ai primit, cea mai frumoasă floare
+Din toate câte sunt.
+
+[v2]
+/: Vino mire prea ales fii binecuvântat, ce mireasă preafrumoasă
+Domnul azi ți-a dat :/
+
+[v3]
+/: Casă de piatră astăzi vouă vă dorim, cu toți să ne întâlnim
+În noul Ierusalim :/
+
+[v4]
+/: Copiii câți primiți Domnul Isus să-i crească
+Și întreaga voastră casă Domnul s-o sfințească :/

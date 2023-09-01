@@ -1,0 +1,27 @@
+[title]
+Oita mea cea blanda {author: {Nicolae Moldoveanu}, {rcId: {5602}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Oita Mea cea blanda, o Fiara ce-i la panda, de tine-i flamanda.
+O cursa iti intinde... o Gandul de-a te prinde, iata o aprinde...
+Chiar bunatati o O mie, sa-ti aduca tie, vai! sa nu te-mbie!
+A lor sclipire o Rara, ca si gandul zboara, sufletu-ti doboara.
+
+[c]
+/: Te-asteapta-n vesnicie, sa-ti dea apa vie
+Cel ce-aici o sa mai vie;
+Caci El este Pastorul ce-ti alunga norul; o El e Salvatorul! :/
+
+[v2]
+La turma te intoarce, umple-te de pace! o Haide, vino-ncoace!
+Caci tu ai fost aleasa Mirelui... o Mireasa, haide, vino-acasa!
+Pastoru-i trist de-o vreme si-nca nu se teme o Ca sa te mai cheme. Pierzandu-te de turma, viata ti se curma. Intoarce-te la turma!
+
+[v3]
+Ce straluciri desarte, inmuiate-n moarte, o Te-au trimis departe?
+Si oare ce cuvinte ti-au parut mai sfinte, o Ca sa te incante?
+Te-asteapta-n fericire, loc de nemurire o Fara-nchipuire...
+Cu multe mioare, scumpe surioare o Nu vrei sa fii oare?

@@ -1,0 +1,47 @@
+[title]
+Chemam numele tau {author: {Creation House, Sergiu Drăgoi, Fiona Bocșa}, {rcId: {227448}}
+
+[sequence]
+v1,c,v2,c,e,e2
+
+[v1]
+/: Tu ești aici
+Și e dorința noastră
+Să te întâlnim
+Prezența Ta e viață :/
+
+[c]
+Chemăm Numele Tău peste orice problemă
+Ne este îndeajuns, Doamne, a Ta prezență
+Chemăm Numele Tău, doar pe Tine te vrem
+Doar Tu ești Izbăvitorul Suprem
+
+[v2]
+Tu ești aici
+Noi azi te recunoaștem
+Ca Rege Etern
+Ești împlinirea noastră
+Nu e alt Nume
+Vrednic de toată lauda
+Nu e alt Nume
+Mai presus de Numele Isus
+
+[e]
+/: Isus, Isus, cred în Numele Isus :/
+
+[e2]
+/: Orice durere, povară, încercare
+Se pleacă-naintea Ta
+Frica și boala, îngrijorarea
+Tremură-n fața Ta :/
+În Tine am viață, putere și pace
+Isus Tu ești stânca mea
+Am eliberare și vindecare
+Isus ești salvarea mea
+
+[c2]
+/: Declarăm Numele Tău,
+Tu ești Domn peste toate
+Cântăm Numele Tău și primim libertate
+Rostim Numele Tău, doar pe Tine te vrem
+Doar Tu ești Izbăvitorul Suprem :/

@@ -1,0 +1,33 @@
+[title]
+Am promis {author: {Gheorghe Lidia}, {rcId: {224330}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Am promis sub cerul deschis că te voi iubi.
+Ceva s-a schimbat, m-ai despovărat, sunt fericit!
+Acum pot zâmbi, sunt mai luminos, mai bucuros.
+M-ai liniștit, pace-am primit, o ce frumos!
+
+[v2]
+Te-am acceptat, putere mi-ai dat, m-ai întărit!
+M-ai ridicat cu adevărat. Fii preamărit!
+S-au revărsat în inima mea, puteri de sus.
+Are efect, jertfa Ta, în mine, Isus!
+
+[v3]
+Ajută-mă să te ascult, toată viața mea,
+Și-n tot ce fac, sigur voi fi binecuvântat.
+Legea Ta să o-mplinesc, în a iubi,
+Si cu Tine, o să trăiesc și-n veșnicii.
+
+[v4]
+Am promis sub cerul deschis că te voi sluji.
+Ceva s-a schimbat, m-ai despovărat, sunt fericit!
+Acum pot zâmbi, sunt mai luminos, mai bucuros.
+M-ai liniștit, pace-am primit, o ce frumos!
+
+[v5]
+Te-am acceptat, putere mi-ai dat, m-ai întărit!
+M-ai ridicat cu adevărat. Fii preamărit!

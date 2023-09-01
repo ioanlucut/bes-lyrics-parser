@@ -1,0 +1,27 @@
+[title]
+O ce prieten am {author: {Anca Ban}, {rcId: {113244}}
+
+[sequence]
+c,v1,c,v2,c,e
+
+[c]
+O, ce Prieten am, o, ce Tată am,
+Îmi vorbește zi de zi
+Știe drumul meu, sprijin e la greu
+Cât de mare-i harul Său
+
+[v1]
+Tu ești Creatorul Universului întreg
+Toate Ție-Ți aparțin
+Tot ce are viață Te înalță. Domn divin
+Vin și eu să mă închin!
+
+[v2]
+Ai luat povara la Calvar și sunt iertat
+Liber sunt să Te slujesc
+Jertfa Ta pentru vecie m-a răscumpărat
+Inima Îți dăruiesc
+
+[e]
+Tuturor vestesc, Tu ești Tatăl meu
+Viața mea-i ascunsă-n Tine, veșnic Dumnezeu!

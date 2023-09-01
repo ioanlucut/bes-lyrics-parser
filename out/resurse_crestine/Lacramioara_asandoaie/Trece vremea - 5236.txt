@@ -1,0 +1,48 @@
+[title]
+Trece vremea {author: {Lăcrămioara Asăndoaie}, {rcId: {5236}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Trece vremea ca visele pe care le uităm
+Trece timpul ca ploile
+Trec și anii, florile vieții se ofilesc
+Și-n mintea noastră, doar amintirile mai trăiesc
+Zile, nopți, anotimpuri trec grăbit
+Tot ce-i frumos și curat
+Tot ce e trist sau păcat, zâmbet, bucurie
+Soare, primăveri, tot ce este plăcut
+Se duc și anii tăi.
+
+[c]
+Anii se duc, rând pe rând
+Nu se mai întorc nicicând
+Și clipa ce acum o trăiești
+Niciodată nu o mai întâlnești
+Tot ce ai făcut și ai vorbit
+Scrise rămân și-ntipărit
+Pentru slava de nedescris
+Sau pentru un veșnic abis.
+
+[v2]
+Trece vremea ca visele pe care le uităm
+Trece timpul ca zorile
+Trec și anii ca un sunet
+În zbor, dar sus în ceruri
+Nu se șterge răsunetul lor
+Amăgire-s toate, Goană după vând
+Alergare și chin, Deșertăciune sunt
+Ani tăi dezleagă-i de tot ce-i trecător
+Și adună comori pentru cer
+Comori ce-n veci nu mor.
+
+[e]
+Anii se duc, de vrei sau nu vrei
+Alege azi ce vrei să faci cu ei
+Lasă în urmă greșitele căi
+Adu-ți la cruce anii tăi.
+Anii se duc nu se mai întorc
+Ca un sunet trece vraja lor
+Însă în țara de apoi
+Nu se va stinge răsunetul lor.

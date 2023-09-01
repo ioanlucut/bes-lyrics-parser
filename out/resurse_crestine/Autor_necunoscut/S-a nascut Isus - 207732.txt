@@ -1,0 +1,29 @@
+[title]
+S-a nascut isus {author: {Anonim}, {rcId: {207732}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+S-a născut Isus, S-a născut Isus
+Haina păcii albe nouă ne-a adus!
+S-a născut Isus, S-a născut Isus
+Bucurie-n inimi și viață ne-a adus!
+
+[v1]
+În noaptea sfântă Isus Mesia
+S-a născut pe pământ
+Din strălucire în ieslea rece
+Spre slava Celui Preasfânt!
+
+[v2]
+Cânt de iubire, cânt de speranță
+Se-aude dinspre pământ
+Oamenii ’nalță imnuri mărețe
+Glorie Pruncului Sfânt!
+
+[v3]
+Îngerii-n zbor, cântă-n cor
+Spre Slava Lui Isus
+Cerul răsună cu voie bună
+Că S-a născut Isus!

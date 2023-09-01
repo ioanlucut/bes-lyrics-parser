@@ -1,0 +1,37 @@
+[title]
+Romania {author: {Ligia Bodea.}, {rcId: {61551}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cu tristețe te privește Dumnezeu
+E minciună, răutate între noi
+Frații nu se înțeleg, se ucid și se bârfesc
+Mame, copiii își părăsesc
+
+[c]
+/: Întoarce-ți azi privirea ta
+Doamne înspre România
+Binecuvântarea Ta
+Revarsă-n țara mea :/
+
+[v2]
+Prea mulți tineri
+Departe au plecat
+Cu inimi întristate au lăsat
+Mama sau tata
+Îi așteaptă cu dor
+Privind în zare după chipul lor
+E tristețe-n jurul meu
+Și nu-nteleg
+De ce oamenii păcatul îl aleg
+Mulți afirmă că-s creștini
+Dar nu au nici o credință
+Doamne te rugăm acum în umilință
+
+[v3]
+România ai nevoie de Dumnezeu!
+Ca un fiu risipitor să vii la El
+Dacă vrei belșug și pace, caută Fața Lui
+Schimbă-ți viața, Fă voia Domnului!

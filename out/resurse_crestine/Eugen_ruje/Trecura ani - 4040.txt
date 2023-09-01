@@ -1,0 +1,29 @@
+[title]
+Trecura ani {author: {Eugen Ruje}, {rcId: {4040}}
+
+[sequence]
+v1,c,v2,c2,c
+
+[v1]
+Trecură ani, din viața ta
+Același neschimbat om ai rămas
+Atâtea lucruri, aveai de îndreptat,
+Dar tu nepăsător le-ai amânat.
+
+[c]
+/: Anul care vine poate nu-i al tău
+Și chiar de-ar fi, nu știi ce-ți va aduce
+Dumnezeu ți-a dat atâtea zile-n dar
+Dar viața ta roadă nu aduce. :/
+
+[v2]
+Dacă tu trăiești, să știi că ești iubit
+Și înc-o șansă El ți-a dăruit
+Acum și-aici, fără să-l amâni,
+Smerit să te apleci la crucea Lui.
+
+[c2]
+/: Spune-I lui Isus: îmi pare-atât de rău
+De fiecare zi trăită fără Tine
+Mai dă-ne Doamne zile, să ne pocăim
+Ca să trăim cu Tine-o veșnicie. :/

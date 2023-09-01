@@ -1,0 +1,41 @@
+[title]
+Calatorim prin pustia aceasta (cu norul iubirii) {author: {Beni Cibu}, {rcId: {166043}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,e
+
+[v1]
+Călătorim prin pustia aceasta
+Spre țara eternă spre țara de sus,
+Și multe neliniști în inima noastră
+Ne clatină pasul să n-ajungem sus
+
+[c]
+Cu norul iubirii condu-ne Isus,
+Cu stâlpul de foc prin puterea de sus,
+Pustiul e greu dar cu Tine-i ușor,
+Călătoria-i frumoasă când tu ești păstor
+
+[v2]
+E marea în față și noi murmurăm,
+Cârtim lângă valuri cu teamă în noi,
+Dar iată se-aude un strigăt de sus
+Voi stați liniștiți izbăvirea e sus
+
+[v3]
+Părinte-al iubirii stăpân minunat
+De veacuri întregi rămâi neschimbat
+Cu dragostea-Ți mare, în haru-Ți bogat
+Adapă mulțimi izvor nesecat
+
+[v4]
+Curând dimineața cu zori de cristal
+Va frânge durerea și orice amar,
+Pentru totdeauna cânta-vom Isus
+De dragul salvării ce-n dar ne-ai adus
+
+[e]
+Ce zi minunată, ce scump răsărit
+La nunta cerească o mire iubit,
+Vom trece iordanul în țara de vis
+/: Canaanul ceresc, dorit Paradis :/

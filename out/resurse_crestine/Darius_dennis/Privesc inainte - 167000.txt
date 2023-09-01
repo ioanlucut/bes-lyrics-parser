@@ -1,0 +1,40 @@
+[title]
+Privesc inainte {author: {Darius, Dennis}, {rcId: {167000}}
+
+[sequence]
+v1,c,v2,c,c
+
+[v1]
+Sunt zile în care durerea în piept mă apasă greu
+Dar nu renunț nicio clipă, eu merg pe drumul meu
+Sunt mulți ce vor să mă oprească și multe rele îmi spun
+Dar eu îi las să vorbească și merg pe-al vieții drum.
+
+[c]
+Am să privesc doar înainte, înapoi niciodat’
+Am să privesc doar la crucea ce viață mi-a dat
+Și am să cred în iubire cât timp voi trăi
+Nu voi uita niciodată cât de mult m-ai iubit.
+Am să privesc doar înainte, înapoi niciodat’
+Am să privesc doar la crucea ce viață mi-a dat
+Și am să cred în iubire cât timp voi trăi
+Nu voi uita niciodată cât de mult m-ai iubit
+Cât de mult m-ai iubit.
+Am să privesc doar înainte, înapoi niciodat’
+Am să privesc doar la crucea ce viață mi-a dat
+Și am să cred în iubire cât timp voi trăi
+Nu voi uita niciodată cât de mult m-ai iubit.
+
+[v2]
+Sunt zile-n care tristețea mă duce pân’ la mormânt
+Dar mă ajută credința și mă ridic cântând.
+
+[b]
+De multe ori am căzut
+Dar tu m-ai căutat și m-ai ridicat
+De multe ori n-am știut
+Cum să-ți fiu pe plac, dar m-ai învățat
+Și când am fost doborât
+Pe brațe m-ai luat, Tu ai luptat
+Când nu știam ce să fac
+Tu, calea spre cer, Tu mi-ai arătat.

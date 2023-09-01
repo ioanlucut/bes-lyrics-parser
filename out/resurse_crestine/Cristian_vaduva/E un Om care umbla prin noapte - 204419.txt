@@ -1,0 +1,41 @@
+[title]
+E un om care umbla prin noapte {author: {Cristian Văduva}, {rcId: {204419}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+E un Om care umblă prin noapte,
+Căutând vreun căzut sau rănit;
+A ta rană să o vindece poate
+Oricât ai fi de jos, prăbușit!
+Să te-nfrângă când El e cu tine
+Nu mai poate de-atunci nimenea!
+Când Îl chemi, lângă tine El vine,
+Te ridică de jos și-ți vorbește frumos,
+Dragostea!...
+
+[c]
+/: În brațul Lui aș vrea să poposesc,
+Numele Lui Îl ador, Îl iubesc! :/
+
+[v2]
+Chiar de gemi în groapa pieirii,
+Și ți-e trupul de tot vlăguit,
+Prin Isus, împăratul iubirii,
+Vei birui și vei fi izbăvit!
+Schimbă inimi și dă vindecare,
+Dă puteri unui trup obosit;
+Chiar de ești în cea mai grea încercare,
+Te privește cu dor și-ți va fi ajutor iscusit!
+
+[v3]
+Scapă-mă de adânca pierzare,
+Fii Stăpân peste toate, doar Tu!
+Poruncește să primesc eliberare,
+Doar spre Tine îmi înalț sufletul!
+Iubirea Lui și a Sa biruință
+Este focul din inima mea,
+Lui mă închin cu recunoștință -
+Celui ce m-a scăpat și pe braț m-a purtat
+În Golgota!...

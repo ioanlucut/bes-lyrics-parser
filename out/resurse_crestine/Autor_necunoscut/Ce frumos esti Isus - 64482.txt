@@ -1,0 +1,29 @@
+[title]
+Ce frumos esti isus {author: {Anonim}, {rcId: {64482}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Ce frumos esti Isus ce frumos
+Ingeri-n ceruri iti canta voios
+/: Floarea salemului iubita
+De tine raiul se bucura:\
+
+[v2]
+Serafimi iti cinta marire
+Heruvimi iti canta iubire
+/: Cit de smerit in ieslea de boi
+Vine azi Domnul Isus la noi:\
+
+[v3]
+Si fiind pastori acolo-n cimp
+Noapte-a-mprejur turma lor pascand
+/: Iata un inger al Domnului
+Vestind la pastori nasteria Lui:\
+
+[v4]
+Haideti fgratilor sa ne bucuram
+De nasterea Lui Isus sa cintam
+/: Marire sa-i dam azi Domnului
+Pace-ntre oamenii placuti Lui:\

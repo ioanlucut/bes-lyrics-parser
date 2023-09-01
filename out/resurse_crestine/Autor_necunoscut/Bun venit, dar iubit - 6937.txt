@@ -1,0 +1,27 @@
+[title]
+Bun venit dar iubit {author: {Anonim}, {rcId: {6937}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Bun venit, dar iubit!
+Domnul ni te-a dăruit.
+Noi te binecuvântăm,
+Și din suflet ne rugăm:
+
+[c]
+/: Să trăiești și să crești
+Credincios să-L iubești! :/
+
+[v2]
+Dumnezeu fie-al tău,
+Scut și pază de-orice rău.
+Binecuvântarea Să,
+Să-nsoțească viața ta.
+
+[v3]
+Da, Isus te-a adus,
+Drag odor primit de sus
+Pentru slava Lui mereu,
+Să te crească Dumnezeu.

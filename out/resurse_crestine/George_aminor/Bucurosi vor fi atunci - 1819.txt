@@ -1,0 +1,29 @@
+[title]
+Bucurosi vor fi atunci {author: {George A.Minor}, {rcId: {1819}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Bucurosi vor fi atunci semanatorii
+Cand cu sfinte lacrimi pun samanta lor;
+Numai cand puterea vine de la Domnul
+Ei de rodul muncii bucura-se-vor.
+
+[c]
+Snopi aduce-vor, snopi aduce-vor
+Cand cu sfinte lacrimi pun samanta lor,
+Snopi aduce-vor, snopi aduce-vor,
+Secerand cu ravna, bucura-se-vor.
+
+[v2]
+Puneti dimineata in ogor samanta,
+Nu-ncetati si de-ar fi in amiaz de zi,
+Chiar si-n faptul serii semanati Cuvantul
+Ca-n sfarsit un mare seceris va fi.
+
+[v3]
+Chiar de e ogorul plin de spini si pietre,
+Harnici, cu iubire voi sa semanati,
+Caci Cuvantul vietii va gasi-mplinire
+Si de roade sfinte-apoi va bucurati.

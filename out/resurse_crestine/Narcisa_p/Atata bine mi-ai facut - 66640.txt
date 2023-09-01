@@ -1,0 +1,27 @@
+[title]
+Atata bine mi-ai facut {author: {Narcisa P.}, {rcId: {66640}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Cât îmi va fi dat să trăiesc,
+Despre iubirea Ta voi spune...
+Că atâta bine mi-ai făcut,
+Când Te-am chemat în rugăciune...
+Că atâta bine mi-ai făcut,
+Când Te-am chemat în rugăciune.
+
+[c]
+Tu n-ai disprețuit și nici n-ai alungat
+Pe cel trudit, ce-n taină, -n lacrimi Te-a chemat.
+Tu ai primit pe orice om căzut,
+L-ai mângâiat, când milă Ți-a cerut.
+
+[v2]
+Cât voi trăi pe-acest pământ,
+Te voi slăvi, chiar și-n durere,
+C-atâta bine mi-ai făcut,
+Când Te-am chemat, trist în tăcere,
+Atâta bine mi-ai făcut,
+Când Te-am chemat, trist în tăcere.

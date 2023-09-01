@@ -1,0 +1,22 @@
+[title]
+Aprinzandu-mi brusc faclia {author: {Iulia Contis}, {rcId: {240238}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Ți-am pus trandafiri în cale
+Cu-ale mele osanale
+Și-am privit mai lung din vale
+Și Te-am așteptat pe cale!
+
+[c]
+A venit și bucuria
+Și am scăldat cu ei glia,
+/Aprinzându-mi brusc făclia! / x2
+
+[v2]
+I-am scăldat în lacrimi multe,
+Ferindu-i de lumi oculte,
+Și au vrut să mă asculte,
+Dar lacrimile-au fost multe...

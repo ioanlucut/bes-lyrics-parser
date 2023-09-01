@@ -1,0 +1,29 @@
+[title]
+Mainile tale {author: {Virginia}, {rcId: {74641}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mâinile Tale, dulce Isuse
+Mâinile care din lut ne-au creat
+Întinse pe lemn se lăsară străpunse
+O mâinile Tale ce totul au dat
+
+[c]
+Inima sfântă, floare ascunsă
+Plânge și astăzi cu-același suspin
+Dar oricare suflet aude și crede
+În dragostea sfântă se-alină deplin
+
+[v2]
+Fruntea senină ca zările-albastre
+Plină de milă adânc s-a plecat
+Primind diadema batjocorii noastre
+Drept cel mai de seamă triumf de-mpărat
+
+[v3]
+Dragostea sfântă floare ascunsă
+Cerul întreg părăsindu-l veni
+Cu suliță rece să fie străpunsă
+Adânc vinovată c-atât ne iubi.

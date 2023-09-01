@@ -1,0 +1,29 @@
+[title]
+Cheama-ma in ziua de necaz {author: {Speranța}, {rcId: {74535}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ascultă poporul Meu, și îți voi vorbi
+Ascultă Israele, și te voi sfătui,
+Eu sunt Domnul tău care-ți iau povara
+Eu sunt Dumnezeu care vindec rana.
+
+[c]
+Cheamă-mă în ziua de necaz
+Cheamă-mă în orice ceas
+Eu te voi izbăvi
+Iar tu Mă vei proslăvi.
+
+[v2]
+Nu vreau să-mi aduci viței pe altar
+Vreau mulțumirea să-mi aduci ca dar,
+Și împlinește-n grabă juruința ta
+Și Eu, Dumnezeu, te voi asculta.
+
+[v3]
+Celui ce veghează pe cărarea Mea
+Eu, zice Domnul, îi voi da mântuirea
+Cine în orice vreme îmi mulțumește
+Acela este omul ce Mă proslăvește.

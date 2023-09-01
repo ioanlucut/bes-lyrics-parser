@@ -1,0 +1,29 @@
+[title]
+Pamantul este mare {author: {Anonim}, {rcId: {60290}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pământul este mare dar pentru Tine-i mic
+Singur Tu l-ai așezat și stă pe nimic
+Lumea cât de multă toată e a Ta
+Pentru fiecare ți-ai trimis pâinea.
+
+[c]
+Doamne, Doamne mare-i slava Ta
+C-ai făcut ca să rodească chiar și seceta
+Doamne, Doamne minunat Tu ești
+Că pe toți în bunătatea Ta Tu ne hrănești.
+
+[v2]
+Pentru bunătate de Te-am lăuda
+Câtă îndurare ți-ai mai revărsa
+Omule în toate o de l-ai slăvi
+Ți-ar lungi viața și-n veci ai trăi.
+
+[v3]
+Pentru toate astăzi noi îți mulțumim
+Chiar și-n clipe grele de plâns și suspin
+Vrem întotdeauna să Te lăudam
+Numelui Tău mare veșnic să-i cântăm.

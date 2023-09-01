@@ -1,0 +1,30 @@
+[title]
+Bucura-te omule {author: {Nicolae Zamfir}, {rcId: {206252}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Bucură-te omule
+Domnul ți-a dat mântuire
+Nu uita astăzi s-aduci
+Laudă și mulțumire
+
+[c]
+/: Cântați cântări de bucurie
+Lăudați pe Domnul căci e bun
+El este Domn din veșnicie
+Cel ce ți-a dat mântuire
+Te iubește :/
+
+[v2]
+Ridicăți privirea ta
+La Domnul care te-a salvat
+Numele lui este Isus
+El e Domn și împărat
+
+[v3]
+Laudă să îi aducem
+Domnului ce s-a înălțat
+Glorie și mulțumire
+Celui ce vine din înalt

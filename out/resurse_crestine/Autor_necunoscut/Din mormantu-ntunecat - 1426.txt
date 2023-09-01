@@ -1,0 +1,35 @@
+[title]
+Din mormantu-ntunecat {author: {Anonim}, {rcId: {1426}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Din mormântu-ntunecat
+Azi Cristos a înviat
+/: A-nviat, a-nviat
+Lumea iar s-a luminat. :/
+
+[v2]
+Îngerii din ceruri sus
+Cântă Domnului Isus.
+/: Lui Isus, lui Isus
+Ce viață ne-a adus. :/
+
+[v3]
+Iar noi toți în lume jos
+Dăm mărire lui Cristos.
+/: Lui Cristos, lui Cristos
+Care din păcat ne-a scos. :/
+
+[v4]
+Păsările ciripesc
+Toate florile-nfloresc
+/: Înfloresc, înfloresc
+Paștele sărbătoresc. :/
+
+[v5]
+Că cântăm cu-adevărat
+Azi Cristos a înviat.
+/: A-nviat, a-nviat
+Viață veșnică ne-a dat. :/

@@ -1,0 +1,41 @@
+[title]
+Striga la el cand esti lovit {author: {Daniel Hartie, Marta Bergheaua}, {rcId: {190776}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Strigă la El când ești lovit,
+Nu mai sta descurajat
+/: Domnul nu te-a părăsit
+Chiar de frații te-au uitat! :/
+Strigă la El când ești lovit,
+Nu fi trist, nu dispera,
+/: Domnul știe să îți dea
+Frate mângâierea Sa! :/
+
+[c]
+/: Strigă la El, strigă la El,
+Ajutorul e în mâna Lui!
+Strigă la El, strigă la El!
+Te încrede-n brațul Domnului. :/
+
+[v2]
+Strigă la El când prigonit
+Ești de oamenii firești,
+/: Fii atent, fii vegheator,
+Șoapta rea să n-o primești! :/
+Când ispitele apar,
+Frate pe cărarea ta,
+/: Singur nu le biruiești
+De nu chemi puterea Sa. :/
+
+[v3]
+Strigă la El neîncetat,
+Rugăciunea-ți este scut.
+/: Zi și noapte tot mereu
+Stăruiește-n rugă mult, :/
+Doar așa vei birui
+Încercări și ispitiri!
+/: Strigă-ntruna la Isus
+Aducând și mulțumiri! :/

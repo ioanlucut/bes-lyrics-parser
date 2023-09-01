@@ -1,0 +1,29 @@
+[title]
+Din betleem la calvar {author: {Anonim}, {rcId: {74234}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Din Betleem la Calvar
+De la iesle pân’ la har
+Până la salvarea mea
+Nu e decât Isus.
+
+[c]
+/: Isus, iubirea Ta, iubirea Ta, Isus
+Mi-a umplut toată inima mea!
+Isus, iubirea Ta, iubirea Ta, Isus
+Mi-a adus deplin fericirea! :/
+
+[v2]
+Sus pe cruce la Calvar
+Am primit iertare-n dar
+Și de-atunci în viața mea
+Nu e decât Isus.
+
+[v3]
+Prin iubirea ce s-a dat
+Poți să fii și tu salvat
+Nu vrei tu să Îl urmăm
+Și să Îi cântăm?

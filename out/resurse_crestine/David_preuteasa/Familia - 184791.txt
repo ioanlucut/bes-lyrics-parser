@@ -1,0 +1,23 @@
+[title]
+Familia {author: {David Preuteasa}, {rcId: {184791}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Dacă Dumnezeu te-a binecuvântat
+Cu familie aici pe-acest pământ,
+Iar acasă înseamană un cămin curat
+Nu uita să spui în rugă: Tată sfânt
+
+[c]
+Îți mulțumesc pentru familia mea
+Pentru mamă, tată, frați, pentru surori,
+Mi-ai dat o Doamne, un dar din partea Ta
+Iți mulțumesc pentru familia mea.
+
+[v2]
+Dacă simți că-n casa ta e-un colt de Rai
+Iar Dumnezeu e singurul glorificat,
+Tu atunci prin tot ce ești si tot ce faci
+Poți să fii acel model demn de urmat.

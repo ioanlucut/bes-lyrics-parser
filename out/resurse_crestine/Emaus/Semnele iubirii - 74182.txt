@@ -1,0 +1,26 @@
+[title]
+Semnele iubirii {author: {Emaus}, {rcId: {74182}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Ți se pare, oare, câteodată
+Că lumea de Dumnezeu e uitată?
+Ți se pare, oare, câteodată
+Că semne de iubire nu mai ai?
+
+[c]
+/: Sunt pe flori, sunt pe nori, semnele Iubirii
+Scrise de Dumnezeu Cel Bun.
+Sunt pe flori, pe cărări, semnele Iubirii
+Pe-ale lumii raze de lumini. :/
+
+[v2]
+El nu ne-a luat zorii niciodată, niciodată
+Nu ne-a luat nici bolta înstelată, nu ne-a luat bolta-nstelată
+Dar El a promis cântarea Iubirii cântarea Iubirii
+Doar în inima copiilor Lui.
+
+[e]
+/: Pe-ale lumii raze de lumini :/ x 4

@@ -1,0 +1,33 @@
+[title]
+Atinge-te de noi {author: {Daniel Dinescu}, {rcId: {126112}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Atinge-Te de noi, Isuse,
+Să ne deschidem inima
+Și acei ce stau în nepăsare
+Să simtă și ei mâna Ta.
+
+[c]
+Atinge-Te de noi,
+Întinde-Ți mâna Ta.
+O, Tatăl nostru sfânt
+Transformă-mi inima.
+Și, dacă am fost loviți
+Și-am căzut la pământ,
+Ridică-ne din nou,
+O, Tatăl nostru sfânt!
+
+[v2]
+Acei ce sunt loviți în suflet
+Și rana lor îi doare rău,
+O, pune-le balsam pe rană,
+Tu, veșnicule Dumnezeu!
+
+[v3]
+Avem nevoie de iubire,
+Să ardă-n noi înflăcărat,
+Revarsă binecuvântarea
+Peste acel pământ uscat.

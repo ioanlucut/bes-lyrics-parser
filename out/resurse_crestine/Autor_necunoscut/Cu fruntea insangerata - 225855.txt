@@ -1,0 +1,33 @@
+[title]
+Cu fruntea insangerata {author: {Autor necunoscut}, {rcId: {225855}}
+
+[sequence]
+v1,c,v3,c,v4,c,v5,c
+
+[v1]
+Cu fruntea însângerată Doamne Isuse
+Urci către Golgota sub crucea grea
+Bicele romane au rupt din Tine
+O, iubit Stăpâne pentru vina mea.
+
+[c]
+O, ce durere de moarte se cere
+Tu blând Isuse mori în locul meu
+
+[v3]
+Pentru noi Isuse te duci la moarte
+Tu cel fără vină, Mielule ceresc
+Și te rogi Isuse cu atâtă milă
+Pentru cei ce strigă și Te osândesc.
+
+[v4]
+În mâini și-n picioare Ți-au bătut Isuse
+Cei ce nu au milă, cuiele de fier
+Iar când Ți-a fost sete colo sus pe cruce
+Ți-au dat vin cu fiere Mielule divin.
+
+[v5]
+S-a întristat tot cerul Doamne Isuse
+Și întreg pământul s-a cutremurat
+Iar în templu Doamne s-a rupt perdeaua
+Soarele pe bolta s-a întunecat.

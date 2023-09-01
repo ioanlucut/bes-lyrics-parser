@@ -1,0 +1,36 @@
+[title]
+Iti multumesc {author: {Isaura Gheorghiu}, {rcId: {187907}}
+
+[sequence]
+v1,c,v2,c2,c
+
+[v1]
+/: De-atâtea ori sunt ca o salcie plăpândă
+De vânturi clătinată zi de zi,
+Dar Tu nu lași ca vântul să mă-nfrângă
+Și nu ascunzi lumina Ta cea blândă,
+Ca eu să pot din ea a mă hrăni. :/
+
+[c]
+Îți mulțumesc că Tu preschimbi în stâncă
+O salcie ce-i gata să se frângă
+Și o prefaci în munte de bazalt,
+Îți mulțumesc, o, Tată Preaînalt!
+Îți mulțumesc că Tu preschimbi în stâncă
+O salcie ce-i gata să se frângă
+Și o prefaci în munte de bazalt,
+Îți mulțumesc, o, Tată Preaînalt!
+
+[v2]
+De-atâtea ori deasupra nori de destramă
+Și fulgere și tunete lovesc
+Și când privesc la cerul de aramă,
+Sunt copleșit, Doamne, de atâta teamă,
+Dar Tu îmi spui „
+Ascultă, îți vorbesc!”
+
+[c2]
+Și norii risipiți dispar de-odată,
+Și îmi vorbești cu grijă înduioșată
+Să merg ’nainte, că Tu ești cu mine,
+C-a Ta-i puterea ce pe veci mă ține!

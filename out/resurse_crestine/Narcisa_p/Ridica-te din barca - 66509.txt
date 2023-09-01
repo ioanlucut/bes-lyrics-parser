@@ -1,0 +1,29 @@
+[title]
+Ridica-te din barca {author: {Narcisa P.}, {rcId: {66509}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Când alungat de gânduri ce te-ncearcă,
+Tu rătăcești prin văi, însingurat,
+Ca un străin vâslești în a ta barcă,
+Spre un necunoscut îndepărtat.
+
+[c]
+/: Când nu mai vezi limanul de speranță
+Spre care ai pornit ca un viteaz,
+Credința ta te-aduce înspre viață,
+Nu te-ndoi în valul de necaz. :/
+
+[v2]
+Când nu mai vezi un țărm al siguranței,
+Când conștiinta nu ți-a mai vorbit
+Despre-ndurarea Domnului cea Sfântă
+Care ți-a fost promisă negreșit.
+
+[c2]
+/: Ridică-te din barca ce e gata
+Acum, degrabă, a se scufunda.
+Tu prin credință, poți să mergi pe ape
+Căci Dumnezeu e călăuza ta. :/

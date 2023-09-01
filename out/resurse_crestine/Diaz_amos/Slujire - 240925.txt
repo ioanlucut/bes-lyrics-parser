@@ -1,0 +1,24 @@
+[title]
+Slujire {author: {Diaz Amos}, {rcId: {240925}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Plâng cu lacrimi reci, sar peste obstacole seci.
+Doamne înaintez în prezența Ta,
+Mă proștern smerit cu întreagă inima!
+
+[c]
+Tată, Tată, facă-se doar voia Ta.
+Tată, Tată, vindecă-mi povara grea!
+
+[v2]
+Stau și mă gândesc de ce de multe ori:
+Doamne drumul rău eu l-am ales,
+Iar de Tine mă prindeau fiori!
+
+[v3]
+Astăzi nu mai vreau ca eu să Te părăsesc.
+Numai langă Tine doresc ca să stau,
+Purtând veșmânt împărătesc!

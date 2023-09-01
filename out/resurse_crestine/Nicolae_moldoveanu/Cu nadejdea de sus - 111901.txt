@@ -1,0 +1,36 @@
+[title]
+Cu nadejdea de sus {author: {Nicolae Moldoveanu}, {rcId: {111901}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cu nădejdea de Sus
+ce ne-ai dat-o, Isus,
+Te dorim, Te-așteptăm
+și cu dor Te chemăm:
+
+[c]
+Vino, vino, Isus,
+Mire drag de nespus,
+Pe-al iubirii altar
+Dorul nostru ni-i jar.
+Vino, vino, vino, Isus!
+
+[v2]
+Cu-al iubirii avânt,
+ce ni-l dă Duhul Sfânt,
+Te-așteptăm, Te dorim
+și fierbinte șoptim:
+
+[v3]
+Cu-al credinței cer senin,
+ce ne umple deplin,
+Te dorim, Te-așteptăm
+și arzând Te strigăm:
+
+[v4]
+Tot ce-avem și dorim,
+tot ce-am vrea ca să fim,
+Tu ne ești pe vecii,
+Te chemăm ca să vii:

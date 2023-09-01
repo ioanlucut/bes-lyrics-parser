@@ -1,0 +1,33 @@
+[title]
+Trec prin foc prin cuptoare {author: {Catalin Tache}, {rcId: {161044}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Isuse, eu pe Tine Te urmez
+Vreau să las tot ce mi-a rămas lumesc
+/: Îmi iau crucea oricât mi-ar fi de grea
+Nu ma las de Tine, vreau s-o duc la Golgota. :/
+
+[c]
+/: Trec prin foc, prin cuptoare,
+Trec prin orice încercare
+Nu mă tem, Domnul meu.
+Trec prin vânt și prin ploi
+Doamne nu dau înapoi
+Eu nu mă tem Domnul meu. :/
+
+[v2]
+Isuse orișicât mi-ar fi de greu,
+Pe Tine eu ma voi bizui mereu;
+/: Viața mea mi-o predau în mâna Ta,
+Valurile toate n-au putere asupra mea. :/
+
+[v3]
+Isuse eu pe Tine Te urmez
+Vreau să las tot ce mi-a rămas lumesc
+Îmi iau crucea oricât mi-ar fi de grea
+Valurile toate n-au putere asupra mea.
+Viata mea mi-o predau în mâna Ta
+Valurile toate n-au putere asupra mea.

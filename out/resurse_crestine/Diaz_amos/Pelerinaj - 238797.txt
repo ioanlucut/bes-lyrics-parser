@@ -1,0 +1,25 @@
+[title]
+Pelerinaj {author: {Diaz Amos}, {rcId: {238797}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Pelerin prin lumea largă, noapte ascunsă în scrum,
+De văpăi te afunzi
+ /: firav în praful de pe drum! :/
+Ploi cu zgomot, forfotă în noapte fără nori
+Ploi în sublime culori!
+
+[c]
+Suntem în lume simpli călători
+Mersul ne duce spre întinderi de nori!
+Cerul așteaptă să pășim cu dor,
+Spre plaiul vesel, țărm multicolor!
+
+[v2]
+Tatăl e în așteptare, nu mai zăbovi
+Vine de mai sus de soare,
+ /: Domnul a Te răpi! :/
+Mai stai în pelerinaj, roagă-te cu foc;
+Rugă pentru al cerului loc!

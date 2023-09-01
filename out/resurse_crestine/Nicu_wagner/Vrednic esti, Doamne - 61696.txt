@@ -1,0 +1,22 @@
+[title]
+Vrednic esti doamne {author: {Nicu Wagner}, {rcId: {61696}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Toate lucrurile, Doamne,
+Doar prin Tine s-au făcut.
+Stau prin voia Ta-n ființă,
+Le-ai dat legi de la-nceput.
+
+[c]
+Vrednic ești! Vrednic ești!
+Slava, cinstea și puterea,
+Doamne, să primești!
+
+[v2]
+Cântu-acesta-n veci răsună
+Împrejurul tronului,
+Când bătrânii se închină
+Înaintea Domnului.

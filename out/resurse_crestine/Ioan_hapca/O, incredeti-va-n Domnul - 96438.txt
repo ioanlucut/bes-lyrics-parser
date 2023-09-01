@@ -1,0 +1,41 @@
+[title]
+O incredeti-va-n domnul {author: {Ioan Hapca}, {rcId: {96438}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O, încredeți-vă-n Domnul!
+El e Stânca de scăpare,
+De la El vine-ajutorul
+Și în orice-mprejurare
+El este Izbăvitorul.
+Da! De la El vine-ajutorul!
+Domnul E Mântuitorul!
+
+[c]
+Încredete-n Dumnezeu, suflete te-ncrede.
+Și la bine și la greu ochiul Lui te vede
+Și te sprijină mereu.
+Da! Și la bine și la greu ochiul Lui te vede
+Și te sprijină mereu!
+O, tu suflete al meu, totdeauna te încrede
+Doar în Dumnezeu!
+
+[v2]
+De la El vine-ajutorul
+Și orice izbăvire.
+Domnul e Ocrotitorul
+Cel plin de iubire,
+Domnul E Izbăvitorul.
+Da! De la El vine-ajutorul,
+Domnul E Mântuitorul!
+
+[v3]
+Încredeți-vă voi popoare,
+Doar în Dumnezeu.
+Dreapta Lui mântuitoare
+Izbăvește tot mereu
+Și Puterea Lui e mare.
+Da! El e Stânca de scăpare,
+Încredeți-vă-n El popoare!

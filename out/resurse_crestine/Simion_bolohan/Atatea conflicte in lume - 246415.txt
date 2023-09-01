@@ -1,0 +1,39 @@
+[title]
+Atatea conflicte in lume {author: {Simion Bolohan}, {rcId: {246415}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Atâtea conflicte în lume
+Mă-ntreb când se vor termina
+E-atâta ura-ntre oameni
+Pe pământ nu e pacea Ta.
+
+[c]
+Strigăm după pacea Ta
+Ne tânjește azi inima
+Te slăvim, te dorim Domnul meu
+Regele păcii
+Toată puterea o ai
+Veghere Te rog să ne dai
+Tu ești Domn, Te dorim, Te iubim
+Doamne Mesia.
+
+[v2]
+Războaie se nasc într-o zi
+Dar nu toate au un sfârșit
+E lipsă de pâine mereu
+Și natura s-a dezlănțuit.
+
+[v3]
+Privim cu ochii spre cer
+Să revii să aduci pacea Sfântă
+Atâtea dureri sunt acum
+Oamenii grozav se frământă.
+
+[v4]
+Mai vino Isuse la noi
+Tu ești turn, adăpost în furtună
+Și orice s-ar întâmpla
+Pacea Ta între noi să rămână.

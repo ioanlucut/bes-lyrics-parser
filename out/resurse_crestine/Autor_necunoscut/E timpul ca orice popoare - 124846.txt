@@ -1,0 +1,27 @@
+[title]
+E timpul ca orice popoare {author: {Anonim}, {rcId: {124846}}
+
+[sequence]
+v1,b,c,v2,b,c
+
+[v1]
+E timpul ca orice popoare
+Din orice loc, să se unească
+E vremea pentru închinare
+Să stăm cu toții în a Sa prezență.
+
+[b]
+E vrednic să-L lauzi, în slava-I înălțat!
+E vrednic să-L lauzi, în slava-I înălțat!
+
+[c]
+/: Hai, cântă-I Domnului, deschide-ți inima
+Și fii bucuros în a Sa prezență;
+Hai, cântă-I Domnului, plin de dragoste
+Răsună lauda în a Sa prezență :/
+
+[v2]
+E timpul ca orice popoare
+Din orice loc, să se unească
+E vremea pentru închinare
+Să stăm cu toții în a Sa prezență.

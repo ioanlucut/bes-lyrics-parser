@@ -1,0 +1,29 @@
+[title]
+Va las pacea mea si va dau pacea mea {author: {Anonim}, {rcId: {59145}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Vă las Pacea Mea și vă dau Pacea mea,
+Nu așa cum poate lumea să o dea.
+Vă dau pacea ce-ntrece orice înțelegere!
+Pacea este-n Mine!
+
+[c]
+Lasă Pacea Ta peste viața mea
+Numai Tu poți să-mi alungi neliniștea!
+Dă-mi pacea care-ntrece orice înțelegere,
+Dă-mi pacea Ta, Doamne!
+
+[v2]
+Vă las Pacea Mea și vă dau Pacea Mea
+Nu așa cum poate lumea să o dea,
+Vă dau Pacea ce-ntrece orice înțelegere,
+Pacea este-n Mine!
+
+[v3]
+În orice clip-a zilei, Domnul e cu mine,
+În orice clip-a zilei, ca să-mi facă bine,
+În El am găsit Pace, El e Pace
+Pacea care întrece orice înțelegere!

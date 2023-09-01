@@ -1,0 +1,27 @@
+[title]
+Zile si nopti {author: {Gabi Ilut}, {rcId: {4516}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Zile și nopți sunt anii toți,
+Ani pierduți sau câștigați pentru Tine.
+Amintirea-ți rămâne din ei
+Și nu poți să-i oprești oricât vrei,
+Zboară și nu te mai întâlnești nicicând cu ei.
+
+[c]
+Diminețile, serile, iernile, verile s-or sfârși,
+Dar eu tot lângă Tine, știu,
+Veșniciile le voi trăi; nicio zi, niciun ceas, nicio clipă
+Nu vreau să le petrec în risipă,
+/: Nicio zi :/ fără Dumnezeu.
+
+[v2]
+Timpul pierdut, care-a trecut,
+Lasă-n urmă remușcare și lacrimi,
+Te grăbește iertare să ceri,
+Să renunți la păcatul de ieri
+Și să te rogi cu mai mult foc,
+Iubire să speri.

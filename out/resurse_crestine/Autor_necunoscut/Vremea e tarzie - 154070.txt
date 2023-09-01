@@ -1,0 +1,29 @@
+[title]
+Vremea e tarzie {author: {Anonim}, {rcId: {154070}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Vremea e târzie, timpul e trecut
+Viața oricum trece și tu ce-ai făcut?
+Fericirea-n lume e după Cuvânt
+E atrăgătoare, dar mori în curând.
+
+[c]
+Viața e frumoasă, vezi cum ți-o trăiești!
+Locul pe vecie tu ți-l pregătești.
+Viața e frumoasă, poți fi fericit,
+Dar fără de Isus, mori nemântuit.
+
+[v2]
+Cu privirea-n lume, tot ce e în ea,
+E frumos aicea, dar se va găta,
+Lumea te înșeală cu a ei plăceri
+Ea mereu te-atrage, vrea ca tu să pieri.
+
+[v3]
+Vremea-ai bogăție, nu ți-ai strâns averi
+A ta bogăție e acolo-n cer.
+Chiar dacă aicea ești sărac, lipsit
+Sus cu Domnu-n slavă vei fi fericit.

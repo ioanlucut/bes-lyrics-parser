@@ -1,0 +1,29 @@
+[title]
+Cand zorii cheama {author: {Nicolae Moldoveanu}, {rcId: {1673}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Când zorii cheamă din somnul greu
+Te-ncrede iarăși în Dumnezeu
+/: Înalță ruga și gândul sus,
+Nu-ncepe ziua fără Isus! :/
+
+[v2]
+Pe drum cu soare, prin ploi sau vânt,
+Pe buze poartă un cântec sfânt,
+/: În orice muncă, tu cere-ntâi
+Deplină pace și-n ea rămâi! :/
+
+[v3]
+Iar unde-i brazdă, prin văi și lunci
+Sămânță bună cu drag s-arunci.
+/: Atunci spre casă cu ceru-n gând
+Te vei întoarce din nou cântând. :/
+
+[v4]
+Și când la rugă vei sta supus,
+Deplin în tine va fi Isus.
+/: Vei spune „ Doamne ești mulțumit?”
+El va răspunde „ai biruit” :/

@@ -1,0 +1,33 @@
+[title]
+Fericire mareata {author: {Lidia Gheorghe}, {rcId: {96893}}
+
+[sequence]
+v1,b,c,v2,b,c
+
+[v1]
+Fericirea de-o clipă
+Este pe pământ.
+Eu cunosc și o alta,
+Curge ca un râu sfânt.
+
+[b]
+Fericire măreață
+Ce ești în Paradis,
+Nu numai o viață
+Vom fi cu Isus.
+Din izvor de iubire
+Curge, spală-al meu gând
+Plin de fericire
+Mă îndeamnă sa-Ți cânt.
+
+[c]
+/: Umple, umple, umple!
+În inimă și-n gând,
+Ca să pot Isuse
+Bucuros să-ți cânt. :/
+
+[v2]
+O putere din jertfă
+Se revarsă mereu.
+Pacea, bucuria,
+Umple sufletul meu.

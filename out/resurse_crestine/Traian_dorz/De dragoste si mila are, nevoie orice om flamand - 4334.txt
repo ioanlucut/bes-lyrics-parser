@@ -1,0 +1,30 @@
+[title]
+De dragoste si mila are nevoie orice om flamand {author: {Traian Dorz}, {rcId: {4334}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+De dragoste și milă are, nevoie orice om flămând.
+Acela care nu iubește, un frate-adevărat nicicând.
+/: Nu-i frate, nu-i frate, nu-i frate-adevărat nicicând :/
+
+[v2]
+De dragoste și milă are, nevoie ori și cine amin.
+Nu pot fi iubiți vreodată, aceia ce nu pot iubi.
+/: Aceia, aceia, aceia ce nu pot iubi :/
+
+[v3]
+De dragoste și milă are, nevoie orice duh sărac
+Cei ce nu pot ca să iubească, păstori să nu se facă-n veac
+/: Păstori, păstori, păstori să nu se facă în veac :/
+
+[v4]
+De dragoste și milă are, nevoie orice vestitor.
+De nu poți iubi puternic, să nu te faci învățător
+/: Să nu, să nu, să nu te faci învățător :/
+
+[v5]
+De dragoste și milă are, nevoie orice păcătos
+Cei ce nu pot să se jertfească, să nu vorbească de Hristos
+/: Să nu, să nu, să nu vorbească de Hristos :/

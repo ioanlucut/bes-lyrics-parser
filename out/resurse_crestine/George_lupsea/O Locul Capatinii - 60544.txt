@@ -1,0 +1,45 @@
+[title]
+O locul capatinii {author: {George Lupsea}, {rcId: {60544}}
+
+[sequence]
+v1,c,v2,c,v3,c3,v4,c4
+
+[v1]
+O locul capatini
+Unde Isus muri
+Acolo sus pe cruce
+Pentru a ne mintuii.
+
+[c]
+\:Chiar pietrele vor plange, si stincile or striga
+cum am putut noi tine, Aici Pe Mesia :/
+
+[v2]
+Vazduhul se inchise
+Padurea se Ascunse
+Caci nu vroia natura
+Sa-i vada rana Sa
+
+[c]
+\: Si florile pe camp, in stralucirea lor
+Sa-ntors atunci privirea, de la a-lor Creator :/
+
+[v3]
+Dar omul dintre toate
+In agonia Lui
+Lovise ca de moarte
+In rana Domnului
+
+[c3]
+\:Cum ai Putut tu oare, tu om necugetat
+Sa dai In Domnul Slavei, Ce-A fost nevinovat. :/
+
+[v4]
+I-ar Domnul cu iubire
+Pentru ai Sai alesi
+Cu o ultima suflare
+El striga catre Cer
+
+[c4]
+\:O Iartai Tu o Tata, pe toti acei de jos
+si nu le tine seama, de nestiinta lor :/

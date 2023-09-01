@@ -1,0 +1,23 @@
+[title]
+Inima-mi se bucura {author: {Ioan Hapca}, {rcId: {96006}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Inima îmi se bucură, preaplină de fericire,
+Dumnezeu mi-a făcut parte și mie de mântuire;
+Din gheara morții m-a scos și cu nespusă iubire
+A îndurat povara morții pentru a mea izbăvire.
+
+[c]
+/: Inima-mi se bucură, sufletu-mi se veselește:
+Domnul Însuși e cu mine și mereu mă izbăvește,
+Mi-arată cărarea vieții și cu drag mă ocrotește,
+Văd lumina Feței Sale și Îl simt cum mă iubește. :/
+
+[v2]
+Inima-mi se veselește și mi-e preaplină de iubire
+Pentru Domnul, că mi-a dat veșnica Lui mântuire.
+Inima îmi se bucură și sunt nespus de fericit;
+Domnu S-a îndurat de mine, sufletul mi-a mântuit!

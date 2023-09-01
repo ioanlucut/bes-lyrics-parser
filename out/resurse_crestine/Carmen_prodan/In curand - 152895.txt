@@ -1,0 +1,42 @@
+[title]
+In curand {author: {Carmen Prodan}, {rcId: {152895}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c2
+
+[v1]
+De-atâtea ori trăim momente sfinte
+Când suntem strânși în al Iubirii foc,
+Și parcă-am vrea ca Iosua să spunem:
+„
+Oprește, Doamne, soarele în loc! ”
+
+[c]
+Dar în curând veni-va ziua sfântă
+Când împreună toți în cer vom fi,
+Vom sta mereu în dulce părtășie,
+Și-n veci de veci nu ne-om mai despărți!
+
+[v2]
+E-așa de bine când suntem cu toții,
+Și mult dorim să nu ne despărțim...
+Să facem trei colibe-am vrea, ca Petru,
+Să stăm așa în harul cel simțim...
+
+[v3]
+E minunat în sfântă părtașie
+Când stăruim cu toții-n rugăciuni!
+Noi Te rugăm, o Doamne-ntinde-Ți Mâna,
+Lucrează iar cu semne și minuni!
+
+[v4]
+O, lasă Doamne-n noi iubire sfântă
+Să fim în clocot pentru slava Ta,
+Ca într-un gând, un cuget și-o simțire
+S-avem izbândă-n lumea asta rea!
+
+[c2]
+/: Dar în curând Tu vei veni Isuse
+Și vom lăsa pe veci acest Pământ,
+În taincă și dulce părtășie
+Ne-om bucura cu Tine-n Cerul sfânt: \

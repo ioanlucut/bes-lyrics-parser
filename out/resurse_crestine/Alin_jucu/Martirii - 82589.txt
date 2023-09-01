@@ -1,0 +1,41 @@
+[title]
+Martirii {author: {Alin Jucu}, {rcId: {82589}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Oștirea dintre neamuri
+Așa pășea de glorios.
+În fruntea lor Apostol’ Pavel
+Rob și urmaș, a lui Christos!
+
+[c]
+/: Martirii, martirii
+Un imn de glorie cântau!
+Martirii, martirii
+Pe Dumnezeul îl proslăveau! :/
+
+[v2]
+Ei sunt încinși cu adevărul
+În alb cu toți, desăvârșiți.
+Pe frunți le flutură drapelul
+Căci prin Christos sunt mântuiți.
+
+[v3]
+E vin din Efes și din Smirna,
+Din Tiatira și Pergam.
+Din Roma vine cete, cete.
+Și sunt toți fii ai lui Avraam.
+
+[v4]
+Ei s-au luptat cu lei și fiare
+Chiar sângele și l-au vărsat
+În amfiteatre și arene
+Dar de Isus nu s-au lăsat.
+
+[v5]
+Ei cântă chiar și-n fața morții
+Căci în Christos sunt îmbrăcați
+Erau din diferite neamuri,
+Dar prin Isus cu toții sunt frați.

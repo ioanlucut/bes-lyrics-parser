@@ -1,0 +1,26 @@
+[title]
+Maranata {author: {Romeo Stan}, {rcId: {55612}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Voi din pragul așteptării, n-auziți semnale noi ?
+Ele sunt în largul zării când e ziua de apoi.
+
+[c]
+Aleluia, o, Maranata, Maranata,
+Oare-L poți întâmpina?
+/: Vine Domnul cu răsplata, vine Mesia :/
+
+[v2]
+Se-aud vești de mari războaie,
+Dar voi nu vă-nspăimântați,
+Boli, cutremure, șuvoaie,
+Vor lovi, dar voi, vegheați!
+
+[v3]
+Nu știm ziua se ivește,
+Aurora atunci în zori,
+Voi, vegheați! Isus sosește!
+Va veni curând pe nori.

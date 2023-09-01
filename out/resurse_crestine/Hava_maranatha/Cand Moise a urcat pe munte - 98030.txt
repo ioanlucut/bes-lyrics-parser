@@ -1,0 +1,33 @@
+[title]
+Cand moise a urcat pe munte {author: {Hava Maranatha}, {rcId: {98030}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Osana-Ți cântă azi poporul
+Că Tu ești unicul Dumnezeu
+El Ție Ți se închină
+În Duh și numai în adevăr
+
+[c]
+/: Când Moise a urcat pe munte
+I-a spus Domnul prin porunci
+Să nu ai alți dumnezei
+După care să te duci
+Să nu-ți faci vreo înfățișare
+Nici din cer nici pe pământ
+Să nu te închini înaintea lor
+Că eu sunt Acel ce sunt :/
+
+[v2]
+Israele ascultă-I glasul
+Al tău Domn e Stăpân Ceresc
+Duhul Sfânt este cu gelozie
+Vrea pentru Domnul să trăiești
+
+[v3]
+Viu este Domnul și El trăiește
+E Domnul sfânt a lui Israel
+Dar și pe neamuri El le iubește
+Că și-a trimis jos pe Fiul Sau.

@@ -1,0 +1,29 @@
+[title]
+Cu taina-nviorarii {author: {Nicolae Moldoveanu}, {rcId: {246207}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Cu taina-nviorării,
+Din sfântul Tău Lăcaș,
+În inima-ntristată,
+O, Doamne-alin să Iași.
+
+[c]
+Cu mirul mângâierii,
+Prin Duhul Tău slăvit,
+Coboară, Doamne, pacea
+În cugetul muncit.
+
+[v2]
+Din slava minunată
+A cerului curat,
+Coboară, Doamne, pacea
+În duhul zbuciumat.
+
+[c2]
+Și-ascultă-ne Părinte
+Oricând Te vom ruga,
+La toți cei fără pace,
+Tu dă-le pacea Ta.

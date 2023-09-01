@@ -1,0 +1,28 @@
+[title]
+La multi ani {author: {Anonim}, {rcId: {4983}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+La mulți ani cu sănătate
+Să vă dea Domnul tot ce doriți,
+Zile senine și fericite
+La mulți ani să trăiți.
+
+[v2]
+Mulți ani, la mulți ani,
+Mulți ani fericiți să trăiți.
+
+[v3]
+Mulți ani trăiască,
+Mulți ani trăiască,
+La mulți ani.
+Cine să trăiască,
+Cine să trăiască,
+La mulți ani.
+
+[v4]
+La multi ani să trăiască,
+Pe Domnul să-L slujească
+La mulți ani.

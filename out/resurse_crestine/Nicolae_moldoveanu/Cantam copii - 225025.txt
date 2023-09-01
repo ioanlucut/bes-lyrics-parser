@@ -1,0 +1,25 @@
+[title]
+Cantam copii {author: {Nicolae Moldoveanu}, {rcId: {225025}}
+
+[sequence]
+v1,v2
+
+[v1]
+Cântăm copii și lăudăm,
+pe Domnul lăudăm!
+Credința noastră Lui i-o dăm,
+prin ea Îl ascultăm!
+Cântăm cântări lui Dumnezeu,
+cântăm, cântăm mereu!
+Cântăm, cântăm și lăudăm,
+mărirea Lui cântăm, cântăm cântăm!
+
+[v2]
+Iubim, copii și preamărim
+pe Domnul Preamărim!
+Prin jertfa Lui ne mântuim,
+cu El în veci să fim!
+Slăvim, slăvim și preamărim,
+pe Domnul preamărim!
+Slăvim, slăvim și preamărim,
+iubirea Lui slăvim, slăvim, slăvim!

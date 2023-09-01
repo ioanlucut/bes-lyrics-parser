@@ -1,0 +1,31 @@
+[title]
+Isus pacatul mi-a iertat {author: {Anonim}, {rcId: {836}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Isus păcatul mi-a iertat
+Cu sânge sfânt El m-a spălat.
+Inima El mi-a curățit
+De-aceea cânt și-s fericit.
+Căci Isus este Domnul meu care m-a iubit
+Murind pe Calvar pentru mine.
+Azi pe drumul către cer eu merg voios cântând
+De mână cu drag El mă ține.
+
+[c]
+/: Da cu Domnul
+ /: eu merg voios spre cer :/ x3
+Da cu Domnul eu merg voios spre cer
+Eu merg voios spre cer cu Isus :/
+
+[v2]
+O haină albă, in curat
+Isus și astăzi dă oricui.
+De te întorci, de vii smerit,
+De te apleci la crucea Lui.
+Căci Isus este Domnul tău care te-a iubit
+Murind pe Calvar pentru tine.
+Azi pe drumul către cer de mergi voios cântând
+De mână cu drag El te ține.

@@ -1,0 +1,29 @@
+[title]
+Singur {author: {Diaz Amos}, {rcId: {240665}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+De nenumărate ori, privesc
+Și mă înspăimânt adeseori.
+Pe cerul inimii mele îmi simt
+Căci e o aglomerație de nori!
+
+[c]
+Plâng, dar plânsul meu e firav;
+Cânt, dar cântul meu e trist.
+Nu mă regăsesc în lume,
+Pașii mă conduc spre vis!
+
+[v2]
+Vreau ca să înaintez în fața
+Oricărui obstacol țintă, mort
+Să zâmbesc și eu în dimineață,
+Iar fericit să fiu în tot!
+
+[v3]
+Am pace, căci am aproape
+Pe cineva ce știu, mă iubește.
+Din slava-I în tot senină,
+Cu drag spre mine zâmbește!

@@ -1,0 +1,29 @@
+[title]
+N-am sa uit vreodata {author: {Anonim}, {rcId: {1493}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+N-am să uit vreodată ziua minunată
+Când Isus m-a întrebat:
+Vrei să-ți iau povara și să fi salvat?
+Vino și vei fi iertat!
+
+[c]
+/: Născut din nou, născut din nou
+El m-a născut din nou.
+Slavă Îi dau Domnului meu
+Căci m-a născut din nou. :/
+
+[v2]
+Nu te-ngrijora de ziua cea de mâine
+Căci El te va păzi.
+Vrei amice dragă ca să fi salvat?
+Vino și vei fi iertat!
+
+[v3]
+Isus astăzi bate la inima ta
+Deschide-I, nu-L refuza.
+Fii condus de Domnul toată viața ta
+Bucuros Îl vei urma.

@@ -1,0 +1,23 @@
+[title]
+Fara iubire {author: {Adi Gliga}, {rcId: {107777}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Poți să ai, poți să ceri o lume făr’ de dureri ?
+Într-o zi vei vedea, sigur nu-ți va ajuta.
+Un om în viață așteaptă iubire să oferi
+Chiar dacă uneori ea vine prin dureri.
+
+[v2]
+Poți să ai bogății, ce e lipsă să nu știi
+Să te înalți cât mai sus, vei vedea că nu-i de-ajuns.
+Un om în viață așteaptă iubire să-i oferi
+Chiar dacă-ai fi sărac, iubirea-i dă puteri.
+
+[v3]
+Vorbe mari de-ai să spui nu ajută nimănui
+Dacă ai vrea să iubești, asta înseamnă să jertfești
+Un om în viață așteaptă iubire să oferi
+Doar vorba fără fapte nu duce nicăieri.

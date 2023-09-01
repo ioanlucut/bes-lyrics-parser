@@ -1,0 +1,43 @@
+[title]
+Trenul vietii {author: {Ovidiu Liteanu}, {rcId: {170475}}
+
+[sequence]
+v1,c,c,v2,c,c,v3,c,c
+
+[v1]
+Trenul vieții tale trece
+Și mai ai un ceas sau zece,
+Iată că încetinește
+Să cobori te pregătește.
+Mai sunt câteva minute
+Viața trece-așa de iute,
+Te cobori cu tulburare
+Sau cu bucurie mare.
+
+[c]
+/: La utima gară te dai jos,
+Te cobori condamnat sau cobori bucuros.
+Cobori cu povara-ți mare,
+Te vei duce la pierzare.
+Te dai jos făr’ de povară,
+Dumnezeu te-așteaptă-n gară! :/
+
+[v2]
+Și bagajele-ți sunt pline
+Cu poverile din lume,
+Și păcatele sunt grele,
+Cum vei coborî cu ele?
+Iată-L, Domnul pe la tine
+Trece ca să-ți fie bine.
+Până trenul nu se-oprește,
+Omule, te pocăiește!
+
+[v3]
+Cere-i Domnului iertare,
+Scapă de povara-ți mare!
+Numai El te curățește,
+Doar Isus te mântuiește.
+Iată, ai pășit pe scară,
+Inima-i așa ușoară,
+Domnul ți-a dat mântuire,
+Te cobori cu fericire!

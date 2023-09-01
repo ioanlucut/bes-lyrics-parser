@@ -1,0 +1,37 @@
+[title]
+Era un om {author: {Gabriel Gorcea}, {rcId: {190876}}
+
+[sequence]
+v1,v2,c,e,c
+
+[v1]
+Era un om ce avea atâtea datorii
+Și nicidecum nu putea a le plăti
+Stăpânul lui la el l-a chemat
+Cerându-și socoteala pentru ce i-a dat...
+Cu fața la pământ înaintea lui
+A cerut îndurarea stăpânului
+/: Și stăpânul i-a iertat toată datoria
+Iar omului nostru mare i-a fost bucuria. :/
+
+[v2]
+Mai apoi a plecat foarte fericit
+Iar pe drum un tovarăș a întâlnit
+Ce îi era dator cu o sumă mică
+Prinzându-l de gât a început să-i zică:
+Acum să-mi plătești ce mi-ești dator
+Iar tovarășul lui îl ruga stăruitor
+/: Dar el nu a vrut să îl ierte, nici n-a ascultat
+Și nemilos în pușcărie, l-a aruncat! :/
+
+[c]
+Omule, ce asculți povestea mea,
+Oare nu cumva e și povestea ta?
+/: Dumnezeu ți-a iertat păcatele toate,
+Iar tu nu vrei să ierți greșeala unui frate? :/
+
+[e]
+Tatăl cel slăvit ne-a iertat când am greșit,
+Tot așa să facem fiecare
+Doar așa ne rugăm:
+Iartă-ne precum iertăm cerând blestem sau binecuvântare!

@@ -1,0 +1,19 @@
+[title]
+Greierasul {author: {Nicolae Moldoveanu}, {rcId: {228097}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Greierașul cântă: ”
+Cri, cri, cri!”,”
+Cri, cri, cri!”
+El cu griji nu se frământă, cântă, fie noapte, fie zi.
+
+[v2]
+Dumnezeu se îngrijește, El, El, El, El, El, El,
+Hrana lui i-o pregătește, bună, orișicând și-n orice fel!
+
+[v3]
+Greierașul ne învață și pe noi, și pe noi,
+să fim fără teamă-n viață, grijă poartă Domnul în nevoi.

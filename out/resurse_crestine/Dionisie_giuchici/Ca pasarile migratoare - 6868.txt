@@ -1,0 +1,35 @@
+[title]
+Ca pasarile migratoare {author: {Dionisie Giuchici}, {rcId: {6868}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ca păsările migratoare
+Și noi, emigranți ne numim
+Mereu, către țara cu soare
+Prin vânturi și valuri plutim.
+
+[c]
+/: În urmă-i furtuna pentru totdeauna
+Nainte e țara și soarele-i cald
+Cetatea-i de aur, cu porți de safire
+Cu străzi aurite și cer de smarald. :/
+
+[v2]
+Aicea lăsăm colivia
+Și cuibul de vreascuri uscat
+Nainte privim veșnicia
+Și locul spre care-am plecat.
+
+[v3]
+Și nu ne vom pierde în larguri,
+Pe-oceanele pline cu nori
+În față se vad trei catarguri
+E al mântuirii vapor.
+
+[v4]
+Credința, nădejdea, iubirea
+Ne poartă când am obosit
+Căci Domnul e toată mărirea
+Și soarele fără sfârșit.

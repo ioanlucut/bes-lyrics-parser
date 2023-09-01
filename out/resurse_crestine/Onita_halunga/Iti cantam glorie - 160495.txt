@@ -1,0 +1,27 @@
+[title]
+Iti cantam glorie {author: {Oniță Halunga}, {rcId: {160495}}
+
+[sequence]
+v1,v1,c,b,c,b2,c,c,
+
+[v1]
+Cerul - spune slavă lui Dumnezeu
+Universul - vestește lucrarea Lui
+O zi dă de știre - alteia despre El
+Ce mare și bun e Dumnezeu
+
+[c]
+/Îți cântăm glorie și slavă
+Înălțat să fii în veci
+Te binecuvântăm ca Tată
+Peste-ntregul univers/
+
+[b]
+/Isus, Te binecuvântăm
+Numele Tău puternic, Doamne, proclamăm/
+
+[b2]
+Glorie, slavă Lui
+E Creator al universului
+El-Șadai, Atotputernic
+Adonai, e Domn în toate vrednic

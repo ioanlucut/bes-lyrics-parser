@@ -1,0 +1,32 @@
+[title]
+Rege isuse tu esti (you are my king) {author: {Rebecca St. James, Traducere RO}, {rcId: {4325}}
+
+[sequence]
+v1,v2,c,v2,c,v3,c
+
+[v1]
+Rege Isuse Tu ești
+Tată, mă luminezi
+Duh Sfânt, ești bucuria mea.
+
+[v2]
+Unic Isuse Tu ești
+Tată, Tu mă ocrotești
+Duh Sfânt Tu ești speranța mea.
+Tu mi-ai salvat sufletul
+Veșnic Te voi lăuda
+Tu ești, Isuse, iubirea mea.
+
+[c]
+Tot cerul declară: ”
+Ești Domn”
+Și munții tresaltă
+Oceane spun ”
+Aleluia”
+Când pe altar punem Doamne
+Un cântec de dragoste.
+
+[v3]
+Eu sunt, Isuse, uimit
+Cât de mult m-ai iubit
+Tu ești, Isuse, comoara mea.

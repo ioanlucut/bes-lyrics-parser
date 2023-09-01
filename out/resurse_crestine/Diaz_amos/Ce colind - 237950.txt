@@ -1,0 +1,25 @@
+[title]
+Ce colind {author: {Diaz Amos}, {rcId: {237950}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Veselie, armonie
+Seara ne adunăm, colinde să cântăm;
+Ce onoare, prin splendoare
+Domnul a coborât din slavă lângă noi
+Ne alină sufletul, de suntem goi!
+
+[c]
+Ce colind de Crăciun azi cântăm;
+Bucuria ni se simte prin glas!
+Azi Domnul a coborât din cer la noi
+Pe Isus L-a oferit, cât de fericit mă simt!
+
+[v2]
+Colorate ne sunt toate
+Inimile când cântăm lui Dumnezeu;
+Vino astăzi din ruine,
+Domnul îți oferi în dar balsam.
+Nu mai sta timid privind cu dor la geam!

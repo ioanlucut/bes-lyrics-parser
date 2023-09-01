@@ -1,0 +1,26 @@
+[title]
+Privesc la ceruri {author: {Alexandru Chiriță}, {rcId: {58860}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Privesc la ceruri la tot ce ai creat
+Privesc cum stele noaptea Te laudă neîncetat
+Privesc oceane, cât de frumos e tot!
+Văd chiar și stropii de ploaie
+Îți cântă: ”ești Creator ”.
+
+[c]
+/: Sunt uimit, ești măreț, ești Divin
+Sunt nimic, în genunchi mă închin
+Tu ești infinit, ești din veșnicii
+Aș vrea doar voia Ta să o-mplinesc.
+Să pot privi spre Tine și sa zâmbesc. :/
+
+[v2]
+Privesc la ceruri și Te aștept, Isus
+Doresc a Ta venire să mă găsească supus
+Slava-Ți măreață doresc să văd curând
+Să-Ți cânt mărire slavă,
+Căci Tu ești Mielul cel Sfânt.

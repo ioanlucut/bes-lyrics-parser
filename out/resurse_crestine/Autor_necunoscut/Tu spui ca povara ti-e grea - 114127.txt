@@ -1,0 +1,29 @@
+[title]
+Tu spui ca povara ti-e grea {author: {Anonim}, {rcId: {114127}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Tu spui că povara ți-e grea
+Și crucea n-o poți purta,
+Dar vine o zi când pe cer,
+Soarele va răsări!
+
+[c]
+Într-o zi dincolo de mâine,
+Undeva dincolo de nori
+Unde florile veșnic nu mor,
+Soarele va răsări!
+
+[v2]
+Ia-ți povara ce Tatăl ți-a dat-o
+Și crucea ridic-o sus!
+Vine o zi când vom merge
+Unde ne-așteaptă Isus!
+
+[c2]
+Într-o zi dincolo de mâine,
+Undeva dincolo de nori,
+Unde florile veșnic nu mor,
+Cineva te așteaptă să vii!

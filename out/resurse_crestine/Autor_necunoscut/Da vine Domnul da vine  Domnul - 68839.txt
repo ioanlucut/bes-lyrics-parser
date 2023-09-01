@@ -1,0 +1,41 @@
+[title]
+Da vine domnul da vine domnul {author: {Anonim}, {rcId: {68839}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,v4,c,v5,c
+
+[c]
+Da vine Domnul da vine Domnul
+Da vine Domnul in curand
+Da vine Domnul da vine Domnul
+Sa te gaseasca dara veghind
+
+[v1]
+Cerceteaza te tu bine
+Ai haina sfanta de mire
+Esti fecioara pregatita
+Pentru a intra la nunta
+
+[v2]
+De pe orice inaltime
+Domnul striga azi la tine
+Si el striga cu glas tare
+Sa-l auda fiecare
+
+[v3]
+Ca asa zice Duhul Sfant
+Tu popor de legamint
+Esi din orice neputinta
+Si priveste prin credinta
+
+[v4]
+Ferice va fi de acela
+Ce-si verifica candela
+Si se lupta prin credinta
+S-ajunga la biruinta
+
+[v5]
+Deci fi gata si asteapta
+Ca fecioara inteleapta
+Maranata Maranata
+Isus vine sa fii gata

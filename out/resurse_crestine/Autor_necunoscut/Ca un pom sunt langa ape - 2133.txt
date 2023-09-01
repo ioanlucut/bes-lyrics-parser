@@ -1,0 +1,35 @@
+[title]
+Ca un pom sunt langa ape {author: {Anonim}, {rcId: {2133}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ca un pom sunt lângă ape,
+Salvatorul m-a sădit
+Voi aduce mereu roade
+Tot la timpul potrivit.
+
+[c]
+/: Fericit e acel care
+E sădit de Dumnezeu;
+Plin de roade, fiecare
+Să-I slujim și tu și eu. :/
+
+[v2]
+El dorește roade-ntruna,
+Și le caută ne-ncetat;
+Ești tu verde totdeauna
+Sau de mult te-ai și uscat?
+
+[v3]
+Fapte bune cu credință,
+Să rodești neîncetat,
+Doar la pace, umilință,
+Isus Domnul te-a chemat.
+
+[v4]
+Să iubești pe orișicine
+Cu iubirea ta dintâi;
+Astfel, pom sădit la ape
+Pentru veșnicii rămâi.

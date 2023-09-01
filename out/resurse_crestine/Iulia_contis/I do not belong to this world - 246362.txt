@@ -1,0 +1,20 @@
+[title]
+I do not belong to this world {author: {Iulia Contis}, {rcId: {246362}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+I do not belong to this world;
+Even though I know every bird
+Has its song, I feel that, on high,
+You’re my God! You’ll hear my sigh!
+
+[c]
+/I belong to You! / x3
+
+[v2]
+You’ll be through the storms of my life
+My pure God and when our pride
+Will come out from the sinful soul,
+You’ll forgive us, making us whole!

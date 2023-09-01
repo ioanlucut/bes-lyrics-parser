@@ -1,0 +1,35 @@
+[title]
+Da domnul e pastorul meu {author: {Anonim}, {rcId: {99580}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Da, Domnul e Păstorul meu,
+El poartă grija mea,
+La ape limpezi, pajisti verzi!
+Mă poartă-n mâna Sa.
+
+[v2]
+Îmi înviorează sufletul,
+Al Său glas minunat!
+Pe-ale dreptății Lui cărări,
+Povață-i ne-ncetat.
+
+[v3]
+Prin valea umbrei morții reci,
+De-aș merge nu mă tem!
+Toiagul și nuiaua Ta
+Sunt mângâieri, îndemn.
+
+[v4]
+În fața dușmanilor mei,
+Tu masa îmi întinzi!
+Ungi capul meu cu untdelemn,
+Paharul meu e plin.
+
+[v5]
+Da, fericirea, mila Sa,
+Mereu m-or însoți!
+Și-n Casa Domnului pe veci,
+Cu El voi locui.

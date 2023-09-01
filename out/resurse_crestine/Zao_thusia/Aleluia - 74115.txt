@@ -1,0 +1,17 @@
+[title]
+Aleluia {author: {Zao Thusia}, {rcId: {74115}}
+
+[sequence]
+v1,c,e
+
+[v1]
+Aleluia, aleluia, Domnul este aici!
+Aleluia, aleluia, teama s-o înving!
+Aleluia, aleluia, Domnul este aici!
+Aleluia, aleluia, aproape că-L atingi!
+
+[c]
+Aleluia, aleluia...
+
+[e]
+Domnul este, Domnul este aici!

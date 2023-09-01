@@ -1,0 +1,33 @@
+[title]
+Suna ora-n miez de noapte {author: {Nicolae Moldoveanu}, {rcId: {5767}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Sună ora-n miez de noapte: o, scoală, frate, sus!
+Căci vine sfârșitul, frate; o, Timpul mult e scurs.
+
+[c]
+Sună ora, sună, sună, căci Mirele va veni,
+/: Și-atunci, vai va fi! :/ Vai, de cei ce nu s-au pocăit!...
+
+[v2]
+Sună ora-n miez de noapte, o să te pregătești!
+Căci vine Mirele, frate, o să-L întâlnești.
+
+[v3]
+Sună ora-n miez de noapte: o, ia-ți candela ta,
+Cu care pe Mire, frate, Îl vei întâmpina!
+
+[v4]
+Sună ora-n miez de noapte: o, scoală, frate, sus!
+Căci vine Stăpânul nostru, o Mirele Isus!
+
+[v5]
+Sună ora-n miez de noapte: o, scoală, frate, acum!
+Nu mai sta în nepăsare, pe al vieții drum!
+
+[v6]
+Sună ora-n miez de noapte: o, schimbă-ți viața ta,
+Și vei fi încununat cu însăși mâna Sa.

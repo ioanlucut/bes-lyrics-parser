@@ -1,0 +1,35 @@
+[title]
+Doar fericire {author: {Andreea Popoi}, {rcId: {2829}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Stropi de fericire, lacrimi de iubire,
+Astăzi noi sărbătorim.
+Nuntă minunată, binecuvântată
+Doamne ce măreață zi!
+Mire, ai aleasă albă și frumoasă
+Floare dalbă printre flori.
+Lacrimi de iubire, stropi de fericire,
+Cer cu soare fără nor!
+
+[c]
+Doar fericire în calea voastra să aveți!
+Râuri de iubire să inunde ale voastre vieți.
+De bucurie să aveți parte neîncetat!
+Cu Salvatorul și Mântuitorul nostru minunat.
+/: Doar fericire în calea voastra să aveți!
+Râuri de iubire să inunde ale voastre vieți.
+De bucurie să aveți parte neîncetat!
+Cu Salvatorul și Mântuitorul nostru minunat. :/ x3
+
+[v2]
+Draga mea mireasă, albă și frumoasă
+Ai ajuns această zi
+Zi de sărbătoare, unică sub soare
+Plină doar de bucurii!
+Să traiești smerită, să fii fericită
+Caci El este Domnul tău
+Și în veșnicie, plini de bucurie
+Veți fi lângă Dumnezeu.

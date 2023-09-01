@@ -1,0 +1,43 @@
+[title]
+Astept isus mareata zi {author: {Anonim}, {rcId: {211842}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,v4,c,v5,c
+
+[c]
+Aștept, Isus, măreața zi
+Când Tu din nou vei reveni
+Și ne vei duce-n ceruri sus la Tine
+Ne-om întâlni cu toți cei dragi,
+Vei sterge lacrimi de le obraz
+Și n-or mai fi suspine.
+
+[v1]
+Prin lupte grele și furtuni
+Veghind în așteptare,
+/: Copiii Tăi în rugăciuni
+Stau gata de plecare :/
+
+[v2]
+Mai vino ca să mângâi iar
+Inima-ndurerată
+/: Păcatul face răni adânci
+În turma-Ți dezbinată :/
+
+[v3]
+Să Te mai supăr nu doresc
+În timpul ce-mi rămâne,
+/: Și vreau, Isus, să Te slujesc,
+Să pot fi-n veci cu Tine :/
+
+[v4]
+Acum doar plânsul ne-a rămas
+Din ce-i mai bun sub soare,
+/: Dar știu că vine în curând
+Și ziua de plecare :/
+
+[v5]
+Uita-vom toate câte-au fost
+Și neguri și talazuri!
+/: Când vom ajunge în cer sus
+Uita-vom de necazuri! :/

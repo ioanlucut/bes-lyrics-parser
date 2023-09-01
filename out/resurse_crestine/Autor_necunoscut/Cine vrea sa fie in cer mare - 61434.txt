@@ -1,0 +1,20 @@
+[title]
+Cine vrea sa fie in cer mare {author: {Anonim}, {rcId: {61434}}
+
+[sequence]
+v1,v2
+
+[v1]
+/: Cine vrea să fie în cer mare
+Să slujeasc’aici fraților! :/
+/: Să fie aici robul lor! :/
+Cine vrea să fie în cer, mare...
+Să slujească-aici fraților!
+
+[v2]
+/: Dacă tu vrei să fii mare în cer
+Învață să fii slujitor :/
+/: Învață să fii slujitor ;/
+Dacă tu vrei să fii mare în cer
+Învață să fii slujitor :/
+.

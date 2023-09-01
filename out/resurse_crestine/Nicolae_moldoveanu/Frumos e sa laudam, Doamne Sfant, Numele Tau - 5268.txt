@@ -1,0 +1,36 @@
+[title]
+Frumos e sa laudam doamne sfant numele tau {author: {Nicolae Moldoveanu}, {rcId: {5268}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Frumos e sa laudam, Doamne Sfant, Numele Tau!
+Toata ziua bunatatea Ta vestim,
+Caci Tu ne inveselesti cu lucrarile Tale,
+Dandu-ne libertatea sa Te laudam.
+
+[c]
+Ce frumos este a canta,
+Doamne, spre marirea Ta,
+Pentru bunatatea Ta!
+Cat de bine este, Doamne, a lauda
+Numele Tau! Este frumos!
+
+[v2]
+Daca cei rai inverzesc ca si iarba de pe camp,
+Este numai ca sa fie nimiciti;
+Caci Tu, Doamne, esti ’naltat, de marire-nconjurat,
+Si toti cei ce fac raul sunt nimiciti.
+
+[v3]
+Ochiul meu isi va vedea implinita dorinta
+Fara de vrajmasii care vor cauta
+Punand in cale crucea, sa ne-ncerce credinta;
+Dar Tu, la ai Tai, le dai biruinta!
+
+[v4]
+Cei saditi in casa Ta sunt ca cedrii din Liban;
+Inverzesc inchisi in curtile Tale.
+Cu untdelemn ii stropesti, puteri noi le daruiesti
+Ca sa lupte contra celor pamantesti.

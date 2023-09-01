@@ -1,0 +1,57 @@
+[title]
+Rasuna iarasi {author: {Casting Crowns, Traducere RO}, {rcId: {130837}}
+
+[sequence]
+v1,c,v2,c2,c2,v3,c3,c4,e
+
+[v1]
+Răsună iarăși de Crăciun
+Colinzi vestind Pruncul cel Sfânt,
+Îngeri în cor se-aud cântând:
+Bună-nvoire pe pământ!
+
+[c]
+Clopote răsună, Pace jos
+Inima le-ascultă, Pace jos
+E un cor ce cântă: Pace jos
+Pace jos, peste pământ!
+
+[v2]
+Când prin necazuri am trecut
+M-am întristat și am răspuns:
+Nu este pace pe pământ,
+Căci răutatea a pătruns!
+
+[c2]
+Clopote răsună, Pace jos
+Ca un cor ce cântă, Pace jos
+Dar cine-l mai aude? Pace jos
+Pace jos, peste pământ!
+
+[b]
+Lumina-n lume a intrat,
+Isus nu-i mort, El a-nviat! Pace, pace
+Cel Rău a fost înlăturat,
+Deci, pace jos, peste pământ!
+
+[v3]
+Se-aude din îndepărtări
+Un cântec lin de sărbători,
+Mulțimi de îngeri cântă-n cor:
+Lumină, pace tuturor!
+
+[c3]
+Clopote răsună, Pace jos
+Ca un cor ce cântă, Pace jos
+Inima le-ascultă: Pace jos
+Pace jos, peste pământ!
+
+[c4]
+Auzi clopote cum sună? Pace jos
+Îngerii în cor cum cântă? Pace jos
+Lasă inima s-asculte! Pace jos
+Pace jos, peste pământ!
+
+[e]
+Pace jos, pace jos,
+Pace jos, peste pământ!

@@ -1,0 +1,30 @@
+[title]
+Bucuria mi-e isus {author: {Anonim}, {rcId: {4843}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Bucuria mi-e Isus.
+Din zori și până seara târziu,
+Bucuria mi-e Isus.
+
+[v2]
+Pacea mea este Isus.
+Din zori și până seara târziu,
+Pacea mea este Isus.
+
+[v3]
+Speranța mea e Isus.
+Din zori și până seara târziu,
+Speranța mea e Isus.
+
+[v4]
+Ajutorul mi-e Isus.
+Din zori și până seara târziu,
+Ajutorul mi-e Isus.
+
+[v5]
+Medicul meu e Isus.
+Din zori și până seara târziu,
+Medicul meu e Isus.

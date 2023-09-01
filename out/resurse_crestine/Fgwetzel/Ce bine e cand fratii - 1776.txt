@@ -1,0 +1,29 @@
+[title]
+Ce bine e cand fratii {author: {F.G.Wetzel}, {rcId: {1776}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Ce bine e când frații
+Cu dor se întâlnesc
+/: Și-n dragoste și pace
+Pe Domnul Îl slujesc. :/
+
+[v2]
+Ca roua ce se lasă
+Pe câmpuri și prin văi
+/: Și binecuvântarea
+Coboară peste ei. :/
+
+[v3]
+Un Domn și o credință,
+Un sfânt botez vestim,
+/: Un Tată sus în ceruri
+Și-un Duh mărturisim. :/
+
+[v4]
+Deci să lucrăm cu râvnă
+În via Domnului,
+/: Să ducem vestea bună
+A-mpărăției Lui. :/

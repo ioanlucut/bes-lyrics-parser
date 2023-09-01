@@ -1,0 +1,32 @@
+[title]
+Iubirea sa ramana in voi {author: {Alin și Emima Timofte}, {rcId: {159261}}
+
+[sequence]
+v1,c,v2,c,e,c
+
+[v1]
+Este-o zi de sărbătoare pentru voi,
+S-a născut același vis în amândoi,
+Veți rosti un legământ de dragoste,
+Chiar acum!
+Doar iubirea v-a adus, azi, la altar,
+Binecuvântarea s-o primiți în dar!
+Mii de îngeri au venit, șoptind ușor
+Cântul lor.
+
+[c]
+/: Iubirea să rămână-n voi, orice-ar veni,
+În fiecare zi, mână în mână
+Să pășiți spre culmi de har,
+Dincolo de-orice nor! :/
+
+[v2]
+Gândul veșniciei s-a ascuns în voi,
+Vă păstrează împreună și-n nevoi,
+Și mereu veți auzi cum cântă-n cor, îngerii.
+
+[e]
+Răspândind iubirea-n jur,
+Veți coborî ceru-ntreg jos pe pământ
+Și va fi un colț de rai,
+Căminul vostru, oricând!

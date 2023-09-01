@@ -1,0 +1,33 @@
+[title]
+Poti sa chemi pe domnul {author: {Isaura Dinca}, {rcId: {139931}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Poți să chemi pe Domnul
+Chiar și când ți-e greu
+Cu putință este
+Tot la Dumnezeu. :/
+
+[c]
+/: Mare este Domnul
+Mare-n orice fel,
+Nimeni nu-i mai mare
+Și mai bun ca El. :/
+
+[v2]
+/: Poți să ceri minunea
+Cât de mare-ar fi,
+Dacă ți-e spre bine
+El ți-o va-mplini. :/
+
+[v3]
+Poți să chemi pe Domnul
+Chiar și când ți-e greu,
+Cu putință este
+Tot la Dumnezeu.
+Poți să ceri minunea
+Cât de mare-ar fi,
+Dacă ți-e spre bine
+El o va-mplini.

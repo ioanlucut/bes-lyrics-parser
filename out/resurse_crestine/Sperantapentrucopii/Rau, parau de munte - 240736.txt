@@ -1,0 +1,29 @@
+[title]
+Rau parau de munte {author: {Speranța_pentru_copii}, {rcId: {240736}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+Mult îmi placi râule de munte,
+Cu apă rece, izvor curat.
+Pentru tine înalț cântarea,
+Slavă cui mi te-a creat!
+
+[v1]
+Vesel râul clocotește,
+Murmurând pe lângă stânci.
+Și ușor de prăpădește,
+Pârâiașul în văi adânci!
+
+[v2]
+Vezi și pasărea se adapă,
+Din izvor răcoritor.
+Deși bea ea numai apă,
+Mult așa înveselitor!
+
+[v3]
+Apa mișcă lumea toată,
+Iar celor ce beau din ea
+Le dă viață, sănătate,
+Apa-i băutura mea!

@@ -1,0 +1,29 @@
+[title]
+Steaua sus rasare {author: {Anonim}, {rcId: {5073}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Steaua sus răsare
+Că e taină mare,
+Steaua strălucește
+/: Și lumii vestește :/
+
+[v2]
+Că astăzi curata
+Prea nevinovata
+Fecioara Maria
+/: Naște pe Mesia. :/
+
+[v3]
+Magii cum zăriră
+Steaua și porniră,
+Mergând după rază
+/: Pe Hristos să-L vază. :/
+
+[v4]
+Și dacă porniră
+Îndată-L găsiră,
+La Dânsul intrară
+/: Și I se închinară. :/

@@ -1,0 +1,54 @@
+[title]
+Vin furtuni {author: {Nicolae Moldoveanu}, {rcId: {5916}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Vin furtuni... vin furtuni...
+Tu, de ce nu îți aduni
+Al păcii cuvânt măreț
+Ce-ți va fi de mare preț?
+
+[c]
+/: Vei căuta să-l înțelegi
+Și vei plânge zile-ntregi...
+Cel ce este-n ceruri viu
+Îți va spune: „
+Prea târziu.” :/
+
+[v2]
+Vorbe rele dacă ai
+De la cei ce nu au har,
+Tu atunci vei căuta
+Ca să-ți aperi vina ta.
+
+[c2]
+/: Dar dreptatea Sa din cer,
+Numai al ei adevăr
+Firea ți-o va judeca,
+Făr-a fi de partea ta. :/
+
+[v3]
+Prin furtuni și vânturi reci,
+Fără pace, cum să treci?
+Căci tu știi că toți cei răi
+Pace n-au pe-ale lor căi.
+
+[c3]
+/: De vei fi fără de ea,
+Salvare nu vei avea;
+Valuri grele te-or lovi,
+Până te vor nimici. :/
+
+[v4]
+Ca un tată pe-al lui fiu
+Crește până nu-i târziu!
+Vin’ cu lacrimi la Isus
+Și-ți va da pacea de sus.
+
+[c4]
+/: Tu vei merge fericit,
+Spre limanul însorit;
+Pace sfântă, dacă n-ai,
+El ți-o dă. De ce mai stai? :/

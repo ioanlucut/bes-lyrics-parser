@@ -1,0 +1,35 @@
+[title]
+Sa fiu adevar in credinta {author: {Nicolae Moldoveanu}, {rcId: {186324}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Să fiu adevăr în credință,
+Aceasta Isuse doresc,
+/: Și-Ți cer ca să-mi dai stăruință,
+În viață așa să trăiesc! :/
+
+[v2]
+Să fiu adevăr în speranță,
+Adânc și fierbinte doresc,
+/: Ca-n Tine să am siguranță,
+În Tine sperând, să trăiesc! :/
+
+[v3]
+Să fiu adevăr în iubire,
+Ca focul din soare, doresc,
+/: Să-mi dai Tu un duh de jertfire,
+Ca Tine arzând să iubesc! :/
+
+[v4]
+Să fiu adevăr în umblare,
+Și-n toate-adevăr mă doresc,
+/: Lumină să fiu în purtare,
+Ca Tine, așa să trăiesc! :/
+
+[v5]
+A-Tale-adevăruri divine
+În mine, Isus, le doresc,
+/: Mai limpezi, mai albe, mai pline,
+Și-n veci doar așa să trăiesc! :/

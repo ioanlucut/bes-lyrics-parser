@@ -1,0 +1,39 @@
+[title]
+Te-ai gandit {author: {Vali Pentea Sava}, {rcId: {7020}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Te-ai gândit, prietene drag,
+La viață ta de pe pământ
+Te-ai gândit dacă ai fost sau nu,
+Cum Dumnezeu te-ar fi dorit.
+Dacă nu ți-ai cercetat
+Lăuntrul tău până acum
+Gândește-te până nu e târziu,
+Încotro duce al tău drum.
+
+[c]
+Unde-ai să te duci tu când vei muri?
+Unde-ai să-ți petreci viața-n veșnicii?
+Crezi că te așteaptă cerul plin de bucurii?
+Nu cumva te paște iadul unde-n veci vei suferi?
+
+[v2]
+Numai în Isus viață poți avea
+Și nu mai cu El în cer tu poți intra,
+Te îndemn, dar, chiar acum cât încă mai e har
+Hotărăște-ți veșnicia nu cumva să pleci cu-amar
+
+[v3]
+Vino la Isus, vino prieten drag,
+Vino să primești iertarea Lui în dar,
+El nu te acuză ci îți zâmbește blând
+Și dorește să-ți prezinte cerul Său cel sfânt.
+
+[v4]
+Unde-ai să te duci tu când vei muri?
+Unde-ai să-ți petreci viață-n veșnicii?
+Crezi că te așteaptă cerul plin de bucurii?
+Nu cumva te paște iadul unde-n veci vei suferi?

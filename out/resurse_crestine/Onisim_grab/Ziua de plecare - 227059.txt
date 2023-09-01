@@ -1,0 +1,47 @@
+[title]
+Ziua de plecare {author: {Onisim Grab}, {rcId: {227059}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Vine ziua de plecare,
+Spre căminul cel ceresc,
+Ziua sfântă-a revenirii
+Mirelui Dumnezeiesc!
+
+[c]
+/: Să ne pregătim de-acuma
+Și spre cer, noi, să privim,
+Să fim gata de plecare
+Spre eternul Rai sublim! :/
+/: Vom lua cu toții zborul
+Spre fumosul Paradis,
+Și vom fi o veșnicie
+Cu al nost’ Isus iubit! :/
+/: Să îl asteptăm că vine
+Și-mpreună vom pleca,
+Spre sublima fericire,
+În Împărăția Sa! :/
+/: Ne vom bucura în slavă
+Și mereu, noi, vom cânta,
+În eterna fericire
+Numele-I vom lăuda! :/
+
+[v2]
+Vine clipa de plecare,
+Strigă, astăzi, Duhul Sfânt,
+Tot mai des se-aud semnale
+Că, El, vine în curând!
+
+[v3]
+Clipa revenirii Sale,
+O simțim cu toții azi,
+Din a noastră alergare,
+Doar puțin a mai rămas!
+
+[v4]
+Lacrimi n-or mai fi acolo,
+Nici necazuri de-ndurat,
+Dragostea, sfințirea, pacea
+Vor domni neîncetat!

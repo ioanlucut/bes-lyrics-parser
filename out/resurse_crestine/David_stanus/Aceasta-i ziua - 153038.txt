@@ -1,0 +1,30 @@
+[title]
+Aceasta-i ziua {author: {David Stănuș}, {rcId: {153038}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Aceasta-i ziua ce ați așteptat
+Și pentru ea Domnului v-ați rugat.
+Nu e o haină iarăși s-o dai jos,
+Căsătoria-i darul lui Hristos. :/
+
+[c]
+/: Am vrea ca, peste 50 de ani,
+Să vi se cânte iarăși „
+La mulți ani!”
+Să vă dea Domnul multe bucurii
+Perechea fericită tu să fii. :/
+
+[v2]
+/: În viața voastră să n-aveți model
+Decât pe Domnul, pe Divinul Miel!
+Pe urma Lui mereu, mereu pășiți
+Și toată viața voi să fiți uniți. :/
+
+[v3]
+/: De lume voi să fiți deosebiți,
+Pe Dumnezeu mereu să Îl iubiți,
+Să ascultați ce zice Biblia
+Și Domnul vă va binecuvânta. :/

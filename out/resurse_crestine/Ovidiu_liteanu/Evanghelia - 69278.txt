@@ -1,0 +1,29 @@
+[title]
+Evanghelia {author: {Ovidiu Liteanu}, {rcId: {69278}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Iată se vestește ca niciodată
+Evanghelia în lumea toată
+/: Iar cine crede și-O împlineste
+Se botează-n apă spre cer pornește. :/
+
+[c]
+/: Evanghelia schimbă inima
+Va schimba și viața ta
+Evanghelia viața mi-a schimbat
+Veșnicia-n rai mi-a dat :/
+
+[v2]
+Evanghelia, Ea ne arată
+Care este Calea adevărată
+/: Ea te convinge că ai păcate
+Îți dă credința să scapi de moarte. :/
+
+[v3]
+Evanghelia îți dă Lumină
+Să-ncepi o viață nouă, senină
+/: Să lași păcatul Ea te învață
+Să ieși din noapte spre dimineață. :/

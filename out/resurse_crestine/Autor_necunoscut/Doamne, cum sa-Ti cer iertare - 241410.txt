@@ -1,0 +1,41 @@
+[title]
+Doamne cum sa-ti cer iertare {author: {Anonim}, {rcId: {241410}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Doamne, cum să-Ți cer iertare,
+C-am făcut ce nu mi-ai spus:
+Unora le-am dat de toate
+Altora nimic n-am dus.
+
+[c]
+/: Lângă unii-am stat o viață
+Și tot mi-a părut puțin,
+Lângă alții-am stat o clipă
+Și-am dorit să nu mai vin. :/
+
+[v2]
+Pentru cine mă urăște
+Doar o dată m-am rugat,
+Pentru cel iubit de mine
+M-aș ruga nemăsurat.
+
+[c2]
+/: Glasul celor buni întruna
+Aș dori să-l tot ascult,
+Glasul celor răi și-o dată
+Mi-este greu și-mi pare mult. :/
+
+[v3]
+Peste cei vrășmași o dată
+Cer a Tale îndurări,
+Celor dragi le-aș cere-ntruna
+Mii de binecuvântări.
+
+[c3]
+/: Doamne cum să-ți cer iertare
+Pentru tot ce ți-am greșit,
+Pentru multa întristare,
+Te rog, iartă-mă Isus :/

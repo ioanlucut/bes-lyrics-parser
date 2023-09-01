@@ -1,0 +1,27 @@
+[title]
+E craciun cu-adevarat {author: {Alin și Florina Jivan}, {rcId: {131012}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Aș vrea ca și Maria, zâmbetul să-Ți văd
+Aș vrea pe brațe să Te port!
+Aș vrea ca și Iosif, grija Ta s-o am
+Aș vrea să fii minunea mea!
+Dar nu sunt Maria, nici Iosif eu nu sunt
+Dar fericit acum eu pot să cânt.
+
+[c]
+Multumesc că ai venit, ce mult m-ai iubit
+Te-ai născut umil, sărac, Tu al lumii Împărat
+Sufletul mi-ai mântuit de moarte m-ai scăpat
+Aleluia eu îți cânt, e Crăciun cu-adevarat!
+
+[v2]
+Cu steaua ca si magii, vin să ma închin,
+În dar cu viata mea eu vin
+Vestea Bună Doamne și astăzi o aud
+Și cânt cu îngerii eu cânt!
+Slavă sus în ceruri și pace pe pămant
+Aleluia, Glorie îți cânt.

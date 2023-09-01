@@ -1,0 +1,33 @@
+[title]
+Daca vrei {author: {Anonim}, {rcId: {1415}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: Dacă vrei, dacă vrei
+Să-L cunoști pe Isus
+Primește-L pe Isus ca Păstor. :/
+
+[c]
+Azi te cheamă la El
+Te conduce pe drum
+Și sigur îți va da ajutor.
+Vino azi la Isus
+La al tău Salvator
+Căci chiar El îți va da ajutor.
+
+[v2]
+/: Isus va veni-n curând
+Pentru-ai Lui de pe pământ
+Vino azi la El să fi salvat. :/
+
+[v3]
+/: Domnul Isus ne-a promis
+Că vom fi în Paradis
+Dacă noi vom urma calea Sa. :/
+
+[v4]
+/: Paradis, loc ceresc
+Eu pe tine te doresc
+Că în tine eu voi fi fericit. :/

@@ -1,0 +1,23 @@
+[title]
+Mi-e dor de glasul tau {author: {Narcisa}, {rcId: {4599}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Ședeam pe malul mării liniștite
+Și mă gândeam la vremea de demult,
+Dar plâng și-acum când îmi aduc aminte
+Cum îmi doream cu drag să te ascult.
+
+[c]
+Mi-e dor de glasul tău care-mi șoptea
+Atâtea dulci cuvinte de iubire,
+Mi-e dor de lacrima care-mi curgea
+Când îmi vorbeai despre neprihănire.
+
+[v2]
+Și soarele era înspre apus
+Iar pescărușii zborul și-l luau,
+Dar gândul meu se îndrepta spre acolo
+La zilele care-mi mai rămâneau.

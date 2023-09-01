@@ -1,0 +1,29 @@
+[title]
+Din cer de la tatal {author: {J.W.Van de Venter}, {rcId: {1724}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Din cer de la Tatal, Isus a venit
+Vestind mantuirea prin har.
+Dar n-a fost primit, ci mereu prigonit,
+Isus, cel trimis noua-n dar.
+
+[c]
+Coroana de spini a purtat pe Calvar,
+L-au scuipat si L-au batjocorit.
+A murit suferind pentru al lumii pacat,
+Da, El pentru noi a rabdat.
+
+[v2]
+Isus a trait pe pamant, printre noi,
+Dar lac de repaus n-a avut.
+Slujind si-ntarind, ajutand in nevoi
+El multe minuni a facut.
+
+[v3]
+Isus a venit la ai Sai, plin de har,
+Dar ei pe o cruce L-au pus.
+Azi Domnul Se-apleaca spre turma Lui iar
+Cu jarul iubirii de sus.

@@ -1,0 +1,32 @@
+[title]
+Bucurie negraita (all my heart this night rejoices) {author: {Horatio W. Parker, Traducere RO}, {rcId: {182595}}
+
+[sequence]
+v1,v2,v3,s
+
+[v1]
+Bucurie negrăită
+Am și-acum când stau și-aud
+Vestea minunată;
+A venit din zare-albastră
+Pruncul sfânt, pe-acest pământ
+Mângâierea noastră.
+
+[v2]
+Iată-L stă culcat pe paie
+El, Isus, trimis de sus
+În umile straie;
+A venit din zare-albastră
+Prunc divin cu chip blajin
+Bucuria noastră.
+
+[v3]
+Hai, veniți cu mic și mare
+Să cântăm, să-L lăudăm
+Pe al nostru Rege;
+A venit din zare-albastră
+Dumnezeu, Emanuel
+Mântuirea noastră.
+
+[s]
+Bucurați-vă, ceruri! Înveselește-te, pământule! Izbucniți în strigăte de bucurie, munților! Căci Domnul mângâie pe poporul Său și are milă de nenorociții Lui.” Isaia 49:13

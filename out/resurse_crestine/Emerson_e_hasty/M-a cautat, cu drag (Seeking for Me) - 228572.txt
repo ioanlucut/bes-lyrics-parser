@@ -1,0 +1,53 @@
+[title]
+M-a cautat cu drag (seeking for me) {author: {Emerson E. Hasty, Traducere RO}, {rcId: {228572}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Isus Preasfântul, la noi a venit
+Chin și durere, El a suferit;
+Cu ființa-ntreagă, iubind ne-ncetat
+M-a căutat, cu drag!
+
+[c]
+M-a căutat, cu drag
+M-a căutat, cu drag!
+Cu ființa-ntreagă, iubind ne-ncetat
+M-a căutat, cu drag!
+
+[v2]
+Isus, Preasfântul, pe cruce-a murit
+Prețul iertării doar El l-a plătit;
+Ce îndurare și har minunat
+El m-a iertat, cu drag!
+
+[c2]
+El m-a iertat, cu drag
+El m-a iertat, cu drag!
+Ce îndurare și har minunat
+El m-a iertat, cu drag!
+
+[v3]
+Isus Preasfântul, de veacuri slăvit
+M-a căutat când eram rătăcit;
+În bunătatea-I ce s-a arătat
+El m-a chemat, cu drag!
+
+[c3]
+El m-a chemat, cu drag
+El m-a chemat, cu drag!
+În bunătatea-I ce s-a arătat
+El m-a chemat, cu drag!
+
+[v4]
+Isus Preasfântul, veni-va curând
+Dulcea-ntâlnire, pe nori aducând;
+Din cerul slavei se va coborî
+El va veni curând!
+
+[c4]
+El va veni curând
+El va veni curând!
+Din cerul slavei se va coborî
+El va veni curând!

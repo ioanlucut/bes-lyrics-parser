@@ -1,0 +1,41 @@
+[title]
+Cu tine am pornit pe cale {author: {Anonim}, {rcId: {169073}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Cu Tine am pornit pe cale,
+O, Doamne, Dumnezeul nost’
+Și, stând sub aripile Tale,
+Am fost mereu la adăpost.
+
+[c]
+/: Cu Tine vrem și mai departe,
+Pe-al căsniciei tainic drum,
+Să ne rămâni același frate
+Și-apărător și prieten bun. :/
+
+[v2]
+Nu vrem minuni ca-n Galileea,
+Nici să prefaci iar apa-n vin,
+Ci vrem s-aprinzi în noi scânteia
+Iubirii Tale, Miel divin!
+
+[c2]
+/: În ziua bucurie noastre
+Tu ești cel mai binevenit!
+Tu, prinț al zărilor albastre,
+De noi ești cel mai prețuit! :/
+
+[v3]
+În viață vom avea necazuri,
+Pe drumul nostru, amândoi.
+Dar nu dorim să mergem singuri
+De nu vii, Doamne, Tu cu noi.
+
+[c3]
+/: Doar un cuvânt de-ncurajare,
+Din cerul Tău, noi l-așteptăm.
+În semn de binecuvântare,
+Să spui, Isuse, Te rugăm. :/

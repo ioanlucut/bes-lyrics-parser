@@ -1,0 +1,35 @@
+[title]
+Din zi in zi {author: {Speranța}, {rcId: {111399}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Din zi în zi, din an în an
+Mai aproape de ceruri
+/: Deviza noastră se va împlini
+În ceruri sus, pe sfintele meleaguri
+
+[c]
+/: Mai este mult, străjerule din noapte ?
+Zorii oare când se vor ivi ?
+Să se deschidă bolta cea albastră!
+S-apară Prințul, veșnice iubiri :/
+
+[v2]
+Nimic de jos, nu ține veșnic
+Sunt toate trecătoare
+/: Noi strângem pentru cer comori
+Valori ce sunt nepieritoare :/
+
+[v3]
+Din zi în zi, din an în an
+Mi-e tot mai dor de Tine
+/: Dorim Isuse, să revii
+Din nou în slăvile senine :/
+
+[c2]
+/: Mai e puțin, Biserică iubită!
+Rămâi în așteptare zi de zi!
+Isus Hristos e gata să apară
+Cuvântul Lui, să știți, se va-mplini :/

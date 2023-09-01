@@ -1,0 +1,51 @@
+[title]
+O cat de bun {author: {Betania Worship Dublin}, {rcId: {206696}}
+
+[sequence]
+v1,c,v2,c,e,v3,c,e
+
+[v1]
+E uimitor ce dragoste
+Arăți pentru mine
+Ai hotărât să fiu al Tău
+Plătind cu-al Tău sânge
+
+[c]
+O, cât de bun
+O, cât de bun
+O, cât de bun, Doamne ești cu min
+O, cât de bun
+O, cât de bun
+O, cât de bun, Doamne ești cu min
+O, cât de bun
+O, cât de bun
+O, cât de bun, Doamne ești cu min
+O, cât de bun
+O, cât de bun
+O, cât de bun, Doamne ești cu min
+
+[v2]
+Privesc Isus vechiul lemn
+Ce veacuri străbate
+Puterea Ta și azi o văd
+Salvând de la moarte
+
+[e]
+Sunt salvat, întregit
+Pe deplin acceptat
+În Isus sunt vindecat
+Tatăl mi-a dat favoare
+Sunt fiul Său
+Toată viața- L voi lăuda
+Sunt salvat, întregit
+Pe deplin acceptat
+În Isus sunt vindecat
+Tatăl mi-a dat favoare
+Sunt fiul său
+Toată viața-L voi lăuda
+
+[v3]
+Iar încercări, când vor veni
+Doamne adu-mi aminte
+Destinul meu e-n mâna Ta
+Te-ai dat pentru mine

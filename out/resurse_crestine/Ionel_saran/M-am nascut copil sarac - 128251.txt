@@ -1,0 +1,25 @@
+[title]
+M-am nascut copil sarac {author: {Ionel Saran}, {rcId: {128251}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+/: M-am născut copil sărac,
+Dar lui Dumnezeu îi plac. :/
+
+[c]
+/: Și mereu Îi voi cânta, Osana, Aleluia
+Mi-a salvat viața mea, mi-a dat pacea Sa. :/
+
+[v2]
+/: M-a făcut copilul Său,
+Și mi-a dat din Harul Său. :/
+
+[v3]
+/: Ajută-mă ca să fiu,
+Tot mereu al Tău copil. :/
+
+[c2]
+/: Și mereu Îți voi cânta Osana, Aleluia
+Mi-ai salvat viața mea, mi-ai dat pacea Ta. :/

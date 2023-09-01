@@ -1,0 +1,24 @@
+[title]
+Inaltam pe domnul dumnezeu {author: {Emma}, {rcId: {112947}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+/: Înălțăm pe Domnul Dumnezeu
+Cu strigăte de bucurie
+Cântăm și dăm slavă Numelui Său,
+Mărim Slava Lui cu laudele noastre. :/
+
+[c]
+Tot Pămânul se-nchină în ’naintea Regelui,
+Toți Îi dăm cinste, onoare, Numelui Său.
+
+[v2]
+/: Înălțăm pe Domnul Dumnezeu
+Cu strigăte de bucurie
+Cântăm și dăm slavă Numelui Său,
+Mărim Slava Lui cu laudele noastre. :/
+
+[e]
+Tot pământul să cânte...

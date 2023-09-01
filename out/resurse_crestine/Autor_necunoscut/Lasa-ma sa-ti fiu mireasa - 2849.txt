@@ -1,0 +1,30 @@
+[title]
+Lasa-ma sa-ti fiu mireasa {author: {Anonim}, {rcId: {2849}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Sunt gata pentru noul nume
+sunt gata pentru nunta noastra
+am implinit ce-a fost in lume
+si-acum sunt pasare maiastra
+
+[c]
+/: Ma-nalt plutind spre casa noua
+din cerul alb de flori si fluturi
+ma chemi cu mainile-amandoua
+si fulgi de nea pe ochi imi scuturi :/
+
+[v2]
+Atata Te iubesc Ti-as spune
+atat mi-e dragostea de mare
+atat esti,
+Doamne.o minune
+atata Te iubesc de tare
+
+[v3]
+Si nu Te-astept decat pe Tine
+umila intr-un colt de casa
+deschide usa pentru mine
+si lasa-ma sa-Ti fiu mireasa...

@@ -1,0 +1,27 @@
+[title]
+Iata in cer se aude o veste {author: {Alexandru Groza}, {rcId: {193459}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Iată, în cer se aude o veste în ajunul de Crăciun
+Corul de îngeri ne vestește pe Mesia, Pruncul Sfânt
+Tot văzduhu-i plin de slavă: Glorie lui Dumnezeu!
+Sfânt e Pruncul ce se naște într-o iesle-n Betleem.
+
+[c]
+Pruncul sfânt e Salvator, Dumnezeu mântuitor
+El din Tatăl, Domnul s-a născut înainte de-nceput!
+Pruncul sfânt e Salvator, Dumnezeu mântuitor
+Tatăl, El din ceruri s-a-ndurat, El ne scapă din păcat!
+Dulce veste tot răsună, sufletu-mi alină,
+Că Pruncul născut ne este lumină
+Prin credință El ne-o mântui!
+Și în veșnicie noi cu El vom fi!
+
+[v2]
+Din depărtări steaua strălucește peste-ntregul Betleem
+Și în lumina de sus Maria naște pe Fiul lui Dumnezeu
+Și în noaptea preasfințită de Harul lui Dumnezeu
+Sfânt e Pruncul ce se naște într-o iesle-n Betleem!

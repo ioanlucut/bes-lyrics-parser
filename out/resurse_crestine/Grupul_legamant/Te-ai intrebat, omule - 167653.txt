@@ -1,0 +1,28 @@
+[title]
+Te-ai intrebat omule {author: {Grupul Legamant}, {rcId: {167653}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Te-ai întrebat ce faci, omule?
+Cum e viața ta și cum o trăiești?
+Vrei să știi acum despre Dumnezeu;
+A trimis pe Fiul ca Mântuitor.
+
+[c]
+Vino azi, vino azi la Isus prietene,
+Întoarce-te din drumul rătăcit, pierdut;
+O te rog!
+
+[v2]
+Viața e un vis aici pe pământ,
+Ce frumos va fi sus în Paradis.
+Domnul te primește cu brațul deschis,
+Te întoarce azi să fii mântuit.
+
+[v3]
+Ușa îndurării încă nu sa’nchis,
+Brațul lui Isus încă e deschis.
+Vino la Isus că El te primește
+Și iertare sfântă El îți dăruiește.

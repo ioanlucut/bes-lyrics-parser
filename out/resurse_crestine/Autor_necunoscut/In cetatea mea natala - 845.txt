@@ -1,0 +1,29 @@
+[title]
+In cetatea mea natala {author: {Anonim}, {rcId: {845}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În cetatea mea natală
+Îmi doresc mereu
+Ca Ninive să se-ntoarcă
+Toți la Dumnezeu!
+
+[c]
+/: Izvorașul, izvorașul
+Este Harul Domnului
+Fericit e poporașul
+Care bea din apa lui :/
+
+[v2]
+Soarele mai luminează
+Dar este ascuns.
+Se apropie venirea
+Domnului Isus!
+
+[v3]
+Cred că-n ziua întâlnirii
+Mielului divin
+Să cântăm cu toți cântarea
+Domnului Amin!

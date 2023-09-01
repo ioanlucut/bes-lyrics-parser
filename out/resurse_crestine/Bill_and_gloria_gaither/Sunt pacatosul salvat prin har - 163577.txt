@@ -1,0 +1,30 @@
+[title]
+Sunt pacatosul salvat prin har {author: {Bill and Gloria Gaither, Traducere RO}, {rcId: {163577}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+O, dac-ai știi sub ce blestem am fost și eu cândva,
+O, de-ai simți ce deznădejdi muncit-au viața mea,
+Te-ai întreba ce sfânt mister viața mi-a schimbat
+Făcând din tristul condamnat un mântuit prin har.
+
+[c]
+/: Sunt păcătosul salvat prin har!
+Descătușat prin suferința de pe Calvar.
+Și trăiesc în libertate, vindecat de-al meu trecut,
+Sunt păcătosul salvat prin har! :/
+
+[v2]
+Salvarea mea e scris-adânc în rana lui Isus
+Și-n veci va sta ca mărturie-a harului nespus
+Ce a legat destinul meu de-al cerului hotar,
+Făcând din tristul condamnat un mântuit prin har!
+
+[c2]
+Sunt păcătosul salvat prin har!
+Descătușat prin suferința de pe Calvar.
+Și trăiesc în libertate, vindecat de-al meu trecut,
+Sunt păcătosul salvat de moarte, iertat de toate
+Prin veșnicul Său har!

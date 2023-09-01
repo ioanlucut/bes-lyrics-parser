@@ -1,0 +1,23 @@
+[title]
+Doamne tu esti taria mea {author: {Dolores}, {rcId: {111441}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+/: Unde-aș putea în afară de Tine
+Să-mi aflu plăcerea-n ceruri și pe pământ ?
+Chiar trupul meu se va pierde-ntr-o zi
+Dar Tu ești cu mine oricând :/
+
+[c]
+/: Doamne, Tu ești tăria mea,
+Stânca inimii mele!
+Pururi Tu vei fi moștenirea mea
+Și locul meu de-adăpost :/
+
+[v2]
+/: Când inima mea era plină de răni
+Și mă simțeam străpuns în sufletul meu
+Cu Brațul Tău, Tu de mână m-ai luat
+Căci Tu ești cu mine mereu :/

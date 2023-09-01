@@ -1,0 +1,23 @@
+[title]
+Vino si-asculta {author: {Nicolae Moldoveanu}, {rcId: {230678}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Vino și-ascultă șoptind izvorul cristalin,
+el te învață să te predai deplin,
+necurmat în slujba vieții, setea multor potolind,
+căci spre tine toți drumeții mâinile și-ntind.
+
+[v2]
+Vino și-aleargă câmpiile mii de flori,
+ele te-ndeamnă să fii spre trecători:
+Necurmat balsam ce-alină suferințele mereu,
+să ai fața spre lumină și spre Dumnezeu.
+
+[v3]
+Vino, privește păduri și toate câte sunt,
+toate ți-arată pe Creatorul Sfânt.
+Necurmat spre ascultare să te pleci tot mai supus,
+să fii binecuvântare la venit și dus.

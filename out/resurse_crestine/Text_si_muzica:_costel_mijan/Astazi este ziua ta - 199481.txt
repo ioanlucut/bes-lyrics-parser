@@ -1,0 +1,27 @@
+[title]
+Astazi este ziua ta {author: {Text și muzică: Costel Mijan}, {rcId: {199481}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Astăzi este ziua ta, o floare-ți dau din partea mea
+Și-ți doresc tot ce-ți dorești să dobândești.
+Totul este minunat când ești cu Isus împăcat
+Și din toată inima Lui îi slujești.
+
+[c]
+Dumnezeu să-ți dea tot ce-n viață dorești,
+Pacea, liniștea, pe oameni să-i iubești,
+Un gând curat mereu cu iubire de sus,
+Să-L iubești mai mult pe Domnul Isus.
+Dumnezeu să-ți dea tot ce-n viață dorești,
+Pacea, liniștea, pe toți să îi iubești,
+În Isus mereu sǎ rămâi credincios
+Căci viața ce-o ai e în Hristos.
+
+[v2]
+Astăzi este ziua ta, mulți prieteni ai în casa ta
+Și cu toții astăzi mult vă bucurați
+Îți doresc să fac-așa mereu iubirea-n viața ta,
+Fericirea, bucuria ne-ncetat.

@@ -1,0 +1,29 @@
+[title]
+Vino la domnul nu-ntarzia - sol maj {author: {ed. Dan Istrate}, {rcId: {242592}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Vino la Domnul, nu-ntârzia,
+Te roagă, cere-I azi mila Sa,
+Și mântuire El îți va da,
+Deci vino la Isus!
+
+[c]
+Ce plăcut va fi și minunat
+Când, scăpați de tot ce e păcat,
+Vom fi cu Domnul neîncetat,
+O, Doamne, iată, vin!
+
+[v2]
+Vino, ascultă de-al Lui Cuvânt,
+Inima dă-I-o numaidecât,
+El vrea să-ți fie scut orișicând,
+Deci vino la Isus!
+
+[v3]
+O, crede numai, nu te-ndoi,
+Cu siguranță te va primi
+Te va ierta și te va-înnoi,
+Deci vino la Isus!

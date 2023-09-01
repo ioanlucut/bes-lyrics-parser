@@ -1,0 +1,35 @@
+[title]
+Tu esti bun {author: {Theo Pascalau}, {rcId: {175033}}
+
+[sequence]
+v1,b,v2,b,c,v3,b,c
+
+[v1]
+Când în zori mă trezesc și în zi eu pășesc,
+Tu ești bun, ești bun!
+Peste noapte ne-ncetat îngerii m-au vegheat,
+Tu ești bun, ești bun!
+
+[b]
+Cu toată suflarea ce-o am,
+Mulțumire, o, Doamne-Ți aduc!
+Mă simt ocrotit, Tată știu, sunt iubit,
+Tu ești bun!
+
+[v2]
+Și când drumul e greu și nu pot să-l parcurg,
+Tu ești bun, ești bun!
+Tu cu mine pășești, mă înveți cum să merg,
+Tu ești bun, ești bun!
+
+[c]
+Cum pot răsplăti eu, ce pot să-Ți dau?
+Ce poate-un sărman om, să ofere pe-altar, unui Rege?
+Ți-aduc azi un cântec, e tot ce am!
+Prin vers mulțumire, că ții viața mea-n mâna Ta!
+
+[v3]
+Când e rece și plâng și-al meu suflet e frânt,
+Tu ești bun, ești bun!
+Tu mereu mă susții, ești cu min’ zi de zi,
+Tu ești bun, ești bun!

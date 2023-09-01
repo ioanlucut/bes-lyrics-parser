@@ -1,0 +1,29 @@
+[title]
+Nu pot o doamne sa-nteleg {author: {Valentin Popovici}, {rcId: {148544}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Nu pot, o, Doamne, să-nțeleg
+E mult prea mare dragostea!
+Ai suferit în locul meu
+La Golgota, pe-o cruce grea.
+
+[c]
+Cum să-nțeleg iubirea Ta?
+Ai șters la cruce vina mea!
+Tu, Cel Preasfânt și Dumnezeu,
+Te-ai dat la moarte-n locul meu!
+
+[v2]
+Ai părăsit cerescul tron
+Și ce adânc Te-ai umilit!
+Te-ai dezbrăcat de glorie
+Să porți păcatul meu cumplit.
+
+[v3]
+De condamnare nu mă tem,
+Căci sunt al Tău, Tu m-ai salvat!
+Prin Tine fericit trăiesc,
+În Harul Tău m-ai îmbrăcat!

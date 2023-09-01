@@ -1,0 +1,35 @@
+[title]
+In ziua cand in cer va fi serbarea {author: {Speranța}, {rcId: {3867}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+În ziua când în cer va fi serbarea
+Poporului ce-a fost răscumpărat
+/: Noi vom vedea ce mare e răsplata
+Acelora ce-aicea s-au luptat :/
+
+[c]
+Nu este-n stare nimeni să gândească
+Nici ca să spună ce-i acolo sus
+Căci slava și splendoarea e creată
+De Dumnezeu și Domnul nost’ Isus
+
+[v2]
+Acolo-n ceruri nimenea nu moare
+Căci moartea pentru veci o va lega
+/: Acel care a creat orice făptură
+Și viața pentru veci va triumfa :/
+
+[v3]
+Nici beznă nu mai este sus în ceruri
+Căci întunericul e spulberat
+/: De ne-nțeleasa și în marea-i milă
+Ce-o dă Isus, Cerescul Împărat :/
+
+[v4]
+Ferice acum de cei care în viață
+Deși nu văd ei cred ce Domnu-a spus
+/: Oricum ei nu au chiar nimic a pierde
+Dar pierd aceia ce n-au pe Isus :/

@@ -1,0 +1,45 @@
+[title]
+Vino la el te-asteapta {author: {Cătălin Necșa}, {rcId: {197845}}
+
+[sequence]
+v1,c,v2,c,v3,b,c
+
+[v1]
+Poate stai deseori si plangi
+Simti ca nu mai poti sa lupti
+Te simti murdar, te simti infrant
+Si nu mai poti trai sperand.
+Ai luptat deseori sa-nvingi
+Pacatul din viata ta
+Dar ai cazut, te-ai murdarit
+Insa azi tu poti fi mantuit.
+
+[c]
+Vino la El, te-asteapta
+Vino in bratul Lui de Tata
+Spune-i Lui ca ai gresit
+Si azi tu poti fi mantuit.
+Vino la El, te-asteapta
+Vino in bratul Lui de Tata
+Spune-i Lui ca ai gresit
+Si azi tu poti fi mantuit.
+Vino la El, te-asteapta
+Incredinteaza-I viata toata
+Sileste-te sa fii al Sau
+Caci El te vrea in cer cu El.
+
+[v2]
+Stai pe genunchi ’naintea Sa
+Deschide-ti toata inima
+El te-asculta, te primeste
+E Domnul care te iubeste.
+
+[v3]
+Acum traiesti eliberat
+Si mergi spre cer neintinat
+Poti sa zambesti, poti sa iubesti
+Si viata sa ti-o daruiesti
+
+[b]
+Celui ce te-a curatit
+Celui ce-n brate te-a primit!

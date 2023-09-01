@@ -1,0 +1,29 @@
+[title]
+Betel e locul unde-odinioara (la poarta cerului) {author: {Otniel Stirb}, {rcId: {177005}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Betel e locul unde-odinioară
+Un biet fugar cu Domnul s-a-ntâlnit.
+Acolo în pustie, printr-o scară,
+/: Pământul și cu cerul s-au unit. :/
+
+[c]
+/: La poarta cerului găsești odihnă,
+Aici e locul binecuvântat
+Și orice păcătos poate să vină
+Căci ușa harului nu s-a-ncuiat. :/
+
+[v2]
+Tu, tânăr ce mai pribegești pe cale,
+Ai fost adus în Casa Domnului,
+Te-așteaptă iar în pragul Casei Sale
+/: O piatră căpătâi și tu să-ți pui. :/
+
+[v3]
+Mai treci, o, Doamne, azi prin adunare
+Și fă din Casa Ta un sfânt Betel!
+Să simtă toți bolnavii vindecare,
+/: Căci Tu lucrezi și azi în Israel. :/

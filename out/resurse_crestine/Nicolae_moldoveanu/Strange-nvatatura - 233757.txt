@@ -1,0 +1,24 @@
+[title]
+Strange-nvatatura {author: {Nicolae Moldoveanu}, {rcId: {233757}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Strânge-nvățătura orișiunde crește,
+ea e hrana minții, care ți-o-ntărește.
+
+[c]
+Silitor fii mereu, căci te-ajută Dumnezeu!
+
+[v2]
+Nu lăsa în lene mintea să rămână,
+căci pe-a ta ființă ea-ți va fi stăpână!
+
+[v3]
+Bob cu bob adună sfânta-nțelepciune,
+ca să ai pe cale zile tot mai bune.
+
+[v4]
+Crede și te roagă, Dumnezeu te-nvață
+dreapta-nvățătură. Ea ți-e scut în viață.

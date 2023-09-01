@@ -1,0 +1,31 @@
+[title]
+In gradina edenului {author: {Speranța}, {rcId: {111304}}
+
+[sequence]
+v1,c,v2,c,v3,c,c
+
+[v1]
+În grădina Edenului, Adam singur era
+Și din toate ce avea, totuși ceva îi lipsea
+
+[c]
+Nici susurul blând din codri
+Nici chiar parfumul florilor
+Nici ciripitul cel mai dulce
+Nu îi umplea acest gol
+Și susurul blând din codri
+Chiar și parfumul florilor
+Și ciripitul cel mai dulce
+Toate se îmbinau ușor
+/: Și de atunci orice familie
+Ce se formează pe pământ
+Dacă îl au pe Domnu-n viață
+Au fericire orișiunde sunt :/
+
+[v2]
+Dumnezeu a observat, că omul de El întocmit
+Cu toată splendoarea din Eden, nu era împlinit
+
+[v3]
+Și din coasta lui Adam, Domnul a întocmit
+Femeia prin care de atunci, omul a fost împlinit

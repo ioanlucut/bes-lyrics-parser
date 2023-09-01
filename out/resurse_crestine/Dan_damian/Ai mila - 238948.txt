@@ -1,0 +1,31 @@
+[title]
+Ai mila {author: {Dan Damian}, {rcId: {238948}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+N-ai vină ca să mori bătut în cuie
+Pe cruce un tâlhar atunci a spus
+/: Când vei veni adu-ți aminte și de mine
+Astăzi vei fi în rai, I-a spus Isus :/
+
+[c]
+Din mine-al meu tâlhar
+La cruce plin de vină
+În zdrențe, gârbovit, ruină
+L-aduc plin de păcat
+Murdar de-a lumii tină
+Iertare-Ți cer Isus, ai milă
+
+[v2]
+Mânie, ură, bârfă și invidie
+Mândria și-nalțare-au triunfat
+/: Eu am ucis pe frați prin gânduri și cuvinte
+Religie și forme am urmat :/
+
+[v3]
+De n-ar fi har, aș fi fără nădejde
+N-aș mai veni la crucea Ta Isus
+/: N-aș îndrăzni să plâng, la îndurarea jertfei
+Îți mulțumesc că mă iubești nespus :/

@@ -1,0 +1,35 @@
+[title]
+Frumusetea vietii {author: {Alexandru Groza}, {rcId: {85966}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+În zorii dimineții
+Soarele vieții răsare
+Eu cânt Domnului cu iubire
+Pentru bunătatea Sa.
+Sufletul îmi tresaltă
+Inima mea se înalță
+Înspre Domnul cu mulțumire
+Pentru bunătatea Sa.
+
+[c]
+Frumusețea vieții e darul
+Duhul Sfânt trăiește-n mine
+Dragostea și bunătatea Lui
+Împlinește viața mea.
+Harul Domnului e mare
+Ajunge la fiecare
+Dragostea mereu aduce
+Biruință-n viața mea.
+
+[v2]
+În zorii dimineții
+Soarele vieții răsare
+Și natura o trezește
+Noaptea e schimbată-n zi
+Sufletul îmi tresaltă
+Inima mea se înalță
+Înspre Domnul cu mulțumire
+Pentru bunătatea Sa.

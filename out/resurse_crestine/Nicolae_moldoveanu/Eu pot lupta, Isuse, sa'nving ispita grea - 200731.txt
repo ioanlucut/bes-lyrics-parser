@@ -1,0 +1,29 @@
+[title]
+Eu pot lupta isuse sa nving ispita grea {author: {Nicolae Moldoveanu}, {rcId: {200731}}
+
+[sequence]
+v1,v2,v3,e
+
+[v1]
+Eu pot lupta, Isuse, să’nving ispita grea,
+Dar dacă Tu n-o birui, ușor mă’nfrânge ea.
+Eu pot munci, Isuse, s-adun sau să zidesc,
+/: Dar Tu, de nu-mi dai sprijin
+ /: zadarnic mă trudesc :/
+
+[v2]
+Eu pot s-alerg, Isuse, chiar sufletul să-mi scot,
+De nu-mi întinzi Tu mâna, zadarnic este tot.
+Eu pot să strig, Isuse, să plâng, să fac ce-aș vrea,
+/: De nu vii Tu, deșartă
+ /: e toată truda mea :/
+
+[v3]
+Oricât de mare-i partea, ce’n toate eu am pus,
+Nimic nu-i fără harul, și partea Ta, Isus.
+Dar cât de necuprinsă, și partea Ta de har,
+Asemeni, fără mine, ea poate fi’n zadar.
+
+[e]
+C-așa Înțelepciunea, eternă-a rânduit;
+Lucrarea’mpreunată, s-aducă rod slăvit.

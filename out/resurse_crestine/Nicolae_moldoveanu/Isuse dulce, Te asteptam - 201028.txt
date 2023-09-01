@@ -1,0 +1,30 @@
+[title]
+Isuse dulce te asteptam {author: {Nicolae Moldoveanu}, {rcId: {201028}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Isuse dulce, Te așteptăm,
+Spre cer privirea ne-o indreptăm.
+Pe-altarul vieții, noi iar și iar,
+Mai viu ne-aprindem iubirea jar.
+
+[c]
+Cu haina albă, ce Tu ne-ai dat,
+Cu doru’n suflet, mai infocat!
+Cu noul nume, care-I purtăm,
+Isuse dulce, Te așteptăm!
+
+[v2]
+Deși e noapte, cu vânt vrăjmaș,
+Simțim pe-aproape, doriții pași.
+Și duhul nostru, cu-adânc suspin,
+Iți spune’n șoaptă, : ”
+Isuse, vin!”
+
+[v3]
+Ce dimineață, fără de nori,
+Va fi în clipa, când Tu cobori!
+Atunci și cerul, Iți va cânta,
+Și-a noastre inimi, spre slava Ta!

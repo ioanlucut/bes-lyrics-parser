@@ -1,0 +1,39 @@
+[title]
+Striga {author: {Alev Caienar}, {rcId: {93157}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Inimă, inimă,
+De ce te necăjești?
+De ce nu vrei să vezi si tu
+Puterea Domnului ?
+
+[c]
+Strigă, strigă!
+Strigă către cer,
+Cu inima înflăcărată, 
+Strigă către El!
+Îngenunchează în rugăciune
+Căiește-te acum
+Începe o viață nouă
+Cu Domnul mergi la drum!
+
+[v2]
+Suflete, suflete
+Mereu ești amăgit
+In lumea asta toata, 
+Pace nu ai găsit
+
+[v3]
+Trupule, trupule
+Spală-te de păcat...
+În sângele, ce-a curs pe cruce
+Ca tu să fii salvat.
+
+[v4]
+Duhul meu, duhul meu
+Ajută Tatăl meu
+Să fie nou, să fie nou
+Plin de Dumnezeu...

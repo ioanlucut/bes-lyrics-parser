@@ -1,0 +1,91 @@
+[title]
+Du-te iona si le spune {author: {Speranța pentru copii}, {rcId: {163028}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c,v8,c,v9,c
+
+[v1]
+In vechime Dumnezeu
+Lui Iona i-a vorbit
+Sa se duca la Ninive
+Poporul razvratit
+Sa transmita un mesaj de la Dumnezeu
+Ca poporul din cetate
+Era foarte rau.
+
+[c]
+/: Du-te Iona si le spune
+Celor de la Ninive
+Ca mai au la dispozitie 40 de zile
+Si Ninive va fi stearsa de pe pamant
+Fiindca Il hulesc pe Domnul Sfant. :/
+
+[v2]
+Dumnezeu e milos
+Satul de pacatos
+Da’ de ce sa ma duc eu, 
+Cu mesajul Lui Dumnezeu ?
+Am sa ma duc undeva
+Departe de Fata Sa
+Ma urc intr-un vas si-o sa fug
+Mmm.la Tars!
+
+[v3]
+Dati-mi o cale jos
+Intr-un loc intunecos
+Ca sa fiu ferit
+Intr-un loc linistit
+Aici eu voi sta
+Dumnezeu nu m-a vedea
+Stau ca la hotel
+Departe de El!
+
+[v4]
+Dumnezeu ce totul stie
+Pe Iona l-a vazut
+Si o furtuna neintalnita
+Pe mare a facut
+Marinarii speriati cu toti s-au intrebat
+Ce oare se intampla si cine-i...vinovat?
+
+[v5]
+Eu sunt vinovat, fiinca am plecat
+Departe de Dumnezeu
+Neascultand mesajul Sau
+Furtuna in loc va sta
+Daca ma veti arunca
+Haideti nu mai stati
+Daca vreti sa fiti salvati.
+
+[v6]
+Si pe Iona-n valul marii marinarii l-au zvarlit
+Domnul a trimis un peste ce l-a inghitit
+Si acum statea in burta Iona, hotelul si-a schimbat
+Statea singur printre alge ca n-a ascultat.
+
+[v7]
+Ah, Domnul meu dulce,
+La fund nu ma duce
+Doamne asculta-ma si scapa-ma de moarte
+Vai ce val oare ?
+Ca o iau la vale
+Vai ce s-a intamplat ?
+Balena m-a varsat!
+Aleluia.
+
+[v8]
+Tare-Ti multumesc!
+Fiindca azi traiesc!
+Tu i-a balena de-aici
+Ca vesnic Ti-oi sluji
+Unde ma duc ?
+De treaba ma apuc
+La Ninive am plecat
+Cu mesajul ce Mi-ai dat!
+
+[v9]
+Am venit eu sa va spun
+Celor de la Ninive
+Ca mai aveti la dispozitie 40 de zile
+Si Ninive va fi stersa de pe Pamant
+Fiindca-L huliti pe Dumnezeul Sfant.

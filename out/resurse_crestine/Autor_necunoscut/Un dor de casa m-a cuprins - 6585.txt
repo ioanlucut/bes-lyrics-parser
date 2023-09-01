@@ -1,0 +1,32 @@
+[title]
+Un dor de casa m-a cuprins {author: {Anonim}, {rcId: {6585}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Un dor de casă m-a cuprins.
+Un dor de patria-mi de sus.
+Și chiar de sunt aici respins,
+Un mic fitil aproape stins,
+/: Voi fii mireasa :/ lui Isus.
+
+[c]
+Iubitul meu ia-mă la Tine.
+Să mă odihnesc la pieptul Tău.
+Să uit de lacrimi și suspine
+/: Pentru vecii :/ să fiu al Tău.
+
+[v2]
+Chiar dacă sunt căzut de tot.
+Batjocorit, scuipat, lovit.
+Urcușu-i greu, chiar greu de tot.
+El mă ridică, nu cad mort,
+/: Pe stânca voi fii :/ ocrotit.
+
+[v3]
+Un dor de casă m-a pătruns.
+Ce nu-l pot stinge sau opri.
+Voi fii cu El in ceruri sus.
+Se va topi lângă Isus.
+/: Voi fii cu El :/ pentru vecii!

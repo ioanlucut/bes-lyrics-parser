@@ -1,0 +1,37 @@
+[title]
+Sa nu te lasi invins de valul vietii {author: {Anonim}, {rcId: {163828}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Să nu te lași învins de valul vieții,
+Fii tare, neclintit, pe stânca ta!
+Chiar dacă vei lupta și-n bezna nopții
+Tu strigă către cer și vei vedea:
+
+[c]
+/: Căci Domnul e cu tine
+Și-ți face numai bine
+Oricât de mare-ar fii necazul tău.
+Rămâi în așteptare
+Că-n graba cea mai mare
+În ajutor îți vine Dumnezeu! :/
+
+[v2]
+De-ți este-ntunecată a ta viață,
+De multe-ngrijorări ești apăsat,
+Să-i spui în rugăciune totu-n taină
+Celui ce mijlocește ne-ncetat.
+
+[v3]
+Oricât de mulți ar spune despre tine
+Cuvinte de ocară și dispreț,
+Tu poartă-i și pe ei în rugăciune
+Și-atuncea biruința ai să vezi.
+
+[v4]
+Să nu te lași trântit când a ta cruce
+Apasă pe-ai tăi umeri foarte greu.
+Și să nu te gândești că n-o poți duce,
+Să fii plin de credință-n valul tău!

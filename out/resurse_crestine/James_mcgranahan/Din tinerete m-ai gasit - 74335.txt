@@ -1,0 +1,41 @@
+[title]
+Din tinerete m-ai gasit {author: {James McGranahan}, {rcId: {74335}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Din tinerețe m-ai găsit,
+Mântuitorul meu.
+Iertare sfântă am primit,
+Isus la tronul Tău.
+
+[c]
+/: În altul eu nu voi găsi
+Depline fericiri,
+Ci numai în Isus Christos,
+Cel ce m-a mântuit. :/
+
+[v2]
+Tot ce-am căutat, eu am aflat,
+Chiar încă și mai mult,
+De când Tu, Doamne, m-ai salvat,
+De pace m-ai umplut.
+
+[v3]
+De fericire n-am știut
+O clipă-n viața mea,
+Până când nu am cunoscut,
+Isus, iubirea Ta.
+
+[v4]
+Asigurat sunt în Isus,
+La bine și la rău,
+El mă ajută ca să cresc
+Mereu în harul Său.
+
+[v5]
+Un dor mai am să pot lucra
+În via Domnului
+La mântuirea altora,
+Spre slava Mielului.

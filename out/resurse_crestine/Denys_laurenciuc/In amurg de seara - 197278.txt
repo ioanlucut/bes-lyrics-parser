@@ -1,0 +1,42 @@
+[title]
+In amurg de seara {author: {Denys Laurenciuc}, {rcId: {197278}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În amurg de seară,
+Te aștept plângând,
+Când încercarea vine,
+Să pot să merg cântând.
+Căci știu că vine clipa,
+Și zorii dimineți,
+Când vom pași în sfânta-Ți cetate-a noii vieți.
+
+[c]
+Paradis, mi-e dor de țara ta,
+Când pe-ale tale plaiuri,
+Cântând noi vom zbura!
+Paradis, acolo-am vrea să fim,
+Și să uitam de tot,
+De plâns, de-amar, de chin!
+
+[v2]
+Te chemăm cu dor,
+Să vii cât mai curând,
+Te-așteaptă toți martirii,
+Te-aștept și eu plângând.
+Te-așteapt-a Ta mireasa,
+Te-așteapt-acel orfan,
+Sa vii să-i duci acasă,
+În Sfântul Tău liman!
+
+[v3]
+Te-aștept chiar dacă Tu,
+Încă zăbovești,
+Curând pe nori de Slava,
+Isus, ai să sosești.
+Ce bucurie mare,
+Va fi în aceea zi,
+Când vom zbura spre ceruri,
+Spre Sfinte bucurii!

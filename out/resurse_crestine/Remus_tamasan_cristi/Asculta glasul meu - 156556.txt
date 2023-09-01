@@ -1,0 +1,41 @@
+[title]
+Asculta glasul meu {author: {Remus Tămășan Cristi}, {rcId: {156556}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: În clipe de necaz și încercare,
+Ruga mea se-nalță către Cer.
+Credința mea stă neclintită-n Tine,
+Nu mă lăsa, Isuse, ca să pier. :/
+
+[c]
+Ascultă glasul meu,
+Te rog, o, Doamne!
+Primește ruga mea,
+Acum Îți cer!
+Ascultă glasul meu,
+Te rog, Isuse,
+Nu mă lăsa,
+Nu mă lăsa să pier!
+/: Ascultă glasul meu,
+Te rog, o, Doamne!
+Primește ruga mea
+Acum îți cer!
+Ascultă glasul meu
+Te rog, Isuse,
+Nu mă lăsa,
+Nu mă lăsa să pier! :/
+
+[v2]
+/: Ca un copil ce plânge și așteaptă
+Ca tatăl să-și întindă mâna sa,
+Dorința mea spre Tine se îndreaptă,
+Ascultă-mă, Isus, în mila Ta! :/
+
+[v3]
+/: Atunci când Cerul întreg stă și ascultă
+Dorința mea ce se înalță-n Sus,
+Eu îmi doresc nespus ca să-mi răspundă
+Stăpânul meu iubit și scump Isus. :/

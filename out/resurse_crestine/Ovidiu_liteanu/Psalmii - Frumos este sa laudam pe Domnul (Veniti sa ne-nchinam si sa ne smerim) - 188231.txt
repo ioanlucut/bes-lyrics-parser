@@ -1,0 +1,37 @@
+[title]
+Psalmii - frumos este sa laudam pe domnul (veniti sa ne-nchinam si sa ne smerim) {author: {Ovidiu Liteanu}, {rcId: {188231}}
+
+[sequence]
+v1,c,v2,c2,c
+
+[v1]
+Frumos este să lăudam pe Domnul
+Și să mărim numele Tău Preaînalte
+/: Să vestim dimineața bunătatea Ta
+Și noaptea credincioșia Ta :/
+
+[c]
+/: Veniți să ne-nchinăm și să ne smerim
+Să ne plecăm genunchiul
+Înaintea Domnului înaintea Domnului
+Făcătorului nostru :/
+/: Veniți să ne-nchinăm și să ne smerim
+Să ne plecăm genunchiul
+Înaintea Domnului, Înaintea Domnului
+Făcătorului nostru :/
+
+[v2]
+Cât de plăcute sunt locașurile tale
+Doamne al Oștirilor
+/: Ferice de cei ce locuiesc în casa Ta
+Căci ei tot mai pot să Te laude :/
+
+[c2]
+/: Ridicați-vă mâinile spre sfântul locaș
+Și binecuvântați pe Domnul :/
+
+[c3]
+/: Binecuvântat să fie Domnul
+Dumnezeul lui Israel :/
+/: Din veșnicie în veșnicie
+Și tot poporul să zică Amin :/

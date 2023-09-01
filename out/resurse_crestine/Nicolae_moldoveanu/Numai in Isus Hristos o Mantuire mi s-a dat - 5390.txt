@@ -1,0 +1,21 @@
+[title]
+Numai in isus hristos o mantuire mi s-a dat {author: {Nicolae Moldoveanu}, {rcId: {5390}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Numai in Isus Hristos o Mantuire mi s-a dat;
+Vina sterge singur El, o Prin sangele sfant varsat.
+
+[c]
+/: Vesnic Isuse, Tu ma conduci o Catre cer, in slava Ta.
+Doamne, ajuta-ma a-Ti urma, o Pana in gloria Ta. :/
+
+[v2]
+Numai in Isus Hristos o Pace vesnic-am gasit;
+Haina alba El mi-a dat o Si-s de pacat mantuit.
+
+[v3]
+Numai El, Isus Hristos, o Ma asteapta-n slava sus;
+Sigur sunt ca, in curand, o Fi-voi in cer cu Isus!

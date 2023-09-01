@@ -1,0 +1,35 @@
+[title]
+Esti ne-ntrecut {author: {Dorin, Andreea Cazacu}, {rcId: {7379}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Tu mucul care fumegă nu-l stingi
+Nici trestia căzută nu o rupi
+Oricât ar fii căzut omul de jos
+Tu îl ridici prieten credincios.
+
+[c]
+Ești ne-ntrecut în bunătate
+Ierți greșuri, patimi și păcate
+Ca Tine nu e nimenea
+/: O, Miel iubit din Golgota. :/
+
+[v2]
+Tu nu disprețuiești un duh zbrobit
+Tu inima rănită n-o rănești
+Te pleci spre cel cu sufletu-amărât
+Căci jertfe ca acestea Tu dorești.
+
+[v3]
+Când stigă Domne un nenorocit
+Chemându-Te să-i vii în ajutor
+Tu îl asculți o Doamne negreșit
+Și-l scapi chiar din gura leiilor.
+
+[v4]
+Dator să-Ți multumesc sunt Domnul meu
+Căci mucul fumegând am fost chiar eu
+Și trestia căzut-acolo jos
+Ai ridicat-o blând Isus Christos

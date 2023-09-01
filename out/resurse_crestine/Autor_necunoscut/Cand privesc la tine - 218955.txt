@@ -1,0 +1,35 @@
+[title]
+Cand privesc la tine {author: {Anonim}, {rcId: {218955}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Când privesc la tine
+Domnul meu iubit
+M-a întreb ce sunt eu
+De mai mântuit
+
+[c]
+/: Fir de praf sunt eu
+Tu ești Dumnezeu
+Tu ești tot in toate
+Tu o domnul meu :/
+
+[v2]
+Viața mea-i un abur
+Fulg purtat de vânt
+Tu ești infinitul
+Tatăl meu prea sfânt
+
+[v3]
+Eu sunt fir de huma
+Jos pe-acest pământ
+Tu domnești deapururi
+Sus in cerul sfânt
+
+[v4]
+Cu ființa-ntreaga
+Ți-e m-a Închin
+Pe deplin al tău sunt
+Tatăl meu divin

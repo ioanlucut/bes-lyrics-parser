@@ -1,0 +1,35 @@
+[title]
+Tot ce am {author: {Florin Ștefan}, {rcId: {158495}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Tot ce am aici, pe-acest Pământ
+E prin bunătatea Ta!
+/: Că am viață și mai pot să cânt,
+Este numai mila Ta! :/
+
+[c]
+/: Tu ești drept, măreț și sfânt,
+Ca Tine nu-i nimeni pe Pământ!
+Bunătatea Ta este pacea mea
+Și nimeni nu poate să mi-o ia! :/
+
+[v2]
+Totul lumea de mi-ar oferi,
+Eu de Tine nu mă las!
+/: Ai fost lângă mine-n orice zi,
+Chiar și-n vreme de impas. :/
+
+[v3]
+Viitorul meu e cunoscut,
+Doamne, chiar de mâna Ta.
+/: Din ziua în care m-am născut
+Ai fost călăuza mea! :/
+
+[v4]
+Tot ce eu aici mult îmi doresc
+Este să Te pot lăuda!
+/: Numele Tău Sfânt să-L preamăresc,
+Să ador puterea Ta! :/

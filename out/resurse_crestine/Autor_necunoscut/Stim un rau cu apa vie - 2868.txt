@@ -1,0 +1,35 @@
+[title]
+Stim un rau cu apa vie {author: {Anonim}, {rcId: {2868}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Știm un râu cu apă vie
+Dinspre tronul Celui sfânt,
+Nu departe într-o țară
+Ca niciunde pe pământ.
+
+[c]
+Lângă râul veșniciei
+Frumos e locul pregătit,
+În curând vom fi acolo
+Cântând osana nesfârșit.
+
+[v2]
+Știm un râu ca o lumină
+Dinspre al cerului palat,
+Peste unda lui cerească
+Tronul vieții stă plecat.
+
+[v3]
+Știm un râu cu val de slavă
+Dinspre marile înălțimi,
+Unde vin să se închine
+Heruvimi și serafimi
+
+[v4]
+Știm un râu unde sosi-vom
+Într-o fericită zi,
+Haine albe și coroane
+Fără merit vom primi.

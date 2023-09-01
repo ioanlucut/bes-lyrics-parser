@@ -1,0 +1,53 @@
+[title]
+Cantarea ingerului gabriel {author: {Nicolae Moldoveanu}, {rcId: {244185}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Plecăciune ție,
+Plecăciune ție,
+/: Fecioară Marie :/
+Căreia ți-a dat,
+Domnul Cel Preanalt
+/: Harul minunat. :/
+
+[c]
+Domnul te arată
+Binecuvântată,
+Fecioară curată.
+Nu te teme dar,
+Tu ai mare har,
+Ca un sfânt altar.
+
+[v2]
+Plecăciune ție,
+Plecăciune ție,
+/: Fecioară Marie, :/
+Căci prin har de Sus,
+Fiu îți va fi-adus,
+/: Să-L numești Isus. :/
+
+[c2]
+Sfânta Lui Domnie
+Mare o să-I fie,
+Și pe veșnicie
+El va fi chemat
+Fiu Celui Preanalt,
+Domn și Împărat.
+
+[v3]
+Plecăciune ție,
+Plecăciune ție,
+/: Fecioară Marie, :/
+Duhul va veni,
+Tatăl Te-a umbri
+/: Fiul te-a slăvi. :/
+
+[c3]
+Plecăciune ție
+Plecăciune ție,
+Fecioară Marie,
+Căci a Celui Sfânt
+Orișice Cuvânt,
+Este legământ.

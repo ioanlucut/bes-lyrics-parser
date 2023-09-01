@@ -1,0 +1,17 @@
+[title]
+Veniti cantati bunatatea lui {author: {Anonim}, {rcId: {5112}}
+
+[sequence]
+v1,c,e
+
+[v1]
+Veniți, cântați bunătatea Lui,
+Veniți, cântați măreția Lui.
+
+[c]
+Pân’ la nori se înalță slava,
+Pân’ la munți credincioșia Lui,
+Ca un zid este dreptatea Lui.
+
+[e]
+Veniți, cântați măreția Lui.

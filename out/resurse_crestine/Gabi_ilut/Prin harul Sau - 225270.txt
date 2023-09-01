@@ -1,0 +1,41 @@
+[title]
+Prin harul sau {author: {Gabi Ilut}, {rcId: {225270}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Zi și noapte mă străduiesc
+Numai bine să-nfăptuiesc
+Omul nou în râvna sa
+Își dorește Legea Ta.
+Omul vechi m-ar trage în jos
+Zeci de scuze îmi dă cu prisos
+Că e greu, că e prea mult
+De Cuvântul Tău s-ascult.
+
+[c]
+/: Domnul meu, prin Harul Său
+Îmi păstrează dragostea
+Iubitor, izbăvitor
+El e totul în viața mea. :/
+
+[v2]
+Nu mă-ngrijorez de nimic
+N-am motive să mă înfric
+Vesel sunt și curajos
+Viața mea este Hristos
+Nu renunț chiar dacă greșesc
+În căință mă regăsesc
+Domnul meu în mila Sa
+Gata este a mă ierta.
+
+[e]
+Dragostea Lui mă inundă
+Grija Lui o simt ceas de ceas
+Izbăvirea Lui e veșnică
+Din orice necaz
+Harul Său mă acoperă
+Și îmi este îndeajuns
+În iubirea Să cea veșnică
+Sunt ascuns.

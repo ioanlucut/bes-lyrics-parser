@@ -1,0 +1,40 @@
+[title]
+Te voi urma (i will follow) {author: {Jon Guerra, Traducere RO}, {rcId: {165504}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c,v5,c,s,c
+
+[v1]
+Când al mării val s-a liniștit
+Simt prezența Ta ce m-a iubit
+/: Sub cerul senin Te voi urma! :/
+
+[v2]
+Când în viața mea, necazuri vin
+Văd cum mă susții cu braț divin
+/: Chiar și în furtuni Te voi urma! :/
+
+[c]
+Eu mă-ncred în ce-mi spui prin al Tău Cuvânt
+Eu mă-ncred pe deplin în Numele-Ți Sfânt
+De e greu sau de-i ușor pe drum
+/: În Tine mă-ncred, cu Tine merg! :/
+
+[v3]
+Când în juru-mi văd, cei răi cum sunt
+Și adesea nu pot să mai cânt
+/: Inima-mi spune: Te voi urma! :/
+
+[v4]
+Când departe sunt de-al meu cămin
+Eu cu Tine merg pe drumul lin
+/: Chiar și prin abis Te voi urma! :/
+
+[v5]
+Când ajunge-voi la-al meu sfârșit
+Și cununi cerești voi fi primit
+Cu Tine, Isus voi locui
+Lângă tronul Tău, în Paradis!
+
+[s]
+După ce și-a scos toate oile, merge înaintea lor; și oile merg după el, pentru că îi cunosc glasul Ioan 10:4

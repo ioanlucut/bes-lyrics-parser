@@ -1,0 +1,35 @@
+[title]
+Imi plang amarul naintea ta {author: {Nicu Chereji}, {rcId: {204408}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Îmi plâng amarul naintea Ta
+Isuse dragă nu mă lasă
+/: Nu spun la nimeni necazul meu
+Mă-ncred în Tine o, Domnul, meu: \
+
+[c]
+Te chem din valuri și din furtuni
+Întinde-mi mâna Isus iubit,
+Căci nimeni altul nu-mi poate da
+Nădejdea pacea și dragostea!
+
+[v2]
+Din zorii zilei când mă trezesc
+Îmi plec genunchii și-ți mulțumesc,
+/: Căci bunătatea-ți de Dumnezeu
+Și azi mă ține prin harul Tău: \
+
+[v3]
+Sub crucea Ta sunt acoperit
+De arzătoare săgeți ferit,
+/: Cu braț puternic Tu mă conduci
+Și apă-mi dai din izvoare dulci: \
+
+[v4]
+Iar când în slavă vei apărea
+De chin și lacrimi eu voi uita
+/: Te voi vedea și-ți voi mulțumi
+Și-a Ta splendoare mă va uimi: \

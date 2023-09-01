@@ -1,0 +1,25 @@
+[title]
+Atotputernic (psalm ) {author: {Teo Family}, {rcId: {225589}}
+
+[sequence]
+v1,b,c,v1,b2,c,b2,b2,c
+
+[v1]
+Pentru ce te întristezi
+Suflete al meu,
+Pentru ce te întristezi
+Și gemi înlăuntrul meu?
+
+[b]
+/: Spui că ești mic,
+Dar Domnul tău e-atotputernic! :/
+
+[c]
+/: Eu mă încred în Dumnezeu
+Căci iarăși Îl voi lăuda.
+/: El e speranța mea
+Și Dumnezeul meu! :/
+
+[b2]
+/: Știu că sunt mic
+Dar Domnul meu e-atotputernic! :/

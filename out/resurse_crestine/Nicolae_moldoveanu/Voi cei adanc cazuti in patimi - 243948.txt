@@ -1,0 +1,41 @@
+[title]
+Voi cei adanc cazuti in patimi {author: {Nicolae Moldoveanu}, {rcId: {243948}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Voi cei adânc căzuți în patimi
+Ce vreți iertarea s-o aflați,
+De șapte ori spălați în lacrimi,
+De Domnul să v-apropiați!
+
+[c]
+Veniți spre El în duh cucernic
+Și-n gând curat de orice fel,
+Căci Dumnezeu e-Atotputernic
+Și-nfricoșat de Sfânt e El!
+
+[v2]
+Voi toți cei care cu credință,
+Vreți Lui să vă mărturisiți,
+De șapte ori în pocăință,
+Să vă spălați și-așa veniți!
+
+[v3]
+Voi care-n dulce părtășie,
+Cu Dumnezeu vreți să intrați
+Cu teamă sfântă-n curăție,
+De șapte ori să vă spălați!
+
+[v4]
+Voi care vreți a Lui vestire,
+În lume s-o mărturisiți,
+De șapte ori pe zi-nsfințire
+Să vă spălați și-apoi vorbiți!
+
+[v5]
+Voi care-n slujba Lui divină,
+Doriți pe veci să vă predați,
+De șapte ori pe zi-n lumină,
+Ființa-ntreagă v-o spălați!

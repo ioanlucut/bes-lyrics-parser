@@ -1,0 +1,17 @@
+[title]
+Isus eu te iubesc {author: {Anonim}, {rcId: {4964}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+/: Isus, eu Te iubesc,
+Eu Te iubesc, Doamne. :/
+
+[v2]
+/: Tată, eu Te iubesc,
+Eu Te iubesc, Doamne. :/
+
+[v3]
+/: Duh Sfânt, eu Te iubesc,
+Eu Te iubesc, Doamne. :/

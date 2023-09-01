@@ -1,0 +1,32 @@
+[title]
+Cina domnului {author: {Alexandru Groza}, {rcId: {192937}}
+
+[sequence]
+v1,c,s,c,v2,c2,s,c2,e
+
+[v1]
+Din depărtări se aude cântarea de laudă lui Dumnezeu
+Spre Tatăl Sfânt se înalță, e Cina de-onoare a Fiului Său!
+
+[c]
+Cuprins de-ntristare, El, Domnul privește cu dragoste la ucenici
+/: O, ce mult eu mi-am dorit ca să fiu cu voi și la sărbătoarea Cinei noi! :/
+
+[s]
+Așa spune Domnul în ceasul cel mai greu: Luați, mâncați, acesta este trupul meu”
+De privești înspre Golgota, acol’ vei vedea trei cruci;
+Și la mijloc e Profetul - parcă nu-L mai recunoști
+Corpul este plin de sânge, totul răni și vânătăi
+De la cine le primise? - De la cei iubiți ai Săi
+
+[v2]
+În chin de moarte se roagă-n grădină, unde singur El a rămas
+Dorm ucenicii cuprinși de-ntristare, ei n-au vegheat nici un ceas!
+
+[c2]
+O, Tată din Ceruri, e prea greu paharul, dar facă-se voia Ta!
+Pentru tine, pentru mine, S-a jertfit la Golgota!
+a purtat El crucea grea
+
+[e]
+Pentru tine, pentru mine, a purtat El crucea Grea

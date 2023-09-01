@@ -1,0 +1,35 @@
+[title]
+Vrednic de slava {author: {Alexandru Groza}, {rcId: {85967}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Ce sărbătoare și ce bucurie,
+E în noaptea sfântă de Crăciun,
+Îngerii cântă, vestesc pe Mesia,
+Pe Pruncul născut, în Betleem.
+Tatăl din ceruri, trimis-a pe Fiul,
+Să ne mântuiască de-al nostru păcat,
+Îngerii cântă, vestesc mântuirea,
+Ce Tatăl prin Fiul ne-a dat.
+
+[c]
+Vrednic de slavă, vrednic de cinste,
+Vrednic de glorie e Dumnezeu!
+Cerul coboară și se închină,
+Pruncului Sfânt în Betleem!
+Vrednic de slavă și adorare e Tatăl,
+Fiul și Duhul Sfânt!
+Când Universul Lui I se-nchină,
+Mă-nchin și eu, laudă-I cânt!
+
+[v2]
+Dulce e vestea ce îngerii cântă,
+Fecioara Maria-a născut pe Isus,
+Smerit în paie, culcat într-o iesle,
+E Mântuitorul, Pruncul Isus!
+Din depărtare, o stea strălucește,
+Pe magi îi conduce la Betleem,
+Cu bucurie, Lui I se-nchină,
+Cu daruri scumpe Îl cinstesc!

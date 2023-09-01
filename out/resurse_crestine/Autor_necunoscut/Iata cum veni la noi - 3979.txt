@@ -1,0 +1,27 @@
+[title]
+Iata cum veni la noi {author: {Anonim}, {rcId: {3979}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Iată cum veni la noi Domnul Isus
+Pruncul Sfânt venit de sus.
+Cum Fiul lui Dumnezeu s-a coborât,
+Ca să ne salveze de iad.
+
+[c]
+/: El s-a născut la miezul nopții
+Aducând cu El lumina.
+El a venit ca zorii zilei,
+Întunericul risipind. :/
+
+[v2]
+Păstorașii L-au căutat și L-au găsit
+Și la iesle s-au închinat.
+Și de-atunci cine pe El L-a căutat
+Prin credință L-au găsit.
+
+[e]
+/: S-a născut, s-a născut
+La miezul nopții :/

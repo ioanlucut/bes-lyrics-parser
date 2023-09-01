@@ -1,0 +1,28 @@
+[title]
+Noi suntem biserica {author: {Ionică Stoica}, {rcId: {56773}}
+
+[sequence]
+v1,e,v2,c
+
+[v1]
+/: E putere, e putere.
+E putere, e putere.
+E putere-n sângele lui Isus Cristos! :/
+
+[e]
+Nici dușmanul, nici dușmanul
+Nici dușmanul, nici dușmanul
+Nu poate să-mi strice viața!
+De ce Pentru că, pentru că:
+În sângele lui Isus Cristos este putere!
+Azi te chemă Dumnezeu, vrea să fii copilul Său.
+Să trăiești pe acest pământ călăuzit de Duhul Sfânt!
+
+[c]
+Noi suntem Biserica, fraților, fraților!
+Noi suntem Biserica, fraților, fraților, fraților!
+
+[v2]
+/: Plin de Duh, plin de Duh,
+Plin de putere, Plin de putere,
+Plin de Duh, plin de putere e Isus! :/

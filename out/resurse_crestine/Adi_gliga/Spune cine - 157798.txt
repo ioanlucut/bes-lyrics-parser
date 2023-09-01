@@ -1,0 +1,21 @@
+[title]
+Spune cine {author: {Adi Gliga}, {rcId: {157798}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Spune cine pune dimineața pe cer,
+Strălucitul soare, nu e mister.
+Spune cine poate, să îți de-a liniștea,
+Când furtuna vine în viața ta.
+
+[c]
+Privește zi de zi către tine,
+Îl strigi la greu, te-aude și vine,
+Când toți te lasă, doar El rămâne,
+Prin El pășești spre ziua de mâine.
+
+[v2]
+Spune cine poate, să-nțeleagă când simți,
+Că în suflet parcă, uneori te stingi.

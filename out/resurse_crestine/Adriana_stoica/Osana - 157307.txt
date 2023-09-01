@@ -1,0 +1,29 @@
+[title]
+Osana {author: {Adriana Stoica}, {rcId: {157307}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În ieslea cu boi și magii Ți-au găsit
+Un loc în care Doamne, pe lume Te-ai născut,
+Și-acolo în căldura grajdului ai stat
+Dar steaua magilor calea le-a arătat.
+
+[c]
+Osana, osana, îngerii cântau
+Osana, osana, și Îl preamăreau,
+Osana, osana, în cer și pe pământ
+Osana, osana, Mesia s-a născut.
+
+[v2]
+Și cei trei magi în grabă, atunci au pornit
+Acolo unde steaua i-a călăuzit,
+În Betleem e locul mult căutat
+Și-acolo în grajd pe Domnul, în iesle L-au aflat.
+
+[v3]
+Tămâie, aur, smirnă, daruri multe ei au adus
+Acolo s-au închinat Pruncului Isus
+Iar astăzi poți și tu să-I dai inima Ta
+Să locuiască-n ea Isus Mesia.

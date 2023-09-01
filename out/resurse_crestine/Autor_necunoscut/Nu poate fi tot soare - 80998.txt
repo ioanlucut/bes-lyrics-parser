@@ -1,0 +1,29 @@
+[title]
+Nu poate fi tot soare {author: {Anonim}, {rcId: {80998}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Nu poate fi tot soare
+Pe drumul către cer.
+/: Nu binele, ci greul,
+Ne-aproie de El. /
+
+[c]
+Privește sus în zare:
+Nu-i cerul tot curat,
+Mai sunt și umbre negre
+/: Și nori învolburați. :/
+
+[v2]
+Nu poate fi tot bine
+Pe drumul către rai.
+/: Doar încercarea spune
+Câtă credință ai. :/
+
+[v3]
+Nu poate fi ea, viața,
+Un gând fără sfârșit.
+/: Doar lacrima sădește
+Făptura-n infinit. :/

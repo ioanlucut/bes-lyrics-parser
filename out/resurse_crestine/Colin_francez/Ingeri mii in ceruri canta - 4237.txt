@@ -1,0 +1,32 @@
+[title]
+Ingeri mii in ceruri canta {author: {Colin francez}, {rcId: {4237}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Îngeri mii din ceruri cântă
+Pe deasupra văilor
+Munții bucuroși repetă
+Armonia, cântul lor.
+
+[c]
+/: Glorie, S-a născut Mesia. :/
+
+[v2]
+Ce-i cu bucuria voastră?
+Voi păstori, ce auziți?
+Ce anunță ceru-n slavă?
+Ce-ascultați așa uimiți?
+
+[v3]
+Pruncul sfânt cu chip de soare
+E nespus de luminos.
+Sfinți părinți cu adorare
+Îl veghează pe Hristos.
+
+[v4]
+Vino azi la ieslea sfântă
+Laudă să-I aduci smerit
+Viața ta doar Lui predată
+Pentru El e-un dar dorit.

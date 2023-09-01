@@ -1,0 +1,29 @@
+[title]
+Iubirea iarta totul {author: {Beniamin Pop}, {rcId: {83303}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cand nu mai ai speranta
+Pe acest pamant
+Hai vino la Isus
+La Domnul nostru sfant.
+
+[c]
+Iubirea iarta totul,
+Iubirea-i Dumnezeu
+Ea va ramane pururi
+Cel mai sfant poem.
+
+[v2]
+De cauti mangaiere
+Si nimeni nu ti-o da
+Grabeste-te de vino
+Te cheama Dumnezeu.
+
+[v3]
+Lasa-ti azi trecutul
+Si-n dar El iti va da
+Iertare pace sfanta
+Si liber vei pleca.

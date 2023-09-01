@@ -1,0 +1,41 @@
+[title]
+O nu-i de-ajuns credintei {author: {Nicolae Moldoveanu}, {rcId: {246306}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+O, nu-i de-ajuns credinței
+Că m-am predat cândva,
+Se cere pân-Ia moarte
+Să nu mă las de ea.
+
+[c]
+O, nu-i de-ajuns nădejdii
+Că m-am predat să lupt,
+Ea trebuie să-mi crească
+Mai tare, ne-ntrerupt.
+
+[v2]
+O, nu-i de-ajuns iubirii
+Că ei m-am dăruit,
+Ci vasul meu s-o poarte
+Mai rodnic si sfințit.
+
+[c2]
+Și din adâncul vieții,
+Spre ardere de tot,
+Tot răul ce e-n mine,
+Și binele să-l scot.
+
+[v3]
+În setea nemaistinsă,
+De-nalt și de frumos,
+Să mi Ie-aduc Luminii
+Prinos după prinos.
+
+[c3]
+Să mai păstrez în mine,
+Doar scrumul lor cel sfânt
+Ca semn al ascultării,
+Promisă-n legământ.

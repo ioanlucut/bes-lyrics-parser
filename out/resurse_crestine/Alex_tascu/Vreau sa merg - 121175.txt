@@ -1,0 +1,29 @@
+[title]
+Vreau sa merg {author: {Alex Tascu}, {rcId: {121175}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+/: Vreau să merg de-acum
+Cu Tine pe-al vieții drum
+Vreau să lupt, să Te-ascult,
+Pe Tine Domn Preasfânt :/
+
+[v1]
+/: Din nou am greșit, din nou am rănit
+Mă simt cu sufletul zdrobit...
+Coboară acum, în inima mea
+Ia, Te rog, povara mea! :/
+
+[v2]
+/: Mereu am privit, mereu am fugit
+Și-am fost un suflet chinuit.
+M-ai ridicat și m-ai învățat
+Sa merg cu Tine neîncetat :/
+
+[v3]
+/: Iar în urma mea
+Nu mai vreau să las dezamăgiri!
+Prin Duhul Sfânt mă voi lupta
+Să fiu mai bun! :/

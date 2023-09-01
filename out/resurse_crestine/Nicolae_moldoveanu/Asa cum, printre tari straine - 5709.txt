@@ -1,0 +1,41 @@
+[title]
+Asa cum printre tari straine {author: {Nicolae Moldoveanu}, {rcId: {5709}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Asa cum, printre tari straine,
+Il curma dorul pe-un pribeag
+Ce-asteapta a-si vedea cu bine
+Ce-n tara lui i-a fost mai drag,
+
+[c]
+Asa e dorul nost’ ce canta
+Dar e cu mult mai arzator
+Ca sa-Ti vedem toti fata blanda,
+/: Al vietii noastre Rascumparator. :/
+
+[v2]
+Asa cum plange ghiocelul,
+Cand iarna nu mai ia sfarsit,
+Ca sa zambeasca, mititelul,
+La Tatal care l-a zidit,
+
+[v3]
+Precum doreste ciocarlia
+Sa se inalte pana-n nor,
+Ca sa vesteasca veselia,
+Plugarul ca sa aiba spor,
+
+[v4]
+Precum doreste-un cerb izvorul
+Sa-si racoreasca setea sa
+Si, toamna, cum ar vrea cocorul
+Sa-si vada iarasi patria,
+
+[v5]
+Azi, doru-acesta vrea-mplinire;
+Nascut e dintr-un zel sublim,
+Ca, la mareata Ta rapire,
+In carele de foc, sa fim.

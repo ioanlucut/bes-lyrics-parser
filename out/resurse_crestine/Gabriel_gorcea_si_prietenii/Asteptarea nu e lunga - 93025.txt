@@ -1,0 +1,29 @@
+[title]
+Asteptarea nu e lunga {author: {Gabriel Gorcea și prietenii}, {rcId: {93025}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Așteptarea nu e lungă,
+Domnul va apărea.
+Roagă-te și ascultă,
+Fii gata spre-a-L întâmpina!
+
+[c]
+Priviți spre ceruri:
+Domnul vine!
+/: Ești pregătit să zbori și tu
+spre zările senine ? :/
+
+[v2]
+Sunt multe greutăți pe cale
+Și multe-obstacole apar.
+Așteaptă izbăvirea,
+Domnul vine iar!
+
+[v3]
+E zbucium pe marea furtunoasă,
+Catargul este frânt.
+Mai luptă și mai speră,
+Nu te da bătut!

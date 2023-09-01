@@ -1,0 +1,43 @@
+[title]
+Buna sara {author: {Speranța și prietenii}, {rcId: {100958}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Bună seara oameni buni
+Am venit să colindăm,
+Am venit cu bucurie
+Gânduri bune să urăm.
+
+[c]
+Că-ntr-o sară că aceasta
+S-o născut Isus Hristos
+Pe pământ la oameni o venit
+Că-ntr-o sară că aceasta
+S-o născut Isus Hristos
+Cerul cu pământul s-o unit.
+
+[v2]
+Bună seara oameni buni
+Am venit din depărtare
+Am venit cu drag la voi
+Să v-aducem vestea mare.
+
+[v3]
+Bună seara oameni buni
+Vă dorim doar sănătate
+Să iubiți chiar pe dușmani
+Să umblați după dreptate.
+
+[v4]
+Bună seara oameni buni
+Pe Isus să ÎL slujiți
+Depărtându-vă de rău
+Să fiți pururi oameni sfinți.
+
+[v5]
+Bună seara oameni buni
+De-aici mergem mai departe
+Vrem cu drag și noi să ducem
+Vestea bună-n alte sate.

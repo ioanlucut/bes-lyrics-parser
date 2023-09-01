@@ -1,0 +1,41 @@
+[title]
+Ajuta-ma {author: {Johnny Daraban}, {rcId: {194996}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Ajută-mă să nu mă las,
+Să nu mă las de Tine,
+Urmând cu drag al Tău sfânt glas,
+S-ajung în cer la Tine!
+
+[c]
+Ajută-mă să fiu smerit,
+Când totu-mi merge bine
+/: Și să rămân în al Tău har,
+Urmându-Te pe Tine. :/
+
+[v2]
+Ajută-mă să nu cârtesc,
+Când încercarea vine,
+Ci să rămân încredințat
+Că Tu ești lângă mine.
+
+[c2]
+Ajută-mă, când sunt lipsit,
+Să mă încred în Tine
+/: Și să rămân mulțumitor,
+Slăvintu-Te pe Tine. :/
+
+[v3]
+Ajută-mă, pân’ la sfârșit,
+Să stau în adorare
+Și să te laud nencetat,
+Că Tu ești al meu Soare.
+
+[c3]
+Când alergarea voi sfârși,
+Primește-mă la Tine
+/: Și fii Tu bunul meu Cel bun
+Să fiu pe veci cu Tine. :/

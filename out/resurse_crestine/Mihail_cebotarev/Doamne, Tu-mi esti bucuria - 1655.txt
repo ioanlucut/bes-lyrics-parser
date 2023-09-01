@@ -1,0 +1,41 @@
+[title]
+Doamne tu-mi esti bucuria {author: {Mihail Cebotarev}, {rcId: {1655}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Doamne, Tu-mi ești bucuria
+Pacea sufletului meu
+Numai prin a Ta Iubire
+Astăzi sânt copilul Tău
+Cum aș putea să nu fiu vesel
+Și să nu te preamăresc
+Pentru jertfa Ta, Isuse
+Te slăvesc.
+
+[c]
+/: Iubesc pe Isus, iubesc pe Isus
+Cum să nu-L slăvesc pe Domnul meu
+La Golgota s-a jertvit pe cruce
+Iubesc pe Isus și-i voi cânta mereu. :/
+
+[v2]
+Când sânt întrebat de oameni
+De ce eu tot cânt mereu
+Eu spun despre Tine, Doamne
+Că Tu ești Păstorul meu
+Isus mi-ascultă rugăciunea
+Și-mi mângâie inima
+Eu îl voi lăuda totdeauna
+În viața mea.
+
+[v3]
+Nu sta trist o frate dragă
+Ești iubit de Dumnezeu
+El te-așteaptă, vino degrabă
+Azi, sa fii copilul Său
+El îți va da comori de pace
+Cerul plin de bucurii
+Si o Iubire fără margini
+În veșnicii.

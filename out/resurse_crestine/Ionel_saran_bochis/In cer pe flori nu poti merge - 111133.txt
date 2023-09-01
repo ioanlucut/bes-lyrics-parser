@@ -1,0 +1,41 @@
+[title]
+In cer pe flori nu poti merge {author: {Ionel Saran Bochis}, {rcId: {111133}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+În cer pe flori nu poți merge
+Cind viața alții si-au jerfit
+Și urmand pe Domnul Sfânt
+Ei au trait pe-acest pamînt.
+
+[c]
+/: Pentru a lui Isus chemare
+Au fost dați la fiare
+Si rabdind hula si-ocara
+Ei viața si-au trait :/
+
+[v2]
+Te intreabă-acuma frate
+Și tu soră cum trăești
+Ai tu-acuma legămîntul
+Al Duhului cel Sfint primit
+
+[c2]
+/: Dacă nu veghezi pe cale
+Și te-abați pe căi murdare
+Vai va fi de tine frate
+El nu te va mai cunoaște :/
+
+[v3]
+Hai cu totii sa venim
+Și sa nu ne mai tot barfim
+Caci vremea e pe sfirsite
+În dragoste noi sa trăim
+
+[c3]
+/: Chiar dacă pe-această lume
+Vom răbda multe suspine
+Nu uita ca pentru tine
+Isus El mai plange :/

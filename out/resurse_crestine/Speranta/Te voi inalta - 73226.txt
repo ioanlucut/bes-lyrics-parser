@@ -1,0 +1,41 @@
+[title]
+Te voi inalta {author: {Speranța}, {rcId: {73226}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+/: Te voi înălța o, Doamne,
+Te voi binecuvânta
+Și vreau să- ți dăruiesc
+Pe veci inima mea. :/
+
+[c]
+/: Inima mea îți predau
+O, Doamne doar Ție.
+Inima mea îți dăruiesc
+Pentru vecie. :/
+
+[v2]
+/: Te voi înălța o, Doamne,
+Te voi binecuvânta
+Întotdeauna vreau
+Să fac doar voia Ta. :/
+
+[c2]
+/: Voia Ta să fie,
+Doamne-n viața mea.
+Să-mplinesc voia Ta,
+Nu voia mea. :/
+
+[v3]
+/: Te voi înălța o, Doamne,
+Te voi binecuvânta
+Vreau să stau pe veci
+De veci la umbra Ta :/
+
+[c3]
+/: La umbra Ta,
+La umbra aripilor Tale.
+La umbra Ta, la umbra
+Ta găsesc salvare. :/

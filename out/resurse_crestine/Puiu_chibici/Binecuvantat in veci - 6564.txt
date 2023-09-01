@@ -1,0 +1,53 @@
+[title]
+Binecuvantat in veci {author: {Puiu Chibici}, {rcId: {6564}}
+
+[sequence]
+v1,c,v2,c2,c3,v3,c4,c5
+
+[v1]
+Binecuvântat în veci
+Să fii, Doamne, stânca mea,
+Binefăcătorul meu,
+În încercarea cea mai grea.
+
+[c]
+/: Scutul meu de adăpost,
+Numai Tu, Doamne, mi-ai fost,
+De aceea-Ți voi cânta,
+Doamne, cetățuia mea. :/
+
+[v2]
+Tu asupra mea veghezi
+Și îmi știi umblarea mea,
+Zi de zi mă cercetezi
+Și îmi cunoști inima.
+
+[c2]
+Binecuvântat să fii,
+Stânca mea din veșnicii,
+Soare fără de apus,
+Fii lăudat în veci, Isus.
+
+[c3]
+Să fii-n veci glorificat,
+Domnul meu Cel minunat,
+Soare blând și luminos,
+Fii slăvit, Isus Hristos.
+
+[v3]
+Gura mea Te va lăuda
+Cât viață voi avea,
+Tu, izbăvitorul meu,
+Sfânt și mare Dumnezeu.
+
+[c4]
+Înaintea Ta mă-nchin,
+Salvatorul meu divin.
+Pentru toate Te slăvesc,
+Te măresc și-Ți mulțumesc.
+
+[c5]
+Lăudați-L și cântați,
+Voi, fii ai Sionului,
+Și cu dragoste lucrați
+Azi în via Domnului.

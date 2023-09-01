@@ -1,0 +1,30 @@
+[title]
+Multumim si laudam pe domnul {author: {Anonim}, {rcId: {224266}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mulțumim și lăudăm pe Domnul
+Dătătorul noii legi de har
+Priveghem să nu ne prindă somnul
+Ci s-aducem jertfele pe-altar
+
+[c]
+Lăudăm și-I mulțumim
+Dumnezeului sublim
+El ni-i Tată bun și sfânt,
+Și în cer și pe pământ
+El ni-i Tată bun și sfânt
+
+[v2]
+Pe pământ ni-i dată o chemare
+Ca să fim poporul minunat
+Al lui Dumnezeu și slava-I mare
+S-o vestim oriunde ne-ncetat
+
+[v3]
+Laudă și-adâncă mulțumire
+Tatălui I-aducem prin Hristos
+Care ne-a adus o mântuire
+Veșnică și-un har tot mai frumos

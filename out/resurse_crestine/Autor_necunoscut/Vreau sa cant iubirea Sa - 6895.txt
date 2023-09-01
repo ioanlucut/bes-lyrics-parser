@@ -1,0 +1,32 @@
+[title]
+Vreau sa cant iubirea sa {author: {Anonim}, {rcId: {6895}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Vreau să cânt iubirea Sa ne-ncetat
+Și dragostea ce-n inimă a revărsat.
+Vreau să cânt, să cânt, să spun
+Dumnezeu e-atât de bun
+Să rămân cu El mereu doresc!
+
+[c]
+Minunat! Ce minunat
+E-al meu Împărat!
+Sunt atât de fericit
+Că Isus m-a mântuit!
+
+[v2]
+Vreau să cânt iubirea Sa ne-ncetat,
+Pe Golgota răstignit m-a salvat.
+Vreau să cânt, să Îl slăvesc
+Și să-i spun că Îl iubesc
+Să rămân cu El mereu doresc!
+
+[v3]
+Vreau să cânt iubirea Sa ne-ncetat,
+Singur niciodată El nu m-a lăsat.
+El de sus m-a privit
+Și de mine s-a-ngrijit,
+Să rămân cu El mereu doresc!

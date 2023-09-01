@@ -1,0 +1,33 @@
+[title]
+Domnul se va pogori din ceruri {author: {Mihail Dimitriu}, {rcId: {7111}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Creștinii au o sfântă mângâiere:
+Că Domnul se va-ntoarce să îi ia,
+Să-i ducă în Împărăția Sa,
+Așa cum le-a promis și-i a Sa vrere.
+
+[c]
+De-atunci, cu Domnu-or fi neîncetat,
+În trup de slavă sfânt, imaculat.
+
+[v2]
+Sfinți soli, cu trâmbița răsunătoare,
+Vor fi trimiși de Domnul pe Pământ,
+Ca pe aleșii Săi, ce-au alb veșmânt,
+Să-i strângă-n sfânta Sa unificare.
+
+[v3]
+Și Domnul Se va pogorî din ceruri,
+Pe nor va sta, și-L vor întâmpina
+Sfinții, care vor fi Mireasa Sa,
+Care, de-atunci, vor fi cu El de-a pururi.
+
+[v4]
+Cei ce vor fi răpiți la Domnu-n slavă,
+Sunt doar aceia ce-au rămas în El,
+Care trăiesc de-acum ca Sfântul Miel,
+Și răspândesc mireasma Sa suavă.

@@ -1,0 +1,61 @@
+[title]
+Cand sunt cu el {author: {Continental}, {rcId: {244131}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Vin și momente pline de îndoieli:
+„
+Oare Vede, Înțelege, mai e Credincios?”
+Se-aude, parcă, întrebarea: „
+Să te scape, oare poate?”
+Din nou și din nou.
+Dar privind în urmă:
+
+[c]
+Văd marea despicată
+Și trec ca pe uscat
+Sunt cu El!
+Și nu mă tem!
+Ooo!
+Mă văd umblând prin vale,
+Pășind pe munți înalți
+Și mă-ncred când sunt cu El!
+Mă încred când sunt cu El!
+Văd marea despicată
+Și trec ca pe uscat
+Sunt cu El!
+Și nu mă tem!
+Ooo!
+Mă văd umblând prin vale,
+Pășind pe munți înalți
+Și mă-ncred când sunt cu El!
+Mă încred când sunt cu El!
+/: Văd marea despicată
+Și trec ca pe uscat.
+Sunt cu El!
+Și nu mă tem!
+Ooo!
+Mă văd umblând prin vale,
+Pășind pe munți înalți
+Și mă-ncred când sunt cu El! :/
+/: Mă încred când sunt cu El! :/
+
+[v2]
+Sunt voci ce vin să îmi șoptească:
+„
+Ești uitat, ești prea departe să fii ajutat!”
+Dar eu știu în Cine am crezut,
+Promisiunea Lui vreau s-o ascult:
+„
+Nu ești singur, sunt cu tine!”
+Și mă-ncred!
+
+[e]
+Eu știu că poate,
+Știu că vrea.
+Singur nu mă va lăsa!
+Ce am văzut cu ochii mei
+Nicicând nu voi uita!
+Privind în urmă:

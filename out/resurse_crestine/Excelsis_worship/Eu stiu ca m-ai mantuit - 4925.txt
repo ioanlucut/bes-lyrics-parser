@@ -1,0 +1,27 @@
+[title]
+Eu stiu ca m-ai mantuit {author: {Excelsis Worship}, {rcId: {4925}}
+
+[sequence]
+v1,c,e
+
+[v1]
+Eu știu că m-ai mântuit,
+Prin sânge sfânt m-ai iertat.
+Doamne, cred, da, eu cred!
+Toată rușinea mi-ai luat,
+Isus, Tu m-ai vindecat.
+Doamne, cred, da, eu cred!
+
+[c]
+Pe-un steag voi scrie:
+”
+Hristos moartea a înfrânt!”
+
+[e]
+/: Domnul meu e viu! :/ x4
+
+[c2]
+Mi-ai luat povara,
+Vreau să Te-nalț
+Și-n casa Ta am să aștept
+Să văd venirea Ta.

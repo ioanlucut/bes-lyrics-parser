@@ -1,0 +1,37 @@
+[title]
+In bratul tau pace am gasit (doamne eu n-am meritat dar tu mana mi-ai luat) {author: {Gabriel Buzguta}, {rcId: {222334}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+În brațul Tău pace am găsit
+Când eram trudit și dezamăgit
+Când voiam Doamne să îți spun
+Cât de obosit și gol am venit
+/: Când vina mea apăsa cumplit
+Doamne m-ai primit :/ 2X
+
+[c]
+/: Doamne eu n-am meritat
+Dar Tu mâna mi-ai luat
+Și mi-ai spus cu drag mereu, copilul Meu :/
+/: Doamne eu n-am meritat
+Dar Tu mâna mi-ai luat
+Și mi-ai spus cu drag mereu, copilul Meu :/
+/: Doamne eu n-am meritat
+Dar Tu mâna mi-ai luat
+Și mi-ai spus cu drag mereu, copilul Meu :/
+
+[v2]
+Merg spre cer, Doamne zi de zi
+Și când nu-nțeleg, mă încred în Tin’
+Pas cu pas, voi înainta
+Tu veghezi mereu, pe cărarea mea
+/: Sunt ocrotit și în brațul Tău
+Pace am găsit :/ 2X
+
+[e]
+/: Tu ești Tată, eu sunt fiu
+Creatorul Divin
+Cu iubire m-ai creat, îți aparțin :/ 2X

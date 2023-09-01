@@ -1,0 +1,17 @@
+[title]
+Este isus domnul isus {author: {Anonim}, {rcId: {4917}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Este Isus, Domnul Isus,
+Dă-I Lui laudă, cinste și glorie, Domnului Isus.
+
+[c]
+/: Aleluia,
+Aleluia :/
+
+[v2]
+În fața slavei Lui ridică-ți mâinile,
+Dă-I Lui laudă, cinste și glorie, Aleluia.

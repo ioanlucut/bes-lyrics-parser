@@ -1,0 +1,51 @@
+[title]
+Judecata {author: {Nicu Wagner}, {rcId: {109754}}
+
+[sequence]
+v1,c,v2,c2,v3,c,c2
+
+[v1]
+Se-aud tot mai tare trompete ce sună;
+Și îngeri în cete, văzduhul străbat
+Oceane de oameni, în șir, se adună
+La tronul dreptății cu capul plecat.
+Din fața Celui de pe tronul domniei
+Pământul și cerul cu teamă dispar,
+Se văd în picioare toți morții urgiei
+Cu înfricoșare ’nainte-i apar.
+
+[c]
+/: Dar vai prin ce groază, durere și plânset
+Primesc mult sentința, strigând disperați,
+C-au fost scrise toate și deci după fapte,
+De Cel ce-i dreptate, sunt deci, judecăți. :/
+Dar vai prin ce groază, durere și plânset
+Primesc mult sentință, strigând disperați,
+C-au fost scrise toate și deci după fapte,
+De Cel ce-i dreptate, sunt deci, judecați.
+
+[v2]
+A morții sălașuri și moartea și marea
+Își dau înapoi morții ce i-au avut,
+Sunt: scalvii, stăpânii, ostașii și plebea
+Cezarii și regii ce-au fost în trecut.
+Și necredincioșii, toți prigonitorii
+Sutașii, profeții, bogății, atei,
+Se văd îngroziți și-umiliți dictatorii,
+Ce-au vrut proslăvire, crezând că sunt zei.
+
+[c2]
+/: Și cărți sunt deschise, și-a vieții Carte
+Ei sunt judecăți după fapte pe loc
+Degeaba se-nchina cerșind milă-n parte,
+Oricine nu-i scris, merege-n iazul de foc. :/
+Și cărți sunt deschise, și-a vieții Carte
+Ei sunt judecăți după fapte pe loc
+Degeaba se-nchina cerșind milă-n parte,
+Oricine nu-i scris, merege-n iazul de foc.
+
+[v3]
+Vai cum ar întoarce din nou timpul vieții,
+Mai toți condamnații, dar e prea târziu.
+Cu Deavolul, moartea, profetul miciunii,
+Se-ncheie cu râul. Rămâne ce-i viu.

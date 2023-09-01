@@ -1,0 +1,33 @@
+[title]
+Hai somn usor {author: {Nicolae Moldoveanu}, {rcId: {244404}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Hai, somn ușor, iubit odor,
+Căci blând de Sus, de Ia Isus,
+Vin fără pași, dragi îngerași,
+Să-ți cânte lin, în somn senin!
+
+[c]
+Nani, nani, nani, nani,
+Dulce crin, dor senin!
+
+[v2]
+Hai somn ușor, iubit odor,
+Iubirea mea, deasupra ta,
+Se va ruga, să poți avea,
+În leagăn lin, un somn senin!
+
+[v3]
+Hai somn ușor, iubit odor,
+Al nostru Domn, să-ți fie-n somn,
+Mângâietor, ocrotitor,
+S-ai somn senin în leagăn lin!
+
+[v4]
+Hai somn ușor, iubit odor,
+Să crești așa, cum Domnul vrea,
+Fiu credincios, al lui Hristos,
+Cu suflet lin și Cer senin!

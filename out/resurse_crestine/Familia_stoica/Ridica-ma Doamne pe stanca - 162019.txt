@@ -1,0 +1,35 @@
+[title]
+Ridica-ma doamne pe stanca {author: {Familia Stoica}, {rcId: {162019}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ridică-mă Doamne pe stâncă,
+Eu singur nu mă pot ridica,
+Te rog întărește-mi Tu pașii,
+Ca să pot merge pe calea Ta.
+
+[c]
+Din groapă Tu mai scos, sunt tare bucuros
+Mereu Te voi slăvi, Isus Christos.
+Din groapă Tu mai scos și astăzi cânt voios
+Mereu Te voi slăvi, Isus Christos.
+
+[v2]
+În gură mi-ai pus o cântare,
+O laudă spre slava Ta,
+Numai Tu m-ai scăpat de pierzare,
+Tu mi-ai dat în dar mântuirea.
+
+[v3]
+Mă-nchin și cânt pentru Tine,
+Domnul meu Minunat și Slăvit,
+M-ai iubit Și-ai răbdat pentru mine,
+Vina mea cu viața Ta Tu-ai plătit.
+
+[v4]
+Ridică-mă Doamne pe stâncă,
+Ține-mă lângă Tine mereu,
+Să nu cad de pe Calea cea Sfântă,
+Biruința să-mi dai când mi-e greu.

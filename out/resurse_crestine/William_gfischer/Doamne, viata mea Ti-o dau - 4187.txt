@@ -1,0 +1,45 @@
+[title]
+Doamne viata mea ti-o dau {author: {William G.Fischer}, {rcId: {4187}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Doamne, viața mea ți-o dau!
+Pe deplin eu mă predau!
+Mă condu Tu pas cu pas,
+Ziua, noaptea-n orice ceas,
+
+[c]
+/: Toată energia mea
+Pun la dispositia Ta!
+Inima umple-o de foc!
+Asta, Doamne, eu te rog! :/
+
+[v2]
+Ale mele mâini le ia
+Să lucreze-n via Ta!
+Și picioarele la fel
+Să-ți urmeze că un miel.
+
+[c2]
+/: Aurul și argintul,
+Inima și sufletul,
+Ia-le-n stăpânirea Ta,
+Unde singur vei trona! :/
+
+[v3]
+Libertatea-mi ți-o jertfesc!
+Tot ce-i bun îți dăruiesc!
+Mintea va gândi mereu
+Ne-ncetat în lucrul Tău,
+
+[c3]
+/: Doamne, eu te rog acum,
+Neavând nimic mai bun,
+Să primești iubirea mea,
+Ca în veci să-ți pot cânta! :/
+/: Glasul meu sfințește-l Tu,
+Să-Ți servească cu dor viu,
+Limpezește-l, fă-l curat,
+Ca să-Ți cânte ne-ncetat! :/

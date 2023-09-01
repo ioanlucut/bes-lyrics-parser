@@ -1,0 +1,36 @@
+[title]
+Doresti pe domnul sa-l vezi cand vine? {author: {Anonim}, {rcId: {151243}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Dorești pe Domnul să-L vezi când vine?
+Oare pentru El lucrezi acuma?
+Păcatele le-ai lăsat și te afli acum salvat?
+Să te afle El curat când vine!
+
+[c]
+Când vine-n slava Sa
+Toți, o ce bucurie vom avea!
+Noi pe Domnul prețuim
+De trăim sau de murim
+Și în glorie dorim ca să fim!.
+
+[v2]
+Aflat-va-n adevăr El atunci?
+Privind cu ochi spre cer tot mereu?
+Pregătit-ai în ascuns candela cu-ulei de-ajuns
+Ca să-ntâmpini pe Mire când vine
+
+[v3]
+Afla-te-va El curat oare atunci?
+Ești curățit de păcat chiar acum?
+Adevărul, credința, mila, pacea, iubirea
+Duhul sfânt e-averea ta acuma?
+
+[v4]
+O ce durere va fi, când vine
+Mulți la stânga s-or trezi când vine!
+De trăim făr´ Dumnezeu păcătuind tot mereu
+Vom ajunge-n chinul greu când vine!

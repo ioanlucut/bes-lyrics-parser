@@ -1,0 +1,29 @@
+[title]
+Te laudam pe tine domnul nostru mare {author: {Nicolae Moldoveanu}, {rcId: {240668}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Te lăudăm pe Tine, Domnul nostru mare
+Te lăudăm pe Tine, Dumnezeu Preasfânt,
+Te lăudăm, smeriți, prin viață și cântare,
+Te lăudăm, oricând și-oriunde pe pământ.
+
+[c]
+Slavă-Ți cântă oștile de îngeri sus,
+Ție, Mierl Preasfant, Mântuitor Isus
+Slavă Îți aducem noi de pe pământ
+Pentru harul mântuirii noastre, sfânt.
+
+[v2]
+Te lăudăm, pentru deplina Ta jertfire,
+Te lăudăm, pentru izvorul Tău de har,
+Te lăudăm, pentru măreață mântuire,
+Te lăudăm, căci ne-ai adus-o nouă-n dar.
+
+[v3]
+Te lăudăm, pentru slavita-mpărăție,
+Pe care Tu ne-ai pregătit-o să ne-o dai,
+Te lăudăm, și-Ți cânta o veșnicie,
+Căci ne-ai iubit și ne-ai deschis eternul rai.

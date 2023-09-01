@@ -1,0 +1,42 @@
+[title]
+Se-aude o chemare o trambita rasuna {author: {Dionisie Giuchici}, {rcId: {221656}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Se-aude o chemare o trambita rasuna
+E vremea implinirilor tarzii.
+E glasul care-aduna in vremea de pe urma,
+El cheama pe parinti si pe copii.
+
+[c]
+Veniti, veniti spre Domnul rasuna in tot locul
+Cantarea Harului, cantati maretul Har!
+Si pieptul vostru arda cuprinsi de-a Lui iubire,
+Sa nu se stinga focul pe sfantul Lui altar!
+
+[v2]
+Cel slab sa fie tare, ridica-se-n picioare!
+Si cel ce schiopateaza fie-adus
+Si chiar fara de minte de s-or gasi pe cale,
+”
+Ei nu vor rataci!” Domnul a spus!
+
+[c2]
+Culegeti si ranitii si pusi pe dromadera,
+Nici unul nu ramana din cei porniti spre cer!
+Chiar daca-naintarea va fi tot mai inceata,
+Sa nu-ti astupi urechea la glasuri care pier!
+
+[v3]
+Sa nu priviti la fete si nici la neputinte
+Nu va uitati la cat e de cazut...
+De ai vreo indurare spre cel ce vrea iertare
+Tu sa-i intinzi o mana, nu-l lasa!
+
+[c3]
+Voi inimi intarite taria voastra fie
+Dovada e de sus caci Domnul v-a primit
+Si nici o alta soapta sa nu va taie calea
+Sa nu se stinga focul pe-altarul cel sfintit!

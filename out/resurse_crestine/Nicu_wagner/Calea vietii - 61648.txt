@@ -1,0 +1,35 @@
+[title]
+Calea vietii {author: {Nicu Wagner}, {rcId: {61648}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Către rai e doar o cale,
+Calea sfânt-a lui Isus.
+Ea începe de la cruce
+Și sfârșește-n ceruri sus.
+
+[c]
+Vino azi, vino azi pe calea vieții,
+Tu, ce azi prin lume treci.
+Când apare veșnicia,
+/: Spune-mi, :/ unde-ai s-o petreci ?
+
+[v2]
+Cei ce merg pe-această cale
+Poartă cruci; adeseori,
+Nedreptăți și suferințe
+Cu batjocuri și ocări.
+
+[v3]
+Lasă calea largă astăzi
+Cu păcate și plăceri.
+Ea te duce la pierzare
+Și la veșnice dureri.
+
+[v4]
+Nu se poate-ajunge-n ceruri
+Fără a fi neîncercat,
+Dar trec și furtuni și vânturi;
+Ce te-așteaptă-i minunat.

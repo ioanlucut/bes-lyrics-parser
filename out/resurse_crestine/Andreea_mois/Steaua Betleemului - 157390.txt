@@ -1,0 +1,23 @@
+[title]
+Steaua betleemului {author: {Andreea Mois}, {rcId: {157390}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Peste cerul înghețat, pe pământu-ntunecat,
+O Lumină s-a ivit.
+E lumina Domnului, steaua Betleemului,
+E Mesia întrupat.
+
+[c]
+/: E Dumnezeu, e Dumnezeu.
+A venit pe pământ
+Slavă, slavă, să-I cântăm
+O veșnică viață-n El avem. :/
+
+[v2]
+Vine din mărirea Sa, se coboară Dragostea,
+Să ne-aducă viață-n dar.
+Magi și îngeri cântă-n cor, Pruncului Mântuitor,
+Glorie, aleluia!

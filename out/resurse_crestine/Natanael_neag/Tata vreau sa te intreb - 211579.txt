@@ -1,0 +1,60 @@
+[title]
+Tata vreau sa te intreb {author: {Natanael Neag}, {rcId: {211579}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+/Tata vreau sa te întreb.
+/: Cine
+/::/
+Cine a făcut lumina
+Soarele și luna
+Pământul și marea
+Stelele și zarea
+/:
+Cor:
+E Dumnezeu, e Dumnezeu
+Ce toate prin cuvântul Sau
+La viața când El le-a chemat
+La locul lor s-au Așezat
+/: x2
+
+[v2]
+/Tata vreau sa te întreb
+/:
+Cine!
+ /::/
+Cine a făcut sa zboare
+Păsări mii și mii
+Peștii-n apa sa înoate
+Animale pe câmpii
+/:
+
+[v3]
+/Tata vreau sa te întreb
+/:
+Spune
+/::/
+Omul cum a apărut
+Cine oare l-a făcut
+Nu e o-ntâmplare
+Sigur e o lucrare
+/:
+
+[v4]
+/Tata vreau sa te întreb
+/:
+Spune
+/::/
+Când din lume v-om pleca
+Cu noi ce se v-a întâmpla
+Totul se v-a termina
+Sau spre cer ne-om îndrepta
+/:
+Cor:
+Cu Dumnezeu, cu Dumnezeu
+Vom fi cu El in raiul Sau
+Dacă aici ii vom sluji
+Și-o viața sfânta vom trai :/
+x2

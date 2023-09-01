@@ -1,0 +1,40 @@
+[title]
+Flamand de cer si insetat de pace {author: {Nicolae Moldoveanu}, {rcId: {241127}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Flămând de cer și însetat de pace,
+Așa mi-e sufletul și trupul meu,
+/: Dar toate câte-l țin se vor desface,
+Când un cuvânt spune Dumnezeu. :/
+
+[c]
+Spre cer, spre cer mi-ndrept mereu
+Și sufletul și trupul meu,
+Spre Dumnezeu, spre Dumnezeu.
+
+[v2]
+Dar pân-atunci, cu râvnă și credință,
+Să țes din raze strălucit veșmânt,
+/: Să’nalt în mărginită mea ființă
+Dumnezeiescul Nou Așezământ. :/
+
+[v3]
+Și-n aurul cel sfânt al veșniciei
+Vreau să pietrific clipele de-acum,
+/: Că tot ce am, în slujba-mpăratiei
+Să pun, prin Duhul, ce mă-nvață cum. :/
+
+[v4]
+Îmi umple sufletul cu sărbătoare
+Prin Domnul care m-a răscumpărat,
+/: El mi-a adus statornică intrare
+În Templul harului străluminat. :/
+
+[v5]
+De-aceea-nchinaciune și mărire
+I-aduc acum, cu tot ce-am și sunt,
+/: Și-mi plec genunchii-n sfânta mulțumire
+Spre Dumnezeul Cel în veci Preasfant. :/

@@ -1,0 +1,42 @@
+[title]
+E timpul de trezire e-aproape-a sa venire {author: {Otniel Stirb}, {rcId: {218384}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+E timpul de trezire e-aproape-a Sa venire
+Se-aude o strigare pe pământ
+Ești gata de răpire cu haina pentru Mire?
+Te-ntreabă azi pe tine Duhul Sfânt!
+Candela ți-e aprinsă sau e aproape stinsă
+Mai ai din undelemnul sfânt în vas?
+La ușă bate Domnul, să nu te prindă somnul
+Răpirea poate fi în orice ceas!
+
+[c]
+Ești gata frate pentru-ntâmpinare?
+Întreabă-te atunci unde vei fi
+/: Noi nu știm clipa când Isus apare
+Dar știm căci Cel ce vine va veni :/
+
+[v2]
+Trăim cu toți momente când mari evenimente
+La fiecare pas ne prevestesc
+O zi de judecată în care lumea toată
+Va sta ’naintea tronului ceresc
+Trezește-te acuma să nu îți pierzi cununa
+Mai e puțin și noaptea-i pe sfârșit
+Biserică aleasă mai luptă și veghează
+„
+Poporul Meu fi treaz, fi pregătit!”
+
+[v3]
+Se dau mereu semnale să fim atenți pe Cale
+Răpirea-i mai aproape ca oricând
+Cuvântul ne vorbește ceva se pregătește
+Mai mult ca niciodată pe pământ
+Se-aude iarăși glasul: fecioară umple-ți vasul
+Se-apropie ai dimineții zori
+Ferice de cei care mai stau în așteptare
+Căci ei vor fi răpiți mai sus de nori.

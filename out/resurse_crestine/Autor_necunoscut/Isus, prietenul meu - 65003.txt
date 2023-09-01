@@ -1,0 +1,22 @@
+[title]
+Isus prietenul meu {author: {Anonim}, {rcId: {65003}}
+
+[sequence]
+v1,b,c
+
+[v1]
+Ai auzit tu de Salvatorul?
+Ai auzit tu de dragostea Lui?
+Ai auzit tu de Cel din ceruri?
+Ai auzit că I-a dat Fiul Lui?
+
+[b]
+Iubire am găsit
+Mă-ncred în Fiul Său.
+Condu-mă Tu.
+
+[c]
+/: Isus, prietenul meu
+Tu vei fi mereu
+Nimeni nu schimbă asta. :/
+Nimeni nu schimbă asta

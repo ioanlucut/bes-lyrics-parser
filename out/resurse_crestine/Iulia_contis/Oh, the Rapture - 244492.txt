@@ -1,0 +1,22 @@
+[title]
+Oh the rapture {author: {Iulia Contis}, {rcId: {244492}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+In a manger full of rust,
+In a world lost in its lust,
+Through the peril, as a child
+My God came right from on high!
+
+[c]
+We can all have that relief
+When we long for it in peace!
+
+[v2]
+Oh, the rapture of the saints
+That were then on earth still paints
+Our picker of our soul,
+’
+Cause that was a heavenly role!

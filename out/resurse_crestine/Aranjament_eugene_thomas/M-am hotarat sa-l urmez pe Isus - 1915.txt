@@ -1,0 +1,21 @@
+[title]
+M-am hotarat sa-l urmez pe isus {author: {Aranjament Eugene Thomas}, {rcId: {1915}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+/: M-am hotărât sa-L urmez pe Isus, :/ x3
+/: Și înapoi eu nu voi da! :/
+
+[v2]
+/: Nimic nu mă va clinti pe cale, :/ x3
+/: Și înapoi eu nu voi da! :/
+
+[v3]
+/: În urmă-i lumea, ’nainte-i crucea, :/ x3
+/: Și înapoi eu nu voi da! :/
+
+[v4]
+/: Renunț la lume, dar nu la Isus, :/ x3
+/: Și înapoi eu nu voi da! :/

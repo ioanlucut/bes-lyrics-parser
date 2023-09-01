@@ -1,0 +1,45 @@
+[title]
+Iubirea de mama nu pot s-o descriu {author: {Nicolae Moldoveanu}, {rcId: {5518}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Iubirea de mama nu pot s-o descriu
+Oricat as dori si as vrea.
+Trudeste din greu, robotind neincetet,
+Odihna n-a aflat.
+
+[c]
+/: Copiii se duc, o uita ades
+Se duc azi pe drumul ales; :/
+
+[v2]
+Si eu am o mama ce mult m-a ingrijit
+De rele ades’ m-a ferit.
+In brate m-a dus, la piept m-a vegheat,
+In ruga m-a purtat.
+
+[c2]
+/: Adesea eu uit sa ii multumesc,
+Cand mainile ei se-obosesc. :/
+
+[v3]
+Si tu ai o mama ce mult te-a ingrijit;
+Iubind-o, vei fi fericit.
+Un sfat de la ea oricand vei primi,
+Spre bine a-ti sluji.
+
+[c3]
+/: Iubeste-o mereu si n-o intrista,
+Caci ea este doar mama ta! :/
+
+[v4]
+Odata vei fi, si tu, mama candva;
+Copii buni sa ai, tu ai vrea
+Ce vrei sa nu faca, sa nu faci acum -
+Sa judeci ce iti spun!
+
+[c4]
+/: Ferice va fi de tine si-ai tai
+Caci Domnul iubeste pe-ai Sai! :/

@@ -1,0 +1,45 @@
+[title]
+Ne-om intalni intr-o zi {author: {Nicu Wagner}, {rcId: {890}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ne-om întâlni într-o zi
+Pe străzi de aur curat
+Și vom cânta fericiți
+Acelui ce ne-a salvat.
+Lacrima se va sfârși
+Jalea de-acum a apus,
+În slavă și bucurii
+Ne-om întâlni cu Isus.
+
+[c]
+Vino și cântă cu noi
+Imnul ce urcă la cer,
+Shimbă nădejdi ce dispar
+Cu slăvi ce în veci nu pier;
+Pace din cer vei primi
+Și fericire de sus.
+Nu poate fi mai frumos
+Decât să fii cu Isus.
+
+[v2]
+Chinul ce-aici îl avem
+Nu poate alături să stea
+De slava ce va veni,
+Care Isus ne-o va da.
+Mai e puțin de-așteptat,
+Ceasul curând va suna,
+Când noi pe Isus l-om vedea
+Și orice dureri vom uita.
+
+[v3]
+Greul și jalea de-aici
+Le vom uita într-o zi,
+Când Mirele cel iubit
+În slavă ne va primi,
+Dacă trăim ca și fii
+În așteptare veghind
+Când vine mireasa să-și ia
+Să nu ne afle dormind.

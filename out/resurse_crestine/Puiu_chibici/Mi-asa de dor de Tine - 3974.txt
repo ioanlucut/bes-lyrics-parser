@@ -1,0 +1,65 @@
+[title]
+Mi-asa de dor de tine {author: {Puiu Chibici}, {rcId: {3974}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,v5,c5
+
+[v1]
+Mi-așa de dor de Tine,
+Stăpânul meu cel drag,
+Și-n orice dimineață
+Te-aștept mereu în prag.
+
+[c]
+/: Privesc în depărtare
+Să Te zăresc pe nor,
+Spre țara cea cu soare
+Ah, cât mi-e dor să zbor. :/
+
+[v2]
+M-am săturat de lume,
+De-a ei ademeniri,
+De-a ei plăceri de-o clipă
+Ce-s numai amăgiri.
+
+[c2]
+/: M-am săturat de-amaruri,
+De zbucium și dureri,
+Mi-e dor, mi-e dor Isuse
+De-a Tale mângâieri. :/
+
+[v3]
+E-atâta stricăciune
+Și sete de păcat
+Dă-mi Doamne-nțelepciune
+Să mă păstrez curat.
+
+[c3]
+/: Din tot cuprinsul zării
+Nimica n-aș mai vrea
+Doar premiul alergării
+Să-l iau din mâna Ta. :/
+
+[v4]
+Te văd doar printre lacrimi
+Căci crucea-i tot mai grea
+Dar vin cu-a mele sarcini
+Isus la crucea Ta.
+
+[c4]
+/: Vin iar să-ți spun necazul,
+Păstorule de oi,
+Vin iar să-mi ștergi obrazul
+Să plângem amândoi. :/
+
+[v5]
+Ajută-mă prin noapte
+Mereu să luminez
+Și treaz în așteptare
+La post ca să veghez.
+
+[c5]
+/: Să am candela plină
+Când Tu vei apărea,
+Să fiu fără de vină
+Spre a Te-ntâmpina. :/

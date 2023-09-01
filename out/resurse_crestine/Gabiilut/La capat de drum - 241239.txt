@@ -1,0 +1,34 @@
+[title]
+La capat de drum {author: {Gabi_Ilut}, {rcId: {241239}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+E ușor să greșești.
+Fără voie să faci ce nu dorești;
+E ușor să aluneci în jos de pe stânca pe care ai urcat!
+
+[c]
+/: Ești în vale și în sus privești cu dor;
+Vârful să-l mai atingi nu pare ușor.
+E noapte acum, e totul în scrum,
+La capăt de drum! :/
+/: Vina trebuie s-o mărturisești,
+Dacă vrei pace în suflet iar să primești;
+Credința ți-e scut, curajul avut
+Nu-i încă pierdut! :/
+/: Fața ta iarăși se va lumina,
+Dumnezeu ca pe un fiu de va îmbrățișa;
+Ridică-te acum din praful de scrum,
+La capăt de drum! :/
+
+[v2]
+E ușor să renunți.
+Fără luptă cad astăzi tot mai mulți;
+Însă liniște n-ai și rămas ești în drum, urmărit de păcat!
+
+[v3]
+Este greu să îneci.
+Lacrimile ce-ți curg șuvoaie reci;
+Lasă sufletul liber să spună acum cât îți pare de rău!

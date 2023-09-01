@@ -1,0 +1,33 @@
+[title]
+Desteapta-te crestine din somnul cel de moarte {author: {Anonim}, {rcId: {60987}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Deșteaptă-te creștine din somnul cel de moarte
+În care te-a dus traiul
+ /: cu totul de păgân :/
+Acum când mii de patimi doresc să te sugrume
+Când diavolulu-i pare
+ /: că lupta-câștigat :/
+
+[c]
+Acum ca niciodată să arătăm în lume
+O viață mai curată
+/: lipsită de păcat :/
+Lăsați calea pieirii fugiți din drumul firii
+Lăsați-vă de rele
+/: de certuri și de ură :/
+
+[v2]
+Căci timpul trece iute sfârșitul nu-i departe
+Ca mâine sună ceasul
+ /: când trebuie să apari :/
+În față judecății ce tuturor împarte
+Răsplată pentru cele
+/: ce-n viață au făcut
+/:
+Când Domnul te întreabă de toate a tale fapte
+Putea-vei tu răspunde
+/: sau vei tăcea ca mut :/

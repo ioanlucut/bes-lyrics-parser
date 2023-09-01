@@ -1,0 +1,41 @@
+[title]
+Peste tot pe unde mergem {author: {Alin Jucu}, {rcId: {95801}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Peste tot pe unde mergem
+Noi vestim despre Isus
+Și vrem s-ajungem acolo
+Unde El s-a dus.
+
+[c]
+/: Și... dacă vrei să vii cu noi
+Haide... Ce mai stai?
+Azi renunță la păcat
+Și vei merge-n rai :/
+
+[v2]
+Hai învață pocăința
+Căci nu este grea
+Și primește-L pe Mesia
+În inima ta.
+
+[v3]
+Pocăința este calea
+Ce te duce la Isus,
+Ce ți-a pregătit o țară
+Colo-n ceruri sus.
+
+[v4]
+Noi vrem s-ajungem acolo
+Unde-i Mesia
+Și cu îngerii în coruri
+Noi îi vom cânta
+
+[v5]
+Ne vom revedea odată
+Acolo în ceruri sus
+Cu Acel ce ne e Tată
+Și cu-al meu Isus.

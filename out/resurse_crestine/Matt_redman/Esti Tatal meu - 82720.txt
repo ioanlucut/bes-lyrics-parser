@@ -1,0 +1,30 @@
+[title]
+Esti tatal meu {author: {Matt Redman}, {rcId: {82720}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Cuvinte simple îmi zâmbesc
+Aud în șoaptă ”te iubesc”
+Lacrimi albe m-au trezit,
+Așa de mult se potrivesc
+Nu pot sa numesc ce simt,
+se schimba în mine un anotimp
+Cu glasul Te privesc și-Ți cânt
+Cu trupul Te respir adânc
+
+[c]
+/: Ești Tatăl meu
+Cine sunt eu...
+Ascultă tăcerea mea :/
+
+[v2]
+Cu glasul te privesc și-ți cânt
+Cu trupul te respir adânc
+Se schimbă-n mine un anotimp
+Nu pot sa numesc ce simt
+Cuvinte simple îmi zâmbesc
+Așa de mult se potrivesc
+Lacrimi albe m-au trezit
+Aud în șoaptă ”te iubesc”

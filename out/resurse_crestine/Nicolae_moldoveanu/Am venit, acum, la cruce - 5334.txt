@@ -1,0 +1,44 @@
+[title]
+Am venit acum la cruce {author: {Nicolae Moldoveanu}, {rcId: {5334}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Am venit, acum, la cruce
+Prin osânda și nevoi.
+Și-aici, vreau să-mi las povara,
+Iar păcatul, înapoi.
+
+[c]
+/: O, Părinte-al îndurării,
+Am venit, așa cum vezi
+Și din drumul de ocară,
+Eu, Te rog, ca să mă ierți! :/
+
+[v2]
+Vin din drumul cu povară,
+Las plăcerile lumești.
+Tu n-ai scos pe nime-afară,
+Dar, pe mine, mă primești?
+
+[c2]
+/: Ca paharul ce băut-am,
+Pân’ la fund, eu l-am golit!
+Dar, amar a fost, cu fiere
+Eu, atunci, m-am amăgit. :/
+
+[v3]
+Astăzi vin să-mi plâng trecutul,
+Să vărs lacrimi, să suspin
+Și, Te-ntreb: „
+De nu acuma,
+Spune-mi, Doamne, când să vin?”
+
+[c3]
+/: Căci Cuvântul zice: „
+Astăzi,
+Vino să te pocăiești!”
+Și eu vin cu-a mea viață;
+Spune-mi, Doamne: mă primești?
+ Că, Tu, Doamne, mă primești :/

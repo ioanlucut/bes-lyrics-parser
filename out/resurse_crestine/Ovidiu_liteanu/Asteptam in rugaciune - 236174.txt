@@ -1,0 +1,28 @@
+[title]
+Asteptam in rugaciune {author: {Ovidiu Liteanu}, {rcId: {236174}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Așteptăm în rugăciune
+Roua Duhului tău sfânt
+Doamne să ne-nvioreze
+Cât suntem pe-acest pământ
+
+[c]
+/: O ridică-ne Isuse umple-ne cu Duhul sfânt
+Untdelemnul păcii i sfinte toarnă-n vasele de lut
+/:
+
+[v2]
+Stāruim in rugaciune
+Sa fim plini cu Duhul Sfânt
+Să păstrăm fără-ncetare
+Sfântul nostru legământ.
+
+[v3]
+Duhul Sfânt unde domneste
+Biruinței sunt mereu
+Harul in popor va creste
+Lăudând pe Dumnezeu!

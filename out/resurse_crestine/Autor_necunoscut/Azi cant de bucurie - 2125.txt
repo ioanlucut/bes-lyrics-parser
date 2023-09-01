@@ -1,0 +1,43 @@
+[title]
+Azi cant de bucurie {author: {Anonim}, {rcId: {2125}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Azi cânt de bucurie,
+Dau slavă-n veșnicie
+Căci Isus m-a salvat
+Necazuri vin și pleacă,
+Cu Isus toate-au să treacă,
+Cu Tatăl minunat.
+
+[c]
+/: El totul mi-e, El totul mi-e mie
+El totul mi-e, Isus Hristos mie,
+Mi-e tată, mamă, soră, frate,
+El totul mi-e mie. :/
+
+[v2]
+Azi cânt de bucurie,
+Dau slavă-n veșnicie
+Căci Isus m-a sfințit,
+M-a spălat de păcate,
+Mi-a dat haine curate,
+Mi-a dat din Duhul Sfânt.
+
+[v3]
+Azi cânt de bucurie,
+Dau slavă-n veșnicie
+Căci Isus m-a iertat
+Greșeli, păcate, toate
+Mi le-a iertat pe toate,
+El totul mi-a iertat.
+
+[v4]
+Azi cânt de bucurie,
+Dau slavă numai Ție
+Căci Isus m-a primit
+Nu sunt orfan pe lume
+Că port al Său sfânt nume
+De Tatăl sunt primit.

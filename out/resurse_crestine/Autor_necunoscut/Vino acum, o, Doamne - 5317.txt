@@ -1,0 +1,30 @@
+[title]
+Vino acum o doamne {author: {Anonim}, {rcId: {5317}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+/: Vino acum, o, Doamne, vino acum :/ x3
+O...
+Doamne, vino acum.
+
+[v2]
+/: Cineva plânge, vino acum :/ x3
+O...
+Doamne, vino acum.
+
+[v3]
+/: Cineva cântă, vino acum :/ x3
+O...
+Doamne, vino acum.
+
+[v4]
+/: Cineva se roagă, vino acum :/ x3
+O...
+Doamne, vino acum.
+
+[v5]
+/: Vino acum, o, Doamne, vino acum :/ x3
+O...
+Doamne, vino acum.

@@ -1,0 +1,35 @@
+[title]
+O vino mesia o vino mesia {author: {Anonim}, {rcId: {59852}}
+
+[sequence]
+c,v1,v2,v3,c2
+
+[c]
+/: O vino Mesia, O vino Mesia :/
+Că Te-așteptăm și astăzi suspinând!
+/: O vino Mesia, O vino Mesia :/
+Ca să ne duci pe toți în Cerul Sfânt!
+
+[v1]
+/: Nu vrem Isuse să ne dai :/
+Nimic pe-acest pământ!
+/: Ne este de ajuns aici :/
+Cuvântul Tău Cel Sfânt!
+
+[v2]
+/: Voi care poate nu-L simțiți :/
+Nu vă-ntrebați de ce?
+/: Sau poate oare v-a cuprins :/
+Lumea cu-a iei plăceri!?
+
+[v3]
+/: Noi altă țară așteptăm :/
+Dar nu pe-acest pămînt,
+/: Oricât de bine-ar fi aici :/
+Lacrimi dureri tot sunt!
+
+[c2]
+/: Că Vine Mesia :/
+Să ne găsească-n dragoste crescând!
+/: Iar vine Mesia :/
+Să nu rămânem jos pe-acest pământ!

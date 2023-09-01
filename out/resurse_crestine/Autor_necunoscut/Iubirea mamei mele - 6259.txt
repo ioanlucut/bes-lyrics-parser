@@ -1,0 +1,51 @@
+[title]
+Iubirea mamei mele {author: {Anonim}, {rcId: {6259}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Iubirea mamei mele,
+Se-aseamănă, spun eu
+Cu iubirea eternă
+Venind din Dumnezeu
+
+[c]
+/: Iubirea-i ocean
+Ce se-adună din an de an
+Din mări și din fluvii
+Revărsând doar bucurii! :/
+/: Iubirea-i ocean
+Ce se-adună din an de an
+Din mări și din fluvii
+Revărsând doar bucurii!
+
+[v2]
+Iubirea mamei mele
+E-un dar nemărginit
+Ce nu cunoaște margini,
+Mergând spre infinit.
+
+[v3]
+Iubirea mamei mele
+Doresc s-o am mereu
+Ca prin a Sa iubire,
+Să simt pe Dumnezeu
+
+[v4]
+Iubirea mamei mele
+Se-nalță tot mereu
+Spre ce-a mai-nalță culme
+Să-L văd pe Dumnezeu.
+
+[v5]
+Iubirea mamei mele
+E dorul meu aprins
+Și-mi dă puteri în mine
+Și n-am să cad învins
+
+[v6]
+Când răul și ispita,
+Cu mreaja stau întinsă
+Iubirea mamei mele
+E-o stâncă neatinsă.

@@ -1,0 +1,43 @@
+[title]
+Vino langa isus {author: {Text și muzică: Costel Mijan}, {rcId: {209522}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+/: Vino lângă Isus,
+Vino lângă Isus,
+Vei fi fericit mereu.
+Vino lângă Isus,
+Vino lângă Isus,
+Și vei trăi mereu. :/
+/: Vei găsi iubirea,
+Cere-I proslăvirea
+Și îndată Domnu-ți va da.
+Cere-I mântuirea.
+Domnul e iubirea,
+Domnul este viața ta.
+
+[v1]
+Dă-i ce ai mai bun,
+Mai scump în a ta viață
+Și Domnul te va salva.
+Viața-ți mântuiește,
+Domnul te iubește.
+Lui Isus dă-i inima.
+
+[v2]
+Nu te va lăsa
+O clipă singur
+Dacă tu te vei ruga
+Să-ți dea mântuirea
+Și apoi iubirea.
+Domnul este viața ta.
+
+[v3]
+Cere-i orice-n viață,
+Domnul te învață
+Cum să fii pe calea Sa.
+Domnul te iubește
+Și mult te dorește
+Să-i încredințezi viața.

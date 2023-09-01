@@ -1,0 +1,41 @@
+[title]
+Se-apropie mereu sfarsitul {author: {Anonim}, {rcId: {89060}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Se-apropie mereu sfârșitul,
+Și ziua Domnului cea grea,
+Ca și zorii dimineții,
+La ușă bate Mesia!
+
+[c]
+/: Ești gata pentru-ntâmpinare
+Când auzi-vei o strigare?
+Să știți că Mirele apare...
+O, deșteptați-vă fecioare! :/
+
+[v2]
+Se-apropie și judecata,
+Când Domnul va veni pe nori.
+Judeca-va cu dreptate,
+Pe orice neam pe-orice popor!
+
+[c2]
+/: Ești scris și tu în Cartea Vieții
+Ca-n dimineața dimineții,
+Intrând pe porțile Cetății,
+Să vezi și tu Pomul Vieții. :/
+
+[v3]
+Întreabă-te soră și frate
+Pe care drum ți-e să apuci,
+Întreabă-te ți-e haina albă,
+Întreabă-te ce roadă-aduci.
+
+[c3]
+/: Și-atunci în ziua care vine,
+Să fii vorbit numai de bine,
+Să spună Domnul despre tine:
+O, vino fiule la Mine! :/

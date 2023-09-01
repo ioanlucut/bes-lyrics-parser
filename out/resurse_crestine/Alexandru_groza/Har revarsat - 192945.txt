@@ -1,0 +1,23 @@
+[title]
+Har revarsat {author: {Alexandru Groza}, {rcId: {192945}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+O, ce mare har ne-a dat Dumnezeu,
+să fim mântuiți prin Isus Hristos
+Pacea Lui ne-a dat, ne-a răscumpărat
+sus pe Golgota Domnul ne-a iertat!
+
+[c]
+Mare har revărsat din cer
+Ne dă Dumnezeu, azi prin Fiul Său
+Mare har revărsat din cer
+Ne dă Dumnezeu, El e dragoste!
+
+[v2]
+Dumnezeu e bun, El ni-e dragoste
+Mântuiește-acum pe cei păcătoși
+Fă și tu un pas înspre Dumnezeu!
+Să fii mântuit, suflet rătăcit!

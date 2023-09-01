@@ -1,0 +1,27 @@
+[title]
+Psalmul {author: {Anonim}, {rcId: {55746}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Am căutat pe Domnul
+Și mi-a răspuns,
+M-a eliberat de toate temerile mele :/
+
+[c]
+Înălțați pe Domnul! Să lăudăm cu toții Numele Lui
+Gustați și vedeți ce bun este Domnul meu.
+Fericit este omul care se încrede în El.
+
+[v2]
+/: Privirea mi-am întors spre Domnul
+M-am bucurat, m-a luminat.
+Desfătarea mea e-n Tine
+Domnul meu, Dumnezeu :/
+
+[v3]
+/: Ești drept și ești gelos, neschimbat și glorios
+Ești Sfântul Împărat.
+Ești bun și credincios, plin de har și ești milos,
+Ești Rege Minunat :/

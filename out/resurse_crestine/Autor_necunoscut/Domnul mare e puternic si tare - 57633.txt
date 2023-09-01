@@ -1,0 +1,20 @@
+[title]
+Domnul mare e puternic si tare {author: {Anonim}, {rcId: {57633}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+/: Domnul mare e
+Puternic și tare
+Nimic nu-I prea greu pentru El :/
+
+[v1]
+Și munții-s a Lui
+Și apele toate,
+Stelele-s creația Sa
+
+[v2]
+Și eu sunt a Lui,
+Și tu ești a Lui
+Și toți împreună a Lui.

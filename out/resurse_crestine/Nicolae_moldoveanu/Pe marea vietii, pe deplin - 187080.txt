@@ -1,0 +1,44 @@
+[title]
+Pe marea vietii pe deplin {author: {Nicolae Moldoveanu}, {rcId: {187080}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Pe marea vieții, pe deplin,
+În har îmi aflu liniștire,
+Căci harul este-un port divin
+Unde-mi găsesc adăpostire.
+
+[c]
+Har slăvit, har slăvit,
+Har al lui Dumnezeu,
+Prin tine azi sunt mântuit,
+Prin tine-n veci sunt fericit,
+Har slăvit, har slăvit,
+Har al lui Dumnezeu!
+
+[v2]
+Când trec pe-un drum întunecos,
+În har îmi aflu siguranță,
+Căci haru-i soarele frumos,
+Ce-mi dă lumină și speranță.
+
+[v3]
+De-s obosit, căzut și-nfrânt,
+În har îmi aflu ridicare,
+Căci pernă-mi este harul sfânt,
+De-odihnă și-alinare!
+
+[v4]
+Pe calea unicei credinți,
+Prin har primesc statornicie,
+Căci el mi-e car în biruinți,
+Și el mă duce-n veșnicie!
+
+[v5]
+O, Har etern și felurit,
+Tu totul tot ești pentru mine,
+Căci Dumnezeul Preamărit,
+E-ntreg, Nemărginit, în
+Tine!

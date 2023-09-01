@@ -1,0 +1,41 @@
+[title]
+In curand soseste domnul {author: {Anonim}, {rcId: {55600}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+In curand soseste Domnul,
+Vine sa-si stranga poporul,
+Care geme si-L astepta,
+Porumbita Lui curate.
+
+[c]
+/: Vino Doamne si ne du in Paradis,
+Acolo unde-ai promis,
+In Imparatia Raiului Ceresc,
+In Cortul Dumnezeiesc :/
+
+[v2]
+Cei ce poarta nume Sfant,
+Sunt batjocoriti si plang,
+Ei se roaga si Te cheama,
+Dune acasa mai degraba.
+
+[c2]
+/: Unde nu-i durere si nu e amar,
+Totu-i pregatit prin Har,
+Caci un Inger cu trambita va suna,
+Si la Cer ne va lua :/
+
+[v3]
+Vine Domnul sa-Si rapeasca,
+Fagaduinta Cereasca,
+Vine sa-Si culeaga crinii,
+Sa nu-i mai intepe spinii.
+
+[c3]
+/: Caci un Inger cu trambita va suna,
+Si tot se va termina,
+S-or sfarsi necazul si suspinul greu,
+Si taina lui Dumnezeu :/

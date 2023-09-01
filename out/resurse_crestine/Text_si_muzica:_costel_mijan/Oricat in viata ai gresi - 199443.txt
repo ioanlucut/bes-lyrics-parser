@@ -1,0 +1,26 @@
+[title]
+Oricat in viata ai gresi {author: {Text și muzică: Costel Mijan}, {rcId: {199443}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Oricât în viață ai greși,
+Tu, la Isus de ai veni,
+El viață îți va da în dar.
+Vin’ la Isus prieten drag
+Căci El mai este încă-n prag
+Și-așteaptă mâna să Îi dai.
+
+[c]
+/: Deci, fii cu Isus mereu!
+În viață să știi că nu e greu
+Dacă vei fi cu El mereu. :/
+
+[v2]
+Cere-I orice, Domnul îți va da,
+Doar El să fie-n viața ta
+Și fericit vei fi mereu.
+Și eu la fel ca tine am fost
+Dar am găsit în Isus un rost
+Și pace-n suflet am găsit.

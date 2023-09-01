@@ -1,0 +1,29 @@
+[title]
+Ca o desfasurare {author: {Nicolae Moldoveanu}, {rcId: {5714}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ca o desfășurare de aripi, când bate vântul,
+Ca picurul de rouă când geme ars pământul,
+/: Ca-ntoarcerea în pace-a corăbiilor duse:
+Așa Te-aștept întruna, așa Te-aștept, Isuse. :/
+
+[c]
+Căci tot mai grea, prin lumea rea,
+E calea mea, spre casa Ta;
+Mai negri nori, adeseori
+Se-adun, din greu, în jurul meu...
+
+[v2]
+Ca pruncul care caută doritul sân de mamă,
+Ca mugurul lumina, ca dorul care cheamă,
+/: Ca rănile-alinarea, în suferinți nespuse:
+Așa Te-aștept întruna, așa Te-aștept, Isuse... :/
+
+[v3]
+Ca revărsatul zilei, în noaptea de tăciune,
+Ca un răspuns de fulger la stinsa rugăciune,
+/: Ca mângâierea lină a dragostei aduse,
+Așa Te-aștept întruna, și și mai mult, Isuse... :/

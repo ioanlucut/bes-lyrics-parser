@@ -1,0 +1,36 @@
+[title]
+Slujba impacarii {author: {Adina și Paul Iliescu}, {rcId: {231811}}
+
+[sequence]
+v1,c,v2,c,e,v3,c
+
+[v1]
+Betleemul ne-amintește de copilul îndurării
+Dealul Golgotei vorbește despre slujba împăcării
+Îngerii cu-a lor cântare peste staul în câmpie
+Duc din cer înmiresmare, dragoste și bucurie.
+
+[c]
+Iar prin poarta umilinței, Prințul dragostei divine
+În veșmântul suferinței, intră-n lume pentru mine.
+La împăratul păcii sfinte, cei dintâi sosesc păstorii
+Anunțați fără cuvinte, vin și-n stele cititorii.
+Betleemul ne-amintește de copilul îndurării
+Dealul Golgotei vorbește
+/: despre slujba împăcării. :/
+
+[v2]
+Cartea cărților de aur se deschide cu umilire
+Micul copilaș din staul rupe o pecetluire.
+Peste vremile uitării, după lunga așteptare
+Mesia în cuprinsul zării ca un soare ne răsare.
+
+[e]
+Căci mesajul cel aduce pentru întreaga omenire
+E cântarea cea mai dulce, pace și bună învoire.
+
+[v3]
+Și călătorind prin vreme, slujitorii în umilință
+Neîncetat ca să ne cheme la împăcare cu credință
+De la iesle pan’ la cruce, pe-o cărare de slujire
+Blând Muntuitorul duce un mesaj de fericire.

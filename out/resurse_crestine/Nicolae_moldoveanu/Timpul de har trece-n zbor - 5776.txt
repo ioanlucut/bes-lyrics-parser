@@ -1,0 +1,29 @@
+[title]
+Timpul de har trece-n zbor {author: {Nicolae Moldoveanu}, {rcId: {5776}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Timpul de har trece-n zbor, ca si un nor;
+Azi ceasul suna sfarsitul cel prezis;
+Atatea semne ne prevestesc de zor
+Ca Se intoarce Isus, precum a zis.
+
+[c]
+Isus revine! Vesteste-L tuturor
+Ca intr-o zi Il vei vedea venind pe nor...
+Si dac-ai sti ce bucurii vei afla in vesnicii,
+Cum L-ai sluji, ca in veci cu El sa fii!...
+
+[v2]
+Vestea cea Buna, adusa prin Isus,
+Ajunge la marginea pamantului;
+Harul la Neamuri, coboara spre apus.
+Iata-L, la usa, pe Fiul omului!
+
+[v3]
+Pe-alesii Sai, ingerii-i vor aduna;
+Din ale cerului vanturi, s-or uni.
+Ei vor fi gloata cea mare
+Ce-or striga ca mantuirea-i a Celui din vecii!

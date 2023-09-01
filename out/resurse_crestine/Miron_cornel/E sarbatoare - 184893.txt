@@ -1,0 +1,29 @@
+[title]
+E sarbatoare {author: {Miron Cornel}, {rcId: {184893}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+E sarbatoare, in adunare
+Cu bucurie la-nchinare am venit
+In fata noastra sta o mireasa
+Si un mire ce vor face astazi legamant
+
+[c]
+Mire si mireasa pe Domnul Isus
+Daca la-ti chemat la nunta
+Va fi cu voi pe noul drum
+Pana-n patria cea sfanta
+
+[v2]
+Iubite mire, draga mireasa
+Sa va iubiti si pretuiti, pan la sfarsit
+Sa radieze, fetele voastre
+Iubire sfanta, dragoste ca la inceput
+
+[v3]
+Multa iubire si fericire
+Noi va dorim sa aveti in viata neancetat
+Doar flori, splendoare pe a voastra cale
+Sa va de-a Domnul binecuvantarea Sa

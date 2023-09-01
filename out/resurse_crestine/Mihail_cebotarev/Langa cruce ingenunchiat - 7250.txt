@@ -1,0 +1,35 @@
+[title]
+Langa cruce ingenunchiat {author: {Mihail Cebotarev}, {rcId: {7250}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Lângă cruce îngenunchiat
+Doamne vin la Tine
+Ca să-mi speli al meu păcat
+Prin jerfa-Ți divină.
+
+[c]
+/: La Calvar, la Calvar
+Eu am primit iertare
+Mântuit sânt doar prin Har
+Prin milă și îndurare. :/
+
+[v2]
+Lângă cruce am primit
+Pace, mângâiere
+Prin Isus cel răstignit
+Eu am mântuire.
+
+[v3]
+Lângă cruce am aflat
+Dragostea divină
+Viața El mi-a luminat
+Cu a Lui lumină.
+
+[v4]
+Lângă cruce eu aștept
+Cu nădejde vie
+Azi cu bucurie-n piept
+Scumpa veșnicie.

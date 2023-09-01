@@ -1,0 +1,32 @@
+[title]
+Isus stie nevoia mea (he knows just what i need) {author: {Mosie Lister, Traducere RO}, {rcId: {127140}}
+
+[sequence]
+v1,c,v2,c,v3,c,s,c
+
+[v1]
+Isus știe a mea tristețe
+Suspinul meu îl vede El
+În încercări ce vin pe cale
+Mă mângâie cum știe El.
+
+[c]
+Isus știe nevoia mea
+Da, El cunoaște starea mea
+Sunt fericit cu tot ce El mi-a dat
+Tot ce-i bun și minunat.
+
+[v2]
+Isus știe a mea povară
+Și cât de mult m-apasă ea
+Când sunt căzut El mă ridică
+Și-mi dă surâs pe fața mea.
+
+[v3]
+De-s părăsit de cei din preajmă
+Când norii grei apar pe cer
+În brațul Său găsesc speranță
+Singur nu sunt, mi-o spune El.
+
+[s]
+Căci Eu știu gândurile pe care le am cu privire la voi, zice Domnul, gânduri de pace, și nu de nenorocire, ca să vă dau un viitor și o nădejde. Ieremia 29:11

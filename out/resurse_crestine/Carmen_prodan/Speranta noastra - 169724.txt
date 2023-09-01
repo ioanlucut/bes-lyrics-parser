@@ -1,0 +1,29 @@
+[title]
+Speranta noastra {author: {Carmen Prodan}, {rcId: {169724}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Într-o lume frământată de necazuri și dureri,
+Doar Isus e speranța vieții noastre!
+/: Când în fiecare zi parcă e mai greu ca ieri,
+Noi privim cu dor spre zările albastre... : \
+
+[c]
+Isus, Isus, ești speranța noastră,
+Într-o lume clătinată de atâtea suferinți!
+Isus, Isus, ești taria noastră,
+Doar cu Tine vom rămâne neclintiți!
+
+[v2]
+Într-o vreme când păcatul e la culme pe pământ
+Tu ne-ajută să rămânem în credință!
+/: Ne încredem în puterea ce ne-o dai prin Duhul Sfânt,
+Căci cu Tine vom avea doar biruință: \
+
+[v3]
+Doar în Tine noi găsim sfânt izvor de bucurii,
+Mângâiere și speranță-ntotdeauna!
+/: Te-așteptăm în rugăciune să ne duci în veșnicii,
+Unde vom primi din Mâna Ta cununa! : \

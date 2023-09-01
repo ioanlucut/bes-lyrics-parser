@@ -1,0 +1,35 @@
+[title]
+Lacrimi azi imi curg pe fata {author: {Nicolae Moldoveanu}, {rcId: {5843}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Lacrimi azi imi curg pe fata,
+Cu pareri de rau;
+Suparat-am in viata,
+Doamne, chipul Tau.
+
+[c]
+/: Tie, Doamne,-Ti cer:
+Nu ma lasa sa pier!
+Tu poti ca sa dai iertare
+Celor care-Ti cer. :/
+
+[v2]
+Vin acum si-mi cer iertare.
+Ia-ma-n bratul Tau!
+Negresit, Te-am dat uitarii;
+Doamne,-mi pare rau...
+
+[v3]
+Nu-Ti intoarce sfanta-Ti Fata!
+Celui ce-a gresit
+I-ai dat dreptul la viata...
+Fa-l si fericit!
+
+[v4]
+Ai venit sa mori, pe cruce,
+Si ai suferit
+Si rusinea si ocara,
+Domnul meu iubit.

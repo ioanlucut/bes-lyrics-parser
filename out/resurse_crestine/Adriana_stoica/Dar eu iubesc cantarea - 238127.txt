@@ -1,0 +1,29 @@
+[title]
+Dar eu iubesc cantarea {author: {Adriana Stoica}, {rcId: {238127}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cu Dumnezeu eu voi merge înainte
+Prin Harul Lui voi fi biruitor
+Și-I voi cânta din inimă cântarea
+Ce ’nalță pe al meu Mântuitor
+
+[c]
+/: Dar eu iubesc cântarea
+Ce-alungă întristarea și-o voi cânta mereu
+Cântați și voi cu mine o cântare de mărire
+Glorie lui Dumnezeu :/
+
+[v2]
+Cu Dumnezeu eu voi merge înainte
+Chiar dacă drumul e anevoios
+Și voi cânta cântarea biruinței
+Căci lângă mine e Isus Hristos
+
+[v3]
+Cu Dumnezeu eu voi merge înainte
+Spre țara unde lacrimi nu mai sunt
+Acolo vom cânta cu toți cântarea
+Ce niciodată nu s-a auzit

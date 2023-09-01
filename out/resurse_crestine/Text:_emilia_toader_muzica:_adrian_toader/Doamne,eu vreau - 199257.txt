@@ -1,0 +1,23 @@
+[title]
+Doamneeu vreau {author: {Text: Emilia Toader, Muzica: Adrian Toader}, {rcId: {199257}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Doamne, eu vreau cu Tin’ să fiu mereu,
+În orice ceas din zi, în fiecare noapte
+Și numai Ție vreau să mă închin;
+Numai la Tine vreau de-acum mereu să vin.
+
+[c]
+Căci Tu alini durerea celui ce Te cheamă,
+Orice-ntristare Tu o prefaci în bucurii,
+Cu Tine orice suflet se va liniști,
+Dai fericire celui ce Te va urma.
+
+[v2]
+Doamne, Tu ești al nost’ ocrotitor,
+Tu ești cu noi când cel rău ades ne ispitește.
+Îndepărtezi orice necaz ne-apasă,
+Rămâi cu noi mereu, rămâi Ocrotitor.

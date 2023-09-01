@@ -1,0 +1,43 @@
+[title]
+Cu tine doamne isuse {author: {Speranța}, {rcId: {2172}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cu Tine Doamne Isuse
+Străbat drumul mereu
+Și merg cu bucurie
+Chiar când urcușu-i greu
+Cu Tine cânt cântarea
+Ce-n inimă mi-ai pus
+Și strig de bucurie
+Căci m-ai salvat Isus.
+
+[c]
+/: Când eu rătăceam
+Pace nu găseam
+Eram singur pe lume străin
+Dar când m-ai găsit
+Pacea ta am primit
+Și har din haru-Ți divin. :/
+
+[v2]
+Cu Tine viața-i dulce
+Chiar de-i mereu amar
+În Tine-i fericire
+Chiar lacrimi de apar
+Cu Tine-i zi senină
+Chiar de e înnorat
+Cu Tine-i fericire
+Chiar când sunt întristat.
+
+[v3]
+Tot ce-am găsit în Tine
+Lumea nu-mi poate da
+Că veșnica viață
+E doar în mâna Ta
+Și-n raza-Ți de lumină
+Ține-mă tot mereu
+Și-n toate-Ți voi da slavă
+Căci Tu ești Dumnezeu.

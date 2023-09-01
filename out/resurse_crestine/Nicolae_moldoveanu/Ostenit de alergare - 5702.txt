@@ -1,0 +1,39 @@
+[title]
+Ostenit de alergare {author: {Nicolae Moldoveanu}, {rcId: {5702}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Ostenit de alergare
+Și de zbuciumul cel greu,
+Vei afla odat-odihnă,
+Lângă bunul Dumnezeu.
+
+[c]
+/: Acolo, sunt fericiri
+Și nespuse bucurii.
+Lacrimi, grijuri toate s-or sfârși;
+Nu vor mai fi nici dureri
+Ci doar sfinte mângâieri;
+Fericirea va fi veșnică. :/
+
+[v2]
+Nu disprețui durerea,
+Nu cârti-n necazul tău,
+Căci necazul și durerea
+Sunt un drum spre Dumnezeu.
+
+[v3]
+Crucea ta e grea povară,
+E grea de purtat, de dus;
+Du-o însă, cu răbdare,
+Cum a dus-o și Isus!
+
+[c2]
+/: El putere îți va da,
+Brațul Său te va purta;
+Roagă-L dar și te va ajuta!
+El, cu slavă, va veni
+Și la cer ne va răpi.
+Lupta, deci, și-atunci vei birui... :/

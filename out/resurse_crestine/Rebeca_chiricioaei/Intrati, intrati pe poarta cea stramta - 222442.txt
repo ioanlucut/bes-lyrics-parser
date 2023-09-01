@@ -1,0 +1,28 @@
+[title]
+Intrati intrati pe poarta cea stramta {author: {Rebeca Chiricioaei}, {rcId: {222442}}
+
+[sequence]
+c,v1,v2,v3,c2
+
+[c]
+/: Intrați, intrați pe poarta cea strâmtă :/ (3x)
+Intrați pe poarta cea strâmtă
+
+[v1]
+/: Căci largă este poarta, lată este calea
+Care duce la pierzare: \
+Și mulți sunt cei ce intră pe ea.
+
+[v2]
+/: Strâmtă este poarta, îngustă este calea
+Care duce la viață: \
+Și puțini sunt cei ce o află.
+
+[v3]
+/: Ca să scapi de moarte și să fii cu Domnul
+Intră pe poarta cea strâmtă: \
+Care este Domnul Isus Hristos.
+
+[c2]
+/: Salvează, salvează viața ta chiar astăzi: \ (3x)
+Până nu este prea târziu.

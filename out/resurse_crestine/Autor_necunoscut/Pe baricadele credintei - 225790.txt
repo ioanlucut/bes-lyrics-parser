@@ -1,0 +1,33 @@
+[title]
+Pe baricadele credintei {author: {Autor necunoscut}, {rcId: {225790}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pe baricadele credinței
+Luptăm cu toții, fraților
+/: Avem în fruntea oastei sfinte
+Un Comandant nemuritor :/
+
+[c]
+Domnul Isus, în lupta cea grea,
+El nicidecum nu te va lăsa
+Numele Lui de Biruitor
+Cerescul Domn al oștirilor
+Este Isus, în lupta cea grea,
+El nicidecum nu te va lăsa
+Numele Lui de Biruitor
+Cerescul Domn al oștirilor
+
+[v2]
+Cu cât se-apropie momentul
+Să părăsim acest pământ
+/: S-a-nfuriat satan și luptă
+Să nimicească tot ce-i sfânt :/
+
+[v3]
+Stăm vegheatori, căci sunt transmise
+Din cer semnale în popor
+/: Despre sfârșitul bătăliei
+Și de-ntâlnirea sfinților :/

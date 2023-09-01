@@ -1,0 +1,43 @@
+[title]
+Familia {author: {Cătălin Necșa}, {rcId: {197843}}
+
+[sequence]
+v1,c,v2,c,c
+
+[v1]
+Familia e locul unde ne-am născut
+Ea este cadrul in care-am crescut
+Familia-i creată-n Eden.
+Credința, nădejdea si dragostea.
+Familia le are pe toate in ea
+O tare cetate e ea.
+
+[c]
+Tu ești Cel ce-ai creat familia,
+Și cunoști valoarea ce-ai lăsat-o în ea!
+Te rog o Doamne să o sfințești,
+De cel rău să o păzești,
+Întreagă să-Ți fie pe veci!
+Tu ești Cel ce-ai creat familia,
+Și cunoști valoarea ce-ai lăsat-o în ea!
+Te rog o Doamne să o sfințești,
+De cel rău să o păzești,
+Întreagă să-Ți fie pe veci!
+Tu ești Cel ce-ai creat familia,
+Și cunoști valoarea ce-ai lăsat-o în ea!
+Te rog o Doamne să o sfințești,
+De cel rău să o păzești,
+Întreagă să-Ți fie pe veci!
+
+[v2]
+De-așa multe ori, mulți dușmani ar fi vrut,
+Să distrugă familia dar tot n-au putut,
+E un lanț ce nu poate fi rupt.
+Nici un împărat nici chiar un popor,
+Nu au fost in stare să o pună jos,
+Ea este legată-n Cristos!
+
+[b]
+Chiar o armată de s-ar porni
+Cu brațul Tău o vei birui
+Ea este îtreagă a Ta!

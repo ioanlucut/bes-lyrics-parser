@@ -1,0 +1,29 @@
+[title]
+Canta inima canta {author: {Adriana Stoica}, {rcId: {95651}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: În viață prin multe-ai să treci
+Nu e numai doar veselie
+Dar cei ce se-ncred în Isus
+Ei cântă cu bucurie. :/
+
+[c]
+/: Cântă inimă cântă mereu
+Laudă-L pe creatorul Tau
+Mult nu mai este și noi vom pleca
+Dureri necazuri le vom uita. :/
+
+[v2]
+/: Căci numai tu singur n-ai să poți,
+Să biruiești lumea toată
+Prin câte probleme-ai să mai treci,
+Tu cântă că Isus te așteaptă. :/
+
+[v3]
+/: Căci lumea de azi este rea
+În inima lor e doar ură
+Tu cântă, Laudă-L neîncetat
+Iubește orice faptură. :/

@@ -1,0 +1,39 @@
+[title]
+Esti nadejdea mea {author: {Fratii Sfara}, {rcId: {7267}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ești nădejdea mea, bucuria mea,
+Numai Tu, Isus
+Fie cât de grea ziua, noaptea rea
+Grija Tu mi-o porți, Isus
+Fie cât de grea ziua, noaptea rea
+Grija Tu mi-o porți, Isus
+Ești nădejdea mea, bucuria mea
+Numai Tu, Isus.
+
+[c]
+/: Nu pleca, nu pleca, din viața mea
+Isuse drag :/
+
+[v2]
+Valuri de-or veni, eu mă țin de Tine
+Nu Te las Isus,
+Orice vijelii cât de mari ar fi
+Numai Tu le poți opri
+Orice vijelii cât de mari ar fi
+Numai Tu le poți opri
+Valuri de-or veni eu mă țin de Tine
+Nu Te las Isus.
+
+[v3]
+Am un ajutor, un izbăvitor
+Nimeni nu-i ca El,
+Oriunde aș fi, unde m-aș găsi
+Nu mă las nicicând de El
+Oriunde aș fi, unde m-aș găsi
+Nu mă las nicicând de El
+Am un ajutor, un izbăvitor
+Nimeni nu-i ca El.

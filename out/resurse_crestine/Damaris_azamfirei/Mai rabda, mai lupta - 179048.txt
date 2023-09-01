@@ -1,0 +1,43 @@
+[title]
+Mai rabda mai lupta {author: {Damaris Azamfirei}, {rcId: {179048}}
+
+[sequence]
+v1,c,v2,c,e,e2
+
+[v1]
+Mai rabdă, mai luptă, chiar de e greu
+Nu te opri nicicând, de partea ta e Dumnezeu
+Mai rabdă, mai luptă, chiar de e greu,
+Căci și Isus a suferit în locul tău și-al meu...
+
+[c]
+Să nu îți pierzi nădejdea
+Când ești încercat,
+Căci Domnul te trece
+Prin cuptor să fi curat.
+/: Să nu îți pierzi nădejdea
+Când ești încercat,
+Căci Domnul te trece
+Prin cuptor să fi curat. :/
+
+[v2]
+Mai rabdă, mai luptă, chiar de e greu
+Speranța să-ți fie în Domnul Dumnezeu
+Mai rabdă, mai luptă, chiar de e greu
+La capăt te așteaptă însuși Dumnezeu
+
+[e]
+Căci Domnul te trece, prin cuptor
+Ca să fi aur curat și frumos modelat.
+Ca pe ce-i din jur tu să-i iubești
+Și cu dragoste să îi privești
+
+[e2]
+Să îi privești pe cei din jur
+Cu dragoste să îi privești
+Căci doar așa, putea-vei s-ajungi
+În ceruri sus, da în ceruri sus.
+Să îi privești pe cei din jur
+Cu dragoste să îi privești
+/: Căci doar așa, putea-vei s-ajungi
+În ceruri sus. :/

@@ -1,0 +1,29 @@
+[title]
+Un buchet din gradina domnului {author: {Nicolae Moldoveanu}, {rcId: {5541}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Un buchet din grădina Domnului,
+Astăzi el se dezleagă,
+Și un alt buchețel iubit,
+Tot astăzi, se încheagă.
+
+[c]
+/: Domnul vă păzească!
+El să vă-ntărească,
+Credincioși să-I rămâneți ne’ncetat,
+Pân’ la sfârșitul vieții! :/
+
+[v2]
+Un cămin din poporul Domnului,
+Uniți, azi, I se închină;
+Fericiri vor primi din mâna Lui,
+Și pacea Lui divină.
+
+[v3]
+Neuitat fie ceasul acesta,
+Întreaga voastră viață,
+Pân’ la nunta Mirelui iubit,
+Când vom sta față-n față.

@@ -1,0 +1,37 @@
+[title]
+Ierusalime cetate impodobita {author: {Anonim}, {rcId: {3589}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+I erusalime, cetate împodobită
+Cu străzi de aur, argint și cristal
+De pe pământ al meu dor se ridică
+S-ajung la Tine, să scap de orice val.
+
+[c]
+/: Aș vrea s-ajung la Tine
+Să scap de orice suspine
+Și să mă uit la frumusețea Ta
+Căci tot ce-i pe pământ
+E goană după vânt
+Și nu pot să-mi găsesc fericirea. :/
+
+[v2]
+Aș vrea să-ți văd porțile ferecate
+Ce n-au asemănare pe pământ
+Și-n ziua-n care vor fi descuiate
+Să intre pe ele poporul cel sfânt.
+
+[v3]
+Aș vrea să văd pomul vieții care
+Cu atâtea roade e împodobit
+Și râul vieții cu apele limpezi
+De-a lungul cetății curge liniștit.
+
+[v4]
+Aș vrea să văd pururi a Ta splendoare
+Să umblu pe-ntinsul Tău minunat
+Apoi să rămân cu Tine pe vecie
+Slăvind totdeauna pe-al meu împărat.

@@ -1,0 +1,29 @@
+[title]
+Semanatorul iese {author: {Anonim}, {rcId: {6919}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Semănătorul iese,
+Sămânța-o semănase
+Într-un pământ lângă drum,
+Și păsările vin acum.
+
+[c]
+Ești un pământ, omule,
+Ești un pământ, omule,
+Ești pământ, pământ ești,
+O, spune-mi, de ce nu rodești?
+
+[v2]
+Semănătoru-a trecut,
+Sămânța, vai, a căzut
+Într-un pământ plin de spini.
+O, spune-mi, de ce nu vii?
+
+[v3]
+Iată, sămânța acum,
+Cade-n pământul cel bun.
+Unul aduce șaizeci,
+Altul o sută douăzeci.

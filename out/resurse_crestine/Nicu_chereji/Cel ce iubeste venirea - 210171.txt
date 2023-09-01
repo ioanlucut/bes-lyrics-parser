@@ -1,0 +1,29 @@
+[title]
+Cel ce iubeste venirea {author: {Nicu Chereji}, {rcId: {210171}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cel ce iubește venirea, Domnului Isus Hristos
+E fericit zi și noapte, trăiește viața frumos
+El nu-și apleacă urechea la vorbele celor răi
+Ci își găsește plăcerea, pe-a Domnului sfinte căi.
+
+[c]
+Din slăvi albastre sublime, Domnul Isus va veni
+Cu-a Lui putere divina, mireasa și-o va răpi
+Tu porumbița aleasa, fii fericită mereu
+Căci în curând vei zbura acasă, la Dumnezeul tău
+
+[v2]
+Ce minunată nădejde, să știi ca ești mântuit
+Lacrimile bucuriei, te înălța spre infinit
+Chiar și dușmanul ți-e prieten, speranța ta e Hristos
+Oricât de grea ar fi-ncercarea, tu mergi nainte voios.
+
+[v3]
+Cerul pământul și marea, Îl laudă pe Creator
+Toți cei cu inima bună, cântați-I slavă în cor
+Cântați-I Celui ce vine, El va-mplini ce-a promis
+Ne-a pregătit fiecărui, locul sus în Paradis.

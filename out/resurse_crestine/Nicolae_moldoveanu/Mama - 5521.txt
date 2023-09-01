@@ -1,0 +1,60 @@
+[title]
+Mama {author: {Nicolae Moldoveanu}, {rcId: {5521}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Mama! Întâia privire-ostenită pe chipu-ți plăpând;
+Întâiul cuvânt ce-l vei spune, cu drag, în curând;
+Întâiul surâs, tăinuit în dureri mult, prea mult;
+Întâiul cânt dulce, pe frunte întâiul sărut,
+Întâiul scump dascăl cu primul cuvânt este ea,
+Mama, ce-n brațe te ține cu drag! Da, mama ta!...
+
+[c]
+Mama-i izvor nesecat
+De iubiri și trăiri sufletești;
+Sfânt râu de viață-n transfer
+Spre cei ce sunt fii pământești;
+Căldura și lucru și veghe
+E mama în ceasuri târzii,
+Nopți albe trăite în zbucium
+Să dea un alin la copii...
+
+[v2]
+Mama! La pieptu-i, pe brațe, adesea ea-ți va fi scut;
+Ți-i primul prieten spre care privești azi tăcut
+Și parcă ai vrea ca să-i spui, printr-un zâmbet ușor,
+Ceva ce în suflet ar face-o să ardă de dor
+Cum tu, când vei crește, model de respect printre mulți,
+Vei fi, și chiar primul vei spune: „
+De mamă s-asculți!...”
+
+[c2]
+Mama-i povață, mustrare,
+Iertare și sfaturi cu drag;
+Chemări și-ndrumări către-o țintă
+Ideală în anii șirag;
+Mama-i departe și aproape,
+Ființa cu-aceleași dorinți
+Cu inima jar din puține puteri
+Printre lacrimi fierbinți.
+
+[v3]
+Mama! Întâiul cald leagăn sub ochi luminoși, sclipitori;
+Întâia iubire ca roua curată de flori.
+Deci, numai o mamă ți-i dată s-o ai aici jos
+Spre care-ți îndrepți astăzi privirea, și-n chipu-i frumos,
+Găsești un alin, un îndemn, un cuvânt iertător
+De mama sublimă ce-n brate te ține cu dor.
+
+[c3]
+Mama-i ființa dorită,
+La bine și-n grele dureri...
+E singurul suflet în care
+Mai poți să găsești mângâieri;
+Mama-i rugi sfinte-nălțate
+Cu gânduri curate în sus,
+Nădejdi ancorate la țărmul
+Iubirii cu drag în Isus.

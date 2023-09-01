@@ -1,0 +1,29 @@
+[title]
+Bratul tau invinge {author: {Gabi Ilut}, {rcId: {202935}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În orice vreme eu Îl chem pe Dumnezeu,
+El este scut, tăria mea!
+Puternic brațul Lui mă conduce,
+Mi-asigură victoria!
+
+[c]
+Brațul Tău învinge, biruie în noaptea grea
+Tu ai fost și ești mereu de partea mea!
+Brațul Tău învinge, eu sunt veșnic bucuros
+Mâna Ta din mari furtuni la timp m-a scos!
+
+[v2]
+Atunci când nu-nțeleg ce trebuie s-aleg,
+Mă-ncred deplin în Dumnezeu!
+Mi-e Duhul Său cel Sfânt călăuză
+La orice pas pe drumul meu!
+
+[v3]
+Furtunile când vin, de Domnul strâns mă țin,
+Eu știu că nu mă va lăsa!
+Prin valuri mari când trec e cu mine,
+Mă izbăvește mâna Sa!

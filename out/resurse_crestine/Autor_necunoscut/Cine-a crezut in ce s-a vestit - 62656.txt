@@ -1,0 +1,27 @@
+[title]
+Cine-a crezut in ce s-a vestit {author: {Anonim}, {rcId: {62656}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cine-a crezut
+În ce s-a vestit?
+Cine a primit ce El a vorbit?
+Cine a ales ca Isus să trăiască
+
+[c]
+Să strige : Isus, Isus, Isus
+Tu ești viața mea.
+
+[v2]
+Cine a Lui viață și-a părăsit
+Cine lui Isus s-a dăruit?
+O viață nouă-n dar
+Ca să primească?
+
+[v3]
+Cine-i eliberat de păcat?
+Cine prin Isus e vindecat?
+Cine azi crede
+Că Isus e-același?

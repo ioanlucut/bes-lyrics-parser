@@ -1,0 +1,35 @@
+[title]
+O cat ma simt de fericit {author: {Anonim}, {rcId: {4786}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+O, cât mă simt de fericit
+Că am Mântuitor.
+Orfan, nici părăsit nu sunt
+Cu al meu Salvator.
+
+[c]
+Slavă mielului preasfânt
+Ce-n locul meu a murit!
+Aleluia, Aleluia,
+Aleluia, Amin!
+
+[v2]
+Mi-a spus Isus și mi-a promis
+Prin sfântul Său Cuvânt:
+Se duce să-mi gătească loc în cer,
+La Tatăl sfânt.
+
+[v3]
+Aici sunt numai călător
+Și trec ca iarba-n câmp,
+În cer voi fi moștenitor
+Cu Mirele meu sfânt!
+
+[v4]
+O, frați, surori, zărim voioși
+Chiar de pe-acest pământ
+Lumini din ceruri unde
+Noi ajungem în curând!

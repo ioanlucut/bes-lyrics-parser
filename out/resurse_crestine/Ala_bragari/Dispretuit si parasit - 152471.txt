@@ -1,0 +1,29 @@
+[title]
+Dispretuit si parasit {author: {Ala Bragari}, {rcId: {152471}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Când priveam la cruce, Doamne,
+Nu era nimic să-mi placă,
+Chipul Tău făr frumusețe
+Nu puteau să mă atragă.
+Nu credeam cele vestite,
+De proroci de mai înainte,
+Că în mila Ta cea mare,
+Mâna ți-ai întins, Părinte.
+
+[c]
+/: Disprețuit de toți și părăsit de oameni,
+În locul meu pe cruce s-a dispus. :/
+
+[v2]
+Când erai pe cruce, Doamne,
+În dureri și-n suferințe,
+Tu plăteai pentru ale mele,
+Fărădelegi și umilințe.
+Eu eram acel cu vina,
+Eu am meritat pedeapsa,
+Tu te-ai dat pe Tine însuți,
+Ca să-mi dai și mie viața.

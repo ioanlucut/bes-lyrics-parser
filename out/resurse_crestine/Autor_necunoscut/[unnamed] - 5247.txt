@@ -1,0 +1,41 @@
+[title]
+[unnamed] {author: {Anonim}, {rcId: {5247}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Azi Domnul este pastorul meu:
+Eu lipsa n-am sa duc;
+Din verzi pasuni si din ape vii,
+Eu sufletu-mi adap.
+
+[c]
+/: Povata-mi da pe cararea grea;
+In lume port al Sau Nume sfant.
+Chiar si prin moarte, eu trec usor
+Si nu ma tem nicicand. :/
+
+[v2]
+Toiagul Tau si nuiaua Ta
+Ma mangaie ades;
+Pe cap ma ungi, ca sa ma sfintesti,
+Cu untdelemn ales.
+
+[c2]
+/: Tu masa-ntinzi, cand dusmani privesc,
+Paharul meu este astazi plin,
+Primesc belsugul ce-l raspandesti
+Si-n Fata Ta ma-nchin. :/
+
+[v3]
+Da, fericirea ma va-nsoti,
+In toata viata mea,
+Si-n casa Tatalui eu voi sta,
+Pana cand voi muri.
+
+[c3]
+/: Aleluia! Aleluia!
+Aleluia! Aleluia!
+Aleluia! Aleluia!
+Aleluia! Aleluia! :/

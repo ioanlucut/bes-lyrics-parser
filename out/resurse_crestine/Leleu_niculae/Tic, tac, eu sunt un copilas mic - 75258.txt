@@ -1,0 +1,11 @@
+[title]
+Tic tac eu sunt un copilas mic {author: {Leleu Niculae}, {rcId: {75258}}
+
+[sequence]
+v1
+
+[v1]
+/: Tic, tac, tic, tac, tic, tac, tic
+Eu sunt un copilaș mic,
+Nu mi-e frică de nimic
+De Domnul sunt Păzit! :/

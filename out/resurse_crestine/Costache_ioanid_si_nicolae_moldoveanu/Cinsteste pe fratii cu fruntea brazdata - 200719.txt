@@ -1,0 +1,33 @@
+[title]
+Cinsteste pe fratii cu fruntea brazdata {author: {Costache Ioanid si Nicolae Moldoveanu}, {rcId: {200719}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Cinstește pe frații cu fruntea brăzdată,
+Pe-aceia ce’n vifor au stat sub efod.
+/: Ei sunt, printre noi, ca o creangă bogată,
+O creangă ce-ascunde sub floarea uscată,
+Comoara măsurii de rod! :/
+
+[v2]
+Cinstește pe frații cu fețele supte,
+Cu urme-adâncite sub ochii fierbinți.
+/: Ei sunt ca o navă ce vine din lupte,
+Purtând pe frântura catargelor rupte,
+Drapele de mari biruinți! :/
+
+[v3]
+Cinstește pe frații cei fără de slavă,
+Pe care uitarea să-i cearnă ar vrea.
+/: Acolo în Veșnica Vieții dumbravă,
+Cânta-vei tu oare’n aceeași octavă,
+Când ei lui Isus vor cânta? :/
+
+[v4]
+Urca-vor la Tatăl să-i binecuvânte,
+Și-acolo în sclipet de ’nalți heruvimi.
+/: Sub nouri de îngeri veniți să le cânte,
+Vedea-vom în slavă catargele frânte,
+Și crengile sus pe’nălțimi! :/

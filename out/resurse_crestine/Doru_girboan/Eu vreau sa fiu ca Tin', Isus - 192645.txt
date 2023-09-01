@@ -1,0 +1,39 @@
+[title]
+Eu vreau sa fiu ca tin isus {author: {Doru Gîrboan}, {rcId: {192645}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când eu privesc la viața Ta
+Nu pot să nu văd dragostea
+Ce, Doamne, Tu ți-ai arătat
+Murind să fiu salvat.
+Din moarte m-ai răscumpărat
+Deși eu știu, n-am meritat
+Sunt copleșit și mult aș vrea
+Să pot iubi așa.
+
+[c]
+Eu vreau să fiu ca Tin, Isus,
+Înțelepciune dă-mi de sus!
+Ca tine să vorbesc,
+Ca Tine să iubesc
+Mereu.
+Să mă aplec spre cei sărmani,
+Să sprijinesc pe cei orfani,
+Ca Tine să iubesc,
+Ca Tine să trăiesc,
+Isus.
+
+[v2]
+Tu niciodată n-ai trecut
+Pe lâng-un om ce Te-a cerut,
+Tu te-ai oprit și-n mila Ta
+I-ai luat povara grea.
+
+[v3]
+Și chiar când ai fost chinuit
+Niciun cuvânt nu ai rostit,
+Tu ai răbdat în locul meu
+Să Te urmez și eu.

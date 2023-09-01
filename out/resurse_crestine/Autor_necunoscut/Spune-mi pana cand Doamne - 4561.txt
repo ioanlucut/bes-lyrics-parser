@@ -1,0 +1,39 @@
+[title]
+Spune-mi pana cand doamne {author: {Anonim}, {rcId: {4561}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Spune-mi până când Doamne zăbovești
+Să vii pe pământ, să ne izbăvești
+Câte primăveri vor mai trece oare
+Și câte dureri vor mai fi sub soare
+
+[c]
+Nu știu dar curând
+Tatăl meu cel sfânt
+Mă va anunța
+Să-mi iau mireasa
+Dar nu-i pregătită
+Încă nu-i gătită
+Cu podoabe sfinte
+Și cu-n dor fierbinte
+
+[v2]
+Tu nu te sfințești cum ar trebui
+Nu te pregătești pentru-a nunții zi
+Iar ai ațipit, ai căzut pe cale
+Dușmanii te-au lovit din a morții vale
+
+[v3]
+Și în loc să vii să te pocăiești
+Pleci pe căi pustii să te rătăcești
+Și apoi cârtești, candela se stinge
+Deznădăjduiești, diavolul te-nvinge
+
+[v4]
+O dacă ai vrea, ca să te sfințești
+Și din starea rea să te izbăvesc
+Doamne eu doresc, schimbă totu-n mine
+Știi că te iubesc, ia-mă sus la Tine

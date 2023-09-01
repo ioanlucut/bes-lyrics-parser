@@ -1,0 +1,35 @@
+[title]
+Un glas divin {author: {Nicolae Moldoveanu}, {rcId: {186278}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Un glas divin răsună lin,
+Chemând duios, pe păcătos
+Să vină az’ cu-al lui necaz,
+Din locul greu la Dumnezeu.
+
+[c]
+Isus, Isus te cheam-acum,
+Să vii supus, pe-al vieții drum,
+Povara grea din viața ta,
+Isus, Isus, ți-o va lua!
+
+[v2]
+Un glas ceresc Dumnezeiesc,
+Te cheam-acum, din văl de fum,
+Din chin amar ca să-ți dea har,
+Din greu păcat să fii scăpat!
+
+[v3]
+Un glas de Sus, al lui Isus,
+Te cheama blând să vii curând,
+Nu amâna, căci viața ta
+Oricât-ar fi, se va sfârși!
+
+[v4]
+Glas iubitor, glas sfințitor,
+Mântuitor, te cheamă-n dor,
+Ca tu să vii și-n veci să fii,
+Un mântuit și fericit!

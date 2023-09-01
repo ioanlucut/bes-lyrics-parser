@@ -1,0 +1,38 @@
+[title]
+Din dor in dor {author: {Nicolae Moldoveanu}, {rcId: {244183}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Din dor în dor, din grai în grai
+lsuse, Te chemăm,
+/: Cobori, cobori pe scări de rai
+Arzând Te așteptăm. :/
+
+[c]
+Vino, vino, Isuse Te-așteptăm.
+
+[v2]
+Puteri, puteri să crești în noi,
+Credința s-o păzim,
+/: Când vin, când vin furtuni și ploi,
+Când vezi că obosim. :/
+
+[v3]
+Privim, privim cu ochii-n sus
+Spre cerul Tău senin,
+/: Să vii, să vii, cum Tu ne-ai spus,
+S-aduci al păcii-alin. :/
+
+[v4]
+Din dor în dor, din grai în grai,
+Pe treptele de har,
+/: Urcăm, urcăm spre-al vieții plai,
+Spre-al vecilor hotar. :/
+
+[v5]
+Cobori, cobori pe scara cea
+Pe care ne suim,
+/: S-ajungem fericiți pe ea,
+Isus, să ne-ntâlnim. :/

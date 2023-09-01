@@ -1,0 +1,29 @@
+[title]
+In zori de zi cand ma trezesc {author: {Anonim}, {rcId: {59157}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În zori de zi când mă trezesc
+Vreau să fiu cu Isus
+La rugăciune eu m-aplec
+Să-i mulțumesc nespus.
+
+[c]
+Îmi amintesc că sunt creștin
+Și am un Tată-n ceruri
+Care ne vede cum trăim
+Ne știe-a noastre gânduri.
+
+[v2]
+În rugăciuni mărturisesc
+C-adesea am greșit
+Știu că Isus mă va ierta,
+Să vin la El smerit.
+
+[v3]
+Apoi eu vesel pot să cânt
+Că sunt de El primit
+Și peste zi eu nu mă tem,
+Mereu sunt fericit.

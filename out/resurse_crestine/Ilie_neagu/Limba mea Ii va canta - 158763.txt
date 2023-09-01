@@ -1,0 +1,29 @@
+[title]
+Limba mea ii va canta {author: {Ilie Neagu}, {rcId: {158763}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Domnul mi-a făcut mult bine
+Eu laud Numele Său
+Urechea și-a plecat spre mine
+Și m-a scăpat de tot ce-i rău. :/
+
+[c]
+/: Limba mea Îi va cânta
+Buzele Îl vor lăuda
+Cu întreagă ființa mea
+Pe El îl voi înalța. :/
+
+[v2]
+/: Zi de zi El mă păzește
+Mă veghează pas cu pas
+Piciorul El îmi întărește
+Să nu mă clatin în necaz. :/
+
+[v3]
+/: Zilnic mă binecuvântă
+Îmi dă har și bucurii
+Inima spre cer se-avântă
+Dorind să-I cânte-nveșnici. :/

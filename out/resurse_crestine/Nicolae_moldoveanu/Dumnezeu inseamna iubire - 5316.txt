@@ -1,0 +1,35 @@
+[title]
+Dumnezeu inseamna iubire {author: {Nicolae Moldoveanu}, {rcId: {5316}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+/: Dumnezeu inseamna iubire
+Si iubirea de la El vine.
+El are iubirea-n privire
+Sa o dea celui ce la El vine. :/
+
+[c]
+/: Pentru ca ne-a iubit,
+Pe Isus ni L-a dat. :/
+
+[v2]
+/: Dumnezeu este indurare,
+Indurare pentru-ntreaga lume;
+Vrea ca sa dea la orisicine
+Pretul vietii Lui, ca sa il ierte. :/
+
+[c2]
+/: Isus viata Si-a dat,
+Ca sa pot fi iertat. :/
+
+[v3]
+/: Dumnezeu inseamna viata
+Pentru cei care-n El au credinta.
+Cei care in El s-au increzut,
+Viata vesnica in dar au primit. :/
+
+[c3]
+/: Isus ne-a daruit
+Viata fara de sfarsit. :/

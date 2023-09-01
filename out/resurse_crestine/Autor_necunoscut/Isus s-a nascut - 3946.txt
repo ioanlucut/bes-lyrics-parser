@@ -1,0 +1,23 @@
+[title]
+Isus s-a nascut {author: {Anonim}, {rcId: {3946}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+/: Isus s-a născut
+Isus s-a născut
+Isus s-a născut
+Viață în lume aducând :/
+
+[c]
+/: Noi ne-nchinăm Ție scump Isuse
+Te lăudăm, slavă Îți aducem
+Viața-n dar Tu ne-ai dăruit-o
+Când în umila iesle te-ai născut.
+
+[v2]
+/: Veniti sa-i cantam
+Veniti sa-i cantam
+Veniti sa-i cantam
+Celui ce-n iesle s-a nascut :/

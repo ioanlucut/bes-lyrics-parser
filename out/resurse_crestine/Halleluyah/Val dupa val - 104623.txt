@@ -1,0 +1,35 @@
+[title]
+Val dupa val {author: {Halleluyah}, {rcId: {104623}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Numai ochii Tăi cu milă
+M-au văzut când credeam eu
+Că nu e pe lume nimeni
+Să vadă cât sufăr eu!
+
+[c]
+/: Val după val,
+Un val cheamă alt val,
+Valurile n-au hotar
+Zii doar un cuvânt, măcar! :/
+
+[v2]
+Când plângeam în miez de noapte
+Și credeam că-s singur eu
+Văd lacrimile ce curg
+Tu plângeai de dragul meu!
+
+[v3]
+Câte valuri și-ncercări
+Au trecut prin viața mea
+Acum știu c-ai fost Acela
+Ce-ai vegheat cu mâna Ta!
+
+[v4]
+Nu există mângâiere
+Să se poată compara
+Cu iubirea Ta cea mare
+Ce o simt în viața mea!

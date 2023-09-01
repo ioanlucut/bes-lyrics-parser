@@ -1,0 +1,35 @@
+[title]
+Ajuta pe oricine iti cere ajutor {author: {Florin Pal}, {rcId: {160746}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Ajută pe oricine îți cere ajutor,
+Nu spune niciodată: Nu pot, nu sunt dator.
+Ajută pe oricine și nu fă judecată,
+Și n-aștepta aicea să-ți vină vreo răsplată.
+
+[v2]
+Îmbracă-l și hraneste-l pe omul cel flămând,
+Nicicând să nu pretinzi răsplată pe pământ.
+Zadarnică-i trudirea, zadarnică-i și fapta,
+De vrei în schimb iubirea, de vrei în schimb răsplata.
+
+[v3]
+De-ai dat ceva, tu dă-i și împlinește-ți fapta,
+Să nu știe si stânga ce a făcut și dreapta.
+Tu vei privi cu ochii la masa ta bogată,
+Și nu vei sta cerșind la poarta încuiată.
+
+[v4]
+Căci Domnul cel din ceruri va îngriji să poți,
+Să dărui fără plată în inimă ce porți.
+/: Umplută-ți va fi viața cu cinste și cu har,
+Și cerul pentru tine nu va avea hotar. :/
+
+[v5]
+Te vei intalni cu acestea la marea judecata,
+Cand pe cantar cu mila va fi pusa a ta fapta.
+/: Atunci vedea-vei totul ce n-ai cuprins in minte,
+Cand Domnul iti va da rasplata ca Parinte. :/

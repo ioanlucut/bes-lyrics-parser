@@ -1,0 +1,39 @@
+[title]
+In nadejdea ta {author: {Puiu și Beni Chibici}, {rcId: {239884}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+În nădejdea Ta se lasă
+Doamne cel nenorocit,
+Când povara îl apasă
+Și de drum e obosit.
+
+[c]
+Tu privești din înălțime,
+Și-Ți apleci urechea Ta
+Și rezolvi în întregime,
+Toată întristarea sa.
+Tu privești din înălțime,
+Și-Ți apleci urechea Ta
+Și rezolvi în întregime,
+Toată întristarea sa.
+
+[v2]
+Tu îi iei a sa pricină
+Și necaz în mana Ta,
+Îi alini și suferința
+Și-i întărești inima.
+
+[v3]
+În nădejdea Ta se pleacă
+Cei bolnavi și arși de dor,
+Cu speranța c-o să treacă,
+Umbra Ta prin dreptul lor.
+
+[c2]
+Tu privești din strălucire
+Și Te-apleci pân’ la pământ,
+Să ridici orice zdrobire
+Și să vindeci cu-un Cuvânt.

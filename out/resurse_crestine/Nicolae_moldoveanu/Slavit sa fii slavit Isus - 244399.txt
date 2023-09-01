@@ -1,0 +1,49 @@
+[title]
+Slavit sa fii slavit isus {author: {Nicolae Moldoveanu}, {rcId: {244399}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Slăvit să fii slăvit Isus,
+Ce biruință ne-ai adus,
+Ce praznic sfânt ne-ai pregătit
+În veci să fii slăvit!
+
+[c]
+În veci să fii slăvit,
+Mântuitor iubit,
+Că-n harul Tău ne-ai dăruit,
+Tot ce-am nădăjduit,
+Mai mult de ce-am nădăjduit
+În veci să fii slăvit.
+
+[v2]
+Eram căzuți când Te-am strigat,
+Tu strigătul ne-ai ascultat,
+Cu braț înalt ne-ai izbavit,
+În veci să fii slăvit!
+
+[v3]
+Din noaptea grea pe toți ne-ai scos
+La locul larg și luminos,
+Ne-ai dat mai mult de ce-am gândit
+În veci să fii slăvit!
+
+[v4]
+Cu cei atât de mult iubiți,
+Stăm iar cântând-Ți fericiți,
+Tot ce-am cerut ne-ai împlinit,
+În veci să fii slăvit!
+
+[v5]
+Doar lacrimile pot vorbi,
+Ce sfânt ni-e plinul inimii,
+Azi n-avem grai mai fericit,
+În veci să fii slăvit!
+
+[v6]
+Ce scurte clipe-acum ne par
+Toți anii lungi de chin amar,
+Cu ce mult har i-ai copleșit,
+În veci să fii slăvit!

@@ -1,0 +1,22 @@
+[title]
+El e pacea ta {author: {Stefan Ciobanu}, {rcId: {173769}}
+
+[sequence]
+v1,v2,c,v1,v2,c
+
+[v1]
+Totu-n jur e greu, vânturi bat mereu
+Tu încrede-te în Dumnezeu!
+Poate ești lovit, în suflet rănit
+Dar să știi El nu te-a părăsit!
+
+[v2]
+Când te simți învins, de păcat cuprins,
+Uită-te în sus doar la Isus!
+De păcat iertat și eliberat,
+Prin Isus acum răscumpărat!
+
+[c]
+/: El e pacea ta, El e-n barca ta,
+Ești în mâna Sa, nu te va lăsa! :/
+El pacea Ta!

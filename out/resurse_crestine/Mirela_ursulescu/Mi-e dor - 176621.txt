@@ -1,0 +1,45 @@
+[title]
+Mi-e dor {author: {Mirela Ursulescu}, {rcId: {176621}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mi-e dor, mi-e dor de Domnul meu
+Mi-e dor s-ajung acasă
+Mi-e dor de al meu Dumnezeu
+Să stau cu El la masă
+Mi-e dor și nu știu când va fi
+Aceea zi măreață
+Când dup-ai Lui El va veni
+Mi-e dor să plec acasă.
+
+[c]
+Mi-e dor să zbor spre țara mea,
+Unde vom fi odată
+Toți ce făcut-am voia Sa
+1x: Toți ce-L iubim ca Tată
+(2x): Mi-e dor, mi-e dor și-abia aștept
+Să plec în veșnicie
+Căci lacrimile-mi se topesc
+De dor dup-al meu Mire.
+
+[v2]
+Mi-e dor și simt că nu mai pot
+De dor dup-al meu Tată
+Căci il iubesc nespus de mult
+Vreau sa-L privesc în față
+Acolo lacrimi n-or mai fi
+Nici boli și nici războaie
+Vor fi eterne bucurii
+Doar pace și-adorare.
+
+[v3]
+Ah, dorul acesta e prea greu
+Dar știu sfârși-va odată
+Când ne va duce-acas´ la El
+În țara minunată
+Pe străzi de aur vom umbla
+Și vom cânta cântarea
+Ce îngerii o vor afla
+Când vom strabate zarea.

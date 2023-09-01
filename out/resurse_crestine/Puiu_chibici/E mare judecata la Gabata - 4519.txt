@@ -1,0 +1,47 @@
+[title]
+E mare judecata la gabata {author: {Puiu Chibici}, {rcId: {4519}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+E mare judecată la Gabata,
+Se judecă un Miel nevinovat,
+,,
+La moarte!’’, strigă-nfierbântată gloată,
+,,
+La răstignire fie condamnat!’’
+,,
+Eu nu găsesc în acest Om vreo vină,
+Deci, dați-mi apă mâinile să-mi spăl’’,
+Privea Pilat la fața cea senină,
+,,
+Eu n-am nimic, eu n-am nimic cu El’’.
+
+[c]
+Golgota, locul căpățânii,
+Golgota, loc de plâns amar,
+Golgota, unde cresc doar spinii,
+O, Golgota, o, Calvar.
+
+[v2]
+Privea Maria-ntr-un trecut departe
+Cu-n foc și o văpaie în priviri,
+O, cum să fie condamnat la moarte
+O, cum să uite-atâtea amintiri?
+Minuni cu pâini și pești și apă vie
+Și binecuvântări de copilași,
+,,
+Credeam c-ai să rămâi o veșnicie,
+Dar, Doamne, oare astăzi cui ne lași?
+
+[v3]
+,,
+O, nu mă plângeți, le șoptește Domnul,
+Plângeți-vă copiii și pe voi,
+Căci iată, Eu voi izbăvi Sionul,
+Mă voi întoarce-n vremea de apoi,
+Vom fi-mpreună iar o veșnicie,
+Și toată suferința o vom uita.
+Va fi iar pace pe această glie,
+Și pentru veci noi ne vom bucura.’’

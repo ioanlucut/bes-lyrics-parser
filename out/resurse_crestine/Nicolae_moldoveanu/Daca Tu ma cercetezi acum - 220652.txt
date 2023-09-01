@@ -1,0 +1,40 @@
+[title]
+Daca tu ma cercetezi acum {author: {Nicolae Moldoveanu}, {rcId: {220652}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Dacă Tu mă cercetezi acum,
+Cum mă vei găsi, Isuse?
+/: Alergând pe luminosu-Ți drum,
+Sau pe căi în beznă duse? :/
+
+[c]
+Înaintea Ta,
+Doamne, înaintea Ta
+Este-adevărata stare-a mea!
+
+[v2]
+Ce văd ochii Tăi în duhul meu?
+Adevărul sau minciuna?
+/: Duhul lumii respirând mereu,
+Sau pe Duhul Sfânt întruna? :/
+
+[v3]
+Dacă Tu măsori cu-al Tău Cuvânt
+Viața mea-n orice mișcare,
+/: Cum arată ea-n cântarul sfânt?
+Grea, sau ca un fulg în soare? :/
+
+[v4]
+Implinesc eu rânduirea Ta,
+Cum e spusă-n sfânta Carte?
+/: Și când Tu, oricând, vei căuta,
+Sunt la jugul Tău o parte? :/
+
+[v5]
+Doamne, fă-mi Tu inima deplin
+Credincioasă - ca și Tine -
+/: Ca în orice timp, când merg, sau vin,
+Să Te bucuri Tu de mine! :/

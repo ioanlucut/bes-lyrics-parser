@@ -1,0 +1,29 @@
+[title]
+Tu-mi stii viitorul {author: {Doru Gîrboan}, {rcId: {149624}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Când eram doar un plod fără chip,
+Ochii Tăi mă vedeau!
+În cartea Ta de mult erau scrise
+Zilele ce m-așteptau. :/
+
+[c]
+/: Tu-mi știi viitorul și ești lângă mine,
+De ce să mă îngrijorez?
+Tu mi-ai promis de voi sta lângă Tine
+Nicicând n-ai să mă părăsești. :/
+
+[v2]
+/: De-aș încerca să m-ascund de Tine
+Nu voi reuși,
+Oriunde m-aș duce, chiar la marginea mării
+Mâna Ta mă va călăuzi! :/
+
+[v3]
+/: Tu mă cunoști întru-totul, Doamne,
+Când stau jos sau mă ridic.
+Îmi cunoști toate căile mele,
+Nu pot ascunde nimic. :/

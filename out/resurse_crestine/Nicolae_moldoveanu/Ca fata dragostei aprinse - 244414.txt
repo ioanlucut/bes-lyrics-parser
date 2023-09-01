@@ -1,0 +1,35 @@
+[title]
+Ca fata dragostei aprinse {author: {Nicolae Moldoveanu}, {rcId: {244414}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Ca fața dragostei aprinse,
+Fă-mi Doamne inima din mine,
+/: De-ar arde-n flăcări nemaistinse
+Atunci aș semăna cu Tine! - bis 1 :/
+
+[v2]
+Ca fața Iiniștei curate,
+Fă-mi Tu privirile senine,
+/: De-ar străluci netulburate,
+Așa aș semăna cu Tine. - bis 1 :/
+
+[v3]
+Ca Adevărul sfânt și tare,
+Fă-mi graiul și-ndrăzneț mi-I ține,
+/: Înalt și plin de-ncredințare
+Atunci aș semăna cu Tine! - bis 1 :/
+
+[v4]
+Fă-mi înțelegerea frumoasă,
+Ca fața Iimpedei lumine,
+/: Pătrunzătoare și duioasă,
+Atunci aș semăna cu Tine! - bis 1 :/
+
+[v5]
+De-aș fi tăcut cum e răbdarea,
+Și blând ca fața păcii line,
+/: Nevinovat ca înfrânarea,
+Isuse-aș semăna cu Tine! -bis 1 :/

@@ -1,0 +1,27 @@
+[title]
+Sa nu te temi cand in jurul tau e noapte {author: {Florin Modog}, {rcId: {205620}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Am fost acolo lângă tine când nu știai unde s-apuci
+Când nu zăreai în neagra noapte nicio speranță nicidecum
+La pas cu tine-am mers alături, pe brațul meu Te-am ridicat
+Să te încrezi în al meu nume, Eu sunt cu tine neîncetat
+
+[c]
+Să nu te temi când în jurul tău e noapte
+Eu ca un soare peste Tin voi străluci
+Lumina Mea peste tine va străbate
+Orice întuneric, orice nor de s-ar ivi
+Să nu te temi când în jurul tău e noapte
+Eu ca un soare peste Tin voi străluci
+Lumina Mea peste tine va străbate
+Orice întuneric, orice nor de s-ar ivi
+
+[v2]
+În vremuri grele ce-o să vină îți voi fi alăturea mereu
+Lumina Mea să încălzească viața, inima la greu
+Și norii negri ce-o să vină nu vor fi veșnic pentru Tin
+Să te încrezi în al Meu nume în orice ceas și-n orice zi

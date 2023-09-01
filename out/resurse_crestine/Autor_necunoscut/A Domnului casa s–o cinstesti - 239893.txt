@@ -1,0 +1,27 @@
+[title]
+A domnului casa s-o cinstesti {author: {Autor necunoscut}, {rcId: {239893}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+A Domnului casă s-o cinstești
+O, tu, al Său popor iubit,
+Ca-n ea locul prim să-l ocupe
+Cel ce pentru tine a murit.
+
+[c]
+O, Doamne, sfințește poporul ales de Tine,
+Care l-ai hotărât ca aici să se închine.
+
+[v2]
+Celor pe care Doamne i-ai ales
+Să se roage în casa Ta,
+Dă-le la toți, Duhul Tău cel sfânt
+Să trăiască sfințenia.
+
+[v3]
+O, Tu, popor al Celui Preasfânt,
+Ales ai fost cu El să fii,
+Închină-te Lui ici pe pământ
+Să fii cu El și-n veșnicii!

@@ -1,0 +1,29 @@
+[title]
+Niciodata niciodata {author: {Ilie Belciu}, {rcId: {6664}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Niciodată, niciodată, înapoi să nu privești
+Lasă-ți fruntea ridicată, spre comorile cerești,
+/: Ține strâns de coarne plugul, în al dragostei ogor,
+Căci Acel ce ți-a dat jugul, este bun și iubitor. :/
+
+[v2]
+Niciodată, niciodată, să nu scapi firea din frâu,
+Căci o fire ne-nfrânată, va învinge-ntr-un târziu,
+/: Te va face rob plăcerii, sufletul să-l chinuiești,
+Și în leagănul durerii, jos în iad ai să sfârșești. :/
+
+[v3]
+Niciodată, niciodată, nu plăti rău pentru rău,
+Răzbunarea totdeauna, este a Lui Dumnezeu,
+/: Dacă vrei să treci prin toate, neânvins pân’ la sfârșit,
+Să răspunzi cu bunătate, când cu rău ești răsplătit. :/
+
+[v4]
+Niciodată, niciodată, să nu uiți cât te-a iubit,
+Cel ce fără nici o plată, pentru tine a murit,
+/: Luptă-te lupta cea bună, căci curând vei birui,
+Și-o cunună a dreptății, sus în ceruri vei primi. :/

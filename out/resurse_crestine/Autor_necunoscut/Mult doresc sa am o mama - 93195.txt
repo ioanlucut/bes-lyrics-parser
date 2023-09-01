@@ -1,0 +1,53 @@
+[title]
+Mult doresc sa am o mama {author: {Anonim}, {rcId: {93195}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Mult doresc să am o mamă
+S-o ascult cu drag
+Glasul ei duios mă cheamă
+De copil pribeag.
+
+[c]
+/: S-o ascult, șoptindu-mi dulce
+În orice clipă grea
+Ah! iubita mea măicuță
+Nu te pot uita :/
+
+[v2]
+Mi-a trecut copilăria
+Ca un vis s-a dus
+N-am știut ce-i fericirea
+În Domnul Isus.
+
+[c2]
+/: Am plecat, o, mamă dragă
+De la sânu-ți drag
+Am plecat în lumea largă
+Rătăcind pribeag :/
+
+[v3]
+M-am lăsat atras de lume
+Și m-am depărtat
+De căsuța scumpă în care
+Tu m-ai dezmierdat.
+
+[c3]
+/: Pe cărări ce duc la moarte
+M-am lăsat atras
+Am crezut că-i fericirea
+Dar m-am înșelat :/
+
+[v4]
+Azi din cupa vieții amare
+Sorb îndurerat
+Căci un glas duios de mamă
+Eu nu am ascultat.
+
+[c4]
+/: În mormânt o, mamă scumpă
+Azi vei odihni
+Îți promit că în ziua aceea
+Ai să mă întâlnești :/

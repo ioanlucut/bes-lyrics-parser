@@ -1,0 +1,40 @@
+[title]
+Aleluia s-a nascut isus hristos {author: {Continental}, {rcId: {64254}}
+
+[sequence]
+v1,c,v2,c,v3,b,c
+
+[v1]
+Un rege sfânt ni s-a născut
+Azi s-a născut Isus Christos
+E rege-al cerului slăvit
+Azi s-a născut Isus Christos
+Venit cu umilință
+Azi s-a născut Isus Christos
+
+[c]
+/: Aleluia,
+Astăzi s-a născut Isus Christos :/ ×3
+Alelu, alelu.
+
+[v2]
+Păstorii uimiți în câmp priveau
+Azi s-a născut Isus Christos
+Cu îngerii din cer cântau
+Azi s-a născut Isus Christos
+Și pruncului s-au închinat
+Azi s-a născut Isus Christos
+
+[v3]
+Trei magi veniți din depărtări
+Azi s-a născut Isus Christos
+Conduși de steaua regelui
+Azi s-a născut Isus Christos
+Comori și daruri i-au adus
+Azi s-a născut Isus Christos
+
+[b]
+Veniți acum să ne-nchinam
+Veniți cu toții să cântăm
+Acelui ce ne-a mântuit
+Și ceru-ntreg ni l-a deschis

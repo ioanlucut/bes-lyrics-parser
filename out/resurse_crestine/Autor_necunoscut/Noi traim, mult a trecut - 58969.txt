@@ -1,0 +1,29 @@
+[title]
+Noi traim mult a trecut {author: {Anonim, Traducere RO}, {rcId: {58969}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Noi trăim, mult a trecut,
+Lucruri noi au apărut
+Zile-au fost, s-au terminat
+Cu cea de ieri s-au amestecat
+
+[c]
+/: Din minte-mi scapă lucruri mii
+Locuri, date, ființe vii
+Dar nicicând eu n-oi uita
+Ziua când Ți-am dat viața mea :/
+
+[v2]
+Ce am făcut, ce am văzut
+Mie-mi pare-un vis trecut
+Am devenit ce-am pătimit
+Sunt fericit că m-ai păzit
+
+[v3]
+Curând eu voi îmbătrâni
+O zi în plus, aur mi-a fi
+Si zilele-mi voi număra
+Din ziua când ți-am dat viața

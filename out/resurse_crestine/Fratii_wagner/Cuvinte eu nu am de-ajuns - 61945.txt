@@ -1,0 +1,36 @@
+[title]
+Cuvinte eu nu am de-ajuns {author: {Frații Wagner}, {rcId: {61945}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cuvinte eu nu am de-ajuns
+Să îți mulțumesc azi nespus,
+De dragostea ce Te-a adus
+Să mori pentru mine Isus!
+
+[c]
+/: Mai spune, mai spune-mi ceva,
+Isuse de dragostea Ta!
+Cum dus-ai povoara mea grea,
+Și viața ți-ai dat pentru a mea :/
+
+[v2]
+Mai spune-mi de biciul roman
+Mai spune-mi de chinul amar
+De palmele ce ți s-au dat
+Isus pentru greu-mi păcat!
+
+[v3]
+Mai spune-mi cum toți Te-au lăsat
+Când oamenii Te-au condamnat
+Cum toți de departe au privit
+Pe cruce când Te-au răstignit.
+
+[v4]
+Mai spune-mi cum Tu ai strigat
+”
+Tată iartă-i că nu știu ce fac”
+Cu drag Tu m-ai răscumpărat
+Eu nu vreau să uit niciodat’!

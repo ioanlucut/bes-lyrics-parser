@@ -1,0 +1,35 @@
+[title]
+Din noaptea grea {author: {Mariana Someșan}, {rcId: {169573}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Din noaptea grea, doar Tu m-ai izbăvit,
+Printre străini, Tu singur, M-ai iubit,
+/: Când te-am chemat, Tu mi-ai răspuns Isuse,
+M-ai mântuit și dulce mi-ai șoptit. :/
+
+[v2]
+Eu sunt Isus, Eu sunt scăparea ta,
+Eu Te-am ales, să porți lumina Mea,
+/: Eu Te-am ales, și Te-am chemat pe nume,
+Și-n vasul tău, am pus puterea Mea. :/
+
+[v3]
+De-atunci Isus, mi-e dragă calea Ta,
+De-atunci Isus, Tu ești lumina mea,
+/: Sufletul meu, liber spre ceruri zboară,
+Tot ce-mi doresc, e să Te pot vedea. :/
+
+[v4]
+Să pot lupta, Tu-mi dai credința Ta,
+Să pot răbda, îmi dai răbdarea Ta,
+/: Să pot iubi, Tu-mi dai din cer iubire,
+Să pot ierta, Tu-mi dai iertarea Ta. :/
+
+[v5]
+Îți sunt dator, și vreau să-Ți mulțumesc,
+În orice zi, să-Ți cânt, să te iubesc,
+/: Cu tot ce-mi dai, să te slujesc pe Tine
+În cerul sfânt să pot să Te urmez. :/

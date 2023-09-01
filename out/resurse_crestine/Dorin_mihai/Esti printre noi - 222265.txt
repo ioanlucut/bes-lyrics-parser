@@ -1,0 +1,35 @@
+[title]
+Esti printre noi {author: {Dorin Mihai}, {rcId: {222265}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Ma inchin Isus inaintea Ta,
+Si chem a Ta prezenta.
+Mai vino iar prin Duhul Sfant,
+Si-atinge-a mea fiinta!
+
+[c]
+Esti printre noi Isus iubit,
+Te-ai coborat din slava,
+Sa ne atingi, sa mangai, sa ridici,
+Sa iei orice povara. x2
+
+[v2]
+N-am meritat dar harul Tau,
+Il simt din nou in mine,
+Eu stiu ca esti de partea mea,
+Orice furtuna vine.
+
+[v3]
+Cu Tine Doamne sunt fericit,
+Chiar si in incercare,
+Eu stiu c-atunci ma curatesti,
+Si imi dai rabdare.
+
+[c2]
+Te vom lauda Isus iubit,
+Ca ne-ai dat mantuire,
+Si vrem sa stam pe calea Ta,
+Pana la a Ta venire!

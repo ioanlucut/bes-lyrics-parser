@@ -1,0 +1,35 @@
+[title]
+Noi suntem martori ca hristos {author: {Nicolae Moldoveanu}, {rcId: {243951}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Noi suntem martori că Hristos
+E Dumnezeu, cu Tatăl UNA,
+Adevărat și credincios,
+Și-Atotputernic totdeauna!
+
+[c]
+Cei ce-au trăit, cei ce-au văzut,
+Sunt martori vrednici de crezut,
+C-adevărat și credincios,
+Mântuitor e-n veci Hristos!
+
+[v2]
+Noi suntem martori că am fost,
+În loc de moarte și pierzare,
+Și L-am căutat de Adăpost,
+Și brațul Lui ne-a dat scăpare!
+
+[v3]
+Noi suntem martori c-am trecut
+Prin greutăți nemaitrăite,
+Și L-am chemat și I-am văzut,
+Puterea mâinii Lui slăvite!
+
+[v4]
+Noi suntem martori pentru voi
+Și pentru Domnul pe vecie,
+O, fie-n ziua de apoi,
+Slăvită-această mărturie.

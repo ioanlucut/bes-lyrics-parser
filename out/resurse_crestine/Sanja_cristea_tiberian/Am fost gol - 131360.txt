@@ -1,0 +1,39 @@
+[title]
+Am fost gol {author: {Sanja Cristea Tiberian}, {rcId: {131360}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Doar un licăr printre stele,
+Doar un fir de fum,
+Îmbrăcat în lacrimi grele,
+Rătăceam pe drum.
+
+[c]
+Nimeni nu privea la mine,
+Nu-i păsa nicicui.
+De mi-e rău, ori de mi-e bine
+Și-s al nimănui.
+Am fost gol și-n închisoare
+Și flămând am fost,
+Și în lumea asta mare
+Nu-mi găseam un rost.
+
+[v2]
+Parcă nu eram niciunde,
+Nici nu existam,
+Doar tăcerile profunde
+Se loveau de geam.
+
+[v3]
+Ghemuit în colțuri sumbre,
+Fără niciun gând.
+Printre sutele de umbre
+Tremuram plângând.
+
+[v4]
+Dintre valuri și furtună,
+În amurgul pal,
+Doamne, mâna Ta cea bună
+M-a adus la mal.

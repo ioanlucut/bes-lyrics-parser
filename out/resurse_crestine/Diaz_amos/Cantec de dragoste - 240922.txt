@@ -1,0 +1,33 @@
+[title]
+Cantec de dragoste {author: {Diaz Amos}, {rcId: {240922}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Atent privesc în jurul meu,
+Mă gândesc la viitorul ce
+Îl am în față și doresc tot mai mult
+Alături de Domnul cântul să ascult!
+
+[c]
+/: Când spre ceruri cânt, cânt:
+Cântecul meu pătrunde sublim
+Pe cerul senin, de pace plin! :/
+
+[v2]
+Rabd tăcut când mă gândesc
+La ceea ce vreau să înfăptuiesc.
+Țelul doresc să îmi ating,
+Iar spre Tine Tată cântul îmi deschid!
+
+[e]
+/: Cobori, Tu Isuse lângă mine
+Sub aripa de suspine,
+Doamne gândul mi-e la Tine!
+Cobori, înconjurat de splendoare
+Cu iubire atât de mare! :/
+1x
+Ne întâmpini pe cărare
+(2x)
+Stea de cântec lucitoare!

@@ -1,0 +1,38 @@
+[title]
+Stiu cat de mult tu ma iubesti {author: {Denis Stranis, Otto Pascal}, {rcId: {188103}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Rătăcind în astă lume,
+Am ajuns flămând și gol
+Căci m-am depărtat de casă și mi-e dor,
+Mi-am clădit un nume falnic,
+Am crezut că singur pot,
+Mă primește Tată-n brațul Tău te rog...
+
+[c]
+/: Știu cât de mult Tu mă iubești,
+Știu că încă mă aștepți,
+Știu că ai plâns de multe ori
+De dorul meu...
+Tu mi-ai dat viața ca pe-un dar,
+Eu Te-am pus pe cruce iar,
+Prin purtarea ce-am avut
+Te-am rănit. :/
+
+[v2]
+Am gustat plăceri deșarte,
+Neștiind ce-amar aduc,
+Îmi doream atunci ca vocea să-Ți aud,
+Eu am dat lumii averea,
+Ea mi-a dat al ei venin,
+Mă primește Tată, azi la Tine vin.
+
+[e]
+Iarta-mă Isus, Iarta-mă Isus,
+Primește-mă la Tine-așa cum sunt,
+Când Te-am părăsit și-atunci m-ai iubit,
+M-ai așteptat în prag necontenit,
+Cu-n dor nemărginit.

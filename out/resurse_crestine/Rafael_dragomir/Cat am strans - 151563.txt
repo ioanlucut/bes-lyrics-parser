@@ -1,0 +1,35 @@
+[title]
+Cat am strans {author: {Rafael Dragomir}, {rcId: {151563}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cât am strâns și cât am alergat,
+După lucruri car’ nimic nu mi-au adus,
+Cât am investit, și cât din timp am dat,
+Pentru lucruri care nu mă-nalță-n sus
+Tot ce lumea aceasta Doamne îmi oferă,
+Dacă nu ești Tu, eu doar am de pierdut.
+
+[c]
+Fără Tine n-am,
+Tot ce-n viață farmec mi-a adus.
+Doar cu Tine vreau,
+Să înaintez pe-al vieții drum.
+
+[v2]
+Câtă oboseală în zadar,
+Să te zbați pentru ceva ce-i trecător,
+Câtă pierdere de timp, și nici măcar,
+Nu ai strâns ceva ci ești cu pumnii goi
+Pentru ce te lupți pe-acest pământ, străine,
+Când Dumnezeu îți dă pâinea ca prin somn.
+
+[v3]
+Iar acum nu mă mai uit în jos,
+Ci-mi înalț privirea doar înspre Hristos,
+Vreau să îmi trăiesc viața cu folos,
+Și s-aud la urmă rob bun și credincios
+Să te lupți pentru ceva ce-n veci nu trece
+Așadar timpul tău cu Isus petrece.

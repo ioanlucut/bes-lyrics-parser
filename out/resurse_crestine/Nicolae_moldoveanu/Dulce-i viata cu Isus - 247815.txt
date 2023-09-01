@@ -1,0 +1,29 @@
+[title]
+Dulce-i viata cu isus {author: {Nicolae Moldoveanu}, {rcId: {247815}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Dulce-i viața cu Isus,
+De cu zori până-n apus,
+Din apus și până-n zori
+Și pe soare și pe nori.
+/: Și pe soare și pe lună
+Cu El viața-i bună, bună. :/
+
+[v2]
+Dulce-i calea cu Isus,
+Căci ea duce numa-n sus,
+Chiar prin valea cea mai grea
+Tot la ceruri duce ea.
+/: Noaptea cea de sloi și tină
+O preschimbă în lumină. :/
+
+[v3]
+Dulci sunt toate cu Isus,
+Fără El nimica nu-s.
+Raiul nu e rai frumos,
+Fără chipui-i luminos.
+/: Numai El umple cu soare
+Veacurile viitoare. :/

@@ -1,0 +1,39 @@
+[title]
+Fii binecuvantat {author: {Erdei Erika}, {rcId: {66232}}
+
+[sequence]
+v1,b,c,v2,c,e
+
+[v1]
+Fii binecuvantat
+Cand pamantul e saturat
+Cand ploaia da peste el
+/: Fii binecuvantat! :/
+Cand ma aflu pe pamant uscat
+Si pasesc singur prin pustiu
+Fii binecuvantat!!!
+
+[b]
+Fiecare lauda, Tie Ti-o dau
+Cand noaptea se apropie, Te voi lauda...
+
+[c]
+Binecuvantat fie El
+Binecuvantat!
+Binecuvantat fie El
+Binecuvantam numele Sau!
+
+[v2]
+Fii binecuvantat
+Cand soarele-i din nou pe cer
+Cand toate sunt cum Le-ai creeat
+/: Fii Binecuvatat!! :/
+Cand drumu-i plin de suferinti
+Chiar daca plang si-mi este greu
+Fii binecuvantat!
+
+[e]
+/: Primeste lauda
+Esti vrednic Dumnezeu
+Imi canta inima
+Fii binecuvantat!!! :/

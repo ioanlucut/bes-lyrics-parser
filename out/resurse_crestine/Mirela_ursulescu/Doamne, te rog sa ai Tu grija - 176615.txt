@@ -1,0 +1,45 @@
+[title]
+Doamne te rog sa ai tu grija {author: {Mirela Ursulescu}, {rcId: {176615}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Doamne, te rog să ai Tu grijă, de-ai mei părinți ce m-au crescut
+Pe-a Tale brațe Tu îi poartă și fii în toate, a lor scut.
+
+[c]
+/: Tu binecuvintează-i Tată
+Mai dă-le viață, sănătate
+Fii mângăiere-n a lor casă
+De bucurii să aibă parte :/
+.
+/: Să simtă Doamne fericire
+Când înspre-a lor copii privesc
+Să nu le-aducă întristare
+Ci bucurie cât trăiesc :/
+.
+/: Și te mai rog o Sfinte Tată
+Putere multă să le dai
+Rămâi cu ei viața toată
+Și fa-le parte de-al Tău Rai :/
+.
+
+[v2]
+Când către Tine Doamne strigă, Tu să-i asculți din cerul Tău
+Spre ei Tu să privești cu milă, să îi păzești de orice rău
+
+[v3]
+Iar când tristețea îi cuprinde, de dorul dup-ai lor copii
+Te rog din inimă Isuse, Tu mângăiere să le fii.
+
+[v4]
+Cât timp mai ai părinți în viață, să-i prețuiești orice ar fi
+Să nu îi părăsești vreodata, vei regreta mai târziu.
+
+[v5]
+/: Ascultă-i azi și fi aproape
+De ei cu tot ce poți să fii
+Și cere Domnului ce poate
+Să fii cu ei în veșnicii :/
+.

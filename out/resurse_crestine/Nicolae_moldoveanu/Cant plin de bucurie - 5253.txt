@@ -1,0 +1,29 @@
+[title]
+Cant plin de bucurie {author: {Nicolae Moldoveanu}, {rcId: {5253}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cant plin de bucurie, dau slava pe vecie,
+Caci Domnul m-a salvat;
+Necazuri vin si pleaca, cu-Isus toate-au sa treaca,
+In veci voi fi salvat.
+
+[c]
+El totul mi-e, El totul mi-e mie!
+El totul mi-e, Isus Hristos, mie
+Mi-e tata, mama, sora, frate:
+El, totul mi-e mie!
+
+[v2]
+Dar cand vor veni zile cu nori si umbre pline,
+Domnul ma va ajuta;
+Da, Domnul meu e-n stare de-a ma ajuta pe cale,
+Cand crucea-mi va fi grea.
+
+[v3]
+Cuvantul mi-e lumina, de jertfa Lui imi spune,
+De harul lui Isus,
+Cum pot sa merg pe cale, urcand plin de rabdare,
+S-ajung, in ceruri, sus.

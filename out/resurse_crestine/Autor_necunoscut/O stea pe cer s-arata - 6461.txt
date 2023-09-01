@@ -1,0 +1,29 @@
+[title]
+O stea pe cer s-arata {author: {Anonim}, {rcId: {6461}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+O stea pe cer s-arata,
+Sa ne-nchinam venim indata,
+Inima in dar sa-I dam.
+Regelui Emanuel.
+
+[v1]
+Un Copil ni s-a nascut
+O stea pe cer s-arata
+Fiu de Rege ni s-a dat
+Sa ne-nchinam venim indata.
+Il vor numi Cel minunat, Sfetnic,
+Domn si Imparat
+Mesia cel asteptat.
+
+[v2]
+Ca si magii Il cautam
+O stea pe cer s-arata
+Intr-o iesle sa-L aflam
+Sa ne-nchinam venim indata
+Pe Isus Pruncul cel Sfant
+Mantuire pe pamant
+Bucurie colindam.

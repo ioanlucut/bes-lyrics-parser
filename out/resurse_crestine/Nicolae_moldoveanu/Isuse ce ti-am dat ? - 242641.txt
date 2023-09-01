@@ -1,0 +1,40 @@
+[title]
+Isuse ce ti-am dat ? {author: {Nicolae Moldoveanu}, {rcId: {242641}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Tu ne-ai adus iertarea,
+Ne-ai dat Salvarea-n dar.
+Ne-ai scos din închisoarea
+Păcatului murdar.
+
+[c]
+/: Ne-ai dat o nouă fire
+și un veșmânt curat.
+Dar noi, ca mulțumire,
+Isuse, ce Ți-am dat? bis 1 :/
+
+[v2]
+Tu ne-ai adus putere,
+Scântei din focul Tău.
+O sfântă mângâiere
+Ce mistuie ce-i rău.
+
+[c2]
+/: Spre veșnica cetate
+O cale ne-ai tăiat.
+Dar pentru-acestea toate,
+Isuse, ce Ți-am dat? bis1 :/
+
+[v3]
+Tu tot ce-aveai în lume
+Și-n cer ne-ai dăruit.
+Și inimă, și nume,
+Și Duh nemărginit.
+
+[c3]
+/: Și-n zarea albăstruie
+Tu ce-ai luat și cât?... Doar patru răni de cuie
+Și-o rană-n piept. Atât.. bis 1 :/

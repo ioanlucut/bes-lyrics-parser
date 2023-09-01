@@ -1,0 +1,34 @@
+[title]
+Multumesc {author: {Damaris Azamfirei}, {rcId: {188450}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Te-am chemat de-atatea ori
+Sa pornesti cu mine la drum
+Te-am chemat sa-mi fi ajutor
+Atunci cand toti m-au parasit
+
+[c]
+Multumesc e cuvantul
+Ce acum il rostesc
+Nimic Isuse nu doresc
+Decat sa Iti multumesc! :/ (2x)
+
+[v2]
+Mi-ai fost sprijin in incercare
+Numai Tu, o Doamne
+Mi-ai daruit vindecare
+Cand nu mai aveam scapare
+
+[v3]
+Eliberare mi-ai daruit
+Cand smerit la Tine-am venit
+De pacate sunt iertat
+Prin Sangele Tau, Sfant Isus.
+
+[e]
+Multumesc Isus, Iti multumesc :/ (3x)
+Iti multumesc si te slavesc
+O, Domnul meu!

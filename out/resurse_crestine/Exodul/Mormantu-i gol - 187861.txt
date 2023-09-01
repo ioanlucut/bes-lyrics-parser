@@ -1,0 +1,27 @@
+[title]
+Mormantu-i gol {author: {Exodul}, {rcId: {187861}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ai coborât pentru-a învinge
+Ai suferit fără a greși
+Când sulița ai lăsat a străpunge
+La mine atunci o Doamne Te-ai gândit
+
+[c]
+/: Mormântu-i gol Isus a învins moartea
+Mormântu-i gol El azi îți dă viața :/
+
+[v2]
+Să-mi iei povara nu Ți-a fost ușor
+Când ai rămas chiar singur pe cruce
+Dar azi ești Rege al regilor
+Aștept acum la Tine să ajung
+
+[v3]
+Azi este șansa de-a te pocăi
+Căci Mâine nu știi încotro vei merge
+El te primește de te vei căi
+Al tău păcat pe veci El îl va șterge

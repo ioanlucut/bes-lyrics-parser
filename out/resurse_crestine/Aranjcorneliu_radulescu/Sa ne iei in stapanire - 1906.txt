@@ -1,0 +1,36 @@
+[title]
+Sa ne iei in stapanire {author: {Aranj.Corneliu Radulescu}, {rcId: {1906}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Să ne iei în stăpânire,
+Duh preasfânt, mângâietor
+Și cu flăcări de iubire
+Ne cuprinde-ndurător!
+
+[c]
+O, vino, Duh preasfânt,
+Vrem din nou să te simțim,
+Îmbracă-ne cu-a Ta putere
+Și botează-ne cu foc!
+O, Duh preasfânt, vino peste noi acum!
+
+[v2]
+Sfinte Duh al mângâierii
+Care ne-ai pecetluit,
+Ne descoperă comoara
+Ce în cer ne-ai pregătit!
+
+[v3]
+Sfinte Duh trimis de Tatăl,
+Ajutor ne dă de sus
+Să fim martorii-nvierii
+Și-ai iubirii lui Isus!
+
+[v4]
+Duh de viață și de slavă,
+Ne condu la Tatăl sfânt
+Din mărire în mărire,
+Chiar de-aici de pe pământ!

@@ -1,0 +1,35 @@
+[title]
+De n-ar fi har {author: {Mia Iovin}, {rcId: {1737}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+De n-ar fi harul Tau cel mare,
+Iubitul meu Mantuitor,
+As fi ramas in groapa-n care
+Nu-s mangaieri, nici ajutor.
+
+[c]
+De n-ar fi har, slavitul har,
+As fi pierdut si-as plange in zadar;
+De n-ar fi har, de n-ar fi har
+As fi pierdut si-as plange in zadar.
+
+[v2]
+De n-ar fi dragostea de Tata
+Spre mine fiul cel pierdut,
+As fi pierit si niciodata
+Salvarea n-as fi cunoscut.
+
+[v3]
+De n-ar fi mantia-ndurarii
+Vesmantul sufletului meu,
+As plange plansul disperarii
+Fara raspuns cand chinu-i greu.
+
+[v4]
+De n-ar fi jertfa Ta, Isuse,
+Si sangele Tau scump varsat,
+As fi purtat pe totdeauna
+Osanda pentru-al meu pacat.

@@ -1,0 +1,30 @@
+[title]
+Domnul e pastorul meu lipsa nu voi duce {author: {Anonim}, {rcId: {218934}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Domnul e Păstorul meu, lipsă nu voi duce,
+El mă paște-n verzi pășuni și-mi dă apă dulce,
+/: La izvoare de odihnă Și la apă dulce. :/
+
+[v2]
+Sufletu-mi înviorează, cu povețe bune,
+Pe căi drepte El mă poartă, pentru scumpu-I Nume,
+/: Pentru slava Lui cea mare, Pentru scumpu-I Nume :/
+
+[v3]
+Chiar de-ar fi să trec prin valea morții, nu m-aș teme
+Cu toiagul Tău mă mângâi, Doamne, -n orice vreme.
+/: Cu toiagul și nuiaua, Doamne, -n orice vreme. :/
+
+[v4]
+Mi-ntinzi masa-n fața celor ce ma văd cu ură,
+Îmi ungi capul, și paharu-i plin peste măsură.
+/: Da paharul meu o Doamne, -i plin peste măsură. :/
+
+[v5]
+Fericirea și-ndurarea vor fi-n veci cu mine,
+Și voi sta în casa-Ți sfântă, Doamne, lângă Tine.
+/: Până la sfârșitul vieții, Doamne, lângă Tine. :/

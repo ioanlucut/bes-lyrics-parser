@@ -1,0 +1,26 @@
+[title]
+Noi suntem colindatori de departe {author: {Anonim}, {rcId: {3991}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Noi suntem colindători de departe
+Și-am venit de sărbători
+În astă parte
+Să v-aducem veste bună de departe
+/: Veste de la Betleem din cetate :/
+
+[v2]
+S-a născut Domnul Isus într-o noapte
+Pruncul sfânt venit de sus
+De departe
+Pentru noi El și-a lăsat slava cerească
+/: Pentru cei ce-s păcătoși să-i mântuiască :/
+
+[v3]
+Iată că noi v-am adus o veste bună
+Și dorim Domnul Isus
+La voi rămână
+Să-l primiți în inimi mic și mare
+/: Bucurii s-aveți în inimi sărbătoare :/

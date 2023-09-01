@@ -1,0 +1,23 @@
+[title]
+Mi-amintesc {author: {Gabi Ilut}, {rcId: {231908}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Mi-amintesc de ziua când ai bătut la ușa mea
+Eu aveam un singur gând, să-Ți deschid, să poți intra
+Glasul Tău m-a fermecat, inima pe loc Ți-am dat
+Tu ai rostit doar cuvinte dulci, n-am să uit ziua de-atunci.
+
+[c]
+%Lângă mine ești aproape, Te simt
+O lumină-n plus mai vreau să aprind
+Casa e curată, vreau să rămâi
+Știi că-n inimă ai locul dintâi. %
+
+[v2]
+Am trăit în acea zi clipe dulci, de neuitat
+Ai rămas noaptea târziu, împreună am cinat
+Sufletu-mi îndurerat, numai Tu l-ai vindecat
+Mi-ai luat povara ce o purtam, sunt al Tău cu tot ce am.

@@ -1,0 +1,31 @@
+[title]
+Dumnezeu mi-e adapostul si taria mea {author: {Marta Bergheaua}, {rcId: {61955}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Dumnezeu mi-e adăpostul
+Și tăria mea!
+/: El îmi dă clipă de clipă
+Sfântă Pacea Sa :/
+
+[c]
+/: Tu Isuse ești cu mine
+Și mă întărești!
+Prin Cuvânt îmi dai nădejde,
+Fiindcă mă iubești! :/
+
+[v2]
+Tot ce am nu-mi aparține
+Ale Tale sunt!
+/: Tinerețea, bogăția
+Trec ca frunza-n vânt! :/
+
+[v3]
+Numai dorul întâlnirii
+Cu al meu Cristos,
+Îmi dă rostul vieții mele
+Și mai de folos;
+Mă ajută și mă-nvață
+Să trăiesc frumos.

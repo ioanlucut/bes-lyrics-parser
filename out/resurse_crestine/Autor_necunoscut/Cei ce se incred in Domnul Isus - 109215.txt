@@ -1,0 +1,27 @@
+[title]
+Cei ce se incred in domnul isus {author: {Anonim}, {rcId: {109215}}
+
+[sequence]
+v1,v2,c
+
+[v1]
+Habotchim b’hashem kehar tzion
+Lo yimot le’olam yeshev.
+Yerushalayim harim saviv lah
+Ve’hashem saviv le’amo.
+
+[v2]
+Cei ce se încred în Domnul Isus
+Sunt ca Muntele Sionului
+Cei ce-au credință în Domnul Isus
+Nu se clatină pe veci.
+Ierusalim, locul Preaiubit,
+Isus pe veci va domni
+Ierusalim, locul Preaiubit,
+Isus pe veci va domni.
+
+[c]
+/: Pe veci va domni :/
+Isus pe veci va domni
+/: Pe veci va domni :/
+Va domni!

@@ -1,0 +1,66 @@
+[title]
+Iata un grup de iudei {author: {Nicu Dusan}, {rcId: {114086}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c2,v7,c2,v8,c2
+
+[v1]
+Iată un grup de iudei,
+S-a oprit Isus la ei
+Și vorbea Cuvântul care
+Aducea la toți salvare.
+
+[c]
+O, Samaria, o, Samaria
+Pe-acolo Isus trecea
+Spre Galileea!
+
+[v2]
+Isus prin cetăți umbla
+Și pe toți îi vindeca
+Întâlnind pe păcătoși
+Dar El îi ierta pe toți.
+
+[v3]
+Și-o femeie din cetate
+A venit pe ne-așteptate
+Ca să scoată apă bună
+Era cu găleata-n mână.
+
+[v4]
+Isus văzând-o-nsetată
+I-a vorbit de-o altă apă
+Ce curge din ceruri, sus
+Apa era chiar Isus.
+
+[v5]
+”
+Tu nu știi, i-a zis Isus
+Că-n Scripturi așa e scris:”
+
+[v6]
+”
+Știu! i-a zis atunci femeia
+C-are să vină Mesia
+Și atuncea vom vedea
+Gloria și slava Sa.”
+
+[c2]
+O, Aleluia, o, Aleluia,
+Vine Mesia pe nori
+Dup-al Său popor.
+O, Aleluia, o Aleluia,
+Așa cu toți vom cânta
+Când Îl vom vedea.
+
+[v7]
+Eu care vorbesc cu tine
+Sunt Acela care vine
+Am venit s-aduc salvare
+Să scot lumea din pierzare.
+
+[v8]
+Frați, surori, să ne grăbim
+Gata pentru cer să fim
+Când trâmbița va suna
+Să putem spre cer zbura.

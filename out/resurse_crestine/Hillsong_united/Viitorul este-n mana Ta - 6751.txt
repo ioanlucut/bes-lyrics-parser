@@ -1,0 +1,38 @@
+[title]
+Viitorul este-n mana ta {author: {Hillsong United, Traducere RO}, {rcId: {6751}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Viitorul este-n mâna Ta
+Tu îmi știi viața și ai un plan
+Tu ești drumul meu. Te voi urma!
+Mă ațintesc spre Cel de sus
+Mă încred în ce-ai făcut
+Sunt convins
+Că Tu ești tot pentru mine!
+
+[c]
+Isus, Salvator,
+În viața mea ești tot ce vreau
+Viitorul meu decis e, eu Te voi slăvi
+Căci eu știu că eu sunt, eu sunt al Tău
+Da, eu știu că eu sunt, eu sunt al Tău!
+
+[v2]
+Pământul e în porunca Ta
+Ești stânca pe care eu voi sta
+În fiecare zi Te voi urma.
+Mă ațintesc spre ce-ai făcut
+Sufletul mi-e-n mâna Ta
+Sunt convins
+Că tu ești tot pentru mine!
+
+[c2]
+Nu avem frică,
+Nici rușine că știm cine suntem
+Suntem ai Tăi și nu vom fi tăcuți
+Suntem uniți și noi din toată inima strigăm:
+”
+Ești Dumnezeu și noi vom birui!”

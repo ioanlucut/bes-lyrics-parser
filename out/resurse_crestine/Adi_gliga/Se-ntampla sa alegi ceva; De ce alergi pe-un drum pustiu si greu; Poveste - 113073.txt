@@ -1,0 +1,22 @@
+[title]
+Se-ntampla sa alegi ceva; de ce alergi pe-un drum pustiu si greu; poveste {author: {Adi Gliga}, {rcId: {113073}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Se-ntamplă să alegi, ceva
+Un bine sau un rău, cândva
+Ce va rămâne în urma ta,
+Te va ajunge cândva.
+
+[c]
+De ce alergi pe-un drum pustiu și greu ?
+De ce alegi un rău, când știi,
+Că într-o zi, singur ai să fi?
+
+[v2]
+O clipă de-ai fi stat, s-asculți
+Cum îți șoptea un glas de sus:
+Că doar prin iubire vei putea
+S-alegi ce e bine.

@@ -1,0 +1,27 @@
+[title]
+Azi drumul nostru-i prin pustiu {author: {Anonim}, {rcId: {6935}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Azi drumul nostru-i prin pustiu
+Cu dor în suflet tot mai viu
+Dar nu-I departe-al lui sfârșit
+Așa ne-ai spus Isus iubit
+
+[c]
+/: Vino, o, vino, o, Dulce Isus,
+Du-ne cu Tine așa cum ne-ai spus :/
+
+[v2]
+Multe ispite se ivesc,
+Râuri de ură clocotesc
+Vor să oprească-al nostru-avânt
+Isus spre Canaanul Sfânt
+
+[v3]
+Focul credinței să ni-l crești
+Dragosta noastră s-o mărești
+În Tine să ne-ascunzi Isus
+La Tine-apoi s-ajungem sus.

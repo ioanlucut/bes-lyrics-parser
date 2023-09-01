@@ -1,0 +1,41 @@
+[title]
+O mie de ani cu isus voi trai {author: {Anonim}, {rcId: {4193}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+O mie de ani cu Isus voi trai
+De-aceea sant vesel mereu.
+Vegherea-mi tacuta curand s-a sfarsi
+Si plansul ce-l stiu numai eu.
+
+[c]
+Sant vesel la bine si rau,
+Sant vesel cu Isus, mereu!
+Cararea-mi spinoasa curand s-a sfarsi,
+Cararea ce-o stiu numai eu...
+
+[v2]
+Cu Isus, in toate, eu voi birui
+Pe drumul ce duce la cer.
+Chiar singur cand sant, am pe Domnul cel bun.
+De-aceea sant vesel mereu.
+
+[v3]
+Doresc sa ajung la Isus mai curand,
+Cu El impreuna sa fiu,
+Viata-mi tanjeste de doru-I nespus
+Si-L chem zi si noapte mereu.
+
+[v4]
+De-aceea sant vesel prin greu si suspin,
+Aici pe pamantul strain.
+O, mult, mult mai vesel voi fi, in cer sus,
+Cu mult preaiubitul Isus.
+
+[v5]
+Cu Isus, in toate, eu voi birui
+Pe drumul ce duce la cer
+Chiar singur cand sant, am pe Domnul cel sfant
+De-aceea sant vesel oricand.

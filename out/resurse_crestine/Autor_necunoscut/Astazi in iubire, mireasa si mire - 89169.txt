@@ -1,0 +1,27 @@
+[title]
+Astazi in iubire mireasa si mire {author: {Anonim}, {rcId: {89169}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Astăzi în iubire, mireasă și mire,
+Pe-un drum nou în viață pășesc,
+Cu bucurie și fericire,
+Viața și-o unesc!
+
+[c]
+/: Doamne,
+Te rugăm
+Ca Tu să-i însoțești
+Și oricând în viață să-i călăuzești!
+De vin valuri de-ntristare
+O, Isuse, să-i păzești...
+Și a lor cămin,
+Tu să îl ocrotești! :/
+
+[v2]
+Binecuvintează, Te rugăm, Isuse,
+Acum pe acești doi...
+Care în iubire și armonie
+Viața și-au legat!

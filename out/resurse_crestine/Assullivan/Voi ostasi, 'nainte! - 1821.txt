@@ -1,0 +1,33 @@
+[title]
+Voi ostasi nainte {author: {A.S.Sullivan}, {rcId: {1821}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Voi ostași, ’nainte! Mergeți cu Christos!
+Platoșa cea sfântă s-o-mbrăcați voios.
+Domnul vă conduce. Marele-mpărat,
+Deci cu drag urmați-L, căci El va chemat.
+
+[c]
+/: Sunt la luptă sfântă, al Domnului popor
+Doar cu El în toate vei fi-nvingător :/
+
+[v2]
+Oastea Lui cea mare e Biserica,
+Arma e Scriptura cea puternică
+Și uniți cu toții noi un Domn avem.
+Toți printr-o credință un popor suntem.
+
+[v3]
+Tu, popor, ’nainte mergi necontenit!
+Cu-ndrăzneală-n luptă până la sfârșit.
+Plin de bucurie, cântă ne-ncetat,
+Cerul preamărește Marele-mpărat.
+
+[v4]
+Ale lumii tronuri se vor dărâma.
+Scumpe diademe în praf vor cădea,
+Însă tronul slavei nu se va clinti,
+Regele măririi veșnic va domni!

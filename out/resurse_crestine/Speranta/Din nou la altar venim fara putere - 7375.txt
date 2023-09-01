@@ -1,0 +1,21 @@
+[title]
+Din nou la altar venim fara putere {author: {Speranța}, {rcId: {7375}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Din nou la altar venim fără putere
+În suflete săraci să-ți cerem iertare
+De-atâtea ori ți-am spus că vom umbla-n lumină
+Dar azi dinou venim să-ți cerem milă.
+
+[c]
+Iartă-ne, iartă-ne
+Iartă-ne Dumnezeule.
+
+[v2]
+Din nou la altar te cheamă poporul
+Trimite-ne dinou pe Mângăietorul
+Recunoaștem azi că fără de Tine
+Suntem săraci și reci, ai milă Stăpane.

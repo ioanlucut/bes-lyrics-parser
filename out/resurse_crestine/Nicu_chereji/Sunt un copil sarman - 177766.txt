@@ -1,0 +1,40 @@
+[title]
+Sunt un copil sarman {author: {Nicu Chereji}, {rcId: {177766}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Sunt un copil sărman plecat în lume
+De la părinții mei ce m-au iubit
+Departe, trist și părăsit de prieteni
+Disprețuit, de soartă chinuit
+Mi-e inima îndurerată Doamne
+Și cu amare lacrimi plâng zdrobit
+
+[c]
+Ascultă Doamne ruga mea
+Nu-mi ține-n seamă fapta rea
+Mai dă-mi o seansă
+Te implor Isus iubit
+Am preț nespus în ochii Tăi
+Mă izbăvește de cei răi
+Căci fără Tine sunt pierdut,
+Nu sunt nimic
+
+[v2]
+Oriunde-aș fi îndepărtat de
+Tine
+Nu pot să uit pe-acei ce mă iubesc
+Văd Răul cum se zbate să mă-nghită
+Dar tot la Tine Doamne năzuiesc
+Aduc la crucea Ta tot ce m-apasă
+Și lângă Tine vreau de-acum să cresc
+
+[v3]
+Dar azi Isuse, azi Te rog fierbinte
+Să fii Stăpân peste viața mea
+Că nu mai vreau să mă despart vreodată
+De dragostea și bunătatea Ta
+Zidește-n mine-o inimă curată
+Rămâi de-acum pe veci nădejdea mea

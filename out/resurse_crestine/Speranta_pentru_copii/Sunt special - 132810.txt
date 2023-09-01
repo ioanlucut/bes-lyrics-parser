@@ -1,0 +1,33 @@
+[title]
+Sunt special {author: {Speranța pentru copii}, {rcId: {132810}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+Sunt special, sunt unicat!
+Domnul m-a creat!
+Sunt făptura mâinii Lui
+Copil al Domnului!
+Sunt special, sunt unicat
+Sunt atât de minunat!
+Pe Domnul Îl slăvesc
+Tot ce am Îi dăruiesc.
+
+[v1]
+El mi-a dat două picioare ca să pot umbla
+Să sar, să alerg, eu sunt făptura Sa.
+Două mâini mi-a dăruit, cu ele să pot lucra
+Să mă joc, să ajut, să le ’nalț spre slava Sa.
+
+[v2]
+Și doi ochi mi-a făcut să pot vedea cu ei
+Munți, dealuri, mări și văi și pe părinții mei.
+Două urechi mi-a dăruit cu ele să ascult
+De aceea pe Dumnezeu Îl iubesc atât de mult!
+
+[v3]
+O gură și-o limbă mi-a făcut ca să pot vorbi
+Despre Dumnezeu să pot povesti.
+O inimă ce bate-n piept și-un creier să pricep și eu
+Cât de măreț e Domnul Dumnezeu!

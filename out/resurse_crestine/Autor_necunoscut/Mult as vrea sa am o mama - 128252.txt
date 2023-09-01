@@ -1,0 +1,45 @@
+[title]
+Mult as vrea sa am o mama {author: {Anonim}, {rcId: {128252}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Mult aș vrea să am o mamă
+S-o ascult cu drag
+Glasul ei duios de mamă
+Nu l-am ascultat.
+
+[c]
+/: S-o ascult șoptindu-mi dulce
+În orice clipă grea
+O, iubita mea măicuță
+Nu te pot uita. :/
+
+[v2]
+Mi-am pierdut copilăria
+Ca o zi de mai
+N-am știut ce-i bucuria
+Florilor din Rai
+
+[c2]
+/: Dar sfios, măicuță scumpă
+De la sânu-ți drag
+Am plecat în lumea largă
+Rătăcind pribeag. :/
+
+[v3]
+M-am lăsat atras de lume
+Și m-am depărtat
+De căsuța mică-n care
+Tu m-ai dezmierdat.
+
+[c3]
+Pe cărări ce duc la moarte
+M-am lăsat atras
+Am crezut că-i fericirea
+Dar m-am înșelat
+În mormânt, măicuță scumpă
+Azi te odihnești
+Da-ți promit că-n ziua-aceea
+Ai să mă-ntâlnești.

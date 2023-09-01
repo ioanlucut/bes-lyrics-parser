@@ -1,0 +1,33 @@
+[title]
+Doar la tine {author: {Iolu Cornel}, {rcId: {150328}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Unde să găsesc iubire,
+Unde să m-adăpostesc?
+Unde? Dacă nu la Tine,
+Unde? Dacă nu la Tine. :/
+
+[c]
+/: Doar la Tine, doar la Tine
+Dumnezeul meu,
+Fericire și iubire
+Am găsit mereu. :/
+
+[v2]
+/: Unde să găsesc în lume,
+Tați și mame să m-aline?
+Unde? Dacă nu la Tine,
+Unde? Dacă nu la Tine. :/
+
+[v3]
+Unde să găsesc iubire,
+Unde să m-adăpostesc?
+Unde? Dacă nu la Tine,
+Unde? Dacă nu la Tine.
+Unde să găsesc în lume,
+Tati și mame să m-aline?
+Unde? Dacă nu la Tine,
+Unde? Dacă nu la Tine.

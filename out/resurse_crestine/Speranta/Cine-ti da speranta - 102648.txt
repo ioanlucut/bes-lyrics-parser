@@ -1,0 +1,45 @@
+[title]
+Cine-ti da speranta {author: {Speranța}, {rcId: {102648}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+Cine-ți dă speranță ? Isus Hristos
+Cine-ți dă viață ? Isus Hristos
+Cine-I biruință ? Isus Hristos
+El, numai El.
+Cine te -ntărește ? Isus Hristos
+Cine te iubește ? Isus Hristos
+Cine te sfințește ? Isus Hristos
+El, numai El.
+
+[c]
+El nu e doar un profet
+E doar Isus din Nazaret
+El este Domnul Domnilor
+E Regele Regilor
+El este Dumnezeul sfânt
+El are putere-n cer și pe pământ
+E minunat, e Domnitor,
+E singurul Mântuitor
+
+[v2]
+Cine te ridică ? Isus Hristos
+Cine te vindecă ? Isus Hristos
+Cine te apără ? Isus Hristos
+El, numai El.
+Cine e iubire ? Isus Hristos
+Cine-I apă vie ? Isus Hristos
+Cine-I mântuire ? Isus Hristos
+El, numai El.
+
+[b]
+El e Păstor
+El e bunătate
+El e adevăr
+El este dreptate
+El est sfânt
+E măreț și tare
+E Mielul Sfânt
+Prin Jertfa Lui avem iertare

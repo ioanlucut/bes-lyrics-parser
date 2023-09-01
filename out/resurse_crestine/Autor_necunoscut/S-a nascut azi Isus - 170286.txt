@@ -1,0 +1,29 @@
+[title]
+S-a nascut azi isus {author: {Anonim}, {rcId: {170286}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+S-a născut azi ISUs
+O ce bucurie
+Zorii dau de știre
+A Lui mântuire.
+
+[c]
+Îngerii din ceruri cântă
+Domnului cu voie bunaă:
+Gloria, Gloria, Gloria,
+In excelsis Deo!
+
+[v2]
+Iosif și Maria,
+Stau și-adoră Pruncul,
+Și cu teamă sfântă,
+Ei slujesc pe Domnul.
+
+[v3]
+Se grăbesc păstorii
+Pruncul să îl vadă.
+Și cu bucurie
+Domnului dau slavă.

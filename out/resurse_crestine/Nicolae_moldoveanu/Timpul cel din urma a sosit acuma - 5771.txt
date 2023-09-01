@@ -1,0 +1,48 @@
+[title]
+Timpul cel din urma a sosit acuma {author: {Nicolae Moldoveanu}, {rcId: {5771}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Timpul cel din urma a sosit acuma,
+Fratilor, ca sa ne pocaim;
+Firea pamanteasca vrea sa ne robeasca,
+Dar cu toti, din somn, sa ne trezim!
+
+[c]
+/: Iata, Domnul, frate, la inima-ti bate:
+Deschide-I si nu Il refuza.
+Lumea si trufia, pofta si mandria
+Alunga-le din inima ta! :/
+
+[v2]
+Domnul cerceteaza si apoi lucreaza
+In fiii Sai care I se supun.
+Care se smereste si se pocaieste,
+Il conduce pe-al vietii drum!
+
+[v3]
+Dar sa stii, amice, Cel Rau vrea sa strice
+Credinta ta, ca sa dai ’napoi;
+Dar te roaga tare, cu credinta mare,
+Si striga: „
+O, Doamne, fii cu noi!”
+
+[v4]
+Azi, se profeteste ca-n curand soseste
+Al lumii mare Judecator;
+Biblia arata ca Cel fara pata
+Azi e scumpul nost’ Mantuitor.
+
+[v5]
+Azi, multi se-nspaimanta o De lucrarea sfanta,
+Zicand ca nu-i lucru-adevarat
+Auzind vorbire-n alte limbi straine
+Pe cel ce-i cu Duh Sfant botezat.
+
+[v6]
+Dar Ioel arata veste-adevarata,
+Lucru mare, clar si lamurit
+Despre Profetie si de limbi straine
+Care azi, cu toti, le-am auzit.

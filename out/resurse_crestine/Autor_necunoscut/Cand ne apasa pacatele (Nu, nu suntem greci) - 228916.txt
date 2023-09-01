@@ -1,0 +1,36 @@
+[title]
+Cand ne apasa pacatele (nu nu suntem greci) {author: {Anonim}, {rcId: {228916}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Când ne apasa pacatele,
+Vrem sa vedem pe Isus;
+/: Sa ne aline durerile,
+Vrem sa vedem pe Isus. :/
+
+[c]
+/: Nu, nu suntem greci,
+Dar vrem să-L vedem;
+Căci toată povara ne-a luat,
+Ne-a mântuit și nădejde,
+În viața ne-a dat. :/
+
+[v2]
+Nu vrem doar forme, pe Isus vrem,
+Vrem sa vedem pe Isus;
+/: Nori când se-adună atuncea-L vrem;
+Vrem să vedem pe Isus. :/
+
+[v3]
+Vrem în cântari predici si oricând,
+Vrem sa vedem pe Isus.
+/: Calauzindu-ne pe pamânt,
+Vrem sa vedem pe Isus. :/
+
+[v4]
+Îngerul mortii când va veni,
+Vrem sa vedem pe Isus;
+/: Bratele Lui ne vor linisti,
+Vrem sa vedem pe Isus :/

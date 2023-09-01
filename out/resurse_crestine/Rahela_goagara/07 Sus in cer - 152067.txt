@@ -1,0 +1,33 @@
+[title]
+Sus in cer {author: {Rahela Goagără}, {rcId: {152067}}
+
+[sequence]
+v1,c,v2,c2,e
+
+[v1]
+La sfârșit, când în Cetate vei ajunge,
+Când pe cărări de aur vei păși,
+Când vei privi frumusețea și splendoarea
+Un singur lucru-aș vrea să știu că-ți vei aminti:
+
+[c]
+Sus în cer ne vom reîntâlni;​
+Atât de multe bogății acolo vom privi!​
+Viața noastră nu se va sfârși; noi veșnic vom trăi!​
+Sus în cer ne vom reîntâlni!​
+
+[v2]
+Îi vei vedea pe toți cei dragi în Cetate,
+Pe toți acei ajunși acolo mai demult.
+Cu mare drag vor vrea s-asculte tot ce vei spune,
+Cum calea ți-ai sfârșit și cum ai biruit!
+
+[c2]
+Vreau s-aud și eu ce vei rosti,
+Și-atât de multe bogății acolo vom privi!
+Viața noastră nu se va sfârși; noi veșnic vom trăi!
+Sus în cer ne vom reîntâlni!
+
+[e]
+Sus în cer ne vom reîntâlni!
+Ne vom întâlni!

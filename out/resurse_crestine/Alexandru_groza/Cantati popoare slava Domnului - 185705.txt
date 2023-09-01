@@ -1,0 +1,31 @@
+[title]
+Cantati popoare slava domnului {author: {Alexandru Groza}, {rcId: {185705}}
+
+[sequence]
+v1,c,c,v2,c
+
+[v1]
+Poarta Domnului deschisă e, o, ce plăcut este Locașul Domnului
+Domnul este mare în Sion, bunătatea Domnului ține din neam în neam
+Știți că Domnul este Dumnezeu, El ne-a făcut, ai Lui suntem în veci de veci
+Veselie-n inimi s-aveți, să-I-nălțăm cântări de slavă, Lui să ne-nchinăm
+
+[c]
+Cântați popoare slavă Domnului
+Numele-I lăudați, Lui vă închinați
+El este Domn și Rege-al regilor
+Bunătatea Lui ține din neam în neam!
+
+[b]
+Închinați-vă popoare, aleluia, dați Domnului cinste, Aleluia
+Lăudați, cântați, Numele Lui Sfânt, Domnul este mare în Sion!
+
+[v2]
+Domnul ne-a făcut, ai Lui suntem
+Lăudați popare, Numele Lui sfânt mereu
+Să-l simțim în suflete mereu
+Căci în veac va ține bunătatea Lui
+Mai de preț ca astrele cerești
+Înaintea Domnului cu toți suntem
+Veselie-n inimi să avem
+Laudă, cinste și onoare Domnului să-I dăm!

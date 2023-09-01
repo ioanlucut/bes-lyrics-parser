@@ -1,0 +1,41 @@
+[title]
+Vine-o zi vine-o zi {author: {Daniel Briciu}, {rcId: {240370}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c
+
+[v1]
+Vine-o zi, vine o zi
+Când necazuri și dureri nu vor mai fi,
+Vine-o zi, vine o zi
+Când suspine și-ncercări se vor sfârși.
+
+[v2]
+Vine-o zi, vine o zi
+Când de-aici pleca-vom înspre veșnicii
+Vine-o zi, vine o zi
+Când la Tine sus în cer ne vei răpi.
+
+[c]
+/: Vine-o zi, vine-o zi când la noi vei reveni
+Și în slava cea măreață Tu cu drag ne vei răpi
+Vine-o zi, vine-o zi când cu toți ai tăi copii
+Vom fi pururea cu Tine-n veșnicii, :/
+Vine-o zi!
+/: Vine-o zi, vine-o zi când la noi vei reveni
+Și în slava cea măreață Tu cu drag ne vei răpi
+Vine-o zi, vine-o zi când cu toți ai tăi copii
+Vom fi pururea cu Tine-n veșnicii, :/
+Vine-o zi!
+
+[v3]
+Vine-o zi, vine o zi,
+Când acest pământ noi îl vom părăsi,
+Vine-o zi, vine o zi,
+Când spre alte zări cu toții vom păși.
+
+[v4]
+Vine-o zi, vine o zi,
+Când cu sfinții toți ne vom reîntâlni.
+Vine-o zi, vine o zi,
+Și cu Domnul Isus pururea vom fi.

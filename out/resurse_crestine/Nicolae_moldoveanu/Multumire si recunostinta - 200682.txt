@@ -1,0 +1,42 @@
+[title]
+Multumire si recunostinta {author: {Nicolae Moldoveanu}, {rcId: {200682}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Ți-aduc, Isus, pe coarda lirei mele,
+Recunoștința’n imn fierbinte.
+/: Și dragostea-mi topită’n lacrimi grele,
+Pentru lucrările-Ți Preasfinte! :/
+
+[c]
+Îți mulțumesc,
+Isuse, Ție-Ți mulțumesc,
+Îți mulțumesc,
+Îți mulțumesc,
+lsuse, cu recunoștință-Ți mulțumesc!
+
+[v2]
+Pentru iertarea Ta desăvârșită,
+Pentru’ndurarea Ta cea mare.
+/: Pentru iubirea Ta nemărginită,
+Ce-mi dai prin Crucea salvatoare! :/
+
+[v3]
+Îți mulțumesc nevrednicul de mine,
+Că m-ai adus în sfânta-Ți Casă.
+/: Că și acum și’n veacul care vine,
+Cu Tine mă primești la masă! :/
+
+[v4]
+Îți mulțumesc de viață dăruită,
+De numele cel nou de taină.
+/: De Sărbătoarea cea nemaisfârșită,
+Și de eterna, alba haină! :/
+
+[v5]
+Ți-aduc, Isus, pe-a lirei mele coardă,
+Recunoștința mea’n cântare.
+/: Și’ntregu-mi suflet ți-l aștern, să ardă,
+La preacuratele-Ți picioare! :/

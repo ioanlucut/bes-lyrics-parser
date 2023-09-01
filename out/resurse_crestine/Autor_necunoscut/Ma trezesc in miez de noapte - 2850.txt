@@ -1,0 +1,17 @@
+[title]
+Ma trezesc in miez de noapte {author: {Anonim}, {rcId: {2850}}
+
+[sequence]
+v1,c
+
+[v1]
+Mă trezesc în miez de noapte și mă-ntreb,
+Ce este viața-n care eu trăiesc,
+Ce este lumea-n care eu alerg,
+Și ce sunt toate câte le privesc;
+
+[c]
+/: Și simt adânc în trupul meu stingher,
+Cum toate merg pe-o cale rea și pier,
+Nimic din tot ce văd și ce trăiesc
+Nu poate fi etern și mă-ngrozesc. :/

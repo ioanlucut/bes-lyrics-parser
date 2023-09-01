@@ -1,0 +1,35 @@
+[title]
+Treziti-va frati {author: {Speranța}, {rcId: {101929}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Treziți-vă frați nu mai stați în nepăsare!
+Nu știți că Isus va veni ?
+Suna-va atunci trâmbița deșteptare,
+Biserica o va răpi!
+
+[c]
+Ce bine va fi Sus în ceruri
+Cu Isus, Mirele iubit!
+Uita-vom pe veci orice durere,
+Cu-Acela ce Sus ne va răpi!
+
+[v2]
+Spălați-vă hainele să le-aveți curate,
+În alb să fiți toți îmbrăcați!
+Păstrați-le să le aveți oricând curate,
+Spre ceruri să vă înălțați!
+
+[v3]
+Luați și ulei în candele voastre,
+Rezervă s-aveți într-un vas!
+Când Mirele va bate-atunci la ușă,
+Să fiți gata în orice ceas!
+
+[v4]
+Să nu ațipiți ca și cele cinci fecioare,
+Fără de grijă să nu stați!
+Suna-va atunci trâmbița: ’’ Deșteptare!’’
+Fiți gata cu toți să intrați!

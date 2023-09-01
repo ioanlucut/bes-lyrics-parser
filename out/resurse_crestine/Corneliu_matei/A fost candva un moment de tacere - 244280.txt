@@ -1,0 +1,32 @@
+[title]
+A fost candva un moment de tacere {author: {Corneliu Matei}, {rcId: {244280}}
+
+[sequence]
+v1,c,e
+
+[v1]
+A fost cândva un moment de tăcere
+În ceruri unde veșnic este cânt,
+S-au adunat toți îngerii-n uimire
+Atunci în fața Tronului cel Sfânt.
+Dumnezeu a întrebat dacă este cineva
+Să salveze lumea de păcat,
+Căci întunericul nu va-mpărăți,
+Ci va coborî din cer Lumina pe Pământ!
+Se va împlini Cuvântul Sfânt,
+Tot ce s-a scris și s-a profețit:
+
+[c]
+/: „
+Căci un Copil ni S-a născut, un Fiu ni S-a dat!
+Iar Domnia pe veci va fi pe umerii Lui.
+Plăcerea Lui va fi mereu frica de Dumnezeu,
+Iar Duhul Domnului se va odihni peste El. :/
+
+[e]
+Îl vor numi Minunant,
+Sfetnic, Părinte-al veșniciilor
+Dumnezeu tare, Domn al păcii, veșnic Salvator!
+Îl vor numi Minunat,
+Sfetnic, Părinte-al veșniciilor,
+Dumnezeu tare, Domnul păcii, veșnic Salvator!”

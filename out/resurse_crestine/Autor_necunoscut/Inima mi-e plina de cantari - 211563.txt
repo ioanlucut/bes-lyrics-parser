@@ -1,0 +1,35 @@
+[title]
+Inima mi-e plina de cantari {author: {Anonim}, {rcId: {211563}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Inima mi-e plină de cântări,
+Domnul îmi șoptește blând
+Iată, Eu cu tine sunt mereu,
+Nu te voi lăsa nicicând!
+
+[c]
+Isus, Isus, Isus!
+Plin de străluciri,
+Umpli-ntreaga viață,
+De cântări, și fericiri!
+
+[v2]
+Harfa mea distrusă cum era,
+De păcatul crud amar!
+Domnul a-ntins mâna peste ea,
+Și cântări răsună iar.
+
+[v3]
+Sărbătoarea harului trăiesc,
+Sub aripa Lui păzit,
+Strălucirea Feței Lui privesc,
+Cum să nu cânt fericit!
+
+[v4]
+Iată, Domnul vine să ne ia,
+În cerescul Său palat,
+Voi străbate ceru-ntreg atunci,
+Lângă El încoronat!

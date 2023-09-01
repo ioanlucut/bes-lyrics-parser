@@ -1,0 +1,37 @@
+[title]
+Vreau in veci ca sa cant {author: {Anonim 1}, {rcId: {234204}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Vreau în veci ca să cânt
+O iubire ce-o simt
+Lângă mine aproape mereu!
+Cât trăiesc pe Pământ,
+Nu vreau, mamă, sa uit
+/: Vocea ta, vocea ta, vocea ta. :/
+
+[c]
+Nu te uit, mama mea,
+Căci întreagă viața ta
+Te-ai rugat să mă vezi fericit;
+Te rugai și plângeai,
+Nopți întregi nu dormeai,
+/: Lui Isus, dorul tău îl spuneai :/
+
+[v2]
+Vreau la toți să le spun
+De credință-n furtuni
+Ce-o aveai când luptai pentru noi;
+Și cu lacrimi de jar
+Când puneai pe altar
+/: Viața ta, viața ta, viața ta. :/
+
+[v3]
+Niciodată, nicicând,
+Nu vreau, Doamne, să uit
+Pentru mine ce ea a făcut:
+M-a iubit, m-a-ngrijit,
+Despre Tin’ mi-a vorbit
+/: Mama mea, mama mea, mama mea. :/

@@ -1,0 +1,29 @@
+[title]
+Doua maini {author: {Nicolae Moldoveanu}, {rcId: {5532}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Doua maini, Doamne, astazi se unesc;
+Pe-acest drum impreuna ei pasesc.
+Te rugam, langa ei, sa fii mereu
+Sa cunoasca ca Tu esti Dumnezeu
+
+[c]
+/: Sa-i conduci, cu mana ta
+Tu-i poti binecuvanta
+Tine-i langa bratul Tau,
+Sa fie feriti de rau. :/
+
+[v2]
+Te rugam la perechea asta azi
+Sa le dai binecuvantarea Ta!
+Sa Te stie ca esti de partea lor,
+In toate le esti sprijin si ajutor.
+
+[v3]
+Te rugam, Doamne, cand sunt in necaz,
+Sa le stergi lacrima de pe obraz,
+Sa cunoasca ca esti de partea lor
+Fa-i doamne, una pe amandoi.

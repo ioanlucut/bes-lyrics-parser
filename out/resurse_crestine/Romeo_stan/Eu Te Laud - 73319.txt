@@ -1,0 +1,29 @@
+[title]
+Eu te laud {author: {Romeo Stan}, {rcId: {73319}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Înaintea Ta mă-nchin, o, Doamne sfânt
+Pentru darul ce-ai adus pe-acest pământ
+Mântuirea dăruită la Calvar
+Și sunt liber, fericit prin al Tău har
+
+[c]
+Eu te laud pentru bunătatea Ta
+Cânt Osana, Glorie, Aleluia
+Eu te înalt și Te slăvesc O, Domnul meu
+Îți mulțumesc Isus că sunt copilul Tău
+
+[v2]
+Pe pământ cât am umblat fără Isus
+O viață în păcate eu am dus
+Dar acum sunt fericit și bucuros
+Căci viața mi-a schimbat Isus Hristos
+
+[v3]
+Și viața ta Isus o va schimba
+Să-I predai lui Dumnezeu inima ta
+Fă-l pe Domnul Isus Dumnezeul tău
+El îți iartă tot trecutul ce-a fost rău

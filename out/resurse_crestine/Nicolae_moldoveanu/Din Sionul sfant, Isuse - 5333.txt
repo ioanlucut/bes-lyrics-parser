@@ -1,0 +1,65 @@
+[title]
+Din sionul sfant isuse {author: {Nicolae Moldoveanu}, {rcId: {5333}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,v5,c5,v6,c6
+
+[v1]
+Din Sionul sfant, Isuse, o Din al dragostei locas
+Am dori sa vii o clipa o
+ /: Si iubirea sa ne-o lasi. :/
+
+[c]
+Am dori ca odinioara, o Cand l-ai Tai Te-ai aratat,
+Sa Te-arati acuma, iara, o
+ /: In locasul minunat. :/
+
+[v2]
+Unde vin cu-nflacarare o Preaiubitii Tai copii
+Sa-Ti ridice osanale, o
+ /: Dorindu-Te ca sa vii. :/
+
+[c2]
+Vino si sa-Ti vezi bolnavii, o Cum suspina si Te cheama;
+Vino, mangaie durerea, o
+ /: Preaiubita noastra mama! :/
+
+[v3]
+Si prin ochii de credinta, o Se ridica inspre Tine
+Inimile-ndurerate, o
+ /: O, primeste-le, Stapane! :/
+
+[c3]
+Unii vin si cheama pacea, o Altii striga dupa har;
+Unii cheama izbavirea, o
+ /: Altii-al dragostei hotar. :/
+
+[v4]
+Si asa Te rog, Isuse, o Multe-as mai avea de spus...
+Dar, Iti spunem ca ne arde o
+ /: Dorul de-a ne duce sus. :/
+
+[c4]
+Dorul dupa Tara Sfanta o Unde-i locul pregatit,
+Unde voi ajunge-odata, o
+ /: Langa Tine, Doamne sfant. :/
+
+[v5]
+Unde nu vor mai fi lacrimi, o Nici dureri, nici suferinti;
+Unde nu va fi durerea o
+ /: Care este pe pamant. :/
+
+[c5]
+Te dorim, o, Tara Sfanta! o Te dorim locas iubit!
+Te dorim si-am vrea odata o
+ /: Sa ajungem la sfarsit, :/
+
+[v6]
+Sa ne terminam suspinul o Care parca s-a inmultit
+C-o sa vin-odata ziua o
+ /: Ce profetii au vestit. :/
+
+[c6]
+Te dorim, si pan-atuncea, o Te rugam, Isus iubit,
+Sa ne pregatesti viata o
+ /: Pentru locul mult dorit. :/

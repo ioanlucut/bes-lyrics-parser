@@ -1,0 +1,47 @@
+[title]
+Nu privi la suferinta {author: {Nicolae Moldoveanu}, {rcId: {244419}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Nu privi la suferința
+Pentru Domnul cu-ntristare,
+/: Ea nu-i blestem, nici rușine,
+Ci e cinstea cea mai mare! :/
+
+[c]
+Suferința pentru Domnul
+Este harul strălucit,
+/: Fericit acela care,
+E de ea învrednicit! :/
+
+[v2]
+Suferința pentru Domnul,
+Nu e noapte ci-i lumină,
+/: Nu e zbucium și-apăsare,
+Ci e liniște divină. :/
+
+[v3]
+Suferința pentru Domnul
+Nu-i cădere, ci-i nălțare,
+/: Nu e pierdere-n viață,
+Ci-i câștigul cel mai mare! :/
+
+[v4]
+Suferința pentru Domnul,
+Nu e chin, ci-i mângâiere,
+/: Nu e plâns, ci-i cântec dulce,
+Nu-i slăbie, ci-i putere! :/
+
+[v5]
+Binecuvântați pe Domnul
+Când sunteți în încercare,
+/: Căci prin ea vă faceți vrednici
+De răsplata viitoare! :/
+
+[v6]
+Nu cârtiți, nici nu vă plângeți,
+Ci-o răbdați cu bucurie,
+/: Căci ea trece, dar cununa
+Vă rămâne pe vecie. :/

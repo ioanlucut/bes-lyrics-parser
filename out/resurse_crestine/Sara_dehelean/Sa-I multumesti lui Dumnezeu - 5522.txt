@@ -1,0 +1,47 @@
+[title]
+Sa-i multumesti lui dumnezeu {author: {Sara Dehelean}, {rcId: {5522}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+Să-I mulțumești lui Dumnezeu,
+De ai, în lume, azi, o mamă
+/: Și s-o asculți acum, cu drag,
+Căci te-a crescut cu griji, cu teamă... :/
+
+[v2]
+Căci numai mama te-a crescut,
+Din frageda-ți copilărie,
+/: Și numai ea ți-a arătat
+Cuvântul vieții, din pruncie... :/
+
+[v3]
+Ea pentru tine s-a rugat
+Și zi și noapte cu plăcere,
+/: Iar dimineața te-a sculat
+Spre a-i servi ca mângâiere. :/
+
+[v4]
+Întâi mama te-a învățat
+De-a Domnului iubire sfântă
+/: Și numai ea ți-a arătat
+Speranța cea mai fericită... :/
+
+[v5]
+De-ai fost bolnav, ea te-a-ngrijit
+Cu dragostea ce-alina dorul
+/: Și, dacă toți te-au părăsit,
+Doar ea, ți-a fost mângâietorul. :/
+
+[v6]
+S-o îngrijești acum, cu drag,
+Dacă este încă în viață,
+/: Și s-o ajuți chiar fiind pribeag,
+Cu multe greutăți prin viață. :/
+
+[v7]
+Iar mama, de te-a părăsit
+Și n-ai în lume fericire,
+/: Atunci, să-i pui, pe-al ei mormânt,
+Buchet de flori, ca amintire... :/

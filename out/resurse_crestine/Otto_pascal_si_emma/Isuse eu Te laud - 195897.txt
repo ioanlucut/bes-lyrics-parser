@@ -1,0 +1,62 @@
+[title]
+Isuse eu te laud {author: {Otto Pascal si Emma}, {rcId: {195897}}
+
+[sequence]
+v1,b,c,v2,b,c,e
+
+[v1]
+Am primit din cer
+Nespuse binecuvantari
+Casa mi-ai umplut de bucurii
+Harul Tau mă înconjoara
+Din ai zorii zi
+Esti mereu Strajerul inimii
+
+[b]
+Nu voi tacea voi canta
+În veci voi lauda
+Numele Tau cel sfant
+Nu voi tacea voi canta
+În veci voi lauda
+Numele Tau cel sfant
+
+[c]
+Lauda lauda si inchinarea
+Sa Te inconjoare fiu preinalt
+Tu Esti vrednic Doamne
+Toti sa Te proclame
+Pentru harul Tau nemeritat
+Isuse eu Te laud
+Isuse eu Te laud
+Lauda lauda si inchinarea
+Sa Te inconjoare fiu preinalt
+Tu Esti vrednic Doamne
+Toti sa Te proclame
+Pentru harul Tau nemeritat
+Isuse eu Te laud
+Isuse eu Te laud
+/: Lauda lauda si inchinarea
+Sa Te inconjoare fiu preinalt
+Tu Esti vrednic Doamne
+Toti sa Te proclame
+Pentru harul Tau nemeritat
+Isuse eu Te laud
+Isuse eu Te laud :/
+
+[v2]
+Numai Tu Esti Cel ce viata
+Mi-ai înseninat
+Zambetul pe buze mi-ai redat
+Mainile ridic spre cer
+Slavind puterea Ta
+Tu Isus m-ai binecuvantat
+
+[e]
+/: Doamne Tu Esti sfant
+Doamne Tu Esti drept
+Tu Esti adevarul
+Esti cel mai intelept
+Esti mantuitor
+Rascumparator
+Esti speranta noastra
+Esti Domn al Domnilor :/

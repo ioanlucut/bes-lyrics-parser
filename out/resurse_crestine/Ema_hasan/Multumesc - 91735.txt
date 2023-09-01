@@ -1,0 +1,29 @@
+[title]
+Multumesc {author: {Ema Hasan}, {rcId: {91735}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mulțumesc de tot ce-n viață
+Tu mi-ai dat pe-acest pământ
+Mulțumesc de bucuria
+Ce mi-o dai prin Duhul Sfânt
+
+[c]
+/: Inima mea te laudă, o, Doamne
+Eu numai Ție îți voi cânta
+Aici jos și-n veșnicie
+Ne-ncetat te voi lăuda :/
+
+[v2]
+Pentru mare fericire
+Ce la Tine am găsit
+Pentu veșnica iubire
+Fii lăudat în veci, Isus.
+
+[v3]
+Te slăvesc pentru cununa
+Ce în cer mi-ai pregătit
+Minunata moștenire
+Pentru acel ce-i mântuit.

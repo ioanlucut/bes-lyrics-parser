@@ -1,0 +1,21 @@
+[title]
+Te iubesc isuse {author: {Alexandru Groza}, {rcId: {193466}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Doamne, prezența Ta doresc, să fiu mereu, să Te slăvesc
+Și voia Ta s-o împlinesc și zi de zi să-Ți mulțumesc
+Prin Harul Tău să cresc mereu, să am lumină-n jurul meu
+Cuvântul Tău să-L înțeleg, ajută-mă, Doamne!
+
+[c]
+Te iubesc, Isuse, în inima mea ești Domn
+Dragostea Ta-mi dă putere să-Ți cânt, așa de mic cum eu sunt!
+
+[v2]
+Pe urmele pașilor Tăi, Doamne doresc să merg și eu
+Când sunt condus de brațul Tău eu sunt păzit de orice rău
+Prin Duhul Sfânt îmi dai puteri, speranțe și dulci mânâieri
+Isus, cu Tine voi trăi și sus în veșnicii!

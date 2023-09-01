@@ -1,0 +1,37 @@
+[title]
+Trecea isus prin galilea {author: {Ovidiu Liteanu}, {rcId: {187406}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Trecea Isus prin Galilea
+Să-i vindece pe cei bolnavi
+/: Trecea Isus în vremea aceea
+Să-i mângâie pe cei sărmani :/
+
+[v2]
+Trecea prin Ierihon odată
+Și-acolo orbul Bartimeu
+/: Primise Harul ca să vadă
+Lumina de la Dumnezeu :/
+
+[v3]
+Iar altădată o femeie
+Bolnavă s-a atins de El
+/: Tămăduirea o cuprinse
+O vindeca Emanuel :/
+
+[v4]
+Murise lui Iair fetița
+Ce jale-n casă mai era
+/: Trecea pe-acolo Domnul vieții
+Și pe fetiță-o învia :/
+
+[v5]
+El are milă de-orișicine
+El și de mine s-a-ndurat
+/:
+/: Chemându-mă vino la mine
+Urmându-L viața El mi-a dat :
+/:/

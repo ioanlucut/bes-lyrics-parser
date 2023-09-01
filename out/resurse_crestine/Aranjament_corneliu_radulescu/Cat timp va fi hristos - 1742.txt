@@ -1,0 +1,29 @@
+[title]
+Cat timp va fi hristos {author: {Aranjament Corneliu Radulescu}, {rcId: {1742}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Cat timp va fi Hristos,
+Cat timp raman cu El,
+Prin cantul meu melodios,
+Il voi slavi pe El.
+
+[v2]
+El e al meu Pastor,
+O, cat imi e de drag!
+Cu hrana-mi vine-n ajutor
+Cand sunt strain, pribeag.
+
+[v3]
+Cand vine vremea grea,
+Cand toti ma parasesc,
+Ramane El, speranta mea,
+In El m-adapostesc.
+
+[v4]
+De pierd orice-ajutor,
+Necazuri de-ar veni,
+Alerg la-al meu iubit Pastor
+El ma va izbavi

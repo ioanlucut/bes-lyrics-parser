@@ -1,0 +1,31 @@
+[title]
+Sus pe dealul de la golgota; golgota golgota {author: {Alexandru Groza}, {rcId: {113199}}
+
+[sequence]
+v1,b,c,v2,c
+
+[v1]
+Sus pe dealul de la Golgota
+Stă și-azi crucea lui Isus.
+Doamne, singurul Tău Fiu L-ai dat
+Să moară pentru-al meu păcat
+
+[b]
+Pe Golgota, stă și-azi crucea
+Simbolul sfânt, de pe Pământ
+Plânge, plânge si azi Golgota
+Tragedia care a fost pe ea
+Am plâns mereu păcatul meu
+O, Doamne, mare-I mila Ta!
+
+[c]
+Golgota, Golgota
+Plânge și-azi păcatul meu
+Golgota, Golgota
+Plânge în inima mea.
+
+[v2]
+În grădina Ghetsimani a plâns
+Isus pentru păcătoși
+Rugaciunea Lui din noaptea grea
+Și azi mărturie e!

@@ -1,0 +1,40 @@
+[title]
+Inima imi bate linistit {author: {Luther B. Bridgers}, {rcId: {224256}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Inima îmi bate liniștit,
+Domnul cântă dulce-n ea;,, Teamă n-ai, orice s-ar întâmpla,
+Sunt aici cu pacea mea!’’
+
+[c]
+Isus, Isus, Isus,
+Ești speranța mea.
+Inima mi-e plină,
+Plină de iubirea Ta.
+
+[v2]
+Plină mi-a fost viața de păcat
+De dureri am fost lovit;
+Domnul, însă m-a răscumpărat,
+Lângă El sunt fericit.
+
+[v3]
+Slava feței Sale eu o cânt,
+El e bucurie mea;
+Sub aripa Lui în pace sunt,
+Nu e nimeni să mi-o ia.
+
+[v4]
+El mă trece-ades prin ape-adânci,
+El mă trece și prin foc;
+Greu e drumul zilnic printre stânci,
+Teamă însă n-am deloc.
+
+[v5]
+El va reveni cum a promis,
+Răsplătirea să mi-o dea;
+Mult mai mult în noul Paradis,
+El va fi cântarea mea.

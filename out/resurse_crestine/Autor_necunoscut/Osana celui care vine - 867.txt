@@ -1,0 +1,25 @@
+[title]
+Osana celui care vine {author: {Anonim}, {rcId: {867}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+/: Osana Celui care vine :/
+/: Osana lui Isus Hristos căci El e Domn al domnilor :/
+
+[v2]
+/: Osana Îl slăvea mulțimea :/
+/: Când spre Ierusalim venea căci praznicul s-apropia :/
+
+[v3]
+/: Căci iată Fiul cel prea sfânt :/
+/: Se cobora pe-asin smerit și-n Duhul Lui era mâhnit :/
+
+[v4]
+/: Poporu-ntreg Îl lăuda :/
+/: Și hainele și le-așterneau cu mii de flori Îl așteptau :/
+
+[v5]
+/: Osana Îi cântăm șia stăzi :/
+/: Cu ramuri de finici în mâini Îl laudă pe cel prea sfânt :/

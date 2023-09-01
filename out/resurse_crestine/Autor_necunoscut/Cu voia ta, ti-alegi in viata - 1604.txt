@@ -1,0 +1,35 @@
+[title]
+Cu voia ta ti-alegi in viata {author: {Anonim}, {rcId: {1604}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cu voia ta, ți-alegi în viață
+Tot ce iți pare mai plăcut;
+De-alegere atârnă-n față
+Destinul veșnic ne’ntrerupt.
+
+[c]
+Cu voia ta, ți-alegi salvarea:
+Isus o are pe deplin!
+Crezând in El, primești iertarea,
+Ești mântuit prin har divin.
+
+[v2]
+Cu voia ta, iți poti alege
+Chiar azi a mântuirii zi;
+Nu amâna, căci poți culege
+Cu-amar regretele târzii...
+
+[v3]
+Tu ai venit, în astă lume,
+Sărman și fără voia ta;
+La fel pleca-vei, făr-a spune
+Că nu voiești să pleci din ea.
+
+[v4]
+Cu voia ta, acum primește
+Chemarea Domnului slăvit!
+Doar singur El te mântuiește!
+Doar El te face fericit!...

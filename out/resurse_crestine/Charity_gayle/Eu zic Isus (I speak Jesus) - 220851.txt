@@ -1,0 +1,34 @@
+[title]
+Eu zic isus (i speak jesus) {author: {Charity Gayle}, {rcId: {220851}}
+
+[sequence]
+v1,v2,c,v3,b,c
+
+[v1]
+Tot ce vreau e numele lui Isus
+Peste orice suflet apasat
+Stiu ca in prezenta Ta e pace
+Eu zic Isus
+
+[v2]
+Eu voi rosti doar numele lui Isus
+Pana cand intunericul e rupt
+Declar aici speranta, libertate
+Eu zic Isus!
+
+[c]
+Esti cel puternic, esti cel ce vindeci
+Esti viata-n noi!
+Rupi orice zid greu, aduci lumina
+Si foc in noi.
+
+[v3]
+Eu voi rosti doar numele lui Isus
+Peste orice frica si orice griji
+Peste cei captivi in deprimare
+Eu zic Isus
+
+[b]
+Isus in inaltime, Isus in vai adanci
+Isus in intuneric peste forta raului
+Isus in familie, Eu chem Numele sfant: Isus!

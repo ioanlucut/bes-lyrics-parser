@@ -1,0 +1,27 @@
+[title]
+Te astept {author: {Remus Tămășan Cristi}, {rcId: {155947}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Te aștept, o, Domnul meu privind spre ceruri,
+Te aștept să vii cât mai curând la mine!
+Te aștept să vii degrab’ să-mi alini, Tu, dorul,
+Te aștept căci mi-este atât de dor de Tine!
+
+[c]
+Te aștept, o, Domnul meu!
+Te aștept să vii la mine mai curând!
+Te aștept și-mi este greu,
+Vino, Doamne, și mă du în Cerul sfânt!
+/: Te aștept, o, Domnul meu,
+Te aștept să vii la mine mai curând!
+Te aștept și-mi este greu,
+Vino, Doamne, și mă du în Cerul sfânt! :/
+
+[v2]
+Te aștept, o, Domnul meu să-mi dai cununa
+Pentru care aici cu drag eu Te-am urmat!
+Știu că eu voi fi cu Tine-ntotdeauna,
+Vino și mă du în Cerul minunat!

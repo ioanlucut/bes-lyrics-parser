@@ -1,0 +1,27 @@
+[title]
+La umbra aripilor tale {author: {David Stănuș}, {rcId: {153076}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+La umbra aripilor Tale
+Vreau un loc de adăpost
+La umbra aripilor Tale
+Viața mea are un rost!
+
+[c]
+/: Cât de mare este bunătatea Ta,
+Aș vrea și eu să fiu sădit în ea! :/
+
+[v2]
+Ferice de poporul care
+Te are adăpost mereu
+Și vânturi, apele de-or bate,
+Cetate tare-i Dumnezeu!
+
+[v3]
+O, nu te-ndepărta de mine,
+Tu, Dumnezeul meu iubit!
+Frumoasă-i viața lângă Tine,
+Sunt fericit că-s mântuit!

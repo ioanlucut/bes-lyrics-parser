@@ -1,0 +1,45 @@
+[title]
+Ascult din ceru-i o cantare {author: {Anonim}, {rcId: {220748}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ascult din ceru-i o cântare
+Un imn ca o făclie
+Gândul meu n-o înțelege
+Nu poate s-o descrie
+Tot ce-ai țesut în mări și ape
+Tot ce ai nuanțat
+Strigă al Tău nume
+Tu fii glorificat.
+
+[c]
+Și tunetul de ploaie
+După fulger tresare
+Te laudă nu tace
+Și strigă în gura mare:
+/: E Dumnezeu, e viu
+În veci de veci preasfânt
+Mai mare decât orice
+Cuprinde acest pământ :/
+
+[v2]
+Ce minunat e în nădejde
+Cu Duhul Sfânt ocrotitor
+Să știi că El pe braț te poartă
+Și în final biruitor
+Nu vreau să las să treacă vremea
+Crezând că am pe acest pământ
+O veșnicie a alege
+Între ce-i rău și ce e sfânt.
+
+[v3]
+Al meu vas strigă iarăși tare
+Spre a Ta slavă și mărire
+Și știu, din nou, că-n rugăciune
+Te voi vedea iarăși pe Tine
+O, Doamne sfânt pune Tu Duhul
+Preasfânt să-ncuie odăița
+Și în final să fim toți gata
+Când auzi-vom toți trâmbița.

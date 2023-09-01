@@ -1,0 +1,37 @@
+[title]
+Bunule pastor tu ai venit {author: {Corul de copii ”Bunul Păstor”}, {rcId: {59985}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Bunule Păstor Tu ai venit,
+Pe pământ la noi Te-ai coborât,
+În iubirea Ta Tu ne-ai cuprins,
+Viață Tu ne-ai dăruit!
+
+[c]
+O Păstor Minunat, o Păstor Îndurat
+Ai murit pentru noi să fim salvați
+O Păstor Minunat, o Păstor Îndurat
+Te slăvim căci din morți ai înviat!
+
+[v2]
+Bunule Păstor Tu Te-ai jertfit,
+Viață veșnică noi am primit
+Noi copii azi la Tin’ venim,
+Iubirea sfântă s-o primim!
+
+[v3]
+Te iubim Păstorule Divin,
+Te-adorăm și Te cinstim ca Domn
+Lăudăm Numele Tău cel Sfânt,
+Acum și-n veci de veci amin!
+
+[c2]
+O Păstor Minunat, o Păstor Îndurat
+Ai murit pentru noi să fim salvați
+O Păstor minunat, o Păstor Îndurat
+Te slăvim căci din morți ai înviat!
+Mulțumim căci ne-ai salvat de păcat
+/: Mulțumim căci ne-ai salvat :/ de păcat.

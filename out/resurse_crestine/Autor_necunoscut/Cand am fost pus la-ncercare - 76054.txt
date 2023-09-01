@@ -1,0 +1,25 @@
+[title]
+Cand am fost pus la-ncercare {author: {Anonim}, {rcId: {76054}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cand am fost pus la-ncercare cand am fost in mari nevoi
+/: Doamne Tu ai fost cu mine, n-am fost singuri am fost doi :/
+
+[c]
+Tu nu m-ai parasit, nu m-ai parasit cand Te-am suparat
+Cand Te-am intristat. Tu nu m-ai parasit.
+
+[v2]
+Cand cei rai au dat in mine cu ocara si noroi
+/: Doamne Tu mi-ai dat rabdare n-am fost singur am fost doi :/
+
+[v3]
+Cand am fost pus fata-n-fata cu satana in razboi
+/: Doamne Tu mi-ai dat izbanda n-am fost singur am fost doi :/
+
+[v4]
+Cand a zis odata Domnul iata Eu voi fi cu voi
+/: Am stiut ca nu sunt singur si in toate am fost doi :/

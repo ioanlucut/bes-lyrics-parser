@@ -1,0 +1,29 @@
+[title]
+Sa fiu neprihanit {author: {Andreea Avădanei}, {rcId: {216061}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Plăcute-Ți sunt, o, Doamne, faptele curate
+În Cer vor locui doar cei neprihăniți!
+Curate ne vor fi a noastre haine-atuncea,
+În Ziua ce-a măreață, când Tu vei veni!
+
+[c]
+/: Tu mă ajuți să fiu neprihănit, o, Doamne,
+Căci doar curat pot înspre Cer să-naintez,
+Firav eu sunt, dar Tu îmi ești puterea
+Și nu mă lași și nu mă părăsești! :/
+
+[v2]
+Plăcute-Ți sunt, o, Tată, faptele curate
+De îmi arăt iubirea chiar când sunt rănit,
+Ajută-mă să-ntind o mână caldă acelui,
+Ce slab fiind, tristețe mi-a pricinuit!
+
+[v3]
+Iubit Îți este omul ce are blândețe
+Ce vrea să fie drept și-n văz și în ascuns,
+Să fiu și eu, ajută-mă Părinte,
+Tot ce promit, să împlinesc Isus!

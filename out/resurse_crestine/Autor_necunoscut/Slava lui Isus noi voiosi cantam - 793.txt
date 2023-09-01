@@ -1,0 +1,43 @@
+[title]
+Slava lui isus noi voiosi cantam {author: {Anonim}, {rcId: {793}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Slavă lui Isus noi voioși cântăm
+Slavă lui Isus noi vrem ca să îi dăm
+Căci El ne-a iubit și ne-a dăruit
+Un har bogat să-L preamărim pe Isus să-L slăvim.
+/:
+/: Slavă Lui :/ Slavă Domnului Isus :/
+Slavă lui Isus noi voioși cântăm
+Slavă lui Isus noi vrem ca să îi dăm
+Slavă lui Isus noi voioși cântăm
+Și numele Lui cel prea sfânt noi vrem să-L lăudăm.
+
+[c]
+/: Noi lăudăm pe Domnul :/ x3 Isus
+/: Noi lăudăm pe Domnul :/
+Slăvim numele Domnului prea sfânt
+/: Noi lăudăm pe Domnul :/ că și pe noi copiii ne-a iubit
+La El și mic și mare, toți capătă-ndurare
+Noi lăudăm cu toții pe Isus.
+
+[v2]
+Odată Domnul s-a oprit în drum
+Lângă un om ce s-a urcat în dud
+Era un om mic și dorea nespus
+Să-L vadă și el pe Domnul Isus
+Zachee dă-te-n grabă acuma jos
+Căci Eu iubesc pe orice păcătos
+De astăzi mântuirea-n casa ta
+Dacă vei vrea tu vei avea.
+Dacă dorești, Isus în dreptul tău
+Să se oprească azi pe pragul meu
+Vino cu noi lăudând numele Său
+Cu drag te va primi la pieptul Său.
+
+[e]
+/:
+/: Slavă Lui :/ Slavă Domnului Isus :/

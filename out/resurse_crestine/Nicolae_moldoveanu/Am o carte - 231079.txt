@@ -1,0 +1,26 @@
+[title]
+Am o carte {author: {Nicolae Moldoveanu}, {rcId: {231079}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Am o Carte ce mă-nvață tot ce-i vrednic de-a fi spus:
+Biblia, Biblia, Cartea Domnului Isus.
+
+[c]
+Sunt copil, dar asta știu: Biblia-i Cuvântul Viu
+Spus de Dumnezeul sfânt, spus de Dumnezeul sfânt,
+Tată-n cer și pe pământ.
+
+[v2]
+Am o Carte ce-mi arată drumul drept spre-un cer frumos,
+Biblia, Biblia, Cartea Domnului Hristos.
+
+[v3]
+Am o Carte ce-mi aprinde al credinței viu avânt:
+Biblia, Biblia, Cartea Tatălui Preasfânt.
+
+[v4]
+Am o Carte - numai una și doresc s-o împlinesc:
+Biblia, Biblia, Cartea Tatălui Ceresc.

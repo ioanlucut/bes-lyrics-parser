@@ -1,0 +1,32 @@
+[title]
+Cand stau si privesc trandafirii (the flowers the sunset the trees) {author: {Mattie O’Neal, Jim Reeves, Traducere RO}, {rcId: {93564}}
+
+[sequence]
+v1,c,v2,c2,s,c2
+
+[v1]
+Când stau și privesc trandafirii
+Sub dulci adieri de parfum
+Eu știu că în Domnul zidirii
+Totul e-mbrăcat de sublim.
+
+[c]
+Așa frumuseți minunate
+Eu nu aș putea făuri
+Dar Cel care-a pus grație-n toate
+E-al meu Domn sfânt din veșnicii.
+
+[v2]
+Culoarea apusului tainic
+N-o poate reda vreun penel
+Eu știu din Cuvântul cel veșnic
+Cerul laudă pe Dumnezeu.
+
+[c2]
+Câte frumuseți minunate
+Îmi sunt așternute-n priviri
+Zăresc cu privirea spre cruce
+Zorii veșnicei mântuiri.
+
+[s]
+Cât de multe sunt lucrările Tale, Doamne! Tu pe toate le-ai făcut cu înțelepciune, și pământul este plin de făpturile Tale. Psalm 104:24

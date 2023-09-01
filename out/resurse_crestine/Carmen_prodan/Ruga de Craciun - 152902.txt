@@ -1,0 +1,39 @@
+[title]
+Ruga de craciun {author: {Carmen Prodan}, {rcId: {152902}}
+
+[sequence]
+v1,c,v2,c2,v2,c3
+
+[v1]
+Tu ai venit Isus în lumea noastră
+Și n-ai avut aicea bogății,
+Pe umeri ai luat povara noastră
+S-avem prin Tine astăzi bucurii...
+
+[c]
+/: E zi de sărbătoare dar inima ne plânge
+C-atâția Doamne astăzi Te resping,
+E lumea-n nepăsare, înspre pierzare merge
+Și-atâția ușa inimii-Ți închid: \
+
+[v2]
+Tu ai venit Isus prin proorocie
+În ieslea rece-n vechiul Betleem,
+Dar mulți n-au înțeles c-a Ta venire
+Scăpare e de moarte și blestem.
+Tu ai venit Isus s-aduci speranță,
+Dar azi în deznădejde ne gasești...
+Suntem împovărați, e greu pe cale,
+O, numai Tu poți să ne izbăvești!
+
+[c2]
+/: Azi nu mai e Crăciunul la fel ca altădată
+Simțim că ești aproape ca să vii
+O, dă-ne Tu putere să biruim în luptă,
+Să Te vedem ca Rege-n veșnicii! : \
+
+[c3]
+/: De ziua Ta Isuse venim smeriți în rugă,
+Ne iartă că suntem atât de goi,
+O, lasă-n multe inimi un strop de fericire
+Și Te rugăm, Isus, rămâi cu noi: \

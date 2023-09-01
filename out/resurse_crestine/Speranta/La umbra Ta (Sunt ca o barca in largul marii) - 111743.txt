@@ -1,0 +1,39 @@
+[title]
+La umbra ta (sunt ca o barca in largul marii) {author: {Speranța}, {rcId: {111743}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Sunt ca o barcă în largul mării
+Lovită de valuri și furtună
+Iar când norii grei se-adună
+Ești cu mine, ești la cârmă!
+Iar când norii grei se-adună
+Ești alături, mă ții de mână
+
+[c]
+La umbra Ta m-adăpostesc în vreme grea
+La umbra Ta eu găsesc salvare
+Domnul meu, pe brațul Tău mă sprijinesc când mi-este greu
+Ești adăpost în vreme de-ncercare!
+
+[v2]
+Sunt o sămânță ce-a încolțit
+Într-un pământ uscat și tare
+Chiar de arșița e mare
+Mă înviorezi, îmi dai suflare
+Chiar de arșița e mare
+Tu-mi dai viață, mă ții-n picioare
+
+[v3]
+Sunt doar un om între miliarde
+Sunt un fir de praf în astă lume
+Dar știu că mă cunoști pe nume
+Eu sunt al Tău, am un renume
+Dar știu că mă cunoști pe nume
+Ești Tatăl meu, în astă lume!
+
+[e]
+La umbra Ta mă adăpostesc
+Pe brațul Tău mă odihnesc!

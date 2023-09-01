@@ -1,0 +1,29 @@
+[title]
+Gandul bun {author: {Nicolae Moldoveanu}, {rcId: {227128}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Gândul bun nu e de-ajuns,
+fapta-i sfântul lui răspuns.
+Toate gândurile bune,
+Domnului prin rugăciune,
+spune-I-le-n dulce șoaptă,
+să ți le prefacă-n faptă.
+
+[v2]
+Numai vorba ta frumoasă
+nu aprinde-o lampă-n casă.
+Toate vorbele-ți le pune
+Domnului, și-n rugăciune,
+spune-I-le-n dulce șoaptă,
+să ți le prefacă-n faptă.
+
+[v3]
+Adevăru-și aibă-n tine
+adăpost cum se cuvine.
+Toate-a tale tu le pune
+Domnului, și-n rugăciune,
+spune-I-le-n dulce șoaptă,
+să ți le prefacă-n faptă.

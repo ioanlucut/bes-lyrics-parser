@@ -1,0 +1,29 @@
+[title]
+In ascultare de dumnezeu {author: {Dina Maria Pop}, {rcId: {175614}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+În ascultare de Dumnezeu
+Tu să rămâi și-n ceasul greu
+Să nu te plângi la nimenea
+Să poți s-auzi din cer vocea Sa
+
+[c]
+/: O ce plăcut e când Dumnezeu
+Vorbește tainic în sufletul Tău
+Și cât de bine-i să fii smerit
+Să întelegi Vocea ce ți-a vorbit: \
+
+[v2]
+Spre ceruri glasul să ți-l îndrepți
+Și într-o tăcere adânca s-aștepți
+Să îți răspunda din cer Dumnezeu
+Susurul Blând să-L simți mereu
+
+[c2]
+/: Ce minunat e să fii prietenul Lui
+Să întelegi tainele cerului
+Și să primești marele ajutor
+Biruitor să ieși din cuptor: \

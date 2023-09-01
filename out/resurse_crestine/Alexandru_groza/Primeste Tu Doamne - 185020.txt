@@ -1,0 +1,45 @@
+[title]
+Primeste tu doamne {author: {Alexandru Groza}, {rcId: {185020}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Primește Tu, Doamne,
+A mea închinare
+Și-alungă tristețea
+Și-ngrijorarea mea!
+Ridică-mă, Doamne,
+Și dă-mi Îndurare,
+Căci fără Tine, azi știu,
+Nu sunt nimic!
+
+[c]
+/: Vreau să fiu și eu salvat,
+Din starea mea de păcat!
+Astăzi vin la Crucea Ta,
+Ca să las povara grea.
+Pentru că Tu Te-ai Jertfit,
+Vreau să-Ți fiu rodul dorit!
+Te rog, să-mi sfințești viața,
+Ca să pot fi mântuit! :/
+
+[v2]
+Anii mei dragi
+I-am pierdut în păcate
+Și în Via Ta, Doamne,
+Eu nimic nu am lucrat.
+Ridică-mă, Doamne
+Și dă-mi îndurare,
+Căci fără de Tine
+Azi știu, nu sunt nimic!
+
+[c2]
+Sfințește-mă, Domnul meu
+Spală-mă-n sângele Tău
+Ca să mă pot prezenta
+În Împărăția Ta
+Pentru că Tu Te-ai jertfit
+Vreau să-Ți fiu rodul dorit
+Mă încred în Tine, Doamne
+Jerfta Ta m-a mântuit!

@@ -1,0 +1,37 @@
+[title]
+Let the little one sleep {author: {Barney E. Warren}, {rcId: {101984}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+That little form before us
+In death’s embrace,
+Sweet angel face,
+Has left a vacant place.
+
+[c]
+Let the little one sleep,
+Let the little one sleep,
+It is free from this world of care;
+The Master has come,
+And called it home,
+It is resting over there.
+
+[v2]
+Our darling child is sleeping,
+It’s left this shore,
+Forevermore,
+Its suff’ring days are o’er.
+
+[v3]
+Our little one is living
+Among the blest
+In sweeter rest;
+Our Father knoweth best.
+
+[v4]
+Our child has gone to glory;
+Let us prepare
+To meet it there,
+Eternal bliss to share.

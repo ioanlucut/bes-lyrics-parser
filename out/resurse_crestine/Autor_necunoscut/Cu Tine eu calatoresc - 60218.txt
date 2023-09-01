@@ -1,0 +1,41 @@
+[title]
+Cu tine eu calatoresc {author: {Anonim}, {rcId: {60218}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Cu Tine eu călătoresc
+Pe drumul-ngust și greu,
+Credința mea eu o zidesc
+Numai prin Dumnezeu.
+
+[c]
+Cu tine vreau să fiu
+În viața mea acum,
+O, Domnul meu cel Viu
+Condu-mă pe-al Tău drum.
+
+[v2]
+În viața mea de s-ar ivi,
+Furtuni și încercări,
+Cu Tine atuncea de voi fi
+Voi avea mângâieri.
+
+[v3]
+Viața-ntreagă mi-o predau
+Cu totu-n Mâna Ta,
+Ca pe-al Tău Braț pe veci să stau
+Să am fericirea.
+
+[v4]
+Deși viața este grea
+Aici pe-acest pământ,
+Simțim ades mângâierea
+Prin Duhul Tău cel Sfânt.
+
+[v5]
+Prin Duhul Sfânt noi biruim
+Ispite și dureri;
+Cu Domnu-n cer când o să fim
+Vom avea mângâieri.

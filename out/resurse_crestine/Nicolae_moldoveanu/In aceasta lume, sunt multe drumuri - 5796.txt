@@ -1,0 +1,30 @@
+[title]
+In aceasta lume sunt multe drumuri {author: {Nicolae Moldoveanu}, {rcId: {5796}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+In aceasta lume, sunt multe drumuri,
+Dar numai unul duce spre cer.
+Si-acest drum pe la Golgota trece;
+De nu mergi pe el, drept, vei fi pierdut!
+
+[c]
+Departe de stele, departe de lume,
+Acolo-i tara mea... Ai auzit de ea?
+Departe de stele, este-o lume noua;
+Acolo-i tara mea, ce prin credinta-am mostenit!
+
+[v2]
+In aceasta lume, sunt multe drumuri,
+Si fiecare are sfarsit.
+Dar, in curand, vom parasi aceasta lume
+Si: „
+Unde mergem?” se-ntreaba multi.
+
+[v3]
+Din aceasta lume, pleaca fiecare
+Si, in curand, vei pleca si tu!
+Ai auzit aceasta veste minunata?
+Acasa, te-asteapta-n vesnicii!

@@ -1,0 +1,37 @@
+[title]
+Nu te scuza deloc {author: {Nicolae Moldoveanu}, {rcId: {5598}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c
+
+[v1]
+Nu te scuza deloc, o Cand lucrul e prea greu!
+Fii gata de servit o Oriunde El te-a pus!
+
+[c]
+Ridica-ti ochii tai si vezi o Cum toate holdele s-au copt!
+Nu sta! Isus vrea sa lucrezi.
+
+[v2]
+Ai stat prea mult in targ, o Prea mult ai asteptat;
+Ai fost lipsit de sarg, o Nimic tu n-ai lucrat.
+
+[v3]
+Nu sovai deloc o Si nu te mai tocmi,
+Ca ce-ti va fi, cu drept, o Isus iti va plati.
+
+[v4]
+De ce stai si te uiti, o Privesti nepasator,
+Cand sunt atati ce pier o Far’ de Mantuitor!
+
+[v5]
+Prinde prileju-acum, · Cat tu mai poti lucra!
+Salveaza, frate,-acum · Tot ce mai poti salva!
+
+[v6]
+Ah, unde-i sporul tau? · Poti spune c-ai lucrat?
+Poti ca s-arati progres, · De cand El te-a chemat?
+
+[v7]
+Curand El vine iar · Sa ceara-ai Sai arginti
+Si-atunci, cum ai s-apari?... · Cu ce-ai sa te prezinti?...

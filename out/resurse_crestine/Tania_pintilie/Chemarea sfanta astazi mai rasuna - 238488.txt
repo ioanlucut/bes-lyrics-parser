@@ -1,0 +1,29 @@
+[title]
+Chemarea sfanta astazi mai rasuna {author: {Tania Pintilie}, {rcId: {238488}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Chemarea sfântă astăzi mai răsună
+Pentru acei ce încă rătăcesc;
+Aceeași milenară veste bună
+Ne cheamă la Părintele ceresc.
+
+[c]
+Întoarce-te acuma chiar din vechiul vieții drum,
+Renunță la păcatul tău și vino chiar acum
+Pe drumul care duce către patria de sus;
+Întoarce-te, întoarce-te și vino la Isus!
+
+[v2]
+De doua mii de ani se tot vestește
+El moartea-n locul tău a suferit;
+Întoarce-te, iertarea Lui primește,
+Să fii pe veșnicie mântuit.
+
+[v3]
+Chiar dacă azi a Domnului chemare
+Tot mai puțini o cred și o primesc,
+Gândește-te la propria-ți salvare
+Și-ntoarce-te la Mirele ceresc.

@@ -1,0 +1,35 @@
+[title]
+Eu ma bizuiesc pe tine {author: {Nicolae Moldoveanu}, {rcId: {192410}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Eu mă bizuiesc pe Tine,
+Pe Cuvântul Tău cel sfânt.
+/: Doamne, Tu rămâi Același:
+Credincios în legământ! :/ x2
+
+[v2]
+Eu de multe ori mă clatin
+Și de multe ori sunt frânt,
+Dar Tu, Doamne, ești Același:
+Credincios în legământ
+
+[v3]
+Eu iți fac făgăduințe,
+Și nu le-mplinesc cum sunt,
+Însă Tu ramai Același:
+Credincios în legământ
+
+[v4]
+Eu sunt slab și mă doboară
+Orice val și orice vânt,
+Dar Tu veșnic ești Același:
+Credincios în legământ
+
+[v5]
+Eu mă bizuiesc pe Tine,
+Și Te rog dă-mi har și-avânt,
+Ca s-ajung să-Ți semăn Ție,
+Credincios în legământ!

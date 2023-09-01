@@ -1,0 +1,29 @@
+[title]
+Noi il slavim azi pe hristos {author: {W.H.Eisele}, {rcId: {1243}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Noi Îl slăvim azi pe Hristos,
+Căci El ne--a mântuit pe toți;
+Cei ce în El nădăjduiesc
+Din inimă Lui Îi servesc.
+
+[c]
+Cântăm azi, cântăm azi,
+Cântăm mărire Domnului,
+El fie, El fie,
+El fie ne-încetat cu noi.
+
+[v2]
+O, sfânt Cuvânt al lui Hristos,
+Ne fii și astăzi de folos,
+Pătrunde- adânc în inimă,
+Ca nu--n zadar să ascultăm.
+
+[v3]
+În veci de veci e bucuros
+Cel care-n sânge- al lui Hristos
+E de păcate curățit
+Și prin credință mântuit.

@@ -1,0 +1,33 @@
+[title]
+Dor al dorurilor mele {author: {amos7}, {rcId: {74205}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+Dor al dorurilor mele stralucit si sfant si inalt
+/: Toata dragostea mea suie catre tarmul celalalt :/
+
+[v2]
+Cum atrase-n dor de tarmuri cheama un val pe altul val
+/: Mi se cheama a mele doruri catre tarmuri de cristal :/
+
+[v3]
+Orice clipa imi aduce alt nou dor acolo Sus
+/: Unde in inima-mi cu toata dragostea pe veci ai pus :/
+
+[v4]
+Alt nou dor in orice clipa iti aduce sfantul prag
+/: Tot ce pot avea pe lume mai curat mai scump mai drag :/
+
+[v5]
+Rugaciunea si cantarea vin sa-ti spuna in lacrimi cat
+/: Te doreste un suflet care..te iubeste atat si atat!! :/
+
+[v6]
+Cat te cheama, cat suspina cat asteapta clipa cand
+/: Tarmul fericirii Tale, Ti-l va saruta plangand :/
+
+[v7]
+Care-i valul ce m’ar duce pana acolo intr-un salt
+/: Dorul dorurilor mele de pe tarmul celalalt :/

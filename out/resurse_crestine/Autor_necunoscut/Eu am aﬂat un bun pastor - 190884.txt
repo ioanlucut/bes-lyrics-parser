@@ -1,0 +1,31 @@
+[title]
+Eu am aflat un bun pastor {author: {Anonim}, {rcId: {190884}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Eu am aﬂat un bun păstor
+Ca El nimeni altul nu-i
+/: Un ﬁu de om îndurător
+Mi-a dat din harul Lui :/
+
+[c]
+/: Mai sunt în lume bogății
+Dar nu-s ca slava Sa
+Mai sunt în lume mari comori
+Dar nu-s ca Mesia :/
+
+[v2]
+Veniți creștini ca să gustați
+Ce bun este Dumnezeu
+/: Tăria noastră e mereu
+Să trecem drumul greu :/
+
+[v3]
+Cu Tine dragul meu Isus
+Oriunde m-aș găsi
+În lumea mare de-aș umbla
+Cu Tine-s bucurii
+Și bogăția inimii
+Isuse Tu-mi vei ﬁ

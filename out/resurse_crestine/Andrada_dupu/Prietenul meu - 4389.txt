@@ -1,0 +1,35 @@
+[title]
+Prietenul meu {author: {Andrada Dupu}, {rcId: {4389}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Când sunt căzut sau obosit
+Și n-am pe nimeni în ajutor.
+Fără speranță, fără un semn
+Isus rămane prietenul meu.
+Când sunt căzut sau obosit
+Și n-am pe nimeni în ajutor.
+Fără nădejde, fără un semn
+Isus rămâne prietenul meu.
+
+[c]
+/: Ți-aduc adorare și glorificare
+Isus rămâne în veci prieten.
+Isus, Te iubesc! Isus, Te slăvesc!
+Ești tot ce am pe pământ mai de preț, mai de preț :/
+
+[v2]
+Când sunt singur neîmplinit
+Când lumea spune că m-ai părăsit.
+Fără speranță, fără un țel,
+Isus rămâne prietenul meu
+Când sunt singur neîmplinit
+Când lumea spune că m-ai părăsit.
+Fără speranță, fără un țel,
+Isus rămâne prietenul meu
+
+[e]
+Tu-mi ești prieten și Îți mulțumesc
+Vreau să Te laud și să Te slăvesc

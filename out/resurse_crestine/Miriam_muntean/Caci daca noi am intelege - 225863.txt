@@ -1,0 +1,35 @@
+[title]
+Caci daca noi am intelege {author: {Miriam Muntean}, {rcId: {225863}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Caci daca noi am intelege
+Ca vine Domnul nu-i mai mult
+Si-am cauta sa lasam lumea
+S-o biruim prin Duhul Sfant
+Intreg vazduhul s-ar deschide
+Si ingerii ar cobora
+De sfintii s-ar uni-mpreuna
+Si in credinta ar trai
+
+[c]
+Sa ne iubim ca e porunca
+Sa nu uitam ca suntem frati
+Azi lumea-i rece si flamanda
+Noi sa iubim cum ne-invatat
+Sa ne iubim ca e porunca
+Sa nu uitam ca suntem frati
+Azi lumea-i rece si flamanda
+Noi sa iubim cum ne-invatat
+
+[v2]
+Cu ochii inchisi si cu credinta
+M-apropii azi de tronul Tau
+As vrea sa ierti sa cureti vasul
+Si-n el sa torni din mirul Tau
+Sa ma-nconjori cu-a Tale aripi
+Si-adapostit eu sa raman
+Sa calc corect pe-a Tale urme
+Caci Tu esti vrednicul stapan!

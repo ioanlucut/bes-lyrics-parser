@@ -1,0 +1,27 @@
+[title]
+Indemn la pocainta {author: {Gabi_Ilut}, {rcId: {241288}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Te îndeamnă azi la pocăință bunătatea Domnului!
+Nu aștepta să treci prin suferința, să răspunzi chemării Lui!
+Viața aceasta este trecătoare, zilele se duc în zbor;
+Este doar o șansă de salvare: prin Isus Cristos Mântuitor!
+
+[c]
+/: Te îndeamnă azi, te îndeamnă mâine;
+Te îndeamnă în fiecare zi!
+Te îndeamnă azi, te îndeamnă mâine;
+Vino și nu mai zăbovi! :/
+
+[v2]
+Știi că ai să treci din lumea aceasta mai curând sau mai târziu;
+Ești tu oare gata de plecare? Pregătit ești sau nu știi?
+Dacă pleci neîmpăcat cu Domnul, sufletu-ți va plânge amar!
+Astăzi câtă vreme se mai poate; vino la izvorul Său de har!
+
+[e]
+Oare nu vezi tu bunătatea Lui; bunătatea Domnului?
+Cât mai este har spune-ți inimii: este timpul nu mai zăbovi!

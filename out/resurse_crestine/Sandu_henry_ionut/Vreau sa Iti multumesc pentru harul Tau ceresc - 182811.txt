@@ -1,0 +1,26 @@
+[title]
+Vreau sa iti multumesc pentru harul tau ceresc {author: {Sandu Henry Ionut}, {rcId: {182811}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O, Doamne vreau sa Îti multumesc!
+Pentru Harul Tau ceresc
+Si vreau sa Îti cânt Gloria!
+Acum si in veci de veci, Îti voi canta
+
+[c]
+/: Vreau cu Tine sa traiesc, sa îti multumesc, Pentru Harul Tau ceresc: \
+
+[v2]
+De pacat m-am săturat
+Si vreau sa cânt neîncetat
+Acum ca eu sunt pocait
+Te laud si sunt fericit
+
+[v3]
+Nu vreau sa ma alătur răului
+Dar vin sa dau glorie Tatalui
+Hai, deschide-ti inima
+Si da-ti viata in mana Sa

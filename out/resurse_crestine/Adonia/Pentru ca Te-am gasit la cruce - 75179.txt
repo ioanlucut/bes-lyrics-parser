@@ -1,0 +1,29 @@
+[title]
+Pentru ca te-am gasit la cruce {author: {Adonia}, {rcId: {75179}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pentru că Te-am găsit la cruce
+Sunt astăzi fericit
+Chiar dacă nimeni nu mă mai place
+Eu pe-acest drum sunt neclintit
+
+[c]
+/: Doamne astăzi vin la Tin’ cu inima mea
+Te rog nu mă refuza
+Doamne eu în Tine-mi pun nădejdea
+Ajută-mă pe calea Ta :/
+
+[v2]
+Dintre toți numai Tu mi-ai rămas
+Și ești cu mine pas cu pas
+Când toți au fugit din viața mea
+Am descoperit în Tine Dragostea
+
+[v3]
+De la nimeni nu mai aud o vorbă bună
+Și toți încep a mă judeca
+Dar știu, răpus n-o să mă vadă
+Alături de mine-i dreapta Ta.

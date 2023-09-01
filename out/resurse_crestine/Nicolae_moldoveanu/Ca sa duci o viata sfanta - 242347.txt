@@ -1,0 +1,23 @@
+[title]
+Ca sa duci o viata sfanta {author: {Nicolae Moldoveanu}, {rcId: {242347}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Ca să duci o viață sfântă
+Trebuie din locuri multe,
+/: Mintea trează să se-ntoarcă,
+Inima tăcând s-asculte. :/
+
+[v2]
+Căci când mintea lasă totul
+După-a inimii dorințe,
+/: Viața va sfârși-n rușine,
+În păcat și suferințe. :/
+
+[v3]
+Eu n-aș vrea s-aveți comoară
+Mai de preț ca mintea trează
+/: Și ca inima curată
+Ce-o ascultă și-o urmează. :/

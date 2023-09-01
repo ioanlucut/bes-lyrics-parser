@@ -1,0 +1,30 @@
+[title]
+El e cu tine {author: {Biji din Barbulesti}, {rcId: {166078}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Astăzi e lupta tot mai mare,
+Ai obosit mergând pe cale
+Spunând mereu că-ți este greu
+Și nu mai crezi în harul Său.
+Dar tu nu știi:
+
+[c]
+/: El e cu Tine, nu te teme,
+El e cu Tine în orice vreme,
+El e cu Tine și va fi,
+Doar cu Isus vei birui! :/
+
+[v2]
+/: Cere, crede, nădăjduiește,
+Spre cer prietene privește,
+Ridică-te când ești lovit
+Și astfel vei fi izbăvit. :/
+
+[v3]
+/: Stai treaz cu mijlocul încins,
+De cel rău să nu fii învins,
+Ridică-te, privește-n sus,
+Cu tine e Domnul Isus! :/

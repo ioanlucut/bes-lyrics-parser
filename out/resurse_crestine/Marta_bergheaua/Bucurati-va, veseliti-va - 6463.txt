@@ -1,0 +1,46 @@
+[title]
+Bucurati-va veseliti-va {author: {Marta Bergheaua}, {rcId: {6463}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c
+
+[c]
+Bucurati-va, veseliti-va
+Bucurati-va mereu in Domnul!
+
+[v1]
+Dati uitarii rautatea bucurati-va
+Sa invinga bunatatea veseliti-va
+Bunatatea zambitoare
+Este ca a vietii sare.
+
+[v2]
+Ca s-atrageti pe tot omul, bucurati-va
+Toti sa vada-n voi pe Domnul, veseliti-va
+Fata fie-va senina ca patrunsa de-o lumina.
+
+[v3]
+Cat puteti serviti pe altii, bucurati-va
+Ajutandu-va ca frati, veseliti-va
+Fapta buna ii mai frumoasa
+De-aveti inima voioasa.
+
+[v4]
+Sa se bucure si altii, bucurati-va
+Sa zambeasca si-ntristatii,, veseliti-va
+Unde sunteti impreuna sa domneasca voia buna.
+
+[v5]
+Suferind pentru dreptate, bucurati-va
+Chiar purtand o cruce-n spate veseliti-va
+Caci in cer v-i pregatita o rasplata inmiita.
+
+[v6]
+Sa nu para grea iertarea, bucurati-va
+Ce frumoasa-i impacarea, veseliti-va
+Sunteti fii unui tata care iar si iar va iarta.
+
+[v7]
+Cand sunteti la rugaciune, bucurati-va
+Nu fiti tristi ca Domnul spune: veseliti-va
+Sa cantati cu bucurie, sa-L slaviti cu veselie.

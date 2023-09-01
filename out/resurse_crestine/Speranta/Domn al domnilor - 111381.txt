@@ -1,0 +1,34 @@
+[title]
+Domn al domnilor {author: {Speranța}, {rcId: {111381}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Domn al domnilor, Rege-al regilor
+Este Dumnezeu, Împăratul meu
+Mare și tare
+El va domni cu multa slavă
+Domn al domnilor, Rege-al regilor
+Este Dumnezeu, Împăratul meu
+Mare și tare
+El va domni
+Sfântul din veșnicii
+
+[c]
+/: Înconjurat cu mărire, slavă și strălucire
+Stă pe tron ca Stăpân și Domn :/
+
+[v2]
+Domn al domnilor, Rege-al regilor
+Este Dumnezeu, Împăratul meu
+Mare și tare
+El va domni cu multa slavă
+Domn al domnilor, Rege-al regilor
+Este Dumnezeu, Împăratul meu
+Mare și tare
+El va domni
+Sfântul din veșnicii
+
+[e]
+/: Aleluia, aleluia, aleluia, aleluia :/

@@ -1,0 +1,39 @@
+[title]
+Sub crucea ta iertare-ti cer {author: {Ionel Saran}, {rcId: {115681}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Vreau Isuse ca să-ți spun
+Ce grea-mi este durerea
+Singur nu o pot purta
+Și nu o pot mângâia.
+
+[c]
+/: Sub Crucea Ta iertare-Ți cer
+Smerit, Isuse, m-aplec și eu :/
+
+[v2]
+Lume, lume-nșelătoare
+Nu mai încerca-n zadar
+Prin chemări amăgitoare
+Să mă-ntorci la Tine iar
+
+[v3]
+În zadar întinzi spre mine
+Al plăcerilor pahar
+Nu mai beau că știu prea bine
+Că e veninos și-amar.
+
+[v4]
+Azi când Tu mi-arăți paharul
+Și mă duci să mi-l oferi
+Mi-amintesc de tot amarul
+Din paharul cel de ieri
+
+[v5]
+Când Ți-aud chemarea Lume
+Fața-n palme mi-o ascund
+În zadar mă chemi pe nume
+Nu mai vreau să îți răspund

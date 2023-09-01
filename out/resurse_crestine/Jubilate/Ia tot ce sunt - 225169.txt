@@ -1,0 +1,31 @@
+[title]
+Ia tot ce sunt {author: {Jubilate}, {rcId: {225169}}
+
+[sequence]
+c,v1,c,v2,c,e
+
+[c]
+Ia tot ce sunt și ce pot fi
+Ia tot ce am și ce voi deveni.
+Primește-mi darul și folosește-l
+Așa cum vrei...
+Îndemânări și pasiuni Îndemânări și pasiuni
+Și orice plan doar Ție-Ți le supun orice Ție le supun
+Al tău sunt, Doamne Sunt al Tău
+Ție-Ți dau totul Ție-Ți dau tot
+Orice-ar fi.
+
+[v1]
+Eu vin adesea la Tine-n nevoi
+Sprijin și-alin căutând.
+Dar vreau de-acum să mă pun pe altar
+Ție să-Ți dau ce-am mai sfânt.
+
+[v2]
+Viața-i pustie când nu e Ta
+Totu-i trăire în van.
+Ce mă-mplinește-i să fac voia Ta
+Și să Te știu suveran.
+
+[e]
+Ia tot ce sunt!

@@ -1,0 +1,35 @@
+[title]
+Cu suflet si grai venim {author: {Nicolae Moldoveanu}, {rcId: {2171}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Cu suflet și grai venim să-Ți mulțumim
+Căci ne-ai promis un rai unde să ne-ntâlnim.
+Tu ne-ai chemat, Isus și-un nume nou ne-ai dat,
+Ne-ai înălțat mai sus spre cerul minunat.
+
+[c]
+/: Noi, tineretul Tău venim să-Ți mulțumim
+Căci ne-ai scăpat de rău! Ce mult noi Te iubim! :/
+
+[v2]
+Eram căzuți și noi în lumea de dureri
+În suflet și mai goi, pe umeri cu poveri.
+Adesea frânți și triști salvare n-am aflat
+Dar Tu, Cel ce ești viu atuncea ne-ai scăpat.
+
+[c2]
+/: Ne-ai ridicat de jos, cu drag Tu ne-ai primit.
+Slăvit să fii, Hristos, căci Tu ne-ai dezrobit. :/
+
+[v3]
+Credeam ades și noi căci viața e-aici jos
+Umblam cu pumnii goi, Tu ne-ai umplut, Hristos!
+Ne-ai dat tării de fier și ne-ai făcut uniți
+Prin Tine, Miel junghiat, noi suntem fericiți.
+
+[c3]
+/: Ce bine ne simțim când Tu ne cercetezi
+Să nu ne despărțim am vrea și să lucrezi. :/

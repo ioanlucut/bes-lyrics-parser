@@ -1,0 +1,41 @@
+[title]
+Domnul binecuvanteaza {author: {Alexandru Groza}, {rcId: {7333}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Domnul binecuvântează
+Pe cei ce se-ncred în El
+Și cu dragoste veghează,
+La viața lor;
+Prin iubire pentru oameni,
+A jertfit pe fiul Său
+Pentru tine, pentru mine,
+Ca să fim salvați.
+
+[c]
+/: Dumnezeu te cheamă, ascultă
+Vrea să-ți dea iubirea Lui
+Nu mai sta la îndoială
+Azi predă-te Lui. :/
+
+[v2]
+Nu te-ndoi, ci crede
+În Cuvântul Domnului
+Pune-ți tu în El speranța
+Și vei fl salvat
+Scapă-ți sufletul degrabă,
+Hotărăște-te acum
+Nu mai sta așa departe,
+De iubirea Lui.
+
+[v3]
+Tu nu știi ziua de mâine,
+Poate că nu e a ta
+Poate mâine vine Domnul
+Și vei regreta
+Nu tot amână pe mâine,
+Poate mâine e târziu
+Și ascultă azi chemarea,
+Dându-ți viața Lui.

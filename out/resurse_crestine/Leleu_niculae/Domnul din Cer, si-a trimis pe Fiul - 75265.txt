@@ -1,0 +1,29 @@
+[title]
+Domnul din cer si-a trimis pe fiul {author: {Leleu Niculae}, {rcId: {75265}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Domnul din Cer, Și-a trimis pe Fiul
+Spre-a mântui, și vindeca
+Să moară pentru vina noastră
+Și înviind ca să ne ducă-n Slavă Sa.
+
+[c]
+/: Știind că-i viu, pot învinge teama
+Și eu sunt viu, căci m-a salvat
+Și când ispita grea mă va ajunge,
+Pe brațul Său mă simt mereu eliberat. :/
+
+[v2]
+Prin încercări sau prin durere
+Prin disperare, sau necaz,
+Când nu mai ai nici o scăpare
+Te va salva, te va iubi, căci El e Viu.
+
+[v3]
+Da, El e viu, și-n ziua de mâine,
+Orice-ar veni eu nu mă tem,
+Căci numai El știe viitorul,
+Isus e Viu, la Slava Lui chemați suntem.

@@ -1,0 +1,23 @@
+[title]
+Pereche-aceasta ce sta nainte {author: {Anonim}, {rcId: {238500}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Pereche-aceasta ce stă ’nainte
+Te rog, Părinte, s-o binecuvintezi,
+Cu viață lungă si fericită,
+Cărarea vieții Tu să le-o luminezi.
+
+[c]
+Să-i faci exemplu de viață sfântă,
+Prin ei sa vină mai mulți atrași de har,
+Le dă credință și mântuire,
+Și fericire, și-o viață făr’ hotar.
+
+[v2]
+Ascultă ruga ce ’nalț spre Tine,
+Binecuvântă-i, ascultă-i, te rugăm,
+Oricâte daruri le-am dărui toți,
+Iubire, pace, noi nu putem să dăm.

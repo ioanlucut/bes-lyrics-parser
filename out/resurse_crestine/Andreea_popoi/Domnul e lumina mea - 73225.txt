@@ -1,0 +1,23 @@
+[title]
+Domnul e lumina mea {author: {Andreea Popoi}, {rcId: {73225}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Domnul e lumina mea, de cine m-aș teme ?
+Domnul e sprijinul meu, El mă va sprijinii
+El e mântuirea mea, de cine m-aș teme ?
+El e adapostul meu, El mă va ocroti.
+
+[c]
+/: Nu mă tem de nici un rău, El cu mine e mereu
+El e Dumnezeul Sfânt în viața mea
+Voi cânta Numelui Tău căci doar Tu ești Dumnezeu
+Veșnic Fața Ta, o, Doamne voi căuta :/
+
+[v2]
+Tu mă înconjori mereu doar cu iubire
+Bunătatea ta Isus ține în veci
+Când sunt slab atunci sunt tare Doamne pentru Tine
+Mâna Ta mă ocrotește în veci de veci.

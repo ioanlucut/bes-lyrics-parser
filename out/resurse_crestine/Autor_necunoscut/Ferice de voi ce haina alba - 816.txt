@@ -1,0 +1,35 @@
+[title]
+Ferice de voi ce haina alba {author: {Anonim}, {rcId: {816}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Ferice de voi ce haină albă
+Cu dragoste ați îmbrăcat
+Și pe Domnul de azi ’nainte
+Să-l urmați v-ați angajat.
+
+[c]
+/: Cerul se deschide și cu drag privește
+Cum pășind în apă faceți legământ
+Domnul vă privește fiindcă vă iubește
+Astăzi se coboară la voi pe pământ :/
+
+[v2]
+Ferice de voi ce azi cu Domnul
+Plecați ’nainte fericiți
+Căci Domnul de-azi vă scrie-n cartea
+Celor ce sunt mântuiți.
+
+[v3]
+Ferice va fi de voi odată
+De veți rămâne neclintiți
+De veți păstra haina curată
+Veți fi în ceruri răsplătiți.
+
+[c2]
+/: Când pe nori de slavă va veni Mesia
+Și Mireasa Sfântă de-aici va pleca
+Dacă veți rămâne ne-ntinați de lume
+Cununa cea sfântă Isus vă va da :/

@@ -1,0 +1,29 @@
+[title]
+Hai la casa domnului {author: {Anonim}, {rcId: {74357}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+/: Hai la casa Domnului,
+Să ne-ntâlnim cu El;
+Să-L onorăm :/
+Hai la casa Domnului,
+Să ne-ntâlnim cu El
+/: Să-L onorăm pe El :/
+
+[v2]
+/: Haideți ca să ridicăm
+Mâini sfinte către cer
+Să-L onorăm :/
+Haideți ca să ridicăm
+Mâini sfinte către cer
+/: Să-L onorăm pe El :/
+
+[v3]
+/: Haideți să uităm de noi,
+Să ne gândim la El
+Să-L onorăm :/
+Haideți să uităm de noi,
+Să ne gândim la El
+/: Să-L onorăm pe El :/

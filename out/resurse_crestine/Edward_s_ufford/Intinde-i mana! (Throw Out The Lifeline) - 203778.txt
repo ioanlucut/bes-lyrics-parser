@@ -1,0 +1,26 @@
+[title]
+Intinde-i mana (throw out the lifeline) {author: {Edward S. Ufford, Traducere RO}, {rcId: {203778}}
+
+[sequence]
+v1,c,v2,c,s,c
+
+[v1]
+Un om se zbate în aprigul val
+Întinde-i mâna, adu-l viu la mal!
+Din valuri strigă cerând ajutor
+La cine găsește un salvator?
+
+[c]
+Întinde-i mâna plină de viață
+Celui răpus de val
+Întinde-i mâna ce-i dă speranță
+Adu-l cu bine la mal!
+
+[v2]
+Vremea salvării curând va-nceta
+Spre veșnicie toți s-or îndrepta
+Grăbește astăzi și nu-ntârzia
+Căci Domnul te cheamă în slujba Sa!
+
+[s]
+Să știți că cine întoarce pe un păcătos de la rătăcirea căii lui, va mântui un suflet de la moarte și va acoperi o sumedenie de păcate. Iacov 5:20

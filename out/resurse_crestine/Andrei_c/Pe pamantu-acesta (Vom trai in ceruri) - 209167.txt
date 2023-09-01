@@ -1,0 +1,25 @@
+[title]
+Pe pamantu-acesta (vom trai in ceruri) {author: {Andrei C}, {rcId: {209167}}
+
+[sequence]
+v1,c,v3,c,v4,c,v5,c
+
+[v1]
+Pe pământu-acesta suntem călători
+Nu suntem aicea noi moștenitori.
+
+[c]
+Vom trăi în ceruri nu aicea jos
+Cu sfinții îngeri și cu Isus Hristos.
+
+[v3]
+Nu este nevoie să strângem comori
+Căci aicea suntem doar ca trecători.
+
+[v4]
+În această lume de vom birui
+Sus acolo-n ceruri vom împărăți.
+
+[v5]
+Cât mai trăim pe pământ să nădăjduim
+Că acolo-n paradis cu toții să fim.

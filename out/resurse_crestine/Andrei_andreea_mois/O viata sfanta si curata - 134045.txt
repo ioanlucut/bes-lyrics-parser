@@ -1,0 +1,35 @@
+[title]
+O viata sfanta si curata {author: {Andrei, Andreea Mois}, {rcId: {134045}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+O viață sfântă și curată,
+O haină fără pată
+O, Doamne este tot ce imi doresc
+Să fiu pe placul Tău mereu
+Și să rămân în harul Tău
+Orice zi cu Tine s-o trăiesc
+
+[c]
+/: Mai mult o Doamne eu doresc
+Ție să-ți slujesc
+Și-n orice zi să fiu pe placul Tău
+Mai mult o, Doamne eu aș vrea
+În prezența Ta
+Să îmi sfințesc viața Domnul meu :/
+/: Mai mult o Doamne eu doresc
+Ție să-ți slujesc
+Și-n orice zi să fiu pe placul Tău
+Mai mult o, Doamne eu aș vrea
+În prezența Ta
+Să îmi sfințesc viața Domnul meu :/
+
+[v2]
+Mai mult aș vrea să fiu ca Tine
+Să fac doar ce e bine
+Și zilnic să implinesc al Tău Cuvant
+Plăcerea în mine să-Ți gasești
+Și zi de zi să-ma-nsoțești
+Pe calea care duce-n cerul sfânt

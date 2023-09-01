@@ -1,0 +1,39 @@
+[title]
+De mana cu dumnezeu {author: {Adi Gliga}, {rcId: {157045}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c
+
+[v1]
+Noaptea se lasă, încearcă să-nvingă
+Dar e printre stele o Stea,
+Tot mai puternic, pe cer strălucește
+Mă-ntreb cine-o poate vedea.
+
+[v2]
+Cine-o urmează, încet înțelege
+Lumina venită de sus...
+E-un drum care duce, pe om lângă Rege,
+L-aduce lângă Isus.
+
+[c]
+Strigă de bucurie,
+Strigă sufletul meu.
+S-a născut Mesia,
+Fiul lui Dumnezeu.
+/: Strigă de bucurie,
+Strigă sufletul meu.
+S-a născut Mesia,
+Fiul lui Dumnezeu. :/
+
+[v3]
+Venit dintre ceruri, alături de oameni,
+Cu noi e mereu Dumnezeu.
+Ar vreau să se nască, în suflet să crească
+Și-ar vrea să rămână mereu.
+
+[v4]
+Departe de Noapte, alerg spre Lumină.
+Spre ceruri alături zburăm,
+Eu omul de mână, cu El Creatorul,
+Zburăm și ne bucurăm.

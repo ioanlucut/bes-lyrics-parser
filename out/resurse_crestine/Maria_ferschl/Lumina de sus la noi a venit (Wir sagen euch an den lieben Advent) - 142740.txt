@@ -1,0 +1,36 @@
+[title]
+Lumina de sus la noi a venit (wir sagen euch an den lieben advent) {author: {Maria Ferschl, Traducere RO}, {rcId: {142740}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,s,c
+
+[v1]
+Lumina de sus la noi a venit
+Noi toți cântăm, ne bucurăm!
+Pe drumul cel nou, cu Isus am pornit
+Cu El umblăm, pe Domnul lăudăm!
+
+[c]
+Cu bucurie cântați și voi
+Domnul este cu noi!
+
+[v2]
+Lumina de sus la noi a venit
+Noi toți cântăm, ne bucurăm!
+În lucrul cel bun, noi cu drag ne-am unit
+Să ajutăm, poveri să purtăm!
+
+[v3]
+Lumina de sus la noi a venit
+Noi toți cântăm, ne bucurăm!
+Din darul ceresc, dragoste-am dăruit
+Exemplu dăm, pe Domnul urmăm!
+
+[v4]
+Lumina de sus la noi a venit
+Noi toți cântăm, ne bucurăm!
+Un duh liniștit în Isus am găsit
+Slavă Îi dăm, Lui ne închinăm!
+
+[s]
+Poporul care umbla în întuneric vede o mare lumină; peste cei ce locuiau în țara umbrei morții răsare o lumină. Isaia 9:2

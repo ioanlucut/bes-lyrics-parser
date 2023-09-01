@@ -1,0 +1,41 @@
+[title]
+Privesc cu dor spre ceruri {author: {Ovidiu Liteanu}, {rcId: {55789}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Privesc cu dor spre ceruri,
+Acolo-i țara mea!
+Spre zările albastre
+Curând eu voi pleca.
+Alerg cu bucurie
+Spre țara mea de sus,
+Acolo mă așteaptă
+Iubitul meu Isus.
+
+[c]
+/: Mi-e dor s-ajung acasă!
+Mi-e dor de veșnicii!
+Mi-e dor de țara sfântă!
+De Tine, Doamne, să vii! :/
+
+[v2]
+Când seara se coboară
+Și stele sclipesc
+Mă-nalț în rugăciune,
+La Domnul mă gândesc.
+Și-n miez de noapte-ntruna
+De dor eu sunt pătruns,
+Aștept cu nerăbdare
+Să vină al meu Isus.
+
+[v3]
+Al meu dor se îndreaptă
+Spre Tine, Dumnezeu,
+Tu-mi ești a mea speranță
+Chiar dacă-i drumu greu.
+Comoară-mi ești, Isuse,
+Iubit Mântuitor,
+Pe calea pocăinței
+Te-aștept mereu cu dor.

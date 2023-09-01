@@ -1,0 +1,29 @@
+[title]
+Totdeauna voi canta {author: {Pavel Mariana, Florica}, {rcId: {6544}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Totdeauna voi cânta
+Doamne,-a Ta-ndurare,
+Tuturor voi arăta
+Dragostea Ta mare
+
+[v2]
+N-ai asemănare
+Pe pământ, dar nici în cer,
+Doar la Tine-I îndurare
+Și eu doar în Tine sper.
+
+[v3]
+Numai brațul Tău e tare,
+Înălțată-I dreapta Ta.
+Doamne, în iubirea-Ți mare
+Te-ai plecat asupra mea.
+
+[v4]
+Tu-mblânzești furia mării
+Valurile-I potolești;
+Te rog și furtuna vieții
+Tot la fel s-o liniștești!

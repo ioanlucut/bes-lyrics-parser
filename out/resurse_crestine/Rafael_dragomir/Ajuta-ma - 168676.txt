@@ -1,0 +1,28 @@
+[title]
+Ajuta-ma {author: {Rafael Dragomir}, {rcId: {168676}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cât de dependent sunt de Tine, Domnul meu!
+Nu sunt în stare să mă ridic și singur nu înaintez.
+Numai un cuvânt Tu dacă-mi spui este de-ajuns,
+Un dialog e ce îmi doresc, atunci când strig Tu să-mi răspunzi.
+
+[c]
+Ajută-mă! Ajută-mă!
+Fără de Tine nici o clipă
+Nu vreau și nu pot să rezist.
+
+[v2]
+Ajută-mă s-aștept în tăcere când este greu,
+Și-atunci când cerul pare închis, să tot mai cred că ești aici.
+Speranța parcă s-a stins și mă simt slab, mă simt învins,
+Dar totul primește iară sens atunci când Tu, Doamne, vorbești.
+
+[v3]
+Cum cerbul dorește apă rece din izvor,
+Așa sufletul meu o, Doamne, tâjește de dor după Tin’...
+Nu pot să exprim câtă nevoie am de Tin’,
+Un singur lucru Îți mai spun, Doamne: așa cum sunt la Tine vin!

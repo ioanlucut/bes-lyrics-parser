@@ -1,0 +1,35 @@
+[title]
+In numele lui dumnezeu {author: {Anonim}, {rcId: {3612}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+În numele lui Dumnezeu
+Înainte mai sus, mereu
+Vestea bună să răspândim
+Înainte mereu!
+
+[c]
+/: Și haine albe vom purta
+Ca îngerii vom străluci
+Coroană, casă vom avea
+În cer când vom sosi. :/
+
+[v2]
+Oricât dușmanul ne-ar lovi
+Înainte, mai sus, mereu.
+Cu Isus noi vom birui
+Înainte mereu!
+
+[v3]
+Râdă alții dar noi mergem
+Înainte, mai sus, mereu.
+Lângă Isus voioși suntem
+Înainte mereu!
+
+[v4]
+Flamurile desfășurați
+Înainte, mai sus, mereu.
+Pe Isus lumii arătați
+Înainte mereu!

@@ -1,0 +1,42 @@
+[title]
+Zari la zari isi duc salutul {author: {Anonim}, {rcId: {882}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Zări la zări își duc salutul,
+Prin văzduhu-ndepărtat;
+Țări și mări ascultă cântul
+Ce răsună-ntreg pământul,
+Căci Hristos a înviat
+
+[c]
+A-nviat!
+ /: A-nviat! :/
+A-nviat Hristos din morți!
+Glorii-n cerul minunat!
+Tot pământu-n lung și-n lat,
+Să-L slăvească ne-ncetat,
+Căci Hristos a înviat!
+
+[v2]
+Pe ocean, corăbierii,
+Milioane pe uscat
+Își dau mâna, cu iubire,
+Se salută cu-nfrățire,
+Căci Hristos a înviat!
+
+[v3]
+Corul îngerilor cântă,
+Se înalță minunat;
+Îi urmează serafimii,
+Ceru-ntreg și heruvimii,
+Căci Hristos a înviat!
+
+[v4]
+Vino suflet, te unește!
+Cântă-n corul minunat!
+Cântă-n corul înfrățirii,
+Imnul sfânt al nemuririi,
+Căci Hristos a înviat!

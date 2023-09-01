@@ -1,0 +1,29 @@
+[title]
+Noi umblam si colindam {author: {Nicolae Moldoveanu}, {rcId: {244430}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Noi umblăm și colindăm,
+Pe Isus să-L înălțăm,
+/: Și vestim a Lui iubire,
+Care-aduce mântuire. :/
+
+[v2]
+Noi umblăm din seară-n zori
+Domnului ca vestitori,
+/: Ca s-audă orișicare
+Hotărârea de iertare. :/
+
+[v3]
+Noi umblăm cu cânt frumos
+Ca să spunem de Hristos,
+/: Și mărturisim prin lume
+Pretutindeni sfântu-I Nume. :/
+
+[v4]
+Noi umblăm și nu vom sta
+Ci mereu vom înălța
+/: Tot ce a promis Mesia
+Celor ce-I primesc solia. :/

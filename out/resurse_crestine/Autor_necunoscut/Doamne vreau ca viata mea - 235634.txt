@@ -1,0 +1,35 @@
+[title]
+Doamne vreau ca viata mea {author: {Anonim}, {rcId: {235634}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Doamne vreau ca viata mea
+Sa slujeasca slava ta
+Ma condu tu pas cu pas
+Fi cu mine in orce ceas.
+
+[c]
+Pune Doamne dragostea
+Pune-o in inima mea
+Sa implinesc a ta Scriptura
+In lume sa fiu lumina.
+
+[v2]
+Vreau sa fiu ca Daniel
+Ca David si Samuel
+Sa stau la indemana ta
+Vesnica sa te pot lauda.
+
+[v3]
+Fa-ma Doamne ca Zacheu
+Sa cobor din eul meu
+Si din avutia mea
+Ca sa-I dau si altuia.
+
+[v4]
+Vreau sa fiu o vesnicie
+Cu Enoh si cu Ilie
+Si cu acei ce te-au urmat
+Isuse fi laudat.

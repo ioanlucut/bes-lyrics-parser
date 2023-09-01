@@ -1,0 +1,29 @@
+[title]
+Vreau pe isus {author: {Fernando Ortega, Traducere RO}, {rcId: {120840}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+După noaptea ce-a trecut
+La al zilei început
+Tot ce este mai de preț
+Este Isus.
+
+[c]
+Vreau pe Isus
+Lumea-ntreagă să-mi dai
+Vreau doar pe Isus.
+
+[v2]
+Când simt că-s părăsit
+Și în lume rătăcit
+O, atunci eu strig smerit:
+”
+Vreau pe Isus!”
+
+[v3]
+Când anii mei s-au dus
+Și viața mi-a apus
+Atunci tot ce-mi doresc
+Este Isus.

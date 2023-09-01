@@ -1,0 +1,32 @@
+[title]
+Dincolo de frontiere {author: {Andrei Gherman}, {rcId: {138998}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Milioane de suflete pe-ntregul pământ așteaptă chemarea
+Așteaptă ceva ce le poate da eliberarea
+Dar mii și mii mor zi de zi căutând lumină în noapte
+Și nu e nimeni să le spună de-Acel ce-aduce viață în moarte
+Da, nu mai putem aștepta! Da, sa mergem pentru gloria Sa!
+
+[c]
+Lasă Doamne peste-ntregul pământ harul Tău să coboare
+Lasă Doamne Duhul Tău cel sfânt să trezească popoare
+Pune-n noi iubirea Ta cea fără hotare
+S-aducem națiuni întregi la-nchinare!
+/: Lasă Doamne peste-ntregul pământ harul Tău să coboare
+Lasă Doamne Duhul Tău cel sfânt să trezească popoare
+Pune-n noi iubirea Ta cea fără hotare
+S-aducem națiuni întregi la-nchinare! :/
+
+[v2]
+Sunt oameni ca tine, ca mine, ca noi dincolo de frontiere
+Au vise, dureri, împliniri și nevoi dar le poartă-n tăcere
+Inima lor strigă spre noi: avem nevoie de viață!
+De-atâta timp încercăm, ne luptăm, căutăm dar fără speranță
+Da, nu mai putem aștepta! Da, să mergem pentru gloria Sa!
+
+[e]
+Glorie, glorie...

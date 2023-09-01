@@ -1,0 +1,39 @@
+[title]
+Intr-o noapte de clestar {author: {Adina și Paul Iliescu}, {rcId: {7186}}
+
+[sequence]
+v1,c,v2,c2,e
+
+[v1]
+Într-o noapte de cleștar, o stea a răsărit
+Privind de la fereastra sa, un copil timid a glăsuit:
+”
+Mama, oare Domnul meu Isus
+Auzit-a rugăciunea sau n-a fost de-ajuns
+
+[c]
+I-am cerut să m-ajute să merg
+Să mai pot alerga cu copii de vârsta mea
+În marea Ta îndurare, Doamne ascultă glasul meu
+Inimioara mea te strigă, să-i dai ajutorul Tău
+Să-i dai ajutorul Tău.
+
+[v2]
+Într-o noapte de cleștar, o stea a strălucit
+Deasupra unui staul mic, în Betleem venind din Răsărit.
+Acolo, Pruncul Sfânt și minunat
+S-a născut și pentru mine să pot fi salvat.
+
+[c2]
+Parc-aud, mii de îngeri cântând:
+« Slavă Tatălui în ceruri, pace vouă pe pământ »
+Doamne-Ți dau și eu slavă, fii de-a pururi lăudat
+Pruncul sfânt născut în iesle e-al meu Domn și Împărat,
+E-al meu Domn și Împărat.
+
+[e]
+Final: Doamne Isuse ajută-mă te rog să pot fi ca altă dat’
+Atinge-te de mine Isuse prea iubit și voi fi vindecat.
+În marea Ta îndurare, Doamne-ascultă glasul meu
+Inimioara mea Te strigă, să-i dai ajutorul Tău
+Într-o noapte de cleștar.

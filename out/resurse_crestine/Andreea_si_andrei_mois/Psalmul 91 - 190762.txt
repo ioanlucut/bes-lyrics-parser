@@ -1,0 +1,33 @@
+[title]
+Psalmul {author: {Andreea și Andrei Mois}, {rcId: {190762}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Doamne Tu esti bucuria mea
+Doamne Tu esti izbavirea mea
+Cuvantul Tau este o lumina pe calea mea
+Imi pun nadejdea-n Dumnezeu
+Numai Tu esti ajutorul meu
+Esti mantuirea, esti adapostul
+Esti Domnul meu.
+
+[c]
+O mie sa cada-n jurul meu
+Eu merg cu Tine o Domnul meu
+Toata viata imi pun nadejdea
+In Bratul Tau!
+Nu ma voi teme de noaptea grea
+Nici de sagetile ce vor cadea
+De orice rau ma ocroteste
+Doar Mana Ta.
+
+[v2]
+Cand sunt cazut Tu ma intaresti
+Cand sunt pierdut nu ma parasesti
+Numai in Tine nadajduieste inima mea
+Aripa Ta ma va ocroti
+De orice rau ma va izbavi
+Caci Tu esti in toate, esti ocrotirea
+Esti Stanca mea.

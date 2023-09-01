@@ -1,0 +1,45 @@
+[title]
+Naintea domnului eu vin {author: {Alexandru Groza}, {rcId: {7160}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Naintea Domnului eu vin,
+Ca viața mea, să I-o închin,
+Eu calea Lui o pregătesc,
+Cărările Îi netezesc.
+
+[c]
+/: Mai de preț ca orice pe pământ este Calea Lui,
+Voi merge pe ea, toată viața mea!
+Pentru cer mă voi naște din nou, din apă și Duh
+Pentru Dumnezeu, pentru veșnicii! :/
+
+[v2]
+Prin dragostea lui Dumnezeu,
+Voi fi ferit de orice rău.
+Pe calea Lui, eu voi găsi,
+Un sfânt izvor de bucurii.
+
+[c2]
+/: Mai de preț ca orice pe pământ este Calea Lui,
+Si o voi urma toată, viața mea,
+Stiu că Isus Hristos mă conduce cu mâna Sa,
+El ma va-ntări, veșnic, zi de zi. :/
+
+[v3]
+Veniți și voi, prieteni buni,
+Veniți și voi, pe calea Lui!
+Nu-ntârziați, nu rătăciți
+Căutați salvare să găsiți!
+
+[c3]
+Căutați să aveți o credință în inimă
+Pe Isus ca Domn și Mântuitor!
+Căutați să vă nașteți din nou din apă și duh
+Pentru Dumnezeu, pentru veșnicii!
+Mai de preț ca orice pe pământ este Calea Lui
+Ea duce la cer, înspre veșnicii!
+Căutați să aveți o credință în inimă
+Pe Isus ca Domn și Mântuitor!

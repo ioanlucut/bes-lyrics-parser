@@ -1,0 +1,41 @@
+[title]
+Pe bolta cerului senin {author: {Richard S.Willis}, {rcId: {63695}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pe bolta cerului senin,
+Stelele stau de strajă,
+Dar, dintre toate e o stea
+Care puternic luminează.
+E steaua ce-a fost profețită,
+E steaua plină de mister
+E steaua care preveșteste
+Venirea Lui Emanuel.
+
+[c]
+/: Aleluia, aleluia, aleluia
+Canta ingerii atat de duios
+Aleluia, aleluia, aleluia
+Astazi s-a nascut Isus Hristos :/
+
+[v2]
+Un sunet se aude-n noapte
+Iar păstorii se uimesc,
+Tremurând și plini de spaimă
+Un cor de îngeri ei zăresc
+Iar un înger se desprinde
+Din orchestra cerului.
+Vestea buna le aduce
+De nașterea Pruncului.
+
+[v3]
+Trecut-au ani și generații,
+Iar noi din nou sărbătorim
+Venirea lui Isus în lume
+Venirea Pruncului divin
+Și astăzi este sărbătoare,
+Și azi colindul mai răsună
+Și astăzi sunt cei care duc
+Lumii întregi vestea cea bună.

@@ -1,0 +1,31 @@
+[title]
+Tine-ma domnul meu {author: {Anonim}, {rcId: {219853}}
+
+[sequence]
+v1,c,v2,c,c
+
+[v1]
+Când eram rătăcit în noaptea cea grea,
+În întuneric eram cufundat.
+Și am plâns, Domnul meu ”
+Te rog nu mă lăsa”!
+Ca să pierd în greul păcat.
+
+[c]
+Ține-mă Domnul meu lângă Tine mereu,
+Nu mai vreau să trăiesc în păcat
+Viața mea e a Ta
+Căci Isuse m-ai salvat.
+Ține-mă Domnul meu lângă Tine mereu,
+Nu mai vreau să trăiesc în păcat
+Viața mea e a Ta
+Căci Isuse m-ai salvat.
+
+[v2]
+Mulțumesc Domnul meu pentru iubirea Ta,
+Căci viața mea deacum s-a schimbat
+Sunt bogat Domnul meu, veșnicia mi-ai dat
+Mulțumesc de-acum sunt salvat.
+
+[b]
+Viața mea e a Ta! Slavă Ție, m-ai salvat!

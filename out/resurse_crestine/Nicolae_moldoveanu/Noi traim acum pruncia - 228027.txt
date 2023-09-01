@@ -1,0 +1,17 @@
+[title]
+Noi traim acum pruncia {author: {Nicolae Moldoveanu}, {rcId: {228027}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Noi trăim acum pruncia, dar vom crește mari curând.
+Doamne, fă să-Ți știm cărarea și pe ea de mici umblând!
+
+[v2]
+Noi din Tine-avem sămânța vieții cu-al ei rost frumos.
+Doamne, fă s-o înțelegem cu un suflet credincios!
+
+[v3]
+Noi deschidem inimioara, să ne-o umpli pe deplin,
+Doamne, cu credința sfântă și cu dragostea! Amin.

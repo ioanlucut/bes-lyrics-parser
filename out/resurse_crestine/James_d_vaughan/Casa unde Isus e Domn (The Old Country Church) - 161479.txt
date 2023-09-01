@@ -1,0 +1,32 @@
+[title]
+Casa unde isus e domn (the old country church) {author: {James D. Vaughan, Traducere RO}, {rcId: {161479}}
+
+[sequence]
+v1,c,v2,c,v3,c,s,c
+
+[v1]
+Știu un loc mai de preț unde frați se-adunau
+Să înalțe spre cer al lor imn
+Când părinți și bunici pe brațe mă purtau
+Spre casa unde Isus e Domn.
+
+[c]
+Ani plăcuți ani plăcuți cu frații mei cu frații mei
+Îmi trezesc îmi trezesc vii amintiri vii amintiri
+Mult aș vrea mult aș vrea cu dor nespus cu dor nespus
+Un popas să mai fac printre ei.
+
+[v2]
+Eram tânăr, apoi, și-n Scriptură citeam
+Cum Isus pentru mine-a murit
+Din izvorul divin, bucurie aveam
+Știind că El, pace mi-a dăruit.
+
+[v3]
+Cum aș vrea astăzi iar, oriunde m-aș afla
+Să mă-nchin, să-L slăvesc pe Isus
+Când la El de-am să vin cu povara mea grea
+Mi-o va lua negreșit, El, Isus.
+
+[s]
+Să nu părăsim adunarea noastră, cum au unii obicei; ci să ne îndemnăm unii pe alții și cu atât mai mult, cu cât vedeți că ziua se apropie. Evrei 10:25

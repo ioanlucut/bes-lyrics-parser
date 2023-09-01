@@ -1,0 +1,33 @@
+[title]
+N-am venit la tine doamne dupa aur si argint {author: {Anonim}, {rcId: {74556}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+N-am venit la Tine Doamne dupa aur și argint
+/: Am venit să-mi dai Isuse ungerea cu Duhul Sfânt :/
+
+[v2]
+/: Oare ce ai văzut la mine că sunt slab și păcătos
+Ai venit din înălțime ca să mori aicea jos :/
+
+[v3]
+N-am venit să-Ți cer Isuse să-Mi platești viața mea
+/: Vreau doar să-mi dai biruința Doamne-ncercarea mea. :/
+
+[v4]
+N-am venit să-mi dai doar mie și altor să nu le spun
+/: Eu le-oi spune tuturora cât ești Doamne Tu de bun :/
+
+[v5]
+N-am venit să-Ți cer Isuse ca să nu fiu încercat
+/: Vreau să-mi pregătești portița prin care să fiu scăpat :/
+
+[v6]
+Vreau pe mine să-Ți pui semnul și pecetea Ta Isus
+/: Și apoi să păstrez cu grijă Duhul ce-n mine L-ai pus :/
+
+[v7]
+N-am venit să-Ți cer altceva decat să te rog Isus
+/: Să-mi dai har, să-mi dai putere până voi ajunge sus :/

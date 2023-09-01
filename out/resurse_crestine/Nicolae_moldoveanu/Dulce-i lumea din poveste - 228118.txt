@@ -1,0 +1,26 @@
+[title]
+Dulce-i lumea din poveste {author: {Nicolae Moldoveanu}, {rcId: {228118}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Dulce-i lumea din poveste, puiul tatei, pui,
+cu pitici, cu flori pe crește, puiul tatei, pui,
+cu cuptorul din răscruce, cu căsuți de turtă dulce.
+O, ce leagăn fermecat, când vrea mama să te culce,
+însă nu-i adevărat, însă nu-i adevărat.
+
+[v2]
+Dulce-i lumea cea de joacă, puiul tatei, pui,
+când alergi cu coif și teacă, puiul tatei, pui!
+Când hangherul tău doboară zmei de fân legați de cu sfoară,
+O, ce vis înaripat! E frumos, e-un dor ce zboară,
+însă nu-i adevărat, însă nu-i adevărat.
+
+[v3]
+Numai viața de credință, puiul tatei, pui,
+e un vis ce ia ființă, puiul tatei, pui!
+E un vis de nemurire într-o lume de iubire,
+o, ce vis, dar nu visat; e un vis trăit și veșnic,
+și-i frumos, și-adevărat, și-i frumos, și-adevărat.

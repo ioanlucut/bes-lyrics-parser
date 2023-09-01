@@ -1,0 +1,29 @@
+[title]
+Isus preasfantul {author: {Anonim}, {rcId: {1704}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Isus preasfantul e mantuirea,
+El ne iubeste pe noi, pe toti.
+
+[c]
+De-aceea cant mereu: Isus Preasfantul,
+El ne iubeste pe noi, pe toti!
+
+[v2]
+Eram odata robit de patimi,
+Dar harul Sau m-a eliberat.
+
+[v3]
+Isus slavitul, Mantuitorul,
+S-a dat ca jertfa in locul meu.
+
+[v4]
+Iubirea este al mangaierii,
+Al mantuirii izvor ceresc.
+
+[v5]
+Iubire sfanta, marire, slava,
+Osana Tie, in veci de veci!

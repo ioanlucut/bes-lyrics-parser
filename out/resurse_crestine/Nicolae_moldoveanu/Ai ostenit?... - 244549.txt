@@ -1,0 +1,35 @@
+[title]
+Ai ostenit? {author: {Nicolae Moldoveanu}, {rcId: {244549}}
+
+[sequence]
+v1,c,v2,c2,c3
+
+[v1]
+Ai ostenit de truda,
+Urcușului curat,
+Sau de-al ispitei umblet,
+Ți-e trupul ruinat?
+
+[c]
+/: De gânduri înțelepte,
+Ai păru-ncărunțit,
+Sau urma stricăciunii,
+Pe chin ți s-a lățit? :/
+
+[v2]
+Cu cei buni spre răsplată,
+Îți cheltui anii tăi,
+Sau pierzi a ta viață,
+De-a valma cu cei răi?
+
+[c2]
+/: De la o zi Ia alta,
+Mai de Hristos te ții,
+Sau dintr-o clipă-n alta,
+Mai ca Satan devii? :/
+
+[c3]
+/: Încearcă-te, încearcă-ți,
+Trăirea vieții azi,
+Mai tare crești în Domnul,
+Sau tot mai tare scazi. :/

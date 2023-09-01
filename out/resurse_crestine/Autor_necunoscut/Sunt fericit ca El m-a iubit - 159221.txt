@@ -1,0 +1,23 @@
+[title]
+Sunt fericit ca el m-a iubit {author: {Anonim}, {rcId: {159221}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Sunt fericit că El m-a iubit,
+În locul meu El a murit,
+Sunt fericit că El m-a iubit,
+Domnul meu m-a iubit.
+
+[v2]
+Sunt fericit că m-a mântuit,
+De-al meu păcat m-a curățit,
+Sunt fericit că m-a mântuit,
+Domnul m-a mântuit.
+
+[v3]
+Sunt fericit că va reveni,
+Și sus în cer cu El voi fi,
+Sunt fericit că va reveni,
+Domnul va reveni.

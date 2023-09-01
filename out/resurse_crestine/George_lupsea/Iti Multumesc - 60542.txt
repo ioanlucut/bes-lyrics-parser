@@ -1,0 +1,29 @@
+[title]
+Iti multumesc {author: {George Lupsea}, {rcId: {60542}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Eu N-am stiut O Doamne Ce-I Iubirea
+Eu N-am stiut Ca Ea Vine Din Cer
+Eu N-am stiut Ca Dincolo De Stele
+Exsita Un Loc Unde E Fericirea
+
+[c]
+/: Iti Multumesc Pentru-a Ta Iubire
+I-ti Multumesc De Tot Ce Ai Facut
+Mi-ai Dat Un Drept Mie La Mostenire
+Cand Doamne in Locul Meu Tu-ai Murit :/
+
+[v2]
+M-ai Invatat O Doamne Ce-i Iubirea
+Iubirea Prin Jerfire Domnul Meu
+Asa Cum Sint La Tine Vin Isuse
+Tu Ai Murit Pe Cruce-n Locul Meu
+
+[v3]
+Mi-ai Dat O Doamne si Mie O sansa
+Sa Pot Si Eu Sa Ajung In Tara Ta
+Prin Singele Ce-a Curs Pe Lemnul Cruci
+Tu Ai Spalat Isuse Inima Mea

@@ -1,0 +1,23 @@
+[title]
+Fiul meu asculta-mi gandul {author: {Nicolae Moldoveanu}, {rcId: {228822}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Fiul meu, ascultă-mi gândul care nu ți-l pot spune:
+alipește-te de Domnul, strânge-te de rugăciune!
+Vezi în ochii mei dorința care nu ți-o pot tot spune:
+caută mai aprins pe Domnul mergi mai mult spre rugăciune.
+
+[v2]
+Simte-n sufletul meu grija care nu ți-o pot tot spune:
+Nu te obosi de Domnul, nu slăbi în rugăciune.
+Caută-n teama mea-ntrebarea care nu ți-o pot tot spune:
+Nu mergi cumva fără Domnul și nu fugi de rugăciune?
+
+[v3]
+Lasă-mi fiul meu odihna care nu ți-o pot tot spune:
+să te știu lipit de Domnul și-nsoțit de rugăciune.
+Fă să mor cu bucuria ce nu-i grai s-o poată spune:
+că te știu deplin cu Domnul și sfințit de rugăciune.

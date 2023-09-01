@@ -1,0 +1,29 @@
+[title]
+Mi-e dor de cer {author: {Carmen Prodan}, {rcId: {169689}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Nu mai doresc acest Pământ
+Care ucide fără milă-atâtea vise...
+Ce-au fost cândva cu-atâta drag
+Și cu iubire și speranță făurite...
+
+[c]
+Mi-e dor de cer, mi-e dor de Tine,
+M-am săturat de Pământul cu suspine!
+Mi-e dor Isus, mi-e dor de-Acas’.
+Să las în urmă lacrimi grele și necaz!
+
+[v2]
+Isuse, rănile mă dor,
+Mai lasă azi un strop din sfânta-Ți mângâiere,
+Căci lacrimi ard al meu obraz,
+O, numai Tu, Isuse, poți să-mi dai putere!
+
+[v3]
+Eu cred că ai în toate-un scop,
+Chiar dacă azi nu înteleg și-i greu pe cale.
+Dar știu că va veni o zi
+Când voi primi răspuns la orice întrebare...

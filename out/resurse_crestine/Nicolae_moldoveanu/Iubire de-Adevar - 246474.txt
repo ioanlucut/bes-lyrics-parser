@@ -1,0 +1,29 @@
+[title]
+Iubire de-adevar {author: {Nicolae Moldoveanu}, {rcId: {246474}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Iubire de-Adevăr ce jertfe
+Și câte lacrimi am plătit,
+/: Că n-am putut, oprit de lume,
+Să tac ce Tu mi-ai poruncit! :/
+
+[v2]
+Iubire de-Adevăr câți prieteni
+Din viața Ior m-au scos pe rând,
+/: Că n-am putut tăcea mustrarea
+Ce tu mi-o porunceai arzând! :/
+
+[v3]
+lubire de-Adevăr câți semeni
+M-au râs și m-au privit nebun,
+/: Că n-am putut să nu spun lumii
+Ce Tu mi-o porunceai să spun. :/
+
+[v4]
+Iubire de-Adevăr... doar pacea
+Și mulțumirea că Te-ascult,
+De toate pierderile-avute,
+Mi-ntrece înmiit mai mult.

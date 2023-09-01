@@ -1,0 +1,46 @@
+[title]
+O domnul meu tu mi-ai fost adapost {author: {Florin Pal, Fratii Strugariu}, {rcId: {202422}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: O Domnul Meu, O Domnul Meu :/
+O Domnu meu, Tu mi-ai fost adapost
+/: Prin norii grei :/
+,
+ /: furtuna grea :/
+Eu am trecut căci numai Tu m-ai ridicat.
+
+[c]
+/:
+/: Tu poți să-mi dai, tu poți să-mi dai :/
+Aripi sa zbor, sa ma înalti spre Rai.
+/: Puterea Ta :/
+,
+ /: și mila Ta :/
+Sunt tot ce am nevoie-n viata mea. :/
+
+[v2]
+/: Prin mila Ta, prin mila Ta :/
+Prin mila si-ndurarea Domnului
+/: Sunt azi ce sunt :/
+,
+ /: și ce voi fi :/
+Căci de la Tine Doamne toate le-am primit.
+
+[v3]
+/: Prin harul Tău, prin harul Tău :/
+Prin harul Tău Isus m-ai mantuit
+/: La Golgota :/
+,
+ /: Tu te-ai jertfit :/
+Al meu destin Tu l-ai schimbat căci m-ai iubit.
+
+[v4]
+/: Te-nalt mereu, te-nalt mereu :/
+Te-nalt și-ți cant căci Tu ești Dumnezeu
+/: Când toate-n jur :/
+,
+ /: s-or ruina :/
+Tu vei rămâne veșnic în cântarea mea.

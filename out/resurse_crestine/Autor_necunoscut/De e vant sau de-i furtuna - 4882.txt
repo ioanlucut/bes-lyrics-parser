@@ -1,0 +1,13 @@
+[title]
+De e vant sau de-i furtuna {author: {Anonim}, {rcId: {4882}}
+
+[sequence]
+v1,v2
+
+[v1]
+De e vânt sau de-i furtună
+Domnul este în jurul meu.
+
+[v2]
+El e tare, eu sunt slab
+Și El m-ajută ca să urc.

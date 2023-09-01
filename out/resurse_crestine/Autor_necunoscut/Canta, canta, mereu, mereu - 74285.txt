@@ -1,0 +1,25 @@
+[title]
+Canta canta mereu mereu {author: {Anonim}, {rcId: {74285}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Cântă, cântă, mereu, mereu
+Despre Cuvântul vieții,
+Despre Fiul lui Dumnezeu
+El e Cuvântul vieții.
+Minunat și Sfetnic
+Cel Atotputernic
+
+[c]
+/: Cântă mereu, cântă mereu
+Despre Cuvântul vieții :/
+
+[v2]
+Cântă despre Cel dăruit
+De pe tărâmul vieții
+Domn al păcii din cer venit
+El e Cuvântul vieții.
+Din veci și-n vecie
+Mi-e Părinte mie

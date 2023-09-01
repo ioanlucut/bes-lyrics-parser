@@ -1,0 +1,35 @@
+[title]
+Eu sunt o sete de lumina {author: {Nicolae Moldoveanu}, {rcId: {244550}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Eu sunt o sete de lumină,
+Cu sufletu-ndreptat spre Soare,
+/: Acolo-mi pot găsi hodină
+Și-nveșnicită sărbătoare. :/
+
+[v2]
+Eu sunt aripa care zboară,
+Mai sus spre zările credinței,
+/: Și Ias în urmă-a beznei țară,
+Gustând dulceața biruinței. :/
+
+[v3]
+Eu sunt o flacără nestinsă,
+Prin focul harului ce-o ține.
+/: Ființa-ntreagă-mi este prinsă,
+Isus, de dorul după Tine. :/
+
+[v4]
+Eu sunt burete care soarbe,
+A adevărului Tău apă;
+/: De-a lumii călăuze oarbe,
+Isus, desăvârșit mă scapă. :/
+
+[v5]
+Eu sunt și vreau să fiu într-una,
+Isuse-al meu a Ta-ntrupare.
+/: Ca Eu să-mi fii Tu, totdeauna,
+Și-n mine să Te vezi Tu, mare! :/

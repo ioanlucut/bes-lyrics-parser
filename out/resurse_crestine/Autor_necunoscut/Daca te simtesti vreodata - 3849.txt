@@ -1,0 +1,41 @@
+[title]
+Daca te simtesti vreodata {author: {Anonim}, {rcId: {3849}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Dacă te simțești vreodată
+Trist și apăsat,
+Și de casa părintească
+Te-ai îndepărtat,
+
+[c]
+/: O, adu-ți, adu-ți aminte
+De cărarea din ’nainte
+Te va duce la pierzare
+Dacă nu te-ntorci. :/
+
+[v2]
+Vocea blândă și duioasă
+Strigă ne-ncetat :
+O, întoarce-te acasă,
+Fiu îndepărtat!
+
+[v3]
+Lasă lumea păcătoasă
+Și vino din nou acasă!
+E destul cât pribegit-ai
+Fiule pierdut!
+
+[v4]
+Dacă te întorci acasă,
+Te vei bucura
+Și inima ta, în Domnul,
+Se va desfăta
+
+[v5]
+Căci, din zorii tinereții,
+Până în amurgul vieții,
+Îți trimite rouă cerul,
+Dacă te întorci.

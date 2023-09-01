@@ -1,0 +1,35 @@
+[title]
+De s-ar despica pamantul {author: {Nicolae Moldoveanu}, {rcId: {5256}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+De s-ar despica pamantul,
+Muntii de s-ar risipi,
+/: Furios de-ar bate vantul, :/
+Doamne, tot Te voi slavi! :/
+
+[v2]
+De s-ar aduna toti norii,
+Grindina de-ar pravali,
+/: De m-ar sageta fiorii, :/
+Doamne, tot Te voi slavi! :/
+
+[v3]
+Chiar de-ar aduna tot Iadul
+Celui Rau spre-a ma lovi,
+/: Si mi-ar re’nnoi durerea, :/
+Doamne, tot Te voi slavi! :/
+
+[v4]
+De-as fi alungat oriunde
+Si cei dragi m-ar parasi,
+/: Pe-a-cantarii mele unde, :/
+Doamne, tot Te voi slavi! :/
+
+[v5]
+Caci Tu esti eternul Mire!
+Cu ce am, cu ce voi fi,
+/: Doamne, necurmat pe Tine, :/
+Mai cu foc, Te voi slavi! :/

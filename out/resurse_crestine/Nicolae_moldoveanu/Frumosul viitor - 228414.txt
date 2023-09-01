@@ -1,0 +1,23 @@
+[title]
+Frumosul viitor {author: {Nicolae Moldoveanu}, {rcId: {228414}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Frumosul viitor ce nouă, Hristos ni-l dă la cei mai mici,
+e cel mai fericit și dulce, iar el începe de aici.
+
+[c]
+Slăvit să fii, în cor, iubit Mântuitor,
+căci tot ce Tu ne dai e cel mai dulce rai,
+și tot ce ne promiți ne face fericiți,
+ne face fericiți, fericiți, fericiți.
+
+[v2]
+Frumosul adevăr ce nouă Hristos ni l-a descoperit,
+e-atât de limpede cum alții mulți oameni mari nici n-au gândit.
+
+[v3]
+Frumoasa dragoste ce nouă Hristos ne-o dă nemăsurat,
+e-atât de dulce cum pe lume mulți oameni mari nici n-au gustat.

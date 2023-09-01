@@ -1,0 +1,23 @@
+[title]
+Mergi fiul meu {author: {Marius Livanu}, {rcId: {111828}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Mergi, fiul Meu, bucuros, nu te opri
+Și niciodată înapoi nu mai privi
+Tot ce e-n urmă uită și nu-ți aminti
+Chinul de aici, viața fără bucurii!
+
+[c]
+Mergi fiul Meu cu iubire către cer
+Căci doar acolo lacrimile noastre pier
+Și vom uita tot ce am suferit
+Când vine ziua, ziua marelui sfârșit!
+
+[v2]
+Mergi, fiul Meu, mergi cu râvnă și avânt
+Mergi, fiul Meu, mergi cu pace și cântând
+Drumul mai scurt ți-l vei face
+Și-n curând se va sfârși în Ierusalimul sfânt!

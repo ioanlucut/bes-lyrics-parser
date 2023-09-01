@@ -1,0 +1,23 @@
+[title]
+Ziua ta {author: {Ava}, {rcId: {84474}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Din splendori divine ai coborât,
+Slava ai lăsat și cerul Tău preasfânt,
+Umil în staul Te-ai născut,
+Pace să aduci pe pământ.
+
+[c]
+Aleluia, s-a născut Isus!
+Slavă pe pământ și-n ceruri sus,
+Aleluia, s-a născut Isus!
+Pace și iubire ne-a adus.
+
+[v2]
+Bogății n-avem ca magii altă dat’, altă dat’
+Dar cu tot ce-avem Ție ne-nchinăm,
+Dar îți dăm de ziua Ta,
+Inimile noastre, Doamne sfânt.

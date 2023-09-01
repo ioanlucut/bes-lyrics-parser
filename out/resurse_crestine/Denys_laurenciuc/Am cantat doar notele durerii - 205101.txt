@@ -1,0 +1,34 @@
+[title]
+Am cantat doar notele durerii {author: {Denys Laurenciuc}, {rcId: {205101}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Am cantat la coarda inimii mele
+Pan’ la ultima suflare..
+Și stiu că-i scrisă chiar și-n stele
+Cântarea nopților mai grele..
+Cântarea mea de jale.
+
+[c]
+Cântarea anilor mai grei și a durerilor nespuse
+Nu-i scrisă doar in stele, și nici pe-a mele buze,
+Ci chiar și-n cer și-n astre ale ei cuvinte sunt,
+Și-n flori, și-n zări albastre, și-aici jos pe pământ..
+O știe-ntreaga glie, o cântă întregul cer..
+Cântarea mea de jale cu doru-i greu de fier.. /
+
+[v2]
+Am cântat prin suspine înecate..
+Auzite doar de Tine
+Și stiu c-asculți a’ mele soapte
+Cântarea ce-i cântată-n noapte,
+Cântarea din ruine.
+
+[v3]
+Am cântat doar notele durerii
+Scrise-adânc în inimă c-o piatră,
+Dar voi cânta în ceasul primăverii,
+Acolo Sus, cântarea mângâierii!
+Cântarea așteptată.

@@ -1,0 +1,29 @@
+[title]
+A mea inima suspina {author: {Anonim}, {rcId: {1731}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+A mea inimă suspină
+După cerescul cămin,
+Unde-i liniște deplină,
+Grijuri nu-s și nici un chin.
+
+[c]
+Ah, doresc, doresc o casă,
+Un oraș strălucitor,
+Unde îngerii veghează,
+Sus, deasupra porților!
+
+[v2]
+Acolo domnește-o pace
+Care nu-i jos pe pământ,
+Chiar îngerilor le place
+S-o laude în al lor cânt.
+
+[v3]
+Mai domnește-o bucurie,
+Fără umbră, fără nor,
+Ce durează-n veșnicie
+Ca și-al ei Dăruitor!

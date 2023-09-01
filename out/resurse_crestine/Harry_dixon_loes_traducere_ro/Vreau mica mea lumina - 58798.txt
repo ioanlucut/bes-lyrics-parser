@@ -1,0 +1,23 @@
+[title]
+Vreau mica mea lumina {author: {Harry Dixon Loes, Traducere Ro}, {rcId: {58798}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+/: Vreau mica mea lumină,
+Liberă să strălucești! :/ x3
+Și mai sus, mai sus,
+Să lucești!
+
+[v2]
+/: Sub obroc ascunsă
+Nu! Nu vreau să te țin! :/ x3
+Ci mai sus, mai sus,
+Să lucești!
+
+[v3]
+/: Iar suflarea rea
+Nu! Nu vreau să te stingă! :/ x3
+Ci mai viu, mai viu,
+Să lucești!

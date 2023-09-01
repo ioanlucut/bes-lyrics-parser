@@ -1,0 +1,18 @@
+[title]
+Doamne vreau sa te slujesc {author: {Samuel Reman}, {rcId: {219900}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Fără tine eu n-am putere fără tine îmi este greu :/
+
+[c]
+/: Doamne Vreau să îți Slujesc si mă închin si îți Mulțumesc :/
+2 /: Doamne Vrem să îți slujim noi ne închinăm și îți Mulțumim :/
+
+[v2]
+/: Fără tine nu este bucurie fără tine nu este fericire :/
+
+[v3]
+/: Fără tine eu sunt căzut fără tine plătesc un preț :/

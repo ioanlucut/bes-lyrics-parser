@@ -1,0 +1,32 @@
+[title]
+Cand cerul e-nnorat {author: {Text: Cǎtǎlina Ene, Muzica: UB40}, {rcId: {199386}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când cerul e-nnorat și soarele nu-l mai zǎresc,
+Când pe strǎzi frunze grǎbite peste tot se rǎspândesc,
+Râd crini în grǎdini cǎ stropii mari curând vor cǎdea
+Și haina albǎ la toți le va spǎla.
+
+[c]
+/: Cât de frumoasǎ este natura
+Cu pǎsǎri, soare și flori,
+Chiar când plouǎ și cerul
+E-acoperit de negrii nori;
+Cu fluturi galbeni, roșii și negri
+Ce-ntunecǎ albastrele zǎri,
+În timp ce câmpul cântǎ din viori. :/
+
+[v2]
+Necazurile noastre ca frunzele purtate de vânt
+Vin și se duc la porunca Creatorului sfânt.
+El aduce tot ce e rǎu și bine la timpul lor
+Și ce frumos e pǎmântul plin de flori.
+
+[v3]
+Iatǎ Soarele libertǎții, ne privește din nori;
+E-nnorat, dar o razǎ rǎtǎcește prin flori.
+Florile smerite se-apleacǎ la atingerea ei
+Fiindcǎ raza e solul dragostei.

@@ -1,0 +1,42 @@
+[title]
+Iubirea lui e mult prea mare {author: {F.M.Lehman}, {rcId: {1706}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Iubirea Lui e mult prea mare
+În vorbe simple s-o descrii,
+Mai sus de orice stea răsare
+Și-n adâncimi o poti gasi.
+’
+Naintea Lui când vii și-I spui
+Păcatul tău murdar,
+El, prin Isus, iți dă de sus
+Scăpare-n al Sau har.
+
+[c]
+Iubire sfântă și bogată,
+Tu ne rămâi mereu
+Cântarea noastră minunată,
+În veci lui Dumnezeu.
+
+[v2]
+Coroane, tronuri au sa cadă
+Când ziua mare va suna,
+Și cei ce azi nu vor sa creadă
+La munți atunci vor alerga.
+Dar dragostea în veci va sta;
+O, Doamne, Tu nu treci!
+Și-n al Tău har fără hotar
+Noi vom trăi în veci.
+
+[v3]
+Cu apa mării de am scrie
+Iubirea Lui pe ceru-ntins
+Și orice om de-ar vrea să fie
+Un scrib pe-al slavei necuprins,
+Și tot n-ar fi destul să scrii,
+Căci mările-ar seca;
+Din veșnicii in veșnicii
+Se-ntinde dragostea.

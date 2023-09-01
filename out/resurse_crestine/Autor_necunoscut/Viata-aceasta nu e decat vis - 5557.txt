@@ -1,0 +1,31 @@
+[title]
+Viata-aceasta nu e decat vis {author: {Anonim}, {rcId: {5557}}
+
+[sequence]
+v1,v2,v3,v3
+
+[v1]
+Viața-aceasta nu e decât vis,
+Ce frumos va fi în Paradis!
+Domnul te primește cu-al Său braț mereu deschis!
+/: Deschis! Da, deschis! :/
+Domnul te primește cu-al Său braț mereu deschis!
+
+[v2]
+Ia privește floarea de pe câmp,
+Spune, suflet, ce ți-ai pus în gând?
+Tinerețea-i ca o rouă, trece ca un vis!
+/: Trece ca un vis :/
+Tinerețea-i ca o rouă, trece ca un vis!
+
+[v3]
+Azi e timpul cel mai prețios
+Pentru orice suflet păcătos;
+Pentru tine, sus pe Golgota, muri Hristos!
+/: Hristos! Da, Hristos! :/
+Pentru tine, sus pe Golgota, muri Hristos!
+Domnul te îmbie-acum să vii,
+Nu tot amâna zi după zi!
+Azi, nu mâine, brațul Său te poate mântui!
+/: Poate mântui! :/
+Azi, nu mâine, brațul Său te poate mântui!

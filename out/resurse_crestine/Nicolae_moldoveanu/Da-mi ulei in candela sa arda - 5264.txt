@@ -1,0 +1,35 @@
+[title]
+Da-mi ulei in candela sa arda {author: {Nicolae Moldoveanu}, {rcId: {5264}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Dă-mi ulei în candelă să ardă
+Dă-mi ulei Doamne, eu Te rog
+Dă-mi ulei în candelă să ardă
+Și păstrez-o ne-ncetat arzând.
+
+[c]
+/: Cânt osana, cânt osana, cânt osana
+Regelui din cer
+Cânt osana, cânt osana, cânt osana
+Domnului. :/
+
+[v2]
+Dă-mi putere-n credință, o, Doamne
+Dă-mi putere, o, eu Te rog.
+Dă-mi putere-n credință, o, Doamne
+Și păstreaz-o ne-ncetat crescând
+
+[v3]
+Dă-mi Tu pace și voi fi-n odihnă
+Dă-mi Tu pacea, o, eu Te rog
+Dă-mi Tu pace și voi fi-n odihnă,
+Și păstrează-mă-n odihna Ta.
+
+[v4]
+Dă-mi iubire-n inima mea, Doamne
+Dă-mi iubire, o, eu Te rog
+Dă-mi iubire-n inima mea, Doamne
+Și Te rog să mă păstrezi smerit.

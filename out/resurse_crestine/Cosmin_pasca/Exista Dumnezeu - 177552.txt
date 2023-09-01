@@ -1,0 +1,23 @@
+[title]
+Exista dumnezeu {author: {Cosmin Pașca}, {rcId: {177552}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Dacă crezi că viața ta nu are nici un rost
+Vreau să știi că pentru tine a murit Isus Hristos!
+/: A murit pe lemnul crucii, ca noi toți să fim iertați,
+A murit pe lemnul crucii, ca să fim răscumpărați! :/
+
+[c]
+/: Există Dumnezeu, ce e în ceruri, sus,
+Există Dumnezeu, ce viață ne-a adus,
+Există Dumnezeu, ce pe toate le-a creat,
+Există Dumnezeu, El e Domn cu-adevărat! :/
+
+[v2]
+Vino azi la Domnul Isus cu toată inima,
+El va fi cu tine, te va ajuta,
+/: Chiar de greu va fi pe cale, să nu uiți că Dumnezeu
+El va fi mereu cu tine și la bine și la greu! :/

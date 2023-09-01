@@ -1,0 +1,33 @@
+[title]
+Isuse o domnul meu {author: {Dumbrava Iosif}, {rcId: {187444}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Eu stiu ca Domnul meu
+Este cu mine tot mereu
+Zi si noapte El veghează
+Asupra mea tot mereu
+
+[c]
+Da, El mă iubește
+Da, El mă iubește, neîncetat
+
+[v2]
+Și noaptea cand sosește
+Îți cer a fi lumina mea
+De rău a mă păzește
+Isuse, o Domnul meu
+
+[v3]
+Căci tu ești ca un Tata
+Ce veghează asupra mea
+Te port in inimă mereu
+Isuse, o Domnul meu
+
+[v4]
+Și dimineața când trezesc
+Îți mulțumesc, Isuse
+Ca ai vegheat asupra mea
+Isuse, o Domnul meu

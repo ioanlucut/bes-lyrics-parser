@@ -1,0 +1,24 @@
+[title]
+Nu plange maria {author: {Florin Modog}, {rcId: {6708}}
+
+[sequence]
+c,v1,c
+
+[c]
+Nu plânge Maria,
+Isus a înviat!
+Mormântu-i gol, pustiu e tot
+Piatra s-a răsturnat!
+Nu plânge Maria,
+Ci spune tuturor:
+„
+Isus e viu, în veci de veci
+Mărire să-i cântăm!”
+
+[v1]
+În zori de dimineață
+Maria alerga să-l vadă
+Pe al ei Isus, ce a fost îngropat
+Dar mare-i e mirarea
+Mormântu-i gol și parcă slava
+S-a coborât în el să spună tuturor!

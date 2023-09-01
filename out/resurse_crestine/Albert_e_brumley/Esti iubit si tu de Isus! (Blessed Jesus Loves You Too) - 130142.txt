@@ -1,0 +1,32 @@
+[title]
+Esti iubit si tu de isus (blessed jesus loves you too) {author: {Albert E. Brumley, Traducere RO}, {rcId: {130142}}
+
+[sequence]
+v1,c,v2,c,v3,c,s,c
+
+[v1]
+Sus la crucea de pe Golgota
+Isus, viața Lui și-a dat
+M-a salvat de sub pedeapsa grea
+El, Isus, Domn înălțat!
+
+[c]
+Ești iubit și tu de Isus
+El ți-e Prieten minunat!
+Vino-așa cum ești la Isus
+Poți să fii și tu salvat!
+
+[v2]
+Când povara ți-este tot mai grea
+Și când neguri se abat
+Ai un sprijin tare, nu uita
+În Isus, Domn înălțat!
+
+[v3]
+La Isus găsești tu, pacea Sa
+El te scapă din păcat;
+Orice întristare ți-o va lua
+El, Isus, Domn înălțat!
+
+[s]
+Isus Hristos, Martorul credincios, Cel întâi născut din morți, Domnul împăraților pământului! A Lui, care ne iubește, care ne-a spălat de păcatele noastre cu sângele Său să fie slava și puterea în vecii vecilor! Amin. Apoc. 1:5-6

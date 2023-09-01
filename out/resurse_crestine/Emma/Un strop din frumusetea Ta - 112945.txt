@@ -1,0 +1,27 @@
+[title]
+Un strop din frumusetea ta {author: {Emma}, {rcId: {112945}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Eu m-am născut să plâng cu cel ce plânge
+Și să-mi iubesc și frații și dușmanii
+Dar teamă mi-e că zilele și anii
+Să-i cuprind pe toți nu mi-ar ajunge.
+
+[c]
+Doamne, vreau să-Ți semăn Ție
+Mai pune Tu în mine, un strop din frumusețea Ta.
+
+[v2]
+Eu m-am născut să știu ce-i rău și bine
+Și zeci de ani am căutat răspunsul
+Dar tot atât m-am întâlnit cu plânsul
+Până într-o zi când am ajuns la Tine.
+
+[v3]
+Eu m-am născut să aflu-n mine prețul
+Ce L-ai plătit în locul meu pe cruce
+Și-oriunde-n lume pașii mă vor duce
+Vreau să-Ți fiu mereu, Doamne, servul Tău.

@@ -1,0 +1,29 @@
+[title]
+Eu sunt nimic {author: {Raluca și Raul Ursan}, {rcId: {55507}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Eu sunt nimic, dar Tu ești Domnul meu,
+Eu sunt om slab, dar Tu ești tare,
+Eu sunt doar lut și praf în mâna Ta,
+Dar Tu ești Domnul meu cel mare.
+
+[c]
+Proclam Numele Tău, nume de Dumnezeu
+Proclam puterea Ta, puterea Ta cea mare
+Eu strig că Tu ești Domn și veșnic vei domni
+Proclam numele Tău, Nume de Dumnezeu.
+
+[v2]
+Te recunosc că ești Stăpân și Domn,
+Ești Dumnezeul meu cel Mare,
+Atotputernic, veșnic și slăvit
+Desăvârșit, mare și tare.
+
+[v3]
+Ești bucuria mea de a trăi,
+Ești fericirea vieții mele.
+Voi fi cu Tine, Doamne într-o zi
+În ceruri dincolo de stele.

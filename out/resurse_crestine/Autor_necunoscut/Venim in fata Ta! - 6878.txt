@@ -1,0 +1,24 @@
+[title]
+Venim in fata ta {author: {Anonim}, {rcId: {6878}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Venim în fața Ta-n închinare,
+Laudă noi vrem să-Ți cântăm,
+Pe porțile Tale azi intrăm,
+Sărbătoare e-n templul Tău,
+Ceru-ntreg privește și se bucură,
+Noi cântăm ”
+Aleluia!”, numai Ție îți aducem laudă!
+
+[c]
+/: Meriți toată lauda în cer și pe pământ
+Doamne Te preamărim, numele Îl cinstim! :/
+
+[v2]
+Tot ce este-n mine Îl slăvește acum, puterea,
+Gloria, o, Domnul meu cel bun, e bucurie,
+Pace în prezența Ta, Doamne m-ai eliberat
+Și de-aceea Îți cântăm!

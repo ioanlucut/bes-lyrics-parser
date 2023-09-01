@@ -1,0 +1,29 @@
+[title]
+Numele tau {author: {Lidia Fechete, Alin Jivan}, {rcId: {179830}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Înaintea Ta eu mă smeresc
+Isuse drag și Te slăvesc!
+Tu ai luat povara mea,
+M-ai mântuit prin jertfa Ta!
+
+[c]
+Numele Tău este Sfânt,
+Numele Tău e drept, Tu ești Mântuitorul!
+Numele Tău este Sfânt,
+Numele Tău e drept, Tu ești Salvatorul!
+
+[v2]
+Prin sânge Sfânt m-ai curățit,
+De moarte Tu m-ai izbăvit!
+Și ai luat durerea mea,
+M-ai vindecat, prin puterea Ta!
+
+[e]
+În Numele Tău eu sunt salvat,
+Numele Tău e înălțat!
+În Numele Tău sunt vindecat,
+Numele Tău e înălțat!

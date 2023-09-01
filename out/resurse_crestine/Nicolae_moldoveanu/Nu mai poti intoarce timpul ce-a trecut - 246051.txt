@@ -1,0 +1,29 @@
+[title]
+Nu mai poti intoarce timpul ce-a trecut {author: {Nicolae Moldoveanu}, {rcId: {246051}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Nu mai poți întoarce timpul ce-a trecut
+Cum nu poți culege roua cea de ieri,
+/: Dar îi simți puterea care te-a ținut
+Fie-n bucurie, fie-n mari dureri. :/
+
+[v2]
+Nu mai poți întoarce timpul ce s-a dus
+Cum nu-i cu putință norii să-i adui,
+/: Dar îi vezi belșugul sau puținu-adus
+În cămara vieții azi când ți-o descui. :/
+
+[v3]
+Nu mai poți întoarce timpul - în zadar!
+Dacă-n fărdelege tu I-ai cheltuit,
+/: Chiar de plângi zdrobindu-ți sufletul cu-amar
+Nu-l mai poți întoarce, e de negăsit! :/
+
+[v4]
+Dar poți ține timpul pururea pe loc,
+Dacă tu-l răscumperi prin Isus Hristos
+/: Când pe-altarul vieții e-al iubirii foc,
+El te ține veșnic tânăr și frumos! :/

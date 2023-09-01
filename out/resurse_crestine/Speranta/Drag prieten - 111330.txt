@@ -1,0 +1,29 @@
+[title]
+Drag prieten {author: {Speranța}, {rcId: {111330}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Drag prieten ce dorești să ajungi la Dumnezeu
+Și ai vrea o licărire ca să vezi în jurul tău
+Bezna nopții de mare, și nu poți înainta
+Eu cunosc pe cineva ce te poate ajuta.
+
+[c]
+El e Isus, El e Isus,
+El e Calea, Adevărul, e viața făr’ apus
+El e Isus, El e Isus,
+E modelul care poate să te ducă-n ceruri sus
+
+[v2]
+De necazuri te apasă, când ești trist și-ngrijorat
+Când nu ai nicio speranță, și ai vrea să fi salvat
+Când viața ce-o trăiești nu are valoare
+Este cineva ce poate să dea sens vieții tale.
+
+[v3]
+Te împacă azi cu cerul și primește-L pe Hristos
+Viața ta o poți trăi de acum cu folos
+Apoi spune și la alții de salvarea ce-ai primit
+Și prezintă-L pe Acel ce pe Tin’ te-a mântuit.

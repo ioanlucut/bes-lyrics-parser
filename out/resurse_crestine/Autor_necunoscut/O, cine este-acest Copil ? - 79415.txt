@@ -1,0 +1,29 @@
+[title]
+O cine este-acest copil ? {author: {Anonim}, {rcId: {79415}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O, cine este-acest Copil?
+Ce stă culcat pe paie
+În timp ce îngerii din cer
+Îi cântă-n adorare?
+
+[c]
+/: El e Cristos Isus,
+E Regele trimis de sus!
+Veniți și-L căutați
+Pe Cel născut în iesle! :/
+
+[v2]
+El doarme-n ieslea boilor
+Pe brațele Mariei;
+Păstori și magi aduc cu ei
+Prinosul bucuriei.
+
+[v3]
+Veniți la El bogați, săraci,
+Cu daruri și-nchinare
+Căci e nădejdea tuturor,
+La toți ne e salvare!

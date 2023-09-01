@@ -1,0 +1,45 @@
+[title]
+Vrei sa afli mantuirea? {author: {Nicolae Moldoveanu}, {rcId: {240980}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Vrei să afli mântuirea?
+Vrei tu fericirea ta?
+Adu-ți inima ca jertfă,
+Domnului pe Golgota!
+
+[c]
+Pe Golgota, pe Golgota,
+De-ți aduci a ta ființă,
+Vei avea belșug de pace,
+De iubire și credință.
+Vei cunoaște adevărul,
+Vei primi statornicie,
+Căci pe culmea ei e drumul,
+Care duce-n veșnicie!
+
+[v2]
+Vrei să știi ce-i adevărul?
+Vrei să-mbraci lumina lui?
+Doar pe Golgota putea-vei,
+Când sub cruce te supui.
+
+[v3]
+Vrei să-nveți deplin iubirea?
+Vrei s-o ai și s-o trăiești?
+Vino frate pe Golgota,
+Căci în alt loc n-o găsești.
+
+[v4]
+Golgota-i izvor de haruri,
+Căci pe ea Stăpânul Sfânt,
+A adus dintru-nălțime,
+Cerurile pe pământ!
+
+[v5]
+Vino să-i primești azi darul
+Necuprins de mintea ta,
+Căci viața și lumina
+Le găsești pe Golgota!

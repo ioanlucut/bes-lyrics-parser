@@ -1,0 +1,37 @@
+[title]
+Bine-ai venit {author: {Dan Damian}, {rcId: {157162}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+De n-ar fi fost Crăciun în sat
+Nici zurgălăi și-n casă brad,
+De n-ar fi daruri și colind
+Ar fi Isus sărbătorit.
+El n-a venit s-avem un brad
+Nici cozonaci, colind în sat
+El S-a întrupat doar pentru om
+Cu sufletul pierdut și gol.
+
+[c]
+/: Bine-ai venit în viața mea,
+Stăpâne!
+Regele meu, mi-ești Domn, Mântuitor.
+Pe veci, viața mea Îți aparține
+Tu Te-ai născut ca eu să nu mai mor. :/
+/: Bine-ai venit în viața mea,
+Stăpâne!
+Regele meu, mi-ești Domn, Mântuitor.
+Pe veci, viața mea Îți aparține
+Tu Te-ai născut ca eu să nu mai mor. :/ x2
+
+[v2]
+S-a împlinit la Betleem
+Promisiunea din Eden,
+Mesia, Domnul va veni
+Omul căzut, va mântui.
+Cu dragoste răsună-n sat
+O veste minunată-n prag,
+Este colindul nașterii
+Ce ne aduce bucurii.

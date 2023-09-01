@@ -1,0 +1,31 @@
+[title]
+Bine ai venit {author: {Speranța}, {rcId: {111741}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Nu voi uita nicicând ce-n inimă s-a-ntipărit
+E mama mea, e vocea ei ce m-a iubit
+Când seara se lăsa în sat, și înspre casă alergam grăbit
+Ea mă aștepta și îmi spunea ”
+Bine ai venit”
+
+[c]
+Bine ai venit acasă, fiu iubit!
+Masa e întinsă și totul am pregătit
+Te-am așteptat să vii știind că ești obosit
+Bine ai venit acasă, fiu iubit!
+
+[v2]
+Și astăzi tot alerg, dar știu că va veni o zi
+Când alergarea mea pe-acest pământ se va sfârșit
+Îl voi vedea pe Dumnezeu ce-atât de mult m-a iubit
+El îmi va spune cu glasul Lui: ”
+Bine ai venit”
+
+[e]
+E seară spre asfințit
+Sunt tot mai aproape de Casă
+Sunt tot mai aproape de El
+Când voi auzi vocea-I duioasă:

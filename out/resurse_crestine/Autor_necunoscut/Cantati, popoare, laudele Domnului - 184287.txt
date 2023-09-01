@@ -1,0 +1,29 @@
+[title]
+Cantati popoare laudele domnului {author: {Anonim}, {rcId: {184287}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cântați, popoare, laudele Domnului!
+Lăudați-L, adunări în sărbătoare!
+Pe Creatorul Universului
+Ce-I singurul care merită onoare!
+
+[c]
+/: Cântăți cu bucurie! Să fie înălțat
+Acela care șade pe tron de împărat!
+Peste Pământ și-n slăvi senine este domnitor
+Și al Său Nume mare este Domnul Domnilor! :/
+
+[v2]
+Oceane, mări și râuri, toate Îl slăvesc
+Și valul din furtună Îl mărește.
+Chiar stelele și luna despre El vorbesc
+Și soarele cu laude strălucește.
+
+[v3]
+Când fulgerul brăzdează bolta cerului
+Și tunetul, cu sunetu-i puternic,
+Sunt soli, mărind tăria Domnului,
+Căci, numai El, de laudă este vrednic!

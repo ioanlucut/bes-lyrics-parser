@@ -1,0 +1,40 @@
+[title]
+Adoram pe fiul {author: {Vasile Al.Talos}, {rcId: {1878}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Noaptea, când pe deal
+Păstorii străjuiesc în pace turma,
+Îngeri mii din cer se-adună,
+Strălucește zarea toată.
+Ascultați, păstori, cântul lor în zori:,, Adorăm pe Fiul, adorăm pe Fiul,
+Cel venit din cer, pe Emanuel! ’’
+
+[v2]
+Îngeri albi la ceruri zboară,
+Prin câmpii păstori coboară
+Ca să vadă o minune,
+Prunc venit din altă lume,
+În umil sălaș, Sfântul Copilaș;
+Haideți cu păstorii, haideți cu păstorii,
+Pruncul să-L vedem jos la Betleem!
+
+[v3]
+Steaua-n răsărit apare,
+Magii vin din depărtare,
+Dăruiesc cu bucurie
+Aur, smirnă și tămâie
+Și se-nchină-apoi, dar ce faceți voi?
+Ne-nchinăm cu magii, ne-nchinăm cu magii
+Pruncului iubit, Rege preamărit!
+
+[v4]
+Într-o noapte, bolta toată
+Se va lumina deodată,
+Îngeri sfinți vor umplea zarea
+Și va-ncepe sărbătoarea
+Celor mântuiți, în vazduh răpiți.
+Adorăm pe Domnul, Adorăm pe Domnul
+Care vine iar în slavă și har!

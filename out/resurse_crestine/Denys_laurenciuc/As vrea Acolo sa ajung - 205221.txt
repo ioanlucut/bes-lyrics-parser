@@ -1,0 +1,55 @@
+[title]
+As vrea acolo sa ajung {author: {Denys Laurenciuc}, {rcId: {205221}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,c
+
+[v1]
+Cu ochii pironiți în sus
+Am plâns dup-acea Țară..
+/: Ierusalim, cetatea mea,
+Eu pe nimic nu te-aș schimba,
+Căci doru-mi sfânt de Tin’ mă leagă :/
+
+[c]
+Aș vrea Acolo sa ajung,
+În Țara dorurilor mele să ajung,
+/: Dar pân’ atunci mai rabd și plâng,
+Și-n rugăciuni mai spun oftând
+C-aș vrea să zbor mai sus de stele :/
+
+[v2]
+Mi-e dor de locul unde-odat’
+Plecat-au toți cei dragi..
+/: Acum privind plângând spre cer
+Mai cred, mai cânt și încă sper
+Că-n haine albe o să mă-mbraci :/
+
+[c2]
+Aș vrea Acolo să ajung,
+În Țara dorurilor mele să ajung,
+/: Dar pân’ atunci mai rabd și plâng,
+Și chiar de crucea-mi duc oftând,
+Acolo voi uita orice durere :/
+
+[v3]
+O, Țara mea din departare
+Aș vrea in Tin’ să locuiesc
+/: Ierusalim, cetate sfântă,
+Doar dorul Tău mă mai framantă,
+Atât de mult eu te doresc! :/
+
+[c3]
+Tu ești locasul mult iubit,
+Patrie dragă minunată.. mult iubit
+Am plâns mereu, căci te-am dorit,
+Tu îmi ești visul ne-mplinit,
+Ce știu că se va-mplini odată.
+
+[c]
+Ierusalim, locas iubit,
+Cetate sfântă, minunată..
+Am plâns mereu, căci te-am dorit,
+Tu îmi ești visul ne-mplinit,
+Ce știu că se va-mplini odată!
+Amin!!

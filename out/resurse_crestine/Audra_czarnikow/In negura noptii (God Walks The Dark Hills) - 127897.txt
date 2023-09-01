@@ -1,0 +1,26 @@
+[title]
+In negura noptii (god walks the dark hills) {author: {Audra Czarnikow, Traducere RO}, {rcId: {127897}}
+
+[sequence]
+v1,c,v2,c,s,c
+
+[v1]
+Prin neguri, în noapte, când marea mugește
+Pe ape pășește, Isus, Domnul sfânt
+În nopțile sumbre cu cete de umbre
+Lumină aduce, Isus, Domnul sfânt.
+
+[c]
+În negura nopții Isus e cu mine
+Tot El mă conduce de-i noapte sau zi
+Cu drag îmi vorbește în susurul dulce
+Și pașii îmi poartă pe calea vieții.
+
+[v2]
+În zile cu soare, furtuni pe cărare
+Mereu e aproape, Isus, Domnul sfânt
+În văile joase, pe vârfuri de munte
+Speranță aduce, Isus, Domnul sfânt.
+
+[s]
+Când se îngâna ziua cu noaptea, Isus a venit la ei, umblând pe mare. Matei 14:25

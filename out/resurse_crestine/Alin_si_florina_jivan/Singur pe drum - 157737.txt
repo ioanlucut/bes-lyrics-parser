@@ -1,0 +1,38 @@
+[title]
+Singur pe drum {author: {Alin și Florina Jivan}, {rcId: {157737}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+E noapte, tu încă stai și plângi afară,
+Departe, pășești grăbit cu sufletul pustiu,
+Nu te oprești, tu nu vrei să știi.
+
+[c]
+De ce alergi așa grăbit, când tot ce faci are-un sfârșit,
+De ce nu te gândești, la viața ta.
+De ce nu vrei să te oprești și-o viață nouă să trăiești,
+Tu încă rătăcești, singur pe drum.
+
+[v2]
+Tu cauți și vrei să strângi fără-ncetare,
+Degeaba, că totul este goană după vânt,
+Vei regreta timpul pierdut.
+
+[c2]
+De ce nu vrei să înțelegi, că totul trece și tu treci
+Ce faci, rămane-va în urma ta,
+De ce nu vrei să te oprești și-o viață nouă să trăiești,
+Tu încă rătăcești, singur pe drum.
+
+[v3]
+Ești singur, privești rănit cum anii zboară,
+În urmă, sunt doar regrete care dor cumplit,
+Ai căutat, dar nu ai găsit.
+
+[c3]
+De ce nu vii azi la Isus, oh, cât te-a așteptat de mult,
+Trecutul tău murdar, va fi iertat!
+De ce nu vii la pieptul Lui, să simți iubirea Domnului,
+Să fii eliberat, să fii salvat!

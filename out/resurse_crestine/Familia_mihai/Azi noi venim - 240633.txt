@@ -1,0 +1,30 @@
+[title]
+Azi noi venim {author: {Familia Mihai}, {rcId: {240633}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+Vrem Doamne sa laudam pe veci numele Tau,
+Ca esti Sfant si minunat al nostru Dumnezeu.
+Din robie ne-ai scapat si ne-ai pus pe stanca Ta,
+Pasii ne-ai calauzit inspre imparatia Ta.
+
+[c]
+Azi noi venim sa-ti multumim
+Si din nou sa spunem ca te iubim,
+Esti tot ce-avem pe-acest Pamant
+Esti al nostru rege,
+Aici suntem doar calatori,
+Dar vine o zi cand mai sus de nori,
+Ne vom vedea si pentru veci ne vom bucura.
+
+[v2]
+Cand am fost in incercare Doamne m-ai pazit,
+Cand am fost la stramtorare mana spre mine ti-ai intins
+Simt iubirea Ta Isuse-n mine in fiecare zi,
+Si mi-e dor sa te-ntalnesc Isus pe nori cand vei veni.
+
+[b]
+Sfant e Dumnezeu, Sfant e numele Sau,
+Sfant e Domnul meu, Sfant El e mereu.

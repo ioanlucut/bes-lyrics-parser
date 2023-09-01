@@ -1,0 +1,41 @@
+[title]
+Daca nu as fi decat tarana {author: {Nicolae Moldoveanu}, {rcId: {1619}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c2
+
+[v1]
+Dacă nu aș fi decât țărână,
+Decât bulgări răscoliți de vânt
+/: Niciodată, Doamne, pentru mine
+N-ai fi coborât pe-acest pământ. :/
+
+[c]
+Dar Tu m-ai zidit
+Și mi-ai dăruit
+Chipul Tău:
+De aceea ai venit!
+
+[v2]
+Dacă nu aș fi decât un abur,
+Dacă nu aș fi decât un vis,
+/: Niciodată, Doamne, pentru mine
+N-ai fi coborât din Paradis. :/
+
+[v3]
+Dacă nu-aș fi decât un înger,
+Dacă nu aș fi decât o stea,
+/: Niciodată, Doamne, pentru mine,
+N-ai fi plâns în cer de jalea mea :/
+
+[v4]
+Astfel dar, ce taină-ai pus în mine,
+Dacă Tu, Isuse Dumnezeu,
+/: Ai luat un trup de suferință
+Și-ai venit să mori, de dragul meu? :/
+
+[c2]
+Căci Tu m-ai zidit
+Și mi-ai dăruit
+Chipul Tău.
+- De-aceea ai venit.

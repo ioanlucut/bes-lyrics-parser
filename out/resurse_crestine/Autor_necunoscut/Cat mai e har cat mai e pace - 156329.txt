@@ -1,0 +1,41 @@
+[title]
+Cat mai e har cat mai e pace {author: {Anonim}, {rcId: {156329}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cât mai e har cât mai e pace
+Cât încă se mai spune azi,
+Cât încă ușa e deschisă,
+Hai vino că-i păcat să arzi,
+Căci mâine amice se prea poate
+Se poate-a fi chiar prea târziu,
+Hai! vino azi și lasă lumea,
+Vino! din moarte și pustiu.
+
+[c]
+Cât mai e har, cât mai e pace
+Te-așteaptă ceru-ntreg să vii,
+Întoarce-te iubit prieten,
+Pe pământ jos să nu rămâi.
+
+[v2]
+Cât mai e zi și vreme bună,
+Și încă poți să faci ce vrei,
+Pân’ nu cobori iute-n țărână,
+Adună-ți prietene ulei.
+Căci ne așteaptă vremuri grele
+Când o să vrei dar n-o să poți
+Și ce ți-ai strâns în vreme bună,
+Atât cu tine ai să porți.
+
+[v3]
+Cât mai ai timp de meditare
+Gândește-te la viața ta,
+Din două căi ce sunt pe lume,
+Alege viața șansa ta.
+Căci s-ar putea odată amice
+Să vrei s-alegi dar să nu poți,
+Să ți se-nchidă ușa milei
+Și să rămâi cu cei ce-s morți.

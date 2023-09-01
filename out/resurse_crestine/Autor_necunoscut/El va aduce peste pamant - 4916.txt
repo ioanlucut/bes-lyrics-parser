@@ -1,0 +1,21 @@
+[title]
+El va aduce peste pamant {author: {Anonim}, {rcId: {4916}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+El va aduce peste pământ
+O pace fără sfârșit,
+Domnia Lui se va întări
+Peste popoarele lumii.
+
+[c]
+/: Aleluia,
+Aleluia. :/
+
+[v2]
+Neamuri vor umbla în lumina Lui,
+În razele Sale,
+La El vor veni de departe
+Să caute mântuire.

@@ -1,0 +1,29 @@
+[title]
+Spune-i lui isus {author: {Carmen Prodan}, {rcId: {169684}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când ești părăsit și disprețuit,
+Spune-I Domnului!
+Când ești apăsat și greu încercat,
+Spune-I Domnului!
+
+[c]
+Spune-I lui Isus toată rana ta,
+Brațul Său puternic poate vindeca!
+Roagă-te mereu și privește-n sus,
+Căci speranța noastră-i doar Isus!
+
+[v2]
+Dacă ești străin, de durere plin,
+Spune-I Domnului!
+Dacă ești orfanși n-ai nici un ban,
+Spune-I Domnului!
+
+[v3]
+Dacă ești robit și nemântuit,
+Spune-I Domnului!
+De ești ispitit și-ai păcătuit,
+Spune-I Domnului!

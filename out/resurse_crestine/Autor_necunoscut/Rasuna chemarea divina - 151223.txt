@@ -1,0 +1,39 @@
+[title]
+Rasuna chemarea divina {author: {Anonim}, {rcId: {151223}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Răsună chemarea divină,
+Răsună chemarea din cer,
+Ne cheamă Hristos la lumină,
+Dă viață acelor ce pier.
+Răsună chemarea divină,
+Răsună chemarea din cer,
+Ne cheamă Hristos la lumină,
+Acei ce ascultă nu pier.
+
+[c]
+Acei trudiți și-mpovorați
+Veniți odihnă aflați,
+La Domnul Isus mângâiere veți primi,
+Hristos vă va mântui.
+
+[v2]
+Acum când păcatu-i la culme,
+Și lumea-i robită de rău,
+Isus ne mai dă mântuire,
+Se-ndură și azi Dumnezeu.
+
+[v3]
+Aleargă spre moarte mulțimea,
+De oameni ce zac în păcat,
+Nu vor să primească lumina,
+Păcatul îi duce-nspre iad.
+
+[v4]
+Răsună și astăzi chemarea,
+E glasul Acelui Prea sfânt,
+Acel ce-nsetează să vină!,
+Să bea din izvorul cel sfânt.

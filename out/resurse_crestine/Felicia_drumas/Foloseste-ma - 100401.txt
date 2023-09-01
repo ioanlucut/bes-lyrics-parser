@@ -1,0 +1,29 @@
+[title]
+Foloseste-ma {author: {Felicia Drumas}, {rcId: {100401}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Doamne-n Fața Ta astăzi eu stau
+S-auzi glasul meu, e tot ce vreau
+/: Căci înaintea Ta mi-aduc azi inima
+Și vreau să simtă Doamne, cercetarea Ta :/
+
+[c]
+Folosește-mă în lucrarea Ta
+Pune-Ți mâinile peste ființa mea
+Umple-mă cu Duhul Tău cel Sfânt
+Să pot birui pe-acest pământ
+
+[v2]
+Aș vrea, Isus, să Te cunosc
+Să trăiesc azi viața cu folos
+/: Să simt iubirea Ta cum umple viața mea
+Și numai Ție Doamne, să Îți slujesc aș vrea :/
+
+[v3]
+Pe acest pământ trăiesc
+Vreau iubirea-Ți să mărturisesc
+/: Să spun, vreau, lumii întregi cum crucea ai ales
+Tu m-ai iertat și m-ai salvat, în veci fii lăudat :/

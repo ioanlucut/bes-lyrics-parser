@@ -1,0 +1,31 @@
+[title]
+Omule ce-n viata ta {author: {Adriana Stoica}, {rcId: {6581}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Omule ce-n viața ta,
+Ai iubit mai mult lumea
+Ai trăit ca-un păcătos
+Și creștin tu nici n-ai fost.
+
+[c]
+/: Dar anii au trecut
+Și tu ce-ai făcut?
+Ai îmbătrânit, părul ți-a albit
+Nu mai poți umbla, ce-i cu viata ta ?
+Tânăr nu mai ești
+Spune-mi cine ești? :/
+
+[v2]
+Ai umblat, te-ai bucurat
+Lumea toată ai agreat
+Ai crezut c-așa-i frumos
+Sa trăiești fără Hristos.
+
+[v3]
+Azi Isus ți-aduce în dar
+Mântuire și mult har
+El vrea să te pocăiești
+Pace-n suflet să primești

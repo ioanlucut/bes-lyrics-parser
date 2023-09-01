@@ -1,0 +1,33 @@
+[title]
+Biruieste-mi fiinta {author: {Nicolae Moldoveanu}, {rcId: {242722}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Biruiește-mi ființa,
+Să-Ți pot sluji mai sfânt!
+Înnoiește-mi credința,
+Prin viul Tău Cuvânt!
+
+[c]
+Doamne, când mă biruiești
+Sunt întreg lumină,
+Tu, prin mine strălucești,
+Cu putere plină!
+Voia Ta atunci e steag
+Înălțat în mine,
+Și Te am mai viu, mai drag
+Mai deplin pe Tine!
+
+[v2]
+Biruiește-mi puterea
+Din firea mea de lut,
+Să se vadă-nvierea
+Ce-n mine ai făcut!
+
+[v3]
+Biruiește-mă-n toate,
+Stăpânul meu Divin,
+Ca ființa-mi s-arate
+Că sunt al Tău deplin!

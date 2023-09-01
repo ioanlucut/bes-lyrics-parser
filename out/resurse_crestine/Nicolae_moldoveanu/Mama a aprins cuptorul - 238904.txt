@@ -1,0 +1,25 @@
+[title]
+Mama a aprins cuptorul {author: {Nicolae Moldoveanu}, {rcId: {238904}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Mama a aprins cuptorul, ca să ardă-ncins.
+Soare-i un foc în ceruri, cine l-a aprins?
+
+[c]
+Sunt copil, dar de gândesc,
+dar de gândesc, adevărul îl găsesc!
+
+[v2]
+Mama, ca s-aprindă lampa, scapăr-un chibrit.
+Dar și soarele-i lumină, cine l-a-ntocmit?
+
+[v3]
+Nu-i nimica de la sine: tot ce-i sus și jos,
+o gândire înțeleaptă le-a zidit frumos.
+
+[v4]
+Iar Gândirea înțeleaptă este Dumnezeu.
+Asta murmură credința înăuntrul meu!

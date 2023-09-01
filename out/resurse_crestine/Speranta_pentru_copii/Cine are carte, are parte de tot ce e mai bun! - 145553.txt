@@ -1,0 +1,33 @@
+[title]
+Cine are carte are parte de tot ce e mai bun {author: {Speranța pentru copii}, {rcId: {145553}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+Cine are carte, are parte de tot ce e mai bun!
+Cine are carte, are parte, ascultă-mă ce-ți spun!
+Dacă în această viață, cartea o vei iubi,
+Ea îți va aduce împliniri și bucurii.
+/: Cine are carte, are parte de tot ce e mai bun!
+Cine are carte, are parte, sscultă-mă ce-ți spun!
+Dacă în această viață, cartea o vei iubi,
+Ea îți va aduce împliniri și bucurii. :/
+
+[v1]
+E bine să înveți, cât pe pământ trăiești;
+Să fii silitor; să scrii, sau să citești.
+Pe carte pune mâna, ea îți va prinde bine!
+În această viață, nu vei fi dat de rușine!
+
+[v2]
+E bine să știi română, istorie sau geometrie,
+Engleză și franceză; poți să știi chimie;
+Dar Cartea Cea mai Bună, ce-ți dă un viitor,
+E Biblia Sfântă - Cartea cărților.
+
+[v3]
+E bine să mergi la școală; de facultate să te ții.
+Câțiva zeci de ani, ea îți va folosi. -
+Dacă în viață, Biblia o vei avea
+Jobul cel mai bun, Domnul îți va da.

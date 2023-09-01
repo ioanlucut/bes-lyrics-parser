@@ -1,0 +1,29 @@
+[title]
+De-as avea in mana {author: {Nicolae Moldoveanu}, {rcId: {74327}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+De-aș avea în mână
+ /: o chitară, zum, zum :/ x3
+Aș cânta din zori și până seară, zum zum Cui?
+Lui Isus, lui Isus, lui Isus, zum, zum, zum, zum.
+
+[v2]
+Dac-aș fi un vânt ce
+ /: tot adie, zum zum :/ x3
+Aș sufla ducând o melodie, zum, zum Cui?
+Lui Isus, lui Isus, lui Isus, zum, zum, zum, zum.
+
+[v3]
+Dac-aș fi în zbor o
+ /: albiniță, zum, zum :/ x3
+Aș cânta cu drag pe-o garofiță, zum, zum Cui?
+Lui Isus, lui Isus, lui Isus, zum, zum, zum, zum.
+
+[v4]
+Sus în cer m-așteaptă
+ /: o comoară, zum, zum :/ x3
+Și-am să cânt într-una din chitară, zum, zum Cui?
+Lui Isus, lui Isus, lui Isus, zum, zum, zum, zum.

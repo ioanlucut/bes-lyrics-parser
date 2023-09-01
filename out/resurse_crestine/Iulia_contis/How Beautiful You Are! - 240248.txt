@@ -1,0 +1,20 @@
+[title]
+How beautiful you are {author: {Iulia Contis}, {rcId: {240248}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+How beautiful You are,
+My God revealed through Christ!
+You are the morning star
+And You’re forever Christ!
+
+[c]
+/You are my God! / x2
+
+[v2]
+How precious is Your blood,
+My God forever blessed!
+In the secular flood,
+I’ll never find my rest!

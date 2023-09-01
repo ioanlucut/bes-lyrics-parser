@@ -1,0 +1,33 @@
+[title]
+Cetatea-i cufundata-n somn {author: {Traian Niculai}, {rcId: {156208}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cetatea-i cufundată-n somn
+Luminile se mai zăresc
+/: Când vine-al păcii sacru Domn
+Pentru-a se naște ca și om
+Uși încuiate se găsesc :/
+
+[c]
+Ajung părinții jos în câmp
+Găsesc un staul pentru oi
+Și mulțumesc celui Preasfânt
+C-a venit jos pe pământ
+Speranța vieții pentru om%
+
+[v2]
+Din slăvi alege umilința
+Să vină-n ieslea de boi
+/: Ca să-mplinească profeția
+Veni din cer Isus Mesia
+Mântuitorul lumii noi :/
+
+[v3]
+Iar ieslea Lui a rămas goală
+Acel copil un Rege sfânt
+/: S-a dus la Golgota să moară
+Pentru păcate și ocară
+Să fie viață pe pământ :/

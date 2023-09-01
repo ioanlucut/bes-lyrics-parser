@@ -1,0 +1,29 @@
+[title]
+Daca strigi si rana ta te doare {author: {cristi72}, {rcId: {127305}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Dacă strigi și rana ta te doare
+Strigă și tu ca la scăldătoare
+Strigă neîncetat în rugăciune
+Căci Isus are milă de tine.
+
+[c]
+Chiar de vei striga de ani de zile
+Isus se va îndura astăzi de tine
+Strigă către Domnul neîncetat
+El pune balsam pe rana ta.
+
+[v2]
+Dacă strigi bolnav din drumul tău
+Strigă ca și orbul Bartimeu
+Strigă neîncetat în rugăciune
+Căci Isus are milă de tine.
+
+[v3]
+Dacă strigi și-n suflet n-ai odihnă
+Strigă și tu: Isuse ai milă!
+Strigă neîncetat în rugăciune
+Căci Isus are milă de tine.

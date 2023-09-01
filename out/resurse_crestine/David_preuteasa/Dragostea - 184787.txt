@@ -1,0 +1,33 @@
+[title]
+Dragostea {author: {David Preuteasa}, {rcId: {184787}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+Azi porniti pe un drum necunoscut
+Alături de îngeri, veniți la altar,
+În iubire încheiati un legământ
+Pentru vecie uniti să fiti în har.
+
+[c]
+Dragostea ce azi v-a unit
+Zâmbetul ce v-a însoțit,
+Este darul lui Dumnezeu
+Revărsat din Cer,
+Dragostea ce azi v-a unit
+Zâmbetul ce v-a însoțit,
+Este darul lui Dumnezeu
+Revărsat din Cer pentru voi.
+
+[v2]
+Vă doresc să aveți un Cer senin
+O rază sfântă, de la Dumnezeu,
+În iubire să rămâneți nedespărțiți
+Căminul vostru să fie plin de bucurii.
+
+[b]
+Iar când valuri vor veni
+Să rămâneți neclintiti
+Ancorați în Dumnezeu,
+Veti fi mereu biruitori.

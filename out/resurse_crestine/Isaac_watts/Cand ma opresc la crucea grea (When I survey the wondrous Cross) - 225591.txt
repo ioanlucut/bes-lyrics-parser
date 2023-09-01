@@ -1,0 +1,29 @@
+[title]
+Cand ma opresc la crucea grea (when i survey the wondrous cross) {author: {Isaac Watts}, {rcId: {225591}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Când mă opresc la crucea grea
+Pe care Domnul a murit,
+Se pleacă-n praf inima mea,
+Simțind ce mult am fost iubit.
+
+[v2]
+Eu să mă laud, nu aș vrea,
+Decât cu moartea Domnului
+Și ce-i mai scump în viața mea,
+S-aduc prinos la crucea Lui.
+
+[v3]
+Văd palma Sa și mi-e de-ajuns,
+Văd Ochii Săi de lacrimi plini.
+Eu sunt pironul de străpuns,
+Eu sunt cununa cea de spini.
+
+[v4]
+E prea puțin, chiar de I-aș da
+Întregul cer și-ntreg pământ,
+Iubirea vrea să fiu al Său,
+Cu tot ce am, cu tot ce sunt!

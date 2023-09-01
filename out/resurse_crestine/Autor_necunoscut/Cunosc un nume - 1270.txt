@@ -1,0 +1,29 @@
+[title]
+Cunosc un nume {author: {Anonim}, {rcId: {1270}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cunosc un Nume mai presus de ceruri:
+Ne e dat ca Salvator.
+Slăvirea Lui răsună-n toată lumea:
+E Isus, Mântuitor.
+
+[c]
+Nume mai presus de orice nume,
+E-al Domnului slăvit Isus,
+În nici un nume nu e mântuire,
+Ea e numai în Isus.
+
+[v2]
+Isus e darul dragostei divine
+Pentru sufletul pierdut,
+Iar omul păcătos la El când vine,
+E primit numaidecât.
+
+[v3]
+La Domnul orice om trudit găsește
+Pace și odihnă-n dar;
+Chiar dacă lumea-ntreagă-l părăsește,
+Domnu-I dă cerescul har.

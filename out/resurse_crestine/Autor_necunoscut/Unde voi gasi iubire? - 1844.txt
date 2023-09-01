@@ -1,0 +1,33 @@
+[title]
+Unde voi gasi iubire? {author: {Anonim}, {rcId: {1844}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Unde voi găsi iubire
+Ca a Ta, slăvit Isus?
+Chiar de pier în lume toate,
+Tu rămâi în veci, Isus!
+
+[c]
+/: O, Isus, eu doresc
+Inima să-Ți dăruiesc! :/
+
+[v2]
+Râul seacă, însă veșnic
+Lucrul Tău va dăinui.
+Brațul Tău nu se oprește,
+Toate chiar de s-ar opri.
+
+[v3]
+Când în noi ne vom încrede
+Nicidecum n-om izbuti.
+Dacă vom lucra cu Tine,
+Toate ne vor reuși.
+
+[v4]
+Toarnă, deci, asupra noastră
+Focul Duhului Tău Sfânt,
+Ca pe noi El să ne facă
+Martori vii pe-acest pământ.

@@ -1,0 +1,35 @@
+[title]
+In glastra inimii {author: {Nicolae Moldoveanu}, {rcId: {246468}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+În glastra inimii-am cules
+Trei flori, ce poartă nemurirea,
+/: Trei flori din cer, cu nume-ales:
+Credința, nădejdea, iubirea! :/
+
+[v2]
+Din stratul harului Ie-am rupt,
+Isus, când mi-ai schimbat privirea.
+/: Să Ți Ie dau întregi, mă lupt:
+Credința, nădejdea, iubirea! :/
+
+[v3]
+Cu cât eu Ți Ie dăruiesc,
+Mai limpede Ii-e strălucirea,
+/: Puteri mai noi din Tine-și cresc:
+Credința, nădejdea, iubirea! :/
+
+[v4]
+Trei flori eu am cules cândva,
+Mireasma Ior mi-e fericirea,
+/: Și-avânt îmi dau pe calea Ta,
+Credința, nădejdea, iubirea! :/
+
+[v5]
+Fii binecuvântat lsus,
+În Jertfa Ta am mântuirea,
+/: În Tine, pentru veci m-au dus
+Credința, nădejdea, iubirea! :/

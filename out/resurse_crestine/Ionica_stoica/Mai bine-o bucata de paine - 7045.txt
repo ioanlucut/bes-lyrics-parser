@@ -1,0 +1,35 @@
+[title]
+Mai bine-o bucata de paine {author: {Ionică Stoica}, {rcId: {7045}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+În casa ta iubit prieten
+Conducător să fie Isus,
+Să nu dai loc nicicând la ceartă
+C-așa-i s-ajungi în ceruri sus.
+
+[c]
+Mai bine-o bucată de pâine uscată
+Iubire și pace în casă să ai,
+Decât o casă plină de cărnuri,
+Cu ceartă n-o s-ajungi în Rai.
+
+[v2]
+În casa ta iubit prieten,
+Să nu dai loc la ce e rău,
+Cuvântul sfânt, scris în Scriptură
+În inimă să-l porți mereu.
+
+[v3]
+Din casa ta, iubit prieten
+Vecinii s-audă mereu,
+Cântări de laudă și slavă
+Mărind pe bunul Dumnezeu.
+
+[v4]
+Să ne ferim cu toți de ceartă
+Că ea vine de la cel rău,
+Mai bine cu psalmi și cântare
+C-acolo este Dumnezeu.

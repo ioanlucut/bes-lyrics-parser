@@ -1,0 +1,42 @@
+[title]
+Veniti la ape {author: {Puiu și Beni Chibici}, {rcId: {188184}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ai spus odată despre Tine
+Că Tu ești apa cea curată,
+C-oricine bea și oricine vine
+Nu însetează niciodată.
+Că ești izvorul din vecie
+Ce nesecat curge mereu,
+Că Tu, Isus, ești apa vie
+Ce vine chiar din Dumnezeu.
+
+[c]
+/: „
+Veniți la ape, veniți la ape
+Voi cei trudiți și-mpovărați.
+Veniți la ape, veniți la ape... ”,
+Și azi îi chemi pe toți cei însetați. :/
+
+[v2]
+Tu ești fântâna cea de veacuri
+Ce sufletul ni-l răcorește,
+Ești viața veșnică deapururi,
+Un râu ce nu se mai oprește.
+Ești ploaia caldă și târzie
+Și roua dulce-a dimineții,
+Belșug de har pe-ntreaga glie,
+Ești binecuvântarea vieții.
+
+[v3]
+Ai spus odată despre Tine
+Că totul Ți se datorește,
+Că toate mâna Ta le ține
+Și brațul Tău le stăpânește.
+Toți cei ce au aici suflare,
+Oricine ar fi de e setos
+Poate primi eliberare
+Prin Tine, doar, Isus Hristos.

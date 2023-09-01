@@ -1,0 +1,32 @@
+[title]
+Avem atatea bucurii de cand pe isus avem {author: {Anonim}, {rcId: {59203}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Avem atâtea bucurii de când
+Pe Isus L-avem
+ /: în inimă! :/
+Avem atâtea bucurii de când
+Pe Isus L-avem!
+Glorie lui Isus!
+
+[c]
+/: Ce bucurie să fii cu Isus,
+Să ai în inimă iubirea Lui! :/
+
+[v2]
+Eu știu că lui Satan nu-i place,
+Dar cânt
+ /: din inimă! :/
+Eu știu că lui Satan nu-i place,
+Dar cânt din inimă!
+Glorie lui Isus!
+
+[v3]
+Când ești născut din nou,
+Ca Nicodim, cânți :/ din inimă! :/
+Când ești născut din nou,
+Ca Nicodim, cânți din inimă!
+Glorie lui Isus!

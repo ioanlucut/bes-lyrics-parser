@@ -1,0 +1,29 @@
+[title]
+Eu te pastrez {author: {Nicolae Moldoveanu}, {rcId: {247818}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Eu Te păstrez și astăzi în locul cel mai drag,
+Ascuns în taina sfântă din chivotu-amintirii...
+/: Și cea mai dulce clipă, e atunci când mă retrag
+Cu Tine-n părtășia și liniștea iubirii. :/
+
+[v2]
+Tot ce mi-ai dat pe drumuri, am strâns și am păstrat,
+Anaforă sfințită din masa-mbelșugată...
+/: Ea-i hrana mea de astăzi, pe unde-s înnoptat,
+În loc pustiu, pe drumul spre casa-ndepărtată. :/
+
+[v3]
+Când inima sfârșită abia mai poate-n drum,
+Din pâinea amintirii cu foame ospătează...
+/: Și prinde iar putere prin arșiță și scrum,
+Să crească și să lupte, mai caldă și mai trează. :/
+
+[v4]
+Rămâi mereu, Isuse, în locul cel mai drag,
+Eternă Taină sfântă în chivotu-amintirii,
+/: Căci veșnicia-i clipă atunci când mă retrag,
+Cu Tine-n părtășia și-n liniștea iubirii. :/

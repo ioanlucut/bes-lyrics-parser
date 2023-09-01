@@ -1,0 +1,25 @@
+[title]
+Daca nu zideste domnul {author: {Alin și Florina Jivan}, {rcId: {181455}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Dacă nu zidește Domnul o casă, degeaba zidesc oamenii, oamenii
+Dacă nu păzește Domnul o casă, degeaba păzesc oamenii, oamenii
+Dacă nu e Domnul ziditorul, arhitectul, păzitorul, degeaba zidesc oamenii
+Dacă nu e Domnul ziditorul, arhitectul, păzitorul, degeaba păzesc oamenii
+
+[v2]
+Degeaba va treziți de dimineață și va culcați târziu, voi oamenii, voi oamenii
+Dacă nu e Domnul dătătorul, degeaba veți trudi, voi oamenii, voi oamenii
+Dacă nu e Domnul dătătorul, multă trudă are omul, degeaba trudesc oamenii.
+Dacă nu e Domnul dătătorul, Pâinea Vieții, Salvatorul, degeaba trudesc oamenii.
+
+[v3]
+Dacă nu dă Domnul bucurie, degeaba petrec oamenii, oamenii
+Dacă nu dă Domnul fericire, degeaba cheltuiesc oamenii, oamenii
+Dacă nu e Domnul, nu-i iubire, nu e pace, fericire, degeaba petrec oamenii
+Dacă nu e Domnul nu-i unire, nu-i în viață bucurie, degeaba cheltuiesc oamenii
+Dacă nu e Domnul, nu-i iubire, nu e pace, fericire, degeaba petrec oamenii
+Dacă nu e Domnul nu-i unire, nu-i în viață bucurie, degeaba cheltuiesc, degeaba trudesc, degeaba zidesc oamenii.

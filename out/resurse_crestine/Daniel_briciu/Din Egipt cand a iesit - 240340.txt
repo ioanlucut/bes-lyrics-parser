@@ -1,0 +1,45 @@
+[title]
+Din egipt cand a iesit {author: {Daniel Briciu}, {rcId: {240340}}
+
+[sequence]
+v1,c,v2,c,v3,c,c2
+
+[v1]
+Din Egipt când a ieșit, Israel a biruit,
+Iar Faraon a fost umilit.
+Dumnezeu I-a însoțit și ei din mare au ieșit,
+Dar Faraon n-a mai izbutit.
+
+[c]
+/: Când Domnul e de partea ta, Israel,
+Nimic nu ți se va-ntâmpla,
+De-aceea stai aproape azi de Domnul
+Și El va fi tăria Ta. :/
+/: Când Domnul e de partea ta, Israel,
+Nimic nu ți se va-ntâmpla,
+De-aceea stai aproape azi de Domnul
+Și El va fi tăria Ta. :/
+
+[v2]
+Pe Daniel l-a apărat atunci când a fost condamnat,
+Din groapă El l-a eliberat.
+A fost mereu cu cel sărac când jugul lui cel greu l-a luat
+Și dragoste la toți a dat.
+
+[v3]
+El de la moarte te-a salvat când a luat și-al tău păcat,
+Acolo sus la Golgota.
+Tu astăzi ești eliberat, nu te întoarce în păcat,
+Ci laudă-L pe Împărat.
+
+[c]
+Când barca ta se zbate-n valuri grele,
+Nicicând tu nu descuraja,
+Ci uită-te mai sus de cer și stele,
+Căci El, doar El te va salva.
+
+[c2]
+Când Domnul e de partea ta, Israel,
+Nimic nu ți se va-ntâmpla,
+De-aceea stai aproape azi de Domnul
+Și El va fi tăria Ta.

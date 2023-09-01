@@ -1,0 +1,39 @@
+[title]
+Cu ochii atintiti mereu spre tinta {author: {Cornel Sava}, {rcId: {211843}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cu ochii ațintiți mereu spre țintă,
+Cu inima legată doar de cer,
+Vrem s-auzim doar ale Tale șoapte
+/: Și să simțim a’ Tale mângâieri :/
+
+[c]
+Lasă, Doamne, har în adunare,
+Ungere în rugă și-n cântare
+Prin Cuvântul Tău să ne trezești,
+Să Te auzim când ne vorbești.
+Lasă dragostea de altă dată
+Când mărturiseam credința noastră,
+Prin Duhul Tău Sfânt ne înmulțeam
+Și voia Ta sfântă o-mplineam.
+
+[v2]
+Stropește-ne cu roua ascultării,
+Sămânța adevărului Tău Sfânt.
+Cât mai călătorim pe-această lume
+/: Să ne lăsăm ghidați de-al Tău Cuvânt :/
+
+[v3]
+Mai lasă, Doamne, susurul Tău blând
+Să ne călăuzească pe pământ,
+Dragostea harului nemăsurată
+/: Să ne-nsoțească pân’ la Tine, Tată :/
+
+[v4]
+Dă la o parte tot ce ne frământă,
+Ridică-ne privirea din pământ,
+Bucuroși să ne uităm spre stele..
+/: Să-L așteptăm pe-al nostru Mire Sfânt :/

@@ -1,0 +1,26 @@
+[title]
+Dormi dormi usor (a la nanita nana) {author: {Colind spaniol, Traducere RO}, {rcId: {182671}}
+
+[sequence]
+v1,v2,s
+
+[v1]
+/: A la naninta nana
+Nanita ea, nanita ea
+Dormi, dormi ușor
+Drag Isuse, Pruncușor
+Sol al păcii vestitor. :/
+
+[v2]
+Ai venit scump Isuse
+În lume, ca Salvator
+Să ne-aduci vii speranțe
+Și să fii Slujitor
+/: Corul de îngeri cântă
+În cer, Aleluia!
+Magi și păstori se-nchină
+Preamărind slava Ta! :/
+
+[s]
+Căci un Copil ni S-a născut, un Fiu ni S-a dat, și domnia va fi pe umărul Lui; Îl vor numi: ”
+Minunat, Sfetnic, Dumnezeu tare, Părintele veșniciilor, Domn al păcii. Isaia 9:6

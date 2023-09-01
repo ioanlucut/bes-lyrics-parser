@@ -1,0 +1,30 @@
+[title]
+Aleluia doamne-ti laud numele tau {author: {Lidia Gheorghe}, {rcId: {149773}}
+
+[sequence]
+v1,v2,v3,v4,e
+
+[v1]
+Aleluia Doamne-ți laud numele Tău (3x)
+Aleluia!
+
+[v2]
+Aleluia Doamne vin să-Ți mulțumesc (3x)
+Aleluia!
+
+[v3]
+Aleluia Doamne-n Tine mă încred (3x)
+Aleluia!
+
+[v4]
+Aleluia Doamne pe Tine te urmez (3x)
+Aleluia!
+
+[e]
+Viață veșnică, viață voi avea
+Viață veșnică, viață voi avea
+Pentru că te laud
+Pentru că-ți mulțumesc
+Pentru că-n Tine mă-ncred
+Pentru că Te urmez
+Aleluia, aleluia, aleluia, aleluia!

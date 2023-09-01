@@ -1,0 +1,23 @@
+[title]
+Ochiul tatalui din ceruri {author: {Anonim}, {rcId: {68867}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Ochiul Tatalui din ceruri
+Ma priveste ne-ncetat
+Cand ma uit la ’
+Sa privire
+Altceva nu mai doresc!
+
+[c]
+Glorie lui Isus, 
+Lui Isus, lui Isus
+Izbanda mi-a adus, Aleluia!
+
+[v2]
+Cand prin valea umbrei mortii
+Trebuie sa trec mereu
+Eu ma uit la-sa privire
+Altceva nu mai doresc.

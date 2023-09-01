@@ -1,0 +1,35 @@
+[title]
+Buna veste {author: {Sorin Pop}, {rcId: {157365}}
+
+[sequence]
+v1,b,c,v2,c
+
+[v1]
+Ce-ți aduce astăzi bucurie
+Pe mulți această veste a-nviorat,
+E buna veste pentru omenire
+Ce-a scris prorocul e adevărat.
+Rege s-a născut, și-a Sa domnie
+Va crește dăinuind din veac, în veac.
+Iată că răsare o Lumină
+Credință doar să ai, și-o vei vedea.
+
+[b]
+Lumina lumii a venit
+Lumina mare a răsărit.
+
+[c]
+/: Căci un Copil ni s-a născut
+Un Fiu ni s-a dat, e minunat!
+Azi, eu copil al Domnului sunt
+Din nou născut, fiindcă am crezut. :/
+
+[v2]
+Buna veste nu-i doar despre o iesle
+Sau magi, păstori și nici doar Betleem.
+E și-o cruce și piatra mișcată
+Pace să avem cu Dumnezeu.
+Domnul nu-I doar Prunc, culcat în iesle,
+E Leu din Cer și Miel înjunghiat divin.
+Doar prin El, e a noastră mântuire
+Vrednic este El să ne smerim!

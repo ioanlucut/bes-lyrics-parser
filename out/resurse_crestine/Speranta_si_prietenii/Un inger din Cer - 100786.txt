@@ -1,0 +1,24 @@
+[title]
+Un inger din cer {author: {Speranța și prietenii}, {rcId: {100786}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Un înger din cer veni la păstori: ”
+Iată vestea ce v-aduc
+Azi în cetatea Betleem vi s-a născut un Prunc
+Numele lui Emanuel, mântuire vă va da
+Într-o iesle îl veți găsi și vă veți închina!
+
+[c]
+N-am știut Isuse că prin Tine vom primi
+Pace, har și fericire, ești izvor de mântuire
+Slavă în cer și pace jos, între oameni plăcuți Lui
+Azi Dumnezeu ne-a dăruit prin Isus iertarea Lui
+
+[v2]
+Ne închinăm ’naintea Ta, prinț al păcii, bun venit
+Căci prin venirea-Ți pe Pământ omul fi-va mântuit
+Cântăm bucuroși că ceru-ntreg se unește azi cu noi
+Prin Mesia, Emanuel, Dumnezeu este cu noi.

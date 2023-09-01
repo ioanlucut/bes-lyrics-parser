@@ -1,0 +1,54 @@
+[title]
+Cand domnul m-a chemat pe nume {author: {Nicolae Moldoveanu}, {rcId: {5271}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Cand Domnul m-a chemat pe nume
+Sa-I fiu cu viata, ucenic,
+Spre ceruri, pe cararea sfanta,
+Sa nu ma-mpiedic de nimic.
+
+[c]
+/: N-am vrut sa Ii resping chemarea
+Cand El, pe nume, m-a strigat.
+Si-n urma ascultarii mele,
+Isus m-a binecuvantat. :/
+
+[v2]
+N-am vrut sa fiu acela care
+Sa-I spuna: „
+Nu te vreau nicicand!”,
+Cand El mi-a zis ca ma ajuta
+Sa-I duc solia, pe pamant.
+
+[c2]
+/: Iar sufletul si-a mea inima,
+Mi le-a spalat cu sange sfant,
+Si mi-a promis ca ma va duce,
+Cu Sine, pe noul pamant. :/
+
+[v3]
+Acum, eu cant si n-am cuvinte
+Ca sa Il laud indeajuns,
+Si sa vestesc la orisicine
+Iubirea sfant-a lui Isus.
+
+[c3]
+/: Imi darui viata, pe vecie,
+Doar Lui, si nu m-oi clatina,
+Si-atunci cand va veni in slava,
+La Sine-n cer, ma va lua. :/
+
+[v4]
+Nu vrei si tu, amice,-acuma
+Sa Ii asculti chemarea Lui?
+Inima, sufletul si gandul,
+Sa I le darui Domnului?
+
+[c4]
+/: El te primeste si te iarta!
+Iubirea Lui nu s-a gatat!
+Si-n clipa revenirii Sale,
+Cu Sine-n cer te va lua. :/

@@ -1,0 +1,26 @@
+[title]
+E iar craciun {author: {Dan Muncaciu}, {rcId: {157001}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+E iar Crăciun,
+Copiii vin la colindat.
+E iar Crăciun,
+Inima mea, caută liniștea Ta!
+
+[c]
+Afară e sărbătoare, încă mai ninge și-acum,
+În inima mea e pace, că Isus s-a născut!
+
+[v2]
+Magii au pornit, conduși de stea
+Spre ieslea Ta!
+S-au închinat, s-au bucurat,
+De venirea Ta!
+
+[e]
+/: Ai venit pentru mine,
+Te-ai născut din iubire,
+Pe Pământ strălucire ai adus :/

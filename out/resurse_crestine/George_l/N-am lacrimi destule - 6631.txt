@@ -1,0 +1,35 @@
+[title]
+N-am lacrimi destule {author: {George L}, {rcId: {6631}}
+
+[sequence]
+v1,v2,v3,v4,c
+
+[v1]
+N-am lacrimi destule să pot eu vărsa
+Cuvinte nu am să pot spune
+Să pot eu vorbi, de dragostea Ta
+/: Să spun eu la toți despre Tine. :/
+
+[v2]
+Nu-i cântec pe buze să poată cânta
+De dragostea Ta minunată!
+Nici versuri poeții nu pot aduna
+/: S-arate mărimea Ta Tată. :/
+
+[v3]
+Nu-s locuri în lume ce pot arăta,
+Splendorea frumoasă divină ;
+Nici pictori ce-n artă nu pot arăta
+/: A Ta frumusețe divină. :/
+
+[v4]
+Nu sunt vestitori să poată vorbii
+De dragostea Ta minunată;
+Și nu sunt profeți să poată vestii
+/: Ce glorie-n ceruri ne-așteaptă. :/
+
+[c]
+Ce mare ești, ce mare ești.
+Și ce mult Isus ne iubești
+Ce mare ești, ce mare ești!....
+Ne spune astrele cerești.

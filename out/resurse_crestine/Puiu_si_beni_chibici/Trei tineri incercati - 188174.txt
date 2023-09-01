@@ -1,0 +1,41 @@
+[title]
+Trei tineri incercati {author: {Puiu și Beni Chibici}, {rcId: {188174}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Trei tineri încercați, de Domnul temători,
+Cândva au fost aruncați într-un încins cuptor,
+Ei nu s-au aplecat în fața nimănui
+Căci nu l-ar fi trădat pe Domnul cerului.
+
+[c]
+/: ”
+Noi nu ne închinăm”, în cor ei au strigat,
+„
+Căci Domnul nostru-I viu, e viu și adevărat.
+El ne va izbăvi chiar azi cu dreapta Sa
+Și chiar de nu, noi nu ne vom pleca.” :/
+/: ”
+Noi nu ne închinăm la nici un chip cioplit
+Și nici vreunui domn sau zeu închipuit.
+Credința noastră e în Sfântul Dumnezeu
+Și în Hristos, Mesia, Fiul Său.” :/
+/: ”
+Noi nu ne închinăm la nici un chip cioplit
+Și nici vreunui domn sau zeu închipuit.
+Credința noastră e în Sfântul Dumnezeu
+Și în Hristos, Mesia, Fiul Său.” :/
+
+[v2]
+În foc și-n lupta grea suntem și noi acum
+Când iadu-ntreg ar vrea să ne prefacă-n scrum,
+La idolii cei muți nicicând nu ne-am supus
+C-am vrut să-I fim plăcuți doar Regelui Isus.
+
+[v3]
+Ce-ai face de-ai fi pus s-alegi amicul meu
+Între Hristos Isus și un fals dumnezeu?
+Mă-ntreb, te-ai lepăda într-un chip rușinos
+Sau foc ai accepta de dragul Lui Hristos?

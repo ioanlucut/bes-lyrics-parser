@@ -1,0 +1,26 @@
+[title]
+Seara de craciun {author: {Diaz Amos}, {rcId: {237948}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Seara când apare luna, toți copiii se adună
+Și cântă timid la geam an de an;
+Seara când pe cer apare mii de stele
+sclipitoare
+Copii cântă bucuroși de Hristos!
+
+[c]
+Seară în plină veselie, se aprinde în limbi o mie
+Fericire împărătească, minunat;
+Din slavă jos se întrupează, zarea toată
+luminează,
+Seară cu mantia albă; am cântat!
+
+[v2]
+La ferestre se aude, zeci de glasuri de colinde
+Cu toții cântă în cor, îmbucurător.
+Oamenii stau și ascultă, privirea le este mută,
+Dumnezeu îi cercetează, viața le-o
+luminează!

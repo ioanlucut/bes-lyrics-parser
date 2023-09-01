@@ -1,0 +1,27 @@
+[title]
+In linistea noptii {author: {Kevin Kocsis}, {rcId: {223787}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+În liniștea nopții
+Un murmur sublim
+Plutește ușor în văzduh
+E-un cântec de pace
+E-un cântec divin
+Pătrunde în suflet și-n duh
+
+[c]
+Slavă, slavă lui Dumnezeu
+În locurile prea-nalte
+Și pace, pace pe pământ
+Între oamenii plăcuți Lui
+
+[v2]
+Cântarea măreață
+Uimit o ascult
+Și-l laud pe al meu Dumnezeu
+Vestesc tuturora
+Hristos s-a născut
+În staulul din Betleem

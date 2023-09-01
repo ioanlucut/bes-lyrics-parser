@@ -1,0 +1,38 @@
+[title]
+Canta-n coruri mii si mii {author: {Anonim}, {rcId: {3990}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Cântă-n coruri mii și mii
+Îngeri drăgălași
+Cântă marea bucurie către păstorași
+Dorul ni s-a împlinit
+Cel de veacuri prorocit
+Pe-ale noastre scumpe plaiuri
+Astăzi s-a ivit
+
+[v2]
+Intr-o iesle într-un grajd
+Voi îl veți vedea
+Prunc plăpând nespus de dulce îl veți adora
+Pe Maria o veți vedea
+Cum îi râde inima
+Cu Iosif ea îl adoră lângă ieslea sa
+
+[v3]
+Iată c-au venit și magii
+De la răsărit
+Multe daruri i-au adus pruncului iubit
+Ei comorile-și desfac
+Pruncului îi dau cu drag
+Aur, smirnă și tămâie și-apoi se retrag
+
+[v4]
+Haideți fraților și noi
+Pruncul să-l vedem
+Ca răspuns la a sa chemare să-i dăm tot ce-avem
+Aur, smirnă el nu vrea
+El dorește altceva
+Și ca semn că îl iubim să-i dăm inima.

@@ -1,0 +1,29 @@
+[title]
+Lumineaza tu isuse {author: {Ira D.Sankey}, {rcId: {74379}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Luminează, Tu, Isuse,
+Că-i mare-ntunecime,
+Mulți sunt încă-n rătăcire,
+Și moartea-i risipește.
+
+[c]
+Luminează, o Isuse,
+Inimi multe mântuie.
+Prin Cuvântul Tău alungă
+Negura de păcate.
+
+[v2]
+Rătăcind fără de țintă,
+Oamenii-și pierd sufletul.
+Ici și acolo-n adâncime,
+Domnește-ntunericul.
+
+[v3]
+Pofta trupului, mândria,
+Pe mulți îi înrobește,
+Le promit vremelnicia,
+Și pe mulți amăgește.

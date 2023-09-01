@@ -1,0 +1,36 @@
+[title]
+Pamantul se cutremura {author: {Ovidiu Liteanu}, {rcId: {55785}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Pământul se cutremură
+Popoare se frământă
+Și lumea se întreabă
+Oare ce se întâmplă
+
+[c]
+Vine Isus, vine Isus
+Iată un răspuns!
+Vine Isus!
+/: Pocăiți-vă și credeți în Evanghelie :/
+Pocaiți-vă!
+
+[v2]
+Se agită lumea toată
+Mereu se îngrijorează
+Privește înspăimântată
+Se întreabă ce urmează.
+
+[v3]
+Războaie pretutindeni
+Nesiguranță mare
+Se caută soluții
+Dar lumea pace n-are.
+
+[v4]
+Familii se destramă
+Păcatul e la culme
+Desfrâul și minciuna
+Cuprind întreaga lume.

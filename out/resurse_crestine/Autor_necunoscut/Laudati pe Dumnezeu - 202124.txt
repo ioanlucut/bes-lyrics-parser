@@ -1,0 +1,21 @@
+[title]
+Laudati pe dumnezeu {author: {Anonim}, {rcId: {202124}}
+
+[sequence]
+v1,c,e
+
+[v1]
+Lăudați pe Dumnezeu
+Sa cântăm cu toții lui Dumnezeu
+Lăudați, lăudați pe Dumnezeu
+
+[c]
+Cânt aleluia lui Dumnezeu
+Glorie, aleluia lui Dumnezeu
+Lăudați, lăudați pe Dumnezeu
+
+[e]
+Domn al vieții
+Salvatorul
+Prinț al păcii
+Este El, este El

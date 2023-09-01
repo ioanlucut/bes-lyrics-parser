@@ -1,0 +1,44 @@
+[title]
+Un strigat trist al disperarii {author: {Denys Laurenciuc}, {rcId: {200817}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c2
+
+[v1]
+Un strigăt trist al disperării
+Înalț, Isuse către Tine,
+De-aici de jos din largul mării
+Te chem prin lacrime și-amare suspine.
+
+[c]
+Te chem să vii în barca mea,
+Căci luntrea vieții e lovită,
+Iar barca-ncepe a se sfărâma
+Și valuri peste mine se ridică
+%Te chem, Isus cuprins de frică%
+
+[v2]
+Cu lacrimi grele de durere,
+Cu fața tristă-nlăcrimată,
+Te chem să-mi fii Tu mângâiere..
+Să fii Tu pacea mea de mult așteptată.
+
+[v3]
+E noapte și în piept m-apasă
+Al suferinței crunt hotar..
+Din ochi multe lacrimi se varsă
+Și-aș vrea să îndulcești al meu gust amar.
+
+[v4]
+Te rog să vii, Isus la mine..
+Să îmi asculți dorința mea,
+Dar să lucrezi spre al meu bine
+Chiar dacă-i mult prea greu răspunsul așteptat.
+
+[c2]
+Eu merg cu Tin’ chiar dacă-i greu
+Și-mi curg din ochi lacrimi amare
+Ajută-mă să-Ți mulțumesc mereu,
+Știind că vor veni zile cu soare.
+%Îți mulțumesc chiar dacă doare%
+Amin! :

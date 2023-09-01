@@ -1,0 +1,53 @@
+[title]
+Ca si apa rece de izvor {author: {Dina Stan}, {rcId: {210561}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Ca și apa rece de izvor,
+Așa ești Doamne pentru mine,
+Iar Duhul Sfânt cu-al Lui fior,
+/: E ca un foc ce treaz mă ține. :/
+
+[c]
+/: Pune-n mine Doamne dorul,
+Să caut să te cunosc
+Umple-mi de untdelemn ulciorul
+/: Cu dăruire să-Ți slujesc. :/
+
+[v2]
+Ca un sărut pe-obrazul plâns
+Așa-i cuvântul ce-mi dă viață
+În inimă cu cât l-am strâns,
+/: Mai dulce mi-e a Ta povață :/
+
+[c2]
+/: Privirea să mi-o adâncesc
+În legile plăcute Ție
+Să moară omul meu firesc,
+/: Și voia Ta în toate fie. :/
+
+[v3]
+Ca un străjer la postul său,
+Cu ochii ațintiți în zare,
+Să te aștept, împăratul meu!
+/: Și trâmbița să sune tare :/
+
+[c3]
+/: Ajută-mă să-nalț drapelul
+Credinței ce o port în piept,
+Căci pe pământ coboară cerul
+/: Când ruga mea spre Tine-o-ndrept :/
+
+[v4]
+Ca o lumină și un scut,
+În noaptea de talazuri grele,
+Viteaz, în lupte neîntrecut,
+/: Isus comoara vieții mele :/
+
+[c4]
+/: Învață-mă să știu că prețul
+Și mântuirea ce mi-ai dat,
+Tu le-ai plătit răbdând disprețul,
+/: În locul meu, fii lăudat! :/

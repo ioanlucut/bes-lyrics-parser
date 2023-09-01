@@ -1,0 +1,41 @@
+[title]
+Din dragoste isus ai murit {author: {Damaris Azamfirei}, {rcId: {197189}}
+
+[sequence]
+v1,b,c,v2,b,c,e
+
+[v1]
+Eram nepasatori
+Cand la moarte Te-am dat
+Dar Tu, Isus ne-ai iertat fiindca ne iubeai
+
+[b]
+Din dragoste Isus ai murit
+Sus pe cruce rastignit
+Ca viata vesnica-n dar
+Noi sa primim
+Din dragoste Isus ai murit
+Sus pe cruce rastignit
+Ca viata vesnica-n dar
+Noi sa primim
+
+[c]
+Iti multumim, o Doamne
+Pentru jertfa din calvar
+Pentru Fiul Tau iubit
+Ce din dragoste Sa jertfit
+Iti multumim, o Doamne
+Pentru jertfa din calvar
+Pentru Fiul Tau iubit
+Ce din dragoste Sa jertfit
+
+[v2]
+Isus si eu am fost
+Omul care Te-am dat la moarte
+Am strigat si eu sa Fii rastignit
+
+[e]
+/: Din dragoste Isus ai murit
+Din dragoste Isus S-a jertfit
+Sangele-I curgea pe calvar
+Pentru vina mea si-a ta :/

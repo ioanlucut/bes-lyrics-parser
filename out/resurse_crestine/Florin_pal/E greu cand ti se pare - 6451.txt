@@ -1,0 +1,45 @@
+[title]
+E greu cand ti se pare {author: {Florin Pal}, {rcId: {6451}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+E greu când ți se pare
+Că singur și străin
+Rămasa-i pe a ta cale
+Și n-ai nici un sprijin
+Că lacrima din geană
+Și plânsul năbușit
+Și amarul greu din suflet,
+Întreg te-a copleșit
+
+[c]
+Nu spune-n deznădejde
+Nimic nechibzuit
+Că Cel ce totul vede,
+Spre tine a privit
+Doar El îți poartă grija
+Și știe rana ta
+În clipa hotărâtă
+Doar El ți-o va lega
+
+[v2]
+E greu în suferință,
+E greu prin încercări
+E greu în deznădejde
+Să crezi în vindecări
+E greu la strâmtorare,
+E greu când ești lovit
+Să-ți ții credința tare
+Și-atunci când ești hulit.
+
+[v3]
+E greu când întristarea
+În suflet te-a lovit
+Că-n prag nu-ți mai apare
+Ființa ce-ai dorit
+E greu când disperarea
+Își pune amprenta sa
+Lăsând în casă jalea
+Te-ntrebi de ce-i așa?

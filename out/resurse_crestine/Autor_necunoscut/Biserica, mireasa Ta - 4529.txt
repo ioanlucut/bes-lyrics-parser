@@ -1,0 +1,39 @@
+[title]
+Biserica mireasa ta {author: {Anonim}, {rcId: {4529}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Biserica mireasa Ta
+Ea singură mai poate
+/: Isuse pe pământ purta
+Cuvintele-ți curate :/
+
+[c]
+/: Biserica, biserica
+Ești Tu, Isus întreg în ea :/
+
+[v2]
+Biserica în adevăr
+Să-Ți cânte slavă știe
+/: Cu Duhul locuiește-n cer
+Cu trupu-i prin pustie :/
+
+[v3]
+Biserica e templul tău
+Din pietre vii zidită
+/: Împărăția celui rău
+La poarta ei e oprită :/
+
+[v4]
+Biserica va fii-n curând
+Luată în mărire
+/: Tot ceru’ o va primi cântând
+Pe brațe de iubire :/
+
+[v5]
+Îți mulțumim că și pe noi
+Prin jertfa ta aleasă
+/: În sfântul harului șuvoi
+Ne-ai prins să-Ți fim mireasă :/

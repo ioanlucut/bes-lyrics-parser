@@ -1,0 +1,33 @@
+[title]
+In orasul nazaret {author: {Anonim}, {rcId: {151383}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+În orașul Nazaret Maria trăia
+Și Domnul o iubea
+Iată Domnul printr-un înger astfel i-a vorbit
+Un prunc vei zămisli.
+
+[c]
+Un sfânt fior, fior de sus
+Căci Maria va naște pe Mântuitor
+Vei izbucni în bucurii
+Maria sfântă-n culmea marii fericiri.
+
+[v2]
+Au plecat la Betleem, de-acolo erau
+Pentru recesământ,
+Însă Iosif ca să scape de ea vroia
+Căci el curat era.
+
+[c2]
+Dar Dumnezeu, un vis i-a dat
+L-a liniștit și temerea i-a-nlăturat
+Mai fericit ajunse el
+Că se va naște Dumnezeu Emanuel.
+Azi s-a născut Isus Hristos
+Răscumpere-orice om cu suflet păcătos
+La noi veni, căci ne iubi
+Isus Mesia pentru noi în veci va fii.

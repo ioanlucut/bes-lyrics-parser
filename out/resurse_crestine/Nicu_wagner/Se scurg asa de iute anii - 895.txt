@@ -1,0 +1,37 @@
+[title]
+Se scurg asa de iute anii {author: {Nicu Wagner}, {rcId: {895}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Se scurg așa de iute anii
+Dispar ca umbrele-n amurg
+În zbor se duce-a noastră viață
+Și-atâția la sfârșit o plâng.
+În viață omul dă durerii
+Tribut în fiecare zi.
+Din zori și până-n clipa serii
+Aleargă spre a viețui.
+
+[c]
+/: Tu, om din orice colț al lumii
+Doar prin credință poți avea
+Iertarea, pacea, fericirea,
+Isus îți dă, la Golgota :/
+
+[v2]
+Oricine-ai fi, ești om din lume
+Ai străbătut același drum
+Ai fost copil cu suflet nobil,
+Bătrân sau tânăr ești acum.
+Din zorii frăgeziei tale
+Ți-ai dăltuit imagini noi
+Ți-ai vrut atâta fericire
+Dar lacrima ți-a curs șuvoi.
+
+[v3]
+Așa de rar pe-a tale rane
+Ți-a picurat balsamul sfânt.
+Speranța unei vieți mai bune
+Te-a însoțit pân’ la mormânt.

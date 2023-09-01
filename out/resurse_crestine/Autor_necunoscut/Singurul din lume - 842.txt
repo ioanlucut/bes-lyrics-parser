@@ -1,0 +1,21 @@
+[title]
+Singurul din lume {author: {Anonim}, {rcId: {842}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Singurul din lume :/ căruia trebuie să ne-nchinăm
+Este Dumnezeul mare căruia trebuie să ne-nchinăm!
+
+[c]
+/: Să-L avem în suflet și-n gând :/ x3
+Cât trăim pe-acest pământ!
+
+[v2]
+/: Singurul din lume :/ căruia trebuie să Îi cântăm
+Este Dumnezeul mare căruia trebuie să Îi cântăm!
+
+[v3]
+/: Singurul din lume :/ căruia trebuie să Îi slujim
+Este Dumnezeul mare căruia trebuie să Îi slujim!

@@ -1,0 +1,43 @@
+[title]
+Cand vine seara {author: {Toma Coca}, {rcId: {90271}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+/: Când vine seara te caut Domn iubit,
+Despic cu privirea zarea și stelele pe rând,
+Când vine seara cerul în brațe-l strâng,
+Cuprind tot universul cu al meu gând,
+Când vine seara vorbesc știu că m-auzi,
+Când vine seara mă rog să nu mă uiți. :/
+
+[v1]
+Zarea-o privesc când vine seara,
+Cerul luminile aprinzând,
+Își trage-ncet mahrama,
+Cu steluțele-i strălucind.
+Iar eu o umbră-n vânt,
+Ziua-n lumină nneguri noaptea,
+Alerg aici jos pe pământ,
+Căci vreau ca s-ating zarea.
+
+[v2]
+Sunt picurul de apă,
+În vadra pământului,
+Sunt praful de pe cumpănă,
+Sunt bobul nisipului.
+Sunt firul de iarbă verde,
+În zori viu-napus secat,
+Sunt floarea ce cade,
+Atunci când bate-un vânt.
+
+[v3]
+Dar Doamne m-ai chemat,
+Să îmi dai mântuirea,
+Ai venit de mână m-ai luat,
+Turnat-ai bucuria,
+Astăzi cu drag îți cânt,
+Slavă stăpân din veșnicie,
+Caci Isuse te-ai îndurat,
+De un păcătos ca mine.

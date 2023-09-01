@@ -1,0 +1,35 @@
+[title]
+Azi esti chemat ca sa primesti {author: {Anonim}, {rcId: {3784}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Azi esti chemat ca sa primesti
+Oferta de salvare
+Care Isus a pregatit
+Prin marea-i îndurare.
+
+[c]
+/: Încheie azi un legamânt
+Cu Cel ce pentru tine
+Pe cruce a fost rastignit
+Ca sa-ti dea mântuire. :/
+
+[v2]
+Azi mai e timp spre a gasi,
+Jos în a mortii vale,
+Ale lui Isus bogatii
+Ce pot sa-ti dea salvare.
+
+[v3]
+Mai e puțin și va veni
+Din slavă înainte
+Acel ce pentru noi sa jertfit
+Ca s-avem libertate.
+
+[v4]
+Grăbește-te nu amâna
+Ascultă a Lui chemare
+Încheie azi un legământ
+Și vei primi iertare.

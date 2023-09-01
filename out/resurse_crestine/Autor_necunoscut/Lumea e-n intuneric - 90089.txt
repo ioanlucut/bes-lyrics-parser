@@ -1,0 +1,23 @@
+[title]
+Lumea e-n intuneric {author: {Anonim}, {rcId: {90089}}
+
+[sequence]
+v1,c,v3,c
+
+[v1]
+Lumea e-n intuneric, pierduta in pacat
+Iar sansa de salvare a ignorat.
+Noi, cei chemati la vesnic adevar,
+Sa purtam in noapte Lumina!
+
+[c]
+/: Vom purta faclia! Lumina vom inalta!
+Noaptea o vom birui prin lumina Sa!
+Pana ce lumea va vedea
+Faclia va lumina! :/
+
+[v3]
+Nimic nu ne infrange...de ce sa ne temem?
+Domnul e cu noi si ne da putere!
+Cu inimi aprinse, Cuvantul raspandim
+Aducand Lumina noptii, aducand viata mortii!

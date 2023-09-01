@@ -1,0 +1,27 @@
+[title]
+Totul isus mi-a iertat {author: {Anonim}, {rcId: {4086}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Totul Isus mi-a iertat
+Totul El mi-a vindecat
+Toate greutăți și chinuri
+El a suferit la Golgota.
+
+[c]
+/: Aleluia, Aleluia
+Cât de mult El m-a iubit. :/
+
+[v2]
+Mereu vreau să merg cu Isus
+Mereu eu privesc în sus
+Mereu vreau să-L țin de mână
+Până voi ajunge-n Canaan.
+
+[v3]
+Numai prin Isus trăiesc
+Numai pașii Lui urmez
+Numai calea Lui aleg
+Și păcatul eu îl voi urâ.

@@ -1,0 +1,29 @@
+[title]
+Mai avem putin de mers {author: {Nicolae Moldoveanu}, {rcId: {4587}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Mai avem puțin de mers,
+Pân-la ținta mult dorită.
+/: Plânsul nostru va fi șters bis 2
+De lumina-nveșnicită. :/
+
+[v2]
+Mai avem puțin de stat,
+Pe pământul fără pace,
+/: Și, în cerul minunat, bis 2
+Un etern popas vom face... :/
+
+[v3]
+Mai avem puțin de dus
+Crucea pregătirii noastre,
+/: Și zbura-vom mult mai sus, bis2
+De tăriile albastre. :/
+
+[v4]
+Mai avem puțin, puțin
+Pân-la sfânta întâlnire,
+/: În văzduhul cristalin, bis 2
+Cu Isus, preascumpul Mire. :/

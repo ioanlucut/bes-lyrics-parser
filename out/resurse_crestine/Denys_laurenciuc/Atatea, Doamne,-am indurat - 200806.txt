@@ -1,0 +1,37 @@
+[title]
+Atatea doamne-am indurat {author: {Denys Laurenciuc}, {rcId: {200806}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Atâtea, Doamne, -am îndurat
+De dragul Tău, știi bine..
+/: Și ochii când mi-au lăcrimat
+Și pieptul când mi-a sângerat,
+La cruce, Doamne-am alergat,
+Ca să Te-nduri de mine :/
+
+[c]
+Dar nu mai vin la Tin’, Isus,
+Să-mi plâng din nou amarul,
+/: Căci de când Te-am întâlnit
+Privirea Ta m-a întărit
+Și m-a făcut să urc de dragul Tau Calvarul :/
+
+[v2]
+Când odăița-n plâns scăldam..
+De dorul Tău, știi bine
+/: Doar suspinând mă alinam
+Și prin credință Te zăream..
+Cu-aceasta eu mă mângâiam,
+Când m-apropiam de Tine :/
+
+[v3]
+Atunci când Te-am chemat oftând
+Cu plâns în rugăciune..
+/: La cruce mereu alergând
+Prin vânturi, viscol, ploi și vânt
+Cu fața plină de pământ
+Amarul să-Ți pot spune :/
+Amin!

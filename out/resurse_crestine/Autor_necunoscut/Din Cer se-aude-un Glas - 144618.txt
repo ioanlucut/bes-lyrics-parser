@@ -1,0 +1,24 @@
+[title]
+Din cer se-aude-un glas {author: {Anonim}, {rcId: {144618}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+/: Din cer se-aude-un Glas, :/
+E Glasul Domnului, al Domnului,
+Ce ne-aduce Dar
+ /: Frumos. :/ -
+
+[c]
+Seara, în Betleem,
+S-a Născut Mântuitorul. -
+Seara, în Betleem,
+S-a Născut Salvatorul. -
+Aleluia! Aleluia! Aleluia! Aleluia!
+
+[v2]
+/: Dorim și noi să știm, :/
+Pe-al nostru Tată Scump, Isus Hristos,
+Ce-a Umblat
+ /: printre popor! :/ -

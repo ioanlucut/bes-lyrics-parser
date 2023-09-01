@@ -1,0 +1,30 @@
+[title]
+Sunt calator aici {author: {Nicolae Moldoveanu}, {rcId: {5739}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Sunt călător aici, zoresc neîncetat;
+Către o altă țară, voios eu am plecat.
+Am fost trimis aici să spun mereu, oricui,
+Că Isus vine în curând!
+
+[c]
+Stăpânul meu m-a-nsărcinat
+Să duc mesajul fericit
+Că orice păcătos, azi poate fi salvat
+Și, pentru veci, în cer, primit!
+
+[v2]
+Un ordin ne-a fost dat la toți, cei mici și mari:
+Să ieșim din păcat și să trăim curat!
+O, ascultați-l azi, căci timpu-i spre apus
+Și ne tot cheamă El, Isus.
+
+[v3]
+Precum e un palat, așa e casa mea;
+E totul nepătat, strălucitor în ea.
+Dumnezeiescul Miel mi-a spus ca să vestesc:
+„
+Acolo vor fi cei ce-L servesc!”

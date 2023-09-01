@@ -1,0 +1,35 @@
+[title]
+Patria noastra e sus {author: {Ionel Saran Bochis}, {rcId: {111179}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+În Lume sunt doar două Căi
+Poți ca să mergi Tu pe care vrei astazi Omule
+/: Dar la urmă vei fi întrebat
+Pe care cale-ai umblat :/
+
+[c]
+/: Patria noastră e Sus
+Nu-i aici jos pe Pământ
+E mai sus mai sus de stele
+Unde Isus este Rege :/
+
+[v2]
+Dacă Tu mergi pe ce-a dreaptă
+Domnul Isus te va aștepta pe tine acolo Sus
+/: Și-atuncea plata o să-ți fie
+Bucurie-n Veșnicie :/
+
+[v3]
+Dacă Tu mergi pe drumul rău
+Nu ai să-l vezi niciodată Tu Fratele meu pe Dumnezeu
+/: Ca-șa spusa Mântuitorul
+Eu sunt Calea și-adevărul :/
+
+[v4]
+Așa e Omul muritor
+Pe Lume El așa e lăsat de Dumnezeu trecător
+/: Ca și-o Floare înflorește
+Iar la urmă veștejește :/

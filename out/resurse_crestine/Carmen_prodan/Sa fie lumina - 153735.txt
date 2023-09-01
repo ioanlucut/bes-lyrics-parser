@@ -1,0 +1,32 @@
+[title]
+Sa fie lumina {author: {Carmen Prodan}, {rcId: {153735}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Pe marea vieții, ani mulți am vâslit din greu
+Și când se părea că-i sfârșitul...
+Din cer a vorbit Dumnezeu:
+
+[c]
+/: ”
+Să fie lumină”! Și norii pe loc s-au ascuns,
+Furtuna s-a oprit și vântul a tăcut...
+Ce liniște e pe mare, vrășmașii au amuțit,
+Căci Domnu-a poruncit:” Să fie lumină!” :/
+
+[v2]
+În marea-mi durere scăparea n-o mai vedeam,
+Dar vocea răsună mai tare,
+Din cer poruncind tot mai clar:
+
+[v3]
+Ce mare putere ai Doamne-n al Tău Cuvânt,
+De-mi schimbi într-o clipă viața,
+Din ceruri rostind doar atât:
+
+[v4]
+Mereu port în suflet iubirea ce mi-ai arătat,
+Și vocea Ta, Doamne, răsună,
+Nu pot să o uit niciodat!

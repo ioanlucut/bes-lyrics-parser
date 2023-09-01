@@ -1,0 +1,41 @@
+[title]
+Ne inchinam in fata ta {author: {Anonim}, {rcId: {140340}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+/: Ne închinam în fața Ta, azi
+ /: Rege iubit :
+/:/
+Și te vom urma pe Tine,
+Până vom ajunge-n ceruri.
+Și te vom urma pe Tine,
+Rege iubit.
+
+[v2]
+/: Ne închinam în fața Ta, azi
+ /: Tată iubit :
+/:/
+Și te vom urma pe Tine,
+Până vom ajunge-n ceruri.
+Și te vom urma pe Tine,
+Tată iubit.
+
+[v3]
+/: Ne închinam în fața Ta, azi
+ /: Isus iubit :
+/:/
+Și te vom urma pe Tine,
+Până vom ajunge-n ceruri.
+Și te vom urma pe Tine,
+Isus iubit.
+
+[v4]
+/: Ne închinam în fața Ta, azi
+ /: Duhule Sfânt :
+/:/
+Și te vom urma pe Tine,
+Până vom ajunge-n ceruri.
+Și te vom urma pe Tine,
+Duhule Sfânt.

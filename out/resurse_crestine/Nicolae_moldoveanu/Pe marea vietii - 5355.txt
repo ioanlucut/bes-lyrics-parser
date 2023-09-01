@@ -1,0 +1,66 @@
+[title]
+Pe marea vietii {author: {Nicolae Moldoveanu}, {rcId: {5355}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,v5,c5
+
+[v1]
+Pe marea vieții
+Se ridică valuri tot mereu
+Și vânturi bat fără-ncetare
+În poporul Tău.
+
+[c]
+/: Furtuna a venit acum
+Ca să lovească tot ce-i bun;
+Satan se luptă și ar vrea
+Să stingă dragostea. :/
+
+[v2]
+Trudim mereu, ne zbuciumăm,
+Pe marea vieții,
+Și vrem în port să ancorăm
+Cu Tine, Isuse.
+
+[c2]
+/: Dar urcă Tu-n corabie,
+Potolește valurile!
+O, fii cu noi totdeauna,
+În lumea asta rea! :/
+
+[v3]
+E-așa de greu de-naintat,
+Căci lupta-i tot mai grea:
+„
+Vino, Isuse-n ajutor!
+Vino, nu ne lăsa! ”
+
+[c3]
+/: Condu-ne Tu neîncetat
+Ca pe Israel altădat’;
+Satan se luptă și ar vrea
+Să stingă dragostea. :/
+
+[v4]
+Suspină azi copiii Tăi
+Și plâng nemângâiați;
+În lumea asta pribegesc,
+Străini și alungați.
+
+[c4]
+/: Atâți bolnavi făr-ajutor
+Strigă să vii la patul lor;
+Întinde-Ți astăzi mâna Ta!
+Isuse, nu-i lăsa! :/
+
+[v5]
+Atâtea răni sunt de legat
+Și astăzi în popor,
+Iar mulți așteapt-o mângâiere,
+Tânjind mereu de dor.
+
+[c5]
+/: Dar știu că va veni o zi
+Când Tu, Isuse, vei veni
+Să ne ridici de pe pământ,
+La Tine-n cerul sfânt. :/

@@ -1,0 +1,27 @@
+[title]
+In psalmul meu plangeam {author: {Iulia Contis}, {rcId: {246124}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În psalmul meu, plângeam ruptura
+Creată de acel ce ura
+Cu ură a vârât pe cale,
+Dar voi striga și-azi: Osanale!
+
+[c]
+Și strig cu strigătul de moarte:
+De cer, și astăzi mai fă-mi parte!
+
+[v2]
+Scindarea unor inimi care
+Se pierd în noapte pe cărare
+Nu va putea opri lucrarea
+Acelui ce e chiar splendoarea!
+
+[v3]
+Din nevăzuta țesătură
+A Celui ce vrea o ruptură
+Între sfințenie și păcate,
+Eu gândul mi-l întorc spre Carte!

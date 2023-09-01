@@ -1,0 +1,47 @@
+[title]
+Cantati laudati {author: {Speranța}, {rcId: {6618}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+În curând, frați și surori
+Cu toți ne vom despărți.
+Nu se știe anul, clipa,
+Când ne vom mai întâlni
+
+[c]
+/: Cântați, lăudați, slăviți pe Dumnezeu,
+Toată viața cât trăiți!
+Acolo Sus în Raiul Său
+Să fim cu toți nedespărțiți! :/
+
+[v2]
+Doar aici avem necazuri
+Și-ncearcă să te lovească
+Vino tu degrab’ la Isus!
+El te scăpa și-ți da viața!
+
+[v3]
+Poate-odată-ngrijorarea
+Te va prinde-n mreaja sa.
+Uită-te țintă la Isus
+Și de El nu te lăsa!
+
+[v4]
+N-aveți frică-n astă viață!
+Nu-L uitați pe Dumnezeu!
+Pe genunchi în rugăciune
+Întăriți-vă mereu!
+
+[v5]
+Haideți frați să ne unim,
+Pe Isus ca să-L slăvim,
+Căci va veni ziua aceea
+Când să ieșim cu candela!
+
+[v6]
+Împreună am trăit
+Bucurii prin Duhul Sfânt.
+Sa ne-ajute Dumnezeu
+Să fim toți în Cerul Său!

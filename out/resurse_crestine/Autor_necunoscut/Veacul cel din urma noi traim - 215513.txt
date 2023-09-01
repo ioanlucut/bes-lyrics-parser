@@ -1,0 +1,35 @@
+[title]
+Veacul cel din urma noi traim {author: {Anonim}, {rcId: {215513}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Veacul cel din urmă noi traim
+Pe acest pământ călătorim
+/: Zboară iute zilele la rând
+Care starea ta cu Cel Preasfânt? :/
+
+[c]
+/: Este vremea cea de la sfârșit
+Calea-ngusta multi au parasit
+Azi gandeste-te la viata ta
+Unde mergi si care ti-e starea :/
+
+[v2]
+Mulți din cei ce-au mers smeriți cândva
+Astazi spun că nu e chiar asa
+/: Multe lucruri care par nimic
+Ne despart de Domnul nostr’ Iubit :/
+
+[v3]
+Dumnezeu e ieri si azi și-n veac
+Dumnezeu nu sa modernizat
+Tot ce-a scris cu mii de ani model
+Vrea ca sa trăim si azi la fel
+
+[v4]
+Azi e o alarmă in popor
+Astăzi Duhul sfânt strigă cu dor
+O popor ce v-am răscumpărat
+De ce unii Calea a-ți uitat?

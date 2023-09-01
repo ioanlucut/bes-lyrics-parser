@@ -1,0 +1,29 @@
+[title]
+Eu nu ma tem {author: {Speranța}, {rcId: {101904}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+/: Căci viața este Dumnezeu
+Iubirea mea, Păstorul meu
+Lumină și viață din vecii
+Atotputernic și stăpân în veci va fi :/
+
+[v1]
+Eu nu mă tem chiar vânturi de-ar veni
+Barca mea pe valuri va pluti
+Și chiar de țărmul nu-l zăresc
+Înspre liman mereu vâslesc, eu nu mă tem
+
+[v2]
+Eu nu mă tem chiar foamete de-ar fi
+Și chiar războaie de s-ar ivi
+Zece mii la dreapta de-or cădea
+Și alte mii alăturea, eu nu mă tem
+
+[v3]
+Eu nu mă tem când focul va fi mare
+Lucrarea mea rămâne-va-n picioare
+Căci sunt sădit în via lui Hristos
+Și roada mea e de folos, eu nu mă tem

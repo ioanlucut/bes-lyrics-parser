@@ -1,0 +1,42 @@
+[title]
+Mai rasuna pretutindeni (cand pe nori de slava vine) {author: {Fratii Pal}, {rcId: {238544}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mai răsună pretutindeni
+Peste munți și peste văi
+Glasul Lui duios și dulce:
+”
+Vin’ degrabă după voi!”
+Doar un timp de pregătire
+Este și el pe sfârșit
+Te întreabă doar creștine
+Oare cum vei fi găsit?
+
+[c]
+/: Când pe nori de slavă vine
+Mirele Sfânt negreșit
+El te-ntreabă și pe tine
+Oare cum vei fi găsit? :/
+
+[v2]
+Cel care adeverește
+Și ne zice: ”vin curând!”
+El în dragoste vorbește
+Și mai cheamă suspinând
+Nu mai sta în nepăsare
+Până încă mai e har
+Să primești a Lui iertare
+Și viața Lui în dar
+
+[v3]
+În cetatea Lui cea sfântă
+În Ierusalimul nou
+Unde îngerii-n cor cântă
+Mii de imnuri în ecou
+Îmbrăcați în haine albe
+Vor pleca de pe pământ
+Toți acei care primit-au
+Călăuza, Duhul Sfânt

@@ -1,0 +1,30 @@
+[title]
+Te caut doamne pentru ca esti dumnezeul meu {author: {Anonim}, {rcId: {4172}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Te caut Doamne pentru că ești Dumnezeul meu!
+Îmi însetează sufletul meu tot mereu!
+Stau și privesc spre Tine,
+Doamne,
+Ești îmbrăcat în bunatate și cu buzele mele îți dau lauda!
+
+[c]
+/: Te voi binecuvânta dar toată viața mea,
+Și în numele Tau mâinile-mi voi ridica!
+Iar gura mea te laudă cu strigăte Doamne,
+În așternut când mă gândesc la Tine! :/
+
+[v2]
+La umbra aripilor Tale stau și vesel cânt,
+Iar cei ce vor să-mi ia viața-aici jos pe pământ,
+De sabie sânt nimiciți și de fiare sunt striviți,
+Căci mâna Ta îmi este ajutor!
+
+[v3]
+Acum și noi ca David Doamne, vrem să-ți mulțumim,
+De dragostea și bunatatea care o primim,
+Căci în locașurile sfinte locuiești, al nost părinte,
+Îmbrăcat în slavă și putere!

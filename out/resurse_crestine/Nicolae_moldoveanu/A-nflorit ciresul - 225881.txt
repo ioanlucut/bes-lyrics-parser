@@ -1,0 +1,21 @@
+[title]
+A-nflorit ciresul {author: {Nicolae Moldoveanu}, {rcId: {225881}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+A-nflorit cireșul, parc-a nins pe el.
+E frumos în soare, albu-n orice fel!
+
+[c]
+Fie lăudat, fie lăudat,
+pentru toate-n veci să fie Domnul lăudat!
+
+[v2]
+O hăinuță albă Domnu-a pregătit,
+Pentru toți copiii care L-au primit.
+
+[v3]
+Și în Țara-I sfântă unde-s îngeri mii,
+Va lua la Sine pe ai Săi copii.

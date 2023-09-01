@@ -1,0 +1,36 @@
+[title]
+Revelation song {author: {Newsboys, Traducere RO}, {rcId: {5199}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+El e vrednic,
+Mielul jertfit,
+Sfânt e, sfânt este El
+Cântă slavă
+Celui ce stă pe
+Scaunul ceresc a harului
+
+[c]
+Sfânt, măreț și vrednic
+Domnul atotputernic
+În veșnicie Dumnezeu
+Cânt cu întreaga lume
+Rege al regilor
+O, Doamne, Te ador
+Trăiesc pentru Tine.
+
+[v2]
+Maiestate, înconjurat cu
+Fulgere, tunete și glasuri
+Fie a Ta onoarea, puterea, gloria
+Doar Tu ești mar’-împărat
+
+[v3]
+Stau uimit și
+Mă simt smerit la
+Rostirea numelui Tău.
+Numele Tău-i putere
+Suflare, apa vie
+Mister atât de minunat

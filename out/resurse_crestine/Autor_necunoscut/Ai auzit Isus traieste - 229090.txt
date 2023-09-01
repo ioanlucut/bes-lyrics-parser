@@ -1,0 +1,37 @@
+[title]
+Ai auzit isus traieste {author: {Anonim}, {rcId: {229090}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ai auzit Isus trăiește,
+E viu Isus a înviat,
+S-a frânt pe veci puterea morții,
+Căci azi Hristos a înviat
+S-a frânt pe veci puterea morții,
+Căci azi Hristos a înviat
+
+[c]
+Să nu mai plângi de-acum Maria,
+Mormântu-i gol si părăsit
+Te scoală cântă și vestește,
+E viu Isus a biruit
+Te scoală cântă și vestește,
+E viu Isus a biruit.
+
+[v2]
+Biruitor și-n iad pășește,
+Adâncul tot s-a luminat,
+Hristos creștinilor le spune
+Am ispășit am isprăvit
+Hristos creștinilor le spune
+Am isprăvit am biruit.
+
+[v3]
+Să cânte corul învierii,
+Lăudând Eroul Împărat
+Căci vrednic e de toată cinstea,
+Isus Hristos cel înviat.
+Căci vrednic e de toată cinstea,
+Isus Hristos cel înviat.

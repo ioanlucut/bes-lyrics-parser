@@ -1,0 +1,41 @@
+[title]
+Lumina care este-n mine {author: {Nicolae Moldoveanu}, {rcId: {241043}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Lumina care-ai pus-o-n mine,
+Cu prețioase ei putere,
+Să nu se-ntunece Stăpâne,
+Din lipsa mea de priveghere!
+
+[c]
+Ca să nu fac Cuvântul vieții,
+C-o inimă necurățită
+Neroditor ca stana gheții,
+Prin lumea de păcat robită.
+
+[v2]
+Ci să m-ajuți prin har, oriunde,
+Să mă păstrez curat și tare,
+Stingând păcatul ce se-ascunde
+În carnea asta trecătoare.
+
+[c2]
+Ca să nu-mpiedic mântuirea,
+La cei care-o doresc fierbinte,
+Văzându-mi dezlegată firea,
+În lucrurile Tale sfinte.
+
+[v3]
+Iar omul cel firesc din mine,
+Vrăjmaș al vieții de sfințire,
+Pe cruce zilnic să-I pot ține,
+Să nu dărâme-a Ta zidire.
+
+[c3]
+Ci ea mai mult să propășească,
+Prin viața mea din Duh născută,
+Purtând mai vie, mai cerească,
+lumina harului plăcută!

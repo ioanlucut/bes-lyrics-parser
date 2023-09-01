@@ -1,0 +1,29 @@
+[title]
+Recunostina {author: {Carmen Prodan}, {rcId: {170219}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cuvintele îmi sunt mult prea sărace
+Să pot, Isuse bun, să-Ți mulțumesc...!
+Recunoștința mea azi se îndreaptă
+Spre ceruri și cu lacrimi eu șoptesc:
+
+[c]
+Recunoștință, floare minunată,
+Cu drag, Isuse, azi îți ofer!
+Că-n viața mea greu încercată,
+Adus-ai soare pe înnoratul cer!
+
+[v2]
+Îți mulțumesc, Isus, c-ai fost cu mine
+În noaptea încercărilor din drum!
+Cu stâlp de foc mi-ai luminat cărarea,
+Să pot ajunge la limanul bun.
+
+[v3]
+Am înțeles că-n Tine-i fericirea,
+Oricât ar fi de greu pe-acest pământ,
+Și-n suflet port mereu recunoștință...
+Te laud, Domnul meu, și-n veci îți cânt!

@@ -1,0 +1,11 @@
+[title]
+S-a nascut isus hristos {author: {Speranța}, {rcId: {111379}}
+
+[sequence]
+v1
+
+[v1]
+/: S-a născut Isus Hristos
+S-a născut Isus Hristos
+Osana, Maranata, Aleluia!
+Osana, Maranata, Aleluia! :/

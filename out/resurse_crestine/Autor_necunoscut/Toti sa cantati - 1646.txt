@@ -1,0 +1,31 @@
+[title]
+Toti sa cantati {author: {Anonim}, {rcId: {1646}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Toți să cântați că Dumnezeu mult ne-a iubit.
+Fiți bucuroși că-n harul Său El ne-a iubit.
+Din moarte voi sunteți chemați,
+Mila-ndurarea Lui aflați.
+Ca din păcat să fiți salvați - El ne-a iubit!
+
+[c]
+/: El ne-a iubit, El ne-a iubit.
+Toți să-I cântați lui Dumnezeu
+Că ne-a iubit. :/
+
+[v2]
+Spuneți la toți că Dumnezeu mult ne-a iubit,
+S-a coborât din cerul Său, că ne-a iubit.
+Domnul Isus s-a întrupat,
+Și pentru noi mult a răbdat,
+Suntem de-acum în veci salvați - El ne-a iubit.
+
+[v3]
+Slăviți-L voi ce-L ascultați, că ne-a iubit.
+Din mila-I mare voi gustați, El ne-a iubit.
+Soarele nostru e Isus,
+Scut și-adăpost venit de sus.
+Este Mântuitor și Domn - El ne-a iubit.

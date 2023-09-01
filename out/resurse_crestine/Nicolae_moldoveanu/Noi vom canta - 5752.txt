@@ -1,0 +1,29 @@
+[title]
+Noi vom canta {author: {Nicolae Moldoveanu}, {rcId: {5752}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Noi vom cânta, pe muntele Sion cel de sus,
+Cântarea nouă a Mielului Isus;
+/: Noi ne vom bucura, pe malul de cristal,
+Când vom birui fiara cea rea. :/
+
+[v2]
+În credință, ca-n vis, descoperi-mi-se
+Slava strălucitei patrie...
+/: Aș vrea să mă înalț acolo, chiar acum,
+Ca să fiu mângâiat de Isus. :/
+
+[v3]
+Pomul vieții minunat el înflorește,
+Râul vieții curge liniștit;
+/: Acolo moartea nu mai amenință nicidecum,
+Numai cântări de laudă Domnului. :/
+
+[v4]
+Acolo, fericiți vom fi în veci cu El
+Unde nu-s lacrimi, nici despărțiri;
+/: Unde toți îngerii Îl slăvesc maiestuos,
+Vom fi încoronați de Hristos. :/

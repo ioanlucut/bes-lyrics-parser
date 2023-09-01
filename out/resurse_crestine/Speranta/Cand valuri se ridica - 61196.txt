@@ -1,0 +1,42 @@
+[title]
+Cand valuri se ridica {author: {Speranța}, {rcId: {61196}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când valuri se ridică și îmi este frică,
+Doamne, fii cu mine!
+Când e ceață și nu mai am speranță
+Rămâi și-atunci cu mine
+Când vântul și furtuna lovește întruna
+Te rog ajută-mă!
+Când este greu, mă rog mereu
+O Doamne scapă-mă!
+
+[c]
+/: Nu mă lăsa Isuse, în mocirlă și noroi
+Pe cărarea veșniciei vreau să mergem amândoi! :/
+/: Nu mă lăsa Isuse când sunt în nevoi
+La bine și la greu să fim amândoi! :/
+/: Nu mă lăsa Isuse, la judecata de apoi
+Vreau în cerul sfânt să fim amândoi! :/
+
+[v2]
+Când boala mă ajunge și viața mi se stinge
+Vreau să-mi dai credință
+Când voi trece pragul, doresc să flutur steagul
+De biruință!
+Să nu dau înapoi prin orice nevoi
+Vreau să ’naintez!
+Când negura e mare și Cel rău da târcoale
+Ajută-mă să veghez!
+
+[v3]
+Chiar de mi-aș pierde tot ce se vede
+Nu ar conta!
+Dar doresc, mă străduiesc
+Să nu pierd mântuirea!
+În ziua mare, la sărbătoare vreau să fiu și eu!
+Cu Mirele dorit, cu Mirele iubit
+Cu Tine, Domnul meu

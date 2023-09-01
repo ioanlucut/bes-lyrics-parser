@@ -1,0 +1,33 @@
+[title]
+Sa-i spui mereu lui isus {author: {Nicolae Moldoveanu}, {rcId: {5363}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Să-I spui mereu lui Isus ale tale greutăți,
+Căci nu găsești în lume cui să le-arăți.
+Spune-I lui Isus toate! El poate ajuta;
+În viața ta pribeagă, El pace îți va da.
+
+[c]
+/: Spune-I Lui, tot ce ai și El te-ascultă azi, chiar azi!
+El îți șterge lacrima ce-ți curge pe obraz... :/
+
+[v2]
+Și chiar în întristare, să-L chemi pe-acest Isus!
+El - blând - așa-ți vorbește. Privește numai sus,
+De unde izbăvirea îți vine, amicul meu,
+În zile de-ncercare și de necaz greu.
+
+[v3]
+Să nu mai spui la oameni căci toți sunt muritori,
+Căci nu-i sub ceruri altul să-ți deie ajutor;
+Isus e singurul care Te poate ajuta
+Și cea mai grea durere El ți-o va alina.
+
+[v4]
+Prin încercări de-ai trece, să nu descurajezi,
+Căci asta este calea pe care s-o urmezi!
+Adu-ți aminte bine cum Domnul a răbdat
+Și, pentru-a-tale fapte, chiar viața El Și-a dat.

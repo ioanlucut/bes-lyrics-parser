@@ -1,0 +1,43 @@
+[title]
+Cum sa-mi pastrez credinta? {author: {Anonim}, {rcId: {191348}}
+
+[sequence]
+v1,c,v2,c2,v3,c2,v4,c2
+
+[v1]
+Cum sa-mi pastrez credinta si totusi, sa muncesc?!
+De casa ce mi-ai dat-o, cu drag sa ma-ngrijesc!
+/: Si ce-ar fi pentru mine mai bun cu-adevarat?!
+Pe ce sa-mi dau sudoarea si sa raman curat?! :/
+
+[c]
+Isuse scump si Tata si Frate-adevarat
+Da-mi dreapata cumpatare sa pot trai curat.
+Semneaza-mi Tu hotarul in care sa traiesc,
+Ca la sfarsit de toate, cu drag, sa Te-ntalnesc!
+
+[v2]
+Caci, iata, lacomia si dragostea de bani
+Pandesc la orice poarta, ca cei mai rai dusmani.
+/: Intrat-a-n adunare sub forma de-a avea
+Doar strictul necesarul... si-n urma, nu-i asa. :/
+
+[c2]
+Ca-n locul slujbei sfinte ce face oameni buni,
+E moda si dezmatul si-atatea stricaciuni.
+Si-atatia frati ce-odata lucrau Ogorul Tau,
+Slujesc azi, lui Mamona, tragand la jugul sau.
+
+[v3]
+Iubirea de avere si banii-nselatori
+Au dezbracat poporul de sfintele comori.
+/: De-aceea, nu-i putere in cant si-n rugaciuni
+Si nu-ti mai faci lucrarea cu semne si minuni. :/
+R1
+
+[v4]
+Ah, cum ma prinde teama! Si nu vreau sa gresesc!
+De-aceea-ti cant cantarea, caci vreau sa Te-ntalnesc!
+/: Nu vreau ca lumea-aceasta sa-mi fie telul meu,
+Ci, te doresc pe Tine, Isuse, Dumnezeu! :/
+R1

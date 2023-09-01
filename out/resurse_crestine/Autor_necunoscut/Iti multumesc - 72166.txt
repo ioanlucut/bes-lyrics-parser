@@ -1,0 +1,37 @@
+[title]
+Iti multumesc {author: {Anonim}, {rcId: {72166}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+O, Tata bun, Tata ceresc
+Eu astazi vin sa-Ti multumesc
+Ca mi-ai dat viata, mi-ai dat speranta
+O Tata bun, o Tata bun Iti multumesc
+
+[c]
+O Tata bun eu vin acum
+Primeste-ma in casa Ta
+Eu vin acum sa Te slujesc
+Eu vin acum sa Te maresc
+Iti multumesc
+
+[v2]
+Mi-ai dat iubire, mi-ai dat inima
+Sa Te iubesc neincetat,
+O Tata bun nu am cuvinte
+Sa-Ti multumesc ca ma iubesti
+Iti multumesc
+
+[v3]
+Nu am stiut drumul vietii,
+M-am pierdut in largul ei
+Iti multumesc o Tata bun
+Ca m-ai ajutat si mi-ai aratat iubirea Ta....
+
+[v4]
+O Tata bun, Tata ceresc
+Eu astazi vin sa-Ti multumesc
+Ca mi-ai dat viata, mi-ai dat speranta,
+M-ai ajutat sa Te slavesc.

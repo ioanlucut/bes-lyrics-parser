@@ -1,0 +1,35 @@
+[title]
+Binecuvantarea domnului {author: {William G.Tomer}, {rcId: {1928}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Binecuvantarea Domnului
+Zilnic sa va insoteasca,
+Calea sa v-o netezeasca
+Binecuvantarea Domnului.
+
+[c]
+Pana cand ne-om vedea
+Si-naintea Lui vom sta,
+Sa avem ne-ncetat
+Binecuvantarea Domnului.
+
+[v2]
+Binecuvantarea Domnului
+Pe-aripi sfinte sa va poarte,
+Paine vietii sa v-o-mparta
+Binecuvantarea Domnului.
+
+[v3]
+Binecuvantarea Domnului
+Prin furtuni sa va-ntareasca,
+De caderi sa va scuteasca
+Binecuvantarea Domnului.
+
+[v4]
+Binecuvantarea Domnului
+In iubirea Lui va tina,
+Sa va dea prin har lumina
+Binecuvantarea Domnului.

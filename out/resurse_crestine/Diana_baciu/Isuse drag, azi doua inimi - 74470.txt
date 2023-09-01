@@ -1,0 +1,31 @@
+[title]
+Isuse drag azi doua inimi {author: {Diana Baciu}, {rcId: {74470}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Isuse drag azi două inimi
+Două inimi se unesc
+Vor împreună o viață întreagă
+Să te slujească Doamne ceresc
+
+[c]
+Păzește-i Tu cu mâna Ta
+Singuri nicicând nu îi lăsa
+Ei doar în Tine se încred neîncetat
+Păzește-i Tu cu mâna Ta
+Singuri nicicând nu îi lăsa
+Nădejde-n tine vor avea de-apururea
+
+[v2]
+Pe un nou drum acum vor merge
+Tu să le fii ocrotitor
+Când prin probleme ei vor trece
+Le fii a lor ocrotitor
+
+[v3]
+Rămâi cu ei, rămâi Isuse
+Te rog să-i binecuvîntezi
+Și să-i îmbraci cu a Ta putere
+Căminul să le luminezi

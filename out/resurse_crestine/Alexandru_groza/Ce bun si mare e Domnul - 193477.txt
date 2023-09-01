@@ -1,0 +1,17 @@
+[title]
+Ce bun si mare e domnul {author: {Alexandru Groza}, {rcId: {193477}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Ce bun și mare e Domnul meu, El se-ngrijește de mine mereu
+El m-a creat ca să fiu fericit, în inima mea, Isus e slăvit!
+
+[c]
+Cu toți copiii eu laudă-I cânt, El e Păstorul și Domnul meu bun
+Cu toți copiii eu cânt lui Isus, El mă iubește pe mine nespus!
+
+[v2]
+Când voi fi mare, îți voi sluji, Cuvântul Lui sfânt îl voi prețui
+Cu inima mea îi voi cânta și mântuirea Lui eu voi avea!

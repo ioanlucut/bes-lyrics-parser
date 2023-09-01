@@ -1,0 +1,42 @@
+[title]
+Cinstiti-i pe p~arinti {author: {Iolu Cornel}, {rcId: {150828}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c2
+
+[v1]
+Cinstitii pe parinti, cinstiti-i pe-amandoi
+Caci ei v-au dat viata si v-au crescut pe voi
+Cinstitii pe parinti, si ascultati de ei
+Caci doar asa Ii place Domnului Dumnezeu
+
+[v2]
+Ne vom cinsti parintii, ii vom cinsti mereu
+Caci ei ne-au dat viata si ne-au crescut pe noi
+Ne vom cinsti parintii vom asculta de ei
+Caci doar asa ii place Domnului Dumnezeu
+
+[c]
+/: Zi de zi Il vom cinsti, langa ei mereu vom fi
+Zi de zi vom asculta cum ne spune Biblia
+N-aruncam vorbe in vant credeti-ne pe cuvant
+Noi vom asculta de ei :/
+
+[v3]
+Cinstiti-L pe Isus si ascultati de El
+Caci El de dragul vostru a coborat din cer
+Pe El sa-L ascultati pe El sa-L laudati
+Caci El v-a dat viata pe El sa Il urmati
+
+[v4]
+Cinstim azi pe Isus si ascultam de El
+Caci El de dragul nostru a coborat din cer
+De El vom asculta,
+Pe El vom lauda
+Caci El ne-a dat viata deaceea-L vom urma
+
+[c2]
+/: Zi de zi Il vom cinsti, langa El mereu vom fi
+Zi de Zi-L vom asculta cum ne spune Biblia
+N-aruncam vorbe in vant credeti-ne pe cuvant
+Noi vom asculta de El :/

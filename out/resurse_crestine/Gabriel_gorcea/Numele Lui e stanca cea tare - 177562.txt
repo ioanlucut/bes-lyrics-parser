@@ -1,0 +1,61 @@
+[title]
+Numele lui e stanca cea tare {author: {Gabriel Gorcea}, {rcId: {177562}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Numele Lui e stânca cea tare
+Numele Lui e un turn de scăpare,
+Numele Lui e un nume puternic
+Numele Lui domnește veșnic
+În Numele Lui ai biruință
+În Numele Lui primești credință,
+Ai speranță în Numele Lui,
+În Numele Domnului!
+Domnul e stânca cea tare
+El e un turn de scăpare
+El e Domnul puternic
+Numele Lui domnește veșnic
+Domnul e biruință
+Domnul îți dă credință
+Ai speranță-n Numele Lui
+În numele Domnului
+
+[c]
+/: Iehova Ire, Iehova Rafa
+El Olam Adonai
+Iehova Nissi, Iehova Shalom
+Elohim, El Sadai :/
+/: Iehova Ire, Iehova Rafa
+El Olam Adonai
+Iehova Nissi, Iehova Shalom
+Elohim, El Sadai :/
+/: Iehova Ire, Iehova Rafa
+El Olam Adonai
+Iehova Nissi, Iehova Shalom
+Elohim, El Sadai :/
+
+[v2]
+În Numele Lui găsești lumină
+În Numele Lui ai pace deplină
+În Numele Lui ai vindecare
+În Numele Lui primești iertare
+În Numele Lui pășești prin cuptor
+În Numele Lui ai ajutor
+Ai speranță în Numele Lui
+În Numele Domnului.
+Domnul este lumină
+Domnul e pace deplină
+Domnul îți dă vindecare
+În Numele Lui primești iertare
+Cu Domnul pășești prin cuptor
+Domnul îți e ajutor
+Ai speranță în Numele Lui
+În Numele Domnului!
+
+[e]
+/: Aleluia! Aleluia!
+Aleluia! Aleluia!
+Aleluia! Aleluia!
+Aleluia! :/

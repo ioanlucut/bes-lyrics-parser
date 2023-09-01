@@ -1,0 +1,24 @@
+[title]
+Vocea domnului {author: {Gabi_Ilut}, {rcId: {241255}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+/: Aud o voce în duhul meu vibrând:
+E vocea blândă a Duhului Tău Sfânt!
+Răspund chemării ei în viața mea;
+Îngenunchez smerit în fața Ta! :/
+
+[c]
+/: E vocea dulce a blândului Păstor;
+O recunosc și în taină o ador.
+E vocea Domnului iubit Isus!
+Încrezător pe drum mă las condus! :/
+/: Vocea Lui, vocea Lui, vocea Domnului! :/
+
+[v2]
+/: Resimt un dor în inimă vibrând:
+E dorul după Sfântul Tău Cuvânt!
+O voce îmi spune clar să îmi păstrez,
+Neîntinat în duh același crez! :/

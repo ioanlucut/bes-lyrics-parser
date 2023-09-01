@@ -1,0 +1,47 @@
+[title]
+Se canta o cantare {author: {Rebeca Buga}, {rcId: {246305}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Se cântă o cântare
+El mirele apare
+E vremea de schimbare
+Jertfind aicea jos
+Noi l-avem Hristos
+
+[c]
+/: Deci, să cântăm
+Cât viață avem
+Căci Domnul vine iară
+Încrede-te în El
+El astăzi te îndemână :/
+
+[v2]
+Se cântă o cântare
+Spune-i păcatul tău
+El Domnul azi te aude
+Iertare să primești
+Iertând tu izbutesti
+
+[v3]
+Se cântă o cântare
+Durerea El ți-o știe
+El vindeca și astăzi
+Se-ndură azi de tine
+De crezi în El creștine
+
+[v4]
+Se cântă o cântare
+Tot cerul cântă laude
+Și noi de aicea jos
+Ce l-avem pe Hristos
+Cântăm cu ei în cor
+
+[v5]
+Se cântă o cântare
+Mărit sa fi o Doamne
+Noi azi vom birui
+Nădăjduim în Tin’
+O Tată fi slăvit

@@ -1,0 +1,31 @@
+[title]
+Din copilarie {author: {Alexandru Groza}, {rcId: {193529}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Din copilărie, Doamne dă-mi Tu mie
+Dulcea Ta iubire în inima mea
+Să-Ți cunosc privirea, pacea și iubirea
+În a Ta prezență vreau să cresc mereu
+Biblia ne spune să fac fapte bune
+Pentru-aceasta Doamne, Tu să mă-ntărești
+Dă-mi a Ta credință să am biruință
+Să-Ți slujesc, Isuse, fiindcă te iubesc
+
+[c]
+M-ai creat pe mine să fiu bun ca Tine
+Te iubesc, Isuse, Dumnezeul meu!
+Cânt de bucurie, laudă să-Ți fie
+Mă încred în Tine, Dumnezeul meu!
+
+[v2]
+Din copilărie, Doamne dă-mi Tu mie
+Creștere frumoasă, să-Ți fiu credincios
+Tu, din cer veghează, fii mereu cu mine
+Să fac numai bine prietenilor mei
+Și când voi fi mare la toți le voi spune
+Ce mult ne ești Isuse, ce mult ne iubești
+Tu păzești copiii în orice-ncercare
+Ochiul Tău veghează, Tu ne ocrotești!

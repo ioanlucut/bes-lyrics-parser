@@ -1,0 +1,39 @@
+[title]
+Peste iarna din suflet cand vin intristari {author: {Ovidiu Berghian}, {rcId: {241178}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Peste iarna din suflet când vin întristări,
+Cu petală de cânt răsar primăveri
+Peste lacrimă-i zâmbet: Isus, Harul Tău!
+Peste noaptea tăcerii din însingurări,
+Cu-nstelarea iubirii mi-aprinzi mângâieri.
+Peste suflet nădejde: Isus, Harul Tău!
+
+[c]
+Harul Tău este raza ce frântă-n Calvar
+Trandafirul din vale o plânge cu-amar
+Harul Tău e izvorul de sânge curat
+Ce-mi spală ființa de orice păcat.
+Harul Tău e iubirea ce m-a cucerit
+Răstignită pe cruce când m-a mântuit
+Harul Tău e speranța ce-aprinde în zori
+Cu nădejdea-nvierii un cer de comori.
+
+[v2]
+Norii negri ai urii mi i-ai alungat
+Cu balsamu-ndurării m-ai înseninat
+În furtuna e pace: Isus, Harul Tău.
+Mi-ai adus dimineața c-un zâmbet divin
+Mi-ai schimbat Doamne viața din plâns în senin
+Curcubeu peste ape: Isus, Harul Tău.
+
+[v3]
+În grădina iertării m-așteaptă cu drag
+Doua mâini răstignite și-un Tată în prag
+Necuprins în iubire: Isus, Harul Tău.
+Te-oi lăuda pe vecie pe-un capăt de stea
+Dătător al vieții: Tu, dragostea mea
+Mă va duce-n mărire: Isus, Harul Tău.

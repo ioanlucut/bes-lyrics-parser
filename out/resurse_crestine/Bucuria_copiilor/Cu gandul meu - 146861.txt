@@ -1,0 +1,33 @@
+[title]
+Cu gandul meu {author: {Bucuria copiilor}, {rcId: {146861}}
+
+[sequence]
+v1,v2,c
+
+[v1]
+Cu gândul meu cu gândul meu
+Cu inima cu inima
+Cu sufletul cu sufletul
+Cu viața mea cu viața mea
+Cu gândul meu, cu viața mea,
+Cu sufletul și inima
+Îți mulțumesc pentru că viață Tu mi-ai dat!
+
+[v2]
+Din orice oră din orice oră
+Orice minut orice minut
+Mă angajez mă angajez
+Să te ascult să te ascult
+Cu orice minut din viața mea,
+Cu orice oră Doamne-aș vrea,
+Să-ți mulțumesc pentru că viață Tu mi-ai dat!
+
+[c]
+Ori și unde ori și unde
+Ori și când ori și când
+De mă rog de mă rog
+Sau de iți cânt sau de iți cânt
+Tu mă asculți Tu mă asculți
+Mă însoțești mă însoțești
+Și îmi arăți și îmi arăți
+Cât mă iubești! cât mă iubești!

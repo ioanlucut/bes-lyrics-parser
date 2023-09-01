@@ -1,0 +1,29 @@
+[title]
+Cor de ingeri canta {author: {Anonim}, {rcId: {1879}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cor de ingeri canta, lumii azi vestesc:
+,,
+Domnul mantuieste neamul omenesc!’’
+Ziua se iveste, noaptea-a disparut,
+Caci umil pe lume Pruncul s-a nascut.
+
+[c]
+Cor de ingeri canta:, ,
+Slava Celui sfant,
+Buna invoire, pace pe pamant!’’
+
+[v2]
+Cor de ingeri canta, azi se implinesc
+Ce in Cartea Sfanta scrise se gasesc;
+A venit pe lume Fiul Celui sfant
+Ca sa implineasca sfantul Sau Cuvant.
+
+[v3]
+Cor de ingeri canta: Domnul ne-a iubit;
+Astfel pentru oameni Fiul si-a jertfit
+Ca sa mantuiasca lumea de pacat
+Si sa fericeasca pe cel intristat.

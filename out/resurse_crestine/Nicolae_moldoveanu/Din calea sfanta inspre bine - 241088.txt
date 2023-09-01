@@ -1,0 +1,35 @@
+[title]
+Din calea sfanta inspre bine {author: {Nicolae Moldoveanu}, {rcId: {241088}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Din calea sfântă înspre bine
+Dă la o parte orice stăvilii,
+Să nu te-oprească-a lumii prăvilii,
+Fă drum iubirii către tine!
+Sfărâmă orice lanț ce-ți ține
+Viața ta încătușată,
+Și cu puterea ce ți-e dată,
+Fă drum iubirii către tine!
+
+[v2]
+Spre-mpărăția care vine
+Să-ți fie inima și dorul,
+Să tragi din ușa ta zăvorul,
+Fă drum iubirii către tine!
+Chiar de-ai plăti cu-adânci suspine,
+Coboară orice drepte dealuri,
+Ridică văi, fă punți pe maluri,
+Fă drum iubirii către tine!
+
+[v3]
+Nu-i alt balsam care s-aline,
+Mai pe deplin a ta rănire,
+De vrei s-ajungi la fericire,
+Fă drum iubirii către tine!
+Căci cine poate oare, cine,
+Cuprinde-ntreaga bogăție,
+Ce-ți este dăruită ție,
+Când faci iubirii drum spre tine?

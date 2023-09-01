@@ -1,0 +1,27 @@
+[title]
+Se aude iar vestea cea buna {author: {Nicolae Zamfir}, {rcId: {222873}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Se-aude iar vestea cea bună
+Se-aud din nou colindători
+La ușa ta iarăși răsună
+Vestea despre Salvator
+
+[c]
+Primește-L în inima Ta
+Domnul a venit
+Să ai parte de pacea sa
+Să fii mântuit
+Primește-L în inima Ta
+Domnul a venit
+Să ai parte de pacea sa
+Să fii mântuit
+
+[v2]
+De-atăta timp Isus așteaptă
+Să îi deschizi inima ta
+Și cu iubire te-ndeamnă
+Primeste-L, nu Îl refuza

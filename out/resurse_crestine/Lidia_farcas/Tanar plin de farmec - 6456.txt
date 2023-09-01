@@ -1,0 +1,29 @@
+[title]
+Tanar plin de farmec {author: {Lidia Farcaș}, {rcId: {6456}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Tânăr plin de farmec și viață,
+Tânără, a casei podoabă
+/: Te bucură în tinerețea ta,
+Mergi pe calea ce-o vrea inima ta :/
+
+[c]
+Prietenul meu, să-ți amintești,
+Isus dorește inima ta;
+Iluzie frântă-i viața ta,
+Fără Isus, fără Isus.
+
+[v2]
+Inima ta, o, tânăr plin de jar
+O locuintă e’n orice clipă
+/: Deci, straje pune inimi tale
+Căci este un leu ce răcnește :/
+
+[v3]
+De vrei tu sa fii fericit
+În Isus te’ncrede’n orice clipă
+/: Numai în Isus găsești bucurii
+Și planurile toate-ți izbutesc :/

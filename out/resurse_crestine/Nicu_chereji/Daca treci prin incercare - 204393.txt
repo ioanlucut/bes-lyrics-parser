@@ -1,0 +1,35 @@
+[title]
+Daca treci prin incercare {author: {Nicu Chereji}, {rcId: {204393}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Dacă treci prin încercare
+De Isus ești prelucrat,
+Prin cuptor de foc te trece
+Ca să fii aur curat
+
+[c]
+El îngăduie încercarea
+Peste viața mea și-a ta
+Și din focul încercării
+Tot Isus ne va scăpa
+
+[v2]
+Nu la întâmplare lacrimi
+De-ntristare curg pe obraz
+Dumnezeu îți dă din ceruri
+Biruință în necaz
+
+[v3]
+E mai bine-n încercare
+Decât în plăceri lumești
+Căci acolo în durere
+Cu Isus te-nprietenești
+
+[v4]
+Nu te lasă-n deznădejde
+Mai mult decât poți răbda
+Și cu mana Lui cea tare
+Izbăvire îți va da

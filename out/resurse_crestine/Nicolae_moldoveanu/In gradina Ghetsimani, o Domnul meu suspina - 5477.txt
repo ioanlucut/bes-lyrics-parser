@@ -1,0 +1,27 @@
+[title]
+In gradina ghetsimani o domnul meu suspina {author: {Nicolae Moldoveanu}, {rcId: {5477}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+In gradina Ghetsimani, o Domnul meu suspina
+C-a ramas, printre dusmani, o Sigur piept sa tina...
+
+[c]
+/: Plange si Se roaga-ntruna o Tatalui ceresc cu-amar:
+„
+Daca-i cu putinta, Tata, o Departeaza-acest pahar”. :/
+
+[v2]
+Lepadatu-s-au cu totii o De fiorul fricii...
+Doarme Petru, doarme Iacov, o Dorm toti ucenicii.
+
+[v3]
+Doar un inger I se-arata o Ca sa-L intareasca
+Si de chinul ce-L cuprinde o Sa Se izbaveasca.
+
+[v4]
+„
+Tata, faca-Ti-se voia o Ta, si nu a Mea!
+Departeaza, de se poate, o Jalea asta grea!”

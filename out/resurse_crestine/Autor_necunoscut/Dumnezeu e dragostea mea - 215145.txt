@@ -1,0 +1,35 @@
+[title]
+Dumnezeu e dragostea mea {author: {Anonim}, {rcId: {215145}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+/: Dumnezeu e dragostea mea :/
+Dumnezeu cel vesnic,
+Domnul vietii.
+Dumnezeu e dragostea mea.
+
+[v2]
+/: Dumnezeu e speranta mea :/
+Dumnezeu cel vesnic,
+Domnul vietii.
+Dumnezeu e speranta mea.
+
+[v3]
+/: Dumnezeu e lumina mea :/
+Dumnezeu cel vesnic,
+Domnul vietii.
+Dumnezeu e lumina mea.
+
+[v4]
+/: Dumnezeu e taria mea :/
+Dumnezeu cel vesnic,
+Domnul vietii.
+Dumnezeu e taria mea.
+
+[v5]
+/: Dumnezeu e-n inima mea :/
+Dumnezeu cel vesnic,
+Domnul vietii.
+Dumnezeu e-n inima mea.

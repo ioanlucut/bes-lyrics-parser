@@ -1,0 +1,29 @@
+[title]
+Sa-l primesti si tu {author: {Fratii Pal}, {rcId: {223321}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Veacul de pe urmă noi trăim
+Iar acum din nou sărbătorim
+Zi in care iarăși Mesia
+Poate să se nască-n viața ța.
+
+[c]
+Să-l primești și tu-n inima ta
+Pe deplin El pacea îți va da
+Harul sfânt de viață dătător
+Mesia salvarea tuturor.
+
+[v2]
+Zile multe au trecut de-atunci
+Trecând peste dealuri și prin lunci
+Răsunau cântări din cer de sus
+Aleluia s-a născut Isus.
+
+[v3]
+An de an la ușa Ta mereu
+Bate cu răsunet Dumnezeu
+Prin colindul sfânt și minunat
+Nu uita El iarăși te-a chemat.

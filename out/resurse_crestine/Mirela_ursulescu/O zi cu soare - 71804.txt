@@ -1,0 +1,41 @@
+[title]
+O zi cu soare {author: {Mirela Ursulescu}, {rcId: {71804}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+/: O zi cu soare, o zi cu nori
+O zi ai pace, o zi război
+Așa e viața ce-o trăim
+Până când Domnul va veni :/
+
+[c]
+E bine-atunci să-L ai pe Domnul
+El îți conduce viața ta
+/: Tu ai să vezi căci nu te lasă
+De grijă El îți va purta :/
+
+[v2]
+/: Căci Domnul este Dumnezeu
+Cunoaște pașii tăi mereu
+Viața El ți-a dat în dar
+Să o trăiești, dar nu-n zadar :/
+
+[c2]
+Tu doar să stai în ascultare
+Să speri, să lupți, să biruiești
+/: El îți dă din nou putere
+Ca tu să urci spre Slăvi cerești :/
+
+[v3]
+/: Viața ta e trecătoare
+Mult nu mai este pe cale
+Căci Isus va reveni
+Să-și adune-ai Lui copii :/
+
+[c3]
+Să-i ducă sus în veșnicie
+La masa Mirelui Iubit
+/: Și împreună pe vecie
+Să fim cu El în Paradis :/

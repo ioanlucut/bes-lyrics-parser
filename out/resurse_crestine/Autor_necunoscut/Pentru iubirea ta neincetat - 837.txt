@@ -1,0 +1,27 @@
+[title]
+Pentru iubirea ta neincetat {author: {Anonim}, {rcId: {837}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pentru iubirea Ta neîncetat
+Cânt Aleluia Domnului
+Și pentru jertfa ce m-a salvat
+Cânt Aleluia Domnului.
+
+[c]
+/: Cânt Aleluia, cânt Aleluia,
+Cânt Aleluia Domnului :/
+
+[v2]
+Pentru viața ce-n dar mi-a dat
+Cânt Aleluia Domnului,
+Și pentru sfântul Său har bogat,
+Cânt Aleluia Domnului.
+
+[v3]
+Pentru tot ce sunt azi, pentru Isus
+Cânt Aleluia Domnului,
+Și pentru slava ce va fi sus
+Cânt Aleluia Domnului.

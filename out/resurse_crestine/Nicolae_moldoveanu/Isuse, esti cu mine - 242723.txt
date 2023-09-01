@@ -1,0 +1,29 @@
+[title]
+Isuse esti cu mine {author: {Nicolae Moldoveanu}, {rcId: {242723}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Isuse, ești cu mine,
+Ești Adăpostul meu
+/: Și-n orișice furtună
+Mă Iiniștești mereu! :/
+
+[v2]
+Corăbioara vieții,
+Pe marea lumii az’
+/: De Tine-i ocrotită
+Să n-ajung sub talaz! :/
+
+[v3]
+Tu ești Atotputernic,
+Tu m-ai răscumpărat,
+/: Eu sunt al Tău de-a pururi
+Prin harul ce mi-ai dat! :/
+
+[v4]
+Îți mulțumesc, lsuse,
+Ți-aduc cu duh senin
+/: O jertfă de-nchinare
+Acum și-n veci, amin! :/

@@ -1,0 +1,32 @@
+[title]
+De cand m-am pocait {author: {Ovidiu Liteanu}, {rcId: {146444}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+De când m-am pocăit, sunt cel mai fericit
+Căci numele mi-e scris în ceruri.
+Spre cer călătoresc, la Domnul mă gândesc
+Și despre El la toți mărturisesc!
+
+[c]
+Domnul e Păstorul meu,
+Nu mă tem de nici un rău.
+La izvoare sunt condus,
+Minunat e-al meu ISUS!
+/: Fie ploaie, fie vânt,
+În furtună am un scut:
+Domnul e Păstorul meu! :/
+
+[v2]
+De când El m-a iertat, eu sunt cel mai bogat
+Comoara mea-i acolo-n ceruri,
+Mai am și încercări, necazuri și dureri,
+Ce mă conduc spre binecuvântări!
+
+[v3]
+Paharul meu e plin, cu pace și senin,
+Și îndurarea mă-nsoțește
+Și cât timp voi trăi, un mântuit voi fi
+În Casa Lui aici și-n veșnicii!

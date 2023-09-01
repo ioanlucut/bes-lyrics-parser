@@ -1,0 +1,31 @@
+[title]
+Doamne cine va locui? {author: {T.C.Adorian}, {rcId: {172392}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Doamne, cine va locui
+Cu Tine-n cortul Tău?
+Și cine se va ferici,
+Pe munte Domnul meu?
+
+[c]
+Acela care umblă in neprihănire
+Și face fapte bune în drepate umblând.
+În căile Domnului sfânt și fără cârtire;
+Acela este ca și un pom frumos sădit,
+Care întotdeauna e neveștejit.
+Chiar la curgerea apelor și-n tot timpul e rodit.
+
+[v2]
+O Doamne, cine va vedea
+A Ta față sfântă?
+Cine va sta la dreapta Ta,
+În țara cea sfântă?
+
+[v3]
+Doamne, cine-o trăi-n etern,
+Sus în fericire?
+Și cine-o moșteni-n Eden,
+Cântând slavă Ție?

@@ -1,0 +1,21 @@
+[title]
+Doamne noi cei mici {author: {Nicolae Moldoveanu}, {rcId: {225307}}
+
+[sequence]
+v1,v2
+
+[v1]
+Doamne, noi cei mici, cântăm,
+lauda Ta o înălțăm!
+Cântul nostru ne-ncetat
+/: Ție Ți-l jertfim curat :/
+Lăudat, fii lăudat,
+lăudat, fii lăudat!
+
+[v2]
+Doamne, noi cei miei, venim
+Numele să-Ți preamărim!
+Totdeauna pe pământ
+/: Te-nălțăm prin trai și cânt :/
+Mai cu-avânt, prin trai și cânt,
+Te-nălțăm, Părinte Sfânt!

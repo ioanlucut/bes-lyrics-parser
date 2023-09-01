@@ -1,0 +1,29 @@
+[title]
+Lauda fie domnului isus {author: {Anonim}, {rcId: {229604}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Laudă fie Domnului Isus
+Salvatorul nostru preaiubit
+El să fie pururi preamărit
+Acum și-n veci de veci.
+
+[c]
+Fie laudă, fie laudă,
+Lui Isus, al nostru Împărat,
+Laudă, fie laudă,
+Căci ne-a răscumpărat.
+
+[v2]
+Cu osana să ne-apropiem,
+Să-L mărim pe Domnul tot mereu
+El rămâne-al nostru Dumnezeu
+Acum și-n veci de veci.
+
+[v3]
+El păcat și moarte a învins,
+Și-n etern rămâne neschimbat
+Să-I cântăm cu sufletul curat,
+Acum și-n veci de veci.

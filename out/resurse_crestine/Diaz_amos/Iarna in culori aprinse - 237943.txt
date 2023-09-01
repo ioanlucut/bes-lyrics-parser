@@ -1,0 +1,23 @@
+[title]
+Iarna in culori aprinse {author: {Diaz Amos}, {rcId: {237943}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Iarnă în culori aprinse, drumurile sunt de sticlă,
+Oglidească-se în mine când mă întâmpină vreo frică;
+Iarnă cu podoaba ta oglindești ființa-mi blândă,
+Ceața se aprinde brusc cu privirea ei plăpândă!
+
+[c]
+Iarnă de cleștar, torța te încălzește,
+Pruncului ce-i Sfânt să Îi ții de cald la iesle;
+Îngerii pe cerul viu formează un cânt plăcut,
+Iarnă în culori aprinse ne întâmpini din trecut!
+
+[v2]
+Iarnă în argint tu ești; pe la streșinile casei
+În splendoare așa măiastră, țurțurii încep să iasă;
+Culori pe la fiecare căsuță în parte zăresc,
+Ce frumoasă ești tu iarnă mulțumesc celui Ceresc!

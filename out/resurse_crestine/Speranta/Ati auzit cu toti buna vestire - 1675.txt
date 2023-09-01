@@ -1,0 +1,35 @@
+[title]
+Ati auzit cu toti buna vestire {author: {Speranța}, {rcId: {1675}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ați auzit cu toți buna vestire
+Ce-au vestit-o îngerii cântând
+Căci Dumnezeu cel sfânt printr-o fecioară
+Va duce pe Mesia pe pământ
+/: El a venit pe lume pentru mine
+Acolo, într-un grajd El s-a născut
+La multe uși bătut-a să-l primească
+Dar loc la nimeni ei n-au mai găsit :/
+
+[c]
+Osana, Osana, Sus în ceruri și jos pe pământ
+Osana, Osana, cântați mărire Celui veșnic sfânt
+
+[v2]
+Azi noi cu toții știm că-i sărbătoare
+E ziua-n care S-a născut Isus
+La El veniră magii și păstorii
+Aur și smirnă, daruri I-au adus
+Veniți cu toții astăzi să-I dăm slavă
+Celui ce-i născut în Betleem
+El a venit să aducă mântuirea
+De-aceea eu la pace vă îndemn.
+
+[v3]
+El a venit pe lume pentru mine
+Acolo, într-un grajd El s-a născut
+La multe uși bătut-a să-l primească
+Dar loc la nimeni ei n-au mai găsit.

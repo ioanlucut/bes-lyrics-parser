@@ -1,0 +1,25 @@
+[title]
+Legamant {author: {Carmen Prodan}, {rcId: {152897}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Astăzi vin la Tine Doamne, mă întorc din drumul meu,
+Las în urmă lumea mare, vreau să fiu copilul Tău!
+
+[c]
+Vreau să fiu al Tău, Doamne, și de azi să Te urmez!
+O, ajută-mă, Doamne, legământul să-l păstrez!
+
+[v2]
+Îmbrăcat în haine albe, stau acum în fața Ta
+Și aștept în umilință binecuvântarea Ta!
+
+[v3]
+Doamne, vin să-Ți cer iertare că-am trăit nepăsător
+Dar de astăzi vreau o, Tată, să Îți fiu folositor!
+
+[v4]
+Sufletu-mi Îți cântă-ntruna, sunt atât de fericit!
+Vreau să-Ți mulțumesc, Isuse, pentru că m-ai mântuit!

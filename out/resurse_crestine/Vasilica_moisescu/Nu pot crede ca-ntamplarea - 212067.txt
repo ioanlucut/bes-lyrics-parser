@@ -1,0 +1,35 @@
+[title]
+Nu pot crede ca-ntamplarea {author: {Vasilică Moisescu}, {rcId: {212067}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Nu pot crede că-ntâmplarea
+M-a făcut să fiu cu-ai mei,
+/: Cum dar, s-ar putea uitarea
+Să mă rupă de la ei? :/
+
+[c]
+O Isuse, chiar și-n ceruri
+Vreau să fiu cu frații mei,
+/: Căci un gol de întristare
+Aș simți de n-ar fi ei :/
+
+[v2]
+Legătura de iubire,
+Dându-mi drept la toți cei dragi,
+/: Vreau să-i scapi de la pieire
+Și la Tine să-i atragi. :/
+
+[v3]
+Semăn printre ei Cuvântul,
+Pentru ei mă rog și plâng,
+/: Să-ți cunoască legământul,
+Lângă Crucea Ta să-i strâng. :/
+
+[v4]
+Fiind una prin iubire,
+Doamne, eu răman cu-ai mei,
+/: În necaz sau fericire
+Vreau să fiu pe veci cu ei. :/

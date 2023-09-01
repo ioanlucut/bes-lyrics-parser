@@ -1,0 +1,28 @@
+[title]
+Oridecate ori de ma tem {author: {Pavel Mariana, Florica}, {rcId: {6546}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Oridecâte ori mă tem
+Eu mă-ncred în Tine
+Când sunt singur, eu Te chem
+Să fii lângă mine.
+
+[c]
+/: Numai tu-mi poți da
+Pace-n clipa grea
+Și nădejde, când mi-e tristă inima. :/
+
+[v2]
+Nimănui nu pot să-I spun
+Greul ce m-apăsă,
+Tu ești Singurul meu bun,
+Raza-mi luminoasă.
+
+[v3]
+Calea mea de trist pribeag
+Măsurată-I toată.
+Chiar de-mi curg lacrimi șirag,
+Voi cânta odată.

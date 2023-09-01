@@ -1,0 +1,23 @@
+[title]
+M-a ales domnul {author: {Alexandru Groza}, {rcId: {193471}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+M-a ales Domnul, El mă iubește
+De copil Îi cunosc glasul Lui
+Îmi răspunde la-a mea rugăciune
+Mă-ntărește prin Duhul Lui sfânt
+
+[c]
+Ce bun este Domnul cu mine
+Lumină îmi dă zi de zi
+În brațul lui Sfânt El mă ține
+De-aceea-i cânt fericit!
+
+[v2]
+În Domnul am viața și ființa
+În Domnul am tot ce-mi doresc
+Inima mi se înveselește
+Căci așa de mult eu îl iubesc!

@@ -1,0 +1,35 @@
+[title]
+Ce putere mare {author: {Geta Lazăr}, {rcId: {59992}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ce putere mare are o cantare!
+Ea deschide portile de fier,
+Domnul mantuieste si îl izbaveste
+De la moarte si pe-un temnicer.
+
+[c]
+Dumnezeu aude si din Cer raspunde,
+El ne scapa cand Il vom chema,
+Ruga si cantarea sa strabata zarea,
+Orisiunde noi ne vom afla.
+
+[v2]
+Apostolii în durere si în chinuri grele,
+Caci picioarele li s-au umflat,
+Au uitat de toate, in aceea noapte,
+Ei pe Dumnezeu L-au laudat.
+
+[v3]
+Numai prin credinta si prin pocainta,
+Pavel le raspunde minunat:
+Vine mantuirea, vine izbăvirea
+Pentru aceia care-au intrebat.
+
+[v4]
+Pavel îi boteaza si se-ntemeiază
+Adunarea de la Filipeni.
+Ce minune mare, prin a lor cantare,
+S-au nascut fratii macedoneeni!

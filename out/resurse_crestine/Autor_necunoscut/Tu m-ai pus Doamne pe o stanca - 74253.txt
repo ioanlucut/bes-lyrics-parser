@@ -1,0 +1,23 @@
+[title]
+Tu m-ai pus doamne pe o stanca {author: {Anonim}, {rcId: {74253}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+/: Tu m-ai pus Doamne pe o stâncă
+Și-n gura mea o cântare ai pus.
+Nu mă voi clătina de-acolo
+Căci stânca-aceea e Isus! :/
+
+[v1]
+Ferice de omul ce se-ncrede,
+În Domnul care-i Dumnezeu
+Și nu se duce pe căi rele
+Ci-și află pacea-n cuvântul Său.
+
+[v2]
+Ce mari sunt lucrările Tale,
+Nimeni nu Te poate egala
+Aș vrea să spun la toată lumea
+Și să mă laud cu dragostea Ta.

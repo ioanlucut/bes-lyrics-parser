@@ -1,0 +1,46 @@
+[title]
+Frumos e cimpul inverzit {author: {Anonim}, {rcId: {7031}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Frumos e campul inverzit,
+Cu mii de flori impodabit
+De Domnul sunt create!
+Nespus de mult ne bucuram
+
+[c]
+Pe Tatal Sfant il laudam
+/: Caci pentru noi sunt toate
+ /:
+
+[v2]
+Aici copaci incoronati
+Cu mii de frunze imbracati
+Spre bucuria noastra
+Vezi colo crini si trandafiri
+
+[c2]
+Cum raspandesc la straluciri
+/: Pe om sa-nveseleasca :/
+
+[v3]
+Graul ce creste maiestos
+De vant e leganat frumos
+In valuri ca de aur
+Cei credinciosi se-nveselesc
+
+[c3]
+Pe Dumnezeu il preamaresc
+/: Le-a dat asa tezaur :/
+
+[v4]
+Nu pot sa stau nepasator
+Sa nu-L slavesc pe Creator
+Si marea-I indurare
+Caci toate cate Le-a facut
+
+[c4]
+Marturisesc neintrerupt
+/: Puterea-I creatoare :/

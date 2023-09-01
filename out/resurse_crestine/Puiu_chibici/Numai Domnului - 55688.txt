@@ -1,0 +1,47 @@
+[title]
+Numai domnului {author: {Puiu Chibici}, {rcId: {55688}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Numai Domnului
+Poți să-ți lași povara ta,
+Doar Lui poți să-I spui
+Greul tău și durerea.
+
+[c]
+Poți să-I spui al tău necaz
+Când ai lacrimi pe obraz,
+Domnul te ascultă
+Când ești slab, când ești lovit,
+Când ești trist și necăjit,
+Spune-I Lui, El nu te uită.
+
+[v2]
+Numai lui Isus
+Spune-i suferința ta,
+Când la oameni nu-s
+Leacuri spre a te vindeca.
+
+[v3]
+Vin’ la El cu boala ta,
+Du-o sus la Golgota,
+Roagă-te fierbinte,
+Mergi la cruce zi de zi,
+Spune-I focul inimii,
+El, din ceruri ia aminte.
+
+[v4]
+Spune-i Domnului
+Când ești singur, părăsit,
+Și de frații tăi
+Ești mereu batjocorit.
+
+[v5]
+Când suspini în ceas târziu,
+Spune-I Celui Veșnic viu,
+Spune-I, spune-I, frate,
+Spune-I totul Domnului,
+Lasă-ți soarta-n mâna Lui,
+El e Cel ce totul poate.

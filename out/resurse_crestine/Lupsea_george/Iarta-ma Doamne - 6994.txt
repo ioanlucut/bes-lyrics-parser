@@ -1,0 +1,41 @@
+[title]
+Iarta-ma doamne {author: {Lupșea George}, {rcId: {6994}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+De Ți-am greșit pe drumul meu,
+O iartă-mă!
+De n-am umblat pe placul Tău,
+O iartă-mă!
+De-am rătăcit pe alte căi,
+O iartă-mă!
+Neascultând de-nvățăcei!
+O iartă-mă
+
+[c]
+/: Iartă-mă Doamne că sunt fiul Tău
+Spalămă Doamne în sângele Tău
+Viața mea Toată este-n mâna Ta
+Revarsă în mine, din dragostea TA, :/
+
+[v2]
+De nu am fost cum ai vrut Tu, 
+O iartă-mă!
+Păcatului, de n-am spus: Nu,
+O iartă-mă!
+De nu am fost eu veghiator
+O iartă-mă!
+De n-am lucrat pe-al Tău ogor
+O iartă-mă!
+
+[v3]
+Mă-ntorc acum la tin Isus,
+O Iartă-mă
+Căci vreau să fiu cu Tine sus
+Primește-mă!
+Primește-mă că sunt al Tău
+Isus iubit
+Să fiu odată-n raiul Tău
+Nedespărțit.

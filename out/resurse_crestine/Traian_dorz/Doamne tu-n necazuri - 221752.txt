@@ -1,0 +1,35 @@
+[title]
+Doamne tu-n necazuri {author: {Traian Dorz}, {rcId: {221752}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Doamne, Tu-n necazuri lângă noi rămâi,
+Chinurile noastre Tu le-nduri întâi.
+Ele mai ’nainte trec prin mâna Ta
+Și ne-ngădui numai cât putem răbda
+
+[c]
+Nu te teme, crede ne-ncetat,
+Prin Isus ești binecuvântat,
+/: Fie cât de mare crucea care-o sui,
+Mergi cu fiecare pas pe urma Lui! :/
+
+[v2]
+Lacrimile noastre numărate sunt,
+Tu măsori povara duhului înfrânt,
+Tu porți Mâna care taie rana grea
+Și ne-ngădui numai cât putem purta
+
+[v3]
+Chinurile noastre Tu le-ai mărginit,
+Mărginit, de jalea celui asuprit,
+Mărginit e răul de puterea Ta,
+Și ne-ngădui numai cât putem răbda
+
+[v4]
+Doamne Tu-n necazuri fii cu toți ai Tăi,
+Să nu meargă singuri pe-a durerii văi
+Cântărește crucea Tu cu mâna Ta,
+Să ne-ngădui numai cât putem răbda

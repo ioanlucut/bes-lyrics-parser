@@ -1,0 +1,29 @@
+[title]
+Evanghelia schimba inima {author: {Ovidiu Liteanu}, {rcId: {55592}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Iata se vesteste ca niciodata,
+Evanghelia in lumea toata,
+/: Iar cine o crede si o implineste,
+Se boteaza in apa si spre cer porneste :/
+
+[c]
+/: Evanghelia schimba inima,
+Va schimba si viata ta,
+Evanghelia viata mea schimbat,
+Vesnicia in dar mi-a dat :/
+
+[v2]
+Evanghelia ea ne arata,
+Care este calea cea adevarata,
+/: Si ea te convinge ca tu ai pacate,
+Si iti da credinta ca sa scapi de moarte :/
+
+[v3]
+Evanghelia ea iti da lumina,
+Ca sa-ncepi o viata noua si senina,
+/: Ca sa lasi pacatul Biblia te-nvata,
+Ca sa iesi din noapte inspre dimineata :/

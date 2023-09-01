@@ -1,0 +1,30 @@
+[title]
+Desteapta-te romane - imnul national al romaniei {author: {Andrei Mureșanu}, {rcId: {4884}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Deșteaptă-te, române, din somnul cel de moarte,
+În care te-adânciră barbarii de tirani!
+Acum ori niciodată croiește-ți altă soartă,
+La care să se-nchine și cruzii tăi dușmani!
+
+[v2]
+Acum ori niciodată să dăm dovezi la lume
+Că-n aste mâni mai curge un sânge de roman,
+Și că-n a noastre piepturi păstrăm cu fală-un nume
+Triumfător în lupte, un nume de Traian!
+
+[v3]
+Priviți, mărețe umbre, Mihai, Ștefan, Corvine,
+Româna națiune, ai voștri strănepoți,
+Cu brațele armate, cu focul vostru-n vine,
+”
+Viață-n libertate ori moarte!” strigă toți.
+
+[v4]
+Preoți, cu crucea-n frunte! căci oastea e creștină,
+Deviza-i libertate și scopul ei preasfânt,
+Murim mai bine-n luptă, cu glorie deplină,
+Decât să fim sclavi iarăși în vechiul nost’ pământ!

@@ -1,0 +1,29 @@
+[title]
+Tu legi ranile ce dor {author: {Nicolae Zamfir}, {rcId: {209699}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mulți bolnavi Doamne te strigă
+Și te cheamă neîncetat
+Mângăierea Ta să vină
+Peste cei ce sunt incercati
+
+[c]
+Tu Legi rănile ce dor
+Pui balsam vindecator
+Vindecă-mi si rana mea
+Cu sfântă puterea Ta
+
+[v2]
+Nu înceta sa chemi pe Domnul
+El ascultă ruga ta
+Când vi smerit în rugăciune
+El te poate ajuta
+
+[v3]
+Spune Doamne un cuvânt
+Un cuvânt și pentru mine
+Vreau să aud vocea Ta
+Care să mă facă bine

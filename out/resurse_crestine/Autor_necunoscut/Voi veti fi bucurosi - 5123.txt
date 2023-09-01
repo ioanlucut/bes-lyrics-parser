@@ -1,0 +1,30 @@
+[title]
+Voi veti fi bucurosi {author: {Anonim}, {rcId: {5123}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Voi veți fi bucuroși,
+De pace însoțiți.
+Chiar munții
+Răsuna-vor
+’
+Naintea voastră,
+Când voi veți cânta,
+Chiar pomii aflați pe drum
+Din palme vor bătea.
+
+[c]
+/: Și-atuncea
+Pomii din palme vor bătea
+Când vă veți bucura. :/
+
+[v2]
+Deschideți inima,
+Cântați-I laudă
+Și preamăriți cu toții
+Pe Domnul slavei!
+Când voi veți cânta,
+Chiar pomii aflați pe drum
+Din palme vor bătea.

@@ -1,0 +1,23 @@
+[title]
+Minunat esti tu isuse {author: {Anonim}, {rcId: {172765}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Mâna Ta, Isuse
+Mă ajută în orice zi
+Mă sprijini orice clipă
+Mângâindu-mă mereu
+
+[c]
+Minunat esti Tu, Isuse
+Minunat căci m-ai salvat
+Minunat în orice vreme
+Minunat
+
+[v2]
+Speranta mea e-n Tine
+La greu si la necaz
+In Tine am siguranță
+Căci stiu că Tu ma poti salva.

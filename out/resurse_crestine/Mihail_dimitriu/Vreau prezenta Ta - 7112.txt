@@ -1,0 +1,35 @@
+[title]
+Vreau prezenta ta {author: {Mihail Dimitriu}, {rcId: {7112}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Eu vin la Tine Sfinte Tată,
+Și nu voiesc nimic să-Ți cer;
+Vreau doar prezența Ta curată,
+S-o simt în trupul efemer.
+
+[c]
+Vreau prezența Ta,
+Alte lucruri nu Îți cer.
+Astfel voi fi întărit,
+Nu voi fi stingher.
+
+[v2]
+Îndură-Te, Doamne, de mine!
+Căci sunt pribeag și părăsit!
+Privirile le simt străine,
+Și de puteri eu sunt sleit.
+
+[v3]
+Colindător sunt pe planetă,
+Colindător spre Țara mea.
+Și viața-mi este incompletă,
+Când eu nu simt prezența Ta.
+
+[v4]
+Nu vreau să mă mai uit în urmă,
+Ci doar spre Tine să privesc.
+Când firul vieții mi se curmă
+Pe Tine eu Te regăsesc.

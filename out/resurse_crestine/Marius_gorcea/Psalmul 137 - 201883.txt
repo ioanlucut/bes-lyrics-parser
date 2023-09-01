@@ -1,0 +1,48 @@
+[title]
+Psalmul {author: {Marius Gorcea}, {rcId: {201883}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Pe malurile răurilor, ce curgea în Babilon
+Sfăteau în vremea veche, evrei dus ca robi
+Plângea când gându lor se îndreaptă câtre Sion
+Locasu-n care odată înălțau spre cer cântări
+Sălcile bătrâne ce spre apă se apleca
+Iși puse alor Harfe în timp ce se odihnea
+Biruitorilor cereau, ca Sfintele cântări
+Să fie iar cântate și acolo în țara lor.
+
+[c]
+Ierusalime, Ierusalime ah mie dor, mie dor de Tine
+Ierusalime, Ierusalime cănd voi intra din nou în Tine.
+
+[v2]
+Să cântăm cântările Domnului Dumnezeu
+Pe un pâmănt în care cu toți străin suntem
+Cum să cântăm cântările, acelui care ne-a creat
+Pe un pământ în care, Domnul e uitat
+Ierusalime dreapta mea, să-și uite slujba ei
+Să se lipească limba mea pe cerul gurii ei
+De nu voi aminti de Tine și de Sfintul legămint
+Nu-i nici un loc ca în Tine pe acest pământ.
+
+[v3]
+Pe malurile răurilor, care curg prin Babilon
+Adesea aste-n lume suntem priviți ca robi
+Din robia neagră Domnul Isus ne-a scăpat
+Și spre cetatea Sfîntă, noi mergem neîncetat
+Lăsând în urma noastră, cântările de jale
+Privind cu ochi țintă, spre mare sărbătoare
+Când vom intra atunci pe porți, în cetatea Sfîntă
+Acolo unde-n veci de veci, Lui Dumnezeu se cântă.
+
+[c2]
+Ierusalime oraș dorit, unde Domnul e slăvit
+Ierusalime noi vom cânta în cor
+Cântarea minunată pentru Regele Regilor
+/: Iți multumim că ne-ai salvat și haine albe Tu ne-ai dat
+Să stăm meteu în fața Ta, Isuse
+Sărbătoare-n veci va fii, căci Tu vesnic vei domnii
+Prezența Ta ne va unii, Isuse :/

@@ -1,0 +1,33 @@
+[title]
+Aproape sunt de cel cazut cu inima ranita {author: {Anonim}, {rcId: {60804}}
+
+[sequence]
+v1,c,v2,c2,v3,c2
+
+[v1]
+Aproape sunt de cel căzut, cu inima rănită,
+Aproape sunt să-nviorez o inimă mâhnită,
+Aproape sunt în ceasul greu să-ți dau alinare,
+Sunt gata rana să o leg, să aibă vindecare.
+
+[c]
+/: Eu sunt Acela, am biruit păcatul,
+Crucificat, am răbdat,
+Să te scap din moarte :/
+
+[v2]
+Aproape sunt să te scap, încrede-te în Mine!
+Nicidecum n-am să te las, voi fi mereu cu tine!
+Privește cerul cel înalt, ce nepătruns ne pare,
+Dar totuși îndurarea Ta e mult cu mult mai mare!
+
+[c2]
+/: Tu ne-ai scăpat, nu ne-ai lăsat,
+Ai fost cu noi, chiar și-n nevoi,
+Ești plin de îndurare! :/
+
+[v3]
+De ce te temi și te-nspăimânți, în clipa de-ncercare?
+Ți-am spus că nu te voi lăsa să mergi singur pe cale.
+Tu luptă-te să ai mereu privirea ridicată,
+În ceasul când va fi mai greu a Mea putere se-arată!

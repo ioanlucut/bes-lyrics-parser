@@ -1,0 +1,21 @@
+[title]
+Hai {author: {Adi Gliga}, {rcId: {113051}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Isus te așteaptă, pentru El te vrea
+Ascultă-I chemarea, nu mai amâna
+El e fericirea, El e dragostea
+Lasă-L să te-atingă cu iubirea Sa.
+
+[c]
+Hai, hai, vino la Isus,
+El te vrea, deschide-ți inima!
+
+[v2]
+Isus pentru tine, slava a părăsit
+La Calvar, pe cruce, a fost răstignit
+Lasă să te umple pacea-I pe deplin
+Să-ți pătrundă-n suflet, harul Său divin.

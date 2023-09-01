@@ -1,0 +1,23 @@
+[title]
+Taria mea esti doamne {author: {Beni Moldovan}, {rcId: {60554}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Tăria mea ești Doamne izbăvitorul meu
+Frică nu voi duce când trec prin tot ce-i greu!
+Chiar dacă trec prin valuri din oceanu-l turburat,
+Cu Tine nu mă tem Isuse, nu voi fi înspăimântat!
+
+[c]
+/: Lăudat să fii tu Doamne,
+Slăvit să fie numele Tău
+Tu meriți cinstea și onoarea
+Te-onorăm, Te adorăm.
+
+[v2]
+De moarte nu mă tem Isuse, Tu mă vei scăpa
+Chiar dacă furtuna amenință toată istoria,
+În Tine mă încred Stăpâne, Tată, Domnul Meu.
+În Tine mă încred Isuse, Tu ești scutul meu.

@@ -1,0 +1,41 @@
+[title]
+Sa stiu sa tac cand iuda-ntreaba {author: {Nicolae Moldoveanu}, {rcId: {5921}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Să știu să tac, când Iuda-ntreabă
+De Tine și de Ghetsimani!
+/: Să nu Te vând pe-o sărutare,
+Să nu spun taina la dușmani! :/
+Să știu să spun, când orbii-ntreabă
+De Tine, pe ce drum cobori,
+/: Ca toți să-Ți iasă înainte
+Și să se-ntoarcă văzători!... :/
+
+[c]
+/: Ajută-mă să știu
+Cum Tu dorești să fiu:
+Când să vorbesc și când să tac,
+Ca voia Ta s-o fac. :/
+
+[v2]
+Să pot să uit ce dau la alții,
+Să nu mai cer ’napoi ce-am dat,
+/: Căci tot ce nu-mi plătește nimeni,
+Plăti-mi-vei Tu, îndestulat! :/
+Să pot să țin în minte numai
+Ce-s eu dator a da oricui,
+/: Spre-a nu rămâne niciodată
+Dator nimic, nimănui! :/
+
+[v3]
+Să știu să iert oricare vină
+A semenilor mei mereu,
+/: Ca și-ale mele, să le poată
+Ierta, pe toate, Dumnezeu! :/
+Dar vreau să știu să nu-mi iert mie,
+Nici într-un mic păcat să cad,
+/: Ca nu cumva, chiar pentru-acela,
+Să meargă cineva în iad!... :/

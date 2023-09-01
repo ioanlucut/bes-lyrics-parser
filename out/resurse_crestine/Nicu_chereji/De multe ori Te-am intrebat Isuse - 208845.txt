@@ -1,0 +1,29 @@
+[title]
+De multe ori te-am intrebat isuse {author: {Nicu Chereji}, {rcId: {208845}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+De multe ori Te-am întrebat Isuse
+De ce atâtea valuri mă lovesc
+/: Tu mi-ai promis ca-mi vei fi ajutorul,
+Deși adeseori nu înțeleg :/
+
+[c]
+M-ai ridicat Isuse din tărână
+Și m-ai făcut un scump mărgăritar
+Cu bunătate m-ai luat de mână
+Și m-ai trecut pe-al dragostei hotar
+
+[v2]
+Nu pot vedea fără a ta lumină
+Nu pot mișca măcar un mădular
+/: Căci fără Tine-s doar un pumn de tină
+Trăind viața aceasta în zadar :/
+
+[v3]
+Dar Tu ești Cel ce dai valoare sfântă
+Și-nsemnătate celor ne însemnați
+/: Când poruncești chiar valurile-ți cântă
+Isuse dulce veșnic Împărat :/

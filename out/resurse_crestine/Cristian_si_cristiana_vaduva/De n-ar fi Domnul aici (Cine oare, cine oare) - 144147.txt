@@ -1,0 +1,30 @@
+[title]
+De n-ar fi domnul aici (cine oare cine oare) {author: {Cristian și Cristiana Văduva}, {rcId: {144147}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+De n-ar fi Domnul aici n-ai putea să te ridici
+Chiar de ești în casa ta
+Să privești cu ochii tăi peste munți și peste văi
+Cât de mare-i Dumnezeu.
+
+[c]
+/: Cine oare, cine oare
+Pune totul în mișcare
+Dă vântul și ploile
+Marea și izvoarele
+Și conduce stelele. :/
+
+[v2]
+Ce te-ai face fără El de n-ar fi Emanuel
+Cu ochii cum ai vedea
+N-ar fi Pământ, n-ar fi mare, n-ar fi noapte, n-ar fi Soare
+Cât e Dumnezeu de mare.
+
+[v3]
+Laudă-l necontenit căci e timpul pe sfârșit
+Nu mai sta nepăsător
+Semne-n cer se împlinesc și-nteleptii se grăbesc
+Pe Dumnezeu preamăresc.

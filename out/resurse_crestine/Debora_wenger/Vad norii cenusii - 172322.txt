@@ -1,0 +1,29 @@
+[title]
+Vad norii cenusii {author: {Debora Wenger}, {rcId: {172322}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Văd norii cenușii cum se adună-n depărtări,
+Că armate grele se arată-n larg de zări
+Vin purtați de vânt, ziua-ntunecând
+Soarele se ascunde printre nori.
+
+[c]
+/: Da sus, sus pe boltă
+Mai presus de norii plumburii,
+Aud o trompetă
+Sună Arhanghelul chemarea-n veșnicii. :/
+
+[v2]
+Chin, dureri și lacrimi toate jos aici le las,
+Iată c-a venit plecarea mea, dulcele ceas
+N-oi mai suferi, fericit v-oi fi,
+Iată că ajung în cer acas´
+
+[v3]
+Pot să se adune nori mai grei, mai cenușii,
+Pot să vină și mai mulți și bezna de ar veni
+Eu acum în zbor trec de greii nori,
+Tot ce e sub ei nu voi mai ști.

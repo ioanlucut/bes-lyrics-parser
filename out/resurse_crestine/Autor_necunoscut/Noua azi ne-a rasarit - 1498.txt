@@ -1,0 +1,29 @@
+[title]
+Noua azi ne-a rasarit {author: {Anonim}, {rcId: {1498}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Nouă azi ne-a răsărit
+Domnul Isus Cristos.
+Mesia Cel mult dorit
+Domnul Isus Cristos.
+
+[v2]
+Din fecioară S-a născut
+Domnul Isus Cristos
+Ca un prunc a fost crescut
+Domnul Isus Cristos.
+
+[v3]
+Cu scutece S-a înfășat
+Domnul Isus Cristos
+Și în brațe-a fost purtat
+Domnul Isus Cristos.
+
+[v4]
+Cum e robul S-a smerit
+Domnul Isus Cristos
+Și pe noi ne-a mântuit
+Domnul Isus Cristos.

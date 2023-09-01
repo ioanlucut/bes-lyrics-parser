@@ -1,0 +1,26 @@
+[title]
+Spre vesnicii {author: {Adi Gliga}, {rcId: {172774}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Tu mă-ntărești și mă iubești
+În Tine cred, în Tine cred!
+O, Doamne bun pe al meu drum
+Tu mă-nsoțești și nu mă tem.
+
+[c]
+/: Cu mine Doamne stai
+Și bucurie-mi dai,
+Cu Tine merg spre veșnicii. :/
+
+[v2]
+Tu mă înveți, mă ocrotești
+Te port în gând, singur nu sunt.
+Tu ai murit, să pot trăi
+Și Te iubesc Isus, Isus.
+
+[e]
+Isuse bun, pe al meu drum
+Mă însoțești și nu mă tem.

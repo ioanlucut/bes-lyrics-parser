@@ -1,0 +1,40 @@
+[title]
+Mai e putin din noapte {author: {Anonim}, {rcId: {153696}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Mai e puțin din noapte și zorile se-arată,
+Luceafărul răsare cu raze argintii.
+Fecioară te trezește, de nuntă te gătește,
+Căci Domnul nostru Isus, cu slavă va veni.
+
+[c]
+/: Au răsărit zorile, :/ x3
+/: În curând noi vom cânta,
+Aleluia, osana și cu Domnul vom pleca. :/
+
+[v2]
+Privește Cloșca, puii, și Carul mic și Mare,
+Luceafărul de seară, cu toate s-au ascuns.
+Mai e puțin și zorii curând o să răsară,
+Luceafărul iubirii, al nostru Domn Isus.
+
+[v3]
+Mulțimile de stele în marea galaxie,
+Și-au stins a lor lumină, s-au stins în depărtări.
+Și în curând apare, și-L așteptăm să vină,
+Luceafărul vieții, Luceafărul din zări.
+
+[v4]
+Biserică aleasă, a Lui Isus mireasă,
+Trezește-te din noaptea prin care ai trecut.
+Căci au trecut și norii, curând se-arată zorii,
+Când o să se arate Luceafărul Isus.
+
+[v5]
+Voi frați din Romania, loviți de încercare,
+De lipsuri și necazuri ce-s foarte greu de dus;
+Dar toate-acestea strigă: Trezire! Deșteptare!
+Să nu rămână nimeni când va veni Isus.

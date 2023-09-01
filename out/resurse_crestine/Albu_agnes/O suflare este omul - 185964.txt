@@ -1,0 +1,35 @@
+[title]
+O suflare este omul {author: {Albu Agnes}, {rcId: {185964}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+O suflare este omul
+Un ecou pe-acest pământ
+Astăzi își croiește drumul
+Mâine e doar frunză-n vânt
+O poveste este viața
+Darul sfânt din Cer de sus
+Unul singur e povața,
+Unul singur e Isus
+
+[c]
+/: Alegerea este a ta
+De urci pe culme sau cobori
+Răsplata te va aștepta
+În infern sau în splendori
+Un drum de răni pecetluit
+O sfială și-un oftat
+Astăzi ești de toți iubit
+Mâine de toți condamnat :/
+
+[v2]
+Viața este trecătoare
+Un ecou pe-acest pământ
+Doar acela stă-n picioare,
+Care-nvinge, care-i sfânt
+Deci, slujește-I azi, nu mâine
+Până încă mai ai grai
+Ce faci pentru El rămâne
+Luptă-te s-ajungi în Rai

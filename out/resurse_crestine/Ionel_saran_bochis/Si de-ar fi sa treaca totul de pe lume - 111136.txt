@@ -1,0 +1,41 @@
+[title]
+Si de-ar fi sa treaca totul de pe lume {author: {Ionel Saran Bochis}, {rcId: {111136}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Inima-mi plinge de bucurie
+Mereu Isuse Tu esti cu mine
+Nimic nu poate-n aceasta lume
+De Tine Doamne sa ma desparta
+
+[c]
+Si de-ar fi sa treaca totul de pe lume
+Cu Tine Isuse in veci voi ramane
+Si chiar moartea de ar vrea sa ma desparta
+Cu Tine voi merge dincolo de moarte
+
+[v2]
+Oricite valuri de ar venii
+Si-n bezna noptii as ratacii
+Cind Domnul este nadejdea mea
+Eu niciodata nu voi ceda
+
+[c2]
+Si de-ar fi sa treaca totul de pe lume
+Cu Tine Isuse in veci voi ramane
+Si chiar moartea de ar vrea sa ma desparta
+Cu Tine voi merge dincolo de moarte
+
+[v3]
+Mi-e dor Isuse mi-e dor de Tine
+Sa-ti cint intruna o vesnicie
+Pin la sfirsit sa-ti pot eu spune
+Nimic de Tine nu ma desparte
+
+[c3]
+Si de-ar fi sa treaca totul de pe lume
+Cu Tine Isuse in veci voi ramane
+Si chiar moartea de ar vrea sa ma desparta
+Cu Tine voi merge dincolo de moarte

@@ -1,0 +1,33 @@
+[title]
+Cu lacrimi painea mi-o framant {author: {Nicolae Moldoveanu}, {rcId: {5804}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Cu lacrimi painea mi-o framant
+Cand se destrama tot ce-i sfant;
+Si plang de dorul Tau,
+Te caut bajbaind pe drum:
+O, nu Te departa acum
+Cand mi-este asa de greu!
+
+[c]
+Pazeste-ma, cand bat furtuni!
+Primeste-ma, la pieptul Tau,
+In lumea veacului de-acum,
+Ca-i noapte-n jurul meu.
+Carari atatea se zaresc...
+Lumini atatea licaresc...
+O, care-i farul Tau?
+Ca semnele ce Tu le-ai spus,
+Le caut plangand si vad ca nu-s...
+O, care-i drumul Tau?
+
+[v2]
+Chiar de-s batuta de strajeri,
+Izgonita de pazitori,
+Te caut, iubitul meu!
+Te-am intalnit, pe culmi de dor,
+Si nu mai vreau ca sa cobor,
+Caci Tu esti ajutor.

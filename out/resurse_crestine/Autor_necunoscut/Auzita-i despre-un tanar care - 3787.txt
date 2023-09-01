@@ -1,0 +1,53 @@
+[title]
+Auzita-i despre-un tanar care {author: {Anonim}, {rcId: {3787}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Auzita-i despre-un tânăr care
+Se păstra curat în babilon
+Ințeleptul care dat la fiare
+A făcut din groapă un amvon.
+
+[c]
+/: Nu mă tem de nimeni
+Deși nu-s Daniel
+In lume cu mine
+E același Dumnezeu. :/
+
+[v2]
+Tinerel bălai cu chip de soare
+Pe pășuni din harfa lui cânta
+Pentru oi luptase el cu fiare
+Inimă de împărat avea.
+
+[c2]
+/: Nu mă tem de nimeni
+Deși nu-s David eu
+Că-n lume cu mine
+Tare-i Dumnezeu. :/
+
+[v3]
+Auzita-i despre-un altul care
+Pentru fecioria lui curată
+A răbdat chiar ani de închisoare
+Dar acum e-o carte adevărată
+
+[c3]
+Nu mă tem de nimeni
+Deși nu-s Iosif eu
+Că-n lume cu mine
+E-același Dumnezeu.
+
+[v4]
+Voi care purtați frumosul nume
+Fiti și voi o carte de mai sus
+Căci cuvântul scripturi ne spune
+Că-ndată vă-ntâlniți cu Isus.
+
+[c4]
+Nu mă tem de nimeni
+Deși nu-s tare eu
+Că-n lume cu mine
+Tare-I Dumnezeu.

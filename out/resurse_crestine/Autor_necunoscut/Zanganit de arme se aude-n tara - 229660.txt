@@ -1,0 +1,31 @@
+[title]
+Zanganit de arme se aude-n tara {author: {Anonim}, {rcId: {229660}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Zăngănit de arme se aude-n țară,
+Jale-n Ucraina.. arde ca un rug.
+Sângerând ostașii, apără hotarul
+Doamne, vezi vrăjmașii, țara ne distrug!
+
+[c]
+Oprește, Doamne, acest război,
+Adă pace între noi!
+Toată lumea in rău zace,
+Iar zăngănitul armelor
+Tacă-n vecii vecilor!
+Domane, adă pace, pace!
+
+[v2]
+Disperați părinții și-au cuprins copiii..
+Adăpostul sigur nu e în subsol.
+Te rugăm, oprește zborul de rachete!
+Tu ești Cel ce ține toate sub control!
+
+[v3]
+Iartă, Doamne, țara, iartă Ucraina!
+Ne plecăm în lacrimi până la pământ
+Lasă să răsară liniștit lumina,
+Pasărea să cânte dulcele ei cânt.

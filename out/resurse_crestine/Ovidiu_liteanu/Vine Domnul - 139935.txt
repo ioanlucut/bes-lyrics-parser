@@ -1,0 +1,36 @@
+[title]
+Vine domnul {author: {Ovidiu Liteanu}, {rcId: {139935}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Voi, ce stați în așteptare
+Și priviți mereu spre zare
+V-ați sfințit pentru răpire
+Și vi-e dor de-al vostru Mire?
+
+[c]
+/: Vine Domnul, Maranata!
+Vino, Mire, Te-așteptăm!
+Să zburăm ca porumbeii
+Și spre rai să ne-nălțăm! :/
+
+[v2]
+Iată, Domnul Se arată,
+Porumbiță, fii curată!
+Îmbrăcată-n in subțire
+Fii gătită pentru Mire!
+
+[v3]
+Hainele îți sunt curate
+Ori de Domnul ești departe?
+Candela îți este plină
+Ori demult nu ai lumină?
+
+[v4]
+Duhul strigă: ”
+Maranata!”
+Spune-mi dacă ești tu gata!
+Hai și tu la mântuire,
+Să ai parte de răpire!

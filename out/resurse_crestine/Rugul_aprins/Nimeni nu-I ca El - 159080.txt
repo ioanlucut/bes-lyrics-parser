@@ -1,0 +1,29 @@
+[title]
+Nimeni nu-i ca el {author: {Rugul aprins}, {rcId: {159080}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Fericit Îți voi cânta, toată viața mea,
+Lângă Tine Domnul meu, eu voi rămânea,
+Laudă și închinare Îți aduc, o Domnul meu,
+Tu ești Regele meu!
+
+[c]
+/: Aleluia, nimeni nu-I ca El!
+Aleluia, Sfânt Emanuel!
+Aleluia, El e Împăratul!
+Aleluia, nu va fi în altul! :/
+
+[v2]
+Zi de zi mă sfătuiești, Tu mă călăuzești,
+Pașii, Tu mi-nsoțești, zilnic îmi vorbești,
+Tu ai fost de la-nceput și-n veci vei rămânea,
+Tu ești dragostea mea!
+
+[v3]
+Minunată-i pacea Ta, ce-o simt în viața mea,
+N-am cuvinte ca să spun, cât ești Tu de bun.
+Tu ești Elohim, atotputernic Dumnezeu,
+Tu ești Creatorul meu!

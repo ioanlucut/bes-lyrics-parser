@@ -1,0 +1,24 @@
+[title]
+Domnul e mult mai maredecat problema mea {author: {Anonim}, {rcId: {151242}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+/: Domnul e mult mai Mare, decât problema mea,
+Orice munte-orcât de tare se apleacă-n fața Sa.
+Semnele de-ntrebare nu îi pot rezista
+Orice munte-orcât de tare se apleacă-n fața Sa. :/
+
+[v1]
+Umbrele mă-nconjoară, dar El e prezent,
+Orice munte-orcât de tare se apleacă-n fața Sa.
+Nici cea mai grea confuzie, nu-L poate înfrunta,
+Orice munte-orcât de tare se apleacă-n fața Sa.
+
+[v2]
+Nici-un uriaș vreodată, nu-L poate egala,
+Orice munte-orcât de tare se apleacă-n fața Sa.
+Domnul e cel mai Mare,
+El poate tot ce vrea,
+Orice munte-orcât de tare se apleacă-n fața Sa.

@@ -1,0 +1,41 @@
+[title]
+Nu sunt pe cale {author: {Nicolae Moldoveanu}, {rcId: {244361}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Nu sunt pe cale,
+Numai petale,
+Ofrande pale,
+De trandafiri...
+
+[c]
+/: Dar știm că spinul,
+Și-a pus rubinul,
+Chiar și pe crinul,
+Primei iubiri! :/
+
+[v2]
+Nu ne-aduc anii,
+Numai Betanii,
+Dulci spovedanii,
+În vreun apus.
+
+[c2]
+/: Dar știm că ura,
+Și-a-ntins măsura,
+Vărsându-și zgura,
+Și pe Isus! :/
+
+[v3]
+Vai, nu-i prea Iesne,
+Cu șerpi de glezne,
+Cărări prin bezne,
+A-ți netezi.
+
+[c3]
+/: Dar scris e doară,
+Că-ntâi e seară,
+Și noapte amară,
+Și-apoi E ZI! :/

@@ -1,0 +1,43 @@
+[title]
+Cred in domnul {author: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {112920}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Îmi spune lumea despre Domnul
+că n-a existat niciodată
+și totuși când este în strâmtorare
+din cer ajutorul așteaptă...
+Îmi spune lumea să nu mă-ncred
+în ceea ce nu se vede
+dar eu îi răspund că fără Cristos
+viața n-are folos...
+
+[c]
+Căci sunt bogat și-o comoară am,
+o port în inima mea, adânc în inima mea.
+Sunt bogat și comoara mea
+este Domnul! Domnul!
+Trecător și totuși cât de veșnic sunt,
+călător pe pământ înspre raiul cel sfânt.
+Nu mă tem de nimic, nicicând,
+cred în Domnul, Domnul.
+Căci sunt bogat și-o comoară am,
+o port în inima mea, adânc în inima mea.
+Sunt bogat și comoara mea
+este Domnul! Domnul!
+Trecător și totuși cât de veșnic sunt,
+călător pe pământ înspre raiul cel sfânt.
+Nu mă tem de nimic, nicicând,
+cred în Domnul, Domnul
+
+[v2]
+Filosofiile nu ajută
+divinul să se vadă,
+distrug adevărul inimi împietrind
+și-orbesc o lume-ntreagă.
+Îmi spune lumea că-n Judecată
+nu se poate crede,
+dar eu îi vorbesc de-al vieții Cuvânt
+și-un Domn ce vine curând...

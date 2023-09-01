@@ -1,0 +1,37 @@
+[title]
+Vestea buna-a evangheliei {author: {The Messengers}, {rcId: {111596}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+În ziua de Sabat, Domnul a intrat
+În Sinagogă și-a citit Isaia:
+”
+Duhul Domnului e peste Mine
+Să vestesc Evanghelia!”
+
+[c]
+Vestea bună-a Evangheliei
+E puterea lui Dumnezeu
+Ea-ți aduce eliberare,
+Mântuire, vindecare
+Vestea bună-a Evangheliei!
+
+[v2]
+Dacă inima acum zdrobită-i de amar
+Isus îți poate da tămăduirea!
+De ești încătușat în patimi și păcat
+Chiar azi tu poți să fii eliberat!
+
+[v3]
+Isus s-a întrupat, a murit și-a înviat
+S-a înălțat la cer și-o să revină
+Dacă crezi cu-adevărat, și Îl urmezi, vei fi salvat
+De moarte, de păcat, de chin, de iad!
+
+[e]
+Evanghelie avem fiindcă El, Dumnezeu,
+Ne-a iubit-atât de mult, că a dat pe Fiul Său
+Ca oricine crede-n El
+Să nu piară, ci să aibă viață veșnică!

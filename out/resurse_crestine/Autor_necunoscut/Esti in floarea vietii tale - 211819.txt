@@ -1,0 +1,41 @@
+[title]
+Esti in floarea vietii tale {author: {Anonim}, {rcId: {211819}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Ești in floarea vieții tale
+Fă ceva pentru Hristos
+Ca să poți odată spune
+Că i-ai fost Lui de folos.
+
+[c]
+Tinere te cheamă Domnul
+Să te-apleci la Crucea Lui
+Lasă lumea trecătoare
+Intră-n casa Domnului.
+
+[v2]
+Tineri frați și surioare
+Azi e timpul să luptăm
+Pentru pacea Lui cea sfanta
+Cununa s-o câștigam.
+
+[v3]
+Veniți toți cu-nflăcărare
+Înrolați-vă voios
+Și luptați cu biruință
+Pentru viața Lui Hristos.
+
+[v4]
+Nu-i viața mai frumoasă
+Nici sfârșit mai glorios
+Decât viața și sfârșitul
+De creștin al lui Hristos.
+
+[v5]
+Pe pământ ne-așteaptă lupte
+Dar vom birui crezând
+Ce maret s-ajuți venirea
+Fericirii mai curând.

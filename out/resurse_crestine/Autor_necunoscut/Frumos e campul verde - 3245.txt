@@ -1,0 +1,35 @@
+[title]
+Frumos e campul verde {author: {Anonim}, {rcId: {3245}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Frumos e câmpul verde
+De ierburi și de flori
+/: Ce strălucire noi zărim
+În multele culori. :/
+
+[v2]
+Pădurea înverzită
+Și râul cristalin
+/: Un cânt frumos ridic spre cer
+Părintelui divin :/
+
+[v3]
+Văzduhul plin de păsări
+Răsună ne-ncetat
+/: Albina și furnica, vezi,
+Ce mult au de lucrat. :/
+
+[v4]
+Frumoasă e natura
+Pe care Dumnezeu
+/: Măreț în fiecare an
+O-mbracă tot mereu. :/
+
+[v5]
+Ce-i mai frumos ca toate,
+Ce poate fi de preț?
+/: Decât să fii al Domnului
+Nimic nu-i mai măreț. :/

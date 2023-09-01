@@ -1,0 +1,31 @@
+[title]
+Domn al slavei {author: {Matt Redman}, {rcId: {2464}}
+
+[sequence]
+v1,c,c,v2,c,e
+
+[v1]
+Domn al veșniciei
+Ce pământul Ai creat
+Cerul este al Tău templu
+Glorie Celui prea înalt
+
+[c]
+Domn al Slavei mai sus de Galaxii,
+Tu ești vrednic, vrednic
+Universul în veci Te va slăvi
+Tu ești vrednic, vrednic.
+
+[b]
+Domn în cer și pe pământ
+Ești Domn în cer și pe pământ.
+
+[v2]
+Dis de dimineață
+Lumina voi întâmpina
+Și în noapte de mă clatin
+Al Tău Nume voi chema.
+
+[e]
+Aleluia, ești Domn, ai fost și vei fi!
+Aleluia, ești Domn, ai fost și vei fi!

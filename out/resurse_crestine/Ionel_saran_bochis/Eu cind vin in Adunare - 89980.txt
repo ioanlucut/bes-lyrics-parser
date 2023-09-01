@@ -1,0 +1,27 @@
+[title]
+Eu cind vin in adunare {author: {Ionel Saran Bochis}, {rcId: {89980}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Eu cind vin in adunare
+Vreau sa primesc alinare
+Sa primesc cuvintul Tau
+Domnul Meu, hrana sufletului meu.
+
+[c]
+/: Cind ma uit la cer ajutor iti cer
+Putere sa-mi dai ca s-ajung in rai :/
+
+[v2]
+Lacrimile-mi curg siroaie
+Pentru tine Domnul meu
+C-ai avut mila de mine
+Domnul meu si nu mai lasat in lume.
+
+[v3]
+Caci de cind m-am pocait
+De necaz n-am fost scutit
+In mina ta m-ai sadit
+Domnul meu de mine te-ai ingrijit

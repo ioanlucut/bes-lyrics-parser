@@ -1,0 +1,31 @@
+[title]
+Eu am gasit refugiul {author: {Denys Laurenciuc}, {rcId: {201232}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Eu am găsit refugiul, Isus, în casa Ta
+Și am ales, o, Doamne deplin a Te urma
+/: Și-oricât de greu îi urcușul, nu pot sa Te mai las,
+Ci-aleg, Stăpâne-n toate s-ascult de al Tău glas :/
+
+[c]
+Căci nu-i vreun loc sub soare
+Mai scump ca-n casa Ta
+Aici dai vindecare și mustri boala grea.
+Mi-atât de drag locașul în care Tu Domnești,
+Iar pe unde Îți trece pasul pe loc tămăduiești
+
+[v2]
+Am alergat la cruce.. de câte ori am plâns..
+Și-atâtea lacrimi grele în palma Ta ai strâns
+/: Nu pot să uit vreodată locașul minunat,
+C-aici în grea durere.. pe Tine Te-am aflat :/
+
+[v3]
+Aici e bucurie și lacrimile pier,
+Aici e fericire, aici e-un colț de Cer
+/: E-un han de poposire pentru-acel ce-i lovit
+Aici găsești iubire.. când toți te-au părăsit :/
+Amin:

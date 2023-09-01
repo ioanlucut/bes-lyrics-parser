@@ -1,0 +1,33 @@
+[title]
+Zi de zi pe mare {author: {Iulian Avasiloaie}, {rcId: {79661}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Zi de zi, pe mare, Doamne, călătoresc.
+Bezna se arată, de stânci eu mă lovesc.
+/: Dă-mi, din Duh Sfânt, putere, ca să-naintez,
+Căci valul îi tot mai mare, singur nu izbutesc. :/
+
+[c]
+/: Ajută-mă, Isus, atunci când îmi este greu,
+Fii, la cârma vieții mele, un corăbier! :/
+
+[v2]
+Când furtuna vine și vântul suflă greu,
+Rămâi în a mea barcă, fii cârmaciul meu.
+/: Căci, fără de Tine, eu sunt pierdut
+Și drumul, pe această mare, degeaba l-am făcut. :/
+
+[v3]
+Căci doar Tu, Isuse, mi-ai fost prieten bun,
+Atunci când, în nevoie, cu mine ai fost mereu.
+/: Da, în curând, voi ajunge la liman,
+Să-Ți cânt o veșnicie, să Te laud ne’ncetat. :/
+
+[v4]
+Îți mulțumesc, Isus, că mi-ai fost ajutor,
+Când barca vieții mele se ducea tot mai jos.
+/: Îți mulțumesc, Isus, căci m-ai ajutat.
+În încercarea mare, lângă mine Tu ai stat. :/

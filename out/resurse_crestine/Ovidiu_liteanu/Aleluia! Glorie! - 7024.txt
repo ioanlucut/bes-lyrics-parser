@@ -1,0 +1,40 @@
+[title]
+Aleluia glorie {author: {Ovidiu Liteanu}, {rcId: {7024}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Doream ca viața să-mi petrec pe-acest pământ
+Că-i trecătoare, zboară iute ca un gând
+/: Eu nu știam că Dumnezeu din cer e Tatăl meu
+Mi-a pregătit o viață-n cerul Său. :/
+
+[c]
+/: Aleluia! Glorie! Osana! :/
+Aleluia! Glorie! Aleluia! :/
+
+[v2]
+Dar într-o zi pe Dumnezeu L-am auzit
+El m-a chemat ”
+Întoarce-te, fiu rătăcit!
+/: Întoarce-te acasă, Eu te chem copilul Meu
+Întoarce-te să fi cu Dumnezeu.” :/
+
+[v3]
+Sunt istovit, păcatele m-apasă greu
+N-aș merita să mă numesc copilul Tău
+/: Dar glasul Tău o Doamne-mi răcorește inima
+Cu dragoste mă chemi în casa Ta. :/
+
+[v4]
+Orice păcat ai fi făcut ți l-am iertat
+La Golgota pe cruce Isus le-a luat
+/: Isus e Fiul Meu, El de păcat te-a curățit
+Cu sânge a plătit, căci te-a iubit. :/
+
+[v5]
+Să fi slăvit în veci de veci, Tată ceresc
+Eu n-am cuvinte ca să pot să-Ți mulțumesc
+/: Primește inima cu drag eu azi ți-o dăruiesc
+Deschisă-i pentru Fiul Tău ceresc. :/

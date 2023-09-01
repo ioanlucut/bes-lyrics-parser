@@ -1,0 +1,47 @@
+[title]
+O calator pornit spre vesnicie {author: {Nicolae Moldoveanu}, {rcId: {5402}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+O, calator pornit spre vesnicie,
+O, drumul este parca este tot mai greu...
+/: Nu dispera, ci lupta-te-nainte,
+Caci inainte merge Dumnezeu! :/
+
+[c]
+/: Drum bun! Drum bun!
+O, calator pornit spre vesnicie...
+Drum bun! Drum bun!
+Nu dispera, Isus este cu tine! :/
+
+[v2]
+Chiar daca vantul bate tot mai tare
+Si furtuni se abat in jurul tau,
+/: Tu nu uita ca ajutor iti vine
+De sus, din ceruri, de la Dumnezeu! :/
+
+[v3]
+Si-atunci cand, lacrimand, tu mergi pe cale
+Si painea ti-o mananci ades plangand,
+/: Din cerul vesniciilor sublime,
+Te mangaie Stapanul orisicand. :/
+
+[v4]
+Soptindu-ti dulce: „
+Suflet, nu te teme!
+Pe cale sunt cu tine, tot mereu!”
+/: Si-atunci cand incercarea este mare,
+Din toate, te salveaza Dumnezeu... :/
+
+[v5]
+Tu dar pastreaza-te curat aicea,
+Cu inima curata orisicand,
+/: Si sa nu uiti nicicand, trecand prin lume:
+Cu Domnul ai facut un legamant! :/
+
+[v6]
+Dar vei pastra cu grija-a ta credinta o Si vei trai curat, asa ca El
+/: Isus te va primi la El in slava
+Si, pentru veci, vei fi in cer cu El. :/

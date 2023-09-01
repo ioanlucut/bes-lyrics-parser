@@ -1,0 +1,23 @@
+[title]
+Orice mi s-ar pune-n mancare {author: {Lidia Gheorghe}, {rcId: {149770}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Orice mi s-ar pune-n mâncare,
+Nimic rău nu are putere.
+Căci Tu trăiești azi în mine
+Și nu îmi vrei decât bine.
+
+[c]
+Te laud, aleluia!
+În Tine mă încred.
+Tu-mi ești toată tăria,
+Ești viu în veci de veci.
+
+[v2]
+Tu ai săgeți arzătoare,
+Ai săgeți omorâtoare
+Pentru cel ce rău urzește
+Și fărdelegi zămislește.

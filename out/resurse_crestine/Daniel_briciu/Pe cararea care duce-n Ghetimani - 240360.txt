@@ -1,0 +1,41 @@
+[title]
+Pe cararea care duce-n ghetimani {author: {Daniel Briciu}, {rcId: {240360}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c2
+
+[v1]
+Pe cărarea care duce-n Ghețimani,
+Pe cărarea făr-o geană de lumină,
+Vine Iuda cu o ceată de dușmani
+Ca să-L prindă pe Isus, cel fără vină.
+
+[v2]
+Cerurile s-au cutremurat atunci
+Și măslinii din grădin-au tresărit,
+Și Isus coboară, iată, printre stânci,
+Pus în lanțuri și de prieteni părăsit.
+
+[c]
+/: Cum n-ai văzut în mine, Iuda,
+Pe Fiul celui veșnic Viu?
+Doar Eu puteam să-ți dau viață,
+Dar pentru tine-i prea târziu. :/
+
+[v3]
+La aceeași masă tu ai stat cu Mine
+Și-ai văzut minunile ce le-am făcut,
+Dar cu toate-acestea n-ai văzut Lumina
+Pentru treizeci de arginți tu M-ai vândut.
+
+[v4]
+Dacă banii n-ar fi fost idolul tău
+Tu vedeai în Mine slava Celui Viu.
+De-ți cereai iertare, sigur te iertam,
+Dar te-ai dus și-acum e totul prea târziu.
+
+[c2]
+/: Cum n-ai văzut în Mine, Iuda,
+Pe Cel ce viață ți-ar fi dat?
+Și-acum în loc de mântuire
+Vei fi-n osândă judecat. :/

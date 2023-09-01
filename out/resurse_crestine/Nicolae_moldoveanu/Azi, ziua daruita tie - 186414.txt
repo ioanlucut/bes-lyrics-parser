@@ -1,0 +1,53 @@
+[title]
+Azi ziua daruita tie {author: {Nicolae Moldoveanu}, {rcId: {186414}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c
+
+[v1]
+Azi, ziua dăruită ție,
+De Dumnezeul nostru Sfânt,
+E-un nou prilej de bucurie,
+Un nou popas și-un legământ!
+
+[c]
+Dumnezeu, Dumnezeu
+Să te crească-n har mereu,
+Ca să-l fii, ca să-l fii, slujitor pentru vecii,
+Voia Sa, voia Sa, fie-n viața ta!
+
+[v2]
+Plecăm întreaga-ne ființă
+Spre Cerul pururi îndurat,
+Și ne rugăm cu stăruință,
+Să fii tu binecuvântat.
+
+[v3]
+Lumina alb-a curăției
+Să-ți înveșmânte viața ta,
+Să-mparți mireasma veșniciei,
+Oriunde pașii-ți vor călca.
+
+[v4]
+S-arunci cu mână iubitoare,
+Sămânță de-adevăr curat,
+Pe nesfârșitele ogoare,
+Desțelenite din păcat!
+
+[v5]
+Iar rodul muncii fericite
+Să crească-n urma ta cu spor,
+Și planurile împlinite
+Să-ți fie-acum și-n viitor!
+
+[v6]
+Izvoarele vieții tale
+De-apururi fie în Hristos,
+Și strălucirea Feței Sale
+Să-ți facă chipul mai frumos.
+
+[v7]
+Senină, albă sărbătoare,
+Oricând să ai în viața ta;
+Hristos Slăvitul veșnic Soare,
+Te binecuvinteze-așa!

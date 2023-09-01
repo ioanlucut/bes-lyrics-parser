@@ -1,0 +1,27 @@
+[title]
+O stea sus straluceste {author: {Anonim}, {rcId: {83700}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O stea sus strălucește
+E steaua Domnului
+Căci ea ne dăruiește
+Iubirea Tatălui.
+
+[c]
+Așa, așa, de-atunci
+strălucești mereu.
+
+[v2]
+O stea sus strălucește
+Bucurie ne-aduci
+În noaptea-ntunecoasă
+Spre ceruri ne conduci.
+
+[v3]
+O stea sus strălucește
+Speranța noastră ești
+Spre ceruri ne conduce
+Pe căile cerești.

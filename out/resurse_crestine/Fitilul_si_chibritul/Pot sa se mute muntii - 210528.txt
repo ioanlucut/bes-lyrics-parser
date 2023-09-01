@@ -1,0 +1,29 @@
+[title]
+Pot sa se mute muntii {author: {Fitilul si chibritul}, {rcId: {210528}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+Fiecare floare-mi spune de iubirea Ta
+Fiecare stea-mi vorbește cât de mare ești
+Natura întreagă Te slăvește neîncetat
+Toate Tu le stăpânești căci Tu le-ai creat
+
+[c]
+Pot să se mute munții, Tu nu mă vei lăsa
+Dragostea Ta de la mine nicicând nu va pleca
+Chiar dealurile toate dacă s-ar clătina
+Fața Ta de la mine Tu tot nu o vei lua
+
+[v2]
+Orice val se ridică la cuvântul Tău
+Și-oricât de mare-ar fi furtuna Tu o poți opri
+În mâna Ta sunt toate acestea, Domnul meu,
+De-aceea nu mă tem căci sunt al Tău
+
+[b]
+Ești salvarea mea
+Chiar dacă lumea-ntreagă
+În foc s-ar scufunda
+Lângă mine ești mereu

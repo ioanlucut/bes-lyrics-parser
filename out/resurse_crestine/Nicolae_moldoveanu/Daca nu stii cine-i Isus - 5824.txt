@@ -1,0 +1,29 @@
+[title]
+Daca nu stii cine-i isus {author: {Nicolae Moldoveanu}, {rcId: {5824}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Daca nu stii cine-i Isus
+Si ce-nseamna iubirea Lui,
+Iti va spune crinul din vai,
+Raza soarelui din apus.
+
+[c]
+/: El este dragoste, pace;
+Este-ndurare si dor;
+Este blandete, rabdare,
+E tot ce-i nemuritor. :/
+
+[v2]
+Daca nu stii cat e de bun,
+Rasaritu-ti va arata;
+Ti-o va spune frunza din pom,
+Totul din jur e slava Sa.
+
+[v3]
+Daca nu-L ai Mantuitor,
+Ziua de azi iti este prilej;
+El te cheama staruitor;
+Azi la El sa vii, sa alergi.

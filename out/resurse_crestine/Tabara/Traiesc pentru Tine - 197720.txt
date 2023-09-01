@@ -1,0 +1,35 @@
+[title]
+Traiesc pentru tine {author: {Tabara 477}, {rcId: {197720}}
+
+[sequence]
+v1,c,v2,c,c
+
+[v1]
+Am intalnit o dragoste
+Mai inatlta decat cerul
+Mai adanca decat marea
+Am intalnit o dragoste
+Mai buna decat viata
+Mai tare decat moartea
+
+[c]
+Cu tot ce am ma daruiesc
+Cu tot ce sunt eu te iubesc, Isus
+Esti viata mea, ma daruiesc
+Cu tot ce sunt, eu te iubesc Isus, Isus
+Cu tot ce am ma daruiesc
+Cu tot ce sunt eu te iubesc, Isus
+Esti viata mea, ma daruiesc
+Cu tot ce sunt, eu te iubesc Isus, Isus
+
+[v2]
+Ai promis nu ma vei lasa
+Esti cu mine zi si noapte
+Ma chemi tot mai aproape
+Unde asi putea sa m-ascund
+Ma gasesti cu o privire
+Ma cunosti in adancime
+
+[b]
+Traiesc pentru Tine
+Te vreau doar pe Tine, Isus

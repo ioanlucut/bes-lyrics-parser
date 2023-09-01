@@ -1,0 +1,41 @@
+[title]
+Sunt calator {author: {Speranța}, {rcId: {91168}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+O, Doamne eu aici
+Sunt numai călător
+În cerurile sfinte
+Voi fi moștenitor
+Acolo-i țara mea
+Acolo-i casa meu
+Unde veșnic eu voi sta
+Sus la dreapta Sa
+
+[c]
+/: Aici eu sunt, doar numai călător
+În cerurile sfinte, voi fi moștenitor
+Acolo-i țara mea, acolo-i casa mea
+Unde veșnic eu voi sta, sus la dreapta Sa :/
+/: Răsunet dau, al gurii mele când
+În cerurile sfinte, voi pe veci un sfânt
+Acolo-i țară mea, acolo-i casa mea
+Unde veșnic voi cânta, pentru slava Sa :/
+
+[v2]
+Un fulg purtat de vânt
+Sunt numai pe pământ
+În cerurile sfinte
+Voi fi pe veci un sfânt
+Acolo-i țara mea
+Acolo-i casa meu
+Unde veșnic eu voi sta
+Sus la dreapta Sa
+
+[e]
+Aici eu sunt, doar numai călător
+În cerurile sfinte, voi fi moștenitor
+Acolo-i țara mea, acolo-i casa mea
+Unde veșnic eu voi sta, sus la dreapta Sa

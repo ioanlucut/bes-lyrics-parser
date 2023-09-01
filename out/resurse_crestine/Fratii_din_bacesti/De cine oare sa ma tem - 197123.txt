@@ -1,0 +1,29 @@
+[title]
+De cine oare sa ma tem {author: {Fratii din Bacesti}, {rcId: {197123}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Domnul este lumina mea
+Atunci când noaptea este grea
+Izbăvitorul vieții mele
+Cu mine e și în clipe grele :/
+
+[c]
+/: De cine oare să mă tem
+Ești lânga mine când te chem
+Chiar o oștire de ar veni
+Cu tine eu voi birui :/
+
+[v2]
+/: Un lucru cer de la tine
+Și îl doresc eu fierbinte
+In casa ta să locuiesc
+Și voia ta să infăptuiesc :/
+
+[v3]
+/: O mie dacă ar cădea
+Alături și la dreapta ta
+Tu doar cu ochii vei privi
+Pe tine nu te vor lovi :/

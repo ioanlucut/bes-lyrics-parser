@@ -1,0 +1,51 @@
+[title]
+Promisiunea {author: {Echipa GECMC}, {rcId: {226752}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+M-am pierdut,
+Te strig, o, Domnul meu
+Și te rog azi
+Să fii Tu lângă min’.
+Dar frica m-a cuprins,
+Dau un pas-napoi,
+Tu Te-ndrepți spre mine
+Și-mi spui c-un glas duios:
+
+[c]
+Nu ți-am dat Eu oare
+Porunca aceasta:
+„
+Nu te teme și nu te-nspăimânta?”
+Tu nu te îngrozi,
+Căci Domnul e mereu de partea ta.
+Nu ți-am dat Eu oare
+Porunca aceasta:
+„
+Nu te teme și nu te-nspăimânta?”
+Tu nu te îngrozi,
+Căci Domnul e mereu de partea ta.
+/: Nu ți-am dat Eu oare
+Porunca aceasta:
+„
+Nu te teme și nu te-nspăimânta?”
+Tu nu te îngrozi,
+Căci Domnul e mereu de partea ta. :/
+
+[v2]
+M-ai găsit,
+De mână m-ai luat.
+Sunt al Tău,
+Păcatul mi-ai iertat.
+/: Nu mai privesc spre lume,
+Nu mai privesc n-apoi
+Și cred promisiunea
+Că Tu vei fi cu noi. :/
+
+[e]
+/: Nu mai privesc spre lume,
+Nu mai privesc n-apoi
+Și cred promisiunea
+Că Tu vei fi cu noi. :/

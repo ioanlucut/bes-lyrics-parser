@@ -1,0 +1,36 @@
+[title]
+Dimineata cand te trezesti voi fi aici {author: {Anonim}, {rcId: {6749}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Dimineața când te trezești
+Și soarele nu-l mai zărești
+Eu voi fi aici
+În întuneric când vei păși
+Să nu te temi ia mâna mea
+Eu voi fi aici
+
+[c]
+/: Voi fi aici când vrei odihnă în tăcere
+Când gândul tău vrea să vorbească voi asculta
+Voi fi aici lângă lacrimă și zâmbet
+În cădere și-n izbândă voi fi aici
+Voi fi mereu :/
+
+[v2]
+Dimineața când te trezești
+Și viitorul nu-nțelegi
+Eu voi fi aici
+Când anotimpul se schimbă mereu
+După soare va fi nor greu
+Eu voi fi aici
+
+[v3]
+Voi fi aici când oglinda ne va spune
+Că suntem vechi pe-această lume
+Te sprijinesc
+Voi fi aici să văd cum crești în frumusețe
+Și să-ți spun cuvinte alese
+Voi fi aici

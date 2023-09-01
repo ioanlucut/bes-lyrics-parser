@@ -1,0 +1,21 @@
+[title]
+Va veni odata {author: {Nicolae Moldoveanu}, {rcId: {228570}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Va veni odată dulcele Isus,
+și-ntr-o minunată zi vom merge Sus.
+
+[c]
+Însă pân-atunci, sfintele porunci,
+noi să le-mplinim, ca iubiți să-I fim.
+
+[v2]
+Vom sfârși odată viața asta jos,
+Țara-I minunată ne-o va da Hristos.
+
+[v3]
+Vom primi odată slava cea de Sus,
+și-n lumina toată vom fi cu Isus.

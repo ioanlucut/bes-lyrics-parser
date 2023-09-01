@@ -1,0 +1,35 @@
+[title]
+Iubitorule de oameni {author: {Ovidiu Liteanu}, {rcId: {197049}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Iubitorule de oameni,
+Dumnezeul meu cel Sfant
+/: M-ai cuprins cu-a Ta iubire,
+M-ai patruns cu-al Tau Cuvant! :/
+
+[c]
+M-ai cuprins cu-a ta iubire, m-ai umplut cu Duhul Sfant
+Ca la tainica rapire sa ma iei de pe pamant,
+Imbracat in nemurire si in rai iti voi canta
+O, Isus, a mea iubire, Tu esti fericirea mea.
+
+[v2]
+Iubitorule de oameni
+M-ai adus la pieptul Tau,
+/: M-ai umplut cu pace sfanta,
+M-ai spalat de tot ce-i rau. :/
+
+[v3]
+Iubitorule de oameni,
+Mii de ani dac-as trai
+/: Tot nu mi-ar ajunge timpul
+Doamne, pentru a-Ti multumi! :/
+
+[v4]
+Iubitorule de oameni
+Mi-ai dat harul ca sa zbor
+/: Sa ajung pe plaiuri sfinte
+Un copil nemuritor! :/

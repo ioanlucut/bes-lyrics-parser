@@ -1,0 +1,29 @@
+[title]
+E-o primavara plina {author: {Simion Cubolta}, {rcId: {870}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+E-o primăvară plină
+De aur scuturat;
+Mi-e sufletu-n lumină:
+Cristos a înviat!
+
+[v2]
+Râd florile, natura,
+Văzduhu-nmiresmat;
+Să nu mai știu ce-i ura
+Cristos a înviat!
+
+[v3]
+Mi-s ochii numai rouă,
+De moarte, am scăpat;
+S-ajung făptură nouă
+Cristos a înviat!
+
+[v4]
+Acesta e misterul
+Ce azi l-am dezlegat:
+Ca să ne deie Cerul
+Cristos a înviat!

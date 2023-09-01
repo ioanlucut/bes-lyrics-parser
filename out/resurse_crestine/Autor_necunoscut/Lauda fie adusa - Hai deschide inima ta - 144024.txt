@@ -1,0 +1,25 @@
+[title]
+Lauda fie adusa - hai deschide inima ta {author: {Necunoscut}, {rcId: {144024}}
+
+[sequence]
+c,c,v1,c,e
+
+[c]
+/: Laudă fie adusă,
+Celui ce S-a Născut
+La Betleem! :/ x10
+
+[b]
+/: Aleluia!
+Salvatorul nostru,
+Rege s-a Născut
+La Betleem. :/ x2
+
+[v1]
+/: Hai deschide inima ta,
+Să găsești minunea din ea!
+Într-o iesle și-n viața ta,
+S-a născut Mesia! :/ x6
+
+[e]
+/: S-a născut Mesia! :/ x2

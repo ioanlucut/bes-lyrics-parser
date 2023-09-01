@@ -1,0 +1,29 @@
+[title]
+Domnul priveste din ceruri {author: {Nicolae Moldoveanu}, {rcId: {5265}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Domnul privește din ceruri,
+Cu multă iubire spre noi,
+Când imnuri de slavă-aducem,
+Din inimi curate șuvoi.
+
+[c]
+Mărim gloriosul Său nume,
+Ce-n veci adăpost ne va fi.
+Întreg Universul răsune,
+De-a-noastre sfinte melodii...
+
+[v2]
+Nimic, nu ne poate învinge,
+Nimic nu-i mai tare ca El,
+Căci haina-nmuiata în sânge,
+Ne este un falnic drapel
+
+[v3]
+Puternic în lupte și-n fapte,
+Ești Isus, al nostru Păstor;
+La apele vieții condu-ne,
+Și fii, pentru noi, Salvator!

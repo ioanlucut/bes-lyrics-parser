@@ -1,0 +1,23 @@
+[title]
+Pierdute secunde ce dor {author: {Iulia Contis}, {rcId: {246116}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+În praful de pe cumpăna fântânii,
+Cu gândul ars de timpuri și de doruri,
+Privind cum păsări se înalță-n stoluri,
+Sclipind, observ tăriile minunii!
+
+[c]
+Creația cântă și-un Creator
+Ascultă și susurul de-izvor!
+Umple-mi viața cât timp nu mai mor,
+În ură pierdute, secunde ce dor!
+
+[v2]
+Natura, printre cântece curate,
+Mai urcă, deschizând astăzi o poartă
+Spre lumea cea de veci, care nu moartă
+Și-ntinde brațele prin sfânta Carte!

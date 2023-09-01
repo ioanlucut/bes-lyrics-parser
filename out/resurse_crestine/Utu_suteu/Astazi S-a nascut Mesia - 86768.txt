@@ -1,0 +1,29 @@
+[title]
+Astazi s-a nascut mesia {author: {Utu Șuteu}, {rcId: {86768}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Astăzi S-a născut Mesia,
+Îngerii cântă în cor.
+Cerul spune bucuria,
+/: S-a născut Mântuitor. :/
+
+[c]
+Mă proștern în rugă iar,
+În al nopții sfinte har.
+Pruncule, ia azi inima,
+/: Să Te naști în ieslea mea :/
+
+[v2]
+Vin cu magii la-nchinare,
+Cu păstorii de pe câmp.
+Mă proștern în adorare,
+/: Te slăvesc, Pruncule Sfânt :/
+
+[v3]
+Într-un staul, jos în vale,
+În cetatea Belteem,
+S-a născut un Prunc în paie.
+/: E Mântuitorul meu. :/

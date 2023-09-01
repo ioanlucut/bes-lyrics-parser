@@ -1,0 +1,41 @@
+[title]
+Cand vin {author: {Nicolae Moldoveanu}, {rcId: {242622}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Când vin spre mine oști cumplite
+De-ndemnuri și ispite grele,
+Când îngrozit privesc spre ele,
+lsuse-n clipele acele,
+/: Dă inimi-mi puteri sporite. :/
+
+[v2]
+Înviorează-mă-n credință,
+Nădejdea fă-mi-o tot mai tare,
+Și dragostea mai arzătoare,
+Să pot rămâne în picioare,
+/: Încununat de biruință! :/
+
+[v3]
+Deschide-a ochilor lumine,
+Să văd cum Tu-mi numeri pașii,
+Să-Ți recunosc deplin urmașii,
+Că mult mai mulți decât vrăjmașii
+/: Sunt cei ce luptă pentru mine! :/
+
+[v4]
+Să văd oștirile de îngeri,
+Ce-mi împresoară viața toată
+Să-mi văd puterea minunată,
+Ce-azvâr
+Ie-ntunecata gloată,
+/: În hăul veșnicei înfrângeri! :/
+
+[v5]
+Și-nvăluit în pace-adâncă
+Să cânt cântări de bucurie,
+Când trec prin neagra vijelie
+Să văd lumina ce-o să vie
+/: De haruri neștiute încă! :/

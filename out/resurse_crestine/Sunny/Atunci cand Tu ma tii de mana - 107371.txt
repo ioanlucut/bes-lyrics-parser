@@ -1,0 +1,29 @@
+[title]
+Atunci cand tu ma tii de mana {author: {Sunny}, {rcId: {107371}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Sufletul meu tânjește după Tine
+Ca un copil după iubirea mamei lui
+Inima mea Te caută pe Tine
+Ca un copil privirea tatălui.
+
+[c]
+Atunci când Tu mă ții de mână
+În mine frică nu mai e
+Tu ești cu mine în furtună
+Cu glasul Tău mă liniștești.
+
+[v2]
+Ca un pustiu ce strigă după ploaie
+Te chem neîncetat în ajutorul meu
+Și ca o floare ce caută lumina
+Inima mea Te caută mereu.
+
+[e]
+În mine frică nu mai e
+Căci Dumnezeu e dragoste
+În mine frică nu mai e
+Căci Dumnezeu e dragoste

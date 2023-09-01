@@ -1,0 +1,31 @@
+[title]
+Numai cei cu gand curat / fericiti cei smeriti {author: {Traian Dorz}, {rcId: {224848}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Numai cei cu gind curat
+Sunt frumoși cu-adevarat
+Numai cei ca pruncii sunt
+Fericiți pe-acest pămînt.
+
+[c]
+Fericiți, cei smeriti
+Si frumoși cei miloși
+Si bogați cei curați
+Ei sunt binecuvântați.
+Fericiți jos si sus
+Cei ce sunt ai lui Isus.
+
+[v2]
+Numai cei născuți de sus
+Sunt copii ai lui Isus
+Numai cei cu mers frumos
+Sunt copii ai lui Hristos.
+
+[v3]
+Noi dorim să fim mereu
+Fii plăcuți Lui Dumnezeu,
+Ca să fim si jos si sus
+Fericiți lângă Isus.

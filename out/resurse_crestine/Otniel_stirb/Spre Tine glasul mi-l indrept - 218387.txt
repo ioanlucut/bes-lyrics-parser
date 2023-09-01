@@ -1,0 +1,35 @@
+[title]
+Spre tine glasul mi-l indrept {author: {Otniel Stirb}, {rcId: {218387}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Spre Tine glasul mi-l îndrept
+Din lumea plină de suspine
+Căci dorul ce mă arde-n piept
+Te cheamă Doamne și la mine
+
+[c]
+Cu glasul meu spre Tine strig
+Ți-aud azi pașii prin mulțime
+Isuse Fiu a lui David
+Te rog îndură-Te de mine
+
+[v2]
+Credința-mi spune să-ndrăznesc
+Să nu ascult de gloata mare
+Azi trece medicul ceresc
+Cu-al Său balsam de vindecare
+
+[v3]
+Eu nu sunt orb ca Bartimeu
+Și nici bolnavul din pridvoare
+Oprește-Te și-n dreptul meu
+Să văd a Ta minune mare
+
+[v4]
+Cum pot să tac... ? sunt fericit
+Că astăzi Te-ai oprit la mine
+Isuse Fiul lui David
+Eu nu mă mai despart de Tin

@@ -1,0 +1,53 @@
+[title]
+Dumnezeu e dragoste {author: {Nicu Zolezsak}, {rcId: {127961}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Dumnezeu e dragoste
+În inimă, pace e
+Dumnezeu e dragoste
+În inimă, pace e
+
+[c]
+/: Aleluia, Osana
+Dumnezeu e dragostea
+Slava Lui că pururea
+Nu se va schimba :/
+
+[v2]
+Dumnezeu e dragostea
+Viu este în inima mea
+Dumnezeu e dragoste
+Glorie, Aleluia.
+
+[c2]
+/: Aleluia, Osana
+Dumnezeu e dragostea
+Niciodat’ nu L-aș lăsa
+El e dragostea :/
+
+[v3]
+Isus e bucuria mea
+El este nădejdea mea
+Isus e bucuria mea
+El este nădejdea mea.
+
+[c3]
+/: Glorii, Glorii, Osana
+Isus e bucuria mea
+Aleluia Îi voi canta
+Toată viața mea :/
+
+[v4]
+Isus va veni curând
+Să ne ia de pe pământ
+Și de-a pururi vom cânta
+Veci de veci în slava Sa.
+
+[c4]
+/: Glorii, Glorii, Osana
+Dumnezeu e dragostea
+Veci de veci ne-om bucura
+Sus în slava Sa :/

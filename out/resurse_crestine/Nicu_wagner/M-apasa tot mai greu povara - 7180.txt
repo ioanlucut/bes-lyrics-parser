@@ -1,0 +1,37 @@
+[title]
+M-apasa tot mai greu povara {author: {Nicu Wagner}, {rcId: {7180}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+M-apasă tot mai greu povara, și gustul ei e prea amar
+Căci simt în piept, cum suferința aprinde al durerii jar,
+Privesc în zări și în tăcere, aștept să-mi vină un răspuns
+Căci Domne, Tu-mi cunoști durerea, de Tine nu-i nimic ascuns!
+
+[c]
+Oprește, Doamne, încercarea, căci parcă jugul mi-e prea greu
+Smerit te rog revarsă-Ți mila, căci numai Tu-mi ești Dumnezeu.
+La Tine vin în ceasuri grele, Părinte și Ocrotitor
+Când îți simțesc apropierea îmi este jugul mai ușor!
+
+[v2]
+Nu am la Tine nici un merit, și recunosc dreptatea Ta
+Dar în genunchi te rog, ai milă și îți arată dragostea.
+Îmi iartă tot trecutul Doamne, căci nu Ți-a fost Ție plăcut
+Îți mulțumesc pentru răbdarea ce pentru mine ai avut!
+
+[v3]
+Oprește-odată, Tu, furtuna ce sufletu-mi răscolește
+Căci Tu ai fost dintotdeauna, Părintele ce mă iubește.
+Tu nu mă vei lăsa de pradă atacurilor celui rău
+Deși nu-Ți merit izbăvirea și eu sunt un copil al Tău!
+
+[c2]
+Oprește Doamne încercarea, căci parcă jugul mi-e prea greu
+Smerit te rog revarsă-Ți mila, căci numai Tu-mi ești Dumnezeu.
+Apleacă-Ți azi te rog urechea la lăcrimatele-mi cuvinte
+Și de la tronul îndurării, ascultă ruga mea fierbinte
+La Tine vin în ceasuri grele, Părinte și Ocrotitor
+Când îți simțesc apropierea îmi este jugul mai ușor!

@@ -1,0 +1,29 @@
+[title]
+Isus cheama pe copii {author: {Anonim}, {rcId: {7155}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Isus cheamă pe copii,
+Fericiți la El vor fi;
+Îi iubește și pe ei,
+Îngrijindu-i ca pe miei.
+
+[c]
+/: Isus, El cheamă azi
+Pe copii, pe copii!
+Ascultă al Său glas
+O veniți copii! :/
+
+[v2]
+Inimioarele îi dați,
+Lui Isus să vă predați.
+Buzișoarele la fel,
+Să îl laude pe El.
+
+[v3]
+Fapta, vorba, orice gând,
+Nu le risipiți în vânt,
+Ci le dați lui Dumnezeu,
+Numai în serviciul Său.

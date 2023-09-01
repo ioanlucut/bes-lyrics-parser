@@ -1,0 +1,27 @@
+[title]
+Doamne cum sa-ti rasplatesc {author: {Daniel Hartie}, {rcId: {60407}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Doamne cum să-Ți răsplătesc pentru marea-Ți bunătate
+M-ai făcut al Tău copil și m-ai scăpat de la moarte
+Mi-ai iertat al meu păcat și cu sânge m-ai spălat
+Și m-ai ridicat de jos Tu, samaritean milos
+
+[c]
+/: Prieten bun :/ ai fost Isus prieten bun
+/: Prieten bun :/ ești Tu Isus prieten bun
+
+[v2]
+Când am fost mai întristat copleșit sub grea povară
+Ai venit, m-ai mângâiat mi-ai turnat balsam pe rană.
+Când cei dragi m-au părăsit lângă mine ai venit
+Mi-ai vorbit blând și duios Tu samaritean milos
+
+[v3]
+Prieten bun rămâi Isus prieten bun ca și un frate
+Eu aș vrea că să rămân lângă Tine pân’ la moarte
+Și cu Ține-aș vrea să fiu sus în cer o veșnicie,
+Să nu ne mai despărțim prieten bun nicicând de Tine.

@@ -1,0 +1,31 @@
+[title]
+Venit-au valuri in viata mea {author: {Maria Șimon}, {rcId: {209631}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Venit-au valuri în viața mea
+Gata să-mi înece corabia...
+Dar Tu pe mare la mine ai venit,
+Să tacă valurilor ai poruncit!
+
+[c]
+Doar un cuvânt dacă rostești,
+Valurile potolești!
+De Tine ascultă marea, vântul,
+De Tine ascultă tot Pământul!
+Oprește azi orice furtună,
+Mai vrem zile cu vreme bună!
+
+[v2]
+Din valuri pe Tine Te-am chemat
+Fără de speranță și greu încercat,
+Mari talazuri, grele se înălțau,
+Ca n-am nici o scăpare șoapte veneau!
+
+[v3]
+Glasul meu Isuse l-ai ascultat
+Și din valuri grele m-ai ridicat,
+Norii, marea, vântul ai liniștit,
+La glasul Tău furtuna s-a potolit!

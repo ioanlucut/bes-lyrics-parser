@@ -1,0 +1,23 @@
+[title]
+Niciodata nu voi uita {author: {Ilie Neagu}, {rcId: {153098}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Ma închin și te slăvesc cu bucurie
+Dumnezeul meu cel bun și iertător
+Ție vreau să îți slujesc pe vecie
+Sunt fericit, eu îți cânt și te ador.
+
+[c]
+/: Niciodată nu voi uita
+Binele pe care Tu mi l-ai făcut
+Ai iertat al meu greu păcat
+Și ai șters al meu trecut. :/
+
+[v2]
+Cu inima curată vreau mereu să-ți cânt
+Și viața mea cu drag pe-altar să ți-o jertfesc
+Atâta timp cât voi trăi pe-acest pământ
+Până când alergarea o să sfârșesc.

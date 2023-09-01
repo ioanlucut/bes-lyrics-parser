@@ -1,0 +1,29 @@
+[title]
+Astazi s-a nascut hristos {author: {Grup coral Cluj, Napoca}, {rcId: {63071}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Astăzi S-a născut Hristos,
+Mesia, chip luminos;
+Lăudați și cântați
+Și vă bucurați!
+
+[v2]
+Mititel și-nfășățel,
+În scutec de bumbăcel;
+Lăudați și cântați
+Și vă bucurați!
+
+[v3]
+Vântul bate, nu-L răzbate,
+Neaua ninge, nu-L atinge.
+Lăudați și cântați
+Și vă bucurați!
+
+[v4]
+Și de-acum până-n vecie
+Mila Domnului să fie.
+Lăudați și cântați
+Și vă bucurați!

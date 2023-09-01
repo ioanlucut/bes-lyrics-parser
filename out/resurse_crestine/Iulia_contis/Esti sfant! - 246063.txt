@@ -1,0 +1,22 @@
+[title]
+Esti sfant {author: {Iulia Contis}, {rcId: {246063}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Ești sfânt, iar când îmi plec ființa
+În nevăzute rugăciuni,
+Cu drag eu Îți supun voința,
+Căci Tu mai faci astăzi minuni!
+
+[c]
+Ai fost și ești pentru vecie
+Sfântul din cer! În agonie,
+Lacrimi Tu schimbi în bucurie!
+
+[v2]
+Pustiul unor inimi moarte
+Nu va putea nicicând aici
+Să mă despartă de-a Ta carte!
+Din foc Tu inima-mi ridici!

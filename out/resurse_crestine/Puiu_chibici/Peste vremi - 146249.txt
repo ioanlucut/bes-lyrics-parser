@@ -1,0 +1,38 @@
+[title]
+Peste vremi {author: {Puiu Chibici}, {rcId: {146249}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Peste vremi, Tu ești același,
+Domn suprem și neschimbat.
+Dragostea-Ți mă copleșește,
+De-al Tău nume sunt fascinat.
+
+[c]
+Tu ești iubirea mea, Isuse,
+Ești frumusețea mea.
+Ești răsăritul, ești apusul,
+Ca Tine nu-i nimenea!
+Tu ești iubirea mea, Isuse,
+Ești fericirea mea,
+De aceea te voi lăuda!
+
+[v2]
+Fără Tine niciodată
+N-aș putea să mai trăiesc.
+Viața mea Ție-ți dau toată,
+Doar pe Tine te iubesc!
+
+[v3]
+O, ce har să fiu cu Tine
+Zi de zi și ceas de ceas.
+Gloria Ți se cuvine,
+Căci Tu-mi torni ulei în vas.
+
+[v4]
+Tot ce am Îți aparține,
+Ție mare Domnitor.
+Prinț al slăvilor sublime
+Sfânt și tainic Ziditor.

@@ -1,0 +1,35 @@
+[title]
+Pretul {author: {Carmen Prodan}, {rcId: {152901}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+N-aș fi știut, Isuse Doamne,
+Ce mare și puternic ești
+/: De n-aș fi fost în grea-ncercare
+Să văd ce falnic strălucești! :/
+
+[v2]
+N-aș fi-nțeles cât ești de-aproape
+De cel lovit și părăsit,
+/: De n-aș fi fost în greul luptei
+De unde m-am întors rănit.! :/
+
+[v3]
+N-aș fi știut ce e iertarea
+Ce-o dai deplin și minunat
+/: De n-aș fi fost și eu un Petru
+Ce-n clipa grea m-am lepădat! :/
+
+[v4]
+N-aș fi-nțeles pe cel ce plânge
+Și trece azi prin greu necaz,
+/: De n-aș fi fost și eu în viață
+Mereu cu lacrimi pe obraz:! /
+
+[v5]
+Am înțeles din toate-acestea
+Că vrei ca Tine toți să fim,
+/: Chiar dacă prețul este mare,
+Eu știu, se merită deplin! :/

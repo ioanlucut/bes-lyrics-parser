@@ -1,0 +1,28 @@
+[title]
+Astazi vin bunule tata {author: {Voicu Daniel}, {rcId: {5172}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Astăzi vin Bunule Tată
+Și Te rog neîncetat
+Să mă pocăiesc m-ajută
+O, Isus cu-adevărat. :/
+
+[c]
+/: Fă să se cunoască Doamne
+O schimbare-n viața mea
+Fața mea să radieze de iubirea Ta. :/
+
+[v2]
+/: Dă-mi putere ca în toate
+Să îmi țin privirea-n sus
+Ațintită pân’ la moarte
+La Golgota la Isus. :/
+
+[v3]
+/: Fă ca dragostea-Ti Isuse
+Să domnească-n viața mea
+Și-n încercări și-n suferință
+Să-mi dai pacea Ta. :/

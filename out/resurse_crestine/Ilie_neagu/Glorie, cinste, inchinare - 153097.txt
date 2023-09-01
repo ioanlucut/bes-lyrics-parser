@@ -1,0 +1,35 @@
+[title]
+Glorie cinste inchinare {author: {Ilie Neagu}, {rcId: {153097}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+/: Glorie îți cânt, Dumnezeule :/
+/: Glorie îți cânt :/ x3
+Dumnezeule
+
+[v2]
+/: Cinste îți aduc, Dumnezeule :/
+/: Cinste îți aduc :/ x3
+Dumnezeule
+
+[v3]
+/: Cu respect mă-nchin, Dumnezeule :/
+/: Cu respect mă-nchin :/ x3
+Dumnezeule
+
+[v4]
+Glorie îți cânt, Dumnezeule
+Cinste îți aduc, Dumnezeule
+Glorie îți cânt
+Cinste îți aduc
+Cu respect mă-nchin
+Dumnezeule.
+
+[v5]
+Dumnezeu, Tu, cel adevărat
+Prin Cristos m-ai răscumpărat
+Înaintea-Ți mă închin
+Dumnezeule divin
+În veci de veci, Amin.

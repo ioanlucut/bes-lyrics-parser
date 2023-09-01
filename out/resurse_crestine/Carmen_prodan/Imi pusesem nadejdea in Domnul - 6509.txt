@@ -1,0 +1,35 @@
+[title]
+Imi pusesem nadejdea in domnul {author: {Carmen Prodan}, {rcId: {6509}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Îmi pusesem nădejdea în Domnul,
+Și El s-a plecat spre mine;
+Strigătele El mi-a ascultat,
+M-a scos din groapa pieirii.
+
+[c]
+Doamne, Dumnezeul meu,
+Ce multe-s minunile Tale,
+Aș vrea să le pot povesti
+Dar numarul lor e prea mare!
+
+[v2]
+El mi-a pus în gură o cântare nouă
+Să îi cânt mereu în tot locul,
+Mulți au văzut lucrul acesta
+Și s-au încrezut în Domnul.
+
+[v3]
+Rușinați și-nfruntați să rămână
+Toți acei ce vor să-mi ia viața,
+Să dea-napoi și să roșească
+Cei ce-mi doresc pierzarea.
+
+[c2]
+/: Doamne, te voi lăuda,
+Că multe-s minunile Tale!
+Cu toții pe El să-L slăvim,
+Și să-I înăltăm osanale! :/

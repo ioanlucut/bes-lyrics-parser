@@ -1,0 +1,53 @@
+[title]
+Cuvantul tau e hrana mea {author: {Nica Lucian}, {rcId: {6850}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Cuvântul Tău e hrana mea
+Și Duhul Tău e apa mea
+Harul Tău în slăbiciune-i
+Puterea Ta în viața mea
+
+[c]
+/: Hrănește-mă Doamne Isuse
+Și stâmpără Tu setea mea
+Deschide-mi ochii mei Isuse
+Să văd Împărăția Ta :/
+
+[v2]
+Cuvântul Tău e pacea mea
+Și-n Harul Tău e viața mea
+Iar Duhul Tău, balsamul sfânt
+Tămăduire pe pământ
+
+[c2]
+/: Sfințește-mă Doamne Isuse
+Ridică-mă prin Harul Tău
+Deschide-mi azi urechea mea
+S-aud Iubite șoapta Ta :/
+
+[v3]
+Cuvântul Tău e candela
+Ce luminează calea mea
+Și Vântul Sfânt ce-adie lin
+Îmi mângâie al meu suspin
+
+[c3]
+/: Lucrează Doamne azi în mine
+Dă-mi alifia Ta acum
+Ca să ung ochii mei plăpânzi
+Să nu fiu orb, ci să Te văd :/
+
+[v4]
+Cuvântul Tău e minunat
+M-a despărțit de-orice păcat
+Prin Harul Tău am fost salvat
+Prin Sânge Sfânt am înviat
+
+[c4]
+/: Înviorează-mă Isuse
+Deschide ochii mei acum
+Hrănește-mă Doamne Isuse
+Și umple-mă cu Duhul Sfânt :/

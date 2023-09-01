@@ -1,0 +1,29 @@
+[title]
+Veseli ne-am trezit {author: {Nicolae Moldoveanu}, {rcId: {225081}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Veseli ne-am trezit din somn
+și cântăm, și cântăm,
+Pe slăvitul nostru Domn,
+Laudă, să-I dăm, să-I dăm!
+
+[c]
+Laudă cu toți cântăm
+lui Isus, lui Isus!
+Mici și mari să înălțăm,
+veșnic pe Isus!
+
+[v2]
+Veseli noi din zori pornim
+și cântăm, și cântăm
+Domnului, să-L preamărim,
+laudă să-I dăm, să-I dăm.
+
+[v3]
+Veseli, veseli pe pâmânt
+să cântăm, să cântăm
+Dumnezeului Preasfânt
+laudă să-I dăm, să-I dăm,

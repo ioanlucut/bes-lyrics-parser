@@ -1,0 +1,37 @@
+[title]
+Decand tu isuse doamne {author: {Ionel Saran Bochis}, {rcId: {111122}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Decînd Tu Isuse Doamne
+M-ai adus pe a Ta cale
+Eu îți cânt mereu todeauna
+/: Căci decând lumea-m lăsat
+Pe Tine eu Te-am urmat
+Isuse în veci fii lăudat. :/
+
+[c]
+Cu a Ta Iubire Sfîntă
+M-ai zidit pe a Ta stîncă
+Tu ești Dragostea mea toată
+Tu mi-ai adus vindecare
+Și în suflet alinare
+/: În veci Doamne-ți voi cînta :/
+
+[v2]
+Nimic nu mă mai desparte
+Nici durere și nici moarte
+De Tine și de Iubirea Ta
+/: Mi-ai schimbat a mea viața
+Și mi-ai dat încă o speranță
+Că voi fi cu Tine o dată :/
+
+[v3]
+Iești Isuse a mea Iubire
+Tu mi-ai adus Mântuire
+O ce fericit mă simt mereu
+/: Ajutămă cît trăiesc
+Pe Tine să te urmez
+Numele Tău în veci îl Slăvesc :/

@@ -1,0 +1,23 @@
+[title]
+Canta corul ingeresc {author: {Felix Medelsohn Bartholdy}, {rcId: {1874}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Canta corul ingeresc:,, Slava Tatalui ceresc!
+Pace fie pe pamant! ’’ S-a nascut Copilul Sfant.
+Fiul sfant demult promis a venit, de sus trimis.
+/: Canta corul ingeresc:,, Slava Tatalui ceresc’’ :/
+
+[v2]
+Cel din cerul minunat, preamarit si inaltat,
+Pe pamant jos a venit si ca noi trup a primit.
+S-a jertfit, a patimit, chiar si moarte-a suferit,
+/: De pacate ne-a spalat, viata noua El ne-a dat. :/
+
+[v3]
+Totul noi avem in El, Dumnezeu Emanuel;
+Bucuros El vrea sa dea, pacea si iertarea Sa;
+Cerul Sau cel stralucit chiar de El e pregatit
+/: Pentru cei rascumparati si cei binecuvantati. :/

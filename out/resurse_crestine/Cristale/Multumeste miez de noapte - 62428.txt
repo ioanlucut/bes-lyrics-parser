@@ -1,0 +1,41 @@
+[title]
+Multumeste miez de noapte {author: {Cristale}, {rcId: {62428}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mulțumește-n miez de noapte,
+Mulțumește-n zori de zi,
+Nu lăsa să treacă-n grabă,
+Ziua, făr’ a mulțumi.
+Mulțumește la plecare,
+Mulțumește și pe drum,
+Mulțumește, mulțumește,
+Mulțumește chiar și-acum!
+
+[c]
+/: Mulțumește-I totdeauna Domnului,
+Mulțumește-I pentru bunătatea Lui,
+Multumește-I pentru viața ce ți-a dat,
+Mulțumește-I, mulțumește-I ne-ncetat! :/
+
+[v2]
+Mulțumește-n orice vreme,
+Chiar și-atunci când ești grăbit
+Lucrurile-ncep să meargă
+După ce ai mulțumit.
+Mulțumește pentru toate,
+Bune, rele, orice-ar fi,
+Mulțumește, mulțumește,
+Mulțumește-n orice zi!
+
+[v3]
+Mulțumește pentru hrana
+Cea de fiecare zi.
+Pentru viața ce urmează,
+Pentru tot ce vei primi.
+Mulțumește pentru grija
+Ce ți-o poartă pas cu pas,
+Mulțumește, mulțumește,
+Mulțumește-n orice ceas!

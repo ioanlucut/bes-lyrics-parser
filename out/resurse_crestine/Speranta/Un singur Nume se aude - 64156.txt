@@ -1,0 +1,29 @@
+[title]
+Un singur nume se aude {author: {Speranța}, {rcId: {64156}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Un singur Nume se aude
+E nume sfânt rostit de mulți
+/: Se spune c-a venit în lume
+Într-un loc fără renume
+A părăsit cerul și slava
+Și-a luat un chip de om :/
+
+[v2]
+Un singur Nume se aude
+Dar alții parcă Îl hulesc
+/: Ei spun că-I doar un basm în lume
+Și-n sărbătoarea cu renume
+Ei zic că vor să se distreze
+Și atâta-I tot :/
+
+[v3]
+Un singur Nume se aude
+E Mesia cel promis
+/: Creștinii care-n umilință
+Se roagă și cântă cu credință
+Și cu fapte de pocăință
+Aceia îl slujesc :/

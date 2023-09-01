@@ -1,0 +1,40 @@
+[title]
+Veniti sa ne sfintim {author: {Sunny Tranca}, {rcId: {134822}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Veniți să ne sfințim
+Veniți să curațim
+Faptele murdare
+Cu care ne mândrim...
+Veniți să ne plecăm
+Veniți să ne închinăm
+Doar Celui Sfânt
+Slavă să Îi dăm!
+
+[c]
+/: TU EȘTI SFÂNT, SFÂNT!
+TU EȘTI SFÂNT!
+DE TREI ORI SFÂNT!
+DOMN ATOTPUTERNIC
+ÎN CER ȘI PE PĂMÂNT! :/
+/: TU EȘTI SFÂNT, SFÂNT!
+TU EȘTI SFÂNT!
+DE TREI ORI SFÂNT!
+DOMN ATOTPUTERNIC
+ÎN CER ȘI PE PĂMÂNT! :/
+
+[v2]
+Veniți să ingenunchem
+Veniți să ne smerim
+Foc mistuitor este Elohim!
+Veniți să-I mulțumim!
+Veniți să-L Înălțăm!
+Numai pe El să-L glorificăm!
+
+[e]
+/: Gloria, slava
+Și cinstea este a Ta!
+Ție, Isuse, Îți aparține lauda! :/ ×4

@@ -1,0 +1,24 @@
+[title]
+Fericirea {author: {Marius Livanu}, {rcId: {78482}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Fericirea cea mai mare pe pământ
+E să locuiesc o Doamne-n Templul Tău cel sfânt
+N-am găsit în lumea toată loc mai sfânt și mai frumos
+Ca acel în care, Tată, Te cobori aicea jos
+
+[c]
+/: Să privesc și să mă satur Doamne de splendoarea Ta
+Nu-i mai mare fericire lumea să îmi poată da :/
+/: Și să pot o veșnicie, sus în ceruri să pot sta
+Să te-ador, să cânt, să laud Doamne numai slava Ta :
+/:]
+
+[v2]
+Bucuria cea mare pe pământ
+E să laud o Doamne Numele Tău cel sfânt
+[: N-am trăit în viața-ntreagă mai înalte bucurii
+Ca acelea-n care Duhul îmi șoptește că revii

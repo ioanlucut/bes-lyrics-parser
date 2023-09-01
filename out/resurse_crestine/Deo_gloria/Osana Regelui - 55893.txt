@@ -1,0 +1,27 @@
+[title]
+Osana regelui {author: {Deo Gloria.}, {rcId: {55893}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+În oraș s-au adunat mulțimi
+Să vadă mare-mparat venind
+Ramuri de finic au presărat pe drum
+Și I s-au închinat voioși
+”
+Rege-al Regilor și Fiu de Dumnezeu”
+Glasurile lor strigând ”
+Osana” s-au înălțat spre cer.
+
+[c]
+/: Osana, osana, osana Regelui
+Osana, osana, osana Regelui. :/
+
+[v2]
+Cât de mult L-au așteptat și acum îl văd
+De-a lungul drumului venind
+Călărind un măgăruș El vine
+Bucurie mare aducând
+”Rege-al Regilor și Fiu de Dumnezeu”
+Glasurile lor strigând ”Osana” s-au înălțat spre cer.

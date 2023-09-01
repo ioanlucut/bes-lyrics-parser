@@ -1,0 +1,30 @@
+[title]
+Spre portul fericirii din departari albastre {author: {Nicolae Moldoveanu}, {rcId: {242642}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Spre portul fericirii din depărtări albastre,
+Noi pânzele credinței mai larg azi le-am întins,
+/: Ca vântul sfânt să poarte mai sus, mai sus de astre,
+Corabia vieții cu dorul ei nestins. :/
+
+[v2]
+S-o treacă peste valuri și printre stânci ascunse,
+Biruitoare, ’ntreagă, cu sfintele-i comori,
+/: S-ajungă la odihna din ceruri nepătrunse,
+Cu veșnice și pline și-alese sărbători. :/
+
+[v3]
+Și fii Tu, o, lsuse, Cârmaciul ei statornic
+După făgăduința din sfântul Tău Cuvânt,
+/: Să ’nainteze zilnic mai hotărât, mai spornic,
+Păstrând până Ia capăt preasfântul legământ. :/
+
+[v4]
+Și-ajunsă-n portul veșnic al păcii fericite,
+Cu-a ei poveri născute din harul cel slăvit,
+/: Să Ie așeze toate, curate și sfințite,
+La sfinte
+Ie-Ți picioare, Isuse preaiubit. :/

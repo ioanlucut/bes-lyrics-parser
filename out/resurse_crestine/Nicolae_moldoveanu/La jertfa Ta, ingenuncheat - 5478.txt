@@ -1,0 +1,30 @@
+[title]
+La jertfa ta ingenuncheat {author: {Nicolae Moldoveanu}, {rcId: {5478}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+La jertfa Ta, ingenuncheat, o Invat ce e iubirea;
+Invat ca Tu mi-ai castigat, o Prin jertfa, mantuirea.
+
+[c]
+/: Cu al Tau sange preacurat, o Fiinta mi-ai rascumparat,
+Fii binecuvantat! :/
+
+[v2]
+’
+Nainte chiar de vesnicii, o Tu Te-ai gandit la mine;
+Lumina zilei n-o zarii, o C-am fost iubit de Tine.
+
+[c2]
+/: Si de la leagan m-ai iubit, o Har peste har mi-ai daruit.
+De-aceea, fii slavit! :/
+
+[v3]
+Tot ce am eu si tot ce sunt, o Iti datorez doar Tie;
+De-aceea, viata-mi pe pamant, o Vreau, doar a Ta, sa fie.
+
+[c3]
+/: Ma dau cu totu-n slujba Ta, o Iti daruiesc inima mea:
+Fii Tu stapan pe ea! :/

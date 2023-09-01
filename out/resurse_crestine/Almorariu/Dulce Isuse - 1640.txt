@@ -1,0 +1,36 @@
+[title]
+Dulce isuse {author: {Al.Morariu}, {rcId: {1640}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Dulce Isuse, mult Te iubesc,
+Mai mult ca toate, Te prețuiesc;
+La pieptul Tău sfânt
+Pace--am găsit,
+Numai cu Tine sunt fericit!
+
+[c]
+Dulce Isuse, mult Te iubesc,
+Mai mult ca toate Te prețuiesc!
+
+[v2]
+Dulce Isuse, mult Te iubesc,
+În orice clipă eu Te doresc;
+Lumea--i amară, și--n lupta grea
+Alerg la Tine, scăparea mea!
+
+[v3]
+O, Doamne, Tu mă ierți
+Când greșesc,
+Rana o legi când eu mă lovesc;
+Mântuitorul meu mult iubit,
+Cu Tine--n veci știu că sunt unit!
+
+[v4]
+Umple-mă, Doamne,
+Cu Duhul Sfânt,
+Ca să trăiesc prin al Tău Cuvânt;
+Să Te glorific, Isuse--aș vrea
+În viață--n moarte și--n slava Ta!

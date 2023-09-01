@@ -1,0 +1,39 @@
+[title]
+Bucurie {author: {Eldad Kids}, {rcId: {205738}}
+
+[sequence]
+c,v1,v2,c2,c
+
+[c]
+Bucurie, mare bucurie
+Este pe pământ și-n cer
+În Betleem azi din mărire
+S-a născut Emanuel.
+Bucurie, mare bucurie
+Este pe pământ și-n cer
+În Betleem azi din mărire
+S-a născut Emanuel.
+S-a născut Emanuel.
+
+[v1]
+Să cânte „
+Laudă” ′ntreg pământul
+Și să-L slăvim pe Dumnezeu
+Cântați cu toți, vă bucurați
+Și pe Isus veniți să-L lăudați.
+
+[v2]
+El a venit să mântuiască
+Pe cei căzuți, din păcat
+Cântați cu toți, vă bucurați
+Și viața lui Isus să i-o-nchinați.
+
+[c2]
+Glorie, răsună cerul și pământul
+Glorie, îngerii rostesc iar cântul
+Glorie, glorie și slavă
+Lui Dumnezeu ne-nchinăm.
+Glorie, azi să-I cânte orice gură
+Glorie, să-L laude orice făptură
+Glorie, cu toții să stigăm
+Pe pruncul Isus lăudăm.

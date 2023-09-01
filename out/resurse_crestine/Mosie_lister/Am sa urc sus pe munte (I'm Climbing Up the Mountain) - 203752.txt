@@ -1,0 +1,26 @@
+[title]
+Am sa urc sus pe munte (i m climbing up the mountain) {author: {Mosie Lister, Traducere RO}, {rcId: {203752}}
+
+[sequence]
+v1,c,v2,c,s,c
+
+[v1]
+Jos în vale rătăceam trist și-obosit, obosit
+Eram singur și de grijuri mult trudit
+Dar în vale n-aș rămâne nicidecum, nicidecum
+Îmi ridic privirea mea la Isus, la Isus!
+
+[c]
+Da, am să urc deci, sus pe munte, biruind
+Acolo unde temeri n-or mai fi, n-or mai fi
+Voi merge sus pe munte, lângă Domnul, sus pe munte
+Viața nouă s-o trăiesc cu Isus!
+
+[v2]
+Vechea viață de-altădată n-o mai vreau, n-o mai vreau
+Merg cu Isus ocrotit de brațul Său
+Am pornit pe calea nouă, bucuros, bucuros
+Îmi ridic privirea mea la Hristos, la Hristos!
+
+[s]
+Trăiască Domnul și binecuvântată să fie Stânca mea! Înălțat să fie Dumnezeu, Stânca mântuirii mele! 2 Samuel 22:47

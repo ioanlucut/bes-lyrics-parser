@@ -1,0 +1,35 @@
+[title]
+Se sting candelele-n biserici {author: {Anonim}, {rcId: {7241}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Se sting candelele-n Biserici
+Uleiul sfânt l-au risipit
+/: Au ațipit oameni cucernici
+Și-altarul lor s-a prăbușit! :/
+
+[v2]
+Trezește-te astăzi fecioară
+Căci Mirele, te-așteaptă-n prag
+/: Și cântă iar ca-ntâia oară
+Când nimeni nu-ți era mai drag! :/
+
+[v3]
+Dar câte oare din fecioare
+Mai au uleiul sfânt în vas?
+/: Dintre samariteni câți oare
+Între creștini au mai rămas? :/
+
+[v4]
+Nu vă-nșelați fecioare sfinte
+Cu vorbe fără de temei
+/: La glasul sfânt luați aminte
+Nu veți trăi fără ulei! :/
+
+[v5]
+Mai este timp căutați fecioare
+Ulei la cei ce au din plin
+/: Cât este har e și-ndurare
+Vegheați zice Duhul, Amin! :/

@@ -1,0 +1,23 @@
+[title]
+O doamne sfant {author: {Luiza Spiridon}, {rcId: {232767}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Din tot ce-avem pe-acest pamant
+Iubirea-i darul cel mai sfant
+Eterne binecuvantari revarsa Doamne azi din zari
+Cu cei doi vrem ca sa pornesti pasii sa le ocrotesti.
+
+[c]
+O Doamne Sfant, da-le bucurie mereu
+Pe-acest pamant fi-le-alaturi cand le e greu
+Ramai cu pacea ta, le umple inima
+Ca sa cante dragostea.
+
+[v2]
+In fiecare zori de zi
+In ochii lor se va citi
+Iubire cata si-au promis le fie viata dulce vis
+Si spinii pe cale de-or avea poarta-i Doamne-n palma ta.

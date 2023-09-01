@@ -1,0 +1,46 @@
+[title]
+Prin isus {author: {Gabriel Gorcea și prietenii}, {rcId: {112885}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Viață, viață am primit,
+Iubire, din iubire am găsit
+Iertare prin Jertfa din Calvar
+Prin Isus eu am găsit iertare-n dar
+
+[c]
+Numai prin Isus, Numai prin Isus
+Viață am primit
+Numai la Isus, Numai la Isus
+Iubire am găsit
+Numai prin Isus, Numai prin Isus
+Prin Jerfa din Calvar
+Prin Isus eu am primit iertare-n dar
+Numai Isus, numai Isus
+Pacea Lui mi-a dat
+Numai prin El, numai prin El
+Speranță am aflat
+Numai Isus, numai Isus,
+Mi-a șters trecutul murdar
+Prin Isus eu am primit iertare-n dar.
+Numai Isus, numai Isus
+E Turnul de scăpare
+Numai Hristos, numai Hristos
+E ajutor în încercare
+El mi-a dat, El mi-a dat
+Mântuire prin har
+Prin Isus eu am primit iertare-n dar.
+
+[v2]
+Pace din pacea Lui mi-a dat
+Speranță prin El am căpătat
+Mi-a șters trecutul meu murdar
+Prin Isus eu am primit iertare-n dar
+
+[v3]
+E Stâncă, un turn de scăpare
+E-ajutor în vreme de-ncercare
+Mântuire, am prin al lui Har
+Prin Isus eu am primit iertare-n dar.

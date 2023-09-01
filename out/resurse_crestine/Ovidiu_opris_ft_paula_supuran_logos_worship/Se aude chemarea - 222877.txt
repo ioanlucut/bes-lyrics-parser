@@ -1,0 +1,55 @@
+[title]
+Se aude chemarea {author: {Ovidiu Opris ft. Paula Supuran, Logos Worship}, {rcId: {222877}}
+
+[sequence]
+v1,c,v2,c2,e,v3,c3,e
+
+[v1]
+Se aude chemarea, glasul de Pastor
+Strange oile-aproape, poarta grija lor
+E o turma aleasa, fara de cusur,
+Miei pentru jertfa de-adus
+Si ceasul jertfei cand venea
+Mielul bland El Il infasa
+Si pe brate Il purta inspre altar
+Spunand usor:
+
+[c]
+Acesta-i Mielul de jertfit, fara pata
+Acesta-i Mielul, va salva lumea toata
+Pretul e platit, s-a coborat ca Fiu smerit
+Acesta-i Mielul de jertfit
+
+[v2]
+Se aude chemarea, glasul mamei bland
+In noaptea cea sfanta, Pruncul leganand
+Nu era doar un copil; Fiu de Dumnezeu,
+Prin Duhul Sfant S-a intrupat
+Si-atunci cand Isus S-a nascut
+Mama-n brate L-a tinut
+L-a-nfasat cu drag stiind ce va urma,
+Bland ii canta:
+
+[c2]
+Acesta-i Cel trimis din Cer, Il adoram
+E Imparat, e Rege-n veci, Lui ne-nchinam
+El a venit la noi, si dragostea si-a dovedit
+Acesta-i Cel din cer venit, El e Domn.
+
+[e]
+Gloria! Gloria! Gloria! Cant Gloria! In excelsis Deo!
+Gloria! Gloria! Gloria! Cant Gloria! In excelsis Deo!
+Gloria! Gloria! Gloria! Cant Gloria! In excelsis Deo!
+Gloria! Gloria! Gloria! Cant Gloria! In excelsis Deo!
+
+[v3]
+Se aude chemarea, unui Salvator
+Pe-ai Sai umeri El poarta, vina tuturor
+Pentru noi s-a facut blestem, viata Si-a jertfit
+Caci stia: ceasul a venit
+
+[c3]
+Acesta-i Mielul injunghiat fara pata
+Acesta-i Mielul, a platit vina toata
+El moartea a invins, victoria e a Lui
+O, Aleluia Regelui!

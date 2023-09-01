@@ -1,0 +1,42 @@
+[title]
+La inceput {author: {Pavel Mariana, Florica}, {rcId: {6550}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+La început era Cuvântul,
+Era Cu Dumnezeu.
+La început era Cuvântul
+Era chiar Dumnezeu.
+
+[c]
+O, vino,
+Cuvânt
+Și-n inima mea
+Fă-mi viața un imn sfânt
+Spre Lauda Ta!
+
+[v2]
+Prin El au fost create toate,
+Nimic nu-I fără El;
+Sunt toate-așa de minunate
+Și-l preamăresc pe El.
+
+[v3]
+În El era izvorul vieții,
+Al vieții orișicui
+Cum e în zorii dimineții
+Lumina soarelui.
+
+[v4]
+Lumina vieții luminează
+În orice bezne reci;
+Ea este minunata rază
+Ce biruiește-n veci.
+
+[v5]
+Lumina e adevărată,
+Trezește pe-orice fiu;
+Îi dă o inima curată,
+Rămâne veșnic viu.

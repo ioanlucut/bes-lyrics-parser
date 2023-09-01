@@ -1,0 +1,35 @@
+[title]
+Calatorul {author: {Speranța}, {rcId: {111403}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Străinule, ce-alergi așa grăbit
+Ești atât de obosit
+Și tot aduni, aduni mereu
+Lucruri în desagul tău
+
+[c]
+O, călător, te gândește
+La ceea ce îți folosește!
+Ce strângi în traista vieții tale ?
+Comori de veci, sau lucruri pieritoare ?
+
+[v2]
+Lumea te-mbie să iei tot ce vrei
+Ieftine sunt lucrurile ei
+Și deodată ajungi greoi,
+Iar în desegă ai numai gunoi
+
+[v3]
+Ești chemat s-aduni
+Doar lucruri bune
+Cuvânt, post și rugăciune
+Astfel vei locui cu Isus în veșnicii
+
+[e]
+Aceasta-ți poate da valoare
+Putere să stai în picioare
+În fața Marelui Creator
+Gândește-te, străine, călător

@@ -1,0 +1,41 @@
+[title]
+Cine crede are vindecare {author: {Daniel Hartie}, {rcId: {212993}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cine crede are vindecare
+Numele Isus e-un nume mare
+/: Nu e boală foarte grea
+Sa n-o poată vindeca
+Pentru cel ce crede-n Mâna Sa :/
+
+[c]
+Vino frate cu-al tău greu
+Strigă azi la Dumnezeu
+Și-ți trimite ajutorul Său
+Nu mai fii descurajat
+Dumnezeu nu s-a schimbat
+Crede, și vei fii azi vindecat!
+
+[v2]
+Să strigăm cu lacrimi și suspine
+Să ne-aducă-n grabă izbăvire
+/: Brațul Său nu s-a scurtat
+E același ne-necetat
+Pentru slujitorul încercat :/
+
+[v3]
+Bolile-s atât de complicate
+Numai Domnul poate să ne scape
+/: De am crede pe deplin
+Am simții al Său alin
+Și-am striga din inimă Amin! :/
+
+[v4]
+Prin Isus avem tămăduire
+Și izvorul cel de mântuire
+/: Un alt Nume nu-i sub cer
+Mare, Sfânt și bun ca El
+Numele Isus, Emanuel :/

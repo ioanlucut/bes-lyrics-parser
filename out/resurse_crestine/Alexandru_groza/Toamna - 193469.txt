@@ -1,0 +1,26 @@
+[title]
+Toamna {author: {Alexandru Groza}, {rcId: {193469}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Toamna a venit și mi-a dăruit
+Roade minunate, an îmbelșugat
+Dumnezeu ne-a dat, grijă ne-a purtat
+Ca noi să avem dragoste de El!
+
+[c]
+Domnul este bun, grijă ne-a purtat
+El ne-a săturat și la timp ne-a dat
+Haideți să-L slăvim, Lui să-I mulțumim
+De rodul divin și....
+
+[v2]
+Toamna a venit și ne-a dăruit
+Roade minunate, an îmbelșugat
+Pentru bunătăți ce nu s-au sfârșit
+Te slăvim, o, Doamne, Ție-Ți mulțumim!
+
+[e]
+Domnul, Păstorul cel bun, ți-a ieșit în drum: DA!

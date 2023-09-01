@@ -1,0 +1,26 @@
+[title]
+Isus este domn pe el il inalt {author: {Anonim}, {rcId: {3848}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Isus este Domn pe El îl înalț
+Să-i cântăm un imn de slavă
+/: Isus este Domn
+Să-i cântăm un imn de slavă :/
+
+[c]
+/: Aleluia :/ x6
+
+[v2]
+Isus m-a salvat de al meu păcat
+Să-i cântăm un imn de slavă
+/: Isus m-a salvat
+Să-i cântăm un imn de slavă :/
+
+[v3]
+Isus va veni, și ne va răpi
+Ca să fim cu el în slavă
+/: Isus va veni
+Ca să fim cu El în slavă :/

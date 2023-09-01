@@ -1,0 +1,42 @@
+[title]
+Bucuria mea desfatarea mea {author: {Nicolae Moldoveanu}, {rcId: {222577}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Pregătește-mi Tu Isuse
+Inima neîncetat
+Să se desfăteze-n Tine
+Și-n Cuvântul Tău curat!
+
+[c]
+Bucuria mea, desfătarea mea
+Tu să-mi fii Isuse
+Fie noaptea grea, fie ziua rea
+Tu să-mi fii, tu să-mi fii
+Tu să-mi fii Isuse, desfătarea mea!
+
+[v2]
+Să-mi aprinzi într-una focul
+Dorului să Te ascult,
+Și iubirea mea să ardă,
+Pentru Tine, tot mai mult!
+
+[v3]
+Să nu-mi mai găsesc plăcerea
+În nimic de pe pămant
+Și picioarele să-mi țină
+Numai drumul Tău cel sfânt!
+
+[v4]
+Bucuria vieții mele
+Tu să-mi fii necontenit!
+Felul Tău întreg în mine
+Să-L arăt mai deslușit!
+
+[v5]
+Pregătește-mi Tu ființa
+De cu zori până-n apus
+Să-și găsească desfătarea
+Numa-n Tine, drag Isus!

@@ -1,0 +1,36 @@
+[title]
+Fie peste casa aceasta {author: {Anonim}, {rcId: {208180}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Fie peste casa aceasta,
+Doamne sfantu- ti nor,
+Slava ta sa o umbreasca
+Ca si pe Tabor
+/: Tu soare sfânt, sa strălucești
+Aici zi de zi
+Si casa acesta s-o sfințești
+Pana- vesnicii :/
+
+[v2]
+Ca si Solomon odata-n
+Rugaciunea sa,
+Te rugam si noi scump tata
+Astazi tot asa
+/: Vrem binecuvantarea Ta
+Sa o lasi mereu
+Peste cetatea acesta,
+Doamne Dumnezeu :/
+
+[v3]
+Fa aici o scaldatoare
+Si un sfant pridvor
+Un camin pentru oricare
+Limba sau popor.
+/: Fa Doamne aici un colt de rai
+Un ceresc popas,
+Si sub privirea ta sa ai
+Doamne acest locas :/
+.

@@ -1,0 +1,37 @@
+[title]
+Asta inseamna eu te iubesc {author: {Beni Lazau}, {rcId: {137581}}
+
+[sequence]
+v1,c,v2,c2,v3,c2
+
+[v1]
+Asta înseamnă Eu te iubesc,
+M-am jertfit pentru tine,
+Că tu să trăiești.
+N-am suportat să te văd apăsat
+De păcatul murdar condamnat.
+
+[c]
+Piroanele-n mâini le-am simțit,
+Cununa de spini m-apăsa,
+Dar dragostea Mea pentru tin’
+A vrut ca azi tu să fii iertat.
+
+[v2]
+Asta înseamnă, Doamne, eu Te iubesc,
+Te-ai jertfit pentru mine,
+Că eu să trăiesc.
+N-ai suportat să mă vezi apăsat
+De păcatul murdar, condamnat.
+
+[c2]
+Azi eu Îți dau inima
+Și vreau Tu să fii Domn în ea.
+Nu mai vreau eu să trăiesc,
+Ci Tu în mine să trăiești.
+
+[v3]
+Isus te cheamă, nu-L refuza!
+Dă-i azi inima Ta. Doar El o poate schimba.
+Nu uita scopul pentru care-a murit:
+Să trăiești și să fii mântuit.

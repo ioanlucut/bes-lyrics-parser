@@ -1,0 +1,35 @@
+[title]
+E viu al meu mantuitor {author: {George C.Stebbins}, {rcId: {1894}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+E viu al meu Mantuitor!
+O stiu si vesnic Il ador.
+Cununa-n cer mi-a pregatit,
+Prin care fi-voi rasplatit.
+
+[c]
+Si lumea de ma va uri,
+Raman tot in credinta mea,
+/: Ca doar putin astept aici:
+Isus la El ma va chema :/
+
+[v2]
+E viu al meu Stapan ceresc
+Prin invierea Lui traiesc.
+Caci viata noua El mi-a dat
+Prin harul Sau imbelsugat.
+
+[v3]
+E viu al meu iubit Pastor.
+Si glasul Sau mangaietor
+Ma-nvioreaza ne-ncetat
+Prin Duhul binecuvantat.
+
+[v4]
+Stiu ca-ntr-o zi va reveni
+Si-n cer la El ma va sui,
+Cand voi zbura pe-al slavei nor
+La invierea sfintilor.

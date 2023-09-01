@@ -1,0 +1,29 @@
+[title]
+Cu o credinta eu am ales {author: {Alexandru Groza}, {rcId: {113216}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cu o credință eu am ales
+Un drum ce duce în ceruri de veci
+Într-o credință eu mi-am găsit
+Mântuitorul meu.
+
+[c]
+/: Credința-n Domnul meu, Isus
+E-o prețuire de nespus
+Cuvântul Lui m-a luminat
+Cu Dumnezeu m-a împăcat :/
+
+[v2]
+În Cartea Vieții e numele meu
+Și-n veșnicie voi fi și eu
+Mântuitorul meu personal
+Salvare El mi-a dat
+
+[v3]
+Cu haină albă m-a îmbrăcat
+Și în Hristos eu m-am botezat
+C-o viață nouă eu am ales
+De azi și până în veci

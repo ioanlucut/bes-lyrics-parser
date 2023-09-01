@@ -1,0 +1,19 @@
+[title]
+Numele domnului {author: {Anonim}, {rcId: {4082}}
+
+[sequence]
+c,v1,c
+
+[c]
+/: Numele Domnului e
+Un turn tare
+Cel credincios caută
+Adăpost în El :/
+
+[v1]
+Doamne Ție noi ne-nchinăm
+Doamne Numele-Ți lăudăm, da
+Numele Tău pentru noi e adevăr
+Când încercări ne copleșesc
+Doamne Tu ne izbăvești, da
+Numele Tău pentru noi e adăpost.

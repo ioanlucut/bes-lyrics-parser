@@ -1,0 +1,31 @@
+[title]
+Aud pasii tai {author: {Adi Gliga}, {rcId: {168969}}
+
+[sequence]
+v1,c,v2,c2,e
+
+[v1]
+Aud, aud pașii Tăi aproape de mine.
+Nu vreau, nu vreau să plec
+Doamne de lângă Tine!
+
+[c]
+Sunt fericit și sunt iubit
+Când Te privesc.
+Mă înalț spre Tine tot mai mult
+Și îmi doresc:
+
+[v2]
+S-aud, s-aud pașii Tăi
+Când vii înspre mine.
+Nu e un loc, un loc mai bun
+Decât lângă Tine!
+
+[c2]
+Sunt fericit și sunt iubit
+Când Te privesc.
+Mă înalț spre Tine tot mai mult
+Și Te iubesc!
+
+[e]
+Te-aud, Te-aud!

@@ -1,0 +1,32 @@
+[title]
+Hristos din morti a inviat {author: {Anonim}, {rcId: {59135}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Hristos, din morți, a înviat,
+Și Slava Sa a triumfat!
+Tot universu’ a exclamat,
+Isus Hristos a înviat!
+
+[c]
+/: El a-nviat :/
+Hristos din morti a inviat!
+
+[v2]
+Pe lemn, fost crucificat,
+El Dragostea Și-a arătat,
+Iar Dumnezeu, a demonstrat,
+Că planul Lui e minunat.
+
+[v3]
+Ce glorie,
+El a-nviat!
+Și-n suflet ne-a răscumparat.
+Cântatați cu noi, slăviți pe El,
+Căci El e veșnic Dumnezeu!
+
+[e]
+Hristos, din morți a înviat!
+El a-nviat, cu-adevarat!

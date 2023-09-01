@@ -1,0 +1,29 @@
+[title]
+Zarul de pe mormant s-a rupt {author: {Anonim}, {rcId: {108423}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Zarul de pe mormânt s-a rupt
+Sfârșitu-s-a lupta cea grea,
+Moarte puterea-ți frântă e
+A vieții e-nvingerea.
+
+[c]
+Laudă, laudă a-nviat Isus,
+A-nviat, a-nviat, a-nviat
+Domnul nostru a-nviat
+Aleluia, Aleluia.
+
+[v2]
+Noi prin Adam raiul pierdeam,
+Prin Isus îl dobândim iar,
+Prin Adam blestemați eram,
+Isus vorbește despre har.
+
+[v3]
+Bine este că știm asta,
+De moarte nu avem frică
+În Isus noi dacă trăim,
+Avem viață veșnică.

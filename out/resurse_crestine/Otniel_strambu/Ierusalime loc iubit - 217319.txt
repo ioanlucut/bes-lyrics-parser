@@ -1,0 +1,35 @@
+[title]
+Ierusalime loc iubit {author: {Otniel Strâmbu}, {rcId: {217319}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ierusalime loc iubit
+Mi-e dor, mi-e dor de Tine
+Spre Tine-am plâns căci mi-am dorit
+Prin lumea cu suspine.
+
+[c]
+/: Ești locul fericit, cum n-am mai întâlnit
+Aici, în lume niciodat’
+Isuse Preaiubit, cu drag Tu l-ai gătit
+Să pot și eu în el intra :/
+
+[v2]
+Ierusalime, te ador
+Tu ne ești mama noastră
+Spre tine-odată vreau să zbor
+Mai sus de bolta-lbastră.
+
+[v3]
+Ierusalime sunt pribeag
+O vreme-aici prin lume
+Dar în curând în al tău prag
+Cu lacrimi îți voi spune:
+
+[v4]
+Ierusalime te aștept
+Și cât va mai fi oare?
+Căci vreau să cânt in sânul tău
+La marea sarbatoare.

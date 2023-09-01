@@ -1,0 +1,35 @@
+[title]
+M-am saturat de lumea cu necazuri {author: {Nicolae Moldoveanu}, {rcId: {5387}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+M-am săturat de lumea cu necazuri...
+Te chem să mă ajuți să îmi petrec
+Ce-a mai ramas din ale ei răgazuri,
+Căci zilele așa de iute trec!...
+
+[c]
+Tot ce doresc acuma, Doamne sfinte,
+E să Te-apleci, să pot să-Ți spun
+C-atâta vreau: de-acum, mereu ’nainte:
+Să-mi fii Prietenul meu bun...
+
+[v2]
+Mereu alături, pe a mea cărare,
+Voi spune deșirat amaru-ntreg,
+Iar când veni-vor zile cu furtune,
+Pe drumul Tău, ’nainte o să merg.
+
+[v3]
+Nu-mi mai pun încrederea în oameni,
+Căci omu-i trecător și schimbător,
+Iar gura mea n-a lauda pe nimeni
+Decât pe Tine, bunul Salvator!
+
+[v4]
+Doresc să Te slujesc cu dăruire
+Și-apoi, cu Tine-n veci, să moștenesc!
+Tu vei domni, cu mare strălucire.
+Slăvit să fii, Mântuitor ceresc!

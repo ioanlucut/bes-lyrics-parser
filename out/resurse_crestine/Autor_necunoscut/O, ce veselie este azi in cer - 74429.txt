@@ -1,0 +1,53 @@
+[title]
+O ce veselie este azi in cer {author: {Anonim}, {rcId: {74429}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+O, ce veselie este azi în cer
+Pentru fiul ce s-a pocăit.
+Venind, Tatăl lui întinde brațul Său,
+Sărutând pe fiul rătăcit!
+
+[c]
+O, ce veselie cerească,
+Sună harpa, îngerii cântă!
+O ce veselie este azi în cer,
+Pentru fiul ce s-a pocăit.
+
+[v2]
+Veselie este că din depărtări,
+Cel mort în păcat a revenit;
+Pe care Satana mult l-a chinuit,
+Lângă Isus este fericit.
+
+[c2]
+O, ce veselie cerească,
+Sună harpa, îngerii cântă!
+Veselie este că din depărtări,
+Cel mort în păcat a revenit!
+
+[v3]
+O, ce veselie, masa pregătiți,
+Și tăiați vițelul îngrășat.
+Un inel în deget, haina pregătiți,
+Cu sandale iar l-au încălțat.
+
+[c3]
+O, ce veselie cerească,
+Sună harpa, îngerii cântă!
+O ce veselie, masa pregătiți,
+Și tăiați vițelul îngrășat.
+
+[v4]
+O, ce veselie este azi în cer
+Pentru omul ce s-a pocăit.
+Tatăl îl primește, vina i-a iertat,
+Prin credință azi e mântuit.
+
+[c4]
+O, ce veselie cerească,
+Sună harpa, îngerii cântă!
+O ce veselie este azi în cer
+Pentru fiul ce s-a pocăit.

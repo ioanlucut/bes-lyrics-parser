@@ -1,0 +1,23 @@
+[title]
+Sa rasune un cant {author: {Bethany Praise Band}, {rcId: {140217}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Pe Pământ se arată slava Ta neschimbată
+/: Nu e nimeni cum ești Tu :/
+Munți înalți și popoare azi Îți stau la picioare,
+/: Nu e nimeni cum ești Tu :/
+
+[c]
+Să răsune-un cânt peste întreg Pământ,
+Isus, Regele-a înviat!
+Vom striga mereu pentru Dumnezeu toată lauda!
+
+[v2]
+/: Peste noi luminează :/
+Slava Numelui Tău sfânt va domni pe întreg Pământ.
+
+[e]
+Mereu, Doamne, Îți voi cânta!

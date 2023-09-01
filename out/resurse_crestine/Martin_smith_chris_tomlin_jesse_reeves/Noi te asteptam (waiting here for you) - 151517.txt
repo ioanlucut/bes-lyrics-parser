@@ -1,0 +1,28 @@
+[title]
+Noi te asteptam (waiting here for you) {author: {Martin Smith, Chris Tomlin, Jesse Reeves}, {rcId: {151517}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Știu credința mută munții,
+Vrem să îi mutăm
+Venim cu umilință
+Pe Tine te-adorăm
+Noi te așteptăm
+Tu ești creatorul lumii
+Îmi știi inima
+Ești Salvatorul nostru
+Simțim iubirea Ta
+
+[c]
+/: Noi te așteptăm
+Mâinile ridicăm, spre cer
+Doar pe Tin’, Te-adorăm
+Cântând, Aleluia :/ (3x)
+
+[v2]
+Tu ești tot ce ai promis,
+Credincios, măreț și bun
+Ne dorim a Ta pezență
+Tot ce vrem ești Tu!

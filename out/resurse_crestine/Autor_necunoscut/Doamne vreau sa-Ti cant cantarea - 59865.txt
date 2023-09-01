@@ -1,0 +1,35 @@
+[title]
+Doamne vreau sa-ti cant cantarea {author: {Anonim}, {rcId: {59865}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Doamne vreau să-Ți cânt cântarea
+Ce-o trăiesc și simt și eu,
+Vreau să pui Tu Duhul Slavei
+Când rostesc Sfânt Numele Tău.
+
+[c]
+/: Cânt cântarea ce-o trăiesc
+Cânt prin harul ce-l primesc,
+Și de nu îți cânt așa,
+Stau și plâng la crucea Ta! :/
+
+[v2]
+Doamne dă-mi pe buze versul
+Potrivit cu-a mea măsură,
+Ca să pot să descriu cerul
+Ce-i în mine nu-n natură!
+
+[v3]
+Cât de fals răsună versul
+Ce îl cânți melodios
+Folosindu-ți tehnic glasul
+Și nu e prezent Hristos!
+
+[v4]
+Vreau să cânt Isuse Doamne
+Tot ce simt și ce gândesc
+Și de nu se potrivește
+Mă smeresc, mă pocăiesc!

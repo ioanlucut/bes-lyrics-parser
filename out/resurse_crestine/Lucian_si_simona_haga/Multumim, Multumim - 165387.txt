@@ -1,0 +1,23 @@
+[title]
+Multumim multumim {author: {Lucian si Simona Haga}, {rcId: {165387}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+O Doamne sfant, azi la altar, parinti au pasit sfiosi,
+Un prunc le-ai daruit in dar, sunt fericiti si bucurosi.
+Ti-l inchinam prin harul Tau, revarsa-ti astazi mila Ta,
+Si binecuvinteaza-l Tu, cum nimeni altul n-ar putea.
+
+[c]
+% Multumim, Multumim, del tine Doamne il primim,
+El e binecuvintarea Ta, peste el revarsa-ti dragostea.%
+% Multumim, Multumim, del tine Doamne il primim,
+El e binecuvintarea Ta, peste el revarsa-ti dragostea.%
+
+[v2]
+Noi rostim azi peste el, binecuvintarea Ta,
+El sa-ti fie slujitor, lucrator in via Ta.
+Sa-i iubeasca pe parinti, si sa-i faca fericiti,
+Dar mai mult pe Dumnezeu, sa se increada in El mereu.

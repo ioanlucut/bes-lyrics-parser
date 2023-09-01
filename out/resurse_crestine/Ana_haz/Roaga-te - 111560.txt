@@ -1,0 +1,67 @@
+[title]
+Roaga-te {author: {Ana Haz}, {rcId: {111560}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+În zori spune raza blândă
+Roagă-te,
+Ia din Cer putere, cântă,
+Roagă-te,
+Cântă-n tril privighetoarea
+Roagă-te,
+Ține cu Isus cărarea,
+Roagă-te.
+
+[c]
+Deschide fereastra să intre Isus,
+Mâinile tale ridică-le sus,
+Te roagă, te roagă la timp și ne la timp,
+El dă și nu cere plata în schimb,
+El dă și nu cere plata în schimb.
+Privește spre Noul Ierusalim,
+Acolo-ncurând ne întâlnim,
+Mâinile tale ridică-le sus,
+Te roagă, te roagă, că vine Isus,
+Te roagă, te roagă, să vină Isus.
+
+[v2]
+Ziua în amiaza mare
+Roagă-te,
+Cu fața plină de sudoare
+Roagă-te,
+Când povara e prea grea
+Roagă-te,
+Isus te va ajuta,
+Roagă-te.
+
+[v3]
+Îți șoptește vântul seara
+Roagă-te,
+Lui Dumnezeu cere-I iertarea,
+Roagă-te,
+Brațul Lui iar te alintă,
+Roagă-te,
+Să adormi în Pace Sfântă,
+Roagă-te.
+
+[v4]
+Ești bolnav, nu te mai teme,
+Roagă-te,
+Leac nu este pentru tine,
+Roagă-te,
+Așa cum nu te-ai mai rugat,
+Roagă-te,
+De Isus să fii vindecat,
+Roagă-te.
+
+[v5]
+Roagă-te ca Daniel,
+Roagă-te,
+Fă-ți un obicei ca el,
+Roagă-te,
+Vino de trei ori pe zi
+Roagă-te,
+Plăcut Lui Dumnezeu să-I fii,
+Roagă-te.

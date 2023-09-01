@@ -1,0 +1,29 @@
+[title]
+Te laud {author: {Miron Cornel}, {rcId: {187961}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Te laud Dumnezeul meu dis de dimineata
+Atunci cand ma trezesc din somnul meu
+Iti multumesc o Domnul meu ca mi-ai dat viata
+Isuse pentru toate te slavesc
+
+[c]
+Toata viata mea nu voi inceta
+A te lauda pe tine Domnul meu
+Slava iti voi da te voi binecuvanta
+Doamne tu esti fericirea mea
+
+[v2]
+Te laud Dumnezeul meu ziua la amiaza
+Tu hrana, din belsug imi daruiesti
+Iti multumesc o Domnul meu pentru sanatate
+Isuse pentru toate te slavesc
+
+[v3]
+Te laud Dumnezeul meu noaptea cand se lasa
+Eu stiu odihna, pace-mi daruiesti
+Iti multumesc o Domnul meu ca mi-ai dat speranta
+Isuse pentru toate te slavesc.

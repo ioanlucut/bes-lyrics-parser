@@ -1,0 +1,25 @@
+[title]
+Aleluia lui isus {author: {Speranța}, {rcId: {110998}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: Numele Celui care domnește,
+Domnul păcii este Isus! :/
+
+[c]
+Aleluia, aleluia!
+Aleluia, Aleluia lui Isus!
+
+[v2]
+/: Numele Celui care ne iartă,
+Mântuitor este Isus!
+
+[v3]
+/: Numele Celui care trăiește
+Viața noastră este Isus! :/
+
+[v4]
+/: Numele Celui care câștigă
+Biruința este Isus! :/

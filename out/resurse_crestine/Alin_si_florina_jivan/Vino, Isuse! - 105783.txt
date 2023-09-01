@@ -1,0 +1,25 @@
+[title]
+Vino isuse {author: {Alin și Florina Jivan}, {rcId: {105783}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Mă lupt cu durerea din inima mea
+Mă chinuie dorul de a Te vedea
+Aștept mângâierea ce doar Tu o dai
+O, vino, Isuse, cu mine să stai!
+
+[c]
+/: Hai, vino, Isuse, în inima mea!
+Hai, vino, în viața mea,
+Isuse iubit aș vrea! :/
+
+[v2]
+Privesc către ceruri genunchii-mi aplec
+Înalț către Tine tot dorul din piept
+Ascult vocea-Ți caldă, caut susur blând
+În zbor porumbelul coboară Duh Sfânt.
+
+[e]
+/: Eu aș vrea să vii în viața mea :/ x4

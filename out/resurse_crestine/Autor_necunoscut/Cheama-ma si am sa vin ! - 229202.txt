@@ -1,0 +1,35 @@
+[title]
+Cheama-ma si am sa vin {author: {Anonimul}, {rcId: {229202}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Eu nu te las orice ar fi.
+Cu tine eu mereu voi fi,
+Oricât ar fi lupta de grea.
+Eu ti-am promis, nu te voi lăsa
+
+[c]
+Cheamă-mă și am să vin
+Durerea ta să îți alin
+Strigă -ma și voi auzi
+Și din necaz te voi izbăvi :/
+
+[v2]
+Eu mereu sunt langa tine
+Brațul meu pe el te ține
+Nu ești singur niciodată
+Ești mereu cu al tău Tată
+
+[v3]
+Nu te teme, căci eu te păzesc
+Picioarele de cădere eu le feresc
+Chiar de necaz vei avea
+Eu vin in ajutor cu scăparea
+
+[v4]
+Nădejdea ta să fie neclintită
+Casa pe stâncă zidită
+Nici un șuvoi nu o va dărâma
+Căci eu veghez peste casa ta

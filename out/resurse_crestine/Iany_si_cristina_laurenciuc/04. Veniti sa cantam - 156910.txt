@@ -1,0 +1,29 @@
+[title]
+Veniti sa cantam {author: {Iany și Cristina Laurenciuc}, {rcId: {156910}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Veniți să cântam un cânt de bucurie,
+Un Prunc în Betleem ne-a adus mântuire!
+Copilul mic din iesle nu-i un Copil oricare,
+E Fiul lui Dumnezeu, El nu are asemănare!
+
+[c]
+El merită-nchinarea, cinstea, ascultarea!
+Ne-a iubit venind jos pe Pământ.
+Cântări de bucurie, cântări de mulțumire
+Să-I aducem Celui ce e Sfânt!
+
+[v2]
+O stea în Israel pe cer strălucește;
+Hristos, Emanuel, prin har ne mântuiește!
+Ce har măreț, nespus! În bezna cu păcate
+A coborât Isus, Lumină și Dreptate!
+
+[v3]
+Veniți să cântam un cânt de biruință!
+El merită să-I dăm cinste, recunoștință!
+O, Betleem din Iuda trăiește bucuria,
+În tine S-a născut Isus Hristos, Mesia!

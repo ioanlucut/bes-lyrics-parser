@@ -1,0 +1,27 @@
+[title]
+Tine-ma isuse tine-ma te rog {author: {Ionel Saran}, {rcId: {128255}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Ține-mă, Isuse! Ține-mă, Te rog!
+De mână mă ține,
+Nu mă lasa de loc!
+Tu să-mi întinzi a Ta mână
+Când lovit sunt de furtună
+Și nu pot durerea spune!
+
+[c]
+/: Orice valuri de vin
+Isus e cu mine!
+Da, oricâte vin,
+Isus mă mângâie! :/
+
+[v2]
+Ține-mă, Isuse! Ține-mă, Te rog!
+Ca să-Ți pot urma
+Cu totu-n slujba Ta!
+Și Îți cânt, Doamne, așa
+Din toată inima mea,
+Azi și mâine, toată viața mea!

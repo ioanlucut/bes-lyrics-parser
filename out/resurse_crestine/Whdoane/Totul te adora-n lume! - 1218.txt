@@ -1,0 +1,35 @@
+[title]
+Totul te adora-n lume {author: {W.H.Doane}, {rcId: {1218}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Totul Te adoră-n lume,
+Doamne mare, Doamne sfânt!
+Proslăvindu--Ți al Tău Nume
+Sus în cer și pe pământ.
+
+[c]
+Te ador, Te ador
+Scumpul meu Mântuitor!
+Te ador, Te ador
+Scumpul meu Mântuitor!
+
+[v2]
+Soare, lună, mii de stele
+Din imense depărtări
+Slava Ta o spun și ele
+Prin lucrarea lor din zări.
+
+[v3]
+Pretutindeni dau de știre
+Ale Tale fapte mari,
+Lucruri ce trec peste fire,
+Glorioase, bune, tari
+
+[v4]
+Ești măreț și în furtună,
+Și în susur de izvor,
+Te vestește--ntreaga fire
+Ca Stăpân și Creator!

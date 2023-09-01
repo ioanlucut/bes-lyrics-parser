@@ -1,0 +1,48 @@
+[title]
+Sunt fericit isus m-a mantuit / eu merg cu isus (i m so glad/walking with the king) {author: {American Traditional, Traducere RO}, {rcId: {181376}}
+
+[sequence]
+c,v1,v2,c2,v3,c2,v4,c2,s,c2
+
+[c]
+Sunt fericit, Isus m-a mântuit
+Sunt fericit, Isus m-a mântuit
+Sunt fericit, Isus m-a mântuit
+Îi cânt Glorie, Aleluia, Isus m-a salvat!
+
+[v1]
+Când durerea m-apăsa, Isus m-a salvat
+Când furtuna mă lovea, Isus m-a scăpat
+Când putere nu aveam, El m-a ajutat
+Îi cânt Glorie, Aleluia, Isua m-a salvat!
+
+[v2]
+Am fost căzut, dar El m-a ridicat
+Am fost căzut, dar Isus m-a salvat
+Am fost căzut, dar El m-a ridicat
+Îi cânt Glorie, Aleluia, Isus m-a salvat!
+
+[c2]
+Aleluia, eu umblu cu Isus
+Regele de sus, eu umblu cu Isus
+Aleluia, eu umblu cu Isus
+Zi de zi eu umblu cu Isus.
+
+[v3]
+Nu mai sunt trist și-mpovărat
+De când merg cu Isus
+Regele de sus, eu umblu cu Isus
+Am noi nădejdi pe cale
+Și vreau să merg cu Isus
+Zi de zi eu umblu cu Isus.
+
+[v4]
+Frumoasă-i ziua iar, acum
+De când merg cu Isus
+Regele de sus, eu umblu cu Isus
+Mi-e sigur pasul și ușor
+De când merg cu Isus
+Zi de zi eu umblu cu Isus.
+
+[s]
+Am avut o mare bucurie în Domnul... Filipeni 4:10

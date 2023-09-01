@@ -1,0 +1,39 @@
+[title]
+Zorii se ivesc {author: {Johnny Daraban}, {rcId: {177106}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Fecioarele au ațipit,
+Căci noaptea a fost lungă,
+Candelele se sting pe rând
+Și dragostea se stinge.
+Se-aud străjerii tot strigând,
+Poporule veghează,
+Căci iată zorii se ivesc
+Și haina ți-e pătată.
+Căci iată zorii se ivesc
+Și Mirele se-arată.
+
+[c]
+O, vino Duh, o, Duh Preasfânt,
+Să ne trezești cu-al Tău cuvânt,
+Să ne îmbrăcăm cu alb veșmânt,
+Căci Mirele se-arată.
+
+[v2]
+Curând trompeta va suna,
+Fii treaz acum și-n noaptea grea,
+Ulei în candelă să ai,
+Te roagă și veghează.
+Căci nu e mult și în curând,
+Zbura-vom sus spre plaiul sfânt,
+Cu haine albe îmbrăcați,
+Spălați în sângele vărsat.
+
+[c2]
+Și vom cina cu Mielul Sfânt,
+Al nostru Mire, Domn Preasfânt
+Să-L așteptăm în alb veșmânt,
+Căci ziua e aproape.

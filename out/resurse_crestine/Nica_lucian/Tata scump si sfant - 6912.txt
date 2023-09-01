@@ -1,0 +1,95 @@
+[title]
+Tata scump si sfant {author: {Nica Lucian}, {rcId: {6912}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c2,v5,c3,v6,c4,v7,c4,v8,c5,v9,c5,e
+
+[v1]
+Tată scump și sfânt...
+Azi la Tine vin,
+Prin Isus Cristos...
+Ție mă închin.
+
+[v2]
+Doar Tu poți salva
+Prin puterea Ta
+Pe cel păcătos
+Prin Isus Cristos.
+
+[c]
+/: Tu vei împlini
+Toată voia Ta
+Vei înviora
+Astăzi viața mea. :/
+
+[v3]
+Tronul Tău de har
+Astăzi îl ating
+Și cununa mea
+Ție Ți-o închin.
+
+[v4]
+Doar Tu poți cunoaște
+Toată inima
+Tu vei mângâia
+Azi viața mea.
+
+[c2]
+/: Tu vei mântui
+Și vei ridica
+Pe acela care
+Te va asculta. :/
+
+[v5]
+Doar Tu poți o, Doamne
+A ne vindeca
+Astăzi ochii noștri
+Să putem vedea.
+
+[c3]
+/: Tot ce ai promis
+Vei îndeplini
+Ceea ce ai spus
+Prin Domnul Isus :/
+
+[v6]
+Vei înviora
+Vei elibera
+Și vei vindeca
+Azi Biserica
+
+[c4]
+/: Tu vei curăți
+Și ne vei sfinți
+Chiar prin Duhul Tău
+Viață ne vei da. :/
+
+[v7]
+Doar Tu poți aduce
+Astăzi înapoi
+Pe acei pierduți
+Și risipitori.
+
+[v8]
+Chiar atunci, o, Doamne
+Noi vom secera
+Ce cu lacrimi calde
+Noi am semănat.
+
+[c5]
+/: Te vom lăuda
+Și Îți vom cânta
+Plini de bucurie
+Ne vom închina. :/
+
+[v9]
+Aleluia, Aleluia,
+Aleluia, Maranata!
+Aleluia, Aleluia,
+Aleluia, Maranata!
+
+[e]
+Amin, Amin; Amin, Amin.
+Acum primesc și Te slăvesc!
+Amin, Amin, Isus divin,
+Așa să fie, Amin, Amin!

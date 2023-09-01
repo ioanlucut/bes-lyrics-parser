@@ -1,0 +1,41 @@
+[title]
+Adorare {author: {Carmen Prodan}, {rcId: {152904}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Ce-i mai frumos în lumea asta?
+Și ce-i mai dulce și plăcut
+Decât să lăudăm, Isuse,
+Numele Tău cel veșnic sfânt?
+
+[c]
+/: Ești Creator și Prinț al slavei,
+Tu ești Puternic, Minunat,
+Ești Călăuză prin pustie,
+Prieten bun și-adevărat! :/
+
+[v2]
+Luceafărul de dimineață
+Ești Domn slăvit al domnilor,
+Emanuel, Iehova, Rege,
+Ești Mielul blând, biruitor!
+
+[c2]
+/: Ești Dumnezeul sfânt și tare,
+Părinte-al veșniciilor,
+Ești Domn al păcii pe vecie,
+Un înțelept și bun Păstor! :/
+
+[v3]
+Ești Începutul și Sfârșitul,
+Din veșnicie neschimbat,
+Suntem uimiți de-a Ta splendoare
+Și Îți cântăm neîncetat!
+
+[c3]
+/: Mărire, Glorie, Osana,
+Noi muritorii Te slăvim!
+Ești dragostea și fericirea,
+Te adorăm și Te iubim! :/

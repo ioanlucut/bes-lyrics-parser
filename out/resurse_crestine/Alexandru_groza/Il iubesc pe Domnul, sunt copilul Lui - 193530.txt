@@ -1,0 +1,29 @@
+[title]
+Il iubesc pe domnul sunt copilul lui {author: {Alexandru Groza}, {rcId: {193530}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Îl iubesc pe Domnul, sunt copilul Lui
+Mă încred în Dumnezeu
+El mă ține-n viață aproape de El
+Și eu cresc prin harul Lui, mereu
+
+[c]
+O, ce minunat e să fii credincios
+Să te-ncrezi în Dumnezeu
+Viitorul aparține lui Hristos
+Toți copiii îl iubesc pe El!
+
+[v2]
+O, ce dulce-i dragostea lui Dumnezeu
+Când răzbate-n inimă
+Drumul luminos e calea lui Hristos
+El este Păstorul meu cel bun!
+
+[v3]
+Abia aștept să vină iar duminica
+Să merg la biserică
+Să cinstesc pe Domnul cu părinții mei
+Când mă duc, mă rog și pentru ei!

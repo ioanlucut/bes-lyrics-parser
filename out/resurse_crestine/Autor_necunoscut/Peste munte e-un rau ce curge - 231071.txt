@@ -1,0 +1,29 @@
+[title]
+Peste munte e-un rau ce curge {author: {Anonim}, {rcId: {231071}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Peste munte e-un râu ce curge,
+Înviorare revarsă curgând,
+În văi adânci și întinsa câmpie
+Râul străbate viața-aducând.
+
+[c]
+/: E Râul Sfânt care suflete mișcă,
+E Râul Sfânt care curge șuvoi.
+Redeșteptarea de la Rusalii
+Revars-o acum din plin peste noi. :/
+
+[v2]
+Curgerea Lui e venită din ceruri
+Și poate lua generații la rând,
+Cei ce străbat ale Râului țărmuri
+Se-adapă din Râu și-apoi cântă strigând.
+
+[v3]
+Cu toții-nspre munte ne place să mergem,
+Biserica-ntreagă trezire-așteptând;
+În apă intrăm la-nceput pân’ la glezne,
+Și-apoi înspre larg ne-avântăm înotând.

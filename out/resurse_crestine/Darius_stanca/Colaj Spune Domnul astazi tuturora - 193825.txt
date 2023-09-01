@@ -1,0 +1,102 @@
+[title]
+Colaj spune domnul astazi tuturora {author: {Darius Stanca}, {rcId: {193825}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c,v8,c,v9,c,v10,c
+
+[v1]
+/: Spune Domnul astăzi tuturora
+Să ne bucurăm în adunare
+Să-i binecuvântăm Numele
+Și să-i cântăm osanale :/
+
+[c]
+/: Cât voi trăi pe pământ o Doamne Sfânt
+Numai ție vreau să-ți cânt, vreau să-ți cânt
+Un izvor de bucurie
+Vreau să emane din mine :/
+/: Cât voi trăi pe pământ o Doamne Sfânt
+Numai ție vreau să-ți cânt, vreau să-ți cânt
+Un izvor de bucurie
+Vreau să emane din mine :/
+/: Cât voi trăi pe pământ o Doamne Sfânt
+Numai ție vreau să-ți cânt, vreau să-ți cânt
+Un izvor de bucurie
+Vreau să emane din mine :/
+/: Dar eu nu vreau să ard în foc
+Vreau cu Domnul la un loc
+Doamne toată viața mea
+Eu nu vreau să ard în foc
+Vreau cu Domnul la un loc
+Cu toată familia :/
+/: Me ci camau te pabuau
+Le Devlesa vreau te așeau
+Ando lesko raio opră :/
+/: Nu-i nimeni să lege o rană
+Cum Doamne tu ai legat
+Nu-i nimeni, nu-i nimeni să ierte
+Cum Doamne tu ai iertat :/
+/: Nu-i nimeni să lege o rană
+Cum Doamne tu ai legat
+Nu-i nimeni, nu-i nimeni să ierte
+Cum Doamne tu ai iertat :/
+
+[v2]
+/: Biserica este locul in care
+Orice om primește vindecare
+Unde se vindecă rănile
+Și se capătă iertare :/
+
+[v3]
+/: Să-i cântăm lui Dumnezeu ca David
+Până și iadul să se înfioare
+Revarsă-ți tu Doamne liniștea
+Astăzi peste fiecare :/
+
+[v4]
+/: Am tot stat și m-am gândit
+Unde oi fi când oi muri
+Eu nu vreau să ard în foc
+Vreau cu Domnul la un loc :/
+
+[v5]
+/: Sea beshlem hai gândisailem
+Cai jeaua cană merau
+Me ci camau te pabuau
+Le Devlesa vreau te așeau :/
+
+[v6]
+/: Bun medic ești Isuse
+Un medic minunat
+Mărturisește-ne rugă
+Bolnavul vindecat :/
+
+[v7]
+/: Femeia păcătoasă
+Și orbul Bartimeu
+Mărturisesc Isuse
+De mila și harul Tău :/
+
+[v8]
+/: M-am hotărât sa-L urmez pe Isus
+M-am hotărât sa-L urmez pe Isus
+M-am hotărât sa-L urmez pe Isus
+Și înapoi, și înapoi eu voi da
+Eu nu voi da
+Și înapoi, și înapoi eu voi da; /
+
+[v9]
+/: Nimic nu mă va clinti pe cale
+Nimic nu mă va clinti pe cale
+Nimic nu mă va clinti pe cale
+Și înapoi și înapoi eu nu voi da
+Eu nu voi da
+Și înapoi și înapoi eu nu voi da :/
+
+[v10]
+M-am hotărât sa-L urmez pe Isus
+M-am hotărât sa-L urmez pe Isus
+Și înapoi și înapoi eu nu voi da
+Hotărâsailem me le Devleskă
+Hai palpale hai palpale
+Me ci mai dau.

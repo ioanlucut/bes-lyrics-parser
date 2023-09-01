@@ -1,0 +1,29 @@
+[title]
+Fericire deplina {author: {Carmen Prodan}, {rcId: {152907}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Eu am aflat în Domnul meu
+Fericirea deplină!
+Chiar dacă trec prin încercări,
+Am pace și lumină!
+
+[c]
+Sunt fericit chiar dacă am
+Lacrimi pe obraz și dureri,
+Lângă Isus sunt mângâiat,
+Și uit de tot ce-a fost ieri!
+
+[v2]
+Oricât de greu e-al vieții drum,
+Domnul e cu mine!
+Cuvântul sfînt, mângâietor,
+Prin toate mă susține!
+
+[v3]
+Eu cred deplin că tot ce-a spus,
+Domnul împlinește!
+Și toți vor ști că negreșit
+Dreptatea dăinuiește!

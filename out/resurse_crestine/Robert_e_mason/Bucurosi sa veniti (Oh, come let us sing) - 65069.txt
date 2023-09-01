@@ -1,0 +1,18 @@
+[title]
+Bucurosi sa veniti (oh come let us sing) {author: {Robert E. Mason, Traducere RO}, {rcId: {65069}}
+
+[sequence]
+v1,c
+
+[v1]
+Bucuroși să veniți
+să cântăm Domnului
+Să cântăm laude Mielului!
+Să-I venim înainte cu mulțumiri
+Să strigăm, să cântăm bucuroși!
+
+[c]
+Pentru că El e mare
+Și e Regele peste pământ.
+Pentru că El e mare
+Și e Regele peste pământ.

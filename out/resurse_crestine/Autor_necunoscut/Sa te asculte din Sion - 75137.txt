@@ -1,0 +1,21 @@
+[title]
+Sa te asculte din sion {author: {Anonim}, {rcId: {75137}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Să te asculte din Sion Dumnezeul Mare
+Să îți trimită ajutor în ziua de încercare.
+
+[c]
+Sub aripile Lui să ai tu alinare
+Și pe brațul Lui să afli vindecare.
+
+[v2]
+Să îți asculte ruga ta când treci prin încercare,
+Salvarea Domnul să ți-o dea când lupta este mare.
+
+[v3]
+Domnul e un adăpost, e o cetate tare
+Celor ce s-au încrezut în El, Domnul le-a fost scăpare.

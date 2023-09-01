@@ -1,0 +1,28 @@
+[title]
+Sa te-asculte domnul in ziua necazului {author: {Puiu Chibici}, {rcId: {95797}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Să te-asculte Domnul în ziua necazului
+Și să te sprijinească Numele Lui
+Să-ți trimită ajutor din locașul Lui cel sfânt
+Și să te ocrotească din Sion
+
+[c]
+/: O Isuse ajută-mă
+O, Domnul meu
+Sufletu-mi tânjește greu :/
+
+[v2]
+Ai milă de mine Doamne căci mă ofilesc
+Durerile sufletul îmi lovesc
+Mai scăpat de la greu și de la mare dureri
+Mi-ai dăruit pe veci mântuire
+
+[v3]
+Am găsit în cartea ceea sfântă Biblia
+Că Isus muri și pentru mine
+M-a scăpat de la greu și de la mare dureri
+Mi-a dăruit pe veci mântuire

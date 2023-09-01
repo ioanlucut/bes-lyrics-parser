@@ -1,0 +1,29 @@
+[title]
+Rascumparati vremea {author: {Frații din Bărbulești}, {rcId: {161741}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Trezește-te tu care dormi,
+Hristos te va lumina
+Ochii El îți va deschide
+Să vezi bine calea Sa. :/
+
+[c]
+/: Răscumpărați vremea căci
+Zilele vor fi nespus de grele.
+În părtășie, rugăciuni,
+Dumnezeu ne vrea mai buni. :/
+
+[v2]
+/: Vorbiți între voi cu psalmi,
+Nu de afaceri, nici de bani,
+Cântați Domnului mereu,
+Ca să piară tot ce-i rău. :/
+
+[v3]
+/: Tot așa surorilor,
+Fiți supuse bărbaților.
+Puneți-vă genunchii jos,
+Fiți supuse lui Hristos. :/

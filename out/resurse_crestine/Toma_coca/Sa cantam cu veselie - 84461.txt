@@ -1,0 +1,45 @@
+[title]
+Sa cantam cu veselie {author: {Toma Coca}, {rcId: {84461}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Să cântăm cu veselie Domnului,
+El este tăria noastră,
+Să-nălțăm imnuri de slavă
+Dumnezeului Sfânt a lui Iacov.
+Să sunăm din tobe și din arfe,
+Din trâmbițe și alăute,
+Când este lună plină, lună nouă,
+Atunci e ziua sărbatorii noastre.
+
+[c]
+/: Poporul meu, popor iubit,
+Când m-ai chemat te-am auzit,
+Și-n zile de necaz și greu,
+Cu dragoste te-am izbăvit.
+Ți-am răspuns în locul tainic,
+În locul ascuns al tunetului,
+Și ți-am încercat marea credință,
+La apele din Meriba :/
+
+[v2]
+Israele să mă asculți,
+Să nu urmezi alți Dumnezei,
+Să nu te-nchini n-aintea lor,
+Eu sunt Domnul Dumnezeul tău.
+Asculta dar de glasul meu
+Pășește pe-a mele cărări,
+Te voi hrăni cu grâul bun,
+Si-am să te satur cu miere din stânci.
+
+[v3]
+O Doamne eu te voi lăuda,
+Căci Tu Ești Dumnezeul meu,
+În Tine cred Tie ma-nchin,
+Nu slujesc Dumnezei străinii.
+Mă pregătesc o Doamne bun
+Și Te urmez pe-acest pământ,
+Când vei veni ca să ne iei,
+Să fiu și eu printre aleși.

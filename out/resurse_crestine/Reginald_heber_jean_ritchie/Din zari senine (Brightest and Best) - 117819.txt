@@ -1,0 +1,32 @@
+[title]
+Din zari senine (brightest and best) {author: {Reginald Heber, Jean Ritchie, Traducere RO}, {rcId: {117819}}
+
+[sequence]
+v1,c,v2,c,v3,c,s,c
+
+[v1]
+Veniți, vă bucurați căci al nostru Rege
+S-a coborât la noi, lăsând slava sus
+Păstorii au zărit un Prunc într-o iesle
+Și au vestit la toți, minunea de sus.
+
+[c]
+Din zări senine, o stea luminoasă
+Pe bolta cerului a răsărit
+Razele ei, în noaptea întunecoasă
+Spre ieslea Pruncului au călăuzit.
+
+[v2]
+Ce bucurie mare, ce mângâiere
+Cuvântul s-a-ntrupat, aici, pe pământ!
+Mulțimi de îngeri cântă cu adorare
+Slăvind pe Cel născut, Isus, Pruncul sfânt.
+
+[v3]
+Veniți cu toți la Isus, plini de iubire
+Veniți la El cu darul cel mai de preț
+Uniți-vă degrabă, cu mic și mare
+Pentru mărirea Celui sfânt și măreț.
+
+[s]
+Și iată că steaua pe care o văzuseră în răsărit, mergea înaintea lor, până ce a venit și s-a oprit deasupra locului unde era Pruncul. Matei 2:9

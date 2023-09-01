@@ -1,0 +1,29 @@
+[title]
+Doamne eu doresc sa stiu ca-s mantuit {author: {Anonim}, {rcId: {74337}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Doamne eu doresc să știu că-s mântuit
+Este ruga ce Te rog s-asculți,
+Când aici sfârșesc o viață de trăit
+Sufletul în cer îl ia, Te rog s-asculți.
+
+[c]
+De voi fi înfrânt și bolnav pe-acest pământ,
+Nu-i nimic, acolo toate trec.
+Când aici sfârșesc o viață de trăit,
+Sufletu-mi în cer îl ia, Te rog s-asculți.
+
+[v2]
+Întristări de vor fi pe acest pământ,
+Eu deși nu le doresc de fel,
+De mă vor zdrobi și de voi fi înfrânt,
+Să nu-mi iei din inimă, cerescul țel.
+
+[v3]
+Doamne-Ți mulțumesc că sunt pe veci al Tău,
+Jertfa Ta pe mine m-a salvat.
+Când Tu vei veni, în glorioasa zi
+Ia-mă sus, să fiu pe veci în veșnicii.

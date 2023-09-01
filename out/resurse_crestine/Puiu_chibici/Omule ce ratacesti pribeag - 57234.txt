@@ -1,0 +1,30 @@
+[title]
+Omule ce ratacesti pribeag {author: {Puiu Chibici}, {rcId: {57234}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Omule ce rătăcești pribeag,
+Vino azi acasă, Isus te așteaptă-n prag,
+Te primește cu mult drag,
+Schimbă-ți viața păcătoasă.
+
+[c]
+Omule călător pe oceanul lumii,
+Vino astăzi la Isus, vino-n țara făr’apus,
+Vino la limanuri bune.
+
+[v2]
+Omule, care-i destinul tau,
+Crezi că-i tot cenușă,
+Vrei în nesfârșitul hău,
+Sau în cer cu Dumnezeu?
+Iată, ți-e deschisa-o ușă.
+
+[v3]
+Omule, în alergarea ta
+Faci atâtea rele,
+Vino azi la Golgota,
+La Isus, la crucea Sa,
+Și-al Său sânge o să te spele.

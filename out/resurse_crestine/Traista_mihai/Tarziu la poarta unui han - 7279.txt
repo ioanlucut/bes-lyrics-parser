@@ -1,0 +1,47 @@
+[title]
+Tarziu la poarta unui han {author: {Traistă Mihai}, {rcId: {7279}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+Târziu la poarta unui han,
+Drumețu-n poartă bate
+Și îl întreabă pe hangiu:
+Un loc oare... se poate?
+
+[v2]
+Dar bine, bine, cine ești?
+Eu sunt din Galilea.
+Mă cheamă Iosif, sunt teslar
+Și-mi vrea naște femeia.
+
+[v3]
+O, frate-al meu, îmi pare rău
+Dar n-am loc în odaie
+Acolo-n spate-i grajdul meu
+Culcați-vă în paie.
+
+[v4]
+Hangiule, de-ai fi știut
+Ce a știut Maria,
+Că-n grajdul tău, în ieslea ta,
+Se va naște Mesia.
+
+[v5]
+Dar undeva, departe-n câmp
+Așteptând să vină zorii,
+Stăteau păzind de lup flămând,
+Turma de oi păstorii.
+
+[v6]
+Și dintr-o dată strălucind,
+Din noaptea prea senină,
+Un înger înspre ei venind
+Cu slavă și lumină.
+
+[v7]
+Cerul deschis, îngerii-n cor,
+Cânta întreg soborul:
+O, nu vă temeți voi păstori
+Vi s-a născut păstorul.

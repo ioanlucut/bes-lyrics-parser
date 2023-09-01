@@ -1,0 +1,19 @@
+[title]
+Bucurosi cantati (shout for joy and sing) {author: {David Fellingham, Traducere RO}, {rcId: {65070}}
+
+[sequence]
+v1,c
+
+[v1]
+Bucuroși cântați, dați laude Regelui,
+Și cu toți strigați: Aleluia! Domnului.
+Și la tronul Lui veniți să-L adorăm!
+Bucuroși să venim, înaintea Domnului!
+
+[c]
+Tu ești Creatorul, Răscumpărătorul
+Și Mântuitorul, Domnul meu,
+Ești Vindecătorul.
+Tu îmi porți de grijă,
+Tot Tu ești Păstorul, Dumnezeu.
+Isus, Rege Sfânt, Te preamăresc!

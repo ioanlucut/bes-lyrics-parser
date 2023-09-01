@@ -1,0 +1,33 @@
+[title]
+Tu ma cercetezi plin de iubire {author: {Otniel Stirb}, {rcId: {187277}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+N-am să pot eu, Doamne, niciodată
+Pe acest Pământ să-Ți mulțumesc
+De iubirea Ta nemăsurată,
+Care de la Tine o primesc.
+
+[c]
+Tu mă cercetezi plin de iubire,
+Știi când stau jos, știi când mă ridic,
+Nu-i nimic ascuns de-a Ta privire,
+Ești cu mine, Doamne, când Te strig.
+Tu îmi dai ființa și mișcarea,
+O, ce minunat Tu m-ai creat!
+Numai Ție, Doamne-Ți cânt cântarea,
+Tu ești Dumnezeu adevărat!
+
+[v2]
+Și când trec prin valea umbrei morții,
+Tu mă ocrotești, Păstor ceresc!
+Cât ar fi de mare bezna noptii,
+Eu cu Tine nu mă rătăcesc!
+
+[v3]
+Viața mea-i frumoasă lângă Tine,
+Doamne, Tu ești fericirea mea!
+Eu Te-aștept să vii, și azi și maine,
+Știu că într-o zi Te voi vedea!

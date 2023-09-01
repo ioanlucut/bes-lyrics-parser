@@ -1,0 +1,39 @@
+[title]
+Domnul meu {author: {Beniamin Pop}, {rcId: {179812}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Domnul meu e ca un crin
+Ce da, un parfum sublim
+Iar cuvântul sau cel sfânt
+E lumina pe pamant.
+R. :/
+Canta-i aleluia, aleluia
+Și lăuda-l mereu
+Pe Domnul Dumnezeu
+ /:
+
+[v2]
+Domnul meu Isus iubit
+Moartea tu ai biruit
+În veci de veci tu stralucesti
+Căci lumina lumii ești.
+R. :/
+Să-ți cantam aleluia, aleluia
+Sa te lăudăm mereu
+Căci tu ești Dumnezeu
+ /:
+
+[v3]
+Domnul meu ești dragoste
+Fa sa fim și noi la fel
+Fa sa fim exemple vii
+Pana când tu vei veni.
+R. :/
+Sa cantam aleluia, aleluia
+Sa te lăudăm mereu
+Căci tu ești Dumnezeu
+ /: (3x)
+Amin

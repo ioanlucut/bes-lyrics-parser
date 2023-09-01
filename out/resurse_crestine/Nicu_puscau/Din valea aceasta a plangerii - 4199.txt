@@ -1,0 +1,41 @@
+[title]
+Din valea aceasta a plangerii {author: {Nicu Puscau}, {rcId: {4199}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c2
+
+[v1]
+Din valea aceasta a plângerii
+Te cheamă azi ai tăi copii
+Te cheamă azi mireasa Ta
+Vino Isuse după ea
+
+[c]
+Vino Isuse, vino mai degrabă
+Vino căci te asteptăm cu dor
+Vino si du-ne sus cu tine-n slavă
+Să-ti cântăm cu-al îngerilor cor
+
+[v2]
+Din întristări si din amar
+Noi te chemăm Isuse iar
+Vino din nou prin Duhul Sfânt
+La turma ta de pe pământ
+
+[v3]
+Atâtea răni sunt care dor
+O scump Isus o bun păstor
+Samariteanule milos
+Cu-al Tău balsam vin’ aici jos
+
+[v4]
+Te asteptăm si te dorim
+Să-Ti spunem ce mult te iubim
+Pe Tine soare făr’ apus
+Mire iubit si drag Isus
+
+[c2]
+Vino Isuse, vino Mesia
+Strigă duhul, strigă mireasa
+Osana cântă azi răscumpăratii
+Vrem să vină Doamne ziua Ta

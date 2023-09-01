@@ -1,0 +1,29 @@
+[title]
+Spune-mi te rog unde puteam s-alerg {author: {Anonim}, {rcId: {74402}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Spune-mi, te rog, unde puteam s-alerg,
+Când lumea-ntreagă mă chema
+Cu-a ei ispită mare de nespus,
+Unde s-alerg? Doar la Isus!
+
+[c]
+/: Unde s-alerg? :/
+Sufletul meu să-l liniștesc.
+Dar am găsit odihna acolo sus
+Știu unde s-alerg: Doar la Isus!
+
+[v2]
+Spune-mi, te rog, unde puteam s-alerg?
+Când prietenii mă părăseau
+Și când departe de țărm eram dus,
+Unde s-alerg? Doar la Isus!
+
+[v3]
+Spune-mi, te rog, unde puteam s-alerg?
+Când toți cei dragi mă alungau.
+Dar la Calvar privit-am eu în sus.
+Unde s-alerg? Doar la Isus!

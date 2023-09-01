@@ -1,0 +1,29 @@
+[title]
+Eu te chem {author: {Anonim}, {rcId: {1359}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Eu Te chem, Doamne,
+Tu să mă conduci;
+Fă-mi drumul neted printre stânci.
+Stai lângă mine,
+Doamne, mereu,
+Tu ești singur sprijinul meu!
+
+[v2]
+Eu Te-aștept, Doamne,
+Tu să mă înveți,
+Tu ești izvorul de poveți.
+Stai lângă mine,
+Doamne, mereu,
+Tu ești singur sprijinul meu!
+
+[v3]
+Eu Te rog, Doamne,
+Tu să mă păzești,
+Ocrotitorul meu Tu ești.
+Stai lângă mine,
+Doamne, mereu,
+Tu ești singur sprijinul meu!

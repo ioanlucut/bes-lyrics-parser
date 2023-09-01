@@ -1,0 +1,28 @@
+[title]
+S-a nascut in betleem {author: {Anonim}, {rcId: {117462}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+S-a născut în Betleem
+Aleluia,
+Fiu de om de Dumnezeu,
+Aleluia!
+
+[c]
+Laudă-L, laudă-L,
+Laudă-L pe El cântând
+Aleluia!
+
+[v2]
+Dumnezeul minunat,
+Aleluia,
+Pentru noi s-a întrupat,
+Aleluia!
+
+[v3]
+Într-o zi Îl vom vedea,
+Aleluia,
+Veșnic noi Îl vom cânta,
+Aleluia!

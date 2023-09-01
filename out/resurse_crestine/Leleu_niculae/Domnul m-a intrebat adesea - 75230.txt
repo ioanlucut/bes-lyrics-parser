@@ -1,0 +1,44 @@
+[title]
+Domnul m-a intrebat adesea {author: {Leleu Niculae}, {rcId: {75230}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Domnul m-a întrebat adesea
+Vrei să fii voios?
+Dacă da, atunci primește-l
+Pe Isus Hristos
+După multă împotrivire
+Eu l-am ascultat
+Pace, bucurie-n suflet
+El acum mi-a dat
+
+[c]
+Aleluia Aleluia
+Imnurile bucuriei
+Sună ne-ncetat
+Aleluia,
+Aleluia
+Pacea Sa cea minunată
+Pentru veci ne-a dat
+
+[v2]
+Astăzi chem pe cei din lume
+Ce nu-s fericiți
+Toți cei plini de mari păcate
+La Isus veniți
+Domnul Isus îi sfințește
+Prin Sângele-i Sfânt
+Schimbă gândul, vorba, fapta
+Prin al Său Cuvânt
+
+[v3]
+Dacă vrei și tu, suflete,
+Poți să Îl primești.
+Inima ta îți deschide
+Și astfel Îl găsești.
+Fericirea veșnică
+El îți va asigura,
+Sus, în cer, cu Domnul Isus,
+Te vei bucura.

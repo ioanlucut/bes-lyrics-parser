@@ -1,0 +1,35 @@
+[title]
+Viata sa-mi jertfesc {author: {Nicolae Moldoveanu}, {rcId: {192899}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Viața să-mi jertfesc, pe altarul sfânt,
+Să pot să trăiesc cerul pe pământ.
+/: Har dă-mi deplin să trăiesc mai frumos,
+Voia-Ți curată și sfântă, Hristos! :/
+
+[v2]
+Să-mplinesc smerit, tot Cuvântul Tău,
+Pururea ferit, de îndemnul rău!
+/: Har dă-mi deplin să-Ți ascult mai supus,
+glasul Cuvântului Tău scump Isus! :/
+
+[v3]
+Pe cărări de har, să mă ții oricând,
+Al iubirii jar, să mă facă blând.
+/: Har dă-mi deplin să trăiesc luminos,
+-Focul iubirii mi-l crește, Hristos! :/
+
+[v4]
+Biruința Ta să mi-o dai mereu
+Ca să pot purta lupta-n ceasul greu.
+/: Har dă-mi deplin ca să nu fiu răpus,
+Ci-n biruință mă-mbracă, Isus! :/
+
+[v5]
+Căci în Har ascuns totul am deplin,
+Prin el am pătruns, Cerul Tău divin.
+/: Har după Har numai Tu-mi dai Hristos,
+Harul mă face în toate frumos! :/

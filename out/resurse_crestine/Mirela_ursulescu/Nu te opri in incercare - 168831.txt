@@ -1,0 +1,41 @@
+[title]
+Nu te opri in incercare {author: {Mirela Ursulescu}, {rcId: {168831}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Nu te opri în încercare,
+Nu renunța din drumul tău,
+Înaintează pe cărare,
+/: Cu tine merge Dumnezeu! :/
+
+[c]
+/: Să nu disperi când valul vine
+Și te scufundă tot mai mult,
+Pe brațul Lui, Isus te ține,
+Îți dă puteri cum n-ai avut! :/
+
+[v2]
+Când obosit te simți pe cale
+Și strigi „o, Doamne, nu mai pot!”
+Când n-ai putere în lucrare,
+/: Îți dă din Duhul Sfânt mai mult! :/
+
+[v3]
+De vrei s-ajungi cu El în ceruri,
+Lasă-te astăzi curățit!
+Doar prin cuptor și prin necazuri
+/: Poți să ajungi tu mântuit! :/
+
+[v4]
+De plângi de mila ta întruna,
+Vei fi în val tot mai adânc.
+Tu mulțumește-I și-n furtună,
+/: Atunci Isus va fi al tău scut! :/
+
+[v5]
+Să nu compari a ta-ncercare,
+Nici greul tău cu-al nimănui,
+A ta credință nu o pierde
+/: Ci fă în toate voia Lui! :/

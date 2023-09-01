@@ -1,0 +1,39 @@
+[title]
+Ce bine ma simt cu tine {author: {Anonim}, {rcId: {6659}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,v4,c
+
+[c]
+Ce bine mă simt când sunt cu Tine,
+Ce bine mă simt în brațul Tău!
+Ce bine mă simt când ești cu mine,
+O Doamne, Dumnezeu!!!
+
+[v1]
+Nu pot trăi fără Tine,
+Căci viața e atât de grea
+De aceea, te rog: ”
+Fii cu mine!
+Tu singur, nu mă lăsa!”
+
+[v2]
+Nu pot trăi fără Tine,
+Căci sunt atât de mic
+De aceea, te rog: ”
+Fii cu mine!
+Cu Tine mă simt voinic!”
+
+[v3]
+Nu pot trăi fără Tine,
+Căci sunt doar un muritor
+De aceea, te rog: ”
+Fii cu mine!
+Căci Tu ești al meu păstor!”
+
+[v4]
+Nu pot trăi fără Tine,
+Isus! Nici măcar un ceas!
+De aceea, te rog: ”
+Fii cu mine!
+Condu-mă Tu pas cu pas!”

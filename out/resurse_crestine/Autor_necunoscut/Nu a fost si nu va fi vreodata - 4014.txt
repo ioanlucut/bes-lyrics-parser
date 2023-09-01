@@ -1,0 +1,31 @@
+[title]
+Nu a fost si nu va fi vreodata {author: {Anonim}, {rcId: {4014}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Nu a fost și nu va fi vreodată
+Veste mai frumoasă pe pământ
+Decât vestea că în lume
+S-a născut un prunc Prea Sfânt.
+Nu se va mai auzi vreodată
+De un fiu de Dumnezeu,
+El, ce singurul veni din Tatăl,
+Minunatul Salvator, Isus.
+
+[c]
+/: Să-i cântăm slavă, slavă
+Oricine pe pământ
+Celui ce veșnic, veșnic
+Rămâne-al Său Cuvânt. :/
+
+[v2]
+S-a-mplinit tot ce se profețise
+Îngerii cântau ca niciodat’
+Căci al nopții întuneric
+De cântări a răsunat.
+A venit o zi cu noi speranțe,
+Noi nădejdi, clădite nu-n nisip
+Ci pe stânca tare-a vieții,
+Pe acel ce-i veșnic nesfârșit.

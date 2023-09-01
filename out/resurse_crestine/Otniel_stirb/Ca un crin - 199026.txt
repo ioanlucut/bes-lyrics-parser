@@ -1,0 +1,29 @@
+[title]
+Ca un crin {author: {Otniel Stirb}, {rcId: {199026}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ca un crin din vale, ești iubita Mea,
+Între-atâtea fete, nu mai e alta.
+Fața ta-i plăcută, după ea tânjesc,
+Arsă ești de soare, dar Eu te iubesc!
+
+[c]
+Scoală-te iubito, vino frumoaso,
+Vino tu, mireasa Mea!
+Iată vine vremea, să Te duc acasă,
+Si-Ți Voi șterge lacrima!
+
+[v2]
+Când privesc la tine, și la chipul tău,
+Văd doi ochi senini, ce-mi zâmbesc mereu.
+Numai tu iubito, ești aleasa mea,
+Numai cu-o privire, mi-ai luat inima.
+
+[v3]
+Chiar de-i grea vegherea, în al nopții ceas,
+Eu te iau la Mine, jos n-am să Te las.
+Ține sus privirea, gata de plecat,
+Că vremea cântării, s-a apropiat!

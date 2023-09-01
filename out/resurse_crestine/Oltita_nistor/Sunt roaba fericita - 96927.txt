@@ -1,0 +1,53 @@
+[title]
+Sunt roaba fericita {author: {Oltita Nistor}, {rcId: {96927}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Sunt roaba fericită
+Că Domnului m-am dat,
+Fac partea Evangheliei
+Cu sufletul curat.
+
+[c]
+Isus mi-e scop și țintă,
+Isus pasiunea mea, 
+Isus mi-e bucuria, 
+El este viața mea!
+
+[v2]
+Chiar dacă trec prin lupte
+Mai mult mă oțelesc,
+Țin sus Cuvântul vieții
+De mor sau de trăiesc!
+
+[c2]
+Isus mi-e scop și cale,
+Isus e pild mea,
+Isus îmi e slujirea,
+El este pacea mea!
+
+[v3]
+Tot ce-i în lumea aceasta
+O pierdere socot, 
+Dau totul pentru Domnul,
+Prin El eu pot totul!
+
+[c3]
+Isus mi-e Domnul vieții, 
+Pe El vreau să-L cunosc!
+Dau totul pentru harul
+Ce-n Isus îl găsesc!
+
+[v4]
+Eu cred, alerg și sufăr
+Privind mai mult în sus, 
+Merg veselă înspre țintă
+Că ținta mi-e Isus!
+
+[c4]
+Isus îmi e cununa,
+Isus răsplata mea,
+Isus îmi va da totul
+Și totul Îi voi da!

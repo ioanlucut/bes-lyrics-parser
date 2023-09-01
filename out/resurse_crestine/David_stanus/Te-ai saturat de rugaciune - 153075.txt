@@ -1,0 +1,29 @@
+[title]
+Te-ai saturat de rugaciune {author: {David Stănuș}, {rcId: {153075}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Te-ai săturat de rugăciune,
+Ești obosit în fapte bune,
+Ai alergat ca Asael
+Atenție în lupta cu Abner! :/
+
+[c]
+/: Se stinge, se stinge lumina!
+Fisuri are vasul de lut,
+Biserică, stai azi întruna
+Sub ungerea Duhului Sfânt! :/
+
+[v2]
+/: De n-ai știut că toate trec,
+Plecat ești ca Elimelec;
+Moabul nu e Betleem,
+E țara plină de blestem! :/
+
+[v3]
+/: Nu vrei ca să depinzi de corbi
+Și-asculți de sfatul celor orbi,
+Atât de aproape ești de mal,
+Vezi să nu fii luat de val! :/

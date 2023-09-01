@@ -1,0 +1,51 @@
+[title]
+Spuneti tuturor sa stie {author: {Dionisie Giuchici}, {rcId: {6432}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Spuneți tuturor să știe
+Spuneți la surori și frați
+Căci în Numele lui Isus
+Pot să fie vindecați
+Spuneți tuturor să știe
+Și la cei nefericiți
+Căci în Numele lui Isus
+Pot să fie mântuiți
+
+[c]
+/: Numele Lui, Numele Lui,
+Numele Lui e minunat
+Prin Isus, Dumnezeu,
+De la moarte ne-a salvat :/
+
+[v2]
+Spune-ți tuturor să știe
+Și la mame cu copii
+Căci în Numele lui Isus
+Răsplătire vor primi
+Spuneți tuturor să știe
+Și la cei ce plâng mereu
+Căci în Numele lui Isus
+Îi ascultă Dumnezeu
+
+[v3]
+Spuneți tuturor să știe
+Și la frații lucrători
+Căci în Numele lui Isus
+Vor ieși biruitori
+Spuneți tuturor să știe
+Și la cei ce sunt smeriți
+Căci în Numele lui Isus
+Ei de tatăl sunt iubiți
+
+[v4]
+Spuneți tuturor să știe
+Și la cei ce-s prigoniți
+Căci în Numele lui Isus
+Sus în cer sunt răsplătiți
+Spuneți tuturor să știe
+Spuneți la cei întristați
+Căci în Numele lui Isus
+Pot să fie mângâiați.

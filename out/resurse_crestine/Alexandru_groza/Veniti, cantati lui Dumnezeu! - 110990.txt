@@ -1,0 +1,39 @@
+[title]
+Veniti cantati lui dumnezeu {author: {Alexandru Groza}, {rcId: {110990}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c
+
+[v1]
+Veniți, cântați lui Dumnezeu,
+Lăudați Numele Lui
+Dați slavă și onoare Lui,
+/: Lăudați Numele Lui! :/
+
+[v2]
+Veniți, cântați cu toți acum,
+Cântați mărirea Sa!
+Deschideți-vă inima!
+/: Cântați mărirea Sa! :/
+
+[c]
+Cine se încrede-n Isus
+Cu El sus în cer va sta
+Cine aleargă la Isus
+Viață-n veci va avea!
+Isus este mântuirea,
+Isus este slava ta!
+Cântă, cântă cu iubire
+Glorie, Aleluia!
+
+[v3]
+Veniți-naintea lui Dumnezeu
+Veniți cu toții acum!
+Rugați-vă ca să nu pieriți
+El va veni curând!
+
+[v4]
+El e Mântuitorul tău
+El e tăria ta
+Ascultă-I glasul Lui acum
+/: Deschide-ți inima! :/

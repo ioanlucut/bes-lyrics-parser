@@ -1,0 +1,30 @@
+[title]
+Pazeste-ne tata {author: {Carmen Prodan}, {rcId: {169680}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Păstrează-ne-n harul Tău,
+Isuse, Dumnezeu!
+Când răul ne trage-napoi,
+Isuse, rămâi lângă noi!
+
+[c]
+Într-o lume ce vrea să ne-nșele
+Tu ne ține privirea spre stele,
+Într-o lume așa de stricată,
+Păzește-ne Tu, o, Tată!
+
+[v2]
+Isuse, ajută-ne Tu
+Să spunem ispitelor: „ Nu! „
+Dar când Tu ne chemi să-Ți slujim,
+Să spunem cu toții: „
+Venim! ”
+
+[v3]
+Dorim să trăim cum ne-ai spus,
+Dar drumul e greu, o, Isus!
+Doar Tu ne poți ajuta
+S-ajungem în patria Ta!

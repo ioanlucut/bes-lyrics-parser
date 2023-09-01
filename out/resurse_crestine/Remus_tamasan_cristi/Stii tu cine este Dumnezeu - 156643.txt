@@ -1,0 +1,29 @@
+[title]
+Stii tu cine este dumnezeu {author: {Remus Tămășan Cristi}, {rcId: {156643}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Știi tu cine este Dumnezeu,
+Știi tu cine este Cel ce te-a creat,
+Cel ce a țesut cu grijă trupul tău
+Și apoi viață-n tine a suflat?
+
+[c]
+/: E Dumnezeu, e Dumnezeu,
+El e Domn în Cer și pe pământ!
+E Tatăl tău, e Tatăl meu,
+Toate azi, există prin al Său Cuvânt. :/
+
+[v2]
+Știi tu cine este Dumnezeu,
+Știi tu cine odată din lume te-a chemat,
+Să te-ntorci și să primești din Harul Său,
+Ca să fii și tu pe veci răscumpărat?
+
+[v3]
+Știi tu cine este Dumnezeu,
+Cine pentru Slava Sa te-a creat,
+Cel ce te conduce azi pe drumul Său?
+Este Dumnezeul sfânt și minunat!

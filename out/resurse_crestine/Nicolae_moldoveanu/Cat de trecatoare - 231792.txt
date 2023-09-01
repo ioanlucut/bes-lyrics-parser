@@ -1,0 +1,21 @@
+[title]
+Cat de trecatoare {author: {Nicolae Moldoveanu}, {rcId: {231792}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Cât de trecătoare e gingașa floare!
+Toate pe pământ trec cum trece-un vânt!
+
+[v2]
+Numai adevărul ține cât e cerul,
+cine-l poartă-n el, are sfântu-i fel.
+
+[v3]
+Să primim în viață tot ce ne învață
+adevărul plin! El ne dă alin.
+
+[v4]
+Adevăru-i sfântul lui Hristos Cuvântul.
+De ni-l însușim, cerul moștenim!

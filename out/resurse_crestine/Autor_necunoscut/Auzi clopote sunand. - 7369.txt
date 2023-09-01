@@ -1,0 +1,29 @@
+[title]
+Auzi clopote sunand {author: {Anonim}, {rcId: {7369}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Auzi clopote sunând,
+Veste mare anunțând,
+Îngerii din cer cântând,
+Domnul Isus a-nviat!
+
+[c]
+/: Isus Hristos a-nviat,
+Bătălia a câștigat,
+Dumnezeu a fost slăvit,
+Iar cel rău a fost legat. :/
+
+[v2]
+Doar trei zile și trei nopți
+A stat Domnul printre morți,
+Doar atât s-a lăudat
+Locul morții cu un Sfânt.
+
+[v3]
+În zori s-a rostogolit
+Piatra grea de pe mormânt.
+Salvarea lui Dumnezeu
+A venit prin Fiul Său.

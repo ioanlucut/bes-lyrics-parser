@@ -1,0 +1,29 @@
+[title]
+Domnul este bun {author: {Anonim}, {rcId: {3755}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+/: Domnul este bun, :/ x3
+El e bun cu mine.
+
+[v2]
+/: Isus este bun, :/ x3
+El e bun cu mine.
+
+[v3]
+/: Duhul este bun, :/ x3
+El e bun cu mine.
+
+[v4]
+/: Tată te iubesc, :/ x3
+Tu ești bun cu mine.
+
+[v5]
+/: Isus te iubesc, :/ x3
+Tu ești bun cu mine.
+
+[v6]
+/: Duh Sfânt te iubesc, :/ x3
+Tu ești bun cu mine.

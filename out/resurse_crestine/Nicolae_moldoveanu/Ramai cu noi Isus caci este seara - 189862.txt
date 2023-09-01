@@ -1,0 +1,54 @@
+[title]
+Ramai cu noi isus caci este seara {author: {Nicolae Moldoveanu}, {rcId: {189862}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+Rămâi cu noi Isus căci este seară
+S-a-ntunecat al vieții noastre cer,
+/: Dureri adânci acum ne-ncearcă iară,
+Rămâi cu noi Isus căci este seară,
+E seara când nădejdi alese pier. :/
+
+[v2]
+Rămâi cu noi Tărie Minunată
+În seara încercărilor de-acum,
+/: Suntem prea slabi, să nu cădem vreodată,
+Rămâi cu noi Tărie Minunată,
+Rămâi cu noi, oprește-Te din drum. :/
+
+[v3]
+Rămâi cu noi Adâncă Mângâiere
+Căci seara urii peste noi s-a pus,
+/: Să nu cârtim când trecem prin durere,
+Rămâi cu noi adâncă Mângâiere,
+Răbdare sfântă să ne dai, Isus. :/
+
+[v4]
+Rămâi cu noi divină-nțelepciune,
+În seara necunoașterii din noi,
+/: Să ne lumini și-n Adevăr ne pune,
+Rămâi cu noi divină-nțelepciune,
+- E vremea rătăcirilor de-apoi. :/
+
+[v5]
+Rămâi cu noi Iubire-n veci nestinsă
+În jur când fărdelegi se înmulțesc,
+/: Tu ne păstrează dragostea aprinsă,
+Rămâi cu noi Iubire-n veci nestinsă,
+Prin Tine a noastre inimi se sfințesc. :/
+
+[v6]
+Rămâi cu noi Lumina Veșniciei
+Căci seara plânsului ne-a copleșit,
+/: Adu-ne dimineața bucuriei,
+Rămâi cu noi Lumina Veșniciei,
+Când trecem prin pustiul nedorit. :/
+
+[v7]
+Rămâi cu noi Eternă Sărbătoare
+căci Tu ne ești al vieții noastre rai,
+/: În noaptea-ntunecoasă ne ești Soare,
+Rămâi cu noi Eternă Sărbătoare,
+Odihna Mântuirii să ne dai. :/

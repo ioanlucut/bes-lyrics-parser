@@ -1,0 +1,41 @@
+[title]
+Dragostea e cel mai mare o dintre daruri pe paman {author: {Nicolae Moldoveanu}, {rcId: {5816}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Dragostea e cel mai mare
+Dintre daruri pe pamant;
+/: Cu ea vietuiesti in lume,
+Si nu vei cadea nicicand. :/
+
+[v2]
+Dragostea, cine o are,
+I se pare viata vis;
+/: Ii serveste de-aripioare
+Pentru-a merge-n Paradis. :/
+
+[v3]
+Cine zice ca iubeste
+Pe Domnul Isus Hristos,
+/: Si pe-un frate il uraste,
+El este un mincinos. :/
+
+[v4]
+Dragostea nu pizmuieste
+Nici chiar pe vrajmasul sau,
+/: Ci, din contra, il iubeste;
+Nu se bucura de rau. :/
+
+[v5]
+Dragostea-i din Dumnezeu!
+Cu ea vom scapa de rau.
+/: Cerul, pamantul vor trece;
+Dragostea va ramanea. :/
+
+[v6]
+Dragostea e pretioasa;
+Prin ea, vom scapa de chin
+/: Si, in tara glorioasa,
+Noi vom fi, in veci. Amin :/

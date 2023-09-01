@@ -1,0 +1,30 @@
+[title]
+Isuse iubirea ta {author: {Iolu Cornel}, {rcId: {150941}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Isuse iubirea Ta
+E scrisa la Golgota
+Cu sangele Tau curat
+Ce viata ne-a dat :/
+
+[c]
+/: La Golgota e lumina-n orice zi
+La Golgota Isus te-asteapta sa vii
+La Golgota iertare poti primi
+La Golgota intinsa-i si azi mana Sa :/
+La Golgota
+
+[v2]
+/: Pe dealul Golgota
+Isus poate sa-ti dea
+Iubire din iubirea Sa
+Deschide-ti inima :/
+
+[v3]
+/: O Doamne-Ti multumim
+Caci Tu la Golgota
+Ne-ai pus in harul Tau
+In inima Ta :/

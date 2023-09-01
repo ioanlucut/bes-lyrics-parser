@@ -1,0 +1,29 @@
+[title]
+Mai am un dor {author: {Daniela Haidaciuc}, {rcId: {172343}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mai am un dor ascuns în noapte
+Mai am un vis, mai am un țel
+Și am o inimă ce bate
+Pentru Ceruri pentru El
+
+[c]
+Mai am o inima ce cântă
+Mai am un dor ce mă mai leagă
+Un singur gând mă mai frământă
+Să zbor spre Țara mea cea dragă
+
+[v2]
+Mai am un dor ce-l port în suflet
+Un dor ce numai Tu îl știi
+Aș vrea când vei veni Isuse
+Să zbor ți eu spre veșnicii
+
+[v3]
+Dincolo de orice ispită
+De orice luptă de-orice greu
+Privesc prin ochii de credință
+Mi-e dor de Tine Domnul meu

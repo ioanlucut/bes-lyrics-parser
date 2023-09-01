@@ -1,0 +1,44 @@
+[title]
+Printre lacrimi {author: {Sara Dehelean}, {rcId: {184271}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Eu printre lacrimi spun,
+Bunul meu Salvator,
+În fața Ta, când mă-nchin
+Și vina mea a pus peste fruntea Ta,
+Cununa grea de spini.
+
+[c]
+Și vina mea e-n rana
+Piroanelor din mâini,
+Dar Tu mi-ai deschis poarta
+Spre Cerul Tău divin.
+
+[v2]
+Raze din crucea Ta,
+Stele mii s-au aprins
+Când iertare-am primit,
+Când prin al jertfei dar Tu m-ai îmbrăcat
+În bogății de har.
+
+[c2]
+Urcând, pe calea-ngustă,
+Spre sfinte înălțimi,
+Să fiu tot mai aproape
+De Cerul Tău divin.
+
+[v3]
+Prin porți de veșnicii,
+Din a plângerii văi
+În mărire pășind,
+Doar prin iubirea Ta mă voi închina
+La tronul tău, uimit.
+
+[c3]
+Când mâna Ta, de Tată,
+Va pune strălucind
+Pe fruntea mea, cununa,
+În Cerul Tău divin.

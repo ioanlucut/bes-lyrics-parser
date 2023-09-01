@@ -1,0 +1,31 @@
+[title]
+Tara mea {author: {Emanuel Boca}, {rcId: {92984}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Ostenit de alergare si de zbuciumul cel greu
+Ce frumos sa sti ca astazi langa tine-I Dumnezeu
+Dupa marea incercare ce-ai avut aici de dus
+Te vei bucura in ceruri pe vecie de Isus
+
+[c]
+/: Tara mea :/
+O cat te doresc
+/: Tara mea :/
+s-ajung mereu sa te privesc
+
+[v2]
+Dupa-tata alergare dupa multe suferinti
+Iti v-a saruta obrajii plini de lacrimi fierbinti
+Dupa-atata intristare vor veni si bucurii
+Si vei sta in cer la masa cu Isus pentru vecii
+
+[e]
+Tara mea,
+O tara mea
+S-ajung mereu sa te privesc
+Tara mea,
+O tara mea
+Sa locuiesc acolo eu as vrea

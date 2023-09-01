@@ -1,0 +1,37 @@
+[title]
+In norul de ispite grele {author: {Nicolae Moldoveanu}, {rcId: {5674}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+In norul de ispite grele,
+Adeseori, sunt afundat.
+/: Adesea-s biruit de rele,
+Adeseori, sunt incercat. :/
+
+[v2]
+Adeseori, ma culc cu lacrimi,
+Si tot cu lacrimi ma trezesc;
+/: Adesea ma intreb: „
+O, Doamne,
+O, spune-mi, unde ma gasesc?” :/
+
+[v3]
+Adeseori, suspin in mine;
+Adesea, zic in nopti tarzii:
+/: „
+Sa nu mai fie-atatea lacrimi,
+In schimb, sa fie bucurii!” :/
+
+[v4]
+Adeseori, as vrea, Isuse,
+Si-atuncea cand sunt intristat
+/: Sa vii, sa mangai a mea fata
+Si sa ma speli de-al meu pacat. :/
+
+[v5]
+Prin toate de-as trece, Isuse,
+De Tine, nu m-as lepada!
+/: Eu, una stiu: sa rabd ca Tine,
+Caci mare-a fost durerea Ta... :/

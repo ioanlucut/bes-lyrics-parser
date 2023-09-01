@@ -1,0 +1,23 @@
+[title]
+O noapte sfanta cu lumini din cerul instelat {author: {Anonim}, {rcId: {7199}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+/: O noapte sfântă cu lumini din cerul înstelat
+Vestește azi venirea sa, Hristos e Împărat :/
+Mărire, laudă lui Isus, copilul minunat
+Se naște azi în Betleem, Hristos e Împărat.
+
+[v2]
+/: Ce dar frumos, de nedescris, azi Tatăl ne-a adus
+L-a dat pe-a lumii salvator Emanuel Isus :/
+Mărire, laudă lui Isus, copilul minunat
+Se naște azi în Betleem, Hristos e Împărat.
+
+[v3]
+/: Ce binecuvântări avem cu Isus pe pământ
+Lui inima i-o dăruim Mântuitorul sfânt :/
+/: Mărire, laudă lui Isus, copilul minunat
+Se naște azi în Betleem, Hristos e Împărat. :/

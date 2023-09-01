@@ -1,0 +1,31 @@
+[title]
+Jos pe via dolorosa {author: {Grupul Filadelfia}, {rcId: {164006}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Jos pe via Dolorosa
+În Ierusalimul vechi
+Soldații loc să-și facă încercau
+Dar mulțimea se-mpingea
+Să-L vadă pe acel Om care era.
+
+[c]
+:Sângerând dintr-o bătaie biciuit și condamnat
+Și cu spini avea El capu-ncoronat
+Și-n fiecare pas purta batjocora celor pierduți:
+
+[v2]
+Jos pe via Dolorosa
+Calea suferințelor
+Ca un miel veni Mesia Salvator,
+Și-a ales drumul acest
+Din dragoste pentru tine.
+
+[v3]
+Jos pe via Dolorosa
+Spre Calvar și spre moarte
+Și acest sânge putea
+Să curețe păcatul tuturor
+Și din Ierusalim.

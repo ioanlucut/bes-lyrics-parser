@@ -1,0 +1,47 @@
+[title]
+Povestea unui vultur {author: {Raze de speranță}, {rcId: {74644}}
+
+[sequence]
+v1,v2,c,v3,c2,v4,c3
+
+[v1]
+Aș vrea să-ți spun povestea unui vultur
+Pe care îl țineau de mult legat
+El se-nvârtea-ntr-un cerc mereu același
+Și liber el credea că l-au lăsat
+
+[v2]
+Într-un târziu stăpânul i-a dat drumul
+Inelul de oțel el l-a zdrobit
+Spre înălțimi bătrânul vultur și-a luat zborul
+Dar curând s-a-ntors în cercul său obișnuit
+
+[c]
+Fără lanțuri care să-l țină
+El s-a-ntors la vechiul obiceiul
+Lângă același lanț de fier
+Pe care stăpânul său l-a dezlegat
+
+[v3]
+Aș vrea să-ți spun prietene un lucru
+Despre oamenii din vremea de acum
+La fel ca vulturul acesta ei sunt liberi
+Dar se întorc.. se-ntorc mereu din drum
+
+[c2]
+Fără lanțuri care să-i țină
+Ei se-ntorc la vechiul obicei
+Lângă același lanț de fier
+Pe care stăpânul lor l-a dezlegat
+
+[v4]
+Ia aminte prietene și-nvață
+Cum să fii liber într-o lume de-nchisori
+Nu te-ntoarce la vechiul mod de viață
+Ci deschide-ți larg aripile și zbori
+
+[c3]
+Spre înălțimi, spre lumină
+Spre o lume în care vei găsi
+Dragoste și bucurii
+O lume în care viața are rost

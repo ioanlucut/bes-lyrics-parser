@@ -1,0 +1,40 @@
+[title]
+Cat ai trait ai strans {author: {Nicolae Moldoveanu}, {rcId: {2145}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Cât ai trăit, ai strâns și-ai strâns,
+Cum strânge de pe crengi furtuna.
+/: Și-acum te uiți, cu suflet plâns,
+Căci toate câte ți le-ai strâns,
+/: Te lasă una câte una. :/
+
+[v2]
+Ai vrut, în lumea de noroi
+Să îți faci un rai. Ce cutezanță!
+/: Și-acum, dai totul înapoi
+Și pleci din Rai cu pumnii goi,
+/: Iar unde pleci, tu n-ai speranță... :/
+
+[v3]
+Ai vrut, aici, pe acest pământ,
+Să-ți saturi inima flămândă;
+/: Dar toate-aici se duc, pe vânt,
+Iar mai încolo de mormânt
+/: Tu nu ți-ai strâns decât osândă... :/
+
+[v4]
+Ai vrut să fii înconjurat
+De tot ce mângâie privirea.
+/: Dar, vai, cu cât ai adunat,
+Cu cât de lume te-ai legat,
+/: Cu-atât mai grea e despărțirea! :/
+
+[v5]
+Privește dar ce ți-a rămas?
+Și singur judecă-ți ființa!
+/: Isus te cheamă, fă un pas,
+Și-apucă-n ultimul tău ceas
+/: Comoara cea de preț: căința. :/

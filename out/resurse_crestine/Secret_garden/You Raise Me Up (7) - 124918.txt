@@ -1,0 +1,27 @@
+[title]
+You raise me up () {author: {Secret Garden, Traducere RO}, {rcId: {124918}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Când sunt răpus și sufletul meu geme,
+Când îmi e greu și sunt împovărat,
+Stau liniștit, Te caut în tăcere
+Și Te aștept să-mi spui că sunt salvat.
+
+[c]
+Tu mă înalți, iar eu pot sta pe culme,
+M-ajuti să merg pe valuri cand mi-e greu.
+Sunt neclintit când stau pe ai Tăi umeri
+Tu mă înalți, mai sus decât pot eu.
+/: Tu mă înalți, iar eu pot sta pe culme.
+M-ajuti să merg pe valuri când mi-e greu.
+Sunt neclintit când stau pe ai Tăi umeri
+Tu mă înalți mai sus decât pot eu. :/ X 3
+
+[v2]
+O viață fără teama-i amăgire,
+Și fără inimi grele sau pustii,
+Dar când vii Tu, rămân mut de uimire
+Mă-nvălui în eterne bucurii.

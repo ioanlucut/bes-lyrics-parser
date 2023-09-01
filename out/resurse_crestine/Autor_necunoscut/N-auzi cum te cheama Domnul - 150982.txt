@@ -1,0 +1,39 @@
+[title]
+N-auzi cum te cheama domnul {author: {Anonim}, {rcId: {150982}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+N-auzi cum te cheamă Domnul?
+Scoală, păcătosule!
+Știi tu cine-I, cin’ te cheamă?
+E Mântuitorul tău.
+
+[c]
+Vin’ la El, Vino azi!
+Vino la Isus acum!
+
+[v2]
+Nu-ți ajunge-atâta vreme
+De când nu vrei să-L primești?
+O, de ce-L lași ca s-aștepte?
+Vin’! Nu mai întârzia!
+
+[v3]
+El îți dă iertare astăzi
+Și o nouă inimă,
+Pacea Lui cea ne’ntrecută,
+Cerul cu-a lui fericiri.
+
+[v4]
+El Și-ntinde-acuma mâna
+Și te-așteaptă ca să vii.
+Vino, oaie rătăcită!
+Vino și nu zăbovi!
+
+[v5]
+Domnu-acum stă și te cheamă,
+Dar va trece în curând...
+Oh! grăbește și-L primește
+Înainte de-a pleca!

@@ -1,0 +1,35 @@
+[title]
+Astazi cant {author: {Achim Cristian}, {rcId: {132325}}
+
+[sequence]
+v1,c,v2,c,v3,b,c
+
+[v1]
+Astăzi cânt, căci a venit Crăciunul,
+Ce bucurie mare printre noi,
+Sfântul Miel vestit iată că vine,
+Doar speranță aduce cu El.
+
+[c]
+Pruncul Isus S-a născut în iesle.
+Cerul cântă, îngerii-L slăvesc,
+Steaua sfântă cerul luminând,
+Pentru Mesia venit pe pământ.
+
+[v2]
+Astăzi cânt, căci S-a născut Mesia,
+Mântuitorul, Fiu de Dumnezeu,
+A venit din slava-I minunată,
+Să mă spele de păcatul meu.
+
+[v3]
+Astăzi cânt, căci este sărbătoare,
+Răsună imnuri sfinte lăudând,
+Cerul și pământul aduc slavă,
+Glorie cântă Mielului preasfânt.
+
+[b]
+/: Astăzi cânt, astăzi cânt - a venit Crăciunul.
+Astăzi cânt, astăzi cânt - S-a născut Mesia.
+Astăzi cânt, astăzi cânt - este sărbătoare,
+Astăzi cântă și tu! :/ x3

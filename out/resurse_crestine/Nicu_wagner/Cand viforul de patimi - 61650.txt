@@ -1,0 +1,41 @@
+[title]
+Cand viforul de patimi {author: {Nicu Wagner}, {rcId: {61650}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când viforul de patimi
+Spre tine-a năpustit
+Și simți că tot fiorul
+Divin s-a prăbușit,
+Când toți ai tăi de-aproape
+Cu zori te asupresc,
+El vine să te scape,
+Slăvitul Domn ceresc.
+
+[c]
+/: Nu dispera, te-ncrede
+Deplin în Dumnezeu,
+El vine-n ceasuri grele
+Cu ajutorul Său. :/
+
+[v2]
+Când cerul vieții tale
+S-a-ntunecat de nori,
+Rămâi statornic, frate,
+Ei trec și iar vin zori.
+Când viața îți devine
+Povară, zi de zi,
+Stai sus, din ea renaște
+Viață spre vecii.
+
+[v3]
+Când crezi că pierzi vecia
+Privește spre calvar.
+El trestia nu o frânge
+Nici nu va stinge-un jar.
+Când viforul de patimi
+Spre tine a năpustit,
+Și simți că tot fiorul
+Divin s-a prăbușit.

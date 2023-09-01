@@ -1,0 +1,42 @@
+[title]
+Nu lasa sa treaca vremea {author: {Nicolae Moldoveanu}, {rcId: {5597}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Nu lăsa să treacă vremea
+Trece însăși viața ta!
+Se apropie și timpul,
+Socoteală când vei da.
+Trece ziua cea de azi,
+Mai în jos cu-o treaptă cazi,
+Sau cu una te ridici,
+Căci nu poți sta tot aici.
+
+[c]
+Te ridici, sau cobori?
+Te întreb de două ori:
+„
+Te ridici sau te cobori?”
+
+[v2]
+Oare bani-ți sunt căderea,
+De nu poți să te ridici?
+Caci sunt multi cu mare-avere,
+Dar cu sfletele mici.
+Dacă vrei să fii bogat,
+Să ai sufletul curat!
+Bogății să nu le zici
+Celor ce rămân aici!
+
+[v3]
+Nu căuta mărirea lumii,
+Nu căuta să fii ’nălțat,
+Căci Domnul Isus ne spune:
+„
+Totul va fi spulberat!”
+Dumnezeu a lepădat
+Ce la oameni e-nălțat;
+Umilința de-o păzești,
+Află că pe-un bun drum ești.

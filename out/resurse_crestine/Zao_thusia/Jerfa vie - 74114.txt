@@ -1,0 +1,36 @@
+[title]
+Jerfa vie {author: {Zao Thusia}, {rcId: {74114}}
+
+[sequence]
+v1,b,c,v2,c,e
+
+[v1]
+Mă proștern, Isus, ’naintea Ta
+Îți aduc toată ființa mea
+Îngenunchez și tot ce am ți-ofer
+Mă-ncredințez deplin în brațul Tău, în brațul Tău!
+
+[b]
+Viața mea Ție-Ți dăruiesc
+Jertfa Ta în inim’-o primesc
+Te accept ca Domn și Salvator
+Pe brațul Tău mă porți
+De-acum încolo, de-acum încolo!
+
+[c]
+Ca o jertfă vie, eu mă dăruiesc
+Doamne, numai Ție, pe Tine Te iubesc,
+La altarul sfânt vin, cu tot ce sunt mă-nchin
+Ție, doar Ție, Domn divin, doar Ție Domn divin!
+
+[v2]
+Mintea mea Tu să o-nnoiești
+Viața mea, Isus, Tu o sfințești
+Vreau sa mor față de păcat
+Focul sfânt să ardă ne-ncetat, neîncetat!
+
+[e]
+/: Doar Ție Domn divin :/
+x3
+Mă dăruiesc, mă dăruiesc,
+/Doar Ție Domn divin/x2 Doar Ție!

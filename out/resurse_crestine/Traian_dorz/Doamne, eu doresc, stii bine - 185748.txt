@@ -1,0 +1,35 @@
+[title]
+Doamne eu doresc stii bine {author: {Traian Dorz}, {rcId: {185748}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Doamne, eu doresc, știi bine,
+Numai drumul Tău plăcut,
+Dar, adesea, dintr-o dată,
+Iar mă pomenesc căzut.
+
+[c]
+Doamne-ai milă când cad iar,
+Fă-mă să pot plânge-amar,
+Să mă lepăd de ce-i rău,
+S-ajung iar copilul Tău.
+
+[v2]
+Doamne, eu doresc, știi bine,
+Strajă buzelor să-mi pui,
+Dra adesea, dintr-o dată,
+Iar vorbesc ca un nebun.
+
+[v3]
+Doamne, eu doresc, știi bine,
+Să-ți urmez cuvântul sfânt,
+Dra adesea, dintr-o dată,
+Iar mă pomenesc căzut.
+
+[v4]
+Doamne, eu doresc, știi bine,
+S-ajung starea cea de har,
+De la care, niciodată
+Să nu pot să mai cad iar.

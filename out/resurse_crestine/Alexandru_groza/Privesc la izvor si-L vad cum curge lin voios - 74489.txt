@@ -1,0 +1,33 @@
+[title]
+Privesc la izvor si-l vad cum curge lin voios {author: {Alexandru Groza}, {rcId: {74489}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Privesc la izvor și-L văd cum curge lin voios
+Apă rece cristal răcoritor
+Printre stânci voios el cântă slavă Domnului
+Că Dumnezeu l-a creat.
+
+[c]
+În dis-de-dimineață cerbul din el se-adapă
+Și păsărelele în zbor
+Cu apa lui curată te-mbie fără plată
+Să bei iubite călător.
+Te laud Domnul meu și slavă-Ți cânt mereu
+Pentru că toate le-ai creat așa de minunat
+Mă-nchin ’naintea Ta cu toată ființa mea
+Pentru că toate le-ai creat așa de minunat.
+
+[v2]
+Izvor minunat la tine vin cei însetați
+Tu-i răcorești pe toți înveselești
+Vin să beau și eu să-mi răcoresc sufletul meu
+Să-I pot cânta Domnului.
+
+[v3]
+Prin munții înalți el se revarsă lin, voios
+Și cheamă la viață pe toți cei însetați
+O, vino și tu să bei din apa vieții-n dar
+O, vino azi la Isus.

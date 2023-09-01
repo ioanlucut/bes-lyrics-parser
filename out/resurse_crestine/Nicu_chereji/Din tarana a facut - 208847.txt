@@ -1,0 +1,35 @@
+[title]
+Din tarana a facut {author: {Nicu Chereji}, {rcId: {208847}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Din tărână a făcut, Dumnezeu de la început
+Omul cu atâta grijă
+Și-o grădină ia sădit, în Eden spre răsărit
+Omului ce l-a întocmit.
+
+[c]
+Mare-i Dumnezeu, mare-i e puterea
+Minunate-I sunt lucrările
+Luna, soarele, stelele si cerul,
+Îl slăvesc pe Dumnezeu
+
+[v2]
+Râuri, pomi și bogății, pentru omul cel dintâi
+A pus Domnul în grădina
+Tot ce-a fost mai bun ia dat, însă omul n-a ascultat,
+De Acel ce l-a creat.
+
+[v3]
+Însă Domnul Dumnezeu, pentru tot ce a fost rău
+A găsit o ispășire,
+Milă multă a arătat, omului ce-a fost creat
+De-a Lui mâna cu iubire
+
+[v4]
+De la omul cel dintâi, până azi și-n veșnicii
+Dumnezeu e temelia!
+Dragostea și sfatul Lui, planurile Domnului
+Ce ne-aduce izbăvirea!

@@ -1,0 +1,23 @@
+[title]
+Nimeni n-a iubit atat de mult (no one cared so much) {author: {Jim Hill, Traducere RO}, {rcId: {226039}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Nu există nume scump ca Isus
+Nimeni n-a iubit atât de mult;
+Am primit prin jertfa Lui iertare
+Nimeni n-a iubit atât de mult.
+
+[c]
+Nu-i nimeni, așa, ca Isus
+Nu-i alt Prieten mai scump și sfânt;
+A murit în locul meu pe o cruce
+Nimeni n-a iubit atât de mult.
+
+[v2]
+Când voi sta-n prezența Lui, în slavă
+Înaintea Lui mă voi pleca;
+Și-am să vin voios, cu mulțumire
+C-a purtat pe lemn pedeapsa mea.

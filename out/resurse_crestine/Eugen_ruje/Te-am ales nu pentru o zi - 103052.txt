@@ -1,0 +1,41 @@
+[title]
+Te-am ales nu pentru o zi {author: {Eugen Ruje}, {rcId: {103052}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Te-am ales nu pentru o zi,
+Te-am ales al meu să fii cât voi trăi!
+Te-am ales iubitul meu,
+Și de-acum eu vreau mereu cu tin’ să fiu!
+Te-am ales, căci te-am iubit,
+Te-am ales, căci te-am dorit în viața mea!
+Dragostea să-ți dăruiesc,
+Visurile să-ți împlinesc,
+De aceea te-am ales.
+
+[c]
+/: Cu tine-n gând voi adormi,
+Cu tine-n gând mă voi trezi,
+În zile de bine, în zile de greu
+Cu tine-n gând voi fi mereu, iubitul meu :/
+
+[v2]
+Mereu, mereu nedespărțiți,
+Prin Dumnezeu să fim uniți
+Asta-mi doresc!
+Cuvântul Sfânt să-L împlinim,
+În pace sfântă să trăim
+Cum El ne-a spus.
+Prin tot ce facem să-L slujim,
+Ca într-o zi să moștenim ce ne-a promis!
+Ce fericire vom avea
+Când împreună vom zbura spre slava Sa!
+
+[e]
+Am să mă rog la Dumnezeu în fiecare zi
+Cum ești acum, așa mereu să fii!
+Iubirea ta, zâmbetul tău și felul cum vorbești,
+În fiecare zi sau noapte, departe sau aproape
+Te rog ca-ntreaga viață să mi le dăruiești!

@@ -1,0 +1,31 @@
+[title]
+Sunt o stea {author: {Anonim}, {rcId: {4154}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Sunt o stea strălucitoare
+O poveste vreau să-ți spun
+Despre o zi de sărbătoare
+În care un rege s-a născut
+Cu un zâmbet de iubire
+Lumea-ntreagă a cucerit
+Și din mine o stea sfioasă
+O lumină-a făurit.
+
+[c]
+/: Nu-i nimic să poată-ntrece
+Bucuria de a fi, o lumină pentru Tine
+Dumnezeul meu iubit.
+ /:
+
+[v2]
+Un cadou venit din ceruri
+Este Pruncul minunat
+Către ieslea lui umilă
+Drumul eu l-am luminat,
+N-a fost loc într-o cetate
+Pentru Regele divin
+Dar în inima ta astăzi
+Își găsește-un loc oricând.

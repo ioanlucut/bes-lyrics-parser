@@ -1,0 +1,47 @@
+[title]
+Nu uita nu uita niciodata {author: {Daniel Briciu}, {rcId: {240355}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Nu uita, nu uita că-n iubire
+Pentru tine Isus a venit,
+Să-ți aducă în dar mântuire,
+Fiindcă Domnul atât te-a iubit.
+
+[c]
+/: Nu uita, nu uita niciodată
+Că Isus pentru tine-a murit,
+Nu uita că pe crucea Golgotei
+Pentru tine Isus s-a jertfit. :/
+/: Nu uita, nu uita niciodată
+Că Isus pentru tine-a murit,
+Nu uita că pe crucea Golgotei
+Pentru tine Isus s-a jertfit. :/
+/: Nu uita, nu uita niciodată
+Că Isus pentru tine-a murit,
+Nu uita că pe crucea Golgotei
+Pentru tine Isus s-a jertfit. :/
+/: Nu uita, nu uita niciodată
+Că Isus pentru tine-a murit,
+Nu uita că pe crucea Golgotei
+Pentru tine Isus s-a jertfit. :/
+
+[v2]
+Nu uita, nu uita niciodată
+Prin ce chinuri Isus a trecut,
+Când soldații romani plini de ură
+Fără milă pe EL l-au bătut.
+
+[v3]
+Nu uita, nu uita nici de crucea
+Ce-a purtat-o pe Golgota-n sus,
+Nici de stropii de sânge și lacrimi
+Ce-i vărsa pentru tine Isus.
+
+[v4]
+Nu uita că-ntre săbii și suliți
+El batjocura ta a purtat,
+Cu piroane în mâini și-n picioare
+Pentru tine viața și-a dat.

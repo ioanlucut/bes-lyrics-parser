@@ -1,0 +1,41 @@
+[title]
+O adevarule {author: {Nicolae Moldoveanu}, {rcId: {186266}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+O, Adevărule frumos,
+Ești însuși Dumnezeu,
+Ești însuși Domnul meu Hristos,
+Ești El, ești El mereu.
+
+[c]
+O, Adevăr, o, Dumnezeu,
+În Tine vreau să fiu mereu
+Să nu mai fiu și Tu și eu
+Ci numai Tu, Tu Domnul meu!
+
+[v2]
+Prin El deplin Tu mi Te-ai dat
+Și astăzi ești al meu,
+În El întreg ești întrupat
+Ești El, ești El mereu!
+
+[v3]
+Și Adevăr Tu mă dorești,
+Să fiu deplin și eu,
+Căci Adevăr de-a pururi ești,
+Doar Tu, doar Tu mereu.
+
+[v4]
+Cât timp în lume noi vom fi
+Un Tu și-un eu, mereu,
+Tu Adevăr vei străluci
+Minciună voi fi eu...
+
+[v5]
+O, Adevăr, atâta-mi cei:
+Să nu fim Tu și eu,
+Ci-o singură ființa vrei:
+Tu-eu, eu-Tu, mereu!

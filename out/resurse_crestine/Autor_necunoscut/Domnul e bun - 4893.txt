@@ -1,0 +1,17 @@
+[title]
+Domnul e bun {author: {Anonim}, {rcId: {4893}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+/: Domnul e bun
+Și îndurările Sale le iubesc eu. :/
+
+[v2]
+/: El e aici
+Și îndurările Sale le iubesc eu. :/
+
+[v3]
+/: Domnul e viu
+Și îndurările Sale le iubesc eu. :/

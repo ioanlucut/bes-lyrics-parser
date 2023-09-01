@@ -1,0 +1,29 @@
+[title]
+O ce veste minunata {author: {Anonim}, {rcId: {5017}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+O, ce veste minunată
+În Betleem ni se-arată.
+/: Astăzi s-a născut Cel făr’ de-nceput,
+Cum au zis proorocii. :/
+
+[v2]
+Mergând Iosif cu Maria
+În Betleem să se-nscrie,
+/: Într-un mic sălaș, lâng-acel oraș
+S-a născut Mesia. :/
+
+[v3]
+Păstorii văzând în zare,
+Din cer o lumină mare,
+/: Ei fluierau, îngerii cântau
+Și cu toți se bucurau. :/
+
+[v4]
+Pe Fiul în al Său Nume
+Tatăl L-a trimis în lume,
+/: Să se nască și să crească,
+Să ne mântuiască. :/

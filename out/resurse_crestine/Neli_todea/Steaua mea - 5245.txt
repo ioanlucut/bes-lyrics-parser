@@ -1,0 +1,41 @@
+[title]
+Steaua mea {author: {Neli Todea}, {rcId: {5245}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Sus pe cerul îndurării,
+Fă să mai apară o stea,
+Până-n clipa întâlnirii,
+Tot acolo, sus, să stea.
+
+[c]
+Din lumina Ta lumină,
+Să ia și să dea.
+Candelă aprinsă, plină,
+Steaua mea, steaua mea.
+
+[v2]
+Sus pe cerul îndurării,
+Vântul când va bate,
+Să-i întinzi cupa-ndurării
+Și să-i fi aproape.
+
+[c2]
+Din lumina Ta lumină,
+Să ia și să dea,
+Candelă aprinsă, plină,
+Steaua mea, steaua mea.
+
+[v3]
+Sus pe cerul îndurării,
+Negri norii s-or aduna,
+Chear și-n focul încercări,
+Steaua mea va lumina.
+
+[c3]
+Din lumina Ta lumină
+Să ia și să dea,
+Candelă aprinsă, plină,
+Steaua mea, steaua mea.

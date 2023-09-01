@@ -1,0 +1,41 @@
+[title]
+Biserica biruitoare {author: {Dan Damian}, {rcId: {238939}}
+
+[sequence]
+v1,c,v2,c,v3,c2,c3
+
+[v1]
+La Golgota de mult Isus
+Prin sânge sfânt, plăti de-ajuns
+Darul Divin al mântuirii prin Christos
+Har pentru omul, mort păcătos
+
+[c]
+Biserica Lui, biruitoare va fi mereu pân’ la sfârșit
+Nimeni nu poate să o învingă, El a promis
+Nu e putere, nu sunt sisteme, nu-s legi făcute pe pământ
+Să ne doboare, să ne oprească, cu noi e Domnul sfânt
+
+[v2]
+A înviat, s-a înălțat,
+La Cinzecimi a revărsat
+Duhul Cel Sfânt, biserica Lui botezând
+Plini de putere cu El umblând
+
+[v3]
+Trecut-au regi și-npărății
+Stăpâni și vremi cu oameni mii
+Biserica triumfătoare a rămas
+Cu ea e Domnul, pas cu pas
+
+[c2]
+Isus revine, pe nori ca Mire să-și ia la cer Biserica
+Sfântă curată, fără de pată, El a promis
+Ce întâlnire, în strălucire când fața Lui o vom vedea
+Cu adorare, în închinare Isus te-om lăuda
+
+[c3]
+/: Glorie Tatălui, glorie Fiului
+Glorie Duhului Cel Sfânt, Amin :/ (3x)
+Glorie Tatălui și Fiului, Amin
+Glorie Duhului Cel Sfânt, Amin!

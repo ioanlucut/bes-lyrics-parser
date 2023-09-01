@@ -1,0 +1,55 @@
+[title]
+Se-aude astazi tot mai tare {author: {Onisim Grab}, {rcId: {151375}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,v5,c5
+
+[v1]
+Se-aude astăzi tot mai tare
+De vestea că Isus revine,
+Evenimentul cel mai mare
+Ce-l va vedea întreaga lume.
+
+[c]
+/: El vine, El vine cu toții sa-I cântăm,
+El vine, El vine cu drag să-L așteptăm. :/
+
+[v2]
+Azi tot pământul e-n miscare
+Căci Domnul vine cu mărire,
+Și tot mai mult se dau semnale
+Ce prevestesc a Lui venire.
+
+[c2]
+/: El vine, El vine și ce frumos va fi,
+El vine, El vine să-și ia ai Săi copii. :/
+
+[v3]
+Se-aude dinspre zare-albastră
+Tot mai sublime melodii,
+Un cor din slava cea cerească
+Cântand Acelui din vecii.
+
+[c3]
+/: El vine, El vine Îi cântă îngerii,
+El vine, El vine Îi cântă Domnului. :/
+
+[v4]
+Voi univers, pâmânt și mare
+Va închinați în fața Lui
+Căci El e minunatul soare
+Slăvitul Prinț al cerului
+
+[c4]
+/: El vine, El vine cu toți vă închinați,
+El vine, El vine pe Domnul lăudați. :/
+
+[v5]
+Străjerii de pe turnuri strigă
+Că se zăresc pe culmi lumini.
+Tu omule acum te-ntreabă:
+Te-ai pregătit să Il întâmpini?
+
+[c5]
+/: El vine, El vine cu toții să-L slăvim,
+El vine, El vine deci să ne pregătim. :/

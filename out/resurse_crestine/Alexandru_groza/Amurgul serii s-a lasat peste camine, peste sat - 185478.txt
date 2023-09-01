@@ -1,0 +1,25 @@
+[title]
+Amurgul serii s-a lasat peste camine peste sat {author: {Alexandru Groza}, {rcId: {185478}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Amurgul serii s-a lăsat peste cămine, peste sat
+Oameni trudiți de muncă vin acas’
+O zi din viață iar s-a dus, așa cu Doamne, Tu ai spus
+Cu trudă pâinea zilei noi am câștigat.
+
+[c]
+Cu pacea-n suflet, Doamne, vin,
+’naintea Ta să mă închin
+Să-Ți mulțumesc de Harul Tău cel minunat
+Cu mine-ai fost de la-nceput
+În orice pas ce l-am făcut
+De bunătate sufletul mi l-ai umplut!
+
+[v2]
+Când dimineața va veni și va începe-o nouă zi
+Sufletul meu Te va slăvi, Isus Hristos
+În frumusețea zilelor și în decursul anilor
+Prezența Ta e harul bucuriilor!

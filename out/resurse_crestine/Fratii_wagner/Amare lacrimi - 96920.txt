@@ -1,0 +1,40 @@
+[title]
+Amare lacrimi {author: {Frații Wagner}, {rcId: {96920}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Amare lacrimi sunt
+Aici jos pe pământ:
+Durere, suferință și amar.
+Atât de mulți sărmani
+Și foarte mulți orfani;
+Isuse, Tu de toți îndură-Te.
+
+[c]
+/: Căci te chemăm cu dor
+Și ne uităm în zări,
+De unde izbăvirea va veni...
+Căci, Doamne, ne-ai promis,
+În Biblie stă scris,
+Căci suferința noastră
+S-a sfârșit. :/
+
+[v2]
+Privește în Casa Ta
+Și vezi că lupta-i grea,
+Păzește-Ți astăzi Tu Biserica.
+Să nu dăm înapoi,
+Isuse, fii cu noi,
+Ne dă puteri
+Din Duhul Tău cel Sfânt.
+
+[v3]
+De toți să Te înduri,
+La ceruri să ne sui,
+Cu toți cei dragi, Isus,
+Ce ni i-ai dat
+Și apoi în țara Ta,
+Pe veci vom rămânea
+Și bucuria nu va înceta.

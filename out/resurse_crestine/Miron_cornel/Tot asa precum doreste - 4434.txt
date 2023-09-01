@@ -1,0 +1,29 @@
+[title]
+Tot asa precum doreste {author: {Miron Cornel}, {rcId: {4434}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Tot așa precum dorește
+Cerbul apă din izvor
+Ființa mea dorește pacea
+O, Isus scump Salvator :/
+
+[c]
+M-am săturat de această lume
+Doresc pe plaiuri îngeri
+Aș vrea să fiu Isus cu Tine
+Acolo-n slăvile cerești
+
+[v2]
+/: Lasă peste a mea ființă
+Pace sfânta, dragoste
+Dă-mi putere și credință
+Să pășesc drept pe cale :/
+
+[v3]
+/: Ochii mei zăresc o țară
+Este țara cea de sus
+O, tu patrie cerească
+Pregătită de Isus :/

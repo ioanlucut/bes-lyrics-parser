@@ -1,0 +1,47 @@
+[title]
+Eu cred in vindecarile divine {author: {Dionisie Giuchici}, {rcId: {6870}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Eu cred în vindecările divine
+Căci El mă vindecase și pe mine
+Căci El e doctorul cel bun și mare
+La El găsești alin și vindecare.
+
+[c]
+/: În numele Lui ești vindecat
+În numele Lui poți fi iertat
+În numele Lui ești mântuit
+În numele Lui ești fericit. :/
+
+[v2]
+Eu cred în El căci El în veci trăiește
+Și este atotputernic si slăvit,
+El orice boală o tămăduiește
+Căci El e Domnul care ne-a-ntocmit
+
+[v3]
+Eu cred în Domnul care ne conduce
+Prin stâlpul Său de foc mistuitor
+În rănile și-n jertfa de pe cruce
+Găsim cu toți balsam vindecător.
+
+[v4]
+Eu cred așa cum a crezut sutașul
+O, Doamne zi o vorbă și-i de-ajuns
+Ne vindecă și nouă copilașul
+La ruga noastră dă-ne-al Tău răspuns.
+
+[v5]
+Eu cred ca și femeia feniciană
+Căci El mai dă și azi fărâmituri
+Când El îți pune degetul pe rană
+Ești vindecat ca orbul din Scripturi.
+
+[v6]
+Eu cred în Domnul care-așa ne spune
+Cu nici un chip Eu nu te voi lăsa
+Eu vin smerit la El în rugăciune
+Și spun la toți de vindecarea Sa.

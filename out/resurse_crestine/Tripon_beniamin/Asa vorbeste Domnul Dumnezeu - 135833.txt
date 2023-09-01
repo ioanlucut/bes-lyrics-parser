@@ -1,0 +1,35 @@
+[title]
+Asa vorbeste domnul dumnezeu {author: {Tripon Beniamin}, {rcId: {135833}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Așa vorbește Domnul Dumnezeu,
+Cel care din necaz te-a izbăvit.
+Încrede-te în El mereu,
+Nu te lăsa de lume amăgit.
+
+[c]
+Trezește-te, trezește-te, Sioane!
+Îmbracă-te-n podoaba ta!
+Trezește-te, trezește-te, Sioane!
+Ai grijă să nu ți se fure cununa!
+
+[v2]
+Ascultă tu Cuvântul Domnului,
+Cel care te-ajută la greu,
+Să treci prin încercări biruitor,
+Să nu cazi în păcatul celui rău.
+
+[v3]
+Trezește-te acum, poporule,
+Nu te lăsa de dușmani biruit,
+Luptă în rugăciuni până învingi,
+Căci Domnul te-ajută pân’ la sfârșit.
+
+[v4]
+Veghează tu până în zori de zi,
+Nu te lasa de negur-adormit,
+Trezește-te, căci Domnul va veni!
+Oare pe tine cum te va găsi?

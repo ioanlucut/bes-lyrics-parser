@@ -1,0 +1,21 @@
+[title]
+Copiii au spus osana {author: {Anonim}, {rcId: {868}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Copiii au spus Osana
+Bărbații au spus Osana
+Femeile au spus Osana
+O, Rege al lui Israel!
+
+[c]
+/: Binecuvântat fie Acel ce vine
+În Numele Domnului :/
+
+[v2]
+Copilașii-au spus Osana
+Și bătrânii-au spus Osana
+Tot poporu-a spus Osana
+O, Rege al lui Israel!

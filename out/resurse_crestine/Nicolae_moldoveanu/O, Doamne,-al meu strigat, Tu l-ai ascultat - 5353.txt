@@ -1,0 +1,30 @@
+[title]
+O doamne-al meu strigat tu l-ai ascultat {author: {Nicolae Moldoveanu}, {rcId: {5353}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+O, Doamne,-al meu strigat, Tu l-ai ascultat
+Si-n suflet speranta si pace-ai lasat;
+/: Zilele triste si negre s-au dus,
+Un cantec de slava inchin lui Isus. :/
+
+[v2]
+Imi salta de dragoste azi inima
+Si canta un cantec, marind slava Ta.
+/: Ochii isi indreapta privirea in sus
+Si buzele-mi canta: „
+Slavit fii, Isus!” :/
+
+[v3]
+Doresc sa Te am langa mine mereu:
+Si-n zile cu soare, si-atunci cand e greu;
+/: Un pumn de tarana, nimica eu sunt,
+Dar birui pe Cel Rau in Numele-Ti sfant. :/
+
+[v4]
+Caci Tie, Isuse, cu tot m-am predat
+Si toate pe umerii Tai le-am lasat;
+/: Din toate puterile vreau sa-Ti slujesc
+Si Numele-Ti sfant, pana-n veci, sa-l slavesc. :/

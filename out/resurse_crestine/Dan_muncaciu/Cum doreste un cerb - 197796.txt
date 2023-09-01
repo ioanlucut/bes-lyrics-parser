@@ -1,0 +1,41 @@
+[title]
+Cum doreste un cerb {author: {Dan Muncaciu}, {rcId: {197796}}
+
+[sequence]
+v1,b,c,v2,b,c
+
+[v1]
+Cum dorește un cerb izvorul
+Sufletul meu Te dorește
+Dumnezeu meu cel veșnic
+Însetat sunt după Tine
+Înaintea Ta voi merge
+Cu lacrimi și suspine
+
+[b]
+Unde Ești, unde Ești, Te caut
+Unde Ești, unde Ești, Domnul meu
+Unde Ești, unde Ești, Te caut
+Unde Ești, unde Ești, Domnul meu
+
+[c]
+Te arăți în bezna nopții
+Când lumina-n jurul meu dispare
+Harul Tău mă ține-n fiecare zi
+Îndurarea-Ți se-nnoiește
+În fiecare dimineață
+Duhul Tău mă întărește orice-ar fi
+/: Te arăți în bezna nopții
+Când lumina-n jurul meu dispare
+Harul Tău mă ține-n fiecare zi
+Îndurarea-Ți se-nnoiește
+În fiecare dimineață
+Duhul Tău mă întărește orice-ar fi :/ x 4
+
+[v2]
+De ce întristat să umblu?
+Când am un Dumnezeu așa de mare
+A Lui este-ntreg Pământul
+Ce motiv am eu să tremur?
+În Isus îmi pun nădejdea
+Prin valurile vieții

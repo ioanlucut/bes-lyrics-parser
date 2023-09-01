@@ -1,0 +1,30 @@
+[title]
+Nu poti cumpara cu bani o mantuirea minunata {author: {Nicolae Moldoveanu}, {rcId: {5396}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Nu poti cumpara cu bani o Mantuirea minunata!
+/: De te-ai zbate, ani si ani, o Nu-o poti cumpara pe bani:
+Ea se da la cei sarmani, o Prin credinta, fara plata! :/
+
+[v2]
+Nu poti prinde-n mintea ta o Cea-ntinata si fireasca,
+/: Darul de pe Golgota!... o Nu-l poti prinde-n mintea ta,
+Numai Duhul poate da o Starea-n care sa-l primeasca. :/
+
+[v3]
+Nu poti, cu firesti puteri o Sa duci luptele divine,
+/: Nici a-duhului poveri; o Nu poti cu firesti puteri,
+Sa te urci smerit spre cer, o De n-ai viata noua-n tine. :/
+
+[v4]
+Numai harul minunat, o Coborat intreg pe cruce,
+/: Te ridica din pacat o Si din loc intunecat.
+Daca crezi, cu-adevarat, o Mantuire El ti-aduce. :/
+
+[v5]
+Leapada tot ce-i pamant! o Leapada-ti vicleana fire!
+/: Si-atunci Domnul pururi sfant o Iti da harul Lui cel sfant
+Si lumina si avant o Si comori din vesnicie. :/

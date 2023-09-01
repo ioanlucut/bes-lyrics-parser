@@ -1,0 +1,41 @@
+[title]
+Auzi ingerii in cor {author: {Anonim}, {rcId: {2832}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Auzi ingerii in cor,
+Ne vestesc mantuitor
+Si proclama cu a lor cant
+Pace in cer si pe pamint
+
+[c]
+Voi popoare tresaltati,
+Si cu ingerii cantati
+/: Pentru omul pacatos
+S-a nascut Isus Hristos. :/
+
+[v2]
+Cel din veci cu Dumnezeu
+Prea marit ca Fiu al Sau
+Intr-un staul sta-nfasat,
+O, ce lucru minunat
+
+[c2]
+Bucurie proclamati
+Pentru toti ce-i apasati
+/: S-a nascut Emanuel
+Dumnezeu cu noi e El :/
+
+[v3]
+Doamne ti-e ne inchinam
+Si-n credinta te-asteptam
+Sa te arati ca imparat
+Ca sa-ti iei al tau regat
+
+[c3]
+Sa ne ajuti sa biruim
+Sa putem sa te primim
+/: Osana in ceruri sus
+Prea marite scump Isus :/

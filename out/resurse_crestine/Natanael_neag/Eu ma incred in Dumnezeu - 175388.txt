@@ -1,0 +1,40 @@
+[title]
+Eu ma incred in dumnezeu {author: {Natanael Neag}, {rcId: {175388}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Eu mă încred în Dumnezeu,
+Căci El îmi este scutul meu,
+/: În El mă-ncred mereu,
+Și-atunci când drumu-i greu,
+Și pacea Lui o simt în pieptul meu. :/
+
+[v2]
+În El mă-ncred orice ar veni,
+Căci mâna Lui mă va păzii,
+/: Chiar greul de-ar venii,
+Necazul de-ar lovi,
+Cu Domnul eu biruitor voi fii. :/
+
+[v3]
+Nu în puterea mea mă țin,
+Aceasta este prea puțin,
+/: Mă țin de El mereu,
+La bine și la greu,
+Căci mare este Dumnezeu. :/
+
+[v4]
+De vrei ca să fii fericit,
+În viață să fii împlinit,
+/: Doar Domnu’-ți poate da,
+Deplin fericirea,
+Umblând mereu pe calea Sa. :/
+
+[v5]
+Iar când de-aici noi vom pleca,
+Spre ceruri ne vom înălța,
+/: Cu toții vom cânta,
+Și ne vom bucura,
+Cântând mereu spre slava Sa. :/

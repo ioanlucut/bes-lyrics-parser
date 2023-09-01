@@ -1,0 +1,35 @@
+[title]
+Caminul fericit {author: {Ala Bragari}, {rcId: {164000}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Toată lumea-n căutare
+După tainele iubirii
+Încercând soluții multe,
+înșelați rămân sărmanii.
+
+[c]
+Când familia împreună,
+Domnului cu drag slujesc
+Bucuria-i nesfârșită,
+Și cu toții se iubesc.
+
+[v2]
+Soții-și părăsesc soția
+Și copiii sunt lăsați
+Toți crezând că v-a fii bine,
+Când cu bani vor fi dotați.
+
+[v3]
+Astăzi este criză mare,
+Nu de bani și nici de case
+Ci de oameni cumsecade
+Și familii sănătoase.
+
+[v4]
+Veniți astăzi să ne-ntoarcem
+în căință și rușine
+La Cel ce-a făcut căminul
+Așezându-i legi divine.

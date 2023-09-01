@@ -1,0 +1,23 @@
+[title]
+O iarta-ma te rog cu lacrimi {author: {narcisa popa nancy}, {rcId: {4462}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Sufletul meu ce greu ma doare
+Caci, domnul meu, eu te-am hulit
+Mai mult decat numele-ti mare
+Mai mult, eu banii i-am iubit
+
+[c]
+/: O, iarta-ma te rog cu lacrimi
+Chiar daca nu am meritat
+Mai bine rabd in suferinta
+Decat sa traiesc neiertat :/
+
+[v2]
+Ajuta-ma sa cer iertare
+Persoanei care i-am gresit
+Ajuta-ma sa fiu in stare
+Ca sa devin un om cinstit

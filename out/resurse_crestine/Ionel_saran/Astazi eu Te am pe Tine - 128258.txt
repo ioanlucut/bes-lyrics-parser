@@ -1,0 +1,39 @@
+[title]
+Astazi eu te am pe tine {author: {Ionel Saran}, {rcId: {128258}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Până Te-am găsit, Isus, pe Tine,
+Eu eram străin în astă lume.
+N-aveam tată, n-aveam mamă,
+/: Nu-mi păsa de lumea-ntreagă,
+Dar trăiam sub grea povară. :/
+
+[c]
+/: Astăzi eu Te am pe Tine
+Scump și drag Mire, Isuse,
+Mi-ai salvat a mea viață,
+Fără ca să-mi ceri vreo plată. :/
+
+[v2]
+Niciodată nu va fi de-ajuns,
+Ca să-Ți mulțumesc, Ție, Isus,
+Căci m-ai scos din grea povară
+/: Și m-ai îmbrăcat cu slavă,
+Pentru ziua ce urmează. :/
+
+[v3]
+Ai milă astăzi, o, Domnul meu!
+De ce cei care au căzut în greu
+Vocea Ta n-au ascultat
+/: De alte cărări au dat,
+Mai ridică-i, Doamne, iar. :/
+
+[v4]
+Viața mea acum are valoare
+Pentru Dumnezeul meu Cel mare,
+Care Fiul Și-a trimis,
+/: Pentru mine-a suferit,
+Sufletul mi-a mântuit. :/

@@ -1,0 +1,35 @@
+[title]
+Calator strain din lume {author: {Anonim}, {rcId: {1587}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Calator strain din lume,
+Azi te chem sa te intorci!
+Lasa soarta care-ti spune:
+„
+Sa amai... acum nu poti...”
+
+[c]
+Ziua-i pe sfarsite, amice,
+Noapea in curand va veni;
+Isus, pe neasteptate, vine!
+Pierdut, pe veci, atunci vei fi!
+Calator ce esti azi, frate,
+Vezi, de esti cu-adevarat!
+Intr-o zi o sa se-arate
+Tot pe fata ce-ai lucrat.
+
+[v2]
+Calatorule, mai rabda!
+Toate vor avea sfarsit.
+Inca Domnul te indeamna;
+N-o sa-I spui: „
+N-am auzit!...”
+
+[v3]
+Calator pribeag din vale,
+Daca nu vei asculta,
+Va veni o zi de jale...
+Cu lacrimi, vei regreta.

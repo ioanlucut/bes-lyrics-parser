@@ -1,0 +1,77 @@
+[title]
+Se aude-un glas departe {author: {Anonim}, {rcId: {6305}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,v5,c5,v6,c6
+
+[v1]
+Se aude-un glas departe
+De prin văile stâncoase
+Este glas de porumbiță
+Care cere biruință
+
+[c]
+Orice glas de porumbiță
+Strigă parcă-i biruință
+Ieși Tu Mire din cămară
+Căci proorocii stau să-ți piară
+
+[v2]
+Strigă astăzi Izabela
+Cu o voce de prigoană
+Ilie cu-ai săi prooroci
+Să fie pierduți cu toți
+
+[c2]
+Nu mai este loc în lume
+De proorocii tăi Stăpâne
+Căci Izabela vrea să-și poarte
+Zeii săi pe locuri nalte
+
+[v3]
+Multe ape sunt stricate
+Si altare dărâmate
+Și izvoarele secate
+De la-nvățători cu plată
+
+[c3]
+Trimite-ne azi în lume
+Semnele ce-au fost cu Tine
+Să vedem prin Duhul Sfânt
+Cum lucrezi Tu pe pământ
+
+[v4]
+O biserică lăsată
+Fără prooroci este moartă
+Mărturia lui Hristos
+Este Duhul din prooroci
+
+[c4]
+Astăzi este vânătoare
+Nu de lupi, ci de mioare
+Se trage-ntruna în prooroci
+Ca să-i omoare pe toți
+
+[v5]
+Un prooroc în adunare
+Are slujba gurii Tale
+Are slujba cea mai grea
+Descoperind starea Ta
+
+[c5]
+Nu mai e-n biserici frică
+De-a păcatului ruină
+Strigă azi de la amvoane
+Izabela-n gura mare
+
+[v6]
+Când un prooroc prorocește
+Cu cântări înăvălește
+Căci Izabela este mare
+Parcă-i Goliat în zare
+
+[c6]
+Nu ne lăsa pe-o mancare
+Să ne vindem darul mare
+Duhul Sfânt noi îl iubim
+Și cu El ne-nveselim.

@@ -1,0 +1,28 @@
+[title]
+Omule de esti bogat {author: {Franti din Barbulesti}, {rcId: {173426}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Omule de ești bogat
+Nu fi rău cu cel sărac
+De vine și-ți bate-n poartă
+Poate Dumnezeu te-ncearcă :/
+
+[c]
+Ei nu sunt la întâmplare
+Poate ești pus la-ncercare
+Cum te porți tu cu oricine
+/: Face Dumnezeu cu tine :/
+
+[v2]
+/: Am văzut oameni bogați
+Alungându-i pe săraci
+Zice du-te vino mâine
+Astăzi nu am timp de tine :/
+
+[v3]
+/: Ca să fi bogat în toate
+Din partea Domnului frate
+Ajută-l pe cel sărac și tu vei fi mângăiat :/

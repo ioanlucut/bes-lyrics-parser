@@ -1,0 +1,14 @@
+[title]
+Esti puternic tu esti sfant {author: {Anonim}, {rcId: {4922}}
+
+[sequence]
+v1,c
+
+[v1]
+Ești puternic, Tu ești sfânt,
+Ești măreț în puterea Ta;
+Ai înviat, ai biruit
+Puterea morții prin tăria Ta.
+
+[c]
+/: Aleluia, ne vom bucura. :/

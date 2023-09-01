@@ -1,0 +1,29 @@
+[title]
+Increderea {author: {Gabi_Ilut}, {rcId: {241265}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Când nu mai ai nimic de spus, când viața e o provocare;
+Când nu aștepți niciun răspuns; există totuși o salvare!
+Prietenul adevărat: Isus Cristos e lângă tine,
+Îți spune ca nu te-a uitat, în ajutorul tău El vine!
+
+[c]
+Încrederea, încrederea să nu ți-o pierzi;
+Chiar dacă nu mai ai nici o speranță!
+Credința ta, credința ta în Dumnezeu,
+Îți va păstra un loc în siguranță!
+
+[v2]
+Când norii nu se mai retrag, să lase loc și pentru soare;
+Când valuri grele zilnic bat, există totuși o scăpare!
+Isus Cristos e în viața ta; și știe sigur cât poți duce;
+El singur nu te va lăsa, când bâjbâi frânt la o răscruce!
+
+[e]
+Stai la loc de scăpare până trece furtuna!
+Vine ziua când El, Domnul îți va întinde mâna!
+Nu te pierde în noapte! Nu pleca fără Isus!
+Ajutorul Lui va veni, când nici nu te vei gândi!

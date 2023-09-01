@@ -1,0 +1,23 @@
+[title]
+Pune-ti casa azi in randuiala {author: {Biji din Barbuleati}, {rcId: {224190}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Viata aceasta este trecatoare
+Cat mai mai vrei sa stai in nepasare.
+/: Tot ce-aduni aici e pentru fire.
+Lupta-te pentru a ta Familie :/
+
+[c]
+/: Pune-ti casa azi in randuiala
+Domnul sa-ti ridice a ta povara
+Staruieste, in post si rugaciune,
+Nicicand sa nu uiti de fapte bune :/
+
+[v2]
+Sa fii frate si tu ca Iosua
+Sa nu locuiasca-n casa ura.
+/: In familie sa ai altare,
+Sa aduca Domnu-nviorare :/

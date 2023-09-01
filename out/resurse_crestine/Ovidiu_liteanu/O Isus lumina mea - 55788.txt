@@ -1,0 +1,53 @@
+[title]
+O isus lumina mea {author: {Ovidiu Liteanu}, {rcId: {55788}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+O Isus lumina mea
+Numai Ție-ți voi cânta
+Pentru Tine e cântarea
+Doamne că mi-ai dat salvarea
+
+[c]
+M-ai chemat să ies din lume
+Să trăiesc doar pentru Tine
+/: M-ai chemat, mi-ai dat iertare
+O ce bucurie mare :/
+
+[v2]
+O Isus lumină dulce
+De la Tine nu m-oi duce
+Duhul Sfânt mă întărește
+Și pe cale mă păzește
+
+[c2]
+Să rămân pe calea sfântă
+Și să biruiesc în luptă
+/: Să mă lupt în umilință
+Să rămân în pocăință :/
+
+[v3]
+Ești cu mine-n orice vreme
+De vrășmași nu m-oi teme
+Fie vânt fie furtună
+Doamne Tu mă ți de mână
+
+[c3]
+Fie cât o fi de greu
+Tu ești Dumnezeul meu
+/: Fie lupta cât de grea
+Doamne ești tăria mea :/
+
+[v4]
+În curând Tu vei veni
+Să răpești ai tăi copii
+Să răpești Biserica
+Colo sus în slava Ta
+
+[c4]
+Mulțumesc Iubite Mire
+Că te-ai îndurat de mine
+/: Al meu nume-i scris în Carte
+Să am viață după moarte :/

@@ -1,0 +1,27 @@
+[title]
+Multumesc ca m-ai salvat {author: {Marta Bergheaua}, {rcId: {61255}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+Multumesc ca m-ai salvat
+Din mocirla si pacat
+Sant dator sa-Ti multumesc
+Toata viata cat traiesc
+La rascruce, Tu mi-ai fost
+Calauza si-adapost
+Sant dator sa-Ti multumesc
+Toata viata cat traiesc
+
+[v1]
+Am fost pierdut, dar Isus m-a aflat
+Viata mea de-atuncea s-a achimbat
+C-o haina Isus m-a-mbracat
+Si-I multumesc caci sant salvat.
+
+[v2]
+Am fost pierdut, dar Isus m-a aflat
+Lumina, pace-n inima mi-a dat
+Cu Duhul Sfant m-a binecuvantat
+De-aceea-i cant neincetat.

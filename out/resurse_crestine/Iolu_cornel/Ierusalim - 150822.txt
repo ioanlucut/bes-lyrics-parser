@@ -1,0 +1,31 @@
+[title]
+Ierusalim {author: {Iolu Cornel}, {rcId: {150822}}
+
+[sequence]
+c,v1,c,e
+
+[c]
+/: Ierusalim,
+Ierusalim
+Asteapta-n tacere
+Raspunsul Tau divin
+Ierusalim,
+Ierusalim
+Asteapta si plange
+Asteapta har divin :/
+
+[v1]
+La zidul plangeri
+Poporul este indurerat
+La zidul plangeri
+Multe lacrimi s-au varsat
+La zidul plangeri
+Poporul este inlacrimat
+La zidul plangeri
+Adonai esti asteptat
+
+[e]
+/: Slava Ta o asteptam
+Sa coboare printre noi
+Fa sa curga langa zid
+Ca un rau vindecator :/

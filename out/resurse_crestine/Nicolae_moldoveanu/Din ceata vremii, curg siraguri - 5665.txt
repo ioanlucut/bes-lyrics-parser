@@ -1,0 +1,33 @@
+[title]
+Din ceata vremii curg siraguri {author: {Nicolae Moldoveanu}, {rcId: {5665}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Din ceata vremii, curg siraguri:
+Milenii, veacuri, ani in sir;
+In fata omului din larguri,
+Apare-o zi de maine-n fir.
+
+[c]
+In mana Domnului, amice,
+Incredinteaza-ti soarta ta!
+Cu ziua ta de maine, vino
+La El, caci grija va purta...
+Sa ne uitam - Isus ne-ndeamna -
+La pasarile cerului;
+Nu seamana si nici nu ara,
+Dar totusi, au belsugul Lui!
+
+[v2]
+Doar ziua de-astazi iti decide
+Cum fi-va ziua de apoi;
+Te poti salva sau, poate, pierde;
+Poti fi cazut, poti fi erou...
+
+[v3]
+Dorinta cea mai mare-n lupte
+Pe care-o are-un sfant ostas,
+E ca, prin toate, sa ajunga
+Victorios si viu, Acas’.

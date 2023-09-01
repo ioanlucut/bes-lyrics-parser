@@ -1,0 +1,29 @@
+[title]
+In orice clipa te astept {author: {Adriana Stoica}, {rcId: {61953}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: În orice clipă aștept să vii
+Ca zorii dimineții,
+Când soarele-n spendoarea sa
+Dă zbor din nou vieții :/
+
+[c]
+/: Și de ce să murim
+Când prin El viață primim ?
+Și de ce să dăm ’napoi
+Când Isus este cu noi? :/
+
+[v2]
+/: În orice clipă te aștept
+Isus lumina lumii!
+Că strălucire ca a Ta
+Nu are, Doamne, nimeni! :/
+
+[v3]
+/: Din strălucirea Ta din cer
+Te-ai coborât Tu, Doamne
+Aici pe-acest pământ stingher
+Să-i luminezi pe oameni :/

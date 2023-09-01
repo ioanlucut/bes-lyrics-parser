@@ -1,0 +1,35 @@
+[title]
+Toate dorurile mele {author: {Anonim}, {rcId: {74415}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Toate dorurile mele
+Ce-mi frământă inima,
+Numai Tu le împlinești
+Pentru fericirea mea.
+
+[c]
+Îți urmez Isuse Ție,
+Ești Mântuitorul meu,
+Pacea Ta mi-o dai Tu mie,
+Port în mine chipul Tău.
+
+[v2]
+Mă predau cu totul Ție
+Pentru lume am murit
+Să trăiesc mereu cu Tine
+Cât de mult sunt fericit.
+
+[v3]
+Nimeni chiar de nu-nțelege
+Cât de mult m-ai fericit
+Eu mă țin mereu de Tine
+Domnul meu cel mult iubit.
+
+[v4]
+De când te-am aflat pe Tine
+Mă simt foarte fericit
+Pe cărarea vieții mele
+Către cer alerg grăbit.

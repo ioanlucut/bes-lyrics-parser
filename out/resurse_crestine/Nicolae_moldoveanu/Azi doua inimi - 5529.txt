@@ -1,0 +1,27 @@
+[title]
+Azi doua inimi {author: {Nicolae Moldoveanu}, {rcId: {5529}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Azi doua inimi, Doamne, o La Tine au venit
+Ca sa Iti ceara sprijin, o Pe drumul ce-au pornit.
+
+[c]
+/: „
+Binecuvanta-i, Doamne!” o Noi Te rugam acum,
+„
+Condu-i, cu dreapta sfanta, o Pe-al casniciei drum!” :/
+
+[v2]
+Spre cer, fa-i sa priveasca, o La bine si la greu
+Si-n rugaciuni sa creasca, o Din zi in zi, mereu!
+
+[v3]
+Uneste-i Tu, o, Doamne, o Asa precum Tu stii,
+Ca ceea ce unesti Tu, o Nimeni n-a desparti!
+
+[v4]
+Uneste-i, chiar acuma! o Uneste-i, pe deplin!
+Uniti de azi sa fie, o Pana in veci! Amin.

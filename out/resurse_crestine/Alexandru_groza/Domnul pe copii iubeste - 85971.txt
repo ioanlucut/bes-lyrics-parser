@@ -1,0 +1,27 @@
+[title]
+Domnul pe copii iubeste {author: {Alexandru Groza}, {rcId: {85971}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Domnul pe copii iubește pacea Lui le dăruiește
+Și-n iubirea Lui divină îi păzește în lumină
+Îi povățuiește-n viață și din Biblie învață
+Ca să fie-ascultători și de Domnul iubitori.
+
+[c]
+O, ce bucurie mare pentru toți copiii care
+Sunt ascultători de Domnul, de El sunt iubiți.
+
+[v2]
+Fericiți sunt toți copiii care din a lor pruncie
+Îl iubesc pe Domnul Isus, o, ce fericiți sunt ei.
+Bucurii le pregătește, pe cei mici El îi iubește
+Pacea Lui le dăruiește, o, ce fericiți sunt ei.
+
+[v3]
+El privește la furnică cât e ea de mititică
+Toată ziua se trudește, ea nici gând nu obosește.
+Albinița lucrătoare caută din floare-n floare,
+Ea aduce cu răbdare miere bună la copii.

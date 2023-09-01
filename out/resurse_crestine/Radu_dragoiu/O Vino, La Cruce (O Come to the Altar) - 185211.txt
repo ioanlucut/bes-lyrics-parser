@@ -1,0 +1,40 @@
+[title]
+O vino la cruce (o come to the altar) {author: {Radu Dragoiu}, {rcId: {185211}}
+
+[sequence]
+v1,c,v2,c,b,c,e
+
+[v1]
+Ești zdrobit și ți-e sufletul frânt
+Copleșit de păcat și înfrânt
+Isus te cheamă
+Ai ajuns istovit de puteri
+Însetezi din fântână sa bei
+Isus te cheamă
+
+[c]
+/: O vino, la cruce
+Tot ceru’așteaptă al tău răspuns
+Iertarea, primește-o
+Prin scumpul sânge-al lui Isus :/
+
+[v2]
+Lasă-n urmă tot ce mai regreți
+Vino azi n-ai de ce să aștepți
+Isus te cheamă
+Bucurie și pace-ți va da
+Viața nouă in El vei avea
+Isus te cheamă
+
+[b]
+O ce salvare
+Ce nume minunat
+Isus e viu, cânt Aleluia!
+Ne inchinăm Lui
+E Domnul domnilor
+Isus e viu, cânt Aleluia!
+
+[e]
+Poartă-ți crucea cununa-așteptând
+Mărturie rămâi pe pământ
+Isus e viu

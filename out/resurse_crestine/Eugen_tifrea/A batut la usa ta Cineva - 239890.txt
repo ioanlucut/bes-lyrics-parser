@@ -1,0 +1,41 @@
+[title]
+A batut la usa ta cineva {author: {Eugen Tifrea}, {rcId: {239890}}
+
+[sequence]
+v1,v2,c,v3,c2
+
+[v1]
+A bătut la ușa ta Cineva,
+Deschide nu mai sta
+E poate ultima chemare, frate.
+A bătut la ușa ta Cineva,
+Deschide nu mai sta,
+E poate ultima chemare,
+E poate ultima chemare a ta.
+
+[v2]
+/: Cine oare, oare a bătut
+La ușa inimii tale?
+Isus Hristos și vrea să dea
+Un sens vieții tale. :/
+
+[c]
+/: Ascultă-I astăzi vocea Sa,
+Ascultă vocea Sa duioasă,
+E vocea lui Isus, Regele sfânt
+Care ți-a pregătit în cer o casă. :/
+
+[v3]
+A bătut la ușa ta, Cineva,
+Predă-I viața ta,
+Și vei trăi cu Domnul în fericire.
+A bătut la ușa ta, Cineva,
+Nu mai întârzia,
+Și vei trăi cu Domnul,
+Și vei trăi cu Domnul în fericire.
+
+[c2]
+/: Cine oare, oare te-a mințit
+Că Domnul nu există?
+Când totul dovedește azi
+Că Dumnezeu există? :/

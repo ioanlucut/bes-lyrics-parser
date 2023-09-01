@@ -1,0 +1,41 @@
+[title]
+Cine va lega si azi o rana {author: {Ruben Diaconu}, {rcId: {230412}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cine va lega și azi o rană
+Ca Acel Milos Samaritean?
+Să împartă din cereasca mană
+O speranță omului sărman
+Cine va mai fi și azi în stare
+Pe căzuți să-i poată ridica
+Celor greu robiți de întristare
+Să le poată milă arăta
+
+[c]
+Vei fi tu a mângâierii rouă
+Pentru cel sărac și părăsit
+Să-ți împarți cu milă pâinea-n două
+Și să dai din ea celui lipsit.
+
+[v2]
+Vor mai fi creștini plini de iubire
+Ce din graba lor se vor oprii
+Celui însetat de fericire
+Un surâs să-i poată dărui
+Va mai fi pentru orfan un tată
+Sufletul să-i poată mângâia
+Pentru cei sărmani va fi vreodată
+O Tabită haine să le dea
+
+[v3]
+Când deschizi un duh de bunătate
+Celui ce la ușă stă plângând
+Să-l primești cu drag ca pe un frate
+Îmbrăcat în zdrențe și flămând
+Cu Isus vei sta în părtășie
+Plata de la El o vei primi
+Când sărmanului cu bucurie
+Din puținul tău vei dărui

@@ -1,0 +1,52 @@
+[title]
+Daca as spune ca iubesc {author: {Oltita Nistor}, {rcId: {96931}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7,e
+
+[v1]
+Dacă aș spune că iubesc
+Pe frați în părtășie
+Și-n fapte nu le dovedesc
+Vorbirea mea-i rușine!
+
+[v2]
+Nu-i adevăr în gura mea, 
+Nici dragoste, ci-i ură,
+Isuse fă-mă cum ai vrea,
+Să nu fiu o minciună!
+
+[v3]
+Dacă aș spune că-s sfințit
+Prin jertfa Ta, Isuse, 
+Și dacă-n suflet nu-s smerit
+Ci-am gânduri nesupuse
+
+[v4]
+Nu-i adevăr în mintea mea,
+Nici vorba-mi fericită,
+Că Înțelepciunea în mine ar sta
+Când inima-i smerită!
+
+[v5]
+Dacă vorbesc ce nu trăiesc
+Și-n gură port mustrarea,
+Sunt sabie ce doar zdrobesc
+Și nu știu îndurarea!
+
+[v6]
+Nu-i adevăr inima mea
+Când vorba-i ca de piatră,
+Nici când stau mut și nu rostesc
+Vestirea Lui curată!
+
+[v7]
+Isuse spală -mă Te rog
+De toată întinăciunea
+Dar spală-mi Tu în Jertfa Ta
+Și inima și gura!
+
+[e]
+Să pot vorbi adevărat, 
+Să nu slujesc minciuna,
+Și-apoi în cerul minunat Voi străluci întruna!

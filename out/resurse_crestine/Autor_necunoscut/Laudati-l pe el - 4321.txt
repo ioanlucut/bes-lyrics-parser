@@ -1,0 +1,32 @@
+[title]
+Laudati-l pe el {author: {Anonim}, {rcId: {4321}}
+
+[sequence]
+v1,b,c,v2,c
+
+[v1]
+Laudati-L pe El, pe-al nostru Domn
+Eterna e-a Lui iubire
+Caci El e bun, mai presus de toti
+Eterna e-a Lui iubire.
+
+[b]
+Cantatii toti
+Cu mana tare si cu brat intins
+Eterna e-a Lu
+I iubire,
+Pentru viata primita-n dar,
+Eterna e-a Lui iubire.
+Cantatii toti, cantati, cantati.
+
+[c]
+/: In veci Domnul e tare
+In veci El e cu noi
+Credinciosia Lui e
+Eterna, eterna, eterna. :/
+
+[v2]
+Din zori de zi pana la apus
+Eterna e-a Lui iubire
+Si prin harul sau noi vom continua
+Eterna a-a Lui iubire.

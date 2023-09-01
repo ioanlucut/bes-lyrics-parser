@@ -1,0 +1,29 @@
+[title]
+Pavel si sila {author: {Alexandru Groza}, {rcId: {193648}}
+
+[sequence]
+v1,c,v2,c2,e
+
+[v1]
+Pavel și Sila au călătorit, vestind tuturor Evanghelia
+Din Cuvânt vorbeau, bolnavi vindecau în Numele Domnului
+Pentru-aceasta ei au fost pedepsiți și întemnițați în Filipi
+Cu picioarele-n butuci ei laude Domnului cântau!
+
+[c]
+La miezul nopții un cutremur de pământ a clătinat zidurile temniței
+Dar Pavel și Sila au cântat mereu, lăudau pe Dumnezeu!
+
+[v2]
+S-au deschis și porțile temniței, temnicerul s-a trezit din somn
+A fost întristat de ce s-a-ntâmplat, a crezut că toți au plecat
+Spre uimirea lui, toți erau treziți, cu toți ascultau și se bucurau
+Pavel și Sila Domnului cântau, Numele Lui lăudau!
+
+[c2]
+Din ceruri Dumnezeu o lumină a dat temnicerului viața i-a schimbat
+A fost mântuit, foarte fericit s-a-ncrezut în Dumnezeu
+
+[e]
+Și toți de-acolo ei s-au bucurat de minunat ce-n Filipi s-a-ntâmplat
+Numele Lui sfânt a fost preamărit, temnicerul mântuit!

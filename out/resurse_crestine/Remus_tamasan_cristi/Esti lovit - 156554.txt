@@ -1,0 +1,44 @@
+[title]
+Esti lovit {author: {Remus Tămășan Cristi}, {rcId: {156554}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+/: Ești lovit și apăsat
+De păcatul tău cel greu
+Să alergi te-ai săturat
+Fără Dumnezeu. :/
+
+[c]
+/: Ai crezut că într-o zi
+Pacea-n lume o vei găsi
+Ai crezut că fericirea
+Ți-o oferă lumea rea :/
+Dar te-ai înșelat.
+
+[v2]
+/: Ești lovit dar tot alergi
+Căutând ceva mereu
+Nicăieri nu poți să mergi
+Fără Dumnezeu. :/
+
+[c2]
+/: Ai crezut c-a ta viață
+Este plină de speranță
+Ai crezut că poți trăi
+Fără Domnul zi de zi :/
+Dar te-ai înșelat.
+
+[v3]
+/: Ești lovit și apăsat
+Dar odihnă poți afla
+Doar să crezi în Cel Preaînalt
+El viață îți va da. :/
+
+[c3]
+/: Astăzi este șansa ta
+Nu uita: nu refuza!
+Domnul vrea să-ți dea viață
+Fericire și speranță :/
+/: Ca să fii salvat. :/

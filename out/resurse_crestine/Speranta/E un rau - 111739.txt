@@ -1,0 +1,27 @@
+[title]
+E un rau {author: {Speranța}, {rcId: {111739}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Un izvor de bucuire am în inimă ne-ncetat
+Un izvor de fericire am aflat
+De când Isus mi-a dăruit în dar mântuirea Sa
+De atunci Râul Divin curge-n viața mea
+
+[c]
+E un Râu ce curge de la Dumnezeu
+El inundă sufletul meu, și sunt înviorat
+E un râu ce curge lin, de la tronul divin
+Râu ceresc, Râu de viață binecuvântat!
+
+[v2]
+Un Izvor de bucuire am în inimă ne-ncetat
+Un Izvor de fericire am aflat
+Hai și tu la izvor! Vino-acum dragul meu
+E curat, e ceresc, e din Dumnezeu!
+
+[e]
+Izvor de bucurie, izvor de fericire
+E Izvor de speranță, un izvor de viață!

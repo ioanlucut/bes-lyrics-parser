@@ -1,0 +1,36 @@
+[title]
+Pe toate corzile vietii {author: {Nicolae Moldoveanu}, {rcId: {246210}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Pe toate corzile vieții
+Să cânt o singură cântare:
+/: Isus, Isus Mântuitorul,
+Prin care am răscumpărare. :/
+
+[v2]
+Pe toate drumurile mele,
+Să port trecând străin prin lume
+/: Pe fruntea vieții, scris cu soare:
+Isus, Isus, preadulce Nume! :/
+
+[v3]
+Pe toate faptele trăite,
+O singură pecete fie,
+/: Mai limpede, mai luminoasă:
+Isus, Isus Nădejde vie! :/
+
+[v4]
+Și gânduri
+Ie-mi toate, toate,
+Înveșmântate în lumină,
+Și-n frumusețe îngerească.
+Din Tine, o, Isus, să-mi vină.
+
+[v5]
+Pe Tine să te-arăt în toate,
+Să-mbrac a Numelui Tău haină,
+/: Viața Ta să-mi umple viața,
+Isus, Isus Măreață Taină! :/

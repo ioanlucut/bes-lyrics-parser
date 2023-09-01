@@ -1,0 +1,25 @@
+[title]
+Raza de soare ma numesc {author: {Anonim}, {rcId: {1007}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Rază de soare mă numesc,
+O lume-ntreagă-nveselesc,
+Aceasta-i datoria mea:
+Să răspîndesc lumina Sa.
+
+[c]
+O rază de soare e-n viața mea,
+O rază de soare din lumina Sa.
+De cînd sînt cu Isus, viața mi-a umplut
+Și copilul Său fericit m-a făcut.
+Aleluia, aleluia, aleluia, aleluia
+Aleluia, aleluia, alleluia.
+
+[v2]
+Lumea se zbuciumă așa,
+În încercări, în viață grea,
+Doar la Isus poate afla
+Salvarea și mîntuirea.

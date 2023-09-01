@@ -1,0 +1,37 @@
+[title]
+Coroana de spini pe cap cand ti-au pus {author: {Adriana Stoica}, {rcId: {108788}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Coroană de spini pe cap când ți-au pus
+Siroaie de sange pe față ți-au curs
+Durere și chin,
+Doamne ai răbdat
+Cu sulita-n coastă atunci cand ți-au dat
+
+[c]
+/: La moarte, la moarte, la moarte
+Cu ură strigau
+La moarte, la moarte, la moarte
+Si toți il loveau :/
+
+[v2]
+Coroană de spini pe cap ai purtat
+Pe cruce în cuie ai stat atârnat
+Iubirea cea mare atunci s-a văzut
+Murind pentru mine să fiu mântuit
+
+[v3]
+Coroană de spini, cu biciul lovit
+In chinuri grele Doamne
+Pentru mine Ai murit
+Prin jertfa iubirii iubire-am aflat
+Cu Tatal din ceruri Tu ne-ai împăcat
+
+[c2]
+/: Iubire, iubire, iubire
+Tu ai semănat
+Iubire, iubire, iubire
+La Tine-am aflat. :/

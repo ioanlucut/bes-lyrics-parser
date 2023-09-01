@@ -1,0 +1,35 @@
+[title]
+Te-astept sa vii isuse drag {author: {Anonim}, {rcId: {227066}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Te-aștept să vii Isuse drag
+Cu ziua izbăvirii
+Și de-al Tău dor tot plâng în prag
+În noaptea pustiirii
+
+[c]
+Te-aștept să vii, o scump Isus
+Din cerul Tău precum ne-ai spus
+Îți cânt și strig și plâng și gem
+Iubitule, cu dor Te chem
+
+[v2]
+Te-aștept să vii privind în sus
+Cu ochii plânși spre zare
+Să vii deodat’ de und’ Te-ai dus
+Cu marea-i sărbătoare
+
+[v3]
+Te-așteaptă sufletu-mi rănit
+De-atâtea uri haine
+Căci doar cu Tine-s fericit
+Și-n Țara Ta mi-e bine
+
+[v4]
+Ferește-mă de-orice păcat
+Și ține-mă-n lumină
+Păstrându-mi sufletul curat
+Să Te-aștept fără vină

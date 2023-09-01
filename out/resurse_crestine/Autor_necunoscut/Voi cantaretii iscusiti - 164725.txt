@@ -1,0 +1,29 @@
+[title]
+Voi cantaretii iscusiti {author: {Anonim}, {rcId: {164725}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Voi cântăreții iscusiți, ’naintea Domnului veniti
+Cu noi cântări în adunări Si Domnului slujiti
+Să cânte-ntregul Lui popor și-acei de jos, și-acei din cor
+Cu instrumente fel de fel și să-l lăudăm pe El
+
+[c]
+Cântați, cântați, cântați
+Ca și Asaf, surori și frați
+Cântați, cântați, cântați
+Ca și David, surori și frați
+
+[v2]
+Să cânte cei neprihăniți, să cânte toți cei mântuiți
+Voi tineri și bătrâni veniți și slava Lui vestiți.
+Și voi ostroave și câmpii și voi și ape și pustii
+Și voi popoare mici și mii cu sfinte melodii
+
+[v3]
+Și voi acei ce-i ascultați veniți cu noi, veniți cântați
+Căci Domnul vine în curând să-L așteptăm cântând
+Și îngerii în cerul sfânt și oamenii de pe pământ
+Și munți și vale și uscat să-i cânte ne-ncetat.

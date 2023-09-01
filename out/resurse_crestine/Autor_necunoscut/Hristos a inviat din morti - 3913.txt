@@ -1,0 +1,29 @@
+[title]
+Hristos a inviat din morti {author: {Anonim}, {rcId: {3913}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Hristos a înviat din morți
+Ce bucurie sfântă
+Îți cântă sufletul meu azi
+Și inima mea îți cântă
+
+[c]
+Hristos a înviat din morți
+A triumfat iubirea
+Îți cântă îngerii în cor
+Se-nchină omenirea
+
+[v2]
+Veniți și voi să-l lăudați
+Veniți cu oastea sfântă
+Pe cel ce-a înviat din morți
+Și moarte a fost înfrântă
+
+[v3]
+El va rămâne-n veci de veci
+În sufletele noastre
+Hristos speranța lumii întregi
+Biruitor e-n toate.

@@ -1,0 +1,45 @@
+[title]
+Isus din ceruridomnul cel mare {author: {Anonim}, {rcId: {151396}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Isus din ceruri,
+Domnul cel Mare,
+Trece acum printre noi,
+Aduce iertare și vindecare,
+Celor ce sunt în nevoi.
+Isus din ceruri,
+Fiul lui David,
+Trece acum printre noi,
+Aduce iertare și vindecare,
+Celor ce sunt în nevoi.
+
+[c]
+Te cheamă, te cheamă la El,
+Isus, venit din cer.
+Ți-aduce iertare și vindecare
+Te cheamă Isus la El.
+
+[v2]
+De ai nevoie de mângâiere,
+Strigă ca Bartimeu,
+Isuse Mare, îți cer iertare
+Vindecă-mi azi ochi mei.
+De ai nevoie de mângâiere,
+Strigă ca Bartimeu,
+Isuse Mare, îți cer iertare
+Vindecă-mi azi ochii mei.
+
+[v3]
+Haina murdară, arunc-o afară
+În țărână să nu mai stai.
+Te chemă-mpăratul,
+Isus Prea Înaltul
+Vino să fi vindecat.
+Haina murdară, arunc-o afară
+În țărână să nu mai stai.
+Te chemă-mpăratul,
+Isus Prea Înaltul
+Vino să fi vindecat.

@@ -1,0 +1,29 @@
+[title]
+Multa binecuvantare {author: {Ioan Chismorie}, {rcId: {6890}}
+
+[sequence]
+v1,b,c,v2,c
+
+[v1]
+Multă binecuvântare,
+Peste aceștia doi să dai.
+Luminează a lor cărare,
+Sub privirea Ta să-i ai.
+
+[b]
+O, Doamne Sfânt ce ești în ceruri
+Tu, mâna Sfântă să le-o-ntinzi spre cale,
+Și când vin ispite grele
+Tu în brațe să-i cuprinzi.
+
+[c]
+Să-i dai din cer ca ei în veci
+Să rămână lângă Tine credincioși.
+Să fi slăvit căci Tu ne-ai dat astăzi
+Bucurii, o Doamne Sfant, să fii lăudat!
+
+[v2]
+Fă ca viața lor întreagă
+Să-Ți rămână credincioși
+Și-n lucrarea Ta o, Doamne,
+Ei să-Ți fie de folos!

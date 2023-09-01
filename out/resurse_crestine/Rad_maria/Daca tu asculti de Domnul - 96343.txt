@@ -1,0 +1,59 @@
+[title]
+Daca tu asculti de domnul {author: {Rad Maria}, {rcId: {96343}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,c4,e
+
+[v1]
+Dacă tu asculți, dacă împlinești,
+Voia Lui cea sfântă, din slăvi cerești,
+Dacă tu asculți, când va reveni
+Te va duce acasă, la ai Săi copii.
+
+[c]
+/: Ziua aceea sfântă, nu o știe nimeni
+Dar ea va fi gata, să apară iar :/
+O clipă de uimire, Și se va sfârși,
+Orice întristare, ce-ai avut aici să ști,
+
+[v2]
+/: Dacă tu îl cauți, pe Domnul,
+Dacă vii la El, supus
+Dacă strigi: ”
+Vino, Mesia”,
+El va reveni de sus.
+
+[c2]
+Vine din mărire și la tine acum,
+Glorie, osanale, vei striga pe drum.
+Căci a Sa iubire, te va copleși,
+Când este cu tine, atunci tu vei ști.
+
+[v3]
+/: Dacă tu întorci privirea,
+Dacă ceri pe Fiul Său,
+Dac-aștepți de sus venirea,
+Dacă strigi la Dumnezeu :/
+
+[c3]
+El cu drag revine, să Îl chemi acum,
+Și va fi cu tine, pe acesta drum.
+Că mult te iubește, și în cer te vrea,
+Unde este Domnul vei sta la dreapta Sa.
+
+[c4]
+Dac-ai găsit pacea stai-naintea Lui,
+Ascultător în toate, copilul Domnului.
+Și El îți va spune, vino copilul Meu,
+Vreau să fi în slavă, unde-i locul tău.
+
+[c5]
+Dacă aștepți cu drag, să vină ISUS
+El sigur te iubește pe tine nespus.
+Tu așteaptă clipă, semnal se va da,
+El din cer va zice, vino mireasa Mea.
+
+[e]
+Dacă tu, dacă tu asculti de El
+Dacă tu asculți de El
+De Emanuel.

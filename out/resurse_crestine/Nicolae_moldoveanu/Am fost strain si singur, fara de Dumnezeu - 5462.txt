@@ -1,0 +1,29 @@
+[title]
+Am fost strain si singur fara de dumnezeu {author: {Nicolae Moldoveanu}, {rcId: {5462}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Am fost străin și singur, fără de Dumnezeu.
+Am fost fără Isus, fără de Tatăl meu.
+Am fost străin și singur și toți m-au alungat;
+Trăiam fără credință, trăiam doar în păcat.
+
+[c]
+/: Dar acum, mă-ntorc din drumul meu...
+Eu vin la Dumnezeu, eu vin la Tatăl meu!
+Nu mai vreau să trăiesc singur mereu,
+Fără de Dumnezeu! :/
+
+[v2]
+Am fost sărac și singur, departe de Hristos.
+Trăiam fără de Isus, trăiam fără de rost.
+Am fost străin pe lume, fără de Dumnezeu,
+Și tristă amăgire era-n sufletul meu.
+
+[v3]
+Am fost pierdut de Isus, dar El azi m-a găsit,
+Mi-a întins a Sa mână, ca să fiu fericit.
+Eu azi primesc pe Domnul, în toată viața mea,
+Și Lui Îi dau inima pentru totdeauna.

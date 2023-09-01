@@ -1,0 +1,45 @@
+[title]
+Fa-mi cantecul un foc aprins {author: {Nicolae Moldoveanu}, {rcId: {241122}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Fă-mi cântecul un foc aprins,
+Din Adevărul veșnic,
+Să ardă-n Templul Tău nestins,
+Ca jertfă și ca sfeșnic!
+Puterea lui să facă scrum,
+Lucrarea rătăcirii,
+Împrăștiind pe-al vieții drum,
+Mireasma mântuirii!
+
+[v2]
+Fă-mi cântecul o spadă grea,
+Cuvântul Tău să-I poarte,
+Să-mpartă biruința Ta,
+Prin lumea cea de moarte;
+Să taie-adânc orice păcat,
+Și orice rătăcire,
+Croind un drum mai luminat,
+Spre har și mântuire!
+
+[v3]
+Fă-mi cântecu-nțelept năier,
+Pe marea suferinței,
+Să poarte-n orice timp spre Cer
+Corabia credinței!
+Și s-o păzească liniștit,
+De stânca rătăcirii,
+Înaintând desăvârșit,
+Spre Țărmul mântuirii!
+
+[v4]
+Fă-mi cântecul, spre slava Ta,
+Să sune tot mai tare,
+Mai plin să poată arăta,
+Iubirea-Ți arzătoare.
+Și armonia lui de har,
+S-atragă pe oricine,
+Din noaptea chinului amar,
+Isuse Iângă Tine!

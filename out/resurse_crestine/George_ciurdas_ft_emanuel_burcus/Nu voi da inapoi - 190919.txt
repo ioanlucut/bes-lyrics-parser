@@ -1,0 +1,40 @@
+[title]
+Nu voi da inapoi {author: {George Ciurdas ft. Emanuel Burcus}, {rcId: {190919}}
+
+[sequence]
+v1,c,v2,c,c,e
+
+[v1]
+În ziua când Te-am chemat,
+Tu m-ai ascultat,
+Voi spune la toți cum Tu faci minuni.
+Și când nu vedeam spre întuneric mergeam,
+Atunci Tu ochii mi-ai deschis!
+Iar când eu cădeam, Tu mă ridicai,
+Ca un copil m-ai învățat, să pot să pășesc!
+
+[c]
+/: Nu voi da înapoi, nu am să mă las,
+Oricât ar fii drumul de greu spre cruce! :/
+/: Nu voi da înapoi, nu am să mă las,
+Oricât ar fii drumul de greu spre cruce! :/
+/: Nu voi da înapoi, nu am să mă las,
+Oricât ar fii drumul de greu spre cruce! :/ x3
+
+[v2]
+Piedici apar pe calea mea,
+Dar privesc înainte și toate dispar.
+Și-mi voi parcurge drumul spre lumină
+Știind că Tu vei revenii.
+Ajută-mă să pot să mai sper,
+Dă-mi putere să înnaintez, să pot să Te-aștept!
+
+[b]
+Există un loc pentru care trăiesc
+Mă-nvăluie cu lumină și-mi dă putere
+Există un loc pentru care tânjesc
+E dragostea lui Isus, ce-mi dă lumină.
+
+[e]
+Nu voi da înapoi, nu am să mă las,
+/: Oricât ar fi drumul de greu :/ x3 spre cruce!

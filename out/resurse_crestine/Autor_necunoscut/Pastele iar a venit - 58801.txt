@@ -1,0 +1,47 @@
+[title]
+Pastele iar a venit {author: {Anonim}, {rcId: {58801}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+Paștele iar a venit.
+A venit, a venit.
+Paștele iar a venit,
+Isus a înviat!
+
+[v2]
+De flori e plină valea
+Și păsărele cântă,
+Cântă cu noi cântarea
+Cristos a înviat.
+
+[v3]
+Paștele iar a venit.
+A venit, a venit.
+Paștele iar a venit,
+Isus a înviat!
+
+[v4]
+Domnul Isus este viu.
+Este viu, este viu.
+Domnul Isus este viu
+Și-n veci va trăi.
+
+[v5]
+Isus e Învierea,
+Isus e Viața
+Și cei ce în El se-ncred
+Din morți vor învia.
+
+[v6]
+Domnul Isus este viu.
+Este viu, este viu
+Domnul Isus este viu
+Și-n veci va trăi.
+
+[v7]
+Paștele iar a venit.
+A venit, a venit.
+Paștele iar a venit,
+Isus a înviat!

@@ -1,0 +1,32 @@
+[title]
+Simple gospel {author: {United Pursuit, Traducere RO}, {rcId: {146704}}
+
+[sequence]
+v1,c,v2,c,v3,b,c,c
+
+[v1]
+/: Vreau să Te cunosc,
+Ca pe un prieten,
+Vreau să Te cunosc. :/
+
+[c]
+/: Las la pămînt, ce nu-I de la Tine,
+Las la pămînt,
+Vreau să Te cunosc. :/
+
+[v2]
+/: Nemărginit, Atotputernic,
+Ești Minunat,
+Vreau să Te cunosc. :/
+
+[v3]
+Și chiar de-mi spun că-s o rușine,
+Și chiar de-mi spun, cu mine ești.
+Tu mă ridici și sunt lumină,
+Și mă iubești.
+
+[b]
+/: M-ai ridicat din praf și m-ai înălțat,
+Nimeni nu-mi poate lua, tot ce Tu mi-ai dat. :/
+/: Mă voi bucura în simplitate,
+Mă voi bucura în Adevărul Tău. :/

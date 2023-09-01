@@ -1,0 +1,29 @@
+[title]
+Ce frumos si dulce {author: {Nicolae Moldoveanu}, {rcId: {5717}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Ce frumos si dulce
+Fi-va colo sus
+/: Unde ne va duce
+Blandul Miel Isus! :/
+
+[v2]
+Cu-albe aripioare,
+Veseli vom zbura
+/: Si, din floare-n floare,
+Veseli vom salta. :/
+
+[v3]
+Noi vom fi acolo
+Cu-ai nostri parinti;
+/: Vom canta, din harfe,
+Cu multi ingeri sfinti. :/
+
+[v4]
+Lacrimi si suspine
+Sus, nu vom avea.
+/: Ah! Isuse Doamne,
+Vino si ne ia! :/

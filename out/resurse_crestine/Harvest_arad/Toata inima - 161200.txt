@@ -1,0 +1,31 @@
+[title]
+Toata inima {author: {Harvest Arad}, {rcId: {161200}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Vocea-ndoielii stinge-o iar,
+Tot ce-ai promis adu-mi aminte,
+Teama s-o înfrunt cu-al Tău cuvânt.
+Spulberă bezna în jurul meu,
+Când trec prin văi ridică-mi fruntea.
+Printre lacrimi fii plăcerea mea.
+
+[c]
+Toată inima eu o las în grija Ta.
+Tu ești Domn în viața mea, mă las în grija Ta.
+/: Toata inima eu o las în grija Ta.
+Tu ești Domn în viața mea, mă las în grija Ta. :/
+Eu ma las in grija Ta, grija Ta.
+
+[v2]
+Chiar în pustiu deschizi un drum,
+Iar vocea Ta supune marea.
+Cred că Tu lucrezi chiar și acum, chiar aici, chiar acum.
+
+[e]
+/: Nu e nimic să poată să mă-frângă,
+Esti nădejdea mea!
+Orice-ar veni în cale, neclintit sunt,
+Ești nădejdea mea! :/

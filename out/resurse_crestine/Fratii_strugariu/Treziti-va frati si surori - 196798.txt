@@ -1,0 +1,29 @@
+[title]
+Treziti-va frati si surori {author: {Frații Strugariu}, {rcId: {196798}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Treziți-vă frați și surori,
+Hristos vă va lumina
+Ochii El vă va deschide
+Să-i urmați cărarea Sa. :/
+
+[c]
+/: Răscumpărați vremea căci
+Zilele vor fi nespus de grele.
+În părtășie, rugăciuni,
+Dumnezeu ne vrea mai buni. :/
+
+[v2]
+/: Nu mai stați nepăsători
+Căutați pe Domnul Domnilor
+Căutați-l azi cât se mai poate
+Câtă vreme e aproape :/
+
+[v3]
+/: Haideți toți cu mic cu mare
+Să ne-ntoarcem din pierzare
+Să ne-ntoarcem cu căință
+Dragoste, recunoștință. :/

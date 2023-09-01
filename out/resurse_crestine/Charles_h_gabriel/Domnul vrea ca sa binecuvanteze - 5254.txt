@@ -1,0 +1,42 @@
+[title]
+Domnul vrea ca sa binecuvanteze {author: {Charles H. Gabriel}, {rcId: {5254}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Domnul vrea ca să binecuvinteze
+Pe toți oamenii să îi lumineze.
+Ușa și ferestrele deschide-le!
+Las’ să intre Soarele!
+
+[c]
+/: Las’ să intre Soarele!
+Las’ să intre
+ /: Soarele! :/
+Ușa inimii deschide-o tot mai mult,
+Ca să intre-n ea Isus! :/
+
+[v2]
+El veni, muri și învie apoi;
+Toate-acestea le făcu El pentru noi.
+Ușa și ferestrele deschide-le!
+Las’ să intre Soarele!
+
+[v3]
+Rătăcești tu prin pustiu căutând calea
+Sufletul să ți-l salveze Isus vrea.
+Ușa și ferestrele deschide-le!
+Las’ să intre Soarele!
+
+[v4]
+Fericit e cel ce Domnului se dă,
+Cine pe Isus iubește și-L laudă.
+Ușa și ferestrele deschide-le!
+Las’ să intre Soarele!
+
+[v5]
+Chiar dacă pământu-ntreg e-ntunecat,
+Isus, prin venirea Sa, l-a luminat.
+Ușa și ferestrele deschide-le!
+Las’ să intre Soarele!

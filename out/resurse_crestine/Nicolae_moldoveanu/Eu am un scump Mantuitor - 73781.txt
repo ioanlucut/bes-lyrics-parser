@@ -1,0 +1,42 @@
+[title]
+Eu am un scump mantuitor {author: {Nicolae Moldoveanu}, {rcId: {73781}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Eu am un scump Mântuitor
+În încercări și-n noapte,
+El mă -ntărește ne’ncetat
+Prin sfintele Lui șoapte
+
+[c]
+Eu am, eu am,
+Eu am un scump Mantuitor,
+El har, El har
+El har îmi dă oricând și ajutor!
+
+[v2]
+Iubirea Lui imi este scut
+Și-odihnă-n frământare,
+Iar când păcatul m-a rănit
+La El am vindecare.
+
+[v3]
+În jertfa Lui am pe deplin
+Puteri de biruinta
+Si mângâieri, când trec prin văi
+Adânci de suferință.
+
+[v4]
+Cuvântul Său e-un legământ
+Neclătinat și veșnic;
+Prin sfânta Lui lumină sunt,
+În noaptea lumii, sfesnic
+
+[v5]
+Curând El va veni curând,
+’
+Plinindu-se-a Lui voie
+Eu am un scump Mântuitor;
+Mai mult nu am nevoie.

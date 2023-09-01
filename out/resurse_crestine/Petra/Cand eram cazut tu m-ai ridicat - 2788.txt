@@ -1,0 +1,32 @@
+[title]
+Cand eram cazut tu m-ai ridicat {author: {Petra, Traducere RO}, {rcId: {2788}}
+
+[sequence]
+v1,v2,v3,e
+
+[v1]
+Când eram căzut Tu m-ai ridicat
+Când plângeam ai venit
+și m-ai mângâiat
+Vin acum înaintea Ta să-ți spun,
+: Tată, cât îmi ești de scump! :
+
+[v2]
+Te iubesc din toată inima
+Vreau să fiu lângă Tine mereu
+Ești vrednic de toată cinstea,
+: Tată cât îmi ești de drag! :
+
+[v3]
+M-ai purtat spre culmi de glorie
+Dar m-ai smerit în prag de victorie
+În cuvinte nu pot să-ți spun acum
+: Tată, cât îmi ești de scump! :
+
+[e]
+Te-am întristat prin păcate de multe ori
+Dar totdeauna Tu m-ai iertat
+Mi-ai fost singurul sprijin
+prin furtună și nori
+Îți voi cânta laudă neîncetat
+Tată, cât îmi ești de drag!

@@ -1,0 +1,29 @@
+[title]
+Ce har mi-ai dat {author: {Arman Ludovic}, {rcId: {104339}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ce Har mi-ai dat să fiu copilul Tău
+Și să m-adăpostesc la umbra Ta
+Să știu că mă iubești, Isuse, Domnul meu
+Și m-ai răscumpărat la Golgota
+
+[c]
+Isus tu-mi ești Păstorul
+Ce niciodată pe ai Tăi nu-i părăsești
+Tu-mi ești ocrotitorul
+Ce în necaz oricând doar Tu mă ocrotești
+
+[v2]
+O mie lângă mine de-ar cădea
+Și zeci de mii chiar de-ar fi nimiciți
+Când știu mereu că Tu ești Doamne pacea mea
+Eu cânt cu acei de Tine mântuiți
+
+[v3]
+Toți cei ce se încred în dreapta Ta
+Și în veghere stau mereu la post
+De râsul celor răi nicicând nu se vor da
+Căci Tu ești, Doamne, a lor adăpost

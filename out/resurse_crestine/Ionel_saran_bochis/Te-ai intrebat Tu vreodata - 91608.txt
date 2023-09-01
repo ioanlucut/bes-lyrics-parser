@@ -1,0 +1,41 @@
+[title]
+Te-ai intrebat tu vreodata {author: {Ionel Saran Bochis}, {rcId: {91608}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Te-ai intrebat Tu vreodata
+Cine atit de frumos
+Natura cum a creat-o
+In atatea de culori
+
+[c]
+El este cel ce-n ceruri
+Printre stele Locuieste
+Dumnezeu se numeste
+El ne-a creat minunat
+
+[v2]
+Te-ai intrebat cine oare
+Pe tine te-a construit
+Cine ti-a dat Duh de viata
+Si un chip asa frumos
+
+[c2]
+El este cel ce-n ceruri
+Printre stele Locuieste
+Dumnezeu se numeste
+El ne-a creat minunat
+
+[v3]
+Hai sa cantam
+Cu toti de bucurie
+Cu Domnul nost
+Mergem spre vesnicii
+
+[c3]
+El este cel ce-n ceruri
+Printre stele Locuieste
+Dumnezeu se numeste
+/: El ne-a creat minunat :/

@@ -1,0 +1,31 @@
+[title]
+Tu esti domnul meu {author: {Revive}, {rcId: {247836}}
+
+[sequence]
+v1,c,v2,b,c,v3,c
+
+[v1]
+Când eram în intristare, Cu vocea Ta m-ai linistit...
+Si când nu aveam scăpare,
+Mâna Ta m-a izbăvit, De-aceea-Ti cânt:
+
+[c]
+/: Tu esti Domnul meu pe veci, Credincios si vrednic esti, Doar pe Tin’ Te voi lauda, Doamne, esti iubirea mea! :/
+
+[v2]
+Mi-ai arătat ca sunt în Tine, Cu dragoste înconjurat.
+Si mi-ai spus ca nu sunt singur,
+Esti cu mine ne-ncetat.
+
+[b]
+Si când totul îmi pare pierdut,
+Privesc la Tine.
+Si când nu mai știu unde să fug,
+Alerg spre Tine
+Si îți spun:
+
+[v3]
+Acum îți cânt de bucurie
+Ca m-ai salvat, Isus!
+Viata mea iti apartine,
+Numai Tie am să-Ti cânt, mereu!

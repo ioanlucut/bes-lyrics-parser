@@ -1,0 +1,23 @@
+[title]
+Eu sunt mic dar isus {author: {Cristale}, {rcId: {848}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+Eu sunt mic, dar Isus locuiește-n viața mea
+Și nimeni nu poate să mi-L ia!
+Eu sunt mic, dar Isus locuiește-n viața mea
+El mi-a dat pacea Sa!
+
+[v1]
+Când privesc în zori o floare ce zâmbește către soare,
+Îi spun de iubirea lui Isus,
+Cum că El i-a dat culoare, și viață și splendoare
+Ce iubitor e Isus!
+
+[v2]
+Când o pasăre în zare se înalță către soare
+Îi spun cât de bun e Isus,
+Dăruindu-i aripioare și putere ca să zboare,
+Ce minunat e Isus!

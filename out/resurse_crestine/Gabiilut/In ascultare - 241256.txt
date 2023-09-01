@@ -1,0 +1,35 @@
+[title]
+In ascultare {author: {Gabi_Ilut}, {rcId: {241256}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Zorii dimineții îmi zâmbesc, iar liniștea
+Îmi cuprinde toată ființa mea.
+Arde în mine dorul Doamne, iar să Îți vorbesc,
+Să-Ți arăt și azi cat Te iubesc!
+
+[c]
+Numai Tu Doamne îmi cunoști inima;
+Sunt fericit doar când păzesc legea Ta.
+În ascultare de Tine stau, Domnul meu!
+Numai Tu Doamne îmi cunoști inima;
+Sunt fericit doar când păzesc legea Ta.
+În ascultare de Tine vreau, Domnul meu;
+Vreau veșnic să stau!
+
+[v2]
+Chipul lumii încearcă să îmi schimbe inima;
+Dar îmi strâng cuvântul Tău în ea!
+Ca pe o comoară ce nespus o prețuiesc;
+Legea Ta, o Doamne: o iubesc!
+
+[v3]
+Când se lasă noaptea, de lume mă ascund;
+Ție Doamne vreau să Îți răspund!
+Oare ce cuvinte pot descrie ce simt eu:
+Când vorbesc cu Tine Dumnezeu?
+
+[e]
+Cu Tine eu vreau, vreau veșnic să stau!

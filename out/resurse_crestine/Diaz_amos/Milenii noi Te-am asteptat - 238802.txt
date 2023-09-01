@@ -1,0 +1,29 @@
+[title]
+Milenii noi te-am asteptat {author: {Diaz Amos}, {rcId: {238802}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Milenii noi Te-am așteptat
+Cu brațele deschise
+/: Și am răbdat, și am răbdat
+Venirea-Ți zăbovise! :/
+
+[v2]
+Noi în așteptare am tot stat;
+Ființa să-Ți apară!
+/: Te-au așteptat, Te-au așteptat
+Și inimi ca de ceară! :/
+
+[v3]
+Mi-a plâns fiorul meu întreg.
+Am plâns în așteptare,
+/: Priveam încet, priveam încet
+Cu ființa-mi înspre zade! :/
+
+[v4]
+Privirea-mi era la ferestre,
+Chipul mi se uita semeț
+/: Din slăvi cerești, din slăvi cerești
+Păreai atâta de răzleț! :/

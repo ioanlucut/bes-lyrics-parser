@@ -1,0 +1,39 @@
+[title]
+Eu nu ma tem {author: {Larisa Silaghi}, {rcId: {122403}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Eu nu mă tem, 
+Eu nu mă tem cu Dumnezeu
+Când valuri bat
+Și e furtună-n drumul meu
+Eu nu mă tem
+Eu nu mă tem cu Domnul meu
+Căci ceartă El furtună-n locul meu
+
+[c]
+/: Eu nu mă tem
+Eu nu mă tem cu Dumnezeu,
+Oricât ar fi, oricât ar fi drumul de greu,
+Eu nu mă tem
+Eu nu mă tem cu Domnul meu,
+Oricât ar fi, oricât ar fi drumul de greu. :/
+
+[v2]
+Eu nu mă tem
+Eu nu mă tem cu Dumnezeu
+Chiar de-n suspin și în dureri e trupul meu
+Eu nu mă tem
+Eu nu mă tem cu Domnul meu
+Căci El e Doctorul și Leacul meu.
+
+[v3]
+Eu nu mă tem
+Eu nu mă tem cu Dumnezeu
+Căci El e Stanca mea, sprijinul meu
+Eu nu mă tem,
+Eu nu mă tem cu Domnul meu
+Căci ține-n palma Sa
+Sufletul meu.

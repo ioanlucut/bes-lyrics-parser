@@ -1,0 +1,29 @@
+[title]
+Cheama-ma | bunatatea mea {author: {Isaura Gheorghiu}, {rcId: {215869}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Bunătatea Mea ajunge până la ceruri
+Și credincioșia Mea până la nori;
+La umbra aripilor Mele, adăpost va fi mereu.
+Cheamă-mă atunci când îți este greu.
+
+[c]
+/: Cheamă-mă în necazul tău
+Cheamă-mă când îți este greu
+Cheamă-mă, Eu te voi izbăvi
+Iar tu mă vei proslăvii :/
+
+[v2]
+Eu sunt mereu cu tine, ce ai inima frântă,
+Eu sunt mereu cu tine, ce ai duhul zdrobit,
+Atunci când îți este greu, Eu sunt cu tine,
+Eu te ocrotesc, peste tine-i Duhul Meu
+
+[c2]
+/: Cheamă-mă în necazul tău
+Cheamă-mă când îți este greu
+Cheamă-mă, Eu te voi izbăvi
+Iar tu mă vei proslăvii :/ x3

@@ -1,0 +1,29 @@
+[title]
+Mi-e dor isus de tine {author: {Anonim}, {rcId: {195014}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mi-e dor Isus de Tine, vreau fața să-Ți privesc,
+Mi-e dor de țara sfântă, unde-am să trăiesc.
+Mi-e dor de cei dragi care pământul au lăsat,
+Grăbește reîntâlnirea, Preasfinte Împărat!
+
+[c]
+/: Maranata! O, Maranata!
+Strigă acum biserica.
+Maranata! O, Maranata!
+Te așteptăm, Mesia! :/
+
+[v2]
+Sunt mulți ce-au lăsat crucea, sunt mulți aici ce dorm,
+Dar Te rugăm, Părinte, trezește-i Tu din somn!
+Revarsă-Ți din nou harul, acum ca altădat’,
+Căci vrem ca tot poporul să fie vindecat!
+
+[v3]
+Amară-i despărțirea de fața lui Hristos
+Și nimeni, niciodată, din iad nu va fi scos.
+Noi vrem ca veșnicia cu Isus s-o trăim,
+În bucurii eterne, pe Domnul să-L slăvim!

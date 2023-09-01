@@ -1,0 +1,49 @@
+[title]
+Traim o vreme cand lumina {author: {David Stănuș}, {rcId: {153032}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Trăim o vreme când lumina e înțeleasă-n mod greșit,
+Trăim o vreme când grădina se ofilește-așa cumplit...
+Mă-ntreb:’’
+De ce?’’, Te-ntrebi: ’’
+De ce?’’
+Mi-e tare dor de-nvățătorul, cuvinte simple le spunea
+La ucenici cândva, odată, și să-mplinească Biblia
+Ajută-ne, ajută-ne!
+
+[c]
+Cel ce-ai dăruit viața și lumin’-ai pus în ea,
+Nu mai este loc acolo, Doamne, și de altceva?
+În prezența Ta mă bucur, Doamne, ești comoara mea!
+Ai venit să mori pe crucea din Golgota.
+
+[v2]
+Atât de mulți astăzi coboară și-apoi rămân în Ierihon,
+Așa de lesne-l înfăsoară păcatul pe oricare om...
+Mă-ntreb: ’’
+De ce?’’ Te-ntrebi: ’’
+De ce?’’
+Mi-e tare greu când văd leviții ce trec pe lângă frații lor,
+Arată-le, Isus, Cuvântul, o, scumpul meu Mântuitor
+Învață-ne, învață-ne!
+
+[v3]
+E tare greu când teologii vin cu străine-nvățături
+Și chiar cu obiectul muncii se rătăcesc chiar în Scripturi...
+Mă-ntreb: ’’
+De ce?’’ Te-ntrebi: ’’
+De ce?’’
+Aș vrea ca frații din Bereea să fie-n orice adunări,
+Învățătura sănătoasă s-o ducă-n cele patru zări,
+Învață-ne, arată-ne!
+
+[v4]
+Trăim acum vremea din urmă cu-atât de multe erezii,
+Doar Unul e Învătătorul! Biserica Și-o va răpi!
+Ai grijă-acum pe-al crucii drum!
+Și Cel ce a adus lumina cândva, aici, pe Pământ,
+Rămâi, o, frate mai departe la fel, neprihănit și sfânt,
+La fel de sfânt, la fel de sfânt!

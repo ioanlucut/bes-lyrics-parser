@@ -1,0 +1,29 @@
+[title]
+Prietene care cauti fericirea {author: {Grupul Harul}, {rcId: {185958}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Prietene care cauti fericirea
+Staruind pe la oameni si porti
+/: Intr-o zi vei afla cu tristete
+Ca-n zadar alergat-ai la toti :/
+
+[c]
+/: Numai la Isus gasesti fericirea
+Numai de la El primesti mantuirea
+Ce har nespus sa fii prieten cu Isus
+Ce har nespus sa fii frate cu Isus :/
+
+[v2]
+Dragul meu care crezi in placerea
+De frumusete prieteni si bani
+/: In curand vei fi singur pe cale
+Obosit sub povara-ti de ani :/
+
+[v3]
+Pentru noi a urcat El calvarul
+Neputintele noastre le-a luat
+/: Hai la El prietene a-ti ofere
+Fericirea cu adevarat :/

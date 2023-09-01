@@ -1,0 +1,38 @@
+[title]
+Seceta {author: {Anonim}, {rcId: {7192}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pământul este mare
+Dar pentru Tine-i mic
+Singur Tu l-ai așezat
+Și stă pe nimic.
+Lumea cât de multă
+Toată e a Ta,
+Pentru fiecare Ți-ai trimis pâinea.
+
+[c]
+/: Doamne, Doamne, mare-i slava ta
+C-ai făcut ca să rodească chiar și seceta
+Doamne, Doamne, minunat Tu ești
+Căci pe toți în bunătatea Ta,
+Tu ne hrănești. :/
+
+[v2]
+Pentru bunătate
+Te voi lăuda
+Câtă îndurare ți-ai mai revărsat
+Omule în toate dacă L-ai slăvi
+Ți-ai lungi viața,
+Și-n veci ai trăi.
+
+[v3]
+Pentru toate astăzi
+Noi îți mulțumim,
+Chiar și-n clipe grele,
+De plâns și suspin,
+Vrem întotdeauna
+Să te lăudăm,
+Numelui Tău mare, veșnic să-i cântăm.

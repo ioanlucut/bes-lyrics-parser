@@ -1,0 +1,38 @@
+[title]
+Dintre cetele de ingeri {author: {Anonim}, {rcId: {3978}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Dintre cetele de îngeri
+Și arhangheli preaslăviți
+A venit un sol în vale la păstori.
+Nu vă temeți vă zic vouă,
+Și nu vă înspăimântați,
+Vă aduc o veste buna
+Și pe Domnul lăudați.
+
+[c]
+/: Slavă lui Dumnezeu :/
+În locurile preaînalte
+Slavă lui Dumnezeu.
+Și pace fie pe pământ,
+Pace pe pământ,
+Între oamenii plăcuți Lui
+Pace pe pământ.
+
+[v2]
+Astăzi în cetatea mică
+În cetatea Betleem
+S-a născut Mântuitorul, Dumnezeu.
+Veți găsi un Prunc acolo,
+Este marele-mpărat
+Înfășat în scutece
+Și-ntr-o iesle așezat.
+
+[e]
+/: Și deodată valea-ntreagă
+De cântare s-a umplut
+De cântarea bucuriei
+Că Mesia s-a născut :/

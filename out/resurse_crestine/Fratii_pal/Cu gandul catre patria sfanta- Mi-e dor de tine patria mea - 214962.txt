@@ -1,0 +1,45 @@
+[title]
+Cu gandul catre patria sfanta/ mi-e dor de tine patria mea {author: {Fratii Pal}, {rcId: {214962}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cu gândul către Patria Sfântă
+Spre veșnicii.
+Mi-e dor Isuse și cu suspine
+Te-aștept să vi
+Pe zi ce trece ești mai aproape
+Și ai să vi
+Să-ți iei mireasa care te-așteaptă
+Cu dor să vi
+
+[c]
+Mi-e dor de tine, mi-e dor de tine
+Patria mea
+Unde suspin și lacrimi nu voi mai avea
+Mi-e dor de tine, mi-e dor de tine
+Patria mea
+Unde Isus ca Rege in tine va sta
+Unde Hristos ca Rege în tine va sta
+Unde suspin și lacrimi nu voi mai avea
+
+[v2]
+Sublimă, sfântă este splendoarea
+Din veșnicii
+Nu te cuprinde eternul și zarea
+Prin măreții
+Lăsata-i cerul și necuprinsul
+Cel glorios
+Să am intrare prin poarta Sfântă
+Isus Hristos
+
+[v3]
+Slava revarsă Regele Mielul
+Cel Glorios
+Vino Isuse, strigă Mireasa
+De-aici de jos
+El a promis, va ține cuvântul
+Neclătinat
+Biruitorii vor fi izbăviți
+Pe veci împăcați

@@ -1,0 +1,35 @@
+[title]
+Ma inchin si-n asta dimineata {author: {Nicolae Moldoveanu}, {rcId: {225836}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Mă închin și-n astă dimineață
+Ție, Tatăl meu, cu-n dulce cânt,
+Căci Tu m-ai păstrat și azi cu viață
+Să Te laud cu un nou avânt.
+
+[c]
+În duh și-n adevăr mă-nchin,
+Pentru-al credinței dar ceresc,
+Prin el am harul Tău deplin,
+Prin el cu foc Te preamăresc.
+
+[v2]
+Într-un duh de sfântă bucurie,
+Drag Părinte, vin să-Ți mulțumesc
+Pentru-al Tău izvor de apă vie
+Ce-n Cuvântu-Ți sfânt eu îl găsesc.
+
+[v3]
+Prin Hristos, prin jertfa Lui deplină,
+Harul mântuirii l-am primit
+Și-am simțit iubirea Ta divină,
+Ea mă suie-n cerul fericit.
+
+[v4]
+Cu a îngerilor sfinți cântare,
+Îmi înalț și eu cântarea mea
+Într-un duh de-adâncă adorare,
+Pân’ ce-ntreg Pământu-Ți va cânta.

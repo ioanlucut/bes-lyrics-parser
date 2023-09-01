@@ -1,0 +1,35 @@
+[title]
+Mare esti tu doamne {author: {Anonim}, {rcId: {122480}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Mare ești Tu, Doamne,
+Sfânt, preaputernic,
+Dis de dimineață
+Voios Îți voi cânta!
+Plin de îndurare,
+De-nchinare vrednic,
+Domn peste toate,
+Veșnic Tu vei sta!
+
+[v2]
+Mare ești Tu, Doamne,
+Plin de lumină,
+Îngerii Te-adoră
+Și-Ți cântă zi de zi!
+Mii și zeci de mii
+Doar Ție Ți se-nchină
+Celui ce-ai fost
+Și-n veac de veac vei fi!
+
+[v3]
+Mare ești Tu, Doamne,
+Mai sus de zare,
+Ochi de om nu poate
+Mărirea Ta privi!
+Plin ești de iubire,
+N-ai asemănare,
+Domn preacurat
+Ce-n totul poți iubi!

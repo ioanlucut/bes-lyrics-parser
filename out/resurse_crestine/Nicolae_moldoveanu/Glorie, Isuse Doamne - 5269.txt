@@ -1,0 +1,28 @@
+[title]
+Glorie isuse doamne {author: {Nicolae Moldoveanu}, {rcId: {5269}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Glorie, Isuse Doamne,
+Ne’ncetat Ti se cuvine
+Pentru marea mantuire
+Ce-am primit-o de la Tine!...
+
+[c]
+Glorie, Isuse!
+Glorie, Isuse,
+Ti se cade ne’ncetat,
+Caci Tu ne-ai rascumparat.
+Glorie! Glorie!
+Pentru flacara iubirii,
+aina fericirii pline
+Care ne-a aprins fiinta,
+Glorie Ti se cuvine!
+
+[v2]
+Pentru adevarul vesnic,
+Pentru ne’ntelesul bine,
+Pentru toate... pentru toate...
+Glorie Ti se cuvine!

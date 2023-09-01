@@ -1,0 +1,71 @@
+[title]
+Turma mica turma blanda {author: {Necunoscut}, {rcId: {190331}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7,v8,v9,v10,v11
+
+[v1]
+Turma mica, turma blanda
+Turma vremilor de-apoi
+/: Cate valuri te izbira
+Si cati lupi sunt printre oi :/
+
+[v2]
+Lupi-au cautat intruna
+Sa te sfasie mereu
+/: Dar ramasa-I neclintita
+Cu credinta-n Dumnezeu :/
+
+[v3]
+Cate fiare te-ncercata-u
+Sa te-nprastie pe drum
+/: Dar ramasa-I neclintita
+Si sa ramai si acum :/
+
+[v4]
+Ai privit mereu nainte
+Chiar urcand pe drumul greu
+/: Caci stiai ca-n brat puternic
+Te pazeste Dumnezeu :/
+
+[v5]
+Noi suntem o turma mica
+Prea usor de sfasiat
+/: Dar pastorul nostru Isus
+Totdeauna ne-a salvat :/
+
+[v6]
+Noi suntem oite slabe
+Prea usor de risipit
+/: Dar avem pastor pe Isus
+El e de ne biruit :/
+
+[v7]
+Suntem turma mica astazi
+Dar puterea Lui e-n noi
+/: Nu ne temem de necazuri
+Nu ne temem de nevoi :/
+
+[v8]
+El pastorul inaltimi
+El iubitul nost’ Isus
+/: Ne conduce pana-n slava
+Cum pana aici ne-a condus :/
+
+[v9]
+Iata si astazi din nou cauta
+Ratacite oi pe drum
+/: Poate vrei si tu cu Domnul
+Sa te insotesti de-acum :/
+
+[v10]
+Haide azi la piept cu drag
+Spune-I mult am raticit
+/: O primeste-ma Isuse
+O pastorul meu iubit :/
+
+[v11]
+Vom porni cu toti in Slava
+Toti o turma si-un pastor
+/: El iubitul nostru mire
+Iara noi a lui popor :/

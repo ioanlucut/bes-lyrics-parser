@@ -1,0 +1,61 @@
+[title]
+Te-am gasit in flori si-n stele {author: {Anonim}, {rcId: {60301}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Te-am gasit in flori si-n stele
+Si-n al cerului inalt
+Si in mii de pasarele
+Si in stanca de bazalt
+
+[c]
+Te-am gasit in adanc de ape
+Dar si-n susur de izvor
+Si departe si aproape
+Tu esti Domnul Domnilor
+Peste tot si pretutindeni
+Esti cel mai frumos decor
+Caci ca Tine nu e nimeni
+Esti al nostru Creator
+
+[v2]
+Te-am gasit in stropi de roua
+Si-n culori de curcubeu
+Si-n mareata Aurora
+Te-am aflat eu, Dumnezeu
+
+[c2]
+/: Te-am gasit in ape inalte
+In necazuri si dureri
+Dar si-n dorul care arde
+Dar si in dulci mangaieri :/
+
+[v3]
+Te-am gasit in fir de nufar
+Si in purpurul din grau
+Suferind cu-acei ce sufar
+Si plangand cu-acei ce plag
+
+[c3]
+/: Te-am gasit la ceas de jale
+Suspinand indurerat
+Dar si-n cor de Osanale
+Adorat si laudat :/
+
+[v4]
+Te-am gasit la scaldatoare
+La intrare in pridvor
+Cu balsam de vindecare
+Legand rana oilor
+
+[c4]
+Te-am gasit dulce Isuse
+La pastori si la plugari
+Te-am gasit intins pe cruce
+Atarnand intre talhari
+/: Te-am gasit dulce Isuse
+Caci cu dor te-am cautat
+Caci durerile nespuse
+Pentru mine le-ai purtat :/

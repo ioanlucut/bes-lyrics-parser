@@ -1,0 +1,63 @@
+[title]
+Esti tu binecuvantare {author: {Nicolae Moldoveanu}, {rcId: {240900}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c,v8,c
+
+[v1]
+Ești tu binecuvântare,
+Pentru cei din jurul tău?
+Viața ta arată pururi
+Pe Isus și Cerul Său?
+
+[c]
+Să fiu binecuvântare,
+Pentru cei din jurul meu,
+E dorința arzătoare,
+Ce mă mistuie mereu.
+Binecuvintează, Doamne,
+Totdeauna viața mea,
+Ca toți cei din jur să fie,
+Binecuvântați prin ea!
+
+[v2]
+Ești tu cale pentru-aceia
+Care astăzi rătăcesc,
+Și-n adâncul fărdelegii
+Viața-ntreagă și-o trăiesc?
+
+[v3]
+Ești tu ochiul curăției
+Pentru orbii în păcat!
+Pot ei ca să afle-n tine
+Adevărul minunat?
+
+[v4]
+E ființa ta lumină?
+Poți să fii tu ajutor,
+Celor ce nu-L au în viață
+Pe Isus Mântuitor?
+
+[v5]
+De nu ești predat în totul
+Domnului, trăind frumos,
+Nu poți fi nici ochi, nici cale,
+Pentru cei fără Hristos!
+
+[v6]
+Dacă-n viața ta păcatul
+Mai trăiește-n loc ascuns,
+Tu ești piatra poticnirii,
+Pentru toți, de nepătruns.
+
+[v7]
+Poți să ai înțelepciune,
+Poți să știi vorbi frumos,
+De n-ai haina neprihanei,
+Nu-i poți duce Ia Hristos!
+
+[v8]
+Numai când tu ai în viață
+Ca stăpân pe Domnul Sfânt
+Poți fi binecuvântare,
+Tuturora pe pământ!

@@ -1,0 +1,29 @@
+[title]
+Nu noi suntem calea {author: {Exodus}, {rcId: {4094}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Nu noi suntem Calea Sfântă
+Calea care duce-n sus
+Noi suntem doar călătorii
+Însă Calea e Isus!
+
+[c]
+/: Astfel, Calea-i pasul nostru
+Adevăru-n noi e pus
+Viața sfântă-i viața noastră
+Dacă e în noi Isus! :/
+
+[v2]
+Nu-i o formă Adevărul
+Nici în litere nu-i pus
+Adevărul e o ființă
+Adevărul e Isus!
+
+[v3]
+Nu din lut se naște viața
+Viața fără de apus
+Ce e lut în lut se-ntoarce
+Însă viața e Isus.

@@ -1,0 +1,51 @@
+[title]
+Astazi gandul meu {author: {Anonim}, {rcId: {234026}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Astăzi gândul meu,
+Fericită-ndrept spre cer
+Lauda mea să-Ți ofer
+Ca un Tată bun, dragostea-ncununi
+Harul Tău bogat,
+În familia mea cu drag
+Tu l-ai revărsat
+Binecuvântări, colț de rai ne-ai dat
+
+[c]
+În zile senine, prin greu și bine
+Doamne mâna Ta ne-a purtat
+În a Ta iubire strâns ne-ai legat
+Azi îți dăm onoare, căci a Ta favoare
+Peste noi ai lăsat
+Încercările în bine le-ai transformat
+Da, Tu ești Domn minunat!
+În zile senine, prin greu și bine
+Doamne mâna Ta ne-a purtat
+În a Ta iubire strâns ne-ai legat
+Azi îți dăm onoare, căci a Ta favoare
+Peste noi ai lăsat
+Încercările în bine le-ai transformat
+Da, Tu ești Domn minunat!
+În zile senine, prin greu și bine
+Doamne mâna Ta ne-a purtat
+În a Ta iubire strâns ne-ai legat
+Azi îți dăm onoare, căci a Ta favoare
+Peste noi ai lăsat
+Încercările în bine le-ai transformat
+Da, Tu ești Domn minunat!
+
+[v2]
+Vreau cu gândul meu să Te laud,
+Vrednic ești! Inima-mi împlinești!
+Ce dar minunat, prin părinți mi-ai dat
+Tată dedicat, pașii mei spre calea Ta
+Prin Cuvânt mi-a-ndrumat
+lar prin mama mea mi-arăți dragostea!
+
+[e]
+Mulțumesc, Tu cu noi ai fost bun,
+Un scop pentru noi ai avut,
+La pieptul Tău ne-ai ținut!

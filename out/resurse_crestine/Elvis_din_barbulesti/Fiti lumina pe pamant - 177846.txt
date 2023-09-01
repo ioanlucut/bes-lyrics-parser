@@ -1,0 +1,23 @@
+[title]
+Fiti lumina pe pamant {author: {Elvis din Barbulesti}, {rcId: {177846}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Păziți ce este drept și faceți ce e bine
+Căci mântuirea Mea este aproape!
+Fericit va fi atunci cel ce-a împlinit
+Cuvântul Meu cel drept și sfânt!
+
+[c]
+/: Fiți lumină pe pământ, arătați că sunteți sfinți,
+Prin credință și prin fapte bune!
+Vă voi însoți mereu și la bine și la greu,
+Vestiți cu-ndrăzneală Cuvântul Meu! :/
+
+[v2]
+Fiți blânzi și răbdători, mereu ascultători,
+Iubiți-vă unii pe alții!
+În dragoste trăiți, căutați să vă jertfiți,
+Cu bucurie voi să Îi slujiți!

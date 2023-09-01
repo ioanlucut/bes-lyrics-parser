@@ -1,0 +1,30 @@
+[title]
+Cat te-a iubit {author: {Frații Paiu}, {rcId: {200809}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cât te-a iubit.. ai înțeles vreodat’?
+La Golgota El crucea a purtat.
+N-a ripostat când L-au batjocorit
+Înțelegi, Tu acum cât te-a iubit?
+
+[c]
+Și azi ne cere să-L urmăm,
+Exemplu azi să Îl păstrăm,
+Căci doar de Îi vom semăna
+Vom fi la dreapta Sa.
+
+[v2]
+Cât te-a iubit.. ai înțeles vreodat’
+De S-a lăsat pe nedrept acuzat?
+A vrut să știi ce-nseamnă a iubi
+Pentru-aproapele tău a te jertfi.
+
+[v3]
+Cât ne-a iubit.. vom înțelege-odat’?
+Slava din Cer pentru noi a lăsat.
+N-a fost nimic rău în ființa Lui..
+Cât ar vrea să-I semănăm..
+Să fim ai Lui..

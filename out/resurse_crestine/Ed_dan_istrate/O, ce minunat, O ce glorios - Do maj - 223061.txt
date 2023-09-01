@@ -1,0 +1,40 @@
+[title]
+O ce minunat o ce glorios - do maj {author: {ed. Dan Istrate}, {rcId: {223061}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+O ce minunat! O ce glorios!
+Pe pământ S-a născut Christos!
+Tot cerul cântă în noaptea sfântă
+„
+Slavă, slavă-n veci lui Dumnezeu!”
+
+[v2]
+O ce minunat! O ce glorios!
+Printre noi a trăit Christos
+Plin de iubire și strălucire,
+„
+Slavă, slavă-n veci lui Dumnezeu!”
+
+[v3]
+O ce minunat! O ce glorios!
+Pentru noi S-a jertfit Christos!
+El dă iertare și împăcare:
+„
+Slavă, slavă-n veci lui Dumnezeu!”
+
+[v4]
+O ce minunat! O ce glorios!
+Pentru noi a-nviat Christos!
+Cu-ndreptățire și nemurire:
+„
+Slavă, slavă-n veci lui Dumnezeu!”
+
+[v5]
+O ce minunat! O ce glorios!
+Pentru noi va veni Christos
+Cu mântuire și răsplătire,
+„
+Slavă, slavă-n veci lui Dumnezeu!”

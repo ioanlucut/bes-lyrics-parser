@@ -1,0 +1,23 @@
+[title]
+Pamantul imbujorat {author: {Iulia Contis}, {rcId: {240243}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Frunzele și toamna-n floare
+Îmi vestesc a ta splendoare!
+Natura e-n sărbătoare,
+Parcă-așteaptă-eliberare!
+
+[c]
+Și șoptesc frunze de-argint
+Și, parcă, prin Duh m-alin
+Când privesc la ce-ai creat,
+La pâmântu-mbujorat!
+
+[v2]
+Sfânt e Domnul pe cărare
+Și-mi apare dinspre zare!
+Cât e întinsul de mare,
+Văd, Doamne, a Ta lucrare!

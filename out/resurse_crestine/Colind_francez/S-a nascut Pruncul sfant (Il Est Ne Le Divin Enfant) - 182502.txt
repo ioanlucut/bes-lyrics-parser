@@ -1,0 +1,33 @@
+[title]
+S-a nascut pruncul sfant (il est n'e le divin enfant) {author: {Colind francez, Traducere RO}, {rcId: {182502}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,s,c
+
+[c]
+S-a născut Pruncul sfânt, divin
+Armonii se aud din cer, de sus
+S-a născut Pruncul sfânt, divin
+Veniți să-I cântăm Domnului.
+
+[v1]
+Din vechime s-a profețit
+De venirea lui Mesia
+Din vechime s-a profețit
+Mântuirea pe pământ.
+
+[v2]
+Minunat este Domnul sfânt
+Plin de străluciri divine
+Minunat este Domnul sfânt
+Salvatorul pe pământ.
+
+[v3]
+Jos la noi, Isus a venit
+Lăsând slava Sa divină
+Jos la noi, Isus a venit
+Blând, smerit aici pe pământ.
+
+[s]
+”
+Îl văd, dar nu acum, Îl privesc, dar nu de aproape. O stea răsare din Iacov, un toiag de cârmuire se ridică din Israel. Numeri 24:17

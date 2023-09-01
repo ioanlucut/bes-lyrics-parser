@@ -1,0 +1,44 @@
+[title]
+Drumul spre cer poate incepe {author: {Anonim}, {rcId: {66167}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+O lume-nspăimântată,
+Își caută Salvator
+Păcatul greu apasă,
+Cine-i crede prețul său?
+În dragostea de Tată,
+Își arată mila Sa
+Iertarea și viața,
+Prin Pruncul Minunat.
+
+[c]
+Drumul spre cer poate-ncepe
+Într-o iesle-n Betleem.
+Mesia Domnul slavei,
+Ce din vechime ne vorbea
+Iubind așa de mult a plătit
+Un preț prea scump.
+Drumul spre cer îl deschide,
+Și viață dă prin jerfa Sa.
+
+[v2]
+În Betleem un staul
+E tron pentru Isus
+Căci Însuși Domnul slavei
+Printre noi a coborât
+Maria și păstorii
+Cu dragoste priveau
+Știind că-i Salvatorul
+Ce-i dă viața-n dar.
+
+[e]
+Azi s-a născut un Salvator
+Copilul preasfânt
+Un Rege divin...
+Departe-ntr-o iesle în paie ascuns
+Culcat printre vite stă pruncul Isus
+Îi cântă și-L leagănă stele de argint
+Și încet Copilașul adoarme zâmbind.

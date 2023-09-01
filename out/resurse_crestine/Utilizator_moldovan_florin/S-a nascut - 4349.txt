@@ -1,0 +1,27 @@
+[title]
+S-a nascut {author: {Utilizator Moldovan Florin}, {rcId: {4349}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+O stea pe cer s-a arătat
+Acelor trei magi și i-a îndrumat
+Spre Betleem, unde s-a născut
+Regele Isus
+
+[c]
+S-a născut, s-a născut
+S-a născut, Regele Isus
+S-a născut, s-a născut
+S-a născut Regele Isus
+
+[v2]
+Vrem și noi în dar, să-ți dăm dragostea
+Cu sufletul și cu inima
+Și-ntr-un glas voios, să cântam cu toți
+S-a născut Isus Hristos
+
+[e]
+În inima mea, în inima ta
+În inima mea, în inima ta

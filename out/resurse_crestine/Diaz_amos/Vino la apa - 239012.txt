@@ -1,0 +1,29 @@
+[title]
+Vino la apa {author: {Diaz Amos}, {rcId: {239012}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Porți de argint și opal
+Se deschid, mare dar!
+Lângă izvor, un popor așteaptă,
+Să bea din sfânta apă!
+
+[c]
+/: Vino și tu de ești însetat,
+Nu căuta motiv să nu vii!
+Speră, roagă-te și crede;
+Un om curat prin El vei deveni! :/
+
+[v2]
+Ruga spre cer, spre zare
+Răsună în glas frumos!
+Toți mâinile am ridicat voioși;
+Spre a-L înălța pe Hristos!
+
+[v3]
+Vei fi un suflet nou,
+Botezat prin Duhul Sfânt!
+O sărbătoare de se bucură
+Chiar și acest tăcut pământ!

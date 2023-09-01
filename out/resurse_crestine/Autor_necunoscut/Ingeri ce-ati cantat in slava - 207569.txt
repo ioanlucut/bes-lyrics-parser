@@ -1,0 +1,33 @@
+[title]
+Ingeri ce-ati cantat in slava {author: {Anonim}, {rcId: {207569}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Îngeri ce-ați cântat în slavă
+Când pământu-a fost creiat
+Preamăriți fără zăbavă,
+Pe Cristos ce s-a-ntrupat.
+
+[c]
+Dați-I slavă, dați-I slavă,
+Lui Cristos ce s-a-ntrupat.
+
+[v2]
+Voi păstori ce-n câmp afară
+Stați cu turmele de oi
+Străluciri din cer coboară
+Domnul a venit la noi.
+
+[v3]
+Din vegheri și contemplare
+Înțelepți magi vă treziți
+Steaua lui strălucitoare
+Iat-o după ea porniți.
+
+[v4]
+Sfinți ce stați lângă altare
+Așteptând cutremurați
+Iată-n templul Său apare
+Domnul sfânt. vă închinați

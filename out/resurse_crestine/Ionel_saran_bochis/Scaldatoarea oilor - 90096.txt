@@ -1,0 +1,45 @@
+[title]
+Scaldatoarea oilor {author: {Ionel Saran Bochis}, {rcId: {90096}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7,v8,v9,v10
+
+[v1]
+Într-o sâmbătă, Isus, la Ierusalim s-a dus
+/: Vede acolo-ntâmplător scăldătoarea oilor. :/
+
+[v2]
+În aceasta scăldătoare se aflau cinci foișoare
+/: Zi si noapte stau în ele oameni chinuiți de rele. :/
+
+[v3]
+Fel si fel, orbi, șchiopi, uscați, o mulțime adunați
+/: Așteptau cu nerăbdare toți a apei tulburare. :/
+
+[v4]
+Căci un înger când și când din înălțimi venea zburând,
+/: Jos în apă când intra, pân-la fund o tulbura. :/
+
+[v5]
+Izbutind să te arunci cel dintâi în apă atunci
+/: Vindecat pe loc erai de orice boala sufereai. :/
+
+[v6]
+Un bolnav aici ședea, vai de când el suferea
+/: De mulți ani stătea săracul și căuta să-și afle leacul. :/
+
+[v7]
+Pe acest nenorocit, într-un colț când l-a zărit,
+/: Întrebatu-l-a Hristos, vrei să te faci sănătos ? :/
+
+[v8]
+Cum n-aș vrea sărman de mine a zis el, dar n-are cine
+/: Să mă bage-n scăldătoare după a apei tulburare. :/
+
+[v9]
+Când să-mi vină mie aminte, alții sar mai înainte.
+/: Haide, scoală, patu-ți ia și umblă, zis-a Domnul. :/
+
+[v10]
+Cum ii zise așa Isus, a sărit bolnavu-n sus
+/: Și luându-și patu-n spate prins-a umbla prin cetate. :/

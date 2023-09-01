@@ -1,0 +1,35 @@
+[title]
+De ce esti trist straine {author: {Beniamin Pop}, {rcId: {194041}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+M-aflam pe-a mea carare
+In noapte cufundat
+Cand am zarit lumina
+Ce pace ea mi-a dat
+Deodata langa mine
+Un print din cer veni
+Cu glas duios si dulce
+El astfel mi-a vorbit:
+
+[c]
+De ce esti trist straine
+Si plangi cu-atat amar
+Nu stii caci pentru tine
+Eu am platit un pret amar!
+De ce esti trist straine
+Si plangi cu-atat amar
+Nu stii caci pentru tine
+Eu am platit si esti salvat?
+
+[v2]
+Trezit din amorteala
+Degrab m-am ridicat
+Si am privit spre printul
+In alb imaculat
+Cu glas duios si dulce
+El iarasi mi-a vorbit
+Hai vino nu mai plange
+Caci pretul s-a platit.

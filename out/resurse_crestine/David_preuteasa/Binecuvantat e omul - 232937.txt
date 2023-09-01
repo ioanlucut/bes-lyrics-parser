@@ -1,0 +1,35 @@
+[title]
+Binecuvantat e omul {author: {David Preuteasa}, {rcId: {232937}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Binecuvântat e omul
+Care-n viață a găsit
+O femeie credincioasă
+Ajutorul potrivit.
+El va fi preot în casă
+O va binecuvânta
+Cum Hristos pe-a Sa mireasă
+Veșnic o va înălța.
+
+[c]
+/: Viața voastră e frumoasă
+Împreună cu Hristos,
+Veți avea pace în casă
+Iar căminul luminos,
+Zilele vor fi senine
+Anii nu se vor sfârși
+Și la rău dar și la bine
+Dragostea va birui :/
+
+[v2]
+Fericirea o însoțește
+Bucuroasă-i zi de zi
+Cu drag casa își zidește
+Și răsplată va primi,
+Iar bărbatul se încrede
+Și se laudă zicând
+Multe fete sunt în lume
+Dar ca tine nimeni nu-i.

@@ -1,0 +1,29 @@
+[title]
+Rau al binecuvantarii {author: {Jas.McGranaham}, {rcId: {1903}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Râu al binecuvântării,
+Duhul Celui veșnic viu,
+Vino cu timpuri de pace,
+Umple-nsetatul pustiu!
+
+[c]
+Doamne, revarsă Duhul
+Promis ca pe-un râu,
+Chiar un strop de fericire,
+Dă-ne-ndeajuns Duhul Tău!
+
+[v2]
+Sfânta binecuvântare,
+Râu ce curgi din Dumnezeu,
+Umple cu sfânta putere
+Sufletul nostru mereu!
+
+[v3]
+Duh al binecuvântării,
+Astăzi smeriți Te dorim,
+Inima ne e deschisă,
+Umple-ne, dar, pe deplin!

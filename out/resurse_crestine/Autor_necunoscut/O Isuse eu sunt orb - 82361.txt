@@ -1,0 +1,35 @@
+[title]
+O isuse eu sunt orb {author: {Anonim}, {rcId: {82361}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+O Isuse eu sunt orb
+Și nu văd nimic, nimic
+Dar sunt fericit că pot
+/: Să Te-ascult, să mă ridic :/
+
+[c]
+Va veni eu bine știu
+Ziua ’n care abia aștept
+Să Te văd și fericit
+/: Să mă iei plângând la piept :/
+
+[v2]
+Eu cu ochii nu Te văd
+Dar Te simt la orice pas
+O, ajută-mă nicicând
+/: De Tine să nu mă las :/
+
+[v3]
+Cât aș vrea ca să Te văd
+În splendoarea Ta de sus
+Tu să fi-i al meu Stăpân
+/: Iară eu al tău supus :/
+
+[v4]
+Ochi-mi sunt făr de folos
+Că nu pot să Te privesc
+Dar sunt fericit că pot
+/: Să Te-ascult să Te ’nțeleg :/

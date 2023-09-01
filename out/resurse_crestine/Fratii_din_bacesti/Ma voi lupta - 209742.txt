@@ -1,0 +1,53 @@
+[title]
+Ma voi lupta {author: {Fratii din Bacesti}, {rcId: {209742}}
+
+[sequence]
+c,v1,c2,c,v2,c2,v3,c2,c,e
+
+[c]
+/: Ma voi lupta: \
+Pana voi primi cununa
+/: Ma voi lupta: \
+Chiar de lupta va fi grea.
+/: Ma voi lupta: \
+Pana voi primi cununa
+/: Ma voi lupta: \
+Chiar de lupta va fi grea. : \
+/: Ma voi lupta: \
+Pana voi primi cununa
+/: Ma voi lupta: \
+Chiar de lupta va fi grea. : \
+
+[v1]
+/: Cand l-am primit
+Pe Dumnezeu
+Mi-a spus sa ma lupt mereu
+Ca doar luptand de voi castiga
+Cununa voi capata. : \
+
+[c2]
+/: Alerg spre cer, alerg mereu
+Pana voi primi premiul meu
+Orice ar fi, n-as renunta
+Neincetat ma voi lupta. : \
+/: Alerg spre cer, alerg mereu
+Pana voi primi premiul meu
+Orice ar fi, n-as renunta
+Neincetat ma voi lupta. : \
+
+[v2]
+Stiu ca nu va fi usor
+Ce va fi in viitor
+Nicicand nu voi inceta
+Mereu te voi lauda
+
+[v3]
+Si oricat ar fi de greu,
+Eu nu ma las de Dumnezeu
+Voi lupta sa spun candva:,, Mi-am sfarsit alergarea!”
+
+[e]
+/: Ma voi lupta: \
+Pana voi primi cununa
+/: Ma voi lupta: \
+Chiar de lupta va fi grea.

@@ -1,0 +1,25 @@
+[title]
+Har tamaduitor {author: {Diaz Amos}, {rcId: {239011}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: Câtă iubire am găsit; am aflat în Cel ce-i veșnic
+Puterea Lui se aprinde în lumânări în sfeșnic! :/
+
+[c]
+/: Harul tămăduitor, mi-e alin îndurător;
+E cu mine în orice an fiindu-mi scut, fiindu-mi balsam! :/
+
+[v2]
+/: Cânt despre a Lui lucrare, Domnul meu e viu,
+Iar puterea Sa cea mare în veci am să știu! :/
+
+[v3]
+/: De văpăi vin, întuneric, o nădejde am,
+Pe asin de El condus sunt spre al vieții han! :/
+
+[v4]
+/: Astăzi când de-a Lui putere, Domnul meu trăiește,
+Dragostea pentru Acesta tot mai mult îmi crește! :/

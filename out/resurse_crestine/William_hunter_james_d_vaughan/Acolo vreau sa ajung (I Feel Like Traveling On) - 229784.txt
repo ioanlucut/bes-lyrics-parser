@@ -1,0 +1,29 @@
+[title]
+Acolo vreau sa ajung (i feel like traveling on) {author: {William Hunter, James D. Vaughan, Traducere RO}, {rcId: {229784}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+La Domnul meu am un locaș
+Acolo vreau să ajung!
+Plin de lumină, ne-ncetat
+Acolo vreau să ajung!
+
+[c]
+Da, acolo vreau să ajung
+Acolo vreau să ajung!
+La Domnul meu am un locaș
+Și acolo vreau să ajung!
+
+[v2]
+La Domnul meu din străluciri
+Acolo vreau să ajung!
+Eu voi găsi doar fericiri
+Acolo vreau să ajung!
+
+[v3]
+La Domnul meu, Cel Minunat
+Acolo vreau să ajung!
+Eu am un sprijin necurmat
+Acolo vreau să ajung!

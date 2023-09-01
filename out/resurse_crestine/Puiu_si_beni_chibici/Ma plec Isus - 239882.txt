@@ -1,0 +1,39 @@
+[title]
+Ma plec isus {author: {Puiu și Beni Chibici}, {rcId: {239882}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Mă plec Isus ’naintea Ta
+Și-mi ridic mâinile amândouă
+Vreau să-ți predau ființa mea,
+Și să încep o viață nouă.
+
+[c]
+Mă recunosc sunt vinovat
+Și am umblat pe căi murdare,
+Dar vin acum să fiu iertat,
+O Doamne-n bunătatea-Ți mare,
+Mă recunosc sunt vinovat,
+Și-mi pare rău de-a mea purtare
+Dar vin acum să fiu iertat
+O Doamne-n bunătatea-Ți mare.
+
+[v2]
+Departe-am stat de fața Ta
+Cuprins de-un duh de amăgire,
+Și-aș fi rămas mereu așa
+De n-ar fi fost a Ta iubire.
+
+[v3]
+Pierdut-am tot ce-am adunat
+Atâția ani Isus cu Tine,
+De-a Ta iubire am uitat
+Și-am apucat pe căi străine.
+
+[v4]
+Ca fiul cel risipitor
+Sătul de lumea nemiloasă,
+Ca un copil neascultător,
+Mă-ntorc umil și-n zdrențe acasă.

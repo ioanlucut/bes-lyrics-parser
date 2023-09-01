@@ -1,0 +1,25 @@
+[title]
+Asculta {author: {Elena Delcea Bilstrup}, {rcId: {4041}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Ascultă, ascultă tu mai bine.
+La oamenii cei mari să mergi,
+Căci au aflat ei despre tine,
+Ce vrei, ce vrei să faci,
+Ca să ajuți sărăcii pentru mine.
+
+[c]
+La masa Tatălui să stai,
+Să lupți atuncea tu mai mult
+Cu întunericul să lupți.
+Să dai, să dai, să dai...
+
+[v2]
+Când mâna va veni din nou în casa ta,
+Să dai din ea, să dai din ea,
+Și să culegi roada cea bună,
+Căci e ceea ce-o ceri din cer
+Și ea te duce la cunună.

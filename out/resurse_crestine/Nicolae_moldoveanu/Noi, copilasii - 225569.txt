@@ -1,0 +1,32 @@
+[title]
+Noi copilasii {author: {Nicolae Moldoveanu}, {rcId: {225569}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Noi, copilașii, azi, Isus,
+privirea ne-o-ndreptăm în sus
+spre Tine, scump Mântuitor,
+Isuse, bun Păstor!
+
+[c]
+Să cântăm în cor voios, slăvit să fii, Isus, Nume frumos!
+
+[v2]
+Suntem micuți, dar vrem cu zor,
+să bem din sfântul Tău Izvor,
+din viul Tău Cuvânt să bem,
+c-ai Tăi și noi suntem.
+
+[v3]
+Isuse, Doamne, Te rugăm,
+să ne ajuți să ascultăm,
+când Tu ne-nveți cum să trăim
+cuminți și buni să fim.
+
+[v4]
+Prin harul Tău, Tu să ne crești,
+să ne conduci cum Tu voiești,
+și viața cât o vom trăi
+să Te putem iubi.

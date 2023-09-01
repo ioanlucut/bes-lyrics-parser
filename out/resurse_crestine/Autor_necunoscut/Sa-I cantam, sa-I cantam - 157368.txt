@@ -1,0 +1,31 @@
+[title]
+Sa-i cantam sa-i cantam {author: {Anonim}, {rcId: {157368}}
+
+[sequence]
+c,v1,c,v2,c,e
+
+[c]
+/: Să-I cântăm, să-I cântăm cu îngerii!
+Să-I cântăm toți din inimă,
+Cu oastea din cer, cu oamenii,
+Laudă lui Dumnezeu! :/
+
+[v1]
+Îngerii din cer au vestit
+Păstorilor din câmp,
+Iată s-a născut Hristos,
+La toți oamenii de folos.
+
+[v2]
+S-alergăm și noi cu toți
+Unde-I născut Hristos.
+Cu păstorii împreună,
+S-aducem vestea cea bună.
+
+[e]
+Să-I cântăm, să-I cântăm cu îngerii!
+Să-I cântăm toți din inimă,
+Cu oastea din cer, cu oamenii,
+Laudă lui Dumnezeu!
+Să-I cântăm, Să-I cântăm,
+Laudă lui Dumnezeu!

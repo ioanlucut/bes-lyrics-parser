@@ -1,0 +1,37 @@
+[title]
+In domnul mi-am pus nadejdea {author: {Ioan Hapca}, {rcId: {96501}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+În Domnul mi-am pus nădejdea
+Și când leul a răcnit
+Și când mă păștea primejdia,
+Și furtuni când s-au stârnit...
+Da. În Domnul mi-am pus nădejdea
+Și am rămas neclintit
+Căci Domnul Și-a arătat Puterea
+Și mereu m-a izbăvit!
+
+[c]
+Dumnezeu E Creatorul
+Și Stăpânul meu iubit,
+Dumnezeu este-ajutorul
+Omului blând și smerit,
+El este Mântuitorul
+Care moartea a biruit
+Și zdrobind pe-nșelătorul
+Sufletul ne-a izbăvit...
+Da! Nu-i nimenea ca Domnul
+Atotputernic și slăvit!
+
+[v2]
+O, voi popoare ale lumii
+Ascultați acest apel:
+Domnu-I Stânca mântuirii,
+Încredeți-vă toți în El!
+Lepădați haina minciunii,
+Veniți la Emanuel,
+Căci El e Stânca mântuirii,
+Nu e nimenea ca El!!

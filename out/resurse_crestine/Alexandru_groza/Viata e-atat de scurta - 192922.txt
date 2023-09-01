@@ -1,0 +1,29 @@
+[title]
+Viata e-atat de scurta {author: {Alexandru Groza}, {rcId: {192922}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+Viața e-atât de scurtă și timpul e târziu
+Eu vin la Tine, Doamne, să fiu fericit
+O, întărește-mi pașii să te pot urma
+Mă-ncred în iubirea Ta
+
+[v1]
+În lumea-aceasta mare am căutat mereu
+Un strop de fericire pentru sufletul meu
+Dar valurile vieții în lume m-au purtat
+De Domnul m-au îndepărtat!
+
+[v2]
+Azi m-am oprit o clipă din alergarea mea
+De dragostea lui Isus cânta-va inima mea
+În fiecare pas Domnul m-a însoțit
+Mereu sufletul mi-a păzit!
+
+[v3]
+Cu brațele deschise spre lume stă Hristos
+El cheamă la credință pe omul păcătos
+Izvor de mântuire curge din jertfa Sa
+Primește-l în inima Ta!

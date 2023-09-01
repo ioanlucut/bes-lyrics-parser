@@ -1,0 +1,41 @@
+[title]
+Maretul har ce cantec scump (the sweetest song i know) {author: {Albert E. Brumley, Traducere RO}, {rcId: {203775}}
+
+[sequence]
+v1,c,v2,c,v3,c,s,c
+
+[v1]
+Am auzit pe mulți cântând: ’
+Mă duc la Golgota’
+Iar alteori cântând așa: ’
+Isus, speranța mea’
+Cântări noi, dar și imnuri vechi, slăvind pe Dumnezeu
+Dar ’
+Mărețul Har ce m-a salvat’ este cel mai scump mereu.
+
+[c]
+’
+Mărețul Har ce m-a salvat’ e nespus de frumos
+Nu găsești pe pământ un altul mai duios
+Viață nouă, pace sfântă din belșug am primit
+În Mărețul Har al lui Isus prin care-s mântuit.
+
+[v2]
+Am auzit pe mulți cântând: ’
+O zi în Casa Ta’
+Iar alteori cântând așa: ’
+Tu ești nădejdea mea’
+Cântări ce-aprind în ființa mea dorul de Dumnezeu
+Dar ’
+Mărețul Har ce m-a salvat’ este cel mai scump mereu.
+
+[v3]
+Îmi amintesc cum mama mea cu glas duios cânta
+’
+Mărețul Har’ ce răsuna și veselie-mi da
+În fiecare vers al lui găsesc pe Dumnezeu
+Da, ’
+Mărețul Har ce m-a salvat’ este cel mai scump mereu.
+
+[s]
+Căci prin har ați fost mântuiți, prin credință. Și aceasta nu vine de la voi; ci este darul lui Dumnezeu. Efes. 2:8

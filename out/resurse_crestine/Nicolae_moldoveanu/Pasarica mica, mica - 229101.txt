@@ -1,0 +1,16 @@
+[title]
+Pasarica mica mica {author: {Nicolae Moldoveanu}, {rcId: {229101}}
+
+[sequence]
+v1,v2
+
+[v1]
+Păsărică mică, mică, de ce cânți pe rămurică,
+nu ți-e foame, nu ți-e frică, ai tu soră ori mămică,
+ai tu casă, ai hambar, de ce cânți așa cu har?
+
+[v2]
+N-am nici grijă cum sunt eu, ci-L slăvesc pe Dumnezeu,
+n-am hambare, cum ai spus, însă tot ce-i jos și sus,
+de cu zori până-n apus e al meu de la Isus
+Eu ascult de voia Sa și El poartă grija mea.

@@ -1,0 +1,35 @@
+[title]
+Asculta linistea din tine {author: {Cristina_Toma}, {rcId: {241371}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ascultă liniștea din tine.
+Privește ceea ce nu vezi!
+Și însimțămintele ’ți divine;
+Privește-te cu ochi cerești!
+
+[c]
+/: Privește în jur și ia aminte:
+La tot ce faci, la ce îți dorești!
+Să poți să fii în conformitate;
+Privirii ochilor cerești! :/
+
+[v2]
+Cere înțelepciune în vorbă.
+În tot cuvântul ce-l rostești!
+Și sigur vei vedea că în taină;
+Te-ai studiat cu ochi cerești!
+
+[v3]
+E greu în lumea de păcate;
+Și gândul să ți-l stăpânești!
+Dar ia aminte și la gânduri.
+Căci ești privit cu ochi cerești!
+
+[v4]
+E adevărat. se mai întâmplă;
+În toate acestea să greșești!
+Dar cere înțelepciune sfântă.
+Să poți privi prin ochi cerești!

@@ -1,0 +1,33 @@
+[title]
+Orice om are nevoie {author: {Anonim}, {rcId: {1514}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Orice om are nevoie
+De iubire și-a iubi
+Orice viață fără ea n-are destin.
+Nu se poate viața mea
+Fără de iubirea Sa.
+Oare cei buni știu ce este iubirea?
+
+[c]
+/: Cineva sus în ce mă iubește
+Cineva mă păzește mereu.
+Eu sunt sigur să-n orice vreme
+Sunt iubit de însuși Dumnezeu. :/
+
+[v2]
+De nu m-ar iubi în lume
+Nici părinți și nici copii
+Nici un om nu dovedește-a mă iubi.
+Iar când ura mă apasă
+Și este vrăjmașul meu
+Va veni o zi care mă va scăpa chiar Dumnezeu.
+
+[v3]
+Spuneți dar la orișicine Dumnezeu e dragostea
+De-L iubești tu ai putere să iubești pe altcineva
+Toți cei ce-L iubesc pe Isus îl iubesc și pe vrăjmaș
+Dumnezeu la așa iubire ne-a chemat să-I fim părtași.

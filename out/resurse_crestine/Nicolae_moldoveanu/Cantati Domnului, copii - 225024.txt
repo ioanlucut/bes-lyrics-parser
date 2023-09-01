@@ -1,0 +1,35 @@
+[title]
+Cantati domnului copii {author: {Nicolae Moldoveanu}, {rcId: {225024}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Cântați lui Dumnezeu, copii,
+ne-ncetat, ne-ncetat
+căci e sfânt și îndurat!
+Cântați Domnului, copii
+El ni-e Tată minunat,
+fie veșnic lăudat!
+Lăudat, lăudat,
+fie veșnic lăudat!
+
+[v2]
+Cântați Domnului, copii,
+nesfârșit, nesfârșit;
+de la El am venit.
+Cântați Domnului, copii,
+viața El ne-a dăruit,
+fie veșnic preamărit!
+Preamărit, preamărit,
+fie veșnic preamărit!
+
+[v3]
+Cântați Domnului, copii,
+mai frumos, mai frumos,
+cu un duh luminps.
+Cântați Domnului, copii,
+să țâșnească-un cânt duios,
+dintr-un suflet credincios,
+cânt duios, cânt frumos,
+spre mărirea lui Hristos!

@@ -1,0 +1,30 @@
+[title]
+Da-eu cred in isus {author: {Anonim}, {rcId: {4077}}
+
+[sequence]
+c,v1,c2,v2,c2
+
+[c]
+Da, eu cred în Isus
+Da, eu cred că El e Dumnezeu
+Da, eu cred că a murit și-a înviat
+Da, eu cred că a murit pentru noi toți.
+
+[v1]
+Cred că El e aici,
+Printre noi, acum,
+Pe bolnavi vindecând
+Și păcate iertând!
+
+[c2]
+Da, eu cred că-i aicea
+Stând cu noi acum
+Are putere să ierte
+Și har d
+Da, eu cred în Isus,
+
+[v2]
+Cred că Tu ești aici,
+Între noi, acum!
+Pe bolnavi Tu îi vindeci,
+Și păcatele ierți!

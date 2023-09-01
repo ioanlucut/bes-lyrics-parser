@@ -1,0 +1,30 @@
+[title]
+Domnul meu emanuel {author: {Carmen Prodan}, {rcId: {162898}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Urlă valul tare și furtuna-i mare
+Dar eu în Isus stau neclintit;
+El îmi dă putere când trec prin durere
+Slavă Lui îi cânt necontenit!
+
+[c]
+Ce bine-i lângă Dumnezeu,
+Ce bine-i lângă El!
+/: Când tot iadul se frământă
+El îmi dă o pace sfântă
+Domnul meu, Emanuel:\
+
+[v2]
+Când am întristare și lacrimi amare
+Domnului mă rog stăruitor;
+El mă sprijinește și mă întărește
+Doar Isus îmi vine-n ajutor.
+
+[v3]
+Domnul mă iubește și mă izbăvește
+Când Cel rău m-atacă furios,
+Nimenea vreodată n-o să mă despartă
+De iubirea lui Isus Hristos!

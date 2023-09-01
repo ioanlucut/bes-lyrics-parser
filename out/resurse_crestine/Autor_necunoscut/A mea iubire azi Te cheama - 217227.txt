@@ -1,0 +1,47 @@
+[title]
+A mea iubire azi te cheama {author: {Anonim}, {rcId: {217227}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: A mea iubire azi Te cheamă
+O Mire drag și minunat
+Și strigă-ntruna ia-mă, ia-mă
+În Casa Ta și-al Tău Palat :/
+
+[c]
+Căci nu-i nimic pe lume Doamne
+Mai scump ca Numele Tău drag
+Prin care-atâta har ne vine
+În viața-aceasta de pribeag
+Sus în Etern în slăvi de raiuri
+În Preamăritul Empireu
+În Țara Veșnicei doar haruri
+Unde ești Tu să fiu și eu
+Căci nu-i nimic pe lume Doamne
+Mai scump ca Numele Tău drag
+Prin care-atâta har ne vine
+În viața-aceasta de pribeag
+Sus în Etern în slăvi de raiuri
+În Preamăritul Empireu
+În Țara Veșnicei doar haruri
+/: Unde ești Tu să fiu și eu :/
+
+[v2]
+/: Obrazul meu din nou tânjește
+Să-l ștergi de lacrimi pe deplin
+Și dorul meu în piept tot crește
+S-ajung la pieptul Tău divin :/
+
+[v3]
+/: Și fața suptă de-ntristare
+Așteaptă clipa s-o privești
+În veci de veci cu-nduioșare
+Acolo-n slăvile cerești :/
+
+[v4]
+/: O Tu cel ce-mi pătrunzi gândirea
+Și năzuința și-al meu dor
+Mai fă-mă iar să-ți simt iubirea
+Scăldată-n lacrimi și fior :/

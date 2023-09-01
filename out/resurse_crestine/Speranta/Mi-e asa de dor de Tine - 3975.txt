@@ -1,0 +1,35 @@
+[title]
+Mi-e asa de dor de tine {author: {Speranța}, {rcId: {3975}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Mi-e așa de dor de Tine
+Isuse, Dumnezeu;
+/: Te chem să vii la mine
+Și plâng de dorul Tău. :/
+
+[v2]
+Ce-aș face-n suferință,
+Ce-aș face la necaz,
+/: De n-ai fi Tu să-mi mângâi
+Lovitul meu obraz? :/
+
+[v3]
+De n-ai fi Tu cu mine,
+Ca mâna să-mi întinzi,
+/: Și-n dulcea mângâiere
+La sân să mă cuprinzi? :/
+
+[v4]
+Să-mi legi atâtea rane,
+Să-mi ștergi atâta chin,
+/: Isuse alinarea
+Sărmanului străin! :/
+
+[v5]
+Și iarăși plâng sub cruce
+Și iar privesc în sus;
+/: Mi-așa de dor de Tine,
+Iubitul meu Isus! :/

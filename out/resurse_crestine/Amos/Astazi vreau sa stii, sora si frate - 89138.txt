@@ -1,0 +1,53 @@
+[title]
+Astazi vreau sa stii sora si frate {author: {amos7}, {rcId: {89138}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Astăzi vreau să știi, soră și frate,
+Căci Isus e al meu Mântuitor.
+/: E prezent aici, în adunare,
+Să vindece pe al Său popor :/
+
+[c]
+El vindecă leproșii, El vindecă și orbii,
+El vindecă pe cei ce cred în El.
+El vindecă ologii, El vindecă și șchiopii,
+El e Isus Hristos Emanuel!
+
+[v2]
+Astăzi vreau să știe toată lumea
+Căci Isus Hristos e al meu Mântuitor.
+/: Mi-a dat biruință și putere
+La nevoie-i sprijin și ajutor :/
+
+[c2]
+El vindecă leproșii, El vindecă și orbii,
+El vindecă pe cei ce cred în El.
+El vindecă ologii, El vindecă și șchiopii,
+El e Isus Hristos slăvit din cer!
+
+[v3]
+Prin credință vei scăpa de moarte,
+Prin credință Iov a biruit,
+/: Prin credință a primit de toate,
+Pentru toate a fost răsplătit :/
+
+[c3]
+El vindecă leproșii, El vindecă și orbii,
+El vindecă pe cei ce cred în El,
+El vindecă ologii, El vindecă și șchiopii,
+El e Isus Hristos slăvit din cer!
+
+[v4]
+Azi mai sunt bolnavi în adunare
+Ce își pun nădejdea în Dumnezeu.
+/: Atingându-se de poala sfântă,
+Vor scăpa de orice cuget rău :/
+
+[c4]
+: El vindecă leproșii, El vindecă și orbii,
+El vindecă pe cei ce cred în El.
+El vindecă ologii, El vindecă și șchiopii,
+El e Isus Hristos Emanuel!

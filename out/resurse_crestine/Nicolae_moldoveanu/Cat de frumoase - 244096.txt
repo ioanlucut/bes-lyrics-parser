@@ -1,0 +1,35 @@
+[title]
+Cat de frumoase {author: {Nicolae Moldoveanu}, {rcId: {244096}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Cât de frumoase sunt a-Tale
+Orânduiri, ce-n veci rămân,
+/: Cât de frumoși sunt trandafirii
+Iubirii, înfloriți în sân! :/
+
+[v2]
+Câtă Iumină-aduce
+Harul iertării-n sufletul căit,
+/: Când din adâncul disperării
+Îl sui pe-un pisc așa-nsorit! :/
+
+[v3]
+Câte comori nebănuite
+Din raiul Tău mereu cobori,
+/: În cel ce-n mâna Ta se-ncrede
+Și-n timp senin și-n timp cu nori! :/
+
+[v4]
+Cât de-ntărită e nădejdea
+În inima în care stai,
+/: Și cât belșug de fericire
+Cu fiecare clipă-i dai! :/
+
+[v5]
+Că numa-n veacul care vine,
+Când totul fi-va dezvelit
+/: Se va cunoaște-n întregime.
+Isuse, cât ne-ai dăruit. :/

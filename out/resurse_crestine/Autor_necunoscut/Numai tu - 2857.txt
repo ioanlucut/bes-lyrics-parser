@@ -1,0 +1,32 @@
+[title]
+Numai tu {author: {Anonim}, {rcId: {2857}}
+
+[sequence]
+c,v1,c,v2,c,e
+
+[c]
+Doamne Tu, numai Tu
+Esti vrednic sa fii laudat
+Nimic nu e pe-acest pamant mai insemnat
+Ingenunchem, marturisim,
+Tu esti Domn in veci de veci
+Doar Tu domnesti pe tronul Tau de Imparat
+Numai Tu..
+
+[v1]
+Cine e ca Domnul meu care domneste-n veci?
+Cine-a creat universul intreg, pamantul si stele?
+Cui sa-i dau slava, cui sa ma-nchin?
+Cine-i Stapan Divin?
+
+[v2]
+Cine e ca Domnul meu, taria celor cazuti?
+Si cine prin har ne-a daruit loc in familia Sa?
+Cui sa-i dau slava, ciu sa ma-nchin?
+Cine-i Stapan Divin?
+
+[e]
+Inaltam Numele Tau
+Laudam sfintenea Ta
+Inaltam Numele Tau
+Marim vesnicul ” EU SUNT”

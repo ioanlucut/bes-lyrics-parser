@@ -1,0 +1,23 @@
+[title]
+Tu esti puternic {author: {Dan Damian}, {rcId: {238944}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+La mii de oameni care-au venit la Tine
+Și Te-au rugat să-i vindeci ai răspuns
+Cu bunătate le-ai dat vindecare
+Ieri, azi, în veci, la fel vei fi Isus.
+
+[c]
+/: Tu ești puternic, ca Tine altul nu-i
+Tămăduire, Doamne Tu dai oricui
+Rănile Tale, balsam sunt din Calvar
+Cu îndurare, vindecă-n al Tău har :/
+
+[v2]
+Nu este boală nu este suferință
+Pe care Doamne n-o poți vindeca
+Numele Tău e mai presses de toate
+Cuvântul Vieții e credința mea.

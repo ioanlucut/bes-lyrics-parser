@@ -1,0 +1,29 @@
+[title]
+Mare pret {author: {Frații Wagner}, {rcId: {154410}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Stăm ridicați în fața Ta,
+Așa cum Tu ne știi și ne cunoști...
+Și Te rugăm din toată inima,
+Să vii la noi, câți Te chemăm duios!
+
+[c]
+/: Nimic nu suntem înaintea Ta,
+Dar totuși mare preț ai pus pe noi,
+Căci ne-ai învrednicit la Golgota
+Și ne-ai numit pe veci copiii Tăi! :/
+
+[v2]
+Venim cu toți, bătrâni și tineri azi,
+Căci gândul nostru este unul:
+În sângele lui Isus să ne speli,
+La toți să ne albești veșmântul!
+
+[v3]
+Trimite azi făgăduința Ta,
+Cu Duhul Sfânt botează mic si mare,
+Să faci minuni, să-i vindeci pe bolnavi,
+Că Tu ești Dumnezeul Cel mai Mare!

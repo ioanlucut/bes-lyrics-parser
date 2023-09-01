@@ -1,0 +1,35 @@
+[title]
+Te laud dis de dimineata {author: {Liliana Balcan}, {rcId: {57651}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Te laud dis de dimineata,
+Te laud, Doamne Te laud;
+Caci Tu prin har mi-ai dat viata
+Te laud Doamne Te laud.
+
+[c]
+Lauda, lauda Tie-ti cant mereu,
+Vesnic Dumnezeu.
+Lauda, lauda Tie-ti cant mereu,
+Vesnic Dumnezeu.
+
+[v2]
+Te laud ziua, la amiaza,
+Te laud, Doamne Te laud;
+Caci dragostea Ta ma pastreaza,
+Te laud, Doamne Te laud.
+
+[v3]
+Te laud seara, la culcare,
+Te laud, Doamne Te laud;
+Caci tot ce-mi dai e-a Ta-ndurare,
+Te laud, Doamne Te laud;
+
+[v4]
+Te laud orisicand pe cale,
+Te laud, Doamne Te laud;
+Si astazi si-n eternitate,
+Te laud, Doamne Te laud.

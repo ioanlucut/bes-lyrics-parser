@@ -1,0 +1,41 @@
+[title]
+As fi dorit sa fiu o stea pe ceruri {author: {Marius Livanu}, {rcId: {2830}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Aș fi dorit să fiu o stea pe ceruri
+Cu strălucirea ei să pot vedea
+Cum jos în umbra morții și în neguri
+Cel mai iubit Copil ni se năștea
+
+[c]
+Iubirea Lui s-ar fi aprins în mine
+Să-L luminez mai sfânt și mai curat
+În noaptea grea să vadă orișicine
+Pe Pruncul sfânt ce-n iesle ni s-a dat
+
+[v2]
+Aș fi dorit să fiu atunci o strajă
+A orelor târzii din Betleem
+Să stau cu îngerii care-L veghează
+Și pe păstori cu drag la El să-i chem
+
+[v3]
+Iubirea Lui ne-ar fi chemat la iesle
+Minunea întrupării să vedem
+E un Copil dar totuși El ne este
+Un Rege Sfânt și Dumnezeu etern
+
+[v4]
+Aș fi dorit și eu să-Ți pot aduce
+Și aur, smirnă și tămâie-n dar
+Iar glasul cântului duios să urce
+Cu-al îngerilor cor pe scări de har
+
+[v5]
+Și slava Lui a străbătut pământul
+În locuri preaînalte a ajuns
+Iar pacea Sa ne este astăzi cântul
+Ce ne-a unit în jurul Lui Isus.

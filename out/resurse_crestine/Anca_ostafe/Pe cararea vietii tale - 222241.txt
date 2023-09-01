@@ -1,0 +1,31 @@
+[title]
+Pe cararea vietii tale {author: {Anca Ostafe}, {rcId: {222241}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Pe cărarea vieții tale,
+Ia-L pe Domnul pas cu pas.
+Să ai binecuvântare
+Și-ajutor în negru ceas
+De-i predai viața-ntreagă
+Laudă de-i dai mereu
+Vei simți și-n greu și-n bine
+Mâna și-ajutorul Său.
+
+[c]
+Domnul vine, să te țină
+Când căzut ești la pământ
+Doar El poate să te-ajute
+Mâna Lui îți este scut!
+
+[v2]
+Dacă treci prin încercare
+Fă din Domnul scutul tău
+Nu uita ca brațu-i tare
+Te susține-n orice greu
+Dacă te încrezi în Domnul
+Vei ieși victorios
+Vei vedea cum brațu-i tare
+Te va ridica de jos.

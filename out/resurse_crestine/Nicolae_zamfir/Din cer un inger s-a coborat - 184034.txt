@@ -1,0 +1,29 @@
+[title]
+Din cer un inger s-a coborat {author: {Nicolae Zamfir}, {rcId: {184034}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Din cer un înger s-a coborât
+Să ne aducă vestea bună
+Astăzi în cetatea lui David
+Un Mântuitor ni sa născut
+
+[c]
+Cântați osana da-ți mărire
+Domnului din veșnicie
+Cântați osana fiți bucuroși
+S-a născut Domnul Isus Hristos
+
+[v2]
+Mergeți prin sate și vestiți
+Sa născut Mântuitorul
+Cel ce prorocul la prevestit
+In lumea noastră a venit
+
+[v3]
+Vestea cea bună va răsuna
+Din nou Mesia o să vină
+Pe nori de Slavă El va veni
+Să ne ducă în veșnici

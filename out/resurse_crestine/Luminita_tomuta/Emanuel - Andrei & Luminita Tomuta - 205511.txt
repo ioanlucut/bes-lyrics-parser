@@ -1,0 +1,32 @@
+[title]
+Emanuel - andrei & luminita tomuta {author: {Luminița Tomuța}, {rcId: {205511}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+Într-o iesle din Betleemul Iudeii
+S-a născut Mântuitorul promis.
+A venit așa cum profeții au scris:
+Din fecioară S-a întrupat,
+Nu a fost atins de păcat,
+El e Fiul lui Dumnezeu,
+Salvatorul tău și al meu.
+
+[c]
+Am o nădejde și o speranță prin El,
+Cel ce-i numit de Tatăl Emanuel,
+Cred că mereu cu mine va fi,
+Niciodată nu mă va părăsi.
+
+[v2]
+Într-o lume ce era moartă-n păcate,
+A venit lumina din veșnicii.
+Rămânând în ea, fiecare va ști:
+Din fecioară S-a întrupat,
+Nu a fost atins de păcat,
+El e Fiul lui Dumnezeu,
+Salvatorul tău și al meu.
+
+[b]
+Emanuel, Emanuel, Dumnezeu e cu noi.

@@ -1,0 +1,29 @@
+[title]
+Ce ai lasat in urma ta ? {author: {Gabriel Gorcea și prietenii}, {rcId: {112884}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Viața aceasta este trecătoare
+Ești un călător pe pământ
+Care-i scopul în lumea mare ?
+Ești stejar sau o frunză-n vânt ?
+
+[c]
+Anii, se duc fără să știi
+Privind în urma noastră, ieri eram copii
+Anii, puțini au mai rămas,
+Ei zboară cu fiecare ceas
+
+[v2]
+Zilele se scurg ca și apa
+Iar pietrele în urmă rămân
+Ce ai lăsat în urma ta
+Se va vedea de-i rău sau de-i bun!
+
+[v3]
+Nu-ți irosi timpul ce-l mai ai
+Te-ndrepți cu pași grăbiți spre apus
+În fața Celui Veșnic vei sta
+Te va-ntreba de anii ce s-au scurs

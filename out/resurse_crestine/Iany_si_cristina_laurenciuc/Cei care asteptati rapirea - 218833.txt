@@ -1,0 +1,36 @@
+[title]
+Cei care asteptati rapirea {author: {Iany și Cristina Laurenciuc}, {rcId: {218833}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cei care așteptați răpirea,
+Strigați cu mine ”
+MARANATA!”
+În curând va fi-ntâlnirea,
+Domnul Vine, să fim gata!
+
+[c]
+/: Maranata, Maranata,
+Domnul nostru vine!
+Maranata, Maranata,
+Vino, scumpe Mire! :/
+
+[v2]
+Peste tot se-aud semnale,
+Credincioșii așteaptă zborul.
+Omenirea e-n schimbare,
+Vine Isus să-și ia poporul!
+
+[v3]
+Străjerii dau de veste-ntruna,
+Este aproape dimineața.
+Acel ce rabdă pân’ la urmă,
+Va vedea slava măreață!
+
+[v4]
+Vei pleca și tu cu Domnul
+Sau rămâi la chin, la jale?
+Până nu răsună gongul,
+Mai strângeți ulei fecioare.

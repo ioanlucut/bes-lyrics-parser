@@ -1,0 +1,47 @@
+[title]
+Cantarea mea e numai pentru tine {author: {Mariana Someșan}, {rcId: {177115}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+Cântarea mea e numai pentru Tine,
+Căci n-am pe nimeni, Doamne, pe Pământ
+/: Să-mi lege rănile așa ca Tine
+Și să-mi adune lacrima când plâng. :/
+
+[v2]
+Cântarea mea e numai pentru Tine,
+Tu, Cel ce-n noaptea vieții ai venit
+/: S-aduci la noi lumina veșniciei
+Și-n suflet dorul după infinit. :/
+
+[v3]
+Cântarea mea e numai pentru Tine,
+Tu numeri pașii mei pe-acest Pământ,
+/: M-ai luat în brațul Tău cu îndurare
+Și-ai încheiat cu mine-un legământ. :/
+
+[v4]
+De n-ar fi fost, o, Doamne, a Ta iubire
+Și-n harul Tău de nu m-ai fi ținut,
+/: Eu astăzi n-aș putea să-Ți cânt, Părinte,
+Tu, Cel ce ești sfârșit și început. :/
+
+[v5]
+Cântarea mea e numai pentru Tine,
+Tu, Cel ce ești de trei, de trei ori sfânt,
+/: Îți cântă, Doamne, a cerului oștire
+Și cei răscumpărați de pe Pământ. :/
+
+[v6]
+Cântarea mea e numai pentru Tine,
+Tu, Cel ce ești luceafărul nestins,
+/: Tu, Cel ce-aduci atâta mângâiere
+Și bucurii prin Duhul cel promis. :/
+
+[v7]
+Cântarea mea e numai pentru Tine,
+Și pentru Tin’ va rămânea mereu!
+/: Slăvit să fie, Doamne, al Tău Nume,
+În veșnicie Tu ești Dumnezeu! :/

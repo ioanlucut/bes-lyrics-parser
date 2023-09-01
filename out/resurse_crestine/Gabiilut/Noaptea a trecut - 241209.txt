@@ -1,0 +1,25 @@
+[title]
+Noaptea a trecut {author: {Gabi_Ilut}, {rcId: {241209}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Ani la rând am pribegit, fericirea mi-a lipsit;
+Ce dureri, ce chin am suferit.
+Clipe lungi de așteptări, nopți trăite în disperări.
+Ochii în plâns privind spre alte zări!
+
+[c]
+/: Noaptea a trecut prin viața mea,
+Zorii s-au ivit acum: da.
+Soarele divin m-a luminat,
+Toată viața mi-a schimbat! :/
+/: Viața mea e condusă chiar de mâna Sa:
+Ce frumos, ce sublim, cer senin! :/
+
+[v2]
+Ani la rând am risipit, doar cu visuri am trăit;
+Sufletu-mi plângea necontenit!
+Îmi doream să pot simți bucuria de-a trăi.
+S-o găsesc în fiecare zi!

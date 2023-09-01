@@ -1,0 +1,41 @@
+[title]
+O de ai vrea {author: {Cristian Văduva}, {rcId: {112927}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Pocăiește-te chiar astăzi
+Ce n-ai știut de Dumnezeu.
+N-ai citit tu Biblia
+Trăit-ai în păcatul tău.
+
+[c]
+O, de ai vrea, o, de ai vrea din lume
+Să te poți salva, ridică-ți mâinile în sus.
+Te-ai zbătut și ai încercat, dar în toate
+Ai eșuat; azi predă-te lui Isus.
+
+[v2]
+Înșelata-i și înșelat, tu ai mințit
+Și-ai fost mințit.
+Dar la cruce la Golgota
+Isus Domnul a murit.
+
+[v3]
+Isus nu e doar pentru tine
+Ci pentru toată casa ta.
+Când ceri pe Duhul Sfânt, El vine
+Și pentru ai tăi să poți striga.
+
+[v4]
+Ani la ani tot întrebând
+Se adaugă mereu
+Și-n necazuri tot mai grele
+Te găsești tu dragul meu.
+
+[v5]
+De-alergi spre iad, nu mergi doar tu
+Ci casa ta cum spui tu; nu
+Doar două căi mai sunt și azi
+Cu Isus viu, sau mori și cazi.

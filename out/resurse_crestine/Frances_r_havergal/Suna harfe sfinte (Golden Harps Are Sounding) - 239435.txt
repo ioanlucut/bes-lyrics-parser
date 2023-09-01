@@ -1,0 +1,27 @@
+[title]
+Suna harfe sfinte (golden harps are sounding) {author: {Frances R. Havergal, Traducere RO}, {rcId: {239435}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Sună harfe sfinte, glasuri îngerești
+Se deschid în ceruri porți ce strălucesc;
+Isus, Domn al slavei, Rege minunat
+Plin de biruință la cer S-a-nălțat.
+
+[c]
+Jos, a Sa lucrare s-a desăvârșit
+Cel ’nalțat la ceruri e pe veci slăvit.
+
+[v2]
+Isus, Salvatorul, Cel ce-a fost jertfit
+Șade-acum pe tronul Tatălui slăvit;
+Nicio suferință, lacrimi nu vor fi
+Sus în cerul slavei, sus în veșnicii.
+
+[v3]
+Sus, El mijlocește pentru-ai Săi copii
+Ce răspund chemării harului divin;
+Un locaș în ceruri, El ne-a pregătit
+Isus, Domn al vieții, veșnic proslăvit.

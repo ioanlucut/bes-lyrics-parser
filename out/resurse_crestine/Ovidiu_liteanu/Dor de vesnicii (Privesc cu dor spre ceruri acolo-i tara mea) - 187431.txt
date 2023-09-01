@@ -1,0 +1,29 @@
+[title]
+Dor de vesnicii (privesc cu dor spre ceruri acolo-i tara mea) {author: {Ovidiu Liteanu}, {rcId: {187431}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Privesc cu dor spre ceruri acolo-i țara mea
+Spre zările albastre curând eu voi pleca
+Alergând cu bucurie spre țara mea de sus
+Acolo mă așteaptă iubitul meu Isus
+
+[c]
+/: Mi-e dor s-ajung acasă
+Mi-e dor de veșnicii
+Mi-e dor de țara sfântă
+De Tine Doamne să vii :/
+
+[v2]
+Când seara se coboară și stelele sclipesc
+Mă-nalț în rugăciune la Domnul mă gândesc
+Și miez de noapte-ntruna de dor eu sunt pătruns
+Aștept cu nerăbdare să vină al meu Isus
+
+[v3]
+Al meu dor se îndreaptă spre Tine Dumnezeu
+Tu mi-ești a mea speranță chiar dacă-i drumul greu
+Comoara mi-ești Isuse iubit Mântuitor
+Pe calea pocăinței Te-aștept mereu cu dor

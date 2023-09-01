@@ -1,0 +1,29 @@
+[title]
+Noi am pasit deja pe calea stramta {author: {Nicolae Moldoveanu}, {rcId: {5894}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Noi am pășit deja pe calea strâmtă,
+Pentru Hristos, la lume-am renunțat.
+Nu renunțăm l-această cale sfântă,
+Căci pace-n suflet aici am aflat.
+
+[c]
+/: Ce minunat să stai cu Domnul Isus
+La masa Lui, bogat, să te hrănești!
+Când ești cu El, necazurile s-au dus;
+Și chiar de-ar fi, prin El le biruiești. :/
+
+[v2]
+La început, a fost cam greu pe cale,
+Căci patimi multe ne trăgeau în jos;
+Dar am pășit ’nainte, cu răbdare,
+Și am privit la ceruri spre Hristos.
+
+[v3]
+Am fost în lume, știu ce poate să-mi dea:
+Nemulțumiri și goană după vânt!
+Se luptă toți s-ajungă la-nalțime,
+Nesocotind iubirea Celui Sfânt.

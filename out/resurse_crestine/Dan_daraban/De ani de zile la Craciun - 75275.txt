@@ -1,0 +1,29 @@
+[title]
+De ani de zile la craciun {author: {Dan Daraban}, {rcId: {75275}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+De ani de zile, la Crăciun
+Ne amintim de Domnul Blând
+Umil în iesle S-a Născut
+Căci loc în casă n-a avut
+
+[c]
+Și noi adesea îl uităm
+Și-n ieslea inimii-l lăsăm
+Deși e Fiu de Împărat
+Uităm ca să-i zidim palat
+
+[v2]
+Căci nu-i palat de pe pământ
+Ci-n inimă, îndemnul Sfânt
+Zidim o Doamne un altar
+Ca semn de jertfă pentru har
+
+[c2]
+De ce mereu să îl uităm?
+Și-n ieslea inimii lăsăm
+Cu mii de grijurii pământești
+Uităm de răsplătiri cerești.

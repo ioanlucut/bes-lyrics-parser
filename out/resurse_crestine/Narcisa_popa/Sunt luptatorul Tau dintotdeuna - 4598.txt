@@ -1,0 +1,29 @@
+[title]
+Sunt luptatorul tau dintotdeuna {author: {Narcisa Popa}, {rcId: {4598}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când sunt cuprins de o grea tristețe-n suflet
+Când nimeni nu mă înțelege atunci
+Eu Ție-Ți spun Isuse ce mă doare
+Și-atâta pace-n inimă-mi aduci.
+
+[c]
+Sunt luptătorul tău dintotdeauna
+Chiar dacă deseori eram căzut
+Tu m-ai luat, mi-ai dăruit cununa
+Și mi-ai dat biruință ca să lupt.
+
+[v2]
+Eu n-am pe nimeni, Doamne să-mi cunoască
+Ce am în inimă și ce doresc
+Cine ar putea ca Tin’ să-mi dăruiască
+Iubire adevărată, să iubesc.
+
+[v3]
+Când singur eu mă simt, iar întristarea
+Mi-e singurul prieten și atât
+Tu-mi dăruiești iubirea și iertarea
+Când tot mai mult străin sunt pe pământ.

@@ -1,0 +1,23 @@
+[title]
+Turnul de scapare este domnul {author: {Speranța}, {rcId: {74541}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Turnul de scăpare este Domnul
+Cetățuie-n vreme rea.
+Sprijin și-ajutor în încercare
+El e Stânca mea
+
+[c]
+Eu voi sta la umbra Sa
+Eu voi sta la umbra Sa,
+Lângă Domnul eu voi sta
+Domnul este Stânca mea.
+
+[v2]
+Chiar zece mii la dreapta de vor cădea
+Și alte mii alăturea.
+Nu mă tem de nici un rău
+Când am pe Dumnezeu.

@@ -1,0 +1,35 @@
+[title]
+Ca piatra vie si curata {author: {Nicolae Moldoveanu}, {rcId: {240982}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Ca piatră vie și curată,
+Să fiu zidit în Templul vieții,
+/: Fă-mi inima nevinovată,
+Isus, ca zorii dimineții. :/
+
+[v2]
+Ca mădular sfințit de Tine,
+În Trupul Tău Tu mă așează,
+/: Și viu și-ntreg și treaz mă ține,
+Prin harul ce mă luminează! :/
+
+[v3]
+Ca mielușel în mica Turmă,
+Mai veghetor s-ascult Cuvântul,
+/: Și umilit, pe sfânta-Ți urmă,
+Să pot străbate azi pământul! :/
+
+[v4]
+Ca nestemată pururi vie,
+Pe diadema-mpărătească,
+/: Să strălucesc o veșnicie,
+Mărind frumsețea Ta cerească! :/
+
+[v5]
+Și tot ce Tu mă vrei Isuse,
+Mă vreau și eu cu prisosință,
+/: Dorinți străine fă-le-apuse,
+Să-Ți pot plini a Ta dorință! :/

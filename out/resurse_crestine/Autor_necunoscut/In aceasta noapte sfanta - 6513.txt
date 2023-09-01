@@ -1,0 +1,26 @@
+[title]
+In aceasta noapte sfanta {author: {Anonim}, {rcId: {6513}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+/: In aceasta noapte sfanta
+S-a nascut Mesia
+Printr-o fecioara ne-nsemnata
+S-a nascut Mesia
+Intr-o iesle-ntunecata
+S-a nascut Mesia
+Darul sfant promis de Dumnezeu. :/
+
+[v1]
+Magii din rasarit, I-au adus daruri
+Si la Prunc ades s-au inchinat
+Ingeri pe pamant si sus in ceruri
+Canta slava celui Prea-inalt, Osana!
+
+[v2]
+Cu ingerii, pastorii si cu magii
+Venim si noi acum la Betleem
+Si Te rugam acum pe calea vietii
+Pentru mantuirea ce-ai adus, Osana!

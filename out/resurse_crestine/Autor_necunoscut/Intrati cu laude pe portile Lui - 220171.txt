@@ -1,0 +1,28 @@
+[title]
+Intrati cu laude pe portile lui {author: {Anonim}, {rcId: {220171}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Intrati cu laude pe portile Lui
+Intrati cu cântări, în curtile Lui.
+
+[c]
+Caci Domnul e bun
+Harul Lui tine in veci
+Si credinciosia lui din neam in neam.
+Caci Domnul e bun
+Harul Lui tine in veci
+Si credinciosia lui din neam in neam.
+Caci Domnul e bun
+Harul Lui tine in veci
+Si credinciosia lui din neam in neam.
+
+[v2]
+Cel ce va birui va mosteni
+Viata vesnica va secera.
+
+[e]
+Intrati cu laude pe portile Lui
+Intrati cu cântări, în curtile Lui.

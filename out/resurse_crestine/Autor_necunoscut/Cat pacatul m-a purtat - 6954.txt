@@ -1,0 +1,54 @@
+[title]
+Cat pacatul m-a purtat {author: {Anonim}, {rcId: {6954}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+Cat pacatul m-a purtat
+Multe, multe toamne
+Totii din jur m-au laudat
+/: Nimeni nu ma suparat
+Nimeni Doamne! :/
+
+[v2]
+Cat la cel rau am slujit
+Multe, multe toamne
+Toata lumea ma iubit
+/: Nimeni nu ma prigonit
+Nimeni Doamne! :/
+
+[v3]
+Cat in pofte am petrecut
+Multe, multe toamne
+Orice rau as fi facut
+/: Nimeni nu ma abatut
+Nimeni Doamne! :/
+
+[v4]
+Cat trecura ca un fum
+Multe, multe toamne
+Nimeni nu mi-a stat in drum
+/: Sa ma strige ca acum
+Nimeni Doamne! :/
+
+[v5]
+Dar de cand nu ma port slab
+Trei sau patru toamne
+Nimanui necaz nu-i fac
+/: Dar tot nu le sunt pe plac
+Nimeni Doamne! :/
+
+[v6]
+Chiar de-as fi pe veci pribeag
+Ale vieti toamne
+Ura tuturor s-o trag
+/: Mi-e deajuns ca ma ai drag
+Ah, tu Doamne! :/
+
+[v7]
+Dar in ceruri cand voi fi
+Langa Tine Doamne
+Nimeni nu ma va uri
+/: Cu Tine m-voi veseli
+Atunci Doamne! :/

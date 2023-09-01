@@ -1,0 +1,40 @@
+[title]
+In gradina ghetsimani {author: {Cristian și Cristiana Văduva}, {rcId: {164171}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+In gradina Ghetsemani,
+O stat Domnul cu dusmani
+/: Dusmani il inconjurau
+Si pe Domnul il scuipau.
+/:
+
+[c]
+/: Hai intoarcete la Domnul,
+Isus, Domnul, Mesia
+Numai El poate sa spele
+Pacatul din viata ta.
+/:
+
+[v2]
+Intre toti vrajmasi sai
+Domnul se gandea la noi
+/: Ca mama pentru copii
+Isus, Domnul se jertfi.
+/:
+
+[v3]
+Sus pe cruce tintuit
+Fosta El batjocorit
+/: Sfantul miel, rascumparare
+Sa ai parte de iertare.
+/:
+
+[v4]
+Se-nsera si viata-s dase
+Sus pe cruce acolo sus
+/: Ca sa fi tu fara pata
+Pacatul pe El la pus.
+/:

@@ -1,0 +1,41 @@
+[title]
+Pentru a mi-a rascumparare {author: {Daniel Hîrtie}, {rcId: {211857}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pentru a mi-a răscumpărare
+Să ne scape de pierzare
+A urcat Isus pe cruce
+Tot păcatul pentru al duce
+A venit umil să moară
+Să ne scape de ocară
+Să ne aducă mântuire
+Si-al iertării bucurie.
+
+[c]
+%Sângele său%
+La vărsat în locul meu
+Pe o cruce s-a jertfit
+Ca să fiu eu mântuit.
+
+[v2]
+Pentru a mea răscumpărare
+A venit în lumea mare
+Mielul cel fără de pată
+Pentru omenirea toată
+A îndurat multă durere
+Să ne-aducă mângâiere
+A urcat cu greu calvarul
+Suferind întreg amarul.
+
+[v3]
+Sângele fără de vină
+Ne-a spălat ne-a dat lumină
+Ne-a scăpat de judecată
+Și ne-a pus pe calea dreaptă
+Credem astăzi cu tărie
+În a sa împărăție
+Ne-nchinăm cu mulțumire
+Pentru marea sa iubire.

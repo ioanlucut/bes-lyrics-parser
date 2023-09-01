@@ -1,0 +1,36 @@
+[title]
+Dor de vesnicie {author: {Carmen Prodan}, {rcId: {152892}}
+
+[sequence]
+v1,c,v2,c2,v3,c2,c
+
+[v1]
+/: Ne este dor de Țara Ta
+Unde curând vom debarca
+La Limanul Vieții: \
+
+[c]
+/: Dor de Casă ne-a cuprins
+Dor de Tine scump Isus
+Dor de veșnicie: \
+/: Dor de Casă ne-a cuprins,
+Dor de Tine scump Isus,
+Dor de veșnicie. : \
+
+[v2]
+/: De Tine Doamne ne e dor,
+Privim înlăcrimați spre cer
+Vino mai degrabă: \
+
+[c2]
+/: Tu ne-ai promis c-ai să revii
+Ca să ne iei în veșnicii
+Unde nu-i durere: \
+/: Ne vei șterge lacrima,
+Ție Doamne-Ți vom cânta
+Pentru veșnicie: \
+
+[v3]
+/: Amarul tot va fi doar vis
+Vom fi cu Tine-n Paradis
+Pentru veșnicie: \

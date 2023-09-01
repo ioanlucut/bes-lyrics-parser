@@ -1,0 +1,46 @@
+[title]
+O doamne mare cand privesc eu lumea {author: {Carl Boberg, jean Staneschi}, {rcId: {1630}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+O, Doamne mare, când privesc eu lumea,
+Ce ai creat-o prin al Tău Cuvânt,
+Și ființele ce-mpodobesc natura
+Cum le-ntreții cu brațul Tău cel sfânt:
+
+[c]
+/: Atunci Îți cânt, Măreț Stăpânitor:
+Ce mare ești, ce mare ești! :/
+
+[v2]
+Privirea când mi-o-nalț și văd minunea:
+Mulțimea astrelor ce-alerg pe cer,
+Mărețul soare, cât și blânda lună,
+Ca mingi de aur, plutind prin etern.
+
+[v3]
+Când întâlnesc pe Domnu-n Cartea Sfântă
+Și când zăresc mulțimea de-ndurări;
+Pe-ai Săi aleși cum i-a iubit într-una
+Și i-a condus prin binecuvântări.
+
+[v4]
+Și-l văd pe Domnul pe pământu-acesta
+Ca serv, dar plin de dragoste și har.
+Zăresc în duh amara-I suferință
+Și mântuirea ce mi-o dă în dar.
+
+[v5]
+Când mă apasă sarcini mari și grele,
+Când sufletul mi-e trist pân’ la mormânt,
+El se apleacă plin de mângâiere,
+Mă face liber de-orice legământ.
+
+[v6]
+Când Domnul Sfânt va reveni-n mărire
+Și când voi sta uimit în fața Sa,
+Eu voi striga în sfântă adorare:
+”
+Ce mare ești, ce mare-i slava Ta!”

@@ -1,0 +1,33 @@
+[title]
+Cu mult in urma-n betleem {author: {Speranța}, {rcId: {1713}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cu mult în urmă-n Betleem
+Sfânta Biblie spune
+Maria a născut un fiu
+În seara de Crăciun
+Și mii de îngeri s-au unit
+Cerul s-a întunecat.
+Universul s-a umplut
+De slavă și cântări.
+
+[c]
+Să-i cântăm cu toții-n cor
+Noul Rege s-a născut
+Și viață El ne-a dăruit
+În seara de Crăciun.
+
+[v2]
+Păstorii s-au înfricoșat
+Cerul când a izbucnit
+Și-ntr-un gând au alergat
+Către pruncul iubit.
+
+[v3]
+Cu mult în urmă-n Betleem
+O stea mare-a răsărit.
+Ea ne spune că ceru-ntreg
+La noi s-a coborât.

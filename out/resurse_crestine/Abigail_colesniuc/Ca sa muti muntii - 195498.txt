@@ -1,0 +1,29 @@
+[title]
+Ca sa muti muntii {author: {Abigail Colesniuc}, {rcId: {195498}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Ca să muți munții se cere: credință
+Să birui ispita: pocăință
+/: Ura să îndepărtezi, se cere doar: să iubești
+Să crezi, să ceri, apoi să primești. :/
+
+[c]
+El e-acolo pentru tine
+Lângă tine când nu ți-e bine
+Este gata să-ți dea în slăbiciunea ta
+Putere s-o facă pt slava Sa. x2
+
+[v2]
+Să înfrunți pe cel rău se cere: veghere
+Să ridici pe cel căzut se cere: putere
+/: Peste-ncercări să treci: în sus doar să privești
+Să crezi, să ceri, apoi să primești. :/
+
+[e]
+El e-acolo pentru tine
+El e-acolo să-ți aline
+Durerea din piept și lacrima
+Lacrima ce-o porți după tine.

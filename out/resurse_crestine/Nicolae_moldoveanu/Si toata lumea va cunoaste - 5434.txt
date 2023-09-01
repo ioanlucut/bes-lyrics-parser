@@ -1,0 +1,31 @@
+[title]
+Si toata lumea va cunoaste {author: {Nicolae Moldoveanu}, {rcId: {5434}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+„
+Și toată lumea va cunoaște, o, că sunteți ucenicii Mei,
+/: Când pacea o veți iubi de-a pururi
+Și va fi dragoste-ntre voi. :/
+
+[v2]
+În lume, veți avea necazuri, o, dar îndrăzniți necontenit:
+/: Voi, nu uitați că fii Îmi sunteți, o, și moartea Eu am biruit!” :/
+
+[v3]
+Așa pe ucenici adesea, o, duios Isus îi învăța
+/: Și nu s-a auzit vreodată o mai blândă voce ca a Sa. :/
+
+[v4]
+De când, de pe pământ la ceruri, o, Stăpânul lumii S-a-nălțat,
+/: Apostoli-au plecat în lume, o, să predice neîncetat. :/
+
+[v5]
+Erau huliți, scuipați în față, o, bătuți sălbatic, chinuiți,
+/: În temniță-aruncați la fiare, o, de toți întruna-au fost huliți. :/
+
+[v6]
+Iar ei, săraci, puțini și singuri, o, străini de tot în lume chiar,
+/: Din inimă, rosteau Cuvântul, o, Prin Duhul Sfânt, prin al Său har. :/

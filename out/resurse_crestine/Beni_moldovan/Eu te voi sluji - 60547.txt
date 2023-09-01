@@ -1,0 +1,23 @@
+[title]
+Eu te voi sluji {author: {Beni Moldovan}, {rcId: {60547}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Ce rost are viața, dacă nu Te am pe Tine!
+Ce folos am eu aici dacă nu fac bine!
+Ce contează tot ce-am strâns, si-am adunat,
+Dacă măcar o parte mică, Ție nu Ți-am dat.
+
+[c]
+/: Eu te voi sluji
+Nu contează ce v-aduce ziua de mâne
+Nu contează ce-m va oferi lumea-ceasta!
+Eu te voi sluji. :/
+
+[v2]
+Viața trece, pleacă ca un hoț în noapte,
+De ce mereu ascultăm la cele rele șoapte?
+Mereu adormiți, stăm nepăsători!
+Oare vom fi gata, când Tatăl va veni pe nori?

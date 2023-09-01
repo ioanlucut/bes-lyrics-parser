@@ -1,0 +1,43 @@
+[title]
+S-o coborat pe pamant {author: {Geo Giovani}, {rcId: {223431}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+/: S-o coborât pe pământ
+Isus Hristos, Domnul Sfânt :/
+/: În iesle pe fân uscat
+La o margine de sat :/
+
+[v2]
+/: Isus pe lume o venit
+Prin Maria, lui Iosif :/
+/: Cel mai bun păstor din lume
+Oile să și le-adune :/
+
+[v3]
+/: Păstorii s-au adunat
+Când de Isus au aflat :/
+/: Și-au plecat toți bucuroși
+Ca să-l vadă pe Hristos :/
+
+[v4]
+/: Magi la El au ajuns
+Cu daruri pentru Isus :/
+/: Aur, smirnă și tămâie
+Și cu drag să I se-nchine :/
+
+[v5]
+/: Tot timpul să ne-amintim
+De Isus și-l preamărim :/
+/: Singurul mântuitor
+De păcate iertător :/
+
+[v6]
+/: Din cer bunul Dumnezeu
+L-a trimis pe fiul său :/
+/: Pe fiul său preaiubit
+Și prin ne-a mântuit :/
+/: C-o pus pe umerii Lui
+Păcatele omului :/

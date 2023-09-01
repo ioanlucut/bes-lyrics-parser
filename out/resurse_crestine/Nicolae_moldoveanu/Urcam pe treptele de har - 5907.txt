@@ -1,0 +1,65 @@
+[title]
+Urcam pe treptele de har {author: {Nicolae Moldoveanu}, {rcId: {5907}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,v5,c5
+
+[v1]
+Urcăm pe treptele de har,
+Cu Isus, cu Isus;
+Privind pe-al cerului hotar,
+Zi de zi, ceas de ceas, tot mai sus.
+
+[c]
+/: Isus ’nainte, noi după El
+În urmă lumea lăsăm.
+Prin Duhul Sfânt, El aprinde zel,
+Cu Domnul să-naintăm. :/
+
+[v2]
+Urcăm prin flăcări și prin foc
+Cu Isus, cu Isus;
+Nu ne oprim nicicând în loc,
+Ne avântăm tot mereu spre Isus.
+
+[c2]
+/: Căci viață Domnul ne-a dăruit
+Și pacea ne-a dat-o El;
+Prin jertfa sfântă, ne-a mântuit
+Isus, Emanuel. :/
+
+[v3]
+Urcând mereu, neobosiți
+Cu Isus, cu Isus,
+Cu El vom fi nebiruiți,
+Când vom fi în cer cu Isus.
+
+[c3]
+/: Când lupta-i mare și drumu-i greu,
+Genunchii noi ni-i plecăm;
+Prin harul mare primim mereu
+Puteri noi să-naintăm. :/
+
+[v4]
+Dar harul ce ne-a fost lăsat
+Prin Isus, prin Isus,
+Ridică lumea din păcat
+Și ne-avântă mereu tot mai sus.
+
+[c4]
+/: Isus, prin moartea de la Calvar
+Și suferința cea grea,
+Aduce lumii cerescul har
+Și dă iubirea Sa. :/
+
+[v5]
+Când harul aduce suferinți
+Cu Isus, cu Isus,
+Ascunde-n ele biruinți
+Ce ne urcă mereu, tot mai sus.
+
+[c5]
+/: Dar suferința se va sfârși
+Și vechiul lumii suspin,
+Iar harul mare va dăinui
+În veci de veci. Amin! :/

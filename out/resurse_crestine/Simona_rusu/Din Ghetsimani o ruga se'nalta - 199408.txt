@@ -1,0 +1,42 @@
+[title]
+Din ghetsimani o ruga se nalta {author: {Simona Rusu}, {rcId: {199408}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Din Ghetsimani o rugă se’nalță,
+Spre Tatăl Sfânt, ceresc,
+/: Îndepărtează de e cu putință,
+Acest pahar, dar nu cum eu voiesc :/
+
+[c]
+/: O, ce preț mare Ai plătit Isuse,
+Ce-amar a fost paharul Tău,
+Prea mult plătit-Ai sus, pe cruce,
+Să ne răscumperi, Fiu de Dumnezeu! :/
+
+[v2]
+Și-A fost vândut, Isus de către Iuda,
+Vândut un Rege pentru bani,
+/: Fu dus mulțimii la o judecată,
+Hulit ca cei mai răi tâlhari :/
+
+[v3]
+Acest Isus nu are nici-o vină,
+Striga Pilat la toți cei adunați,
+/: Eu nu găsesc în acest om pricină,
+Luați-IL de voiți să-L judecați :/
+
+[v4]
+Privea atunci Isus, umil, sentința,
+Dată de toți oamenii răi,
+/: „
+Să moară”, au strigat cu toții,
+Toți cărturarii, toți acei mișei :/
+
+[v5]
+Și a murit în chinuri sus pe cruce,
+Să ne rascumpere, să-I fim copii,
+/: Dar A’nviat a treia zi, cum spuse,
+E viu, Hristos pe nori va reveni! :/

@@ -1,0 +1,35 @@
+[title]
+De cand isus m-a mantuit {author: {Anonim}, {rcId: {173008}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+De când Isus m-a mântuit
+Și viața i-am predat,
+Mă simt voios și fericit,
+Lui m-am încredințat
+
+[c]
+Aleluia, cânt Domnului,
+Pe veci sunt în mâna Lui.
+Sunt fericit, Isus m-a mântuit,
+În cer am loc pregătit.
+
+[v2]
+Când eu lucrez sau când vorbesc
+Nu-L uit pe Domnul meu,
+Vreau ne-ncetat să Îl slăvesc
+Cu tot ce e al meu!
+
+[v3]
+Când merg sau când mă odihnesc,
+Sunt trist sau sunt voios,
+Un singur lucru-ndeplinesc,
+Dau slavă lui Cristos!
+
+[v4]
+Și astfel sunt preafericit
+Căci viața mi-e Cristos,
+Chiar moartea-mi este un câștig,
+Mereu eu sunt voios!

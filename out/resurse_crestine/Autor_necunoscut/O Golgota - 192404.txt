@@ -1,0 +1,27 @@
+[title]
+O golgota {author: {Anonim}, {rcId: {192404}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Acolo unde-a fost jertfit, pe Domnul L-am descoperit.
+La Golgota un sînge-a curs,
+Spălat să fiu de-al Meu Isus.
+
+[c]
+O Golgota, Golgota, Isus acolo a sîngerat,
+O Golgota, Golgota, acolo eu am fost salvat.
+/: O Golgota, Golgota, Isus acolo a sîngerat,
+O Golgota, Golgota, acolo eu am fost salvat. :/ x2
+
+[v2]
+Când soarele sa-ntunecat pămîntul sa cutremurat,
+Murind Isus, El a deschis spre cer o cale în paradis.
+
+[v3]
+Isuse cât Tu ai răbdat acolo sus crucificat,
+În inimă nu voi uita ce-ai pătimit pe Golgota.
+
+[e]
+/: Isus nu e alt nume, prin care suntem salvati. :/ x2

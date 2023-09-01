@@ -1,0 +1,39 @@
+[title]
+Tu ne-ai creat {author: {Carmen Prodan}, {rcId: {170221}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Tu ne-ai creat, o, Tată sfânt,
+Spre lauda Slavei Tale!
+Ca să Te bucuri când privești
+La noi, aici în vale!
+
+[c]
+Ține-ne cu Mâna Ta
+Și nu lăsa furtuna
+Ca să ne-abată de pe drum,
+Să nu pierdem cununa!
+Ține-ne la pieptul Tău
+Când inima suspină,
+Și-oricât de greu e-al vieții drum,
+Tu poți s-aduci lumină!
+
+[v2]
+Vrăjmașul ne pândește des
+Și vrea să ne înghită...
+Nu ne lăsa în lațul său,
+Ne scapă de ispită!
+
+[v3]
+Oricât am vrea să-naintăm
+Când zbuciumată-i marea,
+De nu vii Tu să ne mângâi,
+Ne-nghite disperarea!
+
+[v4]
+Noi Te iubim căci Tu întâi
+Ți-ai arătat iubirea,
+Și vrem să fim cu Tine-n cer
+Ca să-Ți vedem mărirea!

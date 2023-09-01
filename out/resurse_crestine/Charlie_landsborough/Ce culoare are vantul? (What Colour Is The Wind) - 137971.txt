@@ -1,0 +1,44 @@
+[title]
+Ce culoare are vantul? (what colour is the wind) {author: {Charlie Landsborough, Traducere RO}, {rcId: {137971}}
+
+[sequence]
+v1,v2,c,v3,c,s,c
+
+[v1]
+Ce culoare are vântul tată
+Este-albastru, mov sau roșu?
+Când se joacă-n părul meu tată
+Cu tine face la fel?
+Când se-oprește din suflarea lui,
+Ce culoare are briza lui?
+Un albastru azuriu,
+Ca și marea ce o știu!
+
+[v2]
+Când privighetoarea cântă tată
+Oare florile ascultă?
+Când răsună al ei glas tată
+Florile, oare ce fac?
+Răspândesc parfum sub cerul sfânt,
+O mireasmă dulce pe pământ?
+Dând slavă lui Dumnezeu,
+Pentru cântul de sub cer.
+
+[c]
+Vântule ce zbori în zare,
+Tu porți mereu, a mea cântare;
+Orice culoare o știu, preabine,
+Le știu pe toate, cu ochii tatălui meu.
+
+[v3]
+Știu că iarba este verde tată
+E covorul sub picioare,
+Iar zăpada, albă e tată
+Când respir, o simt rece;
+Dar culoarea mult plăcută,
+E a dragostei cunună,
+Veșnic, ea strălucește,
+Aur pentru dragoste.
+
+[s]
+Știi pentru ce ți se încălzesc veșmintele, când se odihnește pământul de vântul de miazăzi? Iov 37:17

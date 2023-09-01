@@ -1,0 +1,29 @@
+[title]
+Sa va iubiti {author: {Persida Mureșan}, {rcId: {74181}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Nu e bine omul singur, Domnul a văzut
+Și-ajutor să-i potrivească omului făcu
+Voi sunteți dovada astăzi căci ați împlinit
+Ceea ce de veacuri multe El a poruncit
+
+[c]
+/: Să va iubiți întotdeauna
+Că doar așa veți birui
+Cărărea vostra fie una
+Căci voi din dragoste azi vă uniți :/
+
+[v2]
+Astăzi este sărbătoare, sunteți fericiți
+Cei din jur va-mbrățișează, vă doresc ani mulți
+În iubire și-n sfințire mereu să sporiți
+Sub a Domnului aripă mereu să trăiți
+
+[v3]
+Dumnezeul păcii-n viața vă va ocroti
+Dacă voia Lui în toate o veți împlini
+Râu de binecuvântare peste voi va fi
+Orice val, orice furtună le veți birui

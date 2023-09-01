@@ -1,0 +1,20 @@
+[title]
+Vocea ta {author: {Pas}, {rcId: {111774}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Aștept răspunsul Tău chiar de-o furtună dac-aș fi surprins
+Din cer privești, îmi cunoști inima,
+Tu ești mereu Cel care îmi vorbești!
+
+[c]
+/: Vocea Ta mă face fericit,
+E sunetul ce îmi dă avant să pot trăi, știind că sunt iubit!
+Tu ești mereu Cel care îmi vorbești! :/
+
+[v2]
+Când Tu îmi vorbești ceața din suflet o risipești...
+Răspunsul Tău îmi umple inima,
+Tu ești mereu Cel care mă iubești!

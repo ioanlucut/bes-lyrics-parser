@@ -1,0 +1,35 @@
+[title]
+Iosif {author: {Chris și Grupul Cristale}, {rcId: {159210}}
+
+[sequence]
+v1,c,v2,c2,c3
+
+[v1]
+A fost odată într-un sat, dintr-un ținut îndepărtat,
+Un copilaș cam răsfățat, ce Iosif se numea.
+O haină scumpă el purta, cel mai iubit copil era,
+Și toată lumea-l cunoștea, băiatul preferat.
+
+[c]
+/: Ooo, vai, ce minune mare,
+Într-o noapte a visat:
+Cum toată familia lui cea mare
+I s-a închinat. :/
+
+[v2]
+Și într-o zi pe înserat, la frații săi Iosif a plecat,
+Dar nici măcar nu bănuia, ce mult ei îl urau.
+În departare l-au văzut și să-l omoare ei au vrut,
+Dar pân’ la urmă l-au vândut, pe douăzeci de bani.
+
+[c2]
+/: Ooo, vai, ce nenorocire
+Frații l-au urât prea mult,
+Tatăl a primit de știre
+Că Iosif a murit. :/
+
+[c3]
+Poate fii și viața ta, ca a lui Iosif tot așa,
+Cu zeci de munți înalți în ea, și multe văi pustii.
+Peste toate nu uita, Domnul poartă grija ta,
+Și planul Lui în viața ta, e perfect să știi!

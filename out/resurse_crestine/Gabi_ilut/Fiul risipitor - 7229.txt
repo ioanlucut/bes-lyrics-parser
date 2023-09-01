@@ -1,0 +1,47 @@
+[title]
+Fiul risipitor {author: {Gabi Ilut}, {rcId: {7229}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+De pe-un pământ de nobili,
+Respins și depărtat,
+Se-ntoarce fără veste
+Un fiu de Împărat.
+Se-ntoarce cu durere,
+Cu lacrimi și suspin
+Și se-ntreabă întruna:
+„
+Nu-i prea târziu să vin?”
+
+[c]
+Primește-mă, o, Tată,
+E adevărat, am greșit.
+Primește-mă la Tine,
+De lume m-am scârbit!
+Primește-mă, o, Tată,
+E adevărat. am greșit.
+Dar azi mă-ntorc la Tine,
+O, Domnul meu iubit!
+
+[v2]
+Privește lung în zare
+Și vede un palat...
+Se întreabă-n remușcare:
+„
+De ce n-am ascultat?
+De ce am plecat de-acasă
+Când tot era al meu?
+De ce-am uitat că Tată
+Îmi este Dumnezeu?”
+
+[v3]
+Și cum stătea pe gânduri,
+Acest fiu nu vedea
+Că Tatăl său, în poartă,
+Cu drag îl aștepta.
+Doar când și-a rupt privirea
+De tot ce era jos
+A îmbrăcat cu slavă
+Un alt veștmânt frumos.

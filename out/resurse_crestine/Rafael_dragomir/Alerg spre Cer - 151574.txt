@@ -1,0 +1,35 @@
+[title]
+Alerg spre cer {author: {Rafael Dragomir}, {rcId: {151574}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+De câte ori în viață pot să spun că m-ai scutit,
+La umbra aripilor Tale, eu sunt fericit,
+Înaintez pe cale și nu lupt cu pumnul în vânt,
+Eu am o țintă și ea nu este de pe pământ.
+
+[c]
+Pentru c-alerg spre cer, nu dau înapoi!
+
+[v2]
+Suntem pe linia de alergare, la lupt-am pornit,
+Cu Domnul înainte, nu te lăsa biruit,
+Nu pierde timpul, viața trece ca un vis,
+Cununa slavei te așteaptă sus, în Paradis.
+
+[c2]
+Alergi spre cer, nu da înapoi!
+
+[v3]
+Nu mai este mult și vom ajunge la sfârșit,
+Și poarta care duce-n ceruri Isus ne-a deschis,
+Iar Domnul Slavei în curând va reveni,
+El vine să Își ia mireasa, așa cum a promis!
+Nu mai vreau să stau pe loc,
+Ci să fiu un rob bun și credincios,
+Privirea îmi ațintesc spre El și trăiesc cu folos.
+
+[c3]
+/: Alerg spre Cer, nu dau înapoi! :/

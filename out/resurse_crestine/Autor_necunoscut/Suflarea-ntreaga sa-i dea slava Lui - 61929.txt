@@ -1,0 +1,31 @@
+[title]
+Suflarea-ntreaga sa-i dea slava lui {author: {Anonim}, {rcId: {61929}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Suflarea-ntreaga să-i dea slavă
+/: Slava Lui :/
+Cu bucurie Îi cântăm doar Lui,
+/: Slava Lui! :/
+Suflarea-ntreagă să-I dea slavă
+/: Slava Lui :/
+
+[v2]
+Toată adunarea să-I aducă slavă,
+/: Slavă Lui! :/
+Orchestra cu corzi să Îi aducă slavă,
+/: Slavă Lui! :/
+Fanfara să Îl laude și s-aducă slavă
+/: Slavă Lui! :/
+Cu vociile în cor să Îi aducă slavă
+/: Slavă Lui! :/
+
+[v3]
+Suflarea-ntreagă să-I dea slavă
+/: Slava Lui! :/
+Ne-a promis că ne va lua la cer
+/: Slava Lui :/
+Și o veșnicie vom trăi cu El
+/: Slava Lui :/

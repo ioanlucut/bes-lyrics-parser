@@ -1,0 +1,30 @@
+[title]
+Mare dumnezeu avem {author: {Anonim}, {rcId: {59150}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+/: Mare Dumnezeu avem :/
+El e cel mai mare
+În slavă și splendoare
+Mare Dumnezeu avem!
+
+[v2]
+/: Mare Dumnezeu avem :/
+Îngerii-n lumină
+Lui I se închină
+Mare Dumnezeu avem!
+
+[v3]
+Isus este Domnul Domnilor
+Și-mpăratul Împăraților
+El e Cel mai mare,
+În Slavă și splendoare
+Mare Dumnezeu avem.!
+
+[v4]
+/: Mare Dumnezeu avem :/
+Glorie, mărire
+Alleluia Ție
+Mare Dumnezeu avem!

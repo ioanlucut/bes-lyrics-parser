@@ -1,0 +1,29 @@
+[title]
+Doamne lumea e-nvrajbita {author: {Nicolae Moldoveanu}, {rcId: {244547}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Doamne, lumea e-nvrăjbită,
+Oamenii sunt dezbinați,
+/: Adă pacea mult dorită,
+Doamne, fă-i cu toți iar frați. :/
+
+[v2]
+Dă-nfrățire-ntre popoare,
+Oamenii sunt dezbinați,
+/: Nu-i lăsa să se omoare,
+Doamne, sunt cu toții frați. :/
+
+[v3]
+O, apropie-i deolaltă,
+Sunt așa de dezbinați,
+/: Fă-i să se îmbrățișeze,
+Ei, cu toți, sunt, Doamne, frați. :/
+
+[v4]
+Numai Tu poți de la ură
+Și cruzime să-i abați,
+/: O, intoarce-i la iubire,
+Fă-i pe toți, o, Doamne, frați. :/

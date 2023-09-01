@@ -1,0 +1,42 @@
+[title]
+Ninge lin {author: {Continental}, {rcId: {84942}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c2,v5,c2
+
+[v1]
+Ninge lin.. daruri și lumini,
+Copii cu colindul vesel
+Ne fac mai triști sau mai fericiți.
+
+[v2]
+Ninge lin.. zâmbet și suspin
+Ușor se aștern în suflet
+Ascunse-n clinchet viu.
+
+[c]
+Ce-nseamnă pentru tine
+Crăciunul fermecat?
+Doar bucurii de-o clipă
+Și totul e uitat.
+
+[v3]
+Ninge lin.. scump Copil umil,
+Născut ca să pui Iubirea
+În sufletul meu murdar.
+
+[v4]
+Ninge lin.. daruri și lumini
+Colindul de la fereastră
+Ne-ndreaptă gândul către cer
+
+[c2]
+O, Copilaș din ceruri
+Povestea ta va fi
+A lumii bucurie
+Nădejdea-n veșnicii.
+
+[v5]
+Ninge lin.. scump Copil umil
+Născut ca să pui Iubirea
+Și pacea-n viața mea.

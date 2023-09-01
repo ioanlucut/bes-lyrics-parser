@@ -1,0 +1,29 @@
+[title]
+Chiar cei alesi {author: {Nicolae Moldoveanu}, {rcId: {242621}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Chiar cei aleși sunt ispitiți să cadă,
+În vremurile grele de apoi,
+/: Dă ochilor trezire ca să vadă,
+lsuse că Tu ești mereu cu noi! :/
+
+[v2]
+Și-n inimi toarnă liniște deplină,
+Și-avânt și har în greul Tău război,
+/: Să știm adânc, că-n tot ce-o fi să vină,
+Mai alipit, mai viu ești lângă noi! :/
+
+[v3]
+Când urlă valurile spumegânde,
+de necredință, ură și nevoi,
+/: Adu-ne-aminte-ndemnurile blânde,
+Ce ni Ie-ai dat spunând că ești cu noi! :/
+
+[v4]
+Și nu lăsa durerea și-oboseala,
+Să ne târască-n negrul lor șuvoi,
+Ci iartă-ne slăbia și greșala,
+Și-ncredințează-ne că ești cu noi!

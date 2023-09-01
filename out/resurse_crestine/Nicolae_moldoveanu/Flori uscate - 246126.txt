@@ -1,0 +1,38 @@
+[title]
+Flori uscate {author: {Nicolae Moldoveanu}, {rcId: {246126}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Flori uscate, flori uscate
+Cu parfum suav și sfânt,
+/: Sus în Cartea amintirii
+Rugile căinței sunt. :/
+
+[c]
+Isuse, Isuse, lsuse
+
+[v2]
+Pietre scumpe, pietre scumpe
+Diamante ce nu pier,
+/: Lacrimile pocăinței
+Sunt privite-așa în cer. :/
+
+[v3]
+Jertfe sfinte, jertfe sfinte
+Arse-n foc, sfințite-n har,
+Așa-s rugile zdrobite,
+Sus, pe veșnicul Altar.
+
+[v4]
+Imnuri line, imnuri line
+Glas al sufletului stins
+/: Sunt suspinele căinței,
+Sus în Templul necuprins. :/
+
+[v5]
+Dă-mi, Isuse, totdeauna
+Duhul sfintei pocăinți,
+/: Ca să-mi pot păstra în Tine
+Harul proaspetei credinți! :/

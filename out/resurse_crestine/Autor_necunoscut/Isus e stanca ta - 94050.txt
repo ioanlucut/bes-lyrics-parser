@@ -1,0 +1,34 @@
+[title]
+Isus e stanca ta {author: {Anonim}, {rcId: {94050}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c
+
+[v1]
+Dacă marea-i cuprinsă de vânt
+N-ai putere, curaj și avânt
+Valuri bat în corabia ta
+Nu uita
+
+[v2]
+Isus este stânca tare
+A murit pentru fiecare
+Isus Mielul pe altar la Calvar
+
+[c]
+/: Ești nădejdea, speranța mea
+Auzi-voi cu drag vocea Ta
+Când acasă voi fi răpit
+Cât Te-am iubit :/
+
+[v3]
+Dacă-n viața necazuri lovesc
+Valuri mari pe mare mugesc
+Nu scurta cu nimic crucea ta
+Nu uita.
+
+[v4]
+Cu iubirea Părintelui Sfânt
+Și nădejdea în Mielul Cel blând
+Duhul Sfânt e victoria ta
+Nu uita

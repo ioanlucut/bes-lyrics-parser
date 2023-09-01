@@ -1,0 +1,42 @@
+[title]
+In lumea aceasta plina de pacat {author: {Anonim}, {rcId: {236248}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+In lumea aceasta plina de pacat,
+Ce sa fac ca eu sa fiu curat?
+Isuse, pregateste-ma,
+Haina ca sa-mi fie alba
+Ca eu sa ma pastrez curat pentru Imparatia Ta.
+
+[c]
+Da, eu ma-ncred in Tine!
+Da, eu ma-ncred in Tine!
+Da, caci Tu esti salvarea mea!
+Tu, esti mantuirea mea!
+Tu, esti bucuria mea!
+Tu, esti speranta mea!
+Esti Tu, nadejdea mea!
+
+[v2]
+Mi-ai promis ca nu ma vei lasa
+Tu acasa in cer ma vei lua
+Mantuitorul meu iubit,
+Sa fiu supus, bland si smerit...
+Asa e calea catre cer ce duce la Emanuel.
+
+[v3]
+In lumea aceasta plina de pacat,
+Ce sa fac ca eu sa fiu curat?
+Mantuitorul meu iubit,
+Sa fiu supus, bland si smerit...
+Asa e calea catre cer ce duce la Emanuel.
+
+[v4]
+Mi-ai promis ca nu ma vei lasa
+Tu acasa in cer ma vei lua
+Isuse, pregateste-ma,
+Haina ca sa-mi fie alba
+Ca eu sa ma pastrez curat pentru Imparatia Ta.

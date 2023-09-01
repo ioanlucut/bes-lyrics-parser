@@ -1,0 +1,37 @@
+[title]
+Descopera-mi {author: {Petre Strango}, {rcId: {136285}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Descoperă-mi o Doamne voia Ta,
+Și planul Tău pentru viața mea..
+Aș vrea o Doamne Tată să-l cunosc
+Să nu trec prin viață fără rost.
+Să nu trec fără să rodesc,
+Să fiu un pom fără să ’nfloresc.
+
+[v2]
+Descoperă-l o Doamne pe cel rău
+Voința lui și planul său
+Să fie Doamne anulat
+Prin puterea Ta îndepărtat
+/: Numai Tu poți numai Tu mă scapi
+Numai Tu mă scoți Doamne la loc larg :/
+
+[v3]
+Aș vrea o Doamne ca să știu
+De sunt mort sau de sunt viu
+Dacă ard sau m-am stins
+Sunt biruitor sau învins
+/: Dacă mai lupt, dacă mai cred
+Dacă-ți mai cer ajutor din cer :/
+
+[v4]
+Arată-mi Doamne ca să știu
+De ce sunt rob dacă sunt fiu
+De ce dorm și nu-s treaz
+În lupta Ta un bun viteaz
+/: Nu mai sunt pentru că n-am fost
+Nu voi fi decât prin Hristos :/

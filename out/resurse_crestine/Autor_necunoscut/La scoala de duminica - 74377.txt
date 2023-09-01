@@ -1,0 +1,41 @@
+[title]
+La scoala de duminica {author: {Anonim}, {rcId: {74377}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+La școala de duminică
+Ne strângem bucuroși,
+Despre Isus noi ascultăm,
+Din inimă voioși.
+Din cartea sfântă: Biblia,
+Noi învățăm cum să iubim,
+Pe frate, soră și părinți,
+Pe toți să-i prețuim.
+
+[c]
+Să răsune cântarea,
+În cer s-audă schimbarea,
+Cu Osana! Aleluia!
+Glorie să-I fie mielului!
+
+[v2]
+Din inimă noi mulțumim
+Cu toți lui Dumnezeu;
+De mici noi Îl iubim pe El,
+Urmându-I graiul Său,
+Și când vom crește oameni mari,
+Lucrând, luptând, pe-acest pământ;
+Tot Isus să ne conducă,
+Până la-al nost’ mormânt.
+
+[v3]
+Cât de frumos e să privești
+Sus la al Tău Isus,
+Ca niște miei conduși de El,
+Păstorul bun nespus.
+Noi îi cunoaștem vocea Lui;
+Citim, cântăm și ne rugăm,
+În cer cât va fi de frumos;
+O, Doamne, să intrăm.

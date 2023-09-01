@@ -1,0 +1,39 @@
+[title]
+Vine isus {author: {Daniela Haidaciuc}, {rcId: {172403}}
+
+[sequence]
+c,v1,v2,v3,c2
+
+[c]
+/: Vine Isus, vine Isus
+Strigătul răsună-n piept,
+Vine Isus, vine Isus
+Trece Isus din Nazaret: \
+
+[v1]
+Așa auzea vorbindu-se, un om
+Ce-n suferință se zbătea,
+O Bartimeu chiar de când s-a născut
+El nu putea vedea.
+
+[v2]
+”
+Isuse fiul lui David”, strigă el,
+”
+Ai milă de mine”!
+Se-apropie acum de el Isus
+”
+Ce vrei să fac pentru tine”?
+
+[v3]
+”
+Rabuni” strigă orbul, ”vreau să văd! ”
+Și-n dată-a fost tămăduit,
+Și-acum mergea slăvind pe Dumnezeu,
+Credința lui l-a mântuit!
+
+[c2]
+O strigă acum și tu ca Bartimeu,
+Rabuni vreau să văd deslusit
+Drumul spre-mpărăția Ta
+Și să fiu mântuit!

@@ -1,0 +1,29 @@
+[title]
+Mormantul lui hristos e gol {author: {Anonim}, {rcId: {1898}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mormântul lui Hristos e gol,
+Și focul luptei este stins.
+E frânt pe veci al morții bold,
+De-acum Viața a învins.
+
+[c]
+/: Laudă, laudă, Domnul este viu!
+A-nviat din morți, a înviat,
+Domnul nostru a-nviat din morți,
+Hristos a înviat! :/
+
+[v2]
+Noi raiul prin Adam pierdeam,
+Dar prin Isus îl dobândim.
+Prin Lege condamnați eram
+Prin har iertarea o primim.
+
+[v3]
+Ce bine-i cu Isus să fim:
+De moarte frică nu avem!
+În ascultare de trăim
+Cu El moștenitori suntem.

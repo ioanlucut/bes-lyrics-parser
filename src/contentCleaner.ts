@@ -4,7 +4,7 @@ import { EMPTY_SPACE, EMPTY_STRING, NEW_LINE } from './constants';
 
 const iconv = new Iconv('UTF-8', 'ASCII//TRANSLIT//IGNORE');
 
-export const cleanContent = (content: string = EMPTY_STRING) =>
+export const cleanBasicContent = (content: string = EMPTY_STRING) =>
   content
     .replaceAll('(', EMPTY_STRING)
     .replaceAll(')', EMPTY_STRING)
@@ -35,7 +35,10 @@ export const cleanContent = (content: string = EMPTY_STRING) =>
     .replaceAll(' !', '!')
     .replaceAll(' , ', ', ')
     .replaceAll(' ,', ', ')
-    .replaceAll(' –', '-')
+    .replaceAll(' –', '-');
+
+export const cleanContent = (content: string = EMPTY_STRING) =>
+  cleanBasicContent(content)
     // aA -> a new line A
     .replaceAll(/([a-zîâșăț.,;!?’”„])([A-ZÎÂȘĂȚ])/gu, `$1${NEW_LINE}$2`)
     // a	A -> a new line A

@@ -1,0 +1,35 @@
+[title]
+Eu stiu ca domnul ne-a creat {author: {Alexandru Groza}, {rcId: {4924}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Eu știu că Domnul ne-a creat
+După făptura Sa,
+El e olarul inimii,
+El știe ce-i în ea.
+
+[c]
+Cântă inimă și spune
+Marea minune,
+La toată lumea,
+De dragostea Domnului.
+
+[v2]
+Eu știu că Domnul este sfânt,
+Noi nu-L putem vedea,
+El e lumina ochilor,
+E-n inima mea și-a ta.
+
+[v3]
+Eu știu că Domnul e aici,
+Mă ține să nu cad,
+El e cu noi în orice pas,
+Ne scapă de necaz.
+
+[v4]
+Eu știu că Domnul e aici,
+Ne spune Biblia,
+Prieten bun în ceasul greu,
+E și va fi mereu.

@@ -1,0 +1,35 @@
+[title]
+Cand spre mine mai bat inca {author: {Valer Bogdan}, {rcId: {193843}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Când spre mine mai bat încă
+Valuri negre și furtuni
+Tu-mi ești Doamne a vieții stâncă
+Ce mă scapă prin minuni
+
+[c]
+/: Nu te-ndeparta de mine
+Nu fi surd la glasul meu
+Să n-ajung pe căi străine
+Dacă nu-mi răspunzi la greu :/
+
+[v2]
+Mâinile-mi înalț întruna
+Spre locașul Tău cel sfânt
+Nu-ți cer soarele și luna
+Ci doar pace pe pământ
+
+[v3]
+Nu-mi lua Doamne viața
+Împreună cu cei răi
+Ei nu vor să-ți vadă față
+Căci nu sunt copii tăi
+
+[v4]
+Doamne tu îmi ești tăria
+Ce mă scapă din necaz
+Și-mi dă iarăși bucuria
+Ce mă ține-n valuri treaz

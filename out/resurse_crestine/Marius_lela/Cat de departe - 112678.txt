@@ -1,0 +1,21 @@
+[title]
+Cat de departe {author: {Marius Lela}, {rcId: {112678}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Cât de departe aș fi Tu ești lângă mine
+Oriunde aș umbla privirea Ta mă ține
+Mă simt în siguranță când sunt la pieptul Tău
+În toate îmi dai speranță și-atunci când trec prin greu.
+
+[c]
+Ești o stea ce îmi dă viață, luceafăr de dimineață
+Ești lumina peste lumini, luminezi din înălțimi
+
+[v2]
+Cât de departe aș fi Tu ești lângă mine
+Tot ce mă încojoară puterea Ta le ține
+Mă simt în siguranță, căci Tu ești Tatăl meu
+Și tot ce are viață sunt la cuvântul Tău.

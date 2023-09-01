@@ -1,0 +1,31 @@
+[title]
+Astazi esti chemat isuse {author: {Anonim}, {rcId: {55563}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+/: Astăzi ești, Isuse, să vii-n-Adunare,
+Să vii ca să mântuiești și să vindeci boale :/
+
+[c]
+/: Bolile de neputință, o, Isuse,
+Tu le vindeci prin credință, o, Isuse,
+Bolile ce nu se poate, o, Isuse,
+Le dai leac, le dai iertare de păcate :/
+
+[v2]
+/: Astăzi ești chemat, Isuse, să vii în popor,
+Să vii ca să vindeci rana, că mulți cad și mor :/
+
+[v3]
+/: Astăzi ești chemat, Isuse, s-asculți rugăciunea,
+Ești chemat la cei bolnavi și să vindeci lumea :/
+
+[v4]
+/: Astăzi ești rugat, Isuse, prin Har și prin Cuvânt,
+Să-ntăresști credința slabă astăzi pe Pământ :/
+
+[v5]
+/: Doamne, Tu ești împărat peste boli și moarte,
+Numele Tău e chemat ca să fie-n toate :/

@@ -1,0 +1,33 @@
+[title]
+Cat timp tanjesc {author: {Nicolae Moldoveanu}, {rcId: {246513}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Cât timp tânjesc, Isuse, după Tine,
+Mi-s brațele, cu roade, pline,
+/: Mi-e sufletul frumos și tare
+Și pașii sprinteni pe cărare. :/
+Cât timp tânjesc, Isuse, după Tine.
+
+[v2]
+Cât timp mi-e dorul flacără sfințită,
+Mi-e inima împodobită
+/: Cu raze din iubire rupte,
+Să poată-n beznă ca să lupte. :/
+Cât timp mi-e dorul flacără sfințită.
+
+[v3]
+Cât timp mi-s ochii luminați de jarul
+Credinței, urc senin calvarul.
+/: Și-n liniște vestesc puterea
+Și harul ce dau înfierea. :/
+Cât timp credința îmi aprinde-altarul.
+
+[v4]
+Cât timp s-ascuns, Isuse-n viața-Ți sfântă,
+Viața mea spre cer se-avântă,
+/: Ispita lumii n-o pătrunde
+Și Te slăvește orișiunde. :/
+Cât timp s-ascuns, Isuse-n viața-Ți sfântă.

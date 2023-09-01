@@ -1,0 +1,45 @@
+[title]
+E asa de frig afara {author: {Anonim}, {rcId: {4825}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+E asa de frig afara si e asa ger,
+Stelele lucesc pe cer.
+Si din orisicare casa, se ridica fum
+Si nu e nimeni pe drum.
+
+[c]
+Nimeni nu-ti iese-n prag,
+Nimeni nu te-asculta cu drag,
+Pasii tai pe calea ninsa,
+Lasa-n urma ta,
+Pasi pe zapada neatinsa.
+
+[v2]
+Si trei stele impreuna, pe cer se-ntalnesc,
+Si unite se incalzesc,
+Razele lor impreuna, o singura stea,
+Lumineaza calea ta.
+
+[c2]
+Oare plangi Marie?
+De frig sau de tristete?
+Pasii tai pe calea ninsa
+Lasa-n urma ta,
+O urma sfanta si nestinsa
+
+[v3]
+Si trei stele, impreuna, pe cer se-ntalnesc
+Si unite se incalzesc
+Cea mai sfanta, cea mai calda,
+Raza pe pamant.
+Spre un staul sarac trimit.
+
+[c3]
+Oare plangi, Marie?
+De frig sau de bucurie?
+S-a nascut Mantuitorul,
+Canta tot cerul,
+Si de slava-I plin pamantul.

@@ -1,0 +1,30 @@
+[title]
+Singur doamne n-as putea {author: {Ionel Saran Bochis}, {rcId: {89970}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Domnul meu Tu ești mereu
+Lângă mine când mi-e greu
+Îmi dai mereu biruință
+Mă ajuți și-mi dai credință
+
+[c]
+Singur Doamne, n-aș putea
+Să rămân pe calea Ta
+Dacă Tu nu ai veghea,
+Valuri vânturi ar sufla
+Viața mea s-ar spulbera
+
+[v2]
+Numele Tău sfânt Isus,
+îl rostesc cu drag nespus
+Căci Tu mă vei duce sus,
+Unde locuiești, Isus
+
+[c2]
+Singur Doamne n-aș putea
+Să rămân pe calea Ta
+Dar cu mine ești mereu,
+/: Că și eu sunt fiul Tău :/

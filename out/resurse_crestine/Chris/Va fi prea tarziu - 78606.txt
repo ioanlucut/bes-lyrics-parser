@@ -1,0 +1,40 @@
+[title]
+Va fi prea tarziu {author: {Chris}, {rcId: {78606}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c
+
+[v1]
+Când luna va curge șuvoi,
+Isus când veni-va pe nori,
+Să-ntorci mersul vremii ’napoi
+Va fi târziu...
+Când soarele se va topi
+Și ultimul ceas va veni,
+În loc timpul să poți opri
+Va fi târziu...
+
+[v2]
+Și-n Cartea Vieții scris de n-ai să fii,
+Tu veșnicul foc să eviți... va fi târziu...
+
+[c]
+Va fi prea târziu să întorci clipa chemării,
+Va fi prea târziu să deschizi poarta iertării,
+Va fi prea târziu să-ți mai ceri răscumpărarea,
+Va fi prea târziu să oprești veșnic pierzarea.
+Va fi prea târziu...
+
+[v3]
+Când filele vremii s-au rupt
+Și tot ce-ai avut ai pierdut,
+Să cauți un alt început
+Va fi târziu...
+Când la judecată vei sta,
+De n-ai împlinit voia Sa,
+Să chemi înapoi viața ta
+Va fi târziu...
+
+[v4]
+Și-n Cartea Vieții scris de n-ai să fii,
+Tu veșnicul foc să eviți... va fi târziu...

@@ -1,0 +1,35 @@
+[title]
+Imi pare rau {author: {George Lupsea, Beni Moldovan}, {rcId: {60551}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Ce rău îmi pare, de timpul pierdut!
+De bani primiți când eu te-am vândut.
+De rodul pe care eu l-am risipit!
+Ce rău Doamne-mi pare căci nu te-am iubit.
+
+[c]
+Îmi pare rău de răul ce-am făcut,
+De sufletul ce l-am lăsat pierdut
+Îmi pare rău căci eu nu am vegetat,
+Și nici măcar un bob n-am adunat.
+
+[v2]
+Ce rău îmi pare, după clipa-n care, 
+Te-am întîlnit Isus în adunare,
+Și-am neglijat, la glasul Tău cel Sfânt!
+Când ne vorbe-ai aicea pe pamânt.
+
+[v3]
+Ce rău îmi pare când băte-ai la ușă,
+Și Te-am respins fără să mă gândesc
+Iar pe acel căzut pe calea-ntinsă!
+Eu am trecut fără să mă opresc
+
+[c2]
+Dar astazi vin la tine, Domnul Meu
+Sa ma predau sa fiu un fiul al Tau
+Vreau sa lucrez ma mult in via Ta
+Sa-duc pe cel pierdut in casa Ta.

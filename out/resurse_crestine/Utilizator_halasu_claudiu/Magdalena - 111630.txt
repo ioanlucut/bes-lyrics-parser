@@ -1,0 +1,35 @@
+[title]
+Magdalena {author: {Utilizator Halasu Claudiu}, {rcId: {111630}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Magdalena, Magdalena...
+Câte lacrimi ai vărsat,
+Magdalena, Magdalena...
+Pentru al tău amar păcat.
+
+[c]
+L-ai iubit așa de mult,
+La picioare te-ai plecat,
+Cu lacrimi I le-ai spălat,
+Cu părul I le-ai uscat.
+
+[v2]
+Magdalena, Magdalena...
+Ai știut cum să-L iubești,
+Magdalena, Magdalena...
+Azi iertare tu primești.
+
+[v3]
+Magdalena, Magdalena...
+Cât de mult tu L-ai iubit
+Magdalena, Magdalena...
+Cu mir scump L-ai pregătit.
+
+[v4]
+Magdalena, Magdalena...
+Du-te acum în pace, îți spun,
+Azi păcatul ți-e iertat
+Du-te, dar să nu mai faci.

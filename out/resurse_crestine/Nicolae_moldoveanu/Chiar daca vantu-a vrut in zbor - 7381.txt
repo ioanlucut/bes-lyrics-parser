@@ -1,0 +1,29 @@
+[title]
+Chiar daca vantu-a vrut in zbor {author: {Nicolae Moldoveanu}, {rcId: {7381}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Chiar dacă vântu-a vrut în zbor
+În turme să ne-mpartă
+/: Dar tot o cale, tot un dor
+Spre-același țărm ne poartă :/
+
+[v2]
+Chiar dacă oi de oi s-au smuls
+Și pasc împrăștiate,
+/: Dar tot un staul colo Sus
+Și un Păstor au toate. :/
+
+[v3]
+Chiar dacă n-am păstrat măcar,
+Un singur dulce nume
+/: Dar tot o jertfă, tot un har,
+Ne-a izbăvit din lume. :/
+
+[v4]
+Chiar dacă azi oftăm stingher
+Că ne-a-mpărțit furtuna
+/: Dar tot vom fi odată-n cer
+Și-acolo vom fii una. :/

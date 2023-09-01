@@ -1,0 +1,29 @@
+[title]
+E bucurie {author: {Speranța și prietenii}, {rcId: {101816}}
+
+[sequence]
+v1,v2,c,v3,c
+
+[v1]
+Bucurie, Bucurie,
+S-a născut Isus Hristos.
+Veselie, veselie,
+A venit la oameni jos.
+
+[v2]
+Îngerii aduc vestea bună
+Păstorilor ce în câmp noaptea au stat;
+Că-n iesle a venit Mesia
+S-a născut al vieții împărat.
+
+[c]
+/: E bucurie în cer și pe pământ
+Hristos se naște, se naște Domnul Sfânt
+Pe ceru-ntins o nouă stea răsare
+Este bucurie, este sărbătoare :/
+
+[v3]
+Magii au venit să I se-nchine
+De departe steaua I-au zărit
+Aur, smirnă și tămâie
+Domnului i-au dăruit

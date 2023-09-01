@@ -1,0 +1,31 @@
+[title]
+Acum e pace dar maine cum va fi? {author: {David Stănuș}, {rcId: {186137}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Acum e pace, dar mâine cum va fi?
+Ce urgie, Doamne, va veni?
+Vești de războaie, se vor auzi,
+Și Cuvântul se va împlini.
+
+[c]
+Să ne rugăm acum cât se mai poate,
+Să ne rugăm acum cât mai e timp.
+Noi suntem călători, mergând spre țara
+Cu bolți de diamante și rubin.
+Noi suntem călători, mergând spre țara
+Cu bolți de diamante și rubin.
+
+[v2]
+Acum e pace, dar mâine cum va fi?
+Și vremurile ne vor despărți,
+Prigoane-au fost și vor veni mereu,
+Îngăduite sunt de Dumnezeu.
+
+[v3]
+Acum e pace, dar mâine cum va fi?
+Domnul grijă va purta de noi,
+Toată puterea este-n mâna Sa,
+A Mielului jerfit în Golgota.

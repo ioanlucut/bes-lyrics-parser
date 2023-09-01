@@ -1,0 +1,26 @@
+[title]
+Isus speranta vietii {author: {Grup Sion}, {rcId: {2802}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Dintre stele se ivește o speranță
+Ce coboară pe pământ și prinde viață
+/: Oamenii se îmbulzesc, bolnavi se tămăduiesc
+Aleluia, Regelui Ceresc. :/
+
+[c]
+/: Isus, speranța vieții
+Isus, roua dimineții
+Isus, e Rege pe pământ
+Isus, bucuria mea
+Isus, e nădejdea ta
+Aleluia, Lui îi vom cânta. :/
+
+[v2]
+O speranță pentru omul părăsit
+Este Domnul care mult El ne-a iubit
+/: Căci prin marea-I bunătate
+Iartă greșeli și păcate
+Aleluia, Mielului Divin. :/

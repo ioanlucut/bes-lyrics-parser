@@ -1,0 +1,31 @@
+[title]
+Inchinare {author: {Emma}, {rcId: {59910}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Închinare, adorare,
+Meriți tu o Domnul meu
+Doar iubire și iertare
+Este tot ce vrea sufletul meu
+Mă închin cu umilință
+Îngenunchez la crucea Ta
+Copleșit de-a Ta iubire
+Mă proștern în fața Ta
+
+[c]
+Închinare, adorare,
+Meriți Tu, o, Domnul meu
+Doar iubire și iertare
+Este tot ce vrea sufletul meu
+
+[v2]
+Mulțumire, proslăvire
+Meriți tu o Domnul meu
+Vindecare, alinare
+Este tot ce vrea sufletul meu
+Mă închin cu umilință
+Îngenunchez la crucea Ta
+Copleșit de-a Ta iubire
+Mă proștern în fața Ta

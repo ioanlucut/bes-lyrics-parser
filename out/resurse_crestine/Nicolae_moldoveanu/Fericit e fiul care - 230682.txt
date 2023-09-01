@@ -1,0 +1,21 @@
+[title]
+Fericit e fiul care {author: {Nicolae Moldoveanu}, {rcId: {230682}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Fericit e fiul care, a avut în viața lui,
+parte de iubirea mamei și-ndurmarea tatălui.
+
+[v2]
+Fericit e fiul care, pedepsit de tatăl drept,
+a avut alinul mamei și-adăpost la sfântu-i piept.
+
+[v3]
+Fericit e fiul care, e de rugăciuni păzit,
+și-ndrumat de-nțelepciune pe-al credinței drum cinstit.
+
+[v4]
+Fericit e fiul care pân-la moarte iubitor,
+își arată prețuirea celor care-i mai dator.

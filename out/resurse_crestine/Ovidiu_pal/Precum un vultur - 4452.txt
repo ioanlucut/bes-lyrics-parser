@@ -1,0 +1,29 @@
+[title]
+Precum un vultur {author: {Ovidiu Pal}, {rcId: {4452}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Precum un vultur mă înalț în zbor
+Mereu mai sus de nori spre înălțimi.
+Da, mă înalț mereu biruitor
+Căci viața mea doar Ție Ți-o închin.
+
+[c]
+Să laud neîncetat a Ta iubire
+Și lumi-ntregi sa Te mărturisesc
+Aceasta-i cea mai mare fericire
+Pe care Tatăl meu eu o dorec.
+
+[v2]
+În palma Ta vreau să mă odihnesc
+La pieptul Tău să-mi aflu liniștea
+O, Tatăl meu, cât de mult Te iubesc
+Aș vrea să fiu mereu în preajma Ta!
+
+[v3]
+Dar înca nu am sfârșit a mea lucrare
+Mai am de alergat pe acest pământ
+Până când Tu vei găsi cu cale
+Să mă înalți în preajma Ta sa-ți cânt.

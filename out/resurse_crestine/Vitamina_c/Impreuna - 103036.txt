@@ -1,0 +1,38 @@
+[title]
+Impreuna {author: {Vitamina C}, {rcId: {103036}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Leagă-ți inima de cer și vei trăi
+Leagă-ți inima de cer, nu vei muri,
+Nu te-abate de la Domnul, fă din El dorința ta
+Ceea ce Tu poți să faci este să-L alegi
+Pentru inima ta.
+
+[c]
+Leagă-mi inima de cer
+Cu Tine vreau să fiu
+Tu ești veșnicia mea
+Îți voi rămâne fiu.
+Leagă-mi inima de cer
+Ca noi doi să ne unim
+În inimă să-mi fie scris
+Isus, mereu te voi iubi.
+
+[v2]
+Leagă-ți inima de cer
+Renunță chiar de-i greu
+La tot ce nu te lasă
+Să-L atingi pe Dumnezeu.
+Unii oameni cad mereu
+Au uitat de Dumnezeu
+Fă din El destinul tău
+Depărtează-te de rău.
+
+[e]
+Să zbor spre Paradis
+Împreună cu-al meu vis.
+Să zbor spre cer, să zbor spre cer
+Împreună cu Isus voi zbura spre Paradis.

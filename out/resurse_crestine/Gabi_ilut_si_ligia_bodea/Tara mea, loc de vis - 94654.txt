@@ -1,0 +1,40 @@
+[title]
+Tara mea loc de vis {author: {Gabi Iluț și Ligia Bodea}, {rcId: {94654}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Călător sunt aici pe pământ,
+Țara mea e în cerul sfânt,
+Eu sunt fiu de împărat,
+Voia Lui o-mplinesc,
+Pe Isus îl iubesc și-l slujesc
+
+[c]
+Țara mea, loc de vis,
+Țara mea-i paradis,
+Căci Isus un loc mi-a pregătit
+Țara mea, loc de vis,
+Țara mea-i paradis,
+Căci Isus un loc mi-a promis
+
+[v2]
+Greutăți, îndoieli vin mereu
+Să-mi clatine crezul meu.
+Pe genunchi mă așez, £
+în rugă-l implor
+Pe Isus să-mi de ajutor.
+
+[v3]
+Voi pleca și nimic n-o să iau,
+Casa Tatălui pregătită-i să stau,
+Chiar de-am strâns comori,
+Toate-n scrum se prefac,
+Lângă Domnul voi fi în veac.
+
+[e]
+Orice lacrimă va fi ștearsă
+în prezența Domnului,
+durere nu va mai fi,
+bucuria ne va-nsoți.

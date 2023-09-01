@@ -1,0 +1,36 @@
+[title]
+Ce alegi in viata {author: {Maria Șimon}, {rcId: {231292}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Ți-ai ales în viață inimă drumul bun
+Care să ducă-n Patria de sus?
+/: Sus în bucurie, în Țara cea de vis,
+Țara cea dorită, Țara Paradis. : \
+
+[v2]
+Ți-ai ales în viață inimă ce iubești,
+Lucrurile cele sfinte sau cele pământești?
+/: Ce iubești în viață întreabă-te acum,
+Te duce înspre moarte sau pe-al vieții drum? : \
+
+[v3]
+Ai ales, inimă, cu cine vrei să fii?
+Mergi înspre abis sau înspre veșnicii?
+/: Vrei oare cu Domnul pe veci sa locuiești?
+Nu alege focul în el să chinuiești! : \
+
+[v4]
+Inimă te uită ce e-n lăuntrul tău,
+Este-o lume întreagă sau e Dumnezeu?
+/: Unde duce astăzi drumul ce l-ai ales?
+Este oare drumul pe care El a mers? : \
+
+[v5]
+Inimă, vei plânge odată cu amar
+Căci ai refuzat al mântuirii har!
+/: Azi ascultă glasul ce strigă ne-ncetat:
+„
+Pentru orice om viața Eu mi-am dat”: \

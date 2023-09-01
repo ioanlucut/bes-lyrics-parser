@@ -1,0 +1,23 @@
+[title]
+Si cand furtuna bate {author: {Slauco de la Lugoj}, {rcId: {197627}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Și când furtuna bate tare
+Și valuri bat in viata mea
+/: Imi plânge și-mi geme
+Doamne suferința grea :/
+
+[v2]
+/: Ajută-mă Isuse dulce
+Ajută-mă și nu pleca
+/: Și vino Doamne mai degrabă
+Că zbuciumată-i viața mea :/
+
+[v3]
+Eu n-am nimica bun în mine
+Nu vreau Doamne să te mai las
+/: Te aștept cu lacrimile mele
+Te aștept Isus te astept cu drag :/

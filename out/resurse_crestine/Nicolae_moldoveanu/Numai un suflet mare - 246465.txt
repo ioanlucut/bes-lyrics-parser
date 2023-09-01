@@ -1,0 +1,36 @@
+[title]
+Numai un suflet mare {author: {Nicolae Moldoveanu}, {rcId: {246465}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Numai un suflet mare poate
+Ierta vrăjmașu
+I său atunci
+Când răul ce i-l face-acesta
+Nu are-n lume niciodată,
+Nici îndreptare, nici iertare
+Va rana nemaivindecată,
+Numai un suflet mare-și
+Ierta vrăjmașul său atunci.
+
+[v2]
+Numai un suflet ’nalt își poate
+Salva vrăjmașul său atunci,
+Când după ce-i zdrobise viața,
+Ajunge-n mâna lui căzut,
+Cu toate rănile făcute,
+Cu neuitatul rău făcut,
+Numai un suflet ’nalt își poate
+Salva vrăjmașul său atunci.
+
+[v3]
+Numai un suflet sfânt își poate
+Iubi vrăjmașul său atunci,
+Când nici un bine nu-l îmbună
+Și nici o milă nu-l înmoaie.
+Când pân-la moarte-l urmărește
+Cu-aceeași ură și văpaie,
+Numai un suflet sfânt își poate
+Iubi vrăjmașul său atunci.

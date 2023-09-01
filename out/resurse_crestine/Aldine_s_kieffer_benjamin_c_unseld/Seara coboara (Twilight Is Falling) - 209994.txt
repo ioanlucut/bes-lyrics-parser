@@ -1,0 +1,30 @@
+[title]
+Seara coboara (twilight is falling) {author: {Aldine S. Kieffer, Benjamin C. Unseld, Traducere RO}, {rcId: {209994}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Seara coboară pe-ntins de mări
+Umbre se-arată jos, pe cărări
+Pe țărm, o voce, se-aude blând:
+”
+Veniți acas’, acum!”
+
+[c]
+Dincolo de cerul înstelat
+Unde e lumină ne-ncetat
+Am de la Domnul un scump locaș
+În strălucirea Sa.
+
+[v2]
+Cântecul celor dragi din trecut
+Încă vibrează-n mine, plăcut
+Pe-acest pământ sunt doar peregrin
+Departe de cămin.
+
+[v3]
+Când știu că-n ceruri voi fi cu El
+Sufletu-mi cântă lui Dumnezeu
+Pe drumul vieții de peregrin
+Merg către-al Său cămin.

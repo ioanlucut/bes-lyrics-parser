@@ -1,0 +1,36 @@
+[title]
+Cantare veche oastea domnului {author: {Costel Constandache}, {rcId: {226574}}
+
+[sequence]
+v1,c,v2,c2,v3,c2
+
+[v1]
+Intinde spre Domnul azi mainile tale,
+Trimite-i o ruga curata.
+Apleaca-ti genunchii, acopera-ti fata,
+De plans si de lacrimi brazdata.
+
+[c]
+Nu-i nimeni s-asculte si nici sa-nteleaga
+A tale dureri si suspine,
+/: Nu-i mana mai calda sa-ti mangaie rana
+Si inima ta s-o aline! :/
+
+[v2]
+Deschide-te-n fata Acelui ce vede
+Si-a ta suferinta o stie!
+Te roaga cu lacrimi si-asteapta-n tacere,
+Nu-i spune cuvinte o mie!
+
+[c2]
+Doar lacrimi, doar lacrimi sa curga la vale,
+Sa simti usurarea cum vine,
+Si striga la Domnul,
+EL singur mai poate sa puna balsam peste tine! :/
+
+[v3]
+Si-apoi contopeste-te-n ruga cu Domnul,
+De vrei sa se-ntample minunea,
+Scrisoare cu lacrimi si scara-nspre ceruri
+Sa-ti fie oricand Rugaciunea!
+Urmeaza Refren 1.

@@ -1,0 +1,26 @@
+[title]
+Chiar daca valuri bat in luntrea mea mereu {author: {Nicolae Moldoveanu}, {rcId: {5641}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Chiar dacă valuri bat, în luntrea mea, mereu,
+Credința nu mi-o pierd în Tine, Domnul meu;
+Chiar urlete prelungi de-aș auzi, eu știu
+Că mâna Ți-o întinzi cu drag spre al Tău fiu.
+
+[c]
+/: Aleluia! :/ Salvarea mea e Isus! Speranța ta este El?
+
+[v2]
+Chiar dacă mă lovesc adesea vânturi reci,
+Eu știu că, și prin vânturi, trebuie să trec;
+Spre-a mă salva degrab’, Tu brațul mi-l întinzi
+Și, lângă sânul Tău, cu dor Tu mă cuprinzi...
+
+[v3]
+Chiar dacă luntrea mea va fi mereu mai grea,
+Și-adesea, sub povara ei, de-aș luneca,
+Tu poți să mă ridici ca-n glorie să-Ți cânt
+Cântarea biruinței, de pe-acest pământ.

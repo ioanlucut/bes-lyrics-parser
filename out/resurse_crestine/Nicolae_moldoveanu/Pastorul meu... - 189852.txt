@@ -1,0 +1,29 @@
+[title]
+Pastorul meu {author: {Nicolae Moldoveanu}, {rcId: {189852}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Păstorul meu, Păstorul meu,
+Păstorule Divin,
+/: Mă paști în verzi pășuni mereu,
+Și-odihnă-mi dai deplin! :/
+
+[v2]
+Toiagul Tău, Toiagul Tău,
+Mă mângâie oricând,
+/: El mă păzește de-orice rău,
+Și mă-ndreptează blând! :/
+
+[v3]
+Chemarea Ta, chemarea Ta,
+Ajută-mi s-o-nțeleg,
+/: De Tine să pot asculta,
+Cu sufletul întreg! :/
+
+[v4]
+Și fericit, și fericit,
+Apoi să locuiesc,
+/: În Templul Tău cel strălucit,
+Și Ție să-Ți slujesc!

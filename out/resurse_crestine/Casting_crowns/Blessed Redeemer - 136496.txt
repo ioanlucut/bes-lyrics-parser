@@ -1,0 +1,33 @@
+[title]
+Blessed redeemer {author: {Casting Crowns, Traducere RO}, {rcId: {136496}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Sus pe Golgota, la calvar,
+Hristos Mesia, Miel dat în dar,
+A lăsat cerul și tronul Său,
+S-a dat pe Sine, să nu mor eu.
+
+[c]
+Însîngerat, bătut și scuipat,
+În locul tău El pe Sine s-a dat,
+El a tăcut, totu-a răbdat,
+Numai ca tu să fii binecuvîntat.
+/: Însîngerat, bătut și scuipat,
+În locul tău El pe Sine s-a dat,
+El a tăcut totu-a răbdat,
+Numai ca tu să fii binecuvîntat, binecuvintat :/
+
+[v2]
+,, O Tată iatră-i!, , Hristos s-a rugat,
+Paharul jervei l-a acceptat,
+Chiar și pe cruce n-a încetat,
+Să te iubească și te-a salvat.
+
+[v3]
+Cum aș putea scum eu să tac,
+Cînd știu că poti fi și tu salvat,
+Încrede-te-n Domnul și nu vei greși,
+Și-o veșnicie cu El tu vei fi.

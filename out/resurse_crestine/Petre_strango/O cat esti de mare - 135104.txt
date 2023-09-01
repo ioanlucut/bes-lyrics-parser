@@ -1,0 +1,39 @@
+[title]
+O cat esti de mare {author: {Petre Strango}, {rcId: {135104}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O, cât ești de mare, o, cât ești de tare
+O, cât ești de sus, întreci orice apus...
+Stau și privesc la tine mă gandesc,
+Răspuns să gasesc nu îndrăznesc
+
+[c]
+Bunătatea ta umple cerul,
+Coboară pe pămant
+Ne-aduce misterul
+Pe Domnul Isus și al Său Cuvânt
+Cel venit de sus viată aducând
+Bunătatea Ta umple cerul
+Coboară pe pămant
+Ne-aduce misterul
+Pe Domnul Isus și al Său Cuvânt
+Cel venit de sus viată aducând
+Harul Tău cel mare m-a adus la viată
+M-a scos din groapă și mi-a dat speranță
+Iubirea Ta Isus ea m-a ridicat
+Din al morții pământ Tu m-ai înviat
+
+[v2]
+Ce nepătruns ești Doamne, în dragostea Ta
+Ce nepătruns ești Doamne în bunătatea Ta
+Stau și mă închin înaintea Ta eu strig
+Lăudat preamărit să fii pană în veșnicii
+
+[v3]
+Ce minunat ești Doamne, ce minunat gândești,
+Ce minunate sunt a Tale planuri împărătești
+Mă uit și zăresc printre lacrime privesc
+Pe Tine te aștept izbăvirea mea

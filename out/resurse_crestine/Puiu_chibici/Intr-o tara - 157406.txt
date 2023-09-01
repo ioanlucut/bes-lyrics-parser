@@ -1,0 +1,41 @@
+[title]
+Intr-o tara {author: {Puiu Chibici}, {rcId: {157406}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Într-o țară îndepărtată
+O fecioară preacurată,
+Din Duh Sfânt însărcinată
+Pe nume Maria.
+Caută-un loc în frigurare,
+Căci se naște Sfântul Soare,
+O ce veste, ce har mare,
+S-a născut Mesia.
+
+[c]
+Mesia, Mesia
+Ceru-ntreg e-n sărbătoare,
+Mesia, Mesia
+Ne-a adus salvare.
+
+[v2]
+De la turme cu grăbire,
+Vin păstorii cu iubire,
+Cântă-a cerului oștire,
+Slavă și mărire.
+Într-un staul jos în paie,
+În umile rupte straie,
+Alegându-și sărăcia,
+S-a născut Mesia.
+
+[v3]
+Să salveze omenirea
+Părăsit-a, strălucirea
+Lăsând cerul, bogăția
+S-a născut Mesia.
+Să cântăm cu bucurie
+Într-o sfântă părtășie,
+Pace între oameni fie,
+Pace pe vecie.

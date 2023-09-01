@@ -1,0 +1,48 @@
+[title]
+Ajuta-mi doamne sa-mi pastrez credinta mea curata {author: {Anonim}, {rcId: {180783}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ajută-mi Doamne să-mi păstrez
+Credința mea curată,
+Ajută-mă ca să veghez
+S-ajung la Tine-odată.
+
+[c]
+/: Prin bucurii și prin amar
+Pe marea viforoasă,
+Păstrează-mă în al Tău har
+S-ajung cu bine-acasa. :/
+/: Prin orice val și-orice necaz
+Ce-ar vrea să mă doboare,
+Ajuta-mă să rămân treaz
+În orice întristare. :/
+/: Ajută-mă să biruiesc
+Când grea ispita vine,
+Ajută-mă să te slăvesc
+Să rămân lângă Tine. :/
+/: Ajută-mi să mă pregătesc
+Să fiu gata Stăpâne,
+Să pot pe nori să Te-ntâlnesc
+Să pot veni la Tine. :/
+Amin!
+
+[v2]
+Ajută-mă să-naintez
+Mereu pe-a Tale urme,
+Ajută-mă ca să-mi păstrez
+Cu dragoste-acest nume.
+
+[v3]
+Ajută-mă să stăruiesc
+Mereu în rugăciune,
+Ajută-mă să mă sfințesc
+Să pot veni la Tine.
+
+[v4]
+Ajută-mă ca să-mi păstrez
+Credința pân’ la capăt,
+Ajută-mă ca să veghez
+Să am haina curată.

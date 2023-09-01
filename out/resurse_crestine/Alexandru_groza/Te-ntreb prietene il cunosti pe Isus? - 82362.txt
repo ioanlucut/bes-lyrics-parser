@@ -1,0 +1,27 @@
+[title]
+Te-ntreb prietene il cunosti pe isus? {author: {Alexandru Groza}, {rcId: {82362}}
+
+[sequence]
+v1,b,c,v2,c
+
+[v1]
+Te-ntreb, prietene: îl cunoști pe Isus?
+Îl cunoști pe al tău Mântuitor?
+L-ai primit tu în inima ta ca Păstor
+Este El preaalesul tău?
+
+[b]
+Pe cărările vieții alergi obosit, călătorule trist și pribeag
+înșelat, amăgit, ai ajuns de cel rău, vino-mpacă-te cu Dumnezeu
+
+[c]
+Fericiți sunt toți aceia ce-L au pe Isus
+Cei ce și-au spălat păcatul în sângele Lui sfânt
+Fericiți sunt aceia ce-L mărturisesc
+Și prin viața lor cu cinste Domnului slujesc!
+
+[v2]
+De te simți păcătos că ești fiul pierdut
+Vino-acasă, vino la Isus
+El te va lumina și te va îmbrăca
+Îți va da haina vieții-n dar

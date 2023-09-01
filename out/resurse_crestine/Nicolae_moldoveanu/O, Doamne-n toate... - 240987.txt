@@ -1,0 +1,40 @@
+[title]
+O doamne-n toate {author: {Nicolae Moldoveanu}, {rcId: {240987}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O, Doamne-n toate vreau să-Ți fiu pe plac,
+În toate voia Ta vreau s-omplinesc,
+În toate vreau să Te mărturisesc,
+Ajută-mă să nu pot să gresesc,
+Lumina Ta deplină s-o primesc,
+Ca să nu tac când e ca să vorbesc,
+Să nu vorbesc când trebuie să tac!
+
+[c]
+lsuse din Tine să-mi vină,
+Lumină, deplină, lumină,
+Să-mi facă viața senină!
+Ca vorba, tăcerea, lucrarea și starea,
+Și lupta cea grea și-așteptarea,
+Să-Ți poarte pecetea divină.
+
+[v2]
+Și vremea toată s-o răscumpăr vreau,
+Lucrarea Ta mai mult s-o cercetez
+Pe inimă s-o am și s-o păstrez,
+Să pot în ea mereu să naintez,
+Dar să m-ajuți, prin Duhul să veghez,
+Ca să nu stau când e ca să lucrez,
+Să nu lucrez când trebuie să stau!
+
+[v3]
+Să mă ridici din tot ce-i dedesupt
+De sfântul Cer, din tot ce e nedrept,
+Dar să rămân smerit pe drumul drept,
+Cuvântul Tău întreg să-L am în piept,
+Din orice somn străin să mă deștept,
+Ca să nu lupt când trebuie s-aștept,
+Să nu aștept când trebuie să lupt!

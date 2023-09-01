@@ -1,0 +1,29 @@
+[title]
+Prin a ta bunatate {author: {Rad Maria}, {rcId: {129994}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Prin bunătatea Ta eu stau în picioare,
+Prin bunătatea Ta, O, Doamne bun și mare,
+/: Prin bunătatea Ta eu nu dau înapoi,
+Prin bunătatea Ta, Tu rămâi cu noi :/
+
+[v2]
+Și bunătatea Ta, pe mine mă ajută,
+Și bunătatea Ta pe mine mă ridică,
+/: Prin bunătatea Ta eu nu dau înapoi,
+Prin bunătatea, Ta Tu revii la noi. :/
+
+[v3]
+Și Tu ești lângă mine, când sunt necăjit,
+Și Tu ești lângă mine, când toți m-au părăsit.
+Prin bunătatea Ta eu sunt învingător,
+Tu îmi dai sănătate și îmi dai ajutor.
+
+[v4]
+Prin bunătatea Ta am primit viață,
+Prin bunătatea Ta mă scol de dimineață,
+Prin bunătatea Ta mă simt azi fericit,
+Că-n bunătatea Ta pe min’ m-ai mântuit.

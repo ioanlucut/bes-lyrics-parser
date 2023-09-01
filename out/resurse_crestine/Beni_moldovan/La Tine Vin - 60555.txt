@@ -1,0 +1,31 @@
+[title]
+La tine vin {author: {Beni Moldovan}, {rcId: {60555}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+La Tine vin așa cum sunt,
+O viață nouă vin cerând.
+La Tine vin așa cum sunt,
+La Tine vin.
+Iartă-mă Doamne căci n-am știut,
+Iartă-mă Tată că n-am crezut,
+Iartă-mi păcatul din trecut,
+/: Iartă-mă, te rog Iartă-mă :/
+
+[c]
+Strig Către Tine Domnul Meu ne-încetat,
+Ascultă-mi astăzi ruga mea ce ți-o înalț.
+Schimbă-mi viața, fă-mă Tu, mai curat,
+Să fiu creștin, un fiu al Tău, cu-adevarat.
+
+[v2]
+Ascultă-mi astăzi ruga mea,
+Alină-mi Doamne durerea.
+Milă îți cer o Domnul Meu,
+Milă îți cer.
+Pleacă-ți urechea aicea jos,
+Căci pe pământ e dureros!
+Ascultă-mi Tată ruga mea
+/: Salvează-mă, te rog, salvează mă :/

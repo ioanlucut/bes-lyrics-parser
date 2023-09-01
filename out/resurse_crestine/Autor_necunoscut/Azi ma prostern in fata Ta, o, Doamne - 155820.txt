@@ -1,0 +1,19 @@
+[title]
+Azi ma prostern in fata ta o doamne {author: {Anonim}, {rcId: {155820}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+/: Azi mă proștern în fața Ta, o, Doamne!
+Să-ți mulțumesc pentru tot ce-ai făcut pentru mine. :/
+
+[c]
+Azi, Doamne, vin!
+Ofranda inimii Ți-o aduc și mă închin!
+Azi, Doamne, vin, să simt prezența Ta,
+Să simt iubirea Ta de tată.
+
+[v2]
+/: Vreau zi de zi să m-alipesc, o, Doamne!
+Sufletul meu să Te-nalțe și să Te-adore. :/

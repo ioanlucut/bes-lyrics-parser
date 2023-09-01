@@ -1,0 +1,29 @@
+[title]
+In fiecare an cu totii ne amintim {author: {Iolu Cornel}, {rcId: {144183}}
+
+[sequence]
+v1,c,c2,v2,c
+
+[v1]
+/: In fiecare an cu totii ne amintim
+Ca Domnul Isus a venit la noi.
+In fiecare an cu totii sarbatorim
+Venirea Lui, pe-acest pamant. :/
+
+[c]
+/: S-a nascut Isus a venit de sus
+Mantuirea de sus la noi a ajuns
+Slava sus in cer, pace pe pamant
+Au cantat ingerii in cor :/
+
+[c2]
+/: Toata lumea azi sa stie
+Isus este Domnul Domnilor
+Viata noua ne da noua
+Prin credinta in numele Lui :/
+
+[v2]
+/: In fiecare an cu totii la Betleem
+Privim spre ieslea mica spre Emanuel
+Cu zambetul pe fata si ingenunchiati
+Privim spre ieslea mica, catre Imparat :/

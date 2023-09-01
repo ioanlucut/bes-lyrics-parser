@@ -1,0 +1,35 @@
+[title]
+O nu respinge chemarea {author: {Anonim}, {rcId: {79425}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+O, nu respinge chemarea
+Nu refuza harul cel sfânt,
+Nu-ți împietri inima ta
+Ci vino grăbit!
+
+[c]
+De ce nu astăzi?
+De ce nu astăzi?
+Să fii salvat,
+De ce nu astăzi?
+
+[v2]
+Mâine se poate e târziu
+Și n-a fi loc pentru tine,
+Azi primește Cuvântul viu
+Și-ți va fi bine!
+
+[v3]
+Astăzi ești chemat în milă,
+Ai grije n-o nesocoti,
+Mâine se poate de silă,
+Că tu vei muri.
+
+[v4]
+Domnul Isus a mântuit
+Niciodată n-a refuzat,
+Pe cei ce aici l-au primit,
+Și Lui i-au urmat!

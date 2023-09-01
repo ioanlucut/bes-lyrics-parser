@@ -1,0 +1,40 @@
+[title]
+Batranete scoala-nalta {author: {David Stănuș}, {rcId: {153071}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Bătrânețe școală-naltă
+De povară și de scrum
+Cale aspră și ciudată,
+Pe unde n-am fost niciodată,
+Niciodată, pân’ acum.
+
+[v2]
+Bătrânețe traistă spartă,
+De unde toate cad și se pierd
+Cade orice faptă moartă,
+Cade slava cea deșartă,
+Și rămâne cea din cer.
+
+[v3]
+Bătrânețe daltă bună,
+Care taie cu folos
+Taie fala ce adună,
+Taie firea cea străbună
+Din mireasa lui Hristos.
+
+[v4]
+Bătrânețe tren de seară,
+Fără bani, fără bilet
+Zboară-ntins, ce iute zboară,
+Și te duci din gară-n gară
+Către tainicul magnet.
+
+[v5]
+Dar la urmă Domnul știe
+Dacă trenu-i tren de har.
+Vom sări de bucurie
+Și cu Domnul, pe vecie,
+Vom fi tineri, tineri iar!

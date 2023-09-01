@@ -1,0 +1,68 @@
+[title]
+Poveste de craciun {author: {Cristale}, {rcId: {101471}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,v5,c4
+
+[v1]
+Vezi copilul meu cum ninge-afară ?
+Vino lângă mine să privim
+Ce frumos plutesc prin aer fulgii de argint
+Ca într-un glas divin.
+Vezi, pe stradă trec colindătorii!
+Cânta toți un cântecel sublim.
+Haide să cântăm și noi într-un glas cu ei,
+Și să ne amintim:
+
+[c]
+E sărbătoare astăzi pe pământ
+Căci s-a-mplinit al Tatălui cuvânt
+Precum ne-a fost promis din veșnicii
+Mesia s-a născut
+
+[v2]
+Vino copilașul meu aproape
+O poveste vreau să-ți spun acum
+Când vei crește mare, ține minte să le spui
+Copiilor tăi și tu!
+”
+Într-un sat departe a fost odată
+Un copil cu numele Isus
+Între mielușei plăpânzi afară din oraș
+În iesle s-a născut
+
+[c2]
+N-a avut nici leagăn, nici mărire
+Copilașul fără de păcat
+Însă îngerii din cer au coborât la El
+Și-n cor laudă I-au cântat
+
+[v3]
+Magi din răsărit din depărtare
+Au venit călăuziți de-o stea
+Aur, smirnă și tămâie au adus în dar
+Lângă ieslea Sa”
+
+[c3]
+E sărbătoare astăzi pe pământ
+Căci s-a-mplinit al Tatălui cuvânt
+Precum ne-a fost promis din veșnicii
+Mesia s-a născut
+
+[v4]
+Anii au trecut că o părere
+Copilașul din alt timp venit
+A crescut și a luat păcatul lumii asupra Sa
+Murind pe cruce răstignit
+
+[c4]
+Împlinindu-și rostul în astă lume
+A înviat și s-a înălțat la cer
+Dăruind și astăzi mântuirea tuturor
+Celor ce cred în El
+
+[v5]
+Iată că povestea s-a sfârșit
+Somn ușor copilul meu iubit
+Nu uita că amândoi într-o bună zi
+În cer cu Isus vom fi.

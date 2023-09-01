@@ -1,0 +1,29 @@
+[title]
+La tine caut doamne adapost {author: {Tudor Oleniuc}, {rcId: {209066}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+La Tine caut, Doamne, adăpost,
+Când sufletul mi-e singur și mâhnit.
+Când de-ndoieli și teamă sunt chinuit,
+Și viața fără Tine n-are rost.
+
+[c]
+La umbra Ta-I alin și mângâiere
+Fără Tine viața mea nu are rost,
+De nu-ncetez iubirea Ta a cere
+E că doar ea prin har, mi-e adăpost.
+
+[v2]
+La Tine caut, Doamne, înțelepciune,
+Când gândul meu se zbuciumă din greu.
+Când mă apasă doar păcatul meu,
+Și viața fără Tine-i o genune.
+
+[v3]
+La Tine caut Doamne liniștire
+Când dorul meu de Tine sângerează.
+Când amintirea din trecut e trează,
+Și nu mai am un dram de fericire.

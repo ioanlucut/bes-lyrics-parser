@@ -1,0 +1,31 @@
+[title]
+O parinte-al mangaierii {author: {Nicolae Moldoveanu}, {rcId: {5351}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+O, Parinte-al mangaierii, o Vezi-ma din cerul sfant,
+/: Caci in bratele durerii o Si-n suspinuri ma framant. :/
+
+[v2]
+’
+Tinde-Ti mana, cu iubire o Spre-al vietii mele chin,
+/: Mana care poate-aduce o Suferintelor alin. :/
+
+[v3]
+Si-mi pogoara-n suflet iara o Pacea mangaierii azi,
+/: Caci mi-e inima amara o
+ /: Si-mi curg lacrimi pe obraz. :/
+
+[v4]
+Nopti intregi de taina pline o Stau in ruga si veghez
+/: Si Te chem sa vii la mine, o Caci de Tine insetez. :/
+
+[v5]
+Zile-ntregi Te chem, Parinte o Si Te chem mereu plangand
+/: Si Te-astept cu dor fierbinte, o Caci de Tine sunt flamand. :/
+
+[v6]
+O, Parinte-al mangaierii, o Vezi suspinul meu cand gem,
+/: Caci, din bratele durerii, o Azi pe Tine doar Te chem. :/

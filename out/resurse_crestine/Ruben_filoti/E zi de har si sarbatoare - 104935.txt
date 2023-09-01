@@ -1,0 +1,27 @@
+[title]
+E zi de har si sarbatoare {author: {Ruben Filoti}, {rcId: {104935}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+1. E zi de har și sărbătoare
+Voi ați pornit pe-o nouă cale
+În doi totul e mai frumos
+Dacă-L luați și pe Hristos.
+
+[c]
+/: Te rugăm binecuvântă-i, Doamne pe-a lor cale
+De mână Tu să-i ții mereu și să-i veghezi
+Azi fii prezent, Te rog, la a lor sărbătoare
+Și zi de zi cu drag să-i binecuvintezi. :/
+/: Te rugăm binecuvântă-i Doamne pe-a lor cale
+Diamantul fericirii să le dăruiești
+Tot ceea ce ei își doresc pe-a lor cărare
+Te rugăm cu dragoste azi să le împlinești. :/
+
+[v2]
+Noi vă dorim zile cu soare
+Mulți ani în viață să vă iubiți
+Și chiar probleme de vor apare
+Voi cu Isus să biruiti.

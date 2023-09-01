@@ -1,0 +1,31 @@
+[title]
+Goana dupa vant {author: {Adi Gliga}, {rcId: {4348}}
+
+[sequence]
+v1,v2,e
+
+[v1]
+Totu-i goană după vânt
+Astăzi râd, iar mâine plâng
+Viață pentru mine nu-i decât un cer
+Astăzi sunt, dar mâine pier.
+Totul este trecător
+Îți aduni aici comori,
+Dar va veni o vreme când tu vei pleca
+Și-un străin le va lua.
+
+[v2]
+Astăzi poți fi mulțumit
+Că o viață ai trăit
+Însă dincolo de toate vei afla
+Care este soarta ta.
+Cât trăiești pe-acest pământ
+Totu-i goană după vânt
+Dacă mai presus de suflet tu alegi
+În păcate să trăiești.
+
+[e]
+/: Orice drum alegi în lume
+Nu te poate împlini,
+Însă viața cu Isus va fi mereu
+Drumul către Dumnezeu :/

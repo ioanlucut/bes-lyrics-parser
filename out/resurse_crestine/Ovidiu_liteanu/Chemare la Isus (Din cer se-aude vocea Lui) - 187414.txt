@@ -1,0 +1,41 @@
+[title]
+Chemare la isus (din cer se-aude vocea lui) {author: {Ovidiu Liteanu}, {rcId: {187414}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Din cer se-aude vocea Lui,
+Pătrunzătoare a Domnului, întoarce-te!
+O, vino prietene iubit,
+Să fii și tu un mântuit, întoarce-te!
+Tu ești în noapte și-n păcat,
+De-a Lui iubire depărtat, întoarce-te!
+La cel ce este Dumnezeu,
+Să fii și tu copil al Său, întoarce-te!
+
+[c]
+/: Întoarce-te la Dumnezeu
+Care te așteaptă,
+Întoarce-te din lumea ta
+Că Domnul meu te iartă! :/
+
+[v2]
+Din amăgirea celui rău,
+Întoarce-te la Dumnezeu, întoarce-te!
+De ce să fii un osândit,
+Când poți să fii un mântuit, întoarce-te!
+Isus pe cruce-a suferit,
+Și pentru noi a biruit, întoarce-te!
+El a murit în locul tău,
+Să fii în rai cu Dumnezeu, întoarce-te!
+
+[v3]
+Privește anii ți s-au dus,
+Și încă n-ai dat un răspuns, întoarce-te!
+A tale zile s-or sfârși,
+Și te vei duce-n veșnicii, întoarce-te!
+Te-ntoarce la mărețul Har,
+Cu-al tău păcat mult și amar, întoarce-te!
+Să-i spui Isuse Domn iubit,
+Te voi urma pân’ la sfârșit, întoarce-te!

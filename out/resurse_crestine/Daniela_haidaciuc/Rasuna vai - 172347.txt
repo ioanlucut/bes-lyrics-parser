@@ -1,0 +1,32 @@
+[title]
+Rasuna vai {author: {Daniela Haidaciuc}, {rcId: {172347}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Răsună văi, munți și câmpii
+Pământu-ntreg e-n armonii
+E sărbătoare-n Univers
+Căci s-a născut un Prinț Ceresc,
+Un Fiu Dumnezeiesc
+
+[c]
+Cântă corul îngeresc
+Cântă graiul omenesc
+Toți își cântă bucuria,
+S-a născut Mesia
+
+[v2]
+La iesle Magi-au alergat
+Cu daruri ei s-au închinat
+Iar noi venim cu inima
+Ca Isus să se nască-n ea
+El Isus Mesia
+
+[v3]
+Păstorii-n iesle L-au găsit
+Căci steaua i-a călăuzit
+Și îngeri-L slăveau cântând
+Osana, Pace pe Pământ
+Osana Celui Sfânt

@@ -1,0 +1,29 @@
+[title]
+Bunul salvator {author: {Anonim}, {rcId: {193877}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Bunul salvator
+Smeriți să-L lăudăm
+Mărire în veci
+Din inimi să-i cântăm :/
+
+[c]
+/: Isus Isus
+Cu moartea ai luptat
+Ai biruit pe cruce
+De moarte ne-ai salvat :/
+
+[v2]
+/: Osana in veci de veci
+Biserica-i salvată
+De păcat
+Prin El eliberată :/
+
+[v3]
+/: Fi binecuvântat
+Isus stăpân al vieții
+Ce în veci de veci
+Ești steaua dimineții :/

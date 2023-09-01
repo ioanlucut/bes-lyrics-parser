@@ -1,0 +1,29 @@
+[title]
+Noi iti cantam iubirea mare {author: {Nicolae Moldoveanu}, {rcId: {5308}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Noi Îți cântăm iubirea mare,
+Atât de mult, Tu ne-ai iubit!
+Ne-ai izbăvit pe fiecare,
+Prin Fiul Tău ce L-ai jertfit...
+
+[c]
+/: Noi Îți cântăm iubirea, Doamne, neîncetat!
+Te lăudam, căci Tu ești vrednic de lăudat!
+Slavită, preamărită, fie puterea Ta!
+Cât vom avea suflare, Doamne, Îți vom cânta! :/
+
+[v2]
+Noi Îți cântăm puterea-Ți sfântă,
+Prin care toate ai creat.
+Te adorăm! Spre cer se-avântă
+Cântarea noastră, necurmat!
+
+[v3]
+Noi Îți cântăm minuni și semne!
+Acum cantăm... din efemer...
+Când jos tăcerea se v-așterne,
+Te-om lăuda pe veci în cer!

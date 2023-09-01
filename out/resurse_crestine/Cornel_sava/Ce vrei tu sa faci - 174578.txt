@@ -1,0 +1,30 @@
+[title]
+Ce vrei tu sa faci {author: {Cornel Sava}, {rcId: {174578}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ce vrei tu să faci cu viața ta?
+Unde vrei să mergi, unde vei pleca?
+Uită-te în jur, totu-i trecător!
+Fără Dumnezeu n-ai niciun viitor!
+
+[c]
+/: Puneți astăzi o întrebare: cum trăiești?
+Cum ți se pare, ce relație ai cu Hristos?
+Tot ce ai strâns ai pus deoparte,
+Ti-au făcut prezentul poate mai nesigur mai primejdios: \
+
+[v2]
+Cum te va găsi când te va chema?
+Cum vei sta, vei sta inaintea Sa?
+Cum ai să-I răspunzi, când te va întreba:
+Ce-ai agonisit, pentru slava Sa?
+
+[v3]
+Inca nu-i tarziu spunei astazi ”
+DA”
+Ceru-i pregatit de-a te-ntampina
+Ca un fulg de nea El te va purta.
+Spre locasul sfant in Patria Sa

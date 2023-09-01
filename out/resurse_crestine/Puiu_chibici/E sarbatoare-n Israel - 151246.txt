@@ -1,0 +1,29 @@
+[title]
+E sarbatoare-n israel {author: {Puiu Chibici}, {rcId: {151246}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+E sărbătoare-n Israel
+Și corul îngerilor cântă
+Că s-a născut Emanuel
+E bucurie-n Țara sfântă
+
+[c]
+Ce mare har, o ce splendoare
+Ni S-a născut un împărat
+A coborât Divinul soare
+/: Isus, Hristos :/ ce minunat
+
+[v2]
+E sărbătoare pe pământ
+Păstorii-și cântă bucuria
+Că s-a născut un Rege Sfânt
+Isus Hristos, Isus Mesia
+
+[v3]
+Veniți voi magi din depărtări
+Deschideți-vă vistieria
+Veniți din cele patru zări
+V-așteaptă iubitor Mesia

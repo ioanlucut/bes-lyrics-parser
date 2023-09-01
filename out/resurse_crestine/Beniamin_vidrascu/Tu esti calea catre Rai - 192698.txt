@@ -1,0 +1,37 @@
+[title]
+Tu esti calea catre rai {author: {Beniamin Vidrascu}, {rcId: {192698}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Tu esti calea catre rai
+Tu viata vesnica-mi dai
+Si cand sunt in palma Ta
+Nu mai stiu ce e frica
+
+[c]
+Tu ma pui la incercare zi de zi,
+Dar nu-mi pierd credinta ori ce ar fi,
+Nu ma indepartez de tine niciodata,
+Tu-mi esti mama Tu-mi esti Tata!
+Tu ma pui la incercare zi de zi,
+Dar nu-mi pierd credinta ori ce ar fi,
+Nu ma indepartez de tine niciodata,
+Tu-mi esti mama Tu-mi esti Tata!
+Tu ma pui la incercare zi de zi,
+Dar nu-mi pierd credinta ori ce ar fi,
+Nu ma indepartez de tine niciodata,
+Tu-mi esti mama Tu-mi esti Tata!
+
+[v2]
+Trec prin apa si prin foc,
+Eu la Isus tot ma intorc!
+Eu de Isus nu ma las,
+Chiar de am mare necaz!
+
+[v3]
+Eu te rog Isuse Drag
+Sa nu-mi incerci credinta
+Ca sunt slab si sunt tarana
+Sunt creat de a ta mana.

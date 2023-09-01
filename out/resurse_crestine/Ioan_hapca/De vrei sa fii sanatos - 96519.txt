@@ -1,0 +1,33 @@
+[title]
+De vrei sa fii sanatos {author: {Ioan Hapca}, {rcId: {96519}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Azi e-o vreme-a cercetării
+Când prin Cuvântu-I minunat
+Te-ntreabă Domnul îndurării
+De vrei să fii vindecat...
+Căci azi, e ziua vindecării!
+
+[c]
+/: De vrei să fii sănătos
+Unește-ți acum voința
+Cu credința în Hristos
+Și trăiește-ți biruința,
+Ridicându-te de jos... :/
+
+[v2]
+Dacă-ți dorești vindecare,
+Căci toți anii vieții tale
+Au fost chin și disperare;
+Ascultă Cuvintele Sale
+Și primești har și-eliberare!
+
+[v3]
+O, ce minunat e Domnul!
+În dreptul meu și-n dreptul tău
+Se-oprește El, Mântuitorul
+Și ne întinde brațul Său...
+Doar de la El vine-ajutorul!

@@ -1,0 +1,37 @@
+[title]
+Ne vom intoarce intr-o zi acasa {author: {Nelu Negrușer}, {rcId: {181410}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ne vom întoarce într-o zi Acasă,
+Te-om părăsi pământule, pământ
+/: Și vom uita de tine poate mâine,
+Că te-am călcat și te-am lucrat plângând. :/
+
+[c]
+/: În tine zac și morții în țărână,
+I-ai înghițit flămând cum tu ai fost
+Și ai lăsat atâta jale-n urmă,
+Pământule, acestea au un rost... :/
+/: Când toți acei ce sfâșiați de fiare
+Sau arși pe rug, ei au sfârșit cântând,
+Se vor ’nălța de pe-a tale hotare,
+Pe Mirele lor drag întâmpinând. :/
+/: Isus ne va întinde mâna-I caldă
+Și fericiți vom sta la pieptul Său
+Și vom uita, c-am fost odată-n tine,
+Când fi-vom veșnic, fi-vom doar cu El!
+
+[v2]
+Vei da afară lacrimile multe
+Ce zac de vremi în tine, în ascuns,
+/: Cei ce au plans s-or întâlni cu Domnul;
+Pământule, pământul ți-e de-ajuns. :/
+
+[v3]
+Veni-va clipa când cu toți, deodată,
+Părinți și frați, spre alte zări zburând,
+/: Să ne-ndreptăm spre Țara minunată,
+Să te uităm, pământule, pământ! :/

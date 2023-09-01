@@ -1,0 +1,22 @@
+[title]
+In tacerea mea {author: {Matt Redman}, {rcId: {4146}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Tu ești Domn în ceruri
+Iar eu sunt doar un om
+În tăcerea mea Îți spun
+Sunt îndrăgostit de Tine Isus
+
+[c]
+/: În prezența Ta eu stau, Doamne :/
+Și-n tăcerea mea Îți cânt
+Sunt îndrăgostit de Tine Isus
+
+[v2]
+Îți cânt un simplu cântec
+De dragoste și vreau
+În tăcerea mea să-Ți cânt
+Sunt îndrăgostit de Tine Isus

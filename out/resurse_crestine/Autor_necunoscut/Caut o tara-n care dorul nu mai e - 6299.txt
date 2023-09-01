@@ -1,0 +1,29 @@
+[title]
+Caut o tar~a-n care dorul nu mai e {author: {Anonim}, {rcId: {6299}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Caut o țară-n care dorul nu mai e
+Caut solia în care plânsul nu mai e.
+/: Cu mângâeri și fericire
+Țară sfântă a lui Isus. :/
+
+[c]
+/: Dorul meu e mare n-are asemănare
+Pentru Domnul meu Isus
+El mă făce tare și îmi dă răbdare
+Ca să-L aștept pe El. :/
+
+[v2]
+Caut o casă în care suferinți nu sunt
+Caut cetatea în-care Domnul meu cel sfânt
+/: Cu mângâeri și fericiri
+Casă-n care vreau să fiu. :/
+
+[v3]
+Caut o turmă, care umblă înspre cer
+Caut păstorul blând, iubit Emanuel
+/: Să fiu și eu un miel în turma Lui
+Și s-ajung în cer cu El. :/

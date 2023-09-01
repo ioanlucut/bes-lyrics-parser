@@ -1,0 +1,25 @@
+[title]
+Psalmul {author: {Gabi_Ilut}, {rcId: {238883}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+În Tine Doamne îmi caut scăparea,
+Să nu rămân de rușine niciodată.
+Scapă-mă în dreptatea Ta și izbăvește-mă,
+Pleacă-Ți urechea spre mine și ajută-mi!
+
+[c]
+/: Fii o stâncă de adăpost pentru mine
+Unde să pot fugi totdeauna, totdeauna! :/
+/: Tu ai hotărât să mă scapi! :/ (3x)
+Căci Tu ești stânca mea.
+/: Tu ai hotărât să mă scapi! :/ (3x)
+Ești cetățuia mea!
+
+[v2]
+În Tine Doamne mi-am pus eu nădejdea,
+În Tine mă încred, în tinerețea mea.
+Tu îmi ești binefăcător și izbăvitor,
+Numai pe Tine mă sprijin, al meu salvator!

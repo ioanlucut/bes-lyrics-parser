@@ -1,0 +1,29 @@
+[title]
+Binecuvanta-ne doamne {author: {The Messengers}, {rcId: {885}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Binecuvântă-ne Doamne
+Pe noi întotdeauna
+Ca să fim noi poporul Tău
+Veșnic spre-a Te lăuda.
+
+[c]
+Iar Isus al nostru soare,
+Plin de har și de-ndurare,
+Vocea lui mângâietoare
+Șterge lacrimi și suspini.
+
+[v2]
+Și acasă, și pe cale,
+Despre Isus, vesel, cânt,
+Dar nicicând nu cânt mai vesel
+Decât în locașul sfânt.
+
+[v3]
+Îngerii pot să-l mărească
+Prin cântări pe Dumnezeu
+Dar ca despre har să-I cânte,
+Ei nu pot ci numai eu.

@@ -1,0 +1,37 @@
+[title]
+Te indeamna azi la pocainta {author: {Gabi Ilut}, {rcId: {154104}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Te îndeamnă azi la pocăință
+Bunătatea Domnului,
+N-aștepta să treci prin suferință
+Să răspunzi chemării Lui!
+Viața aceasta este trecătoare,
+Zilele se duc în zbor,
+Este doar o șansă de salvare
+Prin Isus Hristos, Mântuitor!
+
+[c]
+Te îndeamnă azi, te îndeamnă mâine,
+Te îndeamnă-n fiecare zi.
+Te îndeamnă azi, te îndeamnă mâine
+Vino și nu mai zăbovi!
+
+[v2]
+Știi că ai să treci din lumea-ceasta
+Mai curând sau mai târziu,
+Ești tu oare gata de plecare?
+Pregătit ești sau nu știi?
+Dacă pleci ne-mpăcat cu Domnul,
+Sufletu-ți va plânge amar.
+Astăzi câtă vreme se mai poate,
+Vino la izvorul Său de har!
+
+[e]
+Oare nu vezi tu bunătatea Lui,
+Bunătatea Domnului?
+Cât mai este har spune-ți inimii:
+’’ Este timpul! Nu mai zăbovi! ’’

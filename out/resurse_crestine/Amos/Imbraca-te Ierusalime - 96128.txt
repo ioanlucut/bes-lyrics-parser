@@ -1,0 +1,47 @@
+[title]
+Imbraca-te ierusalime {author: {amos7}, {rcId: {96128}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Îmbracă-te Ierusalime
+Cu haina ta de nuntă
+/: Cu pietre scumpe de safir
+Cusute și unse cu mir
+Și-n cap cununi și salbe :/
+
+[v2]
+Iată acum străjerii cântă
+Cântarea veșniciei
+/: Și niciodată n-or tăcea
+Ci zi și noapte vor cânta
+De drag o veșnicie :/
+
+[v3]
+Împodobește-te mireasă
+Cu haina ta de nuntă
+/: Îmbracă-te de pe pământ
+De dragul tău și cerul sfânt
+Și îngerii îți cântă :/
+
+[v4]
+La nunta ta cea mai frumoasă
+Cum n-a fost din vecie
+/: Căci toți acei ce vor intra
+În mii de glasuri vor cânta
+Cântarea veșniciei :/
+
+[v5]
+Ce mii de glasuri te-nconjoară
+La mesele întinse
+/: Și beau din vinul Tău ales
+Din vii frumoase atunci cules
+Mânca-vor mană sfântă :/
+
+[v6]
+Și așa iți vei petrece viața
+Cu dulcele Tău Mire
+/: Căci El te va purta-n iubiri
+Prin raiul sfânt de trandafiri
+În cer o veșnicie :/

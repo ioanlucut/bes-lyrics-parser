@@ -1,0 +1,27 @@
+[title]
+Suna din trompeta {author: {Speranța}, {rcId: {101952}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Sună din trompetă: ”
+Israel”
+Să cânte orchestra : ”
+Israel”
+Să știe orișicine că noi avem un Dumnezeu
+Care izbăvește pe poporul Său
+
+[c]
+/: Lăudați pe Domnul Sfânt
+Toți acei de pe pământ
+Și voi, astre de pe cer
+Lăudați-L doar pe El :/
+
+[v2]
+Sună din trompetă: ”
+Israel”
+Să cânte orchestra : ”
+Israel”
+Căci Domnul împărățeșe în slavă și lumină
+Oștile cerești Lui I se închină

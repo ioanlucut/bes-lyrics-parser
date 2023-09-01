@@ -1,0 +1,20 @@
+[title]
+Cand grijurile vin {author: {Alexandru Groza}, {rcId: {87949}}
+
+[sequence]
+v1,v2,e
+
+[v1]
+Când grijurile vin, sufletul e greu încercat
+Căci azi în lume sunt multe căi ce duc la păcat.
+/: Mă voi ruga mereu să mă țină Dumnezeu în harul Său,
+Căci El m-a ridicat din starea de păcat. :/
+
+[v2]
+Când în necaz am fost am găsit Domnul adăpost
+De când Lui m-am predat El mereu grija mi-a purtat.
+/: Mă voi ruga mereu să mă țină Dumnezeu în harul Său,
+Căci El m-a ridicat din starea de păcat. :/
+
+[e]
+Căci El m-a ridicat din starea de păcat.

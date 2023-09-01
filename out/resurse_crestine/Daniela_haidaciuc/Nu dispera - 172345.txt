@@ -1,0 +1,41 @@
+[title]
+Nu dispera {author: {Daniela Haidaciuc}, {rcId: {172345}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Nu dispera când valurile vieții
+Lovesc în barca ta cu vuiet de furtuni
+Nu dispera âand luntrea-i sfărâmată
+Tu fii mereu puternic luptând în rugăciuni
+
+[c]
+Nu dispera, privește înainte
+Acolo-i țelul tău, acolo-i Țara ta
+Nu dispera ci roagă-te fierbinte
+Cu dragoste de Tată El te va ridica
+
+[v2]
+Nu dispera când inima îți plânge
+Când lacrimi curg pe fața și simți că ești uitat
+Căci trestia căzută El Domnul nu o frânge
+Tu luptă-n rugăciune căci și El a luptat
+
+[c2]
+O inima zdrobită El nu disprețuiește
+Iar mucul care arde nu-l stinge nicidecum
+Veghează și te roagă, în duh te întărește
+Cuvântul Sfânt să-ți fie o candela pe drum
+
+[v3]
+Nu disepera căci tu ai o nădejde
+Tu ai un tel, o țară, o patrie, un dor
+Nu ți-e aici menirea nu aici ți-e viitorul
+Ci prin credința-n Domnul tu ești nemuritor
+
+[c3]
+Rămâi, rămâi statorinic privește prin credința
+Căci vine și-i aproape și izbăvirea ta
+Fii treaz, veghează-n luptă
+Isus îți e alături, curaj nu dispera

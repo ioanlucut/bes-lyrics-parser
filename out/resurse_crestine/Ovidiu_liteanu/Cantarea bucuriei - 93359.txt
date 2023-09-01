@@ -1,0 +1,35 @@
+[title]
+Cantarea bucuriei {author: {Ovidiu Liteanu}, {rcId: {93359}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Sa rasune cantarea bucuriei
+Pentru Dumnezeu
+Si din inimi ce-s fara de-ntristare
+Sa-naltam pe Fiul Sau.
+
+[c]
+/: Aleluia, slava Tie
+Domnul nostru si-a lui Israel
+Aleluia, aleluia-i bucurie
+In prezenta Ta, Emanuel. :/
+
+[v2]
+Sa-i cantam un imn de bucurie
+Celui ce-a inviat
+E Cristosul cel asteptam sa vie
+Sfantul nostru Imparat.
+
+[v3]
+Si cand cant mereu cu-nflacarare
+Sa privim in sus
+Ca din ceruri ne vine izbavirea
+Vine Mirele Isus.
+
+[v4]
+Ca porumbeii ne-om inalta spre zare
+O ce bucurii
+Vom intra-n eterna sarbatoare
+Cand Isus ne va rapi.

@@ -1,0 +1,29 @@
+[title]
+Doamne te maresc acuma {author: {Aranj.Corneliu Radulescu}, {rcId: {1632}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Doamne, Te măresc acuma,
+Tu ești salvatorul meu!
+Prin Golgota, pe vecie,
+M-ai făcut copilul Tău.
+
+[c]
+O, Isus, Mântuitorul
+Sufletului meu sărman,
+M-ai răscumpărat pe cruce,
+M-ai scăpat de al meu dușman.
+
+[v2]
+Am umblat în întuneric,
+Multe eu am îndurat,
+Dar spre Tine, Doamne sfinte,
+Pașii mei s-au îndreptat.
+
+[v3]
+Viața mi-ai scăpat din moarte,
+Ochii mei Tu mi i-ai șters,
+Și pe drumul vieții sfinte
+Tu m-ai pus, și eu am mers.

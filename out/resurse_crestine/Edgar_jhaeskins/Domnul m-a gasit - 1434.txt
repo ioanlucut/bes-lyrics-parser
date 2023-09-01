@@ -1,0 +1,29 @@
+[title]
+Domnul m-a gasit {author: {Edgar J.Haeskins}, {rcId: {1434}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Domnul m-a găsit, povara mi-a luat
+Bucurii, speranță, pace el mi-a dat
+Mi-a spălat din suflet tot păcatul greu
+Prin sângele vărsat pe cruce-n locul meu.
+
+[c]
+Mântuit! Pe Domnul preamăresc
+Mântuit! Spre cer călătoresc
+Mântuit! Cu El în veci voi fi
+El m-a salvat și mă păzește-n orice zi.
+
+[v2]
+Domnul m-a găsit, iubirea lui mi-a dat
+Hainele ca neaua albe mi-a spălat
+Nu mă amenință judecata grea
+Eu sunt preafericit cu Domnului pururea.
+
+[v3]
+Domnul m-a găsit, odihna Lui mi-a dat
+Când urmez pe Domnul sunt netulburat
+Și aștept într-una strălucita zi
+Când Domnul cu mărire iarăși va veni.

@@ -1,0 +1,30 @@
+[title]
+In orice suflet {author: {Anonim}, {rcId: {189555}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În orice suflet, e-un tainic dor
+Aprins în noapte sau stins si gol.
+Dor de lumina, de vesnicie,
+Ascuns în inimi de Dumnezeu.
+
+[c]
+Poarta-ti lumina prin întuneric
+În noaptea far’ de nadejdi pe drum.
+Far neclintit sa-ti fie viata,
+Pasi sa-ndrepte pe drumul bun,
+Lasa-n inimi un dor de Cer.
+
+[v2]
+Pe calea noastra, se afla-aievea
+Lumini cazute si stinse-n vânt,
+Si multi încearca sa tina aprinsa
+O amagire, un dor strain.
+
+[v3]
+Sa lasi în urma, ploi de lumina
+Pe drumul celor ce-au ratacit,
+Arata calea, atinge inimi
+Si da speranta prin Duhul Sfânt.

@@ -1,0 +1,41 @@
+[title]
+Cand furtuni in viata vin {author: {Anonim}, {rcId: {78879}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Când furtuni în viață vin pe acest pământ străin
+Domne bun, ține-ți mâna asupra mea
+Pe genunchi în rugă-Ți cer să-mi ajuți Tu către cer
+Domne bun, ține-ți mâna asupra mea
+
+[c]
+/: Când drumul vieții e greu iar crucea mi se pare grea
+Atunci cu gândul la Calvar eu las povara mea
+Pe genunchi în ruga-ți cer să m-ajuți Tu către cer
+Domne bun, ține-ti mâna asupra mea :/
+
+[v2]
+Diavolul în nici o zi de necaz nu m-ar scuti
+Domne bun, ține-ți mâna asupra mea
+Când dușmani în cale-mi ies iar eu nu am de ales
+Domne bun, ține-ți mâna asupra mea
+
+[c2]
+/: Când drumul vieții e greu și calea mi se pare grea
+Atunci cu gândul la Calvar eu las povara mea
+Domane ție mă predau inima ție ți-o dau
+Domane bun fă din mine ce vrei tu :/
+
+[v3]
+Când dușmani în cale-mi stau pe Isus ca scut îl iau
+Doamne bun întindeți mâna asupra mea
+Doamne ție mă predeau și-a mea inima ți-o dau
+Domane bun fă din mine ce vrei tu :/
+
+[c3]
+/: Când drumul vieții e greu iar crucea mi se pare grea
+Atunci cu gândul la Calvar eu las povara mea
+Pe genunchi în rugă-ți cer să m-ajuți tu către cer
+Doamne bun ține-Ti mâna asupra mea :/

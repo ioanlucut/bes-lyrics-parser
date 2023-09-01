@@ -1,0 +1,35 @@
+[title]
+Tu stii cat te-am iubit de mult {author: {Anonim}, {rcId: {154820}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Tu știi cât Te-am iubit de mult
+În zorile vieții;
+Și-apoi de câte ori am plâns
+În zorii dimineții.
+
+[c]
+/: Cu Tine să rămân aș vrea
+Și-acum, și-n Veșnicie;
+Trăită după voia Ta,
+Viața mea să fie! :/
+
+[v2]
+Tu știi că Ți-am cântat ades’
+Un cântec de iubire;
+Și-acum aștept, cu dor aștept,
+Măreața Ta venire!
+
+[v3]
+Tu știi de câte ori Ți-am spus
+În versul de cântare,
+De câte ori Ți-am amintit
+De rana ce mă doare.
+
+[v4]
+Tu știi c-am plâns de-atâtea ori
+Trecutul vieții mele,
+Dar Tu mi-ai dat balsam, iubire,
+În sânge să mă spele.

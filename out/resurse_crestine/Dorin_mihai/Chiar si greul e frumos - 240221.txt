@@ -1,0 +1,40 @@
+[title]
+Chiar si greul e frumos {author: {Dorin Mihai}, {rcId: {240221}}
+
+[sequence]
+c,v1,v2,v3,c2
+
+[c]
+Chiar si greul e frumos
+Cand e trait cu Cristos
+El e viata El e calea catre cer
+El ne vine-n ajutor daca trecem prin cuptor
+Si prin El suntem mereu biruitori
+
+[v1]
+El e soarele neprihanirii mele
+El e bucuria mea in orice zi
+/; Chiar de noaptea este grea
+Nu ma tem ca-n viata mea
+E Isus ce stiu ca e de partea mea :/
+
+[v2]
+Ce minunat ca Domnul meu ma insoteste
+Ii simt prezenta Sa mereu si-s fericit
+/: De cand viata i-am predat
+Lumea-n spate am lasat
+Si ma-ndrept spre Canaanul minunat :/
+
+[v3]
+Domnul meu Isus e Domnul vietii mele
+El e cu mine-n bucurii si-n incercari
+Pace de la El primesc
+De aceea-i multumesc
+Si din toata inima mea il iubesc
+
+[c2]
+Cum sa nu ii cant mereu
+Lui Isus pastorul meu
+Ce e viu si intotdeauna langa mine
+/: De la El primesc in dar bucurii fara hotar
+Minunat si laudat e al Sau nume :/

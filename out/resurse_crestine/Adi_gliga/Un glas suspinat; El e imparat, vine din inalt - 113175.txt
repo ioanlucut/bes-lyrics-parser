@@ -1,0 +1,23 @@
+[title]
+Un glas suspinat; el e imparat vine din inalt {author: {Adi Gliga}, {rcId: {113175}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Un glas suspinat, jos pe fân uscat, maica geme
+În sărac lăcaș naște-un copilaș, Betleeme!
+
+[c]
+El e Împărat, vine din înalt
+Vine pentru tine, Israel!
+Mult ai suspinat și L-ai așteptat
+A venit la tine, Israel!
+El e Împărat, venea din înalt
+Venea pentru tine, Israel!
+L-ai crucificat, dar a înviat
+Viață are-oricine crede-n El!
+
+[v2]
+Ți s-a arătat, dar tu L-ai scuipat, refuzandu-L
+Slava I-ai văzut, dar nu L-ai crezut, condamnându-L!

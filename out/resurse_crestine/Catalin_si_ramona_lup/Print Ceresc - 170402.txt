@@ -1,0 +1,26 @@
+[title]
+Print ceresc {author: {Cătălin și Ramona Lup}, {rcId: {170402}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Ai venit pe pământ lumină aducând
+Și pacea să domnească peste noi.
+Chip de om ai luat, la slavă ai renunțat,
+Într-o iesle, Doamne Tu, ai fost născut.
+
+[c]
+Prinț Ceresc, din înalt, omenirea întreagă Tu ai împăcat.
+Ai ales drumul greu și-ai plătit pentru întreg păcatul meu!
+
+[v2]
+După ce-a fost născut, magii au venit
+Din Răsărit cu daruri, bucuroși.
+Fiind conduși de stea, au ajuns în fața Sa.
+Plecați pân’ la pământ s-au închinat.
+
+[e]
+Îngerul vestește nașterea lui Isus
+Și îndată cu el, îngeri se adună lăudând
+Pe Dumnezeu, pe Fiul Său!

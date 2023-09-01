@@ -1,0 +1,31 @@
+[title]
+Noapte minunata {author: {Benone Sinulescu}, {rcId: {141036}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Azi la iesle vin,
+Vin ca sa ma-nchin
+Vin la Domnul meu,
+Fiu de Dumnezeu.
+
+[c]
+Noapte minunata,
+Steaua se arata,
+Pruncul lumineaza.
+Ingeri se aduna,
+Cerul tot rasuna,
+De o veste buna.
+
+[v2]
+Oastea cea din cer,
+Lui Emanuel,
+Celui infasat,
+Laude i-au dat.
+
+[v3]
+Vin pastori-n graba,
+Pe Isus sa-l vada,
+Si s-au minunat,
+De tot ce-au aflat.

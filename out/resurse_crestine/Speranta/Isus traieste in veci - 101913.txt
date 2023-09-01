@@ -1,0 +1,36 @@
+[title]
+Isus traieste in veci {author: {Speranța}, {rcId: {101913}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: Vino la Isus, om pierdut
+Vino la El acum
+Așa cum ești, din păcat
+Vino la El acum :/
+
+[c]
+Isus trăiește în veci
+Isus e singurul Domn
+Fericire găsești
+Dacă la El te-ntorci
+
+[v2]
+/: Tu vei găsi iertare în dar
+La crucea din Golgota
+Doar să Îi dai și tu în schimb
+În dar inima ta :/
+
+[v3]
+/: ”
+Chemarea Lui nu-i pentru mine”
+Astăzi nu-L refuza
+Căci tu nu știi cât vei trăi
+Astăzi nu-L amâna :/
+
+[v4]
+/: Viață și pace Tu vei avea
+Dacă Lui Îi slujești
+Și-o veșnicie te vei bucura
+În locurile cerești :/

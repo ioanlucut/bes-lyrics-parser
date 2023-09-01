@@ -1,0 +1,29 @@
+[title]
+Esti domn peste tot {author: {Sara Pintilei}, {rcId: {204897}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+/: Ești Domn peste tot, smerit și blând
+Și totuși ramâi Domn în veșnicii
+Isus, nume presus de orice nume
+Vrednic ești Tu să fii mereu lăudat
+Să fii mereu lăudat. :/
+
+[c]
+Aleluia, Aleluia, Aleluia, Aleluia!
+
+[v2]
+/: Domn al Slavei ești Tu mai sus de galaxii
+Universul întreg Te va slăvi
+Domn al domnilor, peste cer si pământ
+Vrednic ești Tu să fii mereu lăudat
+Să fii mereu lăudat. :/
+
+[e]
+Cu toții să cântăm, pe Domnul să lăudăm,
+Căci El ne-a iubit și El ne-a iertat!
+Cu toții să cântăm, pe Domnul să lăudăm,
+În Cer locaș ne-a dat
+Al nostru Împărat, al nostru Împărat.

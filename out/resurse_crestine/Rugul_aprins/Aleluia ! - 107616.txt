@@ -1,0 +1,41 @@
+[title]
+Aleluia {author: {Rugul aprins}, {rcId: {107616}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,e
+
+[v1]
+/: Aleluia! Ție ne-nchinăm!
+Aleluia! Numele-Ți cântăm!
+Aleluia! Tu ești Cel Preasfânt!
+Aleluia! Ție ne-nchinăm pe-acest pământ. :/
+
+[c]
+/: Tu ești Domnul, ai creat întregul Univers,
+Marea, stelele, luna, soarele Tu le-ai creat! :/
+
+[v2]
+/: Sfânt e Numele Tău! Sfânt e Numele Tău!
+Ești unicul Dumnezeu! :/
+
+[v3]
+/: Tu ești Sfântul, ești Lumina lumii pe pământ,
+Alfa și Omega, singur Stăpân pe Terra, ești Dumnezeu, ești Dumnezeu! :/
+
+[v4]
+/: Sfânt e Numele Tău! Sfânt e Numele Tău!
+Ești unicul Dumnezeu! :/ x2
+
+[v5]
+/: Sfânt e Numele Tău! Sfânt e Numele Tău!
+Ești unicul Dumnezeu! :/ x4
+
+[v6]
+/: Aleluia! Ție ne-nchinăm!
+Aleluia! Numele-Ți cântăm!
+Aleluia! Tu ești Cel Preasfânt!
+Aleluia! Ție ne-nchinăm pe-acest pământ. :/
+
+[e]
+Ție ne-nchinăm pe-acest pământ,
+Pe-acest pământ!

@@ -1,0 +1,31 @@
+[title]
+Eu ma incred in domnul {author: {Anonim}, {rcId: {827}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Eu mă încred în Domnul
+În Domnul Dumnezeu
+Care-a trimis în lume pe sfânt copilul Său
+Eu mă încred în Domnul
+Care mult m-a iubit
+Care-a venit în lume, care m-a mântuit!!!
+
+[c]
+/: Îi cânt mereu :/ x3
+Lui Dumnezeu
+/: Îi cânt mereu :/ x3
+Fiului Său!
+
+[v2]
+Eu mă încred în Domnul, e cu mine mereu
+Îmi poartă mereu pasul, în drumul către cer
+Eu mă încred în Fiul, e cu mine mereu
+Suspină, mijlocește, m-ajută când mi-e greu!
+
+[v3]
+Eu mă încred în Domnul, în Domnul Dumnezeu
+El mi-a promis și raiul, de cred în Fiul Său!
+Eu mă încred în Fiul care mă va chema
+Când va veni sfârșitul să merg în slava Sa!

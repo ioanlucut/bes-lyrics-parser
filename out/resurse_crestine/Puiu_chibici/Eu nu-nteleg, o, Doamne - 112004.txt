@@ -1,0 +1,51 @@
+[title]
+Eu nu-nteleg o doamne {author: {Puiu Chibici}, {rcId: {112004}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Eu nu-nțeleg, o, Doamne
+Deplin a Ta iubire
+Dar știu că-n astă lume
+Doar Tu îmi dai fericire.
+Eu nu-nțeleg, Isuse
+Cum Te-ai plecat spre mine
+Dar pacea mea, o, Doamne
+E numai lângă Tine.
+
+[c]
+Nu vreau nici slava lumii
+Nu vreau nici bogăție
+Te vreau pe Tine, Doamne
+Izvor de bucurie.
+
+[v2]
+Eu nu-nțeleg, o, Doamne
+Deplin a ta îndurare
+Dar știu că Tu adesea
+Ne-o dai la fiecare
+Eu nu înțeleg, o, Doamne
+Cum Te-ai plecat spre mine
+Dar drumul vieții mele
+Aș vrea să merg cu Tine.
+
+[v3]
+Eu nu-nțeleg, o, Doamne
+Deplin a ta lucrare
+Dar știu că tu ești vrednic
+De-adâncă închinare.
+Eu nu-nțeleg, o, Doamne
+Deplin a ta iertare
+Dar cântul vieții mele
+E sfânta adorare.
+
+[v4]
+Eu nu-nțeleg, o, Doamne
+Ce dor ai pus în mine
+Dar știu că-n veșnicie
+Aș vrea să fiu cu tine.
+Eu nu-nțeleg, o, Doamne
+Măreața Ta lucrare
+Dar știu că-n cer, aiciea
+Să stau în ascultare.

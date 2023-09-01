@@ -1,0 +1,39 @@
+[title]
+Cu lacrimi noi ne bucuram {author: {Puiu Chibici}, {rcId: {151429}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cu lacrimi noi ne bucurăm
+Când ne rugăm sau când cântăm,
+/: Căci lacrimile, câte sunt,
+Vin din Etern, din Duhul Sfânt. :/
+
+[c]
+Așa e când ești cercetat,
+De Dumnezeu ești mângâiat,
+În zori de zi sau în amurg
+Simți lacrimi cum pe-obraz îți curg,
+În zori de zi sau în apus
+Simți mângâierea sfântă a lui Isus.
+
+[v2]
+Când lacrimile se preling,
+Într-un burduf mereu se strâng
+/: De Cel ce a plâns cândva și El,
+Isus Hristos, Emanuel. 1
+Isus Hristos, Isus, Emanuel 2 :/
+
+[v3]
+Și-n bucurii și-n întristări,
+Când plângi primești de sus puteri,
+/: Și-atunci când duhul ți-e zdrobit, 1
+Și-atunci când duhul ți-e mâhnit 2
+De Dumnezeu tu ești iubit. :/
+
+[v4]
+Așa ne bucurăm ades,
+Dar acest drum noi l-am ales,
+Căci fericiți sunt cei ce plâng
+Și la sfârșit în cer ajung.

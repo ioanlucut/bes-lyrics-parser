@@ -1,0 +1,25 @@
+[title]
+Sunt un om neinsemnat {author: {Cristina_Toma}, {rcId: {241360}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Sunt un om neînsemnat pe pământ;
+Vreau, vreau dragostea Ta să o simt!
+Tu ești tot, ești al meu Isus!
+Ești cărarea care duce în ceruri, sus!
+
+[c]
+Ești cel ce mă învață,
+Cel ce îmi dă speranță! Ești inima mea!
+Ești dragostea care,
+N’ are asemănare cu altcineva!
+Tu exiști! Tu ești viața mea de vis!
+Viața care duce azi spre Paradis!
+
+[v2]
+Știu, știu că mă iubești neîncetat!
+Vreau de Tine să fiu mângâiat!
+Tu mă ierți atunci, când greșesc!
+Deci, rămâi al meu pe veci, Tată ceresc!

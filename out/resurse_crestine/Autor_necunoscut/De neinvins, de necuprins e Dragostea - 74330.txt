@@ -1,0 +1,35 @@
+[title]
+De neinvins de necuprins e dragostea {author: {Anonim}, {rcId: {74330}}
+
+[sequence]
+v1,c,v2,c2,e
+
+[v1]
+De neînvins, de necuprins e Dragostea
+Și peste mări și peste zări străbate ea.
+
+[c]
+/: Din cer de sus veni Isus
+Și se jertfi
+Ca eu să știu că Dumnezeu,
+Chiar Tatăl meu
+E Dragostea :/
+
+[v2]
+De neînvins, de necuprins e Dragostea.
+Ea rabdă tot, ea crede tot și-n veci va sta.
+
+[c2]
+/: Când e pustiu și când sub cer
+Mă simt stingher
+Și-atunci știu că Dumnezeu,
+Chiar Tatăl meu
+E Dragostea. :/
+
+[e]
+De-aș avea credință să mut munții
+Și de cunoștință aș fi plin
+/: De-s străin de iubire
+Eu nimic nu sunt
+Dar, de sunt din iubire
+Biruiesc și-n mormânt :/

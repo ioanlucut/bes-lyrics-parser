@@ -1,0 +1,21 @@
+[title]
+Din palme bat {author: {M, Kidz}, {rcId: {6592}}
+
+[sequence]
+c,v1,c
+
+[c]
+/: Din palme bat și spun ”
+Te iubesc”
+Isuse vreau să sar
+Să Te laud și să cânt mereu
+Căci totul pentru mine ești
+Isus eu Te iubesc. :/
+
+[v1]
+Prieten Tu-mi ești
+Ca Tine nimeni nu-i
+Și vreau să-Ți mulțumesc
+Pentru c-ai murit
+Tu Te-ai jerfit
+Să-mi iei păcatul cel greu pe veci.

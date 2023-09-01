@@ -1,0 +1,29 @@
+[title]
+Betleeme betleeme {author: {Cristian și Cristiana Văduva}, {rcId: {84909}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Betleeme, Betleeme
+Ce micuț era
+Căci în el s-a născut Isus
+Domnul Mesia :/
+
+[c]
+Ce cântare și ce slavă
+Minunată zi
+Când se duse la Păstori
+Îngerul le vestii.
+
+[v2]
+/: Până-n veci te rog Isuse
+Cu noi să rămâi
+Și pe-acet pământ
+Și-acolo sus în veșnicii :/
+
+[v3]
+/: Și la toți cânta-vor
+Prunci de nașterea Ta
+Căci nu-I nimeni
+Că și Tine-n veci Aleluia :/

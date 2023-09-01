@@ -1,0 +1,27 @@
+[title]
+Ne iarta doamne {author: {Anonim}, {rcId: {55619}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Ne iarta Doamne, greseala noastra,
+Ne iarta Doamne, noi Te rugam,
+Nainte Isus, al nostru Mire,
+Si noi cu totii, Te vom vedea.
+
+[c]
+/: Suspin intr-una, o Domnul meu,
+Un foc ma arde,-nauntrul meu,
+Nu pot sa uit iubirea Ta,
+E cea mai mare, e Dragostea :/
+
+[v2]
+Vino, Isus, intareste sufletul din noi,
+Vino, Isus, mie dor si Te astept sa vii.
+
+[c2]
+/: O porumbita, dintre stanci,
+Mai ai rabdare, chiar daca plangi,
+Ca-ci iti va sterge, lacrima ta,
+Si te va duce, in odihna sa :/

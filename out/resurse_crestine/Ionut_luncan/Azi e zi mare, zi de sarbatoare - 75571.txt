@@ -1,0 +1,31 @@
+[title]
+Azi e zi mare zi de sarbatoare {author: {Ionut Luncan}, {rcId: {75571}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Azi e zi mare, zi de sărbătoare,
+Și fiecare e vesel mulțumit.
+
+[c]
+Fraților, surorilor,
+ /: bine :/ x3 venit la noi
+Fraților, surorilor,
+ /: bine :/ x3 venit
+
+[v2]
+Din alte sate mai îndepărtate,
+Ca la un frate cu drag noi am venit.
+
+[v3]
+De n-aveți mese, nici mâncări alese,
+Pentru aceasta să nu vă-ngrijorați.
+
+[v4]
+Masa e cântul, mâncarea-i cuvântul,
+Și Duhul Sfânt ne dă tot ce dorim noi.
+
+[v5]
+Prin vijelie, prigoană și furtună,
+Domnul cel mare pe noi ne va păzi.

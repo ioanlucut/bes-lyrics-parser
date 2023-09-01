@@ -1,0 +1,35 @@
+[title]
+Eu am iubire pace bucurie-n sufletul meu {author: {Leleu Niculae}, {rcId: {75266}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Eu am iubire, pace,
+Bucurie-n sufletul meu
+În sufletul meu
+Eu am iubire, pace,
+Bucurie-n sufletul meu
+Că-l am pe Dumnezeu
+
+[c]
+Sunt plin de pace și bucurie,
+Iubirea lui Isus e-n viața mea
+Sunt plin de pace și fericire
+Isus mi-a dat chiar din iubirea Sa
+
+[v2]
+Eu am lumină, viață
+Și credință-n Domnul Isus
+În Domnul Isus, în Domnul Isus
+Eu am lumină, viață
+Și credință-n Domnul Isus
+Și darul Său de sus
+
+[v3]
+Noi ne-am născut din nou
+Ca Nicodim în Domnul Isus
+În Domnul Isus, în Domnul Isus.
+Noi ne-am născut din nou
+Ca Nicodim în Domnul Isus
+Și prin al Său Cuvânt

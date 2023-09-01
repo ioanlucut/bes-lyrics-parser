@@ -1,0 +1,14 @@
+[title]
+Daca este cineva {author: {Anonim}, {rcId: {5197}}
+
+[sequence]
+v1,c
+
+[v1]
+/: Dacă este cineva în Cristos :/
+Este o făptură nouă
+Cele vechi s-au dus și toate sunt noi
+
+[c]
+/: Toate lucrurile sunt noi
+Când Isus intră în viața ta :/

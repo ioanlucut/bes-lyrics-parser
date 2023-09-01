@@ -1,0 +1,35 @@
+[title]
+Isuse pentru mine {author: {Anonim}, {rcId: {1467}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Isuse, pentru mine
+Cerul ai părăsit
+De străluciri mărețe
+Doamne, Te-ai despărțit.
+
+[c]
+În locul meu Isuse
+Pe cruce ai murit.
+Tu, Domnul meu Isuse
+În veci să fi slăvit.
+
+[v2]
+Isuse, pentru mine
+Sărac Tu ai trăit.
+La Tine orișicine
+Refugiul și-a găsit.
+
+[v3]
+Isuse Salvatorul
+Prin Tine-s mântuit
+De când trăiești în mine
+Mă simt preafericit.
+
+[v4]
+Vreau să-Ți cânt numai Ție
+La bine și la rău
+Tu-mi ești Mântuitorul
+Iar eu copilul Tău.

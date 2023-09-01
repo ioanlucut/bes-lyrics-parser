@@ -1,0 +1,29 @@
+[title]
+Asculta doamne strigatele mele {author: {Anonim}, {rcId: {55562}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ascultă, Doamne, strigătele mele,
+Și ia aminte la rugăciunea mea,
+Mie inima mâhnită de durere,
+Te rog, ascultă rugăciunea mea!
+
+[c]
+Du-mă, du-mă pe stânca ce n-o pot ajunge,
+E prea, e prea înaltă c-a s-o pot urca,
+/: Întinde-Ți brațul, ridică-mă din valuri,
+Și valul nu mă poate îneca :/
+
+[v2]
+Din capătul pământului Te strig,
+Tu ai putere, Doamne, să m-asculți,
+Ești adăpost și turn în încercare,
+Și la necaz, Doamne, Tu mă asculți.
+
+[v3]
+Sub adăpostul aripilor Tale,
+Doresc s-alerg mereu în încercare,
+Căci ești milos, bogat în îndurare,
+Eu voi cânta mereu a Ta-ndurare.

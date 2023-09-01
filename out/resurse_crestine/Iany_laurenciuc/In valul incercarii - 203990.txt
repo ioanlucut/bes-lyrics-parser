@@ -1,0 +1,46 @@
+[title]
+In valul incercarii {author: {Iany Laurenciuc}, {rcId: {203990}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+În valul încercării, atunci când eu am fost,
+Isus mi-ai fost scăparea, un turn de adăpost!
+În mijlocul furtunii duios Tu mi-ai vorbit,
+/: Când am strigat: ”
+Rabuni!”, la mine Ai venit! :/
+
+[c]
+Doar Tu mi-ai adus fericirea,
+La Tine alerg când mi-e greu,
+În Tine-mi găsesc împlinirea,
+În Tine, al meu Dumnezeu!
+
+[v2]
+În valul încercării tu, frate, dacă ești,
+Prin ceața îngrijorării la Domnul să privești!
+Nu te-nfrica de valuri, când urlă-n jurul tău,
+/: Privește către ceruri, cu tine e Dumnezeu! :/
+
+[c2]
+Doar El este a ta ocrotire,
+La El să alergi când ți-e greu,
+Te-așteaptă să vii cu iubire,
+Te-așteaptă să-I spui păsul tău!
+
+[v3]
+Sunt plin de bucurie, că am un Salvator,
+În drum spre veșnicie Isus mi-e ocrotitor!
+M-a ridicat din tină, atunci când am strigat,
+/: Mi-a dat din cer lumină, cu plâns când L-am chemat! :/
+
+[c3]
+Isus ești a mea fericire,
+Sunt vesel, Îți cânt Domnul meu!
+Tu-mi dai cântări de bucurie,
+Să-Ți cânt când urcușul e greu!
+Doar Tu mi-ai adus fericirea,
+La Tine alerg când mi-e greu,
+În Tine-mi găsesc împlinirea,
+În Tine, al meu Dumnezeu!

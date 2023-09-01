@@ -1,0 +1,46 @@
+[title]
+Indrazneste {author: {Daniel Briciu}, {rcId: {240348}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O mulțime nesfârșită îl urma pe drum
+Pe Isus ce iat-acum se oprește
+Și-o femeie din norod s-a atins de El
+Iar Isus i-a răspuns: „
+Îndrăznește!”.
+
+[c]
+Îndrăznește și vino la Isus acum
+Îndrăznește și vino la El
+Fă un pas către El, căci azi trece pe drum
+Nu auzi tu un glas ce te cheamă cu drag:
+„
+Îndrăznește!”.
+Îndrăznește și vino la Isus acum
+Îndrăznește și vino la El
+Fă un pas către El, căci azi trece pe drum
+Nu auzi tu un glas ce te cheamă cu drag:
+„
+Îndrăznește!”.
+/: Îndrăznește și vino la Isus acum
+Îndrăznește și vino la El
+Fă un pas către El, căci azi trece pe drum
+Nu auzi tu un glas ce te cheamă cu drag:
+„
+Îndrăznește!”. :/
+
+[v2]
+Pe la margini de drum Bartimeu striga:
+„
+O, Isuse, fie-ți milă, te oprește”
+Și-au venit ucenicii ca să-i spun-așa:
+„
+Ești chemat la Isus, îndrăznește!”
+
+[v3]
+Dar și azi ca și-atunci Domnul trece pe drum
+Și în dreptul oricui se oprește
+Dacă vrei ca să fii vindecat și iertat
+El te cheamă să vii, îndrăznește.

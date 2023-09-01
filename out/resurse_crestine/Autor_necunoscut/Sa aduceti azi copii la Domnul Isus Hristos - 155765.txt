@@ -1,0 +1,29 @@
+[title]
+Sa aduceti azi copii la domnul isus hristos {author: {Anonim}, {rcId: {155765}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Să aduceți azi copiii
+La Domnul Isus Hristos!
+El îi binecuvântează,
+Căci vă este de folos.
+
+[c]
+/: Copiii voști, cei mari și mici,
+Pe brațe El îi va lua,
+Așteaptă azi ca să-i aduci,
+Și îi va binecuvânta. :/
+
+[v2]
+Nu respinge El copiii,
+Ci-i primește bucuros!
+El îi învață calea vieții,
+Să le fie de folos.
+
+[v3]
+Isus n-a respins pe nimeni,
+La El care a venit,
+I-a primit cu bucurie,
+Ori și cât ar fi greșit.

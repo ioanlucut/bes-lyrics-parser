@@ -1,0 +1,45 @@
+[title]
+Cant: "aleluia lui isus {author: {Adi Gliga}, {rcId: {5855}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+Cant: „
+Aleluia!” lui Isus,
+/: Cant: „
+Aleluia! Aleluia!” :/
+Cant: „
+Aleluia!” lui Isus. :/
+
+[v2]
+Cinste-I aducem lui Isus.
+/: Cinste-I aducem!
+ /:
+Cinste-I aducem lui Isus. :/
+
+[v3]
+Glorie cantam lui Isus.
+/: Glorie cantam! :/
+Glorie cantam lui Isus.
+ /:
+
+[v4]
+Slava-I aducem lui Isus.
+/: Slava-I aducem! :/
+Slava-I aducem lui Isus. :/
+
+[v5]
+Marire lui Isus! Amin.
+/: Marire lui Isus! :/
+Marire lui Isus! Amin. :/
+
+[v6]
+Lui ne-nchinam ne’ncetat.
+/: Lui ne-nchinam! :/
+Lui ne-nchinam ne’ncetat. :/
+
+[v7]
+Glorie lui Isus! Amin.
+/: Glorie lui Isus! :/
+Glorie lui Isus! Amin. :/

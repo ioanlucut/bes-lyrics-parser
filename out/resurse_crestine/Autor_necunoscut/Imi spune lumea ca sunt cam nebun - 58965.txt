@@ -1,0 +1,50 @@
+[title]
+Imi spune lumea ca sunt cam nebun {author: {Anonim}, {rcId: {58965}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Îmi spune lumea că sunt cam nebun
+De ce-am pornit-o pe-a credinței drum
+Isus îmi spune că-i bine așa
+Resping de-aceea ce-mi spunea lumea
+Îmi spune lumea că sunt cam bigot
+Că sunt redus și-a gândi nu prea pot
+Isus îmi spune că sunt mântuit
+Eu cred aceasta și sunt fericit.
+
+[c]
+/: Mă-ncred în Isus, în ce spune El
+Mă-ncred în Isus,
+ /: mă-ncred :/ x3 în El :/
+
+[v2]
+Îmi spune lumea: din maimuță te tragi
+Materie-i tot ce ești și ce faci
+Biblia-mi spune că în Dumnezeu
+Este originea chipului meu
+Îmi spune lumea că nu este rai
+Doar pe pământ șansa vieții tu o ai
+Isus îmi spune că-n cer a plecat
+Să-mi pregătească un loc minunat
+
+[v3]
+Îmi spunea lumea că ea a aflat
+O împlinire în ce e păcat
+În flirt, în bere și în îmbuibări
+În meci, în filme, în destrăbălări
+Isus îmi spune să las ce e rău
+Există-n ceruri un sfânt Dumnezeu
+Lumea de toate socoteală va da
+În ziua când va fi judecata
+
+[v4]
+Ce spui acuma acel ce m-asculți
+Cu lumea, sau cu Isus tu te lupți?
+Spune-mi acuma cu cine votezi?
+Cine-adevărul îl spune, ce crezi?
+E sfatul meu ca să crezi în Isus
+Să-ți schimbi viața și să-i fii supus
+Treci chiar acum în familia Sa
+Nu asculta ce-ți spune lumea.

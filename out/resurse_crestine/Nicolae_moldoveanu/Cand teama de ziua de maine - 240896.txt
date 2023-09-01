@@ -1,0 +1,41 @@
+[title]
+Cand teama de ziua de maine {author: {Nicolae Moldoveanu}, {rcId: {240896}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Când teama de ziua de mâine
+Frământă viața mea,
+Un har mai puternic Stăpâne,
+Revarsă-Ți Tu în ea!
+
+[c]
+Să trăiesc, să trăiesc cu putere
+Liniștit ziua, sfântă de az’
+/: Căci în mâine trăind e durere,
+Și-ntuneric și chin și necaz! :/
+
+[v2]
+Când planuri de mâini mă apasă
+Și-mi fur-al păcii har,
+Păstrează-mă-n dulcea Ta Casă,
+Și odihnă dă-mi Tu iar!
+
+[c2]
+Să trăiesc, să trăiesc cu credință,
+Ziua sfântă de azi, mai frumos,
+/: Căci altfel nu va fi cu putință,
+Să-mi păstrez bucuria-n Hristos! :/
+
+[v3]
+Pe ziua de mâini totdeauna,
+Tu singur ești Stăpân,
+O grijă să am - numai una:
+În Tine să rămân!
+
+[c3]
+Să nu port grija zilei de mâine,
+Căci aceasta mă trage-n păcat,
+/: Să trăiesc, o, Isus, pentru Tine,
+Ziua sfântă de azi, ce mi-ai dat! :/

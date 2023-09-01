@@ -1,0 +1,40 @@
+[title]
+Cin se roaga pentru tara? {author: {David Stănuș}, {rcId: {183581}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Cin’ se roagă pentru țară, cine o va izbăvi?
+Și acest Exod în masă, oare când se va opri?
+Numai mâna Celui Veșnic poate astăzi ridica,
+Te-ai gândit ce mult contează, frate, rugăciunea ta?
+
+[c]
+/: Azi copiii plâng mereu,
+Când mai vine tatăl meu?
+Când mai vine mama mea?
+Că mi-e tare dor de ea. :/
+
+[v2]
+Tu ridică-ți astăzi glasul către tronul Lui de har,
+Ca pe vremea lui Ilie să-ți trimită foc pe-altar.
+Tu ridică-ți astăzi mâna, strigă către Dumnezeu:
+„
+Binecuvintează țara, România, Domnul meu!”
+
+[v3]
+Strigă astăzi cu putere: „
+Iartă Doamne țara mea!
+Dă-i Tu binecuvântarea și îndură-te de ea.”
+Când a fost ultima oară, Domnului când te-ai rugat
+Pentru țara-n care, cândva, Dumnezeu viață ți-a dat?
+
+[e]
+Va veni-n curând o zi,
+Nu ne vom mai despărți
+Și vom fi de-a pururea în Împărăția Ta!
+Doamne numai mâna Ta
+Poate țara vindeca
+Ne rugăm și-ți mulțumim,
+Noi cu Tine vrem să fim.

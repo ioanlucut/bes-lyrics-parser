@@ -1,0 +1,25 @@
+[title]
+Tu imi esti puterea cand sunt slab {author: {Narcis Popa}, {rcId: {218469}}
+
+[sequence]
+v1,v2,e
+
+[v1]
+Tu îmi ești puterea când sunt slab,
+Tu îmi ești comoara pe care o caut,
+Ești totul în toate,
+Căutându-Te ca pe o bijuterie prețioasă,
+Doamne, să renunț aș fi un fățarnic
+Ești totul în toate.
+
+[v2]
+Luându-mi păcatul meu, crucea și rușinea mea
+Răsărind din nou, îți binecuvânt Numele
+Ești totul din toate,
+Când cad Tu, mă ridici.
+Când sunt gol, Tu-mpli vasul.
+Ești totul în toate
+
+[e]
+Iisuse, Mielul lui Dumnezeu,
+Vrednic este numele Tău. x2

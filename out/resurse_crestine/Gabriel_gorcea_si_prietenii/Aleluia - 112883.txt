@@ -1,0 +1,28 @@
+[title]
+Aleluia {author: {Gabriel Gorcea și prietenii}, {rcId: {112883}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Aleluia, Aleluia, Aleluia,
+Isus e Rege peste regi. :/
+
+[c]
+/: El e Domn și Împărat,
+Isus e Rege peste regi.
+Ce minunat! :/
+/: Dați-I cinste și onoare Lui,
+El merită închinarea.
+Glorie Mielului! :/
+/: Să fim pregătiți de-a-L întâmpina,
+Isus revine în curând.
+Maranata! :/
+
+[v2]
+/: Aleluia, Aleluia, Aleluia,
+El merită închinarea.
+
+[v3]
+/: Aleluia, Aleluia, Aleluia,
+Isus revine în curând.

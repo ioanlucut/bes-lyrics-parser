@@ -1,0 +1,29 @@
+[title]
+Vesel salta clocoteste {author: {Anonim}, {rcId: {74507}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Vesel saltă, clocotește
+Murmurând pe lângă stânci
+Și așa se prăbușește
+Pârâiașu-n văi adânci.
+
+[c]
+/: Mult îmi placi, pârâu, pârâu de munte
+Apă rece din izvor curat
+Pentru tine-nalț, înalț cântarea
+Slavă Cui mi te-a creat! :/
+
+[v2]
+Vezi cum pasărea se-adapă
+Din izvor răcoritor
+Și, deși vrea numai apă,
+Cântă așa-nveselitor!
+
+[v3]
+Apa mișcă lumea toată
+Și, celor ce beau din ea,
+Le dă viață, sănătate
+Apa-i băutura mea!

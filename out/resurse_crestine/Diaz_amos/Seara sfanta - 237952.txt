@@ -1,0 +1,27 @@
+[title]
+Seara sfanta {author: {Diaz Amos}, {rcId: {237952}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Seară sfântă, îngeri cântă pe înaltul cer sublim,
+În scump glas cântăm cu toții cântecul de pace, lin.
+Seară sfântă, îngeri cântă chiar și-n casa cea de jos,
+Într-un staul stă fecioara, îngrijind pruncul frumos!
+
+[c]
+O seară sfântă de Crăciun, ne luminează viața
+Ne îmbibă cu splendori în tăcuta dimineață!
+
+[v2]
+Seara de aur înconjoară valea cu parfumul ei,
+Pe colinele de azur trec magii, păstori cu miei.
+Iar în brațe-le cuprind: smirnă, tămâie și aur,
+Doresc Pruncului să-I ducă, închinându-se în staul!
+
+[v3]
+Seară tu transformi clipele în momente de rubin,
+Când tăcuți și emoționați înaintea Ta venim.
+Dorim daruri să-Ți aducem Pruncule din iesle, sfânt
+Copilaș ce ești de aur, noi Te onorăm cântând!

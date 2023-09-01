@@ -1,0 +1,33 @@
+[title]
+I-am spus inimii {author: {Cătălin Ciuculescu}, {rcId: {157776}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+I-am spus inimii din mine într-o zi,
+Să Te caute pe Tine orice-ar fi.
+De nu Te va găsi, i-am spus,
+Să nu mai vină înapoi.
+Viața fără Tine n-are nici un rost,
+Doamne sunt pierdut, nu am adăpost.
+Știu că am greșit, Te rog,
+Iar la mine să Te întorci.
+
+[c]
+/: Căci fără Tine nu pot trăi,
+Da, fără Tine nu pot iubi,
+Iar viața mea nu valorează nimic,
+Dacă nu ești Tu în ea. :/
+
+[v2]
+Știu că lângă Tine rău nu poate fi,
+Leagă-mă de Tine pentru veșnicii.
+Tu ești tot ce vreau, o da,
+Ține-mă în mâna Ta.
+
+[b]
+Vreau să cred cum nu am mai crezut,
+Vreau să văd cum nu am mai văzut,
+Doar iubirea Ta îmi dă un sens,
+/: Doamne învață-mă, Te rog, cum să iubesc! :/

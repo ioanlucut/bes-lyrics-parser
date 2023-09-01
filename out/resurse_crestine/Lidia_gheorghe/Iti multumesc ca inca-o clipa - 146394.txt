@@ -1,0 +1,33 @@
+[title]
+Iti multumesc ca inca-o clipa {author: {Lidia Gheorghe}, {rcId: {146394}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Îți mulțumesc că incă-o clipă
+Mai sunt copilul tău!
+/: Încă o zi, încă o noapte
+Mă ții prin harul Tău.
+/:
+
+[v2]
+Prin zbuciumul aprins al vieții,
+Valuri, furtuni, izbesc mereu;
+/: În barca noastră ce ne poartă,
+Ne faci biruitori mereu.
+/:
+
+[v3]
+Mi-ai ascultat ruga și plânsul.
+Ai rezolvat și cazul meu!
+/: Că nu puteam să-alerg la nimeni;
+Mi se părea așa de greu.
+/:
+
+[v4]
+Te rog din suflet! O, Isuse!
+Să fii cu mine tot mereu!
+/: Tu-mi ești tăria-mi-ești speranța,
+Ești Cel ce mă ridici din greu!
+/:

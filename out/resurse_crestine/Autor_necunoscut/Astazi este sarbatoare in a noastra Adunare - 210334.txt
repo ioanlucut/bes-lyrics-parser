@@ -1,0 +1,35 @@
+[title]
+Astazi este sarbatoare in a noastra adunare {author: {Anonim}, {rcId: {210334}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Astazi este sarbatoare
+In a noastra adunare
+Doua inimi se unesc
+Cu Dumnezeu azi pasesc
+
+[c]
+Ca si Rebeca si Isaac
+Fiti un exemplu de urmat
+Domnul va face fericiti
+De-acum si-n veci de veci Amin.
+
+[v2]
+Doamne fi in viata lor
+Ca un bun ocrotitor
+Da-le-n viata fericire
+Sa ramana in Tine
+
+[v3]
+Condu-i pe a vietii cale
+In necazuri si-ncercari
+Da-le binecuvantare
+Departeaza-l de dureri
+
+[v4]
+Si acum la despartire
+Tu mireasa si tu mire
+Voi pe Domnul s-ascultati
+Ca Rebeca si Isaac

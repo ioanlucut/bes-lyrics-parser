@@ -1,0 +1,53 @@
+[title]
+Inc-un an pe firul vietii {author: {Anonim}, {rcId: {1474}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Înc-un an pe firul vieții,
+Zi după zi s-a-nfășurat acum complet.
+Bucuriile au trecut iute
+Dar tristeți și dureri s-au scurs încet.
+
+[c]
+Cine poate ști ce-aduce anul
+Care-n față stă ca un mister?
+Va aduce el o alinare
+Celor ce mereu o cer?
+
+[v2]
+Înc-un an a smuls din inimi
+Pe-unii dragi și iubiți din jurul nost’;
+Au plecat plini de nădejde
+Sau de groază c-au trăit fără rost.
+
+[c2]
+Cine poate ști ce-aduce anul?
+Câți prin el vom mai putea păși?
+Va fi oare el o întâlnire
+Sau pe mulți va despărți.
+
+[v3]
+Înc-un an. Ce-nseamnă-aceasta?
+E un nou, un nou tribut din viața ta.
+Cearcă-te ce fel de lucruri
+Ai plătit și care e valoare lor?
+
+[c3]
+Cine poate ști ce-aduce anul,
+Dacă-n el te vei putea trezi?
+Sau e-nfășurat mai tare-n noapte,
+Fără Domnul vei trăi?
+
+[v4]
+Ani și ani prin taina vieții...
+Nu lua în deșert cursul lor!
+Înapoi nu-i poți a-i întoarce,
+Ci grăbește-te să fii în pasul lor.
+
+[c4]
+Dacă pe Isus păstrezi în viață,
+Barca ta îți va pluti ușor,
+Și-ai să poți trăi fără de teamă
+Chiar de anii trec în zbor!

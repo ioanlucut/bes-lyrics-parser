@@ -1,0 +1,45 @@
+[title]
+An de an {author: {Adriana Stoica}, {rcId: {79180}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+An de an, clipă de clipă,
+Domnul meu m-ai așteptat,
+/: Să mă-ntorc din nou la Tine,
+Să nu mai stau în păcat :/
+
+[c]
+/: Am umblat pe căi străine,
+Prin lume am rătăcit,
+Dar iubirea Ta cea mare
+Și acolo m-a găsit :/
+
+[v2]
+An și an, zile de-a rândul,
+Doamne, Tu m-ai așteptat,
+/: Ca să mă trezesc din starea
+Grea în care m-am aflat! :/
+
+[c2]
+/: Căci viața-așa se duce
+Ca și cum nu ar fi fost.
+Eu Te-aștept să vii, o, Doamne,
+Căci la Tine m-am întors :/
+
+[v3]
+Astazi m-am întors la Tine
+Și sunt tare fericit,
+/: Căci la Tine am găsit pacea
+După care am tânjit :/
+
+[c3]
+Nu mai vreau să ajung în lume,
+Să mai fac ce am făcut,
+Vreau să fiu smerit pe cale,
+Ca să pot fi mântuit.
+Astăzi m-am întors la Tine,
+Domnul meu, supus, smerit.
+Vreau să-mi dai a Ta iertare
+Pentru toate ce-am greșit.

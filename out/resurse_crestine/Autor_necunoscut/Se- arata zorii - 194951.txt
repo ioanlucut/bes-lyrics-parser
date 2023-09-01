@@ -1,0 +1,82 @@
+[title]
+Se- arata zorii {author: {Anonim}, {rcId: {194951}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Se-arată zorii,
+Noaptea dispare,
+Cu Domnu-ncepe eterna zi.
+Lumeasca trudă,
+Lacrimi amare,
+Mai sus de stele
+Nu vor mai fi!
+
+[c]
+Se-arată zorii, o, ce sublim,
+Pe veci cu Domnul
+Uniți să fim,
+Lumeasca trudă,
+Lacrimi amare,
+Mai sus de stele
+Nu vor mai fi.
+
+[v2]
+Se-arată zorii,
+E dimineață,
+Pe ceru-albastru
+Nu-i nici un nor;
+Pier fără urmă
+Furtuni și ceață,
+O, ce minune,
+Ce falnic zbor!
+
+[c2]
+Se-arată zorii, o, ce sublim,
+Pe ve ci cu Domnul
+Uniți să fim,
+Pier fără urmă
+Furtuni și ceață;
+O, ce minune,
+Ce falnic zbor.
+
+[v3]
+Se-arată zorii,
+Isus ne duce
+Acas’, la Tatăl
+Ce ne-a iubit.
+Un cor de îngeri
+Dulce ne zice:
+„
+Pe plai ceresc
+Voi bine-ați venit!”
+
+[c3]
+Se-arată zorii, o, ce sublim,
+Pe veci cu Domnul
+Uniți să fim,
+Un cor de îngeri
+Dulce ne zice:
+„
+Pe plai ceresc,
+Voi bine-ați venit!”
+
+[v4]
+Se-arată zorii,
+O, ce-ntâlnire,
+Cu frații noștri,
+Toți cei ce-au plâns,
+În țara scumpă
+Nu-i despărțire,
+Se-arată zorii,
+Noaptea s-a stins!
+
+[c4]
+Se-arată zorii, o, ce sublim,
+Pe veci cu Domnul
+Uniți să fim,
+În țara scumpă,
+Nu-i despărțire;
+Se-arată zorii,
+Noaptea s-a stins!

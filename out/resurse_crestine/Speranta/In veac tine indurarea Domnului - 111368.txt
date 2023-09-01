@@ -1,0 +1,21 @@
+[title]
+In veac tine indurarea domnului {author: {Speranța}, {rcId: {111368}}
+
+[sequence]
+v1,c,e
+
+[v1]
+/: Lăudați pe Domnul că este bun, în veac ține îndurarea Lui :/
+
+[c]
+Casa lui Aaron să zică: ”
+În veac ține îndurarea Domnului”
+Cei ce se tem de El să zică:
+”
+În veac ține îndurarea Domnului”
+/: Că în veac ține îndurarea lui :/×2, îndurarea Lui :/
+
+[e]
+Tu ești Dumnezeu, te vom lăuda
+Tu ești Dumnezeu, și îți vom cânta ”
+Aleluia”

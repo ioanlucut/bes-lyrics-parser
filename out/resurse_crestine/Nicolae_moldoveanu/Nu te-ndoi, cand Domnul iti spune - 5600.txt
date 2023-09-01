@@ -1,0 +1,24 @@
+[title]
+Nu te-ndoi cand domnul iti spune {author: {Nicolae Moldoveanu}, {rcId: {5600}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Nu te-ndoi, cand Domnul iti spune o Ca biruinta vei avea!
+Nu te-ndoi, cand El e cu tine, o Cand El va sta la dreapta ta.
+
+[c]
+/: Vei birui! :/ o Cand Domnu-i cu tine, o Nu te indoi! :/
+
+[v2]
+Nu te-ndoi, cand se ridica o Chiar zeci de mii in contra ta!
+De oameni sa nu-ti fie frica, o Caci Domnul te va ajuta...
+
+[v3]
+Nu te-ndoi, cand rugaciunea o Nu-ti va primi raspuns pe loc!
+Chiar daca-ntarzie furtuna, o Tu roaga-te si mai cu foc!
+
+[v4]
+Nu te-ndoi, cand suferinta o Iti pare fara de sfarsit!
+In urma vine biruinta, o Oricat ai fi de obosit.

@@ -1,0 +1,23 @@
+[title]
+Departe de voi pleca oriunde in asta lume; inima mea canta: tu esti minunat {author: {Adi Gliga}, {rcId: {113085}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Departe de voi pleca, oriunde în astă lume
+În suflet Te voi purta, mă va-nsoți al Tău nume
+Dragostea Ta, Isus, mă va urca pe culme,
+Prin Tine voi străluci, și tuturor voi spune:
+
+[c]
+Inima mea cântă: ”
+Tu ești minunat”
+Sufletul meu strigă: ”
+Viață am aflat”
+
+[v2]
+Drumul pe care merg cu lacrimi și suspine
+M-apropie de cer, m-apropie de Tine
+E-un drum anevoios, dar plin de fericire
+Când Tu mă însoțești, și plină-i de iubire.

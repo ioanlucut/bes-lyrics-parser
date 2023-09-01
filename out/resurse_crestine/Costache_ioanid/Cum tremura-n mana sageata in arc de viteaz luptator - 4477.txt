@@ -1,0 +1,30 @@
+[title]
+Cum tremura-n mana sageata in arc de viteaz luptator {author: {Costache Ioanid}, {rcId: {4477}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Cum tremură în mână săgeata
+În arc de viteaz luptător
+/: Cum toamna-și adună cocoarele ceata,
+Fii gata, fii gata de zbor! :/
+
+[v2]
+Te-așteaptă în slavă Răsplata,
+Cununa de brav luptător!
+/: Curând salvatoru-și recheamă armata
+Fii gata, fii gata de zbor! :/
+
+[v3]
+Un Prunc ni s-a dat din Efrata,
+Ce-a fost până azi Salvator
+/: Și-acum, înainte de-a fi judecata,
+Fii gata, fii gata de zbor! :/
+
+[v4]
+Cum tremură-n mână săgeata
+În arc de viteaz luptător
+/: Cu-n strigăt în piept de voios: „
+Maranata!”,
+Fii gata, fii gata de zbor! :/

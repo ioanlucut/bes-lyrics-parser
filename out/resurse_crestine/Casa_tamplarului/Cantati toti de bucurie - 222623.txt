@@ -1,0 +1,30 @@
+[title]
+Cantati toti de bucurie {author: {Casa Tamplarului}, {rcId: {222623}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cântați toți de bucurie
+Căci Hristos s-a născut.
+Să cânte spre-a Lui mărire
+Cerul și pământul, cerul și pământul,
+Cerul, ceruul și pământul
+
+[c]
+Tot pământul și cerul cântă azi: Glorie Regelui!
+Tot pământul și cerul cântă azi!
+
+[v2]
+Omenirea să-L primească
+Pe Regele suprem
+Iar inima omenească
+Lui să-I gătească loc, Lui să-I gătească loc,
+Lui să-I, Lui să-I gătească loc
+
+[v3]
+El va domni în iubire
+Peste-ntreaga lume.
+Popoarele, cu dreptate
+Îl vor servi pe el, Îl vor servi pe el,
+Îl vor, Îl vor servi pe el

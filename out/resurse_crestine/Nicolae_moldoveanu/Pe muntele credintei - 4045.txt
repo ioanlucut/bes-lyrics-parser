@@ -1,0 +1,41 @@
+[title]
+Pe muntele credintei {author: {Nicolae Moldoveanu}, {rcId: {4045}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Pe muntele credinței când te sui
+Te odihnești pe pajiști de iubire.
+Și când rămâi smerit pe vârful lui,
+Primești plăcuta harului trăire.
+
+[c]
+Acolo poți culege fericit
+Frumoase flori de cer mirositoare.
+Mireasma lor îți dă desăvârșit
+Mereu duhovnicească-nviorare.
+
+[v2]
+Ce nume sfinte printre flori gasești
+Pe culmile-n lumină inundate,
+Îți mângâie auzul când rostești:
+Credincioșie, pace și dreptate.
+
+[c2]
+Dar două sunt regine între flori;
+Iubirea și adevăru-n veșnicie.
+Le poți culege, când mai sus de nori,
+Tu te ridici pe-aripi de curăție.
+
+[v3]
+Acolo doar primești cerești puteri
+Și viața-ți este pururea senină
+Că sus când ești nălțat nu-i nicăieri
+Atâta bogăție de lumină.
+
+[c3]
+Pe muntele credinței când te sui
+Te odihneșți pe pajiștile sfinte.
+Numai acolo Taina Domnului
+O poți primi în inimă și-n minte.

@@ -1,0 +1,37 @@
+[title]
+Daca-as fi arici {author: {Anonim}, {rcId: {159215}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Dacă-aș fi arici, m-aș opri mereu,
+Aș vorbi cu toți ce-s în drumul meu.
+Cu insecte mari sau cu cele mici,
+M-aș opri mereu, dacă-aș fi arici.
+
+[c]
+/: Dar sunt copil de Dumnezeu
+Și-am să mă bucur cum sunt eu,
+Sunt făcut ca El, sunt făcut la fel.
+În fiecare zi mă duc
+Să văd cum lumea a făcut,
+Știu că sunt ca El, fiu de Dumnezeu. :/
+
+[v2]
+Dacă-aș fi stejar, înalt de-aș fi,
+Un secol chiar, tot aici aș fi.
+Dar un pădurar, fără habar,
+M-ar tăia de tot, dacă-aș fi stejar.
+
+[v3]
+De-aș avea aripi, aș zbura mereu,
+Peste țări și mări și nu mi-ar fi greu.
+Însă de-ar fi frig, aș pleca mereu,
+Peste țări și mări, de-aș avea aripi.
+
+[v4]
+De-aș fi un cățel, m-aș juca mereu,
+Iar după pisici aș lătra din greu.
+Un prieten bun pentru om aș fi,
+Oase aș mânca, de cățel aș fi.

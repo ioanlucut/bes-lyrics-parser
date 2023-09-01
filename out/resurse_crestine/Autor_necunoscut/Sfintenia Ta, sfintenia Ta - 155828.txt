@@ -1,0 +1,36 @@
+[title]
+Sfintenia ta sfintenia ta {author: {Anonim}, {rcId: {155828}}
+
+[sequence]
+v1,v2,c,v3,c,e
+
+[v1]
+Sfințenia Ta, sfințenia Ta,
+E ceea ce-mi doresc.
+Sfințenia Ta aș vrea s-o am,
+Sfințenia Ta, Sfințenia Ta,
+Aș vrea-o în viața mea!
+
+[v2]
+Iubirea Ta, iubirea Ta,
+E ceea ce-mi doresc.
+Iubirea Ta aș vrea s-o am,
+Iubirea Ta, iubirea Ta,
+Aș vrea-o în viața mea!
+
+[c]
+/: Ia-mi inima și schimb-o,
+Dorința mea aprinde-o,
+Ia-mi gândul meu și schimbă-l
+Cu-al Tău, cu-al Tău, Isus. :/
+
+[v3]
+Voia Ta, voia Ta,
+E ceea ce-mi doresc.
+Voia Ta, aș vrea s-o am.
+Voia Ta, voia Ta,
+Aș vrea-o în viața mea!
+
+[e]
+Sfințenia Ta, Sfințenia Ta,
+Aș vrea-o în viața mea!

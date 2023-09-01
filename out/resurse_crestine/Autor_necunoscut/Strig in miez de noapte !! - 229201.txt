@@ -1,0 +1,35 @@
+[title]
+Strig in miez de noapte {author: {Anonimul}, {rcId: {229201}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Arde inima in mine de dor
+Să aud glasul tău, mi e dor
+Somn nu dau ochilor mei
+Stau treaz poate vii să mă iei
+
+[c]
+Strig in miez de noapte
+Gânduri nu-mi dau pace
+Vreau sa te grăbești
+Să vii să mă răpești :/
+
+[v2]
+Stau in așteptarea ta
+Mă foiesc in pat noaptea
+Pe genunchi eu stau mereu
+Căci mie dor de glasul tău
+
+[v3]
+Aștept Doamne ca să vii
+Să mă duci in veșnicii
+Unde toate vor fi noi
+Și ne-om bucura și noi și voi
+
+[v4]
+Acolo nu va fi tristețe
+Ci doar zâmbete pe fețe
+Cu toții ne vom bucura
+Când în cer ne vom revedea

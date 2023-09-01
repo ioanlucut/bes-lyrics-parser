@@ -1,0 +1,33 @@
+[title]
+Eu te iubesc isuse {author: {Cristian Cornea}, {rcId: {104950}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: Astăzi vin la Tine, Doamne
+Printre lacrimi și suspini
+Și Te rog a mea durere
+Vino, Doamne, să-mi alini! :/
+
+[c]
+/: Eu Te iubesc Isuse, vreau să intri-n casa mea
+Și să lași, Isuse Doamne, binecuvântarea Ta. :/
+
+[v2]
+/: Doar la Tine strig, Isuse
+Tu-mi cunoști necazu-mi greu
+Tu-mi alini a mea durere
+Tu ești Salvatorul meu. :/
+
+[v3]
+/: Tu îmi vindeci astăzi rana
+Tu îmi pui balsam pe ea
+Vreau s-ajung cu-ai mei din casă
+În Împărăția Ta. :/
+
+[v4]
+/: Tu îmi ești a mea nădejde
+Doar în Tine eu mă-ncred
+Și aștept cu nerăbdare
+Când pe nori Tu vei veni. :/

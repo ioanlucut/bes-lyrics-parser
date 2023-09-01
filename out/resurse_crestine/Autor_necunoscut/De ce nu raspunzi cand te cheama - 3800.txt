@@ -1,0 +1,47 @@
+[title]
+De ce nu raspunzi cand te cheama {author: {Anonim}, {rcId: {3800}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+De ce nu răspunzi când te cheamă
+De ce nu deschizi când el bate
+E isus e mielul divin
+Ce pacea ți-o dă el din plin
+
+[c]
+O scapă-ți viața și nu mai privi
+În urmă și nu te-opri
+Aleargă la isus și scapă la munți
+Grăbește-te ca să ajungi
+
+[v2]
+De ce nu răspunzi când te cheamă
+Cu glasul său dulce de mamă
+Oprește-te o clipă din drum
+Privește la rănile lui
+
+[v3]
+E sânge ce spală păcatul
+Putere nu are un altul
+Iubire și viață dă-n dar
+Urcând pe-al golgotei altar
+
+[v4]
+Din rane găsim alinare
+În zile de grea încercare
+Și lacrimi le șterge duios
+Când cerul ne e întunecos
+
+[v5]
+Așteaptă că vin vremuri grele
+Ușoară nu-i viața în ele
+C-așa este scris în cuvânt
+Că vin strâmtorări pe pământ
+
+[v6]
+Și spune-mi atunci unde oare
+Afla-vei aici vreo scăpare
+Când domnul isus va fi dus
+În slava fără de apus.

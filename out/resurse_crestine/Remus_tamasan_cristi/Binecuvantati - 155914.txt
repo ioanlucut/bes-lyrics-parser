@@ -1,0 +1,37 @@
+[title]
+Binecuvantati {author: {Remus Tămășan Cristi}, {rcId: {155914}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Binecuvântarea Ta divină
+Azi revars-o, Doamne, peste casa mea
+Să domnească pacea Ta deplină
+Fie casa plină de prezența Ta.
+
+[c]
+Binecuvântați de Tine
+O, Doamne vrem să fim
+Și orice zi cu Tine s-o trăim
+Binecuvântați de Tine
+Dorim să fim mereu
+Și-n orice zi să fim pe placul Tău.
+/: Binecuvântați de Tine
+O, Doamne vrem să fim
+Și orice zi cu Tine s-o trăim
+Binecuvântați de Tine
+Dorim să fim mereu
+Și-n orice zi să fim pe placul Tău. :/
+
+[v2]
+Binecuvântarea Ta, O, Tată
+Azi revars-o peste casa celor sfinți
+Ce Te cheamă dintr-o inimă curată
+Și Te caută în rugăciuni fierbinți.
+
+[v3]
+Binecuvântarea Ta divină
+Azi revars-o peste casa celor doi
+Dă-le, Tu, te rog o inimă senină
+Ține-i tari în mâna Ta pe amândoi.

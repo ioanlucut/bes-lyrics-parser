@@ -1,0 +1,37 @@
+[title]
+Doua inimi se unesc {author: {Ionel Saran Bochis}, {rcId: {91610}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Astazi noi aici cu toti venim
+Cu drag ne-ntilnim, pe Isus Vestim
+Ziua aceasta-i zi de sarbatoare
+Sa ne bucuram si sa ii cintam
+
+[c]
+Doua Inimi se unesc,
+Doua suflete pornesc
+Pe-al Vietii drum,
+Astazi stau in fata Ta pentru-ai binecuvinta,
+In veci pururea
+
+[v2]
+Toata Viata lor mereu sa fie
+Ca un Paradis un vis nesfirsit
+In iubire si a lui Sfintire
+Cu Domnul Isus voi ca sa traiti
+
+[v3]
+Aztazi este zi de Sarbatoare
+Sa fiti fericiti si sa va iubiti
+Mama Tata azi voi veniti
+Pe ei sa-i priviti
+
+[v4]
+Nu mai plinge Mama Draga
+Astazi eu iti cer Iertare
+De te-am intristat
+/: Stergeti lacrimile tale caci e zi de sarbatoare
+Eu va las cu drag :/

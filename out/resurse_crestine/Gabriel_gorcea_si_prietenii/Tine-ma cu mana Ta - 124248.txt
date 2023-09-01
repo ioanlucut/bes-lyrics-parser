@@ -1,0 +1,47 @@
+[title]
+Tine-ma cu mana ta {author: {Gabriel Gorcea și prietenii}, {rcId: {124248}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Ține-mă cu Mâna Ta,
+Ține-mă, nu mă lăsa!
+Lângă Tine vreau să stau pe acest Pământ,
+Ține-mă la pieptul Tău,
+Mă ajută când mi-e greu
+Pâna voi ajunge în Cerul sfânt!
+
+[c]
+Tu ești Turnul de scăpare,
+Ești adăpost când îmi este greu!
+Ești corabia de salvare
+Când valurile se ridică în jurul meu.
+
+[v2]
+Ține-mă cu Mâna Ta,
+Ține-mă, nu mă lăsa!
+Doar prin Tine am siguranța,
+Ține-mă la pieptul Tău,
+Mă ajută când mi-e greu!
+Doar prin Tine am viață.
+
+[c2]
+Doamne, Tu îmi ești balsam
+Când sunt zdrobit și rănile mă dor!
+Tu ești speranța ce o am,
+Tu ești cu mine chiar când sunt în cuptor.
+
+[v3]
+Ține-mă cu Mana Ta!
+Ține-mă, nu mă lăsa!
+Toată viața să îți slujesc doar Ție,
+Ține-mă la pieptul Tău!
+Mă ajută când mi-e greu
+Până voi ajunge în veșnicie.
+
+[c3]
+Tu îmi ești Salvator,
+La Golgota, Doamne, Te-ai jertfit!
+Tu ești al meu Mântuitor,
+Din strălucire ai venit că m-ai iubit!

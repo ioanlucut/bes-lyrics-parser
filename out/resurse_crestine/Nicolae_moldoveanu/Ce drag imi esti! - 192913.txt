@@ -1,0 +1,29 @@
+[title]
+Ce drag imi esti {author: {Nicolae Moldoveanu}, {rcId: {192913}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ce drag îmi ești, ce drag îmi ești,
+Isus, Iubitul vieții mele,
+Printre Ființele cerești,
+Tu ești ca soarele-ntre stele!
+
+[c]
+Te iubesc, Te iubesc,
+Arzător Te iubesc,
+Iubitul meu Mântuitor,
+De dragoste împărțitor!
+
+[v2]
+Tu m-ai primit, Tu m-ai primit,
+La sânul Tău cu duioșie,
+Pe cine oare-aș fi iubit,
+De n-ai fi Tu, pe veșnicie?
+
+[v3]
+Vreau să Te-ascult, vreau să Te-ascult,
+În totul totului pe Tine,
+Ființa Ta vreau și mai mult
+Să umple inima din mine!

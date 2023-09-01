@@ -1,0 +1,35 @@
+[title]
+Cu harfele in mana vor canta {author: {Otniel Stirb}, {rcId: {169500}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Noi știm, Isuse, că-ntr-o zi
+Din strălucire vei veni
+Să-Ți iei Mireasa ce Te-așteaptă suspinând.
+Ce mare zi, ce bucurii
+Când acasă vom sosi,
+Să nu mai fim pe-acest Pământ!
+
+[c]
+/: Cu harfele în mână vom cânta
+Pe marea cea de sticlă străvezie,
+Doar cei ce-au biruit prin jertfa Sa,
+Cânta-vor Mielului o veșnicie. :/
+
+[v2]
+Nu mai e mult de așteptat
+Pe-acest Pământ îndurerat,
+Va răsuna curând pe bolta cerului
+Cântarea celor mântuițit,
+Ce-au fost din moarte izbăviți,
+Cântarea biruinței Mielului!
+
+[v3]
+Din Valea Plângerii de jos
+Se-ntorc urmașii lui Hristos,
+Poporul sfânt nu-l poate nimeni număra.
+Ei haina-n sânge și-au spălat
+Și-al lor păcat a fost iertat
+Prin pocăință, sus la Golgota.

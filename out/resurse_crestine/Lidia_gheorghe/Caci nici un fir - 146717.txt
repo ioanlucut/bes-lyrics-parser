@@ -1,0 +1,31 @@
+[title]
+Caci nici un fir {author: {Lidia Gheorghe}, {rcId: {146717}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Caci nici un fir
+De păr nu-ți cade;
+Căci nici un fir
+Din cap nu-ți cade
+Fără știrea Lui;
+Fără știrea lui Isus
+
+[c]
+Prin orișice încercare
+Am portiță de scăpare
+Că sunt a Lui, a lui Isus
+Sunt copilul lui Isus.
+
+[v2]
+Nu te-ntrista că trece și-asta
+Ca umbra-n urmă toate-or rămânea
+Când Soarele cel bun si veșnic
+O străluci, s-o termina.
+
+[v3]
+Vine Isus, se gată toate
+Rămâne-vor cu toate pe pământ
+Doar sufletul în sus se-nalță
+Și vom primi un trup nou, sfânt.

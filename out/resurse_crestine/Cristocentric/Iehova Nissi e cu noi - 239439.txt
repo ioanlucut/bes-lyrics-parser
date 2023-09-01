@@ -1,0 +1,55 @@
+[title]
+Iehova nissi e cu noi {author: {CristoCentric}, {rcId: {239439}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c,e
+
+[v1]
+Când ești cu mine
+Nimic nu-mi stă-mpotrivă
+Tu mergi ’nainte
+Victoria-Ți aparține
+Azi ridic steagul
+Iehova Nissi e cu noi
+
+[v2]
+De trec prin vale
+Cu foc și nor mă înconjori
+De mi-este sete
+M-adapi din al Tău izvor
+Azi ridic steagul
+Iehova Nissi e cu noi
+
+[c]
+Tu ești bun
+Și mâinile-mi înalț spre Tine
+Tu ești Cel ce mă-nconjori
+Și ești cu mine
+Victoria-Ți aparține
+Victorie am în Tine
+
+[v3]
+Tu muți și munții
+Dai piatra la o parte
+Supui văzduhul
+Iar marea stă și tace
+Azi ridic steagul
+Iehova Nissi e cu noi
+
+[v4]
+Nu-mi este teamă
+Cu Tine merg ’nainte
+Mă-ncingi cu pace
+Căci lupta-Ți apartine
+Azi ridic steagul
+Iehova Nissi e cu noi
+
+[e]
+Domn puternic
+Stâlp de foc
+Cu noi e Domnul Cel puternic
+Domnul Savaot
+Domn al Slavei
+Glorios
+Cu noi e Domnul Cel puternic
+Domn Victorios!

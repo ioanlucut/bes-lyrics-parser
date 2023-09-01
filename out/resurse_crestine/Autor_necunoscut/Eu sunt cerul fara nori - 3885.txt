@@ -1,0 +1,23 @@
+[title]
+Eu sunt cerul fara nori {author: {Anonim}, {rcId: {3885}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Eu sunt cerul fără nori
+Seara asta am așteptat adeseori
+Fiul lui Dumnezeu de aici s-a coborât
+Între oameni să se nască pe pământ
+
+[v2]
+Noi suntem stelele
+Seara asta am așteptat de secole
+Peste Betleemul mic ca să strălucim
+Și în raze Pruncul Sfânt să-nvelim
+
+[v3]
+Eu sunt luna pe cer
+Seara asta voi luci foarte cu zel
+Betleemul adormit eu am să-l privesc
+Nașterea Pruncului Sfânt să urmăresc.

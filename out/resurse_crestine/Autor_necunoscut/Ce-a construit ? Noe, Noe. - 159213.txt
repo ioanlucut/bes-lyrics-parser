@@ -1,0 +1,35 @@
+[title]
+Ce-a construit ? noe noe {author: {Anonim}, {rcId: {159213}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Ce-a construit ? Noe, Noe
+Ce-a construit ? O arcă a construit.
+
+[c]
+Când potopul a venit
+Toți oamenii în ape-au pierit,
+Dar cei ce-n arcă au intrat
+Au fost ocrotiți și cu viață-au scăpat.
+
+[v2]
+Ce a deschis ? Isus, Isus
+Ce a deschis ? Ușa spre cer a deschis.
+
+[c2]
+Pe o cruce răstignit
+În locul meu și al tău a murit,
+De cred în El eu sunt salvat
+Prin sangele Lui de păcate iertat.
+
+[v3]
+Ce-o sa faci tu ? Intră, intră
+Ce-o sa faci tu ? Intră pe ușa spre cer.
+
+[c3]
+Dacă mori azi neiertat
+De El vei fii într-o zi judecat,
+Dar poți intră pe ușa Sa
+Și mântuire veșnică îți va da.

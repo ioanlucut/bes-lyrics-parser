@@ -1,0 +1,29 @@
+[title]
+O vino iarasi ca pe vremuri {author: {Speranța}, {rcId: {4304}}
+
+[sequence]
+v1,c,v3,c,v4,c
+
+[v1]
+O, vino, iarăși ca pe vremuri,
+Coboară iarăși pe pământ!
+O, vino iarăși între oameni
+O, vino, Duh, o Duh preasfânt!
+
+[c]
+/: Ni-e inima de doruri plină
+Să Te vedem cum iarăși vii,
+Copiii Tăi de mult suspină
+Să vii la noi, să vii, să vii! :/
+
+[v3]
+Ah, adu Tu înviorarea
+Și primăvara Ta, Isus
+Redeșteptarea și unirea
+Ce-nalță tot mai sus, mai sus!
+
+[v4]
+Iar chipul nostru să arate
+În veci al Tatălui chip Sfânt
+Să fie voia Lui în toate,
+Precum în Cer și pe pământ!

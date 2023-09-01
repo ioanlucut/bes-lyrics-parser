@@ -1,0 +1,31 @@
+[title]
+I wil do the same / eu voi face la fel {author: {gordon mote}, {rcId: {66573}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+Voi cânta, voi striga
+Isus Te voi lăuda
+Tot ce-ai creat în cor spune
+Că Tu ești Dumnezeu
+Tu ești Dumnezeu
+
+[v1]
+Cerul spune a Ta glorie
+Eu voi face la fel
+Pământul proclamă puterea Ta
+Eu voi face la fel
+
+[v2]
+Se pleacă și munții
+’naintea Ta
+Eu voi face la fel
+Oceanul și marea
+Te-aplaudă
+Eu voi face la fel
+
+[v3]
+Cu a mea viață, Doamne
+Să Te slujesc eu vreau
+Să spun la toți despre dragostea Ta

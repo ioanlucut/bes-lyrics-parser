@@ -1,0 +1,23 @@
+[title]
+De noi fii slavit {author: {John J.Husband}, {rcId: {3921}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+De noi fii slăvit pentru-al Tău Fiu iubit
+Ce pe crucea Golgotei ca Miel L-ai jertfit.
+Aleluia, slavă Ție! Aleluia, Amin!
+Aleluia, slavă Ție! Părinte divin!
+
+[v2]
+De noi fii slăvit, Domnul nostru iubit,
+Căci prin jertfa-ți măreață Tu ne-ai mântuit.
+Aleluia, slavă Ție! Aleluia, Amin!
+Aleluia, slavă Ție! Isus, Miel divin!
+
+[v3]
+De noi fii slăvit, Sfinte Duh preaiubit
+Că viața cea nouă Tu ne-ai dăruit.
+Aleluia, slavă Ție! Aleluia, Amin!
+Aleluia, slavă Ție! Duh de viață plin!

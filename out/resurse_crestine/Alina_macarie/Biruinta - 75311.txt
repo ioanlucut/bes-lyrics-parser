@@ -1,0 +1,29 @@
+[title]
+Biruinta {author: {Alina Macarie}, {rcId: {75311}}
+
+[sequence]
+c,v1,v2,c2
+
+[c]
+Biruință, biruință în numele lui Isus!
+Biruință, biruință prin jertfa ce s-a adus!
+Biruință, biruință prin sângele care s-a scurs!
+Biruință proclam prin Cuvântul cel sfânt
+Biruința-a venit pe pământ!
+Biruință, biruință în numele lui Isus!
+Biruință, biruință prin jertfa ce s-a adus!
+
+[v1]
+Căci ei au biruit prin sângele Mielului,
+Căci ei au biruit prin Cuvântul mărturisit
+
+[v2]
+Căci ei au biruit prin sângele Mielului,
+Viața nu și-au iubit jertfindu-se au biruit.
+
+[c2]
+/: Biruință, biruință în numele lui Isus!
+Biruință, biruință prin jertfa ce s-a adus!
+Biruință, biruință prin sângele care s-a scurs!
+Biruință proclam prin Cuvântul cel sfânt
+Biruința-a venit pe pământ! :/

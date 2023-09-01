@@ -1,0 +1,33 @@
+[title]
+Numele tau e minunat {author: {Speranța}, {rcId: {238092}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Doamne, ti-aducem inchinare,
+Dumnezeu Puternic si Sfant!
+Ti-aducem slava si onoare
+Caci Tu ai spus: ”
+Eu sunt Acel ce sunt”
+
+[c]
+Numele Tau e minunat,
+Numele Tau e adevarat,
+Numele Tau e tot ce se poate spune!
+Numele Tau e minunat,
+Numele Tau e adevarat,
+Numele Tau e mai presus de orice nume!
+Numele Tau e minunat,
+Numele Tau e adevarat,
+Numele Tau e tot ce se poate spune!
+Numele Tau e minunat,
+Numele Tau e adevarat,
+Numele Tau e mai presus de orice nume! x3
+Numele Tau...
+
+[v2]
+In fata Ta se pleaca toate,
+Pamantul si Cerul sublim...
+Venim si noi, cu inimile noastre,
+Sa Te laudam, sa Te slavim!

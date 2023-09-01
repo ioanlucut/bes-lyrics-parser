@@ -1,0 +1,30 @@
+[title]
+Vino cu noi {author: {Alin și Emima Timofte}, {rcId: {166479}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+Vino cu mine, privește bine
+Soarele strălucitor cum zâmbește iubitor.
+Și ia cu tine pe orișicine
+Este acoperit de nori, e lipsit de ajutor,
+Vino cu noi.
+/: Vino cu mine, privește bine
+Soarele strălucitor cum zâmbește iubitor.
+Și ia cu tine pe orișicine
+Este acoperit de nori, e lipsit de ajutor,
+Vino cu noi! :/
+
+[v1]
+Soarele pe cer pentru noi e-un semn
+Că orice nor este trecător
+Și orice copil să nu fie trist
+Că Dumnezeu Soarele-a promis pe cer,
+Da, da!
+
+[v2]
+Domnul l-a creat, pe cer l-a așezat
+Și zi de zi el va răsări.
+Și-n America, și-n Africa
+El va zâmbi peste tot unde mai sunt copii!

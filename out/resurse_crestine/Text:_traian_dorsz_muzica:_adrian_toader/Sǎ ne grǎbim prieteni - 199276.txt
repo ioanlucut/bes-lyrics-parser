@@ -1,0 +1,29 @@
+[title]
+S ne grbim prieteni {author: {Text: Traian Dorsz, Muzica: Adrian Toader}, {rcId: {199276}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Sǎ ne grǎbim prieteni, e vremea-nspre apus,
+Cu candelele-aprinse, fecioarele s-au dus.
+Își pregǎtesc talanții cei care-au ostenit
+Spre clipa socotirii Stǎpânului sosit.
+
+[v2]
+Încinși stau gata robii, așteaptǎ doar un semn
+Sǎ iasǎ, sǎ-I deschidǎ la cel dintâi îndemn.
+Grǎbesc vierii lucrul culesului rǎmas,
+Afarǎ robii taie vițelul cel mai gras.
+
+[v3]
+Și-ascut secerǎtorii uneltele de zor,
+Ispravnicii cei harnici și-ncheie munca lor,
+Stau mesele-ncǎrcate, trimișii sunt plecați,
+Grǎbiți sǎ strâng-acasǎ pe ultimii chemați.
+
+[v4]
+Cununi strǎlucitoare, veștmintele dein
+Și scaune-albe așteaptǎ pe cei ce vin și vin.
+Strǎjerii toți stau gata, cu trâmbițele sus,
+Sǎ ne grǎbim prieteni, fecioarele s-au dus.

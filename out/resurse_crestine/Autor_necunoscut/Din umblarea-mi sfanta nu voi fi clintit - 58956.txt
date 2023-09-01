@@ -1,0 +1,29 @@
+[title]
+Din umblarea-mi sfanta nu voi fi clintit {author: {Anonim, Traducere RO}, {rcId: {58956}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Din umblarea-mi sfântă nu voi fi clintit
+Din umblarea-mi sfântă nu voi fi clintit
+
+[c]
+Eu sunt un pom sădit pe malul apei
+Și nu voi fi clintit
+/: Eu nu voi fi, nu voi fi clintit
+Eu nu voi fi, nu voi fi clintit
+Eu sunt un pom sădit pe malul apei
+Și nu voi fi clintit :/
+
+[v2]
+Isus e-al meu Rege nu voi fi clintit
+Când în El voi crede nu voi fi clintit
+
+[v3]
+Din iubirea-I dulce nu voi fi clintit
+El necazu-mi duce și nu voi fi clintit
+
+[v4]
+Din a mea credință nu voi fi clintit
+Isus nu mă lasă ca să fiu clintit

@@ -1,0 +1,41 @@
+[title]
+Ai grija gura mica ce vorbesti {author: {Anonim}, {rcId: {1012}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Ai grijă gură mică ce vorbești,
+Căci Părintele de sus
+Te privește ne-ncetat
+Ai grijă gură mică ce vorbești.
+
+[v2]
+Ai grijă ochișori unde privești,
+Căci Părintele de sus
+Te privește ne-ncetat
+Ai grijă ochișori unde privești.
+
+[v3]
+Ai grijă urechiușă ce asculți,
+Căci Părintele de sus
+Te privește ne-ncetat
+Ai grijă urechiușă ce asculți.
+
+[v4]
+Ai grijă inimioară ce iubești,
+Căci Părintele de sus
+Te privește ne-ncetat
+Ai grijă inimioară ce iubești.
+
+[v5]
+Ai grijă picioruș unde pășești,
+Căci Părintele de sus
+Te privește ne-ncetat
+Ai grijă picioruș unde pășești.
+
+[v6]
+Ai grijă mână mică ce lucrezi,
+Căci Părintele de sus
+Te privește ne-ncetat
+Ai grijă mână mică ce lucrezi.

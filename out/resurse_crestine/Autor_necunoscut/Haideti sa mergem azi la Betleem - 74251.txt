@@ -1,0 +1,27 @@
+[title]
+Haideti sa mergem azi la betleem {author: {Anonim}, {rcId: {74251}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Haideți să mergem azi la Betleem,
+Să ne-nchinăm că Domnul este Rege.
+S-a coborât din cer, deci nu mai e mister,
+Ce-au spus profeții din vechime, azi s-a împlinit.
+
+[c]
+/: Îngerii vestesc că Domnul s-a născut
+A cerului împărăție a început.
+Plini de bucurie haideți să-I cântăm
+Înaintea Lui să ne-nchinăm! :/
+/: Astăzi la noi a coborât pacea pe pământ,
+Astăzi din cer a coborât Fiul Celui Sfânt.
+Astăzi un Fiu ni sa născut, să ne bucurăm
+/: Înaintea lui să ne închinăm. :/
+
+[v2]
+Haideți să mergem azi să ne-nchinăm
+Să-ngenunchem în sfântă adorare.
+Inima ta măcar, să I-o aduci în dar,
+Astăzi plini de bucurie Lui să-I cântăm.

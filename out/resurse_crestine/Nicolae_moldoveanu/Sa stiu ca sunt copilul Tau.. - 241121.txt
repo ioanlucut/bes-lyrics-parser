@@ -1,0 +1,47 @@
+[title]
+Sa stiu ca sunt copilul tau {author: {Nicolae Moldoveanu}, {rcId: {241121}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Să știu că sunt copilul Tău
+Părinte s-o știu bine,
+Că-s mântuit din orice rău,
+Prin har, prin har de Tine!
+
+[c]
+O, Tată, Tată sfânt,
+Tu vrei pe-acest pământ,
+/: Să știu, să știu ce sânt, :/
+Prin trai și prin cuvânt,
+Să-Ți ’nalț Numele sfânt,
+Și-așa să spun ce sânt!
+
+[v2]
+Să știu că sunt ostaș smerit,
+Isuse să știu bine,
+Că-n Oastea Ta am fost primit,
+Prin har, prin har de Tine!
+
+[c2]
+Isus, Isuse Sfânt,
+Tu ceri pe-acest pământ,
+/: Să fiu ostaș ne-nfrânt, :/
+În frontul vieții sfânt,
+Să lupt cu dor și-avânt,
+Și-așa să spun ce sânt!
+
+[v3]
+Să știu că-s rânduit să fiu,
+O, Doamne să știu bine,
+Un martor credincios și viu,
+Prin har, prin har de Tine!
+
+[c3]
+O, Doamne, Doamne Sfânt
+Am pus un legământ,
+Să-Ți fiu un martor sfânt,
+Oricând pe-acest pământ,
+De-i soare, nor sau vânt,
+Lucrând să spun ce sânt!

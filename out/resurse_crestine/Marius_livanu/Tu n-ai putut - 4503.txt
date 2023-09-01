@@ -1,0 +1,63 @@
+[title]
+Tu n-ai putut {author: {Marius Livanu}, {rcId: {4503}}
+
+[sequence]
+v1,b,c,v2,b,c,v3,b,c
+
+[v1]
+Tu n-ai putut să fii un sfânt
+Și nici un geniu pe pământ
+Acestea cer un unic rost
+Dar om, nici om de ce n-ai fost?
+
+[b]
+O, vine ceasul cel temut
+Să dai răspuns ce n-ai făcut
+Și n-o s-ai unde să te-ascunzi
+Ci tu doar tu ai să răspunzi
+O, vine ceasul cel temut
+Să dai răspuns ce n-ai făcut
+Și n-o s-ai unde să te-ascunzi
+Ci tu doar tu ai să răspunzi
+O vine ceasul cel temut!
+Să dai răspuns ce n-ai făcut!
+Și n-o s-ai unde să te-ascunzi
+Ci tu, doar tu ai să răspunzi!
+
+[c]
+Așa ți-ar spune seara
+De-ai ști să înțelegi
+Curând îți lași povara
+Și-un alt lăcaș ți-alegi
+Așa ți-ar spune toate
+De-ai crede graiul lor
+De vrei să poți răzbate
+Să-ți cauți mântuitor.
+Așa ți-ar spune vântul
+De-ai ști să îl asculți
+Oricum li așezământul
+Și cei mai tari sunt smulși
+Așa ți-ar spune toate
+De-ai crede graiul lor
+De vrei să poți răzbate
+Să-ți cauți Mântuitor.
+Așa ți-ar spune apa
+Cu mersul ei așa
+Sfârșitul nu e groapa
+Exiști și după ea
+Așa ți-ar spune toate
+De-ai crede graiul lor
+De vrei să poți răzbate
+Să-ți cauți Mântuitor.
+
+[v2]
+Tu n-ai putut să ’nalți cetăți
+Nici fapte mari și-n larg s-avânți
+Un bine mare n-ai făcut
+Dar mic nici mic de ce n-ai vrut?
+
+[v3]
+Tu n-ai putut s-aduci pe nim’
+Pe căile credinței vii
+Nici la Hristos s-aduci pe toți
+Dar tu nici tu de ce nu poți?

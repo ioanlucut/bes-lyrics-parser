@@ -1,0 +1,33 @@
+[title]
+Vorbeste doamne caci sunt rob {author: {Nicolae Moldoveanu}, {rcId: {5917}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Vorbește Doamne, căci sunt rob
+Și robul Tău ascultă.
+/: Mai toarnă-mi iar ulei în ciob,
+Mai dă-mi din grâul Tău un bob
+Și dragoste și dragoste mai multă. :/
+
+[v2]
+Vorbește, Doamne, că sunt gol
+Și-mi bate-n suflet vântul.
+/: Căci mii de corbi îmi dau ocol,
+De când pe-al inimii pridvor,
+Ți-ai așezat, Ți-ai așezat Cuvântul :/
+
+[v3]
+Vorbește, Doamne, căci în piept
+Mi-e inima firavă.
+/: Nebun te face-orice-nțelept
+Dar eu cu mai mult dor aștept
+În vremea de, în vremea de zăbavă :/
+
+[v4]
+Mai dă-mi din pâinea Ta un drob
+Și flacără mai multă.
+/: Chiar dacă-s fiu și nu sunt ciob
+Dar eu din dragoste sunt rob
+Și robul Tău și robul Tău ascultă :/

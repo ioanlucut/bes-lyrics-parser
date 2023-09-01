@@ -1,0 +1,32 @@
+[title]
+Primeste-l azi pe domnul {author: {Saron}, {rcId: {4063}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Prietene ce astăzi, Îi auzi chemarea
+Domnul Isus te cheamă, să îți dea salvarea
+Fă un pas ’nainte, un pas către El
+Spre Mântuitorul Sfânt, Emanuel
+
+[c]
+/: Primește-L azi pe Domnul, nu mai amâna
+E ultima ta șansă, azi e ziua ta
+Fă un pas ’nainte, Isus te așteaptă
+Vino, vino, vino El te cheamă :/
+
+[v2]
+Lasă lumea-aceasta cu al ei amar
+Primește azi pe Domnul ce-ți dă iertarea-n dar
+Lumea nu te-ajute, ci doar te robește
+Domnul este-Acela ce te mintuieste
+
+[v3]
+Cu Isus pe cale viața e frumoasă
+Chiar prin încercare, Domnul nu te lasă
+Vină norii negri, câți ar fi să vină
+Domnul e cu tine și îți dă lumina
+
+[e]
+Vino, vino, vino El te cheamă...

@@ -1,0 +1,21 @@
+[title]
+Veniti veniti copii {author: {Nicolae Moldoveanu}, {rcId: {230860}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Veniți, veniți, copii iubiți căci Domnul vă dorește,
+Isus vă cheamă, auziți, ce dulce vă grăiește:
+
+[c]
+Veniți, copii iubiți, veniți, veniți, veniți,
+căci daruri sumpe vor primi, acei ce vor veni.
+
+[v2]
+Veniți, copii, veniți, căci El, pe brațe-o să vă suie,
+povești frumoase și cântări cerești o să vă spuie.
+
+[v3]
+Veniți, copii, veniți, veniți, Isus vă vrea la Sine,
+veniți și veți vedea apoi cu El cât e de bine!

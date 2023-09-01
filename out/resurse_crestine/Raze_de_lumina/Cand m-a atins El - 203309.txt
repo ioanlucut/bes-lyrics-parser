@@ -1,0 +1,37 @@
+[title]
+Cand m-a atins el {author: {Raze de lumina}, {rcId: {203309}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+An la rând în întuneric
+Eu umblam fără să știu
+Ce nevoie de salvare
+Eu aveam nu doar puțin
+E povestea unui om
+Care în calea lui Isus
+A venit la Domnul slavei
+Bucuros așa strigând
+
+[c]
+Când ma atins El
+Când ma atins El
+Eram orb dar slavă Lui că pot vedea
+În întuneric, El mă găsise
+El ma atins și, ma eliberat.
+/: Când ma atins El
+Când ma atins El
+Eram orb dar slavă Lui că pot vedea
+/: În întuneric, El mă găsise
+El ma atins și, ma eliberat. :/
+
+[v2]
+Un olog cerșea odată
+Dar Isus la’ vindecat
+Plin de dragoste și milă
+Câtre El sa aplecat
+Ca și El eram odată
+Chinuit de al meu păcat
+Dar Domnul bun plin de-ndurare
+Câtre min’ sa aplecat

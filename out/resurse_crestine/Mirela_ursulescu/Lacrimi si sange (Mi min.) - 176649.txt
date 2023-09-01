@@ -1,0 +1,36 @@
+[title]
+Lacrimi si sange (mi min) {author: {Mirela Ursulescu}, {rcId: {176649}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Lacrimi și sânge ai vărsat, iubitul meu Isuse
+Când ai murit crucificat, răbdând pe lemn, Tu Împărat
+/: S-aduci în dar, iertare :/
+
+[c]
+/: Îți mulțumesc, de jertfa Ta
+Ce a schimbat viața mea,
+Îți mulțumesc, pentru-al Tău har
+Și pentru mântuirea-n dar :/
+
+[v2]
+Coroana spinilor pe cap, te apăsau, Isuse
+Cu biciul greu, ei te loveau, doar răni și vânătăi, erai
+/: Ca să mă scapi de moarte :/
+
+[v3]
+Cu crucea-n spate ai urcat, calvarul suferinței,
+Cu sulița-n coastă, Ți-au dat, o Mielule nevinovat
+/: Ca să am biruință :/
+
+[v4]
+În cuie mari, Tu pironit, ai fost ca Miel de jertfă,
+Tot ceru-atunci Te-a părăsit, pământu-ntreg s-a zguduit
+/: Ca eu sa am viață :/
+
+[v5]
+A treia zi Ai înviat, ca să-mplinești Scriptura,
+Apoi la cer Te-ai înălțat, la Dumnezeul Cel Prea’nalt
+/: Dar Te vei întoarce-odată :/

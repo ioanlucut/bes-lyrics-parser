@@ -1,0 +1,38 @@
+[title]
+Cand ma abat din drumul drept {author: {Nicolae Moldoveanu}, {rcId: {5472}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cand ma abat din drumul drept,
+Cand nu mai pot tristetea duce,
+Ma sui pe munte, sus la cruce,
+Si-nvat sa sufar si s-astept,
+Chiar daca drumul nu e drept.
+
+[c]
+/: Ma sui pe munte,
+Ma duc la Golgota
+Si-nvat sa rabd, din iubirea Ta... :/
+
+[v2]
+Cand poftele din nou ma-nping
+Spre iad, spre gropile genunii,
+Te chem, prin duhul rugaciunii,
+Si toate poftele le-nving,
+Si pofta firii o resping.
+
+[v3]
+Cand glasul firii e-n tumult,
+Cand grija lumii e fierbinte,
+De jertfa Ta mi-aduc aminte,
+Si-nvat, Isuse, sa Te-ascult,
+Chiar daca firea e-n tumult.
+
+[v4]
+Cand bucuriile-nfloresc,
+In glastra inimii ascunsa,
+Ma uit la palma Ta, strapunsa,
+Si-nvat mai mult sa Te iubesc!
+Isuse, pot sa Te iubesc!

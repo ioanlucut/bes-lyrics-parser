@@ -1,0 +1,29 @@
+[title]
+Voi fi mereu cu tine {author: {Cornel Sava și Mădălina Doroșcan}, {rcId: {211225}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ți-am spus că nu te voi lăsa,
+Voi fi mereu cu tine.
+/: Chiar dacă toți te vor uita,
+Eu îți voi șterge lacrima, privește doar la Mine :/
+
+[c]
+Prinde-Mă de mână când ți-e greu, nu sunt oare Dumnezeul tău?
+Am fost lângă tine și-am rămas ca să te ridic atunci când cazi.
+Ține-Mă de mână în suspini, Eu îți vindec rana, ți-o alin,
+Eu te trec mereu biruitor, lângă Mine drumu-i mai ușor.
+
+[v2]
+Ți-am spus că te voi asculta
+Când vei striga la Mine
+/: Și în ziua necazului
+Ai să vezi mâna Domnului cum lasă izbăvire :/
+
+[v3]
+Când părăsit treci prin cuptor
+Tu pleacă-ți jos genunchii
+/: Să vezi puterea Domnului
+Deschide poarta Cerului cu cheia rugăciunii :/

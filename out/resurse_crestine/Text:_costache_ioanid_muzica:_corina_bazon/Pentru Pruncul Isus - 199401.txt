@@ -1,0 +1,27 @@
+[title]
+Pentru pruncul isus {author: {Text: Costache Ioanid, Muzica: Corina Bazon}, {rcId: {199401}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Oștiri cerești coborau dintre stele
+Sclipind măreț în lumina de sus.
+Dar pentru cine veneau ei din slavă?
+Înfiorați se porniră păstorii
+Spre Betleem, după cum li s-a spus.
+De dragul cui? Pentru cine anume?
+
+[c]
+Pentru Isus Acest colind închinăm
+Pentru Isus Cu-ntregul cer ne bucurăm
+Pentru Isus Ofranda inimii am adus
+Pentru Pruncul Isus.
+
+[v2]
+Și-acum vă-ntreb: Pe pământul de astăzi,
+În răsărit și-n întregul apus,
+De ce cântăm? Pentru ce? Pentru cine?
+Dar ce alean ne înalță-n colinde?
+Copilul Sfânt ce comori ne-a adus?
+El ne-a dat Harul și viața eternă!

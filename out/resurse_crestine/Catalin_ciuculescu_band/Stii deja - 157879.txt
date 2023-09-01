@@ -1,0 +1,31 @@
+[title]
+Stii deja {author: {Cătălin Ciuculescu Band}, {rcId: {157879}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Știi deja că te iubesc, da, știi prea bine,
+Știi deja că te iubesc, pentru tine-am suferit.
+Și oricine a dat în tine și în Mine a lovit,
+Știu că vrei să mă revezi și Eu pe tine.
+M-ai așteaptă-mă puțin, în curând vin să te iau,
+Și-ai să strigi de bucurie, îți voi șterge lacrima.
+
+[c]
+Biserica Mea, te iubesc, te iubesc, te iubesc,
+Aleasa Mea, să M-aștepți, să M-aștepți, să M-aștepți,
+Biserica Mea, te iubesc, te iubesc, te iubesc,
+Mireasa Mea, să M-aștepți, să M-aștepți, să M-aștepți,
+Frumoasa Mea!
+
+[v2]
+Știu că oamenii sunt răi și râd de tine,
+Am trecut și Eu pe-aici, știi cât rău am îndurat,
+Tu să faci la fel ca Mine
+Și să ierți, cum te-am iertat!
+
+[e]
+/: Capul jos, fruntea sus,
+Ești Mireasa lui Isus!
+Bucuria Mea, pe pământul celor vii! :/ x2

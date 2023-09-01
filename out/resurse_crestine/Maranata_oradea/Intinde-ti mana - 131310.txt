@@ -1,0 +1,23 @@
+[title]
+Intinde-ti mana {author: {Maranata Oradea}, {rcId: {131310}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+Intinde-Ti mana Isus nu ma lasa
+Intinde-Ti mana si ia-ma-n dreapta Ta
+Intinde-Ti mana cand valul m-a luat
+Si-n mana Ta speranta am aflat!
+
+[v1]
+Ca si Petru cand pe ape
+Pasesc sa vin spre Tine
+Un pas si-ncetul ma las in ape
+Si-atunci incep sa strig:
+
+[v2]
+In credinta-mi slaba Doamne
+Des m-am clatinat
+Crezand ca singur pasesc pe ape
+Si-atunci m-am scufundat!

@@ -1,0 +1,29 @@
+[title]
+Cand esti trist {author: {Paradis}, {rcId: {202054}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când esți trist și-n grijuri, multe te apasă
+Cănd probleme grele și necazuri vin
+Tu să ști căci Domnul, nici când nu te lasă
+Singur niciodată părăsit nu vei mai fii.
+
+[c]
+/: Domnul este pace, pace bucurie
+Dar și pentru tine, suflete iubit
+Nu-ți pierde credința, nu-ți pierde nădejdea
+El e Salvatorul, ce te-a mântuit. :/
+
+[v2]
+Când furtuna bate, ameniță tot
+Viata o poți pierde, atât de ușor
+Cu Isus nu ești pierdut, nici nu vei pierii
+Cere al Său ajutor și îl vei primii.
+
+[v3]
+Încrede-te în Domnul, tu nu dispera
+Isus todeauna, va fii slavarea ta
+Cu brațul Său putetnic, te va ocroti
+Pacea Sa divină, în suflet vei simtii.

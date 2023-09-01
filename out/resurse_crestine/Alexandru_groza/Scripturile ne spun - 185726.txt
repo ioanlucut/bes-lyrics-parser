@@ -1,0 +1,23 @@
+[title]
+Scripturile ne spun {author: {Alexandru Groza}, {rcId: {185726}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Scripturile ne spun că harul Domnului
+El este prezent în sufletul omului smerit
+Credința-n Dumnezeu ne-apropie de El
+Și iubirea Lui o simți mereu în ființa ta!
+
+[c]
+În închinarea mea, Doamne-Ți doresc a-Ți da
+Tot ce mi-ai dat mie pe-acest pământ, viața mea
+Fii binecuvântat de harul minunat!
+Iubirea Ta-i comoară de nespus!
+
+[v2]
+E-atât de minunat să știi că ne-ncetat
+Sufletul smerit va fi-nălțat de Dumnezeu la cer
+În tot ce-nfăptuiești pe Domnul îl cinstești
+El este mereu în viața ta mântuitor!

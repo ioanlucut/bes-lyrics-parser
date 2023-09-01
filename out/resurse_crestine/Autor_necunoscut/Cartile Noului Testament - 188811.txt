@@ -1,0 +1,44 @@
+[title]
+Cartile noului testament {author: {Anonim}, {rcId: {188811}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Cartile Noului Testament,
+Noului Testament
+Iată-le!
+Ascultă-le, s-auzi toate cărțile
+Noului Testament
+În ordine.
+
+[v2]
+Matei și Marcu, Luca, Ioan
+Sunt patru evanghelii,
+Urmează Faptele Apostolilor
+Nu plecați, n-am terminat!
+
+[v3]
+Epistole urmează acum
+Cu Romani, 1,2 Corinteni
+Galateni, Efeseni, Filipeni, Coloseni
+1 și 2 Tesaloniceni
+1 și 2 Timotei și Tit
+Nu plecați, n-am terminat!
+
+[v4]
+Filimon,
+Evrei,
+Iacov,
+1 și 2 Petru,
+1,2 și 3 Ioan,
+Iuda și Apocalipsa.
+
+[v5]
+Cărțile Noului Testament,
+Noului Testament
+Acum le știi!
+
+[v6]
+Dacă vrei, spune și tu cărțile
+Noului Testament în ordine!

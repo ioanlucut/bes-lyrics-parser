@@ -1,0 +1,39 @@
+[title]
+Istorisire {author: {Corneliu Livanu}, {rcId: {117439}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Afară-i frig și bate vântul
+În noaptea asta de Crăciun.
+S-a-nfiorat atunci pământul
+Că s-a născut Isus, Preasfântul,
+Demult în staulul străbun.
+
+[c]
+/: O, ascultați plăcuta veste
+Voi cei străini de Dumnezeu.
+Isus, cel Sfânt, nu-i o poveste,
+Ci-i Fiul slăvilor! :/
+
+[v2]
+Copiii stau cu drag și-ascultă
+Istoria din Betleem.
+Toți îngerii din cer exultă
+Și peste toți e pace multă
+De-al bucuriilor poem.
+
+[v3]
+Irozii prind să se-ntristeze
+Și-acum de vestea lui Isus.
+Și iar încep să se-ntristeze,
+Ei vor credința să-nceteze
+De-a mai privi spre ceruri, sus.
+
+[v4]
+Și, totuși, vestea preasfințită
+Se-nalță peste orice hău,
+Trezind în inimi dor fierbinte
+După același bun Părinte
+Ce L-a trimis pe Fiul Său.

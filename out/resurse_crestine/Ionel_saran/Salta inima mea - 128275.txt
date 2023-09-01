@@ -1,0 +1,29 @@
+[title]
+Salta inima mea {author: {Ionel Saran}, {rcId: {128275}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Vreau să Îți cânt mereu
+Ție, Domnul meu
+Vreau să Te preamăresc,
+Cât eu mai trăiesc.
+
+[c]
+/: Saltă inima mea
+De bucurie în ea
+Sufletul mi-e fericit,
+Că sunt mântuit. :/
+
+[v2]
+Nu am nimic Isus
+Doar ce Tu mi-ai pus
+În inima mea de-atunci,
+Ești pe veci Isus.
+
+[v3]
+Ajută-mă Domnul meu
+Să Îți cânt mereu
+Căci mi-ai dat pe-acest pământ
+Duhul Tău cel Sfânt.

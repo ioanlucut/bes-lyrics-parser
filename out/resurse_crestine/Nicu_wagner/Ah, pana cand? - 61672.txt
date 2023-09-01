@@ -1,0 +1,35 @@
+[title]
+Ah pana cand? {author: {Nicu Wagner}, {rcId: {61672}}
+
+[sequence]
+v11,c,v2,c,v3,c,v4,c
+
+[v11]
+Ah, până când, o, Doamne, zăbovești,
+Să-mi vii în ajutor?
+Din zi în zi Te caut, unde ești?
+O, fii îndurător!
+
+[c]
+Te chem din valuri, întinde-Ți mâna,
+Ascultă-mă în ziua cea grea!
+Să fii cu omul ce totdeauna
+Așteaptă ocrotirea Ta.
+
+[v2]
+Ah, până când ne lași, o, Domnul Vieții,
+În focul încercării?
+Se-ntunecă cărarea-n bezna nopții
+Și nu mai am puteri.
+
+[v3]
+Ah, până când, o, Doamne, zăbovești
+Să vii pe nori curând?
+Ea e speranța ce ne-o dăruiești,
+Pe-acest pământ străin.
+
+[v4]
+Ah, Tu ai spus să Te chemăm în greu,
+Căci ne vei izbăvi.
+O, vino azi, preasfinte Dumnezeu,
+Te rog, nu zăbovi!

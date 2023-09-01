@@ -1,0 +1,29 @@
+[title]
+E bucurie pe pamant {author: {Daniel Reuț}, {rcId: {207981}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: E bucurie pe Pământ,
+Că s-a născut Pruncul cel sfânt;
+El pentru noi a fost trimis,
+Să ne salveze din abis. :/
+
+[c]
+/: Veniți cu toții să-I cântăm,
+Pe Cel ce-i sfânt să-L lăudăm;
+Isus Hristos azi s-a născut,
+Fiul cel făr’ de-nceput. :/
+
+[v2]
+/: Păstori și magii au pornit,
+Să vada ce li s-a vestit;
+Un prunc în scutece-nfășat,
+În ieslea rece-a fost culcat :/
+
+[v3]
+/: Acum și noi toti într-un cor,
+Sa-L preamărim pe Creator;
+Căci pace la toți ne-a adus,
+Slăvit sa fie-n veci Isus :/

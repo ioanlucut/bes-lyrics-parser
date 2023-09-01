@@ -1,0 +1,72 @@
+[title]
+Duhul si mireasa {author: {Flaviu Mitar}, {rcId: {83447}}
+
+[sequence]
+c,v1,c2,v2,c,c2,e,c
+
+[c]
+Și Duhul și Mireasa zic: ”
+Vino!
+Vino, Doamne Isuse!”
+Căci Duhul Sfânt suspină
+După măreața zi
+Când Isus va reveni.
+Și Duhul și Mireasa zic: ”
+Vino!
+Vino, Doamne Isuse!”
+Căci Duhul Sfânt suspină
+După măreața zi
+Când Isus va reveni.
+Și Duhul și Mireasa zic: ”
+Vino!
+Vino, Doamne Isuse!”
+Căci Duhul Sfânt suspină
+După măreața zi
+Când Isus va reveni.
+
+[v1]
+Mireasa lui Hristos cu haină nepătată,
+Cu gândul la Mirele din cer,
+Cu Călăuza-n suflet ce strigă pentru noi
+La Tatăl cel din ceruri ce-a pus iubire-n noi,
+E Duhul ce tresare când gura spune: Isus!
+E Duhul cel de viață ce ne va ridica,
+Când trupul se-ncovoaie pătruns de neputință,
+El Duhul cel de viață la Isus va striga:
+
+[c2]
+Isus, grăbește de revino
+Mireasa-i cu ochi-n spre cer
+Căci Duhul sfânt suspină
+După măreața zi
+Când Isus va reveni.
+Isus, grăbește de revino
+Mireasa-i cu ochi-n spre cer
+Căci Duhul sfânt suspină
+După măreața zi
+Când Isus va reveni.
+Isus, grăbește de revino,
+Mireasa-i cu ochi-n spre cer
+Căci Duhul sfânt suspină
+După măreața zi
+Când Isus va reveni.
+
+[v2]
+Mireasa lui Hristos ce ai candela plină
+Și vasul ți-e plin cu undelemn,
+Ridică-i și pe alții prin post și rugăciune
+Apleacă-te și strigă la Tatăl pentru ei,
+Nu sta cu nepăsare căci Duhul ce e-n tine
+E duh din Duhul lui Hristos,
+Vestește-L și la alții că nu-i un duh de frică
+E Duhul Sfânt ce strigă la Tatăl prin Hristos:
+
+[e]
+Va fi o sărbătoare nespus de strălucită
+Când cei plin de Duh s-or ridica,
+Să-ntâmpine venirea Celui mult așteptat
+A Mirelui din slavă, Isus ca Împărat,
+Și norii s-or așterne în nevăzute trepte
+Și îngerii în coruri vor cânta,
+Slăvind pe al lor Rege și pe Mireasa sa
+Dar până-atuncea Duhul la Mire va striga:

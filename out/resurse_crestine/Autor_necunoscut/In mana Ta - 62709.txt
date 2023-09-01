@@ -1,0 +1,29 @@
+[title]
+In mana ta {author: {Anonim}, {rcId: {62709}}
+
+[sequence]
+c,v1,c,v2,c,e
+
+[c]
+În mâna Ta, eu mă predau
+Cu tot ce sunt, doar Ție
+În palma Ta, tu ți viața mea
+Și sunt al Tău, o, Doamne.
+
+[v1]
+Isus, eu mă-ncred în Tine
+Doamne, eu sunt al Tău
+Ești motivul să trăiesc
+Motivul să mă-nchin
+Cu tot ce sunt.
+
+[v2]
+Te voi urma, oriunde mergi Tu
+Când plâng sau râd
+Mă-ncred în Tine și voi trăi
+În a Tale căi și promisiuni
+Domnul meu.
+
+[e]
+Mă închin
+Mă închin Ție.

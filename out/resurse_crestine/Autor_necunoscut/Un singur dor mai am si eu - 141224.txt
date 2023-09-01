@@ -1,0 +1,29 @@
+[title]
+Un singur dor mai am si eu {author: {Anonim}, {rcId: {141224}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Un singur dor mai am și eu:
+Acela, de-a sluji mereu
+/: Lui Dumnezeu, cel bun și sfânt,
+Cât voi trăi pe-acest pământ. :/
+
+[v2]
+Acesta-i singurul meu dor
+Și cred că pentr-un muritor
+/: Nu este un alt dor mai sfânt,
+Nici mai frumos pe-acest pământ. :/
+
+[v3]
+O, Dumnezeule ceresc,
+Tu știi prea bine ce doresc:
+/: Tu știi că eu doresc să-Ți cânt,
+Cât voi trăi pe-acest pământ. :/
+
+[v4]
+Iar din lume când voi pleca,
+O, Doamne, eu Te-aș mai ruga,
+/: Să mă învrednicești să-Ți cânt
+Și-acolo-n cerul Tău prea sfânt! :/

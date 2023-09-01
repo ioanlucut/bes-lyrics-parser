@@ -1,0 +1,25 @@
+[title]
+Cine este cel mai mare {author: {Speranța}, {rcId: {111395}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Cine este cel mai mare în cer și pe pământ ?
+Cine este cel mai tare în fapte și cuvânt ?
+
+[c]
+Este Dumnezeu, Este Dumnezeu
+E Stăpân și Creator, Domn al veșniciilor
+
+[v2]
+Cine este cel mai sfânt, bun, milos și drept ?
+Cine în cer și pe pământ e puternic și înțelept ?
+
+[v3]
+Cine poate să ne ducă în Țara fericirii ?
+Cine poate să ne conducă în Țara nemuririi ?
+
+[c2]
+E doar Dumnezeu, e doar Dumnezeu
+E Stăpân și Creator, Domn al veșniciilor

@@ -1,0 +1,53 @@
+[title]
+Marturie {author: {Sunny Tranca}, {rcId: {195723}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Când mă gândesc
+La cât am fost de pierdut,
+Din ce groapă Tu m-ai ridicat...
+Lacrimi îmi curg
+Atunci când realizez:
+Ai stat lângă mine când alții m-au trădat!
+
+[v2]
+Când mă gândesc
+Cum umblam nopțile reci,
+De singurătate eram doborât...
+Tu mi-ai trimis
+Lumina Ta în ajutor,
+Atunci eu am știut ce am de făcut!
+
+[c]
+Niciodată n-am fost singur,
+Niciodată n-am fost părăsit!
+/: Niciodată n-am fost singur,
+Niciodată n-am fost părăsit! :/
+/: Niciodată n-am fost singur,
+Niciodată n-am fost părăsit! :/
+
+[v3]
+Când mă gândesc
+Cât de aproape uneori
+Era să mor dar Tu viața mi-ai scăpat!
+Am fost nebun
+Să fug de Tine atâția ani
+Cu toate astea Tu nu m-ai abandonat!
+
+[v4]
+Când mă gândesc
+Doamne ce mult aș fi pierdut
+Dacă pe Tine nu Te întâlneam...
+Mereu voi fi
+Așa de recunăscător
+Pentru că Tu acasă m-ai chemat!
+
+[v5]
+Când mă gândesc
+La cât am fost de pierdut,
+Din ce groapă Tu m-ai ridicat...
+Mereu voi fi
+Așa de recunăscător
+Pentru că Tu acasă m-ai chemat!

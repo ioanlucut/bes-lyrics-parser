@@ -1,0 +1,29 @@
+[title]
+Vino la isus nu-ntarzia {author: {George F.Root}, {rcId: {4781}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Vino la Isus, nu-ntârzia,
+Acceptă-n totul doar voia Sa;
+El este gata sprijin a-ți da,
+Deci lasă tot și vin’!
+
+[c]
+/: Ce plăcut va fi și minunat
+Când, scăpați de tot ce e păcat,
+Vom fi cu Domnul neîncetat.
+O, Doamne, iată vin! :/
+
+[v2]
+Vino, ascultă de-al Lui cuvânt,
+Inima dă-I-o numaidecât
+El este scutul tău orișicând,
+Deci lasă tot și vin’!
+
+[v3]
+O, crede numai, nu te-ndoi,
+Cu siguranță te va primi.
+Și pentru tine El Se jertfi,
+Ești păcătos, deci vin’!

@@ -1,0 +1,29 @@
+[title]
+Cerul e un loc minunat (heaven is a wonderful place) {author: {O. A. Lambert, Traducere RO}, {rcId: {128351}}
+
+[sequence]
+v1,v2,v3,s
+
+[v1]
+Cerul e un loc minunat
+Plin de slavă și har
+Vreau să-L văd pe Domnul meu
+Cerul e un loc minunat!
+Să merg acolo,
+
+[v2]
+Cerul e un loc minunat
+Plin de slavă și har
+Vreau să-L văd pe Domnul meu
+Cerul e un loc minunat!
+Să merg acolo,
+
+[v3]
+Cerul e un loc minunat
+Plin de slavă și har
+Vreau să-L văd pe Domnul meu
+Cerul e un loc minunat!
+
+[s]
+Dar, după cum este scris: ”
+Lucruri pe care ochiul nu le-a văzut, urechea nu le-a auzit, și la inima omului nu s-au suit, așa sunt lucrurile pe care le-a pregătit Dumnezeu pentru cei ce-L iubesc.” 1 Cor. 2:9

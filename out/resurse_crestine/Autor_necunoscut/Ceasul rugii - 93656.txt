@@ -1,0 +1,29 @@
+[title]
+Ceasul rugii {author: {Anonim}, {rcId: {93656}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Dimineață soare luminează
+Chipul celui ce-a îngenuncheat
+Și când roua se coboară,
+Tatăl Sfânt te-a ascultat.
+
+[c]
+Nu uita ceasul rugii,
+Lângă cer el te poartă ne-ncetat
+Nu grăbi popasul,
+Căci Tatăl sfânt te-a ascultat.
+
+[v2]
+Când e seara, luna scânteiază
+Fața celui ce se roagă iar,
+Și o noapte liniștită
+Tatăl bun îi dă în dar.
+
+[v3]
+Zilnic, iată, Tatăl ne așteaptă,
+Înaintea Lui să ne plecăm,
+Și răspunsul vine-ndată
+Când de El ne-apropiem.

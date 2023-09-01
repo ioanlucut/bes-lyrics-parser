@@ -1,0 +1,29 @@
+[title]
+Mii de oameni {author: {Ted Doru Pope}, {rcId: {58966}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mii de oameni se grăbesc înspre pierzare
+Și mă-ntreabă cu dispreț unde merg
+De ce sunt așa retras din lumea mare
+Și care este calea care o aleg.
+
+[c]
+/: Eu merg acasă, :/ x3
+La Domnul meu
+/: Eu merg acasă, :/ x3
+La Domnul meu.
+
+[v2]
+Mii de oameni sunt speriați de ce-o să vină
+Sunt majore-amenințări peste tot
+Vor să știe toți care îmi e nădejdea
+Și cum atât de liniștit să fiu eu pot.
+
+[v3]
+Vreau acum să le propun tuturora
+Să își lege de Isus viața lor
+Vor avea atunci și ei siguranță
+Și vor dori și ei să cânte acest cor.

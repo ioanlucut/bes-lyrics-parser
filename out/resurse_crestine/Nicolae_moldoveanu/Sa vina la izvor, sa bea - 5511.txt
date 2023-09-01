@@ -1,0 +1,29 @@
+[title]
+Sa vina la izvor sa bea {author: {Nicolae Moldoveanu}, {rcId: {5511}}
+
+[sequence]
+c,v1,v2,v3
+
+[c]
+/: Să vină la izvor, să bea!
+Să vină la izvor, să bea
+Cine-nsetează! Cine-nsetează
+Să vină și să bea! :/
+
+[v1]
+Apa vie curge chiar sub altar
+Și, pe unde trece-i bucurie... har...
+O, ce apă bună-i apa vie,
+Râul care curge din veșnicie!...
+
+[v2]
+Apa cristalină curge neîncetat,
+Apă ce alină pe cel însetat.
+O, ce apă bună-i apa vie,
+Râul care curge din veșnicie!...
+
+[v3]
+Râul vindecării, râu vindecător,
+Râu de vindecare a sufletelor!
+Cine bea din apa râului bogat,
+El va fi îndată, pe loc, vindecat!

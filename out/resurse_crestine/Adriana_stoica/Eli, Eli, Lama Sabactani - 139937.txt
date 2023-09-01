@@ -1,0 +1,36 @@
+[title]
+Eli eli lama sabactani {author: {Adriana Stoica}, {rcId: {139937}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cine S-a jertfit pentru lume?
+Cine Și-a dat viața ca Isus?
+/: Cine a putut învinge moartea,
+Acolo, la Golgota, pe deal sus? :/
+
+[c]
+/: Eli, Eli, Lama Sabactani?
+Striga Fiul lui Dumnezeu.
+Eli, Eli, Lama Sabactani?
+Murind pe-o cruce în locul tău și-al meu. :/
+
+[v2]
+A venit s-aducă mântuirea
+Și să scape lumea de păcat.
+/: L-au bătut și L-au scuipat în față
+Și: ”
+La moarte!” cu toți au strigat. :/
+
+[v3]
+Și ajuns pe deal, sus la Golgota,
+Sus pe cruce a fost răstignit
+/: Și văzut-au toți acei de față
+Pe Fiul lui Dumnezeu murind. :/
+
+[v4]
+Dar iată că Isus, Domnul, trăiește,
+La trei zile Tatăl L-a înviat.
+/: Va veni să-Și ia cu El pe-aceia
+Ce-au crezut în El cu-adevărat. :/

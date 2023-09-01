@@ -1,0 +1,43 @@
+[title]
+Iertat din nou {author: {Gloria Gaither, Ernie Haase, Sig}, {rcId: {4299}}
+
+[sequence]
+v1,c,v2,c2,c3,v3,c2
+
+[v1]
+De mult stateam departe de El,
+Fara sa stiu ca El ma iubea...
+Insa-ntr-o zi, o voce mi-a zis
+Sa ma-ntorc la El acasa.
+
+[c]
+/: M-am intors la Tatal meu cel Ceresc
+Caci El m-asteptat ca eu sa ma-ntorc
+Cu maini larg deschise El m-a primit
+Iertat :/
+Iertat sunt de-atunci.
+
+[v2]
+Daca esti si azi, in lume pierdut,
+De nu sti, pe ce drum sa pornesti de-acum...
+Este o cale, pe care tu poti sa te-ntorci
+Acasa si iertat vei fi.
+
+[c2]
+/: Azi sa vi la Tatal tau cel Ceresc
+Caci El te asteapta ca tu sa te-ntorci
+Cu maini larg deschise El te primeste
+Iertat :/
+Iertat tu vei fi...
+
+[c3]
+/: Cu maini larg deschise El m-a primit
+Sunt iertat :/
+Iertat sunt de-atunci...
+
+[v3]
+/: Azi Isus te cheama ca sa vi la El
+Caci El te primeste asa cum esti
+Te iarta, te spala in sangele Sau
+Iertat, sunt iertat :/
+Iertat sunt de-atunci.

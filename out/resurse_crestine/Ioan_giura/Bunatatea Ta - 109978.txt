@@ -1,0 +1,35 @@
+[title]
+Bunatatea ta {author: {Ioan Giura}, {rcId: {109978}}
+
+[sequence]
+v1,c,v2,c2,e
+
+[v1]
+Bunătate sfântă a lui Dumnezeu,
+M-ai purtat și astăzi, m-ai condus mereu.
+Să n-alerg la vasul oamenilor gol,
+Ci s-aștept în pace, îngerescul sol.
+
+[c]
+/: Corbii stoluri stoluri, mi-au adus de sus,
+Hrană-mbelșugată după cum le-ai spus,
+N-a uitat nici unul de acel flămând,
+La poruncă Doamne, au sosit pe rând :/
+
+[v2]
+În pustiu când apa a secat și ea,
+Mi-ai trimis în grabă bunătatea Ta,
+E în cioc de păsări darul prețios,
+Roua-nviorării pentr-un păcătos.
+
+[c2]
+/: Copleșit de-atâta bunătate azi,
+Îți închin Isuse lacrimi pe obraz,
+Lacrimi de iubire, ce le-aștern smerit,
+La piciorul crucii, unde-ai suferit :/
+
+[e]
+De aceea Doamne, fă-mă tu un corb,
+Ca să duc lumina fiecărui orb,
+Și la apa vieții, să-i conduc mereu
+Către bunătatea Ta de Dumnezeu.

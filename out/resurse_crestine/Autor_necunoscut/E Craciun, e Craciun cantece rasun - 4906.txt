@@ -1,0 +1,23 @@
+[title]
+E craciun e craciun cantece rasun {author: {Anonim}, {rcId: {4906}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+E Crăciun, e Crăciun cântece răsun,
+De Crăciun noi cântăm și ne bucurăm,
+Dumnezeu ne-a iubit dând pe Fiul Său,
+De Crăciun noi cântăm și ne bucurăm.
+
+[v2]
+Astăzi e Crăciunul, mare bucurie
+Iată pe Maria, naște pe Mesia.
+Într-o mică iesle, chiar în Betleem
+Toți profeții scris-au de Emanuel.
+
+[v3]
+Fiul va fi mare, va fi Împărat
+Vrea să mântuiască lumea de păcat.
+Vrea să curățească și inima ta
+Chiar când e Crăciunul spre salvarea ta.

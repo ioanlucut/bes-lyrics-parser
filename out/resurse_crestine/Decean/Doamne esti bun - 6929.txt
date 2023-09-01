@@ -1,0 +1,23 @@
+[title]
+Doamne esti bun {author: {Decean}, {rcId: {6929}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Doamne ești Bun și-adevărat
+Noi toți venim să ne-nchinăm
+Lumină ești și adevăr
+Noi toți venim astăzi să spunem..
+
+[c]
+/: Numai Tu ești sfânt în acest loc
+Și nu-i alt loc unde aș vrea să fiu
+Dragostea Sa spală tot ce-i rău
+/: Ne închinăm, Îți mulțumim pentru mila Ta :/
+
+[v2]
+Dragostea mea, ești pacea mea
+Doamne ești tot ce noi dorim
+Toți să venim, toți să cântăm
+Un singur glas, Isus e rege.

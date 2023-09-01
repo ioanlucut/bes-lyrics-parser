@@ -1,0 +1,32 @@
+[title]
+Strigati de bucurie catre domnul {author: {Bianca Cernisov}, {rcId: {160459}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Strigați de bucurie către Domnul
+Toți locuitorii Pământului.
+Slujiți Domnului cu bucurie,
+Veniți cu veselie ’naintea Lui.
+
+[c]
+/: Aleluia :/ x6
+Vom cânta și lăuda pe El. :/
+
+[v2]
+Să știți că Domnul este Dumnezeu,
+El ne-a făcut, a Lui suntem.
+Noi suntem poporul Lui
+Și turma pășunii Lui.
+Intrați cu laude pe porțile Lui,
+Intrați cu cântări în curțile Lui.
+
+[v3]
+Lăuda-ți-L și binecuvântați-I numele
+Că Domnul este bun.
+Bunătatea Lui ține în veac
+Și credincioșia Lui din neam în neam.
+
+[e]
+Lăuda-Îl-vom pe El.

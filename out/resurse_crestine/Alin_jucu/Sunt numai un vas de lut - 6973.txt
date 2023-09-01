@@ -1,0 +1,35 @@
+[title]
+Sunt numai un vas de lut {author: {Alin Jucu}, {rcId: {6973}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Sunt numai un vas de lut
+Dar de Dumnezeu făcut
+Sunt creat și modelat
+Doar de Dumnezeu Prea-nalt
+
+[c]
+/: Toarnă-n mine Untedelemnul
+Cu balsam vindecător
+Ia-mă pe aripile Tale Doamne
+Ca să-mi fie mai ușor :/
+
+[v2]
+Sunt numai un trecător
+Aici jos sunt călător
+Merg spre țintă spre liman
+Vreau s-ajung în Canaan
+
+[v3]
+De multe ori sunt lovit
+De frații mei sunt rănit
+Guri rele mă vorbesc
+Căci port chipul Tău Ceresc
+
+[v4]
+Doamne Ție-ți mulțumesc
+Pentru Harul Tău Ceresc
+Cu Duh Sfânt mai botezat
+De păcate mai iertat

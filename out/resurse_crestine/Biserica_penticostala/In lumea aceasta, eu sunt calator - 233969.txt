@@ -1,0 +1,38 @@
+[title]
+In lumea aceasta eu sunt calator {author: {Biserica Penticostala}, {rcId: {233969}}
+
+[sequence]
+v1,b,c,v2,b,c,v3,b,c
+
+[v1]
+/: În lumea aceasta, eu sunt călător,
+Pornesc înspre Țara de Sus;
+Acolo e Ținta unde vreau să-ajung,
+În Cer, unde e Isus. :/
+
+[b]
+Sunt trecător pe acest pământ,
+Sunt călător spre Locul Preasfânt.
+Sunt trecător pe acest pământ,
+Sunt călător spre Locul Preasfânt.
+Sunt trecător pe acest pământ,
+Sunt călător spre Locul Preasfânt.
+
+[c]
+/: Când voi sfârși alergarea, pe Isus voi vedea;
+Cu Brațele Deschise mă va aștepta;
+Voi vedea pe Domnul ce ma iubit,
+Și-mi va spune Duios: „
+Bine ai venit!” :/
+
+[v2]
+/: În lumea aceasta, eu sunt un străin,
+Nimic nu mă leagă de ea;
+Nu vreau să adun comori pe pământ,
+Căci în Cer e Țara mea. :/
+
+[v3]
+/: În lumea aceasta, cât voi trăi,
+Vreau să-L urmez pe Isus;
+Pe Urmele Lui vreau să pășesc,
+Până voi ajunge Sus. :/

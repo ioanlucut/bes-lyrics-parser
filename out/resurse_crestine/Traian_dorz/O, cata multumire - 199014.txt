@@ -1,0 +1,47 @@
+[title]
+O cata multumire {author: {Traian Dorz}, {rcId: {199014}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+O, câtă mulțumire,
+Să-Ți dau că mi-ai răspuns,
+Că din nectarul vieții,
+Îmi dai și-mi dai de-ajuns?
+
+[c]
+Îți mulțumesc,
+Și Te slăvesc,
+Isuse, Domnul meu,
+De tot ce-mi dai mereu.
+
+[v2]
+Că au a mele gânduri,
+Cu-a Tale-același țel,
+Că-n toate, totdeauna,
+Primim și dăm la fel.
+
+[v3]
+C-avem același templu
+Și-n sfântul lui altar
+Aceași jertfă ardem
+Pe-același dulce jar.
+
+[v4]
+O, câte am a-Ți spune,
+Dar limba mea e grea,
+Ți-aș spune cu privirea,
+Dar mi-e la fel și ea!
+
+[v5]
+Încerc să mi Te-apropii,
+Dar, iată, tremur tot;
+Ți-aș spune-a mea iubire,
+Dar, Doamne, nu mi-o pot.
+
+[v6]
+Primește-mi-le toate,
+Ca să-nțelegi, Isus,
+Că toate-s mulțumire
+De jos și până sus!

@@ -1,0 +1,29 @@
+[title]
+Preaiubitul meu e unul {author: {Traian Dorz}, {rcId: {5139}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Preaiubitul meu e Unul,
+Fără seamăn pe pământ
+/: Glasul Lui e armonie
+Farmec e al Lui Cuvânt. :/
+
+[v2]
+Orice drum pe unde trece,
+De mireasme-alese-i plin
+/: Câmpu-i mai frumos pe-acolo
+Cerul este mai senin. :/
+
+[v3]
+Dulcea Lui înfățișare
+Este-ntreagă-un farmec sfânt
+/: Mii de primăveri vin parcă
+Toate-odată pe pământ. :/
+
+[v4]
+Preaiubitul meu Isus,
+Nimenea asemeni nu-i
+/: Cât ați da de L-ați cunoaște,
+Ca să fiți și voi ai Lui. :/

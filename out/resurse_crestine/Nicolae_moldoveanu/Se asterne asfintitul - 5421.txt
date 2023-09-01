@@ -1,0 +1,22 @@
+[title]
+Se asterne asfintitul {author: {Nicolae Moldoveanu}, {rcId: {5421}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Se așterne asfințitul, vremea harului se duce...
+Tu ce n-ai primit Cuvântul și ai fost salvat, pe cruce,
+
+[c]
+/: Grăbește-te, cât este timp și har, căci Domnul ușa va-ncuia!
+Acum să vii, căci mâine e târziu,
+Și neiertat vei rămânea... :/
+
+[v2]
+Îți dorim, pe veci, salvare, să ajungi în fericire;
+De respingi, ce remușcare vei avea în nesfârșire!
+
+[v3]
+Vino, mâna îți întinde - cere-I astăzi îndurare!
+Mila Lui te va cuprinde, să te scape din pierzare.

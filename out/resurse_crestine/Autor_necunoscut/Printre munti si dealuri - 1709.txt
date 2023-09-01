@@ -1,0 +1,25 @@
+[title]
+Printre munti si dealuri {author: {Anonim}, {rcId: {1709}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Printre munti si dealuri simt pe Dumnezeu.
+Ape cristaline murmura mereu:
+/: Murmur, murmur, Domnul este bun! :/ x4
+
+[v2]
+Soarele se-nalta maiestuos pe cer
+Si revarsa, dulce, raze ce nu pier.
+/: Dulce, dulce, Domnul este bun! :/ x4
+
+[v3]
+Prin paduri si lanuri cantece rasun’
+Preamarind pe Domnul pentru ca e bun!
+/: Canta, canta, Domnul este bun! :/ x4
+
+[v4]
+Domnul plin de mila, vesnic este bun.
+Canta si tu suflet, Domnul este bun!
+/: Vesnic, vesnic, Domnul este bun! / x4

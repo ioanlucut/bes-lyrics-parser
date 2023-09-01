@@ -1,0 +1,23 @@
+[title]
+Nu pot sa stiu {author: {Adi Kovaci}, {rcId: {71904}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Eu sunt un om, cu slăbiciuni prea multe
+Dar am un Domn care e Sfânt
+Și când mă rog, atunci El mă ascultă
+Și tot mereu e cu mine.
+
+[c]
+/: Nu pot să știu, ce aduce ziua de mâine
+Dar știu că El e cu mine
+Eu nu-nțeleg, dar El mereu mă-nvață
+Cum să trăiesc o viață sfântă. :/
+
+[v2]
+Aicea jos noi avem multe probleme
+Dar știu că într-o zi vor dispare
+Ma-ncred în El, în ce Cuvântul spune
+Căci tot mereu va fi cu mine.

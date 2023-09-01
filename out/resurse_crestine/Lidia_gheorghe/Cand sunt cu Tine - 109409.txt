@@ -1,0 +1,29 @@
+[title]
+Cand sunt cu tine {author: {Lidia Gheorghe}, {rcId: {109409}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+Când sunt cu Tine,
+Totul e bine.
+Când sunt cu Tine,
+Totul e bine.
+
+[v1]
+Tu ești Doamne, viața mea!
+Ține-mă, nu mă lăsa!
+Trece-mă biruitoare
+Prin orișice încercare.
+
+[v2]
+Umple-mă Tu de putere,
+Să nu simt nici o durere.
+Și-atunci când va fi mai greu,
+Să Te chem, o, Domnul meu.
+
+[v3]
+Ține-mă la pieptul Tău!
+Eu să-ți fredonez mereu,
+Melodii calde, divine,
+Care vin tot de la Tine.

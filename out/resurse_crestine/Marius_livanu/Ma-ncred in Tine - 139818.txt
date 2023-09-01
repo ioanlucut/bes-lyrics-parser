@@ -1,0 +1,23 @@
+[title]
+Ma-ncred in tine {author: {Marius Livanu}, {rcId: {139818}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+/: Mă-ncred în Tine, orice s-ar întâmpla,
+Mă-ncred în Tine cu toată inima,
+Mă-ncred în Tine, când viața mi-este grea,
+Mă-ncred în Tine, Tu ești Speranța mea! :/
+
+[v1]
+Când valuri vin și vânturi bat, furtuna lovește mereu,
+Corabia mea, în mâna Ta, doresc să-ți las, Domnul meu,
+Lumina Ta, pe marea grea, nu mi-a lipsit niciodat’,
+Ci ne-ai trimis din paradis, pacea și liniștea Ta.
+
+[v2]
+De-atatea ori eu Te-am chemat, furtunii să îi poruncești,
+Vântul să mustri, valul înalt, marea s-o liniștești.
+De-atâtea ori m-ai ascultat, când norii lumina-mi opreau,
+I-ai risipit, speranță ne-ai dat, lângă Tine vreau veșnic să stau!

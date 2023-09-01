@@ -1,0 +1,37 @@
+[title]
+Mergand isus cu crucea-n spate {author: {Nicolae Moldoveanu}, {rcId: {5480}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Mergând Isus cu crucea-n spate,
+Pe Golgota sus,
+Femeile îndurerate
+După El, au plâns.
+
+[c]
+/: Isus a zis: „
+Nu mă plângeți
+Pe Mine! Eu vă spun curat:
+Dacă cu pomul verde fac asta,
+Ce-o fi cu cel uscat?” :/
+
+[v2]
+Cădea mereu, sub greul crucii
+Care-L apăsa,
+Dar nici unul dintre mulțime
+Nu L-a ajutat...
+
+[v3]
+Iar când, la Golgota, ajuns-a,
+Pe-o cruce L-au întins;
+Cu piroane L-au țintuit,
+Cu sulița L-au împuns...
+
+[v4]
+Batjocorit și plin de milă,
+Isus Se ruga:
+”
+Tată, iartă-i de-a lor vină
+Căci ei nu știu ce fac”.

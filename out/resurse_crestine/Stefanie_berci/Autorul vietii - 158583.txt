@@ -1,0 +1,39 @@
+[title]
+Autorul vietii {author: {Ștefanie Berci}, {rcId: {158583}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Autorul vieții scrie, azi, povestea mea,
+Autorul vieții mă va îndruma,
+Ce va fi eu nu cunosc,
+Lucrurile care-au fost,
+Iată, astăzi, sunt noi!
+Ce va fi eu nu cunosc,
+Doamne, Tu, ești credincios,
+Azi din mâna Ta primesc:
+
+[c]
+O nouă zi, soarele-a răsărit,
+Pagina nouă-Ți cer s-o scrii.
+O, eu știu, prin orice ar veni,
+De dragostea Ta nimic nu mă va despărți!
+O nouă zi din mâna Ta am primit,
+Pagina nouă-Ți cer s-o scrii.
+O, eu știu, prin orice ar veni,
+Veșnic mă vei iubi!
+
+[v2]
+Azi bucuria mea rămâne promisiunea Ta,
+Descurajarea nu o poate înlocui!
+Norul zilei de ieri plouă teamă și dureri,
+Oare ce-aș putea să-Ți cânt?
+Inima mă-ndeamnă iar, ”
+Cântă-I Lui, în orice ceas!
+Povestea ta acum așteaptă.”
+
+[e]
+Inima mă-ndeamnă iar, ”
+Cântă-I Lui, în orice ceas!
+Povestea ta acum așteaptă.”

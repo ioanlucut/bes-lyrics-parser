@@ -1,0 +1,40 @@
+[title]
+Mi-e dor mi-e dor de-acasa {author: {Anonim}, {rcId: {65315}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Mi-e dor, mi-e dor de-acasă
+Mi-e dor de Domnul meu
+/: Mi-e dor de străzile de aur
+Mi-e dor de Cel născut in staul
+Mi-e dor, mi-e dor de-acasă :/
+
+[v2]
+Mi-e dor, Ierusalime
+Să locuiesc in tine
+/: Mi-e dor, de portile cu sfinți
+Unde, sunt ai tăi ucenici
+Mi-e dor, mi-e dor de-acasă :/
+
+[v3]
+Mi-e dor, mi-e dor de Isus
+Mi-e dor de Slava Lui
+/: Să-i văd, fața cum strălucește
+Și pe, creștini cum îi iubește
+Mi-e dor, mi-e dor de-acasă :/
+
+[v4]
+Mi-e dor, de chipu-I blând
+Mi-e dor să-L văd curând
+/: Să-mi steargă-al meu plâns pe-obraz
+Să uit, de chin și de necaz
+Mi-e dor, mi-e dor de-acasă :/
+
+[v5]
+Mi-e dor, mi-e dor de-acasă
+Mi-e dor să stau la masă
+/: Să mă, serviască-al meu Isus
+In casa noastră cea de sus
+Mi-e dor, mi-e dor de-acasă :/

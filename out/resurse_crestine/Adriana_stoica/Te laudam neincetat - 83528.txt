@@ -1,0 +1,29 @@
+[title]
+Te laudam neincetat {author: {Adriana Stoica}, {rcId: {83528}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Te lăudăm neîncetat
+Căci meriți laudele noastre
+Chiar de-am avea o mie de voci
+N-ar fi de ajuns. :/
+
+[c]
+/: Eu vreau să fiu mic, mare Tu să fii
+Vreau să fiu mic, iar Tu glorificat
+Doamne, în toate slava Ta să fie
+Meriți toată lauda. :/
+
+[v2]
+/: Ești minunat o Domnul meu
+Și slava Ta, Te înconjoară
+Îngerii-n ceruri, Îți cântă mărire
+Și-Ți cânt și eu. :/
+
+[v3]
+/: Te laudăm căci Tu ești tot
+Ce-avem mai scump Doamne pe lume ?
+Te lăudăm neîncetat
+O, Domnul meu! :/

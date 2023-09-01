@@ -1,0 +1,26 @@
+[title]
+Laudati pe domnul din ceruri {author: {Anonim}, {rcId: {61426}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Lăudați pe Domnul din ceruri
+Voi îngerilor în cor,
+Să Îi cânte tot pământul
+Lanuri de maci și vântul!
+El este Creatorul!
+
+[v2]
+Lăudați pe Domnul din ceruri
+Copii, lăudați-L în cor
+Să Îi cânte văi și dealuri
+Și poenele cu flori.
+El este Salvatorul!
+
+[v3]
+Lăudați pe Domnul cel Sfânt
+Voi, păsărilor în cânt,
+Stele cât de multe toate
+Cântați-I Lui în noapte!
+El este Domnul Cel Sfânt!

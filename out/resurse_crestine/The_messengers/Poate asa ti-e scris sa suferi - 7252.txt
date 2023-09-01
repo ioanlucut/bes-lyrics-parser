@@ -1,0 +1,30 @@
+[title]
+Poate asa ti-e scris sa suferi {author: {The Messengers}, {rcId: {7252}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Poate așa ți-e scris să suferi,
+Doar lacrimile prietene-ți sunt,
+Poate viața-i zbuciumată
+Și-ntrebi: „
+Isuse, până când?”
+
+[c]
+Nu uita, și pentru tine va fi soare,
+Dar să veghezi la orice pas!
+Greul să nu te doboare,
+Hai, mai fă, mai fă încă un pas!
+
+[v2]
+Să învingi trebuie-n luptă,
+Dar nu cu ură tu să lupți,
+Ci-n genunchi, în rugă sfântă,
+Cu dragoste vrăjmașul să-nfrunți!
+
+[v3]
+Isus știe ce-i amarul,
+Durerea, chinul, lacrima,
+A băut întreg paharul...
+Luptă, biruință-ți va da!

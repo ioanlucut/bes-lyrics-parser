@@ -1,0 +1,29 @@
+[title]
+Stau si te-astept cu dor {author: {Romeo Stan}, {rcId: {55638}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Mai adă, o Doamne vremea-nviorării,
+Să treacă, o Doamne vremea întristării,
+Și să ne bucurăm prin Duhul Sfânt,
+Pe care L-ai trimis pe-acest pământ :/
+
+[c]
+/: Stau și Te-aștept cu dor,
+Doamne cu al Tău popor,
+Chiar dacă el trece prin greu,
+Tu mângâi poporul Tău :/
+
+[v2]
+/: Că pe pământ e multă suferință,
+Și fără Tine nu am biruință,
+Tu ai răbdat în locul meu pe cruce,
+Și mulțumire eu Îți pot aduce :/
+
+[v3]
+/: Doamne eu Te rog din inimă,
+Să m-ajuți să Te slujesc mereu,
+Să mă lupt, să mă păstrez curat,
+Să birui răul: doar binele să-l fac :/

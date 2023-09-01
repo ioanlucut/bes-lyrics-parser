@@ -1,0 +1,29 @@
+[title]
+Tata iarta-i {author: {Nicolae Moldoveanu}, {rcId: {244184}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Tată, iartă-i,
+Tată, iartă-i,
+/: Că nu știu ce fac :/
+Fă-i să-și vadă
+/: Fă-i să-și vadă
+Vina lor în veac. :/
+
+[v2]
+Tată, iartă-i,
+Ca să-și plângă
+/: Răul care-I fac. :/
+Tată, iartă-i,
+/: Să primească
+Mila Ta din veac. :/
+
+[v3]
+Tată, iartă-i,
+Tată, iartă-i,
+/: Ei nu știu ce fac; :/
+Tată, iartă-i,
+/: Ca să creadă
+Voia Ta din veac. :/

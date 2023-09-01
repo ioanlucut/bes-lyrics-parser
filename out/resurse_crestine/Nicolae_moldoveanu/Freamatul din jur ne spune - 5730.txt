@@ -1,0 +1,62 @@
+[title]
+Freamatul din jur ne spune {author: {Nicolae Moldoveanu}, {rcId: {5730}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Freamatul din jur ne spune
+De venirea Lui curand;
+Nu mai rataci in lume,
+Mantuirea neglijand!
+Suflete iubit, te-ntoarce!
+Astazi, la Isus sa vii!
+N-amana mereu a face
+Pasul ce te-ar mantui!
+
+[c]
+/: Esti pregatit? Da?
+Esti pregatit? :/
+
+[v2]
+Patima ce te robeste
+Domnul Isus iti va lua;
+El, in sange, te sfinteste
+Mantuire iti va da.
+Orisiunde-ndrepti privirea,
+Nimeni nu te-ar sprijini;
+Cauta-ti azi mantuirea
+Caci Isus va reveni!
+
+[v3]
+Cineva-ti doreste bine:
+Cel ce te-a adus aici!
+Duhul Sfant lucreaza-n tine;
+Vrea de rau sa te dezici.
+Duhul Sfant mai bate-odata
+Si apoi te va lasa...
+Astazi inca te asteapta;
+Spune-ti, hotararea ta!
+
+[v4]
+Haru-ncet ne paraseste...
+Bucurii sunt tot mai mici...
+Vai de cel ce zaboveste
+Sa ramana-n al sau vici!...
+Revenirea nu-i departe,
+Chiar de nu poti ca sa crezi;
+Insa, dupa Sfanta Carte,
+In curand, tu ai sa-L vezi!
+
+[v5]
+Frate, ce-ai facut cu Domnul
+Legamant ca-L vei urma:
+Lupta si invinge somnul,
+Azi, cat stai ’naintea Sa!
+Un mesaj rasuna-n lume:
+„
+Iata, ca Eu vin curand!”
+Tu, un „
+Aleluia!” spune.
+„
+Vino, Doamne, mai curand!”

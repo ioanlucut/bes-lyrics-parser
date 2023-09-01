@@ -1,0 +1,31 @@
+[title]
+Chemarea sfanta (intoarce-te si spune-i iarta-ma) {author: {Ovidiu Liteanu}, {rcId: {187415}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Chemarea Sfântă ai auzit,
+Isus Hristos te cheamă,
+O, vino suflete iubit,
+Te-ntoarce și n-ai teamă!
+
+[c]
+Întoarce-te si spune-I: iartă-mă,
+Mă-ntorc Isus la Tine!
+Acum te rog să intri-n viața mea,
+Rămâi mereu cu mine!
+Acum te rog să intri-n viața mea,
+Să fiu al Tău Stăpâne!
+
+[v2]
+De Duhul Sfânt ești cercetat,
+Pătruns ești de Iubirea,
+Ce sus pe cruce a răbdat,
+Te cheamă Fericirea!
+
+[v3]
+Ce milă ai o scump Isus,
+Că azi privești spre mine,
+Mă-ntorc și vreau să-ți fiu supus,
+Să fiu in Rai cu Tine!

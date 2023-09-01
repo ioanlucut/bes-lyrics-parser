@@ -1,0 +1,35 @@
+[title]
+In gradina ghetsimani {author: {Nicolae Moldoveanu}, {rcId: {244179}}
+
+[sequence]
+v1,c,v2,c2,v3,c2
+
+[v1]
+În grădina Ghetsimani
+Dacă Te-ai rugat,
+Seara au venit dușmanii
+Care Te-au legat.
+
+[c]
+Ucenicii Tăi, Isuse,
+Toți s-au risipit,
+Singur ai rămas cu răii
+Care Te-au lovit.
+
+[v2]
+Eu, Te rog, Isuse Doamne,
+Să-mi ajuți mereu,
+Ce-au făcut ai Tăi atuncea,
+Să nu fac și eu.
+
+[c2]
+Ci oricâte suferințe
+Ar fi de-ndurat
+Eu să Te urmez pe Tine
+Cu adevărat.
+
+[v3]
+/: Fă-mă Tu, Isuse-n stare
+Să-Ți fiu credincios,
+Fără teamă și rușine,
+Să-Ți urmez voios. :/

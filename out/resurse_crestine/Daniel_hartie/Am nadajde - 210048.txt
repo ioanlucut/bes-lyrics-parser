@@ -1,0 +1,35 @@
+[title]
+Am nadajde {author: {Daniel Hartie}, {rcId: {210048}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Am nadajde caci ajung vreodata
+Sa te vad in fata Domnul Meu
+Caci aici prin viata-mi zbuciumata
+Ti-am cantat la bine si la greu
+
+[c]
+/: Voi Slavii voi lauda Doamne bunatatea Ta
+E putin nu e de ajuns pentru Harul Tau Isus
+Cantul meu si viata mea sunt comor in mana Ta
+Meriti ca sa fi laudat, tu esti vrednic de inaltat :/
+
+[v2]
+Nu mai am nimic in asta lume
+Ce ar putea speranta-mi a stirbi
+Dorul si suspinul dupa Tine
+Dupa clipa cand vei reveni
+
+[v3]
+Nu ma leaga de tarana moarta
+Amintiri incat sa imi doresc
+Sa mai stau aici in asta lume
+Dupa Tine, o, Isus, tanjesc
+
+[v4]
+Vreau sa fiu cu Tine pe vecie
+Tot amarul sa se faca scrum
+Tu esti toata bucuria vie
+Te iubesc Isus, plangand iti spun.

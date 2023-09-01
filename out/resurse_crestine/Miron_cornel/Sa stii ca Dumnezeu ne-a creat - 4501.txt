@@ -1,0 +1,29 @@
+[title]
+Sa stii ca dumnezeu ne-a creat {author: {Miron Cornel}, {rcId: {4501}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Să știi că Dumnezeu ne-a creat
+După chipul Său minunat
+Noi suntem făptura mâinii Lui
+El e Creatorul omului.
+
+[c]
+Noi suntem o seminție aleasă
+Suntem din neam de Dumnezeu
+O preoție împărătească
+Suntem popor ales de EL.
+
+[v2]
+Ce mare dragoste ne-a arătat
+Când răstignit pe cruce a stat
+Astăzi noi suntem salvați prin har
+Crezând în jertfa Lui de pe Calvar.
+
+[v3]
+Isus iubit, te așteptam să vii
+Tânjim după eterne bucurii
+Ne-am săturat de tot ce-i omenesc
+Dorim să fim cu Tine sus în cer.

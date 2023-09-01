@@ -1,0 +1,35 @@
+[title]
+Ajuta-ne sa te iubim {author: {Nicolae Moldoveanu}, {rcId: {243946}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Ajută-ne să Te iubim
+Cerescul nostru Tată,
+/: Chiar dacă ar fi să nu primim
+În veci, nici o răsplată. :/
+
+[v2]
+Să credem în puterea Ta
+Adânc, cum ni se spune
+/: Chiar dacă nu ni-i asculta,
+Nicicând vreo rugăciune. :/
+
+[v3]
+Să ținem sus Cuvântul Tău
+În crâncena-ncercare,
+/: Chiar dacă ne-ar lovi cel rău
+Cu ură și mai mare. :/
+
+[v4]
+Să nu ne îndoim deloc
+În și mai grea ispită,
+/: S-avem când vom ieși din foc
+O față strălucită. :/
+
+[v5]
+Iar astfel zilnic preschimbați
+Din bine în mai bine,
+/: S-atingem slava înfiați,
+Având un chip cu Tine! :/

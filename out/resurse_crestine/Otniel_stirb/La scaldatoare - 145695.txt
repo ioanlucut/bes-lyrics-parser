@@ -1,0 +1,63 @@
+[title]
+La scaldatoare {author: {Otniel Stirb}, {rcId: {145695}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,c4
+
+[v1]
+Stau aici la scăldătoare,
+Lângă poarta oilor
+Și aștept o vindecare
+Cu bolnavii din pridvor.
+Că din când în când, din slavă,
+Îngerul se cobora
+Și făcea mișcarea apei
+Pentru cei ce sufereau.
+
+[c]
+Aștept cu nerăbdare să vină cineva,
+Să intru-n scăldătoare, să scap de boala mea
+Dar nimănui nu-i pasă că stau pe patul meu,
+Mă-ntreb „nu mai privește spre mine Dumnezeu?”
+
+[v2]
+Dar deodată, din mulțime,
+Un samaritean milos
+Se oprește lângă mine,
+Mi-a vorbit așa duios.
+Nu știu cine ești, străine,
+Nici de unde ai venit
+Dar Îți multumesc că astăzi
+Lângă mine Te-ai oprit.
+
+[c2]
+Aștept cu nerăbdare să vină cineva,
+Să intru-n scăldătoare, să scap de boala mea
+Dar nimănui nu-i pasă că stau pe patul meu,
+Dar astăzi Se oprește la mine Dumnezeu.
+
+[v3]
+N-am pe nimeni lângă mine,
+Sunt un om al nimănui
+Dar aștept de ani de zile
+Vindecarea Domnului.
+„
+Scoală-te, ridică-ți patul,
+Dute-acasă sănătos!
+Nu mai sta bolnav aicea,
+Azi te-a vindecat Hristos!
+
+[c3]
+Aștepți cu nerăbdare să vină cineva,
+Să intri-n scăldătoare, să scapi de boala ta
+Dar nimănui nu-i pasă că stai pe patul tau
+Dar astăzi se oprește la Tine Dumnezeu!
+
+[c4]
+Aștepți cu nerăbdare să vină cineva,
+Să intri-n scăldătoare, să scapi de boala ta
+Dar iată, ce minune cum nici nu te-ai gândit:
+La tine se oprește chiar Fiul lui David!
+El vindecă de boale și-ți iartă-al tău păcat
+Să strigi in gura mare „
+Isus m-a vindecat!”

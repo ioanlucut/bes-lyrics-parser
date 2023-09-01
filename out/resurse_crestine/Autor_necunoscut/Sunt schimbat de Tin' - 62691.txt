@@ -1,0 +1,37 @@
+[title]
+Sunt schimbat de tin {author: {Anonim}, {rcId: {62691}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Sunt schimbat de Tin’,
+În chipul Tău
+Sunt schimbat de Tin’,
+Și devin la fel
+Sunt schimbat de Tin’,
+Ca și Tatăl meu
+Rege în ceruri
+
+[c]
+Tu-mi ești rege
+Și trăiesc să Te cunosc
+Să umblu în plinătatea
+Duhului Tău
+Voi rămâne-n Tin’ și Tu în mine
+Și voi împlini dorința Ta
+
+[v2]
+Ai pus un foc în mine
+Când Te-am cunoscut
+Și flacăra se-aprinde
+Tot mai mult
+Vin după Tine, Isus,
+Cu tot ce sunt
+Căci am am nevoie
+De prezența Ta
+
+[e]
+Din slavă în slavă
+Eu vreau să merg
+Nicicând nu voi fi la fel

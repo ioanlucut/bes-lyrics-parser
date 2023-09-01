@@ -1,0 +1,35 @@
+[title]
+Ce bine e cu tine doamne mare {author: {David Lela}, {rcId: {239066}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ce bine e cu Tine, Doamne mare
+Ce bine e cu Tine pe pământ
+Chiar de e luptă mare-ntre popoare
+Poporul Tău păzit e orișicând
+
+[c]
+/: Luptați, vegheați, rugați-vă
+De Duhul Sfânt umpleți-vă
+Rămâneți tari și neclintiți
+Până la cer vom fi răpiți :/
+
+[v2]
+Sunt mii de oameni astăzi în spitale
+Sunt mulți ce părăsesc acest pamânt
+Ne-apropiem de vremurile-n care
+Răpirea-i mai aproape azi ca oricând
+
+[v3]
+Să se trezească astăzi tineretul
+Ce e cuprins de lumea aceasta rea
+Să se întoarcă la credința veche
+Căci doar prin ea în ceruri vor intra
+
+[v4]
+Curând se va-auzi pe nori strigarea
+Ce-o așteptăm de mult pe-acest pământ
+Aceasta ne va fi atunci salvarea
+Mireasa va pleca de pe pământ

@@ -1,0 +1,29 @@
+[title]
+Ma duc cu trenul {author: {Nicolae Moldoveanu}, {rcId: {229073}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Mă duc cu trenul la bunica,
+și-ți scriu mămico, o scrisoare,
+să nu te stăpânească frica
+cu gândul la o rea-ntâmplare.
+
+[v2]
+Bunica mea e credincioasă,
+și de la ea vreau și mai bine
+să-nvăț credința luminoasă
+în Cel ce lumea asta ține.
+
+[v3]
+El, Dumnezeul veșnic tare,
+îmi dă lumină și putere
+să fiu fetiț-ascultătoare,
+așa cum Cartea Lui o cere!
+
+[v4]
+Când mă întorc acasă iară,
+să vezi că sunt mai înțeleaptă.
+Din zori de zi și până-n seară
+te-ascult și-n vorbă și în faptă.

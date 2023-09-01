@@ -1,0 +1,29 @@
+[title]
+Incercat pe drumul vietii {author: {Fratii din Bacesti}, {rcId: {197260}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Incercat pe drumul vieții
+Adeseori eu plâng
+Însă eu cu bucurie
+Înainte mă avânt :/
+
+[c]
+/: Ori de câte ori
+Trec prin încercări
+Eu strig lăudat
+Fie Domnul Preaînalt :/
+
+[v2]
+/: Te laud pe tine Doamne
+Chiar și atunci când plâng
+Îmi ștergi lacrimile amare
+Și te laud Tată Sfânt :/
+
+[v3]
+/: Mă incred in tine Doamne
+Orice mi s-ar întâmpla
+Chiar de trec prin intuneric
+Tu îmi vei da biruința :/

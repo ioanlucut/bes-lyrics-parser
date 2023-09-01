@@ -1,0 +1,37 @@
+[title]
+Cantarea mea {author: {Nicolae Moldoveanu}, {rcId: {247918}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Cântarea mea, deplin, lsuse,
+Și-a lepădat orice podoabă,
+Cu-adâncurile ei, supuse,
+Vrea Ție-n veci să-Ți fie roabă.
+Pe Tine doar, numai pe Tine,
+Să Te înalțe-n orice vreme;
+Printre chemări
+Ie-i senine,
+Ființa Ta cu dor S-o cheme!
+
+[v2]
+Și cu-a luminii simplitate
+să poată netezi Cărarea,
+Spre harurile minunate,
+La toți câți îi aud chemarea.
+Să poată-n dulcea-i armonie,
+Furtunile să potolească,
+Puteri în suflete să-nvie,
+Spre Tine, Doamne, să pășească.
+
+[v3]
+Balsam alinător și darnic
+Să fie pentru-orice făptură,
+Și fie credincios paharnic,
+Turnând a păcii băutură...
+O, ump
+Ie-mi inima, lsuse,
+Cu melodii tot mai divine,
+Și-n simplitatea lor, supuse
+Să facă Sluibă pentru Tine!

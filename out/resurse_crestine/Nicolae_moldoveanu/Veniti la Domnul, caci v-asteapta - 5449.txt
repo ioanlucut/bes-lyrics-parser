@@ -1,0 +1,26 @@
+[title]
+Veniti la domnul caci v-asteapta {author: {Nicolae Moldoveanu}, {rcId: {5449}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Veniți la Domnul, căci v-așteaptă, în Paradisul cel de sus.
+/: Unde-Și așteapt-a Sa Mireasă, cu bucurie de nespus. :/
+
+[v2]
+Căci ea, de multă vreme, geme aici în Valea Plângerii,
+/: Dar va veni și ziua-n care pe ea Domnul o va răpi. :/
+
+[v3]
+Acolo nu-s lacrimi, suspine; acolo-s numai bucurii,
+/: Acolo-i numai fericire, căci Isus este Mire sfânt. :/
+
+[v4]
+În haine cerești o va-mbrăca, Isus o va întâmpina,
+/: ’
+Mbrăcat în haina Lui de Mire, căci masa de sus e gata. :/
+
+[v5]
+De ce mai stați nepăsători? Grăbiți venirea Domnului!
+/: Căci cu El ne vom bucura, în veci de veci. Aleluia! :/

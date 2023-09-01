@@ -1,0 +1,30 @@
+[title]
+Sa-nveti singur sa te rogi {author: {Nicolae Moldoveanu}, {rcId: {853}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Să-nveți singur să te rogi
+Tatălui din cer prea sfânt
+Cum ceri pâine și poveți
+Mamei tale pe pământ.
+
+[c]
+Singur să te rogi, drag copil mereu
+Spune-așa cum știi tot lui Dumnezeu
+Nu numai bunica, nu numai mămica
+Nalțe pentru tine rugă în suspine.
+Ci tu-ntâi să spui rugă Domnului.
+
+[v2]
+Rugăciunea-i firul sfânt
+Care leagă necurmat
+Pe cei mici și mari deplin
+De cerescul Împărat.
+
+[v3]
+Cere-i Domnului să-ți dea
+Foc în inimă și-n gând.
+Să-nveți singur să te rogi
+Pentru toate lui oricând.

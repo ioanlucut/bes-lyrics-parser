@@ -1,0 +1,33 @@
+[title]
+Isuse te iubesc mai mult {author: {Ralph E. Hudson}, {rcId: {1693}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Isuse, Te iubesc mai mult
+Ca tot ce-i pământesc.
+De când ești Tu amicul meu
+În pace eu trăiesc.
+
+[c]
+Eu nici nu aș fi cugetat ce mult Tu mă iubești.
+Prin mila și-ndurarea Ta iertare-mi dăruiești.
+
+[v2]
+Pe-ai mei prieteni îi iubesc;
+Pe Tine și mai mult.
+Frumos e numele Tău sfânt:
+E ca un cânt plăcut.
+
+[v3]
+Ce mari și sfinte bucurii
+În inimă mi-ai dat!
+De n-aș avea iubirea Ta,
+Aș fi tot întristat.
+
+[v4]
+O, ce frumos e-n slava Ta,
+Iubitul meu Isus!
+Cu Tine-n veci m-oi bucura,
+Așa cum Tu mi-ai spus.

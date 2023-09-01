@@ -1,0 +1,35 @@
+[title]
+Cand valurile de-ncercare m-au cuprins {author: {amos7}, {rcId: {75192}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cand valurile de-ncercare m-au cuprins
+Si unul dupa altul a venit
+Atunci eu ochii mei spre cer i-am indreptat
+Si-n viata mea inca o speranta s-a aprins
+
+[c]
+Noi azi venim sa-ti multumim
+Caci viata ce-o aveam aici
+E plina de incercari, e plina de dureri
+Dar totusi noi cu Tine biruim
+
+[v2]
+Cand ochii mei au lacrimat de amar
+Credeam O Doamne caci m-ai parasit
+Dar tu cu glasul dulce mi-ai vorbit
+Te voi scapa de-al incercarilor pahar
+
+[v3]
+Ajuta-ne Isus cat vom trai
+Prin incercari sa te putem sluji
+Sa nu cartim cand vremuri va veni
+Caci Tu ne-ai pus ca-n veci vei fi cu noi
+
+[v4]
+Noi stim o Tata ca Tu vei veni
+De pe pamant la cer ne vei rapi
+Dar noi in schimb iti vom canta mereu
+In veci de veci Prea Sfinte Dumnezeu

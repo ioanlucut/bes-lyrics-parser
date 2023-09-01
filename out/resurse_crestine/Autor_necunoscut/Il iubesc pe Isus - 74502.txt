@@ -1,0 +1,13 @@
+[title]
+Il iubesc pe isus {author: {Anonim}, {rcId: {74502}}
+
+[sequence]
+v1,v2
+
+[v1]
+/: Îl iubesc pe Isus :/
+Că-ntâi El m-a iubit.
+
+[v2]
+/: Isus ce nume minunat și ce glorios :/
+Că-ntâi El m-a iubit.

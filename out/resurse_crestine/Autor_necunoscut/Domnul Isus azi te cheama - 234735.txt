@@ -1,0 +1,29 @@
+[title]
+Domnul isus azi te cheama {author: {Anonim}, {rcId: {234735}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Domnul Isus azi te cheamă
+Cu glasu-i dulce și bland.
+O veniți cu toți la mine
+Mântuire-n dar primiți.
+
+[c]
+Veniți cu toți
+Voi toți cei însetați
+Mai este timp mai este har
+O nu mai amânați.
+
+[v2]
+Încă răsună chemarea
+Cu ecou de pe Calvar,
+Am jertfit și pentru tine
+Ca să ai salvare-n dar.
+
+[v3]
+Te glorificăm Isuse
+Pentru sângele vărsat,
+Pentru prețul jertfei tale
+Ca să fim pe veci salvați.

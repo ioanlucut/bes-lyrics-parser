@@ -1,0 +1,29 @@
+[title]
+Pastreaza-te curat {author: {Toma Coca}, {rcId: {87089}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+/: Eu mustru și pedepsesc,
+Pe acei ce mult îi iubesc,
+Fii plin de râvnă dar...
+Și pocăiește-te :/
+
+[v1]
+Eu sunt acela care bate,
+La inima ta creștine,
+De-mi vei deschide voi intra,
+Și voi cina cu tine.
+
+[v2]
+Păstrează dar cuvântul meu,
+Și răbdător să fii,
+Păzit vei fi de ceasul greu,
+Ce-n lume va veni.
+
+[v3]
+Eu vin curând, tu să fii treaz,
+Veșmântul alb spălat,
+Cununa tu să nu o pierzi,
+Păstrează-te curat.

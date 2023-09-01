@@ -1,0 +1,40 @@
+[title]
+Se-aude-un glas din departari {author: {Anonim}, {rcId: {155827}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c2
+
+[v1]
+/: Se-aude-un glas din depărtări :/
+Treziți-vă, treziți-vă!
+Se-aude-un glas din depărtări!
+
+[c]
+Iată vine Mirele,
+Pregătiți candelele,
+Nu mai stați, vă deșteptați,
+Pe Isus să-ntâmpinați.
+
+[v2]
+În miez de noapte va veni,
+Isus pe nori se va ivi.
+Treziți-vă, treziți-vă!
+În miez de noapte va veni.
+
+[v3]
+Vegheați mai mult ca orișicând,
+Căci vine Domnul în curând!
+El va veni din cerul sfânt,
+Să judece pe-acest pământ.
+
+[v4]
+Voi ce-ați suferit pe-acest pământ
+Strigați să vină mai curând.
+Fiți gata dar privind în sus
+Strigând, vino Doamne Isus!
+
+[c2]
+Vino Doamne chiar acum,
+Nu mai zăbovi pe drum!
+Căci noi strigăm de pe pământ
+Vino Doamne mai curând!

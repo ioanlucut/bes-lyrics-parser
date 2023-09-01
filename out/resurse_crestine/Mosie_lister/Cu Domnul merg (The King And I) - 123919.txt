@@ -1,0 +1,26 @@
+[title]
+Cu domnul merg (the king and i) {author: {Mosie Lister, Traducere RO}, {rcId: {123919}}
+
+[sequence]
+v1,c,v2,c,s,c
+
+[v1]
+Cu Domnul merg pe drumul vieții mele
+Printre mulțimi ce vin și trec;
+El, Cel Măreț și eu, fără putere
+Mână de mână, cu Domnul merg.
+
+[c]
+Cum se-ngrijește El de mine, este un mister
+El care ține-n mâna Sa, pământu-ntreg;
+Smerit mă-ntreb și-n ruga mea, eu Îi cer
+Să mă ajute să merg cu El.
+
+[v2]
+Străin am fost de Dumnezeu, odată
+Fără speranță, fără vreun țel;
+Dar mâna Sa m-a îndrumat spre casă
+Voios de-acum, cu Domnul merg.
+
+[s]
+Pe când vorbeau ei și se întrebau, Isus S-a apropiat și mergea pe drum împreună cu ei. Luca 24:15

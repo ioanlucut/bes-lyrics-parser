@@ -1,0 +1,35 @@
+[title]
+Sfant maret si vrednic {author: {Luminița Tomuța}, {rcId: {205509}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Te-mbraci în strălucire
+Și-n slavă locuiești,
+Îți cântă cu iubire
+Oștirile cerești.
+
+[c]
+Sfânt, măreț și vrednic,
+Domn atotputernic,
+Sfânt, măreț și vrednic
+Ești doar Tu, Isus.
+
+[v2]
+Făpturile proclamă
+Că numai Tu ești sfânt,
+Bătrânii Te aclamă
+Cu fața la pământ.
+
+[v3]
+Venim cu adorare,
+Suntem un singur glas
+Ce strigă tot mai tare
+Cu fiecare pas.
+
+[v4]
+Când lauda se-nalță
+În slăvile cerești,
+La Tronul Tău răsună
+Cântări împărătești.

@@ -1,0 +1,37 @@
+[title]
+Numai drumul pe pamant e al meu {author: {Nicolae Moldoveanu}, {rcId: {246127}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Numai drumul, pe pământ,
+E al meu.
+/: Pe el trec, prin ploi și vânt,
+Plin de dor, plin de-avânt,
+Spre Lăcașul Celui Sfânt
+- Dumnezeu. :/
+
+[v2]
+Numai haru-mi dă puteri
+Prin furtuni.
+/: El m-ajută în dureri.
+EI îmi ia orice poveri,
+EI mi-aduce mângâieri
+Și cununi. :/
+
+[v3]
+Numai Duhul lui Hristos
+Mi-este scut.
+/: Și prin lumea cea de jos
+Mă-nveșmântă luminos,
+Cu-adevărul preafrumos
+Și plăcut. :/
+
+[v4]
+Numai drumul e al meu
+Pe pământ.
+/: Fie greul cât de greu,
+Trec ușor prin el, mereu,
+Când rămân în Dumnezeu
+Și-n Cuvânt. :/

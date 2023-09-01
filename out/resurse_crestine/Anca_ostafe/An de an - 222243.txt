@@ -1,0 +1,27 @@
+[title]
+An de an {author: {Anca Ostafe}, {rcId: {222243}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+An de an auzi cantarea ca Hristos s-a născut
+A venit din înaltime cel ce-i vesnic sfant
+S-a nascut în grajdul rece, intr-o iesle jos
+A venit sa se jertfeasca pentru pacatosi
+
+[c]
+/: S-a nascut Mesia, Fiul Celui Sfant
+A venit s-aducă pace pe pământ
+S-a născut Mesia, sa-L glorificăm
+Lauda, onoare să-i dăm. :/ x2
+
+[v2]
+S-a născut Mântuitorul, chip de om a luat
+N-a venit ca un rege și nici ca-mpărat.
+S-a nascut smerit în iesle, îngeri I-au cântat,
+Magi, păstori i-au adus daruri și s-au închinat.
+
+[b]
+Cântăm glorie, aleluia, Regelui Isus
+Cântăm glorie, aleluia, pace ne-a adus.

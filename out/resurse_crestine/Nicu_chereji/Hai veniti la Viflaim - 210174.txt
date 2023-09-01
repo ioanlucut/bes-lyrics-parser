@@ -1,0 +1,35 @@
+[title]
+Hai veniti la viflaim {author: {Nicu Chereji}, {rcId: {210174}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Hai veniți la Viflaim
+S-A născut Isus!
+Domnului să ne-nchinăm
+S-a născut Isus!
+
+[c]
+Bucurați-vă, cântați,
+Domnului vă închinați
+Pe Pământ, pe Pământ
+S-a născut Isus!
+
+[v2]
+Bucurați-vă creștini
+Domnul pe pământ
+Este-o pavăză și-un scut
+Sfânt de trei ori Sfânt!
+
+[v3]
+Munților vă bucurați,
+Văi și ape-adânci
+Oameni într-un cor strigați
+S-a născut Isus!
+
+[v4]
+Fiți voioși, vă bucurați
+Căci El azi în Cer
+Este Domn și Dumnezeu
+Sfânt Emanuel!

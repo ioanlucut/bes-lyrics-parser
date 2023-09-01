@@ -1,0 +1,29 @@
+[title]
+Nasterea lui {author: {Cătălin Ciuculescu}, {rcId: {183334}}
+
+[sequence]
+v1,b,c,v2,b,c
+
+[v1]
+Nu, nașterea Lui nu-i cum ai auzit
+Sau, poate ai văzut în imagini
+Nu, n-a fost frumos, și nu a fost ușor
+Nici plăcut mirositor...
+
+[b]
+Era nevoie să salveze lumea
+S-a smerit, venind!
+
+[c]
+Într-un grajd, câtă umilință
+Să fii Împărat în cerul înalt
+Și, totuși
+Să-l lași și să vii în lume
+Să iei chip de om și haină de rob
+Ce suflet
+
+[v2]
+Tu sărbătorești cadouri și un brad
+Și, poate, pe Crăciun din poveste
+Dar vezi că Isus e Cel ce-ar merita
+Primul loc în viața ta

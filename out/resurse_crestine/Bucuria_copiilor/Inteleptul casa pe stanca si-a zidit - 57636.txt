@@ -1,0 +1,23 @@
+[title]
+Inteleptul casa pe stanca si-a zidit {author: {Bucuria copiilor}, {rcId: {57636}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+/: Înțeleptul casa pe stâncă și-a zidit, :/ x3
+Și furtuna a venit.
+/: Ploaia zile-ntregi s-a revărsat, :/ x3
+Dar casa nu s-a clintit.
+
+[v2]
+/: Nebunul casa pe nisip și-a pus, :/ x3
+Și furtuna a venit.
+/: Ploaia zile-ntregi s-a revărsat, :/ x3
+Și casa s-a dărâmat.
+
+[v3]
+/: Zidește-ți casa pe Isus Hristos, :/ x3
+Și El te va binecuvânta.
+/: Când ruga ta va merge în cer, :/ x3
+El revarsă binecuvântări.

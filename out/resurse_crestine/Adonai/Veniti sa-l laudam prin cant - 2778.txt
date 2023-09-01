@@ -1,0 +1,26 @@
+[title]
+Veniti sa-l laudam prin cant {author: {Adonai}, {rcId: {2778}}
+
+[sequence]
+c,v1,c,v2,c,e
+
+[c]
+Veniți să-l lăudăm prin cânt
+Să știe azi întreg pământ
+Sub stea un Rege s-a născut
+/: Și dragostea a coborât. :/
+
+[v1]
+Fiindcă-atât ne-a iubit că a dat pe Fiul Sau
+Pentru noi că știm, să simțim dragostea și să-L iubim.
+Să devin chiar a Lui și azi vrem să vestim venirea
+Din cer a venit, s-a smerit căci mult ne-a iubit.
+
+[v2]
+Slavă-n locul preaînalt și pace pe pământ
+Cântăm azi pruncului divin în corul Celui viu și sfânt
+Iar noi vrem chiar pe toți să ne-asculți și să ne primești
+Noi venim, mulțumim pentru darul de viață
+
+[e]
+/: Și dragostea a coborât. :/ x4

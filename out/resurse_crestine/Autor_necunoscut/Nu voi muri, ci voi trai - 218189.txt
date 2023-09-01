@@ -1,0 +1,35 @@
+[title]
+Nu voi muri ci voi trai {author: {Anonim}, {rcId: {218189}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Nu voi muri, ci voi trăi
+Să povestesc lucrarea Ta,
+Ce-ai săvârsit-o pe deplin,
+Isuse-atunci pe Golgota.
+
+[c]
+Voi povesti, voi înălța,
+Lucrarea Ta, pe Golgota,
+/: Ca să cunoască toți, Isus, :/
+/: Măreața jertfă ce-ai adus. :/
+
+[v2]
+Nu vreau să uit, ci treaz mereu,
+Voi inălta eternu-Ți har
+Ce ni L-ai coborât întreg,
+Isuse-atuncea pe Calvar.
+
+[v3]
+Nu pot și nici nu vreau să tac
+Oricât de crunt e-al lumii val,
+Ci vreau să spun ce-ai făptuit,
+Isus, pe-al căpătânii deal.
+
+[v4]
+Nu voi muri, ci voi trăi,
+Că harul Tău aici M-a pus:
+Să trâmbițez, să spun cu foc
+Tot ce-ai făcut, Isus, Isus.

@@ -1,0 +1,29 @@
+[title]
+Asculta suflete {author: {Tabara 477}, {rcId: {197719}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Gandul meu sau vocea Ta
+Ce sa cred, e lupta grea
+Cand ma simt pierdut, nu renunt
+Imi reamintesc cine sunt
+
+[c]
+Asculta, suflete al meu, iata realitatea Ta
+Esti iubit de Dumnezeu, asta nu se va schimba
+Asculta, suflete al meu, asta-i realitatea Ta
+Esti creat de Dumnezeu, el e implinirea Ta
+Asculta, suflete al meu, iata realitatea Ta
+Esti iubit de Dumnezeu, asta nu se va schimba
+Asculta, suflete al meu, asta-i realitatea Ta
+Esti creat de Dumnezeu, el e implinirea Ta
+R: Ooo, canta suflete al meu, laude lui Dumnezeu
+Pentru cel din vesnici, care a fost e si va fi
+
+[v2]
+Visul tau a fost mereu
+Sa fiu al tau, sa fi al meu
+Cu tot ce sunt, azi indraznesc
+Sa cred ce-mi spui si sa rostesc

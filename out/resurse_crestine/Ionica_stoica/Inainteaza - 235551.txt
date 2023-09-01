@@ -1,0 +1,29 @@
+[title]
+Inainteaza {author: {Ionică Stoica}, {rcId: {235551}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Sa nu te-opresti nicicand pe cale
+Chiar daca valuri vin mereu
+Nu te opri pe-a ta carare
+Cu tine este Dumnezeu.
+
+[c]
+Inainteaza prin credinta
+Nu te lasa invins de rau
+Sa ai nadejde sfanta frate
+Cu tine este Dumnezeu.
+
+[v2]
+Cand incercarea te loveste
+Si esti trantit pan’ la pamant
+Ridica-te si iar porneste
+Cu tine este Domnul Sfant.
+
+[v3]
+De nu mai poti ca sa razbesti
+Prin valurile care vin
+Tu nu uita ca in curand
+Va fi din nou iar cer senin

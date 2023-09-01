@@ -1,0 +1,34 @@
+[title]
+Astazi isus te cheama {author: {Anonim}, {rcId: {163044}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c2
+
+[v1]
+Astăzi Isus te cheamă, o, vino la izvor,
+Tu fost-ai la spitale ca să ceri ajutor.
+
+[c]
+Dar rana prea adâncă n-o poate alina,
+Căci doctorii te-au dat acasă, că n-o pot vindeca!
+Dar rana prea adâncă n-o poate vindeca,
+Căci doctorii te-au dat acasă, că n-o pot vindeca!
+
+[v2]
+De-aceea lacrimi grele vărsat-ai de mult plâns
+Și multă deznădejde în ochii tăi ai strâns.
+
+[v3]
+La oameni nu-i mai cale, nici leac alinător,
+Doar Unul singur poate să-ți fie ajutor.
+
+[v4]
+Din patima durerii, din chiar suspinul tău,
+Strigă: ”
+Milă, Isuse!”, va sta la patul tău.
+
+[c2]
+E Creatorul, Însuși și poate ca să-ți dea
+Alin și leac și vindecare ca să mai poți umbla.
+Din noaptea încercării să-ți amintești mereu
+Cum sta-ta, Însuși Domnul Isus cu tine-n ceasul greu!

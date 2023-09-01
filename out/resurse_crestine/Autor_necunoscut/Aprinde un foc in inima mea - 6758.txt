@@ -1,0 +1,15 @@
+[title]
+Aprinde un foc in inima mea {author: {Anonim}, {rcId: {6758}}
+
+[sequence]
+c,v1,c
+
+[c]
+/: Aprinde un foc în inima mea
+Umple-o cu iubirea Ta :/
+
+[v1]
+Și acest foc să mistuie
+Orișice durere grea
+Aprinde un foc adânc
+în inima mea.

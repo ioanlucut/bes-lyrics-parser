@@ -1,0 +1,23 @@
+[title]
+Ma aplec in rugaciune {author: {Alexandru Groza}, {rcId: {113202}}
+
+[sequence]
+s,c,s,c,s,c
+
+[s]
+Mă aplec în rugăciune
+Și mă voi ruga:
+Doamne, Ție îți voi spune
+Toată grija mea!
+Pune-n mine Tu, credință
+Și iubirea Ta.
+Eu sunt slab, Tu dă-mi putere
+Sufletului meu
+Tu-ntărește-a mea credință
+Zi de zi, mereu!
+
+[c]
+Luminează-mi fața
+Șterge-mi lacrima
+Doamne, Tu te rog lucrează-ntruna
+În viața mea

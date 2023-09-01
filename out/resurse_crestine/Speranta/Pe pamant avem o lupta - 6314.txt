@@ -1,0 +1,45 @@
+[title]
+Pe pamant avem o lupta {author: {Speranța}, {rcId: {6314}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pe pământ avem o luptă
+Ce-n Cuvânt e arătată
+Lupta credinței sfântă
+Ce de Domnul e trasată
+Să luptăm cu râvnă mare
+Până Domnul va veni
+Căci prin orice încercare
+Doar luptând vom birui.
+
+[c]
+/: Hai luptă frate luptă
+Mai luptă nu te da bătut
+Spre țara luminii înainte
+Cu râvnă și avânt
+Stai treaz și veghează într-una
+Până în zori de zi
+C-atunci primi-vei cununa
+Când Domnul va veni. :/
+
+[v2]
+Pregătiți să fim de luptă
+Scutul credinței să-l avem
+Cu sabia Duhului ’nainte
+În Domnul să ne-ncredem
+Platoșa neprihănirii
+Să fie de-a pururi cu noi
+Pe cap coiful mântuirii
+Și râvna Evangheliei.
+
+[v3]
+În slavă eternă vor fi
+Acei ce au învins
+Și Domnul ne va da răsplata
+Așa cum ne-a promis
+Veșnicia e aproape
+Curând Isus va reveni
+Când zorile vor apare
+Lupta se va sfârși.

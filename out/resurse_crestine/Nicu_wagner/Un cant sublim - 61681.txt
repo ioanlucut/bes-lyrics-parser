@@ -1,0 +1,33 @@
+[title]
+Un cant sublim {author: {Nicu Wagner}, {rcId: {61681}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Un cânt sublim cântăm, o, Doamne,
+De dragostea Sionului.
+Curând vei coborî din ceruri
+Cu toți urmașii Mielului.
+
+[c]
+Ierusalim, Ierusalime!
+Te așteptăm cu mare dor.
+Oraș etern, oraș de aur,
+Zidit de sfântul Creator.
+Ierusalim, Ierusalime!
+Te așteptăm cu atâta dor.
+Locaș etern, locaș de aur,
+Dorim să fim al tău popor.
+
+[v2]
+Dorim să vii, cetate nouă,
+Când vom cânta cântări cerești.
+Noi vom uita de-amarul vieții
+Și de meleaguri pământești.
+
+[v3]
+Tu, Doamne sfânt, Tu, Soare veșnic,
+Vei lumina în infinit.
+În veci de veci vei fi lumină,
+Făr’ de apus și răsărit.

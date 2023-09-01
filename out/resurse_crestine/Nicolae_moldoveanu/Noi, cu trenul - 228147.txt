@@ -1,0 +1,21 @@
+[title]
+Noi cu trenul {author: {Nicolae Moldoveanu}, {rcId: {228147}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Noi, cu trenul și mașina mergem unde vrem
+Cât e țara de întinsă s-o vedem putem.
+
+[c]
+Bine-i să călătorești cu Isus, cu Isus,
+pe pământ spre ceruri sus, cu Isus, cu Isus.
+
+[v2]
+Cerul însă niciodată, de ne vom trudi,
+cu mașina și cu trenul nu-l putem sui.
+
+[v3]
+Trebuie s-avem credința dreaptă în Isus,
+El ne iartă de păcate și ne duce sus.

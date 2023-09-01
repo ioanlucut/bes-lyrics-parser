@@ -1,0 +1,29 @@
+[title]
+O doamne preainalte {author: {Text: Eliza Furnea, Muzica: Adrian Toader}, {rcId: {199272}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+O, Doamne Preaînalte, te rog, cu-a Ta-ndurare,
+Sǎ speli Tu a mea vinǎ prin jertfa-ți de pe cruce.
+Eu îmi cunosc pǎcatul cu care te-am lovit,
+N-am ascultat de Tine și totuși sunt primit.
+Tu ceri ca adevǎrul în inimi sǎ pǎtrundǎ
+Și viața mea murdarǎ, mai albǎ decât neaua,
+/: Va fi prin jertfa Ta. :/
+
+[v2]
+Încununat de slava reînnoirii mele,
+Sǎ cânt de veselie, cǎci Tu m-ai mântuit
+Și-n mine, prin iubirea-Ți, o inimǎ curatǎ
+Și un mai nou prin Tine, pe veci mi-ai dǎruit.
+Am iarǎși bucuria și-a mântuirii cale
+Deschisǎ mi-e de-a pururi spre ceruri a mǎ duce,
+/: Cǎci Tu m-ai izbǎvit. :/
+
+[v3]
+Îți mulțumesc, o, Doamne cǎ-n locul meu pe cruce
+Mi-ai ispǎșit pǎcatul, fiindcǎ m-ai iubit.
+/: Și vreau întrega-mi viațǎ doar Ție sǎ-ți slujesc
+Și-n cântece de slavǎ venirea Ta s-aștept. :/

@@ -1,0 +1,41 @@
+[title]
+Intr-o casa cu orfani cine azi se duce {author: {Frații Cătălin}, {rcId: {214420}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Într-o casă cu orfani cine azi se duce
+Să-i întrebe ce nu au și ce nu le-ajunge
+Cel ce stă mereu lângă Dumnezeu
+Împlinind Cuvântul Său
+
+[v2]
+Într-o casă cu flamanzi cine azi se duce
+Sa le ducă pentru prânz pâinea lor cea dulce
+Să spună mereu din Cuvântul Său
+Că-ndurare-i Dumnezeu
+
+[v3]
+Dacă vreunul e căzut cine azi se duce
+Când se vede părăsit sufletul ce plânge
+Să-i spună mereu din Cuvântul Său
+Că-ndurare-i Dumnezeu
+
+[v4]
+Într-o casă cu bătrâni cine azi se duce
+Să mângâie rana lor lacrima ce curge
+Să spună mereu din Cuvântul Său
+Cât de bun e Dumnezeu.
+
+[v5]
+Într-o casă cu necaz cine azi se duce
+Ca să mângâie durerea celui care plânge
+Fi mereu mereu unde este greu
+Fi solul lui Dumnezeu
+
+[v6]
+Aur pietre si argint astăzi cine strânge
+Sus in cerul strălucit unde nu se stinge
+Carul lui va fi plin de bucurii
+In puterea Domnului.

@@ -1,0 +1,35 @@
+[title]
+N-am pietre scumpe si nici palate {author: {Anonim}, {rcId: {4329}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+N-am pietre scumpe și nici palate
+Dar azi în mine inima-mi bate
+N-am bogăție; nici nestemate
+Îl am pe Isus; și le-am pe toate
+
+[c]
+N-am aur, n-am aur argint nici palate
+N-am aur, n-am aur dar inima-mi bate
+N-am aur, n-am aur argint nici palate
+Îl am pe Isus, și le am pe toate
+
+[v2]
+N-am nume-alese, și nici nu-mi pasă
+Doresc iubirea să-mi dăruiască
+Nu vreau mărire, nici loc la mese
+Vreau doar odihna celui din iesle
+
+[v3]
+Nu vreau cununa să veștejească
+Vreau bucurie să-mi dăruiască
+Nu vreau comoară, palate-n lume
+Samaritene vino la mine
+
+[v4]
+Nu te vreau lume; nu-ți vreau răsplata
+Acolo-n ceruri bogat e Tata
+Doresc Isuse sărac în lume
+Să-ți cânt iubirea pe-a harfei strune.

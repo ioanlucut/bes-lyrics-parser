@@ -1,0 +1,21 @@
+[title]
+Hristos a inviat din morti {author: {Nicolae Moldoveanu}, {rcId: {1892}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Hristos a înviat din morți, Hristos a înviat!
+/: Căzute-s ale morții porți, Hristos a înviat! :/
+
+[v2]
+Pământu-ntreg s-a zguduit; Hristos a înviat!
+/: Când El mormântu-a biruit; Hristos a înviat! :/
+
+[v3]
+Cântăm slavitei învieri; Hristos a înviat!
+/: Izvorul unic de puteri; Hristos a înviat! :/
+
+[v4]
+Hristos, Hristos biruitor, Hristos a înviat!
+/: E singurul Mântuitor; Hristos a înviat! :/

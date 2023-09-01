@@ -1,0 +1,33 @@
+[title]
+Ma uit la tine tu esti oare? : {author: {Nicolae Moldoveanu}, {rcId: {5384}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+/: Mă uit la tine, tu ești oare? :/
+Ți-e haina plină de pământ...
+Ți-e sufletul mânjit și frânt...
+Abia poți merge pe picioare.
+Mă uit la tine și mă doare...
+Că viața prea e trecătoare
+/: Și-i prea murdar al tău veșmânt... :/
+
+[v2]
+/: În căutarea unui bine, :/
+Privești în jos... privești în sus!...
+Ai vrea un leac, dar leacuri nu-s...
+Să scapi de-ocară și rușine,
+Nu alerga la porți străine,
+Neputincioase, ca și tine...
+/: Tu vin’ la crucea lui Isus! :/
+
+[v3]
+/: Căci cel mai minunat burete :/
+E sângele ce-a curs pe lemn,
+Din sfântul dragostei îndemn,
+Când Fiul a strigat: „
+Mi-e sete!”
+E sângele, ce pe-ndelete
+Te curăță de orice pete
+/: Și-ți șterge cel mai negru semn... :/

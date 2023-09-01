@@ -1,0 +1,35 @@
+[title]
+Poate-i ultima chemare {author: {Anonim}, {rcId: {6521}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Poate-i ultima chemare pentru tine
+Ești chemat sa ai salvare la Isus
+Poate-i ultima chemare, nu știi mâine
+Dacă vei mai fi în viață pe pământ.
+
+[c]
+Acum te-ntoarce la Isus
+Intoarce-te la Dumnezeu
+Să fii iertat și mântuit n-ai vrea
+De azi să fii copilul Său.
+
+[v2]
+Cât de scurtă este viața omenească
+Ești o umbră, ești un abur pe pământ
+Călător spre veșnicia ce te-așteaptă
+Unde vei plecat tu prieten în curând?
+
+[v3]
+Evanghelia te cheamă azi pe tine
+Din păcat să te întorci la Dumnezeu
+Nu pleca nemântuit în veșnicie
+Azi primește-l pe Isus ca Domn al tău.
+
+[v4]
+Dar ascultă azi chemarea ce ți-o face
+Dumnezeul veșnic care te-a creat
+Vino prieten chiar acum, ușa-i deschisă
+Te așteaptă-n prag Isus cel minunat.

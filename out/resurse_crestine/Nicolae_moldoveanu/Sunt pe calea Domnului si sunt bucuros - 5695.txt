@@ -1,0 +1,47 @@
+[title]
+Sunt pe calea domnului si sunt bucuros {author: {Nicolae Moldoveanu}, {rcId: {5695}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Sunt pe calea Domnului
+Și sunt bucuros,
+Mântuit prin harul Lui,
+De Isus Christos.
+
+[c]
+Cine oare, cine mă va clinti
+De pe calea Domnului ?
+Nimeni, nu mă poate despărți
+De marea iubire a Lui!
+
+[v2]
+Am aflat în El izvor,
+De sfinte bucurii
+Ce dă viață tuturor,
+Viață-n veșnicii.
+
+[v3]
+Când am fost eu încercat,
+Domnului m-am rugat.
+Ruga El mi-a ascultat,
+Eu am fost salvat.
+
+[v4]
+El e Domn în viața mea,
+Inima i-am dat,
+El o umple zi de zi
+Cu dragostea Sa.
+
+[v5]
+Vreau ca să mărturisesc,
+Domnului Isus,
+Și prin inimă Îl sfințesc,
+Pe Isus iubesc.
+
+[v6]
+Pentru cerul Său frumos,
+Pentru harul Său,
+Vreau să rămân credincios,
+Lângă Domnul meu.

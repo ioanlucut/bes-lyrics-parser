@@ -1,0 +1,20 @@
+[title]
+An de an rasuna (alle jahre wieder) {author: {Wilhelm Hey, Friedrich Silcher, Traducere RO}, {rcId: {100455}}
+
+[sequence]
+v1,v2,v3,s
+
+[v1]
+An de an răsună vestea în popor
+S-a născut Mesia, al nostru Salvator!
+
+[v2]
+Binecuvântare, Domnul ți-a adus
+Vino cu credință și laudă-L pe Isus!
+
+[v3]
+Mâna Lui te poartă, tainic și tăcut
+Pe cărarea vieții îți este far și scut!
+
+[s]
+Și Cuvântul S-a făcut trup și a locuit printre noi, plin de har și de adevăr. Și noi am privit slava Lui, o slavă întocmai ca slava singurului născut din Tatăl. Ioan 1:14

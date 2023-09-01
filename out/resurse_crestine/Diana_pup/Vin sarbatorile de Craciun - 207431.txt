@@ -1,0 +1,41 @@
+[title]
+Vin sarbatorile de craciun {author: {Diana Pup}, {rcId: {207431}}
+
+[sequence]
+v1,b,c,v2,b,c,b,c,e
+
+[v1]
+Vin sărbatorile de Crăciun,
+Mii de oameni grabiti pe drum
+Pregatesc cea mai mare scenetă
+Brazi frigurosi stele-au gazduit
+În vitrină-i un moș zâmbind
+Și mă-ntreb unde-i Sărbătoritul?
+
+[b]
+Ai renuntat la slava Ta
+În lume ai venit
+Dar noi cu timpul am uitat
+Ce mult Doamne ne-ai iubit
+
+[c]
+Pentru mine craciunul e
+O amintire cu Tine
+Este Stea de la rasarit
+Ce nicicand nu se va stinge
+Cei saraci, cat si cei bogati
+Toti împreuna sa-Ți cante
+Nu-i craciun daca nu Te-am chemat
+În inima scump Isuse
+
+[v2]
+Reci, tot mai reci ca un fulg de nea
+Rătăcind pe poteca grea
+Căutand tot mai multe argumente
+Noi tot ne îndepărtăm
+Adevarul nu-l căutam
+Ne-ncalzim dar în suflet e rece
+
+[e]
+Pentru mine craciunul e
+O amintire cu Tine

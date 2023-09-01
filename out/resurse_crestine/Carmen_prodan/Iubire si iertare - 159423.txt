@@ -1,0 +1,34 @@
+[title]
+Iubire si iertare {author: {Carmen Prodan}, {rcId: {159423}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Iubire și iertare să dăruiești mereu,
+În fiecare zi în drumul tău,
+Să nu apună, frate, soarele nicicând
+Peste-a ta mânie și-al tău gând!
+
+[c]
+/: Iubire și iertare
+Oricând să dăruiești!
+Și nu uita, cum dai așa primești! :/
+
+[v2]
+Căci nu știi dacă mâine vei mai avea o zi
+În care vei putea iertat să fii...
+De-aceea, niciodată cât fi-vei pe pământ,
+Să nu adormi cu răzbunarea-n gând!
+
+[v3]
+Căci ai nevoie-n viață și tu la rândul tău
+Să fii iertat și înțeles mereu...!
+Căci orice om greșește, că-i tină și pământ,
+Și dacă ierți, te iartă Domnul sfânt!
+
+[v4]
+Să te-nsoțească-n toate iubirea lui Hristos!
+Aproapelui să-i poți fi de folos!
+Când cineva greșește, cu piatra să nu dai,
+Ci-n rugăciune pentru el să stai!

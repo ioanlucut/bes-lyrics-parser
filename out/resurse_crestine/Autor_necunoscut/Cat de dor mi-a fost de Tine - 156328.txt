@@ -1,0 +1,31 @@
+[title]
+Cat de dor mi-a fost de tine {author: {Anonim}, {rcId: {156328}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cât de dor mi-a fost de Tine,
+Cât de mult Te-am căutat.
+Te-am rugat: „
+Rămâi cu mine!”
+Însă, Doamne, ai plecat.
+
+[c]
+Și în fiecare seară ruga mea spre cer o-ndrept
+Din a fericirii țară, Doamne, eu cu dor Te-aștept.
+Să aduci iar primăvară, Paradisul minunat,
+Și în inima-mi amară, dulce har să torni bogat.
+
+[v2]
+Ce iubire-ai pus în mine,
+că mereu, O Doamne, cânt,
+Și Te chem plin de suspine
+să vii iarăși pe pământ.
+
+[v3]
+Ce fior al așteptării,
+Ce nostalgic dor ceresc!
+Îmi dau iarăși glas cântării,
+Rugii mele: „
+Te iubesc!”

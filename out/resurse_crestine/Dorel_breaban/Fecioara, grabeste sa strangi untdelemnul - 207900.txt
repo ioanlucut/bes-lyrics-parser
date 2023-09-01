@@ -1,0 +1,29 @@
+[title]
+Fecioara grabeste sa strangi untdelemnul {author: {Dorel Breabăn}, {rcId: {207900}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Fecioară, grăbește să strângi untdelemnul,
+În vas, îți adună rezervă...
+Candela să-ți ardă în noaptea adâncă,
+Și somnul să nu te cuprindă.
+
+[c]
+/: O trâmbiță’n noapte, va răsuna,
+Nu da ațipire la pleoape.
+Stai trează, veghează, nu renunța,
+Fecioară, plecarea-i aproape! :/
+
+[v2]
+Fecioară’nțeleaptă, de ești obosită,
+Iar negura grea se întinde...
+În zare, în noapte, o stea se aprinde,
+Și întreg pământul cuprinde.
+
+[v3]
+E chiar miezul nopții, și somnul te prinde,
+Râmăi vegheatoare, fecioară...
+Și dacă în lume ești batjocorită,
+Răbdarea-ți va fi răsplătită!

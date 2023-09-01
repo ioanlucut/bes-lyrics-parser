@@ -1,0 +1,27 @@
+[title]
+Cine a crezut in ce ni se vestise ? {author: {Rugul aprins}, {rcId: {4411}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Cine a crezut în ce ni se vestise ?
+Cine-a cunoscut brațul Domnului ?
+Când priveai la fața Lui
+Te-ngrozeai de atâta chin.
+
+[c]
+Mii de rănii i-au făcut, mii de răni Mielului preasfânt
+Disprețuit și alungat, Om al durerii, Miel curat
+Atât de mult El te-a iubit din dragoste s-a dăruit
+Ți-a deschis ușa spre cer, spre Dumnezeu, spre Raiul Său.
+
+[v2]
+Sângele șiroaie curgea
+Când străzile El le colinda
+La Golgota când au ajuns
+Sus pe cruce ei L-au străpuns.
+
+[e]
+El era Om, Om al durerii
+Și disprețuit de toți

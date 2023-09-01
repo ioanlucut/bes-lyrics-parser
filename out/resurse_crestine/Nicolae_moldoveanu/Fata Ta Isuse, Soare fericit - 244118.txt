@@ -1,0 +1,29 @@
+[title]
+Fata ta isuse soare fericit {author: {Nicolae Moldoveanu}, {rcId: {244118}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Fața Ta Isuse, Soare fericit,
+Mi-nsenină dulce sufletul zdrobit,
+/: Îmi alungă noaptea suferinții grea
+Când răsare dulce, Doamne, Fața Ta. :/
+
+[v2]
+Fața Ta Isuse când se va ivi,
+Toată suferința ni se va sfârși,
+/: Inima de cântec ni se va umplea
+Când o să răsară dulce Fața Ta. :/
+
+[v3]
+Fața Ta Isuse mângâie-ntărind,
+Inima ce plânge, calea grea suind,
+/: Tu în bucurie plânsul vei schimba,
+Când o să răsară dulce Fața Ta. :/
+
+[v4]
+Fața Ta Isuse o slăvim răbdând,
+Către ea cu lacrimi inima plecând,
+/: Așteptând lumina care ne-o vei da
+Când o să răsară dulce Fața Ta. :/

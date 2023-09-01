@@ -1,0 +1,37 @@
+[title]
+Venim cu toti la masa {author: {Anonim}, {rcId: {7371}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Venim cu toți la masă
+La masa vieții
+E Paștele-nvierii Domnului!
+Pe masă este pus:
+Vin, pâine și-i promis
+Că-n ele un dar mare e ascuns.
+
+[c]
+/: Îți mulțumim, Isuse,
+C-ai fost așa de bun!
+Și pentru noi ai murit pe cruce!
+Trupul Tău ne e hrană
+Și a-nvierii mană
+Iar sângele Sfânt este legământ! :/
+
+[v2]
+Venim cu toți la masă
+La masa vieții
+Să luam din pâine și să bem din vin
+Ospățul e divin
+Și de mistere plin
+Și facem totul cum ne-a spus Isus.
+
+[v3]
+Venim cu toți la masă
+La masa vieții
+Și-n dar ce să-I aducem Domnului?
+Inimile din nou să I le dăm cadou
+Și să-I cântăm cântări
+Pe care le știm.

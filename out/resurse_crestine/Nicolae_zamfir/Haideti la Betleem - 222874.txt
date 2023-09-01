@@ -1,0 +1,29 @@
+[title]
+Haideti la betleem {author: {Nicolae Zamfir}, {rcId: {222874}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Haideti sa-lergăm degrabă
+Azi în orasul Betleem
+Să vedem marea minune
+cu toti să ne bucurăm
+
+[c]
+Sunt fericit ca sa născut
+În lume un Mântuitor
+Sun bucuros că pot cânta
+Despre a lumi Salvator
+
+[v2]
+Haideti cu toți împreună
+Mici și mari să Îi cântăm
+Cântecul frumos rasună
+Când pe Isus lăudăm
+
+[v3]
+Bucuria cea mai mare
+Să-L primești în viata Ta
+Pe cel care aduce pacea
+Și îti dă mânuirea

@@ -1,0 +1,28 @@
+[title]
+Maini catre cer {author: {Decean}, {rcId: {58052}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Ești Domnul meu, mai sus de cer înălțat
+Ești Sfânt și Drept, vrednic să fii lăudat!
+Ești Domnul meu, calea Tu mi-ai arătat
+Ești neschimbat, vrednic să fii lăudat!
+
+[c]
+/: Mâini către cer, azi eu ridic
+Și mă predau ție Doamne,
+Cu vocea mea îți cânt mereu
+Doar tu ești Domnul meu! :/
+
+[v2]
+Rege etern, cer și pământ Te slăvesc,
+Ești Dumnezeu, viața prin Tine-o primesc,
+Ești creator, în tot ce faci minunat
+Al meu Împărat vrednic să fii lăudat!
+
+[e]
+/: Ești Regele meu, ești Regele meu
+Azi mă predau și Ție-ți dau
+Tot ce sunt eu, Regele meu! :/

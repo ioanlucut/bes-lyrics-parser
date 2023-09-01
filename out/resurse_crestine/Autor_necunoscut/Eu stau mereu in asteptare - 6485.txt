@@ -1,0 +1,35 @@
+[title]
+Eu stau mereu in asteptare {author: {Anonim}, {rcId: {6485}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Eu stau mereu în așteptare
+Adesea stau și mă gândesc.
+Și-mi pun adesea o-ntrebare
+Cât oare ai să zăbovești ?
+
+[c]
+Căci crucea ce ma-apasă este grea
+Și lupta cu păcatul este mare.
+S-ajung cât mai curând la Tine aș vrea
+Să scap de chin, dureri și-ngrijorări.
+
+[v2]
+Durerea am cunoscut din tinerețe
+Cei fericirea-n viață n-am știut.
+Am plâns adesea cu suspine
+Și inima în mine îmi ofta.
+
+[v3]
+Când te-am chemat în rugăciune
+Ca să-mi răspunzi eu am venit.
+Mi-ai spus atunci c-a Ta venire
+Mereu, mereu se-aproprie.
+
+[v4]
+Veni-va ziua cea măreață
+Când vei răpi pe-ai Tăi copii
+O fă-mi și mie o Doamne
+Să fiu răpit în veșnicii.

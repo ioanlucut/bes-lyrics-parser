@@ -1,0 +1,29 @@
+[title]
+Tu esti vrednic {author: {Pauline Michael Mills}, {rcId: {1635}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Tu ești vrednic, Tu ești vrednic,
+Slavă, cinste să-Ți dăm!
+Tu ești vrednic de-nchinare
+Și Te adorăm!
+
+[c]
+/: Căci Tu ai creat universul și omul,
+Și viața din Tine primim;
+Tu ești vrednic să-Ți dăm slavă
+Și să-Ți mulțumim! :/
+
+[v2]
+Tu ești vrednic, Tu ești vrednic,
+Slavă, cinste să-Ți dăm!
+Tu ești vrednic de-nchinare
+Și Te adorăm!
+
+[c2]
+/: Căci Tu ai murit la Golgota pe cruce,
+Iertare deplină ne-ai dat;
+Tu ești vrednic să-Ți dăm slavă,
+Să fii adorat! :/

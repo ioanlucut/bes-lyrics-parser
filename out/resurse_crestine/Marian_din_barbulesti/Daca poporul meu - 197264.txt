@@ -1,0 +1,27 @@
+[title]
+Daca poporul meu {author: {Marian din Barbulesti}, {rcId: {197264}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Caut un om ca să-i vorbesc
+Poporul meu să-l sfătuiesc
+Căci hainele și le-au mânjit
+Cu lucrurile de nimic :/
+
+[c]
+/: Dacă poporul peste care este chemat
+Numele Meu
+Se va smeri, se va ruga, va căuta el fața Mea
+Îl voi asculta :/
+
+[v2]
+/: Căci astăzi mulți au părăsit
+Locul ce-i drept, curat și sfânt
+S-au rătăcit pe calea mea
+De se întorc îi voi ierta :/
+
+[v3]
+/: Îl voi scăpa, îl voi ierta
+Și casa lui voi vindeca :/

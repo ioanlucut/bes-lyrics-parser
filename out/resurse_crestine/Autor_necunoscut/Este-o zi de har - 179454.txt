@@ -1,0 +1,29 @@
+[title]
+Este-o zi de har {author: {Anonim}, {rcId: {179454}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Este-o zi de har, totul e în dar
+Dacă crezi, dacă crezi...
+Astăzi viața ta, se poate schimba
+Ai să vezi, ai să vezi...
+
+[c]
+Nu mai zăbovi, nu se poate știi
+Câtă vreme mai trăiești
+Ceru-i pregătit chiar Dumnezeu te-a dorit
+Vino, așa cum ești
+
+[v2]
+Ești răspunzător, nu lua ușor
+Viața ta, viața ta...
+O trăiești cum vrei, o rasplată iei
+Pentru ea, pentru ea...
+
+[v3]
+Astăzi ești aici, poți să te dedici
+Lui Isus, lui Isus...
+Lasă-ți inima, liberă să dea
+Un răspuns, un răspuns...

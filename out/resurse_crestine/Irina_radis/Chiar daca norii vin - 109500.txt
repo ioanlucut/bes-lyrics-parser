@@ -1,0 +1,44 @@
+[title]
+Chiar daca norii vin {author: {Irina Radiș}, {rcId: {109500}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Chiar dacă norii vin
+Furtuna bate iar
+Tu nu te teme frate
+Că Domnul îți e steag
+Chiar dacă vântul suflă
+Și barca se scufundă
+Tu nu uita o frate
+Că Domnul e la cârma
+
+[c]
+Orice-ar veni să treci
+El Domnul știe tot
+Căci toate lucrurile
+Trec doar prin mâna lui
+Și cât de greu ar fi
+Să nu te temi de nimeni
+Căci Isus a promis
+Că El va fi cu tine
+
+[v2]
+De ești descurajat
+Și greu îți e pe cale
+Tu nu te teme frate
+Că Domnul ție scăpare
+Mai e încă puțin
+Puțin de așteptat
+Și nu uita o frate, că Domnul vine iar!
+
+[v3]
+Chiar dacă ești slăbit
+Și n-ai nici o putere
+Tu nu uita o frate
+Că Domnul azi îți cere
+Să nu îți pierzi credința
+Să nu privești ’napoi
+Că Domnu-i biruita
+E totul pentru noi!

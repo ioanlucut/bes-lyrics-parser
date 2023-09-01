@@ -1,0 +1,30 @@
+[title]
+Stiu un om ce poate (i know a man who can) {author: {Jack Campbell, Jimmie Davis, Traducere RO}, {rcId: {91912}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Eu nu pot să dau viață unui suflet greu lovit
+Dar știu un Om ce poate!
+Nici nu pot să-nnoiesc viața celui de păcat trudit
+Dar știu un Om ce poate!
+
+[c]
+Este Isus, Domnul ce ne-a mântuit
+Este Isus, al meu Prieten prețuit;
+Dacă nimeni nu te-ajută, din necaz să te ridici
+Eu știu un Om ce poate!
+
+[v2]
+Eu nu pot să merg pe ape sau să liniștesc furtuni
+Dar știu un Om ce poate!
+Nici nu pot să dau vedere, pentru orbi să fac minuni
+Dar știu un Om ce poate!
+
+[c2]
+Este Isus, Domnul ce ne-a mântuit
+Este Isus, al meu Prieten prețuit;
+Dacă nimeni nu te-ajută, din necaz să te ridici
+Eu știu un Om ce poate!
+Da, eu știu un Om ce poate!

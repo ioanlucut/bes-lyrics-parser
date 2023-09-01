@@ -1,0 +1,45 @@
+[title]
+Cel neprihanit {author: {Nicu Chereji}, {rcId: {208821}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Cel neprihănit în viață,
+Nu se laudă de fel
+Faptele-i vorbesc din urmă
+S-a întâlni cu ele-n cer.
+
+[c]
+Ești tu gata de plecare
+Hainele ți le-ai spălat,
+Să petreci o veșnicie
+Cu-al tău Mire Împărat!
+
+[v2]
+Scrise-s faptele în carte
+Și de-s bune și de nu-s
+În ziua de judecată
+Le va cântări Isus.
+
+[v3]
+Dacă ai plâns în rugăciune
+Pe genunchi mereu, mereu
+Orice lacrimă-i păstrată
+În burduf la Dumnezeu.
+
+[v4]
+Tot ce-ai semănat în viață
+Vei culege-n veșnicii
+Ori vei străluci în slavă
+Ori pedeapsă vei primi
+
+[v5]
+Ești tu gata de plecare
+Hainele ți le-ai spălat
+Să petreci o veșnicie
+Cu-al tău Mire Împărat
+Luptă-te lupta cea bună
+Rabdă tot ce-i de răbdat
+Să fii vrednic de cunună
+Și cu slavă îmbrăcat!

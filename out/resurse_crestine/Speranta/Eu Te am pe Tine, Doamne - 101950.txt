@@ -1,0 +1,30 @@
+[title]
+Eu te am pe tine doamne {author: {Speranța}, {rcId: {101950}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Atâtea am să-Ți spun, o, Doamne..
+Dar Tu-mi cunoști lăuntrul meu
+În inimă un foc îmi arde
+Și sufletu-mi suspină greu.
+
+[c]
+Dar eu Te am pe Tine, Doamne
+Te am că sprijin și-ajutor
+Ești Stânca mântuirii mele
+Și-n vreme grea, Mângâietor
+Mângâietor
+
+[v2]
+Chiar frații mei de pribegie
+Cu care merg ades pe cale,
+Chiar ei lovesc mereu în mine
+Și-ngreuneaz-a mea cărare..
+
+[v3]
+De aceea, orișice ar fi..
+Eu voi rămâne lângă Tine
+Orice furtună va veni,
+Scăparea mea e doar la Tine

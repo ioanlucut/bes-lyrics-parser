@@ -1,0 +1,38 @@
+[title]
+Am bucurie in zorii zilei {author: {Anonim}, {rcId: {5294}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Am bucurie în zorii zilei,
+Și-al meu cântec de laudă
+Nimeni nu-l poate lua.
+
+[c]
+Să cânte toți cântăreții
+Și popoarele toate,
+Căci Domnul ne cheamă
+Azi pe toți să Îi cântăm;
+Într-o singură voce, un cântec să poarte
+Mărire și slavă, spre El, să înălțăm.
+
+[v2]
+O, Doamne, Tu-mi dai putere,
+În zori, chiar bucurie,
+Și-un cântec de slavă
+Ce nicicând nu s-a cântat.
+Este-un cântec ce-aduce
+La toți mântuire,
+E-un cântec ce-n slavă,
+Pe toți, el ne’nalță.
+
+[v3]
+De poți și tu să cânți,
+Nu sta nepăsător
+Căci poate ai și tu, ceva
+La Domnul să primești!
+Eu sunt aici ca să-ți spun
+Că e Mântuitor
+Care te-așteaptă-n ceruri,
+Curând, ca să sosești.

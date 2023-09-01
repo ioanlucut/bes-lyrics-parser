@@ -1,0 +1,53 @@
+[title]
+Doamne da-ne tu cantarea {author: {Oltita Nistor}, {rcId: {96933}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Doamne dă-ne Tu Cântarea
+Binecuvântatei stări
+Ce ne schimbă mintea noastră
+Și a inimii cărări
+Doamne pune Duhul vieții
+Peste a vieții noastre răni
+Și transformă-ne durerea
+În cereștile cântări!
+
+[c]
+/: Îți cântăm de bucuria
+Care-n ceruri ne-ai păstrat
+Ne așteaptă veșnicia
+Cu al Tău chip sfânt și drag! :/
+
+[v2]
+Dacă vin cu înverșunare
+A ispitelor poveri,
+Tu ridică-ne privirea
+Spre a Duhului cărări!
+Ne învață biruința
+Ce prin laude ne-o dai,
+Întărește-n gura noastră
+Al cântărilor sfânt Dar!
+
+[c2]
+/: Te iubim ISUSE dulce
+Ești mereu mai prețios
+Am da toată lumea aceasta
+Tot de dragul lui Hristos! :/
+
+[v3]
+Lauda-i puterea noastră,
+Lauda e tronul Tău,
+Lauda ni-e desfătarea,
+Ca și fii de Dumnezeu.
+Vrem să lăudăm lucrarea
+Celui viu și bun Păstor,
+El ne va duce în slavă, 
+La al laudelor cor.
+
+[c3]
+/: Slavă -Ți cântă mântuiții,
+Slavă -Ți cântă cerul Tău,
+Fă-ne să -Ți vedem azi Fața,
+Doamne fi slăvit mereu! :/

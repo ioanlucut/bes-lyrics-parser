@@ -1,0 +1,29 @@
+[title]
+Lasati copilasii sa vina la mine {author: {Ovidiu Liteanu}, {rcId: {171212}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Lăsați copilașii să vină la Mine,
+Lăsați-i să vină și nu-i opriți
+Că Eu le-am dat viața, le dau speranța
+Să fie cu Mine în rai mântuiți.
+
+[c]
+Îi voi binecuvânta
+Să crească pentru slava Mea,
+/: În casa Mea îi voi sădi
+Să aibă-n Mine bucurii. :/
+
+[v2]
+Lăsați copilașii să vină la Mine,
+Că-mpărăția i-a celor ca ei.
+Să-i iau azi pe brațe, să-i am lângă Mine
+În turmă să fie și scumpi mielușei.
+
+[v3]
+Lăsați copilașii să vină la Mine,
+La râul de viață, de binecuvântări,
+Să crească prin Duhul, în sfânta iubire
+S-alerge copiii spre-albastrele zări.

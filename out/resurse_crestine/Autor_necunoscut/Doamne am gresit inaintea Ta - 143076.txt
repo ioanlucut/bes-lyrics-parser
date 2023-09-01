@@ -1,0 +1,35 @@
+[title]
+Doamne am gresit inaintea ta {author: {Anonim}, {rcId: {143076}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,v4,c
+
+[c]
+Doamne am greșit înaintea Ta
+Iartă-mă, iartă-mă
+Nu îmi ține-n seamă, Doamne, vina mea
+Iartă-mă, iartă-mă, iartă-mă, iartă-mă.
+
+[v1]
+Oricât aș căuta pacea-n lumea rea
+Nu o voi afla
+/: Doamne Tu ești tot ce vreau în viața mea
+Spală-mi inima. :/
+
+[v2]
+Ispite și-ncercari vin peste viața mea
+Tu ești adăpost
+/: Promisiunea Ta nu o pot uita
+Căci mângâiere îmi vei da. :/
+
+[v3]
+Cred în puterea Ta ce mă va ridica
+Și-atunci când crucea-i grea
+/: Cuvântul ce-L rostești e viață-n veci de veci
+Lumină pe cărarea mea. :/
+
+[v4]
+Rostește un cuvânt și fă din viata mea
+O laudă pentru gloria Ta
+/: Ce minunat lucrata-i cu ființa mea
+Cât voi trăi te voi lăuda. :/

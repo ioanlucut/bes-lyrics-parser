@@ -1,0 +1,29 @@
+[title]
+Nu se poate sa nu fie {author: {Nicolae Moldoveanu}, {rcId: {140056}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Nu se poate să nu fie țara sfântă ce-o dorim
+Când cu-atâta bucurie doru-n inimă-l simțim
+
+[c]
+Este, este, este țara ce-o dorim
+Vine, vine, vine vremea s-o primim
+
+[v2]
+Nu se poate să nu fie cerul care-l așteptăm
+Când atâta bucurie, noi în inimă o purtăm.
+
+[v3]
+Nu se poate să nu fie tot ce Domnul ne-a promis
+Ceasul e-nspre veșnicie, este tocmai cum ne-a zis.
+
+[v4]
+Nu se poate să nu fie starea cea de veșnic har
+Când dorința-i tot mai mare și se aprinde iar și iar.
+
+[v5]
+Nu se poate să nu fie tot ce El ne-a spus cândva
+Că de-aici din România noi la Domnul vom pleca.

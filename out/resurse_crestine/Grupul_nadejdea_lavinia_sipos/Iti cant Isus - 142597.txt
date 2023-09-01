@@ -1,0 +1,30 @@
+[title]
+Iti cant isus {author: {Grupul Nadejdea, Lavinia Șipoș}, {rcId: {142597}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Îți cânt Isus, Te laud Doamne,
+Îți cânt că mă iubești nespus,
+Și vreau să-Ți cânt în tot și-n toate,
+Căci Tu ai spus: ”
+Revin, curând.”
+
+[c]
+/: Îți cântă florile, natura,
+Îți cântă câmpul înverzit,
+Îți cântă păsările-ntruna,
+Doamne, ce mult Tu ne-ai iubit. :/
+
+[v2]
+Și cum să nu Îți cânt Isuse,
+Când lângă mine-alături ești,
+Și stai la cârma vieții mele,
+Și-mi spui mereu, cât mă iubești.
+
+[v3]
+În veci de veci, Te laud Doamne,
+Îți multumesc că m-ai salvat,
+Și tot ce mai are suflare,
+Să laude pe Împărat.

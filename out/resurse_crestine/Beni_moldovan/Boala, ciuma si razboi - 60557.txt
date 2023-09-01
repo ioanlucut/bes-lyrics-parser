@@ -1,0 +1,33 @@
+[title]
+Boala ciuma si razboi {author: {Beni Moldovan}, {rcId: {60557}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Boală, ciumă și război
+Toate vestesc venirea Ta
+Suspin și lacrimi sunt printre noi
+Grăbește-ți Doamne Venirea!
+
+[c]
+/: Vino Doamne, vino azi,
+Scapă-ne de-acest necaz,
+Vino ia-ne-n țara ta
+Unde plânset nu va exista!
+Vino Doamne mai curând
+Ia-ne de pe-acest pamânt,
+Vino ia-ți Mireasa Ta
+/: Să o duci în cer prin slava Ta :/
+
+[v2]
+Frate pe frate se dă la moarte,
+Pentru-n câștig ce-i peritor,
+De pământu-l acesta nu mai vreau parte
+Dă-mi aripi Doamne ca să zbor!
+
+[v3]
+Groază, frică, avem mereu
+Când nu-l avem pe Dumnezeu.
+Cetatea Noastră e sus în cer
+Dacă vom asculta de El!

@@ -1,0 +1,22 @@
+[title]
+Bucura-te tinere {author: {Anonim}, {rcId: {1394}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Bucură-te tinere în tinerețea ta
+Veselă să-ți fie inima
+Mergi pe căi alese de inima ta
+Și plăcute ochilor tăi.
+
+[c]
+/: Dar nu uita, nu uita
+Că te va chema
+Dumnezeu la judecata Sa. :/
+
+[v2]
+Gonește-orice necaz din inima ta
+Și-ndepărtează răul din trupul tău
+Zorile vieții tale toate vor trece
+Mergi pe calea ce o vrea inima ta.

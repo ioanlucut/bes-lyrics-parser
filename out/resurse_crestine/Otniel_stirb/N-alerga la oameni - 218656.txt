@@ -1,0 +1,31 @@
+[title]
+N-alerga la oameni {author: {Otniel Stirb}, {rcId: {218656}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+N-alerga la oameni cu al tau necaz
+Cand iti curg in taina lacrimi pe obraz
+/: N-alerga la oameni cu necazul tau
+Spune-a ta durere doar lui Dumnezeu :/
+
+[v2]
+Nu cauta la prieteni sa-ti gasesti alin
+Cel ce vede totul stie-al tau suspin
+/: N-alerga la oameni dupa ajutor
+Ca in lumea asta omu’-i trecator :/
+
+[v3]
+Nu-ti deschide frate inima oricui
+Vino cu povara azi la crucea Lui
+/: Pentru tine Domnul viata El Si-a dat
+Ca sa fii tu astazi de pacat iertat :/
+
+[v4]
+Dumnezeu cunoaste suferinta ta
+Cel ce face rana poate vindeca
+/: Chiar de n-ai pe nimeni langa patul tau
+Vindecarea vine de la Dumnezeu
+Lupta-te intr-una pana la sfarsit
+Nu e mult si-odata fi-vei rasplatit :/

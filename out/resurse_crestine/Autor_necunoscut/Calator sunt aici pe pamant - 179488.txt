@@ -1,0 +1,31 @@
+[title]
+Calator sunt aici pe pamant {author: {Anonim}, {rcId: {179488}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Călător sunt aici pe pământ
+Țara mea, e-n cerul sfânt
+Eu sunt fiu de-mpărat, voia Lui o-mplinesc
+Pe Isus, îl iubesc și-l slujesc
+
+[c]
+Țara mea, loc de vis
+Țara mea-i paradis
+Căci Isus un loc mi-a pregatit
+Țara mea, loc de vis
+Țara me-i paradis
+Căci Isus un loc mi-a promis
+
+[v2]
+Greutăți, îndoieli, vin mereu
+Să îmi clatine crezul meu
+Pe genunchi, mă așez, în rugă-l implor
+Pe Isus, să-mi dea ajutor
+
+[v3]
+Voi pleca și nimic n-o să iau
+Casa tatălui, pregătită-i să stau
+Chiar de-am strâns comori, toate scrum se prefac
+Lângă Domnul, voi fii în veac

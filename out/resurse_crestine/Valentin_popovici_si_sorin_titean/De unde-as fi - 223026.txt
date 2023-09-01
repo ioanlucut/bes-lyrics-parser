@@ -1,0 +1,30 @@
+[title]
+De unde-as fi {author: {Valentin Popovici și Sorin Titean}, {rcId: {223026}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+De unde-aș fi, din orice depărtare
+Din orice groapă neagră, cât de mare
+Din rătăcirea tainelor străine
+Adu-mă, Doamne, acasă, lângă Tine!
+De unde-aș fi, din furtunoase valuri
+Ai milă, și adu-mă iar la maluri
+Și lasă ca-n umblarea mea prin lume
+Să stau sub steagul Tău, sub al Tău nume!
+
+[c]
+De unde-aș fi, condu-mă Tu! *4
+
+[v2]
+De unde-aș fi, din orice legătură
+Din orice lanțuri și ferecătură
+Din temnițele urii Tu mă scoate
+La sfintele cântări de libertate
+
+[v3]
+De unde-aș fi, din plânsetul de-afară
+Din jalea depărtărilor de țară
+De sub povara care mă apasă
+Adu-mă, Doamne, și pe mine-acasă

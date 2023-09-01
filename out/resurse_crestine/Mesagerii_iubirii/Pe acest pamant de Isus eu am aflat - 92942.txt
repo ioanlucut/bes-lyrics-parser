@@ -1,0 +1,47 @@
+[title]
+Pe acest pamant de isus eu am aflat {author: {Mesagerii Iubirii}, {rcId: {92942}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,c4
+
+[v1]
+Pe acest pământ de Isus eu am aflat
+Când inima El mi-a luminat
+De-altcineva n-am trebuință nicidecum
+Doar cu Isus pe-al vieții drum.
+
+[c]
+/: Iubesc pe Isus, El este Domnul meu
+Ce m-a izbăvit din păcatul greu!
+Iubesc pe Isus, El e lumina mea
+Și îl urmez pe calea Sa! :/
+
+[v2]
+Totul trece, totul este vânt
+Pe-acest pământ, pe-acest pământ!
+Dar la Isus oricine ar venii
+El va găsii viață din veșnicii!
+
+[c2]
+/: Gândește-te acum la viața ta
+Ce faci cu ea? ce faci cu ea?
+Te duce ea spre Dumnezeu sau nu?
+Sau încotro te-ndrepți și mergi tu? :/
+
+[v3]
+În viața-aceasta noi mult ne străduim
+Și facem multe ca bine să trăim,
+Dar timpul zboară iute pe negândit
+Și-apoi plecăm de-aici așa cum am venit!
+
+[c3]
+/: Deci ia aminte și vino la Cristos
+Vei înțelege al vieții tale rost,
+Și pentru veșnicie ce vei lucra
+Va da ce sus în cer va rămânea :/
+
+[c4]
+/: Și fericit pe Isus vei urma
+Toată viața ta, toată viața ta,
+Apoi acolo-n cer te vei suii
+Ca să petreci cu El în veșnicii! :/

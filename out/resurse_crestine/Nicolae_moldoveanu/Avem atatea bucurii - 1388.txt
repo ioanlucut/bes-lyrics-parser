@@ -1,0 +1,27 @@
+[title]
+Avem atatea bucurii {author: {Nicolae Moldoveanu}, {rcId: {1388}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Avem atâtea bucurii de când pe Isus l-avem
+În inimă, în inimă
+Avem atâtea bucurii de când pe Isus l-avem
+Glorie lui Isus!
+
+[c]
+/: Ce fericire să fii cu Isus
+Să ai în inimă iubirea Lui. :/
+
+[v2]
+Eu știu că lui Satan nu-i place dar eu cânt
+Din inimă, din inimă, din inimă.
+Eu știu că lui Satan nu-i place
+Dar eu cânt din inimă: Glorie lui Isus!
+
+[v3]
+Când ești născut din nou ca Nicodim cânți
+Din inimă, din inimă, din inimă.
+Când ești născut din nou ca Nicodim cânți
+Din inimă: Glorie lui Isus!

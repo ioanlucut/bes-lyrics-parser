@@ -1,0 +1,27 @@
+[title]
+Rugaciunea mamei mele nu este de-ajuns {author: {Anonim}, {rcId: {57645}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+/: Da eu, da eu, da eu Doamne
+Eu trebuie să mă rog. :/
+
+[v1]
+Rugăciunea mamei mele nu este de-ajuns,
+Eu trebuie să mă rog.
+Rugăciunea tatălui meu nu este de-ajuns,
+Eu trebuie să mă rog.
+
+[v2]
+Rugăciunea sorei mele nu este de-ajuns,
+Eu trebuie să mă rog.
+Rugăciunea fratelui meu nu este de-ajuns,
+Eu trebuie să mă rog.
+
+[v3]
+Nu păstoru’, ’nvățătorul, ci chiar eu, Doamne,
+Eu trebuie să mă rog.
+Nu vecinii, nici străinii, ci chiar eu, Doamne,
+Eu trebuie să mă rog.

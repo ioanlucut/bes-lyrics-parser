@@ -1,0 +1,59 @@
+[title]
+De craciun sub fulgi zglobii {author: {Nicolae Moldoveanu}, {rcId: {241433}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7,v8,v9
+
+[v1]
+De Crăciun, sub fulgi zglobii
+Pe Isus din nou vestindu-L,
+/: Trec pe ulițe copii :/
+Cu colindul.
+
+[v2]
+Și din zori până-n apus,
+Pe-o steluță cu făclie,
+/: Ei duc lumii un Isus :/
+/: De hârtie. :/
+
+[v3]
+Dar tu frate credincios,
+Porți tu Pruncul ce trăiește?
+/: Porți în tine un Hristos :/
+Care crește?
+
+[v4]
+Nu-i vreun gând ce te-a-nșelat?
+Un simbol? Sau o icoană?
+/: Simți că-I viu cu-adevărat? :/
+/: Cere hrană? :/
+
+[v5]
+După bezna cea de ani,
+Ți-a adus Copilul zorii?
+/: Vin la tine cei sărmani? ; /
+Vin păstorii?
+
+[v6]
+Între țapi cu corn de fler,
+Simți că Pruncu-I viu și teafăr?
+/: Și ți-a răsărit în cer :/
+/: Un luceafăr? :/
+
+[v7]
+Simți că Cel ce L-ai primit,
+De-al Său har îți umple gândul?
+/: Și vin magi din răsărit :/
+Căutându-L?
+
+[v8]
+Altfel Pruncul nu e viu,
+Altfel ochiul tău te-nșeală,
+/: Altfel staulu-i pustiu, :/
+/: Ieslea-i goală! :/
+
+[v9]
+Și din zori până-n apus,
+Ca pe steaua cu făclie,
+/: Porți și tu tot un Isus, :/
+De hârtie.

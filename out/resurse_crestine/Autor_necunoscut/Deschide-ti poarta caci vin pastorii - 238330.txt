@@ -1,0 +1,27 @@
+[title]
+Deschide-ti poarta caci vin pastorii {author: {Anonim}, {rcId: {238330}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Deschide-ți poarta că vin pastorii
+S-aducă vestea în casa ta
+Din cer o rază desparte norii
+Coboară Domnul din Slava Sa
+
+[c]
+Pământul e jos și cerul e sus
+Noi îl slăvim pe Isus.
+
+[v2]
+El vine-n iesle în leagăn verde
+Să mântuiască pe cei pierduți
+O stea din ceruri ca semn se-arată
+E Fiu de Rege Pruncul Isus.
+
+[v3]
+Doamne și astăzi cu bucurie
+Inima noastră în dar Ți-am adus
+Și ne-nchinăm toți și-n veselie
+Cântăm Osana Slavă Isus

@@ -1,0 +1,29 @@
+[title]
+In betleem e noapte (steaua) {author: {Speranța}, {rcId: {64475}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În Betleem e noapte,
+Stelele lucesc pe cer.
+Dar o stea apare,
+Steaua lui Israel.
+
+[c]
+Lumina-i răspândit,
+În mii de galaxii.
+Pace ne-ai adus,
+Și multe bucurii!
+
+[v2]
+Magi din răsărit,
+Steaua o zăresc.
+Spre Ierusalim,
+Cu daruri ei pornesc!
+
+[v3]
+S-a născut Hristos,
+Steaua dimineți!
+S-a născut Isus,
+Împăratul vieții!

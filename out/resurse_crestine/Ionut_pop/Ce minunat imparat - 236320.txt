@@ -1,0 +1,42 @@
+[title]
+Ce minunat imparat {author: {Ionut Pop}, {rcId: {236320}}
+
+[sequence]
+v1,c,v2,c,c,v3,c
+
+[v1]
+Pastori au alergat sa vada Pruncul
+Cel care a fost vestit
+Nascut in iesle, Domn din vecie
+Ce minunat Imparat! O, ce minunat Imparat!
+
+[c]
+Auzi cum ingeri canta:
+Aleluia! Lauda, Regelui Isus!
+El a venit la noi din iubire,
+S-a nascut Isus! S-a nascut Isus!
+Auzi cum ingeri canta:
+Aleluia! Lauda, Regelui Isus!
+El a venit la noi din iubire,
+S-a nascut Isus! S-a nascut Isus!
+/: Auzi cum ingeri canta:
+Aleluia! Lauda, Regelui Isus!
+El a venit la noi din iubire,
+S-a nascut Isus! :/
+S-a nascut Isus!
+
+[v2]
+Pastorii s-au grabit sa duca vestea
+Ca Isus s-a nascut
+Slaveau pe Dumnezeu ca a venit din cer
+Ce minunat Imparat! O, ce minunat Imparat!
+
+[b]
+Glorie! Glorie! S-a nascut Isus!
+Glorie! Glorie! S-a nascut Isus!
+
+[v3]
+Toti sa stie, sa cunoasca
+Pruncul Isus venit
+El cerul a lasat sa mantuiasca
+Ce minunat Imparat, O, ce minunat Imparat

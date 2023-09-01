@@ -1,0 +1,23 @@
+[title]
+Frumoasa istorisire {author: {Anonim}, {rcId: {80567}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Frumoasa istorisire, veni Isus din marire
+Sa ma mantuie pe mine din pacat,
+El cu dragoste m-a cautat si de rusine m-a scapat
+Aleluia, Isus m-a salvat.
+
+[c]
+Aleluia ce Salvator, care-l ia pe un pacatos
+Din pacat il scapa si-l face liber, Aleluia
+Eu totdeauna voi spune, da voi spune, spune, spune
+Iubirea-i divina m-a salvat.
+
+[v2]
+Din adanca mizerie, in cereasca Lui marire
+Prin mila si har, Isus m-a inaltat
+Eu nu stiam, El m-a cautat, eu nu stiam, El m-a salvat
+Iubirea-i divina m-a salvat.

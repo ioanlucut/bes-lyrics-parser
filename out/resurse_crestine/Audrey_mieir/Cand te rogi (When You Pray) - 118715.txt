@@ -1,0 +1,32 @@
+[title]
+Cand te rogi (when you pray) {author: {Audrey Mieir, Traducere RO}, {rcId: {118715}}
+
+[sequence]
+v1,c,v2,c,v3,c,s,c
+
+[v1]
+Când ziua-i spre-asfințit, seara vine lin
+Te rogi neîncetat;
+Și în ruga ta, poartă-o și pe-a mea
+Cu toată dragostea.
+
+[c]
+Eu mă rog, da, mă voi ruga
+Pentru tine ’naintea Sa!
+Eu mă rog, da, mă voi ruga
+Pentru cauza mea și a ta!
+
+[v2]
+Mereu ne vom ruga, ducând sarcina
+Și unii altora;
+Căci așa ne-a-nvățat Cel crucificat
+Iubind neîncetat.
+
+[v3]
+Când suntem în nevoi, toți spre El ne-ndreptăm
+Cu toată credința;
+Căci prin jertfa Lui, El ne-a curățit
+Și-apoi ne-a mântuit.
+
+[s]
+Purtați-vă sarcinile unii altora și veti împlini astfel legea lui Hristos. Gal. 6:2

@@ -1,0 +1,29 @@
+[title]
+Vino doamne lasa-ti pacea {author: {Anonim}, {rcId: {3783}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Vino Doamne, lasă-ți pacea
+Să-mi inunde inima
+Schimbă-mi astăzi tu viața
+/: Bucuros spre-a te urma. :/
+
+[v2]
+Vino Doamne și mă iartă
+Căci prin viață am fost rău
+Schimbă-mi, Doamne, a mea soartă
+/: Și de azi să fiu al Tău. :/
+
+[v3]
+Vino Doamne și alungă
+Orice necredință, dar
+Șterge-mi astăzi a mea vină
+/: Să mă simt eliberat. :/
+
+[v4]
+Vino Doamne de-mi ajută
+Pe acest pământ murdar
+Să fiu plin de biruință
+/: Să rămân de-acum curat. :/

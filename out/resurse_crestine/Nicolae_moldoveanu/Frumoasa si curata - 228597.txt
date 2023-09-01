@@ -1,0 +1,35 @@
+[title]
+Frumoasa si curata {author: {Nicolae Moldoveanu}, {rcId: {228597}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Frumoasă și curată
+e Țara Minunată
+de Domnul pregătită
+la Dreapta Lui slăvită.
+
+[c]
+Frumoasă de nespus, e Țara lui Isus.
+Acolo, noi, mereu vom fi cu Dumnezeu.
+Acolo cei iubiți cânda-vom fericiți,
+Slăvit să fii, slăvit, Isuse preaiubit!
+
+[v2]
+Frumoasă și senină
+e Țara cea Divină
+ce Domnul pe vecie
+ne-o dă cu bucurie.
+
+[v3]
+Frumoasă și slăvită
+e Țara Fericită
+în care-i numai soare
+cântări și sărbătoare.
+
+[v4]
+Frumoasă și frumoasă
+e-n ceruri scumpa Casă
+ce Domnul meu—și mie
+mi-o dă pe veșnicie.

@@ -1,0 +1,25 @@
+[title]
+Aici chinuri multe {author: {Nicolae Moldoveanu}, {rcId: {204010}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Aici chinuri multe și plângeri m-apasă...
+Doar la Tine, Doamne, eu voi fi acasă.
+În inima-mi tristă Tu pace cobori
+Și-atunci mi-aflu casa de care mi-e dor.
+
+[c]
+Casă, casă, scumpă casă,
+O de-aș fi, Isuse, mai curând acasă.
+
+[v2]
+Legat sunt aicea cu lanțuri de pară,
+Străin și departe de scumpa mea țară,
+Dar Isuse cel dulce, curând m-a chema,
+Și’oi merge la casa și patria mea.
+
+[c2]
+Casă, casă, scumpă casă,
+O, vino, Isuse, și mă ia acasă.

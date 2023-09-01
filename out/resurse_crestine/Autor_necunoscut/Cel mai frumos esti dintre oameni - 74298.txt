@@ -1,0 +1,41 @@
+[title]
+Cel mai frumos esti dintre oameni {author: {Anonim}, {rcId: {74298}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Cel mai frumos ești dintre oameni,
+Pe-a Tale buze curge Harul
+Ești minunat, ești minunat,
+Isus, Isus, ești cel mai minunat.
+
+[c]
+Viteaz, erou neprihănit,
+Cu adevărat împodobit!
+Strălucitor, strălucitor,
+Prin dreapta Ta rămâi învingător.
+
+[v2]
+Aloia, casia și smirna,
+Parfumul slavei răspândește;
+Tu ești iubit, Tu ești iubit,
+Isus, Isus, pe drept Tu ești iubit.
+
+[c2]
+Cu untdelemn de bucurii
+Ești uns de Tatăl din veșnicii
+Încununat, încununat,
+Al păcii Domn, al slavei Împărat.
+
+[v3]
+Mireasa Ta-i împodobită,
+În casa Ta frumos gătită,
+Cu aur scump, cu aur scump,
+Trecut prin foc, plătit cu sânge scump.
+
+[c3]
+Ascultă, fiică, pleacă-te,
+Îți uită casa, întoarce-te,
+Și-atunci vei fi, și-atunci vei fi,
+Cu Domnu-n slavă în veci tu vei fi.

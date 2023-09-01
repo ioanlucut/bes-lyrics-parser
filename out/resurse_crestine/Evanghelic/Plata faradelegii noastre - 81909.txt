@@ -1,0 +1,28 @@
+[title]
+Plata faradelegii noastre {author: {Evanghelic}, {rcId: {81909}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Plata fărădelegii noastre
+Mila o va-ndepărtă.
+Mai presus de înțelegeri
+Dragostea se va-nălță.
+Domnul va deschide ușa
+Vino acasă fiul Meu!
+Așteptarea se sfârșește
+Vino-n împărăția Mea.
+
+[c]
+Ne vom întâlni acolo în noul Ierusalim!
+Unde dragostea și pacea vor domni.
+Voi cântă o veșnicie
+Dumnezeul meu e sfânt.
+Vrednic este Mielul slavei, Cel jertfit!
+
+[v2]
+Nu vom mai vedea întuneric
+Doar o stea va strălucii.
+Zidul fărădelegii noastre
+Lumina îl va nimici.

@@ -1,0 +1,35 @@
+[title]
+Fr isus {author: {Text: Eliza Furnea, Muzica: Adrian Toader}, {rcId: {199261}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Fǎrǎ Isus nimic nu-i viața
+Și nici un țel nu-i luminos,
+Nu-i nici o dragoste curatǎ,
+De nu-i iubirea lui Hristos.
+Fǎrǎ Isus nu-i jug sǎ-mi fie
+Ușor prin lume de purtat
+/: Și nici izvor sǎ-mi odihneascǎ
+Mai bine sufletu-apǎsat. :/
+
+[v2]
+Fǎrǎ Isus nu-i biruințǎ
+Oricât de brav te-ai fi luptat
+Și nu-i slǎvire sǎ te facǎ
+Pǎrtaș al cerului bogat.
+Fǎrǎ Isus nu-i pǎrtǎșie
+Și nu-i cu Tatǎl legǎmânt,
+/: Nu-s nici durerile curmate,
+De nu-i uleiul Celui Sfânt. :/
+
+[v3]
+Fǎrǎ Isus nimic nu-i viața
+Și nici un țel nu-i luminos,
+Nu-i nici o dragoste curatǎ,
+De nu-i iubirea lui Hristos.
+Poți pe Isus alege astǎzi
+Sǎ-ți fie-n toate Veghetor,
+/: Îți șterge pe deplin trecutul,
+Te face-n cer moștenitor. :/

@@ -1,0 +1,41 @@
+[title]
+O domnul meu {author: {Cor Andante}, {rcId: {231804}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+O, Domnul meu
+Lasă Duhul Tău să lumine-n noi!
+O Domnul meu
+Lasă Duhul Tău să lumine-n noi!
+
+[v2]
+In Tine noi găsim
+Putere să biruim
+Întunecimi, Te rugăm
+Lasă Doamne-n noi Duhul Tău!
+
+[v3]
+O, Domnul meu
+Lasă pacea Ta să rămână-n noi!
+O, Domnul meu
+Lasă pacea Ta să rămână-n noi!
+
+[v4]
+In Tine noi găsim
+Putere să biruim
+Întunecimi, Te rugăm
+Lasă Doamne-n noi pacea Ta!
+
+[v5]
+O, Domnul meu
+Lasă dragostea să rămână-n noi!
+O, Domnul meu
+Lasă dragostea să rămână-n noi!
+
+[v6]
+In Tine noi găsim
+Putere să biruim
+Întunecimi, Te rugăm
+Pune dragoste in noi!

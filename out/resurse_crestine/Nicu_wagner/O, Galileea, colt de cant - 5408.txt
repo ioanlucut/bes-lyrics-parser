@@ -1,0 +1,32 @@
+[title]
+O galileea colt de cant {author: {Nicu Wagner}, {rcId: {5408}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+O, Galileea, colț de cânt,
+De soare în zenit,
+Din tine, peste Neamuri, blând,
+Lumina s-a ivit!
+De Tine adesea când aud,
+Vorbind și chiar cântând,
+Slăvesc mereu pe Domnul meu,
+Și-I mulțumesc, și-I cânt.
+
+[c]
+Isus, Tu, Soare minunat,
+Ai răsărit strălucitor.
+Osânda morții de păcat
+Ai risipit-o; Tu ne-ai dat
+Iertarea, harul salvator!
+
+[v2]
+Din Tine, în lume i-a trimis
+Isus pe ucenici,
+Și a ajuns până la noi,
+Andrei, la daci și sciți.
+Isuse, Tu ai luminat
+În valea morții reci,
+Din Galileea Te-ai înălțat
+Nemuritor în veci.

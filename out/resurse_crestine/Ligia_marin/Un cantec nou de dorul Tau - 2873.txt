@@ -1,0 +1,33 @@
+[title]
+Un cantec nou de dorul tau {author: {Ligia Marin}, {rcId: {2873}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Un cântec nou de dorul Tău
+Am scris cu drag Isus
+Am încercat să spun ce simt în el
+Dar nu este de-ajuns
+
+[c]
+/: Să fiu cu Tine Doamne-n veșnicii
+Atât de mult doresc
+Și cântul meu să se înalțe
+La tronul Tău ceresc :/
+
+[v2]
+Un cântec nou e viața mea
+Căci m-ai schimbat Isus
+Și-l cânt mereu de dorul Tău
+O, Te aștept nespus
+
+[v3]
+Un cântec nou iți voi cânta
+O, Domnul meu, Isus
+Cu îngerii Te voi lăuda
+Fața Ta oi voi vedea
+
+[e]
+Un cântec nou de dorul Tău
+Am scris cu drag Isus.

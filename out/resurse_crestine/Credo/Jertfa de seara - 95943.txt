@@ -1,0 +1,35 @@
+[title]
+Jertfa de seara {author: {Credo}, {rcId: {95943}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c
+
+[v1]
+Primește Doamne jertfa mea de seară
+Trudit-am mult și rodul e puțin
+Primește-o căci venit-am de departe
+Și mâinile... îmi tremură de frig
+
+[v2]
+Nu fapta mea ți-aduc azi înainte
+Ci inima e darul meu târziu
+Ce piere ca fumul nu-ți ofer,
+Ce dăinuie ridic către cer
+
+[c]
+/: Primește Doamne jertfa mea de seară,
+Pivește dragostea și dorul meu nespus.
+Iar când mi-e greu și nu-nțeleg Isuse,
+Ia capul meu în mâini, și știu așa ai vrut Tu. :/
+
+[v3]
+Primește Doamne jertfa mea de seară,
+Mai este mult din noaptea lumilor.
+Pe rând luminile se sting și doare
+Atingerea umbrelor reci.
+
+[v4]
+Nu fapta mea ți-aduc azi înainte
+Ci inima e darul meu târziu
+Ce piere ca fumul nu-ți ofer
+Ce dăinuie ridic către cer

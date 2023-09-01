@@ -1,0 +1,53 @@
+[title]
+Cand pe norul luminos {author: {Nicolae Moldoveanu}, {rcId: {5715}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7,v8
+
+[v1]
+Cand, pe norul luminos,
+Va veni Isus Hristos,
+/: N-or fi luna, stele, soare,
+Ci numai o groaza mare. :/
+
+[v2]
+Soarele s-a-ntuneca,
+Luna-n sange s-a schimba;
+/: Lume-atuncea se va strange
+Si de groaza toti vor plange. :/
+
+[v3]
+In valea lui Iosafat,
+Totul va fi judecat!
+/: Judecata grea si dreapta,
+Fiecarui dupa fapta. :/
+
+[v4]
+Vor veni saraci,
+Bogati, ofiteri si imparati,
+/: Boierii cu cersetorii,
+Stapanii cu servitorii. :/
+
+[v5]
+Mamele vor sta de fata
+Cu copiii lor in brate,
+/: Pe care i-au omorat
+Cand au stat jos pe pamant. :/
+
+[v6]
+Parintii vor sta, la rand cu
+Copiii lor, plangand,
+/: Cari n-au ascultat Cuvantul
+Ce-a sunat pe tot pamantul. :/
+
+[v7]
+Acolo, s-or prezenta
+Si toti cei ce-au invatat
+/: Evanghelia, pentru plata!
+Pe toti osanda i-asteapta! :/
+
+[v8]
+De aceea, frati iubiti,
+Voi sa propovaduiti,
+/: Asa cum sunteti chemati:
+In dar primiti, in dar dati! :/

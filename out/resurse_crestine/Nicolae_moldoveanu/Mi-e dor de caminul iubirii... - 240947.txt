@@ -1,0 +1,45 @@
+[title]
+Mi-e dor de caminul iubirii {author: {Nicolae Moldoveanu}, {rcId: {240947}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Mi-e dor de căminul iubirii,
+De fețe-n lumină scăldate,
+De sfântul fior al primirii,
+De scumpele inimi curate!
+- Mi-e dor de căminul iubirii,
+Cât Iimba să spună nu poate.
+
+[v2]
+Mi-e dor de sfârșitul durerii,
+De harul ce dă alinare,
+E-aproape hotarul puterii
+Ce-mi ține viața-n răbdare.
+- Mi-e dor de sfârșitul durerii,
+Și dorul se face mai mare.
+
+[v3]
+Mi-e dor de triumful luminii,
+În noaptea aceasta de groază,
+Cu ură se luptă străinii,
+Zdrobit adevărul să-l vază.
+- Mi-e dor de triumful luminii,
+Adâncu-mi de el însetează!
+
+[v4]
+Mi-e dor de odihna cea sfântă,
+Că-s prea obosit în furtună,
+Să nu-mi cadă inima-nfrântă,
+Când greul în juru-mi se-adună.
+- Mi-e dor de odihna cea sfântă,
+De mâna ei moale și bună.
+
+[v5]
+Mi-e dor, o, Isuse de Tine,
+De scumpa și dulcea Ta Țară,
+O, vino, mă ia și pe mine,
+Din lumea aceasta amară.
+Și du-mă acolo Ia Tine,
+În veșnica Ta Primăvară.

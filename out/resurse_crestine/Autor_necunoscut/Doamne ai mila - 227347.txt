@@ -1,0 +1,29 @@
+[title]
+Doamne ai mila {author: {Autor necunoscut}, {rcId: {227347}}
+
+[sequence]
+v1,c,v2,c,e,c
+
+[v1]
+Cu pace ne-nchinăm
+Umil noi Te rugăm
+Peste noi har să reverși
+Țara s-o tămăduiești
+Te rugăm, Te rugăm!
+
+[c]
+/: Doamne, ai milă! :/
+Îndurerați iar la Tine venim!
+/: Doamne, ai milă! :/
+În Tine doar noi nădăjduim!
+
+[v2]
+De păcat azi ne căim
+De Cuvânt vrem s-ascultăm
+Îndură-Te de noi
+Și ne iartă Te rugăm!
+Te rugăm, Te rugăm!
+
+[e]
+În Cartea Ta de-ar fi să scrii păcatele unde-am fi?
+Dar milă-mbelșugată doar Tu reverși!

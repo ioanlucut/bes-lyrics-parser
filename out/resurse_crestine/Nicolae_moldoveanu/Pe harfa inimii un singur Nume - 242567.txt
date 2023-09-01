@@ -1,0 +1,28 @@
+[title]
+Pe harfa inimii un singur nume {author: {Nicolae Moldoveanu}, {rcId: {242567}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Pe harfa inimii un singur Nume,
+Doresc să ’nalț în cântec maiestos,
+Lumina Lui să umple-ntreaga lume,
+/: Căci Soare e dumnezeiescul Nume :/
+ISUS HRISTOS, ISUS HRISTOS!
+
+[v2]
+În Taina Lui e-ntreaga mântuire,
+Și-ntregul Har prin El a fost adus.
+O, Nume sfânt! Comoară de iubire,
+/: Puterea Ta aduce mântuire :/
+HRISTOS l
+SUS, HRISTOS l
+SUS!
+
+[v3]
+Să-mi acordezi, lsuse, în lumină,
+Prin Duhul, harfa inimii mereu,
+Și-n armonia limpede și plină,
+/: Să-Ți ’nalț slăvitul Nume în lumină :/
+de D U M N E Z E U, de DUMNEZEU!

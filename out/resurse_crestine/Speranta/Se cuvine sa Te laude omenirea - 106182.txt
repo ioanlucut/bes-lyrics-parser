@@ -1,0 +1,33 @@
+[title]
+Se cuvine sa te laude omenirea {author: {Speranța}, {rcId: {106182}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Se cuvine să Te laude omenirea
+Orice gură să vestească
+Pentru slava Ta
+/: Glorie, Osana, Maranata, Aleluia :/
+
+[c]
+Orice ureche s-audă
+Că Isus Hristos e Domn
+Orice genunchi să se plece
+În fața eternului tron
+/: Să cânte mic, să cânte mare
+Să-L înalțe orice norod
+Veniți să facem sărbătoare
+Aici și-n orice loc :/
+
+[v2]
+Prin Tine, Doamne am venit în lume
+Suntem datori să trăim
+Spre slava Ta
+/: Glorie, Osana, Maranata, Aleluia :/
+
+[v3]
+Suntem zidiți în templul tău Isuse
+Și templu-i plin, o, Doamne
+De prezența Ta
+/: Glorie, Osana, Maranata, Aleluia :/

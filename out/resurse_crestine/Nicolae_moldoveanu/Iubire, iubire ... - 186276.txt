@@ -1,0 +1,29 @@
+[title]
+Iubire iubire {author: {Nicolae Moldoveanu}, {rcId: {186276}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Iubire, iubire, adânc Te doresc,
+Adânca Ta fire, adânc s-o primesc!
+
+[v2]
+Iubire, iubire, slăvit Dumnezeu,
+Doresc contopire cu Tine mereu!
+
+[v3]
+Iubire, iubire, cu flacăra Ta
+Să iei zămislire și-n inima mea.
+
+[v4]
+Iubire, iubire, de Tine tânjesc,
+A mea fericire-i să pot să iubesc!
+
+[v5]
+Iubire, iubire, lumină de rai,
+Să-mi dai strălucire și viață să-mi dai.
+
+[v6]
+Schimbat în simțire, să-mpart tot mai viu,
+Belșug de iubire, pe-al lumii pustiu!

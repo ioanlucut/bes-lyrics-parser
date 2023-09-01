@@ -1,0 +1,28 @@
+[title]
+Nu astepta pana poti face lucru mare {author: {Anonim}, {rcId: {74423}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Nu aștepta până poți face lucru mare,
+Nu-aștepta în zare să lucești:
+Fii credincios în toate căile tale,
+Fii lumină-n locul unde ești.
+
+[c]
+/: Fii Lumină-n locul unde ești :/
+Pe cineva de departe la Isus s-aduci,
+Fii lumină-n locul unde ești!
+
+[v2]
+Poți însenina cerurile-ntunecate,
+Nu lăsa, ca să nu strălucești,
+Chiar de numai unui suflet faci bucurie,
+Fii lumină-n locul unde ești!
+
+[v3]
+Mulți în noapte au nevoie de talantul tău,
+Ca Luceafărul să strălucești!
+Chiar și tu poți duce Cuvântul lui Dumnezeu,
+Fii lumină-n locul unde ești!

@@ -1,0 +1,37 @@
+[title]
+Lui dumnezeu ii pasa de tine {author: {Ioana Teodoru}, {rcId: {193505}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Părăsește orice-ngrijorare!
+Lasă-te purtat de val pan’ la mal!
+Și fii sigur că nu ești singur,
+Că Dumnezeu nu te va lăsa!
+
+[c]
+Lui Dumnezeu Îi pasă de tine
+Te iubește atât de mult
+Nu uita, și pentru tine
+Isus a murit răstignit, pentru că te-a iubit
+Lui Dumnezeu Îi pasă de tine
+Te iubește atât de mult
+Nu uita, și pentru tine
+Isus a murit răstignit, pentru că te-a iubit
+/: Lui Dumnezeu Îi pasă de tine
+Te iubește atât de mult
+Nu uita, și pentru tine
+Isus a murit răstignit, pentru că te-a iubit. :/
+
+[v2]
+Bucură-te zi de zi în Domnul tău
+Alungă întristarea căci duce la rău!
+Fii fericit de tot ce-ți oferă
+Totul este doar spre binele tău.
+
+[v3]
+Cântă-i Lui cât încă ai suflare
+El merită lauda și închinarea
+Cantă-i căci ți-a adus salvare,
+Prin Isus, ți-a dat în dar mântuirea.

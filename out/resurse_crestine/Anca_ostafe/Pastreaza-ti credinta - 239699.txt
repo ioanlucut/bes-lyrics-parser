@@ -1,0 +1,29 @@
+[title]
+Pastreaza-ti credinta {author: {Anca Ostafe}, {rcId: {239699}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Păstrează-ți credința când totul in jur e război
+Păstrează-ți nădejdea când totul in jur e ruină,
+Căci Domnul a spus prin Cuvânt ca va fi cu noi
+Și în încercarea cea grea ne va ține de mână.
+
+[c]
+Căci toate trec, totul se duce
+Si va rămâne ce-ai lucrat,
+/: Nimic, nimic nu iei cu tine
+Doar pentru Cer ce-ai adunat. :/
+
+[v2]
+Păstrează-ți curat cugetul chiar dacă ți-e greu
+Iubește și iartă pe -acela ce te prigonește,
+Fii gata s-ajuți un sărac cu ce e al tău
+Și celui ce e întristat cu drag îi vorbește.
+
+[v3]
+Păstrează-te sfânt și curat, om al rugăciunii
+Veghează și luptă intr-una să fii credincios,
+Răscumpără vremea și fii, un fiu al luminii
+Trăiește ce ți-a mai rămas, lucrând cu folos.

@@ -1,0 +1,26 @@
+[title]
+Eu stiu ce vrei {author: {Nicolae Moldoveanu}, {rcId: {246134}}
+
+[sequence]
+v1,v2
+
+[v1]
+Eu știu ce vrei fără să-Mi spui,
+/: Eu știu ce vrei. :/
+Când ochii tăi puternic cată,
+Când fața ta e-nlăcrimată,
+Când tremură ființa toată,
+Când cauți ajutor și nu-i...
+Când ce-ai voi nu poți să spui...
+Eu știu, fără să-Mi spui, ce vrei.
+Eu știu ce vrei.
+
+[v2]
+Fără să-ți spun, tu știi ce vreau.
+De vrei s-asculți și să-mplinești,
+Tot ce cunoști să dăruiești,
+Ce-i drept să spui și să trăiești,
+Tu știi ce vrea Cuvântul Meu,
+De vrei s-asculți porunca Lui,
+Tu știi ce vreau, fără să-ți spui.
+Tu știi ce vreau

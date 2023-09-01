@@ -1,0 +1,26 @@
+[title]
+Cauta-l pe isus (reach out to jesus) {author: {Ralph Carmichael, Traducere RO}, {rcId: {127088}}
+
+[sequence]
+v1,c,v2,c,s,c
+
+[v1]
+Când prea grea-i povara, singur, nu o poți purta
+Sunt primejdii multe și ascunse-n calea ta;
+Roagă-L deci, pe Domnul să îți dea din nou puteri
+El te ascultă când ajutor Îi ceri.
+
+[c]
+Rugăciunea ta, El o va-asculta, căci este bun
+El te va-nsoți și călăuzi pe al vieții drum;
+Când descurajarea va veni în viața ta
+Caută-L pe Isus, căci El te va-ajuta.
+
+[v2]
+Poate disperarea te cuprinde tot mereu
+Nori de-ngrijorare se adună-n jurul tău;
+Pasul ți-e nesigur și-n credință șovăiești
+Vino la Isus, speranță-n El găsești.
+
+[s]
+Te chem în ziua necazului meu, căci m-asculți. Psalm 86:7

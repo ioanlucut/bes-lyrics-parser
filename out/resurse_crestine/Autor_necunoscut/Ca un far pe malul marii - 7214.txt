@@ -1,0 +1,35 @@
+[title]
+Ca un far pe malul marii {author: {Anonim}, {rcId: {7214}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ca un far pe malul marii,
+Mi-ai trimis lumina ta, 
+In furtuna disperarii,
+Eram gata-a ma-neca.
+
+[c]
+/: Doamne, fa ca sa strabata
+Din golgota peste mari, 
+Raza dragostei ce-arata
+Portul vesnicei scaparii! :/
+
+[v2]
+Marea e cu stanci dosite
+Care-s greu de ocolit ;
+Si-s atatea cai gresite,
+Ca-i usor de ratacit.
+
+[v3]
+Sunt atati ce-n intuneric
+Drumul drept nu mai gasesc!
+Fa-ma, Doamne, -un far puternic
+Pentru toti ce-i intanlesc!
+
+[v4]
+Daca luntrea lor spre Tine
+Nu pot totusi a-ndrepta, 
+Fa-ma sa le strig mai bine
+Sa -Ti dea carma-n mana Ta!

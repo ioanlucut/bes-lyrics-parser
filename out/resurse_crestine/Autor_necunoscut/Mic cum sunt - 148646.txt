@@ -1,0 +1,29 @@
+[title]
+Mic cum sunt {author: {Anonim}, {rcId: {148646}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mic cum sunt, la Tine vin
+Doamne, vreau să mă închin
+Eu sunt mic dar Tu mă crești
+Doamne, știu că mă iubești!
+
+[c]
+Eu sunt mic, dar pentru mine
+Cea mai mare fericire
+E să cânt, Doamne, de Tine
+Și despre a Ta iubire!
+
+[v2]
+Cu toată ființa mea
+Vreau să fac doar voia Ta
+Mă închin, Îi cânt voios
+Slavă-I dau doar Lui Hristos!
+
+[v3]
+Mulțumesc că m-ai creat
+Mi-ai dat suflet alb, curat
+Și părinți ce mă iubesc
+De Tine, Doamne, vorbesc!

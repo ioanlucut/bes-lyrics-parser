@@ -1,0 +1,38 @@
+[title]
+Aleluia domnul slavei {author: {Wiliiam J. Kirkpatrik}, {rcId: {145985}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Aleluia! Domnul slavei,
+Fie-n veci glorificat!
+Preamăriți-I al Său nume,
+Voi, popoare, ne-ncetat!
+Tresăltați, oștirea-ntreagă,
+Soare, lună, vă-nchinați,
+Slavă Domnului să-I dați!
+
+[c]
+/: Slava Sa cuprinde lumea. :/ x3
+Peste cer glorificat!
+
+[v2]
+Lăudați-L pe Yehova,
+Nori, și fulgere, și vânt!
+El, cu-nțelepciune, toate
+Le-a creat cu-al Său Cuvânt!
+O, pământ, ridică-ți glasul!
+Mări, oceane, prindeți grai!
+Înaintea Lui se pleacă
+Orice vatră, orice plai.
+
+[v3]
+Pomi cu flori și cedrii falnici,
+Ape și coline verzi,
+Fiare din păduri și păsări,
+Munți, și dealuri, și livezi;
+Împărați și voi, popoare,
+Prinți de neam, judecători;
+Domnului să-I dați onoare,
+Vă-nchinați de mii de ori!

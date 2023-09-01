@@ -1,0 +1,32 @@
+[title]
+Domnul este al meu pastor {author: {Anonim}, {rcId: {1380}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Domnul este al meu Pastor,
+Eu merg cu El mereu.
+Ma duce la pasuni verzi,
+Eu merg cu El mereu
+
+[c]
+/: Mereu :/ Eu merg cu El mereu
+
+[v2]
+Domnul este al meu Pastor
+Eu merg cu El mereu.
+La ape limpezi ma duce,
+Eu merg cu El mereu
+
+[v3]
+Domnul este al meu pastor
+Eu merg cu El mereu.
+Grija-mi poarta zide zi
+Eu merg cu El mereu.
+
+[v4]
+Domnul este al meu Pastor,
+Eu merg cu El mereu
+Aici si-acolo-n cerul Sau,
+Eu merg cu El mereu.

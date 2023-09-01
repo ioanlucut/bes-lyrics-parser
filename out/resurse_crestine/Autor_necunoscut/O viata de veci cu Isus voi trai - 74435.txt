@@ -1,0 +1,29 @@
+[title]
+O viata de veci cu isus voi trai {author: {Anonim}, {rcId: {74435}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O viață de veci cu Isus voi trăi,
+De-aceea sunt vesel mereu.
+Durerea mea mare curând s-a sfârși,
+Durere ce-o știu numai eu.
+
+[c]
+/: Sunt vesel la bine și rău,
+Sunt vesel cu Isus mereu.
+Durerea mea mare curând s-a sfârși,
+Durere ce-o știu numai eu. :/
+
+[v2]
+Și ziua și noaptea citind și rugând,
+Prin viață eu trec fericit.
+Când singur mă simt, sunt cu Domnul cel sfânt,
+Căci El nu mă lasă nicicând.
+
+[v3]
+Necazuri au fost și vor fi ne-ncetat,
+Așa ne-a fost scris pe pământ.
+Dar când mi-a fost greu, Dumnezeu m-a salvat
+Și-L laud pe Domnul cel sfânt.

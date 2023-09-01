@@ -1,0 +1,53 @@
+[title]
+O tu mi-ai dat vederea {author: {Nicolae Moldoveanu}, {rcId: {246217}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+O, Tu mi-ai dat vederea
+Și Tu mi-o ții cât vrei,
+Dar Te-aș vedea pe Tine
+Chiar dac-ai să mi-o iei.
+
+[c]
+Tu mi-ai zidit auzul,
+- Dar chiar și fără el,
+Te-aș auzi grăindu-mi
+În și mai dulce fel.
+
+[v2]
+Și Tu mi-ai dat Cuvântul
+Dar chiar de-ar fi să-l iai,
+Aflare-aș să Te laud
+Un și mai dulce grai.
+
+[c2]
+Tu-mi dărui libertatea,
+Dar chiar și fără ea,
+Aflare-aș Ioc și vreme,
+Să-Ți dau slujirea mea.
+
+[v3]
+Tu mi-ai adus cântarea
+Și-al rugăciunii-avânt,
+Dar chiar și fără ele,
+Aflare-aș zborul sfânt.
+
+[c3]
+Căci dragostea găsește
+O mie de cărări,
+S-atingă-mbrățișarea
+Doritei ascultări.
+
+[v4]
+Gustând adânc odihna,
+Ajunsă-n Dumnezeu,
+Și-un har mai ’nalt cu-atâta
+Cu cât a-nvins mai greu!
+
+[c4]
+Căci dragostea găsește
+O mie de cărări,
+S-atingă-mbrățișarea
+Doritei ascultări.

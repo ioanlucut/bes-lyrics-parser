@@ -1,0 +1,40 @@
+[title]
+Cand un sarac in haine sparte {author: {Nicolae Moldoveanu}, {rcId: {5572}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Când un sărac, în haine sparte,
+În ușa ta, te va aștepta,
+/: Dă, frate, piatra la o parte,
+Puținul tău cu el imparte;
+Tu dă cât poți, dar nu-l lăsa! :/
+
+[v2]
+Când chiar pe-al tău dușman de moarte,
+Îl vei vedea în drum căzut,
+/: Dă frate, piatra la o parte,
+Și pe dușmanul tău de moarte
+Ajută-l când îl vezi căzut! :/
+
+[v3]
+Sărmanul când, bătut de soartă,
+În ușa ta se va opri,
+/: Dă frate, piatra la o parte
+Și-aceluia bătut de soarte
+Tu dă-i ce poti, dar nu-l goni! :/
+
+[v4]
+Pribeagul cae, de departe,
+Se va opri la casa ta
+/: Da, frate, piatra la o parte
+Si la străinul de departe,
+Dă-i pâinea si camașa ta!
+
+[v5]
+Când cel ce ura il desparte
+Te va lovi răzbunător,
+/: Dă frate, piatra la o parte!
+La cel ce ura il desparte
+Întinde-i mana, iubitor! :/

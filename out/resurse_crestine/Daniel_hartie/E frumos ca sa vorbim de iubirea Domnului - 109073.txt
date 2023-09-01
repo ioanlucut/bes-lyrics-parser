@@ -1,0 +1,35 @@
+[title]
+E frumos ca sa vorbim de iubirea domnului {author: {Daniel Hartie}, {rcId: {109073}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+E frumos că să vorbim de iubirea Domnului,
+Dar mai greu e să trăim, dovedind dragostea Lui;
+E ușor să arătăm, ce bun este Dumnezeu,
+Dar mai greu e să umblăm, în iubirea Lui mereu.
+
+[c]
+Ferice de omul ce merge
+Pe calea ce duce spre cer;
+Ferice de omul ce caută,
+Să fie exemplu, model.
+
+[v2]
+E ușor să spunem azi, că suntem răscumpărați,
+Dar mai greu e să iertăm pe cei care ne sunt frați;
+Nu e rău să ne numim credincioși adevărați,
+Dar mai greu e să trăim că adevărații frați.
+
+[v3]
+Nu e rău să predicăm să slujim prin cânt frumos,
+E mai greu că să umblăm că ucenici ai lui Hristos;
+E frumos că să vorbim despre faptele dintâi,
+Dar e trist că nu le-avem astăzi că și căpătâi.
+
+[v4]
+Domnul nu te va-ntreba pe pământ cum te-ai numit,
+Faptele vor dovedii dacă ai fost pocăit;
+Căci nu formă nici culoarea nu îți este de folos
+Doar faptele și credința în Domnul Isus Hristos.

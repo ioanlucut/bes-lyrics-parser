@@ -1,0 +1,17 @@
+[title]
+Bunatatea ta o doamne nu se va sfarsi {author: {Emanuel Iancu}, {rcId: {4845}}
+
+[sequence]
+v1,c
+
+[v1]
+Bunătatea Ta, o Doamne, nu se va sfârși,
+Îndurările Tale la capăt nu vor fi,
+Ci se înnoiesc în zori, în fiecare zi,
+Căci credincioșia Ta este așa de mare.
+
+[c]
+Aleluia, Aleluia, laudă Domnului!
+Aleluia, Aleluia, slavă numai Lui!
+Aleluia, Aleluia, laudă Domnului.
+Căci credincioșia Ta este așa de mare.

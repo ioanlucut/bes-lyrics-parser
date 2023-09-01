@@ -1,0 +1,39 @@
+[title]
+Eu sunt alfa si omega {author: {Anonim}, {rcId: {5194}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Eu sunt alfa și omega,
+Eu sunt alfa și omega
+Domnul Isus a zis.
+Inceputul și sfârșitul este Dumnezeu
+Nu e altul pe pământ și-n cer
+Eu sunt alfa și omega,
+Eu sunt alfa și omega Domnul Isus a zis.
+
+[c]
+Eu vin curând, zice Domnul
+Iată răsplata voastră e cu Mine
+Voi da, la fiecare după faptă
+In curând curând.
+
+[v2]
+Cine-i sfânt să se sfințească,
+Cine-i sfânt să se sfințească
+Domnul Isus a zis.
+Căci afară vor rămâne toți cei mincinoși
+Si acei ce sunt necredincioși
+Cine-i sfânt să se sfințească,
+Cine-i sfânt să se sfințească Domnul Isus a zis.
+
+[v3]
+Domnul vine maranata,
+Domnul vine maranata
+Amin, aleluia.
+Duhul și mireasa strigă vino Isuse
+Mântuiții strigă glorie
+Domnul vine maranata,
+Domnul vine maranata
+Amin, aleluia.

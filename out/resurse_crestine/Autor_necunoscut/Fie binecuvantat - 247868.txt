@@ -1,0 +1,23 @@
+[title]
+Fie binecuvantat {author: {Anonim}, {rcId: {247868}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Fie binecuvântat!
+Acel ce vine ca-mpărat! :/
+
+[c]
+/: Osana!
+Binecuvântat!
+Binecuvântat!
+Să fie Domnul! :/
+
+[v2]
+/: Binecuvântat fie!
+Acel ce vine din slavă! :/
+
+[v3]
+/: Slăvită în veci fie!
+Împărăția ce vine! :/

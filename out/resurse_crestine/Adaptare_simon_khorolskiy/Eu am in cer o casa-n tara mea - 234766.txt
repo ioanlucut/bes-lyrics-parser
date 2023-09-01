@@ -1,0 +1,39 @@
+[title]
+Eu am in cer o casa-n tara mea {author: {adaptare Simon Khorolskiy}, {rcId: {234766}}
+
+[sequence]
+v1,v2,v3,v4,b
+
+[v1]
+Eu am in cer o casă-n țara mea,
+Tatăl meu mă așteaptă-n țara mea,
+/: În jurul meu e ceață
+Negura e-n față
+Dar dorul meu se-nalță-n țara mea :/
+
+[v2]
+Adesea mi-e rânită inima
+Dar va fi fericita-n țara mea
+/: Și Domnul suferita,
+Iar mie îmi promis-a
+Cununa strălucită-n țara mea :/
+
+[v3]
+Scurta și-anevoioasă-i calea mea
+Dar voi sfârși-o acasă-n țara mea
+/: Pământul va rămâne
+Eu voi zbura din lume
+Tristețea va apune-n țara mea :/
+
+[v4]
+Ca fulgul de zăpadă-oi înălța
+Și voi ajunge-acasă-n țara mea
+/: Voi fi cu-aleșii-n slavă
+Patria mea draga
+Vino mai degrabă-n țara mea
+Nu va mai fi durere
+Doar sfântă mângâiere
+Lacrimi se vor șterge-n țara mea :/
+
+[b]
+/: Aleluia, Aleluia, Aleluia... :/

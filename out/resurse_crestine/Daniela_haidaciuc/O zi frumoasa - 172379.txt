@@ -1,0 +1,42 @@
+[title]
+O zi frumoasa {author: {Daniela Haidaciuc}, {rcId: {172379}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c2
+
+[v1]
+Voi tineri dragi, pășiți pe-un drum
+Care necunoscut vă e acum,
+Iar peste ani vă veți aminti,
+Că-aceasta a fost cea mai frumoasă zi!
+
+[c]
+O zi frumoasă, o singură zi
+În care-a voastre inimi se vor uni,
+Ca un buchet de trandafiri
+Scăldati în raze aurii, iubirea voastră zi de zi va înflori!
+
+[v2]
+Să fiți mereu, mereu uniți,
+Și ne-ncetat pe Domnul să-L iubiți,
+În casa voastră să-L chemați,
+Nici un îndemn străin să n-ascultați!
+
+[v3]
+Când vor veni chiar valuri mari,
+Și când ispitele vor fi mai tari,
+Să fiți uniti și-n rugăciuni
+Chemați pe Dumnezeu când vin furtuni!
+
+[v4]
+Astfel Isus vă va însoți,
+Și orice val cu El veți birui,
+Veți triunfa pe tărm de vis,
+Când casa voastră va fi-n Paradis!
+
+[c2]
+Un imn de glorie Îi vom cânta
+Cu toți lui Isus la nunta Sa,
+Noi ca și porumbeii-n zbor
+Ne vom ’nalța spre-albastre zări,
+La Nunta Sfântă cu Isus mai sus de nori!

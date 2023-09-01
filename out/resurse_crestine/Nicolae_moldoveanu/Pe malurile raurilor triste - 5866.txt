@@ -1,0 +1,35 @@
+[title]
+Pe malurile raurilor triste {author: {Nicolae Moldoveanu}, {rcId: {5866}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Pe malurile râurilor triste,
+Pe țărmul apelor din Babilon,
+/: Ședeam tăcuți și toți plângeam cu jale,
+Când ne-aduceam aminte de Sion. :/
+
+[v2]
+În sălciile din ținutu-acela,
+Noi toate harfele le-am atârnat;
+/: Acolo, toți biruitorii noștri,
+Să le cântăm cântări, au așteptat. :/
+
+[v3]
+Cum să putem cânta noi, oare, ție
+Cântările Sionului iubit?
+/: A Domnului cântări neprihănite,
+Pe un pământ străin și nedorit? :/
+
+[v4]
+De te-oi uita, Ierusalime, să-și uite
+A ei destoinicie dreapta mea!
+/: De cerul gurii, limba să-mi lipească,
+De nu-mi va fi la tine inima! :/
+
+[v5]
+De nu-mi voi aminti mereu de tine,
+De nu voi face din Ierusalim
+/: A bucuriei culme-ntotdeauna
+Și-al dragostei puternice sublim. :/

@@ -1,0 +1,35 @@
+[title]
+Viitorul e o taina {author: {Alexandru Groza}, {rcId: {61527}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Viitorul e o taină
+A lui Dumnezeu din cer
+E necunoscut de oameni
+Stăpânit e doar de El.
+De ce să purtăm povara
+Zilelor ce vor veni?
+Ajunge zilei necazul
+Care vine când nu știi.
+
+[c]
+Când valul greu de ceață
+Impiedică privirea
+Să-L vezi pe Domnul slavei
+Pleacă-ți ființa ta.
+În El să ai speranță
+În El ai siguranță
+El luminează calea
+El poartă grija ta.
+
+[v2]
+Când în inimă porți grija
+Zilelor ce vor veni
+Nu depinde doar de tine
+Ce ele-ți vor dărui.
+Stai o clipă, te gândește
+Astăzi e doar ziua ta
+Dumnezeu este Stăpânul
+Zilelor ce vor urma.

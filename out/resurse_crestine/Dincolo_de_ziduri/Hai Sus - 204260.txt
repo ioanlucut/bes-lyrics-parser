@@ -1,0 +1,49 @@
+[title]
+Hai sus {author: {Dincolo De Ziduri}, {rcId: {204260}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+De simptomele rutinei
+Ești obosit și însetat
+Cauți o cale de scăpare
+Din acest pustiu aglomerat
+Ești trăit de propria-ți viață,
+Jucat ca pe-un pion
+Ești prea ocupat să ai
+Nu să fii un campion
+De prea multe ori ai încercat
+De prea multe ori n-ai rezultat
+Mulțimi de șoapte, stăruie-n noapte
+Dezamăgiri, scuze urmate de acuze
+Până când iei decizii
+Fără acțiuni și fapte?
+Abandonat vrei să renunți
+Dar tu nu ești singur în noapte
+
+[c]
+Hai sus, nu renunța!
+Poartă-ți lumina, învinge frica
+Nu ezita
+Hai sus, prinde curaj
+Căci tot ce urmează
+E măreț și contează
+În viața ta!
+/: Hai sus, nu renunța!
+Poartă-ți lumina, învinge frica
+Nu ezita
+Hai sus, prinde curaj
+Căci tot ce urmează
+E măreț și contează
+În viața ta! /x2
+
+[v2]
+Undeva, adânc în tine
+Ști prea bine ce ai de făcut
+Dar tot spui că mai târziu
+Și de fapt e niciodată
+Nu-ți mai camufla conștiința
+Cu fărâmi de adevăr
+Nu-ți mai negocia destinul
+La un preț de muritor.

@@ -1,0 +1,29 @@
+[title]
+Astazi rasuna vestea cea buna {author: {Anonim}, {rcId: {84143}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Astăzi răsună vestea cea bună,
+Azi S-a născut Isus.
+Din strălucire și nemurire
+S-a coborât supus.
+
+[c]
+Slavă sus în ceruri,
+Răsună corul sfânt,
+Pace, bunăvoie
+La oameni pe pământ.
+
+[v2]
+Oastea cerească,-n zarea albastră,
+Cântă unită-n cor.
+Plin de mărire și strălucire
+Isus e Salvator.
+
+[v3]
+Inima noastră, floare măiastră,
+Isuse, Ți-o-nchinăm
+Cu îngeri și păstori împreună
+Azi Te glorificăm.

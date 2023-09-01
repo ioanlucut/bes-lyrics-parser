@@ -1,0 +1,29 @@
+[title]
+O biet copil venit in lume {author: {Anonim}, {rcId: {1907}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O, biet copil venit în lume
+Din slava tatălui ceresc
+În grajd în iesle coborât-ai
+De mic să ai parte de chin.
+
+[c]
+Venit-ai blând smerit în lume
+Cu binecuvântări și har
+Răbdat-ai suferințe grele
+Din iesle până la Calvar.
+
+[v2]
+O biet copil ce-nasta lume
+Nu ți-ai găsit un adăpost
+Decât în grajd pe paie ude
+Aici e loc pentru Cristos.
+
+[v3]
+O biet copil ce ești în lume
+Din măreție ai venit
+Din Dumnezeu adevărat
+Tu pe pământ te-ai întrupat

@@ -1,0 +1,31 @@
+[title]
+Doamne ma-ntreb adesea {author: {Surorile Corpodean}, {rcId: {6877}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Doamne mă întreb adesea de-Ți sunt pe plac
+De prin purtarea ce-o am în lume, voia Ta fac,
+Mă întreb adesea, de a mea voință e și a Ta,
+De urma-Ți Sfântă și a Ta cărare e azi a mea.
+
+[c]
+/: Oare găsești plăcere când jos privești
+Sau plângi că-n mine rod nu găsești ? :/
+
+[v2]
+Doamne oare veșmântul îmi e frumos ?
+Oare gândirea îmi e condusă de Tin’ Hristos ?
+Oar’ vede lumea în mine chipu-Ți strălucitor ?
+Oar’ recunoaște că sunt din Tine scump Salvator ?
+
+[v3]
+Doamne revarsă-Ți duhul în viața mea,
+Să calc pe cale, pe-a Tale urme spre țara Ta,
+Și să cunoască întreaga lume că Tată-mi ești
+Iar când din ceruri privești plăcere, Tu să găsești.
+
+[c2]
+/: Vreau să găsești plăcere când jos privești
+Și-n viață-mi pururi rod să găsești :/

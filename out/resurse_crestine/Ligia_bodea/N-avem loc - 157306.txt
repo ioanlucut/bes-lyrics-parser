@@ -1,0 +1,35 @@
+[title]
+N-avem loc {author: {Ligia Bodea}, {rcId: {157306}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+E noapte în cetate, luminile s-au stins toate
+Domnește liniștea, în oras,
+Doar Maria în durere, bate la porți închise
+Căci ceasul să nască îi venise.
+
+[c]
+N-avem loc, n-avem loc
+Se-nchideau porțile toate
+N-avem loc, n-avem loc
+Căutați în altă parte!
+
+[v2]
+Într-un grajd e locul unde, poate să Îl nască
+Pe Domnul domnilor, Emanuel
+A ales umilința din fecioara preacurată
+Lăudat, lăudat să fie El!
+
+[v3]
+Și azi Domnul bate la ușile încuiate
+Ai vrea să-L primești în inima ta?
+Rege al regilor, e Domnul si Mântuitorul
+Și inima e darul ce i-L poți da.
+
+[c2]
+Tu ai loc, tu ai loc
+În inimă pentru El
+Tu ai loc, tu ai loc,
+El e Fiu de Dumnezeu.

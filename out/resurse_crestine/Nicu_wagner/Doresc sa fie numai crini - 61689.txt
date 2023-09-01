@@ -1,0 +1,41 @@
+[title]
+Doresc sa fie numai crini {author: {Nicu Wagner}, {rcId: {61689}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Doresc să fie numai crini
+Și tot pământul o grădină,
+Iar crinii păcii, fără spini
+Să râdă-n roua cristalină.
+
+[c]
+Doresc să fie numai cânt
+Iar fiii iubitori de pace.
+/: Spre zări să-nalțe imnul sfânt,
+Vibrândul imn minuni va face. :/
+
+[v2]
+Doresc nicicând să mai aud
+De cataclisme și urgie,
+Să se înalțe tot mai mult
+Spre Dumnezeu cântarea vie.
+
+[c2]
+Doresc să fie plaiul nins
+De florile neprihănirii
+/: Și să domnească pe întins
+Dreptatea, visul omenirii. :/
+
+[v3]
+Doresc să fie numai crini
+Și tot pământul o grădină,
+Iar crinii păcii, fără spini
+Să râdă-n roua cristalină.
+
+[c3]
+Va fi sublim și-nălțător,
+Va fi doar pace și-armonie,
+/: Va fi o turmă și-un Păstor,
+Va fi doar cânt și bucurie. :/

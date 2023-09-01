@@ -1,0 +1,34 @@
+[title]
+Ma vei pazi {author: {Alin și Florina Jivan}, {rcId: {161467}}
+
+[sequence]
+v1,b,c,v2,b,c
+
+[v1]
+Doamne, Tu mă călăuzești
+Și, pe drumul bun,
+Zi de zi, pașii mi-i îndrepți.
+Sufletul îmi înviorezi,
+În prezența Ta pe deplin mă odihnesc!
+
+[b]
+Tu ești Păstorul meu,
+Tu ești Domnul meu,
+De nimic eu nu mă tem.
+
+[c]
+/: În Tine mi se-ncrede sufletul,
+Cu Tine plec biruitor la drum!
+Chiar valea umbrei morții de-ar veni,
+Știu, Tu mă vei păzi, mă vei călăuzi!
+Și fericirea și îndurarea Ta
+În toate zilele le voi avea.
+Tu ești cu mine, oriunde aș fi,
+Știu, Tu mă vei păzi, mă vei călăuzi! :/
+
+[v2]
+Doamne, Tu îmi dai bucurii,
+Masa îmi întinzi,
+Când oameni vor a mă opri.
+Și voi sta în prezența Ta
+Toate zilele, toată viața mea!

@@ -1,0 +1,29 @@
+[title]
+Ne-om vedea {author: {E.S.Rice}, {rcId: {1494}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ne-om vedea la cele țărmuri
+Unde nu mai sunt dureri
+În țara cea fericită
+Unde-s numai mângâieri.
+
+[c]
+/:
+/: Ne-om vedea :/
+Ne-om vedea la cele țărmuri
+Unde nu mai sus dureri. :/
+
+[v2]
+În liman ne-om vedea iarăși
+Sfârșind călătoria
+Unde păstorul cu turma
+La țărmuri ne-a aștepta.
+
+[v3]
+Iar ´naintea tronului
+În mărirea Mielului
+Cu cunună de mărire
+În cea sfântă mulțime.

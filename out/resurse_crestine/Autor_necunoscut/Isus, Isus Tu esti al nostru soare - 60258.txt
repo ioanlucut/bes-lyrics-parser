@@ -1,0 +1,47 @@
+[title]
+Isus isus tu esti al nostru soare {author: {Anonim}, {rcId: {60258}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c2
+
+[v1]
+Când noi eram departe
+Și rătăceam în noapte
+Isus Tu ai venit și ne-ai salvat.
+Din chinurile vietii
+Din rece-a groap-a mortii
+Isus, Tu ai venit și ne-ai salvat.
+
+[c]
+/: Isus, Isus, Tu ești al nostru Soare,
+Ești barca de salvare,
+Ești Mirele iubit și minunat. :/
+
+[v2]
+Când nu aveam pe nimeni,
+Nici frați și nici prieteni,
+În Tine am aflat un Prieten bun.
+La Golgota Isuse
+Tu ne-ai cuprins în brațe,
+De-aceea Te iubim nespus de mult.
+
+[v3]
+Când lacrimile-amare
+Se prelingeau in gene,
+Și suferința era tot mai grea.
+În chinuri și durere,
+Tu mi-ai fost mângâiere,
+O, numai Tu Isus cu mâna Ta.
+
+[v4]
+Te asteptam Isuse
+In post si in veghere
+Ni-e dor sa te vedem cat mai curand.
+Ne-am saturat aicea
+De chin si de durere
+O, cino si ne du in ceruri sus.
+
+[c2]
+/: Isus, Isus, o vino mai degraba
+Mireasa te asteapta
+Si Duhul striga « Vino mai curand! :/

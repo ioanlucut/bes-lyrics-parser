@@ -1,0 +1,45 @@
+[title]
+Glorious day (la viata eu am venit) {author: {Eusebiu Baciu, Friends}, {rcId: {238033}}
+
+[sequence]
+v1,v2,c,v4,c,c,c
+
+[v1]
+Sub rușine-ngropat eram,
+Ce povară de ne-ndurat!
+Jos în mormânt Tu M-ai găsit
+
+[v2]
+Respiram însă nu trăiam,
+Suferința mi-o ascundeam
+Jos în mormânt Tu M-ai găsit
+
+[c]
+Tu m-ai chemat,
+La viață eu am venit
+Din întuneric,
+In gloria Numelui Tău
+Tu m-ai chemat,
+La viață eu am venit
+Din întuneric,
+In gloria Numelui Tău
+Tu m-ai chemat,
+La viață eu am venit
+Din întuneric,
+In gloria Numelui Tău
+
+[v4]
+Sunt salvat de păcatul greu,
+Libertate-am primit și eu știu
+Sunt un om nou,
+De când Te-am întâlnit
+
+[b]
+Aveam nevoie de-eliberare,
+Isus a rupt lanțurile mele
+Am fost orfan și fără refugiu,
+Dar azi cerul este a mea casă
+Am fost căzut, dar Tu mi-ai dat viață
+Azi respir iubirea Ta Isuse
+Un viitor am și o speranță
+De când Te-am întâlnit

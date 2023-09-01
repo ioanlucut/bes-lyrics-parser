@@ -1,0 +1,21 @@
+[title]
+Doamne vreau sa fac din tine {author: {Anonim}, {rcId: {55587}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Doamne vreau să fac din Tine, bucuria mea,
+Să nu mă despart de Tine toată viată mea :/
+
+[c]
+/: Tu-mi ești sprijin și adăpost,
+Fără Tine viată n-are nici-un rost :/
+
+[v2]
+/: Soarta mi-o încredințez, doar în mâna Ta,
+Pe Tine mă sprijinesc toată viată mea :/
+
+[v3]
+/: Mulțumesc de bunătatea, ce me-ai arătat,
+Căci Te-ai îndurat de mine și mai ascultat :/

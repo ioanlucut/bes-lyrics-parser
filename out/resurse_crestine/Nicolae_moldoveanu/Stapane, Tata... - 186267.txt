@@ -1,0 +1,42 @@
+[title]
+Stapane tata {author: {Nicolae Moldoveanu}, {rcId: {186267}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Stăpâne, Tată-Ți dăruiesc
+Din nou viața mea,
+Din nou ca jertfă mă gătesc,
+Din nou spre slava Ta!
+
+[c]
+Din nou, din nou la Tine vin,
+Din nou azi n-am vegheat,
+Din nou prin Sângele-Ți divin,
+Din nou să fiu spălat!
+
+[v2]
+Din nou închei nou legământ,
+Din nou spun: ”
+Te iubesc!”
+Din nou mă smulg de pe pământ,
+Din nou vreau să-Ți slujesc!
+
+[v3]
+Din nou sub brazda de hotar,
+Din nou ca bob să mor,
+Din nou să fiu umplut cu har,
+Și să rodesc cu spor!
+
+[v4]
+Din nou să fiu înveșmântat,
+Din nou în alb veșmânt,
+Din nou să fiu eu luminat,
+Din nou de-al Tău Cuvânt!
+
+[v5]
+Din nou, din nou cu Duhul Sfânt,
+Să fiu din nou sfințit,
+Din nou să fiu pe-acest pământ,
+Un credincios smerit.

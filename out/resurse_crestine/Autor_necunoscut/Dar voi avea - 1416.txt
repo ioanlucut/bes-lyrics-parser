@@ -1,0 +1,27 @@
+[title]
+Dar voi avea {author: {Anonim}, {rcId: {1416}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Dacă voi avea în viața mea necazuri, întristări,
+Doamne, Te-aș chema mereu.
+Dacă voi avea în viață mari și lungi dureri,
+Doamne, Tu m-ai alina.
+De-o fi greu pe drumul vieții mele ce voi face-atunci?
+Doamne, Te-aș striga mereu.
+Când ispita grea mă va ajunge, cui mă voi ruga?
+Doamne, Tu ești viața mea!
+
+[c]
+/: Domnul e tăria inimii ce bate-acum
+Domnul e Părintele cel bun.
+Lângă Tine voi fi Doamne neînvins mereu.
+Neînvins mereu. :/
+
+[v2]
+Dacă voi cădea cumva pe cale, cum m-oi ridica?
+Doamne, Tu ești tăria mea!
+Dacă singur voi rămâne-n viață, cin’ mă va salva?
+Tu vei fi nădejdea mea!

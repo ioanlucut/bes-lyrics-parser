@@ -1,0 +1,29 @@
+[title]
+La crucea ta {author: {Frații Ursan}, {rcId: {90007}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+La crucea Ta iertare am gasit
+In jertfa Ta care ma maintuit
+In bratul Tau raman in orice zi
+Isus iubit esti pacea inimii.
+
+[c]
+Numele Tau e sfant si mare
+Dragaotea-Ti n-are asemanare
+Pacea Ta blanda ma inunda
+Imi da putere-n veci sa stau pe stanca.
+
+[v2]
+La tronul Tau eu imi prostern fiinta
+In mila Iti reversi bunavointa
+Si binecuvintezi viata mea
+Cu pacea si intelepciunea Ta.
+
+[v3]
+In mana Ta voi sta pan la sfarsit
+Prin harul Tau eu pacea am primit
+Prin Tine-s viu traiesc, cant si iubesc
+In bratul Tau eu linistea gasesc.

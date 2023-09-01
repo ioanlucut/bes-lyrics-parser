@@ -1,0 +1,47 @@
+[title]
+Am un frate ce-i evreu {author: {Nica Lucian}, {rcId: {5617}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+Am un frate ce-i evreu
+Un frate din Dumnezeu!
+/: El mi-e fratele mai mare
+Ce-mi dă har și îndurare! :/
+
+[v2]
+Fratele meu e evreu
+E Mântuitorul meu
+/: Prin Cuvânt m-a învățat
+Voia Tatălui s-o fac! :/
+
+[v3]
+Căci El Însuși mi-a spus mie
+Prin sfânta Evanghelie
+/: Frate, soră, chiar și mamă
+Ucenicii mei se cheamă! :/
+
+[v4]
+Numele lui e Mesia
+E Ieșua Hamașiah
+/: Unsul ce ne mântuiește
+Cu Duh Sfânt și foc sfințește! :/
+
+[v5]
+Cine azi se pocăiește
+Pe evreu cine-l iubește
+/: Prin aceasta dovedește
+Că pe Tatăl sfânt iubește! :/
+
+[v6]
+Înțelege astăzi frate
+Că credința în Mesia
+/: Vrajba a înlăturat
+Evrei și români unit-a! :/
+
+[v7]
+Nu mai critica azi Legea
+Așa spune sfântul Iacov
+/: Cine-acum nu înțelege,
+Să ceară înțelepciunea! :/

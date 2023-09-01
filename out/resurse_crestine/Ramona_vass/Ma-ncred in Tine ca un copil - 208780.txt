@@ -1,0 +1,35 @@
+[title]
+Ma-ncred in tine ca un copil {author: {Ramona Vass}, {rcId: {208780}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Am găsit un loc unde-i liniște,
+Pace bucurie în orice timp.
+În prezența Ta vreau mereu să fiu
+Să mă-adăpostesc orice-ar veni.
+
+[c]
+Iubirea Ta îmi dă puteri să merg pe calea Ta
+Să mă întaresc în duhul zi de zi
+Și să mă încred în tine ca un copil.
+Iubirea Ta îmi dă puteri să ies din bezna grea
+Și să privesc nainte ori ce-ar fi,
+Să mă încred în Tine ca un copil.
+
+[v2]
+Am ales cu drag să vii în viața mea,
+Pe tronul inimi te-am așezat.
+Tu m-ai iubit nespus cand eu n-am meritat
+Credința și tîrie în mine ai pus.
+
+[v3]
+Nu mai este mult și te voi întalni
+O Doamne acea clipa o așept.
+Nu mai doresc nimic ce lumea-mi poate da
+Decât sa fiu cu tine în veșnici.
+
+[e]
+/: Vine clipa cand pe norii cerului te voi vedea,
+Și stiu o Doamne ca nimic si nimeni nu mă poate smulge din mâna Ta :/

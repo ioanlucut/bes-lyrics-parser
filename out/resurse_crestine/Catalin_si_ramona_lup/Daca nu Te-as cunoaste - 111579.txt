@@ -1,0 +1,19 @@
+[title]
+Daca nu te-as cunoaste {author: {Cătălin și Ramona Lup}, {rcId: {111579}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Dacă nu Te-aș cunoaște, nu aș ști ce mare și bun ești!
+Dacă nu aș căuta, nu aș găsi, comorile Tale!
+
+[c]
+Mulțumire, închinare, adorare
+Vrednic ești să le primești
+În lumină și splendoare
+Îmbrăcat ești, Domnul Dumnezeul meu!
+
+[v2]
+Dacă n-aș fi dorit, n-aș fi primit darurile Tale!
+Dacă n-aș fi visat nu s-ar fi-mplinit planurile Tale!

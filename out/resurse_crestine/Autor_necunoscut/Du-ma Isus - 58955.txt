@@ -1,0 +1,27 @@
+[title]
+Du-ma isus {author: {Anonim, Traducere RO}, {rcId: {58955}}
+
+[sequence]
+v1,v2,v3,c
+
+[v1]
+Du-mă Isus la izvorul cel sfânt
+Stâmpără-mi dorul din sufletul frânt
+Du-mă Isus la izvorul cel sfânt
+Du-mă Isus, vreau ca să beau, vreau să trăiesc!
+
+[v2]
+Fă-mă să beau din izvorul divin
+Setea din inimă astfel s-alin
+Fă-mă să beau din izvorul divin
+Fă-mă să beau, du-mă Isus, vreau să trăiesc!
+
+[v3]
+Vreau să trăiesc sus la sfântul Tău râu
+Pe mal cu-aleșii pe veci vreau să fiu
+Vreau să trăiesc sus la sfântul tău râu
+Du-mă Isus, fă-mă să beau, vreau să trăiesc
+
+[c]
+/: Cause me to come to Thy river o Lord! x3
+Cause me to come, cause me to drink, cause me to live :/

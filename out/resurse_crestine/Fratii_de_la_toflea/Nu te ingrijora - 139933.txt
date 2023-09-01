@@ -1,0 +1,23 @@
+[title]
+Nu te ingrijora {author: {Fratii de la Toflea}, {rcId: {139933}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Nu te îngrijora, chiar dacă drumul uneori e greu,
+Lasă-te-n mâna Sa, El știe tot, căci El e Dumnezeu. :/
+
+[c]
+/: O mie să cadă alături de tine,
+Și zece mii la dreapta ta.
+Tu vei privi cu ochii și vei vedea minunea,
+De tine nu se va apropia. :/
+
+[v2]
+/: Încrede-te în Domnul Tău, căci doar prin harul Lui vei birui,
+El e de partea ta, împotriva ta nimeni nu poate fi. :/
+
+[v3]
+/: Nu mai zăbovi, căci Domnul pentru tine a plătit,
+El te-a răscumpărat, în palmele Lui sfinte te-a săpat. :/

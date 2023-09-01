@@ -1,0 +1,29 @@
+[title]
+Iata ce sunt iata ce am {author: {Anonim, Traducere RO}, {rcId: {4936}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+Iată ce sunt, iată ce am,
+Rege sunt, mă trag din Avraam
+Și prin Hristos cel răstignit
+Viața nouă-n dar eu am primit.
+
+[v1]
+Binecuvântări mă înconjoară
+Legea Sa cea sfântă o iubesc
+Cresc în a lui Isus cunoștință
+Și-n Cuvântul lui dumnezeesc
+
+[v2]
+Binecuvântat sunt în cetate
+Tot ce eu ating este sfințit
+În credință sunt în sănătate
+Domnul Dumnezeu m-a-mbogățit
+
+[v3]
+Binecuvântări sus mă așteaptă
+Cerul pentru mine-i pregătit
+Un locaș eu știu că am în slavă
+Cu cântări voi fi acol´ primi.

@@ -1,0 +1,41 @@
+[title]
+Vine domnul {author: {Nelu Andreșoi}, {rcId: {4540}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Oare voi găsi credință
+Când veni-Voi pe pământ
+/: Întreba Isus odată
+și-a rămas scris acest Cuvânt :/
+
+[c]
+/: Vine Domnul, Maranata
+Frate ești tu pregătit
+Ai credința adevărată
+ce-a-ntrebat Isus odată
+
+[v2]
+Strigă zi și noapte
+Frate ne-a-nvățat Domnul Isus
+/: Să ne facă El dreptate
+când vom merge-n ceruri sus :/
+
+[c2]
+/: Vine Domnul, Maranata
+Frate Soră sunteți gata
+Vine Domnu-așa ne-a spus
+să ne ducă-n Ceruri sus
+
+[v3]
+Roagă-te azi cu credința
+ce ne-o cere Domnul nost
+/: Să ne-aducă biruința
+să rămânem în Hristos :/
+
+[c3]
+/: Vine Domnul, să fim gata
+vine Domnul după ai Săi
+Vine Domnul, Maranata
+Vino Doamne după ai Tăi :/

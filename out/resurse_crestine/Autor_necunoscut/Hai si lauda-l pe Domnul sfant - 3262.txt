@@ -1,0 +1,23 @@
+[title]
+Hai si lauda-l pe domnul sfant {author: {Anonim}, {rcId: {3262}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Hai și laudă-L pe Domnul Sfânt, Aleluia
+Laudă-L pe El cântând Aleluia
+/: Laudă-L, laudă-L,
+Laudă-L pe El cântând Aleluia. :/
+
+[v2]
+Cel născut în Betleem, Aleluia
+Fiu de om de Dumnezeu, Aleluia
+/: El Isus, El Isus
+Fiu de om de Dumnezeu, Aleluia. :/
+
+[v3]
+În curând vom fi cu El, Aleluia
+Fericiți în raiul Său, Aleluia
+/: Fericiți, fericiți,
+Fericiți în raiul Său, Aleluia. :/

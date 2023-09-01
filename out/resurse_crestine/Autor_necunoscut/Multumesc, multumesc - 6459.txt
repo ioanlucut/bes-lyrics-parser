@@ -1,0 +1,41 @@
+[title]
+Multumesc multumesc {author: {Anonim}, {rcId: {6459}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Mulțumesc, mulțumesc,
+Dumnezeul meu,
+Pentru tot ce primesc,
+Din belșug, mereu.
+
+[c]
+Mulțumesc, mulțumesc,
+Pentru jerfa Ta
+Căci prin ea viețuiesc
+Și Te pot înălța.
+
+[v2]
+Mulțumesc, mulțumesc,
+Pentru-al Tău cuvânt,
+Prin el pot să privesc
+Viitorul sfânt.
+
+[c2]
+Mulțumesc, mulțumesc,
+Pentru-ntregul har;
+Doar atâta trăiesc;
+Cât mi-e scut și far!
+
+[v3]
+Mulțumesc, mulțumesc,
+Pentru c-ai deschis,
+Prin al Tău Fiu ceresc,
+Noul paradis.
+
+[c3]
+Mulțumesc, mulțumesc,
+Ești nemărginit,
+În ce dai, Te slăvesc,
+Tatăl meu iubit!

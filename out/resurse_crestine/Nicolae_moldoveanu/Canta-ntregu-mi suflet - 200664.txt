@@ -1,0 +1,35 @@
+[title]
+Canta-ntregu-mi suflet {author: {Nicolae Moldoveanu}, {rcId: {200664}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cântă’ntregu-mi suflet,
+Lui Isus Hristos!
+/: EI mi-a scos ființa,
+Dintre morți de jos :/
+
+[c]
+Cântă, cântă ne’ncetat,
+Slavă lui Isus.
+Sufletu-mi răscumpărat,
+Slavă lui Isus!
+
+[v2]
+Cântă harul veșnic,
+Rupt din Paradis!
+/: Pentru poarta vieții,
+Care mi-a deschis :/
+
+[v3]
+Cântă’n veci iubirea-mi,
+Foc nemistuit!
+/: Pentru slava Celui,
+Care S-a jertfit :/
+
+[v4]
+Cântă’n sărbătoare,
+Tot Iăuntrul meu!
+/: Pentru Dumnezeu,
+Dragostei, mereu :/

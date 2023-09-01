@@ -1,0 +1,29 @@
+[title]
+E o zi mareata {author: {Andreea Mois}, {rcId: {157273}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+E o zi măreață, Isus vine, vine iar
+El ne dă speranță, pace, bucurie în dar,
+E iubirea Celui care ne-a iubit întai
+Isus dă viață orișicui.
+
+[c]
+Slavă Ție Doamne, slavă Ție-n veci cântăm
+Ai venit din ceruri, numai Ție ne-nchinăm,
+Te mărim, căci pacea, printre oameni ai adus
+Glorie, mărire lui Isus!
+
+[v2]
+El se naște astăzi, jos în ieslea Betleem
+Revărsând lumină, din lumina Lui din cer,
+Slavă și mărire, Pruncului venit de sus
+Care mântuire ne-a adus.
+
+[v3]
+Îngerii din slavă cântă Regelui Isus
+Glorie și pace pe pământ și-n ceruri sus,
+A venit din slavă să ne-nvețe dragostea
+Regele vieții, Mesia.

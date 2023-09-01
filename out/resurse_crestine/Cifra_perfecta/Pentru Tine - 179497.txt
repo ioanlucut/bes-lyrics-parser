@@ -1,0 +1,24 @@
+[title]
+Pentru tine {author: {Cifra perfecta}, {rcId: {179497}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+/: Un cantec port in gand mereu
+E pentru Tine, Domnul meu :/
+/: Am pus in el iubirea mea
+Pentru frumuseatea Ta :/
+
+[c]
+Na, na, na, na, na, na,..
+
+[v2]
+/: De bucurie cant mereu
+Doar pentru Tine, Domnul meu :/
+/: Tresalta-n mine inima
+Un cant de frumusetea Ta :/
+
+[e]
+Un cantec port in gand mereu
+E pentru Tine, Domnul meu

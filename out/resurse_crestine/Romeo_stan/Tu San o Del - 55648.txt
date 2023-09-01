@@ -1,0 +1,16 @@
+[title]
+Tu san o del {author: {Romeo Stan}, {rcId: {55648}}
+
+[sequence]
+v1,c
+
+[v1]
+/: Tu San o Del, o juvindo,
+Hai avilean, opra phud, hai dinean To traio,
+Hai dinean To traio po trusul :/
+
+[c]
+/: Luvudiv Isus To anau,
+Andar mande Devla Tu mulean,
+Te Ratesa Tu man potindean,
+Miro traio Devla parubdean :/

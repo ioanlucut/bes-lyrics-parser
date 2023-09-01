@@ -1,0 +1,29 @@
+[title]
+Prin ioel ne-ai promis {author: {Maria Șimon}, {rcId: {231305}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Prin Ioel ne-ai promis căci ploaie sfântă vei turna,
+În zilele din urmă peste tineri vei lăsa,
+Râuri pe pământ uscat Doamne, Tu vei revărsa
+Iar puterea Ta cea vie inimile va umplea!
+
+[c]
+/: Ploaie sfântă, binecuvântată,
+Vino, umple inima însetată!
+Curgi din veșnicii, inimi să învii,
+Vino, înviorează, Doamne, ai Tăi copii! : \
+
+[v2]
+Ploaia cea de primăvară Te rugăm să o trimiți,
+Cu ochii îndreptați spre ceruri așteptăm stropii fierbinți.
+Mai deschide înc-o dată stăvilarele cerești
+Și să simtă fiecare, Doamne, cât de mare ești!
+
+[v3]
+Mai trimite Doamne ploaia, ploaia sfântă cea târzie,
+Căci puterea Ta cea mare ca și în trecut e vie!
+Lasă, Doamne, stropi de har astăzi în al Tău popor,
+Flacăra aprinde-o Doamne, Te rugam azi în Sion!

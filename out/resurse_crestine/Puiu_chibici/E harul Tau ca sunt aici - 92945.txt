@@ -1,0 +1,41 @@
+[title]
+E harul tau ca sunt aici {author: {Puiu Chibici}, {rcId: {92945}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+E harul Tău că sunt aici,
+Stând în prezența jertfei Tale
+Cu frații mei, cu mari și mici,
+Cântându-Ți, Doamne, Osanale.
+
+[c]
+E harul Tău că mai exist
+Prin dragostea-Ți nemăsurată
+/: Și-s fericit chiar de sunt trist
+Că încă-Ți mai pot spune Tată. :/
+
+[v2]
+E harul Tău că pot să zbor
+În Duh spre culmile divine,
+E-un mare har că în cuptor
+Nu Te-am pierdut, Isus, pe Tine.
+
+[c2]
+E harul Tău, chiar dacă plâng
+Și-mi curg și-acum lacrimi amare,
+/: Eu știu, Isus, că în curând
+Veni-vor iar zile cu soare. :/
+
+[v3]
+E harul Tău chiar dacă sunt
+Batjocorit aici în vale
+Și sufăr pentru-al Tău cuvânt,
+M-anevoiesc pe a Ta cale.
+
+[c3]
+E harul Tău, e voia Ta,
+De-aceea merg pe-a Ta cărare
+/: Știind că mă vei mângâia
+Când voi sfârși a mea alergare. :/

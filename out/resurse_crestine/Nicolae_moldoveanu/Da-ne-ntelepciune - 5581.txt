@@ -1,0 +1,23 @@
+[title]
+Da-ne-ntelepciune {author: {Nicolae Moldoveanu}, {rcId: {5581}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Da-ne-ntelepciune, Doamne preaiubit,
+Sa pricepem starea care-i de dorit!
+Nu vrem, Doamne Sfinte, sa fim caldicei;
+Vrem sa fim in clocot, sa iubim ca ieri!
+
+[c]
+/: Intoarceti-va azi, prin harul Domnului,
+Si lepadati fatarnicia veacului!
+Intelepciune cereti astazi Domnului
+Si sa traiti in dragostea dintai! :/
+
+[v2]
+Rasfoiti, in urma, fila din trecut:
+Cum ati gasit crucea si pe ea Isus!
+Tot asa iubit-ati pe vrajmasi, ca frati?
+Nu cumva iubirea azi s-a micsorat?

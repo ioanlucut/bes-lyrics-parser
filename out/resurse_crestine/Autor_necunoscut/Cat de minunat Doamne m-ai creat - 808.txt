@@ -1,0 +1,45 @@
+[title]
+Cat de minunat doamne m-ai creat {author: {Anonim}, {rcId: {808}}
+
+[sequence]
+c,v1,c2,v2,c3
+
+[c]
+Cât de minunat Doamne m-ai creat
+Sunt făptura Ta și-n veci Te voi lăuda
+
+[v1]
+Mi-ai dat viață-n trupul meu
+Să mă pot mișca
+Simțurile mi le-ai dat
+Să mă pot controla.
+Mi-ai dat văz, auz și grai
+Să pot comunica
+Inimă mi-ai dat-o-n piept
+Să bată neîncetat.
+Mi-ai dat piele, oase, mușchi
+Ca s-arăt frumos
+Și mă bucur că nu-mi țin
+Corpul tot în jos.
+
+[c2]
+Cât de minunat Doamne m-ai creat
+Eu sunt mulțumit ce chip mi-ai dăruit.
+
+[v2]
+Ochii-albaștrii, negri, verzi
+Tu i-ai colorat
+Părul drept sau ondulat
+Tot Tu l-ai plantat.
+Trupul nalt sau subțirel
+Tu l-ai întocmit
+Chiar cel grăsuț sau scund
+Tu l-ai potrivit.
+Mersul lent sau mai mișcat
+Tot Tu mi l-ai dat
+Și mă bucur că arăt așa de minunat.
+
+[c3]
+Cât de minunat Doamne m-ai creat
+Sunt Fiu de Dumnezeu
+Nu-s pui de cimpanzeu.

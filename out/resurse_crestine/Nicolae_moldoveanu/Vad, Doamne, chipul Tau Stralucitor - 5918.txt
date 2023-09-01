@@ -1,0 +1,43 @@
+[title]
+Vad doamne chipul tau stralucitor {author: {Nicolae Moldoveanu}, {rcId: {5918}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Văd, Doamne, chipul Tău Strălucitor
+Și-n stele sus și-n soare și în nor,
+Dar chipul Tău și omul l-a purtat
+În vremea când era nevinovat,
+Căci după chipul Tău Tu L-ai creat,
+Să fie sfânt și fără de păcat.
+
+[c]
+/: Omule nu întâmplarea
+Ți-a dat chipul minunat,
+Dumnezeu, cu îndurarea,
+El te-a binecuvântat! :/
+
+[v2]
+Văd Doamne Mâna Ta de Creator
+Și-n văi adânci și-n vârful munților
+În piatra care scapără scântei
+Și în parfumul florilor de tei
+În fagurul ce picură din roi
+Căci le-ai creat pe toate pentru noi.
+
+[v3]
+Văd Doamne chipul Tău în adunări
+Prin Duhul sfânt cu dar de vindecări
+Tu locuiești în cerul stălucit
+Dar vii și lângă omul umilit
+Ca să-l ridici din umilința lui
+Și-n carul Mântuirii să îl sui.
+
+[v4]
+Văd Mâna Ta în fiecare zi
+Și-n răsărit, și-n marele apus;
+În stropul cel de rouă cristalin,
+Și-n norii care, plini de apă, vin
+Să cadă peste lutul frământat,
+Să crească rodul binecuvântat.

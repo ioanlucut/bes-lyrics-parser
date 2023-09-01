@@ -1,0 +1,30 @@
+[title]
+Numai prin isus {author: {Nicu Wagner}, {rcId: {74680}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Numai prin Isus, numai cu Isus
+Neînvins prin viață treci,
+El te va spăla și te va-mbrăca
+Cu-a dreptății haină-n veci.
+
+[c]
+/: O, de-ai vrea ca să vii
+La Isus cât este zi :/
+Noaptea-și va lăsa
+Bezna ei cea grea,
+Și să-ntorci, târziu va fi.
+
+[v2]
+Tu ce-ai căutat, și-ncă n-ai aflat
+Pacea sufletului viu,
+Scoală-te degrab’, treci al lumii prag,
+Las’ al lumii trist pustiu.
+
+[v3]
+Siguranță ai, în cerescul rai,
+Dar tu nu vrei să te-ntorci.
+Eu ți-am spus să vii, că în veșnicii
+Vei fi fericit pe veci.

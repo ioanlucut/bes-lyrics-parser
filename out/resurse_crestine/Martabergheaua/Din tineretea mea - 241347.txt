@@ -1,0 +1,27 @@
+[title]
+Din tineretea mea {author: {Marta_Bergheaua}, {rcId: {241347}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Din tinerețea mea, Te caut Isuse!
+Nimic pe acest Pământ nu-mi pare mai de preț!
+Din tinerețea mea, comorile nespuse
+Sunt ale Tale căi, pe care le doresc!
+
+[c]
+/: Tinerețea mea și anii; Doamne îi pun în slujba Ta!
+Tu ești singura comoara pentru toată viața mea! :/
+
+[v2]
+Din tinerețea mea. Te caut pe Tine;
+O fii al meu Păstor Isuse preaiubit!
+Căci viitorul meu e cunoscut de Tine!
+Te rog nu mă lăsa, vreodată părăsit!
+
+[v3]
+Din tinerețea mea. ascult de Tine;
+De a Tale învățături lăsate în Cuvânt!
+Găsesc plăcerea mea în slovele-Ți divine!
+Tu ești comoara mea. Isus pe acest pământ!

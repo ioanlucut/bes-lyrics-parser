@@ -1,0 +1,41 @@
+[title]
+Tata-l nostru care esti in ceruri {author: {Daniel Hartie}, {rcId: {223284}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Tată-l nostru care ești în ceruri
+Vie azi împărătia Ta
+/: Toarnă Duhul Sfânt, peste turma ta
+Și înviorează azi Biserica. :/
+
+[v2]
+Tată-l nostru care ești puternic
+Toate slava fie doar a Ta
+/: Noi să ne smerim, și să te slujim
+Evanghelia la oameni s-o vestim. :/
+
+[v3]
+Tată-l nostru care ierți păcate
+Vrem și noi ca frați să ne iertăm
+/: Să nu ne urâm, ci să ne iubim
+Și în voia ta prin lume să trăim. :/
+
+[v4]
+Tată-l nostru care ne porți grija
+Pentru pâinea coaptă în cuptor
+/: Vrem să-ți mulțumim, să te preamărim
+Pentru bunătatea-ți mare ce-o primim. :/
+
+[v5]
+Tată-l nostru plin de îndurare
+Fie-ti milă azi de a Tăi copii
+/: Suntem încercați, dar nu lepădați
+Prin Isus noi suntem binecuvantați. :/
+
+[v6]
+Cu al nostru Dumnezeu prea mare
+Fiul Său prin jerfta ne-am păcat
+/: Prin credința-n El, lacrimile pier
+Calea-ngustă ne va duce sus în cer. :/

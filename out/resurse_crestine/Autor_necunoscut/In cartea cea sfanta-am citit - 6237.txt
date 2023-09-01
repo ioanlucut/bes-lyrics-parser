@@ -1,0 +1,23 @@
+[title]
+In cartea cea sfanta-am citit {author: {Anonim}, {rcId: {6237}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+In cartea ce sfanta-am citit
+De-un Om care mult m-a iubit
+/: Pe El il slavesc si ii cant mereu
+Isus e numele Sau. :/
+
+[v2]
+In cartea cea sfanta-am aflat
+Caci El m-a creat
+/: El e al meu eu sunt al Lui
+Copil al Domnului. :/
+
+[v3]
+Din cartea cea sfanta eu stiu
+Ca Domnul meu este viu
+/: El e pacea mea la bine si greu
+E adapostul meu. :/

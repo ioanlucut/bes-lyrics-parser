@@ -1,0 +1,37 @@
+[title]
+Taci {author: {Cătălin Ciuculescu Band}, {rcId: {161624}}
+
+[sequence]
+v1,v2,c,v3,c
+
+[v1]
+Ce-i spui unui om când plânge,
+Când durerea îl ajunge
+Și în ochii lui parcă sunt nori?
+Ce-i spui dacă nu mai crede,
+Ce-i spui dacă tot ce vede
+Sunt doar urme în pereții goi?
+
+[v2]
+Poate că nu are mamă,
+Poate că nu are tată,
+Poate n-are frați și nici surori,
+Poate dacă totuși are
+Nu îi dau nici o valoare
+Și se simte singur între toți.
+
+[c]
+/: Taci, să nu scoți niciun cuvânt,
+Taci și ascultă,
+Pentru om înseamnă mult!
+Taci și deschide-ți inima,
+Taci și ascultă, iubește,
+Doar iubind poți ajuta! :/
+
+[v3]
+Inima se încălzește,
+Doar când cineva iubește,
+Cine o dezgheață e frumos.
+Când iubești rămân și fapte,
+Vorbele-s demult uitate,
+Simți că viața asta are rost.

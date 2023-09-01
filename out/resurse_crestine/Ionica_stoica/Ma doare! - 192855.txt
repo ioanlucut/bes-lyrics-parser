@@ -1,0 +1,32 @@
+[title]
+Ma doare {author: {Ionică Stoica}, {rcId: {192855}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+După toate ce-am văzut
+că se-ntâmplă pe pământ, mă doare
+Lumea toată s-a schimbat
+De Dumnezeu s-a-ndepărtat,
+Tot mai tare, tot mai tare, mă doare!
+
+[c]
+Salvarea și iertarea o găsești numai la Dumnezeu
+Salvare și iertarea, dar dezbracă-te de tot ce-i rău!
+dar împacă-te cu Dumnezeu!
+
+[v2]
+Dumnezeu ce ne-a creat
+Chipul Său la om i-a dat, din iubire
+Pe Fiul Său l-a trimis
+Să ne scoată din abis
+Cu iubire, din iubire, cu iubire!
+
+[v3]
+Dacă toate s-au stricat
+Dumnezeu ne-a arătat o cale
+E cu lacrimi și dureri
+Dar Isus a scris, chiar El:
+„
+Mântuire, salvare și iertare!!”

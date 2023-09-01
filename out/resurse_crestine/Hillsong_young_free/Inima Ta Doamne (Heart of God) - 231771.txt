@@ -1,0 +1,57 @@
+[title]
+Inima ta doamne (heart of god) {author: {Hillsong Young, Free, Traducere RO}, {rcId: {231771}}
+
+[sequence]
+v1,v2,c,v3,c,e
+
+[v1]
+Stau în fața Ta acum
+Cu-o inimă sinceră vin
+Frânt de zilele care trec
+Duhule Sfânt ajută-mi sufletul.
+
+[v2]
+Încerc cât pot, dar tot dau greș
+Și chiar și-atunci Tu ești cu min’
+Îmi amintești mereu că sunt copilul Tău
+Indiferent ce am făcut
+Speranța o găsesc în dragostea Ta.
+
+[c]
+Mila Ta triumfă asupra judecății,
+Iubire peste orizonturi
+Păcatul nu triumfă
+Bunătatea Ta
+Îndeamnă la pocăință
+Spre inima Ta
+Inima Ta, Doamne
+Este tot ce vreau.
+Mila Ta triumfă asupra judecății
+Iubire peste orizonturi
+Păcatul nu triumfă
+Bunătatea Ta
+Îndeamnă la pocăință
+Spre inima Ta
+Inima Ta, Doamne
+Este tot ce vreau.
+/: Mila Ta triumfă asupra judecății
+Iubire peste orizonturi
+Păcatul nu triumfă
+Bunătatea Ta
+Îndeamnă la pocăință
+Spre inima Ta
+Inima Ta, Doamne
+Este tot ce vreau: \(2x).
+
+[v3]
+Vor spune că e imposibil
+Să salvezi vreodată-un suflet păcătos
+Domnul meu îi zice risipitorului
+Preaiubitul meu
+Bine ai venit acas’!
+
+[e]
+/: Tot lui Isus îi predau
+Tot lui Isus liber îi dau
+Îl voi iubi și-n El voi crede
+În prezența Lui voi sta: \(3x).

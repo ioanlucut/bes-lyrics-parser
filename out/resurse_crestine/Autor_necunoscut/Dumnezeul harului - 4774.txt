@@ -1,0 +1,29 @@
+[title]
+Dumnezeul harului {author: {Anonim}, {rcId: {4774}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Dumnezeul harului
+Noi te binecuvântăm
+Deasupra altarului
+Jertfa nouă ție-ți dăm.
+
+[c]
+/: Noi te binecuvântăm
+Si te lăudăm
+Cântec nou și sfânt îți dăm
+Doamne-n veci îți dăm. :/
+
+[v2]
+Dumnezeul dragostei
+Vrem cu dragoste de foc
+Să’ nălțăm în felul ei
+Jertfa sfântă-n orice loc.
+
+[v3]
+Dumnezeul slăvilor
+Ne-nchinăm și te slăvim
+Azi și-n vecii vecilor
+Jertfa vie îți cinstim.

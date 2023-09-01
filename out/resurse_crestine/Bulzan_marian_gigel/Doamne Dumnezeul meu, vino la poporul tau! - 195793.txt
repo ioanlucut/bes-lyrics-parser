@@ -1,0 +1,47 @@
+[title]
+Doamne dumnezeul meu vino la poporul tau {author: {Bulzan Marian Gigel}, {rcId: {195793}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+/: Doamne, Dumnezeul meu
+Vino, la poporul tău!
+La cântări și rugăciuni,
+Prin semne și cu minuni :/
+
+[v2]
+/: Domnul meu Isus Cristos
+Privește din ceruri jos
+Suntem azi cu mic cu mare
+În Casa de Adunare :/
+
+[v3]
+/: Lasă Duhul Tău cel Sfânt
+Cu noi pe acest pământ
+Să ne spună, să ne-arate
+Cum să facem bune fapte! :/
+
+[v4]
+/: Tată, Fiu și Duh Preasfânt
+Să ne ții în legământ
+Să trăim în pocăință
+În sfințenie și credință :/
+
+[v5]
+/: Noi credem Cuvântul Tău
+Ce ne scapă de cel rău
+Și prin marea ta iubire
+Să ne ții în mântuire! :/
+
+[v6]
+/: Iertare și Vindecare
+Dă-ne azi la fiecare
+Tu ești medicul cel bun
+Ce faci semne și minuni :/
+
+[v7]
+/: Să ne pocăim cu toții
+Ca să nu fim pradă morții
+Viață veșnică s-avem
+Și în cer să ne vedem :/

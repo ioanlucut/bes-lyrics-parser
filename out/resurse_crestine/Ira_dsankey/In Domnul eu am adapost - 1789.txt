@@ -1,0 +1,35 @@
+[title]
+In domnul eu am adapost {author: {Ira D.Sankey}, {rcId: {1789}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+În Domnul eu am adăpost,
+Cetate tare-n vreme rea.
+Deși e valul furios,
+În El găsesc scăparea mea.
+
+[c]
+Da eu mă-ncred în Domnul, cetatea mea,
+Cetatea mea, cetatea mea!
+Isuse, eu Ție mă-ncredințez,
+Cetate tare-n vreme rea.
+
+[v2]
+Scut de dogoarea soarelui,
+Cetate tare-n vreme rea,
+E ca lumina farului
+Ce strălucește-n noaptea grea.
+
+[v3]
+Cuvânt ce valuri potolești,
+Cetate tare-n vreme rea,
+Tu sufletu-mi adăpostești
+Și nici un rău nu s-a-ntâmpla.
+
+[v4]
+Doar Tu esti mântuirea mea,
+Cetate tare-n vreme rea;
+Tu-mi dai iertarea, pacea Ta,
+Și fericire voi avea!

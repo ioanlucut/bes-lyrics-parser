@@ -1,0 +1,29 @@
+[title]
+Preaiubitul meu e isus {author: {Diaz Amos}, {rcId: {240664}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Preaiubit mai sfânt, mai tare
+Nu s-a mai văzut nicicând!
+Preaiubit ca mine n-are
+Nici cel mai bogat sub soare!
+
+[c]
+Preaiubitul meu e Isus
+Ce pe culme m-a clădit!
+Prin iubirea Lui cea mare
+Mă simt cel mai fericit!
+
+[v2]
+Preaiubitul meu îmi este
+Asemenea unui mir!
+O măliniță regește
+Ce cu dor în vii îmi crește!
+
+[v3]
+Preaiubitul meu frumos
+Și plăcut, cu ochi senini!
+Ca un măr dulce, zemos,
+Ce crește în iubire stors!

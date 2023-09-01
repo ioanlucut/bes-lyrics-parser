@@ -1,0 +1,33 @@
+[title]
+Tine-ma in palma ta {author: {Agnes și Andreina}, {rcId: {194239}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Doamne te strig mereu
+Te chem in rugăciune
+Te simt ades, mă cercetezi
+Te caut să-mi vorbești.
+ /: x2
+
+[c]
+/: Ține-mă in palma Ta,
+Prelucrează-mi inima
+Umple-mi vasul meu mereu
+Cu untdelemnul Tău.
+ /: x2
+
+[v2]
+/: Când valurile vieții bat
+Asupra casei mele
+Rămâi al meu Ocrotitor
+Al meu Mângaietor.
+ /: x2
+
+[v3]
+/: Îți mulțumesc că mă asculți
+Că-mi vii in ajutor
+Eu sunt prea slab și-s păcătos
+Să rabd, eu nu mai pot.
+ /: x2

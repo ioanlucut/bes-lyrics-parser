@@ -1,0 +1,29 @@
+[title]
+Strazile de aur {author: {George Lupsea}, {rcId: {60545}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Noi vom umbla pe străzile de aur
+Acolo unde Domnul e Împărat,
+Și vom cânta cântarea minunată
+Ce îngerii n-o știu, nici n-au cântat.
+
+[c]
+Ce minunat că am aflat
+Pe Domnul Isus Împărat,
+Fie-n veci glorificat
+Pentru iertarea ce ne-a dat!
+
+[v2]
+Și cine sunt aceia de departe
+Ce se apropie cu toții cântând?
+Ei sunt aceia din necazul mare
+Ce l-au urmat pe Mire cu iubire.
+
+[v3]
+Noi vom cânta cântarea minunată,
+A Mielului ce ne-a răscumpărat
+Și îmbrăcați în haina de mireasă
+Îl preamărim pe Cel ce-i Împărat.

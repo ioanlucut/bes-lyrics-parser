@@ -1,0 +1,47 @@
+[title]
+Marturia dragostei {author: {Avalon, Traducere RO}, {rcId: {4549}}
+
+[sequence]
+v1,b,c,v2,c,v3,c
+
+[v1]
+Raza caldă-a soarelui,
+Vorba blândă a vântului,
+Orice vis ce se înalță
+Se înalță ca să afle dragostea.
+Orice șoaptă de poveste,
+Orice nor și orice stea,
+Orice margine de lume,
+Îți cântă dragostea.
+
+[b]
+Da, da, te iubim,
+Da, noi mărturisim.
+
+[c]
+Atât cât voi trăi
+Voi mărturisi dragostea
+Ce ne-a arătat-o El
+Orice suflu al trupului
+Va mărturisi
+Dragostea și mila ta.
+
+[v2]
+Atât cât voi trăi
+Iubirea-Ți voi mărturisi
+Voi fi un martor în tăcere,
+Când cuvinte nu-s de-ajuns,
+Orice suflu al trupului
+Mulțumi-va Domnului,
+Cât timp eu voi mai trăi
+Iubirea-Ți voi mărturisi.
+
+[v3]
+De la munți până la mare,
+De la țărmuri către soare
+Orice mână ce se întinde
+Se întinde ca să dea din pacea ta.
+Orice simplu act de milă
+Spune de venirea Ta
+Către ceruri vrem să mergem
+Vestindu-Ți dragostea.

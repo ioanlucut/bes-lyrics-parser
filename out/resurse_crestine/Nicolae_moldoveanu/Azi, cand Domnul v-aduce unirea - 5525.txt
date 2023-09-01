@@ -1,0 +1,29 @@
+[title]
+Azi cand domnul v-aduce unirea {author: {Nicolae Moldoveanu}, {rcId: {5525}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Azi, cand Domnul v-aduce unirea,
+Am venit cu iubire-ntre voi,
+/: Imnuri sfinte-naltand proslavirea
+Ca Isus e de fata-ntre noi. :/
+
+[v2]
+El sa va implineasca dorinta,
+Tot ce cereti si-i bun, sa va dea!
+/: Va sporeasca mereu El credinta
+Si in carul cel sfant sa va ia. :/
+
+[v3]
+Sa va-nvete Isus ce-i jertfirea,
+Unul cum pentru altul sa fiti;
+/: Ce-a putut savarsi, cand iubirea,
+Pentru veci, ne-a facut fericiti. :/
+
+[v4]
+Va dorim ca iubirea divina
+Sa-ndulceasca al vietii greu jug
+/: Si-n furtuna, ca-n ziua senina,
+S-aveti pace si har din belsug! :/

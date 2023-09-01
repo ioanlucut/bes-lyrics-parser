@@ -1,0 +1,45 @@
+[title]
+Am o casa sus in cer {author: {Puiu și Beni Chibici}, {rcId: {239880}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Am o casă sus în Cer
+Unde griji și lacrimi pier,
+Unde nu mai sunt dureri,
+Ci doar sfinte mângâieri.
+Am o casă-n slăvi cerești,
+În tării dumnezeiești
+Unde-i soare făr’apus
+Unde-i împărat Isus.
+
+[c]
+O ce bucurii vor fi
+Când cu toți ne-om întâlni
+Cu cântări și osanale
+Departe de-a lumii jale
+Cu Isaac si Avraam,
+În cerescul Canaan,
+O ce sfinte părtășii
+Vor fi sus în veșnicii.
+
+[v2]
+Casa mea-i un colț de rai,
+Sus pe-al veșnicului plai
+E-un palat, frumos zidit
+Chiar de Domnul pregătit
+N-ai vrea și tu-amicul meu,
+Să fii’n Cer cu Dumnezeu
+În locașul cel de Sus
+Unde rege e Isus.
+
+[v3]
+Am o țară în slavă Sus
+Unde Domnul meu s-a dus,
+Să îmi pregătească loc
+Ca să scap de iad și foc,
+Sus în țara cea de vis
+În splendori de nedescris,
+Veșnic voi fi fericit
+Cu al meu păstor iubit.

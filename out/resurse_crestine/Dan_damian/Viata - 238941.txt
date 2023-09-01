@@ -1,0 +1,30 @@
+[title]
+Viata {author: {Dan Damian}, {rcId: {238941}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Viața e un dar din ceruri numărată-n zile, ani
+Viața e trăită astăzi, mâine e doar calendar
+/: Astăzi e realitate, ieri a fost n-o poți schimba
+Mâine-i viitor nesigur, viața doar acum e-a ta :/
+
+[v2]
+Nimeni timpul nu-l întoarce, viața n-o poți repeta
+Nimeni timpul nu-l grăbește și nu-l poate întârzia
+/: Nimeni timpul nu-l oprește, doar Cel necuprins în timp
+Numai El când hotărăște, timpul vieții s-a sfârșit :/
+
+[v3]
+Vorbele sunt adunate, într-o Carte-n ceruri sfânt
+Faptele sunt numărate, ce-s făcute pe pământ
+/: Va veni o judecată, socoteală când vom da
+Vom primi în dar răsplată, sau osândă vom avea :/
+
+[v4]
+Nimeni timpul nu-l oprește doar Cel necuprins în timp
+Numai El când hotărăște timpul vieții s-a sfârșit
+/: Astăzi e realitate, ieri a fost n-o poți schimba
+Mâine-i viitor nesigur, viața doar acum e-a ta :/
+Mâine-i viitor nesigur, viața doar, acum e-a ta!

@@ -1,0 +1,43 @@
+[title]
+Cum poti sa iubesti? {author: {Rafael Dragomir}, {rcId: {168673}}
+
+[sequence]
+v1,b,c,v2,b,c,v3,b,c2
+
+[v1]
+Cum poți să iubești un om așa rău?
+Cum poți să mă ierți când eu Ți-am vrut rău?
+În sângele Tău cum poți să mai speli?
+Nu pot să-nțeleg că încă mă vrei...
+
+[b]
+Atât m-ai iubit încât Te-ai jertfit!
+Am fost doar un gol, izvor m-ai făcut!
+Cu Tine am murit, cu Tine am înviat.
+
+[c]
+Îți cânt „
+Laudă”!
+Tot mă iubești și lupți pentru min’.
+Îți cânt „
+Laudă”!
+Mă vei iubi până-n veșnicii.
+
+[v2]
+De-multe ori mă-ntreb: „
+Oare ce vezi în min’?”
+Un om muritor ce crede în Tin’...
+Tot ce-i-n exterior valoare nu-mi dă,
+Dar ce-ai pus în min’ putere îmi dă!
+
+[v3]
+Cum v-oi răsplăti ce-ai făcut pentru min’?
+Ce trebuie să fac să Te bucuri de min’?
+Cu vorba, cu fapta, trăiesc pentru Tin’,
+Iar tot ce-ai făcut, eu voi prețui!
+
+[c2]
+/: Aleluia!
+Tot mă iubești și lupți pentru min’
+Aleluia!
+Mă vei iubi până-n veșnicii. :/

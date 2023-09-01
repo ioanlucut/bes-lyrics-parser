@@ -1,0 +1,39 @@
+[title]
+N-avem timp {author: {Samy si Clara Lupu}, {rcId: {187038}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Trec oameni pe lângă noi, în grabă...
+Aleargă toți după nevoi, în grabă...
+Și dacă te salut-o face tot în grabă...
+Iar de-ți zâmbește-o face scurt și tot în grabă...
+
+[c]
+/: N-avem timp să zâmbim,
+N-avem timp să iubim,
+N-avem timp să-i prețuim pe-ai noștri dragi.
+Facem totul doar în grabă,
+Pământul tot mai mult ne leagă
+Și-apoi sfârșim dezamăgiți și obosiți. :/
+
+[v2]
+La rugă ne plecăm și noi, în grabă...
+Îi spunem orișice nevoi, în grabă...
+Și dacă pregătim o jertfă, tot în grabă...
+Trăim pe fugă mereu triști și tot în grabă...
+
+[e]
+/: Părinții astăzi sunt tot mai grăbiți,
+Aleargă-ntruna să fim mulțumiți,
+Ei vor s-avem un trai cât mai ușor,
+Să stăm cu ei de vorbă-un ceas, ne este dor... :/
+
+[c2]
+N-aveți timp să zâmbiți,
+N-aveți timp să iubiți,
+N-aveți timp să-i prețuiți pe-ai voștri dragi.
+Faceți totul doar în grabă,
+Pământul tot mai mult vă leagă
+Și-apoi sfârșiți dezamăgiți și obosiți.

@@ -1,0 +1,31 @@
+[title]
+O noua zi {author: {Rahela Goagără}, {rcId: {151842}}
+
+[sequence]
+c,v1,c,v2,c,e
+
+[c]
+Viața-n zori se-noiește,
+Soarele-anunță un început,
+Sunt înconjurat de frumuseți!
+Viața-n zori se-noiește,
+Zilnic Isus, lângă mine ești,
+Zilnic vreau să văd prin ochii Săi!
+
+[v1]
+Soarele răsare, razele lui strălucesc la fel
+Și-al păsărilor cântec nu-i schimbat
+Văd roua pe frunze ca de-obicei
+Muguri ce se-agață de ram,
+Dar tot ce văd Dumnezeu pentru min’ a creat!
+
+[v2]
+Și mâinile creatoare
+Munții maiestoși cu talent au sculptat,
+Și-atent a modelat oceane și mări,
+Suflare de viața, a suflat,
+În zi, noaptea a transformat
+Ca eu să mă bucur de tot ce-ai lăsat!
+
+[e]
+/: Totu-i frumos! :/

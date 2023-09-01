@@ -1,0 +1,35 @@
+[title]
+Merge-voi cu mana goala {author: {George C.Stebbins}, {rcId: {74388}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Merge-voi cu mâna goală,
+Înaintea Domnului?
+Suflete nu-i pot aduce,
+Nici un singur snop măcar.
+
+[c]
+Merge-voi cu mâna goală,
+Înaintea Domnului?
+Suflete nu-i pot aduce,
+Nici un singur snop măcar?
+
+[v2]
+De acum Eu sunt cu Isus
+Moartea nu mă tulbură.
+Dar să merg cu mâna goală,
+Asta-i ce mă supără.
+
+[v3]
+Anii mei pe cari i-am pierdut,
+Înc-odată de-ar veni;
+Să lucrez doar pentru Isus,
+Cât aș fi de fericit!
+
+[v4]
+Voi creștini, lucrați cu râvnă!
+Tot ’nainte vă zoriți!
+Aduceți pe mulți la Isus,
+Atât timp cât mai trăiți!

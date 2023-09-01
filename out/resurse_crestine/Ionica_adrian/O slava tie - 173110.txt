@@ -1,0 +1,38 @@
+[title]
+O slava tie {author: {Ionica Adrian}, {rcId: {173110}}
+
+[sequence]
+v1,v1,v2,v2,v3,v3
+
+[v1]
+Noi vom canta o veșnicie
+Sus in marea bucurie
+In slava Sa de nedescris
+Sus acolo in Paradis
+Refren:
+O slavă Ție
+În veci mărire,
+O Dumnezeule slăvit
+Îți multumim că ne-ai iubit
+
+[v2]
+În Paradis ne-om bucura
+Si osanale vom canta,
+Sa-i multumim neincetat
+Caci viata pentru noi ti-ai dat.
+Refren:
+O slava Ție
+În veci marire
+O Dumnezeule slăvit
+Îți multumim câ ne-ai iubit
+
+[v3]
+Prin jertfa ta tu ne-ai promis
+Ca ne vei duce-n Paradis,
+Unde chinul nu va mai fi,
+Doar pe pamant l-om intalni.
+Refren:
+O slava Ție
+In veci marire
+O Dumnezeule slavit
+Iti multumim ca ne-ai iubit

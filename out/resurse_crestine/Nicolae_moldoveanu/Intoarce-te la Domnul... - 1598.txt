@@ -1,0 +1,47 @@
+[title]
+Intoarce-te la domnul {author: {Nicolae Moldoveanu}, {rcId: {1598}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c
+
+[v1]
+Când ajungi să-ți tu însuți o povară,
+Când puteri de ne-nțeles te-apasă greu,
+Când pe crengi sunt numai flori de primăvară,
+Iar în tine frunze moarte cad mereu,
+
+[v2]
+Când spre tainice urzeli ce se destramă,
+Rătăcești ca un pescar de amăgiri,
+N-auzi tu un glas de frate ce te cheamă?
+N-auzi tu suspinul veșnicei iubiri?
+
+[c]
+Întoarce-te la Domnul,
+Așa cum ești.
+Cu zdrențe-n suflet,
+Și poveri!
+Întoarce-te Ia Domnul,
+Un cuget nou.
+Și-o altă inimă,
+Să-I ceri!
+Întoarce-te la Domnul,
+La pieptul Lui.
+Să înțelegi,
+Cât te-a iubit.
+Pe rănile eterne,
+Vei plânge fericit,
+Întoarce-te la Domnul,
+Copil regăsit.
+
+[v3]
+Ca-ntr-un joc, Iegându-ți ochii cu năframa,
+Tu alergi să prinzi minciuna unui vis,
+Dar oprește-te, prietene, ia seama!
+Pașii tăi se-ndreaptă-n goană spre abis!
+
+[v4]
+În zadar pândești năluca fericirii,
+În zadar apuci cu pumnii amândoi,
+Vei plăti din nou tribut dezamăgirii,
+Obosit, cu ochii planși, cu pumnii goi!

@@ -1,0 +1,29 @@
+[title]
+Nu te opri cand bate greu furtuna {author: {Anonim}, {rcId: {161303}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Nu te opri, când bate greu furtuna
+Și cerul tău ți-e plin de nori.
+Poți să păstrezi oricând în ochi lumina
+Ce ți-au adus-o primii zori.
+
+[c]
+Nu te opri, nicicând, din drum,
+Oricât ar fi aici de greu.
+Nu te opri, nu te opri,
+Nu-L părăsi pe Dumnezeu.
+
+[v2]
+Să nu te-oprești, când neagra noapte vine
+Să te cuprindă-n mreaja ei.
+Tu ți-ai pierdut a inimii liniște
+Și lacrimi varsă ochii tăi.
+
+[v3]
+Să nu te-oprești la glasul brut al urii,
+Nu te uita când ești lovit.
+Nu-ngenunchea la stâncile genunii
+Și nu uita că ești iubit.

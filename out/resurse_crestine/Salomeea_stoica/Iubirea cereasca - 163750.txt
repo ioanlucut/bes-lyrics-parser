@@ -1,0 +1,29 @@
+[title]
+Iubirea cereasca {author: {Salomeea Stoica}, {rcId: {163750}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Iubirea cerească e-atât de bogată
+E plină de pace și de bucurie,
+Iubirea cerească e nevinovată,
+/: E aproape de tine și tu nici nu știi. :/
+
+[c]
+Sfântul fior ce-a străbătut,
+În pieptul tău și te-a mișcat
+Iubirea Lui, tu n-ai știut
+Că pentru tine El viața și-a dat.
+
+[v2]
+Iubirea cerească e sfântă și vie
+E plină de roadele Duhului Sfânt
+Ea nu se ridică cu aripi de mândrie
+/: Ea rabdă durerile de pe pământ. :/
+
+[v3]
+Iubirea cerească rămâne în vecie
+Când toate vor trece și nu vor mai fi
+Dar Domnul iubirii cu noi o să fie,
+/: Și noi lângă Domnul în veci vom trăi. :/

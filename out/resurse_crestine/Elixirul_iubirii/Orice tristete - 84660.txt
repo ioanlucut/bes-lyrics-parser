@@ -1,0 +1,33 @@
+[title]
+Orice tristete {author: {Elixirul iubirii}, {rcId: {84660}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Totul pare fără niciun rost,
+Toate visele făcute în zadar au fost,
+Stau și plâng, tristă sunt, Isus la Tine vin,
+Ajută-mă căci viața asta mi se pare-un chin.
+
+[c]
+Orice tristețe Tu poți să o alungi
+La Tine vin acum te rog să mă ajuți,
+Nicio durere pentru Tine nu-i prea grea,
+Iubirea e-n puterea Ta și știu că mă vei ajuta.
+
+[v2]
+Cine, oare, în lume ar putea
+Cu Iubire adevărată să-mi umple inima?
+Doar Tu mă-nțelegi și poți să mă ajuți,
+Cu sufletul îndurerat te rog să mă asculți!..
+
+[v3]
+Tu-nțelegi durerea prin care trec acum
+Pentru că prin dureri ai trecut și Tu,
+Dar acum stai mereu, mereu la dreapta mea
+Ca să mă-ntărești, să mă-ncălzești cu Iubirea Ta.
+
+[e]
+Orice tristețe Tu poți să o alungi..
+Tristețea Tu poți s-o alungi.

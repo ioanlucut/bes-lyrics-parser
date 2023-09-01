@@ -1,0 +1,32 @@
+[title]
+El m-a eliberat (he set me free) {author: {Albert E. Brumley, Traducere RO}, {rcId: {91505}}
+
+[sequence]
+v1,c,v2,c,v3,c,s,c
+
+[v1]
+Ca pasărea în laț mă zbăteam
+Legat și împovărat eram
+Dar Isus cu drag m-a căutat
+Cânt Domnului că m-a eliberat!
+
+[c]
+Eliberat sunt de El pe veci și
+Descătușat de lanțuri ce-s reci
+Cu Isus voi fi neîncetat
+Cânt Domnului că m-a eliberat!
+
+[v2]
+Eu mă ridic dar, zi după zi
+Noaptea cea grea s-o pot părăsi
+Pășind cu Domnul pe calea Sa
+Cânt Domnului că e de partea mea!
+
+[v3]
+În urmă las trecutul murdar
+Nu vreau să treacă vremea-n zadar
+Slujesc și mă rog neîncetat
+Cânt Domnului că m-a răscumpărat!
+
+[s]
+Sufletul ne-a scăpat ca pasărea din lațul păsărarului; lațul s-a rupt, și noi am scăpat. Psalm 124:7

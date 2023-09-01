@@ -1,0 +1,33 @@
+[title]
+Tu esti mantuirea mea {author: {Anonim}, {rcId: {231247}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Tu ești mântuirea mea
+Tu ești fericirea mea
+Tu ești bogăția mea Isuse
+Tu ești Salvatorul meu
+Tu ești fiu de Dumnezeu
+Tu ești Cel ce ai murit pe cruce.
+
+[c]
+Aleluia, Tu mi-ai arătat cărarea către cer
+Veșnicia, este locul unde lacrimile pier.
+
+[v2]
+Tu ești steaua făr’-apus
+Altele ca Tine nu-s
+Numai Tu mi-ai dăruit lumina
+M-ai iertat, m-ai curățit
+Sufletul mi-ai mântuit
+Tu mi-ai arătat Isus, iubire.
+
+[v3]
+Tu ești desfătarea mea
+Tu ești mângâierea mea
+Lângă Tine am găsit alinul
+Vreau pe brațul Tău iubit
+Să rămân pân’ la sfârșit
+Iar apoi cu Tine-o veșnicie.

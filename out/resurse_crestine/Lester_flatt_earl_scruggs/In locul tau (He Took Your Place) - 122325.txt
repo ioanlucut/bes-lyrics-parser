@@ -1,0 +1,33 @@
+[title]
+In locul tau (he took your place) {author: {Lester Flatt, Earl Scruggs, Traducere RO}, {rcId: {122325}}
+
+[sequence]
+v1,c,v2,c,v3,c,s,c
+
+[v1]
+Pe crucea de pe dealul Golgota
+Isus, la Tatăl mijlocea:
+”
+O, Tată, iartă-i, ei nu știu ce fac!”
+Și-n locul tău, Isus murea.
+
+[c]
+El bate iar, cu drag la ușa ta
+Ca să-I deschizi azi, inima
+Prin moartea Lui și sângele vărsat
+Poți fii spălat de-orice păcat.
+
+[v2]
+Când spinii cruzi pe frunte-adânc brăzdau
+Din rană, sângele-I curgea
+Disprețuit, când lumea Îl lovea
+Isus, în locul tău murea.
+
+[v3]
+În ziua când Isus va reveni
+Noi vom zbura spre veșnicii
+Cununa vieții, noi o vom primi
+Și cu Isus, mereu vom fi.
+
+[s]
+Dar El era străpuns pentru păcatele noastre, zdrobit pentru fărădelegile noastre. Pedeapsa care ne dă pacea a căzut peste El, și prin rănile Lui suntem tămăduiți. Isaia 53:5

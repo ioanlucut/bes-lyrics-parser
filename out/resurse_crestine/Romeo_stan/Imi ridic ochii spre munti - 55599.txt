@@ -1,0 +1,32 @@
+[title]
+Imi ridic ochii spre munti {author: {Romeo Stan}, {rcId: {55599}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Eu îmi ridic ochii spre Munți,
+Vino, Doamne să-mi ajuți,
+/: Că Tu Ești ajutorul meu,
+Tu Ești Dumnezeul meu :/
+
+[c]
+/: Numai Tu Ești Pacea mea, Osana, Aleluia :/
+
+[v2]
+În suferința mea cea grea,
+Doar mâna Ta mă mângâia,
+/: Doamne la Tine am strigat,
+Tu, Doamne m-ai ascultat :/
+
+[v3]
+Domnul e Ajutorul meu,
+Eu nu mă tem de niciun rău,
+/: Că știu că El mă va păzi,
+Cu El voi fi în veșnicii :/
+
+[v4]
+Cum aș putea să-Ți mulțumesc,
+Aș vrea Doamne să-Ți răsplătesc,
+/: Căci ai salvat sufletul meu,
+Voi înălța numele Tău :/

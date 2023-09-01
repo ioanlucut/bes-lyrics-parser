@@ -1,0 +1,28 @@
+[title]
+Tu esti stanca mea {author: {Beni Moldovan}, {rcId: {60549}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Te lăudăm Isus căci Tu ești domn,
+Noi preamărim numele Tău în veci de veci.
+Vom vesti bunătatea
+Ta
+Căci prin ea ne-ai dat viața
+Te vom lăuda Isus căci Tu ești domn.
+
+[c]
+Tu ești stânca mea
+Adăpost în vreme rea,
+De aceea nu mă tem în noaptea grea!
+Tu ești locul meu de scăpare
+Cetățuia mea,
+/: Domnul meu în Tine mă încred :/
+
+[v2]
+Te voi binecuvânta toată viața,
+Numele Tău îl voi rosti întotdeauna
+Doamne Tu ești Împărat
+Izbăvire Tu ne-ai dat.
+Voi vesti cuvântul Tău de-a pururea.

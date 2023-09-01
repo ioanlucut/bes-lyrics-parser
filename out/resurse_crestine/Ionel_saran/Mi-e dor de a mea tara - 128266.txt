@@ -1,0 +1,39 @@
+[title]
+Mi-e dor de a mea tara {author: {Ionel Saran}, {rcId: {128266}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mi-e dor de a mea țară
+Mi-e dor s-ajung în ea
+Unde ne vom bucura,
+Cu-al nost’ Isus todeauna
+El ne va lua povara
+Ne va șterge lacrima
+
+[c]
+Ce frumos e acolo
+Vom cânta mereu
+O cântare nouă,
+Pentru Dumnezeu;
+/: Și vom sta la masă
+Cu Avram și Iacob
+Ce mare va fi bucuria,
+Acol’ ne e Împărăția. :/
+
+[v2]
+Nu va mai fi tristețe
+Nici plânset, nici durere
+Vom trăi pentru vecie,
+Cu-ai noștri copii, părinți și frați
+Vom cânta de bucurie,
+Pentru Isus, o veșnicie.
+
+[v3]
+Ce mult doresc, Isuse
+Când vei veni din nou
+Să pot să zbor ’naintea Ta
+Isuse a Te întâmpina
+Cu toată familia mea
+Unde ne e patria.

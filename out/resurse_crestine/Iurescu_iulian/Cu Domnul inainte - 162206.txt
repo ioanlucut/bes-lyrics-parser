@@ -1,0 +1,29 @@
+[title]
+Cu domnul inainte {author: {Iurescu Iulian}, {rcId: {162206}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cu Domnul înainte mergi viteaz,
+Roagă-L, mulțumește-I și fi treaz,
+Căci dacă ațipești, riști s-adormi de tot
+Și pentru ziua mare tu nu aduci rod.
+
+[c]
+Privește sus la Golgota
+Acolo a murit Domnul Isus
+El a purtat și vina mea și-a ta
+/: Ca să ne ia cu El în ceruri sus. :/
+
+[v2]
+Și toate-aici într-o zi vor fi scrum,
+Ai grijă ce direcție are al tău drum,
+Căci toți aceia ce-n lumină au privegheat,
+În fața Tronului îi cântă neîncetat.
+
+[v3]
+Așteaptă-L pe Isus va revenii,
+Privește în Cuvânt și vezi cum va fi,
+Căci Biblia e Harta către Țara Sa,
+Și-acolo poti s-ajungi doar veghind în ea.

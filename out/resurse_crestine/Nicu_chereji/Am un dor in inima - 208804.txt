@@ -1,0 +1,27 @@
+[title]
+Am un dor in inima {author: {Nicu Chereji}, {rcId: {208804}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Am un dor în inimă după Țara mea
+Țara mea-i acolo sus, unde Mire e Isus
+
+[c]
+Loc preasfânt de nedescris
+Domnul a pregătit
+Pentru acei ce L-au urmat
+Cu-a lor viață L-au cinstit
+
+[v2]
+Țara în care voi intra, e fără hotar
+Dreptul mi l-a dat Isus plătind prețul la Calvar
+
+[v3]
+Dorul meu se nalță-n sus, către Dumnezeu
+Unde mire e Isus, glorie Numelui Său!
+
+[v4]
+În cetatea de smarald, am să locuiesc
+Cu al meu scump iubit Isus fericit o să trăiesc!

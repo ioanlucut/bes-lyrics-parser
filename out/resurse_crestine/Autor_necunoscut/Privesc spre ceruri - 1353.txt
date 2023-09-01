@@ -1,0 +1,29 @@
+[title]
+Privesc spre ceruri {author: {Anonim}, {rcId: {1353}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Privesc spre ceruri și văd o țară,
+O țară sfânta fără hotar.
+Sufletul meu e de acolo,
+Acolo-i fi cu Dumnezeu.
+
+[c]
+Cu Isus vom fi mereu,
+Cu Isus, Regele meu,
+În cerescul Canaan,
+Împreună, toți, un neam.
+
+[v2]
+Și văd mulțimi, mulțimi de îngeri,
+Cum ne așteaptă s-ajungem sus,
+Pe tron de aur la Sfântul Tată,
+Cu semnul gata pentru Isus.
+
+[v3]
+Un răsărit aștept Isuse,
+Un soare Tu vei fi pe nori.
+Și vei chema: veniți acasă,
+Cei sfinți să vină în țara lor.

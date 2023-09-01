@@ -1,0 +1,29 @@
+[title]
+De pe munte de pe garizim {author: {David Stănuș}, {rcId: {230531}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+De pe munte, de pe Garizim
+S-a rostit binecuvântarea
+Șase seminții au urcat pe munte
+Și-au vorbit dar toată adunarea.
+
+[c]
+Simion, Levi, Isahar au rostit din Garizim
+Binecuvântarea Lui peste poporul Domnului
+Iosif, Iuda, Beniamin au rostit din Garizim
+Binecuvântarea Lui peste poporul Domnului.
+
+[v2]
+Israele de vei asculta
+Domnul te va binecuvânta
+Porunca Lui de-o vei împlini
+Dumnezeu te va izbăvi.
+
+[v3]
+Domnul Dumnezeu este aici
+Binecuvitează pe cei mici
+Noi avem pe Dumnezeul Sfânt
+Ce ne poartă grija pe pământ.

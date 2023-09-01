@@ -1,0 +1,28 @@
+[title]
+Astazi in fata noastra sunt doi tineri {author: {Anonim}, {rcId: {167877}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Astăzi în fața noastră sunt doi tineri la cununie,
+Doresc să încheie un legământ, sudează-i în iubire.
+Doamne spre Tine înălțăm a noastră rugăciune:
+Fii Tu cu ei, te rugăm, cât vor trăi în lume!
+
+[c]
+În drumul vieții greu
+Să-i însoțești mereu
+Ține peste ei Tu mâna întotdeauna!
+
+[v2]
+În fața lumii dovediți exemplu în trăire,
+Cununa vieții o-mpodobiți cu pace și sfințire,
+Până Isus va veni să-și ia mireasa sfântă
+Care aici s-a pregătit cu haina cea de nuntă!
+
+[c2]
+Ține-i pe brațul Tău,
+Fie păziți de rău,
+Până când vei apărea
+Să-i iei în slava Ta!

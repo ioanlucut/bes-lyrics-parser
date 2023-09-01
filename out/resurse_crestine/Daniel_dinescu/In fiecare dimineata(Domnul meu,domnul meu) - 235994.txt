@@ -1,0 +1,41 @@
+[title]
+In fiecare dimineata(domnul meudomnul meu) {author: {Daniel Dinescu}, {rcId: {235994}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+In fiecare dimineata, imi spui inimii sa bata
+In fiecare zi imi arati ca ma iubesti
+La orice pas din viata mea
+Tu-mi arati dragostea Ta
+In tot ce fac eu vad ca e mana Domnului
+
+[c]
+Domnul meu, Domnul meu
+Te voi lauda mereu
+Te voi binecuvanta
+In orice zi din viata mea: \
+
+[v2]
+In fiecare dimineata, imi spui inimii sa bata
+In fiecare zi imi arati ca ma iubesti
+Ma incred in El ca Domn
+Imi da painea ca prin somn
+Tot ce am eu am din mana Domnului
+
+[v3]
+Langa Tine Domnul meu
+Nu ma tem de niciun rau
+Langa Tine ocrotit voi fii mereu
+Tu esti turnul de scapare
+Doamne-n orice incercare
+Ma ocrotesti cu mana Ta biruitoare
+
+[v4]
+Doamne eu iti multumesc
+Pentru harul tau ceresc
+Pentru binecuvantariile ce le primesc
+Ma incred in Tine caci esti Domn
+Imi dai painea ca prin somn
+Doar prin harul Tau eu sunt biruitor.

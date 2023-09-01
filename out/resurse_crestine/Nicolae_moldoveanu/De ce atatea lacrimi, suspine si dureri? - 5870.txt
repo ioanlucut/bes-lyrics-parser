@@ -1,0 +1,23 @@
+[title]
+De ce atatea lacrimi suspine si dureri? {author: {Nicolae Moldoveanu}, {rcId: {5870}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+De ce atatea lacrimi, suspine si dureri?
+De ce atatea patimi si fara mangaieri?
+
+[c]
+/: De ce tristetea mare
+In suflet ti-a intrat?
+Nu vrei sa-L ai pe Isus
+Sa spele-al tau pacat? :/
+
+[v2]
+Nici lacrimi, nici suspine, nu le poti mangaia
+Decat prin Domnul Isus, Care pe tin’ te vrea!
+
+[v3]
+Cu Isus nu sunt lacrimi, tristete sau amar,
+Fara sa fie sterse la cruce, la Calvar.

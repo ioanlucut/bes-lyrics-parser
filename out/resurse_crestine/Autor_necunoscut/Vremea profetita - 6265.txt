@@ -1,0 +1,37 @@
+[title]
+Vremea profetita {author: {Anonim}, {rcId: {6265}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Vremea profețită
+Și mult așteptată a sosit.
+Te scoală, iubito
+Și vino, o, vino chiar azi!
+E vremea cântării
+Și-a tainicei clipe de har.
+
+[c]
+Veni-voi pe nori, veni-voi pe nori
+Veni-voi pe nori, în curând!
+Găsi-voi veghind, găsi-voi veghind
+Găsi-voi veghind, mireasa!
+
+[v2]
+Tu azi stai ascunsă
+În peșteri de stâncă, gemând.
+Deschide-mi, tu, soro,
+Scumpă porumbiță, chiar azi!
+
+[v3]
+Nu pot ape mari
+Dragostea s-o înece deloc.
+Și nici să o stingă.
+E tare ca stânca cea grea.
+
+[v4]
+Mireasă, iubită
+În doru-mi fierbinte, te chem!
+Ridică-ți privirea
+Fă să-ți aud glasul, chiar azi!

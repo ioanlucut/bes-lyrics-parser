@@ -1,0 +1,35 @@
+[title]
+Comoara mea prin lumea trecatoare {author: {Anonim}, {rcId: {108313}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+De când trăiesc o Doamne lângă Tine
+În viață am găsit un rost
+/: Și-n orice zi la greu cât și la bine
+Comoara mea Isuse tu ai fost :/
+
+[c]
+Comoara mea prin lumea trecătoare
+E Dumnezeu ce m-a creat
+El este tot ce am mai bun sub soare
+Cu El eu sunt cel mai bogat.
+
+[v2]
+Pe calea-aceasta plină de-ncercare
+Tu nicicând nu mă părăsești
+/: Când prietenii mă lasă fiecare
+Comoara mea Isuse drag Tu ești :/
+
+[v3]
+Cu Tine Doamne către veșnicie
+Voi merge plin de bucurii
+/: Și chiar de n-am a lumii bogăție
+Comoara mea Isuse Tu vei fi :/
+
+[v4]
+Îți mulțumesc că ești mereu cu mine
+Și mă conduci pe calea Ta
+/: Eu nu mă las Doamne nicicând de Tine
+Căci Tu Isuse ești comoara mea :/

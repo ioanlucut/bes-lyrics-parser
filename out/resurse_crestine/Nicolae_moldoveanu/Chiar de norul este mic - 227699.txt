@@ -1,0 +1,24 @@
+[title]
+Chiar de norul este mic {author: {Nicolae Moldoveanu}, {rcId: {227699}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Chiar de norul este mic
+își trimite pic, pic, pic,
+ploaia sa ce dă verdeață,
+flori și rod bogat de viață.
+
+[v2]
+Doamne, mic copil sunt eu,
+mic e căpușorul meu,
+dar Te rog, în mine pune
+gândurile cele bune!
+
+[v3]
+Vorbele ce le rostesc,
+faptele ce mă-nsoțesc,
+fie picuri plini de viață,
+cum din ploaie dă verdeață,
+pentru slava Ta măreață!

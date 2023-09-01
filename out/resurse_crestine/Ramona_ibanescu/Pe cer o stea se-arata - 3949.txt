@@ -1,0 +1,21 @@
+[title]
+Pe cer o stea se-arata {author: {Ramona Ibănescu}, {rcId: {3949}}
+
+[sequence]
+c,v1,c
+
+[c]
+/: Colindăm, colindăm,
+Pe Domnul lăudăm
+Colindăm, colindăm,
+Pe Domnul lăudăm. :/
+
+[v1]
+În noaptea minunată
+Pe cer o stea se-arată,
+E noaptea de Crăciun,
+Cântați cu noi acum.
+Voi toți de pe pământ
+Pe Mesia pruncul Sfânt,
+Voi ape munți și soare,
+Doar Lui să-i cântăm.

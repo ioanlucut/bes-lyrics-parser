@@ -1,0 +1,37 @@
+[title]
+Nu te uita dupa vant {author: {Toma Coca}, {rcId: {83986}}
+
+[sequence]
+c,v1,c,v2,c,e
+
+[c]
+/: Nu te uita după vânt
+Căci nu vei semăna,
+Nu te uita nici după nor
+Căci nu vei secera :/
+
+[v1]
+Alungă orișice necaz
+Din inima și viața ta,
+Depărtează-te de rău
+Ține-ți trupul curat
+Căci zorii vieți-s spre asfințit
+Ușor vor trece în apus.
+
+[v2]
+Iar tinerețea nu uita
+E trecătoare cum e clipa,
+Ascultă dar de Dumnezeu
+Păzește-i sfanta lui povoață
+Aceasta-i datoria ta
+Și a fiecăreia în viață.
+
+[e]
+/: Nu te uita după vânt,
+Nu te uita nici după nor,
+Tu seamănă-n fiece zi
+Cuvantul Domnului Isus,
+Atunci când El se va întoarce
+Pe nor triunfător,
+Cu drag atunci vei secera
+Ce-ai semănat pentru Hristos :/

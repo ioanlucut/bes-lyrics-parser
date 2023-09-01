@@ -1,0 +1,29 @@
+[title]
+Ai fost o floare intre flori {author: {Nicolae Moldoveanu}, {rcId: {5542}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ai fost o floare între flori,
+Parfum suav, ce da.
+Dar cineva te-a smuls frumos,
+Să fii tu floarea sa.
+
+[c]
+/: Ești trandafir sau ești un crin?
+Să dai parfumul cel mai fin!
+În viața ta să fii model,
+Căci, și Hristos, a fost la fel! :/
+
+[v2]
+Ați fost frumoși ca două flori,
+Doi trandafiri gingași;
+De-acum în veci să fiți uniți
+Ca niște îngerași.
+
+[v3]
+Dar totdeauna voi să fiți
+Alături de Isus,
+Căci, sigur, El v-a pregătit
+Un loc în ceruri sus.

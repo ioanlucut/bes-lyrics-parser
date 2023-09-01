@@ -1,0 +1,43 @@
+[title]
+Ce nepatruns esti doamne {author: {Nicu Wagner}, {rcId: {61682}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Ce nepătruns ești, Doamne,
+Ce vrednic de-nălțat.
+Ești ne-nțeles de oameni
+Și totuși ești lăudat.
+
+[c]
+Tu vii din veșnicie,
+Tu ești nemărginit,
+Că nimeni nu Te știe, mister nedeslușit.
+Ești viață din vecie, ești fără de sfârșit.
+Tu vii din veșnicie,
+Tu ești nemărginit.
+
+[v2]
+Privim a Ta lucrare,
+Ne minunăm de ea.
+Prin ea găsim o cale,
+Pe Tine-a te vedea.
+
+[c2]
+Primește-a noastră laudă, cântată-n armonii,
+Îți cântă-a Ta făptură divine melodii.
+Întreaga Ta natură, îți cântă imne vii.
+Primește-a noastră laudă, cântată-n armonii.
+
+[v3]
+Îți proslăvim puterea
+Ce face mari minuni,
+Iar când veni-va vremea
+La Tine să ne-aduni.
+
+[c3]
+/: Te vom cunoaște-atuncea, la Tine-n Patrie.
+Osana! Aleluia! Mărire! Glorie!
+Prin Tine-avem vecia, avem victorie.
+Osana! Aleluia! Mărire! Glorie! :/

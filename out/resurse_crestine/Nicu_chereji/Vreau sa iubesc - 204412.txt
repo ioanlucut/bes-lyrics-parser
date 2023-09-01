@@ -1,0 +1,35 @@
+[title]
+Vreau sa iubesc {author: {Nicu Chereji}, {rcId: {204412}}
+
+[sequence]
+v1,c,v3,c,v4,c,v5,c
+
+[v1]
+Vreau să iubesc cum Isus a iubit
+Cu-o inimă neprihănită-aș vrea
+Și chiar să-îndur adese ori de-ar fi
+Cu dragoste pe toți să-i pot ierta
+
+[c]
+Povățuiește-mă în adevăr
+În adevărul Tău învață-mă
+Isuse stânca mântuirii mele
+Întotdeauna ești nădejdea mea
+
+[v3]
+Vreau tot la fel cum Iosua a spus
+Călăuzit de Duhul Tău Cel Sfânt
+Și eu și casa mea sluji-vom doar
+Lui Dumnezeu aici pe-acest Pământ
+
+[v4]
+Vreau pâinea să mi-o împart cu cel flămând
+Și haina cea mai bună de-aș avea
+S-o dau celui lipsit și necăjit
+Și toți să vadă-n mine viața Ta
+
+[v5]
+Disprețuit adese ori de-aș fi
+Pentru credința care Tu mi-ai dat
+Iubirea Ta Isuse s-o arăt
+Să știe toți că m-ai răscumpărat

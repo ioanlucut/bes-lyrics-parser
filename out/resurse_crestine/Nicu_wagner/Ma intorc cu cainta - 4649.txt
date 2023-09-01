@@ -1,0 +1,41 @@
+[title]
+Ma intorc cu cainta {author: {Nicu Wagner}, {rcId: {4649}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Mă-ntorc cu căință, Părinte-al iubirii,
+Să-Ți cer azi iertare pentru-al meu trecut.
+Tu ți-ai dat viața ca preț al mântuirii
+Când eu rătăceam ca și fiul pierdut.
+
+[c]
+/: Departe de casă în bezna pierzării,
+În poftele rele adânc cufundat,
+Setos de plăcere, eu am dat uitării
+Palatul iubirii din care-am plecat. :/
+
+[v2]
+Am ajuns în tină, călcat în picioare,
+În țara robiei cumplit umilit.
+N-am fost pentru nimeni, Isuse, valoare
+Am fost pe vecie pierzării sortit.
+
+[c2]
+/: Viața ce-n dar Tu, Isuse, mi-ai dat-o
+Curată, sclipind ca un vas prețios,
+Am zdrobit-o-n cioburi și-apoi fără milă
+Eu am risipit-o-n praful de jos. :/
+
+[v3]
+Dar Tu coborât-ai aici jos în tină,
+În praful acela-n genunchi te-ai plecat
+Și ciob lângă ciob cu iubire divină,
+Ai pus laolaltă acel vas sfărmat.
+
+[c3]
+/: De-aceea Isuse, viața-mi întreagă
+În mâinile Tale deplin Ți-o predau
+Și orice mi-ai cere, ajută-mi, o, Doamne
+Cu inima largă să pot ca să-ți dau. :/

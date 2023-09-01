@@ -1,0 +1,35 @@
+[title]
+Laudati copii pe domnul {author: {Nicolae Moldoveanu}, {rcId: {6941}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Lăudați copii pe Domnul,
+- Lăudăm, lăudăm!
+Și cântați al Lui sfânt Nume.
+- Îl cântăm, Îl cântăm!
+
+[c]
+Câmp cu flori și cer cu stele,
+Fluturași mii și mii,
+Păsări, roade, toate cele,
+Le-a făcut El, copii!
+
+[v2]
+Lăudați copii pe Domnul,
+- Lăudăm, lăudăm,
+Lui să-I dați inima voastră,
+- Lui I-o dăm, Lui I-o dăm.
+
+[v3]
+Lăudați copii pe Domnul,
+- Lăudăm, lăudăm!
+Și-nvățați din Cartea Sfântă.
+- Învățăm, învățăm!
+
+[v4]
+Lăudați copii pe Domnul,
+- Lăudăm, lăudăm!
+Și-ascultați ce El vă cere.
+- Ascultăm, ascultăm!

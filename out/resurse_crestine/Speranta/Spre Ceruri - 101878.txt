@@ -1,0 +1,29 @@
+[title]
+Spre ceruri {author: {Speranța}, {rcId: {101878}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Spre ceruri, spre ceruri privesc prin credință
+La Isus, la Isus mă-ntorc cu pocăință
+
+[c]
+/: Căci viața fără Dumnezeu înseamnă moarte
+Dar fericiți sunt cei ce-s sfinți, de viață ei au parte :/
+
+[v2]
+Căci harul, căci harul mai e puțină vreme
+Și Domnul, El va veni pe-ai Lui să-i cheme
+
+[c2]
+/: Să-i fericească-n Cerul Său, o veșnicie
+Pe cei ce-n viață-au cunoscut, trăirea-n sfințenie :/
+
+[v3]
+Noi nu știm un alt stăpân în lumea-ntreagă
+Să scape, să scape de ea, pe cei ce-L cheamă
+
+[c3]
+/: Dar Dumnezeu prin Fiul Său, Isus Hristos
+Salvează lumea din păcat și iadu-ntunecos :/

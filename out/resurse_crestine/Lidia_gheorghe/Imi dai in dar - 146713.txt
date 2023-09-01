@@ -1,0 +1,42 @@
+[title]
+Imi dai in dar {author: {Lidia Gheorghe}, {rcId: {146713}}
+
+[sequence]
+v1,v3,v4,v5
+
+[v1]
+Îmi dai în dar
+Iubirea Ta,
+Ca să iubesc
+Și eu așa.
+Îmi dai în dar
+Iubirea Ta,
+S-o-mpărtășesc
+Și altora.
+
+[v3]
+Îmi dai în dar
+Inima Ta,
+Să simt și
+Bunătatea Ta.
+Îmi dai în dar
+Inima Ta,
+Și eu ți-o dărui
+Pe a mea.
+
+[v4]
+Îți dau în dar
+Dragostea mea.
+Îți dau în dar
+Iubirea mea.
+Îți dau în dar
+Inima mea.
+Și tic-tac, tic-tac
+O inimă va bătea.
+
+[v5]
+Tica-tac, tica-tac,
+O inimă va bătea.
+Un singur gând,
+Un simțământ,
+Același îl vom avea.

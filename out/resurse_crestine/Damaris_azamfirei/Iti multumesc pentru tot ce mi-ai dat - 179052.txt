@@ -1,0 +1,57 @@
+[title]
+Iti multumesc pentru tot ce mi-ai dat {author: {Damaris Azamfirei}, {rcId: {179052}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,v4,c
+
+[c]
+/: Îți mulțumesc :/ x4
+/: Îți mulțumesc pentru tot ce mi-ai dat,
+Îți mulțumesc pentru tot ce mi-ai luat,
+Îți mulțumesc pentru ce mi-ai lăsat,
+Îți mulțumesc! :/
+/: Îți mulțumesc pentru tot ce mi-ai dat
+Îți mulțumesc pentru tot ce mi-ai luat
+Îți mulțumesc pentru ce mi-ai lăsat
+Îți mulțumesc! :/ x3
+Îți mulțumesc!
+
+[v1]
+Îți mulțumesc o, Domnul meu!
+Căci Tu mă iubești,
+Deși zi de zi mereu
+Eu Îți tot greșesc.
+Îți mulțumesc o, Domnul meu!
+Pentru frați pentru surori.
+Îți mulțumesc o, Domnul meu!
+Pentru harul ce-L reverși...
+
+[v2]
+Îți mulțumesc o, Domnul meu!
+Pentru cerul fără nori.
+Îți mulțumesc o, Domnul meu!
+Pentru hrana din belșug.
+Îți mulțumesc o, Domnul meu
+Pentru seceta.
+Îți mulțumesc o, Domnul meu!
+Pentru pământul fără rod...
+
+[v3]
+Îți mulțumesc o, Domnul meu!
+Căci Tu m-ai vindecat.
+Îți mulțumesc o, Domnul meu!
+Căci biruință Tu mi-ai dat.
+Îți mulțumesc o, Domnul meu!
+Căci Tu ne-ai eliberat.
+Îți mulțumesc o, Domnul meu!
+Căci biruință Tu ne-ai dat...
+
+[v4]
+Îți mulțumesc o, Domnul meu!
+Pentru jertfa din Calvar.
+Îți mulțumesc o, Domnul meu!
+Că-I șters tot trecutul meu.
+Îți mulțumesc o, Domnul meu!
+Toată viața mea,
+Și Te voi sluji mereu
+Căci m-ai binecuvântat...

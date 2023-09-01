@@ -1,0 +1,29 @@
+[title]
+Se duce viata {author: {Speranța}, {rcId: {111384}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Te-ai gândit vreodată la viață cât de iute trece
+Fără să-ți dai seama ea s-a dus,
+Dar tu poți avea înc-o speranța,
+Viața de apoi, speranța veșniciei e Isus.
+
+[c]
+Se duce viața, se duc și anii,
+Ne-apropiem mereu de veșnicii,
+Se duce viața, se duc și anii,
+Gândește-te, atunci unde vei fi.
+
+[v2]
+Ceasornicul vieții încă bate
+Clipele se scurg și ritmul vieții se va termina,
+Gongul de sfârșit curând va bate
+În fața Celui Sfânt, la judecată de apoi vom sta.
+
+[v3]
+Să înțelegi aici pe-acest pământ
+Viața trece iute și zboară că un fulg purtat de vânt
+Cât mai trăiești te poți pregăti să-ntâmpini pe Isus
+Când pe nori de slavă va veni.

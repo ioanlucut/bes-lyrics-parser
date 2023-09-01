@@ -1,0 +1,29 @@
+[title]
+Exista o tara mai sus decat nori {author: {Anonim}, {rcId: {6635}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Există o țară mai sus decât nori
+Un loc minunat și frumos.
+Acolo e Domnul și-a lui slujitori
+Acolo-i al nostru Hristos.
+
+[c]
+Acolo e țara eternă,
+Un loc minunat și frumos.
+Acolo-I Iubirea divină
+Acolo domnește Hristos.
+
+[v2]
+Există un loc cu mărețe splendori
+O lume măreață divină.
+Acolo se află tainice comori,
+Acolo-i a noastră lumină.
+
+[v3]
+Există o țară la Cel preînalt
+Cu Palate din stânci de granit!
+Acolo vom fi cu al nostru-mpărat
+Căci El pentru noi a murit.

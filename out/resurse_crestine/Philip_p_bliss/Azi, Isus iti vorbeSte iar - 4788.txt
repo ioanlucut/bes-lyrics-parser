@@ -1,0 +1,34 @@
+[title]
+Azi isus iti vorbeste iar {author: {Philip P. Bliss}, {rcId: {4788}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Azi, Isus îți vorbește iar,
+Ce minunat Cuvânt!
+Și-ți vestește un mare dar,
+Ce minunat Cuvânt!
+Harul Său iartă toate ale Tale păcate;
+/: Sfânt cuvânt, cât de scump!
+Ce minunat Cuvânt! :/
+
+[v2]
+El, chemarea și-a înnoit,
+Ce minunat Cuvânt!
+Vino, fiule rătăcit,
+Ce minunat Cuvânt!
+Glasul Lui azi te cheamă,
+Vrei să-L iei tu în seamă?
+/: Sfântul Cuvânt, cât de scump!
+Ce minunat Cuvânt! :/
+
+[v3]
+Pentru toți e chemarea Lui,
+Ce minunat Cuvânt!
+Glasul blând al Păstorului,
+Ce minunat Cuvânt!
+Sufletu-mi astăzi vine,
+O, Isuse, la Tine!
+/: Sfântul cuvânt, cât de scump!
+Ce minunat Cuvânt! :/

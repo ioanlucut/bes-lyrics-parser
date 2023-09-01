@@ -1,0 +1,47 @@
+[title]
+Ridica-ti privirea {author: {Lidia Gheorghe}, {rcId: {112360}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Ridică-ți privirea
+Căci vine Isus
+Și-ți dă izbăvirea
+Așa cum a spus.
+
+[v2]
+Ridică-ți privirea!
+Fii mai bucuros!
+Zâmbește, căci vine
+Mirele Hristos.
+
+[c]
+Fii binecuvântat
+Și nu descuraja
+Fii binecuvântat
+Caci vine să te ia
+
+[v3]
+Te duce în slavă,
+Te vei odihni,
+Îți va da răsplată
+Căci te-ai ostenit.
+
+[v4]
+O pace sublimă
+Îți va inunda
+Privirea și glasul,
+Când vezi fața Sa.
+
+[v5]
+Ridică-ți privirea
+Căci vine Isus
+Și tot ce e astăzi
+Va fi doar apus.
+
+[v6]
+Domnul va rămâne
+Până la sfârșit;
+El va fi cu tine,
+Te va sprijini.

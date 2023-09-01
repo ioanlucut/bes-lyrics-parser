@@ -1,0 +1,41 @@
+[title]
+Sus pe cer o stea {author: {Ionel Saran}, {rcId: {128239}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Sus pe cer, o stea
+Mare se arată
+Peste-o iesle rece
+Frumos strălucește
+Ce de veacuri se vesti
+Căci Mesia va veni
+Și coboară din Slava-i măreață
+Prin Duhul Sfânt în trup să se nască
+În Betleemul de jos
+S-a născut al nostru Hristos.
+
+[v2]
+Păstorii cântau
+Și se minunau
+De steaua cea mare
+Ce pe cer apare
+Și cu toții s-au pornit
+Unde steaua s-a oprit
+Peste un grajd la margine-n sat
+Așa cum i-a fost lui Isus dat
+În Betleemul de jos
+S-a născut al nostru Hristos.
+
+[v3]
+Îngerii cântau
+Și se bucurau
+Și deasupra stau
+Cu drag ei vegheau
+Și-L slăveau cu toți în cor
+Pe-al lumii Mântuitor
+Iar magii sfioși se mai închină
+La Isus cu daruri ei veniră
+În Betleemul de jos
+S-a născut al nostru Hristos.

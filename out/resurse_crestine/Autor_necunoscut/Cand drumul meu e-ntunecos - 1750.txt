@@ -1,0 +1,29 @@
+[title]
+Cand drumul meu e-ntunecos {author: {Anonim}, {rcId: {1750}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Cand drumul meu e-ntunecos,
+Lumina mea-i Isus Hristos;
+Cu el strabat calea voios;
+Ce bun e El!
+
+[v2]
+Cand e furtuna-n jurul meu
+Si ceru-ntreg e un nor greu,
+Isus e pazitorul meu;
+Ce bun e El!
+
+[v3]
+Cand sufla rece-al mortii vant
+Si pier comori de pe pamant,
+Isus ramane orisicand;
+Ce bun e El!
+
+[v4]
+Si ieri, si azi si-n viitor
+E-acelasi bun ocrotitor,
+Mereu imi vine-n ajutor;
+Ce bun e El!

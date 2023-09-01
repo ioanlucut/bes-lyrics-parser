@@ -1,0 +1,29 @@
+[title]
+Isus lumina lumii (jesus the light of the world) {author: {Charles Wesley, George D. Elderkin, Traducere RO}, {rcId: {220968}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cântă corul îngeresc
+Isus, Lumina lumii!
+Slavă Fiului ceresc
+Isus, Lumina lumii!
+
+[c]
+Da, noi vom umbla-n lumina Sa
+Vino și tu să te bucuri în ea!
+Ea strălucește în noapte și-n zi
+Isus, Lumina lumii!
+
+[v2]
+Bucuria pe pământ
+Isus, Lumina lumii!
+A venit din cerul sfânt
+Isus, Lumina lumii!
+
+[v3]
+Prinț al păcii, Minunat
+Isus, Lumina lumii!
+Domn al slavei, Împărat
+Isus, Lumina lumii!

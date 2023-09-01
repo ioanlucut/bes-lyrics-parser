@@ -1,0 +1,24 @@
+[title]
+Praise the lord {author: {Text și muzică: Adrian Toader}, {rcId: {199274}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+Praise the Lord,
+Praise the Lord,
+Praise, praise the Lord.
+
+[v1]
+Doamne, noi Te rugăm cu noi să fii astăzi.
+Ție vrem să-Ți cântăm, laudă să-Ți dăm.
+Prin ceea ce cântăm, noi Te adorăm.
+Slavă și cinste-Ți dăm, Ție ne-nchinăm,
+Slavă și cinste-Ți dăm, praise the Lord.
+
+[v2]
+Doamne, noi Te rugăm cu noi să fii astăzi.
+Ție vrem să-Ți cântăm, laudă să-Ți dăm.
+Prin ceea ce cântăm, noi Te adorăm.
+Slavă și cinste-Ți dăm, Ție ne-nchinăm,
+Slavă și cinste-Ți dăm, praise the Lord.

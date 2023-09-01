@@ -1,0 +1,22 @@
+[title]
+Cand treci prin incercare {author: {Viorel Manolache}, {rcId: {227488}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Când treci prin încercare și totul ți se pare că se duce,
+nu mai ai putere să te rogi.
+/: Încrede-te atuncea în Cel ce totul poate
+și ti-a promis că e al tău Păstor! :/
+
+[c]
+/: El, nu te va lăsa! :/
+O, nu te teme!
+El nu te va lăsa!
+
+[v2]
+Adu-i astăzi ca jertfă ofranda mulțumirii!
+Închină-te cum ești în fața Sa!
+/: Și El va lua povara ce nu o poți purta
+și izbăvire Domnul îți va da. :/

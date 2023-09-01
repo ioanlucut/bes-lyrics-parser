@@ -1,0 +1,31 @@
+[title]
+Trei funii azi {author: {Kevin Kocsis}, {rcId: {222199}}
+
+[sequence]
+v1,v2,c,v3,b,c
+
+[v1]
+Trei funii azi, se împletesc
+Croindu-și drum, spre un țel ceresc
+Dragostea e tința, ce ne duce în cer
+Dragostea este Dumnezeu
+
+[v2]
+Uneori în viață va fii greu, dar înainte este Dumnezeu.
+Nu priviti în urma, nu uitați
+El ascultă ruga, când îngenunchiați
+
+[c]
+Voi de mână vă luați, doar în trei să înaintați
+Inimile încheghate și privirile îndreptate, spre Dumnezeu.
+Voi de mână vă luați, doar în trei să înaintați
+Inimile încheghate și privirile îndreptate, spre Dumnezeu, spre Dumnezeu.
+
+[v3]
+Trei funii azi, se împletesc
+Croindu-și drum, spre un țel ceresc
+Dragostea e tința, care ne duce în cer
+Dragostea este Dumnezeu
+
+[b]
+O ce iubire ai lăsat, un exeplu de urmat

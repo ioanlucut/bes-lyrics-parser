@@ -1,0 +1,35 @@
+[title]
+Orice glas purtat de vanturi {author: {Avalon}, {rcId: {145967}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Orice glas purtat de vânturi
+Curcubeu plin de culori
+Fiecare gând se înalță
+Să caute al dragostei izvor
+Orice vorba și întâmplare
+Orice stea din infinit
+Tot ce-a fost creeat în cosmos
+Va mărturisi
+
+[c]
+/: Câtă vreme voi trăi
+Voi vesti iubirea Ta
+Voi fi un martor în tăcere
+Când cuvintele dispar
+De câte ori voi respira
+Doamne îți voi mulțumi
+Câtă vreme voi trăi
+Voi vesti iubirea Ta :/ x2
+
+[v2]
+De pe munți în orice vale
+De la râuri la ocean
+Fiecare mâna întinsă
+Intainsa să-ți ofere pacea sa
+Orice simplu act de milă
+Spre împărăția Sa
+Tot ce inimile speră
+Vestește dragostea

@@ -1,0 +1,34 @@
+[title]
+One way / isus calea {author: {Hillsong United, Traducere RO}, {rcId: {66571}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Viața mea-ți închin acum
+Isus ești singurul meu Domn
+Te chem pe Tine orice ar veni
+
+[v2]
+Când prin necazuri mi-e drumul
+Doar după Tine vreau să merg
+Smerit m-aplec Te chem să mă conduci
+
+[c]
+Isus, esti Calea
+Numai pentru Tine vreau să trăiesc
+
+[v3]
+Tu mereu ești cu mine
+Orișiunde orișicând
+Tu mi-ai promis că nu mă vei lăsa
+
+[v4]
+Tu niciodată nu te schimbi
+Ieri azi și mâine ești la fel
+Același Dumnezeu măreț ești Tu
+
+[v5]
+Calea adevărul, viața Tu ești
+Orice-ntuneric biruiești
+Isus, Cuvântul Tău a spus

@@ -1,0 +1,39 @@
+[title]
+In lucrarea ta o doamne {author: {Anonim}, {rcId: {185808}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+În lucrarea Ta o Doamne
+Sunt pe-acest pamant
+Alergarea mi-oi sfarsi-o
+Sus în cerul sfant
+
+[c]
+Dar acum te-ntreb o Doamne
+Fost-a îndeajuns
+Cat facut-am pentru Tine
+Pe-acest pamant
+/: Cerceteaza-ma o Doamne
+Vezi-mi inima
+De nu sunt pe calea vietii
+Pune-ma pe ea :/
+
+[v2]
+În lucrarea Ta în lume
+Doamne Tu m-ai pus
+Jertfa mea de multumire
+Asa cum ne-ai spus
+
+[v3]
+Ma întorc cu multumire
+Din sufletul meu
+Caci m-ai sprijinit pe cale
+Cand mi-a fost mai greu
+
+[v4]
+Pentru toate îti dau slava
+Mielule preasfant
+Viata mea e daruita
+Pe-altarul sfant

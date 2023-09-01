@@ -1,0 +1,36 @@
+[title]
+Jos la bethesda {author: {Daniel Cojocărescu}, {rcId: {212431}}
+
+[sequence]
+v1,e,v2,v3,v4
+
+[v1]
+Jos la Bethesda-n scăldătoare
+Din vocea blândă a lui Hristos
+Se-aude aceași întrebare:
+„
+Nu vrei să fii azi sănătos?”
+
+[e]
+Bethesda, Bethesda loc de îndurare
+Aici găsesc sărmanii de viacuri ajutor
+Aici găsesc bolnavii izvor de vindecare
+Și cei ce n-au pe nimeni găsesc un Salvator
+
+[v2]
+Aici e locul de-nchinare
+E casa Tatălui ceresc
+Aici e templul sfânt în care
+Copiii Lui se întâlnesc
+
+[v3]
+Impiniși de-acelasi dor fierbinte
+Din cel viteaz și cel înfrânt
+Împodobiți cu laude sfinte
+Prezența Duhului cel Sfânt
+
+[v4]
+Doar ape tulburi dau valoare
+Acestui loc neprețuit
+Da mulți găsesc aici salvare
+Și pe Isus l-au întâlnit

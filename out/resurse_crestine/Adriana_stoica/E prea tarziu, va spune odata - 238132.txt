@@ -1,0 +1,41 @@
+[title]
+E prea tarziu va spune odata {author: {Adriana Stoica}, {rcId: {238132}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c2
+
+[v1]
+E prea târziu, va spune odată
+Acel ce crucea ti-a purtat
+N-ai vrut sa vii la pocăință
+De Dumnezeu n-ai ascultat
+
+[c]
+/: E prea târziu, e prea târziu
+Un glas din cer va răsuna
+E prea târziu, e prea târziu
+N-ai ascultat chemarea Mea :/
+
+[v2]
+E prea târziu, Îți va spune atuncea
+Când pe pământ nu vei mai fi
+Când vei sta-n fata Celui veșnic
+Când pe Isus îl vei privi
+
+[v3]
+E prea târziu, iubit prieten
+Când toate aici se vor sfârși
+Vei vrea sa mai auzi odată
+Glasul ce te-a chemat sa vii
+
+[v4]
+Este târziu, încă poți spune
+De acuma Doamne vreau si eu
+Sa intru-n rândul celor care
+Au ascultat de Dumnezeu
+
+[c2]
+/: Azi nu-i târziu, azi nu-i târziu
+Harul încă nu s-a luat
+Azi nu-i târziu, azi nu-i târziu
+Încă mai poți sa fii salvat :/

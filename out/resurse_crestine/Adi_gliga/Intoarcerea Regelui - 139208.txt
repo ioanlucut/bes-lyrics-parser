@@ -1,0 +1,48 @@
+[title]
+Intoarcerea regelui {author: {Adi Gliga}, {rcId: {139208}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Dormi prea adânc și nu știi
+Totul se va schimba
+Semne în cer se văd
+Și noaptea e tot mai grea
+
+[c]
+Sigur știi bine
+Că Isus revine
+Dar noaptea te ține
+Și nu, nu vei mai putea
+Să te ridici
+Sigur știi bine
+Că Isus revine
+Dar noaptea te ține
+Și nu, nu vei mai putea
+Să te ridici
+Când El
+Cel ce-i sfânt va reveni
+Noaptea nu va birui
+Eu voi pleca
+Sigur știi bine
+Că Isus revine
+Dar noaptea te ține
+Și nu, nu vei mai putea
+Să te ridici
+Când El
+Cel ce-i sfânt va reveni
+Noaptea nu va birui
+Eu voi pleca
+
+[v2]
+Nu mai e mult și nu știi
+Nici somnul cât va dura
+De te-ai trezi
+Întunericul n-ar mai sta
+
+[v3]
+Ai ațipit
+Semn că lumea e pe sfârșit
+Nu, nu mai crezi
+Și știi că dragostea s-a răcit

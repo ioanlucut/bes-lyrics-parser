@@ -1,0 +1,29 @@
+[title]
+Iubirea ta ma-nalta {author: {Anonim}, {rcId: {113265}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Iubirea Ta mă-nalță
+Fața-mi luminează
+Iubirea Ta e stanca
+Pe care locuiesc
+Când nu mai am putere
+Tu-mi ești mângâiere
+Iubirea Ta mă-nalță
+Nu are sfârșit.
+
+[c]
+Aleluia, aleluia, aleluia
+Ție vreau să-Ți cânt!
+
+[v2]
+Iubirea-Ți mă uimește
+Tot mereu mă crește
+Sunt plin de bucurie
+Când tu trăiești în min’
+Zilnic mă cuprinde
+Bunătatea-Ți mare
+Iubirea Ta mă-nalță
+Nu are sfârșit.

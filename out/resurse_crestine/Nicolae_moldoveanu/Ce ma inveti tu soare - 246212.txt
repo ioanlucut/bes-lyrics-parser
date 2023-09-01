@@ -1,0 +1,28 @@
+[title]
+Ce ma inveti tu soare {author: {Nicolae Moldoveanu}, {rcId: {246212}}
+
+[sequence]
+v1,c,c2
+
+[v1]
+Ce mă înveți tu, soare când încălzești la fel,
+Pe cei ce cred în Domnul, sau nici nu cred în El?
+Ce mă înveți tu, ploaie vărsându-ți stropii tăi,
+Cu binecuvântarea Ia fel, spre buni și răi?
+Ce mă înveți, ce mă înveți?
+
+[c]
+Ce mă înveți tu floare înmiresmând tăcut,
+La fel și-n locul veșted, ca-n locul cel plăcut?
+Ce mă înveți tu pâine când dai același saț
+Și celor fără vină și celor vinovați?
+Ce mă înveți, ce mă înveți?
+
+[c2]
+Ce mă înveți tu umbră, când dai răcoarea ta
+Și cui se-nvrednicește și cui n-ar merita?
+Ce mă înveți, fântână, când dai al apei har
+Și nu-ntrebi că-nsetatul e frate sau tâlhar?
+Ce mă-nvățați voi, toate, ce vreți să-mi spuneți voi?
+”
+De vrei să intri-n viață, să faci și tu ca noi!”

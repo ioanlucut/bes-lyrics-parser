@@ -1,0 +1,41 @@
+[title]
+Tu esti ca un trandafir {author: {Narcisa Popa}, {rcId: {1503}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Tu ești ca un Trandafir...
+Trandafirul din grădina
+Tu care-ai plâns în Ghetsimani
+Purtând păcatul și a mea vină...
+Sufletul mi-ai copleșit
+Cu dragostea-Ți namarginita,
+Atât de mult tu ne-ai iubit
+Că Ți-a fost inima zdrobită.
+
+[c]
+Te-am lovit așa de tare,
+Încât rana-Ți sângera
+Dar îndelunga ta răbdare,
+A purtat povara mea
+
+[v2]
+Și parcă, vin soldați cu flăcări,
+Luminile se văd departe...
+Dar Tu, singur plângi în taină,
+Știindu-Ți clipa cea de moarte.
+Și se-apropie încet
+Iuda care Te-a vândut
+dar Tu știi c-așa a fost
+Plănuit de la-nceput.
+
+[v3]
+Tu n-ai îndepărtat paharul
+Ce-a fost sortit vieții Tale,
+Tu Te-ai supus chiar încercării
+Și lucrării de iertare
+Și-acum știu că în jertfirea-Ți
+ce pe cruce-Ai suferit
+Ai câștigat biruința
+Și un nume proslăvit

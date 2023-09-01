@@ -1,0 +1,29 @@
+[title]
+De aceea eu ii cint {author: {Gabriel Gorcea}, {rcId: {55744}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cînd în viata am primit
+Pe Isus ca Domn si Împarat
+De atunci sunt fericit
+Cînt voios viata El mi-a schimbat
+
+[c]
+/: Sunt atît de bucuros, fiind-că laud pe Cristos
+El îmi poarta pasii mei zi de zi,
+Tot cu El vreau sa rămîn
+Sa calatoresc pe drum, Pîna voi ajunge sus în vesnicii :/
+
+[v2]
+Fericirea ce o am
+Nu-e în lucrurile de pa acest pamînt
+De cînd viata am primit
+Pe Cristos, pe Isus El Duhul Sfînt
+
+[v3]
+Nu e pace pe pamînt
+Ca-n prezenta Domnului
+De aceea eu îi cînt
+Îl slavesc neîncetat, sunt bucuros

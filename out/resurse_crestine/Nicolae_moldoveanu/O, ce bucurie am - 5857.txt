@@ -1,0 +1,35 @@
+[title]
+O ce bucurie am {author: {Nicolae Moldoveanu}, {rcId: {5857}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+O, ce bucurie am
+Ca pacatul mi-e spalat!
+Cand intruna insetam,
+Apa vie am aflat.
+
+[c]
+/: Am aflat apa vie!
+O, cat sunt de fericit!
+Astazi cant, cu tarie
+Ca Isus m-a mantuit. :/
+
+[v2]
+Prin Hristos crucificat,
+Merg pe calea Domnului.
+Haru-I sfant, doar El mi-a dat.
+Slava-I cant azi. Slava Lui!
+
+[v3]
+Stau pe bratul lui Isus,
+Pan-necazurile trec;
+Eu, prin harul Lui de sus,
+Doar cu El am sa petrec.
+
+[v4]
+Bucuros sunt azi, aici,
+Ca ajuns-am mantuit,
+Si in cer ai sa ma faci
+Tu, Isuse, fericit.

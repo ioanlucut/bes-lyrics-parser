@@ -1,0 +1,28 @@
+[title]
+Simone din cirene {author: {Anonim}, {rcId: {212685}}
+
+[sequence]
+v1,v2,e
+
+[v1]
+Glasuri mii în cetate aud
+Drumul larg de ostași e păzit
+Văd un om sub o cruce căzut
+Ca s-o ducă din greu e silit.
+Mă întreb de ce pașii m-au condus pe-acest drum,
+Pentru ce să duc crucea grea acum?
+Știu că omul ce-L văd este sfânt nevinovat
+De ce oare a fost condamnat?
+
+[v2]
+Crucea Lui spre Golgot-am purtat
+Lângă el drumul am străbătut
+De Hristos și-al său Har am aflat
+Am știut cât de mult L-a durut.
+O, iubire divină ce n-are hotar
+De Isus tot mai mult m-a legat
+Dăruindu-mi iertare în ceas de Calvar
+Jertfa Lui petru veci m-a salvat!
+
+[e]
+Din Iubire Isus m-a salvat!

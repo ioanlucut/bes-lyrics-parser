@@ -1,0 +1,41 @@
+[title]
+Primul pas {author: {Nicolae Moldoveanu}, {rcId: {246188}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Dac-am făcut un act necugetat,
+Dac-am greșit amar și nu odat’,
+De-am împlinit un rău de neiertat,
+O, Doamne, Doamne, știu, către păcat
+/: Al meu fu primul pas :/
+Către păcat, către păcat,
+Al meu fu primul pas.
+
+[v2]
+Dacă m-ademenit ispita grea,
+Dacă orbit am ascultat de ea,
+Dac-am uitat de adevăr așa,
+O, Doamne, Doamne, știu, pe calea rea
+/: Al meu fu primul pas. :/
+Pe calea rea, pe calea rea,
+Al meu fu primul pas.
+
+[v3]
+Dacă privind la Drumul Tău cel sfânt,
+Dac-am văzut cât de departe sunt,
+Dacă spre el nu pot să mă avânt,
+O, Doamne, știu c-afară din Cuvânt
+/: Al meu fu primul pas. :/
+Înspre pământ, înspre pământ
+Al meu fu primul pas.
+
+[v4]
+Dar dacă astăzi sunt pe Cale iar,
+Dac-am primit din nou belșug de har,
+Dac-am uitat durere și amar,
+O, Doamne, Doamne, știu: spre-acest hotar
+/: Al Tău fu primul pas. :/
+Spre sfântul har, spre sfântul har,
+Al Tău fu primul pas.

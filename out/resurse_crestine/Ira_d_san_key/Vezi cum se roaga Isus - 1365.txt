@@ -1,0 +1,35 @@
+[title]
+Vezi cum se roaga isus {author: {Ira D. San, key}, {rcId: {1365}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Vezi, cum se roagă Isus pentru mine,
+El mult mă iubește, deși-s păcătos.
+Și ruga I-ascultă cerescul Părinte.
+O, vino, dar și-I te închină voios!
+
+[c]
+/: Mă rog pentru tine! :/
+Mă rog pentru tine!
+Mă rog ne-ncetat!
+
+[v2]
+Domnul, Părintele meu, nu mă lasă,
+Cuvântu-ndurării Lui stă neclintit:
+”
+Curând voi intra în cetatea cerească.
+O, vino cu Mine și fii fericit!”
+
+[v3]
+Pacea Lui sfântă îmi dă bucurie,
+De ea altădată nimic nu știam,
+Isus, acest dar minunat îmi dă mie
+El și ție-ți dă pacea Lui ca balsam.
+
+[v4]
+Ești mântuit, deci Îl laudă pe Domnul,
+Și spune că El este-al tău Salvator!
+Te roagă fierbinte oricând și-n tot locul,
+El sigur aude-al tău glas rugător!

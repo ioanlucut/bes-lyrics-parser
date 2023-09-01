@@ -1,0 +1,18 @@
+[title]
+Langa tine vreau {author: {Adi Gliga}, {rcId: {113049}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Lângă Tine vreau, Doamne ca să stau
+Iubirea Ta, Isus, în suflet m-a pătruns.
+
+[c]
+Și-alerg, alerg, înspre Locul Sfânt
+Te port în gând și mereu Îți cânt
+Iubirea Ta, Isus, în suflet m-a pătruns.
+
+[v2]
+Oricât de greu ar fi, nu mă vei părăsi
+Cu mine ești mereu, sfințești sufletul meu.

@@ -1,0 +1,17 @@
+[title]
+Slava invierii tale {author: {Nicolae Moldoveanu}, {rcId: {244136}}
+
+[sequence]
+v1,c
+
+[v1]
+Slavă Învierii Tale, Dumnezeu Isus Hristos,
+Slavă învierii Tale, cânte tot ce-i Sus și jos,
+Slavă învierii Tale, cânte sufletul creștin,
+Slavă Învierii Tale până-n veci și veci, amin!
+
+[c]
+/: Slavă, Slavă
+Slavă Învierii Tale până-n veci și veci,
+Slavă, slavă,
+Slavă Învierii Tale până-n veci și veci, amin. :/

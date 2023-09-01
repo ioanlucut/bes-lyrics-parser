@@ -1,0 +1,17 @@
+[title]
+Te voi lauda isus {author: {Anonim}, {rcId: {1781}}
+
+[sequence]
+c,v1,c
+
+[c]
+/: Te voi lăuda
+Isus, Domnul meu,
+Îți voi cânta
+Un cântec nou! :/
+
+[v1]
+Voi cânta Mila Domnului,
+Voi umbla în căile Lui,
+Voi mări Numele Sfânt,
+Cât voi fi pe-acest pământ!

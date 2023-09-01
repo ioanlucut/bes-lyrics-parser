@@ -1,0 +1,29 @@
+[title]
+Eu sunt zdrobit {author: {Traian Dorz}, {rcId: {60809}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Eu sunt zdrobit de tot, Isus, durerea-mi este grea,
+dar nu uit, Doamne, ce mi-ai spus: - Privește-Mi Fața Mea.
+
+[v2]
+Cred, Doamne, că de vrei, tot greul poți să-mi iei,
+dar chiar de nu mi-l vei lua tot cred iubirea Ta.
+
+[v3]
+Eu sunt acuma-ndurerat și sufletul mi-e frânt,
+dar, Doamne, chiar așa-ntristat privesc spre haru-Ți sfânt.
+
+[v4]
+Eu sunt prea greu lovit acum și plânsul mi-e amar,
+dar chiar și pe-acest aspru drum, eu tot mai cer un har.
+
+[v5]
+Nu mă lăsa, oricât de greu ar fi să fiu lovit,
+să-mi pierd nădejdea, Domnul meu, în brațul Tău slăvit.
+
+[v6]
+Ci vino Tu-n durerea mea și-ajută-mi s-o răzbesc,
+ca, orișicât mi-ar fi de grea, să nu mă prăbușesc.

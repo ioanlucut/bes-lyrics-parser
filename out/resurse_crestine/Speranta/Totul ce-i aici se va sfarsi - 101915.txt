@@ -1,0 +1,29 @@
+[title]
+Totul ce-i aici se va sfarsi {author: {Speranța}, {rcId: {101915}}
+
+[sequence]
+v1,c,c,v2,c
+
+[v1]
+Totul ce-i aici se va sfârși
+Când din ceruri Isus va veni!
+/: Oameni de-orice neam Îl vor privi
+Cum pe nori Stăpânul va veni! :/
+
+[c]
+/: Cu slavă, cu mărire,
+Cu putere Isus va veni!
+În lumină, în dreptate,
+În glorie pe nori va străluci. :/
+
+[b]
+/: Veniți să ne-nchinăm, veniți să-L lăudăm,
+Veniți să-L proslăvim pe Cel ce-I sfânt! :/
+/: Osana! Aleluia! cu putere Isus va veni!
+Osana! Aleluia! în Glorie pe nori va străluci! :/
+
+[v2]
+Dacă tot de-aici se va sfârșit
+Cum aștepți tu, frate, aceea zi ?
+/: Astăzi dacă crezi, tu poți să fii
+Veșnic cu Isus în veșnicii! :/

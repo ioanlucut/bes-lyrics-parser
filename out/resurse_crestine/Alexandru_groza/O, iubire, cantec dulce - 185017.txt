@@ -1,0 +1,23 @@
+[title]
+O iubire cantec dulce {author: {Alexandru Groza}, {rcId: {185017}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+O, iubire, cântec dulce, ce răsari peste vecii
+Pace-n suflete tu semeni și nespuse, și nespuse bucurii
+Toate trec pe lumea asta, numai singur Tu rămâi
+Tu-mi ești cântecul meu dulce, de la Domnul plin de dragostea dintâi.
+
+[c]
+/: Mă încred în Tine, Doamne, scump Mântuitorul meu
+Și sunt plin de bucurie, c-ai salvat sulfetul meu;
+Tu mi-ai dat cântări pe buze, dragostea Ta-Ți cânt mereu
+Tu ești prețul mântuirii, veșnic sufletului meu! :/
+
+[v2]
+Niciun cântec nu-i mai dulce ca iubirea Domnului
+Bunătatea Lui te-ndeamnă să-i dai slavă, să-i dai slavă Mielului
+Toți acei ce nu au pace, poate găsi în Hristos
+El este izvorul vieții, pentru tine, pentru orice păcătos.

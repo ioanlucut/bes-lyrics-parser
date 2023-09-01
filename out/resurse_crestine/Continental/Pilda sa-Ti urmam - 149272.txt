@@ -1,0 +1,32 @@
+[title]
+Pilda sa-ti urmam {author: {Continental}, {rcId: {149272}}
+
+[sequence]
+v1,c,v2,c,e,c
+
+[v1]
+Domn al iubirii, Salvator
+Celor slabi Tu le-ai fost ajutor,
+Ai venit că să slujești.
+Isus, Tu ne chemi azi
+Pilda să-Ți urmăm,
+Din inimă să dăm.
+
+[c]
+Să pornim spre cei ce sunt în lipsuri
+Alinând suspinuri, să pornim,
+Prin iubire dincolo de cuvinte
+Dovedind prin fapte să trăim.
+
+[v2]
+Cu dreptate în orice zi
+Cu blândețe prin orice ar fi
+În umilință ’naintea Ta
+În lucrare Tu ne chemi azi
+Pilda să-Ți urmăm,
+Din inimă să dăm.
+
+[e]
+Iată-ne, trimite-ne
+Iată-ne, trimite-ne
+Iată-ne, trimite-ne, Doamne!

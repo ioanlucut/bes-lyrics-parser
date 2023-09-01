@@ -1,0 +1,23 @@
+[title]
+Domnul este lumina mea {author: {Biji din Barbulesti}, {rcId: {193060}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Domnul este Lumina mea,
+Atunci cand noaptea este grea.
+Sprijinitorul vietii mele,
+Cu mine e si-n clipe grele. / (2x)
+
+[c]
+De cine oare sa ma tem,
+Esti langa mine cand te chem.
+Chiar o ostire de-ar veni
+Doamne cu Tin’ voi birui. / (2x)
+
+[v2]
+Un lucru cer de la Tine,
+Si il doresc eu Fierbinte..
+In casa Ta sa locuiesc,
+Si voia Ta implinesc. / (2x)

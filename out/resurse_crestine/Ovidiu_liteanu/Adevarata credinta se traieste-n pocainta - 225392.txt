@@ -1,0 +1,36 @@
+[title]
+Adevarata credinta se traieste-n pocainta {author: {Ovidiu Liteanu}, {rcId: {225392}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Unde este Dumnezeu
+Acolo sunt și eu
+Cel mai plăcut loc pe Pământ
+/: E în prezența Celui Sfânt :/
+
+[c]
+/: Adevărata credință
+Se trăiește-n pocăință
+Adevăratul credincios
+/: Îl urmează pe Hristos :
+/:/
+
+[v2]
+Unde-i Evanghelia
+Acolo-i pacea mea
+Mai mult doresc Cuvântul Sfânt
+/: Decât pâinea ce-o mănânc :/
+
+[v3]
+Unde-i pace pe Pământ
+Acolo-i Duhul Sfânt
+E cu acei ce L-au primit
+/: Pe Hristosul cel iubit :/
+
+[v4]
+Unde-s sfinții porumbei
+Acolo-s frații mei
+De zborul sfânt se pregătesc
+/: Evanghelia vestesc :/

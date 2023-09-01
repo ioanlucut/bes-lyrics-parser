@@ -1,0 +1,21 @@
+[title]
+Este-o tara {author: {Nicolae Moldoveanu}, {rcId: {228413}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Este-o Țară-acolo-n cer, numai soare, numai flori,
+pregătită de Isus celor buni și-ascultători.
+
+[c]
+Toți copiii care vin la Isus cu gând senin
+vor fi duși în cer de El.
+
+[v2]
+Este-o Țară-acolo sus, numai dragoste și cânt,
+pregătită de Isus celor buni de pe pământ.
+
+[v3]
+Este-o Țară, este-un Rai, numai pace, numai har,
+pentru cei ce cred și-s buni—ei n-așteaptă în zadar.

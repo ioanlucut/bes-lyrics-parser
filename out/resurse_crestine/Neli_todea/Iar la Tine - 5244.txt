@@ -1,0 +1,27 @@
+[title]
+Iar la tine {author: {Neli Todea}, {rcId: {5244}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Vreau să știu ceasu-ndurări,
+În cuptorul îndurării,
+Și în chinul ce m-apasă,
+Să găsesc drumul spre casă.
+
+[c]
+Iar la Tine, iar la Tine,
+Să mă-ntorc din căi străine.
+
+[v2]
+Vreau să-Ți întâlnesc privirea
+Și să-ți înțeleg iubirea,
+Vreau în mila Ta mustrat
+Și în harul Tău iertat.
+
+[v3]
+Vreau s-aud a Tale șoapte,
+Când apuc pe căi deșarte,
+Să mă-ntorc în umilință
+Iar la cruce, prin credință.

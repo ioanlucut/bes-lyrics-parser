@@ -1,0 +1,41 @@
+[title]
+Multi crestini sunt azi de forma (do min) {author: {Mirela Ursulescu}, {rcId: {176622}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Mulți creștini sunt azi de formă
+Mulți se dau azi pocăiți
+Dar când vine câte-o probă
+Mulți rămân descoperiți.
+
+[c]
+Pocăința nu-i o joacă, dacă te numești creștin
+Pocăința este sfântă, este darul cel divin
+Pocăința e sfințire, zi de zi ea se trăiește
+Este lepădarea-n sine, de lume si de-a ei pofte.
+
+[v2]
+Mulți slujesc la doi stăpâni
+Vor să-mpace pe-amândoi
+Trăiesc ca și cei păgâni
+Și adună doar gunoi.
+
+[v3]
+Mulți se fac azi vinovați
+Și invidioși trăiesc
+Uită să mai fie frați
+Se urăsc și se bârfesc.
+
+[v4]
+Mulți îi judecă pe alții
+Singuri de s-ar judeca
+Bârna și-ar vedea-o ´n ochii
+Ce văd paiul altora.
+
+[v5]
+Mulți uită că Domnul vine
+Și că mai este puțin
+Doamne-ajută-ne ca-n toate
+Pocăința s-o trăim.

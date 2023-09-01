@@ -1,0 +1,40 @@
+[title]
+Sa fii ca norul {author: {Nicolae Moldoveanu}, {rcId: {241086}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Să fii ca norul care varsă ploaia
+Cea binecuvântată pe ogor,
+Să răcoreșți în suflet văpaia
+Încinsă de păcat nimicitor
+
+[c]
+Să fii așa, să fii așa,
+Cum Domnul tău Isus, te vrea,
+Să fii așa!
+
+[v2]
+Să fii ca soarele ce dă lumină
+Și viață și căldură pe pământ,
+Să duci oriunde voia cea divină,
+Prin trai, prin vorba și prin dulce cânt.
+
+[v3]
+Să fii ca dragostea mângâietoare,
+Să-i fericeșți pe toți din jurul tău,
+C-o mână preacurată și iertătoare,
+Să-i izbăveșți din mâna celui rău.
+
+[v4]
+Să fii că un balsam pe răni arzânde,
+Făptură-ți fie tuturor alin,
+Să întărești în suflete plăpânde
+Nădejdea-n harurile care vin!
+
+[v5]
+Să fii un templu cu altar pe care,
+Ard necurmate jertfe, că prinos
+Spre Slava Celui ce ți-a dat iertare,
+Spre Slava Domnului Isus Hristos!

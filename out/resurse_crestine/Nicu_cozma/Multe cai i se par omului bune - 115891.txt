@@ -1,0 +1,31 @@
+[title]
+Multe cai i se par omului bune {author: {Nicu Cozma}, {rcId: {115891}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Multe căi i se par omului bune,
+Multe cărări și drumuri ades!
+Multe punți îl leagă de lume
+Și-l cheamă spre ea tot mai des.
+
+[c]
+/: Cercetează-mă, Doamne, vezi calea mea dacă e rea!
+Luminează-mă-n noapte și du-mă pe calea Ta! :/
+
+[v2]
+Mulți sunt cei ce merg pe căile-acestea!
+Mulți aleargă fără a ști...
+Mulți trăiesc cu înfiorare povestea
+Lui Dima și cad zi de zi.
+
+[v3]
+Mulți vor rămâne și-n clipa răpirii!
+Creștini în firescul chist de pământ.
+Mulți vor plânge tribut dând căirii
+Viața-ncuscrită cu idoli păgâni.
+
+[c2]
+/: Cercetează-mă, Doamne, vezi calea mea dacă e rea!
+Dă-mi pecetea intrării în Biserica Ta! :/

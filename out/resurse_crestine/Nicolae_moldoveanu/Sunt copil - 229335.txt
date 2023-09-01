@@ -1,0 +1,29 @@
+[title]
+Sunt copil {author: {Nicolae Moldoveanu}, {rcId: {229335}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Sunt copil, dar asta știu
+că nicicând în locul meu,
+altul să mănânce pâine
+și-apoi să mă satur eu.
+
+[v2]
+Știu c-atunci când mă rănesc,
+eu pun leac în rana mea,
+căci nu este cu putință
+altu-n locul meu să-l ia.
+
+[v3]
+Și, de-asemeni, știu că-n cer
+voi fi dus de Dumnezu,
+dacă eu ascult de Dânsul,
+și nu altu-n locul meu.
+
+[v4]
+Sunt copil, dar înțeleg
+adevărul cât mi-e dat,
+vreau în inima mea mică
+să fiu bun cu-adevărat.

@@ -1,0 +1,25 @@
+[title]
+Ajuta-ma parinte drag {author: {Damaris Azamfirei}, {rcId: {179047}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Ajută-mă Părinte drag, pe cale să-naintez
+/: Și înapoi, nici un pas să nu mai fac :/
+
+[c]
+În Tine mă încred în Tine mă încred
+Orice ar veni orice ar veni
+În urmă nu privesc ci pe cale-naintez
+Pe Tin’ să Te-ntâlnesc.
+
+[v2]
+Ajută-mă Părinte drag, voia Ta să o-mplinesc
+/: Cât pe acest pământ, eu am să trăiesc. :/
+
+[c2]
+Smerit vreau să rămân smerit vreau să rămân
+Pe calea Domnului pe calea Domnului
+Vânturi de vor veni și în mine de-or lovi,
+Statornic eu să fiu.

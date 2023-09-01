@@ -1,0 +1,38 @@
+[title]
+Cu tine eu voi fi - i will be here for you {author: {Michael W. Smith, Traducere RO}, {rcId: {65073}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Vezi că al tău soare
+O noapte rece pare;-
+Nu știi unde să mergi,
+La cine să alergi.
+Visai o viață mare,
+Acum ea sens nu are,
+Și tu, în lumea ta,
+Singur ești în lumea ta,
+Iar un braț puternic tu dorești
+Nu fi trist: singur nu ești.
+
+[c]
+Cu tine eu voi fi,
+în noapte, undeva
+în noapte, undeva,
+Voi fi lumina ta,
+în noapte, undeva,
+Gata Eu voi sta,
+Și nu te voi lăsa.
+
+[v2]
+Căci lumea e străină
+De trădători e plină,
+în cine să te-ncrezi?
+Ai în cine să te-ncrezi?
+Poți să-mi plângi pe umăr,
+îți voi da odihnă,
+la iubirea Mea,
+Caută iubirea Mea.
+Cheamă-Mă și te voi ajuta.
+Eu voi veni, s-alung teama ta.

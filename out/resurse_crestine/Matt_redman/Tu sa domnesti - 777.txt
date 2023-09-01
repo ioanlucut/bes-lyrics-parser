@@ -1,0 +1,23 @@
+[title]
+Tu sa domnesti {author: {Matt Redman}, {rcId: {777}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Peste-ntreg pământ domnești în veci
+Cerul în amurg, munții-i stăpânești
+Dar mai mult de-atât Doamne eu doresc
+Ca Tu în mine să domnești.
+
+[c]
+/: Tu să domnești în viața mea
+Vreau sa fiu umplut de puterea Ta
+Căci tot ce am Tu stăpânesti
+Și vreau ca-n mine să domnești. :/
+
+[v2]
+Peste orice gând sau cuvânt rostit
+Să se vada-aș vrea frumusețea Ta
+Dar mai mult de-atât Doamne eu doresc
+Ca Tu în mine să domnești.

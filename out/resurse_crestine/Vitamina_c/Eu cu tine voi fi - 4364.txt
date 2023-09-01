@@ -1,0 +1,23 @@
+[title]
+Eu cu tine voi fi {author: {Vitamina C}, {rcId: {4364}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Eu cu tine voi fi
+În orice noapte și zi
+Stai liniștit în Brațul meu
+În siguranță vei fi
+
+[c]
+Te iubesc
+Și te voi iubi mereu
+Te voi ține de mână neîncetat
+Ești copilul meu
+
+[v2]
+Eu cu tine voi fi
+În ape și în pustii
+Voi lumina cărărea ta
+Chiar și când tu mă vei uita

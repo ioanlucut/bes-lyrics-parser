@@ -1,0 +1,33 @@
+[title]
+Psalmul {author: {BBSOadaptare după The Brooklyn Tabernacle Choir}, {rcId: {197268}}
+
+[sequence]
+v1,v2,c,v3,b,c
+
+[v1]
+L-am căutat, și l-am găsit
+De temeri El, m-a izbăvit
+Când privești spre El, Te luminezi,
+Rușinea El mi-a șters, rușinea El mi-a șters
+
+[v2]
+Când am strigat, El m-a auzit
+Necazul meu, l-a risipit
+El face scut peste-ai Lui sfinți
+Îi va elibera, Îi va elibera,
+
+[c]
+Laudă-l pe El acum,
+Să-nălțăm al Său Sfânt Nume!
+Toată gloria este a Lui,
+Să-i cântăm o veșnicie
+
+[v3]
+Gustă și vezi, Domnul este bun
+Eu mă încred în El, și sunt izbăvit
+Când sfinții Lui, de El se tem
+El îi va îngriji, El îi va îngriji.
+
+[b]
+Binecuvântat, fii de noi mereu,
+Veșnic voi cânta pentru Domnul meu!

@@ -1,0 +1,31 @@
+[title]
+Pe-oceanul infinit cu valuri grija m-a cuprins {author: {Alexandru Groza}, {rcId: {5288}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Pe-oceanul infinit cu valuri, Grija m-a cuprins;
+Plutesc spre casă obosit, Cu catargul zdrențuit;
+Lovit de valuri sunt mereu, Dar mai nădăjduiesc...
+În Tine, Doamne, mă încred, Pe Tine Te iubesc!
+
+[c]
+Mă încred în Tine, Doamne, Orișice s-ar întâmpla.
+Toată viața mea, Isuse, Te voi binecuvânta.
+
+[v2]
+Pe-oceanul infinit cu valuri, Noaptea m-a cuprins;
+Plutesc spre casă obosit, sunt deznădăjduit;
+Privesc în noapte, singur sunt, N-am nici un ajutor,
+Lovit de valuri sunt, Isus, Vino, fii Salvator!
+
+[v3]
+În depărtări zăresc lumina - Acolo eu plutesc,
+Acolo vreau să ancorez Pe malul Tău ceresc,
+Voi înfrunta orice necaz. Eu nu mă îndoiesc,
+Căci Tu ești Salvatorul meu, Prin Tine eu trăiesc.
+
+[c2]
+Ești speranța mea, Isuse, Chiar când simt că sunt înfrânt!.
+Te rog, nu mă lăsa singur, Salvatorul meu iubit.

@@ -1,0 +1,35 @@
+[title]
+Vin cu inima deschisa {author: {Nicolae Moldoveanu}, {rcId: {200659}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Vin’ cu inima deschisă,
+La Isus cel Răstignit.
+Chiar cu smoală de-ar fi scrisă,
+El ți-o spală negreșit.
+
+[c]
+Din cădere te ridică,
+Și’n durere-ți dă alin,
+Vino astăzi fără frică,
+EI te vindecă deplin.
+
+[v2]
+Vin’ cu dorurile tale,
+La Isus Cel Înviat,
+Cât de greu ți-ar fi pe cale,
+De El fi-vei ușurat.
+
+[v3]
+Vin’ cu inima-ți zdrobită,
+La Isus cel plin de har,
+Prin credință neclintită,
+El ți-o liniștește iar.
+
+[v4]
+Vin’ așa cum ești - te cheamă,
+Domnul tău cu glas duios,
+Harul Lui nu ține seamă,
+De trecutul păcătos.

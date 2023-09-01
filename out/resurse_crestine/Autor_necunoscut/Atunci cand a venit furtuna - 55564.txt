@@ -1,0 +1,30 @@
+[title]
+Atunci cand a venit furtuna {author: {Anonim}, {rcId: {55564}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Atunci când a venit furtuna
+Batea-n corabie-ntruna,
+Marea s-a înfuriat, pe Isus L-au deșteptat.
+
+[c]
+Atunci când Ți-ai întins mâna,
+Doamne, ai oprit furtuna.
+Ucenicii au văzut și-n Tine s-au încrezut.
+
+[v2]
+Ucenicii s-au mirat,
+Cum Dumnezeu a lucrat,
+Căci marea L-a ascultat pe Isus cel minunat. -
+
+[v3]
+Doamne, nu mai pot vâsli,
+De furtună ce-a venit,
+Care bate-n barca mea să nu mai pot-nainta.
+
+[v4]
+Vino azi și-n barca mea,
+Oprește furtuna grea!
+De Tine va asculta și-apoi Te voi lăuda.

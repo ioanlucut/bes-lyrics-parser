@@ -1,0 +1,35 @@
+[title]
+Atat de iute zboara anii {author: {Anonim}, {rcId: {172437}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Atât de iute zboară anii,
+Mai iute azi ca niciodat’
+/: Cu ei și noi zburăm ca norii
+Spre orizontul celălalt. :/
+
+[c]
+Trec anii, trec, și nu-i putem opri,
+Se duc în zbor și alții vor veni.
+/: Urmează-L pe Isus, în cer să-L întâlnești,
+Acolo, cu El, noi vom trăi pe veci. :/
+
+[v2]
+Trecut-au ani, i-am dat uitării,
+Ne amintim câte-un crâmpei,
+/: Ca nori ce pleacă-n largul zării,
+Nicicând nu ne-amintim de ei. :/
+
+[v3]
+Cândva și cartea vieții noastre
+Se va deschide și în ea
+/: Se vor citi a noastre fapte,
+Din viața ta, din viața mea. :/
+
+[v4]
+Odată s-or sfârși toți anii
+Pe care aicea i-am trăit
+/: Și va începe veșnicia
+Cum noi aici ne-am pregătit. :/

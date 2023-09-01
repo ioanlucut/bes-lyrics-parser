@@ -1,0 +1,49 @@
+[title]
+Psalmul {author: {Cor tineret Poarta Cerului}, {rcId: {182628}}
+
+[sequence]
+v1,b,c,v2,c,c,e
+
+[v1]
+Pe Domnul Sfant l-am cautat
+El mi-a raspuns si m-a eliberat
+Cei ce-L privesc nu sunt rusinati
+Ci stralucesc, sunt binecuvantati
+
+[b]
+Cand am strigat El m-a auzit
+Si de dusmani, El m-a izbavit
+Toti sfintii Lui, sunt aparati
+Chiar de Isus Hristos
+Ei sunt inconjurati
+Binecuvantam
+Zi si noapte toti
+Lauda nu-ncetam
+Ruga înaltam
+
+[c]
+Preamarim pe Dumnezeu
+Înaltam al Lui Sfant Nume
+Glorie sa-I dam doar Lui
+Nimeni nu-i ca El in lume
+Preamarim pe Dumnezeu
+Înaltam al Lui Sfant Nume
+Glorie sa-I dam doar Lui
+Nimeni nu-i ca El in lume
+Preamarim pe Dumnezeu
+Înaltam al Lui Sfant Nume
+Glorie sa-I dam doar Lui
+Nimeni nu-i ca El in lume
+
+[v2]
+Gustati vedeti, Domnul este bun
+Cei ce-L iubesc, sunt fericiti
+Cei ce se tem, sau frica au de El
+Primesc orice doresc
+De la Tatal Ceresc
+
+[e]
+Gustati vedeti
+Domnul este bun
+Cei cel iubesc
+Sunt fericiti

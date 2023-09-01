@@ -1,0 +1,26 @@
+[title]
+Veniti copii {author: {Anonim}, {rcId: {107523}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+/: Veniți, copii, de pe-ntreg pământul
+Să serbăm Paștele cel sfânt
+Domnul Isus Hristos a-nviat! :/
+
+[v2]
+/: Azi e mare sărbătoare
+Vestim Harul Paștelui Sfânt
+Domnul Isus Hristos a-nviat! :/
+
+[v3]
+/: Când s-a dus la mormânt Maria
+Îngeru-n cale i-a ieșit
+Și i-a spus: ”
+Hristos a înviat!” :/
+
+[v4]
+/: Veniți, copii, de pe-ntreg pământul
+Să serbăm Paștele cel sfânt
+Domnul Isus Hristos a-nviat! :/

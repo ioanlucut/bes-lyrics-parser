@@ -1,0 +1,29 @@
+[title]
+Lacrimi in ceruri nu-s - fa maj {author: {ed. Dan Istrate}, {rcId: {235821}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Nu sunt în ceruri lacrimi nici grijuri,
+ci glorie pe veci va fi!
+Nu e tristețe, nici bătrânețe,
+ci numai sfinte bucurii.
+
+[c]
+/: Lacrimi în ceruri nu-s :/
+jale, dureri de orice fel,
+/: Lacrimi în ceruri nu-s :/
+căci le purtase Sfântul Miel.
+
+[v2]
+Slava ne-așteaptă, buna răsplată
+pentru acela credincios,
+Iar Salvatorul face poporul
+părtaș la slavă bucuros.
+
+[v3]
+Nu vor fi zile scrise în file,
+timpu-ncetează a conta,
+Numai iubirea și nemurirea,
+și-n veci cu Mielul vom trona.

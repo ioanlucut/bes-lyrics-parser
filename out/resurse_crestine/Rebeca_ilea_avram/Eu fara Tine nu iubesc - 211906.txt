@@ -1,0 +1,35 @@
+[title]
+Eu fara tine nu iubesc {author: {Rebeca Ilea Avram}, {rcId: {211906}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c
+
+[v1]
+Am crezut ca-n mine este-atata dragoste
+C-as putea iubi la nesfarsit
+Am crezut ca pot sa iert si sa slujesc
+Si in umilinta sa traiesc.
+
+[v2]
+Dar m-ai pus la proba, Dumnezeul meu
+Ca sa imi arati ce pot eu
+Si-ai zdrobit mandria ce ma stapanea
+Sa vad deslusit starea mea.
+
+[c]
+Eu fara Tine nu iubesc, eu fara Tine nu slujesc
+Eu fara Tine nu stiu sa iert, nici sa traiesc
+Eu fara Tine nu iubesc, eu fara Tine nu slujesc
+Eu fara Tine nu stiu sa iert, eu fara Tine nu sunt nimic.
+
+[v3]
+Am crezut ca stiu sa stau in rugaciune
+Sa citesc Scriptura zi de zi
+Sa imi plec urechea la un strigat de durere
+Sa ma lupt doar binele sa-l fac.
+
+[v4]
+Am crezut ca stiu sa-nfrunt orice furtuna
+Sa nu ma clatin cand vine vreo ispita
+Sa pasesc eu singur pe drumul catre cer
+Fara s-am nevoie de-ajutor.

@@ -1,0 +1,29 @@
+[title]
+Din inaltul cerului {author: {Speranța}, {rcId: {111353}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Din înaltul cerului, Isus Te-ai coborât
+Ai venit la noi, căci ne-ai iubit.
+Într-o iesle Te-ai născut, la Betleem
+Viață veșnică noi să avem.
+
+[c]
+Slavă Ție, sus în cerul sfânt
+Pace fie jos pe pământ
+Cor de îngeri cântă, Te laudă mereu
+Tu ești singur Fiu de Dumnezeu.
+
+[v2]
+Magii cei din răsaărit, daruri au adus
+Pruncului cel drag și scump, Isus
+Jos cu fața la pământ, ei s-au închinat
+Celui ce e veșnic împărat.
+
+[v3]
+Sus la dreapta Tatălui astăzi locuiești
+Pentru omenire mijlocești
+Sus în glorie, cu Tine, vrei să fim
+Pentru veșnicii noi să trăim

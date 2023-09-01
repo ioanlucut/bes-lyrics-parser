@@ -1,0 +1,27 @@
+[title]
+Va bucurati {author: {Sola Scriptura}, {rcId: {101852}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+/: Vă bucurați, Isus e Domn
+Și pe pământ, și-n cer
+Cu toți azi să-I cântați, pe Domnul lăudați!
+’
+Nălțați Numele Lui! ’
+Nălțați Numele Lui!
+’
+Nălțați, ’nălțați Numele Lui! :/
+
+[v1]
+Căci pentru noi Isus veni spre a ne mântui
+Prin El nu mai e păcat și omul e salvat
+Deci Lui azi să-I cântați, deci Lui azi să-I cântați
+Deci Lui, deci Lui azi să-I cântați!
+
+[v2]
+El ne conduce tot mereu prin har și adevăr
+Priviți numai la Isus, la slava cea de sus
+Azi voi vă bucurați, azi voi vă bucurați
+Azi voi, azi voi vă bucurați!

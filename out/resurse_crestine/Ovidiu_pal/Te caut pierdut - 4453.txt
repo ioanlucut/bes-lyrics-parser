@@ -1,0 +1,27 @@
+[title]
+Te caut pierdut {author: {Ovidiu Pal}, {rcId: {4453}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Te caut mereu pe drumul de ieri
+Te caut mereu și vreau să îți spun: ”
+Isus, Te iubesc”
+Te caut în flori, în cântec de ciocârlii
+Și știu că la răsărit te voi regăsi.
+
+[c]
+Căci vreau să Te-ntâlnesc din nou
+Și să m-arunc la pieptul Tău
+Și să-Ți spun că sunt singur
+Nimic în lume nu-mi doresc
+Decât pe Tine să Te-ntâlnesc
+Atinge-mi ochii,
+Tu ești tot ce-mi doresc.
+
+[v2]
+Te caut mereu desculț prin pustiu
+Cărarea e grea, puteri nu mai am, mă simt obosit
+Dar nu dau-napoi, bătut nicicând nu m-oi da
+Chiar de sunt descurajat nu mă voi lăsa.

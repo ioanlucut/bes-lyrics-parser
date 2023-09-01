@@ -1,0 +1,35 @@
+[title]
+La revedere ne vom vedea {author: {Anonim}, {rcId: {4984}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,v4,c
+
+[c]
+La revedere, ne vom vedea,
+La revedere, ne-om saluta,
+La revedere, ne-om întâlni
+Acolo sus, în veșnicii.
+La revedere, frați și surori,
+La revedere, ascultători,
+La revedere, pe viitor,
+Să ne vedem cu toții în cer.
+
+[v1]
+Ne vom vedea cu toții în marea dimineață,
+Ne vom vedea cu toții iarăși față-n față,
+Ne vom vedea pe marea vieții de cristal.
+
+[v2]
+Ne vom vedea în minunata primăvară,
+Ne vom vedea în veșnicii cu toții iară,
+Ne vom vedea la malurile de smarald.
+
+[v3]
+Ne vom vedea în țara dincolo de soare,
+Ne vom vedea pe-a veșniciilor splendoare,
+Ne vom vedea sus în palatul de rubin.
+
+[v4]
+Ne vom vedea acolo unde nu-i durere;
+Ne vom vedea în țara dincolo de stele,
+Ne vom vedea în dimineața fără nor.

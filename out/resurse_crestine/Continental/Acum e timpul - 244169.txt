@@ -1,0 +1,34 @@
+[title]
+Acum e timpul {author: {Continental}, {rcId: {244169}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Oameni fără niciun rost,
+Fără niciun țel,
+Cu inima-n bucăți.
+Umbre pe pământul trist
+Rătăcesc pustii,
+Robite de cel rău,
+Făr’ să afle vreodată că Ceru-i lângă ei.
+
+[c]
+Acum e timpul pe răni balsam să pui!
+Acum e timpul să spui de iubirea Lui!
+Acum e timpul în suflete să lași din slava Domnului!
+Din lumina slavei Lui!
+Acum e timpul pe răni balsam să pui!
+Acum e timpul să spui de iubirea Lui!
+Acum e timpul în suflete să lași din slava Domnului!
+/: Din lumina slavei Lui! :/
+Să lași, să lași, din slava, din slava Lui!
+Din iubirea Lui!
+
+[v2]
+E lumea plină de-ntristări și de păcate-adânci
+Ce-n chinuri vieți strivesc.
+Noi știm iubirea Domnului,
+Gustăm din harul Său
+Și-avem tăria Lui!
+Dar câte vieți robite se sting chiar lângă noi!

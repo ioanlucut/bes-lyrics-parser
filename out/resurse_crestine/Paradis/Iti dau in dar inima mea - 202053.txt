@@ -1,0 +1,37 @@
+[title]
+Iti dau in dar inima mea {author: {Paradis}, {rcId: {202053}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c
+
+[v1]
+Iți dau in dar inima mea
+Ca Tu să locuiești în ea Isus
+Iată acum o Doamne sunt al Tău
+Cântănd spre slava Ta mereu, mereu.
+
+[v2]
+Spre Tine ochi îmi îndrept
+Căci Tu ești Dumnezeu și te aștept
+Cu Tine eu vreau ca să fiu
+Cu Tine Doamne căci ești viu ești viu.
+
+[c]
+/: Îți cânt Mântuitorul meu
+Te laudă inima mereu
+Cu bucurie, Te slăvesc
+Îți cânt Mântuitorul meu
+Te laudă inima mereu
+Prin Duhul Tău cel Sfânt ceresc :/
+
+[v3]
+Doresc să cânt al meu Isuse
+Să spun la toți o Doamne ce mare ești
+Căci locuiești mai sus de stele
+Ești suveran o Doamne în veci de veci
+
+[v4]
+Sunt cercetat de Harul Tău
+Iar eu Te laud Isuse Domnul meu
+La orice pas de Duhul Sfânt
+Călăuzit voi fii, pe acest pământ.

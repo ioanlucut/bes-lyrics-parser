@@ -1,0 +1,29 @@
+[title]
+Painea vietii {author: {Puiu și Beni Chibici}, {rcId: {188172}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Luați, mâncați din pâinea vieții
+Copiii mei cei preaiubiți,
+Încă din zorii tinereții
+/: Căci doar așa :/ veți fi primiți.
+
+[c]
+/: Eu sunt adevărata pâine,
+Sunt pâinea ce vine din cer,
+Cei ce se-mpărtășesc din Mine
+Au viață și nicicând nu pier. :/
+
+[v2]
+Părinții voștrii în pustie
+Mâncat-au mană și au murit,
+Dar pâinea Mea e veșnic vie
+/: Și-n dar vă dau :/ căci v-am iubit.
+
+[v3]
+O, Doamne, dă-ne pâinea sfântă
+Ca-n veci să nu mai flămânzim,
+Până ajunge-vom la țintă
+Cu Tine-n ceruri, Domnul nostru, să prânzim.

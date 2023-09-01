@@ -1,0 +1,39 @@
+[title]
+Cine din noi va putea {author: {Vasile Daniel}, {rcId: {133337}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Sunați din trâmbță azi în Sion
+Căci vine ziua mare-a Domnului!
+O zi de răzbunare și mare necaz,
+O zi cu multe lacrimi pe obraz.
+
+[c]
+Cine din noi va putea
+Lângă Domnul Dumnezeu ca să stea?
+Lângă Cel ce este creator
+Dar este și un foc mistuitor.
+Cine din noi va putea
+Să rămână lângă Domnul pururea?
+Lângă Cel ce din veșnicie e
+Dragoste și flăcări veșnice.
+
+[v2]
+Popoarele sunt strânse-ntr-un cuptor
+Ca niște spini uscați vor arde-n foc
+Și păcătoșii îngroziți stau în Sion
+Un tremur a cuprins pe orice om.
+
+[v3]
+O, Doamne astăzi ai milă de noi
+Că-n Tine Doamne noi nădăjduim
+Fi ajutorul nostru-n fiecare zi
+Și izbăvirea-n vreme de necaz.
+
+[v4]
+Domnul e-nălțat pe înălțimi
+El umple Sionul cu dreptate
+Înțelepciunea și priceperea vor fi
+Izvor de mântuire veșnică.

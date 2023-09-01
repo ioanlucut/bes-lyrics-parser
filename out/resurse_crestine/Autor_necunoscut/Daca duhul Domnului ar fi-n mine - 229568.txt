@@ -1,0 +1,35 @@
+[title]
+Daca duhul domnului ar fi-n mine {author: {Anonim}, {rcId: {229568}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Dacă Duhul Domnului ar fi-n mine,
+Aș cânta ca și David.
+Aș cânta, aș cânta
+Aș cânta ca și David
+
+[v2]
+Dacă duhul Domnului ar fi-n mine
+Aș lauda ca și David
+Aș lauda, Aș lauda
+Aș lauda ca și David
+
+[v3]
+Dacă Duhul Domnului ar fi-n mine
+M-aș lupta ca și David.
+M-aș lupta, m-aș lupta
+M-aș lupta ca și David.
+
+[v4]
+Dacă duhul Domnului ar fi-n mine
+Aș învinge ca David
+Aș învinge, Aș învinge
+Aș învinge ca și David
+
+[v5]
+Dacă Duhul Domnului ar fi-n mine,
+M-aș ruga ca și David.
+M-aș ruga, m-aș ruga,
+M-aș ruga ca și David

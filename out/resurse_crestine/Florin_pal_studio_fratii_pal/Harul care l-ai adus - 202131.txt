@@ -1,0 +1,35 @@
+[title]
+Harul care l-ai adus {author: {Florin Pal, Studio Fratii Pal}, {rcId: {202131}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Prin harul care Doamne mi l-ai dat
+Vreau să mă bucur și-astăzi neîncetat
+De harul și cuvântul Tău cel sfânt
+Vreau să mă bucur Doamne și să-ți cânt!
+
+[c]
+Harul care l-ai adus
+Noi l-am primit prin jertfa Ta Isus
+Harul care ni l-ai dat
+Noi l-am primit și nu l-am meritat
+
+[v2]
+Ne-ai dat iertarea, pacea ta Isus
+Ca să traim cu tine-n ceruri sus
+Si aicia jos pe-acest pământ străin
+Călăuziți de Duhul Tău să fim!
+
+[v3]
+Ne bucurăm și-aicia pe pământ
+Cu laude si cântări prin Duhul Sfant
+Căci ne-ai promis și sus in țara Ta
+Și-acolo Doamne te vom lăuda!
+
+[v4]
+Ne-ntoarcem bucuroși să-ți mulțumim
+De harul si cuvântul Tău divin
+Căci ne-ai iubit si ne-ai rascumpărat
+Din lumea aceasta plina de păcat.

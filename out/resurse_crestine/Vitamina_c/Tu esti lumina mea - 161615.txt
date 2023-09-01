@@ -1,0 +1,28 @@
+[title]
+Tu esti lumina mea {author: {Vitamina C}, {rcId: {161615}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Pe mare bate un vânt,
+Lovește în mine, eu lupt.
+Din valuri eu strig la Tine:
+Nu mă lăsa să plâng, ajută-mă să cânt.
+
+[c]
+/: Tu ești lumina mea,
+O stea pe cerul greu,
+O lampă ce luminează drumul meu. :/
+
+[v2]
+Se luptă sufletul meu,
+Zdrobit de ce e mai rău.
+În frică prizonier...
+Nu mă lăsa să pier, ajută-mă să sper!
+
+[e]
+Când nu Te văd, Tu ești cu mine,
+Chiar dacă nu Te simt, ești lângă mine.
+Chiar dacă nu zăresc a mea scăpare
+Luceafărul meu va răsări!

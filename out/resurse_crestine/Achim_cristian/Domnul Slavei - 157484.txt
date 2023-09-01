@@ -1,0 +1,30 @@
+[title]
+Domnul slavei {author: {Achim Cristian}, {rcId: {157484}}
+
+[sequence]
+v1,c,v2,c,v3,b,c
+
+[v1]
+Când sufletul tău se zbate, rănit și distrus
+Și te simți singur în toate, speranță-n apus
+Ascultă vestea adusă, căci azi s-a născut.
+
+[c]
+Domnul slavei, lăsând gloria toată
+Cor ceresc cântă preamărind
+Voci se-nalță strigând adorare
+Pentru Cel ce a venit.
+
+[v2]
+Când trăiești în nepăsare, stagnând amăgit
+Și ești lipsit de culoare, un om împietrit
+Ascultă vestea adusă, căci azi s-a născut.
+
+[v3]
+Când ai speranța cea mare, iubire și har
+Și în Isus o salvare, cel mai mare dar
+Ascultă vestea adusă, căci azi S-a născut.
+
+[b]
+/: Mântuire și speranță
+O salvare ne-a adus. :/ x4

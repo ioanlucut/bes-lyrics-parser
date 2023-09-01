@@ -1,0 +1,35 @@
+[title]
+De esti trist si apasat in suflet {author: {Edmund S.Lorenz}, {rcId: {1799}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+De ești trist și apăsat în suflet?
+/: Spune-i lui Isus :/
+De regreți plăcerile din lume,
+Spune-i lui Isus acum.
+
+[c]
+/: Spune-i lui Isus, :/
+Nu este prieten mai bun.
+Nu găsești un altul mai aproape,
+Spune-i lui Isus acum.
+
+[v2]
+E obrazul tău brăzdat de lacrimi?
+/: Spune-i lui Isus, :/
+Ai ascuns de lume multe Patimi
+Spune-i lui Isus acum.
+
+[v3]
+De ți-e teamă că furtuna vine,
+/: Spune-i lui Isus, :/
+De te-apasă grijile de mâine,
+Spune-i lui Isus acum.
+
+[v4]
+Gândul morții te neliniștește?
+/: Spune-i lui Isus :/
+Orice teamă El o risipește,
+Spune-i lui Isus acum.

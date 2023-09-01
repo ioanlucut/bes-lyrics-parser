@@ -1,0 +1,40 @@
+[title]
+Orice pret mi-ai cere {author: {Nicolae Moldoveanu}, {rcId: {241435}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Orice preț mi-ai cere,
+Orice preț Ti-aș da,
+/: Tu-mi rămâi avere,
+Singura-mi avere,
+Mântuirea mea! :/
+
+[v2]
+Orice bun i-aș cere
+Orice bun mi-ar da,
+/: Lumea-i numai fiere,
+Numai spini și fiere
+Pentru viața mea! :/
+
+[v3]
+Orice chin mi-ar cere
+Ori ce chin i-aș da,
+/: Domnu-l mângâiere,
+Numai mângâiere,
+Pe cărarea mea! :/
+
+[v4]
+Orice dar mi-ai cere,
+Orice dar Ti-aș da,
+/: Tu-mi ești înviere.
+Slavă și putere,
+Rugăciunea mea! :/
+
+[v5]
+Orice pas mi-ai cere,
+Orice pas Ti-aș da,
+/: Tu-mi rămâi putere,
+Dulcea mea avere,
+Ascultarea mea! :/

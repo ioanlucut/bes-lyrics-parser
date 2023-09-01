@@ -1,0 +1,29 @@
+[title]
+Strig cu glasul pana la tine {author: {Anonim}, {rcId: {6972}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Strig cu glasul până la Tine,
+Până îmi vei face bine,
+Până când vei asculta,
+Doamne și cererea mea. :/
+
+[c]
+/: Tu ești nădejdea mea,
+Și mângâierea mea,
+Întinde-Ți Doamne mâna Ta,
+Și leagă-mi Isuse rana mea :/
+
+[v2]
+/: Pleacă-ți urechea spre mine,
+Nu mă lăsa în suspine,
+Mângâie-mi sufletul meu,
+În durere când mi-e greu. :/
+
+[v3]
+/: Nimeni nu-mi știe durerea,
+Și nici suferința mea,
+Când necazul mă lovește,
+Mila Ta mă ocrotește. :/

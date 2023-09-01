@@ -1,0 +1,29 @@
+[title]
+Cate doruri imi framanta viata {author: {Anonim}, {rcId: {6441}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cate doruri imi framanta viata
+Numai unul singur vreau sa-l am
+Doamne lumineaza-mi astazi fata
+/: Si pe rane Tu sa-mi pui balsam. :/
+
+[c]
+Vin acum si-Ti cer iertare
+Pentru tot ce am facut rau
+/: Vreau in bunatatea-Ti mare
+Sa ma stiu copilul Tau. :/
+
+[v2]
+Te rog sa-mi dai astazi mangaiere
+Si prin harul Tau sa ma intaresti
+Inima mea plina de durere
+/: Numai Tu poti sa mi-o lecuiesti. :/
+
+[v3]
+Da-mi din bucuria mantuirii
+Cand umblu pe acest pamant
+Du-ma apoi pe culmea fericirii
+/: Din Ierusalimul nou si sfant. :/

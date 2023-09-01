@@ -1,0 +1,30 @@
+[title]
+Este unul {author: {Neagu Claudiu}, {rcId: {73039}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Când pe-al vieții drum pașesti poate crezi că rătăcești
+N-ai scăpare, și nu știi-ncotro te-ndrepți.
+Cand simți că totul te-ncolțește, si toată lumea te urăște.
+Este Unul ce te iubește-așa cum ești.
+
+[c]
+Este Unul ce te iubește-așa cum ești
+Este Unul ce te păstrează-adânc în El,
+Ca un tată te așteaptă, deci grăbește-te și vino la El
+Este Unul ce te iubește- așa cum ești.
+
+[v2]
+Dacă te-ai putea vedea, prin privirea altcuiva
+Ai sti ca ești iubit de la început
+Orice frică-ți va dispare când o voce iubitoare îti va spune:
+”
+Eu te iubesc așa cum ești!”
+
+[e]
+El este-același ieri, azi și-n veci
+Nicicând nu te va lăsa!
+El te va prinde oricând vei cădea;
+Lasă-te în Mâna Sa...

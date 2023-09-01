@@ -1,0 +1,49 @@
+[title]
+Lost forever {author: {Barney E. Warren}, {rcId: {101988}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Where is thy hope, poor sinner?
+What are you going to do?
+Hope is a God-given anchor,
+Lavished so freely on you;
+If it is fixed in the Savior,
+On that bright shore you will land,
+But if in sin you still linger,
+Sad your end.
+
+[c]
+Lost, forever! Lost, forever!
+Oh, how sad!
+
+[v2]
+Where is thy refuge, sinner?
+Look where your pathway will end;
+Repent, or you’ll perish forever,
+Awful destruction’s at hand;
+Heaven or hell you are choosing,
+Fixing and sealing your fate,
+God and His mercy refusing,
+Lost! Too late!
+
+[v3]
+What can you plead, poor sinner,
+In the great judgment day?
+Heaven now offers you favor,
+Oh, do not cast it away;
+Slighted the warnings repeated,
+Leave you in Satan’s control;
+And with all heaven rejected,
+Lost, your soul.
+
+[v4]
+Where will you go, poor sinner?
+How will your soul escape?
+Think of thy lot, when, forever,
+Cast in the dark, burning lake;
+If then you’re lost and forgotten,
+Writhing in flames of despair,
+You will remember you’ve chosen
+To be there.

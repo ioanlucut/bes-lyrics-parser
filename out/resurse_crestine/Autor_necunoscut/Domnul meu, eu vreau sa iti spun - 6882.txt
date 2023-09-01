@@ -1,0 +1,28 @@
+[title]
+Domnul meu eu vreau sa iti spun {author: {Anonim}, {rcId: {6882}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Domnul meu eu vreau sa iti spun,
+Tie astazi ma inchin,
+In zori de zi eu vreau sa-ti cant
+Cu instrumentul meu.
+
+[c]
+Iti multumesc printre popoare,
+Te preamaresc printre neamuri
+/: Caci bunatatea Ta peste ceruri se inalta :/
+
+[v2]
+Domnul meu inalta Tu
+Slava Ta pe-ntreg pamantul,
+Ajuta-ma cu dreapta Ta
+Si asculta ruga mea.
+
+[v3]
+Domnul meu Tu tii cu mine
+Caci oamenii nu m-ajuta,
+In Tine vreau sa ma incred,
+Cu Tine biruiesc.

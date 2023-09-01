@@ -1,0 +1,27 @@
+[title]
+M-asteapta {author: {Adi Gliga}, {rcId: {7072}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Pășesc grăbit spre Tine,
+Mă îndrept mereu spre ce-am crezut
+Nu e vis, știu bine.
+Vei împlini ce-ai promis
+Pe străzi de aur voi umbla,
+Din apa vieții eu voi bea.
+
+[c]
+M-așteaptă o lume
+În care spre Tine voi păși,
+M-așteaptă o lume
+În care veșnic voi trăi.
+
+[v2]
+Aștept o zi în care
+În prezența Ta voi sta,
+Și fața Ta, Doamne,
+Veșnic mă va lumina,
+Pe străzi de aur voi umbla,
+Din apa vieții eu voi bea.

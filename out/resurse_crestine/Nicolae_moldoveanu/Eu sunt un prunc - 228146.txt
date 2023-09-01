@@ -1,0 +1,23 @@
+[title]
+Eu sunt un prunc {author: {Nicolae Moldoveanu}, {rcId: {228146}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Eu sunt un prunc legănat la sân,
+cuvinte-alese nu știu să-ngân,
+dar Tatăl meu e-atotstăpân!
+Pe brațele Lui rămân!
+
+[v2]
+Nimic în lume eu n-am adus,
+nimic din lume eu n-am de sus.
+Dar am de toate acolo Sus!
+Slăvit fie-n veci, Isus!
+
+[v3]
+Atât aș vrea mâna Lui s-o țin,
+să spun oricui harul Lui divin,
+să fiu un pom de roade plin!
+Atât mi-e de-ajuns! Amin!

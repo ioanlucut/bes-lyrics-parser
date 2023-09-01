@@ -1,0 +1,42 @@
+[title]
+Cu bucurie {author: {Nicolae Moldoveanu}, {rcId: {244142}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cu bucurie,
+Mereu mai vie,
+Ți-aducem Ție,
+Isus iubit.
+/: Tot ce-n iubire,
+Mai sus de fire,
+Prin răstignire,
+Ne-ai dăruit. :/
+
+[c]
+’
+Naintea Ta ne-aducem viața,
+Căci Tu ne-ai dat-o prin harul sfânt,
+Lumina Ta ne umple fața,
+Când ne-o întoarcem dinspre pământ.
+
+[v2]
+Cu umilință
+Și cu credință,
+De-a Ta Ființă
+Ne alipim,
+/: Ca-n noi să crească
+Și să rodească,
+Viața cerească,
+Cum o dorim. :/
+
+[v3]
+Cu ascultare,
+A Ta lucrare,
+Prin noi, mai mare
+S-o-nfăptuiești,
+/: Ca totdeauna,
+Să-Ți fim cununa,
+Prin lume, una,
+Cum Tu dorești. :/

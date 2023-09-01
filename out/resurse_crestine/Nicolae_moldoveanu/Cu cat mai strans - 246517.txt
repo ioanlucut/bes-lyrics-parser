@@ -1,0 +1,35 @@
+[title]
+Cu cat mai strans {author: {Nicolae Moldoveanu}, {rcId: {246517}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Cu cât mai strâns te ții de Domnul,
+Cu-atât te rupi de toți cei răi,
+/: Cu cât ți-s mai străini străinii,
+Cu-atât mai frați ți-s frații tăi. :/
+
+[v2]
+Cu cât mai drept ții calea bună,
+Te-ndepărtezi de calea rea,
+/: Cu cât mai dragi ți-s alte case,
+Ți-e mai urât de casa ta. :/
+
+[v3]
+Cu cât ți-e mai ’nnoptat pământul,
+Cu-atât ți-e cerul mai senin,
+/: Cu cât mai mult gândești la alții,
+Te uiți spre tine mai puțin. :/
+
+[v4]
+Cu cât te porți smerit mai tare,
+Și poți din dreptul tău să lași,
+/: Cu-atâta-ți pregătești cu fapta
+Mai vrednici și mai buni urmași. :/
+
+[v5]
+Cu cât mai sfânt trăiești Cuvântul
+Cu cât te rogi mai credincios,
+/: Cu cât iubești mai dulce frații,
+Ești mai aproape de Hristos. :/

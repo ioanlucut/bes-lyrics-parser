@@ -1,0 +1,31 @@
+[title]
+Nu-i calea mea vesnic cu soare {author: {Anonim}, {rcId: {189810}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Nu-i calea mea veșnic cu soare,
+Nici viața nu-i o sărbătoare,
+Că pe Pământ e-atâta jale,
+Păcatul lumea a cuprins.
+Dar port în suflet o speranță
+Că vine Domnul și mă-nalță,
+Ce mare har să fii copil al Domnului!
+
+[c]
+/: Isus, speranța vieții mele,
+Tu zi de zi să-mi dai putere
+Ca să mă-ncred tot mai mult în harul Tău!
+Când lumea mă disprețuiește
+Isus din ceruri mă iubește,
+Ce mare har să fii copil al Domnului! :/
+
+[v2]
+Condus de pace și iubire,
+Eu port în suflet o-mplinire,
+Credință am în Domnul meu,
+Biruitor voi fi mereu.
+Pentru acei ce au credință,
+Rabdarea aduce biruință,
+Iubesc pe Domnul și-L cinstesc în viața mea!

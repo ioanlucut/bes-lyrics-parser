@@ -1,0 +1,39 @@
+[title]
+O multime de motive {author: {Gheorghe Zoltan}, {rcId: {234840}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+O mulțime de motive
+Să Te laud Tu mi-ai dat,
+Tu rămâi a mea iubire,
+Tu ești al meu Împărat!
+
+[c]
+Isus, Isus, ești pâinea coborâtă
+Și sufletul flămând mi-ai săturat,
+Mi-ai dat să beau din Apa Vieții sfântă
+Și viața mea, Tu, Doamne, mi-ai schimbat!
+Eu nu mă duc Isuse de la Tine,
+Ci tot mai mult eu vreau să Te iubesc,
+M-ai îmbrăcat cu-a cerului podoabe
+De aceea prin cântare Te slăvesc!
+
+[v2]
+Nimeni Doamne nu-i ca Tine,
+Zi de zi îmi dăruiești
+Bucuria Mântuirii,
+Spre potecile cerești.
+
+[v3]
+Măreție și splendoare
+Sus în cer ne pregătești
+Și în Valea de suspine
+Tu mereu ne întărești!
+
+[v4]
+Slavă, cinste și onoare,
+Împăratul meu divin,
+Ți-aduc jertfă pe altare
+Și ’naintea Ta mă-nchin!

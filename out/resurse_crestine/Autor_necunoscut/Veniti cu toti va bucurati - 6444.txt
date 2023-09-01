@@ -1,0 +1,53 @@
+[title]
+Veniti cu toti va bucurati {author: {Anonim}, {rcId: {6444}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Veniți cu toți, vă bucurați
+Puțin a mai rămas!
+Oricât ar fi crucea de grea
+Din ea să nu tăiați!
+
+[c]
+/: Încă puțin a mai rămas
+Isus din nou va reveni!
+Să-si ia mireasa sus în cer
+Prin Duhul Sfânt o va răpi! :/
+
+[v2]
+Multi au căzut sub crucea grea
+De grijuri și poveri,
+Dar Dumnezeu, cu mâna Sa
+Le-a dat din nou puteri!
+
+[c2]
+/: Tu urcă crucea până sus
+Acolo sus la Golgota!
+Unde Isus cu mâna Sa
+Îți va lua povara grea! :/
+
+[v3]
+Chiar dacă toți te părăsesc
+Când treci prin încercări
+Tu strigă-ntruna la Isus
+Și El îți dă puteri!
+
+[c3]
+/: Chiar dacă mergi spre cer plângând
+Curând toate le vei uita
+Isus Hristos cu mâna Sa
+Va șterge lacrima, nu dispera! :/
+
+[v4]
+Chiar dacă valuri vin mereu
+Și bat în barca ta
+Tu strigă-ntruna la Isus
+El e salvarea ta!
+
+[c4]
+/: El e salvarea tuturor
+Celor ce se încred în El!
+El e fiul lui Dumnezeu
+Isus Hristos Emanuel! :/

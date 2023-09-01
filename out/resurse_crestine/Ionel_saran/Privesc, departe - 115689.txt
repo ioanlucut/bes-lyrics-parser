@@ -1,0 +1,31 @@
+[title]
+Privesc departe {author: {Ionel Saran}, {rcId: {115689}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Privesc departe
+Spre-a Tale zări albastre
+Oare unde ești Tu, o, Doamne ?
+După Tine-mi plânge inima
+Dorul mă cuprinde
+Te chem la mine
+Și-n grele suspine
+Mă rog mereu la Tine
+
+[c]
+/: Ridică-mă Tu, mai sus, o, Doamne
+Ridică-mă înspre-a Tale Ceruri
+Că-n lumea aceasta n-am mângâiere
+Numai la Tine sprijin și scăpare :/
+
+[v2]
+Coboară astăzi
+Din Slava Ta măreață
+Privește astăzi pe pământ
+Că Te-așteptăm cu dor nespus
+Mereu Isuse
+Printre suspine
+Unde ești Stăpâne ?
+Strigăm la Tine!

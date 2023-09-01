@@ -1,0 +1,35 @@
+[title]
+E sarbatoare azi in adunare {author: {George Lauric}, {rcId: {138457}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+E sarbatoare azi in adunare;
+Hristos este prezent cu noi aici;
+Veniti sa ne-nchinam cu mic cu mare
+Slavitului Izvor din vesnicii.
+
+[c]
+Sa cante adunarea, sa fie sarbatoare
+Si sa ne umplem toti cu Duhul Sfant,
+/: Osana, Aleluia, cantati Domnului
+Sa se deschida poarta cerului! :/
+
+[v2]
+O binecuvantata scaldatoare
+Si-un Rege Sfant, prezent e-aici: Isus
+Smeriti-va acum sub Mana-I tare
+Si Domnul ne va inalta nespus.
+
+[v3]
+Si cerul se coboara in cantare
+Si ingerii-L slavesc cu noi pe El;
+Doar prin credinta poate fiecare
+Sa-L vada-aici prezent pe Sfantul Miel.
+
+[v4]
+Mergeti, vestiti cu foc printre popoare
+De dulcea veste-a harului de sus
+Si toti sa ni se-alature-n cantare;
+Chemati, chemati pe oameni la Isus.

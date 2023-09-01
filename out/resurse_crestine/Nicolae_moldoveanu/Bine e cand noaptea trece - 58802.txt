@@ -1,0 +1,32 @@
+[title]
+Bine e cand noaptea trece {author: {Nicolae Moldoveanu}, {rcId: {58802}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Bine e când noaptea trece
+Și când sari deodată drept
+Să te speli cu apă rece
+Și pe față și pe piept
+Ce plăcut-i fața ta
+Când e alba ca de nea
+Dar mai este încă altceva.
+
+[v2]
+E frumos întotdeauna
+Să te poți purta curat
+Cu pantofi lucind ca luna
+Și vestonul nepătat
+Și-i frumos să poți avea
+O cămasă ca de nea
+Dar mai este încă altceva.
+
+[v3]
+În zadar ți-e albă fața
+În zadar te porți curat
+Dacă nu-i spălată viața
+Dacă sufletu-o pătat
+Însă cine va spăla
+Gândul tău și viața ta
+Numai Cel jertfit pe Golgota.

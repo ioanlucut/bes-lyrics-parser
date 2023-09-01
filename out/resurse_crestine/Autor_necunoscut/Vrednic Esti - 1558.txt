@@ -1,0 +1,31 @@
+[title]
+Vrednic esti {author: {Anonim}, {rcId: {1558}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Vrednic ești să fii lăudat
+O, Miel Presfânt
+Tu Te-ai jertfit la Calvar.
+Vom cânta: Aleluia
+Ție Doamne, în veci de veci.
+
+[c]
+/: Aleluia, o, Aleluia :/
+
+[v2]
+Cei aleși cântă slava Ta
+Căci i-ai iubit și Te-ai jertfit la Calvar
+Te slăvim și te înălțăm
+Laudă-Ți dăm în veci de veci.
+
+[v3]
+Serafimii și cum heruvimii
+Care privesc spre slava Ta, o, Doamne
+Te slujesc și Te premăresc
+Pe Tine, Doamne în veci de veci.
+
+[c2]
+/: Aleluia, o, Aleluia :/
+/: Maranata, o, Maranata. :/

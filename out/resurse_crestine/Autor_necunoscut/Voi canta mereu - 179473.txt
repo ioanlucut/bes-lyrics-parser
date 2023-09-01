@@ -1,0 +1,28 @@
+[title]
+Voi canta mereu {author: {Anonim}, {rcId: {179473}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Voi cânta mereu bunătatea Lui
+Dreptatea Domnului în veci
+Căci El ma creat după chipul Lui
+Și sunt copilul Lui
+
+[c]
+Îi cânt veșnic, regelui meu
+Îi cânt veșnic, El ma salvat
+Îi cânt veșnic, Lui Dumnezeu!! El m-a mântuit!!
+
+[v2]
+Cânt Domnului, să-i cântam cu toți,
+Toți oameni de pe pământ
+Veșnic zi de zi, mântuirea Lui
+Și slava Lui e pe pământ
+
+[v3]
+Mare este Domnul și lăudat în veci
+De toți cei care îl slujesc
+Cântați-i slavă, dați-i onoare
+El va domni în veci

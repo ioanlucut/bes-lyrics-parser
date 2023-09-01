@@ -1,0 +1,13 @@
+[title]
+Bucurati-va in domnul {author: {Anonim}, {rcId: {4840}}
+
+[sequence]
+v1,c
+
+[v1]
+/: Bucurați-vă în Domnul, zic,
+Iarăși zic bucurați-vă. :/
+
+[c]
+/: Bucurați-vă, bucurați-vă,
+Iarăși zic bucurați-vă. :/

@@ -1,0 +1,29 @@
+[title]
+O casa zidita pe stanca cea tare {author: {Dorel Breabăn}, {rcId: {202178}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Zidiți-vă casa pe stâncă,
+În Domnul, mai tari temelii va avea,
+Stați în rugăciune, urmând fapte bune
+Și nimeni, nimic, nu vă va clătina.
+
+[c]
+/: O casă zidită pe stânca cea tare
+Rezistă, oricâte furtuni vin spre ea,
+Iar când va lovi-n ea șuvoiul cel mare
+Va sta în picioare și nu va cădea. :/
+
+[v2]
+Păzită să vă fie casa,
+Căci Domnul e Singur ce poate păzi.
+Sfințiți-vă-n toate, lucrați cu dreptate,
+Iar El nicidecum nu vă va părăsi.
+
+[v3]
+Mereu dragostea vă-nsoțească,
+Căci ea e mai tare ca orice zidiri.
+Isus ne arată iubirea curată:
+Prin dragoste, El cucerit-a oștiri.

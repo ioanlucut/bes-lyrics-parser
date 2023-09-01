@@ -1,0 +1,55 @@
+[title]
+Marsul eroic se va implini {author: {Nicolae Moldoveanu}, {rcId: {5846}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Marșul eroic se va împlini;
+Ca vuietul unui tunet va fi,
+Cu glasul celor ce cântă frumos,
+Cu alăuta, slăvind pe Hristos.
+
+[c]
+/: ’
+Naintea celor patru făpturi vii
+Și-a bătrânilor, se va auzi
+Cântarea cea nouă ce va zgudui
+Universul cu-a-lui galaxii... :/
+
+[v2]
+Căci Mielul stătea pe muntele sfânt,
+Cu o sută patruzeci și patru de mii
+Ce-aveau pe frunți scris Numele Său
+Și-au biruit în luptă pe Cel Rău.
+
+[c2]
+/: Nimeni nu va ști să cânte cântarea
+Ce-atât de frumos cuprinde-va zarea,
+Căci cel dintâi rod pentru Mielul Sfânt
+Martirii au fost pe pământ... :/
+
+[v3]
+În gura lor, nimic n-a fost găsit;
+Minciuna, întinarea nu i-au ademenit,
+Căci sunt fără vină și fără cusur,
+Răbdând și păstrând credința în Isus.
+
+[c3]
+/: Ei au fost aicea jos, pe pământ,
+Necazuri amare, cumplite răbdând;
+Deci și tu, frate, să fii credincios
+Doar Domnului nostru Isus Hristos! :/
+
+[v4]
+„
+Fiindcă ai păzit Cuvântul răbdării,
+Eu te voi păzi în ceasul încercării
+Care o să vină peste lumea-ntreagă,
+Pentru ca cei sfinți să creadă.”
+
+[c4]
+/: Temeti-vă azi de Dumnezeu
+Și dați-I mărire doar Lui mereu!
+Celui ce-a făcut cerul și pământul,
+Izvoarele apelor și vântul... :/

@@ -1,0 +1,35 @@
+[title]
+Dumnezeu ne cheama pe toti {author: {Gabi Ilut}, {rcId: {4246}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Dumnezeu ne cheama pe toti
+Veniti la mine zice el
+/: Viata veti primi pe vecie
+Orcinen seteaza sa vie :/
+
+[c]
+/: El cheama, El bate, El batela
+La portile incuiate
+El spune, El spunce
+Astazi veniti nu maine :/
+
+[v2]
+Mai cheama si astazi prin duhul sfant
+Intreg pamantul tresare
+/: Toti acei ce asculta chemare
+Sa nu respinga chemarea :/
+
+[v3]
+In curand sa va sfarsi
+Tot ce este sub soare
+/: Cuvintele scfinte in veci vor ramane
+Marturie pe maine :/
+
+[v4]
+Fii intelepnu neglija
+Rostul zilelor tale
+/: Sansa vieti tie data acum
+Hai pune piciorul pe drum :/

@@ -1,0 +1,40 @@
+[title]
+Biserica de-ai fi stiut {author: {Anonim}, {rcId: {244072}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Biserică de-ai fi știut,
+Harul tău de la început
+/: Nu l-ai fii putut purta,
+Căci asa-i lucrarea mea
+ /:
+
+[v2]
+Dar acuma ti-l dau ție
+Ca pe-o mare bucurie
+/: Să te desfătezi cu el
+Până vine Emanuel
+/:
+
+[v3]
+Ia și bea din apa Mea
+Care curge întruna
+/: Ea când curge te învie
+Caci așa-i apa cea vie
+/:
+
+[v4]
+De- ai înțelege taina mea
+Mult te-ai mai bucura
+/: Și te-ai bucura oricând
+Și-n durere, și-n suspin
+/:
+
+[v5]
+Asta-i harul de la Mine
+Căci vreau sa- ți fac bine
+/: Binele ce Ți-l vreau Eu
+Că-s puternic Dumnezeu!
+ /:

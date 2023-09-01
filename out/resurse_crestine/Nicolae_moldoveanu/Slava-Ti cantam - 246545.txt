@@ -1,0 +1,45 @@
+[title]
+Slava-ti cantam {author: {Nicolae Moldoveanu}, {rcId: {246545}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Slavă-Ți cântăm,
+Isuse, Domn slăvit,
+Și ne-nchinăm,
+Căci Tu ne-ai mântuit.
+Har după har
+Din Tine noi primim,
+Pe-al Tău altar
+Dorim să ne jertfim.
+
+[c]
+Slavă-Ți cântăm,
+Și-n ierni și-n primăveri,
+Slavă-Ți cântăm,
+Căci Tu ne dai puteri.
+Slavă-Ți cântăm
+Și-n plâns și-n bucurii,
+Slavă-Ți cântăm
+Și-acum și-n veșnicii.
+
+[v2]
+Slavă-Ți cântăm,
+Când drumul nu-i ușor,
+Vrem să-Ți purtăm
+Cuvântul mai cu spor.
+Rod mai bogat
+Să creștem pe pământ,
+Și-un mers curat
+S-avem spre Țelul sfânt.
+
+[v3]
+Slavă-Ți cântăm,
+Isuse-n orice vremi,
+Și Te-așteptăm
+Cu dor ca să ne chemi,
+Ca-n slava Ta
+Pe veci Tu să ne duci,
+Unde-om cânta
+Fără dureri și cruci.

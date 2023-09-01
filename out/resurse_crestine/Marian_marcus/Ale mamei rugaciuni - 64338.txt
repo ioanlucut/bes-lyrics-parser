@@ -1,0 +1,52 @@
+[title]
+Ale mamei rugaciuni {author: {Marian Marcus}, {rcId: {64338}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+În timpul vieții mele,
+De suflet nu știam.
+Din zori și până-n seară,
+Nepăsător trăiam.
+Eram robit de lume,
+În făr’ delegi trăiam,
+Tu te rugai, măicuță,
+Dar eu nu te-auzeam.
+
+[c]
+/: Ale mamei rugăciuni :/
+În viață fac mereu minuni,
+Ale mamei rugăciuni. :/
+
+[v2]
+”
+Fugi de păcat, copile!”,
+Cu lacrimi mă rugai.
+Eu n-ascultam de tine,
+Și tu, mamă. plângeai.
+Plecam, apoi, de-acasă,
+Om fără căpătâi,
+Când tu-mi strigai din poartă:
+”
+Te rog rămâi, rămâi!”
+
+[v3]
+Și mă visai, măicuță,
+Credeai că-n poartă bat,
+Dar eu eram departe,
+În pofte și-n păcat.
+Tu însă, scumpă mamă,
+De dorul meu plângeai
+Și-n rugi, tot mai fierbinte,
+La Domnul mijloceai.
+
+[v4]
+Dar iată că-ntr-o seară
+Credința ta a-nvins
+Și harul pocăinței
+În flăcări m-a cuprins.
+M-am îngrozit de mine,
+De tot trecutul meu,
+Și-am înviat, prin lacrimi,
+Om nou, din Dumnezeu.

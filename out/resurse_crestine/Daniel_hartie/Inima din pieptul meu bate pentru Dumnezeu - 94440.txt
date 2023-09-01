@@ -1,0 +1,41 @@
+[title]
+Inima din pieptul meu bate pentru dumnezeu {author: {Daniel Hartie}, {rcId: {94440}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Inima din pieptul meu
+Bate pentru Dumnezeu,
+Pentru El cântarea mea
+Ne-ncetat va răsuna!
+Din pruncie m-a ales
+Să-L slăvesc prin al meu vers,
+Mi-a dat Harul Său bogat
+Și m-a binecuvântat!
+
+[c]
+/: Cântarea mea, cântarea mea,
+Aș vrea, Isus, până la Tine,
+S-ajungă sus până la Cer
+Ca dar de multumire! :/
+
+[v2]
+Nu e mult și nici prea greu
+Să-L slăvesc pe Dumnezeu,
+Chiar de trec prin încercări
+Să-I înalț sfinte cântări!
+Chiar de sunt ades zdrobit
+Și am sufletul rănit,
+Printre lacrimi eu îți cânt
+Dumnezeul meu Cel Sfânt!
+
+[v3]
+Doamne fă cântarea mea
+Să ajungă-n fața Ta
+Ca o jertfă înălțată
+Dintr-o inimă curată!
+Într-o zi va trebui
+Să Îți cânt și-n Veșnicii,
+Sus la Nunta Mielului,
+În Țara Canaanului!

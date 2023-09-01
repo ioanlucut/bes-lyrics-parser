@@ -1,0 +1,29 @@
+[title]
+Numai tu scump isus {author: {Anca Stan}, {rcId: {227994}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Numai Tu îmi dai bucurii zi de zi
+Numai Tu scump Isus, numai Tu.
+Tu mă porți biruind prin furtuni și pustiu
+Numai Tu scump Isus, numai Tu.
+
+[c]
+/: Tu îmi ești adăpostul in vreme rea
+Nu mă tem căci eu sunt in mâna Ta.
+Mă-nconjori cu iubirea si pacea Ta
+Numai Tu scump Isus, Numai Tu :/
+
+[v2]
+Cu iubire veghezi si îndrepți umblarea mea
+Numai Tu scump Isus, numai Tu.
+Mă conduci la pășuni verzi sa îmi dai odihnă
+Numai Tu scump Isus, numai Tu.
+
+[c2]
+/: Cine altul în cer si pe-acest pământ
+Îmi cunoaște și știe orice gând?
+Tu dorești să mă vezi pe înălțimi umblând
+Numai Tu scump Isus, numai Tu! :/

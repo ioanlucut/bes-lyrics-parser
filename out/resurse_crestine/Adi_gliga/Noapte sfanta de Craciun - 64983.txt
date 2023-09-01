@@ -1,0 +1,35 @@
+[title]
+Noapte sfanta de craciun {author: {Adi Gliga}, {rcId: {64983}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Noapte sfântă de Crăciun,
+Noapte sfântă de Crăciun,
+/: Îngerii cântă Osana,
+Noapte sfântă de Crăciun. :/
+
+[v2]
+Jos în ieslea Betleem,
+Jos în ieslea Betleem,
+/: Dumnezeu la noi venise
+Jos în ieslea Betleem. :/
+
+[v3]
+Mântuire ne-a adus,
+Mântuire ne-a adus,
+/: Glorie în veci lui isus
+Mântuire ne-a adus. :/
+
+[v4]
+Să-i aducem toți în dar,
+Să-i aducem toți în dar,
+/: Inima ca mulțumire
+Să-i aducem toți în dar. :/
+
+[v5]
+Să-i cântăm cu îngerii,
+Să-i cântăm cu îngerii,
+/: Slavă, cinste și mărire
+Să-i cântăm cu îngerii. :/

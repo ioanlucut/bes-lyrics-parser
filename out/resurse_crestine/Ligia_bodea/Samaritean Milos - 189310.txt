@@ -1,0 +1,67 @@
+[title]
+Samaritean milos {author: {Ligia Bodea}, {rcId: {189310}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,c4,c6
+
+[v1]
+Un om ce cobora pe drum intunecos
+Cazut a fost in maini barbare
+Batut si jefuit lasat de oameni rai
+Sa piara pe carare
+Pe-alaturi au trecut un preot si-un levit
+Nepasatori rand pe rand
+Sarmanul a ramas sa moara langa drum,
+Cu rana sangerand
+
+[c]
+O calator zdrobit nimanui nu-i pasa
+O suflet chinuit toti in drum te lasa
+O calator zdrobit nimanui nu-i pasa
+O suflet chinuit toti in drum te lasa
+
+[v2]
+Pe drum intunecos trecea un om milos
+Samaritean cu suflet bland
+Vazandu-l chinuit pe omul ranit langa el s-a oprit
+Pe rana sangerand a pus balsam si vin
+L-a dus la han pe asin
+Platind in locul lui sa fie ingrijit pana la venirea lui
+
+[c2]
+O Samaritean iubit pe mine m-ai gasit
+O Samaritean milos esti Tu Isus Hristos
+O Samaritean iubit pe tine te-a gasit
+O Samaritean milos esti Tu Isus Hristos
+
+[v3]
+Pe-un drum intunecos si eu am ratacit
+M-a ranit greu pacatul
+M-am zbatut si am strigat nimanui nu i-a pasat
+Dar m-a gasit Samariteanul
+Pe rana ce durea balsamul Lui a pus
+Si-n casa Lui m-a adus
+A dat pe Fiul sau sa moara in locul meu
+Rascumparat sunt eu
+
+[c3]
+O Samaritean iubit pe mine m-ai gasit
+O Samaritean milos esti Tu Isus Hristos
+O Samaritean iubit pe tine te-a gasit
+O Samaritean milos esti Tu Isus Hristos
+
+[c4]
+O Samaritean iubit
+O Samaritean milos
+
+[c5]
+O Samaritean iubit pe mine m-ai gasit
+O Samaritean milos esti Tu Isus Hristos
+O Samaritean iubit pe tine te-a gasit
+O Samaritean milos esti Tu Isus Hristos
+
+[c6]
+Samaritean iubit
+pe tine te-a gasit
+esti Tu Hristos
+Isus bun si milos

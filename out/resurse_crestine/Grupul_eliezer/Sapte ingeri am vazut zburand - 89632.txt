@@ -1,0 +1,66 @@
+[title]
+Sapte ingeri am vazut zburand {author: {Grupul Eliezer}, {rcId: {89632}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c,v8,c,v9,c
+
+[v1]
+/: Șapte îngeri :/ am văzut zburând
+/: De la tronul :/ Tatălui Cel Sfânt
+/: Spre pământ :/ toți s-au îndreptat
+/: Să aducă :/ ce Domnul le-a dat.
+
+[c]
+/: Deșteptare, deșteptare,
+Sună trâmbițele îngerilor sfinți
+Deșteptare, deșteptare
+Deșteptați-vă creștini,
+Până când dormiți! :/
+
+[v2]
+/: Dumnezeul :/ Cel înfricoșat
+/: La îngeri :/ ordin El le-a dat
+/: Să răsune :/ pe întreg pământ
+/: Deșteptare :/ la poporul sfânt!
+
+[v3]
+/: Primul înger :/ când a răsunat
+/: Foc și piatră :/ și sânge-a plouat
+/: Toți copacii toata iarba verde de pe câmp
+A fost arsă-a treia parte în același timp.
+
+[v4]
+/: Apa mării :/ în sânge s-a schimbat
+Când al doilea înger din cer a sunat
+Și atunci un munte mare de foc a căzut
+Peste munți și peste stânci și le-a prăbușit
+
+[v5]
+Peste-ntinderea de apă a căzut venin
+/: O stea mare :/ numită Pelin
+Cine bea din apa mării și el va muri
+Căci va curge-n orice țară în aceeași zi.
+
+[v6]
+Și în lună și în soare și în stele sus
+A treia parte din ele lumina și-au stins
+Căci al patrulea răsunet a venit din cer
+Vocea lui părea de tunet, voce de înger.
+
+[v7]
+Și al cincilea înger când a răsunat
+/: Tot văzduhul :/ s-a întunecat
+/: Mii de cară :/ cai și călăreți,
+/: Se sculară :/ foarte îndrăzneți.
+
+[v8]
+/: Patru îngeri :/ au fost dezlegați
+Când al șaselea înger din cer a sunat
+De la o margine la alta pân’la Eufrat
+Cu-a lor trâmbițe de aur ei au răsunat.
+
+[v9]
+Cu al șaptelea înger, taina s-a sfârșit
+Taina-ascunsă cea de veacuri acum s-a-mplinit
+Peste-ntreaga omenire, peste-ntreg pământ
+Împărățește Hristos, Împăratul Sfânt!

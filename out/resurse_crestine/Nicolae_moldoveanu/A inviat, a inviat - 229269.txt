@@ -1,0 +1,23 @@
+[title]
+A inviat a inviat {author: {Nicolae Moldoveanu}, {rcId: {229269}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+A înviat, a înviat, Isus Hristos a înviat!
+Mormântul nu L-a-ntemnițat să-L țină pentru veci legat,
+căci El era nevinovat, de-aceea a-nviat!
+A înviat, a înviat, Hristos, Hristos a înviat!
+
+[v2]
+A biruit, a biruit, Isus Hristos a biruit!
+Puterea morții-a nimicit, prin moartea Lui ca răstignit,
+că-n El păcat nu s-a găsit, de-aceea-a biruit!
+A biruit, a biruit, Hristos, mormântu-a biruit!
+
+[v3]
+A înviat, a înviat, Isus Hristos a înviat!
+Pământu-ntreg s-a-nfiorat, când El mormântu-a descuiat,
+zdrobind al spaimei împărat, pe veci, cu-adevărat!
+A înviat, a înviat, Hristos, Hristos a înviat!

@@ -1,0 +1,37 @@
+[title]
+Glorie regelui {author: {Johnny Daraban}, {rcId: {192932}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Îngerii, din cer coboară,
+Să vestească-o primăvară,
+Că, în bezna ’ntunecată,
+O Lumină ne-a fost dată.
+Cel ce n-are început
+S-a ’ntrupat în chip de lut,
+El, Mesia, Dumnezeu,
+E Mântuitorul meu!
+
+[c]
+/: Regelui să ne-nchinăm,
+Inima, în dar să-I dăm,
+Să ne fie Salvator,
+Rege Sfânt, Mântuitor! :/
+
+[v2]
+Pentru omul păcătos,
+A venit Isus Hristos,
+A venit ca Miel Divin,
+Ca să fim iertați deplin.
+Ni s-a dat un legământ,
+Fiul Tatălui Preasfânt,
+Prin credință-n jertfa Sa,
+Vom intra în slava Sa!
+
+[e]
+Pe Isus îl adorăm,
+Lui ne-nchinăm și-L lăudăm,
+El, Mesia, Dumnezeu,
+E Mântuitorul meu!

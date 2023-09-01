@@ -1,0 +1,29 @@
+[title]
+Cand problemele vietii m-apasa {author: {Alexandru Groza}, {rcId: {811}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când problemele vieții m-apasă
+Și când sufletul mi-e obosit
+Eu suspin după pacea Ta sfântă
+Vino Doamne în inima mea.
+
+[c]
+Scump Isus, Domnul meu,
+Fii aproape de mine mereu
+Zi de zi, ceas cu ceas,
+Luminează-mi viața mea.
+
+[v2]
+Când Te chem Doamne în rugăciune
+Ia aminte la strigătul meu
+Tu apleacă-Ți urechea spre mine
+Eu în Tine mă-ncred Domnul meu.
+
+[v3]
+Știu că eu mai greșesc câteodată
+Știu că nu sunt așa cum voiești.
+Te rog Doamne sfințește-mi viața
+Credincios Ție vreau să-Ți slujesc.

@@ -1,0 +1,57 @@
+[title]
+Cand trec prin ape tulburi {author: {Nicolae Moldoveanu}, {rcId: {244401}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c2
+
+[v1]
+Când trec prin ape tulburi,
+Și lupt cu valuri grele,
+Isuse numai Tu-mi ești,
+Limanul vieții mele!
+
+[c]
+Limanul vieții mele,
+Limanul vieții mele,
+Rămâi doar Tu Isuse,
+Limanul vieții mele!
+
+[v2]
+Când trec prin întuneric,
+Și lupt cu neguri grele,
+Isuse numai Tu-mi ești,
+Lumina vieții mele!
+Lumina vieții mele...
+
+[v3]
+Când trec prin suferință,
+Și lupt cu chinuri grele,
+Isuse numai Tu-mi ești,
+Alinul vieții mele!
+Alinul vieții mele...
+
+[v4]
+Când zac zdrobit de trudă,
+Și-nfrânt de munci prea grele,
+Isuse numai Tu-mi ești,
+Odihna mea prin ele!
+Odihna vieții mele...
+
+[v5]
+Când pierd averi prea scumpe
+Și-ncerc dureri prea grele,
+Isuse numai Tu-mi ești,
+Comoara vieții mele.
+Comoara vieții mele...
+
+[v6]
+Când voi sfârși-alergarea,
+Și timpul slujbei grele,
+lsus Tu fi-vei veșnic,
+Răsplata vieții mele!
+
+[c2]
+Răsplata vieții mele,
+Răsplata vieții mele,
+Rămâi pe veci Isuse,
+Răsplata vieții mele!

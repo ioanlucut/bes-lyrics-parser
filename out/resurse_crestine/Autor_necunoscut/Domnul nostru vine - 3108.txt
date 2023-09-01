@@ -1,0 +1,35 @@
+[title]
+Domnul nostru vine {author: {Anonim}, {rcId: {3108}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Domnul nostru vine, Isus este gata
+Și la fiecare ne va da răsplata
+El vine cu slavă și multă mărire
+Să ne ducă acasă-n sfânta moștenire.
+
+[c]
+/: Domnul va veni
+Mult nu va mai zăbovi
+Iar pe cei ce-s pregătiți
+Îi va duce-n veșnicii. :/
+
+[v2]
+Fericiți sunt sfinții care azi veghează
+Și-a lor haină albă, sfântă și-o păstrează
+Ferice de aceia care plâng pe cale
+Și așteaptă-ntruna barca de salvare.
+
+[v3]
+Vai de-aceia care haina și-o pătează
+Vai de-aceia care astăzi nu veghează
+Vai ce-ntunecime și ce suferință
+La toți acei care și-au pierdut credința.
+
+[v4]
+Deci te-ntreabă frate, cum stai cu credința
+Și tu soră scumpă, unde-i umilința
+Căci Isus ne cere roada de credință
+Ca să fim ca sfinții în a Sa grădină.

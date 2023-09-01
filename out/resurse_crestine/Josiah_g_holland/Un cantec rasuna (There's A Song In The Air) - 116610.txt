@@ -1,0 +1,29 @@
+[title]
+Un cantec rasuna (there s a song in the air) {author: {Josiah G. Holland, Traducere RO}, {rcId: {116610}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Un cântec răsună! O stea se ivește!
+O mamă se roagă! Și-un Copilaș plânge!
+Printre stele răsună un cânt minunat
+Că-ntr-o iesle-n Betleem e un Împărat.
+
+[v2]
+Bucuria din cer vine jos pe pământ
+Pruncul din Betleem este Domnul cel sfânt;
+Împreună cu îngerii, voioși cântăm
+Pe Isus, Împăratul, Îl glorificăm.
+
+[v3]
+Din cerești străluciri, o lumină-a venit
+Aducând izbăviri celui slab și-ostenit;
+Inimi bune, voioase, vestesc minunat
+Că Isus, Pruncul slavei, e Domn, Împărat.
+
+[v4]
+Bucuroși, noi cântăm, mângâiați de Isus
+Pe Domnul lăudăm cu mulțimea de sus;
+Vestea bună aducem, că-n haru-I de preț
+Noi găsim mântuirea Regelui măreț.

@@ -1,0 +1,36 @@
+[title]
+Mai sus de cerul instelat {author: {Nicolae Moldoveanu}, {rcId: {5465}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Mai sus de cerul înstelat,
+Am un Părinte adevărat:
+Este Fiul lui Dumnezeu,
+Isus, Mântuitorul meu.
+
+[c]
+/: El e al meu, căci m-a iubit;
+Cu mine e necontenit.
+Slavă multă-i în jurul Său,
+Dar ce-i mai scump: Isus e-al meu! :/
+
+[v2]
+În locul meu, S-a răstignit,
+M-a iertat și m-a mântuit;
+Deci, bucuros, mă-nchin Lui, eu
+Și-s fericit că e al meu.
+
+[v3]
+În inima mea-i fac un loc
+Și nu va mai pleca deloc;
+Voi fi pe veci copilul Său;
+Eu sunt în El, căci El e al meu.
+
+[v4]
+Curând, când El va reveni
+Și slava Lui o voi privi
+Voi zice, strâns la pieptul Său:
+„
+Acum, pe veci, Hristos e-al meu!”

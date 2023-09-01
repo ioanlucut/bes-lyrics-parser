@@ -1,0 +1,28 @@
+[title]
+Se apropie in graba o zi minunata {author: {Dorel Breabăn}, {rcId: {178050}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Se-apropie-n grabă o zi minunată,
+O zi glorioasă, vestită să vină,
+Speranța-ntâlnirii, în Țara iubirii,
+Cânta-vom cântarea sublimă!
+
+[c]
+/: Ce strălucire, ce întâlnire
+Să-L vezi pe Isus în strai de lumină,
+Să fii lângă El, în sfânta-I grădină! :/
+
+[v2]
+Mulțimi adunate, în alb îmbrăcate,
+Vor fi toate gata să cânte cântarea!
+Arhangheli și îngeri, vor sta să asculte
+Când imnul străbate-va zarea!
+
+[v3]
+Va-ncepe cântarea, va-ncepe serbarea
+Iar noi despărțiți n-om fi niciodată.
+Cei ce I-au dus dorul, v-or fi toți acolo
+Pe veci, o, ce zi minunată!

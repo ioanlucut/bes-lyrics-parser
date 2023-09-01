@@ -1,0 +1,33 @@
+[title]
+Gandul meu este la tine {author: {Familia Maftei}, {rcId: {184022}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ți-aud vocea-deseori
+Cum șoptește ne-ncetat.
+Ea mă-ndeamnă-n rugăciune
+Iar cel rău înspre păcat.
+
+[c]
+/: Gândul meu este la Tine,
+Doamne, Tu ești stâncă mea.
+/: Necazul nu am cui spune,
+La Tine e speranța mea. :/
+/: Milă ai o, sfinte Tată,
+Căci eu sunt un păcătos.
+/: Vreau să-Ți fiu în viața toată
+Umil și credincios. :/
+
+[v2]
+Astăzi Biblia mă-nvață
+Să trăiesc cu toți frumos.
+Să n-ascult orice povață
+Ce mă atrage-n jos.
+
+[v3]
+Iartă-mă Isus, te rog,
+Pentru nepăsarea mea.
+Nu ține-n seamă făr’delegea
+Curățește inima mea.

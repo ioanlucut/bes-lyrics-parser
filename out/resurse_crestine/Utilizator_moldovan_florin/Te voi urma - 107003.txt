@@ -1,0 +1,35 @@
+[title]
+Te voi urma {author: {Utilizator Moldovan Florin}, {rcId: {107003}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Unii spun despre dragoste că-i un soare strălucitor
+Și apune, căci e vremea ei de-a se-ascunde după nori,
+Dar tu pentru mine ești o stea, ținută-n palma mea!
+Chiar mai mult de-atât, ești un mister în inima mea!
+Amândoi de mâna pășim spre altar
+Cu emoție în fața celor dragi
+Să rostim din inimă un ”
+Da, te voi urma!”
+
+[c]
+Unde vei fi, voi fi și eu cu tine-alături tot mereu!
+Ești răsăritul meu din zi; tu ești pecetea inimii!
+Ești darul lui Dumnezeu pentru mine și Îi mulțumesc.
+Pentru toate-ți rostesc acum, un sincer ”
+Te iubesc!”
+
+[v2]
+Credincios am să-ți rămân pe acest drum ce l-am pășit
+Și-ți promit că te voi iubi cu dragoste ce n-are sfârșit!
+Tot ce-ți dorești de mai de preț, voi fi gata să-ți ofer!
+Ești frumoasă, mireasa mea, radiezi pe chipul tău gingaș!
+Amândoi de mână pășim spre altar
+Cu multă emoție în fața celor dragi
+Să rostim din inimă un ”
+Da, te voi urma!”
+
+[e]
+Te iubesc! Te iubesc! Te iubesc!

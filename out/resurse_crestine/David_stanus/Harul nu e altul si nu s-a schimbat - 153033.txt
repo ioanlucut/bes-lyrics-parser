@@ -1,0 +1,29 @@
+[title]
+Harul nu e altul si nu s-a schimbat {author: {David Stănuș}, {rcId: {153033}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cine mai vrea astăzi în lumină
+Să trăiască zi de zi, mereu,
+Cine vrea să-i cânte osanale,
+El fericit va fi cu Dumnezeu.
+
+[c]
+Harul nu e altul și nu s-a schimbat
+Dacă viața ta e trăită în păcat
+Nu te înșela, nu L-ai cunoscut
+Pe Isus de la-nceput.
+
+[v2]
+Domnul ne-a răscumpărat prin jerfă,
+În lumină haidem să trăim,
+Harul Său ne-aduce mântuire,
+Vrem pe Dumnezeu să-L preamărim.
+
+[v3]
+Cine cuvântul astăzi înțelege,
+Va fugi într-una de păcat
+Că păcatul este despărțire
+De Domnul și fi-va condamnat.

@@ -1,0 +1,26 @@
+[title]
+Tara mea tara mea {author: {Speranța și prietenii}, {rcId: {203349}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+Țara mea, țara mea, mult doresc sa ajung in ea
+Tara mea loc iubit de Isus pregătit.
+/: Țara mea, țara mea, mult doresc sa ajung in ea
+Tara mea loc iubit de Isus pregătit. : \
+
+[v1]
+Acolo nu va fi durere, va fi doar pace si bucurie
+Acolo nu vor fi necazuri, va fi iubire si armonie,
+Va fi iubire si armonie.
+
+[v2]
+Acolo ură nu va fi, nici foamete si nici război
+Va fi doar dragoste si veselie, Isus Hristos va fi pe veci cu noi,
+Isus Hristos va fi pe veci cu noi.
+
+[v3]
+Acolo moarte nu va fi, in Tara Sfântă vreau sa fiu si eu
+In tara dincolo de nori, voi fi pe veci cu Dumnezeu
+Voi fi pe veci cu Dumnezeu.

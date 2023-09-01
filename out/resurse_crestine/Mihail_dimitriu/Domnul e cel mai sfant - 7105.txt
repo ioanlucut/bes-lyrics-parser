@@ -1,0 +1,51 @@
+[title]
+Domnul e cel mai sfant {author: {Mihail Dimitriu}, {rcId: {7105}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c
+
+[v1]
+Prin lumea rea eu rătăceam,
+Păcatului eram fidel,
+Făceam doar ceea ce voiam,
+Plăceri aveam drept țel.
+
+[c]
+Domnul e cel mai sfânt
+În cer și pe Pământ.
+
+[v2]
+Pe calea largă eu pășeam,
+Când Domnul mintea mi-a deschis.
+Pe Domnul nu Îl cunoșteam
+Și nici Cuvântu-I scris.
+
+[v3]
+La pocăință m-a chemat,
+Păcatele să-mi părăsesc.
+De când pe Domnul L-am aflat
+Mereu eu Îl slăvesc.
+
+[v4]
+Pe calea-ngustă eu pășesc
+De când în slujbă m-a chemat.
+Cu Domnu-n inimă trăiesc
+Și daruri El mi-a dat.
+
+[v5]
+Călăuzit mă las de El;
+Ființa mea e-n mâna Sa.
+Eu doar pe Domnul-am model;
+El nu mă va lăsa.
+
+[v6]
+Doar Domnul e păstorul meu;
+Nespus de mult eu Îl iubesc.
+Eu mă încred în Dumnezeu,
+Și liniștit trăiesc.
+
+[v7]
+Nădejdea mea de zi cu zi,
+Ce mă-ntărește-n drumul meu,
+E că voi fi în veșnicii
+Doar lângă Dumnezeu.

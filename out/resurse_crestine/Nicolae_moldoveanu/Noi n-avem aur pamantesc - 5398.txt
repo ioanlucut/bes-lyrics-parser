@@ -1,0 +1,65 @@
+[title]
+Noi n-avem aur pamantesc {author: {Nicolae Moldoveanu}, {rcId: {5398}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,v5,c5,v6,c6
+
+[v1]
+Noi n-avem aur pământesc,
+Nici moșteniri ce se-nvechesc,
+Dar mai bogați pe lume nu-s:
+/: Comoara noastră e Isus! :/
+
+[c]
+/: E Isus, :/
+Comoara noastră e Isus!
+
+[v2]
+Noi n-avem scuturi, nici săgeți
+Să apere-ale noastre vieți,
+Dar nu-i alt mers mai curajos:
+/: Nădejdea noastră e Hristos! :/
+
+[c2]
+/: E Hristos, :/
+Nădejdea noastră e Hristos!
+
+[v3]
+Noi n-avem săbii de război
+Și nici puteri lumești cu noi,
+Dar nu-i tărie mai presus:
+/: Puterea noastră e Isus! :/
+
+[c3]
+/: E Isus, :/
+Puterea noastră e Isus!
+
+[v4]
+Noi n-avem nume lăudat,
+Nici scaun-nalt, nici loc bogat,
+Dar nu-i alt chip mai luminos:
+/: Mărirea noastră e Hristos! :/
+
+[c4]
+/: E Hristos, :/
+Mărirea noastră e Hristos!
+
+[v5]
+Noi n-avem ținte sau dorinți
+Ce pun pe alții-n suferinți,
+Dar nu-i un Adevăr mai sus:
+/: Solia noastră e Isus! :/
+
+[c5]
+/: E Isus, :/
+Solia noastră e Isus!
+
+[v6]
+Și pentru tot ce-am fi lucrat
+Mai bun și vrednic de urmat,
+Noi n-așteptăm nici un folos:
+/: Răsplata noastră e Hristos! :/
+
+[c6]
+/: E Hristos, :/
+Răsplata noastră e Hristos!

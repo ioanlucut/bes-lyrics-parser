@@ -1,0 +1,41 @@
+[title]
+Cuvantul tau etern stapan {author: {Traian Dorz}, {rcId: {228662}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Cuvântul Tău, Etern Stăpân,
+E mai statornic decât toate,
+A Tale-orânduiri rămân
+Pe veci de veci nestrămutate.
+
+[c]
+Cuvânt Slăvit, doar tu mi-ești far,
+Avânt, putere și iubire,
+Și scut, și-alin, și drum, și har
+Spre slavă și desăvârșire!
+
+[v2]
+Cuvântul Tău, Iisuse, -n veac
+Este-adevăr și părtășie
+Când toate pier și se desfac
+E-n veci curata Apă Vie.
+
+[v3]
+Cuvântul Tău, Duhule Sfânt,
+E frumusețe și putere,
+Etern și dulce crezământ
+Spre Sărbătoare și-nviere.
+
+[v4]
+Cuvânt Slăvit, lumina mea,
+Tu-mi crești curat viața nouă,
+Revarsă-mi zilnic peste ea
+A prospețimii tale rouă.
+
+[v5]
+Sfânt Adevăr Desăvârșit,
+Fii-mi toiag și scut, și soare
+Pân’ la hotarul strălucit
+De unde-i veșnic Sărbătoare!

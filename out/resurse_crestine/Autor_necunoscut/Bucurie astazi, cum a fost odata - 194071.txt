@@ -1,0 +1,35 @@
+[title]
+Bucurie astazi cum a fost odata {author: {Anonim}, {rcId: {194071}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Bucurie astăzi,
+Cum a fost odată,
+/: Când în noaptea-ntunecoasă,
+Lumina se arată :/
+
+[v2]
+Căci unde născuse,
+Fecioara Maria,
+/: Steaua sus se ridicase,
+Răspândind lumina :/
+
+[v3]
+Îngerul zbura,
+Și se închina,
+/: Iar Maria ce-L născuse,
+Slavă, cinste Îi aduse :/
+
+[v4]
+Îngerii căntau,
+Si Îl lăudau,
+/: Slavă Lui în cerul Sfânt,
+Pace fie pe pământ :/
+
+[v5]
+Noi toți să Îi căntăm,
+Și să-L lăudăm,
+/: Și la fel ca și păstorii,
+Lui să ne închinăm :/

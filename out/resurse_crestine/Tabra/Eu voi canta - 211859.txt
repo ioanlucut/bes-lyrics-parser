@@ -1,0 +1,27 @@
+[title]
+Eu voi canta {author: {Tabra 447}, {rcId: {211859}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Când mă aflu-n slăbiciune
+Harul Tău îmi e de-ajuns
+Tu nu pleci de lângă mine
+Nu rămâi ascuns
+
+[c]
+Eu voi cânta și voi dansa
+În Tine mi se bucură inima
+Isus Hristos, cel mai frumos
+Sunt copleșit de bunatatea Ta
+
+[v2]
+Inima-mi faci să tresalte
+Mă inundă pacea Ta
+Bucuria Ta mă îmbracă
+E tăria mea
+
+[e]
+Mă-nconjori cu cântări de laudă
+Mă-nconjori cu cântări de laudă

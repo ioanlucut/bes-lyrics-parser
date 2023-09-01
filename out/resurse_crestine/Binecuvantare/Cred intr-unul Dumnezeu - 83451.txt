@@ -1,0 +1,39 @@
+[title]
+Cred intr-unul dumnezeu {author: {Binecuvântare}, {rcId: {83451}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Atâta timp Tu m-ai chemat
+Și cu răbdare-Ai așteptat
+Să înțeleg chemarea Ta
+Și să-ți deschid inima mea.
+
+[c]
+Cred într-unul Dumnezeu,
+Cred în Isus Fiul Său,
+Cred în Duhul Său cel sfânt,
+Cred în Noul Legământ,
+Cred că azi mai este har
+Și mântuire am în dar,
+Cred că Isus a murit
+Și pe noi ne-a mântuit.
+
+[v2]
+Am înțeles chemarea Ta
+Și am deschis eu inima,
+Atâta pacea-ai pus în ea
+Cum nimenea nu-mi poate da.
+
+[v3]
+Am acceptat chemarea Ta
+Și-am hotărât să spun DA,
+Nu, înapoi eu nu voi da
+Ci înainte-i ținta mea.
+
+[e]
+Cred că azi mai este har
+Și mântuire am în dar,
+Cred că Isus a murit
+Și pe noi ne-a mântuit.

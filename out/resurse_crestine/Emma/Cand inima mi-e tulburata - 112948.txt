@@ -1,0 +1,33 @@
+[title]
+Cand inima mi-e tulburata {author: {Emma}, {rcId: {112948}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Când inima mi-e tulburată
+Și când sunt căzut la pământ
+Nu găsesc nicio speranță
+De nicăieri, de niciunde,
+Zăresc o rază de lumină
+În bezna nopții reci.
+Străbate umbrele uitării,
+Să-mi lumineze gândul.
+
+[c]
+Doamne, am ajuns prea departe de Tine
+Doamne, am ajuns să Te chem cu suspine
+
+[v2]
+Îmi amintesc de Tine, Doamne
+Și cred că încă mă iubești
+Doresc să simt o mângăiere
+De undeva dinspre ceruri
+Îmi recunosc acum greșeala,
+În fața Ta mă proștern
+Să găsesc acum iertare,
+La Tine, Domnul meu.
+
+[c2]
+Doamne, am ajuns mai aproape de Tine,
+Doamne, am ajuns să-Ți zâmbesc printre suspine.

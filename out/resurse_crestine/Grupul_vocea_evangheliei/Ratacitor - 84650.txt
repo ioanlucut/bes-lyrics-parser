@@ -1,0 +1,35 @@
+[title]
+Ratacitor {author: {Grupul Vocea Evangheliei}, {rcId: {84650}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Rătăcitor prin căile pustii,
+Pe drumuri tot târzii rătăcitor,
+Rătăcitor pe un pământ străin,
+Prin lume peregrin rătăcitor.
+
+[c]
+Dar El m-a găsit El te-a găsit
+El mâna mi-a întins Ți-a întins
+Pe brațul Său m-a luat El te-a luat
+El m-a răscumpărat Răscumpărat
+
+[v2]
+Dar m-a găsit El te-a găsit
+El mâna mi-a întins Ți-a întins
+Pe brațul Său m-a luat El te-a luat
+El m-a răscumpărat
+
+[v3]
+Rătăcitor viața-mi iroseam,
+Zadarnic alergam rătăcitor,
+Rătăcitor de grijuri copleșit
+De toate doborât rătăcitor.
+
+[v4]
+Rătăcitor de-atunci nu am mai fost,
+Isus mi-a dat un rost îndurător.
+Aleluia! eu liber pot cânta,
+Mi-e plină inima: Aleluia!

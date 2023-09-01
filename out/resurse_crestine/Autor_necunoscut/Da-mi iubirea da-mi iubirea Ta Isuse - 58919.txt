@@ -1,0 +1,35 @@
+[title]
+Da-mi iubirea da-mi iubirea ta isuse {author: {Anonim}, {rcId: {58919}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Dă-mi iubirea, dă-mi iubirea Ta Isuse
+Dă-mi iubirea, dă-mi iubirea Ta Isus
+/: Osana, aleluia, dă-mi Isus iubirea Ta
+De acum și până-n veci, aleluia! :/
+
+[v2]
+Dă-mi dragostea, dă-mi dragostea Ta Isuse
+Dă-mi dragostea, dă-mi dragostea Ta Isus
+/: Osana, aleluia, dă-mi Isus dragostea Ta
+De acum și până-n veci, aleluia! :/
+
+[v3]
+Dă-mi credință, dă-mi credință Ta Isuse
+Dă-mi credință, dă-mi credință Ta Isus
+/: Osana, aleluia, dă-mi Isus credința Ta
+De acum și până-n veci, aleluia! :/
+
+[v4]
+Dă-mi lumina, dă-mi lumina Ta Isuse
+Dă-mi lumina, dă-mi lumina Ta Isus
+/: Osana, aleluia, dă-mi Isus lumina Ta
+De acum și până-n veci, aleluia! :/
+
+[v5]
+Golgota, Golgota, o, Golgota
+Golgota, Golgota, o, Golgota
+/: De acolo din Golgota ne vine izbăvirea
+De acum și până-n veci, aleluia! :/

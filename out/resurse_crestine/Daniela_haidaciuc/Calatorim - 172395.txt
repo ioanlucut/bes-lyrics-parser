@@ -1,0 +1,53 @@
+[title]
+Calatorim {author: {Daniela Haidaciuc}, {rcId: {172395}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Călătorim pe-a vieții mare,
+În larg prin valuri-înaintăm,
+Ne-așteaptă răsplătirea mare,
+Acasă dincolo de tărm!
+
+[c]
+Noi suntem călători în lume
+Vâslim spre-o altă patrie,
+Aici nimic nu ne mai ține
+A noastră casă-n ceruri e!
+
+[v2]
+Vâslim prin noapte și furtună,
+Cu valurile ne luptăm,
+Vedem în zare-a noastră stâncă,
+Acolo vrem să ancorăm!
+
+[c2]
+Această stâncă ne e țelul
+Această stâncă-i Dumnezeu,
+Spre-această stâncă noi-’nainte
+Vâslim oricât ar fi de greu!
+
+[v3]
+Noi pe catarg ne-am pus drapelul
+De dragoste și sânge sfânt,
+Ne ocrotește-acest sfânt sânge
+Chiar prin furtuni, prin ploi și vânt!
+
+[c3]
+Spre Domnul meregem înainte
+De-ar fi cu viața să plătim,
+Ai Lui suntem și-n foc și-apă
+Chiar de trăim sau de murim!
+
+[v4]
+Noi n-avem frică de furtună,
+Nici de război, nici de Satan,
+Noi răspândim solia sfântă,
+Veniți cu noi spre Canaan!
+
+[c4]
+Veniți căci vă așteaptă cerul,
+Veniți în barca lui Isus,
+Veniți să va-ntâlniți cu Domnul
+Cât soarele nu a apus!

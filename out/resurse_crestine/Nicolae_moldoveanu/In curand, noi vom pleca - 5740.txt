@@ -1,0 +1,35 @@
+[title]
+In curand noi vom pleca {author: {Nicolae Moldoveanu}, {rcId: {5740}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+În curând noi vom pleca,
+O ce fericită zi va fi
+Pe cei dragi vom revedea,
+Când ne vom reîntâlni
+
+[c]
+Vine ziua fericită,
+Toți vom părăsi pământul
+Aleluia ni se cântă,
+Când ne vom reîntâlni
+
+[v2]
+Trec pe malul celălalt,
+O ce fericită zi va fi
+Cerul se deschide larg,
+Când ne vom reîntâlni
+
+[v3]
+Vreau la Isus să mă duc,
+O ce fericită zi va fi
+Și în brațu-I să m-arunc,
+Când ne vom reîntâlni
+
+[v4]
+La picioarele-Ți vom sta
+O ce fericită zi va fi
+Toți un cântec vom cânta,
+Când ne vom reîntâlni

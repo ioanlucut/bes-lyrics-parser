@@ -1,0 +1,35 @@
+[title]
+Plinatatea duhului tau sfant {author: {Nicolae Moldoveanu}, {rcId: {1904}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Plinătatea Duhului Tău Sfânt
+Dă-ne-o necurmat în viață,
+Doamne, să vestim pe-acest pământ
+Evanghelia măreață!
+
+[c]
+Plini de Duhul Sfânt, plini de Duhul Sfânt,
+Fă-ne, Doamne, pentru Tine
+Totdeauna pe pământ,
+Pentru Tine, totdeauna pe pământ!
+
+[v2]
+Când spre Tine ruga ne-o-ndreptăm,
+Doamne, fă-ne-o-nflăcărată,
+Ca în urma ei să arătăm
+Umplere de Duh curată!
+
+[v3]
+Orișiunde și oricând să fim
+Plini de Duh și de credință,
+Ca-n lucrarea Ta să propășim
+După veșnica-Ți voință.
+
+[v4]
+Plinătatea Duhului Tău Sfânt
+Necurmat să ne-nsoțească,
+Ca trăirea noastră pe pământ
+Pentru Tine să rodească!

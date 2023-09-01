@@ -1,0 +1,35 @@
+[title]
+Faclie pentru pasii mei {author: {Nicolae Moldoveanu}, {rcId: {246191}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Făclie pentru pașii mei,
+Lumină pe a mea cale,
+Și candelă în noapte mi-e
+Cuvântul Cărții Tale.
+
+[c]
+Ajută-mi, Doamne, zi de zi,
+Neclătinat să-Ți pot păzi,
+Cu dragoste pân-Ia mormânt
+Cuvântul Tău cel sfânt.
+
+[v2]
+Putere-n slăbiciunea mea,
+Alinu-n plâns fierbinte,
+Și scutul meu e-în lupta grea
+Cuvântul Cărții sfinte.
+
+[v3]
+Înflăcărare-n glasul meu
+Credinței mele zale,
+Iubirii mele-i foc mereu
+Cuvântul Cărții Tale.
+
+[v4]
+Nădejdea dulce-n moartea mea
+Răsplata mea ’nainte.
+Și pace-n tot ce va urma-i
+Cuvântul Cărții sfinte.

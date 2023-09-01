@@ -1,0 +1,22 @@
+[title]
+Spirit al lui dumnezeu {author: {Anonim}, {rcId: {5070}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Spirit al lui Dumnezeu,
+Azi cobori la noi.
+
+[c]
+Sfinte Spirit, umple-mi viața;
+Spirit al lui Dumnezeu,
+Azi cobori la noi.
+
+[v2]
+Spirit al lui Dumnezeu,
+Umple-mi inima.
+
+[v3]
+/: Spirit al lui Dumnezeu,
+Azi cobori la noi. :/

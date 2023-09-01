@@ -1,0 +1,29 @@
+[title]
+Sa stai pe turn si sa veghezi {author: {Daniela Haidaciuc}, {rcId: {74598}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Să stai pe turn și să veghezi,
+Să vezi ce îți va spune Domnul,
+În miez de noapte să lucrezi
+Și-n zori să nu te prindă somnul.
+
+[c]
+/: Să stai pe turn și să veghezi,
+Pentru Domnul să lucrezi!
+Pe turn să stai, pe turn să stai,
+Dacă vrei s-ajungi în Rai! :/
+
+[v2]
+Sunt frați care, în inima lor,
+Au răni și lacrimi și durere...
+Nu vrei tu, frate, să le-alini
+Ca Habacuc, stând în veghere?
+
+[v3]
+Sunt cei ce i-a-nșelat cel Rău
+Și astfel i-a târât spre lume
+Poți să-i întorci la Dumnezeu
+Pe turn veghind în rugăciune!

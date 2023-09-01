@@ -1,0 +1,29 @@
+[title]
+Nu meritam {author: {Monica Turtoi}, {rcId: {212516}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Nu meritam să-mi dai vedere,
+Să-mi dai auz sau să-mi dai glas,
+Nu meritam a Ta putere,
+Printre cei vii sa fiu rămas.
+
+[c]
+Mi-ai dăruit cu bunătate,
+Ce-aveai mai bun mi-ai dăruit,
+Și știu că pentru-acestea toate,
+Eu prea puțin Ți-am mulțumit.
+
+[v2]
+Nu meritam a Ta iertare,
+Să-mi ștergi păcatul meu cumplit,
+Dar Tu in dragostea-Ți cea mare,
+Pentru mine ai murit.
+
+[v3]
+Nu meritam a Ta iubire,
+Ce-ai arătat-o la Calvar
+De-aceea vin cu mulțumire,
+Pentru tot ce mi-ai dat in dar.

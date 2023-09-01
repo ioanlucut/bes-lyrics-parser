@@ -1,0 +1,35 @@
+[title]
+Spre cer incerc a ma sili {author: {Charles H.Gabriel}, {rcId: {74401}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Spre cer încerc a mă sili,
+Pășind mai sus din zi în zi;
+Și-n calea mea rugându-mă:
+Doamne, mai sus ridică-mă!
+
+[c]
+Doamne, ridică-mă și-oi sta,
+Și prin credință voi umbla.
+Spre loc mai-nalt ajută-mă,
+Doamne, mai sus ridică-mă!
+
+[v2]
+Doresc să mă ferești, Isus,
+De îndoieli și chip nespus.
+Deși acolo mulți pășesc,
+Eu un loc mai înalt doresc.
+
+[v3]
+Doresc a fi în depărtări,
+Unde nu-s chinuri nici dureri;
+Acolo unde cântă-n cor,
+Sus, toată ceata sfinților.
+
+[v4]
+Doresc a mă urca mai sus,
+Ca să văd slava lui Isus!
+Și de aceea cer mereu:
+Ajută-mi, Isus, Domnul meu!

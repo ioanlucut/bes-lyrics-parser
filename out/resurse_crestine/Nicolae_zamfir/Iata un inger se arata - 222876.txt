@@ -1,0 +1,29 @@
+[title]
+Iata un inger se arata {author: {Nicolae Zamfir}, {rcId: {222876}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Iată un inger se arată
+La pastori de pe câmp
+Sa aducă vestea bună
+Și celor de pe pamant.
+
+[c]
+Vestea bună v-am adus
+Sa nascut Domnul Isus
+Pace sfăntă pe pământ
+Se-aud îngeri cântând
+
+[v2]
+Oare cum noi vom cunoaște
+Ascest mare Împarat
+Veți găsi un prunc în iesle
+În scutece înfăsat
+
+[v3]
+Am găsit Pruncul promis
+Așa cum îngerul a zis
+Am găsit noi Mântuirea
+Slavă Domnului Mesia

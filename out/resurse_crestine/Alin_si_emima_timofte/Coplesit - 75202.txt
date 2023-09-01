@@ -1,0 +1,31 @@
+[title]
+Coplesit {author: {Alin și Emima Timofte}, {rcId: {75202}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Ți-aduc, Isus, o laudă,
+Vin din nou, m-aplec la al Tău tron
+Ești înălțat, la Tine vin
+Vreau să stau ascuns în umbra Ta.
+Rămân uimit de gloria Ta,
+Iubirea Ta îmi umple inima
+Cu îngerii eu vreau să cânt
+În Tine bucurie am găsit.
+
+[c]
+Adorare, glorie,
+Cu bucurie-aduc Isuse
+Credincios, cu har m-ai copleșit
+Deplin..
+În duh și-n adevăr voi sta
+Să te-onorez cu lauda mea
+/: Al Tău sunt :/
+Isus, al Tău har m-a copleșit.
+
+[v2]
+Rămân uimit de gloria Ta
+Iubirea Ta îmi umple inima
+Cu îngerii eu vreau să cânt
+În Tine bucurie am găsit.

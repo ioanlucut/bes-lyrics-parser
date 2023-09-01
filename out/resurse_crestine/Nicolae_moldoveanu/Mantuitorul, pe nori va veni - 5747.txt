@@ -1,0 +1,35 @@
+[title]
+Mantuitorul pe nori va veni {author: {Nicolae Moldoveanu}, {rcId: {5747}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Mântuitorul, pe nori, va veni
+Ca să-i răpească pe ai Săi copii
+Care, cu mult dor, ei L-au așteptat
+Așa cum odată Domnul i-a invățat.
+
+[c]
+Încă răsună, pe pământ,
+Vestea că Isus veni-va-n curând;
+Deci, noi toți, să strigăm, cu dor nespus:
+Vin’, Isuse, să ne răpești la Tine sus!
+
+[v2]
+În cer vom vedea-vom Fața Domnului,
+Căci toți vom fi conduși de mâna Lui
+Și vom vedea frumuseți de nespus.
+O, ce fericire-i să fii, acolo, sus!
+
+[v3]
+Veseli ’nainte noi mergem mereu,
+Cântând voiosi laudă lui Dumnezeu;
+Imnuri de slavă, în ceruri, răsun;
+Îngerii Îl laudă pe Domnul cel bun.
+
+[v4]
+Sus în mărire, Tu, Doamne, ne-aștepți
+Unde în juru-Ți stau numai cei drepți...
+Vino, după a Ta făgăduință!
+Noi Te așteptăm, cu deplină credință.

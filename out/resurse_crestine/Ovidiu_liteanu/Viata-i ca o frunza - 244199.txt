@@ -1,0 +1,37 @@
+[title]
+Viata-i ca o frunza {author: {Ovidiu Liteanu}, {rcId: {244199}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Viața-i ca o frunză legănată-n vânt
+Când se ofileste cade la pamant
+ /: Cade pe-o carare sau in vai adanci
+Iata s-a dus viata dupa care plângi
+/:
+
+[c]
+/: Sunt in mana lui Isus
+Stiu ca ma va duce sus
+Sus in rai in vesnicii
+Niciodata nu m-oi ofili
+ /:
+
+[v2]
+Viata-i ca mireasma florilor de tei
+Trece ca si stolul cel de porumbei
+/: Trece intr-o seara sau in zori de zii
+S-a dus intr-o clipa n-o mai poti opri
+/:
+
+[v3]
+Iata tu esti pomul care a fost sadit
+In gradina celui care tea iubit
+/: Daca toata viata frunze tot ai dat daca n-aduci roada poti sa fii taiat
+/:
+
+[v4]
+Daca esti in mana Domnului Isus vei aduce roada te vei duce sus
+ /: Unde batranetea nu ne-a ofili si vom fii tot tineri vesnic vom trai
+/:

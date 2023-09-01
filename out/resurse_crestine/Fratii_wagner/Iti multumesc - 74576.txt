@@ -1,0 +1,35 @@
+[title]
+Iti multumesc {author: {Frații Wagner}, {rcId: {74576}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Îți mulțumesc, îți mulțumesc
+Isus iubit al meu;
+Te proslăvesc, te preamăresc,
+Cât ești de bun, de minunat, Aleluia.
+
+[c]
+îți mulțumesc, îți mulțumesc,
+Că ești Isus așa de bun.
+Vom fi mereu nedespărțiți
+De Tine-n cer, o, Domnul meu.
+
+[v2]
+M-ai îmbrăcat cu Duhul Sfânt,
+Mi-ai dat din pacea Ta.
+M-ai așezat pe stâncă sus,
+La adăpost sunt orișicând, Aleluia.
+
+[v3]
+De eu mă uit, merite n-am,
+Căci meritul e-al Tău.
+M-ai căutat și m-ai găsit,
+Și din păcat Tu m-ai salvat, Aleluia.
+
+[v4]
+Nu mai e mult, vine Isus,
+Se aud azi pașii Lui.
+În stol vom zbura spre cer,
+Priviți în sus, vine Isus, Maranata.

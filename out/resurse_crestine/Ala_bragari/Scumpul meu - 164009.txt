@@ -1,0 +1,29 @@
+[title]
+Scumpul meu {author: {Ala Bragari}, {rcId: {164009}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Scumpul meu, privirea Ta,
+Nu o găsesc la nimenea,
+Inima Ta mare n-are asemănare
+Inima Ta mare n-are asemănare.
+
+[c]
+Un scop în viață am găsit
+Să te fac pe tine fericit,
+R. Un scop in viață am găsit
+Să te fac pe tine fericit, scumpul meu.
+
+[v2]
+Glasul Tău este dulce,
+Și fața Ta placută
+Un trandafir din Saron Ești,
+Un crin din văile domnești.
+
+[v3]
+Iubitul meu e alb si rumen,
+Deosebindu-se din zece mii
+Capul Lui cunună de aur curat,
+Așa-I iubitul meu, scumpul meu.

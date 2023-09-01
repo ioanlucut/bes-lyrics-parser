@@ -1,0 +1,39 @@
+[title]
+Har numai har {author: {Nicolae Moldoveanu}, {rcId: {240739}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Har, numai Har, e Ființa Ta,
+/: Slăvit Dumnezeu, :/
+Totul e Har în viața mea,
+/: Și bine și greu! :/
+
+[c]
+Totul e Har, totul e Har,
+Totul e Har, numai Har!...
+
+[v2]
+Har, numai Har este Ceru-ntreg,
+/: Stăpân Preamărit, :/
+Totul e Har, chiar de nu-nțeleg,
+/: De Tine-s iubit! :/
+
+[v3]
+Har, numai Har este-al Tău Cuvânt,
+/: Părinte Ceresc, :/
+Totul e Har, căci prin Duhul Sfânt
+/: Și mor și trăiesc! :/
+
+[v4]
+Har, numai Har, e lucrarea Ta,
+/: Preasfânt împărat, :/
+Totul e Har, să trăiesc așa
+/: Cum Tu m-ai chemat! :/
+
+[v5]
+Har, numai Har, e-azi și-n veșnicii
+/: - Iubire și Dor :/
+Totul e Har - lăudat să fii
+/: Măreț Creator! :/

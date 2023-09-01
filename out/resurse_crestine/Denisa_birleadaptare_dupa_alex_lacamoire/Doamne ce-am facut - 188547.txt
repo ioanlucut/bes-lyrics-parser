@@ -1,0 +1,41 @@
+[title]
+Doamne ce-am facut {author: {Denisa Birleadaptare după Alex Lacamoire}, {rcId: {188547}}
+
+[sequence]
+v1,c,v2,c2,e,c2
+
+[v1]
+Stau și privesc cum plângi...
+Păcatul meu Te doare, dar Tu renunți.
+Tot ce-am greșit Isus,
+Ai dus la Golgota și ai plătit nespus!
+Te-am ținut pe-o cruce chinuit,
+De faptele mele...
+
+[c]
+Cu priviri și cu vorbe deșarte
+Ți-am croit un drum sigur spre moarte,
+Doamne, ce-am făcut, Doamne, ce-am făcut...
+Lacrimi multe au curs pentru mine,
+Să spele păcate și orice rușine,
+Doamne, ce-am făcut, Doamne, ce-am făcut..
+
+[v2]
+Privirea Ta, Isus,
+M-a întâlnit și pace ea mi-a dat nespus!
+Iertat de ce-am făcut
+La Cuvântul Tău găsesc odihna, ce-am pierdut.
+N-am simțit o dragoste mai mare
+Ca-ntre-a Tale brațe!
+
+[c2]
+Dezlegat de tot ce mă ține
+Sunt salvat din trecut, din ruine:
+Eu Îți mulțumesc, eu Îți mulțumesc!
+N-am trăit fericire mai mare
+Ca și-atunci când mi-ai dat Tu salvare:
+Eu Îți mulțumesc, Doamne-ți mulțumesc!
+
+[e]
+/: Îți mulțumesc, Îți mulțumesc
+Îți mulțumesc, o, Doamne, Îți mulțumesc! :/

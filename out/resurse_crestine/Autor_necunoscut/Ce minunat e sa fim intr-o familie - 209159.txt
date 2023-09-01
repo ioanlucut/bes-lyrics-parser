@@ -1,0 +1,27 @@
+[title]
+Ce minunat e sa fim intr-o familie {author: {Anonim}, {rcId: {209159}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ce minunat e să fim într-o familie,
+Familia sfântă a Domnului Isus.
+
+[c]
+Suntem o familie unită,
+Suntem o familie reală,
+Familia care iubește,
+Familia Domnului Isus.
+
+[v2]
+Ce bucurie să fim într-o familie,
+Familia sfântă a Domnului Isus.
+
+[v3]
+Ce fericire să fim într-o familie,
+Familia sfântă a Domnului Isus.
+
+[v4]
+Ce mare har e să fim într-o familie,
+Familia sfântă a Domnului Isus.

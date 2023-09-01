@@ -1,0 +1,29 @@
+[title]
+Daca treci prin incercare {author: {Diana și Andreea}, {rcId: {102308}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Dacă treci prin încercare
+Și n-ai niciun ajutor
+/: Nu uita că-n cer Mesia
+Pentru veci ți-e salvator :/
+
+[c]
+Dacă-n barca vieții tale
+Vânturi bat fără-ncetare
+Nu te teme căci Isus
+Întinde o mână de sus
+
+[v2]
+Dumnezeu îți va trimite
+Ajutor un sol al Său
+/: El te va păzi de rele
+Îți va fi ocrotitor :/
+
+[v3]
+Vine ziua când pe nori
+Mirele va apărea
+/: Și în rai cu sfinții împreună
+Să fim toți în slavă Sa :/

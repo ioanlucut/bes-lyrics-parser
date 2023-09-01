@@ -1,0 +1,41 @@
+[title]
+Asa te rog isuse doamne {author: {Nicolae Moldoveanu}, {rcId: {244431}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Așa Te rog, Isuse, Doamne,
+Să mă ajuți să cresc curat,
+Părinții mei să poată spune
+Că le-am fost fiu cu-adevărat.
+Așa să pot simți alături
+De-acela care mi l-ai dat,
+Ca soțul meu să poată spune
+Că i-am fost soț cu-adevărat.
+
+[v2]
+Așa să pot umbla statornic,
+Pe calea care m-ai chemat,
+Ca frații mei să poată spune
+Că le-am fost frate-adevărat.
+Așa să-mi pot păstra credința
+Și drumul vrednic de urmat,
+Ca fiii mei să poată spune
+C-am fost părinte-adevărat,
+
+[v3]
+Așa să-mi fie rodul vieții
+Și-n ce m-ascund și-n ce m-arat,
+Ca oamenii să poată spune
+C-am fost un om cu-adevăra.
+Așa să-mi fie toată viața,
+Ca-n clipa când va fi-ntrebat,
+Orice vrăjmaș al meu să vadă
+C-am fost creștin cu-adevărat
+
+[v4]
+/: Și-așa să-mi fie lupta-ntreagă
+Ca Tu, când fi-voi judecat,
+Să poți mărturisi, Isuse,
+C-am fost ostaș adevărat. :/

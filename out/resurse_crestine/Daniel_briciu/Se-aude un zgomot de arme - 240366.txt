@@ -1,0 +1,46 @@
+[title]
+Se-aude un zgomot de arme {author: {Daniel Briciu}, {rcId: {240366}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Se-aude un zgomot de arme,
+Se-aude al urii puhoi.
+Din nou se înalță cazarme,
+/: Din nou se proclamă război :/
+.
+Cutremure zguduie lumea
+Și marea vuiește-n talaz
+Și cerul întreg și natura
+/: Vorbesc despre-o zi de necaz. :/
+
+[c]
+/: Nu mai e mult, nu mai e mult,
+Necazuri aici se vor sfârși,
+Nu mai e mult, nu mai e mult
+Isus la noi va reveni. :/
+/: Nu mai e mult, nu mai e mult,
+Necazuri aici se vor sfârși,
+Nu mai e mult, nu mai e mult
+Isus la noi va reveni. :/
+/: Nu mai e mult, nu mai e mult,
+Necazuri aici se vor sfârși,
+Nu mai e mult, nu mai e mult
+Isus la noi va reveni. :/
+
+[v2]
+Se ceartă azi frate cu frate
+Și tată cu fiu se urăsc.
+Oceane de răutate
+/: Din lume azi izvorăsc. :/
+O zi de-ntuneric și teamă
+Curând pe pământ va veni,
+Când Domnul la tronul sfânt cheamă
+/: Să judece pe morți și vii. :/
+
+[v3]
+Trăim, iată, vremuri din urmă
+Așa cum Scriptura ne-a spus.
+Cuvântul cel Sfânt se-mplinește,
+/: Curând se va-ntoarce Isus. :/

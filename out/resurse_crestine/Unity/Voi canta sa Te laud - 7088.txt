@@ -1,0 +1,26 @@
+[title]
+Voi canta sa te laud {author: {Unity}, {rcId: {7088}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Doamne, ești scutul meu!
+Tăria mea ești Tu!
+Doamne, ești sprijinul meu doar Tu!
+Glasul Tău eu îl ascult atunci când îmi vorbesti.
+
+[c]
+Voi cânta să Te laud.
+Peste viața mea Tu domnești.
+Cât de minunat e Numele Tău!
+Mai presus de ceruri e slava Ta.
+Cât de mare Ți-e dragostea.
+În Tine mă încred și mă voi bucura.
+
+[v2]
+Doamne, ești nădejdea mea!
+Lumina mea ești Tu!
+Doamne, ești speranța mea doar Tu
+Glasul meu Tu îl auzi
+Și știu că mă iubești!

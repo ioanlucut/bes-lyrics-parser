@@ -1,0 +1,36 @@
+[title]
+El m-a ales (he chose me) {author: {Mosie Lister, Traducere RO}, {rcId: {90865}}
+
+[sequence]
+v1,v2,c,s,c
+
+[v1]
+În mijlocul mulțimii, jos în groapa pieirii,
+El m-a aflat!
+În noapte, în ceață, fără vreo speranță,
+El m-a aflat!
+Pe drumul pierzării, în mijlocul durerii,
+Sub povara cea grea am căzut,
+Dar o voce mă cheamă: vin’ la Mine degrabă,
+Fericit lângă Mine vei fi!
+
+[v2]
+Sus pe dealul Golgota, peste vremi sună vocea:
+Eu te-am ales!
+Creatorul a toate, m-a salvat de la moarte,
+El m-a ales!
+Azi privesc printre astre, văd cetatea departe,
+Drumul crucii ce duce la ea;
+Două mâini stau întinse, de cuie străpunse,
+Mă așteaptă să intru în ea!
+
+[c]
+El m-a ales, m-a ales,
+Din drumul pierzării, Isus m-a luat,
+Îl laud, Îi cânt ne-ncetat!
+El m-a ales, m-a ales,
+/: Din drumul pierzării, Isus m-a luat,
+Îl laud, Îi cânt ne-ncetat! :/ x2
+
+[s]
+Nu voi M-ați ales pe Mine; ci Eu v-am ales pe voi. Ioan 15:16

@@ -1,0 +1,40 @@
+[title]
+Painea vietii {author: {The Berci Sisters}, {rcId: {141217}}
+
+[sequence]
+v1,c,v2,c,v3,b,c
+
+[v1]
+Într-o lume-n care toate
+Sunt așa de schimbătoare
+Cuvântul Tău rămâne neschimbat
+Ca o stânca neclintită
+Între valurile mării
+E cuvântul sfânt pe care ni L-ai dat.
+
+[c]
+Dă-ne nouă astăzi pâinea vieții
+Hrana sfântă de la Tine o primim
+Să ne-nvețe, să mustre,
+Să îndrepte, să dea înțelepciune
+În neprihănire.
+
+[v2]
+Lui Israel în vechime
+I-ai purtat mereu de grijă
+Mană sfântă Tu din cer i-ai dat
+Azi îți cerem să ai milă
+De foamea sufletelor noastre
+Un cuvânt din partea Ta vrem să primim.
+
+[v3]
+Cuvântul Tău e armătura
+Pe care o purtăm în luptă
+Și cu el suntem mereu biruitori
+Prin cuvânt suntem destoinici
+Pentru orice faptă bună
+Pe care, Doamene, din ’nainte ai pregătit.
+
+[b]
+Căci nu vom trăi doar cu pâine
+Ci cu orice cuvânt de la Tine, Doamne.

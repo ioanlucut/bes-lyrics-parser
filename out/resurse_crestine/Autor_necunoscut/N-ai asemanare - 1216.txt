@@ -1,0 +1,30 @@
+[title]
+N-ai asemanare {author: {Anonim}, {rcId: {1216}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+N-ai asemănare
+Nici în cer nici pe pământ,
+Nici în măreție,
+Nici în fapte și-n cuvânt.
+
+[c]
+/: Îți cântăm: „
+Osana! „
+Dumnezeule slăvit!
+Pentru mântuirea
+Ce--n Isus ne-ai dăruit! :/
+
+[v2]
+Orișicine crede
+Și renunță la păcat,
+În Isus găsește
+Un prieten minunat.
+
+[v3]
+Orișicine vine
+Nu va fi respins nicicând,
+Are mântuire
+Și-o nădejde pe pământ.

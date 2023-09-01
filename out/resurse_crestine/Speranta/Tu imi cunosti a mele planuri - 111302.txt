@@ -1,0 +1,35 @@
+[title]
+Tu imi cunosti a mele planuri {author: {Speranța}, {rcId: {111302}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Tu îmi cunoști a mele planuri,
+Nu pot de Tine să m-ascund!
+/: Și-adesea când eu stau pe gânduri
+A mele fapte le pătrunzi. :/
+
+[v2]
+Ești peste tot în lumea-aceasta
+O, Doamne, Tu mă înconjori!
+/: Tu îți pui mâna peste mine
+Și mă cuprinzi cu sfinți fiori! :/
+
+[v3]
+Adesea-mi pare rău că lucrul
+Nu merge-așa cum vreau eu...
+/: Abia apoi văd că-i mai bine
+Cum Tu dorești, nu cum vreau eu! :/
+
+[v4]
+Sunt oameni care-aduc sugestii
+Cu gând să-ndrume pasul meu...
+/: Eu îmi închin viața Ție,
+Ca să-mi conduci destinul meu! :/
+
+[v5]
+Eu nu știu ce îmi stă în față,
+Nu-mi pot ca să-mi imaginez...
+/: Ajută-mi, Doamne, ca în viață
+Mai mult la suflet să veghez! :/

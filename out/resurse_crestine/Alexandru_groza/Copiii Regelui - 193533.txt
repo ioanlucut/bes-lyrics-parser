@@ -1,0 +1,21 @@
+[title]
+Copiii regelui {author: {Alexandru Groza}, {rcId: {193533}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Domnul Isus e al nostru Păstor, El este Regele regilor
+El poartă grija copiilor în fiecare zi
+
+[c]
+Slavă Domnului să-I fie, Aleluia, Amin!
+
+[v2]
+Mare și bun e al nostru Păstor, El este Domnul Domnilor
+De El ascultă și mările, cântați-I glorie!
+
+[v3]
+Cu bucurie cu toți să-I cântăm, Isus Hristos este al nostru Domnul
+El ne-a creat cu Mâna Sa, cântați: ”
+Aleluia!”

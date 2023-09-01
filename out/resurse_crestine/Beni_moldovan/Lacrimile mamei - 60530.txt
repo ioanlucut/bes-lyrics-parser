@@ -1,0 +1,25 @@
+[title]
+Lacrimile mamei {author: {Beni Moldovan}, {rcId: {60530}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Isus al meu prieten bun, Îți mulțumesc
+C-ai ascultat, ne-ncetat ruga mamei mele
+Îți mulțumesc Tată ceresc, pentru nopțile-ntregi
+Ce le-a petrecut, mama mea pe ghenuchi.
+
+[c]
+Îți mulțumesc Isus pentru mama mea
+Ce pentru mine zi și noapte se ruga
+Îți mulțumesc Isus pentru lacrimile mamei mele
+Ce le-a vărsat când eram pierdut
+Îți mulțumesc căci Tu ai ascultat
+Ruga ei ce nici-odată n-a-ncetat.
+
+[v2]
+Nu Te înțelegeam, nu cunoșteam chemarea Ta
+Nepăsător eram mereu pe calea mea
+Dar Tu ai vegheat, ai ascultat dorința ei
+Să fiu salvat, de Tine iertat de al meu păcat.

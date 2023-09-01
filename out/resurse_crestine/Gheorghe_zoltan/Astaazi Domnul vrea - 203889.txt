@@ -1,0 +1,35 @@
+[title]
+Astaazi domnul vrea {author: {Gheorghe Zoltan}, {rcId: {203889}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Astăzi Domnul vrea viață să-ți dea
+Cel ce s-a jertfit în Golgota
+Domnul a plătit să fii mântuit
+Omule deschide-ți inima
+
+[c]
+De ce nu vrei să vii la El tu om cu chip de lut
+Isus e lângă tine vrea să-ți dea un început
+Zorii dimineții pentru tine-au răsărit
+Omule nu vrei să fii mântuit?
+
+[v2]
+Nu vrei să primești bucurii cerești?
+Moștenirea ta e Dumnezeu
+Lasă tot acum, haide pe-al Său drum
+Și de azi să fii copilul Său
+
+[v3]
+Cel ce te-a creat mult te-a așteptat
+Omule dă-i astăzi un raspuns
+Nu te împietri, nu mai zăbovi
+Hai întoarce-te azi la Isus
+
+[v4]
+Isus a venit și El s-a jertifit
+Pentru Tine să fii mântuit
+Pe o cruce grea și-a dat viața
+Hai la Domnul să fii fericit

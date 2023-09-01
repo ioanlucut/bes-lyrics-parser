@@ -1,0 +1,28 @@
+[title]
+Toate sunt desertaciune (do) {author: {Mirela Ursulescu}, {rcId: {176660}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Toate sunt deșertăciune, toate-s goană după vânt,
+Doar ce facem pentru Domnul, va rămâne veșnic sfânt.
+
+[c]
+/: Dumnezeu în veci rămâne
+Și Cuvântul Lui Cel Sfânt,
+Cel ce-a fost și în vechime
+Este azi și va rămâne
+/: Veșnic prin al Său Cuvânt :/
+
+[v2]
+Toate-s bucurii de-o clipă, trecătoare pe pământ,
+Dar nimic nu se compară, cu bucuria-n Duhul Sfânt.
+
+[v3]
+Tot ce faci azi pentru lume, este goană după vânt,
+Strânge-ți azi, comori în ceruri, fii exemplu pe pământ.
+
+[v4]
+Fă doar bine cât trăi-vei, chiar de rău în schimb primești,
+Dacă vrei s-ai răsplătire, de la Mirele ceresc.

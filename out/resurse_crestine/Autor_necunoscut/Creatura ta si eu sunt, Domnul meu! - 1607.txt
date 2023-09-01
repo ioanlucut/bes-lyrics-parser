@@ -1,0 +1,29 @@
+[title]
+Creatura ta si eu sunt domnul meu {author: {Anonim}, {rcId: {1607}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Creatura Ta si eu sunt, Domnul meu!
+Am fost ca si omul fara Dumnezeu.
+Anii cei mai multi eu i-am risipit,
+Dar ma-ntorc din drumul cel nefericit.
+
+[c]
+Vin la Tine... O, primeste-ma!...
+O, Isuse, mantuieste-ma!
+Vreau sa fiu al Tau de-acum! As vrea
+Sa-Ti slavesc, o, Doamne, zilnic Fata Ta...
+
+[v2]
+Si ca mine multi, chiar cei mai multi traiesc
+Parasiti, saraci de dorul sfant ceresc.
+O, ce bucurii ar gasi de-ar sti -
+Doar prin Tine pot deschide vesnicii.
+
+[v3]
+Doamne-asculta glasul ce-l indrept acum,
+Sa-i ajuti sa vina cei pierduti pe drum;
+Adu ziua Ta, cand vom fi Acas’
+Toti cei mantuiti, in sfantul Tau Locas!

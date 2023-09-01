@@ -1,0 +1,31 @@
+[title]
+Pe mare-n miezul noptii {author: {Denys Laurenciuc}, {rcId: {209531}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pe mare-n miezul nopții cu barca se trudeau
+Unii dintre-apostoli, flămânzi, plini de dureri..
+Purtând prin ape mreaja.. așa se mangaiau..
+Rabuni nu mai e, ce poți ca să mai speri?
+
+[c]
+/: Un glas străin din zare și totuși cunoscut..
+Prea obosiți de jale să-L fi recunoscut..
+”
+Copii, aveți mâncare?”
+Oh nu, nimic n-am prins..
+Sunt nopțile amare și totul parcă-i vis.. :/
+
+[v2]
+M-aș arunca ca Petru în marea-nvolburată,
+Dorind s-ajung la El, pe Țărmul năzuit,
+Dar unde e Ioan să strige c-altă dată
+Cu ochii stinși de dor ”e Domnul nost’ iubit”?
+
+[v3]
+O, mare-a Galileii, minunată întâlnire
+Cu cei învinși de jale, de dor și de tristeți,
+Căci Tu ne chemi la masă cu-n glas plin de iubire..
+Rabuni, stai cu noi, de aici să nu mai pleci

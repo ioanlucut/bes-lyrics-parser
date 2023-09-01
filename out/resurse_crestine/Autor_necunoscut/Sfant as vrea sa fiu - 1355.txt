@@ -1,0 +1,29 @@
+[title]
+Sfant as vrea sa fiu {author: {Anonim}, {rcId: {1355}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Sfânt aș vrea să fiu, o, Doamne,
+Tu ajută-mi zi de zi,
+Spală tot ce-i rău în mine
+Și atunci curat voi fi!
+
+[c]
+Fă-mă sfânt, ascultă-mă,
+Din păcat ridică-mă,
+Ție-Ți dau inima,
+Doamne, stăpânește-n ea!
+
+[v2]
+Îmi auzi suspinul, Doamne,
+Vreau să fiu mereu mai sfânt,
+Împlinește-a mea dorință,
+Dă-mi lumină prin Cuvânt!
+
+[v3]
+Pune-n mine bunătate,
+Dă-mi putere îndeajuns,
+Duhul Sfânt lucreze-n mine
+Chipul Domnului Isus!

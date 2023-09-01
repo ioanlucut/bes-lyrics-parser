@@ -1,0 +1,41 @@
+[title]
+Azi din gradina doi trandafiri in sunete de cant {author: {Simion Buzduga}, {rcId: {5538}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Azi, din gradina, doi trandafiri, in sunete de cant,
+Pasesc ’nainte, inmiresmati, sa faca legamant.
+Sunt smulsi usor, la timpul lor, ca un buchet de flori;
+In Fata Ta, o, Doamne, -asteapta, bogatele-Ti comori.
+
+[c]
+Chiar de vine vant, furtuna, sa stati neclintiti!
+De ispite si-ncercare, nu fiti biruiti!
+Inainte mergi, o, Doamne, soare sfant le fii
+Si, pe calea Ta paseasca, plini de bucurii, pana-n vesnicii!
+
+[v2]
+Voi faceti legamant, pastrati-l deplin, pan’ la sfarsit!
+Sa se-nnoiasca, nu se-nvecheasca, ramana neclintit!
+In vesnicie ce o sa vie, veti fi mult rasplatiti;
+Si-aici, in viata, din suferinte, veti fi dar izbaviti.
+
+[c2]
+In necazuri, Tu asculta-i! Da-le ajutor!
+Bratul Tau sa-i sprijineasca, din al Tau Sion!
+Da-le propasire-n lucrurile ce raman!...
+Sa primesti si a-lor arderi, cand ei Ti le-nchin, Preamarit Stapan!
+
+[v3]
+La nunta voastra, chemam acuma pe toti acei care vor
+Sa creada-n Tine, sa Te primeasca ca Sfant Mantuitor;
+Tu vii din slava, cu rasplatire, iar toti cei mantuiti
+Vor fi Mireasa, in Tara Pacii, si vesnic fericiti!
+
+[c3]
+Nu e mult si nunta sfanta vom sarbatori;
+Mire, Tu vei fi, Isuse! Vesnic vom privi
+Tronul sfant cu stralucirea raiului de sus.
+Cat de minunat, in slava, vei domni nespus, Preamarit Isus!

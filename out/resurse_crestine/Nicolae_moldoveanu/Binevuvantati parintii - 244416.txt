@@ -1,0 +1,41 @@
+[title]
+Binevuvantati parintii {author: {Nicolae Moldoveanu}, {rcId: {244416}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Binecuvântați parinții,
+Totdeauna pe pământ,
+E povața și dorința
+Și porunca Celui Sfânt!
+
+[c]
+Fericiți vor fi copiii
+Ce părinții și-i cinstesc,
+Fericiți vor fi părinții,
+Ce copiii-n Domnu-și cresc!
+
+[v2]
+Binecuvântați părinții
+Și mereu să-i ascultați,
+Căci așa veți fi de-a pururi
+Și voi binecuvântați!
+
+[v3]
+Binecuvântați parinții,
+Chiar și când vă este greu,
+Căci oricând veți face astfel
+Ascultați de Dumnezeu!
+
+[v4]
+Binecuvântați părinții
+Și deplin să-i ajutați,
+Căci oricât de mult le-ați face
+N-ați plăti cât datorați!
+
+[v5]
+Binecuvântați părinții,
+Chiar și-atunci când nu mai sânt
+Cu iubire și cu lacrimi,
+Nu uitați al lor mormânt!

@@ -1,0 +1,23 @@
+[title]
+Din lantul mortii {author: {Franz Schubert}, {rcId: {1895}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Din lantul mortii si mormant Hristos a inviat!
+Cu moarte Lui moartea calcand, Hristos a inviat!
+Traieste El, cel rastignit, ce moartea-n veci a biruit.
+Slaviti-L ne-ncetat, Hristos a inviat!
+
+[v2]
+Maria vine-n zori de zi cu sufletu-ntristat.
+Mormantu-i gol; ce poate fi? Hristos a inviat!
+Si ingerii in ceruri sus Ii canta slava lui Isus;
+Slaviti-L ne-ncetat, Hristos a inviat!
+
+[v3]
+Prin moartea Lui in greul chin, Hristos a triumfat.
+Si-in viata Lui acum traim; Hristos a inviat!
+Ce har maret ne-a daruit! Credinta-n El ne-a mantuit.
+Slaviti-L ne-ncetat, Hristos a inviat!

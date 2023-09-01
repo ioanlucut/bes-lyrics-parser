@@ -1,0 +1,35 @@
+[title]
+Vino la crucea lui {author: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {230927}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Privește la crucea de la Golgota.
+Pe care Domnul suferi.
+El si-a dat viața pentru vina ta
+Și-o viață nouă ți-oferi.
+
+[c]
+Vino la crucea Lui chiar acum,
+ca să primești mântuirea,
+Pornește cu Isus la drum
+și va fi cu tine mereu.
+Vino la cruce chiar azi
+să-ți răstignești pe ea firea,
+iar dacă pe cale-ai să cazi
+te va ridica Dumnezeu.
+Vino la crucea Lui chiar acum,
+ca să primești mântuirea,
+Pornește cu Isus la drum
+și va fi cu tine mereu.
+Vino la cruce chiar azi
+să-ți răstignești pe ea firea,
+iar dacă pe cale-ai să cazi
+te va ridica Dumnezeu.
+
+[v2]
+Privește la jertfa supremă și vezi
+o dragoste de Dumnezeu
+E-o cale trasată de vrei ca s-o urmezi
+Liber de păcatul tău.

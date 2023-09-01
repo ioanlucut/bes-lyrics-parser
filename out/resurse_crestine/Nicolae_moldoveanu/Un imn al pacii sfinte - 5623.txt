@@ -1,0 +1,36 @@
+[title]
+Un imn al pacii sfinte {author: {Nicolae Moldoveanu}, {rcId: {5623}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Un imn al păcii sfinte
+Din inimi să țâșnească,
+Iar cei salvați să-l cânte!
+În pace să trăiască!
+
+[c]
+Un imn al păcii să răsune!
+„
+Doamne, revarsă pace jos!” din ceruri
+Curând trompeta o să sune,
+Plecarea-n raiul glorios...
+
+[v2]
+Dați mâna emisfere!
+Dați mâna cu căldură!
+Și voi, meridiane,
+Să nu mai fie ură!
+
+[v3]
+Dați mâna voi, cei care
+Vreți cerul moștenire!
+Doar numai prin iertare,
+Se ajunge-n fericire...
+
+[v4]
+De vom străbate drumul
+De pace și sfințire,
+Îl vom vedea pe Domnul
+La El, în strălucire.

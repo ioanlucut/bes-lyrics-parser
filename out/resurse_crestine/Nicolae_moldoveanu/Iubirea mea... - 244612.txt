@@ -1,0 +1,41 @@
+[title]
+Iubirea mea {author: {Nicolae Moldoveanu}, {rcId: {244612}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Iubirea mea, ridică-ți ochii,
+Pe totdeauna dinspre jos,
+E țelul tău tot mai aproape,
+E ceasul tău tot mai frumos.
+
+[c]
+Despovărată de-orice fumuri,
+Să ieși din neguri spre mai ’nalt,
+Și tot mai luminos fă-ți zborul,
+De Ia un pisc Ia celălalt.
+
+[v2]
+Topește-n mila rugăciunii,
+Ghețarii vechilor tristeți,
+Și larg învăluie-i pe oameni,
+Cu ochii celeilalte vieți.
+
+[c2]
+Acoperă, cu fața-ntoarsă,
+A semenilor goliciuni,
+Și-alege numai bucuria,
+Din tot ce-mparți, din tot ce-aduni.
+
+[v3]
+Când între Adevăr și Milă,
+Nu știi Ia care să rămâi,
+Se bucură și Adevărul,
+Dacă deschizi la Milă-ntâi.
+
+[c3]
+Când numai binecuvântare,
+Vei împărți și tuturor,
+Un nor de slavă luminoasă,
+Te va-nălța în ochii lor.

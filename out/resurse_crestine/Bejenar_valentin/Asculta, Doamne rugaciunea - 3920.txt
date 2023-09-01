@@ -1,0 +1,33 @@
+[title]
+Asculta doamne rugaciunea {author: {Bejenar Valentin}, {rcId: {3920}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ascultă Doamne rugăciunea,
+Ce se-ndreaptă catre cer.
+Ascultă Doamne rugăciunea,
+Căci din inima iți cer.
+
+[c]
+/: Revarsă Doamne-n mine,
+Un duh de putere.
+Revarsă Doamne-n mine,
+Un duh de cunoștiință.
+Revarsă Doamne-n mine,
+Un duh de tarie.
+Revarsă Doamne-n mine,
+Tot...ce-i după voia Ta. :/
+
+[v2]
+Ascultă Doamne rugăciunea,
+Ce cu lacrime ți-o-nalț.
+Ascultă Doamne și suspinul,
+Ce vine din al meu necaz.
+
+[v3]
+Ascultă Doamne rugăciunea,
+Ce-n ceas târziu ție ți-o spun.
+Ascultă Doamne și trimite,
+Răspuns l-al rugii mele glas.

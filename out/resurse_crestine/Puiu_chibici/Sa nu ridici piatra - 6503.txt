@@ -1,0 +1,41 @@
+[title]
+Sa nu ridici piatra {author: {Puiu Chibici}, {rcId: {6503}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Să nu ridici piatra, să nu mă lovești
+Chiar dacă-am greșit sau păcătuit
+Să nu ridici piatra, să nu te grăbești
+Căci și tu ești om, că și tu greșești.
+
+[c]
+Să nu fii judecător,
+Să nu fii acuzator,
+Mai degrabă-ndurător,
+Sau ca Domnul, iertător.
+
+[v2]
+Fii plin de iubire frate, nu uita,
+Cum fost-a și Domnul Isus pe Golgota.
+Cine nu iubește pe aproapele său,
+Nu poate s-ajungă sus cu Dumnezeu.
+
+[c2]
+Dacă Domnul te-a iertat
+De cumplitul tău păcat,
+Fă și tu acum la fel,
+Și vei fi în cer cu El.
+
+[v3]
+Să-napună frate, soarele nicicând
+Peste ura ta sau mânia ta,
+Să nu ridici piatra, să fi bun și blând,
+Cum este și Domnul: Sfânt, de trei ori Sfânt.
+
+[c3]
+Căci așa El ne-a-nvățat:
+Dacă ierți, vei fi iertat,
+Și pe Sine chiar S-a dat
+Ca model demn de urmat.

@@ -1,0 +1,29 @@
+[title]
+Domnul va binecuvinteze (vers veche) {author: {Anonim}, {rcId: {234744}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Domnul vă binecuvinteze,
+În sfatul Lui să vă țină
+În turma Lui să puteți sta
+Domnul vă binecuvinteze
+
+[c]
+Până când ne-om vedea
+Și naintea Lui vom sta
+El cu noi să fie
+Până iarăși ne-om putea vedea.
+
+[v2]
+Domnul vă binecuvinteze
+Sub aripa Lui vă poarte,
+Pâinea vietii v-o deie,
+Domnul vă binecuvinteze
+
+[v3]
+Domnul vă binecuvinteze
+Nori grei dacă se ridică,
+Brațul Lui să vă scutească
+Domnul vă binecuvinteze.

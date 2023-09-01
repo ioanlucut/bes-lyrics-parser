@@ -1,0 +1,29 @@
+[title]
+Isus isus lumina lumii {author: {Slauco de la Lugoj}, {rcId: {197122}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Isus, Isus lumina lumii
+El este Cel ce a înviat
+A înviat și în viața mea
+Nădejde vie El mi-a dat :/
+
+[c]
+/: De cine, de cine, de cine să mă tem
+Domnul e de partea mea
+Necazuri și dureri și orice va veni
+Cu Isus Cristos voi birui :/
+
+[v2]
+/: Eu sunt cu voi in orice vreme
+Eu sunt cu voi in orice ceas
+Să nu vă mai pierde-ți nădejdea
+Că eu nicicând n-am să las :/
+
+[v3]
+/: Isus e apa vieții
+Izvorul cel mai minunat
+E apa vie și curată
+Ce viață veșnică mi-a dat :/

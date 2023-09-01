@@ -1,0 +1,41 @@
+[title]
+Astept printul meu inaripat {author: {Anonim}, {rcId: {216127}}
+
+[sequence]
+v1,c,v2,c,c
+
+[v1]
+Astept Printul meu înaripat
+Printul viu si-adevarat,
+Nu din basme sau povești
+Nu plâng, nu regret nici un minut
+Ca-L astept atat de mult,
+Printul slavilor ceresti
+
+[c]
+Astept vesnicul indragostit
+Vesnicul de dor lovit
+De iubita Lui setos
+Eu simt ca-L astept nu in zadar
+A promis ca vine iar,
+Printul dragostei, Hristos
+Astept veșnicul îndrăgostit
+Veșnicul de dor lovit
+De iubita Lui setos
+Eu simt ca-L astept nu in zadar
+A promis ca vine iar,
+Printul dragostei, Hristos
+Eu simt ca-L astept nu in zadar
+A promis ca vine iar,
+Printul dragostei, Hristos
+Da. eu simt ca-L astept nu in zadar
+A promis ca vine iar,
+Printul dragostei, Hristos
+
+[v2]
+Ai spus: cine azi Te va chema,
+Ruga ii vei asculta
+De el n-o sa Te ferești;
+De ce lumea uita c-ai jertfit
+Sângele neprihănit
+Dar Tu, totuși ii iubești

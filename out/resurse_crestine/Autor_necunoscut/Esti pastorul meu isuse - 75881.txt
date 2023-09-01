@@ -1,0 +1,29 @@
+[title]
+Esti pastorul meu isuse {author: {Anonim}, {rcId: {75881}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ești păstorul meu, Isuse
+Ce mă binecuvintezi
+Bucurii îmi dai nespuse
+Când pe Tine te urmez.
+
+[c]
+/: Ce să fac cu viața mea
+Dacă Tu nu ești în ea
+Vino Doamne mai aproape
+Și ne iartă de păcate. :/
+
+[v2]
+Ia-mă-n slujba Ta Isuse
+Folosește-mă cum vrei
+Voia Ta să fie-n mine
+Când pe Tine te urmez.
+
+[v3]
+Tu-mi dai pace, bucurie
+În a mea călătorie
+De aceea-ți mulțumesc
+Pentru harul Tău ceresc.

@@ -1,0 +1,37 @@
+[title]
+Chemati cantarile {author: {Nicolae Moldoveanu}, {rcId: {6352}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Chemați cântările mereu,
+Și-n locul bun și-n locul greu,
+/: Între vorbiri și-ntre tăceri,
+Între mâhniri și mângâieri,
+Între-ntâlniri și depărtări,
+/: Chemați plăcutele cântări. :/
+
+[v2]
+Cântările vă vor scăpa,
+De vorba sau tăcerea grea,
+/: Vă vor fi foc când pre-nghețați,
+Și-nviorare când oftați,
+Și punte să vă regăsiți,
+/: Când nu puteți să vă priviți. :/
+
+[v3]
+Cântați! - îndemnu-acesta, bun,
+Nu numai, celor dragi li-l spun,
+/: La ceilalți și mai mult l-aș vrea,
+Cu cât li-e inima mai grea,
+Cântarea-i fericit popas,
+/: Să se-ntâlnească glas cu glas. :/
+
+[v4]
+Cântați, căci de cântări aveți,
+Nevoie toți, oricum sunteți,
+/: Și tineri și bătrâni, oricâți,
+Vă-mbrățișați sau vă urâți,
+Cântarea-i cel mai drag mijloc,
+Să se aprindă foc din foc. :/

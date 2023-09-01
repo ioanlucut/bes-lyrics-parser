@@ -1,0 +1,47 @@
+[title]
+Multumesc {author: {Carmen Prodan}, {rcId: {154933}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[c]
+Mulțumesc.!
+E-un cuvânt atât de simplu și frumos.
+Mulțumesc.!
+Pentru toate astăzi, Domnul meu, Hristos!
+
+[v1]
+Pentru-această sărbătoare,
+Pentru-ntreaga adunare,
+Pentru cânt și închinare
+Mulțumesc.!
+
+[v2]
+Pentru Jertfa minunată,
+Pentru dragostea de Tată,
+Pentru mila-Ți nesecată
+Mulțumesc.!
+
+[v3]
+Pentru lacrimi și durere,
+Pentru clipe de tăcere,
+Pentru sfânta-Ți mângâiere
+Mulțumesc.!
+
+[v4]
+Pentru împliniri promise,
+Pentru minunate vise,
+Pentru uși și porți deschise
+Mulțumesc.!
+
+[v5]
+Pentrucă-mi învii speranța
+Când o luptă este viața,
+Și-mi topești din suflet gheața
+Mulțumesc.!
+
+[v6]
+Pentru ziua glorioasă
+Când vom fi a Ta Mireasă,
+Și ne vei chema Acasă.
+Mulțumesc.!

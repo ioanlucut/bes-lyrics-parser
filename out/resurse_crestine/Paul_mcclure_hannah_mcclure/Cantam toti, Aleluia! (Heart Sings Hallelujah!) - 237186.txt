@@ -1,0 +1,39 @@
+[title]
+Cantam toti aleluia (heart sings hallelujah) {author: {Paul McClure, Hannah McClure, Traducere RO}, {rcId: {237186}}
+
+[sequence]
+v1,v2,c,v3,b,c
+
+[v1]
+Din înalt se-aude-o veste
+Cântăm toți, Aleluia!
+Domnul slavei ne vorbește
+Cântăm toți, Aleluia!
+/: S-a născut Mesia! :/ x2
+
+[v2]
+Îngeri vin cu-a lor uimire
+Cântăm toți, Aleluia!
+Domnul are îndurare
+Cântăm toți, Aleluia!
+/: S-a născut Mesia! :/ x2
+
+[c]
+Slavă, slavă Celui Prea ’nalt
+Fii-n veci lăudat!
+Domnul, Împăratul veșniciei!
+Isus, Răscumpărătorul
+Viață ne-ai dat
+Cântăm toți, Glorie, Aleluia!
+
+[v3]
+Astăzi S-a-ntrupat Cuvântul
+Cântăm toți, Aleluia!
+Domnul veșnic, Salvatorul
+Cântăm toți, Aleluia!
+/: S-a născut Mesia! :/ x2
+
+[b]
+Vino cu iubire
+Cântă cu-adorare
+Te închină astăzi, Domnului!

@@ -1,0 +1,29 @@
+[title]
+Hristos din morti a inviat {author: {Din NYC, Maranata}, {rcId: {1893}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Hristos din morți a înviat
+În slava Lui cereasca!
+Viață noua El ne-a dat
+Și pace sufleteasca.
+
+[c]
+A-nviat Hristos din morți,
+A-nviat Hristos din morți!
+Cântati, căci Hristos
+A-nviat din morți!
+
+[v2]
+Hristos din morți a înviat
+Și astfel mântuirea
+În veci de veci a câștigat;
+În El e nemurirea.
+
+[v3]
+Hristos din morți a înviat
+Zdrobind tăria morții!
+Și eu prin El m-oi înălta in cer,
+Să cânt cu sfinții.

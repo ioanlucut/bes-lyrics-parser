@@ -1,0 +1,29 @@
+[title]
+Se-apropie venirea celui care {author: {David Stănuș}, {rcId: {234843}}
+
+[sequence]
+v1,c,v2,c,v3,c,c
+
+[v1]
+Se-apropie venirea Celui care
+A zis vegheati in Sfantul Sau cuvant
+Si daca vrei s-ai parte de rapire
+Fecioara mai vegheaza pe pamant
+
+[c]
+Cateva clipe mai sunt
+Si-acum universul suspina
+/: Pe calea credintei ramai
+Traieste cu Domnu-n lumina :/
+
+[v2]
+Acest pamant se va sfarsi odata
+Si altul nou olarul va crea
+De-aceea tu pastreaza-ti haina alba
+Si-un nume nou in ceruri vei avea
+
+[v3]
+Mai e putin si Domnul nostru vine
+Dupa acei ce tare L-au iubit
+Eu au ramas fideli in pocainta
+Cuvantul Lui cu drag l-au implinit

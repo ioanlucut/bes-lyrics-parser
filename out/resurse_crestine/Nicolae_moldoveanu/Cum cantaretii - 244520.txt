@@ -1,0 +1,35 @@
+[title]
+Cum cantaretii {author: {Nicolae Moldoveanu}, {rcId: {244520}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Cum cântăreții-n stare-adâncă,
+Sfârșind pun mâinile ușor,
+/: Pe corzile ce sună încă,
+Să stingă lin vibrarea Ior, :/
+
+[v2]
+Și-n timp ce harfa odihnește
+Sub mâna celui ce-a cântat,
+/: Ecoul jertfei ei plutește,
+Tot mai frumos și-ndepărtat, :/
+
+[v3]
+Tot astfel, o lsuse-mi curmă
+A inimii vibrare lin,
+/: Când în acordul cel din urmă
+Cântarea-i vei sfârși deplin. :/
+
+[v4]
+Și cât sub mâna Ta duioasă
+Vei odihni a ei vibrări,
+/: Tu du-i cântarea mai frumoasă,
+Din veac în veac, din zări în zări! :/
+
+[v5]
+Și-n clipa învierii-adie-i
+Fiorul dragostei trezit,
+/: Să-Ți cânte-n corul veșniciei
+Divinul cânt desăvârșit! :/

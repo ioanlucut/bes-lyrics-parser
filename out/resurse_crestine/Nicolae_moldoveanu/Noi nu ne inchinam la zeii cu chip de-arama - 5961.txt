@@ -1,0 +1,35 @@
+[title]
+Noi nu ne inchinam la zeii cu chip de-arama {author: {Nicolae Moldoveanu}, {rcId: {5961}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Noi nu ne închinăm la zeii
+Cu chip de-aramă sau de piatră;
+Cui ne-a creat I-aducem jertfe
+Pe-a sufletelor noastre vatră.
+
+[c]
+Noi ne-nchinăm, noi ne-nchinăm,
+Noi ne-nchinăm lui Dumnezeu
+Și-L lăudam, Îl lăudam,
+Îl lăudam pe El mereu...
+
+[v2]
+Noi nu ne închinam la idoli,
+Nu-n fața lor plecăm genunchii;
+Slăvim pe Cel Atotputernic
+Ce-ncearcă inimi și rărunchii...
+
+[v3]
+Noi nu ne închinăm făpturii,
+Nici nu-i divinizăm simțirea,
+Ci-L preamărim pe Domnul vieții,
+Cântându-I mila și iubirea...
+
+[v4]
+Noi nu ne închinăm la îngeri,
+Deși puterea lor e mare;
+Pe Cine ține-n mână totul
+Îl adorăm cu ascultare...

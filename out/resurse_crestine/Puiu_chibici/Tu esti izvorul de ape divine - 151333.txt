@@ -1,0 +1,43 @@
+[title]
+Tu esti izvorul de ape divine {author: {Puiu Chibici}, {rcId: {151333}}
+
+[sequence]
+v1,c,v2,c2,v3,c2
+
+[v1]
+Tu ești izvorul de ape divine
+Și-a lor zăgazuri Tu le stăpânești!
+Când Îți întinzi mâna, sfinte Stăpâne,
+Cu binecuvântări ne copleșești!
+Ești adierea subțire și blândă,
+Ești raza caldă ce-n noi strălucești!
+Tu ești flăclia de veacuri arzândă,
+Ești brațul tare ce toate cârmuiești!
+
+[c]
+Tu ești un râu de har, ești pace, ești alin!
+Ești minunatul dar! În veci fii lăudat!
+
+[v2]
+Tu ești un cântec ce-mi umple viața,
+Ești zâmbetul dimineții frumos!
+Ești soarele ce-și arată-n zori fața,
+Ești Tatăl Domnului Isus Hristos!
+Tu ești Divinul, Tu ești Preaînaltul,
+Nemuritor din vecii în vecii!
+Ești Creatorul, ca Tine nu-i altul,
+Tu-ai fost Același și-n veci la fel vei fi!
+
+[c2]
+Tu ești un râu de har ce curge ne-ncetat,
+Ești minunatul dar! În veci fii lăudat!
+
+[v3]
+Când îmi întorc către Tine privirea,
+Mă luminez de-al Tău chip minunat!
+Când strig spre Tine-mi aduci izbăvirea,
+Pe ai Tăi copii Tu nu-i lași niciodat’!
+De-a Ta iubire mi-e plină ființa,
+Cu îndurare mă-nconjuri mereu!
+În Tine, Doamne, mi-e pururi credința,
+Părinte veșnic și mare Dumnezeu!

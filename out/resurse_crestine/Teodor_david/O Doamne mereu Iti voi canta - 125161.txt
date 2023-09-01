@@ -1,0 +1,41 @@
+[title]
+O doamne mereu iti voi canta {author: {Teodor David}, {rcId: {125161}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+O Doamne mereu Îți voi cânta
+Glorie în veci, Aleluia
+Vreau Doamne cât eu voi exista
+Ca să-Ți cânt în veci, Aleluia
+Știu că pentru mine ai murit
+Pe o cruce ai fost răstignit
+Eu vreau să-Ți cânt
+Căci m-ai iubit.
+
+[c]
+Alelu, Alelu, Aleluia
+Alelu, Alelu, Aleluia!
+
+[v2]
+Când adesea ai fost dărâmat
+Doar Isus, de jos, te-a ridicat
+Atunci când cei din jur te-au părăsit
+Doar Isus ți-a fost prieten iubit
+În Isus vei găsi ridicare
+De vei cădea la ale Lui picioare
+Și cântă-I
+Cu drag mereu
+
+[v3]
+Întotdeauna, Doamne, tu ești cu mine
+Și singur nicio clipă Tu nu mă lași
+Tu nu mă părăsești nicicând Stăpâne
+De aceea mă închin și-Ți mulțumesc
+
+[v4]
+Chiar dacă prietenii te părăsesc
+Eu sunt cu Tine mereu, te iubesc
+Chiar dacă cei din jur te-au părăsit
+Eu sunt mereu prieten iubit.

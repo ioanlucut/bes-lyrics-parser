@@ -1,0 +1,43 @@
+[title]
+La rugaciune doamne eu ma aplec mereu {author: {Anonim}, {rcId: {74209}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+La rugăciune Doamne eu mă aplec mereu
+Te chem să vii degrabă în ajutorul meu
+/: O sfântul lui Israel, dă-mi biruința
+Din cerul Tău răspund-mi, tu ești scăparea :/
+
+[c]
+Și Domnul mă aude când strig în necaz
+De câte ori Îl chem mă scapă cu al Său braț
+Din valuri și ispite când trec și mi-e greu
+El mă izbăvește, Hristos Emanuel
+Înalț atunci pe Domnul’n glasul meu și-L laud
+Îi povestesc lucrările Lui și-L înalț
+/: Mă laud cu dumnezeul meu cel minunat
+Mărit să fie Domnul de acum și pana’n veac :/
+
+[v2]
+Iar dacă adeseori eu sunt izbăvit
+Obosit de luptă deznădăjduit
+/: Plutesc pe marea vieții trrec prin val în val
+Atunci strig către Domnul să mă ridice iar :/
+
+[v3]
+Nu mai este mult pe acest pământ
+Curând veni-va Domnul M irele cel Sfânt
+/: Cu fața Lui curată ne va lumina
+Scăpați de acest pământ ne’om bucura :/
+
+[c2]
+Vom lăuda pe Domnul nostru neîncetat
+Vom preamări pe Mielul ce ne’a răscumpărat
+Osana Aleluia noi vom cânta
+Mireasă și cu Mire în cer ne-om bucura
+Cu fața Lui cea sfântă ne va lumina
+Scăpați de acest pământ cu El ne-om bucura
+/: Osana Aleluia! noi vom cânta
+Mărit să fie Domnul în veci și’n pururea :/

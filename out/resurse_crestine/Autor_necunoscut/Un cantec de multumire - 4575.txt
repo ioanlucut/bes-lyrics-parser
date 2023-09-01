@@ -1,0 +1,33 @@
+[title]
+Un cantec de multumire {author: {Anonim}, {rcId: {4575}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Un cântec de mulțumire cânt
+Spre lauda Ta, o, Domn preasfânt
+Căci dragostea Ta m-a copleșit
+Nimeni ca Tine n-a iubit.
+
+[c]
+Un păcătos eu sunt în fața Ta
+Tu mă ridici să-ți văd bunătatea.
+Cum să-ți spun ce fericit sunt azi
+Când harul tău din nou mi-ai arătat?
+Slavă Ție Domnul meu Preasfânt,
+Veșnic să răsune pe pământ
+Cântul meu din toată inima
+Ce-Ți laudă iar bunătatea Ta.
+
+[v2]
+Prin valea umbrei morții când eu trec
+Speranțele în Tine mă petrec.
+Tu ești cu mine și când norii vin
+Văd chipul Tău Sfânt, drept și divin
+
+[v3]
+Un cântec de slavă voi cânta
+Și-n cer lângă Tine când voi sta,
+Mirați ochii mei când vor vedea
+Că sunt și eu Doamne la dreapta Ta

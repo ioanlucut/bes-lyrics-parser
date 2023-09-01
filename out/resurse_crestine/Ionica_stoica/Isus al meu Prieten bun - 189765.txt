@@ -1,0 +1,35 @@
+[title]
+Isus al meu prieten bun {author: {Ionică Stoica}, {rcId: {189765}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+O viață-ntreagă am căutat
+un prieten bun și-adevărat,
+Să-i spun dorința ce o am,
+și pacea care, o doream.
+
+[c]
+Isus al meu, Prieten bun
+Fii cu mine, pe-al vieții drum.
+Eu sunt al Tău, iar Tu al meu,
+Nedespărțiți vom fi mereu.
+
+[v2]
+Am căutat, prin văi adânci,
+Prin munți, prin dealuri, și pe stânci
+Dar n-am găsit, ce-am căutat
+Un prieten bun și-adevărat.
+
+[v3]
+Altcineva spune așa:
+Prieten bun e Mesia!
+Toată viața de-ai căuta
+așa Prieten n-ai afla.
+
+[v4]
+Dar m-a găsit, al meu Isus
+Pe-o cruce la, Golgota sus.
+El pentru mine, a murit,
+cu viață Lui, El a plătit.

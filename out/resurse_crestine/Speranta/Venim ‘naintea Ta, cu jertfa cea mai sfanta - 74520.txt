@@ -1,0 +1,29 @@
+[title]
+Venim naintea ta cu jertfa cea mai sfanta {author: {Speranța}, {rcId: {74520}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Venim ’naintea Ta, cu jertfa cea mai sfântă
+Cu-ntreagă inima, ce de iubire cântă!
+Ale noastre mâini în sus spre Tine le-nălțăm
+Tu să primești, Isus, cântarea ce-o cântăm!
+
+[c]
+/: Îți vom cânta cântări de mulțumire!
+Și vom slăvi pe veci Numele Tău!
+Vom înălța a noastră proslăvire,
+Cât vom trăi Te vom lăuda mereu! :/
+
+[v2]
+Genunchii ni-i plecăm în Numele Tău Sfânt
+Și har noi așteptăm cu ochii lăcrimând...
+Să ne vorbești acum cu glas mângâietor
+Poporul Tău cel scump Îți cere ajutor.
+
+[v3]
+Genunchii ni-i plecăm în Numele Tău Sfânt
+Și har noi așteptăm cu ochii lăcrimând...
+Ale noastre mâini în sus spre Tine le-nălțăm
+Tu să primești, Isus, cântarea ce-o cântăm!

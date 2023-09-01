@@ -1,0 +1,35 @@
+[title]
+Pacatu-a ridicat o cruce {author: {Nicolae Moldoveanu}, {rcId: {200656}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Păcatu-a ridicat o cruce,
+Ca’ntins pe ea să fiu doar eu!
+Dar în iubirea Ta, Isuse,
+Te-ai răstignit în locul meu.
+
+[c]
+Isuse’n locul meu ai suferit,
+Isuse’n locul meu Tu ai murit!
+Prin jertfa Ta mi-ai dat, mi-ai dat, deplin,
+Al mântuirii har divin!
+
+[v2]
+Păcatu-a făurit o cruce,
+Să’ndur pe ea blestemul greu!
+Dar Tu făcutu-Te-ai Isuse,
+Blestem adânc în locul meu.
+
+[v3]
+Păcatu-a zămislit o cruce,
+Să-i sorb amarul ei mereu!
+Dar Tu sorbit-ai tot paharul,
+Isuse scump, în locul meu.
+
+[v4]
+Îți mulțumesc adânc, Isuse,
+Că slava Ta de Dumnezeu!
+Ți-ai umilit-o pentru mine,
+Și-ai dus Tu crucea’n locul meu.

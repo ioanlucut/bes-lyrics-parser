@@ -1,0 +1,23 @@
+[title]
+Iata cerul asteapta candidati {author: {Nicolae Moldoveanu}, {rcId: {5509}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Iata, cerul asteapta candidati... o Cine vine, cine vine?...
+Dumnezeu Isi intinde al Sau brat... o Cine vine, cine vine?...
+
+[c]
+/: Cine vine, o, cine vine?
+Caci cerul inca e deschis!
+Cine vine, o, cine vine?
+Grabiti-va spre Paradis! :/
+
+[v2]
+Domnul Isus mai este Salvator, o Cine vine, cine vine?...
+Si asteapta nespus de rabdator... o Cine vine, cine vine?...
+
+[v3]
+Timpul este nespus de limitat... o Cine vine, cine vine?...
+Te grabeste, de vrei sa fii salvat! o Cine vine, cine vine?

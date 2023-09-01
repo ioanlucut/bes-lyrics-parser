@@ -1,0 +1,30 @@
+[title]
+Astazi s-a nascut {author: {Victor Rauca}, {rcId: {85101}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Hai să cântăm cu toții
+Pe Cel născut la Betleem,
+La fel ca magii și păstorii,
+Închinare noi să-I dăm.
+
+[c]
+/: Azi s-a născut mântuirea,
+Isus din cer a venit,
+El ne-a adus izbăvirea,
+Domnul să fie preamărit!
+/:
+
+[v2]
+Într-o iesle, într-un staul,
+Domnul nostru S-a născut,
+El al lumii scump tezaur,
+De-o casă parte n-a avut.
+
+[v3]
+Mulțumire, Tatăl nostru,
+Pentru darul Tău nespus,
+Ce-așteptăm ziua aceea
+Să fim cu Tine-n cer sus!

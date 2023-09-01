@@ -1,0 +1,29 @@
+[title]
+Esti vrednic doamne sa fii slavit {author: {Terry W. York}, {rcId: {167381}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ești vrednic, Doamne să fii slăvit,
+Vrednic de cinste și glorie,
+Demn de cântări și de voci preamărit,
+Vrednic să fii Tu în inimi sfințit.
+
+[c]
+Tu ești vrednic, Tată din ceruri!
+Tu ești vrednic, Tu, Salvatorul!
+Tu ești vrednic, sfântă-nchinare
+Și slavă doar Ție să-Ți dăm.
+
+[v2]
+Ești cel mai demn de-onor și măriri,
+Demn ca în teamă să-ngenunchez,
+Să mă proștern cu al dragostei mir,
+Vrednic ești, Doamne, de-adânci mulțumiri.
+
+[v3]
+Atotputernic Tată și Domn,
+Rege al regilor, Salvator,
+Sfetnic, Prieten și Mângâietor,
+Tu, Mântuirea și-al vieții izvor.

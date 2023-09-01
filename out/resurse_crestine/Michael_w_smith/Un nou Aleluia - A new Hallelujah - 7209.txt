@@ -1,0 +1,32 @@
+[title]
+Un nou aleluia - a new hallelujah {author: {Michael W. Smith, Traducere RO}, {rcId: {7209}}
+
+[sequence]
+v1,c,c,v2,c,e
+
+[v1]
+Poți s-auzi ? E-un cântec nou
+Răsunând din a noastre glasuri
+Orice om, orice națiune
+Să cânte toți un nou Aleluia!
+
+[c]
+/: Să lăudam dragostea-I mare
+Și-al Său har ce ne-a dat libertate
+Să-L facem cunoscut lumii
+Să cântam toți un nou Aleluia! :/
+
+[b]
+Cu toți să ne ridicăm
+În jur iubire s-arătăm
+Pe al nostru Domn să-L lăudam
+Să cântam cu toți!
+
+[v2]
+Azi cântam un cântec nou
+Pentru Cel ce e vrednic de laudă
+Orice fiu, și orice fiică
+Să cânte toți un nou Aleluia!
+
+[e]
+/: Să cântam toți un nou Aleluia! :/ × 4

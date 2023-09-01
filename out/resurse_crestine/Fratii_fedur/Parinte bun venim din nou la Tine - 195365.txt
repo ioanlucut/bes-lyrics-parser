@@ -1,0 +1,41 @@
+[title]
+Parinte bun venim din nou la tine {author: {Frații Fedur}, {rcId: {195365}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Părinte bun, venim din nou la Tine
+Să binecuvântezi acest copil
+Cu daruri sfinte și comori divine
+Și-o viață să-Ți slujească pe deplin.
+
+[c]
+/: Și har după har revarsă în dar,
+Cu brațul Tău să-l ocrotești!
+Ajută-l la greu să simtă mereu
+Iubirea Ta de Dumnezeu! :/
+
+[v2]
+În lupta vieții să-i dai biruință
+Și-n ziua de necaz să-l întărești,
+Să-l ierți când se întoarce cu căință,
+Din mila Ta mereu să-i dăruiești.
+
+[c2]
+/: În zile cu nor să-i dai ajutor,
+Lumina Ta să-i dăruiești!
+Când vine smerit, să fie primit
+În harul Tău nemărginit. :/
+
+[v3]
+Iar când vei reveni cu slavă mare
+Să îi răpești la cer pe cei aleși,
+Să nu lipsească de la sărbătoare,
+S-ajungă sus în slăvile cerești.
+
+[c3]
+/: Cu Domnul Isus, în casa de sus,
+O veșnicie vom serba!
+La masă cu El, cu Emanuel,
+În cer, cu sfântul nostru Miel! :/

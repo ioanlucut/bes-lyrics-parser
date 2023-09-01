@@ -1,0 +1,33 @@
+[title]
+Seara-n liniste coboara {author: {Nicolae Moldoveanu}, {rcId: {198836}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Seara-n liniste coboară
+Ziua-n liniste-o sfârșim
+La un loc cu toți iară
+Sfinte Tata-Ți mulțumim
+
+[c]
+/: Mulțumim, mulțumim,
+Sfinte Tată-Ți mulțumim :/
+
+[v2]
+Tu ne-ai dat puterea toată
+Munca noastra s-o-mplinim,
+Pentru mila Ta bogată
+Sfinte Tată-Ți mulțumim.
+
+[v3]
+Ne-ai făcut cu-ndestulare
+Pâinea zilei s-o primim,
+Pentru grija-Ți iubitoare
+Sfinte Tată-Ți mulțumim.
+
+[v4]
+Somn cu pace, noapte bună
+De la Tine noi dorim
+Si-nc-o dată împreună
+Sfinte Tată-Ți mulțumim.

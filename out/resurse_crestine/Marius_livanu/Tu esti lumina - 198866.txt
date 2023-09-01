@@ -1,0 +1,27 @@
+[title]
+Tu esti lumina {author: {Marius Livanu}, {rcId: {198866}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Tu ești lumina, ce îmi dă speranță
+Ești bucuria, ce umple-a mea viață
+Tu ești pentru mine, o rază de soare
+Care străbați norii grei
+
+[c]
+/: Când fără tine, Doamne trăiesc
+Nu mai suspine, în suflet găsesc
+Departe de tine, viață-i un chin
+Nici o lumină, nici un cer senin :/
+/: Doar lângă tine, sunt fericit
+E atât de bine, să fiu mântuit
+Aproape de tine, e pace din plin
+Sfânta lumină, cer veșnic senin :/
+
+[v2]
+Tu ești lumina, ce îmi dă speranță
+Ești bucuria, ce umple-a mea viață
+Tu ești pentru mine, o rază de soare
+Care străbați norii grei

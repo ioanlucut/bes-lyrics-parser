@@ -1,0 +1,15 @@
+[title]
+Rege-al regilor domn al domnilor {author: {Anonim}, {rcId: {4221}}
+
+[sequence]
+v1,c
+
+[v1]
+/: Rege-al regilor,
+Domn al domnilor
+Glorie, aleluia :/
+
+[c]
+/: Isus,
+Print al pacii,
+Glorie, aleluia :/

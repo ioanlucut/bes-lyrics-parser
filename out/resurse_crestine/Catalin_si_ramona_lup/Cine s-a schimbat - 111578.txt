@@ -1,0 +1,42 @@
+[title]
+Cine s-a schimbat {author: {Cătălin și Ramona Lup}, {rcId: {111578}}
+
+[sequence]
+v1,v2,v3,v4,v5,b,c
+
+[v1]
+Unde este, oare, puterea din trecut ?
+O, las’ să se ridice, cum alții au văzut!
+Orbii iarăși să vadă, șchiopii din nou să umble
+Chiar morții să învie, și cei muți să cânte!
+
+[v2]
+Unde este oare, bucuria din trecut ?
+Să vinzi pământ, avere și s-o împarți la toți
+S-ajuți săraci, orfanii, să dai chiar tot ce ai
+Să fii o jertfă vie, de bun miros, plăcut ?
+
+[v3]
+Unde este oare rugăciunea din trecut ?
+Să se cutremure clădirea prin puterea Celui Sfânt ?
+Apoi cu prețul vieții să predici și să stai
+Neînfricat în luptă, în luptă cu Satan ?
+
+[v4]
+Unde este oare, pasiuinea din trecut ?
+Să calci pe lei, pe scorpii, s-alergi, să spui la toți
+Să strigi în gura mare că este un sfârșit
+Un rai și-un iad năpraznic, că nu e de glumit
+
+[v5]
+Unde este oare credința din trecut
+Când morții să învie, iar tu să mulțumești ?
+Pe marea-nvolburată tu parcă să pășești
+Uitându-te la Domnul ce te-a-nvățat să crezi ?
+
+[b]
+Cine s-a schimbat ? Dumnezeu sau noi ?
+
+[c]
+/: Dumnezeu rămâne-același, același
+E azi și în veci :/

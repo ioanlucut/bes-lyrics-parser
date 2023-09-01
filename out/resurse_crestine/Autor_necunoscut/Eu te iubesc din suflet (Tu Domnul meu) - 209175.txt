@@ -1,0 +1,29 @@
+[title]
+Eu te iubesc din suflet (tu domnul meu) {author: {Anonim}, {rcId: {209175}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Eu te iubesc din suflet drag Părinte
+Și vreau din zi în zi să te iubesc crescând
+Eu te iubesc fiindcă Tu cu mine
+C-o dragoste vorbești ce nu-i de pe pământ.
+
+[c]
+/: Tu Domnul meu ești stânca mea
+Mă ții mereu în mâna Ta :/
+
+[v2]
+Tu singur nu mă lași eu sunt cu frații
+Și glasul Ți-l aud: „
+Te binecuvintez!
+Căci binecuvintezi și tu pe alții
+Și să-i iubești pe cei din jur nu încetezi.”
+
+[v3]
+Tu iar vorbești cu voce minunată:
+„
+În toate fii onest, un om desăvârșit,
+Cum sînt și Eu cerescul vostru Tată
+Iubește, speră, crezi că fi-vei răsplătit.”

@@ -1,0 +1,29 @@
+[title]
+Chemarea harului de sus {author: {Nicolae Moldoveanu}, {rcId: {240968}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Chemarea harului de Sus,
+Și azi răsună încă,
+O, vino suflete supus,
+În brațul Domnului Isus,
+Prin jertfa-l sfântă ți-a adus,
+Iertarea Lui adâncă!
+
+[v2]
+Și astăzi sângele-l curat,
+E locul de scăpare,
+O, vin cu-al tău amar păcat,
+Oricât ai fi de-mpovărat,
+O, vino să fii ușurat,
+Prin sfânta Lui iertare!
+
+[v3]
+Să nu respingi chemarea Sa,
+Căci haru-i pe sfârșite,
+O, vin-acum, nu amâna,
+Isus te-așteaptă, nu uita,
+Căci El îți dă iertarea Sa,
+Și ceruri fericite!

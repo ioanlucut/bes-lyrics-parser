@@ -1,0 +1,19 @@
+[title]
+Yeshua {author: {Jesus Image Worship}, {rcId: {237613}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Preaiubitul meu,
+Ești cel mai frumos,
+Printre oameni, printre oameni x4
+
+[c]
+Yeshua x4
+Yeshua x4
+
+[v2]
+Preaiubitul meu,
+Ești cel mai frumos,
+Printre oameni, printre oameni x4

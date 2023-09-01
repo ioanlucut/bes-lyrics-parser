@@ -1,0 +1,26 @@
+[title]
+Fiu ratacitor in lume {author: {Rugul aprins}, {rcId: {159082}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Fiu rătăcitor în lume, fost-am fără Dumnezeu,
+/: El m-a chemat, n-am ascultat,
+Am plecat pe drumul rău! :/
+
+[c]
+/: Din lumea rea te-ntoarce, nu mai sta,
+Căci mâine poate nu vei mai putea,
+Ascultă vocea Lui, chemarea Tatălui,
+Spune da, azi Domnului! :/
+
+[v2]
+Nu mai rătăcesc în lume, sunt un fiu răscumpărat,
+/: Tot ce-am făcut, azi e trecut,
+De păcate sunt iertat! :/
+
+[v3]
+Fiu rătăcitor prin lume, cât mai vrei să pribegești,
+/: Când viața ta se va schimba,
+Când vrei să te pocăiești? :/

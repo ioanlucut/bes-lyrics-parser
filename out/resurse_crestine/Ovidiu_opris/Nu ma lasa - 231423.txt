@@ -1,0 +1,29 @@
+[title]
+Nu ma lasa {author: {Ovidiu Opriș}, {rcId: {231423}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Nu mă lăsa să renunț când drumul este greu,
+Să nu mai pot zâmbi când soare nu-i, ci nori.
+Nu mă lăsa să uit ca să Te laud mereu,
+Când, după noaptea rece, apar ai zilei zori.
+
+[c]
+Nu aș putea să-Ți cer, o, Doamne, altceva
+Din tot ce-ai pregătit pentru mine.
+Tot ceea ce-mi doresc și fericirea mea
+Este să fiu mereu alături de Tine.
+
+[v2]
+Nu mă lăsa pierdut în lume să rătăcesc,
+Fără să fiu de Duhul Tău călăuzit.
+Nu mă uita când singur prin furtuni pășesc.
+Fii lângă mine! La pieptul Tău, sunt ocrotit.
+
+[v3]
+Nu mă lăsa stingher când drumul voi sfârși,
+La umbra Ta, pentru vecii, mă odihnesc.
+Amintește-Ți de mine când, glorios, ai să revii,
+Zborul să-mi fie lin către locașul ceresc.

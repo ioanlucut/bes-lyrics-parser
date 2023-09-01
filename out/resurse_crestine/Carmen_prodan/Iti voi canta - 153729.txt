@@ -1,0 +1,23 @@
+[title]
+Iti voi canta {author: {Carmen Prodan}, {rcId: {153729}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+N-am cuvinte ca sa-Ti multumesc o Doamne
+Pentru tot ce ai lucrat in viata mea
+
+[c]
+Domane Tie-Ti voi canta cat va fi viata mea
+Caci mult bine ai facut sufletului meu
+Doamne Tu m-ai izbavit din necazul cel cumplit
+Si mi-ai dat din nou puterea de-a trai
+
+[v2]
+Cand cel rau a cerut sa mi cearna viata
+Te-ai rugat si pentru credinta mea
+
+[v3]
+Esti taria ce ma scapa-ntodeauna
+Pe vecie vei ramane Stanca mea

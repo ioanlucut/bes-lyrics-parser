@@ -1,0 +1,50 @@
+[title]
+Curateste-ma si voi fi curat {author: {Estela C. Manea}, {rcId: {73788}}
+
+[sequence]
+v1,c,v2,c2,c2,e
+
+[v1]
+Îmi recunosc, Doamne, fărădelegea
+Păcatul stă ’naintea mea
+Am făcut ce e rău ’naintea Ta
+Și-am atras judecata Ta
+Dar sunt născut în nelegiuire
+Și în păcat...
+
+[c]
+Curățește-mă și voi fi curat
+Spală-mă și voi fi mai alb
+Înviorează-mă, dă-mi pacea Ta
+Și-atunci eu mă voi bucura
+
+[v2]
+Zidește în mine o inimă curată
+Și dă-mi un duh nou
+Nu mă lepăda dinaintea Ta
+Și nu-mi lua Duhul Tău
+Și voi umbla în calea Ta
+După-ndurarea Ta
+
+[c2]
+Te voi proslăvi-n veci de veci
+Te voi proslăvi cât voi trăi
+Inima mea îți aduc ca arderi de tot
+Ție mă dau tot...
+
+[b]
+Și limba mea Doamne
+Va vesti-ndurarea
+Și gura mea va cânta lauda
+Mi-ai reînnoit duhul zdrobit
+Zidul L-ai rezidit!
+
+[e]
+Curățește-mă și voi fi curat
+Spălă-mă și voi fi mai alb
+Înviorează-mă, dă-mi pacea Ta
+Și-atunci eu, și-atunci eu....
+Te voi proslăvi-n veci de veci
+Te voi proslăvi cât voi trăi
+Inima mea îți aduc ca arderi de tot
+Ție, Ție, Ție mă dau tot - Ție mă dau tot.

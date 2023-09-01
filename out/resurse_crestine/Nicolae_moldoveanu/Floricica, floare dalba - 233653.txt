@@ -1,0 +1,24 @@
+[title]
+Floricica floare dalba {author: {Nicolae Moldoveanu}, {rcId: {233653}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Floricică, floare dalbă, astăzi fac din tine salbă:
+cum e albul tău curat, vreau să fie-al meu umblat.
+
+[c]
+Ca să plac lui Dumnezeu, azi și mâin’ și-n veci mereu.
+
+[v2]
+Floricică-nmiresmată, ce-ți împarți mireasma toată:
+vreau să-nmiresmez și eu peste tot, prin traiul meu.
+
+[v3]
+Floricică preafrumoasă, și-n grădină și în casă.
+Ca și tine eu doresc, tuturor să folosesc.
+
+[v4]
+Dumnezeu ți-a dat zidirea, să-I înalți nemărginirea.
+Și pe mine tot așa: să trăiesc spre Slava Sa.

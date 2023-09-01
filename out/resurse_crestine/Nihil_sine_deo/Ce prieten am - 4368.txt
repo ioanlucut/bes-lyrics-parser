@@ -1,0 +1,21 @@
+[title]
+Ce prieten am {author: {Nihil sine Deo}, {rcId: {4368}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Ce Prieten am
+Mai scump decat un frate
+Prezenta i-am simtit
+Atata de aproape.
+
+[c]
+Isus, Isus, Isus,
+Prieten pe veci.
+
+[v2]
+El e tot ce am
+Tot ce vreau in viata
+Numai langa El
+Gasesc si astazi pace.

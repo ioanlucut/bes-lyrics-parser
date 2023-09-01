@@ -1,0 +1,44 @@
+[title]
+Am vazut un copac (tree song) {author: {Ken Medema, Traducere RO}, {rcId: {103996}}
+
+[sequence]
+v1,c,v2,c2,s,c2
+
+[v1]
+Am văzut un copac ce creștea
+Puternic pe malul de râu.
+În orice zi, el mai sus se înălța,
+Din soare puterea își lua;
+Cum vrei puternic să fii ca un copac
+Ce crește pe malul de râu,
+Când însetat vei cădea în pustiu uscat?
+
+[c]
+Dacă inima ta e curată
+Și viața ți-o vrei nepătată,
+Când furtuni se abat, tu vei sta neclintit;
+Dacă stai tot mereu sus pe malul
+Unui râu nesecat, chiar și dacă
+Un nor negru lumina ți-o ia
+Va lumina... lumina Sa.
+
+[v2]
+Am privit cum lovită era
+De valuri o stâncă mereu,
+Dar risipite în stropi neîncetat
+Învinse, înapoi se retrăgeau;
+Cum vrei să fii neclintit în încercări,
+La fel ca o stâncă în val,
+Când suferința cu dragoste s-alini nu vrei?
+
+[c2]
+Dacă inima ta e curată
+Și viața ți-o vrei nepătată,
+Când furtuni se abat, tu vei sta neclintit;
+Ca să fii neclintit ca o stâncă,
+Să n-ai teamă de apa adâncă,
+Doar în sus, tu privește acum,
+Te va-ajuta... puterea Sa.
+
+[s]
+El este ca un pom sădit lângă un izvor de apă, care își dă rodul la vremea lui și ale cărui frunze nu se vestejesc: tot ce începe, duce la bun sfârșit. Psalm 1:3

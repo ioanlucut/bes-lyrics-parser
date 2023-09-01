@@ -1,0 +1,21 @@
+[title]
+Laudam pe domnul {author: {Nicolae Moldoveanu}, {rcId: {225053}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Lăudăm pe Domnul, toți să-L lăudăm,
+noi copiii, pururi laudă-I cântăm!
+
+[c]
+El e Tatăl nostru, viață El ne-a dat,
+Fie veșnic, fie veșnic, fie lăudat!
+
+[v2]
+Lăudăm pe Domnul, viul Dumnezeu,
+Laudă și cinste Îi cântăm mereu!
+
+[v3]
+Lăudăm pe Domnul, cât vom fi-L slăvim,
+Prin cântarea noastră slava I-o mărim!

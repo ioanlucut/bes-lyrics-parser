@@ -1,0 +1,45 @@
+[title]
+In timpul vietii tineresti nimic eu nu stiam {author: {Anonim}, {rcId: {195736}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c2
+
+[v1]
+În timpul vieții tinerești, nimic eu nu știam.
+Din zori și până-n nopți târzii, în nepăsări trăiam.
+/: Trăiam condus de gândul meu, făceam pe placul meu,
+Dar mama suspina adânc după sufletul meu. :/
+
+[c]
+În rugăciunea mamei, în rugăciunea ei,
+Eu, numele, mi-l auzeam, în rugăciunea ei.
+
+[v2]
+Umblam pe drumuri, rătăcind, la Domnul nu gândeam.
+Prin fapte rele ce făceam, pe mama-ndureram...
+/: Cu inima ranită rău, dar plină de iubire,
+Vedeam cum se ruga mereu, plângând pentru mine. :/
+
+[v3]
+În timpul vieții tinerești, eu glasu-i auzeam:
+„
+Te rog, pe tine, fiul meu, să nu uiți ce ți-am spus!
+/: Fugi de păcat, nu face rău, la Domnul vino azi!... ”
+Și-am auzit cum se ruga: „
+O, fiul meu iubit!” :/
+
+[v4]
+Trecut-au zile peste vremi, viața-mi se scurgea.
+O, câte rele ce faceam, nimica nu știam.
+/: Dar, prin furtuni și vânturi mari, prin viață când treceam,
+Eu, glasul ei, îl auzeam cum iarăși se ruga. :/
+
+[v5]
+Și-acuma în Hristos am aflat, pe veci mântuirea.
+Păcatele-mi am părăsit și Îl iubesc nespus!
+/: Iar raza Domnului Isus s-a revărsat duios
+Și-n dar de toate am primit prin rugăciunea ei. :/
+
+[c2]
+Prin rugăciunea mamei, prin rugăciunea ei,
+Mi-a șters, Isus, păcatele, prin rugăciunea ei.

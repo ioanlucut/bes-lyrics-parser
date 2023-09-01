@@ -1,0 +1,35 @@
+[title]
+Dreptatii tale {author: {George Lauric}, {rcId: {175618}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Dreptății Tale, Doamne ți-s alături
+Toți cei ce pentru Tine au luptat;
+/: Ei niciodată nu s-au dat înlături,
+Ci drepți în fața celor mari au stat. :/
+
+[v2]
+Iubirii Tale, sfinte și divine,
+Adesea sufletul și-au chinuit;
+/: Ei niciodat’ nu s-au mințit pe sine,
+Ci pentru adevăr au suferit. :/
+
+[v3]
+Cărării Tale, -nguste și curate
+cu vrednicie drumul și-au păstrat;
+/: Batjocoriți de cei cu frunți înalte,
+Vânduți de lumea ce i-a lepădat. :/
+
+[v4]
+Strigării Tale, ei vor fi spre viață
+Purtați de glasul ce i-a înfrățit;
+/: Vor straluci-n eterna dimineață,
+Toți câți dreptății Tale-au suferit. :/
+
+[v5]
+Credinței Tale, căii revelate,
+Păzind Cuvântul, viața ei și-au dat;
+/: În lumea-nvățăturilor stricate
+Prin sfântul adevăr au triumfat. :/

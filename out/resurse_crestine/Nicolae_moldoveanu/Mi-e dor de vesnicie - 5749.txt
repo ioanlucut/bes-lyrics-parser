@@ -1,0 +1,35 @@
+[title]
+Mi-e dor de vesnicie {author: {Nicolae Moldoveanu}, {rcId: {5749}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Mi-e dor de veșnicie,
+Ca rănii de balsam,
+Și-n inima-mi pustie,
+Vreau pacea Ta s-o am.
+
+[c]
+Tânjesc de dor... mi-e sete de izvor...
+De aceea vreau să plec, căci toate trec în zbor;
+Departe-n zări, pe-a-veșniciei mări,
+Cu barca vieții vreau să mă predau.
+
+[v2]
+Așa-i din veci Calvarul:
+Un drum de suferinți...
+Acolo unde-i harul,
+E pace, ca-ntre sfinți...
+
+[v3]
+N-am patrie, sub soare,
+N-am liniște sub nori;
+O, cheam-a mea simțire
+Cu sufletu-n fiori...
+
+[v4]
+Căci totuși, am o țară,
+Un plai strălucitor,
+Și doru-mi crește iară:
+Spre ea... spre ea, să zbor...

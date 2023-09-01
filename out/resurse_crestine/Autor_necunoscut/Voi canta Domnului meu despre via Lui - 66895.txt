@@ -1,0 +1,36 @@
+[title]
+Voi canta domnului meu despre via lui {author: {Anonim}, {rcId: {66895}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Voi cânta Domnului meu despre via Lui
+Via Lui de pe câmpie, de cel mai bun soi.
+Voi cânta Domnului meu ce-a săpat pământul
+Și prin rodul jertfei Își ține jurământul.
+
+[c]
+Ce ți-am putut face și nu ți-am făcut, via mea?
+Ce ți-am putut face și nu ți-am făcut, fiul meu?
+Ce ți-am putut face și nu ți-am făcut, fiica mea?
+De ce, de ce mă răstignești, de ce, de ce mă prigonești?
+
+[v2]
+Iubitul meu din ceruri avea o vie jos,
+În valea umbrei morții, ținutul cel stâncos,
+El intră azi pe poartă să-Și curățească via,
+Intrarea-i prin Golgota, prin jertfa lui Mesia.
+
+[v3]
+Așa zice vierul când vine în grădină:
+”
+De n-or fi struguri buni, ci spini și pălămidă,
+Voi smulge tot afara și via și butucul
+Și-am să le arunc în groapă, unde stăpân e focul.”
+
+[v4]
+De-ai înțeles chemarea prin care-ai fost ales,
+În casa Lui cea sfântă, locașul Lui ceresc,
+Trăiește azi cuvântul și pune preț pe el,
+Să nu fii dat afară când vine Emanuel!

@@ -1,0 +1,35 @@
+[title]
+Astazi s-a nascut un copilas {author: {Mihail Cebotarev}, {rcId: {7275}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Astăzi S-a născut un Copilaș
+Într-o iesle dulce și gingaș,
+S-a născut Mântuitorul,
+Pruncul Sfânt, Emanuel.
+Vestea Bună îngerii au adus
+Pe pământ, căci S-a născut Isus,
+Regele ceresc, Mesia,
+În cetatea Betleem.
+
+[c]
+/: Să răsune pretutindeni,
+Pace fie pe pământ,
+Ca să nu rămână nimeni
+Niciun om nemântuit.
+Azi e zi de sărbătoare,
+Cântă corul îngeresc,
+Pace fie între popoare,
+Pe tot globul pământesc. :/
+
+[v2]
+Azi e ziua să ne bucurăm,
+Pe vrăjmașii noștri să-i iertăm,
+Să-i iubim ca toată lumea
+Să trăiască toți ca frați.
+Să vestim întregii omeniri
+Vestea Bună acestei mari iubiri
+Despre Isus, preascumpul Nume
+Căci prin El am fost salvați.

@@ -1,0 +1,33 @@
+[title]
+Ani vietii {author: {Onisim Grab}, {rcId: {234941}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mă uit în urma azi la anii vieții mele
+Și mă-nfior când văd că trec așa ușor
+Mă copleșeste amintirea
+Cu dragoste, copilăria
+Dar anii au trecut și a rămas doar dor
+
+[c]
+Dar am nădejde că odată-n veșnicie
+Alături de Isus voi fi mireasa Sa
+Iar zilele rămase-n viață
+Voi sta cu haina nepătată
+Și voi rămâne neclintit pe calea Sa
+
+[v2]
+Eu am nădejde că odată sus in ceruri
+Cu-ai noștri dragi atunci noi ne vom revedea
+Cu cei plecați acum din viață
+Vom sta cu toții față-n față
+Și-o veșnicie cu Isus ne-om bucura
+
+[v3]
+O singură dorință am în asta lume
+Ca toți cei dragi sa fie-acolo-n veșnicii
+Sa nu rămână nimeni Doamne
+De vei veni in miez de noapte
+Aceasta este tot ceea ce-mi pot dori

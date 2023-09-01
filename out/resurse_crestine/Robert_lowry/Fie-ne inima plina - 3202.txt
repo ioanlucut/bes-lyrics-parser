@@ -1,0 +1,35 @@
+[title]
+Fie-ne inima plina {author: {Robert Lowry}, {rcId: {3202}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Fie-ne inima plină
+De laudă, mulțumire
+Că ai Săi fii ne numește
+Înduratul Părinte!
+
+[c]
+Cu dragoste, cu dragoste,
+Către Isus să mergem;
+Că viața ne-a fi veselie;
+Cu dragoste ’nainte!
+
+[v2]
+Părintele cu mâna Sa,
+Ne-a păzi și ne-a purta;
+Cu-ndurare dăruiește
+Tărie în inimă.
+
+[v3]
+De El când ne-om îndepărta
+Noaptea iar ne-a-nconjura,
+Nu ne-o fi calea sigură,
+Și nu ne-om mai bucura.
+
+[v4]
+Dar cei drepți toți cum înfloresc,
+Pe cale sunt desfătați
+Să-I servim dar toți lui Isus,
+De păcat fiind scăpați.

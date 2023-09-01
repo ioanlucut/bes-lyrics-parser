@@ -1,0 +1,41 @@
+[title]
+Din zorii vietii {author: {Ioan Timofte}, {rcId: {110902}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Din zorii vieții copil mic fiind
+Am crezut că Domnul e viu
+Am citit în Cuvânt despre Dragostea Sa
+Și durerea pentru vina mea
+Am simțit bucurii și-am ales să-L slujesc
+Și nicicând nu veau să-L întristez
+Vom păși împreună, vom ajunge la mal
+O, ce sfântă unire va fi!
+
+[c]
+/: Dar acum, sfinte Tată, eu știu prețul meu
+Suferința pentru-al meu păcat
+Zi de zi în viață Te simt că est viu
+Veșnic, dulcele meu Împărat :/
+
+[v2]
+Sarcini grele în viață-am purtat
+Lovituri nemiloase-am primit
+Uneori istovit sub povoară-am căzut
+Sub rana adâncă-am gemut
+Dar milosul Păstor s-a-ndurat și-a privit
+Și rana adâncă a atins
+Mâna sfântă balsam peste rană a pus
+Și spre cer Duhul Său m-a condus!
+
+[v3]
+Iubirea Lui mare se află în noi
+Prin ea răul învingem oricând
+Lumea se luptă să ne vadă învinși
+Să înfrângă tot ce este sfânt
+Pot să spun vina ta L-a durut pe Isus
+Dar El a murit pentru tin’
+Iești prețul iubiri, pentru tin’ s-a jertfit
+Isus pentru tine-a murit!

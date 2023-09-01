@@ -1,0 +1,32 @@
+[title]
+Intr-un sat sarac mai indepartat (ce minune ce minune) {author: {Căpâlna Violeta}, {rcId: {183373}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Într-un sat sărac mai îndepărtat,
+Au venit trei crai să vadă, Pruncul înfășat
+În paie culcat.
+
+[c]
+Ce minune! Ce minune!
+S-a născut
+ /: un împărat :/
+/: Într-o iesle din Iudeea
+În Betleem într-un sat :/
+
+[v2]
+Betleem iubit, satul mult vestit
+Unde fecioarea Maria, naște pe Mesia
+Naște pe Mesia
+
+[v3]
+Și s-au închinat, Pruncului curat
+Craii de la răsărit, ii s-au închinat,
+Pruncului Curat
+
+[v4]
+Magii i-au adus, Pruncului Isus
+Aur, Smirnă și Tămie, magii i-au adus
+Pruncului Isus.

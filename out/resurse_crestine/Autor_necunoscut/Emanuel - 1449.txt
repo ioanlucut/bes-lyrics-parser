@@ -1,0 +1,29 @@
+[title]
+Emanuel {author: {Anonim}, {rcId: {1449}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+În Betleem un prunc s-a născut
+Cu numele Emanuel.
+Isus Cristos al meu Salvator
+Al meu și-al tău: Emanuel!
+
+[v2]
+Emanuel, Dumnezeu cu noi
+Acesta e al Său nume.
+Dumnezeu este cu noi
+Acesta e numele.
+
+[v3]
+Noi Îl iubim atât de mult
+Pe-al nostru Domn Emanuel.
+El este Domn, Mântuitor
+Ce nume sfânt, Emanuel!
+
+[v4]
+Emanuel, Dumnezeu cu noi
+Acesta e al Său nume.
+Dumnezeu este cu noi
+Ce nume sfânt: Emanuel!

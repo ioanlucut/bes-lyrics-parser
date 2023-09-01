@@ -1,0 +1,29 @@
+[title]
+Cu isus noi pornim {author: {Nicolae Moldoveanu}, {rcId: {204017}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cu Isus noi pornim voioși
+Lui voim să-I fim credincioși,
+Lui voim să-I slujim cu drag,
+Înălțând crucea Lui ca un steag.
+
+[c]
+/: Ținta noastră, steagul nostru e Isus
+Să-nălțăm și mai puternic, tot mai sus,
+Pentru El, noi voioși pornim,
+Pentru El, fericiți ne jertfim. :/
+
+[v2]
+Fericiți și voioși muncim,
+Slujba Lui tot mai mult iubim.
+Lucrul Lui mai cu drag făcând,
+Vom vedea slava Lui mai curând.
+
+[v3]
+O, Isus, o, Isus iubit,
+Dă-ne-un har și-un avânt slăvit,
+Să-Ți cântăm și slujim voioși,
+Biruind și sfârșind credincioși.

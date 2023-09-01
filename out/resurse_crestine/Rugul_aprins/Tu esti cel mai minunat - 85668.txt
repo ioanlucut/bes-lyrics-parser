@@ -1,0 +1,44 @@
+[title]
+Tu esti cel mai minunat {author: {Rugul aprins}, {rcId: {85668}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+N-am cuvinte ca să-ți spun
+Cât ești Tu Doamne de bun
+Te-ai plecat spre min’,
+M-ai mântuit.
+Mi-ai luat povara grea,
+Mi-ai dus-o la Golgota
+Și mi-ai dat în schimb
+Pacea Ta...
+
+[c]
+Tu ești cel mai minunat
+Ești al lumii Împărat
+De aceea eu Îți cânt slavă ne-ncetat!
+Dai lumina zorilor, strălucire stelelor
+Nimeni-n lume nu-i ca Tine
+Puternic Dumnezeu!
+
+[v2]
+Fericit eu am să-ți cânt
+Cât voi trăi pe pământ
+De iubirea ce
+Mi-ai arătat...
+Niciodată singur nu-s
+Sunt pe brațul Tău,
+Isus
+M-ai luat pe veci
+În mâna Ta...
+
+[v3]
+Isuse ’naintea Ta
+Îmi aduc azi inima
+Fă de-acum ce vrei
+Doamne cu ea...
+Ești Izbăvitorul meu,
+Unic Fiu de Dumnezeu,
+Ție am să-ți cânt
+Doamne mereu...

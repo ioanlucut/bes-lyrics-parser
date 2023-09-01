@@ -1,0 +1,17 @@
+[title]
+Leaga-ne doamne pe toti impreuna {author: {Bob Gillman}, {rcId: {4988}}
+
+[sequence]
+v1,c
+
+[v1]
+Leagă-ne, Doamne, pe toți împreună
+Cu lanțuri ce nu pot fi rupte;
+Leagă-ne, Doamne, pe toți împreună,
+O, leagă-ne prin dragoste.
+
+[c]
+/: Este-un singur Domn,
+Este-un singur Fiu,
+Este-un singur Duh,
+De aceea-Ți cântăm. :/

@@ -1,0 +1,39 @@
+[title]
+Cu tine-n gand {author: {Costache Ioanid și Saron}, {rcId: {228790}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Cu Tine-n gând, Te chem să vii
+Să-mi aperi viața de-orice cuget rău.
+Te chem din zări de flori și simfonii
+Cu îngeri albi plutind în jurul Tău.
+
+[c]
+/: Te chem din zări de flori și simfonii,
+Cu îngeri albi plutind în jurul Tău. : \
+
+[v2]
+Cu Tine-n gând, Te chem sfios Te chem sfios
+Privind sub pleoape cerul înstelat.
+Cu Tine orice gând e-un vis frumos
+Și orice vis frumos e-adevărat.
+
+[c]
+/: Cu Tine orice gând e-un vis frumos
+Și orice vis frumos e-adevărat. : \
+
+[v3]
+Cu Tine-n gând, doar eu și Tu, doar eu și Tu
+Un psalm de har să fie viața mea
+”
+Nu” să spun atunci când Tu spui ”nu”
+”
+Da” să spun la orice spui Tu ”da”.
+
+[c2]
+/: Cu Tine-n gând ca-n Paradis,
+De-acum și până-n cer mă voi trezi
+Cu Tine-n gând să fiu pe căi de vis
+Și iar cu Tine-n gând în zori de zi... : \

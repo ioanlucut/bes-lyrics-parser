@@ -1,0 +1,29 @@
+[title]
+In orice zi eu vreau sa te laud {author: {Gabi Ilut}, {rcId: {108692}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În orice zi eu vreau să Te laud
+Vreau Numele Tău să-L preamăresc,
+În orice zi Fața Ta o caut
+Doar pentru Tine vreau să trăiesc
+
+[c]
+/: Inima-mi cântă de bucurie
+Cu haina laudei m-ai îmbrăcat,
+Vreau să Îți cânt, Doamne, numai Ție
+Ești Veșnicul Împărat :/
+
+[v2]
+Chiar și atunci când îngrijorarea
+Vrea să mă frângă eu nu disper,
+La Domnul meu știu că am scăparea
+Privirea mea se-ndreaptă spre Cer
+
+[v3]
+Nimc nu poate să mă despartă
+De Domnul meu, cetățuia mea
+În orice zi grija mea o poartă
+Mă ocrotește cu Mâna Să!

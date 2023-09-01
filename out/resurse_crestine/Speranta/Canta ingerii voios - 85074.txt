@@ -1,0 +1,29 @@
+[title]
+Canta ingerii voios {author: {Speranța}, {rcId: {85074}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cântă îngerii voios
+Că ni s-a născut Hristos
+El e Fiul lui Dumnezeu
+A venit din cerul Său.
+
+[c]
+/: Mii de îngeri cântă-n cor
+Ei colindă cântul lor
+Împărat și Rege mare
+Slavă-n veci și onoare. :/ ×2
+
+[v2]
+A lăsat cerul slăvit
+Pe pământ venind smerit
+Născut prin fecioara sfântă
+Jos în ieslea cea măruntă.
+
+[v3]
+Hai cu toții să-L slăvim
+În colind să ne unim
+Slavă-n cer și pe pământ
+Cu îngerii lăudând.

@@ -1,0 +1,30 @@
+[title]
+Puterea ce o ai sa schimbe inimi (te-aude cerul cand spui da ) {author: {Anonim}, {rcId: {149386}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Puterea ce o ai să schimbe inimi
+S-aducă oameni pe cărări divine
+Iubirea ce-ai avut-o la Calvar
+Să mori o Doamne pentru mine :/
+
+[c]
+/: Te-aude cerul când spui ”
+DA”
+Vino acum nu amâna
+Și vei fi un om iertat, un om binecuvântat
+Vino acum să fi salvat :/
+
+[v2]
+/: Iar dacă ești un păcătos
+Vino la Isus Hristos
+Predă-ți degrabă inima
+Să locuiască Domnu-n ea :/
+
+[v3]
+/: Cuvintele Scripturii spun
+Să vii la El căci El e bun
+Să lași în urmă tot ce-i rău
+Și să fi cu Dumnezeu :/

@@ -1,0 +1,23 @@
+[title]
+Singur cu tine {author: {Ilie Neagu}, {rcId: {86682}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+E târziu în scurgerea vremii și tot mai greu înaintez
+Mă lupt din ce în ce mai mult doresc, curat să mă păstrez
+În juru-mi este noapte am obosit pe drum
+Sufletul meu Te cheamă și printre lacrimi spun
+
+[c]
+/: Singur cu Tine străbat drumul greu
+Singur cu Tine sunt Domnul meu
+Singur cu Tine merg prin noaptea grea
+Singur cu Tine pășesc pe calea mea :/
+
+[v2]
+Timpurile în care trăiesc tind să mă despartă
+De Tine, Creatorul meu Tu cel care mi-ai dat viața
+Dar dragostea ce ne-a legat în fiecare zi mă îndeamnă
+Să trăiesc aproape de Tine chiar dacă în juru-mi totul se destrămă

@@ -1,0 +1,38 @@
+[title]
+Secundele curg {author: {Daniel Briciu}, {rcId: {240367}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Secundele curg ca valuri la rând, ce pier istovite la mal.
+Puțin a rămas, iar ultimul ceas e gata de gongul final.
+Natura suspină și parc-ar dori să spună cu ultimul grai
+Că Domnul se-ntoarce spre a ne răpi, dar tu, biserică, cum stai?
+
+[c]
+/: Ești tu gata să-L întâlnești pe nor?
+Ești tu gata în față să-L privești?
+Ești tu gata să te înalți în zbor?
+Ești tu gata sau cum ești? :/
+/: Ești tu gata să-L întâlnești pe nor?
+Ești tu gata în față să-L privești?
+Ești tu gata să te înalți în zbor?
+Ești tu gata sau cum ești? :/
+/: Ești tu gata să-L întâlnești pe nor?
+Ești tu gata în față să-L privești?
+Ești tu gata să te înalți în zbor?
+Ești tu gata sau cum ești? :/
+
+[v2]
+Cel rău ca un leu răcnește mereu, pe-aleși să-i înghită ar vrea
+Și mulți din popor renunță ușor la lupta ce e tot mai grea.
+Pământul se clatină din temelii și strigă cu tainicu-i grai
+„
+Isus se întoarce, El va reveni!”, dar tu, biserică, cum stai?
+
+[v3]
+În oricare ceas al trâmbiței glas se poate de-acum auzi
+Și Domnul Isus, așa cum ne-a spus, la noi poate-acum reveni.
+N-auzi cum te cheamă prin Sfântul Său Duh, căci vrea să te ducă în rai,
+E-aproape momentul răpirii-n văzduh, dar tu, biserică, cum stai?

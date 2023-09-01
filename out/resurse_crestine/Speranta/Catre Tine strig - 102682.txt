@@ -1,0 +1,40 @@
+[title]
+Catre tine strig {author: {Speranța}, {rcId: {102682}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+Către Tine strig, o Doamne
+Să-mi arăți cărărea Ta
+Povățuiește-mă mereu
+Calea Ta s-o pot urma
+Să nu rătăcesc nicicând
+Pe cărări întunecoase
+Cheamă-mă spre lumină
+Pe câmpiile mănoase!
+
+[c]
+: Vorbește-mi Doamne
+Vorbește-mi Doamne
+Glasul Tău e-atât de blând și duios!
+Vorbește-mi Doamne
+Vorbește-mi Doamne
+Tu ești Dumnezeul meu:
+Isus Hristos!:
+
+[v2]
+Cu iubire îmi vorbești
+Când sunt căzut la pamânt
+La ureche îmi șoptești
+Să pornesc iar cu avânt
+Bezna nopții care vine
+Nu mă poate-nspaimânta
+E un susur ce mă ține
+E glasul Tău, e vocea Ta!
+
+[b]
+Vorbește-mi Doamne-n orice zi
+Urechea mea va auzi
+Șoapta Duhului Tău Sfânt
+Cuvântul Tău, susurul blând

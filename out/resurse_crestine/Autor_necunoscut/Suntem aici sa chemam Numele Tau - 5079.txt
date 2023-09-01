@@ -1,0 +1,27 @@
+[title]
+Suntem aici sa chemam numele tau {author: {Anonim}, {rcId: {5079}}
+
+[sequence]
+v1,e,v2,c
+
+[v1]
+Suntem aici să chemăm Numele Tău,
+Așteptăm focul cel sfânt al slavei Tale;
+Când ne rugăm, umple Doamne acest loc,
+Dă-ne ploaie, dă-ne foc, dă-ne trezire.
+
+[e]
+O, dă-ne dragoste,
+O, vino Doamne, Doamne.
+
+[v2]
+Nu vom pleca fără ca prezența Ta
+Să-nsoțească-ai noștri pași, calea noastră,
+Cum se va ști că suntem copiii Tăi,
+Dacă Tu nu locuiești în viața noastră.
+
+[c]
+Prezența Ta ne schimbă inima,
+Prezența Ta ne vindecă mereu,
+În noapte, ea va lumina,
+Dorim prezența Ta.

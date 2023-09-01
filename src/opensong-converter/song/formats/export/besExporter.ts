@@ -1,7 +1,7 @@
 import { isEmpty, trim } from 'lodash';
 import { FileExporter } from './index';
 import { Song } from '../../song';
-import { cleanContent, cleanFilename } from '../../../../contentCleaner';
+import { cleanBasicContent, cleanContent, cleanFilename } from "../../../../contentCleaner";
 import {
   CARET_RETURN,
   COMMA,
@@ -21,7 +21,7 @@ export const besExporter: FileExporter = {
     const maybeAuthor = `${
       !isEmpty(song.authors)
         ? `${SongMeta.AUTHOR}: {${song?.authors
-            ?.map(({ name }) => cleanContent(name))
+            ?.map(({ name }) => cleanBasicContent(name))
             .join(`${COMMA}${EMPTY_SPACE}`)}}`
         : EMPTY_STRING
     }`;

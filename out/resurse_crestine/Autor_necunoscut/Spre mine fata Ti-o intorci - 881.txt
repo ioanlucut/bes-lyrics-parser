@@ -1,0 +1,29 @@
+[title]
+Spre mine fata ti-o intorci {author: {Anonim}, {rcId: {881}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Spre mine fața Ți-o întorci
+Și sufletul meu Te slăvește
+Iertare-mi dai, sunt fericit
+Și sufletul meu Te mărește.
+
+[c]
+Prin încercări voi sta
+Căci am un preț în fața Ta
+Și-n brațul Tău voi sta
+Plăcerea mea e-n calea Ta
+
+[v2]
+Zi de zi mă-nviorezi
+Și sufletul meu Te slăvește
+Speranță-mi dai și mă-ntărești
+Și sufletul meu Te mărește.
+
+[v3]
+Odihnă dai sufletului meu
+De aceea Te slăvește
+Putere dai trupului meu
+Doar mâna Ta tămăduiește.

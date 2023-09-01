@@ -1,0 +1,36 @@
+[title]
+Lovit de valurile marii {author: {Nicu Chereji}, {rcId: {210178}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Lovit de valurile mării
+Lovit de valurile mării
+Înaintez spre Canaan
+Sunt obosit dar am speranța
+Că voi ajunge la Liman
+
+[c]
+Al meu palat e sus în ceruri
+Nu e de-aici de pe Pământ
+Acolo îngerii se-nchină
+În fața Tatălui Preasfânt
+
+[v2]
+Prin mari furtuni și prin ispite
+Înconjurat sunt de dușmani
+Puterile-mi slăbesc Isuse
+Scăpare doar la Tine am
+
+[v3]
+Sunt apăsat peste măsura
+Sunt întristat și istovit
+Durerile-mi sunt arzătoare
+Doar Tu mă știi Isus iubit
+
+[v4]
+Nici bogății și nici palate
+Nici pietre scumpe nu-mi doresc
+Decât o vesnicie-ntreagă
+Cu Tin’ Isuse să trăiesc!

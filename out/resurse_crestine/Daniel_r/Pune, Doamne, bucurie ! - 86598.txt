@@ -1,0 +1,29 @@
+[title]
+Pune doamne bucurie {author: {Daniel R}, {rcId: {86598}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pune Doamne bucurie,
+Azi în inimile noastre
+Să răsune-o melodie
+Către zările albastre
+
+[c]
+Să se-nalțe către Tine
+Imn de slavă și mărire
+Inimile să ne-aline
+A cântării fericire
+
+[v2]
+Să cântam cu-nsuflețire
+Harul Tău ce ni L-ai dat
+Și-a iubirilor simțire
+Să ne umple ne-ncetat
+
+[v3]
+Căci meriți toată mărirea
+Scump părinte iubitor
+Spre Tine-ndreptăm simțirea
+Într-un imn înălțător

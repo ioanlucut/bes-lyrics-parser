@@ -1,0 +1,25 @@
+[title]
+Cine a crezut? {author: {Cătălin Ciuculescu Band}, {rcId: {157524}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Cine a crezut în ce ni se vestise,
+Că pe lume va veni un Împărat,
+S-a născut umil, în paie, într-o iesle,
+S-a smerit cu inima Cel Preaînalt.
+Emanuel, cu noi e Dumnezeu!
+
+[c]
+/: Rege-al Regilor, Domn al Domnilor,
+Dumnezeul întrupat în chip de om.
+Prin puterea Sa, omul va putea,
+Să trăiască liber, nu va mai fi rob. :/
+
+[v2]
+A venit din Cer s-aducă mângâiere,
+Din țărână Domnul Și-a făcut un trup.
+Cine crede-n El trăiește nu mai piere,
+Are-o viață împlinită pe Pământ.
+Emanuel, cu noi e Dumnezeu!

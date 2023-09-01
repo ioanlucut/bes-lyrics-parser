@@ -1,0 +1,31 @@
+[title]
+Crinul din vale {author: {Alexandru Groza}, {rcId: {185722}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+În Cartea de aducere aminte
+Acolo-i și numele meu
+Ca floarea de crin mi-e credința
+Mireasma adusă din cer
+Speranțele nu-s risipite
+În Tine mă-ncred Domnul meu
+/: În Tine-mi găsesc fericirea
+Și pacea din sufletul meu :/
+
+[c]
+Crinul din vale-a-nflorit
+Sufletul mi-e fericit
+Speranță-n suflet mi-ai dat
+Tu Doamne, ești minunat
+
+[v2]
+La crinul cel alb cu iubire
+Mereu, tot mereu am privit
+Mireasmă frumoasă și-aleasă
+Acest crin e Domnul iubit
+Speranțele nu-s risipite
+În Tine mă-ncred Domnul meu
+/: În Tine-mi găsesc fericirea
+Și pacea din sufletul meu :/

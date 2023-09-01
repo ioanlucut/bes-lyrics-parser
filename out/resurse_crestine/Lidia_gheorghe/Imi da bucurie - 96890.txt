@@ -1,0 +1,49 @@
+[title]
+Imi da bucurie {author: {Lidia Gheorghe}, {rcId: {96890}}
+
+[sequence]
+v1,c,c,v2,c,v3,c2,e
+
+[v1]
+Eu sunt fiu de Dumnezeu,
+Regele e tatăl meu.
+Eu la El pace găsesc,
+Sufletul mi-l liniștesc.
+
+[c]
+/: Îmi dă bucurie,
+E nădejdea mea,
+Îmi toarnă putere
+Să pot accepta
+Când viața e grea. :/
+
+[b]
+Îmi dă bucurie,
+E nădejdea mea,
+Îmi toană putere
+În inima mea.
+
+[v2]
+Domnul cu sabia Sa
+Pentru mine va lupta.
+Prin credință voi primi
+Ceea ce-a făgăduit.
+
+[v3]
+Nu lăsa ca tristețea
+Să strice frumusețea
+Cu care El te-a-nzestrat.
+Luptă-te să-I fi pe plac!
+
+[c2]
+/: Nu plânge, copile!
+Căci Eu te iubesc.
+Știu ce e mai bine
+Și te ocrotesc.
+Ce mult te iubesc! :/
+
+[e]
+Îți vreau fericirea.
+Știu că nu-nțelegi
+Că-i taină acuma.
+Te rog să veghezi!

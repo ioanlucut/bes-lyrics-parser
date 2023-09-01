@@ -1,0 +1,41 @@
+[title]
+Eli eli lama sabactani {author: {Beni Moldovan}, {rcId: {60556}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+În grădina Ghețimani,
+A plâns Isus cu amar!
+Tată dacă e cu putință,
+Îndepărtează-mi acest pahar!
+
+[c]
+Atunci vânzătorul a venit
+Te-a vândut pe preț de argint,
+Te-au legat și Te-au bătut
+De Tine milă na-u avut.
+
+[v2]
+În drumul spre golgota
+Pentru mine-ai suferit!
+Palme și batjocori,
+Ai răbdat că mai iubit.
+
+[c2]
+Eli, Eli lama Sabactani
+A strigat Isus pe golgota.
+Dumnezeul meu de ce mai părăsit!
+A strigat El când a murit.
+
+[v3]
+De păcate mai iertat
+Când pe cruce ai murit
+O viață nouă mi-ai dat,
+Mântuirea mi-ai dăruit.
+
+[c3]
+Astăzi Tată-ți mulțumesc,
+Pentru Fiul Tău Ceresc
+Ce-n Locul Meu El A murit
+O viață nouă mi-a dăruit.

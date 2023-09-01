@@ -1,0 +1,32 @@
+[title]
+Azi un copil ni s-a nascut {author: {Alin și Emima Timofte}, {rcId: {100784}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+/: Azi un Copil ni S-a născut :/
+Azi Gloria Celui Prea’nalt s-a arătat
+Pe-ntregul Pământ.
+
+[c]
+O, Isus, Prunc minunat, El este-a noastră salvare!
+O, Isus, jos ne-nsemnat, El este Domn în splendoare.
+
+[v2]
+/: Azi Mielul vrednic S-a-ntrupat :/
+Un Salvator S-a născut, cântă căci El
+Iubind ne-a iertat.
+
+[c2]
+O, Isus, ce minunat, divinul Prunc într-o iesle,
+O, Isus, jos ne-nsemnat, în înălțime e Rege.
+
+[v3]
+/: Inima mea se bucură :/
+Căci vestea nașterii Lui pace-a adus
+Pe-ntregul Pământ!
+
+[c3]
+O, Isus, Prunc minunat, El este-a noastră salvare!
+O, Isus, jos ne-nsemnat, El este Domn în splendoare.

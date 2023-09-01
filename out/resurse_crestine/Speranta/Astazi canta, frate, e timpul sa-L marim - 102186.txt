@@ -1,0 +1,27 @@
+[title]
+Astazi canta frate e timpul sa-l marim {author: {Speranța}, {rcId: {102186}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Astăzi cântă, frate, e timpul să-L mărim
+Pe Domnul de-a pururi, cu toții să-L slăvim.
+
+[c]
+Veniți, cântați de bucurie,
+În casa Domnului Preasfânt.
+Avem motive fără număr
+Să nu fim triști pe-acest pământ.
+Veniți să dăm mână cu mână,
+Cu o iubire ca-ntre frați,
+Tot ce e rău acum să fugă,
+Prin sânge sfânt am fost spălați.
+
+[v2]
+Pace vrem să vină în inimi chiar acum,
+Domnul să fie mare, iar noi servii Lui!
+
+[v3]
+Starea de trezire am vrea să vină azi,
+Duhul Sfânt să vină ca-n ziua de Rusalii.

@@ -1,0 +1,35 @@
+[title]
+El e pentru mine el e pentru tine {author: {Marta Bergheaua}, {rcId: {61956}}
+
+[sequence]
+v1,e,v2,v3,v4
+
+[v1]
+El e pentru mine, El e pentru tine
+El Isus e dragostea,
+El e pentru mine, El e pentru tine
+El Isus e pacea mea.
+
+[e]
+El e primăvara,
+El deschide floarea,
+El este mișcarea,
+El, El, El e primăvara!
+
+[v2]
+El aduce ploaia, El aduce voia
+El Isus e viața mea,
+El dă și arșița, El dă și voința
+El Isus poate-nvia.
+
+[v3]
+El face să crească, cîmpul să-nverzească,
+Înoiește inima,
+El dă și furtuna, El dă și cununa,
+El învinge firea mea
+
+[v4]
+El cinstește omul, El e Creatorul,
+Dă suflare tuturor,
+El e viitorul îți stîmpără dorul
+El este iubirea mea.

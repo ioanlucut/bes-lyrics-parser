@@ -1,0 +1,29 @@
+[title]
+Zilele saptamanii {author: {Speranța pentru copii}, {rcId: {80387}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+Luni, marți, miercuri,
+Joi, vineri, sâmbătă
+Și duminică
+Șapte zile într-o săptămână.
+
+[v1]
+În orice zi, Doamne, te rog
+Să mă păzești de orice rău
+Să fii cu mine-n orice ceas
+Să fii al meu, iar eu al Tău.
+
+[v2]
+Ajută-mă să Te slujesc
+În lumea-aceasta mă îndrumă
+Vreau să cresc mare și voinic
+Și să-Ți urmez cu voie bună.
+
+[v3]
+Eu sunt micuț și vreau să-Ți spun
+Că-Ți dăruiesc inima mea
+Lângă Tine să rămân
+De-azi să mă țin de mâna Ta.

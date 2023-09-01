@@ -1,0 +1,15 @@
+[title]
+Iubirea lui isus e asa de mare {author: {Necunoscut}, {rcId: {212402}}
+
+[sequence]
+v1,c
+
+[v1]
+Iubirea lui Isus e-așa de mare / x3
+Mare pentru mine!
+
+[c]
+Mai înaltă decât cerul
+Mai adâncă decât marea
+Mai întinsă decât universul
+Mare pentru mine!

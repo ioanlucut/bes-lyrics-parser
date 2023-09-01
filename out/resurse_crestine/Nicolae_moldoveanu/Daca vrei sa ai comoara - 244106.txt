@@ -1,0 +1,35 @@
+[title]
+Daca vrei sa ai comoara {author: {Nicolae Moldoveanu}, {rcId: {244106}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Dacă vrei să ai comoara
+Tinereții făr-apus,
+Copleșită-n harul păcii,
+Treci de partea lui Isus!
+Dacă vrei să porți cununa
+Adevărului nespus,
+Răspândindu-i strălucirea,
+/: Treci de partea lui Isus! :/
+
+[v2]
+Dacă vrei a neprihanei
+Haină s-o îmbraci supus,
+Și să-i porți pe veci frumsețea
+Treci de partea lui Isus!
+Dacă vrei să te-nsoțească
+La venit ca și Ia dus -
+Paza sfântă-a-nțelepciunii,
+/: Treci de partea lui Isus! :/
+
+[v3]
+Dacă vrei ca-n fericirea
+Dragostei să fii adus,
+Și să arzi în focu-i sacru,
+Treci de partea lui Isus!
+Și oricâte alte haruri
+Ce le-ai vrea și nu le-ai spus
+Nesecate și depline,
+/: Le găsești toate-n Isus! :/

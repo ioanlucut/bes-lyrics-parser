@@ -1,0 +1,35 @@
+[title]
+Poporule rascumparat {author: {Nicu Chereji}, {rcId: {208859}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Poporule răscumpărat,
+Întoarce-ți privirea spre Domnul!
+Te luminează-al Sau Cuvânt,
+Întoarce-ți privirea spre El
+
+[c]
+/: E timpul din urmă fii gata, fii treaz
+Te rog fii fecioara-nțeleaptă
+Ulei în candela rezervă să ai
+Isus te va duce în Rai: \
+
+[v2]
+Ieși chiar acum din Babilon
+Cuvântul cel Sfânt se-mplinește
+Se aud pașii Domnului
+Întoarce-ți privirea spre El!
+
+[v3]
+Poporule răscumpărat,
+Întoarce-ți privirea spre Domnul
+Ai preț nespus în ochii Lui
+Întoarce-ți privirea spre El.
+
+[v4]
+Poporule de legământ,
+Isus încă împarte mila,
+Tot ce-a promis va împlini,
+Credință sa ai dar acum.

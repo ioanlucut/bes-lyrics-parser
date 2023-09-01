@@ -1,0 +1,32 @@
+[title]
+In ziua de apoi {author: {Dan Daraban}, {rcId: {61926}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În ziua de apoi, când vor fi toți chemați
+Când cei sfinți vor întâlni pe Domnul lor
+Când străinul va ajunge în patria lui
+Laudă Domnului acolo vom fi.
+
+[c]
+/: Noi acolo vom fi,
+În acea măreață zi,
+Când cei sfinți acasă vin
+Laudă Domnului acolo vom fi. :/
+
+[v2]
+Când cei răscumpărați
+Vor cânta toți uniți
+În mărețul cor al celor sfinți.
+Când cerescul imn cu al lor se va uni
+Laudă Domnului acolo vom fi.
+
+[v3]
+Nu ne vom mai despărti,
+în cerescul cămin.
+Nici dureri acolo sus n-or mai fi.
+Când va zice Isus: ”
+Vino la dreapta Mea!”
+Lauda Domnului acolo vom fi!

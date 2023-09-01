@@ -1,0 +1,29 @@
+[title]
+Domnul e al meu pastor {author: {Fratii Maftei}, {rcId: {125651}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Domnul e al meu Păstor
+N-am să duc nicicând lipsă
+/: La pășuni mă paște El
+Și la ape de odihnă :/
+
+[c]
+/: Sunt al Domnului pe veci
+Nimic nu m-a clătina
+Sângele Lui sfânt și curat
+Mă spală de orice păcat :/
+
+[v2]
+Drepte sunt ale Lui cărări
+Căci puternic e al Său braț
+/: Chiar de trec prin încercări
+El mă ține să nu cad :/
+
+[v3]
+În iubire voi trăi
+Prin al lui Isus Sfânt har
+/: Fericit voi locui
+Lângă Domnul meu cel drag :/

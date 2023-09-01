@@ -1,0 +1,47 @@
+[title]
+Mai spune doamne un cuvant {author: {Simona Fedorciuc}, {rcId: {188833}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+Mai spune Doamne un cuvant
+Caci doar cuvantul Tau e sfant
+/: Cuvantul Tau plin de putere
+Ridica orice bariere. :/
+
+[v2]
+Cand se aude vocea Ta
+Se cutremura marea
+/: Muntii chiar se pot misca
+Implinind porunca Ta. :/
+
+[v3]
+Vorbeste Doamne caci ascult
+Vorbeste-mi gura catre gura
+/: Pe Tine vreau sa te aud
+Cand Tu vorbesti sa cada zgura. :/
+
+[v4]
+Cuvantul Tau plin de lumina
+E candela pe calea mea
+/: Iar de-ntuneric o sa vina
+Lumina Ta ma va purta. :/
+
+[v5]
+Cuvantul Tau mereu despica
+Firescul de duhovnicesc
+/: Rosteste caci nu-m este frica
+Sa fiu mai sfant si mai ceresc. :/
+
+[v6]
+Cuvantul Tau e adevarul
+Sfinteste-ma mereu prin El
+/: Pazeste-mi inima si mintea
+Fa-L scut si paza-n jurul meu. :/
+
+[v7]
+Cuvantul Tau ce da viata
+Eu Il iubesc si Il doresc
+/: Si-atunci cand stam noi fata-n fata
+Vorbest-mi Doamne caci astept. :/

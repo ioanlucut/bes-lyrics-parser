@@ -1,0 +1,27 @@
+[title]
+Te port in gand mereu {author: {Biju de la Barbulesti}, {rcId: {132599}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Te port gând mereu, Isus iubit,
+Mântuitorul meu, căci m-ai găsit!
+M-ai luat din lumea rea, m-ai scos la drum,
+Pace Tu mi-ai dat și vreau să spun:
+
+[c]
+Tu mi-ai adus fericire,
+M-ai făcut să trăiesc cu-adevărat!
+Tu m-ai trezit din neștire, al Tău sunt,
+Numai Tu m-ai salvat, Isus, m-ai salvat!
+Tu mi-ai adus fericire,
+M-ai făcut să trăiesc cu-adevărat!
+Tu m-ai trezit din neștire, al Tău sunt,
+Numai Tu m-ai salvat, Isus, m-ai salvat!
+
+[v2]
+Pe drumuri rătăceam, eram pierdut,
+Pace nu aveam, nu Te-am știut!
+Dar când am ascultat al Tău Cuvânt
+Iertare Tu mi-ai dat și vreau să-Ți cânt:

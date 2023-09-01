@@ -1,0 +1,19 @@
+[title]
+Pe cararea vietii {author: {Alexandru Groza}, {rcId: {3781}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Pe cărarea vieții cu Domnul călătoresc, sufletul mi-e plin de bucurii
+Zi de zi am pace, îmi dă binecuvântări, El este nădejdea mea oricând”
+
+[c]
+O, ce mare fericire am în suflet
+De când viața mi-am predat-o Domnului
+Zi de zi Isus mă poartă în lumină
+Când îl strig, El îmi ascultă glasul meu!
+
+[v2]
+Dac-a mea cărare uneori se-ntunecă și lumină n-am în jurul meu
+Domnul mă-nconjoară și mă ține-n Brațul Său, El este lumina mea oricând!

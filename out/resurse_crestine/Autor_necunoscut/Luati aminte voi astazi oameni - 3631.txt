@@ -1,0 +1,35 @@
+[title]
+Luati aminte voi astazi oameni {author: {Anonim}, {rcId: {3631}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Luați aminte voi, astăzi oameni
+Cuvântul ne-ncetat
+Cuvântul spune că El degrabă
+De pe pământ ne va lua.
+
+[c]
+/: Mult dori-vor atunci oamenii
+S-audă din cuvântul sfânt
+Dar Dumnezeu va-nchide harul
+/: El nu va mai fi pe pământ. :/
+
+[v2]
+Amos, prorocul a zis odată
+Că foamete-n lume va fi
+Dar nu de pâine și sete de apă
+Cuvântul va lipsi.
+
+[v3]
+Vor pribegi de la mare la mare
+Și-atunci vor fi istoviți
+Flăcăii și fetele cele frumoase
+De har vor fi lipsiți.
+
+[v4]
+Se va topi lumea de sete
+Și-atunci vor fi istoviți
+Dorind s-audă cuvânt de la Domnul
+Dar cuvântul va lipsi.

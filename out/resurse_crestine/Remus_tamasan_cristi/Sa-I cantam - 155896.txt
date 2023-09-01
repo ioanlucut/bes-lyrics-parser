@@ -1,0 +1,29 @@
+[title]
+Sa-i cantam {author: {Remus Tămășan Cristi}, {rcId: {155896}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Se-aude în noapte o veste,
+O veste venită de Sus,
+Azi s-a născut în iesle,
+Mântuitorul Isus.
+
+[c]
+/: Să-I cântăm, să ne-nchinăm,
+Pe-al nostru Împărat să Îl lăudăm!
+Să-I cântăm, să ne-nchinăm,
+Din cer a venit, viață s-avem. :/
+
+[v2]
+Un cor de îngeri se adună
+Să laude pe Pruncul Sfânt,
+Chiar și văzduhul răsună,
+Pace-a venit pe pământ.
+
+[v3]
+Haideți cu toții la iesle
+Pruncului să ne-nchinăm,
+Cu toți de sfânta veste,
+Azi să ne bucurăm.

@@ -1,0 +1,35 @@
+[title]
+Eram cu barca printre valuri {author: {Anonim}, {rcId: {3135}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Eram cu barca printre valuri,
+Vâsleam din greu s-ajung la mal
+Dar chinul meu era zadarnic
+Căci contra mea lupta un val.
+
+[c]
+/: Ah, fă s-ajung cât mai degrabă
+În portul Tău cel minunat
+Să scap de val și de furtună
+Unde domnești Tu ca-mpărat. :/
+
+[v2]
+Furtuna-i agitată tare
+Și barca mea n-o pot salva
+Și-n ajutor nu-mi vine nimeni
+Ca să-mi salveze barca mea.
+
+[v3]
+Deci vino azi Isuse dulce
+Și ceartă valul furios,
+Fă să ajungem toți odată
+În portul Tău cel glorios.
+
+[v4]
+Căci portul Său e plin de slavă,
+E-mpodobit chiar de Hristos
+Cu îngeri-mpreună-odată
+Vom cânta imnul glorios.

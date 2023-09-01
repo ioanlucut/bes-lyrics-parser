@@ -1,0 +1,30 @@
+[title]
+Mai mult decat simple armonii {author: {Continental}, {rcId: {188487}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+El ne-a pus împreună
+Toți având un dar de oferit!
+Aceluiași Domn servim
+Chiar de-ar fi un preț greu de plătit!
+Și chemarea: Credincioși să fim!
+O inimă și-un gând o împlinim!
+
+[c]
+De dragostea Lui, de dragul Său vom înălța
+Mai mult decât simple armonii!
+Spre Cel ce și-a dat Fiul pentru noi
+Ca El să fie apoi motivul de-a cânta!
+
+[v2]
+Nu-s emoții ce trec ușor
+Ci am primit din bucuria Sa!
+Gustând bunătatea Lui
+Noi am decis: Nicicând nu vom tăcea!
+Vocea noastră împreună
+Facem cunoscută slava Sa!
+
+[e]
+Cântăm doar Lui

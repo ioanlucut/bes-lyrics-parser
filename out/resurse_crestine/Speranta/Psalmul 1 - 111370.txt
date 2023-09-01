@@ -1,0 +1,23 @@
+[title]
+Psalmul {author: {Speranța}, {rcId: {111370}}
+
+[sequence]
+v1,c,c,v2,c
+
+[v1]
+Ferice de omul care la sfatul celor răi nu merge
+Pe calea păcătoșilor nu se oprește
+Cu batjocoritorii nu se unește
+
+[c]
+El e ca un pom sădit lângă izvor
+Plin de viață și roditor, e roditor
+
+[b]
+Plăcerea își găsește în Legea Domnului
+Zi și noapte cugetă la Legea Lui
+
+[v2]
+Toți cei răi sunt ca pleava spulberată-n vânt
+Ei nu vor putea să stea în fața Celui sfânt
+Dar cel neprihănit va fi mântuit

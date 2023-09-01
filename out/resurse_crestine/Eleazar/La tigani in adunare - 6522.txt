@@ -1,0 +1,29 @@
+[title]
+La tigani in adunare {author: {Eleazar}, {rcId: {6522}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+La tigani in adunare, Aleluia
+Domnul face o lucrare,
+Din tiganii cei mai rai, Aleluia
+I-a facut copii ai Sai
+
+[c]
+Aleluia, aleluia
+Toti tiganii iti cantam tie Doamne
+Aleluia, aleluia,
+Slava Tatalui sa-i dam
+
+[v2]
+Din tiganii bijnitari, Aleluia
+I-a facut misionari
+Din tigani afaceristi
+I-a facut evanghelisti.
+
+[v3]
+Din tiganii cersetori, Aleluia
+I-a facut predicatori
+Din tiganca vrajitoare
+Ai facut o vazatoare.

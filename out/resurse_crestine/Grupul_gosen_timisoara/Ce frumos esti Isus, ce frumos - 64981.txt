@@ -1,0 +1,29 @@
+[title]
+Ce frumos esti isus ce frumos {author: {Grupul Gosen Timisoara}, {rcId: {64981}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Ce frumos esti Isus, ce frumos
+Ingerii canta in cer voios,
+/: Floarea Salemului iubită
+De tine Raiul se bucură! :/
+
+[v2]
+Si fiind pastori acolo-n camp
+Noaptea-mprejur turma lor pazind,
+/: Si iata ingerul Domnului
+Vestind la pastori nasterea Lui :/
+
+[v3]
+Serafimi-Ti cânta marire,
+Heruvimi-Ti cântă iubire
+/: Cat de frumos în ieslea de boi
+Un Fiu nascut al Lui Dumezeu :/
+
+[v4]
+Si-mpreuna oastea cereasca
+Lui Dumnezeu cântă laudă,
+/: Lui Dumnezeu marire-naltam
+Pace-ntre oameni jos pe pamant :/

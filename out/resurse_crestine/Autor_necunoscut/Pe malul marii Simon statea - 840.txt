@@ -1,0 +1,29 @@
+[title]
+Pe malul marii simon statea {author: {Anonim}, {rcId: {840}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pe malul mării Simon stătea
+Cu al său frate Andrei
+La fel și Iacob și cu Ioan
+Fii lui Zebedei.
+
+[c]
+O Galileea, o Galileea,
+În tine ucenicii s-au născut.
+O Galileea, o Galileea,
+De-acolo mântuirea a-nceput.
+
+[v2]
+În Galileea Domnul Isus
+La mare S-a oprit.
+Pe Simon Petru El l-a chemat
+Și Petru a venit.
+
+[v3]
+De Galileea Domnul Isus
+A fost mai mult legat.
+După-nviere acol’ s-a dus
+Și-apoi S-a înălțat.

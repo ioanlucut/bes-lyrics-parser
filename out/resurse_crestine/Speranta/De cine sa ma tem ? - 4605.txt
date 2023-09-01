@@ -1,0 +1,42 @@
+[title]
+De cine sa ma tem ? {author: {Speranța}, {rcId: {4605}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+De cine să mă tem,
+Când Domnul e cu mine?
+Eu nu mă tem!
+De cine să mă tem,
+Când furtuna vine?
+Eu nu mă tem!
+
+[c]
+Isus îmi e ajutor,
+El îmi e ocrotitor,
+Mă ascultă când Îl chem.,
+De aceea nu mă tem!
+Isus îmi e ajutor,
+El îmi e ocrotitor,
+Când valuri vin și trec,
+Doar la El alerg!
+Isus îmi e ajutor, El e ocrotitor,
+Pe El Îl voi lăuda
+Toată viața mea!
+
+[v2]
+La cine să alerg,
+Când vin valuri?
+Doar la Dumnezeu!
+La cine să mă rog,
+Când am necazuri?
+Doar la Dumnezeu!
+
+[v3]
+Pe cine să Îl laud,
+Când e rău sau bine?
+Doar pe Dumnezeu!
+Pe cine să Îl slăvesc
+În orice vreme?
+Doar pe Dumnezeu!

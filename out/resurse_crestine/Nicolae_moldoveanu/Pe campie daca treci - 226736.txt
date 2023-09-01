@@ -1,0 +1,26 @@
+[title]
+Pe campie daca treci {author: {Nicolae Moldoveanu}, {rcId: {226736}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+/: Pe câmpie dacă treci :/
+florile zâmbesc ușor
+parc-ar spune tuturor:
+/: Către bunul Creator :/
+slavă înălțăm în veci
+
+[v2]
+/: Iar când păsări auzim :/
+în pădurile bătrâne,
+ele parcă vor să-ngâne:
+/: Tu ne-ai întocmit, Stăpâne :/
+Noi cântând, Îți mulțumim!
+
+[v3]
+/: Dar tu, rege pământesc, :/
+tu, zidire omenească,
+omule, ridici vreodată
+/: ochii spre Cerescul Tată, :/
+să spui: Doamne, mulțumesc?

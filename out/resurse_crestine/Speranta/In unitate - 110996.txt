@@ -1,0 +1,35 @@
+[title]
+In unitate {author: {Speranța}, {rcId: {110996}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Isus Hristos ne-a lăsat porunca
+Să ne iubim așa ca El
+Atunci lumea va cunoaște
+Că noi suntem din Dumnezeu
+
+[c]
+/: În unitate, în unitate
+Veniți cu toții să trăim
+În unitate, în unitate
+Ca frații-n Domnul toți să fim :/
+
+[v2]
+Când în Numele lui Isus
+Doi sau trei se unesc
+Și se unesc cu credință
+El le dă tot ce doresc.
+
+[v3]
+Domnul Isus s-a rugat
+Pentru ucenicii Săi
+Tată așa cum suntem noi,
+Te rog unește-i și pe ei!
+
+[v4]
+Cea mai mare dintre toate
+Va rămâne dragostea
+Când cu toți ne vom uni
+Atunci Domnul va lucra.

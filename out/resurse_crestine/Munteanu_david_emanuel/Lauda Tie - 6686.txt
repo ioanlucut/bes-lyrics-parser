@@ -1,0 +1,23 @@
+[title]
+Lauda tie {author: {Munteanu David Emanuel}, {rcId: {6686}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Laudă Ție Creator,
+Mii de stele cântă-n cor
+Cântă lună, soarele,
+Marea și izvoarele
+
+[c]
+Lăudăm pe Creator
+Lăudăm cu toți-n cor
+Lăudăm și-L preamărim
+Pe Salvatorul Divin
+
+[v2]
+Cântă și tu gura mea
+Inima nu înceta
+Pe Domnul a-L lăuda
+Întreagă ființa mea.

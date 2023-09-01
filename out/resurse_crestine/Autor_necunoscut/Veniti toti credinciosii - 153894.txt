@@ -1,0 +1,27 @@
+[title]
+Veniti toti credinciosii {author: {Anonim}, {rcId: {153894}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Veniți toți credincioșii
+Azi cu bucurie,
+Veniți! O, veniți cu toți la Betleem.
+
+[c]
+Să ne-nchinăm Lui,
+Precum îngerii Lui!
+/: Veniți să ne-nchinăm Lui :/
+Lui Dumnezeu!
+
+[v2]
+Cântă cor de îngeri
+Cântă Osanale!
+Cântă și tu popor al Domnului!
+
+[c2]
+Glorie și laudă,
+Celui venit din slavă!
+/: Veniti sa ne-nchinam Lui :/
+Lui Dumnezeu!

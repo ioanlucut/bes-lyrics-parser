@@ -1,0 +1,29 @@
+[title]
+Asteptare {author: {Speranța}, {rcId: {3966}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Mai mult decât așteaptă străjerul dimineța,
+Te-așteaptă al nostru suflet, Isus să-Ți vadă fața!
+/: Cum soarele răsare și luminează-ntinsul
+Așa ne umpli viața Isus, Tu, necuprinsul. :/
+
+[v2]
+Mai mult decât așteaptă un mugur primăvara,
+Mai mult decât așteaptă înstrăinatul țara;
+/: Mai mult decât așteaptă ogorul ploaia lină,
+Dorim Isuse fața și slava Ta să vină! :/
+
+[v3]
+Mai mult decât așteaptă bolnavul vindecarea,
+Noi așteptăm Isuse, în țara Ta, intrarea
+/: Mai mult decât așteaptă logodnica pe mire
+Dorim întâmpinarea venirii în mărire. :/
+
+[v4]
+Mai mult ca naufragiații cu ochii spre salvare,
+Corăbierii portul, trudiții înserarea,
+/: Ostașii biruința și-n lupta lor cununa,
+Noi Te-așteptăm Isuse, pe Tine totdeauna! :/

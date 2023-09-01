@@ -1,0 +1,41 @@
+[title]
+O pastorul meu iubit {author: {Frații Wagner}, {rcId: {5403}}
+
+[sequence]
+c,v1,v2,v3,v4,v5
+
+[c]
+/: O, Păstorul meu iubit, o, Isuse!
+Eu la Tine am venit: o, iartă-mă!
+/: De la Tine niciodată, Doamne, nu voi mai pleca!
+Deci, primește-mă la Tine acuma! :/
+
+[v1]
+Tu m-ai scăpat de la moarte, o, Doamne,
+Și Ți-ai arătat în mine dragostea;
+/: De aceea, niciodată n-oi uita ce mi-ai făcut
+Căci pe mine, păcătosul, m-ai iubit. :/
+
+[v2]
+Dar în starea ce-mi rămâne, o, Doamne,
+Vreau să fiu întotdeauna cu Tine,
+/: Să primesc a Ta lucrare ce-ai făcut-o în adunare
+Pentru acei ce i-ai iubit, ca și pe mine. :/
+
+[v3]
+Dar îndură-Te de mine, o, Părinte,
+Pentru vremea ce-mi rămâne înainte!
+/: Să ajung la masa Ta, unde se vor bucura
+Copilașii Tăi cu toții atuncea. :/
+
+[v4]
+Vremuri grele de-ar veni, în calea mea,
+Și nori negri de-ar veni pe deasupra,
+/: Doamne, îndură-Te de mine, dă-mi putere de la Tine,
+Ca să nu rămân în lume de rușine. :/
+
+[v5]
+Pune-mi Tu, pe mâna dreaptă, o pecete!
+Nu uita că ai murit și pentru mine,
+/: Sus pe vârful dealului, deasupra Calvarului!
+Răstignit pe cruce-ai fost și pentru mine. :/

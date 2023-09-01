@@ -1,0 +1,41 @@
+[title]
+Din slava cerului cel sfant {author: {Nicolae Moldoveanu}, {rcId: {5722}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Din slava cerului cel sfant,
+In ziua ceea va veni
+Si cortul Lui de pe pamant
+La cer Il va rapi,
+Iar muntele Sionului
+Va triumfa de slava Lui,
+Caci noapte-acolo n-a mai fi,
+Ci-n veci va straluci!...
+
+[c]
+La nunta Mielului, cu totii, vrem sa fim
+Si-n vecii vecilor sa ne inveselim,
+La nunta Domnului, la nunta lui Isus,
+Si vom canta cu El, in ceruri sus.
+
+[v2]
+Pe strazi de aur, va umbla
+Mireasa sfant-a Domnului;
+In alb vesmant se va-mbraca,
+Cum nimeni alta nu-i
+Si, drept rasplata, ii va da
+Palate, care-n lume nu-s,
+Cu ingerii ce vor canta
+Iubirea lui Isus.
+
+[v3]
+El ii va sterge ochii tristi
+Ce-au lacrimat pe-acest pamant
+De unde o va duce-n slava,
+Pe muntele cel sfant,
+Si lipsa nu va mai avea
+De mangaiere si de dor,
+Caci Mielul langa ea va sta,
+In vecii vecilor.

@@ -1,0 +1,23 @@
+[title]
+Seva mea tu esti {author: {Lidia Gheorghe}, {rcId: {149771}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Seva mea Tu ești,
+Din Tine să sorb aș vrea
+Apă vie din izvor
+Ce-mi dăruie pacea!
+
+[v2]
+Tu mă răcorești.
+Din Tine mereu aș bea
+Apă din izvorul sfânt
+Ce-mi stâmpără setea.
+
+[v3]
+Să pot să-naintez
+Pe drumul secetos.
+Cu Tine, eu să mă-ntâlnesc
+Să fim împreună pe veci.

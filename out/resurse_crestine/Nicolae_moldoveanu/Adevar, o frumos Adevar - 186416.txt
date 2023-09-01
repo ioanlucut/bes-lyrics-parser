@@ -1,0 +1,47 @@
+[title]
+Adevar o frumos adevar {author: {Nicolae Moldoveanu}, {rcId: {186416}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+Adevăr, o frumos Adevăr,
+Ești Cuvântul Cerescului Tată;
+Adevăr, fericit Adevăr,
+Numai Tu-mi faci viața curată.
+
+[v2]
+Adevăr, luminos Adevăr,
+Ești Viață, Căldură, Lumină;
+Adevăr, prețios Adevăr,
+Numai Tu-mi dai trăire divină.
+
+[v3]
+Adevăr, neînfrânt Adevăr,
+Ești Izvor nesecat de putere;
+Adevăr, strălucit Adevăr,
+Numai Tu mă păzești de cădere.
+
+[v4]
+Adevăr, preaslăvit Adevăr,
+Ești Biserica vie curată,
+Doar în Tine curat Adevăr,
+Eu nu pot rătăci niciodată!
+
+[v5]
+Adevăr, preasfințit Adevăr,
+Tu ești Duhul, ești Calea-nțeleaptă,
+Adevăr, minunat Adevăr,
+Numai Tu-mi dai credința cea dreaptă.
+
+[v6]
+Adevăr, preamărit Adevăr,
+Ești Hristos, ești eterna Iubire;
+Adevăr, o etern Adevăr,
+Numai Tu poți să-mi dai mântuire.
+
+[v7]
+Adevăr, preaînalt Adevăr,
+Dumnezeu necuprins pe vecie;
+te iubesc, o iubit Adevăr,
+Mă supun și mă-nchin numai Ție.

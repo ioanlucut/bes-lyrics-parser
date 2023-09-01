@@ -1,0 +1,38 @@
+[title]
+Cu isus de mana (hand in hand with jesus) {author: {L.D. Huffstutler, Traducere RO}, {rcId: {125106}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,s,c
+
+[v1]
+De păcat am fost scăpat
+Când Hristos, povara mi-a luat
+Merg acum, prin har, iertat
+Cu Isus de mână.
+
+[c]
+Cu Isus de mână merg
+Zi de zi pe drumul drept
+Nu pot da greș de-am să merg
+Cu Isus de mână.
+
+[v2]
+În ceas de mari disperări
+Isus mi-a dăruit puteri
+Merg de-acum fără poveri
+Cu Isus de mână.
+
+[v3]
+De la calea-ngustă-acum
+Nu vreau să mă abat nicicum
+Zi de zi merg pe-acest drum
+Cu Isus de mână.
+
+[v4]
+Când mă cheamă glas ceresc
+Spre casa Lui am să privesc
+Pe străzi de aur pășesc
+Cu Isus de mână.
+
+[s]
+Și acum, fraților, vă încredințez în mâna lui Dumnezeu și a Cuvântului harului Său care vă poate zidi sufletește și vă poate da moștenirea împreună cu toți cei sfințiți. Fapte 20:32

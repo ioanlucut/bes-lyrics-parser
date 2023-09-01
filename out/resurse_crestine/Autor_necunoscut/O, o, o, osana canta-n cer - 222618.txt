@@ -1,0 +1,24 @@
+[title]
+O o o osana canta-n cer {author: {Anonim}, {rcId: {222618}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Mare este Domnul, Stapan si Rege-al lumii :/
+x3
+Mare este El.
+
+[c]
+/: O, o, o, osana suna-n cer :/ x3
+Mare este El!
+
+[v2]
+/: Astazi jos in iesle s-a nascut Mesia :/
+x3
+Astazi s-a nascut.
+
+[v3]
+/: Binecuvantat e Cel ce vine :/
+x3
+In Numele Lui.

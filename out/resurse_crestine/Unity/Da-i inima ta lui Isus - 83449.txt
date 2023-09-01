@@ -1,0 +1,33 @@
+[title]
+Da-i inima ta lui isus {author: {Unity}, {rcId: {83449}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,e
+
+[c]
+/: Dă-i inima Ta lui Isus
+Nu aștepta căci timpul trece,
+Iar viața are un sfârșit
+Doar prin El poți fi mântuit. :/
+
+[v1]
+În dragoste către El te cheamă
+Isus cel făr’ de păcat.
+Tu să Îl urmezi și fii fără teamă
+Căci Duhul Lui cel Sfânt îți va fi dat.
+
+[v2]
+Dă-i inima Ta lui Isus
+Nu aștepta căci timpul trece,
+Iar viața are un sfârșit
+Doar prin El poți fi mântuit.
+
+[v3]
+În dragoste către El te cheamă
+Isus cel făr’ de păcat.
+Tu să Îl urmezi și fii fără teamă
+Căci Duhul Lui cel Sfânt îți va fi dat.
+
+[e]
+Ne-a luat păcatul când pe cruce-a murit
+Cu sângele pentru noi El a plătit

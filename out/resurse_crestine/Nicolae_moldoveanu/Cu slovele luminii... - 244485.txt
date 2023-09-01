@@ -1,0 +1,35 @@
+[title]
+Cu slovele luminii {author: {Nicolae Moldoveanu}, {rcId: {244485}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Cu slovele luminii,
+Pe fruntea mea, Tu, scrie,
+/: Isus, mai Iimpezită,
+/: Iubirea Ta cea vie. :/
+
+[v2]
+Cu pana Ta măiastră,
+Muiată-n har și-n soare,
+/: Pe inima-mi de humă,
+/: Să scrii a Ta lucrare. :/
+
+[v3]
+Cu albul neprihanei,
+Țâșnit din jertfa-Ți sfântă,
+/: Pecetluiește-mi viața,
+/: Și-n ea, Tu, mi-o-nveșmântă. :/
+
+[v4]
+Cu chipul Tău de slavă,
+Să-ntipărești în mine,
+/: Frumsețea mântuirii,
+/: Și-a cerului din Tine. :/
+
+[v5]
+Ca cei din lumea nopții,
+Prin mine să-nțeleagă,
+/: Lumina Ta, Isuse,
+/: Mai plină, mai întreagă. :/

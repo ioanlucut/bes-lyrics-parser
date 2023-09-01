@@ -1,0 +1,37 @@
+[title]
+Drumul pierdut {author: {Adi Gliga}, {rcId: {160645}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Uneori, toate merg cum ne dorim,
+E un dar că putem să mai iubim,
+Suferim când cei dragi se împietresc,
+Dar ne zâmbesc.
+Și sperăm să mai fie cum a fost
+Când iubeam și cuvintele-aveau rost,
+Dar privim, ne schimbăm
+Și parcă suntem mai străini.
+
+[c]
+/: Drumul care l-am pierdut nu-l mai găsim
+Și ne doare tot mai mult că rătăcim,
+Când nu te încrezi deloc în Dumnezeu
+Și greul e mai greu! :/
+
+[v2]
+Uneori, nu e zâmbet și doar flori,
+Mergi pe-un drum și te pierzi mult prea ușor,
+Nu gândim, că rămâne ce-am ales și suferim.
+Întristați, uneori ne enervăm,
+Am putea, totuși, doar să ne rugăm,
+Dar la greu nu mai vrem să credem nici în Dumnezeu.
+
+[v3]
+Uneori, când alegem să fugim,
+Nu vedem câte suflete rănim,
+Dacă-am vrea prin iubire am putea schimba ceva!
+Orice greu e mai ușor cu Dumnezeu,
+Dacă am știi am putea trăi mereu, doar iubind,
+Vindecând și sufletul ce-a fost rănit.

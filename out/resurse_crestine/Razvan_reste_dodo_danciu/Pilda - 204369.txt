@@ -1,0 +1,35 @@
+[title]
+Pilda {author: {Razvan Reste, Dodo Danciu}, {rcId: {204369}}
+
+[sequence]
+v1,v2,c,v3,c,b,c
+
+[v1]
+Stau ’naintea Ta așa cum sunt
+Dezgustat de viața mea-n zadar,
+Mă întorc din rătăcirea mea
+Să mă speli Isus în al Tău har.
+
+[v2]
+Nu sunt vrednic să fiu iar al Tău
+Să m-așez din nou la masa Ta,
+Tată, mă aștepți din depărtări
+Și mă copleșești cu mila Ta!
+
+[c]
+/: M-ai primit cu drag din nou în casa Ta
+Prin iubire m-ai iertat
+Simt ce lumea-ntreagă n-a putut să-mi dea,
+În îmbrățișarea Ta! :/
+
+[v3]
+Vreau să stau cu Tine-acum pe veci
+Să mă țin Isus de brațul Tău,
+Chiar de lumea mă va judeca
+/: Tu rămâi mereu de partea mea! :/
+
+[b]
+Eram mort în păcat când spre mine-ai alergat
+Și m-ai salvat!
+Nu mai sunt doar un rob, m-ai făcut copilul Tău,
+Ești Tatăl meu!

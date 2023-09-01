@@ -1,0 +1,48 @@
+[title]
+Sper {author: {Continental}, {rcId: {244151}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+De-s zile triste sau e întuneric
+Mai mult lucește dragostea Ta.
+Când răul se-nalță și pare să-nvingă
+Tu mult mai mult Te vei înălța.
+
+[c]
+Nu va înceta speranța mea
+Căci vie pân’ la sfârșit Tu o vei păstra!
+Știu că Tu ești viu
+Și încrederea mea va fi vie și ea!
+Nu va înceta speranța mea
+Căci vie pân’ la sfârșit Tu o vei păstra!
+Știu că Tu ești viu
+Și încrederea mea va fi vie și ea!
+/: Nu va înceta speranța mea
+Căci vie pân’ la sfârșit Tu o vei păstra!
+Știu că Tu ești viu
+Și încrederea mea va fi vie și ea! :/
+Nu va înceta speranța mea
+Tu o vei păstra pân’ la sfârșit
+Știu că Tu ești viu
+Și încrederea mea
+Nu va înceta!
+
+[v2]
+Moartea revine
+Cu boldul ei tare
+Tot viața va învinge cândva!
+Din groapa cea rece,
+Ieșind cu putere
+Asupra morții Ai triumfat!
+
+[e]
+/: Mă-ncred, dimineața,
+Sper, chiar și noaptea.
+Știu că Tu ești viu
+Și cred că ești aici.
+Mă încred când vin probleme
+Sper și-n durere
+Știu, ești speranța
+De azi și de mâine. :/

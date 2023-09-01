@@ -1,0 +1,39 @@
+[title]
+Sa aveti credinta {author: {Magdalena Mircea}, {rcId: {96177}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c
+
+[v1]
+Să aveți credință, să aveți răbdare
+Suflete iubite care suferiți
+Astăzi plângeți singuri lacrime amare
+Mâine împreună veți cânta slăviți
+
+[v2]
+Să aveți nădejde, să aveți credință
+Să aveți iubire, să aveți răbdare
+Nu uitați preadulcea Lui făgăduință
+Chinul de azi arvună, slavei viitoare
+
+[c]
+Suferiți necazul, biruiți ispita
+Mai aprinsă ruga înălțați în sus
+Și cântând în chinuri să priviți slăvirea
+Dar slăvirea care ne-o va da Isus
+/: Suferiți necazul, biruiți ispita
+Mai aprinsă ruga înălțați în sus
+Și cântând în chinuri să priviți slăvirea
+Dar slăvirea care ne-o va da Isus :/
+
+[v3]
+Pașii noștri urcă drumuri tot mai grele
+Mai pustii și aspre locuri întâlnim
+Dar nădejdea sfântă ne întărește în ele
+Să avem puterea să le biruim
+
+[v4]
+Suflete zdrobite, inimi sfâșiate
+Ridicați spre ceruri gândul obosit
+Nu uitați că mâine toate or fi uitate
+Mâine toate acestea vor avea sfârșit

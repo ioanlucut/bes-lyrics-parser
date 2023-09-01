@@ -1,0 +1,27 @@
+[title]
+Noi suntem pe acest pamint doar peregrini {author: {Anonim}, {rcId: {58800}}
+
+[sequence]
+v1,v2,c,v3,c
+
+[v1]
+Noi suntem pe acest pămînt doar peregrini
+Și mergem spre Muntele Sion
+Și-n inimi avem un dor
+S-ajungem în Sion
+
+[v2]
+De-i greu uneori noi nu dăm inapoi
+Domnul Isus ne-asteptă-n Sion
+Nimic nu ne va opri
+S-ajungem în Sion.
+
+[c]
+Să-L vedem pe Domnul Isus
+Și-o cîntare nouă să-I cîntăm
+
+[v3]
+În drumul nostru spre Muntele Sion
+Culegem toți flori pentru Isus
+Cele mai frumoase flori
+Să-i ducem lui Isus.

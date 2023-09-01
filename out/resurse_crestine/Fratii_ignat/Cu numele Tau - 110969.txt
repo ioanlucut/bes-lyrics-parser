@@ -1,0 +1,35 @@
+[title]
+Cu numele tau {author: {Frații Ignat}, {rcId: {110969}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cu Numele Tău, Doamne-ntr-una
+Noi ne fălim pe-acest pământ
+Cu El noi biruim furtuna
+Și valurile câte sunt.
+
+[c]
+Primim puteri, primim avânt
+Prin Numele Isus Cel sfânt
+Să ducem până la sfârșit
+Solia harului slăvit
+
+[v2]
+Cu Numele Tău de lumină
+Noi trecem noaptea cea mai grea
+Și izbăvire-avem deplină
+În ziua ispitirii grea.
+
+[v3]
+Cu Numele Tău sfânt și mare
+Păși-vom veșnicul hotar
+În care totu-i numai soare
+Și dragoste, și cânt, și har.
+
+[v4]
+Slăvim, Isuse sfântu-Ți Nume
+Și-L vom-nălța mereu, mereu
+S-audă clar întreaga lume
+Căci Tu ești veșnic Dumnezeu

@@ -1,0 +1,41 @@
+[title]
+Este craciun {author: {Diaz Amos}, {rcId: {237942}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Este Crăciun. E minunat
+De bucurie toată lumea a săltat;
+Este Crăciun în această zi
+Bucuros în inima ta să fii!
+Este Crăciun. o specială zi
+Pe la case se aud glasuri de copii!
+Este Crăciun ca mai demult,
+Pe fețele oamenilor a apărut:
+Zâmbetul ca în poveste
+Ce le dă la toți de veste,
+Căci acum mult timp s-a născut
+În ieslea săracă un prunc, de Crăciun!
+
+[c]
+Este Crăciun, ce minunat
+Daruri de sus ce le-am luat,
+Le dăruim, mai buni să fim;
+Este Crăciun, iar de Crăciun
+Omul este mai darnic și mai bun,
+Este Crăciun, este Crăciun!
+
+[v2]
+Este Crăciun. cu adevărat
+Inima ta întreagă s-a schimbat
+Vrei să ajuți, să fii mai bun
+Chiar și acum când e Crăciun!
+Este Crăciun. ne-am pregătit
+Fel de fel de bucate am gătit
+Mesele noastre sunt pline
+Poate hrănim și guri străine:
+Mâine înghețate ce bat
+La a ta ușă, ai descuiat,
+Și i-ai primit cu drag în casă
+Să le faci seara mai frumoasă, de Crăciun!

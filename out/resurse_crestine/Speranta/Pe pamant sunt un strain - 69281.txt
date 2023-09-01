@@ -1,0 +1,29 @@
+[title]
+Pe pamant sunt un strain {author: {Speranța}, {rcId: {69281}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Călătoresc prin pustiu
+Prin arșiță e drumul meu
+Nu mă opresc fiindcă știu
+Că mă așteaptă Dumnezeu
+
+[c]
+Pe pământ sunt un străin sunt un pribeag în lumea mare
+Iar Ținta noastră care-n veci e țara dincolo de zare
+Mai e putin și nu-i departe a Domnului împărație
+Iar moartea care ne desparte e drumul înspre veșnicie
+
+[v2]
+Vâslesc pe marea furtunoasă
+Mă lupt cu valul furios
+Iar dincolo de ceața groasă
+Cerul este mai frumos
+
+[v3]
+Mă lupt dar nu cu pumnul în vânt
+Cununa Vieții să primesc
+Când voi ajunge-n cerul sfânt
+Cu Dumnezeu să locuiesc

@@ -1,0 +1,37 @@
+[title]
+Timpul este pe sfarsit {author: {Nicolae Moldoveanu}, {rcId: {5620}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Timpul este pe sfarsit!
+Frate, esti tu pregatit
+Sa-L intampini, pe nor, pe Mesia?
+El va reveni pe nor
+Sa rapeasc-al Sau popor:
+E Mirele sfintilor, o Mesia!
+
+[c]
+Sa ne pregatim, de-acum,
+Sa calatorim pe drum
+Si, acolo-n tara Sa,
+Vesnic cu toti vom canta!
+
+[v2]
+Chiar de-ai fost tu intristat,
+De vreo boala apasat
+El, Isus, te-a mangaiat in toate.
+Ti-a luat povara grea
+Si-a dus-o la Golgota.
+Iti va lua povara grea,
+Daca vii la Golgota,
+
+[v3]
+Si-ti va da mantuirea El, Isus.
+Atunci, te vei bucura
+C-ai umblat pe calea Sa;
+Rasplatiri mari iti va da El, Domnul.
+Azi cu toti Iti multumim
+Si Te asteptam sa vii,
+Sa ne duci in vesnicii, o Isus.

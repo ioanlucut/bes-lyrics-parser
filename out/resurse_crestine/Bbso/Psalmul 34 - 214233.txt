@@ -1,0 +1,42 @@
+[title]
+Psalmul {author: {BBSO}, {rcId: {214233}}
+
+[sequence]
+v1,v2,c,v3,c,c
+
+[v1]
+L-am căutat și L-am găsit,
+De temeri El m-a izbăvit
+Când privești spre El te luminezi
+Rușinea El ne-a șters
+Rușinea El ne-a șters
+
+[v2]
+Când am strigat, El m-a auzit
+Necazul meu L-a risipit
+El face scut peste-ai Lui sfinți
+Îi va elibera
+Îi va elibera
+
+[c]
+Laudă-L pe El acum
+Să-nălțăm doar al Său Nume
+Toată Gloria este-a Lui
+Să-i cântăm o veșnicie
+Laudă-L pe El acum
+Să-nălțăm al Său Sfânt Nume
+Toată Gloria este-a Lui
+Să-i cântăm o veșnicie
+
+[v3]
+Gustă și vezi, Domnul este bun
+Eu mă-ncred în El și sunt izbăvit
+Când sfinții Lui de El se tem,
+El Îi va îngriji
+El Îi va îngriji
+
+[b]
+Binecuvântat
+Fii de noi mereu!
+Veșnic voi cânta
+Pentru Domnul meu

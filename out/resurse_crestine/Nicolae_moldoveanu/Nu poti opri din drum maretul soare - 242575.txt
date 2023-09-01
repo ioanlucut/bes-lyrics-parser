@@ -1,0 +1,29 @@
+[title]
+Nu poti opri din drum maretul soare {author: {Nicolae Moldoveanu}, {rcId: {242575}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Nu poți opri din drum mărețul soare,
+Nici timpu-n loc nu-I vei putea ținea,
+/: Nici legea morții cea necruțătoare,
+S-o-mpiedici astăzi tu nu vei putea! :/
+
+[v2]
+Și nici sfârșitul veacului de ură,
+Nici judecata care va veni,
+/: Nici vremile prezise de Scriptură
+Să le oprești zadarnic vei trudi! :/
+
+[v3]
+Nici Primăvara Harului ce vine,
+N-o poți lega în lanțuri și obezi,
+/: Puterea ei nimic n-o poate ține,
+Ea vine chiar și dacă tu nu crezi. :/
+
+[v4]
+Cuvântul Dumnezeului Puternic,
+Ce veșnic stă deasupra tuturor,
+/: Desăvârșit se va-mplini statornic
+Căci El e viu și-atotbiruitor! :/

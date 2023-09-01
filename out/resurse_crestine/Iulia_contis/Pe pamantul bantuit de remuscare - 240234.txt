@@ -1,0 +1,21 @@
+[title]
+Pe pamantul bantuit de remuscare {author: {Iulia Contis}, {rcId: {240234}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Ești invincibil pe pământul
+Bântuit de remușcare!
+Ne -o spune fiecare floare
+Care își ia astăzi cuvântul!
+
+[c]
+Învingem azi pe munți și-n vale,
+Privind spre cerurile Tale!
+
+[v2]
+Supui prin vis și prin Cuvântul,
+Azi, mereu mai viu pe cale!
+Privesc spre cerurile Tale,
+Știind că-n urmă-i și mormântul...

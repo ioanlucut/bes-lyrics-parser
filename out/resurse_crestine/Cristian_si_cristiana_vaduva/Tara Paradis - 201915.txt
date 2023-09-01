@@ -1,0 +1,31 @@
+[title]
+Tara paradis {author: {Cristian și Cristiana Văduva}, {rcId: {201915}}
+
+[sequence]
+v1,e,v2,v3
+
+[v1]
+O ce țară minunată-i țara Paradis,
+Cum să ajung și eu acolo, o ce mult aș vrea,
+Glasul celui Sfânt se aude, Isus mi-a promis:
+/: „
+Te iubesc, te iubesc, te voi duce-n ea!” :/
+
+[e]
+/: Și acolo voi cânta, căci e mare mila Ta,
+Tu ești Salvatorul minunat.
+Zi de zi mă însoțești și îmi spui că mă iubești,
+Căci Tu, Doamne m-ai eliberat. :/
+
+[v2]
+El mi-a dat sfânta salvare nimeni nu-i ca El,
+Împăratul Salvatorul, Sfânt Emanuel,
+Tot ce-a fost în mine rău, Domnul a schimbat,
+/: Minunat, minunat, e al meu Împărat. :/
+
+[v3]
+Dumnezeu mult mă iubește, nimeni nu-i ca El,
+Că s-a dat pe Sine însuși, să mă ducă în Cer,
+Tuturor ce-am stat sub cruce, loc ne-a pregătit,
+Paradis, Paradis, locul mult promis,
+Paradis, Paradis, țara cea de vis.

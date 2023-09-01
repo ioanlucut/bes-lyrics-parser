@@ -1,0 +1,77 @@
+[title]
+Pilda samariteanului {author: {Anonim}, {rcId: {1519}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,v5,c5,v6,c6
+
+[v1]
+Un călător se cobora
+Spre Ierihon, pe drum grăbit
+Ducând cu el averea sa
+Cu oameni răi s-a întâlnit.
+
+[c]
+Trecând pădurea de măslini
+L-au întâlnit niște străini
+Ei l-au bătut, l-au dezbrăcat
+/: Și-aproape mort ei l-au lăsat. :/
+
+[v2]
+Trecând pe-acolo un levit
+Pe-același drum, întâmplător
+Spre cel căzut el a privit
+Indiferent, nepăsător.
+
+[c2]
+Trecând la fel și un preot
+Și el privi și-atâta tot
+La cel căzut și dezbrăcat
+/: Să moară jos el l-a lăsat. :/
+
+[v3]
+Dar pe sub ramuri de măslin
+Pe-același drum se cobora
+Un călător cu-al său asin
+/: Samaritean el se numea. :/
+
+[c3]
+Și când privi la cel sărman
+Acel milos samaritean
+El s-a oprit, l-a ridcat
+/: Și rănile i le-a legat. :/
+
+[v4]
+Și-atunci pe drumul cel pustiu
+Până la han, pân´ la hangiu
+Pe spate la asin l-a pus
+Și-n casă pe căzut l-a dus.
+
+[c4]
+Și pentru el a cheltuit
+Hangiului el a plătit
+Samariteanul cel milor
+/: Era Isus, Isus Cristos. :/
+
+[v5]
+Poveste-aceasta e și-a ta
+Și tu ai fost căzut așa
+Și-atâți leviți, și-atâți preoți
+Trecut-au iar nepăsători.
+
+[c5]
+Dar bunul tău samaritean
+El te-a adus din nou la han
+Și rănile ți le-a legat
+/: Și de păcate te-a iertat. :/
+
+[v6]
+Trecând pădurea de stejari
+Tu, frate, fii atent mereu
+Căci calea-i plină de tâlhari
+Ce urmăresc sufletul tău.
+
+[c6]
+În jos să nu privești nicicând
+Chiar dacă urci spre Cer plângând
+Tu mergi cu crucea până sus
+/: Așa cum mers-a și Isus. :/

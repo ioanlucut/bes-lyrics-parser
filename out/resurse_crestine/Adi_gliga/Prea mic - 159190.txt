@@ -1,0 +1,27 @@
+[title]
+Prea mic {author: {Adi Gliga}, {rcId: {159190}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Și uneori sunt obosit, de lupte-n care pierd,
+Aș vrea să fiu doar bun, dar știu că nu-s,
+Rămâne doar, să sper.
+În zilele ce vor veni, atâtea câte sunt,
+Cu Tine, Doamne, cât de greu ar fi,
+Am să mă-nving, mai mult!
+
+[c]
+/: Doamne, știu prea bine,
+Că sunt mic, dar mereu mă păzești!
+Și mă încred în Tine,
+Mă ridici, mă-nțelegi, mă iubești! :/
+
+[v2]
+Sunt zile-n care-s abătut și simt c-am să mă pierd,
+Aș vrea să pot să cred puțin mai mult,
+Te strig și-ncep să sper!
+Mi-aduc aminte c-am mai fost cândva pe acest drum,
+Greșim, dar Doamne, Tu ne înțelegi,
+Iar, Tu, ne faci mai buni!

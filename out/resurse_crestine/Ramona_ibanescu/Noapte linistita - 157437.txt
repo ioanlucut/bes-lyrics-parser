@@ -1,0 +1,31 @@
+[title]
+Noapte linistita {author: {Ramona Ibănescu}, {rcId: {157437}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+În noaptea liniștită, steaua strălucește,
+Omenirea-ntreagă se înveselește!
+
+[c]
+/: Căci ni s-a născut,
+Domn făr’ de început! :/ x2
+
+[v2]
+Vântul nu adie pe cărări cu spini,
+Răcoarea te îmbie, ca să-I Te-nchini.
+
+[v3]
+Eu în adorare, fericit ascult,
+La fereastră, seara, colinde de demult.
+Inima-mi veghează, stau în așteptare,
+Noaptea-ncet se lasă, din nou e sărbătoare.
+
+[c2]
+Căci s-a născut
+Domn făr’ de început.
+Căci ni s-a născut,
+Da, s-a născut,
+El s-a născut,
+Azi s-a născut Isus!

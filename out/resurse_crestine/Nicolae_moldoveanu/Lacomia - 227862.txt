@@ -1,0 +1,30 @@
+[title]
+Lacomia {author: {Nicolae Moldoveanu}, {rcId: {227862}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Lăcomia-nghite tot, nu se satură nicicând.
+Ea nu zice: ”
+Nu mai pot”, pântecu-i e-n veci flămând.
+
+[c]
+Domnului să ne rugăm,
+dragi copii ca să scăpăm
+de viclenele chemări.
+Pe-ale patimii cărări
+Mici și mari să venim
+Lui curați să-I slujim.
+
+[v2]
+Lăcomia este-un foc, arde-ntruna nesătul;
+cere-n orice timp și loc, niciodată nu-i destul.
+
+[v3]
+Lăcomia-i un mormânt cu gâtlej deschis, oricând;
+toate câte-s pe pământ pentru ea le vrea, la rând.
+
+[v4]
+Lăcomia este-un zeu crud și neînduplecat;
+cel ce crede-n Dumnezeu de-a ei vrajă a scăpat.

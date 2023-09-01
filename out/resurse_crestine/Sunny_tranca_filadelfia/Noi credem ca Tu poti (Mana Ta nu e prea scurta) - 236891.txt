@@ -1,0 +1,41 @@
+[title]
+Noi credem ca tu poti (mana ta nu e prea scurta) {author: {Sunny Tranca, Filadelfia}, {rcId: {236891}}
+
+[sequence]
+v1,c,v2,c,b,e,c
+
+[v1]
+Mâna Ta nu e prea scurtă
+Urechea Ta nu a surzit
+Puterea Ta-i nelimitată
+Să facă tot ce ai promis
+Cuvântul Tău stă în picioare
+El este mereu „
+Da” și „
+Amin”
+El e și azi e o stâncă tare
+Pe care viața îmi sprijin
+
+[c]
+Noi credem, credem, credem că Tu poți
+Să faci mai mult decât ne-am imaginat
+Noi credem, credem, credem că Tu poți
+Să faci mai mult decât noi am visat
+
+[v2]
+Îl am pe Dumnezeu ca Tată
+El îmi răspunde prin minuni
+El nu întârzie niciodată
+Se ține de promisiuni
+E credincios peste măsură
+Veghează peste al Său Cuvânt
+Stai în credință și răbdare
+Căci izbăvirea e pe drum
+
+[b]
+/: Știu că nimic nu e prea greu
+Pentru Dumnezeul meu, pentru Dumnezeul meu :/ x4
+
+[e]
+Cu Tine toate-s posibile
+Nu pierzi nimic dacă crezi.

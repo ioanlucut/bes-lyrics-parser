@@ -1,0 +1,40 @@
+[title]
+Meriti lauda {author: {Gabriel Gorcea}, {rcId: {244445}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Doamne, vin ’naintea Ta,
+Tu-mi cunoști inima mea,
+Vin în fața Ta cum sunt.
+Îmi știi viața cum o trăiesc,
+Tu cunoști și ce gândesc,
+Tu ești Dumnezeul Sfânt!
+Te recunosc ca și Stăpân,
+Ca Dumnezeu adevărat,
+Numele Tău fie în veci glorificat!
+
+[c]
+Meriti lauda și cinstea, meriți închinarea!
+Domn al veșniciilor, meriți adorarea!
+Ești Dumnezeu, Cel ce ai fost, ești și vei fi,
+Ești Dumnezeu neschimbat,
+Dumnezeu din veșnicii!
+
+[v2]
+Mă aplec în fața Ta,
+Vin cu toată ființa mea,
+Ție mă predau, Domnul meu!
+Cu glasul meu Te voi lăuda,
+Cu viața mea, Te voi urma,
+Tu ești Domn și Dumnezeu!
+Mâinile le-nalț spre Tine,
+Vreau să simt prezența Ta,
+Tu ești Cel ce meriți gloria!
+
+[e]
+Tu ești Rege, Tu stai pe tron!
+Tu ești Rege, Tu ești Domn!
+Ești Creatorul, ești Infinit,
+Tu ești Totul, ești Desăvârșit!

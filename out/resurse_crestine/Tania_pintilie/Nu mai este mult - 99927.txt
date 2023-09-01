@@ -1,0 +1,50 @@
+[title]
+Nu mai este mult {author: {Tania Pintilie}, {rcId: {99927}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: Nu mai este mult :/
+Și Mirele iubit,
+Mirele dorit,
+Din slăvi va reveni
+Și-n veci cu El vom fi.
+/: Nu mai este mult. :/
+
+[c]
+Iată zorii se ivesc
+Și pe Mire Îl zăresc!
+„
+Ești tu oare pregătită
+O, Mireasa Mea iubită,
+Îmbrăcată-n in subțire,
+Cu podoabe de sfințire
+Și cu lacrimi de iubire?
+Nu mai este mult
+Și Eu voi veni,
+Nu voi zăbovi.”
+
+[v2]
+/: Nu mai este mult, :/
+Să ne pregătim,
+Să ne curățim,
+Cu râvnă să lucrăm,
+Veghind să ne rugăm.
+/: Nu mai este mult. :/
+
+[v3]
+/: Nu mai este mult :/
+Și Domnul va veni,
+Nu va zăbovi,
+Arzând să Îi cântăm,
+Cu dor să-L așteptăm.
+/: Nu mai este mult. :/
+
+[v4]
+/: Nu mai este mult. :/
+Și vom ajunge sus
+În slavă cu Isus,
+Cu El în veci vom sta
+Și laudă-I vom cânta.
+/: Nu mai este mult. :/

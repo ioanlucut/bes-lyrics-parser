@@ -1,0 +1,33 @@
+[title]
+Prieten bun {author: {Ilie Neagu}, {rcId: {153101}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Isuse ești al meu prieten bun
+Cu Tine merg mereu pe-al vieții drum
+Din fragedă pruncie m-ai însoțit
+Și pașii mei pribegi ai călăuzit
+
+[c]
+Ești cel mai bun prieten al meu
+Mă întărești pe drumul greu
+Înaintea mea pășești
+Cărarea Tu îmi netezești
+Vreau să rămân cu Tine mereu
+Prieten bun la bine și la greu
+Când alergarea îmi sfârșesc
+În Paradis să Te-ntâlnesc
+
+[v2]
+În orice timp și ceas Tu ai rămas
+Prieten credincios și adevărat
+Tu singur niciodată nu m-ai lăsat
+Cu dragoste mereu Tu m-ai vegheat
+
+[v3]
+Legați vreau să rămânem tot mereu
+Isuse cel mai bun prieten al meu
+Nu vreau să fiu de Tine despărțit
+Doresc să merg cu Tine pân’ la sfârșit.

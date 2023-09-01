@@ -1,0 +1,28 @@
+[title]
+Voi toti ce stati in adunare {author: {Anonim}, {rcId: {5124}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Voi, toți ce stați în adunare,
+Să fiți atenți la ce vă spun,
+Vă voi citi din cartea sfântă,
+Poruncă nouă Eu vă dau:
+Să vă iubiți ca frați ai Mei
+Și martori să fiți pe pământ,
+În bucurii s-aveți cântarea.
+
+[c]
+Să spuneți:
+Ale, Ale, Ale, Ale, Aleluia.
+
+[v2]
+Lăsați, lăsați păcatul jos,
+Spre cer vă îndreptați privirea,
+Fiți mulțumiți cu ce aveți
+Și-n grijă nu vă fie firea.
+Să plângeți, dar, cu cei ce plâng
+Și la nevoi vă mângâiați,
+Și vestea bună v-amintiți:
+Curând, curând va fi răpirea.

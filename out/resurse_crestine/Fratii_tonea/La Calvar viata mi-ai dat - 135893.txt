@@ -1,0 +1,37 @@
+[title]
+La calvar viata mi-ai dat {author: {Fratii Tonea}, {rcId: {135893}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c,e
+
+[v1]
+În prezența Ta e pace
+În prezența Ta e dragoste
+În prezența Ta, Isus, sunt vindecat
+
+[v2]
+Copleșit de-a Ta iubire
+Mă aplec acum la crucea Ta
+Mă închin cu tot ce sunt ’naintea Ta
+
+[c]
+La calvar viață mi-ai dat
+Prin sfânt sângele ce m-a salvat
+Păcatul ai șters, rușinea ai luat
+Asupra Ta
+
+[v3]
+În prezența Ta e viață
+De păcate sunt eliberat
+În prezența Ta, Isus, sunt transformat
+
+[v4]
+Ție-ți dau întreaga-mi viață
+Ca o jertfă vie o predau
+Mă încredințez deplin în mâna Ta
+
+[e]
+Nume nou, Isus, mi-ai dat
+Și haine albe-am îmbrăcat
+Din om nevrednic m-ai schimbat
+În fiu de Împărat.

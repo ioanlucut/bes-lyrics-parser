@@ -1,0 +1,29 @@
+[title]
+Vino {author: {Frații Wagner}, {rcId: {89162}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Vino, frate, la Isus, azi, nu-ntârzia;
+Pentru tine S-a jertfit sus, la Golgota.
+/: A purtat al tău păcat și al meu la fel,
+Dacă vrei să fii salvat, vino azi la El. :/
+
+[v2]
+Vino cu povara ta, cât ar fi de grea,
+Căci Isus, în mila Sa, te va ușura.
+/: A purtat al tău păcat și al meu la fel,
+Dacă vrei să fii salvat, vino azi la El. :/
+
+[v3]
+Să te recunoști nu-i greu, azi e șansa ta;
+Mâine altul ți-o va lua și vei regreta.
+/: A purtat al tău păcat și al meu la fel,
+Dacă vrei să fii salvat, vino azi la El. :/
+
+[v4]
+Și primindu-l pe Hristos, vei primi cununa
+Și vei rămânea cu El pentru totdeauna.
+/: A purtat al tău păcat și al meu la fel,
+Dacă vrei să fii salvat, vino azi la El. :/

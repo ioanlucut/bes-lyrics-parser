@@ -1,0 +1,23 @@
+[title]
+Ai inviat {author: {Ala Bragari}, {rcId: {148477}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+M-ai privit pe cruce când erai
+Și mi-ai spus că vina mi-o purtai.
+Și-am crezut cu-adevărat,
+Că pentru mine viața Tu Ți-ai dat.
+
+[c]
+Ai înviat și sufletu-mi tresaltă.
+Ai înviat și-n jur mii de culori
+S-au așezat pe inima de gheață
+Și soarta mea într-o clipă s-a schimbat.
+
+[v2]
+Doamne, Tu ești tot ce mi-am dorit,
+O comoară-n Tine am găsit.
+Și nimic nu va putea
+Să îmi fure dragostea.

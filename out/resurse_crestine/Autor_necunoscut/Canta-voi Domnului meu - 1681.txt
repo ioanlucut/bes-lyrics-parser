@@ -1,0 +1,29 @@
+[title]
+Canta-voi domnului meu {author: {Anonim}, {rcId: {1681}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cânta-voi Domnului meu
+Cu glas de bucurie
+O nouă viață El mi-a dat
+Și S-a-ndurat de mine!
+
+[c]
+Veniți să-I mulțumim Lui
+De marea îndurare,
+Cântându-I bunătatea Lui,
+Lăudând iubirea-I mare!
+
+[v2]
+Cânta-voi Domnului meu
+Ce m-a scăpat de moarte
+Și pentru mine-a suferit;
+Iertat sunt de păcate!
+
+[v3]
+Azi inima mi-e gata
+Să laude pe Domnul;
+Pe veci El m-a răscumpărat
+Și sunt al Lui cu totul!

@@ -1,0 +1,20 @@
+[title]
+Primeste-ma {author: {Speranța}, {rcId: {110997}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Ai murit pe cruce, Doamne, în locul meu
+Pe Calvar Ți-ai dat viața în locul meu.
+
+[c]
+Primește-mă, primește-mă!
+Primește-mă să fiu al Tău
+Iar acum vin și eu la altar
+Îți aduc inima mea în dar
+Primește-mă!
+
+[v2]
+Plânge inima că iar Te-am întristat
+Am promis că-Ți voi sluji, dar am uitat.

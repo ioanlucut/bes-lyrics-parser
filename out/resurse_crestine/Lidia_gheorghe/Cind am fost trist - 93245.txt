@@ -1,0 +1,56 @@
+[title]
+Cind am fost trist {author: {Lidia Gheorghe}, {rcId: {93245}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c2
+
+[v1]
+Când am fost trist,
+Tu mi-ai vorbit.
+Când am fost slab,
+M-ai întărit.
+Când am tânjit
+Să Te mai simt,
+Tu ai venit
+Prin Duhul Sfânt.
+
+[v2]
+M-ai sfătuit,
+M-ai îndreptat
+Ca pe-un copil
+M-ai invățat.
+Ruga în cânt
+Eu ți-am adus,
+Lacrimi pe-obraji
+Din nou au curs.
+
+[c]
+/: Aleluia, aleluia!
+Cu dor a fost
+Cantarea mea :/
+
+[v3]
+Când Tu mi-ai spus
+Ca ai de-adus
+Pe mult mai mulți
+Chemați la Isus,
+O listă-ntreagă
+Stă-n așteptare
+S-audă și ei
+Această chemare,
+
+[v4]
+M-am bucurat
+De taina Ta
+Și m-am rugat
+Să-ți faci voia.
+Te rog Isus
+Să-nvrednicești
+Pe robul Tău
+Ce îl iubești.
+
+[c2]
+/: Aleluia, aleluia!
+Fă voia Ta
+În viața mea :/
+*

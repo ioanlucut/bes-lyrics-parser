@@ -1,0 +1,29 @@
+[title]
+Glasul tatalui {author: {Mirel Pal}, {rcId: {4447}}
+
+[sequence]
+v1,e,v2,v3
+
+[v1]
+Glasul Tatălui ceresc, azi te chimă iar
+Vino la Domnul Isus
+Celor păcătoși le dă, mântuire-n dar
+Vino la Domnul Isus
+
+[e]
+/: Vino, Vino, un mai amâna
+Astaza vino, dă-i inima ta
+Vino, Vino. nu mai zăbovi
+Fericit cu Isus vei fi. :/
+
+[v2]
+Nu fugi de Dumnezeu, de iubirea Lui
+Vino la Domnul Isus
+Astăti încă mai e har, maine poate nu-i.
+Vino la Domnul Isus.
+
+[v3]
+Vino azi la crucea Lui, cu păcatul tău
+Vino la Domnul Isus
+Curațit vei fi deplin, prin sângele Lui
+Vino la Domnul Isus.

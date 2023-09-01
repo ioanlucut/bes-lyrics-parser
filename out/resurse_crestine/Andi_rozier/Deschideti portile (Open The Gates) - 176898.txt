@@ -1,0 +1,30 @@
+[title]
+Deschideti portile (open the gates) {author: {Andi Rozier, Traducere RO}, {rcId: {176898}}
+
+[sequence]
+v1,c,v2,b,c,s,c
+
+[v1]
+Cu laude Te așteptăm
+Din inimă acum, vrem să-Ți cântăm;
+Am cunoscut lucrarea Ta
+Dar ce-i mai bun, curând noi vom vedea
+Noi vom vedea.
+
+[c]
+Deschideți porțile să intre slava Lui
+Deschide-ți inima, te-nchină-n fața Lui.
+
+[v2]
+Prezența Ta, noi o dorim
+Tu ne-ai salvat și-acum Te preamărim
+Ești Domn și Împărat.
+
+[b]
+Vino, Doamne
+Nu-i nimeni ca Tine,
+Vino, Doamne
+Nu-i altul ca Tine.
+
+[s]
+Porți, ridicați-vă capetele; ridicați-le, porți veșnice, ca să intre Împăratul slavei! Psalm 24:9

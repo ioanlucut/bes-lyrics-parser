@@ -1,0 +1,89 @@
+[title]
+Iata ziua de durere {author: {Necunoscut}, {rcId: {211641}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7,v8,v9,v10,v11,v12
+
+[v1]
+Iată ziua de durere,
+Tristă fără mângâiere
+/: Iată-l pe Domnul Isus
+Cum sta El pe cruce sus
+/:
+
+[v2]
+Doamne mult-ai mai lucrat
+Cât pe pământ ai umblat
+/: Pe bolnavi ai vindecat
+Și pe morți ai înviat
+ /:
+
+[v3]
+Tu la orbi le-ai dat lumină
+Că le-ai uns ochii cu tină
+/: Schiopi leproși ai vindecat
+Doamne multe ai mai lucrat
+/:
+
+[v4]
+Iar pe alții ai iertat
+Păcatele ce au făcut
+/: Le-ai dat Tu o poruncă
+Să te urmeze pe Tine
+/:
+
+[v5]
+Dar omul neascultător
+Și de rele făcător
+/: La moarte te-a condamnat
+Și-au zis că ești vinovat
+ /:
+
+[v6]
+Te-au târât la judecata
+Până la Pilat la poartă
+/: Și de-acolo la Caiafa
+Unde te-au lovit cu palma
+/:
+
+[v7]
+Și ți-au pus-o în spinare
+Cruce foarte grea și mare
+/: Pe care a trebuit
+Ca să mori tu chinuit
+ /:
+
+[v8]
+Și pe drum Tu când mergeai
+Cu mama ta te-ntâlneai
+/: Și ai vrut ca s-o mângâi
+Dar un ostaș te lovi
+/:
+
+[v9]
+Iar mama ta cuvânta
+Poporule blestemat
+/: Ce - ai făcut cu al meu băiat
+De-i așa desfigurat
+ /:
+
+[v10]
+Când la Golgota ai ajuns
+Și pe cruce atunci te-au pus
+/: Trei piroane atunci ți-au dat
+Și-ncoastă te-au înțepat
+ /:
+
+[v11]
+O tu lume înșelătoare
+Cum pe tine nu te doare
+/: Cum pe tine nu te doare
+Să-l vezi pe Isus cum moare
+/:
+
+[v12]
+Când Isus Duhul și-a dat
+Soarele s-a întunecat
+/: Numai inima de piatră
+A rămas tot încuiată
+ /:

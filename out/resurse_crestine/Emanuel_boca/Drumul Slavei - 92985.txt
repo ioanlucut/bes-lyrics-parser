@@ -1,0 +1,33 @@
+[title]
+Drumul slavei {author: {Emanuel Boca}, {rcId: {92985}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Laudă astăzi pe Domnul
+Suflet zdrobit de patimi
+Laudă-L printre suspine,
+Laudă-L printre lacrimi.
+
+[c]
+Drumul slavei trece și pe la cruce
+Credincioșii știu în genunchi să-l urce.
+
+[v2]
+Mare să-ți fie credința
+Roagă-te și fii tare
+Nu ocoli suferința
+Ea îți va da răbdare.
+
+[v3]
+Domnu-ți întinde aproape
+Mâinile Sale bune
+Scumpe-s oftările toate
+Spuse în rugăciune.
+
+[v4]
+Nu e spre cer altă cale
+Mergi cu Isus întruna
+Numai pe urmele Sale
+Poți dobândi cununa.

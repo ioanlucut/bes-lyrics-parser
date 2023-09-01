@@ -1,0 +1,29 @@
+[title]
+Cum doreste cerbul apa vie {author: {Samy din Resita si David Gogonea}, {rcId: {194490}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Cum dorește cerbul apa vie
+Așa sufletul meu te vrea pe tine
+Când stau Doamne în prezența Ta
+Îmi racorești inima :/
+
+[c]
+/: Simt o bucurie
+Cum pătrunde în mine
+Simt o alinare
+Tu mă mângâi Doamne :/
+
+[v2]
+/: Isus ești izvorul vieții
+Tu ești roua dimineții
+Un râu ce curge mereu
+Alină sufletul meu :/
+
+[v3]
+/: Cine bea din apa Ta
+Niciodată nu va însetați
+Aleargă să bei să bei și tu
+Din izvorul lui Isus :/

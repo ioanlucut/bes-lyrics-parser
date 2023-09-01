@@ -1,0 +1,41 @@
+[title]
+Poporule de salvare {author: {Anonim}, {rcId: {69936}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Poporule de salvare
+Pășește pe îngusta cale.
+/: Că’n curând Domnul va veni,
+Biserica o va răpi. :/
+
+[v2]
+Colo sus la El ne-o duce
+Lângă izvorul cel dulce,
+/: Lângă Isus ce S-a jertfit
+Și pe cruce a murit. :/
+
+[v3]
+Toți strigau in gura mare
+Să fie dat la pierzare.
+/: Acesta-i un mincinos
+A zis că El e Hristos. :/
+
+[v4]
+Și pe cruce Îl urcară,
+Mulțimea toată strigară
+/: Să-l legăm și de picioare
+Ca să nu se mai coboare. :/
+
+[v5]
+Și I-au făcut multe rane
+În mâini, coaste și-n picioare.
+/: Cununa de spini pe cap
+Ca o stemă de Împărat. :/
+
+[v6]
+Și pe când Îl răstigneau,
+Păsările ciripeau.
+/: A murit Stăpânul lumii
+Dumnezeul, al naturii. :/

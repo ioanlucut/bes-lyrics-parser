@@ -1,0 +1,46 @@
+[title]
+De ce-ai uitat ca-n incercare {author: {Otniel Stirb}, {rcId: {131576}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+De ce-ai uitat că-n încercare
+Ți-am spus că nu te voi lăsa?
+De ce-ți curg lacrime amare
+Și tristă este viața ta?
+De ce cârtești când suferința
+Își pune amprenta-n viața ta?
+Mai ai puțin și biruința
+Va fi deplin de partea ta!
+
+[c]
+/: Ți-am spus să mai veghezi o clipă
+Căci nicidecum n-am să te las,
+Te-oi ocroti cu-a Mea aripă,
+Cu tine sunt la orice pas!
+Te voi purta pe-a Mele brațe
+Și mângâiere vreau să-ți dau,
+Ți-am spus să stai în așteptare,
+Că voi veni ca să te iau! :/
+
+[v2]
+De ce credința ta slăbește?
+De ce ești apăsat mereu?
+Mai ai puțin și se sfârșește
+Amarul și urcușul greu!
+De ce privești la valul mării
+Și spui adesea: „
+Până când?”?
+Mai ai puțin și se ivește
+Lumina Soarelui Preasfânt!
+
+[v3]
+De ce-ai uitat Cuvântul care
+L-am spus că nu te voi lăsa?
+De-ar trece cerul și pământul,
+Voi fi mereu de partea ta!
+Privește numai la Golgota,
+La rănile ce-au sângerat...
+De acolo vine izbăvirea,
+În palma Mea tu ești săpat!

@@ -1,0 +1,41 @@
+[title]
+Noaptea se lasa in sat {author: {Speranța și prietenii}, {rcId: {117339}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Noaptea se lasă în sat, și ușile s-au încuiat
+Doar Maria și Iosif căutau,
+Bătând din poartă în poartă, ca cineva să o primească
+Pe Maria, ca Pruncul Sfânt să îl nască.
+Casele erau pline, cu oameni ocupați
+Sătenii n-au dorit să fie deranjați!
+Dar la margine de sat, Iosif și Maria
+Un staul au aflat, ca să-L nască pe Mesia.
+
+[c]
+S-a născut, S-a născut Isus
+Se aude vestea sfântă,
+S-a născut, S-a născut Isus
+Pe pământ oamenii cânta!
+
+[v2]
+Vântul adia ușor, pe câmpii în Betleem,
+Iar păstorii vegheau lângă a lor turmă
+Dar deodată din văzduh, un cor frumos răsună,
+Și un înger le-aduce vestea bună:
+S-a născut un prunc, la margine de sat
+În staul Îl veți găsi, în scutece înfășat
+S-a născut un Împărat, în grajdul vitelor
+A venit în lume un Rege, S-a născut Mântuitor
+
+[v3]
+O nouă stea pe cer răsare, cu o sclipire atât de mare
+Iar magii steaua au urmat,
+Raza ei a condus, la Pruncul Isus
+Și magii, în fața Lui s-au închinat.
+Aur, smirnă și tămâie Lui Isus i-au dat,
+Și plini de bucurie, de acolo au plecat
+Iar această veste sfântă, mai răsună pe pământ
+Vestea că în Betleem, s-a născut Domnul Sfânt.

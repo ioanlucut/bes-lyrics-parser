@@ -1,0 +1,35 @@
+[title]
+Doamne tu {author: {Anonim}, {rcId: {4567}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Daca pe obrazul palid
+Lacrimi curg din ochiul meu
+Daca inima mi-e trista
+Sufletul mi-e gol si el
+Imi stergi lacrima cu grija
+Inima mi-o-nveselesti
+Imi dai liniste in suflet
+Esti prezent, ma intaresti.
+
+[c]
+Doamne Tu esti langa mine
+Tu ma tii in palma ta
+Stalp de foc imi pui nainte
+Calauza-n calea mea
+Doamne Tu esti universul
+Tu esti ratiunea mea
+Sunt faptura mainii tale
+Fara Tine eu n-as exista.
+
+[v2]
+Cand pe chipul meu cel aspru
+Ingrijorarile se vad
+Daca pasii-mi sunt nesiguri
+Si nu stiu pe unde merg
+Imi zambesti si ma simt bine
+Stiu ca Tu ma sprijinesti
+Imi arati a Ta-ndurare
+Si imi spui ca ma iubesti.

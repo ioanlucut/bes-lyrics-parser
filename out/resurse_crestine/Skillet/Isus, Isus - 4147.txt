@@ -1,0 +1,17 @@
+[title]
+Isus isus {author: {Skillet, Traducere RO}, {rcId: {4147}}
+
+[sequence]
+c,v1,c
+
+[c]
+Isus, Isus
+Sfântul și Mesia ești Isus
+Isus, Isus
+Înviat și înălțat Isus
+
+[v1]
+Numele Tău-i ca mierea-n gura mea
+Duhul Tău-i ca apa sufletului meu
+Cuvântul Tău-i o candelă pe drum
+Isus Te iubesc, eu Te iubesc

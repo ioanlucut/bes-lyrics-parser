@@ -1,0 +1,35 @@
+[title]
+Sa cante natura {author: {Anonim}, {rcId: {6637}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Coboară Isuse cu dragostea Ta,
+O, vino cu slavă cerească,
+Mai schimbă Tu inimi și dă pacea Ta,
+O, dă-ne cântarea cerească.
+
+[c]
+Să cânte natura și-ntregul pământ
+Să cânte și să răsune și munții,
+Căci azi pentru noi coborât-a Cel Sfânt.
+Să sară chiar și orbii și muții.
+
+[v2]
+Născută-S-a în iesle Acel minunat
+Acel ce a fost la creare,
+Să cânte văzduhul la Cel Preaînalt,
+Tot omul să-I cânte mărire.
+
+[v3]
+Venit-a Isus pentru o lume ce-i rea,
+Murind la Golgota pe cruce,
+Iertare adus-a, prin dragostea Sa.
+Iubirea în cer ne va duce.
+
+[v4]
+Primit-am viață prin sângele sfânt,
+Viață din Cel minunat,
+La El vom zbura de pe-ntregul pământ,
+La locul măreț, prea-nalt.

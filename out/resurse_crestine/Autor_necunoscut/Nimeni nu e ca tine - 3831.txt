@@ -1,0 +1,29 @@
+[title]
+Nimeni nu e ca tine {author: {Anonim}, {rcId: {3831}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+Nimeni nu e ca Tine,
+Bucuria noastră ești numai Tu!
+Chiar o veșnicie de am căuta,
+Totuși... nimeni nu-i ca Tine.
+
+[v1]
+Iubirea Ta curge ca un râu,
+Cu mâna poți vindeca,
+În brațe, Tu-i ții pe toți cei în nevoi.
+Fii glorificat!
+
+[v2]
+Pe Golgota, Tu ai suferit,
+Plătind al nostru păcat.
+Prin moartea pe cruce ne-ai eliberat,
+Fii glorificat!
+
+[v3]
+În orice zi, prin credință stăm,
+Statornici pe calea Ta,
+Și-n sufletul nostru suntem bucuroși.
+Fii glorificat!

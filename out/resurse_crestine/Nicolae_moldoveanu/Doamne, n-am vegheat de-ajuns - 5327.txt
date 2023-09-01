@@ -1,0 +1,39 @@
+[title]
+Doamne n-am vegheat de-ajuns {author: {Nicolae Moldoveanu}, {rcId: {5327}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Doamne, n-am vegheat de-ajuns
+Si vrajmasul m-a strapuns...
+N-am luptat, cum mi-ai vorbit,
+Si vrajmasul m-a lovit...
+
+[c]
+/: Doamne, iar da-mi Tu har,
+Ca sa nu lupt in zadar! :/
+
+[v2]
+N-am incins mijlocul meu
+Cu-adevarul Tau cel greu;
+N-am luat credinta scut
+Si vrajmasul m-a cazut.
+
+[v3]
+Rugaciunea nu mi-a fost
+Locul sfant de adapost;
+Straja, cum mi-ai spus, n-am stat
+Si vrajmasul m-a culcat...
+
+[v4]
+Haina cea de in curat
+Astazi nu am imbracat;
+N-am scos spada-al Tau Cuvant
+Si vrajmasul m-a infrant...
+
+[v5]
+Doamne, prin eternu-Ti har,
+Fa-ma cum Iti place iar,
+Steagul Tau si lupta Ta
+Sa le pot curat purta.

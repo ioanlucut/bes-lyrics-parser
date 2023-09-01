@@ -1,0 +1,41 @@
+[title]
+Cand am auzit o doamne {author: {Fratele Vasile Hozan}, {rcId: {157519}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Când am auzit o Doamne
+Ce-ai rostit cu gura Ta
+Mi sa-nfiorat tot trupul
+Și m-a apucat groaza.
+
+[c]
+/: Am strigat, atunci la Tine, Doamne!
+Să-ți însuflețești Lucrarea
+Să ne-nviorezi, fă bine
+Ca să crească Adunarea :/
+
+[v2]
+Fă-Te cunoscut o Doamne
+În trecerea anilor
+Mai coboară-Te și-aprinde
+Focul în al Tău popor.
+
+[v3]
+Dumnezeu vine din Teman
+Cel Sfânt vine din Paran
+Cu-o mânie-nverșunată
+Pentru ori și ce dușman.
+
+[v4]
+Dar în mânia Ta o Doamne
+Aduți aminte de-ndurări
+Și ne-ndreaptă astăzi pași
+Pe-a Tale sfinte cărări.
+
+[v5]
+Ca să nu pierim o Doamne
+Cu cei răi și blestemați
+Că suntem ai Tăi copii
+Și cu Isus suntem frați!

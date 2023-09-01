@@ -1,0 +1,36 @@
+[title]
+Dorinta ta {author: {Adi Gliga}, {rcId: {113390}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Știu bine, nu mâine
+Pot iubi și pot să stau cu Tine
+Știu că sunt trecător
+Zorii vin printre nori
+Azi se poate să zbor, cu Tine.
+
+[c]
+Orice clipă o știi
+E un dar orice zi
+Dacă mi-e soare
+Dacă sunt nori
+Știu că-s trecător!
+/: O, doar lângă Tine :/
+
+[v2]
+Doamne știi cât doresc
+Să pot oricând să iubesc
+Pot s-o fac când sunt doar lângă Tine
+Tu-mi cunoști inima
+Ține-o în mâna Ta
+Dincolo de nori, să stea cu Tine.
+
+[v3]
+Lângă Tine trăiesc
+Sunt al Tău și zâmbesc
+Nu mi-e frică dacă nu e mâine
+Știu că sunt trecător
+Zorii vin printre nori
+Azi se poate să zbor cu Tine.

@@ -1,0 +1,29 @@
+[title]
+Ziceam ca voi veghea mereu {author: {Alexandru Groza}, {rcId: {1472}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Ziceam că voi veghea mereu asupra căilor mele
+Dar fără de Tine, Doamne, sufletu-mi este gol
+Mă simt străin pe-acest pământ, mă clatin ca o frunză-n vânt
+Inima-mi Te vrea pe Tine, iubite Salvator!
+
+[c]
+/: Doamne, azi eu Te rog să-mi cercetezi viața mea
+Ajută-mă, Doamne, să Te pot urma
+Vreau să fiu ca Tine, smerit și bun cu-adevărat
+Ajută-mă, Doamne, ține-mă curat! :/
+
+[v2]
+Mărturisesc îndurerat că am greșit de-atâtea ori
+Îmi deschid ființa Ție, facă-se voia Ta!
+În rugăciune mă închin și îți predau viața mea
+Îți predau a mea ființă, facă-se voia Ta!
+
+[e]
+Doamne-azi eu Te rog să vii degrabă în viața mea
+Luminează-mi calea, să Te pot urma
+Azi eu îmi deschid inima Ție, Isus iubit
+Știu că doar prin Tine pot fi fericit!

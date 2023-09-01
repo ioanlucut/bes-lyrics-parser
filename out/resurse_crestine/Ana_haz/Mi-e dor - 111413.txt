@@ -1,0 +1,39 @@
+[title]
+Mi-e dor {author: {Ana Haz}, {rcId: {111413}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+De ulița copilăriei, mi-e dor,
+De mama mea, de tatăl meu, mi-e dor,
+De pruncul care mi l-ai dat
+Și departe e plecat,
+De frații mei stând în pridvor, mi-e dor.
+
+[c]
+Dar câte doruri pe pământ,
+Ca dorul cel mare, nu sunt,
+E mai aprins, e mai presus,
+Mi-e dor, mi-e dor de Isus.
+
+[v2]
+De muntele înzăpezit, mi-e dor,
+De apa mării-n asfințit, mi-e dor,
+Mi-e dor de câmpul cu trifoi,
+Să mă întorc în sat la noi,
+Să-mi stâmpăr setea la izvor, mi-e dor.
+
+[v3]
+De biserici de demult, mi-e dor,
+De înțelepți cu păr cărunt, mi-e dor,
+De dragoste și armonie,
+De-a Lui Isus Prezență Vie,
+De tot ce-i sfânt, înălțător, mi-e dor.
+
+[v4]
+S-a înălțat și L-a ascuns un nor,
+Doi bărbați în haine albe, s-au arătat,
+Cum L-ați văzut mergând la Cer
+Va reveni-n același fel,
+De scumpul meu Mântuitor, mi-e dor.

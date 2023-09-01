@@ -1,0 +1,17 @@
+[title]
+Isus pe cruce ai murit - poemul mantuirii {author: {Cartea Cărților}, {rcId: {199688}}
+
+[sequence]
+v1,c
+
+[v1]
+Isus, pe cruce ai murit
+Ai înviat, ne-ai mântuit!
+Iartă-mi acum păcatul greu
+Și vreau să fii Tu Domnul meu!
+
+[c]
+Schimbă-mi Tu viața mea
+Și ajută-mă a Te urma!
+Schimbă-mi Tu viața mea
+Și ajută-mă a Te urma!

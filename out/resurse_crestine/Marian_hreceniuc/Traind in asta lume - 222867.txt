@@ -1,0 +1,29 @@
+[title]
+Traind in asta lume {author: {Marian Hreceniuc}, {rcId: {222867}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Trăind în astă lume, trăind în apogeu
+Credința ne e-ncercată adesea drumu-i greu
+Dar știu că vin spre Tine o, Tatăl meu iubit
+Ajută-mă în luptă să nu fiu biruit!
+
+[c]
+/: Azi eu te rog cu mine Tu să fii
+În valurile vieții ce-or veni
+În brațul Tău, Tu să mă ții mereu
+Să-naintez de drumul este greu :/
+
+[v2]
+Azi lumea se-nspăimântă de tot ce ar veni
+Când vine încercarea, cârtim, nu mulțumim
+Ajută-ne o Tată, martiri de noi am fi
+Ca să răbdăm, în totul Cuvântul să-mplinim.
+
+[v3]
+Ca Moise în pustie smerit aș vrea să fiu
+Și când Tu în lucrare mă vei chema să știu
+Să fiu supus în toate, să fac doar voia Ta
+Sfârșindu-mi alergarea Isus pe calea Ta.

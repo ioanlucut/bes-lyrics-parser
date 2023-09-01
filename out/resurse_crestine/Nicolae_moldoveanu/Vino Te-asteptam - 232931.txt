@@ -1,0 +1,35 @@
+[title]
+Vino te-asteptam {author: {Nicolae Moldoveanu}, {rcId: {232931}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Vino, Te-așteptăm,
+Iubit Isus,
+Precum ne-ai spus,
+Când Tu Te-ai dus...
+Noi spre ceruri ne uităm
+Și-al Tău Nume drag chemăm.
+
+[c]
+O, vin’, Iubirea noastră, vin’,
+Cobori din cerul cristalin,
+Pe strălucite căi de nori,
+Isus, la noi să Te cobori.
+
+[v2]
+Vino, Mire drag,
+Pe-aripi de har,
+O, vino iar,
+Ni-i dorul jar.
+Să ne duci cu Tine Sus,
+Scump Mântuitor, Isus.
+
+[v3]
+Vino, dulce Dor,
+Căci Te iubim
+Și-atât dorim,
+Să ne-ntâlnim.
+Și să fim nedespărțiți,
+vecii toți nemărginiți.

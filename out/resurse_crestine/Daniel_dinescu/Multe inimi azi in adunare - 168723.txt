@@ -1,0 +1,29 @@
+[title]
+Multe inimi azi in adunare {author: {Daniel Dinescu}, {rcId: {168723}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Multe inimi azi în adunare
+Sunt ca piatra de granit de tare
+Orișicât le-ai spune din cuvânt
+Pietre au fost și pietre încă sunt. :/
+
+[c]
+/: Este o vorba veche din bătrâni,
+Apa trece, pietrele rămân
+Eu mă rog să se sfărâme piatra
+Pe-acolo pe unde trece apa. :/
+
+[v2]
+/: Nu mai sta de azi în nepăsare
+In biserica-i o scăldătoare
+E izvorul Domnului ce curge
+Dacă crezi El astăzi te atinge. :/
+
+[v3]
+/: Strigă Duhul Sfânt în adunare
+Pentru tot poporul deșteptare
+Căci așa vorbește astăzi Domnul
+Am venit să îmi ridic poporul. :/

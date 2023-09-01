@@ -1,0 +1,60 @@
+[title]
+N-am sa mai plec {author: {Continental}, {rcId: {244158}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Purtam o povară pe umerii mei
+Și nu-nțelegeam că Tu vrei să o iei.
+Îți aud iar chemarea să las greul jos
+Și înțeleg, al Tău plan aleg,
+Căci doar Tu ești tot ce vreau!
+
+[c]
+Mă-ntorc azi la Tatăl,
+Vreau har să primesc,
+Să uit tot trecutul,
+Să nu mai aștept.
+O inimă nouă în dar să primesc,
+Deci alerg azi la Tatăl
+Și n-am să mai plec,
+N-am să plec, n-am să plec.
+Mă-ntorc azi la Tatăl,
+Vreau har să primesc,
+Să uit tot trecutul,
+Să nu mai aștept.
+O inimă nouă în dar să primesc,
+Deci alerg azi la Tatăl
+/: Și n-am să mai plec,
+N-am să plec, n-am să plec. :/
+
+[v2]
+Priveai înspre mine chiar de la-nceput.
+Ți-ai dat Fiul jertfă să nu fiu pierdut.
+Iubirea-Ți imensă nu pot s-o cuprind
+Nu pot să-nteleg, nu pot să pricep,
+Dar știu Tu ești tot ce vreau!
+
+[v3]
+Când nici nu eram, știai
+Chiar inima-mi vedeai.
+Viață Tu mi-ai adus
+Desprins azi sunt de trecut,
+Căci în noaptea grea din viața mea
+Iubirea Ta m-a găsit.
+Inima mea Ție Îți dau,
+Căci doar Tu ești tot ce vreau!
+
+[e]
+/: Mă-ntorc la Tatăl,
+Vreau har să primesc,
+Să uit tot trecutul,
+Să nu mai aștept.
+O inimă nouă în dar să primesc,
+Deci alerg azi la Tatăl
+Și nu am să plec. :/
+N-am să plec, n-am să plec.
+Și n-am să mai plec!
+N-am să plec, n-am să plec.
+Nu, n-am să mai plec!

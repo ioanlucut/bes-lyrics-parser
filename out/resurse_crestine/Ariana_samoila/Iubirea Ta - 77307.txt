@@ -1,0 +1,21 @@
+[title]
+Iubirea ta {author: {Ariana Samoila}, {rcId: {77307}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Rătăceam în lume, în păcat,
+Dar iubirea Ta m-a salvat
+
+[c]
+Iubirea Ta, comoara mea,
+Iubirea Ta, speranța mea.
+
+[v2]
+Întunericul m-a prins în vraja sa,
+Dar privirea Ta mi-a adus lumina
+
+[c2]
+Privirea Ta, nădejdea mea,
+Privirea ta, lumina mea.

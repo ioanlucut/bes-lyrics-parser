@@ -1,0 +1,55 @@
+[title]
+Iarta-ma {author: {Daniel Briciu}, {rcId: {240345}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Din ceruri Tu Te-ai coborât
+Din zările senine
+În trup de om Te-ai îmbrăcat
+Și ai venit la mine.
+În loc să te primesc cu drag
+În casa ce-am avut,
+Eu te-am lăsat afară-n frig
+Și-n staul Te-ai născut.
+
+[c]
+/: Iartă-mă, iartă-mă, iartă-mă
+Isuse, te rog! :/
+/: Iartă-mă, iartă-mă, iartă-mă
+Isuse, te rog! :/
+/: Iartă-mă, iartă-mă, iartă-mă
+Isuse, te rog! :/
+/: Te iubesc, te iubesc, te iubesc
+Isuse, Domnul meu :/
+
+[v2]
+Ai vindecat durerea mea
+Și rana cea adâncă
+Și lacrimile mi le-ai șters
+Cu mâna Ta cea sfântă.
+Dar mai târziu cu mâna mea
+De Tine vindecată
+Ți-am așezat cununa grea
+Pe fruntea-Ți minunată.
+
+[v3]
+Când trupu-Ți sângera cumplit
+Sub tainica povară
+Cu vorba grea te-am biciuit
+Și Te-am umplut de-ocară.
+Iar când la Golgot-ai sosit
+La locul de-ntristare
+Piroane reci eu ți-am înfipt
+În mâini și în picioare.
+
+[v4]
+Dar mai târziu am înțeles
+Ce tainică iubire
+Ai revărsat cu-atâta har
+Spre-ntreaga omenire.
+La crucea Ta eu am găsit
+Izvorul vindecării
+Păcatul meu l-ai aruncat
+În apele uitării.

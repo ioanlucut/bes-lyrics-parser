@@ -1,0 +1,55 @@
+[title]
+Iona {author: {Marius Livanu}, {rcId: {178633}}
+
+[sequence]
+v1,c,v2,c2,v3,c2,v4,c4
+
+[v1]
+Pe marea cea mare cu toți au pornit,
+Împinși de furtună și valuri,
+Departe de Domnul, Iona a fugit,
+Spre alte meleaguri și maluri.
+
+[c]
+”
+Cât costă biletul de-aicea la Tars?
+Și care-i corabia ce pleacă?”
+/: Spre țărmul străin, liniștit și retras,
+Departe de casa părintească. :/
+
+[v2]
+Pe mare pornește cumplitul taifun
+Și valul, și vântul, furtuna
+Împotriva lui Iona, pornit de nebun,
+Dezlănțuie mânia acuma.
+
+[c2]
+”
+Cât costă biletul de-aicea la Tars?
+E prețul vieții, vezi bine!”
+/: Departe de Domnul, cu sufletul ars,
+Înseamnă pierzare, străine. :/
+”
+Cât costă biletul de-aicea la Tars?”
+Tăcere-i în marea adâncă.
+/: Trei zile și nopți în ea a rămas
+Iona cu inima frântă. :/
+
+[v3]
+Iona-i acum aruncat în ocean,
+Se-oprește-a furtunii mânie,
+Astfel a plătit cu tributul uman
+Biletul călătoriei.
+
+[v4]
+De-acolo-și înalță ruga-nspre cer
+Și marele pește-l aruncă
+La țărm pe acest ciudat mesager,
+Să ducă divina poruncă.
+
+[c4]
+”
+Cât costă biletul de-aicea la Tars?
+Biletul nici nu îmi mai pasă!”
+/: De-acuma eu plec, ascult sfântul glas,
+La Ninive, cetatea frumoasă. :/

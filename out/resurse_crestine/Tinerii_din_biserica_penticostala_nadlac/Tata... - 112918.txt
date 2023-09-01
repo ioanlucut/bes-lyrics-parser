@@ -1,0 +1,58 @@
+[title]
+Tata {author: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {112918}}
+
+[sequence]
+v1,c,v2,c,c,e
+
+[v1]
+În fața Ta îngenunchez,
+Ție pe veci mă-ncredințez,
+Fiindc-atât de mare-i dragostea Ta!
+Pentru toate ce-ai creeat
+Al meu Domn, bun Împărat,
+O viață-ntreagă Te-oi lăuda!
+Sunt o făptură minunată,
+Nu reușesc să-Ți mulțumesc, Tată!
+
+[c]
+Tu m-ai trimis în lume
+Singur, dar mi-ai dat un nume
+De copil de Dumnezeu, Tată!
+Și m-ai zărit de Sus
+Când din ceruri, pe Isus,
+L-ai trimis de dragul meu!
+Tu m-ai trimis în lume
+Singur, dar mi-ai dat un nume,
+De copil de Dumnezeu, Tată!
+Și m-ai zărit de Sus
+Când, din ceruri, pe Isus,
+L-ai trimis de dragul meu!
+Mereu ai fost cu mine,
+Te-ai bucurat, când mi-a fost bine;
+Tu Ești al meu, eu al Tău sunt, Tată!
+Ai despărțit chiar marea
+Pentru ca să văd cărarea
+Și mă-nsoțești pe-acest Pământ!
+Tu m-ai trimis în lume
+Singur, dar mi-ai dat un nume,
+De copil de Dumnezeu, Tată
+Și m-ai zărit de sus
+Când, din ceruri, pe Isus
+L-ai trimis de dragul meu.
+
+[v2]
+Mi-ai fost soare, mi-ai fost nor,
+M-ai purtat prin toate-n zbor,
+Fiindc-atât de mare-i dragostea Ta!
+Prin secete sau prin furtuni,
+Ani cu lacrimi sau ani buni,
+O viață-ntreagă Te-oi lăuda,
+Cum aș putea să uit vreodată
+Că m-ai salvat, eliberat, Tată?
+
+[e]
+Și mă-nsoțești pe-acest pământ.
+Te slăvesc!
+Mulțumesc că sunt, sunt doar al Tău,
+Tu m-ai zărit,
+M-ai iubit mereu, Domnul meu.

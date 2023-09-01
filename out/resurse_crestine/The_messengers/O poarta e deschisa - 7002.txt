@@ -1,0 +1,31 @@
+[title]
+O poarta e deschisa {author: {The Messengers}, {rcId: {7002}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+O Poartă e deschisă
+S-ajungi în Ceruri sus,
+Numele ei e Golgota;
+De vrei să vezi pe Isus,
+Să fii al Lui de-acum,
+O, vino azi la Golgota!
+
+[c]
+/: Mai este loc la Cruce pentru tine,
+Mai este loc la Cruce pentru oricine,
+Mai este loc pentru întreg Pământul,
+Mai este loc, mai este loc! :/
+
+[v2]
+Oricine-ai fi în lume
+Și orice nume porți,
+Tu ai nevoie de Isus;
+Hai vino și-L primește!
+La Cruce stă și-acum,
+Te va primi căci este bun.
+
+[e]
+La cruce, în cer
+Mai este loc!

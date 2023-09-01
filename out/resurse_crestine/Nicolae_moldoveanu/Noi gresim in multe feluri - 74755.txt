@@ -1,0 +1,53 @@
+[title]
+Noi gresim in multe feluri {author: {Nicolae Moldoveanu}, {rcId: {74755}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Noi greșim în multe feluri,
+Zilnic bem amăraciune,
+Zilnic, Tu, Isuse Doamne
+Ști a noastră slăbiciune.
+
+[c]
+Dar pe calea pocăinței
+De venim la Tine iară
+/: Ne primești, Ne ierți Ne vindeci
+Nu ne scoți nicicând afară :/
+
+[v2]
+Când nu-ți ascultăm porunca
+Și nu ținem bine seama
+Când mâhnire îți aducem
+Prin vorbire și prin faptă
+
+[c2]
+De ne-ntoarcem către Tine
+Printr-o căință amară
+/: Ne primești, Ne ierți, Ne vindeci
+Nu ne scoți nicicând afară :/
+
+[v3]
+Zilnic Noi trecând prin lume
+Ne-ntinăm frumoasa haină
+Și uităm mărturisirea
+De iubire Sfântă taină
+
+[c3]
+Dar când lacrima căinței
+Tinde-n jos să ne răsară
+/: Ne primești, Ne ierți, Ne vindeci
+Nu ne scoți nicicând afară :/
+
+[v4]
+Cum sa-ti multumim, o, Doamne
+Pentru-atat bunatate
+Ce ne-o dai fara oprire
+Orisicand si pentru toate
+
+[c4]
+Slava, Slava si-nchinare
+Tie dragoste-i comoara
+/: Tu nu obosesti sa vindeci
+Si nu scoti nicicand afara :/

@@ -1,0 +1,49 @@
+[title]
+De cand domnul m-a gasit {author: {Anonim}, {rcId: {2760}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+De când Domnul m-a găsit
+Laudă Domnului!
+Inima mi s-a albit
+Laudă Domnului!
+
+[c]
+/: Inima El mi-a sfințit
+De păcat m-a curățit
+/: Laudă Lui, :/ Laudă Domnului! :/
+
+[v2]
+El prin sângele-I vărsat
+Laudă Domnului!
+M-a spălat și m-a salvat
+Laudă Domnului!
+
+[c2]
+/: Sufletul mi-e vindecat
+Căci păcatul mi-a iertat
+/: Laudă Lui, :/ Laudă Domnului! :/
+
+[v3]
+Muții-ncep azi a vorbi,
+Laudă Domnului!
+Șchiopii încep a sări,
+Laudă Domnului!
+
+[c3]
+/: Duhuri rele ies acum
+Căci putere n-au nici cum
+/: Laudă Lui, :/ Laudă Domnului! :/
+
+[v4]
+O, auzi tu frate drag,
+Laudă Domnului!
+Să nu stai nicicând pribeag
+Laudă Domnului!
+
+[c4]
+/: Ci grăbește-te să vii
+Mâine nu știi de-i mai fi
+/: Laudă Lui, :/ Laudă Domnului! :/

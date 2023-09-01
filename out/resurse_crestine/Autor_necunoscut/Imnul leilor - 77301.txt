@@ -1,0 +1,22 @@
+[title]
+Imnul leilor {author: {Anonim}, {rcId: {77301}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Noi leii astăzi am venit
+Și patru zile vrem să stăm
+Pe Isus îl lăudăm
+În veci fie preamararit
+
+[c]
+Noi proclamăm
+Noi proclamăm
+Isus e-nalaltat
+
+[v2]
+Pas cu pas mergem-nainte
+Cei 14 lei ai taberei
+Vrem să fim cei mai puternici
+Împreună cu Isus

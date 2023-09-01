@@ -1,0 +1,37 @@
+[title]
+La adapostul sangelui {author: {Nicolae Moldoveanu}, {rcId: {242569}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+La adăpostul Sângelui sfințit,
+Al Mielului de Paște,
+/: De orice griji și temeri sunt scutit
+De pace sufletul mi-a copleșit,
+La adăpostul Sângelui sfințit,
+/: Speranța mea renaște! :/
+
+[v2]
+Lumină și imbold deplin primesc
+Și aripi de credință,
+/: Să zbor spre Canaanul cel Ceresc,
+Când stau sub Sângele dumnezeiesc,
+Lumină și imbold deplin primesc,
+/: În slaba mea fiintă! :/
+
+[v3]
+La adăpostul sângelui curat,
+Eu scap de-o grea povară,
+/: Prin El cu Dumnezeu sunt împăcat
+Din pomul vieții roade El mi-a dat,
+La adăpostul Sângelui curat,
+/: E-a Harului comoară! :/
+
+[v4]
+O, slavă Ție, Mielușel Preasfânt,
+Căci Jertfa Ta slăvită,
+/: Mi-e stânca mântuirii pe pământ,
+Mi-e adăpost puternic și nenfrânt
+Mi-e bucurie sfântă și avânt,
+/: Spre Era fericită!.. :/

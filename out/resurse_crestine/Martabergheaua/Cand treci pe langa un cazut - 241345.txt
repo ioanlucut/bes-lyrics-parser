@@ -1,0 +1,34 @@
+[title]
+Cand treci pe langa un cazut {author: {Marta_Bergheaua}, {rcId: {241345}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Când treci pe lângă un căzut: nu îl privi orgolios!
+Că și tu ai fost așa cândva. dar te-a luat Isus de jos!
+Când treci pe lângă un sărman: nu te grăbi rău să gândești!
+Că și tu poți să ajungi așa. să te oprești plângând la porți!
+
+[c]
+Grăbește-te să fii milos. să te apleci spre cel de jos!
+Să dai speranță celui frânt. să fii Isus pe acest pământ!
+
+[v2]
+Când treci pe lângă un bolnav: nu fii de fel nepăsător!
+Adu-ți aminte cum Isus, ți-a fost cândva vindecător!
+Când treci pe lângă un orfan. fii bun cu el, fii om milos!
+Nu te grăbi să îl ocolești; căci al său Tată e Cristos!
+
+[v3]
+Când treci pe lângă un cerșetor: nu te grăbi să îl respingi!
+Să îi vorbești blând și duios; și în milă mâna să îi întinzi!
+Când vezi un orb rătăcitor: fii pentru el lumină chiar!
+Adu-ți aminte cum Isus. ți-a dat vedere sfântă în dar!
+
+[v4]
+Când întâlnești un fiu pierdut; grăbește-te să îi vorbești,
+De dragostea lui Dumnezeu. ca pe un frate să îl privești!
+Și tu ai fost pierdut cândva; dar Domnul bun te-a căutat!
+Te-a luat pe brațu
+I iubitor. c-o haină nouă te-a îmbrăcat!

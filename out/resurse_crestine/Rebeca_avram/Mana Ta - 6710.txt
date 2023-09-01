@@ -1,0 +1,32 @@
+[title]
+Mana ta {author: {Rebeca Avram}, {rcId: {6710}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Tu, ești Doamne,
+Cel ce mă-nconjori..
+Mi-ești alături,
+Glasul Tău îmi dă fiori.
+Al meu nume,
+Dulce îl soptești..
+Pe vecie..
+Doamne, o să mă iubești.
+
+[c]
+/: Eu, vreau să stau cu Tine,
+Mâna Ta, Doamne mă ține,
+Niciodată nu te las.
+Eu, nu pot fără de Tine,
+Stai, o, Doamne lângă mine,
+Și condu-mă pas cu pas. :/
+
+[v2]
+Când Îl chem,
+Vino lângă mine..
+Nu lăsa,
+Viața mea de lâng-a Ta..
+Cu putere și rabdare-mbracă
+Al meu suflet...
+Și-o nădejde-n trup Tu lasă..

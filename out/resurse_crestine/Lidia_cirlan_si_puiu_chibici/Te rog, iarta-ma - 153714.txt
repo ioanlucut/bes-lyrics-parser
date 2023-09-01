@@ -1,0 +1,35 @@
+[title]
+Te rog iarta-ma {author: {Lidia Cîrlan și Puiu Chibici}, {rcId: {153714}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Am greșit și-mi pare rău,
+Domnul meu, de tot ce-am făcut rău!
+/: Prin trăirea mea, prin gândirea,
+Prin vorbirea mea, Te-am întristat. :/
+
+[c]
+Te rog, iartă-mă, spală-mă,
+Primește-mă Isus!
+Te rog, iartă-mă, ascultă-mă,
+Primește-mă Isus!
+
+[v2]
+Mă căiesc și-mi pare rău
+De tot trecutul meu.
+/: Ce-a fost în zadar, clipe fără har,
+Ce pe Țin’ Te-au întristat. :/
+
+[v3]
+Isuse, azi la Tine vin
+Să-mi vărs amarul meu cumplit.
+/: Îndurare-Ți cer căci în Tine sper,
+Doar Tu mă poți vindeca! :/
+
+[v4]
+Mulțumesc Isus că m-ai primit
+Și iertare Tu mi-ai dăruit!
+/: Te slăvesc în veci, Domnul meu ceresc,
+Vreau pe Tine-n veci să Te slujesc! :/

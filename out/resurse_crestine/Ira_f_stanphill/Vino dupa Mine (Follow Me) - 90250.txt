@@ -1,0 +1,33 @@
+[title]
+Vino dupa mine (follow me) {author: {Ira F. Stanphill, Traducere RO}, {rcId: {90250}}
+
+[sequence]
+v1,c,v2,c2,s,c2
+
+[v1]
+Mergeam pe drum însingurat și nimeni nu știa
+Poverile mă copleșeau și disperat eram;
+Plângând, spuneam lui Isus cum cel rău mă lovea
+Și-atunci glasul Lui blând Îl auzeam:
+
+[c]
+”
+Și Eu am fost lovit mult în drum spre Golgota
+Iar crucea Mi-a fost Mie povara lumii grea;
+Fii credincios creștine, căci zorii se-arată!
+Ia-ți crucea și vino după Mine!
+
+[v2]
+Lucrez cu zel pentru Isus și-adesea eu o spun:
+Am renunțat la multe căi, să merg pe calea Lui;
+Averi și faimă n-am vrut, ci vrednic doar să fiu
+Și-atunci glasul Lui blând din nou aud:
+
+[c2]
+Am lăsat slava din cer și-aici am coborât
+Pe cruce am suferit, în cuie pironit;
+Dar Tatăl cu iubire pe toți El ne-așteaptă
+Ia-ți crucea și vino după Mine!
+
+[s]
+Cine nu-și ia crucea lui și nu vine după Mine, nu este vrednic de Mine. Matei 10:38

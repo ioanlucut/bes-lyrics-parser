@@ -1,0 +1,40 @@
+[title]
+Mireasa sfanta porumbita {author: {Nicolae Moldoveanu}, {rcId: {3906}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Mireasă sfântă porumbiță
+Cât de mult Eu te iubesc,
+Privirea ta mă copleșește
+Eu sunt gata să te iau.
+
+[c]
+/: Eu sunt gata, tu ești gata
+Aleluia maranata
+Eu sunt gata să te iau. :/
+
+[v2]
+Tu ești mai albă decât zăpada
+Căci Te-am spălat prin sânge sfânt
+Când sus pe cruce Mi-am dat viața
+Eu sunt gata să te iau.
+
+[v3]
+Cu tine voi lumina lumea
+Când vei ajunge la mine
+Cerul va fi în sărbătoare
+Când vei ajunge la mine.
+
+[v4]
+Căci eu am grijă porumbiță
+Să fi gata-n orice moment
+Să ne vedem cu toții-n slavă
+Eu sunt gata să te iau.
+
+[v5]
+De-i fi-mbrăcată cu multă slavă
+Din cer în cer îți voi cânta
+În cer găsit-am un loc
+Porumbiță ești a Mea.

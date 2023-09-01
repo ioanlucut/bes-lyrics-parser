@@ -1,0 +1,41 @@
+[title]
+A sosit vremea cantarii {author: {Gheorghe Zoltan}, {rcId: {187373}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+A sosit vremea cântării,
+Să o cânți cu-atâta dor,
+Pregătește-ți, porumbițo,
+Aripile pentru zbor!
+Mii de ani trec ca o clipă
+După harul Meu ceresc,
+În curând vin, porumbițo,
+Cu alai, să te răpesc.
+
+[c]
+/: Vrei să fii pe marea de cristal,
+Cu finicii-n mână, fericită?
+Te voi îmbrăca în mare har,
+Tu îmi ești mireasă preaiubită. :/
+
+[v2]
+Via frumuseții tale
+S-o păstrezi neîncetat,
+Mai veghează, porumbițo,
+La porunca ce ți-am dat.
+De vei aștepta-n veghere,
+Până la venirea Mea,
+Tu, aleaso, porumbițo,
+Tu-mi vei fi mireasa Mea.
+
+[v3]
+Vei uita și pribegia
+Și amarul tău cel greu,
+Când vei fi cu Mine-n slavă,
+Lângă bunul Dumnezeu.
+Dar de cochetezi acuma
+Cu plăcerile lumești,
+N-ai s-auzi semnalu-acela
+Și chemările cerești.

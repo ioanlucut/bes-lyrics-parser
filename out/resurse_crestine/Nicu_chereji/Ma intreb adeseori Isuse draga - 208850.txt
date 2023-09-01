@@ -1,0 +1,30 @@
+[title]
+Ma intreb adeseori isuse draga {author: {Nicu Chereji}, {rcId: {208850}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mă întreb adeseori Isuse dragă
+Când vei veni la Tine să ne duci
+În Țara veșnică și minunată,
+De-abia aștept Isuse pân’ atunci!
+
+[c]
+Mi-e dor, mi-e dor de Tine,
+De slăvile senine,
+Mi-e dor de locul ce mi l-ai promis,
+De Țara mult visată și binecuvântată,
+Mi-e dor, mi-e dor Isus de Paradis!
+
+[v2]
+Din zori de zi când mă trezesc Te laud
+Și ochii mi-i îndrept spre cer plângând,
+Căci Te-am visat venind pe nori în slavă
+Cu îngerii văzduhul treierând!
+
+[v3]
+De-ar fi să Te descriu în mari cuvinte
+O Doamne nici cuvinte n-aș găsi
+Dar mi-e de-ajuns să stau lipit de Tine
+Și să-mi port crucea-n fiecare zi

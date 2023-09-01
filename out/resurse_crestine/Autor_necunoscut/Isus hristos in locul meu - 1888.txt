@@ -1,0 +1,35 @@
+[title]
+Isus hristos in locul meu {author: {Anonim}, {rcId: {1888}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Isus Hristos in locul meu
+Pe cruce a murit
+Si catre-un vierme, cum sunt eu,
+S-a-ntors, caci m-a iubit.
+
+[c]
+Si in locul meu,
+Si in locul meu
+Isus pe cruce S-a jertfit,
+Veniti sa-I multumim.
+
+[v2]
+Pamantul s-a cutremurat
+Si soarele-a palit
+Cand Domnul vietii S-a sfarsit,
+Hulit si chinuit.
+
+[v3]
+Pacatul meu L-a rastignit
+Pe Cel neprihanit,
+Dar necuprinsa-i dragostea
+De el m-a izbavit.
+
+[v4]
+De as ascunde fata mea
+Si-as plange zi de zi,
+Sa-I multumesc eu n-as putea,
+Oricat m-as stradui.

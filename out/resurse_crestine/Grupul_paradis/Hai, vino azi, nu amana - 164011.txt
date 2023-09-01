@@ -1,0 +1,31 @@
+[title]
+Hai vino azi nu amana {author: {Grupul Paradis}, {rcId: {164011}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Prietene, Isus te cheamă,
+Vino acum, nu amâna!
+Vino la El, vino degrabă,
+Vino, acum, nu aștepta!
+Isus e bun, gata să ierte
+Pe toți acei ce-n lacrimi vin,
+Îndreaptă-ți pașii, te încrede
+Și vei primi al Său alin.
+
+[c]
+/: Hai, vino azi, nu amâna!
+El îți întinde mâna Sa,
+Nu-i respinge chemarea Lui,
+Te cheamă vocea Domnului! :/
+
+[v2]
+Viața-aceasta-i trecătoare,
+Fără Isus e fără rost!
+Tu vei primi în dar iertare,
+Întoarce-te azi la Hristos!
+În inimă El îți va da
+O bucurie de nespus
+Și vei simți tu mâna Sa
+Cum va lucra în viața ta.

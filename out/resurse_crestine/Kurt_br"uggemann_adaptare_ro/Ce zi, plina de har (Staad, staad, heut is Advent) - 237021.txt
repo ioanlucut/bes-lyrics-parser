@@ -1,0 +1,26 @@
+[title]
+Ce zi plina de har (staad staad heut is advent) {author: {Kurt Brüggemann, Adaptare RO}, {rcId: {237021}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Ce zi, plină de har
+Cu al iubirii sfânt dar!
+/: De sus, din cerul slăvit
+Domnul Isus a venit. :/
+x2
+
+[v2]
+Ce zi, plină de har
+Cu al iubirii sfânt dar!
+/: Vestea salvării-a venit
+Prin Fiul, Cel Preaiubit. :/
+x2
+
+[v3]
+Ce zi, plină de har
+Cu al iubirii sfânt dar!
+/: Slava Lui, noi o cântăm
+Și-n inimi ne bucurăm. :/
+x2

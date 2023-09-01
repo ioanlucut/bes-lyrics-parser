@@ -1,0 +1,45 @@
+[title]
+Ce mare har sa poti vedea {author: {Anonim}, {rcId: {202348}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Ce mare Har sa poti vedea
+cu ochii tai lumina!
+Dar mult mai mare Har tu ai
+când ti-e iertata vina
+/: Ce mare Har, Ce mare Har
+sa ai iertata vina :/
+
+[v2]
+Ce mare Har sa poti s-auzi
+cu-a ta ureche cântul!
+Dar mult mai mare Har tu ai
+când poti s-auzi Cuvântul
+/: Ce mare Har, ce mare Har!
+S-auzi tu azi Cuvântul! :/
+
+[v3]
+Ce mare Har sa poti sa gusti
+din roade de tot felul
+Dar mult mai mare Har tu ai
+când gusti ce bun e Domnul!
+/: Ce mare Har, ce mare Har
+Sa vezi ce bun e Domnul. :/
+
+[v4]
+Ce mare Har când mirosind
+parfum de flori frumoase
+Tu raspândesti mereu în jur
+Miresme sfinte-alese.
+/: Ce mare Har, ce mare Har
+Sa raspândesti miresme :/
+
+[v5]
+Ce mare Har sa crezi în El
+Vazandul ca si Toma!
+Dar mult mai mare Har tu mai
+Sa crezi desi nu-L vezi acuma.
+/: Ce mare Har, ce mare Har
+Sa crezi în El acuma :/

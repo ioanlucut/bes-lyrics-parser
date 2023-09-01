@@ -1,0 +1,64 @@
+[title]
+Sa calci cu teama {author: {Nicolae Moldoveanu}, {rcId: {241436}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Să calci cu teamă-n iarba
+Cea moale de la șes,
+Ispita ca năpârca
+Acolo stă mai des
+Acolo stă păcatul
+Ca șarpele pândind
+Umblarea, rugăciunea
+Și râvna Ienevind
+
+[c]
+Să priveghezi, să priveghezi,
+Acolo stă păcatul
+Ca șarpele oândind.
+
+[v2]
+Acolo stă desfrâul
+Când toate merg din plin
+Și una după alta dorințe negre vin.
+Și unul după altul
+Vin demonii vrăjmași,
+Iar tu slăbit și leneș
+Acolo te mai lași.
+
+[c2]
+Să priveghezi, să priveghezi,
+Căci unul după altul
+Vin demonii vrăjmași.
+
+[v3]
+O. nu-ți slăbi vegherea
+Ci roagă-te mai des,
+Și mai cu râvnă-aleargă
+Ajuns la drum de șes.
+Când scapi de calea aspră,
+Și-ajungi la locuri moi,
+O, mai ales de-acolo
+Ispitele vin roi.
+
+[c3]
+Să priveghezi, să priveghezi
+Când scapi de calea aspră
+Și-ajungi la locuri moi.
+
+[v4]
+Atâți din cei ce-n lanțuri
+Luptat-au strălucit,
+În locuri liniștite
+Vrăjmașul i-a zdrobit.
+Mergi mult mai plin de teamă
+Ajuns la drum plăcut,
+Cununile mai multe
+Acolo s-au pierdut.
+
+[c4]
+Să priveghezi, să priveghezi,
+Cununile mai multe
+Acolo s-au pierdut.

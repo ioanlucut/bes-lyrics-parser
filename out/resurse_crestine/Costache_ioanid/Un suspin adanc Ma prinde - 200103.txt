@@ -1,0 +1,41 @@
+[title]
+Un suspin adanc ma prinde {author: {Costache Ioanid}, {rcId: {200103}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Un suspin adânc Mă prinde,
+Și vă spun cu-atâta greu:
+/: Unul dintre voi Mă vinde :/
+Doamne, nu cumva sunt eu?
+
+[c]
+Iată ceasul suferinței,
+Voi să vă rugați mereu.
+Însă, vai, de cel cu-arginții!
+/: Doamne, nu cumva sunt eu? :/
+
+[v2]
+Voi sunteți ca piatra rară,
+Numai unu-i asmodeu!
+/: Suflet rânduit să piară :/
+Doamne, nu cumva sunt eu?
+
+[c2]
+Voi aveți comori bogate,
+Însă el, vrăjmașul Meu,
+Astăzi le-a pierdut pe toate,
+/: Doamne, nu cumva sunt eu? :/
+
+[v3]
+Astfel în amurgul rece,
+Murmura Isus cu greu.
+/: Și spuneau toți doisprezece: :/
+Doamne, nu cumva sunt eu?
+
+[c3]
+Deci și noi, când El ne spune,
+Că-ntre noi e-un fariseu,
+Să șoptim în rugăciune:
+/: Doamne, nu cumva sunt eu? :/

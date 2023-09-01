@@ -1,0 +1,60 @@
+[title]
+Colindatorii duc vestea buna {author: {Ruben și Beatrice Filoti}, {rcId: {118023}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Ninge frumos, iar e Crăciun
+Bucurie noi avem
+Că s-a născut Pruncul Isus
+În orașul Betleem.
+S-a împlinit Cuvântul dat
+S-a născut un Împărat
+Printr-o fecioară S-a născut
+Ce har minunat!
+
+[c]
+Colindătorii duc vestea bună
+Mesia a venit!
+Isus Hristos, Împăratul Păcii
+Pentru că ne-a iubit!
+/: Aleluia, Aleluia
+Aleluia, azi S-a născut! :/
+
+[v2]
+Azi S-a născut al meu Păstor
+În orașul Betleem
+Numele Lui, ”
+Emanuel”
+A luat și-al meu blestem.
+Îți mulțumesc c-ai adus iertare,
+Pace pe pământ
+Cu Îngerii astăzi în cor
+Îți vom cânta Părinte Sfânt.
+
+[c2]
+N-am știut, Doamne că prin Tine
+Vom primi ierare-n dar
+Îți mulțumim pentru a Ta iubire
+Și pentru al Tău har.
+/: Aleluia, Aleluia
+Aleluia, azi s-a născut! :/
+
+[v3]
+Veniți cu toți să Îi cântăm
+Slavă Domnului să-I dăm.
+Îngeri, Păstori, Magii și noi
+Lui Isus să ne-nchinăm.
+În veci fii binecuvântat
+Cel ce ne-ai adus bucurie
+Pamantu-ntreg e-n sărbătoare
+Vestește-a Ta venire.
+
+[c3]
+De mii de ani făgăduind
+Pentru noi El a venit
+Popoare-n veci să-L adorăm
+În veci fie slăvit.
+/: Aleluia, Aleluia
+Aleluia, azi S-a născut! :/

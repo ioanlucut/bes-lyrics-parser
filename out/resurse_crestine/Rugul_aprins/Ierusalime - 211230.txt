@@ -1,0 +1,35 @@
+[title]
+Ierusalime {author: {Rugul aprins}, {rcId: {211230}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c
+
+[v1]
+Ierusalime, cetatea Mea,
+În tine Mă voi bucura.
+Din ape mari, doar Eu te-am scos,
+Cu braț puternic te-am ridicat de jos.
+
+[v2]
+Chiar și prin foc dacă ai să treci,
+Biruitor tu ai să ieși.
+Căci mâna Mea te va umbri
+Și dreapta Mea te va acoperi.
+
+[c]
+Ierusalime, Ierusalime
+Dau popoare pentru viața ta.
+Ierusalime, Ierusalime
+În tine este desfătarea Mea.
+
+[v3]
+Ierusalime, popor iubit,
+Eu pace-n tine n-am găsit,
+Dar vreau acum să te ridic,
+Ierusalime, poporul meu iubit.
+
+[v4]
+Căci tu ești primul Meu născut,
+Ierusalime, n-am să te uit.
+Pe brațul Meu te voi purta,
+Ierusalime, când Mă vei chema.

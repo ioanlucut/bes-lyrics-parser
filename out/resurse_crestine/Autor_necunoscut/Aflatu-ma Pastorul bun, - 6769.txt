@@ -1,0 +1,29 @@
+[title]
+Aflatu-ma pastorul bun {author: {Anonim}, {rcId: {6769}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Aflatu-mă Păstorul bun,
+Pe brațele Lui m-a pus;
+Și din adânc, de-unde zăceam,
+La lumină m-a adus.
+
+[c]
+/: Aleluia, aleluia,
+Răsună cântarea mea
+Domnul fie mărire
+Mi-a adus mântuire. :/
+
+[v2]
+Vindecat-a, Medicul bun,
+Toate ranele mele.
+Datu-ma hrana din care
+Primesc iarăș putere.
+
+[v3]
+De Mântuitorul - spălat
+Cu haine albe-îmbrăcat.
+În sângele Lui m-a sfințit
+O, cât sunt de fericit!

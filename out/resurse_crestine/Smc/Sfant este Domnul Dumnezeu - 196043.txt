@@ -1,0 +1,46 @@
+[title]
+Sfant este domnul dumnezeu {author: {S.M.C.}, {rcId: {196043}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Sfânt este Domnul Dumnezeu!
+Sfânt, Sfânt e El!
+Nu-i nimeni pe pământ nici sus în cer,
+Să poată fii asemănat cu El!
+
+[c]
+Sfânt e Domnul Dumnezeu,
+Atotputernic, Minunat,
+Cel ce toate Le-a creat.
+Lui mă-nchin, Îl preamăresc,
+Cu tot ce am vreau să-Îl slujesc,
+Toată viața cât trăiesc... căci m-a salvat!
+Sfânt e Domnul Dumnezeu,
+Atotputernic, Minunat,
+Cel ce toate Le-a creat.
+Lui mă-nchin, Îl preamăresc,
+Cu tot ce am vreau să-Îl slujesc,
+Toată viața cât trăiesc... căci m-a salvat!
+
+[v2]
+Sfânt este Domnul Dumnezeu,
+Sfânt, Sfânt e El!
+Pe Unicul Său Fiu L-a jertfit,
+Fiindcă-atât de mult ne-a iubit!
+
+[v3]
+Sfânt este Domnul Dumnezeu,
+Sfânt, Sfânt e El!
+Prin Jertfa lui Isus suntem sfințiți,
+Ne-ai ales să fim fericiți!
+
+[c2]
+Te slăvim, Isus iubit!
+Meriți să Fii înălțat,
+Să Fii binecuvântat!
+Numai prin iubirea Ta,
+Suntem azi în fața Ta,
+Pentru a ne închina... Fii lăudat!
+Fii lăudat! Isus ne-ai salvat!

@@ -1,0 +1,36 @@
+[title]
+Din multimea de cuvinte {author: {Anonim}, {rcId: {3001}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Din mulțimea de cuvinte
+Ce-s rostite fără seamăn,
+Omule, din câte oare
+Adevărul stă-n picioare?
+
+[c]
+/: Caută-n lume adevărul
+Dacă vrei ca să trăiești
+/: Caută harul de-acuma,
+Calea sfântă care-i una
+Până viața nu sfârșești. :/
+
+[v2]
+Mii de ani, veacuri de-a rândul
+Ce-au acoperit trecutul,
+Vorba, fapta chiar și gândul
+Le va judeca Cuvântul.
+
+[v3]
+Om ce-ți pui nădejdea-n lucruri
+Care pier și putrezesc,
+Singur te înșeli pe tine
+Raiu-l pierzi pentru vecie.
+
+[v4]
+Unul singur e-adevărul,
+Cel ce-a fost crucificat,
+El e Calea și Viața,
+Adevărul ce-ți dă pacea.

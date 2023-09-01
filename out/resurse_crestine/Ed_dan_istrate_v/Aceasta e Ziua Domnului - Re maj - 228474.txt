@@ -1,0 +1,33 @@
+[title]
+Aceasta e ziua domnului - re maj {author: {ed. Dan Istrate, v.3}, {rcId: {228474}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+/: Aceasta e :/ /: Ziua Domnului :/
+/: Veseli să fim :/ /: Să ne bucurăm :/
+Aceasta e ziua Domnului,
+Veseli să fim, să ne bucurăm!
+Aceasta e, aceasta e ziua Domnului.
+
+[v2]
+/: El ne-a creat :/ /: Și ai Lui suntem :/
+/: Lui ne-nchinăm :/ /: Pe El îl slăvim :/
+El ne-a creat, și ai Lui suntem
+Lui ne-nchinăm, pe El îl slăvim,
+/: El ne-a creat :/ și ai Lui suntem!
+
+[v3]
+/: Noi rătăceam :/ /: Dar El ne-a iubit :/
+/: Nu-L cunoșteam :/ /: Dar El s-a jertfit :/
+Noi rătăceam, dar El ne-a iubit,
+Nu-L cunoșteam, dar El s-a jertfit,
+/: Noi rătăceam :/ dar El ne-a iubit.
+
+[v4]
+/: Isus E Domn :/ /: Vine în curând :/
+/: Vom moșteni :/ /: Cu El cerul sfânt :/
+Isus E Domn, vine în curând,
+Vom moșteni cu El cerul sfânt.
+/: Isus E Domn :/ vine în curând.

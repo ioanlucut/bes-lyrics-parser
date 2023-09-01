@@ -1,0 +1,29 @@
+[title]
+Astazi este ziua scumpa dragii nostri {author: {Nicolae Moldoveanu}, {rcId: {5526}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Astazi este ziua scumpa, dragii nostri,
+Zi de mare stralucire pentru voi.
+Astazi va legati, din dragoste curata,
+Sa-L serviti, cu drag pe Isus amandoi.
+
+[c]
+Cu Isus, cu Isus,
+Drumul vostru sa va fie fericit!
+Si-n iubire, cu unire,
+Ne’ncetat, cu zel si ravna, sa-I serviti!
+
+[v2]
+Sa alegeti tot ce-i bine-n viata!
+Sa vestiti iertarea data de Hristos!
+Aducandu-I rod bogat, in pocainta,
+Sa vestiti, din ce adanc, Isus ne-a scos!
+
+[v3]
+Va iubim si va dorim o noua viata
+Cu Isus sa va ziditi un nou camin
+Alegand, ca primul oaspete in casa,
+Pe Isus cel sfant cu harul Sau divin.

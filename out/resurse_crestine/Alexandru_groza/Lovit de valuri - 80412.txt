@@ -1,0 +1,33 @@
+[title]
+Lovit de valuri {author: {Alexandru Groza}, {rcId: {80412}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Lovit de valuri, sufletu-mi suspină
+O, Doamne mă-ngrijorez
+O, vino, Doamne, în a mea viață
+Calea să-mi luminezi
+Te chem o, Doamne, Stânca Îndurării
+Tu să mă ocrotești
+Din valurile vieții mă ridică
+Eu pacea Ta doresc.
+
+[c]
+Când întristarea grea mă apasă
+Cu mine-i Domnul, El nu mă lasă
+Prin îndurarea Lui eu trăiesc mereu.
+/: Numai în Domnul eu am scăpare
+Din mâna Lui eu primesc îndurare
+Ce bun e Domnul cu mine zi de zi. :/
+
+[v2]
+O, Domnul meu nu știu ce va fi mâine
+Dar știu că Tu veghezi
+Sufletul meu o, Doamne, Te dorește
+Speranța mea Tu ești.
+M-ai mângâiat în clipe de-ntristare,
+Ai alungat noaptea din viata mea
+Dragostea Ta, Isuse-i o minune
+Pentru inima mea.

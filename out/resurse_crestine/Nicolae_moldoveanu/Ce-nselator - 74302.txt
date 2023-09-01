@@ -1,0 +1,48 @@
+[title]
+Ce-nselator {author: {Nicolae Moldoveanu}, {rcId: {74302}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Ce-nșelător e gândul dus
+De către Cer către pământ
+/: Acestea parcă sunt, dar nu-s
+Acelea parcă nu-s,
+ /: dar sunt bis 2 :/
+
+[v2]
+Ce-adevărat e gândul pus
+Mai mult spre Cer ca-nspre pământ
+/: Acestea parcă sunt, dar nu-s
+Acelea parcă nu-s,
+ /: dar sunt bis 2 :/
+
+[v3]
+Ești înțelept de ți-ai adus
+Comori spre Cer nu spre pământ
+/: Aicea parcă sunt, dar nu-s
+Acolo parcă nu-s,
+ /: dar sunt bis 2 :/
+
+[v4]
+Dar ești nebun când la apus
+N-ai nici în Cer nici pe pământ.
+/: Pe-acestea ți le-ai strâns și nu-s
+Pe-acelea nu le-ai strâns
+ /: și sunt bis 2 :/
+
+[v5]
+De câte ori ți s-a tot spus
+Dar tu privești doar în pământ.
+/: Ce nu vezi azi tu crezi că nu-s,
+Ce parcă vezi
+ /: le crezi că sunt bis 2 :/
+
+[v6]
+O, când din fața lui Isus
+Vei fi-alungat fără cuvânt,
+/: Cum ai să vezi c-acestea nu-s,
+Cum ai să crezi
+ /: c-acelea sunt! bis 2 :/
+Da sunt! Da sunt!

@@ -1,0 +1,27 @@
+[title]
+In veci iti voi canta {author: {Nica Lucian}, {rcId: {5678}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+În veci Îți voi cânta și Te voi lăuda
+Căci Tu mi-ai dat prin har viața Ta!
+Puternic Creator și veșnic Salvator
+Te voi slăvi mereu puternic Domn!
+
+[v2]
+În Tine am viața, mișcarea și suflarea
+În Tine am mereu totul deplin!
+Ești Alfa și Omega, Atotputernic Domn!
+Te laud tot mai mult al vieții Domn!
+
+[v3]
+Tată, Fiu, Duhul Sfânt, Te voi lăuda cântând,
+Căci Tu mi-ai dat în dar viața Ta!
+În Tine am puterea, credința, mângâierea
+Tu-mi ești prieten bun în orice zi!
+
+[v4]
+Puterea ca să cred, să sper și să iubesc,
+Cum Tu m-ai învățat când m-ai smerit!

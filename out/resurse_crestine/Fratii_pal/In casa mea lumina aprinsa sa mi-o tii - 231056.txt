@@ -1,0 +1,35 @@
+[title]
+In casa mea lumina aprinsa sa mi-o tii {author: {Fratii Pal}, {rcId: {231056}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+În casa mea lumina, aprinsă să mi-o ții
+Ca-afară-i întuneric, și noapte e din plin
+Mai rar mai vezi la case, lumina licărind
+Și-altarul rugăciunii, uitat de mulți fiind.
+
+[c]
+/: O Doamne-n îndurarea Ta,
+Ridică-ne iar și vom sta
+În voia Ta așa dorim,
+Isus pe veci să fim :/
+
+[v2]
+Ne doare când în suflet, ușor s-a strecurat
+Sămânța nepăsării, atunci când n-am vegheat
+O Doamne fie-ți milă, în vremea de acum
+De noi și ne ridică, să nu cădem pe drum.
+
+[v3]
+Mai dă-ne Tu putere, și dragostea dintâi
+Pe care-am părăsit-o, căci vii și nu amâi
+Cu pocăință sfântă, la faptele dintâi
+Să ne întoarcem iarăși, cu noi Tu să râmâi.
+
+[v4]
+Mai lasă astăzi Duhul, a noastre inimi seci
+Să le desțelenească, să nu mai fie reci
+Să prindă iarăși viață, al nostru duh zdrobit
+Spre cer să se înalțe, ca robul dezrobit.

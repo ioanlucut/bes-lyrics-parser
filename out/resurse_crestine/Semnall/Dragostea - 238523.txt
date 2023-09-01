@@ -1,0 +1,56 @@
+[title]
+Dragostea {author: {Semnall}, {rcId: {238523}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,v4,b,c,v5,c,v6,c
+
+[c]
+Nici temerea de lume nici dragostea de ea
+Nu ntunece lumina cereasca n viata ta
+Nici ce i urat în viata
+Nici ce ți-e azi frumos
+Nimic sa nu te poată desparte de Hristos
+Nici temerea de lume nici dragostea de ea
+Nu ntunece lumina cereasca n viata ta
+Nici ce i urat în viata
+Nici ce ți-e azi frumos
+Nimic sa nu te poată desparte de Hristos
+
+[v1]
+Dragostea care nu doare
+n-are roadă numai floare
+n-are lacrimi, ci-nșelare
+n-are viață - numai pare.
+
+[v2]
+Dragostea care nu plânge
+nu se-aprinde, ci se stinge,
+nu se-nalță, ci coboară,
+nu învie, ci omoară!
+
+[v3]
+Dragostea ce nu-i fierbinte
+nu te crede, ci te minte,
+nu e-n soare, ci e-n ceață,
+nu-ncălzește, ci îngheață.
+
+[v4]
+Dragostea ce nu-i curată
+nu trezește, ci îmbată,
+nu rămâne, ci trădează,
+nu-nălbește, ci-ntinează.
+
+[b]
+/: Nu e nimic mai depret decât harul cel mai măreț dragostea :/ ×5
+
+[v5]
+Numai Dragostea Divină
+nu te arde, ci te-alină,
+nu te lasă, ci te ține
+orice trece și-orice vine.
+
+[v6]
+Numai dragostea frumoasă
+legământul nu și-l lasă
+și cununa nu-și desparte
+nici în viață, nici în moarte!

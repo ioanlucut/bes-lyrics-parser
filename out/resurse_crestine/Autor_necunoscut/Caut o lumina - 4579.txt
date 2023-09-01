@@ -1,0 +1,27 @@
+[title]
+Caut o lumina {author: {Anonim}, {rcId: {4579}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+/: Caut o lumina, caut o lumina
+Caut o lumina, lumina Domnului. :/
+
+[v1]
+Lumina este Dumnezeu
+Sa-L cauti tot mereu
+Sa recunosti greseala ta
+Si El te va ierta
+
+[v2]
+Daca pazesti cuvantul Sau
+Nu te va parasi
+Ramai pe veci copilul Sau
+Ferit de orice rau
+
+[v3]
+El pentru tine a murit
+Si apoi a inviat
+Iubirea vine de la El
+Din sfanta inima Sa

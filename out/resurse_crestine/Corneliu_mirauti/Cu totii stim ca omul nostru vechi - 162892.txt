@@ -1,0 +1,35 @@
+[title]
+Cu totii stim ca omul nostru vechi {author: {Corneliu Mirăuți}, {rcId: {162892}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Cu toții știm, că omul nostru vechi
+A fost răstignit, când Isus a murit,
+Trupul păcatului, a fost dezbrăcat
+De puterea Lui și ne-a eliberat.
+
+[c]
+Ca viața lui Hristos să fie-n noi
+Biruitori, prin încercări, dar și nevoi
+Slavă, slavă, glorie să-I dăm,
+C-am fost schimbați și înviați, să nu uităm.
+
+[v2]
+Să nu mai dăm, a noastre mădulare
+Să fie stăpânite, de nelegiuire
+Ca vii din morți, noi să ne dăm mereu
+Din toată inima, pentru Dumnezeu.
+
+[v3]
+Slavă Domnului, că suntem înviați
+În locurile cerești, împreună adunați
+Ca să arate, a Sa bogăție mare
+A harului divin, în veacuri viitoare.
+
+[c2]
+Mărit să fie Domnul, să strigăm
+Noi doar pe El, să-L lăudăm, să-L înălțăm
+Fiindcă ne-a cuprins în planul Său
+Hristos în noi, spre slava Sa, Aleluia!

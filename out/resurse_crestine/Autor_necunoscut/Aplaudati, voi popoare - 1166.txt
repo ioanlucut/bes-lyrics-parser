@@ -1,0 +1,16 @@
+[title]
+Aplaudati voi popoare {author: {Anonim}, {rcId: {1166}}
+
+[sequence]
+v1,c
+
+[v1]
+Aplaudați, voi popoare,
+Și-I cântați toți
+Un imn de slavă.
+Aplaudați, voi popoare,
+Și-I cântați Domnului.
+
+[c]
+Să-I cântăm deci:
+Aleluia, Aleluia.

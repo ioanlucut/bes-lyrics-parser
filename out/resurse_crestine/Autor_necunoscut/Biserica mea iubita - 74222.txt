@@ -1,0 +1,33 @@
+[title]
+Biserica mea iubita {author: {Anonim}, {rcId: {74222}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+Biserica mea iubită, Iată vine primăvara;
+/: Pace ție-Ți spune Domnul, Luptă-te să vezi Sionul. :/
+
+[v2]
+Pune umăr lângă umăr, Nu Mă face ca să sufăr;
+/: Să trăiți cu toții-n pace, Domnului așa îi place. :/
+
+[v3]
+Că-n curând va fi răpirea, Bucuria, despărțirea;
+/: Vom lăsa în urmă glia, Și va-ncepe veșnicia. :/
+
+[v4]
+Stăruiți astăzi în Duhul, Aruncați cu toți trecutul;
+/: Azi la Isus să strigați, În Duh Sfânt vă bucurați. :/
+
+[v5]
+Domnul vrea ca-n adunare, Să aducă-nviorare;
+/: Șchiopii să poată umbla, Orbii să poată vedea. :/
+
+[v6]
+Canceroșii să-L mărească, Cardiacii să-L slăvească;
+/: Și bolnavii gravi în pat, Să-L laude pe Împărat. :/
+
+[v7]
+Deci, sfințiți-vă într-una, Căci v-așteaptă-n cer cununa;
+/: Iată că vine Mesia, Slavă, glorie - Aleluia! :/

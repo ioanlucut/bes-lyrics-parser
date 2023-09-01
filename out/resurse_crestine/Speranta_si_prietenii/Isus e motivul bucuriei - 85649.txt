@@ -1,0 +1,41 @@
+[title]
+Isus e motivul bucuriei {author: {Speranța și prietenii}, {rcId: {85649}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Lăudați-L oameni,
+Pe Cel venit de sus
+Și cântați-I slavă
+Lui Hristos Isus!
+A venit pe pământ
+Să ia păcatul tău și-al meu
+A venit pe pământ
+Fiul lui Dumnezeu!
+
+[c]
+/: Isus e motivul bucuriei
+Isus e Cel sărbătorit
+Isus e motivul bucuriei
+Fiindcă la oameni a venit! :/
+
+[v2]
+Lăudați-L oameni,
+Pe Pruncul minunat
+Și cântați-I slavă
+Celui Preaînalt
+A venit pe pământ
+Să ia păcatul tău și-al meu
+A venit pe pământ
+Fiul lui Dumnezeu!
+
+[v3]
+Lăudați-L oameni
+Pe Pruncușorul Sfânt
+Și cântați-I slavă
+Pe acest pământ!
+A venit pe pământ
+Să ia păcatul tău și-al meu
+A venit pe pământ
+Fiul lui Dumnezeu!

@@ -1,0 +1,35 @@
+[title]
+In zori te coboara {author: {George L}, {rcId: {6634}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+În zori Te coboară o Doamne
+Rămâi peste zi Domnul meu
+Vrem hrană bogată din Tine
+Și umplene cu Harul Tău.
+
+[c]
+/: Ești pâinea ce vine din ceruri
+Izvorul, al apelor vii
+Ești Tatăl ce datu-n-eai daruri
+Pe fiul Tău din veșnicii. :/
+
+[v2]
+O vino la masă o Doamne
+Binecuvântare s-aduci
+Bucatele vin de la Tine
+Pâinea Te rugăm să o frângi.
+
+[v3]
+Rămâi și la cină o Doamne
+E noapte și drumul e greu
+Vrem vise curate din Tine
+Prin ceruri ne poartă mereu.
+
+[v4]
+Iar când vom sfârși alergarea
+La masă când Ne vei chema
+Atunci vom avea nemurirea
+Cu Tine ne vom bucura

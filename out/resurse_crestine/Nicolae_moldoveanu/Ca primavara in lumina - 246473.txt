@@ -1,0 +1,35 @@
+[title]
+Ca primavara in lumina {author: {Nicolae Moldoveanu}, {rcId: {246473}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ca primăvara în lumină,
+Ca dimineața să-ți fie viața,
+Ca toamna cea cu roade plină
+Cu dulce nume să treci prin lume.
+
+[c]
+Să ’naintezi și să veghezi,
+Să Iuminezi și să lucrezi.
+La cei căzuți, la cei pierduți
+Să duci mereu pe Dumnezeu.
+
+[v2]
+Ca stânca ce durează-n munte
+Să ai credința și biruința
+Să-ți fie scrisă-n veci pe frunte,
+Mai neclintită, mai strălucită.
+
+[v3]
+Și în lumina curăției
+Să ’nalți Cuvântul, pe tot pământul.
+Să-mparți belșugul bucuriei
+La toți trudiții și obidiții.
+
+[v4]
+Iar la sfârșitul căii sfinte,
+În strai de soare și-n sărbătoare,
+Din mâna Dreptului Părinte
+Pe totdeauna, să-ți iei cununa!

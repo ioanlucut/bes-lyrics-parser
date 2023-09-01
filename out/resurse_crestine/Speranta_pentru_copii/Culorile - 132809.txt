@@ -1,0 +1,41 @@
+[title]
+Culorile {author: {Speranța pentru copii}, {rcId: {132809}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Privesc mult ce Domnul a creat
+Totul in jur e-atat de colorat
+Campul verde presarat cu flori
+Multe culori!
+Verde, rosu, galben, maro
+Alb, albastru si indigo
+Roz, violet si portocaliu
+Toate culorile le stiu!
+
+[c]
+Culori, culori, culori pe care le iubesc
+Culori, culori, culori pe care le-ndragesc,
+Culori, culori, culori pe care le iubesc
+Culori, culori, culori pe care le-ndragesc.
+
+[v2]
+Ori si unde ochii privesc
+Culori frumoase eu zaresc
+Animale atat de colorate
+De Domnul au fost create!
+Verde, rosu, galben, maro
+Alb, albastru si indigo
+Roz, violet si portocaliu
+Toate culorile le stiu!
+
+[v3]
+Tot ce e in jurul meu
+E creat de Dumnezeu
+Totul e atat de colorat
+Totul e minunat!
+Verde, rosu, galben, maro
+Alb, albastru si indigo
+Roz, violet si portocaliu
+Toate culorile le stiu!

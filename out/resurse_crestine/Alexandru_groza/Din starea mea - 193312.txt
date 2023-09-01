@@ -1,0 +1,22 @@
+[title]
+Din starea mea {author: {Alexandru Groza}, {rcId: {193312}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Din starea mea de păcat, Doamne vin
+Vin l-a a ta cruce cu drag să mă-nchin
+Vin la Calvar unde ai suferit
+Vreau ca să fiu mântuit!
+
+[c]
+Cu o iubire așa de mare Tu m-ai sprijinit pe cale, Dumnezeul meu
+Mă primești, Tu nu ții seama de a mea fărădelege, Domnul meu
+O, ce mare har, Domnul de mine s-a-ndurat, din păcat sufletul mi-a ridicat!
+
+[v2]
+Azi mă întorc, sufletul îmi e gol
+Frânt de păcat, Doamne, îngenunchez
+La crucea Ta e izvorul de har
+Și mântuirea e în dar!

@@ -1,0 +1,35 @@
+[title]
+Dati-mi in mana biblia cea sfanta {author: {E.S.Lorenz}, {rcId: {1771}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Dați-mi în mână Biblia cea sfântă;
+Ea mângâieri dă celui întristat;
+Nu-i nor s-ascundă raza-i minunată
+De când Isus la noi S-a întrupat.
+
+[c]
+Să strălucească razele Scripturii,
+Spre poarta strâmtă ne vor îndruma;
+Sfatul lui Dumnezeu în ea cuprinde,
+Promisiuni, harul și iubirea.
+
+[v2]
+Dați-mi în mână Biblia cea sfântă,
+Ea-nviorează pe cei osteniți.
+Leac minunat e pentru orice rană,
+Vindecă boala și-orice suferinți.
+
+[v3]
+Dați-mi în mână Biblia cea sfântă,
+În ea se află viața lui Isus;
+El pentru mine-a dus cumplita luptă,
+Și pe vrajmașul vieții l-a răpus.
+
+[v4]
+Dați-mi în mână Biblia cea sfântă,
+Să gust cuvântul ei mântuitor,
+Lacrimi să vărs ca semn de pocăință
+Și să fiu lui Isus mulțumitor.

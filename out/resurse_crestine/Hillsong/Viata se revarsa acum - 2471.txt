@@ -1,0 +1,21 @@
+[title]
+Viata se revarsa acum {author: {Hillsong, Traducere RO}, {rcId: {2471}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+Viața se revarsă acum de la tronul Tău
+Slava coboară acum, îmi înalță sufletul
+
+[c]
+Tu mi-ai schimbat lacrima în zâmbet
+Tu mi-ai schimbat tristețea-n bucurii
+
+[v2]
+Brațul Tău m-a ridicat, ești stânca pe care stau
+Tu ești că o raza de soare, îmi luminezi viața
+
+[b]
+Prin Isus noi biruim băieții
+Prin Isus noi biruim fetele

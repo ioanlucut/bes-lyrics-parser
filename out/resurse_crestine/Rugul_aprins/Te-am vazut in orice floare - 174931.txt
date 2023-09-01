@@ -1,0 +1,29 @@
+[title]
+Te-am vazut in orice floare {author: {Rugul aprins}, {rcId: {174931}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Te-am văzut în orice floare,
+În orice miros plăcut,
+Eu Îți admiram splendoarea,
+Însă nu te-am cunoscut :/
+
+[c]
+/: Azi mă-nchin în fața Ta,
+Ție îți dau inima!
+Tu Ești Domn, în veci domnești,
+Peste vremi-același Ești :/
+
+[v2]
+/: Te-am văzut în orice ploaie,
+Orice vuiet, fulger, vânt,
+Eu Îți admiram puterea,
+Însă nu Te-am cunoscut :/
+
+[v3]
+/: Te-am văzut murind pe cruce,
+Între doi tâlhari, Isus,
+Tu imi dăruiai iubirea,
+Însă nu Te-am cunoscut :/

@@ -1,0 +1,41 @@
+[title]
+Pe unde a trecut isus {author: {Anonim}, {rcId: {219624}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Pe unde a trecut Isus
+Iubită soră frate
+/: Vei trece și tu în curând
+De vrei să scapi de moarte
+
+[v2]
+Pe unde a trecut Isus
+E Cina cea din urmă
+/: De o serbezi cu-adevărat
+Tu vei primi Cunună/ Vei câștiga Cunună :/
+
+[v3]
+Pe unde a trecut Isus
+E Ana si Caiafa
+/: Vei fi lovit și-nterogat
+Pentru asta sa fii gata :/
+
+[v4]
+Pe unde a trecut Isus
+E pardosit cu piatră
+/: Scuipări și cununi de spini
+Și pe tine te-așteaptă :/
+
+[v5]
+Fii tare nu te da învins
+Când negura și-ntunecimea
+/: A scufundat într-un abis
+Întreaga omenirea :/
+
+[v6]
+Citește acestea în Amos 5
+Și-n Zaharia frate
+/: In capitolul 14
+Vezi că sunt scrise-n Carte :/

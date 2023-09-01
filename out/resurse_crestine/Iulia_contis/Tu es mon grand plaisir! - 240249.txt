@@ -1,0 +1,21 @@
+[title]
+Tu es mon grand plaisir {author: {Iulia Contis}, {rcId: {240249}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Je voudrais dire
+Que Tu es là,
+Mais Tu regardes le combat...
+Je suis en train de réussir...
+
+[c]
+/J’aime Ta voix
+Et Tu es là! / x2
+
+[v2]
+Je veux choisir
+Ce que Tu veux,
+Mais dans le péché je suis né...
+Dieu, Tu es mon grand plaisir!

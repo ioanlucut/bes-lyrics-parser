@@ -1,0 +1,40 @@
+[title]
+Zbor alb {author: {Gabi_Ilut}, {rcId: {241284}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: Zbor alb, aripi de argint;
+Vestitori ce-n veci nu mint,
+Din cer s-au arătat
+Peste Pruncul Împărat! :/
+
+[c]
+Din cer veneau în stoluri,
+Trecând prin norii grei;
+lar păstorii în câmp priveau la ei!
+Din cer veneau în stoluri,
+Trecând prin norii grei,
+lar Copilul Sfânt privea la ei!
+/: Au revărsat în inimi
+Un glorios mister,
+Și apoi iar s-au ridicat la cer! :/
+
+[v2]
+/: Zbor alb, aripi de nea;
+Îngeri buni în lumea rea.
+Zâmbeau ca flori de april’
+Peste o iesle și un copil! :/
+
+[v3]
+/: Zbor alb, știri de rai
+Spre cetatea lui Isai
+Cu slavă au adus
+Vestea unui Prunc de sus! :/
+
+[v4]
+Zbor alb, aripi de argint;
+Vestitori ce-n veci nu mint,
+Din cer s-au arătat
+Peste Pruncul Împărat!

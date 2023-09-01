@@ -1,0 +1,47 @@
+[title]
+De-as avea averi si ranguri {author: {Anonim}, {rcId: {161214}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,c4
+
+[v1]
+De-aș avea averi și ranguri
+Și un nume cât de falnic,
+Dacă n-am credința sfântă,
+Totuși, încă n-am nimic.
+
+[c]
+Căci, la ce mi-ar folosi
+Aur și palate?
+Dacă n-am credința sfîntă,
+În zadar sunt toate.
+
+[v2]
+De nu ai pe Dumnezeu,
+În zadar ți-e truda ta,
+Când, aici, orice lucrare,
+Este doar prin voia Sa.
+
+[c2]
+Căci, la ce mi-ar folosi
+Aur și palate?
+Dacă n-am credința sfîntă,
+În zadar sunt toate.
+
+[v3]
+Dar, acuma, eu Te rog,
+O, Isuse, ca să-mi dai,
+Credință sfântă și iubire,
+Care tinde înspre rai.
+
+[c3]
+Căci, la ce mi-ar folosi
+Aur și palate?
+Dacă n-am credința sfîntă,
+În zadar sunt toate.
+
+[c4]
+Căci, la ce mi-ar folosi
+Aur și palate?
+Dacă n-am pe Dumnezeu,
+În zadar sunt toate.

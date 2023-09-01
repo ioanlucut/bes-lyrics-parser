@@ -1,0 +1,29 @@
+[title]
+Frumos este sa laudam {author: {Anonim}, {rcId: {199485}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Frumos este să lăudăm Doamne sfânt, Numele Tău
+Toată ziua bunătatea Ta slăvim
+Căci Tu ne înveselești cu lucrările Tale,
+Dându-ne libertate să Te lăudăm.
+
+[c]
+Ce frumos, ce frumos
+Este-a cânta și-a lăuda, Doamne, bunătatea Ta.
+Cât de bine este Doamne,
+A lăuda Numele Tău este frumos.
+
+[v2]
+Cei sădiți în casa Ta sunt ca cedrii din Liban,
+Înverzesc închiși în curțile Tale
+Căci Tu Doamne ești ’nălțat, de mărire-nconjurat
+Și toți cei ce-Ți fac răul sunt nimiciți.
+
+[v3]
+Ochiul meu își va vedea împlinită dorința
+Față de vrăjmașul care va căuta,
+Purtând în cale crucea, să ne-ncerce credința.
+Dar Tu la ai Tăi le dai biruința.

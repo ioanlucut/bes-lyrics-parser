@@ -1,0 +1,25 @@
+[title]
+Cine-ti scrie {author: {Nicolae Moldoveanu}, {rcId: {233279}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Cine-ți scrie-n cartea vieții zi de zi și ceas de ceas?
+Adevărul sau minciuna? Adevărul sau minciuna?
+Cercetează-ți orice pas! Cercetază-ți orice pas!
+
+[v2]
+Nu lăsa, copile dragă, la-ntâmplare, câte vin
+ca să-ți scrie-n cartea vieții, ca să-ți scrie-n cartea vieții
+și pe nor și pe senin, și pe nor și pe senin!
+
+[v3]
+Cercetează obârșia celor ce la poartă-ți cer!
+Nu deschide de n-au semnul, nu deschide de n-au semnul
+și izvorul sus în cer, și izvorul sus în cer.
+
+[v4]
+Lasă ca să-ți scrie-n suflet Adevărul cel de Sus,
+El ți-aduce fericirea, El ți-aduce fericirea,
+Adevărul e Isus! Adevărul e Isus!

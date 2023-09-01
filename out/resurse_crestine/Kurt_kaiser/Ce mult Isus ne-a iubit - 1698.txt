@@ -1,0 +1,29 @@
+[title]
+Ce mult isus ne-a iubit {author: {Kurt Kaiser, Traducere RO}, {rcId: {1698}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Ce mult Isus ne-a iubit,
+Ce mult Isus ne-a iubit,
+Sus pe Calvar s-a jertfit Dumnezeu.
+El m-a iubit mult,
+El te-a iubit mult,
+O, cât de mult ne-a iubit!
+
+[v2]
+Ce mult Isus ne-a iubit,
+Ce mult Isus ne-a iubit,
+Suntem salvati prin al sau har divin
+El m-a iubit mult
+El te-a iubit mult,
+O, cat de mult ne-a iubit
+
+[v3]
+Ce mult Isus ne-a iubit,
+Ce mult Isus ne-a iubit,
+In slava Sa curand vom intra
+El m-a iubit mult
+El te-a iubit mult,
+O, cat de mult ne-a iubit

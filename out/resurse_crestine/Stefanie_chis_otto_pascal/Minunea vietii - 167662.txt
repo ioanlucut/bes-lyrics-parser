@@ -1,0 +1,33 @@
+[title]
+Minunea vietii {author: {Ștefanie Chiș, Otto Pascal}, {rcId: {167662}}
+
+[sequence]
+v1,b,c,v2,b,c,b,c
+
+[v1]
+Ca o floare cu un nou parfum
+În așteptarea primăverii dulci
+Și eu, și eu Te așteptam.
+Doamne, oare tot ce mi-ai promis
+E o imaginație sau un vis distant?
+Uneori Te întrebam.
+
+[b]
+Tu ești Tatăl meu bun,
+Orice lucru-l faci frumos la vremea lui!
+Tu ești Tatăl meu bun,
+Orice lucru îl faci frumos!
+
+[c]
+Trăiesc minunea vieții pline
+De dragoste și har
+Doamne, tot ce am, e de la Tine și pentru Tine
+Inima mea bate să Te laude!
+
+[v2]
+Mi-ai arătat ce-nseamnă dragostea
+Când sus pe cruce Tu la mine te-ai gândit
+Mi-ai dat în dar un nou destin.
+Și-acum mă las de Tine modelat
+În așteptarea mea, Tu îmi mărești credința
+Ca lutul sunt în mâna Ta.

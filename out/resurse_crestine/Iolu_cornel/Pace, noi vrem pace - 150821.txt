@@ -1,0 +1,40 @@
+[title]
+Pace noi vrem pace {author: {Iolu Cornel}, {rcId: {150821}}
+
+[sequence]
+c,v1,c,v2,c,e
+
+[c]
+Pace, pace, pace, pace
+Noi vrem
+Pace, pace, pace, pace
+/: Noi vrem pace, vrem
+Cu toții pace vrem
+Cu toții pace vrem
+Cu toții pace vrem :/
+
+[v1]
+Doar în pace copiii noștri
+Se vor bucura frumos.
+Doar în pace copiii noștri
+Se vor juca frumos.
+Doar în pace copiii noștri
+Ei vor vorbi frumos.
+Doar în pace copiii noștri
+Vor crește mai frumos.
+
+[v2]
+Doar în pace, mami și tati
+Ne vom bucura frumos.
+Doar în pace, mami și tati
+Ne vom juca frumos.
+Doar în pace, mami și tati
+Noi vom vorbi frumos.
+Doar în pace, mami și tati
+Vom crește mai frumos.
+
+[e]
+/: Isus e prințul păcii, El.
+Numele Lui e minunat.
+Isus aduce liniște
+În inimă, când El este chemat. :/

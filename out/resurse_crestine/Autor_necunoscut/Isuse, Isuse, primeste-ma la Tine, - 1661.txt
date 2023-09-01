@@ -1,0 +1,29 @@
+[title]
+Isuse isuse primeste-ma la tine {author: {Anonim}, {rcId: {1661}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+/: Isuse, Isuse, primește-mă la Tine,
+Când eu vin din dureri și suspin. :/
+
+[c]
+/: Iartă-mă, iartă-mă, Isuse, al meu iubit!
+Iartă-mă, căci eu mult Ți-am greșit... :/
+
+[v2]
+La Tine, la Tine, Isuse, eu voi veni;
+Pe brațul Tău mă voi odihni.
+
+[v3]
+/: Isuse, Isuse, pieptul Tău fă-mi căpătâi
+Și cu mâna Ta să mă mângâi!
+
+[v4]
+/: Astăzi vin încrezător, scumpul meu Mântuitor,
+Să-mi legi rănile care mă dor. :/
+
+[v5]
+/: Slavă și mărire Ție, Isuse, Isuse,
+Căci Tu-mi dai bucurii nespuse. :/

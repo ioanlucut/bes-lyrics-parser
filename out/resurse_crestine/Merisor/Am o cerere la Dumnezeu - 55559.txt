@@ -1,0 +1,29 @@
+[title]
+Am o cerere la dumnezeu {author: {Merișor}, {rcId: {55559}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Am o cerere la Dumnezeu,
+Și-am depus-o pe altarul Său,
+Și acum rămân încredințat,
+Căci El cererea mi-a ascultat.
+
+[c]
+/: Doamne, Doamne, Te rog, Doamne,
+Cercetează-mi acum inima!
+Doamne, Doamne, Te rog, Doamne,
+Lucrează și la problema mea! :/
+
+[v2]
+Domnul inima o cercetează,
+Și cu inima Domnul lucrează,
+Și înțelepciunea omului,
+Vine tot din partea Domnului.
+
+[v3]
+Dacă-L chemi pe Domnu-n stăruință,
+Domnul îți aduce biruință,
+Dacă-I spui necazul numai Lui,
+Ai să vezi puterea Domnului.

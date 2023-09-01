@@ -1,0 +1,38 @@
+[title]
+Golgota {author: {Speranța}, {rcId: {111357}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+De dragul meu Isus a venit
+În locul meu El a murit
+Să ia păcatul lumii
+Să-L ducă la Clalvar
+/: Ce mare har :/
+Să ia păcatul lumii
+Să-L ducă la Clalvar
+/: Ce mare har. :/
+
+[c]
+Golgota, Golgota, Loc de chin Și suferință
+Golgota, Golgota Acolo a fost biruință.
+
+[v2]
+De dragul tău Isus s-a jertfit
+Pentru tine ceru-a părăsit
+Să-ți dea în dar
+Iertare și viață veșnică
+/: Ce mare har :/
+Să-ți dea în dar
+Iertare și viață veșnică
+/: Ce mare har. :/
+
+[e]
+Povara omenirii,
+Hristos a purtat
+Din palme I-a curs
+Sângele nevinovat
+Hristos a murit
+A fost crucificat
+Dar a treia a zi a-nviat.

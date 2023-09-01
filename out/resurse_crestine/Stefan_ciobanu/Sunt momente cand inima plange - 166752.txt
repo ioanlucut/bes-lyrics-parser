@@ -1,0 +1,33 @@
+[title]
+Sunt momente cand inima plange {author: {Stefan Ciobanu}, {rcId: {166752}}
+
+[sequence]
+v1,v2,c,v3,c,e
+
+[v1]
+Sunt momente când inima plânge
+Și sunt clipe când mă simt învins
+Când piciorul meu merge înainte
+Spre păcatul ce duce-n abis
+
+[v2]
+Atunci când firea mă osândește
+Și când răul mă ține legat
+Numai harul Tău mă ocrotește
+Și imi spui nu fi trist, ești iertat
+
+[c]
+Tu, cel mai mare de sus din splendoare
+Cu milă ne-ai luat în mâna Ta
+Sfântul Tău sânge și-acuma curge
+Prin sfântul Miel suntem salvați
+
+[v3]
+Când în față ne-așteaptă potopul
+Iar în spate cel rău stă pândind
+Dar noi știm Dumnezeu ține totul
+Cu Isus noi pășim neclintiti.
+
+[e]
+Nimeni nu-i ca tine Doamne
+Nimeni nu-i ca tine x2

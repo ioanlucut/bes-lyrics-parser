@@ -1,0 +1,29 @@
+[title]
+In cuptorul suferintei {author: {Maria Șimon}, {rcId: {204149}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În cuptorul greu al suferinței
+Arde azi cu-amar inima mea...
+Cuptorul ne aduce biruința
+Arzând în foc orice zgura rea!
+
+[c]
+/: Chiar dacă în cuptor focul arde tare
+De Tine eu nu, nu mă voi lăsa!
+Tu ești Dumnezeul ce-mi va da salvare,
+Numele Tău mereu voi chema! : \
+
+[v2]
+Nu vreau sa îmi pierd în cuptor credința,
+Vreau să sper deplin în puterea Ta!
+Știu ca focul îl vei stinge odată,
+Ține-mă de mână în lupta grea!
+
+[v3]
+Cu Șadrac, Meșac și Abed-Nego
+În cuptor ai fost, Fiule Sfânt!
+Ei ne sunt o vie mărturie,
+Căci ai putere-n Cer și pe Pământ!

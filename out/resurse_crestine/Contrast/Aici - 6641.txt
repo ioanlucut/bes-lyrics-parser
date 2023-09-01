@@ -1,0 +1,61 @@
+[title]
+Aici {author: {Contrast}, {rcId: {6641}}
+
+[sequence]
+v1,v2,c,v3,c2,c3,v5,c2,c3,v6,c2
+
+[v1]
+Acum că timpul s-a pierdut,
+Nu știu, unde vreau s-ajung nici unde sunt.
+Visez s-o iau de la-nceput,
+Și nu vreau, să mai cobor aici jos pe pământ.
+
+[v2]
+Ai dărâmat tot ce-am zidit
+Și nu știu unde vreau s-ajung nici unde sunt.
+Îmi amintesc să fi greșit,
+Știu doar că n-am plecat de jos de pe pământ
+
+[c]
+Doamne cum pot să te simt
+Când eu nu sunt aici, cum pot fi fericit?
+Departe de tot ce sunt eu se-aprinde visul meu
+Și El e Dumnezeu...
+
+[v3]
+Aripi am și pot să zbor,
+Dar nu știu unde vreau s-ajung nici unde sunt.
+În schimb m-ai învățat să mor,
+Și știu că veșnicia se naște pe pământ.
+
+[c2]
+Doamne cum pot să te simt
+Când eu nu sunt aici, cum pot fi fericit?
+Departe de tot ce sunt eu se-aprinde visul meu
+Și El e Dumnezeu aș vrea să strig că te-am găsit.
+Doamne cum pot să te simt
+Când eu nu sunt aici, cum pot fi fericit?
+Departe de tot ce sunt eu se-aprinde visul meu
+Și El e Dumnezeu aș vrea să strig că te-am găsit.
+
+[c3]
+Dar Doamne cum pot să te simt
+Când eu nu sunt aici, cum pot fi fericit?
+Departe de tot ce sunt eu se-aprinde visul meu
+Și El e Dumnezeu...
+Dar Doamne cum pot să te simt
+Când eu nu sunt aici, cum pot fi fericit?
+Departe de tot ce sunt eu se-aprinde visul meu
+Și El e Dumnezeu...
+
+[v5]
+Tot ce-am visat e încă vis
+Și știu...că astăzi am găsit tot ce-am visat
+Sunt un vers încă nescris
+Un vers pe care Dumnezeu l-a inventat.
+
+[v6]
+Am vrut să văd o minune să pot să cred
+Am vrut să aud un răspuns să văd un semn
+Dar încă n-am stat să-nvaț să știu să mă-ntreb
+Cum de oare trăiesc...

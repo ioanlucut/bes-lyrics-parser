@@ -1,0 +1,38 @@
+[title]
+Curand domnul va veni {author: {Anonim}, {rcId: {3750}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Curând Domnul va veni
+Cum pe tine te-a găsi
+/: Căci în zbor se duce viața ta :/
+Și ’naintea Domnului vei sta
+
+[c]
+Domnul nu te va-ntreba
+De păcatul altuia
+/: Vei răspunde pentru al tău păcat :/
+Când de Domnul vei fi întrebat
+/: Domnul nu te va-ntreba
+De păcatul altuia
+Vei răspunde pentru viața ta :/
+
+[v2]
+Tu vezi cine a căzut
+Ce-a vorbit și ce-a făcut
+/: Dar pe tine nu te vezi cum stai :/
+Și nu vezi câte păcate ai.
+
+[v3]
+Verifică-te cum stai
+Și câte păcate ai
+/: Căci cu Domnul ai să te-ntâlnești :/
+Chiar dacă tu asta n-o dorești
+
+[v4]
+Curând Domnul va veni
+Și la Cer te va răpi
+/: Pregătește-ți astăzi viața ta :/
+Ca să stai cu El în slava Sa.

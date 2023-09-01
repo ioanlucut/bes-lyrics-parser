@@ -1,0 +1,29 @@
+[title]
+Nu te duce doamne de la noi {author: {Speranța}, {rcId: {106181}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Avem atâta, Doamne, de luptat,
+Ispitele lovesc neîncetat.
+Alături de Tine, Doamne, vrem să fim,
+Știm că doar așa putem să biruim.
+
+[c]
+Nu Te duce, Doamne, de la noi,
+Făr’ de Tine suntem slabi și goi,
+Doamne sfinte nu ne părăsi,
+Fără de Tine nu putem trăi.
+
+[v2]
+Pe drumul spre Emaus ca cei doi,
+Vrem Isuse să rămâi cu noi.
+Iată vine seara, este spre apus,
+Rămâi cu noi, rămâi cu noi, Isus.
+
+[v3]
+Pe calea care duce la viață,
+Fii călăuză și povață.
+Un far în bezna nopții, un ajutor,
+Rămâi în toate scut izbăvitor

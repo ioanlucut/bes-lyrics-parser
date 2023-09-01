@@ -1,0 +1,23 @@
+[title]
+De tine mi-e dor {author: {Andreea Popoi}, {rcId: {63097}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Cer fără soare și lacrimi amare s-au dus din viața mea
+Viață senină de dragoste plină le am din mâna Ta.
+Ploaie de vară și vise de seară din Tine le primesc
+Tu ești Salvatorul și Mântuitorul, pe Tine te iubesc.
+
+[c]
+Cu aripi de vultur mai sus mai înalt spre un cer senin
+Aș vrea să mă înalț spre cer către Tine
+Mă macină dorul de-a fi împreună în veșnicii
+Te iubesc, de Tine mi-e dor.
+
+[v2]
+Inimi curate cu sânge spălate Isuse ne-ai dăruit
+Prin dragostea-Ți mare ne duci către soare spre locul mult dorit
+Plâns și suspine de ieri și de mâine vor fi uitate, vechi
+Și-a Ta sărbătoare o dalbă splendoare va dăinui în veci.

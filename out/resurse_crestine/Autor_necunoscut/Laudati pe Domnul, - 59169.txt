@@ -1,0 +1,17 @@
+[title]
+Laudati pe domnul {author: {Anonim}, {rcId: {59169}}
+
+[sequence]
+v1,v2
+
+[v1]
+/: Laudati pe Domnul,
+Toate neamurile!
+Laudati pe Domnul,
+Toate popoarele! :/
+
+[v2]
+/: Caci mare-i bunatatea Lui,
+Fata de noi,
+Credinciosia-I tine-n veci,
+Lauda Domnului. :/

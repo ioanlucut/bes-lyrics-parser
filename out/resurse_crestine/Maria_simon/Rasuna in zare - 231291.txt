@@ -1,0 +1,35 @@
+[title]
+Rasuna in zare {author: {Maria Șimon}, {rcId: {231291}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cântă și spune împreună cu mine:
+Da bun e Dumnezeu
+Haideți cu toții să spunem întruna
+Slăvit să fie Numele Său
+
+[c]
+/: Răsună în zare în tot Universul
+Mărire, Osana lui Dumnezeu
+Izvoarele-n murmur, natura-n splendoare
+Ne spun cât de mare e Numele Său: \
+
+[v2]
+Tot Universul I-aduce onoare
+Și tot ce e pe Pământ
+El e neschimbat în slavă și-onoare
+Toate-L adoră într-un singur gând
+
+[v3]
+De e dimineață sau de este noapte
+Cu noi El, este mereu
+Chiar dacă norii acoperă zarea
+Lumina aduce din nou Dumnezeu
+
+[v4]
+O Stâncă rămâne pentru vecie
+Un sprijin în orice nevoi
+Nu ne vom teme niciodată
+Căci Domnul mereu va fi cu noi

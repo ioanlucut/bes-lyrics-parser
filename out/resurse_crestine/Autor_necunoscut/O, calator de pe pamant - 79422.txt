@@ -1,0 +1,35 @@
+[title]
+O calator de pe pamant {author: {Anonim}, {rcId: {79422}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+O, călător de pe pământ
+Ce mergi spre veșnicie
+Să nu privești nicicând ’napoi
+Nu te opri-n pustie.
+
+[c]
+Chiar dacă inima-i zdrobită
+Și fața ta-i înlăcrimată
+Nu dispera, căci dumnezeu ți-e tată
+Fi liniștit, se vor sfârși odată.
+
+[v2]
+De ești străin și alungat
+Chiar de ai tăi din casă
+Nu te-ndoi, nu da-napoi
+Căci isus nu te lasă.
+
+[v3]
+Azi tu porți crucea suspinând
+Și gemi sub apăsare
+Dar nu uita curând, curând
+Răsplata-ți va mare.
+
+[v4]
+Nu-ți pierde cumpătul la greu
+Rămâi smerit sub cruce
+Pe calea ta cu dumnezeu
+Amaru-ți va fi dulce.

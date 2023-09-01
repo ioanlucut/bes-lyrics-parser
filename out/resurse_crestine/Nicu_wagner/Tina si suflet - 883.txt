@@ -1,0 +1,53 @@
+[title]
+Tina si suflet {author: {Nicu Wagner}, {rcId: {883}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Apari un prunc scăldat de cânt și soare,
+Începi cu zâmbet frăgeziu de mai,
+Inspiri în jur viață și vigoare,
+Vezi tot întinsu-n strălucit alai.
+
+[c]
+Pe nesimțite izbucnești în freamăt,
+Zglobiu și de cunoaștere setos;
+Dar prin răstimpi al clopotului dangăt
+/: Îți sună blând momentul prețios. :/
+
+[v2]
+Începi să-nfrunți prin viforul vieții,
+Cu pieptul tremurând prin vijelii.
+Te prăbușești când zorii dimineții
+Sunt înghițiți de norii plumburii.
+
+[c2]
+Te-ntrebi: Rămâne omul numai tină?
+Un chip uitat și stins într-un album?
+Dar zbuciumul, noblețea și-orice vină,
+/: Vor trece ca și colbul de pe drum? :/
+
+[v3]
+Să lupți cu răul? E inacceptabil!
+Prea-i mic mănunchiul anilor de vis
+Și totuși, ai ceva inestimabil:
+E sufletul, ce vrea în Paradis!
+
+[c3]
+Și ce ți-ar folosi averea lumii,
+Când scopul sfânt e să ți-l mântuiești,
+Să-l aperi de tentațiile lumii,
+/: Ca în final s-ajungi în slăvi cerești? :/
+
+[v4]
+Nu te gândești că anii vieții zboară,
+De ce zorești în tot ce-i efemer?
+De ce-l condamni ca să rămân-afară?
+De ce nu vrei să locuiască-n Cer?
+
+[c4]
+Oprește-te, că viața ta apune!
+De vrei să fii cu Cel ce-I veșnic viu
+Slujește-I azi, nu-n ziua când vei spune:
+/: Aș vrea, dar e târziu. e prea târziu. :/

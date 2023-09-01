@@ -1,0 +1,28 @@
+[title]
+Am auzit chemarea sfanta (only a prayer away) {author: {Len Magee, Traducere RO}, {rcId: {110034}}
+
+[sequence]
+v1,c,v2,c,s,c
+
+[v1]
+Am auzit chemarea sfântă,
+Noi vom merge înspre muntele cel sfânt,
+Acum am un Prieten viu în glorii
+Și Lui singur mă rog de pe pământ.
+
+[c]
+O, nici nu știu cum să spun
+Cât e Domnul de bun,
+Lacrima, grija mea,
+Mi-a promis, le va purta.
+Da, eu știu, am un Prieten în glorii
+Și Lui singur mă rog de pe pământ.
+
+[v2]
+Nu sunt mai mult decât țărână,
+Dar Isus mă va ține în brațul Său
+Și lacrimile îmi vor deschide
+Ochii, să-L văd pe Isus, Domnul meu.
+
+[s]
+Căci este un singur Dumnezeu și este un singur mijlocitor între Dumnezeu și oameni: Omul Isus Hristos. 1 Timotei 2:5

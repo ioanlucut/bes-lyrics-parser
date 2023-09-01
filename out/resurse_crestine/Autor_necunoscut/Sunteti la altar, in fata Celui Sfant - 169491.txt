@@ -1,0 +1,29 @@
+[title]
+Sunteti la altar in fata celui sfant {author: {Anonim}, {rcId: {169491}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Sunteți la altar, în fața Celui Sfânt,
+Cel ce e Stăpân pe viața voastră.
+El vă fie sprijin, adăpost oricând,
+Ocrotire sfântă și povață.
+
+[c]
+/: Să fiți uniți, să vă iubiți
+Și Domnul vă va da fericirea!
+Să nu uitați pe Domnul să-L slujiți
+Și El vă va fi ocrotirea! :/
+
+[v2]
+În căminul vost să aveți mereu
+Părtășie sfântă-n rugăciune
+Și să vă asculte Bunul Dumnezeu,
+S-aveți biruință-n lume.
+
+[v3]
+Doamne, Te rugăm să rămâi cu ei
+Pe-acest drum pe care au pornit!
+Brațul Tău să fie pururea cu ei,
+Până vor pleca de pe Pământ!

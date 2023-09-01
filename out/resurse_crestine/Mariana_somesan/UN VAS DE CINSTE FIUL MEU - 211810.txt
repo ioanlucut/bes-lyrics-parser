@@ -1,0 +1,53 @@
+[title]
+Un vas de cinste fiul meu {author: {Mariana Someșan}, {rcId: {211810}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Un vas de cinste fiul meu
+Eu vreau să fac din tine,
+Dar asta-nseamnă negreșit
+Să Mă asculți pe Mine.
+
+[c]
+Înseamnă luptă cu cel rău
+Și-nseamnă renunțare,
+Înseamnă nici un compromis
+Cu lumea-nșelătoare.
+
+[v2]
+Un vas de cinste fica mea
+Eu vreau să fac din tine,
+Dar asta-nseamnă deseori
+Durere și suspine.
+
+[c2]
+Înseamnă rugăciuni fierbinți
+Veghere și-așteptare,
+Înseamnă luptă cu cel rău
+Și-nseamnă renunțare.
+
+[v3]
+Înseamnă gândul lui Hristos
+Să-l ai mereu în tine
+Înseamnă mulțumiri adânci
+Și-n greul care vine.
+
+[c3]
+Înseamnă dragoste de sus
+Și milă și răbdare,
+Curaj prin Duhul Meu cel Sfânt
+Să-naintezi pe cale.
+
+[v4]
+Înseamnă niciun compromis
+Cu lumea-nșelătoare,
+Căci din amarul ei te-am scos
+Și vreau să zbori spre soare.
+
+[c4]
+Caci Eu Sunt Cel ce te-am chemat
+Din noapte la lumină,
+Și-aștept răspunsul tău curat
+Mireasa mea divină.

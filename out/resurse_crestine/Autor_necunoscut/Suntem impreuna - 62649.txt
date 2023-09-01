@@ -1,0 +1,28 @@
+[title]
+Suntem impreuna {author: {Anonim}, {rcId: {62649}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Suntem împreună
+Chemăm Numele Tău
+Noi dorim cu bucurie
+Să Te lăudăm, Doamne.
+
+[c]
+/: Bine ai venit :/ x3
+Umple-acest loc.
+
+[v2]
+A Ta împărăție
+Să vină pe pământ
+Mântuire, vindecare
+Noi dorim prin Duhul Sfânt.
+
+[v3]
+Tată, umple-acest loc
+Bine-ai venit
+Isus, Te onorăm
+Și tot ce vrem acuma
+E să Te înălțăm.

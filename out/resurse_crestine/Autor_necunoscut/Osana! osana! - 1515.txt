@@ -1,0 +1,25 @@
+[title]
+Osana osana {author: {Anonim}, {rcId: {1515}}
+
+[sequence]
+c,v1,c2,v2,c2
+
+[c]
+/: Osana! Osana!
+Osana sus în înălțimi! :/
+
+[v1]
+Doamne, noi Te slăvim
+Și din inimi cântăm
+Fii slăvit Domnul meu cel bun
+Osana sus în înălțimi!
+
+[c2]
+/: Slavă! Slavă!
+Cânt slavă Rege-al Regilor! :/
+
+[v2]
+Doamne, noi Te slăvim
+Și din inimi cântăm
+Fii slăvit Domnul meu cel bun
+Cânt slavă Rege-al Regilor!

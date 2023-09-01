@@ -1,0 +1,35 @@
+[title]
+Fii inaltat domn preainalt {author: {Speranța}, {rcId: {233762}}
+
+[sequence]
+v1,b,c,v2,c,e
+
+[v1]
+Fii înălțat Domn Preaînalt,
+Fie-Ți lăudat Numele-Ți sfânt
+În veci să fii glorificat,
+Precum în cer și pe pământ.
+
+[b]
+Tu ești Domn al Domnilor,
+Tu ești Rege al regilor
+Universul se închină în fața Ta
+Îngerii Te preamăresc,
+Heruvimii Te proslăvesc
+Splendoare e în prezența Ta.
+
+[c]
+Din veșnicie același ești,
+Rămâi în toate neschimbat
+%Ești Domn al slăvilor cerești
+Peste veacuri Tu domnești,
+În veci să fii glorificat. %
+
+[v2]
+În fața Ta ne închinăm,
+Te preamărim Părinte sfânt
+Al Tău Nume Îl înălțăm,
+Precum în cer și pe pământ.
+
+[e]
+%Gloria, gloria, gloria e a Ta%6x

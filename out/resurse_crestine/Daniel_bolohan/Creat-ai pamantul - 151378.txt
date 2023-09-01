@@ -1,0 +1,25 @@
+[title]
+Creat-ai pamantul {author: {Daniel Bolohan}, {rcId: {151378}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,v4,c
+
+[c]
+/: Creat-ai pamântul, creat-ai și cerul
+Creat-ai și omul cu mâna Ta. :/
+
+[v1]
+/: Și firul de iarba, și floarea cea frumoasă
+Cu mâna Ta, Doamne, Tu le-ai creat. :/
+
+[v2]
+/: Și tot universul doar Ție-ți aparține
+Și toate se mișcă, prin voia Ta. :/
+
+[v3]
+/: Te rog acum, o, Tată să ne dai putere
+Să mergem pe-a Ta cale, toată viața. :/
+
+[v4]
+/: Pe cei legați de fire, dezleagă-i Tu Părinte
+Și du-i pe a Ta cale, Te rog acum. :/

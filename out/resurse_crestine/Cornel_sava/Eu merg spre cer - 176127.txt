@@ -1,0 +1,35 @@
+[title]
+Eu merg spre cer {author: {Cornel Sava}, {rcId: {176127}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Eu merg spre cer cu drag cântând,
+Prin negură înaintând,
+Purtat prin vânt și ploi de-a Ta iubire,
+Furtuni, valuri nu mă-nspăimântă,
+Casa mea este pe Stâncă,
+Tu esti temelia mea.
+
+[c]
+Fă Doamne să răsară peste mine,
+Lumina feței Tale Doamne sfinte,
+Să nu-mi leg inima de lucruri care pier,
+Să Te iubesc astăzi mai mult ca ieri.
+
+[v2]
+La Tine-mi las poverile,
+Și Îmi găsesc plăcerile,
+Inima mea se bucură în Tine,
+De griji, necazuri mă ferești
+Te-nduri de orice om dorești,
+Puterea Ție-Ți aparține.
+
+[v3]
+Și când gresesc Tu mă iubești,
+Ma iei în brațe, mă primești,
+La pieptul Tău îmi este cel mai bine,
+De-i foamete Tu mă hrănești,
+Belsug de pâine Doamne ești,
+Rămân pe veci Doamne cu Tine.

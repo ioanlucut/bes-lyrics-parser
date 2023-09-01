@@ -1,0 +1,13 @@
+[title]
+Maranata maranata {author: {Anonim}, {rcId: {74384}}
+
+[sequence]
+v1,v2
+
+[v1]
+/: Maranata! Maranata! :/ x4
+/: Maranata :/ x4
+
+[v2]
+/: Va veni iar! Va veni iar! :/ x4
+/: Va veni iar! :/ x4

@@ -1,0 +1,40 @@
+[title]
+Cu lacrime te cheama azi isuse {author: {Frații Wagner}, {rcId: {3827}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Cu lacrime te cheamă azi Isuse
+A ta mireasă cei bătută greu
+De vânturi reci, de valuri, și furtună
+O vino azi in ajutorul ei
+
+[c]
+/: Vino :/ x3 coboară-n în adunare
+Lacrimi să ștergi, răni să mai legi
+De fiecare să te-nduri o Doamne :/
+
+[v2]
+Vrășmasul da târcoale astăzi turmei
+Vrea să-i doboare pe cei mai slăbuți
+Vino tu veghează-n jurul turmei
+Cu toți vrem ca să ajungem sus
+
+[v3]
+Azi te cheamă cei bolnavi Isuse
+Ungei cu balsamul Tău divin
+Mai deschide ochi mai dă vedere
+Să vedem spre tine să venim
+
+[v4]
+Mai privește spre părinții ce strigă
+Către tine ca să îi asculți
+Să cobori să intri în al lor casă
+La copii salvare să aduci
+
+[v5]
+Noi cu toți de tine avem nevoie
+Vino azi la noi nu mai pleca.
+Și când pleci ne ia cu Tine în slavă.
+Ca să stăm cu toți la masa Ta.

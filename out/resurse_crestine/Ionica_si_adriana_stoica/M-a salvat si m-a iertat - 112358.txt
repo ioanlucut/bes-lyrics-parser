@@ -1,0 +1,55 @@
+[title]
+M-a salvat si m-a iertat {author: {Ionica si Adriana Stoica}, {rcId: {112358}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,e
+
+[v1]
+N-am să uit vreodată
+Domnul m-a găsit
+Mi-a iertat păcatul
+Și m-a mântuit
+Pacea Lui cerească
+Harul Său mi-a dat
+O, ce fericit sunt
+Isus m-a salvat
+
+[c]
+M-a salvat și m-a iertat
+Isus Hristos Cel minunat
+Domnul meu, El m-a salvat
+Căci m-a iubit, Isus Hristos m-a mântuit
+
+[v2]
+Eu Îi aud glasul
+Când sunt abătut
+El îmi este sprijin
+Ajutor și scut
+Iar atuncea Doamne
+Când sunt ispitit
+Mă încred în Domnul
+Care m-a iubit!
+
+[v3]
+El îmi spune în șoaptă:
+” Tu privește, dar
+Ținta ta să-ți fie
+Numai spre Calvar”
+Plin de bucurie,
+Doamne, eu ascult
+Știu că viața-i scurtă
+Pe acest pământ
+
+[v4]
+Nu pot să uit Doamne
+Ce mult ne-ai iubit
+Pentru noi pe-o cruce
+Doamne Te-ai jerfit
+Să am mântuire, pace din belșug
+Eu Îți cant Osana, aici pe pământ
+
+[e]
+Osana, Aleluia lui Isus
+Îi voi cânta Domnul meu
+Osana Aleluia lui Isus
+Toată viața.

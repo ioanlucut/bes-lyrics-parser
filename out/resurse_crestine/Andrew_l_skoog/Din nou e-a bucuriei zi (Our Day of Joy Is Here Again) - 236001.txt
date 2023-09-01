@@ -1,0 +1,36 @@
+[title]
+Din nou e-a bucuriei zi (our day of joy is here again) {author: {Andrew L. Skoog, Traducere RO}, {rcId: {236001}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Din nou e-a bucuriei zi
+Veniți cu toți cântând
+În cor, uniți cu îngerii
+Dați slavă Celui Sfânt.
+
+[c]
+Slavă Ție, Îți cântăm
+Rege sfânt Te adorăm
+Pace fie pe pământ:
+Azi S-a născut Cel Sfânt!
+
+[v2]
+În neguri pline de păcat
+Lumina a venit
+Pe Fiul, Tatăl ni L-a dat
+Căci mult El ne-a iubit.
+
+[v3]
+Acum, la iesle noi venim
+Cu gând să-L adorăm
+’
+Naintea Pruncului divin
+Smeriți ne închinăm.
+
+[v4]
+Ce minunat e Domnul sfânt
+El a venit smerit
+S-aducă harul pe pământ
+Un dar mult prețuit.

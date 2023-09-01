@@ -1,0 +1,41 @@
+[title]
+Nu e cu flori asternuta {author: {Anonim}, {rcId: {165593}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c2
+
+[v1]
+Nu e cu flori așternută,
+Calea-i doar pietre și spini,
+/: Dar Te rugăm, Doamne sfinte,
+Ocrotitor să ne fii! :/
+
+[c]
+/: Fără El eu voi cădea,
+Fără Hristos nu voi putea,
+Fără El, viața e amară! :/
+
+[v2]
+Diavolul nu dormitează,
+Caută a mă-ngrozi;
+/: Dar nu uit promisiunea:
+„
+Eu nu te voi părăsi!” :/
+
+[v3]
+Vin greutăți în viață,
+Adesea drumul e greu,
+/: Dar Domnul nicicând nu ne lasă,
+Ne ocrotește mereu. :/
+
+[v4]
+„
+Crede și nădăjduiește,
+Doar către Mine privind
+/: Eu am trecut înainte,
+Pentru tine-am suferit!” :/
+
+[c2]
+/: Lângă El nu voi cădea,
+Lângă El mereu voi sta!
+Doar cu El ajunge-voi în slavă! :/

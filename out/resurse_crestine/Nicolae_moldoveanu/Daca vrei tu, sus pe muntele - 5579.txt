@@ -1,0 +1,38 @@
+[title]
+Daca vrei tu sus pe muntele {author: {Nicolae Moldoveanu}, {rcId: {5579}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c
+
+[v1]
+Daca vrei tu, sus pe muntele o Cel sfant, sa locuiesti,
+Verifica-ti azi viata o Si ia seama cum traiesti!
+
+[c]
+/: Caci acolo sus, pe munte, o Nici un om nu va fi dus
+Din acei ce nu traiesc o A lor viata cu Isus. :/
+
+[v2]
+Caci in psalmul cinsprezece, o David ne spune asa:
+„
+Cel ce umbla-n sfintenie o Si-mplineste voia Sa,
+
+[v3]
+Acela nu cleveteste; o Nimanui nu-i face rau,
+Dimpotriva, face bine o Chiar si semenului sau.
+
+[v4]
+Acel ce astfel se poarta o Nicicand nu s-a clatina;
+El va merge pan’ la poarta o Si-nauntru va intra.
+
+[v5]
+Si va locui in cortul o De pe muntele cel sfant
+Unde Domnul Isi va duce o Pe-ai Sai urmasi in curand.
+
+[v6]
+Acolo toti, impreuna, o Pe Domnul vor lauda
+Si, in templul Lui acel sfant, o Vesnic se vor bucura.
+
+[v7]
+Si va fi o slava mare o Ce nici unul n-a vazut,
+Pregatita chiar de Domnul o Pentru cel din nou nascut.

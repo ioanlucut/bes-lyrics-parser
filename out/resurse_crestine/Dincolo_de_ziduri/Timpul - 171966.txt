@@ -1,0 +1,46 @@
+[title]
+Timpul {author: {Dincolo De Ziduri}, {rcId: {171966}}
+
+[sequence]
+v1,c,s,c,v2,c,c
+
+[v1]
+Crezi că timpul ți-e favorabil
+Crezi că viața e un joc
+Alergând după iluzii
+Sufletu-ți rămâne gol
+
+[c]
+Nu te lăsa mințit
+Lumea te vrea orbit
+De timp să fii jefuit
+Deschide ochii să vezi
+Adevărul să-l crezi
+Timpul să nu-l mai pierzi
+/: Nu te lăsa mințit
+Lumea te vrea orbit
+De timp să fii jefuit
+Deschide ochii să vezi
+Adevărul să-l crezi
+Timpul să nu-l mai pierzi :/ x2
+Nu te lăsa mințit
+Lumea te vrea orbit
+Nu te lăsa folosit
+Nu te lăsa biruit
+Deschide ochii să vezi
+Adevărul să-l crezi
+Timpul să nu-l mai pierzi
+
+[s]
+Decizii pripite mănâncă destine
+Cumperi timp consumat de plictiseli anonime
+Ești înconjurat de infecții date cu parfumuri fine
+Minciuna e-n floare, știi bine
+
+[v2]
+Vezi devotați alergători
+După false premii
+Tu câștiga-ți viața
+Căutându-l pe El
+Vreau ca atunci când te stingi
+Să vezi că ai trăit

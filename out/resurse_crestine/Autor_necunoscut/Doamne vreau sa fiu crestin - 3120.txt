@@ -1,0 +1,41 @@
+[title]
+Doamne vreau sa fiu crestin {author: {Anonim}, {rcId: {3120}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+/: Doamne vreau să fiu creștin
+ /: în inima mea :/
+/: În inma mea :/
+Doamne vreau să fiu creștin în inima mea. :/
+
+[v2]
+/: Și să fiu mai iubitor
+ /: în inima mea :/
+/: În inima mea :/
+Și să fiu mai iubitor în inima mea. :/
+
+[v3]
+/: Să duc crucea la Calvar
+ /: pe umerii mei :/
+/: Pe umerii mei :/
+Să duc crucea la Calvar pe umerii mei. :/
+
+[v4]
+/: Să port crucea Ta, Isus
+ /: pe umerii mei :/
+/: Pe umerii mei :/
+Să port crucea Ta, Isus pe umerii mei. :/
+
+[v5]
+/: Să fiu plin de Duhul Sfânt
+ /: în inima mea :/
+/: În inima mea :/
+Să fiu plin de Duhul Sfânt în inima mea. :/
+
+[v6]
+/: Și s-aștept venirea Ta
+ /: în inima mea :/
+/: În inima mea :/
+Și s-aștept venirea Ta în inima mea. :/

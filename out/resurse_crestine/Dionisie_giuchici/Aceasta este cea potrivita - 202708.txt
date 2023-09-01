@@ -1,0 +1,39 @@
+[title]
+Aceasta este cea potrivita {author: {Dionisie Giuchici}, {rcId: {202708}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Aceasta este cea potrivită,
+Cea hotărâtă de Dumnezeu.
+Ca pe Rebeca cea fericită,
+Condu-o, frate, spre cortul tău.
+
+[c]
+/: Fiți fericiți împreună!
+Domnul să fie cu voi!
+De-i vreme rea sau e bună,
+Să nu vă dați înapoi!
+Nimeni să nu vă oprească
+Din calea pe care-ați plecat,
+Domnul vă călăuzească,
+Fie cu voi ne-ncetat! :/
+
+[v2]
+Trăiți în pace și în unire
+Ca să ajungeți sus la sfârșit,
+Domnul să pună în voi iubire,
+Dragostea care v-a mântuit.
+
+[v3]
+În casa voastră faceți să fie
+Casa cerească din depărtări;
+Priviți întruna spre veșnicie
+Prin rugăciune și prin cântări.
+
+[v4]
+Să nu vă-nșele amăgitorul,
+Să nu rămâneți fără săgeți,
+Căci de la Domnul e ajutorul
+De-ar fi să treceți prin greutăți!

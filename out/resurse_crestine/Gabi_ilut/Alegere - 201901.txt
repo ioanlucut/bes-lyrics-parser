@@ -1,0 +1,43 @@
+[title]
+Alegere {author: {Gabi Ilut}, {rcId: {201901}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Vreau bunătatea, pacea, dreptatea
+Să le vestesc mereu.
+Știu că-ndurarea, iubirea, iertarea
+Vin de la Dumnezeu.
+Viața e scurtă, se dă o luptă
+Pentru sufletul tău,
+Cugetu-ți spune, alege bine,
+Nu face ce e rău!
+
+[c]
+/: Poți să câștigi în viață
+Poți să ajungi în față,
+Călcându-ți în picioare cugetul.
+Dar ce folos de toate,
+Să aici palate,
+Dacă ți-ai pierde sufletul! :/
+
+[v2]
+Oricât de-ascunsă și nepătrunsă
+E calea omului,
+Nu poate trece neobservată
+De ochii Domnului!
+Ce semeni astăzi, tu vei culege,
+La timpul potrivit,
+Nu te-nșela dar El nu se lasă
+Nicicând batjocorit!
+
+[v3]
+Cel ce va vrea să își scape viața
+Uită că într-o zi,
+Totul va pierde și o altă șansă
+Nu va putea primi!
+Cel ce alege să-și piardă viața
+Pentru Isus Hristos,
+Viață câștigă pentru vecie,
+Un viitor frumos!

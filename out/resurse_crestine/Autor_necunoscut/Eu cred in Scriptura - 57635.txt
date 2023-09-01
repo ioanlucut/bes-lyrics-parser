@@ -1,0 +1,35 @@
+[title]
+Eu cred in scriptura {author: {Anonim}, {rcId: {57635}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Eu cred in Scriptura,
+Eu cred in Scriptura,
+Eu cred in Scriptura,
+Sfantul Sau Cuvant.
+
+[v2]
+Eu ma-ncred in Isus,
+Eu ma-ncred in Isus,
+Eu ma-ncred in Isus,
+Unicul Sau Fiu.
+
+[v3]
+El muri pe cruce,
+El muri pe cruce,
+El muri pe cruce,
+Pentru al meu pacat.
+
+[v4]
+Viu El este astazi,
+Viu El este astazi,
+Viu El este astazi,
+Viu cu-adevarat.
+
+[v5]
+Si pe nori revine,
+Si pe nori revine,
+Si pe nori revine,
+Si pentru mine.

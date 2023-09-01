@@ -1,0 +1,41 @@
+[title]
+Tu poti sa cauti {author: {Nicolae Moldoveanu}, {rcId: {244059}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Tu poți să cauți și ce se pare
+În lumea asta azi frumos,
+Dar vai, va fi în veci de ochii
+Ce se întorc de la Hristos!
+Tu poți să cauți și ce în lume
+Cu neputință-i să găsești,
+Dar vai, nefericit și singur
+Vei fi când ai să te trezești.
+
+[v2]
+Tu poți să cauți desăvârșită
+Iubire-n lume cât vei vrea,
+Dar vai, ce-amară-ți va fi-odată
+Trezirea tot fără de ea!
+Tu poți să cauți și-n lume-astămpăr
+Dorințelor din sânul tău,
+Dar, vai, odată cât de-amare
+Vor fi părerile-ți de rău!
+
+[v3]
+Tu poți să cauți - și eu căutat-am
+Cândva când nu știam să cat,
+Dar m-am întors zdrobit și singur,
+Nefericit și disperat.
+Tu poți să cauți, dar ia aminte,
+De nu vrei prea scump să plătești,
+Nu mai căuta-n zadar ce-n lume
+Cu neputință-i să găsești.
+
+[v4]
+Nu-ntoarce ochii de Ia Domnul
+Nu-ți rupe inima de El,
+Căci nu e ca a Lui iubire,
+Nici inimă cu-a Lui la fel.

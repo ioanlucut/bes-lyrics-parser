@@ -1,0 +1,31 @@
+[title]
+Nu pot sa inteleg {author: {Florin Modog}, {rcId: {131314}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Nu pot sa inteleg o Doamne
+Iubirea Ta fara sfarsit
+Sunt doar un bulgar de tarana
+Si pentru mine te-ai jertfit
+Nu pot sa inteleg o Doamne
+Iubirea Ta fara sfarsit
+Sunt doar un bulgar de tarana
+Si pentru mine te-ai jertfit
+
+[c]
+/: Tu ai fost si vei fi
+Eu prin Tine voi trai
+Tu Esti tot, eu nimic
+Tu Esti mare, eu sunt mic :/
+
+[v2]
+Si-adancuri si-naltimi Tu ai creat
+Ape si munti impaduriti
+Firul de iarba, flori din pom
+Faptura minunata, ”om”!
+Ma vad atat de mic, o Doamne
+Si Numele vreau sa-Ti slavesc
+Esti totul Doamne, eu nimica
+Si vreau sa-Ti spun ca te iubesc!

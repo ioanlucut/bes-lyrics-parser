@@ -1,0 +1,41 @@
+[title]
+Cand corabia vietii mele {author: {Ioan Hapca}, {rcId: {95290}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când corabia vieții mele
+Se-nclină neputincioasă
+Sub vântul ispitei grele
+Și pare să nu mai iasă...
+Strig atuci la Domnul Isus
+Convins, că El nu mă lasă
+Nicidecum să fiu răpus.
+
+[c]
+Domnul meu iubit, Isus
+Toată noaptea mijlocește
+În rugăciuni, pe Munte, sus
+Însă când nimicitorul
+Furtuni pe mare stârnește,
+Vine El, Mântuitorul
+Și ucenicii-Și izbăvește!
+
+[v2]
+Plin de pace și voios
+Călător pe marea lumii,
+Duc vestea maiestuos
+Despre harul mântuirii
+Prin Domnul Isus Hristos
+Și-n spre Patria Luminii
+El mă conduce glorios!
+
+[v3]
+Vânt năpraznic se stârnește
+Deseori pe marea vieții
+Și corabia-mi se-nvârtește
+Prin furtuna nedreptății...
+Însă Domnul, mă păzește.
+Iar în zorii dimineții
+Vine și mă izbăvește.

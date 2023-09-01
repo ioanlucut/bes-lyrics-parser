@@ -1,0 +1,37 @@
+[title]
+Sfant {author: {Adi Gliga}, {rcId: {161066}}
+
+[sequence]
+v1,b,c,v2,b2,c,e,c
+
+[v1]
+Tu ești veșnic Împărat,
+Sfânt, măreț și-adevărat.
+Prăbușit în Fața Ta,
+Doamne astăzi vin
+Inima să Ți-o închin.
+
+[b]
+Doamne, doar prezența Ta
+Îmi sfințește inima!
+
+[c]
+/: Sfânt, Sfânt, Sfânt!
+Doar Tu ești, Doamne
+Sfânt în veci! :/
+Doar Tu!
+
+[v2]
+Orice neam se va pleca,
+Doamne, înaintea Ta.
+Mii de îngeri cântă-n cor
+Laudă ne-ncetat,
+Glorie Celui Preaînalt!
+
+[b2]
+Doamne vrem prezența Ta,
+Ne sfințește inima.
+
+[e]
+Sfânt, Sfânt Sfânt,
+Tu ești, Doamne! x3

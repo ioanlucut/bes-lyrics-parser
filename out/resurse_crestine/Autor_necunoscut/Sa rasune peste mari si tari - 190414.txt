@@ -1,0 +1,35 @@
+[title]
+Sa rasune peste mari si tari {author: {Anonim}, {rcId: {190414}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Să răsune peste mări și țări
+Că avem un Dumnezeu măreț,
+/: Numele Lui fie lăudat
+Și în veci de veci glorificat. :/
+
+[v2]
+Zi de zi ne poartă-n carul Său,
+Ne conduce pe-al vieții drum,
+/: Numele Lui fie înălțat,
+El, Isus, e cel mai minunat! :/
+
+[v3]
+Ne ajută când povara-i grea
+Și ne ia de mână când cădem,
+/: Ne ridică de jos sarcina,
+Ne dă noi puteri să ’naintăm. :/
+
+[v4]
+Nu ne temem de-ar veni furtuni
+Și dacă marea s-a-nvolbura,
+/: Căci la cârma e Isus Hristos,
+Soarta noastră e în mâna Sa. :/
+
+[v5]
+A promis că pe ai Săi nicicând,
+Niciodată nu îi va lăsa,
+/: Pe acei ce nu dau înapoi
+Îi va duce în patria Sa. :/

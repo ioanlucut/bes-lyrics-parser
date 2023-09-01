@@ -1,0 +1,55 @@
+[title]
+De mi-ar spune toata lumea {author: {Anonim}, {rcId: {1666}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+De mi-ar spune toată lumea,
+Eu de Isus să mă las
+M-ai degrabă mi-aș da viața
+De cât fără El un pas
+Voia Tatălui din ceruri
+Cât de des eu o călcam
+Fără El apărătorul
+Înspre iad călătoream
+
+[c]
+/: El mi-e gândul, mi-e iubirea
+Este-n toată ființa mea
+Cel ce mi-a spălat păcatul
+Când lumea mă condamna
+El mi-e gândul, mi-e iubirea
+Este-n toată ființa mea
+Cel ce mi-a spus sunt cu tine
+Când lumea mă părăsea :/
+
+[v2]
+La tronul cel Sfânt din ceruri
+Spuse Isus Tatălui
+Tată iată eu sunt jertfa
+Arătându-și palma Lui
+Câte lacrimi de iubire
+Însoțindu-mă pe drum
+Vărsa Isus pentru mine
+Căci sunt păcătos și-acum
+
+[v3]
+Eu sunt fire pământească
+El e fiu de Dumnezeu
+I-am cerut să mă-nsoțească
+Să m-ajute când mi-e greu
+Doamne-n drumul către ceruri
+Numai prin iubirea Ta
+Am să pot și eu ajunge
+Tu plătind pe Golgota
+
+[v4]
+Ce-am fost ieri, ce voi fi mâine
+Modelează-mi inima
+Fă-mă credincios ca Tine
+Ține-mă sub jertfa Ta
+Schimba-mi inima din mine
+Prin Cuvântul Tău cel Sfânt
+Cer porunca Ta în mine
+Umple-mă cu Duhul Sfânt

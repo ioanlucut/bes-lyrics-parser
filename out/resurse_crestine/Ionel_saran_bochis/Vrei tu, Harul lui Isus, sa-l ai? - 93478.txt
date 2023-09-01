@@ -1,0 +1,31 @@
+[title]
+Vrei tu harul lui isus sa-l ai? {author: {Ionel Saran Bochis}, {rcId: {93478}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Vrei tu, Harul lui Isus, să-l ai?
+Vrei tu inima ca să Îi dai?
+/: Duhul Său cel Sfânt vrei să Îl simți?
+Vino astăzi sincer la Isus! :/
+
+[c]
+Haideți cu toții să-L înalțăm!
+Din Inimă cu drag să Îi cîntăm!
+Un imn de slavă Domnului să-I dăm,
+Cu El să mergem, pe El să-L urmăm!
+Hai să uităm de tot ce ne-nconjoară,
+Căci Domnul Isus, El, ne așteaptă!
+
+[v2]
+Tu decide astăzi unde mergi
+Tu ți-alege astăzi unde vrei
+/: Nu uita că lumea-aceasta trece
+Ce-ai sădit în veci va ramâne! :/
+
+[v3]
+Dacă ai sădit în pământ bun
+Dacă ai crescut in Duhul Sfânt
+/: Vei fi-n totdeauna cu El sus
+Vei vedea pe Domnul Tău cel Sfânt! :/

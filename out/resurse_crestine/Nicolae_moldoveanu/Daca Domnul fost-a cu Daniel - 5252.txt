@@ -1,0 +1,27 @@
+[title]
+Daca domnul fost-a cu daniel {author: {Nicolae Moldoveanu}, {rcId: {5252}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+/: Daca Domnul fost-a cu Daniel :/
+El sigur cu mine va fi... Doamne!...
+
+[v1]
+De-as fi in mana celor rai,
+El sigur cu mine va fi;
+De-as fi si eu in gropi cu lei,
+Esigur cu mine va fi;
+
+[v2]
+Chiar de-as ajunge acuzat,
+El sigur cu mine va fi.
+Chiar nedreptati cand mi se fac,
+El sigur cu mine va fi;
+
+[v3]
+In valea umbrelor mortii
+El sigur cu mine va fi;
+Domnul imi e scut al vietii:
+El sigur cu mine va fi.

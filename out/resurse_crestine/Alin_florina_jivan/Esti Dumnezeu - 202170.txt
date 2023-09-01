@@ -1,0 +1,37 @@
+[title]
+Esti dumnezeu {author: {Alin, Florina Jivan}, {rcId: {202170}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Credința mea nu-i ancorată
+În tot ce pot să realizez
+Am învățat să Te ador pentru ce ești
+În Tine totu-i Da și Amin
+Tu conduci al meu destin
+A Ta, a Ta să fie gloria!
+
+[c]
+/: Dacă lucrezi, ești Dumnezeu
+Și chiar de nu ești Dumnezeu
+Când uși deschizi, ești Dumnezeu
+Și când le închizi tot Tu ești Dumnezeu
+Când sunt bolnav, ești Dumnezeu
+De vindeci Tu ești Dumnezeu
+Când bine mi-e, ești Dumnezeu
+Și când mi-e greu, tot Tu ești Dumnezeu :/
+
+[v2]
+Credința mea nu-i ancorată
+În tot ce pot să realizez
+Am învățat să Te ador pentru ce ești
+În Tine totul-i Da și Amin
+Tu conduci al meu destin
+A Ta, a Ta să fie gloria!
+
+[v3]
+Nu Te ador pentru ceea ce faci
+Ci Te ador pentru ceea ce Ești
+Orice-ar veni
+Știu: Tu ești Dumnezeu!

@@ -1,0 +1,33 @@
+[title]
+Dumnezeu este cu tine {author: {Elisei Dafinescu}, {rcId: {242484}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Oricât ar fi de greu
+Oricât ar fi de întunecat
+Tu dar nu uita
+Caci cu tine este Dumenzeu
+
+[c]
+/: Ridică azi privirea ta
+Căci Isus îți vine în ajutor
+El este de partea ta
+El este al tau apărător :/
+/: Ridică azi privirea ta
+Căci Isus îți vine în ajutor
+El este de partea ta
+El este al tau apărător :/
+
+[v2]
+Oricât ar fi de greu
+Oricât ai fi de încercat
+Tu dar nu uita
+Căci cu tine este Dumnezeu
+
+[e]
+/: Emanuel Emanuel
+Dumenzeu este cu noi
+Și El ne da puteri noi
+Emanuel Emanuel :/

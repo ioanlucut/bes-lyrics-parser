@@ -1,0 +1,47 @@
+[title]
+Vino doamne-n adunare {author: {Daniel Cojocărescu}, {rcId: {225971}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Vino Doamne-n adunare
+Mai fa azi o cercetare
+/: Sa tresalte-n Duhul Sfânt
+Toți cei ce-și curați și sfinți
+Vino Doamne-n adunare. :/
+
+[v2]
+Vino tu cu biruința
+Și mareste-ne credința
+/: Sa credem tot ce ai spus
+Ca-n curând vii tu Isus
+Vino Doamne-n adunare. :/
+
+[v3]
+Vino și schimba-ne starea
+Sa dea-n clocot adunarea
+/: Șchiopii să poată umbla
+Orbii să poată vedea
+Vindeca-ne Doamne starea. :/
+
+[v4]
+Mieluseii ce-s in turma
+Condu-i Doamne Tu din urmă
+/: Oile și-oitele
+Du-le tu la pășune
+Vino azi la a ta turma. :/
+
+[v5]
+Traim vremea cea din urmă
+Și lupii-ncearca la stana
+/: Scoala Doamne Tu pastorii
+Armele, toți lucrătorii
+Sa apere a ta turma. :/
+
+[v6]
+Vino Doamne-n adunare
+Lasă darurile Tale
+/: Sa strigam toți osanale
+Vino Doamne azi in vale
+Du-ne de mana pe cale. :/

@@ -1,0 +1,31 @@
+[title]
+Cea mai frumoasa zi de pe-acest pamant {author: {Alexandru Groza}, {rcId: {185506}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Cea mai frumoasă zi de pe-acest pământ
+E ziua-n care-am făcut Domnului legământ
+Neprihănit prin credință har am primit
+De păcat Domnul m-a izbăvit
+Sunt o făptură nouă-n Isus Hristos
+Harul Lui mântuiește pe păcătos
+Prin credința în El voi trăi mereu
+Binecuvântat de Dumnezeu
+
+[c]
+Cea mai frumoasă zi de pe-acest pământ
+E ziua-n care-am făcut Domnului legâmnt
+Credința-n El, păcatul mi-a izbăvit
+În iubirea Lui sfântă eu sunt fericit!
+
+[v2]
+Va veni ziua când harul se va lua lua
+De-aceea eu Domnului mi-am deschis inima
+De păcat sunt iertat, sunt răscumpărat
+Cred în El, El viață mi-a dat
+Am ales viața și cred în Dumnezeu
+El mă iubește și scut îmi va fi mereu
+Îl preamăresc pe Domnul, sunt fericit
+Mântuirea în dar am primit!

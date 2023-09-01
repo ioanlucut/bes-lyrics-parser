@@ -1,0 +1,34 @@
+[title]
+[unnamed] {author: {Anonim}, {rcId: {143960}}
+
+[sequence]
+v1,b,c,v2,c,v3,c
+
+[v1]
+/: În lumea aceasta, eu sunt călător,
+Pornesc înspre Țara de Sus;
+Acolo e Ținta unde vreau să-ajung,
+În Cer, unde e Isus. :/
+
+[b]
+Sunt trecător pe acest pământ,
+Sunt călător spre Locul Preasfânt.
+
+[c]
+/: Când voi sfârși alergarea, pe Isus voi vedea;
+Cu Brațele Deschise mă va aștepta;
+Voi vedea pe Domnul ce ma iubit,
+Și-mi va spune Duios: „
+Bine ai venit!” :/
+
+[v2]
+/: În lumea aceasta, eu sunt un străin,
+Nimic nu mă leagă de ea;
+Nu vreau să adun comori pe pământ,
+Căci în Cer e Țara mea. :/
+
+[v3]
+/: În lumea aceasta, cât voi trăi,
+Vreau să-L urmez pe Isus;
+Pe Urmele Lui să pășesc,
+Până voi ajunge Sus. :/

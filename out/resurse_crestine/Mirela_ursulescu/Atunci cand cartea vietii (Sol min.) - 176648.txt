@@ -1,0 +1,32 @@
+[title]
+Atunci cand cartea vietii (sol min) {author: {Mirela Ursulescu}, {rcId: {176648}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+M-am săturat de acest pământ, să fiu străin, fugar,
+Sunt doar un praf purtat de vânt, adesea în zadar.
+
+[c]
+/: Atunci când cartea vieții se deschide,
+Aș vrea ca al meu nume, să-l rostești
+Să fiu si eu cu Tine, al meu Mire,
+Să pot să-Ți cânt și-n Slăvile Cerești
+Dar pan’atunci, ajută-mă, Isuse,
+Să te urmez, așa cum Tu dorești,
+Cu toți cei dragi, vreau să ajung la Tine,
+Să fim în bucuria, cea de veci :/
+.
+
+[v2]
+Mi-e dor și-adesea vreau sa plec, la Tine, drag Isus
+Zi și noapte, te aștept, mă simt ades răpus.
+
+[v3]
+Doru-acesta, arde-n piept, aș vrea să vi odat’,
+Ah, Tată, cât să mai aștept, mi-e tare dor de-acas’.
+
+[v4]
+Ajută-mă ca să-mi păstrez, curată haina mea,
+În ascultare, să veghez, să fiu la nunta Ta.

@@ -1,0 +1,37 @@
+[title]
+A venit isus pe lume {author: {Anonim}, {rcId: {238516}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+A venit Isus pe lume
+Într-o noapte minunata
+În Betleemul din Iudeea
+Pe cer o stea se-arata
+Magii dupa stea pornesc
+Plini de bucurie.
+Sa se-nchine
+Celui care-a fost
+Din vesnicie.
+
+[c]
+Ne-nchinam si noi cu ei
+Pruncului Isus
+Inima I-o daruim
+Caci ne-a iubit nespus,
+S-a coborât din stralucire
+Sa ne ofere mântuire
+Binecuvântat sa fie
+’
+N veci de veci.
+
+[v2]
+Îngerii au coborât
+Plini de bucurie
+Sa aduca vestea buna
+Celor din câmpie
+Pastorii au ramas uimiti
+De aceasta minune
+Si spre iesle au pornit
+Si ei sa I se-nchine

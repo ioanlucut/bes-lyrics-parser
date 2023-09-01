@@ -1,0 +1,35 @@
+[title]
+Te ador o doamne sfinte {author: {Anonim}, {rcId: {223280}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Te ador, o Doamne sfinte,
+Tu ești cel nemărginit
+Slava Ta, eu n-am cuvinte
+să o cânt, ești preaslăvit
+
+[c]
+Glorios, glorios
+este numele Tău sfânt
+Glorios, glorios
+este-n cer și pe pământ
+
+[v2]
+Tu ții universul mare,
+toate le-ai în mâna Ta
+Ești fără asemănare,
+stau uimit în fața Ta
+
+[v3]
+Dar lăsat-ai toată slava
+și la noi jos ai venit
+Vina mea și-a multor oameni
+sus pe cruce-ai ispășit.
+
+[v4]
+Cum să-Ți cânt când n-am cuvinte
+să spun cât Tu m-ai iubit
+Mă închin o Doamne sfinte,
+și-ți slujesc pân’ la sfârșit

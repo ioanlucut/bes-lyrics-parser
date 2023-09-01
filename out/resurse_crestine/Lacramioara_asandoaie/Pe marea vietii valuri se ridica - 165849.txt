@@ -1,0 +1,43 @@
+[title]
+Pe marea vietii valuri se ridica {author: {Lăcrămioara Asăndoaie}, {rcId: {165849}}
+
+[sequence]
+v1,c,v2,c2,e
+
+[v1]
+Pe marea vieții valuri se ridică,
+Vânturile bat neîncetat,
+Corabia-i lovită, furtuna se-ntețește,
+Noaptea ceața deasă și-a lăsat.
+Suntem duși de valuri, suntem fără putere,
+Vino Doamne-n ajutor,
+Potolește marea, vântul și furtuna,
+Ajută-ne să ancorăm!
+Vino, vino, Tu, Isuse, te chemăm!
+
+[c]
+Vino Tu, Isuse, Vino Tu, Isuse,
+În corabie cu noi!
+Vino Tu Isuse, Vino Tu Isuse,
+Ajută-ne în port să ancorăm!
+
+[v2]
+Te chemăm ca Petru,
+Întinde-ți a Ta mână,
+Smulge-ne din valurile reci!
+Ridică Tu ceața, adu-ne dimineața,
+Soarele să lumineze-n veci!
+Te zărim, Isuse, zărim a Ta lumină,
+Țărmul îl întrevedem,
+Adu-ne salvarea, clipele răpirii,
+Vino, Doamne, Te-așteptăm!
+Vino, vino Tu, Isuse, Te chemăm!
+
+[c2]
+Vino iar, Isuse, vino iar, Isuse,
+Vino căci cu dor Te așteptăm!
+Vino iar, Isuse, vino iar, Isuse,
+Vrem cu toți acasă să ajungem!
+
+[e]
+Vino, vino Doamne!

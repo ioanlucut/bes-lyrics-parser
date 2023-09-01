@@ -1,0 +1,35 @@
+[title]
+O isusesti domn minunat {author: {Anonim}, {rcId: {61423}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: O Isus, ești Domn minunat
+Tu-nvingător îndurat;
+Bunătatea Ta-i nespusă,
+Unde domnești e odihnă. :/
+
+[c]
+Laudă! Laudă!
+Să-I cântăm Lui Dumnezeu!
+Laudă! Laudă!
+Cântați toți cu glas tare!
+
+[v2]
+/: O! Față dumnezeiască,
+Vino de mă luminează!
+Ia norul de pe suflete,
+Tot poporul îl sfințește. :/
+
+[v3]
+/: Inima în care Tu vii
+Și dai lumina dreptății,
+Ea păcatul părăsește
+Și se umple de iubire. :/
+
+[v4]
+/: Nu-i cântare mai frumoasă,
+Melodie mai aleasă...
+Nu-i alt cuget mai prețios,
+Ca Domnul meu, Isus Hristos. :/

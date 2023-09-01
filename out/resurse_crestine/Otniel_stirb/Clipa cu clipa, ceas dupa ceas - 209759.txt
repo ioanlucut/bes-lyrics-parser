@@ -1,0 +1,36 @@
+[title]
+Clipa cu clipa ceas dupa ceas {author: {Otniel Stirb}, {rcId: {209759}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Clipa cu clipa, ceas dupa ceas
+Timpul se duce fara popas
+Vine Isus, vine Isus
+Tot mai aproape cum ni s-a spus
+E rasaritul fara apus
+Vine Isus, vine Isus
+
+[c]
+In noapte se aude o strigare,
+E ceasul din urma vegheati
+Din somn va treziti voi fecioare
+De vreti in odaie cu el sa intrati
+Caci Mirele vine, sa-L asteptati
+
+[v2]
+Dureri si necazuri, oricate ar fi
+Toate intr-o clipa se vor sfarsi
+Vine Isus, vine Isus
+Tu porumbita de pe pamant
+De suferinta uita-vei curand
+Vine Isus, vine Isus
+
+[v3]
+Semnele vremii toate ne spun
+Chiar universul simte acum
+Vine Isus, vine Isus
+Hainele albe curate pastrati
+Si in candela rezerva luati
+Vine Isus, vine Isus

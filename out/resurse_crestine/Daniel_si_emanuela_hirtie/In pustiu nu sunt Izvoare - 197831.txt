@@ -1,0 +1,41 @@
+[title]
+In pustiu nu sunt izvoare {author: {Daniel si Emanuela Hirtie}, {rcId: {197831}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+În Pustiu Nu sunt Izvoare
+Sufletul să-ți răcorești
+/: Doar acasă lângă Tata
+Fiule poți să trăiești :/
+
+[c]
+Acasă, acasă
+E locul unde este mila
+Acasă, acasă
+E pace sfanta si odihnă
+
+[v2]
+Lasa arșița cumplită
+Care-ți arde inima
+/: Vino în casa părintească
+Unde’ i vie dragostea :/
+
+[v3]
+Nu există fericire când
+Alergi străin mereu
+/: Oh De ce nu vii acasă
+Te așteaptă Dumnezeu :/
+
+[v4]
+Cât e har și îndurare
+Lasa al pustiei drum
+/: Bogăția slavei Sale
+Curge căci Iisus e bun :/
+
+[v5]
+Lasă tot pustiul lumii
+Care te-a împovărat
+/: Mâna tatălui e întinsă
+Vino ca să fii iertat :/

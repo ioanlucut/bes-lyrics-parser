@@ -1,0 +1,48 @@
+[title]
+Cand veghezi in toi de noapte {author: {Nicolae Moldoveanu}, {rcId: {5713}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+Cand veghezi, in toi de noapte,
+Si suspini asa de greu,
+/: Domnul bate, bate, bate;
+Bate tot mereu. :/
+
+[v2]
+Sa nu spui ca-s fleacuri toate
+Caci, vorbind asa, gresesti;
+/: Domnul bate, bate, bate!
+Tu te pierzi pe veci. :/
+
+[v3]
+Domnul bate si Se duce
+De la tine intristat,
+/: Caci tu, suflete preadulce,
+Iar L-ai refuzat. :/
+
+[v4]
+Cand, la poarta Lui, vei bate
+Si te vei ruga,
+/: Ai s-auzi, iubite frate:
+„
+Tu nu poti intra!” :/
+
+[v5]
+Lacrimi, planset cu suspine
+Te vor napadi,
+/: Iar la portile divine,
+Te vor osandi. :/
+
+[v6]
+Hai, deschide-I, pana-i vreme,
+Domnului Isus!
+/: Vezi ca sufletul, greu, geme
+De pacat rapus. :/
+
+[v7]
+Spune-I Lui ce te apasa,
+Tot marturisind,
+/: Caci te-nvita la-a Sa masa,
+Fericit zambind. :/

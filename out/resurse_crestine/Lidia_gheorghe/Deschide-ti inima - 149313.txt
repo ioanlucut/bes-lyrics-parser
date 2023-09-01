@@ -1,0 +1,27 @@
+[title]
+Deschide-ti inima {author: {Lidia Gheorghe}, {rcId: {149313}}
+
+[sequence]
+v1,v2
+
+[v1]
+/Deschide-ți inima!
+Și spune-acuma: Da!
+Nu privi la amintiri!
+Toate-s numai risipiri.
+Și spune-I celui ce
+A murit pe cruce:
+Toată viața mea
+Fie doar a Ta
+/:
+
+[v2]
+/Deschide-ți inima!
+Și spune-acuma: Da!
+Nu privi la amintiri!
+Toate-s numai risipiri.
+Și spune-I celui ce
+A murit pe cruce:
+Toată viața mea
+Fie doar a Ta
+/:

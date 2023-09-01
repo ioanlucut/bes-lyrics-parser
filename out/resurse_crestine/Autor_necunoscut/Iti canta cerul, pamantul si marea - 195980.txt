@@ -1,0 +1,35 @@
+[title]
+Iti canta cerul pamantul si marea {author: {Anonim}, {rcId: {195980}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Îți cântă cerul, pământul și marea
+Și toate ascultă porunca Ta
+/: Doar omul e singurul care
+N-ascultă de vocea Ta :/
+
+[c]
+Omule omule, ia bine seama
+Nu poți trăi așa cum vrei pe-acest pământ
+Căci Dumnezeu, El ți-a dat viața
+Și ți-a cerut un trai curat și-un legământ
+
+[v2]
+De ce te împietrești și n-asculți chemarea?
+De ce de Satan te lași amăgit?
+/: Există o singură cale
+Prin care poți fi mântuit :/
+
+[v3]
+Isus este calea, adevarul, viața
+Prin El mântuire și pace găsești
+/: Grăbește de salvează-ți viața
+Căci mâine nu știi de mai ești :/
+
+[v4]
+Acum ai harul și poți a te-ntoarce
+Din traiul murdar și rușinos
+/: Isus te primește te iartă
+Renunță la ce-i păcătos :/

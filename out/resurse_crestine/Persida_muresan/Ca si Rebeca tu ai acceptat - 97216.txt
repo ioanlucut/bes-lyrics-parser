@@ -1,0 +1,53 @@
+[title]
+Ca si rebeca tu ai acceptat {author: {Persida Mureșan}, {rcId: {97216}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Ca și Rebeca tu ai acceptat
+Destinul vieții care te-a chemat
+Destinul care te va-nstrăina
+De toți acei ce te-au înconjurat!
+
+[c]
+De toți acei ce te-au iubit și ai iubit cu drag
+De mamă, tată ce de-acum rămân plângând în prag
+/: Rămân atâtea clipe de dulce amintire
+Pentru toți cei ce te-au înconjurat! :/
+
+[v2]
+Păstrează-n gând atâtea sfaturi bune
+Pe care-n viață noi ți-am dăruit
+O, fiica noastră mergi de-acum ’nainte
+Fii fericită până la mormânt!
+
+[c2]
+Noi vom rămâne-n urma ta, dar nu vom înceta
+Să te iubim și-n rugăciuni mereu a te purta
+/: Căci vrem ca-n ziua sfântă să fii și tu răpită
+Când Domnul își va lua mireasa Sa :/
+
+[v3]
+Despre Rebeca noi nu am aflat
+Dacă-napoi s-a mai întors vreodat’
+Însă al nostru dor nu va-nceta
+Să reveniți la noi vom aștepta!
+
+[c3]
+De azi vom sta mai mult în poarta casei așteptând
+Căci dragostea ce ți-am purtat atâția ani la rând
+/: Ne leagă pe vecie și-am vrea cu bucurie
+Din când în când acasă să veniți! :/
+
+[v4]
+Isuse drag, noi ți-i încredințăm
+În brațul Tău de astăzi ți-i predăm
+Coboară har de sus din cerul Tău
+La cununia lor noi te rugăm
+
+[c4]
+Unește-i Tu pentru vecie, Isuse iubit
+Căminul lor să fie de-astăzi de Tine păzit
+/: Și-n dragostea Ta mare, dă binecuvntare
+Căminul să le fie fericit! :/

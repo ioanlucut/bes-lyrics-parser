@@ -1,0 +1,25 @@
+[title]
+Umpie-ti ulciorul cu apa vietii {author: {Nicolae Moldoveanu}, {rcId: {246453}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Ump
+Ie-ți ulciorul cu Apa Vieții
+/: Și du-l cu grăbire, :/
+Colo-n pustia în care drumeții
+/: Sunt arși peste fire. :/
+
+[v2]
+Toarnă-le-n inimi răcoare divină,
+/: Ridică-i la viață. :/
+Șterge-le ochii de pulberea fină
+/: Și calea-i învață! :/
+
+[v3]
+Ump
+Ie-ți ulciorul și vino acasă
+/: Cu-aceia pe care :/
+Apa Vieții Ie-a dat o frumoasă
+/: Și plină intrare. :/

@@ -1,0 +1,53 @@
+[title]
+In fata ta {author: {Nicolae Moldoveanu}, {rcId: {240889}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c
+
+[v1]
+O, Doamne, doar în Fața Ta,
+Eu pot trăi-n lumină,
+Seninul ei îmi poate da
+O față-n veci senină.
+
+[c]
+Fă mereu să strălucească
+Peste mine Fața Ta,
+Din lumina ei cerească,
+Să trăiesc viața mea.
+
+[v2]
+În Fața Ta primesc divin
+Belșug de har si pace,
+Frumusețea ei tot mai deplin,
+Un chip frumos îmi face.
+
+[v3]
+În Fața Ta mă luminez
+De-o sfântă bucurie,
+Că-n taina ei eu mă păstrez
+Întreg în curăție.
+
+[v4]
+În Fața Ta adâncul meu
+Se umple de credință,
+Puterea ei îmi dă mereu,
+Puteri de biruință!
+
+[v5]
+În Fața ta mă odihnesc
+De-a lumii frământare,
+Numai acolo-mi regăsesc
+A inimii-alinare.
+
+[v6]
+În Fața Ta, comori de cer,
+Cuprind a mea viață,
+Năluci din lume toate pier,
+Când stau în sfânta-ți Față.
+
+[v7]
+Păstrează-mă în Fața Ta,
+Stăpânul meu puternic,
+Căci numai luminat de ea,
+Eu pot trăi cucernic!

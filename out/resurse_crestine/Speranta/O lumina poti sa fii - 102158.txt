@@ -1,0 +1,27 @@
+[title]
+O lumina poti sa fii {author: {Speranța}, {rcId: {102158}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Lumina ce-i aprinsă nu poate fi ascunsă
+Lumina care arde se vede-n neagra noapte
+/: Oricât de greu e drumul și bezna cât de mare
+Făclia care arde se vede-n depărtare :/
+
+[c]
+O lumină poți să fii, ca stelele poți străluci
+Răspândind în jurul tău lumină de la Dumnezeu
+
+[v2]
+Să fim lumini în lume, Domnu-așa ne spune
+Candela să ne ardă, în lume să se vadă
+/: L-avem cu noi pe Domnul, Isus, Lumina Vie
+Făclia care arde se vede-n veșnicie :/
+
+[v3]
+În lumea de păcate statornic să rămâi
+În fapte de credință să fii cel dintâi
+/: Și-atunci când Domnul Isus pe nori va apărea
+Făclia care arde la El o va lua :/

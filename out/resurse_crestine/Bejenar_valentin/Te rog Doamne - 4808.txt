@@ -1,0 +1,35 @@
+[title]
+Te rog doamne {author: {Bejenar Valentin}, {rcId: {4808}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Te rog Doamne în durere
+Să-mi dai Tu doar mângâiere
+/: Prin credință, prin credință,
+În voia Ta. :/
+
+[v2]
+Te rog Doamne dă-mi putere,
+Să pot trece prin durere,
+/: Prin credință, prin credință,
+În voia Ta. :/
+
+[v3]
+Când cel rau mereu lovește,
+Te rog pasul, mi-l întărește
+/: Prin credință, prin credință,
+În voia Ta. :/
+
+[v4]
+Când mă duc la adunare,
+Pune-mi-n gură o cântare.
+/: Prin credință, prin credință,
+În voia Ta. :/
+
+[v5]
+Când vrăjmașul mă răpune, 
+Dă-mi un duh de rugăciune.
+/: Prin credință, prin credință,
+În voia Ta. :/

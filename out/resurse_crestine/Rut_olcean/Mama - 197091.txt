@@ -1,0 +1,29 @@
+[title]
+Mama {author: {Rut Olcean}, {rcId: {197091}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+Vreau să-Ți mulțumesc pentru mama mea
+Ființa pe care o iubesc
+Ea intră cu mine-n joc și în lumea mea
+Mă-ndrumă pe calea către cer
+
+[c]
+E mama care-mi dă speranță
+În fiecare dimineață
+M-a cucerit și m-a iubit
+M-ascultă și mă sfătuiește
+M-ajută și mă liniștește
+E mama Darul de la Dumnezeu
+
+[v2]
+Dumnezeu a pus în mama mea
+Atâta dragoste, atâta har
+Vreau să-i mulțumesc cum aș putea
+Răsplăti răbdarea ta cu-ascultarea mea
+
+[b]
+Te iubesc mama, îți mulțumesc mama
+Pentru tot ce faci în viața mea

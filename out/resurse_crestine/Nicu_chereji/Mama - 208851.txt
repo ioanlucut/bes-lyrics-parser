@@ -1,0 +1,41 @@
+[title]
+Mama {author: {Nicu Chereji}, {rcId: {208851}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mi-e dor să o mai aud pe mama
+Mi-e dor să o mai aud cum spune:
+Veniți copii masa e gata
+V-am pregătit lapte și pâine
+V-am pregătit și așternutul,
+În sobă ard multe vreascuri
+Lumina încă e aprinsă,
+Veniți copii masa e-ntinsă.
+
+[c]
+Mama, nume prețios, mama, ce cuvânt frumos!
+Se îngrijește pan’ la bătrânețe
+De odrasla ei din tinerețe,
+Mamă bună mult iubită mamă!
+
+[v2]
+Mi-e dor s-o văd cum mai zâmbește
+Cu a ei senină înfățișare
+Mi-e dor să-i spun cu bucurie
+Ca sunt pe-a Domnului cărare
+Îmi amintesc ce fericită,
+Era când ne vedea la masă
+Cu ochii plini de lacrimi mama
+Plângea nespus de bucuroasă!
+
+[v3]
+O, mamă simte întotdeauna
+Când ești cuprins de îngrijorare
+Și-atunci când ochi-ți lăcrimează
+Îți dă cuvânt de încurajare
+Iubește-ți mama și-i dă cinste
+Dacă mai este încă în viață,
+Săruta-i mâna și obrazul,
+În fiecare dimineață!

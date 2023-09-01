@@ -1,0 +1,17 @@
+[title]
+Biblia copiilor {author: {Alexandru Groza}, {rcId: {193534}}
+
+[sequence]
+v1,v2
+
+[v1]
+Din Biblia copiilor eu am citit despre David
+C-a fost un mare împărat peste Ierusalim
+Pe Dumnezeu îl lăuda, cântând mereu cu harfa sa
+De dragul Domnului cânta, inima-și închina!
+
+[v2]
+De bunătatea Domnului doresc și eu să cânt mereu
+Să îl iubesc pe Dumnezeu din tot sufletul meu
+El mă ferește de-orice rău, El mă ajută când mi-e greu
+Smerit, din inimă doresc Domnului să-I slujesc!

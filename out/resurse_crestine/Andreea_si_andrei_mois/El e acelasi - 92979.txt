@@ -1,0 +1,27 @@
+[title]
+El e acelasi {author: {Andreea și Andrei Mois}, {rcId: {92979}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+O stâncă tare e Domnul în viața mea
+Orice val ar veni mă susține mâna Să
+În El îmi pun nădejdea
+Și când am fost în furtuni El m-a ridicat
+Dumnezeu a fost mereu cel ce pace mi-a redat
+El te ascultă ne-ncetat, deci nu uita:
+
+[c]
+Același în veci de veci e Dumnezeu
+Același în viața mea e Domnul meu
+Cu Isus vei birui, în brațul Său vei fi
+Neschimbat, neschimbat e Domnul meu.
+
+[v2]
+Să înțelegi că orice ar veni în viața
+Dumnezeu are-un timp și în el lucrează
+Spre binele tău, deci nu uita...
+
+[e]
+/: Încrede-te în El :/ x3

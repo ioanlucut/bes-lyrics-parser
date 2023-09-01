@@ -1,0 +1,45 @@
+[title]
+Te-am intalnit candva atuncea {author: {Puiu Chibici}, {rcId: {58477}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Te-am intalnit candva atuncea
+In ceasul vietii cel mai greu
+Si cat de-amara mi-a fost crucea
+O stii Isus, doar Tu si eu
+
+[c]
+/: O stii, c-ai fost si Tu acolo
+Povoara ei cand m-a rapus
+Si cat am plans in grea durere
+O stii doar Tu si eu, Isus :/
+
+[v2]
+Te-am intalnit cand pe-o carare
+Fara de tinta rataceam
+Si mi-ai adus in suflet soare
+Si peste rani mi-ai pus balsam
+
+[c2]
+/: M-ai prins Isus cu drag de mana
+Si m-ai adus pe calea Ta
+Si langa inima Ta buna
+Ai pus atunci fiinta mea :/
+
+[v3]
+Ne-am intalnit din nou cand cainii
+Rupeau din trupul Tau sleit
+Atunci pe dealul Capatanii
+Si-am inteles cat m-ai iubit
+
+[c3]
+Eu n-am putut atunci o Doamne
+Acel calvar sa il opresc
+Nici sa-ti scot cuiele din palme
+Nici fruntea sa ti-o racoresc
+Dar cad neputincios Stapane
+Si-ngenunchez la crucea Ta
+Si-Ti multumesc ca din ruine
+Tu ai salvat viata mea

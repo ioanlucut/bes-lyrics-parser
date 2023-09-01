@@ -1,0 +1,35 @@
+[title]
+Nimic nu-i trecator ca viata {author: {Nicolae Moldoveanu}, {rcId: {5554}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Nimic nu-i trecător ca viața
+Și nici mai veșnic decât ea
+/: Poți ori s-o pierzi, ori poți s-o mântui
+Depinde de voința ta. :/
+
+[v2]
+Nimic mai trecător ca viața,
+Dar nici mai veșnic decât ea
+/: Poți să traiești în har sau flăcări:
+Depinde de voința ta. :/
+
+[v3]
+Nimic nu-i mai amar ca viața,
+Dar nici mai dulce decât ea
+/: Poți face-n ea, ori rău, ori bine:
+Depinde de voința ta. :/
+
+[v4]
+Nimic nu-i mai înalt ca viața,
+Dar nici mai josnic decât ea
+/: Poți fi înger, poți fi demon:
+Depinde de voința ta. :/
+
+[v5]
+Iar, de la clipa morții tale,
+În veci de veci și-n veci vei sta
+/: Ori cu Hristos, ori cu Satana:
+Depinde de voința ta. :/

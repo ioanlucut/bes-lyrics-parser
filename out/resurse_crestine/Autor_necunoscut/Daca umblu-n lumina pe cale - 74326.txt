@@ -1,0 +1,29 @@
+[title]
+Daca umblu-n lumina pe cale {author: {Anonim}, {rcId: {74326}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Dacă umblu-n lumină pe cale,
+De trudi-voi mereu, zi de zi,
+Voi avea în sfârșit sărbătoare
+Când cu Isus voi fi-n veșnicii.
+
+[c]
+/: Alergarea mea atunci s-a sfârșit
+Și de toate mă voi odihni,
+Mângâiat al meu suflet îmi va fi
+Când cu Isus voi fi-n veșnicii. :/
+
+[v2]
+De vesti-voi Cuvântul vieții
+Și aceia pierduți l-or primi,
+Bucura-mă-voi în cer cu sfinții,
+Când cu Isus voi fi-n veșnicii.
+
+[v3]
+Pe pământ, întristări sunt pe cale.
+Tot mai scurte, mai mici bucurii,
+Dar uita-le-voi în ziua mare,
+Când cu Isus voi fi-n veșnicii.

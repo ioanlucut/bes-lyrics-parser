@@ -1,0 +1,29 @@
+[title]
+I stand amazed in the presence {author: {Charles Hutchinson Gabriel, Traducere RO}, {rcId: {100404}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Eu stau uimit în prezența
+Lui Isus din Nazaret;
+Și vreau să-I cânt: Aleluia!
+Slăvit fii, Emanuel!
+
+[c]
+Ce minunat, ce minunat
+Cântul meu se va-nălța,
+Ce minunat, ce minunat
+Domnul este pacea mea.
+
+[v2]
+El a luat ale mele
+Necazuri și nevoi
+Și a murit sus pe cruce,
+Pentru păcatul meu.
+
+[v3]
+Atunci când pe nori în glorie,
+Eu fața îi voi vedea;
+Uimit de a Lui splendoare,
+Eu slavă îi voi cânta.

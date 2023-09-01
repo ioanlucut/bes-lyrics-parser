@@ -1,0 +1,35 @@
+[title]
+Cant aleluia {author: {Exodul}, {rcId: {187856}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Ce dragoste, ce iubire, ce bucurie
+Isus, să te naști, să fii om
+Ai părăsit divina strălucire
+Și-ai coborât la omul muritor
+
+[c]
+Cânt Aleluia S-a născut Mesia
+Astăzi toți să ne bucurăm
+Căci pe pământ a venit lumina
+În casă noastră s-o avem
+
+[v2]
+Fă din inima ta o iesle
+Un loc pentru Împărat
+Se se nască în ea dorește
+Și-atunci vei fi cel mai bogat
+
+[v3]
+Copil plapând care-ai adus iubirea
+Ce pace în suflet mi-ai lăsat
+Prin fecioara curată Maria
+Te-ai născut și lumea intreag-ai salvat
+
+[e]
+S-a născut, s-a născut, s-a născut
+Ne-a salvat
+S-a născut, s-a născut, s-a născut
+Isus

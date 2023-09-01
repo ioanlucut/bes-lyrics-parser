@@ -1,0 +1,24 @@
+[title]
+Vin cu drag la adunare {author: {Nicolae Moldoveanu}, {rcId: {230381}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Vin cu drag la adunare, c-o iubesc, c-o iubesc,
+și chiar dacă nu sunt mare, când e zi de sărbătoare,
+cu părinții spre-adunare mă grăbesc, mă grăbesc.
+
+[c]
+Aici ascult cântări și rugăciuni,
+aici toți învățăm să fim mai buni, să fim mai buni.
+
+[v2]
+Vin cu drag la adunare, căci aici, căci aici,
+Dumnezeu cel Bun și Mare ne învață ascultare,
+ne dă har la fiecare, mari și mici, mari și mici.
+
+[v3]
+Vin cu drag la adunare căci și eu, căci și eu,
+chiar de nu sunt astăzi mare, dau din inimă-nchinare
+Celui mai presus de soare, Dumnezeu, Dumnezeu.

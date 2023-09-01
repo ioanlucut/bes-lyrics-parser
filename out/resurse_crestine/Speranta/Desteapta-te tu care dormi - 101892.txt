@@ -1,0 +1,37 @@
+[title]
+Desteapta-te tu care dormi {author: {Speranța}, {rcId: {101892}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Deșteaptă-te tu care dormi
+Și nu veghezi în noapte
+Ridică-te, ridică-te
+Că zorii sunt aproape
+Că ațipirea ta de-acum
+Te poate costa viața
+Dacă tu ieși din sfântul drum
+Îți pierzi toată răsplata
+
+[c]
+/: Că timpul este pe sfârșit
+Și vesnicia-i lungă
+Tu poți cu Isus ca să fii
+Sau în infern în umbră :/
+
+[v2]
+E drept că-i greu de ’naintat
+Când mulți adorm pe cale
+Dar dacă crezi și dacă lupți
+Tot somnul va dispare
+Dacă nu ști de-ai ațipit
+Și nu-nțelegi ce-i somnul
+Întreabă-te dacă rodești
+Rodul care-l vrea Domnul
+
+[c2]
+/: De-ai observat c-ai ațipit
+Apucă-n graba mare
+Cuvântul, postul, rugăciunea
+Și vei primi iertare :/

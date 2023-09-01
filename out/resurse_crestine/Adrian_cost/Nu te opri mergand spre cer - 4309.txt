@@ -1,0 +1,30 @@
+[title]
+Nu te opri mergand spre cer {author: {Adrian Cost}, {rcId: {4309}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Nu te-opri mergând spre cer
+Când calea-i tot mai grea
+Nu zice nu când Domnul vrea
+Să-ncerce inima ta.
+
+[c]
+De mână cu El și-n greu vei birui
+Nu te bizui nicicând pe ceea ce tu ști
+Recunoaște-L ca și Domn
+În toate căile tale
+Iar El îți va netezi a ta cărare.
+
+[v2]
+Nu te opri mergând spre cer
+Când vrășmașii tăi te strigă
+Nu-nceta să ai un suflet cald
+Credința-n Isus are să-nvingă.
+
+[v3]
+Nu te-opri mergând spre cer
+Când lumea îți stă în față
+Tu ești salvat, mai fă un pas
+Căci Isus te-așteaptă acasă.

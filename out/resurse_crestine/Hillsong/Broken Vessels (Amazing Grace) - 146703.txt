@@ -1,0 +1,27 @@
+[title]
+Broken vessels (amazing grace) {author: {Hillsong, Traducere RO}, {rcId: {146703}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Tot ce-mi văd ochii, și simte duhul,
+Ce mă ’nconjoară, Doamne Tu ești,
+Nu vreau să tac dar, vreau să te laud,
+Căci m-ai iubit, și mă iubești.
+
+[c]
+Mărețul har, ce minunat, 
+Eu sunt prin el salvat, ooo
+Pierdut am fost, dar m-ai găsit,
+Văd clar și n-am orbit.
+Și-acum pot vedea, pot vedea,
+Dragoste din privirea Ta,
+Zdrobit am fost dar m-ai mîngîiat,
+Și cu blîndețe mai îmbrățișat.
+
+[v2]
+Orice cădere și slăbiciune,
+Mărețul har le-a acoperit,
+Ia-mi viața Doamne, și folosește-o,
+Ca să iubesc cu Tu-ai iubit.

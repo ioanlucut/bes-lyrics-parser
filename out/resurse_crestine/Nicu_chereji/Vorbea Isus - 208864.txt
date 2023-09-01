@@ -1,0 +1,35 @@
+[title]
+Vorbea isus {author: {Nicu Chereji}, {rcId: {208864}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Vorbea Isus pe vremea aceea
+Vorbea norodului de atunci,
+Se-adunau cu mic cu mare
+S-audă a Lui cuvinte dulci
+
+[c]
+Glasul lui Isus, și al Său Cuvânt
+Ne da viața ne hrănește, pe acest Pământ
+În prezenta Sa, dacă vei trăi,
+Ca un pom pe malul apei, viața-ți va înflori
+
+[v2]
+Cât de adânc și de temeinic,
+Era Cuvântul Lui Hristos
+Chiar și acum iubite prieten
+Poate să-ți fie de folos.
+
+[v3]
+El poate azi ca și pe vremuri
+Să înmulțească pâinea ta
+Și chiar doi pești de ai la masă
+Toți cei din jur s-or sătura
+
+[v4]
+Cuvântul Lui ne dă nădejde
+Cuvântul Lui ne dă avânt,
+Ne luminează viața întreagă
+Să fim lumini pe-acest pământ.

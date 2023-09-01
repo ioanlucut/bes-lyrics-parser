@@ -1,0 +1,29 @@
+[title]
+Ce bine e ca sa stii {author: {Anonim}, {rcId: {74288}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ce bine e ca să știi
+Că ai în cer Tată.
+Asupra-ți orice-ar veni
+Uitat nu te lasă.
+
+[c]
+Eu astăzi cânt și sunt voios
+Că Dumnezeu e Tatăl meu,
+Eu astăzi cânt și sunt voios,
+Cu mine e mereu Christos.
+
+[v2]
+Chiar dac-ar fi ca să pierzi
+Pe tată sau mamă,
+În Dumnezeu să te-ncrezi;
+Te are în seamă.
+
+[v3]
+Iubește pe Dumnezeu
+Din tot sufletul tău,
+De El nu te despărți,
+Ci credincios să-i fii.

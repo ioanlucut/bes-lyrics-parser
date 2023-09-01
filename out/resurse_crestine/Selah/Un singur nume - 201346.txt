@@ -1,0 +1,32 @@
+[title]
+Un singur nume {author: {Selah}, {rcId: {201346}}
+
+[sequence]
+s,c,s2,c,e,c
+
+[s]
+: Un singur nume pentru care vreau să cânt
+Vreau să-L laud:
+Vreau să îi spun
+
+[c]
+Tu ești al meu Salvator
+Bun Prieten pe drum
+Pace îmi ești în furtuni
+Isus, ai fost și rămâi
+Tu ești al meu Salvator
+Bun prieten pe drum
+Pace îmi ești în furtuni
+Isus, ai fost și rămâi
+
+[s2]
+: Ești Mijlocitor la dreapta Tatălui
+Zi și noapte:
+În afara timpului
+
+[e]
+: Isus orice-ar fi, Tu mă iubești
+Când sunt obosit mă întărești
+Pace îmi dai în furtuni
+Isus, o faci chiar și-acum:
+Isus, o faci chiar și-acum

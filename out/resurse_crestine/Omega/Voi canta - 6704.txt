@@ -1,0 +1,29 @@
+[title]
+Voi canta {author: {Omega}, {rcId: {6704}}
+
+[sequence]
+c,v1,v2,c2
+
+[c]
+Și voi cânta în cor de îngeri,
+Arhangheli și cu serafimi
+Și Îi voi da slavă Lui Isus,
+Mireasa Lui în cer să fiu!
+
+[v1]
+Eu voi zbura-n curând spre ceruri
+În fața Lui să mă închin.
+Și voi mânca din Pomul Vieții,
+Voi bea din râul cristalin.
+
+[v2]
+Voi fi cu-Avraam, Isaac și Iacov,
+Întreg poporul Israel,
+Toți cei ce-L urmează azi pe Isus
+Vor fi pe veci în cer cu El.
+
+[c2]
+/: Și vom cânta în cor de îngeri,
+Arhangheli și cu serafimi,
+În limbi cerești spre slava Celui,
+Ce ne-a creat, ai Lui să fim! :/

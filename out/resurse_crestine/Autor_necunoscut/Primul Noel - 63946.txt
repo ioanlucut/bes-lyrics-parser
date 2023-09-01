@@ -1,0 +1,21 @@
+[title]
+Primul noel {author: {Anonim}, {rcId: {63946}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Primul Noel l-au auzit,
+Păstorii ce au străjuit,
+Noaptea în câmp turmele lor,
+Când îngerii cântau în cor.
+
+[c]
+/: Noel, Noel :/
+Ni s-a născut Emanuel.
+
+[v2]
+Iar magii de la răsărit,
+Cu daruri la El au venit.
+Aur, smirnă și tămâie,
+După cum și-n carte scrie.

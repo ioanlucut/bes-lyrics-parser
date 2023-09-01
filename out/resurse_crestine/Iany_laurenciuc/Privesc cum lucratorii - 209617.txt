@@ -1,0 +1,56 @@
+[title]
+Privesc cum lucratorii {author: {Iany Laurenciuc}, {rcId: {209617}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Privesc cum lucrătorii
+Pe ogor au obosit.
+Neghina ia amploare
+În grâu a încolțit.
+Trudiții lucrători
+Se întorc spre casă,
+Arși de năduful zilei
+Cu inimi bucuroase.
+
+[c]
+/: Se lasă noaptea pe pământ,
+Sfârșește lucru-n sfânta vie.
+La umbră mulți au adormit,
+Spunând ”
+Stăpânul întârzie,
+El zăbovește, nu mai vine”
+Acceptă mulți șoapte străine,
+Și scufundați în amorțeală
+Vor plânge mulți la ușă afară :/
+
+[v2]
+Privește-o clipă în urmă
+Câți snopi ai adunat?
+Răspuns trebuie să ai
+La tot ce ai lucrat.
+Nu stați în nepăsare,
+Veniți la lucru-n vie.
+Lucrați cu dăruire,
+Căci vremea e târzie.
+
+[v3]
+Priviți la holda plină
+Cum unduie în vânt.
+Cu milă ridicați
+Pe-acel căzut, înfrânt.
+Lăsați în grâu neghina,
+Lăsați-o, așa e scris.
+Până în ziua sfântă
+A marelui seceriș.
+
+[v4]
+Stăpânul își va strânge
+Tot grâul în hambar.
+Neghina-n foc va arde
+Tot ce-i firesc, murdar.
+Veniți în ultim ceas
+Și plata veți primi,
+Când lucrul va fi gata
+Stăpânul va veni.

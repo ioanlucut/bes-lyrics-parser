@@ -1,0 +1,29 @@
+[title]
+Ce e omul pe pamant {author: {Anonim}, {rcId: {160747}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ce e omul pe pamant
+Ce e omul de sub soare
+Nu-i decat o frunza-n vant
+E doar o umbra trecatoare
+
+[c]
+/: Caci slabi suntem Isus de-atatea ori
+Si ne lasam condusi de valul vietii
+Ajuta-ne a nost Mantuitor
+S-alegem drumul ce da sens vietii :/
+
+[v2]
+Strange omul si agoniseste
+Alearga mult din zori, pana-n apus
+Nu termina, moartea-n grab soseste
+Caci are un cuvant si ea de spus.
+
+[v3]
+Lasa tot si toata osteneala
+Acolo nu-ti va fi de vreun folos
+Ce ai facut nimic nu se mai spala
+De nu-L primesti azi pe Isus Cristos.

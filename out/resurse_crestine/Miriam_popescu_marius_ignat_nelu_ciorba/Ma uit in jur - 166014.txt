@@ -1,0 +1,39 @@
+[title]
+Ma uit in jur {author: {Miriam Popescu, Marius Ignat, Nelu Ciorba}, {rcId: {166014}}
+
+[sequence]
+v1,c,v2,c2,e,c3
+
+[v1]
+Mă uit în jur, mă regăsesc atât de obosit
+Privesc în urmă, vreau să știu unde-am greșit?
+Dezamăgit, mă copleșesc, sunt mult îngrijorat
+Sunt un captiv în bezna de păcat.
+
+[c]
+Mă uit la floarea din câmpie, viața ei i-o armonie
+Ce răspândește o mireasmă-n jurul ei.
+Mă spre ceruri și la stele, la Cine-a pus mișcare-n ele,
+O, Domnul meu, viața-i un mister.
+
+[v2]
+Cu fața mea înlăcrimată Îl caut doar pe El,
+Mă uit în mine și-am să tac, o, Domnul meu!
+Zi un cuvânt în dreptul meu, te voi asculta,
+Sunt doar un om, Tu, Dumnezeu, Aleluia!
+
+[c2]
+Să pot să văd mi-atât de greu, o, Doamne sunt un Bartimeu,
+Tânjesc în plânset și greu suspin!
+Mă regăsesc, sunt ciob în tină, trimite Tu din cer lumină
+Să mă ridic din neputința mea!
+
+[e]
+/: Atunci eu ochii mi-i deschid, cobor în duhul meu zdrobit,
+Sunt doar un om ce vrea lumina Ta! :/
+
+[c3]
+Să văd în Tine măreția, să pot atinge veșnicia
+Pe culmile de har să Te ating.
+Prin Duhul Sfânt al meu trecut iartă-l și dă-mi un început,
+/: Atinge-mă să văd lumina Ta! :/

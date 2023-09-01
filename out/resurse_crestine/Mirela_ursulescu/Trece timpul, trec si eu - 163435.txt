@@ -1,0 +1,41 @@
+[title]
+Trece timpul trec si eu {author: {Mirela Ursulescu}, {rcId: {163435}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c2
+
+[v1]
+Trece timpul, trec și eu, treci și tu amicul meu
+Trec și anii rând pe rând, călător ești pe pământ
+Dar tu trebuie să știi că Isus va reveni
+Fie noapte, fie zi, pregătit tu să fii!
+
+[c]
+Isus Cristos din slava Lui o sa revină
+Îmbrăcat în haine albe de-mpărat
+El va lua pe-alesii Săi în țara sfântă
+O veșnicie la masa Lui noi vom serba.
+
+[v2]
+Zi de zi te zbați într-una să aduni comori ce ard
+Uiți că toate sunt doar goană, uiți de al tău Împarat
+Și alergi încoace, încolo, nu mai vezi nimic păcat
+Te-ai obișnuit cu lumea, de Isus te-ai depărtat.
+
+[v3]
+Uiți să ierți, să fii exemplu, să iubești, să fii umil,
+Chiar urăști al tău aproape, uiți să fii ca un copil,
+Uiți că Domnul și-a dat viața și la moarte condamnat
+Să primești în dar iertare, azi cu Domnul să te-mpaci.
+
+[v4]
+Astăzi cât încă se mai poate Domnul vrea să vii la El
+Vrea să lași păcatul lumii, nu-amâna amicul meu.
+Luptă pentru veșnicie, lasă azi trecutul tău
+Ca să scapi de focul veșnic, să fii sus cu Dumnezeu.
+
+[c2]
+Când trâmbița va răsuna să fim toți gata,
+Vom primi răsplata toți din mâna Sa
+Al nostru Mire El va fi, iar noi Mireasa,
+Dac-aici lupta o vom câstiga.

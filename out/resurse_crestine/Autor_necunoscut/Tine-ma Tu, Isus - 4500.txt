@@ -1,0 +1,29 @@
+[title]
+Tine-ma tu isus {author: {Anonim}, {rcId: {4500}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Plâng acum, mă doare sufletul
+Griji, poveri, amărăciuni, păcat,
+Mă afundă în noroi din nou;
+Singur sunt, departe de Isus
+Mă târăsc și mă simt rușinat
+Dar Isus de mâna m-a luat.
+
+[c]
+/: Ține-mă Tu, Isus :/
+Ține-mă Tu, Ține-mă Tu;
+/: Ține-mă Tu, Isus :/
+Ține-mă Tu, Ține-mă Tu.
+
+[v2]
+Simt păcatul greu asupra mea
+Rece tremur sub povara sa
+Și-atunci strig: ”
+Isus nu mă lasă!”
+Și-ntr-o clipă El m-a ridicat,
+Și putere, dragoste mi-a dat:
+”
+Doamne-ți mulțumesc că m-ai salvat!”

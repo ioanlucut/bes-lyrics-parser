@@ -1,0 +1,39 @@
+[title]
+Ce minunat esti {author: {Nicolae Moldoveanu}, {rcId: {247878}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Ce minunat ești în lumina
+Cerească-n care ni Te-arați,
+/: Când fericit răsfrângi iubirea-Ți
+În ochii cei mai preacurați. :/
+
+[c]
+Ce minunat, ce minunat,
+Isus, cu Tine totu-i minunat.
+
+[v2]
+Ce minunat ești în tăcerea
+De dup-al rugăciunii har,
+/: Când tot pământul ’l-nveșmântă
+Al cerurilor nehotar. :/
+
+[v3]
+Ce minunat ești pretutindeni,
+Prin raze și-armonii plutind,
+/: Ale iubirii Tale unde
+Cu mii de brațe ne cuprind. :/
+
+[v4]
+Ce minunat ești în fiorul
+Ce-n inimi îl simțim la fel,
+/: Când nu știm dacă-n noi e cerul
+Sau dacă noi suntem în el. :/
+
+[v5]
+Ce minunat poți fi pe toate
+Cărările ce-n noi pătrunzi,
+/: Dar ce-ntuneric e-n prea multa
+Lumină-n care ni Te-ascunzi! :/

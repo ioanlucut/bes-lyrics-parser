@@ -1,0 +1,35 @@
+[title]
+Vino isus la nunta {author: {Anonim}, {rcId: {59247}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Vino, Isus, la nuntă!
+Vino, de ia Tu parte,
+Și-o bucurie sfântă,
+Vino, și-n veci va fi.
+
+[c]
+Binecuvântă-i Doamne,
+Noi Te rugăm acuma,
+Să fie-uniți de Tine,
+Pentru totdeauna.
+
+[v2]
+Unește-i Tu în viață,
+Unește-i pân’ la moarte,
+Unește-i și-i învață, 
+Ca sfinți să se poarte!
+
+[v3]
+Noi Te rugăm, Isuse, 
+Pe veci să-i ții la Tine,
+Să fie-iubiți de Tine,
+La nuntă-n mărire.
+
+[v4]
+Mai este înc-o nuntă,
+O nuntă minunată,
+Căsătoria sfântă,
+Ce-n veci nu se gată.

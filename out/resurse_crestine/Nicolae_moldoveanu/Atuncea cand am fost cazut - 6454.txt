@@ -1,0 +1,30 @@
+[title]
+Atuncea cand am fost cazut {author: {Nicolae Moldoveanu}, {rcId: {6454}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Atuncea când am fost căzut
+În mâini de sânge pline
+/: Atâția oameni au trecut
+Șirag pe lângă mine. :/
+
+[v2]
+Ce mulți cu jale m-au privit
+Căzut acolo-n cale.
+/: Dar vai, niciunul n-a venit
+Din tină să mă scoale. :/
+
+[v3]
+Niciunul nu s-a-nduioșat
+Să-mi șteargă plânsu-n gene.
+/: Tu singur Te-ai apropiat
+Isus, Samaritene! :/
+
+[v4]
+A mele răni adânci, le-ai uns
+Durerea sa se-aline;
+/: Iar eu la pieptul Tău ascuns
+Plângeam,”
+Rămâi cu mine”. :/

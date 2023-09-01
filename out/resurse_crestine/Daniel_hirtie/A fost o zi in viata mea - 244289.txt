@@ -1,0 +1,35 @@
+[title]
+A fost o zi in viata mea {author: {Daniel Hîrtie}, {rcId: {244289}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+A fost o zi în viața mea
+Când mi s-a clătinat credința
+Dar Dumnezeul meu cel bun,
+Mi-a dat din ceruri biruința.
+
+[c]
+Cât voi trăi, cât voi sulfa,
+Voi spune El e Stânca mea!
+N-am meritat să fiu salvat,
+Dar mâna Lui m-a vindecat!
+
+[v2]
+A fost o zi în viața mea
+Când am văzut ce slab e omul,
+Nu este nimeni minunat,
+Nici mai puternic decât Domnul!
+
+[v3]
+A fost o zi când m-a luat
+Iubirea lui Isus de mână.
+Trăiesc și cânt prin voia Lui,
+Să pot primi în cer cunună.
+
+[v4]
+A fost o zi, dar va veni
+Adevărata zi în care
+Vom fi cu Domnul pe vecii,
+De-L vom sluji cu ascultare.

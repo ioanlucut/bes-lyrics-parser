@@ -1,0 +1,35 @@
+[title]
+Staruieste-n rugaciune {author: {Alexandru Groza}, {rcId: {185318}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Stăruiește-n rugăciune,
+Roagă-te, sufletul meu!
+Lasă-ți grijile de-o parte!
+Roagă-te lui Dumnezeu!
+Mai stăruiește-n rugăciune,
+Zidește-te, sufletul meu,
+În părtășia ta cu Domnul
+Te va întări mereu
+
+[c]
+Mai roagă-te, sufletul meu!
+Încrede-te în Dumnezeu!
+Mai roagă-te, sufletul meu,
+Mai roagă-te!
+Zidește-te, sufletul meu,
+Să-i fii plăcut lui Dumnezeu!
+Mai roagă-te sufletul meu,
+Mai roagă-te!
+
+[v2]
+Stăruiește-n rugăciune!
+Închină-te, sufletul meu!
+Unește-te cu veșnicia!
+Laudă-L pe Dumnezeu!
+Mai stăruiește-n rugăciune,
+Slăvește-L suflet, pe Isus
+Și mulțumește-I cu iubire
+Pentru Harul Lui cel sfânt!

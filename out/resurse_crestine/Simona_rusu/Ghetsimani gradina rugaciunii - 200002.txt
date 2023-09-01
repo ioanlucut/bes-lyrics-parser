@@ -1,0 +1,54 @@
+[title]
+Ghetsimani gradina rugaciunii {author: {Simona Rusu}, {rcId: {200002}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Ghetsimani grădina rugăciunii
+Doar tu știi durerea Lui Isus
+Tu știi taina rugăciunii Sale
+Tu-ai văzut când a fost prins
+
+[c]
+/: Tu-ai văzut când au venit ostașii
+Tu-ai văzut când L-au încătușat
+Ghetsimani tu ai văzut arginții
+Tu-ai văzut cum Iuda L-a trădat :/
+
+[v2]
+Dat pe mâna celor mai de seamă
+Preoți, farisei și cărturari,
+Huiduit, trimis la moarte
+În locul unui tâlhar
+
+[c2]
+/: Oamenii L-au judecat cu ură
+Pe Acel ce bine le-a făcut
+Pe Isus ce bolnavi vindecase
+El, ce mântuirea le-a vestit. :/
+
+[v3]
+Bice, lanțuri reci și mari piroane
+Fără milă trupul i-au străpuns,
+Greul crucii și hula mulțimii
+Pe dealul Golgotei L-au răpus.
+
+[c3]
+/: Miel Preasfânt din cer cu câtă milă
+Ai privit spre ei și te-ai rugat
+Tatălui iubit din veșnicie
+„
+Iartă-i, Tată, căci nu știu ce fac!” :/
+
+[v4]
+Nu L-au biruit bătăi amare
+Crucea și nici spinii n-au putut.
+Răul n-a avut nicio putere
+Căci Isus, El moartea a biruit.
+
+[c4]
+/: Să-I cântăm cu toții Osana!
+Isus este viu, Aleluia!
+Viață am dobândit prin jertfa Sa
+Ne-a răscmpărat la Golgota.

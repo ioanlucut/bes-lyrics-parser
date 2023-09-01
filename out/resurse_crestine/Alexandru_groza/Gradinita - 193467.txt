@@ -1,0 +1,21 @@
+[title]
+Gradinita {author: {Alexandru Groza}, {rcId: {193467}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Grădinița noastră-i plină de flori în multe culori
+Toate au crescut frumoase din dragoste pentru noi
+
+[c]
+/: Domnul le-a creat pe toate, le iubesc și le ador
+Ce frumos sunt colorate, le admir și le ador! :/
+
+[v2]
+Când păși-voi printre ele nu vreau ca să le strivesc
+Vreau doar ca să rup o floare, mamei ca să-i dăruiesc
+
+[v3]
+Iar când eu voi crește mare, cu drag le voi ocroti
+Că și Domnul le iubește, și pe flori, și pe copii!

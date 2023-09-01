@@ -1,0 +1,37 @@
+[title]
+Sa mergi prin furtuna {author: {Vlad Bucur}, {rcId: {232881}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Să mergi prin furtună ’nainte
+Nu-i lucru atât de ușor,
+De dragostea nu e fierbinte
+Și pasul îți este domol.
+De nu îți e inima plină
+De dorul sublim, minunat
+După sărutarea divină
+A Celui mai mare Împărat!
+
+[c]
+/: Dar poți să pășești chiar pe ape
+De ochii-ți sunt țintă la El,
+Dacă Îl cunoști îndeaproape
+Și-ai viața legată de Cer! :/
+
+[v2]
+Păstrează-ți curajul, creștine,
+Nu-ți pierde credința în val,
+Talazul să nu te-înspăimânte,
+Curând vei ajunge la mal.
+Vâslește și alungă frica,
+Ca vâsla iubirii s-o ai,
+Iar dorul să-ți fie aripa
+Ce duce-al tău suflet spre Rai!
+
+[c2]
+/: Pe țărm, îmbrăcat în lumină,
+Te așteaptă Isus zâmbitor,
+Să-ți dea sărutarea divină
+Să astâmpere-n veci al tău dor! :/

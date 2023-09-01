@@ -1,0 +1,29 @@
+[title]
+O ce bucurie am {author: {Anonim}, {rcId: {4593}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O, ce bucurie am
+Că păcatul mi-e spălat
+Când într-una însetam
+Apă vie am aflat
+
+[c]
+/: Am aflat apă vie
+O cât sunt de fericit
+Astăzi cânt cu tărie
+Că Isus m-a mântuit :/
+
+[v2]
+Prin Christos crucificat
+Merg pe calea Domnului
+Haru-I sfânt doar El mi-a dat
+Slavă-I cânt azi, slavă Lui
+
+[v3]
+Stau pe brațul lui Isus
+Pân’ necazurile trec
+Eu prin harul Lui de sus
+Doar cu El am să petrec

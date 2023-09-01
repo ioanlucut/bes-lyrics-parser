@@ -1,0 +1,35 @@
+[title]
+Am gasit o dulce mangaiere {author: {Nelu Muresan}, {rcId: {55556}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Am găsit o dulce mângâiere,
+O speranță-n multe încercări,
+Am găsit o dragoste fierbinte,
+O, Isus, pe Tine Te-am găsit.
+
+[c]
+/: Mii de buze n-ar putea să spună
+Ce-am găsit în Tine, Domnul meu,
+Căci sunt slab, doar un pumn de țărână,
+Sunt nimic, dar sunt în Harul Tău :/
+
+[v2]
+Am găsit iubirea fără seamă-n
+Bunătatea ce-o ai numai Tu,
+Am găsit tot sensul vieții mele,
+Scris în numele-Ți preasfânt Isus.
+
+[v3]
+Am găsit izvorul mântuirii,
+Scump balsam de binecuvântări,
+Am găsit izvorul mântuirii,
+Harul sfânt al deplinei iertări. -
+
+[v4]
+Tu ești tot și tot ce azi există
+Doar prin voia Ta mereu va sta,
+Tu ești Domnul meu pe veci, Isuse,
+Eu, copilul Tău la dreapta Ta.

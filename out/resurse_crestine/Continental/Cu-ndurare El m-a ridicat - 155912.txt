@@ -1,0 +1,43 @@
+[title]
+Cu-ndurare el m-a ridicat {author: {Continental}, {rcId: {155912}}
+
+[sequence]
+c,v1,c,v2,c2,e,c3
+
+[c]
+/: Cu-ndurare El m-a ridicat
+Tot păcatul meu l-a uitat
+În iubirea Sa găsesc odihnă
+Și mă simt eliberat. :/
+
+[v1]
+Am trăit departe de Domnul meu
+Am fugit de glasul Său.
+Până când El inima mi-a atins,
+Cu iubire El m-a găsit.
+
+[v2]
+Vreau să cânt acum îndurarea Sa,
+Și tot haru-I nemeritat.
+Să-I închin iubirea și viața mea,
+Tot ce sunt Lui să-I dăruiesc.
+
+[c2]
+/: Cu-ndurare El m-a ridicat
+Tot păcatul meu l-a uitat
+În iubirea Sa găsesc odihnă
+Și mă simt eliberat. :/ x3
+
+[e]
+/: El m-a eliberat :/
+/: Iertare El mi-a dat. :/
+
+[c3]
+Cu-ndurare El m-a ridicat
+Tot păcatul meu l-a uitat
+În iubirea Sa găsesc odihnă
+Și mă simt eliberat.
+Cu-ndurare El m-a ridicat
+Tot păcatul meu l-a uitat
+În iubirea Sa găsesc odihna Lui
+Și sunt pe veci eliberat!

@@ -1,0 +1,41 @@
+[title]
+Sa stralucesc ca o raza {author: {Edwin O. Excell}, {rcId: {833}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Să strălucesc ca o rază
+A soarelui frumos,
+Astfel Isus mult dorește
+Să-i fiu Lui de folos.
+
+[c]
+O rază de soare,
+Pentru Isus arzătoare
+Ca raza de soare
+Să luminez eu doresc.
+
+[v2]
+Chiar de fac cel mai mic lucru
+Mereu mă vede El.
+Deci vreau s-arăt a mea rază
+Ca soarele la fel.
+
+[v3]
+În viața mea să se vadă
+Lumina lui Isus,
+Ca cei din jur să cunoască
+Că sunt a lui Isus.
+
+[v4]
+Ca raza soarelui dulce,
+Vreau să lucesc mereu
+Până când Isus mă cheamă,
+Să vin la tronul Său.
+
+[v5]
+Pe cei căzuți în păcate
+Vreau să-i călăuzesc.
+Ca să-i câștig pentru Domnul,
+Cu El ca sa-i unesc.

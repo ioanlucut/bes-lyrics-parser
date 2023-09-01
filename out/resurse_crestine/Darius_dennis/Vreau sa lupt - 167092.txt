@@ -1,0 +1,41 @@
+[title]
+Vreau sa lupt {author: {Darius, Dennis}, {rcId: {167092}}
+
+[sequence]
+v1,v2,v3,e
+
+[v1]
+/: Un soldat doresc să fiu
+Și să lupt lupta cea bună,
+Cu armură echipat și cu dragoste.
+Am războaie de purtat,
+Nu cu armă, nici cu ură
+Să iubesc cu-adevărat,
+Asta-i lupta mea. :/
+
+[v2]
+Am credință ca un scut
+Și port coiful mântuirii.
+Sabia mea e Sfânt Cuvânt,
+Duhul Lui cel sfânt.
+Un mesaj am de transmis,
+Vestea bună, gând de pace
+El Hristos a biruit, fiindcă ne-a iubit.
+
+[v3]
+/: Vreau să lupt ca și David cu Goliat,
+Și cred că prin Hristos
+Biruitor prin el voi fi,
+Prin Hristos
+Chiar dacă trec prin valea umbrei morții,
+Nu mă tem de nici un rău
+A promis va fi cu mine
+Și voi birui :/
+Prin El
+
+[e]
+Și Hristos S-a ridicat,
+Căci prin Isus am fost salvați
+El a luptat
+Și înapoi nicicând, El n-a dat
+Nici moartea nu l-a legat.

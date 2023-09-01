@@ -1,0 +1,33 @@
+[title]
+Domnul meu pe-o cruce ai suferit {author: {Fratii Pal}, {rcId: {187617}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Domnul meu pe-o cruce ai suferit
+De păcatul meu amar lovit
+/: De păcatul meu, de păcatul meu
+Bunul Dumnezeu El m-a izbăvit
+De păcat Isus m-a mântuit :/
+
+[v2]
+Crucea grea pe dealul Golgota
+Pentru mine Domnul o purta
+/: Domnul o purta, Domnul o purta
+Doamne crucea grea greu te apăsa
+Căci pe ea era povara mea :/
+
+[v3]
+Chinul greu de suferințe amar
+Pentru mine l-ai dus la Calvar
+/: Doamne biciul meu, Doamne biciul meu
+Te-a lovit din greu cu păcatul meu
+Dar Tu m-ai iertat o Domnul meu :/
+
+[v4]
+Eu ca cel din urmă îți mulțumesc
+De-acum viața mea o dăruiesc
+/: Doamne în slujba Ta, Doamne în slujba Ta
+Să te pot ’nălța cu toată cinstea
+Cu iubire din dragostea Ta :/

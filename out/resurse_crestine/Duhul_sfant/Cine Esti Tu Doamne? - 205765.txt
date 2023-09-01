@@ -1,0 +1,46 @@
+[title]
+Cine esti tu doamne? {author: {DUHUL SFANT}, {rcId: {205765}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Cine esti Tu Doamne,
+Sa imi porti poverile?
+Cine esti Tu Doamne,
+Sa-mi rezolvi problemele?
+Cine esti Tu Doamne,
+Sa m-asculti cand Iti vorbesc?
+Cine esti Tu Doamne,
+Sa ma ierti si cand gresesc?
+
+[c]
+/: Esti Tatal Divin x 2
+Plin de dragoste x 2
+Esti Tatal Divin x 2
+Plin de indurare x 2:/
+
+[v2]
+Cine esti Tu Doamne,
+Sa vindeci toti bolnavii?
+Cine esti Tu Doamne,
+Sa invii chiar si mortii?
+Cine esti Tu Doamne,
+Sa ii mangai pe saraci?
+Cine esti Tu Doamne,
+Sa fii Tata la orfani?
+
+[v3]
+Cine esti Tu Doamne,
+Sa-L trimiti pe Fiul Tau
+Cine esti Tu Doamne,
+Sa moara in locul meu?
+Cine esti Tu Doamne,
+Sa-mi daruiesti Cuvantul Tau?
+Cine esti Tu Doamne,
+Sa-mi zici fiu de Dumnezeu?
+
+[c2]
+/: Esti Tatal Divin x 2
+Demn de adorare x 2
+Esti Tatal Divin! :/

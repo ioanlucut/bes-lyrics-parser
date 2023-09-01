@@ -1,0 +1,33 @@
+[title]
+Mama mea mama mea {author: {Anonim}, {rcId: {3969}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mama mea, mama mea
+A plecat primăvara înspre alte zări
+A lăsat vatra sa, jaru-i stins
+Și cenușa lui s-a risipit.
+
+[c]
+Unde e mama mea,
+Mi-e dor s-o văd ?
+Cântecul mamei
+Îmi răsună-n amintiri.
+Mi-e dor de mama mea
+Mi-e dor s-o văd.
+Cine-mi va da
+Zâmbetul mamei înapoi?
+
+[v2]
+Mama mea, mama mea,
+M-a iubit ca un înger și m-a ocrotit,
+M-a-nvățat să mă rog
+Să iubesc omenirea și pe-al meu Isus.
+
+[v3]
+Dumnezeu, Dumnezeu,
+Îmi va da mamă, El așa a făgăduit.
+Eu aștept răbdător
+Marea zi a întâlnirii cu cei dragi.

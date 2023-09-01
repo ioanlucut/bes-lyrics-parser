@@ -1,0 +1,30 @@
+[title]
+A sosit craciunul mare bucurie {author: {Autor necunoscut}, {rcId: {244355}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+A sosit Crăciunul, mare bucurie!
+Iată că Maria naște pe Mesia,
+Într-o mică iesle, chiar în Betleem,
+După cum profeții scriu de Emanuel.
+
+[c]
+„
+E Crăciun, e Crăciun!”, oamenii îmi spun,
+E Crăciun, Crăciunul bun, bucurie de Crăciun!
+Dumnezeu ne-a iubit, dând pe Fiul Său,
+E Crăciun, Crăciunul bun, bucurie de Crăciun!
+
+[v2]
+E ceru-n sărbătoare, e stea strălucitoare,
+Ce magii îi conduce s-ajungă la Mesia
+Acolo jos, pe paie, stă o mică suflare:
+E un Copil în fașă, e Însuși Dumnezeu!
+
+[v3]
+Fiul va fi mare și va fi Împărat,
+El vrea să mântuiască lumea de păcat
+Vrea să curățească și viața ta,
+Chiar când e Crăciunul, deschide-ți inima!

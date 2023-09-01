@@ -1,0 +1,28 @@
+[title]
+Rataceam {author: {Adi Gliga}, {rcId: {113043}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Rătăceam în pustiu când Tu m-ai chemat
+Brațul Tău m-a cuprins, viață mi-a dat
+Căutam un răspuns, dar n-am găsit
+Până dragostea Ta m-a copleșit!
+
+[c]
+M-ai găsit, m-ai iertat, m-ai salvat, Domnul meu!
+Sunt al tău, m-ai născut și mi-ai dat nume nou.
+Cu Tine vreau să fiu, cu Tine vreau să fiu!
+
+[v2]
+Preț de sânge ai plătit pentru viața mea
+Mi-e de-ajus harul Tău să Te pot urma
+Mi-ai dăruit tot ce-am dorit,
+Dragoste Ta m-a înnoit!
+
+[v3]
+N-am să pot niciodată să-Ți răsplătesc
+A Ta sfântă iubire ce ne-o dăruiești
+Dar eu pot să te laud, că al Tău sunt
+Să vestesc îndurarea, pot să Îți cânt.

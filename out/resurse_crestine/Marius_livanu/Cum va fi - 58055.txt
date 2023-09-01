@@ -1,0 +1,28 @@
+[title]
+Cum va fi {author: {Marius Livanu}, {rcId: {58055}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Cum va fi Isuse când vei reveni ?
+Noapte înstelată sau senină zi ?
+Cum va fii grădina
+Plină de cântări sau numai de jale
+Lungă până-n zări ?
+/: Cum va fii Isuse când vei reveni
+Noapte înstelată sau senină zi ? :/
+
+[c]
+Cum va fi izvorul, lin, învolburat ?
+Cum va fi smochinul verde sau uscat ?
+/: Cum va fi ogorul sterp sau roditor ?
+Va fi cer albastru sau plutiri de nori ? :/
+
+[v2]
+Cum va fi atuncia oare satul meu ?
+Când va fi venirea, cum voi fi și eu ?
+/: Cum va fi poporul mântuit prin har ?
+Plin de bucurie sau plângând cu-amar ? :/
+Eu te-aștept Isuse lăcrimând cu dor
+Vino mai degrabă cu al slavei nor.

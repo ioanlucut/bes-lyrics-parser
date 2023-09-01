@@ -1,0 +1,21 @@
+[title]
+Am un prieten {author: {Biji din Barbuleati}, {rcId: {224192}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Am un prieten sus in ceruri,
+Ce imi poarta grija mea.
+Zi de zi ma ocroteste,
+El a purtat vina mea. / (2x)
+
+[c]
+/: Aleluia, aleluia
+Aleluia, Slava Domnului. :/
+
+[v2]
+Nu ma lasa nu ma uita,
+Ca este bun si milos.
+E cu mine-n orice vreme,
+Prietenul Isus Hristos. / (2x)

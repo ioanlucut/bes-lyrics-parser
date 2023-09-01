@@ -1,0 +1,65 @@
+[title]
+Plutesc neajutorat {author: {Anonim}, {rcId: {57804}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,v5,c5
+
+[v1]
+Plutesc neajutorat,
+Doamne, pe val, în spume.
+Și lupt mereu și lupt mereu,
+Dar portul oare unde-i?
+
+[c]
+/: Ia cârma vieții, Tu
+Și du-o spre liman,
+Căci valurile mă-nconjoară
+Și sufletul mi-l omoară :/
+
+[v2]
+Oare mai este mult,
+Doamne, din alergare?
+Căci nicăieri nu văd acum
+O barcă de salvare.
+
+[c2]
+/: Ia cârma vieții Tu.
+Și du-o spre liman,
+Căci valurile sunt mereu
+A mea mare povară :/
+
+[v3]
+Plutesc neajutorat,
+Doamne, pe valul în spume.
+Și strig mereu și strig mereu,
+O, Doamne, acuma spune!
+
+[c3]
+/: Cum pot s-ajung eu sus
+Prin așa mare vijelie?
+De nu-ți întinzi Tu brațul Tău
+Ca barca mea s-o țină :/
+
+[v4]
+Ascultă-mă acum,
+Când sunt în mare vijelie,
+Căci Tu ești Salvatorul meu,
+De-aceea, strig spre Tine.
+
+[c4]
+/: Când voi ajunge-n cer,
+Îți voi da-n veci eu slavă,
+Căci Tu din valul vieții ai scos
+A mea ființă dragă :/
+
+[v5]
+Atunci voi sta la dreapta Ta,
+Încoronat în slavă,
+Și-n veci de veci eu voi vedea
+A Ta ființă dragă.
+
+[c5]
+/: Vei fii al meu păstor,
+Iar eu, a Ta oiță,
+Și-n veci ne-om bucura
+Cu a Ta biruință :/

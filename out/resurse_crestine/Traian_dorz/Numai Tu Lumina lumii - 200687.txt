@@ -1,0 +1,53 @@
+[title]
+Numai tu lumina lumii {author: {Traian Dorz}, {rcId: {200687}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c
+
+[v1]
+Numai Tu Lumina lumii,
+Numai Tu Apa cea vie.
+Numai Tu Pâinea vieții,
+Mi-ești eterna bucurie.
+
+[c]
+Numai Ție, numai Ție,
+Dumnezeul meu Cel Mare,
+Pentru toate, pentru toate,
+Slavă, cinste și’nchinare!
+
+[v2]
+Numai sângele-Ți Isuse,
+Numai jertfa crucii Tale.
+Numai sfânta-Ți mântuire,
+M-a scăpat de-a morții cale.
+
+[v3]
+Numai pacea Ta-nsenină,
+Numai mâna Ta salvează.
+Numai Fața Ta slăvită,
+Inima mi-o’nseninează.
+
+[v4]
+Numai ploaia Ta m-adapă,
+Numai umbra Ta m-alină.
+Numai raza Ta cea dulce,
+Mă’ncălzește și lumină.
+
+[v5]
+Numai pâinea Ta-mi dă viață
+Numai vântul Tău m-adie.
+Numai paza Ta-mi păstrează,
+Liniștită bucurie.
+
+[v6]
+Numai Tu-mi faci tinerețea,
+Harnică și fericită.
+Numai tu-mi dai bătrânețe,
+Rodnică și liniștită.
+
+[v7]
+Numai Tu-mi faci moartea,
+Dulce și de pace sfântă plină.
+Numai Tu-mi dai veșnicia,
+Strălucită si senină.

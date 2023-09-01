@@ -1,0 +1,30 @@
+[title]
+Tu esti floarea vietii mele {author: {Ionel Saran Bochis}, {rcId: {111185}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În amurg de seară Te-aștept întruna,
+Zilele frumoase le doresc și-acuma!
+Gândul meu mă poartă, Isuse, la Tine
+Dacă Ți-am greșit, iartă-mă Stăpâne!
+
+[c]
+/: Tu ești floarea vieții mele
+Și Te port mereu cu mine-n gând!
+Te doresc să fii mereu cu mine
+Și nu pot nicicând ca să Te uit! :/
+
+[v2]
+Duhul Tău Îl port peste tot cu mine,
+Zi de zi mă rog, Te-aștept pe Tine!
+Clipa e aproape zorile se-arată,
+”
+Gata ești tu?” - Isus te întreabă.
+
+[v3]
+Iată poarta care duce-n fericire!
+Voi vedea pe Domnul, Sus, în Strălucire,
+Ce a biruit și-a fost Învingător,
+El poartă un Nume-al regilor!

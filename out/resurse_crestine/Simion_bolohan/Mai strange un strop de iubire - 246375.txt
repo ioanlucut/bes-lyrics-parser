@@ -1,0 +1,35 @@
+[title]
+Mai strange un strop de iubire {author: {Simion Bolohan}, {rcId: {246375}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Mai strânge un strop de iubire,
+Să poți să te-apleci la rănit,
+Să vadă, și frații și lumea,
+Că vrei să mai fii pocăit.
+
+[c]
+/: Mai iartă, mai rabdă, mai strânge comori,
+Pe drumul ce-l ai de parcurs,
+De vrei să ajungi într-un loc minunat,
+Acolo, la Domnul Isus :/
+
+[v2]
+De candela ta este goală,
+Nu arde nimic pe altar,
+În cântec, în rugă și-n toate,
+Nu-i Domnul prezent, să-ți dea har.
+
+[v3]
+Să știi că, doar astăzi, e vremea,
+Adună-n candelă ulei,
+Că sfinții se luptă întruna,
+De vrei o răsplată să ei.
+
+[v4]
+Azi, mană mai cade întruna,
+Adună, prin har, tot mereu,
+Nu-i vremea de stat pe la umbre,
+Răsplată-ți va da Dumnezeu.

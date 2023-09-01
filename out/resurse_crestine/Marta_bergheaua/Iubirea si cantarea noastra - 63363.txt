@@ -1,0 +1,42 @@
+[title]
+Iubirea si cantarea noastra {author: {Marta Bergheaua}, {rcId: {63363}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Iubirea si cantarea noastra
+Sunt pentru Tine,
+Mire drag,
+Si spre inaltimea cea albastra
+Chemari si doruri ne atrag.
+
+[c]
+Noi credem ce ne-ai spus, Isuse cand te-ai dus
+Ca pe-a luminii cai, pe noi, urmasii Tai
+Tu vi ca sa ne zbori mai sus, mai sus de nori
+Cu dor te asteptam, v enirea Ta chemam.
+
+[v2]
+Plutim pe aripi de credinta
+Deasupra lumii de pacat
+Si te chemam cu staruinta
+O, vino Mire asteptat.
+
+[v3]
+Cuvantul Tau ni-e mangaiere
+Iubirea Ta ne este far
+La adapostul ei, putere
+Primim si te chemam cu jar.
+
+[v4]
+Chemarile iti sunt aceleasi
+Dar dorul nostru mai crescut
+Cand spunem vino, vino iarasi
+In dragoste-i un inceput.
+
+[v5]
+Iubirea si cantarea noastra
+In largul zilelor sirag
+Sunt flori in a vietii glastra,
+Ce-n Tine creste Mire drag.

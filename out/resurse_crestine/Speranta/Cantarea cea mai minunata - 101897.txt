@@ -1,0 +1,42 @@
+[title]
+Cantarea cea mai minunata {author: {Speranța}, {rcId: {101897}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cântarea cea mai minunată
+Răsuna-va pe pământ
+În ziua-aceea când veni-va
+Isus cu-ai săi din cerul sfânt
+Acordul ei cel plin de farmec
+Ne va uni cu-atâtea mii
+De îngeri care stau în ceruri
+Și cântă sfinte melodii
+
+[c]
+/: Osana! Osana!
+Suna-va în inimile tuturor!
+Cântând slăvita-I biruință
+A Marelui Biruitor! :/
+
+[v2]
+Se va preda atunci pe mâna
+Stăpânului Adevărat
+Împărăția lumii care
+A stat atâta în păcat
+Se va-ntrona atunci dreptatea
+Din veșnicii în veșnicii
+În lumea ce de-atâtea veacuri
+Simțit-a negrele-i urgii
+
+[v3]
+Iar cerul Său cel plin de slavă
+Unit va fi cu-acest pământ
+Și vor dura în veșnicie
+Prin Numele lui Isus, sfânt
+Împărăția păcii, sfinte
+Va fi atuncea peste tot
+Și toate-i vor cânta : ”
+Osana!
+Sfânt e Domnul Salvaot”

@@ -1,0 +1,41 @@
+[title]
+Spre-un taram preasfant {author: {Ioan Hapca}, {rcId: {95218}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+M-a chemat Mântuitorul
+Și-am venit la El.
+Mi-a schimbat viața cu totul
+Și mi-a dat un țel.
+
+[c]
+Străin sunt și călător
+Pe acest pământ
+Dar mă-ndrept biruitor
+Spre-un Tărâm Preasfânt.
+
+[v2]
+Am un țel nou și-o viață
+Cum n-am bănuit
+Decând prin jertfa-I măreață
+Hristos m-a mântuit.
+
+[v3]
+Numai sunt pribeag prin lume
+Sub pecetea morții
+Căci El a scris al meu nume
+În cer, în Cartea vieții.
+
+[v4]
+N-am comori și-averi în lume
+Fiindcă-mi strâng în cer
+Unde-s doar lucruri sublime
+Care-n veci nu pier.
+
+[v5]
+Bucurie sfântă am și pace deplină
+Căci Domnul Isus Hristos
+Mă învăluie-ntr-a Sa lumină
+Și în har maiestuos.

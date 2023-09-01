@@ -1,0 +1,26 @@
+[title]
+Din cea mai adanca noapte {author: {Nicolae Moldoveanu}, {rcId: {244420}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Din cea mai adâncă noapte de-ntristare,
+Și din ceasul cel mai greu și-apăsător,
+/: Și din cea mai neagră beznă de-ntristare,
+Te chemăm o Doamne,
+ /: vino-n ajutor! :/
+
+[v2]
+Mai porniți sunt astăzi ca oricând vrăjmașii,
+Mai aprinsă-i ura și cruzimea lor,
+/: Ca să nu ne piardă inima și pașii,
+Te chemăm, o, Doamne
+ /: vino-n ajutor! :/
+
+[v3]
+Ca un leu năpraznic, gata să sfâșie,
+Vine-n contra noastră cel asupritor,
+/: Ca să nu ne-nghită noaptea de urgie,
+Te chemăm, o, Doamne,
+ /: vino-n aiutor! :/

@@ -1,0 +1,30 @@
+[title]
+Da el vine {author: {Cătălin și Ramona Lup}, {rcId: {105805}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Este-un loc unde-odată voi ajunge lângă tron.
+Sus, în patria divină, sus la Tatăl meu în cer.
+Voi vedea față lui Isus, voi vedea pe Dumnezeu.
+Voi vedea promisă casă când în cer cu El voi stă.
+
+[c]
+Da, El vine, da, El vine!
+Toate spun că vine vremea să plecăm spre patrie.
+Da, El vine, da, El vine!
+Slavă Lui, El vine-n curând!
+
+[v2]
+În curând sosește Domnul, trâmbița va răsuna
+Și cu îngerii din slavă, vom cântă, vom triumfă.
+Vom uită de griji, necazuri, vom uită de tot ce-a fost.
+Vom rămâne-n veci cu Isus, Domnul, Împăratul nost’.
+
+[e]
+/: Da, El vine, da, El vine!
+Toate spun că vine vremea să plecăm spre patrie.
+Da, El vine, da, El vine!
+Slavă Lui, El vine-n curând! :/
+Slavă Lui, El vine-n curând

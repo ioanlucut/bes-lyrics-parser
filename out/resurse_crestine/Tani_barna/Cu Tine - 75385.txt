@@ -1,0 +1,23 @@
+[title]
+Cu tine {author: {Tani Barna}, {rcId: {75385}}
+
+[sequence]
+v1,c,e
+
+[v1]
+Cu Tine, Doamne,
+Tăcerea în cântec se face,
+Furtună nu e,
+Cu Tine e pace.
+
+[c]
+Cu Tine dorului nu-i mai e dor,
+Florile Tale toamna nu mor.
+Cu Tine fluturi în păr mi se prind,
+/: Veșmintele Tale din zori mă cuprind :/
+
+[e]
+/: Cu Tine - Copilul,
+Alerg printre stele,
+Și vesel o mână
+Îmi trec printre ele :/

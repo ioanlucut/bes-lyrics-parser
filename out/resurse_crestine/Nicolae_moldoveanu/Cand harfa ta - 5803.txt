@@ -1,0 +1,53 @@
+[title]
+Cand harfa ta {author: {Nicolae Moldoveanu}, {rcId: {5803}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Când harfa ta iți amutește,
+O, cântărețule, să știi:
+Ești biruit și te pândește
+Cumplitul gol din nopți pustii...
+
+[c]
+Esti ca fântâna fără apă
+Și ca statuia-nțepenit:
+La tine nu se mai adapă
+Cel ars de sete și trudit
+
+[v2]
+Nu-și mai găsește alinare
+Cel săgetat de suferinți;
+Nici mângâieri, nici ușurare,
+În scrâșnetele lui de dinți.
+
+[c2]
+Tu ești înfrânt, o, cântărețe,
+Când glasul tău a amuțit.
+Și-atrăgătoarea frumusețe
+De ochii tăi s-a despărțit...
+
+[v3]
+Căci viața ta e doar cântarea;
+Ea-i darul ce ți-a fost adus,
+Prin ea tu ți-ai făcut intrarea,
+În slujba Domnului Isus.
+
+[c3]
+O, dacă taci, trăiești înfrângeri
+Și chinuri de neîndurat;
+În suflet totdeauna sângeri
+Și trupu-n neguri ți-e-mbrăcat.
+
+[v4]
+Cântând iți vei păstra puterea
+Și sufletul în veci frumos;
+Ducând prin cântec mângâierea,
+Esti mângaiat tu, de Christos...
+
+[c4]
+Când harfa ta își curmă cântul
+O, cântârețule, ești stins...
+Robit ți-e duhul de pământul
+Ce te-a atras și te-a cuprins.

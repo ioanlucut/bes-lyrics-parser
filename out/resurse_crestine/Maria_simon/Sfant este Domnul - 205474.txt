@@ -1,0 +1,35 @@
+[title]
+Sfant este domnul {author: {Maria Șimon}, {rcId: {205474}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Spune-ți nencetat, la toți, să știe,
+Căci noi avem un Dumnezeu,
+El e sfânt, e drept din veșnicie
+Lăudat fie Numele Său
+
+[c]
+Mare, mare, sfânt și minunat
+Este Tatăl nostru adevărat
+Grija El ne-o poartă, zi de zi,
+Pe stâncă ne ține, valuri de-or veni.
+
+[v2]
+Spune-ți nencetat, la toți, să știe
+Căci noi avem un Tată din vecii,
+El cu dragoste, mereu privește,
+Ne păzește viața zi de zi.
+
+[v3]
+El este Stăpân atotputernic,
+E Stăpân și peste galaxii
+El, din vecii, împărățește,
+Este și va fi până-n vecii.
+
+[v4]
+Lui ne închinăm cu adorare,
+Slavă, slavă, îi vom da,
+Mări, ostroave, văi, dealuri întruna
+Îi cântă din vecii Aleluia

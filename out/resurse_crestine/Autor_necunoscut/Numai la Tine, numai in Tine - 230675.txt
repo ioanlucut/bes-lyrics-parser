@@ -1,0 +1,36 @@
+[title]
+Numai la tine numai in tine {author: {Autor necunoscut}, {rcId: {230675}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Numai la Tine, numai în Tine
+Isuse pacea mi-o găsesc,
+Numai cu Tine și pentru Tine,
+Isuse vreau să mai trăiesc
+
+[c]
+/: Dă-mi har Isuse să vin la cruce,
+Ca zi de zi să te-ntâlnesc,
+Să-Ți dau povara, să iau iertarea,
+Și-apoi plângând să-ți mulțumesc :/
+
+[v2]
+Doar lângă Tine, dorul din mine,
+Se-aprinde parcă mai curat,
+Fără de Tine în lungi suspine,
+și-n moarte m-aș fi scufundat
+
+[v3]
+Nu e sub soare un dar mai mare,
+De cât să fiu pe veci al Tău,
+Nu-i mântuire, nici izbăvire,
+De no dai Tu prin Duhul Tău
+
+[v4]
+Nu-i alinare, nici vindecare,
+Decât în
+Tine Domnul meu,
+Tu dai iertare, Tu îmi ești soare,
+Ține-mă Doamne-n brațul tău

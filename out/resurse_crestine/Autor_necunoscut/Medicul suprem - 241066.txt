@@ -1,0 +1,43 @@
+[title]
+Medicul suprem {author: {R}, {rcId: {241066}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Vreau să-ți mulțumesc Isuse
+Pentru tot ce mi-ai făcut
+Vreau astăzi să-ți dăruiesc
+Isuse din viața mea
+Astăzi mă închin doar ție
+Lăcrimând și-ți mulțumesc
+Azi la tatăl Dumnezeu
+Pentru mine mijlocești.
+
+[c]
+Medicul suprem
+astăzi eu te chem
+Sa ramai în viața mea
+Salvator sa fi
+Medic sa ramai
+Isuse în viața mea.
+
+[v2]
+Cand in lumea asta mare
+te-am chemat în ajutor
+Ai venit la mine Doamne
+Și mi-ai fost un Salvator
+Mi-ai spus ca sa nu mă tem
+Tu ești medicul suprem
+Orice mi s-ar întâmpla
+Viața mea e-in mana ta.
+
+[v3]
+Spun la toată lumea astăzi
+Sa te cheme în ajutor
+Tu vindeci, salvezi, dai viață
+Celor ce te vor sluji
+Spun să creadă azi in tine
+Celor ce nu au salvare
+De vor crede azi in tine
+Tu Le vei da vindecare.

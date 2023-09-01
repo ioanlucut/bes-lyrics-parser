@@ -1,0 +1,37 @@
+[title]
+Sunt in urma ta {author: {Adi Gliga}, {rcId: {77536}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Ce-i cu frica ta?
+Nu te-ngrijora
+Orice rău va avea un sfârșit!
+Sunt în urma ta
+De-ai putea vedea
+Te-ai simți mereu ocrotit!
+Stai în umbra Mea
+Nu te voi lăsa
+Dacă vei cădea
+Te voi ridica
+
+[c]
+Și-ți voi arăta
+Că-n iubirea mea
+Zilnic dac-ai fi
+Veșnic ai trăi
+Și-ți voi arăta
+
+[v2]
+Nu te mai gândi
+Mâine ce va fi
+Lângă tine sunt chiar acum
+Sunt în urma ta
+Dacă m-ai lăsa
+Singur n-ai mai fi
+Pe-al tău drum
+Stai în umbra Mea
+Nu te voi lăsa
+Dacă vei cădea
+Te voi ridica

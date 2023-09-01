@@ -1,0 +1,28 @@
+[title]
+Azi domnul e pastorul meu {author: {Anonim}, {rcId: {7197}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Azi Domnul e Păstorul meu,
+El mă conduce la pășuni,
+Mă înviorează cu izvoare reci,
+Pe cale povață-mi dă.
+
+[c]
+/: Mă voi încrede doar în El, :/
+Căci fericirea și-ndurarea Lui
+În viață m-or însoți. :/
+
+[v2]
+Prin valea morții de-aș umbla,
+Eu nu mă tem de niciun rău,
+Căci ești cu mine și mă mângâi,
+Mă mustri când eu greșesc.
+
+[v3]
+Și chiar dușmani de aș avea,
+Tu masa-ntinzi în fața lor,
+Tu capu-mi ungi cu untelemn ales,
+Și paharul meu e plin.

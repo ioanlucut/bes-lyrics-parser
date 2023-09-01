@@ -1,0 +1,42 @@
+[title]
+Privim pe mielul {author: {Kristyn Getty, Traducere RO}, {rcId: {58948}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c2
+
+[v1]
+Privim pe Mielul ce păcatele
+Le-a purtat: și ținem minte
+El a promis că toți ce vin crezând
+Sunt iertați la crucea Lui.
+
+[c]
+Împărțim, Pâinea vieții azi
+Astăzi bem, toți din jertfa Lui
+Pacea Lui, care ne-a unit
+În jurul mesei Regelui.
+
+[v2]
+Că trupul Salvatorului Isus,
+A fost frânt: să ținem minte
+Prin răni și moarte
+viață ne-a adus
+În El una ne-a făcut.
+
+[v3]
+Sânge ce spală pata de păcat
+S-a vărsat: să ținem minte
+Paharul morții l-a băut și noi
+Vom intra în viața Lui.
+
+[v4]
+Cu mulțumire și credință azi
+Vom veni: să ținem minte
+Chemarea de-a păși pe urma Sa
+Trupul Său de pe pământ
+
+[c2]
+Ne-amintim suferința Sa,
+Proclamăm: El va reveni
+La ospăț, în Cer vom urca
+În jurul mesei Regelui.

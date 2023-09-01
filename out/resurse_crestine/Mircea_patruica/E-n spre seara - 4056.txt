@@ -1,0 +1,29 @@
+[title]
+E-n spre seara {author: {Mircea Pătruică}, {rcId: {4056}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+E-n spre seară și pe cer,
+Stelele se-aprind,
+Iar pe stradă mulți copii,
+Vin cu un colind.
+
+[c]
+Deschide-ți și ascultați
+Voi ce sunteți colindați,
+Ascultați mesajul lor
+/: Despre Mesia salvator. :/
+
+[v2]
+Pruncul cel din Betleem
+Din iesle smerit,
+Să-mplinească profeții
+La noi a venit.
+
+[v3]
+A adus cu El în dar
+Pace, bogății,
+Pentru tine dragul meu
+Dacă-L vei primi.

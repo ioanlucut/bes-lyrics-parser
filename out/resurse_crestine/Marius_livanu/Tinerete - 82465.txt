@@ -1,0 +1,31 @@
+[title]
+Tinerete {author: {Marius Livanu}, {rcId: {82465}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Tinerețe, tinerețe, câte imnuri ți-aș cânta
+Dacă pân’ la bătrânețe ai fi tot mereu așa!
+Numai zel și dărnicie, flacără de tainic dor
+Cântec, joc și bucurie, numai soare fără nor!
+
+[c]
+Tinerețe, câte imnuri ți-aș cânta
+Tinerețe! Dac-ai fi mereu așa!
+Tinerețe! Dorul marilor iubiri
+Tinerețe! Ai frumoase amintiri
+/: Tinerețe ești mai frumoasă azi!
+Nu-mi mai dăruiești lacrimi pe obraz! :/
+
+[v2]
+Tinerețe, tinerețe, oază într-un larg pustiu
+Tu îmi dai senin binețe, să fiu tânăr, veșnic, viu!
+Dacă gândul tău se duce spre Părintele Etern
+Înțelegi cum de pe cruce fericirile se-aștern!
+
+[v3]
+Tinerețe, tinerețe, psalmul marilor iubiri
+Cel ce ți-a dat frumusețe, azi te cheamă din priviri
+El îți împlinește dorul de-l asculți în orice zi
+Căci Mesia, Salvatorul în curând va reveni

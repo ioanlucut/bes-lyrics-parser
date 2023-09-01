@@ -1,0 +1,29 @@
+[title]
+Domnul e adapostul si sprijinul meu {author: {Vasile Daniel}, {rcId: {136063}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Domnul e-adăpostul și sprijinul meu
+Care nu-mi lipsește din necazul greu
+Nu mă tem chiar dacă tot s-ar clătina
+Nici de valul mării care-ar spumega.
+
+[c]
+Domnul e tăria și dragostea mea
+Ce-mi păstrează-n flăcări mereu inima
+El e scutul care m-a înconjurat
+Și îmi dă într-una harul minunat.
+
+[v2]
+Neamuri se frământă împărații cad
+Eu stau lângă Domnul mă bizui pe-al Său braț
+Nu duc niciodată lipsă de nimic
+Mă încred în Domnul și stau neclintit.
+
+[v3]
+Domnul întărește pașii omului
+Atunci când îi place mersu-n calea lui
+El răspunde celui ce-i neprihănit
+Și ascultă ruga celui nenorocit.

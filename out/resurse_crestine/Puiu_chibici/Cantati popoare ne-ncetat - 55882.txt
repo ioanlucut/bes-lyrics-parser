@@ -1,0 +1,53 @@
+[title]
+Cantati popoare ne-ncetat {author: {Puiu Chibici}, {rcId: {55882}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Cântați popoare ne-ncetat
+Un imn de sărbătoare,
+Cântați Celui ce-i adorat,
+Domnului nostru Mare.
+
+[c]
+/: Cântați Celui ce ne-a salvat,
+Celui ce-i veșnic Împărat,
+Celui ce ne-a răscumpărat
+De moarte și pierzare. :/
+
+[v2]
+El locuiește sus în cer,
+Acolo-n slăvi sublime,
+Dar e și aici la cei ce-L cer
+Și azi ca și-n vechime.
+
+[c2]
+/: El la ’nălțat pe Daniel
+Și l-a condus pe Israel,
+Toți câți s-au încrezut în El
+N-au fost dați de rușine. :/
+
+[v3]
+Tu, Cel ce stai pe heruvimi
+Înconjurat de glorii,
+Cu fața albă ca de crin,
+Și-Ți cântă mii de coruri,
+
+[c3]
+/: Îți cântă azi ai Tăi copii
+Atâtea sfinte melodii,
+Tu, Cel ce-ai fost, ești și vei fi
+Domn pe Pământ și-n Ceruri. :/
+
+[v4]
+Lângă acei ce Te slăvesc
+M-apropii și eu, Tată,
+Să-Ți cânt cu-ntregul Univers
+Din inimă curată,
+
+[c4]
+/: Iar dacă nu voi mai putea
+Și buzele îmi vor tăcea,
+Doar suspinând Te-oi lăuda,
+O, Doamne, pân’ la moarte. :/

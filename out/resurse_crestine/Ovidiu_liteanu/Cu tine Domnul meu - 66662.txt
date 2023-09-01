@@ -1,0 +1,37 @@
+[title]
+Cu tine domnul meu {author: {Ovidiu Liteanu}, {rcId: {66662}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+De astăzi eu Te vreau în inima
+De astăzi eu Te vreau Isus
+Eu cred că după moarte-n veșnicii
+Cu Tine Domnul meu voi fi
+
+[c]
+Cu Tine Domnul meu
+Voi fi in cer mereu
+Cu Tine Domnul meu Isus
+Ești Domnul meu iubit
+Sunt tare fericit
+O, Doamne ca m-ai mântuit
+
+[v2]
+De astăzi eu Te vreau Isuse drag
+Să fi mereu în viața mea
+În inimă să-mi torni din Duhul Tău
+Cu dragoste să-Ți cânt mereu.
+
+[v3]
+Îți mulțumesc Isus din inimă
+Îți mulțumesc că mă iubești
+În jertfa de pe cruce m-ai iertat
+Cu Harul Tău m-ai imbrăcat.
+
+[v4]
+Mereu Îți voi cânta, o, Domnul meu
+Că mântuire Tu mi-ai dat
+În suflet pacea Ta eu am primit
+Isuse Domnul meu iubit.

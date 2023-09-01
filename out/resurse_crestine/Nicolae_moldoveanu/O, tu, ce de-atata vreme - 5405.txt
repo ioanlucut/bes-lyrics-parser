@@ -1,0 +1,41 @@
+[title]
+O tu ce de-atata vreme {author: {Nicolae Moldoveanu}, {rcId: {5405}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+O, tu, ce de-atata vreme
+Vii aici si-asculti mereu,
+Ramanea-vei cu-ascultarea,
+Daca nu te hotarasti!
+
+[c]
+Nimic fara hotarare
+Nu te poate mantui:
+Nici venirea ta aicea
+Ci doar jertfa lui Isus!
+
+[v2]
+Vrei s-auzi vorbe frumoase
+Ce-n-auzi in orice loc...
+Dar sa stii ca toate acestea
+Nu-ti sunt de nici un folos!
+
+[v3]
+Tu adesea auzit-ai
+Ca-n pacat tu esti pierdut,
+Ca nu poti sa faci nimica
+Sa scapi de osanda Lui.
+
+[v4]
+Caci Isus, murind pe cruce,
+El pacatu-a ispasit
+Si tu n-ai de facut alta,
+Dacat sa-L primesti pe El.
+
+[v5]
+Ce vei face dar acuma
+Cu chemarea lui Isus?
+O, primeste-L chiar acuma,
+Inainte de-a pleca!...

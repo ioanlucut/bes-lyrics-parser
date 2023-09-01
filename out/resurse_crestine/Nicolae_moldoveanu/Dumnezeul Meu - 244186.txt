@@ -1,0 +1,29 @@
+[title]
+Dumnezeul meu {author: {Nicolae Moldoveanu}, {rcId: {244186}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Dumnezeul Meu,
+Dumnezeul Meu,
+/: Pentru ce M-ai părăsit, :/
+Că-i nespus de greu,
+Că-i nespus de greu,
+/: Prețul care-i de plătit. :/
+
+[v2]
+Vina lumii grea,
+Vina lumii grea,
+/: Cere preț de sânge sfânt, :/
+Dar în Jertfa Mea,
+Dar în Jertfa Mea,
+/: E-al iertării Legământ. :/
+
+[v3]
+O, cât e de greu,
+O, cât e de greu,
+/: Părăsit, pentru ai Mei, :/
+Dumnezeul Meu,
+Dumnezeul Meu,
+/: Nu-i mai părăsi pe ei. :/

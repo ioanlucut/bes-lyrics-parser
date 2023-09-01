@@ -1,0 +1,33 @@
+[title]
+Sa nu slabeasca ochii {author: {Surorile Ciui}, {rcId: {185307}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Să nu slăbească ochii
+De prea-ndelungi priviri
+/: Când chemi și chemi și parcă
+Trimișii tot nu vin. :/
+
+[c]
+/: În clipa-n care nici gândești
+Se va-mplini tot ce dorești. :/
+
+[v2]
+Să nu slăbească mâna
+De prea milos întins
+/: Când dai și dai și parcă
+Nu este îndeajuns. :/
+
+[v3]
+Să nu slăbească pașii
+De prea mult timp umblat
+/: Când mergi și mergi și parcă
+Nimic n-ai adunat. :/
+
+[v4]
+Să nu slăbească duhul
+De prea mult așteptat!
+/: Iubitul meu, grabește,
+Căci vremea s-a scurtat! :/

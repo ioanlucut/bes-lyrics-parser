@@ -1,0 +1,29 @@
+[title]
+O stea pe cer {author: {Adonia}, {rcId: {100788}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+O stea pe cer luminează-acum
+Și raza ei o speranță e
+/: Într-un staul mic, lângă Betleem
+Azi s-a născut Fiu de Dumnezeu :/
+
+[v2]
+Păstorilor îngerii-au vestit
+Că-n locul sfânt pruncul s-a născut
+/: Magi din răsărit steaua I-au zărit
+Și s-au bucurat, slavă Lui I-au dat :/
+
+[v3]
+Dorința ce ani a străbătut
+Speranța că tot va fi schimbat
+/: Dorul nesfârșit azi s-a împlinit
+Când pe pământ Domnul a venit :/
+
+[v4]
+A fost un vis ce s-a împlinit
+Când pe Pământ Domnul a venit
+/: Lumea a primit dragostea de sus
+Căci pentru toți s-a născut Isus :/

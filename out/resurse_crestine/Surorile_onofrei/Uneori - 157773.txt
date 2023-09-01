@@ -1,0 +1,35 @@
+[title]
+Uneori {author: {Surorile Onofrei}, {rcId: {157773}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Uneori te simți departe,
+Urcând printre stânci.
+Ai lăsat in urmă norii,
+Vrei acolo sa rămâi.
+Alteori te simți, in noapte,
+Pășind prin văi adânci
+Și auzi in jur doar șoapte,
+Ți-e teamă, vrei sa plângi.
+
+[c]
+/: Dar nu uita, că oriunde vei fi
+A promis, că te va ocroti,
+Te va-nvăța sa te-ncrezi in brațul Său
+Zi de zi va fi cu tine Dumnezeu :/
+/: Dar nu uita, că oriunde vei fi
+A promis, că te va ocrotii,
+Te va-nvăța sa te-ncrezi in brațul Său
+Zi de zi va fi cu tine Dumnezeu :/
+
+[v2]
+Uneori nu vezi cărarea
+Si mergi ca-ntr-un pustiu.
+Rătăcești fără de țintă,
+Ceru-ntreg e cenușiu.
+Vezi în jurul tău doar umbre
+Si plângând ingenunchezi.
+Îți dorești o călăuză,
+Nu poți să-naintezi.

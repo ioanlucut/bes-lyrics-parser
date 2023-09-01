@@ -1,0 +1,37 @@
+[title]
+Din cuvantul luminos {author: {Nicolae Moldoveanu}, {rcId: {186408}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Din Cuvântul luminos,
+Cartea Domnului Hristos,
+Dragi copii hai să-nvățăm,
+Tot ce-i bine s-ascultăm,
+Să-nvățăm, să-nvățăm,
+Cum pe Domnul să-L urmăm!
+
+[v2]
+Din Cuvântul cel de Sus,
+Cartea Domnului Isus,
+Să-nvățăm dragi copilași,
+Cum sunt blânzii îngerași,
+Îngerași, îngerași,
+Ei sunt blânzi și drăgălași!
+
+[v3]
+Din Cuvântul cel sfințit,
+Cartea Domnului iubit,
+Zi de zi să ne silim,
+Să-nvățăm cum să trăim.
+Cât trăim, cât trăim,
+Blânzi și credincioși să fim!
+
+[v4]
+Să-nvățăm copii mereu,
+S-ascultăm de Dumnezeu,
+S-avem sufletul frumos,
+Cum îi place lui Hristos.
+Mai frumos, mai frumos,
+Să fim fii ai lui Hristos!

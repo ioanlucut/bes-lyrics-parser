@@ -1,0 +1,45 @@
+[title]
+Multi parinti cu-amare lacrimii {author: {Vasile si Daniel Balan}, {rcId: {6740}}
+
+[sequence]
+v1,c,v2,c,v3,c2,v4,c
+
+[v1]
+Multi parimti cu amare lacrimi, isi mananca painea.
+Caci a lor copii de Domnul s-au indepartat.
+/: Pe genunchi in odaita, ei petrec si noapte.
+Cu suspine catre Domnul striga nencetat :/
+
+[c]
+Nu mai plange mama nu descuraja.
+Roagate ca Domnul te va ajuta.
+Nu mai plange mama chiar de-ti este greu.
+Domnul are mila de copilul tau.
+Nu mai plange mama nu descuraja.
+Roagate ca Domnul te va ajuta.
+Nu mai plange mama chiar de-ti este greu.
+Domnul are mila de copilul tau.
+
+[v2]
+Cata truda in a lor e viata si cata iubire.
+Au depus parintii care iau crescut cu drag.
+/: Dar copii sunt departe fara mantuire.
+Si la casa rugaciunii nu mai calca in prag :/
+
+[v3]
+Fiule ce-n asta lume ratacesti departe
+Lacrimile mamei tale incet sau adunat.
+/: Azi te cheama salvatorul sa te intorci din noapte.
+Si sa lasi in urma lumea cu al ei pacat :/
+
+[c2]
+Nu mai sta in lume fiule pierdut.
+Vino iar acasa unde ai crescut.
+Nu mai sta in noapte fiu risipitor.
+Vino azi ca Domnul te asteapta cu dor.
+
+[v4]
+Chiar daca de-atata vreme te hranesti cu amarul,
+Si plangi dupa fiul care il astepti cu dor
+/: Nu descuraja pe cale, striga catre Domnul
+El e acel ce poate sa-ti de-a ajutor :/

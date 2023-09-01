@@ -1,0 +1,41 @@
+[title]
+Nani nani somnul dulce {author: {Nicolae Moldoveanu}, {rcId: {244405}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Nani, nani somnul dulce,
+Dragul mamei să se culce,
+Mama-i cântă să se culce!
+
+[c]
+Somn ușor, drag odor,
+Drag odor, somn ușor,
+Dor senin, somnul lin,
+Somnul lin, dor senin!
+
+[v2]
+Sfânta rază nu-nserează,
+sfânta rază ne veghează,
+Tatăl nostru ne veghează!
+
+[v3]
+Duhul Sfânt să te sfințească
+Suflet bun să mi te crească,
+Dor și cânt să mi te crească!
+
+[v4]
+Visuri line să te-aline,
+Nopți senine să-ți Iumine,
+Totdeauna să-ți lumine!
+
+[v5]
+Vocea lină și duioasă,
+Noaptea-i plină și frumoasă
+Să crești inimă frumoasă!
+
+[v6]
+Fața-ți fie liniștită,
+Viața-ți fie fericită,
+Limpede și fericită!

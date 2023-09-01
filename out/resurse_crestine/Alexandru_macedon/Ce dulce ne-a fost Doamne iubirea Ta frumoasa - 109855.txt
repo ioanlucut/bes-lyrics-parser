@@ -1,0 +1,29 @@
+[title]
+Ce dulce ne-a fost doamne iubirea ta frumoasa {author: {Alexandru Macedon}, {rcId: {109855}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ce dulce ne-a fost Doamne iubirea Ta frumoasă
+În ea am fost oriunde ca-n cea mai dulce casă
+În ea am fost oriunde ca-n cea mai sfîntă pază
+În ea prin orice noapte ne-a strălucit o rază
+
+[c]
+Nu ne lăsa Isuse nicicând fără de ea
+Iubirea dac-o pierdem nimic n-om avea
+Nu ne lăsa Isuse nicicând fără de ea
+Iubirea dac-o pierdem nimic n-om mai avea
+
+[v2]
+Iubirea ta prin soare ne-a dus întotdeauna
+Ea blânda subțurare ne-a preschimbat furtuna
+Oriunde ne-a dat umbră și ori unde ne-a-ntins masă
+Ce dulce ne-a fost Doamne iubirea ta frumoasă
+
+[v3]
+Iubirea ta mi-e Doamne cea mai curată pară
+În ea am dat comoara oricui a fost s-o ceară
+Ea orce rugăciune ne-o face-nlăcrimată
+Ea-i numai bucurie de fiecare dată

@@ -1,0 +1,22 @@
+[title]
+Ce bine e sa-i dam lauda domnului {author: {Neiconi Nutzy}, {rcId: {4850}}
+
+[sequence]
+v1,b,c
+
+[v1]
+/: Ce bine e să-I dăm laudă Domnului,
+Ce bine e să-I dăm laudă Domnului.
+El captivi eliberează, inimi vindecă,
+Binecuvântăm Numele Lui. :/
+
+[b]
+Vreau să-L slăvesc pe El,
+Vreau să-L slăvesc pe El,
+Vreau să-L slăvesc pe El.
+
+[c]
+Îți mulțumim, ești Salvatorul,
+Cu inimi de recunoștință ne-nchinăm,
+Îndurarea Lui va ține veșnic,
+Eu Te voi lăuda toată viața mea.

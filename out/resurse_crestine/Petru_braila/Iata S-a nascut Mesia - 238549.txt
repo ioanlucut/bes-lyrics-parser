@@ -1,0 +1,31 @@
+[title]
+Iata s-a nascut mesia {author: {Petru Braila}, {rcId: {238549}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Păstorii-n miez de noapte, veghează-n turma lor
+Se aude-n văi de nopate, cântul păstorilor
+Dar îngerii deodată, minunea prevestesc
+Un cor ceresc se-arată, văzduhu-mpodobind
+
+[c]
+Iată, iată S-a născut Mesia
+Cerurile se deschid
+Mare este bucuria, în cetatea lui David
+Iată, iată s-a născut Mesia
+Corul cântă ne-ncetat
+Mare este bucuria, s-a născut un Împarat :/
+
+[v2]
+Ce veste minunată, ce cor și ce mister
+Mai clar ca niciodată, S-a coborât din cer
+Ce noapte, ah ce glori - haidem la Bethleem
+Au zis atunci păstori, pe Prunc ca să-L vedem.
+
+[v3]
+Ce fericire mare, spre iesle-n pas grăbit
+Uimiți de-așa cântare păstorii au pornit
+Și au găsit în iesle, pe Pruncul Mesia
+Tot cerul ne privește, ce har - Aleluia

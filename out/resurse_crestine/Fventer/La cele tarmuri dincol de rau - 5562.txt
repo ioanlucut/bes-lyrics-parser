@@ -1,0 +1,37 @@
+[title]
+La cele tarmuri dincol de rau {author: {F.Venter}, {rcId: {5562}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+La cele tarmuri dincol’ de rau,
+O, ce frumoase locuri vad eu!
+O ceata mare de-a sfintilor,
+Imi pare c-aud cantarea lor:
+
+[c]
+„
+Vino acasa! Vin-acasa!”
+A lor chemare, asa suna;
+Ei te asteapta-n stralucire.
+Vin’ dar acasa, cu grabire!...
+
+[v2]
+Parintii-asteapta dupa copii.
+Colo-n marire pana vin si ei.
+La revedere, s-or bucura,
+Unii pe altii s-or saluta...
+
+[v3]
+Fratii mei s-au dus inainte,
+Acum, din cer, semn imi fac mie;
+Ce gloriosi sunt si ce frumosi!
+Ei ma asteapta, cu toti voiosi...
+
+[v4]
+In patria-mi acasa doresc,
+Acolo unde toti ma iubesc;
+Mantuitorul loc mi-a gatit:
+„
+Vin’ dar cu Mine! Fii fericit!...

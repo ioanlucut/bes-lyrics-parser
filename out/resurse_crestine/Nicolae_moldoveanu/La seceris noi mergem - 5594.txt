@@ -1,0 +1,27 @@
+[title]
+La seceris noi mergem {author: {Nicolae Moldoveanu}, {rcId: {5594}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+La seceris noi mergem, o Cu drag, astazi sa lucram;
+S-aducem snopi, snopi auriti, o Din zori pan’ s-a insera.
+Cu toata sarguinta, o S-aducem snopi, snopi auriti!
+
+[c]
+/: S-aducem snopi, snopi auriti! :/
+Lauda Domnului Hristos,
+Ca la seceris ne-a scos
+S-aducem snopi, snopi auriti!
+
+[v2]
+Orisiunde vom lucra, o Cu Domnul vom secera,
+S-aducem snopi, snopi auriti. o Noi, cu El, de vom lucra,
+Roada sfanta vom avea, o Aducand snopi, snopi auriti.
+
+[v3]
+Vom canta si ne-om ruga, o Pe Isus vom lauda,
+Aducand snopi, snopi auriti.
+Harnici, daca o sa fim, o Voia Lui o sa-mplinim,
+Aducand snopi, snopi auriti.

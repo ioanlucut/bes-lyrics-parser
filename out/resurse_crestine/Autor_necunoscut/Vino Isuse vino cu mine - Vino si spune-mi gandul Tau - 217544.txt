@@ -1,0 +1,65 @@
+[title]
+Vino isuse vino cu mine / vino si spune-mi gandul tau {author: {Anonim}, {rcId: {217544}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,v5,c5
+
+[v1]
+Vino Isuse vino cu mine
+Vino și spune-mi gândul Tău
+Vino Isuse vino cu mine
+Să pot scăpa de orice rău.
+
+[c]
+/: Vino Isuse vino cu mine.
+Tu esti intelepciunea mea mereu
+Vino Isuse vino cu mine
+Condu-mă Tu prin Harul Tau :/
+
+[v2]
+Vino Isuse vino cu mine
+În orice zi din viața mea
+Vino Isuse vino cu mine
+Și întărește-mi inima
+
+[c2]
+/: Vino Isuse vino cu mine.
+Doar Tu ești izbăvirea mea mereu
+Prin încercare eu nu pot trece
+Fără de Tine Domnul meu. :/
+
+[v3]
+Vino Isuse vino cu mine.
+Pe drumul care l-ai ales
+Vino Isuse vino cu mine
+Vino și fă-te înțeles
+
+[c3]
+/: Vino Isuse vino cu mine.
+Doar Tu îmi esti lumina mea mereu
+Vino Isuse vino cu mine
+Să trec și greul cel mai greu :/
+
+[v4]
+Vino Isuse vino cu mine.
+Și-mbraca-mă cu Duhul Tău
+Vino Isuse vino cu mine
+Să pot intra în planul Tău
+
+[c4]
+/: Vino Isuse vino cu mine.
+Doar Tu îmi ești Tăria mea mereu
+Vino Isuse vino cu mine
+Și mă condu pe drumul greu. :/
+
+[v5]
+Vino Isuse vino cu mine.
+Să pot lucra în via Ta
+Vino Isuse vino cu mine
+Să biruiesc in lupta grea.
+
+[c5]
+/: Vino Isuse vino cu mine
+Numai cu Tine pot înainta
+Vino Isuse vino cu mine
+Doar Tu ești biruința mea. :/

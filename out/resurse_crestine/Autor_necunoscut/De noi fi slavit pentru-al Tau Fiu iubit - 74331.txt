@@ -1,0 +1,21 @@
+[title]
+De noi fi slavit pentru-al tau fiu iubit {author: {Anonim}, {rcId: {74331}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+De noi fi slăvit pentru-al Tău Fiu iubit,
+Ce pe crucea Golgotei umil S-a jertfit.
+
+[c]
+/: Aleluia! Slavă Ție, Aleluia! Amin.
+Aleluia slavă Ție, Isus, Miel divin. :/
+
+[v2]
+De noi fi slăvit, Domnul nostru iubit,
+Că prin jertfa-Ți măreață Tu ne-ai mântuit.
+
+[v3]
+De toți lăudat fie Cel ce și-a dat
+Viața Sa pentru noi ce zăceam în păcat.

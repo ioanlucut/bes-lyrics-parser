@@ -1,0 +1,35 @@
+[title]
+Biserica-i vremea din urma {author: {Anonim}, {rcId: {172440}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Biserică-i vremea din urmă,
+Când tot mai mulți se risipesc;
+Aproape-i timpul să revină
+Al nostru Domn, Mire ceresc!
+
+[c]
+/: Se-aude strigarea, sfârșită-i așteptarea,
+Iată, Mirele, vine Isus!
+E-aproape Răpirea, ridică-ți privirea,
+Mireasă iubită, privește în sus! :/
+
+[v2]
+A mai rămas puțină vreme,
+Ne spune azi Cuvântul sfânt...
+Fii răbdătoare în veghere,
+Biserică de pe pământ!
+
+[v3]
+Arată-ți fața, porumbițo
+Ce stai ascunsă-n văi adânci!
+Vin, dar mai rabdă înc-o clipă
+În crăpăturile de stânci!
+
+[v4]
+Ce sărbătoare când, văzduhul,
+Va răsuna de melodii
+Căci vom lăsa pe veci pământul
+Și vom pleca spre galaxii!

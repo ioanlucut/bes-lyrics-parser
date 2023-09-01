@@ -1,0 +1,29 @@
+[title]
+Zi de zi mergand pe cale {author: {Nicolae Moldoveanu}, {rcId: {4132}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Zi de zi, mergând pe Cale, frate credincios,
+Cântă-I laude într-una Domnului Hristos!
+Fii voios că-n Oastea Sfântă ești și tu chemat,
+De aceea-ntotdeauna cântă-I ne-ncetat!
+
+[c]
+/: Cântă, cântă, cântă ca David,
+Cântă, cântă, cântă așa,
+Tot iadul când cânți tu să se-nfioare,
+Să fugă vrășmașul cu toat-armata sa! :/
+
+[v2]
+Ne-ncetat să ’nalți spre ceruri, zi de zi, cântări,
+Chiar de treci prin clipe grele și prin încercări!
+Nu uita, Pavel și Sila au cântat și-n greu
+Și, din ceruri, izbăvirea le-a dat Dumnezeu!
+
+[v3]
+Cântă frate, cântă soră să răsune-n zări
+Laude și Osanale până-n depărtări
+Pentru Împăratul nostru care-a biruit,
+Să-I cântăm cu toți Mărire, El ne-a mântuit!

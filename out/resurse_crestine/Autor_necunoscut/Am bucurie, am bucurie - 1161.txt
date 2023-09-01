@@ -1,0 +1,19 @@
+[title]
+Am bucurie am bucurie {author: {Anonim}, {rcId: {1161}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Am bucurie, am bucurie
+Râuri de apă vie curg din sufletul meu;
+Am bucurie, am bucurie,
+Am numele scris în Cartea Vieții.
+
+[c]
+Aleluia.
+
+[v2]
+Bucuria mea
+Lumea nu mi-a dat-o.
+Și n-o va lua.

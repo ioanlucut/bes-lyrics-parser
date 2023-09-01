@@ -1,0 +1,49 @@
+[title]
+A fost o zi in viata ta cand isus ti-a iesit in cale {author: {Matei Adalbert}, {rcId: {233534}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+A fost o zi in viața ta
+Când Isus ți-a ieșit în cale
+Tu i-ai spus că-L vei urma
+Orice-ar fi chiar până la moarte
+Ți-a dat și ție Duhul Sfânt
+Ca să fi plin de-a Lui putere
+Să vestești Cuvântul Său
+Pe Isus celui care piere
+
+[c]
+Dar nevegherea te-a făcut
+Ca să cazi pe cale
+Te-ai depărtat de Dumnezeu
+Care ți-a dat salvare
+Isus Hristos e-ndurăror
+Bun și plin de milă
+Te ridica dacă vrei
+Să vi din nou în turmă
+Nu mai e mult el vin iar
+Ne va duce acasă
+Să te căiești și să te-ntorci
+Să fi a Lui mireasă
+
+[v2]
+Neobosit mergeai mereu
+Și slăveai numele Lui mare
+Plin de râvnă erai tu
+Frate drag pentru-a Sa lucrare
+Te rugai neîncetat
+Ca să fi-n credință tare
+Dumnezeu se proslăvea
+Ascultai de a Lui chemare
+
+[v3]
+Adu-ți aminte când ai fost
+Părăsit și uitat in lume
+Când nimenea nu ți-a dat
+Ajutor dar nici mângâiere
+Isus Hristos cu brațul Său
+Te-a cuprins ai simțit iubirea
+Acela care te-a salvat
+Vrea să-ți dea la sfârșit cununa.

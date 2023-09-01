@@ -1,0 +1,36 @@
+[title]
+Tu esti dumnezeul puternic si sfant {author: {Otto Pascal}, {rcId: {233638}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Tu ești Dumnezeul puternic și Sfânt,
+Desparți chiar și marea cu un singur cuvânt.
+Cinci mii de persoane Tu poți să hrănești,
+Făcând o minune cu cinci pâini și doi pești.
+
+[c]
+Domn al Domnilor, Atotștiutor,
+Ești pace, iertare și vindecător;
+Asculți rugăciuni, faci oameni mai buni
+Și schimbi viața celor ce cred în minuni!
+
+[v2]
+Pe drumul de piatră înspre Ierihon
+Orbul Bartimeu îți cerea ajutor,
+Credința în Tine vedere i-a dat
+Striga printre lacrimi „
+Isus m-a vindecat!”
+
+[v3]
+În barcă pe mare dormeai liniștit,
+Dar vântul năpraznic furtun-a întețit,
+Strigau ucenicii speriați să îi scapi,
+La un singur cuvânt vântul Te-a ascultat.
+
+[v4]
+Maria și Marta plângand te rugau
+S-ai milă de Lazăr, căci mult îl iubeau;
+Cuvântul Tău veșnic viață i-a dat
+Ce mare minune: din morți l-ai înviat!

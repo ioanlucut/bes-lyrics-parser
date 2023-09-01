@@ -1,0 +1,31 @@
+[title]
+Tu mi-ai dat o speranta {author: {Ionel Saran Bochis}, {rcId: {111186}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Într-un miez de noapte
+Când eu m-am trezit,
+Cu ochii în lacrimi
+La cer am privit.
+Te-am chemat cu lacrimi
+Și cu-atâta dor,
+Până când la mine
+Isus ai venit!
+
+[c]
+/: Tu mi-ai dat o speranță
+Și mi-ai dat totu’-n dar!
+Tu m-ai scăpat de moarte,
+De chinul cel amar! :/
+
+[v2]
+Nu știam Isuse
+Căci Tu mă iubești!
+Nu aveam pe nimeni
+La cine s-alerg.
+Printre norii negrii
+Lumina-am zărit,
+M-ai luat de mâna,
+Tu m-ai mântuit!

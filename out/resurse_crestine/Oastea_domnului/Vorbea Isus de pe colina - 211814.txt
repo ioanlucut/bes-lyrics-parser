@@ -1,0 +1,54 @@
+[title]
+Vorbea isus de pe colina {author: {Oastea Domnului}, {rcId: {211814}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+Vorbea Isus de pe colină
+Poporului ce sta pe jos
+/: Cu fața plină de lumină
+Vorbea Isus de pe colină
+Cu glasul rar, adânc duios :/
+
+[v2]
+În lume ura-i ca o stâncă
+Apasă sufletul oricui
+/: Te-nchide-n noaptea ei adâncă
+Să fii ca piatra, mai rău încă
+Să nu faci bine nimănui :/
+
+[v3]
+Dar eu vă spun, de vezi pe moarte
+Dușmanul tău, în drum căzut
+/: Tu lasă ura la o parte
+Și dacă-ți vezi dușmanu-n moarte
+Cu milă-ajută-l pe căzut :/
+
+[v4]
+Dac-un dușman bătut de soartă
+Lușa ta se va opri
+/: Tu lasă ura la o parte
+Dușmanului bătut de soarte
+Tu dă-i ce poți, dar nu-l goni :/
+
+[v5]
+Când un dușman în haine sparte
+La ușa ta va aștepta,
+/: Tu lasă ușa la o parte
+Dușmanului în haine sparte
+Tu dăruiește-i haina ta :/
+
+[v6]
+Dacă dușmanii tăi de moarte
+Vor face contra ta sobor
+/: Tu lasă ura la o parte
+Și chiar dușmanilor de moarte
+Le-ntinde mâna iubitor :/
+
+[v7]
+Cu cei mai lipsiți tu împarte
+Bucata pâinii de-a trăi
+/: Cât ai chiar cu dușmanu-mparte
+Căci Dumnezeu ți-o face parte
+Atunci și ție sus în rai :/

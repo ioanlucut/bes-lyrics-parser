@@ -1,0 +1,35 @@
+[title]
+S-a nascut isus {author: {Alin și Emima Timofte}, {rcId: {143032}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Din cer se-aude cântând,
+Ce minunat, ce minunat!
+Coboară la noi pe pământ
+Un Împărat, un Împărat.
+Văzduhul întreg, cu lumini, s-a împodobit
+Căci azi s-a împlinit ce-a fost prevestit.
+
+[c]
+Veniți să Îi cântăm în cor,
+Isus e Fiu de Dumnezeu,
+El este al lumii Salvator!
+Veniți acum să-L adoram,
+Cu tot ce-avem, să ne închinăm
+Și inima să-I dăm!
+
+[v2]
+Mesia, Cel mult așteptat,
+S-a întrupat, S-a întrupat.
+De slava și gloria Lui
+S-a dezbrăcat, S-a dezbrăcat.
+Atât de umil, printre noi, El a venit,
+Luând chip de om fiindcă ne-ai iubit!
+
+[e]
+S-a născut Isus, S-a născut Isus
+Și la toti, în dar, pace ne-a adus.
+S-a născut Isus, S-a născut Isus,
+Mântuire-n dar El ne-a adus.

@@ -1,0 +1,46 @@
+[title]
+De la capatul pamantului strig {author: {Gabriel și Genoveva Gorcea}, {rcId: {229720}}
+
+[sequence]
+v1,c,v2,c2,e
+
+[v1]
+De la capătul pământului strig
+Ascultă rugăciunea mea
+Spre Tine mă îndrept cu toată inima,
+Du-mă pe stânca-naltă, du-mă pe stânca Ta,
+Fără de Tine Doamne, nu voi putea urca.
+
+[c]
+Căci Tu îmi ești un scut, un turn de scăpare,
+Stând la adăpostul aripilor Tale,
+Tu asculți rugăciunea mea
+De-aceea Te voi lăuda,
+Bunătatea și credincioșia Îți sunt cunună,
+Tu asculți glasul meu, de-aceea-ți voi cânta mereu,
+Te voi slăvi în vreme rea, sau vreme bună,
+
+[v2]
+Spre Tine Doamne mă îndrept
+Tu-mi cunoști chiar și gândul
+De tine ascultă cerul și pământul
+Du-mă pe stânca-naltă, du-mă pe stânca Ta,
+Fără de Tine Doamne, nu voi putea urca.
+
+[c2]
+Căci Tu îmi ești un scut, un turn de scăpare,
+Stând la adăpostul aripilor Tale,
+/: Tu asculți rugăciunea mea
+De-aceea Te voi lăuda,
+Bunătatea și credincioșia Îți sunt cunună,
+Tu asculți glasul meu, de-aceea-ți voi cânta mereu,
+Te voi slăvi în vreme rea, sau vreme bună, :/
+
+[e]
+Căci Tu îmi ești un scut, un turn de scăpare,
+Stând la adăpostul aripilor Tale,
+Tu asculți rugăciunea mea
+De-aceea Te voi lăuda,
+Bunătatea și credincioșia Îți sunt cunună,
+Tu asculți glasul meu, de-aceea-ți voi cânta mereu,
+/: Te voi slăvi în vreme rea, sau vreme bună :/

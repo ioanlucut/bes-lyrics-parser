@@ -1,0 +1,35 @@
+[title]
+Din a lumii alergare {author: {Daniel Hîrtie}, {rcId: {229637}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Din a lumii alergare, să te oprești nu vrei oare?
+Nu vrei, omule?
+Ai un suflet, ai o viață, azi Isus îți dă o șansă,
+Să te pocăiești!
+
+[c]
+Pocăiește-te! Hotărăște-te!
+Că nu ești stăpân pe viață.
+/: Anii tăi în zbor, trec precum un nor
+Și-ai sa plângi cu-amar odată! :/
+
+[v2]
+Vine vine judecata, cei răi vor primi răsplata,
+Pentru fapta lor!
+Legați de mâini, de picioare, vor privi cu groază mare,
+Iazul cel de foc!
+
+[v3]
+Cât inima îți mai bate, cu-ale tale mari păcate,
+Vino la Hristos,
+El te iartă, te îmbracă, cu o haină nepătată,
+De copil iertat!
+
+[v4]
+Binecuvântare-n viață, fericire-n a ta casă,
+Vei primi în dar.
+De vei sta în ascultare până la a Lui chemare
+Vei fi mântuit.

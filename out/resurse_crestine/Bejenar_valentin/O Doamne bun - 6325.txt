@@ -1,0 +1,35 @@
+[title]
+O doamne bun {author: {Bejenar Valentin}, {rcId: {6325}}
+
+[sequence]
+c,v1,c2,v2,c3
+
+[c]
+O Doamne bun și-ndurător,
+Cu Tine sunt biruitor.
+/: Cu Tine eu călătoresc
+Și vreau mereu să îți slujesc. :/
+
+[v1]
+Eu vreau mereu să-ți cânt cu dor
+Eu vreau să ies biruitor.
+Eu vreau mereu crucea-mi purta,
+Să pot s-ajung în țara Ta.
+
+[c2]
+O Doamne bun al meu păstor,
+Te rog să-mi vii în ajutor.
+/: Căci lupta este tot mai grea
+Dă-mi putere să pot lupta. :/
+
+[v2]
+Eu vreau mereu cât voi trăi,
+Pe Tine Doamne, a Te vesti.
+Eu vreau mereu să spun la toți,
+De jertfa lui Isus Hristos.
+
+[c3]
+Chiar dacă lumea-i tot mai rea
+Și toți luptă-mpotriva mea.
+/: Cu Tine eu voi -nainta
+Și numele-Ți voi înălța. :/

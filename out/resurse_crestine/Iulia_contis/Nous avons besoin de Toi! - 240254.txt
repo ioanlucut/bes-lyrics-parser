@@ -1,0 +1,17 @@
+[title]
+Nous avons besoin de toi {author: {Iulia Contis}, {rcId: {240254}}
+
+[sequence]
+v1,v2
+
+[v1]
+Nous avons besoin de Toi!
+Tu es toujours le notre roi,
+Tu es aussi le notre Dieu,
+Tu es ici, dans ce lieu!
+
+[v2]
+Le ciel est ton premier lieu,
+Mais Tu viens ici, Dieu;
+Ta puissance peut nous changer,
+Ta voix nous voulons écouter!

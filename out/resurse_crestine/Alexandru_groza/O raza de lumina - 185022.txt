@@ -1,0 +1,27 @@
+[title]
+O raza de lumina {author: {Alexandru Groza}, {rcId: {185022}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+O rază de lumină am în inima mea
+Ea-mi luminează calea și-alungă noaptea grea!
+O rază de lumină sfințește viața mea
+E Isus, Salvatorul, ce-mi poartă grija mea.
+
+[c]
+De când El m-a salvat din starea de păcat
+Sunt fericit mereu, căci sunt pe veci al Său
+Nu sunt îngrijorat, sufletul mi-e salvat
+Inima mea-L slăvește zi de zi
+De când El m-a salvat din starea de păcat
+M-a binecuvântat, de toate El mi-a dat
+Mi-a dat Lumina Lui și slava Cerului
+Mi-a dat în dar viața veșnică!
+
+[v2]
+O rază de lumină am în inima mea
+E harul pocăinței, e Isus, dragostea
+El e Lumina lumii, în cer și pe pământ
+El mi-a dat pacea sfântă și harul prin Cuvânt!

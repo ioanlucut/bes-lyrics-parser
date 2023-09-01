@@ -1,0 +1,35 @@
+[title]
+Vestea buna {author: {Andreea Mois}, {rcId: {157272}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Vestea bună îngerii-au adus
+Despre ziua Pruncului Isus,
+S-a născut umil în Betleem
+Într-o noapte târziu.
+Coruri îngerești, L-au proclamat
+Magi cu daruri, L-au întâmpinat,
+E Mesia, a venit ca Domn
+Într-o noapte târziu.
+
+[c]
+Și n-a avut nimic pe acest pământ
+Umil, smerit, veni Copilul Sfânt.
+Să mântuiască întreaga lume, de al ei păcat
+În veșnicii cu Tatăl ne-a împăcat.
+/: Și n-a avut nimic pe acest pământ
+Umil, smerit, veni Copilul Sfânt.
+Să mântuiască întreaga lume, de al ei păcat
+În veșnicii cu Tatăl ne-a împăcat! :/
+
+[v2]
+Îl cunoaștem azi, ca Salvator
+Pe slăvitul Prunc, Mântuitor,
+Să ne dea viața, S-a născut
+Într-o noapte târziu.
+La Calvar, apoi L-am întâlnit
+Prețul omenirii a plătit,
+Dându-și viața, ne-a răscumpărat
+Dintr-al nopții târziu.

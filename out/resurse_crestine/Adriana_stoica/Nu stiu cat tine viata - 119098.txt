@@ -1,0 +1,39 @@
+[title]
+Nu stiu cat tine viata {author: {Adriana Stoica}, {rcId: {119098}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: Nu știu cât ține viața
+Pe acest pământ străin
+Dar vreau să îți cânt, Isuse
+Să Te laud Domn divin :/
+
+[c]
+Te iubesc, Isuse
+Te laud mereu
+Te iubesc, Isuse
+Salvatorul meu.
+Te iubesc, Isuse
+Mereu Îți voi cânta
+Te iubesc, Isuse
+Tu ești viața mea!
+
+[v2]
+/: Eu știu că aicea în lume
+De aceea m-am născut
+Să-Ți fac voia Ta, o, Doamne
+Să Te laud, să Te cânt :/
+
+[v3]
+/: Chiar de sunt furtuni pe cale
+Lacrimi multe și dureri
+În curând sfârși-vom calea
+Și vom fi în veci cu El :/
+
+[v4]
+/: De aceea Doamne Isuse
+Viața mea eu Ți-am predat
+Cât voi mai trăi, Isuse
+Vreau să-Ți cânt neîncetat :/

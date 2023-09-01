@@ -1,0 +1,33 @@
+[title]
+Cand incercarea ti se pare (caci dumnezeu e cel ce stie) {author: {Simon Boloca}, {rcId: {199685}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când încercarea ți se pare
+Iubite frate că-i prea grea,
+Tu nu cârti ci spune: Doamne
+/: În toate fie Voia Ta :/
+
+[c]
+Căci Dumnezeu e cel ce știe
+În totul suferința ta,
+Încrede-te deplin în El
+Că nicicând nu te va lasă
+Tu ești săpat în Mâna sfântă
+A Sfântului Mântuitor
+Ce har mareț, El nu te uită
+Că El e Domnul Domnilor!
+
+[v2]
+Te-ntrebi adesea când răsare
+Soarele și-n viața ta,
+Nu te uita la încercare
+/: Ci-ncrede-te în Mesia :/
+
+[v3]
+Sunt întrebări aici care
+Răspuns nicicând nu vom afla,
+Dar vine ziua ceea mare
+/: Când cu Isus pe veci vom sta :/

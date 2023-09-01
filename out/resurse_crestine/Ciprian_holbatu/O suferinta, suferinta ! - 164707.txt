@@ -1,0 +1,35 @@
+[title]
+O suferinta suferinta {author: {Ciprian Holbatu}, {rcId: {164707}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+O suferință, suferință!
+De tine parte am avut
+/: Din mica mea copilărie
+Pe tine eu te-am cunoscut :/
+
+[v2]
+De ce așa? O știi Tu Doamne!
+Și pentru ce ai hotărât?
+/: Ca soarta mea să aibă parte
+De suferință așa de mult :/
+
+[v3]
+O suferință, suferință!
+Te rog să pleci din viața mea!
+/: Mai lasă loc de fericire
+Să am și eu parte de ea! :/
+
+[v4]
+Când suferința te apasă
+Și nu mai poți înainta
+/: Așa e calea ce-a trasat-o
+Isus Hristos din Golgota! :/
+
+[v5]
+De ce așa? O știi Tu Doamne!
+De ce nu vii când eu Te chem?
+/: Când duhul meu geme Isuse
+Geme după ajutorul Tău :/

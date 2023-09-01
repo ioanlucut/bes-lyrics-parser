@@ -1,0 +1,43 @@
+[title]
+Eu voi canta - psalmul {author: {Kristyn Getty, Traducere RO}, {rcId: {58951}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+Eu voi cânta
+mereu din toată inima
+În orice zi eu mă voi bucura
+Îmi amintesc minuni ce mi le-a arătat
+Puterea Sa și mila de-a ierta
+În cor cu îngeri I-aducem laude
+El nu ne-a pedepsit păcatele.
+
+[c]
+Atât de mare e iubirea Ta
+De la pământ la nori, de la pământ la nori
+Precum e răsăritul de apus
+Așa ai depărtat
+păcatul de la noi
+În lung și-n lat
+este iubirea Ta.
+
+[v2]
+Plăcerea Lui
+e să dea milă celor slabi.
+Nevoia lor iubește-a o-mplini.
+Peste pământ,
+dreptatea, mila Lui vorbesc
+Pe cei ce plâng, mereu îi va primi.
+Din veșnicie în veșnicie
+Întinerim mereu la orice pas
+
+[b]
+Deși aici noi suntem
+ca un fir de praf
+Ca flori ce azi le vezi și mâine nu-s
+Cu frumusețe
+viața ne-a încoronat
+Răbdarea Lui zâmbește tuturor.
+Din generații în generații
+Vom povesti credincioșia Sa.

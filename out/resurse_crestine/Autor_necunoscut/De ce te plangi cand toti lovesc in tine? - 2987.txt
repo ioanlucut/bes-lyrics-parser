@@ -1,0 +1,54 @@
+[title]
+De ce te plangi cand toti lovesc in tine? {author: {Anonim}, {rcId: {2987}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7,v8
+
+[v1]
+De ce te plângi când toți lovesc în tine?
+Rămâi mereu o stâncă de granit,
+/: Un pom sădit chiar lângă drum, știi bine,
+Când are rod de toți este lovit. :/
+
+[v2]
+De ce te plângi când ai căzut pe cale?
+Eroii cad și se ridică iar
+/: Căderea este-o parte-a vieții tale
+De te ridici atunci devii un far. :/
+
+[v3]
+De ce te plângi când ești în suferință?
+Tu ești chemat să fii biruitor
+/: Un murmur doar, în drum spre biruință
+Te face laș și e înjositor. :/
+
+[v4]
+De ce te plângi când marea se frământă
+Iar barca ta purtată e de val?
+/: Căci noi plutim spre patria cea sfântă,
+Vâslim mereu pe marea de cristal. :/
+
+[v5]
+De ce te plângi când nu mai e lumină
+Și pentru-o clipă-n viață ești învins?
+/: Ești obosit și calea ți-e străină
+Privește acolo-n port e-un far aprins. :/
+
+[v6]
+De ce te plângi când bolta e pustie
+Și norii grei umbresc cărarea ta?
+/: Căci sus, acolo-n patria divină,
+E numai zi, curaj, nu dispera. :/
+
+[v7]
+De ce te plângi când frații tăi de cruce
+Te-au părăsit cu tot ce-i omenesc?
+/: Căci pentru tine-un glas duios și dulce
+Îți spune azi: „
+Eu nu te părăsesc”. :/
+
+[v8]
+De ce te plângi când toți te dau uitării?
+Tu ești chemat lumină să răsfrângi
+/: Dar nu uita de nu răspunzi chemării,
+Tu ești pierdut și-atuncea poți să plângi. :/

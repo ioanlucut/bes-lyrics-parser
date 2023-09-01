@@ -1,0 +1,35 @@
+[title]
+Frant de dorul asteptarii {author: {Anonim}, {rcId: {3213}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Frânt de dorul așteptării
+Stau în poartă și privesc
+/: Oare nu m-ai dat uitării
+Împăratul meu ceresc? :/
+
+[v2]
+Umbra grea de seară rece
+Pe pământ s-a așternut,
+/: Gânduri ce nu vor să plece
+Cu durere m-au umplut. :/
+
+[v3]
+Pe pământ tu nu ai pace
+Ca străin călătorești
+/: Patrie acolo sus ai
+La Părintele ceresc :/
+
+[v4]
+Sus în cer stau heruvimii
+Serafimii, stâlpi de foc,
+/: Iar arhanghelii sublimii
+Ție-Ți cântă-n al lor joc. :/
+
+[v5]
+Sufletul meu pierdut a fost
+Și mila Ta s-arătat
+/: Splendoarea feții Ți-am văzut
+Și din Duhul Tău mi-ai dat. :/

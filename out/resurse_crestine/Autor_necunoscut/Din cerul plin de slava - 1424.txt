@@ -1,0 +1,41 @@
+[title]
+Din cerul plin de slava {author: {Anonim}, {rcId: {1424}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Din cerul plin de slavă Domnul Isus coboară
+Din dragoste să moară pentru lumea întreagă
+Se va împlini Cuvântul, dar vai de sufletul
+Prin care Domnul Isus morți e dat.
+
+[c]
+/: Acum unde ești Iuda, Iuda, Iuda?
+Doar știe toată lumea care e soarta ta.
+Domnul este viu Iuda, Iuda, Iuda
+Dar tu unde ești Iuda? Pierdută-i viața ta! :/
+
+[v2]
+Domnul Isus murind lumii a arătat
+Că poate peste moarte să fie învingător
+Și cei care au crezut în Cuvântul Lui sfânt
+Au fost martiri, dar Isus n-a fost învins.
+
+[c2]
+/: Acum unde ești Nero, Nero, Nero?
+Doar știe toată lumea care e soarta ta.
+Domnul este viu Nero, Nero, Nero
+Cum vii sunt toți aceia uciși de mâna ta. :/
+
+[v3]
+Din cerul plin de slavă Domnul curând coboară
+Copiii să Își cheme din această lume
+Se va împlini Cuvântul, fericit sufletul
+Ne va fi când răsplata în cer vom lua.
+
+[c3]
+/: Nu va mai fi nici Iuda, nu va mai fi nici Nero
+Nu va mai fi nici ura din inimile lor
+Va fi numai iubirea, va fi numai iubirea,
+Va fi numai iubirea în vecii vecilor. :/

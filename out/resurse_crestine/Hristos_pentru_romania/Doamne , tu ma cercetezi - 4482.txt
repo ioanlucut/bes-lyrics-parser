@@ -1,0 +1,30 @@
+[title]
+Doamne tu ma cercetezi {author: {Hristos pentru România}, {rcId: {4482}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Doamne, Tu ma cercetezi,
+De aproape Tu ma stii,
+Stii cand umblu si cand dorm,
+Chiar si gandul mi-l cunosti
+
+[c]
+Doamne, Te laud ca m-ai creat
+In chip asa de minunat!
+Ce bine stiu, asa cum sunt, 
+Ce rost mi-ai dat pe-acest pamant!
+Doamne, Te laud...
+
+[v2]
+Doamne, stii al meu cuvant
+Inainte sa-l rostesc,
+Mana peste mine-Ti pui,
+Peste tot eu Te zaresc
+
+[v3]
+Tu esti, Doamne, sus in cer, 
+Esti la margine de mari,
+Aripile zorilor
+Spun ca Tu esti Creator.

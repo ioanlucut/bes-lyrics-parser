@@ -1,0 +1,25 @@
+[title]
+Ierusalim cetatea mea {author: {Traian Dorz}, {rcId: {66416}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Ierusalim, cetatea mea, tot sufletul-mi suspină:
+/: Când oare, când te voi vedea, când oare-n tine voi intra?
+Să cânt în mântuirea Ta pe marea cristalină. :/
+
+[v2]
+Ierusalim, sfânt dor nestins, ce dulce va fi-n tine!
+/: Când lungul zbucium va fi-nvins, când țelul drag va fi atins
+Iar plânsul șters, uitat și stins și zilele senine! :/
+
+[v3]
+Oraș cu ziduri de topaz, iubirea mea te cheamă
+/: Cu rugăciunile-n extaz, cu râu de lacrimi pe obraz,
+Cu dorul să te vadă azi, strigându-ți: ia-mă, ia-mă! :/
+
+[v4]
+Dar până atunci, Ierusalim, trimite-ne din tine
+/: Arvuna harului sublim pe care-l cerem și-l dorim,
+Biruitori să moștenim comorile-ți divine. :/

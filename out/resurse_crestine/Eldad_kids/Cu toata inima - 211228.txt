@@ -1,0 +1,23 @@
+[title]
+Cu toata inima {author: {Eldad Kids}, {rcId: {211228}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Cu toată inima laud pe Isus,
+El mă iubește chiar dacă sunt micuț.
+Cu toată inima noi Îi cântăm în cor
+Și laudă-I aducem Domnului Domnilor!
+
+[c]
+Îi cântăm laudă, I-aducem Glorie,
+Osana și Mărire Numelui Său.
+Îi cântăm laudă, I-aducem Glorie,
+Cu toată inima mereu Îi voi cânta lui Dumnezeu!
+
+[v2]
+Cu toată inima mereu Îi mulțumesc
+Pentru familia mea pe care o iubesc.
+Cu toată inima eu vreau să Îl slujesc
+Și toată viața pe Isus să Îl iubesc.

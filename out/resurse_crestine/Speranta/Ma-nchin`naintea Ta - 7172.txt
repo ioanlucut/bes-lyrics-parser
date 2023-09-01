@@ -1,0 +1,30 @@
+[title]
+Ma-nchin naintea ta {author: {Speranța}, {rcId: {7172}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Mă-nchin ’naintea Ta
+Cu toată inima,
+Te laud, Dumnezeule,
+Te-ador și-Ți mulțumesc,
+Numele Tău Îl slăvesc,
+Îți cânt, Creatorule.
+/: Tu mi-ai dat viață,
+M-ai facut copilul Tău,
+Sunt în siguranță
+Cu Tine, Dumnezeu. :/
+
+[c]
+/: Aleluia! Doamne m-ai salvat!
+Numele Tău, în veci fie lăudat! :/
+
+[v2]
+Din groapa pieirii m-ai ridicat,
+Din fundul mocirlei
+Doamne, m-ai salvat,
+Mi-ai pus picioarele pe stâncă,
+Pașii mei i-ai întărit,
+M-ai adus la viață,
+Fii în veci slăvit!

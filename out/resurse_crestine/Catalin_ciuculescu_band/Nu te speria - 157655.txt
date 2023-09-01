@@ -1,0 +1,27 @@
+[title]
+Nu te speria {author: {Cătălin Ciuculescu Band}, {rcId: {157655}}
+
+[sequence]
+v1,b,c,v2,c
+
+[v1]
+/: Se întâmplă să crezi că ești singur,
+Nu, nu ești!
+Nu te teme, căci Eu sunt cu tine,
+Vreau să crezi! :/
+
+[b]
+De Mă vei căuta, vei vedea fața Mea,
+Dacă Mă vei chema, Eu te voi ajuta.
+
+[c]
+/: Nu, nu te speria, ești în mâna Mea,
+Poți să stai liniștit!
+Îți las pacea Mea, în inima ta,
+Vreau să fii fericit! :/
+
+[v2]
+/: Vreau să-ți spun, că Mă bucur de tine,
+Te iubesc!
+Niciun rău nu te poate învinge,
+Ai să vezi! :/

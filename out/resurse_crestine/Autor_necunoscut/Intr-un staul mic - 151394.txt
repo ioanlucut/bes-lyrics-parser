@@ -1,0 +1,25 @@
+[title]
+Intr-un staul mic {author: {Anonim}, {rcId: {151394}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Într-un staul mic, la o margine de sat
+S-a născut un Prunc drăgălaș și minunat
+
+[c]
+Îngeri cântă-n cor: pace fie pe Pământ
+S-a născut Hristos, fiul Domnului, Cel Sfânt.
+
+[v2]
+Ceata de păstori în uimire ascultă
+Îngerescul cor, vestea bună ce-aducea
+
+[v3]
+Magi, din răsărit, au pornit conduși de stea
+Și la Betleem au venit a se-nchina
+
+[v4]
+Vestea bună azi se aude ne-ncetat
+Pruncul a venit să ne scape de păcat

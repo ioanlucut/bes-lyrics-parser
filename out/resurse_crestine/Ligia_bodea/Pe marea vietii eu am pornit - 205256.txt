@@ -1,0 +1,29 @@
+[title]
+Pe marea vietii eu am pornit {author: {Ligia Bodea}, {rcId: {205256}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pe marea vietii eu am pornit
+Vantul e mare dar sunt linistit
+Bratul tau, Doamne, ma va ocroti
+Cand valul marii se va napusti.
+
+[c]
+Te strig cand barca mea se clatina
+Cearta valul si furtuna care ma impresoara
+Sa vi te chem si barca s-o conduci
+Langa mine ramai linistea tu s-o aduci.
+
+[v2]
+Cand se-nsereaza si-am obosit
+Te am la carma si sunt linistit
+Azi e furtuna dar maine sper
+O zi mai buna sa vina din cer.
+
+[v3]
+Tu-mi dai putere sa-ti multumesc
+Viata mea, Doamne, sa ti-o daruiesc
+Tu fi lumina eu te-as ruga
+Spre tara sfanta pe calea ta.

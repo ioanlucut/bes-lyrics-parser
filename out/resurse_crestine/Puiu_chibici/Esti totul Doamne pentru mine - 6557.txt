@@ -1,0 +1,45 @@
+[title]
+Esti totul doamne pentru mine {author: {Puiu Chibici}, {rcId: {6557}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ești totul Doamne pentru mine
+Ești visul meu cel mai frumos
+Mi-am pus încrederea în Tine
+Prietenul meu credincios
+Am adunat pe a Ta cale
+Tezaurul cel mai măreț
+Căci toate darurile Tale
+Sunt tot ce am eu mai de preț.
+
+[c]
+Ești călăuza mea de-o viață
+Cu nimeni nu Te-aș mai schimba
+Când Tu Isuse mergi în față
+Să rătăcesc cum aș putea?
+Ești far luminător în noapte
+Atunci când naufragiez
+De-aceea Domnul meu în toate
+În brațul Tău mă-ncredințez.
+
+[v2]
+În Tine am comori ascunse
+Ce pentru nimic nu le-aș da
+Tu-mi saturi sufletul, Isuse
+Mereu cu bunătatea Ta
+Tu mă păzești întotdeauna
+Și îmi lungești viața mea
+Căci Tu o știi că nu țărână
+Te poate Doamne, lăuda!
+
+[v3]
+Eu Te-am ales din tinerețe
+Tu-ai fost mereu nădejdea mea
+Și până-n anii bătrâneții
+Aș vrea să cânt în cinstea Ta
+Ești stânca mântuirii mele
+La poala-Ți sfântă ancorez
+Ajută-mi chiar și-n clipe grele
+Credința-n Tine s-o păstrez.

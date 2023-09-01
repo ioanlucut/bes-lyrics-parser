@@ -1,0 +1,25 @@
+[title]
+Pazeste-ma {author: {Remus Tămășan Cristi}, {rcId: {194194}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Păzește-mă pe calea Ta Domnul meu
+Și ține-mă în Brațul Tău mereu!
+Nu vreau să cad nicicând în lupta grea
+Ci în smerenie vreau să stau la crucea Ta!
+
+[c]
+În Mâna Ta eu sunt ocrotit
+Te laud că mult m-ai iubit!
+/: Și toată viața eu doresc
+Doar Ție să mă închin
+Smerit să stau la tronul Tău divin.
+ /:
+
+[v2]
+Te chem acum în inimă să domnești
+Ființa mea Te rog s-o curățești
+Și tot ce-i rău să scoți din viața mea
+Ca liber eu să pot cânta, spre slava Ta!

@@ -1,0 +1,26 @@
+[title]
+O ce orbire intra neincetat {author: {Fratii Maftei}, {rcId: {124747}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+O, ce orbire intră neîncetat, în ochii care văd mai bine
+/: În lumea stăpânită de păcat, ce fuge Doamne, de la Tine :/
+
+[c]
+Fără Tine, fără Tine, Doamne, nu-i lumină
+Nu-i nici viață, nu-i nici bine, frumusețe, nici odihnă
+Harul veșnic de la Tine, pentru cel ce crede, vine.
+
+[v2]
+O ce surzire e în urechea aceea, care aude tot mai bine
+/: Dar pentru adevărul Tău, pribeag și fuge Doamne, de la Tine :/
+
+[v3]
+O ce neînduplecate rătăciri, se nasc în mintea care ține
+/: Știința lumii de nelegiuiri, ce fuge Doamne, de la Tine :/
+
+[v4]
+Dar ce ferice este pentru acel, ce din credință intră, vine
+/: Să vadă costul sângelui de Miel, ce curge Doamne, de la Tine :/

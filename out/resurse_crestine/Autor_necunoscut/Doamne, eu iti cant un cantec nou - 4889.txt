@@ -1,0 +1,15 @@
+[title]
+Doamne eu iti cant un cantec nou {author: {Anonim}, {rcId: {4889}}
+
+[sequence]
+v1,c
+
+[v1]
+Doamne, eu Îți cânt un cântec nou,
+Pe glob se-ntinde a Ta laudă,
+Tu ești din veșnicii Domn al domnilor
+Și Mântuitor.
+
+[c]
+/: Aleluia, slavă Domnului.
+Aleluia, slavă în veci. :/

@@ -1,0 +1,29 @@
+[title]
+Spre tine doamne indrept azi glasul {author: {Nicu Wagner}, {rcId: {6502}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Spre Tine, Doamne, îndrept azi glasul.
+Din drumul strâmt, spinos și greu
+Și tot spre Tine îndrept și pasul,
+Nedespărțiți să fim mereu.
+
+[c]
+/: Azi merg pe calea Ta, Isuse;
+Ea duce-n slăvi, în Paradis.
+Ne-ai pregătit comori nespuse
+Și ne aștepți, că ne-ai promis. :/
+
+[v2]
+Când viforul de încercare
+Pe calea mea s-a năpustit,
+Tu ai venit cu îndurare,
+M-ai ridicat, m-ai întărit.
+
+[v3]
+Curând vei reveni ca Mire,
+Atâtea semne spun acum.
+E foarte aproape a Ta venire,
+Ți-aud lin pașii Tăi din drum.

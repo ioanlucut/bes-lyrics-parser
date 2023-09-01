@@ -1,0 +1,29 @@
+[title]
+O doamne-ti asteptam venirea {author: {Ovidiu Liteanu}, {rcId: {55628}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Inca putin si vom vedea pe Domnul,
+Inca putin si vom pleca la El,
+Ne-om intalni spre zarile albastre,
+La Dumnezeul Sfant Emanuel.
+
+[c]
+/: O Doamne-Ti asteptam venirea,
+In taina cu atata dor,
+Sa Te vedem Iubite Mire,
+O vino scump Mantuitor :/
+
+[v2]
+Inca putin mai stai in rugaciune,
+Mai staruieste dupa Duhul Sfant,
+Nu da-napoi si lupta-te-nainte,
+Biruitor sa fii pe-acest Pamant.
+
+[v3]
+Inca putin popor mai ai rabdare,
+Inca putin si El ne v-a chema,
+Domnul cu marea S-a a Lui iubire,
+La toti Ai Sai le v-a da Cununa.

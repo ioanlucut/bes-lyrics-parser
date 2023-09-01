@@ -1,0 +1,31 @@
+[title]
+Te voi lauda mereu {author: {Vasile Micula}, {rcId: {83450}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Spre Tine Doamne lauda mi-o înalț
+Și-n zilele senine
+Și-n cele negre pline
+În orice timp și-n orice ceas.
+Căci Tu ești bucuria mea
+Și a Ta bunătate
+O văd acum în toate
+În orice zi în viața mea.
+
+[c]
+Te voi lăuda mereu al nostru Dumnezeu
+Și voi mări în cânt al Tău Nume cel sfânt,
+Te voi lăuda mereu al nostru Dumnezeu
+Și voi slăvi mereu Numele Tău.
+
+[v2]
+Voi lăuda Numele-Ți sfânt,
+Prin El am biruință
+Și-ntreaga mea ființă
+E inundată de iubrea Ta.
+Prin Tine Doamne voi trăi mereu,
+În încercarea mare
+La Tine am scăpare
+Și sunt mereu păzit de Mâna Ta.

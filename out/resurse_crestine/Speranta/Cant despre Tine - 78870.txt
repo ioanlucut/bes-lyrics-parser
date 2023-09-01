@@ -1,0 +1,27 @@
+[title]
+Cant despre tine {author: {Speranța}, {rcId: {78870}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+În prezența Ta, o, Doamne este pace
+În prezența Ta e atât de minunat
+/: Inima eu iți predau
+În prezența Ta să stau
+Fiindcă ești al meu Împărat :/
+
+[c]
+Cânt despre Tine, Te laud că Tu m-ai salvat
+Cânt despre Tine, Te laud că Tu m-ai iertat
+Cânt despre Tine, Te laud că m-ai mantuit
+/: Cu Tine am speranța,
+Cu Tine am viață
+Cu Tine sunt fericit :/
+
+[v2]
+În prezența Ta, o, Doamne e viață
+În prezența Ta cerul e senin
+/: Inima îți dăruiesc,
+Doar pe Tine Te iubesc,
+Tu ești Domnul meu iubit :/

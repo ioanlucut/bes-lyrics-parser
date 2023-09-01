@@ -1,0 +1,35 @@
+[title]
+Isus isus isus isus {author: {Anonim}, {rcId: {59769}}
+
+[sequence]
+c,v1,v2,v3,c2
+
+[c]
+Isus! Isus! Isus! Isus!
+Ce dulce si scump Nume!
+Decat oricine-i mai presus
+In ceruri si in lume.
+
+[v1]
+Isus din ceruri a venit
+El, Domnul, Ziditorul.
+Pe cruce viata Si-a jertfit,
+El e Mantuitorul.
+
+[v2]
+Isus, fiinta, viata Lui
+Ma umplu de uimire.
+Jertfirea Lui, smerirea Lui
+Sunt mai presus de fire.
+
+[v3]
+Isus e Numele frumos, 
+Ce ingerii il canta.
+L-adora cerul luminos
+cu toata oastea-I sfanta
+
+[c2]
+Isus! Isus! Isus! Isus!
+Placerea cea mai mare
+Mi-e Numele Lui drag nespus,
+Ce n-are-asemanare!

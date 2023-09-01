@@ -1,0 +1,17 @@
+[title]
+Trezeste-te biserica {author: {Anonim}, {rcId: {5101}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+Trezește-te, biserică, și pregătește-te,
+O zi răsare a victoriei prin slava Domnului,
+Îmbracă-te-n putere prin măreția Sa,
+În luptă cu dușmanii tăi prin El vei triumfa.
+
+[c]
+Isus e cu noi,
+Puternic Domn triumfător,
+Isus e cu noi
+Și prin puterea Lui vom birui.

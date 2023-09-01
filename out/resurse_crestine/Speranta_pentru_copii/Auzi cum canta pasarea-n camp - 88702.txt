@@ -1,0 +1,29 @@
+[title]
+Auzi cum canta pasarea-n camp {author: {Speranța pentru copii}, {rcId: {88702}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Auzi cum cântă pasărea-n câmp.
+Ce faci tu ? Ce faci tu?
+Mereu Îl laudă pe Domnul Sfânt!
+Ce faci tu ?
+
+[c]
+Laudă-L pe Cel preasfânt,
+Căci El te iubește mult!
+Dacă toate-I cântă Lui,
+Ce faci tu?
+
+[v2]
+Pasărea nu se-ngrijorează.
+Ce faci tu ? Ce faci tu ?
+Îi cântă Celui ce veghează.
+Ce faci tu ?
+
+[v3]
+Pasărea este bucuroasă.
+Ce faci tu ? Ce faci tu ?
+Străbate cerul tot voioasă.
+Ce faci tu ?

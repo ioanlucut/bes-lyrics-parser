@@ -1,0 +1,29 @@
+[title]
+La nunta voastra noi am venit {author: {Speranța}, {rcId: {74255}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+La nunta voastră noi am venit,
+Să sărbătorim cea mai frumoasă zi.
+O zi măreață în care acum,
+Voi vă uniți pe-al vieții drum..
+
+[c]
+/: Fiți fericiți în viața voastră
+În drumul pe care porniți,
+Iubirea să vă fie diamantul
+Pe care să îl prețuiți! :/
+
+[v2]
+La nunta voastră voi ați chemat,
+Cu dragoste rude și prieteni apropiați.
+Dar mai cu seamă noi dorim acum
+Domnul să vă fie tovarășul de drum.
+
+[v3]
+La nunta voastră noi vă dorim,
+Zile cu soare și numai împliniri.
+În toată viața noi să auzim
+Că cerul vieții vă este tot senin.

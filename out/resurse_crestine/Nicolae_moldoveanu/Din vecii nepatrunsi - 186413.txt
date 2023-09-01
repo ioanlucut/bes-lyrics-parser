@@ -1,0 +1,23 @@
+[title]
+Din vecii nepatrunsi {author: {Nicolae Moldoveanu}, {rcId: {186413}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Din vecii nepătrunși, nainte,
+Când timpul nu avea hotar,
+/: Lucrarea Ta a fost, Părinte,
+Întreagă numai har și har! :/
+
+[v2]
+Azi toat-a lumii frământare
+Cu bucurii și cu amar,
+/: E ne-nțeleasa Ta lucrare,
+Întreagă numai har și har. :/
+
+[v3]
+Iar mâine, fericitul Mâine,
+Primind al slavei veșnic Dar,
+/: Vom înțelege toți, Stăpâne,
+Că-n veci ești numai har și har! :/

@@ -1,0 +1,62 @@
+[title]
+Via dolorosa drumul durerii {author: {Album necunoscut}, {rcId: {218513}}
+
+[sequence]
+v1,v2,c,v3,c2,c3
+
+[v1]
+Înspre drumul de durere
+Îngerii privesc de sus
+Cum un Om sub Crucea grea
+La moarte-i dus
+Trupul său însângerat privește slab
+Spre locul condamnat
+
+[v2]
+Fruntea-i Sfântă e rănită
+Sub cununa cea de spini
+În priviri El poarta veșnice lumini
+Neiubit și lepadat
+Pe drumul greu E al Slavei Împarat
+
+[c]
+Iată Omul de durere
+Suie drumul Crucii greu
+Vina lumii El o poartă
+Spre Calvar
+E zdrobit si întristat
+Sub vina mea, sub vina ta
+Iată drumul de durere
+Nesfârșit în asfințit
+
+[v3]
+Înspre drumul de durere
+Stau privind ades și eu
+Isus sub Crucea grea
+E-n locul meu
+El a fost crucificat
+Și in palma sa iertare mi-a săpat
+
+[c2]
+Iată Omul de durere
+Fiul Slavei răstignit
+Pentru mine e lovit e umilit
+Și în Sângele-i vărsat
+Prin Jertfa Sa eu sunt iertat
+
+[c3]
+Iată Omul din iubire
+Răstignit ne-a mântuit
+Lovit sub Crucea grea
+El poartă vina grea
+Minunat pentru veci
+Domnul ne-a salvat
+
+[c4]
+Ce iubire ce favoare
+Pentru noi El a murit
+Prințul păcii pe o cruce
+Răstignit
+Niciodata Jertfa Sa
+Eu nu o voi uita
+Nu o voi uita..

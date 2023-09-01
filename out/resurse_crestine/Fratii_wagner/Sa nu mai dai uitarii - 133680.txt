@@ -1,0 +1,53 @@
+[title]
+Sa nu mai dai uitarii {author: {Frații Wagner}, {rcId: {133680}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Să nu mai dai uitării
+Ce ți-a făcut Isus-
+Te-a scos de la-ntuneric,
+La viață te-a adus.
+
+[c]
+/: Te-a pus iar în picioare
+Din patul ce zăceai,
+Si-acum nu-L da uitării
+Pe Cel ce te-a salvat. :/
+
+[v2]
+Gândește-te mai bine
+Și să nu uiți nimic,
+Că-n cea mai grea-ncercare
+La tine a venit.
+
+[c2]
+/: Isus ți-a întins iar mâna
+Și te-a scos de la greu,
+Din cea mai grea-ncercare
+Te-a scos El, Domnul tău. :/
+
+[v3]
+Acuma, o, iubite,
+Să nu Îl părăsești,
+S-apuci pe altă cale
+Și să te rătăcești.
+
+[c3]
+: Ca Cel ce ți-a întins mâna
+Și te-a scos din păcat
+Să nu mai dea de tine
+Căci te-ai înstrăinat. :/
+
+[v4]
+Dar tu să stai cu Isus
+Și să fii fericit,
+Ca la a Lui venire
+Să poți fi tu primit.
+
+[c4]
+/: În casa Lui de nuntă
+Ei se vor bucura,
+Toți ce primesc Cuvântul
+Și îl vor asculta. :/

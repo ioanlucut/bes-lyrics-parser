@@ -1,0 +1,34 @@
+[title]
+Pune-ti cartea capatai {author: {Anonim}, {rcId: {74509}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Pune-ți cartea căpătâi
+Cartea Celor Sfinte!
+Drag copil și să rămâi
+Tot cu ea în minte.
+
+[c]
+/: Biblia, Biblia, este-a vieții carte
+Dumnezeu prin ea la viață
+Ție-ți face parte. :/
+
+[v2]
+Ea-ți răspunde ne-ncetat
+La orice întrebare,
+Dacă-ntrebi cu gând curat
+Și cu ascultare.
+
+[v3]
+Ea cu dărnicie oricând
+Ție-ți dă lumină
+Și-ți înalță orice gând
+Dincolo de tină.
+
+[v4]
+Ca s-ajungi la Dumnezeu
+În cerești palate
+Pune-ți cartea Lui mereu
+Căpătâi în toate!

@@ -1,0 +1,29 @@
+[title]
+Fiindca am trait frumsetea {author: {Nicolae Moldoveanu}, {rcId: {242643}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Fiindcă am trăit frumsețea,
+Disprețuiesc ce-i grosolan.
+/: Fiindcă știu ce-i josnicia,
+Mi-e milă de-orișice dușman. :/
+
+[v2]
+Fiindcă-am cunoscut adâncul,
+Doresc nălțimile mereu.
+/: Fiindcă-am cunoscut povara,
+Caut sărăcia ca Zacheu. :/
+
+[v3]
+Fiindcă știu ce-amară-i bezna,
+Caut strălucirea ne-ncetat.
+/: Știind a lacrimii văpaie,
+M-aplec spre cel însingurat. :/
+
+[v4]
+Cum m-aș împărtăși din harul
+Ce dăruie seminței spic,
+/: De n-aș fi lângă Cel mai Mare
+Alăturea de cel mai mic? :/

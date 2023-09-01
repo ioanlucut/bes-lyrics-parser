@@ -1,0 +1,46 @@
+[title]
+Nu numai dorind izbanda {author: {Nicolae Moldoveanu}, {rcId: {5852}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Nu numai dorind izbânda,
+Vei ajunge s-o atingi,
+Ci luptând în ea cu fapta
+Și cu sufletul creștin.
+
+[c]
+/: O, Isuse, o, Isuse, fă-mă să-Ți urmez cu dor,
+/: Să nu fiu numai cu vorba :/
+Ci cu fapta-mplinitor... :/
+
+[v2]
+Nu numai cântând credința,
+Dovedești c-o ai deplin,
+Ci trăind în ea cu fapta
+Și cu sufletul creștin.
+
+[v3]
+Nume pot avea și cei răi
+Și se pot făli că-l au,
+Însă, pilda și trăirea
+Și sfințirea vieții n-au.
+
+[v4]
+Dacă știi că neascultarea
+E din primul nesupus,
+Știi că ea blestemul morții
+Și osânda ți-au adus.
+
+[v5]
+Dar al ascultării sfinte
+Ce osânda mi-ai luat,
+Duhul Sfânt, lăsat de Tine,
+Fă-mi-l dulce și curat!
+
+[v6]
+Dă-ne darul ascultării
+Scump și dulce și smerit,
+Fără credință niciodată
+N-a fost nimeni mântuit!

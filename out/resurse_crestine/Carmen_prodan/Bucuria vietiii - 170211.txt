@@ -1,0 +1,41 @@
+[title]
+Bucuria vietiii {author: {Carmen Prodan}, {rcId: {170211}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Tu ești bucuria vieții mele,
+Doamne, Dumnezeul meu prea-Înalt!
+Când Te chem, mereu ești lângă mine,
+Și-mi ștergi lacrimile ce mă ard.
+
+[c]
+Sufletu-mi tânjește după Tine,
+Tu îmi ești mereu Mângâietor...
+Lângă Tine e așa de bine,
+Când îmi legi atâtea răni ce dor...!
+
+[v2]
+Lângă Tine sunt în siguranță,
+Și oricâte valuri ar urla
+Nu mă tem când știu că ești la cârmă,
+Tu ești drept, Isus, și vei lucra!
+
+[v3]
+Iată ce mă face s-am nădejde
+Când e-ntunecată calea mea...!
+Știu că-n fiecare dimineață
+Se-nnoiește bunătatea Ta!
+
+[v4]
+Când încerci un suflet, Doamne mare,
+Nu ești bucuros să îl mâhnești,
+Ci te-nduri din nou și-i dai salvare,
+Ca să vadă cât de mare ești!
+
+[v5]
+Nu voi înceta ca să Te laud,
+Veșnic vreau, Isuse, a-Ți cânta!
+Și în viața mea întotdeauna
+Vreau să fie-n toate voia Ta!

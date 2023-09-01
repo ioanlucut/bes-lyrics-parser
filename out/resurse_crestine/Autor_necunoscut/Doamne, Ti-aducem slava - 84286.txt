@@ -1,0 +1,30 @@
+[title]
+Doamne ti-aducem slava {author: {Anonim}, {rcId: {84286}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+Doamne, Ti-aducem slava
+Pentru Fiul Tau iubit
+Doamne, Ti-aducem slava
+Pe pamant ca ai venit,
+Slava Tie!
+
+[v1]
+Iti multumim Isus Iubit
+Ca slava-ai parasit
+Desi erai Fiu de imparat
+Gloria ai lasat.
+
+[v2]
+In Betleem cand Te-ai nascut
+Nimeni nu a stiut
+Ca atunci, s-a implinit
+Ce a fost prorocit.
+
+[v3]
+Ceru-ntreg s-a bucurat
+Slavind pe Imparat
+Pace fie pe pamant
+Precum in cerul sfant.

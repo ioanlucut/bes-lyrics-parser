@@ -1,0 +1,45 @@
+[title]
+Cand tu vezi ca valu-i mare {author: {Anonim}, {rcId: {85176}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cand tu vezi ca valu-i mare
+Si incercarea e prea tare
+El intinde bratul sau.
+Cand nu poti inainta,
+Cand furtuna-I tot mai grea
+Striga tu la Dumnezeu.
+
+[c]
+/: El te scapa, iti da putere
+Si o sfanta mangaiere
+Te scoate biruitor
+El te indeamna, te conduce
+Spre drumul care duce
+Spre Ierusalimul nou. :/
+
+[v2]
+Cand privesti la lumea rea
+Si la viata-aceasta grea,
+Cand tu crezi ca esti infrant
+Cand nadejdea ti s-a dus
+De sageti tu esti strapuns
+El iti vine in ajutor.
+
+[v3]
+Cand de prieteni dragi
+Esti lovit peste obraz,
+Spatele ti l-au intors
+Nu carti, nu murmura
+Priveste spre Golgota
+Izbavire vei avea.
+
+[v4]
+Lupta si nu da-napoi
+Dumnezeu este cu noi
+El e sprijin si adapost
+Muntii de s-or clatina
+Marea de s-a-nvolbura
+Tu ramai langa Isus.

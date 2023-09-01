@@ -1,0 +1,57 @@
+[title]
+Asculta-mi doamne cantarea de lauda {author: {Anonim}, {rcId: {242755}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,c,s,c
+
+[v1]
+Ascultă-mi Doamne
+Cântarea de laudă
+Și-a mea rugă
+Te rog s-o primești
+
+[v2]
+Vin chiar acuma
+Smerit Isuse
+Și-a mea dorință
+Te rog s-o-mplinești
+
+[v3]
+Când sunt flămând, știu
+Pâinea Vieții-mi dai
+Când însetat sunt
+Tu apă-mi dai
+
+[v4]
+Eu nu mă tem
+Tu ești cu mine
+Și orice nevoi
+Tu le-mplinești
+
+[v5]
+Ascultă-mi Doamne
+Cântarea de laudă
+Și-a mea rugă
+Te rog s-o primești
+
+[v6]
+Vin chiar acuma
+Smerit Isuse
+Și-a mea dorință
+Te rog s-o-mplinești
+
+[c]
+/: Când te chem Tu-mi răspunzi de aceea te voi lăuda
+E jertfa pe care o aduc la altar
+Aștept Duhul Tău să coboare în Templul sfânt
+În inima mea aici jos pe pământ. :/
+
+[s]
+/: Ascultă-mi Doamne cântarea de lauda
+Când te chem Tu-mi răspunzi de aceea te voi lăuda
+Și a mea ruga te rog s-o primești
+E jertfa pe care o aduc la altar
+Vin chiar acuma smerit Isuse
+Aștept Duhul Tău să coboare în Templul sfânt
+Și-a mea dorință te rog s-o împlinești
+În inima mea aici jos pe pământ :/

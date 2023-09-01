@@ -1,0 +1,41 @@
+[title]
+Stegari ne-nfranti {author: {Nicolae Moldoveanu}, {rcId: {244055}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Stegari ne-nfrânți ai vremurilor noi
+Așa ne vrei deplin, Isuse,
+Să dăm tot focul care arde-n noi
+Împărăției neapuse.
+
+[c]
+Isus, Isus,
+Izvor de biruință Tu ne ești,
+Isus, Isus,
+Puteri mai noi din Tine să ne crești.
+
+[v2]
+Să ridicăm eternul adevăr
+Mai sus pe culmile trăirii,
+Sădind în obidiții care pier,
+Nădejdea sfântă-a mântuirii
+
+[v3]
+Și cântăreți ai harului slăvit
+Ne vrei, cu harfe acordate
+Să intonăm un imn nebiruit
+De-a lumii valuri ridicate.
+
+[v4]
+lar armoniile-i țesute-n foc,
+Să lase dâră de lumină
+Spre binecuvântatul veșnic loc,
+De nesfârșită pace plină.
+
+[v5]
+Stegari și cântăreți ne vrei, Isus,
+Ai vremilor de har și soare,
+Prin noi să-Ți-nalți puternic tot mai sus,
+Împărăția viitoare.

@@ -1,0 +1,22 @@
+[title]
+Domnul e lumina si mantuirea mea {author: {Ileana din Vâlcele}, {rcId: {175966}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Domnul e lumina și mântuirea mea,
+De cine să mă tem când pe Domnul Îl chem
+Domnul e lumina și izbăvirea mea,
+Nicicând cu El nu mă voi clătina
+
+[c]
+4x
+/: Inima îmi zice Doamne din partea Ta:
+Caută fața Mea :/
+
+[v2]
+Nu-mi ascunde Doamne fața Ta
+De la Tine nu mă îndepărta
+Tu ești ajutorul meu, nu mă lăsa
+Ca să pot să-Ți cânt Aleluia.

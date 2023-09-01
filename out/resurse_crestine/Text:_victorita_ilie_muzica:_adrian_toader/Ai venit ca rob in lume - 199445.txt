@@ -1,0 +1,29 @@
+[title]
+Ai venit ca rob in lume {author: {Text: Victorița Ilie, Muzica: Adrian Toader}, {rcId: {199445}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Ai venit ca rob în lume: să slujești, să fii smerit
+Și să suferi deznădejdea despărțirii de-al Tău Tată;
+/: Să te faci una cu lumea cea pierdută, vinovată,
+Să fii jertfa ispășirii, plata celui prihănit. :/
+
+[v2]
+Ai venit ca om în lume: să fii slab și ispitit,
+Să cunosti ce-i foamea, setea, ura omului ingrată,
+/: Să cunoști cum de păcat viața lumii e pătată;
+Să te faci una cu ea Tu, Cel Sfânt, neprihănit. :/
+
+[v3]
+Fiindcă Tu, ca Miel de jertfă, de la Tatăl ai venit
+S-aduci pacea și iertarea peste lumea-mpovărată,
+/: Să reverși din crucea milei indurarea Ta bogată;
+Nici un păcătos ce crede să nu fie osândit. :/
+
+[v4]
+Ai venit în lumea noastră să fii dar desăvârsit,
+Harul care se împarte tuturora fără plată,
+/: Să ne fii Mântuitorul și-mplinirea așteptată,
+Dumnezeul nostru care pân ` la moarte ne-ai iubit. :/

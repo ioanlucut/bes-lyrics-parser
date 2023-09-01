@@ -1,0 +1,27 @@
+[title]
+Ce mare har {author: {Alexandru Groza}, {rcId: {193440}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Pentru mântuirea noastră Tatăl sfânt din Cer a dat
+Fiul Lui răscumpărare, să ne ierte de păcat
+Dumnezeu a făcut totul, Dumnezeu e credincios
+Harul Lui azi mântuiește pe omul păcătos!
+
+[c]
+Ce mare har, mare îndurare!
+Să primești în dar jertfa Domnului!
+
+[v2]
+Toți acei ce prin credință s-au întors la Dumnezeu
+Și prin faptele lor bune au fost credincioși mereu
+Prin Isus ei au viața, fericirea-o vor gusta
+Față-n față, în mărire, pe Isus îl vor vedea!
+
+[c2]
+Ce mare har, mare bogăție
+Ne-a dat Dumnezeu prin Fiul mult iubit!
+Ce mare har, Dumnezeu te cheamă
+Să primești în dar jertfa Domnului!

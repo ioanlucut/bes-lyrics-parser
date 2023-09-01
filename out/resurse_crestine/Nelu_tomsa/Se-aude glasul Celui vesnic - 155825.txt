@@ -1,0 +1,45 @@
+[title]
+Se-aude glasul celui vesnic {author: {Nelu Tomsa}, {rcId: {155825}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Se-aude glasul Celui veșnic
+Care răsună printre munți,
+S-o rupem cu păgânătatea,
+Care ucide-atât de mult.
+
+[c]
+/: Sfințenie și unitate,
+Se cere azi din înălțimi,
+Iubire sfântă și dreptate,
+Așa vrea Domnul între creștini. :/
+
+[v2]
+Hai să zdrobim păgânătatea,
+S-o aruncăm afar’ din noi,
+Și să trăim toți unitatea,
+Sfințenia rămânând în noi.
+
+[c2]
+/: Alege să-ți trăiești azi viața,
+Cum tu o vrei pe-acest pământ,
+Ca și neghină ori ca grâul,
+Dar judecat vei fi-ncurând. :/
+
+[v3]
+Te va alege după faptă,
+Și după gândul ce-l accepți,
+Trăiești ca grâu sau ca neghină,
+Vei fi-ntre răi sau între drepți.
+Alege-acuma tu destinul,
+Să fii în veci cu Dumnezeu,
+Nu fi neghină lasă chinul!
+Împacă-te cu Fiul Său.
+
+[c3]
+/: Ai fost ales precum e grâul,
+Ca să trăiești în casa Sa.
+Nu fi neghină, hai la Domnul,
+Să fi un grâu în holda Sa. :/

@@ -1,0 +1,41 @@
+[title]
+Cu tine-n gand pe orice cale {author: {Anonim}, {rcId: {203786}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Cu Tine-n gând pe orice cale
+Te simt Isus, al Tău fior
+/: Cu Tine prin dureri și boale
+Mă fac mereu mai răbdător :/
+
+[c]
+Cu Tine-n gând e-o avuție
+Ce-ntrece crezul orișicui
+/: Cu Tine-n gând spre-mpărăție
+Și muntele Sion mă sui :/
+
+[v2]
+Cu Tine-n gând e-o veselie
+Ce-ntrece-a lumii desfătări
+/: Cu Tine-n gând e-o bucurie
+Ce-Ți pune laudele-n cântări :/
+
+[c2]
+Cu Tine-n gând prin sărăcie
+Sunt mai bogat ca orice-avut
+/: Cu Tine-n gând e-o nostalgie
+Ce lumea nu a cunoscut :/
+
+[v3]
+Cu Tine-n gând trec prin zăvoaie
+Spre apele de odihnă
+/: Cu Tine merg prin vânt și ploaie
+Sus unde sfinții se-adună :/
+
+[c3]
+Cu Tine-n gând trec peste dealuri
+Și piscurile fumurii
+/: Cu Tine-n gând vâslesc spre maluri
+Și mă opresc în veșnicii :/

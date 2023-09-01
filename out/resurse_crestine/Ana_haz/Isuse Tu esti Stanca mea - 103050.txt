@@ -1,0 +1,39 @@
+[title]
+Isuse tu esti stanca mea {author: {Ana Haz}, {rcId: {103050}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Isuse Tu ești Stânca mea,
+Ce aș fi fost eu fără Tine?
+Un naufragiat pe mare,
+Un orb singur pe cărare,
+O luntre ce s-ar scufunda
+În marea de suspine.
+
+[c]
+Iubită Stâncă
+Ce brazdă adâncă
+Așa te-a săpat
+În trepte de urcat?
+Golgota spune încetișor
+Acestea sunt urmele bicelor,
+De sub cruce vin adieri
+Spun că sunt urmele de dureri.
+
+[v2]
+Isuse Tu ești Stânca mea,
+Dacă nu aș zidi pe Tine
+Mergând cu lumea care piere
+Aș fi un strigăt de durere
+Și casa mi s-ar dărâma,
+Ar fi numai ruine.
+
+[v3]
+Isuse Tu ești Stânca mea,
+Cu Tine nu mă tem de rău,
+Tu nu m-ai ascuns printre stele,
+Nici sub platoșele grele,
+M-ai ascuns prin jertfa Ta,
+Cu Tine-n Dumnezeu.

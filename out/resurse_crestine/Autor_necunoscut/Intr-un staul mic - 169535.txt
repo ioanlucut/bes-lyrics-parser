@@ -1,0 +1,29 @@
+[title]
+Intr-un staul mic {author: {Anonim}, {rcId: {169535}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+într-un staul mic acolo în Bethlehem
+Fiul prea iubit al tatălui din cer
+S-a născut în ieslea rece umilit
+Ca cel ce se crede în el să fie fericit
+
+[c]
+Azi cu toți ne închinăm și te preamărim
+O Isuse prunc divin născut în Bethlehem
+Și îți cântăm bucuros căci din Cerul sfânt
+Ai venit cu drag la noi aici jos pe pământ
+
+[v2]
+Magi din răsărit la Isus au venit
+Și s-au închinat a celui prea înalt
+Ca să se împlinească ce a fost profeți
+Căci trimisul slavei este fiul său iubit
+
+[v3]
+Minunate daruri Magi au adus
+Să-l cunoască toți ca el este Isus
+Și i se închine în staul bucuros
+Copilașul lui ce poartă numele Hristos

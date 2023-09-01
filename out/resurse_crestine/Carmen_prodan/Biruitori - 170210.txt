@@ -1,0 +1,29 @@
+[title]
+Biruitori {author: {Carmen Prodan}, {rcId: {170210}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Dacă Dumnezeu este pentru noi,
+Cine împotrivă poate fi?
+De iubirea sfântă-a Lui Isus
+Nimeni nu ne poate despărți!
+
+[c]
+Înaintea noastră-i Prințul Cerului,
+Deci, la luptă, steagul sus!
+Noi suntem mai mult decât biruitori
+Prin puterea Lui Isus!
+
+[v2]
+Orice lucru-n viață știm că va lucra
+Doar spre bine, de-L iubim pe El!
+Din orice furtună ne va izbăvi
+Sfântul Domn, Emanuel!
+
+[v3]
+Să-i aducem slavă și să-L lăudăm,
+Domnul pân’aici ne-a ajutat!
+Știm că ne va ține-n palma Sa mereu,
+Fie-I Numele glorificat!

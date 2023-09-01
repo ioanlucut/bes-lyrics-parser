@@ -1,0 +1,35 @@
+[title]
+Slavit sa fie dumnezeu {author: {Ralph E. Hudson}, {rcId: {1237}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Slăvit să fie Dumnezeu,
+Al lumii Împărat,
+Căci El ne--a dat prin Fiul Său
+Scăpare de păcat.
+
+[c]
+Slavă să--I cântați, voi, copiii Lui,
+Lăudați--I numele sfânt!
+Slavă să--I cântați, voi, copiii Lui,
+Lăudați--I numele sfânt!
+
+[v2]
+Isus e veșnic preamărit
+De oastea cerului,
+În glorie va locui
+La dreapta Tatălui.
+
+[v3]
+Mântuitor și prieten bun,
+Deplin El ne--a iertat,
+Prin jertfa Sa ne--a ridicat
+Din starea de păcat.
+
+[v4]
+Isus e Sfetnic, Minunat,
+Vestit în profeții,
+E Domn al păcii, Salvator
+Ce veșnic va domni.

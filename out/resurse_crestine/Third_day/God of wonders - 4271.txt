@@ -1,0 +1,40 @@
+[title]
+God of wonders {author: {Third Day, Traducere RO}, {rcId: {4271}}
+
+[sequence]
+v1,c,v2,c,e,v3,c,e
+
+[v1]
+Domn sfânt al naturii
+Cu tot ce ai creat
+Cel care locuiești în ceruri
+Numele Ți-e lăudat
+
+[c]
+Galaxii din nimic tu ai creat
+Dumnezeu sfânt, ești sfânt
+Pământu-ntreg Îți cântă minunat
+Tu ești Domn sfânt, ești sfânt
+Peste cer și pământ
+Peste cer și pământ
+
+[v2]
+Dis de dimineață
+Voi cânta lumina Ta
+Când norii negri vin în viață
+Noaptea pe genunchi voi sta
+
+[e]
+Aleluia, Tu ești Domn în cer și pământ
+Aleluia, Tu ești Domn în cer și pământ
+Aleluia, Tu ești Domn în cer și pământ
+Aleluia, Tu ești Domn în cer și pământ
+Aleluia, Tu ești Domn în cer și pământ
+Aleluia, Tu ești Domn în cer și pământ
+Aleluia, Tu ești Domn în cer și pământ
+
+[v3]
+Vreau s-ascult, să simt inima Ta
+Ține-mă Tu, Domn sfânt
+Ființa mea Îți cântă dragostea
+Doar Tu ești sfânt, Domn sfânt

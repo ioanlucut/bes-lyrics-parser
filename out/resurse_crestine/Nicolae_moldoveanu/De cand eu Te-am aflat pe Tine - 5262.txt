@@ -1,0 +1,36 @@
+[title]
+De cand eu te-am aflat pe tine {author: {Nicolae Moldoveanu}, {rcId: {5262}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+De cand eu Te-am aflat pe Tine,
+Ma simt asa de fericit!
+Si cand vin valurile grele,
+Tu ma ridici, Isus iubit.
+
+[v2]
+Vin valurile fara mila
+Si izbesc in mine mereu;
+Atunci Te simt, Isuse dulce,
+Caci vii la capataiul meu.
+
+[v3]
+Si cand imi vezi fata udata
+De lacrimile care-mi curg,
+Atunci Tu plangi in rand cu mine
+Si-mi zici incet ca vii curand.
+
+[v4]
+Aud doar vocea Ta de Tata
+Care-mi vorbeste ne’ncetat:
+„
+Vegheaza fiica mea, fii treaza
+Caci in curand s-a terminat!
+
+[v5]
+Si atunci durerea ce-ai avut-o
+Aicea jos pe-acest pamant
+Se va transforma-n bucurie,
+Cand vei veni in cerul sfant.”

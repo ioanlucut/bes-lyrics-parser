@@ -1,0 +1,35 @@
+[title]
+Este un domn {author: {Steven Furtick, Brandon Lake, Tiffany Hammer}, {rcId: {214416}}
+
+[sequence]
+v1,c,v2,c2,v3,c2
+
+[v1]
+Este un Domn, astăzi printre noi
+De milă har, e înconjurat
+Dar El coboară, unde sunt laude
+Și inimi ce îl caută neîncetat
+
+[c]
+Și orice povară fie adusă la picioare
+Și orice cunună va fi pusă în fața Lui
+Numele Lui e mai presus de orice nume
+Oh Isus e rege peste regi
+
+[v2]
+El este mielul, demn de onoare
+Și toată cinstea este a Lui
+Mielul jertfit, astăzi trăiește
+Puterea Lui piatră a prăvălit
+
+[c2]
+Și orice închinare numai Lui îi aparține
+Înfrântă-i moartea El deține al vieți chei
+Numele Lui domnește peste toate
+Oh Isus e rege peste regi
+
+[v3]
+Nu mai e mult, El vine în curând
+Va șterge orice lacrimă
+În casa Lui, vom locui
+Cu El atunci noi ne vom întâlni

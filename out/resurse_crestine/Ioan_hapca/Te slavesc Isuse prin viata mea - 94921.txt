@@ -1,0 +1,45 @@
+[title]
+Te slavesc isuse prin viata mea {author: {Ioan Hapca}, {rcId: {94921}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Te slăvesc Isuse prin viața mea
+Căci Tu ești Stăpânul și Domn peste ea.
+Te slăvesc Isuse din inima mea
+Căci Tu ești Stăpânul ce domnești în ea.
+
+[c]
+/: Tu, Tu Isuse ești
+Domn în viața mea.
+Tu, doar Tu domnești
+Zilnic peste ea. :/
+
+[v2]
+Te slăvesc Isuse, Te slăvesc mereu
+Fiindcă Tu ești Domnul, Mântuitorul meu.
+Sufletu-mi Isuse, azi Te preamărește,
+Ființa mea întreagă, veșnic Te iubește.
+
+[c2]
+/: Tu, Tu Isuse ești
+În inima mea.
+Tu, doar Tu domnești
+Pe deplin în ea. :/
+
+[v3]
+Zi de zi Isuse, cât am să trăiesc
+Cu tot sufletul meu am să Te slăvesc.
+Din toată ființa, Isuse Te iubesc,
+Zi de zi Isuse, am să Te preamăresc.
+
+[c3]
+Tu, Tu Isuse ești
+Domn în viața mea.
+Tu, doar Tu domnești
+Zilnic peste ea.
+Tu, Tu Isuse ești
+În inima mea.
+Tu, doar Tu domnești
+Pe deplin în ea.

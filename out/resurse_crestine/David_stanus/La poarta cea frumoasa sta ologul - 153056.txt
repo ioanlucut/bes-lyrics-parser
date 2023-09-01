@@ -1,0 +1,35 @@
+[title]
+La poarta cea frumoasa sta ologul {author: {David Stănuș}, {rcId: {153056}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+La poarta cea frumoasă sta ologul
+Să ceară el de milă câte-un ban.
+L-au întâlnit, la ceasul rugăciunii,
+Și lui vorbit-au Petru și Ioan:
+
+[c]
+/: Aur argint n-am să-ți dau,
+Dar în Numele Lui mare,
+În numele lui Isus Hristos
+Tu ridică-te-n picioare! :/
+
+[v2]
+S-a ridicat ologul în picioare
+Umblând, sărind, lăudând pe Dumnezeu;
+A fost atunci o zi de sărbătoare
+Și pentru tine este, dragul meu!
+
+[v3]
+De aur azi Bisericile-s pline,
+La poartă stă mulțimea de ologi,
+Asteaptă în zadar mișcarea apei,
+Vino, Doamne, fă-ne sănătoși!
+
+[v4]
+De ce nu nu se mai vindecă bolnavii?
+De ce devine păcatul mai greu?
+Răspunsul vine numai din Scriptură,
+Vrea pocăință astăzi, Dumnezeu!

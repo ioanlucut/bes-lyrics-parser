@@ -1,0 +1,38 @@
+[title]
+Condu-ma tu (lord lead me on) {author: {Marion W. Easterling, Traducere RO}, {rcId: {129455}}
+
+[sequence]
+v1,c,v2,c,v3,c,s,c
+
+[v1]
+Pe cărare când mi-e greu
+Între cei din jurul meu
+Ia mâna mea în mâna Ta!
+Bucurii vreau să găsesc
+Din izvorul Tău ceresc
+Condu-mă Doamne-n orice zi!
+
+[c]
+Condu-mă, Tu în orice zi
+Cu Tine vreau să pot păși
+De-s părăsit de cei din jur
+Condu-mă Tu, o, Doamne bun!
+
+[v2]
+Într-o lume de-ndoieli
+Cu nădejdi ce multe pier
+Ia mâna mea în mâna Ta!
+Eu, nădejdea-n Tine-mi pun
+În prezența Ta s-ajung
+Condu-mă Doamne-n orice zi!
+
+[v3]
+În amurgul vieții, dar
+Când putere nu mai am
+Ia mâna mea în mâna Ta!
+Tu, mereu mă însoțești
+Și în cer Tu mă primești
+Condu-mă Doamne-n orice zi!
+
+[s]
+Povățuiește-mă în adevărul Tău și învață-mă; căci Tu ești Dumnezeul mântuirii mele, Tu ești totdeauna nădejdea mea! Psalm 25:5

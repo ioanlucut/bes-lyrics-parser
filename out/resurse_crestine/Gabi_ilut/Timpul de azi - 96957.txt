@@ -1,0 +1,33 @@
+[title]
+Timpul de azi {author: {Gabi Ilut}, {rcId: {96957}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Timpul de azi se va sfârși
+Voi începe o nouă zi
+Mâine în zori mă voi trezi
+Chemându-te pe Tine
+Doamne Tu eșți, belșug de îndurări
+Pentru mine.
+Eșți izvorul de binecuvântări
+
+[c]
+/: Am o șansă și azi vreau să te întâlnesc
+Să-ți spun din nou cât de mult te iubesc
+Mult mai aproape să fiu, la picioare să-ți stau
+Inima să ți-o dau.
+Am o șansă și azi vreau să o folosesc
+Să-ți spun din nou cât de mult te iubesc
+Mult mai aproape să fiu, la picioare să-ți stau
+Asta e tot ce vreau :/
+
+[v2]
+Clipa de-acum e un îndemn,
+Al iubirii Tale semn
+Iute secundele se cern,
+Aleg să fiu cu Tine
+Doamne Tu eșți belșug de îndurări
+Pentru mine
+Ești izvorul de binecuvântări.

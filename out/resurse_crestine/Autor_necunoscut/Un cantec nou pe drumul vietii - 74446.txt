@@ -1,0 +1,29 @@
+[title]
+Un cantec nou pe drumul vietii {author: {Anonim}, {rcId: {74446}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Un cântec nou pe drumul vieții,
+Din cer Domnul mi-a adus
+Nu știu mai dulci și sfinte melodii
+Ca-n iubirea lui Isus.
+
+[c]
+Sufletul meu cântă fericit,
+Da, cântă fericit, Isus m-a mântuit.
+Sufletul meu cântă fericit,
+Cântarea Mirelui iubit.
+
+[v2]
+Domnul Isus pe cruce muri
+Pentru-al meu amar păcat
+A pus în inima mea melodii
+Bucurie ne-ncetat.
+
+[v3]
+Cântarea mea și-n ceruri va fi
+Doar iubirea lui Isus,
+În corul sfinților în veșnicii
+Voi da slavă lui Isus.

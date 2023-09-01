@@ -1,0 +1,65 @@
+[title]
+Tu esti doamne dorul meu {author: {Nicolae Moldoveanu}, {rcId: {6690}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Tu ești Doamne
+ /: dorul meu :/
+Vreau s-ajung
+ /: în cerul Tău :/
+/: Tu ești Doamne stânca mea
+Cine mă va clătina
+Cine mă va dărâma de pe temelia mea. :/
+
+[v2]
+Tu ești pacea
+ /: ce-o doream :/
+Și pe care
+ /: n-o aveam :/
+/: Tu ești bucuria mea
+Cine mă va întrista
+Când Îi cânt lui Mesia
+Din zori și până seara. :/
+
+[v3]
+Tu-mi dai bogății
+ /: de har :/
+Nu Te iubesc
+ /: în zadar :/
+/: Căci toți câți Te-au căutat
+Cu mâini goale de la Tine
+Niciodată
+ /: n-au plecat. :/
+
+[v4]
+Tu ești farul
+ /: luminos :/
+Eu l-am găsit
+ /: pe Hristos :/
+/: Tu ești bucuria mea
+L-am găsit pe Mesia
+Cine mi L-ar putea lua
+ /: nu L-aș da. :/
+
+[v5]
+Tu din slăvi ai
+ /: coborât :/
+Căci pe mine
+ /: m-ai iubit :/
+/: Tu ești Prințul meu ceresc
+Și eu cum să nu-L slăvesc
+Pe Cel care-atât de mult
+ /: Îl iubesc. :/
+
+[v6]
+Am aflat în suflet
+ /: bucurii :/
+Ele sunt
+ /: atât de vii :/
+Căci nu pot să le descriu
+/: Căci sunt bucurii de sus
+Mi le trimite Isus
+Căci mă iubește nespus
+ /: El Isus. :/

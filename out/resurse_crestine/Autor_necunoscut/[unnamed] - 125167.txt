@@ -1,0 +1,29 @@
+[title]
+[unnamed] {author: {Anonim}, {rcId: {125167}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Există Cineva care te iubește mult
+Există Cineva care te privește de sus
+Există Cineva care te-ajută la greu
+Și numele Lui sfânt e Dumnezeu.
+
+[c]
+/: El e cu tine în problemă
+El e cu tine la nevoia ta
+El te scapă de tot ce este rău
+Căci Isus e Fiu de Dumnezeu :/
+
+[v2]
+Există Cineva care te-a creat
+Există Cineva care te-a salvat
+Există Cineva care te-a iertat
+Te-a iertat și viață El ți-a dat.
+
+[v3]
+Există Cineva care te iubește-n cer
+Există Cineva care nu te lasă să pieri
+Există Cineva care mult te-a ajutat
+Te-a iertat și viață El ți-a dat.

@@ -1,0 +1,29 @@
+[title]
+Noi suntem copiii {author: {Leleu Niculae}, {rcId: {75223}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Noi suntem copiii,
+Micuți și zglobii
+Și la toți împartem multe bucurii
+Noi cântăm în cor
+Spunând tuturor
+De Isus Mântuitor
+
+[c]
+Pe toți mari și mici
+Îi chemăm aici
+La Isus Iubitul Miel
+El ne cheamă blând
+Binecuvântând
+Pe toți car’ se-ncred în El.
+
+[v2]
+Noi suntem copiii,
+Micuți și zglobii
+Dar ne place însă mult să lăudam
+Pe Domnul Isus
+Ce-a iubit nespus,
+Viața noastră Lui, i-o dăm.

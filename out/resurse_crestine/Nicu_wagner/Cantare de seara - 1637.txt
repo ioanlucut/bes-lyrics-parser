@@ -1,0 +1,35 @@
+[title]
+Cantare de seara {author: {Nicu Wagner}, {rcId: {1637}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Doamne, iarăși seara se așterne lin,
+Ne aduce-n suflet cald fior, divin;
+De la lucrul zilei noi acum venim
+Prin cântări și rugă ca să-Ți mulțumim.
+
+[c]
+Fii slăvit, o Doamne, înălțat nespus
+Pentru mântuirea care ne-ai adus!
+/: Dacă-n astă noapte Tu vei reveni,
+În întâmpinare noi vrem a-Ți ieși. :/
+
+[v2]
+Ziua am parcurs-o și cu biruinți,
+Dar și-n încercare am căzut înfrânți.
+Cerem îndurare, Doamne, Te rugăm
+Dă-ne-acum iertare, iar Te implorăm.
+
+[v3]
+Luna-n crâng răsare, stelele lucesc,
+Sate și orașe-n noapte se topesc;
+Doar din casa unde este Domn Isus,
+Rugi și cânturi sfinte se înalță sus.
+
+[v4]
+În tăcerea nopții cugetul e-ncins,
+Face iar bilanțul zilei ce s-a stins.
+Adormim în pace, Tu ne dai deplin
+Ocrotire sfântă, Doamne-Ți mulțumim.

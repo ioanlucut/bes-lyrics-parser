@@ -1,0 +1,35 @@
+[title]
+Tinere nu iubi lumea {author: {Grupul E singura cale}, {rcId: {160209}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Încă un an din viața ta
+S-a scurs prin ceața vremii,
+Și zilele s-au dus așa,
+Trecut-au chiar milenii...
+
+[c]
+/: Tinere, nu iubi lumea,
+Nici lucrurile din ea!
+Căci așa cum trece vremea
+Va trece-odat’ și viața ta! :/
+
+[v2]
+Tu nu știi cum ai apărut
+Cândva ’n-această lume,
+Dar la un timp ai cunoscut
+Ce-nseamnă rău și bine.
+
+[v3]
+Așa s-a dus zi după zi
+Și acum, ca prin ceață,
+Privește, ai fost cândva copil,
+Apoi tânăr în viață.
+
+[v4]
+Și vine ziua minunată
+Să te-ntâlnești cu Domnul sfânt
+Și El te va-ntreba în față:
+Cum ai trăit jos, pe Pământ?

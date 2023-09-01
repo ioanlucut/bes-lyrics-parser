@@ -1,0 +1,41 @@
+[title]
+La poarta oilor era {author: {Miron Cornel}, {rcId: {77471}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+La Poarta Oilor era,
+Cu cele cinci pridvoare
+Betasda numele avea,
+Vestita scaldatoare
+
+[c]
+De 38 de ani statea
+Bolnav la scaldatoare
+Un inger apa tulbura
+S-aduca vindecare
+
+[v2]
+Puterea la un pas de el,
+El nu putea s-ajunga
+Ca altul mai rapid ca el,
+In apa se scufunda
+
+[c2]
+Dar vine Isus intro zi
+Ridica-ti patul, scoala
+Credinta-n El la vindecat
+De slabiciuni si boala
+
+[v3]
+Azi ingeri privesc uimiti,
+Minunea vindecari
+A sufletului omenesc,
+Din mlastina pierzari
+
+[c3]
+Copile vino din noroi
+Isus cu mana-ntinsa
+Viata zilei de apoi
+Ofera prin credinta.

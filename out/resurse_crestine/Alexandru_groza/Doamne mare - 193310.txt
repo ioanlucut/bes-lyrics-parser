@@ -1,0 +1,29 @@
+[title]
+Doamne mare {author: {Alexandru Groza}, {rcId: {193310}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+O, Doamne mare, Te slăvim
+Numele Tău îl preamărim
+
+[c]
+Genunchii îi plecăm,
+Numele Tău îl onorăm
+Isus, al nostru Domn!
+
+[v2]
+’
+Naintea Ta sunt bucurii,
+Isus noi Te-așteptăm să vii
+
+[v3]
+Treziți-vă, voi, cei adormiți
+’
+Naintea Domnului veniți!
+
+[c2]
+Veniți îngenuncheați,
+Onoare Domnului să-I dați
+Căci Isus este Domn!

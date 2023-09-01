@@ -1,0 +1,29 @@
+[title]
+Isus te chema {author: {Elena Sufletel}, {rcId: {227409}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Veniți la mine toți cei trudiți
+Veniți să beți apă din izvoare
+Veniți toți ce sunteți osteniți
+Veniți să găsiți azi alinare
+
+[c]
+Eu sunt Domnul și azi te chem,
+Vino să îți dau eliberare
+Azi îți arăt milă și îndurare,
+Și la mine eu te chem :/
+
+[v2]
+Veniți la mine toți cei apăsați,
+Veniți, din apa vieții să gustați,
+Veniți din pâinea vieții să mâncați,
+Veniți, din întuneric să fiți salvați,
+
+[v3]
+Veniți la mine toți cei păcătoși
+Veniți că eu vă iubesc pe toți
+Veniți să puteți fi mântuiți
+Veniți să puteți fi fericiți

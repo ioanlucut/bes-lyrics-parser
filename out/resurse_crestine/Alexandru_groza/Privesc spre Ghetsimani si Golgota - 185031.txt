@@ -1,0 +1,27 @@
+[title]
+Privesc spre ghetsimani si golgota {author: {Alexandru Groza}, {rcId: {185031}}
+
+[sequence]
+v1,c,c,v2,c
+
+[v1]
+Privesc spre Ghetsimani și Golgota
+Și-L văd pe Domnul meu, Isus Hristos
+Îl văd rugându-se în chinul greu
+Înlăcrimând, plângând pentru mine
+
+[c]
+Ce mare har să fii iubit de Dumnezeu!
+Ce mare har să fii salvat prin Fiul Său!
+
+[b]
+În grădina Ghetsimani pentru mine s-a rugat
+În grădina rugăciunii numai lacrimi au rămas
+Pentru mine, pentru tine a mutat El crucea grea
+Jertfa mânturirii mele este scrisă-n Golgota
+
+[v2]
+Pe dealul Golgotei te-am răstignit
+Încoronat cu spini, batjocorit
+Tu toate le-ai răbdat și-ai suferit
+Cerul ai părăsit pentru mine!

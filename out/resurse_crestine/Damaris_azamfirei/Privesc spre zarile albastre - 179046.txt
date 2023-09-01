@@ -1,0 +1,42 @@
+[title]
+Privesc spre zarile albastre {author: {Damaris Azamfirei}, {rcId: {179046}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c2
+
+[v1]
+Privesc spre zările albastre,
+Zăresc un cer senin, frumos
+Și mă întreb: ”
+Ce e mai sus de astre,
+Acolo sus, în cer la Dumnezeu?”
+
+[c]
+Doresc să lupt lupta ce-a bună
+Ca sus în ceruri să ajung,
+Să pot primi a mea cunună
+Din mâna Ta, o scump Isus.
+
+[v2]
+Privesc spre zările albastre,
+Și încă Tată îmi vorbești,
+Cu dragoste mă mustri adesea
+Fiindcă Tată mă iubești.
+
+[v3]
+Privesc spre zările albastre,
+Și știu că mult din noapte nu mai e
+Când trâmbița suna-va Doamne
+La dreapta Ta doresc să fiu.
+
+[v4]
+Privesc spre zările albastre
+Și vreau să-Ți mulțumesc, Isus
+Că mă vei ajuta pe cale
+Să-Ți fiu mereu, oricând supus.
+
+[c2]
+Îți mulțumesc o, scump Isus
+Căci Tu m-ajuți mereu să lupt,
+/: Să pot primi a mea cunună
+Din mâna Ta, o scump Isus! :/

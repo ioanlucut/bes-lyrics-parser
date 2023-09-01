@@ -1,0 +1,35 @@
+[title]
+Curand foarte curand {author: {Anonim}, {rcId: {4867}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Curând, foarte curând
+Vom vedea toți pe Mirele.
+Aleluia, Aleluia,
+Pe mire îl vom vedea.
+
+[v2]
+Lacrimi nu vor fi, când
+Vom vedea toți pe Mirele.
+Aleluia, Aleluia,
+Pe mire îl vom vedea.
+
+[v3]
+Moarte nu va fi, când
+Vom vedea toți pe Mirele.
+Aleluia, Aleluia,
+Pe mire îl vom vedea.
+
+[v4]
+Soon and very soon
+We are going to see the King.
+Halleluiah, Halleluiah,
+We are going to see the King.
+
+[v5]
+No more crying there
+We are going to see the King.
+Halleluiah, Halleluiah,
+We are going to see the King.

@@ -1,0 +1,41 @@
+[title]
+Peste hotaru'nsamantat {author: {Traian  Dorz}, {rcId: {200650}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Peste hotaru’nsămânțat,
+Cu grâul ca lumina.
+Ți s-a ’nmulțit nemăsurat,
+De dureros neghina.
+
+[c]
+Cândva strigam și eu cerând,
+S-o smulgi, să nu mai fie,
+/: Nu-nțelegeam ce tainic gând,
+Sfârșitu-l întârzie! :/
+
+[v2]
+Dar azi l-aș vrea mai amânat,
+Căci cine știe câtă...
+Se va preface’n grâu curat,
+Din neghină urâtă.
+
+[c2]
+O, ce neghină-au fost atâți,
+Din ce-i azi grâu și pâine!...
+/: Din ce-i neghină-acuma câți,
+La fel vor fi grâu mâine :/
+
+[v3]
+Chiar eu ce neghină eram,
+Rușinea holdei sfinte.
+Tu m-ai răbdat, dar ce făceam,
+De m-ai fi smuls ’nainte?
+
+[c3]
+Fă secerișu’nspăimântat,
+O, Doamne, să nu vină,
+/: Pân’se va face grâu curat,
+Tot ce-i acum neghină! :/

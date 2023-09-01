@@ -1,0 +1,39 @@
+[title]
+Doamne-isuse te rog binecuvanta {author: {Lidia Gheorghe}, {rcId: {171730}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,e
+
+[v1]
+Doamne-Isuse te rog, binecuvântă
+Pe poporul ce azi e-naintea Ta!
+Este gata acum și ascultă
+Ce dorești, ce dorești a-l învăța.
+
+[c]
+/: Tainele iubirii, proaspeți trandafirii,
+Tainele iubirii să le-mpărtășim :/
+
+[v2]
+Hai, deschide-ți inima să intre Isus!
+Hai aprinde-te de dorul Lui!
+Înflăcărează darul ce-l ai!
+Duhul Sfânt, Duhul Sfânt va lucra!
+
+[c2]
+/: În prezența Ta, lacrimile-mi curg;
+Cercetarea sfântă m-a învăluit :/
+
+[v3]
+Pe mulți ne-a eliberat, suntem vindecați!
+Viață din belșug am căpătat.
+Domnul Dumnezeu a hotărât
+Prin Fiul, prin Fiul ne-a salvat.
+
+[c3]
+/: S-a coborât, S-a coborât
+Prințul cerului la noi pe pământ :/
+
+[e]
+/: Fii lăudat! Fii lăudat!
+Glorii și mărire să ți se-aducă-n veac. :/

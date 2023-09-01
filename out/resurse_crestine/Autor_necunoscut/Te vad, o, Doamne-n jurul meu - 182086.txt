@@ -1,0 +1,21 @@
+[title]
+Te vad o doamne-n jurul meu {author: {Anonim}, {rcId: {182086}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Te văd, o, Doamne-n jurul meu cât de măreț Tu ai creat
+Păduri, câmpii și curcubeu ce minunat, ce minunat.
+
+[c]
+Ești în parfum de trandafir, orice petală fină-mi spune
+Tu ești și-n maiestosul crin, Tu n-ai asemănare-n lume.
+
+[v2]
+În norii pregătiți de ploaie îți simt prezența Doamne bun
+Și-n soarele ce-apoi surâde, Te văd acuma, Te văd acum.
+
+[v3]
+Și în micuța albinuță și în gingașul fluturaș
+Ești în frumoasa panseluța și în surâs de copilaș.

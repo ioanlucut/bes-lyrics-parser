@@ -1,0 +1,29 @@
+[title]
+Tu esti stanca vietii mele {author: {Necunoscut}, {rcId: {197980}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Tu ești stânca vieții mele
+Tu ești totul pe pământ;
+/: Tu ești stânca, Tu ești stânca
+Tu ești stânca pe pământ :/
+
+[v2]
+Totul este doar un nume
+Totul este tecător;
+/: Totul este, totul este
+Totul este trecător! :/
+
+[v3]
+Amintește-mi Doamne mie
+Că azi sunt dar mâine nu voi fi
+/: Amintește-mi, amintește-mi
+Ca azi sunt dar mâine nu pot știi/
+
+[v4]
+Fă o Doamne a mea credință
+Ce în mine s-a născut
+/: Să tot crească, să tot crească
+Când Cuvântul Tău l-ascult! :/

@@ -1,0 +1,23 @@
+[title]
+Eu una stiu (one thing i know) {author: {Eliza E. Hewitt, William J. Kirkpatrick, Traducere RO}, {rcId: {209993}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Eu una știu, o, Doamne sfânt
+Să Îți slăvesc Numele-Ți sfânt
+Căci inima Tu mi-ai umplut
+Cu dragostea sfântă, de sus.
+
+[c]
+Aceasta știu, aceasta știu
+Sufletul meu Tu l-ai salvat
+Bucuria și pacea Ta
+În inimă eu le-am aflat.
+
+[v2]
+Eu una știu că-al meu Isus
+Mântuire El mi-a adus
+Speranța-n El și credința
+În viața mea vor rămânea.

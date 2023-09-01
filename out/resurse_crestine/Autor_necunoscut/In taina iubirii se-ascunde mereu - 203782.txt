@@ -1,0 +1,29 @@
+[title]
+In taina iubirii se-ascunde mereu {author: {Anonim}, {rcId: {203782}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În taina iubirii se-ascunde mereu
+Comoara jertfirii curate
+Și-n pasul iubirii pe drumul cel greu
+Sunt albe pășiri ne-ntinate
+
+[c]
+În cântul de taină din clipa cea grea
+Și-n ruga spre Domnul ’nălțată
+Sunt haruri, nădejdi și putere mereu
+Ce viața-ți păstrază ne-nfrânată
+
+[v2]
+În taina răbdării se-ascunde mereu
+Izbânda slăvită și dreaptă
+Și-n clipe de veghe din ceasul târziu
+Sunt vremuri de har ce te-așteptă
+
+[v3]
+În taina-ascultării de Cuvântul Sfânt
+Se află mereu fericirea
+Și-n neprihănirea pe acest pământ
+Se-ascunde pe veci nemurirea

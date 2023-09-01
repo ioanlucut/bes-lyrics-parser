@@ -1,0 +1,35 @@
+[title]
+Era o zi cand prima oara-n viata {author: {Anonim}, {rcId: {1626}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Era o zi când, prima oară-n viață,
+Când Domnul Isus pașii mi-a purtat
+/: Și ca să scap de neagra nopții ceața
+M-am dus cu frații în rugăciuni să stau :/
+
+[c]
+/: Doamne, unde ești? Iartă-mă, de vrei,
+Și vino să mă iei! :/
+/: Doamne! Vino, Doamne,
+Să vezi ce-a mai rămas! :/
+
+[v2]
+Cu ochii-nchiși, cu mâini încătușate,
+Eram în clipa când tu m-ai ales.
+/: Ca să mă speli Isuse de păcate,
+Și-n Harul Sfânt tu vina mea mi-ai șters :/
+
+[v3]
+La Golgota cu mâinile întinse
+Tu viața Doamne mi-ai adus
+/: Mi-ai arătat că vina mi-ai spălat-o
+În sângele care pe lemn a curs :/
+
+[v4]
+Când omenirea ura își aruncă,
+În clipe grele de nesuportat,
+/: Tu, prin iubirea Ta cea mai adâncă,
+La Golgota, pe-o cruce, ai răbdat. :/

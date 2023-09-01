@@ -1,0 +1,27 @@
+[title]
+Iti multumesc - mi-ai dat doamne o casa {author: {Gaither and Easter trad Pop Marius}, {rcId: {237926}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Lumea aceasta mă vede doar când sunt întristat
+Și mă nesocotește fiindcă nu sunt bogat
+Nimeni însă nu vede că în inima mea
+Sunt fericit fiindcă ești Tu în ea.
+
+[c]
+Mi-ai dat Doamne o casă, Și un somn liniștit
+Mi-ai dat pâine pe masă, Cât să fiu mulțumit
+Mi-ai dat Doamne iubire, Și-un cămin fericit
+Îți mulțumesc pentru tot ce-am primit!
+/: Mi-ai dat Doamne o casă, Și un somn liniștit
+Mi-ai dat pâine pe masă Cât să fiu mulțumit!
+Mi-ai dat Doamne iubire Și-un cămin fericit.
+/: Îți mulțumesc pentru tot ce-am primit! :/
+
+[v2]
+Doamne nu am avere, știi că nu sunt bogat
+Dar mă simt fericit de când eu te-am aflat
+Bogăția din suflet, lumea n-o va vedea
+Îți mulțumesc pentru tot ce mi-ai dat!

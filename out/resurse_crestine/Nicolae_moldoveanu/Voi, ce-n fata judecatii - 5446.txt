@@ -1,0 +1,37 @@
+[title]
+Voi ce-n fata judecatii {author: {Nicolae Moldoveanu}, {rcId: {5446}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Voi, ce-n fața judecății
+Tremurând și goi veți sta,
+Haina sfânta a dreptății
+Veniți, grabnic, a-mbrăca!
+/: Singur Isus, singur Isus
+Poate astăzi să v-o dea! :/
+
+[v2]
+Voi, ce-n jale și-n durere
+Vă petreceți viața jos,
+Tresăltați de bucurie!
+Fiți cu cugetul voios,
+/: Căci în ceruri, căci în ceruri
+V-așteaptă Isus Hristos! :/
+
+[v3]
+Voi, trudiți de remușcare
+Sau voi drepți închipuiți,
+Recunoașteți deopotrivă
+Că sunteți pierduți, greșiți...
+/: Cu grăbire, cu grăbire,
+Azi la Domnul să veniți! :/
+
+[v4]
+Veniți fără de zăbavă,
+La Cel viu din veșnicii!
+El vă va-mbrăca în slavă,
+Numai dacă veți veni.
+/: Pe cei grabnici la venire
+El, Isus, îi va iubi. :/

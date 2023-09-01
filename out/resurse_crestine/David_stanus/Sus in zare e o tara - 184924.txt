@@ -1,0 +1,35 @@
+[title]
+Sus in zare e o tara {author: {David Stănuș}, {rcId: {184924}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Sus în zare e o țară,
+Peste nori un Paradis,
+Un loc plin de strălucire
+Cu frumuseți de nedescris.
+
+[c]
+/: Ce loc glorios, ce loc minunat,
+Ești Paradis binecuvântat.
+Toată gloria să fie-a Ta,
+Mielule din Golgota! :/
+
+[v2]
+Țara mea cu străzi de aur,
+Sus la tine-L voi vedea
+Pe Isus ce stă la dreapta
+Tatălui de-a pururea.
+
+[v3]
+Acolo sus nu vor fi lacrimi,
+Suferințe și dureri,
+Domnul va fi bucuria
+Și nesfârșite mângâieri.
+
+[v4]
+Minunată va fi clipa
+Când pe poartă vom intra,
+Vom scăpa atunci de toate,
+Paradis ești țara mea.

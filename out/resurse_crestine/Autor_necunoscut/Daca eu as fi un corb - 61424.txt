@@ -1,0 +1,39 @@
+[title]
+Daca eu as fi un corb {author: {Anonim}, {rcId: {61424}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Dacă eu aș fi un corb
+Eu n-aș putea trăi ca orb
+Cum să nu Îi mulțumesc,
+Când îngeri puii mi-i hrănesc
+Dac-aș fi-n pădure arici
+Eu L-aș slăvi pe Domnul și nici
+Nu mi-ar păsa că râde de mine lumea.
+
+[c]
+Toți avem pentru ce...
+Să-I dăm mulțumire
+Și stelele și dealurile
+Copacii spre Cer să bată din palme!
+
+[v2]
+Dac-aș fi un crocodil
+I-aș mulțumi Domnului umil
+Că în valuri am mereu
+Un zâmbet larg pe chipul meu
+Dac-aș fi hipopotan
+I-aș mulțumi că sunt titan.
+N-aș fi mânios că nu-s cel mai frumos.
+
+[v3]
+Dac-aș fi-n pustie leu,
+M-aș închina Domnului și eu.
+Dac-aș fi-n bârlog un urs,
+I-aș mulțumi Lui în ascuns,
+Dac-aș fi un papagal
+Aș repeta:”
+Laudă-L, Laudă-L pe El”
+Cel care ne-a creeat să fie laudat.

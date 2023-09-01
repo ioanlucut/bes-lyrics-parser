@@ -1,0 +1,38 @@
+[title]
+N-ar fi un maine {author: {Continental}, {rcId: {4522}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+Știu, singur de-aș fi
+Nu aș putea să-mi umplu inima
+Să simt căldura unei mâini,
+Știu, n-aș avea nici un vis
+Si n-aș cunoaște când o stea pe cer
+S-ar naște și când ar muri, n-aș ști,
+Pentru mine trăise ea, pentru mine-a strălucit.
+
+[c]
+N-ar fi un mâine pentru mine
+Făr’ de nădejde, fără Tine
+N-aș putea să trăiesc nici o zi
+Nu-i nici o noapte, nici dimineața
+Fără ca viața Ta să-mi dea viața
+Fără Tine în inimă, nu pot să trăiesc nici o zi.
+
+[v2]
+Știu, că marea e a TA
+La fel și munții, frumusețea lor
+Îmi umple inima cu dor
+Știu, de-aș avea tot pământul
+Cu bogăție dincolo de gând
+Chiar împlinindu-mi orice vis, oricând,
+Orice minune de-ar fi a mea
+Dar de n-ai fi Tu în ea.
+
+[b]
+O, Doamne primesc ce-mi dăruiești
+Din Tine mă inspir
+O, Doamne trăiesc căci Tu trăiești
+Ești ceea ce respir.

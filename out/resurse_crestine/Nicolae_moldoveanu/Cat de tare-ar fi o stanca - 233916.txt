@@ -1,0 +1,25 @@
+[title]
+Cat de tare-ar fi o stanca {author: {Nicolae Moldoveanu}, {rcId: {233916}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cât de tare-ar fi o stâncă, firul viu de apă,
+cu răbdare neclintită, tot izbind o crapă.
+
+[c]
+Stăruința cu credință orice greu zdrobește;
+cel ce-n muncă nu se-oprește, munca-l răsplătește.
+
+[v2]
+Cât de mare-ar fi un munte, apa tot îl frânge,
+căci nimic nu stă în calea jertfei pân’ la sânge.
+
+[v3]
+Cât de-ntinsă-ar fi pădurea, focul o cuprinde;
+dragostea topește gheața vieții—și-o aprinde
+
+[v4]
+Dumnezeu îți umple-ntruna inima cu harul,
+ca să poți, de vrei, să birui greul și amarul.

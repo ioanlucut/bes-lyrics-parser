@@ -1,0 +1,35 @@
+[title]
+Ce dulce rasuna azi vestea {author: {Peter P.Bilhorn}, {rcId: {1721}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ce dulce rasuna azi
+Vestea trimisa de Tatal de sus!
+Ea spune de rascumpararea adusa
+De Domnul Isus.
+
+[c]
+O, crede-n a Domnului mila;
+Si tu esti iubit de Domnul Isus,
+Primeste, dar, rascumpararea,
+Iubirea-I ne este de-ajuns!
+
+[v2]
+Din cer a venit cu iubire,
+Lasand slava tronului sfant,
+Sa sfarme orice inrobire,
+Lumina in noapte-aducand.
+
+[v3]
+O, vino la Mantuitor,
+Tu, cel coplesit de pacat;
+El este Rascumparatorul;
+Azi crede si vei fi salvat!
+
+[v4]
+Nu este sub cer un alt nume
+In care sa fii mantuit,
+Azi Domnul te cheama din lume;
+Grabeste-te, vei fi fericit!

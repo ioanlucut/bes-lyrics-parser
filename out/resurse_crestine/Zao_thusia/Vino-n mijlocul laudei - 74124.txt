@@ -1,0 +1,28 @@
+[title]
+Vino-n mijlocul laudei {author: {Zao Thusia}, {rcId: {74124}}
+
+[sequence]
+v1,v2,c,v4,c
+
+[v1]
+Vino-n mijlocul laudei
+Vino-n mijlocul copiiilor Tăi!
+Vrem să Te-nălțăm, Isus,
+Fiindcă Te iubim nespus!
+
+[v2]
+Vino-n mijlocul laudei
+Vino-n mijlocul copiiilor Tăi!
+Doamne, Te chemăm aici
+Vino, Duh Sfânt, să ne-atingi!
+
+[c]
+Vrem prezența Ta, vrem iubirea Ta
+Vrem splendoarea, mărirea
+Gloria, slava Ta!
+
+[v4]
+Vino-n mijlocul laudei
+Vino-n mijlocul copiiilor Tăi!
+Toarnă din iubirea Ta
+Când răsună lauda!

@@ -1,0 +1,28 @@
+[title]
+Har si lumina {author: {Nicolae Moldoveanu}, {rcId: {244124}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Har și lumină-ncunună mereu,
+Fața întoarsă spre cruce,
+/: Viața ascunsă-n Hristos-Dumnezeu
+Slavă și pace aduce! :/
+
+[v2]
+Noaptea când bezna-i mai mare, oricând Semn e că ziua răsare,
+/: Lanțul când arde și doare, curând,
+Cade, oricât e de tare! :/
+
+[v3]
+Greu e urcușul spre vârful frumos
+Mare-i răsplata luminii,
+/: Suie, că-ntr-una ți-e cerul mai jos,
+Cinste-s ocara și spinii. :/
+
+[v4]
+Sus să rămâi în lumină mereu,
+Fața ținând-o spre cruce,
+/: Viața trăită-n Hristos-Dumnezeu,
+Veșnică slavă aduce! :/

@@ -1,0 +1,30 @@
+[title]
+Grabeste de m-asculta azi o doamne {author: {Vasile Daniel}, {rcId: {194357}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Grăbește de m-ascultă azi o, Doamne
+Mi se topește-n taină duhul meu,
+Arată-mi calea pe care să umblu
+Și vin degrab în ajutorul meu.
+
+[c]
+Învață-mă să tac și voia Ta să fac
+Căci Tu ești Doamne Dumnezeul meu,
+Spre Tine să mă-ndrept, și-n Tine să
+mă-ncred
+Călăuzește-mă cu Duhul Tău!
+
+[v2]
+Sufletul meu suspină și tânjește
+De dor după curțile Domnului,
+Inima mea și carnea strigă-ntruna
+După Tine, o, Dumnezeu cel viu.
+
+[v3]
+Învață-mă căile Tale Doamne
+Și voi umbla în adevărul Tău,
+Fă-mi inima să se teamă de Tine
+Și lasă peste mine Duhul Tău.

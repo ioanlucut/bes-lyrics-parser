@@ -1,0 +1,57 @@
+[title]
+Scrisoare (fratilor mi-au spus ai cloei despre voi) {author: {Costache Ioanid si Nicolae Moldoveanu}, {rcId: {200652}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Fraților, mi-au spus ai Cloei, despre voi, despre voi...
+Că’n grădinile iubirii,
+Ați lăsat omida firii,
+Să vă strice trandafirii,
+/: Din Eden :/
+
+[c]
+/: Că din nou Ia voi pe vale,
+Toate crengile sunt goale,
+Că n-au mai rămas petale,
+/: Nici polen! :/
+
+[v2]
+Fraților, mi-au spus ai Cloei, despre voi, despre voi...
+Că fecioarele’nțelepte,
+Nu mai stau cu drag s-aștepte,
+Priveghind pe-a nunții trepte,
+/: Ca surori :/
+
+[c2]
+/: Că mireasa, de mâhnire,
+Nu mai țese in subțire,
+Pentru-a’ntâmpina pe Mire,
+/: Sus pe nori! :/
+
+[v3]
+Fraților, dar unde-i dragostea dintâi, cea dintai... ?
+Dacă azi aveți mânie,
+Câțiva ani și nu o mie,
+Cum veți fi o veșnicie,
+/: Sus pe plai? :/
+
+[c3]
+/: Dacă azi aveți zăvoare,
+Veți avea și’n ceruri oare,
+Câte-un rai de fiecare,
+/: Câte-un rai? :/
+
+[v4]
+Fraților, să știți că vremea s-a scurtat, s-a scurtat...
+Las’ să fie holda plină,
+Și de spini și de neghină!
+Grâul lângă grâu să-și țină,
+/: Spicu’n vânt :/
+
+[c4]
+/: Cine-i spin cu flori deșarte,
+Spin să fie mai departe!
+Cine-i sfânt, mai sfânt să-și poarte,
+/: Rodul sfânt! :/

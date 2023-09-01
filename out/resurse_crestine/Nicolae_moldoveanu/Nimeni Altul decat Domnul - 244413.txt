@@ -1,0 +1,44 @@
+[title]
+Nimeni altul decat domnul {author: {Nicolae Moldoveanu}, {rcId: {244413}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Nimeni altul decât Domnul
+N-a putut să dea scăpare,
+Oastei Sale-n suferința
+Și-n durerea ei cea mare.
+
+[c]
+Nimeni altul, nimeni altul
+Nimeni altul n-a putut,
+Să ne fie, în urgie,
+Steag și sabie și scut.
+Nimeni altul, numai Domnul,
+Nimeni altul n-a putut!
+
+[v2]
+Când s-au năpustit vrăjmașii
+Plini de ură și cruzime,
+Nici un Ioc de izbăvire,
+Pentru noi n-a fost Ia nime!
+
+[v3]
+N-a fost nimeni să ne-asculte
+Strigăte
+Ie-ndurerate,
+Nici să apere dreptatea
+Pricinii nevinovate!
+
+[v4]
+N-a fost nimenea să lupte,
+Pentru cei făr-apărare,
+Nici s-aline plâns fierbinte,
+Nici să lege răni amare!
+
+[v5]
+Numai El a fost Acela,
+Numai Lui Îi dăm mărire,
+Numai Lui pentru deplina
+Și slăvita-l Izbăvire!

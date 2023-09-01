@@ -1,0 +1,25 @@
+[title]
+Toata viata am alergat {author: {Ionel Saran Bochis}, {rcId: {90097}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+/: Toata viata am alergat pina de Tine am dat
+Vroiam din toata inima sa am si eu iubirea Ta :/
+
+[v2]
+/: Doamne minunat Tu esti inima mi-o curatesti
+Doamne cit de mult as vrea sa ramai mereu in ea :/
+
+[v3]
+/: Din clipa cind Te-am cunoscut simteam ca e un inceput
+Eu Te iubesc prea mult si-as vrea o viata cu Tine sa stau :/
+
+[v4]
+/: Doamne minunat Tu esti inima mi-o curatesti
+Doamne cit de mult as vrea sa ramai mereu in ea :/
+
+[v5]
+/: Isuse esti iubirea mea toata viata iti voi cinta
+Ajutama sa-ti pot urma sa las aceasta lume rea :/

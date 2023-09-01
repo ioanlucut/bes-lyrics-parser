@@ -1,0 +1,36 @@
+[title]
+Domnul a creat: pasari flori si crang {author: {Nicolae Moldoveanu}, {rcId: {5263}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Domnul a creat: pasari, flori si crang
+Si-acei crini ce frumos infloresc;
+Ce parfum minunat Domnul a presarat!
+Cand il sorbi, indata te inveselesti;
+Iat-un ghiocel, creste-ncetinel;
+De-l intrebi, iti va spune si el
+De-al sau Creator Atotziditor
+Cum si lui i-a dat Domnul viata la fel.
+
+[c]
+/: Dar tu - spune, omule, ce esti trecator -
+N-ar trebui sa-L slavesti pe Creator,
+/: Cand esti cea mai minunata faptura din toate? :/
+
+[v2]
+Pasarile-n crang canta ne’ncetat
+Si aduc slava Celui Prea’nalt,
+Ca El a creat crangul minunat
+Si izvoarele ce curg ne’ncetat.
+Curg rostogolind, incet sipotind,
+Despre-al lor Creator povestind
+Celor ce-n calea lor setea si-o potolesc;
+Tot ce-i viata in jurul lor racoresc.
+
+[c2]
+/: Sus pe cer se-aprind stele clipocind;
+Luna, soarele, spun ne’ncetat
+De puterea Sa, de marirea Sa,
+Cum pe cer Dumnezeu le-a asezat. :/

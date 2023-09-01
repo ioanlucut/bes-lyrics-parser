@@ -1,0 +1,27 @@
+[title]
+Deschide-mi ochii inimii {author: {Speranța}, {rcId: {77939}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Deschide-mi ochii inimii
+Să pot spre Tine a privi
+/: Să nu mă uit la lumea rea
+Ci să privesc la fața Ta :/
+
+[c]
+/: Domnul meu, atât de mult m-ai iubit
+Că la Golgota pe o cruce Te-ai jertfit
+În orice zi mă iubești cu-adevarat
+De-aceea vreau să Te slujesc neîncetat :/
+
+[v2]
+Privirea Ta-i atât de dulce
+Înviorare îmi aduce
+/: Pe Fața Ta zăresc iubire
+Îmi umpli viața de fericire :/
+
+[e]
+Pe veci să fii cu mine la greu și la bine
+În veci să fiu al Tău iar Tu să fii al Meu

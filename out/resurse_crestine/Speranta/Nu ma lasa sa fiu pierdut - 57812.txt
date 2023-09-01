@@ -1,0 +1,35 @@
+[title]
+Nu ma lasa sa fiu pierdut {author: {Speranța}, {rcId: {57812}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Nu mă lăsa să fiu pierdut.
+Când valurile vieții vin.
+Nu mă lăsa să fiu căzut
+De-atâtea ori, o, Salvator iubit
+
+[c]
+Mâna Ta să fie veșnic peste mine
+Doamne, unge-mă cu untdelemnul bun
+Rănile care mă dor, să mi le aline
+Să nu mai rămân căzut în drum.
+
+[v2]
+Ridică-mă, ridică-mă
+Samaritean bun și milos
+Ridică-mă, ridică-mă
+Domnul meu, Isus Hristos.
+
+[v3]
+Nu mă lăsa între tâlhari
+Că sunt zdrobit și fără vlagă
+În jurul meu sunt oameni mari
+Iar rănile nicicând nu-mi leagă
+
+[v4]
+Nu mă lăsa chiar de plângând
+Mi-ai fi șoptit că sunt în stare
+Singur să lupt pe-acest pământ
+De-aș fi căzut doar o suflare

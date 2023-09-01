@@ -1,0 +1,31 @@
+[title]
+Cautam mereu iubirea {author: {Marius Livanu}, {rcId: {111827}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Căutam mereu iubirea
+Ca pe-o comoară sfântă
+În tot ce ochiul cântă
+Dorit-am să găsesc
+Dar tristă-i fericirea
+Ce lumea îți aduce
+Chiar dacă pare dulce
+Amară-i la sfârșit
+
+[c]
+/: El m-a iubit, m-a iubit, m-a iubit
+El m-a iubit, m-a iubit, m-a iubit
+El m-a iubit, m-a iubit
+Cum nimeni nu m-a iubit :/
+
+[v2]
+Și n-am găsit în nimeni
+Iubire ca aceea
+Ce-aprinde-n noi scânteia
+Din dorul cel divin
+Iubirea cea mai mare
+Iubirea cea mai blândă
+Iubirea cea mai sfântă
+Iubirea lui Isus

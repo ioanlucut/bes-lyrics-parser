@@ -1,0 +1,30 @@
+[title]
+Esti neschimbat {author: {Mirela Ursulescu}, {rcId: {176602}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mărire Ție Doamne
+În veci fi preamărit
+Ți-aducem închinare
+Isuse preaiubit.
+
+[c]
+Ești neschimbat o Doamne
+În veci rămâi la fel
+Acum ca și’n vechime
+Același Dumnezeu
+La bine și la greu.
+
+[v2]
+Slăvit să fi o Doamne,
+Al nostru Salvator
+Din orișice’ncercare
+Ieșim biruitori.
+
+[v3]
+Osana Ție Doamne
+În veci fi lăudat
+Prin jertfa de pe cruce
+Ne’ai răscumpărat.

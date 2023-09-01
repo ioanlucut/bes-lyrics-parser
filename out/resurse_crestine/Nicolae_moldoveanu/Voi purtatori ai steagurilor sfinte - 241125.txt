@@ -1,0 +1,62 @@
+[title]
+Voi purtatori ai steagurilor sfinte {author: {Nicolae Moldoveanu}, {rcId: {241125}}
+
+[sequence]
+v1,c,v2,c2,v3,c2,v4,c2,v5,c2,v6,c2,v7,c3
+
+[v1]
+Voi purtători ai steagurilor sfinte,
+Spre-Acel măreț și veșnic Viitor,
+Voi făclieri de slove și cuvinte.
+Fiți voi întâi la înălțimea lor.
+
+[c]
+Fiți voi întâi, fiți voi întâi,
+Precum ați spus,
+O pildă vie spre Isus.
+
+[v2]
+Tu care-ai prins în mâna ta condeiul
+Și vrei să dai lumină la mulțimi,
+O, nu uita, că pilda ta-i temeiul
+Izbânzii-n ridicarea spre’naltimi.
+
+[c2]
+Fii tu întâi, fii tu întâi,
+Precum ai spus,
+O pildă vie spre Isus.
+
+[v3]
+Tu care porți în gura ta Cuvântul
+Și-ndemnul spre mai bine și frumos,
+O, nu uită că pilda ta, avântul
+În alții-l ’nalță sau l-aruncă jos.
+
+[v4]
+Tu care ceri poporului putere
+De jertfă pentru minunatul țel,
+Tu ce-ai jertfit, ce drept și ce plăcere,
+Să poți fi-un far și pildă pentru el?
+
+[v5]
+O, nu uita că vorba ta-i scânteia,
+Dar fapta ta e focul uriaș,
+Doar pilda ta-i va ridică pe-aceia
+Ce vrei să-i vezi mai fericiți urmași.
+
+[v6]
+Doar pilda ta de muncă și-nfrânare
+Și de credință-n scopul cel slăvit,
+Dă gândului vorbit și scris valoare,
+Și rod măreț, în cei ce l-au primit.
+
+[v7]
+Voi purtătorii steagurilor sfinte,
+Spre-Acel măreț și veșnic Viitor,
+Voi făclieri de slove și cuvinte,
+Fiți voi întâi la înălțimea lor!
+
+[c3]
+Fiți voi întâi, fiți voi întâi,
+Precum ați spus,
+O pildă vie spre Isus.

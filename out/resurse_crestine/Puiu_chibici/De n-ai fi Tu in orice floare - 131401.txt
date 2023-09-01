@@ -1,0 +1,35 @@
+[title]
+De n-ai fi tu in orice floare {author: {Puiu Chibici}, {rcId: {131401}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+De n-ai fi Tu în orice floare
+N-ar exista nici-un parfum
+Nici zorii n-ar avea culoare
+De n-ai fi Tu, Isuse bun
+
+[c]
+/: Acolo unde-Ți trece pasul
+Se nasc izvoare vii de har
+Iar unde Ți se aude glasul
+Se-nalță-n taină sfânt altar :/
+
+[v2]
+Splendori cerești ne înconjoară
+În slava unde Tu domnești
+Nemărginirea te adoră
+Căci Preaînalt și mare ești.
+
+[v3]
+De n-ai fi pus Tu armonia
+În cântecul de ciocârlii
+N-am fi știut ce-i bucuria
+Și fericirea de-a trăi.
+
+[v4]
+De n-ai fi Tu prezent în toate
+Nici Universul n-ar mai fi
+Ar fi pustiu și gol și moarte
+De n-ai fi viu în veșnicii.

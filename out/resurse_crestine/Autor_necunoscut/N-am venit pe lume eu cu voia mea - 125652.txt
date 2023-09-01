@@ -1,0 +1,41 @@
+[title]
+N-am venit pe lume eu cu voia mea {author: {Anonim}, {rcId: {125652}}
+
+[sequence]
+v1,c,v2,c2,v3,c2,v4,c2
+
+[v1]
+N-am venit pe lume eu cu voia mea
+Am venit pe lume c-a fost voia Ta.
+M-am născut aicea pe acest pământ
+M-am născut Isuse, că Tu așa-i vrut.
+
+[c]
+/: M-am născut în lumea aceasta
+Printre oameni, fel de fel
+Dar mi-ai arătat o Cale
+Care duce către cer :/
+
+[v2]
+N-am venit pe lume Doamne c-am vrut eu
+Am venit pe lume c-a fost planul Tău
+Tu mi-ai dat viața și mi-ai arătat
+Că Tu ești Mesia cel adevărat.
+
+[c2]
+/: M-am născut în lumea aceasta
+Doamne, că așa-i vrut Tu
+Eu te rog acum o Doamne
+Pe calea Ta, mă condu :/
+
+[v3]
+N-am venit pe lume eu, cu voia mea
+Nicicând o să vreau, n-am să pot pleca
+Dar aștept eu ziua când mă vei chema
+Ziua cea măreață, sus în țara Ta.
+
+[v4]
+N-a venit pe lume niciun om c-a vrut
+Numai Dumnezeu, toate le-a făcut
+El ne dă viața aici pe pământ
+Dar ne dă viață și În cerul Sfânt.

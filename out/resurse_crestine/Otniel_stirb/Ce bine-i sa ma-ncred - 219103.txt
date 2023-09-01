@@ -1,0 +1,41 @@
+[title]
+Ce bine-i sa ma-ncred {author: {Otniel Stirb}, {rcId: {219103}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ce bine-i să mă-ncred
+În turnul de scăpare
+Făcut din Domnul Dumnezeu
+/: De câte ori mă tem
+Isus e-a mea salvare
+Când drumul meu e greu
+El e-ajutorul meu :/
+
+[c]
+O mie pot să cadă
+Alăturea de mine
+Și zeci de mii la dreapta mea
+Cu Domnul meu trec toate
+Necazuri și suspine
+Iar când sfârși-voi calea
+Odihnă voi avea
+
+[v2]
+Doar El mă va scăpa
+De groaza cea din noapte
+De lațul vânătorului
+/: Voi fi păzit mereu
+Cu-a Domnului aripă
+Căci scut și pavăză-i
+Credincioșia Lui :/
+
+[v3]
+Isus e umbra mea
+Pe mâna mea cea dreaptă
+El ține-n mână pașii mei
+/: De-aceea-L voi lăuda
+Cu inimă curată
+Și-L voi ’nălța mereu
+Cu toți copiii Săi :/

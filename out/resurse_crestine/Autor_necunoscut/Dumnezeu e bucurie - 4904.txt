@@ -1,0 +1,33 @@
+[title]
+Dumnezeu e bucurie {author: {Anonim}, {rcId: {4904}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Dumnezeu e bucurie,
+Vesel sunt și cânt la, la,
+Viața mea e bucurie,
+De aceea cânt:
+
+[c]
+La, la, la, la, Aleluia
+La, la, la, la, Aleluia.
+
+[v2]
+Dumnezeu e bucurie,
+Eu cu drag Îi cânt la, la,
+El e plin de strălucire,
+De aceea cânt:
+
+[v3]
+Dumnezeu e adevărul
+Celui Sfânt Îi cânt la, la
+Lui Îi cântă chiar și cerul
+De aceea cânt:
+
+[v4]
+Dumnezeu este viață,
+Vesel sunt și cânt la, la
+Prin Isus și eu am viață
+Vrednic am sa-I cânt:

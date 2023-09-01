@@ -1,0 +1,11 @@
+[title]
+Emanuel {author: {Anonim}, {rcId: {1235}}
+
+[sequence]
+v1
+
+[v1]
+Emanuel, Emanuel,
+Ce nume scump: Emanuel.
+El e cu noi în veci de veci,
+Ce nume scump: Emanuel.

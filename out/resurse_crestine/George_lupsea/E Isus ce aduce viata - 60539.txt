@@ -1,0 +1,29 @@
+[title]
+E isus ce aduce viata {author: {George Lupsea}, {rcId: {60539}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O Lumina apare in zare
+E Lumina ce e Dumnezeu
+Tot Pamantul e pus in miscare
+Caci Domnul Pe Nori Va Apare
+
+[c]
+E Isus ce aduce viata
+Si patrunde in sufletul meu
+Ma ajuta atunci cand pe cale
+Obosesc eu cand mi-e greu
+
+[v2]
+O Doamne priveste din ceruri
+Sa ezi poporasul Tau jos
+Ei toti Te asteapta pe Tine
+Sa-i duci Tu unde e lumina
+
+[v3]
+Maret este locul Tau Doamne
+Frumoasa Tara de sus
+Acolo, totul e splendoare
+Si Toti Il Maresc doar pe Mire.

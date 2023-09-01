@@ -1,0 +1,34 @@
+[title]
+Doamne am necazuri multe {author: {Ionel Saran}, {rcId: {115680}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Doamne, am necazuri multe
+N-are cine să m-ajute
+Din necaz merg în durere
+/: Dar nu-mi dă nimeni mângâiere :/
+
+[v2]
+Nu mai Tu poti mângâia
+Doamne, rana din Inima mea
+Necazul,
+Doamne, când vine
+/: Nu se mai lasă de mine :/
+
+[v3]
+Eram pe patul de moarte
+Ai venit în toi de noapte
+Ai venit m-ai mângâiat
+/: Sufletul mi l-ai salvat :/
+
+[v4]
+Doamne să fii lăudat
+C-ai venit la min’ la pat
+Doamne c-ai venit la patul meu
+Când mi-a fost mie mai greu
+Ai salvat sufletul meu
+Doamne c-ai venit la patul meu
+Când mi-a fost mie mai greu
+Ai salvat sufletul meu Doamne

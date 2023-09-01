@@ -1,0 +1,35 @@
+[title]
+Like a rock in the billows {author: {Barney E. Warren}, {rcId: {101986}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Like a rock in the billows I would stable be,
+Till the storm is overpast;
+Then I long to harbor, Lord, with Thee,
+In my heav’nly home at last.
+
+[c]
+If I trust in Jesus, and obey His word,
+If I lean upon His breast;
+If I keep low down at His feet, I know
+He will give me peace and rest.
+
+[v2]
+Like a rock in the billows I would never yield
+To the angry tossing wave;
+I would cling to Christ, my sun and shield,
+For His pow’r alone can save.
+
+[v3]
+Like a rock in the billows of a boiling sea,
+When its waters leap and foam,
+I would rest secure, my Lord, in Thee,
+Till the trumpet calls me home.
+
+[v4]
+Like a rock in the billows I would fearless stand,
+And defy the threat’ning blast;
+For the Savior holds me by the hand,
+Till the raging storm is past.

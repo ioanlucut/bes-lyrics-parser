@@ -1,0 +1,26 @@
+[title]
+O ce veste minunata (varianta scurta) {author: {Anonim}, {rcId: {135210}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+O, ce veste minunată
+În Betleem ni se-arată:
+/: Astăzi s-a născut
+Cel făr-de-nceput,
+Cum au scris prorocii! :/
+
+[v2]
+Că la Betleem, Maria,
+Săvârșind călătoria,
+/: Într-un mic sălaș
+Lângă-acel oraș
+Naște pe Mesia! :/
+
+[v3]
+Pe Fiul cel din vecie
+Ce L-a trimis Tatăl mie,
+/: Să Se nască
+Și să crească,
+Să ne mântuiască. :/

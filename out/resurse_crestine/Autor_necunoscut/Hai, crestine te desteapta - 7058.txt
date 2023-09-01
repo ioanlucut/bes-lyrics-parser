@@ -1,0 +1,33 @@
+[title]
+Hai crestine te desteapta {author: {Anonim}, {rcId: {7058}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Hai, creștine te deșteaptă,
+Lasă somnul cel de veci,
+Mântuirea nu-i departe,
+Și tu numai in păcate,
+Viața ți-o petreci!
+
+[c]
+Lasă grija de avere,
+Lasă somnul cel de veci,
+Lasă orșice plăcere,
+Altă faptă ți-se cere,
+Aici pe pământ!
+
+[v2]
+Într-un staul pe zăpadă,
+Hristos Domnul s-a născut,
+Tu-ți faci casă si ogradă,
+Haine scumpe de paradă,
+Cum nu s-a văzut!
+
+[v3]
+Câte pilde El ne spune,
+Pentru a ne-ndrepta,
+Dar tu câte fapte bune,
+Ai făcut creștin în lume,
+Aici pe pământ.

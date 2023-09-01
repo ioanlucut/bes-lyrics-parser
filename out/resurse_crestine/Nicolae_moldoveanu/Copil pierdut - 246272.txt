@@ -1,0 +1,40 @@
+[title]
+Copil pierdut {author: {Nicolae Moldoveanu}, {rcId: {246272}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+E mult de când te-ai dus străin pe cale
+Și-ai rătăcit prin lumea de păcat,
+/: Dar n-ai aflat decât dureri și jale :/
+O, vin’ la Tatăl, vin’ să fii iertat,
+O, vin’ să fii iertat.
+
+[v2]
+lubirea Lui de-atâta timp te cheamă,
+Să vii, să vii, o, suflet chinuit,
+/: Copil pierdut, întoarce-te acasă, :/
+Te-așteapt-acum căminul fericit,
+Căminul fericit.
+
+[v3]
+De când Te-ai dus, în inima-mi de Tată,
+O rană dureroasă s-a deschis,
+/: Copilul meu, copil iubit odată, :/
+De ce nu vii? Chemare ți-am trimis,
+Chemare ți-am trimis.
+
+[v4]
+O, vin’ acum, când brațele de Tată
+În așteptare stau, să-ți dea alin,
+/: Ca să nu pieri în țara depărtată, :/
+O, vin, nu amâna! O, vin, o, vin’!
+Nu amâna, o, vin’!
+
+[v5]
+Privește azi cu ochii tăi la cruce,
+Vezi cum acolo-n chinuri a murit
+/: Isus Hristos, Copilul Său cel dulce :/
+Ca tu, pierdut, să poți fi mântuit,
+Să poți fi mântuit.

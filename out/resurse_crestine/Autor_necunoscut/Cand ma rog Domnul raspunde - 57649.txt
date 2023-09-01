@@ -1,0 +1,17 @@
+[title]
+Cand ma rog domnul raspunde {author: {Anonim}, {rcId: {57649}}
+
+[sequence]
+v1
+
+[v1]
+/: Cand ma rog Domnul
+Raspunde : „
+Da”.
+Uneori raspunde : „
+Asteapta”
+Alteori spune : „
+Nu”
+Pentru ca ma iubeste
+Dar eu stiu ca El
+Raspunde cand ma rog. :/

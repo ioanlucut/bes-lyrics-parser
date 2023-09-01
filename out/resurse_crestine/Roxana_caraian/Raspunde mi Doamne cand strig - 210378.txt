@@ -1,0 +1,30 @@
+[title]
+Raspunde mi doamne cand strig {author: {Roxana Caraian}, {rcId: {210378}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Raspunde-mi Doamne cand strig
+Si nu-ti mai ascunde fata
+Mai intinde-ti astazi mana
+Si invioreaza-mi viata
+
+[c]
+/; Mai treci o clipa Doamne pe la mine
+Si vezi- mi starea mea cea grea
+Nu ma lasa!
+Ridica-mi greul care ma apasa
+Ca nu m-ajuta nimenea :/
+
+[v2]
+Doamne stiu ca esti cu mine
+Ori de cate ori Te chem
+In necaz si in suspine
+Tu imi spui sa nu ma tem
+
+[v3]
+Singura mea fericire
+Este doar prezenta Ta
+Vreau sa pui Numele Tau
+Peste toata casa mea

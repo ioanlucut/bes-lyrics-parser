@@ -1,0 +1,35 @@
+[title]
+Doamne este seceta in tara {author: {Anonim}, {rcId: {228036}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Doamne este secetă în țară,
+Totul s-a uscat pe-acest pământ
+Au secat izvoarele din vale,
+Praful și pustia e pe câmp.
+
+[c]
+/: Toarnă Doamne, peste toată țara
+Ploaia Duhului cel Sfânt
+Cercetează toată adunarea,
+Umple vasele de lut :/
+
+[v2]
+Foamete și multă deznădejde
+Iată ce se vede în popor
+Tot mai mult lipsește rugăciunea,
+Te rugăm trimite micul nor.
+
+[v3]
+Doamne ne rugăm ca și Ilie
+Când era pe muntele Carmel...
+E căzut poporul în pustie,
+Toarnă apă vie peste el.
+
+[v4]
+Multe din fecioare-s adormite
+Și noi suntem gata s-ațipim
+O nu ne lăsa iubit părinte,
+Umple-ne cu Duhul să trăim!

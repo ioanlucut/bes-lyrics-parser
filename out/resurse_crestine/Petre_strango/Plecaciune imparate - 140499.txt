@@ -1,0 +1,29 @@
+[title]
+Plecaciune imparate {author: {Petre Strango}, {rcId: {140499}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Plecăciune împărate am venit să mă închin
+Plecăciune și închinare îți aduc la tine vin
+
+[c]
+Că tu ești rege și ai cunună
+Iar casa ta mai sus de lună
+Căci tu ești rege și ai cuvânt
+În fața ta cer și pământ
+Se apleaca întruna și iți dă cununa
+Că tu ești sfânt întodeauna
+
+[v2]
+Plecăciune maiestate am venit să-ți aduc
+Că tu ești bun și a ta dreptate D-ne am văzut
+
+[c2]
+Că tu ești Domn și tu domnești
+Si peste lume tu strălucești
+Cu a ta splendoare ce-n veci nu moare
+Tu ne vorbești la fiecare
+Să ne aplecăm să te sfințim
+Să ne închinăm și să-ți slujim

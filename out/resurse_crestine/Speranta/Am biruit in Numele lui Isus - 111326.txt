@@ -1,0 +1,32 @@
+[title]
+Am biruit in numele lui isus {author: {Speranța}, {rcId: {111326}}
+
+[sequence]
+v1,b,c,v2,c,v3,c
+
+[v1]
+Să cântăm de bucurie,
+Am biruit prin brațul Domnului.
+Dumnezeu ne-a scăpat prin credință,
+Slava să fie doar a Lui!
+
+[b]
+Glorie Lui, glorie Lui, glorie Lui!
+
+[c]
+/: Am biruit în numele lui Isus,
+Până aici El ne-a ajutat.
+Ne-ndreptăm privirea noastră-n sus,
+Să-l slăvim pe-al nostru Împărat! :/
+
+[v2]
+Vrem să nu uităm nicicând de Domnul, 
+Ne-ncetat doar bine ne-a făcut,
+Ne-a scăpat și de jugul robiei, 
+Slavă doar Regelui Sfânt!
+
+[v3]
+Ne-amintim de-atâtea momente,
+Când firul vieții ne-a mai fost lungit,
+Pe când mulți au parte de durere,
+Dumnezeu pe noi ne-a păzit!

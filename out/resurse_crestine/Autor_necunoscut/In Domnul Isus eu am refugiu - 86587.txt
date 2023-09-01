@@ -1,0 +1,29 @@
+[title]
+In domnul isus eu am refugiu {author: {Anonim}, {rcId: {86587}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+In Domnul Isus eu am refugiu
+In vremuri tulburi si cu furtuni
+Ma-ncred in Tine, iubire sfanta
+Caci pace-n juru-mi Tu imi aduni
+
+[c]
+Aceasta Stanca in veci ramane
+Vuiasca marea cat va voi
+Si daca in Isus crezand mi-e bine
+Cu-atat mai mult cand dureri vor fi
+
+[v2]
+Pe-aceasta Stanca cladesc nadejdea
+Si fericirea ce mi-o doresc
+Caci peste-adancuri e ca o punte
+Si prin credinta incerc s-o trec
+
+[v3]
+Cand incercari mari lovesc pamantul
+Si cand popoare sunt in razboi
+Privesc spre ceruri, spre clipa-n care
+Lua-m-voi zborul, lasand nevoi.

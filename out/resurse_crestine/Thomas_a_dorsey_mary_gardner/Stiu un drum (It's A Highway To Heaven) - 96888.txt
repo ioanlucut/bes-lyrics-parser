@@ -1,0 +1,26 @@
+[title]
+Stiu un drum (it s a highway to heaven) {author: {Thomas A. Dorsey, Mary Gardner, Traducere RO}, {rcId: {96888}}
+
+[sequence]
+c,v1,c,v2,c,s,c
+
+[c]
+Știu un drum care duce
+Sus în străluciri, sus în fericiri
+Știu un drum care duce
+Spre Ierusalimul nou!
+
+[v1]
+Rătăcit în noapte, poate ești departe
+În pustiu întunecat
+Cauți mereu o cale, să găsești scăpare
+Să poți fi și tu salvat.
+
+[v2]
+Dacă vrei scăpare, eu cunosc o cale
+Drumu-ngust spre Golgota
+Isus te așteaptă, drumul ți-l îndreaptă
+Spre Ierusalimul nou.
+
+[s]
+Acolo se va croi o cale, un drum, care se va numi Calea cea sfântă: niciun om necurat nu va trece pe ea, ci va fi numai pentru cei sfinți; cei ce vor merge pe ea, chiar și cei fără minte, nu vor putea să se rătăcească. Isaia 35:8

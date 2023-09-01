@@ -1,0 +1,29 @@
+[title]
+Pe pamant suntem straini {author: {Anonim}, {rcId: {68861}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pe pământ suntem străini,
+Suntem niște pelerini.
+Pe Isus Hristos vestim,
+Îl iubim și Îl slujim.
+
+[c]
+Dar noi știm că vine o zi
+Când cu El ne-om întâlni,
+Și acolo-n slava Sa
+Veșnic cu toți vom cânta.
+
+[v2]
+Biblia-i Cuvântul sfânt,
+Călăuză-i pe pământ.
+Tot ce-i scris se va-mplini,
+El, Isus va reveni.
+
+[v3]
+Cine vrea pe Domnul Sfânt,
+Călăuză pe pământ,
+Să vestească al Său Cuvânt
+Cu iubire pe pământ.

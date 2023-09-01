@@ -1,0 +1,28 @@
+[title]
+Este o zi de sarbatoare {author: {Ilie Neagu}, {rcId: {86609}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Este o zi de sarbatoare cu totii noi am venit
+La locasul de inchinare dorind pe Tine a Te sluji
+Cand ruga noastra o inaltam privirea catre cer in sus
+Iar inimile ni le plecam
+/: Caci dorim ca sa ne asculti :/
+
+[c]
+/: Binecuvanta tineretul
+Binecuvanta si copii
+Binecuvanta pe cei invarsta
+Bincuvanta biserica
+Binecuvanta adunarea
+Binecuvanta azi lucrarea
+Binecuvanta tot poporul.spre slava Ta :/
+
+[v2]
+Iti multumim ca ne iubesti cand iti gresim Tu nu ne certi
+Tu dragoste ades reversi o Doamne cat de bun Tu esti
+Cu mila Tu mereu privesti, povarea grea Tu o ridici
+Dai mangaiere in ceasul greu
+/: Cu Tine vrem in veci sa fim :/

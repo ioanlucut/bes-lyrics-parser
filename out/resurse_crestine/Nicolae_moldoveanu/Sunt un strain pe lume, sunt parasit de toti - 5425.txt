@@ -1,0 +1,35 @@
+[title]
+Sunt un strain pe lume sunt parasit de toti {author: {Nicolae Moldoveanu}, {rcId: {5425}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Sunt un străin pe lume,
+Sunt părăsit de toți,
+Și-n cea mai grea-ncercare,
+Alerg doar la Hristos.
+
+[c]
+/: Am căutat fericirea
+Dar lumea nu mi-a dat;
+Numai Isus e-Acela
+Ce-n brațe m-a luat. :/
+
+[v2]
+Am alergat la oameni
+Să cer un ajutor,
+Dar am văzut ca și ei
+Sunt niște muritori.
+
+[v3]
+Am căutat mângâierea,
+La omul păcătos;
+M-am încrezut în basme
+Ce nu aveau folos.
+
+[v4]
+Azi nu mai plâng o clipă,
+Privesc numai în sus.
+Deși dureri sunt multe,
+Mă mângâie Isus.

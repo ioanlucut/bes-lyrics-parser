@@ -1,0 +1,41 @@
+[title]
+Azi e ziua nuntii tale {author: {Ioan Chismorie}, {rcId: {3826}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Azi e ziua nunții tale
+Ziua marii sărbători
+Azi cărarea ți se gată
+Dintre fete și feciori
+
+[c]
+/: Tinerețe flori albastre
+Azi cu lacrimi vă stropesc
+Niciodată pe-a ta cale
+Pașii mei nu mai pășesc :/
+
+[v2]
+Dragi părinți la revedere
+Astăzi eu vă zic cu drag
+Astăzi plec din casa voastră
+Pe-al căsătoriei prag
+
+[v3]
+Uită-te cu drag mămico
+Vino mâna să ți-o strâng
+Că eu plec din casa voastră
+Tu rămâi tristă și plângi
+
+[v4]
+Hai tăticule dă mâna
+Pune frâu la ochii tăi
+Nu mai plânge plângă mama
+Plângă ea și ochii mei
+
+[v5]
+Soare sfânt cu-atâtea raze
+Pot să vină vânt și ploi
+Când în suflet avem pace
+Dumnezeu este cu noi.

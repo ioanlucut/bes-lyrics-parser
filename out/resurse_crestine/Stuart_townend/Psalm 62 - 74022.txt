@@ -1,0 +1,37 @@
+[title]
+Psalm {author: {Stuart Townend, Traducere RO}, {rcId: {74022}}
+
+[sequence]
+v1,c,v2,c2,v3,c2,v4,c2
+
+[v1]
+În Domnul eu am adăpost, El e-a mea cetățuie,
+Dușmanii-s împrejurul meu, dar teamă-n suflet nu e,
+Cu buzele mă lingușesc, cu inima bleastămă,
+Dacă-i cu mine Dumnezeu, eu nici nu-i bag în seamă.
+
+[c]
+Aleluia, aleluia, Răscumpărătorul meu,
+Mi-e plăcerea și răsplata, Dumnezeul meu.
+
+[v2]
+În Domnul eu am adăpost, El mi-e înțelepciune,
+Și-n ceasul negru biruiesc ispitele din lume,
+De sunt bogat sau sunt sărac, în ochi e o sclipire,
+Comoara mea o voi găsi de-abia în nemurire.
+
+[c2]
+Aleluia, aleluia, Răscumpărătorul meu,
+Mi-e plăcerea și răsplata, Dumnezeul meu.
+
+[v3]
+În Domnul eu am adăpost, și-i dau inima-ntreagă
+Oricât de-mpovărat-ar fi, de toate o dezleagă,
+Eu zi de zi voi lumina, iar când lumina-i stinsă,
+Mă va lua în slava Sa, cu El moartea-i învinsă.
+
+[v4]
+În Domnul eu am adăpost, și-i dau inima-ntreagă
+Oricât de-mpovarat-ar fi, de toate o dezleagă,
+Lumina vieții în curând e-o lumânare stinsă,
+Dar eu voi fi mereu al Lui, cu El moartea-i învinsă.

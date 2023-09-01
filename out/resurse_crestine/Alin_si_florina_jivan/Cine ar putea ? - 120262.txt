@@ -1,0 +1,32 @@
+[title]
+Cine ar putea ? {author: {Alin și Florina Jivan}, {rcId: {120262}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Cine ar putea iubire să-mi dea?
+Când întinzi mâna Ta, îmi atingi inima!
+Numai Tu ai putea!
+Și cine ar putea să țină-n palmă o stea?
+S-o așeze pe cer să lumineze etern?
+
+[c]
+Numai Tu ai putea să-mi oferi dragostea!
+Ce mă înalță spre cer, ce mă face să sper!
+Numai Tu ai putea să-mi oferi dragostea
+/: Numai Tu ai putea! :/
+
+[v2]
+Cine ar putea pace să-mi dea
+Când aud vocea Ta, îmi deschid inima!
+Cine ar putea vina să-mi ia?
+Și să spună mereu :”
+Te iubesc, fiul meu”
+Numai Tu, Dumnezeu!
+
+[c2]
+Numai Tu ai putea Să-mi oferi dragostea
+Numai Tu ai putea Numai Tu ai putea
+Numai Tu ai putea Să-mi oferi dragostea
+Numai Tu ai putea Numai Tu ai putea

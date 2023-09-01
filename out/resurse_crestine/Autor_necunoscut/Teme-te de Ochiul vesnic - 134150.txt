@@ -1,0 +1,47 @@
+[title]
+Teme-te de ochiul vesnic {author: {Anonim}, {rcId: {134150}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Teme-te de Ochiul veșnic
+Care-ți vede orice ascuns!
+Și de clipa când de toate
+Ai să mergi să dai răspuns!
+
+[c]
+Teme-te și vino astăzi
+La Hristos, încrezător!
+Numai El îți poate-aduce
+Un sfârșit mântuitor!
+
+[v2]
+Teme-te de focul veșnic
+Care arde fără scrum!
+Și de care nu-i scăpare
+Numai pe-al Golgotei drum!
+
+[v3]
+Teme-te de plânsul veșnic
+Care-l vor vărsa-n pustiu
+Cei ce nu privesc spre Domnul,
+Decât când e prea târziu!
+
+[v4]
+Teme-te de chinul veșnic
+Ce va arde nemilos!
+Cunoștința celor care
+Lepadat-au pe Hristos!
+
+[v5]
+Teme-te de-amarul veșnic
+Care-i partea celor răi,
+Care n-au cautat în lume
+Sfintele vieții căi!
+
+[v6]
+Teme-te de judecată,
+Că e vai pe veci de-acel
+Care la Hristos va merge
+Fără-a fi venit la El!

@@ -1,0 +1,35 @@
+[title]
+Te laudam doamne {author: {Nicolae Moldoveanu}, {rcId: {3896}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Te lăudăm, Doamne,
+Prin al Tău Fiu curat,
+Prin Isus care-a murit
+Și-a înviat!
+
+[c]
+Aleluia! slavă Ție,
+Aleluia! Amin!
+Aleluia! Slavă Ție,
+Fii, în veci mărit!
+
+[v2]
+Te lăudăm, Doamne,
+Că Tu ne-ai arătat,
+Calea luminii
+Și iertare ne-ai dat.
+
+[v3]
+Mărire, laudă
+Mielului, cel junghiat!
+Păcatul, boala, vina,
+El le-a purtat.
+
+[v4]
+Reînviază-ne!
+Și în inimi ne dă
+Pace cerească
+Și iubire sfăntă!

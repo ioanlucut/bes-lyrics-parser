@@ -1,0 +1,25 @@
+[title]
+Omule oricine-ai fi {author: {Anonim}, {rcId: {230141}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: Omule oricine-ai fi, gândește-te acuma
+Cine esti, de unde vii, te cheamă Mesia. :/
+
+[c]
+/: Dumnezeu te cheamă, te strigă pe nume
+Te cheamă Mesia, să-ți dea împărăția :/
+
+[v2]
+/: Omule nu amâna, să te pocăiești
+Că nu știi ziua de maine, dacă mai trăiești :/
+
+[v3]
+/: Pentru tine a murit, Isus cel răstignit
+Ca să-ți dea astăzi iertare, să fii mântuit. :/
+
+[v4]
+/: Fericit astazi vei fi, pe Isus de-L vei primii
+Parte cu el vei avea, în împărăția Sa :/

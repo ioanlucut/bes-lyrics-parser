@@ -1,0 +1,27 @@
+[title]
+Sufletul meu e in frumoasa casa de sus {author: {Anonim}, {rcId: {75806}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Sufletul meu e în frumoasa casă de sus,
+Lângă Regele meu Isus,
+Pe mine lumea mai mult nu mă va întrista,
+Că la ceruri sus e casa mea.
+
+[c]
+O casă frumoasă, pentru mine s-a gătit,
+Sus în cer fără dureri, în slava glorioasă.
+
+[v2]
+Aici pe pământ lupta cea bună m-am luptat,
+Cuvântul sfânt l-am semănat,
+Alergarea mea acum aici eu am sfârșit,
+Credința în Isus am păzit.
+
+[v3]
+Azi Domnul mă cheamă la El în veșnicie,
+Să-mi dea coroana mie,
+Pe care a promis-o oricărui suflet curat,
+Ce venirea Lui a așteptat.

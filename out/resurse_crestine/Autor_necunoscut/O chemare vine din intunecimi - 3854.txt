@@ -1,0 +1,29 @@
+[title]
+O chemare vine din intunecimi {author: {Anonim}, {rcId: {3854}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O chemare vine din întunecimi
+Luminați!, luminați!
+Strigă! suflete pierdut în adâncimi
+Luminați!, luminați!
+
+[c]
+Luminați aprindeți focul sfânt!
+Pe pământ lumini să fiți
+Luminați aprindeți focul sfânt!
+Pe pământ să străluciți
+
+[v2]
+Nicicând să nu obosiți în lucrul sfânt
+Luminați!, luminați!
+Pregătiți coroane încă pe pământ
+Luminați!, luminați!
+
+[v3]
+Harul său să fie peste toți bogat
+Luminați!, luminați!
+Si-n iubire să rămâneți neîncetat
+Luminați!, luminați.!

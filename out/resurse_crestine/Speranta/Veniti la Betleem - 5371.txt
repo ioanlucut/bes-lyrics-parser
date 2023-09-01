@@ -1,0 +1,27 @@
+[title]
+Veniti la betleem {author: {Speranța}, {rcId: {5371}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Hai veniți la Betleem, Pruncul slavei să-L vedeți
+Jos în ieslea oilor, S-a născut Blândul Păstor
+
+[c]
+/: Slavă sus în cer și pace pe pământ, 
+S-a născut Isus Hristos, Mesia Domnul Sfânt.
+Slavă sus în cer și pace aici jos, 
+A venit la noi Isus Hristos. :/
+
+[v2]
+Cu păstorii de la oi, să ne bucurăm și noi
+Haideti să ne veselim, pe Isus să-L preamărim.
+
+[v3]
+Magii au zărit o stea și au mers după ea,
+Pe Isus ei L-au aflat, bucuroși s-au închinat!
+
+[v4]
+Pe la geamuri colindăm și duios vă urăm.
+Nașterea lui Hristos, să vă fie de folos!

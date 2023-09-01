@@ -1,0 +1,21 @@
+[title]
+Inima ta-i o gradina {author: {Nicolae Moldoveanu}, {rcId: {234872}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Inima ta-i o grădină, în a Domnului lumină.
+Lasă-L pe El să-ți sădească floarea dragostei cerească.
+
+[c]
+Ca să fii folositor
+Domnului și tuturor.
+
+[v2]
+Inima ta-i o cămară. De cu zori și până-n seară
+Domnului tu ți-o descuie, harul Său în ea să-Și puie.
+
+[v3]
+Inima ta-i o cetate. Dă-o Domnului! El poate
+prin sfințita-I stăpânire să ți-o-mbrace-n fericire.

@@ -1,0 +1,33 @@
+[title]
+O nu respinge-al sau cuvant {author: {Anonim}, {rcId: {74430}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+O, nu respinge-al Său Cuvânt,
+Nu refuza harul cel sfânt;
+Întoarce-te din al tău drum
+Și vino acum.
+
+[c]
+/: De ce nu acum? De ce nu acum?
+Să fii salvat. De ce nu acum? :/
+
+[v2]
+Poate că mâine e târziu,
+Și locul tău va fi pustiu;
+Primește azi Cuvântul sfânt
+Cât ești pe pământ.
+
+[v3]
+Astăzi prin milă ești chemat,
+Te scoală-n grabă din păcat.
+Ce faci de mâine vei muri?
+Salvat nu vei fi!
+
+[v4]
+Domnul Isus a mântuit,
+Pe cei ce harul au primit
+Pe cei ce nu L-au refuzat;
+Și-aici L-au urmat.

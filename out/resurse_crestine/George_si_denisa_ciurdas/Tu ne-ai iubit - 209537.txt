@@ -1,0 +1,42 @@
+[title]
+Tu ne-ai iubit {author: {George și Denisa Ciurdaș}, {rcId: {209537}}
+
+[sequence]
+c,v1,c,v2,c,e
+
+[c]
+/: Leagă-ne, Doamne, pe toți împreună
+Cu lanțuri ce nu pot fi rupte;
+Leagă-ne, Doamne, pe toți împreună,
+O, leagă-ne în dragoste! :/
+
+[v1]
+Tu ne-ai iubit pân’ la sfârșit
+Moartea n-a fost în stare
+Să frângă-n ea dragostea Ta
+Ce ne leagă pe toți.
+Una vom fi cât vom trăi
+Duhul Tău ne-nsoțește.
+Din Mâna Ta nu vom pleca
+Cu Tine vrem să trăim!
+B: Focul morții Tu ai stins,
+Dragostea pe cruce-a învins
+Suntem una cu Tin’!
+
+[v2]
+Noi Te iubim și vrem să fim
+Ai Tăi pentru vecie!
+Ție-ți cântăm, Te lăudăm
+Tu meriți lauda-n veci.
+Dragostea Ta nu va pleca
+Dintre noi scump Isuse,
+Va fi în noi ca un șuvoi
+Ce va crește mereu!
+B: Focul morții Tu ai stins,
+Dragostea pe cruce-a învins
+Suntem una cu Tin’!
+
+[e]
+Dragostea va triumfa,
+Nu-i nimeni în cale să-i stea,
+Toți împreună cuprinși în iubire cântăm:

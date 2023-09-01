@@ -1,0 +1,27 @@
+[title]
+N-am sa uit {author: {Luiza Spiridon}, {rcId: {103433}}
+
+[sequence]
+v1,b,c,v2,b,c,e
+
+[v1]
+N-am să uit, chipul Tău de Împărat, Când de om ai fost condamnat.
+N-am să uit, când soldații Te-au lovit, Te-au scuipat și Te-au pălmuit.
+
+[b]
+N-am înțeles, suferința Ta să mori, Ca un Miel supus, pentru lumea rea.
+Nu pot să uit, că iubirea Ta mi-a dat, Har să pot vedea, Doamne fața Ta.
+
+[c]
+/: Domnul meu, Domnul meu
+Mă doare când privesc crucea Ta
+Ți-au rănit spinii mei fruntea Ta :/
+
+[v2]
+N-am să uit, palmele când Ți-am privit, Am văzut cât m-ai iubit.
+N-am să uit, că prin tine sunt salvat, Jertfa Ta m-a răscumpărat.
+
+[e]
+/: Domnul meu, Domnul meu
+Privesc stelele cum se sting.
+Mi-este dor să te văd și să te strig. :/

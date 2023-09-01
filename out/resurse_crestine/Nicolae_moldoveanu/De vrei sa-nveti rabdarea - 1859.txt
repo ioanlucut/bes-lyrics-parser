@@ -1,0 +1,25 @@
+[title]
+De vrei sa-nveti rabdarea {author: {Nicolae Moldoveanu}, {rcId: {1859}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+De mic să-nveți răbdarea, ea-i leacul cel mai sfânt,
+la orișice durere și pierderi pe pământ.
+
+[c]
+Răbdarea, răbdarea, copile-nvaț-o bine,
+credința și pacea, răbdarea-ntregi le ține!
+
+[v2]
+Nicicând nu e prea multă răbdarea-n viața ta,
+prin ea primești putere poveri să poți purta.
+
+[v3]
+Răbdarea e ca sarea ce nu se strică-n veac,
+dă gust și frumusețe la toate, după plac.
+
+[v4]
+De mic să-nveți, copile, răbdarea lui Isus,
+ca mielul spre junghiere, smerit El S-a supus.

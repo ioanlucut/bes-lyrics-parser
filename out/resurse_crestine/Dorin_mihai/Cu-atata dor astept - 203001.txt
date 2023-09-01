@@ -1,0 +1,29 @@
+[title]
+Cu-atata dor astept {author: {Dorin Mihai}, {rcId: {203001}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cu-atâta dor aștept și voi mai aștepta
+Iubitul să revină, acasă să ma ia
+Cu murmure de dor, cu cerul voi cânta
+Domnul va reveni, Maranata!
+
+[c]
+Curând, curând, acasă vom sosi
+Nu bombe așteptăm, nici anul două mii
+Și nici alinieri de astre care pier;
+Ci pe Mirele drag, să ne ia sus la cer!
+
+[v2]
+S-au stins privind la cer pleiade de martiri
+Cu zâmbetul smerit, că mâine vor fi miri
+Ne-așteptă-nlăcrimați de sfinte bucurii
+Mii de mii, mântuiții văii plângerii!
+
+[v3]
+Și-n veci de veci, uimiți privi-vom minunați
+Cununile de vis ce-mpodobesc pe frați
+Sfârșiți de drag nespus, în cerul luminos
+Ne-om topi de uimire-n fața lui Cristos!

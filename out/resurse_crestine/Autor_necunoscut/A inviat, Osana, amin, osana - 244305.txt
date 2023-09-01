@@ -1,0 +1,25 @@
+[title]
+A inviat osana amin osana {author: {Autor necunoscut}, {rcId: {244305}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+/: A înviat! :/ Osana, amin, osana,
+O, aleluia, Maranata!
+
+[v2]
+/: Isus e viu! :/ Osana, amin, osana,
+O, aleluia, Maranata!
+
+[v3]
+/: E Domnul meu! :/ Osana, amin, osana,
+O, aleluia, Maranata!
+
+[v4]
+/: El vine iar! :/ Osana, amin, osana,
+O, aleluia, Maranata!
+
+[v5]
+/: Ne va răpi! :/ Osana, amin, osana,
+O, aleluia, Maranata!

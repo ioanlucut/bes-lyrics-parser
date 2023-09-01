@@ -1,0 +1,28 @@
+[title]
+O schimbare in viata mea s-a facut {author: {Charles H.Gabriel}, {rcId: {74433}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O schimbare în viața mea s-a făcut,
+Întrând Isus în inimă!
+În suflet am lumina dorită mult,
+Intrând Isus în inimă!
+
+[c]
+/: Intrând Isus în inimă :/
+Râuri de bucurii curg din inima mea:
+Intrând Isus în inimă.
+
+[v2]
+Din calea rătăcirii eu am încetat;
+Intrând Isus în inimă!
+Și păcatele mele multe s-au spălat,
+Intrând Isus în inimă!
+
+[v3]
+În cetatea cerească eu voi locui,
+Intrând Isus în inimă!
+Și voi fi fericit când acasă ajung,
+Intrând Isus în inimă!

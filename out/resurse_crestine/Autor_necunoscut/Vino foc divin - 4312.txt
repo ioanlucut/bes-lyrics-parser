@@ -1,0 +1,25 @@
+[title]
+Vino foc divin {author: {Anonim}, {rcId: {4312}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Vino foc divin
+Arde tot ce-i rău din inima mea,
+Curățit deplin
+Un argint curat vreau să fiu!
+
+[c]
+Tată ceresc, tot ce eu doresc
+E să fiu sfânt,
+Să trăiesc pentru Tine!
+Aleg să fiu sfânt,
+Dedicat numai Ție, Doamne
+Gata să te urmez!
+
+[v2]
+Spală-mi inima si ’lăuntrul meu
+Să pot să fiu sfânt,
+Vreau să fiu curat
+Ia păcatul meu cu focul Tău!

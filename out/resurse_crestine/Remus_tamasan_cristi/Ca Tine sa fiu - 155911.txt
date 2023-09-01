@@ -1,0 +1,41 @@
+[title]
+Ca tine sa fiu {author: {Remus Tămășan Cristi}, {rcId: {155911}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Vreau să fiu ca Tine, Domnul meu
+Vreau să iubesc pe aproapele meu
+Dragostea Ta să-mi umple inima
+Și să trăiesc pentru Slava Ta.
+
+[c]
+Ca Tine să fiu
+Isuse doresc
+Iubind Voia Ta
+Pe toți să iubesc
+Să fiu de folos
+Un rob credincios
+Și-n toate vreau să fiu ca Tine
+Domnul meu Hristos.
+/: Ca Tine să fiu
+Isuse doresc
+Iubind voia Ta
+Pe toți să iubesc
+Să fiu de folos
+Un rob credincios
+Și-n toate vreau să fiu ca Tine
+Domnul meu Hristos. :/
+
+[v2]
+Vreau să fiu ca Tine, Domnul meu
+Vreau să trăiesc zi de zi pe placul Tău
+Să răspândesc parfumul Tău ceresc
+Și voia Ta să o împlinesc.
+
+[e]
+Ca Tine să fiu doresc
+Viața să mi-o sfințesc
+Să fiu doar pe placul Tău
+Vreau să fiu ca Tine, Domnul meu.

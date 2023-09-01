@@ -1,0 +1,47 @@
+[title]
+De la staul la golgota {author: {Nicolae Moldoveanu}, {rcId: {2990}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+De la staul la Golgota
+Cât amar și suflet trist
+Trist priveai pe cruce bolta
+Norii grei porneau revolta
+Clocotind.
+
+[v2]
+De la staul la Golgota
+Numai răni și vânătăi
+Te pândeau mereu dușmanii
+Până n-au mai fost strădanii
+Nicăieri.
+
+[v3]
+De la staul la Golgota
+Calea cum să ți-o cunosc?
+Ce elan, ce milă dulce
+Ai putut din cer aduce
+Pe pământ.
+
+[v4]
+De pe fân și până-n cuie
+Numai răni și vânătăi
+Ce cuvinte pot să spună
+Cum plângeai pe-o cărăruie
+Pentru-ai Tăi.
+
+[v5]
+Din Egipt în Ghețismani
+Numai drum și privegheri
+Te pândeau mereu dușmanii
+Până n-au mai fost strădanii
+Nicăieri.
+
+[v6]
+De la iesle pân’ la mine
+Câte lacrimi, câți martiri
+Unde-aș mai găsi suspine
+Doamne să-Ți aduc mai bine
+Mulțumiri.

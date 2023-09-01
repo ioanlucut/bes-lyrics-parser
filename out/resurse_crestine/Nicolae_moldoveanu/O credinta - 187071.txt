@@ -1,0 +1,58 @@
+[title]
+O credinta {author: {Nicolae Moldoveanu}, {rcId: {187071}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c
+
+[v1]
+O credință Tu ne-ai dat,
+Una, Doamne Sfânt,
+Care smulge din păcat,
+Sufletul înfrânt!
+
+[c]
+Numai prin Hristos primim
+Al credinței har,
+Când smeriți la El venim,
+Din al lumii-amar.
+Crezuri multe-s pe pământ,
+Dar credința-i una;
+Cei născuți din Duhul Sfânt
+O au totdeauna!
+
+[v2]
+O credință ne-ai gătit
+Să umblăm în ea:
+Cum Tu, Doamne, ai trăit,
+Să trăim așa!
+
+[v3]
+O credință să primim
+Cea din Duhul Sfânt,
+Doar în ea nu rătăcim,
+Astăzi pe pământ!
+
+[v4]
+O credință să avem,
+Cea de la-nceput,
+Mântuiți prin ea suntem,
+Toți câți am crezut!
+
+[v5]
+O credință-n Adevăr,
+Tu ceri să păstrăm,
+Nici cât firul mic de păr,
+Noi să n-o schimbăm.
+
+[v6]
+O credință cum ai zis,
+în Scriptura Ta:
+”
+Să nu trecem de ce-i scris,”
+S-o ținem așa!
+
+[v7]
+O credință: cea de Sus
+Noi dorim mereu,
+Să fim pururi cu Isus,
+Sfinți în Dumnezeu!

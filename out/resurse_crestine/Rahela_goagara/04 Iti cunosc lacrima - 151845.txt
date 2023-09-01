@@ -1,0 +1,30 @@
+[title]
+Iti cunosc lacrima {author: {Rahela Goagără}, {rcId: {151845}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Îți văd în ochi tristețea;
+Știu bine cum te simți;
+Ți-e inima zrobită, și n-ai cum să te minți...
+Ai vrut să nu se vadă, dar totuși e greu...
+Și totuși te asigur: cu tine-i Dumnezeu!
+
+[c]
+Îți cunosc lacrima;
+Dar știu dezmagirea: am fost și eu așa...
+Îți cunosc lacrima;
+Dar Dumnezeu nu a uitat,
+Inima ta!
+
+[v2]
+Credeai că n-ai să poți răzbate;
+Vezi în lacrimi cum te frângi...
+Nu mai crezi că Domnul te-aude când Il strigi,
+Și te-ntrebi dacă Ii mai pasă ce-ți simte inima...
+Dar noaptea ta se va șterge și se va-nsenina!
+
+[e]
+Dar Dumnezeu nu a uitat
+Inima ta.

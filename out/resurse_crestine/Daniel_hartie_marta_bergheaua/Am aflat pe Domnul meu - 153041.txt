@@ -1,0 +1,29 @@
+[title]
+Am aflat pe domnul meu {author: {Daniel Hartie, Marta Bergheaua}, {rcId: {153041}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Am aflat pe Domnul meu, nu mai sunt străin,
+Nu mai sunt descurajat, când necazuri vin.
+Am aflat pe Tatăl meu, nu mai sunt orfan,
+Merg voios cu Domnul meu înspre Canaan.
+
+[c]
+Ce Tată bun e Dumnezeu!
+Mă-încred în brațul Său mereu!
+Ce Har să fii copilul Său,
+Nu mă tem cu El de niciun rău!
+
+[v2]
+Am aflat pe Domnul meu, singur nu mai sunt.
+Am cui spune păsul meu pe acest pământ.
+Stau cu El în părtășii zile, nopți la rând,
+Îi spun focul inimii, pe genunchi plângând.
+
+[v3]
+Am aflat pe Dumnezeu, El m-a căutat,
+Când departe rătăceam în al meu păcat.
+Am aflat dragostea Sa și sunt bucuros,
+Cânt, slăvesc neîncetat pe Isus Hristos!

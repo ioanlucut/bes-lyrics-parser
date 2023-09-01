@@ -1,0 +1,34 @@
+[title]
+Cant aleluia celui ce este viu {author: {Utilizator Moldovan Florin}, {rcId: {106747}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Cânt ”
+Aleluia”, Celui ce este viu
+Vrednic de laudă și cinste ești Tu
+Pământul și marea Îți cântă ne-ncetat
+”
+Glorie, mărire Celui ce-a-nviat
+Căci Tu ești sfânt, sfânt, sfânt
+Ești sfânt, sfânt, sfânt ”
+
+[c]
+El e Leul din tribul lui Iuda
+Domn peste tot ce a creat
+El e Alfa și Omega
+El e mare Împărat
+
+[v2]
+Astăzi e zi da har și bucurii
+Să ne-nchinăm Mielului divin
+El este marele Împărat
+”
+Osana, În înălțime”, vom striga
+Căci Tu ești Sfânt, sfânt, sfânt
+Da, ești sfânt, sfânt, sfânt!
+
+[e]
+Aleluia, aleluia, aleluia, mare Domn avem
+Aleluia, aleluia, aleluia, mare Domn avem

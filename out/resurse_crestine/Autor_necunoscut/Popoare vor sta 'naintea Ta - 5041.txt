@@ -1,0 +1,19 @@
+[title]
+Popoare vor sta naintea ta {author: {Anonim}, {rcId: {5041}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Popoare vor sta ’naintea Ta
+Și se vor închina.
+
+[c]
+/: Popoare, popoare
+Se vor închina. :/
+
+[v2]
+Atotputernic Domn Tu ești,
+Singur Dumnezeu,
+Le-aduci împreună și ele Te laudă
+La tronul Tău.

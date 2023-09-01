@@ -1,0 +1,33 @@
+[title]
+Pe drumul ghetsimanilor {author: {Roza Nicula}, {rcId: {5490}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Pe drumul Ghetsimanilor, odată
+Treceam ușor pe sub măslini;
+/: Și-n șoapta lor, de vânt purtată,
+Am auzit atunci îndată
+Ce-a fost cândva-n grădina cu măslini :/
+
+[v2]
+Și frunzele mai poartă astăzi șoapta
+Din frunză-n frunză de măslin,
+/: Aceeași amintire minunată:
+C-a plâns cândva stingher odată,
+A plâns Isus, amar, pe sub măslini :/
+
+[v3]
+De treci cândva grădina Getsimani,
+De-ți faci cumva vreun drum pe-aici,
+/: Ai să-ntâlnești aceleași șoapte
+Pe-aripa vântului purtate
+C-a plâns Isus amar pe sub măslini :/
+
+[v4]
+A plâns amar de mila lumii moarte,
+- De-a mea și-a ta pe sub măslini -
+/: Ascultă șoapta frunzelor purtate
+De vântul lin ce-adesea bate,
+În locul unde-a plâns pe sub măslini :/

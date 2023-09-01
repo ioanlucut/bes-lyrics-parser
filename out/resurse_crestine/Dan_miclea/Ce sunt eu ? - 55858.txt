@@ -1,0 +1,26 @@
+[title]
+Ce sunt eu ? {author: {Dan Miclea.}, {rcId: {55858}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Când eu stau și mă gândesc la tot ce Isus
+A lăsat și a venit jos pe pământ
+Suferind dispreț și-amar
+Pe Calvar în locul meu
+Eu mă-ntreb Isuse : Ce sunt eu ?
+
+[c]
+Ce sunt eu, Isus, de m-ai iubit Tu ?
+Ce sunt eu de-ai suferit și ai murit ?
+Te-ai urcat sus pe Calvar
+Și mi-ai dat viață-n dar
+Astăzi eu mă-ntreb Isuse : Ce sunt eu ?
+
+[v2]
+Când privesc la viața mea ce am trăit-o,
+În păcat, dispreț, dureri îmi amintesc.
+Viața Tu Isus ți-ai dat
+Deși eu n-am meritat,
+Eu mă-ntreb atunci Isuse : Ce sunt eu ?

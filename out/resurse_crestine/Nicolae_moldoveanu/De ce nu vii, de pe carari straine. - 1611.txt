@@ -1,0 +1,47 @@
+[title]
+De ce nu vii de pe carari straine {author: {Nicolae Moldoveanu}, {rcId: {1611}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+De ce nu vii, de pe cărări străine,
+Să-mi cazi la piept ca un copil iertat?
+Eu n-am murit când, numai pentru tine,
+Ca și Isaac am fost pe rug urcat.
+/: De ce nu vii? :/ Eu ca Isaac am fost pe rug urcat.
+
+[v2]
+Mai mult de-atât, ce jertfă de iubire
+Și cui i-ar da mai mult de-atât prin gând?
+Un fiu pierdut să moară în neștire
+Și-un Dumnezeu să-l cheme lăcrimând?
+/: De ce nu vii? :/ Când Dumnezeu te cheamă lăcrimând?
+
+[v3]
+De ce nu vii, cât încă sunt aproape?
+De ce te-ascunzi când încă te mai chem?
+De ce nu simți lumina Mea pe pleoape,
+Când te privesc ca Salvator suprem?
+/: De ce nu vii? :/ Când te privesc, ca Salvator suprem?
+
+[v4]
+De ce nu vrei să fii cu Mine-n slavă,
+Să colindăm alături ceru-ntreg?
+Din flori din rai, din vesnica dumbravă,
+Cu mâna Mea cunună să-ți aleg!
+/: De ce nu vii? :/ Cu mâna Mea cunună să-ți aleg?
+
+[v5]
+De ce nu vii, tu, suflet nehotarnic
+Cât încă pot Mântuitor să-ți fiu?
+Când vei striga, va fi atunci zadarnic,
+Vei plânge-amar, dar fi-va prea târziu...
+/: De ce nu vii? :/ Vei plânge-amar, dar fi-va prea târziu!
+
+[v6]
+Mai mult de-atât, ce jertfă de iubire,
+Și cui i-ar da mai mult de-atât prin gând
+Un fiu pierdut să râdă în neștire,
+Și-un Dumnezeu să cheme lăcrimând?
+/: De ce nu vii? :/ Când Dumnezeu te cheamă Iăcrimând?

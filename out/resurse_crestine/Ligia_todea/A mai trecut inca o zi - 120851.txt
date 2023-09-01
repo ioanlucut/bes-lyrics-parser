@@ -1,0 +1,36 @@
+[title]
+A mai trecut inca o zi {author: {Ligia Todea}, {rcId: {120851}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+A mai trecut încă o zi,
+Speranță, har și melodii.
+/: Dar Ție, Doamne, ce Ți-am dat ?
+Am stat sau am mai și lucrat? :/
+
+[v2]
+Mai dă-mi speranță-n încercări
+Mai multă pace, mai mult spor,
+/: Să pot și eu acum cânta
+Cât mă va ține palma Ta :/
+
+[v3]
+Mi-așa de dor de țara mea,
+Mi-așa de dor de fața Sa,
+/: Să-L văd pe Domnul meu iubit
+Ce viață-n dar mi-a dăruit :/
+
+[v4]
+Cu-atâta dor Te-am așteptat,
+Lumina zilei să o am,
+/: Și scump mi-e azi tot harul dat,
+Spre Tine, Doamne, să pot sta :/
+
+[v5]
+Când vom pleca în veșnicii,
+Spre casa Tatălui cel scump,
+/: Vom fi cu toți la masa Lui
+Și împreună-I vom cânta :/
+.

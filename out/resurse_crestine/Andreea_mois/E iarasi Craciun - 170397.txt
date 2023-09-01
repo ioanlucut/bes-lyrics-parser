@@ -1,0 +1,40 @@
+[title]
+E iarasi craciun {author: {Andreea Mois}, {rcId: {170397}}
+
+[sequence]
+v1,c,v2,c2,e,c,c2
+
+[v1]
+E iarăși Crăciun și ne amintim
+Ce s-a-ntâmplat în Betleem demult,
+Cum Dumnezeu pe Isus L-a trimis
+Să ne coboare cerul pe pământ.
+
+[c]
+Nașterea Lui nu e un vis,
+Pruncul din iesle e Fiul trimis
+Să împace omul cu cerul.
+Îngeri și oameni cântă în cor:
+Pruncul din iesle e-al nost’ Salvator!
+Emanuel e printre noi!
+
+[v2]
+Tot cerul cânta și conduși de Stea
+Magii au venit să I se-nchine.
+Acest Prunc umil e chiar Dumnezeu,
+El a lăsat tot cerul pentru mine.
+
+[c2]
+Nașterea Lui lume-a schimbat,
+Bucurie și pace ne-a dat,
+Mântuire-avem prin haru-I mare.
+El este Rege și ne-a promis
+Va reveni după cum este scris,
+O, ce Măreață Sărbătoare!
+
+[e]
+În noaptea grea a lumii
+O stea a răsărit.
+Isus a trasat Calea spre viață
+Cu îngerii și noi, azi, slăvim pe Împărat,
+La noi a venit Mesia demult profețit.

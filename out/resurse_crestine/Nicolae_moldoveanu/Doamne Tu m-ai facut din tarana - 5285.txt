@@ -1,0 +1,29 @@
+[title]
+Doamne tu m-ai facut din tarana {author: {Nicolae Moldoveanu}, {rcId: {5285}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Doamne, Tu m-ai făcut din țărână,
+Și în adânc mi-ai turnat veșnicia.
+/: Dar în mine, o făptură păgână
+Zi și noapte își cere simbria. :/
+
+[v2]
+Nu sunt, Doamne, decât o suflare,
+Decât tină cu multe păcate,
+/: Și Te caut cu dor și oftare,
+Să-mi dai forma trăirii curate. :/
+
+[v3]
+Aș ajunge chiar singur pe ape,
+Într-o lume de răni și suspine,
+/: Dacă nu Te-aș simți pe aproapre,
+Dacă nu Te-aș avea lângă mine. :/
+
+[v4]
+Eu sunt: scurgerea, aburul, clipa,
+Sunt doar lutul, iar Tu ești Olarul.
+/: Ocrotește-mă, Doamne, cu-aripa,
+Dăltuiește-mi făptura cu harul. :/

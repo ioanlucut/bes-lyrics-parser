@@ -1,0 +1,29 @@
+[title]
+Duh preasfant {author: {Speranța}, {rcId: {111030}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Duh preasfânt venit din ceruri
+Astăzi te chemăm să vii la noi
+/: Să ne umpli-a noaste inimi
+Să ne întărești din nou :/
+
+[c]
+/: Căci cu Tine biruim în viață
+Cu Tine sunt bucurii
+Cu Tine vom trece prin moarte
+Dincolo, în veșnicii :/
+
+[v2]
+Duh presfânt venit din ceruri
+Fă-ne azi noi să retrăim
+/: Harul revărsării Tale
+În viața primilor creștini :/
+
+[v3]
+Duh preasfânt venit din ceruri
+Dă-ne biruință-n orice zi
+/: Când în față stă păcatul
+Doar cu Tine biruim! :/

@@ -1,0 +1,30 @@
+[title]
+Aceasta e {author: {Decean}, {rcId: {6840}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Acum e timpul pentru o ungere nouă
+Acum e timpul pentr-o revărsare proaspătă
+Ca și fii și fiice ale Regelui
+Noi azi ne ridicăm
+Ca și fii și fiice ale Regelui
+Noi azi ne ridicăm, declarăm:
+
+[c]
+/: Aceasta e :/ Ziua Domnului
+/: Mă voi bucura :/ este ziua Ta!
+/: Aceasta e :/ Ziua Domnului
+
+[v2]
+La început Domnul a creat
+Și pentru slava Lui creația cântă-n cor.
+Fiecare fii și fiica, Domnul vă ridică
+Fiți lumini.
+Fiecare fii și fiica, Domnul ne ridică-n
+Acest neam, declarăm:
+
+[e]
+/: Lasă gloria Ta să curgă acum
+Și să umple-ntreg pământ. :/

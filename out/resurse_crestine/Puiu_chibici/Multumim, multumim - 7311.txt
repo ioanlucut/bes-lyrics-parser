@@ -1,0 +1,51 @@
+[title]
+Multumim multumim {author: {Puiu Chibici}, {rcId: {7311}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,v4,c
+
+[c]
+Mulțumim, mulțumim.
+Ție Părinte Divin
+Mulțumim, mulțumim,
+Azi și pururea, amin
+
+[v1]
+Pentru pâine, pentru apă,
+Pentru hrana-mbelșugată,
+Pentru sfântul Tău prinos,
+Doamne-ți mulțumim frumos,
+Pentru Sfântul Tău Cuvânt,
+Pentru pace pe pământ,
+Pentru harul Tău bogat,
+Doamne, să fii lăudat.
+
+[v2]
+Pentru nori, pentru senin,
+Pentru flori și pentru spini,
+Pentru bine, pentru greu,
+Fii lăudat Sfânt Dumnezeu.
+Pentru lacrimi și dureri
+Pentru sfinte mângâieri,
+Pentru cerul cel slăvit,
+Doamne, să fii preamărit.
+
+[v3]
+Pentru apa Ta cea vie,
+Pentru sfânta părtășie,
+Pentru Fiul Tău jertfit
+Doamne, fii în veci slăvit.
+Pentru veșnica iubire,
+Pentru sfânta mântuire,
+Pentru ploaia cea târzie,
+Slavă Ție, slavă Ție.
+
+[v4]
+Pentru veșnica iertare,
+Pentru jertfa de-mpăcare,
+Pentru sângele vărsat,
+Doamne, fii glorificat.
+Pentru minunata casă,
+Pentru haina de mireasă,
+Pentru toate Te slăvim,
+Azi și pururea, amin.

@@ -1,0 +1,33 @@
+[title]
+Cea mai frumoasa zi {author: {Cătălin Ciuculescu Band}, {rcId: {159355}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Cea mai frumoasă zi
+Nu știu când va veni, dar cred
+C-atunci doar voi trăi
+Un înger știu voi fi, aștept
+Să mă înalț.
+
+[v2]
+El e puterea mea
+E mângâierea mea și-aștept
+Aștept să-L pot vedea,
+Îmi saltă inima în piept.
+
+[v3]
+M-a întărit, doar El m-a iubit
+M-a ridicat când mi-a fost greu
+E Cel Preaînalt, E Împărat
+E viața mea, E Dumnezeu
+Și mă înalț.
+
+[v4]
+Și știu nu voi muri
+Mă mut în veșnicii, încet
+O veșnic voi trăi
+Cea mai frumoasă zi
+Și-aștept
+Să mă înalț.

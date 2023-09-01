@@ -1,0 +1,33 @@
+[title]
+De ori cate {author: {Ionică Stoica}, {rcId: {199413}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ucenicii pe Isus l-au intrebat
+Omul de cîte ori poate fi iertat?
+/: Petru-a spus de 7 ori,
+Dar Tu ești învățător.
+Domnul meu, de cate ori eu pot să iert? :/
+
+[c]
+/: 70 de ori câte 7:/ x3
+A spus Isus.
+/: Cu toți să vă iertați
+De aceea sunteți frați
+Cât trăiți pe-acest pământ să vă iertați :/
+
+[v2]
+Atunci Domnul Isus lui Petru i-a spus:
+Să ierți pân’ la 7 ori nu e de-ajuns
+/: Daca vrei ca să trăiești
+Moștenire să primești,
+Roagă-te lui Dumnezeu să poți să ierți :/
+
+[v3]
+Domnul meu de câte ori eu pot să iert?
+Pe vrăjmașii mei să pot să-mpăciuiesc
+/: Doresc să pot să iert
+Și cu tine să trăiesc
+Domnul meu, de cate ori eu pot să iert? :/

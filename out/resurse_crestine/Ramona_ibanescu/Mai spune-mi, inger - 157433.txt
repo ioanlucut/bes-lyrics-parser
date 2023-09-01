@@ -1,0 +1,27 @@
+[title]
+Mai spune-mi inger {author: {Ramona Ibănescu}, {rcId: {157433}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Mai spune-mi, înger, vorbește despre ea,
+Despre ieslea în care Isus se năștea,
+Arată-mi steaua ce tainic strălucea,
+Vorbește-mi despre ea.
+Spune-mi cum păstorii cu magii s-au pornit
+Să caute-o minune trimisă pe pământ,
+Vorbește-mi de mirarea, ce-n noapte se-așternea,
+Vorbește-mi despre ea.
+
+[c]
+Vorbește-mi, vorbește-mi
+Prin versuri de colind.
+Aprinde-mi, aprinde-mi,
+O stea, lumina-n gând.
+
+[v2]
+Mai spune-mi înger, povestea acestui Prinț
+Care se născuse să fiu mântuit,
+Mai spune-mi, amintește-mi, cum într-o noapte El,
+Iubirea a coborât.

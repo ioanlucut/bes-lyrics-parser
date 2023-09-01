@@ -1,0 +1,26 @@
+[title]
+Broken vessels ( amazing grace ) {author: {Hillsong Worship}, {rcId: {140048}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+All these pieces broken and scattered
+In mercy gathered mended and whole,
+Empty handed but not forsaken,
+I’ve been set free, I’ve been set free!
+
+[c]
+Amazing Grace, how sweet the sound
+That saved a wretch like me.
+I once was lost, but now I am found,
+Was blind but now I see!
+Oh, I can see You now,
+Oh, I can see the love in Your eyes!
+Laying Yourself down, raising up the broken to life.
+
+[v2]
+You take our failure, You take our weakness,
+You set Your treasure in jars of clay.
+So take this heart, Lord, I’ll be Your vessel
+The world to see Your life in me!

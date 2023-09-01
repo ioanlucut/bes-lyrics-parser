@@ -1,0 +1,54 @@
+[title]
+Si ma rog mereu asa vino pe cararea mea {author: {Ionel Saran Bochis}, {rcId: {111159}}
+
+[sequence]
+c,v1,c2,v2,c3,v3,c4,v4,c4
+
+[c]
+/: Merg pe drum ma tot gândesc
+Oare cînd te întilnesc
+Crucea-i grea si mă apasă
+Calea e primejdioasă :/
+
+[v1]
+Și mă rog mereu așa vino pe cărarea mea
+Singur Doamne nu mă mai lăsa
+Și mă rog mereu asa vino pe cararea mea
+Mă indreaptă înspre Țara Ta
+
+[c2]
+/: Calea-aceasta nui usoara
+Cind ai tai frati te doboara
+Si cei dragi te parasesc
+Caci pe Domnul il urmezi :/
+
+[v2]
+Si mă rog mereu asa vino pe cararea mea
+Singur Doamne nu ma mai lasa
+Si ma rog mereu asa vino pe cararea mea
+Ma indreapta inspre Tara Ta
+
+[c3]
+/: Decind eu l-am intilnit
+Pe Isus al meu iubit
+La inima mi-a vorbit
+Eu sunt cel mai fericit :/
+
+[v3]
+Si mă rog mereu asa vino pe cararea mea
+Singur Doamne nu ma mai lasa
+Si ma rog mereu asa vino pe cararea mea
+Ma indreapta inspre Tara Ta
+
+[c4]
+/: Hai si Tu pe-aceasta cale
+Nu mai sta in nepasare
+Si lucreaza-n Via Sa
+Ca s-ajungi in Tara Sa :/
+
+[v4]
+Haideti toti sa ne grabim
+Pe Isus sa-l intilnim
+Este vremea sa ne pregatim
+Si sa facem Voia Sa si nu ne vom clatina
+Niciodata de pe calea Sa

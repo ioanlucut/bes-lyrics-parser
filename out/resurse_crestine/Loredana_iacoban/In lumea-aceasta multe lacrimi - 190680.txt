@@ -1,0 +1,29 @@
+[title]
+In lumea-aceasta multe lacrimi {author: {Loredana Iacoban}, {rcId: {190680}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În lumea-aceasta multe lacrimi,
+Dureri, nevoi și încercări,
+Dar știm că făr-acestea Doamne
+Nu vom intra în cerul Tău.
+
+[c]
+Ajută-ne să Te slujim
+Cât vom trăi pe-acest pământ
+În bucurii și-n încercări
+Cu toți să fim pe placul Tău.
+
+[v2]
+De nu Te-am fi avut pe Tine
+La cârma vieții pe pământ
+Noi rătăceam în bezna nopții
+Fără de Tine, Tată sfânt.
+
+[v3]
+Îți mulțumim că-n orice vreme
+Ai fost cu noi, ne-ai ocrotit.
+În încercare, în furtună
+Cu Tin’ Isus am biruit!

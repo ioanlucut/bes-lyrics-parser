@@ -1,0 +1,35 @@
+[title]
+Singura credinta duce la isus {author: {Nicolae Moldoveanu}, {rcId: {189874}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Singură credința duce la Isus,
+/: Ea e drumul vieții, alte drumuri nu-s. :/
+Domnul, prin credință, ne primește blând,
+/: Taina mântuirii o primim crezând! :/
+
+[v2]
+Singură credința luminează plin,
+/: Ea e farul vieții, sigur și deplin. :/
+Domnul, prin credință, ne lumină blând,
+/: Taina-nțelepciunii o primim crezând! :/
+
+[v3]
+Singură credința trece locul greu,
+/: Ea-i puterea vieții celei noi, mereu. :/
+Domnul, prin credință, ne-ntărește blând,
+/: Taina biruinții o primim crezând! :/
+
+[v4]
+Singură credința face roade noi,
+/: Ea e legea vieții Duhului în noi. :/
+Domnul, prin credință, ne-noiește blând,
+/: Taina curăției o primim crezând! :/
+
+[v5]
+Singură credința dată de Isus,
+/: Are adevărul tainelor de Sus. :/
+Ea ne dă odihnă și comori de har,
+/: Tot prin ea vom trece-al Cerului hotar! :/

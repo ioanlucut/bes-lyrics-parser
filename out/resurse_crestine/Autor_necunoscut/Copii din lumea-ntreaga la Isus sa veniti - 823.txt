@@ -1,0 +1,29 @@
+[title]
+Copii din lumea-ntreaga la isus sa veniti {author: {Anonim}, {rcId: {823}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Copii din lumea-ntreagă la Isus să veniți
+Și inima întreagă Lui să i-o dăruiți.
+
+[c]
+Căci Isus ne iubește, Isus mult ne-a iubit
+Și fiindcă ne iubește, la noi El a venit.
+
+[v2]
+Copii din lumea-ntreagă la Isus să veniți
+Și-n viața noastră-ntreagă pe El să-L proslăvim
+
+[c2]
+Căci Isus ne iubește, Isus mult ne-a iubit
+Și fiindcă ne iubește, în brațe ne-a primit.
+
+[v3]
+Copii din lumea-ntreagă, veniți să ne unim
+Și-n cântecele noastre pe El să-L preamărim
+
+[c3]
+Căci Isus ne iubește, și fiindcă ne-a iubit,
+Un loc ne pregătește în cer cu El să fim.

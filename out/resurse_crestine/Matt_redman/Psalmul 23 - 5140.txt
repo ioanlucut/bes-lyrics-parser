@@ -1,0 +1,25 @@
+[title]
+Psalmul {author: {Matt Redman}, {rcId: {5140}}
+
+[sequence]
+c,v1,c,e
+
+[c]
+/: Domnul este Păstorul meu:
+Nu voi duce lipsă de nimic.
+El mă paște în pășuni verzi,
+Și mă duce la ape de odihnă;
+Îmi înviorează sufletul,
+Și mă povățuiește pe cărări drepte,
+Din pricina numelui Său. :/
+
+[v1]
+Chiar de-ar fi să umblu
+Prin valea umbrei morții,
+Eu nu mă tem de nici un rău,
+Nici un rău,
+Căci Tu ești cu mine mereu.
+
+[e]
+/: Da, fericirea și-ndurarea mă vor însoții :/ x3
+În toate zilele vieții mele. :/

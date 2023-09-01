@@ -1,0 +1,31 @@
+[title]
+Cineva te are-n seama (someone to care) {author: {Jimmie Davis, Traducere RO}, {rcId: {93776}}
+
+[sequence]
+v1,c,v2,c,s,c
+
+[v1]
+De ajungi printre străini
+Și prieteni ai puțini
+Cineva te are-n seamă!
+De ai ochii-nlăcrimați
+Și-al tău suflet e-ntristat
+Cineva te are-n seamă!
+
+[c]
+Isus, Domnul, știe oricând
+Când durerea te-apasă pe drum,
+A venit din slăvi cerești
+Lacrimi să-ți ia și să zâmbești
+Lângă tine-i Isus, acum!
+
+[v2]
+De îți pierzi orice nădejdi
+Și ți-e greu să biruiești
+Cineva te are-n seamă!
+De ai vrea să mergi pe drum
+Cu-n Prieten scump și bun
+Vine Isus cu tine-acum!
+
+[s]
+Nu te teme, căci Eu sunt cu tine; nu te uita cu îngrijorare, căci Eu sunt Dumnezeul tău; Eu te întăresc, tot Eu îți vin în ajutor. Eu te sprijinesc cu dreapta Mea biruitoare. Isaia 41:10

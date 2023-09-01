@@ -1,0 +1,17 @@
+[title]
+Cate stele {author: {Nicolae Moldoveanu}, {rcId: {225948}}
+
+[sequence]
+v1,v2
+
+[v1]
+Câte stele strălucesc,
+cântă Tatălui Ceresc.
+/: Câte păsări sunt pe sus,
+cântă Domnului Isus :/
+
+[v2]
+Câte flori sunt pe pământ,
+laudă pe Domnul sfânt.
+/: Câți copii sunt buni, mereu,
+laudă pe Dumnezeu :/

@@ -1,0 +1,41 @@
+[title]
+De cand eu pe isus l-am aflat {author: {Anonim}, {rcId: {3869}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+De când eu pe Isus l-am aflat
+Și deplin în brațul Lui m-am predat
+/: Duhul sfânt El mi-a dat
+Să-i fiu rob cu-adevărat
+Slavă Lui căci prin El sunt salvat :/
+
+[c]
+Din izvorul de sus ce se cheamă Isus
+Astăzi beau și mă simt
+Fericit și-s mântuit
+Apa Lui o simțesc
+Căci prin ea eu trăiesc
+Viață din viața Lui eu primesc.
+
+[v2]
+De când eu pe Isus l-am primit
+Niciodată El nu m-a părăsit
+/: Chiar și cei din jurul meu
+Spun mereu că drumu-i greu
+Prin isus am rămas neclintit :/
+
+[v3]
+De când eu voia Lui am înțeles
+Zi de zi ceas de ceas îl slujesc
+/: Către cer eu merg voios
+Căci în mine e Hristos
+Și cu El eu voi fi victorios :/
+
+[v4]
+De când eu prin credință trăiesc
+Prin furtuni lângă El mă-adăpostesc
+/: Căci prin ea-naintea mea
+Eu privesc spre țara Sa
+Și aștept aceea zi maranata! :/

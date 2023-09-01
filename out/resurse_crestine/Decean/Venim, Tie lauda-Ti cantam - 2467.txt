@@ -1,0 +1,24 @@
+[title]
+Venim tie lauda-ti cantam {author: {Decean}, {rcId: {2467}}
+
+[sequence]
+v1,b,c,e
+
+[v1]
+/: Ție laudă-Ți cântăm
+Pe Tine Te adorăm,
+Numele Tău înălțăm :/
+
+[b]
+În prezența tronului plin de slavă
+În prezența Ta noi vrem să stăm.
+
+[c]
+Venim, mâinile ridicăm
+Venim pe genunchi ne plecăm,
+Venim Ție să ne-nchinăm,
+Inima să-Ți dăm.
+
+[e]
+/: Inima și mintea mea
+Îți dăruiesc toată viața mea :/

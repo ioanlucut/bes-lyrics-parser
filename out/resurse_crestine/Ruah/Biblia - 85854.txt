@@ -1,0 +1,29 @@
+[title]
+Biblia {author: {Ruah}, {rcId: {85854}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+/: Nu mai sta nepăsător
+Ia te rog azi Biblia
+Nu mai sta nu aștepta
+Domnul vine, da El vine. :/
+
+[c]
+/: Trebuie să ne trezim
+Fraților, surorilor
+Dumnezeu Atotputernic
+Este-aproape foarte-aproape. :/
+
+[v2]
+/: Ascultați voi astăzi Glasul
+Și urmați-L, așteptați
+Că veni-va-acuma ceasul
+Când vom fi cu toți chemați. :/
+
+[e]
+/: Vrei tu să fii fericit
+Nu mai sta ci vino azi
+Până nu e prea târziu
+Domnul Isus te primește. :/

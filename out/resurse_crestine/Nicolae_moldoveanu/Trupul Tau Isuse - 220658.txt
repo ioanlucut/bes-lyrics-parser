@@ -1,0 +1,37 @@
+[title]
+Trupul tau isuse {author: {Nicolae Moldoveanu}, {rcId: {220658}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Trupul Tău Isuse
+E-un întreg preasfant,
+Și din el o parte
+Iată, și eu sunt!
+
+[c]
+E harul Tău, e harul Tău,
+Prin care-s smuls din veacul rău
+Și parte-n Tine m-ai făcut
+Isus pe mine-un pumn de lut
+/: Îți mulțumesc, îți mulțumesc
+Mă-nchin smerit și Te slăvesc :/
+
+[v2]
+Fă să fie trează
+Conștiința mea
+Că în sfanta-Ți Casă
+Parte sunt din ea!
+
+[v3]
+Tu-Ți alegi Mireasa
+Cu veșmant de in
+Și din ea o parte
+Sunt și eu deplin!
+
+[v4]
+Părticică vie
+M-ai făcut Isus
+Din a Ta Ființă
+Și-Ți răman supus.

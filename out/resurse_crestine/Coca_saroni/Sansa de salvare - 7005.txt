@@ -1,0 +1,47 @@
+[title]
+Sansa de salvare {author: {Coca Saroni}, {rcId: {7005}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Dumnezeu oferă astăzi șansa
+De salvare a tuturor,
+El pierde jertfele din lege
+Astăzi prin Mielul salvator,
+Cei din Gosen în marea robie
+Ușile și le-au însemnat
+Cu al Mielului scump sânge
+Și așa viața și-au salvat.
+
+[c]
+/: Răsună prelung sofarul
+A eliberării zi
+Când îi părăsea hotarul
+Și pleca spre miazăzi :/
+
+[v2]
+Egipteni pe ei îi urmăriră
+Când ei zoreau spre Canaan,
+Deși în mare toți pieriră
+Nu a pierit decât dușman
+El s-a dus și prin pustie
+Greu i-a înfrânt adeseori,
+Dar prin toate forța vie
+I-a condus biruitor.
+
+[v3]
+Și el pe noi ne condamnase
+Cu tarie al nost păcat,
+Dar cu a Mielului sfânt sânge
+Ușă vieții-am însemnat,
+În noapte-aceea a nimicirii
+Noi vom fi protejați de sus,
+Căci din slava nemuririi
+Se va întoarce iar Isus.
+
+[c2]
+/: Va suna atunci prelung trompeta
+Clipa primei învieri,
+Când vom părăsi planeta
+Și ne-om înălța la cer. :/

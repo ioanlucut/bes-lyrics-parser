@@ -1,0 +1,27 @@
+[title]
+A inviat din mormant isus {author: {Necunoscut}, {rcId: {198759}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+A înviat din mormânt Isus
+Precum ucenicilor le-a spus
+Să cânte cerul și pământul
+Isus a biruit mormântul
+
+[c]
+Cântați cu toții: Adevărat,
+Hristos din morți a înviat!
+
+[v2]
+Îngerii cântă azi în ceruri sus
+Marea-nviere a lui Isus
+Să-I cănte mulțimea celor salvați
+Căci prin Hristos fost-au răscumpărați
+
+[v3]
+Hristos într-una va învia
+Pe-acei ce-ascultă chemarea Sa
+Credință tare în El având
+El ne învie pe toți încurând

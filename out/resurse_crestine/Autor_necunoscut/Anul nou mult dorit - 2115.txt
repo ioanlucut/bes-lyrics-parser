@@ -1,0 +1,36 @@
+[title]
+Anul nou mult dorit {author: {Anonim}, {rcId: {2115}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Anul nou mult dorit
+Pe-al său prag am pășit
+Anul nou cât este de frumos
+Pe cel vechi l-am lăsat
+Cu trecutu-n păcat
+Plin de rău, plin sunt eu păcătos.
+
+[c]
+/: A trecut încă un an
+Noi mergem spre Canaan
+Drumul nostru tot urcă mereu
+Înainte și sus răsplătiri de nespus
+Vom primi de la bunul Dumnezeu. :/
+
+[v2]
+Mă întorc azi obosit
+Ca să fiu mântuit
+Să-L ascult în acest an cu drag
+Orice val ar veni
+Înainte-oi păși
+Ca s-ajung în cer la Dumnezeu.
+
+[v3]
+De-ar veni încercări
+Cu El vom birui
+Și cununa cerească vom primi
+Ispite, prigoniri,
+Toate le-am suferi
+Ca s-ajung acasă sus la El.

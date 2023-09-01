@@ -1,0 +1,35 @@
+[title]
+Te laudam domn al universului {author: {Puiu Chibici}, {rcId: {151546}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Te lăudăm, Domn al Universului!
+Te lăudăm, Domn al lumii întregi!
+Te lăudăm, Nume minunat!
+Fii glorificat! Fii glorificat! Fii glorificat!
+
+[c]
+Tu ești cel mai mare, Stânca noastră tare,
+Domn al tuturor, Sfânt biruitor!
+Îți aducem slavă, viața noastră întreagă,
+Domn al domnilor, al lumii Salvator!
+
+[v2]
+Îți cântăm, Domn al Universului!
+Îți cântăm, Domn al lumii-ntregi,
+Îți cântăm, Nume minunat,
+Fii glorificat! Fii glorificat! Fii glorificat!
+
+[v3]
+Te-nălțăm, Doamne al Universului!
+Te-nălțăm, Domn al lumii întregi,
+Te-nălțăm, Nume minunat,
+Fii glorificat, fii glorificat, fii glorificat!
+
+[v4]
+Te lăudăm, Domn al Universului!
+Îți cântăm, Domn al lumii-ntregi,
+Te-nălțăm, Nume minunat,
+Fii glorificat! Fii glorificat! Fii glorificat!

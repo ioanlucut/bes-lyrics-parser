@@ -1,0 +1,29 @@
+[title]
+Asa cum sunt la tine vin - da-mi curaj {author: {Beni Moldovan}, {rcId: {60552}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Așa cum sunt la Tine vin,
+La crucea Ta, ca să mă-nchin,
+Cu tot ce am să Te slujesc,
+Toată viața eu doresc.
+
+[c]
+/: Dă-mi curaj să Te slujesc!
+Dă-mi putere să iubesc!
+Dă-mi un glas ca să Îți cânt,
+Să Te slăvesc cu tot ce sunt! :/
+
+[v2]
+Primește-mă la Tine azi,
+Să fiu tare prin necaz,
+Ca Daniel în groapa cu lei,
+Să am credință, să fiu viteaz!.
+
+[v3]
+Ca Șadrac, Meșac și Abed-Nego,
+Dă-mi putere, Domnul meu,
+Pe picioare să stau, nemișcat din loc,
+Chiar dacă am să trec prin foc!

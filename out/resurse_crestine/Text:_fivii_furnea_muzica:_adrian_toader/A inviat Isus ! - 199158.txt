@@ -1,0 +1,35 @@
+[title]
+A inviat isus {author: {Text: Fivii Furnea, Muzica: Adrian Toader}, {rcId: {199158}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+A înviat Isus acum,
+Trǎirea bucuriei sfântǎ
+/: E gol mormântul, pe Isus
+Deplinǎ slavǎ-L înveșmântǎ. :/
+A înviat Isus, de-atunci
+Trecut-au veacuri de iubire.
+/: Belșug de har au cei ce vor
+Sǎ-și afle-n Isus mângâiere. :/
+
+[v2]
+A înviat Isus acum,
+Mǎreața veste te îmbie
+/: Sǎ crezi, prin El cu Tatǎl sfânt
+Poți fi-mpǎcat pe veșnicie. :/
+A înviat Isus acum
+Și viața-n dar ne este datǎ
+/: Prin jertfa marei Lui iubiri
+Prin dragostea-I nemǎsuratǎ. :/
+
+[v3]
+A înviat Isus acum,
+Trǎirea bucuriei sfântǎ
+/: E gol mormântul, pe Isus
+Deplinǎ slavǎ-L înveșmântǎ. :/
+A înviat Isus acum,
+Pe tot pǎmântul sǎ rǎsune
+/: Cântǎri Biruitorului
+De har și bucurie pline. :/

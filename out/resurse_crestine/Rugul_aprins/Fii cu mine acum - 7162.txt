@@ -1,0 +1,28 @@
+[title]
+Fii cu mine acum {author: {Rugul aprins}, {rcId: {7162}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+/: Mă trezesc și-adorm cu gândul doar la Tine
+Și mă gândesc plângând, ce-ai răbdat pentru mine
+Ca eu să fiu acum, copilul Tău iubit
+Ce-n Golgota-n dureri, Isus Tu m-ai născut :/
+
+[c]
+/: Fii cu mine acum, să pot înainta
+Să arăt lumii întregi, cărarea Ta :/
+
+[v2]
+/: Mă trezesc și-adorm cu gândul doar la Tine
+Și mă gândesc plângând, ce-ai răbdat pentru mine
+Ca eu să fiu acum, copilul Tău iubit
+Ce-n Golgota-n dureri, Isus tu m-ai născut :/
+
+[e]
+/: Cerul Tu ai părăsit, pentru mine Ai venit
+Ca să mori în locul meu, O Domnul meu
+Mă gândesc și plâng mereu,
+Ce-am facut să merit eu
+Harul Tău, o, Isuse Domnul meu :/

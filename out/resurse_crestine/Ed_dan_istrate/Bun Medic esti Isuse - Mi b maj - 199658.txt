@@ -1,0 +1,25 @@
+[title]
+Bun medic esti isuse - mi b maj {author: {ed. Dan Istrate}, {rcId: {199658}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Bun Medic ești, Isuse, bun Medic, minunat,
+Mărturisesc bolnavii și tot sufletul iertat.
+
+[c]
+Nu-i nimeni să lege o rană, cum Doamne Tu ai legat,
+Nu-i nimeni, nu-i nimeni, nu-i nimeni să ierte cum Doamne Tu-ai iertat.
+
+[v2]
+Femeia păcătoasă și orbul Bartimeu
+Mărturisesc Isuse de mila și harul Tău.
+
+[v3]
+L-ai înviat, Isuse, pe Lazăr din mormânt,
+Căci Tu ești Învierea și Viața, o, Doamne sfânt.
+
+[v4]
+Toți păcătoșii lumii pe care i-ai iertat
+Îți cântă-n adorare, Isus, Medic minunat!

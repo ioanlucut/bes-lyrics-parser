@@ -1,0 +1,55 @@
+[title]
+S-a nascut isus {author: {Speranța}, {rcId: {4392}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c2
+
+[v1]
+Știm că te-ai născut pe acest pământ
+În Betleemul din Iudeea
+Mulți Te-au așteptat să vii într-un palat
+Într-un grajd El locul si-a aflat.
+
+[c]
+S-a născut Isus Hristos
+Într-un loc cât mai de jos
+Loc în casă n-au gasit
+Nimenea nu I-a primit
+Pe lume El a venit
+Doar săracii I-au primit
+Lângă ieslea Betleem
+S-a născut Emanuel
+
+[v2]
+Magii au aflat, îndat-au alergat
+Unde S-a născut Mesia
+Cu toții au venit, și L-au preamărit
+Pace-n sufletul lor au primit
+
+[v3]
+Iosif îl purta, Maria il iubea
+Pe Acel ce-aduce mântuirea
+Și ca un profet, fuge-n Nazaret
+Iosif, Domnul Isus si Maria
+
+[v4]
+Când a mai crescut, Domnul Preaiubit
+Propovăduie Împărăția
+Ce a pregătit, Dumnezeu iubit
+Pentru toți de pe acest pământ
+
+[v5]
+Nu l-au ascultat, și l-au alungat
+Pe Isus Hristos, Mesia
+Și l-au condamnat, când a spus Pilat
+Nici o vină-n El nu au aflat.
+
+[c2]
+Azi cu toții Îl slăvim
+Prin El pace noi primim!
+Osanale-I vom cânta!
+Glorie, Aleluia!
+S-a născut pe-acest pământ
+Pentru noi s-a dat jetrfind.
+Noi cu drag vom aștepta,
+Mire drag, venirea Ta!

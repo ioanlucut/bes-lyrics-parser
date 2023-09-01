@@ -1,0 +1,53 @@
+[title]
+Har indeajuns {author: {Continental}, {rcId: {244146}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c
+
+[v1]
+Al Tău har îmi este îndeajuns.
+Sunt, poate, ploi ce nu par a înceta
+Și vin încercări testând credința mea,
+Însă am aflat odată și n-am să uit nicicând
+Că harul Tău și mila îndeajuns îmi sunt acum.
+
+[v2]
+Vreau să las îngrijorarea,
+Un mâine când aștept,
+Să văd poveri și grijuri
+În uitare cum se pierd.
+Tu mi-ai arătat odată
+Și n-am să uit nicicând
+Că harul Tău și mila îndeajuns îmi sunt acum.
+
+[c]
+/: Aleluia! Aleluia! Aleluia!
+Îndeajuns îmi sunt acum! :/
+/: Aleluia! Aleluia! Aleluia!
+Îndeajuns îmi sunt acum! :/
+Îndeajuns îmi sunt acum!
+/: Aleluia! Aleluia! Aleluia!
+Îndeajuns îmi sunt acum! :/
+/: Aleluia! Aleluia! Aleluia!
+Al Tău har e îndeajuns! :/
+
+[v3]
+În necaz sau bucurie,
+Tu nu te vei schimba.
+Chiar zilele de-s negre,
+Îmi rămâne pacea Ta.
+Eu am înțeles odată
+Și n-am să uit nicicând
+Că harul Tău și mila îndeajuns îmi sunt acum.
+
+[v4]
+Și va veni odată
+Ziua când Te voi vedea.
+Toată întristarea
+O secundă va părea.
+Însă până atunci, Isuse,
+În harul Tău rămân.
+Că harul Tău și mila,
+Da, harul Tău și mila,
+Harul Tău și mila
+Îndeajuns îmi sunt acum.

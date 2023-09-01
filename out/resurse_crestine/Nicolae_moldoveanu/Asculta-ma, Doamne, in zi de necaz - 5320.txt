@@ -1,0 +1,35 @@
+[title]
+Asculta-ma doamne in zi de necaz {author: {Nicolae Moldoveanu}, {rcId: {5320}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Asculta-ma, Doamne, in zi de necaz!
+Asculta-mi strigarea ce la Tine-o ’nalt!
+/: Asculta-ma-n ruga, cand Tie ma-nchin,
+Caci cu-ale mele sarcini la Tine eu vin. :/
+
+[v2]
+Daca-n lumea asta toti m-ar parasi,
+N-as avea pe nimeni, singur as trai;
+/: Totusi o scanteie-n mine licareste,
+Caci Isus Hristos nu ma paraseste. :/
+
+[v3]
+El imi este scutul sufletului meu,
+El imi e scapare in necazul greu,
+/: El imi e nadejdea, disperat de-as fi;
+Cu Isus e bine oriund’ te-ai gasi. :/
+
+[v4]
+O, ce bine este cu El de-a trai!
+Niciodata-n viata nu l-as parasi.
+/: Chiar prin suferinta, chiar si prin dureri,
+El imi e tovaras pana sus in cer. :/
+
+[v5]
+Viata mea intreaga Lui I-am inchinat;
+El ma va conduce-n cerul minunat;
+/: El imi va da pace-n sufletul pribeag,
+Pana voi ajunge in cerul meu drag. :/

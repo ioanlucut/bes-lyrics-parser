@@ -1,0 +1,35 @@
+[title]
+E vina mea {author: {Adriana Stoica}, {rcId: {238133}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Cine din lume ar putea să spună oare,
+De ce a murit răstignit Isus Hristos
+De ce a luat vina lumii și tot păcatul
+Să moară sus pe cruce ca un păcătos
+
+[c]
+/: E vina mea, pedeapsa grea
+El a purtat să fiu salvat :/
+
+[v2]
+Cine ar putea astăzi să nu recunoască
+Dragostea mare a Lui Dumnezeu
+El a trimis singurul său fiu să moară
+Să moară sus pe cruce în locul meu
+
+[v3]
+Astăzi cu toți recunosc vina cea mare
+A fost a mea, a ta, și-a tuturor
+Ferice va fi de acel ce recunoaște
+Pe Isus Hristos ca Domn în viața lor
+
+[c2]
+/: E vina mea, pedeapsa grea
+El a purtat să fiu salvat :/
+/: Astăzi mă închin și-ți mulțumesc
+Căci doar prin mila Ta eu trăiesc :/
+/: E vina mea, pedeapsa grea
+El a purtat să fiu salvat :/

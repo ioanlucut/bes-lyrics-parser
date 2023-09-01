@@ -1,0 +1,37 @@
+[title]
+Turma mica turma mica {author: {Ionel Saran Bochis}, {rcId: {111138}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Turmă mică, turmă mică
+Ești de Domnul mult iubită!
+/: Ești iubită, ocrotită
+Și de Isus mult păzită! :/
+
+[v2]
+Zeci de mii de o să cadă
+În jurul tău toți grămadă,
+/: Dar pe tine, Domnul Slavei,
+El te va păzi degrabă! :/
+
+[v3]
+Pune-ți astăzi întrebarea:
+Cum îți este acum starea?!
+/: Stai mereu în așteptare
+Sau ai adormit pe cale?! :/
+
+[v4]
+Va veni ziua mâniei,
+Va veni ziua urgiei...
+/: Peste-această lume mare
+Fără nici o îndurare! :/
+
+[v5]
+De vei asculta tu de Mine
+Și vei sta în rugăciune,
+Te voi duce Sus, la Mine,
+Sus, la al Tău Iubit Mire,
+Și n-o să mai simți suspine,
+Căci Eu voi fi lângă tine!

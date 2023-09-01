@@ -1,0 +1,47 @@
+[title]
+Sa nu dai inapoi cand vine incercarea {author: {Dragoș Andreșesc}, {rcId: {182460}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Să nu dai înapoi când vine încercarea
+Să nu dai înapoi când vine îngrijoarea
+Să nu dai înapoi de toate-s împotrivă
+Tu du-te înainte - tu luptă fără frică
+
+[c]
+Brațul cel tare-al Domnului
+Te va-ntări la vreme de necaz
+Biruitor în Numele Lui
+Vei păși în fiecare ceas.
+
+[v2]
+Să nu dai înapoi când valul se ridică
+Să nu dai înapoi când ești cuprins de frică
+Sî nu dai înapoi mereu la dreapta ta
+Stă Unul ce veghează: E Isus - Mesia
+
+[v3]
+Să nu dai înapoi chiar de nu vezi limanul
+Să nu dai înapoi, vine Samariteanul
+Să nu dai înapoi El te va ridica
+În Numele lui Isus mereu vei triumfa
+
+[v4]
+Să nu dai înapoi chiar de regrete-s multe
+Să nu dai înapoi rămâi mereu pe munte
+Adu-ți aminte frate cum Te-a purtat pe brațe
+Și o să te mai poarte deci luptă mai departe
+
+[v5]
+Să nu dau înapoi învață-mă Isuse
+Să nu dau înapoi ci să privesc la Tine
+Căci doar privind la Tine mereu în lupta grea
+Eu voi primi putere, cu Tin’ voi triumfa
+
+[v6]
+Să nu dăm înapoi orice ar veni pe Cale
+Isus e lângă noi ca să ne dea scăpare
+Cu steagul către țintă căci Isus e cu noi
+Până la capăt frate să nu dăm înapoi.

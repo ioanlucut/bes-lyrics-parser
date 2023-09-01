@@ -1,0 +1,34 @@
+[title]
+Doamne-ti asteptam venirea {author: {Alexandru Groza}, {rcId: {7332}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Doamne-Ți așteptăm venirea
+La ivirea zorilor
+Îmbrăcăți în haine albe
+Vrem ”
+OSANA!” să-Ți cântăm
+
+[c]
+Într-o zi însorită de dimineață,
+Vom sta cu Tine față-n față,
+Cu Tine, cu-Avraam, cu Isaac și cu îngerii.
+Sărbătoarea divină și glorioasă
+Va fi, în ziua aceea măreață,
+Pentru poporul ales al Domnului.
+
+[v2]
+Nu nesocotiți iubirea
+Și Cuvântul Domnului
+Căci se-apropie venirea
+Ziua mare-a Mielului.
+
+[c2]
+Dacă astazi prin har poți primi mântuirea
+Nu sta-n zadar, ridică-ți privirea!
+Om păcatos, vino azi să fii salvat!
+Dacă azi prin har auzi iar Cuvântul,
+Fii fericit și fă legământul
+Cu Domnul tău ce te-a răscumpărat.

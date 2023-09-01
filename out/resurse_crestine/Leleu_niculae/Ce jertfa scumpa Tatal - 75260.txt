@@ -1,0 +1,41 @@
+[title]
+Ce jertfa scumpa tatal {author: {Leleu Niculae}, {rcId: {75260}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Ce Jertfă Scumpă Tatăl
+Adus-a pe Calvar
+Și totuși pentru tine
+Ea poate fi-n zadar
+
+[c]
+Nu uita, nu uita
+Azi e mântuirea ta!
+La apus, la apus
+Poate harul tău fi dus!
+
+[v2]
+Ce lucruri minunate,
+Ți-arată acum Hristos
+Și totuși poți din ele
+Să n-ai nici un folos
+
+[v3]
+Ce stări nebănuite
+Pot fi în Duhul Sfânt
+Și tu să fii din ele
+Ca cerul de pământ
+
+[v4]
+Ce oameni sfinți sunt unii
+Din cei cu tine acum
+Și tu să fii de dânșii
+La mii de ani de drum
+
+[v5]
+Ce unice sunt astăzi
+Prilejuri și comori
+Și totuși le poți pierde
+Pe veci de-atâtea ori

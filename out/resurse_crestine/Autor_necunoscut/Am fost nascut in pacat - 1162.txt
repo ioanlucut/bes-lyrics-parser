@@ -1,0 +1,30 @@
+[title]
+Am fost nascut in pacat {author: {Anonim}, {rcId: {1162}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Am fost născut în păcat
+Dar Isus pentru mine S-a dat
+Și viața mea de-acum e în mâna Sa.
+Și până Îl voi vedea
+Am nevoie de lumina Sa
+Căci ce a făcut, eu nicicând nu voi uita.
+
+[c]
+Condu-mă, Doamne, ziua
+Condu-mă, e ruga mea,
+Prin toate necazurile acestei lumi.
+Condu-mă, Doamne, noaptea
+Condu-mă prin lumina Ta
+Căci numai Tu poți conduce
+Viața mea.
+
+[v2]
+Dumnezeu ne iubește mereu
+Pentru noi a dat singurul lui Fiu
+Ca noi să fim salvați azi din păcat
+Deci, vino cu inima ta
+De păcat El o va spăla
+Și de azi vei fi și tu-n lumina Sa.

@@ -1,0 +1,35 @@
+[title]
+Sa faci o isuse din inima mea {author: {Nicolae Moldoveanu}, {rcId: {5322}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Să faci, o, Isuse, din inima mea,
+O harfă divină, să cânți Tu cu ea
+/: Și-n corzile-i sfinte, să sune mai plin
+Acordul iubirii, măreț și divin! :/
+
+[v2]
+Să faci, o, Isuse, din inima mea,
+Cădelniță sfântă, să ardă în ea
+/: Tămâia iubirii cu focu-i ceresc,
+Ca pururi în lume iubind să trăiesc! :/
+
+[v3]
+Să faci, o, Isuse, din inima mea,
+Epistolă vie, să scrii Tu în ea
+/: Cuvântul iubirii, plăcut și duios.
+Să-ndemne pe-orcine spre Cerul frumos! :/
+
+[v4]
+Să faci, o, Isuse, din inima mea!
+Biserică sfântă, să stai Tu în ea!
+/: Podoaba iubirii, cu duhul ei blând,
+S-o facă frumoasă oriunde și-oricând! :/
+
+[v5]
+Să fie, Isuse, și inima mea,
+Să fie întruna ca inima Ta:
+/: Izvor de iubire, de milă, de har
+Mereu tot mai plină, pe-al jertfei altar! :/

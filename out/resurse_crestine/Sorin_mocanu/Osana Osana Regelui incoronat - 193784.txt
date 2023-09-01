@@ -1,0 +1,27 @@
+[title]
+Osana osana regelui incoronat {author: {Sorin  Mocanu}, {rcId: {193784}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Nu-i bucurie mai mare
+Ca-n prezența Domnului
+Când se aude in adunare
+Lauda creștinului. :/
+
+[c]
+/: Osana, Osana Regelui încoronat
+Aleluia, Aleluia Celui mort și înviat! :/
+
+[v2]
+/: Isus regele cel mare
+Pentru noi El s-a jertfit
+Ne-a scos din groapa pieirii
+Cu sânge sfânt El a plătit
+
+[v3]
+/: Deschide-ți inima frate
+Laudă-l pe Dumnezeu
+Dacă ți-a făcut mult bine
+Laudă-l și zi mereu. :/

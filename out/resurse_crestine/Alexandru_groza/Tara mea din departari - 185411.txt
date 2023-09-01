@@ -1,0 +1,23 @@
+[title]
+Tara mea din departari {author: {Alexandru Groza}, {rcId: {185411}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Mereu îmi zboară gândul spre Țara cea de sus
+Unde stăpân e Domnul și rege e Isus
+Acolo-i bucurie, dureri acolo nu-s
+E țara mult dorită, e țara cea de sus!
+
+[c]
+Țara mea din depărtări
+Tu strălucești în glorii, ce mult eu te doresc
+Țara mea din depărtări
+Spre tine-mi zboară gândul, cu tine-n gând trăiesc!
+
+[v2]
+Văd zilele cum zboară și anii cum se duc
+Mă simt tot mai aproape de țara mea de sus
+De țara mult dorită ce Domnul a promis
+În marea Lui iubire, așa cum este scris.

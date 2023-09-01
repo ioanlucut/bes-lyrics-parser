@@ -1,0 +1,40 @@
+[title]
+Mi-e asa de dor de tine isuse domnul meu {author: {Album necunoscut}, {rcId: {203493}}
+
+[sequence]
+v1,v2,v3,v4,v5,c
+
+[v1]
+Mi-e așa de dor de Tine
+Isuse, Domnul meu
+/: Te chem să vii la mine
+Și plâng de dorul Tău. :/
+
+[v2]
+Ce-aș face-n suferință,
+Ce-aș face la necaz,
+/: De n-ai fi Tu să-mi mângâi
+Lovitul meu obraz? :/
+
+[v3]
+De n-ai fi Tu cu mine,
+Ca mâna să-mi întinzi,
+/: Și-n dulcea-Ți mângâiere
+La sân să mă cuprinzi? :/
+
+[v4]
+Mi-e așa de dor de Tine
+Isuse, Domnul meu
+/: Te chem să vii la mine
+Și plâng de dorul Tău. :/
+
+[v5]
+Ce-aș face-n suferință,
+Ce-aș face la necaz,
+/: De n-ai fi Tu să-mi mângâi
+Lovitul meu obraz? :/
+
+[c]
+https :/
+youtu. be/Jsw0DHSFq
+OI

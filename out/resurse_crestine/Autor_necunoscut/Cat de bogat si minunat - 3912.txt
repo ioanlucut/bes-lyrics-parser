@@ -1,0 +1,35 @@
+[title]
+Cat de bogat si minunat {author: {Anonim}, {rcId: {3912}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cât de bogat și minunat
+Este Cuvântul Sfânt,
+Căci multe-avem de învățat,
+Trăind pe acest pământ.
+
+[c]
+În dragoste supuneți-vă!
+În pace să trăiți!
+Cu-adevărat iubiți-vă!
+De rău să vă feriți!
+
+[v2]
+Nu faceți certuri, dezbinări,
+Trăiți în pacea Sa.
+Căci Domnul ne-a-nfrățit pe toți
+Pe dealul Golgota.
+
+[v3]
+Simțiți cu toți, căci sunteți frați,
+Răscumpărați, iubiți,
+Căci sunteți toți de-același neam
+Și toți spre cer porniți.
+
+[v4]
+Sunteți cu toții greu loviți,
+E greu de ’naintat,
+Strângeți dar rândurile-acum
+Căci mult e de luptat.

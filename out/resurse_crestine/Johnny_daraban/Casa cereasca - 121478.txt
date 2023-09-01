@@ -1,0 +1,31 @@
+[title]
+Casa cereasca {author: {Johnny Daraban}, {rcId: {121478}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Pe drumul ce mă duce-acasă,
+Prin noaptea neagră eu călătoresc,
+Furtuna bate tot mai tare,
+Dar eu nu deznădăjduiesc.
+Privesc spre casa mea cerească,
+Spre Tatăl meu, ce mă așteaptă-n prag,
+Cu dor aștept măreața clipă,
+Când mă va îmbrățișa cu drag.
+
+[c]
+Aleluia, aleluia,
+Domnul vine să ne ia,
+Îmbrăcat în haine albe,
+Vreau să ajung în casa Sa.
+
+[v2]
+Când trec prin valea umbrei morții
+Și drumu-mi pare greu și-anevoios,
+Atunci Isus mă ia pe brațe
+Și pace-n suflet de la El primesc.
+O, Doamne, ce mare iubire
+Ai arătat murind la Golgota,
+Ți-ai dat viața pentru mine
+Și ai salvat ființa mea.

@@ -1,0 +1,31 @@
+[title]
+Smereste-te sufletul meu {author: {Alexandru Groza}, {rcId: {185019}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Smerește-te sufletul meu,
+Întoarce-te la Dumnezeu
+Să-ți dea iubire, dragoste,
+Să te binecuvinteze.
+Smerește-te sufletul meu,
+Încrede-te în Dumnezeu
+Căci Isus te-a răscumpărat,
+Întoarce-te azi la Domnul.
+
+[c]
+/: Dacă roade nu dai, tu ești un simplu pai
+Boabe nu sunt nimic, unde-i rodul din spic?
+În păcate trăiești, fericiri nu găsești
+Întoarce-te azi la Domnul! :/
+
+[v2]
+Smerește-te sufletul meu,
+Privește sus la Dumnezeu
+Căci tu ești doar un trecător
+Oprește-te din goana ta
+Fără de Domnul ești pierdut
+Și poate tu nici n-ai știut,
+Nici veșnicie n-o să ai
+De nu te-ntorci la Domnul.

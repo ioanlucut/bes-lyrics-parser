@@ -1,0 +1,35 @@
+[title]
+De pacat ce m-ar spala? {author: {Robert Lowry}, {rcId: {74332}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+De păcat ce m-ar spăla?
+Numai sângele lui Isus!
+Și unde m-ar vindeca?
+Numa-n sângele lui Isus!
+
+[c]
+/: Oh, fluviu minunat,
+Ce spală de păcat!
+Aici sunt împăcat,
+Prin sfânt sângele lui Isus! :/
+
+[v2]
+Prin ce voi fi curățit?
+Numa-n sângele lui Isus!
+De Părintele iubit,
+Numa-n sângele lui Isus!
+
+[v3]
+Prin ce voi fi ei iertat?
+Numa-n sângele lui Isus!
+Prin ce voi fi mângâiat?
+Numa-n sângele lui Isus!
+
+[v4]
+Pe păcătos ce-ndreaptă?
+Numai sângele lui Isus!
+Lui Dumnezeu să placă?
+Numai sângele lui Isus!

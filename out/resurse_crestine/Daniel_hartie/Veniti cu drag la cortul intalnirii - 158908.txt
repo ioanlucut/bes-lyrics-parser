@@ -1,0 +1,35 @@
+[title]
+Veniti cu drag la cortul intalnirii {author: {Daniel Hartie}, {rcId: {158908}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Veniți cu drag la cortul întâlnirii
+Veniți, lăsați a voastre mari poveri!
+Aici e locul unde se coboară
+Acel ce poate să dea mângâieri.
+
+[c]
+/: De sub pragul casei Tale curge un izvor
+Plin de har, de îndurare, tămăduitor
+Sufletul ți-l răcorește, călător trudit
+Vino bea din apa vieții să fii mântuit! :/
+
+[v2]
+Veniți acei săraci din lumea toată
+Să vă îmbogățească Dumnezeu
+Căci mântuirea e darul fără plată
+Isus muri pe cruce-n chinul greu.
+
+[v3]
+Veniți aici voi cei loviți de patimi
+Legați cu lanțuri grele de nespus
+Veniți aici în Cortul Întâlnirii
+Să vă elibereze iar Isus!
+
+[v4]
+Veniți cu drag voi călători din lume
+Aici există poarta către cer
+De-aici pornește drumul către soare
+Vă cheamă azi Isus, Emanuel.

@@ -1,0 +1,37 @@
+[title]
+Nu mai e mult {author: {Frații Wagner}, {rcId: {87542}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+E forfotă, e zarvă mare
+Și mii de glasuri se aud.
+Păcatul e așa de mare,
+Curând va apărea Isus.
+
+[c]
+Tu, omule, te cercetează,
+Oricare-ai fi, orcine ești;
+Sărac, bogat nu mai contează,
+Acolo vom fi toți la fel.
+
+[v2]
+Ți-ai pus vreodată întrebarea
+Ce o să-i spui și cum răspunzi
+Când îți va cere socoteală,
+Tu pentru suflet ce-ai făcut ?
+
+[v3]
+Răspunsul tău va fi ca astăzi
+Puternic, mândru și trufaș?
+Sau vei muți spunând: ”
+O, Doamne
+De sufletul meu am uitat!”
+
+[v4]
+Azi tu ce încă mai ai viața
+Și poți s-alegi destinul tău,
+Îngenunchează, spune-i ”
+Tată,
+De azi voi fi copilul Tău.”

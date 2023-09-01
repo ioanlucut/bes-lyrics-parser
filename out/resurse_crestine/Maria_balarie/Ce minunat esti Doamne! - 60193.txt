@@ -1,0 +1,35 @@
+[title]
+Ce minunat esti doamne {author: {Maria Balarie}, {rcId: {60193}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Ce minunat esti Doamne!
+Cuvantul Tau Cel Sfant
+Imi schimba viata
+Si gandirea mea.
+
+[v2]
+Tu mi-ai dat har,
+Si credinta in dar;
+Ca sa pot sa spun,
+Cat esti Tu de bun.
+
+[v3]
+Tu m-ai cumparat,
+Pe mine din pacat;
+Ai platit Tu pretul,
+Pentru vina mea.
+
+[v4]
+Te-ai adus pe Tine
+Jertfa pentru mine;
+Cu sangele Tau scump
+M-ai rascumparat.
+
+[v5]
+Slavit in veci sa fii,
+Mantuitorul meu
+Atat de mult m-ai iubit
+Tu m-ai mantuit.

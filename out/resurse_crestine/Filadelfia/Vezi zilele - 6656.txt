@@ -1,0 +1,29 @@
+[title]
+Vezi zilele {author: {Filadelfia}, {rcId: {6656}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Vezi cum zilele se duc și anii trec
+Vezi cum clipe se topesc repede în vânt
+Vreau să-ți spun acuma omule să te oprești
+La trecutul tău cel rău chiar acum să te gândești.
+
+[c]
+/: Căci va fi în curând răsplata celor drepți
+Dumnezeu te va-ntreba cum ai trăit aici
+Și dacă viața ta pe pământ se va schimba
+Să știi că Salvatorul pe veci te va ierta! :/
+
+[v2]
+Dumnezeu s-a arătat prin Isus
+L-ai respins, L-ai răstignit pe Calvar
+Sânge a curs pentru păcatul meu și-al tău
+Nu-L respinge! Crede-n El și vei fi salvat!
+
+[v3]
+Vezi cum zilele se duc și anii trec
+Vezi cum clipe se topesc repede în vânt
+Vreau să-ți spun acuma omule să te oprești
+La trecutul tău cel rău chiar acum să te gândești.

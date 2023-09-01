@@ -1,0 +1,35 @@
+[title]
+Eu plec acolo unde e lumina {author: {Anonim}, {rcId: {1638}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Eu plec acolo unde e lumină,
+Acolo unde nu-s dureri,
+Unde domnește liniștea deplină
+Și unde-s numai mângăieri.
+
+[c]
+/: De ce nu vrei să vii cu mine,
+În țara gloriei de sus?
+Acolo e așa de bine
+Că-mpărătește-n veci Isus! :/
+
+[v2]
+Acolo nu va mai fi întristare
+Și nici mărunte-ngrijorări,
+Căci bucuria noastră va fi mare,
+Când vom pluti pe-albastre zări.
+
+[v3]
+De crezi în Isus, vei primi iertare
+Și viața-ți va părea un vis;
+Iar când aici sfârși-vei alergarea,
+Te vei muta în Paradis.
+
+[v4]
+Nu refuza chemarea minunată!
+Poate că mâine vei muri...
+Nu aștepta cumplita judecată!
+Grăbește-te, nu zăbovi!

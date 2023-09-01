@@ -1,0 +1,31 @@
+[title]
+Din cuvant eu am aflat {author: {Alexandru Groza}, {rcId: {3000}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Din Cuvânt eu am aflat,
+Isuse, Tu m-ai salvat
+Viața Ți-ai jertfit pe cruce la Calvar.
+Prin sfânt sângele vărsat,
+Mântuire Tu mi-ai dat,
+De păcate, Doamne m-ai eliberat.
+
+[c]
+/: Tu mi-ai dăruit lumina,
+Tu ești al meu Salvator,
+Nu mai rătăcesc prin lume
+Ca fiul risipitor.
+Astăzi am primit lumina,
+Sunt un fiu răscumpărat,
+Prin credința-n Tine, Doamne,
+Sunt salvat. :/
+
+[v2]
+Credincios, pe drumul meu,
+Doamne vreau să fiu și eu,
+Să-Ți slujesc Numele Tău în orice zi.
+Să renunț la voia mea,
+Să fac numai voia Ta,
+Ia-mă Doamne, Tu, în stăpânirea Ta.

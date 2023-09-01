@@ -1,0 +1,31 @@
+[title]
+O vino azi emanuel {author: {Sanctus Pro Deo}, {rcId: {238731}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O, vino azi, Emanuel
+Răscumpără pe Israel,
+Din jale și robie grea
+O, vino astăzi, Mesia!
+
+[c]
+Cântați, cântați, Emanuel
+Va reveni în Israel!
+Cântați, cântați, Emanuel
+Va reveni în Israel!
+Cântați, cântați, Emanuel
+Va reveni în Israel!
+
+[v2]
+O vino, vino Stea din răsărit
+Ne mângâie destul cât am trudit,
+Al nopții văl alungă dar
+Și umbrei morții pune tu hotar!
+
+[v3]
+O vino fiu din David tu poți
+Deschide larg a cerurilor porți,
+O cale luminează pentru-acel
+Ce din robie urcă spre cer.

@@ -1,0 +1,29 @@
+[title]
+Veniti cu credinta plini de bucurie {author: {John F.Wade}, {rcId: {1875}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Veniți cu credință, plini de bucurie,
+Veniți, o, veniti toti la Betleem!
+Iată-l în paie, Rege al măririi.
+
+[c]
+/: Veniți sa ne-nchinăm Lui, :/ x3
+El e Domn!
+
+[v2]
+Voi, coruri de îngeri, glorie aduceți
+Acelui ce-n iesle umil S-a născut;
+„
+Slavă lui Dumnezeu în înălțime!”
+
+[v3]
+O, Doamne, Îți spunem bun venit în lume;
+Isuse, a Ta fie slava-n veci!
+Tu ești Cuvântul vieții printre oameni!
+
+[c2]
+/: Te adorăm, Isuse, :/ X3
+Tu ești Domn!

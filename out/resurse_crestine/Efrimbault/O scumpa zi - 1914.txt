@@ -1,0 +1,37 @@
+[title]
+O scumpa zi {author: {E.F.Rimbault}, {rcId: {1914}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+O, scumpa zi, cand Te-am primit
+Isuse, Salvatorul meu;
+Sunt bucuros si fericit
+C-am fost primit sa fiu al Tau.
+
+[c]
+Scumpa zi, scumpa zi,
+Cand Isus sterse-al meu pacat;
+Voi priveghea, ma voi ruga,
+In Tine ma voi bucura;
+Scumpa zi, scumpa zi,
+Cand Isus sterse-al meu pacat.
+
+[v2]
+Prin Duhul sunt nascut din nou,
+Isus e-al meu, iar eu al Sau;
+Imi este Domn si-L voi urma
+Marturisindu-L tot mereu.
+
+[v3]
+Cu Tine sunt in legamant
+Pecetluit cu Duhul Sfant;
+Isuse, stiu ca ma conduci
+Pe cale, pana la sfarsit.
+
+[v4]
+Privesc spre cer increzator
+In bunul meu Mantuitor;
+De Domnul nu ma voi lasa
+Si-n slava Lui cu El voi sta.

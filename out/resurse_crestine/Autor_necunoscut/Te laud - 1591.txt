@@ -1,0 +1,23 @@
+[title]
+Te laud {author: {Anonim}, {rcId: {1591}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Te laud că sunt al Tău
+Te laud că mă iubești,
+Te laud că viata mea
+E-n mâna Ta.
+
+[c]
+/: Îți mulțumesc o Tată
+Că sunt al Tău,
+Îți mulțumesc
+Că m-ai salvat! :/
+
+[v2]
+Te laud că mă ajuți
+Te laud ca mă răsplătești,
+Te laud Doamne Sfânt
+Că mă iubești.

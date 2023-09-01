@@ -1,0 +1,35 @@
+[title]
+Cand vine incercarea {author: {Emanuel Sava}, {rcId: {201234}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Când vine încercarea
+Iarăși în viața ta
+Și Cel Rău îți șoptește
+Că-i greu să ieși din ea,
+/: Adu-ți aminte, frate,
+Ce spune-al Său Cuvânt:
+” N-am să te las în valuri,
+O, fiul Meu nicicând!” :/
+
+[v2]
+Când vezi în jur la alții
+Cum toate izbutesc,
+Și strigi în disperare:
+” La mine când Te-oprești?”
+/: Adu-ți aminte, frate
+Că-n astfel de-ncercări
+Trăiești înălțătoare
+În rugăciune stări :/
+
+[v3]
+Prin lupte și necazuri
+Ne-ai scris ca să pășim,
+Că la sfârșit de toate
+Cununa s-o primim.
+/: Să fim lângă Acela
+Ce-a biruit și El,
+Și-n dragostea-Ți de Tată
+Ne-a strămutat în Cer :/

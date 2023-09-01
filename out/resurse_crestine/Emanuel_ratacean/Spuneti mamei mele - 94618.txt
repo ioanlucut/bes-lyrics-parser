@@ -1,0 +1,29 @@
+[title]
+Spuneti mamei mele {author: {Emanuel Rătăcean}, {rcId: {94618}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când eram eu numai prunc mic o, cum mă bucuram,
+Făceam bucurie mamei când eu o ascultam,
+Și acum ea s-a dus în cer eu slab rămân aici,
+Spuneți mamei mele, acolo-i fi..
+
+[c]
+Spuneți mamei mele că-n cer și eu voi fi
+Îngerilor acolo mă duceți!
+Spuneți mamei mele că-n cer și eu voi fi
+Ingeri spuneti mamei, acolo-i fi.
+
+[v2]
+Eu câte-odată eram rău, ea totuși m-a iubit,
+Cu iubire și răbdare către mine a privit,
+De multe ori ca un copil o tot nelinișteam,
+Spuneți mamei mele, acolo-i fi..
+
+[v3]
+Când eu am devenit adult cu totul rătăcit,
+Ea s-a rugat pentru mine până a adormit,
+Și acum e fericită, ea-i la Domnul Isus,
+Spuneți mamei mele, acolo-i fi..

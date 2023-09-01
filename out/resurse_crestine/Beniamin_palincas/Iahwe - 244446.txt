@@ -1,0 +1,26 @@
+[title]
+Iahwe {author: {Beniamin Palincaș}, {rcId: {244446}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+/: Domnul oștirilor e Rege al regilor,
+Iahwe, Iahwe!
+Cu El noi am umblat, în mare pe uscat,
+Iahwe, Iahwe! :/
+
+[c]
+/: Iahwe, arată-mi slava Ta,
+” Cel ce sunt, Eu sunt”
+În cer și pe pământ! :/
+
+[v2]
+/: Nu e cuptor încins ca El să fie-nvins,
+Iahwe, Iahwe!
+Brațe dumnezeiești și-n foc te însoțesc,
+Iahwe, Iahwe! :/
+
+[e]
+/: Voi binecuvânta cât viață voi avea,
+Lucrările Tale le voi lăuda! :/ ×4

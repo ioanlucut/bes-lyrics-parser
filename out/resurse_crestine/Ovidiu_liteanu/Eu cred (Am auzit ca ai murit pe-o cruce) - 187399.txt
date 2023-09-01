@@ -1,0 +1,29 @@
+[title]
+Eu cred (am auzit ca ai murit pe-o cruce) {author: {Ovidiu Liteanu}, {rcId: {187399}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Am auzit că ai murit pe-o cruce
+Eu cred Isus ce spui în Sfânta Carte
+/: Că pentru mine-un păcătos Isuse
+Ai suferit ca să mă scapi de moarte :/
+
+[v2]
+Eu cred Isus că Tu ierți păcătoșii
+Eu cred Isus că Tu dai Mântuire
+/: Că vine ziua sfantă a judecății
+Și-i duci în Rai pe cei ce cred în Tine :/
+
+[v3]
+Iar cine crede va veni la Tine
+Se va întoarce să se pocăiască
+/: Va părăsi păcatul cel din lume
+Și va trăi-n lumina Ta cerească :/
+
+[v4]
+O, prieten drag ai auzit chemarea
+Te-ncrede-n Domnul care îți vorbește
+/: Isus Hristos acum îți dă iertarea
+Întoarce-te și azi te mântuiește :/

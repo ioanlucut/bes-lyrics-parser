@@ -1,0 +1,29 @@
+[title]
+Canta inima ta (you can have a song in your heart) {author: {Ira F. Stanphill, Traducere RO}, {rcId: {103787}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când durerea te doboară-n clipa grea
+Ai în suflet o cântare
+Când ai lacrimi ce îți curg pe fața ta
+Al tău cânt va mângâia inima ta.
+
+[c]
+Nu-nceta să cânți cu toată inima
+Oricând ți-este greu, pe-al tău drum mereu;
+Sub cerul senin e ușor a cânta
+Dar și când ți-e greu cântă inima ta!
+
+[v2]
+Nu lăsa îngrijorarea să îți ia
+Al tău cântec plin de suflet
+Zorii dimineții tu îi vei vedea
+Lasă cântul tău să umple ființa ta.
+
+[v3]
+Vălul nopții în curând va dispărea
+Ce-ncântare, Domnul vine!
+Până-atunci noi vom sluji, ne vom ruga
+Și-n acea zi de-mpliniri toți vom cânta.

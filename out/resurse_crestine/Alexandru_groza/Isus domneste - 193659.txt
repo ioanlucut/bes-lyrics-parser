@@ -1,0 +1,29 @@
+[title]
+Isus domneste {author: {Alexandru Groza}, {rcId: {193659}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Isus domnește-n cer și pe pământ, mare este Slava Sa
+El este Domnul veșniciilor, lăudăm Numele Lui
+Isus domnește-n cer și pe pământ, peste-ntregul univers
+De bucuria mântuirii Lui lăudăm Numele Lui
+
+[c]
+Ca Soarele ce strălucește-n zori
+Dumnezeu este mereu cu noi
+El e credincios, o, veniți, cântați
+Lui să vă-nchinați!
+
+[v2]
+Isus domnește-n cer și pe pământ, o ce plăcut e-al Lui Cuvânt
+Ne dă puteri să-L binecuvântăm, veniți să ne-nchinăm!
+În Duhul Lui Sfânt să ne unim, cu toții-n pace să trăim
+Să prețuim iubirea Domnului, cântați mărire Lui!
+
+[v3]
+Isus domnește și El va domni în viața mea cât voi trăi
+Cerurile i se închină Lui, lăudăm Numele Lui!
+În Duhul Lui Sfânt noi să ne unim, cu toții-n pace să trăim
+Să prețuim iubirea Domnului, cântați mărire Lui!

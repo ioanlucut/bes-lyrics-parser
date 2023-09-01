@@ -1,0 +1,35 @@
+[title]
+Vocea ta (am auzit vocea ta isus) {author: {Ovidiu Liteanu}, {rcId: {183404}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Am auzit Vocea Ta Isus
+Și mi-ai străpuns inima
+Sunt rușinat de-al meu murdar trecut
+Dar cred că Tu mă vei ierta
+
+[c]
+/: Rămâi cu mine Iubit Stăpâne
+Să fiu creștin cu-adevărat pe Calea Ta
+Să zbor Isuse spre zări senine
+Ca porumbelul când mă vei chema :/
+
+[v2]
+Am auzit vocea ta Isus
+Și inima Ți-am deschis
+Te rog acum să intri-n viața mea
+Să fiu cu Tine-n Paradis
+
+[v3]
+Și Te mai rog Iubitul meu Isus
+O altă inimă să-mi dai
+Să nu mai bată pentru ce-i păcat
+Să bată numai pentru Rai
+
+[v4]
+Pân’ la sfârsit cu Tine voi trăi
+Mă-ncred în tot ce mi-ai vorbit
+Și cred Isuse că-ntr-o bună zi
+Ȋn cerul tau voi fi răpit

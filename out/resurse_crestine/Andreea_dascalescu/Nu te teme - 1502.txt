@@ -1,0 +1,29 @@
+[title]
+Nu te teme {author: {Andreea Dascalescu}, {rcId: {1502}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Nu te teme căci Eu sunt cu tine
+Nu te uita cu îngrijorare
+Căci Eu sunt Dumnezeul tău,
+Eu te întăresc
+Și tot Eu îți vin în ajutor
+Eu te sprijinesc
+Cu dreapta Mea biruitoare.
+
+[c]
+Căci Eu sunt Domnul tău,
+Sunt Dumnezeul tău
+Te iau de mână și iți zic:
+„
+Nu te teme de nimic,
+Nu te teme de nimic, ești fiul Meu”.
+
+[v2]
+Nu te teme căci Eu sunt cu tine
+Chiar dacă-ar fi să treci în noapte
+Prin văi adânci sau prin furtuni
+Te voi lumina, voi fi mereu în preajma ta
+Te voi sprijini cu dreapta Mea biruitoare.

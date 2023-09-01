@@ -1,0 +1,41 @@
+[title]
+Mai tine doamne pe batranii {author: {Anonim}, {rcId: {66410}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7,v8,v9
+
+[v1]
+Mai tine Doamne pe batranii, mai tine perii albi si azi.
+/: I-ai pus carmuitori si buni sa carmuiasca ai Tai vlastari :/
+
+[v2]
+In mana fratilor batranii sa crestem drept ne-ai ocrotit
+/: Nici grindina si nici furtuni, lastarii Tai nu au vazut :/
+
+[v3]
+O! tu copil al lui Isus, in fata perilor albiti
+/: Ridica-te smerit in sus, respecta-i anii ofiliti :/
+
+[v4]
+Ia sfatul lui ca o lumina, o candela de imprumut.
+/: Batranul ce e ca stejarul, anii grei i-a petrecut :/
+
+[v5]
+Tu inca nu cunosti ce-i bruma, ce e prigoana nu cunosti.
+/: Lastarul n-a trait furtuna, nu cunoaste ce-s poveri :/
+
+[v6]
+O! creste mare in credinta, du-ti radacinile in adanc
+/: Veni-v-or vremi de suferinta si prigoana pe pamant :/
+
+[v7]
+Veni-v-or vremi cu a ta coroana, pe altii mici sa-i ocrotesti
+/: Si-n tine sufletul sa geam dar ranit sa nu te arati :/
+
+[v8]
+Ajuta Doamne tineretul cu seva Ta sa ii hranesti
+/: Sa semene cu tine in totul pentru cer sa-i pregatesti :/
+
+[v9]
+Ajuta Doamne pe batranii, prin Duhul Sfant sa-i faci mai tari
+/: I-ai pus sfatuitori si buni sa carmuiasca ai Tai vlastari :/

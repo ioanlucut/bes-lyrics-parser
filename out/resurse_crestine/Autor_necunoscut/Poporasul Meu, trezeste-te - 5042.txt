@@ -1,0 +1,35 @@
+[title]
+Poporasul meu trezeste-te {author: {Anonim}, {rcId: {5042}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+/: Poporașul meu, poporașul meu,
+Trezește-te. :/
+/: Trezește-te, nu dormi,
+Iată, iată, vine Mirele. :/
+
+[v2]
+/: Ia-ți haina curată,
+Duhul cel din slavă, Duhul Sfânt. :/
+/: Căci de mult Eu tot aștept
+A Mea nuntă ca să o încep. :/
+
+[v3]
+/: Și-am să stau la masă-acasă
+Cu a Mea mireasă-aleasă, sus în cer. :/
+/: Și-am să-i cânt din harfe vii
+Cele mai frumoase melodii. :/
+
+[v4]
+/: Oastea cea din cer
+Va-ntreba pe Miel: de unde vi? :/
+/: Mielul le va răspunde:
+Vin de pe pământ, din necaz. :/
+
+[v5]
+/: Vin de pe pământ, de unde-au suferit
+Pentru-acest loc. :/
+/: Dar acum s-a terminat,
+Căci ei hainele și le-au spălat. :/

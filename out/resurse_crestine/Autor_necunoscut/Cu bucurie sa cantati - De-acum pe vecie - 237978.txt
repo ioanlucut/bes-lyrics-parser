@@ -1,0 +1,30 @@
+[title]
+Cu bucurie sa cantati - de-acum pe vecie {author: {Anonim}, {rcId: {237978}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+Cu bucurie să cântați
+Mesia s-a născut
+Vă închinați, Îl lăudați
+/: Pământ și cer de sus :/
+Cântați pământ și cer de sus!
+
+[c]
+De-acum pe vecie noi vom cânta
+De gloria, splendoarea lui Mesia!
+Căci vrednic de-onoare e doar Hristos!
+În veci fericire El ne-a adus!
+
+[v2]
+Cu bucurie să primiți
+Pe Regele ceresc
+În inimă, cu dragoste
+/El să găsească loc/
+Cu drag El să găsească loc!
+
+[b]
+/: Cântați :/ Emanuel
+/: Cântați :/ În noi domnește El!
+/: Cântați :/ Emanuel

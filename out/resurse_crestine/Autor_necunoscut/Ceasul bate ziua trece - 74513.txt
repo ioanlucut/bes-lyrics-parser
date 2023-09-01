@@ -1,0 +1,40 @@
+[title]
+Ceasul bate ziua trece {author: {Anonim}, {rcId: {74513}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Ceasul bate ziua trece
+Oare te-ai gândit
+Câte rele, câte bune
+Azi ai făptuit?
+
+[c]
+/: Judecă copile, judecă mereu
+Răsplătită-i orice faptă
+Sus la Dumnezeu! :/
+
+[v2]
+Nu decchide ușa gurii
+Să-ți zboare ușor
+Vre-un cuvânt ce poartă-n sine
+Gând otrăvitor!
+
+[v3]
+Ale tale mâini curate
+Fie ne-ncetat!
+Nicicând să nu săvârșească
+Fapte de păcat.
+
+[v4]
+Iar picioarele s-alerge
+Iute chiar acum
+Fără nic o șovăire
+Pe-al credinței drum!
+
+[v5]
+Ceasul bate, bate, bate!
+Tica-tica-ta!
+Fă ca Dumnezeu să-ți treacă
+Toată viața ta!

@@ -1,0 +1,23 @@
+[title]
+Zorii bat in geamuri {author: {Nicolae Moldoveanu}, {rcId: {226470}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Zorii bat în geamuri și cocoșul cântă,
+gâște, rațe-n curte toate se frământă.
+Toate-mi spun: copile, repede te scoală,
+spală-te pe față, ca să pleci la școală!
+
+[c]
+Doamne, Ție-Ți mulțumesc,
+când din somn eu mă trezesc!
+Să m-ajuți ca ziua toată
+să fac Voia Ta curată!
+
+[v2]
+Vreau cu sârguință, cum se și cuvine,
+să-mi ascult părinții și să-nvăț ce-i bine.
+Bună hotărâre iau de dimineață,
+și-apoi până seara s-o-mplinesc în viață!

@@ -1,0 +1,50 @@
+[title]
+De ce esti trist {author: {Anonim}, {rcId: {4150}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+De ce esti trist, de ce esti apasat,
+cind bogatii si toate-n viata le-ai aflat.
+De ce tinjesti si de ce viata nu-ti aduce bucurii,
+de ce amice gindurile-ti sint pustii.
+
+[c]
+De ce nu vrei sa crezi
+ca Isus te va salva,
+El te va curatii
+si fericire iti va da.
+Acum daca-i predai
+lui Isus viata ta
+mingiieri si bucurii iti va da.
+
+[v2]
+De esti sarac in cer comoara vei afla,
+de esti bolnav El vindecare iti va da,
+descurajat in viata daca ai sa fi te va-ntari
+si bucurie din belsug tu vei primi.
+
+[c2]
+Azi esti chemat sa crezi
+ca Isus te va salva,
+El te va curatii
+si fericire iti va da.
+Acum daca-i predai
+lui Isus viata ta
+mingiieri si bucurii iti va da.
+
+[v3]
+Si daca crezi si vi la-aceat izvor
+vei cistiga ce nicicind nu-i pieritor:
+un nume scris in cartea vietii pregatita de Isus
+si minunatul paradis peste mormint.
+
+[c3]
+Azi esti chemat sa crezi
+ca Isus te va salva,
+El te va curatii
+si fericire iti va da.
+Acum daca-i predai
+lui Isus viata ta
+mingiieri si bucurii iti va da.

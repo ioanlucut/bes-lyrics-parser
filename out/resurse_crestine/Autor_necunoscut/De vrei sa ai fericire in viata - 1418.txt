@@ -1,0 +1,29 @@
+[title]
+De vrei sa ai fericire in viata {author: {Anonim}, {rcId: {1418}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+De vrei să ai fericire în viață
+Vino la Isus.
+Vino la El cu credință în suflet
+Predă-ți viața Lui.
+
+[c]
+Isus te iubește, Isus te primește
+Azi te mântuiește de orișice păcat.
+Roagă-te Lui astăzi, fii tare-n credință
+Doar prin pocăință poți fii fericit.
+
+[v2]
+De vrei să ai parte de mântuire
+Vino la Isus.
+El S-a jertfit la Calvar pentru tine
+Fiindcă te-a iubit.
+
+[v3]
+De vrei să ai parte de veșnicie
+Vino la Isus.
+El îți dă harul sfânt, veșnicia
+Sus în cerul sfânt.

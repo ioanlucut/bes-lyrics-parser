@@ -1,0 +1,29 @@
+[title]
+Ma-ntorc acasa {author: {Carmen Prodan}, {rcId: {153730}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O, lume-nșelătoare
+Ce mult m-ai amăgit!
+Mi-ai luat ani buni din viață
+Dar azi m-am hotărât!
+
+[c]
+Mă-ntorc, mă-ntorc acasă din drumul rătăcit
+Departe de-al meu Tată, prin lume-am pribegit
+Aud chemarea dulce și vreau să vin și eu
+Din rob să fiu de-a pururi un fiu de Dumnezeu.
+
+[v2]
+Îmi este-așa rușine
+De Tatăl meu cel drag
+Ce-a stat cu ochii-n lacrimi
+Și-a așteptat în prag.
+
+[v3]
+Mă-ntorc cum sunt la Tine
+Cu sufletu-ntristat
+Și vreau să știu Părinte
+Atât, că m-ai iertat.

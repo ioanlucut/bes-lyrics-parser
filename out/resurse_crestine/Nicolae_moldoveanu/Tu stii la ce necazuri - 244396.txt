@@ -1,0 +1,35 @@
+[title]
+Tu stii la ce necazuri {author: {Nicolae Moldoveanu}, {rcId: {244396}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Tu știi Ia ce necazuri, Doamne,
+În lumea asta ne-ai trimis,
+/: Fă să-ndrăznim s-avem credință
+Să biruim cum Tu ai zis. :/
+
+[v2]
+Tu știi că-n Iume-așa ca mieii,
+La lupi ai spus că ne trimiți,
+/: Păzește-ne-ntre ei lsuse,
+Să nu putem fi biruiți! :/
+
+[v3]
+Tu știi ce slabi suntem adesea
+Și ce ispite tari avem,
+/: Fii ne-ncetat cu noi în luptă,
+Și-ajută-ne să nu cădem! :/
+
+[v4]
+Tu știi ce rară e iubirea,
+Și-n lume ce puțin trăim,
+/: Nu-ngădui să fim o, Doamne,
+Prea despărțiți de ce iubim! :/
+
+[v5]
+Tu știi ce grea e-n lumea asta
+Povara slujbei ce ne-o cei,
+/: Dă Doamne celor ce Ie-ai dat-o
+Și inimi pe măsura ei! :/

@@ -1,0 +1,25 @@
+[title]
+S-aplecam urechea {author: {Nicolae Moldoveanu}, {rcId: {235564}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+S-aplecăm urechea la înțelepciune,
+să-i urmărim povața sfântă, cum ne-o spune.
+
+[c]
+Isus e-nțelepciunea, Cuvântul Lui cel greu,
+să-L ascultăm în totul, copii, mereu, mereu.
+
+[v2]
+Toți cei care-ascultă vorbele-nțelepte,
+sunt păziți de toate căile nedrepte.
+
+[v3]
+Să primim îndemnul, dat de-nțelepciune,
+ea rodește-n minte gândurile bune.
+
+[v4]
+Căci înțelepciunea cu-a ei sfântă față,
+e lumina care ne păzește-n viață.

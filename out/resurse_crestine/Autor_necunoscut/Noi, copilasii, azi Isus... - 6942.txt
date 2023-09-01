@@ -1,0 +1,33 @@
+[title]
+Noi copilasii azi isus {author: {Anonim}, {rcId: {6942}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Noi, copilașii, azi Isus,
+Privirea ne-o-ndreptăm în sus
+Spre Tine, scump Mântuitor
+Isuse, bun Păstor.
+
+[c]
+/: Să cântăm, în cor, voios,
+Slăvit să fii Isus, Nume frumos! :/
+
+[v2]
+Suntem micuți, dar vrem cu dor,
+Să bem din sfântul Tău Izvor,
+Din viul Tău Cuvânt să bem,
+C-ai Tăi și noi suntem.
+
+[v3]
+Isuse, Doamne, Te rugăm,
+Să ne ajuți să ascultăm,
+Când Tu ne-nveți cum să trăim
+Cuminți și buni să fim.
+
+[v4]
+Prin Harul Tău, Tu să ne crești
+Să ne conduci cum Tu voiești,
+Și viața cât o vom trăi
+Să Te putem iubi.

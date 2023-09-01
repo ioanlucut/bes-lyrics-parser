@@ -1,0 +1,30 @@
+[title]
+Salvatorul meu imi zice {author: {John S.Norris}, {rcId: {1823}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Salvatorul meu îmi zice,
+Salvatorul meu îmi zice:
+”
+Tu ia-ți crucea și urmează-Mă!”
+
+[c]
+/: Te urmez de-acum, o, Doamne, :/ x3
+Cu credință eu Te voi urma.
+
+[v2]
+Merg cu El în Ghetsimani,
+Merg cu El în Ghetsimani,
+Cu credință eu Îl voi urma.
+
+[v3]
+Merg cu El la judecată,
+Merg cu El la judecată,
+Cu credință eu Îl voi urma.
+
+[v4]
+Îmi dă har și biruință,
+Îmi dă har și biruință,
+Cu credință eu Îl voi urma.

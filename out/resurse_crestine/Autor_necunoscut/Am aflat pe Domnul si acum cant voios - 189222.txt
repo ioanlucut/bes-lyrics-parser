@@ -1,0 +1,41 @@
+[title]
+Am aflat pe domnul si acum cant voios {author: {Anonim}, {rcId: {189222}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+/: Am aflat pe Domnul
+Și-acum cânt voios
+O cântare nouă
+Domnului Hristos. :/
+
+[c]
+/: O viață-ntreagă
+Eu L-am căutat,
+Cânt de bucurie
+Că azi L-am aflat. :/
+
+[v2]
+/: Când m-aplec în rugă
+Mulțumesc mereu,
+C-am aflat pe Domnul,
+Ajutorul meu. :/
+
+[c2]
+/: Azi când sunt cu Domnul
+Traiul mi-e ușor,
+Căci în orice clipă
+Îmi dă ajutor. :/
+
+[v3]
+/: Am aflat pe Domnul
+Și-acum sunt voios,
+Cânt de bucurie
+Că-L am pe Hristos. :/
+
+[c3]
+/: Haideți și voi prieteni,
+Ce nu L-ați aflat,
+Să aflați pe Domnul
+Cel adevărat. :/

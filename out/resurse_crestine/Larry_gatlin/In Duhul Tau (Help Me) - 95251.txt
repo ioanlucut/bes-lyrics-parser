@@ -1,0 +1,26 @@
+[title]
+In duhul tau (help me) {author: {Larry Gatlin, Traducere RO}, {rcId: {95251}}
+
+[sequence]
+v1,c,v2,c,s,c
+
+[v1]
+În Duhul Tău, Tată, să mă conduci
+Sunt slab fără Tine, Domnul meu
+În orice pas, călăuză să-mi fii
+Aproape o, Doamne, să Te simt.
+
+[c]
+În mâna Ta mă simt condus și ocrotit
+Vreau să-Ți urmez căci singur nu pot izbuti
+O, Doamne, prin harul Tău să mă conduci
+Tată, un vrednic ucenic vreau să-Ți fiu.
+
+[v2]
+Pe calea Ta, mă condu noapte și zi
+Izvor de lumină Tu să-mi fii
+Pe calea Ta, ajută-mă să rămân
+Să fiu o lumină pentru toți.
+
+[s]
+Pleacă-Ți urechea spre mine, grăbește de-mi ajută! Fii pentru mine o stâncă ocrotitoare, o cetățuie unde să-mi găsesc scăparea! Psalm 31:2

@@ -1,0 +1,37 @@
+[title]
+Daca te simtesti vreodata trist si apasat {author: {Nicolae Moldoveanu}, {rcId: {5666}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Daca te simtesti vreodata trist si apasat,
+Si de casa parinteasca te-ai indepartat,
+/: O, adu-ti, adu-ti aminte o De cararea dinainte,
+Te va duce la pieire o Daca nu te-ntorci. :/
+
+[v2]
+Vocea sfanta si duioasa striga ne’ncetat:
+„
+O, intoarce-te acasa, fiu indepartat!
+/: Lasa lumea pacatoasa o Si vino, din nou acasa!
+E destul cat pribegit-ai o Fiule pierdut!” :/
+
+[v3]
+Daca te intorci acasa, te vei bucura
+Si inima ta, in Domnul, se va desfata
+/: Caci, din zorii diminetii, o Pana la amurgul vietii,
+Ti-a trimite roua cerul, o Daca te smeresti. :/
+
+[v4]
+Ca si pomul langa apa te vei inviora
+Si inima ta, in Domnul, se va bucura;
+/: Vei striga fara-ncetare: o „
+Esti o Stanca de salvare
+Care mi-a iesit in cale o Si m-a mantuit!” :/
+
+[v5]
+O, intoarce-te acasa, nu mai zabovi!
+Nu mai sta, pe cai desarte, trist si obosit!
+/: Caci iubirea Lui cea mare o Este gata de iertare.
+O, ascult-a Lui chemare, o Pana nu-i tarziu!... :/

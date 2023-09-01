@@ -1,0 +1,42 @@
+[title]
+Tatal nostru ce esti in ceruri {author: {Anonim}, {rcId: {849}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Tatăl nostru ce ești în ceruri,
+Sfințească-se Numele Tău
+Și voia Ta să se facă,
+/: Sfințească-se Numele Tău :/
+
+[v2]
+Precum în cer și pe pământ,
+Sfințească-se Numele Tău
+Și dă-ne nouă pâinea azi
+/: Sfințească-se Numele Tău :/
+
+[v3]
+Și ne iartă greșelile,
+Sfințească-se Numele Tău
+Cum și noi iertăm altora,
+/: Sfințească-se Numele Tău :/
+
+[v4]
+Nu ne lăsa duși în ispită,
+Sfințească-se Numele Tău
+Ne izbăvește de orice rău,
+/: Sfințească-se Numele Tău :/
+
+[v5]
+Că-a Ta este Împărăția,
+Slava și gloria
+În veci de veci, în veci de veci,
+/: Sfințească-se Numele Tău :/
+
+[v6]
+Amin, amin, așa să fie,
+Sfințească-se Numele Tău
+/: Amin, amin, amin, amin
+/: Sfințească-se Numele Tău :
+/:/

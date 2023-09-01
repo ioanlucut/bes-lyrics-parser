@@ -1,0 +1,29 @@
+[title]
+Noi pe domnul laudam (let us with a gladsome mind) {author: {John Milton, Traducere RO}, {rcId: {236361}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Noi, pe Domnul lăudăm
+Bunătatea-I o cântăm;
+Credincios e Dumnezeu
+Bun, milos, în harul Său.
+
+[v2]
+Noi, din inimă cântăm
+Al Său Nume-L înălțăm;
+Credincios e Dumnezeu
+Bun, milos, în harul Său.
+
+[v3]
+La al Său glas minunat
+Mii de stele-au luminat;
+Credincios e Dumnezeu
+Bun, milos, în harul Său.
+
+[v4]
+Orice ființă pe pământ
+O hrănește Tatăl Sfânt;
+Credincios e Dumnezeu
+Bun, milos, în harul Său.

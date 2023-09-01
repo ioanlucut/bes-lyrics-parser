@@ -1,0 +1,23 @@
+[title]
+In smerenie te-ai nascut domnul meu {author: {Gavris Marius}, {rcId: {186027}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În smerenie Te-ai născut, Domnul meu, Isus
+Și cu tot ce am vreau să-ți fiu supus
+
+[c]
+/: Așa a fost ales din veci
+Să fi venit pe pământ, aici
+Într-o iesle din Betleem
+Să se fi născut, Darul suprem :/
+
+[v2]
+Prin Maria profeții au spus că vei veni
+Și pe nori din cer, vei revenii
+
+[v3]
+Din stralucire ai venit, Isus, la noi
+Ca inima de gheață să ni-o înmoi

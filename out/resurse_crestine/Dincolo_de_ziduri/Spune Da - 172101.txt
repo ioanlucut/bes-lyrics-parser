@@ -1,0 +1,41 @@
+[title]
+Spune da {author: {Dincolo De Ziduri}, {rcId: {172101}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Aceeași voce te cheamă
+O recunoști, dar ți-e teamă
+Ai mesajul înțeles
+Dar te ferești să faci ce-i drept!
+Un singur lucru îți spune
+Tu ești chemat pe nume
+Din mulțime-ai fost ales
+Un destin să împlinești
+
+[c]
+Auzi chemarea, nu da ’napoi
+Spune: Da!
+Timpul a trecut, nu mai aștepta
+Astăzi nu e târziu să răspunzi chemării
+Domnului cel viu
+El te cheamă azi
+Spune: Da!
+/: Auzi chemarea, nu da ’napoi
+Spune: Da!
+Timpul a trecut, nu mai aștepta
+Astăzi nu e târziu să răspunzi chemării
+Domnului cel viu
+El te cheamă azi
+Spune: Da! :/
+
+[v2]
+Nu fi respingător
+Când ești chemat de Creator
+Ai o șansă n-o rata
+Să faci lumină-n viața ta
+Cel ce destinul ți l-a scris
+Nu va uita ce a promis
+De partea Lui de vei lupta
+Vei dobândii victoria!

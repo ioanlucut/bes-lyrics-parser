@@ -1,0 +1,29 @@
+[title]
+Poveste de demult {author: {Speranța}, {rcId: {111376}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Haideți oameni să vă spun
+De povestea de demult
+Cum în iesle în Betleem
+Domnul Slavei S-a născut.
+
+[c]
+Aleluia, aleluia, S-a născut Isus!
+Domnul a venit și pace ne-a adus!
+Aleluia, Aleluia, noi Îl lăudăm!
+Pruncului de sus, Lui ne închinăm.
+
+[v2]
+Peste tot răsună vestea
+Ce aduce veselie
+Ca păstorii de la oi
+Mă închin cu bucurie.
+
+[v3]
+A fost o noapte glorioasă
+Cum n-a mai fost niciodată
+A fost atât de luminoasă
+Că nu mai poate fi uitată.

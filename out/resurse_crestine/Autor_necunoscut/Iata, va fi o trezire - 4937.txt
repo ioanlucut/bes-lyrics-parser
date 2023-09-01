@@ -1,0 +1,10 @@
+[title]
+Iata va fi o trezire {author: {Anonim}, {rcId: {4937}}
+
+[sequence]
+v1
+
+[v1]
+Iată, va fi o trezire în țara mea.
+De la Nord-Nord, Sud-Sud, Est și Vest.
+Iată, va fi o trezire în țara mea.

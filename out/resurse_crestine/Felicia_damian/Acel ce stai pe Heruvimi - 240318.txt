@@ -1,0 +1,39 @@
+[title]
+Acel ce stai pe heruvimi {author: {Felicia Damian}, {rcId: {240318}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Acel ce stai pe heruvimi
+Privește din locașul Tău
+Cum ne-au prădat niște străini
+Cum azi în jale și suspin
+Poporul suferă din greu!
+
+[c]
+Ridică-ne, Domnul Oștirilor,
+Fă ca peste noi să strălucească fața Ta
+Ridică-ne, o, Dumnezeule,
+Și vom fi scăpați când Numele Tău îl vom chema!
+
+[v2]
+Tu ne-ai sădit în via Ta
+Vrăjmașul însă-a plănuit
+Și-a năvălit cu-oștirea sa
+În toată moștenirea Ta,
+De tot ce-i sfânt ne-a jefuit!
+
+[v3]
+O, cercetează via Ta
+Căci a ajuns de jaf și râs
+Mănâncă fiarele din ea
+Și rupt e gardul ce-o păzea
+Și-i starea ei de plâns!
+
+[v4]
+Privește iar din cer și vezi
+Ne dă Tu iar mântuirea
+Pe toți să ne înviorezi
+În viața noastră să lucrezi
+Fă să se vadă slava Ta!

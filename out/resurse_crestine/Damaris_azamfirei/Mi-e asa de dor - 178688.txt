@@ -1,0 +1,30 @@
+[title]
+Mi-e asa de dor {author: {Damaris Azamfirei}, {rcId: {178688}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mi-e așa de dor, de Tatăl meu
+Ce mult aș vrea, s-ajung în cer
+Mi-e așa de dor, să Îl privesc
+Și să Îi spun: ”
+Ce mult Îl iubesc”.
+
+[c]
+Dar mult din noapte nu mai e
+Când Doamne, Tu vei apărea
+Pe nori de Slavă în Splendori,
+Mireasa sus o vei lua.
+
+[v2]
+Mi-e așa de dor, de frații mei
+Ce prin credință au înaintat
+Mi-e așa de dor, să îi ascult
+Cum ei, pe Isus L-au urmat.
+
+[v3]
+Mi-e așa de dor, de toții ce-i dragi
+Ce s-au luptat s-ajungă-n cer
+Mi-e așa de dor, s-ajung și eu
+În veșnicii la Tatăl meu.

@@ -1,0 +1,29 @@
+[title]
+Noi azi cu toti te binecuvantam {author: {Anonim}, {rcId: {4011}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Noi, azi cu toți Te binecuvântăm,
+Pentru iubirea ce ne-ai arătat,
+Și cu toții vrem veșnic Să-ți cântăm,
+Căci Doamne, ne-ai salvat!
+
+[c]
+O, ce har minunat, cât de minunat!
+Noi suntem chiar acum, toți copiii Tăi.
+Căci pe Isus în inimi L-am primit
+Da, noi câți L-am iubit.
+
+[v2]
+O, ce mult ne-a iubit când pe Isus
+L-a dat la moarte pentru păcătoși;
+O, măreață-I fu iubirea de sus,
+Cântați dar lui Isus!
+
+[v3]
+Bucuroși pășim cu toți pe cale,
+Îi cântăm slavă și osanale.
+Încurând în slavă, vom fi cu El,
+Cu cerescul nost’ Miel.

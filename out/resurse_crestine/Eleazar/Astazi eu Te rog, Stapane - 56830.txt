@@ -1,0 +1,49 @@
+[title]
+Astazi eu te rog stapane {author: {Eleazar}, {rcId: {56830}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Astăzi eu Te rog, Stăpâne,
+Ruga mea să mi-o asculți
+Și adu-Ți aminte, Doamne,
+De iubirea Ta de sus.
+
+[c]
+Eu Te iubesc, Isuse,
+Când în Golgota ai urcat
+Tu în locul meu atuncea
+Cu păcatul Te-ai luptat.
+Eu Te iubesc, Isuse,
+Tu în Golgota ai murit,
+Prin jertifirea Ta pe cruce
+Eu viață am primit.
+Eu Te iubesc, Isuse,
+Când în Golgota ai urcat
+Tu în locul meu atuncea
+Cu păcatul Te-ai luptat.
+
+[v2]
+Tu Îți aduci aminte, Doamne,
+De păcatul ce îl port
+Și, în îndurarea-Ți mare,
+Iartă-mi azi trecutul tot.
+
+[v3]
+Când mă tem de Tine, Doamne,
+Prietenia Ta îmi e scut,
+Când mă las de Tine, Doamne,
+Sunt ca Saul, om pierdut.
+
+[v4]
+Stânca mea izbăvitoare,
+Tu, păstorul meu cel bun,
+Eu te chem în strâmtorare,
+Tu-mi ești Tată, îmi ești Stăpân.
+
+[v5]
+Fiule, tu ține minte, dacă
+Eu te voi uita,
+Dreapta Mea atunci să-și uite
+Toată iscusința sa.

@@ -1,0 +1,45 @@
+[title]
+Toate se schimba azi in lume {author: {Ionică Stoica}, {rcId: {242740}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,e
+
+[v1]
+Toate se schimbă azi în lume
+Dar cred că ne-am schimbat și noi
+Se simte o mare răceala
+Și pocăința dă ’napoi.
+
+[c]
+Mai vino Doamne-n a mea casă
+De mult Isuse n-ai venit
+Și lasă-Ți pacea Ta divină
+Căci dragostea mult s-a răcit
+Mai vino Doamne-n adunare
+Trezește-ne din ațipiri
+Si fă din ea o scăldătoare
+Așa cum a fost mai demult.
+
+[v2]
+Toate se schimbă azi în lume
+Oare noi de ce ne-am schimbat
+Ne-am săturat de pocăință
+Și iarăși dăm loc la păcat.
+
+[v3]
+Mulți și-au schimbat astăzi în lume
+Conducători, regi și-mpărați
+Isus Cristos, El nu se schimbă
+Căci tot Același a rămas.
+
+[v4]
+Chiar de se schimbă toată lumea
+Tu, frate, rămâi credincios
+Rămâi statornic pe-a ta cale
+Așa cum la-nceput ai fost.
+
+[e]
+Trezește-ne din nou la viață
+Pe calea sfântă să veghem
+Să fim ca cele cinci fecioare
+Ulei în candelă s-avem.

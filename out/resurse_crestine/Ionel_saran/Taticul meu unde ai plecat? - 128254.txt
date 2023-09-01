@@ -1,0 +1,53 @@
+[title]
+Taticul meu unde ai plecat? {author: {Ionel Saran}, {rcId: {128254}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Tăticul meu unde ai plecat?
+Așa mititel tu m-ai lăsat...
+/: Te aștept de-atuncea tot mereu,
+Ca să vii acas’, tăticul meu! :/
+
+[c]
+/: De atunci la geam eu tot privesc,
+Căci doară cumva eu te zăresc...
+Tăticul meu, nu ai mai venit,
+O, pentru ce tu m-ai părăsit? :/
+
+[v2]
+Pe mama eu când am întrebat
+Așa răspuns, ea atunci mi-a dat:
+/: Căci tu ai plecat departe, sus
+Și te-ai dus în țara lui Isus! :/
+
+[c2]
+/: De atunci mult timp a trecut
+Și tăticul meu n-a mai venit...
+Pe mama o văd îngenunchind
+Și haine de jale tot purtând. :/
+
+[v3]
+Într-o zi mămica mea mi-a spus:
+Că-i dus în Țara lui Isus,
+/: Între stele el va locui
+Și de-acolo, de sus, mă va privi! :/
+
+[c3]
+/: Eu seara spre stele tot privesc,
+Căci doară cumva eu te zăresc...
+Tăticul meu, vino de mă ia,
+Să fiu aproape a te vedea! :/
+
+[v4]
+Pe mama eu când am întrebat
+Mi-a spus de un Tată adevărat,
+/: Care de grijă El mi-a purtat
+Și-n întristări pe min’ m-a mângâiat! :/
+
+[c4]
+/: Aștept momentul ca să fiu dus
+Acolo, în Țara lui Isus
+Pe al meu tătic să-l pot vedea!
+Și eu și mămica mea. :/

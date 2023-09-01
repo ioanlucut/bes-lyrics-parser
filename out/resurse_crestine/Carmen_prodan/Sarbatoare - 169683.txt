@@ -1,0 +1,29 @@
+[title]
+Sarbatoare {author: {Carmen Prodan}, {rcId: {169683}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Când spunem „ Sărbătoare”, ce-ascunde acest cuvânt,
+Și care este taina-ntrupării Celui Sfânt?
+/: E doar belșug și daruri și-un brad înveșmântat?
+Sărbătoritul unde-i? De El mulți au uitat! : \
+
+[v2]
+Aleargă fiecare, e-un freamăt nedescris.
+Să-și facă-o sărbătoare frumoasă, ca de vis.
+/: În iesle-i frig și Pruncul suspină-ntr-un ungher,
+Că-n casă n-are nimeni un loc și pentru El! : \
+
+[v3]
+A câta oară, Doamne, din noune amintești
+Că Tu-ai venit în lume ca să ne mântuiești,
+/: De-aceea cu-adorare vrem să Te preamărim,
+Căci Tu ești Sărbătoarea pe care o dorim! : \
+
+[v4]
+Dorim să vii Isuse din nou aicea jos,
+Ca să ne iei cu Tine în Cerul Tău frumos.
+/: Și vom uita de-apururi tot ce am suferit,
+Trăi-vom Sărbătoarea cea fără de sfârșit! : \

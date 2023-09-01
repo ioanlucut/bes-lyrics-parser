@@ -1,0 +1,35 @@
+[title]
+Fii binecuvantata ziua {author: {Nicolae Moldoveanu}, {rcId: {244373}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Fii binecuvântată ziua,
+În care Tatăl îndurat,
+/: M-a-mbrățișat pe totdeauna,
+Aflatul fiu de mult plecat. :/
+
+[v2]
+Fii binecuvântată ziua,
+În care m-am întors aflând,
+/: Și haina nouă și ospățul
+Din casa Tatălui meu blând. :/
+
+[v3]
+Fii binecuvântată ziua,
+În care m-a primit Hristos,
+/: Și-n care mi-a umplut viața,
+Cu cerul larg și luminos. :/
+
+[v4]
+Fii binecuvântată ziua,
+Din care către cer întind,
+/: Prin lacrimi brațele credinții,
+Cu care știu c-o să-L cuprind. :/
+
+[v5]
+Fii binecuvântată ziua,
+Ce mă îndemni s-alerg mereu,
+/: Și să mă lupt s-ajung cununa,
+Cu care-așteaptă Domnul meu! :/

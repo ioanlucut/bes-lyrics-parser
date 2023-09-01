@@ -1,0 +1,41 @@
+[title]
+Amandoi {author: {Marius Gorcea}, {rcId: {202089}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Când valul se ridică, și îmi este frică o Doamne fii cu mine
+Plin de ceață numai am sperantă, rămâi și atunci cu mine
+Când vântul și furtuna, lovește întruna, te rog ajutămă
+Când este greu, mă rog mereu o Doamne scapă-mă.
+
+[c]
+/: Nu mă lăsa Isuse
+În mocirlă și noroi
+Pe cărarea vesniciei
+Vreau să mergem amândoi. :/
+
+[v2]
+Când boala mă ajunge și viața mise stinge, vreau să-mi dai credință
+Când voi trece pragul doresc să flutur steagul de biruniță
+Să nu dau napoi prin orice nevoi vreau să naintez
+Când negura e mare și cel rău dă tărcoale, ajutamă să veghez.
+
+[c2]
+/: Nu mă lăsa Isuse
+Când sunt în nevoi
+La bine și la greu
+Să fim amândoi. :/
+
+[v3]
+Chiar de m-as pierde tot ce se vede nu ar conta
+Dar doresc, mā străduiesc să nu pierd mântuirea
+În ziua mare la sărbătoare vreau să fiu și eu
+Cu mirele dorit cu mirele iubit cu Tine Domnul meu.
+
+[c3]
+/: Nu mă lăsa Isuse
+La judecata deapoi
+Vreau în cerul Sfânt
+Să fim amândoi. :/

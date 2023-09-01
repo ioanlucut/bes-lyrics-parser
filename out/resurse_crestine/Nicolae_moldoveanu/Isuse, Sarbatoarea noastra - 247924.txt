@@ -1,0 +1,26 @@
+[title]
+Isuse sarbatoarea noastra {author: {Nicolae Moldoveanu}, {rcId: {247924}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Isuse, Sărbătoarea noastră plină,
+Țesut-adânc din fire de lumină,
+În Tine, Sărbătoare neumbrită,
+/: Trăim orice mișcare odihnită! :/
+
+[c]
+Laudă, ne-nchinăm cu laudă!
+
+[v2]
+Isus, din Tine-avem o nouă viată,
+O proaspătă și sfântă Dimineață,
+Cu haruri și cerească bucurie,
+/: Spre slava Tatălui și-a Ta-n vecie! :/
+
+[v3]
+Cu laudă și-aprinsă mulțumire,
+Țâșnite din credință și iubire,
+Aducem jertfele cu închinare,
+/: Pe-a duhului și-a trupului altare! :/

@@ -1,0 +1,23 @@
+[title]
+Te voi salva nu te voi lasa {author: {Ionel Saran Bochis}, {rcId: {111183}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+O, omule ce te-am creat,
+Pe Fiul meu jertfă Eu L-am dat!
+O, pentru tine-am suferit,
+Căci Eu pe tine mult te-am mai iubit!
+
+[c]
+Te voi salva, nu te voi lăsa,
+Voi fi mereu ajutorul tău!
+Te voi sfinți și te voi iubi,
+Și în necaz te voi sprijini!
+
+[v2]
+Eu nicidecum n-am să te las,
+Doar cheamă-Mă în ziua de necaz!
+Nu, nu am să vă părăsesc
+Voi fi cu voi și-n zilele de-apoi!

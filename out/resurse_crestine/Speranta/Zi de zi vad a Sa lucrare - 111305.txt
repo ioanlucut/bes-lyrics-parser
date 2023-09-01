@@ -1,0 +1,29 @@
+[title]
+Zi de zi vad a sa lucrare {author: {Speranța}, {rcId: {111305}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Zi de zi văd a Sa lucrare,
+Împrejurul meu;
+Soare, luna, stele toate,
+Păzesc Cuvântul Său.
+
+[c]
+/: Veșnic, veșnic este Domnul;
+Dumnezeul mare.
+El este Stăpân pe toate
+N-are asemănare. :/
+
+[v2]
+Zi de zi văd a Sa lucrare,
+Împrejurul meu.
+Primăvara, vara, toamna, iarna,
+Ascultă Cuvântul Său.
+
+[v3]
+Zi de zi văd a Sa lucrare
+Împrejurul meu;
+El conduce lumea întreagă
+Prin Cuvântul Său.

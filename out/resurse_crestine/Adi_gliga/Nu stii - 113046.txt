@@ -1,0 +1,23 @@
+[title]
+Nu stii {author: {Adi Gliga}, {rcId: {113046}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Nu știi cât timp ți-a mai rămas
+Dar știi c-ai auzit un Glas.
+Te-a chemat, te-a strigat
+Totuși, tu l-ai refuzat.
+
+[c]
+Te cheamă Dumnezeu acum
+Spre cer să mergi cu El pe drum
+Te cheamă Dumnezeu, te vrea
+Primește-n dar dragostea Sa.
+
+[v2]
+Da, greu, cu lacrimi L-ai chemat
+Știi că El nu te-a lăsat.
+Te-a dorit, te-a iubit
+Totuși, tu L-ai părăsit.

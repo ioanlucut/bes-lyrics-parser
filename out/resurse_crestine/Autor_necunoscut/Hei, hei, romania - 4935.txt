@@ -1,0 +1,29 @@
+[title]
+Hei hei romania {author: {Anonim}, {rcId: {4935}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+Hei, Hei, România,
+Hei, Hei, Timișoara,
+Hei, Hei, România,
+Mântuire.
+
+[v1]
+Încă un pas în Numele Lui,
+Vom câștiga România pentru Isus
+Și nu vom da ’napoi și nu ne vom opri,
+Vom câștiga România pentru Isus.
+
+[v2]
+Vom birui în Numele Lui,
+Vom câștiga România pentru Isus
+Și nu vom da ’napoi și nu ne vom opri,
+Vom câștiga România pentru Isus.
+
+[v3]
+Vom preamări doar Numele Lui,
+Vom câștiga România pentru Isus
+Și nu vom da ’napoi și nu ne vom opri,
+Vom câștiga România pentru Isus.

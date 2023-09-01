@@ -1,0 +1,29 @@
+[title]
+Unde-i dragostea? {author: {Estera Florescu}, {rcId: {190617}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+/: Unde-i dragostea?
+Unde-i pacea Mea?
+Ce ți-am dăruit-o ție :/
+
+[c]
+S-au pierdut, nu mai e nimic,
+Și ai uitat cum te rugai
+Cu foc pentru ele
+Dragoste nu mai ai
+Iar pacea ai transformat-o iar
+În ură, doar în ură.
+S-au pierdut, nu mai e nimic,
+Și ai uitat cum te rugai
+Cu foc pentru ele
+Iertare nu mai dăruiești
+Și tu nu mai nădăjduiești
+În Mine, te îndoiești.
+
+[v2]
+/: Unde-i iertarea?
+Unde-i nadejdea?
+Ce Mi-ai cerut-o de la Mine :/

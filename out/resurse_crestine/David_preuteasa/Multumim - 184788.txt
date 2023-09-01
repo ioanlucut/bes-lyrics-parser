@@ -1,0 +1,41 @@
+[title]
+Multumim {author: {David Preuteasa}, {rcId: {184788}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mulțumim pentru necazuri
+Ce le-ngădui peste noi
+Tu ne-ai fost mereu alături
+În durere și-n nevoi
+
+[c]
+Mulțumim pentru-ajutorul
+Dăruit în clipa grea
+Doar Tu ești Izbăvitorul
+Doamne ești tăria mea
+Mulțumim pentru locașuri
+Care-n Cer sunt pregătite
+Pentru răsplătiri de veacuri
+Ce au fost făgăduite
+Vom pași pe străzi de aur
+Sus în Cer în veșnicie,
+Vom cânta imnuri de slavă
+Vom fi plini de bucurie.
+Mulțumim pentru locașuri
+Care-n Cer sunt pregătite,
+Pentru răsplătiri de veacuri
+Ce au fost făgăduite.
+
+[v2]
+Mulțumim de Calea vieții
+Aratată prin Cuvânt
+Pentru harul pocăinței
+Revărsat prin Duhul sfânt
+
+[v3]
+Mulțumim pentru credința
+Ce-ai sădit-o-n noi Isus
+Toți trăim cu siguranța
+Că vom ajunge-n ceruri sus

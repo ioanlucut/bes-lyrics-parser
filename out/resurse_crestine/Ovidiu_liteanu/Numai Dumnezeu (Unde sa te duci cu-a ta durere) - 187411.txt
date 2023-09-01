@@ -1,0 +1,29 @@
+[title]
+Numai dumnezeu (unde sa te duci cu-a ta durere) {author: {Ovidiu Liteanu}, {rcId: {187411}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Unde să te duci cu-a ta durere
+Oare cine te va mângâia?
+/: Numai Dumnezeu, numai Dumnezeu,
+Și de tine se va îndura! :/
+
+[v2]
+Unde să te-ascunzi când e furtună
+Cine oare te va ocroti?
+/: Numai Dumnezeu, numai Dumnezeu,
+În iubirea Lui te va păzi! :/
+
+[v3]
+Când ești părăsit și plângi întruna
+Că de tine toți s-au depărtat,
+/: Numai Dumnezeu, numai Dumnezeu,
+Prieten îți va fi cu-adevărat! :/
+
+[v4]
+Când de la spital te-au dat acasă
+Că e tare gravă boala ta,
+/: Numai Dumnezeu, numai Dumnezeu,
+Tu să crezi că El te-o vindeca! :/

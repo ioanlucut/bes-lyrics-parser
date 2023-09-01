@@ -1,0 +1,29 @@
+[title]
+Cu un cant de multumire {author: {Alexandru Groza}, {rcId: {185503}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Cu un cânt de mulțumire, ne-nchinăm Numelui Tău, Isus
+Mai presus de-orice pe acest Pământ este Numele Tău sfânt
+Bunătatea Ta cea mare, revărsat-ai Doamne, prin cuvânt
+Și în orice zi Tu ne însoțești și puteri ne dăruiești!
+
+[c]
+Ești așa de mare, în cer locuiești
+Peste tot Pământul, Doamne, Tu privești
+Totul se supune la-al Tău cuvânt
+Slavă Numelui Tău Sfânt!
+
+[v2]
+Cu recunoștință mare, azi venim, Doamne, ’naintea Ta
+Tu pătrunzi gândirea, inima, Tu ne dai din pacea Ta
+În tot mersul vieții noastre, adorăm, Doamne, prezența Ta
+Tu primește azi închinarea mea, sinceră-naintea Ta!
+
+[e]
+Sufletul meu Te așteaptă ca să vii,
+Te adoră, se înalță către veșnicii
+Sunt făptura Ta, ce Tu m-ai creat,
+Eu te laud ne-ncetat!

@@ -1,0 +1,29 @@
+[title]
+As vrea sa zbor mai sus de nori {author: {Otniel Stirb}, {rcId: {6556}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Aș vrea să zbor mai sus de nori
+Mai sus de zări, mai sus de stele
+Aș vrea sa-ajung la Domnul meu
+În țara dorurilor mele.
+
+[c]
+Ierusalime, Ierusalime,
+Aș vrea să locuiesc în tine
+Ierusalime, oraș frumos
+Domnește în tine, Isus Hristos.
+
+[v2]
+Mă arde un dor, mă arde un gând
+Un dor de tine m-a cuprins
+Să părăsesc acest pământ
+S-ajung la Tine, în paradis.
+
+[v3]
+Acolo nu vor mai fi lacrimi
+Dureri și plâns, și-amenințări
+Acolo sus, domnește o pace
+Și-n Duhul Sfânt sunt desfătări.

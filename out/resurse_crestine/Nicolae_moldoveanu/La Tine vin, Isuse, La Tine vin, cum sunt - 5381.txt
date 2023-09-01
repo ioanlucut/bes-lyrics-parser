@@ -1,0 +1,28 @@
+[title]
+La tine vin isuse la tine vin cum sunt {author: {Nicolae Moldoveanu}, {rcId: {5381}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+La Tine vin, Isuse, La Tine vin, cum sunt!
+Primeste-ma, cu mila, La pieptul Tau cel sfant!
+
+[c]
+/: Eu n-am ce-Ti da :/ Numai inima mea. :/ x2
+
+[v2]
+Primeste-ma, cu mila, Si da-mi ulei in vas,
+Sa nu cad de pe cale, Chiar cand sunt in necaz.
+
+[v3]
+Cand valurile cresc Asupra-mi navalesc,
+Ajuta-ma, Isuse, Sa pot sa biruiesc!
+
+[v4]
+Si Te mai rog, Isuse, Intareste-altarul meu
+Acolo unde, zilnic, Eu chem Numele Tau!
+
+[v5]
+Apoi, sfinteste-mi viata Sa pot ingenunchea,
+Cantandu-Ti osanale, Doamne, spre slava Ta!

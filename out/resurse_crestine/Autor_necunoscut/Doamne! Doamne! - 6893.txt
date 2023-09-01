@@ -1,0 +1,40 @@
+[title]
+Doamne doamne {author: {Anonim}, {rcId: {6893}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Doamne! Doamne!
+Esti adapostul nostru, un sprijin in nevoi.
+Doamne! Doamne!
+Esti adapostul nostru, in veci ramai cu noi.
+De acea nu ne temem
+De s-ar misca pamantul,
+Si muntii de s-ar clatina amenintator.
+
+[c]
+Chiar de-ar urla si marea
+Cu ale ei talazuri,
+Tu ne ramai de-a pururi,
+Slavit ocrotitor
+O Doamne, Doamne,
+In veci ocrotitor.
+
+[v2]
+Doamne! Doamne!
+Ce mare Ti-e puterea si indurarea Ta
+Doamne! Doamne!
+Noi iti slavim iubirea ce-n veci ne va purta.
+Ne esti ocrotitorul
+Si in veci un sprijin,
+Ne esti mantuitorul
+ce ne-nsotesti mereu.
+
+[c2]
+Noi iti pastram credinta
+Urmam a Ta indrumare
+Caci Tu ne esti salvare
+In orice-mprejurare
+O Doamne, Doamne,
+Noi slava iti cantam.

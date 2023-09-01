@@ -1,0 +1,31 @@
+[title]
+Pe marea acestei lumi {author: {Speranța și prietenii}, {rcId: {202706}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pe marea acestei lumi valuri vin
+Lovesc în barca vieții din plin
+Furtuna se-ntețește-n jurul meu
+La cârma vieții este Dumnezeu!
+
+[c]
+La glasul Lui marea se oprește
+La glasul Lui furtuna se liniștește
+/: Când Domnu-și întinde mâna
+Oricât de mare e furtuna, ea tace că El e Dumnezeu!
+De El ascultă vântul, a creat cerul si pământul,
+Acesta este Dumnezeul meu! :/
+
+[v2]
+Când norii negri se îngrămădesc
+Și în furia lor se-năpustesc,
+Când m-amenință valul furios
+La cârma vieții mele e Hristos!
+
+[v3]
+Vâslesc pe marea vieții spre liman
+Am s-ajung curând în Canaan,
+Nu mă tem, oricât va fi de greu
+La cârma vieții mele e Dumnezeu!

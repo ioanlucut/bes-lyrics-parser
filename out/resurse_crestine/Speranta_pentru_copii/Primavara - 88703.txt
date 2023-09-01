@@ -1,0 +1,29 @@
+[title]
+Primavara {author: {Speranța pentru copii}, {rcId: {88703}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Primăvara florile răsar
+Primăvara vine, vine iar
+Primăvara e iarbă pe câmpie
+Primăvara aduce bucurie.
+
+[c]
+Iarna a trecut, zăpada se topește
+În fiecare zi, afară se-ncălzește
+Totul e-n schimbare, copacii au înmugurit
+E bucurie, e veselie, Primăvara a sosit!
+
+[v2]
+Oile și mieii, zburdă pe ogor
+Rândunicile se-ntorc la cuibul lor
+Îmi las săniuța, bicicleta mi-am găsit
+E bucurie, e veselie, Primăvară a sosit!
+
+[v3]
+Vine Primăvara cea mult așteptată
+Natura întreagă se trezește la viață
+Iarna e departe, gerul greu s-a dus
+Tot la fel eu voi învia, când va veni Domnul Isus.

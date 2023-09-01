@@ -1,0 +1,29 @@
+[title]
+Intr-o zi un strajer va suna {author: {David Stănuș}, {rcId: {153074}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Într-o zi, un străjer va suna,
+Și-auzind trâmbița vom cânta.
+Universul întreg va cânta
+Simfonii Domnului!
+
+[c]
+/: Toți pentru-acea zi
+Toți să ne pregătim
+Toți pentru-acea zi
+Gata să fim! :/
+
+[v2]
+Cu alai, chiar Isus va apărea
+Orice ochi Îl va vedea, sus pe nori
+Vor vedea pe Isus
+Și cei ce l-au străpuns la Calvar.
+
+[v3]
+Trâmbița, în văzduh va suna,
+Cei ce sunt în mormânt vor învia
+Acei care i-au slujit
+Și cei care L-au iubit, s-or înălța!

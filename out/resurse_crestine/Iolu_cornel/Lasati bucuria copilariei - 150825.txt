@@ -1,0 +1,29 @@
+[title]
+L~asati bucuria copil~ariei {author: {Iolu Cornel}, {rcId: {150825}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+/: Lăsați bucuria copilăriei azi să curgă
+În inimile noastre de copii
+Lăsați bucuria copilăriei să inunde
+Viața noastră-n fiecare zi :/
+
+[v1]
+/: Și voi ați fost ca noi copii
+Și noi vom crește ca și voi
+Căci timpul trece repede
+Și ceasul nu merge înapoi :/
+
+[v2]
+/: Și voi ați fost ca noi copii
+Și v-ați jucat cu jucării
+Cu mașinuțe și păpuși
+Dar astăzi voi sunteți adulți :/
+
+[v3]
+/: Domnul ne spune să fim sfinți
+În fiecare zi cuminți
+Noi vă rugăm să ne iertați
+Dar vă rugăm să și lăsați :/

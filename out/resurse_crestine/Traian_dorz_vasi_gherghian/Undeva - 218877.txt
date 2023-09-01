@@ -1,0 +1,42 @@
+[title]
+Undeva {author: {Traian Dorz, Vasi Gherghian}, {rcId: {218877}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Undeva-ntr-o odăiță
+Lacrimile nu mai curg,
+Undeva-ntr-o odăiță
+Cineva nu se mai roagă,
+
+[v2]
+Nu mai stă-n genunchi și-n taină,
+Nu mai cântă în amurg
+Dragostea, cândva fierbinte,
+/: Nu-i curată, nici întreagă. :/
+
+[v3]
+Undeva nu se mai cântă
+Azi din psalmii minunați,
+Undeva sub praf uitată
+Zace Biblia iubită,
+
+[v4]
+Împrejurul unei mese
+Nu se mai adună frați,
+La o ușă încuiată
+/: Stă iubirea neprimită. :/
+
+[v5]
+Acel ”undeva”, Isuse
+Este chiar în casa mea
+Dar mă-ntorc în odăiță
+Ție să-Ți dau inima.
+
+[v6]
+/: Să mă bucur, să fiu liber,
+Laude să-Ți aduc mereu
+Și din nou cu trup și suflet
+/: Pe deplin să fiu al Tău. :
+/:/

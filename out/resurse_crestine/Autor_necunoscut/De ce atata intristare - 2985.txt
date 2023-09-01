@@ -1,0 +1,36 @@
+[title]
+De ce atata intristare {author: {Anonim}, {rcId: {2985}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+De ce-i atâta întristare ?
+Dureri atâtea pe pământ ?
+Greu inima ades mă doare
+O, vino Doamne mai curând!
+
+[c]
+Oprește-te o clipă lângă mine
+Și vezi-mi starea mea cea grea
+Nu mă lăsa!
+Durerea ce m-apasă este mare
+Și nu mi-o știe nimenea
+
+[v2]
+De ce-s atâtea obstacole în cale ?
+Atâta plâns și-atât oftat ?
+Greu inima ades mă doare
+O, vino Isuse minunat!
+
+[v3]
+Voi înțelege dar nu acuma
+De ce-s atâtea pe pământ
+Greu inima ades mă doare
+O, vino Isuse mai curând!
+
+[v4]
+Când noi vom fi cu toți în slavă
+Pe tine te vom lăuda
+Și vom intra cu sfinții-n slavă
+Și suferința noi o vom uita.

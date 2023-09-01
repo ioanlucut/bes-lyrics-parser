@@ -1,0 +1,31 @@
+[title]
+Doamne tie-ti voi canta {author: {Natanael Neag}, {rcId: {236875}}
+
+[sequence]
+v1,c,v2,c,v3,c,e,c
+
+[v1]
+Dimineața când mă trezesc, soarele cand îl privesc
+Ma închin lui Dumnezeu și-i mulțumesc
+/: Pentru razele de soare, pentru a cerului splendoare,
+Pentru mare îndurare-i mulțumesc. :/
+
+[c]
+/: Doamne Ție-ți voi canta, veșnic Te voi lauda,
+Pentru tot ce ai facut în viața mea :/
+
+[v2]
+Cand la masa mă așez, eu nu pot să neglijez,
+Cand mă-nchin lui Dumnezeu și-i mulțumesc.
+/: Pentru ziua minunată, pentru hrana-mbelșugată,
+Pentru tot ce El îmi da îi multumesc. :/
+
+[v3]
+La culcare când mă duc, Domnului eu îi aduc
+Laudă și închinare-n rugăciuni.
+/: Pentru ziua ce-a trecut, pentru grija ce-am avut,
+Pentru tot ce-n viata mea El a facut. :/
+
+[e]
+/: Eu iți cânt și-ți mulțumesc
+Vreau cu toată inima să îți slujesc. :/

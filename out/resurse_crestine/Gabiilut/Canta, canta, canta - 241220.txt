@@ -1,0 +1,29 @@
+[title]
+Canta canta canta {author: {Gabi_Ilut}, {rcId: {241220}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când privești în boboci trandafirul,
+Și vezi flori ce te încântă mereu;
+Când aduce miros de crin vântul:
+Lângă tine e să știi Dumnezeu!
+
+[c]
+/: Atunci cântă, cântă, cântă;
+Zâmbește, zâmbește mereu.
+Atunci cântă, cântă, cântă;
+Se bucură de tine Dumnezeu! :/
+
+[v2]
+Când pe cer luna plină sclipește;
+Și când stelele în horă se prind.
+Dumnezeu iar în taină îți vorbește.
+Planul Său poți să-l vezi strălucind!
+
+[v3]
+Când auzi seara în vale izvorul;
+Și când gâzele freamătă, vin,
+Te cuprinde cu patimă dorul.
+După El: Dumnezeul cel viu!

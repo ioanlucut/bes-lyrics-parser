@@ -1,0 +1,35 @@
+[title]
+Clipa cu clipa s-au dus {author: {Anonim}, {rcId: {172424}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: Clipă cu clipă s-au dus
+Toți anii care s-au scurs,
+Așa au trecut, parcă-n zbor,
+Noi Te-așteptăm cu mult dor! :/
+
+[c]
+/: Privirea-mi caută mereu
+Spre cer și-aștept, Domnul meu,
+Să văd o rază din lumina Ta -
+E semn că în curând ne vom vedea! :/
+
+[v2]
+/: Anii au trecut și aștept
+Ziua când pot să Te văd,
+Față în față vom sta
+Și veșnic Te-om lăuda! :/
+
+[v3]
+/: Chiar dacă anii s-au dus,
+Speranța nu mi-am pierdut
+Căci ai să vii în curând,
+Din nou, la noi pe pământ. :/
+
+[v4]
+/: Prin Duhul Sfânt vii la noi
+În bucurii și-n nevoie,
+Când pacea Ta o primim,
+Un susur blând noi simțim. :/

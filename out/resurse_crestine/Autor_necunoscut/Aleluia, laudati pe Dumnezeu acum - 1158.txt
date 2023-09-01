@@ -1,0 +1,15 @@
+[title]
+Aleluia laudati pe dumnezeu acum {author: {Anonim}, {rcId: {1158}}
+
+[sequence]
+v1,c
+
+[v1]
+Aleluia, lăudați pe Dumnezeu acum,
+Lăudați pe Dumnezeu și-n cer.
+Aleluia, instrumente cu coarde cântați
+Să-L lăudăm cu toți acum pe Dumnezeu.
+
+[c]
+Toți să-L laude acum
+Pe Dumnezeu, Aleluia.

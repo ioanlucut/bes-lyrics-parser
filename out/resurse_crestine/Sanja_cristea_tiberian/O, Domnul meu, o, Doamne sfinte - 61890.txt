@@ -1,0 +1,35 @@
+[title]
+O domnul meu o doamne sfinte {author: {Sanja Cristea Tiberian}, {rcId: {61890}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+S-au luminat de flori castanii
+Făclii de veghe de-o să vii
+Își numără belșugul anii
+În casa plină de copii
+
+[c]
+/: O, Domnul meu, o, Doamne sfinte
+O, Domnul meu cât Te iubesc
+Mă-mbracă în podoabe sfinte
+Și-apoi la cer să mă pornesc :/
+
+[v2]
+E noaptea toată o văpăie
+Și murmur lung de rugăciuni
+Se roagă îngerii-n odaie
+Când vii, Isuse, să ne-aduni
+
+[v3]
+Ce sfântă noapte, ce cunună
+De flori și verde busuioc
+Ne-au nins pe frunte stropi de lună
+Și stăm cu sfinții la un loc
+
+[v4]
+E caldă noaptea, e târzie
+Ești Tu, Isus, în casa mea
+Ce poate mai frumos să fie
+Decât să locuiești în ea

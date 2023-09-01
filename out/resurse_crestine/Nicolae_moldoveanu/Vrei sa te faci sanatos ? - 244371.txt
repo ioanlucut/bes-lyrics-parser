@@ -1,0 +1,29 @@
+[title]
+Vrei sa te faci sanatos ? {author: {Nicolae Moldoveanu}, {rcId: {244371}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Vrei să te faci sănătos,
+Plin de-a vieții tărie?
+/: - Vino acum Ia Hristos, :/
+Vino! Cu milă te-mbie! :/
+
+[v2]
+Vrei ca să fii fericit,
+Liber de grijă și teamă?
+/: - Vino la Domnul iubit, :/
+Vino! Cu drag, El te cheamă. :/
+
+[v3]
+Vrei să trăiești pe pământ,
+Taina iubirii divine?
+/: - Vino la Domnul preasfânt, :/
+Vino! Te-așteaptă pe tine. :/
+
+[v4]
+Vrei Paradisul de Sus?
+Vrei tinerețea Iui dragă?
+/: - Vino la Domnul Isus, :/
+Inima ta dă-i-o-ntreagă! :/

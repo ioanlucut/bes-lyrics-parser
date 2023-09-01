@@ -1,0 +1,35 @@
+[title]
+Daca nu-ti imparti {author: {Text: Fivii Furnea, Muzica: Adrian Toader}, {rcId: {199164}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Dacă nu-ți împarți la vreme
+Pâinea ta cu cel lipsit,
+Nu poți fi ca Lazăr, bine
+De Avraam în cer primit.
+
+[v2]
+Daca nu-ți arunci la vreme
+Pe ogor, plângând, sămânța,
+N-ai să cânți văzând cum schimbă
+Alte inimi pocăința.
+
+[v3]
+Să te faci părtaș durerii
+Multora în ceasul greu,
+Împarți raze de lumină
+Sfinte, din hambarul tău.
+
+[v4]
+Dacă tu îmbraci la vreme
+Pe-acel gol și jefuit,
+Rob destoinic, pentru ceruri
+Nou veșmânt îți e gătit.
+
+[v5]
+Dacă banul cel din urmă
+Poți săracului să-l dai,
+Ți se scrie-n ceruri fapta,
+Strânsă ți-e comoara în rai.

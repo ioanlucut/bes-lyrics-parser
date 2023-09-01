@@ -1,0 +1,29 @@
+[title]
+Isus hristos ne-a mantuit {author: {Fratii de la Onesti}, {rcId: {55553}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+/: Isus Hristos ne-a mântuit :/
+/: Aleluia, aleluia Isus Hristos ne-a mântuit :/
+
+[v2]
+/: Isus Hristos ne-a înviat :/
+/: Aleluia, aleluia Isus Hristos ne-a înviat :/
+
+[v3]
+/: Isus Hristos El ne-a Salvat :/
+/: Aleluia, aleluia Isus Hristos El ne-a Salvat :/
+
+[v4]
+/: Isus Hristos ne-a botezat :/
+/: Aleluia, aleluia ne-a botezat cu Duhul Sfânt :/
+
+[v5]
+/: Isus Hristos ne-a vindecat :/
+/: Aleluia, aleluia Isus Hristos Ne-a vindecat :/
+
+[v6]
+/: Isus Hristos viața ne-a dat :/
+/: Aleluia, aleluia Isus Hristos viața ne-a dat :/

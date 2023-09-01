@@ -1,0 +1,34 @@
+[title]
+Dumnezeu sfant a randuit a voastra casatorie {author: {Nicolae Moldoveanu}, {rcId: {5531}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Dumnezeu Sfant a randuit
+A voastra casatorie.
+Deci, El sa fie preamarit,
+De-acum si pana-n vesnicie!
+
+[c]
+Va multumim ca ne-ati chemat,
+La nunta binecuvantata,
+Si-apoi, in cerul minunat,
+Cu toti sa ne vedem odata.
+Iar tie, mire, eu iti spun:
+Sa-ti ocrotesti pe veci aleasa,
+Isus sa fie-n viata ta,
+Sa-ti binecuvanteze casa!
+
+[v2]
+In clipa sfanta ce-o traim,
+Un sfat sa-i dam si la mireasa:
+„
+Alesul tau sa-l pretuiesti
+Si-n veci sa-i fii tu credincioasa!”
+
+[v3]
+Iar la-ncheiere, miri iubiti,
+Noi va dorim doar fericire...
+Cu Isus voi pe veci sa fiti
+Si sa va duca-n nemurire!...

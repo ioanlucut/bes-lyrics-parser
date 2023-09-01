@@ -1,0 +1,39 @@
+[title]
+O isuse calea ta {author: {Ionel Saran Bochis}, {rcId: {90092}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+O Isuse Calea Ta
+Pentru multi le pare grea
+Si multi se-abat pe Ea
+Caci le pare Crucea grea
+
+[c]
+/: Vino azi la Isus vino pe-a lui cale
+Vino astazi Frate vino mai degraba/
+
+[v2]
+De acei ce din Iubire
+Iti urmeaza cu sfintire
+Pot lu-a Crucea cu Iubire
+Si-ti urmeaza numai Tie
+
+[v3]
+O Doamne ce-n gusta-i calea
+Care duce catre Cer
+Si acei ce merg pe Ea
+Intilnesc multa Durere
+
+[v4]
+Fericiti ve-ti fi atuncea
+Cind ve-ti fi batjocoriti
+Si atunci cind pentru Domnul
+De toti ve-ti fi prigoniti
+
+[v5]
+Caci si Domnul a Rabdat
+Pina te-a Rascumparat
+Mari batai batjocori multe
+Rani in cap si spini pe Frunte

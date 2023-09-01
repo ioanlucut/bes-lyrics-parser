@@ -1,0 +1,34 @@
+[title]
+Soapte {author: {Marius Livanu}, {rcId: {6307}}
+
+[sequence]
+v1,c,c,v2,c,c
+
+[v1]
+Și vântul șoptește, și norii zâmbesc
+Și zarea lucește și razele cresc
+Și frunzele cânta și zorii doresc
+Și noaptea suspină: ”
+Isus te iubesc”
+
+[c]
+Dar vântul înceată și noaptea s-a stins,
+Și zarea surâde și raza s-a încins
+Și frunza suspină și totu-i învins
+De taina iubirii, Isuse cuprins,
+Coboară în lumina din zorii târzii,
+Deschide spre mine cărări aurii
+Să-mi umple cuprinsul cerești simfonii,
+E ceasul, e clipa iubire să vii
+
+[b]
+Și inima-n mine suspină spre tine:”
+Isus te iubesc”
+Și inima-n mine vibrează-n suspine: ”
+Isus te aștept”
+
+[v2]
+Și iarăși grădina se uscă de jar
+Și inima arde de singură iar
+Și umbra-mi rămâne lipită de zid
+Și ușa singur, Isuse mi-o deschid.

@@ -1,0 +1,37 @@
+[title]
+Religia mea {author: {Nicolae Moldoveanu}, {rcId: {244176}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Religia mea e pacea
+Ce din Golgota izvorăște,
+Ce necurmat mă înnoiește
+Și-n toată ființa mă unește
+/: Cu cei răscumpărați. :/ x3
+/: Ei toți mi-s frați. :/
+
+[v2]
+Religia mea-i lumina
+Țâșnită din Divinul Soare.
+Ea-mi face viața sărbătoare
+Și punte spre aceia care
+/: Sunt azi răscumpărați. :/ x3
+/: Ei toti mi-s frați. :/
+
+[v3]
+Religia mea-i iubirea
+Ce-n Dumnezeu își are viața.
+Văpaia ei îmi e povața
+Să-ntorc și inima și fața
+/: Spre cei răscumpărați. :/ x3
+/: Ei toți mi-s frați. :/
+
+[v4]
+Religia mea ISUS e
+Și azi și mâini, și totdeauna.
+Slăvitu-I Nume mi-e cununa
+Prin El pot fi de-a pururi una
+/: Cu cei răscumpărați. :/ x3
+/: Ei toți mi-s frați. :/

@@ -1,0 +1,35 @@
+[title]
+Gata de zbor (gandeste-te intruna la cele de sus) {author: {Ovidiu Liteanu}, {rcId: {187401}}
+
+[sequence]
+v1,c,v3,c,v4,c,v5,c
+
+[v1]
+Gândește-te-ntruna la cele de sus,
+Ai viața ascunsă-n Isus
+/: Și-atunci când se-arată Hristos, Viața ta,
+În slavă cu El tu vei sta! :/
+
+[c]
+Fii gata de zbor, fii gata de zbor,
+Spre țara eternă copil călător,
+Fii gata de zbor, fii gata de zbor,
+Spre Domnul de care ți-e dor!
+
+[v3]
+Vorbirea să-ți fie într-una cu Har,
+Lipsită de orice amar,
+/: Răscumpără vremea și fii înțelept,
+Iubirea să-ți ardă în piept! :/
+
+[v4]
+Într-una să ierți cum Hristos te-a iertat,
+Umil tu să fii îmbrăcat,
+/: Iar pacea, sfințirea mereu s-o urmezi
+În ceruri pe Domnul să-L vezi! :/
+
+[v5]
+În orișice lucru mereu fii plăcut,
+Lucrează creștine mai mult,
+/: Mărește-L pe Tatăl că s-a îndurat,
+Că mult te-a iubit, te-a salvat! :/

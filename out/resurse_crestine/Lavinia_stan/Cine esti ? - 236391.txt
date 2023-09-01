@@ -1,0 +1,30 @@
+[title]
+Cine esti ? {author: {Lavinia Stan}, {rcId: {236391}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ce ai strans in inima, o iubire tainica
+Psalmi, cantari de lauda, o traire unica
+Poate ura, neiertare, o mahnire-apasatoare
+Ganduri ce-ai in mintea ta, gura ta le v-arata
+
+[c]
+Cine esti si cine sunt?
+Ma intreb o frate-acum
+Ai ca tata pe Isus
+Dupa fapte ai raspuns
+
+[v2]
+Cum te vezi in lume-aceasta
+Ce arati in bezna grea
+Luminezi ca Domnul slavei, sau s-a stins candela ta
+Impletesti lumea cu cerul, cum a fost lutul cu fierul
+Dar la capat vei vedea, piatra grea-l va sfarama
+
+[v3]
+Ai primit ungerea sfanta, sa lucrezi pentru Hristos
+Dar astepti si azi si maine, sa fi unealta de folos
+Tu ai fost candva in clocot, dar acum esti caldicel
+Fa-ti te rog o cercetare, sa vezi de te-ndrepti spre cer

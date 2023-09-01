@@ -1,0 +1,38 @@
+[title]
+Tu dar copilul meu intareste-te mereu {author: {Puiu Chibici}, {rcId: {60406}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+„
+Tu dar, copilul meu, întărește-te mereu
+Ca un ostaș viteaz, devotat lui Dumnezeu!
+Îndreaptă-ți către cer totdeauna pașii tăi,
+Fii-n slujbă plin de zel, veghează, Timotei!
+
+[c]
+Luptă-te lupta cea bună
+Pentru care ai fost chemat,
+Să fii vrednic de Cunună,
+Luptă-te lupta cea bună
+Și păstrează-te curat!
+
+[v2]
+Ca Alexandru-s mulți și ca Dima-n adunări,
+Și tineri și adulți, apucând alte cărări,
+Dar tu, copilul meu, fii lumină printre ei,
+Fii treaz, fii înțelept, veghează, Timotei!”
+
+[v3]
+Așa îl învăța un apostol credincios
+Ce Pavel se numea, rob urmaș al lui Hristos!
+„
+Apleacă-ți inima către tot ce ai învățat
+Și Evanghelia vestește-o ne-ncetat!”
+
+[v4]
+Fii gata-n orice ceas, că sunt vremuri de sfârsit,
+Și-n timpul ce-a rămas să fii, frate, pregătit!
+Nu fi părtaș nicicând la lucrarea celor răi,
+Ci-n cuget și în gând fii treaz ca Timotei!

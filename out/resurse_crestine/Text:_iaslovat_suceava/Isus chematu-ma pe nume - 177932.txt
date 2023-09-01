@@ -1,0 +1,66 @@
+[title]
+Isus chematu-ma pe nume {author: {Text: Iaslovăț, Suceava}, {rcId: {177932}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,e
+
+[v1]
+Isus chematu-m-a pe nume
+Să părăsesc orice păcat.
+/: Chemarea Lui mie-mi aduce
+Bucuria cea mai dulce,
+Mângâierea ce-am aflat. :/
+
+[c]
+/: De când pe Tine Te-am iubit
+Inima mea Ți-am dăruit
+Ca să mi-o speli de-orice păcat
+Și să mă duci în ceru-nalt.
+Căci sunt atâta de stingher,
+Nu mă lăsa, Doamne, să pier!
+O, vino-ntinde-ți mâna Ta
+Care mă poate alina! :/
+
+[v2]
+Nu voi iubi ca și pe Tine
+Nici mamă, tată, frați, surori
+/: Căci toate trec ca o nimica
+Ce durează doar o clipă,
+Nu acestea sunt splendori. :/
+
+[c2]
+/: Și fericirea cea din rai
+Te rog, Isuse, să mi-o dai,
+Splendoarea ce vreau s-o primesc
+Și-n veci de veci ca să trăiesc.
+Și gândul, ochii, inima
+Ține în stăpânirea Ta
+Ca să aștept venirea Ta
+Ca mirele mireasa sa. :/
+
+[v3]
+Chiar dacă mulți în părăsire
+Și în uitare m-au lăsat,
+/: Eu știu că am o moștenire:
+În țara plină de iubire
+De Isus eu sunt chemat. :/
+
+[c3]
+De aceea eu mereu, mereu
+Mă-ncred în Bunul Dumnezeu
+Care de-atâtea ori mi-a fost
+Medic Suprem și adăpost.
+Pe Golgota crucificat
+Mesia-n cuie a răbdat.
+El a știut că a venit
+Pe mine a mă mântui.
+
+[e]
+Și fericirea cea din rai
+Te rog, Isuse, să mi-o dai,
+Splendoarea ce vreau s-o primesc
+Și-n veci de veci ca să trăiesc.
+Și gândul, ochii, inima
+Ține în stăpânirea Ta
+Ca să aștept venirea Ta
+Ca mirele mireasa sa.

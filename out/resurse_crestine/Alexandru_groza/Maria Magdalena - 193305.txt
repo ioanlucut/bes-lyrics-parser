@@ -1,0 +1,47 @@
+[title]
+Maria magdalena {author: {Alexandru Groza}, {rcId: {193305}}
+
+[sequence]
+v1,v2,v3,s,v4,v5,v6,e
+
+[v1]
+De când era-ntuneric și nu se luminase
+După o noapte lungă de chin și de amar
+Pe-ngusta cărăruie, zorită și cu teamă
+Dar plină de speranță, Maria-aleargă...
+
+[v2]
+Pe crestele-nverzite adie vântul lin
+Și-un cânt de păsărele și-un murmur de izvor
+Privighetorile se-ntrec în cântare
+Iar florile își lasă parfumul pe cărare!
+
+[v3]
+Dar iat-o pe Maria la mormânt
+Cum plânge și-i îndurerată
+Ea a găsit mormântul gol
+/: Și piatra-i răsturnată :/
+
+[s]
+Femeie, i-a zis Isus, de ce plângi? Pe cine cauți?
+Ea a crezut că este grădinarul și i-a zis: Domnule, dacă l-ai luat, spune-mi unde l-ai pus și mă voi duce să-l iau
+
+[v4]
+Maria! o strigă Domnul
+Cu-atâta duioșie te-am salvat
+Eu sunt învățătorul tău
+Eu ți-am salvat viața din chinul cel mai greu
+
+[v5]
+Maria Magdalena, cu vasul de-alabastru plin de nard
+Maria, despre tine s-ar spune orișiunde în lume
+Că tu ești prima căreia Domnul s-a arătat
+
+[v6]
+A-nviat Isus, viața lumii
+Cine-a putut să stea în calea Lui?
+În ceruri îngeri cântă osanale
+El a-nvins moartea prin Golgota!
+
+[e]
+Aleluia, Amin!

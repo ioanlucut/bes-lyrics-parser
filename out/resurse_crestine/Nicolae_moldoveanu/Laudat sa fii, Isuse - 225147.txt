@@ -1,0 +1,25 @@
+[title]
+Laudat sa fii isuse {author: {Nicolae Moldoveanu}, {rcId: {225147}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Lăudat să fii, Isuse, lăudat, lăudat!
+Pentru darurile-aduse, lăudat, lăudat!
+
+[c]
+Cânt mereu: fii lăudat!
+Domnul meu Cel minunat!
+
+[v2]
+Lăudat fii dimineața, lăudat, lăudat!
+Când și-arată ziua fața, lăudat, lăudat!
+
+[v3]
+Lăudat fii la amiază, lăudat, lăudat!
+Când lumina e mai trează, lăudat, lăudat!
+
+[v4]
+Lăudat să fii și seara, lăudat, lăudat!
+Căci Tu-mi ești în veci Comoara, lăudat, lăudat!

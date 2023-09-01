@@ -1,0 +1,58 @@
+[title]
+Cantare de izbanda {author: {Nicolae Moldoveanu}, {rcId: {1399}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Cântare de izbândă
+În lume-a răsunat,
+Biruitorul morții
+/: Hristos a înviat! :/
+x3
+Biruitorul morții,
+Hristos a înviat!
+
+[v2]
+Cântați popoare-a lumii
+Căci Cel cel v-a iertat
+Plătindu-vă păcatul,
+/: Hristos a înviat! :/
+x3
+Plătindu-vă păcatul,
+Hristos a înviat!
+
+[v3]
+Cântați-I lumi și ceruri
+Căci Cel ce v-a creeat
+Biruitor se-ntoarce
+/: Hristos a înviat! :/ x3
+Biruitor se-ntoarce:
+Hristos a înviat!
+
+[v4]
+Cântați-I voi adâncuri,
+Căci El v-a dezlegat,
+Pătrunse de lumină:
+/: Hristos a înviat! :/
+x3
+Pătrunse de lumină,
+Hristos a înviat!
+
+[v5]
+Cântați pe al Măririi
+Stăpân și Împărat,
+Cel viu, învie astăzi:
+/: Hristos a înviat! :/
+x3
+Cel viu învie astăzi:
+Hristos a înviat!
+
+[v6]
+Cântați puteri și veacuri,
+Căci Cel adevărat
+În veci Nemuritorul:
+/: Hristos a înviat! :/
+x3
+În veci Nemuritorul:
+Hristos a înviat!

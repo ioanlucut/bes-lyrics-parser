@@ -1,0 +1,48 @@
+[title]
+O suflet din sufletul meu {author: {Nicolae Moldoveanu}, {rcId: {244412}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+O, suflet din sufletul meu,
+Fior din aceeași iubire,
+/: Calvarul aceluiași greu,
+Ne-a dat o-nfrățită simțire! :/
+
+[c]
+Fii binecuvântată,
+În veci de Dumnezeu
+/: Tu parte neuitată
+A sufletului meu! :/
+
+[v2]
+În inima noastră, la fel,
+Aceeași dorință suspină,
+/: Hristos mi le-a dat pentru El,
+Părtașă Ia slujba-l divină! :/
+
+[v3]
+Spre soarele-aceluiași steag,
+’
+Nălțăm o-nfrățită privire,
+/: Și slavei Aceluiași Drag
+I-aducem unita jertfire! :/
+
+[v4]
+Ce sfântă e lupta când știm,
+Alături Ființa iubită,
+/: Părtași Ia răbdare să fim,
+Părtași și-n răsplata-l slăvită! :/
+
+[v5]
+Ce scumpă-i cântarea în doi,
+Ce rodnică-i slujba-n unire,
+/: Când arde c-o flacără-n noi,
+Aceeași cerească trăire! :/
+
+[v6]
+O, suflet din sufletul meu,
+Răsad din aceeași credință,
+/: Prin foc ne-a unit Dumnezeu,
+Pe veci pentru-a Lui biruință! :/

@@ -1,0 +1,29 @@
+[title]
+Isus e stanca mea {author: {Ionică Stoica}, {rcId: {72731}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Isuse, stânca mea din cer care m-a mântuit
+Prin El iertare am găsit și viața am primit
+El mi-a zidit în inimă Cuvântul Său cel Sfânt
+Și vreau să-i cânt din dragoste cât sunt pe acest pământ
+
+[c]
+/: Să-i cântăm, să-i cântăm azi de bucurie
+Să cântăm, să-L slăvim - Glorie, Aleluia!
+Să cântăm, să cântăm, Doamne, Slavă Ție!
+Căci tu ești și vei fi Isuse, stânca mea :/
+
+[v2]
+Isuse stânca mea din cer care viața și-a dat
+Să fiu iertat și mântuit, păcatul mi-a spălat
+M-a curățit de tot ce-i rău plătind în locul meu
+De aceea îi cant și-L voi slăvi cât voi trăi mereu
+
+[v3]
+Isuse, Salvatorul meu ce m-a iubit nespus
+Și pentru toata lumea aceasta crucea grea a dus
+Pe ea atârnă atât de greu păcatul tuturor
+De aceea eu îi cant mereu - e Salvatorul meu

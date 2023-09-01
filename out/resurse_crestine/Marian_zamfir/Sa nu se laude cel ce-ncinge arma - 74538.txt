@@ -1,0 +1,35 @@
+[title]
+Sa nu se laude cel ce-ncinge arma {author: {Marian Zamfir}, {rcId: {74538}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Să nu se laude cel ce-ncinge arma
+Nici cel ce-n toiul luptei obosește.
+Căci de la Domnul noi primi-vom lauda
+Atunci când alergarea se sfîrșește.
+
+[c]
+Ce faci? Ce spui?
+O, asta are preț, da-n ochii cui?
+Ce ești? Cum faci?
+Gâdește-te, la cine vrei să placi?
+
+[v2]
+Să nu se laude cel care veghează
+În nopți târzii la postul ce-a primit.
+Căci încă n-a trecut a patra strajă
+Când orice vegheator e istovit.
+
+[v3]
+Să nu se laude cel ce cântă imnuri
+Sau ’nalță sus miresme de tămâie
+Căci nu se știe dacă-n orice timpuri
+În stare e să cânte, nu se știe.
+
+[v4]
+Să nu te lauzi tu ce lucrezi în vie
+Căci într-o zi Stăpînul va veni
+Și ce va spune încă nu se știe
+Nici ce răsplat-atuncea vei primi.

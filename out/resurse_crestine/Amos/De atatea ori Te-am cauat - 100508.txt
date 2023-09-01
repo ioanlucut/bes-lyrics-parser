@@ -1,0 +1,65 @@
+[title]
+De atatea ori te-am cauat {author: {amos7}, {rcId: {100508}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,v5,c5
+
+[v1]
+De atatea ori Te-am cauat
+In incercari nespuse
+De atatea ori eu Te-am dorit
+Sa Te intalnesc Isuse
+
+[c]
+/: De cate ori am suspinat
+De cate ori m-am intristat
+Si cu cat dor te-am asteptat
+Stii Tu numai Tu Isuse :/
+
+[v2]
+De care ori ca un strain
+Mergeam plangand pe cale
+Si inima ardea-n ascuns
+De dorul fetei Tale
+
+[c2]
+/: Dar nimeni nu m’a intels
+Dar Tu Ales intre alesi
+Te’ai indurat si mi’ai trimis
+Alinul Mainii Tale :/
+
+[v3]
+De cate ori eu m-am retras
+Crezand ca asa-i mai bine
+Tu mai aproape m-ai chemat
+Sa fiu unit cu Tine
+
+[c3]
+/: Tu cu rabdare ai asteptat
+Cu Duhul Sfant m-ai imbracat
+Si ani intregi m-ai invatat
+Sa merg in pas cu Tine :/
+
+[v4]
+Dar azi privind lumina Ta
+Si fata Ta cea dulce
+Iti multumesc de mii de ori
+Si vreau sa iti spun Isuse
+
+[c4]
+/: Ca nu-i suspin atat de greu
+Pe cat de mare-i Harul Tau
+Si izbavirea care o dai
+Prin jertfa de pe cruce :/
+
+[v5]
+Dar nu-i iubire ca a Ta
+Cu drag sa ne inconjoare
+Si nu-i putere ca a Ta
+Sa ne tine pe cale
+
+[c5]
+/: Dar nu e soare mai maret
+Si nici Ales intre alesi
+Sa mangaie in ceasul greu
+Faptura mainii Tale :/

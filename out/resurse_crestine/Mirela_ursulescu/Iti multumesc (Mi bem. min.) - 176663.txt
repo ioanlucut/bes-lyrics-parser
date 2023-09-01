@@ -1,0 +1,35 @@
+[title]
+Iti multumesc (mi bem min) {author: {Mirela Ursulescu}, {rcId: {176663}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Îți mulțumesc, o Domnul meu
+Că ai lucrat în dreptul meu,
+Prin toate Tată m-ai făcut
+Ca azi, să Te cunosc mai mult.
+
+[c]
+/: Îți mulțumesc pentru-ncercări
+Și pentru binecuvântări,
+Îți mulțumesc că orice greu
+A fost doar spre binele meu :/
+
+[v2]
+Îți mulțumesc că în dureri
+Mereu mi-ai dat și mângâieri,
+Îți mulțumesc ca Duhul Tău
+M-a alinat în ceasul greu.
+
+[v3]
+Îți mulțumesc că-n încercări
+M-ai învățat să rabd, să sper,
+Îți mulțumesc că în cuptor
+Nu m-ai lăsat Doamne să mor.
+
+[v4]
+Îți mulțumesc că Mâna Ta
+A fost mereu de partea mea,
+Și fie drumul cât de greu
+Cu Tin’ voi birui mereu.

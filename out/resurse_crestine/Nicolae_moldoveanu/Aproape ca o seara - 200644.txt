@@ -1,0 +1,42 @@
+[title]
+Aproape ca o seara {author: {Nicolae Moldoveanu}, {rcId: {200644}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Aproape ca o seară,
+Grăbită ca un ceas.
+Cump
+Iită ca o fiară,
+ți-e moartea la un pas.
+
+[c]
+/: Subțire ca o ață
+Ușoară ca un nor.
+Se scurge-a ta viață,
+Sărmane călător :/
+
+[v2]
+O, stai și te-ngrozește,
+De tot ce ai în drum.
+Ce noapte te pândește,
+De dincolo de-acum.
+
+[c2]
+/: Trezește-te și-L cere,
+Pe Domnu’n ajutor.
+Cu ultima-ți putere,
+Sărmane călător :/
+
+[v3]
+Doar Jertfa Crucii Sale,
+Doar scumpul Sânge-al Său.
+E-un preț iertării tale,
+și sufletului tău.
+
+[c3]
+/: Primește-L și-L urmează,
+Cu’ntregul vieții dor.
+Căci ziua ta-nserează,
+Sărmane călător :/

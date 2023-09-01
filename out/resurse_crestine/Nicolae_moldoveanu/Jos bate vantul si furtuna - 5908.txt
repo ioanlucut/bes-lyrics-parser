@@ -1,0 +1,34 @@
+[title]
+Jos bate vantul si furtuna {author: {Nicolae Moldoveanu}, {rcId: {5908}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+Jos bate vantul si furtuna, Isuse scump din vesnicii!
+Se-ascund si soarele si luna... O, vino azi! De ce nu vii?
+
+[v2]
+E drumul greu... e grea si crucea... si mi-e dor nespus de vesnicii...
+Mai este mult pana atuncea cand plansul ni-l vei rasplati?
+
+[v3]
+Cu bucurii ce nu vor trece si nici nu poti sa le descrii,
+Atunci si noi toti vom petrece, in schimbul plansului de-aici.
+
+[v4]
+Atunci, cand vei servi la masa, cum nimeni altul nu va stii,
+Cand vei servi intreaga casa cu vinul sfant din vesnicii.
+
+[v5]
+Cand mana proslavita care facut-a omul pe pamant
+Va sterge lacrima, sudoarea si fruntea noastra in curand.
+
+[v6]
+Dorim ca sa-Ti iesim in cale, pe nori, Isus, cand vei veni,
+Cantandu-ti vesnic osanale, si nu ne vom mai desparti!
+
+[v7]
+Jos bate vantul si furtuna si trec atatea vijelii!
+Copiii Tai Te cheama-ntruna: „
+O, vino azi! De ce nu vii?”

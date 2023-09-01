@@ -1,0 +1,30 @@
+[title]
+Regele promis {author: {Florin Dumitru}, {rcId: {157282}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Nu e o poveste
+Ce am să vă spun
+Că într-o iesle rece
+Speranța s-a născut.
+
+[c]
+/: Isus Mântuitorul,
+Regele promis,
+A venit să aducă :/
+Iertare pe pământ,
+Pace pe pământ.
+
+[v2]
+Îngerii din cer
+Vestea au adus
+Că în Betleem
+Un prunc ni s-a născut.
+
+[e]
+E zi de sărbătoare
+În cer și pe pământ,
+Îngeri și oameni
+Cu mine cântă acum.

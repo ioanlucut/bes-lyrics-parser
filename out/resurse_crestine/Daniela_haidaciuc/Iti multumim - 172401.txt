@@ -1,0 +1,35 @@
+[title]
+Iti multumim {author: {Daniela Haidaciuc}, {rcId: {172401}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Îți mulțumim sfânt Dumnezeu
+Pentru-ndurarea Ta,
+Ca-n acest an care s-a scurs
+Am fost în mâna Ta!
+
+[c]
+Prin bucurii și nevoi în acest an am trecut,
+Dar Doamne Tu-ai fost cu noi, prin Tine totul am biruit,
+În noapte ne-ai luminat, în încercări ne-ai ajutat,
+Din valuri ne-ai izbăvit, o Tată drag, fii slăvit!
+
+[v2]
+Prin încercări și prin furtuni
+Adesea am trecut;
+Dar ne-ai purtat pe brațul Tău
+Izbândă am avut!
+
+[v3]
+Ne-ai mângâiat, ne-ai dat puteri,
+Ne-ai binecuvântat,
+Tu ne-ai iubit și ne-ai iertat,
+Deși Te-am întristat!
+
+[v4]
+Îți mulțumim o Tată drag
+Pentru că ne iubești,
+Și peste-al anilor șirag,
+Mereu ne însoțești!

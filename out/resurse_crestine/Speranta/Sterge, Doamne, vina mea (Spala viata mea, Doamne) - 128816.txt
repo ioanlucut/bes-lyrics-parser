@@ -1,0 +1,43 @@
+[title]
+Sterge doamne vina mea (spala viata mea doamne) {author: {Speranța}, {rcId: {128816}}
+
+[sequence]
+v1,b,c,v2,c,e
+
+[v1]
+Spală viața mea, Doamne
+Atinge-mi inima, Doamne
+Îndură-Te și de mine!
+Iartă-al meu păcat, Doamne
+Prin sângele-Ți vărsat, Doamne
+Să pot privi înspre Tine!
+
+[b]
+Șterge Doamne, vina mea
+Să pot privi spre fața Ta
+
+[c]
+Iartă-mă, Iartă-mă
+Mă întorc din drumul meu
+Iartă-mă, Iartă-mă
+Fă-mă de azi copilul Tău!
+
+[v2]
+Atinge gândul meu, Doamne
+Să aleg mereu, Doamne
+Ceea ce-i sfânt și valoros
+Unge ochii mei, Doamne
+Să pot vedea cu ei, Doamne
+Drumul ce duce spre Hristos!
+
+[e]
+Azi mă-ntorc de la pierzare
+Și caut Doamne, fața Ta
+Primește-mă, o, Doamne mare
+Primește-mă, nu mă lăsa!
+
+[c2]
+Iartă-mă, Iartă-mă
+Sfinte, Tată, Dumnezeu
+Iartă-mă, iartă-mă
+De astăzi sunt copilul Tău!

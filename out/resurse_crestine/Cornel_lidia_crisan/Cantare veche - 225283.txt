@@ -1,0 +1,35 @@
+[title]
+Cantare veche {author: {Cornel, Lidia Crisan}, {rcId: {225283}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+In glastra inimii-am cules
+Trei flori ce poarta nemurirea,
+/: Trei flori din cer, cu nume-ales:
+Credinta, Nadejdea, Iubirea, :/
+
+[v2]
+Din stratul Harului le-am rupt
+Isus, cand mi-ai schimbat privirea...
+/: Sa Ti le dau intregi ma lupt:
+Credinta, Nadejdea, Iubirea. :/
+
+[v3]
+Cu cat eu Ti le daruiesc,
+Mai limpede li-e stralucirea!
+/: Puteri mai noi din Tine-si cresc,
+Credinta, Nadejdea, Iubirea. :/
+
+[v4]
+Trei flori eu am cules candva,
+Mireasma lor e Fericirea,
+/: Si-avant imi dau pe Calea Ta
+Credinta, Nadejdea, Iubirea! :/
+
+[v5]
+Fii binecuvantat, Isus:
+In jertfa Ta am Mantuirea!
+/: In Tine pentru veci m-au dus
+Credinta, Nadejdea, Iubirea! :/

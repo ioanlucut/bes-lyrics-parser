@@ -1,0 +1,65 @@
+[title]
+Cu-al meu suflet vreau sa zbor {author: {Anonim}, {rcId: {2175}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,v5,c5
+
+[v1]
+Cu-al meu suflet vreau să zbor
+Colo mai sus de stele
+În țara Mirelui iubit
+Unde s’am mângâiere.
+
+[c]
+/: Să nu mai fiu pe-acest pământ
+În lumea de păcate
+Ci-aș vrea s-ajung cât mai curând
+Cu capul pe-a Lui brațe. :/
+
+[v2]
+Suspin mereu și lăcrimez
+De dor după Isus
+Căci văd că toate se-mplinesc
+Așa cum El le-a spus.
+
+[c2]
+/: O scumpul meu mântuitor
+Păzește-mă de toate
+Căci valurile lovesc greu
+În copiii Tăi Doamne. :/
+
+[v3]
+Căci văd că oamenii de-acum
+Pe mine mă urăsc
+Și vor să mă oprească-n drum
+Căci Ție îți slujesc.
+
+[c3]
+/: Căci în pofte și în plăceri
+Unii-și petrec viața
+Dar pentru toate acestea
+Veni-va judecata. :/
+
+[v4]
+Trezește Tu al Tău popor
+Căci este-n ațipire
+Și ca să fie vegheator
+Când vei veni-n mărire.
+
+[c4]
+/: Ca s-ajungem la masa Ta
+Cu toții-n strălucire
+Și-ți voi cânta Aleluia
+Și-acum și-n veșnicie. :/
+
+[v5]
+Păzește tineretul Tău
+Căci sunt florile Tale
+O vino-n ajutorul lor
+Cu barca de salvare.
+
+[c5]
+/: Să nu mai fiu pe-acest pământ
+În lumea de păcate
+Ci-aș vrea s-ajung cât mai curând
+Cu capul pe-a Lui brațe. :/

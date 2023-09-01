@@ -1,0 +1,35 @@
+[title]
+Mergand prin asta lume {author: {Ștefan Irimia}, {rcId: {108803}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Mergând prin astă lume,
+Omul alege orice ar vrea.
+Din fire-i e dat s-alerge,
+Să caute fericirea.
+
+[c]
+La cine tu cauți pacea?
+Și cine ți-o poate da?
+Numai Isus e-Acela
+Care te poate ajuta.
+
+[v2]
+Omul caută un loc mai bine
+Pentru-a trăi și desfăta.
+Dar, iată, căci vine vremea
+Când socoteală omul va da.
+
+[v3]
+Te-ntreb acum, amice,
+Tu pe ce drum mai rătăcești?
+Oare ai găsit pacea
+Printre căile lumii-ntregi?
+
+[c2]
+La Isus vei găsi pace,
+La Isus vei găsi ajutor.
+Numai El e Acela
+Care ajută tuturor.

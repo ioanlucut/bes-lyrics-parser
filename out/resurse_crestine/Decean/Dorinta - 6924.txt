@@ -1,0 +1,41 @@
+[title]
+Dorinta {author: {Decean}, {rcId: {6924}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Doamne cât am vrut să știu
+Pe placul Tău cum pot să fiu
+Să pot apoi în schimb să-Ți cer
+Mulțimi de lucruri care pier.
+
+[c]
+/: Tu ești ce-mi doresc acum
+Dumnezeul meu cel bun.
+Ia viața mea în mâna Ta
+Și fă ce vrei acum cu ea. :/
+
+[v2]
+Mi-am pus o cruce lănțișor
+Icoană sfântă-n dormitor
+Am dat și bani la un sărac
+Fiind convins că așa îți plac.
+
+[v3]
+De la Tine Doamne am vrut
+Să obțin cât pot de mult.
+Dar să fac cu viața mea
+Ce vreau eu, nu voia Ta.
+
+[v4]
+Doamne acuma sigur știu
+Pe placul Tău cum pot să fiu
+Tu nu vrei ca eu să îți cer
+Mulțimi de lucruri care pier.
+
+[v5]
+Pentru că Eu am aflat
+Prin Isus, Tu m-ai salvat
+Când pe cruce L-ai jertfit
+Să fiu veșnic fericit.

@@ -1,0 +1,31 @@
+[title]
+Stii tu cine te-a creat? {author: {Speranța}, {rcId: {111366}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Știi tu cine te-a creat
+Știi tu cine te-a chemat?
+Să vii în lume, să fii un om
+Cunoști tu eternul Domn?
+Știi tu cine-a dăltuit
+Să-ți dea chipul potrivit
+Ființa ta e un mister
+Știi tu cine stă în cer?
+
+[c]
+E Dumnezeu, eternul Rege,
+E Dumnezeu, eternul Domn
+El e știința cea mai-naltă
+El umple Universul, stă veșnic pe tron.
+
+[v2]
+Știi tu cine ți-a vorbit
+Prin Fiul său nemărginit
+Să lași păcatul, să crezi în El
+În Isus, Emanuel?
+Știi tu Cine într-o zi
+Va judeca toți oamenii
+De tot ce-n viață au lucrat?
+Ai auzit de Cel Preaînalt?

@@ -1,0 +1,53 @@
+[title]
+Astazi e o zi de sarbatoare {author: {Persida și Lidia}, {rcId: {94501}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c
+
+[v1]
+Astăzi e o zi de sărbătoare.
+Cerul și pământul s-au unit!
+Și un glas măreț de osanale.
+Cântă Mielului ce-a biruit.
+
+[c]
+/: Vom uita pământul, suferința,
+Și-n prezența Domnului vom fi!
+Am dori s-apară pururi ziua
+Luptei Mielului din veșnicii :/
+
+[v2]
+Căci chemarea Lui sfântă, măreață,
+Pe pământ din nou s-a auzit,
+Căci în dar se capătă viață,
+Prin Isus Hristos cel răstignit.
+
+[v3]
+Legământul ce acum se face
+E o poruncă pe care-o-mpliniți,
+Dumnezeu din ceruri vă iubește
+Și copiii Lui veți fi numiți.
+
+[v4]
+Deci urmați mereu calea cea strâmtă,
+Drumul ce duce spre Dumnezeu,
+Și privirea să vă fie țintă,
+Să v-asemănați cu Fiul Său.
+
+[v5]
+Atunci veți zidi neprihănire,
+Dumnezeu trimite Duhul Său,
+Care va stropi a lumii fire,
+Calea vă va lumina mereu.
+
+[v6]
+Fraților, nu obosiți pe cale,
+Pentru Domnul să fiți pregătiți.
+Voi sunteți mireasa cea din vale,
+Porumbița ascunsă printre stânci.
+
+[v7]
+În curând veți auzi strigarea.
+Înaintea Domnului ieșiți!
+Fericit va fi acel ce-i gata
+Pentru slava din veșnicii.

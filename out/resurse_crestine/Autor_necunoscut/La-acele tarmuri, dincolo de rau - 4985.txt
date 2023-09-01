@@ -1,0 +1,23 @@
+[title]
+La-acele tarmuri dincolo de rau {author: {Anonim}, {rcId: {4985}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+La-acele țărmuri, dincolo de râu,
+O, ce frumoase locuri văd eu,
+O ceată mare de-a sfinților
+Îmi pare c-aud cântarea lor.
+
+[c]
+Vino acasă, vin’ acasă
+A lor chemare așa sună,
+Ei te așteaptă-n strălucire,
+Vin’ dar-acasă cu grăbire.
+
+[v2]
+Părinții-așteaptă după copii,
+Colo-n mărire pân’ vin și ei,
+La revedere s-or bucura,
+Unii pe alții vor saluta.

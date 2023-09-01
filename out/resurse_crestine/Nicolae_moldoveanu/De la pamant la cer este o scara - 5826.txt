@@ -1,0 +1,35 @@
+[title]
+De la pamant la cer este o scara {author: {Nicolae Moldoveanu}, {rcId: {5826}}
+
+[sequence]
+c,v1,v2,v3,e
+
+[c]
+De la pământ la cer este-o scară
+Îngeri pe ea urcă și coboară
+De la pământ la cer este-o scară
+La cer s-ajungă.
+
+[v1]
+Treapta-ntâia este credința-n Isus
+Treapta a doua cunoașterea lui Isus
+Treapta a treia este stăpânirea ta
+Urcă și pe ea.
+
+[v2]
+Treapta-patra răbdarea cu oameni
+Treapta a cincia evlavia inimii
+Treapta a șeasa dragostea pentru frați
+Pentru toți frații.
+
+[v3]
+Treapta a șaptea iubirea pentru oameni
+Treapta a opta iubirea să o semeni
+Treapta a noua cu Isus sa te-asemenea
+Iubind pe semeni.
+
+[e]
+Mai sus mai sus, urcă încă o treaptă
+Mai sus, mai sus, îngerii te ajută
+Mai sus, mai sus, mai aproape de Isus
+Și-apoi cu Isus.

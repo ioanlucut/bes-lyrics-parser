@@ -1,0 +1,67 @@
+[title]
+Odata l-am vazut trecand {author: {Nicolae Moldoveanu}, {rcId: {5861}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7,v8,v9,v10
+
+[v1]
+Odata L-am vazut trecand
+Cu turma, pe Pastorul bland,
+Mergea cu dansa la izvor,
+/: Blandul Pastor. :/
+
+[v2]
+Pe-o oaie ce cazuse jos
+A ridicat-o El, frumos,
+Si-a dus-o-n brate iubitor,
+/: Blandul Pastor. :/
+
+[v3]
+Pe alta care, la pamant,
+Zacea cu piciorusul frant,
+El o lega mangaietor,
+/: Blandul Pastor. :/
+
+[v4]
+El le-a iubit cu dor nespus
+Si viata pentru oi Si-a pus
+Si pentru mantuirea lor,
+/: Blandul Pastor. :/
+
+[v5]
+Iar mai tarziu L-am intalnit:
+Cu spini era impodobit,
+Intr-o multime de popor,
+/: Blandul Pastor. :/
+
+[v6]
+Cand L-am vazut, L-am intrebat:
+„
+Cine sunt cei ce Te-au scuipat?”
+Atunci a suspinat usor
+/: Blandul Pastor :/
+
+[v7]
+Si mi-a raspuns duios si lin:
+„
+Cei ce Mi-au pus cununi de spini,
+Sunt oile ce le-am fost lor
+/: Un bland Pastor, :/
+
+[v8]
+Iar cei ce ma batjocoresc
+Si cei ce crucea-Mi pregatesc,
+Sunt cei la care, iubitor,
+/: Le-am fost Pastor. :/
+
+[v9]
+Tacu... Si ochii Lui senini,
+De lacrimi limpezi erau plini;
+Plangea de mila oilor
+/: Blandul Pastor. :/
+
+[v10]
+Si-atuncea oile-au venit,
+Pe cruce sus L-au rastingnit,
+Iar El plangea, de mila lor,
+/: Blandul Pastor. :/

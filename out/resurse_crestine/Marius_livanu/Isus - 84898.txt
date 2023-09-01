@@ -1,0 +1,23 @@
+[title]
+Isus {author: {Marius Livanu}, {rcId: {84898}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Nu găsesc în lumea toată un cuvânt mai glorios,
+E un Nume care poate să ridice tot ce-i jos,
+E un Nume plin de slavă, e un nume-așa frumos,
+Plin de har și măreție, Numele Isus Hristos.
+
+[c]
+/: Isus, ce nume minunat!
+Sunt plin de bucurie să Îl cânt neîncetat,
+Isus, ce nume glorios!
+Prin El sunt azi puternic, prin El victorios. :/
+
+[v2]
+Toate lumea I se-nchină, ceru-ntreg L-a înălțat
+Plin de slavă și lumină, este veșnic Împărat,
+Domn al domnilor și Rege peste tot ce n-are-apus,
+Cine poate înțelege, acest Nume sfânt - Isus.

@@ -1,0 +1,29 @@
+[title]
+S-a nscut isus {author: {Text: Fivii Furnea, Muzica: Adrian Toader}, {rcId: {199275}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Vǎlul nopții se destramǎ
+În sfânt cântec de luminǎ
+Care zarea-ntreagǎ umple
+Vestind Pruncul și menirea Lui divinǎ. Aleluia.
+
+[v2]
+Noaptea vremii se-nfioarǎ,
+Sacru cântec de luminǎ,
+Tot vǎzduhul lin strǎbate
+Vestind Pruncul și menirea Lui divinǎ. Aleluia.
+
+[v3]
+Dar din câți aud chemarea,
+Doar pǎstorii-n grabǎ vin.
+Vin și magi, vor sǎ vadǎ
+Pe Izbǎvitor și daruri sǎ-I aducǎ. Aleluia.
+
+[v4]
+Vǎlul nopții se destramǎ
+În sfânt cântec de luminǎ
+Care zarea-ntreagǎ umple
+Vestind Pruncul și menirea Lui divinǎ. Aleluia.

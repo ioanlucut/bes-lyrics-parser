@@ -1,0 +1,29 @@
+[title]
+Sufletul mi-e plin {author: {Diaz Amos}, {rcId: {238993}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Iubire, al tău grai divin
+Îmi urcă pașii dulci;
+Spre cerul cel de viață lin,
+Peste alei și lunci!
+
+[c]
+De Tine sufletul mi-e plin,
+Izvor de viață, har;
+Ce dulce aripile-Ți, sfânt
+Mă poartă cu al lor dar!
+
+[v2]
+Haina de nuntă mi-am gătit,
+Te aștept cu dor în piept;
+În Tine pace am găsit,
+Prin harul dulce aștept!
+
+[v3]
+Mai dulce decât mierea ești,
+Din fagure de rai;
+Podoaba cu a ei stele în roi,
+Mă îmbracă în ceresc strai!

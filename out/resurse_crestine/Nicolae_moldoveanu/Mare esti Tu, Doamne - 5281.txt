@@ -1,0 +1,35 @@
+[title]
+Mare esti tu doamne {author: {Nicolae Moldoveanu}, {rcId: {5281}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: Mare ești Tu, Doamne,
+Căci m-ai mântuit!
+Din păcatul morții,
+Tu m-ai izbăvit. :/
+
+[c]
+/: Sfinte Dumnezeule,
+Îndurare-Ți cer eu
+Și nu mă uita,
+În toată viața mea! :/
+
+[v2]
+/: Sufletul mi-e vesel,
+Căci e sigilat
+Și, pentru răpire,
+Domnul m-a păstrat. :/
+
+[v3]
+/: Acum sunt pe calea
+Cea de diamant,
+Ce duce la Domnul
+La-al meu Împărat. :/
+
+[v4]
+/: Veșnice Părinte,
+Al meu Salvator,
+Până-n veci fii slăvit
+De al Tău popor! :/

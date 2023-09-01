@@ -1,0 +1,29 @@
+[title]
+Bun {author: {Beniamin Palincaș}, {rcId: {244543}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Pâinea cea din ceruri coboară iar la noi,
+Ca viață și odihnă spre cei trudiți în vǎi.
+Cel ce se hrănește cu singurul Său Fiu
+În veci mărturisește cum Domnul este viu.
+Da, Domnul este viu!
+
+[c]
+/: Gustați și vedeți cât de bun este Domnul!
+Cât de bun, cât de bun, cât de bun este Domnul! :/
+Căile Tale nu s-au sfârșit, îndurările Tale nu sunt la capăt.
+Domnul este bun!
+
+[v2]
+Fiul miel de jertfă nouă ni s-a dat,
+Ca cei chemați cu Tatăl să fie împăcați.
+Chipul slab de carne multe-a pătimit,
+Ca trupul său din moarte să fie impărțit,
+O, lumii împărțit!
+
+[e]
+/: Sângele Tău e-un izvor de apă vie,
+Cine-i însetat la crucea Ta să vină! :/

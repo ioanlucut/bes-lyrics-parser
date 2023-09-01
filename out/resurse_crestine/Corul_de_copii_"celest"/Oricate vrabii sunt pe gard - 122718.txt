@@ -1,0 +1,29 @@
+[title]
+Oricate vrabii sunt pe gard {author: {Corul de copii ”Celest”}, {rcId: {122718}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Oricâte vrăbii sunt pe gard
+Le știe Dumnezeu!
+Când ele-s scumpe-n ochii Săi
+Cu cât mai scump sunt eu!
+
+[c]
+Eu Îi sunt scump, eu Îi sunt scump
+Știu cât Îi sunt de scump!
+Când păsări, flori sunt scumpe Lui,
+Cu cât mai scump sunt eu!
+
+[v2]
+El crinii-n câmp i-a zugrăvit
+Și-n ei parfum a pus,
+Dar tot mai mult El m-a iubit
+Pe mine, prin Isus!
+
+[v3]
+Da, Domnul a-ngrijit de flori
+Și-apoi de păsări mii,
+Dar grija toată e de noi,
+De scumpii Săi copii!

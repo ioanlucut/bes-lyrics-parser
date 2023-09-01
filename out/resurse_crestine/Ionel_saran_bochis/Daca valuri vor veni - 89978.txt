@@ -1,0 +1,40 @@
+[title]
+Daca valuri vor veni {author: {Ionel Saran Bochis}, {rcId: {89978}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Daca valuri
+Vor veni peste tine
+Esti zdrobit in suflet
+Tare trist ti-e sufletul.
+
+[c]
+/: Nu te teme de furtuna
+Ca Isus este la cirma
+El te v-ajuta. :/
+
+[v2]
+Cand durerea-n viata ta
+Iti va fi mai grea
+Si povara vietii tale
+Te va apasa.
+
+[v3]
+Cand cu lacrimi vei striga
+Caci povara ta
+E grea de purtat de dus
+Catre ceruri sus.
+
+[v4]
+Cand ispita va venii
+In inima ta
+Si-n doeli pe calea ta
+Iti vor fi mereu.
+
+[v5]
+Stie Domnul Suferinta
+Si necazul tau
+Numai el te izbaveste
+Findca-i Dumnezeu.

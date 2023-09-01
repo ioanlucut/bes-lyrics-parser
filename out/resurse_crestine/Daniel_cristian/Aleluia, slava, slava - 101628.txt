@@ -1,0 +1,35 @@
+[title]
+Aleluia slava slava {author: {Daniel Cristian}, {rcId: {101628}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Întunericul se lasă,
+Noaptea iar a coborât, 
+Steaua sus pe cer răsare,
+Isus S-a născut.
+
+[c]
+Aleluia, slavă, slavă!
+Pruncului venit.
+Aleluia, glorie, glorie
+Fiului preasfânt!
+
+[v2]
+Magii spre răsărit plecară,
+Pruncului se închinară,
+Daruri sfinte ei i-au dat
+Și Lui s-au închinat.
+
+[v3]
+Ciobănașii de pe câmpie
+La El au venit,
+Să vadă mare minune:
+Isus S-a născut.
+
+[v4]
+Haideți toți să ne-nchinăm
+Celui ce S-a născut!
+Inima Lui să I-o dăm,
+Căci pentru noi veni.

@@ -1,0 +1,42 @@
+[title]
+Cum doreste un cerb izvorul (unde esti?) - messis {author: {Dan Muncaciu}, {rcId: {201852}}
+
+[sequence]
+v1,c,v2,c,c
+
+[v1]
+Cum dorește-un cerb izvorul
+Sufletul meu Te dorește
+Dumnezeul meu cel veșnic
+Însetat sunt după Tine
+Înaintea Ta voi merge cu lacrimi și suspine
+
+[c]
+Unde ești, unde ești? Te caut
+Unde ești, unde ești, Domnul meu?
+Te arăți în bezna nopții
+Când lumina-n jurul meu dispare
+Harul Tău mă ține-n fiecare zi
+Îndurarea-Ți se-nnoiește în fiecare dimineață
+Duhul Tău mă întărește orice-ar fi
+/: Unde ești, unde ești? Te caut
+Unde ești, unde ești, Domnul meu? :/
+/: Te arăți în bezna nopții
+Când lumina-n jurul meu dispare
+Harul Tău mă ține-n fiecare zi
+Îndurarea-Ți se-nnoiește în fiecare dimineață
+Duhul Tău mă întărește orice-ar fi :/
+Unde ești, unde ești? Te caut
+Unde ești, unde ești, Domnul meu?
+Te arăți în bezna nopții
+Când lumina-n jurul meu dispare
+Harul Tău mă ține-n fiecare zi
+Îndurarea-Ți se-nnoiește în fiecare dimineață
+Duhul Tău mă întărește orice-ar fi
+
+[v2]
+De ce întristat să umblu
+Când am un Dumnezeu așa de mare
+Al Lui este întreg pământul
+Ce motiv am eu să tremur
+În Isus îmi pun nădejdea prin valurile vieții

@@ -1,0 +1,33 @@
+[title]
+Iata stam toti aici dati mainile {author: {Nicolae Moldoveanu}, {rcId: {5673}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Iata, stam toti aici, dati mainile!
+Ora despartirii, iata, vine!
+Desi ne despartim,
+In Duh una suntem;
+/: Cu dragoste zicem: „
+Ramai frate!” :/
+
+[v2]
+Domnul va petreaca, in harul Sau,
+Si, pe drumul pacii, umblati mereu!
+Straluceasca fata voastra-naintea Lui
+/: Si sa va conduca in tara Lui. :/
+
+[v3]
+Fie ora-aceasta a Domnului
+Si sa traiti placut ’naintea Lui!
+Inima, sufletul, prin a Lui iubire,
+/: Sa ne lege-ntruna pe vecie! :/
+
+[v4]
+Pan’ la revedere: „
+Ramai, frate!”
+Pana-n sfarsit, zicem: „
+Ramai, sora!”
+Pan’ la revedere, pana la odihna,
+/: Unde ne vom vedea totdeauna... :/

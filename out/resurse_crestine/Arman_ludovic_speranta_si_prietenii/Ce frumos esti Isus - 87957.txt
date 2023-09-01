@@ -1,0 +1,29 @@
+[title]
+Ce frumos esti isus {author: {Arman Ludovic, Speranța și prietenii}, {rcId: {87957}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ce frumos ești ISUS
+Și ce splendori Tu răspândești,
+Ce iubiri de nespus
+Ce dor în inimă-mi trezești.
+
+[c]
+/: Să zbor, da, să zbor
+Prin ploi de raze de har
+Să zbor, ah, mi-e dor
+De Tine Domn al Domnilor! :/
+
+[v2]
+Când m-avânt, către zări
+Și-n susur blând mereu plutesc,
+Pe divine cărări
+Zi de zi mă faci să îmi doresc.
+
+[v3]
+Tu Păstor minunat
+Ca nimeni altul mai frumos
+Mă atragi neîncetat
+Mi-e dor de Cerul glorios!

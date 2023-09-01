@@ -1,0 +1,37 @@
+[title]
+Mergand printre ruine {author: {Maria Șimon}, {rcId: {197872}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Știu căci tot va fi o tristă amintire,
+Sunt poate ani, clipe sau numai zile
+Și voi pleca de pe acest Pământ!
+Priesc spre Țara Sfântă, minunată,
+Dorul de ea mi-alină inima-ntristată
+Și-mi dă putere să păseșc cântând!
+
+[c]
+Chiar de merg deseori prin ruine,
+Privirea-mi ridic Doamne spre Tine,
+Aripi-mi ’ntinzi și mă ocrotești,
+Mă înalți mai presus de orice stânci acunse,
+Mâna-mi întinzi și mă ridici din ruine
+Mai aproape de soare, de stele, de Tine...
+
+[v2]
+Știu căci totul voi lăsa aici odată
+Și voi pleca spre Țara Sfântă minunată
+Unde Împărat este al meu Isus!
+Aici mi-e calea presărată cu durere,
+În jurul meu este nesiguranță
+Dar Tu Isuse îmi ești mângâiere!
+
+[v3]
+Te rog, ajută-mă să strâng în orice zi
+Comoara vieții pentru veșnicii!
+De-aicea voi pleca cu pumnii goi...
+Aș vrea, când Tu Isuse drag mă vei chema,
+Să fiu găsit plăcut ’naintea Ta,
+Să nu-ți întorci privirea de la mine!

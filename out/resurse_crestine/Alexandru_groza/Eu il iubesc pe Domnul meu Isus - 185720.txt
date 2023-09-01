@@ -1,0 +1,28 @@
+[title]
+Eu il iubesc pe domnul meu isus {author: {Alexandru Groza}, {rcId: {185720}}
+
+[sequence]
+v1,c,c,v2,c
+
+[v1]
+Eu îl iubesc pe Domnul meu Isus
+M-a-mbrăcat cu Haina Mântuirii Lui
+El este Domn al inimii mele
+Pacea Lui domnește în ființa mea
+
+[c]
+Universu-i cântă lauda
+Zi de zi se face voia Lui
+În cer și pe pământ, mereu
+Slăvit e Dumnezeu!
+
+[b]
+Ce minunat și bun este Domnul, El ne dă ajutor
+În necazuri El ne-nviorează
+Și sufletele noastre cu iubirea Lui din Locașul lui cel Sfânt!
+
+[v2]
+Cu inima mea plină de cântări
+În fața tuturor neamurilor laudă-I cânt
+Să știe toți ce bun e Dumnezeu
+Ce prețuit este Domnul în sufletul meu!

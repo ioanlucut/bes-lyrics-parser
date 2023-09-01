@@ -1,0 +1,35 @@
+[title]
+De n-ai fi tu {author: {Nicolae Moldoveanu}, {rcId: {4531}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+De n-ai fi Tu, n-ar fi nici ziua
+Cu toate razele divine
+Nici semănatul nici culesul,
+Căci toate vin și țin de Tine.
+
+[c]
+/: De n-ai fi Tu :/
+N-ar fi nicicând un bine
+/: Căci harul tot :/
+Isus e numa-n Tine.
+
+[v2]
+De n-ai fi Tu, n-ar fi nici seara
+Cu dulci întoarcerile acasă
+Nici toamna și nici primăvara,
+Căci totul mâna ta ne lasă.
+
+[v3]
+De n-ai fi tu n-ar fi nici cântul
+Nici dragostea, nici fericirea
+Căci tu dai tot cu mână largă,
+Si lași în suflet bucuria.
+
+[v4]
+Dar toate acestea
+Vorbesc și strigă la oricine
+Ce-ai fost și ești și vei fi veșnic,
+Frumusețe, adevăr, iubire.

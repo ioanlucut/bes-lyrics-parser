@@ -1,0 +1,30 @@
+[title]
+Nu-i mai grea si neagra noapte {author: {Nicolae Moldoveanu}, {rcId: {201024}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Nu-i mai grea și neagră noapte,
+Nici abis mai fioros,
+/: Decât inima din care,
+A fost alungat Hristos :/
+
+[v2]
+Nu-i mai fără rost viață,
+Trai mai fără de folos,
+/: Moarte mai fără nădejde,
+Decât cea fără Hristos :/
+
+[v3]
+Nu-i blestem atât de crâncen,
+Iad atât de’ntunecos,
+/: Chin atât, ca’n conștiința,
+Celui fără de Hristos :/
+
+[v4]
+O, nenorocit de suflet,
+Nu mai fii necredincios,
+/: Până încă mai poți plânge,
+Poți să’
+L afli pe Hristos :/

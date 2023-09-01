@@ -1,0 +1,58 @@
+[title]
+Cand copii au plecat {author: {Anonim}, {rcId: {71971}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c,v8,c
+
+[v1]
+Cand copii au plecat
+Iata un tanar a-ntrebat
+Ca sa pot intra in rai
+Doamne ce povata-mi dai
+
+[c]
+Vezi vezi tanarule
+Caci Isus te cauta
+Sa-I dai lui viata tanara
+
+[v2]
+Vezi poruncile pazeste
+Catre tanar glasuieste
+Nu ucide nu fura
+Nu minti-n viata ta
+
+[v3]
+Cumpatat mereu sa fii
+Pe parinti cinsteste-tii
+Iubeste ca sip e tine
+Pe aproape spre-ai face bine
+
+[v4]
+A raspuns el lui Isus
+Toate Doamne cate ai spus
+Din pruncie le-am pazit
+Ce mai am de implinit?
+
+[v5]
+Iar Isus ia glasuit
+Vrei sa fii desavarsit?
+Iata ce mai ai sa faci
+Da-ti averea la saraci
+
+[v6]
+Dupa mine apoi sa vii
+Si-om avea-n cer avutii
+Tanarul pleaca-ntristat
+Pentru ca era bogat
+
+[v7]
+Cand vazutu-ia mahnirea
+Si-a indreptat Isus privirea
+De la el spre invatacei
+Si le-a zis iubiti mei
+
+[v8]
+In urechea acului
+O franghie drept va spui
+Va intra mai lesne n ia
+Decat un bogat in rai

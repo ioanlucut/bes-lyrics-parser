@@ -1,0 +1,29 @@
+[title]
+Noi laudam pe cel nascut (o sing a song of bethlehem) {author: {Louis F. Benson, Traducere RO}, {rcId: {236568}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Noi lăudăm pe Cel născut în micul Betleem
+Mesia, Cel făr’ de-nceput, Isus, Emanuel;
+Lumina Lui a strălucit peste-ntreg pământ
+Uniți cu îngerii de sus, slăvim pe Domnul Sfânt.
+
+[v2]
+Slăvim pe Cel ce a crescut și-n toate-a ascultat
+Pe Tatăl Sfânt El L-a iubit și n-a avut păcat;
+Mireasma dragostei de sus, prin El s-a răspândit
+Și ne îndeamnă să trăim, precum El a trăit.
+
+[v3]
+Slăvim pe Cel ce ne-a slujit, al nostru bun Păstor
+Cu brațul Său ne-a ocrotit, Isus, Mântuitor;
+Când valuri mari s-au năpustit și ne-au încercat
+La Domnul nostru, plin de har, noi, pace am aflat.
+
+[v4]
+Slăvim pe Cel ce-a fost jertfit, pe cruce, răstignit
+Purtând păcatul lumii-ntregi, El ni S-a dăruit;
+Prin jertfa Lui am dobândit, viață nouă-n dar
+O, Doamne, fii slăvit în veci, că ne-ai salvat prin har.

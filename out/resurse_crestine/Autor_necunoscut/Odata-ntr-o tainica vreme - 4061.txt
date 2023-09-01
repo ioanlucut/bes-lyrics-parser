@@ -1,0 +1,29 @@
+[title]
+Odata-ntr-o tainica vreme {author: {Anonim}, {rcId: {4061}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Odata-ntr-o tainica vreme,
+Din lut cineva ma facu
+/: Si daca sunt om si nu vierme,
+O, Doamne, asa ai vrut Tu. :/
+
+[v2]
+Si daca am grai si nu muget
+Sa spun ce iubesc si ce nu,
+/: Si daca am harul sa cuget,
+O, Doamne, asa ai vrut Tu. :/
+
+[v3]
+Si daca intaia-Ti zidire
+Deplin in pacat se pierdu,
+/: Nu eu am vrut iarasi unire -
+O, Doamne, asa ai vrut Tu! :/
+
+[v4]
+Si daca voi merge vreodata
+La Cel ce din lut ma facu,
+/: Voi spune de-a pururea: Tata,
+Te laud c-asa ai vrut Tu!” :/

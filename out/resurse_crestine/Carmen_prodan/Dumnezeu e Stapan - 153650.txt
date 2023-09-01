@@ -1,0 +1,38 @@
+[title]
+Dumnezeu e stapan {author: {Carmen Prodan}, {rcId: {153650}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Dumnezeu e Stăpân peste toate,
+Peste vânturi, furtună și ploi!
+Chiar de marea e azi agitată,
+Tatăl Sfânt va lupta pentru noi!
+
+[c]
+/: Chiar de-i mare valul azi,
+El te ține să nu cazi!
+Dumnezeu e Stăpân peste toate! :/
+
+[v2]
+Ce putere ai Tu, Doamne mare,
+Ca să faci chiar din mare uscat!
+Când privesc prin credință în zare,
+Norii grei iată, s-au spulberat!
+
+[c2]
+/: Ești nădejdea mea mereu
+Și la bine și la greu,
+Eu mă-ncred pe vecie în Tine! :/
+
+[v3]
+Când vrăjmași năvălesc o mulțime,
+Să ne-ajungă din urmă-ar dori,
+Dumnezeu îi aruncă în mare,
+Valuri grele-i vor acoperi!
+
+[c3]
+/: Doar prin îndurarea Ta
+Biruință vom avea!
+Fii slăvit, Tată sfânt, pe vecie! :/4X

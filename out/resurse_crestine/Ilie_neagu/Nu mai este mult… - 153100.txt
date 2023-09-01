@@ -1,0 +1,53 @@
+[title]
+Nu mai este mult {author: {Ilie Neagu}, {rcId: {153100}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Nu mai este mult
+Cu toții vom pleca
+Spre zările albastre
+Cu toții vom zbura.
+
+[c]
+/: Spre raiul strălucit
+Și înspre bucurii
+Pe străzile de aur
+Curând noi vom păși. :/
+
+[v2]
+De tot ce este greu,
+De lacrimi vom uita
+Căci nu mai este mult
+Cu toții vom pleca.
+
+[c2]
+/: Ce fericiți vom fi
+În slava lui Isus
+Ce mare bucurie
+Ne-așteaptă acolo sus. :/
+
+[v3]
+Ne-așteaptă bucurii
+Și a noastră răsplată
+De credincios ai fost
+Cununa-ți va fi dată.
+
+[c3]
+/: Pe veci vom locui,
+În țara minunată
+Mereu ne-om bucura,
+Acolo-i țara noastră. :/
+
+[v4]
+N-ai vrea să vii cu noi
+Să uiți de-acest pământ
+Aici nu-i țara noastră
+Ci-acolo-n cerul sfânt.
+
+[c4]
+/: Hai nu mai zăbovi
+Și vino la Isus
+Căci în curând cu slavă,
+Mirele ne ia sus. :/

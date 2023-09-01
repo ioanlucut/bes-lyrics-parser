@@ -1,0 +1,52 @@
+[title]
+Ce probleme mari se pun astazi in viata {author: {Nicolae Moldoveanu}, {rcId: {5806}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,c4
+
+[v1]
+Ce probleme mari se pun astazi in viata,
+Azi, cand lumea parca nu Te mai cunoaste!
+Omul nu-Ti mai cere, azi, nici o povata:
+Si-a intors demult, demult si spatele!
+
+[c]
+Azi, cand necredinta e asa de mare
+Si-ndoieli asa adesea ma curpind,
+Parc-as vrea sa imi raspunzi la o intrebare:
+Mai e mult, pe nori, sa Te vedem venind?
+
+[v2]
+Goana vietii asa adesea ne cuprinde
+Si uitam mereu-mereu de cele sfinte;
+Indoieli ne dau atacuri furibunde
+Si, in suflet, zbuciume ades avem.
+
+[c2]
+Ne-ndoim de cele scrise-n Cartea Sfanta;
+Dupa mintea noastra-am vrea sa-nterpretam,
+Soapta Celui Rau adesea ne cuprinde
+Si de calea Ta noi ne indepartam.
+
+[v3]
+Foarte multi crestini imi spun c-a Ta venire
+Fi-va colo peste veacuri multe;
+Se avanta, in pacate, in nestire...
+Trist exemplu dau adesea pentru multi...
+
+[c3]
+Vreau sa n-am in mine nici o indoiala
+Si, cand ai sa vii degraba sa ma iei,
+Sa nu fie-a mea credinta doar spoiala,
+Ci sa cred ca ce Iti cer, Tu poti sa-mi dai.
+
+[b]
+Dintre multele dorinti ce am in suflet,
+Dintre multe doruri care ma framanta,
+O dorinta peste toate se ridica: o E dorinta de a sti ca-s mantuit.
+
+[c4]
+Chiar de-ar fi nu-mi asculti nici o dorinta
+Dintre toate cate-ajung la Tronul Tau.
+De aceea, eu Te rog, ia cunostinta:
+Vreau sa stiu ca-n cer va fi sufletul meu!”

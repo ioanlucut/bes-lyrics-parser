@@ -1,0 +1,35 @@
+[title]
+Esti singura mea fericire {author: {Felicia Drumas}, {rcId: {100400}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Eu văd cum te-ndrepți Doamne spre mine
+Te simt cum pui balsam pe rana mea
+Te-aud când îmi vorbești cu iubire
+Și azi vreau să-Ți spun Doamne așa:
+
+[c]
+/: Ești singura mea fericire
+Și doar în Tine eu azi mă încred
+Am să rămân Doamne-n Tine
+Căci numai prin Tine viață primesc :/
+
+[v2]
+Știu că am viață-n veșnicie
+Acolo Isus un loc mi-a pregătit
+Trăiesc și sunt plin de bucurie
+Eu știu că de Domnul sunt iubit
+
+[v3]
+Isus, n-ai asemănare-n lume
+Ești sfânt și totul pentru mine-ai dat
+Acum din Cerul Tău privești spre mine
+Știu Doamne, azi prin Tine sunt salvat
+
+[v4]
+O, suflet ce stai azi în deznădejde
+Nu vrei să fii și tu azi fericit ?
+Nu sta: vin’ la Isus căci te primește
+În dar primești iubirea Sa!

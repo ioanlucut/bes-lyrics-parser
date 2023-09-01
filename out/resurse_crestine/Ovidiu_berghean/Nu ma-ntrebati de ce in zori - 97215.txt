@@ -1,0 +1,41 @@
+[title]
+Nu ma-ntrebati de ce in zori {author: {Ovidiu Berghean}, {rcId: {97215}}
+
+[sequence]
+v1,c,c,v2,c,v3,c
+
+[v1]
+Nu mă-ntrebați de ce în zori,
+Cununi de stele din splendori
+A presărat în raze mii,
+Din cer de slavă pe câmpii.
+/: A presărat în raze mii,
+Un Creator :/
+
+[c]
+/: El îmi coboară zorile,
+Când limpezindu-mi nopțile
+Cu har divin la porți de vis,
+Mă poartă-n tainic Paradis. :/
+
+[b]
+Spre El se-ndreaptă al meu dor,
+Când pe cărări de rugi cobor
+Al crucii deal din răstigniri,
+Cu cer de cântec în priviri.
+
+[v2]
+Nu mă-ntrebati de ce din vânt,
+Pe-aripi de ploi peste pământ
+Își face-n taină slujitori,
+Să picure-n senin comori
+/: Își face-n taină slujitori,
+Un Creator :/
+
+[v3]
+Nu mă-ntrebați, voi spune eu,
+Cu mâna Sa, chiar Dumnezeu
+Le-a așezat din veșnicii
+Cu-ale iubirii armonii.
+/: Le-a așezat din veșnicii,
+Un Creator :/

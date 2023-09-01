@@ -1,0 +1,40 @@
+[title]
+Alaturi de tine {author: {Speranța}, {rcId: {80039}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Alături de Tine,
+Să pășesc, o, Domnul meu,
+Să urc pe culmi de biruință,
+Chiar dac’ adeseori drumul este greu.
+Cu Tine pășesc prin credință,
+Cu Tine urc munții înalți,
+Cu Tine străbat văi pustii,
+Cu Tine trec prin noaptea grea,
+Cu Tine pășesc zi de zi.
+
+[c]
+Când ești lângă mine,
+Norii se risipesc.
+În prezența Ta, zorii se ivesc.
+Alături de Tine, greul e mai ușor,
+În prezența Ta, simt că pot să zbor.
+
+[v2]
+Alături de Tine,
+Străbat prin furtună,
+Când valurile mării se înalță,
+Când vânturile vin și norii se adună,
+Doamne, Tu-mi ești a mea speranță.
+Cu Tine trec prin suferință,
+Cu Tine înving încercarea,
+Cu Tine trec prin bezna nopții,
+Căci Tu îmi luminezi cărarea.
+
+[e]
+Cu Tine să rămân o veșnicie,
+Cu Tine să rămân, o, Domnul meu,
+La umbra aripilor Tale
+Sunt ocrotit de orice rău.

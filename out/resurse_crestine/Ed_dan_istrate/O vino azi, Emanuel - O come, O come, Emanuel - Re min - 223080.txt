@@ -1,0 +1,33 @@
+[title]
+O vino azi emanuel - o come o come emanuel - re min {author: {ed. Dan Istrate}, {rcId: {223080}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+O, vino azi, Emanuel,
+Răscumpără-al Tău Israel!
+El geme sub exilul greu,
+Și-așteaptă Fiu de Dumnezeu.
+
+[c]
+Vă bucurați!
+Emanuel va reveni la Israel!
+
+[v2]
+O, vino-a dimineții Stea,
+Ne ești speranță-n noaptea grea,
+Tu bezna morții s-o străpungi,
+Și deznădejdea s-o alungi.
+
+[v3]
+O, Prinț al păcii minunat,
+Dezleagă-ne de-orice păcat!
+Alungă ură și război,
+Și lasă-Ți pacea peste noi!
+
+[v4]
+Înțelepciune din vecii,
+Cel ce-ai creat planete, mii,
+Ne-arată azi cărarea Ta,
+Și-nvață-ne a Te urma!

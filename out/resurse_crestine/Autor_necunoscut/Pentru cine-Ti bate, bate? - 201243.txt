@@ -1,0 +1,35 @@
+[title]
+Pentru cine-ti bate bate? {author: {Anonim}, {rcId: {201243}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Pentru cine-Ți bate, bate?
+Inima neîncetat
+/: Câte doruri te framantă
+De cu zori pană-nserat :/
+
+[v2]
+Pentru cine-Ți dai tu timpul?
+Cu-atât foc cu-atât avant
+/: Pentru norul cel de taină
+Sau pentru acest pamânt :/
+
+[v3]
+Pentru cine-Ți dai tu timpul?
+Si puterea ce o ai
+/: Pentru lumea trecatoare
+Sau pentru eternul rai :/
+
+[v4]
+Pentru cine-Ți arzi iubirea?
+Doru’ aceasta de nespus
+/: Pe-un altar zidit de oameni
+Sau pe-a altarul lui Isus :/
+
+[v5]
+Cercetează-Te și-nedreptăți
+Totul pana nu-i tarziu
+/: Fa sa miste-a ta ființă
+Pentru Dumnezeu cel viu :/

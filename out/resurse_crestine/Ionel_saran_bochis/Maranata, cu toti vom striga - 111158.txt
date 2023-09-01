@@ -1,0 +1,36 @@
+[title]
+Maranata cu toti vom striga {author: {Ionel Saran Bochis}, {rcId: {111158}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Maranata, cu toții vom striga
+Ție noi îți vom cânta
+Și toți împreună
+Când trâmbița sună
+Noi te vom întâmpina
+Lumea toată cu toții, ei, vedea-vor
+Dreapta judecata Ta
+Vai va fi atuncea
+Cei ce vor rămâne,
+Fără de Iubirea Ta.
+
+[c]
+O, Poporul meu iubit
+Până când stai tot împietrit ?
+Și de lume ești tu ești tot robit ?
+Lasă Lumea aceasta,
+/: Cu tot ce este în ea. :/
+
+[v2]
+Deșteptare, stai în așteptare
+Căci Isus El va veni
+Noaptea, ea va trece
+Cu a ei suspine
+Zori de zi se vor ivi
+Mare este Iubirea Ta Doamne
+Mare e și Slava Ta
+Ți-ai dat viața
+Atât ne-ai Iubit
+Pe noi Tu ne-ai Mântuit.

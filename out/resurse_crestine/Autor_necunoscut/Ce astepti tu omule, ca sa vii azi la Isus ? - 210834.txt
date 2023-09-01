@@ -1,0 +1,52 @@
+[title]
+Ce astepti tu omule ca sa vii azi la isus ? {author: {Anonim}, {rcId: {210834}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c2
+
+[v1]
+Ce-aștepți tu omule, ca să vii azi la Isus... ?
+Aștepți boala ca să vie, și să stai cu fața-n sus... ?
+Vrei durerea să te-ncerce și să fii făr’ de puteri... ?
+Copleșit de-ngrijorare,
+ /: poți iertare ca să-i ceri :/
+
+[c]
+N-aștepta momentu-acela, vin-o-n clipa de acum
+El e viața, adevărul; El ți-oferă ce-i mai bun
+O, de-ai ști cum te iubește, să Îl crezi, s-accepți, să iei
+Are totul să-ți ofere, numai să-l urmezi, să vrei..!
+
+[v2]
+Unii cred că bătrânețea va veni-ntr-o bună zi
+Și dorințe cât de multe, se gândesc că n-or mai fi.
+Lucrurile-acestei lumi, nu-i vor mai putea reține
+Atunci crezi că este vremea,
+ /: să te pocăiești, creștine :/
+
+[v3]
+Alți-așteaptă timp să aibă, ca la Isus ei să vie
+Dar se-nșeală, timpul trece și tot mai scurt o să fie.
+Dacă nu poți spune astăzi, mâine nu e pentru tine
+Nu o să ai nici putere,
+ /: nici cunoaștere de sine :/
+
+[v4]
+Vrei o inimă mai bună, ești prea slab, prea păcătos... ?
+Singur nu poți niciodată că să fii mai credincios.
+Zilele s-or scurge iute, iar mai bun, tu nu vei fi
+Doar prin Isus vei ajunge,
+ /: să fii omul ce-ai dorit :/
+
+[v5]
+S-o aștepți ca toți colegii, rudele, vecinii toți
+Să gândească toți ca tine, și-atunci crezi că ai să poți...
+Sunt puțini, spune Scriptura, cei ce, drumul, îl găsesc
+Hotărăști tu pentru tine,
+ /: sau doar alții hotărăsc? :/
+
+[c2]
+Nu-aștepta, căci ignoranța, cursa morții îți întinde
+În timp ce ușa de-ndurare, încet dar, sigur se-nchide
+Isus astăzi te așteaptă, fi-nțelept: să vii la El
+Și va fi mereu cu tine, căci El e Emanuel!

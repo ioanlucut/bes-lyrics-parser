@@ -1,0 +1,14 @@
+[title]
+Duhul si mireasa {author: {Anonim}, {rcId: {1440}}
+
+[sequence]
+v1,c
+
+[v1]
+Duhul și Mireasa zic: Vino, vino!
+Cine aude zice: Vino!
+Și cel ce vrea apa vieții
+Să bea din ea că-i fără de plată.
+
+[c]
+/ Aleluia, fii lăudat! Aleluia, fii lăudat! :/

@@ -1,0 +1,50 @@
+[title]
+Cat esti tanar {author: {Ștefan Irimie}, {rcId: {63910}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Nu de mult am întrebat odată
+Pe un bătrân ce pleca foarte curând
+Spune-mi tataie ce-ai luat de la viața
+Ce mulțumire ai de pe acest pământ ?
+Mi-a răspuns după o clipă de ezitare...
+Cu glas duios mi-a vorbit parcă-l aud
+Zilele-n care, am mers în lucrare
+Am vestit Cuvântul la cât mai mulți.
+
+[c]
+Cât ești tânăr să faci o lucrare!
+Cât ești tânăr ai puteri și biruinți,
+Cât ești tânăr Domnul se bucură de tine
+Ai curaj și răul poți să-l învingi.
+
+[v2]
+Simțeam aceasta în mine cel care
+Stăteam așa și cugetam la lecția lui.
+Odată-n viață mi s-a întâmplat și mie...
+Să mă gândesc: ”
+Oare eu ce am făcut ?”
+Mai dă-mi Doamne câțiva ani de zile
+Și te-oi sluji de acum mai mult...
+Gândeam la Ezechia și la mine...
+Din clipa aceea eu așa am făcut
+
+[c2]
+Cât sunt tânăr să fac o lucrare!!!
+Cât sunt tânăr am puteri și biruinti,
+Cât sunt tânăr Domnul se bucură de mine.
+Am curaj și răul pot să-l înving.
+
+[v3]
+Ia astăzi un caiet scrie o cântare,
+Fă o lucrare de ajutor pentru bătrâni.
+Mergi la orfani și la alții în nevoi care
+Așteaptă ajutor și un sfânt cuvânt.
+
+[c3]
+Cât sunt tânăr să fac o lucrare!
+Cât ești tânăr ai puteri și biruinti,
+Cât ești tânăr Domnul se bucură de tine
+Ai curaj și răul poți să-l învingi.

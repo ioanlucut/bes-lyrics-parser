@@ -1,0 +1,42 @@
+[title]
+Pe muntii galaadului rasuna {author: {Simion Buzduga}, {rcId: {5874}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Pe munții Galaadului răsună
+Un cântec trist, cu dor nemângâiat;
+Îl cântă tinere fecioare-n strună
+Și plânge-o fiică-n cânt îndurerat.
+
+[v2]
+Galaaditul Iefta Îi făcuse
+Lui Dumnezeu o juruință grea:
+De-l va învinge pe Amon, jertfește
+Pe primul care-l va întâmpina.
+
+[c]
+Dar Dumnezeu nu vrea jertfiri de viață;
+Să-I spui ca Iosua, alesul Lui:
+„
+Cât despre mine, eu și-ntreaga casă
+Îi vom sluji cu toți doar Domnului!”
+
+[v3]
+Dar însăși fiica lui ’nainte-i iese,
+Iar Iefta s-a-ngrozit, s-a uluit;
+Aflând, ea-i cere voie-n munți să plece,
+Să-și plângă fecioria-n plâns cumplit.
+
+[v4]
+Și prin poiene, prin pădurea deasă,
+Se urcă tot mai sus și toate plâng;
+Dar soarele se-ascunde-n nori și lasă
+Pădurea cedrilor, în plâns adânc.
+
+[v5]
+Se-aude, parcă, și azi, de-atunci ecoul
+Atât de trist și de sfâșietor.
+El parc-ar spune tuturor să fie
+Atenți cu promisiuni făcute-ușor!

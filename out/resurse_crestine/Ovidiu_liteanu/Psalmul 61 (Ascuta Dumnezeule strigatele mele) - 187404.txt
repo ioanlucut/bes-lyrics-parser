@@ -1,0 +1,42 @@
+[title]
+Psalmul (ascuta dumnezeule strigatele mele) {author: {Ovidiu Liteanu}, {rcId: {187404}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Ascultă Dumnezeule
+Strigătele mele
+Ia aminte la rugăciunea mea
+Ia aminte la rugăciunea mea
+
+[c]
+/: De la capătul pământului strig
+Către Tine cu inima mâhnită și zic
+Du-mă pe Stânca pe care n-o pot ajunge
+/: Căci este prea înaltă pentru mine :/
+/: De la capătul pământului strig
+Către Tine cu inima mâhnită și zic
+Du-mă pe Stânca pe care n-o pot ajunge
+/: Căci este prea înaltă pentru mine :/
+
+[v2]
+/: Aș vrea să locuiesc pe vecie în cortul Tău
+Să alerg la adăpostul aripilor Tale
+Doamne Dumnezeul meu :/
+
+[v3]
+/: Caci Tu Dumnezeule
+Îmi asculți juruințele
+Și îmi dai moștenirea celor care
+Se tem de numele Tău :/
+
+[v4]
+Aș vrea să locuiesc pe vecie în cortul Tău
+Să alerg la adăpostul aripilor Tale
+Doamne Dumnezeul meu
+
+[v5]
+Aș vrea să locuiesc pe vecie în cortul Tău
+/: Să alerg la adăpostul aripilor Tale
+Doamne Dumnezeul meu :/

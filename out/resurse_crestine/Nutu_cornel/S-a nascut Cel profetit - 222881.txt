@@ -1,0 +1,29 @@
+[title]
+S-a nascut cel profetit {author: {Nutu Cornel}, {rcId: {222881}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Spre lumină sus, între galaxii
+Un cor de îngeri zăresc
+/: Ei cântă despre un Salvator
+Și mântuire ne vestesc :/
+
+[c]
+/: S-a născut Cel profețit
+Între oameni a venit
+S-a născut la Betleem,
+S-a născut Emanuel :/
+
+[v2]
+Magi, după asfințit
+Către iesle au pornit
+/: Să se-nchine Regelui Divin
+În umilul Său cămin :/
+
+[v3]
+Sărbătorim venirea Lui
+El e Pruncul de mult așteptat
+/: O stea răsare și ne spune
+El e Domnul minunat :/

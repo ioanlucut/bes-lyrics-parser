@@ -1,0 +1,23 @@
+[title]
+Fii lumina {author: {Fratii Piu}, {rcId: {7001}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Întunericul a cuprins întreaga lume,
+Luminițele s-au stins,
+Dar Dumnezeu cu strigătul unui arhanghel
+Va veni!
+
+[c]
+Fii lumină, fii lumină,
+Luminează-ntunericul ce lume-a cuprins,
+/: Fii lumină, fii lumină
+Și nu te da învins :/
+
+[v2]
+Vremuri grele vom trăi, dar ajutorul
+De la Dumnezeu avem,
+Căci cei ce-n Domnul nădejdea și-o pun totdeauna
+Vor birui!

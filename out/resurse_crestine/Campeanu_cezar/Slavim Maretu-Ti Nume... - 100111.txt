@@ -1,0 +1,47 @@
+[title]
+Slavim maretu-ti nume {author: {Câmpeanu Cezar}, {rcId: {100111}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Fața Ta asupra noastră,
+Iubitoare să se-aplece,
+Te rugăm și mai departe,
+Prin oricâte ne vei trece.
+Astăzi iar, Isuse Doamne,
+Glasul înălțăm spre Tine,
+Si slăvim mărețu-ți Nume,
+Printre cânturi și suspine!
+
+[c]
+/: Slăvim Mărețu-Ți Nume
+Prin cânt și suspine! :/
+
+[v2]
+Căci purtați de-a Tale brațe,
+Și-ocrotiți de-a Ta aripă,
+Orice-ncercare birui-vom,
+Și nu ne îndoim o clipă.
+Nu puterea noastră slabă,
+Ci Tu biruiești Părinte,
+Noi ne-ncredem cu tărie,
+În Cuvântul Cărții Sfinte!
+
+[c2]
+/: Noi ne-ncredem cu tărie,
+În Cuvântul Cărții Sfinte! :/
+
+[v3]
+În necazuri și-n suspine,
+Ne-ai fost scut și întărire
+Astăzi Te slăvesc a noastre,
+Calde lacrimi de iubire!
+Pe drept ești iubit, Isuse,
+De-ai Tăi, pentru veșnicie
+Și în cor ceresc îți cântă:
+Slavă, slavă, Veșnic Ție!
+
+[c3]
+/: Cor ceresc Isus îți cântă:
+Slavă, slavă, slavă Ție! :/

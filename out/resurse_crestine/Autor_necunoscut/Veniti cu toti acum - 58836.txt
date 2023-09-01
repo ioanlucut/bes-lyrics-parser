@@ -1,0 +1,17 @@
+[title]
+Veniti cu toti acum {author: {Anonim}, {rcId: {58836}}
+
+[sequence]
+c,v1,c
+
+[c]
+Veniți cu toți acum
+Să-L lăudăm pe Dumnezeu!
+Veniți cu toți acum
+Să-L lăudăm pe Dumnezeu!
+
+[v1]
+Căci mare este El
+Și vrednic de laudă
+Aici numai numele Lui
+Este înălțat și glorificat!

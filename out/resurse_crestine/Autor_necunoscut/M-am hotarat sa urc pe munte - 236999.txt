@@ -1,0 +1,35 @@
+[title]
+M-am hotarat sa urc pe munte {author: {Anonim}, {rcId: {236999}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+M-am hotărât să urc pe munte
+Pe unde sfinții au umblat
+Să fiu cu Domnu-n părtășie
+În rugăciune nencetat
+
+[c]
+Ajută-mă Isuse Doamne
+Să fiu lumină nencetat
+Să fiu chiar sare printre oameni
+Să fiu creștin cu-adevărat.
+
+[v2]
+M-am hotărât să urc pe munte
+Ajută-mă să ajung sus
+Să fiu cu Moise și Ilie
+În țara sfântă fără-apus.
+
+[v3]
+M-am hotărât să fiu un Petru
+Dar nu cel ce s-a lepădat
+Ajută-mă să fiu un Pavel
+Să fiu exemplu de urmat.
+
+[v4]
+M-am hotărât să spun la lume
+Că Tu-ai murit pe Golgota
+Și toți acei ce cred în tine
+Ei mântuire vor avea.

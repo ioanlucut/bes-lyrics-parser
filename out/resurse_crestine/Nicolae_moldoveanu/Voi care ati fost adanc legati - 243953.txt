@@ -1,0 +1,35 @@
+[title]
+Voi care ati fost adanc legati {author: {Nicolae Moldoveanu}, {rcId: {243953}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Voi care ați fost adânc legați,
+Și Dumnezeu v-a dat scăpare
+Voi pân-la moarte-l datorați,
+Recunoștința cea mai mare!
+
+[c]
+O, nu uitați, o, nu uitați,
+Ce I-ați promis, ce-I datorați,
+Pliniți al vostru legământ,
+Căci Dumnezeul vostru-l sfânt!
+
+[v2]
+Voi care L-ați chemat în greu,
+Și El va scos din suferință,
+Voi până-n veci lui Dumnezeu
+Îi datorați recunoștință!
+
+[v3]
+Atât de-adânc căzuți erați,
+Când El v-aduse izbăvire,
+Azi El așteaptă, nu uitați,
+Întreaga voastra dăruire!
+
+[v4]
+O, nu uitați ce l-ați promis,
+Când L-ați rugat în strâmtoare,
+El Și-a-mplinit Cuvântu-I scris,
+Dar cum vi-I împliniți voi oare?

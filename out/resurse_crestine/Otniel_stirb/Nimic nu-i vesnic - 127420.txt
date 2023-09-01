@@ -1,0 +1,35 @@
+[title]
+Nimic nu-i vesnic {author: {Otniel Stirb}, {rcId: {127420}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Nimic nu-i veșnic în această lume
+Nimic nu ține veșnic pe pământ
+Doar Singur Dumnezeu în veci rămâne
+Și neschimbat rămâne al Său Cuvânt.
+
+[c]
+La Cuvântul Lui, la Cuvântul Lui
+Se mai fac minuni și vindecări
+Prin al Său Cuvânt și prin Duhul Sfânt
+Dumnezeu și azi lucrează pe acest pământ.
+
+[v2]
+Avem dovezi ce stau ca mărturie
+Avem un Dumnezeu adevărat
+Ce ține-n mâna Lui și-a morții cheie
+El e Stăpânul ce pe toate le-a creat.
+
+[v3]
+De vrei să vezi minuni, să ai credință
+Chiar daca-i cât o boaba de muștar
+Te roagă și așteaptă-n umilință
+Că rugăciunea nu-ți va fi-n zadar.
+
+[v4]
+Deci frațiilor să nu uităm că Domnul
+Și azi mai face semne și minuni
+La El găsim ce nu găsim la nimeni
+Când stăm de vorbă cu El în rugăciuni.

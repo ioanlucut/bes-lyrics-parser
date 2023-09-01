@@ -1,0 +1,31 @@
+[title]
+Te am pe tine scump isus {author: {Anonim}, {rcId: {59853}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Te am pe Tine Scump Isus
+Te am pe Tine și mi-e de ajuns,
+Când ești cu mine nu mă tem
+/: Ești Salvatorul meu suprem! :/
+
+[c]
+/: Cu Tine am biruință
+În necaz și-n suferință!
+Cu Tine voi biruii prin orice greu!
+Cu Tine străbat prin viață
+Tu îmi ești a mea povață,
+Rămâi alăturea o, Domnul meu :/
+
+[v2]
+Străbat cu Tine munți și văi
+Cu Tine trec prin norii grei,
+Pe calea care duce’n sus
+/: Cu Tine vreau să merg Isus :/
+
+[v3]
+Cu Tine când călătoresc
+În orice greu eu izbutesc,
+Pe drumul înspre veșnicie
+/: Rămâi mereu a mea făclie :/

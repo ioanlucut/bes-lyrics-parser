@@ -1,0 +1,45 @@
+[title]
+Minunata-i noaptea sfanta {author: {Nicolae Moldoveanu}, {rcId: {1487}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Minunată-i noaptea sfântă
+Minuntă, minunată.
+Sfânta pace înveșmântă
+Lumea toată, lumea toată.
+/: Umple bucurii cerești
+Inimile omenești.
+Noapte sfântă, tu-înfrățești
+Lumea toată. :/
+
+[v2]
+Nălțătoare-i noaptea sfântă,
+Nălțătoare, nălțătoare.
+Vin păstorii, îngeri cântă
+Ieslea-i soare, ieslea-i soare.
+/: Steaua arde luminos
+Magii înalță pe Cristos.
+Pruncu-i rază, ceru-i jos
+Ieslea-i soare. :/
+
+[v3]
+Bucurie-i noaptea sfântă
+Bucurie, bucurie.
+Iadul cade, moartea-i frântă
+Pe vecie, pe vecie.
+/: Profeția s-a-mplinit
+Mântuirea ne-a venit
+Sfânt Mesia, fii slăvit
+Pe vecie. :/
+
+[v4]
+Îndurare-i noaptea sfântă
+Îndurare, îndurare.
+Cerul ne binecuvântă
+Haru-I mare, haru-i mare.
+/: Inimile să gătiți
+Pe Mesia să-L primiți
+Să vă facă fericiți.
+Haru-i mare. :

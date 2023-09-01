@@ -1,0 +1,36 @@
+[title]
+Eu stau mereu in asteptare {author: {amos7}, {rcId: {74192}}
+
+[sequence]
+v1,c,v2,c2,c3
+
+[v1]
+Eu stau mereu in aseptare
+Adesea stau si ma gandesc
+Si-mi pun adesea o intrebare
+Cat oare ai sa zabovesti?
+
+[c]
+/: Caci crucea ce ma apasa este grea
+Si lupta cu pacatul este mare
+S-ajung cat mai curand la Tine as vrea
+Sa scap de chin dureri si ingrijorari :/
+
+[v2]
+Dureri am cunoscut din tinerete
+Ce-i fericirea in viata n-am stiut
+Am plans adesea cu suspine
+Si inima din mine imi plangea
+
+[c2]
+/: Eu Te-am chemat in rugaciune
+Ca sa-mi raspunzi eu am venit
+Mi-ai spus ca a Ta venire
+Mereu, mereu se apropie :/
+
+[c3]
+/: Veni-va ziua cea mareata
+Cand vei rapi pe ai Tai copii
+O!
+Fa-mi si mie Doamne parte
+Sa fiu rapit in vesnicii :/

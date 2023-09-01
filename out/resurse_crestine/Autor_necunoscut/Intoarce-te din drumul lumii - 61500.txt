@@ -1,0 +1,41 @@
+[title]
+Intoarce-te din drumul lumii {author: {Anonim}, {rcId: {61500}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Întoarce-te din drumul lumii
+De pe cărarea unde-s mulți
+Vino pe Calea Mântuirii
+Vino pe drumul celor sfinți.
+Pe calea lată sunt mulți care
+Trăiesc în pofte și-n plăceri
+Pe Calea-ngustă e Viața
+Pe Ea sunt cei ce merg în Cer.
+
+[c]
+/: Care-i drumul tău? Care-i țelul tău?
+Care este calea ta?
+Pe cine iubești? Pe cine slujești?
+Unde ai să pleci? :/
+
+[v2]
+Privește-ți pașii tăi în urmă
+Pe unde-au mers, unde-au umblat
+Ai pribegit fără nădejde
+Și pentru cel rău ai lucrat.
+Oprește-te din mers acuma
+Și fă un pas către Hristos
+Și roagă-L astăzi să îți ierte
+Trecutul tău cel păcătos.
+
+[v3]
+Tu cel ce cauți Fericirea
+Lumea nu-ți poate oferi
+Căci Pacea ta și Mântuirea
+Doar la Isus le poți găsi.
+Te cheamă Jertfa de la cruce
+Și Cel Ce-a suferit pe ea
+Să-ți dăruiască Mântuirea
+Te cheamă astăzi Golgota.

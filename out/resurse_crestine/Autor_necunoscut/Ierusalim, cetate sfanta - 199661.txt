@@ -1,0 +1,41 @@
+[title]
+Ierusalim cetate sfanta {author: {Anonim}, {rcId: {199661}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ierusalim, cetate-mpodobită
+Cu pietre scumpe de mărgăritar
+În tine pururea mereu se cântă
+Căci tu ești țara sfântă de cleștar
+În tine este veșnic sărbătoare
+Și veselie cum nu s-a văzut
+În tine este veșnic doar cântare
+Și armonie pe un ton plăcut
+
+[c]
+Ierusalim, cetate sfântă
+Zidită chiar de Dumnezeu
+Tu ești cetatea fericirii
+Aș vrea să fiu un cetățean al tău
+
+[v2]
+Ierusalim, cetate glorioasă
+Aud chemarea ta de peste văi
+Când chemi creștinii ca să-i duci acasă
+Să fie pururea copiii tăi
+Ierusalim, cetatea nemurii
+În tine vom fi toți asigurați
+De ploi, de vânt, de nori și de furtună
+Și chiar de moarte toți vom fi scăpați
+
+[v3]
+Ierusalim, cetatea fericirii
+Aștept să vină ziua-aceea când
+Vom părăsi cu toți pământu-acesta
+Și vom zbura spre tine toți cântând
+În tine nu mai este nici durere
+Nici boli, nici plânsete și nici oftat
+Nici boldurile morții n-au putere
+Căci noi prin Domnul viața-am câștigat

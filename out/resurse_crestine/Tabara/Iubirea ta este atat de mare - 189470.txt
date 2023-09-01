@@ -1,0 +1,40 @@
+[title]
+Iubirea ta este atat de mare {author: {Tabara 477}, {rcId: {189470}}
+
+[sequence]
+v1,v2,c,v3,c,e
+
+[v1]
+Iubirea Ta este-atât de mare,
+Plină e inima a mea
+Să te cunosc în a Ta splendoare
+Este dorința mea
+
+[v2]
+Roua zorilor bezna nopților
+În înălțimi de munți
+Și-n adânc de mări
+Până la marginile pământului
+Se vede bunatatea Lui
+
+[c]
+Domn al minunilor
+Puternic Creator
+Tu spui doar un cuvânt
+Și totul e nou
+Domn al minunilor
+Puternic Creator
+Tu spui doar un cuvânt
+Și totul e nou
+
+[v3]
+Iubirea Ta este locul din care
+Vreau să văd lumea mea
+Și viața mea să-ți aducă onoare
+Găsește-ți plăcerea în ea
+
+[e]
+Istoria ai schimbat
+Când ne-ai răscumpart
+Trecutul e îngropat
+Și toate sunt noi

@@ -1,0 +1,37 @@
+[title]
+Iubire fara margini {author: {Petre Strango}, {rcId: {136152}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ce iubire fără margini
+Doamne-n tine am găsit
+Ce lumină și ce viață
+Prin Isus ne-ai dăruit
+
+[c]
+Isus, eu vin!
+La tine vin!
+Așa cum sunt, la tine vin!
+Isus, eu vin!
+La tine vin!
+Așa cum sunt, tu mă primești.
+
+[v2]
+Câtă milă și-ndurare
+De la tine am primit
+Toată viața noastră Doamne
+Îți vom cânta și te-vom iubi
+
+[v3]
+Aleluia! ce măreț
+De nimic nu ma-ndoiesc
+Înspre cer călătoresc
+Doar prin harul său cersc
+
+[v4]
+Aleluia! făra grijă
+Eu cânt astăzi Domnului
+A spălat a mea vină
+Sunt sfințit prin jertfa Lui

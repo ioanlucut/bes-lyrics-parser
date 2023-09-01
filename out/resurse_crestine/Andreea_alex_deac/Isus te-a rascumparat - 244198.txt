@@ -1,0 +1,23 @@
+[title]
+Isus te-a rascumparat {author: {Andreea, Alex Deac}, {rcId: {244198}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Și dacă lumea te disprețuiește
+Și dacă frații tăi privesc n-apoi
+Și dacă-a ta credință iar slăbește
+Tu nu uita, privește mai sus de nori!
+
+[c]
+Căci Isus ce te-a răscumpărat
+Și pe-o cruce a fost crucificat
+/: Nu te uită, nu te lasă
+E cu tine în fiecare zi! :/
+
+[v2]
+De aceea-n orice zi îndreaptă-ți glasul
+Spre Isus ce te-a salvat
+El a venit în locul tău să moară
+Ca tu să ai viață și să fii iertat!

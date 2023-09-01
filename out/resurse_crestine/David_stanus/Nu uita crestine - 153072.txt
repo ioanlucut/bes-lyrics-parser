@@ -1,0 +1,36 @@
+[title]
+Nu uita crestine {author: {David Stănuș}, {rcId: {153072}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Nu uita creștine crucea de purtat
+Din porunca sfântă ce Isus ne-a dat.
+Nu uita creștine căci fără de ea
+Niciodată n-ai s-ajungi sus în Țara Sa.
+
+[c]
+Fără cruce, niciodată
+Sus în ceruri n-ai s-ajungi
+Și-o întreagă veșnicie ai să plângi!
+
+[v2]
+E ușor pe cale fără crucea Sa,
+Fără de necazuri în viața ta.
+E ușor pe cale fără de poveri,
+Un creștin fără cruce nu merge spre cer.
+
+[v3]
+Anii vieții zboară și se duc mereu,
+Tu cu crucea ta mergi spre Dumnezeu.
+Nu privi în jur și nu murmura.
+Dumnezeu la crucea ta te va ajuta!
+
+[c2]
+Fără cruce, niciodată
+Sus în ceruri n-ai s-ajungi
+Și-o întreagă veșnicie ai să plângi
+Hai la cruce, prieten dragă
+Ca in ceruri tu s-ajungi
+Și-o întreagă veșnicie o să cânți!

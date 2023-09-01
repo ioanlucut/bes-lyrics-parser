@@ -1,0 +1,17 @@
+[title]
+Pe calea ingusta {author: {Anonim}, {rcId: {5801}}
+
+[sequence]
+c,v1,c
+
+[c]
+Când în cer vom ajunge
+O, ce zi minunata va fi!
+Vom vedea pe Isus
+Si-nveci de veci îl vom slavi!
+
+[v1]
+Domnului cântam marire
+Pentru îndurarea Sa
+In cereasca’n paratie
+loc de slava vom vedea

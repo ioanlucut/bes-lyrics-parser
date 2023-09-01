@@ -1,0 +1,29 @@
+[title]
+Timpul este pe sfarsit frate esti tu pregatit {author: {Anonim}, {rcId: {3815}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Timpul este pe sfârșit! Frate ești tu pregătit
+Ca să-ntâmpini, pe nori, pe Mesia ?
+El va reveni din nou să-și răpească al său popor:
+El mirele tuturor, Mesia!
+
+[c]
+/: Să ne pregătim, de-acum,
+Să călătorim pe drum
+Și, acolo-n țara Sa,
+Veșnic cu toți vom cânta! :/
+
+[v2]
+De ai fost tu apăsat, de povară de păcat
+El Isus te-a mângâiat în toate
+Ți-a luat povara grea și-a dus-o la Golgota.
+Și ți-a dat mântuirea El, Isus.
+
+[v3]
+Atunci, te vei bucura de-ai umblat pe calea sa;
+Răsplătire îți va da El, Domnul.
+Acum noi îți mulțumim și te așteptăm să vii,
+Să ne duci în veșnicii, o, Isus.

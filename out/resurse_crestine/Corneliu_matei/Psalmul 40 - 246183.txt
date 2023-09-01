@@ -1,0 +1,23 @@
+[title]
+Psalmul {author: {Corneliu Matei}, {rcId: {246183}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Mi-am pus nădejdea toată doar în Domnul
+Și cu iubire El s-a plecat
+M-a ascultat când L-am chemat în noapte
+El a venit m-a binecuvântat.
+
+[c]
+Cât de multe sunt planurile Tale
+Și câte planuri ai pentru mine
+Nimeni nu se poate asemăna cu Tine
+Ești Singurul Dumnezeu Adevărat!
+
+[v2]
+Mi-ai Așezat picioarele pe Stâncă
+Mi-ai întărit atunci pașii mei
+Mi-ai pus în gură o cântare nouă
+De laudă pentru Dumnezeul Meu.

@@ -1,0 +1,30 @@
+[title]
+Let us adore {author: {Reuben Morgan, Traducere RO}, {rcId: {2524}}
+
+[sequence]
+v1,v2,c,v3,b,c
+
+[v1]
+Cerul declara gloria Lui
+Pământu-ntreg vestește azi
+Minunile Lui
+
+[v2]
+Tot ce-a creat îl laudă
+Și toate-n cor mărturisesc
+Ce mare e El
+
+[c]
+Să-L adorăm, să-L adorăm
+Isus Hristos este Domn
+Să ne-nchinăm Lui, să ne-nchinăm Lui
+Isus Hristos este Domn
+
+[v3]
+Cuvântul Său rămâne-n veci
+Chiar dacă lumea va pieri
+Prin El vom trăi
+
+[b]
+Aleluia, Aleluia
+Tu ești vrednic, Domnul meu

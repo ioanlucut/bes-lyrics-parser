@@ -1,0 +1,23 @@
+[title]
+O viata fara moarte am in tine {author: {Alexandru Groza}, {rcId: {185482}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+O, ce mare ești tu, Doamne, în locașul Tău cel sfânt
+Oștile cerești se-nchină, laudă slavă îți cânt
+Mari sunt lucrurile Tale și în cer și pe pământ
+Tu, cu mare-nțelepciune le-ai dat viață prin Cuvânt
+
+[c]
+O viață fără moarte am în Tine, Domnul meu
+Grijurile fug departe când slăvesc Numele Tău!
+Mâna Ta ce mă ridică, mă apropie mereu
+Înspre tronul de-ndurare, înspre Tine, Dumnezeu!
+
+[v2]
+Când privirea mi se-ndreaptă către cerul cel înalt
+Universul îți dă slavă, ești așa de adorat
+De cuvântul Tău ascultă toate ce Tu le-ai creat
+Mările învolburate se supun cu-adevărat!

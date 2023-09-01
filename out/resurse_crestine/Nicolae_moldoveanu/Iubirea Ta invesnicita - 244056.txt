@@ -1,0 +1,29 @@
+[title]
+Iubirea ta invesnicita {author: {Nicolae Moldoveanu}, {rcId: {244056}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Iubirea Ta înveșnicită
+Prin nesfârșite noi iubiri,
+/: Împrospătează fericită
+Sămânța sfintei Tale firi. :/
+
+[v2]
+Frumsețea, adevăru-apare
+Mai scumpe cu-orice veac trecut,
+/: Lumina lui e și mai mare,
+Cu cât e și mai cunoscut. :/
+
+[v3]
+Prin roade și prin trăinicie
+Se-arată ce-i adevărat,
+/: Credința ta cu dărnicie
+Istoriei le-ai arătat. :/
+
+[v4]
+De aceea binecuvântată
+E-n veci de veci iubirea Ta
+/: Nimic nu va putea vreodată
+Să străluceasc-atât cât ea. :/

@@ -1,0 +1,39 @@
+[title]
+Noi suntem din israel {author: {Crăciun Tira}, {rcId: {59847}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Noi suntem din Israel noi nu ne închinăm
+Spre chipul tău de aur noi nici nu ne uităm!
+Așa începe marșul acelor trei eroi
+Ce-au biruit infernul și chipu’ acelui zeu!
+
+[c]
+Să cânte cât mai tare, noi nu ne închinăm
+Orchestre și fanfare noi în picioare stăm!
+
+[v2]
+Atuncia împăratul grozav s-a supărat
+Că ordinul lui sever a fost nerespectat,
+Trei tineri din Israel, trei tineri din Sion
+Nu vor să se închine la zei în Babilon!
+
+[v3]
+Dar prietenii lui Daniel din prinșii de război
+Nu vor să se închine la zei în Babilon!
+Noi suntem din Israel la zei nu ne’nchinăm
+Al nostru Domn e’n ceruri pe El noi îl urmăm!
+
+[v4]
+Să ardă atunci cuptorul la ordinul ce’l dau eu
+Să văd cine vă scapă și cine’i Dumnezeu!
+Și chiar să nu ne scape al nostru Dumnezeu
+Nu ne’nchinăm la idoli și nici la chipul tău!
+
+[v5]
+Dar groaza îi cuprinde pe mincinoșii zei
+Că patru sunt în flăcări și hainele’s pe ei!
+Noi suntem din Israel la zei nu ne’nchinăm
+Al nostru Domn e’n ceruri pe El îl lăudăm!

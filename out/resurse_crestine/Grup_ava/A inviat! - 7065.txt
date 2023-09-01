@@ -1,0 +1,61 @@
+[title]
+A inviat {author: {grup ava}, {rcId: {7065}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Privea-ngrozit cum iadu-întreg
+În jurul Tău se adunase,
+Iar diavolul ostași punea
+Să bată tare, tot mai tare.
+Chiar dacă cuiul nemilos intra
+În sfintele-Ți mâini și picioare,
+Cu dragoste atuncea îi priveai
+Și Tatălui din cer Tu Te rugai:
+
+[c]
+O, Tată, iartă-i, Tată, iartă-i!
+Nu lua, Te rog, în seamă al lor păcat!
+O, Tată, iartă-i, Tată, iartă-i,
+Căci îi iubesc cu-adevărat.
+
+[v2]
+Nici îngerii nu au putut
+Privi la-ngrozitoarea scenă,
+Când El, Isus, al nostru Domn,
+Pe-o cruce al Său Duh Și-a dat.
+Apoi într-un mormânt L-au așezat,
+Ca pentru veci L-au îngropat.
+Credeau că iadul L-a luat,
+Dar mult nu s-au mai bucurat.
+
+[c2]
+Căci a înviat, a înviat,
+Isus, El, Prințul vieții, a înviat.
+Tot iadu-atunci s-a zguduit,
+Când moartea, Doamne, ai biruit.
+
+[v3]
+Iar când femeile-au venit
+Să-L caute la mormânt pe Isus,
+Doi heruvimi s-au arătat.
+Privindu-le atunci le-au zis:
+
+[c3]
+A înviat, a înviat,
+Isus, El, Prințul vieții, a înviat.
+Tot iadu-atunci s-a zguduit,
+Când moartea, Doamne, ai biruit.
+
+[v4]
+Au alergat la ucenici
+Spunându-le măreața veste
+Ce au aflat-o la mormânt,
+O minunată veste:
+
+[c4]
+/: A înviat, a înviat
+Isus, El, Prințul vieții, a înviat.
+Tot iadu-atunci s-a zguduit,
+/: Când moartea, Doamne, ai biruit. :/

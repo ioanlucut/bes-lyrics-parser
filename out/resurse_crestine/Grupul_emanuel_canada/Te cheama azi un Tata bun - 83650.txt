@@ -1,0 +1,35 @@
+[title]
+Te cheama azi un tata bun {author: {Grupul Emanuel Canada}, {rcId: {83650}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Te cheamă azi un Tată bun,
+Te cheamă azi iubirea sfântă.
+E Dumnezeu din veșnicii,
+Ascultă azi vocea Lui blândă.
+
+[c]
+Noi vrem să Te-avem pe deplin,
+De bat vânturi sau e senin,
+Când drumu-i ușor sau e greu,
+Pe veci să Te-avem tot mereu.
+
+[v2]
+Am înțeles iubirea Ta
+Ce-i mare și e jertfitoare.
+Isuse, drag, Îți mulțumesc
+Că-n jertfă Ta eu am salvare.
+
+[v3]
+Mi-ai fost un scut în ceasul greu,
+Isuse drag pe-acest pământ.
+Și-Ți vom purta Numele Tău,
+Pecetluiți cu Duhul Sfânt.
+
+[v4]
+Isuse, Tu ne-ai ridicat,
+Prin bunătatea Ta cea mare.
+Și vrem să spunem azi la toți,
+Că al Tău Nume-i Sfânt și Mare.

@@ -1,0 +1,41 @@
+[title]
+Tu esti mare cel mai mare {author: {Sunny Tranca}, {rcId: {187991}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Tu ești Domnul Savaot,
+Tu ești Rege peste tot
+Tu ești vrednic, Tu ești sfânt
+Ești atotputernic!
+
+[v2]
+Tu ești Domnul steagul meu,
+Tu îmi dai viață mereu,
+Tu ești ocrotirea mea
+Tu ești bun cu mine
+
+[v3]
+Tu ești mare, Cel mai mare
+Tu ești mare și puternic Tată
+Tu ești mare, Cel mai mare
+Tu ești mare și puternic Tată
+
+[v4]
+În smerenie ai venit
+Cu blândețe ne-ai slujit
+Mielul ce a fost junghiat
+Pentru omenire!
+
+[v5]
+A treia zi ai înviat
+Prin Duhul Sfânt ne-ai adoptat
+Cu Tatăl suntem împăcați
+Prin a Ta iubire!
+
+[v6]
+Tu ești vrednic,
+Cel mai vrednic
+Tu ești vrednic
+de cinstire, Isus!

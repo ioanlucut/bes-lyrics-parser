@@ -1,0 +1,29 @@
+[title]
+Cine vrea sa simta azi pe domnul | sa-i cantam cantari de bucurie {author: {Anonim}, {rcId: {232641}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Cine :/ vrea să simtă azi pe Domnul
+/: Cine :/ vrea să bea din apa Sa
+/: Cine :/ vrea să simtă bucuria
+/: Cine :/ să-și deschidă inima
+
+[c]
+Să-i cântăm cântări de bucurie
+Să-i cântăm cu toți Domnului Isus
+Să-și reverse-o binecuvântare
+Astazi peste toată casa lui
+
+[v2]
+/: Cine :/ are astăzi vreo povară
+/: Cine :/ este astăzi întristat
+/: Poate :/ azi sa vina cu povara
+/: La cel :/ crucea noastra a purtat
+
+[v3]
+/: Cine :/ vrea să steie lânga Domnul
+/: Cine :/ să nu dea nicicând’napoi
+/: Cine :/ ascultă a lui chemare
+/: Cine :/ sa cânte-acum cu noi

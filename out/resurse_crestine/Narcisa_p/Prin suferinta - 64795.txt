@@ -1,0 +1,35 @@
+[title]
+Prin suferinta {author: {Narcisa P.}, {rcId: {64795}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Prin suferință, ajungi la viața
+În care ești biruitor.
+Prin suferință, devii puternic,
+Mai fericit, mai răbdător.
+
+[c]
+Când încercarea arzătoare
+Așa ușor te-a dărâmat,
+Tu nu cădea în disperare,
+Să lupți, să te păstrezi curat.
+
+[v2]
+Prin suferință, ești o lumină
+Pe calea dreaptă unde pășești.
+Și-o inimă mai dăruită,
+Prin suferință, dobândești.
+
+[v3]
+Prin suferință, Ieremia
+A fost de Domnul, încercat,
+Dar el a biruit durerea,
+Căci Dumnezeu l-a mângâiat.
+
+[v4]
+Și tot prin crudă suferință,
+Pe Iov, tot Domnul l-a-ncercat.
+El a rămas, plin de credință
+Și Dumnezeu l-a ridicat.

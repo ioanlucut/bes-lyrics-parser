@@ -1,0 +1,21 @@
+[title]
+Staruiti acum cu totii o dupa duhul sfant {author: {Nicolae Moldoveanu}, {rcId: {5507}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Stăruiți acum cu toții, o, după Duhul Sfânt
+/: Căci Isus, Domnul Vieții, o, va veni-n curând :/
+
+[v2]
+Domnul, cu glasul Său dulce, o, atunci va striga
+/: Biserica, din morminte, o, se va deștepta :/
+
+[v3]
+Și, în nori, atunci cu toții, o, se vor ridica
+/: Cu toți binecuvântații, o, spre-a-L întâmpina :/
+
+[v4]
+Cu oștirea Lui cerească, o, îi va număra;
+/: Îmbrăcați în haine albe, o, se vor bucura :/

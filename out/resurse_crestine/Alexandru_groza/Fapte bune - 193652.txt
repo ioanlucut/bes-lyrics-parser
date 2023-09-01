@@ -1,0 +1,21 @@
+[title]
+Fapte bune {author: {Alexandru Groza}, {rcId: {193652}}
+
+[sequence]
+v1,c,c,v2,c
+
+[v1]
+Dumnezeu ne-a dat viață, preamăresc Numele Lui
+El sfințește-a mea ființă, când slăvesc Numele Lui!
+
+[c]
+Pentru orice faptă bună răsplătește Dumnezeu
+Pe acei ce cu credință preamăresc Numele-I sfânt!
+
+[b]
+Cântarea mea de laudă se-nalță înspre Dumnezeu
+Spre slava Lui eu voi cânta, toată viața mea!
+
+[v2]
+Dumnezeu ți-a dat și ție dragoste-n inima mea
+O, fii plin de mulțumire, cântând înspre slava Sa!

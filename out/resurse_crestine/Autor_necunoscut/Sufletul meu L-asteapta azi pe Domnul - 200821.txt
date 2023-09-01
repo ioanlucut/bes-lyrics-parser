@@ -1,0 +1,32 @@
+[title]
+Sufletul meu l-asteapta azi pe domnul {author: {Necunoscut}, {rcId: {200821}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Sufletul meu L-așteaptă azi pe Domnul
+Mai mult decât așteaptă străjerii dimineața.
+%Corabia-i lovită de valuri în furtună,
+Dar eu privesc ’nainte, în Domnul mi-e speranța%
+
+[c]
+Sper cer îmi e privirea,
+Și cânt cu bucurie..
+Aștept să vină Domnul,
+Curând va fi răpirea.
+
+[v2]
+Doamne ajută, Doamne dă izbândă!
+De-am căzut în valuri, Isus, El, mă ridică
+%Și candela mi-o umple
+Să ardă iar întruna,
+S-ajung la țărm, Isuse,
+Să pot primi cununa %
+
+[v3]
+O, frați iubiți sfârși-vom alergarea..
+Încredeți-vă-n Domnul, curând vom trece marea
+%Să ne rugăm prin Duhul, pe marea furtunoasă
+Rămâneți în speranța că vom ajunge-Acasă%
+Amin!

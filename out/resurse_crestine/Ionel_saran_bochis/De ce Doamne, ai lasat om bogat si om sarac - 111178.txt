@@ -1,0 +1,25 @@
+[title]
+De ce doamne ai lasat om bogat si om sarac {author: {Ionel Saran Bochis}, {rcId: {111178}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+De ce Doamne, ai lăsat om bogat și om sărac
+/: Altul e bogat, bogat, altul e sărac, sărac :/
+
+[c]
+La altul i-ai dat de toate și altul moare de foame
+/: La bogați tu bani le dai, lângă sărac, Doamne, stai :/
+
+[v2]
+Ești, Doamne, pentru sărac, ești un ajutor bogat
+/: Ești un ajutor bogat și pentru omul sărman :/
+
+[v3]
+Doamne nu-mi da sărăcie și nici multă bogăție
+/: Și nici multă bogăție să nu mă despart de Tine :/
+
+[c2]
+De-oi rămâne fără haine, doar cu haina de pe mine
+/: Și de-aș fi străin pe lume, Doamne, nu plec de la Tine :/

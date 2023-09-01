@@ -1,0 +1,29 @@
+[title]
+S-a nascut {author: {Cristian Ungur}, {rcId: {7274}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Fulgi de nea din cer
+Se aștern ușor în noi
+Iar îngeri cântă-n cor un cântec nou
+Ascult copii râzând
+Aud cum cer un dar de vis
+Dar ei nu știu că cerul s-a deschis
+
+[c]
+S-a născut Isus,
+Salavatorul nostru sfânt
+E lumină azi pe-ntreg pământ
+S-a născut Isus
+Fericit acum eu sunt
+/: Din inimă cu mulțumire-i cânt :/
+
+[v2]
+Renunțând la tot
+Am simțit tot ce-am simțit
+Prin El, prin dragoste mă regăsesc
+Mai presus de toți
+E Isus ce-a fost promis
+Și astăzi știu că cerul s-a deschis

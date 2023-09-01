@@ -1,0 +1,29 @@
+[title]
+Noi suntem familia ta {author: {Otto Pascal, Alin Timofte}, {rcId: {179582}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Trec anii mei, dar trec frumos
+Căci am trăit prin adevăr,
+Mă uit în urma mea
+Și văd doar binecuvântări!
+Povața voastră a rodit,
+Ce-ați semănat în noi așa frumos a înflorit!
+
+[c]
+Doamne, noi suntem familia ta,
+Suntem darul minunat, presărat cu dragoste!
+Vrem, dar, un exemplu bun să fim
+Pentru-acei ce-n urmă vin, semănând doar binele!
+
+[v2]
+Nu o să pierd nimic, cu toate mă voi întâlni în cer,
+N-a fost ușor, dar noi am crezut în Dumnezeu!
+În voi s-a oglindit Isus,
+Tablou-acesta nu, niciodată n-am să-l uit!
+
+[e]
+Am învățat să slujim, pe părinți să-i prețuim,
+Doamne... ce mult îi iubim!

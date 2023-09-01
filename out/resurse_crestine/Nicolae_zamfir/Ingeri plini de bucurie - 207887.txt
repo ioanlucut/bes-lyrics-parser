@@ -1,0 +1,29 @@
+[title]
+Ingeri plini de bucurie {author: {Nicolae Zamfir}, {rcId: {207887}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Îngeri plini de bucurie,
+Vestea Bună au adus
+/: La păstorii din câmpie,
+S-a născut Pruncul Isus :/
+
+[c]
+Osana Mărire Azi s-a născut Isus,
+Veniți să îi cântăm, cu îngerii de sus
+Osana Mărire Lui să ne-nchinăm,
+Din toată inima, pe El să-L lăudăm!
+
+[v2]
+S-a născut un Împărat,
+Fiul Celui Prea Înalt
+/: Cum în Carte este scris,
+S-a născut Pruncul promis :/
+
+[v3]
+Pe la geamul casei tale
+Trec și azi colindători,
+/: Să aducă Vestea Bună
+Despre Domnul Salvator :/

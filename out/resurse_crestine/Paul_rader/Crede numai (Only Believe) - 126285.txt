@@ -1,0 +1,33 @@
+[title]
+Crede numai (only believe) {author: {Paul Rader, Traducere RO}, {rcId: {126285}}
+
+[sequence]
+v1,c,v2,c,v3,c,s,c
+
+[v1]
+Teamă să nu ai, o, turmă mică
+Păstor ți-e Isus, deci să nu ai frică;
+Puterea doar Lui, în cer și pe pământ
+De sus I-a fost dată de Tatăl Preasfânt.
+
+[c]
+Crede numai, crede numai
+Prin credință învingi, crede numai
+Crede numai, crede numai
+Când ești în mâna Lui, frică să n-ai.
+
+[v2]
+Isus e acum Călăuza ta
+El drumul cel bun, ție-ți va arăta;
+Izvorul amar, dacă-l vei întâlni
+Din apele vii, setea-ți va potoli.
+
+[v3]
+Teamă să nu ai, când ziduri te-nchid
+Căci falnice porți ’nainte-I se deschid;
+El te va păzi, fie soare sau nori
+În El să te-ncrezi, de e noapte sau zori.
+
+[s]
+Dar Isus, când a auzit lucrul acesta, a zis fruntașului sinagogii: ”
+Nu te teme; crede numai, și va fi tămăduită.” Luca 8:50

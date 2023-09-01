@@ -1,0 +1,28 @@
+[title]
+Rege al maretiei (king of majesty) {author: {Hillsong United, Traducere RO}, {rcId: {2474}}
+
+[sequence]
+v1,b,c,v2,c
+
+[v1]
+Isuse, Te laud,
+Isuse, Te caut,
+Tu știi că Te iubesc,
+Tot mai mult Te doresc.
+
+[b]
+Rege-al măreției,
+Te aștept pe Tine,
+Vreau să văd gloria Ta,
+Să stau în prezența Ta.
+
+[c]
+Isuse, Tu ești Salvatorul meu,
+În veci de veci eu Te voi lăuda,
+Te voi adora.
+
+[v2]
+Cuvinte de slavă,
+Cuvinte de laudă,
+În veci le voi purta,
+Isuse, în inima mea.

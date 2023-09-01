@@ -1,0 +1,35 @@
+[title]
+Sosita e iar primavara {author: {Anonim}, {rcId: {74400}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Sosită e iar primăvara
+Și câmpul e-nflorit;
+Văzduhul e plin de miresme,
+De cânt și ciripit.
+
+[c]
+Dar primăvara vieții
+E cel mai mare dar;
+Cu Isus rămâne frumoasă,
+Ca un mărgăritar.
+
+[v2]
+Câmpia e împodobită
+Ca un frumos covor,
+De ierburi și flori minunate
+În mii și mii de culori.
+
+[v3]
+Din suflet înalț o cântare
+Spre bunul Creator,
+Ce-a dat pe Isus ca să fie
+Al meu Mântuitor.
+
+[c2]
+Dar primăvara vieții
+E cel mai mare dar
+O pun azi întreagă ca jertfă
+Pe-al inimii altar.

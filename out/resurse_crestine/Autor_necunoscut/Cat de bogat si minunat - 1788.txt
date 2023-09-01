@@ -1,0 +1,41 @@
+[title]
+Cat de bogat si minunat {author: {Anonim}, {rcId: {1788}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Cât de bogat și minunat
+Este acest Cuvânt,
+Domnul iubirea Sa ne-a dat
+Prin noul Legământ.
+
+[c]
+În al iubirii tainic har,
+Prin Duhul vă-ntăriți!
+Mireasma sfântului calvar
+În lume răspândiți!
+
+[v2]
+Să nu trăiți în dezbinări,
+Nici în vorbiri de rău,
+Nu întristați pe Duhul Sfânt,
+Voi sunteți rodul Său!
+
+[v3]
+,, Să nu apună soarele
+Peste mânia ta”
+Nu stăviliți izvoarele
+Ce curg din Golgota!
+
+[v4]
+Pe cel căzut sa-l ridicați
+Cu dragoste și har
+Și-n bunătatea lui Hristos
+Să-l duceți la Calvar!
+
+[v5]
+Pe nori de slavă vor zbura
+Cu Mirele iubit
+Cei ce pe Domnul și pe frați,
+La fel au prețuit!

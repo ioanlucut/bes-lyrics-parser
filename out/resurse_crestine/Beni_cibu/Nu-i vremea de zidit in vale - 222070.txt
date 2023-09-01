@@ -1,0 +1,35 @@
+[title]
+Nu-i vremea de zidit in vale {author: {Beni Cibu}, {rcId: {222070}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Nu-i vremea de zidit în vale
+Cămări și ziduri de adăpost.
+E vremea sa umblăm pe calea,
+Pe care a umblat Hristos.
+/: Smeriți, smeriți pe cale urmând-ul pe
+Isus Hristos :/
+
+[c]
+Este o cetate de scăpare
+Nu privi în jur la glie și comori
+Isus îți oferă o zi de salvare,
+Lasă totul astăzi, Căci vine pe nori!
+
+[v2]
+Nu-i vremea de ales câmpia,
+Cu lanurile ei udate,
+Chiar de îi mănoasă și îți pare
+Belșugul binecuvântare.
+/: O nu să nu îți para, belșugul
+binecuvântare :/
+
+[v3]
+Nu-i vremea planurilor tale
+Cu perspectiva spre pământ
+Trezire, Strigă cu putere,
+Și astăzi Duhul Celui Sfant!
+/: Strajeri, strigați veghere
+Revine Mirele preasfânt :/

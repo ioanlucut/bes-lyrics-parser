@@ -1,0 +1,27 @@
+[title]
+Alin din cer {author: {Iulia Contis}, {rcId: {247947}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Cerul plumburiu,
+În etern pustiu,
+Va striga prin timp:
+Nu-n prăfuit nimb
+Viața să-ți trăiești,
+Căci al Meu tu ești!
+
+[c]
+Sunt aici cu tin’
+Și, din cer, alin
+Las peste pământ,
+Prin al Meu Cuvânt!
+
+[v2]
+Nu te întrista
+Când îți spun așa!
+Chiar natura-n cânt,
+Cu al ei veșmânt,
+Se va înnoi
+Și cu Min’ vei fi!

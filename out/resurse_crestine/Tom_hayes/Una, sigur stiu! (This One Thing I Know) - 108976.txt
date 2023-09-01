@@ -1,0 +1,31 @@
+[title]
+Una sigur stiu (this one thing i know) {author: {Tom Hayes, Traducere RO}, {rcId: {108976}}
+
+[sequence]
+v1,c,v2,c,s,c
+
+[v1]
+Multe lucruri nu-nțeleg
+Uneori, greu să le cred
+Când n-am dovezi în jur;
+Multe lucruri nu le știu
+Taina lor să o descriu
+Dar una, sigur știu!
+
+[c]
+Eu știu că Isus mi-a deschis ochii să văd
+Și mai știu că în El, eu pot să mă încred;
+Eu știu că sunt primit în Casa Lui ca fiu
+Aceasta e ce știu!
+
+[v2]
+Despre Domnul aflu mult
+Când citesc al Lui Cuvânt
+Ce-n toate-i drept și bun;
+Multe am de învățat
+Din Cuvântul minunat
+Dar una, sigur știu!
+
+[s]
+El a răspuns: ”
+Dacă este un păcătos, nu știu; eu una știu: că eram orb, și acum văd.” Ioan 9:25

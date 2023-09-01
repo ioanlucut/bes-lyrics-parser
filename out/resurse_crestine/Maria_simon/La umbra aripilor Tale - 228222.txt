@@ -1,0 +1,35 @@
+[title]
+La umbra aripilor tale {author: {Maria Șimon}, {rcId: {228222}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ce bine-i lângă Tine
+Dumnezeul lui Israel
+/: Tu ești scutul meu, ești pavăza mea
+Ești iubirea mea: \
+
+[c]
+La umbra aripilor Tale
+Eu mă odihnesc
+/: Tu-mi dai din ceruri pâine
+Isus Tu mă hrănești: \
+
+[v2]
+Ce bine-i în harul Tău
+El mă va duce-n ceruri
+/: Tu mă vei ținea prin dragostea Ta
+Știu că nu mă vei lăsa: \
+
+[v3]
+Orișice ar veni în viață
+Numai Tu mă ocrotești
+Brațul Tău Isus mă va însoți
+În orice clipă, ’n-orice zi: \
+
+[v4]
+Eu vreau să-Ți cânt în veci
+Mărire numai Ție Domnul meu
+/: Te voi lăudă, Te voi înălța
+Slavă mereu Îți voi da: \

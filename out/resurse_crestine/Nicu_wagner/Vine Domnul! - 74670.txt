@@ -1,0 +1,23 @@
+[title]
+Vine domnul {author: {Nicu Wagner}, {rcId: {74670}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Se-aude, vine Domnul, așa precum a spus
+E regele, Mesia, e Mirele Isus.
+Se-ntoarce cu mărire, și vai de cei ce dorm.
+El vine; ce-ngrozire avea-vor cei în somn.
+
+[c]
+Se-aude, se-ntoarce, se-arată iar Isus.
+O, suflete, rămâi sau pleci la ceruri sus?
+El vine ca Mire, să-și ia mireasa Sa,
+Ca s-o răpească sus în cer în slava Sa.
+
+[v2]
+Ți-am spus mereu fecioară, ca să veghezi mereu.
+Ți-am spus a câta oară că vin în ceasul greu.
+Mijește aurora, și zorii se ivesc,
+O, iată, vine Isus, slăvitul Domn ceresc!

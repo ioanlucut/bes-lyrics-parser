@@ -1,0 +1,37 @@
+[title]
+Urme de lumina {author: {Nicolae Moldoveanu}, {rcId: {246179}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Urme de lumină
+pașii mei să lase,
+drepte căi, oriunde,
+vreau să fie trase.
+/: Ca s-aduci prin mine, Doamne
+lumii zori frumoase. :/
+
+[v2]
+A iubirii apă
+inima-mi să-mpartă
+la-nsetații care
+bat din poartă-n poartă.
+/: Să Te duc pe Tine, Doamne,
+Tu să le fii Soartă, :/
+
+[v3]
+Pernă de odihnă,
+sufletul să-mi fie,
+pentru rătăciții
+prinși de vijelie.
+/: Dă-le Tu prin mine, Doamne-a
+păcii bucurie. :/
+
+[v4]
+Doamne, fă-mă-ntruna
+ce știi că-i spre bine,
+viața să mi-o dărui
+pentru orișicine.
+/: Să Te-arate-n orice vreme
+Doamne, doar pe Tine. :/

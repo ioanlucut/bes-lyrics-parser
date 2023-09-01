@@ -1,0 +1,35 @@
+[title]
+Singur in noaptea rece {author: {Anonim}, {rcId: {194208}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c
+
+[v1]
+Singur in noaptea rece
+Ochiul Tau ma petrece
+Drumul spre Tine se deschide iar
+Glasul Tau mi-este far.
+
+[v2]
+Singur in noaptea oarba
+Lumea intreaga fiarba
+Eu pe-al Tau brat imi sprijin clipa mea
+Tu imi esti pururi stea.
+
+[c]
+Pe veci sunt renascut
+Nou foc pe altar sa-mi pui
+Numai Tu singur imi esti scut
+Nimeni ca Tine nu-i.
+
+[v3]
+Singur in noaptea toata
+Umbra Tai mi da roata
+Grabnic aprinzi luceafarul in zori
+Timpul e fara nori.
+
+[v4]
+Singur in noaptea vietii
+Tu faci loc diminetii
+Stele pe drumul meu Tu imi asezi
+Pasii mi-i faci eterni.

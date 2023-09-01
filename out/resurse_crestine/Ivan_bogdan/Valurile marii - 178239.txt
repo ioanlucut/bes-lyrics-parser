@@ -1,0 +1,33 @@
+[title]
+Valurile marii {author: {Ivan Bogdan}, {rcId: {178239}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Catargul este gata să se rupă
+Barca plutește în derivă
+Strigăm ca și ucenicii
+Pierim nu ne lăsa, ne este frică
+Salvează-ne din nou și ne ridică
+
+[c]
+Valurile mării cât de mari ar fi
+Cu Tine o Doamne eu voi birui
+Vântul cât de tare el s-ar răspândi
+Credința mea e-n Domnul
+Cu El voi birui.
+
+[v2]
+Furtuna ia amploare-n a mea cale
+Credința, nădejdea-i la-ncercare
+Vrea să distrugă tot în cale
+Dar dragostea e cea mai mare
+Cu ea nu voi pieri pe mare
+
+[v3]
+De-odată se arată o lumină
+Se-apropie cu grăbire înspre mine
+E-Acel ce-a spus mării să tacă
+Și marea s-a oprit îndată
+Domnul meu ește Stăpân în barcă

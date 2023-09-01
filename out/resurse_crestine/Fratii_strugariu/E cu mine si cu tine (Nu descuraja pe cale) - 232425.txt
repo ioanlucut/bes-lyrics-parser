@@ -1,0 +1,29 @@
+[title]
+E cu mine si cu tine (nu descuraja pe cale) {author: {Frații Strugariu}, {rcId: {232425}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Nu descuraja pe cale
+Chiar când drumu-I greu
+Domnul e cu noi in vale
+E cu noi mereu!
+
+[c]
+E cu mine și cu tine
+Când bat vanturi și vin ploi,
+Nu ne lasă nici o clipa
+Domnul e mereu cu noi.
+
+[v2]
+Nu descuraja creștine
+Chiar de-ai obosit
+Pe cărare lângă tine
+E cel ce-a biruit
+
+[v3]
+De ești singur pe-a ta cale
+Părăsit de toți,
+Lângă tine jos in vale
+E Isus Hristos!

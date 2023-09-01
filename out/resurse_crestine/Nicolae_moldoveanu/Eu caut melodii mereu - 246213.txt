@@ -1,0 +1,36 @@
+[title]
+Eu caut melodii mereu {author: {Nicolae Moldoveanu}, {rcId: {246213}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Eu caut melodii mereu,
+Să pot cânta tot mai frumos,
+/: lubirea și Adevărul Tău,
+Mântuitorul meu Hristos. :/
+
+[v2]
+Le caut mai stăruitor,
+Cu sufletul și viața mea
+/: Și pun în ele foc și dor,
+S-aprindă suflete
+Ie-așa. :/
+
+[v3]
+Și unde Ie-aș putea găsi,
+În care loc, pe ce hotar,
+/: Din inimă de mi-ai lipsi,
+lsus-Izvor de cânt și har? :/
+
+[v4]
+În Tine caut și găsesc
+Comori de sfinte melodii,
+/: Prin ele pururea trăiesc
+A raiului Tău bucurii. :/
+
+[v5]
+Și vreau, într-una, pe pământ
+Să pot cânta neobosit,
+/: Iubirea și-Adevarul sfânt,
+Mântuitorul meu iubit! :/

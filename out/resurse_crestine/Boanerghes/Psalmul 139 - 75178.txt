@@ -1,0 +1,37 @@
+[title]
+Psalmul {author: {Boanerghes}, {rcId: {75178}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Tu mă vezi mă știi când umblu,
+Mă cunoști și când mă culc,
+Tu mă cercetezi în toate
+Și n-am unde să m-ascund.
+Îmi cunoști și gândul, Doamne,
+Îmi cunoști și planul meu,
+Doamne, mă cunoști în toate
+Tu ești singur Dumnezeu.
+
+[c]
+/: Unde mă voi duce Doamne
+Departe azi de Duhul Tău?
+Unde voi fugi departe?
+Peste tot ești Domnul meu :/
+
+[v2]
+Cercetează-mă acuma
+Vezi de sunt pe Calea Ta,
+Cercetează-mi înlăuntrul
+Și cunoaște-mi inima,
+Cercetează-mi gândul Doamne
+Vezi de sunt pe-o cale rea,
+Azi întoarce-mă la Tine
+Tu mă ia pe Calea Ta.
+
+[c2]
+/: Cercetează tineretul
+Și-n vremile de-acum,
+Umple-ne cu Duhul slavei
+Ca să mergem pe al Tău drum :/

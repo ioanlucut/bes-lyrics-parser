@@ -1,0 +1,34 @@
+[title]
+With all i am hillsong united- pe bratul tau {author: {Anonim}, {rcId: {71301}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Pe bratul Tau
+Ma las acum
+Cu tot ce sunt
+Ma dedic Tie.
+Imi tii viata-n palma Ta
+Eu sunt al Tau
+Pentru vecie.
+
+[c]
+/: Doamne cred in Tin’ acum
+Tie-Ti apartin Isus
+Pentru Tine eu traiesc
+Pentru Tine eu cant. :/
+Ma consacrez
+
+[v2]
+Eu merg cu Tin’
+Oriunde mergi
+Cand plang sau rad
+Ma-ncred in Tin’
+Eu voi umbla
+Pe calea Ta
+Tu mi-ai promis
+Vei fii cu mine
+
+[e]
+/: Te voi lauda :/ Isus.

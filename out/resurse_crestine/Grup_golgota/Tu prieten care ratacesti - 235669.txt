@@ -1,0 +1,33 @@
+[title]
+Tu prieten care ratacesti {author: {Grup Golgota}, {rcId: {235669}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Tu prieten care rătăcești
+Și cauți mereu fericirea,
+În lume nu ai s-o găsești
+Numai Isus ți-o poate da!
+
+[c]
+Oricine-ai fi, vino la El,
+El te primește iubitor!
+Nu amâna chemarea Sa,
+Că nu știi ceasul următor.
+Că viața nu-i în mâna ta
+Și nici nu știi când vei muri.
+Astăzi acum e șansa ta,
+Vino că El te va primi!
+
+[v2]
+Vin’ la Isus amicul meu,
+La Cel ce poate a ierta,
+Întoarce-te la Dumnezeu
+Și pace-n suflet îți va da!
+
+[v3]
+El a purtat păcatul tău,
+Fiind pe-o cruce răstignit
+Și vrea să-I dai inima ta
+Că altfel nu ești mântuit.

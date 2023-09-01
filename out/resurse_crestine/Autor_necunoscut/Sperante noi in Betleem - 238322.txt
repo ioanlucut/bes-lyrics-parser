@@ -1,0 +1,52 @@
+[title]
+Sperante noi in betleem {author: {Anonim}, {rcId: {238322}}
+
+[sequence]
+v1,c,v2,c2,v3,c2,e
+
+[v1]
+Speranțe noi în Betleem,
+În loc umil un copilaș,
+Stele lucind șoptesc ușor,
+Azi s-a născut un Salvator.
+Păstori privesc, se ’nchină magi,
+Noaptea s-a schimbat în zi,
+Iar îngeri cantă bucuroși,
+Azi s-a născut Isus Hristos.
+
+[c]
+Speranțe noi, Speranțe noi,
+Speranțe noi în Betleem,
+Dumnezeu este cu noi,
+Speranțe noi în Betleem.
+
+[v2]
+Speranțe noi în Betleem,
+Poți s-auzi mărețul cânt?
+In chip atât de minunat,
+Cuvântul azi s-a întrupat.
+În ochii Tăi e ceru-ntreg,
+Cu dragoste ne ’mbrățișezi,
+Te-ai coborât s-aduci în dar,
+Salvarea Ta, Mărețul Har.
+
+[c2]
+Speranțe noi, Speranțe noi,
+Speranțe noi în Betleem,
+Dumnezeu este cu noi,
+Speranțe noi în Betleem.
+Să cantăm cu toți în cor,
+Speranțe noi în Betleem,
+Dumnezeu este cu noi,
+Sperante noi in Betleem.
+
+[v3]
+Să ne-ntoarcem iar spre El,
+Să-I aducem viața-n dar,
+Tot ce-avem mai bun să-I dăm,
+Pururi Lui să ne-nchinăm,
+
+[e]
+Să-L adorăm, Să-L adorăm, Cu bucurie,
+Să-L adorăm, Să-L adorăm, O veșnicie
+Să-L adorăm, Să-L adorăm, doar Lui să ne-nchinăm.

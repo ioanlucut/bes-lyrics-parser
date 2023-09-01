@@ -1,0 +1,29 @@
+[title]
+Am o dorinta {author: {Speranța și prietenii}, {rcId: {74756}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Am o dorință și, Te rog fierbinte,
+Ascultă ruga mea, bunule Părinte!
+/: Spre Tine îmi îndrept, Doamne, gândul meu,
+Te rog, ajută-mă, sfinte Dumnezeu! :/
+
+[c]
+Doamne, Doamne, dă-mi din Duhul Sfânt,
+Puterea ce-ai lăsat-o pe pământ.
+Doamne, Doamne, dă-mi untdelemn în vas,
+Jos să nu rămân, când vine-al nopții ceas.
+
+[v2]
+Doamne, ai promis, când Te-ai înălțat,
+Că vei lăsa Duh Sfânt și curat
+/: Peste cei ce cred și vor stărui
+În rugăciune, putere vor primi. :/
+
+[v3]
+Trăim vremuri grele, trăim vremuri târzii,
+Trăim momente când, din nou vei reveni.
+/: Doresc să păstrez ce mi-ai dăruit
+Și-atunci când vei veni, la cer să fiu răpit! :/

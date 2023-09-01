@@ -1,0 +1,29 @@
+[title]
+Te laudam parinte al luminii {author: {Nicolae Moldoveanu}, {rcId: {246123}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Te lăudăm, Părinte al luminii,
+Izvor frumos și nesecat de har,
+Te lăudăm, căci numai de la Tine
+Mereu, spre noi, coboară orice dar.
+
+[c]
+Te lăudăm, Stăpâne Doamne
+Te lăudăm cu viața toată,
+Te lăudăm, căci se cuvine
+Laudă nemăsurată.
+
+[v2]
+Te lăudăm, Părinte-al mântuirii
+Și păstrătorul ei pân-la sfârșit,
+Cu mulțumire și recunoștință
+Te lăudăm smeriți, necontenit.
+
+[v3]
+Te lăudăm, Părinte-al veșniciei,
+lubire revărsată pe deplin,
+Te lăudăm în duhul bucuriei
+Acum și-n vecii vecilor, amin.

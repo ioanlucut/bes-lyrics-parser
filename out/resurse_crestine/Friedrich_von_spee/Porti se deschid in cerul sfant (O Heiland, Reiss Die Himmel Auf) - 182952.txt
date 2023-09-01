@@ -1,0 +1,32 @@
+[title]
+Porti se deschid in cerul sfant (o heiland reiss die himmel auf) {author: {Friedrich von Spee, Traducere RO}, {rcId: {182952}}
+
+[sequence]
+v1,v2,v3,v4,s
+
+[v1]
+Porți se deschid în cerul sfânt
+Vine Isus pe-acest pământ
+Deschideți locul ferecat
+Să intre-al slavei Împărat.
+
+[v2]
+Coboară Doamne-al Tău veșmânt
+Roua din cer, pe-acest pământ
+Din sfânt izvor adapă-ne
+Și-n cortul Tău primește-ne.
+
+[v3]
+Suntem loviți și apăsați
+Pe-acest pământ, greu încercați
+O, Doamne vino-n ajutor
+Cu harul Tău mântuitor.
+
+[v4]
+Te preamărim Isuse drag
+Ești printre noi mărețul steag
+Te lăudăm și Te-adorăm
+Voioși acum, noi Îți cântăm.
+
+[s]
+O! de ai despica cerurile și Te-ai coborî, s-ar topi munții înaintea Ta. Isaia 64:1

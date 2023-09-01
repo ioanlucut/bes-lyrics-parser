@@ -1,0 +1,37 @@
+[title]
+Doamne tu esti cetatuia mea {author: {Speranța}, {rcId: {127599}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Doamne, Tu ești cetățuia mea
+Ești adăpostul meu în vreme grea
+Doamne, Tu ești pavăză și scut
+Tu mă ridici când sunt căzut.
+
+[c]
+Viața mea e-n mâna Ta
+Poți să faci ce vrei cu ea...
+Mă predau doar Ție!
+Gândul meu și inima
+Sufletul și dragostea
+Sunt al Tău pe veșnicie!
+Viața mea e-n mâna Ta
+Poți să faci ce vrei cu ea
+Tu ești Domnul meu!
+Numai Ție-Ți voi cânta!
+Veșnic Te voi lăuda!
+Tu ești viața mea!
+
+[v2]
+Nu mă bizui pe tăria mea
+Mâna Ta mă poate ajuta
+Doar la Tine, Doamne, eu găsesc
+Pace și iertare când greșesc!
+
+[v3]
+Zece mii la dreapta-mi de-or cădea
+Și alte mii la stânga mea
+Nu mă tem de ce s-ar întâmpla
+Când Tu, Doamne, ești de partea mea!

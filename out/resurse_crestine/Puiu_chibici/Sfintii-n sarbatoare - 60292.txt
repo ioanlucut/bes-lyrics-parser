@@ -1,0 +1,35 @@
+[title]
+Sfintii-n sarbatoare {author: {Puiu Chibici}, {rcId: {60292}}
+
+[sequence]
+v1,c,v2,c,v3,c,v6,c
+
+[v1]
+Sfinții-n sărbătoare
+Îți cântă ne-ncetat
+/: Doamne, că ești mare
+Sfânt și minunat. :/
+
+[c]
+Isus, Isus
+Fie prea mărit Numele-Ți mare,
+Isus, Isus
+Ești speranța noastră de salvare.
+
+[v2]
+Cerul, strălucirea
+Doamne-ai părăsit
+S-aduci mântuirea
+La noi ai venit.
+
+[v3]
+Pentru jertfa-Ți sfântă
+Miel nevinovat
+Universu-Ți cântă
+Fii glorificat.
+
+[v6]
+Pentru veșnicie,
+Doamne, am jurat
+Să-Ți slujim doar Ție
+Rege preaînalt.

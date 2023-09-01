@@ -1,0 +1,27 @@
+[title]
+Catre cer privirea {author: {Scutelnic Elisei}, {rcId: {168633}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Către cer privire mi-o înalț în sus,
+Sus în strălucire unde e Isus.
+/: Inima îmi suspină și aș vrea să zbor
+Vreau să merg acasă căci de Tine mie dor. :/
+
+[c]
+/: Seara dimineața și la mez de zi
+Te aștept Isuse știu că vei veni! :/
+
+[v2]
+Când pe nori veni-vei și mă vei lua,
+Scumpul meu Isus, Tu nădejdea mea!
+/: Colo nu sunt lacrimi nici suspin, dureri,
+Ci o veșnicie numai mângâieri! :/
+
+[v3]
+Vino azi la Domnul, nu mai amâna,
+Scumpul meu prieten, viată vei avea!
+/: Isus te asteaptă dincolo de nori:
+Vino azi la Domnul nu aștepta să mori! :/

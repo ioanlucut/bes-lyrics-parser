@@ -1,0 +1,35 @@
+[title]
+Te laud doamne caci m-ai mantuit {author: {Petre Strango}, {rcId: {137531}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+/: Te laud, Doamne, căci m-ai mântuit :/
+/: Trimițând în lume Fiul tău iubit!
+Tu mi-ai demonstrat cât mai iubit, :/
+/: Te laud, Doamne, căci m-ai mântuit! :/
+
+[v2]
+Te laud, Doamne, căci am fost salvat
+De la întuneric beznă și păcat!
+De la viața-n care eram sclav,
+Te laud, Doamne, căci am fost salvat!
+
+[v3]
+Te laud Doamne căci mai mântuit
+Haina mea pătată Tu mi-ai curățit
+Inima murdară mi-ai albit
+Te laud Doamne căci m-ai mântuit
+
+[v4]
+Te laud, Doamne, căci eu am fost scos
+Din adâncul veșnic cel întunecos
+Și din groapa morții în care am fost!
+Te laud, Doamne, căci eu am fost scos!
+
+[v5]
+Te laud, Doamne, căci m-ai mântuit,
+Viața mea murdară toată ai risipit!
+Și în locul ei ’’ Iertare ’’ ai scris,
+Te laud, Doamne, căci m-ai mântuit!

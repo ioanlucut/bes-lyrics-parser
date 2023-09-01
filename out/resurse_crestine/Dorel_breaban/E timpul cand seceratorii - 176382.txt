@@ -1,0 +1,35 @@
+[title]
+E timpul cand seceratorii {author: {Dorel Breabăn}, {rcId: {176382}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+E timpul când secerătorii
+Încep culesul spicelor
+Și adunatul snopilor.
+Vor fi trimiși culegătorii,
+Iar ei pe lanuri vor ieși,
+Misiunea-și vor îndeplini.
+
+[c]
+/: Secerătorii, secerătorii,
+Acei ce holdele-n grânar vor aduna,
+Curând se-arată pe-ntinsul zării
+Atunci când Marele Stăpân îi va chema! :/
+
+[v2]
+E lucrul greu, ogorul mare,
+Au năvălit în lanuri spini,
+Cei ce veghează sunt puțini.
+Se face iar și iar chemare
+Să ne-nrolăm ca luptători
+Și să nu stăm nepăsători!
+
+[v3]
+Când vor veni secerătorii
+Vor fi nespuse bucurii
+Care în veci nu s-or sfârși.
+Noi așteptați vom fi în glorii
+Chiar de Stăpânul holdelor
+Și răsplătiți ca lucrători.

@@ -1,0 +1,39 @@
+[title]
+Daca traiesc {author: {Ioan Panican}, {rcId: {139930}}
+
+[sequence]
+v1,c,v2,c2,c3
+
+[v1]
+Dacă trăiesc și dacă port pe umăr eu
+Măcar un strop din roadele divine,
+Și dacă sunt în holdă, fără număr, da,
+Culegători de spice pe coline,
+Atunci e bucurie-n pieptul meu,
+Atunci pământu-ntreg e lângă mine.
+
+[c]
+/: Și dacă plec, mă duc la Dumnezeu,
+Mă duc la tatăl meu, și e mai bine. :/
+
+[v2]
+De altă parte, am citit și stiu, da, da,
+Că toate-aici lucrează împreună
+Spre binele acelor ce iubim, da, da,
+Spre binele acelor care-adună
+Căci clipa despărțirii, dacă vine,
+Ea vine totuși spre folosul meu.
+
+[c2]
+/: Căci dacă plec, mă duc la Dumnezeu,
+Mă duc la tatăl meu și e mai bine. :/
+
+[b]
+Căci clipa despărțirii, dacă vine,
+Ea vine totuși spre folosul meu.
+
+[c3]
+Căci dacă plec, mă duc la Dumnezeu,
+Mă duc la tatăl meu și e mai bine.
+Căci dacă plec, mă duc la Dumnezeu,
+Mă duc la tatăl meu și e cu mult mai bine.

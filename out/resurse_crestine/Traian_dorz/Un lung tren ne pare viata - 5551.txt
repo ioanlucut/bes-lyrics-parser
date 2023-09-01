@@ -1,0 +1,53 @@
+[title]
+Un lung tren ne pare viata {author: {Traian Dorz}, {rcId: {5551}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7,v8
+
+[v1]
+Un lung tren ne pare viața,
+Ne trezim în el mergând,
+Fără să ne mai dăm seama
+Unde ne-am suit și când.
+
+[v2]
+Fericirile sunt halte
+Unde stăm câte-un minut;
+Până să ne mai dăm seama,
+Sună... pleacă... a trecut...
+
+[v3]
+Iar durerile sunt stații
+Lungi, de nu se mai sfârșesc,
+Și, în ciuda noastră parcă,
+Tot mai multe se ivesc.
+
+[v4]
+Arzători de nerăbdare
+Înainte tot privim,
+Vrem s-ajungem tot mai iute,
+La vreo gară ce-o dorim.
+
+[v5]
+Ne trec zilele... trec anii...
+Clipe sfinte și dureri,
+Așteptând hrăniți de visuri
+Noi momente de plăceri.
+
+[v6]
+Mulți copii voioși se urcă.
+- Câți în tren ne-am întâlnit!... -
+Iar câte-un bătrân coboară;
+Trist, de forță istovit...
+
+[v7]
+Vine-odată însă vremea
+Să ne coborâm și noi...
+Ce n-am da atunci, o clipă
+Să ne-ntoarcem înapoi?
+
+[v8]
+Căci, pe când privim în urmă,
+Plângem timpul ce-a trecut...
+Sună gara veșniciei!...
+Am trăit, dar n-am știut...

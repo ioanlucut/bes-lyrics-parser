@@ -1,0 +1,35 @@
+[title]
+Noi suntem cu toti astazi {author: {Sever Păcean}, {rcId: {242662}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Noi suntem cu toți astăzi,
+Un popor al Domnului,
+Prin Isus și-a Lui iubire,
+Și prin sfânta jertfa Lui.
+
+[c]
+Vino Doamne mai degrabă,
+Vino Doamne și ne ia,
+Pregătește-ți azi poporul,
+Pentru-mpărăția Ta!
+
+[v2]
+Isus este mama noastră,
+La Golgota ne-a salvat!
+El ne ține azi în brațe,
+Și ne ferește de păcat.
+
+[v3]
+Lui Isus Mântuitorul,
+Toată Slava să i-o dam,
+Cât vom fi ’naceasta lume,
+Să-i cântăm să-L lăudăm!
+
+[v4]
+Curând, curând vom fi în slava-n,
+Casa Tatălui de sus,
+Și ne-om bucura odată,
+Pururi cu al nost’ Isus!

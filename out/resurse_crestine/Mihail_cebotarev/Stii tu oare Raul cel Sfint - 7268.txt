@@ -1,0 +1,35 @@
+[title]
+Stii tu oare raul cel sfint {author: {Mihail Cebotarev}, {rcId: {7268}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Știi tu oare Râul cel Sfânt
+Râul ce curge din Golgota
+Știi tu că Hristos a murit
+Pentru tine și vina ta.
+
+[c]
+/: Azi Isus te așteaptă să vii
+La Golgota cu al tău păcat
+Cât de mare ar fi, tu să știi
+Prin sângele Lui e spălat :/
+
+[v2]
+Părăsit de toți... ai răbdat
+Chinul crucii în locul meu
+Mântuirea în dar Tu mi-ai dat
+Și m-ai numit copilul Tău.
+
+[v3]
+Sus pe cruce El s-a rugat
+Pentru orice om păcătoc
+El prin jertfa Lui ne-a scăpat
+Din pedeapsa morții ne-a scos.
+
+[v4]
+Să privim dar numai la El
+Spre Calvar, sus la Golgota
+El e Calea ce duce în cer
+Pentru cei ce merg azi pe ea.

@@ -1,0 +1,35 @@
+[title]
+La el vei gasi adapost {author: {Ionuț Crăciun}, {rcId: {78480}}
+
+[sequence]
+v1,b,c,v2,c,e
+
+[v1]
+Când nu mai știi ce să alegi
+Când nu mai știi-ncotro să mergi
+Când nu-nțelegi ce se întâmplă-n jurul tău
+Când nu găsești nici un răspuns
+Iar când speranțele s-au dus
+Atunci îndreaptă ruga ta spre Dumnezeu
+
+[b]
+La El vei găsi adăpost în vreme rea
+La El vei găsi ajutor în lupta grea
+
+[c]
+/: La El vei găsi har și iubire
+E singurul ce poate să-ți dea izbăvire
+El ia povara ta oricât ar fi de grea
+E Domnul ce te poate ajuta :/
+
+[v2]
+Când greutăți apar pe cale
+Când nu zărești raza de soare
+Când vezi că totul se dărâmă-n viața ta
+Când deznădejdea te-a cuprins
+Nu te lăsa de ea învins
+Nu dispera, căci Domnul nu te va lăsa
+
+[e]
+Nu dispera, oricât ar fi de greu
+Nu dispera dragul meu.

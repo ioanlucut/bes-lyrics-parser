@@ -1,0 +1,23 @@
+[title]
+Cantarea lui habacuc (tot ma voi bucura) {author: {Vlad Bucur}, {rcId: {209995}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Chiar dacă smochinul nu va înflori
+Și chiar dacă-n viță rod nu voi găsi,
+Chiar dacă în staul oile-ar pieri
+Și chiar dacă vite în grajduri nu vor fi
+
+[c]
+Eu tot mă voi bucura în Domnul
+Eu tot mă voi bucura în Dumnezeu
+El e tăria mea, El e pacea mea
+În orice vreme
+
+[v2]
+Chiar dacă măslinul nu va mai rodi
+Și fără recoltă câmpul de va fi,
+Chiar dacă vreodată pâinea va lipsi
+Și dacă răspunsul va mai zăbovi

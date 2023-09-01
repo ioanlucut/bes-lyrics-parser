@@ -1,0 +1,29 @@
+[title]
+Imi amintesc ca a venit pentru min {author: {Leleu Niculae}, {rcId: {75269}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Îmi amintesc: A venit pentru min’
+Nicicând înapoi nu voi da.
+
+[c]
+/: Nu, nu, nu, nu, nu, nu
+Nicicând înapoi nu voi da. :/
+
+[v2]
+Îmi amintesc: s-a născut pentru min’
+Nicicând înapoi nu voi da.
+
+[v3]
+El a murit și-a nviat pentru min’
+Nicicând înapoi nu voi da.
+
+[v4]
+Îmi amintesc: s-a ’nălțat pentru min’
+Nicicând înapoi nu voi da.
+
+[v5]
+El mi-a promis că-n curând va veni,
+Nicicând înapoi nu voi da.

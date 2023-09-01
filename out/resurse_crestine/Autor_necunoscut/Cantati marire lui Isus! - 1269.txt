@@ -1,0 +1,27 @@
+[title]
+Cantati marire lui isus {author: {Anonim}, {rcId: {1269}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cântați mărire lui Isus!
+Cu cerul vă--nchinați,
+Cu cerul vă--nchinați!
+Pe Domnul să--L glorificați!
+
+[c]
+Și slavă, slavă, slavă,
+Slavă lui Dumnezeu să--I dați!
+
+[v2]
+Vestiți aceasta voi, martiri
+Ce pentru El v--ați dat,
+Ce pentru El v--ați dat.
+Odrasla lui Isai lăudați!
+
+[v3]
+Voi, oameni, toți sunteți chemați
+Pe Domnul să--L urmați,
+Pe Domnul să--L urmați.
+Veniți popoare să cântați!

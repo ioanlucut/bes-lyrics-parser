@@ -1,0 +1,36 @@
+[title]
+Ajutorul {author: {Teo Pălincaș}, {rcId: {159015}}
+
+[sequence]
+v1,v2,e,v3
+
+[v1]
+Unde să caut ajutorul?
+La oameni nu am să găsesc.
+Unde să caut ajutorul?
+Am bătut la uși, dar nu îl întâlnesc.
+Dar ori de câte ori genunchii îmi aplec,
+Simt o mână de Părinte ce mă-nalță către Cer.
+Ori de câte ori genunchii îmi aplec,
+Simt o mână de Părinte ce mă-nalță către Dumnezeu.
+
+[v2]
+Unde vrei să cauți, tu, ajutorul?
+La oameni nu ai să găsești.
+Unde vrei să cauți, tu, ajutorul?
+Vei bate la uși, dar n-ai să-l întâlnești.
+Dar ori de câte ori genunchii-ai să-ți apleci,
+Vei simți o mână de Părinte ce te-nalță către Cer.
+Ori de câte ori genunchii-ai să-ți apleci,
+Vei simți o mână de Părinte ce te-nalță către Dumnezeu.
+
+[e]
+Numai Lui poți să-I spui,
+Durerea ta, necazul tău!
+Numai Lui poți să-I spui,
+Ce n-ai mai spus nimănui!
+
+[v3]
+Unde să caut ajutorul?
+Numai pe genunchi am să găsesc.
+Am să-l găsesc!

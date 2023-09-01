@@ -1,0 +1,27 @@
+[title]
+Hai vino cu mine sa-l laudam {author: {Speranța}, {rcId: {233756}}
+
+[sequence]
+v1,v1,c,v1,c,e,e,c
+
+[v1]
+Hai vino cu mine să-L lăudăm
+Regelui etern să ne închinăm
+Hai vino cu mine înaintea Lui
+Să îi aducem cinste Mielului!
+
+[c]
+El merită slava și onoarea
+El merită toată adorarea
+Acel ce șade pe tron, acel ce e Stăpân și Domn
+Să primească gloria și puterea.
+El e Domn, e neschimbat, Dumnezeu adevărat
+Ca El nu-i nimeni în cer și pe pământ
+E început și e sfârșit, e Dumnezeu nemărginit
+Nu-i nimeni ca El atât de măreț și sfânt.
+
+[e]
+Inima mea Îi va cânta, mâinile îmi voi ridica
+Voi înălța în veci Numele Lui
+Inima mea Îi va cânta, mâinile îmi voi ridica
+Vreau să fiu pe veci în prezența Lui!

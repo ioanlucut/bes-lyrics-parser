@@ -1,0 +1,41 @@
+[title]
+Astazi daca-ai auzit sfanta lui chemare {author: {Nicolae Moldoveanu}, {rcId: {5590}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Astazi, daca-ai auzit sfanta Lui chemare,
+Vino, prietene iubit,
+/: Si nu mai sta impietrit :/
+Si in nepasare.
+
+[c]
+Vino, la fantana mantuirii,
+Ca sa bei, din tainicul izvor,
+Apa vie, apa fericirii,
+Care da viata tuturor!
+
+[v2]
+Pentru drumul in pustiu, drag Ierusalime,
+A trimis pe al Sau Fiu,
+/: Sa te faca sfant si viu, :/
+Sa-ti dea mantuire.
+
+[v3]
+Pentru tine, S-a jertfit Bolta cea albastra,
+Cand, pe Golgota, a stat
+/: Domnul, Care a rabdat :/
+Mantuirea noastra.
+
+[v4]
+Pentru tine, ne’ncetat Domnul mijloceste
+Sa te scape din pacat.
+/: El si astazi te-a chemat, :/
+Fiindca te iubeste.
+
+[v5]
+Daca inca mai amai si respingi chemarea,
+S-ar putea ca sa ramai,
+/: Poate, fara capatai, :/
+Mostenind pierzarea.

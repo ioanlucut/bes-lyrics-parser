@@ -1,0 +1,23 @@
+[title]
+Gradina de maslini {author: {Daniel Cazacu}, {rcId: {145305}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Gradina de maslini
+Locul tainic si amar,
+Unde-a plins Domnul Isus
+Pe genunchi intre copaci
+
+[c]
+Esti Isus, rastignit,
+Chinuit, pentru mine,
+Esti Isus, rastignit,
+Chinuit, pentru mine.
+
+[v2]
+Fa din viata mea o Doamne
+Ce voiesti sa faci din ea,
+Sa-ti slujesc o vesnicie
+Si in cer sa-ti pot canta.

@@ -1,0 +1,35 @@
+[title]
+Cer si mare si pamant {author: {Strattner}, {rcId: {1241}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Cer și mare și pământ
+Lauda pe Domnul sfânt,
+Deci si tu inima mea
+Cântă astăzi slava Sa!
+
+[v2]
+Soarele strălucitor
+Dând lumină tuturor,
+Lună, stele ce lucesc,
+Despre El mărturisesc.
+
+[v3]
+Și pământul rotunjit,
+Care--a fost împodobit
+Cu munți și râuri și câmpii,
+Despre El sunt martori vii.
+
+[v4]
+Iată, păsările--n zbor
+Cum se-nalță de ușor!
+Tunet, trăsnet, ploaie, vânt,
+Toate de la Domnul sunt.
+
+[v5]
+Ce adânc și minunat
+Mintea mea s--a luminat,
+Știu, o, Doamne, Dumnezeu,
+Ce ești Tu și ce sunt eu!

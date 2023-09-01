@@ -1,0 +1,35 @@
+[title]
+Inima imi canta {author: {Maria Șimon}, {rcId: {205588}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Inima îmi cântă neîncetat
+Și-L laudă pe Domnul preaînalt
+Tot ce-i mai frumos El mi-a dăruit
+M-a răscumpărat și m-a mântuit
+
+[c]
+/: Nimeni, nimeni nu mi poate lua
+Cerul din inima mea
+În el este ce-i mai frumos
+Este Domnul meu Hristos: \
+
+[v2]
+Inima mi-e plină de bucurie
+Căci sunt a cerului pentru vecie
+Spre-o Țară minunată pășesc mereu
+Eu merg cu bucurie spre Tatăl meu
+
+[v3]
+Inima-mi tânjeste în orice zi
+După măreața Casă din veșnicii
+Mi-e dor să-L întâlnesc, Acasă să sosesc,
+Pe nori să ÎL zăresc e tot ce îmi doresc
+
+[v4]
+Inima-mi va bate neîncetat
+Doar pentru Domnul slavei căci m-a salvat
+Cerul mi-a dăruit al meu Isus iubit
+Vom fi nedespărțiți și pe veci fericiti

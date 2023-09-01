@@ -1,0 +1,28 @@
+[title]
+Nu te teme {author: {Ligia Todea}, {rcId: {172721}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Nu te teme cand esti slab
+Ai tarie-n Domnul
+Chiar de toate-ti par mai greu
+Ajutorul vine
+
+[c]
+/: Vine de la Dumnezeu
+Ti-a promis, E Harul Sau
+Ai incredere in El,
+El te poarta bine :/
+/: Binele va fi primit
+Daca-ntai te-ai curatit
+Pace-n suflet vei avea
+Si speranta vie :/
+Pe veci
+
+[v2]
+Nu uita sa-L pretuiesti
+Pe acel ce vine
+Multumeste-i nencetat
+Si fa azi mult bine

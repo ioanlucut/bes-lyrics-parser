@@ -1,0 +1,27 @@
+[title]
+Ruga imi asculti {author: {Damaris Azamfirei}, {rcId: {193483}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Când Te-am chemat Isus
+Îndată mi-ai răspuns
+Și ruga mi-ai ascultat
+Când îmi era mai greu
+M-ai ajutat Isus
+Și singur nu mai lăsat
+
+[c]
+Ruga îmi asculți
+Isuse când Te chem
+De-aceea nu mă tem
+Oricât ar fi de greu
+
+[v2]
+Când Te chem Isus
+Eu nu mă întristez
+Chiar dacă mai zăbovești
+Căci știu că negreșit
+Răspuns Tu îmi vei da
+Chiar de va trebui s-aștept

@@ -1,0 +1,32 @@
+[title]
+Lumini de sarbatori (a thousand candles) {author: {Emmy Köhlers, Traducere RO}, {rcId: {155234}}
+
+[sequence]
+v1,v2,v3,v4,s
+
+[v1]
+Se-aprind lumini de sărbători
+Ce licăresc zglobii
+Și-n raze pline de culori
+Lucesc steluțe vii.
+
+[v2]
+Prin munți și văi se-aud frumos
+Colinde din popor
+Vestind că S-a născut Hristos
+Mesia, Salvator.
+
+[v3]
+O, scumpă stea din Betleem
+Speranță ai adus
+Când magii căutau pe cer
+Lumina ta de sus.
+
+[v4]
+În orice casă sau cămin
+Isus, Te rog să vii
+Să mângâi Tu, cu har divin
+Pe-ai Tăi iubiți copii.
+
+[s]
+În odaia de sus, unde eram adunați, erau multe lumini. Fapte Apostolilor 20:8

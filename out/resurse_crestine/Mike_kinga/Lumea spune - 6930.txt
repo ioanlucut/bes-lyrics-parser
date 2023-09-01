@@ -1,0 +1,29 @@
+[title]
+Lumea spune {author: {Mike Kinga}, {rcId: {6930}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Lumea spune că-i plăcere
+Că-i ca dulcele din miere
+Păcatul când îl guști
+Ea spune cine se-nfrânează
+Viața-n sine și-o ratează
+Și e un îngust
+
+[c]
+/: Dar eu știu: e mult mai dulce
+Atunci când m-aplec la cruce
+Și spun lui Isus, dorul meu nespus
+Căci eu simt atunci plăcere
+Mai mult ca dulcele din miere
+E pacea lui Isus, e pacea lui Isus :/
+
+[v2]
+Fricirea nu înseamnă
+Să le ai oricum pe toate
+Și să te distrezi,
+E să ai înțelepciune
+Stând în Post și Rugăciune
+Și să te dăruiești.

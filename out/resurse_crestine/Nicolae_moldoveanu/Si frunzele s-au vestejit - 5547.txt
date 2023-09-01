@@ -1,0 +1,41 @@
+[title]
+Si frunzele s-au vestejit {author: {Nicolae Moldoveanu}, {rcId: {5547}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Și frunzele s-au veștejit,
+Căci iată toamna a sosit,
+An după an, se duc în zbor,
+Toate se duc, în viitor.
+
+[c]
+/: Și tu, ești o floare să știi,
+Oricine în lume ai fi,
+Odată în praf, la pământ,
+Cădea-vei ca frunza în vânt. :/
+
+[v2]
+Privește-n urmă anii tăi,
+Cum au trecut ca și un vis,
+Erai copil, copii tăi,
+E tot ce viața ți-a promis.
+
+[c2]
+/: Și tu, ești o floare pe lac,
+Ce apele mari o desfac,
+Petalele tale se frâng,
+În urmă rămân cei ce plâng. :/
+
+[v3]
+Deci nu uita, ca dacă vrei,
+Tu iarăși poți să înflorești,
+În veșnicii sunt frații tăi,
+Depinde cum te pregătești.
+
+[c3]
+/: Un lucru, aș vrea ca să știi,
+Că acolo în raiul ceresc,
+Acolo sunt apele vii,
+Și florile nu veștejesc. :/

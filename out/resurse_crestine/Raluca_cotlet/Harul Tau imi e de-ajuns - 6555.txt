@@ -1,0 +1,46 @@
+[title]
+Harul tau imi e de-ajuns {author: {Raluca Cotlet}, {rcId: {6555}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Harul Tău îmi e de-ajuns,
+Tu ai spus așa Isus,
+Când suspin în miez de noapte,
+Mă mângâi cu dulce șoapte,
+Harul Tău, venit de sus!
+
+[c]
+Harul Tău de sus,
+În orice-ncercare,
+Harul Tău îmi e de-ajuns,
+Harul Tău, Isus!
+
+[v2]
+Harul Tău îmi e de-ajuns,
+Și în zori și în apus,
+Când țepușul mă rănește,
+Harul Tău mă întărește,
+Harul Tău, dulce Isus.
+
+[v3]
+Harul Tău îmi e de-ajuns,
+Când crucea e grea de dus,
+Când cad sub povara sa,
+Tu îmi întinzi dreapta Ta,
+Harul îmi ești doar Tu, Isus!
+
+[v4]
+Harul Tău, îmi e de-ajuns,
+Când vrăjmașul m-a străpuns,
+El voiește-a mea pieire,
+Tu-mi dai Isus, nemurire,
+Harul Tău, iubit Isus.
+
+[v5]
+Harul Tău, ce dar nespus,
+Dar măreț, venit de sus,
+Mă va duce-n veșnicii,
+Când din nou vei reveni,
+Harul, cel măreț Isus!

@@ -1,0 +1,36 @@
+[title]
+Prieten adevarat {author: {Carmen Prodan}, {rcId: {153764}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Nu ești singur frate în durerea ta
+Lângă tine e Isus
+Te îmbărbătează, nu descuraja
+Lângă tine e Isus.
+
+[c]
+E singurul din lume ce poate să aline
+Sufletul tău trist și zbuciumat
+În singurătate și în neagră noapte
+E Prieten bun și-adevărat.
+
+[v2]
+Chiar de lacrimi curg pe obrajii tăi
+Lângă tine e Isus
+Să nu-ți pierzi curajul, să nu dai ’napoi
+Lângă tine e Isus.
+
+[v3]
+Uită întristarea și ascult-un glas
+Ce-ți vorbește așa duios:
+”
+Singur nu te las, nu te părăsesc”
+Ne-a promis Isus Hristos.
+
+[v4]
+De te-ncrezi în Domnul după noaptea grea
+Zorii vor miji frumos
+Haideți dar cu toții să stăm lângă El
+Șansa noastră e Hristos.

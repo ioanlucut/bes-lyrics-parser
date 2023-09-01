@@ -1,0 +1,19 @@
+[title]
+Armata mareata {author: {Elim Harmony}, {rcId: {112856}}
+
+[sequence]
+v1,c,e
+
+[v1]
+/: Armata măreață a Domului Sfânt
+Pleacă la luptă din trâmbiță sunând. :/
+
+[c]
+/: Conduși sunt mereu de vocea lui Dumnezeu! :/
+
+[e]
+/: Să răsune în Sion, Sion,
+Să se cutremure Sfântul Munte,
+Să răsune în Sion, Sion:
+”
+Domnul e Sfânt”. :/ x3

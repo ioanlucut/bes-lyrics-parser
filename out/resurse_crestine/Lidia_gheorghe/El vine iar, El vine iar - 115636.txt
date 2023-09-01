@@ -1,0 +1,41 @@
+[title]
+El vine iar el vine iar {author: {Lidia Gheorghe}, {rcId: {115636}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+El vine iar, El vine iar
+Încă te simți încătușat.
+/: Dezleagă-te, dezleagă-te
+De tot ce te mai ține. :/
+
+[v2]
+Nu te-ngâmfa, nu te-ngânfa
+Crezând că nu mai vine.
+/: Trezește-te, trezește-te
+Ridică-te mai bine. :/
+
+[v3]
+Ia seama tu, ia seama tu
+Cum stai-naintea Lui,
+/: Nu coborî, nu coborî
+În valea cu suspine. :/
+
+[v4]
+O, dac-ai ști, o, dac-ai ști
+Ce mult L-ai întristat.
+/: În inima-adânc te-a-nvățat
+Și tu n-ai ascultat. :/
+
+[v5]
+Urcă spre cer, urcă spre cer
+Și va fi mai ferice.
+/: Veghează azi, veghează azi
+Și luptă-te cu tine. :/
+
+[v6]
+El te iubește ne-ncetat.
+Ai inima curată!
+/: Sfințește-te, sfințește-te
+Fii gata, vine-ndată. :/

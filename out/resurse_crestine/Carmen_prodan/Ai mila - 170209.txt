@@ -1,0 +1,29 @@
+[title]
+Ai mila {author: {Carmen Prodan}, {rcId: {170209}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Doamne, către Tine strig mereu,
+O, ascultă rugăciunea mea!
+Nu rămâne surd la glasul meu,
+De la mine nu te-ndepărta...!
+
+[c]
+Ai milă Tu de mine
+Când încercarea este mare și mă tem,
+Căci eu mă-ncred în Tine
+Să nu rămân de rușine când Te chem!
+
+[v2]
+Când lucrezi o, Doamne, cum n-aș vrea,
+Tu privești departe-n viitor...
+Dă-mi înțelepciune să pricep
+Că nimic nu e întâmplător!
+
+[v3]
+Chiar de-mi este greu să înțeleg
+Mă încred în bunătatea Ta,
+Voii Tale vreau să mă supun,
+Știu că-n Mâna Ta e soarta mea!

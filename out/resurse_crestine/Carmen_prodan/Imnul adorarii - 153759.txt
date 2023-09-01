@@ -1,0 +1,41 @@
+[title]
+Imnul adorarii {author: {Carmen Prodan}, {rcId: {153759}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+In Tine imi caut scaparea
+Sa nu raman de rusine
+O izbaveste-ma Doamne
+Pleaca-Ti urechea spre mine
+
+[c]
+Fii o stanca de-adapost pentru mine-ntruna
+Unde eu sa pot fugi Doamne totdeauna
+Caci in Tine eu-ma-ncred Domane din pruncie
+Tu-mi esti sprijin nencetat, tel si bucurie
+
+[v2]
+Multi ma privesc cu uimire
+Ca si pe-o minune
+Dar eu pe Tine ma bizui
+Stiu ca esti cu mine
+
+[c2]
+Gura mea Te va lauda zi de zi Stapane
+Voi vesti dreptatea Ta neamului ce vine
+Sa ramana rusinati Doamne toti vrasmasii
+Caci spre Tine necurmat mi se-ndreapta pasii
+
+[v3]
+Cine-i ca Tine o Domane
+Sfant puternic si mare
+Am siguranta in Tine
+Chiar si-n incercare
+
+[c3]
+M-ai trecut prin ape mari prin necazuri multe
+Dar m-ai scos din adancimi si m-ai pus pe munte
+Doamne Tu m-ai mangaiat nu m-ai dat uitarii
+Tie-n veci Iti voi canta Imnul adorarii

@@ -1,0 +1,42 @@
+[title]
+Doamne cate sunt pe lume {author: {Ionel Saran Bochis}, {rcId: {111171}}
+
+[sequence]
+v1,c,v2,c,v3,c,e,v4,c
+
+[v1]
+/: Doamne câte sunt pe Lume
+Toate sunt Deșertăciune :/
+Dar Omul le tot iubește
+De nu le mai părăsește
+
+[c]
+/: Dar Omul e păcătos
+Și mereu necredincios :/
+/: Decând a păcătuit :/
+
+[v2]
+/: Dar Dumnezeu la iubit
+Și mereu l-a ocrotit :/
+Pe Omul ce l-a creat
+El la binecuvîntat
+
+[v3]
+/: De ce Omule mereu
+Ai uitat de Dumnezeu :/
+Ai uitat că te-a creat
+Și Te-a Binecuvîntat
+
+[e]
+/: Hai astăzi la Dumnezeu
+Ca să fii copilul Său :/
+
+[v4]
+An de an faci juruinți
+Și la urmă tot îl uiți
+Ai uitat că te-a creat
+Și Te-a binecuvîntat
+An de an faci juruinți
+Și la urmă tot îl uiți
+Ai uitat că te-a creat
+Și Te-a binecuvîntat

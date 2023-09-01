@@ -1,0 +1,29 @@
+[title]
+Cu tine-n gand {author: {David Wagner}, {rcId: {104937}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Cu Tine-n gând smerit azi vin, Isuse
+Și mă prostern slăvind prezența Ta
+Sunt copleșit de-a Ta iubire, ce-mi umple inima
+Eu cu Tine-n gând, doar Ție-Ți voi cânta. :/
+
+[c]
+/: Numai Tu ești izvorul vieții
+Numai Tu ești tot ce vreau acum
+Numai Tu poți mântui pe-acei ce vin la Tine
+Se cuvinte Ție laudă să-Ți aduc. :/
+
+[v2]
+/: Cu Tine-n gând vâslesc spre țărmul vieții
+Și doar la malul sfânt voi ancora
+Și chiar de marea-i învolburată, frică n-oi avea
+Căci cu Tine-n gând biruitor voi sta. :/
+
+[v3]
+/: Cu Tine-n gând acum și-n orice vreme
+Vreau să rămân, Isus, biruitor
+Să m-odihnesc la pieptul Tău, păzit de mâna Ta
+Doar cu Tine-n gând eu azi și-n veci aș vrea. :/

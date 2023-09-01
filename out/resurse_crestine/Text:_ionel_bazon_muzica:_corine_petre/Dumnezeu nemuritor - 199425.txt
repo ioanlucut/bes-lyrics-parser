@@ -1,0 +1,32 @@
+[title]
+Dumnezeu nemuritor {author: {Text: Ionel Bazon, Muzica: Corine Petre}, {rcId: {199425}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Ca un copil neînsemnat
+Tu, într-o iesle Te-ai născut.
+De necrezut! Un Împărat
+Să se smereasc-atât de mult!
+Mi s-a părut de ne-nțeles:
+De ce, din sfintele splendori,
+Această cale ai ales?
+
+[c]
+/: Ca un străin ai fost ăn lume,
+Sărac, Isuse și smerit.
+Dar cine a văzut în Tine
+Un Dumnezeu nemărginit?
+Ca un străin ai fost în lume,
+Sărac, Isuse și smerit! :/
+
+[v2]
+Isus, de slava Ta cerească,
+Cum ai putut să Te dezbraci
+Și-n haina noastră omenească,
+Cu umilință, să
+Te-mbraci?
+E uimitor să vii din cer
+Ca să dai viață tuturor,
+Tu, Dumnezeu nemuritor!

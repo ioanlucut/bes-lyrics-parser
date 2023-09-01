@@ -1,0 +1,23 @@
+[title]
+Dumnezeu m-a creat {author: {Maty si Daria}, {rcId: {208510}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Dumnezeu m-a creat
+Lui ii sunt indatorat
+Ii multumesc ca m-a iubit
+Si tot ce am mi-a daruit.
+
+[c]
+A creat universul
+A creat soarele
+A creat stelele
+Si pamantul unde traim.
+
+[v2]
+Dumnezeul meu minunat,
+Natura a creat,
+Mi-a dat apa si mancare
+E-o mare binecuvantare.

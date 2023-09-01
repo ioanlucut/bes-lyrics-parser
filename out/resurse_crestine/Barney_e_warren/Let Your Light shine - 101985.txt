@@ -1,0 +1,35 @@
+[title]
+Let your light shine {author: {Barney E. Warren}, {rcId: {101985}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Let your light so shine that the world may see
+How to come to Christ who will set them free;
+Let its rays gleam bright when the darkness falls,
+Till each sinful soul for the Savior calls.
+
+[c]
+Let your light shine, let your light shine,
+Let your light so shine before men;
+That they your works beholding, that they your works beholding,
+May glorify the Father’s name in heav’n.
+
+[v2]
+Let your light so shine everywhere you go,
+Till the tribes of earth Jesus Christ may know;
+Let its rays transpose into perfect day,
+When the clouds of gloom shall be swept away.
+
+[v3]
+Let your light so shine that its beams may reach
+Every darkened soul, thus the gospel preach;
+Let it brighter shine till that endless day,
+Bursts upon our sight ne’er to pass away.
+
+[v4]
+Let your light so shine every day and hour,
+That the truth be clothed with divinest pow’r;
+Let it brightly shine and promote God’s cause,
+To exalt His name and His holy law.

@@ -1,0 +1,35 @@
+[title]
+Totul e al tau dumnezeul meu {author: {Nica Lucian}, {rcId: {213117}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,v4,c
+
+[c]
+Totul e al tău, Dumnezeul meu
+Totul e al tău, Creatorul meu
+Ție mă închin, Ție-ți aparțin
+Tot ce e la mine, vine de la Tine.
+
+[v1]
+Tatăl meu ceresc, scump și minunat,
+Fiu Dumnezeiesc, sfânt și înălțat,
+Duhul Sfințeniei, mare Avocat.
+Dumnezeu etern, mare Împărat!
+
+[v2]
+Fratele mai mare, mântuirea noastră,
+Stânca cea mai tare, temelia noastră.
+Apă în pustie, Pâine ce s-a frânt,
+Sfântă bucurie, Leul neînfrânt!
+
+[v3]
+Din Tine și prin Tine, tot ce ai creat
+Totul-i pentru Tine, Rege adorat!
+Toată omenirea, va îngenunchea,
+Sfântă adunarea, doar ’naintea Ta!
+
+[v4]
+Lupul și cu mielul, vor paște împreună,
+Leul ca și boul, paie vor mânca,
+Șarpele se va hrăni, numai cu țărână,
+Cum zice Cuvântul, se va împlini.

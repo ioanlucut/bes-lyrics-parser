@@ -1,0 +1,23 @@
+[title]
+Voi cei fara speranta {author: {Anonim}, {rcId: {95750}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Voi, cei fără speranță
+Dați-I slavă Lui!
+Viața Sa El și-a jertfit
+Cinste Mielului!
+
+[c]
+/: Noi nu vrem un alt Isus!
+Noi n-avem alt frate, alt păstor ca El.
+Noi nu vrem un alt Isus!
+/: A Lui iubire o vom păstra acum și totdeauna :/
+
+[v2]
+Voi, ce-ați plâns aicea
+Dați-I slavă Lui!
+Veți primi alinul
+Cinste Domnului!

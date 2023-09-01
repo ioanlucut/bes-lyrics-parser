@@ -1,0 +1,47 @@
+[title]
+N-a fost nevoie de armura {author: {Puiu Chibici}, {rcId: {6569}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+N-a fost nevoie de armură
+De săbii sau de scut roman,
+Era de-ajuns doar cui și ură
+/: De preoți și de-un greu ciocan :/
+
+[v2]
+N-a fost nevoie de-o legiune
+De-ostași în lupte încercați
+Să duci un Miel până pe-o culme
+/: Un Împărat, peste Împărați! :/
+
+[c]
+Era de-ajuns crucea și spinii
+Era de-ajuns Calvarul greu
+Setea și dealul Căpățânii
+/: Era de-ajuns păcatul meu. :/
+
+[v3]
+N-a fost nevoie nici de gloată
+De farisei sau cărturari,
+Era de-ajuns dealul Golgota
+/: De-o cruce și de doi tâlhari :/
+
+[v4]
+Nu te-a adus până la moarte
+Nimic din acel trist decor
+Ci doar a noastre mari păcate
+/: Pe Tine Rege al Regilor. :/
+
+[v5]
+N-ar fi fost, Doamne niciodată
+Nevoie să cobori din cer
+De n-ar fi fost lumea stricată
+/: Și-atâția ce-n păcate pier :/
+
+[v6]
+De n-aș fi fost și eu, o, Doamne
+Și-aici nu aș fi existat,
+Nu sufereai nici chin și palme
+/: Dar, Tu-ai venit și m-ai salvat. :/

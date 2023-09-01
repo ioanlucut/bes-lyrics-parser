@@ -1,0 +1,29 @@
+[title]
+Ma-ncred in el in orice vreme {author: {Nicolae Zamfir}, {rcId: {210104}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Domnul e Stânca, tăria mea
+El e Păzitorul meu
+Domnu-i scăpare în vreme rea
+El e Adăpostul meu
+
+[c]
+Mă-ncred în El în orice vreme
+Si mâna Lui mă va ocroti
+Când sunt cu El de cine m-aș teme
+Este cu mine și mă va păzi
+
+[v2]
+Domnul e sprijin și ajutor
+El este iubirea mea,
+Domnul mi-e scutul izbăvitor
+El este salvarea mea
+
+[v3]
+Domnu-i lumină pe-a mea cărare
+Cu El nu mă rătăcesc
+Domnu-i a mea binecuvântare
+Cu glasul meu, eu îl slăvesc

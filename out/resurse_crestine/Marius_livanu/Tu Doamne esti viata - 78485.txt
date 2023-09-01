@@ -1,0 +1,24 @@
+[title]
+Tu doamne esti viata {author: {Marius Livanu}, {rcId: {78485}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+/: Tu Doamne ești viața, Tu îmi ești speranța
+Tu ești mângâierea când grea mi-e durerea
+Tu ești bucuria ce-alungă mânia
+Tu ești iubirea când tristă-i privirea
+Comori nepătrunse din cer Tu îmi dăruiești. :/
+
+[v1]
+/: În Tine am pace chiar dacă-i război
+Tu îmi ești lumină chiar nopții în toi
+Tu ești fericire și-n vremi de necaz
+Ești cântecul dulce, de-s lacrimi pe-obraz. :/
+
+[v2]
+/: În Tine-i odihnă când sufletu-nfrânt
+Se-aplecă-n tăcerea de reci de mormânt
+În Tine-i puterea când Duhul zdrobit
+Te-așteaptă-n suspine de patimi robit. :/

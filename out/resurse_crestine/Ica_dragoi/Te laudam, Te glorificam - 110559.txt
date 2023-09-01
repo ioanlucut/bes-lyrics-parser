@@ -1,0 +1,27 @@
+[title]
+Te laudam te glorificam {author: {Ica Dragoi}, {rcId: {110559}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Te lăudăm, Te glorificăm
+Pe Tine Dumnezeule mare!
+Ne-ai răscumpărat, viață-n dar ne-ai dat
+Și ne-ai salvat de la pierzare!
+
+[c]
+/: Osana! Aleluia! Te lăudăm, o, Doamne mare!
+Osana! Aleluia! Te binecuvântăm! :/
+
+[v2]
+Ești mare Dumnezeu, măreț și minunat,
+Vrednic de cinste și onoare!
+Te lăudăm, Te glorificăm,
+Ești Dumnezeul nostru mare!
+
+[v3]
+Fii lăudat al nostru Împărat!
+Ești mare și vrednic de laudă!
+Tu ne-ai mântuit, Isuse iubit,
+Ție-Ți mulțumim necontenit!

@@ -1,0 +1,33 @@
+[title]
+Sa ma biruiesc isuse {author: {Nicolae Moldoveanu}, {rcId: {215489}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Să mă biruiesc Isuse
+Pentru Tine și prin Tine
+/: Ție Ți le vreau supuse
+Toate câte sunt în mine :/
+
+[c]
+Să mă biruiesc, să mă biruiesc
+Pentru Tine și prin Tine
+Să mă biruiesc, să mă biruiesc
+O, Isuse pentru Tine să mă biruiesc.
+
+[v2]
+Să mă biruiesc întruna pentru Tine și prin Tine
+/: Nici o poftă, dar niciuna să nu-și aibă cuib în mine :/
+
+[v3]
+Să mă biruiesc oriunde pentru Tine și prin Tine
+/: Mai deplin să poți pătrunde cu-adevărul Tău în mine :/
+
+[v4]
+Să mă biruiesc în toate pentru Tine și prin Tine
+/: Voia Ta atuncea poate să lucreze-adânc în mine :/
+
+[v5]
+Să mă biruiesc Isuse pentru Tine și prin Tine
+/: Harurile-Ți neapuse doar așa le-aduci în mine :/

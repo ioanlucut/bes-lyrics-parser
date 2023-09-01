@@ -1,0 +1,65 @@
+[title]
+Cand isuse valuri vin intruna {author: {Nelu gabor}, {rcId: {72393}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,v5,c5
+
+[v1]
+Cand Isuse valuri vin intruna,
+Pe-a vietii barca spumegand,
+/: Fa sa-ntelegem atuncea ca putem pierde credinta
+Doar o clipa de nu stam veghind :/
+
+[c]
+Mai placuta-I ascultarea in toate
+De al Domnului prea sfant Cuvant
+El din orice incercare poate,
+Sa te scape frate orisicand.
+
+[v2]
+De ai cazut in deznadejde frate
+Si tu nu sti unde sa alergi.
+/: Ia atunci tu sfanta carte caci in ea gasi-vei pace.
+Legandu-ti ranile sufletesti :/
+
+[c2]
+Ruga ta sa ti-o inalti fierbinte
+Si sa-L rogi in duh sa te intareasca
+Din caderea ta cea mai adanca,
+El biruitor o sa te scoata.
+
+[v3]
+Sa nu te indoiesti nicicand pe cale
+Pentru ca lupti singur disperat
+/: O adu-ti adu-ti aminte cum prin incercari trecute
+Cu glas tare Domnul te-a salvat :/
+
+[c3]
+Multumirea jertfa-ti fie-n toate,
+Chiar si cand norii se ingramadesc.
+Caci in mijlocul furtunii tale,
+Zorii izbavirii se ivesc.
+
+[v4]
+De te-ai departat de sfanta cale
+Care duce in ceruri in vesnicii
+/: Fa-ti tu azi o cercetare
+Caci a Domnului lucrare Duhul Sfant curand o va sfarsi :/
+
+[c4]
+Mai placuta-i ascultarea in toate,
+Decat multe jertfe pe pamant.
+Caci Isus ar vrea ca sa se intorca,
+Sufletul ce asculta al Sau cuvant.
+
+[v5]
+Caci prin valea cu suspine grele
+Ca sa treci tu trebuie mereu
+/: Insa roaga-te intruna ca El iti va da cununa
+Si vei fi in veci cu Dumnezeu :/
+
+[c5]
+Tu sa nu te temi nicicand o frate.
+Cand pe Isus Il ai in barca ta,
+/: El Emanuel pastorul nostru,
+Va rapi curand biserica :/

@@ -1,0 +1,81 @@
+[title]
+Multumesc lui isus grija vietii mi-o poarta {author: {Anonim}, {rcId: {215660}}
+
+[sequence]
+v1,c,c2,v2,c3,c4,v3,c5,c6
+
+[v1]
+Multumesc lui Isus
+Grija vietii mi-o poarta,
+Multumesc lui Isus
+El cunaste a mea soarta.
+
+[c]
+Multumesc lui Isus
+Toate El le conduce,
+Multumesc lui Isus
+Si imi iau a mea cruce.
+
+[c2]
+Multumesc numai Lui
+Stie tot despre mine
+Multumesc Domnului
+Si la greu si la bine.
+E prietenul meu
+Dintre toti, stiu prea bine
+Ma conduce spre cer
+Ma atarge la Sine.
+
+[v2]
+Voi canta lui Isus
+Cat sunt la incercare,
+Voi canta lui Isus
+Cu El merg pe carare.
+
+[c3]
+Voi canta lui Isus
+Toate El le conduce.
+Voi canta lui Isus
+Si ma duc inspre cruce.
+
+[c4]
+Voi canta numai Lui
+Stie tot despre mine
+Voi canta Domnului
+Si la greu si la bine.
+E prietenul meu
+Dintre toti, stiu prea bine
+Ma conduce spre cer
+Ma atarge la Sine.
+
+[v3]
+Multumesc Lui mereu
+Cat voi fi eu in viata,
+El e al meu Dumnezeu
+Voi vedea a Lui fata.
+
+[c5]
+Multumesc lui Isus
+Toate El le conduce,
+Multumesc numai Lui
+Si ma aplec iar spre cruce.
+
+[c6]
+Multumesc numai Lui
+Stie tot despre mine
+Multumesc Domnului
+Si la greu si la bine.
+E prietenul meu
+Dintre toti, stiu prea bine
+Ma conduce spre cer
+Ma atarge la Sine.
+
+[c7]
+Voi canta numai Lui
+Stie tot despre mine
+Voi canta Domnului
+Si la greu si la bine.
+E prietenul meu
+Dintre toti, stiu prea bine
+Ma conduce spre cer
+Ma atarge la Sine.

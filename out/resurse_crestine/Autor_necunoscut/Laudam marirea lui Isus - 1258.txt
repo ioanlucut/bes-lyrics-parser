@@ -1,0 +1,35 @@
+[title]
+Laudam marirea lui isus {author: {Anonim}, {rcId: {1258}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Lăudăm mărirea lui Isus,
+A Salvatorului,
+Cu laudă să--L încununăm
+Pe Domnul cerului!
+
+[c]
+Înainte, înainte, să--L lăudăm
+Pe Domnul sfânt al cerului!
+Înainte, înainte, să--L lăudăm
+Pe Domnul sfânt!
+
+[v2]
+Popoare, neamuri de sub cer,
+Veniți ’naintea Lui,
+Cu bucurie vă--nchinați
+Mântuitorului!
+
+[v3]
+Lăudați cu toți pe Dumnezeu
+Și biruința Lui,
+Lăudați voi cei răscumpărați
+Pe Domnul cerului!
+
+[v4]
+O, de--aș putea să stau mereu
+În Casa Domnului
+Să--L pot glorifica și eu
+Pe Domnul cerului!

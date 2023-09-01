@@ -1,0 +1,31 @@
+[title]
+Multimea cea mare {author: {Nicu Wagner}, {rcId: {5293}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Se-aude-un cânt de gloate multe
+Ce cântă-n cor Lui Dumnezeu.
+/: Dar cine poate să asculte
+Slăvitul cânt din empireu? :/ x3
+Veniți și ascultați cântarea,
+Iar dacă nu o auziți,
+/: Zburați prin duh, străpungeți zarea -
+Se-aude pentru cei smeriți. :/ x3
+
+[c]
+/: Ești sfânt :/ x3 și veșnic!
+Etern Stăpân, sfânt Creator!
+A Ta e lauda, slava, cinstea,
+/: Puterea-n vecii vecilor! :/
+
+[v2]
+Se-aude-un cânt de gloate multe
+Ce cântă-n cor lui Dumnezeu,
+/: Dar cine poate să asculte
+Slăvitul cânt din empireu? :/ x3
+Veniți și voi, cu oastea sfântă,
+Să lăudăm pe Dumnezeu!
+/: Nemuritorii slavei cântă
+Neîncetat, cu har mereu. :/ x3

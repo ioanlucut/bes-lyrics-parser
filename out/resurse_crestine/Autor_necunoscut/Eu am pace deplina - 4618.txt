@@ -1,0 +1,22 @@
+[title]
+Eu am pace deplina {author: {Anonim}, {rcId: {4618}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+/: Eu am pace deplină, eu am pace deplină,
+Eu am pace deplină în Isus :/
+
+[v2]
+/: Eu sunt vesel pe cale, eu sunt vesel pe cale,
+Eu sunt vesel pe cale cu Isus :/
+
+[v3]
+/: Eu sunt plin de iubirea, eu sunt plin de iubirea
+Eu sunt plin de iubirea lui Isus. :/
+
+[v4]
+/: Eu am pace deplină,
+Eu sunt vesel pe cale,
+Eu sunt plin de iubirea lui Isus. :/

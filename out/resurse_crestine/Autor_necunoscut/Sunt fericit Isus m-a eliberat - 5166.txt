@@ -1,0 +1,20 @@
+[title]
+Sunt fericit isus m-a eliberat {author: {Anonim}, {rcId: {5166}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+/: Sunt fericit Isus m-a eliberat :/ x3
+Îi cânt glorii, aleluia
+Isus m-a eliberat
+
+[c]
+Sunt fericit, Isus m-a vindecat
+Sunt fericit, Isus m-a mântuit
+Satan m-a legat, Isus m-a eliberat
+
+[v2]
+/: Astăzi eu sunt liber de păcat iertat :/ x3
+Îi cânt glorii, aleluia
+El m-a eliberat

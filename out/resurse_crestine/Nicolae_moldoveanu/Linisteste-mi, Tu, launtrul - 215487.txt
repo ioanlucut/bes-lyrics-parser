@@ -1,0 +1,21 @@
+[title]
+Linisteste-mi tu launtrul {author: {Nicolae Moldoveanu}, {rcId: {215487}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Liniștește-mi, Tu, lăuntrul, Doamne ne-ncetat
+/: Ca să-Ți înțeleg Cuvântul și să-l spun curat :/
+
+[v2]
+Întărește-mi pașii-ntruna pe-al sfințirii drum
+/: Ca să merg mai drept prin lumea veacului de-acum :/
+
+[v3]
+Limpezește-mi pururi ochii sufletului meu
+/: Ca să vadă frumusețea harului mereu :/
+
+[v4]
+Și-mi aprinde-n vâlvătaie al vieții-altar
+/: Ca să ardă tot mai sfinte jertfe iar și iar :/

@@ -1,0 +1,29 @@
+[title]
+Bun si mare {author: {Alexandru Groza}, {rcId: {192918}}
+
+[sequence]
+v1,b,c,v2,c
+
+[v1]
+Trezește-te, tu, cel ce dormi, la pocăință ești chemat!
+Glasul Domnului te cheamă azi!
+Înviorează-ți inima, primește-L pe Isus în ea
+El te-a izbăvit de moartea veșnică!
+
+[b]
+Închină-ți viața ta să ai bucuria
+Dumnezeu, El te iubește, nu mai sta!
+
+[c]
+E bun și mare Dumnezeu
+Încrede-te, omule-n El
+Un colț de Rai ți-a pregătit
+Vino, fii mântuit!
+Cu sufletul voios, slăvește-L pe Hristos
+Cântă și tu: Glorie lui Dumnezeu!
+
+[v2]
+Tatăl din ceruri este sfânt, pleacă-ți genunchii la pământ
+Înaintea Lui să vă-nchinați!
+El ce-a avut mai scump a dat, prin Fiul ne-a răscumpărat!
+El ne-a izbăvit de moartea veșnică!

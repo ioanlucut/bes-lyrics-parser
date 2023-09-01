@@ -1,0 +1,34 @@
+[title]
+Ploaia trezirii {author: {Cristos pentru Romania}, {rcId: {4483}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Doamne, știm că țara noastră o iubești
+Și pe toată lumea vrei să o trezești.
+De la cel mai mic până la cel bătrân
+Tu dorești s-aduci la viață-orice român.
+Peste-acest popor întinde mâna Ta
+Și adu trezirea când Te vom ruga!
+Vrem să vină fiii risipitori ’napoi,
+Doamne, vrem trezire pentru ei și noi!
+
+[c]
+/: Pot s-aud la distanță un tunet,
+Pot să simt Duhul Sfânt ca un vânt.
+Ne rugăm pentru ploaia trezirii
+Să cadă pe pământ, să cadă pe pământ. :/
+
+[v2]
+De la cel pe postul de predicator
+Pân’ la ultimul pe stradă trecător,
+De la tânărul ce-și caută-al vieții drum
+Pân’ la văduva ce plânge chiar acum,
+Orice om, femeie, tineri și bătrâni.
+Doamne, adu trezire azi peste români,
+Vrem să vină fii risipitori ’napoi,
+Doamne, vrem viață pentru ei și noi.
+
+[e]
+Trezire, trezire, trezire peste țară.

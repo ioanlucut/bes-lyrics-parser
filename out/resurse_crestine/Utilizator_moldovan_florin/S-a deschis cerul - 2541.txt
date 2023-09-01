@@ -1,0 +1,40 @@
+[title]
+S-a deschis cerul {author: {Utilizator Moldovan Florin}, {rcId: {2541}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+S-a deschis cerul
+Pentru tine azi
+Să-nțelegi că astăzi
+E chemarea ta
+Nu da înapoi
+Căci nu vei ști
+Dacă ziua de mâine
+Va mai fi
+
+[c]
+Vino la Domnul, nu amână
+Nu ști: va fi ziua ta
+Deci vino, nu amâna
+Lasă-l pe Cel ce te-a creat
+Și vei vedea cum din mâna Sa
+E totul în viața ta
+Astăzi e ziua când liber să fi
+Cu Isus în Paradis
+Cu ce-i ce l-au slujit
+Stropi de sânge a lui Isus
+Strigă spre tine: ”
+Vino acum
+Al meu fiu pierdut!”
+
+[v2]
+Veghează dar azi
+Cât mai este timp
+Căci Cel ce vine
+Va reveni
+E Isus Hristos
+Care s-a jertfit
+Că să-ți dea viața
+Să intri-n Paradis

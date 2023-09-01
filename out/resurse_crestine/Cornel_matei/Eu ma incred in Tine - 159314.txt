@@ -1,0 +1,37 @@
+[title]
+Eu ma incred in tine {author: {Cornel Matei}, {rcId: {159314}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Chiar dacă uneori simt adânc durerea
+Cum alunecă în suflet
+Și nu pot s-o opresc nicicum.
+Chiar dacă uneori mă lupt cu-ngrijorarea,
+Eu vin umil în rugă și vreau acum să-Ți spun:
+
+[c]
+Eu mă încred în Tine, știu că nu m-ai părăsit,
+Îmi vei aduce mângâierea, în sufletu-mi trudit!
+Eu mă încred în Tine, ești bogat în bunătate,
+Mă-nconjori cu iubire, chiar și-atunci când nu-nțeleg!
+/: Eu mă încred în Tine, știu că nu m-ai părăsit,
+Îmi vei aduce mângâierea, în sufletu-mi trudit!
+Eu mă încred în Tine, ești bogat în bunătate,
+Mă-nconjori cu iubire, chiar și-atunci când nu-nțeleg! :/
+Mă-nconjori cu iubire!
+
+[v2]
+Chiar dacă uneori mă pierd târziu în noapte
+Și suspinele în șoapte,
+Cu greu încerc să le ascund.
+Isuse, Tu-mi cunoști, mai mult ca nimeni altul,
+Orice gânduri și-orice taină, de-aceea plâng și spun:
+
+[v3]
+Chiar dacă uneori văd cum necredința,
+Se strecoară-n inimă
+Și vrea să stingă duhul meu.
+Chiar dacă uneori aproape-mi pierd speranța,
+Nu Te văd, dar știu, Isuse, că mă veghezi mereu!

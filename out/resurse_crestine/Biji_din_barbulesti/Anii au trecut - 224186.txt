@@ -1,0 +1,45 @@
+[title]
+Anii au trecut {author: {Biji din Barbulesti}, {rcId: {224186}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Anii au trecut
+Și tu ce-ai făcut
+Unde-ai alergat
+Te-ai îndepărtat
+Prin multe furtuni
+Multe promisiuni
+/: Care le-ai făcut
+Și nu le-ai ținut :/
+
+[c]
+Omule, ce-ai făcut omule
+Câte-ai strâns ai strâns pentru tine
+Ai alergat și-ai adunat
+Dar de Domnul mereu ai uitat
+Și nimic, nimic n-ai căpătat
+Și nimic, nimic n-ai câștigat
+/: Omule, ce-ai făcut omule
+Câte-ai strâns ai strâns pentru tine
+Ai alergat și-ai adunat
+Dar de Domnul mereu ai uitat
+Și nimic, nimic n-ai căpătat
+Și nimic, nimic n-ai câștigat :/
+
+[v2]
+Suflet chinuit
+Tu nu te-ai gândit
+Ce se va întâmpla
+Cu viața ta
+Tot ce-ai adunat
+Se va risipi
+/: Dar sufletul tău
+Unde atunci va fi? :/
+
+[v3]
+/: Suspinând lăcrimând alergând cu sufletul frânt
+Nu mai pot sunt zdrobit obosit de cel rău lovit
+Îmi doresc să slujesc așa cum ai zis
+Dar sunt slab și nu pot să mă țin de ce am promis :/

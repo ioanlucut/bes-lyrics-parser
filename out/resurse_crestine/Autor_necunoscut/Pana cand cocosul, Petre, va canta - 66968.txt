@@ -1,0 +1,41 @@
+[title]
+Pana cand cocosul petre va canta {author: {Anonim}, {rcId: {66968}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Până când cocoșul, Petre, va cânta,
+De trei ori, de Mine te vei lepăda.
+/: Tu, vai, ucenicul, tu al Meu iubit,
+Tu piatra credinței, tu M-ai părăsit. :/
+
+[v2]
+Astăzi El îmi zice și apoi L-a luat
+O mulțime multă L-a dus la Pilat.
+/: Dus la arhierul, omul cel viclean
+Care-n sinagogă prezintă acest om. :/
+
+[v3]
+În această curte, loc prea blestemat
+De trei ori, de Domnul eu m-am lepădat.
+/: Și am zis că eu nu-L știu pe-al meu Stăpân,
+Refuzând pe Domnul față de păgâni. :/
+
+[v4]
+Vai, eu ce facut-am, am tăgăduit
+Pe Acela care mult El m-a iubit.
+/: Eu, nelegiuitul, omul de păcat,
+Cel dintâi apostol, și-acum lepădat. :/
+
+[v5]
+Smerenie multă să mă pocăiesc
+Și a mea viață s-o nesocotesc.
+/: Să vadă urmașii prin exemplul meu
+Căci omul greșește, nu-i ca Dumnezeu. :/
+
+[v6]
+Dar ce văd eu, Doamne, îndurarea Ta,
+Păcatul cel mare nu-l voi mai purta.
+/: Eu știu astăzi bine căci Tu mă iubești,
+În căință mare iarăși mă primești. :/

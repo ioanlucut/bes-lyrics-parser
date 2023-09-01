@@ -1,0 +1,21 @@
+[title]
+The lily of the valley is away {author: {Iulia Contis}, {rcId: {244447}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+The accursed clay whispers a song
+That takes my breath away; it’s long!
+The lily of the valley is away...
+And, oh, the world is going now astray...
+
+[c]
+My anguish, if you take me to the King,
+My desperate cry only to Him I’ll bring!
+
+[v2]
+This poor old song will make me cry!
+I see God’s cleft and that big ”why?”;
+I see the empty tomb and I can sing,
+To God my worried heart now I can bring!

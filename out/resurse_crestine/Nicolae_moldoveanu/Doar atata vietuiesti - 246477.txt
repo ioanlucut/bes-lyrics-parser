@@ -1,0 +1,45 @@
+[title]
+Doar atata vietuiesti {author: {Nicolae Moldoveanu}, {rcId: {246477}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Doar atâta viețuiești,
+Cât iubești.
+Și-n credință te păstrezi,
+Cât lucrezi.
+Viața o câștigi și-o ai
+Cât o dai,
+/: Cât pe-altarul Domnului
+Tu o pui. :/
+
+[v2]
+Ochii, de păcat ți-s rupți,
+Cât te lupți
+Să privești mereu în Sus
+Spre lsus.
+Soarele de te-a cuprins,
+Ești aprins.
+/: Și-n lumină te prefaci
+Când o-mbraci. :/
+
+[v3]
+Fericire vei primi
+Când vei ști
+Ca s-o-mparți mai iubitor,
+Tuturor.
+Pe Hristos cel înviat
+L-ai aflat,
+/: Când prin viață dovedești
+Că-L iubești. :/
+
+[v4]
+Când de EI te Iași condus
+Și supus,
+Îl asculți pân-la sfârșit,
+Liniștit...
+Și prin trai și prin cuvânt,
+Pe pământ,
+/: Să-L înalți mai luminos,
+Pe Hristos! :/

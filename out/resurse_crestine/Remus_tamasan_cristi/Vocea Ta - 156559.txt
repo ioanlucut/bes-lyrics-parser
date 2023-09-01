@@ -1,0 +1,37 @@
+[title]
+Vocea ta {author: {Remus Tămășan Cristi}, {rcId: {156559}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Șoapta dulce care vine la urechea mea mereu
+Este șoapta cea divină trimisă de Dumnezeu
+Este glasul Celui veșnic ce conduce viața mea
+Zi de zi pe Calea Sfântă mă conduce vocea Ta.
+
+[c]
+Vocea Ta e atât de dulce
+Ea îmi dă liniște mereu
+Vocea Ta viață-mi aduce
+Vocea Ta de Dumnezeu.
+/: Vocea Ta e atât de dulce
+Ea îmi dă liniște mereu
+Vocea Ta viață-mi aduce
+Vocea Ta de Dumnezeu. :/ x3
+
+[v2]
+Vocea Ta e atât de lină mă conduce-n orice ceas
+Fără Tine, drag Isuse, nu doresc să fac un pas
+Vocea Ta e a mea povață o lumină-n noaptea grea
+Zi de zi pe Calea Sfântă mă conduce vocea Ta.
+
+[v3]
+Vocea Ta, Isuse dragă, o voi asculta mereu
+Căci mi-a fost adesea alături și la bine și la greu
+Vocea Ta mă va conduce zi de zi pe drumul Tău
+Până voi ajunge-n Ceruri să mă-nchin la Tronul Tău.
+
+[e]
+Vocea Ta viață-mi aduce
+Vocea Ta de Dumnezeu.

@@ -1,0 +1,29 @@
+[title]
+Nu e-ncercare prea mare {author: {Adi Gliga}, {rcId: {113050}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+De suferința ți-e mare
+Nu știi-ncotro s-o apuci
+Adu-ți aminte că mare
+E cel ce din lut te-a făcut.
+
+[c]
+Nu e-ncercare prea mare,
+Nu este nimic prea greu
+Vino, vino,
+Vino acum la El.
+
+[v2]
+La rugăciune aleargă
+Lui Dumnezeu să Îi spui
+Tot ce în suflet te-apasă
+El e salvarea oricui.
+
+[v3]
+Vino cu toată povara
+La crucea Lui să o pui
+El ia păcatul tău mare
+Și vindecă rana oricui.

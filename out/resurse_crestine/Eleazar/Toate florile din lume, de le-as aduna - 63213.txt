@@ -1,0 +1,29 @@
+[title]
+Toate florile din lume de le-as aduna {author: {Eleazar}, {rcId: {63213}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Toate florile din lume, de le-aș aduna, 
+Nu-s frumoase ca și Tine, scumpe Mesia.
+Toate stelele din ceruri, de ar lumina,
+Nu te întrec in frumusețe, scumpe Mesia.
+
+[c]
+Tu ești crinul cel din vale,
+Trandafirul din Saron
+Tu ești mugurul din floare,!
+/: Tu ești sfânt, iubite Domn :/
+
+[v2]
+Toată strălucirea lumii, de aici de jos,
+Nu te întrec in frumusețe, scump și drag Hristos.
+Mi se umezesc obrajii, de iubirea Ta
+Căci Te aștept cu dor fierbinte, scumpe Mesia.
+
+[v3]
+Inima îmi tresaltă în piep, t la cuvântul Tău
+Tu mi-ai spus ca să te aștept, că vei veni în curând
+Tu ești împarat al slavei, mirele cel sfânt
+Tu ești pacea mântuirea, ce mi-ai dăruit.

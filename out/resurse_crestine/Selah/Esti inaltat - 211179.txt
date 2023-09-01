@@ -1,0 +1,32 @@
+[title]
+Esti inaltat {author: {Selah}, {rcId: {211179}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+Cu Tine merg n-ainte, caci Tu imi esti pe veci
+Biruitor in lupta, comandant de osti ceresti
+Tot cerul Ti se-nchina, si pe pamant domnesti
+Si iadul se-nfioara, cand ii chemi pe ai tai alesi
+
+[c]
+Esti inaltat in slava, esti suveran pe veci
+La Tine chemi popoare, si oameni mantuiesti
+Imparatia Ta domneste-n veci de veci
+Esti inaltat in slava, esti suveran pe veci
+La Tine chemi popoare, si oameni mantuiesti
+Imparatia Ta domneste-n veci de veci
+La Tine chemi popoare
+Si oameni mantuiesti
+Imparatia Ta domneste-n veci de veci
+
+[v2]
+Tu lupti pentru mine, si eu Te preamaresc
+Biruitor in lupta, cu Tin’ raman in veci
+Te chem in aparare, caci Tu ai dat mereu
+Ajutor si salvare, sufletului meu
+
+[b]
+Venim si-ngenunchem in fata tronului Tau
+Ne-nchinam Aceluia ce-a spus ” Eu sunt Cel ce sunt”

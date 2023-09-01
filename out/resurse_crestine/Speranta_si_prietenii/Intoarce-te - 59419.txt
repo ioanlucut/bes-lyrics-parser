@@ -1,0 +1,23 @@
+[title]
+Intoarce-te {author: {Speranța și prietenii}, {rcId: {59419}}
+
+[sequence]
+v1,c,v3,c,v4,c
+
+[v1]
+Va fi târziu o dragul meu, să te întorci la Dumnezeu
+Când viața se va termina vei vrea dar nu vei mai putea
+
+[c]
+/: Întoarce-te la Dumnezeu întoarce-te din drumul tău
+Și vei fi eliberat!
+Întoarce-te la Dumnezeu întoarce-te din drumul tău
+Și vei fi iertat! :/
+
+[v3]
+Nu vezi cum viața ți se scurge și încă nu ești mântuit
+Frica morții te cuprinde și de păcate ești robit
+
+[v4]
+Nu aștepta prietene nu aștepta încă o zi
+Poate că-n ceasul următor viața ta se va sfârși

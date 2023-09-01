@@ -1,0 +1,29 @@
+[title]
+E frumos sa fii crestin {author: {Andreea Popoi}, {rcId: {63098}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+/: E frumos să fii creștin, da e frumos :/
+/: De luni, marți, miercuri, joi, vineri, sâmbătă
+Și mai ales duminică,
+E frumos să fii creștin, e frumos. :/
+
+[v2]
+/: E frumos să ai prieteni, da e frumos.
+/: De luni, marți, miercuri, joi, vineri, sâmbătă
+Și mai ales duminică,
+E frumos să ai prieteni, e frumos. :/
+
+[v3]
+/: E frumos să-ți iubești frații, e frumos :/
+/: De luni, marți, miercuri, joi, vineri, sâmbătă
+Și mai ales duminică,
+E frumos să-ți iubești frații, e frumos. :/
+
+[v4]
+/: E frumos să-I cânți lui Isus, e frumos. :/
+/: De luni, marți, miercuri, joi, vineri, sâmbătă
+Și mai ales duminică,
+E frumos să-I cânți lui Isus, e frumos. :/

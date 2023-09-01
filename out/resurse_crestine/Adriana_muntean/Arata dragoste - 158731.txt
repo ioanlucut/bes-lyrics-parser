@@ -1,0 +1,29 @@
+[title]
+Arata dragoste {author: {Adriana Muntean}, {rcId: {158731}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Lasă-i și cămașa celui ce ți-o cere
+Și răbdător să fii când ești lovit,
+Să mergi chiar două mile cu orișicine
+/: Și n-aștepta ca să fii răsplătit. :/
+
+[c]
+Arată dragoste când ți se-oferă ură,
+Trăiește adevărul prin cuvânt;
+Tu ești chemat să fii cu cei ce-ndură
+/: Și vei avea răsplata-n cerul sfânt. :/
+
+[v2]
+Iubește pe aproape ca și pe un frate
+Și-atunci când el este-mpotriva ta,
+Se cere rugăciune și-o inima curată
+/: Și pentru ceruri îl vei câștiga. :/
+
+[v3]
+Când ți-aduce blestemul, tu binecuvântă,
+Nu-ntoarce rău când bine poți să faci,
+Ca cei din jurul tău să vadă-n tine
+/: Pe Dumnezeul cel adevărat. :/

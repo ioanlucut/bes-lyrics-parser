@@ -1,0 +1,18 @@
+[title]
+Tu esti scaparea mea {author: {Anonim}, {rcId: {1545}}
+
+[sequence]
+v1,c
+
+[v1]
+Tu ești scăparea mea,
+La Tine am găsit
+Un loc de nădejde.
+Când totu-n jur se clatină
+La Tine alerg.
+
+[c]
+/: La Tine alerg,
+Pace Tu îmi dai din plin
+Și îmi ștergi lacrima.
+La Tine alerg. :/

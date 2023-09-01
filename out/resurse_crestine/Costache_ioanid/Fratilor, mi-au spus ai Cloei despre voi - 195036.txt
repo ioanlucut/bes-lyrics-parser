@@ -1,0 +1,45 @@
+[title]
+Fratilor mi-au spus ai cloei despre voi {author: {Costache Ioanid}, {rcId: {195036}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Fraților, mi-au spus ai Cloei
+ /: despre voi :/
+...
+că-n grădinile iubirii, ați lăsat omida firii
+să vă strice trandafirii, din Eden, din Eden.
+
+[c]
+/: Că din nou la voi pe vale, toate crengile sunt goale,
+că n-au mai rămas petale, nici polen, nici polen. :/
+
+[v2]
+Fraților, mi-au spus ai Cloei
+ /: despre voi :/
+...
+că fecioarele-nțelepte, nu mai stau cu drag s-aștepte,
+priveghind pe-a Nunții trepte, ca surori, ca surori.
+
+[c2]
+/: Că Mireasa de mâhnire, nu mai țese in subțire,
+pentr-a-ntâmpina pe Mire, sus pe nori, sus pe nori. :/
+
+[v3]
+Fraților, dar unde-i Dragostea Dintâi?, Dragostea?...
+Dacă azi aveți mânie? câțiva ani - și nu o mie...
+cum veți fi o veșnicie, sus pe plai, sus pe plai?
+
+[c3]
+/: Dacă azi aveți zăvoare, veți avea și-n ceruri oare
+câte-un Rai de fiecare? câte-un Rai, câte-un Rai? :/
+
+[v4]
+Fraților, să știți că vremea s-a scurtat, s-a scurtat.
+Las’să fie holda plină, și de spini și de neghină!
+Grâul lângă grâu să-și țină, spicu-n vânt, spicu-n vânt!
+
+[c4]
+/: Cine-i spin cu flori deșarte, spin să fie mai departe!
+Cine-i sfânt, mai sfânt să-și poarte, Rodul Sfânt, Rodul Sfânt! :/

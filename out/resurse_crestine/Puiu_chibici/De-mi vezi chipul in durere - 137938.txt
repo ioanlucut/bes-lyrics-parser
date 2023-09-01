@@ -1,0 +1,29 @@
+[title]
+De-mi vezi chipul in durere {author: {Puiu Chibici}, {rcId: {137938}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+De-mi vezi chipul în durere
+Și ai mei ochi mereu înlăcrimați,
+E amprenta suferinței,
+A tristei amintiri de altădat’.
+
+[c]
+Ochii mei azi, mamă, sunt în lacrimi,
+Căci cântecul tău drag nu-l pot uita,
+Chipu-ți blând și zâmbetul tău dulce
+Pe totdeauna mi-au frânt inima.
+
+[v2]
+Mamă, dorul tău mă leagă
+De locul unde-odată ai plecat,
+De-acea țară fericită
+Și de-Acel ce-ți este Împărat.
+
+[v3]
+Tu, Isuse-mi ești Părinte,
+Chiar dacă mama-i dusă-n veșnicii,
+Ești speranța că în ceruri,
+Pe plaiuri sfinte o voi întâlni.

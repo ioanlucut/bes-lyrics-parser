@@ -1,0 +1,38 @@
+[title]
+Fara tine fara tine {author: {amos7}, {rcId: {94442}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,v4,c
+
+[c]
+/: Fara Tine,
+Fara Tine
+Doamne nu-i lumina
+Nu-i nici viata, nu-i odihna
+Frumusete nici o clipa
+Harul vesnic e la Tine
+Pentru cel ce crede in tine :/
+
+[v1]
+O ce orbire intra neincetat
+Prin ochii Tai vad mai bine
+/: In lumea stapanita de pacat
+Ce fuge Domane de la Tine :/
+
+[v2]
+O ce surzire e in urehea aceea
+Care aude foarte bine
+/: Dar pentru adevarul Tau e grea
+Si fuge Doamne de la Tine :/
+
+[v3]
+O ce neiduplecat de rataciti
+Se nasc in timp chiar........
+/: Stiinta lumii de nelegiuiti
+Ce fuge Doamne de la Tine :/
+
+[v4]
+Dar ce ferice este pentru acel
+Ce prin credinta astazi vine
+/: Sa vada pretul Sangelui de Miel
+Cel dulce Doamne de la Tine. :/

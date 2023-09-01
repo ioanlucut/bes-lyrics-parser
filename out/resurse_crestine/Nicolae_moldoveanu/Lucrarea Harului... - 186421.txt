@@ -1,0 +1,41 @@
+[title]
+Lucrarea harului {author: {Nicolae Moldoveanu}, {rcId: {186421}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Lucrarea Harului slăvit
+E limpede lumină,
+E viața-n Domnul Preamărit,
+E pacea lui divină!
+
+[c]
+Ferice dacă-n viața ta,
+Și-a început Lucrarea Dumnezeu,
+Că-n Harul și iubirea Sa,
+O va desăvârși mereu!
+
+[v2]
+Lucrarea Harului nespus
+E zilnică-noire,
+E taina nașterii de Sus,
+E creșterea-n sfințire!
+
+[v3]
+Lucrarea Harului preasfânt
+E pricina cântării,
+E-ndemn, putere și avânt
+Spre Cerul îndurării!
+
+[v4]
+Lucrarea Harului ceresc
+E-adâncă umilință
+Prin ea virtuțile-nfloresc
+Și ea dă biruință
+
+[v5]
+Lucrarea Harului curat
+E sfântă curăție,
+E Cerul binecuvântat,
+E-ntreaga Veșnicie.

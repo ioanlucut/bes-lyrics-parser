@@ -1,0 +1,35 @@
+[title]
+Traiasca domnul stanca vietii mele {author: {Ovidiu Liteanu}, {rcId: {183396}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Trăiască Domnul Stânca vieții mele
+Ce s-a jertfit pe cruce la Calvar
+Venind din slavă de dincolo de stele
+Ca să-mi aducă Mântuirea-n dar
+
+[c]
+/: Trăiască Domnul Stânca Mântuirii
+El e speranța sufletului meu
+Mă-ncred în El în Domnul nemuririi
+Și-aștept cu dor să plec în Cerul său :/
+
+[v2]
+Slăvit să fie Domnul nemuririi
+Că m-a spălat în sângele Lui sfânt
+M-a așezat pe Stânca Mântuirii
+O viață întreagă numai Lui să-i cânt
+
+[v3]
+Mărit să fie Cel ce Mântuiește
+Îi cânt mereu prin Duhul Lui cel Sfânt
+L-aștept cu dor și iată-L se ivește
+Să mă răpească de pe-acest pământ
+
+[v4]
+Trăiască Domnul a mea sărbătoare
+Lumina vieții mele pe pământ
+Ca El nu-i nimeni Dumnezeu mai mare
+Ca Domnul meu nu-i nimenea mai Sfânt

@@ -1,0 +1,40 @@
+[title]
+Te-am ales sa fii al meu {author: {Ica Dragoi}, {rcId: {110067}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+”
+Te-am ales să fii al Meu!”
+Zice Domnul Dumnezeu.
+”
+Te-am făcut și întocmit,
+Și tot Eu Te-am sprijinit!”
+
+[c]
+/: ”
+Nu te teme, sunt cu tine!
+Sunt la greu cât și la bine,
+Eu sunt Dumnezeul tău,
+Te iubesc, copilul Meu!” :/
+
+[v2]
+” Nu te teme de nimic,
+Sunt cu tine, Eu îți zic!
+Duhul Meu ție-ți voi da,
+Binecuvântarea Mea.”
+
+[v3]
+”
+Eu sunt al tău Împărat,
+Căci Eu te-am răscumpărat!
+Sunt Început și Sfârșit
+Dumnezeul infinit.”
+
+[v4]
+”
+Eu sunt Creatorul Tău,
+Și sunt Mare Dumnezeu,
+Te-ntăresc, Te sprijinesc,
+Pentru Cer te pregătesc! ”

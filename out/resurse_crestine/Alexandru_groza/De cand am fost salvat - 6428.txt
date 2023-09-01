@@ -1,0 +1,31 @@
+[title]
+De cand am fost salvat {author: {Alexandru Groza}, {rcId: {6428}}
+
+[sequence]
+v1,c,v3,c
+
+[v1]
+Spre cetățuia unde merg eu e lumină,
+Din depărtări zăresc lumina lui Isus,
+Drumul e greu, dar nu mă las oprit de lume
+Căci vreau s-ajung în veșnicia lui Isus...
+Condus de El înaintez spre-a mea cetate
+Cu siguranță voi ajunge la liman
+Merg după El, căci îi cunosc eu glasu-I dulce
+Mă-ncred în El, cu dragoste eu îl urmez...
+
+[c]
+/: Toată speranța eu mi-am pus-o-n Domnul
+Din ziua când i-am predat viață mea
+Prezența Lui e-n dragostea ce-o am în suflet
+El e Păstorul meu cel drag :/
+
+[v3]
+Cu Domnul meu am siguranța veșniciei
+Condus de El, eu nu mă mai îngrijorez,
+Singur nu sunt, Domnul meu e lângă mine
+Mă-ncred în El cu dragoste eu Îl urmez
+Condus de El inaintez spre-a mea cetate
+Cu siguranta voi ajunge la liman.
+Merg dupa El, caci Ii cunosc eu glasul dulce
+Ma-ncred in El, cu dragoste eu Il urmez.

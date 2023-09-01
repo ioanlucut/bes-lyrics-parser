@@ -1,0 +1,26 @@
+[title]
+Cand iubesti {author: {Adi Gliga}, {rcId: {139371}}
+
+[sequence]
+v1,b,c,v2,b,c
+
+[v1]
+Când iubești ți-e dor, sufletul e mai ușor,
+Când iubești te înalți-n veșnicii.
+Când iubești e lumea ta, ești umil și poți ierta,
+Când iubești ți-e inima pe culmi!
+
+[b]
+Și-n bucurie și în durere,
+Când e iubirea, e mângâiere.
+În bucurie și în durere,
+Când e iubirea, e mângâiere.
+
+[c]
+/: Dacă iubești, știu că trăiești cu Dumnezeu! :/
+
+[v2]
+Când iubești ești bun, te oferi celor din jur,
+Când iubești speranța o aduci.
+Când iubești în urma ta dragostea o vei lăsa,
+Când iubești ți-e sufletul frumos!

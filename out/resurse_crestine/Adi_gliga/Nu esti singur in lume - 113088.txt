@@ -1,0 +1,25 @@
+[title]
+Nu esti singur in lume {author: {Adi Gliga}, {rcId: {113088}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Nu ești singur în lume
+Nu e totul pierdut
+Ce e azi, va fi mâine doar trecut
+Noaptea vrea să te-nghită
+Să îți ia ce mai speri
+Inima ți-e zdrobită de dureri.
+
+[c]
+/: Viața nu e ușoară, lumea e tot mai rea
+Tot ce ai e iubirea, doar prin ea vei rezista! :/
+
+[v2]
+Orice rău care vine
+Bucuria să-ți ia
+Poate fi-nvins prin bine, nu uita!
+Toată noaptea din lume
+Dacă te-ar căuta
+Veșnic Eu voi rămâne, tăria ta!

@@ -1,0 +1,28 @@
+[title]
+As vrea ca viata mea isuse {author: {gloria}, {rcId: {7053}}
+
+[sequence]
+v1,b,c,v2,c
+
+[v1]
+Aș vrea ca viața mea, Isuse,
+Să o închin la crucea Ta,
+Știind că Tu în chinuri, pe Golgota,
+Ai murit să primesc iertarea.
+
+[b]
+Cu reverență și cu mulțumire,
+Vin să Te laud, Domnul meu,
+Pentru iubirea și dragostea Ta,
+Ce-ai avut-o pentru mine.
+
+[c]
+/: Te laud, Te laud, o, Domnul meu iubit,
+Te laud și azi mă închin la Golgota
+Să-Ți mulțumesc pentru mântuirea Ta. :/
+
+[v2]
+Cununa de spini de pe frunte,
+Cuiele ce pe cruce Te-au prins,
+Le simt cum dor în palmele mele
+Deși niciodată nu m-au atins.

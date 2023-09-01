@@ -1,0 +1,29 @@
+[title]
+Inca mai rasuna glasul domnului {author: {Fratii Pal}, {rcId: {193042}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c2
+
+[v1]
+/: Încă mai răsună glasul Domnului
+De-ai cunoaște astăzi cercetarea Lui! :/
+
+[c]
+Vino azi la Isus, dă-i inima ta
+Cât încă te cheamă, nu îl refuza!
+
+[v2]
+/: Azi e ziua-n care harul ți-a fost dat
+Să primești iertare pentru-al tău păcat! :/
+
+[v3]
+/: Obosit pe cale, de povoara ta
+A ta apăsare, El ți-o poate lua! :/
+
+[v4]
+/: Nu este favoare ca Harul Domnului
+Mai mare onoare, să fii „fiu” al Lui! :/
+
+[c2]
+/: Vino, căci te-așteaptă, Isus s-a oprit
+Ultima ta șansă, nu o risipi! :/

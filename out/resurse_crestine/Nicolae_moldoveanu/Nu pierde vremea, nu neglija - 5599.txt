@@ -1,0 +1,37 @@
+[title]
+Nu pierde vremea nu neglija {author: {Nicolae Moldoveanu}, {rcId: {5599}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Nu pierde vremea, nu neglija,
+Tu, cel ce ești străjer în casa Mea!
+Când Eu îți vorbesc, să supraveghezi
+În grădina-n care te-am pus să lucrezi!
+/: Ți-am zis să stai pe zidul cel înalt,
+Cu goarna-n mână, gata de sunat! :/
+
+[v2]
+De ce, când vin să caut, nu te găsesc
+Și gemetele-n popor se măresc...
+Când avuția-n grijă ți-am lăsat,
+Și să lucrezi, cum Eu ți-am ordonat,
+/: De ce, în loc să Mă înveselești,
+Tu tot mai tare Mă nesocotești? :/
+
+[v3]
+Ți-am spus că vin, când tu nu te gândești,
+Și spune-mi: cum vrei să Mă întâlnești?
+Când știi că socoteală îți voi cere
+Pentru ce ți-am lăsat în grija ta,
+/: Nu vei fi oare ca și pleava-n vânt,
+Smulsă și dusă din grânarul sfânt? :/
+
+[v4]
+Deci toți acei ce astăzi aud,
+Să țină minte, căci timpul este scurt,
+Și fiecare unde l-am chemat
+Să se grăbească să fie curat!
+/: Căci multă vreme, multă, n-a mai fi
+Și Cel ce-a zis că vine, va veni! :/

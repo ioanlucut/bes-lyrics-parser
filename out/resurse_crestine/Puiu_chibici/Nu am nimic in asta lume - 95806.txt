@@ -1,0 +1,39 @@
+[title]
+Nu am nimic in asta lume {author: {Puiu Chibici}, {rcId: {95806}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Nu am nimic în astă lume,
+Căci toate-s goană după vânt,
+Doar plâns, dureri și-amărăciune,
+M-am săturat de-acest pământ
+
+[c]
+Aș vrea să zbor
+Sus, mai sus, mai sus de stele.
+Aici sunt numai călător,
+Aș vrea să zbor
+Către slăvile eterne,
+Să Te-ntâlnesc, Isus, mi-e dor.
+
+[v2]
+Aici sunt lacrimi și necazuri,
+Și doar puține bucurii,
+Dar știu că-n cer, pe sfinte plaiuri,
+Voi fi cu Tine-n veșnicii.
+
+[v3]
+Eu stau mereu în așteptare,
+Tu ai spus și cred c-ai să revii,
+Tânjesc de dor privind în zare,
+Grăbește, Doamne, aceea zi.
+
+[c2]
+Aș vrea să zbor
+Sus, mai sus, mai sus de stele,
+Spre țara fără de apus,
+Aș vrea să zbor
+Către slăvile eterne,
+Să Te-ntâlnesc, al meu Isus.

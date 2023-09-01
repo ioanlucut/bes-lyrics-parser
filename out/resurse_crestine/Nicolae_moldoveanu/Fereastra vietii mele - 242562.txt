@@ -1,0 +1,35 @@
+[title]
+Fereastra vietii mele {author: {Nicolae Moldoveanu}, {rcId: {242562}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Fereastra vieții mele, Doamne,
+Mai larg deschide-o necurmat,
+/: Spre Cerul harurilor Tale,
+Nemărginit și nesecat! :/
+
+[v2]
+Ca aerul curat și proaspăt,
+Al Adevărului sfințit,
+/: S-o primenească totdeauna,
+Statornic și desăvârșit. :/
+
+[v3]
+AI dragostei zefir s-o umple
+Cu-al ei parfum îmbătător,
+/: Mai strălucit, mai viu, mai spornic
+În revărsatul zorilor! :/
+
+[v4]
+Căci sunt cu trupul prins în lumea
+Vremelnicului Babilon,
+/: Dar ard de dorul revederii,
+Dumnezeiescului Sion! :/
+
+[v5]
+Păstrează-mi Tu deschisă,
+Doamne fereastra vieții necurmat,
+/: Spre Fericita mea Nădejde
+Sionul binecuvântat! :/

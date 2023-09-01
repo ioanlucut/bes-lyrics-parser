@@ -1,0 +1,25 @@
+[title]
+Pe domnul il am {author: {Anonim}, {rcId: {75225}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+O, cât de minunat, o, scumpă va fi
+Ziua când Isus m-a mântuit.
+O, cât mereu va străluci
+Ziua când Isus m-a mântuit.
+
+[c]
+Pe Domnul Îl am,
+Sprijin eu am
+Să pot ajunge în Canaan,
+Căci Domnul m-a iubit,
+M-a ocrotit
+Și de aceea sunt mulțumit.
+
+[v2]
+Sunt unii care merg pe calea cea rea.
+Când e târziu se vor deștepta.
+Și nu înțeleg viața mea
+Când e târziu se vor deștepta.

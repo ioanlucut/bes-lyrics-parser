@@ -1,0 +1,37 @@
+[title]
+Cand te apasa ingrijorarea spune-i lui isus {author: {Carmen Prodan}, {rcId: {185507}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Când te apasă îngrijorarea,
+Spune-I lui Isus!
+Când norii negri întunecă zarea,
+Spune-I lui Isus!
+
+[c]
+Spune-I lui Isus și-n grija Lui te lasă,
+Spune-I lui Isus, Lui de tine-I pasă.
+Lasă-n mâna Lui tot ce te-ntristează
+Și să crezi deplin: El din Cer veghează!
+
+[v2]
+Când lacrimi grele îți curg în taină,
+Spune-I lui Isus!
+Când porți a încercării haină,
+Spune-I lui Isus!
+
+[v3]
+Când te întorci rănit din luptă,
+Spune-I lui Isus!
+Și când speranța ți-e pierdută,
+Spune-I lui Isus!
+
+[c2]
+Spune-I lui Isus și-n grija Lui te lasă,
+Spune-I lui Isus, Lui de tine-i pasă,
+Lasă-n mâna Lui tot ce te-ntristează
+Și să crezi deplin: El din Cer veghează!
+Lasă-n mâna Lui tot ce te frământă
+Și să crezi deplin: El din cer te-ascultă.

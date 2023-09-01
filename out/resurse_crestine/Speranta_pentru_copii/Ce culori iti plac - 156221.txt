@@ -1,0 +1,29 @@
+[title]
+Ce culori iti plac {author: {Speranța pentru copii}, {rcId: {156221}}
+
+[sequence]
+c,v1,b,c,v2,c,v3,c
+
+[c]
+Spune-mi și mie ce culori îți plac
+Spune-mi și mie ce culori te-atrag
+Spune-mi și mie ce culori îți plac
+Spune-mi, ce culori te-atrag
+
+[v1]
+Mie-mi place roșu, ca mărul din livadă
+Mie-mi place galben, ca o limonadă
+
+[b]
+Totul e frumos atât de colorat
+Lumea-n care Domnul a creat
+Totul e frumos atât de colorat
+Lumea-n care Domnul m-a creat
+
+[v2]
+Mie-mi place-albastru, ca cerul senin
+Verde e culoarea ce o îndrăgim
+
+[v3]
+Mov e culoarea pe care o îndrăgesc
+Roz e bluzița pe care o iubesc

@@ -1,0 +1,29 @@
+[title]
+Asteptam isuse ziua minunata {author: {Otniel Stirb}, {rcId: {226989}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Așteptăm Isuse ziua minunată
+Să mai lași din stropii harului divin
+/: Așteptăm să vină ploaia Ta curată
+Toată adunarea vrem să Te simțim :/
+
+[c]
+Vino Doamne treci prin adunare
+Vino Doamne la al Tău popor
+Vino Doamne dă-ne vindecare
+Leagă Tu Isuse rănile ce dor
+
+[v2]
+Cei bolnavi așteaptă clipa de-ndurare
+Să Te-oprești Isuse lângă patul lor
+/: Ei Te strigă-ntruna dă-le vindecare
+Pune-i pe picioare dă-le ajutor :/
+
+[v3]
+Numai Tu Isuse Tu ne-ai fost lumină
+Când cărarea noastră s-a întunecat
+/: Sub povara vieții Tu ne-ai dat odihnă
+Și în întristare Tu ne-ai mângâiat :/

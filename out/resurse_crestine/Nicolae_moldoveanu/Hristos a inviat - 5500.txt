@@ -1,0 +1,31 @@
+[title]
+Hristos a inviat {author: {Nicolae Moldoveanu}, {rcId: {5500}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+„
+Hristos a inviat!” - „
+E viu cu-adevarat!”
+De-aceasta veste toti ne bucuram.
+El vina ne-a purtat, cand viata El Si-a dat,
+Dar iata, c-a-nviat si-L laudam.
+
+[c]
+/: Ingerul a venit, piatra a pravalit;
+Multi s-au inspaimantat cand a inviat.
+Hristos a inviat! O, cat de minunat:
+Din morti, a treia zi, a inviat. :/
+
+[v2]
+Hristos a inviat! O, cat de minunat!
+Nadejdea ne-a-ntarit, cand a-nviat;
+Si, de vom adormi, dar nu pentru vecii,
+Caci va veni o zi cand ne-om scula!
+
+[c2]
+/: Trambita va suna... din morti, noi ne-om scula...
+Noi ne vom ridica... Aleluia!...
+Hristos a inviat! O, cat de minunat!
+Dupa cum a-nviat, vom invia... :/

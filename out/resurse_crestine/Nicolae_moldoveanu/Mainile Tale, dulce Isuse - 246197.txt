@@ -1,0 +1,42 @@
+[title]
+Mainile tale dulce isuse {author: {Nicolae Moldoveanu}, {rcId: {246197}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Mâinile Tale, dulce Isuse,
+Mâinile care din lut ne-au creat,
+/: Întinse pe lemn se lăsară străpunse,
+O, mâinile Tale ce totul au dat. bis :/
+
+[v2]
+Gleznele Tale, glezne trudite,
+Pline de colb și de spini și de dor,
+/: Pe lemnul rușinii au fost țintuite,
+Ca dreaptă răsplată a dragostei lor. bis :/
+
+[v3]
+Fruntea senină ca zări
+Ie-albastre,
+Plină de milă ce-adânc s-a plecat,
+/: Purtă diadema batjocurii noastre.
+O, fruntea Slăvitului nostru-mpărat. bis :/
+
+[v4]
+Buzele Tale pe care stătură
+Vorbele sfinte din cer coborând,
+/: Sorbiră paharul de fiere și ură,
+Și râuri de sânge Iăsară iertând. bis :/
+
+[v5]
+lnima sfântă, flacăra-ascunsă,
+Ceruri de slavă lăsă și veni,
+/: De-o suliță rece să fie străpunsă,
+Adânc vinovată c-atât ne iubi. bis :/
+
+[v6]
+Dragostea care din Tatăl purcede
+Plânge și astăzi cu-același suspin
+/: Dar oricare suflet aude și crede,
+În Dragostea Sfântă se-alină deplin. bis :/

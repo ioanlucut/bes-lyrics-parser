@@ -1,0 +1,40 @@
+[title]
+Cu bucurie pastorii (lieti pastori) {author: {Colind italian, Traducere RO}, {rcId: {168242}}
+
+[sequence]
+v1,v2,v3,v4,s
+
+[v1]
+Cu bucurie, păstorii merg spre iesle
+Și mii de îngeri înalță Osanale;
+’
+Naintea Pruncului Isus se-nchină Universul
+Cu bucurie, păstorii merg spre iesle
+Și mii de îngeri înalță Osanale.
+
+[v2]
+O stea măreață pe boltă strălucește
+Pe magi în noapte, ea îi călăuzește;
+’
+Naintea Pruncului Isus se-nchină Universul
+O stea măreață pe boltă strălucește
+Pe magi în noapte, ea îi călăuzește.
+
+[v3]
+Umil în paie, stă Pruncul și zâmbește
+Isus, Mesia, lumina răspândește;
+’
+Naintea Pruncului Isus se-nchină Universul
+Umil în paie, stă Pruncul și zâmbește
+Isus, Mesia, lumina răspândește.
+
+[v4]
+Venim degrabă s-aducem vestea bună
+Isus, Mesia aduce mântuirea;
+’
+Naintea Pruncului Isus se-nchină Universul
+Venim degrabă s-aducem vestea bună
+Isus, Mesia aduce mântuirea.
+
+[s]
+Și păstorii s-au întors, slăvind și lăudând pe Dumnezeu, pentru toate cele ce auziseră și văzuseră și care erau întocmai cum li se spusese. Luca 2:20

@@ -1,0 +1,47 @@
+[title]
+A ta chemare {author: {Laura Stoica}, {rcId: {90638}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+A Ta chemare, glas de aripă,
+Din templul Tău se aude șoptind.
+Trestia-i frântă, dar se ridică.
+Din somnul greu, Duhul Tău ne-a trezit.
+
+[c]
+Câtă splendoare se-arată tainic
+Inimii noastre desprinse din lut.
+Mare ești, Doamne, cât ești de mare,
+Iubire mare ca a Ta n-am cunoscut!
+Mare Îți este a Ta lucrare,
+Sfârșește dar, rogu-Te, ce-ai început!
+
+[v2]
+Golgota-i tristă și Ghețimani,
+În care lacrimi de sânge Ți-au curs.
+Piară minciuna, piară și banii
+Din care Iuda osândă și-a strâns.
+
+[c2]
+Crucea-i de jale și suferință,
+Cuie-n picioare și-n mâini Ți-au străpuns.
+Și-n loc de apă, oțet și fiere,
+Și-o suliță ce trupul Ți l-a străpuns.
+Acesta-i jertfa de biruință
+Prin care sângele pe cruce Ți-a curs.
+
+[v3]
+Spini în coroană, batjocuri multe,
+Biciul cu plumb și nuiele-au lovit
+Peste a Ta carne, peste a Ta rană,
+Blestemul greu de păcat l-ai primit.
+
+[c3]
+Ce întuneric și ce durere,
+De Tatăl bun să Te știi părăsit!
+Deschis-ai Calea cu a Ta putere
+Și, pentru noi, în cerul Sfânt ai mijlocit.
+Cu sânge-i scrisă a Ta-nviere,
+Cu atâta iubire sfântă ne-ai mântuit!

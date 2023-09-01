@@ -1,0 +1,23 @@
+[title]
+Inca o zi {author: {Narcisa Popa}, {rcId: {4461}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Inca o zi si tot ce-ai suferit
+Pe acest strain pamant
+Se va pierde in infinit
+Caci asa a fost scris in Cuvant
+
+[c]
+/: Inca un timp, doar un scurt timp
+Si tot ce-ti pare greu acum
+Va fi, va fi uitat pe veci
+Sau pstrat intr-un vechi album :/
+
+[v2]
+Inca o clipa si inima ta
+Ce-acum e zdrobita,
+Din nou ea atunci se, va bucura
+Si va fi implinita.

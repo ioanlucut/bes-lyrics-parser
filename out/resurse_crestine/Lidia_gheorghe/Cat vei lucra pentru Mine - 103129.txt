@@ -1,0 +1,41 @@
+[title]
+Cat vei lucra pentru mine {author: {Lidia Gheorghe}, {rcId: {103129}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Cât vei lucra pentru Mine,
+Te voi binecuvânta.
+Tu fi treaz, veghează bine,
+Domnul e de partea ta.
+
+[c]
+Simte-L cum luptă-n locul tău!
+Cheamă-L atunci când îți e greu!
+Suspină vrând să-ți ia durerea.
+Tu las-o acum în jertfa Sa!
+
+[v2]
+N-am fost până-acum Eu cu tine?
+Oare, suflet, de ce te-ntrebi?
+De ce-s așa multe ispite
+În lumea-n care trăiești?
+
+[v3]
+Nimeni nu-ți ia mântuirea.
+Nimeni nu îți ia cununa.
+Tu luptă, lupta cea bună!
+Și Dumnezeu te va salva.
+
+[v4]
+Vrea să-ți ridice-apăsarea.
+Lasă-L să lucreze cum vrea!
+Las’ să pătrundă lumina
+În casa și viața ta.
+
+[v5]
+Pune-ți nădejdea în Domnul!
+Speră că nu te va lăsa!
+Te va-ntări-n clipe grele,
+Prin Cuvânt te va-nvăța.

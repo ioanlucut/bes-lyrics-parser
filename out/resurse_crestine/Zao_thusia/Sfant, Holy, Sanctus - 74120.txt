@@ -1,0 +1,35 @@
+[title]
+Sfant holy sanctus {author: {Zao Thusia}, {rcId: {74120}}
+
+[sequence]
+v1,c,c2,v2,c3,e,e
+
+[v1]
+Laude răsună înaintea Ta
+Un cântec sfânt, un scump parfum spre lauda Ta,
+Ridic mâini curate înaintea Ta
+Cu ceru-ntreg declar și eu sfințenia Ta!
+
+[c]
+Sfânt, Sfânt, Sfânt
+Sfânt e Domnul nostru!
+
+[c2]
+Holy, Sanctus, Holy, Sanctus, Holy, Sanctus
+Is the Lord, God Almighty!
+
+[c3]
+Sanctus, Holy, Sanctus, Holy, Sanctus, Holy
+Is the Lord, God Almighty!
+
+[v2]
+Aprinde-mi, Isus, te rog, azi inima
+Și focul Tău cel sfânt să ardă ce-i rău in ea,
+Cărbune aprins să ții in mâna Ta
+Și să Te-atingi de gura mea să pot declara!
+
+[e]
+Sfânt, Sfânt, Sfânt este Domnul nostru
+Ce-a fost și este și va fi!
+Holy, Holy is our Lord
+Who was and is and is to come!

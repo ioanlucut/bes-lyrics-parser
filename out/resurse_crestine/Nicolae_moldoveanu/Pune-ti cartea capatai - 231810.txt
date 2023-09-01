@@ -1,0 +1,25 @@
+[title]
+Pune-ti cartea capatai {author: {Nicolae Moldoveanu}, {rcId: {231810}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Pune-ți Cartea căpătâi, Cartea celor sfinte,
+drag copil, și să rămâi, tot cu ea în minte!
+
+[c]
+Biblia, Biblia, este-a vieții Carte!
+Dumnezeu, prin ea, la viață, ție-ți face parte!
+
+[v2]
+Ea-ți răspunde ne-ncetat la orice-ntrebare,
+dacă-ntrebi cu gând curat și cu ascultare!
+
+[v3]
+Ea, cu dărnicie-oricând, ție-ți dă lumină,
+și-ți înalță orice gând dincolo de tină!
+
+[v4]
+Ca s-ajungi la Dumnezeu, în cerești palate,
+pune-ți Cartea Lui mereu, căpătâi la toate!

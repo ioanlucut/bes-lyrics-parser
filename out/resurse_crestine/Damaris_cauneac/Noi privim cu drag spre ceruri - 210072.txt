@@ -1,0 +1,37 @@
+[title]
+Noi privim cu drag spre ceruri {author: {Damaris Cauneac}, {rcId: {210072}}
+
+[sequence]
+v1,c,v2,c,v3,b,c,e
+
+[v1]
+Noi privim cu drag spre ceruri de unde ne va veni
+Ajutor în încercare, Domnul ne va izbăvi
+Nu e mult din astă noapte, semnele așa ne spun
+Se-mplinește-a Sa lucrare, al nost’ Mire e pe drum!
+
+[c]
+/: Vine Domnul, vine Domnul, în curand spre cer vom zbura
+Și în urmă va rămâne suferinta si crucea grea
+Orice lacrimi, suferințe, vor rămâne doar amintiri
+Căci Mesia, Domnul Slavei, pentru veci va împărăți! :/
+
+[v2]
+Pe pământ sunt lupte grele, sfârșitul s-apropiat
+Nu ne temem nicio clipă fiindcă Domnul nu v-a uita
+Să păzească în încercare sufletul celor iubiți
+Ce-au rămas în ascultare și rămân tot neclintiți
+
+[v3]
+Ne păstrăm cu drag credința, privirea sus ne-o țintim
+Isus ne dă izbăvirea, doar prin El noi biruim
+Vremea, iată e aproape, semnele așa ne spun
+Se-mplinește-a Sa lucrare, Domnul nostru e pe drum!
+
+[b]
+/: Vine Domnul, vine iar!
+Vine Isus, vine Isus, vine Isus, vine iar! :/ x3
+El revine!
+
+[e]
+Vine Isus, vine Isus, vine iar!

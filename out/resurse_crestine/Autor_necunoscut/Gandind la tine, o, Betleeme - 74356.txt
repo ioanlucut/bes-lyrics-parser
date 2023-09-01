@@ -1,0 +1,29 @@
+[title]
+Gandind la tine o betleeme {author: {Anonim}, {rcId: {74356}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Gândind la tine, o, Betleeme,
+Bucuria în inimă-mi vine.
+Mila lui Dumnezeu s-a arătat,
+Prin Isus, Fiul Lui cel întrupat.
+
+[c]
+De bună voie în trup S-a-mbrăcat,
+S-a născut într-un loc mic și sărac.
+Nu în palat mare, nu ca bogat,
+Deși-i a Lui raiul cel desfătat.
+
+[v2]
+Gândind la tine, o, Betleeme,
+Mângâiere cerească îmi vine.
+Starea mea oricât de slabă va fi,
+Știu bine, Isus nu m-a părăsi.
+
+[c2]
+Nu m-a ura, El vine bucuros,
+În El voi afla prieten credincios.
+Cel ce pentru mine moarte-a primit,
+Pe braț mă poartă ca pe-al Său iubit.

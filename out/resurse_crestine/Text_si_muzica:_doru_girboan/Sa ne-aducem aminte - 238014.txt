@@ -1,0 +1,41 @@
+[title]
+Sa ne-aducem aminte {author: {Text si muzica: Doru Gîrboan}, {rcId: {238014}}
+
+[sequence]
+v1,b,c,v2,b,c
+
+[v1]
+Crăciunul iarăși a sosit
+Știu că de multe ori l-am mai sărbătorit
+Dar oare câți din noi la Isus ne gândim,
+Si doar pe Domnul Sfânt azi Îl sărbătorim?
+
+[b]
+Mese îmbelșugate umple casele,
+De brazi si luminițe sunt pline străzile.
+Dar Domnul Isus e uitat mereu,
+De ziua Lui ce facem tu și eu?
+Mese îmbelșugate umple casele
+De brazi si luminițe sunt pline străzile
+Dar Domnul Isus e uitat mereu
+De ziua Lui ce facem tu și eu?
+
+[c]
+/: Să ne-aducem aminte,
+Că pentru noi El s-a născut,
+Să ne-aducem aminte și să-I mulțumim!
+Să ne-aducem aminte,
+Că mântuire ne-a adus,
+Să ne-aducem aminte și să ne smerim! :/
+/: Să ne-aducem aminte,
+Că pentru noi El s-a născut,
+Să ne-aducem aminte și să-I mulțumim!
+Să ne-aducem aminte,
+Că mântuire ne-a adus,
+Să ne-aducem aminte și să ne smerim! :/
+
+[v2]
+O, vino azi la tronul Lui
+Și adu-i a ta viață ca jertfă Domnului
+Să nu mai fie o zi în care să uităm
+Că Isus e Stăpânul, pe El să-L adorăm!

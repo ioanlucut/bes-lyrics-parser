@@ -1,0 +1,47 @@
+[title]
+Iarta-mi necredinta {author: {Flaviu Mitar}, {rcId: {84895}}
+
+[sequence]
+v1,c,v2,c,v3,c2,c
+
+[v1]
+În ochii Lui privesc și-aș vrea să înțeleg
+De ce s-a oferit să moară-n locul meu
+Tresalt și mă-nfior când numai mă gândesc
+La chinul Lui cumplit purtat în locul meu
+
+[c]
+O, Isuse, iartă-mi necredința
+Când pierdut căutam lumii să plac
+Căci nu pot uita ce-ai spus pe cruce:
+”
+Tată, iartă-i, că ei nu știu ce fac”
+O, Isuse, iartă-mi necredința
+Când pierdut căutam lumii să plac,
+Căci nu pot uita ce-ai spus pe cruce:
+”
+Tată, iartă-i, că ei nu știu ce fac..”
+O, Isuse, iartă-mi necredința
+Când pierdut căutam lumii să plac
+Căci nu pot uita ce-ai spus pe cruce:
+”
+Tată, iartă-i, că ei nu știu ce fac..”
+
+[v2]
+Cu lacrimi pe obraz Te caut neîncetat
+Nu vreau să fiu pierdut doresc să fiu salvat
+În rugă Te aștept, Cuvântul îl citesc
+Și-n inimă adun tot ce e sfânt și bun
+
+[v3]
+În ochii Lui privesc și-aș vrea să înțeleg
+De ce s-a oferit să moară-n locul meu,
+Tresalt și mă-nfior când numai mă gândesc
+La chinul Lui cumplit purtat în locul meu.
+
+[c2]
+O, Isus, mărește-mi iar credința,
+Să nu pierd nimic din ce Tu dai
+Căci nu pot uita ce-ai spus pe cruce:
+”
+Azi vei fi cu mine-n rai!”

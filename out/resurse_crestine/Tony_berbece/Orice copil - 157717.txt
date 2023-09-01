@@ -1,0 +1,28 @@
+[title]
+Orice copil {author: {Tony Berbece}, {rcId: {157717}}
+
+[sequence]
+v1,b,c,v2,c
+
+[v1]
+/: Ca o noapte fără sfârșit, e copilul neiubit,
+Sufletul ce nu e dorit, se-ntoarce la Cel ce l-a dăruit :/
+
+[b]
+Haideți oameni cu toții să fim,
+Ce-am primit să dăruim,
+Haideți oameni cu toții să fim,
+Pe cei micuți să-i prețuim.
+
+[c]
+/: Orice copil e un dar de sus,
+Nu-l lăsa de ură să fie străpuns,
+Nu-l lăsa abandonat în abis,
+Să-ntrebe: ”
+Tată unde m-ai trimis?”
+Fii tu mamă, tată, soră, frate
+Pentru cei ce de ei n-au parte :/
+
+[v2]
+/: Zi de zi ne străduim, un viitor mai bun să construim,
+Dar nu va fi deloc luminos, dacă pe copii nu-i creștem cu folos. :/

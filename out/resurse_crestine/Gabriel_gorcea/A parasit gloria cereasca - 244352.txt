@@ -1,0 +1,29 @@
+[title]
+A parasit gloria cereasca {author: {Gabriel Gorcea}, {rcId: {244352}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+A părăsit gloria cerească,
+Splendoarea și slava le-a lăsat
+S-a coborât la oameni pe Pământ,
+El, Dumnezeu, în om S-a întrupat!
+
+[c]
+Isus Hristos S-a născut într-o iesle,
+El a adus mântuire și speranță,
+Iar mai apoi, pe dealul Căpățânii,
+El S-a jertfit, ca să aducă lumii viață!
+
+[v2]
+Îngerul i-a spus Mariei
+Că Îl va naște pe Hristos
+El va fi Mântuitorul lumii,
+Iertare pentru orice păcătos.
+
+[v3]
+Isus Hristos a venit în lume,
+Într-un grajd umil să se nască,
+Ca toți ce vin la iesle și la cruce,
+Viață veșnică să primească.

@@ -1,0 +1,37 @@
+[title]
+Clipa iertarii {author: {Virginia}, {rcId: {149451}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În clipa când ceream iertare, ce binecuvântat ai fost
+Era o zi scăldată-n soare și mii de raze salvatoare,
+Dădeau vieții mele rost. Purtam poveri și răni în suflet,
+Păcatul mă robise greu; eu n-am știut a cui e vina
+Dar când m-a-nconjurat Lumina, văzui că vinovat sunt eu.
+
+[c]
+Și m-am întors la Tine, Doamne
+Iar astăzi sunt un fiu salvat.
+Eu am gustat din fericirea
+Celor pe care i-ai iertat!
+/: Și m-am întors la Tine, Doamne
+Iar astăzi sunt un fiu salvat.
+Eu am gustat din fericirea
+Celor pe care i-ai iertat! : \ x2
+În clipa când cereai iertare.
+
+[v2]
+Atuncea mi-am cerut iertare,
+Cu lacrimi, ca un păcătos
+Și-o ființă plină de îndurare,
+Străpuns în mîini și în picioare
+S-a aplecat spre inimi de jos.
+
+[v3]
+Nu pot să uit viața-ntreagă,
+Cum m-a privit uimit de drag,
+El, cu blândețea Lui aleasă
+Mi-a spus să mă întorc acasă
+Căci Tatăl mă așteaptă-n prag.

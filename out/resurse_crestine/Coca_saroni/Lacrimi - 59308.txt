@@ -1,0 +1,38 @@
+[title]
+Lacrimi {author: {Coca Saroni}, {rcId: {59308}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Lacrimi și încercări ades,
+Te-apasă mereu
+Îndurerat și apăsat
+Mereu descurajat
+Putere simți că nu mai ai
+Și ești părăsit
+De toți acei din jurul tău
+De ce Doamne ? De ce?
+
+[c]
+/: Aștept s-ajung acasă
+O Domnul meu iubit
+Căci numai doar cu Tine
+Sunt cel mai fericit :/
+
+[v2]
+Ferice de acei
+Ce sunt neprihăniți
+Căci doar cu Dumnezeu
+Vor fi ei fericiți.
+
+[v3]
+Ferice de acel ce este pregătit
+Și este credincios
+Statornic în Hristos.
+
+[v4]
+Ferice-atunci va fi
+Cu Domnul meu iubit
+Și te voi lăuda
+Pentru totdeauna.

@@ -1,0 +1,51 @@
+[title]
+Mult doresc s-ajung acasa {author: {Anonim}, {rcId: {4572}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c
+
+[v1]
+Mult doresc s-ajung acasă
+Sus în cerul minunat
+Unde sfinți și îngeri cântă
+Și Isus este-mpărat.
+
+[c]
+În țara mea, sus în țara mea
+În țara mea, mult doresc s-ajung odată.
+
+[v2]
+Să pășesc pe străzi de aur
+Și să-I cânt neîncetat
+Să-L slăvesc pe Domnul Isus
+Căci El m-a răscumpărat.
+
+[v3]
+Să gust din pomul vieții
+Ce rodește ne-ncetat
+Să-l slăvesc pe Domnul Isus
+Căci El m-a răscumpărat.
+
+[v4]
+O, cât mi-e de dor de Domul
+Cu El vreau să mă-ntâlnesc
+Lui i-aș spune tot secretul
+Acolo să m-odihnesc.
+
+[v5]
+Vom vedea acolo-n ceruri
+Ce nu-s aici pe pământ
+Bucurii cum nu se poate
+Spune aici nici cu-n cuvânt.
+
+[v6]
+Mă lupt ca s-ajung acolo
+Domul Isus mă ajută
+Până voi ajunge-acolo
+Colo sus în Țara Sfântă.
+
+[v7]
+O, ce mult m-oi bucura
+Când acolo voi pleca
+Uita-voi orice durere
+Când acolo voi intra.

@@ -1,0 +1,27 @@
+[title]
+Mareste suflet al meu pe domnul {author: {Nicolae Moldoveanu}, {rcId: {5280}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Măreste, suflet al meu, pe Domnul!
+Voiesc să-L măresc cât voi trăi.
+Până când moartea mi-aduce somnul,
+Pe Domnul întruna, voi mări.
+
+[c]
+Căci El e-al lumii Creator
+Și Domn Atotstăpânitor!
+Aleluia! Aleluia! Mărire Lui!
+
+[v2]
+Măriți cu toții doar al Său Nume
+Pe Cel ce face multe minuni;
+Toată suflarea din astă lume
+Proșterne-I-se cu închinăciuni.
+
+[c2]
+Copii ai Lui, măriți cântând
+Pe Tatăl, Fiul și Duhul Sfânt!
+Aleluia! Aleluia! Mărire Lui!

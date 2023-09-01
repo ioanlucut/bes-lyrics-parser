@@ -1,0 +1,33 @@
+[title]
+Tu esti sfant {author: {Matt Redman}, {rcId: {5144}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Pe Tine Doamne te lăudam
+Ne-nchinam în Duh și-n Adevăr
+Glorie Celui veșnic viu, Glorie Celui viu
+Pe Tine Doamne te chemăm
+Numele Tău sfânt îl înălțăm
+Ești Domnul care-n veci domnești
+În veci de veci domnești!
+
+[c]
+Tu ești sfânt, Tu ești drept
+Și harul Tău umple Templul
+Numele Tău, Isus, îl înălțăm.
+Tu ești sfânt, Tu ești drept
+Și harul Tău umple Templul
+Noi trăim pentru Slava Ta Isus.
+A numelui Isus.
+
+[v2]
+Pe Tine Doamne Te iubim
+Pentru Tine noi vrem să trăim
+Focul sfânt vrem să-l aprinzi
+Vrem să Te auzim, să Te simțim
+
+[e]
+/: Sfânt e Dumnezeu,
+Noi Ii cântam, Îl lăudam :/ x4

@@ -1,0 +1,29 @@
+[title]
+Du-ma la izvorul {author: {Alfred Bierli}, {rcId: {1735}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Du-mă la izvorul unde,
+Apă vie e mereu,
+La Golgota, unde trece,
+Setea sufletului meu.
+
+[c]
+Du-mă la izvorul,
+Ce mă spală de păcat;
+Sângele lui Isus,
+Pentru mine s-a vărsat.
+
+[v2]
+Du-mă la izvorul, unde,
+Poate pieri orice păcat;
+Și de orice legătură
+Sufletul va fi scăpat.
+
+[v3]
+Du-mă la izvorul, unde,
+Și eu mă voi curăța;
+Unde valul sfintei ape,
+De tot mă va vindeca.

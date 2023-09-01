@@ -1,0 +1,29 @@
+[title]
+In inima eu am un cant {author: {Anonim}, {rcId: {63838}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+In inima eu am un cant, 
+In sufletul meu am un gand
+Sa laud pe Isus ce-mi da,
+O pace, pace sfanta.
+
+[c]
+Pace, da pace,
+Ce dar sfant si minunat
+Mai dulce nici nu poate fi,
+Ca pacea ce o primim.
+
+[v2]
+Isus, mie, pace mi-a dat,
+In jertfa Lui eu am aflat
+Scapare din al meu pacat,
+O pace, pace sfanta.
+
+[v3]
+In clipa cand eu am gustat
+Din dragostea Lui, ce mi-a dat
+In loc de chin am capatat,
+O pace, pace sfanta.

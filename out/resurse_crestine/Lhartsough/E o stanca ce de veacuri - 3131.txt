@@ -1,0 +1,36 @@
+[title]
+E o stanca ce de veacuri {author: {L.Hartsough}, {rcId: {3131}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+E o stâncă ce de veacuri
+Stă în valuri neclintit
+Adăpost oricărui suflet
+Care-i dus de-al vieții val.
+
+[c]
+/: Stânca mea, a mea cetate
+Locul meu de adăpost,
+Al meu sprijin în necazuri
+E Isus, Isus Hristos. :/
+
+[v2]
+Urlă marea-nfuriată,
+Vântul șuieră-mprejur
+Însă eu stau fără teamă
+Pe-a mea Stâncă veșnică.
+
+[v3]
+În zadar furtuna bate,
+’
+Geaba-i noapte-n jurul meu
+Liniștit eu stau pe stâncă
+Zorii zilei aștept eu.
+
+[v4]
+Spune-mi suflet dus de valuri:
+E Isus și stânca ta?
+Dacă nu, vino degrabă
+Și-L ia ca mântuitor.

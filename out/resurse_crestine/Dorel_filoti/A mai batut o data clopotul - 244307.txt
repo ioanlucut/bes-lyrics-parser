@@ -1,0 +1,29 @@
+[title]
+A mai batut o data clopotul {author: {Dorel Filoti}, {rcId: {244307}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+A mai bătut o dată clopotul
+Și omule l-ai auzit și tu.
+El îți șoptește printr-un zăngănit
+Că pe pământ un om a mai murit.
+
+[c]
+Viața ta e ca o frunză-n vânt,
+Repede ea cade la pământ.
+Să nu te-ncrezi nicicând în viața ta,
+Doar Dumnezeu este stăpân pe ea.
+
+[v2]
+Se-aud sirene, trece iar salvarea
+Și te întrebi ce s-a mai întâmplat.
+Prin minte iute gândurile-ți trec,
+Căci poate încă-o viață a-ncetat.
+
+[v3]
+Dragul meu, se-aude și-o strigare
+Prin glasul meu și prin a mea cântare.
+Oprește-te acum din drumul tău,
+Ascultă cum te cheamă Dumnezeu.

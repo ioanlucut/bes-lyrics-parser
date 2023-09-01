@@ -1,0 +1,35 @@
+[title]
+Pe-ogorul vietii {author: {Nicu Wagner}, {rcId: {61644}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Pe-ogorul vieții tale ai
+Atâta muncă, frate,
+Atâtea buruieni ce cresc
+Și-s printre flori udate.
+
+[c]
+/: Tu ești chemat :/ să le plivești,
+Să uzi recolta sfântă,
+Căci anii trec, tu te grăbești
+Și ele se avântă.
+
+[v2]
+Și te trezești apoi că-n jur
+A năvălit neghina,
+Și altele de rău augur
+Ce-ți iau încet cununa.
+
+[v3]
+În fiecare zi să smulgi
+Din cale-un spin, doar unul,
+Și-n locul lui, un trandafir
+Să pui spre-a da parfumul.
+
+[v4]
+C-așa făcând, ogorul tău
+Va fi-n curând grădină.
+Când Grădinarul va veni
+Te va lua-n lumină.

@@ -1,0 +1,34 @@
+[title]
+Esti glorios {author: {Peniel Band}, {rcId: {158151}}
+
+[sequence]
+v1,b,c,v2,b,c,e
+
+[v1]
+/: Iehova Rafa, Iehova Iire,
+Preasfânt e Dumnezeu.
+În adorare și cu uimire
+Slăvesc Numele Tău! :/
+
+[b]
+/: Și mă-nchin. :/
+/: Și mă-nchin. :/
+
+[c]
+Ești glorios, ești cel mai mare!
+De trei ori sfânt, Îți dau onoare
+Și glorie-Ți dau, osana Îți cânt,
+Speranța mea ești pe pământ!
+Ești glorios, ești cel mai mare!
+De trei ori sfânt, Îți dau onoare
+Și glorie-Ți dau, osana Îți cânt,
+Speranța mea ești pe pământ!
+
+[v2]
+/: Iehova Nisi, Iehova Shama,
+Statornic Dumnezeu.
+Tu-mi ești speranța, ești bucuria
+Deschis văd cerul Tau. :/
+
+[e]
+Și mă-nchin. x4

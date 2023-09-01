@@ -1,0 +1,35 @@
+[title]
+Aleluia aleluia {author: {Speranța}, {rcId: {102184}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Aleluia, Aleluia, Isus este bun!
+Aleluia, Aleluia, Isus este bun!
+
+[c]
+Gustați să vedeți ce bun este Domnul,
+Veniți să priviți lucrările Lui,
+Cu brațele deschise întruna ne cheamă,
+Avem mântuire prin rănile Lui.
+
+[v2]
+Aleluia, Aleluia, Isus este Domn!
+Aleluia, Aleluia, Isus este Domn!
+
+[c2]
+Tot universul I-aduce onoare,
+Toate se închină în fața Lui.
+El stă la dreapta Tatălui veșnic.
+Slavă Îi dăm și noi acum.
+
+[v3]
+Aleluia, Aleluia, veniți să-L slăvim,
+Aleluia, Aleluia, pe Domnul cel viu!
+
+[c3]
+Acel ce-L slăvește pe Domnul vieții
+Viața-i pătrunde în sufletul lui.
+Veniți, pământeni, cântați ca și-n ceruri,
+Osana și cinste să-I dăm Domnului!

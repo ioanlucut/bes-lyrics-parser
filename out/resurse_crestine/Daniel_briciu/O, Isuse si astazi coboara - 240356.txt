@@ -1,0 +1,41 @@
+[title]
+O isuse si astazi coboara {author: {Daniel Briciu}, {rcId: {240356}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+O, Isuse și astăzi coboară,
+Vino iarăși la cei ce te cheamă mereu,
+Vino iarăși la noi, căci e seară
+Și ne este Isuse-așa greu.
+
+[c]
+/: Tu ești cel care vii în necazuri să fii
+Lângă cel ce îți cere-ajutor,
+Și acelui căzut și acelui lovit
+Să le fii astăzi izbăvitor. :/
+
+[v2]
+Valuri mari se ridică în zare
+Și corabia-i ruptă, catargul e frânt.
+E nevoie din nou de salvare.
+Vino, Doamne și spune-un cuvânt.
+
+[c2]
+/: La cuvântul Tău sfânt chiar întregul pământ
+Se supune și-Ți dă ascultare.
+Și prin valuri mereu ești cu mine la greu
+Și în sufletul meu este soare. :/
+
+[v3]
+Doar puțin a rămas din veghere
+Până când vom pleca toți la cer cu Isus,
+Căci acolo nu este durere,
+Suferință și lacrime nu-s.
+
+[c3]
+/: Bucurii de nespus pregătit-a Isus
+Pentru cei ce-I așteaptă venirea,
+Și la masă cu El, Domnul Emanuel,
+Vom cunoaște pe veci ce-i iubirea. :/

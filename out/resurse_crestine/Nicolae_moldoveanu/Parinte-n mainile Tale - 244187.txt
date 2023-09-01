@@ -1,0 +1,29 @@
+[title]
+Parinte-n mainile tale {author: {Nicolae Moldoveanu}, {rcId: {244187}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Părinte-n mâinile Tale
+Duhul Mi-l încredințez,
+/: Sfânta Sângelui Meu jertfă,
+Pe altarul Tău așez. :/
+
+[v2]
+Sfântă voia Ta-mplinită
+Pe deplin acum o vezi,
+/: Vina lumii ispășită
+înaintea Ta așez. :/
+
+[v3]
+Un popor fără de număr
+Sfânt și dulce-Ți înfiez,
+/: Slava Ta Îți e ’nălțată
+Într-un nou și veșnic crez. :/
+
+[v4]
+Săvârșit-am Mântuirea
+Ce Mi-ai dat-o s-o lucrez,
+/: Părinte-n mâinile Tale
+Duhul Mi-l încredințez. :/

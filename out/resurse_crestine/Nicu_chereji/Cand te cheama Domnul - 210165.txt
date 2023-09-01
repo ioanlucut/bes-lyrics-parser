@@ -1,0 +1,44 @@
+[title]
+Cand te cheama domnul {author: {Nicu Chereji}, {rcId: {210165}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Când te cheamă Domnu-acasă
+Tot ce-n viața ta cu trudă, ai agonisit
+N-ai să duci nimic cu tine
+Ai să pleci cum ai venit!
+
+[c]
+Dar dacă pe-acest Pământ
+Vei păzi al Său Cuvânt
+Dumnezeu în mila Sa
+Îți va da viața-n dar
+Viață fără de hotar
+De-acest pământ vei uita.
+
+[v2]
+Ca un abur se ridică,
+Puțintel apoi se stinge bietul călător
+Viața-i scurtă, nu te-ntreabă
+De ești prinț ori cerșetor
+
+[v3]
+Ce e viața, ce sunt anii
+Ce-ți ajunge să lucrezi cu trudă și din greu
+Totul e deșertăciune, de nu-L ai pe Dumnezeu
+
+[c2]
+Dar atunci când viața ta
+E plăcută-n fața Sa
+Cerul se deschide larg
+Te aude Dumnezeu,
+Când Îl chemi din cortul tău
+Îndurare îți va da.
+Ca un tată iubitor
+El îți vine-n ajutor
+Ori de câte ori Îl chemi
+Poartă-ți crucea zi de zi
+Iar Isus când va veni
+Te va duce-n veșnicii

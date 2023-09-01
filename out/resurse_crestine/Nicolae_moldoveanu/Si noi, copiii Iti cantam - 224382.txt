@@ -1,0 +1,25 @@
+[title]
+Si noi copiii iti cantam {author: {Nicolae Moldoveanu}, {rcId: {224382}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Și noi, copiii, Îți cântăm: laudă, laudă!
+Isuse, Doamne, azi Îți dăm, laudă!
+/: Isuse, Doamne, azi Îți dăm :/ laudă, laudă!
+
+[v2]
+Și noi, copiii, Îți cântăm: laudă, laudă!
+Prin cântec numele sublim, laudă, laudă!
+/: Prin cântec numele sublim :/ laudă, laudă!
+
+[v3]
+Și noi, Ți-aducem iar și iar: laudă, laudă!
+Cu inimoarele de jar, laudă, laudă!
+/: Cu inimioarele de jar :/ laudă, laudă!
+
+[v4]
+Îți mulțumim că ești cu noi: laudă, laudă!
+Isuse, azi și-n veci apoi, laudă, laudă!
+/: Isuse, azi și-n veci apoi :/ laudă, laudă!

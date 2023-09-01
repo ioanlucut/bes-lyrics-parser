@@ -1,0 +1,35 @@
+[title]
+Taria mea taria mea esti tu o bun parinte - fa maj {author: {ed. Dan Istrate}, {rcId: {191432}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Tăria mea, Tăria mea, O, Doamne sfânt și mare,
+M-ai mântuit și mă-nsoțești mereu cu-a Ta-ndurare.
+Tăria mea, Tăria mea,
+M-ai mântuit și mă-nsoțești mereu cu-a Ta-ndurare.
+
+[v2]
+Tăria mea, Tăria mea ești Tu, O, bun Părinte,
+În încercarea cea mai grea, cu Tine merg ’nainte.
+Tăria mea, Tăria mea,
+În încercarea cea mai grea, cu Tine merg ’nainte.
+
+[v3]
+Tăria mea, Tăria mea ești Tu, O, scump Isuse,
+Când mi-e rănită inima, Tu-mi dai puteri nespuse.
+Tăria mea, Tăria mea,
+Când mi-e rănită inima, Tu-mi dai puteri nespuse.
+
+[v4]
+Tăria mea, Tăria mea ești Tu, O, Duh de viață,
+Prin Tine am și voi avea izbândă mai măreață.
+Tăria mea, Tăria mea,
+Prin Tine am și voi avea izbândă mai măreață.
+
+[v5]
+Tăria mea, Tăria mea, O, Doamne, slavă Ție!
+Cu Tine mă voi lăuda acum și-n veșnicie.
+Tăria mea, Tăria mea,
+Cu Tine mă voi lăuda acum și-n veșnicie.

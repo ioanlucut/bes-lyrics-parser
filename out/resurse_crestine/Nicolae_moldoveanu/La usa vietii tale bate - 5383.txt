@@ -1,0 +1,23 @@
+[title]
+La usa vietii tale bate {author: {Nicolae Moldoveanu}, {rcId: {5383}}
+
+[sequence]
+v1,c,v1,c,v2,c,v3,c
+
+[v1]
+La usa vietii tale bate, o De-atata timp, un calator...
+Adesea vocea Sa razbate, o Se-aude ca un cant de dor...
+Mereu refuzi chemarea sfanta, o Desi iti stii cararea grea;
+Povara grelelor pacate o El singur poate sa ti-o ia.
+
+[c]
+/: O, nu-L lasa strain afara! o Deschide-I usa larg, supus!
+El iti aduce primavara... o E Salvatorul tau, Isus! :/
+
+[v2]
+El bate... pace sa-ti aduca... o Tu ia zavorul de pacat!
+Nu te-mpietri, degrab’ te-arunca, o La crucea Sa, sa fii iertat...
+
+[v3]
+Atatia L-au respins afara... o Cand au deschis a fost pustiu...
+Era plecat... ce grea povara o Sa vrei, cand este... prea tarziu...

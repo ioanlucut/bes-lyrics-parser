@@ -1,0 +1,35 @@
+[title]
+Cu dor astept mareata zi {author: {Nicolae Moldoveanu}, {rcId: {5712}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cu dor, astept mareata zi
+Cand iarasi o sa vie,
+Isuse drag si scump Isus,
+A Ta Imparatie.
+
+[c]
+/: Fiinta mea suspina
+Si-atat de mult as vrea
+Ca, mai curand, sa vina
+Imparatia Ta! :/
+
+[v2]
+Pamantu-ntreg va tresalta,
+Cantand de bucurie,
+Cand Tu, Isuse, vei veni
+Cu-a Ta Imparatie.
+
+[v3]
+Adanca pace va domni
+Si-adanca armonie,
+Atunci cand Tu vei reveni,
+Cu-a Ta Imparatie.
+
+[v4]
+Ajuta-ma ca sa-Ti slujesc
+O, Doamne, numai Tie,
+Ca-n ziua-aceea sa primesc,
+A Ta Imparatie.

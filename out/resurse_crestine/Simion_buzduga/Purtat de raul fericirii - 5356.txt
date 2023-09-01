@@ -1,0 +1,41 @@
+[title]
+Purtat de raul fericirii {author: {Simion Buzduga}, {rcId: {5356}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Purtat de râul fericirii
+Eram atunci când Te slujeam;
+Pe calea strâmt-a mântuirii
+De Tine mă apropiam.
+
+[c]
+/: O, iartă-mi, Doamne, astăzi traiul,
+Greșelile de zi cu zi!
+Ridică-mă, dă-mi iarăși cântul
+Ca, mai cu drag, să-Ți pot sluji! :/
+
+[v2]
+Adesea, când e grea povara,
+Cad la pământ și plâng mereu
+Și nimeni nu-mi ridică crucea
+Decât Tu singur, Domnul meu.
+
+[v3]
+La Tine vin să-Ți spun amarul;
+Altcineva n-ar auzi...
+Tu ai urcat cu greu Calvarul,
+Tu știi-nainte de-a-Ți vorbi.
+
+[v4]
+Când părăsit am fost în lume
+Și alungat de toți pe rând,
+De n-ar fi fost slăvitu-Ți Nume,
+Cui mă plângeam pe-acest pământ?
+
+[v5]
+Tu-asculți, o, Doamne, rugăciunea!
+De-aceea vin toți cei săraci,
+Că peste toate e minunea:
+Ce oamenii nu pot, Tu faci!

@@ -1,0 +1,39 @@
+[title]
+Ati auzit cu toti buna vestire {author: {Anonim}, {rcId: {4398}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ati auzit cu toti buna vestire
+Ce-au vestito ingeri cantand
+Caci d-zeu cel sfant printr-o fecioara
+Va duce pe mesia pe pamant
+/: El a venit pe lume pt. Mine
+Acolo intr-un grajd el sa nacut
+La multe usi batutau sa-l primeasca
+Dar loc la nimeni ei n-au mai gasit. :/
+
+[c]
+/: Oseana :/ Sus in ceruri si jos pe pamant
+/: Osana :/ Cantati marire celui vesnic sfant.
+
+[v2]
+Azi cu toti stim ca-i sarbatoare
+E ziua-n care sa nascut isus
+La el venira magii si pastorii
+Aur smirna, daruri i-au adus
+/: Veniti cu toti astazi sa-i dam slava
+Celui cei nascut in betleem
+El a venit sa aduca mantuirea
+Deacea eu la pace ma gandesc. :/
+
+[v3]
+Daca-n inima simti bucurie
+Cu mic cu mare sa ne bucuram
+Canati din inima toti osanale
+Celui cei nascut in betleem
+/: Cu ingeri impreuna toti din ceruri
+Si cei de pe pamant lui ne-nchinam
+Osana, glorie, cinste si onoare
+Celui cei nascut in betleem. :/

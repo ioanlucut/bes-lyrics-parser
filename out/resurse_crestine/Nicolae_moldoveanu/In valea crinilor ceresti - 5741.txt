@@ -1,0 +1,42 @@
+[title]
+In valea crinilor ceresti {author: {Nicolae Moldoveanu}, {rcId: {5741}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+În valea crinilor cerești
+Ce răspandesc parfumul,
+Iar râul cel dumnezeiesc
+Nu-și schimbă nicicând drumul,
+
+[c]
+/: Acolo-i țara mea :/ și-a ta
+Și cum doresc s-ajung în ea,
+În țara dintre râuri!
+Și cum doresc s-ajung în ea,
+Acolo sus în ceruri!
+
+[v2]
+Acolo curge-un râu bogat,
+Cu apa vieții lină,
+Iar pomul vieții minunat
+Dă rod în orice lună.
+
+[v3]
+Aleile acelor străzi
+În aur sunt pavate,
+Iar porțile de la intrări,
+Din pietre scumpe-s toate.
+
+[v4]
+Locuitorii-acelei țări
+Poartă pe cap coroană,
+Căci au ieșit biruitori,
+Prin luptă și prigoană.
+
+[v5]
+Împăratu-mpăraților
+Domneste-n sfânta țară.
+Acolo nu-s dureri, nici chin,
+Ci-i veșnic primăvară.

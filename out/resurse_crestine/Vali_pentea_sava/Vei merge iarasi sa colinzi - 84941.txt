@@ -1,0 +1,47 @@
+[title]
+Vei merge iarasi sa colinzi {author: {Vali Pentea Sava}, {rcId: {84941}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c3
+
+[v1]
+Vei merge iarăși să colinzi
+Pe străzi și în casele multora,
+Vei spune și vei cânta
+Că s-a născut Isus și slavă Îi vei da.
+
+[c]
+/: Dar, te întreb ești tu convins
+Că-n inima-ți Isus e Domn?
+Poți tu să spui celor din jur
+Și să-L arăți în viața ta pe Isus? :/
+
+[v2]
+Vei merge la cei din jur
+Dragoste și pace ca să duci,
+Vei încerca să le transmiți
+Bucuria nașterii lui Isus.
+
+[c2]
+/: Dar, te întreb ești tu convins
+Că inima de bucurie plină ți-e?
+Ai pacea și iubirea Lui
+Ce nu mai El ți-o poate da? :/
+
+[v3]
+Sunt clipe de cercetare-acum
+Când stai cu sufletul în fața Lui
+Și parcă simți că vrednic tu nu ești
+Cu îngerii în cor pe El să Îl slăvești.
+
+[c3]
+/: Dar, hai de-acum să-ngenunchem
+În fața Lui iertarea să o primim
+Și curățiți prin sângele-I
+Nașterea Lui și altora să o vestim! :/
+
+[v4]
+Să poți de-acum, eliberat
+Și fericit să mergi în Numele Lui!
+Și să vestești în cântul tău
+Că s-a născut și este viu în veci de veci!

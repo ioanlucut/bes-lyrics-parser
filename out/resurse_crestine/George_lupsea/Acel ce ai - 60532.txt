@@ -1,0 +1,39 @@
+[title]
+Acel ce ai {author: {George Lupsea}, {rcId: {60532}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,e
+
+[v1]
+Acel ce a luat povara mea
+Și ai purtat-o sus, la Golgota,
+Bătut, lovit de oameni răi, Isus,
+Tu ai urcat povara până sus.
+
+[c]
+Îți mulțumesc căci m-ai iertat, o, Tată,
+M-ai curățat și m-ai luat pe brațe,
+Cu sângele Tău ce a curs pe cruce,
+Tu ești acel ce m-ai iertat, Isuse.
+
+[v2]
+Pe străzile înguste ei Te-au dus
+Și crucea, Doamne, ai dus-o până sus.
+Nevinovat ai fost bătut, Isuse,
+Lovit cu trestii ai fost Tu, o, Doamne!
+
+[v3]
+În suferința Ta, Doamne, pe cruce,
+Tu apă ai cerut, că ei să-Ți dea,
+Dar ei în râs și cu dispreț, Isuse,
+Oțet și fiere atuncea ei Ți-aduse.
+
+[v4]
+Și-n ceasul de durere ai strigat:
+O, iartă-i, Tată, căci nu știu ce fac.
+Cu ochii ai privit spre cer, o, Doamne,
+Și-ai spus: o, Tată, ia-Mă Tu la Tine!
+
+[e]
+Cu sângele Tău ce a curs pe cruce,
+Tu ești Acel ce m-a iertat, Isuse!

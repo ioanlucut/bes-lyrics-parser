@@ -1,0 +1,21 @@
+[title]
+Da-i povara ta {author: {Anonim}, {rcId: {4152}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Da-i povara ta lui Isus
+El o va purta. :/
+
+[c]
+/: Si inalta tot mai sus inalta
+Si inalta numele lui Isus :/
+
+[v2]
+/: Vin la Isus cu cainta
+El te va primi :/
+
+[v3]
+/: Si zdrobeste-l pe satana
+In picioare jos. :/

@@ -1,0 +1,23 @@
+[title]
+Partea mea vei fi {author: {Silas J.Vail}, {rcId: {1752}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Partea mea vei fi, o, Doamne, scutul meu în veșnicii,
+Pe cărarea către ceruri lângă mine tu să fii!
+/: Domnul meu, Domnul meu, :/
+Pe cărarea către ceruri lângă mine Tu să fii!
+
+[v2]
+Nu o viață mai ușoară, nu vreau faimă, bogății,
+Mai degrabă suferință, lângă mine doar să fii!
+/: Domnul meu, Domnul meu, :/
+Mai degrabă suferință, lângă mine doar să fii!
+
+[v3]
+Și prin văi întunecoase mâna Ta mă va păzi;
+Când voi trece pragul morții lângă mine vreau să fii!
+/: Domnul meu, Domnul meu, :/
+Când voi trece pragul morții lângă mine vreau să fii!

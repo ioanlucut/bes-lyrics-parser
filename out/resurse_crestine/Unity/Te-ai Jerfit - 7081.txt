@@ -1,0 +1,17 @@
+[title]
+Te-ai jerfit {author: {Unity}, {rcId: {7081}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Te-ai jerfit pe cruce, ai murit, dragostea Ta ne-ai oferit
+Sângele Tău ne-a salvat, Tu ai murit și apoi ai înviat,
+
+[c]
+Doamne Isuse sfânt, Fiul lui Dumnezeu
+Ma-i iubit prea mult, să mori în locul meu,
+
+[v2]
+Doamne sfânt, Tu mi-ai arătat că pentru Tine sunt foarte important.
+La cruce, Tu pacatul mi-ai luat; și-n locul lui sânge curat mi-ai dat.

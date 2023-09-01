@@ -1,0 +1,37 @@
+[title]
+Dumnezeu te ia pe brate {author: {Dina Maria Pop}, {rcId: {174554}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Dumnezeu te ia pe brațe când ți-e greu
+El pe drum este cu tine tot mereu
+
+[c]
+/: Și oricare-ar fi furtuna ce trece prin viața ta
+Nu uita pe Brațul veșnic Domnul te va ridica: \
+
+[v2]
+Pe Pământ avem necaz dar biruim
+Prin Jertfă-ndrăznim la Tatăl și trăim
+
+[c2]
+/: Căci în Palme ne-a sădit, prin Isus ne-a mântuit
+Și-ndrăznim la Dumnezeu prin jertfa Fiului Său: \
+
+[v3]
+De ești singur, trist și frânt și obosit
+Dacă boala te-a-ncercat și ești lovit
+
+[c3]
+/: Nu uita că sus în ceruri avem un Mijlocitor
+El e Medicul Cel mare are leac alinător: \
+
+[v4]
+Duhul Sfânt El a trimis pe acest Pământ
+Să învețe, să mângâie când ești frânt
+
+[c4]
+/: Prin puterea Lui cea mare să putem sa ’naintăm
+Veșnica Împărăție cu Cristos să o serbăm: \

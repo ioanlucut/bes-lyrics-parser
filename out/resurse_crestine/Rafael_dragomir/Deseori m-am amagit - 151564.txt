@@ -1,0 +1,45 @@
+[title]
+Deseori m-am amagit {author: {Rafael Dragomir}, {rcId: {151564}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Deseori m-am amagit, cand de Tine am fugit,
+Fericire n-am gasit, fara Tin’ cand am trait
+Prabusit in noapte-am fost, fara viata, fara rost,
+Nu stiam cat tii la mine, nu stiam ca Tu-mi vrei bine.
+
+[c]
+Imi pare rau c-am risipit,
+Imi pare rau cum am pasit
+Imi pare rau cum am trait
+/: Imi pare rau ca ti-am gresit. :/
+
+[v2]
+Si-atunci eu cand m-am rugat, pacatul cand l-am alungat
+Si lucruri rele am departat, de vocea Ta am ascultat
+Atunci Isus m-ai vindecat de vina mea Tu m-ai spalat
+Si-acuma astazi sunt salvat ti multumesc ca m-ai iertate!
+
+[c2]
+Iti multumesc ca m-ai iubit,
+Iti multumesc ca te-ai jertfit
+Iti multumesc ca m-ai primit
+/: Iertare-n dar mi-ai daruit. :/
+
+[v3]
+De n-ai fi Tu de partea mea, de n-ai fi Tu taria mea,
+De n-ai fi scut in noaptea grea, atunci m-ar inghiti lumea
+Marire Tie o Isus ca Tu de mana ma apuci
+Si la izvoare Tu ma duci te rog Isus sa ma conduci.
+
+[c3]
+Iar plin de pace voi umbla
+Doamne de Tin’ voi asculta
+Isus cu Tin’ voi semana
+Si catre ceruri vom zbura
+/: Sa nu ma lasi, sa nu ma lasi,
+Sa intaresti Tu ai mei pasi,
+Sa nu ma lasi ca sa nu pier,
+Sa pot canta cu TIne-n cer. :/

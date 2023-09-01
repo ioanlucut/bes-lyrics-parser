@@ -1,0 +1,33 @@
+[title]
+Omule lasa pacatul lumii azi {author: {Nicolae Moldoveanu}, {rcId: {5400}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Omule, lasa pacatul lumii azi
+Si priveste inspre al tau Creator!
+Asculta si inima ta ti-o preda
+Lui Isus, bun Salvator!
+
+[c]
+Surori :
+/: Vino azi! Te cheama Isus! Azi te cheama Isus,
+Sa vii la El! Da, vino!
+Te-ncrede-n Isus! Te-ncrede-n Isus, omule! :/
+Frati :
+/: Omule, te cheama Isus sa vii la El, sa vii la El!
+Da, vino!
+Te-ncrede-n El! Te-ncrede-n El, omule! :/
+
+[v2]
+Isus bate ne’ncetat la usa ta;
+Timpul trece-n graba, mergi spre Creator!
+Nu uita: Acel ce te primeste-acum,
+Mantuire-ti da in dar.
+
+[v3]
+Omule, priveste tinta catre cer
+Si grabeste-ti pasul spre locasul sfant!
+Viata ta eterna sa poarte pecetea
+Vesnicului Legamant.

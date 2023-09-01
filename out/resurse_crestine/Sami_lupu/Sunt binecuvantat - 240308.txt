@@ -1,0 +1,29 @@
+[title]
+Sunt binecuvantat {author: {Sami Lupu}, {rcId: {240308}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Tu ai fost, ești și vei fi cu mine,
+Zi de zi, prezența Ta o simt.
+Când, din depărtări, furtuna vine,
+Eu m-ascund in Tine, drag Isus!
+
+[c]
+/: Sunt binecuvântat în fiecare zi,
+De cerul înnorat sau soare de ar fi.
+Cu milă mă privești, cu dragoste-mi vorbești,
+Iar bunătatea Ta îmi inundă inima. :/
+
+[v2]
+Ce frumoasă rază de speranță
+Mângâie ușor ființa mea!
+Tu-mi zâmbești în orice dimineață,
+Eu înalț spre Tine lauda.
+
+[v3]
+Copleșit de bunătatea-Ți mare,
+Zi de zi trăiesc cu Tine-n gând,
+Și aștept o zi de sărbătoare,
+Când mă vei lua de pe pământ.

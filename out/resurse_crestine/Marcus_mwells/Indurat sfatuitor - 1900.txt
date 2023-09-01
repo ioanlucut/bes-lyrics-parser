@@ -1,0 +1,38 @@
+[title]
+Indurat sfatuitor {author: {Marcus M.Wells}, {rcId: {1900}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Indurat Sfatuitor,
+Duh preasfant, Mangaietor,
+Ma condu cu mana Ta
+Prin furtuni si vreme rea.
+Cand necazuri vor veni,
+Ma ajuta-a birui.
+Spune sufletului meu:
+”
+In odihna te duc Eu!”
+
+[v2]
+Doamne Tu aproape fii
+Cand cel rau m-ar ispiti.
+De-ndoieli si frica prins,
+Nu lasa sa fiu invins.
+Da-mi prin Duhul Tau puteri,
+Multa pace, mangaieri.
+Spune sufletului meu:
+”
+In odihna te duc Eu!”
+
+[v3]
+Sfinte Duh ce viata dai,
+Ma condu mereu spre rai,
+Doar prin Tine pot urca
+Tot mai sus spre tinta mea,
+Cand durerile apar,
+Vino si vorbeste-mi iar,
+Spune sufletului meu;
+”
+In odihna te duc Eu!”

@@ -1,0 +1,50 @@
+[title]
+Valoarea mea {author: {Keith Getty, Krystin Getty, Graham Kendrick}, {rcId: {230585}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Valoarea mea nu e-n ce am
+Căci tot ce-am strâns se scrurge-n van.
+Ci-n Cel ce, fiindcă m-a iubit,
+S-a jertfit.
+
+[v2]
+N-am preț în ce pot eu să fac
+Prin fapte sunt cel mai sărac
+Murind mi-a dat un preț prin har
+La Calvar.
+
+[c]
+Astăzi cânt de bucurie, eu sunt liber
+Sunt salvat, ce dar!
+Te-oi lăuda în veșnicie
+Mi-ai dat iertarea-n veci prin al Tău har.
+Astăzi cânt de bucurie, eu sunt liber
+Sunt salvat, ce dar!
+Te-oi lăuda în veșnicie
+Mi-ai dat iertarea-n veci prin al Tău har.
+:/ Astăzi cânt de bucurie, eu sunt liber
+Sunt salvat, ce dar!
+Te-oi lăuda în veșnicie
+Mi-ai dat iertarea-n veci prin al Tău har.
+ /:
+
+[v3]
+Ca floarea toți ne-om ofili
+Și frumusețea s-a sfârși
+Vom fi-n curând acolo sus
+Cu Isus.
+
+[v4]
+Nu mă voi lăuda nicicând
+Cu înțelepciune pe pământ.
+Dar azi mă laud bucuros
+În Hristos.
+
+[v5]
+Mirarea mea de la sfârșit
+E că Isus m-a mântuit.
+Că s-a jertfit pentr-un tâlhar
+La Calvar.

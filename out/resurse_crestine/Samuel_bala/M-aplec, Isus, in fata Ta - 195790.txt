@@ -1,0 +1,37 @@
+[title]
+M-aplec isus in fata ta {author: {Samuel Bala}, {rcId: {195790}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+M-aplec, Isus, în fața Ta
+Ascultă, Doamne, ruga mea!
+Te rog, primește mulțumirea mea!
+Nu am cuvinte, scump Isus,
+Dar bucuros sunt, de nespus,
+Că ai iertat întreagă fărdelegea mea.
+
+[c]
+/: Sunt fericit, Isus iubit,
+Păcatul meu Tu ai plătit
+Când pe o cruce, pentru mine-ai suferit.
+Mi-ai dat speranță, bucurie,
+Și într-o zi voi fi cu Tine,
+Îți mulțumesc, Isuse, că m-ai mântuit! :/
+
+[v2]
+Când fapta mea Te-a întristat,
+Tu pentru mine Te-ai rugat,
+Îți mulțumesc, Isuse drag, căci m-ai iertat!
+În calea mea m-am rătăcit
+Dar și atunci Tu m-ai iubit,
+Îți mulțumesc, Îți mulțumesc, Isus iubit!
+
+[v3]
+Doresc, Isus, cu orice preț,
+Cu viața mea să-Ți răsplătesc,
+Cu faptele să pot să spun că Te iubesc.
+Și când cu Tine-n cer voi fi,
+Când alergarea voi sfârși,
+O veșnicie fața Ta o voi privi.

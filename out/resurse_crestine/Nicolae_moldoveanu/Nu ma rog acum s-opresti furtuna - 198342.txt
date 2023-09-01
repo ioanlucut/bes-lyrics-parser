@@ -1,0 +1,29 @@
+[title]
+Nu ma rog acum s-opresti furtuna {author: {Nicolae Moldoveanu}, {rcId: {198342}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Nu mă rog acum s-oprești furtuna,
+Nici să’nlături ura celui rău.
+/: Doamne dar doresc, doresc fierbinte :/
+/: Să nu pierd nimic din ce-i al Tău! :/
+
+[v2]
+Pacea Ta cea sfântă mă-nsoțească,
+Pașii mei când merg pe drumul greu.
+/: Ține-mi ochii spre eternul mâine :/
+/: Să nu pierd nimic din ce-i al Tău! :/
+
+[v3]
+Dă-Mi din Tine necurmat tărie,
+Ca să trec cu bine ceasul greu.
+/: Să păstrez credința și iubirea :/
+/: Să nu pierd nimic din ce-i al Tău! :/
+
+[v4]
+Vreau și eu la fel așa ca Tine,
+La sfârșit, curat de-un cuget rău.
+/: Să spun Tată, am isprăvit lucrarea :/
+/: N-am pierdut nimic din ce-i al Tău! :/

@@ -1,0 +1,41 @@
+[title]
+Mereu {author: {Nicolae Moldoveanu}, {rcId: {244575}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Mereu mi-ntorc spre Tine fața,
+Și caut soare veșnic soare;
+Mereu mă-ndrept spre Dimineața,
+Slăvitei Zile viitoare.
+
+[c]
+Mereu, c-o dragoste crescândă,
+Isus, mă dărui Ție, Ție.
+Mereu, de orișice izbândă,
+Mă luminez de bucurie.
+
+[v2]
+Mereu, cu ochii caut zarea,
+Și carul harurilor Tale,
+Să-I văd venind din depărtarea,
+Cea albă-a norilor petale.
+
+[c2]
+Mereu Îți simt dogoarea sfântă,
+A dragostei fierbinți din Tine,
+Cum inima mi-o înveșmântă,
+Și mi-o topește-n stări divine.
+
+[v3]
+Fii binecuvântat lsuse,
+Căci Tu m-acoperi, dinainte,
+Cu daruri veșnice, aduse,
+Din Templul harurilor sfinte.
+
+[c3]
+Mereu Îți simt dogoarea sfântă,
+A dragostei fierbinți din Tine,
+Cum inima mi-o înveșmântă,
+Și mi-o topește-n stări divine.

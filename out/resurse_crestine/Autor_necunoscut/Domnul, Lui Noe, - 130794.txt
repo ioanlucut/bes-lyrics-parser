@@ -1,0 +1,22 @@
+[title]
+Domnul lui noe {author: {Anonim}, {rcId: {130794}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Domnul, lui Noe, i-a spus că va fi potopul :\
+Și să facă chiar din lemn o arcă, copiii Domnului.
+
+[c]
+/: Ploua, e Soare,
+Cântam glorie glorie, glorie :\ X3
+Copiii Domnului.
+
+[v2]
+/: Domnul, lui Noe, i-a spus să facă o arcă :\
+Și să scoată pe copii din apă, copiii Domnului.
+
+[v3]
+/: Atunci animalele veneau două câte două :\
+Elefanții, cangurii si struții copiii Domnului.

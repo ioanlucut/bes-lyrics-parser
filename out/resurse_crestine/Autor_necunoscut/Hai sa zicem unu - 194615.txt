@@ -1,0 +1,90 @@
+[title]
+Hai sa zicem unu {author: {Anonim}, {rcId: {194615}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7,v8,v9,v10
+
+[v1]
+Hai să zicem unu
+Unu-i Dumnezeu la noi și la Israel
+
+[v2]
+Hai să zicem doi
+Două table la Moise
+Unu-i Dumnezeu la noi și la Israel
+
+[v3]
+Hai să zicem trei
+Trei-s părinții noștri
+Două table la Moise
+Unu-i Dumnezeu la noi și la Israel.
+
+[v4]
+Hai să zicem patru
+Patru-i Sabatul
+Trei-s părinții noștri
+Două table la Moise
+Unu-i Dumnezeu la noi și la Israel.
+
+[v5]
+Hai să zicem cinci
+Cinci sunt cărțile
+Patru-i Sabatul
+Trei-s părinții noștri
+Două table la Moise
+Unu-i Dumnezeu la noi și la Israel.
+
+[v6]
+Hai să zicem șase
+Șase-i Biblia
+Cinci sunt cărțile
+Patru-i Sabatul
+Trei-s părinții noștri
+Două table la Moise
+Unu-i Dumnezeu la noi și la Israel.
+
+[v7]
+Hai să zicem șapte
+Șapte-s zilele
+Șase-i Biblia
+Cinci sunt cărțile
+Patru-i Sabatul
+Trei-s părinții noștri
+Două table la Moise
+Unu-i Dumnezeu la noi și la Israel.
+
+[v8]
+Hai să zicem opt
+Opt e nașterea
+Șapte-s zilele
+Șase-i Biblia
+Cinci sunt cărțile
+Patru-i Sabatul
+Trei-s părinții noștri
+Două table la Moise
+Unu-i Dumnezeu la noi și la Israel.
+
+[v9]
+Hai să zicem nouă
+Nouă-i botezul
+Opt e nașterea
+Șapte-s zilele
+Șase-i Biblia
+Cinci sunt cărțile
+Patru-i Sabatul
+Trei-s părinții noștri
+Două table la Moise
+Unu-i Dumnezeu la noi și la Israel.
+
+[v10]
+Hai să zicem zece
+Zece-s poruncile
+Nouă-i botezul
+Opt e nașterea
+Șapte-s zilele
+Șase-i Biblia
+Cinci sunt cărțile
+Patru-i Sabatul
+Trei-s părinții noștri
+Două table la Moise
+Unu-i Dumnezeu la noi și la Israel.

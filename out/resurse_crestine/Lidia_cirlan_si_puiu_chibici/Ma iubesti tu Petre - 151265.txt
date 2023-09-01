@@ -1,0 +1,49 @@
+[title]
+Ma iubesti tu petre {author: {Lidia Cîrlan și Puiu Chibici}, {rcId: {151265}}
+
+[sequence]
+c,v2,c2,v3,c3,s,c4
+
+[c]
+Paște mielușeii cei nevinovați
+Când vin lupii și leii cei înfometați.
+Paște mielușeii cei nevinovați
+Când vin lupii și leii cei înfometați.
+
+[v2]
+Mă iubești tu oare, spune-mi Simone?
+Te iubesc, o Doamne, mai mult ca orice!
+
+[c2]
+Paște cu iubire ale mele oi
+Mielușei, oițe, întregul lor convoi.
+Paște cu iubire ale mele oi
+Mielușei, oițe, întregul lor convoi.
+
+[v3]
+Mă iubești tu oare, ucenicul meu?
+Tu le știi pe toate, Tu ești Dumnezeu!
+
+[c3]
+Paște la pășune, Petre, turma Mea
+Pentru al Meu nume, frate nu uita!
+Paște la pășune, Petre, turma Mea
+Pentru al Meu nume, frate nu uita!
+
+[s]
+Tu ești piatra care peste vremi va sta
+Și în încercare, nu s-ar clătina
+Pe această piatră îmi pun Biserica
+Și nicicând, nici chiar moartea nu va sfărâma
+Pentru a ta credință, pentru râvna ta
+O Împărăție ție îți voi da!
+Prin furtuni, prin neguri, mergi neînfricat
+Căci Eu sunt cu tine, Eu te-am răscumpărat
+Paște cu iubire, Petre, turma mea
+Pentru al Meu nume, te rog, nu uita!
+
+[c4]
+Paște la pășune, Petre, turma mea
+Pentru al Meu nume, frate, nu uita!
+Paște la pășune, Petre, turma mea
+Pentru al Meu nume, frate, nu uita!

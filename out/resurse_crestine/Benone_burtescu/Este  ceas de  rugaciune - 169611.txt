@@ -1,0 +1,21 @@
+[title]
+Este ceas de rugaciune {author: {Benone Burtescu}, {rcId: {169611}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Este ceas de rugăciune, rugăciunea o’nălțăm,
+Către Tine Doamne Sfinte în unire ne plecăm.
+
+[c]
+Peste noi, peste noi, lasă Doamne pacea Ta
+Plină de iubire sfântă să ne fie inima.
+
+[v2]
+Este ceas de închinare, închinarea noastră-Ți dăm
+Către Tine Doamne Sfinte, orice gând îl înălțăm.
+
+[v3]
+Este ceas de adorare, adorare îți cântăm,
+Către Tine Doamne Sfinte, cântul nostru înălțăm.

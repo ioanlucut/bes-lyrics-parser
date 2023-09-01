@@ -1,0 +1,26 @@
+[title]
+Mare este domnul nostru {author: {Anonim}, {rcId: {62694}}
+
+[sequence]
+v2,b,c,v2,c
+
+[v2]
+Mare este Domnul nostru
+Mare este Dumnezeu
+Gloria lui umple Templu
+Iar noi îl lăudăm
+Sfânt este Domnul nostru
+Sfânt este Dumnezeu
+Pământul să strige „slavă!”
+Să-L încoronăm ca Domn.
+
+[b]
+Glorii Celui înviat
+Glorii Fiului
+Cel înălțat
+
+[c]
+Deschide-ți larg porțile
+Să intre Regele gloriei
+Domn al domnilor
+Veșnic va fi

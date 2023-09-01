@@ -1,0 +1,53 @@
+[title]
+Ce duios rasuna {author: {Anonim}, {rcId: {5481}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Ce duios rasuna
+Grasul Lui Isus!
+Ce vrea sa ne spuna
+Acest glas de sus ?
+
+[c]
+”
+Da-Mi inima Ta!
+Vreau sa o curatesc, 
+Ca s-o locuiesc
+Si s-o fericesc.”
+
+[v2]
+Glasul Lui asculta
+”
+Da-Mi inima ta!
+Vina cat de multa
+Eu ti-o voi ierta.”
+
+[v3]
+Glasul Lui iti spune:
+”
+Da-Mi inima ta!
+Numai ganduri bune
+Voi sadi in ea.”
+
+[v4]
+Glasul Lui vorbeste :
+”
+Da-mi inima ta!
+Altfel te robeste
+Patima cea rea.”
+
+[v5]
+Glasul Lui te-mbie
+”
+Da-mi inima ta!
+Ca sa nu-ti mai fie
+Grij-atat de grea.”
+
+[v6]
+Glasul Lui iti zice :
+”
+Da-mi inima ta!
+Si va fi ferice
+De vei asculta.”

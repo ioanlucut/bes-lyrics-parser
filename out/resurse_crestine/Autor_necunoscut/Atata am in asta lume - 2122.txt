@@ -1,0 +1,35 @@
+[title]
+Atata am in asta lume {author: {Anonim}, {rcId: {2122}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Atâta am în astă lume;
+Un nume dulce, scump și drag;
+/: Cu care-n orice strâmtorare,
+Eu nu mă tem de-al morții prag. :/
+
+[v2]
+Chiar de mi-ar sta demonii-n față
+În șir cu sutele de mii;
+/: Eu cânt și merg tot înainte
+Învins de ei eu nu voi fi! :/
+
+[v3]
+Îmi stă doar fâlfâind la dreapta
+Drapelul care l-am primit,
+/: Și-i scris pe el un falnic nume,
+Al lui Isus cel răstignit. :/
+
+[v4]
+Și azi plutesc pe-ntinsul mării
+Cu tot ce mi s-a-ncredințat;
+/: Și nicicând nu voi da uitării
+Talantul ce l-am căpătat. :/
+
+[v5]
+Eu nu-l îngrop și-l schimb întruna,
+Și fac cu el negoț mereu,
+/: Să fiu găsit o slugă bună,
+Când va veni Stăpânul meu. :/

@@ -1,0 +1,25 @@
+[title]
+Tine-ma isuse pe mine {author: {Nicolae Moldoveanu}, {rcId: {5899}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+/: Tine-ma, Isuse, pe mine :/ o
+ /: Sa ma duc semanand,
+Secerand si cantand, o Ca sa fiu pe veci cu Tine sfant. :/
+
+[v2]
+/: Tine-ma, Isuse, pe mine! :/ o
+ /: Cand vine furtuna,
+Tu sa-mi intinzi mana, o Ca sa fiu cu Tine pururea. :/
+
+[v3]
+/: Tine-ma, Isuse, pe mine :/ o
+ /: Cand furtuni vor veni!
+Ia-ma cu-a-Tale maini, o Ca sa fiu pururi cu Tine sus. :/
+
+[v4]
+/: Tine-ma, Isuse, pe mine, :/ o
+ /: Ca sa ma pot preda
+Cu totu-n slujba Ta: o Sufletul, trupul si inima. :/

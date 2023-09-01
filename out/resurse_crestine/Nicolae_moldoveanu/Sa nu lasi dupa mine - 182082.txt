@@ -1,0 +1,29 @@
+[title]
+Sa nu lasi dupa mine {author: {Nicolae Moldoveanu}, {rcId: {182082}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Să nu lași după mine,
+Dumnezeul meu,
+Să mă ții lângă Tine,
+Cât ar fi de greu.
+
+[c]
+/: Iată ruga mea, iată tot ce-ar vrea
+Inima să-Ți dea, tot ce este-n ea.
+Nu mă mai lăsa, Doamne-a mă schimba,
+Orice m-ar costa, fie voia ta! :/
+
+[v2]
+Să mă ții pe cărarea
+Voii Tale în veac,
+Să-mi trezești ascultarea,
+Ca să-Ți fiu pe plac.
+
+[v3]
+Doar prin Tine se poate
+Să trăiesc frumos,
+De la Tine am toate,
+Prin Isus Hristos!

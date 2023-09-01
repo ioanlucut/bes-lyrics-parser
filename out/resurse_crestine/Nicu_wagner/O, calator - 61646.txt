@@ -1,0 +1,41 @@
+[title]
+O calator {author: {Nicu Wagner}, {rcId: {61646}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+O, călător, o, suflet
+Ce pribegești mereu,
+Să-ți afli ajutorul,
+Numai în Dumnezeu.
+
+[c]
+Încrede-te în Domnul
+În viața de pribeag,
+Și El să-ți fie-ntruna
+Stăpânul cel mai drag.
+
+[v2]
+Când valul cel năpraznic
+Te-a dărâmat cumplit,
+Ai plâns, ți-ai plâns amarul
+Și nimeni n-a venit.
+
+[v3]
+De-atâtea ori pe cale
+În cel mai greu necaz,
+Doar Domnul ți-a șters fruntea
+Și lacrima pe-obraz.
+
+[v4]
+Și ai văzut atuncea
+Că Cel ce-i muritor,
+Nu te-a văzut în chinuri
+Să-ți deie ajutor.
+
+[v5]
+De-i asculta îndemnul
+Și-i fi ascultător,
+Va fi mereu cu tine,
+În vecii vecilor.

@@ -1,0 +1,29 @@
+[title]
+Tu ne-ai chemat din lumea de pacate {author: {Dorel Breabăn}, {rcId: {223993}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Tu ne-ai chemat din lumea de păcate,
+Ne-ai curățit și pacea Ta ne-ai dat,
+Suntem salvați și izbăviți de moarte,
+Slăvit să fii și binecuvântat!
+
+[c]
+/: Suntem a Ta biserică iubită,
+Am fost trimiși să mergem cu avânt,
+Să ducem Evanghelia slăvită,
+Vestind-o pân’ la margini de Pământ. :/
+
+[v2]
+Când ne-ai trimis să spunem despre Tine,
+N-aveam cuvinte dar Tu ni le-ai dat;
+Prin greutăți, prigoane și suspine,
+Ne-ai fost alături, Doamne, ne-ncetat.
+
+[v3]
+Nu ne oprim, căci Tu ne-ai dat putere,
+Mai e puțin și numărul deplin
+Se va-mplini, și-apoi, la înviere,
+Vom fi cu Tine pentru veci, amin!

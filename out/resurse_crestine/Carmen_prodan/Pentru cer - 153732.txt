@@ -1,0 +1,21 @@
+[title]
+Pentru cer {author: {Carmen Prodan}, {rcId: {153732}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cât suntem de trecători, oare ne dăm seama?
+/: Când trec anii peste noi cum ia vântul pleava :/
+
+[c]
+Clipele se duc în zbor, trec mereu spre mâine
+/: Ce-am făcut pentru cer, asta doar rămâne :/
+
+[v2]
+Domnul sfânt a pus în noi daruri minunate
+/: Să lucrăm deci cu avânt spre eternitate :/
+
+[v3]
+Să trăim deci cu folos orice clipă-n viață
+/: Căci răsplată vom primi în marea dimineață :/

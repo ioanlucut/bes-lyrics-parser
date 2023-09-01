@@ -1,0 +1,29 @@
+[title]
+Venirea lui mesia {author: {Cătălin, Ramona Lup}, {rcId: {232814}}
+
+[sequence]
+v1,v2,v3,c,e,c,c
+
+[v1]
+Din vremuri străvechi ai vestit
+Prin glas de proroci că Fiul din cer va veni,
+Va fi plin de glorie și slavă în veci de veci.
+
+[v2]
+El va veni s-aducă mântuire printre oameni
+Și Tatăl iubire v-aduce pe veci împăcare
+Prin sângele Lui, răscumpărare
+
+[v3]
+Va fi născut din fecioară
+Pentru că Fiul din ceruri coboară.
+Domnia va fi pe umărul Lui.
+El va aduce pace, pace-n poporul Lui.
+
+[c]
+E Fiul lui David. e steaua lui Iacov,
+E Leul din Iuda. e Fiul lui Dumnezeu.
+
+[e]
+/: Îl vor numi Minunat, Stăpânitor,
+Dumnezeu tare, Creator al tuturor, Domn al Păcii. :/

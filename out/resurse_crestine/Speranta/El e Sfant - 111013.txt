@@ -1,0 +1,23 @@
+[title]
+El e sfant {author: {Speranța}, {rcId: {111013}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+Sfânt, sfânt, sfânt e Domnul oștirilor
+Sfânt, sfânt, sfânt e Domnul oștirilor
+/: Tot pământul e plin de mărirea Lui
+Doar El e sfânt, El e sfânt. :/
+
+[v1]
+Serafimi, heruvimi și îngeri
+Stau mereu împrejurul Lui
+Și din slava ce-n toate se-arată
+Se aud doar cântari spre slava Lui
+
+[v2]
+În Dumnezeu nu-i umbră de mutare
+În sfințenie, faptă și cuvânt
+El e același, ieri și azi și mâine
+El rămâne veșnic Dumnezeul sfânt.

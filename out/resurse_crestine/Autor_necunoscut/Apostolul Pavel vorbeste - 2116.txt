@@ -1,0 +1,41 @@
+[title]
+Apostolul pavel vorbeste {author: {Anonim}, {rcId: {2116}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c2
+
+[v1]
+Apostolul Pavel vorbește
+Al său sfat se-ndreaptă spre Tit
+Pe Tit Pavel îl sfătuiește
+Ca pe-al său copil prea iubit.
+
+[c]
+/: Tu dă-te pe tine exemplu
+Să fii un exemplu model
+În viață, în fapte și-n templu
+Să umbli ca Domnul la fel. :/
+
+[v2]
+Căci darul cel fără de plată
+Și harul ce s-a arătat
+Ne cheamă la viață curată
+La viață fără de păcat.
+
+[v3]
+Învață să știe și alții
+Căci Domnul pe Sine S-a dat
+Tu spune să știe toți frații
+Că Domnul ne-a răscumpărat.
+
+[v4]
+Învață și mustră și spune
+În evlavie să trăiți
+De faptele ce sunt în lume,
+De pofte cu toți să fugiți.
+
+[c2]
+/: Trăiți sentimentul cel mare
+Nădejdea slăvitei veniri
+Stați gata, stați în așteptare
+Și-n hainele sfintei iubiri. :/

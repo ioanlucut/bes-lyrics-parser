@@ -1,0 +1,45 @@
+[title]
+Ce-am agonisit in lume {author: {Anonim}, {rcId: {55575}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,v5,c5
+
+[v1]
+Ce-am agonisit in lume,
+Toate sunt desartaciune,
+
+[c]
+/: Toata viata m-am trudit si n-am ramas cu nimic,
+Of Domnul meu :/
+
+[v2]
+M-am gandit Isuse drag,
+Sa stau sub cruces a trag,
+
+[c2]
+/: Sub povara crucii Tale ca sa pot primi iertare,
+Of Domnul meu :/
+
+[v3]
+Nicaieri nu e mai bine,
+Decat Isus langa Tine,
+
+[c3]
+/: Cine-asculta si-L primeste Domnul Isus il iubeste,
+Of Domnul meu :/
+
+[v4]
+Da-mi Isuse birunta,
+Ca sa pot s-am pocainta,
+
+[c4]
+/: Caci povara mea e mare vino si da-mi alinare,
+Of Domnul meu :/
+
+[v5]
+Cui nu-i trebuie cununa,
+Domnul pedepseste-ntruna,
+
+[c5]
+/: Il mustra si-l pedepseste ca pe-un copil cel iubeste,
+Of Domnul meu :/

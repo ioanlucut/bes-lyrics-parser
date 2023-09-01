@@ -1,0 +1,41 @@
+[title]
+Inchinare {author: {Adrian Tămășan}, {rcId: {224951}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Venit-am să mă-nchin
+În fața Ta, Stăpâne
+Venit-am cu povara mea
+Ce pacea îmi tot alunga
+M-am prăbușit ’naintea Ta
+Să-ți cer, o Doamne îndurarea.
+
+[c]
+Tu ai privit spre mine, în spre sufletul meu,
+Te-ai ridicat in grabă, chiar de pe tronul Tău,
+M-ai apucat de mână, la pieptul Tău m-ai strâns,
+Mi-ai mângâiat obrazul, mereu udat de plâns.
+
+[v2]
+Atunci Isus mi-ai spus
+Să nu fiu întristat,
+Căci greul ce mă apăsa
+Tu l-ai purtat pe Golgota,
+Ca eu acel ce Te primesc,
+Să pot alin ca să găsesc.
+
+[v3]
+De-atunci eu cât doresc
+Isus să te-ntâlnesc,
+Să scap de orice dureri și chin,
+De cupa plină cu pelin,
+Să simt iar mângâierea Ta
+Să pot în veci de veci cânta.
+
+[e]
+Te înconjoară slava, îngeri cântă-n cor,
+Îți cântă îndurarea, o Domn al Domnilor
+Te voi lăuda și eu alăturea de ei
+Căci Tu ești Dumnezeul ce vei domni în veci!

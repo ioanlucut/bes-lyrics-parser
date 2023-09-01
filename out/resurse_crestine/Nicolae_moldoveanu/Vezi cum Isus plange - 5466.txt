@@ -1,0 +1,29 @@
+[title]
+Vezi cum isus plange {author: {Nicolae Moldoveanu}, {rcId: {5466}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Vezi cum Isus plânge, frate, pentru tine!
+Pentru ce mai stai în rătăcire?
+El, cu brațul Său, te-așteaptă mereu
+Să te-ntorci, amice, din păcatul greu!
+
+[c]
+/: O, vino la Domnul, ca să fii salvat,
+Să ai tu iertarea, să fii mângâiat!
+El ușa-ți deschide, ca să intri-n Rai!
+Spune-mi dar, amice: vrei să te predai? :/
+
+[v2]
+Ce folos, amice, de a ta viață
+Ce-o petreci în lume, pe-ale morții brațe?
+Vezi cum trece timpul... pregătește-ți viața,
+Până nu-ți vezi mormântul ce-i rece ca gheața.
+
+[v3]
+Ușa îndurării încă nu s-a închis!
+Brațul lui Isus tot mai e deschis!
+Vino la Isus, căci El te primește
+Și iertare sfântă, El îți dăruiește!

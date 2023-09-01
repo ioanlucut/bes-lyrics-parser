@@ -1,0 +1,18 @@
+[title]
+Psalmul {author: {Speranța}, {rcId: {101951}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Binecuvântat e orice om
+Ce se încrede-n Dumnezeu
+
+[c]
+Căci el va fi ca un pom
+Sădit pe malul apei
+Ce la timp aduce rod
+
+[v2]
+Chiar de arșița e mare
+Frunzele rămân tot verzi

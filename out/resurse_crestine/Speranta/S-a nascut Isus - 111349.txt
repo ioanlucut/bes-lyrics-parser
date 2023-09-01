@@ -1,0 +1,29 @@
+[title]
+S-a nascut isus {author: {Speranța}, {rcId: {111349}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cerul cu slavă Domnul l-a lăsat
+Chip de om, El a îmbrăcat.
+În ieslea cea săracă, în staulul murdar
+Venit-a să se nască El cel mai mare dar.
+
+[c]
+S-a născut Isus, a venit în lumea noastră
+S-a născut Isus, a venit să locuiască
+S-a născut Isus, a venit din strălucire
+S-aduca lumii mântuire.
+
+[v2]
+Îngeri din cer, Lui i-au cântat
+Slavă pe pământ și în cerul preaînalt
+În ieslea cea săracă, în staulul murdar
+Venit-a să se nască El cel mai mare dar..
+
+[v3]
+Magi din răsărit, vin la Betleem
+Ei se închină Domnului supreme.
+În ieslea cea săracă, în staulul murdar
+Venit-a să se nască El cel mai mare dar

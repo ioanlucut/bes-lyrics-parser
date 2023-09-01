@@ -1,0 +1,27 @@
+[title]
+Numai langa tine {author: {Puiu Chibici}, {rcId: {104957}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Când ești lângă mine, nu mă tem de nici un rău
+Căci mă-ncred în Tine, mare Dumnezeu.
+
+[c]
+/: Numai lângă Tine, Doamne mă simt bine
+Știu că Tu mă ocrotești
+Și-n grea încercare, când furtuna-i mare
+Lângă mine-alături ești! :/
+
+[v2]
+Când valurile vieții, barca mi-au clătinat
+Ca și altădată, Tu, Isuse le-ai mustrat.
+
+[v3]
+Meriți pe vecie, Doamne să fii lăudat
+Căci din grea urgie, doar Tu m-ai salvat!
+
+[v4]
+O nădejde vie, în inimă mi-ai sădit
+Cred, deci cu tărie, că m-ai mântuit!

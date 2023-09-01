@@ -1,0 +1,26 @@
+[title]
+Canta inima si spune (varianta originala) {author: {Alexandru Groza}, {rcId: {209513}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Eu știu că Domnul m-a creat după făptura Sa,
+El e Olarul inimii, El știe ce e-n în ea.
+
+[c]
+/: Cântă inimă și spune
+Marea minune la toată lumea
+De dragostea Domnului. :/
+
+[v2]
+Eu știu că Domnul este sfânt, noi nu-L putem vedea,
+El e lumina ochilor, e-n inima mea și-a ta.
+
+[v3]
+Eu știu că Domnul e aici, mă ține să nu cad,
+El e cu noi la orice pas, ne scapă din necaz.
+
+[v4]
+Eu știu ca Domnul mi-e Păstor, e-al meu Mântuitor,
+Și munții de s-ar clătina, El poartă grija mea.

@@ -1,0 +1,46 @@
+[title]
+Se-aude clar in departari - glorie lui {author: {Casting Crowns varianta BBSO}, {rcId: {238317}}
+
+[sequence]
+v1,c,v2,c,e,v3,c2
+
+[v1]
+Se-aude clar în depărtări
+Sunt ale cerului cântări,
+Care ne spun că S-a născut
+Acel ce n-are început.
+
+[c]
+Din înalt răsună!
+Ce frumos răsună!
+Îngeri mii azi cântă!
+Glorie Lui!
+Și pace-n dar!
+
+[v2]
+Dar azi eu fruntea mi-am plecat
+E lumea plină de păcat.
+Nu e nici pace, nu-i nici cânt
+Nu-i bucurie pe pământ.
+
+[e]
+Iar îngeri tare au strigat
+Că Dumnezeu nu ne-a uitat
+Că binele va birui
+Și prin credință vom trăi,
+Da, vom trăi!
+
+[v3]
+Orice ecou azi va vesti:
+S-a făcut din noapte zi
+Un sunet cald în ceruri, spune:
+Vestește pacea pe pământ.
+
+[c2]
+/: Din înalt răsună!
+Ce frumos răsună!
+Îngeri mii azi cântă!
+Glorie Lui!
+Și pace-n dar! :/
+Glorie Lui! x3
+Și pace-n dar!

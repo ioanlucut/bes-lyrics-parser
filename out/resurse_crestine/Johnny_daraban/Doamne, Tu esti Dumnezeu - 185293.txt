@@ -1,0 +1,51 @@
+[title]
+Doamne tu esti dumnezeu {author: {Johnny Daraban}, {rcId: {185293}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Doamne, azi Îți mulțumesc
+Că mi-ai fost aproape
+Cu-al Tău braț Dumnezeiesc,
+M-ai păzit în toate.
+Zi de zi, Tu m-ai vegheat,
+Mi-ai spus să merg nainte,
+Să lupt, să mă păstrez curat
+S-aduc doar roade sfinte.
+
+[c]
+Doamne, Tu ești Dumnezeu
+Ești sfânt și-atotputernic
+Cu îndurare mă-conjori
+Ești bun, milos, ești veșnic.
+Doamne, Tu ești Dumnezeu
+Ești sfânt și-atotputernic
+Și voi lăuda numele Tău
+Ești bun, măreț și vrednic.
+Doamne, Tu ești Dumnezeu
+Ești sfânt și-atotputernic
+Cu îndurare mă-conjori
+Ești bun, milos, ești veșnic.
+Și voi lăuda numele Tău
+Ești bun, măreț și vrednic.
+
+[v2]
+M-ai păzit, m-ai întărit,
+Când a venit furtuna
+Valurile-ai liniștit,
+Când ai întins Tu mâna.
+În viața mea te-ai implicat,
+Ca un bun Părinte,
+Suspinul meu ai ascultat
+Și ruga mea fierbinte.
+
+[e]
+Atinge-Te, Doamne, de mine
+Și-aprinde în mine un foc,
+Să ard nencetat pentru Tine,
+Cuprins de-al iubirii sfânt foc.
+Doresc să mă aseamăn cu Tine
+În lume lumină să fiu,
+Să fiu o epistolă vie,
+Ca Tine, în toate, să fiu.

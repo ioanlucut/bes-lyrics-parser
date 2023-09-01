@@ -1,0 +1,35 @@
+[title]
+Iaire nu te teme {author: {Daniel Neagu, Denys Laurenciuc}, {rcId: {186001}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Într-una din zile venise la Isus
+Fruntașul Sinagogii și Îl ruga nespus
+/: Fetița mea-i pe moarte vino în casa mea
+Vino de-Ți pune mâna Isuse peste ea: \
+
+[c]
+Iaire nu te teme căci astăzi vei vedea
+Lucrarea minunată când intru-n casa ta
+Tu crede ce-Ți vorbesc și nu te îndoi
+Căci numai prin credință mereu vei birui
+
+[v2]
+Fetița ta Iaire iată că a murit
+Din marea de mulțime un glas s-a auzit
+/: De ce mai superi oare pe Învățător?
+Așa spunea atuncea întregul popor: \
+
+[v3]
+Nu te teme crede în inima ta
+Căci astăzi doresc să vin în casa ta
+/: Fetița ta trăiește nu a murit să știi
+Crede numai i-a zis și nu te îndoi: \
+
+[v4]
+Și tu poate azi treci printr-o-ncercare grea
+Privește la Isus nu te înspăimânta
+/: El dă popoare-ntregi pentru ființa ta
+Căci ești făptura Lui săpat în palma Sa: \

@@ -1,0 +1,30 @@
+[title]
+One way - isus tu esti {author: {Hillsong United, Traducere RO}, {rcId: {4578}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Îmi pun viața-n mâna Ta
+Doamne Tu ești stânca mea
+Tu ești Domn în cer și pe pământ
+În ziua de necaz te caut
+Doamne Tu ești tot ce am
+Ești glorios, măreț, ești viu și sfânt
+
+[c]
+Isus Tu ești calea care înspre cer mă duce
+Isus Tu ești calea care Înspre cer mă duce
+
+[v2]
+Tu cu mine ești mereu
+Doamne Dumnezeul meu
+Niciodată singur nu mă lași
+Pentru veci ești neschimbat
+Dumnezeu adevărat
+De aceea eu mă-ncerd în Tin
+
+[e]
+Tu mă ridici, Tu mă înalți
+Tu mă duci, de rău mă scapi
+Isus, ești Salvatorul meu

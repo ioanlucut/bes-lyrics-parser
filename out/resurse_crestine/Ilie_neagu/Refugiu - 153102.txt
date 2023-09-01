@@ -1,0 +1,23 @@
+[title]
+Refugiu {author: {Ilie Neagu}, {rcId: {153102}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+/: Din încercările vieții,
+Doamne Tu m-ai izbăvit
+Și din ceasul tinereții,
+Brațul Tău m-a ocrotit. :/
+
+[c]
+/: Tu ești Stânca de scăpare
+Al meu loc de adăpost
+Un refugiu-n strâmtorare
+Doamne pentru mine ai fost. :/
+
+[v2]
+/: Zilnic Doamne m-ai condus,
+Și aproape Tu mi-ai stat
+Și din zori până-n apus,
+Viața mea Tu ai vegheat. :/

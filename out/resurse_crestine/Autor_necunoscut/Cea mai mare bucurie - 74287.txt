@@ -1,0 +1,23 @@
+[title]
+Cea mai mare bucurie {author: {Anonim}, {rcId: {74287}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Cea mai mare bucurie
+Am în casa Domnului.
+Cu toți frații în Isus, să cânt
+Dragostea Domnului Sfânt.
+
+[c]
+O, hai și tu; o, hai și tu:
+În casa Domnului meu.
+O, hai și tu, o, hai și tu:
+Să-I cântăm lui Dumnezeu.
+
+[v2]
+Cea mai mare bucurie
+Am în Casa Domnului.
+Să mulțumesc Domnului meu Sfânt
+Că prin El mântuit sunt.

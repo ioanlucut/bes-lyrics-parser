@@ -1,0 +1,30 @@
+[title]
+Curand curand isus va reveni {author: {Fratii Mocanu}, {rcId: {219845}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Curând, curând Isus va reveni
+Și vom pleca cu toți acasă.
+În tara unde este numai zi
+Și-o liniște aleasa.
+
+[c]
+:/ Oraș frumos, oraș frumos
+Ce strălucește glorios
+Cu ape vii, străzi aurii
+Cu cântec și eterne bucurii. :/
+
+[v2]
+Mai e puțin, mai este prea putin
+Dar pan’ atunci e lupta mare
+Dar într-o zi va fi un cer senin
+Și-un veșnic, dulce soare.
+
+[v3]
+Orice vrea, oricine vrea în cer
+Sa-și ’nalte-n sus privirile lucrate
+Dar nu uita averile nu pier
+În ceruri adunate.
+Amin!

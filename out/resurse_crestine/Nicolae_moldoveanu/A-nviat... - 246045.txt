@@ -1,0 +1,29 @@
+[title]
+A-nviat {author: {Nicolae Moldoveanu}, {rcId: {246045}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+/: A-nviat din morți Hristos,
+A-nviat, a-nviat! :/
+Cerul e mai luminos,
+Și pământul mai frumos,
+A-nviat din morți Hristos,
+Adevărat a înviat!
+
+[v2]
+/: A-nviat din morți,
+Isus a-nviat, a-nviat! :/
+Diavolul a fost răpus,
+Întunericul s-a dus,
+A-nviat din morți Isus,
+Adevărat a înviat!
+
+[v3]
+/: A-nviat din morți Hristos,
+A-nviat, a-nviat! :/
+Cântă imnul maestos,
+Îngeri sus și oameni jos,
+A-nviat din morți Hristos,
+Adevărat a înviat!

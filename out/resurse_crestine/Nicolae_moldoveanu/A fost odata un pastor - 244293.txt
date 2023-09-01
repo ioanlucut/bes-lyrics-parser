@@ -1,0 +1,35 @@
+[title]
+A fost odata un pastor {author: {Nicolae Moldoveanu}, {rcId: {244293}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+A fost odată un păstor
+Și-avea o turmă de popor,
+/: El îi iubea și le cânta,
+La Apa vieții-i adăpa! :/
+
+[v2]
+Le tot spunea, le tot cânta,
+Cântări ce nu se pot uita,
+/: De-un alt Păstor venit de sus,
+Acel Păstor preabun, Isus! :/
+
+[v3]
+Cum pentru noi El a murit,
+Pe lemnul crucii răstignit,
+/: Ca nouă viață să ne dea,
+Și să trăim prin jertfa Sa! :/
+
+[v4]
+Dar vai, tâlharii s-au lăsat
+Și oile le-a-mprăștiat,
+/: Iar pe Păstorul mult iubit,
+L-au omorât, l-au jefuit! :/
+
+[v5]
+Așa a fost, așa va fi,
+Ocări și cruci vor suferi,
+/: Aici în lumea cea de jos,
+Acei ce-nalță pe Hristos! :/

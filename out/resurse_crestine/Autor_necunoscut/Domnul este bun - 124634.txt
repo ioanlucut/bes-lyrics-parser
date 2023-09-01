@@ -1,0 +1,29 @@
+[title]
+Domnul este bun {author: {Anonim}, {rcId: {124634}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Domnul este bun
+Domnul este bun
+Domnul este bun
+El e bun cu mine.
+
+[v2]
+Ia păcatul meu
+Ia păcatul meu
+Ia păcatul meu
+El e bun cu mine.
+
+[v3]
+Acum sunt liber
+Acum sunt liber
+Acum sunt liber
+El e bun cu mine.
+
+[v4]
+Domnul este bun
+Ia păcatul meu
+Acum sunt liber
+El e bun cu mine.

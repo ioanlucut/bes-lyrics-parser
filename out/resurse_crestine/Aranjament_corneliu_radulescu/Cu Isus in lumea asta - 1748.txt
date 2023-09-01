@@ -1,0 +1,29 @@
+[title]
+Cu isus in lumea asta {author: {Aranjament Corneliu Radulescu}, {rcId: {1748}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cu Isus in lumea asta voi merge eu mereu;
+Inainte-I tara mea, inainte-I Dumnezeu.
+Chiar de calea Lui e-ngusta si plina de-incercari,
+Cu Isus ajunge-voi in vesnicii.
+
+[c]
+Doar Isus ne este calea-n tara bucuriilor,
+El este jertfa ce ne poarta spre limanul mult dorit!
+Doar Isus ne este calea-n tara bucuriilor,
+Crede-n El si-n veci tu vei fi fericit!
+
+[v2]
+Cand durerea te doboara, amice, nu uita,
+Inainte-i tara ta, inainte-I Dumnezeu;
+Tu atunci ridica-ti ochii si cere mila Sa
+Caci prin harul Sau El te va ajuta!
+
+[v3]
+Niciodata pe-a ta cale sa nu te uiti ’napoi,
+Inainte-I tara ta, inainte-I Dumnezeu;
+Vesnicia te asteapta, la dreapta Lui vei sta
+Caci El te va duce sus in tara Sa!

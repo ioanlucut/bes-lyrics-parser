@@ -1,0 +1,37 @@
+[title]
+Mi-e dor {author: {Daniel Briciu}, {rcId: {240353}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mi-e dor, atât de dor îmi e de Tine,
+Că noaptea mă trezesc plângând,
+Te-aștept atât de mult să vii la mine
+Pe nori de slavă în curând.
+
+[c]
+/: Te-aștept să vii, Mireasa te așteaptă,
+Suspină după Tine ne-ncetat
+Să vii la noi, din cerul Tău de slavă
+Tu, Mire drag, căci mult ești așteptat. :/
+/: Te-aștept să vii, Mireasa te așteaptă,
+Suspină după Tine ne-ncetat
+Să vii la noi, din cerul Tău de slavă
+Tu, Mire drag, căci mult ești așteptat. :/
+/: Te-aștept să vii, Mireasa te așteaptă,
+Suspină după Tine ne-ncetat
+Să vii la noi, din cerul Tău de slavă
+Tu, Mire drag, căci mult ești așteptat. :/
+
+[v2]
+Târziu, când toată lumea se-odihnește
+Eu glasul mi-l îndrept în sus.
+Te chem prin Duhul Sfânt să vii la mine
+Și-n veci să fii al meu, Isus.
+
+[v3]
+Aștept cu nerăbdare ziua-aceea
+Când Tu pe nori vei reveni
+Și-ți vei răpi atunci la ceruri
+Pe preaiubiții Tăi copii.

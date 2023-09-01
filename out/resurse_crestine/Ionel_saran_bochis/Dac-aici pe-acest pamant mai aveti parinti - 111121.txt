@@ -1,0 +1,35 @@
+[title]
+Dac-aici pe-acest pamant mai aveti parinti {author: {Ionel Saran Bochis}, {rcId: {111121}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Dac-aici pe-acest pământ mai aveți părinți
+Nu uitați să-i prețuiți cât voi m-ai trăiți
+Căci de-aici ei de vor pleca nu vei mai putea
+A lor vorbe dulci duioase nu vei auzea
+Întoarce-te dragul meu hai la Dumnezeu
+Numai rătăci prin lume vino Fiul meu.
+
+[c]
+Pentru tine fiul meu se rugau la Dumnezeu
+Se rugau la Dumnezeu să nu mergi pe drumul rău
+/: Doamne eu mă rog la Tine ai în paza Ta mereu
+A mea mamă și-al meu tată pe pământ cât mai trăiesc. :/
+
+[v2]
+Să nu uiți cumva vreodată nicicând omule
+Că ai mamă că ai tată nicicând fiule
+Căci ei te-au adus pe lume cu drag omule
+Ți-au dat viață ți-au dat nume dragă omule
+Te-au păzit de greu de foc pe tine mereu
+La Dumnezeu se rugau și cu drag vegheau.
+
+[v3]
+Dacă ești plecat departe de ai tăi părinți
+Dorul pe tine te-apasă ești printre străini
+Nu uita că ei la Tine mereu se gândesc
+Și nopțile nedormite cu greu le m-ai trec
+Prețuește-i cât mai sunt pe acest pământ
+Mâine poate n-or mai fii fiva prea târziu.

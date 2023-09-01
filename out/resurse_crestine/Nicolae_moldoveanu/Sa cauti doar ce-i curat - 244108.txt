@@ -1,0 +1,29 @@
+[title]
+Sa cauti doar ce-i curat {author: {Nicolae Moldoveanu}, {rcId: {244108}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Să cauți doar ce-i curat în viață,
+Precum albina-n calea sa.
+/: Când zboară peste orice floare,
+Privind mereu ne-ncrezătoare
+Și nu stă decât unde-i pare
+Curat nectarul care-I ia. :/
+
+[v2]
+Cum cerbul, cât i-ar fi de sete
+Mai suflă peste apa sa,
+/: Ca să-i împrăștie toți norii
+Izvorului curat ca zorii,
+Să-i simtă doar curați fiorii
+Seninului de unde bea. :/
+
+[v3]
+Cum porumbelul alb, ce cată
+Doar verde ramura s-o ia,
+/: Din orice flori, din orice vale
+Doar câte sunt curate, ia-le!
+Oricât de dragi privirii tale,
+De nu-s curate, nu lua! :/
