@@ -4,6 +4,7 @@ import fsExtra from 'fs-extra';
 import recursive from 'recursive-readdir';
 import dotenv from 'dotenv';
 import chalk from 'chalk';
+import { first, groupBy, isEmpty, size } from 'lodash';
 import { processOSFileAndConvertToTxt } from './src/opensongParser';
 import {
   COMMA,
@@ -12,7 +13,6 @@ import {
   NEW_LINE,
   TXT_EXTENSION,
 } from './src/constants';
-import { first, groupBy, isEmpty, size } from 'lodash';
 import { cleanBasicContent, cleanFilename } from './src/contentCleaner';
 
 dotenv.config();
@@ -79,7 +79,9 @@ const cleanOutputDirAndProcessFrom = async (
 
     const UNKNOWN_AUTHOR = 'Autor Necunoscut';
     if (
-      new RegExp(`(^Anon.*|^Necu.*| necun.*|\\?.*|Autor nec)`, 'gi').test(singleAuthor)
+      new RegExp(`(^Anon.*|^Necu.*| necun.*|\\?.*|Autor nec)`, 'gi').test(
+        singleAuthor,
+      )
     ) {
       return getPathForAuthor(UNKNOWN_AUTHOR);
     }
@@ -107,6 +109,20 @@ const cleanOutputDirAndProcessFrom = async (
   fs.writeFileSync(
     `${outputDir}/authors${TXT_EXTENSION}`,
     Object.keys(groupedSongs).sort().join(NEW_LINE),
+  );
+
+  fs.writeFileSync(
+    `${outputDir}/index.json`,
+    JSON.stringify(
+      Object.entries(groupedSongs)
+        .map(([authorPath, parsedSongsArray]) =>
+          parsedSongsArray.map(({ processed: { exportFileName, song } }) => ({
+            [song.rcId as string]: `${outputDir}/${authorPath}/${exportFileName}${TXT_EXTENSION}`,
+          })),
+        )
+        .flat()
+        .reduce((acc, curr) => ({ ...acc, ...curr }), {}),
+    ),
   );
 };
 
