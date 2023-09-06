@@ -4,7 +4,15 @@ import fsExtra from 'fs-extra';
 import recursive from 'recursive-readdir';
 import dotenv from 'dotenv';
 import chalk from 'chalk';
-import { first, groupBy, isEmpty, size } from 'lodash';
+import {
+  first,
+  groupBy,
+  isEmpty,
+  mapValues,
+  orderBy,
+  size,
+  take,
+} from 'lodash';
 import { processOSFileAndConvertToTxt } from './src/opensongParser';
 import {
   COMMA,
@@ -32,7 +40,7 @@ const cleanOutputDirAndProcessFrom = async (
 ) => {
   fsExtra.emptyDirSync(outputDir);
 
-  const parsedSongs = (await recursive(sourceDir, FILES_TO_IGNORE))
+  const parsedSongs = take(await recursive(sourceDir, FILES_TO_IGNORE), 16000)
     .filter((filePath) => !path.basename(filePath).includes('Icon'))
     .filter((filePath) =>
       !isEmpty(songIds)
@@ -72,7 +80,7 @@ const cleanOutputDirAndProcessFrom = async (
         ?.filter((candidate) => !AUTHORS_TO_IGNORE.includes(candidate)) || [];
 
     if (size(authors) > 1) {
-      return getPathForAuthor(authors.join(`${COMMA}${EMPTY_SPACE}`));
+      return authors.join(`${COMMA}${EMPTY_SPACE}`);
     }
 
     const singleAuthor = first(authors) as string;
@@ -83,16 +91,14 @@ const cleanOutputDirAndProcessFrom = async (
         singleAuthor,
       )
     ) {
-      return getPathForAuthor(UNKNOWN_AUTHOR);
+      return UNKNOWN_AUTHOR;
     }
 
-    return getPathForAuthor(singleAuthor)
-      ? getPathForAuthor(singleAuthor)
-      : getPathForAuthor(UNKNOWN_AUTHOR);
+    return singleAuthor ? singleAuthor : UNKNOWN_AUTHOR;
   });
 
-  Object.entries(groupedSongs).forEach(([authorPath, parsedSongsArray]) => {
-    const authorDir = `${outputDir}/${authorPath}`;
+  Object.entries(groupedSongs).forEach(([author, parsedSongsArray]) => {
+    const authorDir = `${outputDir}/${getPathForAuthor(author)}`;
 
     fsExtra.ensureDirSync(authorDir);
 
@@ -106,18 +112,36 @@ const cleanOutputDirAndProcessFrom = async (
     );
   });
 
+  const groupedSongsWithCounts = mapValues(
+    groupedSongs,
+    (parsedSongsArray) => parsedSongsArray.length,
+  );
   fs.writeFileSync(
     `${outputDir}/authors${TXT_EXTENSION}`,
-    Object.keys(groupedSongs).sort().join(NEW_LINE),
+    orderBy(
+      Object.keys(groupedSongs),
+      (author) => {
+        return groupedSongsWithCounts[author];
+      },
+      ['desc'],
+    )
+      .map((author) => {
+        return `${groupedSongsWithCounts[author]}:${author}:${getPathForAuthor(
+          author,
+        )}`;
+      })
+      .join(NEW_LINE),
   );
 
   fs.writeFileSync(
     `${outputDir}/index.json`,
     JSON.stringify(
       Object.entries(groupedSongs)
-        .map(([authorPath, parsedSongsArray]) =>
+        .map(([author, parsedSongsArray]) =>
           parsedSongsArray.map(({ processed: { exportFileName, song } }) => ({
-            [song.rcId as string]: `${outputDir}/${authorPath}/${exportFileName}${TXT_EXTENSION}`,
+            [`${song.rcId}`]: `${outputDir}/${getPathForAuthor(
+              author,
+            )}/${exportFileName}${TXT_EXTENSION}`,
           })),
         )
         .flat()
