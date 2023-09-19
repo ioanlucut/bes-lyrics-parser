@@ -1,5 +1,5 @@
 [title]
-Edenul meu {author: {Necunoscut}, {rcId: {169522}}
+Edenul meu {composer: {Necunoscut}, {rcId: {169522}}
 
 [sequence]
 v1,c,v2,c,v3,c

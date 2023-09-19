@@ -1,5 +1,5 @@
 [title]
-Cei ce nu ard in focul sacru {author: {Anonim}, {rcId: {6253}}
+Cei ce nu ard in focul sacru {composer: {Anonim}, {rcId: {6253}}
 
 [sequence]
 v1,c,v2,c,v3,c2

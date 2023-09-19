@@ -1,5 +1,5 @@
 [title]
-Fericit in orice zi {author: {Anonim}, {rcId: {847}}
+Fericit in orice zi {composer: {Anonim}, {rcId: {847}}
 
 [sequence]
 v1,c,v2,c,v3,c

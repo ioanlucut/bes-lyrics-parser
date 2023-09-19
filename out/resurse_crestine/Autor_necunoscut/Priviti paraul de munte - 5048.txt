@@ -1,5 +1,5 @@
 [title]
-Priviti paraul de munte {author: {Anonim}, {rcId: {5048}}
+Priviti paraul de munte {composer: {Anonim}, {rcId: {5048}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Dragoste dragoste {author: {Grupul Ava}, {rcId: {96391}}
+Dragoste dragoste {composer: {Grupul Ava}, {rcId: {96391}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

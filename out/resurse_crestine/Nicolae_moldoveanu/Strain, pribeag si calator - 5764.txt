@@ -1,5 +1,5 @@
 [title]
-Strain pribeag si calator {author: {Nicolae Moldoveanu}, {rcId: {5764}}
+Strain pribeag si calator {composer: {Nicolae Moldoveanu}, {rcId: {5764}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

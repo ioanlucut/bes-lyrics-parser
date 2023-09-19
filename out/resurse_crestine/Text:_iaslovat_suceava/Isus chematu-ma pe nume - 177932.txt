@@ -1,5 +1,5 @@
 [title]
-Isus chematu-ma pe nume {author: {Text: Iaslovăț, Suceava}, {rcId: {177932}}
+Isus chematu-ma pe nume {composer: {Text: Iaslovăț, Suceava}, {rcId: {177932}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,e

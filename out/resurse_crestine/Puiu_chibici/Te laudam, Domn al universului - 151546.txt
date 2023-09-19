@@ -1,5 +1,5 @@
 [title]
-Te laudam domn al universului {author: {Puiu Chibici}, {rcId: {151546}}
+Te laudam domn al universului {composer: {Puiu Chibici}, {rcId: {151546}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

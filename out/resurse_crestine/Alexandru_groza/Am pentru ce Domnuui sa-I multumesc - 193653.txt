@@ -1,5 +1,5 @@
 [title]
-Am pentru ce domnuui sa-i multumesc {author: {Alexandru Groza}, {rcId: {193653}}
+Am pentru ce domnuui sa-i multumesc {composer: {Alexandru Groza}, {rcId: {193653}}
 
 [sequence]
 v1,c,c,v2,c

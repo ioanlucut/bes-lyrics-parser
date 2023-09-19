@@ -1,5 +1,5 @@
 [title]
-Ce limpede scriptura spune sa nu iubim aceasta lume {author: {Rusu Nicolae}, {rcId: {213673}}
+Ce limpede scriptura spune sa nu iubim aceasta lume {composer: {Rusu Nicolae}, {rcId: {213673}}
 
 [sequence]
 v1,c,v2,c,v3,c

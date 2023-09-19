@@ -1,5 +1,5 @@
 [title]
-Azi cu barca vietii {author: {Florin de la Targoviste}, {rcId: {55565}}
+Azi cu barca vietii {composer: {Florin de la Targoviste}, {rcId: {55565}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

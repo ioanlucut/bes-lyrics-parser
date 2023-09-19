@@ -1,5 +1,5 @@
 [title]
-Din bolta instelata {author: {Daniela Haidaciuc}, {rcId: {172400}}
+Din bolta instelata {composer: {Daniela Haidaciuc}, {rcId: {172400}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

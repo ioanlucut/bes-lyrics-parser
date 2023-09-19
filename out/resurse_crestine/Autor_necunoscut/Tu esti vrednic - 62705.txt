@@ -1,5 +1,5 @@
 [title]
-Tu esti vrednic {author: {Anonim}, {rcId: {62705}}
+Tu esti vrednic {composer: {Anonim}, {rcId: {62705}}
 
 [sequence]
 v1,c,v2,c

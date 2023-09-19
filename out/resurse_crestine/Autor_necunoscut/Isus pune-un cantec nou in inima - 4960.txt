@@ -1,5 +1,5 @@
 [title]
-Isus pune-un cantec nou in inima {author: {Anonim}, {rcId: {4960}}
+Isus pune-un cantec nou in inima {composer: {Anonim}, {rcId: {4960}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Stam in a ta prezenta {author: {Anonim}, {rcId: {194231}}
+Stam in a ta prezenta {composer: {Anonim}, {rcId: {194231}}
 
 [sequence]
 v1,c

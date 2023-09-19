@@ -1,5 +1,5 @@
 [title]
-Ma intreb {author: {Anonim}, {rcId: {1481}}
+Ma intreb {composer: {Anonim}, {rcId: {1481}}
 
 [sequence]
 v1,c

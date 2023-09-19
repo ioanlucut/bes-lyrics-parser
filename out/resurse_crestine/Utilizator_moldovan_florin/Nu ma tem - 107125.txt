@@ -1,5 +1,5 @@
 [title]
-Nu ma tem {author: {Utilizator Moldovan Florin}, {rcId: {107125}}
+Nu ma tem {composer: {Utilizator Moldovan Florin}, {rcId: {107125}}
 
 [sequence]
 v1,c,v2,c

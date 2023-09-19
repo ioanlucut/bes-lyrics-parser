@@ -1,5 +1,5 @@
 [title]
-Am iesit din lume dar lumea e in noi {author: {Anonim}, {rcId: {78423}}
+Am iesit din lume dar lumea e in noi {composer: {Anonim}, {rcId: {78423}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

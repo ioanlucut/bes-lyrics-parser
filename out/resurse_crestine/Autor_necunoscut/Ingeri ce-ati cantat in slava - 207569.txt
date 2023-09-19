@@ -1,5 +1,5 @@
 [title]
-Ingeri ce-ati cantat in slava {author: {Anonim}, {rcId: {207569}}
+Ingeri ce-ati cantat in slava {composer: {Anonim}, {rcId: {207569}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

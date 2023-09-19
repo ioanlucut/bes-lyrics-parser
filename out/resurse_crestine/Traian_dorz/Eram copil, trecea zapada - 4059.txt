@@ -1,5 +1,5 @@
 [title]
-Eram copil trecea zapada {author: {Traian Dorz}, {rcId: {4059}}
+Eram copil trecea zapada {composer: {Traian Dorz}, {rcId: {4059}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

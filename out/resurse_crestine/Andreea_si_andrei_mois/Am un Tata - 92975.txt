@@ -1,5 +1,5 @@
 [title]
-Am un tata {author: {Andreea și Andrei Mois}, {rcId: {92975}}
+Am un tata {composer: {Andreea și Andrei Mois}, {rcId: {92975}}
 
 [sequence]
 v1,c,v2,c,e

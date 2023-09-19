@@ -1,5 +1,5 @@
 [title]
-Pe cararea care duce-n ghetimani {author: {Daniel Briciu}, {rcId: {240360}}
+Pe cararea care duce-n ghetimani {composer: {Daniel Briciu}, {rcId: {240360}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c2

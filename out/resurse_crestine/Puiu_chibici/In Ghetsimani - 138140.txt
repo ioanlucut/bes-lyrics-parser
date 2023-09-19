@@ -1,5 +1,5 @@
 [title]
-In ghetsimani {author: {Puiu Chibici}, {rcId: {138140}}
+In ghetsimani {composer: {Puiu Chibici}, {rcId: {138140}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Ieslea rece {author: {Cristi și Emma Repede}, {rcId: {156994}}
+Ieslea rece {composer: {Cristi și Emma Repede}, {rcId: {156994}}
 
 [sequence]
 v1,c,v2,c,e

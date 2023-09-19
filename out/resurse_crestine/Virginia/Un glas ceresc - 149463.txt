@@ -1,5 +1,5 @@
 [title]
-Un glas ceresc {author: {Virginia}, {rcId: {149463}}
+Un glas ceresc {composer: {Virginia}, {rcId: {149463}}
 
 [sequence]
 v1,c,v2,c,v3,c

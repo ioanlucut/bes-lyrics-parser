@@ -1,5 +1,5 @@
 [title]
-In noaptea sfanta {author: {Andrei Rosu}, {rcId: {117435}}
+In noaptea sfanta {composer: {Andrei Rosu}, {rcId: {117435}}
 
 [sequence]
 v1,v2,v3,v4

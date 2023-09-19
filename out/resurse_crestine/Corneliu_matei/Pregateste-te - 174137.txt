@@ -1,5 +1,5 @@
 [title]
-Pregateste-te {author: {Corneliu Matei}, {rcId: {174137}}
+Pregateste-te {composer: {Corneliu Matei}, {rcId: {174137}}
 
 [sequence]
 v1,c,v2,c

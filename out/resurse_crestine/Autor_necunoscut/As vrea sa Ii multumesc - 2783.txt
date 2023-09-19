@@ -1,5 +1,5 @@
 [title]
-As vrea sa ii multumesc {author: {Anonim}, {rcId: {2783}}
+As vrea sa ii multumesc {composer: {Anonim}, {rcId: {2783}}
 
 [sequence]
 v1,c,v2,c

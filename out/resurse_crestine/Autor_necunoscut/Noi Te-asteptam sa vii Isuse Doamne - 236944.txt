@@ -1,5 +1,5 @@
 [title]
-Noi te-asteptam sa vii isuse doamne {author: {Anonim}, {rcId: {236944}}
+Noi te-asteptam sa vii isuse doamne {composer: {Anonim}, {rcId: {236944}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

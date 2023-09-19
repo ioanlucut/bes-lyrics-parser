@@ -1,5 +1,5 @@
 [title]
-Se-apropie vremea cantarii {author: {Anonim}, {rcId: {203690}}
+Se-apropie vremea cantarii {composer: {Anonim}, {rcId: {203690}}
 
 [sequence]
 v1

@@ -1,5 +1,5 @@
 [title]
-De ce-ai uitat ca-n incercare {author: {Otniel Stirb}, {rcId: {131576}}
+De ce-ai uitat ca-n incercare {composer: {Otniel Stirb}, {rcId: {131576}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Ce mare e dumnezeu {author: {Anonim}, {rcId: {159212}}
+Ce mare e dumnezeu {composer: {Anonim}, {rcId: {159212}}
 
 [sequence]
 c,v1,c,v1,c

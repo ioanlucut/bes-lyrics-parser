@@ -1,5 +1,5 @@
 [title]
-O viata noua {author: {Anonim}, {rcId: {2858}}
+O viata noua {composer: {Anonim}, {rcId: {2858}}
 
 [sequence]
 v1,c,e

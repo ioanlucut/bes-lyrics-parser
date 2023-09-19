@@ -1,5 +1,5 @@
 [title]
-Ruga pentru generatie {author: {Otto Pascal}, {rcId: {218254}}
+Ruga pentru generatie {composer: {Otto Pascal}, {rcId: {218254}}
 
 [sequence]
 v1,b,c,v2,b2,c

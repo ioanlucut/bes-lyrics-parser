@@ -1,5 +1,5 @@
 [title]
-Cartile noului testament {author: {Anonim}, {rcId: {188811}}
+Cartile noului testament {composer: {Anonim}, {rcId: {188811}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

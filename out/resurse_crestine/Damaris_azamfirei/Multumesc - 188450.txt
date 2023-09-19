@@ -1,5 +1,5 @@
 [title]
-Multumesc {author: {Damaris Azamfirei}, {rcId: {188450}}
+Multumesc {composer: {Damaris Azamfirei}, {rcId: {188450}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

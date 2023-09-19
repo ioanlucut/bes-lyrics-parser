@@ -1,5 +1,5 @@
 [title]
-Voi veti fi bucurosi {author: {Anonim}, {rcId: {5123}}
+Voi veti fi bucurosi {composer: {Anonim}, {rcId: {5123}}
 
 [sequence]
 v1,c,v2,c

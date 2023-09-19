@@ -1,5 +1,5 @@
 [title]
-Ramane in urma cetatea strabuna {author: {Ilie Mandici}, {rcId: {188975}}
+Ramane in urma cetatea strabuna {composer: {Ilie Mandici}, {rcId: {188975}}
 
 [sequence]
 v1,v2,v3,v4

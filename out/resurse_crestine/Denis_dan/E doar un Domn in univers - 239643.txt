@@ -1,5 +1,5 @@
 [title]
-E doar un domn in univers {author: {Denis Dan}, {rcId: {239643}}
+E doar un domn in univers {composer: {Denis Dan}, {rcId: {239643}}
 
 [sequence]
 v1,c,v2,c,v3,c

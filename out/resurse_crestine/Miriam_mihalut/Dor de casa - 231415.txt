@@ -1,5 +1,5 @@
 [title]
-Dor de casa {author: {Miriam Mihalut}, {rcId: {231415}}
+Dor de casa {composer: {Miriam Mihalut}, {rcId: {231415}}
 
 [sequence]
 v1,v0,v2,v3,v4,v5

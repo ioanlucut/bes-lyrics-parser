@@ -1,5 +1,5 @@
 [title]
-De-atata vreme te-am chemat {author: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {210619}}
+De-atata vreme te-am chemat {composer: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {210619}}
 
 [sequence]
 v1,c,v2,c,v3,c

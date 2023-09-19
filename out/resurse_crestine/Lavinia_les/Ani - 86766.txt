@@ -1,5 +1,5 @@
 [title]
-Ani {author: {Lavinia Leș}, {rcId: {86766}}
+Ani {composer: {Lavinia Leș}, {rcId: {86766}}
 
 [sequence]
 v1,c,v2,c,v3,c

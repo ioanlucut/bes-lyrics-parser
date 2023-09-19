@@ -1,5 +1,5 @@
 [title]
-Fii sfant cum e domnul {author: {George C.Stebbins}, {rcId: {1843}}
+Fii sfant cum e domnul {composer: {George C.Stebbins}, {rcId: {1843}}
 
 [sequence]
 v1,v2,v3

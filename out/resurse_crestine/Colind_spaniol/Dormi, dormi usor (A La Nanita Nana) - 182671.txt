@@ -1,5 +1,5 @@
 [title]
-Dormi dormi usor (a la nanita nana) {author: {Colind spaniol, Traducere RO}, {rcId: {182671}}
+Dormi dormi usor (a la nanita nana) {composer: {Colind spaniol, Traducere RO}, {rcId: {182671}}
 
 [sequence]
 v1,v2,s

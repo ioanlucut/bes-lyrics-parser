@@ -1,5 +1,5 @@
 [title]
-De te mai zbati {author: {Nicolae Moldoveanu}, {rcId: {246043}}
+De te mai zbati {composer: {Nicolae Moldoveanu}, {rcId: {246043}}
 
 [sequence]
 v1,v2,v3,v4,v5

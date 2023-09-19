@@ -1,5 +1,5 @@
 [title]
-Biruitor spre biruinta {author: {Fanny J. Crosby}, {rcId: {136161}}
+Biruitor spre biruinta {composer: {Fanny J. Crosby}, {rcId: {136161}}
 
 [sequence]
 v1,c,v2,c,v3,c

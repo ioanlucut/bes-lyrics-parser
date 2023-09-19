@@ -1,5 +1,5 @@
 [title]
-Suntem in a lui armata {author: {Anonim}, {rcId: {5081}}
+Suntem in a lui armata {composer: {Anonim}, {rcId: {5081}}
 
 [sequence]
 v1,v2

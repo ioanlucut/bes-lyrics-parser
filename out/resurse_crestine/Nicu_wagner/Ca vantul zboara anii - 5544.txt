@@ -1,5 +1,5 @@
 [title]
-Ca vantul zboara anii {author: {Nicu Wagner}, {rcId: {5544}}
+Ca vantul zboara anii {composer: {Nicu Wagner}, {rcId: {5544}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

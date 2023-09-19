@@ -1,5 +1,5 @@
 [title]
-Iubirea {author: {Andrei Ciurdas}, {rcId: {149866}}
+Iubirea {composer: {Andrei Ciurdas}, {rcId: {149866}}
 
 [sequence]
 v1,c,v2,c

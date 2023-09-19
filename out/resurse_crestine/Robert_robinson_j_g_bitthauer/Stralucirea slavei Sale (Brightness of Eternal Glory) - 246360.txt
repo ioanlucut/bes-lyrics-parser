@@ -1,5 +1,5 @@
 [title]
-Stralucirea slavei sale (brightness of eternal glory) {author: {Robert Robinson, J. G. Bitthauer, Traducere RO}, {rcId: {246360}}
+Stralucirea slavei sale (brightness of eternal glory) {composer: {Robert Robinson, J. G. Bitthauer, Traducere RO}, {rcId: {246360}}
 
 [sequence]
 v1,v2,v3

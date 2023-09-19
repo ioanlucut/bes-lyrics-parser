@@ -1,5 +1,5 @@
 [title]
-Multa pace am gasit {author: {Anonim}, {rcId: {107295}}
+Multa pace am gasit {composer: {Anonim}, {rcId: {107295}}
 
 [sequence]
 v1,b,c,v2,c,e

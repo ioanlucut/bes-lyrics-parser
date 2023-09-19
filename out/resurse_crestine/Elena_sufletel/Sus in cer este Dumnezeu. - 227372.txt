@@ -1,5 +1,5 @@
 [title]
-Sus in cer este dumnezeu {author: {Elena Sufletel}, {rcId: {227372}}
+Sus in cer este dumnezeu {composer: {Elena Sufletel}, {rcId: {227372}}
 
 [sequence]
 v1,c,v2,c,v3,c

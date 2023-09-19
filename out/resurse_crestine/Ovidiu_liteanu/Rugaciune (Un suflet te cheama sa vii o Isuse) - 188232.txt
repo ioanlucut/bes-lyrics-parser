@@ -1,5 +1,5 @@
 [title]
-Rugaciune (un suflet te cheama sa vii o isuse) {author: {Ovidiu Liteanu}, {rcId: {188232}}
+Rugaciune (un suflet te cheama sa vii o isuse) {composer: {Ovidiu Liteanu}, {rcId: {188232}}
 
 [sequence]
 v1,v2,v3,v4

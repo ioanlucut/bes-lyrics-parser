@@ -1,5 +1,5 @@
 [title]
-Chemarea sfanta astazi mai rasuna {author: {Tania Pintilie}, {rcId: {238488}}
+Chemarea sfanta astazi mai rasuna {composer: {Tania Pintilie}, {rcId: {238488}}
 
 [sequence]
 v1,c,v2,c,v3,c

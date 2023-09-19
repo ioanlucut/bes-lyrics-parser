@@ -1,5 +1,5 @@
 [title]
-Isuse sa fiu dupa inima ta {author: {Nicolae Moldoveanu}, {rcId: {190330}}
+Isuse sa fiu dupa inima ta {composer: {Nicolae Moldoveanu}, {rcId: {190330}}
 
 [sequence]
 v1,v2,v3,v4,v5

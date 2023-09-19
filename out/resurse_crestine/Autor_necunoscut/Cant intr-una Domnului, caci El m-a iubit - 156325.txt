@@ -1,5 +1,5 @@
 [title]
-Cant intr-una domnului caci el m-a iubit {author: {Anonim}, {rcId: {156325}}
+Cant intr-una domnului caci el m-a iubit {composer: {Anonim}, {rcId: {156325}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Domnul in ceruri domneste {author: {Contrast, 3, 2, 1}, {rcId: {93389}}
+Domnul in ceruri domneste {composer: {Contrast, 3, 2, 1}, {rcId: {93389}}
 
 [sequence]
 v1,b,c

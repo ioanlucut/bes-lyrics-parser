@@ -1,5 +1,5 @@
 [title]
-Binecuvantata-i viata {author: {Octavian Luncan}, {rcId: {884}}
+Binecuvantata-i viata {composer: {Octavian Luncan}, {rcId: {884}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

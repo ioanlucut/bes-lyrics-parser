@@ -1,5 +1,5 @@
 [title]
-Nu te opri in incercare {author: {Mirela Ursulescu}, {rcId: {168831}}
+Nu te opri in incercare {composer: {Mirela Ursulescu}, {rcId: {168831}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

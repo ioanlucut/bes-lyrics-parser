@@ -1,5 +1,5 @@
 [title]
-Nu e mai frumos nici mai de folos {author: {Fratii Pal}, {rcId: {238547}}
+Nu e mai frumos nici mai de folos {composer: {Fratii Pal}, {rcId: {238547}}
 
 [sequence]
 v1,c,v2,c,v3,c

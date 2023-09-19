@@ -1,5 +1,5 @@
 [title]
-De ce sa nu pot sa merg fara frica {author: {Beni Cibu}, {rcId: {192391}}
+De ce sa nu pot sa merg fara frica {composer: {Beni Cibu}, {rcId: {192391}}
 
 [sequence]
 v1,c,v2,c,v3,c

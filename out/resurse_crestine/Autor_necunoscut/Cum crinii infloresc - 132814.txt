@@ -1,5 +1,5 @@
 [title]
-Cum crinii infloresc {author: {Anonim}, {rcId: {132814}}
+Cum crinii infloresc {composer: {Anonim}, {rcId: {132814}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

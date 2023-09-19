@@ -1,5 +1,5 @@
 [title]
-Atinge-te de noi {author: {Daniel Dinescu}, {rcId: {126112}}
+Atinge-te de noi {composer: {Daniel Dinescu}, {rcId: {126112}}
 
 [sequence]
 v1,c,v2,c,v3,c

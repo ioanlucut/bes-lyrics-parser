@@ -1,5 +1,5 @@
 [title]
-Unde-i dragostea? {author: {Estera Florescu}, {rcId: {190617}}
+Unde-i dragostea? {composer: {Estera Florescu}, {rcId: {190617}}
 
 [sequence]
 v1,c,v2,c

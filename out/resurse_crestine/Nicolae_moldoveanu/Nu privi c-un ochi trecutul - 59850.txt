@@ -1,5 +1,5 @@
 [title]
-Nu privi c-un ochi trecutul {author: {Nicolae Moldoveanu}, {rcId: {59850}}
+Nu privi c-un ochi trecutul {composer: {Nicolae Moldoveanu}, {rcId: {59850}}
 
 [sequence]
 v1,v2,v3,v4

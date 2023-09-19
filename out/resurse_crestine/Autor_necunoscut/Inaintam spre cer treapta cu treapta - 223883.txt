@@ -1,5 +1,5 @@
 [title]
-Inaintam spre cer treapta cu treapta {author: {Anonim}, {rcId: {223883}}
+Inaintam spre cer treapta cu treapta {composer: {Anonim}, {rcId: {223883}}
 
 [sequence]
 v1

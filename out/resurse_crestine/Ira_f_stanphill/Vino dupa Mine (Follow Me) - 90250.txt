@@ -1,5 +1,5 @@
 [title]
-Vino dupa mine (follow me) {author: {Ira F. Stanphill, Traducere RO}, {rcId: {90250}}
+Vino dupa mine (follow me) {composer: {Ira F. Stanphill, Traducere RO}, {rcId: {90250}}
 
 [sequence]
 v1,c,v2,c2,s,c2

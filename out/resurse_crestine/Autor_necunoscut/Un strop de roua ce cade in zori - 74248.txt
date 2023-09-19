@@ -1,5 +1,5 @@
 [title]
-Un strop de roua ce cade in zori {author: {Anonim}, {rcId: {74248}}
+Un strop de roua ce cade in zori {composer: {Anonim}, {rcId: {74248}}
 
 [sequence]
 v1,c,v2,c,v3,c

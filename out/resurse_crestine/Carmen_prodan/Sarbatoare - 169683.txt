@@ -1,5 +1,5 @@
 [title]
-Sarbatoare {author: {Carmen Prodan}, {rcId: {169683}}
+Sarbatoare {composer: {Carmen Prodan}, {rcId: {169683}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-In tara de vis in paradis {author: {Anonim}, {rcId: {104076}}
+In tara de vis in paradis {composer: {Anonim}, {rcId: {104076}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

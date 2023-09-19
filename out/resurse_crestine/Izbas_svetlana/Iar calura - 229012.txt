@@ -1,5 +1,5 @@
 [title]
-Iar calura {author: {Izbaș Svetlana}, {rcId: {229012}}
+Iar calura {composer: {Izbaș Svetlana}, {rcId: {229012}}
 
 [sequence]
 v1

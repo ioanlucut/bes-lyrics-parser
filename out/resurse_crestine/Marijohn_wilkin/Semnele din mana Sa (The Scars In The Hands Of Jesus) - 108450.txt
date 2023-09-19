@@ -1,5 +1,5 @@
 [title]
-Semnele din mana sa (the scars in the hands of jesus) {author: {Marijohn Wilkin, Traducere RO}, {rcId: {108450}}
+Semnele din mana sa (the scars in the hands of jesus) {composer: {Marijohn Wilkin, Traducere RO}, {rcId: {108450}}
 
 [sequence]
 v1,c,v2,c

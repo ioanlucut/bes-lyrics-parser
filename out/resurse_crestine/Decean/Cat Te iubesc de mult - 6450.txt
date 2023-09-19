@@ -1,5 +1,5 @@
 [title]
-Cat te iubesc de mult {author: {Decean}, {rcId: {6450}}
+Cat te iubesc de mult {composer: {Decean}, {rcId: {6450}}
 
 [sequence]
 v1,c,e,v2,c

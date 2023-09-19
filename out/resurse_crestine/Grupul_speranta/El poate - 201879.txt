@@ -1,5 +1,5 @@
 [title]
-El poate {author: {Grupul Speranta}, {rcId: {201879}}
+El poate {composer: {Grupul Speranta}, {rcId: {201879}}
 
 [sequence]
 v1,v2,v3,v4,c

@@ -1,5 +1,5 @@
 [title]
-Venim la tine doamne {author: {Anonim}, {rcId: {4089}}
+Venim la tine doamne {composer: {Anonim}, {rcId: {4089}}
 
 [sequence]
 v1,c

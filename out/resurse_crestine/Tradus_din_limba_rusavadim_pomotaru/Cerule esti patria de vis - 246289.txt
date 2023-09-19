@@ -1,5 +1,5 @@
 [title]
-Cerule esti patria de vis {author: {Tradus din limba Rusă.Vadim Pomotaru}, {rcId: {246289}}
+Cerule esti patria de vis {composer: {Tradus din limba Rusă.Vadim Pomotaru}, {rcId: {246289}}
 
 [sequence]
 v1,c,v2,c,v3,c

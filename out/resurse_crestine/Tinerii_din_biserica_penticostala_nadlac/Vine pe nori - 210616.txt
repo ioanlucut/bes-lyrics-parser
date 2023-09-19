@@ -1,5 +1,5 @@
 [title]
-Vine pe nori {author: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {210616}}
+Vine pe nori {composer: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {210616}}
 
 [sequence]
 v1,c,v2,c

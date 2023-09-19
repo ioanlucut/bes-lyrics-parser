@@ -1,5 +1,5 @@
 [title]
-Asa cum sunt la tine vin - da-mi curaj {author: {Beni Moldovan}, {rcId: {60552}}
+Asa cum sunt la tine vin - da-mi curaj {composer: {Beni Moldovan}, {rcId: {60552}}
 
 [sequence]
 v1,c,v2,c,v3,c

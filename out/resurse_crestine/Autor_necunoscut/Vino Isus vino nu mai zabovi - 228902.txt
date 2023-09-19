@@ -1,5 +1,5 @@
 [title]
-Vino isus vino nu mai zabovi {author: {Anonim}, {rcId: {228902}}
+Vino isus vino nu mai zabovi {composer: {Anonim}, {rcId: {228902}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-El e aici {author: {Adriana Stoica}, {rcId: {178277}}
+El e aici {composer: {Adriana Stoica}, {rcId: {178277}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Pastreaza tineretea curata {author: {Ilie Neagu}, {rcId: {86681}}
+Pastreaza tineretea curata {composer: {Ilie Neagu}, {rcId: {86681}}
 
 [sequence]
 v1,c,v2,c,v3,c

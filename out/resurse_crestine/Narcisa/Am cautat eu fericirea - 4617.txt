@@ -1,5 +1,5 @@
 [title]
-Am cautat eu fericirea {author: {Narcisa}, {rcId: {4617}}
+Am cautat eu fericirea {composer: {Narcisa}, {rcId: {4617}}
 
 [sequence]
 v1,c,v2,c

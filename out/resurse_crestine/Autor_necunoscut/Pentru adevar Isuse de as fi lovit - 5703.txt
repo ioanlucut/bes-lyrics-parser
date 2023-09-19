@@ -1,5 +1,5 @@
 [title]
-Pentru adevar isuse de as fi lovit {author: {Anonim}, {rcId: {5703}}
+Pentru adevar isuse de as fi lovit {composer: {Anonim}, {rcId: {5703}}
 
 [sequence]
 v1,v2,v3,v4,v5

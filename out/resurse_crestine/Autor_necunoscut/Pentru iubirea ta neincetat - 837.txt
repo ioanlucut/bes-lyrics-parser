@@ -1,5 +1,5 @@
 [title]
-Pentru iubirea ta neincetat {author: {Anonim}, {rcId: {837}}
+Pentru iubirea ta neincetat {composer: {Anonim}, {rcId: {837}}
 
 [sequence]
 v1,c,v2,c,v3,c

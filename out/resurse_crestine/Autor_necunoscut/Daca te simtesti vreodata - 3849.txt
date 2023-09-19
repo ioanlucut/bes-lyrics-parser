@@ -1,5 +1,5 @@
 [title]
-Daca te simtesti vreodata {author: {Anonim}, {rcId: {3849}}
+Daca te simtesti vreodata {composer: {Anonim}, {rcId: {3849}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

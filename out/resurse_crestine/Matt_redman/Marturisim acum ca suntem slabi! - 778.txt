@@ -1,5 +1,5 @@
 [title]
-Marturisim acum ca suntem slabi {author: {Matt Redman}, {rcId: {778}}
+Marturisim acum ca suntem slabi {composer: {Matt Redman}, {rcId: {778}}
 
 [sequence]
 v1,b,c

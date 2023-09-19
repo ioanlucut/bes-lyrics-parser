@@ -1,5 +1,5 @@
 [title]
-Credinta-i puterea {author: {Unknown author}, {rcId: {237320}}
+Credinta-i puterea {composer: {Unknown author}, {rcId: {237320}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,v4,c,v5,c

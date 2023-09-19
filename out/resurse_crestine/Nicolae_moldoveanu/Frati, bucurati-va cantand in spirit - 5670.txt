@@ -1,5 +1,5 @@
 [title]
-Frati bucurati-va cantand in spirit {author: {Nicolae Moldoveanu}, {rcId: {5670}}
+Frati bucurati-va cantand in spirit {composer: {Nicolae Moldoveanu}, {rcId: {5670}}
 
 [sequence]
 v1,v2,v3

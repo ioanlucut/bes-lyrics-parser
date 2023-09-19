@@ -1,5 +1,5 @@
 [title]
-Cat de dor mi-a fost de tine {author: {Anonim}, {rcId: {156328}}
+Cat de dor mi-a fost de tine {composer: {Anonim}, {rcId: {156328}}
 
 [sequence]
 v1,c,v2,c,v3,c

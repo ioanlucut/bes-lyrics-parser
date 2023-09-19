@@ -1,5 +1,5 @@
 [title]
-Fiindca atat de mult {author: {Grup Eldad}, {rcId: {176808}}
+Fiindca atat de mult {composer: {Grup Eldad}, {rcId: {176808}}
 
 [sequence]
 v1,c,v2,c,v3,c

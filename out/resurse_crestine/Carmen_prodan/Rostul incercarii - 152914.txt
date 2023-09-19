@@ -1,5 +1,5 @@
 [title]
-Rostul incercarii {author: {Carmen Prodan}, {rcId: {152914}}
+Rostul incercarii {composer: {Carmen Prodan}, {rcId: {152914}}
 
 [sequence]
 v1,v2,v3

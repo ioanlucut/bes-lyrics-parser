@@ -1,5 +1,5 @@
 [title]
-Privesc spre ghetsimani si golgota {author: {Alexandru Groza}, {rcId: {185031}}
+Privesc spre ghetsimani si golgota {composer: {Alexandru Groza}, {rcId: {185031}}
 
 [sequence]
 v1,c,c,v2,c

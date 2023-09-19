@@ -1,5 +1,5 @@
 [title]
-Ai promis c-ai sa revii {author: {Anonim}, {rcId: {151037}}
+Ai promis c-ai sa revii {composer: {Anonim}, {rcId: {151037}}
 
 [sequence]
 v1,c,v2,c,v3,c

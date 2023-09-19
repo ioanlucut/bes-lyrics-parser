@@ -1,5 +1,5 @@
 [title]
-Odata eram pacatos {author: {Nicolae Moldoveanu}, {rcId: {5286}}
+Odata eram pacatos {composer: {Nicolae Moldoveanu}, {rcId: {5286}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-La golgota pe cruce {author: {Grup Hristic}, {rcId: {59517}}
+La golgota pe cruce {composer: {Grup Hristic}, {rcId: {59517}}
 
 [sequence]
 v1,c,v2,c,v3,c

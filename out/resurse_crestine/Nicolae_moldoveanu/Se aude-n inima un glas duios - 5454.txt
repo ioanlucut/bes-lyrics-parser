@@ -1,5 +1,5 @@
 [title]
-Se aude-n inima un glas duios {author: {Nicolae Moldoveanu}, {rcId: {5454}}
+Se aude-n inima un glas duios {composer: {Nicolae Moldoveanu}, {rcId: {5454}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

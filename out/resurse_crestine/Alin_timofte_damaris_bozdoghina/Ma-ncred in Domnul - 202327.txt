@@ -1,5 +1,5 @@
 [title]
-Ma-ncred in domnul {author: {Alin Timofte, Damaris Bozdoghina}, {rcId: {202327}}
+Ma-ncred in domnul {composer: {Alin Timofte, Damaris Bozdoghina}, {rcId: {202327}}
 
 [sequence]
 v1,c,v2,c

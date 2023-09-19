@@ -1,5 +1,5 @@
 [title]
-Cu blandete si drag isus ne cheama {author: {Anonim}, {rcId: {64179}}
+Cu blandete si drag isus ne cheama {composer: {Anonim}, {rcId: {64179}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

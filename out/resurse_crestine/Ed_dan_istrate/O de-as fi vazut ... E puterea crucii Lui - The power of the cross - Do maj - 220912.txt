@@ -1,5 +1,5 @@
 [title]
-O de-as fi vazut e puterea crucii lui - the power of the cross - do maj {author: {ed. Dan Istrate}, {rcId: {220912}}
+O de-as fi vazut e puterea crucii lui - the power of the cross - do maj {composer: {ed. Dan Istrate}, {rcId: {220912}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

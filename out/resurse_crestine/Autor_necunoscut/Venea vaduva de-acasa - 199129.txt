@@ -1,5 +1,5 @@
 [title]
-Venea vaduva de-acasa {author: {Anonim}, {rcId: {199129}}
+Venea vaduva de-acasa {composer: {Anonim}, {rcId: {199129}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8

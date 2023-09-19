@@ -1,5 +1,5 @@
 [title]
-Mi-e teama uneori {author: {Anonim}, {rcId: {6709}}
+Mi-e teama uneori {composer: {Anonim}, {rcId: {6709}}
 
 [sequence]
 v1,c

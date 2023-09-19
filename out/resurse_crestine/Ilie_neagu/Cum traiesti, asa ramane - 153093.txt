@@ -1,5 +1,5 @@
 [title]
-Cum traiesti asa ramane {author: {Ilie Neagu}, {rcId: {153093}}
+Cum traiesti asa ramane {composer: {Ilie Neagu}, {rcId: {153093}}
 
 [sequence]
 v1,c,v2,c,v3,c

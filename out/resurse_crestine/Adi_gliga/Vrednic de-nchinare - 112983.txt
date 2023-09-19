@@ -1,5 +1,5 @@
 [title]
-Vrednic de-nchinare {author: {Adi Gliga}, {rcId: {112983}}
+Vrednic de-nchinare {composer: {Adi Gliga}, {rcId: {112983}}
 
 [sequence]
 v1,v2

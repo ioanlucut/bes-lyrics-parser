@@ -1,5 +1,5 @@
 [title]
-Caci domnul poate {author: {Speranța și prietenii}, {rcId: {112928}}
+Caci domnul poate {composer: {Speranța și prietenii}, {rcId: {112928}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

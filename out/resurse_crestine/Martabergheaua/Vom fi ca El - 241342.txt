@@ -1,5 +1,5 @@
 [title]
-Vom fi ca el {author: {Marta_Bergheaua}, {rcId: {241342}}
+Vom fi ca el {composer: {Marta_Bergheaua}, {rcId: {241342}}
 
 [sequence]
 v1,c,v2,c,v3,c

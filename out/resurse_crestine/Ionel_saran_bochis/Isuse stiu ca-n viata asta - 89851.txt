@@ -1,5 +1,5 @@
 [title]
-Isuse stiu ca-n viata asta {author: {Ionel Saran Bochis}, {rcId: {89851}}
+Isuse stiu ca-n viata asta {composer: {Ionel Saran Bochis}, {rcId: {89851}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

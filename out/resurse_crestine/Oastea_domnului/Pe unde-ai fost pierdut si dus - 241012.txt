@@ -1,5 +1,5 @@
 [title]
-Pe unde-ai fost pierdut si dus {author: {Oastea Domnului}, {rcId: {241012}}
+Pe unde-ai fost pierdut si dus {composer: {Oastea Domnului}, {rcId: {241012}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

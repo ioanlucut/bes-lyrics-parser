@@ -1,5 +1,5 @@
 [title]
-Un buchet din gradina domnului {author: {Nicolae Moldoveanu}, {rcId: {5541}}
+Un buchet din gradina domnului {composer: {Nicolae Moldoveanu}, {rcId: {5541}}
 
 [sequence]
 v1,c,v2,c,v3,c

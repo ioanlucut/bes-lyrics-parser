@@ -1,5 +1,5 @@
 [title]
-Catre cer privirea {author: {Scutelnic Elisei}, {rcId: {168633}}
+Catre cer privirea {composer: {Scutelnic Elisei}, {rcId: {168633}}
 
 [sequence]
 v1,c,v2,c,v3,c

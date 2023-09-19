@@ -1,5 +1,5 @@
 [title]
-Din cate doamne {author: {Eldad}, {rcId: {195725}}
+Din cate doamne {composer: {Eldad}, {rcId: {195725}}
 
 [sequence]
 v1,c,v1,c

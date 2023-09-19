@@ -1,5 +1,5 @@
 [title]
-Mai aproape {author: {Carmen Prodan}, {rcId: {153762}}
+Mai aproape {composer: {Carmen Prodan}, {rcId: {153762}}
 
 [sequence]
 v1,c,v2,c

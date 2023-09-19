@@ -1,5 +1,5 @@
 [title]
-Binecuvantati {author: {Remus Tămășan Cristi}, {rcId: {155914}}
+Binecuvantati {composer: {Remus Tămășan Cristi}, {rcId: {155914}}
 
 [sequence]
 v1,c,v2,c,v3,c

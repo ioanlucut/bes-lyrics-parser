@@ -1,5 +1,5 @@
 [title]
-Tu esti tare {author: {Remus Tămășan Cristi}, {rcId: {155946}}
+Tu esti tare {composer: {Remus Tămășan Cristi}, {rcId: {155946}}
 
 [sequence]
 v1,c,v2,c,v3,c

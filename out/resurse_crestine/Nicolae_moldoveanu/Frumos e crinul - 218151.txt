@@ -1,5 +1,5 @@
 [title]
-Frumos e crinul {author: {Nicolae Moldoveanu}, {rcId: {218151}}
+Frumos e crinul {composer: {Nicolae Moldoveanu}, {rcId: {218151}}
 
 [sequence]
 v1,v2,v3,v4,v5

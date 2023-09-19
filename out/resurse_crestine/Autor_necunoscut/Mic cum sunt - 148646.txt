@@ -1,5 +1,5 @@
 [title]
-Mic cum sunt {author: {Anonim}, {rcId: {148646}}
+Mic cum sunt {composer: {Anonim}, {rcId: {148646}}
 
 [sequence]
 v1,c,v2,c,v3,c

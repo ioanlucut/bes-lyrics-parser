@@ -1,5 +1,5 @@
 [title]
-A-nviat isus slava ii cantam {author: {Anonim}, {rcId: {141037}}
+A-nviat isus slava ii cantam {composer: {Anonim}, {rcId: {141037}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Prin orice tu vei trece {author: {Viorel Manolache}, {rcId: {227491}}
+Prin orice tu vei trece {composer: {Viorel Manolache}, {rcId: {227491}}
 
 [sequence]
 v1,v2,v3

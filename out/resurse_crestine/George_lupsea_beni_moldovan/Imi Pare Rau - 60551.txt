@@ -1,5 +1,5 @@
 [title]
-Imi pare rau {author: {George Lupsea, Beni Moldovan}, {rcId: {60551}}
+Imi pare rau {composer: {George Lupsea, Beni Moldovan}, {rcId: {60551}}
 
 [sequence]
 v1,c,v2,c,v3,c2

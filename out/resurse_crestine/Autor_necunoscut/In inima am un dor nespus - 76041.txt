@@ -1,5 +1,5 @@
 [title]
-In inima am un dor nespus {author: {Anonim}, {rcId: {76041}}
+In inima am un dor nespus {composer: {Anonim}, {rcId: {76041}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Nu lasa sa treaca vremea {author: {Nicolae Moldoveanu}, {rcId: {5597}}
+Nu lasa sa treaca vremea {composer: {Nicolae Moldoveanu}, {rcId: {5597}}
 
 [sequence]
 v1,c,v2,c,v3,c

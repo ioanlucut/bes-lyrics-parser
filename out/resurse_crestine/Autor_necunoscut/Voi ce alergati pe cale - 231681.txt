@@ -1,5 +1,5 @@
 [title]
-Voi ce alergati pe cale {author: {Anonim}, {rcId: {231681}}
+Voi ce alergati pe cale {composer: {Anonim}, {rcId: {231681}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

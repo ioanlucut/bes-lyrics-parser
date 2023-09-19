@@ -1,5 +1,5 @@
 [title]
-Calea pocaintei {author: {Ilie Belciu}, {rcId: {120242}}
+Calea pocaintei {composer: {Ilie Belciu}, {rcId: {120242}}
 
 [sequence]
 v1,v2,v3,v4

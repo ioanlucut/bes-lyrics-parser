@@ -1,5 +1,5 @@
 [title]
-For who you are {author: {Hillsong, Traducere RO}, {rcId: {69288}}
+For who you are {composer: {Hillsong, Traducere RO}, {rcId: {69288}}
 
 [sequence]
 v1,v2,c,e

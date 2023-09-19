@@ -1,5 +1,5 @@
 [title]
-Intinde-ti mana ta o doamne {author: {Nica Lucian}, {rcId: {5679}}
+Intinde-ti mana ta o doamne {composer: {Nica Lucian}, {rcId: {5679}}
 
 [sequence]
 v1,v2,v3,v4,v5

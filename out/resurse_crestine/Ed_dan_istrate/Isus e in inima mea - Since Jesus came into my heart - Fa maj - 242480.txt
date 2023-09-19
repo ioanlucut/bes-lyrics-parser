@@ -1,5 +1,5 @@
 [title]
-Isus e in inima mea - since jesus came into my heart - fa maj {author: {ed. Dan Istrate}, {rcId: {242480}}
+Isus e in inima mea - since jesus came into my heart - fa maj {composer: {ed. Dan Istrate}, {rcId: {242480}}
 
 [sequence]
 v1,c,v2,c,v3,c

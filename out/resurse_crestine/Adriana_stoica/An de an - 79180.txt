@@ -1,5 +1,5 @@
 [title]
-An de an {author: {Adriana Stoica}, {rcId: {79180}}
+An de an {composer: {Adriana Stoica}, {rcId: {79180}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

@@ -1,5 +1,5 @@
 [title]
-Domnul te cheama la viata (melodia: lauda astazi pe domnul suflet robit de patimi) - re min {author: {Dan Istrate}, {rcId: {200589}}
+Domnul te cheama la viata (melodia: lauda astazi pe domnul suflet robit de patimi) - re min {composer: {Dan Istrate}, {rcId: {200589}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c2

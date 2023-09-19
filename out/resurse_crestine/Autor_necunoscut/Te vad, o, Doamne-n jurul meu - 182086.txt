@@ -1,5 +1,5 @@
 [title]
-Te vad o doamne-n jurul meu {author: {Anonim}, {rcId: {182086}}
+Te vad o doamne-n jurul meu {composer: {Anonim}, {rcId: {182086}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Sunt un calator {author: {Speranța}, {rcId: {102646}}
+Sunt un calator {composer: {Speranța}, {rcId: {102646}}
 
 [sequence]
 v1,c,v2,c,v3,c

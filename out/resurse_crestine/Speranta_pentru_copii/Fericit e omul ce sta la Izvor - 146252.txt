@@ -1,5 +1,5 @@
 [title]
-Fericit e omul ce sta la izvor {author: {Speranța pentru copii}, {rcId: {146252}}
+Fericit e omul ce sta la izvor {composer: {Speranța pentru copii}, {rcId: {146252}}
 
 [sequence]
 v1,v2,v3,s

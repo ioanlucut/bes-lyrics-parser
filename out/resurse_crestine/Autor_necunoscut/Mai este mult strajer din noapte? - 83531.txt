@@ -1,5 +1,5 @@
 [title]
-Mai este mult strajer din noapte? {author: {Anonim}, {rcId: {83531}}
+Mai este mult strajer din noapte? {composer: {Anonim}, {rcId: {83531}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

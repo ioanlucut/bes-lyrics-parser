@@ -1,5 +1,5 @@
 [title]
-Eu nu ma te de groaza nopti {author: {Biji din Barbulesti}, {rcId: {212472}}
+Eu nu ma te de groaza nopti {composer: {Biji din Barbulesti}, {rcId: {212472}}
 
 [sequence]
 v1,c,v2,c

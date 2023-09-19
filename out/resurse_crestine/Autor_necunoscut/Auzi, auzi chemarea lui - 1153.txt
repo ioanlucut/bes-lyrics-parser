@@ -1,5 +1,5 @@
 [title]
-Auzi auzi chemarea lui {author: {Anonim}, {rcId: {1153}}
+Auzi auzi chemarea lui {composer: {Anonim}, {rcId: {1153}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

@@ -1,5 +1,5 @@
 [title]
-Batranii care-aici mai sunt {author: {Speranța}, {rcId: {6572}}
+Batranii care-aici mai sunt {composer: {Speranța}, {rcId: {6572}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c2

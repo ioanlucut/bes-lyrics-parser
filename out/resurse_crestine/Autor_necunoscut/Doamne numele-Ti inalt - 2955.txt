@@ -1,5 +1,5 @@
 [title]
-Doamne numele-ti inalt {author: {Anonim}, {rcId: {2955}}
+Doamne numele-ti inalt {composer: {Anonim}, {rcId: {2955}}
 
 [sequence]
 v1,c

@@ -1,5 +1,5 @@
 [title]
-Isuse glasul tau {author: {Nicolae Moldoveanu}, {rcId: {230792}}
+Isuse glasul tau {composer: {Nicolae Moldoveanu}, {rcId: {230792}}
 
 [sequence]
 v1,v2,v3

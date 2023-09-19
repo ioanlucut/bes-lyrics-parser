@@ -1,5 +1,5 @@
 [title]
-A-nviat isus {author: {Nicu Chereji}, {rcId: {210164}}
+A-nviat isus {composer: {Nicu Chereji}, {rcId: {210164}}
 
 [sequence]
 v1,c,v2,c,v3,c

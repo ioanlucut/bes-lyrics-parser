@@ -1,5 +1,5 @@
 [title]
-Doamne esti a mea iubire {author: {Anonim}, {rcId: {2492}}
+Doamne esti a mea iubire {composer: {Anonim}, {rcId: {2492}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

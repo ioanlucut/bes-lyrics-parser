@@ -1,5 +1,5 @@
 [title]
-Un suflet te cheama {author: {Ovidiu Liteanu}, {rcId: {55783}}
+Un suflet te cheama {composer: {Ovidiu Liteanu}, {rcId: {55783}}
 
 [sequence]
 v1,v2,v3,v4

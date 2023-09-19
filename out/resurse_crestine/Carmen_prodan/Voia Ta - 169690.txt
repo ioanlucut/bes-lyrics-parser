@@ -1,5 +1,5 @@
 [title]
-Voia ta {author: {Carmen Prodan}, {rcId: {169690}}
+Voia ta {composer: {Carmen Prodan}, {rcId: {169690}}
 
 [sequence]
 v1,v2,v3

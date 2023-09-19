@@ -1,5 +1,5 @@
 [title]
-Nu te-ntrista {author: {Felicia Drumas}, {rcId: {100417}}
+Nu te-ntrista {composer: {Felicia Drumas}, {rcId: {100417}}
 
 [sequence]
 v1,c,v2,c,v3,c

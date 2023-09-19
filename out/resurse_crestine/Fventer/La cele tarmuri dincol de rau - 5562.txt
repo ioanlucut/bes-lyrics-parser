@@ -1,5 +1,5 @@
 [title]
-La cele tarmuri dincol de rau {author: {F.Venter}, {rcId: {5562}}
+La cele tarmuri dincol de rau {composer: {F.Venter}, {rcId: {5562}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

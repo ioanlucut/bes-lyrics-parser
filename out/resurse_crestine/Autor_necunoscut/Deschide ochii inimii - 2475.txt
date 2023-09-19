@@ -1,5 +1,5 @@
 [title]
-Deschide ochii inimii {author: {Anonim}, {rcId: {2475}}
+Deschide ochii inimii {composer: {Anonim}, {rcId: {2475}}
 
 [sequence]
 c,v1,c

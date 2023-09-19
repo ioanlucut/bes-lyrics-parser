@@ -1,5 +1,5 @@
 [title]
-In suferiti sunt bucurii {author: {?}, {rcId: {198556}}
+In suferiti sunt bucurii {composer: {?}, {rcId: {198556}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

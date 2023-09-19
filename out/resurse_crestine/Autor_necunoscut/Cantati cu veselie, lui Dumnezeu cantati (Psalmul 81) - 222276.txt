@@ -1,5 +1,5 @@
 [title]
-Cantati cu veselie lui dumnezeu cantati (psalmul ) {author: {Anonim}, {rcId: {222276}}
+Cantati cu veselie lui dumnezeu cantati (psalmul ) {composer: {Anonim}, {rcId: {222276}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

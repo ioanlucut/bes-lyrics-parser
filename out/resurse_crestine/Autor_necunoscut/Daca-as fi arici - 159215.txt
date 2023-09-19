@@ -1,5 +1,5 @@
 [title]
-Daca-as fi arici {author: {Anonim}, {rcId: {159215}}
+Daca-as fi arici {composer: {Anonim}, {rcId: {159215}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Loc de adapost {author: {Decean}, {rcId: {198009}}
+Loc de adapost {composer: {Decean}, {rcId: {198009}}
 
 [sequence]
 v1,v2,c,c

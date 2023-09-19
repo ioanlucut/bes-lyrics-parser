@@ -1,5 +1,5 @@
 [title]
-Isus va reveni {author: {Speranța}, {rcId: {111009}}
+Isus va reveni {composer: {Speranța}, {rcId: {111009}}
 
 [sequence]
 v1,c,v2,c

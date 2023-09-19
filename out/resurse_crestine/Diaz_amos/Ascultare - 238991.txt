@@ -1,5 +1,5 @@
 [title]
-Ascultare {author: {Diaz Amos}, {rcId: {238991}}
+Ascultare {composer: {Diaz Amos}, {rcId: {238991}}
 
 [sequence]
 v1,c,v2,c,v3,c

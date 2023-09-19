@@ -1,5 +1,5 @@
 [title]
-Intariti-va dar mainile obosite {author: {Miron Cornel}, {rcId: {4433}}
+Intariti-va dar mainile obosite {composer: {Miron Cornel}, {rcId: {4433}}
 
 [sequence]
 v1,v2,v3,v4

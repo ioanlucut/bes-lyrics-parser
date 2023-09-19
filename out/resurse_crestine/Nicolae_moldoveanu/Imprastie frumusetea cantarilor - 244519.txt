@@ -1,5 +1,5 @@
 [title]
-Imprastie frumusetea cantarilor {author: {Nicolae Moldoveanu}, {rcId: {244519}}
+Imprastie frumusetea cantarilor {composer: {Nicolae Moldoveanu}, {rcId: {244519}}
 
 [sequence]
 v1,v2,v3,v4,v5

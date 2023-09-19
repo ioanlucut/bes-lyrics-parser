@@ -1,5 +1,5 @@
 [title]
-Alerg cu tine {author: {Daniel Olcean}, {rcId: {197102}}
+Alerg cu tine {composer: {Daniel Olcean}, {rcId: {197102}}
 
 [sequence]
 v1,c,v2,b,c

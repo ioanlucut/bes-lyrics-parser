@@ -1,5 +1,5 @@
 [title]
-Te laud tata {author: {Anonim}, {rcId: {5699}}
+Te laud tata {composer: {Anonim}, {rcId: {5699}}
 
 [sequence]
 v1,v2,v3

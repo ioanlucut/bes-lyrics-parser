@@ -1,5 +1,5 @@
 [title]
-Cantecul lui iosif {author: {Contrast, 3, 2, 1}, {rcId: {1432}}
+Cantecul lui iosif {composer: {Contrast, 3, 2, 1}, {rcId: {1432}}
 
 [sequence]
 v1,c,v2,c,v3,c

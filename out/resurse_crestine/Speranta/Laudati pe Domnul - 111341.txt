@@ -1,5 +1,5 @@
 [title]
-Laudati pe domnul {author: {Speranța}, {rcId: {111341}}
+Laudati pe domnul {composer: {Speranța}, {rcId: {111341}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

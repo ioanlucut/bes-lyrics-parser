@@ -1,5 +1,5 @@
 [title]
-Veniti la cina-acum (suppertime) {author: {Ira F. Stanphill, Traducere RO}, {rcId: {197071}}
+Veniti la cina-acum (suppertime) {composer: {Ira F. Stanphill, Traducere RO}, {rcId: {197071}}
 
 [sequence]
 v1,c,v2,c,v3,c,s,c

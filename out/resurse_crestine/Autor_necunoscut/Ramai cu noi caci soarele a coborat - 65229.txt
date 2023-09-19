@@ -1,5 +1,5 @@
 [title]
-Ramai cu noi caci soarele a coborat {author: {Anonim}, {rcId: {65229}}
+Ramai cu noi caci soarele a coborat {composer: {Anonim}, {rcId: {65229}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

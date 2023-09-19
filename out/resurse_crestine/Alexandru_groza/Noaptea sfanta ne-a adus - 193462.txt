@@ -1,5 +1,5 @@
 [title]
-Noaptea sfanta ne-a adus {author: {Alexandru Groza}, {rcId: {193462}}
+Noaptea sfanta ne-a adus {composer: {Alexandru Groza}, {rcId: {193462}}
 
 [sequence]
 v1,b,c,v2,c,v3,c,e

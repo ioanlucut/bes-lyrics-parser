@@ -1,5 +1,5 @@
 [title]
-Pe via dolorosa {author: {Emma Repede}, {rcId: {166882}}
+Pe via dolorosa {composer: {Emma Repede}, {rcId: {166882}}
 
 [sequence]
 v1,c,v2,c,v3,c

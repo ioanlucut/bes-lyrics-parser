@@ -1,5 +1,5 @@
 [title]
-Soarele meu {author: {Lavinia Stelian}, {rcId: {55682}}
+Soarele meu {composer: {Lavinia Stelian}, {rcId: {55682}}
 
 [sequence]
 v1,c,e

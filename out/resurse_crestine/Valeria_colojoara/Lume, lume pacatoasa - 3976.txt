@@ -1,5 +1,5 @@
 [title]
-Lume lume pacatoasa {author: {Valeria Colojoara}, {rcId: {3976}}
+Lume lume pacatoasa {composer: {Valeria Colojoara}, {rcId: {3976}}
 
 [sequence]
 v1,v2,v3,v4,v5

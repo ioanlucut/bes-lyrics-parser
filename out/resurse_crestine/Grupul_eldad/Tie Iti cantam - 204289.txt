@@ -1,5 +1,5 @@
 [title]
-Tie iti cantam {author: {Grupul Eldad}, {rcId: {204289}}
+Tie iti cantam {composer: {Grupul Eldad}, {rcId: {204289}}
 
 [sequence]
 c,s,c,s2,c,s3,c

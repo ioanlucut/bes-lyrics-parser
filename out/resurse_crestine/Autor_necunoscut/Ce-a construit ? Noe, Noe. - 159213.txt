@@ -1,5 +1,5 @@
 [title]
-Ce-a construit ? noe noe {author: {Anonim}, {rcId: {159213}}
+Ce-a construit ? noe noe {composer: {Anonim}, {rcId: {159213}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

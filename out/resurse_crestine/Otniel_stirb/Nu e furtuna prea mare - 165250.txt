@@ -1,5 +1,5 @@
 [title]
-Nu e furtuna prea mare {author: {Otniel Stirb}, {rcId: {165250}}
+Nu e furtuna prea mare {composer: {Otniel Stirb}, {rcId: {165250}}
 
 [sequence]
 v1,c,v2,c,v3,c2

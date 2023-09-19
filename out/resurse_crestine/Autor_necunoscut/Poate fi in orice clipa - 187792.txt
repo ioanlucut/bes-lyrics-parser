@@ -1,5 +1,5 @@
 [title]
-Poate fi in orice clipa {author: {Anonim}, {rcId: {187792}}
+Poate fi in orice clipa {composer: {Anonim}, {rcId: {187792}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

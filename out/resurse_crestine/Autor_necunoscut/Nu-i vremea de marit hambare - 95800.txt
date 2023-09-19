@@ -1,5 +1,5 @@
 [title]
-Nu-i vremea de marit hambare {author: {Anonim}, {rcId: {95800}}
+Nu-i vremea de marit hambare {composer: {Anonim}, {rcId: {95800}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,e

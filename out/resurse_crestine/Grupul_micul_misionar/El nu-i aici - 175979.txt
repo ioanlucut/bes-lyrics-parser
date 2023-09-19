@@ -1,5 +1,5 @@
 [title]
-El nu-i aici {author: {Grupul Micul Misionar}, {rcId: {175979}}
+El nu-i aici {composer: {Grupul Micul Misionar}, {rcId: {175979}}
 
 [sequence]
 v1,c,v2,c,e,v3,c

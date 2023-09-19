@@ -1,5 +1,5 @@
 [title]
-Isus este domn {author: {Petre Strango}, {rcId: {135363}}
+Isus este domn {composer: {Petre Strango}, {rcId: {135363}}
 
 [sequence]
 v1,c,v2,c,v3,c

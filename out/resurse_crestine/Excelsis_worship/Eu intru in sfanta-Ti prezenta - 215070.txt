@@ -1,5 +1,5 @@
 [title]
-Eu intru in sfanta-ti prezenta {author: {Excelsis Worship}, {rcId: {215070}}
+Eu intru in sfanta-ti prezenta {composer: {Excelsis Worship}, {rcId: {215070}}
 
 [sequence]
 v1,c,e

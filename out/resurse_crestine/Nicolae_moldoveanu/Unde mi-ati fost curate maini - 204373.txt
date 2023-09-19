@@ -1,5 +1,5 @@
 [title]
-Unde mi-ati fost curate maini {author: {Nicolae Moldoveanu}, {rcId: {204373}}
+Unde mi-ati fost curate maini {composer: {Nicolae Moldoveanu}, {rcId: {204373}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

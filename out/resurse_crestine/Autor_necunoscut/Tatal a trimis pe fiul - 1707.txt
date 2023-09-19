@@ -1,5 +1,5 @@
 [title]
-Tatal a trimis pe fiul {author: {Anonim}, {rcId: {1707}}
+Tatal a trimis pe fiul {composer: {Anonim}, {rcId: {1707}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

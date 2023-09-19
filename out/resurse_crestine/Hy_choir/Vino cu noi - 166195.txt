@@ -1,5 +1,5 @@
 [title]
-Vino cu noi {author: {HY Choir}, {rcId: {166195}}
+Vino cu noi {composer: {HY Choir}, {rcId: {166195}}
 
 [sequence]
 v1,b,c,v2,b,c

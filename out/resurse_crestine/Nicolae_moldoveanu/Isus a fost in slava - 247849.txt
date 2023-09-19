@@ -1,5 +1,5 @@
 [title]
-Isus a fost in slava {author: {Nicolae Moldoveanu}, {rcId: {247849}}
+Isus a fost in slava {composer: {Nicolae Moldoveanu}, {rcId: {247849}}
 
 [sequence]
 v1,v2,v3

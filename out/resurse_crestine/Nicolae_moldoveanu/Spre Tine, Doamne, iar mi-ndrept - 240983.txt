@@ -1,5 +1,5 @@
 [title]
-Spre tine doamne iar mi-ndrept {author: {Nicolae Moldoveanu}, {rcId: {240983}}
+Spre tine doamne iar mi-ndrept {composer: {Nicolae Moldoveanu}, {rcId: {240983}}
 
 [sequence]
 v1,c,v2,c,v3,c

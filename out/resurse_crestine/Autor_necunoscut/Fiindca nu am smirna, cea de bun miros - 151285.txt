@@ -1,5 +1,5 @@
 [title]
-Fiindca nu am smirna cea de bun miros {author: {Anonim}, {rcId: {151285}}
+Fiindca nu am smirna cea de bun miros {composer: {Anonim}, {rcId: {151285}}
 
 [sequence]
 v1,c,v2,c,v3,c

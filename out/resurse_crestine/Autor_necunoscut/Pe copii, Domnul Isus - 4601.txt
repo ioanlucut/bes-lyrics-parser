@@ -1,5 +1,5 @@
 [title]
-Pe copii domnul isus {author: {Anonim}, {rcId: {4601}}
+Pe copii domnul isus {composer: {Anonim}, {rcId: {4601}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c

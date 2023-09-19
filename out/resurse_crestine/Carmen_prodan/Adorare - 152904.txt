@@ -1,5 +1,5 @@
 [title]
-Adorare {author: {Carmen Prodan}, {rcId: {152904}}
+Adorare {composer: {Carmen Prodan}, {rcId: {152904}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

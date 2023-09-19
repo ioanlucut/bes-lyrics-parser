@@ -1,5 +1,5 @@
 [title]
-Auzi suflete chemarea {author: {Anonim}, {rcId: {1573}}
+Auzi suflete chemarea {composer: {Anonim}, {rcId: {1573}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

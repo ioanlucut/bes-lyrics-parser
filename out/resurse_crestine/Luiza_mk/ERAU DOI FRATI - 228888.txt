@@ -1,5 +1,5 @@
 [title]
-Erau doi frati {author: {LUIZA MK}, {rcId: {228888}}
+Erau doi frati {composer: {LUIZA MK}, {rcId: {228888}}
 
 [sequence]
 v1,v2,v3,v4,e

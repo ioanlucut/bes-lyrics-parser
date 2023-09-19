@@ -1,5 +1,5 @@
 [title]
-De la pamant la cer este o scara {author: {Nicolae Moldoveanu}, {rcId: {5826}}
+De la pamant la cer este o scara {composer: {Nicolae Moldoveanu}, {rcId: {5826}}
 
 [sequence]
 c,v1,v2,v3,e

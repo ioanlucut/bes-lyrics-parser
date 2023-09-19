@@ -1,5 +1,5 @@
 [title]
-Se aude-un glas departe {author: {Anonim}, {rcId: {6305}}
+Se aude-un glas departe {composer: {Anonim}, {rcId: {6305}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4,v5,c5,v6,c6

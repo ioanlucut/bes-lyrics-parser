@@ -1,5 +1,5 @@
 [title]
-A batut un calator {author: {Surorile Onofrei}, {rcId: {69853}}
+A batut un calator {composer: {Surorile Onofrei}, {rcId: {69853}}
 
 [sequence]
 v11,c,v2,c,e

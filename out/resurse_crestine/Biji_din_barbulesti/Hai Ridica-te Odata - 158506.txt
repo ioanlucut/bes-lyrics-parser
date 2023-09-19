@@ -1,5 +1,5 @@
 [title]
-Hai ridica-te odata {author: {Biji din Barbulesti}, {rcId: {158506}}
+Hai ridica-te odata {composer: {Biji din Barbulesti}, {rcId: {158506}}
 
 [sequence]
 v1,c,v2,c,v3,c

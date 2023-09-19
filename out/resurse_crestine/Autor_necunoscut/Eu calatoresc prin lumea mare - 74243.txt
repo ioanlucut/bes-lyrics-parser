@@ -1,5 +1,5 @@
 [title]
-Eu calatoresc prin lumea mare {author: {Anonim}, {rcId: {74243}}
+Eu calatoresc prin lumea mare {composer: {Anonim}, {rcId: {74243}}
 
 [sequence]
 v1,c,v2,c2

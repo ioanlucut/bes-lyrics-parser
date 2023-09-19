@@ -1,5 +1,5 @@
 [title]
-Mare bucurie {author: {Anonim}, {rcId: {84953}}
+Mare bucurie {composer: {Anonim}, {rcId: {84953}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Numai un suflet mare {author: {Nicolae Moldoveanu}, {rcId: {246465}}
+Numai un suflet mare {composer: {Nicolae Moldoveanu}, {rcId: {246465}}
 
 [sequence]
 v1,v2,v3

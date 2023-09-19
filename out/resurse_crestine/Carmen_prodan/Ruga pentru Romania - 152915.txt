@@ -1,5 +1,5 @@
 [title]
-Ruga pentru romania {author: {Carmen Prodan}, {rcId: {152915}}
+Ruga pentru romania {composer: {Carmen Prodan}, {rcId: {152915}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

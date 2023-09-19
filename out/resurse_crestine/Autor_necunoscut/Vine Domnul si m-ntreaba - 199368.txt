@@ -1,5 +1,5 @@
 [title]
-Vine domnul si m-ntreaba {author: {Anonim}, {rcId: {199368}}
+Vine domnul si m-ntreaba {composer: {Anonim}, {rcId: {199368}}
 
 [sequence]
 v1,c,v2,c,v3,c

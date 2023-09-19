@@ -1,5 +1,5 @@
 [title]
-Totul este doar desertaciune {author: {Dănuț Așchilean}, {rcId: {211828}}
+Totul este doar desertaciune {composer: {Dănuț Așchilean}, {rcId: {211828}}
 
 [sequence]
 v1,c,v2,c,v3,c

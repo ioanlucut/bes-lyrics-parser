@@ -1,5 +1,5 @@
 [title]
-Trairea mea si inchinarea {author: {Nicolae Moldoveanu}, {rcId: {224317}}
+Trairea mea si inchinarea {composer: {Nicolae Moldoveanu}, {rcId: {224317}}
 
 [sequence]
 v1,c,v2,c,v3,c

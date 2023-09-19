@@ -1,5 +1,5 @@
 [title]
-Stiu ca domnul meu in veci traieste {author: {Otniel Stirb}, {rcId: {196182}}
+Stiu ca domnul meu in veci traieste {composer: {Otniel Stirb}, {rcId: {196182}}
 
 [sequence]
 v1,c,v2,c,v3,c

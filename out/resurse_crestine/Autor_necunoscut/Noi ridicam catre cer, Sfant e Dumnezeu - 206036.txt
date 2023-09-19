@@ -1,5 +1,5 @@
 [title]
-Noi ridicam catre cer sfant e dumnezeu {author: {Anonim}, {rcId: {206036}}
+Noi ridicam catre cer sfant e dumnezeu {composer: {Anonim}, {rcId: {206036}}
 
 [sequence]
 v1,c,c

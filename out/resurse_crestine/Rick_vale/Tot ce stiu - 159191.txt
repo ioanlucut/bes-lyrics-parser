@@ -1,5 +1,5 @@
 [title]
-Tot ce stiu {author: {Rick Vale}, {rcId: {159191}}
+Tot ce stiu {composer: {Rick Vale}, {rcId: {159191}}
 
 [sequence]
 v1,c,v2,c,e

@@ -1,5 +1,5 @@
 [title]
-Un cant de dragoste inchin {author: {Anonim}, {rcId: {62633}}
+Un cant de dragoste inchin {composer: {Anonim}, {rcId: {62633}}
 
 [sequence]
 v1,b,c

@@ -1,5 +1,5 @@
 [title]
-In noaptea sfanta de craciun (i heard the bells on christmas day) {author: {Henry W. Longfellow, John Baptiste Calkin, Traducere RO}, {rcId: {207391}}
+In noaptea sfanta de craciun (i heard the bells on christmas day) {composer: {Henry W. Longfellow, John Baptiste Calkin, Traducere RO}, {rcId: {207391}}
 
 [sequence]
 v1,v2,v3,v4,v5

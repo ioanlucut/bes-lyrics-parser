@@ -1,5 +1,5 @@
 [title]
-Te voi salva nu te voi lasa {author: {Ionel Saran Bochis}, {rcId: {111183}}
+Te voi salva nu te voi lasa {composer: {Ionel Saran Bochis}, {rcId: {111183}}
 
 [sequence]
 v1,c,v2,c

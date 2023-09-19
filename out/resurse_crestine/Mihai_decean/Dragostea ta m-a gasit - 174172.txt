@@ -1,5 +1,5 @@
 [title]
-Dragostea ta m-a gasit {author: {Mihai Decean}, {rcId: {174172}}
+Dragostea ta m-a gasit {composer: {Mihai Decean}, {rcId: {174172}}
 
 [sequence]
 v1,c,v2,c,e

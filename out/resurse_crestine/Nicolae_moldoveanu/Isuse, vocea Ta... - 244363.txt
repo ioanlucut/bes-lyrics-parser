@@ -1,5 +1,5 @@
 [title]
-Isuse vocea ta {author: {Nicolae Moldoveanu}, {rcId: {244363}}
+Isuse vocea ta {composer: {Nicolae Moldoveanu}, {rcId: {244363}}
 
 [sequence]
 v1,v2,v3,v4,v5

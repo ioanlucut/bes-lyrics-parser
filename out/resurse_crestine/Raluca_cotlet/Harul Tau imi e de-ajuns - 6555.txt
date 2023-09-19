@@ -1,5 +1,5 @@
 [title]
-Harul tau imi e de-ajuns {author: {Raluca Cotlet}, {rcId: {6555}}
+Harul tau imi e de-ajuns {composer: {Raluca Cotlet}, {rcId: {6555}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

@@ -1,5 +1,5 @@
 [title]
-Esti soarele linistii mele isuse {author: {Nicolae Moldoveanu}, {rcId: {156237}}
+Esti soarele linistii mele isuse {composer: {Nicolae Moldoveanu}, {rcId: {156237}}
 
 [sequence]
 v1,v2,v3

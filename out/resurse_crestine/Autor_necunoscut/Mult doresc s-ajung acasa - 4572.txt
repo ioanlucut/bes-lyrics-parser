@@ -1,5 +1,5 @@
 [title]
-Mult doresc s-ajung acasa {author: {Anonim}, {rcId: {4572}}
+Mult doresc s-ajung acasa {composer: {Anonim}, {rcId: {4572}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c

@@ -1,5 +1,5 @@
 [title]
-De cand am aflat calea ta {author: {Simona Rusu}, {rcId: {66523}}
+De cand am aflat calea ta {composer: {Simona Rusu}, {rcId: {66523}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

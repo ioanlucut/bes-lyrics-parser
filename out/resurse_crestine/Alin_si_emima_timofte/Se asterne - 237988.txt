@@ -1,5 +1,5 @@
 [title]
-Se asterne {author: {Alin și Emima Timofte}, {rcId: {237988}}
+Se asterne {composer: {Alin și Emima Timofte}, {rcId: {237988}}
 
 [sequence]
 v1,b,c,v2,c,v3,c,v4,c

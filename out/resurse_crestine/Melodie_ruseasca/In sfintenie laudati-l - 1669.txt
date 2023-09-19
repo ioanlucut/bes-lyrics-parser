@@ -1,5 +1,5 @@
 [title]
-In sfintenie laudati-l {author: {Melodie Ruseasca}, {rcId: {1669}}
+In sfintenie laudati-l {composer: {Melodie Ruseasca}, {rcId: {1669}}
 
 [sequence]
 v1,v2,v3

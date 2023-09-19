@@ -1,5 +1,5 @@
 [title]
-Inima inima mea {author: {Grup Saron}, {rcId: {80378}}
+Inima inima mea {composer: {Grup Saron}, {rcId: {80378}}
 
 [sequence]
 v1,c,v2,c,v3,c

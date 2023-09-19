@@ -1,5 +1,5 @@
 [title]
-Doamne fa-ma sa fiu un templu (lord prepare me to be a sanctuary) {author: {Anonim}, {rcId: {217295}}
+Doamne fa-ma sa fiu un templu (lord prepare me to be a sanctuary) {composer: {Anonim}, {rcId: {217295}}
 
 [sequence]
 v1,v2,v3

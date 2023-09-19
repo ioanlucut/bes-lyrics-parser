@@ -1,5 +1,5 @@
 [title]
-Eu sunt acel ce nu avea pe nimeni {author: {Ovidiu Liteanu}, {rcId: {227020}}
+Eu sunt acel ce nu avea pe nimeni {composer: {Ovidiu Liteanu}, {rcId: {227020}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

@@ -1,5 +1,5 @@
 [title]
-Vine-o vreme-n viata-n care {author: {Cătălin Ciuculescu Band}, {rcId: {159363}}
+Vine-o vreme-n viata-n care {composer: {Cătălin Ciuculescu Band}, {rcId: {159363}}
 
 [sequence]
 v1,v2,v3

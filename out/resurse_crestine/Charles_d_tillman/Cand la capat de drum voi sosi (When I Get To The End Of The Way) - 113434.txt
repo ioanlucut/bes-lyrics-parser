@@ -1,5 +1,5 @@
 [title]
-Cand la capat de drum voi sosi (when i get to the end of the way) {author: {Charles D. Tillman, Traducere RO}, {rcId: {113434}}
+Cand la capat de drum voi sosi (when i get to the end of the way) {composer: {Charles D. Tillman, Traducere RO}, {rcId: {113434}}
 
 [sequence]
 v1,v2,v3,s

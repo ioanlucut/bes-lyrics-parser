@@ -1,5 +1,5 @@
 [title]
-A inviat isus {author: {Traian Neculai}, {rcId: {7066}}
+A inviat isus {composer: {Traian Neculai}, {rcId: {7066}}
 
 [sequence]
 v1,v2,v3,v4

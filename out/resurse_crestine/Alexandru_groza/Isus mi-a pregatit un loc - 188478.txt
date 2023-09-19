@@ -1,5 +1,5 @@
 [title]
-Isus mi-a pregatit un loc {author: {Alexandru Groza}, {rcId: {188478}}
+Isus mi-a pregatit un loc {composer: {Alexandru Groza}, {rcId: {188478}}
 
 [sequence]
 v1,c,v2,c,s,c

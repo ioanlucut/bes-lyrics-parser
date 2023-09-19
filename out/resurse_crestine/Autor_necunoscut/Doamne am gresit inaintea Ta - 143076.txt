@@ -1,5 +1,5 @@
 [title]
-Doamne am gresit inaintea ta {author: {Anonim}, {rcId: {143076}}
+Doamne am gresit inaintea ta {composer: {Anonim}, {rcId: {143076}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,v4,c

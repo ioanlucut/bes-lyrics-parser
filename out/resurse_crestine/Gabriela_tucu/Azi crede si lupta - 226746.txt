@@ -1,5 +1,5 @@
 [title]
-Azi crede si lupta {author: {Gabriela Țucu}, {rcId: {226746}}
+Azi crede si lupta {composer: {Gabriela Țucu}, {rcId: {226746}}
 
 [sequence]
 v1,c,v2,c,v3,v4,c

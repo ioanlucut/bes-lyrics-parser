@@ -1,5 +1,5 @@
 [title]
-A e ascultare b-binecuvantare {author: {Gabriel Gorcea}, {rcId: {239894}}
+A e ascultare b-binecuvantare {composer: {Gabriel Gorcea}, {rcId: {239894}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Mai aproape doamne catre tine {author: {Anonim}, {rcId: {4992}}
+Mai aproape doamne catre tine {composer: {Anonim}, {rcId: {4992}}
 
 [sequence]
 v1,v2,v3

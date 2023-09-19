@@ -1,5 +1,5 @@
 [title]
-Dragostea e cea mai mare {author: {Anonim}, {rcId: {3112}}
+Dragostea e cea mai mare {composer: {Anonim}, {rcId: {3112}}
 
 [sequence]
 v1,v2,v3,v4

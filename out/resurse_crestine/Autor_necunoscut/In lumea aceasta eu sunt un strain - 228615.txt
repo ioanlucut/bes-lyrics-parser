@@ -1,5 +1,5 @@
 [title]
-In lumea aceasta eu sunt un strain {author: {Necunoscut de mine}, {rcId: {228615}}
+In lumea aceasta eu sunt un strain {composer: {Necunoscut de mine}, {rcId: {228615}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

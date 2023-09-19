@@ -1,5 +1,5 @@
 [title]
-Ma-ncredintez {author: {Ionuț Crăciun}, {rcId: {86770}}
+Ma-ncredintez {composer: {Ionuț Crăciun}, {rcId: {86770}}
 
 [sequence]
 v1,c,v2,c

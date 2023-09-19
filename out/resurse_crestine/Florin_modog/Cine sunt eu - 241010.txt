@@ -1,5 +1,5 @@
 [title]
-Cine sunt eu {author: {Florin Modog}, {rcId: {241010}}
+Cine sunt eu {composer: {Florin Modog}, {rcId: {241010}}
 
 [sequence]
 v1,c,v2,c,e

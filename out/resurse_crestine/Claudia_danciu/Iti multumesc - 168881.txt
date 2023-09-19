@@ -1,5 +1,5 @@
 [title]
-Iti multumesc {author: {Claudia Danciu}, {rcId: {168881}}
+Iti multumesc {composer: {Claudia Danciu}, {rcId: {168881}}
 
 [sequence]
 v1,v2,v3

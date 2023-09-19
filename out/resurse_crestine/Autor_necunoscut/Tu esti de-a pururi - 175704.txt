@@ -1,5 +1,5 @@
 [title]
-Tu esti de-a pururi {author: {Anonim}, {rcId: {175704}}
+Tu esti de-a pururi {composer: {Anonim}, {rcId: {175704}}
 
 [sequence]
 v1,c,v2,c

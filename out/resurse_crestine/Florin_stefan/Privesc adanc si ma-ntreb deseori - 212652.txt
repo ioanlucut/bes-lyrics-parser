@@ -1,5 +1,5 @@
 [title]
-Privesc adanc si ma-ntreb deseori {author: {Florin Ștefan}, {rcId: {212652}}
+Privesc adanc si ma-ntreb deseori {composer: {Florin Ștefan}, {rcId: {212652}}
 
 [sequence]
 v1,c,v2,c,v3,c

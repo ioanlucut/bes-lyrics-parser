@@ -1,5 +1,5 @@
 [title]
-Cine te-a scapat pe tine israele {author: {Nicolae Zamfir}, {rcId: {142516}}
+Cine te-a scapat pe tine israele {composer: {Nicolae Zamfir}, {rcId: {142516}}
 
 [sequence]
 v1,v2,v3,v4

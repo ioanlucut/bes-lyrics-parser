@@ -1,5 +1,5 @@
 [title]
-In betleem orasul minunat {author: {Anonim}, {rcId: {151291}}
+In betleem orasul minunat {composer: {Anonim}, {rcId: {151291}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

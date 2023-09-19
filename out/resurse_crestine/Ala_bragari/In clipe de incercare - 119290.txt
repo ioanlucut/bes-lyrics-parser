@@ -1,5 +1,5 @@
 [title]
-In clipe de incercare {author: {Ala Bragari}, {rcId: {119290}}
+In clipe de incercare {composer: {Ala Bragari}, {rcId: {119290}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,e

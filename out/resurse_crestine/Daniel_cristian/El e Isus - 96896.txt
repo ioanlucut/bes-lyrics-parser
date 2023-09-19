@@ -1,5 +1,5 @@
 [title]
-El e isus {author: {Daniel Cristian}, {rcId: {96896}}
+El e isus {composer: {Daniel Cristian}, {rcId: {96896}}
 
 [sequence]
 v1,c,v2,c

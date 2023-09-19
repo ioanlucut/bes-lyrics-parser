@@ -1,5 +1,5 @@
 [title]
-Intoarce-te din drumul lumii {author: {Anonim}, {rcId: {61500}}
+Intoarce-te din drumul lumii {composer: {Anonim}, {rcId: {61500}}
 
 [sequence]
 v1,c,v2,c,v3,c

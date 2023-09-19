@@ -1,5 +1,5 @@
 [title]
-Cerul si pamantul {author: {Adi Gliga}, {rcId: {2158}}
+Cerul si pamantul {composer: {Adi Gliga}, {rcId: {2158}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

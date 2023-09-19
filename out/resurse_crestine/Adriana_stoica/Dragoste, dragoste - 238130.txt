@@ -1,5 +1,5 @@
 [title]
-Dragoste dragoste {author: {Adriana Stoica}, {rcId: {238130}}
+Dragoste dragoste {composer: {Adriana Stoica}, {rcId: {238130}}
 
 [sequence]
 v1,c,v2,c,v3,c

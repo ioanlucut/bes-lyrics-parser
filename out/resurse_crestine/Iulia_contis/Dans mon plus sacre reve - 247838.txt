@@ -1,5 +1,5 @@
 [title]
-Dans mon plus sacre r^eve {author: {Iulia Contis}, {rcId: {247838}}
+Dans mon plus sacre r^eve {composer: {Iulia Contis}, {rcId: {247838}}
 
 [sequence]
 v1,v2

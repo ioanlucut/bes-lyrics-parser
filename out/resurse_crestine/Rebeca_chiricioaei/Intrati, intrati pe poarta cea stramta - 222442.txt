@@ -1,5 +1,5 @@
 [title]
-Intrati intrati pe poarta cea stramta {author: {Rebeca Chiricioaei}, {rcId: {222442}}
+Intrati intrati pe poarta cea stramta {composer: {Rebeca Chiricioaei}, {rcId: {222442}}
 
 [sequence]
 c,v1,v2,v3,c2

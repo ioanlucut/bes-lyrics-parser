@@ -1,5 +1,5 @@
 [title]
-Isaia {author: {Anonim}, {rcId: {123315}}
+Isaia {composer: {Anonim}, {rcId: {123315}}
 
 [sequence]
 v1,v2,v3

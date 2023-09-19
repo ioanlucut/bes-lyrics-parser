@@ -1,5 +1,5 @@
 [title]
-E timpul sa iubesti {author: {Rahela Goagără}, {rcId: {152066}}
+E timpul sa iubesti {composer: {Rahela Goagără}, {rcId: {152066}}
 
 [sequence]
 v1,c,v2,c2,e

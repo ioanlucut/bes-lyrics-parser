@@ -1,5 +1,5 @@
 [title]
-Tintuit ca talharul pe cruce {author: {Arman Ludovic}, {rcId: {6715}}
+Tintuit ca talharul pe cruce {composer: {Arman Ludovic}, {rcId: {6715}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

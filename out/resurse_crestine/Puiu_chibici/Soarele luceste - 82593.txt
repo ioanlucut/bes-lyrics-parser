@@ -1,5 +1,5 @@
 [title]
-Soarele luceste {author: {Puiu Chibici}, {rcId: {82593}}
+Soarele luceste {composer: {Puiu Chibici}, {rcId: {82593}}
 
 [sequence]
 v1,v2,v3,v4,v5

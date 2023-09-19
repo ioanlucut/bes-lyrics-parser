@@ -1,5 +1,5 @@
 [title]
-Isuse condu-ma tu {author: {Anonim}, {rcId: {863}}
+Isuse condu-ma tu {composer: {Anonim}, {rcId: {863}}
 
 [sequence]
 v1,c,v2,c,v3,c

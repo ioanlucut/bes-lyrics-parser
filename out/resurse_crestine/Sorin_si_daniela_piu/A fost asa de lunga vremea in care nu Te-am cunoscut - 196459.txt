@@ -1,5 +1,5 @@
 [title]
-A fost asa de lunga vremea in care nu te-am cunoscut {author: {Sorin și Daniela Piu}, {rcId: {196459}}
+A fost asa de lunga vremea in care nu te-am cunoscut {composer: {Sorin și Daniela Piu}, {rcId: {196459}}
 
 [sequence]
 v1,v2,v3,v4

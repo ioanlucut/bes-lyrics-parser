@@ -1,5 +1,5 @@
 [title]
-Ferice casa unde este domnul {author: {Nicolae Moldoveanu}, {rcId: {5534}}
+Ferice casa unde este domnul {composer: {Nicolae Moldoveanu}, {rcId: {5534}}
 
 [sequence]
 v1,v2,v3

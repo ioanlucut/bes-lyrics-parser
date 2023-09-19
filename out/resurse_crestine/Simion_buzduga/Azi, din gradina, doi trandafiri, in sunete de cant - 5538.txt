@@ -1,5 +1,5 @@
 [title]
-Azi din gradina doi trandafiri in sunete de cant {author: {Simion Buzduga}, {rcId: {5538}}
+Azi din gradina doi trandafiri in sunete de cant {composer: {Simion Buzduga}, {rcId: {5538}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

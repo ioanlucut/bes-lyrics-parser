@@ -1,5 +1,5 @@
 [title]
-Astazi este ziua scumpa dragii nostri {author: {Nicolae Moldoveanu}, {rcId: {5526}}
+Astazi este ziua scumpa dragii nostri {composer: {Nicolae Moldoveanu}, {rcId: {5526}}
 
 [sequence]
 v1,c,v2,c,v3,c

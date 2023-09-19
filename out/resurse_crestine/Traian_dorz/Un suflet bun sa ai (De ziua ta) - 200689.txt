@@ -1,5 +1,5 @@
 [title]
-Un suflet bun sa ai (de ziua ta) {author: {Traian Dorz}, {rcId: {200689}}
+Un suflet bun sa ai (de ziua ta) {composer: {Traian Dorz}, {rcId: {200689}}
 
 [sequence]
 v1,v2,v3,v4

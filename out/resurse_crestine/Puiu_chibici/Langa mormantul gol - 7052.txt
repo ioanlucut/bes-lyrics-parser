@@ -1,5 +1,5 @@
 [title]
-Langa mormantul gol {author: {Puiu Chibici}, {rcId: {7052}}
+Langa mormantul gol {composer: {Puiu Chibici}, {rcId: {7052}}
 
 [sequence]
 v1,v2,v3,v4,v5

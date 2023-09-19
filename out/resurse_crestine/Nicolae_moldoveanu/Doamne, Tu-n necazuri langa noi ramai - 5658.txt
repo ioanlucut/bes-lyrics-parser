@@ -1,5 +1,5 @@
 [title]
-Doamne tu-n necazuri langa noi ramai {author: {Nicolae Moldoveanu}, {rcId: {5658}}
+Doamne tu-n necazuri langa noi ramai {composer: {Nicolae Moldoveanu}, {rcId: {5658}}
 
 [sequence]
 v1,v2,v3,v4

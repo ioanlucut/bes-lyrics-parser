@@ -1,5 +1,5 @@
 [title]
-Binecuvantat fie numele domnului {author: {Necunoscut}, {rcId: {168457}}
+Binecuvantat fie numele domnului {composer: {Necunoscut}, {rcId: {168457}}
 
 [sequence]
 v1,b,c,v2,c

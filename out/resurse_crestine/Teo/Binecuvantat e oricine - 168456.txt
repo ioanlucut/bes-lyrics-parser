@@ -1,5 +1,5 @@
 [title]
-Binecuvantat e oricine {author: {Teo}, {rcId: {168456}}
+Binecuvantat e oricine {composer: {Teo}, {rcId: {168456}}
 
 [sequence]
 v1

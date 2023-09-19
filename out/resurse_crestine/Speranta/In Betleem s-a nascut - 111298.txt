@@ -1,5 +1,5 @@
 [title]
-In betleem s-a nascut {author: {Speranța}, {rcId: {111298}}
+In betleem s-a nascut {composer: {Speranța}, {rcId: {111298}}
 
 [sequence]
 v1,c,v2,c,v3,c

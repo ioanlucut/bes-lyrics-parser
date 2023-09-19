@@ -1,5 +1,5 @@
 [title]
-Sunt in mana ta isuse {author: {Anonim}, {rcId: {74406}}
+Sunt in mana ta isuse {composer: {Anonim}, {rcId: {74406}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

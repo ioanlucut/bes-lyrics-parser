@@ -1,5 +1,5 @@
 [title]
-Ce ai lasat in urma ta ? {author: {Gabriel Gorcea și prietenii}, {rcId: {112884}}
+Ce ai lasat in urma ta ? {composer: {Gabriel Gorcea și prietenii}, {rcId: {112884}}
 
 [sequence]
 v1,c,v2,c,v3,c

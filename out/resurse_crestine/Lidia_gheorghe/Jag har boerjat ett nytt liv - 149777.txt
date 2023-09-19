@@ -1,5 +1,5 @@
 [title]
-Jag har b"orjat ett nytt liv {author: {Lidia Gheorghe}, {rcId: {149777}}
+Jag har b"orjat ett nytt liv {composer: {Lidia Gheorghe}, {rcId: {149777}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8

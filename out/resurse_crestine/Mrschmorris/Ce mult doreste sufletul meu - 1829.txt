@@ -1,5 +1,5 @@
 [title]
-Ce mult doreste sufletul meu {author: {Mrs.C.H.Morris}, {rcId: {1829}}
+Ce mult doreste sufletul meu {composer: {Mrs.C.H.Morris}, {rcId: {1829}}
 
 [sequence]
 v1,v2,v3

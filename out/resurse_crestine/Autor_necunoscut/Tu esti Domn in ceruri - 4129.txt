@@ -1,5 +1,5 @@
 [title]
-Tu esti domn in ceruri {author: {Anonim}, {rcId: {4129}}
+Tu esti domn in ceruri {composer: {Anonim}, {rcId: {4129}}
 
 [sequence]
 c,v1,c,v1,c

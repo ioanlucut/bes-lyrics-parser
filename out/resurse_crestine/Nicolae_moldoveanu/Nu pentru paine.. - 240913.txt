@@ -1,5 +1,5 @@
 [title]
-Nu pentru paine {author: {Nicolae Moldoveanu}, {rcId: {240913}}
+Nu pentru paine {composer: {Nicolae Moldoveanu}, {rcId: {240913}}
 
 [sequence]
 v1,v2,v3,v4

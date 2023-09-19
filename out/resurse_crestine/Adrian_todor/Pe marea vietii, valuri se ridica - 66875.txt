@@ -1,5 +1,5 @@
 [title]
-Pe marea vietii valuri se ridica {author: {Adrian Todor}, {rcId: {66875}}
+Pe marea vietii valuri se ridica {composer: {Adrian Todor}, {rcId: {66875}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8

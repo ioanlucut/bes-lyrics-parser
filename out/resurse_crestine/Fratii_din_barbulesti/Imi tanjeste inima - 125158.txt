@@ -1,5 +1,5 @@
 [title]
-Imi tanjeste inima {author: {Frații din Bărbulești}, {rcId: {125158}}
+Imi tanjeste inima {composer: {Frații din Bărbulești}, {rcId: {125158}}
 
 [sequence]
 v1,c,v2,c2

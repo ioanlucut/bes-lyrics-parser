@@ -1,5 +1,5 @@
 [title]
-Aici sa fie casa celui vesnic sfant {author: {Florin Pal}, {rcId: {59845}}
+Aici sa fie casa celui vesnic sfant {composer: {Florin Pal}, {rcId: {59845}}
 
 [sequence]
 v1,c,v2,c

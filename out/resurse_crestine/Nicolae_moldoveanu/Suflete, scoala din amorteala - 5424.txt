@@ -1,5 +1,5 @@
 [title]
-Suflete scoala din amorteala {author: {Nicolae Moldoveanu}, {rcId: {5424}}
+Suflete scoala din amorteala {composer: {Nicolae Moldoveanu}, {rcId: {5424}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

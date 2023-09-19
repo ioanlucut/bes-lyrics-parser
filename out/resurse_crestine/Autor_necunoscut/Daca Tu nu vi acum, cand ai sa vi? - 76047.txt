@@ -1,5 +1,5 @@
 [title]
-Daca tu nu vi acum cand ai sa vi? {author: {Anonim}, {rcId: {76047}}
+Daca tu nu vi acum cand ai sa vi? {composer: {Anonim}, {rcId: {76047}}
 
 [sequence]
 v1,v2,v3

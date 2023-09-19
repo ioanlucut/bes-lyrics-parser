@@ -1,5 +1,5 @@
 [title]
-O mama mea {author: {Puiu Chibici}, {rcId: {4386}}
+O mama mea {composer: {Puiu Chibici}, {rcId: {4386}}
 
 [sequence]
 v1,s,c,v2,c,s,c,v3,c,s,c,s,c,v4,c,s,c

@@ -1,5 +1,5 @@
 [title]
-Intr-o sear~a intr-o noapte de cr~aciun {author: {Anonim}, {rcId: {144182}}
+Intr-o sear~a intr-o noapte de cr~aciun {composer: {Anonim}, {rcId: {144182}}
 
 [sequence]
 v1,c,v2,c,v3,c

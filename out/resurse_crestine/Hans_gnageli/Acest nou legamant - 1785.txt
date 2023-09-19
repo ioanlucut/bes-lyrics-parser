@@ -1,5 +1,5 @@
 [title]
-Acest nou legamant {author: {Hans G.Nageli}, {rcId: {1785}}
+Acest nou legamant {composer: {Hans G.Nageli}, {rcId: {1785}}
 
 [sequence]
 v1,v2,v3,v3

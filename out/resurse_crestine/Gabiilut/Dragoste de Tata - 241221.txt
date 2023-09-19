@@ -1,5 +1,5 @@
 [title]
-Dragoste de tata {author: {Gabi_Ilut}, {rcId: {241221}}
+Dragoste de tata {composer: {Gabi_Ilut}, {rcId: {241221}}
 
 [sequence]
 v1,c,v2,c,v3,c

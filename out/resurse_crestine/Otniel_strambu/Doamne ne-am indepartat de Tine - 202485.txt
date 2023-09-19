@@ -1,5 +1,5 @@
 [title]
-Doamne ne-am indepartat de tine {author: {Otniel Strâmbu}, {rcId: {202485}}
+Doamne ne-am indepartat de tine {composer: {Otniel Strâmbu}, {rcId: {202485}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

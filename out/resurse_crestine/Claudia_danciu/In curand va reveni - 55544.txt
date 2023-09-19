@@ -1,5 +1,5 @@
 [title]
-In curand va reveni {author: {Claudia Danciu}, {rcId: {55544}}
+In curand va reveni {composer: {Claudia Danciu}, {rcId: {55544}}
 
 [sequence]
 v1,c,v2,c,v3,c

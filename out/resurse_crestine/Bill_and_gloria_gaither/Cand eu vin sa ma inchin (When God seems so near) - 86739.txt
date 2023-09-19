@@ -1,5 +1,5 @@
 [title]
-Cand eu vin sa ma inchin (when god seems so near) {author: {Bill and Gloria Gaither, Traducere RO}, {rcId: {86739}}
+Cand eu vin sa ma inchin (when god seems so near) {composer: {Bill and Gloria Gaither, Traducere RO}, {rcId: {86739}}
 
 [sequence]
 v1,v2

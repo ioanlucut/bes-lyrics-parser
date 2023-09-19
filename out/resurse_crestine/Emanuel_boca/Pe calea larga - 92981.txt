@@ -1,5 +1,5 @@
 [title]
-Pe calea larga {author: {Emanuel Boca}, {rcId: {92981}}
+Pe calea larga {composer: {Emanuel Boca}, {rcId: {92981}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Batranete scoala-nalta {author: {David Stănuș}, {rcId: {153071}}
+Batranete scoala-nalta {composer: {David Stănuș}, {rcId: {153071}}
 
 [sequence]
 v1,v2,v3,v4,v5

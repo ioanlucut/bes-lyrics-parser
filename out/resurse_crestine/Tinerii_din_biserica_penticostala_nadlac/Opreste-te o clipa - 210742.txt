@@ -1,5 +1,5 @@
 [title]
-Opreste-te o clipa {author: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {210742}}
+Opreste-te o clipa {composer: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {210742}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Azi e craciun e bucurie {author: {Andreea Popoi}, {rcId: {143949}}
+Azi e craciun e bucurie {composer: {Andreea Popoi}, {rcId: {143949}}
 
 [sequence]
 v1,c,v2,c

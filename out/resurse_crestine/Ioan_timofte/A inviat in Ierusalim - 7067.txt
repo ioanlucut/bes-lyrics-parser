@@ -1,5 +1,5 @@
 [title]
-A inviat in ierusalim {author: {Ioan Timofte}, {rcId: {7067}}
+A inviat in ierusalim {composer: {Ioan Timofte}, {rcId: {7067}}
 
 [sequence]
 v1,c,v2,c,e

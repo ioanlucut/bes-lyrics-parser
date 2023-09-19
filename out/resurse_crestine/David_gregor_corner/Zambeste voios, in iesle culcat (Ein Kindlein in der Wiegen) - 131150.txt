@@ -1,5 +1,5 @@
 [title]
-Zambeste voios in iesle culcat (ein kindlein in der wiegen) {author: {David Gregor Corner, Traducere RO}, {rcId: {131150}}
+Zambeste voios in iesle culcat (ein kindlein in der wiegen) {composer: {David Gregor Corner, Traducere RO}, {rcId: {131150}}
 
 [sequence]
 v1,v2,v3

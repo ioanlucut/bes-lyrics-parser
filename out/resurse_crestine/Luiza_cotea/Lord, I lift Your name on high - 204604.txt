@@ -1,5 +1,5 @@
 [title]
-Lord i lift your name on high {author: {Luiza Cotea}, {rcId: {204604}}
+Lord i lift your name on high {composer: {Luiza Cotea}, {rcId: {204604}}
 
 [sequence]
 v1,b,c,v2,b,c,e

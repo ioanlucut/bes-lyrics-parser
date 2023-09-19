@@ -1,5 +1,5 @@
 [title]
-Cunosc o iubita capela {author: {Anonim}, {rcId: {74321}}
+Cunosc o iubita capela {composer: {Anonim}, {rcId: {74321}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

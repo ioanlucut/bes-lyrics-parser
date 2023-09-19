@@ -1,5 +1,5 @@
 [title]
-Palme de pace {author: {Andreea Avădanei}, {rcId: {232218}}
+Palme de pace {composer: {Andreea Avădanei}, {rcId: {232218}}
 
 [sequence]
 v1,c,v2,c

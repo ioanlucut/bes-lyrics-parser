@@ -1,5 +1,5 @@
 [title]
-Harul si-adevarul {author: {Nicolae Moldoveanu}, {rcId: {186419}}
+Harul si-adevarul {composer: {Nicolae Moldoveanu}, {rcId: {186419}}
 
 [sequence]
 v1,v2,v3,v4,v5

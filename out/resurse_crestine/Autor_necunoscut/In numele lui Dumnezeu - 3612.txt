@@ -1,5 +1,5 @@
 [title]
-In numele lui dumnezeu {author: {Anonim}, {rcId: {3612}}
+In numele lui dumnezeu {composer: {Anonim}, {rcId: {3612}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

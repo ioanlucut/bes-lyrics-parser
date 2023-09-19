@@ -1,5 +1,5 @@
 [title]
-Prin iubirea ta {author: {Salomeea Stoica}, {rcId: {194205}}
+Prin iubirea ta {composer: {Salomeea Stoica}, {rcId: {194205}}
 
 [sequence]
 v1,v2,v3

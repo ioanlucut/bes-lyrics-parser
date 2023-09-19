@@ -1,5 +1,5 @@
 [title]
-Darul cel mai pretios {author: {Sorin Pop}, {rcId: {157044}}
+Darul cel mai pretios {composer: {Sorin Pop}, {rcId: {157044}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c,e,v5,c

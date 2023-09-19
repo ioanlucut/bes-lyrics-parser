@@ -1,5 +1,5 @@
 [title]
-Mi-ai pus in suflet doamne o speranta {author: {Mariana Mesaroș}, {rcId: {100308}}
+Mi-ai pus in suflet doamne o speranta {composer: {Mariana Mesaroș}, {rcId: {100308}}
 
 [sequence]
 v1,v2,v3

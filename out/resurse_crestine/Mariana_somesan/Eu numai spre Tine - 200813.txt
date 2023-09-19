@@ -1,5 +1,5 @@
 [title]
-Eu numai spre tine {author: {Mariana Someșan}, {rcId: {200813}}
+Eu numai spre tine {composer: {Mariana Someșan}, {rcId: {200813}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

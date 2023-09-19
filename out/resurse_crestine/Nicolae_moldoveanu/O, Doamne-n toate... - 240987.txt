@@ -1,5 +1,5 @@
 [title]
-O doamne-n toate {author: {Nicolae Moldoveanu}, {rcId: {240987}}
+O doamne-n toate {composer: {Nicolae Moldoveanu}, {rcId: {240987}}
 
 [sequence]
 v1,c,v2,c,v3,c

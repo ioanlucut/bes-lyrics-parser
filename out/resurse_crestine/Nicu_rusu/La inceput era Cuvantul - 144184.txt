@@ -1,5 +1,5 @@
 [title]
-La inceput era cuvantul {author: {Nicu Rusu}, {rcId: {144184}}
+La inceput era cuvantul {composer: {Nicu Rusu}, {rcId: {144184}}
 
 [sequence]
 v1,c,v2,c,v3,c

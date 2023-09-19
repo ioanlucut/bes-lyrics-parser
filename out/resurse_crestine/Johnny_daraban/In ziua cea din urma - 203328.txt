@@ -1,5 +1,5 @@
 [title]
-In ziua cea din urma {author: {Johnny Daraban}, {rcId: {203328}}
+In ziua cea din urma {composer: {Johnny Daraban}, {rcId: {203328}}
 
 [sequence]
 v1,c,v2,c,e

@@ -1,5 +1,5 @@
 [title]
-Isus e motivul bucuriei {author: {Speranța și prietenii}, {rcId: {85649}}
+Isus e motivul bucuriei {composer: {Speranța și prietenii}, {rcId: {85649}}
 
 [sequence]
 v1,c,v2,c,v3,c

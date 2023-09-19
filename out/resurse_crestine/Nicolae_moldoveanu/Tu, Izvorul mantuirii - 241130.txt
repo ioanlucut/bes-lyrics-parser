@@ -1,5 +1,5 @@
 [title]
-Tu izvorul mantuirii {author: {Nicolae Moldoveanu}, {rcId: {241130}}
+Tu izvorul mantuirii {composer: {Nicolae Moldoveanu}, {rcId: {241130}}
 
 [sequence]
 v1,c,v3,c2,v5,c3

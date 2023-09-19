@@ -1,5 +1,5 @@
 [title]
-Saule saule pentru ce ma prigonesti {author: {Frații din Bărbulești}, {rcId: {173425}}
+Saule saule pentru ce ma prigonesti {composer: {Frații din Bărbulești}, {rcId: {173425}}
 
 [sequence]
 v1,c,v2,c,v3,c

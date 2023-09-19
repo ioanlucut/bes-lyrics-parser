@@ -1,5 +1,5 @@
 [title]
-Din mormantu-ntunecat {author: {Anonim}, {rcId: {1426}}
+Din mormantu-ntunecat {composer: {Anonim}, {rcId: {1426}}
 
 [sequence]
 v1,v2,v3,v4,v5

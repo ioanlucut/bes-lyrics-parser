@@ -1,5 +1,5 @@
 [title]
-Esti necuprins si sfant - great is thy faithfulness - do maj {author: {ed. Dan Istrate}, {rcId: {187310}}
+Esti necuprins si sfant - great is thy faithfulness - do maj {composer: {ed. Dan Istrate}, {rcId: {187310}}
 
 [sequence]
 v1,c,v2,c,v3,c

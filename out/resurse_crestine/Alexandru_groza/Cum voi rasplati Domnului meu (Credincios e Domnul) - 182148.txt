@@ -1,5 +1,5 @@
 [title]
-Cum voi rasplati domnului meu (credincios e domnul) {author: {Alexandru Groza}, {rcId: {182148}}
+Cum voi rasplati domnului meu (credincios e domnul) {composer: {Alexandru Groza}, {rcId: {182148}}
 
 [sequence]
 v1,c,v2,c

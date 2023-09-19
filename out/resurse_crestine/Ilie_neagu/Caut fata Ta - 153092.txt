@@ -1,5 +1,5 @@
 [title]
-Caut fata ta {author: {Ilie Neagu}, {rcId: {153092}}
+Caut fata ta {composer: {Ilie Neagu}, {rcId: {153092}}
 
 [sequence]
 v1,c,v2,c,e,c

@@ -1,5 +1,5 @@
 [title]
-Asteptam doamne drag {author: {Rahela Goagără}, {rcId: {151841}}
+Asteptam doamne drag {composer: {Rahela Goagără}, {rcId: {151841}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

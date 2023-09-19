@@ -1,5 +1,5 @@
 [title]
-Inaintea ta eu vin {author: {Puiu Chibici}, {rcId: {211590}}
+Inaintea ta eu vin {composer: {Puiu Chibici}, {rcId: {211590}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

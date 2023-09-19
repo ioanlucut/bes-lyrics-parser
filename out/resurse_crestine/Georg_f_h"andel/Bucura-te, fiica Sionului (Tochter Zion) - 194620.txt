@@ -1,5 +1,5 @@
 [title]
-Bucura-te fiica sionului (tochter zion) {author: {Georg F. Händel, Traducere RO}, {rcId: {194620}}
+Bucura-te fiica sionului (tochter zion) {composer: {Georg F. Händel, Traducere RO}, {rcId: {194620}}
 
 [sequence]
 v1,v2,v3,s

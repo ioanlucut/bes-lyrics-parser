@@ -1,5 +1,5 @@
 [title]
-Astazi noi cu drag am venit la voi {author: {Anonim}, {rcId: {3772}}
+Astazi noi cu drag am venit la voi {composer: {Anonim}, {rcId: {3772}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

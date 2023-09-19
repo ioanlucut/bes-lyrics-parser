@@ -1,5 +1,5 @@
 [title]
-Un nume nou (new name written down in glory) {author: {Charity Gayle}, {rcId: {230422}}
+Un nume nou (new name written down in glory) {composer: {Charity Gayle}, {rcId: {230422}}
 
 [sequence]
 v1,c,v2,b,c

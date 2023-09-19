@@ -1,5 +1,5 @@
 [title]
-In familie-i ferice {author: {Dumitru Cornilescu}, {rcId: {1919}}
+In familie-i ferice {composer: {Dumitru Cornilescu}, {rcId: {1919}}
 
 [sequence]
 v1,v2,v3

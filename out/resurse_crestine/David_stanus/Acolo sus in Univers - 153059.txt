@@ -1,5 +1,5 @@
 [title]
-Acolo sus in univers {author: {David Stănuș}, {rcId: {153059}}
+Acolo sus in univers {composer: {David Stănuș}, {rcId: {153059}}
 
 [sequence]
 v1,c,v2,c,v3,c

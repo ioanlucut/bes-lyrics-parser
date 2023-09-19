@@ -1,5 +1,5 @@
 [title]
-De multe ori te-am intrebat isuse {author: {Nicu Chereji}, {rcId: {208845}}
+De multe ori te-am intrebat isuse {composer: {Nicu Chereji}, {rcId: {208845}}
 
 [sequence]
 v1,c,v2,c,v3,c

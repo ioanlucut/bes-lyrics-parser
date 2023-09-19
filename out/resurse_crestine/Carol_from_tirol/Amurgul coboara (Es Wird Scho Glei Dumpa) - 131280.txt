@@ -1,5 +1,5 @@
 [title]
-Amurgul coboara (es wird scho glei dumpa) {author: {Carol from Tirol, Traducere RO}, {rcId: {131280}}
+Amurgul coboara (es wird scho glei dumpa) {composer: {Carol from Tirol, Traducere RO}, {rcId: {131280}}
 
 [sequence]
 v1,c,v2,c,v3,c2

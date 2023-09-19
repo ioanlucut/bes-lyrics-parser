@@ -1,5 +1,5 @@
 [title]
-Farul {author: {Adeline}, {rcId: {152825}}
+Farul {composer: {Adeline}, {rcId: {152825}}
 
 [sequence]
 v1,c,v2,c

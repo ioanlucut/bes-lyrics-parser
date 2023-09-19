@@ -1,5 +1,5 @@
 [title]
-Lovit de valurile marii {author: {Nicu Chereji}, {rcId: {210178}}
+Lovit de valurile marii {composer: {Nicu Chereji}, {rcId: {210178}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

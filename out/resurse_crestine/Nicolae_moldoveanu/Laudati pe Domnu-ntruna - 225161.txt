@@ -1,5 +1,5 @@
 [title]
-Laudati pe domnu-ntruna {author: {Nicolae Moldoveanu}, {rcId: {225161}}
+Laudati pe domnu-ntruna {composer: {Nicolae Moldoveanu}, {rcId: {225161}}
 
 [sequence]
 v1,v2

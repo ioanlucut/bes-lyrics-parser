@@ -1,5 +1,5 @@
 [title]
-Arunca ciocanul si sulita grea {author: {Anonim}, {rcId: {125788}}
+Arunca ciocanul si sulita grea {composer: {Anonim}, {rcId: {125788}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

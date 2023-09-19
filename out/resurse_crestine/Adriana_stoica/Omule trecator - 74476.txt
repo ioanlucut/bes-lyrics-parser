@@ -1,5 +1,5 @@
 [title]
-Omule trecator {author: {Adriana Stoica}, {rcId: {74476}}
+Omule trecator {composer: {Adriana Stoica}, {rcId: {74476}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

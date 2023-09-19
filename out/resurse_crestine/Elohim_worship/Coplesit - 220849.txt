@@ -1,5 +1,5 @@
 [title]
-Coplesit {author: {Elohim Worship}, {rcId: {220849}}
+Coplesit {composer: {Elohim Worship}, {rcId: {220849}}
 
 [sequence]
 v1,v2,c,v3,b,c

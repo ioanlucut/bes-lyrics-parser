@@ -1,5 +1,5 @@
 [title]
-Hai vino cu mine sa-l laudam {author: {Speranța}, {rcId: {233756}}
+Hai vino cu mine sa-l laudam {composer: {Speranța}, {rcId: {233756}}
 
 [sequence]
 v1,v1,c,v1,c,e,e,c

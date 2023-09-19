@@ -1,5 +1,5 @@
 [title]
-Ia-ma doamne-n slujba ta {author: {Nicolae Moldoveanu}, {rcId: {5372}}
+Ia-ma doamne-n slujba ta {composer: {Nicolae Moldoveanu}, {rcId: {5372}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

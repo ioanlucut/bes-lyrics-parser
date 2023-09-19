@@ -1,5 +1,5 @@
 [title]
-Multumesc de apa dulce {author: {Traian Dorz}, {rcId: {4001}}
+Multumesc de apa dulce {composer: {Traian Dorz}, {rcId: {4001}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

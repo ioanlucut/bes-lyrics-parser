@@ -1,5 +1,5 @@
 [title]
-Adoram pe fiul {author: {Vasile Al.Talos}, {rcId: {1878}}
+Adoram pe fiul {composer: {Vasile Al.Talos}, {rcId: {1878}}
 
 [sequence]
 v1,v2,v3,v4

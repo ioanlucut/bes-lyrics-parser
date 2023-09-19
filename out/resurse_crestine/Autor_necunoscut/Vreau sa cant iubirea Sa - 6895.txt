@@ -1,5 +1,5 @@
 [title]
-Vreau sa cant iubirea sa {author: {Anonim}, {rcId: {6895}}
+Vreau sa cant iubirea sa {composer: {Anonim}, {rcId: {6895}}
 
 [sequence]
 v1,c,v2,c,v3,c

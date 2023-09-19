@@ -1,5 +1,5 @@
 [title]
-Cant domnului ca mi-a facut bine {author: {Anonim}, {rcId: {3962}}
+Cant domnului ca mi-a facut bine {composer: {Anonim}, {rcId: {3962}}
 
 [sequence]
 v1,c,v2,c,v3,c

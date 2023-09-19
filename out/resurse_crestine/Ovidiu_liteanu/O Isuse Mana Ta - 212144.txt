@@ -1,5 +1,5 @@
 [title]
-O isuse mana ta {author: {Ovidiu Liteanu}, {rcId: {212144}}
+O isuse mana ta {composer: {Ovidiu Liteanu}, {rcId: {212144}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

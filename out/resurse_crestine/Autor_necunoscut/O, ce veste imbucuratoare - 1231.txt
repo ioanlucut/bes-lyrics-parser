@@ -1,5 +1,5 @@
 [title]
-O ce veste imbucuratoare {author: {Anonim}, {rcId: {1231}}
+O ce veste imbucuratoare {composer: {Anonim}, {rcId: {1231}}
 
 [sequence]
 v1,c,v2,c,v3,c

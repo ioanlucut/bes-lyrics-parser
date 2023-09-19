@@ -1,5 +1,5 @@
 [title]
-E mare judecata la gabata {author: {Puiu Chibici}, {rcId: {4519}}
+E mare judecata la gabata {composer: {Puiu Chibici}, {rcId: {4519}}
 
 [sequence]
 v1,c,v2,c,v3,c

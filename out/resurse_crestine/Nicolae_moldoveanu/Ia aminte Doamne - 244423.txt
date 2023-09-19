@@ -1,5 +1,5 @@
 [title]
-Ia aminte doamne {author: {Nicolae Moldoveanu}, {rcId: {244423}}
+Ia aminte doamne {composer: {Nicolae Moldoveanu}, {rcId: {244423}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8,v9,v10

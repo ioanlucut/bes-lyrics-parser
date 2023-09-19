@@ -1,5 +1,5 @@
 [title]
-Asculta ce ne spune {author: {Saron}, {rcId: {6578}}
+Asculta ce ne spune {composer: {Saron}, {rcId: {6578}}
 
 [sequence]
 v1,v2,v3

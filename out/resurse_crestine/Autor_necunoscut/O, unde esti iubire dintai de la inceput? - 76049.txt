@@ -1,5 +1,5 @@
 [title]
-O unde esti iubire dintai de la inceput? {author: {Anonim}, {rcId: {76049}}
+O unde esti iubire dintai de la inceput? {composer: {Anonim}, {rcId: {76049}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c2

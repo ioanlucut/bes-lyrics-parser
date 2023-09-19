@@ -1,5 +1,5 @@
 [title]
-Doar un staul {author: {Mocan Miriam}, {rcId: {223598}}
+Doar un staul {composer: {Mocan Miriam}, {rcId: {223598}}
 
 [sequence]
 v1

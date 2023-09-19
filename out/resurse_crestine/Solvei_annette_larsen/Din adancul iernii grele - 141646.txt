@@ -1,5 +1,5 @@
 [title]
-Din adancul iernii grele {author: {Solvei Annette Larsen}, {rcId: {141646}}
+Din adancul iernii grele {composer: {Solvei Annette Larsen}, {rcId: {141646}}
 
 [sequence]
 v1,c,v2,c,v1,c,v2,c

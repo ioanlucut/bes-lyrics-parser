@@ -1,5 +1,5 @@
 [title]
-Sunt un copil sarman {author: {Nicu Chereji}, {rcId: {177766}}
+Sunt un copil sarman {composer: {Nicu Chereji}, {rcId: {177766}}
 
 [sequence]
 v1,c,v2,c,v3,c

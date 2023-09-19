@@ -1,5 +1,5 @@
 [title]
-Alerg mereu catre o tinta {author: {Dorel Breabăn}, {rcId: {223995}}
+Alerg mereu catre o tinta {composer: {Dorel Breabăn}, {rcId: {223995}}
 
 [sequence]
 v1,c,v2,c,v3,c

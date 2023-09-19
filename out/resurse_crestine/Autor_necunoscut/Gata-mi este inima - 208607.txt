@@ -1,5 +1,5 @@
 [title]
-Gata-mi este inima {author: {Anonim}, {rcId: {208607}}
+Gata-mi este inima {composer: {Anonim}, {rcId: {208607}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Zorii bat in geamuri {author: {Nicolae Moldoveanu}, {rcId: {226470}}
+Zorii bat in geamuri {composer: {Nicolae Moldoveanu}, {rcId: {226470}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Ne bucuram de viata {author: {Anonim}, {rcId: {4123}}
+Ne bucuram de viata {composer: {Anonim}, {rcId: {4123}}
 
 [sequence]
 v1,c,v2,c2

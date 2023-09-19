@@ -1,5 +1,5 @@
 [title]
-Oricine-ai fi {author: {Text: Traian Dorsz, Muzica: Adrian Toader}, {rcId: {199271}}
+Oricine-ai fi {composer: {Text: Traian Dorsz, Muzica: Adrian Toader}, {rcId: {199271}}
 
 [sequence]
 v1,v2,v3,v4

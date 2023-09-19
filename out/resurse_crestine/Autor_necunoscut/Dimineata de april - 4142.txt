@@ -1,5 +1,5 @@
 [title]
-Dimineata de april {author: {Anonim}, {rcId: {4142}}
+Dimineata de april {composer: {Anonim}, {rcId: {4142}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

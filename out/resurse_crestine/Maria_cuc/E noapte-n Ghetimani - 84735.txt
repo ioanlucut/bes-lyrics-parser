@@ -1,5 +1,5 @@
 [title]
-E noapte-n ghetimani {author: {Maria Cuc}, {rcId: {84735}}
+E noapte-n ghetimani {composer: {Maria Cuc}, {rcId: {84735}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

@@ -1,5 +1,5 @@
 [title]
-Isuse ce ti-am dat ? {author: {Nicolae Moldoveanu}, {rcId: {242641}}
+Isuse ce ti-am dat ? {composer: {Nicolae Moldoveanu}, {rcId: {242641}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

@@ -1,5 +1,5 @@
 [title]
-Iata-ma {author: {Carmen Prodan}, {rcId: {152894}}
+Iata-ma {composer: {Carmen Prodan}, {rcId: {152894}}
 
 [sequence]
 v1,c,v2,c,v3,c

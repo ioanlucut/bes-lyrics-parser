@@ -1,5 +1,5 @@
 [title]
-O miel divin {author: {Nicolae Moldoveanu}, {rcId: {229268}}
+O miel divin {composer: {Nicolae Moldoveanu}, {rcId: {229268}}
 
 [sequence]
 v1,v2,v3

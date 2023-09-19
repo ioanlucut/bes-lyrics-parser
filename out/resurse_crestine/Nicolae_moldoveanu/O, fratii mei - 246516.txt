@@ -1,5 +1,5 @@
 [title]
-O fratii mei {author: {Nicolae Moldoveanu}, {rcId: {246516}}
+O fratii mei {composer: {Nicolae Moldoveanu}, {rcId: {246516}}
 
 [sequence]
 v1,v2,v3

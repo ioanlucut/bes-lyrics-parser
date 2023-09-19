@@ -1,5 +1,5 @@
 [title]
-Eu te iubesc isuse drag {author: {Frații din Bărbulești}, {rcId: {125168}}
+Eu te iubesc isuse drag {composer: {Frații din Bărbulești}, {rcId: {125168}}
 
 [sequence]
 v1,c,v2,c

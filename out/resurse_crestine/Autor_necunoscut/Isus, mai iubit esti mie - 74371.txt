@@ -1,5 +1,5 @@
 [title]
-Isus mai iubit esti mie {author: {Anonim}, {rcId: {74371}}
+Isus mai iubit esti mie {composer: {Anonim}, {rcId: {74371}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Stau in fata ta {author: {Claudia Benchea}, {rcId: {213697}}
+Stau in fata ta {composer: {Claudia Benchea}, {rcId: {213697}}
 
 [sequence]
 v1,c,v2,c,v3,c

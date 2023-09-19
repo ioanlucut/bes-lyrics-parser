@@ -1,5 +1,5 @@
 [title]
-Intr-o lume de pacat {author: {Anonim}, {rcId: {74864}}
+Intr-o lume de pacat {composer: {Anonim}, {rcId: {74864}}
 
 [sequence]
 v1,v2,v3,v4,v5

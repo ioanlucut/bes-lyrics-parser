@@ -1,5 +1,5 @@
 [title]
-In zbuciumul vietii {author: {G.A.Lewis}, {rcId: {1745}}
+In zbuciumul vietii {composer: {G.A.Lewis}, {rcId: {1745}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Noi suntem una {author: {Anonim}, {rcId: {1497}}
+Noi suntem una {composer: {Anonim}, {rcId: {1497}}
 
 [sequence]
 v1

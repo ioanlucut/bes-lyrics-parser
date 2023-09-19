@@ -1,5 +1,5 @@
 [title]
-Linisteste-te acum {author: {Otto Pascal}, {rcId: {112786}}
+Linisteste-te acum {composer: {Otto Pascal}, {rcId: {112786}}
 
 [sequence]
 v1,c,v2,c

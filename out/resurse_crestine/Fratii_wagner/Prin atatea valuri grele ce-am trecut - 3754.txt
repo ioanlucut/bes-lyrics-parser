@@ -1,5 +1,5 @@
 [title]
-Prin atatea valuri grele ce-am trecut {author: {Frații Wagner}, {rcId: {3754}}
+Prin atatea valuri grele ce-am trecut {composer: {Frații Wagner}, {rcId: {3754}}
 
 [sequence]
 v1,v2,v3,v4,v5

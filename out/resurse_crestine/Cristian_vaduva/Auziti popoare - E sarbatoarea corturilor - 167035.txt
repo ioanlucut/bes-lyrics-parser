@@ -1,5 +1,5 @@
 [title]
-Auziti popoare - e sarbatoarea corturilor {author: {Cristian Văduva}, {rcId: {167035}}
+Auziti popoare - e sarbatoarea corturilor {composer: {Cristian Văduva}, {rcId: {167035}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c

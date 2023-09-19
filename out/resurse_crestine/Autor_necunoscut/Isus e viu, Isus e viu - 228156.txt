@@ -1,5 +1,5 @@
 [title]
-Isus e viu isus e viu {author: {Anonim}, {rcId: {228156}}
+Isus e viu isus e viu {composer: {Anonim}, {rcId: {228156}}
 
 [sequence]
 v1,v2,v3,v4,v5

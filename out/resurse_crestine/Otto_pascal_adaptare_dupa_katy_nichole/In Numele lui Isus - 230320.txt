@@ -1,5 +1,5 @@
 [title]
-In numele lui isus {author: {Otto Pascal adaptare după Katy Nichole}, {rcId: {230320}}
+In numele lui isus {composer: {Otto Pascal adaptare după Katy Nichole}, {rcId: {230320}}
 
 [sequence]
 v1,c,v2,c,e,c2

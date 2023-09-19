@@ -1,5 +1,5 @@
 [title]
-Leaga-ne doamne {author: {Anonim}, {rcId: {3803}}
+Leaga-ne doamne {composer: {Anonim}, {rcId: {3803}}
 
 [sequence]
 c,v1,c,e

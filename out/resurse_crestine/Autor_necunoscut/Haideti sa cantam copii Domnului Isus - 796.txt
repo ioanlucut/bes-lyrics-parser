@@ -1,5 +1,5 @@
 [title]
-Haideti sa cantam copii domnului isus {author: {Anonim}, {rcId: {796}}
+Haideti sa cantam copii domnului isus {composer: {Anonim}, {rcId: {796}}
 
 [sequence]
 v1,c,v2,c

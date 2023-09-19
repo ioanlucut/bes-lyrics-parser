@@ -1,5 +1,5 @@
 [title]
-Strajerii {author: {Ioan Timofte}, {rcId: {168655}}
+Strajerii {composer: {Ioan Timofte}, {rcId: {168655}}
 
 [sequence]
 v1,c,v2,c,v3,c

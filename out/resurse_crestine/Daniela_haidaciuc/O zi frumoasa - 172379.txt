@@ -1,5 +1,5 @@
 [title]
-O zi frumoasa {author: {Daniela Haidaciuc}, {rcId: {172379}}
+O zi frumoasa {composer: {Daniela Haidaciuc}, {rcId: {172379}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c2

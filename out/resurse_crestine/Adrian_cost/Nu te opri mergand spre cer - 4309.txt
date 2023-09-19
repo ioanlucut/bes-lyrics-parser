@@ -1,5 +1,5 @@
 [title]
-Nu te opri mergand spre cer {author: {Adrian Cost}, {rcId: {4309}}
+Nu te opri mergand spre cer {composer: {Adrian Cost}, {rcId: {4309}}
 
 [sequence]
 v1,c,v2,c,v3,c

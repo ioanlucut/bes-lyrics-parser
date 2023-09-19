@@ -1,5 +1,5 @@
 [title]
-Prin furtuna {author: {Ovidiu Pal}, {rcId: {4451}}
+Prin furtuna {composer: {Ovidiu Pal}, {rcId: {4451}}
 
 [sequence]
 v1

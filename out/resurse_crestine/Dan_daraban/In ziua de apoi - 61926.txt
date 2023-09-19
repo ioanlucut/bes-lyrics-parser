@@ -1,5 +1,5 @@
 [title]
-In ziua de apoi {author: {Dan Daraban}, {rcId: {61926}}
+In ziua de apoi {composer: {Dan Daraban}, {rcId: {61926}}
 
 [sequence]
 v1,c,v2,c,v3,c

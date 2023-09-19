@@ -1,5 +1,5 @@
 [title]
-Peste vai peste coline {author: {Iany și Cristina Laurenciuc}, {rcId: {156913}}
+Peste vai peste coline {composer: {Iany și Cristina Laurenciuc}, {rcId: {156913}}
 
 [sequence]
 v1,c,v2,c,e

@@ -1,5 +1,5 @@
 [title]
-Apa-i schimbat-o in vin {author: {Poarta Cerului}, {rcId: {167046}}
+Apa-i schimbat-o in vin {composer: {Poarta Cerului}, {rcId: {167046}}
 
 [sequence]
 v1,c,v1,c,c,b,b,c,c,b,b

@@ -1,5 +1,5 @@
 [title]
-Vreau sa spuna cel ce-i slab {author: {Anonim}, {rcId: {4288}}
+Vreau sa spuna cel ce-i slab {composer: {Anonim}, {rcId: {4288}}
 
 [sequence]
 v1,c,v2,c,v3,c

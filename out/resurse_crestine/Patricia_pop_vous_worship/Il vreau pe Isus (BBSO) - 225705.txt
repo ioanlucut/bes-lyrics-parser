@@ -1,5 +1,5 @@
 [title]
-Il vreau pe isus (bbso) {author: {Patricia Pop, Vous Worship}, {rcId: {225705}}
+Il vreau pe isus (bbso) {composer: {Patricia Pop, Vous Worship}, {rcId: {225705}}
 
 [sequence]
 v1,c,v2,c,c

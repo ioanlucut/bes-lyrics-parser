@@ -1,5 +1,5 @@
 [title]
-Si eu astazi merg spre tine {author: {Ionel Saran Bochis}, {rcId: {111166}}
+Si eu astazi merg spre tine {composer: {Ionel Saran Bochis}, {rcId: {111166}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

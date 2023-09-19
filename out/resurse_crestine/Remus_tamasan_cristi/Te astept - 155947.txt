@@ -1,5 +1,5 @@
 [title]
-Te astept {author: {Remus Tămășan Cristi}, {rcId: {155947}}
+Te astept {composer: {Remus Tămășan Cristi}, {rcId: {155947}}
 
 [sequence]
 v1,c,v2,c

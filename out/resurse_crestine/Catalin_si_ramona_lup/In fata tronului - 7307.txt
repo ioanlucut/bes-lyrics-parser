@@ -1,5 +1,5 @@
 [title]
-In fata tronului {author: {Cătălin și Ramona Lup}, {rcId: {7307}}
+In fata tronului {composer: {Cătălin și Ramona Lup}, {rcId: {7307}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

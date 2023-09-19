@@ -1,5 +1,5 @@
 [title]
-Esti glorios {author: {Exodul}, {rcId: {187859}}
+Esti glorios {composer: {Exodul}, {rcId: {187859}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

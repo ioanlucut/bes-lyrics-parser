@@ -1,5 +1,5 @@
 [title]
-Sus la lucru amice crestine {author: {Nicolae Moldoveanu}, {rcId: {5612}}
+Sus la lucru amice crestine {composer: {Nicolae Moldoveanu}, {rcId: {5612}}
 
 [sequence]
 v1,c,v2,c,v3,c

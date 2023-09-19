@@ -1,5 +1,5 @@
 [title]
-O cat de bun {author: {Betania Worship Dublin}, {rcId: {206696}}
+O cat de bun {composer: {Betania Worship Dublin}, {rcId: {206696}}
 
 [sequence]
 v1,c,v2,c,e,v3,c,e

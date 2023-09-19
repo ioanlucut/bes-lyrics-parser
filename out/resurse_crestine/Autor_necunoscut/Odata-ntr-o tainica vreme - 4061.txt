@@ -1,5 +1,5 @@
 [title]
-Odata-ntr-o tainica vreme {author: {Anonim}, {rcId: {4061}}
+Odata-ntr-o tainica vreme {composer: {Anonim}, {rcId: {4061}}
 
 [sequence]
 v1,v2,v3,v4

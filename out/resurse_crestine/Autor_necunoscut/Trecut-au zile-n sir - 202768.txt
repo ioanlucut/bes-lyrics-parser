@@ -1,5 +1,5 @@
 [title]
-Trecut-au zile-n sir {author: {Anonim}, {rcId: {202768}}
+Trecut-au zile-n sir {composer: {Anonim}, {rcId: {202768}}
 
 [sequence]
 v1,v2,v3,v4

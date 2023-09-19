@@ -1,5 +1,5 @@
 [title]
-Zi senina dimineata in zori {author: {Cifra perfecta}, {rcId: {79429}}
+Zi senina dimineata in zori {composer: {Cifra perfecta}, {rcId: {79429}}
 
 [sequence]
 v1,c,v2,c,e

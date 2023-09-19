@@ -1,5 +1,5 @@
 [title]
-Mi-e dor de tine necontenit {author: {Liviu Gacia}, {rcId: {136875}}
+Mi-e dor de tine necontenit {composer: {Liviu Gacia}, {rcId: {136875}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Vrei sa te faci sanatos ? {author: {Nicolae Moldoveanu}, {rcId: {244371}}
+Vrei sa te faci sanatos ? {composer: {Nicolae Moldoveanu}, {rcId: {244371}}
 
 [sequence]
 v1,v2,v3,v4

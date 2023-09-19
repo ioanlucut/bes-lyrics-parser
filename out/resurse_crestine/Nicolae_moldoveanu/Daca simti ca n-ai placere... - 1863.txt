@@ -1,5 +1,5 @@
 [title]
-Daca simti ca n-ai placere {author: {Nicolae Moldoveanu}, {rcId: {1863}}
+Daca simti ca n-ai placere {composer: {Nicolae Moldoveanu}, {rcId: {1863}}
 
 [sequence]
 v1,v2,v3

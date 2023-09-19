@@ -1,5 +1,5 @@
 [title]
-Priviti la pasarele {author: {Nicolae Moldoveanu}, {rcId: {6949}}
+Priviti la pasarele {composer: {Nicolae Moldoveanu}, {rcId: {6949}}
 
 [sequence]
 v1,v2

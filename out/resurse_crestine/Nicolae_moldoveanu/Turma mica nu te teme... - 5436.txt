@@ -1,5 +1,5 @@
 [title]
-Turma mica nu te teme {author: {Nicolae Moldoveanu}, {rcId: {5436}}
+Turma mica nu te teme {composer: {Nicolae Moldoveanu}, {rcId: {5436}}
 
 [sequence]
 v1,v2,v3,v4

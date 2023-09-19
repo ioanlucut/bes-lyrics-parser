@@ -1,5 +1,5 @@
 [title]
-Domnul dumnezeul sfant ti-a dat porunca {author: {Nicolae Moldoveanu}, {rcId: {5929}}
+Domnul dumnezeul sfant ti-a dat porunca {composer: {Nicolae Moldoveanu}, {rcId: {5929}}
 
 [sequence]
 v1,c,v2,c,v3,c2

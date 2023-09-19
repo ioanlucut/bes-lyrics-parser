@@ -1,5 +1,5 @@
 [title]
-Doar la cristos {author: {Speranța}, {rcId: {159234}}
+Doar la cristos {composer: {Speranța}, {rcId: {159234}}
 
 [sequence]
 v1,c,v2,c

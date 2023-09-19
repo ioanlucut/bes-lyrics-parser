@@ -1,5 +1,5 @@
 [title]
-Ca vulturul {author: {Anonim}, {rcId: {3993}}
+Ca vulturul {composer: {Anonim}, {rcId: {3993}}
 
 [sequence]
 v1,c

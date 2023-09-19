@@ -1,5 +1,5 @@
 [title]
-Un singur nume se aude {author: {Speranța}, {rcId: {64156}}
+Un singur nume se aude {composer: {Speranța}, {rcId: {64156}}
 
 [sequence]
 v1,v2,v3

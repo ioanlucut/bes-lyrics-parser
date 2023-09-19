@@ -1,5 +1,5 @@
 [title]
-Cu radacini de foc {author: {Nicolae Moldoveanu}, {rcId: {244544}}
+Cu radacini de foc {composer: {Nicolae Moldoveanu}, {rcId: {244544}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Numai tu esti vesnic {author: {Petrișor Bodea}, {rcId: {71167}}
+Numai tu esti vesnic {composer: {Petrișor Bodea}, {rcId: {71167}}
 
 [sequence]
 v1,c

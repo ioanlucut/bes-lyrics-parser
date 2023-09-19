@@ -1,5 +1,5 @@
 [title]
-Fericirea {author: {Grupul, Fericirea}, {rcId: {142854}}
+Fericirea {composer: {Grupul, Fericirea}, {rcId: {142854}}
 
 [sequence]
 v1,c,v2,c,v3,c

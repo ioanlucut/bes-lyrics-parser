@@ -1,5 +1,5 @@
 [title]
-Multumesc {author: {Excelsior Band}, {rcId: {189167}}
+Multumesc {composer: {Excelsior Band}, {rcId: {189167}}
 
 [sequence]
 v1,b,c,v2,b,c

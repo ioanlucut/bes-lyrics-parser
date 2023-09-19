@@ -1,5 +1,5 @@
 [title]
-Intr-un sat sarac mai indepartat (ce minune ce minune) {author: {Căpâlna Violeta}, {rcId: {183373}}
+Intr-un sat sarac mai indepartat (ce minune ce minune) {composer: {Căpâlna Violeta}, {rcId: {183373}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Ai fost acolo {author: {Denis Costea}, {rcId: {192721}}
+Ai fost acolo {composer: {Denis Costea}, {rcId: {192721}}
 
 [sequence]
 v1,c,v2,c,v3,c

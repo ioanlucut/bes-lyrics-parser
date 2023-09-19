@@ -1,5 +1,5 @@
 [title]
-Sa-i multumesti lui dumnezeu {author: {Sara Dehelean}, {rcId: {5522}}
+Sa-i multumesti lui dumnezeu {composer: {Sara Dehelean}, {rcId: {5522}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

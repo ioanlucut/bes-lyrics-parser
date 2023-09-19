@@ -1,5 +1,5 @@
 [title]
-Petru si ioan au pornit {author: {Anonim}, {rcId: {59177}}
+Petru si ioan au pornit {composer: {Anonim}, {rcId: {59177}}
 
 [sequence]
 v1,c

@@ -1,5 +1,5 @@
 [title]
-Stiu ce te apasa prieten draga {author: {Adina și Paul Iliescu}, {rcId: {185331}}
+Stiu ce te apasa prieten draga {composer: {Adina și Paul Iliescu}, {rcId: {185331}}
 
 [sequence]
 v1,c,v2,c,v3,c

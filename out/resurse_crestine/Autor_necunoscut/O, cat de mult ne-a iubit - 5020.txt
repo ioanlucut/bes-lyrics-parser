@@ -1,5 +1,5 @@
 [title]
-O cat de mult ne-a iubit {author: {Anonim}, {rcId: {5020}}
+O cat de mult ne-a iubit {composer: {Anonim}, {rcId: {5020}}
 
 [sequence]
 v1

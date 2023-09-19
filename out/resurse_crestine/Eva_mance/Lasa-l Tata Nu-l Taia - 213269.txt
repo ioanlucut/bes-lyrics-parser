@@ -1,5 +1,5 @@
 [title]
-Lasa-l tata nu-l taia {author: {Eva Mance}, {rcId: {213269}}
+Lasa-l tata nu-l taia {composer: {Eva Mance}, {rcId: {213269}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

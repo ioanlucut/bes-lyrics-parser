@@ -1,5 +1,5 @@
 [title]
-Biserica de-ai fi stiut {author: {Anonim}, {rcId: {244072}}
+Biserica de-ai fi stiut {composer: {Anonim}, {rcId: {244072}}
 
 [sequence]
 v1,v2,v3,v4,v5

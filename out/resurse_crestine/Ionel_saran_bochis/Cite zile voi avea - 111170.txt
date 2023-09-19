@@ -1,5 +1,5 @@
 [title]
-Cite zile voi avea {author: {Ionel Saran Bochis}, {rcId: {111170}}
+Cite zile voi avea {composer: {Ionel Saran Bochis}, {rcId: {111170}}
 
 [sequence]
 v1,c,v2,c,v3,c

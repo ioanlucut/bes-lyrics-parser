@@ -1,5 +1,5 @@
 [title]
-Chiar si pentru cei micuti {author: {Anonim}, {rcId: {236328}}
+Chiar si pentru cei micuti {composer: {Anonim}, {rcId: {236328}}
 
 [sequence]
 v1,v2,v3

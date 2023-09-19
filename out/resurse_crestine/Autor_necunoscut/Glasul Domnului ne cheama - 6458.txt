@@ -1,5 +1,5 @@
 [title]
-Glasul domnului ne cheama {author: {Anonim}, {rcId: {6458}}
+Glasul domnului ne cheama {composer: {Anonim}, {rcId: {6458}}
 
 [sequence]
 v1,v2,v3,v4

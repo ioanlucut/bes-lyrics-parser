@@ -1,5 +1,5 @@
 [title]
-Domnul m-a intrebat adesea {author: {Leleu Niculae}, {rcId: {75230}}
+Domnul m-a intrebat adesea {composer: {Leleu Niculae}, {rcId: {75230}}
 
 [sequence]
 v1,c,v2,c,v3,c

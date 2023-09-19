@@ -1,5 +1,5 @@
 [title]
-Avem un dumnezeu adevarat {author: {Cornel Sava}, {rcId: {203892}}
+Avem un dumnezeu adevarat {composer: {Cornel Sava}, {rcId: {203892}}
 
 [sequence]
 v1,c,v2,c,v3,c

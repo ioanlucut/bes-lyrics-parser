@@ -1,5 +1,5 @@
 [title]
-Ce frumos se vede de sus {author: {Isaura Dinca  Isaura Gheorgiu}, {rcId: {154076}}
+Ce frumos se vede de sus {composer: {Isaura Dinca  Isaura Gheorgiu}, {rcId: {154076}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

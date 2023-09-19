@@ -1,5 +1,5 @@
 [title]
-Tu prieten care ratacesti {author: {Grup Golgota}, {rcId: {235669}}
+Tu prieten care ratacesti {composer: {Grup Golgota}, {rcId: {235669}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Cine altul decat isus {author: {Thoro Harris, Traducere RO}, {rcId: {1697}}
+Cine altul decat isus {composer: {Thoro Harris, Traducere RO}, {rcId: {1697}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

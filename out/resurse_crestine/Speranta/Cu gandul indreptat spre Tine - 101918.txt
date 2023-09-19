@@ -1,5 +1,5 @@
 [title]
-Cu gandul indreptat spre tine {author: {Speranța}, {rcId: {101918}}
+Cu gandul indreptat spre tine {composer: {Speranța}, {rcId: {101918}}
 
 [sequence]
 v1,c,v2,c2

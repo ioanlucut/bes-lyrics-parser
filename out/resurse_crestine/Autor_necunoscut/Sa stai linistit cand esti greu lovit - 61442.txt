@@ -1,5 +1,5 @@
 [title]
-Sa stai linistit cand esti greu lovit {author: {Anonim}, {rcId: {61442}}
+Sa stai linistit cand esti greu lovit {composer: {Anonim}, {rcId: {61442}}
 
 [sequence]
 v1,v2,v3

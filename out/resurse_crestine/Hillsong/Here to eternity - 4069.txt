@@ -1,5 +1,5 @@
 [title]
-Here to eternity {author: {Hillsong, Traducere RO}, {rcId: {4069}}
+Here to eternity {composer: {Hillsong, Traducere RO}, {rcId: {4069}}
 
 [sequence]
 v1,b,c,v2,c

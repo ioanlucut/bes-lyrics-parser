@@ -1,5 +1,5 @@
 [title]
-Cel care s-a dat pe sine {author: {The Messengers}, {rcId: {115402}}
+Cel care s-a dat pe sine {composer: {The Messengers}, {rcId: {115402}}
 
 [sequence]
 v1,c,v2,c,v3,c

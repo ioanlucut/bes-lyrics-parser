@@ -1,5 +1,5 @@
 [title]
-Domnul ne istoriseste {author: {Diaz Amos}, {rcId: {237944}}
+Domnul ne istoriseste {composer: {Diaz Amos}, {rcId: {237944}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

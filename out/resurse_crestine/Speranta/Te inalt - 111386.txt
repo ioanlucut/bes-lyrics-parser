@@ -1,5 +1,5 @@
 [title]
-Te inalt {author: {Speranța}, {rcId: {111386}}
+Te inalt {composer: {Speranța}, {rcId: {111386}}
 
 [sequence]
 v1,c,v2,c

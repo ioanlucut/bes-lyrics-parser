@@ -1,5 +1,5 @@
 [title]
-Cantec de dragoste {author: {Diaz Amos}, {rcId: {240922}}
+Cantec de dragoste {composer: {Diaz Amos}, {rcId: {240922}}
 
 [sequence]
 v1,c,v2,c,e

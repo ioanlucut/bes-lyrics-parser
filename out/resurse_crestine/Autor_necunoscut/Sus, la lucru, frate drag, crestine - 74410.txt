@@ -1,5 +1,5 @@
 [title]
-Sus la lucru frate drag crestine {author: {Anonim}, {rcId: {74410}}
+Sus la lucru frate drag crestine {composer: {Anonim}, {rcId: {74410}}
 
 [sequence]
 v1,c,v2,c,v3,c

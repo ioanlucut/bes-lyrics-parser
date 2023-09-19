@@ -1,5 +1,5 @@
 [title]
-Asteptam ziua aceea mareata {author: {Anonim}, {rcId: {190613}}
+Asteptam ziua aceea mareata {composer: {Anonim}, {rcId: {190613}}
 
 [sequence]
 v1,c,v2,c,v3,c

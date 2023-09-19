@@ -1,5 +1,5 @@
 [title]
-Te-ai inselat {author: {N’sanse}, {rcId: {74645}}
+Te-ai inselat {composer: {N’sanse}, {rcId: {74645}}
 
 [sequence]
 v1,c,v2,c,e

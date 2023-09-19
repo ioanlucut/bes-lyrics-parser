@@ -1,5 +1,5 @@
 [title]
-Tu ma conduci {author: {Samuel Moldovean}, {rcId: {201605}}
+Tu ma conduci {composer: {Samuel Moldovean}, {rcId: {201605}}
 
 [sequence]
 v1,c,v2,c

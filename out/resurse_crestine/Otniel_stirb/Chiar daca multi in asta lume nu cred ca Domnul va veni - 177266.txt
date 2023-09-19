@@ -1,5 +1,5 @@
 [title]
-Chiar daca multi in asta lume nu cred ca domnul va veni {author: {Otniel Stirb}, {rcId: {177266}}
+Chiar daca multi in asta lume nu cred ca domnul va veni {composer: {Otniel Stirb}, {rcId: {177266}}
 
 [sequence]
 v1,c,v2,c,v3,c

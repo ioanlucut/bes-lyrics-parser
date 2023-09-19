@@ -1,5 +1,5 @@
 [title]
-De-atatea ori te afli la rascruci de drum {author: {Anonim}, {rcId: {6452}}
+De-atatea ori te afli la rascruci de drum {composer: {Anonim}, {rcId: {6452}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Bucurie cine are {author: {Anonim}, {rcId: {141179}}
+Bucurie cine are {composer: {Anonim}, {rcId: {141179}}
 
 [sequence]
 v1,v2,v3

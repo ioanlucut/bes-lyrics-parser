@@ -1,5 +1,5 @@
 [title]
-Astept isus mareata zi {author: {Anonim}, {rcId: {211842}}
+Astept isus mareata zi {composer: {Anonim}, {rcId: {211842}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,v4,c,v5,c

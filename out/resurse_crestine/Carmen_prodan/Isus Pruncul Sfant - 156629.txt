@@ -1,5 +1,5 @@
 [title]
-Isus pruncul sfant {author: {Carmen Prodan}, {rcId: {156629}}
+Isus pruncul sfant {composer: {Carmen Prodan}, {rcId: {156629}}
 
 [sequence]
 v1,c,v2,c,v3,c

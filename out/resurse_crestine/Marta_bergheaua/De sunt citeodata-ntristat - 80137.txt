@@ -1,5 +1,5 @@
 [title]
-De sunt citeodata-ntristat {author: {Marta Bergheaua}, {rcId: {80137}}
+De sunt citeodata-ntristat {composer: {Marta Bergheaua}, {rcId: {80137}}
 
 [sequence]
 v1,v2,v3

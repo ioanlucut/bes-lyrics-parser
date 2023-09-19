@@ -1,5 +1,5 @@
 [title]
-De-atatea ori te-am cautat in incercari nespuse {author: {Mariana Someșan}, {rcId: {205299}}
+De-atatea ori te-am cautat in incercari nespuse {composer: {Mariana Someșan}, {rcId: {205299}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4,v5,c5

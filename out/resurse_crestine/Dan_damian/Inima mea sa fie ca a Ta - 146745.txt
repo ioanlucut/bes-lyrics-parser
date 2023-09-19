@@ -1,5 +1,5 @@
 [title]
-Inima mea sa fie ca a ta {author: {Dan Damian}, {rcId: {146745}}
+Inima mea sa fie ca a ta {composer: {Dan Damian}, {rcId: {146745}}
 
 [sequence]
 v1,c,c2,e

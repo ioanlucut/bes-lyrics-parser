@@ -1,5 +1,5 @@
 [title]
-Ce scurta iti este viata {author: {Anonim}, {rcId: {236696}}
+Ce scurta iti este viata {composer: {Anonim}, {rcId: {236696}}
 
 [sequence]
 v1,v2,v3

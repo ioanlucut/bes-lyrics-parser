@@ -1,5 +1,5 @@
 [title]
-Jertfa de lauda {author: {Zao Thusia}, {rcId: {74117}}
+Jertfa de lauda {composer: {Zao Thusia}, {rcId: {74117}}
 
 [sequence]
 v1,v2,c,e

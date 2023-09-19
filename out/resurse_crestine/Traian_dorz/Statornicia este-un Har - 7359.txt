@@ -1,5 +1,5 @@
 [title]
-Statornicia este-un har {author: {Traian Dorz}, {rcId: {7359}}
+Statornicia este-un har {composer: {Traian Dorz}, {rcId: {7359}}
 
 [sequence]
 v1,v2,v3,v4

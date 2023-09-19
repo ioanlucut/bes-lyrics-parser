@@ -1,5 +1,5 @@
 [title]
-Cer sublim {author: {Diaz Amos}, {rcId: {239014}}
+Cer sublim {composer: {Diaz Amos}, {rcId: {239014}}
 
 [sequence]
 v1,c,v2,c,e

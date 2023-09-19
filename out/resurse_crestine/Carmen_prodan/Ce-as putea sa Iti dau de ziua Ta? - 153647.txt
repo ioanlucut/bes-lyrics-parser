@@ -1,5 +1,5 @@
 [title]
-Ce-as putea sa iti dau de ziua ta? {author: {Carmen Prodan}, {rcId: {153647}}
+Ce-as putea sa iti dau de ziua ta? {composer: {Carmen Prodan}, {rcId: {153647}}
 
 [sequence]
 v1,c,v2,c,v3,c

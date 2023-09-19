@@ -1,5 +1,5 @@
 [title]
-Doamne da-ne tu cantarea {author: {Oltita Nistor}, {rcId: {96933}}
+Doamne da-ne tu cantarea {composer: {Oltita Nistor}, {rcId: {96933}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

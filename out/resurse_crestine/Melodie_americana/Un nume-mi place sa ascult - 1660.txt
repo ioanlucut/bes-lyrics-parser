@@ -1,5 +1,5 @@
 [title]
-Un nume-mi place sa ascult {author: {Melodie Americana}, {rcId: {1660}}
+Un nume-mi place sa ascult {composer: {Melodie Americana}, {rcId: {1660}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

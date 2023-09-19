@@ -1,5 +1,5 @@
 [title]
-Vine o zi one day {author: {BBSO, Matt Redman}, {rcId: {206026}}
+Vine o zi one day {composer: {BBSO, Matt Redman}, {rcId: {206026}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c,c,c

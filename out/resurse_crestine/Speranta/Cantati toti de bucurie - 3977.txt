@@ -1,5 +1,5 @@
 [title]
-Cantati toti de bucurie {author: {Speranța}, {rcId: {3977}}
+Cantati toti de bucurie {composer: {Speranța}, {rcId: {3977}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Ruga mamei {author: {Mihai Sinogaci si Ala Bragari}, {rcId: {109668}}
+Ruga mamei {composer: {Mihai Sinogaci si Ala Bragari}, {rcId: {109668}}
 
 [sequence]
 c,v1,c2,v2,c3,v3,c3

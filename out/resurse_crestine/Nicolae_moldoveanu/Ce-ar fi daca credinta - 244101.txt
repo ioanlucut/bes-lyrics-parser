@@ -1,5 +1,5 @@
 [title]
-Ce-ar fi daca credinta {author: {Nicolae Moldoveanu}, {rcId: {244101}}
+Ce-ar fi daca credinta {composer: {Nicolae Moldoveanu}, {rcId: {244101}}
 
 [sequence]
 v1,v2,v3,v4

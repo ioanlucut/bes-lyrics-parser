@@ -1,5 +1,5 @@
 [title]
-Crede neincetat {author: {Ira D.Sankey}, {rcId: {1793}}
+Crede neincetat {composer: {Ira D.Sankey}, {rcId: {1793}}
 
 [sequence]
 v1,c,v2,c,v3,c

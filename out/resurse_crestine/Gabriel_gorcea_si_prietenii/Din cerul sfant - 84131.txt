@@ -1,5 +1,5 @@
 [title]
-Din cerul sfant {author: {Gabriel Gorcea și prietenii}, {rcId: {84131}}
+Din cerul sfant {composer: {Gabriel Gorcea și prietenii}, {rcId: {84131}}
 
 [sequence]
 v1,c,v2,c,v3,c

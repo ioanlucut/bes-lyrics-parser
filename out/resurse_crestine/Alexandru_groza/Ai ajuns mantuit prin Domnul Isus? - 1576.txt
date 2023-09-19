@@ -1,5 +1,5 @@
 [title]
-Ai ajuns mantuit prin domnul isus? {author: {Alexandru Groza}, {rcId: {1576}}
+Ai ajuns mantuit prin domnul isus? {composer: {Alexandru Groza}, {rcId: {1576}}
 
 [sequence]
 v1,c,v2,c,v3,c

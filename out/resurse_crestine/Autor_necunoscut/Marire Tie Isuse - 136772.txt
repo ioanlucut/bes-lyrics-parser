@@ -1,5 +1,5 @@
 [title]
-Marire tie isuse {author: {Anonim}, {rcId: {136772}}
+Marire tie isuse {composer: {Anonim}, {rcId: {136772}}
 
 [sequence]
 v1,v2,v3

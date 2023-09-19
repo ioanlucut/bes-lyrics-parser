@@ -1,5 +1,5 @@
 [title]
-Cand ma trezesc sunt tot cu tine {author: {Anonim}, {rcId: {220552}}
+Cand ma trezesc sunt tot cu tine {composer: {Anonim}, {rcId: {220552}}
 
 [sequence]
 v1,v2,v3,v4,v5

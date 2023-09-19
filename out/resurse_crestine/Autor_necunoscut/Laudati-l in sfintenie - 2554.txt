@@ -1,5 +1,5 @@
 [title]
-Laudati-l in sfintenie {author: {Anonim}, {rcId: {2554}}
+Laudati-l in sfintenie {composer: {Anonim}, {rcId: {2554}}
 
 [sequence]
 v1

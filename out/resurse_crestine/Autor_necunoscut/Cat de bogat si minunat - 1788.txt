@@ -1,5 +1,5 @@
 [title]
-Cat de bogat si minunat {author: {Anonim}, {rcId: {1788}}
+Cat de bogat si minunat {composer: {Anonim}, {rcId: {1788}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

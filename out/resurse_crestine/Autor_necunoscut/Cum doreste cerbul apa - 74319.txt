@@ -1,5 +1,5 @@
 [title]
-Cum doreste cerbul apa {author: {Anonim}, {rcId: {74319}}
+Cum doreste cerbul apa {composer: {Anonim}, {rcId: {74319}}
 
 [sequence]
 v1,c,v2,c

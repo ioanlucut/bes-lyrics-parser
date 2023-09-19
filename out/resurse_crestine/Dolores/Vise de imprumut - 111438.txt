@@ -1,5 +1,5 @@
 [title]
-Vise de imprumut {author: {Dolores}, {rcId: {111438}}
+Vise de imprumut {composer: {Dolores}, {rcId: {111438}}
 
 [sequence]
 v1,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Urcam pe treptele de har {author: {Nicolae Moldoveanu}, {rcId: {5907}}
+Urcam pe treptele de har {composer: {Nicolae Moldoveanu}, {rcId: {5907}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4,v5,c5

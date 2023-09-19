@@ -1,5 +1,5 @@
 [title]
-In locul meu tu fiu de dumnezeu {author: {Anonim}, {rcId: {162266}}
+In locul meu tu fiu de dumnezeu {composer: {Anonim}, {rcId: {162266}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Ziditi-va casa cu domnul pe stanca {author: {Tabita Bobu}, {rcId: {152024}}
+Ziditi-va casa cu domnul pe stanca {composer: {Tabita Bobu}, {rcId: {152024}}
 
 [sequence]
 v1,c,v2,c2,e

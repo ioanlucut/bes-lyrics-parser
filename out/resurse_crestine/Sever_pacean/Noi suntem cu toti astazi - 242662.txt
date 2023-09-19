@@ -1,5 +1,5 @@
 [title]
-Noi suntem cu toti astazi {author: {Sever Păcean}, {rcId: {242662}}
+Noi suntem cu toti astazi {composer: {Sever Păcean}, {rcId: {242662}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Nu vreau sa fiu un firicel ofilit {author: {Lidia Gheorghe}, {rcId: {146276}}
+Nu vreau sa fiu un firicel ofilit {composer: {Lidia Gheorghe}, {rcId: {146276}}
 
 [sequence]
 v1,c,v2,c2

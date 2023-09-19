@@ -1,5 +1,5 @@
 [title]
-O scump camin {author: {Anonim}, {rcId: {79428}}
+O scump camin {composer: {Anonim}, {rcId: {79428}}
 
 [sequence]
 v1,v2,v3,v4

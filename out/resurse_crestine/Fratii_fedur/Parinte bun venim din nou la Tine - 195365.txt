@@ -1,5 +1,5 @@
 [title]
-Parinte bun venim din nou la tine {author: {Frații Fedur}, {rcId: {195365}}
+Parinte bun venim din nou la tine {composer: {Frații Fedur}, {rcId: {195365}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

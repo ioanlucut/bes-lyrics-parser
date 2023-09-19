@@ -1,5 +1,5 @@
 [title]
-Alerg la tine {author: {Vitamina C}, {rcId: {2805}}
+Alerg la tine {composer: {Vitamina C}, {rcId: {2805}}
 
 [sequence]
 v1,c,v2,c

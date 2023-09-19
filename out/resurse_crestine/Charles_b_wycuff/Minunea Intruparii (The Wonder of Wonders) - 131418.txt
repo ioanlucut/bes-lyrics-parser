@@ -1,5 +1,5 @@
 [title]
-Minunea intruparii (the wonder of wonders) {author: {Charles B. Wycuff, Traducere RO}, {rcId: {131418}}
+Minunea intruparii (the wonder of wonders) {composer: {Charles B. Wycuff, Traducere RO}, {rcId: {131418}}
 
 [sequence]
 v1,c,v2,c,v3,c,s,c

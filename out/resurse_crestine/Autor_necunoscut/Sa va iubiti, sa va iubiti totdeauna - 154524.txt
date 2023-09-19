@@ -1,5 +1,5 @@
 [title]
-Sa va iubiti sa va iubiti totdeauna {author: {Anonim}, {rcId: {154524}}
+Sa va iubiti sa va iubiti totdeauna {composer: {Anonim}, {rcId: {154524}}
 
 [sequence]
 v1,c,v2,c,v3,c,v2,c

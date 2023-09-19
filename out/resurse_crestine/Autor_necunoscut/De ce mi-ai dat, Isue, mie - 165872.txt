@@ -1,5 +1,5 @@
 [title]
-De ce mi-ai dat isue mie {author: {Anonim}, {rcId: {165872}}
+De ce mi-ai dat isue mie {composer: {Anonim}, {rcId: {165872}}
 
 [sequence]
 v1,v2,v3,v4,v5

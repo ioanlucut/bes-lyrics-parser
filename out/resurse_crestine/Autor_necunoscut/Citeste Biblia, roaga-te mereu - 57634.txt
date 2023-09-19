@@ -1,5 +1,5 @@
 [title]
-Citeste biblia roaga-te mereu {author: {Anonim}, {rcId: {57634}}
+Citeste biblia roaga-te mereu {composer: {Anonim}, {rcId: {57634}}
 
 [sequence]
 v1,v2

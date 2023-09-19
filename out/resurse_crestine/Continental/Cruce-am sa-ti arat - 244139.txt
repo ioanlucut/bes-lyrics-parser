@@ -1,5 +1,5 @@
 [title]
-Cruce-am sa-ti arat {author: {Continental}, {rcId: {244139}}
+Cruce-am sa-ti arat {composer: {Continental}, {rcId: {244139}}
 
 [sequence]
 v1,c,v2,c,e,c

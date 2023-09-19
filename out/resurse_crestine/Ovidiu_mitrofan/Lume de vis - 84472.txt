@@ -1,5 +1,5 @@
 [title]
-Lume de vis {author: {Ovidiu Mitrofan}, {rcId: {84472}}
+Lume de vis {composer: {Ovidiu Mitrofan}, {rcId: {84472}}
 
 [sequence]
 v1,c,v2,c2,e

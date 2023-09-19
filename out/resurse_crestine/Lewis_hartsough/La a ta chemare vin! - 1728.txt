@@ -1,5 +1,5 @@
 [title]
-La a ta chemare vin {author: {Lewis Hartsough}, {rcId: {1728}}
+La a ta chemare vin {composer: {Lewis Hartsough}, {rcId: {1728}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

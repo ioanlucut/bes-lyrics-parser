@@ -1,5 +1,5 @@
 [title]
-Ranile lui isus {author: {Tabita Briiac}, {rcId: {212191}}
+Ranile lui isus {composer: {Tabita Briiac}, {rcId: {212191}}
 
 [sequence]
 v1,c,v2,c

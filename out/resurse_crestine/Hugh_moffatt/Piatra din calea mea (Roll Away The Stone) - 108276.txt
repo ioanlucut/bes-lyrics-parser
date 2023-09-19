@@ -1,5 +1,5 @@
 [title]
-Piatra din calea mea (roll away the stone) {author: {Hugh Moffatt, Traducere RO}, {rcId: {108276}}
+Piatra din calea mea (roll away the stone) {composer: {Hugh Moffatt, Traducere RO}, {rcId: {108276}}
 
 [sequence]
 v1,c,v2,c,s,c

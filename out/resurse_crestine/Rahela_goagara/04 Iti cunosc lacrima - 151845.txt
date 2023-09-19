@@ -1,5 +1,5 @@
 [title]
-Iti cunosc lacrima {author: {Rahela Goagără}, {rcId: {151845}}
+Iti cunosc lacrima {composer: {Rahela Goagără}, {rcId: {151845}}
 
 [sequence]
 v1,c,v2,c,e

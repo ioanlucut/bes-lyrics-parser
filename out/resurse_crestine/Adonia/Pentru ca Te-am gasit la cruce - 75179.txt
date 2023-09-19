@@ -1,5 +1,5 @@
 [title]
-Pentru ca te-am gasit la cruce {author: {Adonia}, {rcId: {75179}}
+Pentru ca te-am gasit la cruce {composer: {Adonia}, {rcId: {75179}}
 
 [sequence]
 v1,c,v2,c,v3,c

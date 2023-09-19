@@ -1,5 +1,5 @@
 [title]
-Iti multumim {author: {The Messengers}, {rcId: {98580}}
+Iti multumim {composer: {The Messengers}, {rcId: {98580}}
 
 [sequence]
 v1,c,v2,c

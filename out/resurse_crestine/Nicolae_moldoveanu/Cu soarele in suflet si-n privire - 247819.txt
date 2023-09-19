@@ -1,5 +1,5 @@
 [title]
-Cu soarele in suflet si-n privire {author: {Nicolae Moldoveanu}, {rcId: {247819}}
+Cu soarele in suflet si-n privire {composer: {Nicolae Moldoveanu}, {rcId: {247819}}
 
 [sequence]
 v1,v2,v3,v4

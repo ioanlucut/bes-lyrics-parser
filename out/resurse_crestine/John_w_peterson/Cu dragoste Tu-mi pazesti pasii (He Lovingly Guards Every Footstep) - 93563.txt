@@ -1,5 +1,5 @@
 [title]
-Cu dragoste tu-mi pazesti pasii (he lovingly guards every footstep) {author: {John W. Peterson, Traducere RO}, {rcId: {93563}}
+Cu dragoste tu-mi pazesti pasii (he lovingly guards every footstep) {composer: {John W. Peterson, Traducere RO}, {rcId: {93563}}
 
 [sequence]
 v1,c,v2,c,v3,c,s,c

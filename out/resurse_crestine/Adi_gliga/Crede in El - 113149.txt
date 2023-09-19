@@ -1,5 +1,5 @@
 [title]
-Crede in el {author: {Adi Gliga}, {rcId: {113149}}
+Crede in el {composer: {Adi Gliga}, {rcId: {113149}}
 
 [sequence]
 v1,v2,v3,v4,v5

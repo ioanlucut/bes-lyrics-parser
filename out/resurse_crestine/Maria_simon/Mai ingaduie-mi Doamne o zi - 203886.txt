@@ -1,5 +1,5 @@
 [title]
-Mai ingaduie-mi doamne o zi {author: {Maria Șimon}, {rcId: {203886}}
+Mai ingaduie-mi doamne o zi {composer: {Maria Șimon}, {rcId: {203886}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

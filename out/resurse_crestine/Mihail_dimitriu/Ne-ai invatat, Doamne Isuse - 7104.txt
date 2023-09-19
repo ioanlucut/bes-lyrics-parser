@@ -1,5 +1,5 @@
 [title]
-Ne-ai invatat doamne isuse {author: {Mihail Dimitriu}, {rcId: {7104}}
+Ne-ai invatat doamne isuse {composer: {Mihail Dimitriu}, {rcId: {7104}}
 
 [sequence]
 v1,c,v2,c,v3,c

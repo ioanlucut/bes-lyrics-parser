@@ -1,5 +1,5 @@
 [title]
-In tristetea iernii (in the bleak midwinter) {author: {Christina G. Rossetti, Traducere RO}, {rcId: {116994}}
+In tristetea iernii (in the bleak midwinter) {composer: {Christina G. Rossetti, Traducere RO}, {rcId: {116994}}
 
 [sequence]
 v1,v2,v3,v4,s

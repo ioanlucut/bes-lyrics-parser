@@ -1,5 +1,5 @@
 [title]
-O betleem oras micut {author: {Lewis H.Render}, {rcId: {1506}}
+O betleem oras micut {composer: {Lewis H.Render}, {rcId: {1506}}
 
 [sequence]
 v1,v2,v3

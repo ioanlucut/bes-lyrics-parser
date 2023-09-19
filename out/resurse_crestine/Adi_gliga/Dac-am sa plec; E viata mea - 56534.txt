@@ -1,5 +1,5 @@
 [title]
-Dac-am sa plec; e viata mea {author: {Adi Gliga}, {rcId: {56534}}
+Dac-am sa plec; e viata mea {composer: {Adi Gliga}, {rcId: {56534}}
 
 [sequence]
 v1,c,v2,c,v3,c

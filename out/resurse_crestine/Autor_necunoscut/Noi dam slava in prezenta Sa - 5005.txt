@@ -1,5 +1,5 @@
 [title]
-Noi dam slava in prezenta sa {author: {Anonim}, {rcId: {5005}}
+Noi dam slava in prezenta sa {composer: {Anonim}, {rcId: {5005}}
 
 [sequence]
 v1,c

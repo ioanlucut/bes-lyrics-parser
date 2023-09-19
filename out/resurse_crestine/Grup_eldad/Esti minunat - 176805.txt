@@ -1,5 +1,5 @@
 [title]
-Esti minunat {author: {Grup Eldad}, {rcId: {176805}}
+Esti minunat {composer: {Grup Eldad}, {rcId: {176805}}
 
 [sequence]
 v1,c,c

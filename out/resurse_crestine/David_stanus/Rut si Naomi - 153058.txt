@@ -1,5 +1,5 @@
 [title]
-Rut si naomi {author: {David Stănuș}, {rcId: {153058}}
+Rut si naomi {composer: {David Stănuș}, {rcId: {153058}}
 
 [sequence]
 v1,c,v2,c,v3,c

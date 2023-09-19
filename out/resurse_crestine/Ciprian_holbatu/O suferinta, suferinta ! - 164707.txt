@@ -1,5 +1,5 @@
 [title]
-O suferinta suferinta {author: {Ciprian Holbatu}, {rcId: {164707}}
+O suferinta suferinta {composer: {Ciprian Holbatu}, {rcId: {164707}}
 
 [sequence]
 v1,v2,v3,v4,v5

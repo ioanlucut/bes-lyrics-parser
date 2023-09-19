@@ -1,5 +1,5 @@
 [title]
-Singur in noaptea rece {author: {Anonim}, {rcId: {194208}}
+Singur in noaptea rece {composer: {Anonim}, {rcId: {194208}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c

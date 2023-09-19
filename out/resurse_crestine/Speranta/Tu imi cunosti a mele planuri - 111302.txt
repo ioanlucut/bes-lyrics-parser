@@ -1,5 +1,5 @@
 [title]
-Tu imi cunosti a mele planuri {author: {Speranța}, {rcId: {111302}}
+Tu imi cunosti a mele planuri {composer: {Speranța}, {rcId: {111302}}
 
 [sequence]
 v1,v2,v3,v4,v5

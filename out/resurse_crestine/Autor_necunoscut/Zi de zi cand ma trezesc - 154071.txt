@@ -1,5 +1,5 @@
 [title]
-Zi de zi cand ma trezesc {author: {Anonim}, {rcId: {154071}}
+Zi de zi cand ma trezesc {composer: {Anonim}, {rcId: {154071}}
 
 [sequence]
 v1,v2,v3,v4,v5

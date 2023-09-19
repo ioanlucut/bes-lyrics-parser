@@ -1,5 +1,5 @@
 [title]
-O mama ce-a crescut copii {author: {Ionică Stoica}, {rcId: {195462}}
+O mama ce-a crescut copii {composer: {Ionică Stoica}, {rcId: {195462}}
 
 [sequence]
 v1,v2,v3,v4,v5

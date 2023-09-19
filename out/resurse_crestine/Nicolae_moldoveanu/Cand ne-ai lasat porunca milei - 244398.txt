@@ -1,5 +1,5 @@
 [title]
-Cand ne-ai lasat porunca milei {author: {Nicolae Moldoveanu}, {rcId: {244398}}
+Cand ne-ai lasat porunca milei {composer: {Nicolae Moldoveanu}, {rcId: {244398}}
 
 [sequence]
 v1,v2,v3,v4,v5

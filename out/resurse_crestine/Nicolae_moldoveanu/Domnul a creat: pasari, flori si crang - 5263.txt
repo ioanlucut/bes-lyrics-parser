@@ -1,5 +1,5 @@
 [title]
-Domnul a creat: pasari flori si crang {author: {Nicolae Moldoveanu}, {rcId: {5263}}
+Domnul a creat: pasari flori si crang {composer: {Nicolae Moldoveanu}, {rcId: {5263}}
 
 [sequence]
 v1,c,v2,c2

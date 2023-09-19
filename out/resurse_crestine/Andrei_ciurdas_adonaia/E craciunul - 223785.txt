@@ -1,5 +1,5 @@
 [title]
-E craciunul {author: {Andrei Ciurdas, Adonaia}, {rcId: {223785}}
+E craciunul {composer: {Andrei Ciurdas, Adonaia}, {rcId: {223785}}
 
 [sequence]
 v1,b,c,v2,b,c2,e

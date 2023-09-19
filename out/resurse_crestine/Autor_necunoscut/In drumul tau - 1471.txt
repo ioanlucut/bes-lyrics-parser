@@ -1,5 +1,5 @@
 [title]
-In drumul tau {author: {Anonim}, {rcId: {1471}}
+In drumul tau {composer: {Anonim}, {rcId: {1471}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Pregateste-te {author: {Grup Amos}, {rcId: {80717}}
+Pregateste-te {composer: {Grup Amos}, {rcId: {80717}}
 
 [sequence]
 v1,c,v2,c,v3,c

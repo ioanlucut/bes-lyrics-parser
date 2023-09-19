@@ -1,5 +1,5 @@
 [title]
-Du-ma la izvorul {author: {Alfred Bierli}, {rcId: {1735}}
+Du-ma la izvorul {composer: {Alfred Bierli}, {rcId: {1735}}
 
 [sequence]
 v1,c,v2,c,v3,c

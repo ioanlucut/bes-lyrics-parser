@@ -1,5 +1,5 @@
 [title]
-Pentru tine dumnezeu {author: {Autor necunoscut}, {rcId: {229285}}
+Pentru tine dumnezeu {composer: {Autor necunoscut}, {rcId: {229285}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

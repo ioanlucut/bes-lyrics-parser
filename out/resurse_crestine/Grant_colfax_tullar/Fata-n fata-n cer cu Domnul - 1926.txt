@@ -1,5 +1,5 @@
 [title]
-Fata-n fata-n cer cu domnul {author: {Grant Colfax Tullar}, {rcId: {1926}}
+Fata-n fata-n cer cu domnul {composer: {Grant Colfax Tullar}, {rcId: {1926}}
 
 [sequence]
 v1,c,v2,c,v3,c

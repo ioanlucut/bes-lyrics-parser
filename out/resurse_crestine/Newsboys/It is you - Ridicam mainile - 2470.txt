@@ -1,5 +1,5 @@
 [title]
-It is you - ridicam mainile {author: {Newsboys, Traducere RO}, {rcId: {2470}}
+It is you - ridicam mainile {composer: {Newsboys, Traducere RO}, {rcId: {2470}}
 
 [sequence]
 v1,b,c,e

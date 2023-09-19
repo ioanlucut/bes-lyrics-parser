@@ -1,5 +1,5 @@
 [title]
-N-ar fi un maine {author: {Ionuț Crăciun}, {rcId: {89473}}
+N-ar fi un maine {composer: {Ionuț Crăciun}, {rcId: {89473}}
 
 [sequence]
 v1,c,v2,b,c

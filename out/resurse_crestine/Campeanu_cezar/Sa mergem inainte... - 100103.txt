@@ -1,5 +1,5 @@
 [title]
-Sa mergem inainte {author: {Câmpeanu Cezar}, {rcId: {100103}}
+Sa mergem inainte {composer: {Câmpeanu Cezar}, {rcId: {100103}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

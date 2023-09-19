@@ -1,5 +1,5 @@
 [title]
-In rugaciune fii mereu {author: {Anonim}, {rcId: {1298}}
+In rugaciune fii mereu {composer: {Anonim}, {rcId: {1298}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Atotputernice domn {author: {Anonim}, {rcId: {1229}}
+Atotputernice domn {composer: {Anonim}, {rcId: {1229}}
 
 [sequence]
 v1,v2,v3

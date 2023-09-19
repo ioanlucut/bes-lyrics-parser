@@ -1,5 +1,5 @@
 [title]
-Bucurie negraita (all my heart this night rejoices) {author: {Horatio W. Parker, Traducere RO}, {rcId: {182595}}
+Bucurie negraita (all my heart this night rejoices) {composer: {Horatio W. Parker, Traducere RO}, {rcId: {182595}}
 
 [sequence]
 v1,v2,v3,s

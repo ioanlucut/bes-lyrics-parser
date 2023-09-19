@@ -1,5 +1,5 @@
 [title]
-De-atata vreme-astept {author: {Nicolae Moldoveanu}, {rcId: {5726}}
+De-atata vreme-astept {composer: {Nicolae Moldoveanu}, {rcId: {5726}}
 
 [sequence]
 v1,v2,v3,v4,v5

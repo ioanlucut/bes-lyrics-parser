@@ -1,5 +1,5 @@
 [title]
-N-am stiut sa te primesc {author: {Text: Alina Bazon, Muzica: Corina Bazon}, {rcId: {199393}}
+N-am stiut sa te primesc {composer: {Text: Alina Bazon, Muzica: Corina Bazon}, {rcId: {199393}}
 
 [sequence]
 v1,c,v2,c,v3,c

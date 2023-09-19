@@ -1,5 +1,5 @@
 [title]
-Cu tine stau de vorba {author: {Otto Pascal}, {rcId: {230546}}
+Cu tine stau de vorba {composer: {Otto Pascal}, {rcId: {230546}}
 
 [sequence]
 v1,v0,v2,e

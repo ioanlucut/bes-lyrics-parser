@@ -1,5 +1,5 @@
 [title]
-Tu spui ca povara ti-e grea {author: {Anonim}, {rcId: {114127}}
+Tu spui ca povara ti-e grea {composer: {Anonim}, {rcId: {114127}}
 
 [sequence]
 v1,c,v2,c2

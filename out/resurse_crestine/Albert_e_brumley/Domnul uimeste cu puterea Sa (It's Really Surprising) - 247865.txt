@@ -1,5 +1,5 @@
 [title]
-Domnul uimeste cu puterea sa (it s really surprising) {author: {Albert E. Brumley, Traducere RO}, {rcId: {247865}}
+Domnul uimeste cu puterea sa (it s really surprising) {composer: {Albert E. Brumley, Traducere RO}, {rcId: {247865}}
 
 [sequence]
 v1,c,v2,c

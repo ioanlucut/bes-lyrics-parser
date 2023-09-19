@@ -1,5 +1,5 @@
 [title]
-Ia jugul lui hristos pe umeri {author: {Traian Dorz}, {rcId: {223818}}
+Ia jugul lui hristos pe umeri {composer: {Traian Dorz}, {rcId: {223818}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

@@ -1,5 +1,5 @@
 [title]
-Fi laudat si inaltat {author: {Anonim}, {rcId: {151284}}
+Fi laudat si inaltat {composer: {Anonim}, {rcId: {151284}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

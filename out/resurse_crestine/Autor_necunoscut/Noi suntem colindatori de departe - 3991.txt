@@ -1,5 +1,5 @@
 [title]
-Noi suntem colindatori de departe {author: {Anonim}, {rcId: {3991}}
+Noi suntem colindatori de departe {composer: {Anonim}, {rcId: {3991}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Sus pe deal {author: {Cristian și Cristina Văduva}, {rcId: {132122}}
+Sus pe deal {composer: {Cristian și Cristina Văduva}, {rcId: {132122}}
 
 [sequence]
 v1,c,v2,c,v3,c

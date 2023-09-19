@@ -1,5 +1,5 @@
 [title]
-Te caut zi de zi {author: {David Preuteasa}, {rcId: {184783}}
+Te caut zi de zi {composer: {David Preuteasa}, {rcId: {184783}}
 
 [sequence]
 v1,c,v2,c,v3,c

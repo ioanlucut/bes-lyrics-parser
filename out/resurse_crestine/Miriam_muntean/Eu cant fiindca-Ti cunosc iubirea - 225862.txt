@@ -1,5 +1,5 @@
 [title]
-Eu cant fiindca-ti cunosc iubirea {author: {Miriam Muntean}, {rcId: {225862}}
+Eu cant fiindca-ti cunosc iubirea {composer: {Miriam Muntean}, {rcId: {225862}}
 
 [sequence]
 v1,c,v2,c,v3,c

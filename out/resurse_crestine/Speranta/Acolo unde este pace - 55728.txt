@@ -1,5 +1,5 @@
 [title]
-Acolo unde este pace {author: {Speranța}, {rcId: {55728}}
+Acolo unde este pace {composer: {Speranța}, {rcId: {55728}}
 
 [sequence]
 v1,v2,v3

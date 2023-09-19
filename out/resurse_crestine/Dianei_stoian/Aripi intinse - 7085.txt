@@ -1,5 +1,5 @@
 [title]
-Aripi intinse {author: {Dianei Stoian}, {rcId: {7085}}
+Aripi intinse {composer: {Dianei Stoian}, {rcId: {7085}}
 
 [sequence]
 v1,c,v2,c

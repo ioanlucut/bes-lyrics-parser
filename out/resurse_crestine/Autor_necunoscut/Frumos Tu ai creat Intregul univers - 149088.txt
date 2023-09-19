@@ -1,5 +1,5 @@
 [title]
-Frumos tu ai creat intregul univers {author: {Anonim}, {rcId: {149088}}
+Frumos tu ai creat intregul univers {composer: {Anonim}, {rcId: {149088}}
 
 [sequence]
 v1,c,v2,c

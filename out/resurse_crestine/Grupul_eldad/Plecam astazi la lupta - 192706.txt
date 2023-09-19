@@ -1,5 +1,5 @@
 [title]
-Plecam astazi la lupta {author: {Grupul Eldad}, {rcId: {192706}}
+Plecam astazi la lupta {composer: {Grupul Eldad}, {rcId: {192706}}
 
 [sequence]
 v1,c,v2,c,v3,c,c

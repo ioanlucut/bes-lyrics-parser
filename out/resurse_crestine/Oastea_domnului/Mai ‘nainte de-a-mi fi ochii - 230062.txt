@@ -1,5 +1,5 @@
 [title]
-Mai nainte de-a-mi fi ochii {author: {Oastea Domnului}, {rcId: {230062}}
+Mai nainte de-a-mi fi ochii {composer: {Oastea Domnului}, {rcId: {230062}}
 
 [sequence]
 v1,v2,v3

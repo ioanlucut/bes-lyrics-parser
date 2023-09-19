@@ -1,5 +1,5 @@
 [title]
-Nu e nimeni ca tine in univers {author: {Anonim}, {rcId: {62636}}
+Nu e nimeni ca tine in univers {composer: {Anonim}, {rcId: {62636}}
 
 [sequence]
 v1,c,e

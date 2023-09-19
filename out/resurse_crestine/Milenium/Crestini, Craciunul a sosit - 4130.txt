@@ -1,5 +1,5 @@
 [title]
-Crestini craciunul a sosit {author: {Milenium}, {rcId: {4130}}
+Crestini craciunul a sosit {composer: {Milenium}, {rcId: {4130}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

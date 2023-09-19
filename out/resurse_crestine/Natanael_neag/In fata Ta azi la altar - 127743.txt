@@ -1,5 +1,5 @@
 [title]
-In fata ta azi la altar {author: {Natanael Neag}, {rcId: {127743}}
+In fata ta azi la altar {composer: {Natanael Neag}, {rcId: {127743}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c2

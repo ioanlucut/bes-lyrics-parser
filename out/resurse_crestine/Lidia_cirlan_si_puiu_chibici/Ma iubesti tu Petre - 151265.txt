@@ -1,5 +1,5 @@
 [title]
-Ma iubesti tu petre {author: {Lidia Cîrlan și Puiu Chibici}, {rcId: {151265}}
+Ma iubesti tu petre {composer: {Lidia Cîrlan și Puiu Chibici}, {rcId: {151265}}
 
 [sequence]
 c,v2,c2,v3,c3,s,c4

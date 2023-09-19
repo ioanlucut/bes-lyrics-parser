@@ -1,5 +1,5 @@
 [title]
-De la melc {author: {Nicolae Moldoveanu}, {rcId: {234217}}
+De la melc {composer: {Nicolae Moldoveanu}, {rcId: {234217}}
 
 [sequence]
 v1,v2,v3,v4

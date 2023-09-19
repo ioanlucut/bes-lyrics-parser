@@ -1,5 +1,5 @@
 [title]
-Cu un chip de orhidee {author: {Necunoscut}, {rcId: {233268}}
+Cu un chip de orhidee {composer: {Necunoscut}, {rcId: {233268}}
 
 [sequence]
 v1,v2,v3,v4

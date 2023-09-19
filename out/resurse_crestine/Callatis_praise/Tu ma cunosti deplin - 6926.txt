@@ -1,5 +1,5 @@
 [title]
-Tu ma cunosti deplin {author: {Callatis Praise}, {rcId: {6926}}
+Tu ma cunosti deplin {composer: {Callatis Praise}, {rcId: {6926}}
 
 [sequence]
 v1,v2

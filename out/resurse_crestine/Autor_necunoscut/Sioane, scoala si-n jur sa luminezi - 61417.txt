@@ -1,5 +1,5 @@
 [title]
-Sioane scoala si-n jur sa luminezi {author: {Anonim}, {rcId: {61417}}
+Sioane scoala si-n jur sa luminezi {composer: {Anonim}, {rcId: {61417}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

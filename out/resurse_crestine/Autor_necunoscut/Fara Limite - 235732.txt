@@ -1,5 +1,5 @@
 [title]
-Fara limite {author: {Anonim}, {rcId: {235732}}
+Fara limite {composer: {Anonim}, {rcId: {235732}}
 
 [sequence]
 v1,v2,e,v3,e,e

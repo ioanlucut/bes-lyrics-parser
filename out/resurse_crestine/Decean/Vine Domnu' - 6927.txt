@@ -1,5 +1,5 @@
 [title]
-Vine domnu {author: {Decean}, {rcId: {6927}}
+Vine domnu {composer: {Decean}, {rcId: {6927}}
 
 [sequence]
 v1,b,c,v2,c,e

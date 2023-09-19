@@ -1,5 +1,5 @@
 [title]
-Cat vei lucra pentru mine {author: {Lidia Gheorghe}, {rcId: {103129}}
+Cat vei lucra pentru mine {composer: {Lidia Gheorghe}, {rcId: {103129}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

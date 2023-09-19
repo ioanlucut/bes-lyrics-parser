@@ -1,5 +1,5 @@
 [title]
-Cand vine incercarea {author: {Emanuel Sava}, {rcId: {201234}}
+Cand vine incercarea {composer: {Emanuel Sava}, {rcId: {201234}}
 
 [sequence]
 v1,v2,v3

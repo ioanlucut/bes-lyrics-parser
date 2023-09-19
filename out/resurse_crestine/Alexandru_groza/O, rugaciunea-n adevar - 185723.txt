@@ -1,5 +1,5 @@
 [title]
-O rugaciunea-n adevar {author: {Alexandru Groza}, {rcId: {185723}}
+O rugaciunea-n adevar {composer: {Alexandru Groza}, {rcId: {185723}}
 
 [sequence]
 v1,c,v2,c

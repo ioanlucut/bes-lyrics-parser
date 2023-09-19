@@ -1,5 +1,5 @@
 [title]
-Noaptea dinaintea invierii (the night before easter) {author: {Donnie Sumner, Dwayne Friend, Traducere RO}, {rcId: {106264}}
+Noaptea dinaintea invierii (the night before easter) {composer: {Donnie Sumner, Dwayne Friend, Traducere RO}, {rcId: {106264}}
 
 [sequence]
 v1,v2,v3,c,v4,c,s,c

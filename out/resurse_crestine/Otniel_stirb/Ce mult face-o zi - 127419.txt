@@ -1,5 +1,5 @@
 [title]
-Ce mult face-o zi {author: {Otniel Stirb}, {rcId: {127419}}
+Ce mult face-o zi {composer: {Otniel Stirb}, {rcId: {127419}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

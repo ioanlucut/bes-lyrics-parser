@@ -1,5 +1,5 @@
 [title]
-Bine-ati venit azi la altar {author: {Familia Jula}, {rcId: {59246}}
+Bine-ati venit azi la altar {composer: {Familia Jula}, {rcId: {59246}}
 
 [sequence]
 v1,c,v2,c,v3,c

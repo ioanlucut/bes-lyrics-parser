@@ -1,5 +1,5 @@
 [title]
-Compilatie (da eu ma bucur evanghelia omul din galilea suntem o familie) {author: {Marian Barbieru}, {rcId: {239472}}
+Compilatie (da eu ma bucur evanghelia omul din galilea suntem o familie) {composer: {Marian Barbieru}, {rcId: {239472}}
 
 [sequence]
 v1,c,v2,c,v3,c,c,v1,c,v1,c,v1,c

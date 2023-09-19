@@ -1,5 +1,5 @@
 [title]
-Un calator se cobora {author: {Nicolae Moldoveanu}, {rcId: {5904}}
+Un calator se cobora {composer: {Nicolae Moldoveanu}, {rcId: {5904}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4,v5,c5,v6,c6

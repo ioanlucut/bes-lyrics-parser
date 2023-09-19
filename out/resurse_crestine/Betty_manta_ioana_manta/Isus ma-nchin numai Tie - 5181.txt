@@ -1,5 +1,5 @@
 [title]
-Isus ma-nchin numai tie {author: {Betty Manta, Ioana Manta}, {rcId: {5181}}
+Isus ma-nchin numai tie {composer: {Betty Manta, Ioana Manta}, {rcId: {5181}}
 
 [sequence]
 v1,c,e

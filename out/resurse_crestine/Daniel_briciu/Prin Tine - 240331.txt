@@ -1,5 +1,5 @@
 [title]
-Prin tine {author: {Daniel Briciu}, {rcId: {240331}}
+Prin tine {composer: {Daniel Briciu}, {rcId: {240331}}
 
 [sequence]
 v1,c,v2,c,v3,c

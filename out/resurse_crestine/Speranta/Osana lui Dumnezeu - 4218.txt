@@ -1,5 +1,5 @@
 [title]
-Osana lui dumnezeu {author: {Speranța}, {rcId: {4218}}
+Osana lui dumnezeu {composer: {Speranța}, {rcId: {4218}}
 
 [sequence]
 v1,c,v2,c,v3,c

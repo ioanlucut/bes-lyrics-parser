@@ -1,5 +1,5 @@
 [title]
-Ce mult te doresc o isuse {author: {Alexandru Groza}, {rcId: {7351}}
+Ce mult te doresc o isuse {composer: {Alexandru Groza}, {rcId: {7351}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

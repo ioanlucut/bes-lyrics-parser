@@ -1,5 +1,5 @@
 [title]
-Dragostea e cel mai mare o dintre daruri pe paman {author: {Nicolae Moldoveanu}, {rcId: {5816}}
+Dragostea e cel mai mare o dintre daruri pe paman {composer: {Nicolae Moldoveanu}, {rcId: {5816}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

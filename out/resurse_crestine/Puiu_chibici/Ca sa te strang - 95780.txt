@@ -1,5 +1,5 @@
 [title]
-Ca sa te strang {author: {Puiu Chibici}, {rcId: {95780}}
+Ca sa te strang {composer: {Puiu Chibici}, {rcId: {95780}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Privesc inspre gradina in care s-a rugat {author: {Speranța}, {rcId: {111339}}
+Privesc inspre gradina in care s-a rugat {composer: {Speranța}, {rcId: {111339}}
 
 [sequence]
 v1,c,v2,c

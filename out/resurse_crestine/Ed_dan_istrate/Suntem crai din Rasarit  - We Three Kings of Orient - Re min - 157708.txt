@@ -1,5 +1,5 @@
 [title]
-Suntem crai din rasarit - we three kings of orient - re min {author: {ed. Dan Istrate}, {rcId: {157708}}
+Suntem crai din rasarit - we three kings of orient - re min {composer: {ed. Dan Istrate}, {rcId: {157708}}
 
 [sequence]
 v1,c,v2,c,v3,c

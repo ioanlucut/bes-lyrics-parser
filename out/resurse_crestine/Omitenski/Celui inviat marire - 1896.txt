@@ -1,5 +1,5 @@
 [title]
-Celui inviat marire {author: {O.Mitenski}, {rcId: {1896}}
+Celui inviat marire {composer: {O.Mitenski}, {rcId: {1896}}
 
 [sequence]
 v1,c,v2,c,v3,c

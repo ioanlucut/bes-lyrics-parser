@@ -1,5 +1,5 @@
 [title]
-La tine doamne noi ades venim {author: {Anonim}, {rcId: {6298}}
+La tine doamne noi ades venim {composer: {Anonim}, {rcId: {6298}}
 
 [sequence]
 v1,c,v2,c,v3,c

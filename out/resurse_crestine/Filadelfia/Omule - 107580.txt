@@ -1,5 +1,5 @@
 [title]
-Omule {author: {Filadelfia}, {rcId: {107580}}
+Omule {composer: {Filadelfia}, {rcId: {107580}}
 
 [sequence]
 v1,c,v2,c,v3,c

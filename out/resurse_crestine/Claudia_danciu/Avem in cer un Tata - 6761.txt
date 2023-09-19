@@ -1,5 +1,5 @@
 [title]
-Avem in cer un tata {author: {Claudia Danciu}, {rcId: {6761}}
+Avem in cer un tata {composer: {Claudia Danciu}, {rcId: {6761}}
 
 [sequence]
 v1,v2,v3,v4

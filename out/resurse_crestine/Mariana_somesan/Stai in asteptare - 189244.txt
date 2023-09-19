@@ -1,5 +1,5 @@
 [title]
-Stai in asteptare {author: {Mariana Someșan}, {rcId: {189244}}
+Stai in asteptare {composer: {Mariana Someșan}, {rcId: {189244}}
 
 [sequence]
 v1,c,v2,c,v3,c

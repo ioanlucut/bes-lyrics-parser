@@ -1,5 +1,5 @@
 [title]
-Mergi peste munti si spune {author: {Anonim}, {rcId: {93329}}
+Mergi peste munti si spune {composer: {Anonim}, {rcId: {93329}}
 
 [sequence]
 c,v1,c

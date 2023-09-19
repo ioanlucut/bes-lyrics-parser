@@ -1,5 +1,5 @@
 [title]
-S-a-ntelenit ogorul sfant {author: {Nicolae Moldoveanu}, {rcId: {5882}}
+S-a-ntelenit ogorul sfant {composer: {Nicolae Moldoveanu}, {rcId: {5882}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

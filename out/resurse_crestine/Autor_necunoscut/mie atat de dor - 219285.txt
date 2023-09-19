@@ -1,5 +1,5 @@
 [title]
-Mie atat de dor {author: {Anonim}, {rcId: {219285}}
+Mie atat de dor {composer: {Anonim}, {rcId: {219285}}
 
 [sequence]
 v1,c,v2,c,v3,c

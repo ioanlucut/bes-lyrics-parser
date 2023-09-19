@@ -1,5 +1,5 @@
 [title]
-Cu inima si gura mea {author: {Anonim}, {rcId: {2168}}
+Cu inima si gura mea {composer: {Anonim}, {rcId: {2168}}
 
 [sequence]
 v1,v2,v3,v4

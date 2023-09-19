@@ -1,5 +1,5 @@
 [title]
-Domnul vine va veni curand {author: {Leleu Niculae}, {rcId: {75567}}
+Domnul vine va veni curand {composer: {Leleu Niculae}, {rcId: {75567}}
 
 [sequence]
 v1,v2

@@ -1,5 +1,5 @@
 [title]
-Stii tu oare raul cel sfint {author: {Mihail Cebotarev}, {rcId: {7268}}
+Stii tu oare raul cel sfint {composer: {Mihail Cebotarev}, {rcId: {7268}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

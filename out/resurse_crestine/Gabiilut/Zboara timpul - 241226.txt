@@ -1,5 +1,5 @@
 [title]
-Zboara timpul {author: {Gabi_Ilut}, {rcId: {241226}}
+Zboara timpul {composer: {Gabi_Ilut}, {rcId: {241226}}
 
 [sequence]
 v1,c,v2,c

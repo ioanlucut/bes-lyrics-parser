@@ -1,5 +1,5 @@
 [title]
-Ce n-ai da tu in clipa mortii {author: {Nicolae Moldoveanu}, {rcId: {5559}}
+Ce n-ai da tu in clipa mortii {composer: {Nicolae Moldoveanu}, {rcId: {5559}}
 
 [sequence]
 v1,v2,v3,v4,v5

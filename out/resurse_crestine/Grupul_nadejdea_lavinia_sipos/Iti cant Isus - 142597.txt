@@ -1,5 +1,5 @@
 [title]
-Iti cant isus {author: {Grupul Nadejdea, Lavinia Șipoș}, {rcId: {142597}}
+Iti cant isus {composer: {Grupul Nadejdea, Lavinia Șipoș}, {rcId: {142597}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Frumoasa dragoste dintai {author: {Nicolae Moldoveanu}, {rcId: {242732}}
+Frumoasa dragoste dintai {composer: {Nicolae Moldoveanu}, {rcId: {242732}}
 
 [sequence]
 v1,v2,v3,v4,v5

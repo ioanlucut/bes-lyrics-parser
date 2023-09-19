@@ -1,5 +1,5 @@
 [title]
-N-ar fi un maine {author: {Continental}, {rcId: {4522}}
+N-ar fi un maine {composer: {Continental}, {rcId: {4522}}
 
 [sequence]
 v1,c,v2,b,c

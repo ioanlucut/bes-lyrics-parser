@@ -1,5 +1,5 @@
 [title]
-Pasi spre paradis {author: {Diaz Amos}, {rcId: {239008}}
+Pasi spre paradis {composer: {Diaz Amos}, {rcId: {239008}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Isuse scump isuse {author: {Nicolae Moldoveanu}, {rcId: {228835}}
+Isuse scump isuse {composer: {Nicolae Moldoveanu}, {rcId: {228835}}
 
 [sequence]
 v1,v2,v3,v4

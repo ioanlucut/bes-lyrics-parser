@@ -1,5 +1,5 @@
 [title]
-Iata omul (behold the man) {author: {Marijohn Wilkin, Traducere RO}, {rcId: {228592}}
+Iata omul (behold the man) {composer: {Marijohn Wilkin, Traducere RO}, {rcId: {228592}}
 
 [sequence]
 v1,c,v2,c

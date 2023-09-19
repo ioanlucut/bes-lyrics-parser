@@ -1,5 +1,5 @@
 [title]
-Doresc sa-i cant lui dumnezeu {author: {Anonim}, {rcId: {61204}}
+Doresc sa-i cant lui dumnezeu {composer: {Anonim}, {rcId: {61204}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Tic tac eu sunt un copilas mic {author: {Leleu Niculae}, {rcId: {75258}}
+Tic tac eu sunt un copilas mic {composer: {Leleu Niculae}, {rcId: {75258}}
 
 [sequence]
 v1

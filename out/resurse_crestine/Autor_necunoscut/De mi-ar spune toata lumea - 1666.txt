@@ -1,5 +1,5 @@
 [title]
-De mi-ar spune toata lumea {author: {Anonim}, {rcId: {1666}}
+De mi-ar spune toata lumea {composer: {Anonim}, {rcId: {1666}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

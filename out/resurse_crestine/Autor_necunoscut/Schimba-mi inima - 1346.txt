@@ -1,5 +1,5 @@
 [title]
-Schimba-mi inima {author: {Anonim}, {rcId: {1346}}
+Schimba-mi inima {composer: {Anonim}, {rcId: {1346}}
 
 [sequence]
 v1,c

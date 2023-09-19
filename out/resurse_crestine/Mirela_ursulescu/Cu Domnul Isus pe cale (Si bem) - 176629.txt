@@ -1,5 +1,5 @@
 [title]
-Cu domnul isus pe cale (si bem) {author: {Mirela Ursulescu}, {rcId: {176629}}
+Cu domnul isus pe cale (si bem) {composer: {Mirela Ursulescu}, {rcId: {176629}}
 
 [sequence]
 v1,c,v2,c,v3,c

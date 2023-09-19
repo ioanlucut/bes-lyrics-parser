@@ -1,5 +1,5 @@
 [title]
-Mergea odata o fetita {author: {Anonim}, {rcId: {815}}
+Mergea odata o fetita {composer: {Anonim}, {rcId: {815}}
 
 [sequence]
 v1,v2,v3,v4,v5

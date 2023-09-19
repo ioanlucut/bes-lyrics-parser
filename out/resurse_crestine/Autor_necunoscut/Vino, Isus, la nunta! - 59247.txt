@@ -1,5 +1,5 @@
 [title]
-Vino isus la nunta {author: {Anonim}, {rcId: {59247}}
+Vino isus la nunta {composer: {Anonim}, {rcId: {59247}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

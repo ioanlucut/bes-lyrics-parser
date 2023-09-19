@@ -1,5 +1,5 @@
 [title]
-Venit din cer un copil {author: {Anonim}, {rcId: {93321}}
+Venit din cer un copil {composer: {Anonim}, {rcId: {93321}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

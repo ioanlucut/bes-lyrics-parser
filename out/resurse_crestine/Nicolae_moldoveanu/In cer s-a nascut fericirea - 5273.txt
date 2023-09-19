@@ -1,5 +1,5 @@
 [title]
-In cer s-a nascut fericirea {author: {Nicolae Moldoveanu}, {rcId: {5273}}
+In cer s-a nascut fericirea {composer: {Nicolae Moldoveanu}, {rcId: {5273}}
 
 [sequence]
 v1,c,v2,c,v3,c,v3,c2

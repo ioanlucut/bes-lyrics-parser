@@ -1,5 +1,5 @@
 [title]
-Imi ridic ochii inspre munti {author: {Anonim}, {rcId: {62659}}
+Imi ridic ochii inspre munti {composer: {Anonim}, {rcId: {62659}}
 
 [sequence]
 v1,v2

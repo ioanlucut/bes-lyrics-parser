@@ -1,5 +1,5 @@
 [title]
-Si frunzele s-au vestejit {author: {Nicolae Moldoveanu}, {rcId: {5547}}
+Si frunzele s-au vestejit {composer: {Nicolae Moldoveanu}, {rcId: {5547}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

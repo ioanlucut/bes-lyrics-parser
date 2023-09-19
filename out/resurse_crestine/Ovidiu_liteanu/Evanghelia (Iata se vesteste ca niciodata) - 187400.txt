@@ -1,5 +1,5 @@
 [title]
-Evanghelia (iata se vesteste ca niciodata) {author: {Ovidiu Liteanu}, {rcId: {187400}}
+Evanghelia (iata se vesteste ca niciodata) {composer: {Ovidiu Liteanu}, {rcId: {187400}}
 
 [sequence]
 v1,c,v2,c,v3,c

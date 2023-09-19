@@ -1,5 +1,5 @@
 [title]
-O mai rabda porumbita {author: {Puiu Chibici}, {rcId: {198016}}
+O mai rabda porumbita {composer: {Puiu Chibici}, {rcId: {198016}}
 
 [sequence]
 v1,v2,v3,v4,v5

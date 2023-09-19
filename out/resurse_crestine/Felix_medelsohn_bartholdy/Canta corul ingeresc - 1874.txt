@@ -1,5 +1,5 @@
 [title]
-Canta corul ingeresc {author: {Felix Medelsohn Bartholdy}, {rcId: {1874}}
+Canta corul ingeresc {composer: {Felix Medelsohn Bartholdy}, {rcId: {1874}}
 
 [sequence]
 v1,v2,v3

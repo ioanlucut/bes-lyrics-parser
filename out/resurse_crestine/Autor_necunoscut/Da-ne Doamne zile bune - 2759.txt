@@ -1,5 +1,5 @@
 [title]
-Da-ne doamne zile bune {author: {Anonim}, {rcId: {2759}}
+Da-ne doamne zile bune {composer: {Anonim}, {rcId: {2759}}
 
 [sequence]
 v1,v2,v3,v4,v5

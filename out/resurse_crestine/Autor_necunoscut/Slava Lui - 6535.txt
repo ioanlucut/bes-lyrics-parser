@@ -1,5 +1,5 @@
 [title]
-Slava lui {author: {Anonim}, {rcId: {6535}}
+Slava lui {composer: {Anonim}, {rcId: {6535}}
 
 [sequence]
 v1,c,v2,c,v3,c

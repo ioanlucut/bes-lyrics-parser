@@ -1,5 +1,5 @@
 [title]
-Minuni si mistere si-o mare putere {author: {Anonim}, {rcId: {107298}}
+Minuni si mistere si-o mare putere {composer: {Anonim}, {rcId: {107298}}
 
 [sequence]
 v1,c,v2,c,v3,c

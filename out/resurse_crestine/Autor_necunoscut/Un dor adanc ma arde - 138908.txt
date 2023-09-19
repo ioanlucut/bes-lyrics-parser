@@ -1,5 +1,5 @@
 [title]
-Un dor adanc ma arde {author: {Anonim}, {rcId: {138908}}
+Un dor adanc ma arde {composer: {Anonim}, {rcId: {138908}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v4,c,v6,c,v7,c,v8,c,v9,c,v10,c

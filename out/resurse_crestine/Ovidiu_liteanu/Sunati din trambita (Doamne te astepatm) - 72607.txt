@@ -1,5 +1,5 @@
 [title]
-Sunati din trambita (doamne te astepatm) {author: {Ovidiu Liteanu}, {rcId: {72607}}
+Sunati din trambita (doamne te astepatm) {composer: {Ovidiu Liteanu}, {rcId: {72607}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

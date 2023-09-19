@@ -1,5 +1,5 @@
 [title]
-Un colind sa inaltam {author: {Anonim}, {rcId: {5107}}
+Un colind sa inaltam {composer: {Anonim}, {rcId: {5107}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

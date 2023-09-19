@@ -1,5 +1,5 @@
 [title]
-Ce frumoasa-i tineretea {author: {Speranța}, {rcId: {3810}}
+Ce frumoasa-i tineretea {composer: {Speranța}, {rcId: {3810}}
 
 [sequence]
 v1,v2,v3

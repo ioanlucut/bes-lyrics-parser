@@ -1,5 +1,5 @@
 [title]
-Era pamantul plin de salnicie {author: {Anonim}, {rcId: {59196}}
+Era pamantul plin de salnicie {composer: {Anonim}, {rcId: {59196}}
 
 [sequence]
 v1,c,v2,c

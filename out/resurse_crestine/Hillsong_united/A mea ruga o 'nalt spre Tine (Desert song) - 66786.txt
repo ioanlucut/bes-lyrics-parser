@@ -1,5 +1,5 @@
 [title]
-A mea ruga o nalt spre tine (desert song) {author: {Hillsong United}, {rcId: {66786}}
+A mea ruga o nalt spre tine (desert song) {composer: {Hillsong United}, {rcId: {66786}}
 
 [sequence]
 v1,c,v2,b,c,v3,c

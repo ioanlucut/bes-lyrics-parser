@@ -1,5 +1,5 @@
 [title]
-Religia mea {author: {Nicolae Moldoveanu}, {rcId: {244176}}
+Religia mea {composer: {Nicolae Moldoveanu}, {rcId: {244176}}
 
 [sequence]
 v1,v2,v3,v4

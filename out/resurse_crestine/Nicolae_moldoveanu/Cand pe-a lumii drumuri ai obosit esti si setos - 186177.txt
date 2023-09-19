@@ -1,5 +1,5 @@
 [title]
-Cand pe-a lumii drumuri ai obosit esti si setos {author: {Nicolae Moldoveanu}, {rcId: {186177}}
+Cand pe-a lumii drumuri ai obosit esti si setos {composer: {Nicolae Moldoveanu}, {rcId: {186177}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

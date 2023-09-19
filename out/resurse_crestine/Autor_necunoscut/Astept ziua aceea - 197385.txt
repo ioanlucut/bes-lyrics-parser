@@ -1,5 +1,5 @@
 [title]
-Astept ziua aceea {author: {Anonim}, {rcId: {197385}}
+Astept ziua aceea {composer: {Anonim}, {rcId: {197385}}
 
 [sequence]
 v1,v2,v3,v4

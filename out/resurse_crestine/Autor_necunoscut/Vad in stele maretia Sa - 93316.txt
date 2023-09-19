@@ -1,5 +1,5 @@
 [title]
-Vad in stele maretia sa {author: {Anonim}, {rcId: {93316}}
+Vad in stele maretia sa {composer: {Anonim}, {rcId: {93316}}
 
 [sequence]
 v1,c,v2,c

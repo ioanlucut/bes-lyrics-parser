@@ -1,5 +1,5 @@
 [title]
-Betesda {author: {Ovidiu Liteanu}, {rcId: {82817}}
+Betesda {composer: {Ovidiu Liteanu}, {rcId: {82817}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

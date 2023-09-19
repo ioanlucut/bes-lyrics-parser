@@ -1,5 +1,5 @@
 [title]
-S-a nascut cel profetit {author: {Nutu Cornel}, {rcId: {222881}}
+S-a nascut cel profetit {composer: {Nutu Cornel}, {rcId: {222881}}
 
 [sequence]
 v1,c,v2,c,v3,c

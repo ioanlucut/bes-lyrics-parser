@@ -1,5 +1,5 @@
 [title]
-Spre miezul noptii-un glas rasuna viu {author: {Anonim}, {rcId: {59395}}
+Spre miezul noptii-un glas rasuna viu {composer: {Anonim}, {rcId: {59395}}
 
 [sequence]
 v1,c,v2,c,v3,c

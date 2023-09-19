@@ -1,5 +1,5 @@
 [title]
-Ce frumos tu ai creat {author: {Puiu Chibici}, {rcId: {137835}}
+Ce frumos tu ai creat {composer: {Puiu Chibici}, {rcId: {137835}}
 
 [sequence]
 v1,v2,v3,v4

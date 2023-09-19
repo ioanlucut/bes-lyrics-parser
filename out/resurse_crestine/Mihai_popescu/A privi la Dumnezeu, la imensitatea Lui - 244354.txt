@@ -1,5 +1,5 @@
 [title]
-A privi la dumnezeu la imensitatea lui {author: {Mihai Popescu}, {rcId: {244354}}
+A privi la dumnezeu la imensitatea lui {composer: {Mihai Popescu}, {rcId: {244354}}
 
 [sequence]
 v1,c,v2,c

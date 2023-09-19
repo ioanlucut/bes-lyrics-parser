@@ -1,5 +1,5 @@
 [title]
-De ce doar frunze {author: {Anonim}, {rcId: {1689}}
+De ce doar frunze {composer: {Anonim}, {rcId: {1689}}
 
 [sequence]
 v1,v2,v3

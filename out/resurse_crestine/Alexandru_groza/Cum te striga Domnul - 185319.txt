@@ -1,5 +1,5 @@
 [title]
-Cum te striga domnul {author: {Alexandru Groza}, {rcId: {185319}}
+Cum te striga domnul {composer: {Alexandru Groza}, {rcId: {185319}}
 
 [sequence]
 v1,c,s,c,v2,c

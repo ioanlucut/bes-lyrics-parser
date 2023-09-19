@@ -1,5 +1,5 @@
 [title]
-Daca stai sub ocrotirea {author: {Anonim}, {rcId: {1413}}
+Daca stai sub ocrotirea {composer: {Anonim}, {rcId: {1413}}
 
 [sequence]
 v1,c,v2,c,v3,c

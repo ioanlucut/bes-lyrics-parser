@@ -1,5 +1,5 @@
 [title]
-Domnul e viu domnul e bun (my savior my god) {author: {Aaron Shust Traducere, RO}, {rcId: {4576}}
+Domnul e viu domnul e bun (my savior my god) {composer: {Aaron Shust Traducere, RO}, {rcId: {4576}}
 
 [sequence]
 v1,b,c,v2,c

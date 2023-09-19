@@ -1,5 +1,5 @@
 [title]
-Daca vei avea in viata ta necazuri incercari {author: {Anonim}, {rcId: {3796}}
+Daca vei avea in viata ta necazuri incercari {composer: {Anonim}, {rcId: {3796}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Mi-ai spus {author: {Simina}, {rcId: {6823}}
+Mi-ai spus {composer: {Simina}, {rcId: {6823}}
 
 [sequence]
 v1,c,v2,c,v3,c

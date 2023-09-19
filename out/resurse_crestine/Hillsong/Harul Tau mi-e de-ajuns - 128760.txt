@@ -1,5 +1,5 @@
 [title]
-Harul tau mi-e de-ajuns {author: {Hillsong, Traducere RO}, {rcId: {128760}}
+Harul tau mi-e de-ajuns {composer: {Hillsong, Traducere RO}, {rcId: {128760}}
 
 [sequence]
 v1,b,v2,b,c,c,e

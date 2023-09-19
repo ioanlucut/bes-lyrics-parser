@@ -1,5 +1,5 @@
 [title]
-Pan aici dumnezeu ne-a ajutat {author: {Elena Gorcea}, {rcId: {61291}}
+Pan aici dumnezeu ne-a ajutat {composer: {Elena Gorcea}, {rcId: {61291}}
 
 [sequence]
 v1,v2,v3

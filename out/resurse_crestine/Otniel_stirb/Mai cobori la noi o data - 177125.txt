@@ -1,5 +1,5 @@
 [title]
-Mai cobori la noi o data {author: {Otniel Stirb}, {rcId: {177125}}
+Mai cobori la noi o data {composer: {Otniel Stirb}, {rcId: {177125}}
 
 [sequence]
 v1,v2,v3,v4

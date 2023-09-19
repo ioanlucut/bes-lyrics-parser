@@ -1,5 +1,5 @@
 [title]
-Daca dragoste avem {author: {Sanctus Pro Deo}, {rcId: {162341}}
+Daca dragoste avem {composer: {Sanctus Pro Deo}, {rcId: {162341}}
 
 [sequence]
 v1,v2,e,v3

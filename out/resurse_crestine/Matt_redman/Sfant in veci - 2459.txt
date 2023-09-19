@@ -1,5 +1,5 @@
 [title]
-Sfant in veci {author: {Matt Redman}, {rcId: {2459}}
+Sfant in veci {composer: {Matt Redman}, {rcId: {2459}}
 
 [sequence]
 v1,c,v2,c

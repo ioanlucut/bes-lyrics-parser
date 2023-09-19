@@ -1,5 +1,5 @@
 [title]
-Biruinta {author: {Alina Macarie}, {rcId: {75311}}
+Biruinta {composer: {Alina Macarie}, {rcId: {75311}}
 
 [sequence]
 c,v1,v2,c2

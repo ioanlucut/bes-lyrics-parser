@@ -1,5 +1,5 @@
 [title]
-Al meu isus {author: {Diana Pup}, {rcId: {234416}}
+Al meu isus {composer: {Diana Pup}, {rcId: {234416}}
 
 [sequence]
 v1,c,v2,c,e

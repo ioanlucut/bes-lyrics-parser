@@ -1,5 +1,5 @@
 [title]
-Leaga-ne doamne pe toti impreuna {author: {Bob Gillman}, {rcId: {4988}}
+Leaga-ne doamne pe toti impreuna {composer: {Bob Gillman}, {rcId: {4988}}
 
 [sequence]
 v1,c

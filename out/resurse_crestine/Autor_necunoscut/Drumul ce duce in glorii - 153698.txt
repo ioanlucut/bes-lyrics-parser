@@ -1,5 +1,5 @@
 [title]
-Drumul ce duce in glorii {author: {Anonim}, {rcId: {153698}}
+Drumul ce duce in glorii {composer: {Anonim}, {rcId: {153698}}
 
 [sequence]
 v1,c,v2,c,v3,c

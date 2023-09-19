@@ -1,5 +1,5 @@
 [title]
-O doamne ai mila de toti {author: {Nicolae Moldoveanu}, {rcId: {155700}}
+O doamne ai mila de toti {composer: {Nicolae Moldoveanu}, {rcId: {155700}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8

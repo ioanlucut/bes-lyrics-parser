@@ -1,5 +1,5 @@
 [title]
-Vrednic esti {author: {Anonim}, {rcId: {1558}}
+Vrednic esti {composer: {Anonim}, {rcId: {1558}}
 
 [sequence]
 v1,c,v2,c,v3,c2

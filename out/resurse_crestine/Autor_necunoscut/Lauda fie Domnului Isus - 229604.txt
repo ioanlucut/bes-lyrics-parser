@@ -1,5 +1,5 @@
 [title]
-Lauda fie domnului isus {author: {Anonim}, {rcId: {229604}}
+Lauda fie domnului isus {composer: {Anonim}, {rcId: {229604}}
 
 [sequence]
 v1,c,v2,c,v3,c

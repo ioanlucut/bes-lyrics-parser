@@ -1,5 +1,5 @@
 [title]
-Isuse noi venim naintea ta {author: {Anonim}, {rcId: {4976}}
+Isuse noi venim naintea ta {composer: {Anonim}, {rcId: {4976}}
 
 [sequence]
 v1,c

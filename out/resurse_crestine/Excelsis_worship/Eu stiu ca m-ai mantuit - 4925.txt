@@ -1,5 +1,5 @@
 [title]
-Eu stiu ca m-ai mantuit {author: {Excelsis Worship}, {rcId: {4925}}
+Eu stiu ca m-ai mantuit {composer: {Excelsis Worship}, {rcId: {4925}}
 
 [sequence]
 v1,c,e

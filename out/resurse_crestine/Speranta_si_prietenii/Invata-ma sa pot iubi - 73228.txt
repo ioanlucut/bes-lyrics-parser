@@ -1,5 +1,5 @@
 [title]
-Invata-ma sa pot iubi {author: {Speranța și prietenii}, {rcId: {73228}}
+Invata-ma sa pot iubi {composer: {Speranța și prietenii}, {rcId: {73228}}
 
 [sequence]
 v1,c,v2,c,v3,c

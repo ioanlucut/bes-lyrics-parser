@@ -1,5 +1,5 @@
 [title]
-M-am nascut sa-ti cant acumisus {author: {Anonim}, {rcId: {59181}}
+M-am nascut sa-ti cant acumisus {composer: {Anonim}, {rcId: {59181}}
 
 [sequence]
 v1,v2,v3,v4

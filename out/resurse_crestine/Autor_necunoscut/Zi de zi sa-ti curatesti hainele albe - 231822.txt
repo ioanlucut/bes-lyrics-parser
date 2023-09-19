@@ -1,5 +1,5 @@
 [title]
-Zi de zi sa-ti curatesti hainele albe {author: {Anonim}, {rcId: {231822}}
+Zi de zi sa-ti curatesti hainele albe {composer: {Anonim}, {rcId: {231822}}
 
 [sequence]
 v1,c

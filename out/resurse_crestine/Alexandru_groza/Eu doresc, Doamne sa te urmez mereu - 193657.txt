@@ -1,5 +1,5 @@
 [title]
-Eu doresc doamne sa te urmez mereu {author: {Alexandru Groza}, {rcId: {193657}}
+Eu doresc doamne sa te urmez mereu {composer: {Alexandru Groza}, {rcId: {193657}}
 
 [sequence]
 v1,c,c,v2,c

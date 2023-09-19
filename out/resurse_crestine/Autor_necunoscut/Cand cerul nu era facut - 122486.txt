@@ -1,5 +1,5 @@
 [title]
-Cand cerul nu era facut {author: {Anonim}, {rcId: {122486}}
+Cand cerul nu era facut {composer: {Anonim}, {rcId: {122486}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Sa-l sarbatorim {author: {Anonim}, {rcId: {144860}}
+Sa-l sarbatorim {composer: {Anonim}, {rcId: {144860}}
 
 [sequence]
 v1,b,c,v2,b,c

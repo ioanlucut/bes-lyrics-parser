@@ -1,5 +1,5 @@
 [title]
-Rataceam {author: {Adi Gliga}, {rcId: {113043}}
+Rataceam {composer: {Adi Gliga}, {rcId: {113043}}
 
 [sequence]
 v1,c,v2,c,v3,c

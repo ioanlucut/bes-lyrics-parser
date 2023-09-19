@@ -1,5 +1,5 @@
 [title]
-In fiecare dimineata vad doamne bunatatea ta {author: {Nicu Drăghici}, {rcId: {237356}}
+In fiecare dimineata vad doamne bunatatea ta {composer: {Nicu Drăghici}, {rcId: {237356}}
 
 [sequence]
 v1,c,v2,c,v3,c

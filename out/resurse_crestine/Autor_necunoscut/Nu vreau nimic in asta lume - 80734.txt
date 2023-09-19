@@ -1,5 +1,5 @@
 [title]
-Nu vreau nimic in asta lume {author: {Anonim}, {rcId: {80734}}
+Nu vreau nimic in asta lume {composer: {Anonim}, {rcId: {80734}}
 
 [sequence]
 v1,c,v2,c

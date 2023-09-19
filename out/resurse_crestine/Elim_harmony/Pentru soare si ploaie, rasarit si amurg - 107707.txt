@@ -1,5 +1,5 @@
 [title]
-Pentru soare si ploaie rasarit si amurg {author: {Elim Harmony}, {rcId: {107707}}
+Pentru soare si ploaie rasarit si amurg {composer: {Elim Harmony}, {rcId: {107707}}
 
 [sequence]
 v1,c,v2,c2,e

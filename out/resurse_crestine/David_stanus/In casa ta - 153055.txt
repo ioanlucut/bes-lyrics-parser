@@ -1,5 +1,5 @@
 [title]
-In casa ta {author: {David Stănuș}, {rcId: {153055}}
+In casa ta {composer: {David Stănuș}, {rcId: {153055}}
 
 [sequence]
 v1,v2,v3,v4,v5

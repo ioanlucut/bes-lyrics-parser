@@ -1,5 +1,5 @@
 [title]
-Zidurile ierihonului {author: {Speranța pentru copii}, {rcId: {89168}}
+Zidurile ierihonului {composer: {Speranța pentru copii}, {rcId: {89168}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,v4,c,s,c

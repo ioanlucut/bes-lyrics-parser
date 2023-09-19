@@ -1,5 +1,5 @@
 [title]
-Doamne te maresc acuma {author: {Aranj.Corneliu Radulescu}, {rcId: {1632}}
+Doamne te maresc acuma {composer: {Aranj.Corneliu Radulescu}, {rcId: {1632}}
 
 [sequence]
 v1,c,v2,c,v3,c

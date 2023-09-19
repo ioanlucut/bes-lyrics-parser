@@ -1,5 +1,5 @@
 [title]
-Traim acum vremea din urma {author: {Daniel Hartie}, {rcId: {82588}}
+Traim acum vremea din urma {composer: {Daniel Hartie}, {rcId: {82588}}
 
 [sequence]
 v1,c,v2,c,v3,c2,v4,c2

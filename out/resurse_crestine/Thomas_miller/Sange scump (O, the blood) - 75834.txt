@@ -1,5 +1,5 @@
 [title]
-Sange scump (o the blood) {author: {Thomas Miller, Traducere RO}, {rcId: {75834}}
+Sange scump (o the blood) {composer: {Thomas Miller, Traducere RO}, {rcId: {75834}}
 
 [sequence]
 v1,c,v2,b,c,e

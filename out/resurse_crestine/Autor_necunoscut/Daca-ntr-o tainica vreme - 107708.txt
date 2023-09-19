@@ -1,5 +1,5 @@
 [title]
-Daca-ntr-o tainica vreme {author: {Anonim}, {rcId: {107708}}
+Daca-ntr-o tainica vreme {composer: {Anonim}, {rcId: {107708}}
 
 [sequence]
 v1,v2,v3,v4

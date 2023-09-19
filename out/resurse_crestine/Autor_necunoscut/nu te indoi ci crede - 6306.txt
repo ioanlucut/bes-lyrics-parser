@@ -1,5 +1,5 @@
 [title]
-Nu te indoi ci crede {author: {Anonim}, {rcId: {6306}}
+Nu te indoi ci crede {composer: {Anonim}, {rcId: {6306}}
 
 [sequence]
 v1,v2,v3

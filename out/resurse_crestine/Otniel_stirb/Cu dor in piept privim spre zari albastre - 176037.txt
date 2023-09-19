@@ -1,5 +1,5 @@
 [title]
-Cu dor in piept privim spre zari albastre {author: {Otniel Stirb}, {rcId: {176037}}
+Cu dor in piept privim spre zari albastre {composer: {Otniel Stirb}, {rcId: {176037}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

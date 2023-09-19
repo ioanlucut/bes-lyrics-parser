@@ -1,5 +1,5 @@
 [title]
-Cetate tare {author: {Johnny Daraban}, {rcId: {177468}}
+Cetate tare {composer: {Johnny Daraban}, {rcId: {177468}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

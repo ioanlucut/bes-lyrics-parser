@@ -1,5 +1,5 @@
 [title]
-Cum stropul cristalin {author: {Nicolae Moldoveanu}, {rcId: {242559}}
+Cum stropul cristalin {composer: {Nicolae Moldoveanu}, {rcId: {242559}}
 
 [sequence]
 v1,v2,v3,v4

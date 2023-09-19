@@ -1,5 +1,5 @@
 [title]
-O ceresc si bun parinte {author: {Nicolae Moldoveanu}, {rcId: {243941}}
+O ceresc si bun parinte {composer: {Nicolae Moldoveanu}, {rcId: {243941}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Inaintea ta stapane {author: {Eliazar Pripon}, {rcId: {152228}}
+Inaintea ta stapane {composer: {Eliazar Pripon}, {rcId: {152228}}
 
 [sequence]
 v1,c,v2,c,v3,c

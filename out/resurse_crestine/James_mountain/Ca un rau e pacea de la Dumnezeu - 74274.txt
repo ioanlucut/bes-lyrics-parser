@@ -1,5 +1,5 @@
 [title]
-Ca un rau e pacea de la dumnezeu {author: {James Mountain}, {rcId: {74274}}
+Ca un rau e pacea de la dumnezeu {composer: {James Mountain}, {rcId: {74274}}
 
 [sequence]
 v1,c,v2,c,v3,c

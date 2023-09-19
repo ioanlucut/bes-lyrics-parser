@@ -1,5 +1,5 @@
 [title]
-Am un cantec nou in inima {author: {Anonim}, {rcId: {6551}}
+Am un cantec nou in inima {composer: {Anonim}, {rcId: {6551}}
 
 [sequence]
 v1,c,v2,c,v3,c

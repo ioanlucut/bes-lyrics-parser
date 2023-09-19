@@ -1,5 +1,5 @@
 [title]
-E vina mea {author: {Adriana Stoica}, {rcId: {238133}}
+E vina mea {composer: {Adriana Stoica}, {rcId: {238133}}
 
 [sequence]
 v1,c,v2,c,v3,c2

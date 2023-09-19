@@ -1,5 +1,5 @@
 [title]
-Iubirea lui (the way that he loves) {author: {W. Elmo Mercer, Traducere RO}, {rcId: {90537}}
+Iubirea lui (the way that he loves) {composer: {W. Elmo Mercer, Traducere RO}, {rcId: {90537}}
 
 [sequence]
 v1,v2

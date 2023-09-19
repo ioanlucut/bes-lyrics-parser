@@ -1,5 +1,5 @@
 [title]
-Adevar si har {author: {Nicolae Moldoveanu}, {rcId: {240819}}
+Adevar si har {composer: {Nicolae Moldoveanu}, {rcId: {240819}}
 
 [sequence]
 v1,v2,v3

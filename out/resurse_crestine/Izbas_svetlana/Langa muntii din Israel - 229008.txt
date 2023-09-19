@@ -1,5 +1,5 @@
 [title]
-Langa muntii din israel {author: {Izbaș Svetlana}, {rcId: {229008}}
+Langa muntii din israel {composer: {Izbaș Svetlana}, {rcId: {229008}}
 
 [sequence]
 v1

@@ -1,5 +1,5 @@
 [title]
-O timp al tineretii mele {author: {Anonim}, {rcId: {191347}}
+O timp al tineretii mele {composer: {Anonim}, {rcId: {191347}}
 
 [sequence]
 v1,c,v2,c,v3,c

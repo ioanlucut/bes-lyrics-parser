@@ -1,5 +1,5 @@
 [title]
-Isus a facut tot ce-a promis {author: {Anonim}, {rcId: {3591}}
+Isus a facut tot ce-a promis {composer: {Anonim}, {rcId: {3591}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

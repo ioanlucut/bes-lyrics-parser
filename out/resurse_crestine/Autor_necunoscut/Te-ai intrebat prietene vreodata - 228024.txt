@@ -1,5 +1,5 @@
 [title]
-Te-ai intrebat prietene vreodata {author: {Anonim}, {rcId: {228024}}
+Te-ai intrebat prietene vreodata {composer: {Anonim}, {rcId: {228024}}
 
 [sequence]
 v1,c,v2,c,v2,c,v3,c

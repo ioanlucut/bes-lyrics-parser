@@ -1,5 +1,5 @@
 [title]
-E paste sfant in sinagoga {author: {Anonim}, {rcId: {869}}
+E paste sfant in sinagoga {composer: {Anonim}, {rcId: {869}}
 
 [sequence]
 v1,v2

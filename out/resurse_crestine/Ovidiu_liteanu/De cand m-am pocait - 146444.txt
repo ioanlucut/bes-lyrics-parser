@@ -1,5 +1,5 @@
 [title]
-De cand m-am pocait {author: {Ovidiu Liteanu}, {rcId: {146444}}
+De cand m-am pocait {composer: {Ovidiu Liteanu}, {rcId: {146444}}
 
 [sequence]
 v1,c,v2,c,v3,c

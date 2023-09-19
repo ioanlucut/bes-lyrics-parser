@@ -1,5 +1,5 @@
 [title]
-Doamne mai vreau rusalii {author: {Callatis Praise}, {rcId: {4431}}
+Doamne mai vreau rusalii {composer: {Callatis Praise}, {rcId: {4431}}
 
 [sequence]
 v1,c,v2,c,e

@@ -1,5 +1,5 @@
 [title]
-Prin isus {author: {Gabriel Gorcea și prietenii}, {rcId: {112885}}
+Prin isus {composer: {Gabriel Gorcea și prietenii}, {rcId: {112885}}
 
 [sequence]
 v1,c,v2,c,v3,c

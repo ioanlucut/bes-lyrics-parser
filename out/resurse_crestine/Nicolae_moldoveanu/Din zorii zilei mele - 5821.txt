@@ -1,5 +1,5 @@
 [title]
-Din zorii zilei mele {author: {Nicolae Moldoveanu}, {rcId: {5821}}
+Din zorii zilei mele {composer: {Nicolae Moldoveanu}, {rcId: {5821}}
 
 [sequence]
 v1,v2,v3,v4,v5

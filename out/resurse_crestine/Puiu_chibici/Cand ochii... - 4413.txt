@@ -1,5 +1,5 @@
 [title]
-Cand ochii {author: {Puiu Chibici}, {rcId: {4413}}
+Cand ochii {composer: {Puiu Chibici}, {rcId: {4413}}
 
 [sequence]
 c,v2,v3,v4

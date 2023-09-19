@@ -1,5 +1,5 @@
 [title]
-Trece timpul trece viata zboara fara veste {author: {Anonim}, {rcId: {192962}}
+Trece timpul trece viata zboara fara veste {composer: {Anonim}, {rcId: {192962}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

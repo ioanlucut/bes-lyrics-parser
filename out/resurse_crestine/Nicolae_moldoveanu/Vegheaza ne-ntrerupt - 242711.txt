@@ -1,5 +1,5 @@
 [title]
-Vegheaza ne-ntrerupt {author: {Nicolae Moldoveanu}, {rcId: {242711}}
+Vegheaza ne-ntrerupt {composer: {Nicolae Moldoveanu}, {rcId: {242711}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Multumesc lui isus grija vietii mi-o poarta {author: {Anonim}, {rcId: {215660}}
+Multumesc lui isus grija vietii mi-o poarta {composer: {Anonim}, {rcId: {215660}}
 
 [sequence]
 v1,c,c2,v2,c3,c4,v3,c5,c6

@@ -1,5 +1,5 @@
 [title]
-In lumea-aceasta multe lacrimi {author: {Loredana Iacoban}, {rcId: {190680}}
+In lumea-aceasta multe lacrimi {composer: {Loredana Iacoban}, {rcId: {190680}}
 
 [sequence]
 v1,c,v2,c,v3,c

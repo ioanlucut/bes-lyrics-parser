@@ -1,5 +1,5 @@
 [title]
-Isus vreau sa merg intotdeauna cu tine {author: {Anonim}, {rcId: {4973}}
+Isus vreau sa merg intotdeauna cu tine {composer: {Anonim}, {rcId: {4973}}
 
 [sequence]
 v1,c

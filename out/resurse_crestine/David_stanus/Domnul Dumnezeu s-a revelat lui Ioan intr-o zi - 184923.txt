@@ -1,5 +1,5 @@
 [title]
-Domnul dumnezeu s-a revelat lui ioan intr-o zi {author: {David Stănuș}, {rcId: {184923}}
+Domnul dumnezeu s-a revelat lui ioan intr-o zi {composer: {David Stănuș}, {rcId: {184923}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

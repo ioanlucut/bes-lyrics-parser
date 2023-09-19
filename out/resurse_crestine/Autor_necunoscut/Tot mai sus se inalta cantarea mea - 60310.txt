@@ -1,5 +1,5 @@
 [title]
-Tot mai sus se inalta cantarea mea {author: {Anonim}, {rcId: {60310}}
+Tot mai sus se inalta cantarea mea {composer: {Anonim}, {rcId: {60310}}
 
 [sequence]
 v1,b,c,e

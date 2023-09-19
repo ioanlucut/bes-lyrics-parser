@@ -1,5 +1,5 @@
 [title]
-Liber {author: {Born again}, {rcId: {56527}}
+Liber {composer: {Born again}, {rcId: {56527}}
 
 [sequence]
 v1,v2,c,e

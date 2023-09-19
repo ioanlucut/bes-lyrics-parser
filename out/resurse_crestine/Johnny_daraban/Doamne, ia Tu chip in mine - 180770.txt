@@ -1,5 +1,5 @@
 [title]
-Doamne ia tu chip in mine {author: {Johnny Daraban}, {rcId: {180770}}
+Doamne ia tu chip in mine {composer: {Johnny Daraban}, {rcId: {180770}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

@@ -1,5 +1,5 @@
 [title]
-Ziceam ca voi veghea mereu {author: {Alexandru Groza}, {rcId: {1472}}
+Ziceam ca voi veghea mereu {composer: {Alexandru Groza}, {rcId: {1472}}
 
 [sequence]
 v1,c,v2,c,e

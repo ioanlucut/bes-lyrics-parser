@@ -1,5 +1,5 @@
 [title]
-Cel ce iubeste venirea {author: {Nicu Chereji}, {rcId: {210171}}
+Cel ce iubeste venirea {composer: {Nicu Chereji}, {rcId: {210171}}
 
 [sequence]
 v1,c,v2,c,v3,c

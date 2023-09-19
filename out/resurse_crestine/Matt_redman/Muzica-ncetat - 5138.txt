@@ -1,5 +1,5 @@
 [title]
-Muzica-ncetat {author: {Matt Redman}, {rcId: {5138}}
+Muzica-ncetat {composer: {Matt Redman}, {rcId: {5138}}
 
 [sequence]
 v1,v2,c,v3,c

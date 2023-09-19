@@ -1,5 +1,5 @@
 [title]
-Sunt un om neinsemnat {author: {Cristina_Toma}, {rcId: {241360}}
+Sunt un om neinsemnat {composer: {Cristina_Toma}, {rcId: {241360}}
 
 [sequence]
 v1,c,v2,c

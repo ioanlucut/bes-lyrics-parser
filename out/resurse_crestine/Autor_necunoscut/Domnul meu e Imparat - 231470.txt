@@ -1,5 +1,5 @@
 [title]
-Domnul meu e imparat {author: {Anonim}, {rcId: {231470}}
+Domnul meu e imparat {composer: {Anonim}, {rcId: {231470}}
 
 [sequence]
 v1,v1,c,v1,c

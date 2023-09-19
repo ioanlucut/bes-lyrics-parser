@@ -1,5 +1,5 @@
 [title]
-Cat timp {author: {Ana Florea}, {rcId: {188902}}
+Cat timp {composer: {Ana Florea}, {rcId: {188902}}
 
 [sequence]
 v1,b,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Be magnified {author: {Anonim}, {rcId: {168602}}
+Be magnified {composer: {Anonim}, {rcId: {168602}}
 
 [sequence]
 v1,c,v2,c

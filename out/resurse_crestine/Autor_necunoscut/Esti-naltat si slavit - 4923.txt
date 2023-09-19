@@ -1,5 +1,5 @@
 [title]
-Esti-naltat si slavit {author: {Anonim}, {rcId: {4923}}
+Esti-naltat si slavit {composer: {Anonim}, {rcId: {4923}}
 
 [sequence]
 v1

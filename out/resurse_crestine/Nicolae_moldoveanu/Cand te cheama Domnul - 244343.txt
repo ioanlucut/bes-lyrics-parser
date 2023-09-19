@@ -1,5 +1,5 @@
 [title]
-Cand te cheama domnul {author: {Nicolae Moldoveanu}, {rcId: {244343}}
+Cand te cheama domnul {composer: {Nicolae Moldoveanu}, {rcId: {244343}}
 
 [sequence]
 v1,v2,v3

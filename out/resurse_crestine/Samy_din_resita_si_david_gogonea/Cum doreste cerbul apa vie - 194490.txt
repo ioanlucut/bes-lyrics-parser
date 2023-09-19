@@ -1,5 +1,5 @@
 [title]
-Cum doreste cerbul apa vie {author: {Samy din Resita si David Gogonea}, {rcId: {194490}}
+Cum doreste cerbul apa vie {composer: {Samy din Resita si David Gogonea}, {rcId: {194490}}
 
 [sequence]
 v1,c,v2,c,v3,c

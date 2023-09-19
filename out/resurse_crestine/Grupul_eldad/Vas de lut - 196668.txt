@@ -1,5 +1,5 @@
 [title]
-Vas de lut {author: {Grupul Eldad}, {rcId: {196668}}
+Vas de lut {composer: {Grupul Eldad}, {rcId: {196668}}
 
 [sequence]
 v1,c,v2,c,v3,c

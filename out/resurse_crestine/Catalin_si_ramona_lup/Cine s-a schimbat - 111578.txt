@@ -1,5 +1,5 @@
 [title]
-Cine s-a schimbat {author: {Cătălin și Ramona Lup}, {rcId: {111578}}
+Cine s-a schimbat {composer: {Cătălin și Ramona Lup}, {rcId: {111578}}
 
 [sequence]
 v1,v2,v3,v4,v5,b,c

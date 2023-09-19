@@ -1,5 +1,5 @@
 [title]
-Eu stiu ca suferi {author: {Rahela Goagără}, {rcId: {152069}}
+Eu stiu ca suferi {composer: {Rahela Goagără}, {rcId: {152069}}
 
 [sequence]
 v1,c,v2,c,e

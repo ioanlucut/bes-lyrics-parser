@@ -1,5 +1,5 @@
 [title]
-Binecuvanta pe domnul {author: {Norbert Kissel}, {rcId: {191010}}
+Binecuvanta pe domnul {composer: {Norbert Kissel}, {rcId: {191010}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

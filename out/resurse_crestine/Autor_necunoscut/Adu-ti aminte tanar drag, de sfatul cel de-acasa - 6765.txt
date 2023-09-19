@@ -1,5 +1,5 @@
 [title]
-Adu-ti aminte tanar drag de sfatul cel de-acasa {author: {Anonim}, {rcId: {6765}}
+Adu-ti aminte tanar drag de sfatul cel de-acasa {composer: {Anonim}, {rcId: {6765}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

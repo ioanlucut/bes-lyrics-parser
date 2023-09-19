@@ -1,5 +1,5 @@
 [title]
-Copilasi veniti la domnul {author: {Nicolae Moldoveanu}, {rcId: {230964}}
+Copilasi veniti la domnul {composer: {Nicolae Moldoveanu}, {rcId: {230964}}
 
 [sequence]
 v1,v2,v3

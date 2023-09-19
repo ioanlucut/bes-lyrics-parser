@@ -1,5 +1,5 @@
 [title]
-Sunt fericit {author: {Otto Pascal}, {rcId: {112820}}
+Sunt fericit {composer: {Otto Pascal}, {rcId: {112820}}
 
 [sequence]
 v1,c

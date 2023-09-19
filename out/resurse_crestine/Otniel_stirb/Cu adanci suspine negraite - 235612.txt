@@ -1,5 +1,5 @@
 [title]
-Cu adanci suspine negraite {author: {Otniel Stirb}, {rcId: {235612}}
+Cu adanci suspine negraite {composer: {Otniel Stirb}, {rcId: {235612}}
 
 [sequence]
 v1,c,v2,c,v3,c

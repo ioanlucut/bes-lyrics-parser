@@ -1,5 +1,5 @@
 [title]
-Maria magdalena {author: {Alexandru Groza}, {rcId: {193305}}
+Maria magdalena {composer: {Alexandru Groza}, {rcId: {193305}}
 
 [sequence]
 v1,v2,v3,s,v4,v5,v6,e

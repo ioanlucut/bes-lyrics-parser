@@ -1,5 +1,5 @@
 [title]
-Ce dar nemeritat {author: {Florin Mesaroș}, {rcId: {157503}}
+Ce dar nemeritat {composer: {Florin Mesaroș}, {rcId: {157503}}
 
 [sequence]
 v1,c,v2,b,c

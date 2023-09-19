@@ -1,5 +1,5 @@
 [title]
-Duhul domnului este putere {author: {Anonim}, {rcId: {4902}}
+Duhul domnului este putere {composer: {Anonim}, {rcId: {4902}}
 
 [sequence]
 v1,c,v1,c,v1,c

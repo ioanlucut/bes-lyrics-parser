@@ -1,5 +1,5 @@
 [title]
-Cine poate {author: {Nicolae Moldoveanu}, {rcId: {244182}}
+Cine poate {composer: {Nicolae Moldoveanu}, {rcId: {244182}}
 
 [sequence]
 v1,v2,v3

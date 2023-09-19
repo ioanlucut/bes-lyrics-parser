@@ -1,5 +1,5 @@
 [title]
-Doamne-ai mila si-ndurare {author: {Anonim}, {rcId: {107294}}
+Doamne-ai mila si-ndurare {composer: {Anonim}, {rcId: {107294}}
 
 [sequence]
 v1,c,v2,c,v3,c

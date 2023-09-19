@@ -1,5 +1,5 @@
 [title]
-Credinta c-a lui daniel {author: {Anonim}, {rcId: {199130}}
+Credinta c-a lui daniel {composer: {Anonim}, {rcId: {199130}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Din departare {author: {Mitel Dumbra}, {rcId: {5960}}
+Din departare {composer: {Mitel Dumbra}, {rcId: {5960}}
 
 [sequence]
 v1,c,c

@@ -1,5 +1,5 @@
 [title]
-Ia-ma cu tine {author: {Gabi_Ilut}, {rcId: {238885}}
+Ia-ma cu tine {composer: {Gabi_Ilut}, {rcId: {238885}}
 
 [sequence]
 v1,c,v2,c,e

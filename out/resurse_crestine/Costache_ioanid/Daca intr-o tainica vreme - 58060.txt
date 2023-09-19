@@ -1,5 +1,5 @@
 [title]
-Daca intr-o tainica vreme {author: {Costache Ioanid}, {rcId: {58060}}
+Daca intr-o tainica vreme {composer: {Costache Ioanid}, {rcId: {58060}}
 
 [sequence]
 v1,v2,v3,v4

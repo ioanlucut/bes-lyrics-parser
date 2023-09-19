@@ -1,5 +1,5 @@
 [title]
-Este un drum {author: {Anonim}, {rcId: {1452}}
+Este un drum {composer: {Anonim}, {rcId: {1452}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

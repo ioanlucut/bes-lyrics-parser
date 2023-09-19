@@ -1,5 +1,5 @@
 [title]
-Tu te-ai intrebat vreodata suflete nepasator {author: {Alexandru Groza}, {rcId: {185018}}
+Tu te-ai intrebat vreodata suflete nepasator {composer: {Alexandru Groza}, {rcId: {185018}}
 
 [sequence]
 v1,c,v2,c2

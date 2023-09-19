@@ -1,5 +1,5 @@
 [title]
-Pierdut am fost {author: {Anonim}, {rcId: {5040}}
+Pierdut am fost {composer: {Anonim}, {rcId: {5040}}
 
 [sequence]
 v1,c,e

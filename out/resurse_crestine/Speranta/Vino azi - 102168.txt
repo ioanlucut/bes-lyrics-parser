@@ -1,5 +1,5 @@
 [title]
-Vino azi {author: {Speranța}, {rcId: {102168}}
+Vino azi {composer: {Speranța}, {rcId: {102168}}
 
 [sequence]
 v1,c,v2,c

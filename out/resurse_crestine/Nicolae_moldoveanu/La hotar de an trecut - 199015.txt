@@ -1,5 +1,5 @@
 [title]
-La hotar de an trecut {author: {Nicolae Moldoveanu}, {rcId: {199015}}
+La hotar de an trecut {composer: {Nicolae Moldoveanu}, {rcId: {199015}}
 
 [sequence]
 v1,v2,v3,v4

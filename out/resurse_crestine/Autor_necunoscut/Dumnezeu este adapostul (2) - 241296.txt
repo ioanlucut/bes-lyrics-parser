@@ -1,5 +1,5 @@
 [title]
-Dumnezeu este adapostul () {author: {Anonim}, {rcId: {241296}}
+Dumnezeu este adapostul () {composer: {Anonim}, {rcId: {241296}}
 
 [sequence]
 v1,c

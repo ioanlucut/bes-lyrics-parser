@@ -1,5 +1,5 @@
 [title]
-M-ai iubit {author: {Daniela Haidaciuc}, {rcId: {172344}}
+M-ai iubit {composer: {Daniela Haidaciuc}, {rcId: {172344}}
 
 [sequence]
 v1,c,v2,c,v3,c

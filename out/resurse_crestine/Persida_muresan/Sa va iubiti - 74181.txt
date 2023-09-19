@@ -1,5 +1,5 @@
 [title]
-Sa va iubiti {author: {Persida Mureșan}, {rcId: {74181}}
+Sa va iubiti {composer: {Persida Mureșan}, {rcId: {74181}}
 
 [sequence]
 v1,c,v2,c,v3,c

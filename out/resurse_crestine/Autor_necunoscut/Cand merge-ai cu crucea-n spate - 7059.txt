@@ -1,5 +1,5 @@
 [title]
-Cand merge-ai cu crucea-n spate {author: {Anonim}, {rcId: {7059}}
+Cand merge-ai cu crucea-n spate {composer: {Anonim}, {rcId: {7059}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

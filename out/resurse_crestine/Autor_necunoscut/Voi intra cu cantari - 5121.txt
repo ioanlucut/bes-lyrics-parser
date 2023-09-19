@@ -1,5 +1,5 @@
 [title]
-Voi intra cu cantari {author: {Anonim}, {rcId: {5121}}
+Voi intra cu cantari {composer: {Anonim}, {rcId: {5121}}
 
 [sequence]
 v1,c

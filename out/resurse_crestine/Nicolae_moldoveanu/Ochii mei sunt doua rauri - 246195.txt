@@ -1,5 +1,5 @@
 [title]
-Ochii mei sunt doua rauri {author: {Nicolae Moldoveanu}, {rcId: {246195}}
+Ochii mei sunt doua rauri {composer: {Nicolae Moldoveanu}, {rcId: {246195}}
 
 [sequence]
 v1,v2,v3,v4

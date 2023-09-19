@@ -1,5 +1,5 @@
 [title]
-O ce zi ce mareata va fi {author: {Anonim}, {rcId: {115581}}
+O ce zi ce mareata va fi {composer: {Anonim}, {rcId: {115581}}
 
 [sequence]
 v1,c,v2,c,v3,c

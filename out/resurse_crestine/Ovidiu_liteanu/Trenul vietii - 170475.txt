@@ -1,5 +1,5 @@
 [title]
-Trenul vietii {author: {Ovidiu Liteanu}, {rcId: {170475}}
+Trenul vietii {composer: {Ovidiu Liteanu}, {rcId: {170475}}
 
 [sequence]
 v1,c,c,v2,c,c,v3,c,c

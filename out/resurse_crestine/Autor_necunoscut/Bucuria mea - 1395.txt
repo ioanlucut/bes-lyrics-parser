@@ -1,5 +1,5 @@
 [title]
-Bucuria mea {author: {Anonim}, {rcId: {1395}}
+Bucuria mea {composer: {Anonim}, {rcId: {1395}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-As fi dorit sa fiu o stea pe ceruri {author: {Marius Livanu}, {rcId: {2830}}
+As fi dorit sa fiu o stea pe ceruri {composer: {Marius Livanu}, {rcId: {2830}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

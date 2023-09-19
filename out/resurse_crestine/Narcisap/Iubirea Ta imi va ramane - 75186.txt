@@ -1,5 +1,5 @@
 [title]
-Iubirea ta imi va ramane {author: {Narcisap.}, {rcId: {75186}}
+Iubirea ta imi va ramane {composer: {Narcisap.}, {rcId: {75186}}
 
 [sequence]
 v1,c,v2,c,e

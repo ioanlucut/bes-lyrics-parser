@@ -1,5 +1,5 @@
 [title]
-Lauda suflete pe domnul {author: {Anonim}, {rcId: {122490}}
+Lauda suflete pe domnul {composer: {Anonim}, {rcId: {122490}}
 
 [sequence]
 v1,v2,v3

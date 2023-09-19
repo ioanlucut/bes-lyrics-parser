@@ -1,5 +1,5 @@
 [title]
-Trezeste-te tu care dormi {author: {P.W.Bickel}, {rcId: {1720}}
+Trezeste-te tu care dormi {composer: {P.W.Bickel}, {rcId: {1720}}
 
 [sequence]
 v1,c,v2,c,v3,c

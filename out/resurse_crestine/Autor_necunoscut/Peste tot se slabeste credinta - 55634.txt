@@ -1,5 +1,5 @@
 [title]
-Peste tot se slabeste credinta {author: {Anonim}, {rcId: {55634}}
+Peste tot se slabeste credinta {composer: {Anonim}, {rcId: {55634}}
 
 [sequence]
 v1,v2,v3,v4

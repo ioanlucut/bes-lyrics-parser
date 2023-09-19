@@ -1,5 +1,5 @@
 [title]
-Cand te-a chemat isus {author: {Anonim}, {rcId: {55572}}
+Cand te-a chemat isus {composer: {Anonim}, {rcId: {55572}}
 
 [sequence]
 v1,v2,v3,v4

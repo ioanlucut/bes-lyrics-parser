@@ -1,5 +1,5 @@
 [title]
-Isus e-al meu domn si salvator {author: {Anonim}, {rcId: {4535}}
+Isus e-al meu domn si salvator {composer: {Anonim}, {rcId: {4535}}
 
 [sequence]
 v1,c,v2,c,v3,c

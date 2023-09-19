@@ -1,5 +1,5 @@
 [title]
-Daca rodul tau nu-ntrece {author: {Nicolae Moldoveanu}, {rcId: {5827}}
+Daca rodul tau nu-ntrece {composer: {Nicolae Moldoveanu}, {rcId: {5827}}
 
 [sequence]
 v1,v2,v3

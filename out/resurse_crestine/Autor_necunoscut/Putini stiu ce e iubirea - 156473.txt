@@ -1,5 +1,5 @@
 [title]
-Putini stiu ce e iubirea {author: {Anonim}, {rcId: {156473}}
+Putini stiu ce e iubirea {composer: {Anonim}, {rcId: {156473}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Tatal nostru minunat {author: {Nicolae Moldoveanu}, {rcId: {225308}}
+Tatal nostru minunat {composer: {Nicolae Moldoveanu}, {rcId: {225308}}
 
 [sequence]
 v1,v2

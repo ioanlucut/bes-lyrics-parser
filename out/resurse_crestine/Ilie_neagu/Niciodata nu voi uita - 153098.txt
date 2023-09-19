@@ -1,5 +1,5 @@
 [title]
-Niciodata nu voi uita {author: {Ilie Neagu}, {rcId: {153098}}
+Niciodata nu voi uita {composer: {Ilie Neagu}, {rcId: {153098}}
 
 [sequence]
 v1,c,v2,c

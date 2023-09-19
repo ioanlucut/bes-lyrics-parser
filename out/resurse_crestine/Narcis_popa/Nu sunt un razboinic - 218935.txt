@@ -1,5 +1,5 @@
 [title]
-Nu sunt un razboinic {author: {Narcis Popa}, {rcId: {218935}}
+Nu sunt un razboinic {composer: {Narcis Popa}, {rcId: {218935}}
 
 [sequence]
 v1,c,v2,c,v3,c

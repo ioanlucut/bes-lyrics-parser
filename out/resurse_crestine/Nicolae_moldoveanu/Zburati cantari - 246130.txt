@@ -1,5 +1,5 @@
 [title]
-Zburati cantari {author: {Nicolae Moldoveanu}, {rcId: {246130}}
+Zburati cantari {composer: {Nicolae Moldoveanu}, {rcId: {246130}}
 
 [sequence]
 v1,v2,v3,v4

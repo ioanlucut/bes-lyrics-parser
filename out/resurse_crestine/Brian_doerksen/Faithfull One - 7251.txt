@@ -1,5 +1,5 @@
 [title]
-Faithfull one {author: {Brian Doerksen, Traducere RO}, {rcId: {7251}}
+Faithfull one {composer: {Brian Doerksen, Traducere RO}, {rcId: {7251}}
 
 [sequence]
 v1,c,e

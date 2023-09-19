@@ -1,5 +1,5 @@
 [title]
-Dulce-i domnul meu {author: {Anonim}, {rcId: {177354}}
+Dulce-i domnul meu {composer: {Anonim}, {rcId: {177354}}
 
 [sequence]
 s,e,s2,e2

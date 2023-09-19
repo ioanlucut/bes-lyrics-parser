@@ -1,5 +1,5 @@
 [title]
-Bucurati-va(imnul bucuriei) {author: {Anonim}, {rcId: {158441}}
+Bucurati-va(imnul bucuriei) {composer: {Anonim}, {rcId: {158441}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

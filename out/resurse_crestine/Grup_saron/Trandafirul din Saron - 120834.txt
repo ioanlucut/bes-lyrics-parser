@@ -1,5 +1,5 @@
 [title]
-Trandafirul din saron {author: {Grup Saron}, {rcId: {120834}}
+Trandafirul din saron {composer: {Grup Saron}, {rcId: {120834}}
 
 [sequence]
 v1,c,v2,c,v3,c

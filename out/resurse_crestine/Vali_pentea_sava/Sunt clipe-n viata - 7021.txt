@@ -1,5 +1,5 @@
 [title]
-Sunt clipe-n viata {author: {Vali Pentea Sava}, {rcId: {7021}}
+Sunt clipe-n viata {composer: {Vali Pentea Sava}, {rcId: {7021}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

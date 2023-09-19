@@ -1,5 +1,5 @@
 [title]
-Doamne tu esti bun {author: {Anonim}, {rcId: {62630}}
+Doamne tu esti bun {composer: {Anonim}, {rcId: {62630}}
 
 [sequence]
 v1,c

@@ -1,5 +1,5 @@
 [title]
-Corturile lui iacov {author: {Nicu Wagner}, {rcId: {61691}}
+Corturile lui iacov {composer: {Nicu Wagner}, {rcId: {61691}}
 
 [sequence]
 v1,c,v2,c,v3,c2

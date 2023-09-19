@@ -1,5 +1,5 @@
 [title]
-Isus minunat e-al tau cuvant (jesus i believe what you said) {author: {William J. Gaither, Traducere RO}, {rcId: {98805}}
+Isus minunat e-al tau cuvant (jesus i believe what you said) {composer: {William J. Gaither, Traducere RO}, {rcId: {98805}}
 
 [sequence]
 v1,v2,v3,v4,s

@@ -1,5 +1,5 @@
 [title]
-Dincolo de zarea-albastra {author: {Alexandru Groza}, {rcId: {185390}}
+Dincolo de zarea-albastra {composer: {Alexandru Groza}, {rcId: {185390}}
 
 [sequence]
 v1,c,v2,c,v3,c

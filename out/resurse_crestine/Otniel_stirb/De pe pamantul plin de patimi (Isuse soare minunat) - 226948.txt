@@ -1,5 +1,5 @@
 [title]
-De pe pamantul plin de patimi (isuse soare minunat) {author: {Otniel Stirb}, {rcId: {226948}}
+De pe pamantul plin de patimi (isuse soare minunat) {composer: {Otniel Stirb}, {rcId: {226948}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Daca doua maini rebele {author: {Nicolae Moldoveanu}, {rcId: {4201}}
+Daca doua maini rebele {composer: {Nicolae Moldoveanu}, {rcId: {4201}}
 
 [sequence]
 v1,v2,v3,v4

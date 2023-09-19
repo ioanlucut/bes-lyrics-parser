@@ -1,5 +1,5 @@
 [title]
-Toata inima {author: {Harvest Arad}, {rcId: {161200}}
+Toata inima {composer: {Harvest Arad}, {rcId: {161200}}
 
 [sequence]
 v1,c,v2,c,e

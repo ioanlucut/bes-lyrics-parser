@@ -1,5 +1,5 @@
 [title]
-Gloria ta isus {author: {Anonim}, {rcId: {4382}}
+Gloria ta isus {composer: {Anonim}, {rcId: {4382}}
 
 [sequence]
 v1,c,v2,c

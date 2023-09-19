@@ -1,5 +1,5 @@
 [title]
-Ati auzit de noe {author: {Anonim}, {rcId: {74270}}
+Ati auzit de noe {composer: {Anonim}, {rcId: {74270}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Mi-aduc aminte domnul meu {author: {Anonim}, {rcId: {163722}}
+Mi-aduc aminte domnul meu {composer: {Anonim}, {rcId: {163722}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

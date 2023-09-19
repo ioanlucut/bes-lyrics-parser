@@ -1,5 +1,5 @@
 [title]
-Poporule sfant te trezeste {author: {Anonim}, {rcId: {145337}}
+Poporule sfant te trezeste {composer: {Anonim}, {rcId: {145337}}
 
 [sequence]
 v1,c,v2,c,v3,c2,c3

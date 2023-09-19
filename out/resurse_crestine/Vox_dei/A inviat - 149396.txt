@@ -1,5 +1,5 @@
 [title]
-A inviat {author: {VOX DEI}, {rcId: {149396}}
+A inviat {composer: {VOX DEI}, {rcId: {149396}}
 
 [sequence]
 v1,c,v2,c,c2,e

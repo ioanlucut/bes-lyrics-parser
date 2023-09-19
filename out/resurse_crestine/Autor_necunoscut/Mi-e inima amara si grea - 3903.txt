@@ -1,5 +1,5 @@
 [title]
-Mi-e inima amara si grea {author: {Anonim}, {rcId: {3903}}
+Mi-e inima amara si grea {composer: {Anonim}, {rcId: {3903}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

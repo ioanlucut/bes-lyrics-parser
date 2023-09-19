@@ -1,5 +1,5 @@
 [title]
-Bunatatile domnului {author: {Anonim}, {rcId: {57822}}
+Bunatatile domnului {composer: {Anonim}, {rcId: {57822}}
 
 [sequence]
 v1

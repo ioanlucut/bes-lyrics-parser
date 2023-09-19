@@ -1,5 +1,5 @@
 [title]
-Porumbita din ruine {author: {Speranța}, {rcId: {101940}}
+Porumbita din ruine {composer: {Speranța}, {rcId: {101940}}
 
 [sequence]
 v1,v2,v3

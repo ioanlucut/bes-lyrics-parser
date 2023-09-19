@@ -1,5 +1,5 @@
 [title]
-Glorieglorielui isus hristos {author: {Anonim}, {rcId: {59172}}
+Glorieglorielui isus hristos {composer: {Anonim}, {rcId: {59172}}
 
 [sequence]
 v1,v2,v3,v4

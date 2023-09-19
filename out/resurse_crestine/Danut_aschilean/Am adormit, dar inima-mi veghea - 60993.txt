@@ -1,5 +1,5 @@
 [title]
-Am adormit dar inima-mi veghea {author: {Dănuț Așchilean}, {rcId: {60993}}
+Am adormit dar inima-mi veghea {composer: {Dănuț Așchilean}, {rcId: {60993}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

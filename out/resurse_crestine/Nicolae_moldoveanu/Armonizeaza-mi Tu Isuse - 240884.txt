@@ -1,5 +1,5 @@
 [title]
-Armonizeaza-mi tu isuse {author: {Nicolae Moldoveanu}, {rcId: {240884}}
+Armonizeaza-mi tu isuse {composer: {Nicolae Moldoveanu}, {rcId: {240884}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

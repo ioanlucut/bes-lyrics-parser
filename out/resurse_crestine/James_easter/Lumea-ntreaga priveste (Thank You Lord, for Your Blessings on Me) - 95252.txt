@@ -1,5 +1,5 @@
 [title]
-Lumea-ntreaga priveste (thank you lord for your blessings on me) {author: {James Easter, Traducere RO}, {rcId: {95252}}
+Lumea-ntreaga priveste (thank you lord for your blessings on me) {composer: {James Easter, Traducere RO}, {rcId: {95252}}
 
 [sequence]
 v1,v2,v3,s

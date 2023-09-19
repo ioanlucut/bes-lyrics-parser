@@ -1,5 +1,5 @@
 [title]
-Astazi duhul domnului {author: {Grup Eldad}, {rcId: {203943}}
+Astazi duhul domnului {composer: {Grup Eldad}, {rcId: {203943}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

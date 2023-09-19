@@ -1,5 +1,5 @@
 [title]
-De ce esti atat de trist {author: {Ionel Saran Bochis}, {rcId: {93476}}
+De ce esti atat de trist {composer: {Ionel Saran Bochis}, {rcId: {93476}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

@@ -1,5 +1,5 @@
 [title]
-Cum poti sa iubesti? {author: {Rafael Dragomir}, {rcId: {168673}}
+Cum poti sa iubesti? {composer: {Rafael Dragomir}, {rcId: {168673}}
 
 [sequence]
 v1,b,c,v2,b,c,v3,b,c2

@@ -1,5 +1,5 @@
 [title]
-Inainte sa-ntelegem harul tau (doar prin crucea ta ) {author: {BBSO}, {rcId: {234970}}
+Inainte sa-ntelegem harul tau (doar prin crucea ta ) {composer: {BBSO}, {rcId: {234970}}
 
 [sequence]
 v1,b,c,v2,b,c,e

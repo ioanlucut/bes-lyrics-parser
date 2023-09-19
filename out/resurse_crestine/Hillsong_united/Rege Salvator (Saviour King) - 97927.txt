@@ -1,5 +1,5 @@
 [title]
-Rege salvator (saviour king) {author: {Hillsong United, Traducere RO}, {rcId: {97927}}
+Rege salvator (saviour king) {composer: {Hillsong United, Traducere RO}, {rcId: {97927}}
 
 [sequence]
 v1,b,c,v2,c2,e

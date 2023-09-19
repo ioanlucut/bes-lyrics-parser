@@ -1,5 +1,5 @@
 [title]
-Pana la moarte slujim in credinta {author: {Nicolae Moldoveanu}, {rcId: {5417}}
+Pana la moarte slujim in credinta {composer: {Nicolae Moldoveanu}, {rcId: {5417}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

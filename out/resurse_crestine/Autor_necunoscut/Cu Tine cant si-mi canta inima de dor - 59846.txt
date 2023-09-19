@@ -1,5 +1,5 @@
 [title]
-Cu tine cant si-mi canta inima de dor {author: {Anonim}, {rcId: {59846}}
+Cu tine cant si-mi canta inima de dor {composer: {Anonim}, {rcId: {59846}}
 
 [sequence]
 v1,v2,v3,v4

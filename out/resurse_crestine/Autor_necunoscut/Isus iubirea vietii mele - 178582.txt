@@ -1,5 +1,5 @@
 [title]
-Isus iubirea vietii mele {author: {Anonim}, {rcId: {178582}}
+Isus iubirea vietii mele {composer: {Anonim}, {rcId: {178582}}
 
 [sequence]
 v1,c,v2,c2

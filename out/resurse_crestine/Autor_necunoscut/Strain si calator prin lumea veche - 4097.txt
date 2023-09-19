@@ -1,5 +1,5 @@
 [title]
-Strain si calator prin lumea veche {author: {Anonim}, {rcId: {4097}}
+Strain si calator prin lumea veche {composer: {Anonim}, {rcId: {4097}}
 
 [sequence]
 v1,v2,v3,v4,v5

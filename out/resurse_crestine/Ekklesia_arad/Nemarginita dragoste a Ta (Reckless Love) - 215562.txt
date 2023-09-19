@@ -1,5 +1,5 @@
 [title]
-Nemarginita dragoste a ta (reckless love) {author: {Ekklesia Arad}, {rcId: {215562}}
+Nemarginita dragoste a ta (reckless love) {composer: {Ekklesia Arad}, {rcId: {215562}}
 
 [sequence]
 v1,c,v2,b,c

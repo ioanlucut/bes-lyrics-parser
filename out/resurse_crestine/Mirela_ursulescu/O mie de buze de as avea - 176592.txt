@@ -1,5 +1,5 @@
 [title]
-O mie de buze de as avea {author: {Mirela Ursulescu}, {rcId: {176592}}
+O mie de buze de as avea {composer: {Mirela Ursulescu}, {rcId: {176592}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Un bob de grau e-o lume ca de vis {author: {Simona Bahnaru}, {rcId: {223236}}
+Un bob de grau e-o lume ca de vis {composer: {Simona Bahnaru}, {rcId: {223236}}
 
 [sequence]
 v1,c,c2,v2,c

@@ -1,5 +1,5 @@
 [title]
-Cu gandul la nasterea lui isus {author: {Rebeca Chiricioaei}, {rcId: {214835}}
+Cu gandul la nasterea lui isus {composer: {Rebeca Chiricioaei}, {rcId: {214835}}
 
 [sequence]
 v1,v2,v3,v4

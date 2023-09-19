@@ -1,5 +1,5 @@
 [title]
-Doamne vreau sa te slavesc {author: {Speranța}, {rcId: {111409}}
+Doamne vreau sa te slavesc {composer: {Speranța}, {rcId: {111409}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c,v5,c

@@ -1,5 +1,5 @@
 [title]
-Cum doreste un cerb {author: {Dan Muncaciu}, {rcId: {197796}}
+Cum doreste un cerb {composer: {Dan Muncaciu}, {rcId: {197796}}
 
 [sequence]
 v1,b,c,v2,b,c

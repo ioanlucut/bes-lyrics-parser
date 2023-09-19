@@ -1,5 +1,5 @@
 [title]
-Cand eram robi {author: {Anonim}, {rcId: {6827}}
+Cand eram robi {composer: {Anonim}, {rcId: {6827}}
 
 [sequence]
 v1,c

@@ -1,5 +1,5 @@
 [title]
-Dincolo de stele {author: {Claudius și Aurelian}, {rcId: {82463}}
+Dincolo de stele {composer: {Claudius și Aurelian}, {rcId: {82463}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

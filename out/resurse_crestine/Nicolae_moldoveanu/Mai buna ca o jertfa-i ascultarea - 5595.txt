@@ -1,5 +1,5 @@
 [title]
-Mai buna ca o jertfa-i ascultarea {author: {Nicolae Moldoveanu}, {rcId: {5595}}
+Mai buna ca o jertfa-i ascultarea {composer: {Nicolae Moldoveanu}, {rcId: {5595}}
 
 [sequence]
 v1,c,v2,c,v3,c

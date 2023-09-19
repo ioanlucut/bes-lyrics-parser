@@ -1,5 +1,5 @@
 [title]
-La tine e nadejdea mea {author: {Nicolae Moldoveanu}, {rcId: {246192}}
+La tine e nadejdea mea {composer: {Nicolae Moldoveanu}, {rcId: {246192}}
 
 [sequence]
 v1,v2,v3

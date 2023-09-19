@@ -1,5 +1,5 @@
 [title]
-Din starea mea {author: {Alexandru Groza}, {rcId: {193312}}
+Din starea mea {composer: {Alexandru Groza}, {rcId: {193312}}
 
 [sequence]
 v1,c,v2,c

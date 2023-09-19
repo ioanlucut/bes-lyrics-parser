@@ -1,5 +1,5 @@
 [title]
-In paradis adam si eva fericiti erau {author: {Anonim}, {rcId: {145495}}
+In paradis adam si eva fericiti erau {composer: {Anonim}, {rcId: {145495}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

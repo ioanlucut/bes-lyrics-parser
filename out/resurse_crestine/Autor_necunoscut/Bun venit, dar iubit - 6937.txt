@@ -1,5 +1,5 @@
 [title]
-Bun venit dar iubit {author: {Anonim}, {rcId: {6937}}
+Bun venit dar iubit {composer: {Anonim}, {rcId: {6937}}
 
 [sequence]
 v1,c,v2,c,v3,c

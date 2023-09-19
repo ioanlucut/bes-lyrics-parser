@@ -1,5 +1,5 @@
 [title]
-Spune-mi istoria lui isus - tell me the story of jesus - do maj {author: {ed. Dan Istrate}, {rcId: {220963}}
+Spune-mi istoria lui isus - tell me the story of jesus - do maj {composer: {ed. Dan Istrate}, {rcId: {220963}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

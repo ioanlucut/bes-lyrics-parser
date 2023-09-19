@@ -1,5 +1,5 @@
 [title]
-Pentru tine isus a murit {author: {Anca Suli}, {rcId: {7054}}
+Pentru tine isus a murit {composer: {Anca Suli}, {rcId: {7054}}
 
 [sequence]
 v1,v2,v3,v4

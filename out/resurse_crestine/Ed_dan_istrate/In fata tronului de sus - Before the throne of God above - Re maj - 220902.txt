@@ -1,5 +1,5 @@
 [title]
-In fata tronului de sus - before the throne of god above - re maj {author: {ed. Dan Istrate}, {rcId: {220902}}
+In fata tronului de sus - before the throne of god above - re maj {composer: {ed. Dan Istrate}, {rcId: {220902}}
 
 [sequence]
 v1,v2,v3

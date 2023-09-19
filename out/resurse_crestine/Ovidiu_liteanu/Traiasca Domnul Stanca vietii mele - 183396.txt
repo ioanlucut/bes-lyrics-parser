@@ -1,5 +1,5 @@
 [title]
-Traiasca domnul stanca vietii mele {author: {Ovidiu Liteanu}, {rcId: {183396}}
+Traiasca domnul stanca vietii mele {composer: {Ovidiu Liteanu}, {rcId: {183396}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

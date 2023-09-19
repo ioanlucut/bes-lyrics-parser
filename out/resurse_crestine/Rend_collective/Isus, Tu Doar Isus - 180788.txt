@@ -1,5 +1,5 @@
 [title]
-Isus tu doar isus {author: {Rend Collective}, {rcId: {180788}}
+Isus tu doar isus {composer: {Rend Collective}, {rcId: {180788}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Azi un copil ni s-a nascut {author: {Alin și Emima Timofte}, {rcId: {100784}}
+Azi un copil ni s-a nascut {composer: {Alin și Emima Timofte}, {rcId: {100784}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

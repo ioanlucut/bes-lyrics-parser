@@ -1,5 +1,5 @@
 [title]
-La ore de grea incercare {author: {Anonim}, {rcId: {161481}}
+La ore de grea incercare {composer: {Anonim}, {rcId: {161481}}
 
 [sequence]
 v1,c,v2,c,v3,c

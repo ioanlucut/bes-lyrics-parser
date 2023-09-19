@@ -1,5 +1,5 @@
 [title]
-Poate maine {author: {Alina Malinovschi Havrisciuc}, {rcId: {148968}}
+Poate maine {composer: {Alina Malinovschi Havrisciuc}, {rcId: {148968}}
 
 [sequence]
 v1,c,v2,c

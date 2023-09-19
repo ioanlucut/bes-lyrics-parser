@@ -1,5 +1,5 @@
 [title]
-In aceasta zi mareata {author: {Mocan Miriam}, {rcId: {195383}}
+In aceasta zi mareata {composer: {Mocan Miriam}, {rcId: {195383}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,e

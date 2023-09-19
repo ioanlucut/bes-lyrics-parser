@@ -1,5 +1,5 @@
 [title]
-Lui te roaga {author: {Merril T.MacPherson}, {rcId: {1310}}
+Lui te roaga {composer: {Merril T.MacPherson}, {rcId: {1310}}
 
 [sequence]
 v1,v2,v3

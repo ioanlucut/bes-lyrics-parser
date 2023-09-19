@@ -1,5 +1,5 @@
 [title]
-Cand paharu-i mai amar {author: {Nicolae Moldoveanu}, {rcId: {200685}}
+Cand paharu-i mai amar {composer: {Nicolae Moldoveanu}, {rcId: {200685}}
 
 [sequence]
 v1,v2,v3

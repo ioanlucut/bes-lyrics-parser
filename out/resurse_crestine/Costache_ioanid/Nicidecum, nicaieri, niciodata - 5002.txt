@@ -1,5 +1,5 @@
 [title]
-Nicidecum nicaieri niciodata {author: {Costache Ioanid}, {rcId: {5002}}
+Nicidecum nicaieri niciodata {composer: {Costache Ioanid}, {rcId: {5002}}
 
 [sequence]
 v1,v2,v3,v4,v5

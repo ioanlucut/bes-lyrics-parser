@@ -1,5 +1,5 @@
 [title]
-Spre portul fericirii din departari albastre {author: {Nicolae Moldoveanu}, {rcId: {242642}}
+Spre portul fericirii din departari albastre {composer: {Nicolae Moldoveanu}, {rcId: {242642}}
 
 [sequence]
 v1,v2,v3,v4

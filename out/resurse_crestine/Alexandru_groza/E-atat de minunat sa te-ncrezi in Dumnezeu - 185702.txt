@@ -1,5 +1,5 @@
 [title]
-E-atat de minunat sa te-ncrezi in dumnezeu {author: {Alexandru Groza}, {rcId: {185702}}
+E-atat de minunat sa te-ncrezi in dumnezeu {composer: {Alexandru Groza}, {rcId: {185702}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Multe multe ganduri {author: {Nicolae Moldoveanu}, {rcId: {227442}}
+Multe multe ganduri {composer: {Nicolae Moldoveanu}, {rcId: {227442}}
 
 [sequence]
 v1,v2,v3,v4

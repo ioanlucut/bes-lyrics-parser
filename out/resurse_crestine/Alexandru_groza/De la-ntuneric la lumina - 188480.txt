@@ -1,5 +1,5 @@
 [title]
-De la-ntuneric la lumina {author: {Alexandru Groza}, {rcId: {188480}}
+De la-ntuneric la lumina {composer: {Alexandru Groza}, {rcId: {188480}}
 
 [sequence]
 v1,c,v2,c

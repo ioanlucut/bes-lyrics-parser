@@ -1,5 +1,5 @@
 [title]
-Eram copil si-atata bucurie {author: {Nicu Wagner}, {rcId: {1636}}
+Eram copil si-atata bucurie {composer: {Nicu Wagner}, {rcId: {1636}}
 
 [sequence]
 v1,c,v2,c2,v3,c2,v4,c3,v5,c3

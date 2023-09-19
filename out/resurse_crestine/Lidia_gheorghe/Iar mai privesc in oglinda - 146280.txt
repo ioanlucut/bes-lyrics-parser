@@ -1,5 +1,5 @@
 [title]
-Iar mai privesc in oglinda {author: {Lidia Gheorghe}, {rcId: {146280}}
+Iar mai privesc in oglinda {composer: {Lidia Gheorghe}, {rcId: {146280}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

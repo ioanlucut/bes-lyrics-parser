@@ -1,5 +1,5 @@
 [title]
-Drum binecuvantat {author: {Adeline}, {rcId: {232877}}
+Drum binecuvantat {composer: {Adeline}, {rcId: {232877}}
 
 [sequence]
 v1,c,v1,c

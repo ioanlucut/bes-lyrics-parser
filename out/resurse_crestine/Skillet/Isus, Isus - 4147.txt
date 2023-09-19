@@ -1,5 +1,5 @@
 [title]
-Isus isus {author: {Skillet, Traducere RO}, {rcId: {4147}}
+Isus isus {composer: {Skillet, Traducere RO}, {rcId: {4147}}
 
 [sequence]
 c,v1,c

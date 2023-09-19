@@ -1,5 +1,5 @@
 [title]
-Noi plecam spre-o alta tara {author: {Mircea Ciugudeanu}, {rcId: {5763}}
+Noi plecam spre-o alta tara {composer: {Mircea Ciugudeanu}, {rcId: {5763}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

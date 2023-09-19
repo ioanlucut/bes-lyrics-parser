@@ -1,5 +1,5 @@
 [title]
-Voi invia {author: {Ekklesia}, {rcId: {90634}}
+Voi invia {composer: {Ekklesia}, {rcId: {90634}}
 
 [sequence]
 v1,b,c,v2,c,e

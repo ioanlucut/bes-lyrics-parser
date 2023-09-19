@@ -1,5 +1,5 @@
 [title]
-Mare e domnul meu {author: {Puiu Chibici}, {rcId: {89721}}
+Mare e domnul meu {composer: {Puiu Chibici}, {rcId: {89721}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

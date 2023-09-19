@@ -1,5 +1,5 @@
 [title]
-Fara tine nu vreau sa traiesc {author: {Maria Șimon}, {rcId: {231289}}
+Fara tine nu vreau sa traiesc {composer: {Maria Șimon}, {rcId: {231289}}
 
 [sequence]
 v1,c,v2,c,v3,c

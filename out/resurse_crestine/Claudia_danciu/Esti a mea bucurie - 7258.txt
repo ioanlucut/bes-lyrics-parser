@@ -1,5 +1,5 @@
 [title]
-Esti a mea bucurie {author: {Claudia Danciu}, {rcId: {7258}}
+Esti a mea bucurie {composer: {Claudia Danciu}, {rcId: {7258}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

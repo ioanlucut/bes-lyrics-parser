@@ -1,5 +1,5 @@
 [title]
-Eu sunt din acei {author: {Lidia Cîrlan și Puiu Chibici}, {rcId: {153712}}
+Eu sunt din acei {composer: {Lidia Cîrlan și Puiu Chibici}, {rcId: {153712}}
 
 [sequence]
 v1,v2,v3,v4

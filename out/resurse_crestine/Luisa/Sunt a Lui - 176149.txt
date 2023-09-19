@@ -1,5 +1,5 @@
 [title]
-Sunt a lui {author: {Luisa}, {rcId: {176149}}
+Sunt a lui {composer: {Luisa}, {rcId: {176149}}
 
 [sequence]
 v1,b,c,v2,c,e

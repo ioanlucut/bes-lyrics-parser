@@ -1,5 +1,5 @@
 [title]
-Ce dulce-i clipa {author: {Romeo Stan}, {rcId: {55573}}
+Ce dulce-i clipa {composer: {Romeo Stan}, {rcId: {55573}}
 
 [sequence]
 v1,c,v2,c,v3,c

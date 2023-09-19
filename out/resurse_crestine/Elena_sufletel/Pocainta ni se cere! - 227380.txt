@@ -1,5 +1,5 @@
 [title]
-Pocainta ni se cere {author: {Elena Sufletel}, {rcId: {227380}}
+Pocainta ni se cere {composer: {Elena Sufletel}, {rcId: {227380}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Armata domnului {author: {Cristian Dragomir}, {rcId: {129125}}
+Armata domnului {composer: {Cristian Dragomir}, {rcId: {129125}}
 
 [sequence]
 v1,v2,v3,v4,v5

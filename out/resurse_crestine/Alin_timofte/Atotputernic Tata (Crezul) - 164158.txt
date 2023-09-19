@@ -1,5 +1,5 @@
 [title]
-Atotputernic tata (crezul) {author: {Alin Timofte}, {rcId: {164158}}
+Atotputernic tata (crezul) {composer: {Alin Timofte}, {rcId: {164158}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

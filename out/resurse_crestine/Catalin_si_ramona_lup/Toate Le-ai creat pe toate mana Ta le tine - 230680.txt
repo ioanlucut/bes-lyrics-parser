@@ -1,5 +1,5 @@
 [title]
-Toate le-ai creat pe toate mana ta le tine {author: {Cătălin și Ramona Lup}, {rcId: {230680}}
+Toate le-ai creat pe toate mana ta le tine {composer: {Cătălin și Ramona Lup}, {rcId: {230680}}
 
 [sequence]
 v1,c,v2,c

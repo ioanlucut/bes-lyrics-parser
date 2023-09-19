@@ -1,5 +1,5 @@
 [title]
-Psalmul {author: {Carmen Prodan}, {rcId: {155293}}
+Psalmul {composer: {Carmen Prodan}, {rcId: {155293}}
 
 [sequence]
 v1,v2,v3

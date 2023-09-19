@@ -1,5 +1,5 @@
 [title]
-Glorie {author: {Rugul aprins}, {rcId: {107617}}
+Glorie {composer: {Rugul aprins}, {rcId: {107617}}
 
 [sequence]
 v1,c,v2,c,v3,c

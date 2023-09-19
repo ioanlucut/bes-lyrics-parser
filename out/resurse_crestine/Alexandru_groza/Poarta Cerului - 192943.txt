@@ -1,5 +1,5 @@
 [title]
-Poarta cerului {author: {Alexandru Groza}, {rcId: {192943}}
+Poarta cerului {composer: {Alexandru Groza}, {rcId: {192943}}
 
 [sequence]
 v1,c,v2,c

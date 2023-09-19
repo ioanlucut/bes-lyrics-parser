@@ -1,5 +1,5 @@
 [title]
-Ruga de craciun {author: {Carmen Prodan}, {rcId: {152902}}
+Ruga de craciun {composer: {Carmen Prodan}, {rcId: {152902}}
 
 [sequence]
 v1,c,v2,c2,v2,c3

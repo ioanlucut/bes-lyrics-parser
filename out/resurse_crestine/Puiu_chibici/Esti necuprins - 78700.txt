@@ -1,5 +1,5 @@
 [title]
-Esti necuprins {author: {Puiu Chibici}, {rcId: {78700}}
+Esti necuprins {composer: {Puiu Chibici}, {rcId: {78700}}
 
 [sequence]
 v1,c,v2,c,v3,c

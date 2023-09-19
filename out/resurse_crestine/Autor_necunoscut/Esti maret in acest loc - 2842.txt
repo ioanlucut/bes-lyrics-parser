@@ -1,5 +1,5 @@
 [title]
-Esti maret in acest loc {author: {Anonim}, {rcId: {2842}}
+Esti maret in acest loc {composer: {Anonim}, {rcId: {2842}}
 
 [sequence]
 c,v1,c

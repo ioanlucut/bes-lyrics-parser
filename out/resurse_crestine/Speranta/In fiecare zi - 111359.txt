@@ -1,5 +1,5 @@
 [title]
-In fiecare zi {author: {Speranța}, {rcId: {111359}}
+In fiecare zi {composer: {Speranța}, {rcId: {111359}}
 
 [sequence]
 v1,c,e

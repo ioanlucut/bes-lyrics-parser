@@ -1,5 +1,5 @@
 [title]
-Tot ce-i vrednic {author: {Nicolae Moldoveanu}, {rcId: {242556}}
+Tot ce-i vrednic {composer: {Nicolae Moldoveanu}, {rcId: {242556}}
 
 [sequence]
 v1,v2,v3

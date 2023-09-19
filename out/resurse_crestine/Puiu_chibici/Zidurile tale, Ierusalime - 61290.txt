@@ -1,5 +1,5 @@
 [title]
-Zidurile tale ierusalime {author: {Puiu Chibici}, {rcId: {61290}}
+Zidurile tale ierusalime {composer: {Puiu Chibici}, {rcId: {61290}}
 
 [sequence]
 v1,v2,v3,v4

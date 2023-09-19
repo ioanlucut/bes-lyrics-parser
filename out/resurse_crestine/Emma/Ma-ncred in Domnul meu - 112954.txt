@@ -1,5 +1,5 @@
 [title]
-Ma-ncred in domnul meu {author: {Emma}, {rcId: {112954}}
+Ma-ncred in domnul meu {composer: {Emma}, {rcId: {112954}}
 
 [sequence]
 v1,c,v2,c

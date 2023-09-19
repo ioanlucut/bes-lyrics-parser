@@ -1,5 +1,5 @@
 [title]
-Din inima te laud {author: {Florin Mesaroș}, {rcId: {158961}}
+Din inima te laud {composer: {Florin Mesaroș}, {rcId: {158961}}
 
 [sequence]
 v1,c,v2,c

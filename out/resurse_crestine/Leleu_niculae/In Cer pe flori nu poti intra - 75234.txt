@@ -1,5 +1,5 @@
 [title]
-In cer pe flori nu poti intra {author: {Leleu Niculae}, {rcId: {75234}}
+In cer pe flori nu poti intra {composer: {Leleu Niculae}, {rcId: {75234}}
 
 [sequence]
 v1,c,v2,c

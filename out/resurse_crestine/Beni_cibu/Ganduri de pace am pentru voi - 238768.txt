@@ -1,5 +1,5 @@
 [title]
-Ganduri de pace am pentru voi {author: {Beni Cibu}, {rcId: {238768}}
+Ganduri de pace am pentru voi {composer: {Beni Cibu}, {rcId: {238768}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-A-ncercarii furtuni de-or lovi in clipa grea {author: {Ovidiu Berghian}, {rcId: {241174}}
+A-ncercarii furtuni de-or lovi in clipa grea {composer: {Ovidiu Berghian}, {rcId: {241174}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Doamne tata tot ce am e iubirea ta {author: {Adi Gliga}, {rcId: {113090}}
+Doamne tata tot ce am e iubirea ta {composer: {Adi Gliga}, {rcId: {113090}}
 
 [sequence]
 v1,v2

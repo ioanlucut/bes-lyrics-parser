@@ -1,5 +1,5 @@
 [title]
-Compilatie (voi veni cu bucurie domnul e aici nadejdea mea e dumnezeu) {author: {Marian Barbieru}, {rcId: {239471}}
+Compilatie (voi veni cu bucurie domnul e aici nadejdea mea e dumnezeu) {composer: {Marian Barbieru}, {rcId: {239471}}
 
 [sequence]
 v1,v2,v3,v4,v1,c,v2,c,v1,c,v2,c

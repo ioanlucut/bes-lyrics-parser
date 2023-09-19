@@ -1,5 +1,5 @@
 [title]
-In fata tronului de domnie {author: {Puiu Chibici}, {rcId: {138145}}
+In fata tronului de domnie {composer: {Puiu Chibici}, {rcId: {138145}}
 
 [sequence]
 v1,v2,v3,v4

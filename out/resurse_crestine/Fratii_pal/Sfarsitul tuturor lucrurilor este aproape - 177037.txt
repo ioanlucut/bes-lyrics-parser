@@ -1,5 +1,5 @@
 [title]
-Sfarsitul tuturor lucrurilor este aproape {author: {Fratii Pal}, {rcId: {177037}}
+Sfarsitul tuturor lucrurilor este aproape {composer: {Fratii Pal}, {rcId: {177037}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Vino suflete la cruce cu povara ta - fa maj {author: {ed. Dan Istrate}, {rcId: {246391}}
+Vino suflete la cruce cu povara ta - fa maj {composer: {ed. Dan Istrate}, {rcId: {246391}}
 
 [sequence]
 v1,v2,v3,v4,v5

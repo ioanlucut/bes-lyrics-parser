@@ -1,5 +1,5 @@
 [title]
-Muzica-ncetat {author: {Anonim}, {rcId: {202123}}
+Muzica-ncetat {composer: {Anonim}, {rcId: {202123}}
 
 [sequence]
 v1,c,c2,v2,c,c2

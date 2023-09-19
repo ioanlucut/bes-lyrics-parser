@@ -1,5 +1,5 @@
 [title]
-Domnul e bun {author: {Cristale}, {rcId: {57631}}
+Domnul e bun {composer: {Cristale}, {rcId: {57631}}
 
 [sequence]
 v1,v2,v3

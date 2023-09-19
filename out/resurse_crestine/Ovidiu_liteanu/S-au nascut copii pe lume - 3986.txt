@@ -1,5 +1,5 @@
 [title]
-S-au nascut copii pe lume {author: {Ovidiu Liteanu}, {rcId: {3986}}
+S-au nascut copii pe lume {composer: {Ovidiu Liteanu}, {rcId: {3986}}
 
 [sequence]
 v1,v2,v3,v4

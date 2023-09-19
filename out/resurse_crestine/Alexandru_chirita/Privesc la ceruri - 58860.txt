@@ -1,5 +1,5 @@
 [title]
-Privesc la ceruri {author: {Alexandru Chiriță}, {rcId: {58860}}
+Privesc la ceruri {composer: {Alexandru Chiriță}, {rcId: {58860}}
 
 [sequence]
 v1,c,v2,c

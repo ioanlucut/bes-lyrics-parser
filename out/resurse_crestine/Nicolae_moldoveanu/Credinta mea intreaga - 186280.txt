@@ -1,5 +1,5 @@
 [title]
-Credinta mea intreaga {author: {Nicolae Moldoveanu}, {rcId: {186280}}
+Credinta mea intreaga {composer: {Nicolae Moldoveanu}, {rcId: {186280}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Hristos a inviat {author: {Anonim}, {rcId: {97220}}
+Hristos a inviat {composer: {Anonim}, {rcId: {97220}}
 
 [sequence]
 v1,c,v2,c,v3,c

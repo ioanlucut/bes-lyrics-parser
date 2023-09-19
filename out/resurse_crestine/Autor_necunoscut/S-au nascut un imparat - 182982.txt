@@ -1,5 +1,5 @@
 [title]
-S-au nascut un imparat {author: {Anonim}, {rcId: {182982}}
+S-au nascut un imparat {composer: {Anonim}, {rcId: {182982}}
 
 [sequence]
 v1,c,v2,c,v3,c

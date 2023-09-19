@@ -1,5 +1,5 @@
 [title]
-Un inger din cer {author: {Speranța}, {rcId: {64153}}
+Un inger din cer {composer: {Speranța}, {rcId: {64153}}
 
 [sequence]
 v1,c,v2,c

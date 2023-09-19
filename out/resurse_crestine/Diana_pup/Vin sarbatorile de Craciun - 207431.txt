@@ -1,5 +1,5 @@
 [title]
-Vin sarbatorile de craciun {author: {Diana Pup}, {rcId: {207431}}
+Vin sarbatorile de craciun {composer: {Diana Pup}, {rcId: {207431}}
 
 [sequence]
 v1,b,c,v2,b,c,b,c,e

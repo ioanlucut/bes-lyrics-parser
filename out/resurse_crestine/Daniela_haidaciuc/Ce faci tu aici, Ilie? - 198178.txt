@@ -1,5 +1,5 @@
 [title]
-Ce faci tu aici ilie? {author: {Daniela Haidaciuc}, {rcId: {198178}}
+Ce faci tu aici ilie? {composer: {Daniela Haidaciuc}, {rcId: {198178}}
 
 [sequence]
 v1,c,v2,c,v3,c

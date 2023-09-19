@@ -1,5 +1,5 @@
 [title]
-Din cate nume-s pe pamant {author: {Nicolae Moldoveanu}, {rcId: {5515}}
+Din cate nume-s pe pamant {composer: {Nicolae Moldoveanu}, {rcId: {5515}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Veniti sa ii multumim {author: {Anonim}, {rcId: {1314}}
+Veniti sa ii multumim {composer: {Anonim}, {rcId: {1314}}
 
 [sequence]
 v1,c,v2,c2

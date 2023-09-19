@@ -1,5 +1,5 @@
 [title]
-Ma iubesti {author: {Adi Gliga}, {rcId: {158743}}
+Ma iubesti {composer: {Adi Gliga}, {rcId: {158743}}
 
 [sequence]
 v1,b,c,v2,c

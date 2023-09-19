@@ -1,5 +1,5 @@
 [title]
-Ierusalim cetatea mea {author: {Traian Dorz}, {rcId: {66416}}
+Ierusalim cetatea mea {composer: {Traian Dorz}, {rcId: {66416}}
 
 [sequence]
 v1,v2,v3,v4

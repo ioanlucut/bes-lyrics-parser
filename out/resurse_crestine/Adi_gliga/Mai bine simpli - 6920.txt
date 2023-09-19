@@ -1,5 +1,5 @@
 [title]
-Mai bine simpli {author: {Adi Gliga}, {rcId: {6920}}
+Mai bine simpli {composer: {Adi Gliga}, {rcId: {6920}}
 
 [sequence]
 v1,c,v2,c,v3,c

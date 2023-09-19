@@ -1,5 +1,5 @@
 [title]
-Ii cant lauda {author: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {210621}}
+Ii cant lauda {composer: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {210621}}
 
 [sequence]
 v1,c,v2,c

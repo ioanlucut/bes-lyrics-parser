@@ -1,5 +1,5 @@
 [title]
-Cine sunt? {author: {Nicolae Moldoveanu}, {rcId: {201347}}
+Cine sunt? {composer: {Nicolae Moldoveanu}, {rcId: {201347}}
 
 [sequence]
 v1

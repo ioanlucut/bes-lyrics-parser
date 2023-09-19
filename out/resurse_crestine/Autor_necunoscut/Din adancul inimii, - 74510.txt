@@ -1,5 +1,5 @@
 [title]
-Din adancul inimii {author: {Anonim}, {rcId: {74510}}
+Din adancul inimii {composer: {Anonim}, {rcId: {74510}}
 
 [sequence]
 v1,c

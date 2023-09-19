@@ -1,5 +1,5 @@
 [title]
-Isus traieste in veci {author: {Speranța}, {rcId: {101913}}
+Isus traieste in veci {composer: {Speranța}, {rcId: {101913}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

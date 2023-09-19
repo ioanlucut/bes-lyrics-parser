@@ -1,5 +1,5 @@
 [title]
-Mana ta doamne {author: {Speranța}, {rcId: {4319}}
+Mana ta doamne {composer: {Speranța}, {rcId: {4319}}
 
 [sequence]
 v1,c,v2,c,v3,c

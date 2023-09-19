@@ -1,5 +1,5 @@
 [title]
-Dumnezeu e mare {author: {Anonim}, {rcId: {122474}}
+Dumnezeu e mare {composer: {Anonim}, {rcId: {122474}}
 
 [sequence]
 v1,v2,v3,v4

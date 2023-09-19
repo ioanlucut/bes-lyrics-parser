@@ -1,5 +1,5 @@
 [title]
-Traiasca domnul {author: {Tatiana Timiș}, {rcId: {227074}}
+Traiasca domnul {composer: {Tatiana Timiș}, {rcId: {227074}}
 
 [sequence]
 v1,c,v2,c,v3,c

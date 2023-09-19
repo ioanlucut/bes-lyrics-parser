@@ -1,5 +1,5 @@
 [title]
-Numele lui e stanca cea tare {author: {Gabriel Gorcea}, {rcId: {177562}}
+Numele lui e stanca cea tare {composer: {Gabriel Gorcea}, {rcId: {177562}}
 
 [sequence]
 v1,c,v2,c,e

@@ -1,5 +1,5 @@
 [title]
-Ca sa fii aur curat {author: {Gabriel Gorcea și prietenii}, {rcId: {104943}}
+Ca sa fii aur curat {composer: {Gabriel Gorcea și prietenii}, {rcId: {104943}}
 
 [sequence]
 v1,c,v2,c,v3,c

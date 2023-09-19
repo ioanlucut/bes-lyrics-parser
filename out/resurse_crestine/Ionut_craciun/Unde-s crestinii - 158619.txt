@@ -1,5 +1,5 @@
 [title]
-Unde-s crestinii {author: {Ionuț Crăciun}, {rcId: {158619}}
+Unde-s crestinii {composer: {Ionuț Crăciun}, {rcId: {158619}}
 
 [sequence]
 v1,c,v2,c,e,c2

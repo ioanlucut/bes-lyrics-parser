@@ -1,5 +1,5 @@
 [title]
-Din slavitu-ti cer priveste {author: {Nicolae Moldoveanu}, {rcId: {246471}}
+Din slavitu-ti cer priveste {composer: {Nicolae Moldoveanu}, {rcId: {246471}}
 
 [sequence]
 v1,v2,v3

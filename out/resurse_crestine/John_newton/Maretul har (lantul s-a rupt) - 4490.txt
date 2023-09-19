@@ -1,5 +1,5 @@
 [title]
-Maretul har (lantul s-a rupt) {author: {John Newton, Traducere RO}, {rcId: {4490}}
+Maretul har (lantul s-a rupt) {composer: {John Newton, Traducere RO}, {rcId: {4490}}
 
 [sequence]
 v1,v2,v3,v4,c

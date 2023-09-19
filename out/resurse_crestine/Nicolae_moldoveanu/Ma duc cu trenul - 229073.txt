@@ -1,5 +1,5 @@
 [title]
-Ma duc cu trenul {author: {Nicolae Moldoveanu}, {rcId: {229073}}
+Ma duc cu trenul {composer: {Nicolae Moldoveanu}, {rcId: {229073}}
 
 [sequence]
 v1,v2,v3,v4

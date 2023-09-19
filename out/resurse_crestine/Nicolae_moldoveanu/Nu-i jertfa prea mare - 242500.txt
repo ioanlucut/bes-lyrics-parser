@@ -1,5 +1,5 @@
 [title]
-Nu-i jertfa prea mare {author: {Nicolae Moldoveanu}, {rcId: {242500}}
+Nu-i jertfa prea mare {composer: {Nicolae Moldoveanu}, {rcId: {242500}}
 
 [sequence]
 v1,v2,v3,v4,v5

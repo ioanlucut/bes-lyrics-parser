@@ -1,5 +1,5 @@
 [title]
-Se cuvine sa te laud {author: {Mirel Pal}, {rcId: {4449}}
+Se cuvine sa te laud {composer: {Mirel Pal}, {rcId: {4449}}
 
 [sequence]
 v1,e,v2,v3,v4

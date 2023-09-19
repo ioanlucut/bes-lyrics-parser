@@ -1,5 +1,5 @@
 [title]
-Trimite foc trimite ploaie {author: {Nica Lucian}, {rcId: {6849}}
+Trimite foc trimite ploaie {composer: {Nica Lucian}, {rcId: {6849}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8,v9,v10,v11,v12

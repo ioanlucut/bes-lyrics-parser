@@ -1,5 +1,5 @@
 [title]
-S-a racit iubirea {author: {Surorile Ciui}, {rcId: {242530}}
+S-a racit iubirea {composer: {Surorile Ciui}, {rcId: {242530}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

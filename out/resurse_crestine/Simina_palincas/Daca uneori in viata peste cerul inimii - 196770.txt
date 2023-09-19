@@ -1,5 +1,5 @@
 [title]
-Daca uneori in viata peste cerul inimii {author: {Simina Palincas}, {rcId: {196770}}
+Daca uneori in viata peste cerul inimii {composer: {Simina Palincas}, {rcId: {196770}}
 
 [sequence]
 v1,c,v2,c,v3,c

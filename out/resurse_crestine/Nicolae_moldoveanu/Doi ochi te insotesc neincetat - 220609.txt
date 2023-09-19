@@ -1,5 +1,5 @@
 [title]
-Doi ochi te insotesc neincetat {author: {Nicolae Moldoveanu}, {rcId: {220609}}
+Doi ochi te insotesc neincetat {composer: {Nicolae Moldoveanu}, {rcId: {220609}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

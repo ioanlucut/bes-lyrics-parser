@@ -1,5 +1,5 @@
 [title]
-O vino mesia o vino mesia {author: {Anonim}, {rcId: {59852}}
+O vino mesia o vino mesia {composer: {Anonim}, {rcId: {59852}}
 
 [sequence]
 c,v1,v2,v3,c2

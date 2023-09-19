@@ -1,5 +1,5 @@
 [title]
-Ca anii tineretii nu-i aur mai de pret {author: {Anonim}, {rcId: {227171}}
+Ca anii tineretii nu-i aur mai de pret {composer: {Anonim}, {rcId: {227171}}
 
 [sequence]
 v1,v2,v3,v4

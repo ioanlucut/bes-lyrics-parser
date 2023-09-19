@@ -1,5 +1,5 @@
 [title]
-Amice din pacate scoala si vino-n graba la isus {author: {I.Aleman}, {rcId: {5367}}
+Amice din pacate scoala si vino-n graba la isus {composer: {I.Aleman}, {rcId: {5367}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

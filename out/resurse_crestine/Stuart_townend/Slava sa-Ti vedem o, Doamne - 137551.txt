@@ -1,5 +1,5 @@
 [title]
-Slava sa-ti vedem o doamne {author: {Stuart Townend, Traducere RO}, {rcId: {137551}}
+Slava sa-ti vedem o doamne {composer: {Stuart Townend, Traducere RO}, {rcId: {137551}}
 
 [sequence]
 v1,b,c

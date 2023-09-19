@@ -1,5 +1,5 @@
 [title]
-Eu te aleg {author: {Continental}, {rcId: {89179}}
+Eu te aleg {composer: {Continental}, {rcId: {89179}}
 
 [sequence]
 v1,c,v2,c2,c2

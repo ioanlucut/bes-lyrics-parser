@@ -1,5 +1,5 @@
 [title]
-Sus pe dealul de la golgota; golgota golgota {author: {Alexandru Groza}, {rcId: {113199}}
+Sus pe dealul de la golgota; golgota golgota {composer: {Alexandru Groza}, {rcId: {113199}}
 
 [sequence]
 v1,b,c,v2,c

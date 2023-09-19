@@ -1,5 +1,5 @@
 [title]
-Sutasul {author: {Cătălin Ciuculescu}, {rcId: {225535}}
+Sutasul {composer: {Cătălin Ciuculescu}, {rcId: {225535}}
 
 [sequence]
 v1,v2,v3,v4,v5

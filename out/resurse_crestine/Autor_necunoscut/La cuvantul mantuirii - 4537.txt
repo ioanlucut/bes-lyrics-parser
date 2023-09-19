@@ -1,5 +1,5 @@
 [title]
-La cuvantul mantuirii {author: {Anonim}, {rcId: {4537}}
+La cuvantul mantuirii {composer: {Anonim}, {rcId: {4537}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

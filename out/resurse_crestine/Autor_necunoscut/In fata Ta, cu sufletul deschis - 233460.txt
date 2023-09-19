@@ -1,5 +1,5 @@
 [title]
-In fata ta cu sufletul deschis {author: {Autor necunoscut}, {rcId: {233460}}
+In fata ta cu sufletul deschis {composer: {Autor necunoscut}, {rcId: {233460}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

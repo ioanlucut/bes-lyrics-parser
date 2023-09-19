@@ -1,5 +1,5 @@
 [title]
-Un cantec nou de dorul tau {author: {Ligia Marin}, {rcId: {2873}}
+Un cantec nou de dorul tau {composer: {Ligia Marin}, {rcId: {2873}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

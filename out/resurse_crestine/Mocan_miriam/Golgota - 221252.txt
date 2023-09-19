@@ -1,5 +1,5 @@
 [title]
-Golgota {author: {Mocan Miriam}, {rcId: {221252}}
+Golgota {composer: {Mocan Miriam}, {rcId: {221252}}
 
 [sequence]
 v1

@@ -1,5 +1,5 @@
 [title]
-Isuse sfant si dulce nume {author: {Ilie Belciu}, {rcId: {227381}}
+Isuse sfant si dulce nume {composer: {Ilie Belciu}, {rcId: {227381}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

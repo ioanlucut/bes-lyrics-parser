@@ -1,5 +1,5 @@
 [title]
-Zorii diminetii {author: {Corul de copii ”Bunul Păstor”}, {rcId: {108779}}
+Zorii diminetii {composer: {Corul de copii ”Bunul Păstor”}, {rcId: {108779}}
 
 [sequence]
 v1,c

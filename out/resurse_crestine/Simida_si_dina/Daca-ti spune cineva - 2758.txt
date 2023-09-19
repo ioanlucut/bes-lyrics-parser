@@ -1,5 +1,5 @@
 [title]
-Daca-ti spune cineva {author: {Simida și Dina}, {rcId: {2758}}
+Daca-ti spune cineva {composer: {Simida și Dina}, {rcId: {2758}}
 
 [sequence]
 v1,v2,v3,v4

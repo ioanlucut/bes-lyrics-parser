@@ -1,5 +1,5 @@
 [title]
-Salvatorul meu imi zice {author: {John S.Norris}, {rcId: {1823}}
+Salvatorul meu imi zice {composer: {John S.Norris}, {rcId: {1823}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

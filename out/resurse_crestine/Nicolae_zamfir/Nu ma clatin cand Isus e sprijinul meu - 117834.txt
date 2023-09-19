@@ -1,5 +1,5 @@
 [title]
-Nu ma clatin cand isus e sprijinul meu {author: {Nicolae Zamfir}, {rcId: {117834}}
+Nu ma clatin cand isus e sprijinul meu {composer: {Nicolae Zamfir}, {rcId: {117834}}
 
 [sequence]
 v1,c,v2,c,v3,c

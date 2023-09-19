@@ -1,5 +1,5 @@
 [title]
-Dumnezeu este adapostul {author: {Emil Cuc}, {rcId: {4608}}
+Dumnezeu este adapostul {composer: {Emil Cuc}, {rcId: {4608}}
 
 [sequence]
 v1,c,v2,c

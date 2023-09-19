@@ -1,5 +1,5 @@
 [title]
-O ce bucurie am {author: {Anonim}, {rcId: {4593}}
+O ce bucurie am {composer: {Anonim}, {rcId: {4593}}
 
 [sequence]
 v1,c,v2,c,v3,c

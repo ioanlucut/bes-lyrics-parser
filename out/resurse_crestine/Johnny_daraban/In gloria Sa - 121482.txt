@@ -1,5 +1,5 @@
 [title]
-In gloria sa {author: {Johnny Daraban}, {rcId: {121482}}
+In gloria sa {composer: {Johnny Daraban}, {rcId: {121482}}
 
 [sequence]
 v1,c,v2,b,c

@@ -1,5 +1,5 @@
 [title]
-Va iubim cu iubirea lui isus {author: {Anonim}, {rcId: {5109}}
+Va iubim cu iubirea lui isus {composer: {Anonim}, {rcId: {5109}}
 
 [sequence]
 v1,v2

@@ -1,5 +1,5 @@
 [title]
-Aleluia adonai {author: {Anonim}, {rcId: {140338}}
+Aleluia adonai {composer: {Anonim}, {rcId: {140338}}
 
 [sequence]
 v1,c,v2,c

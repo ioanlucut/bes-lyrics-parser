@@ -1,5 +1,5 @@
 [title]
-Noi suntem ostasii credintii {author: {Nicolae Moldoveanu}, {rcId: {243942}}
+Noi suntem ostasii credintii {composer: {Nicolae Moldoveanu}, {rcId: {243942}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

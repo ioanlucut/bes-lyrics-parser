@@ -1,5 +1,5 @@
 [title]
-Tata scump si sfant {author: {Nica Lucian}, {rcId: {6912}}
+Tata scump si sfant {composer: {Nica Lucian}, {rcId: {6912}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c2,v5,c3,v6,c4,v7,c4,v8,c5,v9,c5,e

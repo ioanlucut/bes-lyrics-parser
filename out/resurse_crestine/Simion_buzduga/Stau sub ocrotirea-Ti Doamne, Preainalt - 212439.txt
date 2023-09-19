@@ -1,5 +1,5 @@
 [title]
-Stau sub ocrotirea-ti doamne preainalt {author: {Simion Buzduga}, {rcId: {212439}}
+Stau sub ocrotirea-ti doamne preainalt {composer: {Simion Buzduga}, {rcId: {212439}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

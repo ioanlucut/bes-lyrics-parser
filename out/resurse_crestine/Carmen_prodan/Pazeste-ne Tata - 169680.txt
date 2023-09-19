@@ -1,5 +1,5 @@
 [title]
-Pazeste-ne tata {author: {Carmen Prodan}, {rcId: {169680}}
+Pazeste-ne tata {composer: {Carmen Prodan}, {rcId: {169680}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Aleluia aleluia {author: {Nicu Wagner}, {rcId: {61693}}
+Aleluia aleluia {composer: {Nicu Wagner}, {rcId: {61693}}
 
 [sequence]
 v1,v2,v3

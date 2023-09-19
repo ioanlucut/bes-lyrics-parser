@@ -1,5 +1,5 @@
 [title]
-Doamne dumnezeul meu vino la poporul tau {author: {Bulzan Marian Gigel}, {rcId: {195793}}
+Doamne dumnezeul meu vino la poporul tau {composer: {Bulzan Marian Gigel}, {rcId: {195793}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

@@ -1,5 +1,5 @@
 [title]
-Imbraca-te ierusalime {author: {amos7}, {rcId: {96128}}
+Imbraca-te ierusalime {composer: {amos7}, {rcId: {96128}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

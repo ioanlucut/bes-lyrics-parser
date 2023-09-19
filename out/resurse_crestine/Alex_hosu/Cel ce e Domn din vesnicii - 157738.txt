@@ -1,5 +1,5 @@
 [title]
-Cel ce e domn din vesnicii {author: {Alex Hosu}, {rcId: {157738}}
+Cel ce e domn din vesnicii {composer: {Alex Hosu}, {rcId: {157738}}
 
 [sequence]
 v1,b,c,v2,c

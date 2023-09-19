@@ -1,5 +1,5 @@
 [title]
-O vino la cruce (o come to the altar) {author: {Radu Dragoiu}, {rcId: {185211}}
+O vino la cruce (o come to the altar) {composer: {Radu Dragoiu}, {rcId: {185211}}
 
 [sequence]
 v1,c,v2,c,b,c,e

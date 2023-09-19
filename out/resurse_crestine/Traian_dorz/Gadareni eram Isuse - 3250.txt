@@ -1,5 +1,5 @@
 [title]
-Gadareni eram isuse {author: {Traian Dorz}, {rcId: {3250}}
+Gadareni eram isuse {composer: {Traian Dorz}, {rcId: {3250}}
 
 [sequence]
 v1,v2,v3,v4,v5

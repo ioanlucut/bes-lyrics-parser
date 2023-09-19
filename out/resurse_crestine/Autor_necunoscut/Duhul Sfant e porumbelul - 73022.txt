@@ -1,5 +1,5 @@
 [title]
-Duhul sfant e porumbelul {author: {Anonim}, {rcId: {73022}}
+Duhul sfant e porumbelul {composer: {Anonim}, {rcId: {73022}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Biruitor {author: {Daniel Ardelean}, {rcId: {175967}}
+Biruitor {composer: {Daniel Ardelean}, {rcId: {175967}}
 
 [sequence]
 v1,c,v2,c,e,c

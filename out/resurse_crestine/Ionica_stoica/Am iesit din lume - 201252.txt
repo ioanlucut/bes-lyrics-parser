@@ -1,5 +1,5 @@
 [title]
-Am iesit din lume {author: {Ionică Stoica}, {rcId: {201252}}
+Am iesit din lume {composer: {Ionică Stoica}, {rcId: {201252}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

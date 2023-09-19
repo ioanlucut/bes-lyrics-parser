@@ -1,5 +1,5 @@
 [title]
-Tu nu vrei adunari in sarbatoare {author: {Puiu Chibici}, {rcId: {187586}}
+Tu nu vrei adunari in sarbatoare {composer: {Puiu Chibici}, {rcId: {187586}}
 
 [sequence]
 v1,c,v2,c,v3,c

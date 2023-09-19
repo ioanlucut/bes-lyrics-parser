@@ -1,5 +1,5 @@
 [title]
-Vocea ta {author: {Remus Tămășan Cristi}, {rcId: {156559}}
+Vocea ta {composer: {Remus Tămășan Cristi}, {rcId: {156559}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

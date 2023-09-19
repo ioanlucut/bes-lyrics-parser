@@ -1,5 +1,5 @@
 [title]
-Traim astazi clipe de grele-ncercari {author: {Vasile Daniel}, {rcId: {136062}}
+Traim astazi clipe de grele-ncercari {composer: {Vasile Daniel}, {rcId: {136062}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

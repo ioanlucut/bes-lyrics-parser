@@ -1,5 +1,5 @@
 [title]
-S-a ispravit {author: {The Messengers}, {rcId: {894}}
+S-a ispravit {composer: {The Messengers}, {rcId: {894}}
 
 [sequence]
 v1,c,v2,c,v3,c

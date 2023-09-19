@@ -1,5 +1,5 @@
 [title]
-Daca nu ne-om mai vedea {author: {Anonim}, {rcId: {4879}}
+Daca nu ne-om mai vedea {composer: {Anonim}, {rcId: {4879}}
 
 [sequence]
 v1,v2,v3

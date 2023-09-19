@@ -1,5 +1,5 @@
 [title]
-A sosit craciunul mare bucurie {author: {Autor necunoscut}, {rcId: {244355}}
+A sosit craciunul mare bucurie {composer: {Autor necunoscut}, {rcId: {244355}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Luati piatra de pe mormant {author: {Anonim}, {rcId: {151557}}
+Luati piatra de pe mormant {composer: {Anonim}, {rcId: {151557}}
 
 [sequence]
 v1,c

@@ -1,5 +1,5 @@
 [title]
-Cu niciun chip {author: {Andreea Asofroniei}, {rcId: {222866}}
+Cu niciun chip {composer: {Andreea Asofroniei}, {rcId: {222866}}
 
 [sequence]
 v1,c,v2,c

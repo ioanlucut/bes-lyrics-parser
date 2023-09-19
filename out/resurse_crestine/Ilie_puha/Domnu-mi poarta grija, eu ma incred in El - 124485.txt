@@ -1,5 +1,5 @@
 [title]
-Domnu-mi poarta grija eu ma incred in el {author: {Ilie Puha}, {rcId: {124485}}
+Domnu-mi poarta grija eu ma incred in el {composer: {Ilie Puha}, {rcId: {124485}}
 
 [sequence]
 v1,c,v2,c,v3,c

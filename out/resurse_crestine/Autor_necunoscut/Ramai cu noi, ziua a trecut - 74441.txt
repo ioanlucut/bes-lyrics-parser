@@ -1,5 +1,5 @@
 [title]
-Ramai cu noi ziua a trecut {author: {Anonim}, {rcId: {74441}}
+Ramai cu noi ziua a trecut {composer: {Anonim}, {rcId: {74441}}
 
 [sequence]
 v1

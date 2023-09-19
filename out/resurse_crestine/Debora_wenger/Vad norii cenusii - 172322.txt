@@ -1,5 +1,5 @@
 [title]
-Vad norii cenusii {author: {Debora Wenger}, {rcId: {172322}}
+Vad norii cenusii {composer: {Debora Wenger}, {rcId: {172322}}
 
 [sequence]
 v1,c,v2,c,v3,c

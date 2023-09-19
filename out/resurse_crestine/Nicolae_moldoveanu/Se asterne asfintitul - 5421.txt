@@ -1,5 +1,5 @@
 [title]
-Se asterne asfintitul {author: {Nicolae Moldoveanu}, {rcId: {5421}}
+Se asterne asfintitul {composer: {Nicolae Moldoveanu}, {rcId: {5421}}
 
 [sequence]
 v1,c,v2,c,v3,c

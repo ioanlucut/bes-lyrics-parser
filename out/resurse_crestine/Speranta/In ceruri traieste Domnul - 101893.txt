@@ -1,5 +1,5 @@
 [title]
-In ceruri traieste domnul {author: {Speranța}, {rcId: {101893}}
+In ceruri traieste domnul {composer: {Speranța}, {rcId: {101893}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

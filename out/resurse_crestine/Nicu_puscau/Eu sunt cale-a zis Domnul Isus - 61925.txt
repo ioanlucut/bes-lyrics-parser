@@ -1,5 +1,5 @@
 [title]
-Eu sunt cale-a zis domnul isus {author: {Nicu Puscau}, {rcId: {61925}}
+Eu sunt cale-a zis domnul isus {composer: {Nicu Puscau}, {rcId: {61925}}
 
 [sequence]
 v1,c,v2,c,v3,c2

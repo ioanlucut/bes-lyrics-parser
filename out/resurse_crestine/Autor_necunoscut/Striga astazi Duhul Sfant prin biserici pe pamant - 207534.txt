@@ -1,5 +1,5 @@
 [title]
-Striga astazi duhul sfant prin biserici pe pamant {author: {Anonim}, {rcId: {207534}}
+Striga astazi duhul sfant prin biserici pe pamant {composer: {Anonim}, {rcId: {207534}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4,v5,c5,v6,c6,v7,c7

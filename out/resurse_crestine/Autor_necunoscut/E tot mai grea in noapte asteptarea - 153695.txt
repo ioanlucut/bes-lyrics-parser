@@ -1,5 +1,5 @@
 [title]
-E tot mai grea in noapte asteptarea {author: {Anonim}, {rcId: {153695}}
+E tot mai grea in noapte asteptarea {composer: {Anonim}, {rcId: {153695}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

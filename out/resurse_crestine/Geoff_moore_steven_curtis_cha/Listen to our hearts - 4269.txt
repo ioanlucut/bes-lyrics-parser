@@ -1,5 +1,5 @@
 [title]
-Listen to our hearts {author: {Geoff Moore, Steven Curtis Cha, Traducere RO}, {rcId: {4269}}
+Listen to our hearts {composer: {Geoff Moore, Steven Curtis Cha, Traducere RO}, {rcId: {4269}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Valuri furtuni m-au impins {author: {Anonim}, {rcId: {237444}}
+Valuri furtuni m-au impins {composer: {Anonim}, {rcId: {237444}}
 
 [sequence]
 v1,c,v2,c,v3,c

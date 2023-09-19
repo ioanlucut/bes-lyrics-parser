@@ -1,5 +1,5 @@
 [title]
-Vreau sa te fac pescar de om {author: {Anonim}, {rcId: {807}}
+Vreau sa te fac pescar de om {composer: {Anonim}, {rcId: {807}}
 
 [sequence]
 v1,v2,v3,v4

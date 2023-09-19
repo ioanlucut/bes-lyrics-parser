@@ -1,5 +1,5 @@
 [title]
-Vrem trezire {author: {Matt Redman}, {rcId: {2458}}
+Vrem trezire {composer: {Matt Redman}, {rcId: {2458}}
 
 [sequence]
 v1,c,v2,c,v3,c

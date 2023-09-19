@@ -1,5 +1,5 @@
 [title]
-Eram cu barca printre valuri {author: {Anonim}, {rcId: {3135}}
+Eram cu barca printre valuri {composer: {Anonim}, {rcId: {3135}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

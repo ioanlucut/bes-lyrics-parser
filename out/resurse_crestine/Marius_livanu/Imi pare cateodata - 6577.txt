@@ -1,5 +1,5 @@
 [title]
-Imi pare cateodata {author: {Marius Livanu}, {rcId: {6577}}
+Imi pare cateodata {composer: {Marius Livanu}, {rcId: {6577}}
 
 [sequence]
 v1,c,v2,c,v3,c

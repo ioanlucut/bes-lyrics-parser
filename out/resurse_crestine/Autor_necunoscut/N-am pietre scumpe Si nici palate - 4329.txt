@@ -1,5 +1,5 @@
 [title]
-N-am pietre scumpe si nici palate {author: {Anonim}, {rcId: {4329}}
+N-am pietre scumpe si nici palate {composer: {Anonim}, {rcId: {4329}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Nu descuraja {author: {Biji din Barbulesti, Rafi}, {rcId: {210573}}
+Nu descuraja {composer: {Biji din Barbulesti, Rafi}, {rcId: {210573}}
 
 [sequence]
 v1,c,v2,c,v3,c

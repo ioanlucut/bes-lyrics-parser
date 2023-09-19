@@ -1,5 +1,5 @@
 [title]
-Cat timp tanjesc {author: {Nicolae Moldoveanu}, {rcId: {246513}}
+Cat timp tanjesc {composer: {Nicolae Moldoveanu}, {rcId: {246513}}
 
 [sequence]
 v1,v2,v3,v4

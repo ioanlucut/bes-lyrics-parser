@@ -1,5 +1,5 @@
 [title]
-Cantati cu toti va bucurati {author: {Ionică Stoica}, {rcId: {78737}}
+Cantati cu toti va bucurati {composer: {Ionică Stoica}, {rcId: {78737}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

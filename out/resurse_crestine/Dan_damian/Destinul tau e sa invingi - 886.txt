@@ -1,5 +1,5 @@
 [title]
-Destinul tau e sa invingi {author: {Dan Damian}, {rcId: {886}}
+Destinul tau e sa invingi {composer: {Dan Damian}, {rcId: {886}}
 
 [sequence]
 v1,c,v2,c

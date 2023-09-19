@@ -1,5 +1,5 @@
 [title]
-Porumbel cu pene sidefate {author: {Iulia Contis}, {rcId: {240237}}
+Porumbel cu pene sidefate {composer: {Iulia Contis}, {rcId: {240237}}
 
 [sequence]
 v1,v2,v3

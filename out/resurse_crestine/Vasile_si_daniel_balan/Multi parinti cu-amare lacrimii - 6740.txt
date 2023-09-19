@@ -1,5 +1,5 @@
 [title]
-Multi parinti cu-amare lacrimii {author: {Vasile si Daniel Balan}, {rcId: {6740}}
+Multi parinti cu-amare lacrimii {composer: {Vasile si Daniel Balan}, {rcId: {6740}}
 
 [sequence]
 v1,c,v2,c,v3,c2,v4,c

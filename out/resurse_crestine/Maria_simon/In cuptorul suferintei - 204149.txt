@@ -1,5 +1,5 @@
 [title]
-In cuptorul suferintei {author: {Maria Șimon}, {rcId: {204149}}
+In cuptorul suferintei {composer: {Maria Șimon}, {rcId: {204149}}
 
 [sequence]
 v1,c,v2,c,v3,c

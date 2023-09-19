@@ -1,5 +1,5 @@
 [title]
-Semnele iubirii {author: {Emaus}, {rcId: {74182}}
+Semnele iubirii {composer: {Emaus}, {rcId: {74182}}
 
 [sequence]
 v1,c,v2,c,e

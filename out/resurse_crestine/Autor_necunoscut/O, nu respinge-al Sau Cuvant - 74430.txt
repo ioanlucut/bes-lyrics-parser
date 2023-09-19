@@ -1,5 +1,5 @@
 [title]
-O nu respinge-al sau cuvant {author: {Anonim}, {rcId: {74430}}
+O nu respinge-al sau cuvant {composer: {Anonim}, {rcId: {74430}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

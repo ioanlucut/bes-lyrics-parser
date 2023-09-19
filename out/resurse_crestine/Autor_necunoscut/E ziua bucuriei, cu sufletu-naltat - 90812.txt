@@ -1,5 +1,5 @@
 [title]
-E ziua bucuriei cu sufletu-naltat {author: {Anonim}, {rcId: {90812}}
+E ziua bucuriei cu sufletu-naltat {composer: {Anonim}, {rcId: {90812}}
 
 [sequence]
 v1,v2,v3,v4,v5

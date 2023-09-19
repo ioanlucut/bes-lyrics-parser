@@ -1,5 +1,5 @@
 [title]
-In pustiu nu sunt izvoare {author: {Daniel si Emanuela Hirtie}, {rcId: {197831}}
+In pustiu nu sunt izvoare {composer: {Daniel si Emanuela Hirtie}, {rcId: {197831}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

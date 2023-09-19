@@ -1,5 +1,5 @@
 [title]
-Am gasit o floare rupta {author: {Nicolae Moldoveanu}, {rcId: {5250}}
+Am gasit o floare rupta {composer: {Nicolae Moldoveanu}, {rcId: {5250}}
 
 [sequence]
 v1,v2,v3

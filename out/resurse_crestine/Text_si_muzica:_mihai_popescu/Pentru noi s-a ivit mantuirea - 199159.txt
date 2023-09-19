@@ -1,5 +1,5 @@
 [title]
-Pentru noi s-a ivit mantuirea {author: {Text și muzica: Mihai Popescu}, {rcId: {199159}}
+Pentru noi s-a ivit mantuirea {composer: {Text și muzica: Mihai Popescu}, {rcId: {199159}}
 
 [sequence]
 v1,c,v2,c,v3,c

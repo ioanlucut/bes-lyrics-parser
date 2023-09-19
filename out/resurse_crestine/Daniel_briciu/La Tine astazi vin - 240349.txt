@@ -1,5 +1,5 @@
 [title]
-La tine astazi vin {author: {Daniel Briciu}, {rcId: {240349}}
+La tine astazi vin {composer: {Daniel Briciu}, {rcId: {240349}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Sunt mantuit prin jertfa lui {author: {Anonim}, {rcId: {5078}}
+Sunt mantuit prin jertfa lui {composer: {Anonim}, {rcId: {5078}}
 
 [sequence]
 v1,v2,v3

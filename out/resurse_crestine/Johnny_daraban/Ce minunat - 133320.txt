@@ -1,5 +1,5 @@
 [title]
-Ce minunat {author: {Johnny Daraban}, {rcId: {133320}}
+Ce minunat {composer: {Johnny Daraban}, {rcId: {133320}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

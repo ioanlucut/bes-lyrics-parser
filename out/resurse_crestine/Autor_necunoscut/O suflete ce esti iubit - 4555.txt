@@ -1,5 +1,5 @@
 [title]
-O suflete ce esti iubit {author: {Anonim}, {rcId: {4555}}
+O suflete ce esti iubit {composer: {Anonim}, {rcId: {4555}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4,v5,c5,v6,c6,v7,c7,v8,c8

@@ -1,5 +1,5 @@
 [title]
-Omule ce ratacesti pribeag {author: {Anonim}, {rcId: {192958}}
+Omule ce ratacesti pribeag {composer: {Anonim}, {rcId: {192958}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

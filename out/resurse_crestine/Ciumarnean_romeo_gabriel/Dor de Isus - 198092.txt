@@ -1,5 +1,5 @@
 [title]
-Dor de isus {author: {Ciumarnean Romeo Gabriel}, {rcId: {198092}}
+Dor de isus {composer: {Ciumarnean Romeo Gabriel}, {rcId: {198092}}
 
 [sequence]
 v1,c,v2,c,v3,c

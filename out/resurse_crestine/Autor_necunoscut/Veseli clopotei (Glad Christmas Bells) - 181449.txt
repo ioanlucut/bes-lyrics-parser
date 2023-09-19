@@ -1,5 +1,5 @@
 [title]
-Veseli clopotei (glad christmas bells) {author: {Anonim, Traducere RO}, {rcId: {181449}}
+Veseli clopotei (glad christmas bells) {composer: {Anonim, Traducere RO}, {rcId: {181449}}
 
 [sequence]
 v1,v2,v3,v4,s

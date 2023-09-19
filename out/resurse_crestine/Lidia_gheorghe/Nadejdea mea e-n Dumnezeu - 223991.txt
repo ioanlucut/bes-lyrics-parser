@@ -1,5 +1,5 @@
 [title]
-Nadejdea mea e-n dumnezeu {author: {Lidia Gheorghe}, {rcId: {223991}}
+Nadejdea mea e-n dumnezeu {composer: {Lidia Gheorghe}, {rcId: {223991}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8,v9,v10,v11,v12,v13,v14

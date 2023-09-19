@@ -1,5 +1,5 @@
 [title]
-Da-i slava lui {author: {Utilizator Halasu Claudiu}, {rcId: {109909}}
+Da-i slava lui {composer: {Utilizator Halasu Claudiu}, {rcId: {109909}}
 
 [sequence]
 v1,c,v2,c,c

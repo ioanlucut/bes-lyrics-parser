@@ -1,5 +1,5 @@
 [title]
-Cantarile noastre {author: {Nicolae Moldoveanu}, {rcId: {244449}}
+Cantarile noastre {composer: {Nicolae Moldoveanu}, {rcId: {244449}}
 
 [sequence]
 v1,v2,v3,v4,v5

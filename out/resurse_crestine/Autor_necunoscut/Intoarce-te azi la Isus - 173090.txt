@@ -1,5 +1,5 @@
 [title]
-Intoarce-te azi la isus {author: {Anonim}, {rcId: {173090}}
+Intoarce-te azi la isus {composer: {Anonim}, {rcId: {173090}}
 
 [sequence]
 v1,v1,v2

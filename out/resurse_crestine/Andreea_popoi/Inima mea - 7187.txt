@@ -1,5 +1,5 @@
 [title]
-Inima mea {author: {Andreea Popoi}, {rcId: {7187}}
+Inima mea {composer: {Andreea Popoi}, {rcId: {7187}}
 
 [sequence]
 v1,c,v2,c,v3,c

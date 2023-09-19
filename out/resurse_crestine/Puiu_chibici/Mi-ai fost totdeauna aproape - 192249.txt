@@ -1,5 +1,5 @@
 [title]
-Mi-ai fost totdeauna aproape {author: {Puiu Chibici}, {rcId: {192249}}
+Mi-ai fost totdeauna aproape {composer: {Puiu Chibici}, {rcId: {192249}}
 
 [sequence]
 v1,v2,v3,v4

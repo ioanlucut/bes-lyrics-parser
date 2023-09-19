@@ -1,5 +1,5 @@
 [title]
-O mama tezaur maret {author: {Puiu și Beni Chibici}, {rcId: {188176}}
+O mama tezaur maret {composer: {Puiu și Beni Chibici}, {rcId: {188176}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

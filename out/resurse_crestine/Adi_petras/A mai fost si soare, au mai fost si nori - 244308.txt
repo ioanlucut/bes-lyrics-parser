@@ -1,5 +1,5 @@
 [title]
-A mai fost si soare au mai fost si nori {author: {adi petras}, {rcId: {244308}}
+A mai fost si soare au mai fost si nori {composer: {adi petras}, {rcId: {244308}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Doamne cand privesc in juru-mi {author: {Speranța}, {rcId: {81914}}
+Doamne cand privesc in juru-mi {composer: {Speranța}, {rcId: {81914}}
 
 [sequence]
 v1,v2,v3,v4

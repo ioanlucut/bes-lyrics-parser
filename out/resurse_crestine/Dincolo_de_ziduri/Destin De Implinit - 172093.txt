@@ -1,5 +1,5 @@
 [title]
-Destin de implinit {author: {Dincolo De Ziduri}, {rcId: {172093}}
+Destin de implinit {composer: {Dincolo De Ziduri}, {rcId: {172093}}
 
 [sequence]
 v1,c,v2,c2,c

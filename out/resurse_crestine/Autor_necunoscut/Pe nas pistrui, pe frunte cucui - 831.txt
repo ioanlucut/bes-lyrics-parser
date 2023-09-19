@@ -1,5 +1,5 @@
 [title]
-Pe nas pistrui pe frunte cucui {author: {Anonim}, {rcId: {831}}
+Pe nas pistrui pe frunte cucui {composer: {Anonim}, {rcId: {831}}
 
 [sequence]
 s,c,v1,c,v2,c

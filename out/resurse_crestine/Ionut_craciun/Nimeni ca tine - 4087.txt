@@ -1,5 +1,5 @@
 [title]
-Nimeni ca tine {author: {Ionuț Crăciun}, {rcId: {4087}}
+Nimeni ca tine {composer: {Ionuț Crăciun}, {rcId: {4087}}
 
 [sequence]
 v1,c,v2,c

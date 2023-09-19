@@ -1,5 +1,5 @@
 [title]
-Vin inaintea domnului {author: {Miriam Popescu}, {rcId: {185735}}
+Vin inaintea domnului {composer: {Miriam Popescu}, {rcId: {185735}}
 
 [sequence]
 v1,c,c2,v2,c

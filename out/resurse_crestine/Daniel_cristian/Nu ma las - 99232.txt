@@ -1,5 +1,5 @@
 [title]
-Nu ma las {author: {Daniel Cristian}, {rcId: {99232}}
+Nu ma las {composer: {Daniel Cristian}, {rcId: {99232}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Un simplu cantec {author: {Grupul Ahava}, {rcId: {4384}}
+Un simplu cantec {composer: {Grupul Ahava}, {rcId: {4384}}
 
 [sequence]
 v1,c,v2,c

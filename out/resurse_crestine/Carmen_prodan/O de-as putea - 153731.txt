@@ -1,5 +1,5 @@
 [title]
-O de-as putea {author: {Carmen Prodan}, {rcId: {153731}}
+O de-as putea {composer: {Carmen Prodan}, {rcId: {153731}}
 
 [sequence]
 v1,c,v2,c,v3,c

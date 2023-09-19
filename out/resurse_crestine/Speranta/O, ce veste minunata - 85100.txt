@@ -1,5 +1,5 @@
 [title]
-O ce veste minunata {author: {Speranța}, {rcId: {85100}}
+O ce veste minunata {composer: {Speranța}, {rcId: {85100}}
 
 [sequence]
 v1,v2,v3,v4,v5

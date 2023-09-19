@@ -1,5 +1,5 @@
 [title]
-Stiti voi ce e adunarea ? {author: {Anonim}, {rcId: {168333}}
+Stiti voi ce e adunarea ? {composer: {Anonim}, {rcId: {168333}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

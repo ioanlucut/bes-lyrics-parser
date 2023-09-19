@@ -1,5 +1,5 @@
 [title]
-Glorie {author: {Revers}, {rcId: {222882}}
+Glorie {composer: {Revers}, {rcId: {222882}}
 
 [sequence]
 v1,c,v2,b,c

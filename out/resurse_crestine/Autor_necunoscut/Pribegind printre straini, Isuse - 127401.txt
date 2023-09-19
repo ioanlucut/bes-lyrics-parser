@@ -1,5 +1,5 @@
 [title]
-Pribegind printre straini isuse {author: {Anonim}, {rcId: {127401}}
+Pribegind printre straini isuse {composer: {Anonim}, {rcId: {127401}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

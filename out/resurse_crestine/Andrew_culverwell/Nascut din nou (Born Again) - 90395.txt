@@ -1,5 +1,5 @@
 [title]
-Nascut din nou (born again) {author: {Andrew Culverwell, Traducere RO}, {rcId: {90395}}
+Nascut din nou (born again) {composer: {Andrew Culverwell, Traducere RO}, {rcId: {90395}}
 
 [sequence]
 v1,c,v2,c,s,c

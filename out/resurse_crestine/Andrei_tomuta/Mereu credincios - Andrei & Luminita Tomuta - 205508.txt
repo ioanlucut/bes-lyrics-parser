@@ -1,5 +1,5 @@
 [title]
-Mereu credincios - andrei & luminita tomuta {author: {Andrei Tomuta}, {rcId: {205508}}
+Mereu credincios - andrei & luminita tomuta {composer: {Andrei Tomuta}, {rcId: {205508}}
 
 [sequence]
 v1,c,c

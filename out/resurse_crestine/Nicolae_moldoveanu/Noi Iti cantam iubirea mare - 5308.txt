@@ -1,5 +1,5 @@
 [title]
-Noi iti cantam iubirea mare {author: {Nicolae Moldoveanu}, {rcId: {5308}}
+Noi iti cantam iubirea mare {composer: {Nicolae Moldoveanu}, {rcId: {5308}}
 
 [sequence]
 v1,c,v2,c,v3,c

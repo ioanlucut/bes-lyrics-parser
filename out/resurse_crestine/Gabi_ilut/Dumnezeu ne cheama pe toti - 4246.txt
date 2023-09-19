@@ -1,5 +1,5 @@
 [title]
-Dumnezeu ne cheama pe toti {author: {Gabi Ilut}, {rcId: {4246}}
+Dumnezeu ne cheama pe toti {composer: {Gabi Ilut}, {rcId: {4246}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

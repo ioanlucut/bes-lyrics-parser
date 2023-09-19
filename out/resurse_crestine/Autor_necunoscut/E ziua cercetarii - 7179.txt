@@ -1,5 +1,5 @@
 [title]
-E ziua cercetarii {author: {Anonim}, {rcId: {7179}}
+E ziua cercetarii {composer: {Anonim}, {rcId: {7179}}
 
 [sequence]
 v1,c,v2,c

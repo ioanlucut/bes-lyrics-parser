@@ -1,5 +1,5 @@
 [title]
-Ma voi intoarce acasa {author: {Alexandru Groza}, {rcId: {192924}}
+Ma voi intoarce acasa {composer: {Alexandru Groza}, {rcId: {192924}}
 
 [sequence]
 v1,c,c,v2,c2

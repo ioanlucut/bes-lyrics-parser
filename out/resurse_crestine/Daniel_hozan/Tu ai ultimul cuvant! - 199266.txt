@@ -1,5 +1,5 @@
 [title]
-Tu ai ultimul cuvant {author: {Daniel Hozan}, {rcId: {199266}}
+Tu ai ultimul cuvant {composer: {Daniel Hozan}, {rcId: {199266}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8,v9

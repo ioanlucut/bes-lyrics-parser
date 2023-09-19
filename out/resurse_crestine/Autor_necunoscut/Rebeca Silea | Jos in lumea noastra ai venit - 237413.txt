@@ -1,5 +1,5 @@
 [title]
-Rebeca silea | jos in lumea noastra ai venit {author: {Anonim}, {rcId: {237413}}
+Rebeca silea | jos in lumea noastra ai venit {composer: {Anonim}, {rcId: {237413}}
 
 [sequence]
 v1,c,v2,c,v3,c

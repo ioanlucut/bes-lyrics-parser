@@ -1,5 +1,5 @@
 [title]
-Ti-aduci aminte {author: {Quo Vadis}, {rcId: {66774}}
+Ti-aduci aminte {composer: {Quo Vadis}, {rcId: {66774}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c,v5,c

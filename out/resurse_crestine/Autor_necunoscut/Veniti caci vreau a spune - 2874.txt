@@ -1,5 +1,5 @@
 [title]
-Veniti caci vreau a spune {author: {Anonim}, {rcId: {2874}}
+Veniti caci vreau a spune {composer: {Anonim}, {rcId: {2874}}
 
 [sequence]
 v1,v1,v2,v3

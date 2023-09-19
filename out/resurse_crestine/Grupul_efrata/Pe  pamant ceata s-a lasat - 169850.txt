@@ -1,5 +1,5 @@
 [title]
-Pe pamant ceata s-a lasat {author: {Grupul Efrata}, {rcId: {169850}}
+Pe pamant ceata s-a lasat {composer: {Grupul Efrata}, {rcId: {169850}}
 
 [sequence]
 v1,c,v2,c,v3,c

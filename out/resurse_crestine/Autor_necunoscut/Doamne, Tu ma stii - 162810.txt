@@ -1,5 +1,5 @@
 [title]
-Doamne tu ma stii {author: {Anonim}, {rcId: {162810}}
+Doamne tu ma stii {composer: {Anonim}, {rcId: {162810}}
 
 [sequence]
 v1,v2,v3,v4

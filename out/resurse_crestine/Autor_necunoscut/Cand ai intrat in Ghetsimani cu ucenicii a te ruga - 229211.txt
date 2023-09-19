@@ -1,5 +1,5 @@
 [title]
-Cand ai intrat in ghetsimani cu ucenicii a te ruga {author: {Anonim}, {rcId: {229211}}
+Cand ai intrat in ghetsimani cu ucenicii a te ruga {composer: {Anonim}, {rcId: {229211}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

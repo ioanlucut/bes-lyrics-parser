@@ -1,5 +1,5 @@
 [title]
-In mine deplin fa-ti lucrarea {author: {Iany și Cristina Laurenciuc}, {rcId: {230831}}
+In mine deplin fa-ti lucrarea {composer: {Iany și Cristina Laurenciuc}, {rcId: {230831}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

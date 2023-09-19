@@ -1,5 +1,5 @@
 [title]
-Vin inaintea ta {author: {Anonim}, {rcId: {187965}}
+Vin inaintea ta {composer: {Anonim}, {rcId: {187965}}
 
 [sequence]
 v1,c

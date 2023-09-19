@@ -1,5 +1,5 @@
 [title]
-S-a gasit un biet grajdar {author: {Anonim}, {rcId: {223580}}
+S-a gasit un biet grajdar {composer: {Anonim}, {rcId: {223580}}
 
 [sequence]
 v1,v2,v3

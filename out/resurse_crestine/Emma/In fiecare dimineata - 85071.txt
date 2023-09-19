@@ -1,5 +1,5 @@
 [title]
-In fiecare dimineata {author: {Emma}, {rcId: {85071}}
+In fiecare dimineata {composer: {Emma}, {rcId: {85071}}
 
 [sequence]
 v1,b,c,v2,c

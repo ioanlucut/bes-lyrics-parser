@@ -1,5 +1,5 @@
 [title]
-Numai dragostea-ti suprema {author: {Tudor Oleniuc}, {rcId: {222634}}
+Numai dragostea-ti suprema {composer: {Tudor Oleniuc}, {rcId: {222634}}
 
 [sequence]
 v1,v2,v3,v4

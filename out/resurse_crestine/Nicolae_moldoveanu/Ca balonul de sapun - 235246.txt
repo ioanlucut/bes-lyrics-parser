@@ -1,5 +1,5 @@
 [title]
-Ca balonul de sapun {author: {Nicolae Moldoveanu}, {rcId: {235246}}
+Ca balonul de sapun {composer: {Nicolae Moldoveanu}, {rcId: {235246}}
 
 [sequence]
 v1,v2,v3,v4

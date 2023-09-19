@@ -1,5 +1,5 @@
 [title]
-Ascultati cu totii cum va colindam {author: {Anonim}, {rcId: {194424}}
+Ascultati cu totii cum va colindam {composer: {Anonim}, {rcId: {194424}}
 
 [sequence]
 v1,c,v2,c,v3,c

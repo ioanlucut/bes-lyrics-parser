@@ -1,5 +1,5 @@
 [title]
-Noi azi pe isus inaltam {author: {Anonim}, {rcId: {4775}}
+Noi azi pe isus inaltam {composer: {Anonim}, {rcId: {4775}}
 
 [sequence]
 v1,c,v2,c

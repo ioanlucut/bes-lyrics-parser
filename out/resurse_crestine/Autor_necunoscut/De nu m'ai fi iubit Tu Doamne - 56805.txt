@@ -1,5 +1,5 @@
 [title]
-De nu m ai fi iubit tu doamne {author: {Anonim}, {rcId: {56805}}
+De nu m ai fi iubit tu doamne {composer: {Anonim}, {rcId: {56805}}
 
 [sequence]
 v1,c,v2,c,v3,c

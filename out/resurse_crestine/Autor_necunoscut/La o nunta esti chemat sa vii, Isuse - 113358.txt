@@ -1,5 +1,5 @@
 [title]
-La o nunta esti chemat sa vii isuse {author: {Anonim}, {rcId: {113358}}
+La o nunta esti chemat sa vii isuse {composer: {Anonim}, {rcId: {113358}}
 
 [sequence]
 v1,c,v2,c2

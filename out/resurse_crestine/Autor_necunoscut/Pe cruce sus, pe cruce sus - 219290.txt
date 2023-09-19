@@ -1,5 +1,5 @@
 [title]
-Pe cruce sus pe cruce sus {author: {Anonim}, {rcId: {219290}}
+Pe cruce sus pe cruce sus {composer: {Anonim}, {rcId: {219290}}
 
 [sequence]
 v1,c,v2,c,v3,c

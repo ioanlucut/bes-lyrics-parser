@@ -1,5 +1,5 @@
 [title]
-Doamne langa tine vreau {author: {Anonim}, {rcId: {5178}}
+Doamne langa tine vreau {composer: {Anonim}, {rcId: {5178}}
 
 [sequence]
 v1,c,v2,c,v3,c

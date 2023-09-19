@@ -1,5 +1,5 @@
 [title]
-Numai dumnezeu (unde sa te duci cu-a ta durere) {author: {Ovidiu Liteanu}, {rcId: {187411}}
+Numai dumnezeu (unde sa te duci cu-a ta durere) {composer: {Ovidiu Liteanu}, {rcId: {187411}}
 
 [sequence]
 v1,v2,v3,v4

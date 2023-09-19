@@ -1,5 +1,5 @@
 [title]
-Biserica mireasa mea {author: {Titel Băruța}, {rcId: {216316}}
+Biserica mireasa mea {composer: {Titel Băruța}, {rcId: {216316}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

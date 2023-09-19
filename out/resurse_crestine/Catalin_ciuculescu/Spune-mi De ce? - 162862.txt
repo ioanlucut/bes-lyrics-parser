@@ -1,5 +1,5 @@
 [title]
-Spune-mi de ce? {author: {Cătălin Ciuculescu}, {rcId: {162862}}
+Spune-mi de ce? {composer: {Cătălin Ciuculescu}, {rcId: {162862}}
 
 [sequence]
 v1,v2,c,v3,c,e

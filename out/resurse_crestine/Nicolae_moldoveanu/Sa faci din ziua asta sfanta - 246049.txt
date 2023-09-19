@@ -1,5 +1,5 @@
 [title]
-Sa faci din ziua asta sfanta {author: {Nicolae Moldoveanu}, {rcId: {246049}}
+Sa faci din ziua asta sfanta {composer: {Nicolae Moldoveanu}, {rcId: {246049}}
 
 [sequence]
 v1,v2,v3,v4,v5

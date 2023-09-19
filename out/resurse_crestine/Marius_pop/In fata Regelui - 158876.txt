@@ -1,5 +1,5 @@
 [title]
-In fata regelui {author: {Marius Pop}, {rcId: {158876}}
+In fata regelui {composer: {Marius Pop}, {rcId: {158876}}
 
 [sequence]
 v1,v2,c,v2,c,e,c

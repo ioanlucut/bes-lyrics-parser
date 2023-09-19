@@ -1,5 +1,5 @@
 [title]
-Valurile marii {author: {Ivan Bogdan}, {rcId: {178239}}
+Valurile marii {composer: {Ivan Bogdan}, {rcId: {178239}}
 
 [sequence]
 v1,c,v2,c,v3,c

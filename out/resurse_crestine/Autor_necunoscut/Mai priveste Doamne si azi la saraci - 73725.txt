@@ -1,5 +1,5 @@
 [title]
-Mai priveste doamne si azi la saraci {author: {Anonim}, {rcId: {73725}}
+Mai priveste doamne si azi la saraci {composer: {Anonim}, {rcId: {73725}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-La ballade de l homme {author: {Iulia Contis}, {rcId: {242743}}
+La ballade de l homme {composer: {Iulia Contis}, {rcId: {242743}}
 
 [sequence]
 v1,v2,v3,v4

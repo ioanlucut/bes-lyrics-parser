@@ -1,5 +1,5 @@
 [title]
-Esti cu mine mereu {author: {The Messengers}, {rcId: {2841}}
+Esti cu mine mereu {composer: {The Messengers}, {rcId: {2841}}
 
 [sequence]
 v1,c,v2,c,e

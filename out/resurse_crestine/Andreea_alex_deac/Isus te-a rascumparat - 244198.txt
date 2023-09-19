@@ -1,5 +1,5 @@
 [title]
-Isus te-a rascumparat {author: {Andreea, Alex Deac}, {rcId: {244198}}
+Isus te-a rascumparat {composer: {Andreea, Alex Deac}, {rcId: {244198}}
 
 [sequence]
 v1,c,v2,c

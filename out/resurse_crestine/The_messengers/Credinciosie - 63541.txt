@@ -1,5 +1,5 @@
 [title]
-Credinciosie {author: {The Messengers}, {rcId: {63541}}
+Credinciosie {composer: {The Messengers}, {rcId: {63541}}
 
 [sequence]
 v1,v2,v3

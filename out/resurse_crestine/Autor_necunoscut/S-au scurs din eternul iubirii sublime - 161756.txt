@@ -1,5 +1,5 @@
 [title]
-S-au scurs din eternul iubirii sublime {author: {Anonim}, {rcId: {161756}}
+S-au scurs din eternul iubirii sublime {composer: {Anonim}, {rcId: {161756}}
 
 [sequence]
 v1,c,v2,c2

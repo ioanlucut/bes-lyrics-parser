@@ -1,5 +1,5 @@
 [title]
-Din cer din locuri sfinte {author: {Nicolae Moldoveanu}, {rcId: {246178}}
+Din cer din locuri sfinte {composer: {Nicolae Moldoveanu}, {rcId: {246178}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

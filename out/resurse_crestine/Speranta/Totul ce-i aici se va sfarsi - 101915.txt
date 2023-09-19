@@ -1,5 +1,5 @@
 [title]
-Totul ce-i aici se va sfarsi {author: {Speranța}, {rcId: {101915}}
+Totul ce-i aici se va sfarsi {composer: {Speranța}, {rcId: {101915}}
 
 [sequence]
 v1,c,c,v2,c

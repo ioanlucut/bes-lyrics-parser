@@ -1,5 +1,5 @@
 [title]
-Te vreau statornic langa mine - do minor {author: {Anonim}, {rcId: {226250}}
+Te vreau statornic langa mine - do minor {composer: {Anonim}, {rcId: {226250}}
 
 [sequence]
 v1,v2,v3,v4

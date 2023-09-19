@@ -1,5 +1,5 @@
 [title]
-Pace sfanta bucurie (svim na zemlji mir veselje) {author: {Colind din Croația, Traducere RO}, {rcId: {205952}}
+Pace sfanta bucurie (svim na zemlji mir veselje) {composer: {Colind din Croația, Traducere RO}, {rcId: {205952}}
 
 [sequence]
 v1,v2,v3

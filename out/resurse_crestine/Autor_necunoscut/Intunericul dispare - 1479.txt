@@ -1,5 +1,5 @@
 [title]
-Intunericul dispare {author: {Anonim}, {rcId: {1479}}
+Intunericul dispare {composer: {Anonim}, {rcId: {1479}}
 
 [sequence]
 v1,c,v2,c,v3,c

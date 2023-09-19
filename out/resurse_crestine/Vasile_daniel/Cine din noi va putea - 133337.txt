@@ -1,5 +1,5 @@
 [title]
-Cine din noi va putea {author: {Vasile Daniel}, {rcId: {133337}}
+Cine din noi va putea {composer: {Vasile Daniel}, {rcId: {133337}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

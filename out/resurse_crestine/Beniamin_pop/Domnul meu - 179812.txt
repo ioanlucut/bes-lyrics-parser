@@ -1,5 +1,5 @@
 [title]
-Domnul meu {author: {Beniamin Pop}, {rcId: {179812}}
+Domnul meu {composer: {Beniamin Pop}, {rcId: {179812}}
 
 [sequence]
 v1,v2,v3

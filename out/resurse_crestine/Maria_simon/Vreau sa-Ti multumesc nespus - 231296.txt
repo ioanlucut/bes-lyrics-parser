@@ -1,5 +1,5 @@
 [title]
-Vreau sa-ti multumesc nespus {author: {Maria Șimon}, {rcId: {231296}}
+Vreau sa-ti multumesc nespus {composer: {Maria Șimon}, {rcId: {231296}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Esti rege si domn minunat {author: {Continental}, {rcId: {89183}}
+Esti rege si domn minunat {composer: {Continental}, {rcId: {89183}}
 
 [sequence]
 v1,c,v2,b,c

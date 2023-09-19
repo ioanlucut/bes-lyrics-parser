@@ -1,5 +1,5 @@
 [title]
-Cu tine-n gand {author: {David Wagner}, {rcId: {104937}}
+Cu tine-n gand {composer: {David Wagner}, {rcId: {104937}}
 
 [sequence]
 v1,c,v2,c,v3,c

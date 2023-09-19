@@ -1,5 +1,5 @@
 [title]
-Cu bucurie la nunta voastra {author: {Anonim}, {rcId: {197808}}
+Cu bucurie la nunta voastra {composer: {Anonim}, {rcId: {197808}}
 
 [sequence]
 v1,c,v2,c,v3,c

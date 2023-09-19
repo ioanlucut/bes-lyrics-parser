@@ -1,5 +1,5 @@
 [title]
-Cetate tare-i dumnezeu {author: {Martin Luther, Traducere RO}, {rcId: {74303}}
+Cetate tare-i dumnezeu {composer: {Martin Luther, Traducere RO}, {rcId: {74303}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

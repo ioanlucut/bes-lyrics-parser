@@ -1,5 +1,5 @@
 [title]
-Acum sunt liber {author: {Oniță Halunga}, {rcId: {160474}}
+Acum sunt liber {composer: {Oniță Halunga}, {rcId: {160474}}
 
 [sequence]
 v1,c,b,c,c,b2,c,c,

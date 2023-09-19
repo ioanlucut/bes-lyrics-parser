@@ -1,5 +1,5 @@
 [title]
-Trece isus pe-aici {author: {Anonim}, {rcId: {58795}}
+Trece isus pe-aici {composer: {Anonim}, {rcId: {58795}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

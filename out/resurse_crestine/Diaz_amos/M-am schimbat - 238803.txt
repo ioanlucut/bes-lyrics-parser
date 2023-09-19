@@ -1,5 +1,5 @@
 [title]
-M-am schimbat {author: {Diaz Amos}, {rcId: {238803}}
+M-am schimbat {composer: {Diaz Amos}, {rcId: {238803}}
 
 [sequence]
 v1,c,v2,c,v3,c

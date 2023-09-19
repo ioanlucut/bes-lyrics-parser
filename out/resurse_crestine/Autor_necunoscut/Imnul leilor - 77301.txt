@@ -1,5 +1,5 @@
 [title]
-Imnul leilor {author: {Anonim}, {rcId: {77301}}
+Imnul leilor {composer: {Anonim}, {rcId: {77301}}
 
 [sequence]
 v1,c,v2,c

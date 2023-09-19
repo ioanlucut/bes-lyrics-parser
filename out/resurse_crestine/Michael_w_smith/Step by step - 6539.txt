@@ -1,5 +1,5 @@
 [title]
-Step by step {author: {Michael W. Smith, Traducere RO}, {rcId: {6539}}
+Step by step {composer: {Michael W. Smith, Traducere RO}, {rcId: {6539}}
 
 [sequence]
 v1,c,e

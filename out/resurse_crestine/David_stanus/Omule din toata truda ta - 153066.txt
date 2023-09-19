@@ -1,5 +1,5 @@
 [title]
-Omule din toata truda ta {author: {David Stănuș}, {rcId: {153066}}
+Omule din toata truda ta {composer: {David Stănuș}, {rcId: {153066}}
 
 [sequence]
 v1,c,v2,c,v3,c

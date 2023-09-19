@@ -1,5 +1,5 @@
 [title]
-Fratilor la lupta haideti sa iesim {author: {Anonim}, {rcId: {151283}}
+Fratilor la lupta haideti sa iesim {composer: {Anonim}, {rcId: {151283}}
 
 [sequence]
 v1,c,v2,c,v3,c

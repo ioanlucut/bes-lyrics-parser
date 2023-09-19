@@ -1,5 +1,5 @@
 [title]
-Niciodat fara tine n-am umblat {author: {Matt Redman}, {rcId: {141114}}
+Niciodat fara tine n-am umblat {composer: {Matt Redman}, {rcId: {141114}}
 
 [sequence]
 v1,c,v2,c,c

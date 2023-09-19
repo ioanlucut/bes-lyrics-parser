@@ -1,5 +1,5 @@
 [title]
-Ratacire {author: {Diaz Amos}, {rcId: {240924}}
+Ratacire {composer: {Diaz Amos}, {rcId: {240924}}
 
 [sequence]
 v1,v2,v3,v4

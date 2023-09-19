@@ -1,5 +1,5 @@
 [title]
-E azi un mare har {author: {Daniel Briciu}, {rcId: {240342}}
+E azi un mare har {composer: {Daniel Briciu}, {rcId: {240342}}
 
 [sequence]
 v1,c,v2,c,v3,c,c2

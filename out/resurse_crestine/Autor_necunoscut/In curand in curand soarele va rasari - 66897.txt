@@ -1,5 +1,5 @@
 [title]
-In curand in curand soarele va rasari {author: {Anonim}, {rcId: {66897}}
+In curand in curand soarele va rasari {composer: {Anonim}, {rcId: {66897}}
 
 [sequence]
 v1,v2,v3,v4

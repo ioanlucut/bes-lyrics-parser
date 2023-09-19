@@ -1,5 +1,5 @@
 [title]
-Chemarea harului de sus {author: {Nicolae Moldoveanu}, {rcId: {240968}}
+Chemarea harului de sus {composer: {Nicolae Moldoveanu}, {rcId: {240968}}
 
 [sequence]
 v1,v2,v3

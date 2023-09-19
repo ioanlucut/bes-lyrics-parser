@@ -1,5 +1,5 @@
 [title]
-Cuprinsi de mangaiere prin dragoste privim {author: {Cornel Sava}, {rcId: {220964}}
+Cuprinsi de mangaiere prin dragoste privim {composer: {Cornel Sava}, {rcId: {220964}}
 
 [sequence]
 v1,c,v2,c,v3,c

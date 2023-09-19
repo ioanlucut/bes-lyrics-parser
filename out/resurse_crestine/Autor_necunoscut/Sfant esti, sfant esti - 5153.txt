@@ -1,5 +1,5 @@
 [title]
-Sfant esti sfant esti {author: {Anonim}, {rcId: {5153}}
+Sfant esti sfant esti {composer: {Anonim}, {rcId: {5153}}
 
 [sequence]
 v1,c

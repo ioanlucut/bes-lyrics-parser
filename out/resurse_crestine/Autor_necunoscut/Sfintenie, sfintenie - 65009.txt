@@ -1,5 +1,5 @@
 [title]
-Sfintenie sfintenie {author: {Anonim}, {rcId: {65009}}
+Sfintenie sfintenie {composer: {Anonim}, {rcId: {65009}}
 
 [sequence]
 v1,v2,v3,v4

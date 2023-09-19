@@ -1,5 +1,5 @@
 [title]
-Israel israel {author: {Puiu Chibici}, {rcId: {158546}}
+Israel israel {composer: {Puiu Chibici}, {rcId: {158546}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,v4,c

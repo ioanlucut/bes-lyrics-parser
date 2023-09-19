@@ -1,5 +1,5 @@
 [title]
-Mai cant si azi iubirea ta {author: {Nicolae Zamfir}, {rcId: {220256}}
+Mai cant si azi iubirea ta {composer: {Nicolae Zamfir}, {rcId: {220256}}
 
 [sequence]
 v1,c,v2,c,v3,c

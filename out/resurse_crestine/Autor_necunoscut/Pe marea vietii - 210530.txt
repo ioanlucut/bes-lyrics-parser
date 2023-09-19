@@ -1,5 +1,5 @@
 [title]
-Pe marea vietii {author: {Anonim}, {rcId: {210530}}
+Pe marea vietii {composer: {Anonim}, {rcId: {210530}}
 
 [sequence]
 v1,c,v2,c,v3,c

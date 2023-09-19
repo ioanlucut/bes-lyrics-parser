@@ -1,5 +1,5 @@
 [title]
-Cand domnul va veni {author: {Speranța}, {rcId: {2136}}
+Cand domnul va veni {composer: {Speranța}, {rcId: {2136}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-De ce porti tu povara atator indoieli {author: {Maria Someșan}, {rcId: {63975}}
+De ce porti tu povara atator indoieli {composer: {Maria Someșan}, {rcId: {63975}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

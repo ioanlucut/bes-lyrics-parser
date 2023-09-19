@@ -1,5 +1,5 @@
 [title]
-Tu esti un domn minunat {author: {Anonim}, {rcId: {7127}}
+Tu esti un domn minunat {composer: {Anonim}, {rcId: {7127}}
 
 [sequence]
 v1,v2,v3,v4

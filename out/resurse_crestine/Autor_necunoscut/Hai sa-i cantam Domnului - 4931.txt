@@ -1,5 +1,5 @@
 [title]
-Hai sa-i cantam domnului {author: {Anonim}, {rcId: {4931}}
+Hai sa-i cantam domnului {composer: {Anonim}, {rcId: {4931}}
 
 [sequence]
 v1,c

@@ -1,5 +1,5 @@
 [title]
-Vorbeste-mi doamne {author: {Florin Dumitru}, {rcId: {161939}}
+Vorbeste-mi doamne {composer: {Florin Dumitru}, {rcId: {161939}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c

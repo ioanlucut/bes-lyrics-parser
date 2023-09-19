@@ -1,5 +1,5 @@
 [title]
-O doamne tu mi-esti domn {author: {Anonim}, {rcId: {57642}}
+O doamne tu mi-esti domn {composer: {Anonim}, {rcId: {57642}}
 
 [sequence]
 c,v1,c

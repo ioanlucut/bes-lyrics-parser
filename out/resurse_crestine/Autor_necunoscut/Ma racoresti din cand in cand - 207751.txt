@@ -1,5 +1,5 @@
 [title]
-Ma racoresti din cand in cand {author: {Anonim}, {rcId: {207751}}
+Ma racoresti din cand in cand {composer: {Anonim}, {rcId: {207751}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

@@ -1,5 +1,5 @@
 [title]
-Viata mea sa-i cante lui {author: {Continental}, {rcId: {89184}}
+Viata mea sa-i cante lui {composer: {Continental}, {rcId: {89184}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Isus noi celebram victoria {author: {Anonim}, {rcId: {4969}}
+Isus noi celebram victoria {composer: {Anonim}, {rcId: {4969}}
 
 [sequence]
 v1,v2,c

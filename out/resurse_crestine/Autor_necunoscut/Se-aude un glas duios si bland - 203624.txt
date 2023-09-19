@@ -1,5 +1,5 @@
 [title]
-Se-aude un glas duios si bland {author: {Anonim}, {rcId: {203624}}
+Se-aude un glas duios si bland {composer: {Anonim}, {rcId: {203624}}
 
 [sequence]
 v1,c,v2,c2

@@ -1,5 +1,5 @@
 [title]
-Ce multi nu cred {author: {Florin Mesaroș}, {rcId: {158410}}
+Ce multi nu cred {composer: {Florin Mesaroș}, {rcId: {158410}}
 
 [sequence]
 v1,b,c,b

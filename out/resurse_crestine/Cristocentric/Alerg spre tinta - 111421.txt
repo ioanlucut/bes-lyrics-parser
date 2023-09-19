@@ -1,5 +1,5 @@
 [title]
-Alerg spre tinta {author: {CristoCentric}, {rcId: {111421}}
+Alerg spre tinta {composer: {CristoCentric}, {rcId: {111421}}
 
 [sequence]
 v1,c,e

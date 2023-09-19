@@ -1,5 +1,5 @@
 [title]
-Tu ma veghezi {author: {Gabi_Ilut}, {rcId: {241286}}
+Tu ma veghezi {composer: {Gabi_Ilut}, {rcId: {241286}}
 
 [sequence]
 v1,c,v2,c,v3,c

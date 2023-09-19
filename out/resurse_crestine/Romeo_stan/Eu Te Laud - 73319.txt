@@ -1,5 +1,5 @@
 [title]
-Eu te laud {author: {Romeo Stan}, {rcId: {73319}}
+Eu te laud {composer: {Romeo Stan}, {rcId: {73319}}
 
 [sequence]
 v1,c,v2,c,v3,c

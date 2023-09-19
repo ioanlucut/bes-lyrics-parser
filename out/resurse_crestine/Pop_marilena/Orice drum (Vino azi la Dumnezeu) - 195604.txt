@@ -1,5 +1,5 @@
 [title]
-Orice drum (vino azi la dumnezeu) {author: {Pop Marilena}, {rcId: {195604}}
+Orice drum (vino azi la dumnezeu) {composer: {Pop Marilena}, {rcId: {195604}}
 
 [sequence]
 v1,v2,v3,v4

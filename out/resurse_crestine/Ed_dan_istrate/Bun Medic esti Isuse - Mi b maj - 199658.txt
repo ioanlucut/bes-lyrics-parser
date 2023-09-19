@@ -1,5 +1,5 @@
 [title]
-Bun medic esti isuse - mi b maj {author: {ed. Dan Istrate}, {rcId: {199658}}
+Bun medic esti isuse - mi b maj {composer: {ed. Dan Istrate}, {rcId: {199658}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

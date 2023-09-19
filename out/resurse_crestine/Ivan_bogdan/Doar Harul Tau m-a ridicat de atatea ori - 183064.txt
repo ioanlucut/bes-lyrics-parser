@@ -1,5 +1,5 @@
 [title]
-Doar harul tau m-a ridicat de atatea ori {author: {Ivan Bogdan}, {rcId: {183064}}
+Doar harul tau m-a ridicat de atatea ori {composer: {Ivan Bogdan}, {rcId: {183064}}
 
 [sequence]
 v1,v2,v3,v4

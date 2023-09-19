@@ -1,5 +1,5 @@
 [title]
-Daca ceas cu ceas raul il invingi {author: {Anonim}, {rcId: {74324}}
+Daca ceas cu ceas raul il invingi {composer: {Anonim}, {rcId: {74324}}
 
 [sequence]
 v1,c,v2,c,v3,c

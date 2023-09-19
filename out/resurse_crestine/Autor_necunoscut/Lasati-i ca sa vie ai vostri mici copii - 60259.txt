@@ -1,5 +1,5 @@
 [title]
-Lasati-i ca sa vie ai vostri mici copii {author: {Anonim}, {rcId: {60259}}
+Lasati-i ca sa vie ai vostri mici copii {composer: {Anonim}, {rcId: {60259}}
 
 [sequence]
 v1,v2,v3

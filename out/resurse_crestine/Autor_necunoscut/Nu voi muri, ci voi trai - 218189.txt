@@ -1,5 +1,5 @@
 [title]
-Nu voi muri ci voi trai {author: {Anonim}, {rcId: {218189}}
+Nu voi muri ci voi trai {composer: {Anonim}, {rcId: {218189}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

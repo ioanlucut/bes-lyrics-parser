@@ -1,5 +1,5 @@
 [title]
-Ridica-ma cand sunt cazut {author: {Mădălina Iurașoc}, {rcId: {232221}}
+Ridica-ma cand sunt cazut {composer: {Mădălina Iurașoc}, {rcId: {232221}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

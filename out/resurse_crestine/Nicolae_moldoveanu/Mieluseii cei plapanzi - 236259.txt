@@ -1,5 +1,5 @@
 [title]
-Mieluseii cei plapanzi {author: {Nicolae Moldoveanu}, {rcId: {236259}}
+Mieluseii cei plapanzi {composer: {Nicolae Moldoveanu}, {rcId: {236259}}
 
 [sequence]
 v1,v2,v3

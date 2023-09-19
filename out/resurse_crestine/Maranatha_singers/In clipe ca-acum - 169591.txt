@@ -1,5 +1,5 @@
 [title]
-In clipe ca-acum {author: {Maranatha Singers}, {rcId: {169591}}
+In clipe ca-acum {composer: {Maranatha Singers}, {rcId: {169591}}
 
 [sequence]
 v1,c,v2,c

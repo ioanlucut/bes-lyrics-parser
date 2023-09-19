@@ -1,5 +1,5 @@
 [title]
-Israele israele {author: {Anonim}, {rcId: {197243}}
+Israele israele {composer: {Anonim}, {rcId: {197243}}
 
 [sequence]
 v1,v2,v3,v4,v5

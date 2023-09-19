@@ -1,5 +1,5 @@
 [title]
-Fara lupta nu-i cununa (mai lupta mai rabda) {author: {Anonim}, {rcId: {238504}}
+Fara lupta nu-i cununa (mai lupta mai rabda) {composer: {Anonim}, {rcId: {238504}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

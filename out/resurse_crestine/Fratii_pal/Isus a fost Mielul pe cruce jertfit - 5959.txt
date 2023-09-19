@@ -1,5 +1,5 @@
 [title]
-Isus a fost mielul pe cruce jertfit {author: {Fratii Pal}, {rcId: {5959}}
+Isus a fost mielul pe cruce jertfit {composer: {Fratii Pal}, {rcId: {5959}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

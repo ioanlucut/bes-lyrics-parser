@@ -1,5 +1,5 @@
 [title]
-Esti tu pregatit sa intalnesti {author: {Alexandru Groza}, {rcId: {1455}}
+Esti tu pregatit sa intalnesti {composer: {Alexandru Groza}, {rcId: {1455}}
 
 [sequence]
 v1,c,v2,c,v3,c

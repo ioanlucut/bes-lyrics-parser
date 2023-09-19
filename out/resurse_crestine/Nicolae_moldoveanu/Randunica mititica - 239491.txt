@@ -1,5 +1,5 @@
 [title]
-Randunica mititica {author: {Nicolae Moldoveanu}, {rcId: {239491}}
+Randunica mititica {composer: {Nicolae Moldoveanu}, {rcId: {239491}}
 
 [sequence]
 v1,v2

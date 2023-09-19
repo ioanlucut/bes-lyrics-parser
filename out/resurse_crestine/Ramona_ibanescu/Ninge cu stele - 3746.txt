@@ -1,5 +1,5 @@
 [title]
-Ninge cu stele {author: {Ramona Ibănescu}, {rcId: {3746}}
+Ninge cu stele {composer: {Ramona Ibănescu}, {rcId: {3746}}
 
 [sequence]
 c,v1,c,v2,c

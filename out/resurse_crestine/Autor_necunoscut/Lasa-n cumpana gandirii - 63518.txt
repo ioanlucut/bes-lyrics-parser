@@ -1,5 +1,5 @@
 [title]
-Lasa-n cumpana gandirii {author: {Anonim}, {rcId: {63518}}
+Lasa-n cumpana gandirii {composer: {Anonim}, {rcId: {63518}}
 
 [sequence]
 v1,c,v2,c2,v3,c4

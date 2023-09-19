@@ -1,5 +1,5 @@
 [title]
-Cu bucurie pastorii (lieti pastori) {author: {Colind italian, Traducere RO}, {rcId: {168242}}
+Cu bucurie pastorii (lieti pastori) {composer: {Colind italian, Traducere RO}, {rcId: {168242}}
 
 [sequence]
 v1,v2,v3,v4,s

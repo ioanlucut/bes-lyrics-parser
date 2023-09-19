@@ -1,5 +1,5 @@
 [title]
-Ziua de la domnul {author: {Cristian și Cristiana Văduva}, {rcId: {734}}
+Ziua de la domnul {composer: {Cristian și Cristiana Văduva}, {rcId: {734}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

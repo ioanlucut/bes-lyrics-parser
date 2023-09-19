@@ -1,5 +1,5 @@
 [title]
-Bine-ai venit {author: {Dan Damian}, {rcId: {157162}}
+Bine-ai venit {composer: {Dan Damian}, {rcId: {157162}}
 
 [sequence]
 v1,c,v2,c

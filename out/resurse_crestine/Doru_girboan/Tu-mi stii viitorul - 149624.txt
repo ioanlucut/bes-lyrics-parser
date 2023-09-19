@@ -1,5 +1,5 @@
 [title]
-Tu-mi stii viitorul {author: {Doru Gîrboan}, {rcId: {149624}}
+Tu-mi stii viitorul {composer: {Doru Gîrboan}, {rcId: {149624}}
 
 [sequence]
 v1,c,v2,c,v3,c

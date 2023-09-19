@@ -1,5 +1,5 @@
 [title]
-Astazi s-a nascut un copilas {author: {Mihail Cebotarev}, {rcId: {7275}}
+Astazi s-a nascut un copilas {composer: {Mihail Cebotarev}, {rcId: {7275}}
 
 [sequence]
 v1,c,v2,c

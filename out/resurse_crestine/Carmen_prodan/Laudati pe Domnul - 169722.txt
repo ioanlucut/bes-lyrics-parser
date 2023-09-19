@@ -1,5 +1,5 @@
 [title]
-Laudati pe domnul {author: {Carmen Prodan}, {rcId: {169722}}
+Laudati pe domnul {composer: {Carmen Prodan}, {rcId: {169722}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

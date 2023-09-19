@@ -1,5 +1,5 @@
 [title]
-M-a scos din groapa pieirii {author: {Anonim}, {rcId: {240715}}
+M-a scos din groapa pieirii {composer: {Anonim}, {rcId: {240715}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

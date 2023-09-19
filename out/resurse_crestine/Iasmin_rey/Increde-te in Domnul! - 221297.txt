@@ -1,5 +1,5 @@
 [title]
-Increde-te in domnul {author: {Iasmin Rey}, {rcId: {221297}}
+Increde-te in domnul {composer: {Iasmin Rey}, {rcId: {221297}}
 
 [sequence]
 v1,c,c

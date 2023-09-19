@@ -1,5 +1,5 @@
 [title]
-Tu m-ai chemat sa merg pe ape {author: {Hillsong United}, {rcId: {130270}}
+Tu m-ai chemat sa merg pe ape {composer: {Hillsong United}, {rcId: {130270}}
 
 [sequence]
 v1,c,v2,b,c

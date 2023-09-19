@@ -1,5 +1,5 @@
 [title]
-Cine esti? {author: {Nicolae Moldoveanu}, {rcId: {71472}}
+Cine esti? {composer: {Nicolae Moldoveanu}, {rcId: {71472}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Stim un rau cu apa vie {author: {Anonim}, {rcId: {2868}}
+Stim un rau cu apa vie {composer: {Anonim}, {rcId: {2868}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

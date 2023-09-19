@@ -1,5 +1,5 @@
 [title]
-Pe drumul vietii azi {author: {Anonim}, {rcId: {5536}}
+Pe drumul vietii azi {composer: {Anonim}, {rcId: {5536}}
 
 [sequence]
 v1,c,v2,c,v3,c

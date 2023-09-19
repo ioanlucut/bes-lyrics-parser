@@ -1,5 +1,5 @@
 [title]
-Sa te-asculte domnul in ziua de necaz {author: {Puiu Chibici}, {rcId: {59187}}
+Sa te-asculte domnul in ziua de necaz {composer: {Puiu Chibici}, {rcId: {59187}}
 
 [sequence]
 v1,v2,v3,v4

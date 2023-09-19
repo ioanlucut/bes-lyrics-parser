@@ -1,5 +1,5 @@
 [title]
-E putere e putere e putere-n sangele lui isus hristos {author: {Fratii de la Toflea}, {rcId: {212728}}
+E putere e putere e putere-n sangele lui isus hristos {composer: {Fratii de la Toflea}, {rcId: {212728}}
 
 [sequence]
 c,v1

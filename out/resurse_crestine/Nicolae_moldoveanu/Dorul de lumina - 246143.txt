@@ -1,5 +1,5 @@
 [title]
-Dorul de lumina {author: {Nicolae Moldoveanu}, {rcId: {246143}}
+Dorul de lumina {composer: {Nicolae Moldoveanu}, {rcId: {246143}}
 
 [sequence]
 v1,v2,v3

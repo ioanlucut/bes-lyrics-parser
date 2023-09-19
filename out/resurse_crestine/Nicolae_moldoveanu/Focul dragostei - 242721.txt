@@ -1,5 +1,5 @@
 [title]
-Focul dragostei {author: {Nicolae Moldoveanu}, {rcId: {242721}}
+Focul dragostei {composer: {Nicolae Moldoveanu}, {rcId: {242721}}
 
 [sequence]
 v1

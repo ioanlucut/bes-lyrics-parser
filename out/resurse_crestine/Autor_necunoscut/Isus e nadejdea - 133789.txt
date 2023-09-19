@@ -1,5 +1,5 @@
 [title]
-Isus e nadejdea {author: {Anonim}, {rcId: {133789}}
+Isus e nadejdea {composer: {Anonim}, {rcId: {133789}}
 
 [sequence]
 v1,c,v2,c,v3,c

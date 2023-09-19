@@ -1,5 +1,5 @@
 [title]
-Voi chema numele tau {author: {Messis}, {rcId: {158158}}
+Voi chema numele tau {composer: {Messis}, {rcId: {158158}}
 
 [sequence]
 v1,c,v2,c,e

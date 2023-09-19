@@ -1,5 +1,5 @@
 [title]
-Prin jertfa ta eu am intrat in harul mantuirii {author: {Nicolae Moldoveanu}, {rcId: {197198}}
+Prin jertfa ta eu am intrat in harul mantuirii {composer: {Nicolae Moldoveanu}, {rcId: {197198}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

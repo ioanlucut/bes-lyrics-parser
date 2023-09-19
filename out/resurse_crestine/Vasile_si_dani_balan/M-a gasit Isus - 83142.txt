@@ -1,5 +1,5 @@
 [title]
-M-a gasit isus {author: {Vasile și Dani Bălan}, {rcId: {83142}}
+M-a gasit isus {composer: {Vasile și Dani Bălan}, {rcId: {83142}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-In aceasta lume sunt multe drumuri {author: {Nicolae Moldoveanu}, {rcId: {5796}}
+In aceasta lume sunt multe drumuri {composer: {Nicolae Moldoveanu}, {rcId: {5796}}
 
 [sequence]
 v1,c,v2,c,v3,c

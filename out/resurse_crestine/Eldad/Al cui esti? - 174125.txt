@@ -1,5 +1,5 @@
 [title]
-Al cui esti? {author: {Eldad}, {rcId: {174125}}
+Al cui esti? {composer: {Eldad}, {rcId: {174125}}
 
 [sequence]
 v1,c,v2,c

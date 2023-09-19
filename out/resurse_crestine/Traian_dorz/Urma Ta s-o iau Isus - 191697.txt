@@ -1,5 +1,5 @@
 [title]
-Urma ta s-o iau isus {author: {Traian Dorz}, {rcId: {191697}}
+Urma ta s-o iau isus {composer: {Traian Dorz}, {rcId: {191697}}
 
 [sequence]
 v1,v2,v3,v4

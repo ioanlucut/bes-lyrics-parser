@@ -1,5 +1,5 @@
 [title]
-Se aude chemarea {author: {Ovidiu Opris ft. Paula Supuran, Logos Worship}, {rcId: {222877}}
+Se aude chemarea {composer: {Ovidiu Opris ft. Paula Supuran, Logos Worship}, {rcId: {222877}}
 
 [sequence]
 v1,c,v2,c2,e,v3,c3,e

@@ -1,5 +1,5 @@
 [title]
-Intr-o zi ca asta doamne erai prins {author: {Nicolae Moldoveanu}, {rcId: {246139}}
+Intr-o zi ca asta doamne erai prins {composer: {Nicolae Moldoveanu}, {rcId: {246139}}
 
 [sequence]
 v1,v2,v3,v4

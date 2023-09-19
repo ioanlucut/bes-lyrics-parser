@@ -1,5 +1,5 @@
 [title]
-Trece viata {author: {Gabriel Gorcea și prietenii}, {rcId: {5369}}
+Trece viata {composer: {Gabriel Gorcea și prietenii}, {rcId: {5369}}
 
 [sequence]
 v1,c,v2,c

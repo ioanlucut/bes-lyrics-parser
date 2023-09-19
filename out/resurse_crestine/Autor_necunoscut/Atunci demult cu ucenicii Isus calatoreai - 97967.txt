@@ -1,5 +1,5 @@
 [title]
-Atunci demult cu ucenicii isus calatoreai {author: {Anonim}, {rcId: {97967}}
+Atunci demult cu ucenicii isus calatoreai {composer: {Anonim}, {rcId: {97967}}
 
 [sequence]
 v1,c,v2,c,v3,c

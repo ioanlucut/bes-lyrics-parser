@@ -1,5 +1,5 @@
 [title]
-Un glas ce strabate milenii {author: {Anonim}, {rcId: {178934}}
+Un glas ce strabate milenii {composer: {Anonim}, {rcId: {178934}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c2

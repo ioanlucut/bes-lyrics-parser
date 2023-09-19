@@ -1,5 +1,5 @@
 [title]
-Zorii diminetii se revarsa {author: {Alexandru Groza}, {rcId: {185505}}
+Zorii diminetii se revarsa {composer: {Alexandru Groza}, {rcId: {185505}}
 
 [sequence]
 v1,c,v2,c,v3,c

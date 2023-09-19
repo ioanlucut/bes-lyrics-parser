@@ -1,5 +1,5 @@
 [title]
-Te inaltam te laudam {author: {Ovidiu Liteanu}, {rcId: {164311}}
+Te inaltam te laudam {composer: {Ovidiu Liteanu}, {rcId: {164311}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

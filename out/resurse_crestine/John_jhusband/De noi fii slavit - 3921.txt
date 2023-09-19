@@ -1,5 +1,5 @@
 [title]
-De noi fii slavit {author: {John J.Husband}, {rcId: {3921}}
+De noi fii slavit {composer: {John J.Husband}, {rcId: {3921}}
 
 [sequence]
 v1,v2,v3

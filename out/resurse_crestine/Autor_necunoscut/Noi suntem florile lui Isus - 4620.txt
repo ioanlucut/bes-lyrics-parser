@@ -1,5 +1,5 @@
 [title]
-Noi suntem florile lui isus {author: {Anonim}, {rcId: {4620}}
+Noi suntem florile lui isus {composer: {Anonim}, {rcId: {4620}}
 
 [sequence]
 v1,v2,v3

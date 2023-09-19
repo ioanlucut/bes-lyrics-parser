@@ -1,5 +1,5 @@
 [title]
-Un cantec nou {author: {Costache Ioanid}, {rcId: {4432}}
+Un cantec nou {composer: {Costache Ioanid}, {rcId: {4432}}
 
 [sequence]
 v1,v2,c,v3,c,e

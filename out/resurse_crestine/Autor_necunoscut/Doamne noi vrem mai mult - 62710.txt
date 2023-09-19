@@ -1,5 +1,5 @@
 [title]
-Doamne noi vrem mai mult {author: {Anonim}, {rcId: {62710}}
+Doamne noi vrem mai mult {composer: {Anonim}, {rcId: {62710}}
 
 [sequence]
 v1,c,e

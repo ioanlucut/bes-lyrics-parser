@@ -1,5 +1,5 @@
 [title]
-Doamne n-am vegheat de-ajuns {author: {Nicolae Moldoveanu}, {rcId: {5327}}
+Doamne n-am vegheat de-ajuns {composer: {Nicolae Moldoveanu}, {rcId: {5327}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

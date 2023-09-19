@@ -1,5 +1,5 @@
 [title]
-Poti sa chemi pe domnul {author: {Isaura Dinca}, {rcId: {139931}}
+Poti sa chemi pe domnul {composer: {Isaura Dinca}, {rcId: {139931}}
 
 [sequence]
 v1,c,v2,c,v3,c

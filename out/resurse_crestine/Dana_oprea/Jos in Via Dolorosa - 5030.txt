@@ -1,5 +1,5 @@
 [title]
-Jos in via dolorosa {author: {Dana Oprea}, {rcId: {5030}}
+Jos in via dolorosa {composer: {Dana Oprea}, {rcId: {5030}}
 
 [sequence]
 v1,c,v2,c,e

@@ -1,5 +1,5 @@
 [title]
-Corul magilor {author: {Anonim}, {rcId: {204618}}
+Corul magilor {composer: {Anonim}, {rcId: {204618}}
 
 [sequence]
 v1,v2,v3,v4

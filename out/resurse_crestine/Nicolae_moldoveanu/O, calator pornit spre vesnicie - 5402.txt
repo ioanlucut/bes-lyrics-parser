@@ -1,5 +1,5 @@
 [title]
-O calator pornit spre vesnicie {author: {Nicolae Moldoveanu}, {rcId: {5402}}
+O calator pornit spre vesnicie {composer: {Nicolae Moldoveanu}, {rcId: {5402}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c

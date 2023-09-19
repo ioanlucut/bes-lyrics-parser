@@ -1,5 +1,5 @@
 [title]
-E seceta in tara si ploaia numai vine {author: {Anonim}, {rcId: {74566}}
+E seceta in tara si ploaia numai vine {composer: {Anonim}, {rcId: {74566}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c

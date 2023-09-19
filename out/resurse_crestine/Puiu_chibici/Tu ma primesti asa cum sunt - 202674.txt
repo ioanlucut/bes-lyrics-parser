@@ -1,5 +1,5 @@
 [title]
-Tu ma primesti asa cum sunt {author: {Puiu Chibici}, {rcId: {202674}}
+Tu ma primesti asa cum sunt {composer: {Puiu Chibici}, {rcId: {202674}}
 
 [sequence]
 v1,v2,v3

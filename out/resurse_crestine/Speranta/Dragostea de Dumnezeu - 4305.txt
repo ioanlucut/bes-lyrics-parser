@@ -1,5 +1,5 @@
 [title]
-Dragostea de dumnezeu {author: {Speranța}, {rcId: {4305}}
+Dragostea de dumnezeu {composer: {Speranța}, {rcId: {4305}}
 
 [sequence]
 v1,c,v2,c

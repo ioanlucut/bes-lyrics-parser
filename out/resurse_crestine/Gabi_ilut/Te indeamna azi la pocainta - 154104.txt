@@ -1,5 +1,5 @@
 [title]
-Te indeamna azi la pocainta {author: {Gabi Ilut}, {rcId: {154104}}
+Te indeamna azi la pocainta {composer: {Gabi Ilut}, {rcId: {154104}}
 
 [sequence]
 v1,c,v2,c,e

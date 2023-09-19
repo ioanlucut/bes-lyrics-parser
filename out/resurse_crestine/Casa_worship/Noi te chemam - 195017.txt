@@ -1,5 +1,5 @@
 [title]
-Noi te chemam {author: {CASA WORSHIP}, {rcId: {195017}}
+Noi te chemam {composer: {CASA WORSHIP}, {rcId: {195017}}
 
 [sequence]
 v1,b,c,v2,b,c2,c2

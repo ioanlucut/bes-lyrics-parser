@@ -1,5 +1,5 @@
 [title]
-Mi-e dor de tine {author: {Marcela Gorcea Damsa}, {rcId: {104961}}
+Mi-e dor de tine {composer: {Marcela Gorcea Damsa}, {rcId: {104961}}
 
 [sequence]
 v1,c,v2,c,v3,c

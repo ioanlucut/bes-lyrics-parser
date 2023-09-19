@@ -1,5 +1,5 @@
 [title]
-Sufletul meu e in frumoasa casa de sus {author: {Anonim}, {rcId: {75806}}
+Sufletul meu e in frumoasa casa de sus {composer: {Anonim}, {rcId: {75806}}
 
 [sequence]
 v1,c,v2,c,v3,c

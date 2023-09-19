@@ -1,5 +1,5 @@
 [title]
-Cand visele vietii doamne {author: {Oltita Nistor}, {rcId: {96930}}
+Cand visele vietii doamne {composer: {Oltita Nistor}, {rcId: {96930}}
 
 [sequence]
 v1,v2,v3

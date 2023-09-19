@@ -1,5 +1,5 @@
 [title]
-Cum sa- ti rasplatesc {author: {Grupul Speranta}, {rcId: {201878}}
+Cum sa- ti rasplatesc {composer: {Grupul Speranta}, {rcId: {201878}}
 
 [sequence]
 v1,c,v2,c,e

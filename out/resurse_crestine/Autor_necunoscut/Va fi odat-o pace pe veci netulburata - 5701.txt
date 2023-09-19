@@ -1,5 +1,5 @@
 [title]
-Va fi odat-o pace pe veci netulburata {author: {Anonim}, {rcId: {5701}}
+Va fi odat-o pace pe veci netulburata {composer: {Anonim}, {rcId: {5701}}
 
 [sequence]
 v1,v2,v3,v4

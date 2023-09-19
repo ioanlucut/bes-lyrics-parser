@@ -1,5 +1,5 @@
 [title]
-O alta lume {author: {Contrast}, {rcId: {109095}}
+O alta lume {composer: {Contrast}, {rcId: {109095}}
 
 [sequence]
 v1,v2,c,v3,c

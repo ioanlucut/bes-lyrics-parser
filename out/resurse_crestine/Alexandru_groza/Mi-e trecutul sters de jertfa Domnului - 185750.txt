@@ -1,5 +1,5 @@
 [title]
-Mi-e trecutul sters de jertfa domnului {author: {Alexandru Groza}, {rcId: {185750}}
+Mi-e trecutul sters de jertfa domnului {composer: {Alexandru Groza}, {rcId: {185750}}
 
 [sequence]
 v1,b,c,v2,c

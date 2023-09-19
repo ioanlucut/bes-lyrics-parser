@@ -1,5 +1,5 @@
 [title]
-O biet copil venit in lume {author: {Anonim}, {rcId: {1907}}
+O biet copil venit in lume {composer: {Anonim}, {rcId: {1907}}
 
 [sequence]
 v1,c,v2,c,v3,c

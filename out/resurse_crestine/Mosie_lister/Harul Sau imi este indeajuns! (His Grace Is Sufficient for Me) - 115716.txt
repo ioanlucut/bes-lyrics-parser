@@ -1,5 +1,5 @@
 [title]
-Harul sau imi este indeajuns (his grace is sufficient for me) {author: {Mosie Lister, Traducere RO}, {rcId: {115716}}
+Harul sau imi este indeajuns (his grace is sufficient for me) {composer: {Mosie Lister, Traducere RO}, {rcId: {115716}}
 
 [sequence]
 v1,c,v2,c,s,c

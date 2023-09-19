@@ -1,5 +1,5 @@
 [title]
-Doamne tu esti bucuria (mi) {author: {Mirela Ursulescu}, {rcId: {176623}}
+Doamne tu esti bucuria (mi) {composer: {Mirela Ursulescu}, {rcId: {176623}}
 
 [sequence]
 v1,v2,v3,v4

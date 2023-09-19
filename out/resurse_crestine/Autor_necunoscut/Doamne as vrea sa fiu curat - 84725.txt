@@ -1,5 +1,5 @@
 [title]
-Doamne as vrea sa fiu curat {author: {Anonim}, {rcId: {84725}}
+Doamne as vrea sa fiu curat {composer: {Anonim}, {rcId: {84725}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Un an de binecuvantari {author: {Mircea Cugudeanu}, {rcId: {195338}}
+Un an de binecuvantari {composer: {Mircea Cugudeanu}, {rcId: {195338}}
 
 [sequence]
 v1,c,v2,c

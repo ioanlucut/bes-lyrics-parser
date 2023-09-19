@@ -1,5 +1,5 @@
 [title]
-Iti multumesc {author: {Impuls}, {rcId: {104954}}
+Iti multumesc {composer: {Impuls}, {rcId: {104954}}
 
 [sequence]
 v1,c,e

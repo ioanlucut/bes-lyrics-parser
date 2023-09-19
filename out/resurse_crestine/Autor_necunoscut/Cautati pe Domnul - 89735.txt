@@ -1,5 +1,5 @@
 [title]
-Cautati pe domnul {author: {Anonim}, {rcId: {89735}}
+Cautati pe domnul {composer: {Anonim}, {rcId: {89735}}
 
 [sequence]
 v1,c,v2,c,v3,c

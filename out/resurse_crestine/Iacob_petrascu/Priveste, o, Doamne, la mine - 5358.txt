@@ -1,5 +1,5 @@
 [title]
-Priveste o doamne la mine {author: {Iacob Petrașcu}, {rcId: {5358}}
+Priveste o doamne la mine {composer: {Iacob Petrașcu}, {rcId: {5358}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

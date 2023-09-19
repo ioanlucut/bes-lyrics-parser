@@ -1,5 +1,5 @@
 [title]
-In ajun {author: {Nicolae Moldoveanu}, {rcId: {244345}}
+In ajun {composer: {Nicolae Moldoveanu}, {rcId: {244345}}
 
 [sequence]
 v1,v2,v3,v4

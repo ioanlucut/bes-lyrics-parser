@@ -1,5 +1,5 @@
 [title]
-Eu cred evanghelia {author: {Anonim}, {rcId: {157650}}
+Eu cred evanghelia {composer: {Anonim}, {rcId: {157650}}
 
 [sequence]
 v1,c,v2,c,e

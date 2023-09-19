@@ -1,5 +1,5 @@
 [title]
-Dragostea in schimb (love on the line) {author: {Hillsong Worship, Traducere RO}, {rcId: {146933}}
+Dragostea in schimb (love on the line) {composer: {Hillsong Worship, Traducere RO}, {rcId: {146933}}
 
 [sequence]
 v1,c,v2,c,e

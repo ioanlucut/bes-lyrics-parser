@@ -1,5 +1,5 @@
 [title]
-Ce bucurie mare {author: {Anonim}, {rcId: {6807}}
+Ce bucurie mare {composer: {Anonim}, {rcId: {6807}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

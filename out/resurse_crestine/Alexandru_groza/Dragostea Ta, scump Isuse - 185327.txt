@@ -1,5 +1,5 @@
 [title]
-Dragostea ta scump isuse {author: {Alexandru Groza}, {rcId: {185327}}
+Dragostea ta scump isuse {composer: {Alexandru Groza}, {rcId: {185327}}
 
 [sequence]
 v1,c,v2,c,e

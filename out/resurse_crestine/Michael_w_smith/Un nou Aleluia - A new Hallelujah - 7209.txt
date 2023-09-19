@@ -1,5 +1,5 @@
 [title]
-Un nou aleluia - a new hallelujah {author: {Michael W. Smith, Traducere RO}, {rcId: {7209}}
+Un nou aleluia - a new hallelujah {composer: {Michael W. Smith, Traducere RO}, {rcId: {7209}}
 
 [sequence]
 v1,c,c,v2,c,e

@@ -1,5 +1,5 @@
 [title]
-In bunatatea ta ne-asculti {author: {Anonim}, {rcId: {64780}}
+In bunatatea ta ne-asculti {composer: {Anonim}, {rcId: {64780}}
 
 [sequence]
 v1,v2,v3

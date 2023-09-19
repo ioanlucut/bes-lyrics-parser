@@ -1,5 +1,5 @@
 [title]
-Pe pamant e marea vietii {author: {Florin Pal}, {rcId: {75138}}
+Pe pamant e marea vietii {composer: {Florin Pal}, {rcId: {75138}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

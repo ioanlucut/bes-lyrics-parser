@@ -1,5 +1,5 @@
 [title]
-Brate tari {author: {Nicolae Moldoveanu}, {rcId: {6711}}
+Brate tari {composer: {Nicolae Moldoveanu}, {rcId: {6711}}
 
 [sequence]
 v1,v2,v3,v4,v5

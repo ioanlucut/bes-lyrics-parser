@@ -1,5 +1,5 @@
 [title]
-Ai valoare-n ochii lui dumnezeu {author: {The Messengers}, {rcId: {4371}}
+Ai valoare-n ochii lui dumnezeu {composer: {The Messengers}, {rcId: {4371}}
 
 [sequence]
 v1,c,v2,c

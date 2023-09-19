@@ -1,5 +1,5 @@
 [title]
-Eu am am declarat la satan razboi {author: {Ionel Saran}, {rcId: {115663}}
+Eu am am declarat la satan razboi {composer: {Ionel Saran}, {rcId: {115663}}
 
 [sequence]
 v1,c,v2,c,v3,c

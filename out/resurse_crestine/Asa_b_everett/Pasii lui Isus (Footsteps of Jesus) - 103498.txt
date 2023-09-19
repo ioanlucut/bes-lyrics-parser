@@ -1,5 +1,5 @@
 [title]
-Pasii lui isus (footsteps of jesus) {author: {Asa B. Everett, Traducere RO}, {rcId: {103498}}
+Pasii lui isus (footsteps of jesus) {composer: {Asa B. Everett, Traducere RO}, {rcId: {103498}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,s,c

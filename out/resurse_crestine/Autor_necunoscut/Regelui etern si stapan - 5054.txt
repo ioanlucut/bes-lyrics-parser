@@ -1,5 +1,5 @@
 [title]
-Regelui etern si stapan {author: {Anonim}, {rcId: {5054}}
+Regelui etern si stapan {composer: {Anonim}, {rcId: {5054}}
 
 [sequence]
 v1,c

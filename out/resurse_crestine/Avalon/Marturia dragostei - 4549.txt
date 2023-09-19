@@ -1,5 +1,5 @@
 [title]
-Marturia dragostei {author: {Avalon, Traducere RO}, {rcId: {4549}}
+Marturia dragostei {composer: {Avalon, Traducere RO}, {rcId: {4549}}
 
 [sequence]
 v1,b,c,v2,c,v3,c

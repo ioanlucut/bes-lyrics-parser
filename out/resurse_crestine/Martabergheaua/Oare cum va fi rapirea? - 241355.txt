@@ -1,5 +1,5 @@
 [title]
-Oare cum va fi rapirea? {author: {Marta_Bergheaua}, {rcId: {241355}}
+Oare cum va fi rapirea? {composer: {Marta_Bergheaua}, {rcId: {241355}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

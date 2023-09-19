@@ -1,5 +1,5 @@
 [title]
-Dumnezeu e dragoste {author: {Anonim Aranjament Corneliu Radulescu}, {rcId: {1442}}
+Dumnezeu e dragoste {composer: {Anonim Aranjament Corneliu Radulescu}, {rcId: {1442}}
 
 [sequence]
 v1,v2,v3,v4,v5

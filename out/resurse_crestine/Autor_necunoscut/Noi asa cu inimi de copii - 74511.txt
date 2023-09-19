@@ -1,5 +1,5 @@
 [title]
-Noi asa cu inimi de copii {author: {Anonim}, {rcId: {74511}}
+Noi asa cu inimi de copii {composer: {Anonim}, {rcId: {74511}}
 
 [sequence]
 c,v1,c2,v2,c3

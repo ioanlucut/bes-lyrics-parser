@@ -1,5 +1,5 @@
 [title]
-In timpul vietii tineresti {author: {Anonim}, {rcId: {3613}}
+In timpul vietii tineresti {composer: {Anonim}, {rcId: {3613}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c2

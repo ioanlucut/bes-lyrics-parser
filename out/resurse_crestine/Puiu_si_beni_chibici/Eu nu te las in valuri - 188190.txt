@@ -1,5 +1,5 @@
 [title]
-Eu nu te las in valuri {author: {Puiu și Beni Chibici}, {rcId: {188190}}
+Eu nu te las in valuri {composer: {Puiu și Beni Chibici}, {rcId: {188190}}
 
 [sequence]
 v1,v2,v3,v3,v4

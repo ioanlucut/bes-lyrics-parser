@@ -1,5 +1,5 @@
 [title]
-Aleluia (sa cante adunarea) {author: {Oniță Halunga}, {rcId: {160470}}
+Aleluia (sa cante adunarea) {composer: {Oniță Halunga}, {rcId: {160470}}
 
 [sequence]
 c,c,v1,c,c,v2,c,c,c,c,

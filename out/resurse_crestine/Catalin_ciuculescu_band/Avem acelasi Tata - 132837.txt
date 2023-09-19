@@ -1,5 +1,5 @@
 [title]
-Avem acelasi tata {author: {Cătălin Ciuculescu Band}, {rcId: {132837}}
+Avem acelasi tata {composer: {Cătălin Ciuculescu Band}, {rcId: {132837}}
 
 [sequence]
 v1,c,v2,c

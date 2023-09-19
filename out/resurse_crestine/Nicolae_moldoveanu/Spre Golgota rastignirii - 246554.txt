@@ -1,5 +1,5 @@
 [title]
-Spre golgota rastignirii {author: {Nicolae Moldoveanu}, {rcId: {246554}}
+Spre golgota rastignirii {composer: {Nicolae Moldoveanu}, {rcId: {246554}}
 
 [sequence]
 v1,v2,v3

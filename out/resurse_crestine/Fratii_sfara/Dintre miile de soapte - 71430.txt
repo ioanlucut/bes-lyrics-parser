@@ -1,5 +1,5 @@
 [title]
-Dintre miile de soapte {author: {Fratii Sfara}, {rcId: {71430}}
+Dintre miile de soapte {composer: {Fratii Sfara}, {rcId: {71430}}
 
 [sequence]
 v1,c,v2,c,v3,c

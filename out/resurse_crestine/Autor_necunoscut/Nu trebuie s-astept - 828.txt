@@ -1,5 +1,5 @@
 [title]
-Nu trebuie s-astept {author: {Anonim}, {rcId: {828}}
+Nu trebuie s-astept {composer: {Anonim}, {rcId: {828}}
 
 [sequence]
 v1,c,v2,c

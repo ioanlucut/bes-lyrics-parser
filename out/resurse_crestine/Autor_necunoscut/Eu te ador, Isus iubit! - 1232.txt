@@ -1,5 +1,5 @@
 [title]
-Eu te ador isus iubit {author: {Anonim}, {rcId: {1232}}
+Eu te ador isus iubit {composer: {Anonim}, {rcId: {1232}}
 
 [sequence]
 v1,c

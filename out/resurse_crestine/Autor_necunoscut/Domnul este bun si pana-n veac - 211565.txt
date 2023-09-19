@@ -1,5 +1,5 @@
 [title]
-Domnul este bun si pana-n veac {author: {Anonim}, {rcId: {211565}}
+Domnul este bun si pana-n veac {composer: {Anonim}, {rcId: {211565}}
 
 [sequence]
 v1,v2,v3

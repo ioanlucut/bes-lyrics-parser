@@ -1,5 +1,5 @@
 [title]
-De ce copilul meu {author: {Razvan si Amalia}, {rcId: {140459}}
+De ce copilul meu {composer: {Razvan si Amalia}, {rcId: {140459}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

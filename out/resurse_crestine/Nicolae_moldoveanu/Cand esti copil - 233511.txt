@@ -1,5 +1,5 @@
 [title]
-Cand esti copil {author: {Nicolae Moldoveanu}, {rcId: {233511}}
+Cand esti copil {composer: {Nicolae Moldoveanu}, {rcId: {233511}}
 
 [sequence]
 v1,v2,v3,v4

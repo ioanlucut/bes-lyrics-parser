@@ -1,5 +1,5 @@
 [title]
-Raspandeste lumina oriunde te-ai gasi {author: {Nicolae Moldoveanu}, {rcId: {5629}}
+Raspandeste lumina oriunde te-ai gasi {composer: {Nicolae Moldoveanu}, {rcId: {5629}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

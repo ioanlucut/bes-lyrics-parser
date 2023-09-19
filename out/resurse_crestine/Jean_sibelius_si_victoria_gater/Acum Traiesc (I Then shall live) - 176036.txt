@@ -1,5 +1,5 @@
 [title]
-Acum traiesc (i then shall live) {author: {Jean Sibelius și Victoria Gater}, {rcId: {176036}}
+Acum traiesc (i then shall live) {composer: {Jean Sibelius și Victoria Gater}, {rcId: {176036}}
 
 [sequence]
 v1,v2,v3

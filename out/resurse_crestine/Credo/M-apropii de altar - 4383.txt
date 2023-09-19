@@ -1,5 +1,5 @@
 [title]
-M-apropii de altar {author: {Credo}, {rcId: {4383}}
+M-apropii de altar {composer: {Credo}, {rcId: {4383}}
 
 [sequence]
 v1,c,v2,c,v3,c

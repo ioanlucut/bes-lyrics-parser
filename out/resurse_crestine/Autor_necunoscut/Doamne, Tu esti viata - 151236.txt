@@ -1,5 +1,5 @@
 [title]
-Doamne tu esti viata {author: {Anonim}, {rcId: {151236}}
+Doamne tu esti viata {composer: {Anonim}, {rcId: {151236}}
 
 [sequence]
 v1,c

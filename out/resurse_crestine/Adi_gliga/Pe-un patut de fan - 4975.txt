@@ -1,5 +1,5 @@
 [title]
-Pe-un patut de fan {author: {Adi Gliga}, {rcId: {4975}}
+Pe-un patut de fan {composer: {Adi Gliga}, {rcId: {4975}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

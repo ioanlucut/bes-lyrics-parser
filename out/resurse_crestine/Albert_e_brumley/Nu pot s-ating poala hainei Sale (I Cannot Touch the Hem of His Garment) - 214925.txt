@@ -1,5 +1,5 @@
 [title]
-Nu pot s-ating poala hainei sale (i cannot touch the hem of his garment) {author: {Albert E. Brumley, Traducere RO}, {rcId: {214925}}
+Nu pot s-ating poala hainei sale (i cannot touch the hem of his garment) {composer: {Albert E. Brumley, Traducere RO}, {rcId: {214925}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Asculta doamne lauda mea {author: {Anonim}, {rcId: {1171}}
+Asculta doamne lauda mea {composer: {Anonim}, {rcId: {1171}}
 
 [sequence]
 v1,c,e

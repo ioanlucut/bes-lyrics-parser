@@ -1,5 +1,5 @@
 [title]
-O gradina {author: {Izbaș Svetlana}, {rcId: {229010}}
+O gradina {composer: {Izbaș Svetlana}, {rcId: {229010}}
 
 [sequence]
 v1

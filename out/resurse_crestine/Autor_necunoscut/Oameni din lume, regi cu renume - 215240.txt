@@ -1,5 +1,5 @@
 [title]
-Oameni din lume regi cu renume {author: {Anonim}, {rcId: {215240}}
+Oameni din lume regi cu renume {composer: {Anonim}, {rcId: {215240}}
 
 [sequence]
 v1,c,v2,c

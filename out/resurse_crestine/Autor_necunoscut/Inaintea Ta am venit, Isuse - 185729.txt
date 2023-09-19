@@ -1,5 +1,5 @@
 [title]
-Inaintea ta am venit isuse {author: {Necunoscut.}, {rcId: {185729}}
+Inaintea ta am venit isuse {composer: {Necunoscut.}, {rcId: {185729}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

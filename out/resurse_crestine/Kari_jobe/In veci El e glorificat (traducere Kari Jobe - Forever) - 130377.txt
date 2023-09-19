@@ -1,5 +1,5 @@
 [title]
-In veci el e glorificat (traducere kari jobe - forever) {author: {Kari Jobe}, {rcId: {130377}}
+In veci el e glorificat (traducere kari jobe - forever) {composer: {Kari Jobe}, {rcId: {130377}}
 
 [sequence]
 v1,v2,c,c

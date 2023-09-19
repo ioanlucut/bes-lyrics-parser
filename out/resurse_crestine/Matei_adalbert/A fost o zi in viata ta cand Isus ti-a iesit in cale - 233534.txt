@@ -1,5 +1,5 @@
 [title]
-A fost o zi in viata ta cand isus ti-a iesit in cale {author: {Matei Adalbert}, {rcId: {233534}}
+A fost o zi in viata ta cand isus ti-a iesit in cale {composer: {Matei Adalbert}, {rcId: {233534}}
 
 [sequence]
 v1,c,v2,c,v3,c

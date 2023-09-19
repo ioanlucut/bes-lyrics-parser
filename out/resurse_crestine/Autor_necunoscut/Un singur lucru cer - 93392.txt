@@ -1,5 +1,5 @@
 [title]
-Un singur lucru cer {author: {Anonim}, {rcId: {93392}}
+Un singur lucru cer {composer: {Anonim}, {rcId: {93392}}
 
 [sequence]
 v1,c

@@ -1,5 +1,5 @@
 [title]
-Rege-al regilor domn al domnilor {author: {Anonim}, {rcId: {4221}}
+Rege-al regilor domn al domnilor {composer: {Anonim}, {rcId: {4221}}
 
 [sequence]
 v1,c

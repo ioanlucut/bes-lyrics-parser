@@ -1,5 +1,5 @@
 [title]
-Gabi ilut si ligia bodea - cantec de primavara {author: {Gabi Iluț și Ligia Bodea}, {rcId: {62871}}
+Gabi ilut si ligia bodea - cantec de primavara {composer: {Gabi Iluț și Ligia Bodea}, {rcId: {62871}}
 
 [sequence]
 v1,c,v2,c,v3,c

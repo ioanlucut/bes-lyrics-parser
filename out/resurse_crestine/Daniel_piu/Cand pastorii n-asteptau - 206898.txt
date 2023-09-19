@@ -1,5 +1,5 @@
 [title]
-Cand pastorii n-asteptau {author: {Daniel Piu}, {rcId: {206898}}
+Cand pastorii n-asteptau {composer: {Daniel Piu}, {rcId: {206898}}
 
 [sequence]
 v1,c,v2,c,v3,c

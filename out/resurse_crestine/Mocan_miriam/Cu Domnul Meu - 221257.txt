@@ -1,5 +1,5 @@
 [title]
-Cu domnul meu {author: {Mocan Miriam}, {rcId: {221257}}
+Cu domnul meu {composer: {Mocan Miriam}, {rcId: {221257}}
 
 [sequence]
 v1

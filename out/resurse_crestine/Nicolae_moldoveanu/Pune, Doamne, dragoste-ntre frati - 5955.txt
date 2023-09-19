@@ -1,5 +1,5 @@
 [title]
-Pune doamne dragoste-ntre frati {author: {Nicolae Moldoveanu}, {rcId: {5955}}
+Pune doamne dragoste-ntre frati {composer: {Nicolae Moldoveanu}, {rcId: {5955}}
 
 [sequence]
 v1,v2,v3

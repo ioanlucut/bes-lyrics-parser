@@ -1,5 +1,5 @@
 [title]
-Cantati domnului {author: {Speranța}, {rcId: {111337}}
+Cantati domnului {composer: {Speranța}, {rcId: {111337}}
 
 [sequence]
 v1,c,c

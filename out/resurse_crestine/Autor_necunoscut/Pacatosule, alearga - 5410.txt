@@ -1,5 +1,5 @@
 [title]
-Pacatosule alearga {author: {Anonim}, {rcId: {5410}}
+Pacatosule alearga {composer: {Anonim}, {rcId: {5410}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

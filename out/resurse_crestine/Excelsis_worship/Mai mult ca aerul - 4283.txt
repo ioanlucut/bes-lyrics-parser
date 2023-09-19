@@ -1,5 +1,5 @@
 [title]
-Mai mult ca aerul {author: {Excelsis Worship}, {rcId: {4283}}
+Mai mult ca aerul {composer: {Excelsis Worship}, {rcId: {4283}}
 
 [sequence]
 v1,v2,c,v3,c

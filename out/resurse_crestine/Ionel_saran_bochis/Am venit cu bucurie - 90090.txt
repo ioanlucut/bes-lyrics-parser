@@ -1,5 +1,5 @@
 [title]
-Am venit cu bucurie {author: {Ionel Saran Bochis}, {rcId: {90090}}
+Am venit cu bucurie {composer: {Ionel Saran Bochis}, {rcId: {90090}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4,c,v2,c2,v3,c3,v4,c4

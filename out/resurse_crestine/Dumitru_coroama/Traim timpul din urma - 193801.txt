@@ -1,5 +1,5 @@
 [title]
-Traim timpul din urma {author: {Dumitru Coroama}, {rcId: {193801}}
+Traim timpul din urma {composer: {Dumitru Coroama}, {rcId: {193801}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

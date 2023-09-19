@@ -1,5 +1,5 @@
 [title]
-Binecuvinteaza-mi tineretea binecuvinteaza viata mea {author: {Birjac Ovidiu}, {rcId: {228256}}
+Binecuvinteaza-mi tineretea binecuvinteaza viata mea {composer: {Birjac Ovidiu}, {rcId: {228256}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

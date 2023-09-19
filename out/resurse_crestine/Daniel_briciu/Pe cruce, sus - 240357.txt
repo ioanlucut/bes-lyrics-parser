@@ -1,5 +1,5 @@
 [title]
-Pe cruce sus {author: {Daniel Briciu}, {rcId: {240357}}
+Pe cruce sus {composer: {Daniel Briciu}, {rcId: {240357}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

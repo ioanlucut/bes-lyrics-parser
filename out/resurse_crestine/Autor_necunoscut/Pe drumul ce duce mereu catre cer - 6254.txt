@@ -1,5 +1,5 @@
 [title]
-Pe drumul ce duce mereu catre cer {author: {Anonim}, {rcId: {6254}}
+Pe drumul ce duce mereu catre cer {composer: {Anonim}, {rcId: {6254}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

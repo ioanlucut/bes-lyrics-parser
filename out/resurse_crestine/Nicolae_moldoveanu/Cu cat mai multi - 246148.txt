@@ -1,5 +1,5 @@
 [title]
-Cu cat mai multi {author: {Nicolae Moldoveanu}, {rcId: {246148}}
+Cu cat mai multi {composer: {Nicolae Moldoveanu}, {rcId: {246148}}
 
 [sequence]
 v1,v2,v3,v4

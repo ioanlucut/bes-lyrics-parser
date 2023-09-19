@@ -1,5 +1,5 @@
 [title]
-Ca sa duci o viata sfanta {author: {Nicolae Moldoveanu}, {rcId: {242347}}
+Ca sa duci o viata sfanta {composer: {Nicolae Moldoveanu}, {rcId: {242347}}
 
 [sequence]
 v1,v2,v3

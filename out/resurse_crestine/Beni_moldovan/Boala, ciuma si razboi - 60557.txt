@@ -1,5 +1,5 @@
 [title]
-Boala ciuma si razboi {author: {Beni Moldovan}, {rcId: {60557}}
+Boala ciuma si razboi {composer: {Beni Moldovan}, {rcId: {60557}}
 
 [sequence]
 v1,c,v2,c,v3,c

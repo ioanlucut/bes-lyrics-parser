@@ -1,5 +1,5 @@
 [title]
-[unnamed] {author: {Anonim}, {rcId: {6559}}
+[unnamed] {composer: {Anonim}, {rcId: {6559}}
 
 [sequence]
 v1,c,v2,c,v3,c

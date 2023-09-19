@@ -1,5 +1,5 @@
 [title]
-Din slava cerului sublim {author: {Fratii Maftei}, {rcId: {59916}}
+Din slava cerului sublim {composer: {Fratii Maftei}, {rcId: {59916}}
 
 [sequence]
 v1,v2,v3,v4,v5

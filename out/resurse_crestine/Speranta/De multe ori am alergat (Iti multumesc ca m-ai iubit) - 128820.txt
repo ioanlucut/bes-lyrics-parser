@@ -1,5 +1,5 @@
 [title]
-De multe ori am alergat (iti multumesc ca m-ai iubit) {author: {Speranța}, {rcId: {128820}}
+De multe ori am alergat (iti multumesc ca m-ai iubit) {composer: {Speranța}, {rcId: {128820}}
 
 [sequence]
 v1,c,v2,c

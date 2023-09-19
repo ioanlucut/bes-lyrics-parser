@@ -1,5 +1,5 @@
 [title]
-O viata-ntreag-am cautat {author: {Nicolae Moldoveanu}, {rcId: {6517}}
+O viata-ntreag-am cautat {composer: {Nicolae Moldoveanu}, {rcId: {6517}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

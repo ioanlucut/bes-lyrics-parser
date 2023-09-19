@@ -1,5 +1,5 @@
 [title]
-Inger alb din cerul sfant {author: {Nicolae Moldoveanu}, {rcId: {189876}}
+Inger alb din cerul sfant {composer: {Nicolae Moldoveanu}, {rcId: {189876}}
 
 [sequence]
 v1,v2,v3,v4,v5

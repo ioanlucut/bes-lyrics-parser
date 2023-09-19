@@ -1,5 +1,5 @@
 [title]
-Voi azi ati decis in iubire sa fiti {author: {Anonim}, {rcId: {238480}}
+Voi azi ati decis in iubire sa fiti {composer: {Anonim}, {rcId: {238480}}
 
 [sequence]
 v1,c,v2,c,v3,c

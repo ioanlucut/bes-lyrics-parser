@@ -1,5 +1,5 @@
 [title]
-Isus iubit {author: {Anonim}, {rcId: {6644}}
+Isus iubit {composer: {Anonim}, {rcId: {6644}}
 
 [sequence]
 v1,c,v2,c

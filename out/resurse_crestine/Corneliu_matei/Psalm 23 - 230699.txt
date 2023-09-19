@@ -1,5 +1,5 @@
 [title]
-Psalm {author: {Corneliu Matei}, {rcId: {230699}}
+Psalm {composer: {Corneliu Matei}, {rcId: {230699}}
 
 [sequence]
 v1,c

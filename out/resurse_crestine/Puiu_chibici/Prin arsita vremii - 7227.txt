@@ -1,5 +1,5 @@
 [title]
-Prin arsita vremii {author: {Puiu Chibici}, {rcId: {7227}}
+Prin arsita vremii {composer: {Puiu Chibici}, {rcId: {7227}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

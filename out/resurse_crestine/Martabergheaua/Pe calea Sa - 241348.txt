@@ -1,5 +1,5 @@
 [title]
-Pe calea sa {author: {Marta_Bergheaua}, {rcId: {241348}}
+Pe calea sa {composer: {Marta_Bergheaua}, {rcId: {241348}}
 
 [sequence]
 v1,v2,v3,v4

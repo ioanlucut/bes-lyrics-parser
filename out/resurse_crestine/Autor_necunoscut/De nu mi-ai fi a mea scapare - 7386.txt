@@ -1,5 +1,5 @@
 [title]
-De nu mi-ai fi a mea scapare {author: {Anonim}, {rcId: {7386}}
+De nu mi-ai fi a mea scapare {composer: {Anonim}, {rcId: {7386}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Tu esti domn {author: {Matt Redman}, {rcId: {79355}}
+Tu esti domn {composer: {Matt Redman}, {rcId: {79355}}
 
 [sequence]
 v1,v2,c

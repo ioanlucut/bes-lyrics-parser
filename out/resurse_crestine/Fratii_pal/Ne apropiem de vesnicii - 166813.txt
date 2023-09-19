@@ -1,5 +1,5 @@
 [title]
-Ne apropiem de vesnicii {author: {Fratii Pal}, {rcId: {166813}}
+Ne apropiem de vesnicii {composer: {Fratii Pal}, {rcId: {166813}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

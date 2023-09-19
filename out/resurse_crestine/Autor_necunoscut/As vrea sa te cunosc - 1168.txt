@@ -1,5 +1,5 @@
 [title]
-As vrea sa te cunosc {author: {Anonim}, {rcId: {1168}}
+As vrea sa te cunosc {composer: {Anonim}, {rcId: {1168}}
 
 [sequence]
 v1,c,v3,c

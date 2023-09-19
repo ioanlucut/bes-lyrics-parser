@@ -1,5 +1,5 @@
 [title]
-De pacat impovarat {author: {Howard E.Smith}, {rcId: {1710}}
+De pacat impovarat {composer: {Howard E.Smith}, {rcId: {1710}}
 
 [sequence]
 v1,c,v2,c,v3,c

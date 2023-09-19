@@ -1,5 +1,5 @@
 [title]
-Nu stiu ce simte floarea {author: {Puiu Chibici}, {rcId: {145089}}
+Nu stiu ce simte floarea {composer: {Puiu Chibici}, {rcId: {145089}}
 
 [sequence]
 v1,v2,v3

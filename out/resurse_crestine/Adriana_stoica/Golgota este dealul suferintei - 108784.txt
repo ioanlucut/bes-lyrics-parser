@@ -1,5 +1,5 @@
 [title]
-Golgota este dealul suferintei {author: {Adriana Stoica}, {rcId: {108784}}
+Golgota este dealul suferintei {composer: {Adriana Stoica}, {rcId: {108784}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

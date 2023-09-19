@@ -1,5 +1,5 @@
 [title]
-Daca umblu-n lumina pe cale {author: {Anonim}, {rcId: {74326}}
+Daca umblu-n lumina pe cale {composer: {Anonim}, {rcId: {74326}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-La calvar {author: {Speranța și prietenii}, {rcId: {203942}}
+La calvar {composer: {Speranța și prietenii}, {rcId: {203942}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Multumesc {author: {Ema Hasan}, {rcId: {91735}}
+Multumesc {composer: {Ema Hasan}, {rcId: {91735}}
 
 [sequence]
 v1,c,v2,c,v3,c

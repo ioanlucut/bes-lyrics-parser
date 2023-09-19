@@ -1,5 +1,5 @@
 [title]
-Anii trec {author: {David Preuteasa}, {rcId: {184784}}
+Anii trec {composer: {David Preuteasa}, {rcId: {184784}}
 
 [sequence]
 v1,c,v2,c,v3,c

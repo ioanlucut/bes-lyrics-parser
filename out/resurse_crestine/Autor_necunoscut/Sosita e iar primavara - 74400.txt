@@ -1,5 +1,5 @@
 [title]
-Sosita e iar primavara {author: {Anonim}, {rcId: {74400}}
+Sosita e iar primavara {composer: {Anonim}, {rcId: {74400}}
 
 [sequence]
 v1,c,v2,c,v3,c2

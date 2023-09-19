@@ -1,5 +1,5 @@
 [title]
-Mergand spre golgota cu crucea in spate {author: {Nicolae Moldoveanu}, {rcId: {5483}}
+Mergand spre golgota cu crucea in spate {composer: {Nicolae Moldoveanu}, {rcId: {5483}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

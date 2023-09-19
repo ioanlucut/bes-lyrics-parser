@@ -1,5 +1,5 @@
 [title]
-Ni-e dor de-o dimineata minunata {author: {Otniel Stirb}, {rcId: {207766}}
+Ni-e dor de-o dimineata minunata {composer: {Otniel Stirb}, {rcId: {207766}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

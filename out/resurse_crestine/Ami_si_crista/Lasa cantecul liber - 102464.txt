@@ -1,5 +1,5 @@
 [title]
-Lasa cantecul liber {author: {Ami și Crista}, {rcId: {102464}}
+Lasa cantecul liber {composer: {Ami și Crista}, {rcId: {102464}}
 
 [sequence]
 v1,c,v2,c,v3,c

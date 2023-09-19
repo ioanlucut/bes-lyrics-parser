@@ -1,5 +1,5 @@
 [title]
-Omule ce-n viata ta {author: {Adriana Stoica}, {rcId: {6581}}
+Omule ce-n viata ta {composer: {Adriana Stoica}, {rcId: {6581}}
 
 [sequence]
 v1,c,v2,c,v3,c

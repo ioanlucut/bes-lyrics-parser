@@ -1,5 +1,5 @@
 [title]
-Pastreaza credinta {author: {Speranța}, {rcId: {111362}}
+Pastreaza credinta {composer: {Speranța}, {rcId: {111362}}
 
 [sequence]
 v1,c,v2,c,v3,c

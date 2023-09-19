@@ -1,5 +1,5 @@
 [title]
-In negura noptii (god walks the dark hills) {author: {Audra Czarnikow, Traducere RO}, {rcId: {127897}}
+In negura noptii (god walks the dark hills) {composer: {Audra Czarnikow, Traducere RO}, {rcId: {127897}}
 
 [sequence]
 v1,c,v2,c,s,c

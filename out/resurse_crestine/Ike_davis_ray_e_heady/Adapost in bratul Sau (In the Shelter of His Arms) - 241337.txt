@@ -1,5 +1,5 @@
 [title]
-Adapost in bratul sau (in the shelter of his arms) {author: {Ike Davis, Ray E. Heady, Traducere RO}, {rcId: {241337}}
+Adapost in bratul sau (in the shelter of his arms) {composer: {Ike Davis, Ray E. Heady, Traducere RO}, {rcId: {241337}}
 
 [sequence]
 v1,c,v2,c,v3,c

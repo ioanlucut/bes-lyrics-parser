@@ -1,5 +1,5 @@
 [title]
-Era in tara ut o data {author: {Anonim}, {rcId: {234107}}
+Era in tara ut o data {composer: {Anonim}, {rcId: {234107}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

@@ -1,5 +1,5 @@
 [title]
-Isus {author: {Text: Fivii Furnea, Muzica: Adrian Toader}, {rcId: {199263}}
+Isus {composer: {Text: Fivii Furnea, Muzica: Adrian Toader}, {rcId: {199263}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Te-ai jerfit {author: {Unity}, {rcId: {7081}}
+Te-ai jerfit {composer: {Unity}, {rcId: {7081}}
 
 [sequence]
 v1,c,v2,c

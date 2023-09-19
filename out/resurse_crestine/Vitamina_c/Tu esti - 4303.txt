@@ -1,5 +1,5 @@
 [title]
-Tu esti {author: {Vitamina C}, {rcId: {4303}}
+Tu esti {composer: {Vitamina C}, {rcId: {4303}}
 
 [sequence]
 v1,c

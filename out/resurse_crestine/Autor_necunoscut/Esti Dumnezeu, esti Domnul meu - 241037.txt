@@ -1,5 +1,5 @@
 [title]
-Esti dumnezeu esti domnul meu {author: {Anonim}, {rcId: {241037}}
+Esti dumnezeu esti domnul meu {composer: {Anonim}, {rcId: {241037}}
 
 [sequence]
 v1,v2,v3,v4

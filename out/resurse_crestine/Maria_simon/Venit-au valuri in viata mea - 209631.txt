@@ -1,5 +1,5 @@
 [title]
-Venit-au valuri in viata mea {author: {Maria Șimon}, {rcId: {209631}}
+Venit-au valuri in viata mea {composer: {Maria Șimon}, {rcId: {209631}}
 
 [sequence]
 v1,c,v2,c,v3,c

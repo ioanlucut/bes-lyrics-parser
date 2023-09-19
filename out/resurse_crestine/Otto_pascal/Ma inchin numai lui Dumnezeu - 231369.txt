@@ -1,5 +1,5 @@
 [title]
-Ma inchin numai lui dumnezeu {author: {Otto Pascal}, {rcId: {231369}}
+Ma inchin numai lui dumnezeu {composer: {Otto Pascal}, {rcId: {231369}}
 
 [sequence]
 v1,v2,v3,v4

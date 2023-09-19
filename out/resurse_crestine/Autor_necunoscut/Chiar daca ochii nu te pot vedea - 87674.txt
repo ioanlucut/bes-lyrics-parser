@@ -1,5 +1,5 @@
 [title]
-Chiar daca ochii nu te pot vedea {author: {Anonim}, {rcId: {87674}}
+Chiar daca ochii nu te pot vedea {composer: {Anonim}, {rcId: {87674}}
 
 [sequence]
 v1,c

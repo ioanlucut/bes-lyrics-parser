@@ -1,5 +1,5 @@
 [title]
-Stiu un drum (it s a highway to heaven) {author: {Thomas A. Dorsey, Mary Gardner, Traducere RO}, {rcId: {96888}}
+Stiu un drum (it s a highway to heaven) {composer: {Thomas A. Dorsey, Mary Gardner, Traducere RO}, {rcId: {96888}}
 
 [sequence]
 c,v1,c,v2,c,s,c

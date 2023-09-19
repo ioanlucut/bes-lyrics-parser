@@ -1,5 +1,5 @@
 [title]
-La umbra aripilor tale {author: {Gabi_Ilut}, {rcId: {241250}}
+La umbra aripilor tale {composer: {Gabi_Ilut}, {rcId: {241250}}
 
 [sequence]
 v1,c,v2,c

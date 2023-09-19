@@ -1,5 +1,5 @@
 [title]
-Dac-ai ajuns in ape linistite {author: {Mariana Someșan}, {rcId: {100507}}
+Dac-ai ajuns in ape linistite {composer: {Mariana Someșan}, {rcId: {100507}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

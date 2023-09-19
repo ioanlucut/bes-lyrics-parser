@@ -1,5 +1,5 @@
 [title]
-Tu esti mantuirea mea {author: {Anonim}, {rcId: {231247}}
+Tu esti mantuirea mea {composer: {Anonim}, {rcId: {231247}}
 
 [sequence]
 v1,c,v2,c,v3,c

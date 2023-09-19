@@ -1,5 +1,5 @@
 [title]
-Sa vina la izvor sa bea {author: {Nicolae Moldoveanu}, {rcId: {5511}}
+Sa vina la izvor sa bea {composer: {Nicolae Moldoveanu}, {rcId: {5511}}
 
 [sequence]
 c,v1,v2,v3

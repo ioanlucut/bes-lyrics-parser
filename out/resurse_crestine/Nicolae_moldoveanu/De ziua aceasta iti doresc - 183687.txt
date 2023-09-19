@@ -1,5 +1,5 @@
 [title]
-De ziua aceasta iti doresc {author: {Nicolae Moldoveanu}, {rcId: {183687}}
+De ziua aceasta iti doresc {composer: {Nicolae Moldoveanu}, {rcId: {183687}}
 
 [sequence]
 v1,v2,v3,v4,v5

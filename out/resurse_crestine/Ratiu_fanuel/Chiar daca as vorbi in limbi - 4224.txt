@@ -1,5 +1,5 @@
 [title]
-Chiar daca as vorbi in limbi {author: {Rațiu Fanuel}, {rcId: {4224}}
+Chiar daca as vorbi in limbi {composer: {Rațiu Fanuel}, {rcId: {4224}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-In seara sfanta de ajun (kalin imeran archontes) {author: {Colind grecesc, Traducere RO}, {rcId: {193511}}
+In seara sfanta de ajun (kalin imeran archontes) {composer: {Colind grecesc, Traducere RO}, {rcId: {193511}}
 
 [sequence]
 v1,v2,s

@@ -1,5 +1,5 @@
 [title]
-Al meu pastor {author: {Eldad Kids}, {rcId: {226609}}
+Al meu pastor {composer: {Eldad Kids}, {rcId: {226609}}
 
 [sequence]
 v1,c,v2,c

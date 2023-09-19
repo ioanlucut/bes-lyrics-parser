@@ -1,5 +1,5 @@
 [title]
-Greierasul {author: {Nicolae Moldoveanu}, {rcId: {228097}}
+Greierasul {composer: {Nicolae Moldoveanu}, {rcId: {228097}}
 
 [sequence]
 v1,v2,v3

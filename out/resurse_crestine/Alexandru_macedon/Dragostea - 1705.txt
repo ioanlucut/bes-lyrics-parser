@@ -1,5 +1,5 @@
 [title]
-Dragostea {author: {Alexandru Macedon}, {rcId: {1705}}
+Dragostea {composer: {Alexandru Macedon}, {rcId: {1705}}
 
 [sequence]
 v1,c,v2,c,v3,c

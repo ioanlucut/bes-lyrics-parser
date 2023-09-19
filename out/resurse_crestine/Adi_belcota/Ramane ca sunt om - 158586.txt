@@ -1,5 +1,5 @@
 [title]
-Ramane ca sunt om {author: {Adi Belcotă}, {rcId: {158586}}
+Ramane ca sunt om {composer: {Adi Belcotă}, {rcId: {158586}}
 
 [sequence]
 v1,v2,v3

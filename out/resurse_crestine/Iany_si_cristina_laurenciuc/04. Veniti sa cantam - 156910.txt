@@ -1,5 +1,5 @@
 [title]
-Veniti sa cantam {author: {Iany și Cristina Laurenciuc}, {rcId: {156910}}
+Veniti sa cantam {composer: {Iany și Cristina Laurenciuc}, {rcId: {156910}}
 
 [sequence]
 v1,c,v2,c,v3,c

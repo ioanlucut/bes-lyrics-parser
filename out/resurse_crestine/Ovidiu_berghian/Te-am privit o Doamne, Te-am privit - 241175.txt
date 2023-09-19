@@ -1,5 +1,5 @@
 [title]
-Te-am privit o doamne te-am privit {author: {Ovidiu Berghian}, {rcId: {241175}}
+Te-am privit o doamne te-am privit {composer: {Ovidiu Berghian}, {rcId: {241175}}
 
 [sequence]
 v1,v2,v3,v4

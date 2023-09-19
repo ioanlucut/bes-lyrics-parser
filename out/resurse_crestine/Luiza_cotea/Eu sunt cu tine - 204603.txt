@@ -1,5 +1,5 @@
 [title]
-Eu sunt cu tine {author: {Luiza Cotea}, {rcId: {204603}}
+Eu sunt cu tine {composer: {Luiza Cotea}, {rcId: {204603}}
 
 [sequence]
 v1,c,v2,c,e

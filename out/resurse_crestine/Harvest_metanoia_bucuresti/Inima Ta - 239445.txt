@@ -1,5 +1,5 @@
 [title]
-Inima ta {author: {Harvest Metanoia București}, {rcId: {239445}}
+Inima ta {composer: {Harvest Metanoia București}, {rcId: {239445}}
 
 [sequence]
 v1,c,e

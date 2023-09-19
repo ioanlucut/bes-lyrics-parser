@@ -1,5 +1,5 @@
 [title]
-In fata ta in prezenta slavei tale {author: {Anonim}, {rcId: {62668}}
+In fata ta in prezenta slavei tale {composer: {Anonim}, {rcId: {62668}}
 
 [sequence]
 v1,c

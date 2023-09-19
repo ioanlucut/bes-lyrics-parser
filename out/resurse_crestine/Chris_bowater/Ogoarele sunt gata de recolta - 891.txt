@@ -1,5 +1,5 @@
 [title]
-Ogoarele sunt gata de recolta {author: {Chris Bowater}, {rcId: {891}}
+Ogoarele sunt gata de recolta {composer: {Chris Bowater}, {rcId: {891}}
 
 [sequence]
 v1,c,v2,c,v3,c

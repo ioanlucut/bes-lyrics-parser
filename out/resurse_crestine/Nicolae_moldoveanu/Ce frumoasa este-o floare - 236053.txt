@@ -1,5 +1,5 @@
 [title]
-Ce frumoasa este-o floare {author: {Nicolae Moldoveanu}, {rcId: {236053}}
+Ce frumoasa este-o floare {composer: {Nicolae Moldoveanu}, {rcId: {236053}}
 
 [sequence]
 v1,v2,v3

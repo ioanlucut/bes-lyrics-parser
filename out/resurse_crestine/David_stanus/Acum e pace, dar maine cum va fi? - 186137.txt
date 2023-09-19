@@ -1,5 +1,5 @@
 [title]
-Acum e pace dar maine cum va fi? {author: {David Stănuș}, {rcId: {186137}}
+Acum e pace dar maine cum va fi? {composer: {David Stănuș}, {rcId: {186137}}
 
 [sequence]
 v1,c,v2,c,v3,c

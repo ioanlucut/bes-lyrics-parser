@@ -1,5 +1,5 @@
 [title]
-Numai tu o isus cu iubire {author: {Nicolae Moldoveanu}, {rcId: {241009}}
+Numai tu o isus cu iubire {composer: {Nicolae Moldoveanu}, {rcId: {241009}}
 
 [sequence]
 v1,v2,v3

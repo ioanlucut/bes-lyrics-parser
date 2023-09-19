@@ -1,5 +1,5 @@
 [title]
-Cu toti acum ne bucuram (good christian men rejoice) {author: {In Dulci Jubilo, Traducere RO}, {rcId: {100655}}
+Cu toti acum ne bucuram (good christian men rejoice) {composer: {In Dulci Jubilo, Traducere RO}, {rcId: {100655}}
 
 [sequence]
 v1,v2,v3,s

@@ -1,5 +1,5 @@
 [title]
-Fericirea mea curata {author: {Nicolae Moldoveanu}, {rcId: {242715}}
+Fericirea mea curata {composer: {Nicolae Moldoveanu}, {rcId: {242715}}
 
 [sequence]
 v1,v2,v3

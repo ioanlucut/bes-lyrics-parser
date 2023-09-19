@@ -1,5 +1,5 @@
 [title]
-Glorie regelui {author: {Adonia}, {rcId: {169849}}
+Glorie regelui {composer: {Adonia}, {rcId: {169849}}
 
 [sequence]
 v1,c,v2,c,e,c

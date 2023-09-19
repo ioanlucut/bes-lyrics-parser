@@ -1,5 +1,5 @@
 [title]
-O creste-mi iubirea {author: {Nicolae Moldoveanu}, {rcId: {5352}}
+O creste-mi iubirea {composer: {Nicolae Moldoveanu}, {rcId: {5352}}
 
 [sequence]
 v1,v2,v3,v4

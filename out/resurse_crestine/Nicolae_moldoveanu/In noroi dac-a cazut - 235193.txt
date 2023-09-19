@@ -1,5 +1,5 @@
 [title]
-In noroi dac-a cazut {author: {Nicolae Moldoveanu}, {rcId: {235193}}
+In noroi dac-a cazut {composer: {Nicolae Moldoveanu}, {rcId: {235193}}
 
 [sequence]
 v1,v2

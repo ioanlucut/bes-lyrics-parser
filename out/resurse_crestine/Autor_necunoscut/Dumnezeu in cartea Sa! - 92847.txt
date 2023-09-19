@@ -1,5 +1,5 @@
 [title]
-Dumnezeu in cartea sa {author: {Anonim}, {rcId: {92847}}
+Dumnezeu in cartea sa {composer: {Anonim}, {rcId: {92847}}
 
 [sequence]
 v1,v2

@@ -1,5 +1,5 @@
 [title]
-Aud pasii tai {author: {Adi Gliga}, {rcId: {168969}}
+Aud pasii tai {composer: {Adi Gliga}, {rcId: {168969}}
 
 [sequence]
 v1,c,v2,c2,e

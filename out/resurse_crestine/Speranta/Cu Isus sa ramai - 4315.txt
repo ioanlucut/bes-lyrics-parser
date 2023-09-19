@@ -1,5 +1,5 @@
 [title]
-Cu isus sa ramai {author: {Speranța}, {rcId: {4315}}
+Cu isus sa ramai {composer: {Speranța}, {rcId: {4315}}
 
 [sequence]
 v1,c,v2,c,v3,c

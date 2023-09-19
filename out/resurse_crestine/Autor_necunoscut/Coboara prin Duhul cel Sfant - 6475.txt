@@ -1,5 +1,5 @@
 [title]
-Coboar~a prin duhul cel sfant {author: {Anonim}, {rcId: {6475}}
+Coboar~a prin duhul cel sfant {composer: {Anonim}, {rcId: {6475}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

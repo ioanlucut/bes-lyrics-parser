@@ -1,5 +1,5 @@
 [title]
-In fata ta parinte {author: {Arman Ludovic}, {rcId: {154382}}
+In fata ta parinte {composer: {Arman Ludovic}, {rcId: {154382}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

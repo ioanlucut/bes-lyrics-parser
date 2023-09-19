@@ -1,5 +1,5 @@
 [title]
-Pe isus cat mai devreme {author: {Anonim}, {rcId: {2861}}
+Pe isus cat mai devreme {composer: {Anonim}, {rcId: {2861}}
 
 [sequence]
 v1,c,v2,c,v3,c

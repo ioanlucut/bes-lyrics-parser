@@ -1,5 +1,5 @@
 [title]
-Viata mea-i umpluta de un izvor {author: {Anonim}, {rcId: {218663}}
+Viata mea-i umpluta de un izvor {composer: {Anonim}, {rcId: {218663}}
 
 [sequence]
 v1,c

@@ -1,5 +1,5 @@
 [title]
-Daca daniel n-avea credinta {author: {Anonim}, {rcId: {3862}}
+Daca daniel n-avea credinta {composer: {Anonim}, {rcId: {3862}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Iata cerul ne-mpresoara - dragostea nicicand nu va pieri {author: {Anonim}, {rcId: {61529}}
+Iata cerul ne-mpresoara - dragostea nicicand nu va pieri {composer: {Anonim}, {rcId: {61529}}
 
 [sequence]
 v1,c,v2,c,v3,c

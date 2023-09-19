@@ -1,5 +1,5 @@
 [title]
-Ce frumuseti {author: {Anonim}, {rcId: {205382}}
+Ce frumuseti {composer: {Anonim}, {rcId: {205382}}
 
 [sequence]
 v1,c,v2,c,v3,c

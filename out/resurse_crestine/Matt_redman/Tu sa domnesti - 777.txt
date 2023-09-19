@@ -1,5 +1,5 @@
 [title]
-Tu sa domnesti {author: {Matt Redman}, {rcId: {777}}
+Tu sa domnesti {composer: {Matt Redman}, {rcId: {777}}
 
 [sequence]
 v1,c,v2,c

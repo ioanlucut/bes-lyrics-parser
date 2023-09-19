@@ -1,5 +1,5 @@
 [title]
-Indurat sfatuitor {author: {Marcus M.Wells}, {rcId: {1900}}
+Indurat sfatuitor {composer: {Marcus M.Wells}, {rcId: {1900}}
 
 [sequence]
 v1,v2,v3

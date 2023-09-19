@@ -1,5 +1,5 @@
 [title]
-Noi am facut legamant {author: {Anonim}, {rcId: {207753}}
+Noi am facut legamant {composer: {Anonim}, {rcId: {207753}}
 
 [sequence]
 v1,c,v2,c,v3,c

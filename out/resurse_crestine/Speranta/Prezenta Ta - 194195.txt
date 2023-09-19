@@ -1,5 +1,5 @@
 [title]
-Prezenta ta {author: {Speranța}, {rcId: {194195}}
+Prezenta ta {composer: {Speranța}, {rcId: {194195}}
 
 [sequence]
 v1,c,v2,c,e

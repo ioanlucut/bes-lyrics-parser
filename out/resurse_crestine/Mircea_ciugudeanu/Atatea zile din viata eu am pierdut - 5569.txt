@@ -1,5 +1,5 @@
 [title]
-Atatea zile din viata eu am pierdut {author: {Mircea Ciugudeanu}, {rcId: {5569}}
+Atatea zile din viata eu am pierdut {composer: {Mircea Ciugudeanu}, {rcId: {5569}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

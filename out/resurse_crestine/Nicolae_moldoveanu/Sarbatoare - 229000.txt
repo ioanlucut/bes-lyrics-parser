@@ -1,5 +1,5 @@
 [title]
-Sarbatoare {author: {Nicolae Moldoveanu}, {rcId: {229000}}
+Sarbatoare {composer: {Nicolae Moldoveanu}, {rcId: {229000}}
 
 [sequence]
 v1,v2,v3

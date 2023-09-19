@@ -1,5 +1,5 @@
 [title]
-Du-ma doamne in sfantati prezenta {author: {Anonim}, {rcId: {71903}}
+Du-ma doamne in sfantati prezenta {composer: {Anonim}, {rcId: {71903}}
 
 [sequence]
 v1,v2,v3

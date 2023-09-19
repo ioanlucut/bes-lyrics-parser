@@ -1,5 +1,5 @@
 [title]
-Nu e rasarit {author: {The Messengers}, {rcId: {242737}}
+Nu e rasarit {composer: {The Messengers}, {rcId: {242737}}
 
 [sequence]
 v1,c,v2,c,v3,c

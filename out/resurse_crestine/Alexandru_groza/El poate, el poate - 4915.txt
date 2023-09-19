@@ -1,5 +1,5 @@
 [title]
-El poate el poate {author: {Alexandru Groza}, {rcId: {4915}}
+El poate el poate {composer: {Alexandru Groza}, {rcId: {4915}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

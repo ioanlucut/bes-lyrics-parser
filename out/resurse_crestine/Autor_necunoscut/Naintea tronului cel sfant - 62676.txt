@@ -1,5 +1,5 @@
 [title]
-Naintea tronului cel sfant {author: {Anonim}, {rcId: {62676}}
+Naintea tronului cel sfant {composer: {Anonim}, {rcId: {62676}}
 
 [sequence]
 v1,c,v2,c,v3,c

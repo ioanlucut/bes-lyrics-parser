@@ -1,5 +1,5 @@
 [title]
-Asa sunt eu {author: {Cătălin Ciuculescu Band}, {rcId: {158734}}
+Asa sunt eu {composer: {Cătălin Ciuculescu Band}, {rcId: {158734}}
 
 [sequence]
 v1,c,v2,c,v3,c

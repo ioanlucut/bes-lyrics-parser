@@ -1,5 +1,5 @@
 [title]
-Pe calea vietii {author: {Text: Ionel Bazon, Muzica: Corine Petre}, {rcId: {199432}}
+Pe calea vietii {composer: {Text: Ionel Bazon, Muzica: Corine Petre}, {rcId: {199432}}
 
 [sequence]
 v1,c,v2,c,v3,c

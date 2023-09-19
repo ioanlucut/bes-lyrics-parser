@@ -1,5 +1,5 @@
 [title]
-Clipe de cercetare {author: {Nicolae Moldoveanu}, {rcId: {246373}}
+Clipe de cercetare {composer: {Nicolae Moldoveanu}, {rcId: {246373}}
 
 [sequence]
 v1,v2,v3,v4,v5

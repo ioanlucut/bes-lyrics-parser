@@ -1,5 +1,5 @@
 [title]
-Isus nume preaiubit (what a lovely name) {author: {Charles B. Wycuff, Traducere RO}, {rcId: {93988}}
+Isus nume preaiubit (what a lovely name) {composer: {Charles B. Wycuff, Traducere RO}, {rcId: {93988}}
 
 [sequence]
 v1,c,v2,c,v3,c,s,c

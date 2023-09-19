@@ -1,5 +1,5 @@
 [title]
-Peste tot pe unde mergem {author: {Alin Jucu}, {rcId: {95801}}
+Peste tot pe unde mergem {composer: {Alin Jucu}, {rcId: {95801}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

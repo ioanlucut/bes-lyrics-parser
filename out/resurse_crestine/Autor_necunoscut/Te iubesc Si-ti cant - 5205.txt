@@ -1,5 +1,5 @@
 [title]
-Te iubesc si-ti cant {author: {Anonim}, {rcId: {5205}}
+Te iubesc si-ti cant {composer: {Anonim}, {rcId: {5205}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-M-am nascut copil sarac {author: {Ionel Saran}, {rcId: {128251}}
+M-am nascut copil sarac {composer: {Ionel Saran}, {rcId: {128251}}
 
 [sequence]
 v1,c,v2,c,v3,c2

@@ -1,5 +1,5 @@
 [title]
-Psalmul (cum voi rasplati domnului) {author: {Stefanie Berci Chis}, {rcId: {205384}}
+Psalmul (cum voi rasplati domnului) {composer: {Stefanie Berci Chis}, {rcId: {205384}}
 
 [sequence]
 c,v1,v2,c2

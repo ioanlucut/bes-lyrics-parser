@@ -1,5 +1,5 @@
 [title]
-O minune de sus {author: {Vadim Maksimov}, {rcId: {88259}}
+O minune de sus {composer: {Vadim Maksimov}, {rcId: {88259}}
 
 [sequence]
 v1,c,v2,c,v3,c

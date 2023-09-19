@@ -1,5 +1,5 @@
 [title]
-Tie doamne iti pasa de mine {author: {Maria Șimon}, {rcId: {203887}}
+Tie doamne iti pasa de mine {composer: {Maria Șimon}, {rcId: {203887}}
 
 [sequence]
 v1,c,v2,c,v3,c

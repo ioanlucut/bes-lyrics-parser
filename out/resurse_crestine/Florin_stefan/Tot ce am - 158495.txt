@@ -1,5 +1,5 @@
 [title]
-Tot ce am {author: {Florin Ștefan}, {rcId: {158495}}
+Tot ce am {composer: {Florin Ștefan}, {rcId: {158495}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

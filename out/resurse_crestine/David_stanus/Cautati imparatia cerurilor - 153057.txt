@@ -1,5 +1,5 @@
 [title]
-Cautati imparatia cerurilor {author: {David Stănuș}, {rcId: {153057}}
+Cautati imparatia cerurilor {composer: {David Stănuș}, {rcId: {153057}}
 
 [sequence]
 v1,c,v2,c,v3,c2

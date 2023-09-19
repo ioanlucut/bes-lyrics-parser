@@ -1,5 +1,5 @@
 [title]
-Cu tine-n gand {author: {Ilie Neagu}, {rcId: {86602}}
+Cu tine-n gand {composer: {Ilie Neagu}, {rcId: {86602}}
 
 [sequence]
 c,v1,c,v2,c,e

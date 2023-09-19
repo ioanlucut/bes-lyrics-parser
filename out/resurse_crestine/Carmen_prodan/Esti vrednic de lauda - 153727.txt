@@ -1,5 +1,5 @@
 [title]
-Esti vrednic de lauda {author: {Carmen Prodan}, {rcId: {153727}}
+Esti vrednic de lauda {composer: {Carmen Prodan}, {rcId: {153727}}
 
 [sequence]
 v1,v2,v3

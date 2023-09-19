@@ -1,5 +1,5 @@
 [title]
-Am gasit har {author: {Iuliana Anitei}, {rcId: {199302}}
+Am gasit har {composer: {Iuliana Anitei}, {rcId: {199302}}
 
 [sequence]
 c,e

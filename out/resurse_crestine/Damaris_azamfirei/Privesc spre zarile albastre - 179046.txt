@@ -1,5 +1,5 @@
 [title]
-Privesc spre zarile albastre {author: {Damaris Azamfirei}, {rcId: {179046}}
+Privesc spre zarile albastre {composer: {Damaris Azamfirei}, {rcId: {179046}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c2

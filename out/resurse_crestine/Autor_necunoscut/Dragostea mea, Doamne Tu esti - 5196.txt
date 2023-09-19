@@ -1,5 +1,5 @@
 [title]
-Dragostea mea doamne tu esti {author: {Anonim}, {rcId: {5196}}
+Dragostea mea doamne tu esti {composer: {Anonim}, {rcId: {5196}}
 
 [sequence]
 v1,c,v2,c

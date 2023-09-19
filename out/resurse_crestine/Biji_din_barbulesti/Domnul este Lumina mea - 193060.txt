@@ -1,5 +1,5 @@
 [title]
-Domnul este lumina mea {author: {Biji din Barbulesti}, {rcId: {193060}}
+Domnul este lumina mea {composer: {Biji din Barbulesti}, {rcId: {193060}}
 
 [sequence]
 v1,c,v2,c

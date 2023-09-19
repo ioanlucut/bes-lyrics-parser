@@ -1,5 +1,5 @@
 [title]
-Tot mai strain esti tu prin lume {author: {Ilie Puha}, {rcId: {74197}}
+Tot mai strain esti tu prin lume {composer: {Ilie Puha}, {rcId: {74197}}
 
 [sequence]
 v1,v2,v3,v4,v5

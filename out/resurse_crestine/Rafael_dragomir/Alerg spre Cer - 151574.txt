@@ -1,5 +1,5 @@
 [title]
-Alerg spre cer {author: {Rafael Dragomir}, {rcId: {151574}}
+Alerg spre cer {composer: {Rafael Dragomir}, {rcId: {151574}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

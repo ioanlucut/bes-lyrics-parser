@@ -1,5 +1,5 @@
 [title]
-Tu prieten care canti {author: {Puiu Chibici}, {rcId: {63974}}
+Tu prieten care canti {composer: {Puiu Chibici}, {rcId: {63974}}
 
 [sequence]
 v1,v2,v3,v4,v5

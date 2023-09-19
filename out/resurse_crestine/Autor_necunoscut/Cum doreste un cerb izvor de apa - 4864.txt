@@ -1,5 +1,5 @@
 [title]
-Cum doreste un cerb izvor de apa {author: {Anonim}, {rcId: {4864}}
+Cum doreste un cerb izvor de apa {composer: {Anonim}, {rcId: {4864}}
 
 [sequence]
 v1,c,v2,c

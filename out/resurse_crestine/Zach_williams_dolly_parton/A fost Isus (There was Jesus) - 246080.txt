@@ -1,5 +1,5 @@
 [title]
-A fost isus (there was jesus) {author: {Zach Williams, Dolly Parton}, {rcId: {246080}}
+A fost isus (there was jesus) {composer: {Zach Williams, Dolly Parton}, {rcId: {246080}}
 
 [sequence]
 v1,v2,c,v3,c,e

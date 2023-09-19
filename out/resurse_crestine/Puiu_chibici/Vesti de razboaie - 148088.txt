@@ -1,5 +1,5 @@
 [title]
-Vesti de razboaie {author: {Puiu Chibici}, {rcId: {148088}}
+Vesti de razboaie {composer: {Puiu Chibici}, {rcId: {148088}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

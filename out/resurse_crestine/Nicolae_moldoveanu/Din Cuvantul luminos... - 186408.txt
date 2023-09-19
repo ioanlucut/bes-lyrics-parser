@@ -1,5 +1,5 @@
 [title]
-Din cuvantul luminos {author: {Nicolae Moldoveanu}, {rcId: {186408}}
+Din cuvantul luminos {composer: {Nicolae Moldoveanu}, {rcId: {186408}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Doamne eu te rog ferbinte {author: {Anonim}, {rcId: {4505}}
+Doamne eu te rog ferbinte {composer: {Anonim}, {rcId: {4505}}
 
 [sequence]
 v1,v2,v3

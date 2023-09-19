@@ -1,5 +1,5 @@
 [title]
-Cate ai facut omule in viata {author: {Anonim}, {rcId: {136958}}
+Cate ai facut omule in viata {composer: {Anonim}, {rcId: {136958}}
 
 [sequence]
 v1,v2,v3,v4

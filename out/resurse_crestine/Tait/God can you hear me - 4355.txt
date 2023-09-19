@@ -1,5 +1,5 @@
 [title]
-God can you hear me {author: {Tait}, {rcId: {4355}}
+God can you hear me {composer: {Tait}, {rcId: {4355}}
 
 [sequence]
 v1,v2,b,c,v3,c,e

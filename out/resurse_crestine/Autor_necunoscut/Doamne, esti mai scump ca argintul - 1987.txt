@@ -1,5 +1,5 @@
 [title]
-Doamne esti mai scump ca argintul {author: {Anonim}, {rcId: {1987}}
+Doamne esti mai scump ca argintul {composer: {Anonim}, {rcId: {1987}}
 
 [sequence]
 c,e

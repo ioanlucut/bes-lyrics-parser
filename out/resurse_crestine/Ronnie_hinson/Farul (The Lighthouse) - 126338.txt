@@ -1,5 +1,5 @@
 [title]
-Farul (the lighthouse) {author: {Ronnie Hinson, Traducere RO}, {rcId: {126338}}
+Farul (the lighthouse) {composer: {Ronnie Hinson, Traducere RO}, {rcId: {126338}}
 
 [sequence]
 v1,c,v2,c,s,c

@@ -1,5 +1,5 @@
 [title]
-Cu harul tau {author: {Nicolae Moldoveanu}, {rcId: {110806}}
+Cu harul tau {composer: {Nicolae Moldoveanu}, {rcId: {110806}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Canta striga bate din palme {author: {Anonim}, {rcId: {773}}
+Canta striga bate din palme {composer: {Anonim}, {rcId: {773}}
 
 [sequence]
 c,v1,c

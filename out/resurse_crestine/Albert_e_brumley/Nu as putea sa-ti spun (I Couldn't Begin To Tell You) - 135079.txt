@@ -1,5 +1,5 @@
 [title]
-Nu as putea sa-ti spun (i couldn t begin to tell you) {author: {Albert E. Brumley, Traducere RO}, {rcId: {135079}}
+Nu as putea sa-ti spun (i couldn t begin to tell you) {composer: {Albert E. Brumley, Traducere RO}, {rcId: {135079}}
 
 [sequence]
 v1,c,v2,c,v3,c,s,c

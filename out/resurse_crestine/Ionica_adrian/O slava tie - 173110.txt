@@ -1,5 +1,5 @@
 [title]
-O slava tie {author: {Ionica Adrian}, {rcId: {173110}}
+O slava tie {composer: {Ionica Adrian}, {rcId: {173110}}
 
 [sequence]
 v1,v1,v2,v2,v3,v3

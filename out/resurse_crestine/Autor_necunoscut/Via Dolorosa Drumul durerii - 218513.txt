@@ -1,5 +1,5 @@
 [title]
-Via dolorosa drumul durerii {author: {Album necunoscut}, {rcId: {218513}}
+Via dolorosa drumul durerii {composer: {Album necunoscut}, {rcId: {218513}}
 
 [sequence]
 v1,v2,c,v3,c2,c3

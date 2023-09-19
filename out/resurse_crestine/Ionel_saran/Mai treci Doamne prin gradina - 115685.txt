@@ -1,5 +1,5 @@
 [title]
-Mai treci doamne prin gradina {author: {Ionel Saran}, {rcId: {115685}}
+Mai treci doamne prin gradina {composer: {Ionel Saran}, {rcId: {115685}}
 
 [sequence]
 v1,c,v2,c

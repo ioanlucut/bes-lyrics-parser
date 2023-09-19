@@ -1,5 +1,5 @@
 [title]
-Marturie {author: {Ariana Samoila}, {rcId: {194156}}
+Marturie {composer: {Ariana Samoila}, {rcId: {194156}}
 
 [sequence]
 v1,c,v2,c,v3,c

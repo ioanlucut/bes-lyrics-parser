@@ -1,5 +1,5 @@
 [title]
-Plictisit de asta lume {author: {Popescu Mihai Neluș}, {rcId: {198136}}
+Plictisit de asta lume {composer: {Popescu Mihai Neluș}, {rcId: {198136}}
 
 [sequence]
 v1,c,v2,c

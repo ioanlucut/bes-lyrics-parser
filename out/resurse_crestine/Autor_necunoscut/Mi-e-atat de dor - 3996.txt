@@ -1,5 +1,5 @@
 [title]
-Mi-e-atat de dor {author: {Anonim}, {rcId: {3996}}
+Mi-e-atat de dor {composer: {Anonim}, {rcId: {3996}}
 
 [sequence]
 v1,v2,v3,v4

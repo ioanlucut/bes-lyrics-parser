@@ -1,5 +1,5 @@
 [title]
-Mai presus ca-naltul zarii {author: {Anonim}, {rcId: {220009}}
+Mai presus ca-naltul zarii {composer: {Anonim}, {rcId: {220009}}
 
 [sequence]
 v1,c,v2,c

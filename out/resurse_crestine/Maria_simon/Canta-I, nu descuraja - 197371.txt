@@ -1,5 +1,5 @@
 [title]
-Canta-i nu descuraja {author: {Maria Șimon}, {rcId: {197371}}
+Canta-i nu descuraja {composer: {Maria Șimon}, {rcId: {197371}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

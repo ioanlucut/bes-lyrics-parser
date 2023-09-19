@@ -1,5 +1,5 @@
 [title]
-Dimineata cand dispare ceata; vreau sa zbor {author: {Adi Gliga}, {rcId: {7077}}
+Dimineata cand dispare ceata; vreau sa zbor {composer: {Adi Gliga}, {rcId: {7077}}
 
 [sequence]
 v1,c,v2,c

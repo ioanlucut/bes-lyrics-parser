@@ -1,5 +1,5 @@
 [title]
-Din al lumii greu necaz {author: {amos7}, {rcId: {106572}}
+Din al lumii greu necaz {composer: {amos7}, {rcId: {106572}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8

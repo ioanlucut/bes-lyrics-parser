@@ -1,5 +1,5 @@
 [title]
-Eu il iubesc pe domnul meu isus {author: {Alexandru Groza}, {rcId: {185720}}
+Eu il iubesc pe domnul meu isus {composer: {Alexandru Groza}, {rcId: {185720}}
 
 [sequence]
 v1,c,c,v2,c

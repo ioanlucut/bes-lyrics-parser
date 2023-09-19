@@ -1,5 +1,5 @@
 [title]
-Eu stiu ca-mi lipsesete ceva {author: {Vitamina C}, {rcId: {2808}}
+Eu stiu ca-mi lipsesete ceva {composer: {Vitamina C}, {rcId: {2808}}
 
 [sequence]
 v1,c

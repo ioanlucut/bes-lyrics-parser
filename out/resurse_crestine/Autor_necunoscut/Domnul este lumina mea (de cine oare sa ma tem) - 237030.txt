@@ -1,5 +1,5 @@
 [title]
-Domnul este lumina mea (de cine oare sa ma tem) {author: {Anonim}, {rcId: {237030}}
+Domnul este lumina mea (de cine oare sa ma tem) {composer: {Anonim}, {rcId: {237030}}
 
 [sequence]
 v1,c,v2,c,v3,c

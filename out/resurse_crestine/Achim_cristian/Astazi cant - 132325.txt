@@ -1,5 +1,5 @@
 [title]
-Astazi cant {author: {Achim Cristian}, {rcId: {132325}}
+Astazi cant {composer: {Achim Cristian}, {rcId: {132325}}
 
 [sequence]
 v1,c,v2,c,v3,b,c

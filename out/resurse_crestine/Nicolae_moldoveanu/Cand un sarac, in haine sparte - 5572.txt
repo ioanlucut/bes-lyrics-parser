@@ -1,5 +1,5 @@
 [title]
-Cand un sarac in haine sparte {author: {Nicolae Moldoveanu}, {rcId: {5572}}
+Cand un sarac in haine sparte {composer: {Nicolae Moldoveanu}, {rcId: {5572}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Canta striga {author: {Cristian Văduva}, {rcId: {202328}}
+Canta striga {composer: {Cristian Văduva}, {rcId: {202328}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-N-am cuvinte doamne indeajuns {author: {Speranța}, {rcId: {93814}}
+N-am cuvinte doamne indeajuns {composer: {Speranța}, {rcId: {93814}}
 
 [sequence]
 v1,c,v2,c,e

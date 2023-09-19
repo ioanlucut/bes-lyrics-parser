@@ -1,5 +1,5 @@
 [title]
-Ma uit in jur {author: {Marcela Gorcea Damsa}, {rcId: {104962}}
+Ma uit in jur {composer: {Marcela Gorcea Damsa}, {rcId: {104962}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c

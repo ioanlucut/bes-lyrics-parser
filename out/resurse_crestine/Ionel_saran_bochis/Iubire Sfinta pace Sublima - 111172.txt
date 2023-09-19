@@ -1,5 +1,5 @@
 [title]
-Iubire sfinta pace sublima {author: {Ionel Saran Bochis}, {rcId: {111172}}
+Iubire sfinta pace sublima {composer: {Ionel Saran Bochis}, {rcId: {111172}}
 
 [sequence]
 v1,c,v2,c

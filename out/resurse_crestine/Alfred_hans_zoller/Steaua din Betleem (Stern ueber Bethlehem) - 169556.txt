@@ -1,5 +1,5 @@
 [title]
-Steaua din betleem (stern "uber bethlehem) {author: {Alfred Hans Zoller, Traducere RO}, {rcId: {169556}}
+Steaua din betleem (stern "uber bethlehem) {composer: {Alfred Hans Zoller, Traducere RO}, {rcId: {169556}}
 
 [sequence]
 v1,v2,v3,v4,s

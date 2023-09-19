@@ -1,5 +1,5 @@
 [title]
-Cine va putea vreodata {author: {CristoCentric}, {rcId: {55676}}
+Cine va putea vreodata {composer: {CristoCentric}, {rcId: {55676}}
 
 [sequence]
 v1,c

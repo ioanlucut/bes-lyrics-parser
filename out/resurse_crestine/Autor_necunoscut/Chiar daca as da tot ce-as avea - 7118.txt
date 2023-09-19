@@ -1,5 +1,5 @@
 [title]
-Chiar daca as da tot ce-as avea {author: {Anonim}, {rcId: {7118}}
+Chiar daca as da tot ce-as avea {composer: {Anonim}, {rcId: {7118}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

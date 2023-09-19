@@ -1,5 +1,5 @@
 [title]
-Doamne bunatatea ta imi cuprinde inima {author: {Anonim}, {rcId: {4887}}
+Doamne bunatatea ta imi cuprinde inima {composer: {Anonim}, {rcId: {4887}}
 
 [sequence]
 v1,c,v2,c,v3,c

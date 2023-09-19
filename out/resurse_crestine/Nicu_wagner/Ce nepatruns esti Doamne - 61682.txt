@@ -1,5 +1,5 @@
 [title]
-Ce nepatruns esti doamne {author: {Nicu Wagner}, {rcId: {61682}}
+Ce nepatruns esti doamne {composer: {Nicu Wagner}, {rcId: {61682}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

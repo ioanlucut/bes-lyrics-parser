@@ -1,5 +1,5 @@
 [title]
-Cinste onoare glorie splendoare {author: {Anonim}, {rcId: {4859}}
+Cinste onoare glorie splendoare {composer: {Anonim}, {rcId: {4859}}
 
 [sequence]
 v1,c,e

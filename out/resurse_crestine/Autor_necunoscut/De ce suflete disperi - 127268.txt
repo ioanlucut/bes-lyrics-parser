@@ -1,5 +1,5 @@
 [title]
-De ce suflete disperi {author: {Anonim}, {rcId: {127268}}
+De ce suflete disperi {composer: {Anonim}, {rcId: {127268}}
 
 [sequence]
 v1,v2,v3,v4

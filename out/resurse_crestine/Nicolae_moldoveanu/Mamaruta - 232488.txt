@@ -1,5 +1,5 @@
 [title]
-Mamaruta {author: {Nicolae Moldoveanu}, {rcId: {232488}}
+Mamaruta {composer: {Nicolae Moldoveanu}, {rcId: {232488}}
 
 [sequence]
 v1,v2,v3

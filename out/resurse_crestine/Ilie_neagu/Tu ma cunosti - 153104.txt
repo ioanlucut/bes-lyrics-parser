@@ -1,5 +1,5 @@
 [title]
-Tu ma cunosti {author: {Ilie Neagu}, {rcId: {153104}}
+Tu ma cunosti {composer: {Ilie Neagu}, {rcId: {153104}}
 
 [sequence]
 v1,v2,v3

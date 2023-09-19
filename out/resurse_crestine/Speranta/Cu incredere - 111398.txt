@@ -1,5 +1,5 @@
 [title]
-Cu incredere {author: {Speranța}, {rcId: {111398}}
+Cu incredere {composer: {Speranța}, {rcId: {111398}}
 
 [sequence]
 v1,c,c,e,v2,c

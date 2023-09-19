@@ -1,5 +1,5 @@
 [title]
-Eu sunt numai un calator {author: {Anonim}, {rcId: {3162}}
+Eu sunt numai un calator {composer: {Anonim}, {rcId: {3162}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

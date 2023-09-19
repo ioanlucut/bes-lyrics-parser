@@ -1,5 +1,5 @@
 [title]
-Binecuvanteaza suflete pe domnul tau {author: {Anonim}, {rcId: {4839}}
+Binecuvanteaza suflete pe domnul tau {composer: {Anonim}, {rcId: {4839}}
 
 [sequence]
 v1,v2

@@ -1,5 +1,5 @@
 [title]
-O poate maine vom pleca {author: {Nicolae Moldoveanu}, {rcId: {244061}}
+O poate maine vom pleca {composer: {Nicolae Moldoveanu}, {rcId: {244061}}
 
 [sequence]
 v1,v2,v3

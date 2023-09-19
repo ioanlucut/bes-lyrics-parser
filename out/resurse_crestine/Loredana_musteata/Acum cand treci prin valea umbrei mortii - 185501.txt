@@ -1,5 +1,5 @@
 [title]
-Acum cand treci prin valea umbrei mortii {author: {Loredana Musteata}, {rcId: {185501}}
+Acum cand treci prin valea umbrei mortii {composer: {Loredana Musteata}, {rcId: {185501}}
 
 [sequence]
 v1,c,c,v2,c,c

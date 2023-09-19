@@ -1,5 +1,5 @@
 [title]
-Betleeme betleeme {author: {Familia Mandici}, {rcId: {182911}}
+Betleeme betleeme {composer: {Familia Mandici}, {rcId: {182911}}
 
 [sequence]
 v1,c,b,v2,c2,b2,v3,c3,c4,e

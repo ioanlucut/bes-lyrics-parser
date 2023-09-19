@@ -1,5 +1,5 @@
 [title]
-Ca iosif dus rob {author: {Anonim}, {rcId: {58957}}
+Ca iosif dus rob {composer: {Anonim}, {rcId: {58957}}
 
 [sequence]
 v1,v2,v3,v4

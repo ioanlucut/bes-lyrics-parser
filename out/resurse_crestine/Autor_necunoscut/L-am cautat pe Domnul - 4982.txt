@@ -1,5 +1,5 @@
 [title]
-L-am cautat pe domnul {author: {Anonim}, {rcId: {4982}}
+L-am cautat pe domnul {composer: {Anonim}, {rcId: {4982}}
 
 [sequence]
 v1,c,v2,c

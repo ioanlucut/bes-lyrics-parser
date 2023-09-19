@@ -1,5 +1,5 @@
 [title]
-Ziua asteptata va sosi {author: {Gabriel Gorcea și prietenii}, {rcId: {63212}}
+Ziua asteptata va sosi {composer: {Gabriel Gorcea și prietenii}, {rcId: {63212}}
 
 [sequence]
 v1,c,v2,c,v3,c

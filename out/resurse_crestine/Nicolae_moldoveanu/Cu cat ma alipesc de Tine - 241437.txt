@@ -1,5 +1,5 @@
 [title]
-Cu cat ma alipesc de tine {author: {Nicolae Moldoveanu}, {rcId: {241437}}
+Cu cat ma alipesc de tine {composer: {Nicolae Moldoveanu}, {rcId: {241437}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

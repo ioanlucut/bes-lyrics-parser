@@ -1,5 +1,5 @@
 [title]
-O doamne-ti asteptam venirea {author: {Ovidiu Liteanu}, {rcId: {55628}}
+O doamne-ti asteptam venirea {composer: {Ovidiu Liteanu}, {rcId: {55628}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Adu-ti aminte doamne cand te chem {author: {Nicolae Moldoveanu}, {rcId: {189861}}
+Adu-ti aminte doamne cand te chem {composer: {Nicolae Moldoveanu}, {rcId: {189861}}
 
 [sequence]
 v1,v2,v3,v4

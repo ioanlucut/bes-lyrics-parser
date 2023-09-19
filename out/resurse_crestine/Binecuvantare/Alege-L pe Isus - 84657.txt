@@ -1,5 +1,5 @@
 [title]
-Alege-l pe isus {author: {Binecuvântare}, {rcId: {84657}}
+Alege-l pe isus {composer: {Binecuvântare}, {rcId: {84657}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

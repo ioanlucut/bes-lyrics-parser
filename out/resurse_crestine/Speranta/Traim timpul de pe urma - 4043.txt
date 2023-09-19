@@ -1,5 +1,5 @@
 [title]
-Traim timpul de pe urma {author: {Speranța}, {rcId: {4043}}
+Traim timpul de pe urma {composer: {Speranța}, {rcId: {4043}}
 
 [sequence]
 v1,b,c,v2,c

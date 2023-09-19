@@ -1,5 +1,5 @@
 [title]
-Jos in ieslea bethleem {author: {Ionel Saran}, {rcId: {115656}}
+Jos in ieslea bethleem {composer: {Ionel Saran}, {rcId: {115656}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

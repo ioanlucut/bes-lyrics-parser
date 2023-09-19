@@ -1,5 +1,5 @@
 [title]
-Isus isus izvor sublim {author: {Nicolae Moldoveanu}, {rcId: {246476}}
+Isus isus izvor sublim {composer: {Nicolae Moldoveanu}, {rcId: {246476}}
 
 [sequence]
 v1,v2,v3,v4

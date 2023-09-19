@@ -1,5 +1,5 @@
 [title]
-O isusesti domn minunat {author: {Anonim}, {rcId: {61423}}
+O isusesti domn minunat {composer: {Anonim}, {rcId: {61423}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

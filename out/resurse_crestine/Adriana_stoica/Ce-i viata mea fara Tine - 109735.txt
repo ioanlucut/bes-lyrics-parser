@@ -1,5 +1,5 @@
 [title]
-Ce-i viata mea fara tine {author: {Adriana Stoica}, {rcId: {109735}}
+Ce-i viata mea fara tine {composer: {Adriana Stoica}, {rcId: {109735}}
 
 [sequence]
 v1,c,v2,c,v3,c

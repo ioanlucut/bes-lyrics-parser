@@ -1,5 +1,5 @@
 [title]
-Umple-ma isuse {author: {Anonim}, {rcId: {112103}}
+Umple-ma isuse {composer: {Anonim}, {rcId: {112103}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Nu mai spune-a ta durere {author: {Anonim}, {rcId: {161157}}
+Nu mai spune-a ta durere {composer: {Anonim}, {rcId: {161157}}
 
 [sequence]
 v1,v2,v3,v4

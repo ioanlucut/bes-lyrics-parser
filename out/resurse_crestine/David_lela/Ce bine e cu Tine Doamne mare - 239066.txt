@@ -1,5 +1,5 @@
 [title]
-Ce bine e cu tine doamne mare {author: {David Lela}, {rcId: {239066}}
+Ce bine e cu tine doamne mare {composer: {David Lela}, {rcId: {239066}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

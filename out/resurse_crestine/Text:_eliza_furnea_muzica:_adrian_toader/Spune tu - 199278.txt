@@ -1,5 +1,5 @@
 [title]
-Spune tu {author: {Text: Eliza Furnea, Muzica: Adrian Toader}, {rcId: {199278}}
+Spune tu {composer: {Text: Eliza Furnea, Muzica: Adrian Toader}, {rcId: {199278}}
 
 [sequence]
 v1,v2,v3

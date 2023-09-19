@@ -1,5 +1,5 @@
 [title]
-Domnul ne-a promis o tara {author: {Otniel Stirb}, {rcId: {160310}}
+Domnul ne-a promis o tara {composer: {Otniel Stirb}, {rcId: {160310}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

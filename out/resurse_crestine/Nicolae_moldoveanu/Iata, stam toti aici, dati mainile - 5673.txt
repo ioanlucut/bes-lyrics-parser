@@ -1,5 +1,5 @@
 [title]
-Iata stam toti aici dati mainile {author: {Nicolae Moldoveanu}, {rcId: {5673}}
+Iata stam toti aici dati mainile {composer: {Nicolae Moldoveanu}, {rcId: {5673}}
 
 [sequence]
 v1,v2,v3,v4

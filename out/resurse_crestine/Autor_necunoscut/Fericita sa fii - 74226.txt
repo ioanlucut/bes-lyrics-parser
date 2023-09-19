@@ -1,5 +1,5 @@
 [title]
-Fericita sa fii {author: {Anonim}, {rcId: {74226}}
+Fericita sa fii {composer: {Anonim}, {rcId: {74226}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

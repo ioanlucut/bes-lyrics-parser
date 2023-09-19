@@ -1,5 +1,5 @@
 [title]
-Sa nu ridici piatra {author: {Puiu și Beni Chibici}, {rcId: {188194}}
+Sa nu ridici piatra {composer: {Puiu și Beni Chibici}, {rcId: {188194}}
 
 [sequence]
 v1,c,v2,c,v3,c

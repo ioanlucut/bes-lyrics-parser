@@ -1,5 +1,5 @@
 [title]
-A mea inima cunoaste fericirea (meines herzens tiefste sehnsucht) {author: {Anonim, Traducere RO}, {rcId: {226920}}
+A mea inima cunoaste fericirea (meines herzens tiefste sehnsucht) {composer: {Anonim, Traducere RO}, {rcId: {226920}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-C~atre cer as vrea {author: {Claudia Danciu}, {rcId: {173288}}
+C~atre cer as vrea {composer: {Claudia Danciu}, {rcId: {173288}}
 
 [sequence]
 v1,v2,v3

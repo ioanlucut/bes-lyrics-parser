@@ -1,5 +1,5 @@
 [title]
-Frumos tu ai creeat {author: {Anonim}, {rcId: {59861}}
+Frumos tu ai creeat {composer: {Anonim}, {rcId: {59861}}
 
 [sequence]
 v1,c,v2,c

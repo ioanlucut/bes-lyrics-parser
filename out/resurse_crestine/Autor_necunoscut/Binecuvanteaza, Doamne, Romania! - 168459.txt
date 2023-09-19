@@ -1,5 +1,5 @@
 [title]
-Binecuvanteaza doamne romania {author: {Necunoscut}, {rcId: {168459}}
+Binecuvanteaza doamne romania {composer: {Necunoscut}, {rcId: {168459}}
 
 [sequence]
 v1,c,v2,c

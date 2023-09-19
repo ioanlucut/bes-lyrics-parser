@@ -1,5 +1,5 @@
 [title]
-Nu privi in urma ca e faraon {author: {Necunoscut}, {rcId: {146441}}
+Nu privi in urma ca e faraon {composer: {Necunoscut}, {rcId: {146441}}
 
 [sequence]
 v1

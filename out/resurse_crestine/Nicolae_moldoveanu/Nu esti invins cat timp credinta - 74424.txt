@@ -1,5 +1,5 @@
 [title]
-Nu esti invins cat timp credinta {author: {Nicolae Moldoveanu}, {rcId: {74424}}
+Nu esti invins cat timp credinta {composer: {Nicolae Moldoveanu}, {rcId: {74424}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

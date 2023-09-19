@@ -1,5 +1,5 @@
 [title]
-In palma ta {author: {Naomi Sturza}, {rcId: {197969}}
+In palma ta {composer: {Naomi Sturza}, {rcId: {197969}}
 
 [sequence]
 v1,c,v2,c

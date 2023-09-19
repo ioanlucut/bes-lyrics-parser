@@ -1,5 +1,5 @@
 [title]
-Nu mai e mult {author: {Frații Wagner}, {rcId: {87542}}
+Nu mai e mult {composer: {Frații Wagner}, {rcId: {87542}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

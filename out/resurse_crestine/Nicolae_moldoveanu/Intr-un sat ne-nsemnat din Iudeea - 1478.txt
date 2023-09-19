@@ -1,5 +1,5 @@
 [title]
-Intr-un sat ne-nsemnat din iudeea {author: {Nicolae Moldoveanu}, {rcId: {1478}}
+Intr-un sat ne-nsemnat din iudeea {composer: {Nicolae Moldoveanu}, {rcId: {1478}}
 
 [sequence]
 v1,c,v2,c,v3,c

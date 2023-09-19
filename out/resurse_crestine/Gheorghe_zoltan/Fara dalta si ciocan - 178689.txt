@@ -1,5 +1,5 @@
 [title]
-Fara dalta si ciocan {author: {Gheorghe Zoltan}, {rcId: {178689}}
+Fara dalta si ciocan {composer: {Gheorghe Zoltan}, {rcId: {178689}}
 
 [sequence]
 v1,c,v2,c,v3,c

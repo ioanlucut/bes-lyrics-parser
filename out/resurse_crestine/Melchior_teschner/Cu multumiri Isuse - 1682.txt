@@ -1,5 +1,5 @@
 [title]
-Cu multumiri isuse {author: {Melchior Teschner}, {rcId: {1682}}
+Cu multumiri isuse {composer: {Melchior Teschner}, {rcId: {1682}}
 
 [sequence]
 v1,v2,v3

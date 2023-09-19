@@ -1,5 +1,5 @@
 [title]
-Urmam si azi pe stea o cale {author: {Anonim}, {rcId: {238326}}
+Urmam si azi pe stea o cale {composer: {Anonim}, {rcId: {238326}}
 
 [sequence]
 v1,v2,v3

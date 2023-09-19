@@ -1,5 +1,5 @@
 [title]
-Hristos din morti a inviat {author: {Alin și Emima Timofte}, {rcId: {149085}}
+Hristos din morti a inviat {composer: {Alin și Emima Timofte}, {rcId: {149085}}
 
 [sequence]
 v1,b,c,v2,b,c2

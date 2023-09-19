@@ -1,5 +1,5 @@
 [title]
-Trece iar isus cel venit de sus {author: {Gabi Ilut}, {rcId: {216655}}
+Trece iar isus cel venit de sus {composer: {Gabi Ilut}, {rcId: {216655}}
 
 [sequence]
 v1,c,v2,c,v3,c

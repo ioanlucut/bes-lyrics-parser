@@ -1,5 +1,5 @@
 [title]
-Era odat-o tainica gradina {author: {Nicolae Moldoveanu}, {rcId: {5473}}
+Era odat-o tainica gradina {composer: {Nicolae Moldoveanu}, {rcId: {5473}}
 
 [sequence]
 v1,v2,v3,v4,v5

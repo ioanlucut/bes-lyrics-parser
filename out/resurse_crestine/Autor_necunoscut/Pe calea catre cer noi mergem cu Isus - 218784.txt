@@ -1,5 +1,5 @@
 [title]
-Pe calea catre cer noi mergem cu isus {author: {Anonim}, {rcId: {218784}}
+Pe calea catre cer noi mergem cu isus {composer: {Anonim}, {rcId: {218784}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

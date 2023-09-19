@@ -1,5 +1,5 @@
 [title]
-Isus viata noastra {author: {Anonim}, {rcId: {1466}}
+Isus viata noastra {composer: {Anonim}, {rcId: {1466}}
 
 [sequence]
 v1,c,v2,c,v3,c

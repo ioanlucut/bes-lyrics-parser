@@ -1,5 +1,5 @@
 [title]
-O golgota pamant varf de deal fara flori {author: {Nicolae Moldoveanu}, {rcId: {5484}}
+O golgota pamant varf de deal fara flori {composer: {Nicolae Moldoveanu}, {rcId: {5484}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

@@ -1,5 +1,5 @@
 [title]
-Focul tau {author: {Cătălin și Ramona Lup}, {rcId: {126294}}
+Focul tau {composer: {Cătălin și Ramona Lup}, {rcId: {126294}}
 
 [sequence]
 v1,c,v2,c

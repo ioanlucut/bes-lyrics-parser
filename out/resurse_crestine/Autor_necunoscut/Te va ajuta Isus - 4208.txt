@@ -1,5 +1,5 @@
 [title]
-Te va ajuta isus {author: {Anonim}, {rcId: {4208}}
+Te va ajuta isus {composer: {Anonim}, {rcId: {4208}}
 
 [sequence]
 v1,c

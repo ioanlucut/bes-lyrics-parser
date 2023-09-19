@@ -1,5 +1,5 @@
 [title]
-Sa nu te temi de groaza potopului din noapte {author: {Anonim}, {rcId: {180932}}
+Sa nu te temi de groaza potopului din noapte {composer: {Anonim}, {rcId: {180932}}
 
 [sequence]
 v1,c,v2,c,v3,c

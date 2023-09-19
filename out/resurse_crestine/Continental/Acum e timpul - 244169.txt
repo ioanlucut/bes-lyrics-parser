@@ -1,5 +1,5 @@
 [title]
-Acum e timpul {author: {Continental}, {rcId: {244169}}
+Acum e timpul {composer: {Continental}, {rcId: {244169}}
 
 [sequence]
 v1,c,v2,c

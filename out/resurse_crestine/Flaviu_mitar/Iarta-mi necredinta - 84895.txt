@@ -1,5 +1,5 @@
 [title]
-Iarta-mi necredinta {author: {Flaviu Mitar}, {rcId: {84895}}
+Iarta-mi necredinta {composer: {Flaviu Mitar}, {rcId: {84895}}
 
 [sequence]
 v1,c,v2,c,v3,c2,c

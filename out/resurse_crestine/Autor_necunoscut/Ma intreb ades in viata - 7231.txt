@@ -1,5 +1,5 @@
 [title]
-Ma intreb ades in viata {author: {Anonim}, {rcId: {7231}}
+Ma intreb ades in viata {composer: {Anonim}, {rcId: {7231}}
 
 [sequence]
 v1,c,v2,c,v3,c

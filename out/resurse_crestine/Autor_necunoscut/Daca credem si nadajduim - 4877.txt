@@ -1,5 +1,5 @@
 [title]
-Daca credem si nadajduim {author: {Anonim}, {rcId: {4877}}
+Daca credem si nadajduim {composer: {Anonim}, {rcId: {4877}}
 
 [sequence]
 v1,c

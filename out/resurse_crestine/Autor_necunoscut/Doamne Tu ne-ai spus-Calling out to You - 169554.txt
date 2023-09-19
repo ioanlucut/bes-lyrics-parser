@@ -1,5 +1,5 @@
 [title]
-Doamne tu ne-ai spus-calling out to you {author: {Anonim}, {rcId: {169554}}
+Doamne tu ne-ai spus-calling out to you {composer: {Anonim}, {rcId: {169554}}
 
 [sequence]
 v1,c,c2,e

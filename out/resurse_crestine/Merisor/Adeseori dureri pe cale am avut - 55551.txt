@@ -1,5 +1,5 @@
 [title]
-Adeseori dureri pe cale am avut {author: {Merișor}, {rcId: {55551}}
+Adeseori dureri pe cale am avut {composer: {Merișor}, {rcId: {55551}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

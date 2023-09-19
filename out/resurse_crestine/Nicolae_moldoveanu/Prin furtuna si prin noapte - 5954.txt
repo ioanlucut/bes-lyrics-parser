@@ -1,5 +1,5 @@
 [title]
-Prin furtuna si prin noapte {author: {Nicolae Moldoveanu}, {rcId: {5954}}
+Prin furtuna si prin noapte {composer: {Nicolae Moldoveanu}, {rcId: {5954}}
 
 [sequence]
 v1,v2,v3,v4

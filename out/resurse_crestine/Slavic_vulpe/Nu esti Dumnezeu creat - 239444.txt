@@ -1,5 +1,5 @@
 [title]
-Nu esti dumnezeu creat {author: {Slavic Vulpe}, {rcId: {239444}}
+Nu esti dumnezeu creat {composer: {Slavic Vulpe}, {rcId: {239444}}
 
 [sequence]
 v1,c,v2,c,e

@@ -1,5 +1,5 @@
 [title]
-In curand va veni ziua {author: {Anonim}, {rcId: {6165}}
+In curand va veni ziua {composer: {Anonim}, {rcId: {6165}}
 
 [sequence]
 v1,b,c

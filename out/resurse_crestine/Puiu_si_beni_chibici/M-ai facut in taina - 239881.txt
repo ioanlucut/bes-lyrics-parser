@@ -1,5 +1,5 @@
 [title]
-M-ai facut in taina {author: {Puiu și Beni Chibici}, {rcId: {239881}}
+M-ai facut in taina {composer: {Puiu și Beni Chibici}, {rcId: {239881}}
 
 [sequence]
 v1,c,v2,c,v3,c

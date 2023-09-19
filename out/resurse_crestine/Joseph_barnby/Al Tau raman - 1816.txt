@@ -1,5 +1,5 @@
 [title]
-Al tau raman {author: {Joseph Barnby}, {rcId: {1816}}
+Al tau raman {composer: {Joseph Barnby}, {rcId: {1816}}
 
 [sequence]
 v1,v2,v3,v4

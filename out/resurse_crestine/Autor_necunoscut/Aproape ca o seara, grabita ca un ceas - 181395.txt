@@ -1,5 +1,5 @@
 [title]
-Aproape ca o seara grabita ca un ceas {author: {Anonim}, {rcId: {181395}}
+Aproape ca o seara grabita ca un ceas {composer: {Anonim}, {rcId: {181395}}
 
 [sequence]
 v1,v2,v3

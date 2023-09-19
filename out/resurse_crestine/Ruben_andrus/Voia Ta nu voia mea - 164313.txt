@@ -1,5 +1,5 @@
 [title]
-Voia ta nu voia mea {author: {Ruben Andruș}, {rcId: {164313}}
+Voia ta nu voia mea {composer: {Ruben Andruș}, {rcId: {164313}}
 
 [sequence]
 v1,v2,v3,e

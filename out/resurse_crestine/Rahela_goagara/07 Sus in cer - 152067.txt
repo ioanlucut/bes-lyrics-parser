@@ -1,5 +1,5 @@
 [title]
-Sus in cer {author: {Rahela Goagără}, {rcId: {152067}}
+Sus in cer {composer: {Rahela Goagără}, {rcId: {152067}}
 
 [sequence]
 v1,c,v2,c2,e

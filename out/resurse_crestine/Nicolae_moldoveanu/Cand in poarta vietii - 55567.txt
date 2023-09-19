@@ -1,5 +1,5 @@
 [title]
-Cand in poarta vietii {author: {Nicolae Moldoveanu}, {rcId: {55567}}
+Cand in poarta vietii {composer: {Nicolae Moldoveanu}, {rcId: {55567}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Vrednic de slava {author: {Alexandru Groza}, {rcId: {85967}}
+Vrednic de slava {composer: {Alexandru Groza}, {rcId: {85967}}
 
 [sequence]
 v1,c,v2,c

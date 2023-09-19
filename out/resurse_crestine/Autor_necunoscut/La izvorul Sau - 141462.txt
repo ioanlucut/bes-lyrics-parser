@@ -1,5 +1,5 @@
 [title]
-La izvorul sau {author: {Anonim}, {rcId: {141462}}
+La izvorul sau {composer: {Anonim}, {rcId: {141462}}
 
 [sequence]
 v1,c,v2,c,v3,c

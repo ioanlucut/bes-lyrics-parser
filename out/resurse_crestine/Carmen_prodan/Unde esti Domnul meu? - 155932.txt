@@ -1,5 +1,5 @@
 [title]
-Unde esti domnul meu? {author: {Carmen Prodan}, {rcId: {155932}}
+Unde esti domnul meu? {composer: {Carmen Prodan}, {rcId: {155932}}
 
 [sequence]
 v1,v2,v3,v4

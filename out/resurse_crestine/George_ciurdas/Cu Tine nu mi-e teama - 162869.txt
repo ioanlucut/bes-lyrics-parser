@@ -1,5 +1,5 @@
 [title]
-Cu tine nu mi-e teama {author: {George Ciurdas}, {rcId: {162869}}
+Cu tine nu mi-e teama {composer: {George Ciurdas}, {rcId: {162869}}
 
 [sequence]
 v1,c,v2,c

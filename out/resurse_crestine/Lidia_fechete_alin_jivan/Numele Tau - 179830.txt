@@ -1,5 +1,5 @@
 [title]
-Numele tau {author: {Lidia Fechete, Alin Jivan}, {rcId: {179830}}
+Numele tau {composer: {Lidia Fechete, Alin Jivan}, {rcId: {179830}}
 
 [sequence]
 v1,c,v2,c,e

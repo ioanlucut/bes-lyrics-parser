@@ -1,5 +1,5 @@
 [title]
-Cantarea din suflet {author: {Ala Bragari}, {rcId: {203397}}
+Cantarea din suflet {composer: {Ala Bragari}, {rcId: {203397}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Asculta-ma doamne in zi de necaz {author: {Nicolae Moldoveanu}, {rcId: {5320}}
+Asculta-ma doamne in zi de necaz {composer: {Nicolae Moldoveanu}, {rcId: {5320}}
 
 [sequence]
 v1,v2,v3,v4,v5

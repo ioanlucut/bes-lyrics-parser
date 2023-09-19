@@ -1,5 +1,5 @@
 [title]
-Spre ceruri zilnic ma avant {author: {Ioan Hapca}, {rcId: {95244}}
+Spre ceruri zilnic ma avant {composer: {Ioan Hapca}, {rcId: {95244}}
 
 [sequence]
 v1,c,v2,c

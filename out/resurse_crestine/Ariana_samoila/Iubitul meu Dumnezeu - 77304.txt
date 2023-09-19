@@ -1,5 +1,5 @@
 [title]
-Iubitul meu dumnezeu {author: {Ariana Samoila}, {rcId: {77304}}
+Iubitul meu dumnezeu {composer: {Ariana Samoila}, {rcId: {77304}}
 
 [sequence]
 v1,c,v2,c2

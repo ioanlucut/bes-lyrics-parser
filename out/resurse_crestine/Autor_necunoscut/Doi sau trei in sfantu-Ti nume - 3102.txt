@@ -1,5 +1,5 @@
 [title]
-Doi sau trei in sfantu-ti nume {author: {Anonim}, {rcId: {3102}}
+Doi sau trei in sfantu-ti nume {composer: {Anonim}, {rcId: {3102}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

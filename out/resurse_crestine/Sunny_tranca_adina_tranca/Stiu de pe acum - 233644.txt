@@ -1,5 +1,5 @@
 [title]
-Stiu de pe acum {author: {Sunny Tranca, Adina Tranca}, {rcId: {233644}}
+Stiu de pe acum {composer: {Sunny Tranca, Adina Tranca}, {rcId: {233644}}
 
 [sequence]
 v1,c,v2,b,c

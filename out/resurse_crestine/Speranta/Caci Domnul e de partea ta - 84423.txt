@@ -1,5 +1,5 @@
 [title]
-Caci domnul e de partea ta {author: {Speranța}, {rcId: {84423}}
+Caci domnul e de partea ta {composer: {Speranța}, {rcId: {84423}}
 
 [sequence]
 v1,c,v2,c,v3,c

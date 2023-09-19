@@ -1,5 +1,5 @@
 [title]
-Si pe mine si pe tine {author: {Agape}, {rcId: {5066}}
+Si pe mine si pe tine {composer: {Agape}, {rcId: {5066}}
 
 [sequence]
 c,v1,c

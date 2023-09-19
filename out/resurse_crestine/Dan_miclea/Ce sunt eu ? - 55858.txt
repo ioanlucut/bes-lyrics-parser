@@ -1,5 +1,5 @@
 [title]
-Ce sunt eu ? {author: {Dan Miclea.}, {rcId: {55858}}
+Ce sunt eu ? {composer: {Dan Miclea.}, {rcId: {55858}}
 
 [sequence]
 v1,c,v2,c

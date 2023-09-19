@@ -1,5 +1,5 @@
 [title]
-Doamne tu esti stanca mea {author: {Speranța}, {rcId: {110995}}
+Doamne tu esti stanca mea {composer: {Speranța}, {rcId: {110995}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

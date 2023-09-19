@@ -1,5 +1,5 @@
 [title]
-Adevarat a inviat {author: {Ovidiu Liteanu}, {rcId: {7023}}
+Adevarat a inviat {composer: {Ovidiu Liteanu}, {rcId: {7023}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

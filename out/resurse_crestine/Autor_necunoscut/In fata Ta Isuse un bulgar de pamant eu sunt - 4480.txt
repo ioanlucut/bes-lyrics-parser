@@ -1,5 +1,5 @@
 [title]
-In fata ta isuse un bulgar de pamant eu sunt {author: {Anonim}, {rcId: {4480}}
+In fata ta isuse un bulgar de pamant eu sunt {composer: {Anonim}, {rcId: {4480}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

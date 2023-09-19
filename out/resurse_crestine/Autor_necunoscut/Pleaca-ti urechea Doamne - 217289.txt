@@ -1,5 +1,5 @@
 [title]
-Pleaca-ti urechea doamne {author: {Anonim}, {rcId: {217289}}
+Pleaca-ti urechea doamne {composer: {Anonim}, {rcId: {217289}}
 
 [sequence]
 v1,c,v2,c

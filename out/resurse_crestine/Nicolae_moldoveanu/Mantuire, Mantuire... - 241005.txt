@@ -1,5 +1,5 @@
 [title]
-Mantuire mantuire {author: {Nicolae Moldoveanu}, {rcId: {241005}}
+Mantuire mantuire {composer: {Nicolae Moldoveanu}, {rcId: {241005}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Da-mi doamne bucuria {author: {Nicolae Moldoveanu}, {rcId: {244331}}
+Da-mi doamne bucuria {composer: {Nicolae Moldoveanu}, {rcId: {244331}}
 
 [sequence]
 v1,v2,v3,v4

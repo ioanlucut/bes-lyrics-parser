@@ -1,5 +1,5 @@
 [title]
-Sapunul {author: {Naomi}, {rcId: {88698}}
+Sapunul {composer: {Naomi}, {rcId: {88698}}
 
 [sequence]
 v1,v2

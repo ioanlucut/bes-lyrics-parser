@@ -1,5 +1,5 @@
 [title]
-Harul ce curge prin golgota {author: {Anonim}, {rcId: {233668}}
+Harul ce curge prin golgota {composer: {Anonim}, {rcId: {233668}}
 
 [sequence]
 v1,c,v2,c,v3,c

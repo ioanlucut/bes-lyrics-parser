@@ -1,5 +1,5 @@
 [title]
-Laudati pe domnu-n toate {author: {Nicolae Moldoveanu}, {rcId: {225275}}
+Laudati pe domnu-n toate {composer: {Nicolae Moldoveanu}, {rcId: {225275}}
 
 [sequence]
 v1,v2

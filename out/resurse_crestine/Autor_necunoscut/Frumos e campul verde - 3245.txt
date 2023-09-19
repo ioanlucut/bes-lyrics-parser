@@ -1,5 +1,5 @@
 [title]
-Frumos e campul verde {author: {Anonim}, {rcId: {3245}}
+Frumos e campul verde {composer: {Anonim}, {rcId: {3245}}
 
 [sequence]
 v1,v2,v3,v4,v5

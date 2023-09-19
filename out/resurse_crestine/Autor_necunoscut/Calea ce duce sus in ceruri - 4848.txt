@@ -1,5 +1,5 @@
 [title]
-Calea ce duce sus in ceruri {author: {Anonim}, {rcId: {4848}}
+Calea ce duce sus in ceruri {composer: {Anonim}, {rcId: {4848}}
 
 [sequence]
 c,v1,c

@@ -1,5 +1,5 @@
 [title]
-De la iesle {author: {Text: Costache Ioanid, Muzica: Corina Bazon}, {rcId: {199400}}
+De la iesle {composer: {Text: Costache Ioanid, Muzica: Corina Bazon}, {rcId: {199400}}
 
 [sequence]
 v1,c,v2,c

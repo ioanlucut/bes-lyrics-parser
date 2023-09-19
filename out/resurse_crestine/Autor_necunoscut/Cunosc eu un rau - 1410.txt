@@ -1,5 +1,5 @@
 [title]
-Cunosc eu un rau {author: {Anonim}, {rcId: {1410}}
+Cunosc eu un rau {composer: {Anonim}, {rcId: {1410}}
 
 [sequence]
 v1,c,v2,c,v3,c

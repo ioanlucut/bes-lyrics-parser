@@ -1,5 +1,5 @@
 [title]
-Bateti din palme toate popoarele {author: {Anonim}, {rcId: {4833}}
+Bateti din palme toate popoarele {composer: {Anonim}, {rcId: {4833}}
 
 [sequence]
 v1,v2,v3

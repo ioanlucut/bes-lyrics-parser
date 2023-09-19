@@ -1,5 +1,5 @@
 [title]
-Cu gandul catre patria sfanta/ mi-e dor de tine patria mea {author: {Fratii Pal}, {rcId: {214962}}
+Cu gandul catre patria sfanta/ mi-e dor de tine patria mea {composer: {Fratii Pal}, {rcId: {214962}}
 
 [sequence]
 v1,c,v2,c,v3,c

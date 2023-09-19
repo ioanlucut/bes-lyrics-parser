@@ -1,5 +1,5 @@
 [title]
-Jos pe via dolorosa {author: {Grupul Filadelfia}, {rcId: {164006}}
+Jos pe via dolorosa {composer: {Grupul Filadelfia}, {rcId: {164006}}
 
 [sequence]
 v1,c,v2,c,v3,c

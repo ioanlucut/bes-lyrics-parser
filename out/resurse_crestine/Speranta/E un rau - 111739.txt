@@ -1,5 +1,5 @@
 [title]
-E un rau {author: {Speranța}, {rcId: {111739}}
+E un rau {composer: {Speranța}, {rcId: {111739}}
 
 [sequence]
 v1,c,v2,c,e

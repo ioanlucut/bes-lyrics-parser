@@ -1,5 +1,5 @@
 [title]
-Cand fratii tai te parasesc {author: {Anonim}, {rcId: {74037}}
+Cand fratii tai te parasesc {composer: {Anonim}, {rcId: {74037}}
 
 [sequence]
 v1,v2,v3,v4

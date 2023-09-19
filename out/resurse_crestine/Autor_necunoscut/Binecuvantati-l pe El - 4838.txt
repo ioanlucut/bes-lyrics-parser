@@ -1,5 +1,5 @@
 [title]
-Binecuvantati-l pe el {author: {Anonim}, {rcId: {4838}}
+Binecuvantati-l pe el {composer: {Anonim}, {rcId: {4838}}
 
 [sequence]
 v1,c,v2,c

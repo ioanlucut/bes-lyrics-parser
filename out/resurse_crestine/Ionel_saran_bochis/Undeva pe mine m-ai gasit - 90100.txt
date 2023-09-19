@@ -1,5 +1,5 @@
 [title]
-Undeva pe mine m-ai gasit {author: {Ionel Saran Bochis}, {rcId: {90100}}
+Undeva pe mine m-ai gasit {composer: {Ionel Saran Bochis}, {rcId: {90100}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,c3

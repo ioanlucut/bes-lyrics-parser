@@ -1,5 +1,5 @@
 [title]
-Pe crucea din dealul iubirii {author: {Sara Dehelean}, {rcId: {4248}}
+Pe crucea din dealul iubirii {composer: {Sara Dehelean}, {rcId: {4248}}
 
 [sequence]
 v1,v2,v3

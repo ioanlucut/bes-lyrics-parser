@@ -1,5 +1,5 @@
 [title]
-Lauda tie sfarsitu-ncercarii {author: {Nicolae Moldoveanu}, {rcId: {244552}}
+Lauda tie sfarsitu-ncercarii {composer: {Nicolae Moldoveanu}, {rcId: {244552}}
 
 [sequence]
 v1,v2,v3,v4

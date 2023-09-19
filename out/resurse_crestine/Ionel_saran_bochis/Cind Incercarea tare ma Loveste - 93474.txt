@@ -1,5 +1,5 @@
 [title]
-Cind incercarea tare ma loveste {author: {Ionel Saran Bochis}, {rcId: {93474}}
+Cind incercarea tare ma loveste {composer: {Ionel Saran Bochis}, {rcId: {93474}}
 
 [sequence]
 v1,v2,v3,v4

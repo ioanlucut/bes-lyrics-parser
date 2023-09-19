@@ -1,5 +1,5 @@
 [title]
-Cat va trai lumina {author: {Nicolae Moldoveanu}, {rcId: {246208}}
+Cat va trai lumina {composer: {Nicolae Moldoveanu}, {rcId: {246208}}
 
 [sequence]
 v1,v2,v3,v4,v5

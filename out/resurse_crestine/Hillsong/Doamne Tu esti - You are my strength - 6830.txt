@@ -1,5 +1,5 @@
 [title]
-Doamne tu esti - you are my strength {author: {Hillsong, Traducere RO}, {rcId: {6830}}
+Doamne tu esti - you are my strength {composer: {Hillsong, Traducere RO}, {rcId: {6830}}
 
 [sequence]
 v1,v2,c,v3,c,e

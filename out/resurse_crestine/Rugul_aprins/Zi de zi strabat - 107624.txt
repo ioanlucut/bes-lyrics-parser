@@ -1,5 +1,5 @@
 [title]
-Zi de zi strabat {author: {Rugul aprins}, {rcId: {107624}}
+Zi de zi strabat {composer: {Rugul aprins}, {rcId: {107624}}
 
 [sequence]
 v1,c

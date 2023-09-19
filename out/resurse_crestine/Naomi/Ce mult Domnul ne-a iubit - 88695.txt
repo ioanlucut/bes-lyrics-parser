@@ -1,5 +1,5 @@
 [title]
-Ce mult domnul ne-a iubit {author: {Naomi}, {rcId: {88695}}
+Ce mult domnul ne-a iubit {composer: {Naomi}, {rcId: {88695}}
 
 [sequence]
 v1,c

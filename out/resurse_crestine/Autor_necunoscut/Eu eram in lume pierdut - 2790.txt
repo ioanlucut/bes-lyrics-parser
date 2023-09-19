@@ -1,5 +1,5 @@
 [title]
-Eu eram in lume pierdut {author: {Anonim}, {rcId: {2790}}
+Eu eram in lume pierdut {composer: {Anonim}, {rcId: {2790}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Nu m lsa o doamne {author: {Nicolae Moldoveanu}, {rcId: {199269}}
+Nu m lsa o doamne {composer: {Nicolae Moldoveanu}, {rcId: {199269}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-A mai trecut un an {author: {Dănuț Așchilean}, {rcId: {6984}}
+A mai trecut un an {composer: {Dănuț Așchilean}, {rcId: {6984}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

@@ -1,5 +1,5 @@
 [title]
-Vine-o zi cand domnul va veni {author: {Gabriel Gorcea}, {rcId: {158805}}
+Vine-o zi cand domnul va veni {composer: {Gabriel Gorcea}, {rcId: {158805}}
 
 [sequence]
 v1,c,v2,c,v3,c

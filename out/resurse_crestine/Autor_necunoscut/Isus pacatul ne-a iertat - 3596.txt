@@ -1,5 +1,5 @@
 [title]
-Isus pacatul ne-a iertat {author: {Anonim}, {rcId: {3596}}
+Isus pacatul ne-a iertat {composer: {Anonim}, {rcId: {3596}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

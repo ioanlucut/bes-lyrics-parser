@@ -1,5 +1,5 @@
 [title]
-Tu-mi esti isuse dulce {author: {Traian  Dorz}, {rcId: {201464}}
+Tu-mi esti isuse dulce {composer: {Traian  Dorz}, {rcId: {201464}}
 
 [sequence]
 v1,v2,v3,v4

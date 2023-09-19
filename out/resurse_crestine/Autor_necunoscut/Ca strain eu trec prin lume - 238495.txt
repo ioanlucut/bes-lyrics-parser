@@ -1,5 +1,5 @@
 [title]
-Ca strain eu trec prin lume {author: {Anonim}, {rcId: {238495}}
+Ca strain eu trec prin lume {composer: {Anonim}, {rcId: {238495}}
 
 [sequence]
 v1,c,v2,c,v3,c

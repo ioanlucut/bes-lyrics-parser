@@ -1,5 +1,5 @@
 [title]
-Mi-ai pus piciorul pe stanca {author: {Cor bărbătesc Watford}, {rcId: {238012}}
+Mi-ai pus piciorul pe stanca {composer: {Cor bărbătesc Watford}, {rcId: {238012}}
 
 [sequence]
 v1

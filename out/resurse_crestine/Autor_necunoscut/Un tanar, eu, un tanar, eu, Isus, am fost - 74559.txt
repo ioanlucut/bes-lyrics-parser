@@ -1,5 +1,5 @@
 [title]
-Un tanar eu un tanar eu isus am fost {author: {Anonim}, {rcId: {74559}}
+Un tanar eu un tanar eu isus am fost {composer: {Anonim}, {rcId: {74559}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

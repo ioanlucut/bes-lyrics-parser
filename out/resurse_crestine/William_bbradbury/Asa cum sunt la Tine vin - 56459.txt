@@ -1,5 +1,5 @@
 [title]
-Asa cum sunt la tine vin {author: {William B.Bradbury}, {rcId: {56459}}
+Asa cum sunt la tine vin {composer: {William B.Bradbury}, {rcId: {56459}}
 
 [sequence]
 v1,v2,v3,v4

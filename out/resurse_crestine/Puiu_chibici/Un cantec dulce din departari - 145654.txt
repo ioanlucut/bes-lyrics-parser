@@ -1,5 +1,5 @@
 [title]
-Un cantec dulce din departari {author: {Puiu Chibici}, {rcId: {145654}}
+Un cantec dulce din departari {composer: {Puiu Chibici}, {rcId: {145654}}
 
 [sequence]
 v1,c,v2,c,v3,c2

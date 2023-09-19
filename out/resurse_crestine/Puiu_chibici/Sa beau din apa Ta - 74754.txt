@@ -1,5 +1,5 @@
 [title]
-Sa beau din apa ta {author: {Puiu Chibici}, {rcId: {74754}}
+Sa beau din apa ta {composer: {Puiu Chibici}, {rcId: {74754}}
 
 [sequence]
 v1,v2,v3,v4

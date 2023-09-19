@@ -1,5 +1,5 @@
 [title]
-Daca mama iti mai traieste {author: {Nicu Chereji}, {rcId: {208842}}
+Daca mama iti mai traieste {composer: {Nicu Chereji}, {rcId: {208842}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

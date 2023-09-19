@@ -1,5 +1,5 @@
 [title]
-Acum e noapte {author: {Nicolae Moldoveanu}, {rcId: {227697}}
+Acum e noapte {composer: {Nicolae Moldoveanu}, {rcId: {227697}}
 
 [sequence]
 v1,v2,v3

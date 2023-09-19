@@ -1,5 +1,5 @@
 [title]
-O tatal nostru te rugam {author: {amos7}, {rcId: {78573}}
+O tatal nostru te rugam {composer: {amos7}, {rcId: {78573}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

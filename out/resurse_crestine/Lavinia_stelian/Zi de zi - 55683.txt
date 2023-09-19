@@ -1,5 +1,5 @@
 [title]
-Zi de zi {author: {Lavinia Stelian}, {rcId: {55683}}
+Zi de zi {composer: {Lavinia Stelian}, {rcId: {55683}}
 
 [sequence]
 v1,c,v2,c2

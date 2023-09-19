@@ -1,5 +1,5 @@
 [title]
-Lord take the first place {author: {Barney E. Warren}, {rcId: {101987}}
+Lord take the first place {composer: {Barney E. Warren}, {rcId: {101987}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

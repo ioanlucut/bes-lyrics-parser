@@ -1,5 +1,5 @@
 [title]
-Pretul {author: {Carmen Prodan}, {rcId: {152901}}
+Pretul {composer: {Carmen Prodan}, {rcId: {152901}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Curand vine o zieu stiu ca va veni {author: {Anonim}, {rcId: {156342}}
+Curand vine o zieu stiu ca va veni {composer: {Anonim}, {rcId: {156342}}
 
 [sequence]
 v1,v2,v3,v4

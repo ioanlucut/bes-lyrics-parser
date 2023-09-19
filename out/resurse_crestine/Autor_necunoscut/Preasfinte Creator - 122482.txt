@@ -1,5 +1,5 @@
 [title]
-Preasfinte creator {author: {Anonim}, {rcId: {122482}}
+Preasfinte creator {composer: {Anonim}, {rcId: {122482}}
 
 [sequence]
 v1,v2,v3

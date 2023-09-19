@@ -1,5 +1,5 @@
 [title]
-Ce n-ar da sa aiba lumea {author: {Gabriel Gorcea și prietenii}, {rcId: {61293}}
+Ce n-ar da sa aiba lumea {composer: {Gabriel Gorcea și prietenii}, {rcId: {61293}}
 
 [sequence]
 v1,c,v2,c,v3,c

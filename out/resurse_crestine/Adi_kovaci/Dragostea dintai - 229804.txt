@@ -1,5 +1,5 @@
 [title]
-Dragostea dintai {author: {Adi Kovaci}, {rcId: {229804}}
+Dragostea dintai {composer: {Adi Kovaci}, {rcId: {229804}}
 
 [sequence]
 v1,c,v2,c,e

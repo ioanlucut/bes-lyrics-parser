@@ -1,5 +1,5 @@
 [title]
-Azi e sarbatoare (sing we now of christmas) {author: {Noël Nouvelet, Traducere RO}, {rcId: {222043}}
+Azi e sarbatoare (sing we now of christmas) {composer: {Noël Nouvelet, Traducere RO}, {rcId: {222043}}
 
 [sequence]
 v1,v2,v3

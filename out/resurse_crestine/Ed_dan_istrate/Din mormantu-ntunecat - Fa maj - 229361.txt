@@ -1,5 +1,5 @@
 [title]
-Din mormantu-ntunecat - fa maj {author: {ed. Dan Istrate}, {rcId: {229361}}
+Din mormantu-ntunecat - fa maj {composer: {ed. Dan Istrate}, {rcId: {229361}}
 
 [sequence]
 v1,v2,v3,v4

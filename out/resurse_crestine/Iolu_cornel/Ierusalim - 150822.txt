@@ -1,5 +1,5 @@
 [title]
-Ierusalim {author: {Iolu Cornel}, {rcId: {150822}}
+Ierusalim {composer: {Iolu Cornel}, {rcId: {150822}}
 
 [sequence]
 c,v1,c,e

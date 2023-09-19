@@ -1,5 +1,5 @@
 [title]
-Il urmez pe el si ii cant mereu {author: {Anonim}, {rcId: {6162}}
+Il urmez pe el si ii cant mereu {composer: {Anonim}, {rcId: {6162}}
 
 [sequence]
 v1,c,v2,c,v3,c

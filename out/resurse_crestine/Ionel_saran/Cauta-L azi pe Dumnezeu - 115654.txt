@@ -1,5 +1,5 @@
 [title]
-Cauta-l azi pe dumnezeu {author: {Ionel Saran}, {rcId: {115654}}
+Cauta-l azi pe dumnezeu {composer: {Ionel Saran}, {rcId: {115654}}
 
 [sequence]
 v1,c,v2,c

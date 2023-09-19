@@ -1,5 +1,5 @@
 [title]
-Ce grea-i ades povara {author: {Traian Dorz}, {rcId: {200657}}
+Ce grea-i ades povara {composer: {Traian Dorz}, {rcId: {200657}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

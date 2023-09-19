@@ -1,5 +1,5 @@
 [title]
-Sarman alergator spre moarte {author: {Anonim}, {rcId: {61898}}
+Sarman alergator spre moarte {composer: {Anonim}, {rcId: {61898}}
 
 [sequence]
 v1,c,v2,c,v2,c,v3,c,v4,c,v5,c

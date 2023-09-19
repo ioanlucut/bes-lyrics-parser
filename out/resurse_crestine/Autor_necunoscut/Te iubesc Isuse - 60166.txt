@@ -1,5 +1,5 @@
 [title]
-Te iubesc isuse {author: {Anonim}, {rcId: {60166}}
+Te iubesc isuse {composer: {Anonim}, {rcId: {60166}}
 
 [sequence]
 v1,v2,v3,v4

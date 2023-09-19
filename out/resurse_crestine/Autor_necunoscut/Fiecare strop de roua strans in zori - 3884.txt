@@ -1,5 +1,5 @@
 [title]
-Fiecare strop de roua strans in zori {author: {Anonim}, {rcId: {3884}}
+Fiecare strop de roua strans in zori {composer: {Anonim}, {rcId: {3884}}
 
 [sequence]
 v1,v2,v3,v4,v5

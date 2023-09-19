@@ -1,5 +1,5 @@
 [title]
-Ca bradul drept {author: {Nicolae Moldoveanu}, {rcId: {228120}}
+Ca bradul drept {composer: {Nicolae Moldoveanu}, {rcId: {228120}}
 
 [sequence]
 v1,v2,v3,v4

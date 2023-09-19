@@ -1,5 +1,5 @@
 [title]
-Tu cel ce ratacesti in lume {author: {Alexandru Groza}, {rcId: {185414}}
+Tu cel ce ratacesti in lume {composer: {Alexandru Groza}, {rcId: {185414}}
 
 [sequence]
 v1,v2

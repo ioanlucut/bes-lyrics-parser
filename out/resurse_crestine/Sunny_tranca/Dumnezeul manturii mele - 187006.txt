@@ -1,5 +1,5 @@
 [title]
-Dumnezeul manturii mele {author: {Sunny Tranca}, {rcId: {187006}}
+Dumnezeul manturii mele {composer: {Sunny Tranca}, {rcId: {187006}}
 
 [sequence]
 v1,c,v2,c,e,s,c

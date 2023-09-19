@@ -1,5 +1,5 @@
 [title]
-Mi-amintesc {author: {Gabi Ilut}, {rcId: {231908}}
+Mi-amintesc {composer: {Gabi Ilut}, {rcId: {231908}}
 
 [sequence]
 v1,c,v2,c

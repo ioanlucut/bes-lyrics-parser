@@ -1,5 +1,5 @@
 [title]
-I know i am not worthy {author: {Shalom}, {rcId: {7012}}
+I know i am not worthy {composer: {Shalom}, {rcId: {7012}}
 
 [sequence]
 v1,c,v2,c

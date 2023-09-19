@@ -1,5 +1,5 @@
 [title]
-N-am cuvinte {author: {Beni Moldovan}, {rcId: {60550}}
+N-am cuvinte {composer: {Beni Moldovan}, {rcId: {60550}}
 
 [sequence]
 v1,c,v2,c

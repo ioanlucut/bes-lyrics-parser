@@ -1,5 +1,5 @@
 [title]
-Sunt veacuri multe {author: {Puiu Chibici}, {rcId: {59855}}
+Sunt veacuri multe {composer: {Puiu Chibici}, {rcId: {59855}}
 
 [sequence]
 v1,v2,v3,v4

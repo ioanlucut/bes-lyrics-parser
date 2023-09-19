@@ -1,5 +1,5 @@
 [title]
-Scriptura-i cartea domnului {author: {William J.Kirkpatrik}, {rcId: {1775}}
+Scriptura-i cartea domnului {composer: {William J.Kirkpatrik}, {rcId: {1775}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

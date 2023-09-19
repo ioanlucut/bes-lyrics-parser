@@ -1,5 +1,5 @@
 [title]
-Unde mergi o doamne? {author: {Nicolae Moldoveanu}, {rcId: {5905}}
+Unde mergi o doamne? {composer: {Nicolae Moldoveanu}, {rcId: {5905}}
 
 [sequence]
 c,v1,v2,v3,v4,v5

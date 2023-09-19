@@ -1,5 +1,5 @@
 [title]
-Iti multumesc ca stele pot vedea {author: {Anonim}, {rcId: {200229}}
+Iti multumesc ca stele pot vedea {composer: {Anonim}, {rcId: {200229}}
 
 [sequence]
 v1,c,v2,c,v3,c2

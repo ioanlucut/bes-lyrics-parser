@@ -1,5 +1,5 @@
 [title]
-Se-apropie lumina {author: {Nicolae Moldoveanu}, {rcId: {5696}}
+Se-apropie lumina {composer: {Nicolae Moldoveanu}, {rcId: {5696}}
 
 [sequence]
 v1,v2,v3

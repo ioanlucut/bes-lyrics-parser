@@ -1,5 +1,5 @@
 [title]
-Pazeste-ma {author: {Remus Tămășan Cristi}, {rcId: {194194}}
+Pazeste-ma {composer: {Remus Tămășan Cristi}, {rcId: {194194}}
 
 [sequence]
 v1,c,v2,c

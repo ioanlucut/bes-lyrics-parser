@@ -1,5 +1,5 @@
 [title]
-Se-mplinea o profetie {author: {Puiu Chibici}, {rcId: {3944}}
+Se-mplinea o profetie {composer: {Puiu Chibici}, {rcId: {3944}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Ziua cea de azi {author: {Nicolae Moldoveanu}, {rcId: {1921}}
+Ziua cea de azi {composer: {Nicolae Moldoveanu}, {rcId: {1921}}
 
 [sequence]
 v1,v2,v3

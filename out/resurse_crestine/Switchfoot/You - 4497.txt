@@ -1,5 +1,5 @@
 [title]
-You {author: {Switchfoot}, {rcId: {4497}}
+You {composer: {Switchfoot}, {rcId: {4497}}
 
 [sequence]
 v1,c,c,v2,c,v3,b,c,e

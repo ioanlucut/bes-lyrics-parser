@@ -1,5 +1,5 @@
 [title]
-Te laudam {author: {Speranța}, {rcId: {111402}}
+Te laudam {composer: {Speranța}, {rcId: {111402}}
 
 [sequence]
 v1,b,c,v2,c

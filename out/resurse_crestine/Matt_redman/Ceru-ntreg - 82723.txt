@@ -1,5 +1,5 @@
 [title]
-Ceru-ntreg {author: {Matt Redman}, {rcId: {82723}}
+Ceru-ntreg {composer: {Matt Redman}, {rcId: {82723}}
 
 [sequence]
 v1,c,v2,c

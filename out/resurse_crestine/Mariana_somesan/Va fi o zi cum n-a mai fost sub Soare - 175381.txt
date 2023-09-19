@@ -1,5 +1,5 @@
 [title]
-Va fi o zi cum n-a mai fost sub soare {author: {Mariana Someșan}, {rcId: {175381}}
+Va fi o zi cum n-a mai fost sub soare {composer: {Mariana Someșan}, {rcId: {175381}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

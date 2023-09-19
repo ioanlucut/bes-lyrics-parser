@@ -1,5 +1,5 @@
 [title]
-O isus lumina mea {author: {Ovidiu Liteanu}, {rcId: {55788}}
+O isus lumina mea {composer: {Ovidiu Liteanu}, {rcId: {55788}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

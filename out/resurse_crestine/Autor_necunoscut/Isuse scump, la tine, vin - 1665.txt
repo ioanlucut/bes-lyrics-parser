@@ -1,5 +1,5 @@
 [title]
-Isuse scump la tine vin {author: {Anonim}, {rcId: {1665}}
+Isuse scump la tine vin {composer: {Anonim}, {rcId: {1665}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

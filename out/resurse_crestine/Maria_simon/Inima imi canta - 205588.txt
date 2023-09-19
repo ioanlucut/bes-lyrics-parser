@@ -1,5 +1,5 @@
 [title]
-Inima imi canta {author: {Maria Șimon}, {rcId: {205588}}
+Inima imi canta {composer: {Maria Șimon}, {rcId: {205588}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

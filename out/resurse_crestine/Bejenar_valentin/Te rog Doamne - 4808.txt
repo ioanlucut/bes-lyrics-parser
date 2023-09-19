@@ -1,5 +1,5 @@
 [title]
-Te rog doamne {author: {Bejenar Valentin}, {rcId: {4808}}
+Te rog doamne {composer: {Bejenar Valentin}, {rcId: {4808}}
 
 [sequence]
 v1,v2,v3,v4,v5

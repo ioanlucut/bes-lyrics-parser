@@ -1,5 +1,5 @@
 [title]
-Nu vreau sa ma miorlaiesc {author: {Nicolae Moldoveanu}, {rcId: {235167}}
+Nu vreau sa ma miorlaiesc {composer: {Nicolae Moldoveanu}, {rcId: {235167}}
 
 [sequence]
 v1,v2,v3

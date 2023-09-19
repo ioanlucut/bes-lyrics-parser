@@ -1,5 +1,5 @@
 [title]
-Doamne fata de tine eu sunt mic {author: {Anonim}, {rcId: {7147}}
+Doamne fata de tine eu sunt mic {composer: {Anonim}, {rcId: {7147}}
 
 [sequence]
 v1,c

@@ -1,5 +1,5 @@
 [title]
-Inca putin ne-a mai ramas {author: {Denys Laurenciuc}, {rcId: {214379}}
+Inca putin ne-a mai ramas {composer: {Denys Laurenciuc}, {rcId: {214379}}
 
 [sequence]
 v1,c,v2,c

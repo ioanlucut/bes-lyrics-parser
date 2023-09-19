@@ -1,5 +1,5 @@
 [title]
-M-am cercetat in rugaciune {author: {Alexandru Groza}, {rcId: {113217}}
+M-am cercetat in rugaciune {composer: {Alexandru Groza}, {rcId: {113217}}
 
 [sequence]
 v1,c,v2,c

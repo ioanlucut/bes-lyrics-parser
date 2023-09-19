@@ -1,5 +1,5 @@
 [title]
-Mesajul lui dumnezeu {author: {Rafael Dragomir}, {rcId: {151567}}
+Mesajul lui dumnezeu {composer: {Rafael Dragomir}, {rcId: {151567}}
 
 [sequence]
 v1,v2,v3,v4,e

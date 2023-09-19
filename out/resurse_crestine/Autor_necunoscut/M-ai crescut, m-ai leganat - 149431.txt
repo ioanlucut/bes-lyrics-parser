@@ -1,5 +1,5 @@
 [title]
-M-ai crescut m-ai leganat {author: {Anonim}, {rcId: {149431}}
+M-ai crescut m-ai leganat {composer: {Anonim}, {rcId: {149431}}
 
 [sequence]
 v1,c,v2,c,v3,c

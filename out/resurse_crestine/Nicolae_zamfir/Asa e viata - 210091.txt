@@ -1,5 +1,5 @@
 [title]
-Asa e viata {author: {Nicolae Zamfir}, {rcId: {210091}}
+Asa e viata {composer: {Nicolae Zamfir}, {rcId: {210091}}
 
 [sequence]
 v1,c,v2,c

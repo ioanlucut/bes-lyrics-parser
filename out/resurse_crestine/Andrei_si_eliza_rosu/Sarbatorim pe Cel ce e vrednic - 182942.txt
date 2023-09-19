@@ -1,5 +1,5 @@
 [title]
-Sarbatorim pe cel ce e vrednic {author: {Andrei și Eliza Roșu}, {rcId: {182942}}
+Sarbatorim pe cel ce e vrednic {composer: {Andrei și Eliza Roșu}, {rcId: {182942}}
 
 [sequence]
 c,v1,c,v2,c

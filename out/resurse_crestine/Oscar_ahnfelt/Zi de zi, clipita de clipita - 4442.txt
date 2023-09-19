@@ -1,5 +1,5 @@
 [title]
-Zi de zi clipita de clipita {author: {Oscar Ahnfelt}, {rcId: {4442}}
+Zi de zi clipita de clipita {composer: {Oscar Ahnfelt}, {rcId: {4442}}
 
 [sequence]
 v1,v2,v3

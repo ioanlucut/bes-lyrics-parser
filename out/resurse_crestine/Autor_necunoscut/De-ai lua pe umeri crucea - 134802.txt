@@ -1,5 +1,5 @@
 [title]
-De-ai lua pe umeri crucea {author: {Anonim}, {rcId: {134802}}
+De-ai lua pe umeri crucea {composer: {Anonim}, {rcId: {134802}}
 
 [sequence]
 v1,v2,v3,v4,v5

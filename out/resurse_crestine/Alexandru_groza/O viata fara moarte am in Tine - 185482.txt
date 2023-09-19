@@ -1,5 +1,5 @@
 [title]
-O viata fara moarte am in tine {author: {Alexandru Groza}, {rcId: {185482}}
+O viata fara moarte am in tine {composer: {Alexandru Groza}, {rcId: {185482}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Nu te-nchipui stapanul locului pe care stai {author: {Anonim}, {rcId: {175747}}
+Nu te-nchipui stapanul locului pe care stai {composer: {Anonim}, {rcId: {175747}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

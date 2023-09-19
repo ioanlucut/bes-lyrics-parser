@@ -1,5 +1,5 @@
 [title]
-Azi ne inchinam in fata ta {author: {Doru Gîrboan}, {rcId: {140849}}
+Azi ne inchinam in fata ta {composer: {Doru Gîrboan}, {rcId: {140849}}
 
 [sequence]
 v1,b,c,v2,b,c,e

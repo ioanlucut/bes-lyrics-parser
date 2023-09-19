@@ -1,5 +1,5 @@
 [title]
-Iti cant azi gloria {author: {Ionuț Crăciun}, {rcId: {89472}}
+Iti cant azi gloria {composer: {Ionuț Crăciun}, {rcId: {89472}}
 
 [sequence]
 v1,c,v2,c

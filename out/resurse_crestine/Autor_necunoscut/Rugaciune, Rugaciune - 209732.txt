@@ -1,5 +1,5 @@
 [title]
-Rugaciune rugaciune {author: {Anonim}, {rcId: {209732}}
+Rugaciune rugaciune {composer: {Anonim}, {rcId: {209732}}
 
 [sequence]
 v1,v2,v3

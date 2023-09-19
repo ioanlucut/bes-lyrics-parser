@@ -1,5 +1,5 @@
 [title]
-Pe drumul ghetsimanilor {author: {Roza Nicula}, {rcId: {5490}}
+Pe drumul ghetsimanilor {composer: {Roza Nicula}, {rcId: {5490}}
 
 [sequence]
 v1,v2,v3,v4

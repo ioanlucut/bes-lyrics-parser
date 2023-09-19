@@ -1,5 +1,5 @@
 [title]
-Tu ne-ai chemat din lumea de pacate {author: {Dorel Breabăn}, {rcId: {223993}}
+Tu ne-ai chemat din lumea de pacate {composer: {Dorel Breabăn}, {rcId: {223993}}
 
 [sequence]
 v1,c,v2,c,v3,c

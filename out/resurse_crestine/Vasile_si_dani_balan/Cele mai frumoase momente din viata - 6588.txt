@@ -1,5 +1,5 @@
 [title]
-Cele mai frumoase momente din viata {author: {Vasile și Dani Bălan}, {rcId: {6588}}
+Cele mai frumoase momente din viata {composer: {Vasile și Dani Bălan}, {rcId: {6588}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

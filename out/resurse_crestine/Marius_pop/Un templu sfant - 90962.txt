@@ -1,5 +1,5 @@
 [title]
-Un templu sfant {author: {Marius Pop}, {rcId: {90962}}
+Un templu sfant {composer: {Marius Pop}, {rcId: {90962}}
 
 [sequence]
 v1,c,v2,c

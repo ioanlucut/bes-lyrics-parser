@@ -1,5 +1,5 @@
 [title]
-E ziua sfanta binecuvantata {author: {Anonim}, {rcId: {77250}}
+E ziua sfanta binecuvantata {composer: {Anonim}, {rcId: {77250}}
 
 [sequence]
 v1,v2,v3

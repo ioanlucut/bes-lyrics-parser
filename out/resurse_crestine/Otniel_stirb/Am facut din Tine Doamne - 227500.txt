@@ -1,5 +1,5 @@
 [title]
-Am facut din tine doamne {author: {Otniel Stirb}, {rcId: {227500}}
+Am facut din tine doamne {composer: {Otniel Stirb}, {rcId: {227500}}
 
 [sequence]
 v1,v2,v3,v4

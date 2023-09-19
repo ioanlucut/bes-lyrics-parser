@@ -1,5 +1,5 @@
 [title]
-Ai deschis cerul tau {author: {Text și muzica: Adrian Galiger}, {rcId: {199438}}
+Ai deschis cerul tau {composer: {Text și muzica: Adrian Galiger}, {rcId: {199438}}
 
 [sequence]
 v1,c

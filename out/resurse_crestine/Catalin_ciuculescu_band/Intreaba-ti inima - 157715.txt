@@ -1,5 +1,5 @@
 [title]
-Intreaba-ti inima {author: {Cătălin Ciuculescu Band}, {rcId: {157715}}
+Intreaba-ti inima {composer: {Cătălin Ciuculescu Band}, {rcId: {157715}}
 
 [sequence]
 v1,v2,v3,e

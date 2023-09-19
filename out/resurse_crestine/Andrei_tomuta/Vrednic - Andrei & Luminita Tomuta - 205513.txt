@@ -1,5 +1,5 @@
 [title]
-Vrednic - andrei & luminita tomuta {author: {Andrei Tomuta}, {rcId: {205513}}
+Vrednic - andrei & luminita tomuta {composer: {Andrei Tomuta}, {rcId: {205513}}
 
 [sequence]
 v1,c,c

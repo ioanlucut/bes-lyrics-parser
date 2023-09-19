@@ -1,5 +1,5 @@
 [title]
-Revarsa doamne astazi ploaia {author: {Denys Laurenciuc}, {rcId: {193553}}
+Revarsa doamne astazi ploaia {composer: {Denys Laurenciuc}, {rcId: {193553}}
 
 [sequence]
 v1,c,v2,c,v3,c

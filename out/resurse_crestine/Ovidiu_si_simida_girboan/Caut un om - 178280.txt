@@ -1,5 +1,5 @@
 [title]
-Caut un om {author: {Ovidiu si Simida Girboan}, {rcId: {178280}}
+Caut un om {composer: {Ovidiu si Simida Girboan}, {rcId: {178280}}
 
 [sequence]
 v1,c,v2,c,v3,c

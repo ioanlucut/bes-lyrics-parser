@@ -1,5 +1,5 @@
 [title]
-E seara instelata {author: {Anonim}, {rcId: {7255}}
+E seara instelata {composer: {Anonim}, {rcId: {7255}}
 
 [sequence]
 v1,c,v2,c

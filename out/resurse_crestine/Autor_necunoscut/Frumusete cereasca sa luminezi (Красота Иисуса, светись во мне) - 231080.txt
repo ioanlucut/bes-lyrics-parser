@@ -1,5 +1,5 @@
 [title]
-Frumusete cereasca sa luminezi (    ) {author: {Anonim}, {rcId: {231080}}
+Frumusete cereasca sa luminezi (    ) {composer: {Anonim}, {rcId: {231080}}
 
 [sequence]
 v1,v2,v3,v4

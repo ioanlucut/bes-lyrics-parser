@@ -1,5 +1,5 @@
 [title]
-Aleluia s-a nascut isus hristos {author: {Continental}, {rcId: {64254}}
+Aleluia s-a nascut isus hristos {composer: {Continental}, {rcId: {64254}}
 
 [sequence]
 v1,c,v2,c,v3,b,c

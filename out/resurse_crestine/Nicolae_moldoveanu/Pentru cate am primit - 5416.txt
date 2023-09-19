@@ -1,5 +1,5 @@
 [title]
-Pentru cate am primit {author: {Nicolae Moldoveanu}, {rcId: {5416}}
+Pentru cate am primit {composer: {Nicolae Moldoveanu}, {rcId: {5416}}
 
 [sequence]
 v1,v2,v4,v5

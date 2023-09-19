@@ -1,5 +1,5 @@
 [title]
-Sub aripile tale {author: {CristoCentric}, {rcId: {5239}}
+Sub aripile tale {composer: {CristoCentric}, {rcId: {5239}}
 
 [sequence]
 v1,c,e

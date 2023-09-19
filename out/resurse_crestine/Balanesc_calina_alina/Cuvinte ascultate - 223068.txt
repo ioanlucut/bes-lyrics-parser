@@ -1,5 +1,5 @@
 [title]
-Cuvinte ascultate {author: {Bălănesc Călina Alina}, {rcId: {223068}}
+Cuvinte ascultate {composer: {Bălănesc Călina Alina}, {rcId: {223068}}
 
 [sequence]
 v1,c,v2,c,v3,c

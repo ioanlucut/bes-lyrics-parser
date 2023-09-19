@@ -1,5 +1,5 @@
 [title]
-El iti priveste {author: {Nicolae Moldoveanu}, {rcId: {230695}}
+El iti priveste {composer: {Nicolae Moldoveanu}, {rcId: {230695}}
 
 [sequence]
 v1,v2

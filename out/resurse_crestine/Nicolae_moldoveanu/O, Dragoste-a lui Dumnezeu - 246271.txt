@@ -1,5 +1,5 @@
 [title]
-O dragoste-a lui dumnezeu {author: {Nicolae Moldoveanu}, {rcId: {246271}}
+O dragoste-a lui dumnezeu {composer: {Nicolae Moldoveanu}, {rcId: {246271}}
 
 [sequence]
 v1,v2,v3

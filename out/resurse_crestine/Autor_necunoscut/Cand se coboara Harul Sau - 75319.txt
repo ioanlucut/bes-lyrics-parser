@@ -1,5 +1,5 @@
 [title]
-Cand se coboara harul sau {author: {Anonim}, {rcId: {75319}}
+Cand se coboara harul sau {composer: {Anonim}, {rcId: {75319}}
 
 [sequence]
 v1,v2,v3

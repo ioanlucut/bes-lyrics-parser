@@ -1,5 +1,5 @@
 [title]
-Si vremea a trecut am fost copil de mult {author: {Florin Pal}, {rcId: {214778}}
+Si vremea a trecut am fost copil de mult {composer: {Florin Pal}, {rcId: {214778}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4,v5,c5,c5

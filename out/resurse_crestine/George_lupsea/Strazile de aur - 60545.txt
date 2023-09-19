@@ -1,5 +1,5 @@
 [title]
-Strazile de aur {author: {George Lupsea}, {rcId: {60545}}
+Strazile de aur {composer: {George Lupsea}, {rcId: {60545}}
 
 [sequence]
 v1,c,v2,c,v3,c

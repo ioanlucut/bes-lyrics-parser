@@ -1,5 +1,5 @@
 [title]
-Vrednic (worthy) {author: {Betania Dublin, Elevation Worship}, {rcId: {219464}}
+Vrednic (worthy) {composer: {Betania Dublin, Elevation Worship}, {rcId: {219464}}
 
 [sequence]
 v1,c,v2,b,c

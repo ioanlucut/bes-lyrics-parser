@@ -1,5 +1,5 @@
 [title]
-Cand iubesti {author: {Adi Gliga}, {rcId: {139371}}
+Cand iubesti {composer: {Adi Gliga}, {rcId: {139371}}
 
 [sequence]
 v1,b,c,v2,b,c

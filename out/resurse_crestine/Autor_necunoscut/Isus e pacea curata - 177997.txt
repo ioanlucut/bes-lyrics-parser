@@ -1,5 +1,5 @@
 [title]
-Isus e pacea curata {author: {Anonim}, {rcId: {177997}}
+Isus e pacea curata {composer: {Anonim}, {rcId: {177997}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Dumnezeu s-a aratat lumii {author: {Alexandru Groza}, {rcId: {185322}}
+Dumnezeu s-a aratat lumii {composer: {Alexandru Groza}, {rcId: {185322}}
 
 [sequence]
 v1,c,v2,c

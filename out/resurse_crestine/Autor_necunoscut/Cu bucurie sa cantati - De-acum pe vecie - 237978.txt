@@ -1,5 +1,5 @@
 [title]
-Cu bucurie sa cantati - de-acum pe vecie {author: {Anonim}, {rcId: {237978}}
+Cu bucurie sa cantati - de-acum pe vecie {composer: {Anonim}, {rcId: {237978}}
 
 [sequence]
 v1,c,v2,b,c

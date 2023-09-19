@@ -1,5 +1,5 @@
 [title]
-Din cer dumnezeu un dar ne-a trimis {author: {Anonim}, {rcId: {3899}}
+Din cer dumnezeu un dar ne-a trimis {composer: {Anonim}, {rcId: {3899}}
 
 [sequence]
 v1,c,v2,c,v4,c

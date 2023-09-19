@@ -1,5 +1,5 @@
 [title]
-Dumnezeu ne este ajutorul {author: {Pavel Mariana, Florica}, {rcId: {6552}}
+Dumnezeu ne este ajutorul {composer: {Pavel Mariana, Florica}, {rcId: {6552}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

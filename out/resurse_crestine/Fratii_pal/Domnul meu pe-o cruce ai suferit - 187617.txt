@@ -1,5 +1,5 @@
 [title]
-Domnul meu pe-o cruce ai suferit {author: {Fratii Pal}, {rcId: {187617}}
+Domnul meu pe-o cruce ai suferit {composer: {Fratii Pal}, {rcId: {187617}}
 
 [sequence]
 v1,v2,v3,v4

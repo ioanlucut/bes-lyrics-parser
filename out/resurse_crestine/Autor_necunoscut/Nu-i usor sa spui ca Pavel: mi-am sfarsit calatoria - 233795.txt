@@ -1,5 +1,5 @@
 [title]
-Nu-i usor sa spui ca pavel: mi-am sfarsit calatoria {author: {Anonim}, {rcId: {233795}}
+Nu-i usor sa spui ca pavel: mi-am sfarsit calatoria {composer: {Anonim}, {rcId: {233795}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Doamne bun {author: {Eldad}, {rcId: {230300}}
+Doamne bun {composer: {Eldad}, {rcId: {230300}}
 
 [sequence]
 v1,v0,v2,e

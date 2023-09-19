@@ -1,5 +1,5 @@
 [title]
-Multumesc {author: {Ligia Bodea}, {rcId: {201884}}
+Multumesc {composer: {Ligia Bodea}, {rcId: {201884}}
 
 [sequence]
 v1,v2,c,v3,c

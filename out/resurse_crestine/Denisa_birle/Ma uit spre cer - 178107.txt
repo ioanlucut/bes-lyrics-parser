@@ -1,5 +1,5 @@
 [title]
-Ma uit spre cer {author: {Denisa Birle}, {rcId: {178107}}
+Ma uit spre cer {composer: {Denisa Birle}, {rcId: {178107}}
 
 [sequence]
 v1,v2,c,v3,v4,c

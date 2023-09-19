@@ -1,5 +1,5 @@
 [title]
-Inima mea striga te adora; cand ma atingi tresar si ma inalt mai sus {author: {Adi Gliga}, {rcId: {113161}}
+Inima mea striga te adora; cand ma atingi tresar si ma inalt mai sus {composer: {Adi Gliga}, {rcId: {113161}}
 
 [sequence]
 v1,c

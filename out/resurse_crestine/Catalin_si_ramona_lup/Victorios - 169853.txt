@@ -1,5 +1,5 @@
 [title]
-Victorios {author: {Cătălin și Ramona Lup}, {rcId: {169853}}
+Victorios {composer: {Cătălin și Ramona Lup}, {rcId: {169853}}
 
 [sequence]
 v1,v2,b,c

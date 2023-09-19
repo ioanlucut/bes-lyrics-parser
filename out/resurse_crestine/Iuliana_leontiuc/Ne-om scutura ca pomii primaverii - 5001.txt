@@ -1,5 +1,5 @@
 [title]
-Ne-om scutura ca pomii primaverii {author: {Iuliana Leontiuc}, {rcId: {5001}}
+Ne-om scutura ca pomii primaverii {composer: {Iuliana Leontiuc}, {rcId: {5001}}
 
 [sequence]
 v1,v2,v3,v4

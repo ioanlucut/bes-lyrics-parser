@@ -1,5 +1,5 @@
 [title]
-O ce bine-i cand o usa se deschide cu iubire {author: {Nicolae Moldoveanu}, {rcId: {5399}}
+O ce bine-i cand o usa se deschide cu iubire {composer: {Nicolae Moldoveanu}, {rcId: {5399}}
 
 [sequence]
 v1,v2,v3,v4

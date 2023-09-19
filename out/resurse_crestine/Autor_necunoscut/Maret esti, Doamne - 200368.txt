@@ -1,5 +1,5 @@
 [title]
-Maret esti doamne {author: {Anonim}, {rcId: {200368}}
+Maret esti doamne {composer: {Anonim}, {rcId: {200368}}
 
 [sequence]
 v1,v2,c

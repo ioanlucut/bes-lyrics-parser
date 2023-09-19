@@ -1,5 +1,5 @@
 [title]
-O doamne te laud {author: {Frații Ignat}, {rcId: {110807}}
+O doamne te laud {composer: {Frații Ignat}, {rcId: {110807}}
 
 [sequence]
 v1,v2,v3,v4

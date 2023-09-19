@@ -1,5 +1,5 @@
 [title]
-Putea-va oare atata dor {author: {Anonim}, {rcId: {66655}}
+Putea-va oare atata dor {composer: {Anonim}, {rcId: {66655}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

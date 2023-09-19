@@ -1,5 +1,5 @@
 [title]
-De n-ar fi fost domnul de partea noastra {author: {Carmen Prodan}, {rcId: {178727}}
+De n-ar fi fost domnul de partea noastra {composer: {Carmen Prodan}, {rcId: {178727}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Un lucru {author: {IHOP, TM}, {rcId: {231472}}
+Un lucru {composer: {IHOP, TM}, {rcId: {231472}}
 
 [sequence]
 v1,v1,v2,v2,v3,v3,v4,v4

@@ -1,5 +1,5 @@
 [title]
-Dumnezeu e adapostul (nu ne temem de talazuri) {author: {Otniel Stirb}, {rcId: {215165}}
+Dumnezeu e adapostul (nu ne temem de talazuri) {composer: {Otniel Stirb}, {rcId: {215165}}
 
 [sequence]
 v1,c,v2,c,v3,c

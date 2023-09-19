@@ -1,5 +1,5 @@
 [title]
-Calatori unde va duceti? {author: {Anonim}, {rcId: {201410}}
+Calatori unde va duceti? {composer: {Anonim}, {rcId: {201410}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

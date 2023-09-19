@@ -1,5 +1,5 @@
 [title]
-Premiul alergarii {author: {Gabi_Ilut}, {rcId: {241271}}
+Premiul alergarii {composer: {Gabi_Ilut}, {rcId: {241271}}
 
 [sequence]
 c,v1,c,v2,c,e

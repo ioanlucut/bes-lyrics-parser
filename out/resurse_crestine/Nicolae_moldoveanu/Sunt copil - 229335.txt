@@ -1,5 +1,5 @@
 [title]
-Sunt copil {author: {Nicolae Moldoveanu}, {rcId: {229335}}
+Sunt copil {composer: {Nicolae Moldoveanu}, {rcId: {229335}}
 
 [sequence]
 v1,v2,v3,v4

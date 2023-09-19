@@ -1,5 +1,5 @@
 [title]
-Preaiubiti si scumpi copii {author: {Nicolae Moldoveanu}, {rcId: {234626}}
+Preaiubiti si scumpi copii {composer: {Nicolae Moldoveanu}, {rcId: {234626}}
 
 [sequence]
 v1,v2,v3,v4

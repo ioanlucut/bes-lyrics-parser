@@ -1,5 +1,5 @@
 [title]
-Oare nu esti acelasi {author: {Puiu Chibici}, {rcId: {230428}}
+Oare nu esti acelasi {composer: {Puiu Chibici}, {rcId: {230428}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Ma incred in tine doamne {author: {Grupul Ava}, {rcId: {127029}}
+Ma incred in tine doamne {composer: {Grupul Ava}, {rcId: {127029}}
 
 [sequence]
 v1,c,v2,c

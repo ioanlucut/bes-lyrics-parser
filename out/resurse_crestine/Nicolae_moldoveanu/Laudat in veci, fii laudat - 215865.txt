@@ -1,5 +1,5 @@
 [title]
-Laudat in veci fii laudat {author: {Nicolae Moldoveanu}, {rcId: {215865}}
+Laudat in veci fii laudat {composer: {Nicolae Moldoveanu}, {rcId: {215865}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-O vino tu isuse scump {author: {Anonim}, {rcId: {6232}}
+O vino tu isuse scump {composer: {Anonim}, {rcId: {6232}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

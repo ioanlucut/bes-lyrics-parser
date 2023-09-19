@@ -1,5 +1,5 @@
 [title]
-Pe calvar eu am aflat o salvare {author: {Nicolae Moldoveanu}, {rcId: {5487}}
+Pe calvar eu am aflat o salvare {composer: {Nicolae Moldoveanu}, {rcId: {5487}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

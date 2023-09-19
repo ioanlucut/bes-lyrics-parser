@@ -1,5 +1,5 @@
 [title]
-Nu stiam ca-n juru-mi sunt izvoare {author: {Anonim}, {rcId: {4018}}
+Nu stiam ca-n juru-mi sunt izvoare {composer: {Anonim}, {rcId: {4018}}
 
 [sequence]
 v1,v2,v3,v4,v5

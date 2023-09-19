@@ -1,5 +1,5 @@
 [title]
-Ca pe vremea lui avraam/vremuri azi traim si noi {author: {Anonim}, {rcId: {226425}}
+Ca pe vremea lui avraam/vremuri azi traim si noi {composer: {Anonim}, {rcId: {226425}}
 
 [sequence]
 v1,c,v2,c,v3,c2

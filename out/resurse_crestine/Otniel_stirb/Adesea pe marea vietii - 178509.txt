@@ -1,5 +1,5 @@
 [title]
-Adesea pe marea vietii {author: {Otniel Stirb}, {rcId: {178509}}
+Adesea pe marea vietii {composer: {Otniel Stirb}, {rcId: {178509}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

@@ -1,5 +1,5 @@
 [title]
-Iubiti frati si dragi surori {author: {Frații Bălan}, {rcId: {144861}}
+Iubiti frati si dragi surori {composer: {Frații Bălan}, {rcId: {144861}}
 
 [sequence]
 v1,c,v2,c,v3,c

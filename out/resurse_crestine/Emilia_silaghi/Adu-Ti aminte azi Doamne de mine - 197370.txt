@@ -1,5 +1,5 @@
 [title]
-Adu-ti aminte azi doamne de mine {author: {Emilia Silaghi}, {rcId: {197370}}
+Adu-ti aminte azi doamne de mine {composer: {Emilia Silaghi}, {rcId: {197370}}
 
 [sequence]
 v1,v2,v3,v4

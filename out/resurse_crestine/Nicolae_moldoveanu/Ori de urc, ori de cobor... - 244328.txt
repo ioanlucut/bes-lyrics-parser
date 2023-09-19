@@ -1,5 +1,5 @@
 [title]
-Ori de urc ori de cobor {author: {Nicolae Moldoveanu}, {rcId: {244328}}
+Ori de urc ori de cobor {composer: {Nicolae Moldoveanu}, {rcId: {244328}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Sunt coplesit de gloria divina (te laud) {author: {Grupul Speranta}, {rcId: {185404}}
+Sunt coplesit de gloria divina (te laud) {composer: {Grupul Speranta}, {rcId: {185404}}
 
 [sequence]
 v1,c,v2,c,e

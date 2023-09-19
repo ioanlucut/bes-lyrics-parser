@@ -1,5 +1,5 @@
 [title]
-A trecut inc-un an din viata {author: {Speranța}, {rcId: {102554}}
+A trecut inc-un an din viata {composer: {Speranța}, {rcId: {102554}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

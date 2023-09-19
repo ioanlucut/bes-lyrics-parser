@@ -1,5 +1,5 @@
 [title]
-Intr-o casa cu orfani cine azi se duce {author: {Frații Cătălin}, {rcId: {214420}}
+Intr-o casa cu orfani cine azi se duce {composer: {Frații Cătălin}, {rcId: {214420}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

@@ -1,5 +1,5 @@
 [title]
-Raul binecuvantarii {author: {Anonim}, {rcId: {74442}}
+Raul binecuvantarii {composer: {Anonim}, {rcId: {74442}}
 
 [sequence]
 v1,c,v2,c,v3,c

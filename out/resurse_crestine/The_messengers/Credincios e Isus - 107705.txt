@@ -1,5 +1,5 @@
 [title]
-Credincios e isus {author: {The Messengers}, {rcId: {107705}}
+Credincios e isus {composer: {The Messengers}, {rcId: {107705}}
 
 [sequence]
 v1,c,v2,c,v3,c

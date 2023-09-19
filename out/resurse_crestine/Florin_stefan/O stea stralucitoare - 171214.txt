@@ -1,5 +1,5 @@
 [title]
-O stea stralucitoare {author: {Florin Ștefan}, {rcId: {171214}}
+O stea stralucitoare {composer: {Florin Ștefan}, {rcId: {171214}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Preamaretul domn sublim {author: {Alin și Emima Timofte}, {rcId: {100790}}
+Preamaretul domn sublim {composer: {Alin și Emima Timofte}, {rcId: {100790}}
 
 [sequence]
 v1,c,v2,c,e

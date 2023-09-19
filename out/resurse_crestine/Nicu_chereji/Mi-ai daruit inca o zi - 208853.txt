@@ -1,5 +1,5 @@
 [title]
-Mi-ai daruit inca o zi {author: {Nicu Chereji}, {rcId: {208853}}
+Mi-ai daruit inca o zi {composer: {Nicu Chereji}, {rcId: {208853}}
 
 [sequence]
 v1,c,v2,c,v3,c

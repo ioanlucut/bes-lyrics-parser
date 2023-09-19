@@ -1,5 +1,5 @@
 [title]
-Te chemam isus din valea plangerii {author: {Anonim}, {rcId: {77107}}
+Te chemam isus din valea plangerii {composer: {Anonim}, {rcId: {77107}}
 
 [sequence]
 v1,v2,v3,v4,v5

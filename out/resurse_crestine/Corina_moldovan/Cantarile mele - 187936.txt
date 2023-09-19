@@ -1,5 +1,5 @@
 [title]
-Cantarile mele {author: {Corina Moldovan}, {rcId: {187936}}
+Cantarile mele {composer: {Corina Moldovan}, {rcId: {187936}}
 
 [sequence]
 v1,c,v2,c,v3,c

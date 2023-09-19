@@ -1,5 +1,5 @@
 [title]
-Sa ne rugam {author: {Gabi_Ilut}, {rcId: {241225}}
+Sa ne rugam {composer: {Gabi_Ilut}, {rcId: {241225}}
 
 [sequence]
 v1,c,v2,c

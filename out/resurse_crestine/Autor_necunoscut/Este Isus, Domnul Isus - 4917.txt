@@ -1,5 +1,5 @@
 [title]
-Este isus domnul isus {author: {Anonim}, {rcId: {4917}}
+Este isus domnul isus {composer: {Anonim}, {rcId: {4917}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Ce culori iti plac {author: {Speranța pentru copii}, {rcId: {156221}}
+Ce culori iti plac {composer: {Speranța pentru copii}, {rcId: {156221}}
 
 [sequence]
 c,v1,b,c,v2,c,v3,c

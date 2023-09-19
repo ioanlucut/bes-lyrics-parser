@@ -1,5 +1,5 @@
 [title]
-Tu cel mai sfant si preainalt {author: {Franz Joseph Haydn}, {rcId: {141181}}
+Tu cel mai sfant si preainalt {composer: {Franz Joseph Haydn}, {rcId: {141181}}
 
 [sequence]
 v1,v2,v3

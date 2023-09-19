@@ -1,5 +1,5 @@
 [title]
-O seamana-mi in cuget dorinta de sfintire {author: {Anonim}, {rcId: {3915}}
+O seamana-mi in cuget dorinta de sfintire {composer: {Anonim}, {rcId: {3915}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

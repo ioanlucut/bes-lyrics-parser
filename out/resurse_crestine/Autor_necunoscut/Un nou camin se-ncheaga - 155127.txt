@@ -1,5 +1,5 @@
 [title]
-Un nou camin se-ncheaga {author: {Anonim}, {rcId: {155127}}
+Un nou camin se-ncheaga {composer: {Anonim}, {rcId: {155127}}
 
 [sequence]
 v1,c,v2,c,v3,c

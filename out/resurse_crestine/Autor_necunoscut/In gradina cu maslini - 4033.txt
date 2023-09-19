@@ -1,5 +1,5 @@
 [title]
-In gradina cu maslini {author: {Anonim}, {rcId: {4033}}
+In gradina cu maslini {composer: {Anonim}, {rcId: {4033}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

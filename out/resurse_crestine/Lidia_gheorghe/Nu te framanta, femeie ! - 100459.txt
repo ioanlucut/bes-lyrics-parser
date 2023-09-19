@@ -1,5 +1,5 @@
 [title]
-Nu te framanta femeie {author: {Lidia Gheorghe}, {rcId: {100459}}
+Nu te framanta femeie {composer: {Lidia Gheorghe}, {rcId: {100459}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

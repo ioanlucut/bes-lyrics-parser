@@ -1,5 +1,5 @@
 [title]
-Rugaciunea mea de seara {author: {Nicolae Moldoveanu}, {rcId: {227700}}
+Rugaciunea mea de seara {composer: {Nicolae Moldoveanu}, {rcId: {227700}}
 
 [sequence]
 v1,v2,v3,v4

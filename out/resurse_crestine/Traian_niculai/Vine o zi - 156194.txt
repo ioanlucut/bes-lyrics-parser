@@ -1,5 +1,5 @@
 [title]
-Vine o zi {author: {Traian Niculai}, {rcId: {156194}}
+Vine o zi {composer: {Traian Niculai}, {rcId: {156194}}
 
 [sequence]
 v1,c,v2,c,v3,c

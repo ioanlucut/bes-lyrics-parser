@@ -1,5 +1,5 @@
 [title]
-Isus prietenul meu {author: {Decean}, {rcId: {4320}}
+Isus prietenul meu {composer: {Decean}, {rcId: {4320}}
 
 [sequence]
 v1,c,c

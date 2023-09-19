@@ -1,5 +1,5 @@
 [title]
-Un cantec ce ingerii nu-l pot canta (a song the holy angels cannot sing) {author: {Gordon Jensen, Traducere RO}, {rcId: {91778}}
+Un cantec ce ingerii nu-l pot canta (a song the holy angels cannot sing) {composer: {Gordon Jensen, Traducere RO}, {rcId: {91778}}
 
 [sequence]
 v1,c,v2,c,s,c

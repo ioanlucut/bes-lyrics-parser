@@ -1,5 +1,5 @@
 [title]
-Domn al pacii domn al pacii {author: {Necunoscut}, {rcId: {208005}}
+Domn al pacii domn al pacii {composer: {Necunoscut}, {rcId: {208005}}
 
 [sequence]
 v1,v2,v3

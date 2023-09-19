@@ -1,5 +1,5 @@
 [title]
-Vorbeste-ne isuse cu dulcele tau glas {author: {Anonim}, {rcId: {74463}}
+Vorbeste-ne isuse cu dulcele tau glas {composer: {Anonim}, {rcId: {74463}}
 
 [sequence]
 v1,c,v2,c,v3,c

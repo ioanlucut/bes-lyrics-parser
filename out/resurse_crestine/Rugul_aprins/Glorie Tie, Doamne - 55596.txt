@@ -1,5 +1,5 @@
 [title]
-Glorie tie doamne {author: {Rugul aprins}, {rcId: {55596}}
+Glorie tie doamne {composer: {Rugul aprins}, {rcId: {55596}}
 
 [sequence]
 v1,c,v2,c

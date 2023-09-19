@@ -1,5 +1,5 @@
 [title]
-Nu pot crede ca-ntamplarea {author: {Vasilică Moisescu}, {rcId: {212067}}
+Nu pot crede ca-ntamplarea {composer: {Vasilică Moisescu}, {rcId: {212067}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

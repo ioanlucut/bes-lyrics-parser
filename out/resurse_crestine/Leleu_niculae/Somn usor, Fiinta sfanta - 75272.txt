@@ -1,5 +1,5 @@
 [title]
-Somn usor fiinta sfanta {author: {Leleu Niculae}, {rcId: {75272}}
+Somn usor fiinta sfanta {composer: {Leleu Niculae}, {rcId: {75272}}
 
 [sequence]
 v1,c,v2,c2

@@ -1,5 +1,5 @@
 [title]
-Mai mult decat o poveste {author: {Cătălin și Ramona Lup}, {rcId: {143101}}
+Mai mult decat o poveste {composer: {Cătălin și Ramona Lup}, {rcId: {143101}}
 
 [sequence]
 v1,c,v2,b,c

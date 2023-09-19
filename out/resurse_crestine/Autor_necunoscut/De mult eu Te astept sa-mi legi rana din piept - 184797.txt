@@ -1,5 +1,5 @@
 [title]
-De mult eu te astept sa-mi legi rana din piept {author: {Anonim}, {rcId: {184797}}
+De mult eu te astept sa-mi legi rana din piept {composer: {Anonim}, {rcId: {184797}}
 
 [sequence]
 v1,c,v2,c,v3,c

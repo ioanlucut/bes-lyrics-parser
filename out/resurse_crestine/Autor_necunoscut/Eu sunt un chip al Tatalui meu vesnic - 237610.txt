@@ -1,5 +1,5 @@
 [title]
-Eu sunt un chip al tatalui meu vesnic {author: {Anonim}, {rcId: {237610}}
+Eu sunt un chip al tatalui meu vesnic {composer: {Anonim}, {rcId: {237610}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

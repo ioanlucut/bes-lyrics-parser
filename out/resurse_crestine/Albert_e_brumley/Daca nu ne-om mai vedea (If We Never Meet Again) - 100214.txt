@@ -1,5 +1,5 @@
 [title]
-Daca nu ne-om mai vedea (if we never meet again) {author: {Albert E. Brumley, Traducere RO}, {rcId: {100214}}
+Daca nu ne-om mai vedea (if we never meet again) {composer: {Albert E. Brumley, Traducere RO}, {rcId: {100214}}
 
 [sequence]
 v1,c,v2,c,s,c

@@ -1,5 +1,5 @@
 [title]
-Prin cate incercari voi trece doamne {author: {Anonim}, {rcId: {6433}}
+Prin cate incercari voi trece doamne {composer: {Anonim}, {rcId: {6433}}
 
 [sequence]
 v1,v2,v3,v4,v5

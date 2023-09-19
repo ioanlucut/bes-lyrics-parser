@@ -1,5 +1,5 @@
 [title]
-Domnului cantare {author: {Nicolae Moldoveanu}, {rcId: {225082}}
+Domnului cantare {composer: {Nicolae Moldoveanu}, {rcId: {225082}}
 
 [sequence]
 v1,v2,v3

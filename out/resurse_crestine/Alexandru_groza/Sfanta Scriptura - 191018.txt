@@ -1,5 +1,5 @@
 [title]
-Sfanta scriptura {author: {Alexandru Groza}, {rcId: {191018}}
+Sfanta scriptura {composer: {Alexandru Groza}, {rcId: {191018}}
 
 [sequence]
 v1,c,v2,c

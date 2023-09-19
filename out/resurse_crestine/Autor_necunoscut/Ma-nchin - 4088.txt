@@ -1,5 +1,5 @@
 [title]
-Ma-nchin {author: {Anonim}, {rcId: {4088}}
+Ma-nchin {composer: {Anonim}, {rcId: {4088}}
 
 [sequence]
 v1,c,v2,c

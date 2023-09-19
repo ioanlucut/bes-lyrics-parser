@@ -1,5 +1,5 @@
 [title]
-Doresc sa-ti cant {author: {Nicolae Moldoveanu}, {rcId: {244172}}
+Doresc sa-ti cant {composer: {Nicolae Moldoveanu}, {rcId: {244172}}
 
 [sequence]
 v1,v2,v3,v4,v5

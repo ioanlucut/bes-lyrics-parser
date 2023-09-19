@@ -1,5 +1,5 @@
 [title]
-Vine domnul {author: {Doru Gîrboan}, {rcId: {103388}}
+Vine domnul {composer: {Doru Gîrboan}, {rcId: {103388}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Iata domnu-i chiar la usi {author: {Anonim}, {rcId: {74358}}
+Iata domnu-i chiar la usi {composer: {Anonim}, {rcId: {74358}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

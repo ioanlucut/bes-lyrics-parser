@@ -1,5 +1,5 @@
 [title]
-Puterea cuvantului {author: {Iulia Contis}, {rcId: {242267}}
+Puterea cuvantului {composer: {Iulia Contis}, {rcId: {242267}}
 
 [sequence]
 v1,c,v2,c

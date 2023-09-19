@@ -1,5 +1,5 @@
 [title]
-Apartin lui isus {author: {Anonim}, {rcId: {222321}}
+Apartin lui isus {composer: {Anonim}, {rcId: {222321}}
 
 [sequence]
 v1,c,v2,c,v3,c

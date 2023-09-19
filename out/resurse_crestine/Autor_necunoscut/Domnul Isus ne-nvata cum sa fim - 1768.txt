@@ -1,5 +1,5 @@
 [title]
-Domnul isus ne-nvata cum sa fim {author: {Anonim}, {rcId: {1768}}
+Domnul isus ne-nvata cum sa fim {composer: {Anonim}, {rcId: {1768}}
 
 [sequence]
 v1,v2,v3

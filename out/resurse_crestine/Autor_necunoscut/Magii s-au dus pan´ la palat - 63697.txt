@@ -1,5 +1,5 @@
 [title]
-Magii s-au dus pan' la palat {author: {Anonim}, {rcId: {63697}}
+Magii s-au dus pan' la palat {composer: {Anonim}, {rcId: {63697}}
 
 [sequence]
 v1,c,v2,c2

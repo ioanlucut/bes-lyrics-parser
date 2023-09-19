@@ -1,5 +1,5 @@
 [title]
-Eram jos in pacat {author: {Anonim}, {rcId: {59849}}
+Eram jos in pacat {composer: {Anonim}, {rcId: {59849}}
 
 [sequence]
 v1,c,v2,c,v3,c

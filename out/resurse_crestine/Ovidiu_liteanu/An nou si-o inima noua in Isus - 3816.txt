@@ -1,5 +1,5 @@
 [title]
-An nou si-o inima noua in isus {author: {Ovidiu Liteanu}, {rcId: {3816}}
+An nou si-o inima noua in isus {composer: {Ovidiu Liteanu}, {rcId: {3816}}
 
 [sequence]
 v1,c,v2,c,v3,c

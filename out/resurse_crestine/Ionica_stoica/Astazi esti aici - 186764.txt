@@ -1,5 +1,5 @@
 [title]
-Astazi esti aici {author: {Ionică Stoica}, {rcId: {186764}}
+Astazi esti aici {composer: {Ionică Stoica}, {rcId: {186764}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Doamne cant de bucurie {author: {Grup Betleem}, {rcId: {6543}}
+Doamne cant de bucurie {composer: {Grup Betleem}, {rcId: {6543}}
 
 [sequence]
 v1,c,v2,c,v3,c2

@@ -1,5 +1,5 @@
 [title]
-Miel de jertfa {author: {Anonim}, {rcId: {69127}}
+Miel de jertfa {composer: {Anonim}, {rcId: {69127}}
 
 [sequence]
 v1,c,v2,c,v3,c

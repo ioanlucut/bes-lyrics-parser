@@ -1,5 +1,5 @@
 [title]
-Odaia cea de sus {author: {Ovidiu Liteanu}, {rcId: {183372}}
+Odaia cea de sus {composer: {Ovidiu Liteanu}, {rcId: {183372}}
 
 [sequence]
 v1,c,v2,c,v3,c

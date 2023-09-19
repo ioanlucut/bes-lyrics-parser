@@ -1,5 +1,5 @@
 [title]
-Oare nu au nici o vina {author: {Alin Pop}, {rcId: {232876}}
+Oare nu au nici o vina {composer: {Alin Pop}, {rcId: {232876}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c2

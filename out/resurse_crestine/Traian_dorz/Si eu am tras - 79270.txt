@@ -1,5 +1,5 @@
 [title]
-Si eu am tras {author: {Traian Dorz}, {rcId: {79270}}
+Si eu am tras {composer: {Traian Dorz}, {rcId: {79270}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

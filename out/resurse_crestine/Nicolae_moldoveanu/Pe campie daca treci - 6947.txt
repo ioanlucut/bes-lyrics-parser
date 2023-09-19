@@ -1,5 +1,5 @@
 [title]
-Pe campie daca treci {author: {Nicolae Moldoveanu}, {rcId: {6947}}
+Pe campie daca treci {composer: {Nicolae Moldoveanu}, {rcId: {6947}}
 
 [sequence]
 v1,v2,v3

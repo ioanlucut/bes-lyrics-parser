@@ -1,5 +1,5 @@
 [title]
-Mana lui de har (this great caravan) {author: {V.B. Vep Ellis, Traducere RO}, {rcId: {239042}}
+Mana lui de har (this great caravan) {composer: {V.B. Vep Ellis, Traducere RO}, {rcId: {239042}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Sa-nveti sa citesti {author: {Nicolae Moldoveanu}, {rcId: {233483}}
+Sa-nveti sa citesti {composer: {Nicolae Moldoveanu}, {rcId: {233483}}
 
 [sequence]
 v1,v2,v3

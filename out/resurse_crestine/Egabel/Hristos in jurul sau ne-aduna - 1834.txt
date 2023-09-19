@@ -1,5 +1,5 @@
 [title]
-Hristos in jurul sau ne-aduna {author: {E.Gabel}, {rcId: {1834}}
+Hristos in jurul sau ne-aduna {composer: {E.Gabel}, {rcId: {1834}}
 
 [sequence]
 v1,v2,v3

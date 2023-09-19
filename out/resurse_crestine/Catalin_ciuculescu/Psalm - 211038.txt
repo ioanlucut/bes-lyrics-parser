@@ -1,5 +1,5 @@
 [title]
-Psalm {author: {Cătălin Ciuculescu}, {rcId: {211038}}
+Psalm {composer: {Cătălin Ciuculescu}, {rcId: {211038}}
 
 [sequence]
 v1,c,v2,c,e

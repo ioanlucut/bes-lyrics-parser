@@ -1,5 +1,5 @@
 [title]
-A mai trecut un an {author: {Anonim}, {rcId: {86373}}
+A mai trecut un an {composer: {Anonim}, {rcId: {86373}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Aprinde-ma isuse {author: {Anonim}, {rcId: {211991}}
+Aprinde-ma isuse {composer: {Anonim}, {rcId: {211991}}
 
 [sequence]
 v1,v2,v3,v4,v5

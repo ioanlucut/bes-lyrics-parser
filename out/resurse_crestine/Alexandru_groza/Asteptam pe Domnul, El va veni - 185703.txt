@@ -1,5 +1,5 @@
 [title]
-Asteptam pe domnul el va veni {author: {Alexandru Groza}, {rcId: {185703}}
+Asteptam pe domnul el va veni {composer: {Alexandru Groza}, {rcId: {185703}}
 
 [sequence]
 v1,c,v2,c,v3,c2,v4,c2

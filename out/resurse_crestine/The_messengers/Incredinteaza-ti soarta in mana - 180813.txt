@@ -1,5 +1,5 @@
 [title]
-Incredinteaza-ti soarta in mana {author: {The Messengers}, {rcId: {180813}}
+Incredinteaza-ti soarta in mana {composer: {The Messengers}, {rcId: {180813}}
 
 [sequence]
 v1,c,v2,c,v3,c

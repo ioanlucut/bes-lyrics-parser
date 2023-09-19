@@ -1,5 +1,5 @@
 [title]
-Este o zi de sarbatoare {author: {Ilie Neagu}, {rcId: {86609}}
+Este o zi de sarbatoare {composer: {Ilie Neagu}, {rcId: {86609}}
 
 [sequence]
 v1,c,v2,c

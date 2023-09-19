@@ -1,5 +1,5 @@
 [title]
-Te iubesc isuse stiu ca esti al meu {author: {Anonim}, {rcId: {5089}}
+Te iubesc isuse stiu ca esti al meu {composer: {Anonim}, {rcId: {5089}}
 
 [sequence]
 v1,v2,v3,v4

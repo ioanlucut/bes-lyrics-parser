@@ -1,5 +1,5 @@
 [title]
-Unde-l cauti tu pe domnul {author: {Nicolae Moldoveanu}, {rcId: {204573}}
+Unde-l cauti tu pe domnul {composer: {Nicolae Moldoveanu}, {rcId: {204573}}
 
 [sequence]
 v1,v2,v3,v4,v5,v5

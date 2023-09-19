@@ -1,5 +1,5 @@
 [title]
-Cat inca mai curge uleiul {author: {Puiu Chibici}, {rcId: {137838}}
+Cat inca mai curge uleiul {composer: {Puiu Chibici}, {rcId: {137838}}
 
 [sequence]
 v1,v2,v3

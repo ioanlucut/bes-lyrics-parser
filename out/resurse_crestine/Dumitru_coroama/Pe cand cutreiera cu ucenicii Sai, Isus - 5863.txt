@@ -1,5 +1,5 @@
 [title]
-Pe cand cutreiera cu ucenicii sai isus {author: {Dumitru Coroama}, {rcId: {5863}}
+Pe cand cutreiera cu ucenicii sai isus {composer: {Dumitru Coroama}, {rcId: {5863}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

@@ -1,5 +1,5 @@
 [title]
-Ti s-a aratat ce este binele {author: {Anonim}, {rcId: {5093}}
+Ti s-a aratat ce este binele {composer: {Anonim}, {rcId: {5093}}
 
 [sequence]
 v1,v2,v3

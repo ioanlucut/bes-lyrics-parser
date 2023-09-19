@@ -1,5 +1,5 @@
 [title]
-Cand linul izvor (pacea ta) {author: {Horatio G. Spafford}, {rcId: {230419}}
+Cand linul izvor (pacea ta) {composer: {Horatio G. Spafford}, {rcId: {230419}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c

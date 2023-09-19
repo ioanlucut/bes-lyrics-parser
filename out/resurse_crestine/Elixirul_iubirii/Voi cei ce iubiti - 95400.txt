@@ -1,5 +1,5 @@
 [title]
-Voi cei ce iubiti {author: {Elixirul iubirii}, {rcId: {95400}}
+Voi cei ce iubiti {composer: {Elixirul iubirii}, {rcId: {95400}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c

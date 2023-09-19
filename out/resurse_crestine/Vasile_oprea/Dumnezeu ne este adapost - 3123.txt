@@ -1,5 +1,5 @@
 [title]
-Dumnezeu ne este adapost {author: {Vasile Oprea}, {rcId: {3123}}
+Dumnezeu ne este adapost {composer: {Vasile Oprea}, {rcId: {3123}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

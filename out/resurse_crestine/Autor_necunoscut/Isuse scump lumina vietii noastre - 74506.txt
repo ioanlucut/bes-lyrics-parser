@@ -1,5 +1,5 @@
 [title]
-Isuse scump lumina vietii noastre {author: {Anonim}, {rcId: {74506}}
+Isuse scump lumina vietii noastre {composer: {Anonim}, {rcId: {74506}}
 
 [sequence]
 v1,c,v2,c,v3,c

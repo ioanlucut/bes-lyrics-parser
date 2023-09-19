@@ -1,5 +1,5 @@
 [title]
-Adevarul e isus {author: {Cătălin și Ramona Lup}, {rcId: {111566}}
+Adevarul e isus {composer: {Cătălin și Ramona Lup}, {rcId: {111566}}
 
 [sequence]
 v1,v2,v3,v4,v5

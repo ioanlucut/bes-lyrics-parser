@@ -1,5 +1,5 @@
 [title]
-Ce folos ce folos viata fara de hristos ? {author: {Traian Dorz si Nicolae Moldoveanu}, {rcId: {99701}}
+Ce folos ce folos viata fara de hristos ? {composer: {Traian Dorz si Nicolae Moldoveanu}, {rcId: {99701}}
 
 [sequence]
 v1,v2,v3,v4,v5

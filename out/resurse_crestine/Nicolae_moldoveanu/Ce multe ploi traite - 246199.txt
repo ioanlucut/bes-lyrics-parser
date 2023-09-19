@@ -1,5 +1,5 @@
 [title]
-Ce multe ploi traite {author: {Nicolae Moldoveanu}, {rcId: {246199}}
+Ce multe ploi traite {composer: {Nicolae Moldoveanu}, {rcId: {246199}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

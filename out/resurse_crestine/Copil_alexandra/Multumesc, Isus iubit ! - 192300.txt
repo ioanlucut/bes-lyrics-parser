@@ -1,5 +1,5 @@
 [title]
-Multumesc isus iubit {author: {Copil Alexandra}, {rcId: {192300}}
+Multumesc isus iubit {composer: {Copil Alexandra}, {rcId: {192300}}
 
 [sequence]
 v1,v2,v3,v4

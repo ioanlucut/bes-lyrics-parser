@@ -1,5 +1,5 @@
 [title]
-Sunt fericit isus m-a mantuit / eu merg cu isus (i m so glad/walking with the king) {author: {American Traditional, Traducere RO}, {rcId: {181376}}
+Sunt fericit isus m-a mantuit / eu merg cu isus (i m so glad/walking with the king) {composer: {American Traditional, Traducere RO}, {rcId: {181376}}
 
 [sequence]
 c,v1,v2,c2,v3,c2,v4,c2,s,c2

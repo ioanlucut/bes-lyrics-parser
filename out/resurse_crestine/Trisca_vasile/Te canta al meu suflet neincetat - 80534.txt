@@ -1,5 +1,5 @@
 [title]
-Te canta al meu suflet neincetat {author: {Trișcă Vasile}, {rcId: {80534}}
+Te canta al meu suflet neincetat {composer: {Trișcă Vasile}, {rcId: {80534}}
 
 [sequence]
 v1,c,v2,c,v3,c

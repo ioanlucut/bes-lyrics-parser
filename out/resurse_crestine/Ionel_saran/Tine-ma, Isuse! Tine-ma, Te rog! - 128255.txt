@@ -1,5 +1,5 @@
 [title]
-Tine-ma isuse tine-ma te rog {author: {Ionel Saran}, {rcId: {128255}}
+Tine-ma isuse tine-ma te rog {composer: {Ionel Saran}, {rcId: {128255}}
 
 [sequence]
 v1,c,v2,c

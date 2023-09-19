@@ -1,5 +1,5 @@
 [title]
-Mai rasuna pretutindeni (cand pe nori de slava vine) {author: {Fratii Pal}, {rcId: {238544}}
+Mai rasuna pretutindeni (cand pe nori de slava vine) {composer: {Fratii Pal}, {rcId: {238544}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Vreau iertarea ta {author: {Ronela Utina}, {rcId: {117781}}
+Vreau iertarea ta {composer: {Ronela Utina}, {rcId: {117781}}
 
 [sequence]
 v1,c,v2,c

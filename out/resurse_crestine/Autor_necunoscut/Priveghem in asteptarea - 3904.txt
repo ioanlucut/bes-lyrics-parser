@@ -1,5 +1,5 @@
 [title]
-Priveghem in asteptarea {author: {Anonim}, {rcId: {3904}}
+Priveghem in asteptarea {composer: {Anonim}, {rcId: {3904}}
 
 [sequence]
 v1,c,v2,c,v3,c

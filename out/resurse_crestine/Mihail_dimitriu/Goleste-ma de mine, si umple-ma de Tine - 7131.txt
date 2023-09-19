@@ -1,5 +1,5 @@
 [title]
-Goleste-ma de mine si umple-ma de tine {author: {Mihail Dimitriu}, {rcId: {7131}}
+Goleste-ma de mine si umple-ma de tine {composer: {Mihail Dimitriu}, {rcId: {7131}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

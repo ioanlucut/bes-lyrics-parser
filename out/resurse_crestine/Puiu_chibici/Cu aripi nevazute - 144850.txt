@@ -1,5 +1,5 @@
 [title]
-Cu aripi nevazute {author: {Puiu Chibici}, {rcId: {144850}}
+Cu aripi nevazute {composer: {Puiu Chibici}, {rcId: {144850}}
 
 [sequence]
 v1,c,v2,c,v3,c

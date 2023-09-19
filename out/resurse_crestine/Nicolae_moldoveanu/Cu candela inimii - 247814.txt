@@ -1,5 +1,5 @@
 [title]
-Cu candela inimii {author: {Nicolae Moldoveanu}, {rcId: {247814}}
+Cu candela inimii {composer: {Nicolae Moldoveanu}, {rcId: {247814}}
 
 [sequence]
 v1,v2

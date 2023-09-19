@@ -1,5 +1,5 @@
 [title]
-Te iau de mana {author: {Paula Bîlc}, {rcId: {210574}}
+Te iau de mana {composer: {Paula Bîlc}, {rcId: {210574}}
 
 [sequence]
 v1,c,v2,c

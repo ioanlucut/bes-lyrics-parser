@@ -1,5 +1,5 @@
 [title]
-Tu ai totul in mana ta {author: {Anonim}, {rcId: {5103}}
+Tu ai totul in mana ta {composer: {Anonim}, {rcId: {5103}}
 
 [sequence]
 v1,c

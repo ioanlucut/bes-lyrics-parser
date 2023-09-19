@@ -1,5 +1,5 @@
 [title]
-Cantec drag si minunat domnu-n inima mi-a dat {author: {Alexandru Groza}, {rcId: {186259}}
+Cantec drag si minunat domnu-n inima mi-a dat {composer: {Alexandru Groza}, {rcId: {186259}}
 
 [sequence]
 v1,c,v2,c

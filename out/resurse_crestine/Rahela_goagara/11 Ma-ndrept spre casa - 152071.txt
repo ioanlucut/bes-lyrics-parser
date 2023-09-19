@@ -1,5 +1,5 @@
 [title]
-Ma-ndrept spre casa {author: {Rahela Goagără}, {rcId: {152071}}
+Ma-ndrept spre casa {composer: {Rahela Goagără}, {rcId: {152071}}
 
 [sequence]
 v1,c,c

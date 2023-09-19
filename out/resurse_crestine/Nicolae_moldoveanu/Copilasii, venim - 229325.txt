@@ -1,5 +1,5 @@
 [title]
-Copilasii venim {author: {Nicolae Moldoveanu}, {rcId: {229325}}
+Copilasii venim {composer: {Nicolae Moldoveanu}, {rcId: {229325}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-O mantuitorule {author: {Simeon B.Marsh}, {rcId: {1790}}
+O mantuitorule {composer: {Simeon B.Marsh}, {rcId: {1790}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Daca cerul {author: {Nicolae Moldoveanu}, {rcId: {247872}}
+Daca cerul {composer: {Nicolae Moldoveanu}, {rcId: {247872}}
 
 [sequence]
 v1,v2,v3

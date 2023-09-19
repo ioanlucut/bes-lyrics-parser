@@ -1,5 +1,5 @@
 [title]
-Eu cred in puterea sangelui {author: {Anonim}, {rcId: {223028}}
+Eu cred in puterea sangelui {composer: {Anonim}, {rcId: {223028}}
 
 [sequence]
 v1,c,v2,c,v3,c

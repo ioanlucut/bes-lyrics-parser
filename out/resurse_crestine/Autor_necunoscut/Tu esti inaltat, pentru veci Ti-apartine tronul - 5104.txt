@@ -1,5 +1,5 @@
 [title]
-Tu esti inaltat pentru veci ti-apartine tronul {author: {Anonim}, {rcId: {5104}}
+Tu esti inaltat pentru veci ti-apartine tronul {composer: {Anonim}, {rcId: {5104}}
 
 [sequence]
 v1,v2

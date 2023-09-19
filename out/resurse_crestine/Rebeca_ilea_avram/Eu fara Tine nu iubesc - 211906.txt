@@ -1,5 +1,5 @@
 [title]
-Eu fara tine nu iubesc {author: {Rebeca Ilea Avram}, {rcId: {211906}}
+Eu fara tine nu iubesc {composer: {Rebeca Ilea Avram}, {rcId: {211906}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c

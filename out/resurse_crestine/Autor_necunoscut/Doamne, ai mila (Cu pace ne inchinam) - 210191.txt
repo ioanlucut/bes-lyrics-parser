@@ -1,5 +1,5 @@
 [title]
-Doamne ai mila (cu pace ne inchinam) {author: {Anonim}, {rcId: {210191}}
+Doamne ai mila (cu pace ne inchinam) {composer: {Anonim}, {rcId: {210191}}
 
 [sequence]
 v1,c,v2,c,v3,c2

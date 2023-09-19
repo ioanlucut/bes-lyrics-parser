@@ -1,5 +1,5 @@
 [title]
-Marit biruitor isus {author: {Nicolae Moldoveanu}, {rcId: {63944}}
+Marit biruitor isus {composer: {Nicolae Moldoveanu}, {rcId: {63944}}
 
 [sequence]
 v1,c,v2,c,v3,c

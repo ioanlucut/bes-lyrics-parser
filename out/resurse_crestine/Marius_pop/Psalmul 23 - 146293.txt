@@ -1,5 +1,5 @@
 [title]
-Psalmul {author: {Marius Pop}, {rcId: {146293}}
+Psalmul {composer: {Marius Pop}, {rcId: {146293}}
 
 [sequence]
 v1,b,c

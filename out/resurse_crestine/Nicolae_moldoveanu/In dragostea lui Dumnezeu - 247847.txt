@@ -1,5 +1,5 @@
 [title]
-In dragostea lui dumnezeu {author: {Nicolae Moldoveanu}, {rcId: {247847}}
+In dragostea lui dumnezeu {composer: {Nicolae Moldoveanu}, {rcId: {247847}}
 
 [sequence]
 v1,v2,v3,v4

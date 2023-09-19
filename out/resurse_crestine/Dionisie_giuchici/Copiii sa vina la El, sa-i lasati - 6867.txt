@@ -1,5 +1,5 @@
 [title]
-Copiii sa vina la el sa-i lasati {author: {Dionisie Giuchici}, {rcId: {6867}}
+Copiii sa vina la el sa-i lasati {composer: {Dionisie Giuchici}, {rcId: {6867}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

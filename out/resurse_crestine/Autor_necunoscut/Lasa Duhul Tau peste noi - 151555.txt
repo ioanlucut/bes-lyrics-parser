@@ -1,5 +1,5 @@
 [title]
-Lasa duhul tau peste noi {author: {Anonim}, {rcId: {151555}}
+Lasa duhul tau peste noi {composer: {Anonim}, {rcId: {151555}}
 
 [sequence]
 c,v1,c2

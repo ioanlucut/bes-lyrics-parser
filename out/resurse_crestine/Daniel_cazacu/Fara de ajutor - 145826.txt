@@ -1,5 +1,5 @@
 [title]
-Fara de ajutor {author: {Daniel Cazacu}, {rcId: {145826}}
+Fara de ajutor {composer: {Daniel Cazacu}, {rcId: {145826}}
 
 [sequence]
 v1,c,v2,c,v3,c

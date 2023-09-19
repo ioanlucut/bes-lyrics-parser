@@ -1,5 +1,5 @@
 [title]
-Cine a fost in stare {author: {Anonim}, {rcId: {203319}}
+Cine a fost in stare {composer: {Anonim}, {rcId: {203319}}
 
 [sequence]
 v1,c,v2,c

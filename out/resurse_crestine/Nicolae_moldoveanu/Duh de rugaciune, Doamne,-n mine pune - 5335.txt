@@ -1,5 +1,5 @@
 [title]
-Duh de rugaciune doamne-n mine pune {author: {Nicolae Moldoveanu}, {rcId: {5335}}
+Duh de rugaciune doamne-n mine pune {composer: {Nicolae Moldoveanu}, {rcId: {5335}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

@@ -1,5 +1,5 @@
 [title]
-Cum marea-si aduce spre tarmul dorit {author: {Nicolae Moldoveanu}, {rcId: {244497}}
+Cum marea-si aduce spre tarmul dorit {composer: {Nicolae Moldoveanu}, {rcId: {244497}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

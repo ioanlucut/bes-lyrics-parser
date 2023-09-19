@@ -1,5 +1,5 @@
 [title]
-Dragostea-i din dumnezeu {author: {Puiu Chibici}, {rcId: {137975}}
+Dragostea-i din dumnezeu {composer: {Puiu Chibici}, {rcId: {137975}}
 
 [sequence]
 v1,v2,v3,v4,v5

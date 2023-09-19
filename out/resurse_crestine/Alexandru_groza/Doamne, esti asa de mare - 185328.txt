@@ -1,5 +1,5 @@
 [title]
-Doamne esti asa de mare {author: {Alexandru Groza}, {rcId: {185328}}
+Doamne esti asa de mare {composer: {Alexandru Groza}, {rcId: {185328}}
 
 [sequence]
 v1,c,v2,c,v3,c2

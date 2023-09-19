@@ -1,5 +1,5 @@
 [title]
-Eu nu pot trai fara tine {author: {Puiu Chibici}, {rcId: {187587}}
+Eu nu pot trai fara tine {composer: {Puiu Chibici}, {rcId: {187587}}
 
 [sequence]
 v1,c,v2,c,v3,c

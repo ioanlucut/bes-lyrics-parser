@@ -1,5 +1,5 @@
 [title]
-Miezul noptii {author: {Marius Livanu}, {rcId: {111829}}
+Miezul noptii {composer: {Marius Livanu}, {rcId: {111829}}
 
 [sequence]
 v1,c,v2,c

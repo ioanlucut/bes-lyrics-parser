@@ -1,5 +1,5 @@
 [title]
-Mi se bucura inima-n domnul {author: {Anonim}, {rcId: {3973}}
+Mi se bucura inima-n domnul {composer: {Anonim}, {rcId: {3973}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

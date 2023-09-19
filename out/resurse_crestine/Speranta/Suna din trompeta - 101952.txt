@@ -1,5 +1,5 @@
 [title]
-Suna din trompeta {author: {Speranța}, {rcId: {101952}}
+Suna din trompeta {composer: {Speranța}, {rcId: {101952}}
 
 [sequence]
 v1,c,v2,c

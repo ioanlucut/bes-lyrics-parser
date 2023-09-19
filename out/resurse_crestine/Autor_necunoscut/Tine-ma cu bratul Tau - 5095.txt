@@ -1,5 +1,5 @@
 [title]
-Tine-ma cu bratul tau {author: {Anonim}, {rcId: {5095}}
+Tine-ma cu bratul tau {composer: {Anonim}, {rcId: {5095}}
 
 [sequence]
 v1,c

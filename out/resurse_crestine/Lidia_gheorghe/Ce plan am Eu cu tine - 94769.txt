@@ -1,5 +1,5 @@
 [title]
-Ce plan am eu cu tine {author: {Lidia Gheorghe}, {rcId: {94769}}
+Ce plan am eu cu tine {composer: {Lidia Gheorghe}, {rcId: {94769}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

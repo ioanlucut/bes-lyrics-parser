@@ -1,5 +1,5 @@
 [title]
-Iehova elohim - "eternul creator" {author: {Marta Bergheaua}, {rcId: {61958}}
+Iehova elohim - "eternul creator" {composer: {Marta Bergheaua}, {rcId: {61958}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c

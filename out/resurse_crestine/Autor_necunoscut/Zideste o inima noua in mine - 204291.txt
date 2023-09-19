@@ -1,5 +1,5 @@
 [title]
-Zideste o inima noua in mine {author: {Anonim}, {rcId: {204291}}
+Zideste o inima noua in mine {composer: {Anonim}, {rcId: {204291}}
 
 [sequence]
 s,c,s2,c

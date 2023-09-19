@@ -1,5 +1,5 @@
 [title]
-Credeam candva prea bine ca totu-i un mister; dar stiu acum prea bine; nu e un mister {author: {Adi Gliga}, {rcId: {113078}}
+Credeam candva prea bine ca totu-i un mister; dar stiu acum prea bine; nu e un mister {composer: {Adi Gliga}, {rcId: {113078}}
 
 [sequence]
 v1,c,s,c,v2,c

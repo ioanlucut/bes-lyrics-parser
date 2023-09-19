@@ -1,5 +1,5 @@
 [title]
-Langa tine vreau {author: {Matt Redman}, {rcId: {5135}}
+Langa tine vreau {composer: {Matt Redman}, {rcId: {5135}}
 
 [sequence]
 v1,c

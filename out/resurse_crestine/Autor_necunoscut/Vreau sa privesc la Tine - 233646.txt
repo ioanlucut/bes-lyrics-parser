@@ -1,5 +1,5 @@
 [title]
-Vreau sa privesc la tine {author: {Autor necunoscut}, {rcId: {233646}}
+Vreau sa privesc la tine {composer: {Autor necunoscut}, {rcId: {233646}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Suntem in adunare-ai promis c-ai sa revii {author: {Biserica Pentricostala}, {rcId: {225851}}
+Suntem in adunare-ai promis c-ai sa revii {composer: {Biserica Pentricostala}, {rcId: {225851}}
 
 [sequence]
 v1,c,v2,c,v3,c

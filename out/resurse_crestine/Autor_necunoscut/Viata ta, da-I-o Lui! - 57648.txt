@@ -1,5 +1,5 @@
 [title]
-Viata ta da-i-o lui {author: {Anonim}, {rcId: {57648}}
+Viata ta da-i-o lui {composer: {Anonim}, {rcId: {57648}}
 
 [sequence]
 v1

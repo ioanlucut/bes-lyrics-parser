@@ -1,5 +1,5 @@
 [title]
-Iti multumesc {author: {Anonim}, {rcId: {4545}}
+Iti multumesc {composer: {Anonim}, {rcId: {4545}}
 
 [sequence]
 v1,c,v2,c,v3,c

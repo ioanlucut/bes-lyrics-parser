@@ -1,5 +1,5 @@
 [title]
-Cu ochii atintiti mereu spre tinta {author: {Cornel Sava}, {rcId: {211843}}
+Cu ochii atintiti mereu spre tinta {composer: {Cornel Sava}, {rcId: {211843}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

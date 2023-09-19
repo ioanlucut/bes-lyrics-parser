@@ -1,5 +1,5 @@
 [title]
-Nu aceasta e menirea noastra {author: {Marta Bergheaua}, {rcId: {92103}}
+Nu aceasta e menirea noastra {composer: {Marta Bergheaua}, {rcId: {92103}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Ma inchin si-n asta dimineata {author: {Nicolae Moldoveanu}, {rcId: {225836}}
+Ma inchin si-n asta dimineata {composer: {Nicolae Moldoveanu}, {rcId: {225836}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

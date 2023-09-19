@@ -1,5 +1,5 @@
 [title]
-Cu bucurie sa cantati {author: {Geoge F.Handel}, {rcId: {1873}}
+Cu bucurie sa cantati {composer: {Geoge F.Handel}, {rcId: {1873}}
 
 [sequence]
 v1,v2,v3

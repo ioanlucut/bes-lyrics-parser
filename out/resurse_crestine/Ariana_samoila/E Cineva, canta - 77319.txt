@@ -1,5 +1,5 @@
 [title]
-E cineva canta {author: {Ariana Samoila}, {rcId: {77319}}
+E cineva canta {composer: {Ariana Samoila}, {rcId: {77319}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Doamne iti cant astazi marire {author: {Anonim}, {rcId: {154809}}
+Doamne iti cant astazi marire {composer: {Anonim}, {rcId: {154809}}
 
 [sequence]
 v1,c,v2,c2

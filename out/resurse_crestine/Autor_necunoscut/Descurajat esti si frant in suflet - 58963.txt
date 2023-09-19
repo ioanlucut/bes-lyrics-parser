@@ -1,5 +1,5 @@
 [title]
-Descurajat esti si frant in suflet {author: {Anonim, Traducere RO}, {rcId: {58963}}
+Descurajat esti si frant in suflet {composer: {Anonim, Traducere RO}, {rcId: {58963}}
 
 [sequence]
 v1,c,v2,c

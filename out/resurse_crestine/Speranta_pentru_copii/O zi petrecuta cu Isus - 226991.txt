@@ -1,5 +1,5 @@
 [title]
-O zi petrecuta cu isus {author: {Speranța pentru copii}, {rcId: {226991}}
+O zi petrecuta cu isus {composer: {Speranța pentru copii}, {rcId: {226991}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Te-a muscat pacatul {author: {Nicolae Moldoveanu}, {rcId: {226392}}
+Te-a muscat pacatul {composer: {Nicolae Moldoveanu}, {rcId: {226392}}
 
 [sequence]
 v1,v2,v3

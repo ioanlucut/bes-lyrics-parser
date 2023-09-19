@@ -1,5 +1,5 @@
 [title]
-Deschizi drumuri noi {author: {Dincolo De Ziduri}, {rcId: {171962}}
+Deschizi drumuri noi {composer: {Dincolo De Ziduri}, {rcId: {171962}}
 
 [sequence]
 v1,c,v2,c,c

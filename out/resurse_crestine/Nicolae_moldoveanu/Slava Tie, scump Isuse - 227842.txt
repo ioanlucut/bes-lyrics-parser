@@ -1,5 +1,5 @@
 [title]
-Slava tie scump isuse {author: {Nicolae Moldoveanu}, {rcId: {227842}}
+Slava tie scump isuse {composer: {Nicolae Moldoveanu}, {rcId: {227842}}
 
 [sequence]
 v1,v2,v3

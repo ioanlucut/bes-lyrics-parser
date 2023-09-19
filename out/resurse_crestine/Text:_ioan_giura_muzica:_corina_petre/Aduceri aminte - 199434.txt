@@ -1,5 +1,5 @@
 [title]
-Aduceri aminte {author: {Text: Ioan Giura, Muzica: Corina Petre}, {rcId: {199434}}
+Aduceri aminte {composer: {Text: Ioan Giura, Muzica: Corina Petre}, {rcId: {199434}}
 
 [sequence]
 v1,c,v2,c,v3,c

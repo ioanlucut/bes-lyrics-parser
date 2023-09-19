@@ -1,5 +1,5 @@
 [title]
-Pleaca-ti genunchii {author: {Anonim}, {rcId: {1520}}
+Pleaca-ti genunchii {composer: {Anonim}, {rcId: {1520}}
 
 [sequence]
 v1,c,v2,c

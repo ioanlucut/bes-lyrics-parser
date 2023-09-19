@@ -1,5 +1,5 @@
 [title]
-Inca o zi {author: {Carmen Prodan}, {rcId: {169678}}
+Inca o zi {composer: {Carmen Prodan}, {rcId: {169678}}
 
 [sequence]
 v1,c,v2,c,v3,c

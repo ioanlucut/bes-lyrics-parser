@@ -1,5 +1,5 @@
 [title]
-Reconectare {author: {Luiza Cotea}, {rcId: {213163}}
+Reconectare {composer: {Luiza Cotea}, {rcId: {213163}}
 
 [sequence]
 v1,c,v2,c,e

@@ -1,5 +1,5 @@
 [title]
-Un scop etern {author: {Daniel Preda}, {rcId: {174127}}
+Un scop etern {composer: {Daniel Preda}, {rcId: {174127}}
 
 [sequence]
 v1,c,v2,c,e,c

@@ -1,5 +1,5 @@
 [title]
-In partasia dintre frati in domnul {author: {Anonim}, {rcId: {3807}}
+In partasia dintre frati in domnul {composer: {Anonim}, {rcId: {3807}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Iata s-a nascut {author: {Messis}, {rcId: {237516}}
+Iata s-a nascut {composer: {Messis}, {rcId: {237516}}
 
 [sequence]
 v1,c,v2,c,e

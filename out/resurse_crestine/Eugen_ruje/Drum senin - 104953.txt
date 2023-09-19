@@ -1,5 +1,5 @@
 [title]
-Drum senin {author: {Eugen Ruje}, {rcId: {104953}}
+Drum senin {composer: {Eugen Ruje}, {rcId: {104953}}
 
 [sequence]
 v1,c,v2,c

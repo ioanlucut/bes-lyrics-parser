@@ -1,5 +1,5 @@
 [title]
-Domnul s-a nascut {author: {Mircea}, {rcId: {6536}}
+Domnul s-a nascut {composer: {Mircea}, {rcId: {6536}}
 
 [sequence]
 v1,v2,c,v3,c,e,v4,c,v5,c,v6,c

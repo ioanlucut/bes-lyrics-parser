@@ -1,5 +1,5 @@
 [title]
-N-am stiut {author: {Adriana Stoica}, {rcId: {79249}}
+N-am stiut {composer: {Adriana Stoica}, {rcId: {79249}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c2

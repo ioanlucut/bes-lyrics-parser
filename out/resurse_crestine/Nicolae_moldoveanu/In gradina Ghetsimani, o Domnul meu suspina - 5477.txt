@@ -1,5 +1,5 @@
 [title]
-In gradina ghetsimani o domnul meu suspina {author: {Nicolae Moldoveanu}, {rcId: {5477}}
+In gradina ghetsimani o domnul meu suspina {composer: {Nicolae Moldoveanu}, {rcId: {5477}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

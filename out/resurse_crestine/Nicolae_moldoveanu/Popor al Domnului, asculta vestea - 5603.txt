@@ -1,5 +1,5 @@
 [title]
-Popor al domnului asculta vestea {author: {Nicolae Moldoveanu}, {rcId: {5603}}
+Popor al domnului asculta vestea {composer: {Nicolae Moldoveanu}, {rcId: {5603}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

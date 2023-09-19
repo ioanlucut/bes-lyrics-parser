@@ -1,5 +1,5 @@
 [title]
-Din cate vezi {author: {Nicolae Moldoveanu}, {rcId: {235627}}
+Din cate vezi {composer: {Nicolae Moldoveanu}, {rcId: {235627}}
 
 [sequence]
 v1,v2,v3,v4

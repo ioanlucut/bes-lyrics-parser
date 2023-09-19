@@ -1,5 +1,5 @@
 [title]
-Mai ai si tu o sansa {author: {Vali Pentea Sava}, {rcId: {84734}}
+Mai ai si tu o sansa {composer: {Vali Pentea Sava}, {rcId: {84734}}
 
 [sequence]
 v1,v2,v3,v4,v5,s

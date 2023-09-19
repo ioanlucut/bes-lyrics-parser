@@ -1,5 +1,5 @@
 [title]
-Doar pentru tine cant {author: {Rafael Dragomir}, {rcId: {168675}}
+Doar pentru tine cant {composer: {Rafael Dragomir}, {rcId: {168675}}
 
 [sequence]
 v1,c,v2,c,v3,c

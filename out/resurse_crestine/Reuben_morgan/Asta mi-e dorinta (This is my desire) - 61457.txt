@@ -1,5 +1,5 @@
 [title]
-Asta mi-e dorinta (this is my desire) {author: {Reuben Morgan, Traducere RO}, {rcId: {61457}}
+Asta mi-e dorinta (this is my desire) {composer: {Reuben Morgan, Traducere RO}, {rcId: {61457}}
 
 [sequence]
 v1,c

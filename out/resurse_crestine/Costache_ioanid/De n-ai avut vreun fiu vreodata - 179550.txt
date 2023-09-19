@@ -1,5 +1,5 @@
 [title]
-De n-ai avut vreun fiu vreodata {author: {Costache Ioanid}, {rcId: {179550}}
+De n-ai avut vreun fiu vreodata {composer: {Costache Ioanid}, {rcId: {179550}}
 
 [sequence]
 v1,v2,v3,v4

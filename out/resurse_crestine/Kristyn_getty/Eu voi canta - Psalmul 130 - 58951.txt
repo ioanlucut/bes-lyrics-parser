@@ -1,5 +1,5 @@
 [title]
-Eu voi canta - psalmul {author: {Kristyn Getty, Traducere RO}, {rcId: {58951}}
+Eu voi canta - psalmul {composer: {Kristyn Getty, Traducere RO}, {rcId: {58951}}
 
 [sequence]
 v1,c,v2,b,c

@@ -1,5 +1,5 @@
 [title]
-Numai la tine gasesc iubire {author: {Diana Scridon}, {rcId: {202310}}
+Numai la tine gasesc iubire {composer: {Diana Scridon}, {rcId: {202310}}
 
 [sequence]
 s,e,s2,b

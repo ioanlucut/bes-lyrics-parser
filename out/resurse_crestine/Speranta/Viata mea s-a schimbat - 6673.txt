@@ -1,5 +1,5 @@
 [title]
-Viata mea s-a schimbat {author: {Speranța}, {rcId: {6673}}
+Viata mea s-a schimbat {composer: {Speranța}, {rcId: {6673}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Cand seninul mi se stinge {author: {Anonim}, {rcId: {74164}}
+Cand seninul mi se stinge {composer: {Anonim}, {rcId: {74164}}
 
 [sequence]
 v1,v2,v3,v4

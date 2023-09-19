@@ -1,5 +1,5 @@
 [title]
-Azi isus eu vin {author: {Anonim}, {rcId: {5459}}
+Azi isus eu vin {composer: {Anonim}, {rcId: {5459}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Vreau sa-ti cant o isuse iubit {author: {Anonim}, {rcId: {59851}}
+Vreau sa-ti cant o isuse iubit {composer: {Anonim}, {rcId: {59851}}
 
 [sequence]
 v1,v2,v3,v4,v5

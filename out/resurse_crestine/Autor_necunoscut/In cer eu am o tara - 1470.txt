@@ -1,5 +1,5 @@
 [title]
-In cer eu am o tara {author: {Anonim}, {rcId: {1470}}
+In cer eu am o tara {composer: {Anonim}, {rcId: {1470}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

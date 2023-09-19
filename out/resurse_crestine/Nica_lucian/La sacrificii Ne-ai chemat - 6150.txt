@@ -1,5 +1,5 @@
 [title]
-La sacrificii ne-ai chemat {author: {Nica Lucian}, {rcId: {6150}}
+La sacrificii ne-ai chemat {composer: {Nica Lucian}, {rcId: {6150}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

@@ -1,5 +1,5 @@
 [title]
-Ochii tai blanzi domnul meu {author: {Nicolae Moldoveanu}, {rcId: {189863}}
+Ochii tai blanzi domnul meu {composer: {Nicolae Moldoveanu}, {rcId: {189863}}
 
 [sequence]
 v1,v2,v3

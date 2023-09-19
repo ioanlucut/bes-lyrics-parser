@@ -1,5 +1,5 @@
 [title]
-Da eu cred in isus {author: {Anonim}, {rcId: {4874}}
+Da eu cred in isus {composer: {Anonim}, {rcId: {4874}}
 
 [sequence]
 v1,c,v2,c

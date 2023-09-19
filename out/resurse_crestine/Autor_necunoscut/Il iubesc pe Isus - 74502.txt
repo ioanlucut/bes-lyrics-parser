@@ -1,5 +1,5 @@
 [title]
-Il iubesc pe isus {author: {Anonim}, {rcId: {74502}}
+Il iubesc pe isus {composer: {Anonim}, {rcId: {74502}}
 
 [sequence]
 v1,v2

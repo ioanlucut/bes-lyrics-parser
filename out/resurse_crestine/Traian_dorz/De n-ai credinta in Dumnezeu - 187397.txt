@@ -1,5 +1,5 @@
 [title]
-De n-ai credinta in dumnezeu {author: {Traian  Dorz}, {rcId: {187397}}
+De n-ai credinta in dumnezeu {composer: {Traian  Dorz}, {rcId: {187397}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

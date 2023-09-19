@@ -1,5 +1,5 @@
 [title]
-Am auzit ca ai murit pe-o cruce {author: {Daniel Dinescu}, {rcId: {79492}}
+Am auzit ca ai murit pe-o cruce {composer: {Daniel Dinescu}, {rcId: {79492}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Suntem in lume calatori mai calatori ca norii {author: {Anonim}, {rcId: {74045}}
+Suntem in lume calatori mai calatori ca norii {composer: {Anonim}, {rcId: {74045}}
 
 [sequence]
 v1,c,v2,c,v3,c

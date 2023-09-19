@@ -1,5 +1,5 @@
 [title]
-Si noi fiind inconjurati {author: {Iacob Petrașcu}, {rcId: {202663}}
+Si noi fiind inconjurati {composer: {Iacob Petrașcu}, {rcId: {202663}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

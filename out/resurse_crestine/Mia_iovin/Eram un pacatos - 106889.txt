@@ -1,5 +1,5 @@
 [title]
-Eram un pacatos {author: {Mia Iovin}, {rcId: {106889}}
+Eram un pacatos {composer: {Mia Iovin}, {rcId: {106889}}
 
 [sequence]
 v1,c,v2,c,v3,c

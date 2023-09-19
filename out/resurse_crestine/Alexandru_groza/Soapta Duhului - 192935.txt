@@ -1,5 +1,5 @@
 [title]
-Soapta duhului {author: {Alexandru Groza}, {rcId: {192935}}
+Soapta duhului {composer: {Alexandru Groza}, {rcId: {192935}}
 
 [sequence]
 v1,c,v2,c

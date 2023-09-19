@@ -1,5 +1,5 @@
 [title]
-Sfant e domnul {author: {Loredana Culea}, {rcId: {240013}}
+Sfant e domnul {composer: {Loredana Culea}, {rcId: {240013}}
 
 [sequence]
 v1,c,v2,b,c

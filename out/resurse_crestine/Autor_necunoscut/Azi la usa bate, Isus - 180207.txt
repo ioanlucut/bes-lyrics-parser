@@ -1,5 +1,5 @@
 [title]
-Azi la usa bate isus {author: {Anonim}, {rcId: {180207}}
+Azi la usa bate isus {composer: {Anonim}, {rcId: {180207}}
 
 [sequence]
 v1,c,v2,c

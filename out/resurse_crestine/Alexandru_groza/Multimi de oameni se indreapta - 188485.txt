@@ -1,5 +1,5 @@
 [title]
-Multimi de oameni se indreapta {author: {Alexandru Groza}, {rcId: {188485}}
+Multimi de oameni se indreapta {composer: {Alexandru Groza}, {rcId: {188485}}
 
 [sequence]
 v1,c,c,v2,c

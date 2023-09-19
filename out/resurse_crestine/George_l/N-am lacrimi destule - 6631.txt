@@ -1,5 +1,5 @@
 [title]
-N-am lacrimi destule {author: {George L}, {rcId: {6631}}
+N-am lacrimi destule {composer: {George L}, {rcId: {6631}}
 
 [sequence]
 v1,v2,v3,v4,c

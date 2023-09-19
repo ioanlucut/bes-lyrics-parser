@@ -1,5 +1,5 @@
 [title]
-Azi este timpul (now is the time) {author: {Jeanie Vee Alcorn, Traducere RO}, {rcId: {123088}}
+Azi este timpul (now is the time) {composer: {Jeanie Vee Alcorn, Traducere RO}, {rcId: {123088}}
 
 [sequence]
 v1,v2,c,s,c

@@ -1,5 +1,5 @@
 [title]
-Cand in noapte m-ai atins tu {author: {Anonim}, {rcId: {6892}}
+Cand in noapte m-ai atins tu {composer: {Anonim}, {rcId: {6892}}
 
 [sequence]
 v1,c,v2,c

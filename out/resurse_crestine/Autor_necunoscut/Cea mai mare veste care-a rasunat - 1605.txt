@@ -1,5 +1,5 @@
 [title]
-Cea mai mare veste care-a rasunat {author: {Anonim}, {rcId: {1605}}
+Cea mai mare veste care-a rasunat {composer: {Anonim}, {rcId: {1605}}
 
 [sequence]
 v1,c,v2,c

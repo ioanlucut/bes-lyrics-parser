@@ -1,5 +1,5 @@
 [title]
-Meriti lauda {author: {Gabriel Gorcea}, {rcId: {244445}}
+Meriti lauda {composer: {Gabriel Gorcea}, {rcId: {244445}}
 
 [sequence]
 v1,c,v2,c,e

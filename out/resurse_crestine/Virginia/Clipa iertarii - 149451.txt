@@ -1,5 +1,5 @@
 [title]
-Clipa iertarii {author: {Virginia}, {rcId: {149451}}
+Clipa iertarii {composer: {Virginia}, {rcId: {149451}}
 
 [sequence]
 v1,c,v2,c,v3,c

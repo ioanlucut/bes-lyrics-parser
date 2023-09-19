@@ -1,5 +1,5 @@
 [title]
-Daca stim prin sclipiri de credinta {author: {Nicolae Moldoveanu}, {rcId: {241162}}
+Daca stim prin sclipiri de credinta {composer: {Nicolae Moldoveanu}, {rcId: {241162}}
 
 [sequence]
 v1,v2,v3

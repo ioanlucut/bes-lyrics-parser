@@ -1,5 +1,5 @@
 [title]
-Doamne esti bun {author: {Decean}, {rcId: {6929}}
+Doamne esti bun {composer: {Decean}, {rcId: {6929}}
 
 [sequence]
 v1,c,v2,c

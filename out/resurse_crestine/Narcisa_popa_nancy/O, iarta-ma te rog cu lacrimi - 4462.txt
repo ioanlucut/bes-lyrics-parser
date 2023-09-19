@@ -1,5 +1,5 @@
 [title]
-O iarta-ma te rog cu lacrimi {author: {narcisa popa nancy}, {rcId: {4462}}
+O iarta-ma te rog cu lacrimi {composer: {narcisa popa nancy}, {rcId: {4462}}
 
 [sequence]
 v1,c,v2,c

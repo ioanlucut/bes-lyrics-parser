@@ -1,5 +1,5 @@
 [title]
-Esti dumnezeu {author: {Asociatia MGM}, {rcId: {240036}}
+Esti dumnezeu {composer: {Asociatia MGM}, {rcId: {240036}}
 
 [sequence]
 v1,v2,v3,v4

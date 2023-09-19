@@ -1,5 +1,5 @@
 [title]
-Spune-mi te rog unde puteam s-alerg {author: {Anonim}, {rcId: {74402}}
+Spune-mi te rog unde puteam s-alerg {composer: {Anonim}, {rcId: {74402}}
 
 [sequence]
 v1,c,v2,c,v3,c

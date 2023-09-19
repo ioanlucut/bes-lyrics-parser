@@ -1,5 +1,5 @@
 [title]
-Prin credinta noi pricepem {author: {Speranța}, {rcId: {101908}}
+Prin credinta noi pricepem {composer: {Speranța}, {rcId: {101908}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

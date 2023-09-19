@@ -1,5 +1,5 @@
 [title]
-Cand privesc spre locul tau cel sfant {author: {Anonim}, {rcId: {4869}}
+Cand privesc spre locul tau cel sfant {composer: {Anonim}, {rcId: {4869}}
 
 [sequence]
 v1,c

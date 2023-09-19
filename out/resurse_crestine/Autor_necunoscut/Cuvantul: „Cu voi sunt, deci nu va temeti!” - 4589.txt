@@ -1,5 +1,5 @@
 [title]
-Cuvantul: "cu voi sunt deci nu va temeti" {author: {Anonim}, {rcId: {4589}}
+Cuvantul: "cu voi sunt deci nu va temeti" {composer: {Anonim}, {rcId: {4589}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Focul tau isuse {author: {Anonim}, {rcId: {85264}}
+Focul tau isuse {composer: {Anonim}, {rcId: {85264}}
 
 [sequence]
 v1,c,v2,c,v3,c

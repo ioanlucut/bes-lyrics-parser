@@ -1,5 +1,5 @@
 [title]
-Ce sunt eu; vreau sa alerg {author: {Adi Gliga}, {rcId: {113148}}
+Ce sunt eu; vreau sa alerg {composer: {Adi Gliga}, {rcId: {113148}}
 
 [sequence]
 v1,c,v2,c

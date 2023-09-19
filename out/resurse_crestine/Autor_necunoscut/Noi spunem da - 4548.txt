@@ -1,5 +1,5 @@
 [title]
-Noi spunem da {author: {Anonim}, {rcId: {4548}}
+Noi spunem da {composer: {Anonim}, {rcId: {4548}}
 
 [sequence]
 v1,c,v2,c

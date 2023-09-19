@@ -1,5 +1,5 @@
 [title]
-Poti avea bucurii in inima ta {author: {Nicolae Moldoveanu}, {rcId: {5958}}
+Poti avea bucurii in inima ta {composer: {Nicolae Moldoveanu}, {rcId: {5958}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

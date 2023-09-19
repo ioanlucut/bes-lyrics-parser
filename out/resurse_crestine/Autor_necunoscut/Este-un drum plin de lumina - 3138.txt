@@ -1,5 +1,5 @@
 [title]
-Este-un drum plin de lumina {author: {Anonim}, {rcId: {3138}}
+Este-un drum plin de lumina {composer: {Anonim}, {rcId: {3138}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

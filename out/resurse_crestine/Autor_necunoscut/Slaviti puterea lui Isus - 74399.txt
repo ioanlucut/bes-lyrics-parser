@@ -1,5 +1,5 @@
 [title]
-Slaviti puterea lui isus {author: {Anonim}, {rcId: {74399}}
+Slaviti puterea lui isus {composer: {Anonim}, {rcId: {74399}}
 
 [sequence]
 v1,v2,v3

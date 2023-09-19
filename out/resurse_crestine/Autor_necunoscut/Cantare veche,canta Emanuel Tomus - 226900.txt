@@ -1,5 +1,5 @@
 [title]
-Cantare vechecanta emanuel tomus {author: {Anonim}, {rcId: {226900}}
+Cantare vechecanta emanuel tomus {composer: {Anonim}, {rcId: {226900}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Fierul din apa {author: {Nicu Wagner}, {rcId: {61702}}
+Fierul din apa {composer: {Nicu Wagner}, {rcId: {61702}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

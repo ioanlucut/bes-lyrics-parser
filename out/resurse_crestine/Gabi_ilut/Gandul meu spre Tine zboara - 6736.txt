@@ -1,5 +1,5 @@
 [title]
-Gandul meu spre tine zboara {author: {Gabi Ilut}, {rcId: {6736}}
+Gandul meu spre tine zboara {composer: {Gabi Ilut}, {rcId: {6736}}
 
 [sequence]
 v1,c,v2,c,v3,c

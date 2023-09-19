@@ -1,5 +1,5 @@
 [title]
-Sfant este domnul {author: {Maria Șimon}, {rcId: {205474}}
+Sfant este domnul {composer: {Maria Șimon}, {rcId: {205474}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

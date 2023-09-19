@@ -1,5 +1,5 @@
 [title]
-Te voi slavi {author: {Speranța}, {rcId: {111360}}
+Te voi slavi {composer: {Speranța}, {rcId: {111360}}
 
 [sequence]
 v1,c

@@ -1,5 +1,5 @@
 [title]
-Poti simti cum muntii tremura? {author: {Anonim}, {rcId: {62696}}
+Poti simti cum muntii tremura? {composer: {Anonim}, {rcId: {62696}}
 
 [sequence]
 v1,c2,v2,c2

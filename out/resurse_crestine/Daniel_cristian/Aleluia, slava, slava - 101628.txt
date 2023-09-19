@@ -1,5 +1,5 @@
 [title]
-Aleluia slava slava {author: {Daniel Cristian}, {rcId: {101628}}
+Aleluia slava slava {composer: {Daniel Cristian}, {rcId: {101628}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

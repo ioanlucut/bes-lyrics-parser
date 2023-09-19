@@ -1,5 +1,5 @@
 [title]
-Ganduri si rugaciune {author: {Alin și Emima Timofte}, {rcId: {101859}}
+Ganduri si rugaciune {composer: {Alin și Emima Timofte}, {rcId: {101859}}
 
 [sequence]
 v1,v2,c,v3,c

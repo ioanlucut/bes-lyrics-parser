@@ -1,5 +1,5 @@
 [title]
-Isuse rege minunat {author: {Anonim}, {rcId: {1257}}
+Isuse rege minunat {composer: {Anonim}, {rcId: {1257}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

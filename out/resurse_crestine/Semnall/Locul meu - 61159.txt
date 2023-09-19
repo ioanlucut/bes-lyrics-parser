@@ -1,5 +1,5 @@
 [title]
-Locul meu {author: {Semnall}, {rcId: {61159}}
+Locul meu {composer: {Semnall}, {rcId: {61159}}
 
 [sequence]
 v1,c,v2,c

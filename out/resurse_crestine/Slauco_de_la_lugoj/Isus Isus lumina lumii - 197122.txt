@@ -1,5 +1,5 @@
 [title]
-Isus isus lumina lumii {author: {Slauco de la Lugoj}, {rcId: {197122}}
+Isus isus lumina lumii {composer: {Slauco de la Lugoj}, {rcId: {197122}}
 
 [sequence]
 v1,c,v2,c,v3,c

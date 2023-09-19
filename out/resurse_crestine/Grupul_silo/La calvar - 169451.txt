@@ -1,5 +1,5 @@
 [title]
-La calvar {author: {Grupul Silo}, {rcId: {169451}}
+La calvar {composer: {Grupul Silo}, {rcId: {169451}}
 
 [sequence]
 v1,c,v2,c

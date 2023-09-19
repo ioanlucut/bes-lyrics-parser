@@ -1,5 +1,5 @@
 [title]
-Esti langa mine {author: {Rafael Mihai}, {rcId: {167301}}
+Esti langa mine {composer: {Rafael Mihai}, {rcId: {167301}}
 
 [sequence]
 v1,c,v2,c2,e,c2

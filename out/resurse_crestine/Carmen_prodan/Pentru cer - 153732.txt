@@ -1,5 +1,5 @@
 [title]
-Pentru cer {author: {Carmen Prodan}, {rcId: {153732}}
+Pentru cer {composer: {Carmen Prodan}, {rcId: {153732}}
 
 [sequence]
 v1,c,v2,c,v3,c

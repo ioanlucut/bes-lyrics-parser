@@ -1,5 +1,5 @@
 [title]
-La-acele tarmuri {author: {F.Venter}, {rcId: {1927}}
+La-acele tarmuri {composer: {F.Venter}, {rcId: {1927}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-In anul ce-a trecut {author: {Dorin Mihai}, {rcId: {224057}}
+In anul ce-a trecut {composer: {Dorin Mihai}, {rcId: {224057}}
 
 [sequence]
 v1,c,v2,c

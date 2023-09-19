@@ -1,5 +1,5 @@
 [title]
-Ma-ntorc din nou la tin isuse {author: {Mariana Someșan}, {rcId: {199050}}
+Ma-ntorc din nou la tin isuse {composer: {Mariana Someșan}, {rcId: {199050}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

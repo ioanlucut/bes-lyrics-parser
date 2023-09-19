@@ -1,5 +1,5 @@
 [title]
-Peste-a cerului fereastra {author: {Nicolae Moldoveanu}, {rcId: {241184}}
+Peste-a cerului fereastra {composer: {Nicolae Moldoveanu}, {rcId: {241184}}
 
 [sequence]
 v1,v2,v3

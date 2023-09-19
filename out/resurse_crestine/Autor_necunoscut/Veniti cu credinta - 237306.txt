@@ -1,5 +1,5 @@
 [title]
-Veniti cu credinta {author: {Anonim}, {rcId: {237306}}
+Veniti cu credinta {composer: {Anonim}, {rcId: {237306}}
 
 [sequence]
 v1,c,v2,c,v3,c

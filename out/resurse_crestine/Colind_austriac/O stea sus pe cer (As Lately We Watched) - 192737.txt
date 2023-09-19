@@ -1,5 +1,5 @@
 [title]
-O stea sus pe cer (as lately we watched) {author: {Colind austriac, Traducere RO}, {rcId: {192737}}
+O stea sus pe cer (as lately we watched) {composer: {Colind austriac, Traducere RO}, {rcId: {192737}}
 
 [sequence]
 v1,v2,v3,v4,s

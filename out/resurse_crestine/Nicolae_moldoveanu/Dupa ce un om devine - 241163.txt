@@ -1,5 +1,5 @@
 [title]
-Dupa ce un om devine {author: {Nicolae Moldoveanu}, {rcId: {241163}}
+Dupa ce un om devine {composer: {Nicolae Moldoveanu}, {rcId: {241163}}
 
 [sequence]
 v1,v2,v3,v4

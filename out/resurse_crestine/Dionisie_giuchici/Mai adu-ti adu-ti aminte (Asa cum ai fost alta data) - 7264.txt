@@ -1,5 +1,5 @@
 [title]
-Mai adu-ti adu-ti aminte (asa cum ai fost alta data) {author: {Dionisie Giuchici}, {rcId: {7264}}
+Mai adu-ti adu-ti aminte (asa cum ai fost alta data) {composer: {Dionisie Giuchici}, {rcId: {7264}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

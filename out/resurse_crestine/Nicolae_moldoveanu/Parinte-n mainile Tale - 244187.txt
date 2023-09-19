@@ -1,5 +1,5 @@
 [title]
-Parinte-n mainile tale {author: {Nicolae Moldoveanu}, {rcId: {244187}}
+Parinte-n mainile tale {composer: {Nicolae Moldoveanu}, {rcId: {244187}}
 
 [sequence]
 v1,v2,v3,v4

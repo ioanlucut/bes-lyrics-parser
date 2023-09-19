@@ -1,5 +1,5 @@
 [title]
-In fiecare dimineata doamne-ti innoiesti {author: {Anonim}, {rcId: {177303}}
+In fiecare dimineata doamne-ti innoiesti {composer: {Anonim}, {rcId: {177303}}
 
 [sequence]
 v1,c,v2,c,v3,c

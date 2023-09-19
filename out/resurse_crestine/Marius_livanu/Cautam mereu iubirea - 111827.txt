@@ -1,5 +1,5 @@
 [title]
-Cautam mereu iubirea {author: {Marius Livanu}, {rcId: {111827}}
+Cautam mereu iubirea {composer: {Marius Livanu}, {rcId: {111827}}
 
 [sequence]
 v1,c,v2,c

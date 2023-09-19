@@ -1,5 +1,5 @@
 [title]
-Cu ce gand {author: {Nicolae Moldoveanu}, {rcId: {244173}}
+Cu ce gand {composer: {Nicolae Moldoveanu}, {rcId: {244173}}
 
 [sequence]
 v1,v2,v3,v4

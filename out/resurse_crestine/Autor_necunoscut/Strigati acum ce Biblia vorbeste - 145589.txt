@@ -1,5 +1,5 @@
 [title]
-Strigati acum ce biblia vorbeste {author: {Anonim}, {rcId: {145589}}
+Strigati acum ce biblia vorbeste {composer: {Anonim}, {rcId: {145589}}
 
 [sequence]
 v1,v2,v3,v4

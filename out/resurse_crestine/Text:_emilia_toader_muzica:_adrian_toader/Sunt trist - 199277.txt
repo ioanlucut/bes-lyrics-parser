@@ -1,5 +1,5 @@
 [title]
-Sunt trist {author: {Text: Emilia Toader, Muzica: Adrian Toader}, {rcId: {199277}}
+Sunt trist {composer: {Text: Emilia Toader, Muzica: Adrian Toader}, {rcId: {199277}}
 
 [sequence]
 v1,c,v2,c

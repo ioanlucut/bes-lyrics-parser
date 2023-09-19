@@ -1,5 +1,5 @@
 [title]
-Vreau sa adun acele comori {author: {Ana Haz}, {rcId: {111813}}
+Vreau sa adun acele comori {composer: {Ana Haz}, {rcId: {111813}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

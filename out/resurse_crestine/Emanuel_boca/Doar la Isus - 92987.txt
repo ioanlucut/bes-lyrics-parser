@@ -1,5 +1,5 @@
 [title]
-Doar la isus {author: {Emanuel Boca}, {rcId: {92987}}
+Doar la isus {composer: {Emanuel Boca}, {rcId: {92987}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

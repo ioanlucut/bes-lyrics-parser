@@ -1,5 +1,5 @@
 [title]
-Maria te-ai gandit {author: {Cătălin și Ramona Lup}, {rcId: {78560}}
+Maria te-ai gandit {composer: {Cătălin și Ramona Lup}, {rcId: {78560}}
 
 [sequence]
 v1,v2,b,v3

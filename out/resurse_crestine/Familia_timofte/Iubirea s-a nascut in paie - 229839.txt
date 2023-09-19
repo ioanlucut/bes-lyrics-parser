@@ -1,5 +1,5 @@
 [title]
-Iubirea s-a nascut in paie {author: {Familia Timofte}, {rcId: {229839}}
+Iubirea s-a nascut in paie {composer: {Familia Timofte}, {rcId: {229839}}
 
 [sequence]
 v1,c,v2,c,v3,c

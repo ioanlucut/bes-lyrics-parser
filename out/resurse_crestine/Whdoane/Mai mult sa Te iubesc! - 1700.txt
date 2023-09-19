@@ -1,5 +1,5 @@
 [title]
-Mai mult sa te iubesc {author: {W.H.Doane}, {rcId: {1700}}
+Mai mult sa te iubesc {composer: {W.H.Doane}, {rcId: {1700}}
 
 [sequence]
 v1,c,v2,c,v3,c

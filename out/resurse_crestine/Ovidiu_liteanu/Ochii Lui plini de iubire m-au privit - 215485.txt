@@ -1,5 +1,5 @@
 [title]
-Ochii lui plini de iubire m-au privit {author: {Ovidiu Liteanu}, {rcId: {215485}}
+Ochii lui plini de iubire m-au privit {composer: {Ovidiu Liteanu}, {rcId: {215485}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Avem un tata sus in cer {author: {Anonim}, {rcId: {227921}}
+Avem un tata sus in cer {composer: {Anonim}, {rcId: {227921}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

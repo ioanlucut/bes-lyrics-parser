@@ -1,5 +1,5 @@
 [title]
-Ingenuncheat de triste timpuri {author: {Iulia Contis}, {rcId: {240396}}
+Ingenuncheat de triste timpuri {composer: {Iulia Contis}, {rcId: {240396}}
 
 [sequence]
 v1,c,v2,c

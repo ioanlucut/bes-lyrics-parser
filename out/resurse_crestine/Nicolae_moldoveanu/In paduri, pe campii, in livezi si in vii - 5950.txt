@@ -1,5 +1,5 @@
 [title]
-In paduri pe campii in livezi si in vii {author: {Nicolae Moldoveanu}, {rcId: {5950}}
+In paduri pe campii in livezi si in vii {composer: {Nicolae Moldoveanu}, {rcId: {5950}}
 
 [sequence]
 v1,c,v2,c

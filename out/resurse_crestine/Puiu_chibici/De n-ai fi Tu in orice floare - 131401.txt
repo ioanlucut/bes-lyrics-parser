@@ -1,5 +1,5 @@
 [title]
-De n-ai fi tu in orice floare {author: {Puiu Chibici}, {rcId: {131401}}
+De n-ai fi tu in orice floare {composer: {Puiu Chibici}, {rcId: {131401}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

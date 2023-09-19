@@ -1,5 +1,5 @@
 [title]
-Ce mare har {author: {Grup Emanuel}, {rcId: {7135}}
+Ce mare har {composer: {Grup Emanuel}, {rcId: {7135}}
 
 [sequence]
 v1,v2,v3,v4,v5

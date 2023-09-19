@@ -1,5 +1,5 @@
 [title]
-Vreau sa iti multumesc pentru harul tau ceresc {author: {Sandu Henry Ionut}, {rcId: {182811}}
+Vreau sa iti multumesc pentru harul tau ceresc {composer: {Sandu Henry Ionut}, {rcId: {182811}}
 
 [sequence]
 v1,c,v2,c,v3,c

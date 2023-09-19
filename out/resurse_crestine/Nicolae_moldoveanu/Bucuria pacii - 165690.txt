@@ -1,5 +1,5 @@
 [title]
-Bucuria pacii {author: {Nicolae Moldoveanu}, {rcId: {165690}}
+Bucuria pacii {composer: {Nicolae Moldoveanu}, {rcId: {165690}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Te-am gasit nu te las {author: {Anonim}, {rcId: {65007}}
+Te-am gasit nu te las {composer: {Anonim}, {rcId: {65007}}
 
 [sequence]
 v1,c,v2,c

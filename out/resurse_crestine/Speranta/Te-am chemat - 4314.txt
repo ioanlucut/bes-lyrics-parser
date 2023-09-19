@@ -1,5 +1,5 @@
 [title]
-Te-am chemat {author: {Speranța}, {rcId: {4314}}
+Te-am chemat {composer: {Speranța}, {rcId: {4314}}
 
 [sequence]
 v1,c,v2,c,e

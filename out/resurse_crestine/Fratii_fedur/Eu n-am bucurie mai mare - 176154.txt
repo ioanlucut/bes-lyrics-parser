@@ -1,5 +1,5 @@
 [title]
-Eu n-am bucurie mai mare {author: {Frații Fedur}, {rcId: {176154}}
+Eu n-am bucurie mai mare {composer: {Frații Fedur}, {rcId: {176154}}
 
 [sequence]
 v1,c,v2,c

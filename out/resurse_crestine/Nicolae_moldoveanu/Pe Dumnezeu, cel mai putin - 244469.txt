@@ -1,5 +1,5 @@
 [title]
-Pe dumnezeu cel mai putin {author: {Nicolae Moldoveanu}, {rcId: {244469}}
+Pe dumnezeu cel mai putin {composer: {Nicolae Moldoveanu}, {rcId: {244469}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Mai avem putin de mers {author: {Nicolae Moldoveanu}, {rcId: {4587}}
+Mai avem putin de mers {composer: {Nicolae Moldoveanu}, {rcId: {4587}}
 
 [sequence]
 v1,v2,v3,v4

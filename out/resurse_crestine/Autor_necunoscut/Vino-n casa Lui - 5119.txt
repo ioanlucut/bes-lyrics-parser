@@ -1,5 +1,5 @@
 [title]
-Vino-n casa lui {author: {Anonim}, {rcId: {5119}}
+Vino-n casa lui {composer: {Anonim}, {rcId: {5119}}
 
 [sequence]
 v1,v2,v3

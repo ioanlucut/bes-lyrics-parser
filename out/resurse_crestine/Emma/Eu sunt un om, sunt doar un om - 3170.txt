@@ -1,5 +1,5 @@
 [title]
-Eu sunt un om sunt doar un om {author: {Emma}, {rcId: {3170}}
+Eu sunt un om sunt doar un om {composer: {Emma}, {rcId: {3170}}
 
 [sequence]
 v1,c,v2,c

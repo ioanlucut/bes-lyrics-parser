@@ -1,5 +1,5 @@
 [title]
-Drumurile vietii toate {author: {Mirela și Dorel Campean}, {rcId: {218763}}
+Drumurile vietii toate {composer: {Mirela și Dorel Campean}, {rcId: {218763}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

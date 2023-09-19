@@ -1,5 +1,5 @@
 [title]
-Daltuit de mana ta {author: {Ionuț Crăciun}, {rcId: {90534}}
+Daltuit de mana ta {composer: {Ionuț Crăciun}, {rcId: {90534}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

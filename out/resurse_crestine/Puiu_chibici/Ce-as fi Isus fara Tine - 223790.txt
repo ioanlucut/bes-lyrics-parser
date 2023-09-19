@@ -1,5 +1,5 @@
 [title]
-Ce-as fi isus fara tine {author: {Puiu Chibici}, {rcId: {223790}}
+Ce-as fi isus fara tine {composer: {Puiu Chibici}, {rcId: {223790}}
 
 [sequence]
 v1,c,v2,c,v3,c

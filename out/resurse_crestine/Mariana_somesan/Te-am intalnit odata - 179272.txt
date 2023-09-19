@@ -1,5 +1,5 @@
 [title]
-Te-am intalnit odata {author: {Mariana Someșan}, {rcId: {179272}}
+Te-am intalnit odata {composer: {Mariana Someșan}, {rcId: {179272}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

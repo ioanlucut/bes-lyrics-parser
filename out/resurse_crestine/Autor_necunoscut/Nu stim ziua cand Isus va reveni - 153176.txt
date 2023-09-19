@@ -1,5 +1,5 @@
 [title]
-Nu stim ziua cand isus va reveni {author: {Anonim}, {rcId: {153176}}
+Nu stim ziua cand isus va reveni {composer: {Anonim}, {rcId: {153176}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c

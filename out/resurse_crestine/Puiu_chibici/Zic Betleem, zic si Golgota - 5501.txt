@@ -1,5 +1,5 @@
 [title]
-Zic betleem zic si golgota {author: {Puiu Chibici}, {rcId: {5501}}
+Zic betleem zic si golgota {composer: {Puiu Chibici}, {rcId: {5501}}
 
 [sequence]
 v1,c,v2,c,v3,c

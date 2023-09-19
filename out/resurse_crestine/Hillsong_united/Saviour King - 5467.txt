@@ -1,5 +1,5 @@
 [title]
-Saviour king {author: {Hillsong United}, {rcId: {5467}}
+Saviour king {composer: {Hillsong United}, {rcId: {5467}}
 
 [sequence]
 v1,b,c,v2,c,e

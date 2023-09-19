@@ -1,5 +1,5 @@
 [title]
-Ce prieten bun e domnul {author: {Anonim}, {rcId: {6599}}
+Ce prieten bun e domnul {composer: {Anonim}, {rcId: {6599}}
 
 [sequence]
 v1,v2,v3,v4,v5

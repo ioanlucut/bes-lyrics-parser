@@ -1,5 +1,5 @@
 [title]
-Si duhul din mine striga {author: {Anonim}, {rcId: {5065}}
+Si duhul din mine striga {composer: {Anonim}, {rcId: {5065}}
 
 [sequence]
 c

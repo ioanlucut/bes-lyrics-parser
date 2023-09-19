@@ -1,5 +1,5 @@
 [title]
-M-am bucurat {author: {Anonim}, {rcId: {62581}}
+M-am bucurat {composer: {Anonim}, {rcId: {62581}}
 
 [sequence]
 v1,c

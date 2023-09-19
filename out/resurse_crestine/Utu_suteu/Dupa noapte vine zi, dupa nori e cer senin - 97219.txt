@@ -1,5 +1,5 @@
 [title]
-Dupa noapte vine zi dupa nori e cer senin {author: {Utu Șuteu}, {rcId: {97219}}
+Dupa noapte vine zi dupa nori e cer senin {composer: {Utu Șuteu}, {rcId: {97219}}
 
 [sequence]
 v1,b,c,v2,c

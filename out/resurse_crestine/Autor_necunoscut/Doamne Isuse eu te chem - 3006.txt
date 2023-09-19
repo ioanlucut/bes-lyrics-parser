@@ -1,5 +1,5 @@
 [title]
-Doamne isuse eu te chem {author: {Anonim}, {rcId: {3006}}
+Doamne isuse eu te chem {composer: {Anonim}, {rcId: {3006}}
 
 [sequence]
 v1,c,v2,c,v3,c

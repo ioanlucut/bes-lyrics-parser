@@ -1,5 +1,5 @@
 [title]
-Voi ce-n pragul asteptarii {author: {Anonim}, {rcId: {189677}}
+Voi ce-n pragul asteptarii {composer: {Anonim}, {rcId: {189677}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

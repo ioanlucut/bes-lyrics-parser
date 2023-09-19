@@ -1,5 +1,5 @@
 [title]
-Celui cu viata grea {author: {Traian Dorz}, {rcId: {74071}}
+Celui cu viata grea {composer: {Traian Dorz}, {rcId: {74071}}
 
 [sequence]
 v1,v2,c

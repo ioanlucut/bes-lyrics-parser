@@ -1,5 +1,5 @@
 [title]
-Sa fie furtuna si valuri si ploi {author: {Puiu Chibici}, {rcId: {111987}}
+Sa fie furtuna si valuri si ploi {composer: {Puiu Chibici}, {rcId: {111987}}
 
 [sequence]
 v1,v2,v3

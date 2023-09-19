@@ -1,5 +1,5 @@
 [title]
-Revenirea lui mesia {author: {Cătălin și Ramona Lup}, {rcId: {75446}}
+Revenirea lui mesia {composer: {Cătălin și Ramona Lup}, {rcId: {75446}}
 
 [sequence]
 v1,c,v2,c,e

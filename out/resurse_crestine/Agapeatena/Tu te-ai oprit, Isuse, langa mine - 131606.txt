@@ -1,5 +1,5 @@
 [title]
-Tu te-ai oprit isuse langa mine {author: {Agapeatena}, {rcId: {131606}}
+Tu te-ai oprit isuse langa mine {composer: {Agapeatena}, {rcId: {131606}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Wonderful merciful savior {author: {Selah}, {rcId: {62884}}
+Wonderful merciful savior {composer: {Selah}, {rcId: {62884}}
 
 [sequence]
 v1,v2,v3,v4

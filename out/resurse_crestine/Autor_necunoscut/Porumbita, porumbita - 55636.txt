@@ -1,5 +1,5 @@
 [title]
-Porumbita porumbita {author: {Anonim}, {rcId: {55636}}
+Porumbita porumbita {composer: {Anonim}, {rcId: {55636}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

@@ -1,5 +1,5 @@
 [title]
-Milioane de stele {author: {Speranța și prietenii}, {rcId: {63698}}
+Milioane de stele {composer: {Speranța și prietenii}, {rcId: {63698}}
 
 [sequence]
 v1,c,v2,c,v3,c

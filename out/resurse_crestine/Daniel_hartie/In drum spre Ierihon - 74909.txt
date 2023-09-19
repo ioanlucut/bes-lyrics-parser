@@ -1,5 +1,5 @@
 [title]
-In drum spre ierihon {author: {Daniel Hartie}, {rcId: {74909}}
+In drum spre ierihon {composer: {Daniel Hartie}, {rcId: {74909}}
 
 [sequence]
 v1,v2,v3,v4

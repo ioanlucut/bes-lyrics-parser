@@ -1,5 +1,5 @@
 [title]
-Tu mi-esti dulce mangaiere {author: {Marta Bergheaua}, {rcId: {4396}}
+Tu mi-esti dulce mangaiere {composer: {Marta Bergheaua}, {rcId: {4396}}
 
 [sequence]
 v1,c,v2,c2

@@ -1,5 +1,5 @@
 [title]
-Nu stiu cum vei lucra dar ai promis {author: {Lidia Gheorghe}, {rcId: {146150}}
+Nu stiu cum vei lucra dar ai promis {composer: {Lidia Gheorghe}, {rcId: {146150}}
 
 [sequence]
 v1,c,v2,c2

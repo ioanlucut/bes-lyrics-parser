@@ -1,5 +1,5 @@
 [title]
-Te rog sa ma ajuti isuse {author: {Marta Bergheaua}, {rcId: {61939}}
+Te rog sa ma ajuti isuse {composer: {Marta Bergheaua}, {rcId: {61939}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Tot ce are azi suflare {author: {Anonim}, {rcId: {62672}}
+Tot ce are azi suflare {composer: {Anonim}, {rcId: {62672}}
 
 [sequence]
 c,v1,c,v2,c

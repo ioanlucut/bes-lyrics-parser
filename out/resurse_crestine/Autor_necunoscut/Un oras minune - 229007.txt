@@ -1,5 +1,5 @@
 [title]
-Un oras minune {author: {Necunoscut}, {rcId: {229007}}
+Un oras minune {composer: {Necunoscut}, {rcId: {229007}}
 
 [sequence]
 v1

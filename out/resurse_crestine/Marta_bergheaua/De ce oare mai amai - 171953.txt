@@ -1,5 +1,5 @@
 [title]
-De ce oare mai amai {author: {Marta Bergheaua}, {rcId: {171953}}
+De ce oare mai amai {composer: {Marta Bergheaua}, {rcId: {171953}}
 
 [sequence]
 v1,c,v2,c,v3,c

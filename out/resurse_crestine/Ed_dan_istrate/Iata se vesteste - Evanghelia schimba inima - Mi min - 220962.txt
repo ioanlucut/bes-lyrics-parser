@@ -1,5 +1,5 @@
 [title]
-Iata se vesteste - evanghelia schimba inima - mi min {author: {ed. Dan Istrate}, {rcId: {220962}}
+Iata se vesteste - evanghelia schimba inima - mi min {composer: {ed. Dan Istrate}, {rcId: {220962}}
 
 [sequence]
 v1,c,v2,c,v3,c

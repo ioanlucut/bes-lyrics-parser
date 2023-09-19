@@ -1,5 +1,5 @@
 [title]
-Atunci cand vei veni {author: {Nicolae Moldoveanu}, {rcId: {5706}}
+Atunci cand vei veni {composer: {Nicolae Moldoveanu}, {rcId: {5706}}
 
 [sequence]
 v1,v2,v3,v5,v6,v7,v8

@@ -1,5 +1,5 @@
 [title]
-Trecand prin lume omule priveste {author: {Grupul Filadelfia}, {rcId: {196769}}
+Trecand prin lume omule priveste {composer: {Grupul Filadelfia}, {rcId: {196769}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Nimic nu-i trecator ca viata {author: {Nicolae Moldoveanu}, {rcId: {5554}}
+Nimic nu-i trecator ca viata {composer: {Nicolae Moldoveanu}, {rcId: {5554}}
 
 [sequence]
 v1,v2,v3,v4,v5

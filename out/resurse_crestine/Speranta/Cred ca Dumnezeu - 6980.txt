@@ -1,5 +1,5 @@
 [title]
-Cred ca dumnezeu {author: {Speranța}, {rcId: {6980}}
+Cred ca dumnezeu {composer: {Speranța}, {rcId: {6980}}
 
 [sequence]
 v1,c,v2,b,c,v3,c

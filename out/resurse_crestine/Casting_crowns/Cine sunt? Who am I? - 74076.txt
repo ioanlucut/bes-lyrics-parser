@@ -1,5 +1,5 @@
 [title]
-Cine sunt? who am i? {author: {Casting Crowns, Traducere RO}, {rcId: {74076}}
+Cine sunt? who am i? {composer: {Casting Crowns, Traducere RO}, {rcId: {74076}}
 
 [sequence]
 v1,c,v2,c

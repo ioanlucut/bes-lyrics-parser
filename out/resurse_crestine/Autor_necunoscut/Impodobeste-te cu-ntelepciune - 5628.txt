@@ -1,5 +1,5 @@
 [title]
-Impodobeste-te cu-ntelepciune {author: {Anonim}, {rcId: {5628}}
+Impodobeste-te cu-ntelepciune {composer: {Anonim}, {rcId: {5628}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

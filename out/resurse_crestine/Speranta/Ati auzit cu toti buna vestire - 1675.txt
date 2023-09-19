@@ -1,5 +1,5 @@
 [title]
-Ati auzit cu toti buna vestire {author: {Speranța}, {rcId: {1675}}
+Ati auzit cu toti buna vestire {composer: {Speranța}, {rcId: {1675}}
 
 [sequence]
 v1,c,v2,c,v3,c

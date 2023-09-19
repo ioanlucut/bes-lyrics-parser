@@ -1,5 +1,5 @@
 [title]
-In psalmul meu plangeam {author: {Iulia Contis}, {rcId: {246124}}
+In psalmul meu plangeam {composer: {Iulia Contis}, {rcId: {246124}}
 
 [sequence]
 v1,c,v2,c,v3,c

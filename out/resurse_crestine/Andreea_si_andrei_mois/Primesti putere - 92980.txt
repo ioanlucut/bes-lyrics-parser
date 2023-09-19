@@ -1,5 +1,5 @@
 [title]
-Primesti putere {author: {Andreea și Andrei Mois}, {rcId: {92980}}
+Primesti putere {composer: {Andreea și Andrei Mois}, {rcId: {92980}}
 
 [sequence]
 v1,c,v2,c

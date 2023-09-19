@@ -1,5 +1,5 @@
 [title]
-As vrea {author: {Ami și Crista}, {rcId: {102489}}
+As vrea {composer: {Ami și Crista}, {rcId: {102489}}
 
 [sequence]
 v1,c,v2,b,c

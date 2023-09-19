@@ -1,5 +1,5 @@
 [title]
-Prabusit in ruga {author: {Marta_Bergheaua}, {rcId: {241346}}
+Prabusit in ruga {composer: {Marta_Bergheaua}, {rcId: {241346}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

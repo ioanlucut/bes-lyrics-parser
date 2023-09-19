@@ -1,5 +1,5 @@
 [title]
-Glorious day (la viata eu am venit) {author: {Eusebiu Baciu, Friends}, {rcId: {238033}}
+Glorious day (la viata eu am venit) {composer: {Eusebiu Baciu, Friends}, {rcId: {238033}}
 
 [sequence]
 v1,v2,c,v4,c,c,c

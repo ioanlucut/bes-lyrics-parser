@@ -1,5 +1,5 @@
 [title]
-Cu domnul mare si purternice prezent in adunare {author: {Anonim}, {rcId: {247939}}
+Cu domnul mare si purternice prezent in adunare {composer: {Anonim}, {rcId: {247939}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

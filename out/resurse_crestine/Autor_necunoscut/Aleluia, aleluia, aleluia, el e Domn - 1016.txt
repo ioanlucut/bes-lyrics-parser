@@ -1,5 +1,5 @@
 [title]
-Aleluia aleluia aleluia el e domn {author: {Anonim}, {rcId: {1016}}
+Aleluia aleluia aleluia el e domn {composer: {Anonim}, {rcId: {1016}}
 
 [sequence]
 v1,c

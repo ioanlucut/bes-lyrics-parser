@@ -1,5 +1,5 @@
 [title]
-Din intuneric si pacate {author: {Anonim}, {rcId: {188950}}
+Din intuneric si pacate {composer: {Anonim}, {rcId: {188950}}
 
 [sequence]
 v1,v2,v3,v4

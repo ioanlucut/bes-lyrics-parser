@@ -1,5 +1,5 @@
 [title]
-Voi lauda in orice vreme {author: {Puiu Chibici}, {rcId: {58479}}
+Voi lauda in orice vreme {composer: {Puiu Chibici}, {rcId: {58479}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

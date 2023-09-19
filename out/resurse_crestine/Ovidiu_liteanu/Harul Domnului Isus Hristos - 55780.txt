@@ -1,5 +1,5 @@
 [title]
-Harul domnului isus hristos {author: {Ovidiu Liteanu}, {rcId: {55780}}
+Harul domnului isus hristos {composer: {Ovidiu Liteanu}, {rcId: {55780}}
 
 [sequence]
 v1,v2,v3,v4,v5

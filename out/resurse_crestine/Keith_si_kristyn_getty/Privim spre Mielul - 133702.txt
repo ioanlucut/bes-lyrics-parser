@@ -1,5 +1,5 @@
 [title]
-Privim spre mielul {author: {Keith si Kristyn Getty}, {rcId: {133702}}
+Privim spre mielul {composer: {Keith si Kristyn Getty}, {rcId: {133702}}
 
 [sequence]
 v1,v2,v3,v4

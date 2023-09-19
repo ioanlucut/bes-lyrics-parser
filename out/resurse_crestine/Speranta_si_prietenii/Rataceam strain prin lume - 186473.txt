@@ -1,5 +1,5 @@
 [title]
-Rataceam strain prin lume {author: {Speranța și prietenii}, {rcId: {186473}}
+Rataceam strain prin lume {composer: {Speranța și prietenii}, {rcId: {186473}}
 
 [sequence]
 v1,c,c,v2,c,c,v3,c,c,v4,c,c,v5,c,c

@@ -1,5 +1,5 @@
 [title]
-Ce jertfa scumpa tatal {author: {Leleu Niculae}, {rcId: {75260}}
+Ce jertfa scumpa tatal {composer: {Leleu Niculae}, {rcId: {75260}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

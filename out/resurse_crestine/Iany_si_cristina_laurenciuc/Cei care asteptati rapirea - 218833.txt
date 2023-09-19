@@ -1,5 +1,5 @@
 [title]
-Cei care asteptati rapirea {author: {Iany și Cristina Laurenciuc}, {rcId: {218833}}
+Cei care asteptati rapirea {composer: {Iany și Cristina Laurenciuc}, {rcId: {218833}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

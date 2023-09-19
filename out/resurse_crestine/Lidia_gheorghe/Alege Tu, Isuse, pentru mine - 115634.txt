@@ -1,5 +1,5 @@
 [title]
-Alege tu isuse pentru mine {author: {Lidia Gheorghe}, {rcId: {115634}}
+Alege tu isuse pentru mine {composer: {Lidia Gheorghe}, {rcId: {115634}}
 
 [sequence]
 v1,c,v2,c,v3,c2,v4,c2

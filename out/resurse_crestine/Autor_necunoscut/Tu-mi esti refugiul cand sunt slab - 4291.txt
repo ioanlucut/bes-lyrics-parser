@@ -1,5 +1,5 @@
 [title]
-Tu-mi esti refugiul cand sunt slab {author: {Anonim}, {rcId: {4291}}
+Tu-mi esti refugiul cand sunt slab {composer: {Anonim}, {rcId: {4291}}
 
 [sequence]
 v1,c,v2,c

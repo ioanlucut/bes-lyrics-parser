@@ -1,5 +1,5 @@
 [title]
-In noul ierusalim {author: {Johnny Daraban}, {rcId: {133319}}
+In noul ierusalim {composer: {Johnny Daraban}, {rcId: {133319}}
 
 [sequence]
 v1,c,v2,c2

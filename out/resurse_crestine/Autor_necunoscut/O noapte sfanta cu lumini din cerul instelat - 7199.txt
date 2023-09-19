@@ -1,5 +1,5 @@
 [title]
-O noapte sfanta cu lumini din cerul instelat {author: {Anonim}, {rcId: {7199}}
+O noapte sfanta cu lumini din cerul instelat {composer: {Anonim}, {rcId: {7199}}
 
 [sequence]
 v1,v2,v3

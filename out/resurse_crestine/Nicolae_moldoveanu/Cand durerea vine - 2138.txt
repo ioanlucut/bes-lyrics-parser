@@ -1,5 +1,5 @@
 [title]
-Cand durerea vine {author: {Nicolae Moldoveanu}, {rcId: {2138}}
+Cand durerea vine {composer: {Nicolae Moldoveanu}, {rcId: {2138}}
 
 [sequence]
 v1,v2,v3

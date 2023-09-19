@@ -1,5 +1,5 @@
 [title]
-Spre tara nemuririi {author: {Carmen Prodan}, {rcId: {152916}}
+Spre tara nemuririi {composer: {Carmen Prodan}, {rcId: {152916}}
 
 [sequence]
 v1,c,v3,c,v4,c

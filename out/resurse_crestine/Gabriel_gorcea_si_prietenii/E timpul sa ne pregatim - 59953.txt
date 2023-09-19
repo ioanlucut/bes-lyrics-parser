@@ -1,5 +1,5 @@
 [title]
-E timpul sa ne pregatim {author: {Gabriel Gorcea și prietenii}, {rcId: {59953}}
+E timpul sa ne pregatim {composer: {Gabriel Gorcea și prietenii}, {rcId: {59953}}
 
 [sequence]
 v1,v2,v3,v4

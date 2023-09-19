@@ -1,5 +1,5 @@
 [title]
-Cine esti ? {author: {Lavinia Stan}, {rcId: {236391}}
+Cine esti ? {composer: {Lavinia Stan}, {rcId: {236391}}
 
 [sequence]
 v1,c,v2,c,v3,c

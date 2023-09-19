@@ -1,5 +1,5 @@
 [title]
-Domnul imi conduce caile {author: {Anonim}, {rcId: {78746}}
+Domnul imi conduce caile {composer: {Anonim}, {rcId: {78746}}
 
 [sequence]
 v1,c,v2,c,v3,c

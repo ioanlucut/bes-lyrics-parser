@@ -1,5 +1,5 @@
 [title]
-Suflete cuprins de noapte {author: {Anonim}, {rcId: {55640}}
+Suflete cuprins de noapte {composer: {Anonim}, {rcId: {55640}}
 
 [sequence]
 v1,v2,v3,v4,v5

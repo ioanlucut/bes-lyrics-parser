@@ -1,5 +1,5 @@
 [title]
-Vreau mica mea lumina {author: {Harry Dixon Loes, Traducere Ro}, {rcId: {58798}}
+Vreau mica mea lumina {composer: {Harry Dixon Loes, Traducere Ro}, {rcId: {58798}}
 
 [sequence]
 v1,v2,v3

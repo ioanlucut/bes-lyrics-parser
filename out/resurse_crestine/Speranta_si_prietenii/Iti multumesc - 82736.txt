@@ -1,5 +1,5 @@
 [title]
-Iti multumesc {author: {Speranța și prietenii}, {rcId: {82736}}
+Iti multumesc {composer: {Speranța și prietenii}, {rcId: {82736}}
 
 [sequence]
 v1,c,v2,c,v3,c

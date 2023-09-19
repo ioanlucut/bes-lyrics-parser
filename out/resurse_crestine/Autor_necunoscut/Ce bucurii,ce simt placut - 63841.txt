@@ -1,5 +1,5 @@
 [title]
-Ce bucuriice simt placut {author: {Anonim}, {rcId: {63841}}
+Ce bucuriice simt placut {composer: {Anonim}, {rcId: {63841}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Daca nu ai arma-n mana {author: {Florin Pal}, {rcId: {218908}}
+Daca nu ai arma-n mana {composer: {Florin Pal}, {rcId: {218908}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

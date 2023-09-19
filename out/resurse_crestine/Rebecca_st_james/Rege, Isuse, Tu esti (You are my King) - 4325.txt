@@ -1,5 +1,5 @@
 [title]
-Rege isuse tu esti (you are my king) {author: {Rebecca St. James, Traducere RO}, {rcId: {4325}}
+Rege isuse tu esti (you are my king) {composer: {Rebecca St. James, Traducere RO}, {rcId: {4325}}
 
 [sequence]
 v1,v2,c,v2,c,v3,c

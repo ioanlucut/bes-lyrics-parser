@@ -1,5 +1,5 @@
 [title]
-Gata de zbor (gandeste-te intruna la cele de sus) {author: {Ovidiu Liteanu}, {rcId: {187401}}
+Gata de zbor (gandeste-te intruna la cele de sus) {composer: {Ovidiu Liteanu}, {rcId: {187401}}
 
 [sequence]
 v1,c,v3,c,v4,c,v5,c

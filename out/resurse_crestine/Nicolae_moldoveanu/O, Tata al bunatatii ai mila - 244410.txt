@@ -1,5 +1,5 @@
 [title]
-O tata al bunatatii ai mila {author: {Nicolae Moldoveanu}, {rcId: {244410}}
+O tata al bunatatii ai mila {composer: {Nicolae Moldoveanu}, {rcId: {244410}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Fii binecuvantat {author: {Erdei Erika}, {rcId: {66232}}
+Fii binecuvantat {composer: {Erdei Erika}, {rcId: {66232}}
 
 [sequence]
 v1,b,c,v2,c,e

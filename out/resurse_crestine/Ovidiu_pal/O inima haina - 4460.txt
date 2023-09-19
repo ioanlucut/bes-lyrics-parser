@@ -1,5 +1,5 @@
 [title]
-O inima haina {author: {Ovidiu Pal}, {rcId: {4460}}
+O inima haina {composer: {Ovidiu Pal}, {rcId: {4460}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,e

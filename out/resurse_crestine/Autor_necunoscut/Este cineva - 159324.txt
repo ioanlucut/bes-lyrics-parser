@@ -1,5 +1,5 @@
 [title]
-Este cineva {author: {Anonim}, {rcId: {159324}}
+Este cineva {composer: {Anonim}, {rcId: {159324}}
 
 [sequence]
 v1,c,v2,c,v3,c

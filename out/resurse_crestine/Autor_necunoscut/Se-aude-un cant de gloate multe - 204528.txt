@@ -1,5 +1,5 @@
 [title]
-Se-aude-un cant de gloate multe {author: {Anonim}, {rcId: {204528}}
+Se-aude-un cant de gloate multe {composer: {Anonim}, {rcId: {204528}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

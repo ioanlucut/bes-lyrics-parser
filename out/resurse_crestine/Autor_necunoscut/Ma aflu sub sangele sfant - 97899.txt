@@ -1,5 +1,5 @@
 [title]
-Ma aflu sub sangele sfant {author: {Anonim}, {rcId: {97899}}
+Ma aflu sub sangele sfant {composer: {Anonim}, {rcId: {97899}}
 
 [sequence]
 v1,c

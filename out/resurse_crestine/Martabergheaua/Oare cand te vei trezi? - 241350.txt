@@ -1,5 +1,5 @@
 [title]
-Oare cand te vei trezi? {author: {Marta_Bergheaua}, {rcId: {241350}}
+Oare cand te vei trezi? {composer: {Marta_Bergheaua}, {rcId: {241350}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

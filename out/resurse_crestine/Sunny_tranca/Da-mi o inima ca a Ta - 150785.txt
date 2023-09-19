@@ -1,5 +1,5 @@
 [title]
-Da-mi o inima ca a ta {author: {Sunny Tranca}, {rcId: {150785}}
+Da-mi o inima ca a ta {composer: {Sunny Tranca}, {rcId: {150785}}
 
 [sequence]
 v1,c

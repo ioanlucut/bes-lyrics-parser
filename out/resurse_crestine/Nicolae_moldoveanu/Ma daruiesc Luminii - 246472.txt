@@ -1,5 +1,5 @@
 [title]
-Ma daruiesc luminii {author: {Nicolae Moldoveanu}, {rcId: {246472}}
+Ma daruiesc luminii {composer: {Nicolae Moldoveanu}, {rcId: {246472}}
 
 [sequence]
 v1,v2,v3,v4,v5

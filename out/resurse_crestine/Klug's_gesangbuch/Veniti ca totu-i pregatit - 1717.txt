@@ -1,5 +1,5 @@
 [title]
-Veniti ca totu-i pregatit {author: {KLUG’s Gesangbuch}, {rcId: {1717}}
+Veniti ca totu-i pregatit {composer: {KLUG’s Gesangbuch}, {rcId: {1717}}
 
 [sequence]
 v1,v2,v3

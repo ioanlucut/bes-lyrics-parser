@@ -1,5 +1,5 @@
 [title]
-Fiecare strop de roua {author: {amos7}, {rcId: {101513}}
+Fiecare strop de roua {composer: {amos7}, {rcId: {101513}}
 
 [sequence]
 v1,v2,v3,v4,v5

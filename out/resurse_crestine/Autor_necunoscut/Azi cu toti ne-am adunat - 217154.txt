@@ -1,5 +1,5 @@
 [title]
-Azi cu toti ne-am adunat {author: {Anonim}, {rcId: {217154}}
+Azi cu toti ne-am adunat {composer: {Anonim}, {rcId: {217154}}
 
 [sequence]
 v1,c,v2,c

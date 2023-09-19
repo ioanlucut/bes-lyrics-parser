@@ -1,5 +1,5 @@
 [title]
-Da-i inima ta lui isus {author: {Marius Pop}, {rcId: {157187}}
+Da-i inima ta lui isus {composer: {Marius Pop}, {rcId: {157187}}
 
 [sequence]
 v1,c,e

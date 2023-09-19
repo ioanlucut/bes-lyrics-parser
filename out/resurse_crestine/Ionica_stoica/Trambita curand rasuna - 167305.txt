@@ -1,5 +1,5 @@
 [title]
-Trambita curand rasuna {author: {Ionică Stoica}, {rcId: {167305}}
+Trambita curand rasuna {composer: {Ionică Stoica}, {rcId: {167305}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

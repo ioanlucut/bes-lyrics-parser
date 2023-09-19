@@ -1,5 +1,5 @@
 [title]
-Cand nu te cunosteam tu m-ai chemat {author: {Text si muzica: Doru Gîrboan}, {rcId: {199424}}
+Cand nu te cunosteam tu m-ai chemat {composer: {Text si muzica: Doru Gîrboan}, {rcId: {199424}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

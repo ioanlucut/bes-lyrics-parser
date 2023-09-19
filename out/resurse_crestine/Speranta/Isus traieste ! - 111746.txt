@@ -1,5 +1,5 @@
 [title]
-Isus traieste {author: {Speranța}, {rcId: {111746}}
+Isus traieste {composer: {Speranța}, {rcId: {111746}}
 
 [sequence]
 v1,v2,v3,v4,v5,c

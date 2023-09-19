@@ -1,5 +1,5 @@
 [title]
-Lespezi grele de durere de m-ar apasa {author: {Anonim}, {rcId: {125690}}
+Lespezi grele de durere de m-ar apasa {composer: {Anonim}, {rcId: {125690}}
 
 [sequence]
 v1,v2,v3,v4,v5

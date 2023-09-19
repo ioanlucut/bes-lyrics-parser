@@ -1,5 +1,5 @@
 [title]
-Nimic nu-i vesnic {author: {Otniel Stirb}, {rcId: {127420}}
+Nimic nu-i vesnic {composer: {Otniel Stirb}, {rcId: {127420}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Tot asa precum doreste {author: {Miron Cornel}, {rcId: {4434}}
+Tot asa precum doreste {composer: {Miron Cornel}, {rcId: {4434}}
 
 [sequence]
 v1,c,v2,c,v3,c

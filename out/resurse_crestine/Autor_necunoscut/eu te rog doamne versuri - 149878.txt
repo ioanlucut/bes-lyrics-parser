@@ -1,5 +1,5 @@
 [title]
-Eu te rog doamne versuri {author: {Anonim}, {rcId: {149878}}
+Eu te rog doamne versuri {composer: {Anonim}, {rcId: {149878}}
 
 [sequence]
 v1,c,v2,c,v3,c

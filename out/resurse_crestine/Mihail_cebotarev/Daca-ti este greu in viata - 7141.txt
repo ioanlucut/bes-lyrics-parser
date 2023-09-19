@@ -1,5 +1,5 @@
 [title]
-Daca-ti este greu in viata {author: {Mihail Cebotarev}, {rcId: {7141}}
+Daca-ti este greu in viata {composer: {Mihail Cebotarev}, {rcId: {7141}}
 
 [sequence]
 v1,c,v2,c,v3,c

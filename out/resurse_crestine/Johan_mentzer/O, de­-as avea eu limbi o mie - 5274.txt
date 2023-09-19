@@ -1,5 +1,5 @@
 [title]
-O de--as avea eu limbi o mie {author: {Johan Mentzer, Traducere RO}, {rcId: {5274}}
+O de--as avea eu limbi o mie {composer: {Johan Mentzer, Traducere RO}, {rcId: {5274}}
 
 [sequence]
 v1,v2,v3,v4

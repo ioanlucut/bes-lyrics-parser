@@ -1,5 +1,5 @@
 [title]
-Ce mare si bun minunat si slavit {author: {William J.Kirkpatrik}, {rcId: {74300}}
+Ce mare si bun minunat si slavit {composer: {William J.Kirkpatrik}, {rcId: {74300}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

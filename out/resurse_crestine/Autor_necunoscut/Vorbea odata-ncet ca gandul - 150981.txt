@@ -1,5 +1,5 @@
 [title]
-Vorbea odata-ncet ca gandul {author: {Anonim}, {rcId: {150981}}
+Vorbea odata-ncet ca gandul {composer: {Anonim}, {rcId: {150981}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

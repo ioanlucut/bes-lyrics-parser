@@ -1,5 +1,5 @@
 [title]
-Curgi ca un rau de slava {author: {Anonim}, {rcId: {783}}
+Curgi ca un rau de slava {composer: {Anonim}, {rcId: {783}}
 
 [sequence]
 c,v1,c

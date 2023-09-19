@@ -1,5 +1,5 @@
 [title]
-Puii toti {author: {Nicolae Moldoveanu}, {rcId: {233698}}
+Puii toti {composer: {Nicolae Moldoveanu}, {rcId: {233698}}
 
 [sequence]
 v1,v2

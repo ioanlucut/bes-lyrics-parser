@@ -1,5 +1,5 @@
 [title]
-Binecuvinteaza suflete {author: {Anonim}, {rcId: {2786}}
+Binecuvinteaza suflete {composer: {Anonim}, {rcId: {2786}}
 
 [sequence]
 c,v2,c

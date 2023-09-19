@@ -1,5 +1,5 @@
 [title]
-Cand acas voi fi {author: {Advent Quartet}, {rcId: {208781}}
+Cand acas voi fi {composer: {Advent Quartet}, {rcId: {208781}}
 
 [sequence]
 v1,v2,v3

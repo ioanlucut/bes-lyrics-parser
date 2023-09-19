@@ -1,5 +1,5 @@
 [title]
-Un cantec am de dragoste {author: {Anonim}, {rcId: {62692}}
+Un cantec am de dragoste {composer: {Anonim}, {rcId: {62692}}
 
 [sequence]
 v1

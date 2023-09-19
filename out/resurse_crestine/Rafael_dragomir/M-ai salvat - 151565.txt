@@ -1,5 +1,5 @@
 [title]
-M-ai salvat {author: {Rafael Dragomir}, {rcId: {151565}}
+M-ai salvat {composer: {Rafael Dragomir}, {rcId: {151565}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

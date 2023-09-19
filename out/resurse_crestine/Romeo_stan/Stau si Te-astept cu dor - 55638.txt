@@ -1,5 +1,5 @@
 [title]
-Stau si te-astept cu dor {author: {Romeo Stan}, {rcId: {55638}}
+Stau si te-astept cu dor {composer: {Romeo Stan}, {rcId: {55638}}
 
 [sequence]
 v1,c,v2,c,v3,c

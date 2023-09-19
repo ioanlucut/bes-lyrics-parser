@@ -1,5 +1,5 @@
 [title]
-Esti dispretuit de lume {author: {Crețu Mihai}, {rcId: {237296}}
+Esti dispretuit de lume {composer: {Crețu Mihai}, {rcId: {237296}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8

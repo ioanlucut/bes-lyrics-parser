@@ -1,5 +1,5 @@
 [title]
-Spune-mi astazi israel {author: {Deborah Wenger}, {rcId: {195916}}
+Spune-mi astazi israel {composer: {Deborah Wenger}, {rcId: {195916}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

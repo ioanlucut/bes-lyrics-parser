@@ -1,5 +1,5 @@
 [title]
-Bratul tau invinge {author: {Gabi Ilut}, {rcId: {202935}}
+Bratul tau invinge {composer: {Gabi Ilut}, {rcId: {202935}}
 
 [sequence]
 v1,c,v2,c,v3,c

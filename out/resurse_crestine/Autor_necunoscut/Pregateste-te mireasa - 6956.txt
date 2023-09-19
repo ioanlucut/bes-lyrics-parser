@@ -1,5 +1,5 @@
 [title]
-Pregateste-te mireasa {author: {Anonim}, {rcId: {6956}}
+Pregateste-te mireasa {composer: {Anonim}, {rcId: {6956}}
 
 [sequence]
 v1,v2,v3,v4,v5

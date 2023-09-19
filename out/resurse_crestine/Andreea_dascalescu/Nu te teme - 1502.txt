@@ -1,5 +1,5 @@
 [title]
-Nu te teme {author: {Andreea Dascalescu}, {rcId: {1502}}
+Nu te teme {composer: {Andreea Dascalescu}, {rcId: {1502}}
 
 [sequence]
 v1,c,v2,c

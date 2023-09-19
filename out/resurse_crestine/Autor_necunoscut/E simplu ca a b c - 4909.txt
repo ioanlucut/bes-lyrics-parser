@@ -1,5 +1,5 @@
 [title]
-E simplu ca a b c {author: {Anonim}, {rcId: {4909}}
+E simplu ca a b c {composer: {Anonim}, {rcId: {4909}}
 
 [sequence]
 v1,v2,v3

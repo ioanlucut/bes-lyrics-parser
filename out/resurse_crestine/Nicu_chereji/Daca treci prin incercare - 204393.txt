@@ -1,5 +1,5 @@
 [title]
-Daca treci prin incercare {author: {Nicu Chereji}, {rcId: {204393}}
+Daca treci prin incercare {composer: {Nicu Chereji}, {rcId: {204393}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

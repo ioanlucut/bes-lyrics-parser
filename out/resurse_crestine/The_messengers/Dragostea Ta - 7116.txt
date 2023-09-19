@@ -1,5 +1,5 @@
 [title]
-Dragostea ta {author: {The Messengers}, {rcId: {7116}}
+Dragostea ta {composer: {The Messengers}, {rcId: {7116}}
 
 [sequence]
 v1,c,v2,c,v3,c

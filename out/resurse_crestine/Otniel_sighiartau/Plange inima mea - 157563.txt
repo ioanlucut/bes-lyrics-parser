@@ -1,5 +1,5 @@
 [title]
-Plange inima mea {author: {Otniel Sighiartau}, {rcId: {157563}}
+Plange inima mea {composer: {Otniel Sighiartau}, {rcId: {157563}}
 
 [sequence]
 v1,b,c,v1,b2,c

@@ -1,5 +1,5 @@
 [title]
-Ce minunat si ce frumos {author: {Alexandru Groza}, {rcId: {113201}}
+Ce minunat si ce frumos {composer: {Alexandru Groza}, {rcId: {113201}}
 
 [sequence]
 v1,c,c,v2,b,c

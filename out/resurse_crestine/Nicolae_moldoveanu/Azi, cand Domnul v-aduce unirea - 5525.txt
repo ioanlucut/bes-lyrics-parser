@@ -1,5 +1,5 @@
 [title]
-Azi cand domnul v-aduce unirea {author: {Nicolae Moldoveanu}, {rcId: {5525}}
+Azi cand domnul v-aduce unirea {composer: {Nicolae Moldoveanu}, {rcId: {5525}}
 
 [sequence]
 v1,v2,v3,v4

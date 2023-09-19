@@ -1,5 +1,5 @@
 [title]
-Spre vesnicii {author: {Adi Gliga}, {rcId: {172774}}
+Spre vesnicii {composer: {Adi Gliga}, {rcId: {172774}}
 
 [sequence]
 v1,c,v2,c,e

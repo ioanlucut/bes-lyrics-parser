@@ -1,5 +1,5 @@
 [title]
-Gandeste-te nu intarzia {author: {Nelu Surd}, {rcId: {102532}}
+Gandeste-te nu intarzia {composer: {Nelu Surd}, {rcId: {102532}}
 
 [sequence]
 v1,b,c,v2,c,v3,c,e

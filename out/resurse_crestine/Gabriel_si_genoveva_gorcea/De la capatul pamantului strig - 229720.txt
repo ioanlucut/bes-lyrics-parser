@@ -1,5 +1,5 @@
 [title]
-De la capatul pamantului strig {author: {Gabriel și Genoveva Gorcea}, {rcId: {229720}}
+De la capatul pamantului strig {composer: {Gabriel și Genoveva Gorcea}, {rcId: {229720}}
 
 [sequence]
 v1,c,v2,c2,e

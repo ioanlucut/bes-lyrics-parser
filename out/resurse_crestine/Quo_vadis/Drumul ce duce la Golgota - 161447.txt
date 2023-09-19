@@ -1,5 +1,5 @@
 [title]
-Drumul ce duce la golgota {author: {Quo Vadis}, {rcId: {161447}}
+Drumul ce duce la golgota {composer: {Quo Vadis}, {rcId: {161447}}
 
 [sequence]
 v1,v2,v3,v4

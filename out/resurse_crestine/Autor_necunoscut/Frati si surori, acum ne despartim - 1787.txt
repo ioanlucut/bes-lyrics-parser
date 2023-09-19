@@ -1,5 +1,5 @@
 [title]
-Frati si surori acum ne despartim {author: {Anonim}, {rcId: {1787}}
+Frati si surori acum ne despartim {composer: {Anonim}, {rcId: {1787}}
 
 [sequence]
 v1,v2,v3

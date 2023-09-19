@@ -1,5 +1,5 @@
 [title]
-Isus ce nume mare {author: {Puiu Chibici}, {rcId: {138138}}
+Isus ce nume mare {composer: {Puiu Chibici}, {rcId: {138138}}
 
 [sequence]
 v1,c,v2,c,v3,c

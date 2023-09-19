@@ -1,5 +1,5 @@
 [title]
-Sfant e numele tau (intotdeauna doamne) {author: {Anonim}, {rcId: {236362}}
+Sfant e numele tau (intotdeauna doamne) {composer: {Anonim}, {rcId: {236362}}
 
 [sequence]
 v1,v2,c

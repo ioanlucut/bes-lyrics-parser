@@ -1,5 +1,5 @@
 [title]
-Se-aude sus pe cer {author: {Puiu Chibici}, {rcId: {110903}}
+Se-aude sus pe cer {composer: {Puiu Chibici}, {rcId: {110903}}
 
 [sequence]
 v1,v2,v3,v4

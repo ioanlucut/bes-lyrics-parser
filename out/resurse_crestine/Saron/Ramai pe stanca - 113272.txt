@@ -1,5 +1,5 @@
 [title]
-Ramai pe stanca {author: {Saron}, {rcId: {113272}}
+Ramai pe stanca {composer: {Saron}, {rcId: {113272}}
 
 [sequence]
 v1,c,v2,c2

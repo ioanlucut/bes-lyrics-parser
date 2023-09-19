@@ -1,5 +1,5 @@
 [title]
-Un strigat se-aude {author: {Speranța}, {rcId: {104956}}
+Un strigat se-aude {composer: {Speranța}, {rcId: {104956}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Sfant maret si vrednic {author: {Luminița Tomuța}, {rcId: {205509}}
+Sfant maret si vrednic {composer: {Luminița Tomuța}, {rcId: {205509}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

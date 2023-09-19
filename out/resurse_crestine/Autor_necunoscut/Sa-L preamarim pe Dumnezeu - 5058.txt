@@ -1,5 +1,5 @@
 [title]
-Sa-l preamarim pe dumnezeu {author: {Anonim}, {rcId: {5058}}
+Sa-l preamarim pe dumnezeu {composer: {Anonim}, {rcId: {5058}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Azi a venit un copilas - do maj {author: {ed. Dan Istrate}, {rcId: {237934}}
+Azi a venit un copilas - do maj {composer: {ed. Dan Istrate}, {rcId: {237934}}
 
 [sequence]
 v1,v2,v3,v4

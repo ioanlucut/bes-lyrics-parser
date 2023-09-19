@@ -1,5 +1,5 @@
 [title]
-Un om purta odata (bice fara numar il loveau) {author: {Gheorghe Zoltan}, {rcId: {218306}}
+Un om purta odata (bice fara numar il loveau) {composer: {Gheorghe Zoltan}, {rcId: {218306}}
 
 [sequence]
 v1,c,v2,c,v3,c

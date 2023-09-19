@@ -1,5 +1,5 @@
 [title]
-Iti voi canta {author: {Carmen Prodan}, {rcId: {153729}}
+Iti voi canta {composer: {Carmen Prodan}, {rcId: {153729}}
 
 [sequence]
 v1,c,v2,c,v3,c

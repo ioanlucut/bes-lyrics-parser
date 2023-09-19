@@ -1,5 +1,5 @@
 [title]
-Cauta-l pe isus (reach out to jesus) {author: {Ralph Carmichael, Traducere RO}, {rcId: {127088}}
+Cauta-l pe isus (reach out to jesus) {composer: {Ralph Carmichael, Traducere RO}, {rcId: {127088}}
 
 [sequence]
 v1,c,v2,c,s,c

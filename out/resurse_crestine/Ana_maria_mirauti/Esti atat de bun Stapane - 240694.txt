@@ -1,5 +1,5 @@
 [title]
-Esti atat de bun stapane {author: {Ana Maria Mirăuți}, {rcId: {240694}}
+Esti atat de bun stapane {composer: {Ana Maria Mirăuți}, {rcId: {240694}}
 
 [sequence]
 v1,c,v2,c,v3,c

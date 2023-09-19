@@ -1,5 +1,5 @@
 [title]
-Mergand pe cale zi de zi marta jacheanu si rugul aprins {author: {Ion Țane Jachenau}, {rcId: {212342}}
+Mergand pe cale zi de zi marta jacheanu si rugul aprins {composer: {Ion Țane Jachenau}, {rcId: {212342}}
 
 [sequence]
 v1

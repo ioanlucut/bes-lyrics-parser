@@ -1,5 +1,5 @@
 [title]
-Iubire fara margini {author: {Petre Strango}, {rcId: {136152}}
+Iubire fara margini {composer: {Petre Strango}, {rcId: {136152}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

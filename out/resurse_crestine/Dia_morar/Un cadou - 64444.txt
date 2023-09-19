@@ -1,5 +1,5 @@
 [title]
-Un cadou {author: {Dia Morar}, {rcId: {64444}}
+Un cadou {composer: {Dia Morar}, {rcId: {64444}}
 
 [sequence]
 v1,c,v2,c

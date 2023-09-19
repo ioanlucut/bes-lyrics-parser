@@ -1,5 +1,5 @@
 [title]
-Mesaj din cer {author: {David Lela}, {rcId: {162861}}
+Mesaj din cer {composer: {David Lela}, {rcId: {162861}}
 
 [sequence]
 v1,c,v2,c2

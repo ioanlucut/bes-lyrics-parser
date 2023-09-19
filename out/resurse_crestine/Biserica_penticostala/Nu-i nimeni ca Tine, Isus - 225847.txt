@@ -1,5 +1,5 @@
 [title]
-Nu-i nimeni ca tine isus {author: {Biserica Penticostala}, {rcId: {225847}}
+Nu-i nimeni ca tine isus {composer: {Biserica Penticostala}, {rcId: {225847}}
 
 [sequence]
 v1,v2,v3,v4,v5

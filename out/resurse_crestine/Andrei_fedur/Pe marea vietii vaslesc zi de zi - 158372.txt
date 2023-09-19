@@ -1,5 +1,5 @@
 [title]
-Pe marea vietii vaslesc zi de zi {author: {Andrei Fedur}, {rcId: {158372}}
+Pe marea vietii vaslesc zi de zi {composer: {Andrei Fedur}, {rcId: {158372}}
 
 [sequence]
 v1,c,v2,c,v3,c

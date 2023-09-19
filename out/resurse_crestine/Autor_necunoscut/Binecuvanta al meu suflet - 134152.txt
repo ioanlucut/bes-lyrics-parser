@@ -1,5 +1,5 @@
 [title]
-Binecuvanta al meu suflet {author: {Anonim}, {rcId: {134152}}
+Binecuvanta al meu suflet {composer: {Anonim}, {rcId: {134152}}
 
 [sequence]
 v1,v2

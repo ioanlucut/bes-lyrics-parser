@@ -1,5 +1,5 @@
 [title]
-Sfant esti tu sfant e numele tau/adonai {author: {Anonim}, {rcId: {238042}}
+Sfant esti tu sfant e numele tau/adonai {composer: {Anonim}, {rcId: {238042}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

@@ -1,5 +1,5 @@
 [title]
-Spune doamne {author: {Sanja Cristea Tiberian}, {rcId: {63941}}
+Spune doamne {composer: {Sanja Cristea Tiberian}, {rcId: {63941}}
 
 [sequence]
 v1,c,v2,c,v3,c

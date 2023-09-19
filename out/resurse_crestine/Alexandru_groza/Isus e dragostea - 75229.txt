@@ -1,5 +1,5 @@
 [title]
-Isus e dragostea {author: {Alexandru Groza}, {rcId: {75229}}
+Isus e dragostea {composer: {Alexandru Groza}, {rcId: {75229}}
 
 [sequence]
 c,e,v1,c,e

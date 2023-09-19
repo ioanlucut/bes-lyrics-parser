@@ -1,5 +1,5 @@
 [title]
-Triste sunt zilele mele {author: {Ionel Saran}, {rcId: {128256}}
+Triste sunt zilele mele {composer: {Ionel Saran}, {rcId: {128256}}
 
 [sequence]
 v1,c,v2,c,v3,c

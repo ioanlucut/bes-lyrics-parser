@@ -1,5 +1,5 @@
 [title]
-Biserica biserica fii sfanta si curata {author: {Ileana din Vâlcele}, {rcId: {175965}}
+Biserica biserica fii sfanta si curata {composer: {Ileana din Vâlcele}, {rcId: {175965}}
 
 [sequence]
 v1,v2,v3,v4

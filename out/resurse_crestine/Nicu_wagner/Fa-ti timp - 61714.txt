@@ -1,5 +1,5 @@
 [title]
-Fa-ti timp {author: {Nicu Wagner}, {rcId: {61714}}
+Fa-ti timp {composer: {Nicu Wagner}, {rcId: {61714}}
 
 [sequence]
 v1,c,v2,c2

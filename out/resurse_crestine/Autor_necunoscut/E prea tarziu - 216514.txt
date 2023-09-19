@@ -1,5 +1,5 @@
 [title]
-E prea tarziu {author: {Anonim}, {rcId: {216514}}
+E prea tarziu {composer: {Anonim}, {rcId: {216514}}
 
 [sequence]
 v1

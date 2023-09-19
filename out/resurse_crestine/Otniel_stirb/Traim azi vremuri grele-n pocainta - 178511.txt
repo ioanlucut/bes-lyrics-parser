@@ -1,5 +1,5 @@
 [title]
-Traim azi vremuri grele-n pocainta {author: {Otniel Stirb}, {rcId: {178511}}
+Traim azi vremuri grele-n pocainta {composer: {Otniel Stirb}, {rcId: {178511}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

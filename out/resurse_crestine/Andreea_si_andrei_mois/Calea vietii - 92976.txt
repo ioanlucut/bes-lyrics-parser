@@ -1,5 +1,5 @@
 [title]
-Calea vietii {author: {Andreea și Andrei Mois}, {rcId: {92976}}
+Calea vietii {composer: {Andreea și Andrei Mois}, {rcId: {92976}}
 
 [sequence]
 v1,b,c,v2,c

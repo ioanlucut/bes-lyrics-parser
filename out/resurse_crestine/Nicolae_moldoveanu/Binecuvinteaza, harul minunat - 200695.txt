@@ -1,5 +1,5 @@
 [title]
-Binecuvinteaza harul minunat {author: {Nicolae Moldoveanu}, {rcId: {200695}}
+Binecuvinteaza harul minunat {composer: {Nicolae Moldoveanu}, {rcId: {200695}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Elohim {author: {Teo Family, E. Golan Israel}, {rcId: {177551}}
+Elohim {composer: {Teo Family, E. Golan Israel}, {rcId: {177551}}
 
 [sequence]
 c,v1,c2,v1,c

@@ -1,5 +1,5 @@
 [title]
-Venim la tine {author: {Daniela Haidaciuc}, {rcId: {172349}}
+Venim la tine {composer: {Daniela Haidaciuc}, {rcId: {172349}}
 
 [sequence]
 v1,c,v2,c,v3,c

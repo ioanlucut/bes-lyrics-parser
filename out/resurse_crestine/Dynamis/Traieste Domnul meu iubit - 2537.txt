@@ -1,5 +1,5 @@
 [title]
-Traieste domnul meu iubit {author: {Dynamis}, {rcId: {2537}}
+Traieste domnul meu iubit {composer: {Dynamis}, {rcId: {2537}}
 
 [sequence]
 v1,c,v3,c

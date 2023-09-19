@@ -1,5 +1,5 @@
 [title]
-Toata viata mea {author: {Matt Redman}, {rcId: {82727}}
+Toata viata mea {composer: {Matt Redman}, {rcId: {82727}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Numai tu o doamne mare {author: {Nicu Puscau}, {rcId: {60291}}
+Numai tu o doamne mare {composer: {Nicu Puscau}, {rcId: {60291}}
 
 [sequence]
 v1,v2,v3,v4,v5

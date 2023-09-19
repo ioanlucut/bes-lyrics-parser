@@ -1,5 +1,5 @@
 [title]
-Voi ce stati in asteptare si priviti mereu spre zare {author: {Ovidiu Liteanu}, {rcId: {92946}}
+Voi ce stati in asteptare si priviti mereu spre zare {composer: {Ovidiu Liteanu}, {rcId: {92946}}
 
 [sequence]
 v1,c,v2,c,v3,c

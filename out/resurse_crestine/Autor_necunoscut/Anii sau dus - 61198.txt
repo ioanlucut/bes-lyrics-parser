@@ -1,5 +1,5 @@
 [title]
-Anii sau dus {author: {Anonim}, {rcId: {61198}}
+Anii sau dus {composer: {Anonim}, {rcId: {61198}}
 
 [sequence]
 v1,c,v2,c,v3,c

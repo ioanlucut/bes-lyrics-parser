@@ -1,5 +1,5 @@
 [title]
-Mare este marea {author: {Anonim}, {rcId: {57638}}
+Mare este marea {composer: {Anonim}, {rcId: {57638}}
 
 [sequence]
 v1

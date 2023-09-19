@@ -1,5 +1,5 @@
 [title]
-Cant dragostea ta {author: {Anonim}, {rcId: {2834}}
+Cant dragostea ta {composer: {Anonim}, {rcId: {2834}}
 
 [sequence]
 v1,c,e

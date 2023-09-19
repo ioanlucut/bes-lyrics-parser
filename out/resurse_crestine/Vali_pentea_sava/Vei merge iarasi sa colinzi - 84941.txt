@@ -1,5 +1,5 @@
 [title]
-Vei merge iarasi sa colinzi {author: {Vali Pentea Sava}, {rcId: {84941}}
+Vei merge iarasi sa colinzi {composer: {Vali Pentea Sava}, {rcId: {84941}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c3

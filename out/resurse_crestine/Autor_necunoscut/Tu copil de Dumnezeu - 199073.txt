@@ -1,5 +1,5 @@
 [title]
-Tu copil de dumnezeu {author: {Anonim}, {rcId: {199073}}
+Tu copil de dumnezeu {composer: {Anonim}, {rcId: {199073}}
 
 [sequence]
 v1,c,v2,c,v3,c

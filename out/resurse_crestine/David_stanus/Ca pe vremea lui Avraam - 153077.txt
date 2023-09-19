@@ -1,5 +1,5 @@
 [title]
-Ca pe vremea lui avraam {author: {David Stănuș}, {rcId: {153077}}
+Ca pe vremea lui avraam {composer: {David Stănuș}, {rcId: {153077}}
 
 [sequence]
 v1,c,v2,c,v3,c2

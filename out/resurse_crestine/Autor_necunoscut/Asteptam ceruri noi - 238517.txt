@@ -1,5 +1,5 @@
 [title]
-Asteptam ceruri noi {author: {Anonim}, {rcId: {238517}}
+Asteptam ceruri noi {composer: {Anonim}, {rcId: {238517}}
 
 [sequence]
 v1,c,v2,c,v3,c

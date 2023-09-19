@@ -1,5 +1,5 @@
 [title]
-Strig spre tin {author: {Anonim}, {rcId: {5074}}
+Strig spre tin {composer: {Anonim}, {rcId: {5074}}
 
 [sequence]
 v1,c,v2,c

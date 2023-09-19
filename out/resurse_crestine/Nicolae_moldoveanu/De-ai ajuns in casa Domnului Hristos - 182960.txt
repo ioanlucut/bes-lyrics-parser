@@ -1,5 +1,5 @@
 [title]
-De-ai ajuns in casa domnului hristos {author: {Nicolae Moldoveanu}, {rcId: {182960}}
+De-ai ajuns in casa domnului hristos {composer: {Nicolae Moldoveanu}, {rcId: {182960}}
 
 [sequence]
 v1,v2,v3,v4

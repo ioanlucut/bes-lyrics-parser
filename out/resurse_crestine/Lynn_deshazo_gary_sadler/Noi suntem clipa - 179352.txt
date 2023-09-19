@@ -1,5 +1,5 @@
 [title]
-Noi suntem clipa {author: {Lynn Deshazo, Gary Sadler}, {rcId: {179352}}
+Noi suntem clipa {composer: {Lynn Deshazo, Gary Sadler}, {rcId: {179352}}
 
 [sequence]
 v1,c,v2,c

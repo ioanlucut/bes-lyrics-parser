@@ -1,5 +1,5 @@
 [title]
-Dar te rog {author: {Daniel Cristian}, {rcId: {99968}}
+Dar te rog {composer: {Daniel Cristian}, {rcId: {99968}}
 
 [sequence]
 v1,c,v2,c

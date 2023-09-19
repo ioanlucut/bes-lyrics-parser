@@ -1,5 +1,5 @@
 [title]
-Mai presus de cuvinte {author: {Continental}, {rcId: {174378}}
+Mai presus de cuvinte {composer: {Continental}, {rcId: {174378}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Cu ce te hranesti tu frate crestin ? {author: {Anonim}, {rcId: {197238}}
+Cu ce te hranesti tu frate crestin ? {composer: {Anonim}, {rcId: {197238}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

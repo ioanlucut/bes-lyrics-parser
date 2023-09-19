@@ -1,5 +1,5 @@
 [title]
-In marire cand canta-vom osana {author: {Nicolae Moldoveanu}, {rcId: {5275}}
+In marire cand canta-vom osana {composer: {Nicolae Moldoveanu}, {rcId: {5275}}
 
 [sequence]
 v1,c,v2,c,v3,c

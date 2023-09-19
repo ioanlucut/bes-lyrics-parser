@@ -1,5 +1,5 @@
 [title]
-Noi vestim anul de har al domnului {author: {Anonim}, {rcId: {5008}}
+Noi vestim anul de har al domnului {composer: {Anonim}, {rcId: {5008}}
 
 [sequence]
 c,v2,c

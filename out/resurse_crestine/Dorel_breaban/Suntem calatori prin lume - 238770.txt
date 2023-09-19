@@ -1,5 +1,5 @@
 [title]
-Suntem calatori prin lume {author: {Dorel Breabăn}, {rcId: {238770}}
+Suntem calatori prin lume {composer: {Dorel Breabăn}, {rcId: {238770}}
 
 [sequence]
 v1,c,v2,c,v3,c

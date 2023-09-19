@@ -1,5 +1,5 @@
 [title]
-Sprijin gasesc (learning to lean) {author: {John Stallings, Traducere RO}, {rcId: {108766}}
+Sprijin gasesc (learning to lean) {composer: {John Stallings, Traducere RO}, {rcId: {108766}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,s,c

@@ -1,5 +1,5 @@
 [title]
-Voi fi mereu cu tine {author: {Cornel Sava și Mădălina Doroșcan}, {rcId: {211225}}
+Voi fi mereu cu tine {composer: {Cornel Sava și Mădălina Doroșcan}, {rcId: {211225}}
 
 [sequence]
 v1,c,v2,c,v3,c

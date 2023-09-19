@@ -1,5 +1,5 @@
 [title]
-O ce desertaciune-s toate {author: {Nicolae Moldoveanu}, {rcId: {244052}}
+O ce desertaciune-s toate {composer: {Nicolae Moldoveanu}, {rcId: {244052}}
 
 [sequence]
 v1,v2,v3

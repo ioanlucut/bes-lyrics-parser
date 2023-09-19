@@ -1,5 +1,5 @@
 [title]
-Ca un viteaz {author: {Daniela Haidaciuc}, {rcId: {172340}}
+Ca un viteaz {composer: {Daniela Haidaciuc}, {rcId: {172340}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

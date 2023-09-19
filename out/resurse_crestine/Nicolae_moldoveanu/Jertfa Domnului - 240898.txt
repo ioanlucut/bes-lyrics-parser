@@ -1,5 +1,5 @@
 [title]
-Jertfa domnului {author: {Nicolae Moldoveanu}, {rcId: {240898}}
+Jertfa domnului {composer: {Nicolae Moldoveanu}, {rcId: {240898}}
 
 [sequence]
 v1,v2,v3,v4

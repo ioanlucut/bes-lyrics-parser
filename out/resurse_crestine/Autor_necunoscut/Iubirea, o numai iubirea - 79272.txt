@@ -1,5 +1,5 @@
 [title]
-Iubirea o numai iubirea {author: {Anonim}, {rcId: {79272}}
+Iubirea o numai iubirea {composer: {Anonim}, {rcId: {79272}}
 
 [sequence]
 v1,c,v2,c,v3,c

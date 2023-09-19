@@ -1,5 +1,5 @@
 [title]
-Adeseori dureri pe cale am avut {author: {Anonim}, {rcId: {235528}}
+Adeseori dureri pe cale am avut {composer: {Anonim}, {rcId: {235528}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

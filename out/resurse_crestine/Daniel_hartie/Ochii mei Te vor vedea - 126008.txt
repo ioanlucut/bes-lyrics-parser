@@ -1,5 +1,5 @@
 [title]
-Ochii mei te vor vedea {author: {Daniel Hartie}, {rcId: {126008}}
+Ochii mei te vor vedea {composer: {Daniel Hartie}, {rcId: {126008}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

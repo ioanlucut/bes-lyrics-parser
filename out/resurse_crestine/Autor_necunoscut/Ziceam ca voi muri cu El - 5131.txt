@@ -1,5 +1,5 @@
 [title]
-Ziceam ca voi muri cu el {author: {Anonim}, {rcId: {5131}}
+Ziceam ca voi muri cu el {composer: {Anonim}, {rcId: {5131}}
 
 [sequence]
 v1,c,v2,c

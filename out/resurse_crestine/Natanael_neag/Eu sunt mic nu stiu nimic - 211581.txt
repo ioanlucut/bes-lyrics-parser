@@ -1,5 +1,5 @@
 [title]
-Eu sunt mic nu stiu nimic {author: {Natanael Neag}, {rcId: {211581}}
+Eu sunt mic nu stiu nimic {composer: {Natanael Neag}, {rcId: {211581}}
 
 [sequence]
 v1,v2,v3,v4

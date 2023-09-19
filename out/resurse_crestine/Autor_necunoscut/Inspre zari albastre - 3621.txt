@@ -1,5 +1,5 @@
 [title]
-Inspre zari albastre {author: {Anonim}, {rcId: {3621}}
+Inspre zari albastre {composer: {Anonim}, {rcId: {3621}}
 
 [sequence]
 v1,c,v2,c,v3,c

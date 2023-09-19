@@ -1,5 +1,5 @@
 [title]
-Anul vechi fruntea-si apleaca {author: {Fratii Pal}, {rcId: {183666}}
+Anul vechi fruntea-si apleaca {composer: {Fratii Pal}, {rcId: {183666}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

@@ -1,5 +1,5 @@
 [title]
-Ce pace {author: {Frații Wagner}, {rcId: {153845}}
+Ce pace {composer: {Frații Wagner}, {rcId: {153845}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

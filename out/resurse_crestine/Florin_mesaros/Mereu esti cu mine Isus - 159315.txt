@@ -1,5 +1,5 @@
 [title]
-Mereu esti cu mine isus {author: {Florin Mesaroș}, {rcId: {159315}}
+Mereu esti cu mine isus {composer: {Florin Mesaroș}, {rcId: {159315}}
 
 [sequence]
 v1,b,c,v2,b,c,e

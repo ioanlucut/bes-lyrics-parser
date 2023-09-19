@@ -1,5 +1,5 @@
 [title]
-Pe pamantul bantuit de remuscare {author: {Iulia Contis}, {rcId: {240234}}
+Pe pamantul bantuit de remuscare {composer: {Iulia Contis}, {rcId: {240234}}
 
 [sequence]
 v1,c,v2,c

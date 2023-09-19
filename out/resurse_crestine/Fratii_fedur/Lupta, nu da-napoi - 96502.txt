@@ -1,5 +1,5 @@
 [title]
-Lupta nu da-napoi {author: {Frații Fedur}, {rcId: {96502}}
+Lupta nu da-napoi {composer: {Frații Fedur}, {rcId: {96502}}
 
 [sequence]
 v1,c,v2,c,v3,c

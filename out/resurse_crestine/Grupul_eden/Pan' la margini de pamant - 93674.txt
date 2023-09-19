@@ -1,5 +1,5 @@
 [title]
-Pan la margini de pamant {author: {Grupul Eden}, {rcId: {93674}}
+Pan la margini de pamant {composer: {Grupul Eden}, {rcId: {93674}}
 
 [sequence]
 v1,c,v2,c,v3,c

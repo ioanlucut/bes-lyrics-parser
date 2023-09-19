@@ -1,5 +1,5 @@
 [title]
-E un om care umbla prin noapte {author: {Cristian Văduva}, {rcId: {204419}}
+E un om care umbla prin noapte {composer: {Cristian Văduva}, {rcId: {204419}}
 
 [sequence]
 v1,c,v2,c,v3,c

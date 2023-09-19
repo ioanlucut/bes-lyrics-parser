@@ -1,5 +1,5 @@
 [title]
-Casatorie fara tine nu-i {author: {Nicolae Moldoveanu}, {rcId: {5527}}
+Casatorie fara tine nu-i {composer: {Nicolae Moldoveanu}, {rcId: {5527}}
 
 [sequence]
 v1,c

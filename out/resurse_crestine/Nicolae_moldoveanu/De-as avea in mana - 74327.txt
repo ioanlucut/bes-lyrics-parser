@@ -1,5 +1,5 @@
 [title]
-De-as avea in mana {author: {Nicolae Moldoveanu}, {rcId: {74327}}
+De-as avea in mana {composer: {Nicolae Moldoveanu}, {rcId: {74327}}
 
 [sequence]
 v1,v2,v3,v4

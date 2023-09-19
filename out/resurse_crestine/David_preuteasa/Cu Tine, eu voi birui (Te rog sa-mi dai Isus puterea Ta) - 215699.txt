@@ -1,5 +1,5 @@
 [title]
-Cu tine eu voi birui (te rog sa-mi dai isus puterea ta) {author: {David Preuteasa}, {rcId: {215699}}
+Cu tine eu voi birui (te rog sa-mi dai isus puterea ta) {composer: {David Preuteasa}, {rcId: {215699}}
 
 [sequence]
 v1,c,v2,c,e

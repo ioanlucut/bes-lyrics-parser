@@ -1,5 +1,5 @@
 [title]
-Mainile tale {author: {Virginia}, {rcId: {74641}}
+Mainile tale {composer: {Virginia}, {rcId: {74641}}
 
 [sequence]
 v1,c,v2,c,v3,c

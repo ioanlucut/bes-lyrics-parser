@@ -1,5 +1,5 @@
 [title]
-Ma-ndrept spre tine {author: {Gabriel Gorcea și prietenii}, {rcId: {110691}}
+Ma-ndrept spre tine {composer: {Gabriel Gorcea și prietenii}, {rcId: {110691}}
 
 [sequence]
 v1,c,v2,c,v3,c

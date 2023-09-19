@@ -1,5 +1,5 @@
 [title]
-Mie atat mi-a mai ramas {author: {Anonim}, {rcId: {188637}}
+Mie atat mi-a mai ramas {composer: {Anonim}, {rcId: {188637}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

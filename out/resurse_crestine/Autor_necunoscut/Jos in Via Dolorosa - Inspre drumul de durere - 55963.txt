@@ -1,5 +1,5 @@
 [title]
-Jos in via dolorosa - inspre drumul de durere {author: {Anonim}, {rcId: {55963}}
+Jos in via dolorosa - inspre drumul de durere {composer: {Anonim}, {rcId: {55963}}
 
 [sequence]
 v1,c,v2,c,v3,c

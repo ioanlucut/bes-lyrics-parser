@@ -1,5 +1,5 @@
 [title]
-Dar mi-ai deschis ochii {author: {Laud}, {rcId: {2816}}
+Dar mi-ai deschis ochii {composer: {Laud}, {rcId: {2816}}
 
 [sequence]
 v1,c,v2,c

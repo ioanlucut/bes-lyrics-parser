@@ -1,5 +1,5 @@
 [title]
-Locas ceresc eu am aflat {author: {John R. Sweney}, {rcId: {5742}}
+Locas ceresc eu am aflat {composer: {John R. Sweney}, {rcId: {5742}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

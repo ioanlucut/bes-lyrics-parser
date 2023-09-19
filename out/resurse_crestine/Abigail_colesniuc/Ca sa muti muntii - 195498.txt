@@ -1,5 +1,5 @@
 [title]
-Ca sa muti muntii {author: {Abigail Colesniuc}, {rcId: {195498}}
+Ca sa muti muntii {composer: {Abigail Colesniuc}, {rcId: {195498}}
 
 [sequence]
 v1,c,v2,c,e

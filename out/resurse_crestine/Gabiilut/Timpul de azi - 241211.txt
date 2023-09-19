@@ -1,5 +1,5 @@
 [title]
-Timpul de azi {author: {Gabi_Ilut}, {rcId: {241211}}
+Timpul de azi {composer: {Gabi_Ilut}, {rcId: {241211}}
 
 [sequence]
 v1,c,v2,c

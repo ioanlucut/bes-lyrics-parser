@@ -1,5 +1,5 @@
 [title]
-Pasesc inaintand pe cale {author: {Miriam Muntean}, {rcId: {225861}}
+Pasesc inaintand pe cale {composer: {Miriam Muntean}, {rcId: {225861}}
 
 [sequence]
 v1,v2,v3,v4,v5

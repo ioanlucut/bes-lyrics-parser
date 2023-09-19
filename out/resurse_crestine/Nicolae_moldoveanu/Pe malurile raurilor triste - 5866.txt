@@ -1,5 +1,5 @@
 [title]
-Pe malurile raurilor triste {author: {Nicolae Moldoveanu}, {rcId: {5866}}
+Pe malurile raurilor triste {composer: {Nicolae Moldoveanu}, {rcId: {5866}}
 
 [sequence]
 v1,v2,v3,v4,v5

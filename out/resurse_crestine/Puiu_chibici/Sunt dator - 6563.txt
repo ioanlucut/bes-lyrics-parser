@@ -1,5 +1,5 @@
 [title]
-Sunt dator {author: {Puiu Chibici}, {rcId: {6563}}
+Sunt dator {composer: {Puiu Chibici}, {rcId: {6563}}
 
 [sequence]
 v1,v2,v3,v4,v5

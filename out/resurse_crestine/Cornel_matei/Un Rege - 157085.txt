@@ -1,5 +1,5 @@
 [title]
-Un rege {author: {Cornel Matei}, {rcId: {157085}}
+Un rege {composer: {Cornel Matei}, {rcId: {157085}}
 
 [sequence]
 v1,c,v2,c,e

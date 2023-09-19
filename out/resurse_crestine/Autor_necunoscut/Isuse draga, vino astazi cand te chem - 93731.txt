@@ -1,5 +1,5 @@
 [title]
-Isuse draga vino astazi cand te chem {author: {Anonim}, {rcId: {93731}}
+Isuse draga vino astazi cand te chem {composer: {Anonim}, {rcId: {93731}}
 
 [sequence]
 v1,v2,v3

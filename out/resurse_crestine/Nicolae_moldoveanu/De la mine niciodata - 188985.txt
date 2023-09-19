@@ -1,5 +1,5 @@
 [title]
-De la mine niciodata {author: {Nicolae Moldoveanu}, {rcId: {188985}}
+De la mine niciodata {composer: {Nicolae Moldoveanu}, {rcId: {188985}}
 
 [sequence]
 v1,v2,v3,v4,v5

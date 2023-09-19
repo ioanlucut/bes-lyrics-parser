@@ -1,5 +1,5 @@
 [title]
-Singuri si tristi {author: {Florin Mesaroș}, {rcId: {157389}}
+Singuri si tristi {composer: {Florin Mesaroș}, {rcId: {157389}}
 
 [sequence]
 v1,c,v2,c

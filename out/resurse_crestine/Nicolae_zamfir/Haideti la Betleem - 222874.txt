@@ -1,5 +1,5 @@
 [title]
-Haideti la betleem {author: {Nicolae Zamfir}, {rcId: {222874}}
+Haideti la betleem {composer: {Nicolae Zamfir}, {rcId: {222874}}
 
 [sequence]
 v1,c,v2,c,v3,c

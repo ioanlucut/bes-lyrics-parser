@@ -1,5 +1,5 @@
 [title]
-Mai e putin {author: {Gabi Ilut}, {rcId: {4514}}
+Mai e putin {composer: {Gabi Ilut}, {rcId: {4514}}
 
 [sequence]
 v1,c,v2,c,v3,c

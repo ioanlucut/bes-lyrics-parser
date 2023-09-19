@@ -1,5 +1,5 @@
 [title]
-Eu plec acolo unde e lumina {author: {Anonim}, {rcId: {1638}}
+Eu plec acolo unde e lumina {composer: {Anonim}, {rcId: {1638}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Mercy - aercurat {author: {Maverick City Music trad. AerCurat}, {rcId: {221997}}
+Mercy - aercurat {composer: {Maverick City Music trad. AerCurat}, {rcId: {221997}}
 
 [sequence]
 v1,c,v2,c,b,c,b,e

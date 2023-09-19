@@ -1,5 +1,5 @@
 [title]
-De prin literele mici {author: {Nicolae Moldoveanu}, {rcId: {231635}}
+De prin literele mici {composer: {Nicolae Moldoveanu}, {rcId: {231635}}
 
 [sequence]
 v1,v2,v3,v4,v5

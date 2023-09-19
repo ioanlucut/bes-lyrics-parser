@@ -1,5 +1,5 @@
 [title]
-Ai pus o pecete pe inima mea {author: {Anonim}, {rcId: {195197}}
+Ai pus o pecete pe inima mea {composer: {Anonim}, {rcId: {195197}}
 
 [sequence]
 v1,c,v2,c,v3,c

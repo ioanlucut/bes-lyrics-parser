@@ -1,5 +1,5 @@
 [title]
-Tot ce privesti o clipa {author: {Nicolae Moldoveanu}, {rcId: {242346}}
+Tot ce privesti o clipa {composer: {Nicolae Moldoveanu}, {rcId: {242346}}
 
 [sequence]
 v1,v2,v3

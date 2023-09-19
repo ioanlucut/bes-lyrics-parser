@@ -1,5 +1,5 @@
 [title]
-O ce har si bucurie mare {author: {Ioan Hapca}, {rcId: {95255}}
+O ce har si bucurie mare {composer: {Ioan Hapca}, {rcId: {95255}}
 
 [sequence]
 v1,c,v2,c,v3,c

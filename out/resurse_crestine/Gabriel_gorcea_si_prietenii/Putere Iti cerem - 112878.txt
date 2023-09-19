@@ -1,5 +1,5 @@
 [title]
-Putere iti cerem {author: {Gabriel Gorcea și prietenii}, {rcId: {112878}}
+Putere iti cerem {composer: {Gabriel Gorcea și prietenii}, {rcId: {112878}}
 
 [sequence]
 v1,c,v2,c,v3,c

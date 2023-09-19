@@ -1,5 +1,5 @@
 [title]
-Alipeste-te de domnul {author: {Puiu Chibici}, {rcId: {151426}}
+Alipeste-te de domnul {composer: {Puiu Chibici}, {rcId: {151426}}
 
 [sequence]
 v1,c,v2,c,v3,c

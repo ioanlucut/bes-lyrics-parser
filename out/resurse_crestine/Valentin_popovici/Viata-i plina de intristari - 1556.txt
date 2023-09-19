@@ -1,5 +1,5 @@
 [title]
-Viata-i plina de intristari {author: {Valentin Popovici}, {rcId: {1556}}
+Viata-i plina de intristari {composer: {Valentin Popovici}, {rcId: {1556}}
 
 [sequence]
 v1,c,v2,c,v3,c

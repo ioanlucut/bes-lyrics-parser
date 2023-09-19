@@ -1,5 +1,5 @@
 [title]
-Cant doamne-n templul tau {author: {Anonim}, {rcId: {93314}}
+Cant doamne-n templul tau {composer: {Anonim}, {rcId: {93314}}
 
 [sequence]
 v1,c,v2,c

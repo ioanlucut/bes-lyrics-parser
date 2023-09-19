@@ -1,5 +1,5 @@
 [title]
-Iata lupta-i pe sfarsite {author: {Nicolae Moldoveanu}, {rcId: {247813}}
+Iata lupta-i pe sfarsite {composer: {Nicolae Moldoveanu}, {rcId: {247813}}
 
 [sequence]
 v1,v2,v3,v4

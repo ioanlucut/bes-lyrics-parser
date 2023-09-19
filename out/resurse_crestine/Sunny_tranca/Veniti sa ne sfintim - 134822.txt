@@ -1,5 +1,5 @@
 [title]
-Veniti sa ne sfintim {author: {Sunny Tranca}, {rcId: {134822}}
+Veniti sa ne sfintim {composer: {Sunny Tranca}, {rcId: {134822}}
 
 [sequence]
 v1,c,v2,c,e

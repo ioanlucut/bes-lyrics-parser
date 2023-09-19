@@ -1,5 +1,5 @@
 [title]
-Isus numai tu {author: {Decean}, {rcId: {6922}}
+Isus numai tu {composer: {Decean}, {rcId: {6922}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,v4,c

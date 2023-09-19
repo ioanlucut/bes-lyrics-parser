@@ -1,5 +1,5 @@
 [title]
-Vino la elim {author: {Anonim}, {rcId: {153955}}
+Vino la elim {composer: {Anonim}, {rcId: {153955}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,v4,c

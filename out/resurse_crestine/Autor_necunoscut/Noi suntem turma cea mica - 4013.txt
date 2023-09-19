@@ -1,5 +1,5 @@
 [title]
-Noi suntem turma cea mica {author: {Anonim}, {rcId: {4013}}
+Noi suntem turma cea mica {composer: {Anonim}, {rcId: {4013}}
 
 [sequence]
 v1,v2,v3

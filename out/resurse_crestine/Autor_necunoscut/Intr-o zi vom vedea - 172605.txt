@@ -1,5 +1,5 @@
 [title]
-Intr-o zi vom vedea {author: {Anonim}, {rcId: {172605}}
+Intr-o zi vom vedea {composer: {Anonim}, {rcId: {172605}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Ce dulce ne-a fost doamne iubirea ta frumoasa {author: {Alexandru Macedon}, {rcId: {109855}}
+Ce dulce ne-a fost doamne iubirea ta frumoasa {composer: {Alexandru Macedon}, {rcId: {109855}}
 
 [sequence]
 v1,c,v2,c,v3,c

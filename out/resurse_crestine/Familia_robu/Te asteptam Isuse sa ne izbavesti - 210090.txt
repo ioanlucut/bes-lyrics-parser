@@ -1,5 +1,5 @@
 [title]
-Te asteptam isuse sa ne izbavesti {author: {Familia Robu}, {rcId: {210090}}
+Te asteptam isuse sa ne izbavesti {composer: {Familia Robu}, {rcId: {210090}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

@@ -1,5 +1,5 @@
 [title]
-Un cor ingeresc - speranta editata (vio) {author: {Speranța}, {rcId: {210124}}
+Un cor ingeresc - speranta editata (vio) {composer: {Speranța}, {rcId: {210124}}
 
 [sequence]
 v1,c,v2,c,v3,c

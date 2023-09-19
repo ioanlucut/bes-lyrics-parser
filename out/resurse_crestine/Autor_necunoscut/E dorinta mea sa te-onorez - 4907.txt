@@ -1,5 +1,5 @@
 [title]
-E dorinta mea sa te-onorez {author: {Anonim}, {rcId: {4907}}
+E dorinta mea sa te-onorez {composer: {Anonim}, {rcId: {4907}}
 
 [sequence]
 v1,c,c

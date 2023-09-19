@@ -1,5 +1,5 @@
 [title]
-Psalm {author: {Stuart Townend, Traducere RO}, {rcId: {74022}}
+Psalm {composer: {Stuart Townend, Traducere RO}, {rcId: {74022}}
 
 [sequence]
 v1,c,v2,c2,v3,c2,v4,c2

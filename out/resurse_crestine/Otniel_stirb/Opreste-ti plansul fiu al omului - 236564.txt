@@ -1,5 +1,5 @@
 [title]
-Opreste-ti plansul fiu al omului {author: {Otniel Stirb}, {rcId: {236564}}
+Opreste-ti plansul fiu al omului {composer: {Otniel Stirb}, {rcId: {236564}}
 
 [sequence]
 v1,c,v2,c,v3,c

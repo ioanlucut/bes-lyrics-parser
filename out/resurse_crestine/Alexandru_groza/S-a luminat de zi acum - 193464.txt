@@ -1,5 +1,5 @@
 [title]
-S-a luminat de zi acum {author: {Alexandru Groza}, {rcId: {193464}}
+S-a luminat de zi acum {composer: {Alexandru Groza}, {rcId: {193464}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Iubirea-nseamna jertfa {author: {Gabi Ilut}, {rcId: {4510}}
+Iubirea-nseamna jertfa {composer: {Gabi Ilut}, {rcId: {4510}}
 
 [sequence]
 v1,c,v2,c

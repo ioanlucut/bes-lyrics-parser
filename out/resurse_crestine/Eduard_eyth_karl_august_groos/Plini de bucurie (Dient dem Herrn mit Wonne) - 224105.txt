@@ -1,5 +1,5 @@
 [title]
-Plini de bucurie (dient dem herrn mit wonne) {author: {Eduard Eyth, Karl August Groos, Traducere RO}, {rcId: {224105}}
+Plini de bucurie (dient dem herrn mit wonne) {composer: {Eduard Eyth, Karl August Groos, Traducere RO}, {rcId: {224105}}
 
 [sequence]
 v1,v2

@@ -1,5 +1,5 @@
 [title]
-Tu esti usa {author: {Anonim}, {rcId: {55647}}
+Tu esti usa {composer: {Anonim}, {rcId: {55647}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Pe-aripi de cantec {author: {Nicolae Moldoveanu}, {rcId: {246189}}
+Pe-aripi de cantec {composer: {Nicolae Moldoveanu}, {rcId: {246189}}
 
 [sequence]
 v1,v2,v3,v4

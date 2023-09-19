@@ -1,5 +1,5 @@
 [title]
-Imi pare rau de tot ce-n viata {author: {Traian Dorz}, {rcId: {90365}}
+Imi pare rau de tot ce-n viata {composer: {Traian Dorz}, {rcId: {90365}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

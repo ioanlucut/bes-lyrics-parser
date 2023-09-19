@@ -1,5 +1,5 @@
 [title]
-Cu tot intregul meu amar {author: {Anonim}, {rcId: {55578}}
+Cu tot intregul meu amar {composer: {Anonim}, {rcId: {55578}}
 
 [sequence]
 v1,c,v2,c,v3,c

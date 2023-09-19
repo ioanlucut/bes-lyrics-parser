@@ -1,5 +1,5 @@
 [title]
-Minunata iubire {author: {Miriam Popescu}, {rcId: {211219}}
+Minunata iubire {composer: {Miriam Popescu}, {rcId: {211219}}
 
 [sequence]
 v1,c,v2,c,v3,c

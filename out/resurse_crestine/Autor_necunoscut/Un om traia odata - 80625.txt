@@ -1,5 +1,5 @@
 [title]
-Un om traia odata {author: {Anonim}, {rcId: {80625}}
+Un om traia odata {composer: {Anonim}, {rcId: {80625}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

@@ -1,5 +1,5 @@
 [title]
-Lead me to the cross - vin la crucea ta {author: {Hillsong United, Traducere RO}, {rcId: {136012}}
+Lead me to the cross - vin la crucea ta {composer: {Hillsong United, Traducere RO}, {rcId: {136012}}
 
 [sequence]
 v1,c,v2,c,c

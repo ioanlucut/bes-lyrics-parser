@@ -1,5 +1,5 @@
 [title]
-Curgi ca un rau {author: {Eldad}, {rcId: {240802}}
+Curgi ca un rau {composer: {Eldad}, {rcId: {240802}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Mergeti mergeti voi crestini {author: {Dănuț Ursachi}, {rcId: {196739}}
+Mergeti mergeti voi crestini {composer: {Dănuț Ursachi}, {rcId: {196739}}
 
 [sequence]
 v1,v2,v3

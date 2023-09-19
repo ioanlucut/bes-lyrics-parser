@@ -1,5 +1,5 @@
 [title]
-Purifica-mi inima {author: {Anonim}, {rcId: {5051}}
+Purifica-mi inima {composer: {Anonim}, {rcId: {5051}}
 
 [sequence]
 c,v1,c

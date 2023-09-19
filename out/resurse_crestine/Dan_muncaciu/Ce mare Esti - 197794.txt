@@ -1,5 +1,5 @@
 [title]
-Ce mare esti {author: {Dan Muncaciu}, {rcId: {197794}}
+Ce mare esti {composer: {Dan Muncaciu}, {rcId: {197794}}
 
 [sequence]
 v1,c,c,v2,c,c,c

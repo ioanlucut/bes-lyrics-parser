@@ -1,5 +1,5 @@
 [title]
-Innoieste sufletul meu (restore my soul) {author: {Andi Rozier, Traducere RO}, {rcId: {210666}}
+Innoieste sufletul meu (restore my soul) {composer: {Andi Rozier, Traducere RO}, {rcId: {210666}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Astazi pot sa te slavesc {author: {Anonimul}, {rcId: {229194}}
+Astazi pot sa te slavesc {composer: {Anonimul}, {rcId: {229194}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

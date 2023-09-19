@@ -1,5 +1,5 @@
 [title]
-In cea mai grea incercare {author: {Anonim}, {rcId: {224379}}
+In cea mai grea incercare {composer: {Anonim}, {rcId: {224379}}
 
 [sequence]
 v1,c,v2,c

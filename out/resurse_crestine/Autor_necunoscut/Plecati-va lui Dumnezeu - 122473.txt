@@ -1,5 +1,5 @@
 [title]
-Plecati-va lui dumnezeu {author: {Anonim}, {rcId: {122473}}
+Plecati-va lui dumnezeu {composer: {Anonim}, {rcId: {122473}}
 
 [sequence]
 v1,v2,v3,v4

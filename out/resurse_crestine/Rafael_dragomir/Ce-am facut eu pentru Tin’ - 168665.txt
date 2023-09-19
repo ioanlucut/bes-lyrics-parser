@@ -1,5 +1,5 @@
 [title]
-Ce-am facut eu pentru tin' {author: {Rafael Dragomir}, {rcId: {168665}}
+Ce-am facut eu pentru tin' {composer: {Rafael Dragomir}, {rcId: {168665}}
 
 [sequence]
 v1,c,v2,c,v3,c2

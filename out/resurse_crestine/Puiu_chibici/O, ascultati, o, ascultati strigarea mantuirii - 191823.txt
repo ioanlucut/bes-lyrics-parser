@@ -1,5 +1,5 @@
 [title]
-O ascultati o ascultati strigarea mantuirii {author: {Puiu Chibici}, {rcId: {191823}}
+O ascultati o ascultati strigarea mantuirii {composer: {Puiu Chibici}, {rcId: {191823}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

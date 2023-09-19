@@ -1,5 +1,5 @@
 [title]
-El ne-a condus {author: {Mary McDonald}, {rcId: {163467}}
+El ne-a condus {composer: {Mary McDonald}, {rcId: {163467}}
 
 [sequence]
 v1,v2,c,v3,c2,e

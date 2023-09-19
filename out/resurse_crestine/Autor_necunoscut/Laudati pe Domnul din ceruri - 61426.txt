@@ -1,5 +1,5 @@
 [title]
-Laudati pe domnul din ceruri {author: {Anonim}, {rcId: {61426}}
+Laudati pe domnul din ceruri {composer: {Anonim}, {rcId: {61426}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Pune-ma ca o pecete pe inima ta {author: {Fratii Sfara}, {rcId: {4173}}
+Pune-ma ca o pecete pe inima ta {composer: {Fratii Sfara}, {rcId: {4173}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Luminat de-adevar {author: {Nicolae Moldoveanu}, {rcId: {6477}}
+Luminat de-adevar {composer: {Nicolae Moldoveanu}, {rcId: {6477}}
 
 [sequence]
 v1,v2,v3,v4,v5

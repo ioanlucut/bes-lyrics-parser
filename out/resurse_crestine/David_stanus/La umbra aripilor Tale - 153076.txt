@@ -1,5 +1,5 @@
 [title]
-La umbra aripilor tale {author: {David Stănuș}, {rcId: {153076}}
+La umbra aripilor tale {composer: {David Stănuș}, {rcId: {153076}}
 
 [sequence]
 v1,c,v2,c,v3,c

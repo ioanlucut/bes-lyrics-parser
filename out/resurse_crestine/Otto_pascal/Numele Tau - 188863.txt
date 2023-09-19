@@ -1,5 +1,5 @@
 [title]
-Numele tau {author: {Otto Pascal}, {rcId: {188863}}
+Numele tau {composer: {Otto Pascal}, {rcId: {188863}}
 
 [sequence]
 v1,c,v2,c

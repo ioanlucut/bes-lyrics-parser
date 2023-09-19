@@ -1,5 +1,5 @@
 [title]
-Cu alti cocori {author: {Nicolae Moldoveanu}, {rcId: {244574}}
+Cu alti cocori {composer: {Nicolae Moldoveanu}, {rcId: {244574}}
 
 [sequence]
 v1,v2,v3,v4,v5

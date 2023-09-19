@@ -1,5 +1,5 @@
 [title]
-Avraame nu pleca {author: {Anonim}, {rcId: {218647}}
+Avraame nu pleca {composer: {Anonim}, {rcId: {218647}}
 
 [sequence]
 v1,c,v2,c,v3,c

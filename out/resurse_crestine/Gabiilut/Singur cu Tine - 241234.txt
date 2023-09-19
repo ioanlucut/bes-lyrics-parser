@@ -1,5 +1,5 @@
 [title]
-Singur cu tine {author: {Gabi_Ilut}, {rcId: {241234}}
+Singur cu tine {composer: {Gabi_Ilut}, {rcId: {241234}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Tata bun {author: {Tabara 477}, {rcId: {239443}}
+Tata bun {composer: {Tabara 477}, {rcId: {239443}}
 
 [sequence]
 v1,c,v2,c,e

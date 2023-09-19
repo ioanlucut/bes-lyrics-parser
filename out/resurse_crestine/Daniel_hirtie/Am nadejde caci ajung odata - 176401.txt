@@ -1,5 +1,5 @@
 [title]
-Am nadejde caci ajung odata {author: {Daniel Hîrtie}, {rcId: {176401}}
+Am nadejde caci ajung odata {composer: {Daniel Hîrtie}, {rcId: {176401}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

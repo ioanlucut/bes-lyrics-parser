@@ -1,5 +1,5 @@
 [title]
-Curand curand isus va reveni {author: {Fratii Mocanu}, {rcId: {219845}}
+Curand curand isus va reveni {composer: {Fratii Mocanu}, {rcId: {219845}}
 
 [sequence]
 v1,c,v2,c,v3,c

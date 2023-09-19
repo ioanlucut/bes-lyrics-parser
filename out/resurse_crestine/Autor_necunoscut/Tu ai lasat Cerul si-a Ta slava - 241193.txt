@@ -1,5 +1,5 @@
 [title]
-Tu ai lasat cerul si-a ta slava {author: {Autor necunoscut}, {rcId: {241193}}
+Tu ai lasat cerul si-a ta slava {composer: {Autor necunoscut}, {rcId: {241193}}
 
 [sequence]
 v1,c,v2,c

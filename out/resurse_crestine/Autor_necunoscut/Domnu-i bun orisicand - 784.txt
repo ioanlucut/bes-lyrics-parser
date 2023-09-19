@@ -1,5 +1,5 @@
 [title]
-Domnu-i bun orisicand {author: {Anonim}, {rcId: {784}}
+Domnu-i bun orisicand {composer: {Anonim}, {rcId: {784}}
 
 [sequence]
 v1,c,v2,c

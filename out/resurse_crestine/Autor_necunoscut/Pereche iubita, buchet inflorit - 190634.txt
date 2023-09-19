@@ -1,5 +1,5 @@
 [title]
-Pereche iubita buchet inflorit {author: {Anonim}, {rcId: {190634}}
+Pereche iubita buchet inflorit {composer: {Anonim}, {rcId: {190634}}
 
 [sequence]
 v1,c,v2,c,v3,c

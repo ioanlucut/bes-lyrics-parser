@@ -1,5 +1,5 @@
 [title]
-Cununi minunate asteapta sa le poarte {author: {Gheorghe Zoltan}, {rcId: {184086}}
+Cununi minunate asteapta sa le poarte {composer: {Gheorghe Zoltan}, {rcId: {184086}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Te-am vazut in orice floare {author: {Rugul aprins}, {rcId: {174931}}
+Te-am vazut in orice floare {composer: {Rugul aprins}, {rcId: {174931}}
 
 [sequence]
 v1,c,v2,c,v3,c

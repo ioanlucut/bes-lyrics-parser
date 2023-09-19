@@ -1,5 +1,5 @@
 [title]
-Astazi iarasi e craciun {author: {Anonim}, {rcId: {1385}}
+Astazi iarasi e craciun {composer: {Anonim}, {rcId: {1385}}
 
 [sequence]
 v1,c,v2,c,v3,c

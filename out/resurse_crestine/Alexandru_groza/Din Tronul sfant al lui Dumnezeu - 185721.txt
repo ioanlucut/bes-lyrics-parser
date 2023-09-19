@@ -1,5 +1,5 @@
 [title]
-Din tronul sfant al lui dumnezeu {author: {Alexandru Groza}, {rcId: {185721}}
+Din tronul sfant al lui dumnezeu {composer: {Alexandru Groza}, {rcId: {185721}}
 
 [sequence]
 v1,c,v2,c

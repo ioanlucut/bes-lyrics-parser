@@ -1,5 +1,5 @@
 [title]
-Dintr-o tara departata {author: {Anonim}, {rcId: {4428}}
+Dintr-o tara departata {composer: {Anonim}, {rcId: {4428}}
 
 [sequence]
 v1,c

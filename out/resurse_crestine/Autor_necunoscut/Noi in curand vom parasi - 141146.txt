@@ -1,5 +1,5 @@
 [title]
-Noi in curand vom parasi {author: {Anonim}, {rcId: {141146}}
+Noi in curand vom parasi {composer: {Anonim}, {rcId: {141146}}
 
 [sequence]
 v1,c,v2,c,v3,c2

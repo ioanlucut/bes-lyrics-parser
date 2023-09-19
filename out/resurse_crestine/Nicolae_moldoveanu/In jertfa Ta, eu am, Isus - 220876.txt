@@ -1,5 +1,5 @@
 [title]
-In jertfa ta eu am isus {author: {Nicolae Moldoveanu}, {rcId: {220876}}
+In jertfa ta eu am isus {composer: {Nicolae Moldoveanu}, {rcId: {220876}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

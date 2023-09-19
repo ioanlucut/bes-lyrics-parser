@@ -1,5 +1,5 @@
 [title]
-Yahweh se manifesta {author: {El Shaddai}, {rcId: {246232}}
+Yahweh se manifesta {composer: {El Shaddai}, {rcId: {246232}}
 
 [sequence]
 c,v1,c,v1,c,b,e,c

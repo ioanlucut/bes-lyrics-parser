@@ -1,5 +1,5 @@
 [title]
-Cu inima {author: {Sanja Cristea Tiberian}, {rcId: {96755}}
+Cu inima {composer: {Sanja Cristea Tiberian}, {rcId: {96755}}
 
 [sequence]
 v1,c,v2,c,v3,c

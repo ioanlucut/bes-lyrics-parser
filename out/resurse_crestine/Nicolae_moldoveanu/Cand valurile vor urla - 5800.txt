@@ -1,5 +1,5 @@
 [title]
-Cand valurile vor urla {author: {Nicolae Moldoveanu}, {rcId: {5800}}
+Cand valurile vor urla {composer: {Nicolae Moldoveanu}, {rcId: {5800}}
 
 [sequence]
 v1,v2,v3,v4

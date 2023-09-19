@@ -1,5 +1,5 @@
 [title]
-Iarta-ma tata {author: {Mirela Ursulescu}, {rcId: {176608}}
+Iarta-ma tata {composer: {Mirela Ursulescu}, {rcId: {176608}}
 
 [sequence]
 v1,c,v2,c,v3,c

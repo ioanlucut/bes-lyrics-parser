@@ -1,5 +1,5 @@
 [title]
-Asculta doamne rugaciunea {author: {Bejenar Valentin}, {rcId: {3920}}
+Asculta doamne rugaciunea {composer: {Bejenar Valentin}, {rcId: {3920}}
 
 [sequence]
 v1,c,v2,c,v3,c

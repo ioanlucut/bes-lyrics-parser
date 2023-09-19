@@ -1,5 +1,5 @@
 [title]
-Ma intreb de ce nu pot isuse sa-ti slujesc {author: {Anonim}, {rcId: {7087}}
+Ma intreb de ce nu pot isuse sa-ti slujesc {composer: {Anonim}, {rcId: {7087}}
 
 [sequence]
 v1,b,c,v2,c

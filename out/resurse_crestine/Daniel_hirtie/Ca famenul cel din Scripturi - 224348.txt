@@ -1,5 +1,5 @@
 [title]
-Ca famenul cel din scripturi {author: {Daniel Hîrtie}, {rcId: {224348}}
+Ca famenul cel din scripturi {composer: {Daniel Hîrtie}, {rcId: {224348}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

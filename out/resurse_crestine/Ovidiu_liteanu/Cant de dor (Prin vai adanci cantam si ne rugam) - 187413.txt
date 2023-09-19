@@ -1,5 +1,5 @@
 [title]
-Cant de dor (prin vai adanci cantam si ne rugam) {author: {Ovidiu Liteanu}, {rcId: {187413}}
+Cant de dor (prin vai adanci cantam si ne rugam) {composer: {Ovidiu Liteanu}, {rcId: {187413}}
 
 [sequence]
 v1,c,v2,c,v3,c

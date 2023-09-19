@@ -1,5 +1,5 @@
 [title]
-Doamne indurarea ta e aici {author: {Anonim}, {rcId: {4891}}
+Doamne indurarea ta e aici {composer: {Anonim}, {rcId: {4891}}
 
 [sequence]
 v1,c

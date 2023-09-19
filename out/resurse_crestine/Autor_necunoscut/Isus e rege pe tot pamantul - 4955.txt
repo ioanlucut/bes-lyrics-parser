@@ -1,5 +1,5 @@
 [title]
-Isus e rege pe tot pamantul {author: {Anonim}, {rcId: {4955}}
+Isus e rege pe tot pamantul {composer: {Anonim}, {rcId: {4955}}
 
 [sequence]
 c,v1,c2,v2,c3

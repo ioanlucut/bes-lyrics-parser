@@ -1,5 +1,5 @@
 [title]
-D~a-ne intelepciune doamne preaiubit {author: {Anonim}, {rcId: {6317}}
+D~a-ne intelepciune doamne preaiubit {composer: {Anonim}, {rcId: {6317}}
 
 [sequence]
 v1,c,v2,c

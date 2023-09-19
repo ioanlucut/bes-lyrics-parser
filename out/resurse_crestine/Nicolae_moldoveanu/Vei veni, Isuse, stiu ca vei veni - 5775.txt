@@ -1,5 +1,5 @@
 [title]
-Vei veni isuse stiu ca vei veni {author: {Nicolae Moldoveanu}, {rcId: {5775}}
+Vei veni isuse stiu ca vei veni {composer: {Nicolae Moldoveanu}, {rcId: {5775}}
 
 [sequence]
 v1,c,v2,c,v3,c

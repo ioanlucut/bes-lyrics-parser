@@ -1,5 +1,5 @@
 [title]
-Asa isuse asa as vrea {author: {Anonim}, {rcId: {141227}}
+Asa isuse asa as vrea {composer: {Anonim}, {rcId: {141227}}
 
 [sequence]
 v1,v2,v3,v4,v5

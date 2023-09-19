@@ -1,5 +1,5 @@
 [title]
-Sa-l sarbatorim sa cantam cu to&# {author: {Anonim}, {rcId: {2768}}
+Sa-l sarbatorim sa cantam cu to&# {composer: {Anonim}, {rcId: {2768}}
 
 [sequence]
 v1,c,e

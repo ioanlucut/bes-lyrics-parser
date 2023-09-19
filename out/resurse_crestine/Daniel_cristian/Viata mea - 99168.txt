@@ -1,5 +1,5 @@
 [title]
-Viata mea {author: {Daniel Cristian}, {rcId: {99168}}
+Viata mea {composer: {Daniel Cristian}, {rcId: {99168}}
 
 [sequence]
 v1,c,v2,c,v3,c

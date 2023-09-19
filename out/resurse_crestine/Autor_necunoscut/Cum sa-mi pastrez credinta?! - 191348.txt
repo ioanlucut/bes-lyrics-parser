@@ -1,5 +1,5 @@
 [title]
-Cum sa-mi pastrez credinta? {author: {Anonim}, {rcId: {191348}}
+Cum sa-mi pastrez credinta? {composer: {Anonim}, {rcId: {191348}}
 
 [sequence]
 v1,c,v2,c2,v3,c2,v4,c2

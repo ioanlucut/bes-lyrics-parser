@@ -1,5 +1,5 @@
 [title]
-Nicidecum n-am sa te las {author: {Matei Adalbert}, {rcId: {192740}}
+Nicidecum n-am sa te las {composer: {Matei Adalbert}, {rcId: {192740}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

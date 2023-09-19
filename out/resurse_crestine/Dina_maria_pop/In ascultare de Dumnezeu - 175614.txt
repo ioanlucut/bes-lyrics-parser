@@ -1,5 +1,5 @@
 [title]
-In ascultare de dumnezeu {author: {Dina Maria Pop}, {rcId: {175614}}
+In ascultare de dumnezeu {composer: {Dina Maria Pop}, {rcId: {175614}}
 
 [sequence]
 v1,c,v2,c2

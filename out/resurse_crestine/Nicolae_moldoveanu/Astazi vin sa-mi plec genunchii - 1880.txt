@@ -1,5 +1,5 @@
 [title]
-Astazi vin sa-mi plec genunchii {author: {Nicolae Moldoveanu}, {rcId: {1880}}
+Astazi vin sa-mi plec genunchii {composer: {Nicolae Moldoveanu}, {rcId: {1880}}
 
 [sequence]
 v1,v2,v3,v4

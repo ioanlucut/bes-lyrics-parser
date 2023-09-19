@@ -1,5 +1,5 @@
 [title]
-Dumnezeu te ia pe brate {author: {Dina Maria Pop}, {rcId: {174554}}
+Dumnezeu te ia pe brate {composer: {Dina Maria Pop}, {rcId: {174554}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

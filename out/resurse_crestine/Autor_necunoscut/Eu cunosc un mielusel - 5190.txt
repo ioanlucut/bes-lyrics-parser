@@ -1,5 +1,5 @@
 [title]
-Eu cunosc un mielusel {author: {Anonim}, {rcId: {5190}}
+Eu cunosc un mielusel {composer: {Anonim}, {rcId: {5190}}
 
 [sequence]
 v1,v2,v3,v4,v5

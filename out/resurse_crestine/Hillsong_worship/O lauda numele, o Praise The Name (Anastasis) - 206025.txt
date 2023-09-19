@@ -1,5 +1,5 @@
 [title]
-O lauda numele o praise the name (an'astasis) {author: {Hillsong Worship}, {rcId: {206025}}
+O lauda numele o praise the name (an'astasis) {composer: {Hillsong Worship}, {rcId: {206025}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c

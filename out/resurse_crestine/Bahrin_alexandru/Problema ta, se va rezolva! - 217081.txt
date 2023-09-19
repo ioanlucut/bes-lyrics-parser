@@ -1,5 +1,5 @@
 [title]
-Problema ta se va rezolva {author: {Bahrin Alexandru}, {rcId: {217081}}
+Problema ta se va rezolva {composer: {Bahrin Alexandru}, {rcId: {217081}}
 
 [sequence]
 v1,c,v2,c,v3,c

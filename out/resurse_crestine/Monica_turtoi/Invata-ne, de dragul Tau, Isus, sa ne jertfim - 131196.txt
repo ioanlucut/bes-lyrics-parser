@@ -1,5 +1,5 @@
 [title]
-Invata-ne de dragul tau isus sa ne jertfim {author: {Monica Turtoi}, {rcId: {131196}}
+Invata-ne de dragul tau isus sa ne jertfim {composer: {Monica Turtoi}, {rcId: {131196}}
 
 [sequence]
 v1,c,v2,c,v3,c

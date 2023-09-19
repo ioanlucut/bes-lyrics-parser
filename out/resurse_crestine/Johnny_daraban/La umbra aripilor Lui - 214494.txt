@@ -1,5 +1,5 @@
 [title]
-La umbra aripilor lui {author: {Johnny Daraban}, {rcId: {214494}}
+La umbra aripilor lui {composer: {Johnny Daraban}, {rcId: {214494}}
 
 [sequence]
 v1,c,v2,c2,e

@@ -1,5 +1,5 @@
 [title]
-E seara si ziua repede doamne a mai trecut {author: {Adriana Stoica}, {rcId: {208790}}
+E seara si ziua repede doamne a mai trecut {composer: {Adriana Stoica}, {rcId: {208790}}
 
 [sequence]
 v1,c,v2,c,v3,c

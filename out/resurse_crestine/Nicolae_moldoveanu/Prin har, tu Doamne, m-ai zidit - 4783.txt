@@ -1,5 +1,5 @@
 [title]
-Prin har tu doamne m-ai zidit {author: {Nicolae Moldoveanu}, {rcId: {4783}}
+Prin har tu doamne m-ai zidit {composer: {Nicolae Moldoveanu}, {rcId: {4783}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

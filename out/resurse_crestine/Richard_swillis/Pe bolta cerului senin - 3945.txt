@@ -1,5 +1,5 @@
 [title]
-Pe bolta cerului senin {author: {Richard S.Willis}, {rcId: {3945}}
+Pe bolta cerului senin {composer: {Richard S.Willis}, {rcId: {3945}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Pentru ce traim {author: {Cătălin și Ramona Lup}, {rcId: {111593}}
+Pentru ce traim {composer: {Cătălin și Ramona Lup}, {rcId: {111593}}
 
 [sequence]
 v1,v2,v3

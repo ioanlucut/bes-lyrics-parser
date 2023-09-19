@@ -1,5 +1,5 @@
 [title]
-Ceru-ntreg tresalta {author: {George F. Root}, {rcId: {1766}}
+Ceru-ntreg tresalta {composer: {George F. Root}, {rcId: {1766}}
 
 [sequence]
 v1,c,v2,c,v3,c

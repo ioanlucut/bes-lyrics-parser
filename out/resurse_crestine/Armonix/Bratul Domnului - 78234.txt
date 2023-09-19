@@ -1,5 +1,5 @@
 [title]
-Bratul domnului {author: {Armonix}, {rcId: {78234}}
+Bratul domnului {composer: {Armonix}, {rcId: {78234}}
 
 [sequence]
 v1,c,v2,c,v3,c

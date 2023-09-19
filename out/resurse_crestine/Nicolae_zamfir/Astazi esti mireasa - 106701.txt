@@ -1,5 +1,5 @@
 [title]
-Astazi esti mireasa {author: {Nicolae Zamfir}, {rcId: {106701}}
+Astazi esti mireasa {composer: {Nicolae Zamfir}, {rcId: {106701}}
 
 [sequence]
 v1,c,v2,c,v3,c

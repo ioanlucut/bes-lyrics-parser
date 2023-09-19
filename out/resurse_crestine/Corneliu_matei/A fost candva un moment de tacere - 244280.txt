@@ -1,5 +1,5 @@
 [title]
-A fost candva un moment de tacere {author: {Corneliu Matei}, {rcId: {244280}}
+A fost candva un moment de tacere {composer: {Corneliu Matei}, {rcId: {244280}}
 
 [sequence]
 v1,c,e

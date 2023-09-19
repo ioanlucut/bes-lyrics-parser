@@ -1,5 +1,5 @@
 [title]
-Pot totul in isus (mie atat mi-a mai ramas) {author: {Biji din Barbulesti}, {rcId: {232292}}
+Pot totul in isus (mie atat mi-a mai ramas) {composer: {Biji din Barbulesti}, {rcId: {232292}}
 
 [sequence]
 v1,c,v2,c,v3,c

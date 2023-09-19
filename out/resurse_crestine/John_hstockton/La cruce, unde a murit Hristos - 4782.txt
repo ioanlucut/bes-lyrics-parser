@@ -1,5 +1,5 @@
 [title]
-La cruce unde a murit hristos {author: {John H.Stockton}, {rcId: {4782}}
+La cruce unde a murit hristos {composer: {John H.Stockton}, {rcId: {4782}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

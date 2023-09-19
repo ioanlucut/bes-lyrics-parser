@@ -1,5 +1,5 @@
 [title]
-Mai bine o zi la tronul tau {author: {Anonim}, {rcId: {4474}}
+Mai bine o zi la tronul tau {composer: {Anonim}, {rcId: {4474}}
 
 [sequence]
 v1,c,v2,c

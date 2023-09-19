@@ -1,5 +1,5 @@
 [title]
-Wash your feet {author: {Iulia Contis}, {rcId: {246125}}
+Wash your feet {composer: {Iulia Contis}, {rcId: {246125}}
 
 [sequence]
 v1,c,v2,c

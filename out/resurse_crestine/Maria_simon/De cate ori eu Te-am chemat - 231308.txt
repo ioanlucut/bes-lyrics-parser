@@ -1,5 +1,5 @@
 [title]
-De cate ori eu te-am chemat {author: {Maria Șimon}, {rcId: {231308}}
+De cate ori eu te-am chemat {composer: {Maria Șimon}, {rcId: {231308}}
 
 [sequence]
 v1,c,v2,c,v3,c

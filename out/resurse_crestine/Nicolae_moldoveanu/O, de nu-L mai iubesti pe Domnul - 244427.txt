@@ -1,5 +1,5 @@
 [title]
-O de nu-l mai iubesti pe domnul {author: {Nicolae Moldoveanu}, {rcId: {244427}}
+O de nu-l mai iubesti pe domnul {composer: {Nicolae Moldoveanu}, {rcId: {244427}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

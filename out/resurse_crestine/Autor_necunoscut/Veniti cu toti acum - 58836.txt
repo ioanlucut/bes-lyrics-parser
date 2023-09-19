@@ -1,5 +1,5 @@
 [title]
-Veniti cu toti acum {author: {Anonim}, {rcId: {58836}}
+Veniti cu toti acum {composer: {Anonim}, {rcId: {58836}}
 
 [sequence]
 c,v1,c

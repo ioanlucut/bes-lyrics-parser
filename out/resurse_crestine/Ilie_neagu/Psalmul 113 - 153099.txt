@@ -1,5 +1,5 @@
 [title]
-Psalmul {author: {Ilie Neagu}, {rcId: {153099}}
+Psalmul {composer: {Ilie Neagu}, {rcId: {153099}}
 
 [sequence]
 v1,c,v1,c

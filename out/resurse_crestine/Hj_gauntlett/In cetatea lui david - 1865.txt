@@ -1,5 +1,5 @@
 [title]
-In cetatea lui david {author: {H.J Gauntlett}, {rcId: {1865}}
+In cetatea lui david {composer: {H.J Gauntlett}, {rcId: {1865}}
 
 [sequence]
 v1,v2,v3,v4

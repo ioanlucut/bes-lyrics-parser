@@ -1,5 +1,5 @@
 [title]
-Latimea daltii {author: {Anonim}, {rcId: {153822}}
+Latimea daltii {composer: {Anonim}, {rcId: {153822}}
 
 [sequence]
 v1,c,v2,c,e

@@ -1,5 +1,5 @@
 [title]
-Atinge-ne din nou isus {author: {Maranata Oradea}, {rcId: {131309}}
+Atinge-ne din nou isus {composer: {Maranata Oradea}, {rcId: {131309}}
 
 [sequence]
 v1,c,v2,c,v3,c

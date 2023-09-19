@@ -1,5 +1,5 @@
 [title]
-Da cred da acum eu cred {author: {Anonim}, {rcId: {4873}}
+Da cred da acum eu cred {composer: {Anonim}, {rcId: {4873}}
 
 [sequence]
 c,v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Doamne drumul meu putin {author: {Text Traian Dorz, muzica Sebastian Mistreanu}, {rcId: {218709}}
+Doamne drumul meu putin {composer: {Text Traian Dorz, muzica Sebastian Mistreanu}, {rcId: {218709}}
 
 [sequence]
 v1,v2,v3,v4

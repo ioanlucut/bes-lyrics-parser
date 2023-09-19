@@ -1,5 +1,5 @@
 [title]
-Cantarea cea mai minunata {author: {Speranța}, {rcId: {101897}}
+Cantarea cea mai minunata {composer: {Speranța}, {rcId: {101897}}
 
 [sequence]
 v1,c,v2,c,v3,c

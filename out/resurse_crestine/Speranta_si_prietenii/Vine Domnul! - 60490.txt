@@ -1,5 +1,5 @@
 [title]
-Vine domnul {author: {Speranța și prietenii}, {rcId: {60490}}
+Vine domnul {composer: {Speranța și prietenii}, {rcId: {60490}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Revarsa acum {author: {Decean}, {rcId: {239447}}
+Revarsa acum {composer: {Decean}, {rcId: {239447}}
 
 [sequence]
 v1,c,v2,c

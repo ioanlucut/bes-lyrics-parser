@@ -1,5 +1,5 @@
 [title]
-Venim tie lauda-ti cantam {author: {Decean}, {rcId: {2467}}
+Venim tie lauda-ti cantam {composer: {Decean}, {rcId: {2467}}
 
 [sequence]
 v1,b,c,e

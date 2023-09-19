@@ -1,5 +1,5 @@
 [title]
-Este-o zi de har {author: {Anonim}, {rcId: {179454}}
+Este-o zi de har {composer: {Anonim}, {rcId: {179454}}
 
 [sequence]
 v1,c,v2,c,v3,c

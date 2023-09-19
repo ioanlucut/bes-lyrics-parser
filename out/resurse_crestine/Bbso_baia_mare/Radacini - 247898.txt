@@ -1,5 +1,5 @@
 [title]
-Radacini {author: {Bbso Baia Mare}, {rcId: {247898}}
+Radacini {composer: {Bbso Baia Mare}, {rcId: {247898}}
 
 [sequence]
 v1,b,c,v2,b,c,c,b

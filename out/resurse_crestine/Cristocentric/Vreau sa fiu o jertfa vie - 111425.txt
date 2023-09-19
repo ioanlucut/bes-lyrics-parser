@@ -1,5 +1,5 @@
 [title]
-Vreau sa fiu o jertfa vie {author: {CristoCentric}, {rcId: {111425}}
+Vreau sa fiu o jertfa vie {composer: {CristoCentric}, {rcId: {111425}}
 
 [sequence]
 v1,c,e

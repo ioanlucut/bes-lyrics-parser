@@ -1,5 +1,5 @@
 [title]
-Sa pot ierta {author: {Sanja Cristea Tiberian}, {rcId: {96741}}
+Sa pot ierta {composer: {Sanja Cristea Tiberian}, {rcId: {96741}}
 
 [sequence]
 v1,v2,v3,v4,v5,c

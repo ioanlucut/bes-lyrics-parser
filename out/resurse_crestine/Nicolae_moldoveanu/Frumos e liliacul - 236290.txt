@@ -1,5 +1,5 @@
 [title]
-Frumos e liliacul {author: {Nicolae Moldoveanu}, {rcId: {236290}}
+Frumos e liliacul {composer: {Nicolae Moldoveanu}, {rcId: {236290}}
 
 [sequence]
 v1,v2,v3

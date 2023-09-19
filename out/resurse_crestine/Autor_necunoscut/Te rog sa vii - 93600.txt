@@ -1,5 +1,5 @@
 [title]
-Te rog sa vii {author: {Anonim}, {rcId: {93600}}
+Te rog sa vii {composer: {Anonim}, {rcId: {93600}}
 
 [sequence]
 v1,c,v2,c,v3,c

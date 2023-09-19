@@ -1,5 +1,5 @@
 [title]
-Pace in mijlocul furtunii {author: {Elixirul iubirii}, {rcId: {84661}}
+Pace in mijlocul furtunii {composer: {Elixirul iubirii}, {rcId: {84661}}
 
 [sequence]
 v1,c,v2,c

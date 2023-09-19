@@ -1,5 +1,5 @@
 [title]
-Ce minunat e sa fii dintr-o familie {author: {Anonim}, {rcId: {1600}}
+Ce minunat e sa fii dintr-o familie {composer: {Anonim}, {rcId: {1600}}
 
 [sequence]
 v1,c

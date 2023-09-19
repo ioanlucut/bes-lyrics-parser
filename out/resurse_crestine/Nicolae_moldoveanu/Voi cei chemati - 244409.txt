@@ -1,5 +1,5 @@
 [title]
-Voi cei chemati {author: {Nicolae Moldoveanu}, {rcId: {244409}}
+Voi cei chemati {composer: {Nicolae Moldoveanu}, {rcId: {244409}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Cat de fericit si cat de bine {author: {Anonim}, {rcId: {1765}}
+Cat de fericit si cat de bine {composer: {Anonim}, {rcId: {1765}}
 
 [sequence]
 v1,c,v2,c,v3,c

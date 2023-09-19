@@ -1,5 +1,5 @@
 [title]
-Frumusetea stelelor {author: {George Lupsea}, {rcId: {60553}}
+Frumusetea stelelor {composer: {George Lupsea}, {rcId: {60553}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Ce-i pamantesc in mine doamne {author: {Nicolae Moldoveanu}, {rcId: {242705}}
+Ce-i pamantesc in mine doamne {composer: {Nicolae Moldoveanu}, {rcId: {242705}}
 
 [sequence]
 v1,v2,v3,v4,v5

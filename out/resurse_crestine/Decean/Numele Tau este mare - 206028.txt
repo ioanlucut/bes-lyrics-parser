@@ -1,5 +1,5 @@
 [title]
-Numele tau este mare {author: {Decean}, {rcId: {206028}}
+Numele tau este mare {composer: {Decean}, {rcId: {206028}}
 
 [sequence]
 v1,v2,c,c,c

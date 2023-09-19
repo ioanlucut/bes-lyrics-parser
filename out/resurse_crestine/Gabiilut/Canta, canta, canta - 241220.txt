@@ -1,5 +1,5 @@
 [title]
-Canta canta canta {author: {Gabi_Ilut}, {rcId: {241220}}
+Canta canta canta {composer: {Gabi_Ilut}, {rcId: {241220}}
 
 [sequence]
 v1,c,v2,c,v3,c

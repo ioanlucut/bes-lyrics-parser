@@ -1,5 +1,5 @@
 [title]
-Pe cer o stea se-arata {author: {Ramona Ibănescu}, {rcId: {3949}}
+Pe cer o stea se-arata {composer: {Ramona Ibănescu}, {rcId: {3949}}
 
 [sequence]
 c,v1,c

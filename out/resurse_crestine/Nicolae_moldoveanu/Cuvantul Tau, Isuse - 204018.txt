@@ -1,5 +1,5 @@
 [title]
-Cuvantul tau isuse {author: {Nicolae Moldoveanu}, {rcId: {204018}}
+Cuvantul tau isuse {composer: {Nicolae Moldoveanu}, {rcId: {204018}}
 
 [sequence]
 v1,v2,v3

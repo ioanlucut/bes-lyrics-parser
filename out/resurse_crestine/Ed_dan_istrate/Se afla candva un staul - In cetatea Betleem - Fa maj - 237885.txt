@@ -1,5 +1,5 @@
 [title]
-Se afla candva un staul - in cetatea betleem - fa maj {author: {ed. Dan Istrate}, {rcId: {237885}}
+Se afla candva un staul - in cetatea betleem - fa maj {composer: {ed. Dan Istrate}, {rcId: {237885}}
 
 [sequence]
 v1,v2,v3,v4

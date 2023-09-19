@@ -1,5 +1,5 @@
 [title]
-Ramai la datorie {author: {Nicolae Moldoveanu}, {rcId: {247877}}
+Ramai la datorie {composer: {Nicolae Moldoveanu}, {rcId: {247877}}
 
 [sequence]
 v1,v2,v3,v4

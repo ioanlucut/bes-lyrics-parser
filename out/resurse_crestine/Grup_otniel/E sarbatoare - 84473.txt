@@ -1,5 +1,5 @@
 [title]
-E sarbatoare {author: {Grup Otniel}, {rcId: {84473}}
+E sarbatoare {composer: {Grup Otniel}, {rcId: {84473}}
 
 [sequence]
 v1,c,v2,c,v3,c

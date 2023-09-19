@@ -1,5 +1,5 @@
 [title]
-Unde pot gasi iubire {author: {Anonim}, {rcId: {6278}}
+Unde pot gasi iubire {composer: {Anonim}, {rcId: {6278}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

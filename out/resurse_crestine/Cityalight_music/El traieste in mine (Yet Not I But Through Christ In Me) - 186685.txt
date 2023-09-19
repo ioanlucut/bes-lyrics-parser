@@ -1,5 +1,5 @@
 [title]
-El traieste in mine (yet not i but through christ in me) {author: {CityAlight Music, Traducere RO}, {rcId: {186685}}
+El traieste in mine (yet not i but through christ in me) {composer: {CityAlight Music, Traducere RO}, {rcId: {186685}}
 
 [sequence]
 v1,v2,v3,v4

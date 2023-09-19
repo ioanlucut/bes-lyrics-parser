@@ -1,5 +1,5 @@
 [title]
-Bucurosi cantati (shout for joy and sing) {author: {David Fellingham, Traducere RO}, {rcId: {65070}}
+Bucurosi cantati (shout for joy and sing) {composer: {David Fellingham, Traducere RO}, {rcId: {65070}}
 
 [sequence]
 v1,c

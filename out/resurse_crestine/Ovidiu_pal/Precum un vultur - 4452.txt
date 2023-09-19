@@ -1,5 +1,5 @@
 [title]
-Precum un vultur {author: {Ovidiu Pal}, {rcId: {4452}}
+Precum un vultur {composer: {Ovidiu Pal}, {rcId: {4452}}
 
 [sequence]
 v1,c,v2,c,v3,c

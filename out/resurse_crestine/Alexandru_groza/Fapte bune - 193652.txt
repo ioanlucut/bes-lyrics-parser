@@ -1,5 +1,5 @@
 [title]
-Fapte bune {author: {Alexandru Groza}, {rcId: {193652}}
+Fapte bune {composer: {Alexandru Groza}, {rcId: {193652}}
 
 [sequence]
 v1,c,c,v2,c

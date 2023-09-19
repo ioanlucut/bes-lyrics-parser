@@ -1,5 +1,5 @@
 [title]
-A ta e domnia {author: {ekklessia}, {rcId: {93393}}
+A ta e domnia {composer: {ekklessia}, {rcId: {93393}}
 
 [sequence]
 v1,b,c

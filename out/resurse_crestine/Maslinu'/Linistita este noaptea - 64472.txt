@@ -1,5 +1,5 @@
 [title]
-Linistita este noaptea {author: {Măslinu’}, {rcId: {64472}}
+Linistita este noaptea {composer: {Măslinu’}, {rcId: {64472}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

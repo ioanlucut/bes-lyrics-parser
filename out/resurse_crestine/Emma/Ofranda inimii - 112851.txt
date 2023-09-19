@@ -1,5 +1,5 @@
 [title]
-Ofranda inimii {author: {Emma}, {rcId: {112851}}
+Ofranda inimii {composer: {Emma}, {rcId: {112851}}
 
 [sequence]
 v1,c,v2,c

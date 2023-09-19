@@ -1,5 +1,5 @@
 [title]
-Slava sus in ceruri {author: {Leleu Niculae}, {rcId: {75273}}
+Slava sus in ceruri {composer: {Leleu Niculae}, {rcId: {75273}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

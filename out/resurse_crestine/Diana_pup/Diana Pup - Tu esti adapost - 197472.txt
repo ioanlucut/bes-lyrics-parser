@@ -1,5 +1,5 @@
 [title]
-Diana pup - tu esti adapost {author: {Diana Pup}, {rcId: {197472}}
+Diana pup - tu esti adapost {composer: {Diana Pup}, {rcId: {197472}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Te-ai grabit sa spui la oameni {author: {Anonim}, {rcId: {69578}}
+Te-ai grabit sa spui la oameni {composer: {Anonim}, {rcId: {69578}}
 
 [sequence]
 v1,c,v2,c,v3,c

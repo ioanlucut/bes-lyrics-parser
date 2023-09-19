@@ -1,5 +1,5 @@
 [title]
-Milioane milioane {author: {Costache Ioanid}, {rcId: {4521}}
+Milioane milioane {composer: {Costache Ioanid}, {rcId: {4521}}
 
 [sequence]
 v1,v2,v3,v4,v5

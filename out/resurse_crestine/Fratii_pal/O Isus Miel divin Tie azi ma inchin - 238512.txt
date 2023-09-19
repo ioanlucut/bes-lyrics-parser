@@ -1,5 +1,5 @@
 [title]
-O isus miel divin tie azi ma inchin {author: {Fratii Pal}, {rcId: {238512}}
+O isus miel divin tie azi ma inchin {composer: {Fratii Pal}, {rcId: {238512}}
 
 [sequence]
 v1,v2,v3,v4

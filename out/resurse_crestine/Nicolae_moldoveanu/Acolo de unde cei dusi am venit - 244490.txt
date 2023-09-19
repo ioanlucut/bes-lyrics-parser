@@ -1,5 +1,5 @@
 [title]
-Acolo de unde cei dusi am venit {author: {Nicolae Moldoveanu}, {rcId: {244490}}
+Acolo de unde cei dusi am venit {composer: {Nicolae Moldoveanu}, {rcId: {244490}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

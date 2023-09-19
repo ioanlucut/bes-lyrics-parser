@@ -1,5 +1,5 @@
 [title]
-Ce tarziu am inteles {author: {Anonim}, {rcId: {202467}}
+Ce tarziu am inteles {composer: {Anonim}, {rcId: {202467}}
 
 [sequence]
 v1,c,v2,c

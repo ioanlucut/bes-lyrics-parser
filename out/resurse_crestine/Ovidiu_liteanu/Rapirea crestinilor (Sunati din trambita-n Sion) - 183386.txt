@@ -1,5 +1,5 @@
 [title]
-Rapirea crestinilor (sunati din trambita-n sion) {author: {Ovidiu Liteanu}, {rcId: {183386}}
+Rapirea crestinilor (sunati din trambita-n sion) {composer: {Ovidiu Liteanu}, {rcId: {183386}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

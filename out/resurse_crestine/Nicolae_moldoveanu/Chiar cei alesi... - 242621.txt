@@ -1,5 +1,5 @@
 [title]
-Chiar cei alesi {author: {Nicolae Moldoveanu}, {rcId: {242621}}
+Chiar cei alesi {composer: {Nicolae Moldoveanu}, {rcId: {242621}}
 
 [sequence]
 v1,v2,v3,v4

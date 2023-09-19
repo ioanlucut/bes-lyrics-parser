@@ -1,5 +1,5 @@
 [title]
-God really loves us - dumnezeu ne iubeste cu adevarat {author: {Dennis Gorcea adaptare după Crowder, Dante Bowe}, {rcId: {227964}}
+God really loves us - dumnezeu ne iubeste cu adevarat {composer: {Dennis Gorcea adaptare după Crowder, Dante Bowe}, {rcId: {227964}}
 
 [sequence]
 v1,b,c,c2,v2,c,e

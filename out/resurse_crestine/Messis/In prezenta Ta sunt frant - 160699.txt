@@ -1,5 +1,5 @@
 [title]
-In prezenta ta sunt frant {author: {Messis}, {rcId: {160699}}
+In prezenta ta sunt frant {composer: {Messis}, {rcId: {160699}}
 
 [sequence]
 v1,c,v2,c

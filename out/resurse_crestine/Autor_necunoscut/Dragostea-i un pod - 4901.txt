@@ -1,5 +1,5 @@
 [title]
-Dragostea-i un pod {author: {Anonim}, {rcId: {4901}}
+Dragostea-i un pod {composer: {Anonim}, {rcId: {4901}}
 
 [sequence]
 v1,c,v2,c

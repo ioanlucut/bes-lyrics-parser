@@ -1,5 +1,5 @@
 [title]
-Inima curata {author: {Ala Bragari}, {rcId: {93023}}
+Inima curata {composer: {Ala Bragari}, {rcId: {93023}}
 
 [sequence]
 v1,c,v2,c

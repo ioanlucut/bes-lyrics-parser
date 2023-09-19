@@ -1,5 +1,5 @@
 [title]
-N-am venit pe lume eu cu voia mea {author: {Anonim}, {rcId: {125652}}
+N-am venit pe lume eu cu voia mea {composer: {Anonim}, {rcId: {125652}}
 
 [sequence]
 v1,c,v2,c2,v3,c2,v4,c2

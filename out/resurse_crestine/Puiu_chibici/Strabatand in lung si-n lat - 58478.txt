@@ -1,5 +1,5 @@
 [title]
-Strabatand in lung si-n lat {author: {Puiu Chibici}, {rcId: {58478}}
+Strabatand in lung si-n lat {composer: {Puiu Chibici}, {rcId: {58478}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Domnul mi-e pastorul {author: {Emma Repede}, {rcId: {233607}}
+Domnul mi-e pastorul {composer: {Emma Repede}, {rcId: {233607}}
 
 [sequence]
 v1,c,v1,c,e

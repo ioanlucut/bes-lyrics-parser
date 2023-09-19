@@ -1,5 +1,5 @@
 [title]
-Eu sunt tanar si voios {author: {Anonim}, {rcId: {3166}}
+Eu sunt tanar si voios {composer: {Anonim}, {rcId: {3166}}
 
 [sequence]
 v1,c,v2,c,v3,c

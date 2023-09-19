@@ -1,5 +1,5 @@
 [title]
-Frati surori de pretutindeni {author: {Nicolae Moldoveanu}, {rcId: {5732}}
+Frati surori de pretutindeni {composer: {Nicolae Moldoveanu}, {rcId: {5732}}
 
 [sequence]
 v1,v2,v3,v4,v5

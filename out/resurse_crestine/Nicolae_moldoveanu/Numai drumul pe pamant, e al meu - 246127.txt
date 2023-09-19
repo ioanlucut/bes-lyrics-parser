@@ -1,5 +1,5 @@
 [title]
-Numai drumul pe pamant e al meu {author: {Nicolae Moldoveanu}, {rcId: {246127}}
+Numai drumul pe pamant e al meu {composer: {Nicolae Moldoveanu}, {rcId: {246127}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Emanuel in veci pe tron (born on that day) {author: {Betania Worship Dublin}, {rcId: {207888}}
+Emanuel in veci pe tron (born on that day) {composer: {Betania Worship Dublin}, {rcId: {207888}}
 
 [sequence]
 v1,c,v2,c,e

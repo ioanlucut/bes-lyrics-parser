@@ -1,5 +1,5 @@
 [title]
-Turma mica a lui isus {author: {Nicolae Moldoveanu}, {rcId: {5936}}
+Turma mica a lui isus {composer: {Nicolae Moldoveanu}, {rcId: {5936}}
 
 [sequence]
 v1,v2,v3,v4

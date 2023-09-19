@@ -1,5 +1,5 @@
 [title]
-E craciun e craciun cantece rasun {author: {Anonim}, {rcId: {4906}}
+E craciun e craciun cantece rasun {composer: {Anonim}, {rcId: {4906}}
 
 [sequence]
 v1,v2,v3

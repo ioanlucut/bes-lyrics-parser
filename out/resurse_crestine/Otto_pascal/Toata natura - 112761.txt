@@ -1,5 +1,5 @@
 [title]
-Toata natura {author: {Otto Pascal}, {rcId: {112761}}
+Toata natura {composer: {Otto Pascal}, {rcId: {112761}}
 
 [sequence]
 v1,c,v2,c

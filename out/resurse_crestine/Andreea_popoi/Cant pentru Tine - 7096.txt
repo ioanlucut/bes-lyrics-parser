@@ -1,5 +1,5 @@
 [title]
-Cant pentru tine {author: {Andreea Popoi}, {rcId: {7096}}
+Cant pentru tine {composer: {Andreea Popoi}, {rcId: {7096}}
 
 [sequence]
 v1,c,v2,c,v3,c

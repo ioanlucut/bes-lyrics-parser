@@ -1,5 +1,5 @@
 [title]
-Un om fara de domnul e-un pom neroditor {author: {Alexandru Groza}, {rcId: {813}}
+Un om fara de domnul e-un pom neroditor {composer: {Alexandru Groza}, {rcId: {813}}
 
 [sequence]
 v1,c,v2,c,v3,c

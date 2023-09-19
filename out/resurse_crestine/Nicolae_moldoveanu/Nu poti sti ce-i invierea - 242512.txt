@@ -1,5 +1,5 @@
 [title]
-Nu poti sti ce-i invierea {author: {Nicolae Moldoveanu}, {rcId: {242512}}
+Nu poti sti ce-i invierea {composer: {Nicolae Moldoveanu}, {rcId: {242512}}
 
 [sequence]
 v1,v2,v3,v4

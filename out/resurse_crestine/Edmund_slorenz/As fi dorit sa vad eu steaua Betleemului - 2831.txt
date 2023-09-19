@@ -1,5 +1,5 @@
 [title]
-As fi dorit sa vad eu steaua betleemului {author: {Edmund S.Lorenz}, {rcId: {2831}}
+As fi dorit sa vad eu steaua betleemului {composer: {Edmund S.Lorenz}, {rcId: {2831}}
 
 [sequence]
 v1,c,v2,c,v3,c

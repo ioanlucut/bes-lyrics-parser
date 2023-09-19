@@ -1,5 +1,5 @@
 [title]
-Mainile ce pe golgota {author: {Beni din Moisei}, {rcId: {4203}}
+Mainile ce pe golgota {composer: {Beni din Moisei}, {rcId: {4203}}
 
 [sequence]
 v1,v2,v3,v4

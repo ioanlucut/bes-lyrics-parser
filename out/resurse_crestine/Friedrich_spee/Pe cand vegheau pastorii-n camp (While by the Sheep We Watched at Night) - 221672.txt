@@ -1,5 +1,5 @@
 [title]
-Pe cand vegheau pastorii-n camp (while by the sheep we watched at night) {author: {Friedrich Spee, Traducere RO}, {rcId: {221672}}
+Pe cand vegheau pastorii-n camp (while by the sheep we watched at night) {composer: {Friedrich Spee, Traducere RO}, {rcId: {221672}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

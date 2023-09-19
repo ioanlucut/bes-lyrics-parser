@@ -1,5 +1,5 @@
 [title]
-O isuse dulcedulcele meu domn {author: {amos7}, {rcId: {90735}}
+O isuse dulcedulcele meu domn {composer: {amos7}, {rcId: {90735}}
 
 [sequence]
 v1,v2,v3,v4,v5

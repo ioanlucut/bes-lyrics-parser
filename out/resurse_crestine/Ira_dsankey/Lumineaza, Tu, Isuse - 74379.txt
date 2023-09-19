@@ -1,5 +1,5 @@
 [title]
-Lumineaza tu isuse {author: {Ira D.Sankey}, {rcId: {74379}}
+Lumineaza tu isuse {composer: {Ira D.Sankey}, {rcId: {74379}}
 
 [sequence]
 v1,c,v2,c,v3,c

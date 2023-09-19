@@ -1,5 +1,5 @@
 [title]
-Iubire tu-mi esti mantuire iubire de sus {author: {Nicolae Moldoveanu}, {rcId: {186418}}
+Iubire tu-mi esti mantuire iubire de sus {composer: {Nicolae Moldoveanu}, {rcId: {186418}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

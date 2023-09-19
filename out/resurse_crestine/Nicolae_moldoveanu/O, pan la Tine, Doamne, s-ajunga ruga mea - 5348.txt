@@ -1,5 +1,5 @@
 [title]
-O pan la tine doamne s-ajunga ruga mea {author: {Nicolae Moldoveanu}, {rcId: {5348}}
+O pan la tine doamne s-ajunga ruga mea {composer: {Nicolae Moldoveanu}, {rcId: {5348}}
 
 [sequence]
 v1,v2,v3,v4

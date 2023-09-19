@@ -1,5 +1,5 @@
 [title]
-Slujba impacarii {author: {Adina și Paul Iliescu}, {rcId: {231811}}
+Slujba impacarii {composer: {Adina și Paul Iliescu}, {rcId: {231811}}
 
 [sequence]
 v1,c,v2,c,e,v3,c

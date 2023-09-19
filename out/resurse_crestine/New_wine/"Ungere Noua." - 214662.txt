@@ -1,5 +1,5 @@
 [title]
-Ungere noua {author: {New Wine}, {rcId: {214662}}
+Ungere noua {composer: {New Wine}, {rcId: {214662}}
 
 [sequence]
 v1,c,v2,b,c

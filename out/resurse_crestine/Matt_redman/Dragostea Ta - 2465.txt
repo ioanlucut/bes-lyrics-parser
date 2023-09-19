@@ -1,5 +1,5 @@
 [title]
-Dragostea ta {author: {Matt Redman}, {rcId: {2465}}
+Dragostea ta {composer: {Matt Redman}, {rcId: {2465}}
 
 [sequence]
 v1,c,v2,c

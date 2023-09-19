@@ -1,5 +1,5 @@
 [title]
-Astazi cant isuse cant spre slava ta {author: {Ionel Saran Bochis}, {rcId: {89981}}
+Astazi cant isuse cant spre slava ta {composer: {Ionel Saran Bochis}, {rcId: {89981}}
 
 [sequence]
 v1,v2,v3,v4

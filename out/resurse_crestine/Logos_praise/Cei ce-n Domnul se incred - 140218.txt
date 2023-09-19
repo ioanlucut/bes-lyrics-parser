@@ -1,5 +1,5 @@
 [title]
-Cei ce-n domnul se incred {author: {Logos Praise}, {rcId: {140218}}
+Cei ce-n domnul se incred {composer: {Logos Praise}, {rcId: {140218}}
 
 [sequence]
 v1,c,c

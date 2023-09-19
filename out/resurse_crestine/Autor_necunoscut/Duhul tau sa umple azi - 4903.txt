@@ -1,5 +1,5 @@
 [title]
-Duhul tau sa umple azi {author: {Anonim}, {rcId: {4903}}
+Duhul tau sa umple azi {composer: {Anonim}, {rcId: {4903}}
 
 [sequence]
 v1,c

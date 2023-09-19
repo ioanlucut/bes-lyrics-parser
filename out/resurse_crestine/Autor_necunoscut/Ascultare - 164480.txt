@@ -1,5 +1,5 @@
 [title]
-Ascultare {author: {Anonim}, {rcId: {164480}}
+Ascultare {composer: {Anonim}, {rcId: {164480}}
 
 [sequence]
 v1

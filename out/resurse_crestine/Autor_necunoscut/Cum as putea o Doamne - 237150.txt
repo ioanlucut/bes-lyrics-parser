@@ -1,5 +1,5 @@
 [title]
-Cum as putea o doamne {author: {Anonim}, {rcId: {237150}}
+Cum as putea o doamne {composer: {Anonim}, {rcId: {237150}}
 
 [sequence]
 v1,c,v2,c,v3,c

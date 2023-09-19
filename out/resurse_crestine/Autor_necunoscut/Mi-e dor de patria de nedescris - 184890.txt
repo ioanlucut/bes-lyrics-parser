@@ -1,5 +1,5 @@
 [title]
-Mi-e dor de patria de nedescris {author: {Necunoscut}, {rcId: {184890}}
+Mi-e dor de patria de nedescris {composer: {Necunoscut}, {rcId: {184890}}
 
 [sequence]
 v1,v2,v3,v4,v5

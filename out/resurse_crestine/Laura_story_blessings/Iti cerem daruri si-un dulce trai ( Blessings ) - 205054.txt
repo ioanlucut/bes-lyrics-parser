@@ -1,5 +1,5 @@
 [title]
-Iti cerem daruri si-un dulce trai ( blessings ) {author: {Laura Story, Traducere RO, Blessings}, {rcId: {205054}}
+Iti cerem daruri si-un dulce trai ( blessings ) {composer: {Laura Story, Traducere RO, Blessings}, {rcId: {205054}}
 
 [sequence]
 v1,c,v2,c,e

@@ -1,5 +1,5 @@
 [title]
-Am stat la sfat cu domnul {author: {Familia Mandici}, {rcId: {186950}}
+Am stat la sfat cu domnul {composer: {Familia Mandici}, {rcId: {186950}}
 
 [sequence]
 v1,v2,v3,v4,v5,e

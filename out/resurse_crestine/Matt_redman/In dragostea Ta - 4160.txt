@@ -1,5 +1,5 @@
 [title]
-In dragostea ta {author: {Matt Redman}, {rcId: {4160}}
+In dragostea ta {composer: {Matt Redman}, {rcId: {4160}}
 
 [sequence]
 v1,c

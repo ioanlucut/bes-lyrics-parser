@@ -1,5 +1,5 @@
 [title]
-O bland pastor (oh gentle shepherd) {author: {Cindy Walker, Jim Reeves, Traducere RO}, {rcId: {90324}}
+O bland pastor (oh gentle shepherd) {composer: {Cindy Walker, Jim Reeves, Traducere RO}, {rcId: {90324}}
 
 [sequence]
 v1,v2,v3,s

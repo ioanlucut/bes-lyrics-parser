@@ -1,5 +1,5 @@
 [title]
-Inima imi canta {author: {Lidia Gheorghe}, {rcId: {149312}}
+Inima imi canta {composer: {Lidia Gheorghe}, {rcId: {149312}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c,v5,c

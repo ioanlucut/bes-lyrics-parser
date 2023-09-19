@@ -1,5 +1,5 @@
 [title]
-Nu te teme nu descuraja {author: {Otniel Stirb}, {rcId: {238321}}
+Nu te teme nu descuraja {composer: {Otniel Stirb}, {rcId: {238321}}
 
 [sequence]
 v1,v2,v3,v4,v5

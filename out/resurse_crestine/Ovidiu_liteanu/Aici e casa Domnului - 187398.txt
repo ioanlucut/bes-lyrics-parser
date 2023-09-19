@@ -1,5 +1,5 @@
 [title]
-Aici e casa domnului {author: {Ovidiu Liteanu}, {rcId: {187398}}
+Aici e casa domnului {composer: {Ovidiu Liteanu}, {rcId: {187398}}
 
 [sequence]
 v1,v2,v3,v4

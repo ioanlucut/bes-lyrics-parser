@@ -1,5 +1,5 @@
 [title]
-Cand privesc a ta iubire {author: {Nicolae Moldoveanu}, {rcId: {5807}}
+Cand privesc a ta iubire {composer: {Nicolae Moldoveanu}, {rcId: {5807}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

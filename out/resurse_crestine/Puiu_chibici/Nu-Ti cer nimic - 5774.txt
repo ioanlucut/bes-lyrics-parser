@@ -1,5 +1,5 @@
 [title]
-Nu-ti cer nimic {author: {Puiu Chibici}, {rcId: {5774}}
+Nu-ti cer nimic {composer: {Puiu Chibici}, {rcId: {5774}}
 
 [sequence]
 v1,c,v2,c,v3,c

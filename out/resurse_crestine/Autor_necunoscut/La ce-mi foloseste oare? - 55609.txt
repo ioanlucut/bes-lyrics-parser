@@ -1,5 +1,5 @@
 [title]
-La ce-mi foloseste oare? {author: {Anonim}, {rcId: {55609}}
+La ce-mi foloseste oare? {composer: {Anonim}, {rcId: {55609}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8

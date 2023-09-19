@@ -1,5 +1,5 @@
 [title]
-Sa-mi dai iubire din iubirea ta {author: {Nicolae Moldoveanu}, {rcId: {200726}}
+Sa-mi dai iubire din iubirea ta {composer: {Nicolae Moldoveanu}, {rcId: {200726}}
 
 [sequence]
 v1,v2,v3,v4,v5

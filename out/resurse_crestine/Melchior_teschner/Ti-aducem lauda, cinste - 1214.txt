@@ -1,5 +1,5 @@
 [title]
-Ti-aducem lauda cinste {author: {Melchior Teschner}, {rcId: {1214}}
+Ti-aducem lauda cinste {composer: {Melchior Teschner}, {rcId: {1214}}
 
 [sequence]
 v1,v2

@@ -1,5 +1,5 @@
 [title]
-Daca mai ai si tu in lume o mama {author: {Anonim}, {rcId: {75148}}
+Daca mai ai si tu in lume o mama {composer: {Anonim}, {rcId: {75148}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4,v5,c5,v6,c6,v7,c7

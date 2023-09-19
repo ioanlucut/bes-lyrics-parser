@@ -1,5 +1,5 @@
 [title]
-Am fost rastignit cu hristos {author: {Laudate Dominum}, {rcId: {175653}}
+Am fost rastignit cu hristos {composer: {Laudate Dominum}, {rcId: {175653}}
 
 [sequence]
 v1,c,v2,c,e

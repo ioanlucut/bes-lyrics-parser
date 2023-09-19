@@ -1,5 +1,5 @@
 [title]
-Tu mi-ai fost tarie-n vreme de nevoi {author: {Puiu Chibici}, {rcId: {185771}}
+Tu mi-ai fost tarie-n vreme de nevoi {composer: {Puiu Chibici}, {rcId: {185771}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Trei pastori in noapte stand {author: {Puiu Chibici}, {rcId: {151334}}
+Trei pastori in noapte stand {composer: {Puiu Chibici}, {rcId: {151334}}
 
 [sequence]
 v1,c,v2,c,v3,c

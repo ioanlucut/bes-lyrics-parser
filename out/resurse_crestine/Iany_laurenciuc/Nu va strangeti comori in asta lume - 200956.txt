@@ -1,5 +1,5 @@
 [title]
-Nu va strangeti comori in asta lume {author: {Iany Laurenciuc}, {rcId: {200956}}
+Nu va strangeti comori in asta lume {composer: {Iany Laurenciuc}, {rcId: {200956}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

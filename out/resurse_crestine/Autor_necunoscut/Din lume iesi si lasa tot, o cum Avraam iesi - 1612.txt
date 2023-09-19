@@ -1,5 +1,5 @@
 [title]
-Din lume iesi si lasa tot o cum avraam iesi {author: {Anonim}, {rcId: {1612}}
+Din lume iesi si lasa tot o cum avraam iesi {composer: {Anonim}, {rcId: {1612}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

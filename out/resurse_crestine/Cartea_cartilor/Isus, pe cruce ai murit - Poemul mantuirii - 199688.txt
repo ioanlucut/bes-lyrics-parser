@@ -1,5 +1,5 @@
 [title]
-Isus pe cruce ai murit - poemul mantuirii {author: {Cartea Cărților}, {rcId: {199688}}
+Isus pe cruce ai murit - poemul mantuirii {composer: {Cartea Cărților}, {rcId: {199688}}
 
 [sequence]
 v1,c

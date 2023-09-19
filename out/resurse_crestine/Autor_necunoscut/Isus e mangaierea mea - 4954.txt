@@ -1,5 +1,5 @@
 [title]
-Isus e mangaierea mea {author: {Anonim}, {rcId: {4954}}
+Isus e mangaierea mea {composer: {Anonim}, {rcId: {4954}}
 
 [sequence]
 v1,c,v2,c,v3,c

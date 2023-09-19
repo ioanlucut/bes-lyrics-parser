@@ -1,5 +1,5 @@
 [title]
-De traiesti cu domnul tau mereu {author: {Nicolae Moldoveanu}, {rcId: {5654}}
+De traiesti cu domnul tau mereu {composer: {Nicolae Moldoveanu}, {rcId: {5654}}
 
 [sequence]
 v1,v2,v3

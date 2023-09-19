@@ -1,5 +1,5 @@
 [title]
-Al pacii domn {author: {Puiu Chibici}, {rcId: {95815}}
+Al pacii domn {composer: {Puiu Chibici}, {rcId: {95815}}
 
 [sequence]
 v1,v2,v3

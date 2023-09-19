@@ -1,5 +1,5 @@
 [title]
-Lauda ( binecuvantat sa fie domnul ) {author: {Ovidiu Liteanu}, {rcId: {188226}}
+Lauda ( binecuvantat sa fie domnul ) {composer: {Ovidiu Liteanu}, {rcId: {188226}}
 
 [sequence]
 v1,v2,v3

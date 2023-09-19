@@ -1,5 +1,5 @@
 [title]
-Printre atatea lumini {author: {Anonim}, {rcId: {180140}}
+Printre atatea lumini {composer: {Anonim}, {rcId: {180140}}
 
 [sequence]
 v1,v2,v3,v4,v5

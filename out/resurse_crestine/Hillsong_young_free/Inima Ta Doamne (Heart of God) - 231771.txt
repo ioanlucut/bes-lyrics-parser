@@ -1,5 +1,5 @@
 [title]
-Inima ta doamne (heart of god) {author: {Hillsong Young, Free, Traducere RO}, {rcId: {231771}}
+Inima ta doamne (heart of god) {composer: {Hillsong Young, Free, Traducere RO}, {rcId: {231771}}
 
 [sequence]
 v1,v2,c,v3,c,e

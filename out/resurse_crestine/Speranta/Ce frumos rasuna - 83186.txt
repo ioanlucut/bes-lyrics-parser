@@ -1,5 +1,5 @@
 [title]
-Ce frumos rasuna {author: {Speranța}, {rcId: {83186}}
+Ce frumos rasuna {composer: {Speranța}, {rcId: {83186}}
 
 [sequence]
 v1,c,v2,c,v3,c

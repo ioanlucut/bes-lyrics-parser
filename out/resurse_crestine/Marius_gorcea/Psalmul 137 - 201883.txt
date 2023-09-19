@@ -1,5 +1,5 @@
 [title]
-Psalmul {author: {Marius Gorcea}, {rcId: {201883}}
+Psalmul {composer: {Marius Gorcea}, {rcId: {201883}}
 
 [sequence]
 v1,c,v2,c,v3,c2

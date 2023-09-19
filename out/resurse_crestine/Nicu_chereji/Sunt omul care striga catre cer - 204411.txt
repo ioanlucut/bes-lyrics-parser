@@ -1,5 +1,5 @@
 [title]
-Sunt omul care striga catre cer {author: {Nicu Chereji}, {rcId: {204411}}
+Sunt omul care striga catre cer {composer: {Nicu Chereji}, {rcId: {204411}}
 
 [sequence]
 v1,v2,v3,v4

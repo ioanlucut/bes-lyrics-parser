@@ -1,5 +1,5 @@
 [title]
-Calea adevarul si viata {author: {Nicu Wagner}, {rcId: {61651}}
+Calea adevarul si viata {composer: {Nicu Wagner}, {rcId: {61651}}
 
 [sequence]
 v1,c,v2,c,v3,c

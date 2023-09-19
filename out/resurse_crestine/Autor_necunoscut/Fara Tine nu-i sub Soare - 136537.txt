@@ -1,5 +1,5 @@
 [title]
-Fara tine nu-i sub soare {author: {Anonim}, {rcId: {136537}}
+Fara tine nu-i sub soare {composer: {Anonim}, {rcId: {136537}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

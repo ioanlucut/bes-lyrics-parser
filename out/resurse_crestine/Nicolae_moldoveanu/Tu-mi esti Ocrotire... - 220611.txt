@@ -1,5 +1,5 @@
 [title]
-Tu-mi esti ocrotire {author: {Nicolae Moldoveanu}, {rcId: {220611}}
+Tu-mi esti ocrotire {composer: {Nicolae Moldoveanu}, {rcId: {220611}}
 
 [sequence]
 v1,v2,v3

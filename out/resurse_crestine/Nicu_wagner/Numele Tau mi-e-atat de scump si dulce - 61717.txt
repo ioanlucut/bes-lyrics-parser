@@ -1,5 +1,5 @@
 [title]
-Numele tau mi-e-atat de scump si dulce {author: {Nicu Wagner}, {rcId: {61717}}
+Numele tau mi-e-atat de scump si dulce {composer: {Nicu Wagner}, {rcId: {61717}}
 
 [sequence]
 v1,c,v2,c,v3,c

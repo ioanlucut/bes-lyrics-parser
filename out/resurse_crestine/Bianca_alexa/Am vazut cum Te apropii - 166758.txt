@@ -1,5 +1,5 @@
 [title]
-Am vazut cum te apropii {author: {Bianca Alexa}, {rcId: {166758}}
+Am vazut cum te apropii {composer: {Bianca Alexa}, {rcId: {166758}}
 
 [sequence]
 v1,c,v2,c

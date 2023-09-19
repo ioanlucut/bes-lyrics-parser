@@ -1,5 +1,5 @@
 [title]
-Sunt un bulgar de pamant dumnezeul meu {author: {Anonim}, {rcId: {155856}}
+Sunt un bulgar de pamant dumnezeul meu {composer: {Anonim}, {rcId: {155856}}
 
 [sequence]
 v1,c,v2,c,v3,c

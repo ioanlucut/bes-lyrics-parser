@@ -1,5 +1,5 @@
 [title]
-Domnul e pastorul meu lipsa nu voi duce {author: {Anonim}, {rcId: {218934}}
+Domnul e pastorul meu lipsa nu voi duce {composer: {Anonim}, {rcId: {218934}}
 
 [sequence]
 v1,v2,v3,v4,v5

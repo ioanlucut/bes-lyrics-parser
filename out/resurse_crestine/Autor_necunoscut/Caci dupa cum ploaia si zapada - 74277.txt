@@ -1,5 +1,5 @@
 [title]
-Caci dupa cum ploaia si zapada {author: {Anonim}, {rcId: {74277}}
+Caci dupa cum ploaia si zapada {composer: {Anonim}, {rcId: {74277}}
 
 [sequence]
 v1,c

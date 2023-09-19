@@ -1,5 +1,5 @@
 [title]
-Cine a crezut? {author: {Cătălin Ciuculescu Band}, {rcId: {157524}}
+Cine a crezut? {composer: {Cătălin Ciuculescu Band}, {rcId: {157524}}
 
 [sequence]
 v1,c,v2,c

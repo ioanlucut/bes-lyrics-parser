@@ -1,5 +1,5 @@
 [title]
-Adorat {author: {Anonim}, {rcId: {218732}}
+Adorat {composer: {Anonim}, {rcId: {218732}}
 
 [sequence]
 v1,v2,c,v3,c,e

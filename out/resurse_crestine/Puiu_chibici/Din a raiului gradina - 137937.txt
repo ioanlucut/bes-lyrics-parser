@@ -1,5 +1,5 @@
 [title]
-Din a raiului gradina {author: {Puiu Chibici}, {rcId: {137937}}
+Din a raiului gradina {composer: {Puiu Chibici}, {rcId: {137937}}
 
 [sequence]
 v1,c,v2,c,v3,c

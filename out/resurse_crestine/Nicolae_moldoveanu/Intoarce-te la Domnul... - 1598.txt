@@ -1,5 +1,5 @@
 [title]
-Intoarce-te la domnul {author: {Nicolae Moldoveanu}, {rcId: {1598}}
+Intoarce-te la domnul {composer: {Nicolae Moldoveanu}, {rcId: {1598}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c

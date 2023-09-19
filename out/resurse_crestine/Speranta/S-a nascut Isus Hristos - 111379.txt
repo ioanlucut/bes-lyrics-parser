@@ -1,5 +1,5 @@
 [title]
-S-a nascut isus hristos {author: {Speranța}, {rcId: {111379}}
+S-a nascut isus hristos {composer: {Speranța}, {rcId: {111379}}
 
 [sequence]
 v1

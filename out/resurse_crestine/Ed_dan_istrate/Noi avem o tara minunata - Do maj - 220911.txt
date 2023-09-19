@@ -1,5 +1,5 @@
 [title]
-Noi avem o tara minunata - do maj {author: {ed. Dan Istrate}, {rcId: {220911}}
+Noi avem o tara minunata - do maj {composer: {ed. Dan Istrate}, {rcId: {220911}}
 
 [sequence]
 v1,c,v2,c,v3,c

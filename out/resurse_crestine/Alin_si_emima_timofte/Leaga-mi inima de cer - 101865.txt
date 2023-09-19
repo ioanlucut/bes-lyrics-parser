@@ -1,5 +1,5 @@
 [title]
-Leaga-mi inima de cer {author: {Alin și Emima Timofte}, {rcId: {101865}}
+Leaga-mi inima de cer {composer: {Alin și Emima Timofte}, {rcId: {101865}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Cauta azi tinere cuvantul {author: {H.C.MARGARETA}, {rcId: {242005}}
+Cauta azi tinere cuvantul {composer: {H.C.MARGARETA}, {rcId: {242005}}
 
 [sequence]
 v1

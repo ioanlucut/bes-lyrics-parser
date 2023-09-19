@@ -1,5 +1,5 @@
 [title]
-Cu bucurie {author: {Anonim}, {rcId: {1408}}
+Cu bucurie {composer: {Anonim}, {rcId: {1408}}
 
 [sequence]
 v1,v2,v3

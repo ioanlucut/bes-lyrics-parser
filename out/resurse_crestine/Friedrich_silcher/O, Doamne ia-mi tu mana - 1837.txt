@@ -1,5 +1,5 @@
 [title]
-O doamne ia-mi tu mana {author: {Friedrich Silcher}, {rcId: {1837}}
+O doamne ia-mi tu mana {composer: {Friedrich Silcher}, {rcId: {1837}}
 
 [sequence]
 v1,v2,v3

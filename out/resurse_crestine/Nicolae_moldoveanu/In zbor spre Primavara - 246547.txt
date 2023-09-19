@@ -1,5 +1,5 @@
 [title]
-In zbor spre primavara {author: {Nicolae Moldoveanu}, {rcId: {246547}}
+In zbor spre primavara {composer: {Nicolae Moldoveanu}, {rcId: {246547}}
 
 [sequence]
 v1,v2,v3,v4

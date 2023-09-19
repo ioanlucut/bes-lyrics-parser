@@ -1,5 +1,5 @@
 [title]
-Ti-as multumi {author: {Nicolae Moldoveanu}, {rcId: {244473}}
+Ti-as multumi {composer: {Nicolae Moldoveanu}, {rcId: {244473}}
 
 [sequence]
 v1,v2

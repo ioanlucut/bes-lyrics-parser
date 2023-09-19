@@ -1,5 +1,5 @@
 [title]
-Lumina ta {author: {Soli deo Gloria}, {rcId: {6859}}
+Lumina ta {composer: {Soli deo Gloria}, {rcId: {6859}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Psalmul {author: {Matt Redman}, {rcId: {5140}}
+Psalmul {composer: {Matt Redman}, {rcId: {5140}}
 
 [sequence]
 c,v1,c,e

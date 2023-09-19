@@ -1,5 +1,5 @@
 [title]
-Asta inseamna eu te iubesc {author: {Beni Lazau}, {rcId: {137581}}
+Asta inseamna eu te iubesc {composer: {Beni Lazau}, {rcId: {137581}}
 
 [sequence]
 v1,c,v2,c2,v3,c2

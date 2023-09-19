@@ -1,5 +1,5 @@
 [title]
-Vin acum in fata ta {author: {Balan Adriana Mirela}, {rcId: {108107}}
+Vin acum in fata ta {composer: {Balan Adriana Mirela}, {rcId: {108107}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Salvatorul {author: {Anonim}, {rcId: {6595}}
+Salvatorul {composer: {Anonim}, {rcId: {6595}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Doamne aduti aminte {author: {Ionel Saran}, {rcId: {112111}}
+Doamne aduti aminte {composer: {Ionel Saran}, {rcId: {112111}}
 
 [sequence]
 v1,c,v2,c2

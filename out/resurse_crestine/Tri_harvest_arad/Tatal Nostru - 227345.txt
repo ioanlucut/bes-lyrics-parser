@@ -1,5 +1,5 @@
 [title]
-Tatal nostru {author: {TR3i, Harvest Arad}, {rcId: {227345}}
+Tatal nostru {composer: {TR3i, Harvest Arad}, {rcId: {227345}}
 
 [sequence]
 v1,b,c,v2,b,c,e,c

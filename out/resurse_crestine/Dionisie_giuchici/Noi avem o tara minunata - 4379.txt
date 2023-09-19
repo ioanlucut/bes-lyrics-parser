@@ -1,5 +1,5 @@
 [title]
-Noi avem o tara minunata {author: {Dionisie Giuchici}, {rcId: {4379}}
+Noi avem o tara minunata {composer: {Dionisie Giuchici}, {rcId: {4379}}
 
 [sequence]
 v1,c,v2,c,v3,c

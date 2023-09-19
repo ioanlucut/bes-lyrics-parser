@@ -1,5 +1,5 @@
 [title]
-Sunt schimbat de tin {author: {Anonim}, {rcId: {62691}}
+Sunt schimbat de tin {composer: {Anonim}, {rcId: {62691}}
 
 [sequence]
 v1,c,v2,c,e

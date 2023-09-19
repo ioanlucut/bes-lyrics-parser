@@ -1,5 +1,5 @@
 [title]
-Iubit de dumnezeu {author: {Teo Family}, {rcId: {173137}}
+Iubit de dumnezeu {composer: {Teo Family}, {rcId: {173137}}
 
 [sequence]
 v1,c,v2,c

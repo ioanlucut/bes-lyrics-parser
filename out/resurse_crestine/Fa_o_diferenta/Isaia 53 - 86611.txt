@@ -1,5 +1,5 @@
 [title]
-Isaia {author: {Fă o diferență}, {rcId: {86611}}
+Isaia {composer: {Fă o diferență}, {rcId: {86611}}
 
 [sequence]
 v1,c,v2,c,v3,c

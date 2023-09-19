@@ -1,5 +1,5 @@
 [title]
-Dumnezeu ne cheama {author: {Gabi_Ilut}, {rcId: {238882}}
+Dumnezeu ne cheama {composer: {Gabi_Ilut}, {rcId: {238882}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

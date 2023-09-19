@@ -1,5 +1,5 @@
 [title]
-Te laud dimineata {author: {Anonim}, {rcId: {5154}}
+Te laud dimineata {composer: {Anonim}, {rcId: {5154}}
 
 [sequence]
 c,v1,v2,c,v3,v2,c

@@ -1,5 +1,5 @@
 [title]
-O zi e-un dar de la isus {author: {Anonim}, {rcId: {185939}}
+O zi e-un dar de la isus {composer: {Anonim}, {rcId: {185939}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

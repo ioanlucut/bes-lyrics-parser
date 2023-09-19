@@ -1,5 +1,5 @@
 [title]
-Otata sfant {author: {Anonim}, {rcId: {7387}}
+Otata sfant {composer: {Anonim}, {rcId: {7387}}
 
 [sequence]
 v1,c,v2,c,v3,c

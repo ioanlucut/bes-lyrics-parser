@@ -1,5 +1,5 @@
 [title]
-Hristos din morti a inviat {author: {Anonim}, {rcId: {59135}}
+Hristos din morti a inviat {composer: {Anonim}, {rcId: {59135}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

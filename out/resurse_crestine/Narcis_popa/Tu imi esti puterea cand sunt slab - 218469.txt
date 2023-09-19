@@ -1,5 +1,5 @@
 [title]
-Tu imi esti puterea cand sunt slab {author: {Narcis Popa}, {rcId: {218469}}
+Tu imi esti puterea cand sunt slab {composer: {Narcis Popa}, {rcId: {218469}}
 
 [sequence]
 v1,v2,e

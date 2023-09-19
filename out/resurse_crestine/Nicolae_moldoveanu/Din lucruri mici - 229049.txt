@@ -1,5 +1,5 @@
 [title]
-Din lucruri mici {author: {Nicolae Moldoveanu}, {rcId: {229049}}
+Din lucruri mici {composer: {Nicolae Moldoveanu}, {rcId: {229049}}
 
 [sequence]
 v1,v2,v3

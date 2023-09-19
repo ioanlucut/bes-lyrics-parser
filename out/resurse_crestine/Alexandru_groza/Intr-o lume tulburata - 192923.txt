@@ -1,5 +1,5 @@
 [title]
-Intr-o lume tulburata {author: {Alexandru Groza}, {rcId: {192923}}
+Intr-o lume tulburata {composer: {Alexandru Groza}, {rcId: {192923}}
 
 [sequence]
 v1,v2,e

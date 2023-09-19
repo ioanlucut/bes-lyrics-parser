@@ -1,5 +1,5 @@
 [title]
-Cand noaptea coboara {author: {Daniel Cristian}, {rcId: {100248}}
+Cand noaptea coboara {composer: {Daniel Cristian}, {rcId: {100248}}
 
 [sequence]
 v1,c

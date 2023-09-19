@@ -1,5 +1,5 @@
 [title]
-Unde te duci suflete calator {author: {Ciprian Holbatu}, {rcId: {164704}}
+Unde te duci suflete calator {composer: {Ciprian Holbatu}, {rcId: {164704}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Ce sunt eu sa privesti tu la mine {author: {cristi72}, {rcId: {127306}}
+Ce sunt eu sa privesti tu la mine {composer: {cristi72}, {rcId: {127306}}
 
 [sequence]
 v1,c,v2,c

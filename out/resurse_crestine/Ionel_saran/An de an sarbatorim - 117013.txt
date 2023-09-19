@@ -1,5 +1,5 @@
 [title]
-An de an sarbatorim {author: {Ionel Saran}, {rcId: {117013}}
+An de an sarbatorim {composer: {Ionel Saran}, {rcId: {117013}}
 
 [sequence]
 v1,c,v2,c

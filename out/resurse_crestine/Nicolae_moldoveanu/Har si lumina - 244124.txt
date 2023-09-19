@@ -1,5 +1,5 @@
 [title]
-Har si lumina {author: {Nicolae Moldoveanu}, {rcId: {244124}}
+Har si lumina {composer: {Nicolae Moldoveanu}, {rcId: {244124}}
 
 [sequence]
 v1,v2,v3,v4

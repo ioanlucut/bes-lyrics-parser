@@ -1,5 +1,5 @@
 [title]
-In ascultare {author: {Gabi_Ilut}, {rcId: {241256}}
+In ascultare {composer: {Gabi_Ilut}, {rcId: {241256}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

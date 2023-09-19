@@ -1,5 +1,5 @@
 [title]
-Eu una stiu (one thing i know) {author: {Eliza E. Hewitt, William J. Kirkpatrick, Traducere RO}, {rcId: {209993}}
+Eu una stiu (one thing i know) {composer: {Eliza E. Hewitt, William J. Kirkpatrick, Traducere RO}, {rcId: {209993}}
 
 [sequence]
 v1,c,v2,c

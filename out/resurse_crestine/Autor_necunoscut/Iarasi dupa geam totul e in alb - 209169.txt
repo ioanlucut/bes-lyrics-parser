@@ -1,5 +1,5 @@
 [title]
-Iarasi dupa geam totul e in alb {author: {Anonim}, {rcId: {209169}}
+Iarasi dupa geam totul e in alb {composer: {Anonim}, {rcId: {209169}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Cand ma vezi in stramtorare {author: {Gabi Lunca}, {rcId: {55569}}
+Cand ma vezi in stramtorare {composer: {Gabi Lunca}, {rcId: {55569}}
 
 [sequence]
 v1,v2,v3,v4,v5

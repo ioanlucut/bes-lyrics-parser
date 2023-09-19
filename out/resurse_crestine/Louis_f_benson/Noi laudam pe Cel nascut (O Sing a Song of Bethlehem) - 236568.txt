@@ -1,5 +1,5 @@
 [title]
-Noi laudam pe cel nascut (o sing a song of bethlehem) {author: {Louis F. Benson, Traducere RO}, {rcId: {236568}}
+Noi laudam pe cel nascut (o sing a song of bethlehem) {composer: {Louis F. Benson, Traducere RO}, {rcId: {236568}}
 
 [sequence]
 v1,v2,v3,v4

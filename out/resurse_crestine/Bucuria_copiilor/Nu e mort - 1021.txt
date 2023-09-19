@@ -1,5 +1,5 @@
 [title]
-Nu e mort {author: {Bucuria copiilor}, {rcId: {1021}}
+Nu e mort {composer: {Bucuria copiilor}, {rcId: {1021}}
 
 [sequence]
 c,v1,c

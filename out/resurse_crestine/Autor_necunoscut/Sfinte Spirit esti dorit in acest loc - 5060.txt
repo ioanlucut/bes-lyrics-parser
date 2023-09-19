@@ -1,5 +1,5 @@
 [title]
-Sfinte spirit esti dorit in acest loc {author: {Anonim}, {rcId: {5060}}
+Sfinte spirit esti dorit in acest loc {composer: {Anonim}, {rcId: {5060}}
 
 [sequence]
 v1,v2

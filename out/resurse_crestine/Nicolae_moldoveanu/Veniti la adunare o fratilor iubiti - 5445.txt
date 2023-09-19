@@ -1,5 +1,5 @@
 [title]
-Veniti la adunare o fratilor iubiti {author: {Nicolae Moldoveanu}, {rcId: {5445}}
+Veniti la adunare o fratilor iubiti {composer: {Nicolae Moldoveanu}, {rcId: {5445}}
 
 [sequence]
 v2,v3,v4,v5,v6

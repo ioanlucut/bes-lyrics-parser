@@ -1,5 +1,5 @@
 [title]
-El este leu din tribul lui iuda {author: {Anonim}, {rcId: {4914}}
+El este leu din tribul lui iuda {composer: {Anonim}, {rcId: {4914}}
 
 [sequence]
 v1

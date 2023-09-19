@@ -1,5 +1,5 @@
 [title]
-Nu ma satur de dragostea ta {author: {Lidia Cîrlan}, {rcId: {194165}}
+Nu ma satur de dragostea ta {composer: {Lidia Cîrlan}, {rcId: {194165}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

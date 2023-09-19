@@ -1,5 +1,5 @@
 [title]
-Trei funii azi {author: {Kevin Kocsis}, {rcId: {222199}}
+Trei funii azi {composer: {Kevin Kocsis}, {rcId: {222199}}
 
 [sequence]
 v1,v2,c,v3,b,c

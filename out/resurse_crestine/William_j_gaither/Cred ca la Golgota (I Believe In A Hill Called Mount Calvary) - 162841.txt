@@ -1,5 +1,5 @@
 [title]
-Cred ca la golgota (i believe in a hill called mount calvary) {author: {William J. Gaither, Traducere RO}, {rcId: {162841}}
+Cred ca la golgota (i believe in a hill called mount calvary) {composer: {William J. Gaither, Traducere RO}, {rcId: {162841}}
 
 [sequence]
 v1,v2,c,v3,c,s,c

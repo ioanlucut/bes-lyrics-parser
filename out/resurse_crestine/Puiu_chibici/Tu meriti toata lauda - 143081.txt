@@ -1,5 +1,5 @@
 [title]
-Tu meriti toata lauda {author: {Puiu Chibici}, {rcId: {143081}}
+Tu meriti toata lauda {composer: {Puiu Chibici}, {rcId: {143081}}
 
 [sequence]
 v1,c,v2,c,v3,c

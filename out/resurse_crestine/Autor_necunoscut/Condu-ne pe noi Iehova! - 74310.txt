@@ -1,5 +1,5 @@
 [title]
-Condu-ne pe noi iehova {author: {Anonim}, {rcId: {74310}}
+Condu-ne pe noi iehova {composer: {Anonim}, {rcId: {74310}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Este-o tara {author: {Nicolae Moldoveanu}, {rcId: {228413}}
+Este-o tara {composer: {Nicolae Moldoveanu}, {rcId: {228413}}
 
 [sequence]
 v1,c,v2,c,v3,c

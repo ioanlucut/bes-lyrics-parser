@@ -1,5 +1,5 @@
 [title]
-Tata {author: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {112918}}
+Tata {composer: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {112918}}
 
 [sequence]
 v1,c,v2,c,c,e

@@ -1,5 +1,5 @@
 [title]
-Tu esti iubirea mea mereu isuse {author: {Ionel Saran Bochis}, {rcId: {111184}}
+Tu esti iubirea mea mereu isuse {composer: {Ionel Saran Bochis}, {rcId: {111184}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-La capat de drum {author: {Adi Gliga}, {rcId: {158399}}
+La capat de drum {composer: {Adi Gliga}, {rcId: {158399}}
 
 [sequence]
 v1,c,v2,c

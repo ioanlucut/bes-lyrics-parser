@@ -1,5 +1,5 @@
 [title]
-Ades ma prinde teama {author: {Aurica Murasan}, {rcId: {160759}}
+Ades ma prinde teama {composer: {Aurica Murasan}, {rcId: {160759}}
 
 [sequence]
 v1,v2,v3,v4

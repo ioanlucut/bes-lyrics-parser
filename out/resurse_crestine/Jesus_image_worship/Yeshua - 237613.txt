@@ -1,5 +1,5 @@
 [title]
-Yeshua {author: {Jesus Image Worship}, {rcId: {237613}}
+Yeshua {composer: {Jesus Image Worship}, {rcId: {237613}}
 
 [sequence]
 v1,c,v2,c

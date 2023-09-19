@@ -1,5 +1,5 @@
 [title]
-Isuse fara tine nu vreau sa fac un pas {author: {Nicolae Moldoveanu}, {rcId: {215483}}
+Isuse fara tine nu vreau sa fac un pas {composer: {Nicolae Moldoveanu}, {rcId: {215483}}
 
 [sequence]
 v1,v2,v3,v4,v5

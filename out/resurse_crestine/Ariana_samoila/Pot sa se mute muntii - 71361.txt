@@ -1,5 +1,5 @@
 [title]
-Pot sa se mute muntii {author: {Ariana Samoila}, {rcId: {71361}}
+Pot sa se mute muntii {composer: {Ariana Samoila}, {rcId: {71361}}
 
 [sequence]
 v1,c,v2,c

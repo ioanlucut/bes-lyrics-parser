@@ -1,5 +1,5 @@
 [title]
-Esti tu oare pregatit ? {author: {Ilie Neagu}, {rcId: {87006}}
+Esti tu oare pregatit ? {composer: {Ilie Neagu}, {rcId: {87006}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

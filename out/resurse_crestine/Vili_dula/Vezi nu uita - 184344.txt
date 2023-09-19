@@ -1,5 +1,5 @@
 [title]
-Vezi nu uita {author: {Vili Dulă}, {rcId: {184344}}
+Vezi nu uita {composer: {Vili Dulă}, {rcId: {184344}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

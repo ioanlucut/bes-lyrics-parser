@@ -1,5 +1,5 @@
 [title]
-Acum merg acasa la domnul meu {author: {Nicolae Moldoveanu}, {rcId: {5552}}
+Acum merg acasa la domnul meu {composer: {Nicolae Moldoveanu}, {rcId: {5552}}
 
 [sequence]
 v1,v2,v3

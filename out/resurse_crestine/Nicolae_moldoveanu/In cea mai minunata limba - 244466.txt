@@ -1,5 +1,5 @@
 [title]
-In cea mai minunata limba {author: {Nicolae Moldoveanu}, {rcId: {244466}}
+In cea mai minunata limba {composer: {Nicolae Moldoveanu}, {rcId: {244466}}
 
 [sequence]
 v1,v2,v3

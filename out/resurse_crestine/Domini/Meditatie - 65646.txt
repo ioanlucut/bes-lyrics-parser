@@ -1,5 +1,5 @@
 [title]
-Meditatie {author: {Domini}, {rcId: {65646}}
+Meditatie {composer: {Domini}, {rcId: {65646}}
 
 [sequence]
 v1,c,v2,c

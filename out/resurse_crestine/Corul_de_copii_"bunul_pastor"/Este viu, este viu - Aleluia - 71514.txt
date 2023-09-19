@@ -1,5 +1,5 @@
 [title]
-Este viu este viu - aleluia {author: {Corul de copii ”Bunul Păstor”}, {rcId: {71514}}
+Este viu este viu - aleluia {composer: {Corul de copii ”Bunul Păstor”}, {rcId: {71514}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

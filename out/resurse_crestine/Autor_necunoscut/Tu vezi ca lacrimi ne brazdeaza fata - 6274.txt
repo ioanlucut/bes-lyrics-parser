@@ -1,5 +1,5 @@
 [title]
-Tu vezi c~a lacrimi ne br~azdeaz~a fata {author: {Anonim}, {rcId: {6274}}
+Tu vezi c~a lacrimi ne br~azdeaz~a fata {composer: {Anonim}, {rcId: {6274}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c

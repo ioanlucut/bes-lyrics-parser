@@ -1,5 +1,5 @@
 [title]
-Cu drag priveste domnul {author: {Nicolae Moldoveanu}, {rcId: {227479}}
+Cu drag priveste domnul {composer: {Nicolae Moldoveanu}, {rcId: {227479}}
 
 [sequence]
 v1,v2,v3

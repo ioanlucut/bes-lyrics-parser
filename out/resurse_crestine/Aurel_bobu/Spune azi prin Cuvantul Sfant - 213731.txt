@@ -1,5 +1,5 @@
 [title]
-Spune azi prin cuvantul sfant {author: {Aurel Bobu}, {rcId: {213731}}
+Spune azi prin cuvantul sfant {composer: {Aurel Bobu}, {rcId: {213731}}
 
 [sequence]
 v1,v2,v3,v4,v5

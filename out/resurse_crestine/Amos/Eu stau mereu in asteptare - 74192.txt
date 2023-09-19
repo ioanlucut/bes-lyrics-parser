@@ -1,5 +1,5 @@
 [title]
-Eu stau mereu in asteptare {author: {amos7}, {rcId: {74192}}
+Eu stau mereu in asteptare {composer: {amos7}, {rcId: {74192}}
 
 [sequence]
 v1,c,v2,c2,c3

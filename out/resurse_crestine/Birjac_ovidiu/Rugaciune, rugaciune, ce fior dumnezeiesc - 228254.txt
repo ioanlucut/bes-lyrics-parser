@@ -1,5 +1,5 @@
 [title]
-Rugaciune rugaciune ce fior dumnezeiesc {author: {Birjac Ovidiu}, {rcId: {228254}}
+Rugaciune rugaciune ce fior dumnezeiesc {composer: {Birjac Ovidiu}, {rcId: {228254}}
 
 [sequence]
 v1,c,v2,c,v3,c

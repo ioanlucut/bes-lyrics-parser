@@ -1,5 +1,5 @@
 [title]
-Treziti-va din somn cu totii {author: {Anonim}, {rcId: {111958}}
+Treziti-va din somn cu totii {composer: {Anonim}, {rcId: {111958}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

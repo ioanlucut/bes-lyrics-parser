@@ -1,5 +1,5 @@
 [title]
-Din betleem la calvar {author: {Anonim}, {rcId: {74234}}
+Din betleem la calvar {composer: {Anonim}, {rcId: {74234}}
 
 [sequence]
 v1,c,v2,c,v3,c

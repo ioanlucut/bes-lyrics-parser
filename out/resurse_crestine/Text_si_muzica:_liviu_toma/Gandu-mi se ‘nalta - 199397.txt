@@ -1,5 +1,5 @@
 [title]
-Gandu-mi se nalta {author: {Text și muzica: Liviu Toma}, {rcId: {199397}}
+Gandu-mi se nalta {composer: {Text și muzica: Liviu Toma}, {rcId: {199397}}
 
 [sequence]
 v1,c,v2,c

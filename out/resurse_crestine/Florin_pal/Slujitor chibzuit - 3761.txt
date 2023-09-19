@@ -1,5 +1,5 @@
 [title]
-Slujitor chibzuit {author: {Florin Pal}, {rcId: {3761}}
+Slujitor chibzuit {composer: {Florin Pal}, {rcId: {3761}}
 
 [sequence]
 v1,v2,v3

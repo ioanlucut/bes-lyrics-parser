@@ -1,5 +1,5 @@
 [title]
-Imi ridic ochii spre munti {author: {Romeo Stan}, {rcId: {55599}}
+Imi ridic ochii spre munti {composer: {Romeo Stan}, {rcId: {55599}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

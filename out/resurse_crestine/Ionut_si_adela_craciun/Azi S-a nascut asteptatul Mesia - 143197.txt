@@ -1,5 +1,5 @@
 [title]
-Azi s-a nascut asteptatul mesia {author: {Ionut si Adela Craciun}, {rcId: {143197}}
+Azi s-a nascut asteptatul mesia {composer: {Ionut si Adela Craciun}, {rcId: {143197}}
 
 [sequence]
 v1,c,v2,b,c

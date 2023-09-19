@@ -1,5 +1,5 @@
 [title]
-Viata noua(frumoasa-i viata ce-o traiesc cu dumnezeu) {author: {Ovidiu Liteanu}, {rcId: {187429}}
+Viata noua(frumoasa-i viata ce-o traiesc cu dumnezeu) {composer: {Ovidiu Liteanu}, {rcId: {187429}}
 
 [sequence]
 v1,v2,v3,v4

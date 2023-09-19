@@ -1,5 +1,5 @@
 [title]
-Cand vei vedea in ziua-aceea {author: {Fratii Maftei}, {rcId: {83382}}
+Cand vei vedea in ziua-aceea {composer: {Fratii Maftei}, {rcId: {83382}}
 
 [sequence]
 v1,c,v2,c,v3,c

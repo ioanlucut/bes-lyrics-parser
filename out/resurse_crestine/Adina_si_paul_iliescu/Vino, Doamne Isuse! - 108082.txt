@@ -1,5 +1,5 @@
 [title]
-Vino doamne isuse {author: {Adina și Paul Iliescu}, {rcId: {108082}}
+Vino doamne isuse {composer: {Adina și Paul Iliescu}, {rcId: {108082}}
 
 [sequence]
 v1,c,v2,c,v3,c

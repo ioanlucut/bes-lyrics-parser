@@ -1,5 +1,5 @@
 [title]
-Ce adevar sublim frumos e viata in unire {author: {Nicolae Moldoveanu}, {rcId: {197199}}
+Ce adevar sublim frumos e viata in unire {composer: {Nicolae Moldoveanu}, {rcId: {197199}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Da domnul e pastorul meu {author: {Anonim}, {rcId: {99580}}
+Da domnul e pastorul meu {composer: {Anonim}, {rcId: {99580}}
 
 [sequence]
 v1,v2,v3,v4,v5

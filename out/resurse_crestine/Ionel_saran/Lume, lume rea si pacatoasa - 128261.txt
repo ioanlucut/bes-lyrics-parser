@@ -1,5 +1,5 @@
 [title]
-Lume lume rea si pacatoasa {author: {Ionel Saran}, {rcId: {128261}}
+Lume lume rea si pacatoasa {composer: {Ionel Saran}, {rcId: {128261}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-M-ai creat {author: {Adina Blaga}, {rcId: {78475}}
+M-ai creat {composer: {Adina Blaga}, {rcId: {78475}}
 
 [sequence]
 v1,v2,v3,v4

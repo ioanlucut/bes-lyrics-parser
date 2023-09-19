@@ -1,5 +1,5 @@
 [title]
-Cantare de seara {author: {Nicu Wagner}, {rcId: {1637}}
+Cantare de seara {composer: {Nicu Wagner}, {rcId: {1637}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

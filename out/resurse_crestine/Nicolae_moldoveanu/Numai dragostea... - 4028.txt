@@ -1,5 +1,5 @@
 [title]
-Numai dragostea {author: {Nicolae Moldoveanu}, {rcId: {4028}}
+Numai dragostea {composer: {Nicolae Moldoveanu}, {rcId: {4028}}
 
 [sequence]
 v1,v2,v3,v4

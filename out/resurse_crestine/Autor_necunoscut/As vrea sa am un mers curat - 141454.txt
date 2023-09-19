@@ -1,5 +1,5 @@
 [title]
-As vrea sa am un mers curat {author: {Anonim}, {rcId: {141454}}
+As vrea sa am un mers curat {composer: {Anonim}, {rcId: {141454}}
 
 [sequence]
 v1,v2,v3

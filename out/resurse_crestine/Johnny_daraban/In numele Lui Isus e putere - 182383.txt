@@ -1,5 +1,5 @@
 [title]
-In numele lui isus e putere {author: {Johnny Daraban}, {rcId: {182383}}
+In numele lui isus e putere {composer: {Johnny Daraban}, {rcId: {182383}}
 
 [sequence]
 v1,c,v2,c,v3,c

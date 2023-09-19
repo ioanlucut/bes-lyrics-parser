@@ -1,5 +1,5 @@
 [title]
-Ostasi ai domnului isus {author: {Anonim}, {rcId: {90331}}
+Ostasi ai domnului isus {composer: {Anonim}, {rcId: {90331}}
 
 [sequence]
 v1,v2,v3,v4,v5

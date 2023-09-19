@@ -1,5 +1,5 @@
 [title]
-O casa de rugaciune {author: {Damaris Azamfirei}, {rcId: {193667}}
+O casa de rugaciune {composer: {Damaris Azamfirei}, {rcId: {193667}}
 
 [sequence]
 v1,c,v2,c,v3,c

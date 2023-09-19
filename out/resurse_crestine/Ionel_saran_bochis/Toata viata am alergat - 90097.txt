@@ -1,5 +1,5 @@
 [title]
-Toata viata am alergat {author: {Ionel Saran Bochis}, {rcId: {90097}}
+Toata viata am alergat {composer: {Ionel Saran Bochis}, {rcId: {90097}}
 
 [sequence]
 v1,v2,v3,v4,v5

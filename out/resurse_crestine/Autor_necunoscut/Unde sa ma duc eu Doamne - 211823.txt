@@ -1,5 +1,5 @@
 [title]
-Unde sa ma duc eu doamne {author: {Anonim}, {rcId: {211823}}
+Unde sa ma duc eu doamne {composer: {Anonim}, {rcId: {211823}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

@@ -1,5 +1,5 @@
 [title]
-Minunea vietii {author: {Emma Repede}, {rcId: {189551}}
+Minunea vietii {composer: {Emma Repede}, {rcId: {189551}}
 
 [sequence]
 v1,b,c,v2,c

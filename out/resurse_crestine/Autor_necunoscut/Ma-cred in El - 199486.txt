@@ -1,5 +1,5 @@
 [title]
-Ma-cred in el {author: {Anonim}, {rcId: {199486}}
+Ma-cred in el {composer: {Anonim}, {rcId: {199486}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-O isuse a mea cruce sa-mi ajuti a o purta {author: {Nicolae Moldoveanu}, {rcId: {5404}}
+O isuse a mea cruce sa-mi ajuti a o purta {composer: {Nicolae Moldoveanu}, {rcId: {5404}}
 
 [sequence]
 v1,v2,v3

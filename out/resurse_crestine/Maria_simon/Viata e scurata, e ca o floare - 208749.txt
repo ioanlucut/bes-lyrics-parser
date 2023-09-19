@@ -1,5 +1,5 @@
 [title]
-Viata e scurata e ca o floare {author: {Maria Șimon}, {rcId: {208749}}
+Viata e scurata e ca o floare {composer: {Maria Șimon}, {rcId: {208749}}
 
 [sequence]
 v1,c,v2,c,v3,c

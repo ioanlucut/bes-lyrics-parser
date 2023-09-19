@@ -1,5 +1,5 @@
 [title]
-Parintele asupra-mi vegheaza din cer {author: {E.Warren}, {rcId: {1743}}
+Parintele asupra-mi vegheaza din cer {composer: {E.Warren}, {rcId: {1743}}
 
 [sequence]
 v1,c,v2,c,v2,c

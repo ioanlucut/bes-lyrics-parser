@@ -1,5 +1,5 @@
 [title]
-Ce dulce-i viata cu isus {author: {Nicolae Moldoveanu}, {rcId: {5911}}
+Ce dulce-i viata cu isus {composer: {Nicolae Moldoveanu}, {rcId: {5911}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

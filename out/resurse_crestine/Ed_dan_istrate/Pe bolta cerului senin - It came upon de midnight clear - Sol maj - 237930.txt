@@ -1,5 +1,5 @@
 [title]
-Pe bolta cerului senin - it came upon de midnight clear - sol maj {author: {ed. Dan Istrate}, {rcId: {237930}}
+Pe bolta cerului senin - it came upon de midnight clear - sol maj {composer: {ed. Dan Istrate}, {rcId: {237930}}
 
 [sequence]
 v1,v2,v3

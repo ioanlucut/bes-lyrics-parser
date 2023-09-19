@@ -1,5 +1,5 @@
 [title]
-Va las pacea mea si va dau pacea mea {author: {Anonim}, {rcId: {59145}}
+Va las pacea mea si va dau pacea mea {composer: {Anonim}, {rcId: {59145}}
 
 [sequence]
 v1,c,v2,c,v3,c

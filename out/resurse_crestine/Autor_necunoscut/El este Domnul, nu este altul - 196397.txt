@@ -1,5 +1,5 @@
 [title]
-El este domnul nu este altul {author: {Anonim}, {rcId: {196397}}
+El este domnul nu este altul {composer: {Anonim}, {rcId: {196397}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Staruieste-n rugaciune {author: {Alexandru Groza}, {rcId: {185318}}
+Staruieste-n rugaciune {composer: {Alexandru Groza}, {rcId: {185318}}
 
 [sequence]
 v1,c,v2,c

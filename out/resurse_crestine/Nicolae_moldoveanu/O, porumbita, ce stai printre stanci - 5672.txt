@@ -1,5 +1,5 @@
 [title]
-O porumbita ce stai printre stanci {author: {Nicolae Moldoveanu}, {rcId: {5672}}
+O porumbita ce stai printre stanci {composer: {Nicolae Moldoveanu}, {rcId: {5672}}
 
 [sequence]
 v1,v2,v3,v4,v5

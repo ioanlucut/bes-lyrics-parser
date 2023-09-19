@@ -1,5 +1,5 @@
 [title]
-Om al lui dumnezeu {author: {Speranța}, {rcId: {111331}}
+Om al lui dumnezeu {composer: {Speranța}, {rcId: {111331}}
 
 [sequence]
 v1,c,v2,c2

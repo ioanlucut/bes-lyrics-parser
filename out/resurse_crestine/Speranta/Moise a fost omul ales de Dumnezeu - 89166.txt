@@ -1,5 +1,5 @@
 [title]
-Moise a fost omul ales de dumnezeu {author: {Speranța}, {rcId: {89166}}
+Moise a fost omul ales de dumnezeu {composer: {Speranța}, {rcId: {89166}}
 
 [sequence]
 v1,v2,v3,v4

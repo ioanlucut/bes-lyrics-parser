@@ -1,5 +1,5 @@
 [title]
-Sfanta bogatie (nu te sprijni pe lucruri care vor pieri) {author: {Ovidiu Liteanu}, {rcId: {187405}}
+Sfanta bogatie (nu te sprijni pe lucruri care vor pieri) {composer: {Ovidiu Liteanu}, {rcId: {187405}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

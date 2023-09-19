@@ -1,5 +1,5 @@
 [title]
-Mainile tale {author: {Costache Ioanid}, {rcId: {188491}}
+Mainile tale {composer: {Costache Ioanid}, {rcId: {188491}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

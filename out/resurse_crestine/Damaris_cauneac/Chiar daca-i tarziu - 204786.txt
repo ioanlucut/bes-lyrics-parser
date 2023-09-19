@@ -1,5 +1,5 @@
 [title]
-Chiar daca-i tarziu {author: {Damaris Cauneac}, {rcId: {204786}}
+Chiar daca-i tarziu {composer: {Damaris Cauneac}, {rcId: {204786}}
 
 [sequence]
 s,c,s2,c2,s3,c3

@@ -1,5 +1,5 @@
 [title]
-Dragostea ce ne-a dat-o dumnezeu {author: {Anonim}, {rcId: {6607}}
+Dragostea ce ne-a dat-o dumnezeu {composer: {Anonim}, {rcId: {6607}}
 
 [sequence]
 v1,c

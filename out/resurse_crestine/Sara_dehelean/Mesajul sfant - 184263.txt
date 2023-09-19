@@ -1,5 +1,5 @@
 [title]
-Mesajul sfant {author: {Sara Dehelean}, {rcId: {184263}}
+Mesajul sfant {composer: {Sara Dehelean}, {rcId: {184263}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

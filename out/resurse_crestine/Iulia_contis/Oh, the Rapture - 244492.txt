@@ -1,5 +1,5 @@
 [title]
-Oh the rapture {author: {Iulia Contis}, {rcId: {244492}}
+Oh the rapture {composer: {Iulia Contis}, {rcId: {244492}}
 
 [sequence]
 v1,c,v2,c

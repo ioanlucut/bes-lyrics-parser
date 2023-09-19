@@ -1,5 +1,5 @@
 [title]
-Eu ma incred in domnul {author: {Gabriel Gorcea și prietenii}, {rcId: {99821}}
+Eu ma incred in domnul {composer: {Gabriel Gorcea și prietenii}, {rcId: {99821}}
 
 [sequence]
 v1,c,v2,c,v3,c

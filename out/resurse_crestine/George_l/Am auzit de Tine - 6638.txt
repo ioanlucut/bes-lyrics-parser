@@ -1,5 +1,5 @@
 [title]
-Am auzit de tine {author: {George L}, {rcId: {6638}}
+Am auzit de tine {composer: {George L}, {rcId: {6638}}
 
 [sequence]
 v1,v2,v3,v4

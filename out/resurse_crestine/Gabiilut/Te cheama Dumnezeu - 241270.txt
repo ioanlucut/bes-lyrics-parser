@@ -1,5 +1,5 @@
 [title]
-Te cheama dumnezeu {author: {Gabi_Ilut}, {rcId: {241270}}
+Te cheama dumnezeu {composer: {Gabi_Ilut}, {rcId: {241270}}
 
 [sequence]
 v1,c,v2,c,e

@@ -1,5 +1,5 @@
 [title]
-Doamne doamne {author: {Anonim}, {rcId: {6893}}
+Doamne doamne {composer: {Anonim}, {rcId: {6893}}
 
 [sequence]
 v1,c,v2,c2

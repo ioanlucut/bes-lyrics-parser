@@ -1,5 +1,5 @@
 [title]
-Plang si cant de bucurie {author: {Anonim}, {rcId: {65714}}
+Plang si cant de bucurie {composer: {Anonim}, {rcId: {65714}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

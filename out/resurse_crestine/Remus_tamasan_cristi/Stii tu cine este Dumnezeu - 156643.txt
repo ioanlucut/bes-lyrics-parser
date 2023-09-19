@@ -1,5 +1,5 @@
 [title]
-Stii tu cine este dumnezeu {author: {Remus Tămășan Cristi}, {rcId: {156643}}
+Stii tu cine este dumnezeu {composer: {Remus Tămășan Cristi}, {rcId: {156643}}
 
 [sequence]
 v1,c,v2,c,v3,c

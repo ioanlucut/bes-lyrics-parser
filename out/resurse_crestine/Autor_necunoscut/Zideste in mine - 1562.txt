@@ -1,5 +1,5 @@
 [title]
-Zideste in mine {author: {Anonim}, {rcId: {1562}}
+Zideste in mine {composer: {Anonim}, {rcId: {1562}}
 
 [sequence]
 v1,c,v2,c

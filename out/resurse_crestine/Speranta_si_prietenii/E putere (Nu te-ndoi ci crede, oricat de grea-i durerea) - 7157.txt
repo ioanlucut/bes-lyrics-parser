@@ -1,5 +1,5 @@
 [title]
-E putere (nu te-ndoi ci crede oricat de grea-i durerea) {author: {Speranța și prietenii}, {rcId: {7157}}
+E putere (nu te-ndoi ci crede oricat de grea-i durerea) {composer: {Speranța și prietenii}, {rcId: {7157}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

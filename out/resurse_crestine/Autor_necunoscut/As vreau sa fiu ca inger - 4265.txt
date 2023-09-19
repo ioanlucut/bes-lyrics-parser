@@ -1,5 +1,5 @@
 [title]
-As vreau sa fiu ca inger {author: {Anonim}, {rcId: {4265}}
+As vreau sa fiu ca inger {composer: {Anonim}, {rcId: {4265}}
 
 [sequence]
 v1,v2,v3,v4

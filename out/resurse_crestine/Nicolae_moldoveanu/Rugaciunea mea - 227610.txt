@@ -1,5 +1,5 @@
 [title]
-Rugaciunea mea {author: {Nicolae Moldoveanu}, {rcId: {227610}}
+Rugaciunea mea {composer: {Nicolae Moldoveanu}, {rcId: {227610}}
 
 [sequence]
 v1,v2,v3,v4,v5

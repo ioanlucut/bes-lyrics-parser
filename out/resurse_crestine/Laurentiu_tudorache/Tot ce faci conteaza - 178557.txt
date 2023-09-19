@@ -1,5 +1,5 @@
 [title]
-Tot ce faci conteaza {author: {Laurentiu Tudorache}, {rcId: {178557}}
+Tot ce faci conteaza {composer: {Laurentiu Tudorache}, {rcId: {178557}}
 
 [sequence]
 c,v1,v2,b,c,v5,v6,b,c

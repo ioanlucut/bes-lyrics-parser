@@ -1,5 +1,5 @@
 [title]
-Dupa cum scriptura scrie {author: {Nicolae Moldoveanu}, {rcId: {5580}}
+Dupa cum scriptura scrie {composer: {Nicolae Moldoveanu}, {rcId: {5580}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c2

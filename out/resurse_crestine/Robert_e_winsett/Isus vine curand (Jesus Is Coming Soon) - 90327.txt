@@ -1,5 +1,5 @@
 [title]
-Isus vine curand (jesus is coming soon) {author: {Robert E. Winsett, Traducere RO}, {rcId: {90327}}
+Isus vine curand (jesus is coming soon) {composer: {Robert E. Winsett, Traducere RO}, {rcId: {90327}}
 
 [sequence]
 v1,c,v2,c

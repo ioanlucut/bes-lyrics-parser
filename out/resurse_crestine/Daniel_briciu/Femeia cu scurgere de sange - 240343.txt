@@ -1,5 +1,5 @@
 [title]
-Femeia cu scurgere de sange {author: {Daniel Briciu}, {rcId: {240343}}
+Femeia cu scurgere de sange {composer: {Daniel Briciu}, {rcId: {240343}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

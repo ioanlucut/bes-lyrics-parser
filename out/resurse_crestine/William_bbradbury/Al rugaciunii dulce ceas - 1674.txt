@@ -1,5 +1,5 @@
 [title]
-Al rugaciunii dulce ceas {author: {William B.Bradbury}, {rcId: {1674}}
+Al rugaciunii dulce ceas {composer: {William B.Bradbury}, {rcId: {1674}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

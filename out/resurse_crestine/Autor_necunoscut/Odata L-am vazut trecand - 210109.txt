@@ -1,5 +1,5 @@
 [title]
-Odata l-am vazut trecand {author: {Album necunoscut}, {rcId: {210109}}
+Odata l-am vazut trecand {composer: {Album necunoscut}, {rcId: {210109}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

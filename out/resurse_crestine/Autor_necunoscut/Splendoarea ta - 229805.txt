@@ -1,5 +1,5 @@
 [title]
-Splendoarea ta {author: {Anonim}, {rcId: {229805}}
+Splendoarea ta {composer: {Anonim}, {rcId: {229805}}
 
 [sequence]
 v1,c,v2,b,c,e

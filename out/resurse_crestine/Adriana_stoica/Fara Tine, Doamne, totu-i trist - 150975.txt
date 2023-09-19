@@ -1,5 +1,5 @@
 [title]
-Fara tine doamne totu-i trist {author: {Adriana Stoica}, {rcId: {150975}}
+Fara tine doamne totu-i trist {composer: {Adriana Stoica}, {rcId: {150975}}
 
 [sequence]
 v1,c,v3,c,v4,c

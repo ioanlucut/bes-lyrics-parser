@@ -1,5 +1,5 @@
 [title]
-Strans la cel mai mare tron laudam prin melodii (sfant e dumnezeu) {author: {Dennis Gorcea, George Horga Jr}, {rcId: {226709}}
+Strans la cel mai mare tron laudam prin melodii (sfant e dumnezeu) {composer: {Dennis Gorcea, George Horga Jr}, {rcId: {226709}}
 
 [sequence]
 v1,b,c,v2,b,c,c,v3,c,c

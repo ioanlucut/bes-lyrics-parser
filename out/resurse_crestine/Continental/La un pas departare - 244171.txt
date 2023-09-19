@@ -1,5 +1,5 @@
 [title]
-La un pas departare {author: {Continental}, {rcId: {244171}}
+La un pas departare {composer: {Continental}, {rcId: {244171}}
 
 [sequence]
 v1,c,v2,c,e

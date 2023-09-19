@@ -1,5 +1,5 @@
 [title]
-Nu mai poti intoarce timpul ce-a trecut {author: {Nicolae Moldoveanu}, {rcId: {246051}}
+Nu mai poti intoarce timpul ce-a trecut {composer: {Nicolae Moldoveanu}, {rcId: {246051}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Se duc anii tineretii {author: {Anonim}, {rcId: {83070}}
+Se duc anii tineretii {composer: {Anonim}, {rcId: {83070}}
 
 [sequence]
 v1,v2,v3,v4,v5

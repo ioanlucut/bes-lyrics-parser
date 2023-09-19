@@ -1,5 +1,5 @@
 [title]
-Asculta glasul ce te cheama {author: {Anonim}, {rcId: {2779}}
+Asculta glasul ce te cheama {composer: {Anonim}, {rcId: {2779}}
 
 [sequence]
 v1,c,v2,c,v3,c

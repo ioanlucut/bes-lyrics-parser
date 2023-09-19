@@ -1,5 +1,5 @@
 [title]
-Acum eu locuiesc pe munte (now i m living on the mountain) {author: {Carroll Roberson, Traducere RO}, {rcId: {130337}}
+Acum eu locuiesc pe munte (now i m living on the mountain) {composer: {Carroll Roberson, Traducere RO}, {rcId: {130337}}
 
 [sequence]
 v1,v2,c,v3,c,s,c

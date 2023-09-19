@@ -1,5 +1,5 @@
 [title]
-Doamne desi sunt copil {author: {Nicolae Moldoveanu}, {rcId: {235827}}
+Doamne desi sunt copil {composer: {Nicolae Moldoveanu}, {rcId: {235827}}
 
 [sequence]
 v1,v2,v3,v4

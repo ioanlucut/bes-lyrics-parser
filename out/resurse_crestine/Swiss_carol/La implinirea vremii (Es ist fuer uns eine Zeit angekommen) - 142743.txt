@@ -1,5 +1,5 @@
 [title]
-La implinirea vremii (es ist f"ur uns eine zeit angekommen) {author: {Swiss Carol, Traducere RO}, {rcId: {142743}}
+La implinirea vremii (es ist f"ur uns eine zeit angekommen) {composer: {Swiss Carol, Traducere RO}, {rcId: {142743}}
 
 [sequence]
 v1,v2,v3,s

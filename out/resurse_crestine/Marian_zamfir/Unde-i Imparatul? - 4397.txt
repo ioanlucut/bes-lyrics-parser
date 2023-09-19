@@ -1,5 +1,5 @@
 [title]
-Unde-i imparatul? {author: {Marian Zamfir}, {rcId: {4397}}
+Unde-i imparatul? {composer: {Marian Zamfir}, {rcId: {4397}}
 
 [sequence]
 v1,c,v2,c,v2,c,v3,c

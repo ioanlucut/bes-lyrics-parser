@@ -1,5 +1,5 @@
 [title]
-Si ma ridic {author: {Rafael Dragomir}, {rcId: {168674}}
+Si ma ridic {composer: {Rafael Dragomir}, {rcId: {168674}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Peste munti si peste dealuri hear our praises {author: {Hillsong}, {rcId: {203642}}
+Peste munti si peste dealuri hear our praises {composer: {Hillsong}, {rcId: {203642}}
 
 [sequence]
 v1,c,v2,c,v3,c,c,c,c,c,c

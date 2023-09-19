@@ -1,5 +1,5 @@
 [title]
-O isuse acel iubit care faci minuni {author: {Anonim}, {rcId: {220216}}
+O isuse acel iubit care faci minuni {composer: {Anonim}, {rcId: {220216}}
 
 [sequence]
 v1,c,v2,c,v3,c

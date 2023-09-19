@@ -1,5 +1,5 @@
 [title]
-C~autati mai intai imp~ar~atia lui dumnezeu {author: {Anonim}, {rcId: {6487}}
+C~autati mai intai imp~ar~atia lui dumnezeu {composer: {Anonim}, {rcId: {6487}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Canta-voi celui preaiubit {author: {Anonim}, {rcId: {74284}}
+Canta-voi celui preaiubit {composer: {Anonim}, {rcId: {74284}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

@@ -1,5 +1,5 @@
 [title]
-Se-aude astazi tot mai tare {author: {Onisim Grab}, {rcId: {151375}}
+Se-aude astazi tot mai tare {composer: {Onisim Grab}, {rcId: {151375}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4,v5,c5

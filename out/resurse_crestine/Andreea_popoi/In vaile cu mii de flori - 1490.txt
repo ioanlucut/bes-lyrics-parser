@@ -1,5 +1,5 @@
 [title]
-In vaile cu mii de flori {author: {Andreea Popoi}, {rcId: {1490}}
+In vaile cu mii de flori {composer: {Andreea Popoi}, {rcId: {1490}}
 
 [sequence]
 v1,v2,v3

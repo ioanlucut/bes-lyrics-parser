@@ -1,5 +1,5 @@
 [title]
-Trei magi (march of the kings) {author: {Colind din Franța, Traducere RO}, {rcId: {207392}}
+Trei magi (march of the kings) {composer: {Colind din Franța, Traducere RO}, {rcId: {207392}}
 
 [sequence]
 v1,v2,v3

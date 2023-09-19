@@ -1,5 +1,5 @@
 [title]
-Aceasta este vestea buna {author: {Anonim}, {rcId: {4007}}
+Aceasta este vestea buna {composer: {Anonim}, {rcId: {4007}}
 
 [sequence]
 v1,c,v2,c,v3,c2

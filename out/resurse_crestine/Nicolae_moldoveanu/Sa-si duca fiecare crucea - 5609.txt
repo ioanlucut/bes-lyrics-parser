@@ -1,5 +1,5 @@
 [title]
-Sa-si duca fiecare crucea {author: {Nicolae Moldoveanu}, {rcId: {5609}}
+Sa-si duca fiecare crucea {composer: {Nicolae Moldoveanu}, {rcId: {5609}}
 
 [sequence]
 v1,v2,v3

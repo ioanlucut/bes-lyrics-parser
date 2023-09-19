@@ -1,5 +1,5 @@
 [title]
-Cand simt ca se apropie furtuna {author: {Nicolae Moldoveanu}, {rcId: {244418}}
+Cand simt ca se apropie furtuna {composer: {Nicolae Moldoveanu}, {rcId: {244418}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Nascut pentru inchinare {author: {CristoCentric}, {rcId: {111420}}
+Nascut pentru inchinare {composer: {CristoCentric}, {rcId: {111420}}
 
 [sequence]
 v1,b,c

@@ -1,5 +1,5 @@
 [title]
-Cu lacrimi si cu durere {author: {Daniel Cojocărescu}, {rcId: {212857}}
+Cu lacrimi si cu durere {composer: {Daniel Cojocărescu}, {rcId: {212857}}
 
 [sequence]
 v1,c,v2,c,v3,c

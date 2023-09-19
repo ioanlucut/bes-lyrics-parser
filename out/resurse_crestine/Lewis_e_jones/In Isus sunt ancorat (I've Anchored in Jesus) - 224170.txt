@@ -1,5 +1,5 @@
 [title]
-In isus sunt ancorat (i ve anchored in jesus) {author: {Lewis E. Jones, Traducere RO}, {rcId: {224170}}
+In isus sunt ancorat (i ve anchored in jesus) {composer: {Lewis E. Jones, Traducere RO}, {rcId: {224170}}
 
 [sequence]
 v1,c,v2,c,v3,c

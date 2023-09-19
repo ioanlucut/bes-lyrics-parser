@@ -1,5 +1,5 @@
 [title]
-Iarta-mi pacatul {author: {Traian Niculai}, {rcId: {156198}}
+Iarta-mi pacatul {composer: {Traian Niculai}, {rcId: {156198}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Daca as avea {author: {Gabriel Gorcea și prietenii}, {rcId: {72608}}
+Daca as avea {composer: {Gabriel Gorcea și prietenii}, {rcId: {72608}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

@@ -1,5 +1,5 @@
 [title]
-O doamne domnul meu slavit de omul rau ma scapa {author: {Nicolae Moldoveanu}, {rcId: {186176}}
+O doamne domnul meu slavit de omul rau ma scapa {composer: {Nicolae Moldoveanu}, {rcId: {186176}}
 
 [sequence]
 v1,v2,v3,v4,v5

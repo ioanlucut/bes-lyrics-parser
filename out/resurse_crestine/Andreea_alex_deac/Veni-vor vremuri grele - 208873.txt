@@ -1,5 +1,5 @@
 [title]
-Veni-vor vremuri grele {author: {Andreea, Alex Deac}, {rcId: {208873}}
+Veni-vor vremuri grele {composer: {Andreea, Alex Deac}, {rcId: {208873}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

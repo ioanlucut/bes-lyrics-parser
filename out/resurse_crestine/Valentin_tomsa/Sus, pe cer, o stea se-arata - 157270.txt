@@ -1,5 +1,5 @@
 [title]
-Sus pe cer o stea se-arata {author: {Valentin Tomșa}, {rcId: {157270}}
+Sus pe cer o stea se-arata {composer: {Valentin Tomșa}, {rcId: {157270}}
 
 [sequence]
 v1,c,v2,c2,c3

@@ -1,5 +1,5 @@
 [title]
-Candva in pacat {author: {Traducere Ted Doru Pope}, {rcId: {58962}}
+Candva in pacat {composer: {Traducere Ted Doru Pope}, {rcId: {58962}}
 
 [sequence]
 v1,c,v2,c,v3,c

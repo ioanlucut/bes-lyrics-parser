@@ -1,5 +1,5 @@
 [title]
-Din zi in zi {author: {David Hapurne}, {rcId: {211223}}
+Din zi in zi {composer: {David Hapurne}, {rcId: {211223}}
 
 [sequence]
 v1,c,v2,c

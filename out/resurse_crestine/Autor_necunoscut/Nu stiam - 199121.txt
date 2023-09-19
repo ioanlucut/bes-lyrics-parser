@@ -1,5 +1,5 @@
 [title]
-Nu stiam {author: {Anonim}, {rcId: {199121}}
+Nu stiam {composer: {Anonim}, {rcId: {199121}}
 
 [sequence]
 v1,v2,v3,v4,v5

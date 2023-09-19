@@ -1,5 +1,5 @@
 [title]
-Fiul meu {author: {Alin Belean}, {rcId: {97214}}
+Fiul meu {composer: {Alin Belean}, {rcId: {97214}}
 
 [sequence]
 v1,c,v2,c,v3,c

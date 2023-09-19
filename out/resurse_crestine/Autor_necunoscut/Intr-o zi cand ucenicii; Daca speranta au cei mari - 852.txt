@@ -1,5 +1,5 @@
 [title]
-Intr-o zi cand ucenicii; daca speranta au cei mari {author: {Anonim}, {rcId: {852}}
+Intr-o zi cand ucenicii; daca speranta au cei mari {composer: {Anonim}, {rcId: {852}}
 
 [sequence]
 v1,c,v2,c

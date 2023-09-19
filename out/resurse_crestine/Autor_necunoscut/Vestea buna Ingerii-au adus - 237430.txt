@@ -1,5 +1,5 @@
 [title]
-Vestea buna ingerii-au adus {author: {Anonim}, {rcId: {237430}}
+Vestea buna ingerii-au adus {composer: {Anonim}, {rcId: {237430}}
 
 [sequence]
 v1,c,v2,c,v3,c

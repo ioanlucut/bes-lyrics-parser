@@ -1,5 +1,5 @@
 [title]
-Un drum o cale {author: {Florin Pal}, {rcId: {98031}}
+Un drum o cale {composer: {Florin Pal}, {rcId: {98031}}
 
 [sequence]
 v1,c,v2,c2,v3,c2

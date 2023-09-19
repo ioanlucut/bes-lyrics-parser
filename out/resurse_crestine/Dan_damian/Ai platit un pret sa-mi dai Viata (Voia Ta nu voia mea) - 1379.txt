@@ -1,5 +1,5 @@
 [title]
-Ai platit un pret sa-mi dai viata (voia ta nu voia mea) {author: {Dan Damian}, {rcId: {1379}}
+Ai platit un pret sa-mi dai viata (voia ta nu voia mea) {composer: {Dan Damian}, {rcId: {1379}}
 
 [sequence]
 v1,c,v2,c

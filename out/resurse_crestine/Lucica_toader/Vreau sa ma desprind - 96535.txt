@@ -1,5 +1,5 @@
 [title]
-Vreau sa ma desprind {author: {Lucica Toader}, {rcId: {96535}}
+Vreau sa ma desprind {composer: {Lucica Toader}, {rcId: {96535}}
 
 [sequence]
 v1,v2,v3,v4

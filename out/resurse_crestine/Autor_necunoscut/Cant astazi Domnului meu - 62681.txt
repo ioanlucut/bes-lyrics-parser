@@ -1,5 +1,5 @@
 [title]
-Cant astazi domnului meu {author: {Anonim}, {rcId: {62681}}
+Cant astazi domnului meu {composer: {Anonim}, {rcId: {62681}}
 
 [sequence]
 v1,c,v2,c

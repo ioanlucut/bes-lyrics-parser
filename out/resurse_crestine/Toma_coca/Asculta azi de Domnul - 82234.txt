@@ -1,5 +1,5 @@
 [title]
-Asculta azi de domnul {author: {Toma Coca}, {rcId: {82234}}
+Asculta azi de domnul {composer: {Toma Coca}, {rcId: {82234}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

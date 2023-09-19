@@ -1,5 +1,5 @@
 [title]
-Adesea ma gandesc {author: {Anonim}, {rcId: {229212}}
+Adesea ma gandesc {composer: {Anonim}, {rcId: {229212}}
 
 [sequence]
 v1,c,v2,c

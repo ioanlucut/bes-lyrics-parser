@@ -1,5 +1,5 @@
 [title]
-Ce frumosi sunt acei tineri {author: {Ovidiu Pal}, {rcId: {4456}}
+Ce frumosi sunt acei tineri {composer: {Ovidiu Pal}, {rcId: {4456}}
 
 [sequence]
 v1,c,v2,c,v3,c

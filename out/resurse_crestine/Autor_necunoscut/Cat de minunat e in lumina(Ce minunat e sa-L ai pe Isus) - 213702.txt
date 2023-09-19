@@ -1,5 +1,5 @@
 [title]
-Cat de minunat e in lumina(ce minunat e sa-l ai pe isus) {author: {Anonim}, {rcId: {213702}}
+Cat de minunat e in lumina(ce minunat e sa-l ai pe isus) {composer: {Anonim}, {rcId: {213702}}
 
 [sequence]
 v1,c,v2,c,v3,c

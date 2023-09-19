@@ -1,5 +1,5 @@
 [title]
-El e domn {author: {Anonim}, {rcId: {1247}}
+El e domn {composer: {Anonim}, {rcId: {1247}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Pe drumul lepadarilor {author: {Anonim}, {rcId: {153706}}
+Pe drumul lepadarilor {composer: {Anonim}, {rcId: {153706}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

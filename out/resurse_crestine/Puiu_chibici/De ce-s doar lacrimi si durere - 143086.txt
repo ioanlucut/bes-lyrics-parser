@@ -1,5 +1,5 @@
 [title]
-De ce-s doar lacrimi si durere {author: {Puiu Chibici}, {rcId: {143086}}
+De ce-s doar lacrimi si durere {composer: {Puiu Chibici}, {rcId: {143086}}
 
 [sequence]
 v1,c,v2,c,v3,c

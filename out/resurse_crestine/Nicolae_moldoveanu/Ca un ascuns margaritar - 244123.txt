@@ -1,5 +1,5 @@
 [title]
-Ca un ascuns margaritar {author: {Nicolae Moldoveanu}, {rcId: {244123}}
+Ca un ascuns margaritar {composer: {Nicolae Moldoveanu}, {rcId: {244123}}
 
 [sequence]
 v1,v2,v3,v4,v5

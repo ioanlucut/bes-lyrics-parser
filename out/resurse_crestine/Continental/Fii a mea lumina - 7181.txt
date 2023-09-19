@@ -1,5 +1,5 @@
 [title]
-Fii a mea lumina {author: {Continental}, {rcId: {7181}}
+Fii a mea lumina {composer: {Continental}, {rcId: {7181}}
 
 [sequence]
 v1,v2,v3,v4

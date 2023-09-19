@@ -1,5 +1,5 @@
 [title]
-In noaptea ce trecuse un vis eu am visat {author: {Anonim}, {rcId: {66967}}
+In noaptea ce trecuse un vis eu am visat {composer: {Anonim}, {rcId: {66967}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

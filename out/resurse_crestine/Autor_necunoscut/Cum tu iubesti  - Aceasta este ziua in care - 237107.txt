@@ -1,5 +1,5 @@
 [title]
-Cum tu iubesti - aceasta este ziua in care {author: {Anonim}, {rcId: {237107}}
+Cum tu iubesti - aceasta este ziua in care {composer: {Anonim}, {rcId: {237107}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c2

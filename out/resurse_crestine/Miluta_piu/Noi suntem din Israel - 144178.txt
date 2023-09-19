@@ -1,5 +1,5 @@
 [title]
-Noi suntem din israel {author: {Miluta Piu}, {rcId: {144178}}
+Noi suntem din israel {composer: {Miluta Piu}, {rcId: {144178}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

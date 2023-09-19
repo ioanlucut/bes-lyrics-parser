@@ -1,5 +1,5 @@
 [title]
-Cu ochii tai de cer {author: {Nicolae Moldoveanu}, {rcId: {242498}}
+Cu ochii tai de cer {composer: {Nicolae Moldoveanu}, {rcId: {242498}}
 
 [sequence]
 v1,v2

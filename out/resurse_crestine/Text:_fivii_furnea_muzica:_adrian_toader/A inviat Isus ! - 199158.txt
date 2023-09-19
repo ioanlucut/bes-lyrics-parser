@@ -1,5 +1,5 @@
 [title]
-A inviat isus {author: {Text: Fivii Furnea, Muzica: Adrian Toader}, {rcId: {199158}}
+A inviat isus {composer: {Text: Fivii Furnea, Muzica: Adrian Toader}, {rcId: {199158}}
 
 [sequence]
 v1,v2,v3

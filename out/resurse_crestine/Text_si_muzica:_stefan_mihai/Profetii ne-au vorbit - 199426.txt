@@ -1,5 +1,5 @@
 [title]
-Profetii ne-au vorbit {author: {Text și muzica: Ștefan Mihai}, {rcId: {199426}}
+Profetii ne-au vorbit {composer: {Text și muzica: Ștefan Mihai}, {rcId: {199426}}
 
 [sequence]
 v1,c,v2,c,v3,c

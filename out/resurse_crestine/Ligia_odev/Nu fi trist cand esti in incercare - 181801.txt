@@ -1,5 +1,5 @@
 [title]
-Nu fi trist cand esti in incercare {author: {Ligia Odev}, {rcId: {181801}}
+Nu fi trist cand esti in incercare {composer: {Ligia Odev}, {rcId: {181801}}
 
 [sequence]
 v1,c,v2,c,v3,c

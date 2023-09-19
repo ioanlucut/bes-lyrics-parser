@@ -1,5 +1,5 @@
 [title]
-Sunt tare slab {author: {Remus Tămășan Cristi}, {rcId: {192401}}
+Sunt tare slab {composer: {Remus Tămășan Cristi}, {rcId: {192401}}
 
 [sequence]
 v1,c,v2,c,v3,c

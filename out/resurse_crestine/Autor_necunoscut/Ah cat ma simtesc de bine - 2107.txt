@@ -1,5 +1,5 @@
 [title]
-Ah cat ma simtesc de bine {author: {Anonim}, {rcId: {2107}}
+Ah cat ma simtesc de bine {composer: {Anonim}, {rcId: {2107}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

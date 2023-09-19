@@ -1,5 +1,5 @@
 [title]
-Atat de scurta este viata {author: {Simon Boloca}, {rcId: {199064}}
+Atat de scurta este viata {composer: {Simon Boloca}, {rcId: {199064}}
 
 [sequence]
 v1,c,v2,c,v3,c

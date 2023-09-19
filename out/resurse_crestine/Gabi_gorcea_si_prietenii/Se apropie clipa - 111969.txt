@@ -1,5 +1,5 @@
 [title]
-Se apropie clipa {author: {Gabi Gorcea și prietenii}, {rcId: {111969}}
+Se apropie clipa {composer: {Gabi Gorcea și prietenii}, {rcId: {111969}}
 
 [sequence]
 v1,c,v2,c,v3,c

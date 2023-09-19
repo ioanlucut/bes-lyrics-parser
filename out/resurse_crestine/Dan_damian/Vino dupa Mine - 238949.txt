@@ -1,5 +1,5 @@
 [title]
-Vino dupa mine {author: {Dan Damian}, {rcId: {238949}}
+Vino dupa mine {composer: {Dan Damian}, {rcId: {238949}}
 
 [sequence]
 v1,c,v2,c,v3,c

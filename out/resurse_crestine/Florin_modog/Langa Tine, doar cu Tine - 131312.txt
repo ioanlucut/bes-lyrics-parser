@@ -1,5 +1,5 @@
 [title]
-Langa tine doar cu tine {author: {Florin Modog}, {rcId: {131312}}
+Langa tine doar cu tine {composer: {Florin Modog}, {rcId: {131312}}
 
 [sequence]
 c,v1,c,v2,c2,v3,c2,e

@@ -1,5 +1,5 @@
 [title]
-Fa-i loc lui isus {author: {Eliza Pantea}, {rcId: {183503}}
+Fa-i loc lui isus {composer: {Eliza Pantea}, {rcId: {183503}}
 
 [sequence]
 v1,c,v2,c,e

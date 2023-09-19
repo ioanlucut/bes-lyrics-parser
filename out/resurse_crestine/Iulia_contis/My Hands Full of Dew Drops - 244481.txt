@@ -1,5 +1,5 @@
 [title]
-My hands full of dew drops {author: {Iulia Contis}, {rcId: {244481}}
+My hands full of dew drops {composer: {Iulia Contis}, {rcId: {244481}}
 
 [sequence]
 v1,v2

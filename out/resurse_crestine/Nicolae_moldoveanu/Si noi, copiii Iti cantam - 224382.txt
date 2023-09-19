@@ -1,5 +1,5 @@
 [title]
-Si noi copiii iti cantam {author: {Nicolae Moldoveanu}, {rcId: {224382}}
+Si noi copiii iti cantam {composer: {Nicolae Moldoveanu}, {rcId: {224382}}
 
 [sequence]
 v1,v2,v3,v4

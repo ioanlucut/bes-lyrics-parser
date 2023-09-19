@@ -1,5 +1,5 @@
 [title]
-Umple-ma cu-a ta iubire doamne iubitor {author: {Anonim}, {rcId: {167291}}
+Umple-ma cu-a ta iubire doamne iubitor {composer: {Anonim}, {rcId: {167291}}
 
 [sequence]
 v1,c,v2,c,v3,c

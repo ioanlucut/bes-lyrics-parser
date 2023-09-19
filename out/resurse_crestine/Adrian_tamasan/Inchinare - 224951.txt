@@ -1,5 +1,5 @@
 [title]
-Inchinare {author: {Adrian Tămășan}, {rcId: {224951}}
+Inchinare {composer: {Adrian Tămășan}, {rcId: {224951}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

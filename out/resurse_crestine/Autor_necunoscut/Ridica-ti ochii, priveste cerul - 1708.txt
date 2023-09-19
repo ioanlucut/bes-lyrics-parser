@@ -1,5 +1,5 @@
 [title]
-Ridica-ti ochii priveste cerul {author: {Anonim}, {rcId: {1708}}
+Ridica-ti ochii priveste cerul {composer: {Anonim}, {rcId: {1708}}
 
 [sequence]
 v1,v2,v3

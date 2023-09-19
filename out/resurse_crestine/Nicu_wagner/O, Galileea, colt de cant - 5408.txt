@@ -1,5 +1,5 @@
 [title]
-O galileea colt de cant {author: {Nicu Wagner}, {rcId: {5408}}
+O galileea colt de cant {composer: {Nicu Wagner}, {rcId: {5408}}
 
 [sequence]
 v1,c,v2,c

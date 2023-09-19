@@ -1,5 +1,5 @@
 [title]
-Spuneti daca dragostea {author: {Florin Pal}, {rcId: {180805}}
+Spuneti daca dragostea {composer: {Florin Pal}, {rcId: {180805}}
 
 [sequence]
 v1,c,v2,c

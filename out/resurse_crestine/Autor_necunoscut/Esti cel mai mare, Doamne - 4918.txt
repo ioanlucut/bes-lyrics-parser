@@ -1,5 +1,5 @@
 [title]
-Esti cel mai mare doamne {author: {Anonim}, {rcId: {4918}}
+Esti cel mai mare doamne {composer: {Anonim}, {rcId: {4918}}
 
 [sequence]
 v1,c

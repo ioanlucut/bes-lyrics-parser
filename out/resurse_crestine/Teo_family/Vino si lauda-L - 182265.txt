@@ -1,5 +1,5 @@
 [title]
-Vino si lauda-l {author: {Teo Family}, {rcId: {182265}}
+Vino si lauda-l {composer: {Teo Family}, {rcId: {182265}}
 
 [sequence]
 v1,c,v2,c,e

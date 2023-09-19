@@ -1,5 +1,5 @@
 [title]
-Fericiti ati pornit pe-o carare {author: {Anonim}, {rcId: {6806}}
+Fericiti ati pornit pe-o carare {composer: {Anonim}, {rcId: {6806}}
 
 [sequence]
 v1,c,v2,c,v3,c

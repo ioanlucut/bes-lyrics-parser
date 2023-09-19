@@ -1,5 +1,5 @@
 [title]
-Din pantecele mamei mele {author: {Ana Maria Mirăuți}, {rcId: {241299}}
+Din pantecele mamei mele {composer: {Ana Maria Mirăuți}, {rcId: {241299}}
 
 [sequence]
 v1,c,v2,c,v3,c,c2

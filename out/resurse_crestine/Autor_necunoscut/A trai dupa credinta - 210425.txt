@@ -1,5 +1,5 @@
 [title]
-A trai dupa credinta {author: {Anonim}, {rcId: {210425}}
+A trai dupa credinta {composer: {Anonim}, {rcId: {210425}}
 
 [sequence]
 v1,v2,v3,v4

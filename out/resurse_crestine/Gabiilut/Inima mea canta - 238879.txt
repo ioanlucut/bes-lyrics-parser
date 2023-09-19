@@ -1,5 +1,5 @@
 [title]
-Inima mea canta {author: {Gabi_Ilut}, {rcId: {238879}}
+Inima mea canta {composer: {Gabi_Ilut}, {rcId: {238879}}
 
 [sequence]
 v1,c,v2,c

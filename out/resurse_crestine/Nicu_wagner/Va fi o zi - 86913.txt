@@ -1,5 +1,5 @@
 [title]
-Va fi o zi {author: {Nicu Wagner}, {rcId: {86913}}
+Va fi o zi {composer: {Nicu Wagner}, {rcId: {86913}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

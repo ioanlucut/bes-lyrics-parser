@@ -1,5 +1,5 @@
 [title]
-Sunt prieten cu dumnezeu {author: {Anonim}, {rcId: {65004}}
+Sunt prieten cu dumnezeu {composer: {Anonim}, {rcId: {65004}}
 
 [sequence]
 v1,c,e

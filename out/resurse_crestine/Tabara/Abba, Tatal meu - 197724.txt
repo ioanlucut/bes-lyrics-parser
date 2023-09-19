@@ -1,5 +1,5 @@
 [title]
-Abba tatal meu {author: {Tabara 477}, {rcId: {197724}}
+Abba tatal meu {composer: {Tabara 477}, {rcId: {197724}}
 
 [sequence]
 v1,c,v2,c,c

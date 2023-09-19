@@ -1,5 +1,5 @@
 [title]
-Nu te teme {author: {Anonim}, {rcId: {55622}}
+Nu te teme {composer: {Anonim}, {rcId: {55622}}
 
 [sequence]
 v1,v2,v3

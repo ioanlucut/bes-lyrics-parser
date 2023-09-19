@@ -1,5 +1,5 @@
 [title]
-Vino la el {author: {Ilie Neagu}, {rcId: {153105}}
+Vino la el {composer: {Ilie Neagu}, {rcId: {153105}}
 
 [sequence]
 v1,c,v2,c,v3,c

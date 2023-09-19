@@ -1,5 +1,5 @@
 [title]
-Mai mult ca mama {author: {Nicolae Moldoveanu}, {rcId: {235792}}
+Mai mult ca mama {composer: {Nicolae Moldoveanu}, {rcId: {235792}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

@@ -1,5 +1,5 @@
 [title]
-Treziti-va fecioare {author: {Nicu Chereji}, {rcId: {208863}}
+Treziti-va fecioare {composer: {Nicu Chereji}, {rcId: {208863}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

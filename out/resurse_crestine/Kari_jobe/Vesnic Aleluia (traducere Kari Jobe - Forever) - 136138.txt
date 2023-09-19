@@ -1,5 +1,5 @@
 [title]
-Vesnic aleluia (traducere kari jobe - forever) {author: {Kari Jobe}, {rcId: {136138}}
+Vesnic aleluia (traducere kari jobe - forever) {composer: {Kari Jobe}, {rcId: {136138}}
 
 [sequence]
 v1,b,c,e

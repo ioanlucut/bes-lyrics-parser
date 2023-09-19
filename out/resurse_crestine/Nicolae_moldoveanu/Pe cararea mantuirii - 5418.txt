@@ -1,5 +1,5 @@
 [title]
-Pe cararea mantuirii {author: {Nicolae Moldoveanu}, {rcId: {5418}}
+Pe cararea mantuirii {composer: {Nicolae Moldoveanu}, {rcId: {5418}}
 
 [sequence]
 v1,v2,v3,v4,v5

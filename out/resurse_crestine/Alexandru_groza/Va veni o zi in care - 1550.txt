@@ -1,5 +1,5 @@
 [title]
-Va veni o zi in care {author: {Alexandru Groza}, {rcId: {1550}}
+Va veni o zi in care {composer: {Alexandru Groza}, {rcId: {1550}}
 
 [sequence]
 v1,c,v2,c,v3,c

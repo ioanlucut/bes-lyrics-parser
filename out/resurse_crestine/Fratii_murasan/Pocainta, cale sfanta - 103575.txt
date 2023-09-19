@@ -1,5 +1,5 @@
 [title]
-Pocainta cale sfanta {author: {Frații Murasan}, {rcId: {103575}}
+Pocainta cale sfanta {composer: {Frații Murasan}, {rcId: {103575}}
 
 [sequence]
 v1,v2,v3,v4

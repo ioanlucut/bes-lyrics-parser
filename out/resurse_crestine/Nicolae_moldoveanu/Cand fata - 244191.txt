@@ -1,5 +1,5 @@
 [title]
-Cand fata {author: {Nicolae Moldoveanu}, {rcId: {244191}}
+Cand fata {composer: {Nicolae Moldoveanu}, {rcId: {244191}}
 
 [sequence]
 v1,v2,v3

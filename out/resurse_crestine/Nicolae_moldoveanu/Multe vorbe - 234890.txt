@@ -1,5 +1,5 @@
 [title]
-Multe vorbe {author: {Nicolae Moldoveanu}, {rcId: {234890}}
+Multe vorbe {composer: {Nicolae Moldoveanu}, {rcId: {234890}}
 
 [sequence]
 v1,v2,v3,v4

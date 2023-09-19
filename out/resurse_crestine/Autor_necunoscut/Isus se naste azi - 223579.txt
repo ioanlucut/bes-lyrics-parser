@@ -1,5 +1,5 @@
 [title]
-Isus se naste azi {author: {Anonim}, {rcId: {223579}}
+Isus se naste azi {composer: {Anonim}, {rcId: {223579}}
 
 [sequence]
 v1,c,v2,c,v3,c

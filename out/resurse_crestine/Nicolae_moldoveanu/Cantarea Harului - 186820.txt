@@ -1,5 +1,5 @@
 [title]
-Cantarea harului {author: {Nicolae Moldoveanu}, {rcId: {186820}}
+Cantarea harului {composer: {Nicolae Moldoveanu}, {rcId: {186820}}
 
 [sequence]
 v1,v2

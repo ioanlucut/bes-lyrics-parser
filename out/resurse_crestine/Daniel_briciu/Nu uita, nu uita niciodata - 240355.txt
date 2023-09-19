@@ -1,5 +1,5 @@
 [title]
-Nu uita nu uita niciodata {author: {Daniel Briciu}, {rcId: {240355}}
+Nu uita nu uita niciodata {composer: {Daniel Briciu}, {rcId: {240355}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

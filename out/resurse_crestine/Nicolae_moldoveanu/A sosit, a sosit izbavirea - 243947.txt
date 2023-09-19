@@ -1,5 +1,5 @@
 [title]
-A sosit a sosit izbavirea {author: {Nicolae Moldoveanu}, {rcId: {243947}}
+A sosit a sosit izbavirea {composer: {Nicolae Moldoveanu}, {rcId: {243947}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

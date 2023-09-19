@@ -1,5 +1,5 @@
 [title]
-O pasarea ce canti la fereastra mea {author: {Lidia Gheorghe}, {rcId: {149776}}
+O pasarea ce canti la fereastra mea {composer: {Lidia Gheorghe}, {rcId: {149776}}
 
 [sequence]
 v1,v2,v3,v4

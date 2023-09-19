@@ -1,5 +1,5 @@
 [title]
-A frant temeliile mortii {author: {Eldad}, {rcId: {191607}}
+A frant temeliile mortii {composer: {Eldad}, {rcId: {191607}}
 
 [sequence]
 v1,c,v2,c,v3,c,e,c

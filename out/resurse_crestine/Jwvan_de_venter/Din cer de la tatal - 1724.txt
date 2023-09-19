@@ -1,5 +1,5 @@
 [title]
-Din cer de la tatal {author: {J.W.Van de Venter}, {rcId: {1724}}
+Din cer de la tatal {composer: {J.W.Van de Venter}, {rcId: {1724}}
 
 [sequence]
 v1,c,v2,c,v3,c

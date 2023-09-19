@@ -1,5 +1,5 @@
 [title]
-Popoarele lumii vor sti ce-i dreptatea {author: {Dionisie Giuchici}, {rcId: {5448}}
+Popoarele lumii vor sti ce-i dreptatea {composer: {Dionisie Giuchici}, {rcId: {5448}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

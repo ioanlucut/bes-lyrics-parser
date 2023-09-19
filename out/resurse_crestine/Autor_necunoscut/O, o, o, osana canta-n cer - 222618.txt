@@ -1,5 +1,5 @@
 [title]
-O o o osana canta-n cer {author: {Anonim}, {rcId: {222618}}
+O o o osana canta-n cer {composer: {Anonim}, {rcId: {222618}}
 
 [sequence]
 v1,c,v2,c,v3,c

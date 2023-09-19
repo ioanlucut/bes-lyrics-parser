@@ -1,5 +1,5 @@
 [title]
-Ai grija gura mica ce vorbesti {author: {Anonim}, {rcId: {1012}}
+Ai grija gura mica ce vorbesti {composer: {Anonim}, {rcId: {1012}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

@@ -1,5 +1,5 @@
 [title]
-Doamne ti-aducem slava {author: {Anonim}, {rcId: {84286}}
+Doamne ti-aducem slava {composer: {Anonim}, {rcId: {84286}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

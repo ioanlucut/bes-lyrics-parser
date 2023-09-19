@@ -1,5 +1,5 @@
 [title]
-Nu a fost si nu va fi vreodata {author: {Anonim}, {rcId: {4014}}
+Nu a fost si nu va fi vreodata {composer: {Anonim}, {rcId: {4014}}
 
 [sequence]
 v1,c,v2,c

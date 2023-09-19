@@ -1,5 +1,5 @@
 [title]
-Cate stele {author: {Nicolae Moldoveanu}, {rcId: {225948}}
+Cate stele {composer: {Nicolae Moldoveanu}, {rcId: {225948}}
 
 [sequence]
 v1,v2

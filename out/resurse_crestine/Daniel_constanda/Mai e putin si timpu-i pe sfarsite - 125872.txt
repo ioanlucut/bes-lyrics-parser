@@ -1,5 +1,5 @@
 [title]
-Mai e putin si timpu-i pe sfarsite {author: {Daniel Constanda}, {rcId: {125872}}
+Mai e putin si timpu-i pe sfarsite {composer: {Daniel Constanda}, {rcId: {125872}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

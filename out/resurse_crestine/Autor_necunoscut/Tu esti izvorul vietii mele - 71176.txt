@@ -1,5 +1,5 @@
 [title]
-Tu esti izvorul vietii mele {author: {Anonim}, {rcId: {71176}}
+Tu esti izvorul vietii mele {composer: {Anonim}, {rcId: {71176}}
 
 [sequence]
 v1,c,v2,c,v3,c

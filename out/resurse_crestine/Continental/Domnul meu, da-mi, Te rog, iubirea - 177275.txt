@@ -1,5 +1,5 @@
 [title]
-Domnul meu da-mi te rog iubirea {author: {Continental}, {rcId: {177275}}
+Domnul meu da-mi te rog iubirea {composer: {Continental}, {rcId: {177275}}
 
 [sequence]
 c,v1,c,v2,b,c,v3,c

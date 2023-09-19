@@ -1,5 +1,5 @@
 [title]
-Asteptarea nu e lunga {author: {Gabriel Gorcea și prietenii}, {rcId: {93025}}
+Asteptarea nu e lunga {composer: {Gabriel Gorcea și prietenii}, {rcId: {93025}}
 
 [sequence]
 v1,c,v2,c,v3,c

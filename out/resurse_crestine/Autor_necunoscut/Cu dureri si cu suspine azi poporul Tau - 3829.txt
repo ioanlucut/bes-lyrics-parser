@@ -1,5 +1,5 @@
 [title]
-Cu dureri si cu suspine azi poporul tau {author: {Anonim}, {rcId: {3829}}
+Cu dureri si cu suspine azi poporul tau {composer: {Anonim}, {rcId: {3829}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

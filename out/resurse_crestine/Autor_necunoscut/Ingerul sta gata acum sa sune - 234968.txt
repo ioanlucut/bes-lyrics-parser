@@ -1,5 +1,5 @@
 [title]
-Ingerul sta gata acum sa sune {author: {Anonim}, {rcId: {234968}}
+Ingerul sta gata acum sa sune {composer: {Anonim}, {rcId: {234968}}
 
 [sequence]
 v1,v2,v3,v4,v5

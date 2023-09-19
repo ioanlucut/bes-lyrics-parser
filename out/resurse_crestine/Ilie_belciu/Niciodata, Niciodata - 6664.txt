@@ -1,5 +1,5 @@
 [title]
-Niciodata niciodata {author: {Ilie Belciu}, {rcId: {6664}}
+Niciodata niciodata {composer: {Ilie Belciu}, {rcId: {6664}}
 
 [sequence]
 v1,v2,v3,v4

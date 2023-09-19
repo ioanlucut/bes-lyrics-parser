@@ -1,5 +1,5 @@
 [title]
-Tu esti {author: {Dolores}, {rcId: {111442}}
+Tu esti {composer: {Dolores}, {rcId: {111442}}
 
 [sequence]
 v1,c

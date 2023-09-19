@@ -1,5 +1,5 @@
 [title]
-Iubiti frati si dragi surori {author: {HARFA}, {rcId: {239446}}
+Iubiti frati si dragi surori {composer: {HARFA}, {rcId: {239446}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

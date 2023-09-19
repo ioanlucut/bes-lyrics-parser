@@ -1,5 +1,5 @@
 [title]
-As vrea sa fiu ca rut {author: {David Stănuș}, {rcId: {153060}}
+As vrea sa fiu ca rut {composer: {David Stănuș}, {rcId: {153060}}
 
 [sequence]
 v1,c,v2,c,v3,c

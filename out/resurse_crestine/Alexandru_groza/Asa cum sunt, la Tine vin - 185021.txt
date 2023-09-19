@@ -1,5 +1,5 @@
 [title]
-Asa cum sunt la tine vin {author: {Alexandru Groza}, {rcId: {185021}}
+Asa cum sunt la tine vin {composer: {Alexandru Groza}, {rcId: {185021}}
 
 [sequence]
 v1,s

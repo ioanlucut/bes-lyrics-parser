@@ -1,5 +1,5 @@
 [title]
-Azi da-ne noua pacea ta {author: {Alexandru Groza}, {rcId: {113234}}
+Azi da-ne noua pacea ta {composer: {Alexandru Groza}, {rcId: {113234}}
 
 [sequence]
 v1,c,v2,c

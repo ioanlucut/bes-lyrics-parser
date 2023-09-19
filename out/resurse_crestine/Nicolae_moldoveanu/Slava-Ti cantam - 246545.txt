@@ -1,5 +1,5 @@
 [title]
-Slava-ti cantam {author: {Nicolae Moldoveanu}, {rcId: {246545}}
+Slava-ti cantam {composer: {Nicolae Moldoveanu}, {rcId: {246545}}
 
 [sequence]
 v1,c,v2,c,v3,c

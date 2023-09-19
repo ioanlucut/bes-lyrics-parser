@@ -1,5 +1,5 @@
 [title]
-Omule sa stii {author: {Gabriel Gorcea și prietenii}, {rcId: {77370}}
+Omule sa stii {composer: {Gabriel Gorcea și prietenii}, {rcId: {77370}}
 
 [sequence]
 v1,c,v2,c,v3,c

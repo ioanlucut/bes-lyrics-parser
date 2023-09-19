@@ -1,5 +1,5 @@
 [title]
-De la tine-am invatat {author: {Nicolae Moldoveanu}, {rcId: {242497}}
+De la tine-am invatat {composer: {Nicolae Moldoveanu}, {rcId: {242497}}
 
 [sequence]
 v1,v2,v3,v4

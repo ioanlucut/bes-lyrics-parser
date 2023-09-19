@@ -1,5 +1,5 @@
 [title]
-Ascultati acest cuvant {author: {William J.Kirkpatrik}, {rcId: {74262}}
+Ascultati acest cuvant {composer: {William J.Kirkpatrik}, {rcId: {74262}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Slava-n veci lui isus {author: {Anonim}, {rcId: {5068}}
+Slava-n veci lui isus {composer: {Anonim}, {rcId: {5068}}
 
 [sequence]
 c,v1,c

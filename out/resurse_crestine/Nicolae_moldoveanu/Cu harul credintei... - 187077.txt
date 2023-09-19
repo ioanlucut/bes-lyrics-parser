@@ -1,5 +1,5 @@
 [title]
-Cu harul credintei {author: {Nicolae Moldoveanu}, {rcId: {187077}}
+Cu harul credintei {composer: {Nicolae Moldoveanu}, {rcId: {187077}}
 
 [sequence]
 v1,v2,v3,v4,v5

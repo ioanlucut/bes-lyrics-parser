@@ -1,5 +1,5 @@
 [title]
-Prieten mielusel zglobiu {author: {Nicolae Moldoveanu}, {rcId: {233492}}
+Prieten mielusel zglobiu {composer: {Nicolae Moldoveanu}, {rcId: {233492}}
 
 [sequence]
 v1,v2,v3

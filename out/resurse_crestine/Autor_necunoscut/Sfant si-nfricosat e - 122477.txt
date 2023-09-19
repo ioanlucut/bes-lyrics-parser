@@ -1,5 +1,5 @@
 [title]
-Sfant si-nfricosat e {author: {Anonim}, {rcId: {122477}}
+Sfant si-nfricosat e {composer: {Anonim}, {rcId: {122477}}
 
 [sequence]
 v1,v2

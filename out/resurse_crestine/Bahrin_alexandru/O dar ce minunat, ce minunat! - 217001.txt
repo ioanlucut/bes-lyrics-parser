@@ -1,5 +1,5 @@
 [title]
-O dar ce minunat ce minunat {author: {Bahrin Alexandru}, {rcId: {217001}}
+O dar ce minunat ce minunat {composer: {Bahrin Alexandru}, {rcId: {217001}}
 
 [sequence]
 v1,c,v2,c,v3,c

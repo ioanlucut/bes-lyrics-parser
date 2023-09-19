@@ -1,5 +1,5 @@
 [title]
-Sfant e domnul savaot {author: {Nolene Prince}, {rcId: {1238}}
+Sfant e domnul savaot {composer: {Nolene Prince}, {rcId: {1238}}
 
 [sequence]
 v1,v2

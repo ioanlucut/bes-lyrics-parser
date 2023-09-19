@@ -1,5 +1,5 @@
 [title]
-Cheama-ma-n ziua necazului tau {author: {Alexandru Groza}, {rcId: {85973}}
+Cheama-ma-n ziua necazului tau {composer: {Alexandru Groza}, {rcId: {85973}}
 
 [sequence]
 c,v1,v2,v3,c2

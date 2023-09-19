@@ -1,5 +1,5 @@
 [title]
-Am fost lutul cel cu zgura {author: {Ovidiu Liteanu}, {rcId: {166760}}
+Am fost lutul cel cu zgura {composer: {Ovidiu Liteanu}, {rcId: {166760}}
 
 [sequence]
 v1,c,v2,c,v3,c

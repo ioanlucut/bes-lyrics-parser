@@ -1,5 +1,5 @@
 [title]
-In tot locul ma conduce - fa maj - all the way my savior leads me {author: {ed. Dan Istrate}, {rcId: {246111}}
+In tot locul ma conduce - fa maj - all the way my savior leads me {composer: {ed. Dan Istrate}, {rcId: {246111}}
 
 [sequence]
 v1,v2,v3

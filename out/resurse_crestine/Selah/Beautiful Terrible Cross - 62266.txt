@@ -1,5 +1,5 @@
 [title]
-Beautiful terrible cross {author: {Selah}, {rcId: {62266}}
+Beautiful terrible cross {composer: {Selah}, {rcId: {62266}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,e

@@ -1,5 +1,5 @@
 [title]
-Cantare veche oastea domnului {author: {Costel Constandache}, {rcId: {226572}}
+Cantare veche oastea domnului {composer: {Costel Constandache}, {rcId: {226572}}
 
 [sequence]
 v1,v2,v3,v4

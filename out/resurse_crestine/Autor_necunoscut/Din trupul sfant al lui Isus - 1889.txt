@@ -1,5 +1,5 @@
 [title]
-Din trupul sfant al lui isus {author: {Anonim}, {rcId: {1889}}
+Din trupul sfant al lui isus {composer: {Anonim}, {rcId: {1889}}
 
 [sequence]
 v1,v2,v3

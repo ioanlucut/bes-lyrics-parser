@@ -1,5 +1,5 @@
 [title]
-Cinta turturica pe un pamant strain {author: {Anonim}, {rcId: {64322}}
+Cinta turturica pe un pamant strain {composer: {Anonim}, {rcId: {64322}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

@@ -1,5 +1,5 @@
 [title]
-Betleem oras neinsemnat {author: {Iany și Cristina Laurenciuc}, {rcId: {156985}}
+Betleem oras neinsemnat {composer: {Iany și Cristina Laurenciuc}, {rcId: {156985}}
 
 [sequence]
 v1,c,v2,c,v3,c

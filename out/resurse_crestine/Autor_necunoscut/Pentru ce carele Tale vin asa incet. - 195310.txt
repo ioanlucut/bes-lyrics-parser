@@ -1,5 +1,5 @@
 [title]
-Pentru ce carele tale vin asa incet {author: {Necunoscut}, {rcId: {195310}}
+Pentru ce carele tale vin asa incet {composer: {Necunoscut}, {rcId: {195310}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

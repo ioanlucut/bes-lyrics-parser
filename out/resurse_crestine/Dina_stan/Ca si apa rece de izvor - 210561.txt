@@ -1,5 +1,5 @@
 [title]
-Ca si apa rece de izvor {author: {Dina Stan}, {rcId: {210561}}
+Ca si apa rece de izvor {composer: {Dina Stan}, {rcId: {210561}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

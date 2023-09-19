@@ -1,5 +1,5 @@
 [title]
-Ce m-as face fara tine ? {author: {Ica Dragoi}, {rcId: {201233}}
+Ce m-as face fara tine ? {composer: {Ica Dragoi}, {rcId: {201233}}
 
 [sequence]
 v1,c,c2,c4,v2,c,c2,c4

@@ -1,5 +1,5 @@
 [title]
-Alege {author: {Alexandra Prelipcean}, {rcId: {203888}}
+Alege {composer: {Alexandra Prelipcean}, {rcId: {203888}}
 
 [sequence]
 v1,v2,v3,v4

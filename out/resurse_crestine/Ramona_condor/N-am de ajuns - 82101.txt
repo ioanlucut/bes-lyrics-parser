@@ -1,5 +1,5 @@
 [title]
-N-am de ajuns {author: {Ramona Condor}, {rcId: {82101}}
+N-am de ajuns {composer: {Ramona Condor}, {rcId: {82101}}
 
 [sequence]
 v1,c,v2,c

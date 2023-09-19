@@ -1,5 +1,5 @@
 [title]
-Cine-a crezut in ce ni se vestise (era strapuns) {author: {Otniel Stirb}, {rcId: {225389}}
+Cine-a crezut in ce ni se vestise (era strapuns) {composer: {Otniel Stirb}, {rcId: {225389}}
 
 [sequence]
 v1,c,v2,c,v3,c

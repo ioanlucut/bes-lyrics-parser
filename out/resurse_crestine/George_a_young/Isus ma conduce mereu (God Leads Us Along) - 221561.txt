@@ -1,5 +1,5 @@
 [title]
-Isus ma conduce mereu (god leads us along) {author: {George A. Young, Traducere RO}, {rcId: {221561}}
+Isus ma conduce mereu (god leads us along) {composer: {George A. Young, Traducere RO}, {rcId: {221561}}
 
 [sequence]
 v1,c,v2,c,v3,c

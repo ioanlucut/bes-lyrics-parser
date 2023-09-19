@@ -1,5 +1,5 @@
 [title]
-Doar vesnicia {author: {Carmen Prodan}, {rcId: {169717}}
+Doar vesnicia {composer: {Carmen Prodan}, {rcId: {169717}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Cetate tare-i dumnezeu (mighty fortress) {author: {Aaron Shust, Paul Baloche, Traducere RO}, {rcId: {177448}}
+Cetate tare-i dumnezeu (mighty fortress) {composer: {Aaron Shust, Paul Baloche, Traducere RO}, {rcId: {177448}}
 
 [sequence]
 v1,c,v2,b,c,e,s,c

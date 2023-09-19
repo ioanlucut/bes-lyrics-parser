@@ -1,5 +1,5 @@
 [title]
-Dulce e iubirea sfanta {author: {Anonim}, {rcId: {3114}}
+Dulce e iubirea sfanta {composer: {Anonim}, {rcId: {3114}}
 
 [sequence]
 v1,v1,v2,v3,c2

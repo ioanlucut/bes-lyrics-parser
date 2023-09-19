@@ -1,5 +1,5 @@
 [title]
-Pacea si iubirea s-au luat din lume {author: {Nicolae Moldoveanu}, {rcId: {242496}}
+Pacea si iubirea s-au luat din lume {composer: {Nicolae Moldoveanu}, {rcId: {242496}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c3

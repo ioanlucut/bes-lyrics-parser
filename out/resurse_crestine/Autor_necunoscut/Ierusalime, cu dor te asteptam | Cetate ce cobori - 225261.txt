@@ -1,5 +1,5 @@
 [title]
-Ierusalime cu dor te asteptam | cetate ce cobori {author: {Autor necunoscut}, {rcId: {225261}}
+Ierusalime cu dor te asteptam | cetate ce cobori {composer: {Autor necunoscut}, {rcId: {225261}}
 
 [sequence]
 v1,c,v2,c,v3,c

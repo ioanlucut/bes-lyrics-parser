@@ -1,5 +1,5 @@
 [title]
-Deschide-ti inima (open to god your heart) {author: {Thoro Harris, Traducere RO}, {rcId: {217267}}
+Deschide-ti inima (open to god your heart) {composer: {Thoro Harris, Traducere RO}, {rcId: {217267}}
 
 [sequence]
 v1,c,v2,c,v3,c

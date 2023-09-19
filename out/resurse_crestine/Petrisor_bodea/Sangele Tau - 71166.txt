@@ -1,5 +1,5 @@
 [title]
-Sangele tau {author: {Petrișor Bodea}, {rcId: {71166}}
+Sangele tau {composer: {Petrișor Bodea}, {rcId: {71166}}
 
 [sequence]
 v1,c

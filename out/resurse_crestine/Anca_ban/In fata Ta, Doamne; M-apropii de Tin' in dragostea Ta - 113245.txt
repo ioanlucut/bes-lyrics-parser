@@ -1,5 +1,5 @@
 [title]
-In fata ta doamne; m-apropii de tin in dragostea ta {author: {Anca Ban}, {rcId: {113245}}
+In fata ta doamne; m-apropii de tin in dragostea ta {composer: {Anca Ban}, {rcId: {113245}}
 
 [sequence]
 v1,c

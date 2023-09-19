@@ -1,5 +1,5 @@
 [title]
-Iubirea ta este atat de mare {author: {Tabara 477}, {rcId: {189470}}
+Iubirea ta este atat de mare {composer: {Tabara 477}, {rcId: {189470}}
 
 [sequence]
 v1,v2,c,v3,c,e

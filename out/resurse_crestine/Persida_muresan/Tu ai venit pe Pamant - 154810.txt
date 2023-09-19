@@ -1,5 +1,5 @@
 [title]
-Tu ai venit pe pamant {author: {Persida Mureșan}, {rcId: {154810}}
+Tu ai venit pe pamant {composer: {Persida Mureșan}, {rcId: {154810}}
 
 [sequence]
 v1,c,v2,c

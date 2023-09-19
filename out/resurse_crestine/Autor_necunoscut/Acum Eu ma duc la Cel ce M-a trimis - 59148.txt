@@ -1,5 +1,5 @@
 [title]
-Acum eu ma duc la cel ce m-a trimis {author: {Anonim}, {rcId: {59148}}
+Acum eu ma duc la cel ce m-a trimis {composer: {Anonim}, {rcId: {59148}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

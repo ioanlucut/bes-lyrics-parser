@@ -1,5 +1,5 @@
 [title]
-Cand cerul tace si norii sunt de plumb {author: {Dan Damian}, {rcId: {226723}}
+Cand cerul tace si norii sunt de plumb {composer: {Dan Damian}, {rcId: {226723}}
 
 [sequence]
 v1,c,v2,c,v3,c

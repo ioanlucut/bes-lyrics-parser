@@ -1,5 +1,5 @@
 [title]
-Copiii bisericii elim {author: {Iolu Cornel}, {rcId: {150826}}
+Copiii bisericii elim {composer: {Iolu Cornel}, {rcId: {150826}}
 
 [sequence]
 v1,c,v2,c

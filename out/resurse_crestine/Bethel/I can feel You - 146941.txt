@@ -1,5 +1,5 @@
 [title]
-I can feel you {author: {Bethel, Traducere RO}, {rcId: {146941}}
+I can feel you {composer: {Bethel, Traducere RO}, {rcId: {146941}}
 
 [sequence]
 v1,b,c,v2,c,e

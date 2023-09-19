@@ -1,5 +1,5 @@
 [title]
-An de an {author: {Nicolae Moldoveanu}, {rcId: {145443}}
+An de an {composer: {Nicolae Moldoveanu}, {rcId: {145443}}
 
 [sequence]
 v1,v2,v3,v4,v5

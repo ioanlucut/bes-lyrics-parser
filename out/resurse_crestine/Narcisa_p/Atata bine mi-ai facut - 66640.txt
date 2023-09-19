@@ -1,5 +1,5 @@
 [title]
-Atata bine mi-ai facut {author: {Narcisa P.}, {rcId: {66640}}
+Atata bine mi-ai facut {composer: {Narcisa P.}, {rcId: {66640}}
 
 [sequence]
 v1,c,v2,c

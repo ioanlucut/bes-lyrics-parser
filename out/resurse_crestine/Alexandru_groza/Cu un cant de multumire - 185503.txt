@@ -1,5 +1,5 @@
 [title]
-Cu un cant de multumire {author: {Alexandru Groza}, {rcId: {185503}}
+Cu un cant de multumire {composer: {Alexandru Groza}, {rcId: {185503}}
 
 [sequence]
 v1,c,v2,c,e

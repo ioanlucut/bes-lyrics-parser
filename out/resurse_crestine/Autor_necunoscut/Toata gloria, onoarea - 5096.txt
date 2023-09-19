@@ -1,5 +1,5 @@
 [title]
-Toata gloria onoarea {author: {Anonim}, {rcId: {5096}}
+Toata gloria onoarea {composer: {Anonim}, {rcId: {5096}}
 
 [sequence]
 v1,c

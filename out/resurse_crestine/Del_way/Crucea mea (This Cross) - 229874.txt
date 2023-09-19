@@ -1,5 +1,5 @@
 [title]
-Crucea mea (this cross) {author: {Del Way, Traducere RO}, {rcId: {229874}}
+Crucea mea (this cross) {composer: {Del Way, Traducere RO}, {rcId: {229874}}
 
 [sequence]
 v1,c,v2,c

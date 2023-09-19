@@ -1,5 +1,5 @@
 [title]
-Nu ma vei lasa {author: {Adi Gliga}, {rcId: {157683}}
+Nu ma vei lasa {composer: {Adi Gliga}, {rcId: {157683}}
 
 [sequence]
 v1,c,v2,c,v3,c

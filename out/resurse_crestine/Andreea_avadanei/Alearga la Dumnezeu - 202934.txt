@@ -1,5 +1,5 @@
 [title]
-Alearga la dumnezeu {author: {Andreea Avădanei}, {rcId: {202934}}
+Alearga la dumnezeu {composer: {Andreea Avădanei}, {rcId: {202934}}
 
 [sequence]
 v1,c,v2,c,e,c

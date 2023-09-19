@@ -1,5 +1,5 @@
 [title]
-Dorurile ne-mplinite {author: {Nicolae Moldoveanu}, {rcId: {246467}}
+Dorurile ne-mplinite {composer: {Nicolae Moldoveanu}, {rcId: {246467}}
 
 [sequence]
 v1,v2,v3,v4

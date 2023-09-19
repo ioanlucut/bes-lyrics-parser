@@ -1,5 +1,5 @@
 [title]
-Cand vom intra pe-a tale porti de aur {author: {Nicolae Moldoveanu}, {rcId: {5711}}
+Cand vom intra pe-a tale porti de aur {composer: {Nicolae Moldoveanu}, {rcId: {5711}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

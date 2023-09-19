@@ -1,5 +1,5 @@
 [title]
-Asculta-ne din ceruri {author: {Puiu Chibici}, {rcId: {180804}}
+Asculta-ne din ceruri {composer: {Puiu Chibici}, {rcId: {180804}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

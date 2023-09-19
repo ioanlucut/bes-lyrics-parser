@@ -1,5 +1,5 @@
 [title]
-Ce vrednic esti o dumnezeul nostru {author: {Ilie Puha}, {rcId: {124739}}
+Ce vrednic esti o dumnezeul nostru {composer: {Ilie Puha}, {rcId: {124739}}
 
 [sequence]
 v1,c,v2,c,v3,c

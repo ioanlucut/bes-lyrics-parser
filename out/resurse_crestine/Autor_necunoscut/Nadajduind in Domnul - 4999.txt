@@ -1,5 +1,5 @@
 [title]
-Nadajduind in domnul {author: {Anonim}, {rcId: {4999}}
+Nadajduind in domnul {composer: {Anonim}, {rcId: {4999}}
 
 [sequence]
 v1,v2,v3

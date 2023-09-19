@@ -1,5 +1,5 @@
 [title]
-Prin furtunile vietii {author: {Otniel Stirb}, {rcId: {184544}}
+Prin furtunile vietii {composer: {Otniel Stirb}, {rcId: {184544}}
 
 [sequence]
 v1,v2,v3

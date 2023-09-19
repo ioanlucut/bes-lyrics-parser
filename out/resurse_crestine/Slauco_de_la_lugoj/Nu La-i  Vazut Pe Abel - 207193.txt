@@ -1,5 +1,5 @@
 [title]
-Nu la-i vazut pe abel {author: {Slauco de la Lugoj}, {rcId: {207193}}
+Nu la-i vazut pe abel {composer: {Slauco de la Lugoj}, {rcId: {207193}}
 
 [sequence]
 v1,v2,v3

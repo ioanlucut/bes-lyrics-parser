@@ -1,5 +1,5 @@
 [title]
-De ce a trebuit sa-nduri isuse {author: {Nicu Chereji}, {rcId: {204404}}
+De ce a trebuit sa-nduri isuse {composer: {Nicu Chereji}, {rcId: {204404}}
 
 [sequence]
 v1,c,v2,c,v3,c

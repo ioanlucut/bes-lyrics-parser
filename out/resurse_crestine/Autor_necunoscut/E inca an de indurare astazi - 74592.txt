@@ -1,5 +1,5 @@
 [title]
-E inca an de indurare astazi {author: {Anonim}, {rcId: {74592}}
+E inca an de indurare astazi {composer: {Anonim}, {rcId: {74592}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

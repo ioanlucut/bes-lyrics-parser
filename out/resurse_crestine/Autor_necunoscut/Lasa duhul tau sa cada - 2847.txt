@@ -1,5 +1,5 @@
 [title]
-Lasa duhul tau sa cada {author: {Anonim}, {rcId: {2847}}
+Lasa duhul tau sa cada {composer: {Anonim}, {rcId: {2847}}
 
 [sequence]
 v1,c

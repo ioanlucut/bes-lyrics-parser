@@ -1,5 +1,5 @@
 [title]
-De cand eu pe isus l-am aflat {author: {Anonim}, {rcId: {3869}}
+De cand eu pe isus l-am aflat {composer: {Anonim}, {rcId: {3869}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

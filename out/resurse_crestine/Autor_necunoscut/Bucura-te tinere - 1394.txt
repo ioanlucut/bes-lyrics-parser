@@ -1,5 +1,5 @@
 [title]
-Bucura-te tinere {author: {Anonim}, {rcId: {1394}}
+Bucura-te tinere {composer: {Anonim}, {rcId: {1394}}
 
 [sequence]
 v1,c,v2,c

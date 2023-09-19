@@ -1,5 +1,5 @@
 [title]
-Slava lui dumnezeu {author: {Otto Pascal}, {rcId: {112819}}
+Slava lui dumnezeu {composer: {Otto Pascal}, {rcId: {112819}}
 
 [sequence]
 v1,c,v2,c

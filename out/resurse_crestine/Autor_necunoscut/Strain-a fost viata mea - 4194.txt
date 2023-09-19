@@ -1,5 +1,5 @@
 [title]
-Strain-a fost viata mea {author: {Anonim}, {rcId: {4194}}
+Strain-a fost viata mea {composer: {Anonim}, {rcId: {4194}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8

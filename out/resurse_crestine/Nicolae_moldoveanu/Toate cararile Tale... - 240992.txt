@@ -1,5 +1,5 @@
 [title]
-Toate cararile tale {author: {Nicolae Moldoveanu}, {rcId: {240992}}
+Toate cararile tale {composer: {Nicolae Moldoveanu}, {rcId: {240992}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4,v5,c5

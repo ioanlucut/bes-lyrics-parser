@@ -1,5 +1,5 @@
 [title]
-Har indeajuns {author: {Continental}, {rcId: {244146}}
+Har indeajuns {composer: {Continental}, {rcId: {244146}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c

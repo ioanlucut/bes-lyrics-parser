@@ -1,5 +1,5 @@
 [title]
-Hristos a inviat din morti cu moartea {author: {Anonim}, {rcId: {198937}}
+Hristos a inviat din morti cu moartea {composer: {Anonim}, {rcId: {198937}}
 
 [sequence]
 c

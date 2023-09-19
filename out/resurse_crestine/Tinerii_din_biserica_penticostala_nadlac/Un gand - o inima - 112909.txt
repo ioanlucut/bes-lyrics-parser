@@ -1,5 +1,5 @@
 [title]
-Un gand - o inima {author: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {112909}}
+Un gand - o inima {composer: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {112909}}
 
 [sequence]
 v1,c,v2,c,c

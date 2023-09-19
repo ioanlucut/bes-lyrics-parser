@@ -1,5 +1,5 @@
 [title]
-Ca stropii de roua ce uda pamantul in zori {author: {Nicolae Moldoveanu}, {rcId: {5309}}
+Ca stropii de roua ce uda pamantul in zori {composer: {Nicolae Moldoveanu}, {rcId: {5309}}
 
 [sequence]
 v1,v2,v3

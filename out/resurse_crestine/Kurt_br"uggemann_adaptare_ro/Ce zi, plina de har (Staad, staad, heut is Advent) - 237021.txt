@@ -1,5 +1,5 @@
 [title]
-Ce zi plina de har (staad staad heut is advent) {author: {Kurt Brüggemann, Adaptare RO}, {rcId: {237021}}
+Ce zi plina de har (staad staad heut is advent) {composer: {Kurt Brüggemann, Adaptare RO}, {rcId: {237021}}
 
 [sequence]
 v1,v2,v3

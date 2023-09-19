@@ -1,5 +1,5 @@
 [title]
-Pace sa fie {author: {Speranța}, {rcId: {80380}}
+Pace sa fie {composer: {Speranța}, {rcId: {80380}}
 
 [sequence]
 v1,c,v2,c

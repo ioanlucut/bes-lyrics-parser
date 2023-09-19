@@ -1,5 +1,5 @@
 [title]
-Din zi in zi {author: {Ioan Panican}, {rcId: {139928}}
+Din zi in zi {composer: {Ioan Panican}, {rcId: {139928}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Credem {author: {Nicolae Moldoveanu}, {rcId: {246151}}
+Credem {composer: {Nicolae Moldoveanu}, {rcId: {246151}}
 
 [sequence]
 v1,v2,v3

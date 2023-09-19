@@ -1,5 +1,5 @@
 [title]
-Noapte sfanta de craciun {author: {Adi Gliga}, {rcId: {64983}}
+Noapte sfanta de craciun {composer: {Adi Gliga}, {rcId: {64983}}
 
 [sequence]
 v1,v2,v3,v4,v5

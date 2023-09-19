@@ -1,5 +1,5 @@
 [title]
-Ca cerbul dupa ape {author: {Gabi_Ilut}, {rcId: {241264}}
+Ca cerbul dupa ape {composer: {Gabi_Ilut}, {rcId: {241264}}
 
 [sequence]
 v1,c,v2,c,v3,c

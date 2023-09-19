@@ -1,5 +1,5 @@
 [title]
-Da chiar in curand {author: {Anonim}, {rcId: {4872}}
+Da chiar in curand {composer: {Anonim}, {rcId: {4872}}
 
 [sequence]
 v1,v2,v3,v4,v5

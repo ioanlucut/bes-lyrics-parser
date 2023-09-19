@@ -1,5 +1,5 @@
 [title]
-O duh sfant ma creste (i praise you) {author: {Carman, Traducere RO}, {rcId: {92912}}
+O duh sfant ma creste (i praise you) {composer: {Carman, Traducere RO}, {rcId: {92912}}
 
 [sequence]
 v1,c,v2,c,s,c

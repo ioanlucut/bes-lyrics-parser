@@ -1,5 +1,5 @@
 [title]
-Am venit in casa ta de rugaciune {author: {Anonim}, {rcId: {236921}}
+Am venit in casa ta de rugaciune {composer: {Anonim}, {rcId: {236921}}
 
 [sequence]
 v1,c,v2,c

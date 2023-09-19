@@ -1,5 +1,5 @@
 [title]
-Eu si casa mea {author: {Andrei Fedur}, {rcId: {103992}}
+Eu si casa mea {composer: {Andrei Fedur}, {rcId: {103992}}
 
 [sequence]
 v1,c,v2,c

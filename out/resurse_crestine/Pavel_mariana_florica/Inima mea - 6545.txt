@@ -1,5 +1,5 @@
 [title]
-Inima mea {author: {Pavel Mariana, Florica}, {rcId: {6545}}
+Inima mea {composer: {Pavel Mariana, Florica}, {rcId: {6545}}
 
 [sequence]
 c,v1,v2,v3,v4,c2

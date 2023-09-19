@@ -1,5 +1,5 @@
 [title]
-Durerea mortii m-a cuprins {author: {Anonim}, {rcId: {3128}}
+Durerea mortii m-a cuprins {composer: {Anonim}, {rcId: {3128}}
 
 [sequence]
 v1,c,v2,c,v3,c

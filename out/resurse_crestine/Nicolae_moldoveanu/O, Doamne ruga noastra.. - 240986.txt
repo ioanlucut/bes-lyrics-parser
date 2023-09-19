@@ -1,5 +1,5 @@
 [title]
-O doamne ruga noastra {author: {Nicolae Moldoveanu}, {rcId: {240986}}
+O doamne ruga noastra {composer: {Nicolae Moldoveanu}, {rcId: {240986}}
 
 [sequence]
 v1,v2

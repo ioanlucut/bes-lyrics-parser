@@ -1,5 +1,5 @@
 [title]
-Ia-ma sub aripa ta {author: {David Stănuș}, {rcId: {153061}}
+Ia-ma sub aripa ta {composer: {David Stănuș}, {rcId: {153061}}
 
 [sequence]
 v1,c,v2,c,v3,c

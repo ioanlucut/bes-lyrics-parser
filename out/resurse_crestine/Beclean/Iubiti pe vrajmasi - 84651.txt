@@ -1,5 +1,5 @@
 [title]
-Iubiti pe vrajmasi {author: {beCLEAN}, {rcId: {84651}}
+Iubiti pe vrajmasi {composer: {beCLEAN}, {rcId: {84651}}
 
 [sequence]
 v1,c

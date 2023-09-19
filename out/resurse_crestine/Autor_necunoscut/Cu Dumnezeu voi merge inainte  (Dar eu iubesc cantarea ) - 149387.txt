@@ -1,5 +1,5 @@
 [title]
-Cu dumnezeu voi merge inainte (dar eu iubesc cantarea ) {author: {Anonim}, {rcId: {149387}}
+Cu dumnezeu voi merge inainte (dar eu iubesc cantarea ) {composer: {Anonim}, {rcId: {149387}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Zi dupa noapte grea bine la rau {author: {Anonim}, {rcId: {74466}}
+Zi dupa noapte grea bine la rau {composer: {Anonim}, {rcId: {74466}}
 
 [sequence]
 v1,v2,v3

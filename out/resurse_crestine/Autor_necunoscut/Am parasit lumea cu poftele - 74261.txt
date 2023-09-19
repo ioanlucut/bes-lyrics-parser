@@ -1,5 +1,5 @@
 [title]
-Am parasit lumea cu poftele {author: {Anonim}, {rcId: {74261}}
+Am parasit lumea cu poftele {composer: {Anonim}, {rcId: {74261}}
 
 [sequence]
 v1,c,v2,c,v3,c

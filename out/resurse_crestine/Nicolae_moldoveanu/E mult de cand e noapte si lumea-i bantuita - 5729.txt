@@ -1,5 +1,5 @@
 [title]
-E mult de cand e noapte si lumea-i bantuita {author: {Nicolae Moldoveanu}, {rcId: {5729}}
+E mult de cand e noapte si lumea-i bantuita {composer: {Nicolae Moldoveanu}, {rcId: {5729}}
 
 [sequence]
 v1,c,v2,c2,v3,c2

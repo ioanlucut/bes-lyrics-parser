@@ -1,5 +1,5 @@
 [title]
-Mi-este frate orisicine {author: {Traian Dorz}, {rcId: {200684}}
+Mi-este frate orisicine {composer: {Traian Dorz}, {rcId: {200684}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-In casa ta sa ai un loc de inchinare {author: {Anonim}, {rcId: {181441}}
+In casa ta sa ai un loc de inchinare {composer: {Anonim}, {rcId: {181441}}
 
 [sequence]
 v1,v2,v3,v4,v5

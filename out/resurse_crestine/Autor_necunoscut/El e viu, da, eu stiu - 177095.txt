@@ -1,5 +1,5 @@
 [title]
-El e viu da eu stiu {author: {Anonim}, {rcId: {177095}}
+El e viu da eu stiu {composer: {Anonim}, {rcId: {177095}}
 
 [sequence]
 v1,c,e

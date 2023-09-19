@@ -1,5 +1,5 @@
 [title]
-Doar impreuna {author: {Marian Barbieru}, {rcId: {104938}}
+Doar impreuna {composer: {Marian Barbieru}, {rcId: {104938}}
 
 [sequence]
 v1,c,v2,c

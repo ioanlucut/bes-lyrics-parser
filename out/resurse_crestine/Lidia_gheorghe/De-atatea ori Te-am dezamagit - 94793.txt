@@ -1,5 +1,5 @@
 [title]
-De-atatea ori te-am dezamagit {author: {Lidia Gheorghe}, {rcId: {94793}}
+De-atatea ori te-am dezamagit {composer: {Lidia Gheorghe}, {rcId: {94793}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

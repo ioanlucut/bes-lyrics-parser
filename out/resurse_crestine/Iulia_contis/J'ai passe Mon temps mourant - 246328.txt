@@ -1,5 +1,5 @@
 [title]
-J ai pass'e mon temps mourant {author: {Iulia Contis}, {rcId: {246328}}
+J ai pass'e mon temps mourant {composer: {Iulia Contis}, {rcId: {246328}}
 
 [sequence]
 v1,v2

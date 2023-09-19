@@ -1,5 +1,5 @@
 [title]
-Eu am in cer o casa-n tara mea {author: {adaptare Simon Khorolskiy}, {rcId: {234766}}
+Eu am in cer o casa-n tara mea {composer: {adaptare Simon Khorolskiy}, {rcId: {234766}}
 
 [sequence]
 v1,v2,v3,v4,b

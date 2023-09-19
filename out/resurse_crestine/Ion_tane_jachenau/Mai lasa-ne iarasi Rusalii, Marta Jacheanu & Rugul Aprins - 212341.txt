@@ -1,5 +1,5 @@
 [title]
-Mai lasa-ne iarasi rusalii marta jacheanu & rugul aprins {author: {Ion Țane Jachenau}, {rcId: {212341}}
+Mai lasa-ne iarasi rusalii marta jacheanu & rugul aprins {composer: {Ion Țane Jachenau}, {rcId: {212341}}
 
 [sequence]
 v1

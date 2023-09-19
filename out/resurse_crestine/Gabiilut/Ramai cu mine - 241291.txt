@@ -1,5 +1,5 @@
 [title]
-Ramai cu mine {author: {Gabi_Ilut}, {rcId: {241291}}
+Ramai cu mine {composer: {Gabi_Ilut}, {rcId: {241291}}
 
 [sequence]
 v1,c,v2,c

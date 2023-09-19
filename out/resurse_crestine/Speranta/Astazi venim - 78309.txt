@@ -1,5 +1,5 @@
 [title]
-Astazi venim {author: {Speranța}, {rcId: {78309}}
+Astazi venim {composer: {Speranța}, {rcId: {78309}}
 
 [sequence]
 v1,c,e

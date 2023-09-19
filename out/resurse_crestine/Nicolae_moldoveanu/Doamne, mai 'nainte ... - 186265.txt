@@ -1,5 +1,5 @@
 [title]
-Doamne mai nainte {author: {Nicolae Moldoveanu}, {rcId: {186265}}
+Doamne mai nainte {composer: {Nicolae Moldoveanu}, {rcId: {186265}}
 
 [sequence]
 v1,v2,v3,v4

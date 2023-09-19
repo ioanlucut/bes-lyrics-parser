@@ -1,5 +1,5 @@
 [title]
-E mesia e-mparat - glorious impossible trad bbso {author: {Gaither Vocal Band, trad. BBSO}, {rcId: {117839}}
+E mesia e-mparat - glorious impossible trad bbso {composer: {Gaither Vocal Band, trad. BBSO}, {rcId: {117839}}
 
 [sequence]
 v1,v2,c,v3,c2,e

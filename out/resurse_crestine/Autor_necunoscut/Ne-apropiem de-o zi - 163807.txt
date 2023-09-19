@@ -1,5 +1,5 @@
 [title]
-Ne-apropiem de-o zi {author: {Anonim}, {rcId: {163807}}
+Ne-apropiem de-o zi {composer: {Anonim}, {rcId: {163807}}
 
 [sequence]
 v1,c

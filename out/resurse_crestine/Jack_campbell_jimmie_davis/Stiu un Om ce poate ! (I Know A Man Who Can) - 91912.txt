@@ -1,5 +1,5 @@
 [title]
-Stiu un om ce poate (i know a man who can) {author: {Jack Campbell, Jimmie Davis, Traducere RO}, {rcId: {91912}}
+Stiu un om ce poate (i know a man who can) {composer: {Jack Campbell, Jimmie Davis, Traducere RO}, {rcId: {91912}}
 
 [sequence]
 v1,c,v2,c2

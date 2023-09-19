@@ -1,5 +1,5 @@
 [title]
-Eu n-am meritat {author: {Adi Gliga}, {rcId: {113048}}
+Eu n-am meritat {composer: {Adi Gliga}, {rcId: {113048}}
 
 [sequence]
 v1,c,v2,c

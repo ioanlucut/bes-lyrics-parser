@@ -1,5 +1,5 @@
 [title]
-Isus pe copii iubeste {author: {Cor copii Micalaca}, {rcId: {5226}}
+Isus pe copii iubeste {composer: {Cor copii Micalaca}, {rcId: {5226}}
 
 [sequence]
 v1,v2,v3

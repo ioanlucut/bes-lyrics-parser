@@ -1,5 +1,5 @@
 [title]
-Liber de lege {author: {Philip P.Bliss}, {rcId: {1758}}
+Liber de lege {composer: {Philip P.Bliss}, {rcId: {1758}}
 
 [sequence]
 v1,c,v2,c

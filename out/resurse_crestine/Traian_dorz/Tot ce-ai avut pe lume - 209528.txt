@@ -1,5 +1,5 @@
 [title]
-Tot ce-ai avut pe lume {author: {Traian Dorz}, {rcId: {209528}}
+Tot ce-ai avut pe lume {composer: {Traian Dorz}, {rcId: {209528}}
 
 [sequence]
 v1,c,v2,c,v3,c

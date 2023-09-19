@@ -1,5 +1,5 @@
 [title]
-Ascultati un glas din ceruri {author: {Anonim}, {rcId: {57818}}
+Ascultati un glas din ceruri {composer: {Anonim}, {rcId: {57818}}
 
 [sequence]
 v1,c,v2,c,v3,c

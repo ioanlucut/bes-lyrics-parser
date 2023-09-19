@@ -1,5 +1,5 @@
 [title]
-Din cerul plin de slava {author: {Anonim}, {rcId: {1424}}
+Din cerul plin de slava {composer: {Anonim}, {rcId: {1424}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

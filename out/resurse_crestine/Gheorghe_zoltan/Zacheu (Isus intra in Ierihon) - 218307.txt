@@ -1,5 +1,5 @@
 [title]
-Zacheu (isus intra in ierihon) {author: {Gheorghe Zoltan}, {rcId: {218307}}
+Zacheu (isus intra in ierihon) {composer: {Gheorghe Zoltan}, {rcId: {218307}}
 
 [sequence]
 v1,c,v2,c,v3,c

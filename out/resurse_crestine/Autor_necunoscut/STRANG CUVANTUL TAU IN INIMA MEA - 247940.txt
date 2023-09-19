@@ -1,5 +1,5 @@
 [title]
-Strang cuvantul tau in inima mea {author: {Anonim}, {rcId: {247940}}
+Strang cuvantul tau in inima mea {composer: {Anonim}, {rcId: {247940}}
 
 [sequence]
 v1,c,v2,c

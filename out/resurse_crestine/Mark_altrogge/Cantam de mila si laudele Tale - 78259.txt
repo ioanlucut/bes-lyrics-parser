@@ -1,5 +1,5 @@
 [title]
-Cantam de mila si laudele tale {author: {Mark Altrogge, Traducere RO}, {rcId: {78259}}
+Cantam de mila si laudele tale {composer: {Mark Altrogge, Traducere RO}, {rcId: {78259}}
 
 [sequence]
 c,v1,c,v2,c

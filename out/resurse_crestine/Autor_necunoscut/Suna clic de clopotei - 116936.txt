@@ -1,5 +1,5 @@
 [title]
-Suna clic de clopotei {author: {Anonim}, {rcId: {116936}}
+Suna clic de clopotei {composer: {Anonim}, {rcId: {116936}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Atunci cand totul e pierdut {author: {Fitilul si chibritul}, {rcId: {209996}}
+Atunci cand totul e pierdut {composer: {Fitilul si chibritul}, {rcId: {209996}}
 
 [sequence]
 v1,c,v2,c,e

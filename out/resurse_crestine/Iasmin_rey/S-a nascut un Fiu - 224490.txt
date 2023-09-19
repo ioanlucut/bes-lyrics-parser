@@ -1,5 +1,5 @@
 [title]
-S-a nascut un fiu {author: {Iasmin Rey}, {rcId: {224490}}
+S-a nascut un fiu {composer: {Iasmin Rey}, {rcId: {224490}}
 
 [sequence]
 v1,c,v2,b,c

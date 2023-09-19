@@ -1,5 +1,5 @@
 [title]
-Il vor numi minunat parintele vesniciilor {author: {Traian Niculai}, {rcId: {156192}}
+Il vor numi minunat parintele vesniciilor {composer: {Traian Niculai}, {rcId: {156192}}
 
 [sequence]
 v1,c,v2,c,v3,c

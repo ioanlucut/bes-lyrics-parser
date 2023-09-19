@@ -1,5 +1,5 @@
 [title]
-De-ai sti suflete cum eu te iubesc {author: {Anonim}, {rcId: {1618}}
+De-ai sti suflete cum eu te iubesc {composer: {Anonim}, {rcId: {1618}}
 
 [sequence]
 v1,c,v2,c,v3,c

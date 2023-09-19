@@ -1,5 +1,5 @@
 [title]
-Anii trec lasand in urma lor {author: {Daniela si Darius Bogdan}, {rcId: {7008}}
+Anii trec lasand in urma lor {composer: {Daniela si Darius Bogdan}, {rcId: {7008}}
 
 [sequence]
 v1,c,v2,c2

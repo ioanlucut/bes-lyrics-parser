@@ -1,5 +1,5 @@
 [title]
-Doi ochi {author: {Nicolae Moldoveanu}, {rcId: {244149}}
+Doi ochi {composer: {Nicolae Moldoveanu}, {rcId: {244149}}
 
 [sequence]
 v1,v2,v3,v4,v5

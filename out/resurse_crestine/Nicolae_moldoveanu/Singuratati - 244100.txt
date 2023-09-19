@@ -1,5 +1,5 @@
 [title]
-Singuratati {author: {Nicolae Moldoveanu}, {rcId: {244100}}
+Singuratati {composer: {Nicolae Moldoveanu}, {rcId: {244100}}
 
 [sequence]
 v1,v2,v3

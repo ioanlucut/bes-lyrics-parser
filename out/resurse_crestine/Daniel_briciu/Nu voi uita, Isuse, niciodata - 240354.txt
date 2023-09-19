@@ -1,5 +1,5 @@
 [title]
-Nu voi uita isuse niciodata {author: {Daniel Briciu}, {rcId: {240354}}
+Nu voi uita isuse niciodata {composer: {Daniel Briciu}, {rcId: {240354}}
 
 [sequence]
 v1,v2,v3,v4,v5

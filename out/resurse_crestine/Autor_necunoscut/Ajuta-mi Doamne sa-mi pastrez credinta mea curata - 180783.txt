@@ -1,5 +1,5 @@
 [title]
-Ajuta-mi doamne sa-mi pastrez credinta mea curata {author: {Anonim}, {rcId: {180783}}
+Ajuta-mi doamne sa-mi pastrez credinta mea curata {composer: {Anonim}, {rcId: {180783}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

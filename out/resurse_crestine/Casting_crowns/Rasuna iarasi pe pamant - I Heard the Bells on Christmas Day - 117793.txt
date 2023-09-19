@@ -1,5 +1,5 @@
 [title]
-Rasuna iarasi pe pamant - i heard the bells on christmas day {author: {Casting Crowns, Traducere RO}, {rcId: {117793}}
+Rasuna iarasi pe pamant - i heard the bells on christmas day {composer: {Casting Crowns, Traducere RO}, {rcId: {117793}}
 
 [sequence]
 v1,c,v2,c2,c2,v3,c3,e

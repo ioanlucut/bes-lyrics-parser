@@ -1,5 +1,5 @@
 [title]
-Erau odata doi fii la un tata {author: {Ionel Saran Bochis}, {rcId: {111132}}
+Erau odata doi fii la un tata {composer: {Ionel Saran Bochis}, {rcId: {111132}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4,v5,c5

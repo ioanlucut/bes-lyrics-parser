@@ -1,5 +1,5 @@
 [title]
-Azi in orasul betleem {author: {Fratii Pal}, {rcId: {64152}}
+Azi in orasul betleem {composer: {Fratii Pal}, {rcId: {64152}}
 
 [sequence]
 v1,c,v2,c,v3,c

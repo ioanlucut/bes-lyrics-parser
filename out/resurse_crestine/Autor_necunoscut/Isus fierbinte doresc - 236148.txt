@@ -1,5 +1,5 @@
 [title]
-Isus fierbinte doresc {author: {Anonim}, {rcId: {236148}}
+Isus fierbinte doresc {composer: {Anonim}, {rcId: {236148}}
 
 [sequence]
 v1,c,v2,c

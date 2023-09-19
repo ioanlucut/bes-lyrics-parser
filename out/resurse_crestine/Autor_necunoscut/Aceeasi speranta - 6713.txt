@@ -1,5 +1,5 @@
 [title]
-Aceeasi speranta {author: {Anonim}, {rcId: {6713}}
+Aceeasi speranta {composer: {Anonim}, {rcId: {6713}}
 
 [sequence]
 v1,v2,v3,v4,v5

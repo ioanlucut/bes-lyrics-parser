@@ -1,5 +1,5 @@
 [title]
-De ziua ta iubito ti-aduc ca sfant prinos {author: {Nicolae Moldoveanu}, {rcId: {187079}}
+De ziua ta iubito ti-aduc ca sfant prinos {composer: {Nicolae Moldoveanu}, {rcId: {187079}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4,v5,c5

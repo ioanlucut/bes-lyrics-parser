@@ -1,5 +1,5 @@
 [title]
-Imnuri de marire-i inaltam {author: {Alexandru Groza}, {rcId: {185028}}
+Imnuri de marire-i inaltam {composer: {Alexandru Groza}, {rcId: {185028}}
 
 [sequence]
 v1,c,v2,c

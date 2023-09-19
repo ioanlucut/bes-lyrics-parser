@@ -1,5 +1,5 @@
 [title]
-Vin la tine isus ca sa te slavesc {author: {Nicolae Moldoveanu}, {rcId: {5447}}
+Vin la tine isus ca sa te slavesc {composer: {Nicolae Moldoveanu}, {rcId: {5447}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

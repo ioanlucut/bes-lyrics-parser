@@ -1,5 +1,5 @@
 [title]
-Doamne tu esti mare {author: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {112908}}
+Doamne tu esti mare {composer: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {112908}}
 
 [sequence]
 v1,c,v2,c

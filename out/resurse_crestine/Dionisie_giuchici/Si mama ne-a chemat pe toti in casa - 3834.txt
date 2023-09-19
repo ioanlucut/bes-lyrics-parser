@@ -1,5 +1,5 @@
 [title]
-Si mama ne-a chemat pe toti in casa {author: {Dionisie Giuchici}, {rcId: {3834}}
+Si mama ne-a chemat pe toti in casa {composer: {Dionisie Giuchici}, {rcId: {3834}}
 
 [sequence]
 v1,c,v2,c,v3,c2,v4,c2,v5,c2,v6,c2,v7,c2,v8,c2,v9,c2,v10,c2,v11,c2,v12,c2

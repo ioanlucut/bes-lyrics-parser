@@ -1,5 +1,5 @@
 [title]
-Te-am simtit {author: {Diaz Amos}, {rcId: {240921}}
+Te-am simtit {composer: {Diaz Amos}, {rcId: {240921}}
 
 [sequence]
 v1,c,v2,c

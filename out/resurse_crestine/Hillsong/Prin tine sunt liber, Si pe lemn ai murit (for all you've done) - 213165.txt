@@ -1,5 +1,5 @@
 [title]
-Prin tine sunt liber si pe lemn ai murit (for all you ve done) {author: {Hillsong}, {rcId: {213165}}
+Prin tine sunt liber si pe lemn ai murit (for all you ve done) {composer: {Hillsong}, {rcId: {213165}}
 
 [sequence]
 v1,c

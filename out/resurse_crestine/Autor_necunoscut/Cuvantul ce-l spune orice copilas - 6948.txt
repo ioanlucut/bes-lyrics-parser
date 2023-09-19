@@ -1,5 +1,5 @@
 [title]
-Cuvantul ce-l spune orice copilas {author: {Anonim}, {rcId: {6948}}
+Cuvantul ce-l spune orice copilas {composer: {Anonim}, {rcId: {6948}}
 
 [sequence]
 v1,c,v2,c

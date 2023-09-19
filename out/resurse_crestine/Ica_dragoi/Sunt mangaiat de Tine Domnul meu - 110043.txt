@@ -1,5 +1,5 @@
 [title]
-Sunt mangaiat de tine domnul meu {author: {Ica Dragoi}, {rcId: {110043}}
+Sunt mangaiat de tine domnul meu {composer: {Ica Dragoi}, {rcId: {110043}}
 
 [sequence]
 v1,c,v2,c,v3,c

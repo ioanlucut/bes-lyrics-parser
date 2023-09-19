@@ -1,5 +1,5 @@
 [title]
-Tu-ai grija si de vrabii {author: {Anonim}, {rcId: {198335}}
+Tu-ai grija si de vrabii {composer: {Anonim}, {rcId: {198335}}
 
 [sequence]
 v1

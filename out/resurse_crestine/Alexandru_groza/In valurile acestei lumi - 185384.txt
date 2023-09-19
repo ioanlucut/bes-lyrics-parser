@@ -1,5 +1,5 @@
 [title]
-In valurile acestei lumi {author: {Alexandru Groza}, {rcId: {185384}}
+In valurile acestei lumi {composer: {Alexandru Groza}, {rcId: {185384}}
 
 [sequence]
 v1,c,v2,c

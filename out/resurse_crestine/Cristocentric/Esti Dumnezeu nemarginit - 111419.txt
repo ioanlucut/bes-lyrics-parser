@@ -1,5 +1,5 @@
 [title]
-Esti dumnezeu nemarginit {author: {CristoCentric}, {rcId: {111419}}
+Esti dumnezeu nemarginit {composer: {CristoCentric}, {rcId: {111419}}
 
 [sequence]
 v1,b,c

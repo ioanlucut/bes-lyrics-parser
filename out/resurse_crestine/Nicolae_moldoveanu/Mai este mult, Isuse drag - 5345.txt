@@ -1,5 +1,5 @@
 [title]
-Mai este mult isuse drag {author: {Nicolae Moldoveanu}, {rcId: {5345}}
+Mai este mult isuse drag {composer: {Nicolae Moldoveanu}, {rcId: {5345}}
 
 [sequence]
 v1,v2,v3,v4

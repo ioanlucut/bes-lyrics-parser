@@ -1,5 +1,5 @@
 [title]
-Cand te-am chemat in cant si-n rugaciune {author: {Beni Cibu}, {rcId: {183743}}
+Cand te-am chemat in cant si-n rugaciune {composer: {Beni Cibu}, {rcId: {183743}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

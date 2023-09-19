@@ -1,5 +1,5 @@
 [title]
-Eu vreau sa fiu ca tin isus {author: {Doru Gîrboan}, {rcId: {192645}}
+Eu vreau sa fiu ca tin isus {composer: {Doru Gîrboan}, {rcId: {192645}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Ah pana cand? {author: {Nicu Wagner}, {rcId: {61672}}
+Ah pana cand? {composer: {Nicu Wagner}, {rcId: {61672}}
 
 [sequence]
 v11,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Chiar daca se clatina pamantul {author: {Maria Șimon}, {rcId: {231311}}
+Chiar daca se clatina pamantul {composer: {Maria Șimon}, {rcId: {231311}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Fara iubire {author: {Adi Gliga}, {rcId: {107777}}
+Fara iubire {composer: {Adi Gliga}, {rcId: {107777}}
 
 [sequence]
 v1,v2,v3

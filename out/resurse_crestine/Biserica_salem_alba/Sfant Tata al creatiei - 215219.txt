@@ -1,5 +1,5 @@
 [title]
-Sfant tata al creatiei {author: {Biserica Salem Alba}, {rcId: {215219}}
+Sfant tata al creatiei {composer: {Biserica Salem Alba}, {rcId: {215219}}
 
 [sequence]
 v1,c,v2,c

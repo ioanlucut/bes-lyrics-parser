@@ -1,5 +1,5 @@
 [title]
-Inima mea langa tine-ar vrea sa stea {author: {Gabi Ilut}, {rcId: {60802}}
+Inima mea langa tine-ar vrea sa stea {composer: {Gabi Ilut}, {rcId: {60802}}
 
 [sequence]
 v1,c,v2,c

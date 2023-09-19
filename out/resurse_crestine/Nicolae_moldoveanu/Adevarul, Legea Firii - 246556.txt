@@ -1,5 +1,5 @@
 [title]
-Adevarul legea firii {author: {Nicolae Moldoveanu}, {rcId: {246556}}
+Adevarul legea firii {composer: {Nicolae Moldoveanu}, {rcId: {246556}}
 
 [sequence]
 v1,v2,v3

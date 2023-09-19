@@ -1,5 +1,5 @@
 [title]
-Voi veni {author: {Omega}, {rcId: {80966}}
+Voi veni {composer: {Omega}, {rcId: {80966}}
 
 [sequence]
 v1,c,v2,c,e

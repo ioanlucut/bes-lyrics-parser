@@ -1,5 +1,5 @@
 [title]
-In tine ma bucur {author: {Utu Șuteu}, {rcId: {167688}}
+In tine ma bucur {composer: {Utu Șuteu}, {rcId: {167688}}
 
 [sequence]
 v1,c,v2,c

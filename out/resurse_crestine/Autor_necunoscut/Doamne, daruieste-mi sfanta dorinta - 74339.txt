@@ -1,5 +1,5 @@
 [title]
-Doamne daruieste-mi sfanta dorinta {author: {Anonim}, {rcId: {74339}}
+Doamne daruieste-mi sfanta dorinta {composer: {Anonim}, {rcId: {74339}}
 
 [sequence]
 v1,v2,v3

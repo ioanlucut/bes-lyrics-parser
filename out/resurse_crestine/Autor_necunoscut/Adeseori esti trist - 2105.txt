@@ -1,5 +1,5 @@
 [title]
-Adeseori esti trist {author: {Anonim}, {rcId: {2105}}
+Adeseori esti trist {composer: {Anonim}, {rcId: {2105}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-La tronul indurarii tale {author: {Grupul Harul}, {rcId: {181902}}
+La tronul indurarii tale {composer: {Grupul Harul}, {rcId: {181902}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

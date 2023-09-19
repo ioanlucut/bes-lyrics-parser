@@ -1,5 +1,5 @@
 [title]
-Se duc anii unul cate unul {author: {Grup Saron}, {rcId: {75004}}
+Se duc anii unul cate unul {composer: {Grup Saron}, {rcId: {75004}}
 
 [sequence]
 v1,c,v2,c,v3,c

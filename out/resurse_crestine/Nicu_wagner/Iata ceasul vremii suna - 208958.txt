@@ -1,5 +1,5 @@
 [title]
-Iata ceasul vremii suna {author: {Nicu Wagner}, {rcId: {208958}}
+Iata ceasul vremii suna {composer: {Nicu Wagner}, {rcId: {208958}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Drumul spre cer poate incepe {author: {Anonim}, {rcId: {66167}}
+Drumul spre cer poate incepe {composer: {Anonim}, {rcId: {66167}}
 
 [sequence]
 v1,c,v2,c,e

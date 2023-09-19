@@ -1,5 +1,5 @@
 [title]
-Cantare veche {author: {Cornel, Lidia Crisan}, {rcId: {225283}}
+Cantare veche {composer: {Cornel, Lidia Crisan}, {rcId: {225283}}
 
 [sequence]
 v1,v2,v3,v4,v5

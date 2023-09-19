@@ -1,5 +1,5 @@
 [title]
-Privesc spre cer {author: {Adriana Stoica}, {rcId: {109734}}
+Privesc spre cer {composer: {Adriana Stoica}, {rcId: {109734}}
 
 [sequence]
 v1,c,v2,c,v3,c

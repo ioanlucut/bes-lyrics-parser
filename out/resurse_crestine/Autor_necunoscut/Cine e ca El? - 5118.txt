@@ -1,5 +1,5 @@
 [title]
-Cine e ca el? {author: {Anonim}, {rcId: {5118}}
+Cine e ca el? {composer: {Anonim}, {rcId: {5118}}
 
 [sequence]
 c,v1,b,c

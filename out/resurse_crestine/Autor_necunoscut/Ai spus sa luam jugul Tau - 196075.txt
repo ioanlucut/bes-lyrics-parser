@@ -1,5 +1,5 @@
 [title]
-Ai spus sa luam jugul tau {author: {Anonim}, {rcId: {196075}}
+Ai spus sa luam jugul tau {composer: {Anonim}, {rcId: {196075}}
 
 [sequence]
 v1,c,v2,c,v3,c

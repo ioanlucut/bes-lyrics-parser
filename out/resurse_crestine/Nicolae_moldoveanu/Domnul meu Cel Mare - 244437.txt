@@ -1,5 +1,5 @@
 [title]
-Domnul meu cel mare {author: {Nicolae Moldoveanu}, {rcId: {244437}}
+Domnul meu cel mare {composer: {Nicolae Moldoveanu}, {rcId: {244437}}
 
 [sequence]
 v1,v2,v3

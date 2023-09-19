@@ -1,5 +1,5 @@
 [title]
-Auzi goarna {author: {Anonim}, {rcId: {172562}}
+Auzi goarna {composer: {Anonim}, {rcId: {172562}}
 
 [sequence]
 v1,c,v2,c,v3,c

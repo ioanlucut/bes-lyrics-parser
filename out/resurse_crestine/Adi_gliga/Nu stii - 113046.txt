@@ -1,5 +1,5 @@
 [title]
-Nu stii {author: {Adi Gliga}, {rcId: {113046}}
+Nu stii {composer: {Adi Gliga}, {rcId: {113046}}
 
 [sequence]
 v1,c,v2,c

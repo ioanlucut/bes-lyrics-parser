@@ -1,5 +1,5 @@
 [title]
-Isus iubit cind vei veni {author: {Anonim}, {rcId: {2827}}
+Isus iubit cind vei veni {composer: {Anonim}, {rcId: {2827}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

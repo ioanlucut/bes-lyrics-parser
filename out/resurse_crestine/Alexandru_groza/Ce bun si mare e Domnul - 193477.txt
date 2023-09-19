@@ -1,5 +1,5 @@
 [title]
-Ce bun si mare e domnul {author: {Alexandru Groza}, {rcId: {193477}}
+Ce bun si mare e domnul {composer: {Alexandru Groza}, {rcId: {193477}}
 
 [sequence]
 v1,c,v2,c

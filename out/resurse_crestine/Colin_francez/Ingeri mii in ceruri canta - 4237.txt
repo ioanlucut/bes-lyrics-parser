@@ -1,5 +1,5 @@
 [title]
-Ingeri mii in ceruri canta {author: {Colin francez}, {rcId: {4237}}
+Ingeri mii in ceruri canta {composer: {Colin francez}, {rcId: {4237}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

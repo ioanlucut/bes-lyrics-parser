@@ -1,5 +1,5 @@
 [title]
-Vino la crucea lui {author: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {230927}}
+Vino la crucea lui {composer: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {230927}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Invesmantat in glorie {author: {Grup Eldad}, {rcId: {176810}}
+Invesmantat in glorie {composer: {Grup Eldad}, {rcId: {176810}}
 
 [sequence]
 v1,c,v2,c

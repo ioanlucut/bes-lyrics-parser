@@ -1,5 +1,5 @@
 [title]
-Deseori te lupti (sol) {author: {Mirela Ursulescu}, {rcId: {176661}}
+Deseori te lupti (sol) {composer: {Mirela Ursulescu}, {rcId: {176661}}
 
 [sequence]
 v1,c,v2,c,v3,c

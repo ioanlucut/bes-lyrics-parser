@@ -1,5 +1,5 @@
 [title]
-Vazutu-te-am isuse demult imi amintesc {author: {Anonim}, {rcId: {237367}}
+Vazutu-te-am isuse demult imi amintesc {composer: {Anonim}, {rcId: {237367}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

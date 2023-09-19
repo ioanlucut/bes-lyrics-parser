@@ -1,5 +1,5 @@
 [title]
-Va fi prea tarziu {author: {Chris}, {rcId: {78606}}
+Va fi prea tarziu {composer: {Chris}, {rcId: {78606}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c

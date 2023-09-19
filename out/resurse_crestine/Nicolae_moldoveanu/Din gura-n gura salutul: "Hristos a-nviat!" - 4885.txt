@@ -1,5 +1,5 @@
 [title]
-Din gura-n gura salutul: hristos a-nviat {author: {Nicolae Moldoveanu}, {rcId: {4885}}
+Din gura-n gura salutul: hristos a-nviat {composer: {Nicolae Moldoveanu}, {rcId: {4885}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Zdrobeste idolii {author: {Jimmy Needham, Traducere RO}, {rcId: {153412}}
+Zdrobeste idolii {composer: {Jimmy Needham, Traducere RO}, {rcId: {153412}}
 
 [sequence]
 v1,c,v2,c,v3,c

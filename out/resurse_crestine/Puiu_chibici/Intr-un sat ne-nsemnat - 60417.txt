@@ -1,5 +1,5 @@
 [title]
-Intr-un sat ne-nsemnat {author: {Puiu Chibici}, {rcId: {60417}}
+Intr-un sat ne-nsemnat {composer: {Puiu Chibici}, {rcId: {60417}}
 
 [sequence]
 v1,v2,v3,v4

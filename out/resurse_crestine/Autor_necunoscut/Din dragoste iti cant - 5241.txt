@@ -1,5 +1,5 @@
 [title]
-Din dragoste iti cant {author: {Anonim}, {rcId: {5241}}
+Din dragoste iti cant {composer: {Anonim}, {rcId: {5241}}
 
 [sequence]
 v1,v2,c,v3,c

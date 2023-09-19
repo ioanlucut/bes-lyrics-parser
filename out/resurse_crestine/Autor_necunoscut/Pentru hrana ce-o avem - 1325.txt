@@ -1,5 +1,5 @@
 [title]
-Pentru hrana ce-o avem {author: {Anonim}, {rcId: {1325}}
+Pentru hrana ce-o avem {composer: {Anonim}, {rcId: {1325}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c

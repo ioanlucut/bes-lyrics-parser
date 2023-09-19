@@ -1,5 +1,5 @@
 [title]
-Tu esti viatatu esti viata {author: {Florin Pal}, {rcId: {7261}}
+Tu esti viatatu esti viata {composer: {Florin Pal}, {rcId: {7261}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

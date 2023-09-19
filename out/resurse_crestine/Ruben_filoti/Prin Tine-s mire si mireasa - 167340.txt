@@ -1,5 +1,5 @@
 [title]
-Prin tine-s mire si mireasa {author: {Ruben Filoti}, {rcId: {167340}}
+Prin tine-s mire si mireasa {composer: {Ruben Filoti}, {rcId: {167340}}
 
 [sequence]
 v1,v2,v3,v4,v5

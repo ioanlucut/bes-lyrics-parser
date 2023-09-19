@@ -1,5 +1,5 @@
 [title]
-Ce frumoasa-i adunarea {author: {David Stănuș}, {rcId: {186133}}
+Ce frumoasa-i adunarea {composer: {David Stănuș}, {rcId: {186133}}
 
 [sequence]
 v1,c,v2,c,v3,c

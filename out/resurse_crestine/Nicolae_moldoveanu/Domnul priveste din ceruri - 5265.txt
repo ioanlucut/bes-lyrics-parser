@@ -1,5 +1,5 @@
 [title]
-Domnul priveste din ceruri {author: {Nicolae Moldoveanu}, {rcId: {5265}}
+Domnul priveste din ceruri {composer: {Nicolae Moldoveanu}, {rcId: {5265}}
 
 [sequence]
 v1,c,v2,c,v3,c

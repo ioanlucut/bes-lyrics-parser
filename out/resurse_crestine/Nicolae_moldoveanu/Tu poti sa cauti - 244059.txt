@@ -1,5 +1,5 @@
 [title]
-Tu poti sa cauti {author: {Nicolae Moldoveanu}, {rcId: {244059}}
+Tu poti sa cauti {composer: {Nicolae Moldoveanu}, {rcId: {244059}}
 
 [sequence]
 v1,v2,v3,v4

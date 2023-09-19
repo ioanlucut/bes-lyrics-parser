@@ -1,5 +1,5 @@
 [title]
-Atatea lacrimi si durere {author: {Alin Gârlea}, {rcId: {146471}}
+Atatea lacrimi si durere {composer: {Alin Gârlea}, {rcId: {146471}}
 
 [sequence]
 v1,c,v2,c,s,c2,e

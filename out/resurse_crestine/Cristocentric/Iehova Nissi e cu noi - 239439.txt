@@ -1,5 +1,5 @@
 [title]
-Iehova nissi e cu noi {author: {CristoCentric}, {rcId: {239439}}
+Iehova nissi e cu noi {composer: {CristoCentric}, {rcId: {239439}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c,e

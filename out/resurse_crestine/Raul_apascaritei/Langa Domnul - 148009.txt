@@ -1,5 +1,5 @@
 [title]
-Langa domnul {author: {Raul Apăscăriței}, {rcId: {148009}}
+Langa domnul {composer: {Raul Apăscăriței}, {rcId: {148009}}
 
 [sequence]
 v1,b,c,v2,b,c

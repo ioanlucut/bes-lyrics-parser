@@ -1,5 +1,5 @@
 [title]
-Eu am iubire pace bucurie-n sufletul meu {author: {Leleu Niculae}, {rcId: {75266}}
+Eu am iubire pace bucurie-n sufletul meu {composer: {Leleu Niculae}, {rcId: {75266}}
 
 [sequence]
 v1,c,v2,c,v3,c

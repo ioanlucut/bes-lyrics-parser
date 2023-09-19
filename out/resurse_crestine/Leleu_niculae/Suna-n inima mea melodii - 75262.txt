@@ -1,5 +1,5 @@
 [title]
-Suna-n inima mea melodii {author: {Leleu Niculae}, {rcId: {75262}}
+Suna-n inima mea melodii {composer: {Leleu Niculae}, {rcId: {75262}}
 
 [sequence]
 v1,c,c2

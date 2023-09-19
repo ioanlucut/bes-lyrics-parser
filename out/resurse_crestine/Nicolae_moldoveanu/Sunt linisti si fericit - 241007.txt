@@ -1,5 +1,5 @@
 [title]
-Sunt linisti si fericit {author: {Nicolae Moldoveanu}, {rcId: {241007}}
+Sunt linisti si fericit {composer: {Nicolae Moldoveanu}, {rcId: {241007}}
 
 [sequence]
 v1,v2,v3

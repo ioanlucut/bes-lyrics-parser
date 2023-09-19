@@ -1,5 +1,5 @@
 [title]
-Jertfa de lauda {author: {Alexandra Luca}, {rcId: {150787}}
+Jertfa de lauda {composer: {Alexandra Luca}, {rcId: {150787}}
 
 [sequence]
 v1,b,c,e

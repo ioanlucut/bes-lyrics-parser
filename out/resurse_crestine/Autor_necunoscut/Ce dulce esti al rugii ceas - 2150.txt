@@ -1,5 +1,5 @@
 [title]
-Ce dulce esti al rugii ceas {author: {Anonim}, {rcId: {2150}}
+Ce dulce esti al rugii ceas {composer: {Anonim}, {rcId: {2150}}
 
 [sequence]
 v1,v2,v3

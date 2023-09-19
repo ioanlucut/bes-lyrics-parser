@@ -1,5 +1,5 @@
 [title]
-Pentru tine {author: {Raluca și Raul Ursan}, {rcId: {55508}}
+Pentru tine {composer: {Raluca și Raul Ursan}, {rcId: {55508}}
 
 [sequence]
 v1,c,v2,c

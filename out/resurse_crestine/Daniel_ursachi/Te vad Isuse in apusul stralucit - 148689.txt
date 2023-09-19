@@ -1,5 +1,5 @@
 [title]
-Te vad isuse in apusul stralucit {author: {Daniel Ursachi}, {rcId: {148689}}
+Te vad isuse in apusul stralucit {composer: {Daniel Ursachi}, {rcId: {148689}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

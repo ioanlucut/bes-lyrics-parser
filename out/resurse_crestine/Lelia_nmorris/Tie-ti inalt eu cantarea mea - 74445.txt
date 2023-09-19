@@ -1,5 +1,5 @@
 [title]
-Tie-ti inalt eu cantarea mea {author: {Lelia N.Morris}, {rcId: {74445}}
+Tie-ti inalt eu cantarea mea {composer: {Lelia N.Morris}, {rcId: {74445}}
 
 [sequence]
 v1,c,v2,c

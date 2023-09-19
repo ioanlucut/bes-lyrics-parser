@@ -1,5 +1,5 @@
 [title]
-Da-mi iubirea da-mi iubirea ta isuse {author: {Anonim}, {rcId: {58919}}
+Da-mi iubirea da-mi iubirea ta isuse {composer: {Anonim}, {rcId: {58919}}
 
 [sequence]
 v1,v2,v3,v4,v5

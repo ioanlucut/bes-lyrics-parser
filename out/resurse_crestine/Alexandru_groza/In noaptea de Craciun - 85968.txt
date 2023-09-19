@@ -1,5 +1,5 @@
 [title]
-In noaptea de craciun {author: {Alexandru Groza}, {rcId: {85968}}
+In noaptea de craciun {composer: {Alexandru Groza}, {rcId: {85968}}
 
 [sequence]
 v1,c,v2,c

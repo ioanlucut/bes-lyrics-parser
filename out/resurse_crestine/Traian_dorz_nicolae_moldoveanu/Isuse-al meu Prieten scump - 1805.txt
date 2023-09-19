@@ -1,5 +1,5 @@
 [title]
-Isuse-al meu prieten scump {author: {Traian Dorz Nicolae Moldoveanu}, {rcId: {1805}}
+Isuse-al meu prieten scump {composer: {Traian Dorz Nicolae Moldoveanu}, {rcId: {1805}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

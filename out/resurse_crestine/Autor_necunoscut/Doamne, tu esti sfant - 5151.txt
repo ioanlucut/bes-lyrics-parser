@@ -1,5 +1,5 @@
 [title]
-Doamne tu esti sfant {author: {Anonim}, {rcId: {5151}}
+Doamne tu esti sfant {composer: {Anonim}, {rcId: {5151}}
 
 [sequence]
 v1,v2,v3,v4

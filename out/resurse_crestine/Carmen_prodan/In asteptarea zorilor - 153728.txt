@@ -1,5 +1,5 @@
 [title]
-In asteptarea zorilor {author: {Carmen Prodan}, {rcId: {153728}}
+In asteptarea zorilor {composer: {Carmen Prodan}, {rcId: {153728}}
 
 [sequence]
 v1,c,v2,c,v3,c

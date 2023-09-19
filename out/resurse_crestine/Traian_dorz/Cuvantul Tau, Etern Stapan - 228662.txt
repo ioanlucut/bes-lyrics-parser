@@ -1,5 +1,5 @@
 [title]
-Cuvantul tau etern stapan {author: {Traian Dorz}, {rcId: {228662}}
+Cuvantul tau etern stapan {composer: {Traian Dorz}, {rcId: {228662}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

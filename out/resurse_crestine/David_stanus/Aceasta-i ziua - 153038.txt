@@ -1,5 +1,5 @@
 [title]
-Aceasta-i ziua {author: {David Stănuș}, {rcId: {153038}}
+Aceasta-i ziua {composer: {David Stănuș}, {rcId: {153038}}
 
 [sequence]
 v1,c,v2,c,v3,c

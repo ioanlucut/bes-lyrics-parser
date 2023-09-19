@@ -1,5 +1,5 @@
 [title]
-Intrata-i in gradina {author: {Necunoscut de mine}, {rcId: {222076}}
+Intrata-i in gradina {composer: {Necunoscut de mine}, {rcId: {222076}}
 
 [sequence]
 v1,v2,v3,v4

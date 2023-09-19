@@ -1,5 +1,5 @@
 [title]
-Nume minunat e isus {author: {Herbet Masuch}, {rcId: {1664}}
+Nume minunat e isus {composer: {Herbet Masuch}, {rcId: {1664}}
 
 [sequence]
 v1,v2,v3

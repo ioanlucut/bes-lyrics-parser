@@ -1,5 +1,5 @@
 [title]
-Love {author: {George L}, {rcId: {6626}}
+Love {composer: {George L}, {rcId: {6626}}
 
 [sequence]
 v1,c,v2,c,v3,c

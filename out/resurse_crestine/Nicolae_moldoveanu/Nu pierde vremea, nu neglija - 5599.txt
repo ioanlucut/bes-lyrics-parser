@@ -1,5 +1,5 @@
 [title]
-Nu pierde vremea nu neglija {author: {Nicolae Moldoveanu}, {rcId: {5599}}
+Nu pierde vremea nu neglija {composer: {Nicolae Moldoveanu}, {rcId: {5599}}
 
 [sequence]
 v1,v2,v3,v4

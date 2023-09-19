@@ -1,5 +1,5 @@
 [title]
-Tu m-ai scos dintre ape {author: {Sunny Tranca}, {rcId: {191644}}
+Tu m-ai scos dintre ape {composer: {Sunny Tranca}, {rcId: {191644}}
 
 [sequence]
 v1,c,v2,c

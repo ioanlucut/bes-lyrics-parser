@@ -1,5 +1,5 @@
 [title]
-Ma intorc cu cainta {author: {Nicu Wagner}, {rcId: {4649}}
+Ma intorc cu cainta {composer: {Nicu Wagner}, {rcId: {4649}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

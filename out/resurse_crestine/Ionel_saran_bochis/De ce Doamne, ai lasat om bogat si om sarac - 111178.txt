@@ -1,5 +1,5 @@
 [title]
-De ce doamne ai lasat om bogat si om sarac {author: {Ionel Saran Bochis}, {rcId: {111178}}
+De ce doamne ai lasat om bogat si om sarac {composer: {Ionel Saran Bochis}, {rcId: {111178}}
 
 [sequence]
 v1,c,v2,c,v3,c2

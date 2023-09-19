@@ -1,5 +1,5 @@
 [title]
-Iubirea de mama nu pot s-o descriu {author: {Nicolae Moldoveanu}, {rcId: {5518}}
+Iubirea de mama nu pot s-o descriu {composer: {Nicolae Moldoveanu}, {rcId: {5518}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

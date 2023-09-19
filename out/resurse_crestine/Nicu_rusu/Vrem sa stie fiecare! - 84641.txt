@@ -1,5 +1,5 @@
 [title]
-Vrem sa stie fiecare {author: {Nicu Rusu}, {rcId: {84641}}
+Vrem sa stie fiecare {composer: {Nicu Rusu}, {rcId: {84641}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

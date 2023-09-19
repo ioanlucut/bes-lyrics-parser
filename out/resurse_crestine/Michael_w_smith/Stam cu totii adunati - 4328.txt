@@ -1,5 +1,5 @@
 [title]
-Stam cu totii adunati {author: {Michael W. Smith, Traducere RO}, {rcId: {4328}}
+Stam cu totii adunati {composer: {Michael W. Smith, Traducere RO}, {rcId: {4328}}
 
 [sequence]
 v1,c,v2,c

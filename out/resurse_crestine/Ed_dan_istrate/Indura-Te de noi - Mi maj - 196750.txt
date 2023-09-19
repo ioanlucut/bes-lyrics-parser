@@ -1,5 +1,5 @@
 [title]
-Indura-te de noi - mi maj {author: {ed. Dan Istrate}, {rcId: {196750}}
+Indura-te de noi - mi maj {composer: {ed. Dan Istrate}, {rcId: {196750}}
 
 [sequence]
 v1,v2

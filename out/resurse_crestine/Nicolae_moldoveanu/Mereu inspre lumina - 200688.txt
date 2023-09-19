@@ -1,5 +1,5 @@
 [title]
-Mereu inspre lumina {author: {Nicolae Moldoveanu}, {rcId: {200688}}
+Mereu inspre lumina {composer: {Nicolae Moldoveanu}, {rcId: {200688}}
 
 [sequence]
 v1,v2,v3,v4

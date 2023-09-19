@@ -1,5 +1,5 @@
 [title]
-Eu cred (am auzit ca ai murit pe-o cruce) {author: {Ovidiu Liteanu}, {rcId: {187399}}
+Eu cred (am auzit ca ai murit pe-o cruce) {composer: {Ovidiu Liteanu}, {rcId: {187399}}
 
 [sequence]
 v1,v2,v3,v4

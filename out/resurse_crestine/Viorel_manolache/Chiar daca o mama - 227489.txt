@@ -1,5 +1,5 @@
 [title]
-Chiar daca o mama {author: {Viorel Manolache}, {rcId: {227489}}
+Chiar daca o mama {composer: {Viorel Manolache}, {rcId: {227489}}
 
 [sequence]
 v1,c,v2,c,v3,c

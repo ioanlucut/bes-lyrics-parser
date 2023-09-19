@@ -1,5 +1,5 @@
 [title]
-Hristos a inviat ce vorba sfanta {author: {Nicolae Moldoveanu}, {rcId: {244607}}
+Hristos a inviat ce vorba sfanta {composer: {Nicolae Moldoveanu}, {rcId: {244607}}
 
 [sequence]
 v1,v2,v3,v4

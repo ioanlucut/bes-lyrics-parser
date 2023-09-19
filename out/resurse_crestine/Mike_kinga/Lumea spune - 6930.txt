@@ -1,5 +1,5 @@
 [title]
-Lumea spune {author: {Mike Kinga}, {rcId: {6930}}
+Lumea spune {composer: {Mike Kinga}, {rcId: {6930}}
 
 [sequence]
 v1,c,v2,c

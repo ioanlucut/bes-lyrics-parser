@@ -1,5 +1,5 @@
 [title]
-Traiti in credinta {author: {Nicolae Moldoveanu}, {rcId: {244374}}
+Traiti in credinta {composer: {Nicolae Moldoveanu}, {rcId: {244374}}
 
 [sequence]
 v1,v2,v3

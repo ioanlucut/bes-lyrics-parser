@@ -1,5 +1,5 @@
 [title]
-Ce limpede-ti vad chipul {author: {Nicolae Moldoveanu}, {rcId: {244066}}
+Ce limpede-ti vad chipul {composer: {Nicolae Moldoveanu}, {rcId: {244066}}
 
 [sequence]
 v1,v2

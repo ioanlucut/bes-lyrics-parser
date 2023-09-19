@@ -1,5 +1,5 @@
 [title]
-Nu sunt in stare sa-nteleg {author: {Evanghelic}, {rcId: {6803}}
+Nu sunt in stare sa-nteleg {composer: {Evanghelic}, {rcId: {6803}}
 
 [sequence]
 v1,v2,v3,c,v4,c

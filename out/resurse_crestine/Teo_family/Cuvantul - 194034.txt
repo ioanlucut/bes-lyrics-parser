@@ -1,5 +1,5 @@
 [title]
-Cuvantul {author: {Teo Family}, {rcId: {194034}}
+Cuvantul {composer: {Teo Family}, {rcId: {194034}}
 
 [sequence]
 v1,v2,v3,v4

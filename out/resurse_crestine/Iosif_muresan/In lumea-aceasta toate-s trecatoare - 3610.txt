@@ -1,5 +1,5 @@
 [title]
-In lumea-aceasta toate-s trecatoare {author: {Iosif Muresan}, {rcId: {3610}}
+In lumea-aceasta toate-s trecatoare {composer: {Iosif Muresan}, {rcId: {3610}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

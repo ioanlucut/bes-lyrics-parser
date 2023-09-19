@@ -1,5 +1,5 @@
 [title]
-Puteri de necrezut {author: {Anonim}, {rcId: {1780}}
+Puteri de necrezut {composer: {Anonim}, {rcId: {1780}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Demult profetii au profetit {author: {Anonim}, {rcId: {6329}}
+Demult profetii au profetit {composer: {Anonim}, {rcId: {6329}}
 
 [sequence]
 v1,c,v2,c,v3,c

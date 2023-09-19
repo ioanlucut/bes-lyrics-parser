@@ -1,5 +1,5 @@
 [title]
-Iubirea cand suspina {author: {Emma}, {rcId: {103389}}
+Iubirea cand suspina {composer: {Emma}, {rcId: {103389}}
 
 [sequence]
 v1,c,v2,c

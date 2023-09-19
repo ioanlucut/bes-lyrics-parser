@@ -1,5 +1,5 @@
 [title]
-Spune-mi {author: {Nicolae Moldoveanu}, {rcId: {246067}}
+Spune-mi {composer: {Nicolae Moldoveanu}, {rcId: {246067}}
 
 [sequence]
 v1,v2,v3

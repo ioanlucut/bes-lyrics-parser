@@ -1,5 +1,5 @@
 [title]
-Numele tau doamne e iubire {author: {Anonim}, {rcId: {128264}}
+Numele tau doamne e iubire {composer: {Anonim}, {rcId: {128264}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

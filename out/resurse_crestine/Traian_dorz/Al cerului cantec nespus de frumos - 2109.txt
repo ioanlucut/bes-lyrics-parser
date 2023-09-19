@@ -1,5 +1,5 @@
 [title]
-Al cerului cantec nespus de frumos {author: {Traian Dorz}, {rcId: {2109}}
+Al cerului cantec nespus de frumos {composer: {Traian Dorz}, {rcId: {2109}}
 
 [sequence]
 v1,v2,v3,v4,v5

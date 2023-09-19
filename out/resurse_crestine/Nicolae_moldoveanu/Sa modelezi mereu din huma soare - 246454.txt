@@ -1,5 +1,5 @@
 [title]
-Sa modelezi mereu din huma soare {author: {Nicolae Moldoveanu}, {rcId: {246454}}
+Sa modelezi mereu din huma soare {composer: {Nicolae Moldoveanu}, {rcId: {246454}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Cata bucurie sfanta {author: {Anonim}, {rcId: {156330}}
+Cata bucurie sfanta {composer: {Anonim}, {rcId: {156330}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

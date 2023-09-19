@@ -1,5 +1,5 @@
 [title]
-Fa bine zi de zi {author: {Puiu și Beni Chibici}, {rcId: {188169}}
+Fa bine zi de zi {composer: {Puiu și Beni Chibici}, {rcId: {188169}}
 
 [sequence]
 v1,c,v2,c,v3,c

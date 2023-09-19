@@ -1,5 +1,5 @@
 [title]
-Sa fiu doamne multumit {author: {Anonim}, {rcId: {228514}}
+Sa fiu doamne multumit {composer: {Anonim}, {rcId: {228514}}
 
 [sequence]
 v1,v2,v3,v4

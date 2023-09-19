@@ -1,5 +1,5 @@
 [title]
-In bratul tau pace am gasit (doamne eu n-am meritat dar tu mana mi-ai luat) {author: {Gabriel Buzguta}, {rcId: {222334}}
+In bratul tau pace am gasit (doamne eu n-am meritat dar tu mana mi-ai luat) {composer: {Gabriel Buzguta}, {rcId: {222334}}
 
 [sequence]
 v1,c,v2,c,e

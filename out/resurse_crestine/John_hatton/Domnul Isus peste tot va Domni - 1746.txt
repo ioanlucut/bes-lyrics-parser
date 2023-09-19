@@ -1,5 +1,5 @@
 [title]
-Domnul isus peste tot va domni {author: {John Hatton}, {rcId: {1746}}
+Domnul isus peste tot va domni {composer: {John Hatton}, {rcId: {1746}}
 
 [sequence]
 v1,v2

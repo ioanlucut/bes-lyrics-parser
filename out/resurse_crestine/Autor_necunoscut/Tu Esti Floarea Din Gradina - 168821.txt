@@ -1,5 +1,5 @@
 [title]
-Tu esti floarea din gradina {author: {Anonim}, {rcId: {168821}}
+Tu esti floarea din gradina {composer: {Anonim}, {rcId: {168821}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

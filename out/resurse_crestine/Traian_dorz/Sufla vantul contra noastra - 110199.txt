@@ -1,5 +1,5 @@
 [title]
-Sufla vantul contra noastra {author: {Traian Dorz}, {rcId: {110199}}
+Sufla vantul contra noastra {composer: {Traian Dorz}, {rcId: {110199}}
 
 [sequence]
 v1,v2,v3

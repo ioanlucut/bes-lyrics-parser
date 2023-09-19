@@ -1,5 +1,5 @@
 [title]
-Cand numai poti tu poate el {author: {Rugul aprins}, {rcId: {125163}}
+Cand numai poti tu poate el {composer: {Rugul aprins}, {rcId: {125163}}
 
 [sequence]
 v1,c,v2,c,v3,c

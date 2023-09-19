@@ -1,5 +1,5 @@
 [title]
-Facut-ai semne si minuni {author: {Anonim}, {rcId: {6763}}
+Facut-ai semne si minuni {composer: {Anonim}, {rcId: {6763}}
 
 [sequence]
 v1,c,v2,c,v3,c2

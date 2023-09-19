@@ -1,5 +1,5 @@
 [title]
-Intr-o iesle sta culcat (gentle mary laid her child) {author: {Joseph S. Cook, Traducere RO}, {rcId: {116957}}
+Intr-o iesle sta culcat (gentle mary laid her child) {composer: {Joseph S. Cook, Traducere RO}, {rcId: {116957}}
 
 [sequence]
 v1,v2,v3

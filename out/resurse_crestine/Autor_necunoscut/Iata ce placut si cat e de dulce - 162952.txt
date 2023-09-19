@@ -1,5 +1,5 @@
 [title]
-Iata ce placut si cat e de dulce {author: {Anonim}, {rcId: {162952}}
+Iata ce placut si cat e de dulce {composer: {Anonim}, {rcId: {162952}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

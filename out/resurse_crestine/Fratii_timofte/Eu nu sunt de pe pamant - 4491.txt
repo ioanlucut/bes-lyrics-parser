@@ -1,5 +1,5 @@
 [title]
-Eu nu sunt de pe pamant {author: {Frații Timofte}, {rcId: {4491}}
+Eu nu sunt de pe pamant {composer: {Frații Timofte}, {rcId: {4491}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c

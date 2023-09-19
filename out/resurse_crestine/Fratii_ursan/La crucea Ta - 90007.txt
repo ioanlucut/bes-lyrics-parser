@@ -1,5 +1,5 @@
 [title]
-La crucea ta {author: {Frații Ursan}, {rcId: {90007}}
+La crucea ta {composer: {Frații Ursan}, {rcId: {90007}}
 
 [sequence]
 v1,c,v2,c,v3,c

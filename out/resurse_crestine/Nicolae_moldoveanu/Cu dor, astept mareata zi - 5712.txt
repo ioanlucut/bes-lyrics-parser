@@ -1,5 +1,5 @@
 [title]
-Cu dor astept mareata zi {author: {Nicolae Moldoveanu}, {rcId: {5712}}
+Cu dor astept mareata zi {composer: {Nicolae Moldoveanu}, {rcId: {5712}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

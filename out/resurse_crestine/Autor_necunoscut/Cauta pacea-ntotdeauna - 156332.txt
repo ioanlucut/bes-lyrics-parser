@@ -1,5 +1,5 @@
 [title]
-Cauta pacea-ntotdeauna {author: {Anonim}, {rcId: {156332}}
+Cauta pacea-ntotdeauna {composer: {Anonim}, {rcId: {156332}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

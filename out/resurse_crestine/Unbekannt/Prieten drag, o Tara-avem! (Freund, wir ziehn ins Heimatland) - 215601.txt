@@ -1,5 +1,5 @@
 [title]
-Prieten drag o tara-avem (freund wir ziehn ins heimatland) {author: {Unbekannt, Traducere RO}, {rcId: {215601}}
+Prieten drag o tara-avem (freund wir ziehn ins heimatland) {composer: {Unbekannt, Traducere RO}, {rcId: {215601}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Desteapta-te crestine din somnul cel de moarte {author: {Anonim}, {rcId: {60987}}
+Desteapta-te crestine din somnul cel de moarte {composer: {Anonim}, {rcId: {60987}}
 
 [sequence]
 v1,c,v2,c

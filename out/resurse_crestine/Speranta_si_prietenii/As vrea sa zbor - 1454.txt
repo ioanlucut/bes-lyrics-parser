@@ -1,5 +1,5 @@
 [title]
-As vrea sa zbor {author: {Speranța și prietenii}, {rcId: {1454}}
+As vrea sa zbor {composer: {Speranța și prietenii}, {rcId: {1454}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

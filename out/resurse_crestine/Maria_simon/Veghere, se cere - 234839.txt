@@ -1,5 +1,5 @@
 [title]
-Veghere se cere {author: {Maria Șimon}, {rcId: {234839}}
+Veghere se cere {composer: {Maria Șimon}, {rcId: {234839}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

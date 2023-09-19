@@ -1,5 +1,5 @@
 [title]
-Clipele trec {author: {Ovidiu Pal}, {rcId: {4454}}
+Clipele trec {composer: {Ovidiu Pal}, {rcId: {4454}}
 
 [sequence]
 v1,c,v2,c,v3,c

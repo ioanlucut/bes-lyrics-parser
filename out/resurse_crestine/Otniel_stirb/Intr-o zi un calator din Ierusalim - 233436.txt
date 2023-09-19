@@ -1,5 +1,5 @@
 [title]
-Intr-o zi un calator din ierusalim {author: {Otniel Stirb}, {rcId: {233436}}
+Intr-o zi un calator din ierusalim {composer: {Otniel Stirb}, {rcId: {233436}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

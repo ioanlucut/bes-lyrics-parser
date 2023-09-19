@@ -1,5 +1,5 @@
 [title]
-Buna dimineata doamne eu iti zic {author: {Anonim}, {rcId: {219891}}
+Buna dimineata doamne eu iti zic {composer: {Anonim}, {rcId: {219891}}
 
 [sequence]
 v1,c

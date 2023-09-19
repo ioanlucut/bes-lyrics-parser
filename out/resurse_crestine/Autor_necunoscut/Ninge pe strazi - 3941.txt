@@ -1,5 +1,5 @@
 [title]
-Ninge pe strazi {author: {Anonim}, {rcId: {3941}}
+Ninge pe strazi {composer: {Anonim}, {rcId: {3941}}
 
 [sequence]
 c,v1,c2,v2,c3,v3,c

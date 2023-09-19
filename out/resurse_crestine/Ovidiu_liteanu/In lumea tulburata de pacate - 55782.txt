@@ -1,5 +1,5 @@
 [title]
-In lumea tulburata de pacate {author: {Ovidiu Liteanu}, {rcId: {55782}}
+In lumea tulburata de pacate {composer: {Ovidiu Liteanu}, {rcId: {55782}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Rege sfant te invocam (come thou oh mighty king) {author: {Anonim}, {rcId: {234770}}
+Rege sfant te invocam (come thou oh mighty king) {composer: {Anonim}, {rcId: {234770}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Doamne tu stii tu vezi oricare drum {author: {C.H.Purday}, {rcId: {1842}}
+Doamne tu stii tu vezi oricare drum {composer: {C.H.Purday}, {rcId: {1842}}
 
 [sequence]
 v1,v2,v3

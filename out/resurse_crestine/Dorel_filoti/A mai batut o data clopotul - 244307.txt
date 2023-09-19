@@ -1,5 +1,5 @@
 [title]
-A mai batut o data clopotul {author: {Dorel Filoti}, {rcId: {244307}}
+A mai batut o data clopotul {composer: {Dorel Filoti}, {rcId: {244307}}
 
 [sequence]
 v1,c,v2,c,v3,c

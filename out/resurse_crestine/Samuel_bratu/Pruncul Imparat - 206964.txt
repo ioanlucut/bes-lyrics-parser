@@ -1,5 +1,5 @@
 [title]
-Pruncul imparat {author: {Samuel Bratu}, {rcId: {206964}}
+Pruncul imparat {composer: {Samuel Bratu}, {rcId: {206964}}
 
 [sequence]
 v1,c,v2,c2

@@ -1,5 +1,5 @@
 [title]
-Obosita e raza soarelui {author: {Anonim}, {rcId: {74426}}
+Obosita e raza soarelui {composer: {Anonim}, {rcId: {74426}}
 
 [sequence]
 v1,c,v2,c,v3,c

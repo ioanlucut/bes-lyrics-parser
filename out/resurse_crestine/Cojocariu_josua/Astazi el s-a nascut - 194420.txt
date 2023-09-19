@@ -1,5 +1,5 @@
 [title]
-Astazi el s-a nascut {author: {Cojocariu Josua}, {rcId: {194420}}
+Astazi el s-a nascut {composer: {Cojocariu Josua}, {rcId: {194420}}
 
 [sequence]
 v1

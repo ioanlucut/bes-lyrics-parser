@@ -1,5 +1,5 @@
 [title]
-Vrednic esti de cinste {author: {Anonim}, {rcId: {6610}}
+Vrednic esti de cinste {composer: {Anonim}, {rcId: {6610}}
 
 [sequence]
 v1,c,v2,c2

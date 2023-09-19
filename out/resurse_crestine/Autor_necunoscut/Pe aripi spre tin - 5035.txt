@@ -1,5 +1,5 @@
 [title]
-Pe aripi spre tin {author: {Anonim}, {rcId: {5035}}
+Pe aripi spre tin {composer: {Anonim}, {rcId: {5035}}
 
 [sequence]
 v1,c

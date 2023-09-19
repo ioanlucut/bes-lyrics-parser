@@ -1,5 +1,5 @@
 [title]
-Slava aratarii tale {author: {Nicolae Moldoveanu}, {rcId: {244143}}
+Slava aratarii tale {composer: {Nicolae Moldoveanu}, {rcId: {244143}}
 
 [sequence]
 v1,v2

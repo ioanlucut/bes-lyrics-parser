@@ -1,5 +1,5 @@
 [title]
-Ajuta pe oricine iti cere ajutor {author: {Florin Pal}, {rcId: {160746}}
+Ajuta pe oricine iti cere ajutor {composer: {Florin Pal}, {rcId: {160746}}
 
 [sequence]
 v1,v2,v3,v4,v5

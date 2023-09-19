@@ -1,5 +1,5 @@
 [title]
-De n-ar fi harul tau sa-mi umple {author: {Nicolae Moldoveanu}, {rcId: {244376}}
+De n-ar fi harul tau sa-mi umple {composer: {Nicolae Moldoveanu}, {rcId: {244376}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Alfa si omega {author: {Grupul Silo}, {rcId: {169443}}
+Alfa si omega {composer: {Grupul Silo}, {rcId: {169443}}
 
 [sequence]
 v1,v2,c,c2

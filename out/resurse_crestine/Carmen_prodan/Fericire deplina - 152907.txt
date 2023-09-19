@@ -1,5 +1,5 @@
 [title]
-Fericire deplina {author: {Carmen Prodan}, {rcId: {152907}}
+Fericire deplina {composer: {Carmen Prodan}, {rcId: {152907}}
 
 [sequence]
 v1,c,v2,c,v3,c

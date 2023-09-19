@@ -1,5 +1,5 @@
 [title]
-De-ti rotesti putin privirea {author: {Anonim}, {rcId: {178587}}
+De-ti rotesti putin privirea {composer: {Anonim}, {rcId: {178587}}
 
 [sequence]
 v1,c,v2,c,v3,c

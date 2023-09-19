@@ -1,5 +1,5 @@
 [title]
-Ce-i mai curat {author: {Nicolae Moldoveanu}, {rcId: {244434}}
+Ce-i mai curat {composer: {Nicolae Moldoveanu}, {rcId: {244434}}
 
 [sequence]
 v1,v2,v3

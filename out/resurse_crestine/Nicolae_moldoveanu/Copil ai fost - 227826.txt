@@ -1,5 +1,5 @@
 [title]
-Copil ai fost {author: {Nicolae Moldoveanu}, {rcId: {227826}}
+Copil ai fost {composer: {Nicolae Moldoveanu}, {rcId: {227826}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Rasuna in zare {author: {Maria Șimon}, {rcId: {231291}}
+Rasuna in zare {composer: {Maria Șimon}, {rcId: {231291}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

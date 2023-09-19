@@ -1,5 +1,5 @@
 [title]
-Bucurati-va-n el bucurati-va-n domnul {author: {Anonim}, {rcId: {4841}}
+Bucurati-va-n el bucurati-va-n domnul {composer: {Anonim}, {rcId: {4841}}
 
 [sequence]
 v1,c

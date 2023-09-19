@@ -1,5 +1,5 @@
 [title]
-Eclesiastul : {author: {Sunny Tranca}, {rcId: {107369}}
+Eclesiastul : {composer: {Sunny Tranca}, {rcId: {107369}}
 
 [sequence]
 v1,c

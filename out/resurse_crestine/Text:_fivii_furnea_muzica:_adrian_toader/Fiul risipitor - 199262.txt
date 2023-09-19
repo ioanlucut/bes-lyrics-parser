@@ -1,5 +1,5 @@
 [title]
-Fiul risipitor {author: {Text: Fivii Furnea, Muzica: Adrian Toader}, {rcId: {199262}}
+Fiul risipitor {composer: {Text: Fivii Furnea, Muzica: Adrian Toader}, {rcId: {199262}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

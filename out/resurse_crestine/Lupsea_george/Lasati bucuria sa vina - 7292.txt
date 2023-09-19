@@ -1,5 +1,5 @@
 [title]
-Lasati bucuria sa vina {author: {Lupșea George}, {rcId: {7292}}
+Lasati bucuria sa vina {composer: {Lupșea George}, {rcId: {7292}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

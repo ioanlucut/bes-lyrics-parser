@@ -1,5 +1,5 @@
 [title]
-La crucea ta eu pace am gasit {author: {Mariana Someșan}, {rcId: {219363}}
+La crucea ta eu pace am gasit {composer: {Mariana Someșan}, {rcId: {219363}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

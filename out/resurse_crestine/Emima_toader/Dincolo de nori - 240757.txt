@@ -1,5 +1,5 @@
 [title]
-Dincolo de nori {author: {Emima Toader}, {rcId: {240757}}
+Dincolo de nori {composer: {Emima Toader}, {rcId: {240757}}
 
 [sequence]
 v1,c,v2,c

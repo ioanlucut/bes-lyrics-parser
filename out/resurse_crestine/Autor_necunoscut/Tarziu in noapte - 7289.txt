@@ -1,5 +1,5 @@
 [title]
-Tarziu in noapte {author: {Anonim}, {rcId: {7289}}
+Tarziu in noapte {composer: {Anonim}, {rcId: {7289}}
 
 [sequence]
 v1,v2,v3,v4

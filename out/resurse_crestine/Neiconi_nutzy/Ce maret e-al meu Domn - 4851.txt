@@ -1,5 +1,5 @@
 [title]
-Ce maret e-al meu domn {author: {Neiconi Nutzy}, {rcId: {4851}}
+Ce maret e-al meu domn {composer: {Neiconi Nutzy}, {rcId: {4851}}
 
 [sequence]
 c,v1,c

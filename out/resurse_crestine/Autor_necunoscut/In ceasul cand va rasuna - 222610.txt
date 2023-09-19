@@ -1,5 +1,5 @@
 [title]
-In ceasul cand va rasuna {author: {Anonim}, {rcId: {222610}}
+In ceasul cand va rasuna {composer: {Anonim}, {rcId: {222610}}
 
 [sequence]
 v1,c,v2,c,v3,c

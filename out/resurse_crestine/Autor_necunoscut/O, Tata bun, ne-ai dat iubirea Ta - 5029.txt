@@ -1,5 +1,5 @@
 [title]
-O tata bun ne-ai dat iubirea ta {author: {Anonim}, {rcId: {5029}}
+O tata bun ne-ai dat iubirea ta {composer: {Anonim}, {rcId: {5029}}
 
 [sequence]
 v1,c

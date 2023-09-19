@@ -1,5 +1,5 @@
 [title]
-Sunt strain pe lumea aceasta {author: {Anonim}, {rcId: {55642}}
+Sunt strain pe lumea aceasta {composer: {Anonim}, {rcId: {55642}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Daca nu ai pace-n viata {author: {Gabriel Gorcea și prietenii}, {rcId: {59954}}
+Daca nu ai pace-n viata {composer: {Gabriel Gorcea și prietenii}, {rcId: {59954}}
 
 [sequence]
 v1,c,v2,c,v3,c

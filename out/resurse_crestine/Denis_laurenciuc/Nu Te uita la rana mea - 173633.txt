@@ -1,5 +1,5 @@
 [title]
-Nu te uita la rana mea {author: {Denis Laurenciuc}, {rcId: {173633}}
+Nu te uita la rana mea {composer: {Denis Laurenciuc}, {rcId: {173633}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-In orice zi {author: {Speranța}, {rcId: {111014}}
+In orice zi {composer: {Speranța}, {rcId: {111014}}
 
 [sequence]
 v1,b,c,v3,c

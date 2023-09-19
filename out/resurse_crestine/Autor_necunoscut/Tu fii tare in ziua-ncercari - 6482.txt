@@ -1,5 +1,5 @@
 [title]
-Tu fii tare in ziua-ncerc~ari {author: {Anonim}, {rcId: {6482}}
+Tu fii tare in ziua-ncerc~ari {composer: {Anonim}, {rcId: {6482}}
 
 [sequence]
 v1,c,v3,c,v4,c

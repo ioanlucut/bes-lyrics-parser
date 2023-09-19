@@ -1,5 +1,5 @@
 [title]
-Sfantul cuvant la noi poposise {author: {Mihail Dimitriu}, {rcId: {7107}}
+Sfantul cuvant la noi poposise {composer: {Mihail Dimitriu}, {rcId: {7107}}
 
 [sequence]
 v1,c,v2,c,v3,c

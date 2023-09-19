@@ -1,5 +1,5 @@
 [title]
-Crampeie dragi {author: {Sara Dehelean}, {rcId: {184268}}
+Crampeie dragi {composer: {Sara Dehelean}, {rcId: {184268}}
 
 [sequence]
 v1,v2,v3,v4,v5

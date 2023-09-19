@@ -1,5 +1,5 @@
 [title]
-Cetate noua cetate noua {author: {Anonim}, {rcId: {2160}}
+Cetate noua cetate noua {composer: {Anonim}, {rcId: {2160}}
 
 [sequence]
 v1,v2,v3,v4

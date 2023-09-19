@@ -1,5 +1,5 @@
 [title]
-Tata bun din ceruri {author: {Emima Toader}, {rcId: {240807}}
+Tata bun din ceruri {composer: {Emima Toader}, {rcId: {240807}}
 
 [sequence]
 v1,v2,v3,v4

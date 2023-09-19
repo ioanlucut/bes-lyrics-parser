@@ -1,5 +1,5 @@
 [title]
-Cantati intruna domnului {author: {Nicolae Moldoveanu}, {rcId: {204015}}
+Cantati intruna domnului {composer: {Nicolae Moldoveanu}, {rcId: {204015}}
 
 [sequence]
 v1,c,v2,c,v3,c

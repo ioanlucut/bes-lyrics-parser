@@ -1,5 +1,5 @@
 [title]
-M-ai trecut prin valuri grele {author: {Puiu Chibici}, {rcId: {6303}}
+M-ai trecut prin valuri grele {composer: {Puiu Chibici}, {rcId: {6303}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

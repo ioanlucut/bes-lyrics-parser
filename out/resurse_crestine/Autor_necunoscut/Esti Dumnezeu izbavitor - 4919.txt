@@ -1,5 +1,5 @@
 [title]
-Esti dumnezeu izbavitor {author: {Anonim}, {rcId: {4919}}
+Esti dumnezeu izbavitor {composer: {Anonim}, {rcId: {4919}}
 
 [sequence]
 v1,v2,v3,v4,v5

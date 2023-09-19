@@ -1,5 +1,5 @@
 [title]
-Nu doar ca petru {author: {Daniel Hartie}, {rcId: {201387}}
+Nu doar ca petru {composer: {Daniel Hartie}, {rcId: {201387}}
 
 [sequence]
 v1,c,v2,c,v3,c

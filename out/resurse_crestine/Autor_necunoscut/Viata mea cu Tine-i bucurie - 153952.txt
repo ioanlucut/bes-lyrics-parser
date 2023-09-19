@@ -1,5 +1,5 @@
 [title]
-Viata mea cu tine-i bucurie {author: {Anonim}, {rcId: {153952}}
+Viata mea cu tine-i bucurie {composer: {Anonim}, {rcId: {153952}}
 
 [sequence]
 v1,c

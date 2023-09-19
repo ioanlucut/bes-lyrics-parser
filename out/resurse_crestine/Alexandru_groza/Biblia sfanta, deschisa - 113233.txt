@@ -1,5 +1,5 @@
 [title]
-Biblia sfanta deschisa {author: {Alexandru Groza}, {rcId: {113233}}
+Biblia sfanta deschisa {composer: {Alexandru Groza}, {rcId: {113233}}
 
 [sequence]
 v1,c,v2,c,v3,c

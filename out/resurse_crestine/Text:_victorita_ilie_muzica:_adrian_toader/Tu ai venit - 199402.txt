@@ -1,5 +1,5 @@
 [title]
-Tu ai venit {author: {Text: Victorița Ilie, Muzica: Adrian Toader}, {rcId: {199402}}
+Tu ai venit {composer: {Text: Victorița Ilie, Muzica: Adrian Toader}, {rcId: {199402}}
 
 [sequence]
 v1,c,v2,c

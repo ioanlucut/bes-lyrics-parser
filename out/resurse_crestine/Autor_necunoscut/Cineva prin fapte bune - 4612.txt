@@ -1,5 +1,5 @@
 [title]
-Cineva prin fapte bune {author: {Anonim}, {rcId: {4612}}
+Cineva prin fapte bune {composer: {Anonim}, {rcId: {4612}}
 
 [sequence]
 v1,c,v2,c,v3,c

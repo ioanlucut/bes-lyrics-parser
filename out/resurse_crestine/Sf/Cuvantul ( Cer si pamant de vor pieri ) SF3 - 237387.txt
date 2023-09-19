@@ -1,5 +1,5 @@
 [title]
-Cuvantul ( cer si pamant de vor pieri ) sf {author: {SF3}, {rcId: {237387}}
+Cuvantul ( cer si pamant de vor pieri ) sf {composer: {SF3}, {rcId: {237387}}
 
 [sequence]
 v1,v1,c,v2,v2,c,c

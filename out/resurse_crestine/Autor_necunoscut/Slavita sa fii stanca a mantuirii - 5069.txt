@@ -1,5 +1,5 @@
 [title]
-Slavita sa fii stanca a mantuirii {author: {Anonim}, {rcId: {5069}}
+Slavita sa fii stanca a mantuirii {composer: {Anonim}, {rcId: {5069}}
 
 [sequence]
 v1,c

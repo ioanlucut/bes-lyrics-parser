@@ -1,5 +1,5 @@
 [title]
-Cu gand curat o doamne {author: {Ionică Stoica}, {rcId: {210190}}
+Cu gand curat o doamne {composer: {Ionică Stoica}, {rcId: {210190}}
 
 [sequence]
 v1,c,v2,c,v3,c

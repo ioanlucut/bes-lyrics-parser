@@ -1,5 +1,5 @@
 [title]
-Doamne-mi stii viata stii dorinta mea {author: {Nicolae Moldoveanu}, {rcId: {189864}}
+Doamne-mi stii viata stii dorinta mea {composer: {Nicolae Moldoveanu}, {rcId: {189864}}
 
 [sequence]
 v1,v2,v3,v4

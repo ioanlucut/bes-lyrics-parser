@@ -1,5 +1,5 @@
 [title]
-Acum suntem copii {author: {Nicolae Moldoveanu}, {rcId: {227824}}
+Acum suntem copii {composer: {Nicolae Moldoveanu}, {rcId: {227824}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

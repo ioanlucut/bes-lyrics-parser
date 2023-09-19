@@ -1,5 +1,5 @@
 [title]
-O betleem oras micut (o little town of bethlehem) - strofe {author: {Phillips Brooks, Lewis H. Redner, Traducere RO}, {rcId: {222192}}
+O betleem oras micut (o little town of bethlehem) - strofe {composer: {Phillips Brooks, Lewis H. Redner, Traducere RO}, {rcId: {222192}}
 
 [sequence]
 v1,v2,v3,v4

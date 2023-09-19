@@ -1,5 +1,5 @@
 [title]
-Numai prin har {author: {Anonim}, {rcId: {190394}}
+Numai prin har {composer: {Anonim}, {rcId: {190394}}
 
 [sequence]
 v1,c

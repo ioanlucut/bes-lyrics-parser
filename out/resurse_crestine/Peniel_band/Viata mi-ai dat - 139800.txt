@@ -1,5 +1,5 @@
 [title]
-Viata mi-ai dat {author: {Peniel Band}, {rcId: {139800}}
+Viata mi-ai dat {composer: {Peniel Band}, {rcId: {139800}}
 
 [sequence]
 v1,c

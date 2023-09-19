@@ -1,5 +1,5 @@
 [title]
-A fi sfant inseamn-a fi {author: {Ovidiu Liteanu}, {rcId: {188220}}
+A fi sfant inseamn-a fi {composer: {Ovidiu Liteanu}, {rcId: {188220}}
 
 [sequence]
 v1,v2,v3,v4

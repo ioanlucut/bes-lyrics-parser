@@ -1,5 +1,5 @@
 [title]
-Iata-ma naintea ta {author: {Anonim}, {rcId: {74490}}
+Iata-ma naintea ta {composer: {Anonim}, {rcId: {74490}}
 
 [sequence]
 c,v1,c,v2,c

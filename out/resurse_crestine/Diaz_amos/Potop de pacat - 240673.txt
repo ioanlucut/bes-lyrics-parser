@@ -1,5 +1,5 @@
 [title]
-Potop de pacat {author: {Diaz Amos}, {rcId: {240673}}
+Potop de pacat {composer: {Diaz Amos}, {rcId: {240673}}
 
 [sequence]
 v1,c,v2,c,e

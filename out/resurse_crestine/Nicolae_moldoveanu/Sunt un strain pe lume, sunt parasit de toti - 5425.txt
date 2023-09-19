@@ -1,5 +1,5 @@
 [title]
-Sunt un strain pe lume sunt parasit de toti {author: {Nicolae Moldoveanu}, {rcId: {5425}}
+Sunt un strain pe lume sunt parasit de toti {composer: {Nicolae Moldoveanu}, {rcId: {5425}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

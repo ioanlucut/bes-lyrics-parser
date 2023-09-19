@@ -1,5 +1,5 @@
 [title]
-Ce domn maret {author: {Depealtaplaneta}, {rcId: {153339}}
+Ce domn maret {composer: {Depealtaplaneta}, {rcId: {153339}}
 
 [sequence]
 v1,c,v2,c,e

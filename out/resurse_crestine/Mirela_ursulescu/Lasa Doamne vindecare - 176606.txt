@@ -1,5 +1,5 @@
 [title]
-Lasa doamne vindecare {author: {Mirela Ursulescu}, {rcId: {176606}}
+Lasa doamne vindecare {composer: {Mirela Ursulescu}, {rcId: {176606}}
 
 [sequence]
 v1,c,v2,c,v3,c

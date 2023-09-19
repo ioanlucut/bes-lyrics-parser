@@ -1,5 +1,5 @@
 [title]
-A ales sa poarte-o cruce {author: {Anonim}, {rcId: {213398}}
+A ales sa poarte-o cruce {composer: {Anonim}, {rcId: {213398}}
 
 [sequence]
 s,c,s,c

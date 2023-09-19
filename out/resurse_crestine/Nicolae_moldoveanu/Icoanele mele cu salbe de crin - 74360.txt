@@ -1,5 +1,5 @@
 [title]
-Icoanele mele cu salbe de crin {author: {Nicolae Moldoveanu}, {rcId: {74360}}
+Icoanele mele cu salbe de crin {composer: {Nicolae Moldoveanu}, {rcId: {74360}}
 
 [sequence]
 v1,v2,v3

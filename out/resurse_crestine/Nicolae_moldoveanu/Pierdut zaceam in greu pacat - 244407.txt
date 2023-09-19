@@ -1,5 +1,5 @@
 [title]
-Pierdut zaceam in greu pacat {author: {Nicolae Moldoveanu}, {rcId: {244407}}
+Pierdut zaceam in greu pacat {composer: {Nicolae Moldoveanu}, {rcId: {244407}}
 
 [sequence]
 v1,v2,v3,v4,v5

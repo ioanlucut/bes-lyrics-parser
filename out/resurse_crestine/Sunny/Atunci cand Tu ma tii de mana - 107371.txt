@@ -1,5 +1,5 @@
 [title]
-Atunci cand tu ma tii de mana {author: {Sunny}, {rcId: {107371}}
+Atunci cand tu ma tii de mana {composer: {Sunny}, {rcId: {107371}}
 
 [sequence]
 v1,c,v2,c,e

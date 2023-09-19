@@ -1,5 +1,5 @@
 [title]
-De-ai invatat sa canti iubirea {author: {Traian Dorz}, {rcId: {200694}}
+De-ai invatat sa canti iubirea {composer: {Traian Dorz}, {rcId: {200694}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

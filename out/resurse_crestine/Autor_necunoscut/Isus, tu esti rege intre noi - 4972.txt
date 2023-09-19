@@ -1,5 +1,5 @@
 [title]
-Isus tu esti rege intre noi {author: {Anonim}, {rcId: {4972}}
+Isus tu esti rege intre noi {composer: {Anonim}, {rcId: {4972}}
 
 [sequence]
 v1,c

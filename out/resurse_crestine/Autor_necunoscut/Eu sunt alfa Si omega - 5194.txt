@@ -1,5 +1,5 @@
 [title]
-Eu sunt alfa si omega {author: {Anonim}, {rcId: {5194}}
+Eu sunt alfa si omega {composer: {Anonim}, {rcId: {5194}}
 
 [sequence]
 v1,c,v2,c,v3,c

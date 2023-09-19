@@ -1,5 +1,5 @@
 [title]
-Nadejdea mea e dumnezeu eterna fericire {author: {Grup Betleem}, {rcId: {80656}}
+Nadejdea mea e dumnezeu eterna fericire {composer: {Grup Betleem}, {rcId: {80656}}
 
 [sequence]
 v1,v2,v3,v4

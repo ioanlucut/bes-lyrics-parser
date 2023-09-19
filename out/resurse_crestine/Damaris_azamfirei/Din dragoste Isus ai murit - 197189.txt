@@ -1,5 +1,5 @@
 [title]
-Din dragoste isus ai murit {author: {Damaris Azamfirei}, {rcId: {197189}}
+Din dragoste isus ai murit {composer: {Damaris Azamfirei}, {rcId: {197189}}
 
 [sequence]
 v1,b,c,v2,b,c,e

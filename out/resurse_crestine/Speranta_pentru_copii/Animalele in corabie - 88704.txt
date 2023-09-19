@@ -1,5 +1,5 @@
 [title]
-Animalele in corabie {author: {Speranța pentru copii}, {rcId: {88704}}
+Animalele in corabie {composer: {Speranța pentru copii}, {rcId: {88704}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

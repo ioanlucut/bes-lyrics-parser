@@ -1,5 +1,5 @@
 [title]
-Lumineaza-mi doamne gandul {author: {Birjac Ovidiu}, {rcId: {228247}}
+Lumineaza-mi doamne gandul {composer: {Birjac Ovidiu}, {rcId: {228247}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

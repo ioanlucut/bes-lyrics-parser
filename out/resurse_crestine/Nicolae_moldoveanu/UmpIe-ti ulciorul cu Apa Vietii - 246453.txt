@@ -1,5 +1,5 @@
 [title]
-Umpie-ti ulciorul cu apa vietii {author: {Nicolae Moldoveanu}, {rcId: {246453}}
+Umpie-ti ulciorul cu apa vietii {composer: {Nicolae Moldoveanu}, {rcId: {246453}}
 
 [sequence]
 v1,v2,v3

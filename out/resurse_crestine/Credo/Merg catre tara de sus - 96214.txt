@@ -1,5 +1,5 @@
 [title]
-Merg catre tara de sus {author: {Credo}, {rcId: {96214}}
+Merg catre tara de sus {composer: {Credo}, {rcId: {96214}}
 
 [sequence]
 v1,c,v2,c,e

@@ -1,5 +1,5 @@
 [title]
-Imnuri de slava {author: {Fr.Abt.}, {rcId: {1287}}
+Imnuri de slava {composer: {Fr.Abt.}, {rcId: {1287}}
 
 [sequence]
 v1,v2,v3,v4

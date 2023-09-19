@@ -1,5 +1,5 @@
 [title]
-Noaptea nu mi-e teama {author: {Nicolae Moldoveanu}, {rcId: {227698}}
+Noaptea nu mi-e teama {composer: {Nicolae Moldoveanu}, {rcId: {227698}}
 
 [sequence]
 v1,v2,v3

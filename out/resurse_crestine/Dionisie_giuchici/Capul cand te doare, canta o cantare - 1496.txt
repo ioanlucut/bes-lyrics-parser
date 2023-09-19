@@ -1,5 +1,5 @@
 [title]
-Capul cand te doare canta o cantare {author: {Dionisie Giuchici}, {rcId: {1496}}
+Capul cand te doare canta o cantare {composer: {Dionisie Giuchici}, {rcId: {1496}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

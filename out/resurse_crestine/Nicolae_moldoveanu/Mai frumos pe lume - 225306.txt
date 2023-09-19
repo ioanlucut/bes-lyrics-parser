@@ -1,5 +1,5 @@
 [title]
-Mai frumos pe lume {author: {Nicolae Moldoveanu}, {rcId: {225306}}
+Mai frumos pe lume {composer: {Nicolae Moldoveanu}, {rcId: {225306}}
 
 [sequence]
 v1,c,v2,c,v3,c

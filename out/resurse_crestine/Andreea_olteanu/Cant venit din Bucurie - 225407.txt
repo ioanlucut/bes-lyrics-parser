@@ -1,5 +1,5 @@
 [title]
-Cant venit din bucurie {author: {Andreea Olteanu}, {rcId: {225407}}
+Cant venit din bucurie {composer: {Andreea Olteanu}, {rcId: {225407}}
 
 [sequence]
 v1,v2,v3

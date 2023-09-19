@@ -1,5 +1,5 @@
 [title]
-Pot fi invingator {author: {Alin și Emima Timofte}, {rcId: {174725}}
+Pot fi invingator {composer: {Alin și Emima Timofte}, {rcId: {174725}}
 
 [sequence]
 s,c,s,c

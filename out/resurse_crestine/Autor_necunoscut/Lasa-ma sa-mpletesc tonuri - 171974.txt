@@ -1,5 +1,5 @@
 [title]
-Lasa-ma sa-mpletesc tonuri {author: {Anonim}, {rcId: {171974}}
+Lasa-ma sa-mpletesc tonuri {composer: {Anonim}, {rcId: {171974}}
 
 [sequence]
 v1,c,v2,c,v3,c

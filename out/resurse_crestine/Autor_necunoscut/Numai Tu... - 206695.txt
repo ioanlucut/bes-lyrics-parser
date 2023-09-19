@@ -1,5 +1,5 @@
 [title]
-Numai tu {author: {Anonim}, {rcId: {206695}}
+Numai tu {composer: {Anonim}, {rcId: {206695}}
 
 [sequence]
 v1,v2,v3

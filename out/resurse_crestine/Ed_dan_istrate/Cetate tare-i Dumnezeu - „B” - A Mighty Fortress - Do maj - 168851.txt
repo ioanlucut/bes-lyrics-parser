@@ -1,5 +1,5 @@
 [title]
-Cetate tare-i dumnezeu - "b" - a mighty fortress - do maj {author: {ed. Dan Istrate}, {rcId: {168851}}
+Cetate tare-i dumnezeu - "b" - a mighty fortress - do maj {composer: {ed. Dan Istrate}, {rcId: {168851}}
 
 [sequence]
 v1,v2,v3

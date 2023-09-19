@@ -1,5 +1,5 @@
 [title]
-Sunt pacatos {author: {Anonim}, {rcId: {5576}}
+Sunt pacatos {composer: {Anonim}, {rcId: {5576}}
 
 [sequence]
 v1,c,v2,c2

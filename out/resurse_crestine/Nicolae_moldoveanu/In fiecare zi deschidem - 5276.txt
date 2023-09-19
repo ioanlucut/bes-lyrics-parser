@@ -1,5 +1,5 @@
 [title]
-In fiecare zi deschidem {author: {Nicolae Moldoveanu}, {rcId: {5276}}
+In fiecare zi deschidem {composer: {Nicolae Moldoveanu}, {rcId: {5276}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

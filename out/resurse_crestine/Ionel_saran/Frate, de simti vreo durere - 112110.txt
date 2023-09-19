@@ -1,5 +1,5 @@
 [title]
-Frate de simti vreo durere {author: {Ionel Saran}, {rcId: {112110}}
+Frate de simti vreo durere {composer: {Ionel Saran}, {rcId: {112110}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8,v9,v10

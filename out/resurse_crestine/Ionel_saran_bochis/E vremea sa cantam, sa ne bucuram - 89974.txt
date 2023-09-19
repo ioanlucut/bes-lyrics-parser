@@ -1,5 +1,5 @@
 [title]
-E vremea sa cantam sa ne bucuram {author: {Ionel Saran Bochis}, {rcId: {89974}}
+E vremea sa cantam sa ne bucuram {composer: {Ionel Saran Bochis}, {rcId: {89974}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Sub aripile tale {author: {Alin, Florina Jivan}, {rcId: {176294}}
+Sub aripile tale {composer: {Alin, Florina Jivan}, {rcId: {176294}}
 
 [sequence]
 v1,c,v2,c,e

@@ -1,5 +1,5 @@
 [title]
-Baraba {author: {Nicolae Moldoveanu}, {rcId: {198757}}
+Baraba {composer: {Nicolae Moldoveanu}, {rcId: {198757}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

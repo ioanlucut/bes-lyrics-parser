@@ -1,5 +1,5 @@
 [title]
-Ta main touche mon ame {author: {Iulia Contis}, {rcId: {240250}}
+Ta main touche mon ame {composer: {Iulia Contis}, {rcId: {240250}}
 
 [sequence]
 v1,v2

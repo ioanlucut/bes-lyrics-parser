@@ -1,5 +1,5 @@
 [title]
-A-nviat isus {author: {Levit}, {rcId: {7106}}
+A-nviat isus {composer: {Levit}, {rcId: {7106}}
 
 [sequence]
 v1,c,v2,c

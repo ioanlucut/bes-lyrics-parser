@@ -1,5 +1,5 @@
 [title]
-Eu n-am avut vreodata {author: {amos7}, {rcId: {90227}}
+Eu n-am avut vreodata {composer: {amos7}, {rcId: {90227}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

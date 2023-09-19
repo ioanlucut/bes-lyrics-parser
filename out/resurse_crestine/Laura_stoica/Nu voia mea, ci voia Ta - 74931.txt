@@ -1,5 +1,5 @@
 [title]
-Nu voia mea ci voia ta {author: {Laura Stoica}, {rcId: {74931}}
+Nu voia mea ci voia ta {composer: {Laura Stoica}, {rcId: {74931}}
 
 [sequence]
 v1,v2,v3,v4,v5

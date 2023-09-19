@@ -1,5 +1,5 @@
 [title]
-Suna harfe sfinte (golden harps are sounding) {author: {Frances R. Havergal, Traducere RO}, {rcId: {239435}}
+Suna harfe sfinte (golden harps are sounding) {composer: {Frances R. Havergal, Traducere RO}, {rcId: {239435}}
 
 [sequence]
 v1,c,v2,c,v3,c

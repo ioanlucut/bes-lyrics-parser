@@ -1,5 +1,5 @@
 [title]
-Da-mi dragoste isuse {author: {Biji din Barbulesti}, {rcId: {158508}}
+Da-mi dragoste isuse {composer: {Biji din Barbulesti}, {rcId: {158508}}
 
 [sequence]
 v1,c,v2,c,v3,c

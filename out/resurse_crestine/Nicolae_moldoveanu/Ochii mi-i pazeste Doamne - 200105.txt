@@ -1,5 +1,5 @@
 [title]
-Ochii mi-i pazeste doamne {author: {Nicolae Moldoveanu}, {rcId: {200105}}
+Ochii mi-i pazeste doamne {composer: {Nicolae Moldoveanu}, {rcId: {200105}}
 
 [sequence]
 v1,v2,v3,v4,v5

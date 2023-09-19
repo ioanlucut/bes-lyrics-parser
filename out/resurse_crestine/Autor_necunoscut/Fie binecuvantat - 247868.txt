@@ -1,5 +1,5 @@
 [title]
-Fie binecuvantat {author: {Anonim}, {rcId: {247868}}
+Fie binecuvantat {composer: {Anonim}, {rcId: {247868}}
 
 [sequence]
 v1,c,v2,c,v3,c

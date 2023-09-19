@@ -1,5 +1,5 @@
 [title]
-Glorie lui dumnezeu {author: {Anonim}, {rcId: {6331}}
+Glorie lui dumnezeu {composer: {Anonim}, {rcId: {6331}}
 
 [sequence]
 v1,v2,v3,v4,v5

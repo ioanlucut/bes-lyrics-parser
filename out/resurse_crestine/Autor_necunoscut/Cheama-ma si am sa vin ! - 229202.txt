@@ -1,5 +1,5 @@
 [title]
-Cheama-ma si am sa vin {author: {Anonimul}, {rcId: {229202}}
+Cheama-ma si am sa vin {composer: {Anonimul}, {rcId: {229202}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

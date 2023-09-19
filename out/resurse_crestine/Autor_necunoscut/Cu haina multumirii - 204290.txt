@@ -1,5 +1,5 @@
 [title]
-Cu haina multumirii {author: {Anonim}, {rcId: {204290}}
+Cu haina multumirii {composer: {Anonim}, {rcId: {204290}}
 
 [sequence]
 s,c

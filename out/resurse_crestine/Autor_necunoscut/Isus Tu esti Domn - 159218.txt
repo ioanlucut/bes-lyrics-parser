@@ -1,5 +1,5 @@
 [title]
-Isus tu esti domn {author: {Anonim}, {rcId: {159218}}
+Isus tu esti domn {composer: {Anonim}, {rcId: {159218}}
 
 [sequence]
 v1,v2,v3

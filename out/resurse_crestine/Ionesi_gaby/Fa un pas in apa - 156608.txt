@@ -1,5 +1,5 @@
 [title]
-Fa un pas in apa {author: {Ionesi Gaby}, {rcId: {156608}}
+Fa un pas in apa {composer: {Ionesi Gaby}, {rcId: {156608}}
 
 [sequence]
 c,v1,c,v2,c

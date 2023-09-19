@@ -1,5 +1,5 @@
 [title]
-Nu-i nimenea ca el {author: {Otniel Stirb}, {rcId: {145482}}
+Nu-i nimenea ca el {composer: {Otniel Stirb}, {rcId: {145482}}
 
 [sequence]
 v1,c,v2,c,v3,c

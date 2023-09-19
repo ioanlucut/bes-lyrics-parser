@@ -1,5 +1,5 @@
 [title]
-Nu pot afla drumul singur (i cannot find the way alone) {author: {Albert E. Brumley, Traducere RO}, {rcId: {115184}}
+Nu pot afla drumul singur (i cannot find the way alone) {composer: {Albert E. Brumley, Traducere RO}, {rcId: {115184}}
 
 [sequence]
 v1,c,v2,c,v3,c,s,c

@@ -1,5 +1,5 @@
 [title]
-Toate vor trece-ntr-o zi {author: {Anonim}, {rcId: {233707}}
+Toate vor trece-ntr-o zi {composer: {Anonim}, {rcId: {233707}}
 
 [sequence]
 v1,c,v2,c

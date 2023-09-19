@@ -1,5 +1,5 @@
 [title]
-An de an rasuna (alle jahre wieder) {author: {Wilhelm Hey, Friedrich Silcher, Traducere RO}, {rcId: {100455}}
+An de an rasuna (alle jahre wieder) {composer: {Wilhelm Hey, Friedrich Silcher, Traducere RO}, {rcId: {100455}}
 
 [sequence]
 v1,v2,v3,s

@@ -1,5 +1,5 @@
 [title]
-Caci te iubesc {author: {Rafael Dragomir}, {rcId: {168672}}
+Caci te iubesc {composer: {Rafael Dragomir}, {rcId: {168672}}
 
 [sequence]
 v1,c,v2,c,e

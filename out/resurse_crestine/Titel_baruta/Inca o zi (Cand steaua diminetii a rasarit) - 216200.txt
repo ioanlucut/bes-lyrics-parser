@@ -1,5 +1,5 @@
 [title]
-Inca o zi (cand steaua diminetii a rasarit) {author: {Titel Băruța}, {rcId: {216200}}
+Inca o zi (cand steaua diminetii a rasarit) {composer: {Titel Băruța}, {rcId: {216200}}
 
 [sequence]
 v1,c,v2,c2

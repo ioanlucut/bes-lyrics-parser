@@ -1,5 +1,5 @@
 [title]
-Rasuna iarasi {author: {Casting Crowns, Traducere RO}, {rcId: {130837}}
+Rasuna iarasi {composer: {Casting Crowns, Traducere RO}, {rcId: {130837}}
 
 [sequence]
 v1,c,v2,c2,c2,v3,c3,c4,e

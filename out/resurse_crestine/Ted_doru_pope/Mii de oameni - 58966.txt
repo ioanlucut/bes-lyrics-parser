@@ -1,5 +1,5 @@
 [title]
-Mii de oameni {author: {Ted Doru Pope}, {rcId: {58966}}
+Mii de oameni {composer: {Ted Doru Pope}, {rcId: {58966}}
 
 [sequence]
 v1,c,v2,c,v3,c

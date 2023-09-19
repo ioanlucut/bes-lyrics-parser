@@ -1,5 +1,5 @@
 [title]
-Vindeca a mea-ndoiala {author: {Anonim}, {rcId: {1690}}
+Vindeca a mea-ndoiala {composer: {Anonim}, {rcId: {1690}}
 
 [sequence]
 v1,v2,v3,v4

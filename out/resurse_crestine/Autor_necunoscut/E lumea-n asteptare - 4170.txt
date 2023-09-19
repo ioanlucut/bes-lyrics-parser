@@ -1,5 +1,5 @@
 [title]
-E lumea-n asteptare {author: {Anonim}, {rcId: {4170}}
+E lumea-n asteptare {composer: {Anonim}, {rcId: {4170}}
 
 [sequence]
 v1,c,v2,c,v3,c

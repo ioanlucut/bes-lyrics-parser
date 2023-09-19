@@ -1,5 +1,5 @@
 [title]
-Betanie scumpa {author: {Nicolae Moldoveanu}, {rcId: {240879}}
+Betanie scumpa {composer: {Nicolae Moldoveanu}, {rcId: {240879}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Dimineata dimineata {author: {Nicolae Moldoveanu}, {rcId: {5823}}
+Dimineata dimineata {composer: {Nicolae Moldoveanu}, {rcId: {5823}}
 
 [sequence]
 v1,v2,v3

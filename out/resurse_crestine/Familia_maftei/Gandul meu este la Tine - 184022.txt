@@ -1,5 +1,5 @@
 [title]
-Gandul meu este la tine {author: {Familia Maftei}, {rcId: {184022}}
+Gandul meu este la tine {composer: {Familia Maftei}, {rcId: {184022}}
 
 [sequence]
 v1,c,v2,c,v3,c

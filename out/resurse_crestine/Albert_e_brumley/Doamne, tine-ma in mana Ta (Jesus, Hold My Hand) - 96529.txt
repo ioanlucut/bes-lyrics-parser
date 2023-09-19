@@ -1,5 +1,5 @@
 [title]
-Doamne tine-ma in mana ta (jesus hold my hand) {author: {Albert E. Brumley, Traducere RO}, {rcId: {96529}}
+Doamne tine-ma in mana ta (jesus hold my hand) {composer: {Albert E. Brumley, Traducere RO}, {rcId: {96529}}
 
 [sequence]
 v1,c,v2,c,s,c

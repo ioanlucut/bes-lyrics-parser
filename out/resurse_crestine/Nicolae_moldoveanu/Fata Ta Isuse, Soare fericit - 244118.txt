@@ -1,5 +1,5 @@
 [title]
-Fata ta isuse soare fericit {author: {Nicolae Moldoveanu}, {rcId: {244118}}
+Fata ta isuse soare fericit {composer: {Nicolae Moldoveanu}, {rcId: {244118}}
 
 [sequence]
 v1,v2,v3,v4

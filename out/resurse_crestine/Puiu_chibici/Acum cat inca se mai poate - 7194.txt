@@ -1,5 +1,5 @@
 [title]
-Acum cat inca se mai poate {author: {Puiu Chibici}, {rcId: {7194}}
+Acum cat inca se mai poate {composer: {Puiu Chibici}, {rcId: {7194}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Nu de frica pedepsirii {author: {Anonim}, {rcId: {75048}}
+Nu de frica pedepsirii {composer: {Anonim}, {rcId: {75048}}
 
 [sequence]
 v1,v2,v3,v4

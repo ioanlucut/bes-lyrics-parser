@@ -1,5 +1,5 @@
 [title]
-Deci ia-mi tu doamne mana {author: {Anonim}, {rcId: {205390}}
+Deci ia-mi tu doamne mana {composer: {Anonim}, {rcId: {205390}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-In cartea ta {author: {Lucian și Adelina Susanu}, {rcId: {194056}}
+In cartea ta {composer: {Lucian și Adelina Susanu}, {rcId: {194056}}
 
 [sequence]
 v1,v2,v3,v4,v5

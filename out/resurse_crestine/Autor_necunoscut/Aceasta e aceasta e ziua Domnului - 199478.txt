@@ -1,5 +1,5 @@
 [title]
-Aceasta e aceasta e ziua domnului {author: {Anonim}, {rcId: {199478}}
+Aceasta e aceasta e ziua domnului {composer: {Anonim}, {rcId: {199478}}
 
 [sequence]
 v1,v2,v3,v4

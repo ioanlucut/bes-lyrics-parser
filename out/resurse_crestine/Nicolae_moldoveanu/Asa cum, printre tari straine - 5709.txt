@@ -1,5 +1,5 @@
 [title]
-Asa cum printre tari straine {author: {Nicolae Moldoveanu}, {rcId: {5709}}
+Asa cum printre tari straine {composer: {Nicolae Moldoveanu}, {rcId: {5709}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

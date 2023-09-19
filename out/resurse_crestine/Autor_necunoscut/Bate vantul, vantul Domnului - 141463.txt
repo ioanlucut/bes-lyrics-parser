@@ -1,5 +1,5 @@
 [title]
-Bate vantul vantul domnului {author: {Anonim}, {rcId: {141463}}
+Bate vantul vantul domnului {composer: {Anonim}, {rcId: {141463}}
 
 [sequence]
 v1,v2,v3,v4,v5

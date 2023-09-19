@@ -1,5 +1,5 @@
 [title]
-Isus ai randuit o zi {author: {Anonim}, {rcId: {220735}}
+Isus ai randuit o zi {composer: {Anonim}, {rcId: {220735}}
 
 [sequence]
 v1,v2,v3,v4,v6,v7

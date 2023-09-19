@@ -1,5 +1,5 @@
 [title]
-Oisuse altadata {author: {Anonim}, {rcId: {64459}}
+Oisuse altadata {composer: {Anonim}, {rcId: {64459}}
 
 [sequence]
 v1,v2,v3,v4

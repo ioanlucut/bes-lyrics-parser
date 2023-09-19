@@ -1,5 +1,5 @@
 [title]
-Floricica mititica {author: {Nicolae Moldoveanu}, {rcId: {239081}}
+Floricica mititica {composer: {Nicolae Moldoveanu}, {rcId: {239081}}
 
 [sequence]
 v1

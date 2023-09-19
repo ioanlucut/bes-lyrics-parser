@@ -1,5 +1,5 @@
 [title]
-Pentru mine ai venit {author: {Iulia Zaha}, {rcId: {212816}}
+Pentru mine ai venit {composer: {Iulia Zaha}, {rcId: {212816}}
 
 [sequence]
 v1,b,c,v2,b,c,c,b,c,e,

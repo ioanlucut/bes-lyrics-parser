@@ -1,5 +1,5 @@
 [title]
-Curatit esti de pacat si inoit {author: {Elisha A. Hoffman}, {rcId: {1589}}
+Curatit esti de pacat si inoit {composer: {Elisha A. Hoffman}, {rcId: {1589}}
 
 [sequence]
 v1,c,v2,c,v3,c

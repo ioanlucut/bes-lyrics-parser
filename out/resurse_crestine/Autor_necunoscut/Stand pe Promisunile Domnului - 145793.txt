@@ -1,5 +1,5 @@
 [title]
-Stand pe promisunile domnului {author: {Anonim}, {rcId: {145793}}
+Stand pe promisunile domnului {composer: {Anonim}, {rcId: {145793}}
 
 [sequence]
 v1,c,v2,c,v3,c3

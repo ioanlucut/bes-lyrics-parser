@@ -1,5 +1,5 @@
 [title]
-In grajd pe paie un prunc se naste {author: {Сэм Перебиковский Trad. AC}, {rcId: {209165}}
+In grajd pe paie un prunc se naste {composer: {Сэм Перебиковский Trad. AC}, {rcId: {209165}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Daca esti cuprins de-ngrijorare {author: {Anonim}, {rcId: {74578}}
+Daca esti cuprins de-ngrijorare {composer: {Anonim}, {rcId: {74578}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

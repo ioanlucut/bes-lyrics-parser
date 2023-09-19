@@ -1,5 +1,5 @@
 [title]
-Invata-ma s-ascult cuvantul {author: {Nicolae Moldoveanu}, {rcId: {75323}}
+Invata-ma s-ascult cuvantul {composer: {Nicolae Moldoveanu}, {rcId: {75323}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Ce bucurie-n isus am aflat {author: {Anonim}, {rcId: {2149}}
+Ce bucurie-n isus am aflat {composer: {Anonim}, {rcId: {2149}}
 
 [sequence]
 v1,c,v2,c,v3,c

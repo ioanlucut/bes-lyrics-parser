@@ -1,5 +1,5 @@
 [title]
-Tu cel ce-ai faurit {author: {Nicolae Moldoveanu}, {rcId: {246044}}
+Tu cel ce-ai faurit {composer: {Nicolae Moldoveanu}, {rcId: {246044}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Cum sa nu te laud {author: {Cosmin Avram}, {rcId: {202407}}
+Cum sa nu te laud {composer: {Cosmin Avram}, {rcId: {202407}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Azi isus in mormant nu mai e a-nviat {author: {Fratii Pal}, {rcId: {227965}}
+Azi isus in mormant nu mai e a-nviat {composer: {Fratii Pal}, {rcId: {227965}}
 
 [sequence]
 v1,c,v2,c,v3,c

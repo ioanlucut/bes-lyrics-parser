@@ -1,5 +1,5 @@
 [title]
-E timpul sa te pregatesti {author: {Anonim}, {rcId: {6952}}
+E timpul sa te pregatesti {composer: {Anonim}, {rcId: {6952}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

@@ -1,5 +1,5 @@
 [title]
-Toti copiii buni {author: {Alexandru Groza}, {rcId: {193527}}
+Toti copiii buni {composer: {Alexandru Groza}, {rcId: {193527}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Tu esti cu mine mereu - andrei & luminita tomuta {author: {Andrei Tomuta}, {rcId: {205505}}
+Tu esti cu mine mereu - andrei & luminita tomuta {composer: {Andrei Tomuta}, {rcId: {205505}}
 
 [sequence]
 v1,c,v2,b,c

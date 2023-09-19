@@ -1,5 +1,5 @@
 [title]
-Doar tu poti {author: {Frații Wagner}, {rcId: {162030}}
+Doar tu poti {composer: {Frații Wagner}, {rcId: {162030}}
 
 [sequence]
 v1,c,v2,c,v3,c

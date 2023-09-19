@@ -1,5 +1,5 @@
 [title]
-Eu cant osana {author: {Speranța}, {rcId: {101949}}
+Eu cant osana {composer: {Speranța}, {rcId: {101949}}
 
 [sequence]
 v1,c,v2,c

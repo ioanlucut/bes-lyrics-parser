@@ -1,5 +1,5 @@
 [title]
-N-am sa uit o doamne niciodata {author: {Marta Bergheaua}, {rcId: {63362}}
+N-am sa uit o doamne niciodata {composer: {Marta Bergheaua}, {rcId: {63362}}
 
 [sequence]
 v1,c,v2,c,v3,c

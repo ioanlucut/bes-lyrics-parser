@@ -1,5 +1,5 @@
 [title]
-Tot mai frumoasa esti iubire {author: {Nicolae Moldoveanu}, {rcId: {5897}}
+Tot mai frumoasa esti iubire {composer: {Nicolae Moldoveanu}, {rcId: {5897}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Am trecut prin clipe grele {author: {Nicolae Moldoveanu}, {rcId: {209160}}
+Am trecut prin clipe grele {composer: {Nicolae Moldoveanu}, {rcId: {209160}}
 
 [sequence]
 v1,v2,v3,v4

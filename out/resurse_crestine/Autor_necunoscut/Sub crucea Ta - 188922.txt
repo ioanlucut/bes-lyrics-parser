@@ -1,5 +1,5 @@
 [title]
-Sub crucea ta {author: {Anonim}, {rcId: {188922}}
+Sub crucea ta {composer: {Anonim}, {rcId: {188922}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Iti multumim isuse doamne inca ne-ai dat timp {author: {Camelia Gutu}, {rcId: {236288}}
+Iti multumim isuse doamne inca ne-ai dat timp {composer: {Camelia Gutu}, {rcId: {236288}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Nimic fara dumnezeu {author: {Anonim}, {rcId: {7086}}
+Nimic fara dumnezeu {composer: {Anonim}, {rcId: {7086}}
 
 [sequence]
 v1,v2,c,e

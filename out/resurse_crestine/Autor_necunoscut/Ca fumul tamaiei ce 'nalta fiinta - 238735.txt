@@ -1,5 +1,5 @@
 [title]
-Ca fumul tamaiei ce nalta fiinta {author: {Anonim}, {rcId: {238735}}
+Ca fumul tamaiei ce nalta fiinta {composer: {Anonim}, {rcId: {238735}}
 
 [sequence]
 v1,v2,v3,v4,v5

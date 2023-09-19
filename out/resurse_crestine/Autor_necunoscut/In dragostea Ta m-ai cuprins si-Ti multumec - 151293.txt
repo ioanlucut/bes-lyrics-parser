@@ -1,5 +1,5 @@
 [title]
-In dragostea ta m-ai cuprins si-ti multumec {author: {Anonim}, {rcId: {151293}}
+In dragostea ta m-ai cuprins si-ti multumec {composer: {Anonim}, {rcId: {151293}}
 
 [sequence]
 v1,c

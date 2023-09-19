@@ -1,5 +1,5 @@
 [title]
-Nu pot uita vreodata iubirea aratata {author: {Anonim}, {rcId: {235991}}
+Nu pot uita vreodata iubirea aratata {composer: {Anonim}, {rcId: {235991}}
 
 [sequence]
 v1,c,v2,c

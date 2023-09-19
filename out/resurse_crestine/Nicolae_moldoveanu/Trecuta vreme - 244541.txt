@@ -1,5 +1,5 @@
 [title]
-Trecuta vreme {author: {Nicolae Moldoveanu}, {rcId: {244541}}
+Trecuta vreme {composer: {Nicolae Moldoveanu}, {rcId: {244541}}
 
 [sequence]
 v1,v2,v3,v4

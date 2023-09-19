@@ -1,5 +1,5 @@
 [title]
-Ce bun ai fost {author: {Puiu Chibici}, {rcId: {131640}}
+Ce bun ai fost {composer: {Puiu Chibici}, {rcId: {131640}}
 
 [sequence]
 v1,c,v2,c,v3,c

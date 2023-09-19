@@ -1,5 +1,5 @@
 [title]
-Prietenul imparatului {author: {Luiza Spiridon}, {rcId: {238762}}
+Prietenul imparatului {composer: {Luiza Spiridon}, {rcId: {238762}}
 
 [sequence]
 v1,c,v2,c2

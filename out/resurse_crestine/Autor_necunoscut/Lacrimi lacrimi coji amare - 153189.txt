@@ -1,5 +1,5 @@
 [title]
-Lacrimi lacrimi coji amare {author: {Necunoscut de mine}, {rcId: {153189}}
+Lacrimi lacrimi coji amare {composer: {Necunoscut de mine}, {rcId: {153189}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

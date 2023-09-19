@@ -1,5 +1,5 @@
 [title]
-Eu stau mereu in asteptare {author: {Anonim}, {rcId: {6485}}
+Eu stau mereu in asteptare {composer: {Anonim}, {rcId: {6485}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

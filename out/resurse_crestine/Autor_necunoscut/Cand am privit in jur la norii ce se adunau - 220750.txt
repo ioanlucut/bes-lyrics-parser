@@ -1,5 +1,5 @@
 [title]
-Cand am privit in jur la norii ce se adunau {author: {Anonim}, {rcId: {220750}}
+Cand am privit in jur la norii ce se adunau {composer: {Anonim}, {rcId: {220750}}
 
 [sequence]
 v1,c,v2,c,v3,c

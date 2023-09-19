@@ -1,5 +1,5 @@
 [title]
-Lacrimile mamei {author: {Beni Moldovan}, {rcId: {60530}}
+Lacrimile mamei {composer: {Beni Moldovan}, {rcId: {60530}}
 
 [sequence]
 v1,c,v2,c

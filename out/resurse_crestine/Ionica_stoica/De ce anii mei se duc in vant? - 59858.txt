@@ -1,5 +1,5 @@
 [title]
-De ce anii mei se duc in vant? {author: {Ionică Stoica}, {rcId: {59858}}
+De ce anii mei se duc in vant? {composer: {Ionică Stoica}, {rcId: {59858}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c2

@@ -1,5 +1,5 @@
 [title]
-Sunt orele tarzii {author: {Anonim}, {rcId: {177544}}
+Sunt orele tarzii {composer: {Anonim}, {rcId: {177544}}
 
 [sequence]
 v1,c,v2,c

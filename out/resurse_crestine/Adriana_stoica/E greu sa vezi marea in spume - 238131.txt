@@ -1,5 +1,5 @@
 [title]
-E greu sa vezi marea in spume {author: {Adriana Stoica}, {rcId: {238131}}
+E greu sa vezi marea in spume {composer: {Adriana Stoica}, {rcId: {238131}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

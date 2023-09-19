@@ -1,5 +1,5 @@
 [title]
-Intr-o cetate {author: {Naomi Borota}, {rcId: {170467}}
+Intr-o cetate {composer: {Naomi Borota}, {rcId: {170467}}
 
 [sequence]
 v1,c,v2,c,e,c

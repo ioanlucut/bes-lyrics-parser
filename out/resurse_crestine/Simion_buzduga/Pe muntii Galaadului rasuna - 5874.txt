@@ -1,5 +1,5 @@
 [title]
-Pe muntii galaadului rasuna {author: {Simion Buzduga}, {rcId: {5874}}
+Pe muntii galaadului rasuna {composer: {Simion Buzduga}, {rcId: {5874}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c,v5,c

@@ -1,5 +1,5 @@
 [title]
-Din necaz si suferinta {author: {Ilie Belciu}, {rcId: {227460}}
+Din necaz si suferinta {composer: {Ilie Belciu}, {rcId: {227460}}
 
 [sequence]
 v1,v2,v3

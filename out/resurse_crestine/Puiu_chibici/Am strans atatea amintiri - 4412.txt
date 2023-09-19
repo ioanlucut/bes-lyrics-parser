@@ -1,5 +1,5 @@
 [title]
-Am strans atatea amintiri {author: {Puiu Chibici}, {rcId: {4412}}
+Am strans atatea amintiri {composer: {Puiu Chibici}, {rcId: {4412}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

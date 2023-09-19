@@ -1,5 +1,5 @@
 [title]
-Doamne-ti asteptam venirea {author: {Alexandru Groza}, {rcId: {7332}}
+Doamne-ti asteptam venirea {composer: {Alexandru Groza}, {rcId: {7332}}
 
 [sequence]
 v1,c,v2,c2

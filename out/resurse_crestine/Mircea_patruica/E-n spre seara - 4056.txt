@@ -1,5 +1,5 @@
 [title]
-E-n spre seara {author: {Mircea Pătruică}, {rcId: {4056}}
+E-n spre seara {composer: {Mircea Pătruică}, {rcId: {4056}}
 
 [sequence]
 v1,c,v2,c,v3,c

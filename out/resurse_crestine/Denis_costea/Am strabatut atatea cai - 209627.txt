@@ -1,5 +1,5 @@
 [title]
-Am strabatut atatea cai {author: {Denis Costea}, {rcId: {209627}}
+Am strabatut atatea cai {composer: {Denis Costea}, {rcId: {209627}}
 
 [sequence]
 v1,v2

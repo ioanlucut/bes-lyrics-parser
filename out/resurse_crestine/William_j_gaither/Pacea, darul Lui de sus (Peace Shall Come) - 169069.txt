@@ -1,5 +1,5 @@
 [title]
-Pacea darul lui de sus (peace shall come) {author: {William J. Gaither, Traducere RO}, {rcId: {169069}}
+Pacea darul lui de sus (peace shall come) {composer: {William J. Gaither, Traducere RO}, {rcId: {169069}}
 
 [sequence]
 v1,s,v2

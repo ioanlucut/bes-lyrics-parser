@@ -1,5 +1,5 @@
 [title]
-Langa tine {author: {Cătălin Ciuculescu}, {rcId: {172292}}
+Langa tine {composer: {Cătălin Ciuculescu}, {rcId: {172292}}
 
 [sequence]
 v1,v2,v3

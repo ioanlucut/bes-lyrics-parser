@@ -1,5 +1,5 @@
 [title]
-O ce simtire l-am pe isus {author: {Phoebe P.Knapp}, {rcId: {74428}}
+O ce simtire l-am pe isus {composer: {Phoebe P.Knapp}, {rcId: {74428}}
 
 [sequence]
 v1,c,v2,c,v3,c

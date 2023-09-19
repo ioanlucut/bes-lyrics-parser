@@ -1,5 +1,5 @@
 [title]
-Colindatorii duc vestea buna {author: {Ruben și Beatrice Filoti}, {rcId: {118023}}
+Colindatorii duc vestea buna {composer: {Ruben și Beatrice Filoti}, {rcId: {118023}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

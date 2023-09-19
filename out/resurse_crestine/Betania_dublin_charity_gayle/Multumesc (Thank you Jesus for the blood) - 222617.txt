@@ -1,5 +1,5 @@
 [title]
-Multumesc (thank you jesus for the blood) {author: {Betania Dublin, Charity Gayle}, {rcId: {222617}}
+Multumesc (thank you jesus for the blood) {composer: {Betania Dublin, Charity Gayle}, {rcId: {222617}}
 
 [sequence]
 v1,c,v2,b,c,e

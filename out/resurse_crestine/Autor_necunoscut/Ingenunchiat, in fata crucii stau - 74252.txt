@@ -1,5 +1,5 @@
 [title]
-Ingenunchiat in fata crucii stau {author: {Anonim}, {rcId: {74252}}
+Ingenunchiat in fata crucii stau {composer: {Anonim}, {rcId: {74252}}
 
 [sequence]
 v1,v2,c

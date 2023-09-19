@@ -1,5 +1,5 @@
 [title]
-Cand lovit de valuri {author: {Alexandru Groza}, {rcId: {193345}}
+Cand lovit de valuri {composer: {Alexandru Groza}, {rcId: {193345}}
 
 [sequence]
 v1,b,c,v2,c

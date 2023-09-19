@@ -1,5 +1,5 @@
 [title]
-Tu esti lumina {author: {Marius Livanu}, {rcId: {198866}}
+Tu esti lumina {composer: {Marius Livanu}, {rcId: {198866}}
 
 [sequence]
 v1,c,v2,c

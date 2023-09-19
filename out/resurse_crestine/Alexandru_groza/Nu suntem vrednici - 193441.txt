@@ -1,5 +1,5 @@
 [title]
-Nu suntem vrednici {author: {Alexandru Groza}, {rcId: {193441}}
+Nu suntem vrednici {composer: {Alexandru Groza}, {rcId: {193441}}
 
 [sequence]
 v1,c,c,v2,c

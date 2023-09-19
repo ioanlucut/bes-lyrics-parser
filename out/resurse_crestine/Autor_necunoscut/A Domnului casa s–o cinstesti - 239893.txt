@@ -1,5 +1,5 @@
 [title]
-A domnului casa s-o cinstesti {author: {Autor necunoscut}, {rcId: {239893}}
+A domnului casa s-o cinstesti {composer: {Autor necunoscut}, {rcId: {239893}}
 
 [sequence]
 v1,c,v2,c,v3,c

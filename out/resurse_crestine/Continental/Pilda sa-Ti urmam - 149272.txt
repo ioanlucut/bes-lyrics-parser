@@ -1,5 +1,5 @@
 [title]
-Pilda sa-ti urmam {author: {Continental}, {rcId: {149272}}
+Pilda sa-ti urmam {composer: {Continental}, {rcId: {149272}}
 
 [sequence]
 v1,c,v2,c,e,c

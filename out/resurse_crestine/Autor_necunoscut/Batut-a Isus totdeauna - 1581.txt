@@ -1,5 +1,5 @@
 [title]
-Batut-a isus totdeauna {author: {Anonim}, {rcId: {1581}}
+Batut-a isus totdeauna {composer: {Anonim}, {rcId: {1581}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

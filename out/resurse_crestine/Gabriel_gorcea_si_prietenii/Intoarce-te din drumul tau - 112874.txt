@@ -1,5 +1,5 @@
 [title]
-Intoarce-te din drumul tau {author: {Gabriel Gorcea și prietenii}, {rcId: {112874}}
+Intoarce-te din drumul tau {composer: {Gabriel Gorcea și prietenii}, {rcId: {112874}}
 
 [sequence]
 v1,c,v2,c,v3,c

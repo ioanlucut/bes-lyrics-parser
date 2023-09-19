@@ -1,5 +1,5 @@
 [title]
-Mainile ce-mi dau salvare (in the arms of sweet deliverance) {author: {Mosie Lister, Traducere RO}, {rcId: {203745}}
+Mainile ce-mi dau salvare (in the arms of sweet deliverance) {composer: {Mosie Lister, Traducere RO}, {rcId: {203745}}
 
 [sequence]
 c,v1,c,v2,c,s,c

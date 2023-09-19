@@ -1,5 +1,5 @@
 [title]
-Nu atunci {author: {Nicolae Moldoveanu}, {rcId: {241161}}
+Nu atunci {composer: {Nicolae Moldoveanu}, {rcId: {241161}}
 
 [sequence]
 v1,v2,v3,v4

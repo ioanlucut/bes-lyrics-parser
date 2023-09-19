@@ -1,5 +1,5 @@
 [title]
-Intinde-i mana (throw out the lifeline) {author: {Edward S. Ufford, Traducere RO}, {rcId: {203778}}
+Intinde-i mana (throw out the lifeline) {composer: {Edward S. Ufford, Traducere RO}, {rcId: {203778}}
 
 [sequence]
 v1,c,v2,c,s,c

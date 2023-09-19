@@ -1,5 +1,5 @@
 [title]
-Dormi linistit drag isus (lulajze jezuniu) {author: {Colind polonez, Traducere RO}, {rcId: {142744}}
+Dormi linistit drag isus (lulajze jezuniu) {composer: {Colind polonez, Traducere RO}, {rcId: {142744}}
 
 [sequence]
 v1,c,v2,c,s,c

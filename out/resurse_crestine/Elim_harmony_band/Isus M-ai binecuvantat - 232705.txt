@@ -1,5 +1,5 @@
 [title]
-Isus m-ai binecuvantat {author: {Elim Harmony Band}, {rcId: {232705}}
+Isus m-ai binecuvantat {composer: {Elim Harmony Band}, {rcId: {232705}}
 
 [sequence]
 v1,v2,b,c,v3,b,c,b2,e

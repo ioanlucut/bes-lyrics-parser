@@ -1,5 +1,5 @@
 [title]
-Extraordinario {author: {Tony Ricardo}, {rcId: {157629}}
+Extraordinario {composer: {Tony Ricardo}, {rcId: {157629}}
 
 [sequence]
 v1,v2,b,c,v3,c,c,e

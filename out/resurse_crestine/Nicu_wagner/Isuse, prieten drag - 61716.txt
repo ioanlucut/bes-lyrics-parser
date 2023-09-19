@@ -1,5 +1,5 @@
 [title]
-Isuse prieten drag {author: {Nicu Wagner}, {rcId: {61716}}
+Isuse prieten drag {composer: {Nicu Wagner}, {rcId: {61716}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

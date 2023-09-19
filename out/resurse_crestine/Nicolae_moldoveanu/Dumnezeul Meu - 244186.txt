@@ -1,5 +1,5 @@
 [title]
-Dumnezeul meu {author: {Nicolae Moldoveanu}, {rcId: {244186}}
+Dumnezeul meu {composer: {Nicolae Moldoveanu}, {rcId: {244186}}
 
 [sequence]
 v1,v2,v3

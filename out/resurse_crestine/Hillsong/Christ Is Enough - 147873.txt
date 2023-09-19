@@ -1,5 +1,5 @@
 [title]
-Christ is enough {author: {Hillsong, Traducere RO}, {rcId: {147873}}
+Christ is enough {composer: {Hillsong, Traducere RO}, {rcId: {147873}}
 
 [sequence]
 v1,b,c,v2,b,c,e

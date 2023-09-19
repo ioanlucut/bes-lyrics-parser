@@ -1,5 +1,5 @@
 [title]
-Judecata {author: {Speranța}, {rcId: {65885}}
+Judecata {composer: {Speranța}, {rcId: {65885}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

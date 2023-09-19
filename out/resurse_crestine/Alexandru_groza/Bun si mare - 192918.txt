@@ -1,5 +1,5 @@
 [title]
-Bun si mare {author: {Alexandru Groza}, {rcId: {192918}}
+Bun si mare {composer: {Alexandru Groza}, {rcId: {192918}}
 
 [sequence]
 v1,b,c,v2,c

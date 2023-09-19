@@ -1,5 +1,5 @@
 [title]
-Eu vin curand pastreaza ce ai {author: {Anonim}, {rcId: {197376}}
+Eu vin curand pastreaza ce ai {composer: {Anonim}, {rcId: {197376}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

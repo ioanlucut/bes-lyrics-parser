@@ -1,5 +1,5 @@
 [title]
-Rasuna astazi in toate tarile {author: {Anonim}, {rcId: {6831}}
+Rasuna astazi in toate tarile {composer: {Anonim}, {rcId: {6831}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-De n-ai fi coborat {author: {Monica Turtoi}, {rcId: {239475}}
+De n-ai fi coborat {composer: {Monica Turtoi}, {rcId: {239475}}
 
 [sequence]
 v1,v2,v3

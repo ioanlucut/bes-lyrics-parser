@@ -1,5 +1,5 @@
 [title]
-Nu sunt vrednic/cand privesc in urma la trecutul meu {author: {Anonim}, {rcId: {236147}}
+Nu sunt vrednic/cand privesc in urma la trecutul meu {composer: {Anonim}, {rcId: {236147}}
 
 [sequence]
 v1,c,v2,b,c

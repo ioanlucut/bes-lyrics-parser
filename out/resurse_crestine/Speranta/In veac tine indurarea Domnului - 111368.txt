@@ -1,5 +1,5 @@
 [title]
-In veac tine indurarea domnului {author: {Speranța}, {rcId: {111368}}
+In veac tine indurarea domnului {composer: {Speranța}, {rcId: {111368}}
 
 [sequence]
 v1,c,e

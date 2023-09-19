@@ -1,5 +1,5 @@
 [title]
-Domnul poarta de grija {author: {Gabi_Ilut}, {rcId: {241275}}
+Domnul poarta de grija {composer: {Gabi_Ilut}, {rcId: {241275}}
 
 [sequence]
 v1,c,v2,c,v3,c

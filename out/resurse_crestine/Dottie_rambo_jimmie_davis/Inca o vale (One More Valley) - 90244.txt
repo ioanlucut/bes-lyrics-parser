@@ -1,5 +1,5 @@
 [title]
-Inca o vale (one more valley) {author: {Dottie Rambo, Jimmie Davis, Traducere RO}, {rcId: {90244}}
+Inca o vale (one more valley) {composer: {Dottie Rambo, Jimmie Davis, Traducere RO}, {rcId: {90244}}
 
 [sequence]
 v1,c,v2,c,s,c

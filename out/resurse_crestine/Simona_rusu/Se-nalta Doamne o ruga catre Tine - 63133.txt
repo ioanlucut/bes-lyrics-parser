@@ -1,5 +1,5 @@
 [title]
-Se-nalta doamne o ruga catre tine {author: {Simona Rusu}, {rcId: {63133}}
+Se-nalta doamne o ruga catre tine {composer: {Simona Rusu}, {rcId: {63133}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

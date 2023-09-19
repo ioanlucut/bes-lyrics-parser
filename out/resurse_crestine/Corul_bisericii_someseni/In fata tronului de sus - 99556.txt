@@ -1,5 +1,5 @@
 [title]
-In fata tronului de sus {author: {Corul Bisericii Someșeni}, {rcId: {99556}}
+In fata tronului de sus {composer: {Corul Bisericii Someșeni}, {rcId: {99556}}
 
 [sequence]
 v1,v2,v3

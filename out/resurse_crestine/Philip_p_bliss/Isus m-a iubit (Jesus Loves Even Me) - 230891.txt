@@ -1,5 +1,5 @@
 [title]
-Isus m-a iubit (jesus loves even me) {author: {Philip P. Bliss, Traducere RO}, {rcId: {230891}}
+Isus m-a iubit (jesus loves even me) {composer: {Philip P. Bliss, Traducere RO}, {rcId: {230891}}
 
 [sequence]
 v1,c,v2,c,v3,c

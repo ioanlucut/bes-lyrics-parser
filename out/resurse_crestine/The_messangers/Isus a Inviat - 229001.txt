@@ -1,5 +1,5 @@
 [title]
-Isus a inviat {author: {The Messangers}, {rcId: {229001}}
+Isus a inviat {composer: {The Messangers}, {rcId: {229001}}
 
 [sequence]
 v1,v0,v2,v3

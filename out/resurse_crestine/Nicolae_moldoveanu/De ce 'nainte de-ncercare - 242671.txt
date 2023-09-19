@@ -1,5 +1,5 @@
 [title]
-De ce nainte de-ncercare {author: {Nicolae Moldoveanu}, {rcId: {242671}}
+De ce nainte de-ncercare {composer: {Nicolae Moldoveanu}, {rcId: {242671}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Stam uniti in adorare {author: {Agape}, {rcId: {6879}}
+Stam uniti in adorare {composer: {Agape}, {rcId: {6879}}
 
 [sequence]
 v1,c,v2,c2

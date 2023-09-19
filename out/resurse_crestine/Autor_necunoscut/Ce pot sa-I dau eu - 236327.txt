@@ -1,5 +1,5 @@
 [title]
-Ce pot sa-i dau eu {author: {Anonim}, {rcId: {236327}}
+Ce pot sa-i dau eu {composer: {Anonim}, {rcId: {236327}}
 
 [sequence]
 v1,v2

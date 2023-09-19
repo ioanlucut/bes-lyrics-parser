@@ -1,5 +1,5 @@
 [title]
-Canta tu azi inima mea {author: {Daniel Rozini}, {rcId: {79436}}
+Canta tu azi inima mea {composer: {Daniel Rozini}, {rcId: {79436}}
 
 [sequence]
 v1,c,v2,c,v3,c

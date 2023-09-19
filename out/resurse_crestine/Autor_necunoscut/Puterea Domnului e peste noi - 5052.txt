@@ -1,5 +1,5 @@
 [title]
-Puterea domnului e peste noi {author: {Anonim}, {rcId: {5052}}
+Puterea domnului e peste noi {composer: {Anonim}, {rcId: {5052}}
 
 [sequence]
 v1,b,c,v2,c2

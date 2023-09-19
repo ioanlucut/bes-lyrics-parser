@@ -1,5 +1,5 @@
 [title]
-Sa stai langa el; chiar daca-ntr-o zi cerul va fi de nori acoperit; in dragoste ancorat {author: {Anca Ban}, {rcId: {113235}}
+Sa stai langa el; chiar daca-ntr-o zi cerul va fi de nori acoperit; in dragoste ancorat {composer: {Anca Ban}, {rcId: {113235}}
 
 [sequence]
 c,v1,c,e

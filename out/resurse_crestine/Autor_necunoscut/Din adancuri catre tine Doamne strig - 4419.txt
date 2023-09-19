@@ -1,5 +1,5 @@
 [title]
-Din adancuri c~atre tine doamne strig {author: {Anonim}, {rcId: {4419}}
+Din adancuri c~atre tine doamne strig {composer: {Anonim}, {rcId: {4419}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

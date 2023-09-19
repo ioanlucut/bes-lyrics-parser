@@ -1,5 +1,5 @@
 [title]
-Din adancuri catre tine {author: {Anonim}, {rcId: {141049}}
+Din adancuri catre tine {composer: {Anonim}, {rcId: {141049}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

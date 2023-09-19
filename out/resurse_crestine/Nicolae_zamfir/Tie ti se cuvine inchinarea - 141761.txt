@@ -1,5 +1,5 @@
 [title]
-Tie ti se cuvine inchinarea {author: {Nicolae Zamfir}, {rcId: {141761}}
+Tie ti se cuvine inchinarea {composer: {Nicolae Zamfir}, {rcId: {141761}}
 
 [sequence]
 v1,c,v2,c,v3,c

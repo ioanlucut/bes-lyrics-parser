@@ -1,5 +1,5 @@
 [title]
-Vrem altare sa zidim {author: {Speranța}, {rcId: {102169}}
+Vrem altare sa zidim {composer: {Speranța}, {rcId: {102169}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

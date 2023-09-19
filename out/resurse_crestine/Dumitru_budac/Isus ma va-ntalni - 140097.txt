@@ -1,5 +1,5 @@
 [title]
-Isus ma va-ntalni {author: {Dumitru Budac}, {rcId: {140097}}
+Isus ma va-ntalni {composer: {Dumitru Budac}, {rcId: {140097}}
 
 [sequence]
 v1,c,v2,c,s,c

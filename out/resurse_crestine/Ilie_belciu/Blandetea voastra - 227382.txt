@@ -1,5 +1,5 @@
 [title]
-Blandetea voastra {author: {Ilie Belciu}, {rcId: {227382}}
+Blandetea voastra {composer: {Ilie Belciu}, {rcId: {227382}}
 
 [sequence]
 v1,c,v2,c,v3,c

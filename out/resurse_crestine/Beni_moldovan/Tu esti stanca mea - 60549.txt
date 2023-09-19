@@ -1,5 +1,5 @@
 [title]
-Tu esti stanca mea {author: {Beni Moldovan}, {rcId: {60549}}
+Tu esti stanca mea {composer: {Beni Moldovan}, {rcId: {60549}}
 
 [sequence]
 v1,c,v2,c

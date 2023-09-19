@@ -1,5 +1,5 @@
 [title]
-Zi de asteptare {author: {Diaz Amos}, {rcId: {238806}}
+Zi de asteptare {composer: {Diaz Amos}, {rcId: {238806}}
 
 [sequence]
 v1,c,v2,c

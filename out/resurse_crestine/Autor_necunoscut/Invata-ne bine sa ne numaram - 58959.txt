@@ -1,5 +1,5 @@
 [title]
-Invata-ne bine sa ne numaram {author: {Anonim}, {rcId: {58959}}
+Invata-ne bine sa ne numaram {composer: {Anonim}, {rcId: {58959}}
 
 [sequence]
 v1,c,v2,c,v3,c

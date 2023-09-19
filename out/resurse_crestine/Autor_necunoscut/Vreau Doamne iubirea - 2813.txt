@@ -1,5 +1,5 @@
 [title]
-Vreau doamne iubirea {author: {Anonim}, {rcId: {2813}}
+Vreau doamne iubirea {composer: {Anonim}, {rcId: {2813}}
 
 [sequence]
 v1,c

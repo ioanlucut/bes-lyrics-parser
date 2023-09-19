@@ -1,5 +1,5 @@
 [title]
-Vino la isus {author: {H.C.MARGARETA}, {rcId: {242610}}
+Vino la isus {composer: {H.C.MARGARETA}, {rcId: {242610}}
 
 [sequence]
 v1

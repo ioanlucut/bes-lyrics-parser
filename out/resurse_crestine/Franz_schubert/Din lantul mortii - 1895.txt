@@ -1,5 +1,5 @@
 [title]
-Din lantul mortii {author: {Franz Schubert}, {rcId: {1895}}
+Din lantul mortii {composer: {Franz Schubert}, {rcId: {1895}}
 
 [sequence]
 v1,v2,v3

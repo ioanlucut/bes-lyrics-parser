@@ -1,5 +1,5 @@
 [title]
-Prin tine voi exista {author: {Gabi Ilut}, {rcId: {91027}}
+Prin tine voi exista {composer: {Gabi Ilut}, {rcId: {91027}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Creasca-l bland credincios {author: {Anonim}, {rcId: {153805}}
+Creasca-l bland credincios {composer: {Anonim}, {rcId: {153805}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-E iarasi craciun {author: {Andreea Mois}, {rcId: {170397}}
+E iarasi craciun {composer: {Andreea Mois}, {rcId: {170397}}
 
 [sequence]
 v1,c,v2,c2,e,c,c2

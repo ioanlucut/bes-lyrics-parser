@@ -1,5 +1,5 @@
 [title]
-E razboi frate n-ai uitat {author: {Anonim}, {rcId: {4003}}
+E razboi frate n-ai uitat {composer: {Anonim}, {rcId: {4003}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-O iubire vesnica pe pamant daruita {author: {Șerb Dorina}, {rcId: {207794}}
+O iubire vesnica pe pamant daruita {composer: {Șerb Dorina}, {rcId: {207794}}
 
 [sequence]
 v1,c,v2,c

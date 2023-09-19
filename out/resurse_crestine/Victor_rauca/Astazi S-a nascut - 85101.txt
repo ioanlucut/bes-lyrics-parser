@@ -1,5 +1,5 @@
 [title]
-Astazi s-a nascut {author: {Victor Rauca}, {rcId: {85101}}
+Astazi s-a nascut {composer: {Victor Rauca}, {rcId: {85101}}
 
 [sequence]
 v1,c,v2,c,v3,c

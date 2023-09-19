@@ -1,5 +1,5 @@
 [title]
-O ce har ce iubire {author: {Otniel Stirb}, {rcId: {227122}}
+O ce har ce iubire {composer: {Otniel Stirb}, {rcId: {227122}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

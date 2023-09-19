@@ -1,5 +1,5 @@
 [title]
-Ai inviat din mortii {author: {Biji din Barbuleati}, {rcId: {193061}}
+Ai inviat din mortii {composer: {Biji din Barbuleati}, {rcId: {193061}}
 
 [sequence]
 v1,c,v2,c

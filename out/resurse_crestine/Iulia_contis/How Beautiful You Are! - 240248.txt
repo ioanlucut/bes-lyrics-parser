@@ -1,5 +1,5 @@
 [title]
-How beautiful you are {author: {Iulia Contis}, {rcId: {240248}}
+How beautiful you are {composer: {Iulia Contis}, {rcId: {240248}}
 
 [sequence]
 v1,c,v2,c

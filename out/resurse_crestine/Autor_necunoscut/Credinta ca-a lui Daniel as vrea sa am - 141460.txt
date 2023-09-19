@@ -1,5 +1,5 @@
 [title]
-Credinta ca-a lui daniel as vrea sa am {author: {Anonim}, {rcId: {141460}}
+Credinta ca-a lui daniel as vrea sa am {composer: {Anonim}, {rcId: {141460}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Doamne tu-mi cunosti inima {author: {Anonim}, {rcId: {151237}}
+Doamne tu-mi cunosti inima {composer: {Anonim}, {rcId: {151237}}
 
 [sequence]
 v1,c,c2,c4

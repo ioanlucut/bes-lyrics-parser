@@ -1,5 +1,5 @@
 [title]
-Sunt doar un om {author: {Gabriela Palincas}, {rcId: {103437}}
+Sunt doar un om {composer: {Gabriela Palincas}, {rcId: {103437}}
 
 [sequence]
 v1,v2

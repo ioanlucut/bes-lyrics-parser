@@ -1,5 +1,5 @@
 [title]
-Cand n-ai la cine alerga {author: {Ileana din Vâlcele}, {rcId: {175963}}
+Cand n-ai la cine alerga {composer: {Ileana din Vâlcele}, {rcId: {175963}}
 
 [sequence]
 v1,v2,v3

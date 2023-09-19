@@ -1,5 +1,5 @@
 [title]
-Tu ai fost locul de-adapost (mergem inainte) {author: {Beni Cibu}, {rcId: {182256}}
+Tu ai fost locul de-adapost (mergem inainte) {composer: {Beni Cibu}, {rcId: {182256}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

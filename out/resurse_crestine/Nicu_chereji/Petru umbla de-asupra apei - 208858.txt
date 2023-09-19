@@ -1,5 +1,5 @@
 [title]
-Petru umbla de-asupra apei {author: {Nicu Chereji}, {rcId: {208858}}
+Petru umbla de-asupra apei {composer: {Nicu Chereji}, {rcId: {208858}}
 
 [sequence]
 v1,c,v2,c,v3,c

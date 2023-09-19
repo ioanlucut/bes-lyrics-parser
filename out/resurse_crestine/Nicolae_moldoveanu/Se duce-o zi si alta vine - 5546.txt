@@ -1,5 +1,5 @@
 [title]
-Se duce-o zi si alta vine {author: {Nicolae Moldoveanu}, {rcId: {5546}}
+Se duce-o zi si alta vine {composer: {Nicolae Moldoveanu}, {rcId: {5546}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

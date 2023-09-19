@@ -1,5 +1,5 @@
 [title]
-M-a salvat isus hristos {author: {Ruben Filoti}, {rcId: {165155}}
+M-a salvat isus hristos {composer: {Ruben Filoti}, {rcId: {165155}}
 
 [sequence]
 v1,v2,v3,v4,v5

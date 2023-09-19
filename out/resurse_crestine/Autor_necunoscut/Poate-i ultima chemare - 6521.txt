@@ -1,5 +1,5 @@
 [title]
-Poate-i ultima chemare {author: {Anonim}, {rcId: {6521}}
+Poate-i ultima chemare {composer: {Anonim}, {rcId: {6521}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

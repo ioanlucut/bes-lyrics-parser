@@ -1,5 +1,5 @@
 [title]
-Inima mea {author: {Anonim}, {rcId: {1344}}
+Inima mea {composer: {Anonim}, {rcId: {1344}}
 
 [sequence]
 v1,v2,v3

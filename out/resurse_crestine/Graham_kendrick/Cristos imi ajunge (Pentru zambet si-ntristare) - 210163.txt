@@ -1,5 +1,5 @@
 [title]
-Cristos imi ajunge (pentru zambet si-ntristare) {author: {Graham Kendrick}, {rcId: {210163}}
+Cristos imi ajunge (pentru zambet si-ntristare) {composer: {Graham Kendrick}, {rcId: {210163}}
 
 [sequence]
 v1,c,v2,c,v3,c

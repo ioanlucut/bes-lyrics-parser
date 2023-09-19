@@ -1,5 +1,5 @@
 [title]
-Suflet zdrobit {author: {Carmen Prodan}, {rcId: {168213}}
+Suflet zdrobit {composer: {Carmen Prodan}, {rcId: {168213}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

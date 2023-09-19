@@ -1,5 +1,5 @@
 [title]
-Te du mereu mai sus spre zarile senine {author: {Anonim}, {rcId: {3806}}
+Te du mereu mai sus spre zarile senine {composer: {Anonim}, {rcId: {3806}}
 
 [sequence]
 v1,c,v2,c,v3,c

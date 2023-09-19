@@ -1,5 +1,5 @@
 [title]
-Nu te-ngrijora nu te teme ca esti singur {author: {Daniel Stăuceanu, Charles H. Gabriel}, {rcId: {238481}}
+Nu te-ngrijora nu te teme ca esti singur {composer: {Daniel Stăuceanu, Charles H. Gabriel}, {rcId: {238481}}
 
 [sequence]
 v1,c,v2,c,v3,c

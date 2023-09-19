@@ -1,5 +1,5 @@
 [title]
-Un nume bun {author: {Speranța}, {rcId: {7099}}
+Un nume bun {composer: {Speranța}, {rcId: {7099}}
 
 [sequence]
 v1,c,v2,c,v3,c

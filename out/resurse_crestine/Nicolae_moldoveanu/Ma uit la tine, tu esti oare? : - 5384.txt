@@ -1,5 +1,5 @@
 [title]
-Ma uit la tine tu esti oare? : {author: {Nicolae Moldoveanu}, {rcId: {5384}}
+Ma uit la tine tu esti oare? : {composer: {Nicolae Moldoveanu}, {rcId: {5384}}
 
 [sequence]
 v1,v2,v3

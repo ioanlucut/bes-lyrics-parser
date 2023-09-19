@@ -1,5 +1,5 @@
 [title]
-Eu sunt un prunc {author: {Nicolae Moldoveanu}, {rcId: {228146}}
+Eu sunt un prunc {composer: {Nicolae Moldoveanu}, {rcId: {228146}}
 
 [sequence]
 v1,v2,v3

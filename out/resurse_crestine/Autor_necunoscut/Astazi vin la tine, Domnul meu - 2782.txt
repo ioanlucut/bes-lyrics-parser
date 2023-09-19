@@ -1,5 +1,5 @@
 [title]
-Astazi vin la tine domnul meu {author: {Anonim}, {rcId: {2782}}
+Astazi vin la tine domnul meu {composer: {Anonim}, {rcId: {2782}}
 
 [sequence]
 v1,b,c

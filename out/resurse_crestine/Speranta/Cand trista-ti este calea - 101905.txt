@@ -1,5 +1,5 @@
 [title]
-Cand trista-ti este calea {author: {Speranța}, {rcId: {101905}}
+Cand trista-ti este calea {composer: {Speranța}, {rcId: {101905}}
 
 [sequence]
 v1,v2,v3

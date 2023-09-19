@@ -1,5 +1,5 @@
 [title]
-Vreau sa fiu bun doamne {author: {Anonim}, {rcId: {123628}}
+Vreau sa fiu bun doamne {composer: {Anonim}, {rcId: {123628}}
 
 [sequence]
 v1,c,v2,c,v3,c

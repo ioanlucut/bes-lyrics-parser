@@ -1,5 +1,5 @@
 [title]
-Iti e egal ca isus a murit {author: {Anonim}, {rcId: {146524}}
+Iti e egal ca isus a murit {composer: {Anonim}, {rcId: {146524}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

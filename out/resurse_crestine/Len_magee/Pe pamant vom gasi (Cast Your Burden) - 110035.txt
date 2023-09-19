@@ -1,5 +1,5 @@
 [title]
-Pe pamant vom gasi (cast your burden) {author: {Len Magee, Traducere RO}, {rcId: {110035}}
+Pe pamant vom gasi (cast your burden) {composer: {Len Magee, Traducere RO}, {rcId: {110035}}
 
 [sequence]
 v1,c,v2,c,v3,c,s,c

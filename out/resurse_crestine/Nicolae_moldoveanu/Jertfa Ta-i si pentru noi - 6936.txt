@@ -1,5 +1,5 @@
 [title]
-Jertfa ta-i si pentru noi {author: {Nicolae Moldoveanu}, {rcId: {6936}}
+Jertfa ta-i si pentru noi {composer: {Nicolae Moldoveanu}, {rcId: {6936}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Ieslea sfanta {author: {Ami și Crista}, {rcId: {83187}}
+Ieslea sfanta {composer: {Ami și Crista}, {rcId: {83187}}
 
 [sequence]
 v1,c,v2,c,v3,c

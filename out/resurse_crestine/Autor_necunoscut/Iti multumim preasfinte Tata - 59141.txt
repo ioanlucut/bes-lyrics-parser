@@ -1,5 +1,5 @@
 [title]
-Iti multumim preasfinte tata {author: {Anonim}, {rcId: {59141}}
+Iti multumim preasfinte tata {composer: {Anonim}, {rcId: {59141}}
 
 [sequence]
 v1,c,v2,c

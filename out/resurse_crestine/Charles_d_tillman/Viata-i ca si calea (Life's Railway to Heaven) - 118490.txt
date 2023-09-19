@@ -1,5 +1,5 @@
 [title]
-Viata-i ca si calea (life s railway to heaven) {author: {Charles D. Tillman, Traducere RO}, {rcId: {118490}}
+Viata-i ca si calea (life s railway to heaven) {composer: {Charles D. Tillman, Traducere RO}, {rcId: {118490}}
 
 [sequence]
 v1,c,v2,c,v3,c,s,c

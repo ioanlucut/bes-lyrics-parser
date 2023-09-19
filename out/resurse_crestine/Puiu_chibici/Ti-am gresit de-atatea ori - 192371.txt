@@ -1,5 +1,5 @@
 [title]
-Ti-am gresit de-atatea ori {author: {Puiu Chibici}, {rcId: {192371}}
+Ti-am gresit de-atatea ori {composer: {Puiu Chibici}, {rcId: {192371}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Esti totul doamne pentru mine {author: {Puiu Chibici}, {rcId: {6557}}
+Esti totul doamne pentru mine {composer: {Puiu Chibici}, {rcId: {6557}}
 
 [sequence]
 v1,c,v2,c,v3,c

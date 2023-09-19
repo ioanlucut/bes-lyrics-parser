@@ -1,5 +1,5 @@
 [title]
-Iubirea el si-a aratat {author: {Ligia Bodea}, {rcId: {5189}}
+Iubirea el si-a aratat {composer: {Ligia Bodea}, {rcId: {5189}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

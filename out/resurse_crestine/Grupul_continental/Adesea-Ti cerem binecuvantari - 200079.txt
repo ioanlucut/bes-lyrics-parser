@@ -1,5 +1,5 @@
 [title]
-Adesea-ti cerem binecuvantari {author: {Grupul Continental}, {rcId: {200079}}
+Adesea-ti cerem binecuvantari {composer: {Grupul Continental}, {rcId: {200079}}
 
 [sequence]
 v1,c,v2,c,c

@@ -1,5 +1,5 @@
 [title]
-In prezenta ta eu ma simt acasa {author: {Vitamina C}, {rcId: {2804}}
+In prezenta ta eu ma simt acasa {composer: {Vitamina C}, {rcId: {2804}}
 
 [sequence]
 v1,c,e

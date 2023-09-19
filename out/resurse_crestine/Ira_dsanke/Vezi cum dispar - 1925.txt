@@ -1,5 +1,5 @@
 [title]
-Vezi cum dispar {author: {Ira D.Sanke}, {rcId: {1925}}
+Vezi cum dispar {composer: {Ira D.Sanke}, {rcId: {1925}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

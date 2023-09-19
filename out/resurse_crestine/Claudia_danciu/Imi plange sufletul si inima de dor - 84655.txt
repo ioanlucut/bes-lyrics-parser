@@ -1,5 +1,5 @@
 [title]
-Imi plange sufletul si inima de dor {author: {Claudia Danciu}, {rcId: {84655}}
+Imi plange sufletul si inima de dor {composer: {Claudia Danciu}, {rcId: {84655}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

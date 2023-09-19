@@ -1,5 +1,5 @@
 [title]
-Da eu ma bucur {author: {Anonim}, {rcId: {105747}}
+Da eu ma bucur {composer: {Anonim}, {rcId: {105747}}
 
 [sequence]
 v1,c,v2,c,v3,c

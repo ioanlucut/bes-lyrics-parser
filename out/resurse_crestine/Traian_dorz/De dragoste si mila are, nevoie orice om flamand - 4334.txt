@@ -1,5 +1,5 @@
 [title]
-De dragoste si mila are nevoie orice om flamand {author: {Traian Dorz}, {rcId: {4334}}
+De dragoste si mila are nevoie orice om flamand {composer: {Traian Dorz}, {rcId: {4334}}
 
 [sequence]
 v1,v2,v3,v4,v5

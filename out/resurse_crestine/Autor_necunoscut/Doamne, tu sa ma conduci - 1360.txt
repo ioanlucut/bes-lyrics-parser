@@ -1,5 +1,5 @@
 [title]
-Doamne tu sa ma conduci {author: {Anonim}, {rcId: {1360}}
+Doamne tu sa ma conduci {composer: {Anonim}, {rcId: {1360}}
 
 [sequence]
 v1,c,v2,c,v3,c

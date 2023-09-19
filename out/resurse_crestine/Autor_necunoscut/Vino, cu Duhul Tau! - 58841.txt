@@ -1,5 +1,5 @@
 [title]
-Vino cu duhul tau {author: {Anonim}, {rcId: {58841}}
+Vino cu duhul tau {composer: {Anonim}, {rcId: {58841}}
 
 [sequence]
 v1,v2,v3

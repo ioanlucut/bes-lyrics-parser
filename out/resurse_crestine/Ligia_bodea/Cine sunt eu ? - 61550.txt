@@ -1,5 +1,5 @@
 [title]
-Cine sunt eu ? {author: {Ligia Bodea.}, {rcId: {61550}}
+Cine sunt eu ? {composer: {Ligia Bodea.}, {rcId: {61550}}
 
 [sequence]
 v1,c,v2,c,v3,c

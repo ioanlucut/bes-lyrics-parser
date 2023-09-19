@@ -1,5 +1,5 @@
 [title]
-Trecut-au anii {author: {Sorin, Daniela Piu // Sami, Clara Lupu}, {rcId: {239078}}
+Trecut-au anii {composer: {Sorin, Daniela Piu // Sami, Clara Lupu}, {rcId: {239078}}
 
 [sequence]
 v1,c,v2,c,v3,c

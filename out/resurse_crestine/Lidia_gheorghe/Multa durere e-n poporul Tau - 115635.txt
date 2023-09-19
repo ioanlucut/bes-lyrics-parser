@@ -1,5 +1,5 @@
 [title]
-Multa durere e-n poporul tau {author: {Lidia Gheorghe}, {rcId: {115635}}
+Multa durere e-n poporul tau {composer: {Lidia Gheorghe}, {rcId: {115635}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

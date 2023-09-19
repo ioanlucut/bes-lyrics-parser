@@ -1,5 +1,5 @@
 [title]
-Porti vesnice va ridicati (macht hoch die t"ur) {author: {Georg Weissel, Traducere RO}, {rcId: {168498}}
+Porti vesnice va ridicati (macht hoch die t"ur) {composer: {Georg Weissel, Traducere RO}, {rcId: {168498}}
 
 [sequence]
 v1,v2,v3

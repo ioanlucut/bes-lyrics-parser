@@ -1,5 +1,5 @@
 [title]
-Hristos e stanca cea din vesnicie {author: {Necunoscut}, {rcId: {169402}}
+Hristos e stanca cea din vesnicie {composer: {Necunoscut}, {rcId: {169402}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-O doamne rasplateste {author: {Nicolae Moldoveanu}, {rcId: {246368}}
+O doamne rasplateste {composer: {Nicolae Moldoveanu}, {rcId: {246368}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Adu doamne vremea iar {author: {Anonim}, {rcId: {177580}}
+Adu doamne vremea iar {composer: {Anonim}, {rcId: {177580}}
 
 [sequence]
 v1,c,v2,c,v3,c

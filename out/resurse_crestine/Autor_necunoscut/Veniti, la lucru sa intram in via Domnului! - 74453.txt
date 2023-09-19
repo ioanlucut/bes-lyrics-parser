@@ -1,5 +1,5 @@
 [title]
-Veniti la lucru sa intram in via domnului {author: {Anonim}, {rcId: {74453}}
+Veniti la lucru sa intram in via domnului {composer: {Anonim}, {rcId: {74453}}
 
 [sequence]
 v1,c,v2,c,v3,c

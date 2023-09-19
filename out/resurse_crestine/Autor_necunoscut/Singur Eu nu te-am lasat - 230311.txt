@@ -1,5 +1,5 @@
 [title]
-Singur eu nu te-am lasat {author: {Album necunoscut}, {rcId: {230311}}
+Singur eu nu te-am lasat {composer: {Album necunoscut}, {rcId: {230311}}
 
 [sequence]
 v1,c,v2,c,v3,c

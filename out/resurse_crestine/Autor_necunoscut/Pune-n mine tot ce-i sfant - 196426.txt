@@ -1,5 +1,5 @@
 [title]
-Pune-n mine tot ce-i sfant {author: {Anonim}, {rcId: {196426}}
+Pune-n mine tot ce-i sfant {composer: {Anonim}, {rcId: {196426}}
 
 [sequence]
 v1,v2,v3

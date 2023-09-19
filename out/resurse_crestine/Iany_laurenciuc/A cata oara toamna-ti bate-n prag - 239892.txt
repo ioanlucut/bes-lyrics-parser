@@ -1,5 +1,5 @@
 [title]
-A cata oara toamna-ti bate-n prag {author: {Iany Laurenciuc}, {rcId: {239892}}
+A cata oara toamna-ti bate-n prag {composer: {Iany Laurenciuc}, {rcId: {239892}}
 
 [sequence]
 v1,c,v2,c,e

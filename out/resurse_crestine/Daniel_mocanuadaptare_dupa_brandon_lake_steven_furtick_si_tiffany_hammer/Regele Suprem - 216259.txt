@@ -1,5 +1,5 @@
 [title]
-Regele suprem {author: {Daniel Mocanuadaptare după Brandon Lake, Steven Furtick și Tiffany Hammer}, {rcId: {216259}}
+Regele suprem {composer: {Daniel Mocanuadaptare după Brandon Lake, Steven Furtick și Tiffany Hammer}, {rcId: {216259}}
 
 [sequence]
 v1,c,v2,c2,v3,c2,c3

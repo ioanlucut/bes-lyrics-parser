@@ -1,5 +1,5 @@
 [title]
-Mai alba ca neaua {author: {Nicolae Moldoveanu}, {rcId: {242726}}
+Mai alba ca neaua {composer: {Nicolae Moldoveanu}, {rcId: {242726}}
 
 [sequence]
 v1,v2,v3,v4,v5

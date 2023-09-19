@@ -1,5 +1,5 @@
 [title]
-Acum e timpul potrivit {author: {Nicolae Moldoveanu}, {rcId: {246278}}
+Acum e timpul potrivit {composer: {Nicolae Moldoveanu}, {rcId: {246278}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Ma uit spre cerul luminos {author: {Anonim}, {rcId: {222967}}
+Ma uit spre cerul luminos {composer: {Anonim}, {rcId: {222967}}
 
 [sequence]
 v1,v2,v3,v4,v5

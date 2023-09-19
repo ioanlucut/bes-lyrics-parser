@@ -1,5 +1,5 @@
 [title]
-Viata mea isus {author: {Dumitru Vasile}, {rcId: {220235}}
+Viata mea isus {composer: {Dumitru Vasile}, {rcId: {220235}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Ce minunat s-auzi cantand {author: {Anonim}, {rcId: {156333}}
+Ce minunat s-auzi cantand {composer: {Anonim}, {rcId: {156333}}
 
 [sequence]
 v1,c,v2,c

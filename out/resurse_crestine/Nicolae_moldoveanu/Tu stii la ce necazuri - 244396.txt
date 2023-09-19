@@ -1,5 +1,5 @@
 [title]
-Tu stii la ce necazuri {author: {Nicolae Moldoveanu}, {rcId: {244396}}
+Tu stii la ce necazuri {composer: {Nicolae Moldoveanu}, {rcId: {244396}}
 
 [sequence]
 v1,v2,v3,v4,v5

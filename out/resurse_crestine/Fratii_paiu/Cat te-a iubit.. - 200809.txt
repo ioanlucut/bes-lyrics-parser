@@ -1,5 +1,5 @@
 [title]
-Cat te-a iubit {author: {Frații Paiu}, {rcId: {200809}}
+Cat te-a iubit {composer: {Frații Paiu}, {rcId: {200809}}
 
 [sequence]
 v1,c,v2,c,v3,c

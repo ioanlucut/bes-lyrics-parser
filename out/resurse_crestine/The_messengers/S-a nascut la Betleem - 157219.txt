@@ -1,5 +1,5 @@
 [title]
-S-a nascut la betleem {author: {The Messengers}, {rcId: {157219}}
+S-a nascut la betleem {composer: {The Messengers}, {rcId: {157219}}
 
 [sequence]
 v1,c,v2,c

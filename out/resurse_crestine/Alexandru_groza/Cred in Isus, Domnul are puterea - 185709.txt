@@ -1,5 +1,5 @@
 [title]
-Cred in isus domnul are puterea {author: {Alexandru Groza}, {rcId: {185709}}
+Cred in isus domnul are puterea {composer: {Alexandru Groza}, {rcId: {185709}}
 
 [sequence]
 v1,c,v2,c

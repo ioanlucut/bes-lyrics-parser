@@ -1,5 +1,5 @@
 [title]
-Mi-e dor de iubirea ta {author: {Miriam Popescu}, {rcId: {211220}}
+Mi-e dor de iubirea ta {composer: {Miriam Popescu}, {rcId: {211220}}
 
 [sequence]
 v1,c,v2,c,v3,c

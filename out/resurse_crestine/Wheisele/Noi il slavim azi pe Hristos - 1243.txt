@@ -1,5 +1,5 @@
 [title]
-Noi il slavim azi pe hristos {author: {W.H.Eisele}, {rcId: {1243}}
+Noi il slavim azi pe hristos {composer: {W.H.Eisele}, {rcId: {1243}}
 
 [sequence]
 v1,c,v2,c,v3,c

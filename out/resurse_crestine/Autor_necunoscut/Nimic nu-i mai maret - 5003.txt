@@ -1,5 +1,5 @@
 [title]
-Nimic nu-i mai maret {author: {Anonim}, {rcId: {5003}}
+Nimic nu-i mai maret {composer: {Anonim}, {rcId: {5003}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-De n-ai fi tun-ar fi nici ziua {author: {Nicolae Moldoveanu}, {rcId: {220859}}
+De n-ai fi tun-ar fi nici ziua {composer: {Nicolae Moldoveanu}, {rcId: {220859}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

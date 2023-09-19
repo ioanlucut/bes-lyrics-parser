@@ -1,5 +1,5 @@
 [title]
-Vino la isus {author: {Anonim}, {rcId: {62632}}
+Vino la isus {composer: {Anonim}, {rcId: {62632}}
 
 [sequence]
 v1,c

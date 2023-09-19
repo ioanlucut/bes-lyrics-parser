@@ -1,5 +1,5 @@
 [title]
-Cine sunt imbracati in haine albe {author: {Anonim}, {rcId: {208942}}
+Cine sunt imbracati in haine albe {composer: {Anonim}, {rcId: {208942}}
 
 [sequence]
 v1,c,v2,c,v3,c

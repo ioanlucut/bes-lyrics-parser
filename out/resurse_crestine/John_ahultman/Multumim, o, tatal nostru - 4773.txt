@@ -1,5 +1,5 @@
 [title]
-Multumim o tatal nostru {author: {John A.Hultman}, {rcId: {4773}}
+Multumim o tatal nostru {composer: {John A.Hultman}, {rcId: {4773}}
 
 [sequence]
 v1,v2,v3

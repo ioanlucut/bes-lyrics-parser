@@ -1,5 +1,5 @@
 [title]
-Curat nevinovat {author: {The Messengers}, {rcId: {4324}}
+Curat nevinovat {composer: {The Messengers}, {rcId: {4324}}
 
 [sequence]
 v1,c

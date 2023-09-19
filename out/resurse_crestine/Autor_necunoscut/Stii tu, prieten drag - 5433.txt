@@ -1,5 +1,5 @@
 [title]
-Stii tu prieten drag {author: {Anonim}, {rcId: {5433}}
+Stii tu prieten drag {composer: {Anonim}, {rcId: {5433}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Du-ma in ghetsimani {author: {Nicu Cozma}, {rcId: {189279}}
+Du-ma in ghetsimani {composer: {Nicu Cozma}, {rcId: {189279}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

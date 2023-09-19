@@ -1,5 +1,5 @@
 [title]
-Zi de zi {author: {Matt Redman}, {rcId: {5150}}
+Zi de zi {composer: {Matt Redman}, {rcId: {5150}}
 
 [sequence]
 v1,c,e

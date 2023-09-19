@@ -1,5 +1,5 @@
 [title]
-Striga ca orbul bartimeu {author: {Maria Șimon}, {rcId: {208750}}
+Striga ca orbul bartimeu {composer: {Maria Șimon}, {rcId: {208750}}
 
 [sequence]
 v1,c,v2,c,v3,c

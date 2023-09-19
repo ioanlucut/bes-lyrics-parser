@@ -1,5 +1,5 @@
 [title]
-Ma plec isus {author: {Puiu și Beni Chibici}, {rcId: {239882}}
+Ma plec isus {composer: {Puiu și Beni Chibici}, {rcId: {239882}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Cine a crezut ? {author: {Sami Lupu}, {rcId: {223876}}
+Cine a crezut ? {composer: {Sami Lupu}, {rcId: {223876}}
 
 [sequence]
 v1,c,v2,c,e

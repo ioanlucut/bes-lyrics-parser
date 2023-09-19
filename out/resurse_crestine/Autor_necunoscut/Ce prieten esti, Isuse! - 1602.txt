@@ -1,5 +1,5 @@
 [title]
-Ce prieten esti isuse {author: {Anonim}, {rcId: {1602}}
+Ce prieten esti isuse {composer: {Anonim}, {rcId: {1602}}
 
 [sequence]
 v1,v2,v3

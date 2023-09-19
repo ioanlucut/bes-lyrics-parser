@@ -1,5 +1,5 @@
 [title]
-Tu-mi esti ce-am cautat {author: {Narcisa}, {rcId: {5966}}
+Tu-mi esti ce-am cautat {composer: {Narcisa}, {rcId: {5966}}
 
 [sequence]
 v1,c,v2,c

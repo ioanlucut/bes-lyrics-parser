@@ -1,5 +1,5 @@
 [title]
-Inaintea mielului curand vom sta {author: {Anonim}, {rcId: {74472}}
+Inaintea mielului curand vom sta {composer: {Anonim}, {rcId: {74472}}
 
 [sequence]
 v1,c

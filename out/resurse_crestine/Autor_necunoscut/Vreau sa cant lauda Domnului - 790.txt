@@ -1,5 +1,5 @@
 [title]
-Vreau sa cant lauda domnului {author: {Anonim}, {rcId: {790}}
+Vreau sa cant lauda domnului {composer: {Anonim}, {rcId: {790}}
 
 [sequence]
 c,v1,c,v2,c

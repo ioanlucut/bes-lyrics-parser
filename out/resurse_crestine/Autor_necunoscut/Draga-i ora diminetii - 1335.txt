@@ -1,5 +1,5 @@
 [title]
-Draga-i ora diminetii {author: {Anonim}, {rcId: {1335}}
+Draga-i ora diminetii {composer: {Anonim}, {rcId: {1335}}
 
 [sequence]
 v1,v2,v3

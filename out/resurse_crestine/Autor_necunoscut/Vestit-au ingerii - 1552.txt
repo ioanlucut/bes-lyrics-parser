@@ -1,5 +1,5 @@
 [title]
-Vestit-au ingerii {author: {Anonim}, {rcId: {1552}}
+Vestit-au ingerii {composer: {Anonim}, {rcId: {1552}}
 
 [sequence]
 v1,c,v2,c,v3,c

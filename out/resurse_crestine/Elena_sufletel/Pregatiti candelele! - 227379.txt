@@ -1,5 +1,5 @@
 [title]
-Pregatiti candelele {author: {Elena Sufletel}, {rcId: {227379}}
+Pregatiti candelele {composer: {Elena Sufletel}, {rcId: {227379}}
 
 [sequence]
 v1,c,v2,c,v3,c

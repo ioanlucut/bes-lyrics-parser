@@ -1,5 +1,5 @@
 [title]
-Spre ceruri urca frate {author: {Speranța}, {rcId: {111310}}
+Spre ceruri urca frate {composer: {Speranța}, {rcId: {111310}}
 
 [sequence]
 v1,c,v2,c2,c3

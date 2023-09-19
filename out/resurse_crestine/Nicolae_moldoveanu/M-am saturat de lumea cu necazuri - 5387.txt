@@ -1,5 +1,5 @@
 [title]
-M-am saturat de lumea cu necazuri {author: {Nicolae Moldoveanu}, {rcId: {5387}}
+M-am saturat de lumea cu necazuri {composer: {Nicolae Moldoveanu}, {rcId: {5387}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

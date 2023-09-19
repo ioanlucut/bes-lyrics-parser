@@ -1,5 +1,5 @@
 [title]
-Cand stiu ca toate aici {author: {Puiu Chibici}, {rcId: {151424}}
+Cand stiu ca toate aici {composer: {Puiu Chibici}, {rcId: {151424}}
 
 [sequence]
 v1,c,v2,c,v3,c

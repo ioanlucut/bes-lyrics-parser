@@ -1,5 +1,5 @@
 [title]
-Maretul har {author: {John Newton, Traducere Pitt Popovici}, {rcId: {1732}}
+Maretul har {composer: {John Newton, Traducere Pitt Popovici}, {rcId: {1732}}
 
 [sequence]
 v1,v2,v3,v4

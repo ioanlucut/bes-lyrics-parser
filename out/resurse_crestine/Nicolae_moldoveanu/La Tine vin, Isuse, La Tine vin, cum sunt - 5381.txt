@@ -1,5 +1,5 @@
 [title]
-La tine vin isuse la tine vin cum sunt {author: {Nicolae Moldoveanu}, {rcId: {5381}}
+La tine vin isuse la tine vin cum sunt {composer: {Nicolae Moldoveanu}, {rcId: {5381}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

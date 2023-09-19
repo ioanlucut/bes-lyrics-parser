@@ -1,5 +1,5 @@
 [title]
-Vom pastra credinta sfintilor {author: {Compozitor: Corneliu Matei}, {rcId: {201357}}
+Vom pastra credinta sfintilor {composer: {Compozitor: Corneliu Matei}, {rcId: {201357}}
 
 [sequence]
 v1,c,v2,c,e

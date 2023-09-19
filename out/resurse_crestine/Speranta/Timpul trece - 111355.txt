@@ -1,5 +1,5 @@
 [title]
-Timpul trece {author: {Speranța}, {rcId: {111355}}
+Timpul trece {composer: {Speranța}, {rcId: {111355}}
 
 [sequence]
 v1,c,v2,c

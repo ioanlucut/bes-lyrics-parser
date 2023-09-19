@@ -1,5 +1,5 @@
 [title]
-Am vrut sa-ti multumesc isuse {author: {Anonim}, {rcId: {128134}}
+Am vrut sa-ti multumesc isuse {composer: {Anonim}, {rcId: {128134}}
 
 [sequence]
 v1,v2,v3,v4

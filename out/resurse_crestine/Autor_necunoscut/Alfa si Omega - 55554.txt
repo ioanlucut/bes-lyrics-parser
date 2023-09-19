@@ -1,5 +1,5 @@
 [title]
-Alfa si omega {author: {Anonim}, {rcId: {55554}}
+Alfa si omega {composer: {Anonim}, {rcId: {55554}}
 
 [sequence]
 v1,c,v2,c,v3,c

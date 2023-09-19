@@ -1,5 +1,5 @@
 [title]
-Iehova nissi {author: {IHOP, TM}, {rcId: {232878}}
+Iehova nissi {composer: {IHOP, TM}, {rcId: {232878}}
 
 [sequence]
 v1,c,v1,c,e,e2

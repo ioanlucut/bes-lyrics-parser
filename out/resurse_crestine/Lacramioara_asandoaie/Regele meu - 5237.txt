@@ -1,5 +1,5 @@
 [title]
-Regele meu {author: {Lăcrămioara Asăndoaie}, {rcId: {5237}}
+Regele meu {composer: {Lăcrămioara Asăndoaie}, {rcId: {5237}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

@@ -1,5 +1,5 @@
 [title]
-Ascultare leagan dulce {author: {Nicolae Moldoveanu}, {rcId: {241994}}
+Ascultare leagan dulce {composer: {Nicolae Moldoveanu}, {rcId: {241994}}
 
 [sequence]
 v1,v2,v3,v4

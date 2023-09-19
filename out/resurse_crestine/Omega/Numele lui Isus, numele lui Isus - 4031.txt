@@ -1,5 +1,5 @@
 [title]
-Numele lui isus numele lui isus {author: {Omega}, {rcId: {4031}}
+Numele lui isus numele lui isus {composer: {Omega}, {rcId: {4031}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Un strop din frumusetea ta {author: {Emma}, {rcId: {112945}}
+Un strop din frumusetea ta {composer: {Emma}, {rcId: {112945}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Yehova ire {author: {Anonim}, {rcId: {236576}}
+Yehova ire {composer: {Anonim}, {rcId: {236576}}
 
 [sequence]
 c,v1,c

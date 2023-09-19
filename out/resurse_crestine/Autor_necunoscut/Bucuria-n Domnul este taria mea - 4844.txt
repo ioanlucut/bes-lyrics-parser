@@ -1,5 +1,5 @@
 [title]
-Bucuria-n domnul este taria mea {author: {Anonim}, {rcId: {4844}}
+Bucuria-n domnul este taria mea {composer: {Anonim}, {rcId: {4844}}
 
 [sequence]
 v1,v2,v3,v4

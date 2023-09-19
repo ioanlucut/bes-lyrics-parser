@@ -1,5 +1,5 @@
 [title]
-Te-nalt doamne pururi caci m-ai ridicat {author: {Nicolae Moldoveanu}, {rcId: {5952}}
+Te-nalt doamne pururi caci m-ai ridicat {composer: {Nicolae Moldoveanu}, {rcId: {5952}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

@@ -1,5 +1,5 @@
 [title]
-La porti de margarit (inside those pearly gates) {author: {Ira F. Stanphill, Traducere RO}, {rcId: {208801}}
+La porti de margarit (inside those pearly gates) {composer: {Ira F. Stanphill, Traducere RO}, {rcId: {208801}}
 
 [sequence]
 v1,v2

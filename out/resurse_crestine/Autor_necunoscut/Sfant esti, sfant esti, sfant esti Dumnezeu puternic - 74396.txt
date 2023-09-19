@@ -1,5 +1,5 @@
 [title]
-Sfant esti sfant esti sfant esti dumnezeu puternic {author: {Anonim}, {rcId: {74396}}
+Sfant esti sfant esti sfant esti dumnezeu puternic {composer: {Anonim}, {rcId: {74396}}
 
 [sequence]
 v1,v2,v3,v4

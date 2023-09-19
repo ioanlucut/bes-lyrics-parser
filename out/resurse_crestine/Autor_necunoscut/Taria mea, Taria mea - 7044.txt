@@ -1,5 +1,5 @@
 [title]
-Taria mea taria mea {author: {Anonim}, {rcId: {7044}}
+Taria mea taria mea {composer: {Anonim}, {rcId: {7044}}
 
 [sequence]
 v1,v2,v3,v4

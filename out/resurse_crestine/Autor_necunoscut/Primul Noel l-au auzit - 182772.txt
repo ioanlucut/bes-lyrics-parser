@@ -1,5 +1,5 @@
 [title]
-Primul noel l-au auzit {author: {Necunoscut}, {rcId: {182772}}
+Primul noel l-au auzit {composer: {Necunoscut}, {rcId: {182772}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

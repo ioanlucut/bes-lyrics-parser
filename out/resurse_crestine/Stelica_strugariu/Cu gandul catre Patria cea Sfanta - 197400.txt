@@ -1,5 +1,5 @@
 [title]
-Cu gandul catre patria cea sfanta {author: {Stelica Strugariu}, {rcId: {197400}}
+Cu gandul catre patria cea sfanta {composer: {Stelica Strugariu}, {rcId: {197400}}
 
 [sequence]
 v1,c,v2,c,v3,c

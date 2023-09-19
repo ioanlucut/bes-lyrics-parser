@@ -1,5 +1,5 @@
 [title]
-Plange sus pe cruce {author: {Daniel Hartie}, {rcId: {112922}}
+Plange sus pe cruce {composer: {Daniel Hartie}, {rcId: {112922}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

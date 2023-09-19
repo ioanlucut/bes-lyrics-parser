@@ -1,5 +1,5 @@
 [title]
-Viata mea ti-o inchin {author: {Anonim}, {rcId: {218714}}
+Viata mea ti-o inchin {composer: {Anonim}, {rcId: {218714}}
 
 [sequence]
 v1,v2,c,v3,v4,c

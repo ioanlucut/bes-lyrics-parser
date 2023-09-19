@@ -1,5 +1,5 @@
 [title]
-Fiecare zi e un dar {author: {Rahela Goagără}, {rcId: {152064}}
+Fiecare zi e un dar {composer: {Rahela Goagără}, {rcId: {152064}}
 
 [sequence]
 v1,c,v2,c,b,c

@@ -1,5 +1,5 @@
 [title]
-Aleg sa cred {author: {Grupul Eldad}, {rcId: {233596}}
+Aleg sa cred {composer: {Grupul Eldad}, {rcId: {233596}}
 
 [sequence]
 v1,c,v2,c

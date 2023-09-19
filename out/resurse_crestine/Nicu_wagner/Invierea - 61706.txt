@@ -1,5 +1,5 @@
 [title]
-Invierea {author: {Nicu Wagner}, {rcId: {61706}}
+Invierea {composer: {Nicu Wagner}, {rcId: {61706}}
 
 [sequence]
 v1,c,v2,c2,v3,c2

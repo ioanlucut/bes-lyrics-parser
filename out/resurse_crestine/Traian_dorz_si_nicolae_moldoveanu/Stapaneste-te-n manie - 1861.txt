@@ -1,5 +1,5 @@
 [title]
-Stapaneste-te-n manie {author: {Traian Dorz si Nicolae Moldoveanu}, {rcId: {1861}}
+Stapaneste-te-n manie {composer: {Traian Dorz si Nicolae Moldoveanu}, {rcId: {1861}}
 
 [sequence]
 v1,v2,v3,v4

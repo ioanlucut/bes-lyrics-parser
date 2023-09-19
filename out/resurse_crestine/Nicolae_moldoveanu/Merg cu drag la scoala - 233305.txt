@@ -1,5 +1,5 @@
 [title]
-Merg cu drag la scoala {author: {Nicolae Moldoveanu}, {rcId: {233305}}
+Merg cu drag la scoala {composer: {Nicolae Moldoveanu}, {rcId: {233305}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Intr-o iesle colo jos {author: {Grupul Voces}, {rcId: {221779}}
+Intr-o iesle colo jos {composer: {Grupul Voces}, {rcId: {221779}}
 
 [sequence]
 v1,v2,v3,b,e

@@ -1,5 +1,5 @@
 [title]
-Fara sfarsit {author: {Anonim}, {rcId: {3887}}
+Fara sfarsit {composer: {Anonim}, {rcId: {3887}}
 
 [sequence]
 v1,c,e

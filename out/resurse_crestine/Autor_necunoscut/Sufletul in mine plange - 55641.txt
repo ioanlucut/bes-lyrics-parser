@@ -1,5 +1,5 @@
 [title]
-Sufletul in mine plange {author: {Anonim}, {rcId: {55641}}
+Sufletul in mine plange {composer: {Anonim}, {rcId: {55641}}
 
 [sequence]
 v1,c,v2,c,v3,c

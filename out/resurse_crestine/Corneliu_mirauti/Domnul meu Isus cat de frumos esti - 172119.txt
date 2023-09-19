@@ -1,5 +1,5 @@
 [title]
-Domnul meu isus cat de frumos esti {author: {Corneliu Mirăuți}, {rcId: {172119}}
+Domnul meu isus cat de frumos esti {composer: {Corneliu Mirăuți}, {rcId: {172119}}
 
 [sequence]
 v1,v2,v3,v4

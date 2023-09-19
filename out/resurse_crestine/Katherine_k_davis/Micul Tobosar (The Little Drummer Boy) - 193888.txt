@@ -1,5 +1,5 @@
 [title]
-Micul tobosar (the little drummer boy) {author: {Katherine K. Davis, Traducere RO}, {rcId: {193888}}
+Micul tobosar (the little drummer boy) {composer: {Katherine K. Davis, Traducere RO}, {rcId: {193888}}
 
 [sequence]
 v1,v2,v3,s

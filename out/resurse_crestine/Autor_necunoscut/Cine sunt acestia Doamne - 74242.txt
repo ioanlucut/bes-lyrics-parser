@@ -1,5 +1,5 @@
 [title]
-Cine sunt acestia doamne {author: {Anonim}, {rcId: {74242}}
+Cine sunt acestia doamne {composer: {Anonim}, {rcId: {74242}}
 
 [sequence]
 v1,v2,v3,v4,v5

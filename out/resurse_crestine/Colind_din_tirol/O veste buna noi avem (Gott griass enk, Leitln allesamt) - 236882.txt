@@ -1,5 +1,5 @@
 [title]
-O veste buna noi avem (gott griass enk leitln allesamt) {author: {Colind din Tirol, Traducere RO}, {rcId: {236882}}
+O veste buna noi avem (gott griass enk leitln allesamt) {composer: {Colind din Tirol, Traducere RO}, {rcId: {236882}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Te cheama iarasi astazi turma {author: {Anonim}, {rcId: {239062}}
+Te cheama iarasi astazi turma {composer: {Anonim}, {rcId: {239062}}
 
 [sequence]
 v1,v2,v3,v4,v5

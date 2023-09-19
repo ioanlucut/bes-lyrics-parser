@@ -1,5 +1,5 @@
 [title]
-Adevarat a inviat / imi canta inima - do min {author: {ed. Dan Istrate}, {rcId: {229702}}
+Adevarat a inviat / imi canta inima - do min {composer: {ed. Dan Istrate}, {rcId: {229702}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

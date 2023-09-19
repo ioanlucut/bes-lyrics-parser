@@ -1,5 +1,5 @@
 [title]
-Nu glumiti cu pocainta {author: {Otniel Stirb}, {rcId: {180610}}
+Nu glumiti cu pocainta {composer: {Otniel Stirb}, {rcId: {180610}}
 
 [sequence]
 v1,c,v2,c,v3,c

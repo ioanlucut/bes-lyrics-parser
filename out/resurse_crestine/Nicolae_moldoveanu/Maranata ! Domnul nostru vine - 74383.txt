@@ -1,5 +1,5 @@
 [title]
-Maranata domnul nostru vine {author: {Nicolae Moldoveanu}, {rcId: {74383}}
+Maranata domnul nostru vine {composer: {Nicolae Moldoveanu}, {rcId: {74383}}
 
 [sequence]
 v1,v2,v3

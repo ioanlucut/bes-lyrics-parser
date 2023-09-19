@@ -1,5 +1,5 @@
 [title]
-Pamantul sta in asteptare {author: {Exodul}, {rcId: {187862}}
+Pamantul sta in asteptare {composer: {Exodul}, {rcId: {187862}}
 
 [sequence]
 v1,c,v2,c,v3,c

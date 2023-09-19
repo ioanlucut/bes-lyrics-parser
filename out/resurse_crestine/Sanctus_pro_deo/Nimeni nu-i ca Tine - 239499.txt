@@ -1,5 +1,5 @@
 [title]
-Nimeni nu-i ca tine {author: {Sanctus Pro Deo}, {rcId: {239499}}
+Nimeni nu-i ca tine {composer: {Sanctus Pro Deo}, {rcId: {239499}}
 
 [sequence]
 v1,b,c,v2,c,e

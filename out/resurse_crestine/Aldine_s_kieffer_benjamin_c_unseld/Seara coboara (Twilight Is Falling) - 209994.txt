@@ -1,5 +1,5 @@
 [title]
-Seara coboara (twilight is falling) {author: {Aldine S. Kieffer, Benjamin C. Unseld, Traducere RO}, {rcId: {209994}}
+Seara coboara (twilight is falling) {composer: {Aldine S. Kieffer, Benjamin C. Unseld, Traducere RO}, {rcId: {209994}}
 
 [sequence]
 v1,c,v2,c,v3,c

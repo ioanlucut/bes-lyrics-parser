@@ -1,5 +1,5 @@
 [title]
-Sus pe cruce la golgota {author: {Alexandru Groza}, {rcId: {185480}}
+Sus pe cruce la golgota {composer: {Alexandru Groza}, {rcId: {185480}}
 
 [sequence]
 v1,c,v2,c,e

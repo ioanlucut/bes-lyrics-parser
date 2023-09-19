@@ -1,5 +1,5 @@
 [title]
-Nu la intamplare sunt {author: {Anonim}, {rcId: {1500}}
+Nu la intamplare sunt {composer: {Anonim}, {rcId: {1500}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

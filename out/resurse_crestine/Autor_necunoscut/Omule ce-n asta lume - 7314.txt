@@ -1,5 +1,5 @@
 [title]
-Omule ce-n asta lume {author: {Anonim}, {rcId: {7314}}
+Omule ce-n asta lume {composer: {Anonim}, {rcId: {7314}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

@@ -1,5 +1,5 @@
 [title]
-Azi cantam cu toti {author: {Anonim}, {rcId: {229009}}
+Azi cantam cu toti {composer: {Anonim}, {rcId: {229009}}
 
 [sequence]
 v1

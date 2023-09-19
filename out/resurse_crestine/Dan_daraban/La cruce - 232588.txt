@@ -1,5 +1,5 @@
 [title]
-La cruce {author: {Dan Daraban}, {rcId: {232588}}
+La cruce {composer: {Dan Daraban}, {rcId: {232588}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c,v5,c

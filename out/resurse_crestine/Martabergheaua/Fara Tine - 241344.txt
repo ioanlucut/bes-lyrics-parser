@@ -1,5 +1,5 @@
 [title]
-Fara tine {author: {Marta_Bergheaua}, {rcId: {241344}}
+Fara tine {composer: {Marta_Bergheaua}, {rcId: {241344}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

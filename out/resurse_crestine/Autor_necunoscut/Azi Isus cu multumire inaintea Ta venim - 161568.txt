@@ -1,5 +1,5 @@
 [title]
-Azi isus cu multumire inaintea ta venim {author: {Anonim}, {rcId: {161568}}
+Azi isus cu multumire inaintea ta venim {composer: {Anonim}, {rcId: {161568}}
 
 [sequence]
 v1,c,v2,c,v3,c

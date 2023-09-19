@@ -1,5 +1,5 @@
 [title]
-Viata mea {author: {Măslinu’}, {rcId: {78329}}
+Viata mea {composer: {Măslinu’}, {rcId: {78329}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Laudati puterea lui isus {author: {Olivier Holden}, {rcId: {1282}}
+Laudati puterea lui isus {composer: {Olivier Holden}, {rcId: {1282}}
 
 [sequence]
 v1,v2,v3,v4

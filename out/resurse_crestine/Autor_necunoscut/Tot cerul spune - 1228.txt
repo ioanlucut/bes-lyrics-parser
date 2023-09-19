@@ -1,5 +1,5 @@
 [title]
-Tot cerul spune {author: {Anonim}, {rcId: {1228}}
+Tot cerul spune {composer: {Anonim}, {rcId: {1228}}
 
 [sequence]
 v1,v2

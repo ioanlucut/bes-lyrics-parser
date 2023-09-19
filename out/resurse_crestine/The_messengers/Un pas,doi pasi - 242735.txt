@@ -1,5 +1,5 @@
 [title]
-Un pasdoi pasi {author: {The Messengers}, {rcId: {242735}}
+Un pasdoi pasi {composer: {The Messengers}, {rcId: {242735}}
 
 [sequence]
 v1,c,v2,c,v3,c

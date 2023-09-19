@@ -1,5 +1,5 @@
 [title]
-N-am sa uit isuse doamne niciodata {author: {Nicolae Moldoveanu}, {rcId: {5853}}
+N-am sa uit isuse doamne niciodata {composer: {Nicolae Moldoveanu}, {rcId: {5853}}
 
 [sequence]
 v1,v2,v3

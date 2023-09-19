@@ -1,5 +1,5 @@
 [title]
-Bun e domnul {author: {Anonim}, {rcId: {7125}}
+Bun e domnul {composer: {Anonim}, {rcId: {7125}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

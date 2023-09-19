@@ -1,5 +1,5 @@
 [title]
-Zi de sarbatoare {author: {Gabi_Ilut}, {rcId: {241249}}
+Zi de sarbatoare {composer: {Gabi_Ilut}, {rcId: {241249}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

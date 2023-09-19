@@ -1,5 +1,5 @@
 [title]
-Soapte {author: {Marius Livanu}, {rcId: {6307}}
+Soapte {composer: {Marius Livanu}, {rcId: {6307}}
 
 [sequence]
 v1,c,c,v2,c,c

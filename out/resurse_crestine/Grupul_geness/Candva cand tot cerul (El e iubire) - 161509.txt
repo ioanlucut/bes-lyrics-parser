@@ -1,5 +1,5 @@
 [title]
-Candva cand tot cerul (el e iubire) {author: {Grupul Geness}, {rcId: {161509}}
+Candva cand tot cerul (el e iubire) {composer: {Grupul Geness}, {rcId: {161509}}
 
 [sequence]
 v1,c,v2,c,v3,c,c

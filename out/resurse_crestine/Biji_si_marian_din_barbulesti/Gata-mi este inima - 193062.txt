@@ -1,5 +1,5 @@
 [title]
-Gata-mi este inima {author: {Biji si Marian din Barbulesti}, {rcId: {193062}}
+Gata-mi este inima {composer: {Biji si Marian din Barbulesti}, {rcId: {193062}}
 
 [sequence]
 v1,c,v2,c

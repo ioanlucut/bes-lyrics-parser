@@ -1,5 +1,5 @@
 [title]
-Sa nu ceri iubire {author: {Nicolae Moldoveanu}, {rcId: {246519}}
+Sa nu ceri iubire {composer: {Nicolae Moldoveanu}, {rcId: {246519}}
 
 [sequence]
 v1,v2,v3,v4,v5

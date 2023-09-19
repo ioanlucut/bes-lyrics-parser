@@ -1,5 +1,5 @@
 [title]
-Unde-ai sa fugi {author: {Frații Wagner}, {rcId: {162029}}
+Unde-ai sa fugi {composer: {Frații Wagner}, {rcId: {162029}}
 
 [sequence]
 v1,c,v2,c,v3,c

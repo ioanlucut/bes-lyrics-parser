@@ -1,5 +1,5 @@
 [title]
-Ce bun e dumnezeu {author: {Narcisa P.}, {rcId: {75184}}
+Ce bun e dumnezeu {composer: {Narcisa P.}, {rcId: {75184}}
 
 [sequence]
 v1,v2,v3

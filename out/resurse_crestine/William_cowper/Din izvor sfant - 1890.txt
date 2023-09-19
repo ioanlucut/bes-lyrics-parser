@@ -1,5 +1,5 @@
 [title]
-Din izvor sfant {author: {William Cowper}, {rcId: {1890}}
+Din izvor sfant {composer: {William Cowper}, {rcId: {1890}}
 
 [sequence]
 v1,c,v2,c,v3,c

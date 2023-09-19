@@ -1,5 +1,5 @@
 [title]
-Esti in floarea vietii tale {author: {Anonim}, {rcId: {211819}}
+Esti in floarea vietii tale {composer: {Anonim}, {rcId: {211819}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

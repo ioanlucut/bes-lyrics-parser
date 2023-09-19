@@ -1,5 +1,5 @@
 [title]
-In zorii diminetii {author: {Popescu Mihai Neluș}, {rcId: {198131}}
+In zorii diminetii {composer: {Popescu Mihai Neluș}, {rcId: {198131}}
 
 [sequence]
 v1,c

@@ -1,5 +1,5 @@
 [title]
-E har ca sa fim impreuna {author: {Anonim}, {rcId: {172633}}
+E har ca sa fim impreuna {composer: {Anonim}, {rcId: {172633}}
 
 [sequence]
 v1,v2,v3,e

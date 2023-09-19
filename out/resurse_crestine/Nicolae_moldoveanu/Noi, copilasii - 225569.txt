@@ -1,5 +1,5 @@
 [title]
-Noi copilasii {author: {Nicolae Moldoveanu}, {rcId: {225569}}
+Noi copilasii {composer: {Nicolae Moldoveanu}, {rcId: {225569}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

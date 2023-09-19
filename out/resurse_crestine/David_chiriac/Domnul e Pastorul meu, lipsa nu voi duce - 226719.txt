@@ -1,5 +1,5 @@
 [title]
-Domnul e pastorul meu lipsa nu voi duce {author: {David Chiriac}, {rcId: {226719}}
+Domnul e pastorul meu lipsa nu voi duce {composer: {David Chiriac}, {rcId: {226719}}
 
 [sequence]
 v1,v2,v3,v4

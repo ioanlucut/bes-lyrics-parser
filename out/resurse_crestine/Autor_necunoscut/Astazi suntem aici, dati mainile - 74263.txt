@@ -1,5 +1,5 @@
 [title]
-Astazi suntem aici dati mainile {author: {Anonim}, {rcId: {74263}}
+Astazi suntem aici dati mainile {composer: {Anonim}, {rcId: {74263}}
 
 [sequence]
 v1,c,v2,c

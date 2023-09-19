@@ -1,5 +1,5 @@
 [title]
-Cum trece roua {author: {Nicolae Moldoveanu}, {rcId: {246070}}
+Cum trece roua {composer: {Nicolae Moldoveanu}, {rcId: {246070}}
 
 [sequence]
 v1,v2,v3

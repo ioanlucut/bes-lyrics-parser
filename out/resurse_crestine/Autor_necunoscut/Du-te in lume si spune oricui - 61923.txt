@@ -1,5 +1,5 @@
 [title]
-Du-te in lume si spune oricui {author: {Anonim}, {rcId: {61923}}
+Du-te in lume si spune oricui {composer: {Anonim}, {rcId: {61923}}
 
 [sequence]
 v1,c,v2,c2

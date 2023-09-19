@@ -1,5 +1,5 @@
 [title]
-Duhul sfant duhul sfant ne da pace pe pamant {author: {Ovidiu Liteanu}, {rcId: {219485}}
+Duhul sfant duhul sfant ne da pace pe pamant {composer: {Ovidiu Liteanu}, {rcId: {219485}}
 
 [sequence]
 v1,v2,v3,v4

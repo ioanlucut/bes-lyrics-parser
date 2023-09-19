@@ -1,5 +1,5 @@
 [title]
-Prunc preasfant {author: {Traian Niculai}, {rcId: {156191}}
+Prunc preasfant {composer: {Traian Niculai}, {rcId: {156191}}
 
 [sequence]
 v1,v2,v3,v4

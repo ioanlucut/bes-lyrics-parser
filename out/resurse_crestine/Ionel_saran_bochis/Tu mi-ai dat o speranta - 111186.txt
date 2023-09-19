@@ -1,5 +1,5 @@
 [title]
-Tu mi-ai dat o speranta {author: {Ionel Saran Bochis}, {rcId: {111186}}
+Tu mi-ai dat o speranta {composer: {Ionel Saran Bochis}, {rcId: {111186}}
 
 [sequence]
 v1,c,v2,c

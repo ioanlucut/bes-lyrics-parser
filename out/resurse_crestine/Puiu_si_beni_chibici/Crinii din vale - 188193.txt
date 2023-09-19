@@ -1,5 +1,5 @@
 [title]
-Crinii din vale {author: {Puiu și Beni Chibici}, {rcId: {188193}}
+Crinii din vale {composer: {Puiu și Beni Chibici}, {rcId: {188193}}
 
 [sequence]
 v1,v2,v3,v4

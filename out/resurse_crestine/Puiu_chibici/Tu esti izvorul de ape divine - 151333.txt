@@ -1,5 +1,5 @@
 [title]
-Tu esti izvorul de ape divine {author: {Puiu Chibici}, {rcId: {151333}}
+Tu esti izvorul de ape divine {composer: {Puiu Chibici}, {rcId: {151333}}
 
 [sequence]
 v1,c,v2,c2,v3,c2

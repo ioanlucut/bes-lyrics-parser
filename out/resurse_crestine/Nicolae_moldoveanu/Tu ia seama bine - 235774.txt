@@ -1,5 +1,5 @@
 [title]
-Tu ia seama bine {author: {Nicolae Moldoveanu}, {rcId: {235774}}
+Tu ia seama bine {composer: {Nicolae Moldoveanu}, {rcId: {235774}}
 
 [sequence]
 v1,v2,v3

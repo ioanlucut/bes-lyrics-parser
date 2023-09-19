@@ -1,5 +1,5 @@
 [title]
-Strange-ne sub aripa ta {author: {Anonim}, {rcId: {107622}}
+Strange-ne sub aripa ta {composer: {Anonim}, {rcId: {107622}}
 
 [sequence]
 c,v1,c,v2,b,c,v3,b,c

@@ -1,5 +1,5 @@
 [title]
-O inima inteleapta {author: {Adriana Stoica}, {rcId: {7237}}
+O inima inteleapta {composer: {Adriana Stoica}, {rcId: {7237}}
 
 [sequence]
 v1,c,v2,c,v3,c

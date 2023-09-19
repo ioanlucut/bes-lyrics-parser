@@ -1,5 +1,5 @@
 [title]
-Ne bucuram ca isus a inviat {author: {Utilizator Moldovan Florin}, {rcId: {4518}}
+Ne bucuram ca isus a inviat {composer: {Utilizator Moldovan Florin}, {rcId: {4518}}
 
 [sequence]
 v1,b,c,v2,c,e

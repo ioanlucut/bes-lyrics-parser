@@ -1,5 +1,5 @@
 [title]
-Vezi cum pasarelele {author: {Nicolae Moldoveanu}, {rcId: {5625}}
+Vezi cum pasarelele {composer: {Nicolae Moldoveanu}, {rcId: {5625}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

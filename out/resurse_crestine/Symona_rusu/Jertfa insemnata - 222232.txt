@@ -1,5 +1,5 @@
 [title]
-Jertfa insemnata {author: {Symona Rusu}, {rcId: {222232}}
+Jertfa insemnata {composer: {Symona Rusu}, {rcId: {222232}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

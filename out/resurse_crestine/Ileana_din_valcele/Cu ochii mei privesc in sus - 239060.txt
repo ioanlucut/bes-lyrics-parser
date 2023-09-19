@@ -1,5 +1,5 @@
 [title]
-Cu ochii mei privesc in sus {author: {Ileana din Vâlcele}, {rcId: {239060}}
+Cu ochii mei privesc in sus {composer: {Ileana din Vâlcele}, {rcId: {239060}}
 
 [sequence]
 v1,c,v2,c,v3,c

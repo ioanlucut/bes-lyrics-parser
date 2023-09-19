@@ -1,5 +1,5 @@
 [title]
-Spune la cei de departe {author: {Anonim}, {rcId: {59202}}
+Spune la cei de departe {composer: {Anonim}, {rcId: {59202}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

@@ -1,5 +1,5 @@
 [title]
-De sunt vreodata intristat {author: {Cântările Evangheliei}, {rcId: {105851}}
+De sunt vreodata intristat {composer: {Cântările Evangheliei}, {rcId: {105851}}
 
 [sequence]
 v1,v2,v3

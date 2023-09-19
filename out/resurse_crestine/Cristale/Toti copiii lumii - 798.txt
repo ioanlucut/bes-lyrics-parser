@@ -1,5 +1,5 @@
 [title]
-Toti copiii lumii {author: {Cristale}, {rcId: {798}}
+Toti copiii lumii {composer: {Cristale}, {rcId: {798}}
 
 [sequence]
 v1,c,v2,c,e

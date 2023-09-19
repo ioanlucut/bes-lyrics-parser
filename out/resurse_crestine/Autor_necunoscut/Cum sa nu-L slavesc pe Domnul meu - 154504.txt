@@ -1,5 +1,5 @@
 [title]
-Cum sa nu-l slavesc pe domnul meu {author: {Anonim}, {rcId: {154504}}
+Cum sa nu-l slavesc pe domnul meu {composer: {Anonim}, {rcId: {154504}}
 
 [sequence]
 v1,c,v2,c,v3,c

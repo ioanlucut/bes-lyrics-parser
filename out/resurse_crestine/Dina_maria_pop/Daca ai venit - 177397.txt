@@ -1,5 +1,5 @@
 [title]
-Daca ai venit {author: {Dina Maria Pop}, {rcId: {177397}}
+Daca ai venit {composer: {Dina Maria Pop}, {rcId: {177397}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Avem atatea bucurii {author: {Nicolae Moldoveanu}, {rcId: {1388}}
+Avem atatea bucurii {composer: {Nicolae Moldoveanu}, {rcId: {1388}}
 
 [sequence]
 v1,c,v2,c,v3,c

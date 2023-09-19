@@ -1,5 +1,5 @@
 [title]
-Stai la dreapta mea {author: {Rad Maria}, {rcId: {7201}}
+Stai la dreapta mea {composer: {Rad Maria}, {rcId: {7201}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,v4,c

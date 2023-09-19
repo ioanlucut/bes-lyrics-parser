@@ -1,5 +1,5 @@
 [title]
-Se aude iar vestea cea buna {author: {Nicolae Zamfir}, {rcId: {222873}}
+Se aude iar vestea cea buna {composer: {Nicolae Zamfir}, {rcId: {222873}}
 
 [sequence]
 v1,c,v2,c

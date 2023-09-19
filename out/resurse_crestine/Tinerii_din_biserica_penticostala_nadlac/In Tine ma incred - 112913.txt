@@ -1,5 +1,5 @@
 [title]
-In tine ma incred {author: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {112913}}
+In tine ma incred {composer: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {112913}}
 
 [sequence]
 v1,c,v2,c

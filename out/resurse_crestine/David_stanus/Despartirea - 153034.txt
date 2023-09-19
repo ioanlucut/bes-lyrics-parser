@@ -1,5 +1,5 @@
 [title]
-Despartirea {author: {David Stănuș}, {rcId: {153034}}
+Despartirea {composer: {David Stănuș}, {rcId: {153034}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

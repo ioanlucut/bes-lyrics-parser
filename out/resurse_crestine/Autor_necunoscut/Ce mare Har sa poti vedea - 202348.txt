@@ -1,5 +1,5 @@
 [title]
-Ce mare har sa poti vedea {author: {Anonim}, {rcId: {202348}}
+Ce mare har sa poti vedea {composer: {Anonim}, {rcId: {202348}}
 
 [sequence]
 v1,v2,v3,v4,v5

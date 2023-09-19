@@ -1,5 +1,5 @@
 [title]
-Mireasma de iertare {author: {Emma}, {rcId: {56019}}
+Mireasma de iertare {composer: {Emma}, {rcId: {56019}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Sfanta liniste (blessed quietness) {author: {W. S. Marshall, Traducere RO}, {rcId: {113302}}
+Sfanta liniste (blessed quietness) {composer: {W. S. Marshall, Traducere RO}, {rcId: {113302}}
 
 [sequence]
 v1,c,v2,c,v3,c,s,c

@@ -1,5 +1,5 @@
 [title]
-In tara sfanta israel {author: {Anonim}, {rcId: {60267}}
+In tara sfanta israel {composer: {Anonim}, {rcId: {60267}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

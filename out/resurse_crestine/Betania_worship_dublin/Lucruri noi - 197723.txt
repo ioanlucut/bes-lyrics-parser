@@ -1,5 +1,5 @@
 [title]
-Lucruri noi {author: {Betania Worship Dublin}, {rcId: {197723}}
+Lucruri noi {composer: {Betania Worship Dublin}, {rcId: {197723}}
 
 [sequence]
 v1,c,v2,c,c

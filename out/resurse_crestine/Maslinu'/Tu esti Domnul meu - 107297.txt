@@ -1,5 +1,5 @@
 [title]
-Tu esti domnul meu {author: {Măslinu’}, {rcId: {107297}}
+Tu esti domnul meu {composer: {Măslinu’}, {rcId: {107297}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c

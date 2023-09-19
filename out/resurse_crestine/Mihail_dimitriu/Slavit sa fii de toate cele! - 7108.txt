@@ -1,5 +1,5 @@
 [title]
-Slavit sa fii de toate cele {author: {Mihail Dimitriu}, {rcId: {7108}}
+Slavit sa fii de toate cele {composer: {Mihail Dimitriu}, {rcId: {7108}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Cine poate ? {author: {Speranța}, {rcId: {111029}}
+Cine poate ? {composer: {Speranța}, {rcId: {111029}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Vreau sa ajung in tara minunata {author: {Anonim}, {rcId: {191346}}
+Vreau sa ajung in tara minunata {composer: {Anonim}, {rcId: {191346}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Secerati intruna {author: {Anonim}, {rcId: {93310}}
+Secerati intruna {composer: {Anonim}, {rcId: {93310}}
 
 [sequence]
 v1,v2,v3

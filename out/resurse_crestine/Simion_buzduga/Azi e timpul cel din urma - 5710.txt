@@ -1,5 +1,5 @@
 [title]
-Azi e timpul cel din urma {author: {Simion Buzduga}, {rcId: {5710}}
+Azi e timpul cel din urma {composer: {Simion Buzduga}, {rcId: {5710}}
 
 [sequence]
 v1,c,v2,c,v3,c

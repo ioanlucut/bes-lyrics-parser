@@ -1,5 +1,5 @@
 [title]
-Sub privirea ta stapane {author: {Anonim}, {rcId: {83352}}
+Sub privirea ta stapane {composer: {Anonim}, {rcId: {83352}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

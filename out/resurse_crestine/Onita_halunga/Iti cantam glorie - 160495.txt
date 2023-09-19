@@ -1,5 +1,5 @@
 [title]
-Iti cantam glorie {author: {Oniță Halunga}, {rcId: {160495}}
+Iti cantam glorie {composer: {Oniță Halunga}, {rcId: {160495}}
 
 [sequence]
 v1,v1,c,b,c,b2,c,c,

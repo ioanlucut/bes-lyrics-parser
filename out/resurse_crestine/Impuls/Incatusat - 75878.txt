@@ -1,5 +1,5 @@
 [title]
-Incatusat {author: {Impuls}, {rcId: {75878}}
+Incatusat {composer: {Impuls}, {rcId: {75878}}
 
 [sequence]
 v1,c,v2,c2

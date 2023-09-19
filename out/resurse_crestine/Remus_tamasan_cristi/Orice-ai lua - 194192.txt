@@ -1,5 +1,5 @@
 [title]
-Orice-ai lua {author: {Remus Tămășan Cristi}, {rcId: {194192}}
+Orice-ai lua {composer: {Remus Tămășan Cristi}, {rcId: {194192}}
 
 [sequence]
 v1,c,v2,c

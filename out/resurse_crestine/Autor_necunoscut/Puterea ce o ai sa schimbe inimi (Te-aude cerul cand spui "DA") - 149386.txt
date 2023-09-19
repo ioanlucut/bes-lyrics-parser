@@ -1,5 +1,5 @@
 [title]
-Puterea ce o ai sa schimbe inimi (te-aude cerul cand spui da ) {author: {Anonim}, {rcId: {149386}}
+Puterea ce o ai sa schimbe inimi (te-aude cerul cand spui da ) {composer: {Anonim}, {rcId: {149386}}
 
 [sequence]
 v1,c,v2,c,v3,c

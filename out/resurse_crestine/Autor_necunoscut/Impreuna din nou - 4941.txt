@@ -1,5 +1,5 @@
 [title]
-Impreuna din nou {author: {Anonim}, {rcId: {4941}}
+Impreuna din nou {composer: {Anonim}, {rcId: {4941}}
 
 [sequence]
 v1

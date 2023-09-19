@@ -1,5 +1,5 @@
 [title]
-De neinvins de necuprins e dragostea {author: {Anonim}, {rcId: {74330}}
+De neinvins de necuprins e dragostea {composer: {Anonim}, {rcId: {74330}}
 
 [sequence]
 v1,c,v2,c2,e

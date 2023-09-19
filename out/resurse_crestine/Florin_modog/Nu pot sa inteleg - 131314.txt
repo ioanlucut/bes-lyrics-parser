@@ -1,5 +1,5 @@
 [title]
-Nu pot sa inteleg {author: {Florin Modog}, {rcId: {131314}}
+Nu pot sa inteleg {composer: {Florin Modog}, {rcId: {131314}}
 
 [sequence]
 v1,c,v2,c

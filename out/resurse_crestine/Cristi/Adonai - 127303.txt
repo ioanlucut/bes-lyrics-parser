@@ -1,5 +1,5 @@
 [title]
-Adonai {author: {cristi72}, {rcId: {127303}}
+Adonai {composer: {cristi72}, {rcId: {127303}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

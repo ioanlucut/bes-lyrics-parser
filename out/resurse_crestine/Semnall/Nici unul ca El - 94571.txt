@@ -1,5 +1,5 @@
 [title]
-Nici unul ca el {author: {Semnall}, {rcId: {94571}}
+Nici unul ca el {composer: {Semnall}, {rcId: {94571}}
 
 [sequence]
 v1,c,v2,c,v3,c

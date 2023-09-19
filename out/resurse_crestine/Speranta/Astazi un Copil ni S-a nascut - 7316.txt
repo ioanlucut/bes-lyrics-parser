@@ -1,5 +1,5 @@
 [title]
-Astazi un copil ni s-a nascut {author: {Speranța}, {rcId: {7316}}
+Astazi un copil ni s-a nascut {composer: {Speranța}, {rcId: {7316}}
 
 [sequence]
 v1,c,v2,c,v3,c

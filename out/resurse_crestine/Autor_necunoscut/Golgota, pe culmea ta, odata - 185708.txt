@@ -1,5 +1,5 @@
 [title]
-Golgota pe culmea ta odata {author: {Necunoscut de mine}, {rcId: {185708}}
+Golgota pe culmea ta odata {composer: {Necunoscut de mine}, {rcId: {185708}}
 
 [sequence]
 v1,v2,v3,v4

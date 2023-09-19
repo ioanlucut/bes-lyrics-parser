@@ -1,5 +1,5 @@
 [title]
-A trecut o zi {author: {Speranța și prietenii}, {rcId: {4603}}
+A trecut o zi {composer: {Speranța și prietenii}, {rcId: {4603}}
 
 [sequence]
 v1,c,v2,c,v3,c

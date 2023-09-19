@@ -1,5 +1,5 @@
 [title]
-Dac-ar sti mai dinainte oamenii ce ar pati {author: {Adriana Stoica}, {rcId: {210193}}
+Dac-ar sti mai dinainte oamenii ce ar pati {composer: {Adriana Stoica}, {rcId: {210193}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Striga omul la necaz {author: {Anonim}, {rcId: {197023}}
+Striga omul la necaz {composer: {Anonim}, {rcId: {197023}}
 
 [sequence]
 v1,c,v2,c,v3,c

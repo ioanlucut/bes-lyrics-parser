@@ -1,5 +1,5 @@
 [title]
-Mai intareste-mi inima odata {author: {Denys Laurenciuc}, {rcId: {235275}}
+Mai intareste-mi inima odata {composer: {Denys Laurenciuc}, {rcId: {235275}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

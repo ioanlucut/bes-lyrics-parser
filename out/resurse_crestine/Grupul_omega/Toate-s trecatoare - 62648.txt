@@ -1,5 +1,5 @@
 [title]
-Toate-s trecatoare {author: {Grupul Omega}, {rcId: {62648}}
+Toate-s trecatoare {composer: {Grupul Omega}, {rcId: {62648}}
 
 [sequence]
 v1,v2,v3

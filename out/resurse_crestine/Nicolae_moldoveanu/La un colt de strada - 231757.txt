@@ -1,5 +1,5 @@
 [title]
-La un colt de strada {author: {Nicolae Moldoveanu}, {rcId: {231757}}
+La un colt de strada {composer: {Nicolae Moldoveanu}, {rcId: {231757}}
 
 [sequence]
 v1,c,v2,c

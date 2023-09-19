@@ -1,5 +1,5 @@
 [title]
-Sfant cuvant {author: {Biserica Penticostala}, {rcId: {244209}}
+Sfant cuvant {composer: {Biserica Penticostala}, {rcId: {244209}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Viata cu domnul {author: {Speranța}, {rcId: {111319}}
+Viata cu domnul {composer: {Speranța}, {rcId: {111319}}
 
 [sequence]
 v1,c,v2,c

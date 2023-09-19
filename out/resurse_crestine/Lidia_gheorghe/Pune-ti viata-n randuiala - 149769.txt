@@ -1,5 +1,5 @@
 [title]
-Pune-ti viata-n randuiala {author: {Lidia Gheorghe}, {rcId: {149769}}
+Pune-ti viata-n randuiala {composer: {Lidia Gheorghe}, {rcId: {149769}}
 
 [sequence]
 v1,c,v2,c2

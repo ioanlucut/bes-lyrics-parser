@@ -1,5 +1,5 @@
 [title]
-Langa tine vreau sa stau {author: {Alin și Emima Timofte}, {rcId: {141512}}
+Langa tine vreau sa stau {composer: {Alin și Emima Timofte}, {rcId: {141512}}
 
 [sequence]
 v1,b,c,v2,c

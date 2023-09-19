@@ -1,5 +1,5 @@
 [title]
-Noi suntem aici doar calatori {author: {Ionel Saran Bochis}, {rcId: {111162}}
+Noi suntem aici doar calatori {composer: {Ionel Saran Bochis}, {rcId: {111162}}
 
 [sequence]
 v1,v2,v3,v4

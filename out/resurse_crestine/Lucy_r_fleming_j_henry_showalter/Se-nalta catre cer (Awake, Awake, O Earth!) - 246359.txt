@@ -1,5 +1,5 @@
 [title]
-Se-nalta catre cer (awake awake o earth) {author: {Lucy R. Fleming, J. Henry Showalter, Traducere RO}, {rcId: {246359}}
+Se-nalta catre cer (awake awake o earth) {composer: {Lucy R. Fleming, J. Henry Showalter, Traducere RO}, {rcId: {246359}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Inima mea vrea sa-ti cante {author: {Anonim}, {rcId: {772}}
+Inima mea vrea sa-ti cante {composer: {Anonim}, {rcId: {772}}
 
 [sequence]
 v1,c

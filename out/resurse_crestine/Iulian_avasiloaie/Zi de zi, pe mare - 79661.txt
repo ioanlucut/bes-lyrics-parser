@@ -1,5 +1,5 @@
 [title]
-Zi de zi pe mare {author: {Iulian Avasiloaie}, {rcId: {79661}}
+Zi de zi pe mare {composer: {Iulian Avasiloaie}, {rcId: {79661}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

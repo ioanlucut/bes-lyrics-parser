@@ -1,5 +1,5 @@
 [title]
-Ascultati o intrebare {author: {Nicolae Moldoveanu}, {rcId: {228672}}
+Ascultati o intrebare {composer: {Nicolae Moldoveanu}, {rcId: {228672}}
 
 [sequence]
 v1,v2,v3,v4

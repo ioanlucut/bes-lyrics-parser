@@ -1,5 +1,5 @@
 [title]
-Tu care'ntreci inchipuirea {author: {Traian Dorz}, {rcId: {199010}}
+Tu care'ntreci inchipuirea {composer: {Traian Dorz}, {rcId: {199010}}
 
 [sequence]
 v1,v2,v3,v4

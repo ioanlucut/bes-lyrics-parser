@@ -1,5 +1,5 @@
 [title]
-Numai timpul petrecut {author: {Nicolae Moldoveanu}, {rcId: {200732}}
+Numai timpul petrecut {composer: {Nicolae Moldoveanu}, {rcId: {200732}}
 
 [sequence]
 v1,v2,v3

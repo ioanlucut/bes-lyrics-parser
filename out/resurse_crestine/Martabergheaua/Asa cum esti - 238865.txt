@@ -1,5 +1,5 @@
 [title]
-Asa cum esti {author: {Marta_Bergheaua}, {rcId: {238865}}
+Asa cum esti {composer: {Marta_Bergheaua}, {rcId: {238865}}
 
 [sequence]
 v1,c,v2,c,v3,c

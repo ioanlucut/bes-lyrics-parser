@@ -1,5 +1,5 @@
 [title]
-Cand isus de prin iudeea {author: {Vasile Micula}, {rcId: {60991}}
+Cand isus de prin iudeea {composer: {Vasile Micula}, {rcId: {60991}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

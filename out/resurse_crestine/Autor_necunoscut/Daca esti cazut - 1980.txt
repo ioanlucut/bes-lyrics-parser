@@ -1,5 +1,5 @@
 [title]
-Daca esti cazut {author: {Anonim}, {rcId: {1980}}
+Daca esti cazut {composer: {Anonim}, {rcId: {1980}}
 
 [sequence]
 v1,c,v2,c2

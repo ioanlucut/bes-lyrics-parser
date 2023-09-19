@@ -1,5 +1,5 @@
 [title]
-Orice-ar veni sa nu te temi {author: {Anonim}, {rcId: {59194}}
+Orice-ar veni sa nu te temi {composer: {Anonim}, {rcId: {59194}}
 
 [sequence]
 v1,c,v2,c,v3,c

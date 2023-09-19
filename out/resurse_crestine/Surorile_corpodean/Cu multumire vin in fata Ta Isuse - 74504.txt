@@ -1,5 +1,5 @@
 [title]
-Cu multumire vin in fata ta isuse {author: {Surorile Corpodean}, {rcId: {74504}}
+Cu multumire vin in fata ta isuse {composer: {Surorile Corpodean}, {rcId: {74504}}
 
 [sequence]
 v1,c,v2,c,v3,c2

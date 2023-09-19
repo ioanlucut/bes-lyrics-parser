@@ -1,5 +1,5 @@
 [title]
-Din jale in jale {author: {Biji din Barbuleati}, {rcId: {201938}}
+Din jale in jale {composer: {Biji din Barbuleati}, {rcId: {201938}}
 
 [sequence]
 v1,v2,v3,v4

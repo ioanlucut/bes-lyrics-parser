@@ -1,5 +1,5 @@
 [title]
-Imi spune lumea ca sunt cam nebun {author: {Anonim}, {rcId: {58965}}
+Imi spune lumea ca sunt cam nebun {composer: {Anonim}, {rcId: {58965}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

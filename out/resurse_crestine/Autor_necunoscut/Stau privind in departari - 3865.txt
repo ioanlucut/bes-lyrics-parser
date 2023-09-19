@@ -1,5 +1,5 @@
 [title]
-Stau privind in departari {author: {Anonim}, {rcId: {3865}}
+Stau privind in departari {composer: {Anonim}, {rcId: {3865}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

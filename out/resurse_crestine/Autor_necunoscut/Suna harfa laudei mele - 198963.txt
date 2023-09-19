@@ -1,5 +1,5 @@
 [title]
-Suna harfa laudei mele {author: {Anonim}, {rcId: {198963}}
+Suna harfa laudei mele {composer: {Anonim}, {rcId: {198963}}
 
 [sequence]
 v1,v2,v3,v4

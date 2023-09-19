@@ -1,5 +1,5 @@
 [title]
-Alearga la domnul si ajutorul sau {author: {Anonim}, {rcId: {74546}}
+Alearga la domnul si ajutorul sau {composer: {Anonim}, {rcId: {74546}}
 
 [sequence]
 v1,v2,v3,v4

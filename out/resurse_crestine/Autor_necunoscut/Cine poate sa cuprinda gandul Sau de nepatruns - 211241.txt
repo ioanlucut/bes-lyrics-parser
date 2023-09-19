@@ -1,5 +1,5 @@
 [title]
-Cine poate sa cuprinda gandul sau de nepatruns {author: {Anonim}, {rcId: {211241}}
+Cine poate sa cuprinda gandul sau de nepatruns {composer: {Anonim}, {rcId: {211241}}
 
 [sequence]
 v1

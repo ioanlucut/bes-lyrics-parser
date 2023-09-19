@@ -1,5 +1,5 @@
 [title]
-Din harfa unui fara seaman {author: {Anonim}, {rcId: {75055}}
+Din harfa unui fara seaman {composer: {Anonim}, {rcId: {75055}}
 
 [sequence]
 v1,v2,v3,v4,v5

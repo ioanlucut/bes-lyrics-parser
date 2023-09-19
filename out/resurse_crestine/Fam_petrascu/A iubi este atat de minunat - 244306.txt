@@ -1,5 +1,5 @@
 [title]
-A iubi este atat de minunat {author: {Fam Petrașcu}, {rcId: {244306}}
+A iubi este atat de minunat {composer: {Fam Petrașcu}, {rcId: {244306}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Da domnul este pastorul meu (povata-mi da pe cararea mea) {author: {Anonim}, {rcId: {185967}}
+Da domnul este pastorul meu (povata-mi da pe cararea mea) {composer: {Anonim}, {rcId: {185967}}
 
 [sequence]
 v1,v2,v3

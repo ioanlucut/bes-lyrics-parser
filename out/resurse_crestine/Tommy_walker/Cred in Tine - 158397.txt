@@ -1,5 +1,5 @@
 [title]
-Cred in tine {author: {Tommy Walker}, {rcId: {158397}}
+Cred in tine {composer: {Tommy Walker}, {rcId: {158397}}
 
 [sequence]
 v1,c,v2,c

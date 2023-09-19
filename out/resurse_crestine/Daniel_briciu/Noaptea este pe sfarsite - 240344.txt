@@ -1,5 +1,5 @@
 [title]
-Noaptea este pe sfarsite {author: {Daniel Briciu}, {rcId: {240344}}
+Noaptea este pe sfarsite {composer: {Daniel Briciu}, {rcId: {240344}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

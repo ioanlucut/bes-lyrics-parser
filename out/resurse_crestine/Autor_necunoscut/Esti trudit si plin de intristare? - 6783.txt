@@ -1,5 +1,5 @@
 [title]
-Esti trudit si plin de intristare? {author: {Anonim}, {rcId: {6783}}
+Esti trudit si plin de intristare? {composer: {Anonim}, {rcId: {6783}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

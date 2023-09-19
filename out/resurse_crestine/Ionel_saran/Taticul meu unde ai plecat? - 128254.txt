@@ -1,5 +1,5 @@
 [title]
-Taticul meu unde ai plecat? {author: {Ionel Saran}, {rcId: {128254}}
+Taticul meu unde ai plecat? {composer: {Ionel Saran}, {rcId: {128254}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

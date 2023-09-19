@@ -1,5 +1,5 @@
 [title]
-Se-alege graul {author: {Ciumarnean Romeo Gabriel}, {rcId: {198096}}
+Se-alege graul {composer: {Ciumarnean Romeo Gabriel}, {rcId: {198096}}
 
 [sequence]
 v1,v2,v3

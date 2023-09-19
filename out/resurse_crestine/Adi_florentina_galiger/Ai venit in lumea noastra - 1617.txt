@@ -1,5 +1,5 @@
 [title]
-Ai venit in lumea noastra {author: {Adi, Florentina Galiger}, {rcId: {1617}}
+Ai venit in lumea noastra {composer: {Adi, Florentina Galiger}, {rcId: {1617}}
 
 [sequence]
 v1,c

@@ -1,5 +1,5 @@
 [title]
-Vine dimineata (maranata domnul nostru vine) {author: {Ovidiu Liteanu}, {rcId: {187407}}
+Vine dimineata (maranata domnul nostru vine) {composer: {Ovidiu Liteanu}, {rcId: {187407}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

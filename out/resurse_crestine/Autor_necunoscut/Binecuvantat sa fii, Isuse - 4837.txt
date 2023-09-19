@@ -1,5 +1,5 @@
 [title]
-Binecuvantat sa fii isuse {author: {Anonim}, {rcId: {4837}}
+Binecuvantat sa fii isuse {composer: {Anonim}, {rcId: {4837}}
 
 [sequence]
 v1,c

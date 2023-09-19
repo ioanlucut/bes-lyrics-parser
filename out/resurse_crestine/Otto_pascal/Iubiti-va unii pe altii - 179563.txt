@@ -1,5 +1,5 @@
 [title]
-Iubiti-va unii pe altii {author: {Otto Pascal}, {rcId: {179563}}
+Iubiti-va unii pe altii {composer: {Otto Pascal}, {rcId: {179563}}
 
 [sequence]
 v1,b,c,v2,b,c

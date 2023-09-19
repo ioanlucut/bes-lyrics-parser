@@ -1,5 +1,5 @@
 [title]
-Singur doamne n-as putea {author: {Ionel Saran Bochis}, {rcId: {89970}}
+Singur doamne n-as putea {composer: {Ionel Saran Bochis}, {rcId: {89970}}
 
 [sequence]
 v1,c,v2,c2

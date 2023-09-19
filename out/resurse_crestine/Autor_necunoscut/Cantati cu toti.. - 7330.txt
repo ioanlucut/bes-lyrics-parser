@@ -1,5 +1,5 @@
 [title]
-Cantati cu toti {author: {Anonim}, {rcId: {7330}}
+Cantati cu toti {composer: {Anonim}, {rcId: {7330}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

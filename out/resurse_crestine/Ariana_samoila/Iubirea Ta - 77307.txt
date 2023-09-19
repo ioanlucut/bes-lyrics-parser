@@ -1,5 +1,5 @@
 [title]
-Iubirea ta {author: {Ariana Samoila}, {rcId: {77307}}
+Iubirea ta {composer: {Ariana Samoila}, {rcId: {77307}}
 
 [sequence]
 v1,c,v2,c2

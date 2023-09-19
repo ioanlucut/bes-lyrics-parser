@@ -1,5 +1,5 @@
 [title]
-Te laud isus iubit {author: {Speranța}, {rcId: {111008}}
+Te laud isus iubit {composer: {Speranța}, {rcId: {111008}}
 
 [sequence]
 v1,c,v2,c,v3,c

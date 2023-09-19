@@ -1,5 +1,5 @@
 [title]
-Cum tremura-n mana sageata in arc de viteaz luptator {author: {Costache Ioanid}, {rcId: {4477}}
+Cum tremura-n mana sageata in arc de viteaz luptator {composer: {Costache Ioanid}, {rcId: {4477}}
 
 [sequence]
 v1,v2,v3,v4

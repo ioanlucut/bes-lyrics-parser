@@ -1,5 +1,5 @@
 [title]
-Treziti-va frati {author: {Speranța}, {rcId: {101929}}
+Treziti-va frati {composer: {Speranța}, {rcId: {101929}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

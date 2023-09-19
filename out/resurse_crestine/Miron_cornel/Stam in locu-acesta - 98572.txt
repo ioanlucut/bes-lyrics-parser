@@ -1,5 +1,5 @@
 [title]
-Stam in locu-acesta {author: {Miron Cornel}, {rcId: {98572}}
+Stam in locu-acesta {composer: {Miron Cornel}, {rcId: {98572}}
 
 [sequence]
 v1,c,v2,c,v3,c

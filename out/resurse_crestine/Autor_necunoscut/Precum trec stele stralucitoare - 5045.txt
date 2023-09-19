@@ -1,5 +1,5 @@
 [title]
-Precum trec stele stralucitoare {author: {Anonim}, {rcId: {5045}}
+Precum trec stele stralucitoare {composer: {Anonim}, {rcId: {5045}}
 
 [sequence]
 v1,c,v2,c,v3,c

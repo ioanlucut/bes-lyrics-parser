@@ -1,5 +1,5 @@
 [title]
-Jerfa vie {author: {Zao Thusia}, {rcId: {74114}}
+Jerfa vie {composer: {Zao Thusia}, {rcId: {74114}}
 
 [sequence]
 v1,b,c,v2,c,e

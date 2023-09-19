@@ -1,5 +1,5 @@
 [title]
-Din valul pierzarii din lumea de jos {author: {Vasile Daniel}, {rcId: {194820}}
+Din valul pierzarii din lumea de jos {composer: {Vasile Daniel}, {rcId: {194820}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

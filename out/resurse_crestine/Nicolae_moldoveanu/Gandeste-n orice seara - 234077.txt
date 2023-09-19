@@ -1,5 +1,5 @@
 [title]
-Gandeste-n orice seara {author: {Nicolae Moldoveanu}, {rcId: {234077}}
+Gandeste-n orice seara {composer: {Nicolae Moldoveanu}, {rcId: {234077}}
 
 [sequence]
 v1,v2

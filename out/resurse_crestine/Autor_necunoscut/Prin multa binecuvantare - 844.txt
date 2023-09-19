@@ -1,5 +1,5 @@
 [title]
-Prin multa binecuvantare {author: {Anonim}, {rcId: {844}}
+Prin multa binecuvantare {composer: {Anonim}, {rcId: {844}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

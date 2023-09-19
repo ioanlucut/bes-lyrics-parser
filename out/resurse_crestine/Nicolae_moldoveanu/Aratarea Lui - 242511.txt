@@ -1,5 +1,5 @@
 [title]
-Aratarea lui {author: {Nicolae Moldoveanu}, {rcId: {242511}}
+Aratarea lui {composer: {Nicolae Moldoveanu}, {rcId: {242511}}
 
 [sequence]
 v1

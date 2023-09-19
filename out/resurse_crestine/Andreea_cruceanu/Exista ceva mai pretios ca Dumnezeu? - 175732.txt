@@ -1,5 +1,5 @@
 [title]
-Exista ceva mai pretios ca dumnezeu? {author: {Andreea Cruceanu}, {rcId: {175732}}
+Exista ceva mai pretios ca dumnezeu? {composer: {Andreea Cruceanu}, {rcId: {175732}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

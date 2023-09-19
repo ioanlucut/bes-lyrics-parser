@@ -1,5 +1,5 @@
 [title]
-O curata-mi cerul credintei {author: {Nicolae Moldoveanu}, {rcId: {244619}}
+O curata-mi cerul credintei {composer: {Nicolae Moldoveanu}, {rcId: {244619}}
 
 [sequence]
 v1,v2,v3,v4

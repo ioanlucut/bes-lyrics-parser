@@ -1,5 +1,5 @@
 [title]
-Un gand de speranta urca mereu {author: {Anonim}, {rcId: {153891}}
+Un gand de speranta urca mereu {composer: {Anonim}, {rcId: {153891}}
 
 [sequence]
 v1,c,v2,c2,v4,c4,e

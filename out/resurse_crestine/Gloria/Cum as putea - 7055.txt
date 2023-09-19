@@ -1,5 +1,5 @@
 [title]
-Cum as putea {author: {gloria}, {rcId: {7055}}
+Cum as putea {composer: {gloria}, {rcId: {7055}}
 
 [sequence]
 v1,c,v2,c

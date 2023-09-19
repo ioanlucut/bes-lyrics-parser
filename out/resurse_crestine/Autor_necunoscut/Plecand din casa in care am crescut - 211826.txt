@@ -1,5 +1,5 @@
 [title]
-Plecand din casa in care am crescut {author: {Necunoscut}, {rcId: {211826}}
+Plecand din casa in care am crescut {composer: {Necunoscut}, {rcId: {211826}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Ca pasarile migratoare {author: {Dionisie Giuchici}, {rcId: {6868}}
+Ca pasarile migratoare {composer: {Dionisie Giuchici}, {rcId: {6868}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

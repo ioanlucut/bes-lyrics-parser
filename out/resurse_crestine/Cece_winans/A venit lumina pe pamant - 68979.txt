@@ -1,5 +1,5 @@
 [title]
-A venit lumina pe pamant {author: {CeCe Winans, Traducere RO}, {rcId: {68979}}
+A venit lumina pe pamant {composer: {CeCe Winans, Traducere RO}, {rcId: {68979}}
 
 [sequence]
 v1,c,v2,c

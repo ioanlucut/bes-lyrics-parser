@@ -1,5 +1,5 @@
 [title]
-Privesc inainte {author: {Grupul Ekklesia}, {rcId: {166636}}
+Privesc inainte {composer: {Grupul Ekklesia}, {rcId: {166636}}
 
 [sequence]
 v1,c,v2,c,e

@@ -1,5 +1,5 @@
 [title]
-Nu renunta {author: {Elixirul iubirii}, {rcId: {84662}}
+Nu renunta {composer: {Elixirul iubirii}, {rcId: {84662}}
 
 [sequence]
 v1,b,c,v2,b,c

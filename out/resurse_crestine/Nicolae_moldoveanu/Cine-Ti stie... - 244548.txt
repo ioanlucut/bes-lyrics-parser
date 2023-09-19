@@ -1,5 +1,5 @@
 [title]
-Cine-ti stie {author: {Nicolae Moldoveanu}, {rcId: {244548}}
+Cine-ti stie {composer: {Nicolae Moldoveanu}, {rcId: {244548}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

@@ -1,5 +1,5 @@
 [title]
-Imparte-ti painea {author: {Grupul Eldad}, {rcId: {225478}}
+Imparte-ti painea {composer: {Grupul Eldad}, {rcId: {225478}}
 
 [sequence]
 v1,c,v2,c,v3,c

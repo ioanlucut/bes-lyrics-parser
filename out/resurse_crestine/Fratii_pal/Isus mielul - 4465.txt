@@ -1,5 +1,5 @@
 [title]
-Isus mielul {author: {Fratii Pal}, {rcId: {4465}}
+Isus mielul {composer: {Fratii Pal}, {rcId: {4465}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Doar tu {author: {Sunny Tranca}, {rcId: {236747}}
+Doar tu {composer: {Sunny Tranca}, {rcId: {236747}}
 
 [sequence]
 v1,c,v2,c,e

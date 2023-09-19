@@ -1,5 +1,5 @@
 [title]
-Sfant ai fost sfant esti {author: {Grupul Evangelion}, {rcId: {103866}}
+Sfant ai fost sfant esti {composer: {Grupul Evangelion}, {rcId: {103866}}
 
 [sequence]
 v1,c,c,e

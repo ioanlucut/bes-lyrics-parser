@@ -1,5 +1,5 @@
 [title]
-Ma iubesti tu mai mult decat ceilalti {author: {Traian Dorz}, {rcId: {203635}}
+Ma iubesti tu mai mult decat ceilalti {composer: {Traian Dorz}, {rcId: {203635}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

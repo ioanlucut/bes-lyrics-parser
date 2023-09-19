@@ -1,5 +1,5 @@
 [title]
-Isus e stanca mea {author: {Ionică Stoica}, {rcId: {72731}}
+Isus e stanca mea {composer: {Ionică Stoica}, {rcId: {72731}}
 
 [sequence]
 v1,c,v2,c,v3,c

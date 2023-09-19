@@ -1,5 +1,5 @@
 [title]
-Al tau nume nu-i "mesia" {author: {Nicolae Moldoveanu}, {rcId: {244534}}
+Al tau nume nu-i "mesia" {composer: {Nicolae Moldoveanu}, {rcId: {244534}}
 
 [sequence]
 v1,v2,v3,v4,v5

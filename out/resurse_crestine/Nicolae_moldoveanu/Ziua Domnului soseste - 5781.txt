@@ -1,5 +1,5 @@
 [title]
-Ziua domnului soseste {author: {Nicolae Moldoveanu}, {rcId: {5781}}
+Ziua domnului soseste {composer: {Nicolae Moldoveanu}, {rcId: {5781}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

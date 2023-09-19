@@ -1,5 +1,5 @@
 [title]
-Evanghelia schimba inima {author: {Ovidiu Liteanu}, {rcId: {55592}}
+Evanghelia schimba inima {composer: {Ovidiu Liteanu}, {rcId: {55592}}
 
 [sequence]
 v1,c,v2,c,v3,c

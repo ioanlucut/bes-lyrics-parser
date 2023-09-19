@@ -1,5 +1,5 @@
 [title]
-Glorie lauda {author: {Iany și Cristina Laurenciuc}, {rcId: {156911}}
+Glorie lauda {composer: {Iany și Cristina Laurenciuc}, {rcId: {156911}}
 
 [sequence]
 v1,c,v2,c,v3,c

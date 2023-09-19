@@ -1,5 +1,5 @@
 [title]
-Dormi copilas {author: {Anonim}, {rcId: {1437}}
+Dormi copilas {composer: {Anonim}, {rcId: {1437}}
 
 [sequence]
 v1,v2,v3

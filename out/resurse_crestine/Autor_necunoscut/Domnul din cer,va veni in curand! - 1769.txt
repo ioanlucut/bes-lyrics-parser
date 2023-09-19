@@ -1,5 +1,5 @@
 [title]
-Domnul din cerva veni in curand {author: {Anonim}, {rcId: {1769}}
+Domnul din cerva veni in curand {composer: {Anonim}, {rcId: {1769}}
 
 [sequence]
 v1,c,v2,c,v3,c

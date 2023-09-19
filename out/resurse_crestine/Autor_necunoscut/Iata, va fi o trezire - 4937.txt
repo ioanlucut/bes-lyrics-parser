@@ -1,5 +1,5 @@
 [title]
-Iata va fi o trezire {author: {Anonim}, {rcId: {4937}}
+Iata va fi o trezire {composer: {Anonim}, {rcId: {4937}}
 
 [sequence]
 v1

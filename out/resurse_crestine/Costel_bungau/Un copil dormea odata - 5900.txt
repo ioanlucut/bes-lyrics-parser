@@ -1,5 +1,5 @@
 [title]
-Un copil dormea odata {author: {Costel Bungau}, {rcId: {5900}}
+Un copil dormea odata {composer: {Costel Bungau}, {rcId: {5900}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

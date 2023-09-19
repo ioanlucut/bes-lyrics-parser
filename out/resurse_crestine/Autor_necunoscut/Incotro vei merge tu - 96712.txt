@@ -1,5 +1,5 @@
 [title]
-Incotro vei merge tu {author: {Anonim}, {rcId: {96712}}
+Incotro vei merge tu {composer: {Anonim}, {rcId: {96712}}
 
 [sequence]
 v1,v2

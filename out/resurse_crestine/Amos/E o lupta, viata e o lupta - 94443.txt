@@ -1,5 +1,5 @@
 [title]
-E o lupta viata e o lupta {author: {amos7}, {rcId: {94443}}
+E o lupta viata e o lupta {composer: {amos7}, {rcId: {94443}}
 
 [sequence]
 v1,c,v2,c,v3,c

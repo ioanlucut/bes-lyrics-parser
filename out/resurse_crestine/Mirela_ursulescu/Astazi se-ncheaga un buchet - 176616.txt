@@ -1,5 +1,5 @@
 [title]
-Astazi se-ncheaga un buchet {author: {Mirela Ursulescu}, {rcId: {176616}}
+Astazi se-ncheaga un buchet {composer: {Mirela Ursulescu}, {rcId: {176616}}
 
 [sequence]
 v1,c,v2,c

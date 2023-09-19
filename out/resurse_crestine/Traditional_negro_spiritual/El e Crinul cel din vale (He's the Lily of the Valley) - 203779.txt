@@ -1,5 +1,5 @@
 [title]
-El e crinul cel din vale (he s the lily of the valley) {author: {Traditional Negro Spiritual, Traducere RO}, {rcId: {203779}}
+El e crinul cel din vale (he s the lily of the valley) {composer: {Traditional Negro Spiritual, Traducere RO}, {rcId: {203779}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,s,c

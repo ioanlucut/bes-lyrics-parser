@@ -1,5 +1,5 @@
 [title]
-Se va pune o intrebare candva {author: {Dorel Breabăn}, {rcId: {223996}}
+Se va pune o intrebare candva {composer: {Dorel Breabăn}, {rcId: {223996}}
 
 [sequence]
 v1,c,v2,c,v3,c

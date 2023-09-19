@@ -1,5 +1,5 @@
 [title]
-Cu gandul sunt la marea rosie acuma {author: {Anonim}, {rcId: {65336}}
+Cu gandul sunt la marea rosie acuma {composer: {Anonim}, {rcId: {65336}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8

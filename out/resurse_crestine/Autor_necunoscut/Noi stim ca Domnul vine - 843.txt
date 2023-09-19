@@ -1,5 +1,5 @@
 [title]
-Noi stim ca domnul vine {author: {Anonim}, {rcId: {843}}
+Noi stim ca domnul vine {composer: {Anonim}, {rcId: {843}}
 
 [sequence]
 c,v1,v2,c2

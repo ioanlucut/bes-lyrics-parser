@@ -1,5 +1,5 @@
 [title]
-Doar el poate-ndeparta orice munte {author: {Anonim}, {rcId: {188632}}
+Doar el poate-ndeparta orice munte {composer: {Anonim}, {rcId: {188632}}
 
 [sequence]
 v1,c,v2,b,c

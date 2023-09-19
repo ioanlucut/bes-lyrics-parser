@@ -1,5 +1,5 @@
 [title]
-Ce mare dragoste am primit {author: {Anonim}, {rcId: {120838}}
+Ce mare dragoste am primit {composer: {Anonim}, {rcId: {120838}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

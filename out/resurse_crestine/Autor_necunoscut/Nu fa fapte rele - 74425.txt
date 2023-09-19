@@ -1,5 +1,5 @@
 [title]
-Nu fa fapte rele {author: {Anonim}, {rcId: {74425}}
+Nu fa fapte rele {composer: {Anonim}, {rcId: {74425}}
 
 [sequence]
 v1,c,v2,c,v3,c

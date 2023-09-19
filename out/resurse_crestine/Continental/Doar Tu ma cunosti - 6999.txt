@@ -1,5 +1,5 @@
 [title]
-Doar tu ma cunosti {author: {Continental}, {rcId: {6999}}
+Doar tu ma cunosti {composer: {Continental}, {rcId: {6999}}
 
 [sequence]
 v1,c,v2,c,e

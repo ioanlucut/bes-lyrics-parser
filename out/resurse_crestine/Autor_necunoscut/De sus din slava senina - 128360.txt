@@ -1,5 +1,5 @@
 [title]
-De sus din slava senina {author: {Anonim}, {rcId: {128360}}
+De sus din slava senina {composer: {Anonim}, {rcId: {128360}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-De ce i-l cautati intre cei morti {author: {Anonim}, {rcId: {151225}}
+De ce i-l cautati intre cei morti {composer: {Anonim}, {rcId: {151225}}
 
 [sequence]
 v1,v2,v3,v4,v5

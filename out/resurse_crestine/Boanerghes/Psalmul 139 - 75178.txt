@@ -1,5 +1,5 @@
 [title]
-Psalmul {author: {Boanerghes}, {rcId: {75178}}
+Psalmul {composer: {Boanerghes}, {rcId: {75178}}
 
 [sequence]
 v1,c,v2,c2

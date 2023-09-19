@@ -1,5 +1,5 @@
 [title]
-Eclesiastul {author: {Alexandru Groza}, {rcId: {192939}}
+Eclesiastul {composer: {Alexandru Groza}, {rcId: {192939}}
 
 [sequence]
 v1,c,c,v2,c2

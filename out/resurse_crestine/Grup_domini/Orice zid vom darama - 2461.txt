@@ -1,5 +1,5 @@
 [title]
-Orice zid vom darama {author: {Grup Domini}, {rcId: {2461}}
+Orice zid vom darama {composer: {Grup Domini}, {rcId: {2461}}
 
 [sequence]
 v1,c,v2,c

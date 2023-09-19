@@ -1,5 +1,5 @@
 [title]
-Minunea vietii {author: {Ștefanie Chiș, Otto Pascal}, {rcId: {167662}}
+Minunea vietii {composer: {Ștefanie Chiș, Otto Pascal}, {rcId: {167662}}
 
 [sequence]
 v1,b,c,v2,b,c,b,c

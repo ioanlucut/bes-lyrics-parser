@@ -1,5 +1,5 @@
 [title]
-Voi veni cu bucurie {author: {Nicolae Moldoveanu}, {rcId: {3738}}
+Voi veni cu bucurie {composer: {Nicolae Moldoveanu}, {rcId: {3738}}
 
 [sequence]
 v1,c,v2,c

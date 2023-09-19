@@ -1,5 +1,5 @@
 [title]
-Pacea lui m-a inundat {author: {Marty Nystrom, Traducere RO}, {rcId: {58949}}
+Pacea lui m-a inundat {composer: {Marty Nystrom, Traducere RO}, {rcId: {58949}}
 
 [sequence]
 v1,c

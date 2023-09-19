@@ -1,5 +1,5 @@
 [title]
-A mai trecut inca un an {author: {Elena Istrate}, {rcId: {208118}}
+A mai trecut inca un an {composer: {Elena Istrate}, {rcId: {208118}}
 
 [sequence]
 v1,v2,c,e

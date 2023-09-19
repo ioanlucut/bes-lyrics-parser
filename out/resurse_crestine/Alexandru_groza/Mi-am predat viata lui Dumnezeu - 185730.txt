@@ -1,5 +1,5 @@
 [title]
-Mi-am predat viata lui dumnezeu {author: {Alexandru Groza}, {rcId: {185730}}
+Mi-am predat viata lui dumnezeu {composer: {Alexandru Groza}, {rcId: {185730}}
 
 [sequence]
 v1,c,v2,c

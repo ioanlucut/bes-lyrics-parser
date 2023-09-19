@@ -1,5 +1,5 @@
 [title]
-Rasuna cantecul de slava tie {author: {Nicolae Moldoveanu}, {rcId: {242731}}
+Rasuna cantecul de slava tie {composer: {Nicolae Moldoveanu}, {rcId: {242731}}
 
 [sequence]
 v1,v2,v3,v4

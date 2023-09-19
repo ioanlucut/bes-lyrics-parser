@@ -1,5 +1,5 @@
 [title]
-In fata ta pasesc acum {author: {Anonim}, {rcId: {89955}}
+In fata ta pasesc acum {composer: {Anonim}, {rcId: {89955}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

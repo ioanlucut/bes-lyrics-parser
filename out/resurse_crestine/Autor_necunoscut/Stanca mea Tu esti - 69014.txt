@@ -1,5 +1,5 @@
 [title]
-Stanca mea tu esti {author: {Anonim}, {rcId: {69014}}
+Stanca mea tu esti {composer: {Anonim}, {rcId: {69014}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

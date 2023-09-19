@@ -1,5 +1,5 @@
 [title]
-Oricat de lunga-i noaptea {author: {Speranța}, {rcId: {3857}}
+Oricat de lunga-i noaptea {composer: {Speranța}, {rcId: {3857}}
 
 [sequence]
 v1,v2,v3

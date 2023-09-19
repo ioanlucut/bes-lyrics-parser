@@ -1,5 +1,5 @@
 [title]
-Ma-nchin naintea ta {author: {Speranța}, {rcId: {7172}}
+Ma-nchin naintea ta {composer: {Speranța}, {rcId: {7172}}
 
 [sequence]
 v1,c,v2,c

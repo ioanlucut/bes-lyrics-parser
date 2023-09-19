@@ -1,5 +1,5 @@
 [title]
-Cantati popoare laudele domnului {author: {Anonim}, {rcId: {184287}}
+Cantati popoare laudele domnului {composer: {Anonim}, {rcId: {184287}}
 
 [sequence]
 v1,c,v2,c,v3,c

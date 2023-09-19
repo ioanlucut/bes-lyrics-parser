@@ -1,5 +1,5 @@
 [title]
-Cu mii de ani in betleem {author: {Iany și Cristina Laurenciuc}, {rcId: {156912}}
+Cu mii de ani in betleem {composer: {Iany și Cristina Laurenciuc}, {rcId: {156912}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

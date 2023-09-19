@@ -1,5 +1,5 @@
 [title]
-Laudati laudati pe domnul {author: {Excelsis Worship}, {rcId: {104165}}
+Laudati laudati pe domnul {composer: {Excelsis Worship}, {rcId: {104165}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

@@ -1,5 +1,5 @@
 [title]
-Veniti cu toti va bucurati {author: {Anonim}, {rcId: {6444}}
+Veniti cu toti va bucurati {composer: {Anonim}, {rcId: {6444}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

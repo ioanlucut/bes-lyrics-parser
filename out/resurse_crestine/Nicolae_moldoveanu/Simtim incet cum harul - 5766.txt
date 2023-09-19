@@ -1,5 +1,5 @@
 [title]
-Simtim incet cum harul {author: {Nicolae Moldoveanu}, {rcId: {5766}}
+Simtim incet cum harul {composer: {Nicolae Moldoveanu}, {rcId: {5766}}
 
 [sequence]
 v1,c,v2,c,v3,c

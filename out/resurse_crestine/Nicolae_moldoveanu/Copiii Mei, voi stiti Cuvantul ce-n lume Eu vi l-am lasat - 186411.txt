@@ -1,5 +1,5 @@
 [title]
-Copiii mei voi stiti cuvantul ce-n lume eu vi l-am lasat {author: {Nicolae Moldoveanu}, {rcId: {186411}}
+Copiii mei voi stiti cuvantul ce-n lume eu vi l-am lasat {composer: {Nicolae Moldoveanu}, {rcId: {186411}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

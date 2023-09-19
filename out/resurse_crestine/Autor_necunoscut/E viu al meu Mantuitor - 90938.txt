@@ -1,5 +1,5 @@
 [title]
-E viu al meu mantuitor {author: {Anonim}, {rcId: {90938}}
+E viu al meu mantuitor {composer: {Anonim}, {rcId: {90938}}
 
 [sequence]
 v1,v2,v3

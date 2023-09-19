@@ -1,5 +1,5 @@
 [title]
-Betel e locul unde-odinioara (la poarta cerului) {author: {Otniel Stirb}, {rcId: {177005}}
+Betel e locul unde-odinioara (la poarta cerului) {composer: {Otniel Stirb}, {rcId: {177005}}
 
 [sequence]
 v1,c,v2,c,v3,c

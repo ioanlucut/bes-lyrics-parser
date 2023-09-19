@@ -1,5 +1,5 @@
 [title]
-Mantuire ni s-a dat {author: {Anonim}, {rcId: {1734}}
+Mantuire ni s-a dat {composer: {Anonim}, {rcId: {1734}}
 
 [sequence]
 v1,v2,v2

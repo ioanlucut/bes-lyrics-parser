@@ -1,5 +1,5 @@
 [title]
-Eu nu-nteleg o doamne {author: {Puiu Chibici}, {rcId: {112004}}
+Eu nu-nteleg o doamne {composer: {Puiu Chibici}, {rcId: {112004}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

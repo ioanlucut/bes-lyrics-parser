@@ -1,5 +1,5 @@
 [title]
-Cum voi merge-n cer la domnul? {author: {George C.Stebbins}, {rcId: {1824}}
+Cum voi merge-n cer la domnul? {composer: {George C.Stebbins}, {rcId: {1824}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

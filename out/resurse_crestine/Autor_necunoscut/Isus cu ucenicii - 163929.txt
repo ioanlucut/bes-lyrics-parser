@@ -1,5 +1,5 @@
 [title]
-Isus cu ucenicii {author: {Anonim}, {rcId: {163929}}
+Isus cu ucenicii {composer: {Anonim}, {rcId: {163929}}
 
 [sequence]
 v1,v2

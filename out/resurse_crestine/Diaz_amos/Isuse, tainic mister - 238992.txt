@@ -1,5 +1,5 @@
 [title]
-Isuse tainic mister {author: {Diaz Amos}, {rcId: {238992}}
+Isuse tainic mister {composer: {Diaz Amos}, {rcId: {238992}}
 
 [sequence]
 v1,c,v2,c,v3,c

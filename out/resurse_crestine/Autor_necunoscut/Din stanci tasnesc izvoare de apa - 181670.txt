@@ -1,5 +1,5 @@
 [title]
-Din stanci tasnesc izvoare de apa {author: {Anonim}, {rcId: {181670}}
+Din stanci tasnesc izvoare de apa {composer: {Anonim}, {rcId: {181670}}
 
 [sequence]
 v1,c,v2,c,v3,c

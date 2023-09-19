@@ -1,5 +1,5 @@
 [title]
-Harpa a lui david {author: {Petre Strango}, {rcId: {135412}}
+Harpa a lui david {composer: {Petre Strango}, {rcId: {135412}}
 
 [sequence]
 v1,c,v2,c,v3,c

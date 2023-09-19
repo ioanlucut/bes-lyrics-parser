@@ -1,5 +1,5 @@
 [title]
-Spre tine glasul mi-l indrept {author: {Otniel Stirb}, {rcId: {218387}}
+Spre tine glasul mi-l indrept {composer: {Otniel Stirb}, {rcId: {218387}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

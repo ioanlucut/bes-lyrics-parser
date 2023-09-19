@@ -1,5 +1,5 @@
 [title]
-Parea un vis si-o tainica rapire prin duhul sfant {author: {Eleazar}, {rcId: {7256}}
+Parea un vis si-o tainica rapire prin duhul sfant {composer: {Eleazar}, {rcId: {7256}}
 
 [sequence]
 v1,v2,v3,c,v4,c2,v5,c2,v6,c2,v7,c2,v8,c2,v9,c2,v10,c2,v11,c2,v12,c2,v13,c2,v14,c2,v15,c2,v16,c2,v17,c2

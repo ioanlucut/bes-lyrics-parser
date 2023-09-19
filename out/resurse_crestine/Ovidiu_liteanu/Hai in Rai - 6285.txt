@@ -1,5 +1,5 @@
 [title]
-Hai in rai {author: {Ovidiu Liteanu}, {rcId: {6285}}
+Hai in rai {composer: {Ovidiu Liteanu}, {rcId: {6285}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

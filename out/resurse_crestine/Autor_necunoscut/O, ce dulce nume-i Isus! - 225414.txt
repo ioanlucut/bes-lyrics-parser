@@ -1,5 +1,5 @@
 [title]
-O ce dulce nume-i isus {author: {Anonim}, {rcId: {225414}}
+O ce dulce nume-i isus {composer: {Anonim}, {rcId: {225414}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Sfant si mare-i al tau nume {author: {Raze de lumina}, {rcId: {202355}}
+Sfant si mare-i al tau nume {composer: {Raze de lumina}, {rcId: {202355}}
 
 [sequence]
 v1,c,v2,c

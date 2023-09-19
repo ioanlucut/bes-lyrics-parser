@@ -1,5 +1,5 @@
 [title]
-Staruiti acum cu totii o dupa duhul sfant {author: {Nicolae Moldoveanu}, {rcId: {5507}}
+Staruiti acum cu totii o dupa duhul sfant {composer: {Nicolae Moldoveanu}, {rcId: {5507}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Aleluia glorie {author: {Ovidiu Liteanu}, {rcId: {7024}}
+Aleluia glorie {composer: {Ovidiu Liteanu}, {rcId: {7024}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

@@ -1,5 +1,5 @@
 [title]
-Adonai {author: {Cristian Dragomir}, {rcId: {139934}}
+Adonai {composer: {Cristian Dragomir}, {rcId: {139934}}
 
 [sequence]
 v1,b,c,v2,b,c,c

@@ -1,5 +1,5 @@
 [title]
-Ma-ncred in tine {author: {Alin Timofte}, {rcId: {59472}}
+Ma-ncred in tine {composer: {Alin Timofte}, {rcId: {59472}}
 
 [sequence]
 v1,c

@@ -1,5 +1,5 @@
 [title]
-Fiul risipitor {author: {Speranța}, {rcId: {111314}}
+Fiul risipitor {composer: {Speranța}, {rcId: {111314}}
 
 [sequence]
 v1,c,v2,c,v3,c2

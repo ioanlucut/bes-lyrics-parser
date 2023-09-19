@@ -1,5 +1,5 @@
 [title]
-Sprijin cand mi-e greu {author: {David Lela}, {rcId: {194230}}
+Sprijin cand mi-e greu {composer: {David Lela}, {rcId: {194230}}
 
 [sequence]
 v1,c,v2,c,e

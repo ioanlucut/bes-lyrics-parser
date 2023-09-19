@@ -1,5 +1,5 @@
 [title]
-Acelasi dumnezeu {author: {The Berci Sisters}, {rcId: {167044}}
+Acelasi dumnezeu {composer: {The Berci Sisters}, {rcId: {167044}}
 
 [sequence]
 v1,c,v2,c,v3,b,c

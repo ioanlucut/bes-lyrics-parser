@@ -1,5 +1,5 @@
 [title]
-Doresc sa-ti fiu {author: {Nicolae Moldoveanu}, {rcId: {244487}}
+Doresc sa-ti fiu {composer: {Nicolae Moldoveanu}, {rcId: {244487}}
 
 [sequence]
 v1,v2,v3,v4

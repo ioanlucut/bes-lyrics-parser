@@ -1,5 +1,5 @@
 [title]
-El m-a eliberat (he set me free) {author: {Albert E. Brumley, Traducere RO}, {rcId: {91505}}
+El m-a eliberat (he set me free) {composer: {Albert E. Brumley, Traducere RO}, {rcId: {91505}}
 
 [sequence]
 v1,c,v2,c,v3,c,s,c

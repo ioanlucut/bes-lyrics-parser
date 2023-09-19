@@ -1,5 +1,5 @@
 [title]
-Revarsa azi al tau duh sfant {author: {Mirela Ursulescu}, {rcId: {176594}}
+Revarsa azi al tau duh sfant {composer: {Mirela Ursulescu}, {rcId: {176594}}
 
 [sequence]
 v1,c,v2,c,v3,c

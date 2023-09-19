@@ -1,5 +1,5 @@
 [title]
-Faptele iubirii {author: {Nicolae Moldoveanu}, {rcId: {244153}}
+Faptele iubirii {composer: {Nicolae Moldoveanu}, {rcId: {244153}}
 
 [sequence]
 v1,v2,v3,v4

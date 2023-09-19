@@ -1,5 +1,5 @@
 [title]
-Golgota {author: {Text și muzica: Adrian Galiger}, {rcId: {199392}}
+Golgota {composer: {Text și muzica: Adrian Galiger}, {rcId: {199392}}
 
 [sequence]
 v1,c,v2,c

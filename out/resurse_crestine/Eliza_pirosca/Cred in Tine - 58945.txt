@@ -1,5 +1,5 @@
 [title]
-Cred in tine {author: {Eliza Pirosca}, {rcId: {58945}}
+Cred in tine {composer: {Eliza Pirosca}, {rcId: {58945}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c,e

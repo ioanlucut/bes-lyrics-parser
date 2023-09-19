@@ -1,5 +1,5 @@
 [title]
-Ce har mi-ai dat {author: {Arman Ludovic}, {rcId: {104339}}
+Ce har mi-ai dat {composer: {Arman Ludovic}, {rcId: {104339}}
 
 [sequence]
 v1,c,v2,c,v3,c

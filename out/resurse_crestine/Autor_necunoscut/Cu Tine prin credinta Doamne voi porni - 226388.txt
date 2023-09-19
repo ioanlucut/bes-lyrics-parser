@@ -1,5 +1,5 @@
 [title]
-Cu tine prin credinta doamne voi porni {author: {Anonim}, {rcId: {226388}}
+Cu tine prin credinta doamne voi porni {composer: {Anonim}, {rcId: {226388}}
 
 [sequence]
 v1,b,c,v2,b,c

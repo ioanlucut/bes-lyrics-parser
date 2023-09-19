@@ -1,5 +1,5 @@
 [title]
-Osana osana {author: {Hillsong, Traducere RO}, {rcId: {6611}}
+Osana osana {composer: {Hillsong, Traducere RO}, {rcId: {6611}}
 
 [sequence]
 v1,c,v2,b,c

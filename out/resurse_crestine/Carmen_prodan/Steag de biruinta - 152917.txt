@@ -1,5 +1,5 @@
 [title]
-Steag de biruinta {author: {Carmen Prodan}, {rcId: {152917}}
+Steag de biruinta {composer: {Carmen Prodan}, {rcId: {152917}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Veni-va ziua ziua asteptata {author: {Ionel Saran Bochis}, {rcId: {111176}}
+Veni-va ziua ziua asteptata {composer: {Ionel Saran Bochis}, {rcId: {111176}}
 
 [sequence]
 v1,v2,v3

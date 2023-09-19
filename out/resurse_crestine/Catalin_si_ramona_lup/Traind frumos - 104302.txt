@@ -1,5 +1,5 @@
 [title]
-Traind frumos {author: {Cătălin și Ramona Lup}, {rcId: {104302}}
+Traind frumos {composer: {Cătălin și Ramona Lup}, {rcId: {104302}}
 
 [sequence]
 v1,c,v2,c

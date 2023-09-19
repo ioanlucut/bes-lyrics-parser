@@ -1,5 +1,5 @@
 [title]
-Ce scump oricarui credincios {author: {Anonim}, {rcId: {7062}}
+Ce scump oricarui credincios {composer: {Anonim}, {rcId: {7062}}
 
 [sequence]
 v1,c,v2,c,v3,c

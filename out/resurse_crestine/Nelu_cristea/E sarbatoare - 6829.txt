@@ -1,5 +1,5 @@
 [title]
-E sarbatoare {author: {Nelu Cristea}, {rcId: {6829}}
+E sarbatoare {composer: {Nelu Cristea}, {rcId: {6829}}
 
 [sequence]
 v1,v2,v3,v4,v5

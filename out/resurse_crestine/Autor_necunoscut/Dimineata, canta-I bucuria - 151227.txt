@@ -1,5 +1,5 @@
 [title]
-Dimineata cant~a-i bucuria {author: {Anonim}, {rcId: {151227}}
+Dimineata cant~a-i bucuria {composer: {Anonim}, {rcId: {151227}}
 
 [sequence]
 v1,c,v2,c2,v3,c2

@@ -1,5 +1,5 @@
 [title]
-Domnul bate la usa inimii tale {author: {Alexandru Groza}, {rcId: {193442}}
+Domnul bate la usa inimii tale {composer: {Alexandru Groza}, {rcId: {193442}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Aripi {author: {Contrast}, {rcId: {4322}}
+Aripi {composer: {Contrast}, {rcId: {4322}}
 
 [sequence]
 v1,c,e

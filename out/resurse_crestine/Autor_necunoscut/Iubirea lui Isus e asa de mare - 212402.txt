@@ -1,5 +1,5 @@
 [title]
-Iubirea lui isus e asa de mare {author: {Necunoscut}, {rcId: {212402}}
+Iubirea lui isus e asa de mare {composer: {Necunoscut}, {rcId: {212402}}
 
 [sequence]
 v1,c

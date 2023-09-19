@@ -1,5 +1,5 @@
 [title]
-Nu poti cumpara cu bani o mantuirea minunata {author: {Nicolae Moldoveanu}, {rcId: {5396}}
+Nu poti cumpara cu bani o mantuirea minunata {composer: {Nicolae Moldoveanu}, {rcId: {5396}}
 
 [sequence]
 v1,v2,v3,v4,v5

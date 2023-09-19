@@ -1,5 +1,5 @@
 [title]
-Cat de departe {author: {Marius Lela}, {rcId: {112678}}
+Cat de departe {composer: {Marius Lela}, {rcId: {112678}}
 
 [sequence]
 v1,c,v2,c

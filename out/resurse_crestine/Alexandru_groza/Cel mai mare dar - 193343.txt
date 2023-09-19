@@ -1,5 +1,5 @@
 [title]
-Cel mai mare dar {author: {Alexandru Groza}, {rcId: {193343}}
+Cel mai mare dar {composer: {Alexandru Groza}, {rcId: {193343}}
 
 [sequence]
 v1,c

@@ -1,5 +1,5 @@
 [title]
-In bezna vietii de pacat {author: {Alexandru Groza}, {rcId: {3605}}
+In bezna vietii de pacat {composer: {Alexandru Groza}, {rcId: {3605}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Ti-aducem lauda cinste - all glory laud and honor - si b maj {author: {ed. Dan Istrate autor: Theodulph of Orleans, circa 820 AD}, {rcId: {196749}}
+Ti-aducem lauda cinste - all glory laud and honor - si b maj {composer: {ed. Dan Istrate autor: Theodulph of Orleans, circa 820 AD}, {rcId: {196749}}
 
 [sequence]
 v1,v2,v3

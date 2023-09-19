@@ -1,5 +1,5 @@
 [title]
-Viata darul cerului {author: {Iolu Cornel}, {rcId: {150823}}
+Viata darul cerului {composer: {Iolu Cornel}, {rcId: {150823}}
 
 [sequence]
 v1,c,v2,c

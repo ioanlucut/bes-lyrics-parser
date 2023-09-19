@@ -1,5 +1,5 @@
 [title]
-Fii larg la inima si darnic {author: {Nicolae Moldoveanu}, {rcId: {74354}}
+Fii larg la inima si darnic {composer: {Nicolae Moldoveanu}, {rcId: {74354}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

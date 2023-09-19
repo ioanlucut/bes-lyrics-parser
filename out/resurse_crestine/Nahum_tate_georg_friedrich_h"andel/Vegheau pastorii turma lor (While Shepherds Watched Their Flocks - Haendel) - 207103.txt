@@ -1,5 +1,5 @@
 [title]
-Vegheau pastorii turma lor (while shepherds watched their flocks - h"andel) {author: {Nahum Tate, Georg Friedrich Händel, Traducere RO}, {rcId: {207103}}
+Vegheau pastorii turma lor (while shepherds watched their flocks - h"andel) {composer: {Nahum Tate, Georg Friedrich Händel, Traducere RO}, {rcId: {207103}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

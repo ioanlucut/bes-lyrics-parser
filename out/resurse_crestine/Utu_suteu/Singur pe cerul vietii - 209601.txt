@@ -1,5 +1,5 @@
 [title]
-Singur pe cerul vietii {author: {Utu Șuteu}, {rcId: {209601}}
+Singur pe cerul vietii {composer: {Utu Șuteu}, {rcId: {209601}}
 
 [sequence]
 v1,v2

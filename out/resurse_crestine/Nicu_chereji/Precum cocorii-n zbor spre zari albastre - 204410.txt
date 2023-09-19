@@ -1,5 +1,5 @@
 [title]
-Precum cocorii-n zbor spre zari albastre {author: {Nicu Chereji}, {rcId: {204410}}
+Precum cocorii-n zbor spre zari albastre {composer: {Nicu Chereji}, {rcId: {204410}}
 
 [sequence]
 v1,c,v2,c,v3,c

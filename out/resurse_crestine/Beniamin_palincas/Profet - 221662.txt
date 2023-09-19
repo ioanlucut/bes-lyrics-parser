@@ -1,5 +1,5 @@
 [title]
-Profet {author: {Beniamin Palincaș}, {rcId: {221662}}
+Profet {composer: {Beniamin Palincaș}, {rcId: {221662}}
 
 [sequence]
 v1,b,c,v1,b,c,e

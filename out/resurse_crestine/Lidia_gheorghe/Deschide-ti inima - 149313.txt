@@ -1,5 +1,5 @@
 [title]
-Deschide-ti inima {author: {Lidia Gheorghe}, {rcId: {149313}}
+Deschide-ti inima {composer: {Lidia Gheorghe}, {rcId: {149313}}
 
 [sequence]
 v1,v2

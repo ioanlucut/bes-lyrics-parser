@@ -1,5 +1,5 @@
 [title]
-Sunt atat de pacatos {author: {Nicu Chereji}, {rcId: {208862}}
+Sunt atat de pacatos {composer: {Nicu Chereji}, {rcId: {208862}}
 
 [sequence]
 v1,v2,v3,v4

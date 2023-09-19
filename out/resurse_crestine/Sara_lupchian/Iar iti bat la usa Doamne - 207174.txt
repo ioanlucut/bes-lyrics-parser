@@ -1,5 +1,5 @@
 [title]
-Iar iti bat la usa doamne {author: {Sara Lupchian}, {rcId: {207174}}
+Iar iti bat la usa doamne {composer: {Sara Lupchian}, {rcId: {207174}}
 
 [sequence]
 v1

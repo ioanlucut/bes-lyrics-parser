@@ -1,5 +1,5 @@
 [title]
-Tara de vis tara paradis {author: {Maria Șimon}, {rcId: {208748}}
+Tara de vis tara paradis {composer: {Maria Șimon}, {rcId: {208748}}
 
 [sequence]
 v1,c,v2,c,v3,c

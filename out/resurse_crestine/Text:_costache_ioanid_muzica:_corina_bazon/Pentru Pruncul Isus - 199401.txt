@@ -1,5 +1,5 @@
 [title]
-Pentru pruncul isus {author: {Text: Costache Ioanid, Muzica: Corina Bazon}, {rcId: {199401}}
+Pentru pruncul isus {composer: {Text: Costache Ioanid, Muzica: Corina Bazon}, {rcId: {199401}}
 
 [sequence]
 v1,c,v2,c

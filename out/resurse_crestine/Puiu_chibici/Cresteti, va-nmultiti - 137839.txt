@@ -1,5 +1,5 @@
 [title]
-Cresteti va-nmultiti {author: {Puiu Chibici}, {rcId: {137839}}
+Cresteti va-nmultiti {composer: {Puiu Chibici}, {rcId: {137839}}
 
 [sequence]
 v1,v2,v3,v4

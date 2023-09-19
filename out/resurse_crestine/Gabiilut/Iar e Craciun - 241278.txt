@@ -1,5 +1,5 @@
 [title]
-Iar e craciun {author: {Gabi_Ilut}, {rcId: {241278}}
+Iar e craciun {composer: {Gabi_Ilut}, {rcId: {241278}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Cred in cartea sfanta biblia {author: {Otniel Stirb}, {rcId: {238966}}
+Cred in cartea sfanta biblia {composer: {Otniel Stirb}, {rcId: {238966}}
 
 [sequence]
 v1,c,v2,c

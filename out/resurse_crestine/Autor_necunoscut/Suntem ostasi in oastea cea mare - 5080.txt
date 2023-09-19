@@ -1,5 +1,5 @@
 [title]
-Suntem ostasi in oastea cea mare {author: {Anonim}, {rcId: {5080}}
+Suntem ostasi in oastea cea mare {composer: {Anonim}, {rcId: {5080}}
 
 [sequence]
 v1,c,v2,c

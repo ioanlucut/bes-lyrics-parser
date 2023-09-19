@@ -1,5 +1,5 @@
 [title]
-Domnul poarta grija {author: {Nicolae Moldoveanu}, {rcId: {227608}}
+Domnul poarta grija {composer: {Nicolae Moldoveanu}, {rcId: {227608}}
 
 [sequence]
 v1,v2,v3

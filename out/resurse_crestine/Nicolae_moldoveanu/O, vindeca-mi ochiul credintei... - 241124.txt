@@ -1,5 +1,5 @@
 [title]
-O vindeca-mi ochiul credintei {author: {Nicolae Moldoveanu}, {rcId: {241124}}
+O vindeca-mi ochiul credintei {composer: {Nicolae Moldoveanu}, {rcId: {241124}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Esti ajutor in incercare esti adevarata salvare {author: {Anonim}, {rcId: {190458}}
+Esti ajutor in incercare esti adevarata salvare {composer: {Anonim}, {rcId: {190458}}
 
 [sequence]
 v1,c,v2,c,v3,c

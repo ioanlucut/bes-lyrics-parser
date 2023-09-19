@@ -1,5 +1,5 @@
 [title]
-Ninge lin {author: {Continental}, {rcId: {84942}}
+Ninge lin {composer: {Continental}, {rcId: {84942}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c2,v5,c2

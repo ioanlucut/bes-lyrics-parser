@@ -1,5 +1,5 @@
 [title]
-Psalmii - frumos este sa laudam pe domnul (veniti sa ne-nchinam si sa ne smerim) {author: {Ovidiu Liteanu}, {rcId: {188231}}
+Psalmii - frumos este sa laudam pe domnul (veniti sa ne-nchinam si sa ne smerim) {composer: {Ovidiu Liteanu}, {rcId: {188231}}
 
 [sequence]
 v1,c,v2,c2,c

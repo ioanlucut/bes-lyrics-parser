@@ -1,5 +1,5 @@
 [title]
-Chiar de norul este mic {author: {Nicolae Moldoveanu}, {rcId: {227699}}
+Chiar de norul este mic {composer: {Nicolae Moldoveanu}, {rcId: {227699}}
 
 [sequence]
 v1,v2,v3

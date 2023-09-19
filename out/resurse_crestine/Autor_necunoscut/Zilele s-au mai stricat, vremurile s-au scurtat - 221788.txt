@@ -1,5 +1,5 @@
 [title]
-Zilele s-au mai stricat vremurile s-au scurtat {author: {Anonim}, {rcId: {221788}}
+Zilele s-au mai stricat vremurile s-au scurtat {composer: {Anonim}, {rcId: {221788}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Isus e in inima mea {author: {Anonim}, {rcId: {59481}}
+Isus e in inima mea {composer: {Anonim}, {rcId: {59481}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Doamne mare {author: {Alexandru Groza}, {rcId: {193310}}
+Doamne mare {composer: {Alexandru Groza}, {rcId: {193310}}
 
 [sequence]
 v1,c,v2,c,v3,c2

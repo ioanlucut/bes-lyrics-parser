@@ -1,5 +1,5 @@
 [title]
-Un stalp in templul tau {author: {Nicolae Moldoveanu}, {rcId: {242513}}
+Un stalp in templul tau {composer: {Nicolae Moldoveanu}, {rcId: {242513}}
 
 [sequence]
 v1,v2,v3,v4,v5

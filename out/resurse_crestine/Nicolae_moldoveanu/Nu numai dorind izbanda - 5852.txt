@@ -1,5 +1,5 @@
 [title]
-Nu numai dorind izbanda {author: {Nicolae Moldoveanu}, {rcId: {5852}}
+Nu numai dorind izbanda {composer: {Nicolae Moldoveanu}, {rcId: {5852}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c

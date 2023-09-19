@@ -1,5 +1,5 @@
 [title]
-Sus e locul (home) {author: {Aaron Wilburn, Rusty, Tanya Goodman, Traducere RO}, {rcId: {96480}}
+Sus e locul (home) {composer: {Aaron Wilburn, Rusty, Tanya Goodman, Traducere RO}, {rcId: {96480}}
 
 [sequence]
 v1,c,v2,c,s,c

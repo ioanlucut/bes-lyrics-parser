@@ -1,5 +1,5 @@
 [title]
-Din zari senine (brightest and best) {author: {Reginald Heber, Jean Ritchie, Traducere RO}, {rcId: {117819}}
+Din zari senine (brightest and best) {composer: {Reginald Heber, Jean Ritchie, Traducere RO}, {rcId: {117819}}
 
 [sequence]
 v1,c,v2,c,v3,c,s,c

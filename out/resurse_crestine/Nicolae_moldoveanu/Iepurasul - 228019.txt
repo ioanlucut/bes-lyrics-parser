@@ -1,5 +1,5 @@
 [title]
-Iepurasul {author: {Nicolae Moldoveanu}, {rcId: {228019}}
+Iepurasul {composer: {Nicolae Moldoveanu}, {rcId: {228019}}
 
 [sequence]
 v1,v2

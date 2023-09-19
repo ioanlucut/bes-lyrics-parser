@@ -1,5 +1,5 @@
 [title]
-Ramai pe-a cerului carare {author: {Anonim}, {rcId: {137792}}
+Ramai pe-a cerului carare {composer: {Anonim}, {rcId: {137792}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Sfanta sarbatoare la noi ai venit {author: {Nicolae Moldoveanu}, {rcId: {189877}}
+Sfanta sarbatoare la noi ai venit {composer: {Nicolae Moldoveanu}, {rcId: {189877}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

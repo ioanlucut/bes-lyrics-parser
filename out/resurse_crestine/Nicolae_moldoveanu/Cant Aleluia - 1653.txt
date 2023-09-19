@@ -1,5 +1,5 @@
 [title]
-Cant aleluia {author: {Nicolae Moldoveanu}, {rcId: {1653}}
+Cant aleluia {composer: {Nicolae Moldoveanu}, {rcId: {1653}}
 
 [sequence]
 v1,c,v2,c,v3,c

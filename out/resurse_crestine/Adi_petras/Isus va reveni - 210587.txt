@@ -1,5 +1,5 @@
 [title]
-Isus va reveni {author: {adi petras}, {rcId: {210587}}
+Isus va reveni {composer: {adi petras}, {rcId: {210587}}
 
 [sequence]
 v1,c,v2,c

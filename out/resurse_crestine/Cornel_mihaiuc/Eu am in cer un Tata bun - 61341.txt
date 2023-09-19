@@ -1,5 +1,5 @@
 [title]
-Eu am in cer un tata bun {author: {Cornel Mihaiuc}, {rcId: {61341}}
+Eu am in cer un tata bun {composer: {Cornel Mihaiuc}, {rcId: {61341}}
 
 [sequence]
 v1,c,v2,c

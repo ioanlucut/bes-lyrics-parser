@@ -1,5 +1,5 @@
 [title]
-Tu esti sfant- you are holy {author: {Joshua Aaron}, {rcId: {209079}}
+Tu esti sfant- you are holy {composer: {Joshua Aaron}, {rcId: {209079}}
 
 [sequence]
 s,c,s2,c,e,e2,e3

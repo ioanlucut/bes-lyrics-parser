@@ -1,5 +1,5 @@
 [title]
-Se intorc evreii {author: {Ovidiu Liteanu}, {rcId: {187424}}
+Se intorc evreii {composer: {Ovidiu Liteanu}, {rcId: {187424}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

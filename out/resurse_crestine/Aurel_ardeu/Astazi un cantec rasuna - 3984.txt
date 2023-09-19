@@ -1,5 +1,5 @@
 [title]
-Astazi un cantec rasuna {author: {Aurel Ardeu}, {rcId: {3984}}
+Astazi un cantec rasuna {composer: {Aurel Ardeu}, {rcId: {3984}}
 
 [sequence]
 v1,c,v2,c,v3,c

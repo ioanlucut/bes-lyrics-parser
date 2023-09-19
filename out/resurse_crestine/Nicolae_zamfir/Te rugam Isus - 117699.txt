@@ -1,5 +1,5 @@
 [title]
-Te rugam isus {author: {Nicolae Zamfir}, {rcId: {117699}}
+Te rugam isus {composer: {Nicolae Zamfir}, {rcId: {117699}}
 
 [sequence]
 v1,c,v2,c,v3,c

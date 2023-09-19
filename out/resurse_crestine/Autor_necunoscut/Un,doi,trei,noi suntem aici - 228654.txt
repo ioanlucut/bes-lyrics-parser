@@ -1,5 +1,5 @@
 [title]
-Undoitreinoi suntem aici {author: {Anonim}, {rcId: {228654}}
+Undoitreinoi suntem aici {composer: {Anonim}, {rcId: {228654}}
 
 [sequence]
 v1,c,c

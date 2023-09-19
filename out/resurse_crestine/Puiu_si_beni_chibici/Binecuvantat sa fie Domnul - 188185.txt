@@ -1,5 +1,5 @@
 [title]
-Binecuvantat sa fie domnul {author: {Puiu și Beni Chibici}, {rcId: {188185}}
+Binecuvantat sa fie domnul {composer: {Puiu și Beni Chibici}, {rcId: {188185}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Iti inalt cu bucurie {author: {Anonim}, {rcId: {151398}}
+Iti inalt cu bucurie {composer: {Anonim}, {rcId: {151398}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

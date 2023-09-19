@@ -1,5 +1,5 @@
 [title]
-Mainile tale dulce isuse {author: {Nicolae Moldoveanu}, {rcId: {246197}}
+Mainile tale dulce isuse {composer: {Nicolae Moldoveanu}, {rcId: {246197}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

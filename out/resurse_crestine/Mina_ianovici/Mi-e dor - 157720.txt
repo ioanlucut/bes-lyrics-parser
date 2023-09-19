@@ -1,5 +1,5 @@
 [title]
-Mi-e dor {author: {Mina Ianovici}, {rcId: {157720}}
+Mi-e dor {composer: {Mina Ianovici}, {rcId: {157720}}
 
 [sequence]
 v1,c,v2,c

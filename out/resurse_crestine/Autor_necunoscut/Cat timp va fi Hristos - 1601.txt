@@ -1,5 +1,5 @@
 [title]
-Cat timp va fi hristos {author: {Anonim}, {rcId: {1601}}
+Cat timp va fi hristos {composer: {Anonim}, {rcId: {1601}}
 
 [sequence]
 v1,v2,v3,v4

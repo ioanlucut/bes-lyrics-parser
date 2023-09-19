@@ -1,5 +1,5 @@
 [title]
-Ca estera vreau sa fiu {author: {Rebeca Chiricioaei}, {rcId: {214834}}
+Ca estera vreau sa fiu {composer: {Rebeca Chiricioaei}, {rcId: {214834}}
 
 [sequence]
 v1,v2,v3

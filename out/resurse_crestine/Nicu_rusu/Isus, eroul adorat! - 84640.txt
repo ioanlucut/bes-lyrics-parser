@@ -1,5 +1,5 @@
 [title]
-Isus eroul adorat {author: {Nicu Rusu}, {rcId: {84640}}
+Isus eroul adorat {composer: {Nicu Rusu}, {rcId: {84640}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

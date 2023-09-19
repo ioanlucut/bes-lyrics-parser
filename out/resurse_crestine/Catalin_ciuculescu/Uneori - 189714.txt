@@ -1,5 +1,5 @@
 [title]
-Uneori {author: {Cătălin Ciuculescu}, {rcId: {189714}}
+Uneori {composer: {Cătălin Ciuculescu}, {rcId: {189714}}
 
 [sequence]
 v1,v2,c,v3,c

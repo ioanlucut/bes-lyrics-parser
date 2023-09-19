@@ -1,5 +1,5 @@
 [title]
-Ingeri au cantat {author: {Anonim}, {rcId: {1475}}
+Ingeri au cantat {composer: {Anonim}, {rcId: {1475}}
 
 [sequence]
 v1,v2,v3

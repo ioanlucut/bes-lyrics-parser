@@ -1,5 +1,5 @@
 [title]
-Numai tu isuse doamne {author: {Nicolae Moldoveanu}, {rcId: {247923}}
+Numai tu isuse doamne {composer: {Nicolae Moldoveanu}, {rcId: {247923}}
 
 [sequence]
 v1,v2,v3,v4

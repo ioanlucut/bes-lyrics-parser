@@ -1,5 +1,5 @@
 [title]
-De-mi vezi chipul in durere {author: {Puiu Chibici}, {rcId: {137938}}
+De-mi vezi chipul in durere {composer: {Puiu Chibici}, {rcId: {137938}}
 
 [sequence]
 v1,c,v2,c,v3,c

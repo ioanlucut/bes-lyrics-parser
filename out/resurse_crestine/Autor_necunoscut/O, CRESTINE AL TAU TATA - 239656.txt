@@ -1,5 +1,5 @@
 [title]
-O crestine al tau tata {author: {Autor necunoscut}, {rcId: {239656}}
+O crestine al tau tata {composer: {Autor necunoscut}, {rcId: {239656}}
 
 [sequence]
 v1,v2,v3,v4

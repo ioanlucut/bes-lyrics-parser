@@ -1,5 +1,5 @@
 [title]
-O casa zidita pe stanca cea tare {author: {Dorel Breabăn}, {rcId: {202178}}
+O casa zidita pe stanca cea tare {composer: {Dorel Breabăn}, {rcId: {202178}}
 
 [sequence]
 v1,c,v2,c,v3,c

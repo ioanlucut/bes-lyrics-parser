@@ -1,5 +1,5 @@
 [title]
-O cetate-n sarbatoare {author: {Anonim}, {rcId: {128162}}
+O cetate-n sarbatoare {composer: {Anonim}, {rcId: {128162}}
 
 [sequence]
 v1,c,v2,c,v3,c

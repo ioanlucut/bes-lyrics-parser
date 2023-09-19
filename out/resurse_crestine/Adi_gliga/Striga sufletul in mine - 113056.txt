@@ -1,5 +1,5 @@
 [title]
-Striga sufletul in mine {author: {Adi Gliga}, {rcId: {113056}}
+Striga sufletul in mine {composer: {Adi Gliga}, {rcId: {113056}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

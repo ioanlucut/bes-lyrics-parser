@@ -1,5 +1,5 @@
 [title]
-Iubirea {author: {Ligia Bodea.}, {rcId: {6832}}
+Iubirea {composer: {Ligia Bodea.}, {rcId: {6832}}
 
 [sequence]
 v1,c,v2,c,v3,c

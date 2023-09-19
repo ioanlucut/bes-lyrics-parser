@@ -1,5 +1,5 @@
 [title]
-Colindul mamei {author: {Speranța și prietenii}, {rcId: {116981}}
+Colindul mamei {composer: {Speranța și prietenii}, {rcId: {116981}}
 
 [sequence]
 v1,c,v2,c,v3,c

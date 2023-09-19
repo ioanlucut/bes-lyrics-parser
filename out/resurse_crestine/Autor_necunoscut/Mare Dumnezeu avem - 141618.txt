@@ -1,5 +1,5 @@
 [title]
-Mare dumnezeu avem {author: {Anonim}, {rcId: {141618}}
+Mare dumnezeu avem {composer: {Anonim}, {rcId: {141618}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Universul e in asteptare {author: {Dorel Breabăn}, {rcId: {206793}}
+Universul e in asteptare {composer: {Dorel Breabăn}, {rcId: {206793}}
 
 [sequence]
 v1,c,v2,c,v3,c

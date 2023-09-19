@@ -1,5 +1,5 @@
 [title]
-Tata din ceruri {author: {Excelsis Worship}, {rcId: {4122}}
+Tata din ceruri {composer: {Excelsis Worship}, {rcId: {4122}}
 
 [sequence]
 v1,c,v1,c

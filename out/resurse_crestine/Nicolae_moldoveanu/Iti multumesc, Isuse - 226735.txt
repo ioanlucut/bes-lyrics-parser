@@ -1,5 +1,5 @@
 [title]
-Iti multumesc isuse {author: {Nicolae Moldoveanu}, {rcId: {226735}}
+Iti multumesc isuse {composer: {Nicolae Moldoveanu}, {rcId: {226735}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

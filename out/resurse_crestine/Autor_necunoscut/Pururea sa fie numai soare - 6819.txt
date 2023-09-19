@@ -1,5 +1,5 @@
 [title]
-Pururea sa fie numai soare {author: {Anonim}, {rcId: {6819}}
+Pururea sa fie numai soare {composer: {Anonim}, {rcId: {6819}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

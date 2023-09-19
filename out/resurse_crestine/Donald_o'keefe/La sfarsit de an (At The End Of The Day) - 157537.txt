@@ -1,5 +1,5 @@
 [title]
-La sfarsit de an (at the end of the day) {author: {Donald O’Keefe, Traducere RO}, {rcId: {157537}}
+La sfarsit de an (at the end of the day) {composer: {Donald O’Keefe, Traducere RO}, {rcId: {157537}}
 
 [sequence]
 v1,v2,v3,s

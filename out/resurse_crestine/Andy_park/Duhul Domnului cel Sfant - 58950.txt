@@ -1,5 +1,5 @@
 [title]
-Duhul domnului cel sfant {author: {Andy Park, Traducere RO}, {rcId: {58950}}
+Duhul domnului cel sfant {composer: {Andy Park, Traducere RO}, {rcId: {58950}}
 
 [sequence]
 v1,c,c,v2,c2

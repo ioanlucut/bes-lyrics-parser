@@ -1,5 +1,5 @@
 [title]
-Israele cand te vei trezi {author: {Ionel Saran}, {rcId: {117012}}
+Israele cand te vei trezi {composer: {Ionel Saran}, {rcId: {117012}}
 
 [sequence]
 v1,c,v2,c

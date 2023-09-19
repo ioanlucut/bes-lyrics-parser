@@ -1,5 +1,5 @@
 [title]
-Doamne tu esti un foc {author: {Poarta Cerului}, {rcId: {173185}}
+Doamne tu esti un foc {composer: {Poarta Cerului}, {rcId: {173185}}
 
 [sequence]
 v1,c,v2,c,e,c,e2,c

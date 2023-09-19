@@ -1,5 +1,5 @@
 [title]
-Esti pe calea mantuirii dar copiii unde-ti sunt? {author: {Anonim}, {rcId: {169075}}
+Esti pe calea mantuirii dar copiii unde-ti sunt? {composer: {Anonim}, {rcId: {169075}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

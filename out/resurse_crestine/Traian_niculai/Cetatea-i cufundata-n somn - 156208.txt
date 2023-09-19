@@ -1,5 +1,5 @@
 [title]
-Cetatea-i cufundata-n somn {author: {Traian Niculai}, {rcId: {156208}}
+Cetatea-i cufundata-n somn {composer: {Traian Niculai}, {rcId: {156208}}
 
 [sequence]
 v1,c,v2,c,v3,c

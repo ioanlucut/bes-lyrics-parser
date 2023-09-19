@@ -1,5 +1,5 @@
 [title]
-Dragostea ta {author: {Mathias Mihalcea, 1907 Worship}, {rcId: {230580}}
+Dragostea ta {composer: {Mathias Mihalcea, 1907 Worship}, {rcId: {230580}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c

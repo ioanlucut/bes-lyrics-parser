@@ -1,5 +1,5 @@
 [title]
-A venit un om {author: {Anonim}, {rcId: {1376}}
+A venit un om {composer: {Anonim}, {rcId: {1376}}
 
 [sequence]
 v1,v2,v3,v4

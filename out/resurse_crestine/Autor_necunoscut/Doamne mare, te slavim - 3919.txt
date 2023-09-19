@@ -1,5 +1,5 @@
 [title]
-Doamne mare te slavim {author: {Anonim}, {rcId: {3919}}
+Doamne mare te slavim {composer: {Anonim}, {rcId: {3919}}
 
 [sequence]
 v1,v2,v3

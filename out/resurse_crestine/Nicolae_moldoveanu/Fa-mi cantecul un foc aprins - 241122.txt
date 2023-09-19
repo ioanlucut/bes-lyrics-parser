@@ -1,5 +1,5 @@
 [title]
-Fa-mi cantecul un foc aprins {author: {Nicolae Moldoveanu}, {rcId: {241122}}
+Fa-mi cantecul un foc aprins {composer: {Nicolae Moldoveanu}, {rcId: {241122}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-In cartea cea sfanta-am citit {author: {Anonim}, {rcId: {6237}}
+In cartea cea sfanta-am citit {composer: {Anonim}, {rcId: {6237}}
 
 [sequence]
 v1,v2,v3

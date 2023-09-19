@@ -1,5 +1,5 @@
 [title]
-Azi isus te intreaba tu ce faci cu viata ta {author: {Anonim}, {rcId: {227186}}
+Azi isus te intreaba tu ce faci cu viata ta {composer: {Anonim}, {rcId: {227186}}
 
 [sequence]
 v1,c,v2,c,v3,c

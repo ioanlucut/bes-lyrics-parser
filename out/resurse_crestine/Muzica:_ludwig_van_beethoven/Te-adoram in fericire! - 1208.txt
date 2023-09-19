@@ -1,5 +1,5 @@
 [title]
-Te-adoram in fericire {author: {Muzica: Ludwig van Beethoven}, {rcId: {1208}}
+Te-adoram in fericire {composer: {Muzica: Ludwig van Beethoven}, {rcId: {1208}}
 
 [sequence]
 v1,v2,v3

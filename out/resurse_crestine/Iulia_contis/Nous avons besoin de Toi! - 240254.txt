@@ -1,5 +1,5 @@
 [title]
-Nous avons besoin de toi {author: {Iulia Contis}, {rcId: {240254}}
+Nous avons besoin de toi {composer: {Iulia Contis}, {rcId: {240254}}
 
 [sequence]
 v1,v2

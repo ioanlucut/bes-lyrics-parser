@@ -1,5 +1,5 @@
 [title]
-Tu ma cercetezi {author: {The Messengers}, {rcId: {58041}}
+Tu ma cercetezi {composer: {The Messengers}, {rcId: {58041}}
 
 [sequence]
 v1,c,v2,c

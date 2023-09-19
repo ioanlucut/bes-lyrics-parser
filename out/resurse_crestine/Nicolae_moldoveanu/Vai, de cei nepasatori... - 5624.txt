@@ -1,5 +1,5 @@
 [title]
-Vai de cei nepasatori {author: {Nicolae Moldoveanu}, {rcId: {5624}}
+Vai de cei nepasatori {composer: {Nicolae Moldoveanu}, {rcId: {5624}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

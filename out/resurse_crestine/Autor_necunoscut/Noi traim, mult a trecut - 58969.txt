@@ -1,5 +1,5 @@
 [title]
-Noi traim mult a trecut {author: {Anonim, Traducere RO}, {rcId: {58969}}
+Noi traim mult a trecut {composer: {Anonim, Traducere RO}, {rcId: {58969}}
 
 [sequence]
 v1,c,v2,c,v3,c

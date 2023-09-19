@@ -1,5 +1,5 @@
 [title]
-La ceasul cand cocosii canta {author: {Daniel Briciu}, {rcId: {240350}}
+La ceasul cand cocosii canta {composer: {Daniel Briciu}, {rcId: {240350}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

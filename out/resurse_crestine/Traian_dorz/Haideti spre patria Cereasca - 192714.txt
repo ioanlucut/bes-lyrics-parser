@@ -1,5 +1,5 @@
 [title]
-Haideti spre patria cereasca {author: {Traian Dorz}, {rcId: {192714}}
+Haideti spre patria cereasca {composer: {Traian Dorz}, {rcId: {192714}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

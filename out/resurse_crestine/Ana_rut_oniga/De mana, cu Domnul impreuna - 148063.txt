@@ -1,5 +1,5 @@
 [title]
-De mana cu domnul impreuna {author: {Ana Rut Oniga}, {rcId: {148063}}
+De mana cu domnul impreuna {composer: {Ana Rut Oniga}, {rcId: {148063}}
 
 [sequence]
 v1,c,v2,c

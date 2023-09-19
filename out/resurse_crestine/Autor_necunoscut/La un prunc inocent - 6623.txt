@@ -1,5 +1,5 @@
 [title]
-La un prunc inocent {author: {Anonim}, {rcId: {6623}}
+La un prunc inocent {composer: {Anonim}, {rcId: {6623}}
 
 [sequence]
 v1,v2,v3,v4

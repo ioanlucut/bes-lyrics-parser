@@ -1,5 +1,5 @@
 [title]
-O isus lumina mea numai tie-ti voi canta {author: {Ovidiu Liteanu}, {rcId: {188225}}
+O isus lumina mea numai tie-ti voi canta {composer: {Ovidiu Liteanu}, {rcId: {188225}}
 
 [sequence]
 v1,v2,v3,v4

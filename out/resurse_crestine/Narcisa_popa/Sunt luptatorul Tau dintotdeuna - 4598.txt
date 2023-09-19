@@ -1,5 +1,5 @@
 [title]
-Sunt luptatorul tau dintotdeuna {author: {Narcisa Popa}, {rcId: {4598}}
+Sunt luptatorul tau dintotdeuna {composer: {Narcisa Popa}, {rcId: {4598}}
 
 [sequence]
 v1,c,v2,c,v3,c

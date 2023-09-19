@@ -1,5 +1,5 @@
 [title]
-Ma leg de tine {author: {Miriam Popescu}, {rcId: {227178}}
+Ma leg de tine {composer: {Miriam Popescu}, {rcId: {227178}}
 
 [sequence]
 v1,c,v2,c

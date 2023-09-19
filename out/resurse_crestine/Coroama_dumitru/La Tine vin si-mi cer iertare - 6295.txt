@@ -1,5 +1,5 @@
 [title]
-La tine vin si-mi cer iertare {author: {Coroama Dumitru}, {rcId: {6295}}
+La tine vin si-mi cer iertare {composer: {Coroama Dumitru}, {rcId: {6295}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

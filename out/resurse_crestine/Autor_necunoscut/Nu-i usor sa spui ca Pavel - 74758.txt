@@ -1,5 +1,5 @@
 [title]
-Nu-i usor sa spui ca pavel {author: {Anonim}, {rcId: {74758}}
+Nu-i usor sa spui ca pavel {composer: {Anonim}, {rcId: {74758}}
 
 [sequence]
 v1,v2,v3

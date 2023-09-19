@@ -1,5 +1,5 @@
 [title]
-Pentru noi e taina mare {author: {Speranța și prietenii}, {rcId: {5545}}
+Pentru noi e taina mare {composer: {Speranța și prietenii}, {rcId: {5545}}
 
 [sequence]
 v1,c,v2,c,v3,c

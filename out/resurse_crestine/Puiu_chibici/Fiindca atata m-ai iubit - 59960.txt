@@ -1,5 +1,5 @@
 [title]
-Fiindca atata m-ai iubit {author: {Puiu Chibici}, {rcId: {59960}}
+Fiindca atata m-ai iubit {composer: {Puiu Chibici}, {rcId: {59960}}
 
 [sequence]
 v1,v2,v3,v4

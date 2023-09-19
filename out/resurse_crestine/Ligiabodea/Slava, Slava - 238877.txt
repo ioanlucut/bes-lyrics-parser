@@ -1,5 +1,5 @@
 [title]
-Slava slava {author: {Ligia_Bodea}, {rcId: {238877}}
+Slava slava {composer: {Ligia_Bodea}, {rcId: {238877}}
 
 [sequence]
 v1,c,v2,c

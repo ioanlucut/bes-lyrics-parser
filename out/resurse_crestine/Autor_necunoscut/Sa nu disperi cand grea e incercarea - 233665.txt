@@ -1,5 +1,5 @@
 [title]
-Sa nu disperi cand grea e incercarea {author: {Anonim}, {rcId: {233665}}
+Sa nu disperi cand grea e incercarea {composer: {Anonim}, {rcId: {233665}}
 
 [sequence]
 v1,v2,v3,v4

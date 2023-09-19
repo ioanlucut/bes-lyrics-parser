@@ -1,5 +1,5 @@
 [title]
-Parfumul cantarilor {author: {Diaz Amos}, {rcId: {238798}}
+Parfumul cantarilor {composer: {Diaz Amos}, {rcId: {238798}}
 
 [sequence]
 v1,v2,v3

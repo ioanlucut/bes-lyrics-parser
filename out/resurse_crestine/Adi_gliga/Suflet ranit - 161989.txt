@@ -1,5 +1,5 @@
 [title]
-Suflet ranit {author: {Adi Gliga}, {rcId: {161989}}
+Suflet ranit {composer: {Adi Gliga}, {rcId: {161989}}
 
 [sequence]
 v1,c,v2,c

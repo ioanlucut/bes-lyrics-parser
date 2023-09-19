@@ -1,5 +1,5 @@
 [title]
-Isuse esti cu mine {author: {Nicolae Moldoveanu}, {rcId: {242723}}
+Isuse esti cu mine {composer: {Nicolae Moldoveanu}, {rcId: {242723}}
 
 [sequence]
 v1,v2,v3,v4

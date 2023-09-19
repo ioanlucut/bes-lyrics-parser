@@ -1,5 +1,5 @@
 [title]
-Cerul tu deschide-l {author: {Excelsis Worship}, {rcId: {239454}}
+Cerul tu deschide-l {composer: {Excelsis Worship}, {rcId: {239454}}
 
 [sequence]
 v1,c,v2,c,e

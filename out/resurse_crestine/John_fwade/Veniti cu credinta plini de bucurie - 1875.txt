@@ -1,5 +1,5 @@
 [title]
-Veniti cu credinta plini de bucurie {author: {John F.Wade}, {rcId: {1875}}
+Veniti cu credinta plini de bucurie {composer: {John F.Wade}, {rcId: {1875}}
 
 [sequence]
 v1,c,v2,c,v3,c2

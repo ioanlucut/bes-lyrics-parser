@@ -1,5 +1,5 @@
 [title]
-Eu vreau sa fiu o lumina {author: {Anonim}, {rcId: {804}}
+Eu vreau sa fiu o lumina {composer: {Anonim}, {rcId: {804}}
 
 [sequence]
 v1,v2,v3

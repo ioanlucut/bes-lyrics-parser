@@ -1,5 +1,5 @@
 [title]
-Veniti sa cantam lauda lui isus {author: {Joseph Haydn}, {rcId: {6457}}
+Veniti sa cantam lauda lui isus {composer: {Joseph Haydn}, {rcId: {6457}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Vazut-ai tu cum trece vremea {author: {Nicolae Moldoveanu}, {rcId: {5549}}
+Vazut-ai tu cum trece vremea {composer: {Nicolae Moldoveanu}, {rcId: {5549}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c

@@ -1,5 +1,5 @@
 [title]
-Linistea noptii iarasi zarea-a cuprins {author: {Anonim}, {rcId: {186911}}
+Linistea noptii iarasi zarea-a cuprins {composer: {Anonim}, {rcId: {186911}}
 
 [sequence]
 v1,c,v2,c,v3,c

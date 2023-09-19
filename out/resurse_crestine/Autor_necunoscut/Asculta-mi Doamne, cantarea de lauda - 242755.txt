@@ -1,5 +1,5 @@
 [title]
-Asculta-mi doamne cantarea de lauda {author: {Anonim}, {rcId: {242755}}
+Asculta-mi doamne cantarea de lauda {composer: {Anonim}, {rcId: {242755}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,c,s,c

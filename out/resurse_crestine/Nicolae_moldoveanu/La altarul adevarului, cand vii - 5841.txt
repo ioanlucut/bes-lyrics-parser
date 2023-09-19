@@ -1,5 +1,5 @@
 [title]
-La altarul adevarului cand vii {author: {Nicolae Moldoveanu}, {rcId: {5841}}
+La altarul adevarului cand vii {composer: {Nicolae Moldoveanu}, {rcId: {5841}}
 
 [sequence]
 v1,v2,v3,v4,v5

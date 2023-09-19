@@ -1,5 +1,5 @@
 [title]
-A venit in lume {author: {Nicu Rusu}, {rcId: {84639}}
+A venit in lume {composer: {Nicu Rusu}, {rcId: {84639}}
 
 [sequence]
 v1,v2,v3,v4

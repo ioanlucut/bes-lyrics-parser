@@ -1,5 +1,5 @@
 [title]
-Cand te afli-n deznadejde {author: {Anonim}, {rcId: {156323}}
+Cand te afli-n deznadejde {composer: {Anonim}, {rcId: {156323}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

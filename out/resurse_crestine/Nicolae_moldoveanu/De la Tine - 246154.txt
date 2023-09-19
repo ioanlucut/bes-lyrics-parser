@@ -1,5 +1,5 @@
 [title]
-De la tine {author: {Nicolae Moldoveanu}, {rcId: {246154}}
+De la tine {composer: {Nicolae Moldoveanu}, {rcId: {246154}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

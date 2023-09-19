@@ -1,5 +1,5 @@
 [title]
-La biserica venim cu domnul sa ne-ntalnim {author: {Andrei C}, {rcId: {240279}}
+La biserica venim cu domnul sa ne-ntalnim {composer: {Andrei C}, {rcId: {240279}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

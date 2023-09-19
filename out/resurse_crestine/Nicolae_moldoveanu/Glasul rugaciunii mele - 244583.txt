@@ -1,5 +1,5 @@
 [title]
-Glasul rugaciunii mele {author: {Nicolae Moldoveanu}, {rcId: {244583}}
+Glasul rugaciunii mele {composer: {Nicolae Moldoveanu}, {rcId: {244583}}
 
 [sequence]
 v1,v2,v3,v4

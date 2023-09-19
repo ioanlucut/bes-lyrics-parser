@@ -1,5 +1,5 @@
 [title]
-Dragostea ta doamne {author: {Anonim}, {rcId: {96918}}
+Dragostea ta doamne {composer: {Anonim}, {rcId: {96918}}
 
 [sequence]
 v1,v2,v3

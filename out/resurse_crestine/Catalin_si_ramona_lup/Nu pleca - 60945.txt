@@ -1,5 +1,5 @@
 [title]
-Nu pleca {author: {Cătălin și Ramona Lup}, {rcId: {60945}}
+Nu pleca {composer: {Cătălin și Ramona Lup}, {rcId: {60945}}
 
 [sequence]
 v1,c,e

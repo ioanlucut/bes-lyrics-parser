@@ -1,5 +1,5 @@
 [title]
-Se duce timpul de chemare {author: {Eldad}, {rcId: {174961}}
+Se duce timpul de chemare {composer: {Eldad}, {rcId: {174961}}
 
 [sequence]
 v1,c,v2,c,v3,c

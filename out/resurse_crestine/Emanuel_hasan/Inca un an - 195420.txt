@@ -1,5 +1,5 @@
 [title]
-Inca un an {author: {Emanuel Hasan}, {rcId: {195420}}
+Inca un an {composer: {Emanuel Hasan}, {rcId: {195420}}
 
 [sequence]
 v1,c,v2,c,v3,c

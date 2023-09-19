@@ -1,5 +1,5 @@
 [title]
-Domnul iubeste pe cei ce-s ai lui {author: {Tabita Dohan}, {rcId: {210067}}
+Domnul iubeste pe cei ce-s ai lui {composer: {Tabita Dohan}, {rcId: {210067}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Suind din nou pe-un vechi urcus {author: {Nicolae Moldoveanu}, {rcId: {244098}}
+Suind din nou pe-un vechi urcus {composer: {Nicolae Moldoveanu}, {rcId: {244098}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c3

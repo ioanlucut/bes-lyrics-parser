@@ -1,5 +1,5 @@
 [title]
-Condu-ma tu (lord lead me on) {author: {Marion W. Easterling, Traducere RO}, {rcId: {129455}}
+Condu-ma tu (lord lead me on) {composer: {Marion W. Easterling, Traducere RO}, {rcId: {129455}}
 
 [sequence]
 v1,c,v2,c,v3,c,s,c

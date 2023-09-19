@@ -1,5 +1,5 @@
 [title]
-Numai tu {author: {Text și muzică: Costel Mijan}, {rcId: {199436}}
+Numai tu {composer: {Text și muzică: Costel Mijan}, {rcId: {199436}}
 
 [sequence]
 v1,c,c,v2,c

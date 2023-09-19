@@ -1,5 +1,5 @@
 [title]
-O viata sfanta si curata {author: {Andrei, Andreea Mois}, {rcId: {134045}}
+O viata sfanta si curata {composer: {Andrei, Andreea Mois}, {rcId: {134045}}
 
 [sequence]
 v1,c,v2,c

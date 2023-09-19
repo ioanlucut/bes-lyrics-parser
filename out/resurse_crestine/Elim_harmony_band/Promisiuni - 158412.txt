@@ -1,5 +1,5 @@
 [title]
-Promisiuni {author: {Elim Harmony Band}, {rcId: {158412}}
+Promisiuni {composer: {Elim Harmony Band}, {rcId: {158412}}
 
 [sequence]
 v1,c,v2,c2,e

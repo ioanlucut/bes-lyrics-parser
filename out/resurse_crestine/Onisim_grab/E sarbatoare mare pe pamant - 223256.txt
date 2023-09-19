@@ -1,5 +1,5 @@
 [title]
-E sarbatoare mare pe pamant {author: {Onisim Grab}, {rcId: {223256}}
+E sarbatoare mare pe pamant {composer: {Onisim Grab}, {rcId: {223256}}
 
 [sequence]
 v1,c,v2,c,v3,c

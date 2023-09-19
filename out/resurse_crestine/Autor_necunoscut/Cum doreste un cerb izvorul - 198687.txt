@@ -1,5 +1,5 @@
 [title]
-Cum doreste un cerb izvorul {author: {Anonim}, {rcId: {198687}}
+Cum doreste un cerb izvorul {composer: {Anonim}, {rcId: {198687}}
 
 [sequence]
 v1,c,v2,c2

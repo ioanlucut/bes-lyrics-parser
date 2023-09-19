@@ -1,5 +1,5 @@
 [title]
-Dumnezeu s-a indurat {author: {Lidia Gheorghe}, {rcId: {93953}}
+Dumnezeu s-a indurat {composer: {Lidia Gheorghe}, {rcId: {93953}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c

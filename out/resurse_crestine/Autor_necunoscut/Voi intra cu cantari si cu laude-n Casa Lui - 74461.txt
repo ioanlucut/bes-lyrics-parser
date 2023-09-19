@@ -1,5 +1,5 @@
 [title]
-Voi intra cu cantari si cu laude-n casa lui {author: {Anonim}, {rcId: {74461}}
+Voi intra cu cantari si cu laude-n casa lui {composer: {Anonim}, {rcId: {74461}}
 
 [sequence]
 v1,c

@@ -1,5 +1,5 @@
 [title]
-Comori in cer {author: {Gheorghe Zoltan}, {rcId: {200955}}
+Comori in cer {composer: {Gheorghe Zoltan}, {rcId: {200955}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Cine este vrednic {author: {Speranța}, {rcId: {128811}}
+Cine este vrednic {composer: {Speranța}, {rcId: {128811}}
 
 [sequence]
 v1,b,c,e

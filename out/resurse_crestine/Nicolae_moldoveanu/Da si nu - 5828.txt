@@ -1,5 +1,5 @@
 [title]
-Da si nu {author: {Nicolae Moldoveanu}, {rcId: {5828}}
+Da si nu {composer: {Nicolae Moldoveanu}, {rcId: {5828}}
 
 [sequence]
 v1,v2,v3

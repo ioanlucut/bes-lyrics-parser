@@ -1,5 +1,5 @@
 [title]
-Fara binecuvantarea ta (versiunea binecuvantare copii) {author: {Omega}, {rcId: {104933}}
+Fara binecuvantarea ta (versiunea binecuvantare copii) {composer: {Omega}, {rcId: {104933}}
 
 [sequence]
 v1,c,v2,c

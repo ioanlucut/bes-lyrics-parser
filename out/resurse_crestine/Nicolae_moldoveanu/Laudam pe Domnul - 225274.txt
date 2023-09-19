@@ -1,5 +1,5 @@
 [title]
-Laudam pe domnul {author: {Nicolae Moldoveanu}, {rcId: {225274}}
+Laudam pe domnul {composer: {Nicolae Moldoveanu}, {rcId: {225274}}
 
 [sequence]
 v1,v2

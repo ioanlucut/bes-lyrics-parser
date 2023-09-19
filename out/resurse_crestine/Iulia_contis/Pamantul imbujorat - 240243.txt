@@ -1,5 +1,5 @@
 [title]
-Pamantul imbujorat {author: {Iulia Contis}, {rcId: {240243}}
+Pamantul imbujorat {composer: {Iulia Contis}, {rcId: {240243}}
 
 [sequence]
 v1,c,v2,c

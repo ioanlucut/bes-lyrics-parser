@@ -1,5 +1,5 @@
 [title]
-Vom intra cu bucurie inaintea domnului {author: {Anonim}, {rcId: {2755}}
+Vom intra cu bucurie inaintea domnului {composer: {Anonim}, {rcId: {2755}}
 
 [sequence]
 v1,c

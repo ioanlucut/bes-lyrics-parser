@@ -1,5 +1,5 @@
 [title]
-Cu rani si spini pe frunte {author: {Nicolae Moldoveanu}, {rcId: {197197}}
+Cu rani si spini pe frunte {composer: {Nicolae Moldoveanu}, {rcId: {197197}}
 
 [sequence]
 v1,v2,v3,v4,v5

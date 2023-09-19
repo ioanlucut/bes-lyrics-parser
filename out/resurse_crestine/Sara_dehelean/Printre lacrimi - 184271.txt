@@ -1,5 +1,5 @@
 [title]
-Printre lacrimi {author: {Sara Dehelean}, {rcId: {184271}}
+Printre lacrimi {composer: {Sara Dehelean}, {rcId: {184271}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

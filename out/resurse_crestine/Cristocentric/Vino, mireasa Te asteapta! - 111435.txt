@@ -1,5 +1,5 @@
 [title]
-Vino mireasa te asteapta {author: {CristoCentric}, {rcId: {111435}}
+Vino mireasa te asteapta {composer: {CristoCentric}, {rcId: {111435}}
 
 [sequence]
 v1,c

@@ -1,5 +1,5 @@
 [title]
-Azi daniela fiica mea {author: {Nicolae Moldoveanu}, {rcId: {189851}}
+Azi daniela fiica mea {composer: {Nicolae Moldoveanu}, {rcId: {189851}}
 
 [sequence]
 v1,v2,v3,v4

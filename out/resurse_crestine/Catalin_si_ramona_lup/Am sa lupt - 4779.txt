@@ -1,5 +1,5 @@
 [title]
-Am sa lupt {author: {Cătălin și Ramona Lup}, {rcId: {4779}}
+Am sa lupt {composer: {Cătălin și Ramona Lup}, {rcId: {4779}}
 
 [sequence]
 v1,c,v2,c

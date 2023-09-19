@@ -1,5 +1,5 @@
 [title]
-Mi-asa de dor {author: {Anonim}, {rcId: {198155}}
+Mi-asa de dor {composer: {Anonim}, {rcId: {198155}}
 
 [sequence]
 v1,v2,v3,v4,v5

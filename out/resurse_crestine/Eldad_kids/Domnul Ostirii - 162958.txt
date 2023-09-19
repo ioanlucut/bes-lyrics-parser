@@ -1,5 +1,5 @@
 [title]
-Domnul ostirii {author: {Eldad Kids}, {rcId: {162958}}
+Domnul ostirii {composer: {Eldad Kids}, {rcId: {162958}}
 
 [sequence]
 v1

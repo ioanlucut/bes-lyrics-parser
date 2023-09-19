@@ -1,5 +1,5 @@
 [title]
-Cu un cant de multumiri {author: {Anonim}, {rcId: {179510}}
+Cu un cant de multumiri {composer: {Anonim}, {rcId: {179510}}
 
 [sequence]
 v1,c,v2,c

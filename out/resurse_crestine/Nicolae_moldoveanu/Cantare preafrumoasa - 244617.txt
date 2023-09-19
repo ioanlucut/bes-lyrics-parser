@@ -1,5 +1,5 @@
 [title]
-Cantare preafrumoasa {author: {Nicolae Moldoveanu}, {rcId: {244617}}
+Cantare preafrumoasa {composer: {Nicolae Moldoveanu}, {rcId: {244617}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

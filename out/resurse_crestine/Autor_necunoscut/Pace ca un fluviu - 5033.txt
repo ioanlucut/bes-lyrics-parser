@@ -1,5 +1,5 @@
 [title]
-Pace ca un fluviu {author: {Anonim}, {rcId: {5033}}
+Pace ca un fluviu {composer: {Anonim}, {rcId: {5033}}
 
 [sequence]
 v1

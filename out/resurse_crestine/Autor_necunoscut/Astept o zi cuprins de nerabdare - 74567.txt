@@ -1,5 +1,5 @@
 [title]
-Astept o zi cuprins de nerabdare {author: {Anonim}, {rcId: {74567}}
+Astept o zi cuprins de nerabdare {composer: {Anonim}, {rcId: {74567}}
 
 [sequence]
 v1,v2,v3,v4,v5

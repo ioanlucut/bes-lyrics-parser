@@ -1,5 +1,5 @@
 [title]
-Spre vest {author: {Cătălin Ciuculescu Band}, {rcId: {157679}}
+Spre vest {composer: {Cătălin Ciuculescu Band}, {rcId: {157679}}
 
 [sequence]
 v1,c,v2,c

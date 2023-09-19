@@ -1,5 +1,5 @@
 [title]
-Te stiu aici te simt mereu {author: {Sanja Cristea Tiberian}, {rcId: {192384}}
+Te stiu aici te simt mereu {composer: {Sanja Cristea Tiberian}, {rcId: {192384}}
 
 [sequence]
 v1,c,v2,c,v3,c

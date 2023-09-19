@@ -1,5 +1,5 @@
 [title]
-Iarta-mi doamne {author: {Anonim}, {rcId: {240853}}
+Iarta-mi doamne {composer: {Anonim}, {rcId: {240853}}
 
 [sequence]
 v1,c,v2,c2

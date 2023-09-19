@@ -1,5 +1,5 @@
 [title]
-Increde-te-n iubire {author: {Nicolae Moldoveanu}, {rcId: {247921}}
+Increde-te-n iubire {composer: {Nicolae Moldoveanu}, {rcId: {247921}}
 
 [sequence]
 v1,v2,v3,v4

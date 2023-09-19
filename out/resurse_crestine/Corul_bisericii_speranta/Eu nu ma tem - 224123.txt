@@ -1,5 +1,5 @@
 [title]
-Eu nu ma tem {author: {Corul Bisericii Speranța}, {rcId: {224123}}
+Eu nu ma tem {composer: {Corul Bisericii Speranța}, {rcId: {224123}}
 
 [sequence]
 v1,v2,v3,v4

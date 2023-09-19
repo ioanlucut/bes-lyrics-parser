@@ -1,5 +1,5 @@
 [title]
-Frumoasa-i roua {author: {Nicolae Moldoveanu}, {rcId: {244144}}
+Frumoasa-i roua {composer: {Nicolae Moldoveanu}, {rcId: {244144}}
 
 [sequence]
 v1,v2,v3,v4,v5

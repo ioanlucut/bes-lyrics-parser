@@ -1,5 +1,5 @@
 [title]
-In viata mea de-atatea (in tine doamne mi-am gasit scaparea) {author: {Florin Ștefan}, {rcId: {191341}}
+In viata mea de-atatea (in tine doamne mi-am gasit scaparea) {composer: {Florin Ștefan}, {rcId: {191341}}
 
 [sequence]
 v1,c,v2,c,v3,c

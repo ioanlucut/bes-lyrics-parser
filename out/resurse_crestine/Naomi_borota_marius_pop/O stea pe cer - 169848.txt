@@ -1,5 +1,5 @@
 [title]
-O stea pe cer {author: {Naomi Borota, Marius Pop}, {rcId: {169848}}
+O stea pe cer {composer: {Naomi Borota, Marius Pop}, {rcId: {169848}}
 
 [sequence]
 v1,c,v2,c,b,c

@@ -1,5 +1,5 @@
 [title]
-O nu-s mai tari ispitele ca harul {author: {Nicolae Moldoveanu}, {rcId: {5601}}
+O nu-s mai tari ispitele ca harul {composer: {Nicolae Moldoveanu}, {rcId: {5601}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

@@ -1,5 +1,5 @@
 [title]
-Primeste tu doamne {author: {Alexandru Groza}, {rcId: {185020}}
+Primeste tu doamne {composer: {Alexandru Groza}, {rcId: {185020}}
 
 [sequence]
 v1,c,v2,c2

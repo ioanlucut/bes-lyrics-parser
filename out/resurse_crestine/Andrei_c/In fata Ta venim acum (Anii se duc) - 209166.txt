@@ -1,5 +1,5 @@
 [title]
-In fata ta venim acum (anii se duc) {author: {Andrei C}, {rcId: {209166}}
+In fata ta venim acum (anii se duc) {composer: {Andrei C}, {rcId: {209166}}
 
 [sequence]
 v1,c,v2,c,v3,c

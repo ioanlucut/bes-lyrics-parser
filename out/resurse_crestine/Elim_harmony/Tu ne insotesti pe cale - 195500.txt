@@ -1,5 +1,5 @@
 [title]
-Tu ne insotesti pe cale {author: {Elim Harmony}, {rcId: {195500}}
+Tu ne insotesti pe cale {composer: {Elim Harmony}, {rcId: {195500}}
 
 [sequence]
 c,v1,c,v2,c

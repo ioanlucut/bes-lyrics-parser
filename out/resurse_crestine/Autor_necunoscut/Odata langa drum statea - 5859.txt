@@ -1,5 +1,5 @@
 [title]
-Odata langa drum statea {author: {Anonim}, {rcId: {5859}}
+Odata langa drum statea {composer: {Anonim}, {rcId: {5859}}
 
 [sequence]
 v1,c,v2,c,v3,c2,v4,c2

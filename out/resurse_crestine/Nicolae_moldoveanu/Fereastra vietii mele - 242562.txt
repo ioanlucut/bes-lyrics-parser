@@ -1,5 +1,5 @@
 [title]
-Fereastra vietii mele {author: {Nicolae Moldoveanu}, {rcId: {242562}}
+Fereastra vietii mele {composer: {Nicolae Moldoveanu}, {rcId: {242562}}
 
 [sequence]
 v1,v2,v3,v4,v5

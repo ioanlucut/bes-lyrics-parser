@@ -1,5 +1,5 @@
 [title]
-Ochii imi ridic {author: {Fratii Alexa}, {rcId: {58059}}
+Ochii imi ridic {composer: {Fratii Alexa}, {rcId: {58059}}
 
 [sequence]
 v1,c,v2,c

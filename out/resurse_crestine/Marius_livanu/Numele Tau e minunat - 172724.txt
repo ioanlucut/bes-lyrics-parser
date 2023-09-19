@@ -1,5 +1,5 @@
 [title]
-Numele tau e minunat {author: {Marius Livanu}, {rcId: {172724}}
+Numele tau e minunat {composer: {Marius Livanu}, {rcId: {172724}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Intr-o zi de primavara sfanta {author: {Alexandru Groza}, {rcId: {185481}}
+Intr-o zi de primavara sfanta {composer: {Alexandru Groza}, {rcId: {185481}}
 
 [sequence]
 v1,c,v2,c

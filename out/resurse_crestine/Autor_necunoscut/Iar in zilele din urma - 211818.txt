@@ -1,5 +1,5 @@
 [title]
-Iar in zilele din urma {author: {Anonim}, {rcId: {211818}}
+Iar in zilele din urma {composer: {Anonim}, {rcId: {211818}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8,v9,v10

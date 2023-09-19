@@ -1,5 +1,5 @@
 [title]
-Treziti-va frati nu mai stati in nepasare {author: {Fratii Stoica}, {rcId: {5615}}
+Treziti-va frati nu mai stati in nepasare {composer: {Fratii Stoica}, {rcId: {5615}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

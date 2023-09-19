@@ -1,5 +1,5 @@
 [title]
-Eu stau in asteptare privesc spre ceruri sus {author: {Anonim}, {rcId: {75141}}
+Eu stau in asteptare privesc spre ceruri sus {composer: {Anonim}, {rcId: {75141}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Mai mult din tine {author: {Domini, Band}, {rcId: {158959}}
+Mai mult din tine {composer: {Domini, Band}, {rcId: {158959}}
 
 [sequence]
 v1,v2,c,v1,v2,c,e,c

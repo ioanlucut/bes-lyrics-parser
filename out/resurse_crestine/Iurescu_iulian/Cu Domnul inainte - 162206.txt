@@ -1,5 +1,5 @@
 [title]
-Cu domnul inainte {author: {Iurescu Iulian}, {rcId: {162206}}
+Cu domnul inainte {composer: {Iurescu Iulian}, {rcId: {162206}}
 
 [sequence]
 v1,c,v2,c,v3,c

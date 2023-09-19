@@ -1,5 +1,5 @@
 [title]
-Cat timp isus {author: {Anonim}, {rcId: {7074}}
+Cat timp isus {composer: {Anonim}, {rcId: {7074}}
 
 [sequence]
 v1,v2,v3,v4,v5

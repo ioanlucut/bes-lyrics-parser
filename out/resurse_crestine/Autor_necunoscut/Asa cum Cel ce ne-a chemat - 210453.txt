@@ -1,5 +1,5 @@
 [title]
-Asa cum cel ce ne-a chemat {author: {Anonim}, {rcId: {210453}}
+Asa cum cel ce ne-a chemat {composer: {Anonim}, {rcId: {210453}}
 
 [sequence]
 v1,c,v2,c,v3,c

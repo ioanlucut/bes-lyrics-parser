@@ -1,5 +1,5 @@
 [title]
-Inimi pline de speranta mantuire siguranta {author: {Andreea Mois}, {rcId: {128137}}
+Inimi pline de speranta mantuire siguranta {composer: {Andreea Mois}, {rcId: {128137}}
 
 [sequence]
 v1,c,v2,c,v3,c

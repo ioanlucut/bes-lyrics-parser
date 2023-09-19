@@ -1,5 +1,5 @@
 [title]
-Pastorul meu {author: {Carmen Prodan}, {rcId: {152912}}
+Pastorul meu {composer: {Carmen Prodan}, {rcId: {152912}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Exista speranta {author: {Corneliu Matei}, {rcId: {173993}}
+Exista speranta {composer: {Corneliu Matei}, {rcId: {173993}}
 
 [sequence]
 v1,c,v2,c2,c2,e

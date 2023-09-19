@@ -1,5 +1,5 @@
 [title]
-Pentru noi copiii {author: {Nicolae Moldoveanu}, {rcId: {236711}}
+Pentru noi copiii {composer: {Nicolae Moldoveanu}, {rcId: {236711}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

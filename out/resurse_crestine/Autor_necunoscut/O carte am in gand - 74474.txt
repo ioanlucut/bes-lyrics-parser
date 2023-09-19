@@ -1,5 +1,5 @@
 [title]
-O carte am in gand {author: {Anonim}, {rcId: {74474}}
+O carte am in gand {composer: {Anonim}, {rcId: {74474}}
 
 [sequence]
 v1

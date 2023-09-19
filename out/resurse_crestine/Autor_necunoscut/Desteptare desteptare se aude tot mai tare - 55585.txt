@@ -1,5 +1,5 @@
 [title]
-Desteptare desteptare se aude tot mai tare {author: {Anonim}, {rcId: {55585}}
+Desteptare desteptare se aude tot mai tare {composer: {Anonim}, {rcId: {55585}}
 
 [sequence]
 v1,v2,v3,v4,v5

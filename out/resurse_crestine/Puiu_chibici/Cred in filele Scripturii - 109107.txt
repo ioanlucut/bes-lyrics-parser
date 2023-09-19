@@ -1,5 +1,5 @@
 [title]
-Cred in filele scripturii {author: {Puiu Chibici}, {rcId: {109107}}
+Cred in filele scripturii {composer: {Puiu Chibici}, {rcId: {109107}}
 
 [sequence]
 v1,v2,v3,v4,v4,v5

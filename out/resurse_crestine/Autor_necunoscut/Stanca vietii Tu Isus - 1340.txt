@@ -1,5 +1,5 @@
 [title]
-Stanca vietii tu isus {author: {Anonim}, {rcId: {1340}}
+Stanca vietii tu isus {composer: {Anonim}, {rcId: {1340}}
 
 [sequence]
 v1,v2,v3,v4

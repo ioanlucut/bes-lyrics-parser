@@ -1,5 +1,5 @@
 [title]
-Ai nostri noi nu mai suntem {author: {Nicolae Moldoveanu}, {rcId: {189854}}
+Ai nostri noi nu mai suntem {composer: {Nicolae Moldoveanu}, {rcId: {189854}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

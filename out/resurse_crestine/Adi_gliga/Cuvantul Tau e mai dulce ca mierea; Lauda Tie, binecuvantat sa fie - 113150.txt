@@ -1,5 +1,5 @@
 [title]
-Cuvantul tau e mai dulce ca mierea; lauda tie binecuvantat sa fie {author: {Adi Gliga}, {rcId: {113150}}
+Cuvantul tau e mai dulce ca mierea; lauda tie binecuvantat sa fie {composer: {Adi Gliga}, {rcId: {113150}}
 
 [sequence]
 v1,c,v2,c

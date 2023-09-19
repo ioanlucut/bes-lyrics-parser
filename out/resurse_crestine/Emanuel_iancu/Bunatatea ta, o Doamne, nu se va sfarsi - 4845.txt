@@ -1,5 +1,5 @@
 [title]
-Bunatatea ta o doamne nu se va sfarsi {author: {Emanuel Iancu}, {rcId: {4845}}
+Bunatatea ta o doamne nu se va sfarsi {composer: {Emanuel Iancu}, {rcId: {4845}}
 
 [sequence]
 v1,c

@@ -1,5 +1,5 @@
 [title]
-Dumnezeu m-a creat cu iubire {author: {Alexandru Groza}, {rcId: {3121}}
+Dumnezeu m-a creat cu iubire {composer: {Alexandru Groza}, {rcId: {3121}}
 
 [sequence]
 v1,c,v2,c,v3,c

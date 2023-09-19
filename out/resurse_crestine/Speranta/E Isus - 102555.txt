@@ -1,5 +1,5 @@
 [title]
-E isus {author: {Speranța}, {rcId: {102555}}
+E isus {composer: {Speranța}, {rcId: {102555}}
 
 [sequence]
 v1,c,v2,b,c

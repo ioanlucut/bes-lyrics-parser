@@ -1,5 +1,5 @@
 [title]
-La calvar viata mi-ai dat {author: {Fratii Tonea}, {rcId: {135893}}
+La calvar viata mi-ai dat {composer: {Fratii Tonea}, {rcId: {135893}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c,e

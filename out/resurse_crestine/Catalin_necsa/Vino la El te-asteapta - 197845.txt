@@ -1,5 +1,5 @@
 [title]
-Vino la el te-asteapta {author: {Cătălin Necșa}, {rcId: {197845}}
+Vino la el te-asteapta {composer: {Cătălin Necșa}, {rcId: {197845}}
 
 [sequence]
 v1,c,v2,c,v3,b,c

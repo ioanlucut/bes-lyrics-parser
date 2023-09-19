@@ -1,5 +1,5 @@
 [title]
-Marturisesc esti domnul vietii mele {author: {The Messengers}, {rcId: {158940}}
+Marturisesc esti domnul vietii mele {composer: {The Messengers}, {rcId: {158940}}
 
 [sequence]
 v1,c,v2,b,c

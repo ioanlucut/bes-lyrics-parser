@@ -1,5 +1,5 @@
 [title]
-O suflete roaga-te lui {author: {Anonim}, {rcId: {7034}}
+O suflete roaga-te lui {composer: {Anonim}, {rcId: {7034}}
 
 [sequence]
 v1,v2,v3

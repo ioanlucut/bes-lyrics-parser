@@ -1,5 +1,5 @@
 [title]
-Vindecare ( cel ce ne da vindecare e aici in adunare) {author: {Ovidiu Liteanu}, {rcId: {187430}}
+Vindecare ( cel ce ne da vindecare e aici in adunare) {composer: {Ovidiu Liteanu}, {rcId: {187430}}
 
 [sequence]
 v1,v2,v3,v4

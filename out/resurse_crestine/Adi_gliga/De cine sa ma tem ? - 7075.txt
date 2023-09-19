@@ -1,5 +1,5 @@
 [title]
-De cine sa ma tem ? {author: {Adi Gliga}, {rcId: {7075}}
+De cine sa ma tem ? {composer: {Adi Gliga}, {rcId: {7075}}
 
 [sequence]
 v1,c,c,v2,c

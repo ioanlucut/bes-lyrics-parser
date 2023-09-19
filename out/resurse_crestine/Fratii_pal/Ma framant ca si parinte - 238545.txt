@@ -1,5 +1,5 @@
 [title]
-Ma framant ca si parinte {author: {Fratii Pal}, {rcId: {238545}}
+Ma framant ca si parinte {composer: {Fratii Pal}, {rcId: {238545}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

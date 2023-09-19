@@ -1,5 +1,5 @@
 [title]
-Naintea domnului eu vin {author: {Alexandru Groza}, {rcId: {7160}}
+Naintea domnului eu vin {composer: {Alexandru Groza}, {rcId: {7160}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

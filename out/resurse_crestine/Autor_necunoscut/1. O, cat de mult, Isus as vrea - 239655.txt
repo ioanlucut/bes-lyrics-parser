@@ -1,5 +1,5 @@
 [title]
-O cat de mult isus as vrea {author: {Autor necunoscut}, {rcId: {239655}}
+O cat de mult isus as vrea {composer: {Autor necunoscut}, {rcId: {239655}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Omule ce esti in lume {author: {Lucica Toader}, {rcId: {96536}}
+Omule ce esti in lume {composer: {Lucica Toader}, {rcId: {96536}}
 
 [sequence]
 v1,v2,v3,v4,v5

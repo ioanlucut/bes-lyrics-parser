@@ -1,5 +1,5 @@
 [title]
-Prea multi au atipit si dorm {author: {Tinerii Vicov}, {rcId: {184930}}
+Prea multi au atipit si dorm {composer: {Tinerii Vicov}, {rcId: {184930}}
 
 [sequence]
 v1,c,v2,c2

@@ -1,5 +1,5 @@
 [title]
-Schimba-mi inima vreau sa fiu curat {author: {Anonim}, {rcId: {62645}}
+Schimba-mi inima vreau sa fiu curat {composer: {Anonim}, {rcId: {62645}}
 
 [sequence]
 c,v1,c

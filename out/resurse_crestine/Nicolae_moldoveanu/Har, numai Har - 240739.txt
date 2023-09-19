@@ -1,5 +1,5 @@
 [title]
-Har numai har {author: {Nicolae Moldoveanu}, {rcId: {240739}}
+Har numai har {composer: {Nicolae Moldoveanu}, {rcId: {240739}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

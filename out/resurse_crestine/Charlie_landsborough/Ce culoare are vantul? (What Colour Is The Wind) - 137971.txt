@@ -1,5 +1,5 @@
 [title]
-Ce culoare are vantul? (what colour is the wind) {author: {Charlie Landsborough, Traducere RO}, {rcId: {137971}}
+Ce culoare are vantul? (what colour is the wind) {composer: {Charlie Landsborough, Traducere RO}, {rcId: {137971}}
 
 [sequence]
 v1,v2,c,v3,c,s,c

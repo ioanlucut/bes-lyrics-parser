@@ -1,5 +1,5 @@
 [title]
-Cine-i in prag? (wer klopfet an?) {author: {Die Ostracher Liederhandschrift, Traducere RO}, {rcId: {236915}}
+Cine-i in prag? (wer klopfet an?) {composer: {Die Ostracher Liederhandschrift, Traducere RO}, {rcId: {236915}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-O spune-mi fiul meu {author: {Daniela Haidaciuc}, {rcId: {212681}}
+O spune-mi fiul meu {composer: {Daniela Haidaciuc}, {rcId: {212681}}
 
 [sequence]
 v1,v2,v3,v4

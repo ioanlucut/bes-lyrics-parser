@@ -1,5 +1,5 @@
 [title]
-Calatori spre tara sfanta {author: {Puiu Chibici}, {rcId: {57626}}
+Calatori spre tara sfanta {composer: {Puiu Chibici}, {rcId: {57626}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Cu vocea mea te laud {author: {Emma Repede, Speranța}, {rcId: {232692}}
+Cu vocea mea te laud {composer: {Emma Repede, Speranța}, {rcId: {232692}}
 
 [sequence]
 v1,c,e

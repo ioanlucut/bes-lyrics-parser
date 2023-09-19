@@ -1,5 +1,5 @@
 [title]
-Nu ma-ntrebati de ce in zori {author: {Ovidiu Berghean}, {rcId: {97215}}
+Nu ma-ntrebati de ce in zori {composer: {Ovidiu Berghean}, {rcId: {97215}}
 
 [sequence]
 v1,c,c,v2,c,v3,c

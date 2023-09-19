@@ -1,5 +1,5 @@
 [title]
-Desteptare desteptare {author: {Nicolae Moldoveanu}, {rcId: {63672}}
+Desteptare desteptare {composer: {Nicolae Moldoveanu}, {rcId: {63672}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

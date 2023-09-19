@@ -1,5 +1,5 @@
 [title]
-In lumea aceasta eu sunt calator {author: {Biserica Penticostala}, {rcId: {233969}}
+In lumea aceasta eu sunt calator {composer: {Biserica Penticostala}, {rcId: {233969}}
 
 [sequence]
 v1,b,c,v2,b,c,v3,b,c

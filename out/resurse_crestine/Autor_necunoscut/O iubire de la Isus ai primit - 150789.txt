@@ -1,5 +1,5 @@
 [title]
-O iubire de la isus ai primit {author: {Anonim}, {rcId: {150789}}
+O iubire de la isus ai primit {composer: {Anonim}, {rcId: {150789}}
 
 [sequence]
 v1,c,v2,c,v3,c

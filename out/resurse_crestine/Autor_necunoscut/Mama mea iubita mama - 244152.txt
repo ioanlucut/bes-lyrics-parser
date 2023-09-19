@@ -1,5 +1,5 @@
 [title]
-Mama mea iubita mama {author: {Anonim}, {rcId: {244152}}
+Mama mea iubita mama {composer: {Anonim}, {rcId: {244152}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

@@ -1,5 +1,5 @@
 [title]
-Pruncul din iesle (dans cette 'etable) {author: {Colind din Franța, Traducere RO}, {rcId: {206219}}
+Pruncul din iesle (dans cette 'etable) {composer: {Colind din Franța, Traducere RO}, {rcId: {206219}}
 
 [sequence]
 v1,v2,v3,v4

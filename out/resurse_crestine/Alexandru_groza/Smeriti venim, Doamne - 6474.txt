@@ -1,5 +1,5 @@
 [title]
-Smeriti venim doamne {author: {Alexandru Groza}, {rcId: {6474}}
+Smeriti venim doamne {composer: {Alexandru Groza}, {rcId: {6474}}
 
 [sequence]
 v1,c,v2,c2

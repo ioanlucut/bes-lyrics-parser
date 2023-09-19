@@ -1,5 +1,5 @@
 [title]
-Mi-am facut un adapost in domnul {author: {Anonim}, {rcId: {60257}}
+Mi-am facut un adapost in domnul {composer: {Anonim}, {rcId: {60257}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

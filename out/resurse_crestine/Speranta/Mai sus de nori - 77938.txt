@@ -1,5 +1,5 @@
 [title]
-Mai sus de nori {author: {Speranța}, {rcId: {77938}}
+Mai sus de nori {composer: {Speranța}, {rcId: {77938}}
 
 [sequence]
 v1,c,v2,c,v3,c

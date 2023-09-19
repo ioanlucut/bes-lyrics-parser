@@ -1,5 +1,5 @@
 [title]
-E un cantec divin (a song in the air) {author: {Joel Raney, Traducere RO}, {rcId: {182137}}
+E un cantec divin (a song in the air) {composer: {Joel Raney, Traducere RO}, {rcId: {182137}}
 
 [sequence]
 v1,c,v2,c,s,c

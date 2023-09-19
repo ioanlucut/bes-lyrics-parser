@@ -1,5 +1,5 @@
 [title]
-Astept cu dor aceea zi mareata {author: {Anonim}, {rcId: {74240}}
+Astept cu dor aceea zi mareata {composer: {Anonim}, {rcId: {74240}}
 
 [sequence]
 v1,c,v2,c,v3,c

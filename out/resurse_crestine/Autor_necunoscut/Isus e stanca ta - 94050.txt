@@ -1,5 +1,5 @@
 [title]
-Isus e stanca ta {author: {Anonim}, {rcId: {94050}}
+Isus e stanca ta {composer: {Anonim}, {rcId: {94050}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c

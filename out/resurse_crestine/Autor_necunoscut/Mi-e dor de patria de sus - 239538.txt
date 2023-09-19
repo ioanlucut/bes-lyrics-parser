@@ -1,5 +1,5 @@
 [title]
-Mi-e dor de patria de sus {author: {Autor necunoscut}, {rcId: {239538}}
+Mi-e dor de patria de sus {composer: {Autor necunoscut}, {rcId: {239538}}
 
 [sequence]
 v1,v2,v3,v4

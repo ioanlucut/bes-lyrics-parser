@@ -1,5 +1,5 @@
 [title]
-Din a lumii alergare {author: {Daniel Hîrtie}, {rcId: {229637}}
+Din a lumii alergare {composer: {Daniel Hîrtie}, {rcId: {229637}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

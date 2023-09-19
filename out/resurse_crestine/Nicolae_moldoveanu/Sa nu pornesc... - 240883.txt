@@ -1,5 +1,5 @@
 [title]
-Sa nu pornesc {author: {Nicolae Moldoveanu}, {rcId: {240883}}
+Sa nu pornesc {composer: {Nicolae Moldoveanu}, {rcId: {240883}}
 
 [sequence]
 v1,v2,v3,v4

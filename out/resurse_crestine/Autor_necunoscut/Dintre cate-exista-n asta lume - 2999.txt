@@ -1,5 +1,5 @@
 [title]
-Dintre cate-exista-n asta lume {author: {Anonim}, {rcId: {2999}}
+Dintre cate-exista-n asta lume {composer: {Anonim}, {rcId: {2999}}
 
 [sequence]
 v1,v2,v3,v4,v5

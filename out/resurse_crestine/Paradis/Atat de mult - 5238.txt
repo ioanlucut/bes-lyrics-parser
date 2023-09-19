@@ -1,5 +1,5 @@
 [title]
-Atat de mult {author: {Paradis}, {rcId: {5238}}
+Atat de mult {composer: {Paradis}, {rcId: {5238}}
 
 [sequence]
 v1,c

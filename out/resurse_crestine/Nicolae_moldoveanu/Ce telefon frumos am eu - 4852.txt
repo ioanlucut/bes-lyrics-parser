@@ -1,5 +1,5 @@
 [title]
-Ce telefon frumos am eu {author: {Nicolae Moldoveanu}, {rcId: {4852}}
+Ce telefon frumos am eu {composer: {Nicolae Moldoveanu}, {rcId: {4852}}
 
 [sequence]
 v1,v2,v3,v4,v5

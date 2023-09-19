@@ -1,5 +1,5 @@
 [title]
-Cu isus in lumea asta {author: {Aranjament Corneliu Radulescu}, {rcId: {1748}}
+Cu isus in lumea asta {composer: {Aranjament Corneliu Radulescu}, {rcId: {1748}}
 
 [sequence]
 v1,c,v2,c,v3,c

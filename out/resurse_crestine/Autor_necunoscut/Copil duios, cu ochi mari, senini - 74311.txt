@@ -1,5 +1,5 @@
 [title]
-Copil duios cu ochi mari senini {author: {Anonim}, {rcId: {74311}}
+Copil duios cu ochi mari senini {composer: {Anonim}, {rcId: {74311}}
 
 [sequence]
 v1,c,v2,c,v3,c

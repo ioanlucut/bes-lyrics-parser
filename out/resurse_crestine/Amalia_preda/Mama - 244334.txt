@@ -1,5 +1,5 @@
 [title]
-Mama {author: {Amalia Preda}, {rcId: {244334}}
+Mama {composer: {Amalia Preda}, {rcId: {244334}}
 
 [sequence]
 v1,c,v2,c

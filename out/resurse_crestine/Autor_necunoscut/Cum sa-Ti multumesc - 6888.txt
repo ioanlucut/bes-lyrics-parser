@@ -1,5 +1,5 @@
 [title]
-Cum sa-ti multumesc {author: {Anonim}, {rcId: {6888}}
+Cum sa-ti multumesc {composer: {Anonim}, {rcId: {6888}}
 
 [sequence]
 v1,c,e

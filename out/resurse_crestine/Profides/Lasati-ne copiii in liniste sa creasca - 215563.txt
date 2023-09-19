@@ -1,5 +1,5 @@
 [title]
-Lasati-ne copiii in liniste sa creasca {author: {Profides}, {rcId: {215563}}
+Lasati-ne copiii in liniste sa creasca {composer: {Profides}, {rcId: {215563}}
 
 [sequence]
 v1,c,v2,c

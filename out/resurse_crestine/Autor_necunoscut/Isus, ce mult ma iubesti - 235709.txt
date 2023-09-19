@@ -1,5 +1,5 @@
 [title]
-Isus ce mult ma iubesti {author: {Necunoscut}, {rcId: {235709}}
+Isus ce mult ma iubesti {composer: {Necunoscut}, {rcId: {235709}}
 
 [sequence]
 v1,c,v2,b,c

@@ -1,5 +1,5 @@
 [title]
-Mai este loc la nunta ta {author: {Fratii de la Onesti}, {rcId: {55611}}
+Mai este loc la nunta ta {composer: {Fratii de la Onesti}, {rcId: {55611}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

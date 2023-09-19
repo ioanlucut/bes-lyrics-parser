@@ -1,5 +1,5 @@
 [title]
-Sus la lucru sculati voi ai domnului servi {author: {William H.Doane}, {rcId: {74411}}
+Sus la lucru sculati voi ai domnului servi {composer: {William H.Doane}, {rcId: {74411}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

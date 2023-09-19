@@ -1,5 +1,5 @@
 [title]
-So faithful in the world below {author: {Iulia Contis}, {rcId: {244589}}
+So faithful in the world below {composer: {Iulia Contis}, {rcId: {244589}}
 
 [sequence]
 v1,v2

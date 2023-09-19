@@ -1,5 +1,5 @@
 [title]
-Auzi de-atata vreme {author: {Nicu Wagner}, {rcId: {61649}}
+Auzi de-atata vreme {composer: {Nicu Wagner}, {rcId: {61649}}
 
 [sequence]
 v1,c,v2,c

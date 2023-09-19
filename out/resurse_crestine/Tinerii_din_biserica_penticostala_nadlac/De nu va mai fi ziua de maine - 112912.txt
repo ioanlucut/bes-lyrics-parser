@@ -1,5 +1,5 @@
 [title]
-De nu va mai fi ziua de maine {author: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {112912}}
+De nu va mai fi ziua de maine {composer: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {112912}}
 
 [sequence]
 v1,c,v2,c2

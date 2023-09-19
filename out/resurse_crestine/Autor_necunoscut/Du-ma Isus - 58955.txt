@@ -1,5 +1,5 @@
 [title]
-Du-ma isus {author: {Anonim, Traducere RO}, {rcId: {58955}}
+Du-ma isus {composer: {Anonim, Traducere RO}, {rcId: {58955}}
 
 [sequence]
 v1,v2,v3,c

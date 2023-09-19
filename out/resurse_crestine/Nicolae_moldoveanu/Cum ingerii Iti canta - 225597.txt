@@ -1,5 +1,5 @@
 [title]
-Cum ingerii iti canta {author: {Nicolae Moldoveanu}, {rcId: {225597}}
+Cum ingerii iti canta {composer: {Nicolae Moldoveanu}, {rcId: {225597}}
 
 [sequence]
 v1,v2,v3

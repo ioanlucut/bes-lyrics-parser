@@ -1,5 +1,5 @@
 [title]
-Unde esti doamne ? te caut mereu {author: {Puiu Chibici}, {rcId: {3782}}
+Unde esti doamne ? te caut mereu {composer: {Puiu Chibici}, {rcId: {3782}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Langa tine {author: {Naomi Borota, George Ciurdas}, {rcId: {185267}}
+Langa tine {composer: {Naomi Borota, George Ciurdas}, {rcId: {185267}}
 
 [sequence]
 v1,c,v2,c,v3,c

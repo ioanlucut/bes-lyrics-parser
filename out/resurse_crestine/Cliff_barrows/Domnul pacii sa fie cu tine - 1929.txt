@@ -1,5 +1,5 @@
 [title]
-Domnul pacii sa fie cu tine {author: {Cliff Barrows}, {rcId: {1929}}
+Domnul pacii sa fie cu tine {composer: {Cliff Barrows}, {rcId: {1929}}
 
 [sequence]
 v1,v2,v3,v4

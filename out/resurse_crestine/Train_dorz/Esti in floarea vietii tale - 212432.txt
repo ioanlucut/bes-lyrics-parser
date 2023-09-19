@@ -1,5 +1,5 @@
 [title]
-Esti in floarea vietii tale {author: {Train Dorz}, {rcId: {212432}}
+Esti in floarea vietii tale {composer: {Train Dorz}, {rcId: {212432}}
 
 [sequence]
 v1,e,v2,v3,v4

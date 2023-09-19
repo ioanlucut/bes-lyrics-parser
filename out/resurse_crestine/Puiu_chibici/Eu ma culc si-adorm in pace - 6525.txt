@@ -1,5 +1,5 @@
 [title]
-Eu ma culc si-adorm in pace {author: {Puiu Chibici}, {rcId: {6525}}
+Eu ma culc si-adorm in pace {composer: {Puiu Chibici}, {rcId: {6525}}
 
 [sequence]
 v1,v2,v3,v4,v5

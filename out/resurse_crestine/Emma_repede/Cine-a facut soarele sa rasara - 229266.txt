@@ -1,5 +1,5 @@
 [title]
-Cine-a facut soarele sa rasara {author: {Emma Repede}, {rcId: {229266}}
+Cine-a facut soarele sa rasara {composer: {Emma Repede}, {rcId: {229266}}
 
 [sequence]
 v1,c,v2,c

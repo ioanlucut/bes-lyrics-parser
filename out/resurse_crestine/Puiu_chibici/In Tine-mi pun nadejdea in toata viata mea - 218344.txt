@@ -1,5 +1,5 @@
 [title]
-In tine-mi pun nadejdea in toata viata mea {author: {Puiu Chibici}, {rcId: {218344}}
+In tine-mi pun nadejdea in toata viata mea {composer: {Puiu Chibici}, {rcId: {218344}}
 
 [sequence]
 v1,c,v2,c,v3,c

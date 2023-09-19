@@ -1,5 +1,5 @@
 [title]
-Mi-e dor {author: {Sorin de la Barbulesti}, {rcId: {197262}}
+Mi-e dor {composer: {Sorin de la Barbulesti}, {rcId: {197262}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Cineva te va iubi {author: {Adi Gliga}, {rcId: {180472}}
+Cineva te va iubi {composer: {Adi Gliga}, {rcId: {180472}}
 
 [sequence]
 v1,c,v2,c2

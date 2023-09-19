@@ -1,5 +1,5 @@
 [title]
-Numai mama {author: {Bianca Alexa}, {rcId: {158665}}
+Numai mama {composer: {Bianca Alexa}, {rcId: {158665}}
 
 [sequence]
 v1,v2,v3,v4

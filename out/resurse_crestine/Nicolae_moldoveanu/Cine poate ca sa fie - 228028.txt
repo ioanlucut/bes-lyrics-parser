@@ -1,5 +1,5 @@
 [title]
-Cine poate ca sa fie {author: {Nicolae Moldoveanu}, {rcId: {228028}}
+Cine poate ca sa fie {composer: {Nicolae Moldoveanu}, {rcId: {228028}}
 
 [sequence]
 v1,v2,v3

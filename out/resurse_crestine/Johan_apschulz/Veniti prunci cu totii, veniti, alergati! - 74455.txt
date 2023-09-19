@@ -1,5 +1,5 @@
 [title]
-Veniti prunci cu totii veniti alergati {author: {Johan A.P.Schulz}, {rcId: {74455}}
+Veniti prunci cu totii veniti alergati {composer: {Johan A.P.Schulz}, {rcId: {74455}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

@@ -1,5 +1,5 @@
 [title]
-Nu mai fi trist amice {author: {Alexandru Groza}, {rcId: {7123}}
+Nu mai fi trist amice {composer: {Alexandru Groza}, {rcId: {7123}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Numai tu doamne {author: {Carmen Prodan}, {rcId: {154138}}
+Numai tu doamne {composer: {Carmen Prodan}, {rcId: {154138}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Timpule ma tot gandesc {author: {Popescu Mihai Neluș}, {rcId: {198132}}
+Timpule ma tot gandesc {composer: {Popescu Mihai Neluș}, {rcId: {198132}}
 
 [sequence]
 v1,v2

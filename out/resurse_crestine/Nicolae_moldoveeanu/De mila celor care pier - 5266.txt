@@ -1,5 +1,5 @@
 [title]
-De mila celor care pier {author: {Nicolae Moldoveeanu}, {rcId: {5266}}
+De mila celor care pier {composer: {Nicolae Moldoveeanu}, {rcId: {5266}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Cu ochii deschisi si tot nu vedeam {author: {Anonim}, {rcId: {185306}}
+Cu ochii deschisi si tot nu vedeam {composer: {Anonim}, {rcId: {185306}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

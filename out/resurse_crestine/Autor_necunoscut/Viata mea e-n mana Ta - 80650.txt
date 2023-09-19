@@ -1,5 +1,5 @@
 [title]
-Viata mea e-n mana ta {author: {Anonim}, {rcId: {80650}}
+Viata mea e-n mana ta {composer: {Anonim}, {rcId: {80650}}
 
 [sequence]
 v1,c

@@ -1,5 +1,5 @@
 [title]
-O ce frumoasa fi-va cantarea {author: {Nicolae Moldoveanu}, {rcId: {5755}}
+O ce frumoasa fi-va cantarea {composer: {Nicolae Moldoveanu}, {rcId: {5755}}
 
 [sequence]
 v1,c,v2,c,v3,c

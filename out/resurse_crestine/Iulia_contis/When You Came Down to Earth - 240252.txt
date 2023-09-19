@@ -1,5 +1,5 @@
 [title]
-When you came down to earth {author: {Iulia Contis}, {rcId: {240252}}
+When you came down to earth {composer: {Iulia Contis}, {rcId: {240252}}
 
 [sequence]
 v1,v2,v3

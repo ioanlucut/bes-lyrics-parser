@@ -1,5 +1,5 @@
 [title]
-Cum pot o doamne sa-nteleg - and can it be that i should gain - fa maj {author: {ed. Dan Istrate}, {rcId: {187313}}
+Cum pot o doamne sa-nteleg - and can it be that i should gain - fa maj {composer: {ed. Dan Istrate}, {rcId: {187313}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

@@ -1,5 +1,5 @@
 [title]
-Ocean de iubire {author: {Frații Wagner}, {rcId: {56958}}
+Ocean de iubire {composer: {Frații Wagner}, {rcId: {56958}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

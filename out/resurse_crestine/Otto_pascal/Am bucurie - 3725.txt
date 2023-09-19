@@ -1,5 +1,5 @@
 [title]
-Am bucurie {author: {Otto Pascal}, {rcId: {3725}}
+Am bucurie {composer: {Otto Pascal}, {rcId: {3725}}
 
 [sequence]
 v1,v2,v3,v4,v5

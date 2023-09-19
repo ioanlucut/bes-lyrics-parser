@@ -1,5 +1,5 @@
 [title]
-Cheama-ma | bunatatea mea {author: {Isaura Gheorghiu}, {rcId: {215869}}
+Cheama-ma | bunatatea mea {composer: {Isaura Gheorghiu}, {rcId: {215869}}
 
 [sequence]
 v1,c,v2,c2

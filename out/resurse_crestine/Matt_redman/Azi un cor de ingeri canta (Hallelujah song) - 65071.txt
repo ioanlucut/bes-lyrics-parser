@@ -1,5 +1,5 @@
 [title]
-Azi un cor de ingeri canta (hallelujah song) {author: {Matt Redman, Traducere RO}, {rcId: {65071}}
+Azi un cor de ingeri canta (hallelujah song) {composer: {Matt Redman, Traducere RO}, {rcId: {65071}}
 
 [sequence]
 v1,c,v2,c,v3,b,c

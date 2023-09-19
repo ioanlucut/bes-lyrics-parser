@@ -1,5 +1,5 @@
 [title]
-El e 'naltat {author: {Anonim}, {rcId: {1230}}
+El e 'naltat {composer: {Anonim}, {rcId: {1230}}
 
 [sequence]
 v1,v2

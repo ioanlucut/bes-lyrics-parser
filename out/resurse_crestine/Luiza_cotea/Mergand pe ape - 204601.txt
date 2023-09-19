@@ -1,5 +1,5 @@
 [title]
-Mergand pe ape {author: {Luiza Cotea}, {rcId: {204601}}
+Mergand pe ape {composer: {Luiza Cotea}, {rcId: {204601}}
 
 [sequence]
 v1,b,c,v2,b,c,e

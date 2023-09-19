@@ -1,5 +1,5 @@
 [title]
-Maret dumnezeu {author: {Nicu Chereji}, {rcId: {210179}}
+Maret dumnezeu {composer: {Nicu Chereji}, {rcId: {210179}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

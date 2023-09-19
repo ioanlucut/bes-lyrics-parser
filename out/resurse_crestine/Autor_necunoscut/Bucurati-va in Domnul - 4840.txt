@@ -1,5 +1,5 @@
 [title]
-Bucurati-va in domnul {author: {Anonim}, {rcId: {4840}}
+Bucurati-va in domnul {composer: {Anonim}, {rcId: {4840}}
 
 [sequence]
 v1,c

@@ -1,5 +1,5 @@
 [title]
-Pustiul din mine {author: {Emima Toader}, {rcId: {240812}}
+Pustiul din mine {composer: {Emima Toader}, {rcId: {240812}}
 
 [sequence]
 v1,c,v2,c,v3,c

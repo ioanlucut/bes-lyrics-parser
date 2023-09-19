@@ -1,5 +1,5 @@
 [title]
-Al meu esti isuse {author: {Adoniram J.Gordon}, {rcId: {1692}}
+Al meu esti isuse {composer: {Adoniram J.Gordon}, {rcId: {1692}}
 
 [sequence]
 v1,v2,v3,v4

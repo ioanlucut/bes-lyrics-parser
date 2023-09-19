@@ -1,5 +1,5 @@
 [title]
-Te-am ales nu pentru o zi {author: {Eugen Ruje}, {rcId: {103052}}
+Te-am ales nu pentru o zi {composer: {Eugen Ruje}, {rcId: {103052}}
 
 [sequence]
 v1,c,v2,c,e

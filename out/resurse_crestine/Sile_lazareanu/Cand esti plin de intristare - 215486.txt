@@ -1,5 +1,5 @@
 [title]
-Cand esti plin de intristare {author: {Sile Lăzăreanu}, {rcId: {215486}}
+Cand esti plin de intristare {composer: {Sile Lăzăreanu}, {rcId: {215486}}
 
 [sequence]
 v1,v2,v3,v4

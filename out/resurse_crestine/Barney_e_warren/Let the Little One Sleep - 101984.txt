@@ -1,5 +1,5 @@
 [title]
-Let the little one sleep {author: {Barney E. Warren}, {rcId: {101984}}
+Let the little one sleep {composer: {Barney E. Warren}, {rcId: {101984}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

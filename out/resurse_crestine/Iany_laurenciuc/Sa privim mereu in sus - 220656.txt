@@ -1,5 +1,5 @@
 [title]
-Sa privim mereu in sus {author: {Iany Laurenciuc}, {rcId: {220656}}
+Sa privim mereu in sus {composer: {Iany Laurenciuc}, {rcId: {220656}}
 
 [sequence]
 v1,v2,v3

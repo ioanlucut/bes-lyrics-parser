@@ -1,5 +1,5 @@
 [title]
-E sfarsitul viacului / veniti pamanteni {author: {Cornel Dărăban}, {rcId: {207610}}
+E sfarsitul viacului / veniti pamanteni {composer: {Cornel Dărăban}, {rcId: {207610}}
 
 [sequence]
 v1,c,v2,c,v3,c

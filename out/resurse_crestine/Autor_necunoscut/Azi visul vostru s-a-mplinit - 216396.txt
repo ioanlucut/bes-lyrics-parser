@@ -1,5 +1,5 @@
 [title]
-Azi visul vostru s-a-mplinit {author: {Anonim}, {rcId: {216396}}
+Azi visul vostru s-a-mplinit {composer: {Anonim}, {rcId: {216396}}
 
 [sequence]
 v1,c,v2,c,v3,c

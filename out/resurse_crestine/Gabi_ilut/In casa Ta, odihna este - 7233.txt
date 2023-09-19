@@ -1,5 +1,5 @@
 [title]
-In casa ta odihna este {author: {Gabi Ilut}, {rcId: {7233}}
+In casa ta odihna este {composer: {Gabi Ilut}, {rcId: {7233}}
 
 [sequence]
 v1,c,v2,c,v3,c

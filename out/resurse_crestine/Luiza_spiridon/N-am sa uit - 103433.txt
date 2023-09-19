@@ -1,5 +1,5 @@
 [title]
-N-am sa uit {author: {Luiza Spiridon}, {rcId: {103433}}
+N-am sa uit {composer: {Luiza Spiridon}, {rcId: {103433}}
 
 [sequence]
 v1,b,c,v2,b,c,e

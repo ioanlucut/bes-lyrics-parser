@@ -1,5 +1,5 @@
 [title]
-Domneasca eaiubirea sfanta {author: {Anonim}, {rcId: {7230}}
+Domneasca eaiubirea sfanta {composer: {Anonim}, {rcId: {7230}}
 
 [sequence]
 v1,c

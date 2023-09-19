@@ -1,5 +1,5 @@
 [title]
-Isuse blandul meu pastor {author: {Ionel Plesa}, {rcId: {194929}}
+Isuse blandul meu pastor {composer: {Ionel Plesa}, {rcId: {194929}}
 
 [sequence]
 v1,v2,v3,v4,v5

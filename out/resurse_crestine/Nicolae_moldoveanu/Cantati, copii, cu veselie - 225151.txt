@@ -1,5 +1,5 @@
 [title]
-Cantati copii cu veselie {author: {Nicolae Moldoveanu}, {rcId: {225151}}
+Cantati copii cu veselie {composer: {Nicolae Moldoveanu}, {rcId: {225151}}
 
 [sequence]
 v1,v2,v3,v4

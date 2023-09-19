@@ -1,5 +1,5 @@
 [title]
-Jertfa de seara {author: {Credo}, {rcId: {95943}}
+Jertfa de seara {composer: {Credo}, {rcId: {95943}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c

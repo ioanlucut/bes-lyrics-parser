@@ -1,5 +1,5 @@
 [title]
-Isus mesia (el a venit jos in pacat) {author: {Chris Tomlin, Carson Daniel, Jesse Reeves}, {rcId: {210161}}
+Isus mesia (el a venit jos in pacat) {composer: {Chris Tomlin, Carson Daniel, Jesse Reeves}, {rcId: {210161}}
 
 [sequence]
 v1,c,v2,b,c

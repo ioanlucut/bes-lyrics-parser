@@ -1,5 +1,5 @@
 [title]
-Semnele din urma stau sa bata in prag {author: {Speranța}, {rcId: {3911}}
+Semnele din urma stau sa bata in prag {composer: {Speranța}, {rcId: {3911}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

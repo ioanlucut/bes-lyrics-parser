@@ -1,5 +1,5 @@
 [title]
-Am doar cativa ani {author: {Nicolae Moldoveanu}, {rcId: {236014}}
+Am doar cativa ani {composer: {Nicolae Moldoveanu}, {rcId: {236014}}
 
 [sequence]
 v1,v2

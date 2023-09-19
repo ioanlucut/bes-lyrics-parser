@@ -1,5 +1,5 @@
 [title]
-Pacatos ca mine nu-i {author: {Nicolae Moldoveanu}, {rcId: {126820}}
+Pacatos ca mine nu-i {composer: {Nicolae Moldoveanu}, {rcId: {126820}}
 
 [sequence]
 v1,v2,v3,v4

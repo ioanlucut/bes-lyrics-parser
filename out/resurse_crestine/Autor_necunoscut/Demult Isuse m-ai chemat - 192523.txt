@@ -1,5 +1,5 @@
 [title]
-Demult isuse m-ai chemat {author: {Anonim}, {rcId: {192523}}
+Demult isuse m-ai chemat {composer: {Anonim}, {rcId: {192523}}
 
 [sequence]
 v1,v2,v3,v4,v5

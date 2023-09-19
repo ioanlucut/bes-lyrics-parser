@@ -1,5 +1,5 @@
 [title]
-Hai vino acum sa-l lauzi {author: {Anonim}, {rcId: {4512}}
+Hai vino acum sa-l lauzi {composer: {Anonim}, {rcId: {4512}}
 
 [sequence]
 v1,c

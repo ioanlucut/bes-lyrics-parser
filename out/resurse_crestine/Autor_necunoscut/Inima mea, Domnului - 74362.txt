@@ -1,5 +1,5 @@
 [title]
-Inima mea domnului {author: {Anonim}, {rcId: {74362}}
+Inima mea domnului {composer: {Anonim}, {rcId: {74362}}
 
 [sequence]
 v1,c,v2,c

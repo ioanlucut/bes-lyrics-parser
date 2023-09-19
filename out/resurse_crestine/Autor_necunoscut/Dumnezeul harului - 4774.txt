@@ -1,5 +1,5 @@
 [title]
-Dumnezeul harului {author: {Anonim}, {rcId: {4774}}
+Dumnezeul harului {composer: {Anonim}, {rcId: {4774}}
 
 [sequence]
 v1,c,v2,c,v3,c

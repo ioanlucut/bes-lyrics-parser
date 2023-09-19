@@ -1,5 +1,5 @@
 [title]
-Sa nu te temi de batranete {author: {Nicolae Moldoveanu}, {rcId: {130702}}
+Sa nu te temi de batranete {composer: {Nicolae Moldoveanu}, {rcId: {130702}}
 
 [sequence]
 v1,v2,v3

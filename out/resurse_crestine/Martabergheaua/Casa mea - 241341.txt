@@ -1,5 +1,5 @@
 [title]
-Casa mea {author: {Marta_Bergheaua}, {rcId: {241341}}
+Casa mea {composer: {Marta_Bergheaua}, {rcId: {241341}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-De ce mai plangi cand sunt aici cu tine? {author: {Fratii Sfara}, {rcId: {142736}}
+De ce mai plangi cand sunt aici cu tine? {composer: {Fratii Sfara}, {rcId: {142736}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

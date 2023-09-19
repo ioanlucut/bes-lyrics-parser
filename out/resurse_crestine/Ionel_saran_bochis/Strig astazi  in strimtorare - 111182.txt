@@ -1,5 +1,5 @@
 [title]
-Strig astazi in strimtorare {author: {Ionel Saran Bochis}, {rcId: {111182}}
+Strig astazi in strimtorare {composer: {Ionel Saran Bochis}, {rcId: {111182}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Nu mi-a ramas {author: {Nicolae Moldoveanu}, {rcId: {244060}}
+Nu mi-a ramas {composer: {Nicolae Moldoveanu}, {rcId: {244060}}
 
 [sequence]
 v1,v2,v3

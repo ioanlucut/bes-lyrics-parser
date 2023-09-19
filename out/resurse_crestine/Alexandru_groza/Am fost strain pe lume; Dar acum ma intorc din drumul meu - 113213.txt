@@ -1,5 +1,5 @@
 [title]
-Am fost strain pe lume; dar acum ma intorc din drumul meu {author: {Alexandru Groza}, {rcId: {113213}}
+Am fost strain pe lume; dar acum ma intorc din drumul meu {composer: {Alexandru Groza}, {rcId: {113213}}
 
 [sequence]
 v1,c,v2,c

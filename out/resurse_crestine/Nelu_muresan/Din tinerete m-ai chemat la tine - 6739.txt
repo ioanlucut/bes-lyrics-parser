@@ -1,5 +1,5 @@
 [title]
-Din tinerete m-ai chemat la tine {author: {Nelu Muresan}, {rcId: {6739}}
+Din tinerete m-ai chemat la tine {composer: {Nelu Muresan}, {rcId: {6739}}
 
 [sequence]
 v1,c,v2,c,v3,c2

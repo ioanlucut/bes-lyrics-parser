@@ -1,5 +1,5 @@
 [title]
-Lacrimi iti curg pe-obraz {author: {Grupul de Tineri din Bosanci}, {rcId: {234777}}
+Lacrimi iti curg pe-obraz {composer: {Grupul de Tineri din Bosanci}, {rcId: {234777}}
 
 [sequence]
 v1,c,v2,c

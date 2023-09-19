@@ -1,5 +1,5 @@
 [title]
-Ce folos de viata ta pribeaga? {author: {Ovidiu Liteanu}, {rcId: {84296}}
+Ce folos de viata ta pribeaga? {composer: {Ovidiu Liteanu}, {rcId: {84296}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

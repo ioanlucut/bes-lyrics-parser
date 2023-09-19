@@ -1,5 +1,5 @@
 [title]
-Cand zorii cheama {author: {Nicolae Moldoveanu}, {rcId: {1673}}
+Cand zorii cheama {composer: {Nicolae Moldoveanu}, {rcId: {1673}}
 
 [sequence]
 v1,v2,v3,v4

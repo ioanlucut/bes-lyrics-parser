@@ -1,5 +1,5 @@
 [title]
-Acum e dimineata {author: {Nicolae Moldoveanu}, {rcId: {226615}}
+Acum e dimineata {composer: {Nicolae Moldoveanu}, {rcId: {226615}}
 
 [sequence]
 v1,v2,v3,v4

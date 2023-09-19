@@ -1,5 +1,5 @@
 [title]
-Pe drumul cel de piatra de pe-o colina nalta {author: {Gabriel Gorcea}, {rcId: {185940}}
+Pe drumul cel de piatra de pe-o colina nalta {composer: {Gabriel Gorcea}, {rcId: {185940}}
 
 [sequence]
 v1,c,v2,c,v3,c

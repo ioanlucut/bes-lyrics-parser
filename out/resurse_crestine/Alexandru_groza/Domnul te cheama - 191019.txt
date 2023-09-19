@@ -1,5 +1,5 @@
 [title]
-Domnul te cheama {author: {Alexandru Groza}, {rcId: {191019}}
+Domnul te cheama {composer: {Alexandru Groza}, {rcId: {191019}}
 
 [sequence]
 v1,b,c,v2,c

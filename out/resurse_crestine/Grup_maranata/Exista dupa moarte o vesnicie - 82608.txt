@@ -1,5 +1,5 @@
 [title]
-Exista dupa moarte o vesnicie {author: {Grup Maranata}, {rcId: {82608}}
+Exista dupa moarte o vesnicie {composer: {Grup Maranata}, {rcId: {82608}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

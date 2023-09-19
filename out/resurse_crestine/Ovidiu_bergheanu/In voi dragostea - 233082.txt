@@ -1,5 +1,5 @@
 [title]
-In voi dragostea {author: {Ovidiu Bergheanu}, {rcId: {233082}}
+In voi dragostea {composer: {Ovidiu Bergheanu}, {rcId: {233082}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

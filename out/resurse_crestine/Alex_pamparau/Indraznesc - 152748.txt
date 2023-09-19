@@ -1,5 +1,5 @@
 [title]
-Indraznesc {author: {Alex Pamparau}, {rcId: {152748}}
+Indraznesc {composer: {Alex Pamparau}, {rcId: {152748}}
 
 [sequence]
 v1,c,v2,b,c

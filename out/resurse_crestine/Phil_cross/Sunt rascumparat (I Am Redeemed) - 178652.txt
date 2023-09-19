@@ -1,5 +1,5 @@
 [title]
-Sunt rascumparat (i am redeemed) {author: {Phil Cross, Traducere RO}, {rcId: {178652}}
+Sunt rascumparat (i am redeemed) {composer: {Phil Cross, Traducere RO}, {rcId: {178652}}
 
 [sequence]
 v1,c,v2,c,s,c

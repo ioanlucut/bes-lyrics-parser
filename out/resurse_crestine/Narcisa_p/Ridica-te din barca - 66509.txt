@@ -1,5 +1,5 @@
 [title]
-Ridica-te din barca {author: {Narcisa P.}, {rcId: {66509}}
+Ridica-te din barca {composer: {Narcisa P.}, {rcId: {66509}}
 
 [sequence]
 v1,c,v2,c2

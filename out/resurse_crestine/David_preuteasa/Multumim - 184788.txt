@@ -1,5 +1,5 @@
 [title]
-Multumim {author: {David Preuteasa}, {rcId: {184788}}
+Multumim {composer: {David Preuteasa}, {rcId: {184788}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Strainul {author: {Virginia}, {rcId: {194233}}
+Strainul {composer: {Virginia}, {rcId: {194233}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,c,v7,c,v8,c,v9,c2

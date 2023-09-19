@@ -1,5 +1,5 @@
 [title]
-Tainicul veghetor dublat {author: {Speranța}, {rcId: {128814}}
+Tainicul veghetor dublat {composer: {Speranța}, {rcId: {128814}}
 
 [sequence]
 v1,c,v2,c,e

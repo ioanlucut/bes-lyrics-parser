@@ -1,5 +1,5 @@
 [title]
-Ca stropii de roua {author: {Anonim}, {rcId: {2132}}
+Ca stropii de roua {composer: {Anonim}, {rcId: {2132}}
 
 [sequence]
 v1,v2,v3

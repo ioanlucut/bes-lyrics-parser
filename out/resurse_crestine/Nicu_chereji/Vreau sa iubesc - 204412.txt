@@ -1,5 +1,5 @@
 [title]
-Vreau sa iubesc {author: {Nicu Chereji}, {rcId: {204412}}
+Vreau sa iubesc {composer: {Nicu Chereji}, {rcId: {204412}}
 
 [sequence]
 v1,c,v3,c,v4,c,v5,c

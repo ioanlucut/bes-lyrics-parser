@@ -1,5 +1,5 @@
 [title]
-Aici te astept azi {author: {Agape}, {rcId: {1013}}
+Aici te astept azi {composer: {Agape}, {rcId: {1013}}
 
 [sequence]
 v1,c

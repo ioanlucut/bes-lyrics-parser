@@ -1,5 +1,5 @@
 [title]
-Din stralucire jos ai venit {author: {Leleu Niculae}, {rcId: {75259}}
+Din stralucire jos ai venit {composer: {Leleu Niculae}, {rcId: {75259}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

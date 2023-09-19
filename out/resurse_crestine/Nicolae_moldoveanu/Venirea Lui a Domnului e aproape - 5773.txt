@@ -1,5 +1,5 @@
 [title]
-Venirea lui a domnului e aproape {author: {Nicolae Moldoveanu}, {rcId: {5773}}
+Venirea lui a domnului e aproape {composer: {Nicolae Moldoveanu}, {rcId: {5773}}
 
 [sequence]
 v1,v2,v3,v4

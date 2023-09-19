@@ -1,5 +1,5 @@
 [title]
-E frumos ca sa vorbim de iubirea domnului {author: {Daniel Hartie}, {rcId: {109073}}
+E frumos ca sa vorbim de iubirea domnului {composer: {Daniel Hartie}, {rcId: {109073}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

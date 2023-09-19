@@ -1,5 +1,5 @@
 [title]
-Daca vrei s-ajungi la pace {author: {Nicolae Moldoveanu}, {rcId: {244467}}
+Daca vrei s-ajungi la pace {composer: {Nicolae Moldoveanu}, {rcId: {244467}}
 
 [sequence]
 v1,v2,v3,v4

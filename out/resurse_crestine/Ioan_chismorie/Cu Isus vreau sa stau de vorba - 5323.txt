@@ -1,5 +1,5 @@
 [title]
-Cu isus vreau sa stau de vorba {author: {Ioan Chismorie}, {rcId: {5323}}
+Cu isus vreau sa stau de vorba {composer: {Ioan Chismorie}, {rcId: {5323}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

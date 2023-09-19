@@ -1,5 +1,5 @@
 [title]
-Mai cheama-mi isuse al meu duh zdrobit {author: {Traian Dorz}, {rcId: {6967}}
+Mai cheama-mi isuse al meu duh zdrobit {composer: {Traian Dorz}, {rcId: {6967}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

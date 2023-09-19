@@ -1,5 +1,5 @@
 [title]
-Dac-am avea dragostea lui dumnezeu (if everybody had a heart full of love) {author: {Albert E. Brumley, Traducere RO}, {rcId: {136030}}
+Dac-am avea dragostea lui dumnezeu (if everybody had a heart full of love) {composer: {Albert E. Brumley, Traducere RO}, {rcId: {136030}}
 
 [sequence]
 v1,c,v2,c,s,c

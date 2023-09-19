@@ -1,5 +1,5 @@
 [title]
-De cand la ceruri te-ai dus {author: {Paul Spoiala}, {rcId: {127884}}
+De cand la ceruri te-ai dus {composer: {Paul Spoiala}, {rcId: {127884}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c2

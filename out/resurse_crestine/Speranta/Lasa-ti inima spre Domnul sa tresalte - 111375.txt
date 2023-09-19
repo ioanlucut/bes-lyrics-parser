@@ -1,5 +1,5 @@
 [title]
-Lasa-ti inima spre domnul sa tresalte {author: {Speranța}, {rcId: {111375}}
+Lasa-ti inima spre domnul sa tresalte {composer: {Speranța}, {rcId: {111375}}
 
 [sequence]
 v1,c,v2,c,v3,c

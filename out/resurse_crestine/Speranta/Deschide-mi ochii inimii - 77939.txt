@@ -1,5 +1,5 @@
 [title]
-Deschide-mi ochii inimii {author: {Speranța}, {rcId: {77939}}
+Deschide-mi ochii inimii {composer: {Speranța}, {rcId: {77939}}
 
 [sequence]
 v1,c,v2,c,e

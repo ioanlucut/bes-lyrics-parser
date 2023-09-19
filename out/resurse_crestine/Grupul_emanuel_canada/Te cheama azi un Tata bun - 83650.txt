@@ -1,5 +1,5 @@
 [title]
-Te cheama azi un tata bun {author: {Grupul Emanuel Canada}, {rcId: {83650}}
+Te cheama azi un tata bun {composer: {Grupul Emanuel Canada}, {rcId: {83650}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

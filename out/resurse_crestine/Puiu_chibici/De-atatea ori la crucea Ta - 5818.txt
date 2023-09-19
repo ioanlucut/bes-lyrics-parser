@@ -1,5 +1,5 @@
 [title]
-De-atatea ori la crucea ta {author: {Puiu Chibici}, {rcId: {5818}}
+De-atatea ori la crucea ta {composer: {Puiu Chibici}, {rcId: {5818}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

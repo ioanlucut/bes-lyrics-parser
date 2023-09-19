@@ -1,5 +1,5 @@
 [title]
-Doamne parasi-voi toate {author: {Wolfgang A.Mozart}, {rcId: {1826}}
+Doamne parasi-voi toate {composer: {Wolfgang A.Mozart}, {rcId: {1826}}
 
 [sequence]
 v1,v2,v3

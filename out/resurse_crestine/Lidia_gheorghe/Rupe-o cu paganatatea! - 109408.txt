@@ -1,5 +1,5 @@
 [title]
-Rupe-o cu paganatatea {author: {Lidia Gheorghe}, {rcId: {109408}}
+Rupe-o cu paganatatea {composer: {Lidia Gheorghe}, {rcId: {109408}}
 
 [sequence]
 v1,v2,v3

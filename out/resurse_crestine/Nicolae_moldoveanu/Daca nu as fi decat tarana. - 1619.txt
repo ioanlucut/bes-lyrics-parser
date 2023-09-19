@@ -1,5 +1,5 @@
 [title]
-Daca nu as fi decat tarana {author: {Nicolae Moldoveanu}, {rcId: {1619}}
+Daca nu as fi decat tarana {composer: {Nicolae Moldoveanu}, {rcId: {1619}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c2

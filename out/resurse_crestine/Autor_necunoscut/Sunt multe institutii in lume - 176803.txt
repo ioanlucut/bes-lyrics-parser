@@ -1,5 +1,5 @@
 [title]
-Sunt multe institutii in lume {author: {Anonim}, {rcId: {176803}}
+Sunt multe institutii in lume {composer: {Anonim}, {rcId: {176803}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

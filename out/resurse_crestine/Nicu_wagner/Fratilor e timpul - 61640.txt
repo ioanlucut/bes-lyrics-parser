@@ -1,5 +1,5 @@
 [title]
-Fratilor e timpul {author: {Nicu Wagner}, {rcId: {61640}}
+Fratilor e timpul {composer: {Nicu Wagner}, {rcId: {61640}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

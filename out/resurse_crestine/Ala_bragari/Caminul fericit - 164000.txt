@@ -1,5 +1,5 @@
 [title]
-Caminul fericit {author: {Ala Bragari}, {rcId: {164000}}
+Caminul fericit {composer: {Ala Bragari}, {rcId: {164000}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

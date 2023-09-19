@@ -1,5 +1,5 @@
 [title]
-Cel ce te-ai deschis mie {author: {Thomas Hastings}, {rcId: {74291}}
+Cel ce te-ai deschis mie {composer: {Thomas Hastings}, {rcId: {74291}}
 
 [sequence]
 v1,v2,v3,v4

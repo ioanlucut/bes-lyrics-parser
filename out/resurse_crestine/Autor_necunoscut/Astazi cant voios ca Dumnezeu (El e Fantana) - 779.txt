@@ -1,5 +1,5 @@
 [title]
-Astazi cant voios ca dumnezeu (el e fantana) {author: {Anonim}, {rcId: {779}}
+Astazi cant voios ca dumnezeu (el e fantana) {composer: {Anonim}, {rcId: {779}}
 
 [sequence]
 v1,c,v2,c

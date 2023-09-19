@@ -1,5 +1,5 @@
 [title]
-El e vrednic (medley) {author: {BBSO}, {rcId: {229898}}
+El e vrednic (medley) {composer: {BBSO}, {rcId: {229898}}
 
 [sequence]
 v1,v2,b,c,v3,b,c,e,c,c,e

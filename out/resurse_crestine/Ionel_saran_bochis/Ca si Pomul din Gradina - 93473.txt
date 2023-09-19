@@ -1,5 +1,5 @@
 [title]
-Ca si pomul din gradina {author: {Ionel Saran Bochis}, {rcId: {93473}}
+Ca si pomul din gradina {composer: {Ionel Saran Bochis}, {rcId: {93473}}
 
 [sequence]
 v1,c,v2,c2

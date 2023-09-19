@@ -1,5 +1,5 @@
 [title]
-Mainile lui {author: {Continental}, {rcId: {89182}}
+Mainile lui {composer: {Continental}, {rcId: {89182}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,v4,c

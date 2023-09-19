@@ -1,5 +1,5 @@
 [title]
-Popor popor iubit de domnul {author: {Anonim}, {rcId: {155907}}
+Popor popor iubit de domnul {composer: {Anonim}, {rcId: {155907}}
 
 [sequence]
 v1,v2,v3,v4,v5

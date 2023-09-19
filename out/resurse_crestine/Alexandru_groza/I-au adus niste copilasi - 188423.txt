@@ -1,5 +1,5 @@
 [title]
-I-au adus niste copilasi {author: {Alexandru Groza}, {rcId: {188423}}
+I-au adus niste copilasi {composer: {Alexandru Groza}, {rcId: {188423}}
 
 [sequence]
 v1,b,c,v2,c

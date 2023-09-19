@@ -1,5 +1,5 @@
 [title]
-Doamne nu vezi ce furtuna {author: {Cor bărbătesc Elim Viena}, {rcId: {211067}}
+Doamne nu vezi ce furtuna {composer: {Cor bărbătesc Elim Viena}, {rcId: {211067}}
 
 [sequence]
 v1,c,v2,c,v3,c

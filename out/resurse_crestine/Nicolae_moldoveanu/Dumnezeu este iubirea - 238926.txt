@@ -1,5 +1,5 @@
 [title]
-Dumnezeu este iubirea {author: {Nicolae Moldoveanu}, {rcId: {238926}}
+Dumnezeu este iubirea {composer: {Nicolae Moldoveanu}, {rcId: {238926}}
 
 [sequence]
 v1,v2,v3

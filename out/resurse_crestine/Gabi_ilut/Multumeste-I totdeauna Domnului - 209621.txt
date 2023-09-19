@@ -1,5 +1,5 @@
 [title]
-Multumeste-i totdeauna domnului {author: {Gabi Ilut}, {rcId: {209621}}
+Multumeste-i totdeauna domnului {composer: {Gabi Ilut}, {rcId: {209621}}
 
 [sequence]
 v1,c,v2,c,v3,c

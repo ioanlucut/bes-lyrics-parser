@@ -1,5 +1,5 @@
 [title]
-Si totusi fara mine {author: {Nicolae Moldoveanu}, {rcId: {244484}}
+Si totusi fara mine {composer: {Nicolae Moldoveanu}, {rcId: {244484}}
 
 [sequence]
 v1,v2,v3,v4

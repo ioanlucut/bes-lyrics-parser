@@ -1,5 +1,5 @@
 [title]
-O vino azi emanuel {author: {Sanctus Pro Deo}, {rcId: {238731}}
+O vino azi emanuel {composer: {Sanctus Pro Deo}, {rcId: {238731}}
 
 [sequence]
 v1,c,v2,c,v3,c

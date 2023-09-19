@@ -1,5 +1,5 @@
 [title]
-Leu si miel {author: {Leeland Mooring, Brenton Brown, Brian Johnson}, {rcId: {162881}}
+Leu si miel {composer: {Leeland Mooring, Brenton Brown, Brian Johnson}, {rcId: {162881}}
 
 [sequence]
 v1,c,v2,c,e,c

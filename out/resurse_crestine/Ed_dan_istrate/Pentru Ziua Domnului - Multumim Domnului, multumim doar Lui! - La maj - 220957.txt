@@ -1,5 +1,5 @@
 [title]
-Pentru ziua domnului - multumim domnului multumim doar lui - la maj {author: {ed. Dan Istrate}, {rcId: {220957}}
+Pentru ziua domnului - multumim domnului multumim doar lui - la maj {composer: {ed. Dan Istrate}, {rcId: {220957}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

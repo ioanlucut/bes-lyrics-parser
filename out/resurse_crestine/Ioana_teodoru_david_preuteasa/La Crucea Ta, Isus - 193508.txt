@@ -1,5 +1,5 @@
 [title]
-La crucea ta isus {author: {Ioana Teodoru, David Preuteasa}, {rcId: {193508}}
+La crucea ta isus {composer: {Ioana Teodoru, David Preuteasa}, {rcId: {193508}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

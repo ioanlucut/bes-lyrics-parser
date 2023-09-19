@@ -1,5 +1,5 @@
 [title]
-Cand ti-e inima adanc zdrobita {author: {Ionel Saran}, {rcId: {115679}}
+Cand ti-e inima adanc zdrobita {composer: {Ionel Saran}, {rcId: {115679}}
 
 [sequence]
 v1,c,v2,c

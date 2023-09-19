@@ -1,5 +1,5 @@
 [title]
-Un singur domn {author: {Simona Rusu}, {rcId: {157310}}
+Un singur domn {composer: {Simona Rusu}, {rcId: {157310}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4,c5

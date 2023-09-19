@@ -1,5 +1,5 @@
 [title]
-Doamne a crede vreau {author: {B.Mansel Ramsey}, {rcId: {1850}}
+Doamne a crede vreau {composer: {B.Mansel Ramsey}, {rcId: {1850}}
 
 [sequence]
 v1,v2,v3

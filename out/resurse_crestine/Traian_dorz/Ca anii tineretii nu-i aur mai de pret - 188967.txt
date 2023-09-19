@@ -1,5 +1,5 @@
 [title]
-Ca anii tineretii nu-i aur mai de pret {author: {Traian  Dorz}, {rcId: {188967}}
+Ca anii tineretii nu-i aur mai de pret {composer: {Traian  Dorz}, {rcId: {188967}}
 
 [sequence]
 v1,v2,v3,v4

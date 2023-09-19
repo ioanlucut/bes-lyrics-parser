@@ -1,5 +1,5 @@
 [title]
-Si slava lui ar straluci in mine {author: {Anonim}, {rcId: {1657}}
+Si slava lui ar straluci in mine {composer: {Anonim}, {rcId: {1657}}
 
 [sequence]
 v1,c,v2,c

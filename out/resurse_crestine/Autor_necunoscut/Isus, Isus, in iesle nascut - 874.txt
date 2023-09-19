@@ -1,5 +1,5 @@
 [title]
-Isus isus in iesle nascut {author: {Anonim}, {rcId: {874}}
+Isus isus in iesle nascut {composer: {Anonim}, {rcId: {874}}
 
 [sequence]
 c,v1,c

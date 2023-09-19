@@ -1,5 +1,5 @@
 [title]
-Multumesc mama {author: {Estela C. Manea}, {rcId: {73786}}
+Multumesc mama {composer: {Estela C. Manea}, {rcId: {73786}}
 
 [sequence]
 v1,c,v2,c

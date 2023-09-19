@@ -1,5 +1,5 @@
 [title]
-Sa cauti doar ce-i curat {author: {Nicolae Moldoveanu}, {rcId: {244108}}
+Sa cauti doar ce-i curat {composer: {Nicolae Moldoveanu}, {rcId: {244108}}
 
 [sequence]
 v1,v2,v3

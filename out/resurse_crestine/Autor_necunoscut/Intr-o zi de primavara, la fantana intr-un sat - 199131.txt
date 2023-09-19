@@ -1,5 +1,5 @@
 [title]
-Intr-o zi de primavara la fantana intr-un sat {author: {Anonim}, {rcId: {199131}}
+Intr-o zi de primavara la fantana intr-un sat {composer: {Anonim}, {rcId: {199131}}
 
 [sequence]
 v1,c,v2,c,v3,c

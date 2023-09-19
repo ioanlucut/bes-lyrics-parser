@@ -1,5 +1,5 @@
 [title]
-Te voi urma {author: {Utilizator Moldovan Florin}, {rcId: {107003}}
+Te voi urma {composer: {Utilizator Moldovan Florin}, {rcId: {107003}}
 
 [sequence]
 v1,c,v2,c,e

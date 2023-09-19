@@ -1,5 +1,5 @@
 [title]
-Aleluia {author: {Matt Redman}, {rcId: {5132}}
+Aleluia {composer: {Matt Redman}, {rcId: {5132}}
 
 [sequence]
 v1,c

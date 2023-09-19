@@ -1,5 +1,5 @@
 [title]
-Vei reveni isuse {author: {Nicu Wagner}, {rcId: {61694}}
+Vei reveni isuse {composer: {Nicu Wagner}, {rcId: {61694}}
 
 [sequence]
 v1,c,v2,c,v3,c

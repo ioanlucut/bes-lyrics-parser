@@ -1,5 +1,5 @@
 [title]
-Vei auzi te va chema ultima soapta {author: {Anonim}, {rcId: {227193}}
+Vei auzi te va chema ultima soapta {composer: {Anonim}, {rcId: {227193}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

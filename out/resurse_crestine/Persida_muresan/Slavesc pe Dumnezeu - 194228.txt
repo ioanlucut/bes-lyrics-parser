@@ -1,5 +1,5 @@
 [title]
-Slavesc pe dumnezeu {author: {Persida Mureșan}, {rcId: {194228}}
+Slavesc pe dumnezeu {composer: {Persida Mureșan}, {rcId: {194228}}
 
 [sequence]
 v1,c,v2,c,v3,c2

@@ -1,5 +1,5 @@
 [title]
-Cu tine fie dumnezeu (gott sei mit dir) {author: {Reinhard Börner, Traducere RO}, {rcId: {187968}}
+Cu tine fie dumnezeu (gott sei mit dir) {composer: {Reinhard Börner, Traducere RO}, {rcId: {187968}}
 
 [sequence]
 v1,v2,s

@@ -1,5 +1,5 @@
 [title]
-Isus nume scris vesnic {author: {Naida Hearn}, {rcId: {1274}}
+Isus nume scris vesnic {composer: {Naida Hearn}, {rcId: {1274}}
 
 [sequence]
 v1,v2

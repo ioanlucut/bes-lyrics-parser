@@ -1,5 +1,5 @@
 [title]
-Daca ramaneti in mine {author: {Nicolae Moldoveanu}, {rcId: {194452}}
+Daca ramaneti in mine {composer: {Nicolae Moldoveanu}, {rcId: {194452}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

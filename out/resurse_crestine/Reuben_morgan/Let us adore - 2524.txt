@@ -1,5 +1,5 @@
 [title]
-Let us adore {author: {Reuben Morgan, Traducere RO}, {rcId: {2524}}
+Let us adore {composer: {Reuben Morgan, Traducere RO}, {rcId: {2524}}
 
 [sequence]
 v1,v2,c,v3,b,c

@@ -1,5 +1,5 @@
 [title]
-Greu e doamne-n suferinta (original) {author: {Dionisie Giuchici}, {rcId: {6872}}
+Greu e doamne-n suferinta (original) {composer: {Dionisie Giuchici}, {rcId: {6872}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c

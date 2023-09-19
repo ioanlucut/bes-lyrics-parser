@@ -1,5 +1,5 @@
 [title]
-Ma stie taina noptii {author: {Marian Zamfir}, {rcId: {112113}}
+Ma stie taina noptii {composer: {Marian Zamfir}, {rcId: {112113}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

@@ -1,5 +1,5 @@
 [title]
-Cand ti-am inteles chemarea {author: {Anonim}, {rcId: {194005}}
+Cand ti-am inteles chemarea {composer: {Anonim}, {rcId: {194005}}
 
 [sequence]
 v1,v2,v3,v4,v5

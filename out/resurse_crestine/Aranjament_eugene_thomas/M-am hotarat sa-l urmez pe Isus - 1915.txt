@@ -1,5 +1,5 @@
 [title]
-M-am hotarat sa-l urmez pe isus {author: {Aranjament Eugene Thomas}, {rcId: {1915}}
+M-am hotarat sa-l urmez pe isus {composer: {Aranjament Eugene Thomas}, {rcId: {1915}}
 
 [sequence]
 v1,v2,v3,v4

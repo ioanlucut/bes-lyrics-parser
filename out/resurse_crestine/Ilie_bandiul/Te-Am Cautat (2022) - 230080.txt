@@ -1,5 +1,5 @@
 [title]
-Te-am cautat () {author: {Ilie Bândiul}, {rcId: {230080}}
+Te-am cautat () {composer: {Ilie Bândiul}, {rcId: {230080}}
 
 [sequence]
 v01,v02,v03,v04,v05

@@ -1,5 +1,5 @@
 [title]
-Bucurie astazi cum a fost odata {author: {Anonim}, {rcId: {194071}}
+Bucurie astazi cum a fost odata {composer: {Anonim}, {rcId: {194071}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-La crucea ta ma-ntorc {author: {Oni Rodilă, Alina Paneșiu}, {rcId: {168556}}
+La crucea ta ma-ntorc {composer: {Oni Rodilă, Alina Paneșiu}, {rcId: {168556}}
 
 [sequence]
 v1,v2,c,c

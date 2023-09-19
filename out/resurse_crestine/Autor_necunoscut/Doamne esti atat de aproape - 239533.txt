@@ -1,5 +1,5 @@
 [title]
-Doamne esti atat de aproape {author: {Album necunoscut}, {rcId: {239533}}
+Doamne esti atat de aproape {composer: {Album necunoscut}, {rcId: {239533}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c2

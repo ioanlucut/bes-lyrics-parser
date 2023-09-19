@@ -1,5 +1,5 @@
 [title]
-Astazi vreau sa stii sora si frate {author: {amos7}, {rcId: {89138}}
+Astazi vreau sa stii sora si frate {composer: {amos7}, {rcId: {89138}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

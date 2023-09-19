@@ -1,5 +1,5 @@
 [title]
-Voi azi porniti pe drumul care {author: {Simon Boloca}, {rcId: {212153}}
+Voi azi porniti pe drumul care {composer: {Simon Boloca}, {rcId: {212153}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

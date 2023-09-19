@@ -1,5 +1,5 @@
 [title]
-O cine este-acest copil ? {author: {Anonim}, {rcId: {79415}}
+O cine este-acest copil ? {composer: {Anonim}, {rcId: {79415}}
 
 [sequence]
 v1,c,v2,c,v3,c

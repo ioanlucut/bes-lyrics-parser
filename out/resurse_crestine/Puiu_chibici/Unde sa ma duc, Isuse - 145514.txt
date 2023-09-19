@@ -1,5 +1,5 @@
 [title]
-Unde sa ma duc isuse {author: {Puiu Chibici}, {rcId: {145514}}
+Unde sa ma duc isuse {composer: {Puiu Chibici}, {rcId: {145514}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

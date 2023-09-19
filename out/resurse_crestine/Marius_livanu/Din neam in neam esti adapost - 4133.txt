@@ -1,5 +1,5 @@
 [title]
-Din neam in neam esti adapost {author: {Marius Livanu}, {rcId: {4133}}
+Din neam in neam esti adapost {composer: {Marius Livanu}, {rcId: {4133}}
 
 [sequence]
 v1,c,v2,c,v3,c

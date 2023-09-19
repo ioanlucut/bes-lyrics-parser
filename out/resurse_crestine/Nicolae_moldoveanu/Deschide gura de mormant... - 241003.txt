@@ -1,5 +1,5 @@
 [title]
-Deschide gura de mormant {author: {Nicolae Moldoveanu}, {rcId: {241003}}
+Deschide gura de mormant {composer: {Nicolae Moldoveanu}, {rcId: {241003}}
 
 [sequence]
 v1,v2,v3,v4,v5

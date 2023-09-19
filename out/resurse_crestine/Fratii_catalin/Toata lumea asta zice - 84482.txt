@@ -1,5 +1,5 @@
 [title]
-Toata lumea asta zice {author: {Frații Cătălin}, {rcId: {84482}}
+Toata lumea asta zice {composer: {Frații Cătălin}, {rcId: {84482}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

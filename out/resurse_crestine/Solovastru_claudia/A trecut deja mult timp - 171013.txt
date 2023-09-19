@@ -1,5 +1,5 @@
 [title]
-A trecut deja mult timp {author: {Solovăstru Claudia}, {rcId: {171013}}
+A trecut deja mult timp {composer: {Solovăstru Claudia}, {rcId: {171013}}
 
 [sequence]
 v1

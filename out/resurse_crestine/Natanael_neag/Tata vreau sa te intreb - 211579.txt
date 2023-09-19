@@ -1,5 +1,5 @@
 [title]
-Tata vreau sa te intreb {author: {Natanael Neag}, {rcId: {211579}}
+Tata vreau sa te intreb {composer: {Natanael Neag}, {rcId: {211579}}
 
 [sequence]
 v1,v2,v3,v4

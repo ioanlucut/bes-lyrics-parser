@@ -1,5 +1,5 @@
 [title]
-Priveste crinii (consider the lilies) {author: {Joel Hemphill, Traducere RO}, {rcId: {91949}}
+Priveste crinii (consider the lilies) {composer: {Joel Hemphill, Traducere RO}, {rcId: {91949}}
 
 [sequence]
 v1,c,v2,c,s,c

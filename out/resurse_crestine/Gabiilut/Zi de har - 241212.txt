@@ -1,5 +1,5 @@
 [title]
-Zi de har {author: {Gabi_Ilut}, {rcId: {241212}}
+Zi de har {composer: {Gabi_Ilut}, {rcId: {241212}}
 
 [sequence]
 v1,c,v2,c,v3,c

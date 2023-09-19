@@ -1,5 +1,5 @@
 [title]
-Licurici {author: {Nicolae Moldoveanu}, {rcId: {239083}}
+Licurici {composer: {Nicolae Moldoveanu}, {rcId: {239083}}
 
 [sequence]
 v1,v2,v3

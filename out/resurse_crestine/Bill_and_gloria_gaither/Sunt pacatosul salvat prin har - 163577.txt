@@ -1,5 +1,5 @@
 [title]
-Sunt pacatosul salvat prin har {author: {Bill and Gloria Gaither, Traducere RO}, {rcId: {163577}}
+Sunt pacatosul salvat prin har {composer: {Bill and Gloria Gaither, Traducere RO}, {rcId: {163577}}
 
 [sequence]
 v1,c,v2,c2

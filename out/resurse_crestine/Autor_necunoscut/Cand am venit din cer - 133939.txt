@@ -1,5 +1,5 @@
 [title]
-Cand am venit din cer {author: {Anonim}, {rcId: {133939}}
+Cand am venit din cer {composer: {Anonim}, {rcId: {133939}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Daca vrei si vrei sa iai {author: {Traian Dorz}, {rcId: {204313}}
+Daca vrei si vrei sa iai {composer: {Traian Dorz}, {rcId: {204313}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Pilda {author: {Razvan Reste, Dodo Danciu}, {rcId: {204369}}
+Pilda {composer: {Razvan Reste, Dodo Danciu}, {rcId: {204369}}
 
 [sequence]
 v1,v2,c,v3,c,b,c

@@ -1,5 +1,5 @@
 [title]
-Cant: "aleluia lui isus {author: {Adi Gliga}, {rcId: {5855}}
+Cant: "aleluia lui isus {composer: {Adi Gliga}, {rcId: {5855}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

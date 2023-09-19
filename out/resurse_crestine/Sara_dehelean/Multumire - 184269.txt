@@ -1,5 +1,5 @@
 [title]
-Multumire {author: {Sara Dehelean}, {rcId: {184269}}
+Multumire {composer: {Sara Dehelean}, {rcId: {184269}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

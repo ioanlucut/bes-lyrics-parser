@@ -1,5 +1,5 @@
 [title]
-Imi da bucurie {author: {Lidia Gheorghe}, {rcId: {96890}}
+Imi da bucurie {composer: {Lidia Gheorghe}, {rcId: {96890}}
 
 [sequence]
 v1,c,c,v2,c,v3,c2,e

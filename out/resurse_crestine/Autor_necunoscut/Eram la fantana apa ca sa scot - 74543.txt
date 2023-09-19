@@ -1,5 +1,5 @@
 [title]
-Eram la fantana apa ca sa scot {author: {Anonim}, {rcId: {74543}}
+Eram la fantana apa ca sa scot {composer: {Anonim}, {rcId: {74543}}
 
 [sequence]
 v1,c,v2,c,v3,c

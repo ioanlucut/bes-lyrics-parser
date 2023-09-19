@@ -1,5 +1,5 @@
 [title]
-Curand se-ntoarce domnul {author: {Anonim}, {rcId: {212689}}
+Curand se-ntoarce domnul {composer: {Anonim}, {rcId: {212689}}
 
 [sequence]
 v1,v2,v3,v4,v5

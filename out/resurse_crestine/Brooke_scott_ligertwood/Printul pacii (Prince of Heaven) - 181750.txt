@@ -1,5 +1,5 @@
 [title]
-Printul pacii (prince of heaven) {author: {Brooke, Scott Ligertwood, Traducere RO}, {rcId: {181750}}
+Printul pacii (prince of heaven) {composer: {Brooke, Scott Ligertwood, Traducere RO}, {rcId: {181750}}
 
 [sequence]
 v1,v2,c,v3,b,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Lauda cant numelui tau cel sfant {author: {Anonim}, {rcId: {4987}}
+Lauda cant numelui tau cel sfant {composer: {Anonim}, {rcId: {4987}}
 
 [sequence]
 v1

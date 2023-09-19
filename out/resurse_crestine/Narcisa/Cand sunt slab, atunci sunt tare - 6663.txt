@@ -1,5 +1,5 @@
 [title]
-Cand sunt slab atunci sunt tare {author: {Narcisa}, {rcId: {6663}}
+Cand sunt slab atunci sunt tare {composer: {Narcisa}, {rcId: {6663}}
 
 [sequence]
 v1,c

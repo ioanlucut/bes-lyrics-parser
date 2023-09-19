@@ -1,5 +1,5 @@
 [title]
-Pentru cine-ti bate bate inima neincetat? {author: {Nicolae Moldoveanu}, {rcId: {5415}}
+Pentru cine-ti bate bate inima neincetat? {composer: {Nicolae Moldoveanu}, {rcId: {5415}}
 
 [sequence]
 v1,v2,v3,v4,v5

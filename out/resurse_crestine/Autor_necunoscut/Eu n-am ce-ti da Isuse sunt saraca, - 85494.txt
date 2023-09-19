@@ -1,5 +1,5 @@
 [title]
-Eu n-am ce-ti da isuse sunt saraca {author: {Anonim}, {rcId: {85494}}
+Eu n-am ce-ti da isuse sunt saraca {composer: {Anonim}, {rcId: {85494}}
 
 [sequence]
 v1,v2,v3,v4

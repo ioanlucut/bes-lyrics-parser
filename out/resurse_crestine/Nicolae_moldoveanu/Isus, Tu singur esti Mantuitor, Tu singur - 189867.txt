@@ -1,5 +1,5 @@
 [title]
-Isus tu singur esti mantuitor tu singur {author: {Nicolae Moldoveanu}, {rcId: {189867}}
+Isus tu singur esti mantuitor tu singur {composer: {Nicolae Moldoveanu}, {rcId: {189867}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

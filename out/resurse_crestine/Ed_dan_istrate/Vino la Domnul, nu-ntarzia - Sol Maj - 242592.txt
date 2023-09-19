@@ -1,5 +1,5 @@
 [title]
-Vino la domnul nu-ntarzia - sol maj {author: {ed. Dan Istrate}, {rcId: {242592}}
+Vino la domnul nu-ntarzia - sol maj {composer: {ed. Dan Istrate}, {rcId: {242592}}
 
 [sequence]
 v1,c,v2,c,v3,c

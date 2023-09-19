@@ -1,5 +1,5 @@
 [title]
-Fa voia lui (do diez) {author: {Mirela Ursulescu}, {rcId: {176613}}
+Fa voia lui (do diez) {composer: {Mirela Ursulescu}, {rcId: {176613}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Renuntand la orice vis al meu {author: {George Ciurdas}, {rcId: {164308}}
+Renuntand la orice vis al meu {composer: {George Ciurdas}, {rcId: {164308}}
 
 [sequence]
 v1,c,v2,c,e

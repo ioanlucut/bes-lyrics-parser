@@ -1,5 +1,5 @@
 [title]
-Cautam fata ta {author: {Ștefan Petre feat. Monica Gheran}, {rcId: {231425}}
+Cautam fata ta {composer: {Ștefan Petre feat. Monica Gheran}, {rcId: {231425}}
 
 [sequence]
 v1,b,c,v2,v3,b2,c,e,e2,e,c

@@ -1,5 +1,5 @@
 [title]
-Esti maret si inaltat-wonderful savior {author: {Anonim}, {rcId: {169565}}
+Esti maret si inaltat-wonderful savior {composer: {Anonim}, {rcId: {169565}}
 
 [sequence]
 v1,c,c,e

@@ -1,5 +1,5 @@
 [title]
-Spre cer incerc a ma sili {author: {Charles H.Gabriel}, {rcId: {74401}}
+Spre cer incerc a ma sili {composer: {Charles H.Gabriel}, {rcId: {74401}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

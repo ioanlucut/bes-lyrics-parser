@@ -1,5 +1,5 @@
 [title]
-Lauda pe domnul suflete {author: {Asa Hull}, {rcId: {1278}}
+Lauda pe domnul suflete {composer: {Asa Hull}, {rcId: {1278}}
 
 [sequence]
 v1,c,v2,c,v3,c

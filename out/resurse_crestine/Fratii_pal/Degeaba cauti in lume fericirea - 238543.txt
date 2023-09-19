@@ -1,5 +1,5 @@
 [title]
-Degeaba cauti in lume fericirea {author: {Fratii Pal}, {rcId: {238543}}
+Degeaba cauti in lume fericirea {composer: {Fratii Pal}, {rcId: {238543}}
 
 [sequence]
 v1,c,v2,c2,v3,c2,c

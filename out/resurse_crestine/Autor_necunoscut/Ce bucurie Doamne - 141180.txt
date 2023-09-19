@@ -1,5 +1,5 @@
 [title]
-Ce bucurie doamne {author: {Anonim}, {rcId: {141180}}
+Ce bucurie doamne {composer: {Anonim}, {rcId: {141180}}
 
 [sequence]
 v1,v2,v3,v4

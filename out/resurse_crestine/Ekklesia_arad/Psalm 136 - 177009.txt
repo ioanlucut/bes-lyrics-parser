@@ -1,5 +1,5 @@
 [title]
-Psalm {author: {Ekklesia Arad}, {rcId: {177009}}
+Psalm {composer: {Ekklesia Arad}, {rcId: {177009}}
 
 [sequence]
 v1,v2,c,v3,c,v4,b,c,c,e

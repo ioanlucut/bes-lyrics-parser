@@ -1,5 +1,5 @@
 [title]
-El e dragoste {author: {Gabi_Ilut}, {rcId: {241266}}
+El e dragoste {composer: {Gabi_Ilut}, {rcId: {241266}}
 
 [sequence]
 v1,c,v2,c,v3,c

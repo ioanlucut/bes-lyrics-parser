@@ -1,5 +1,5 @@
 [title]
-Israele israele {author: {Hasmasan Gavril}, {rcId: {7216}}
+Israele israele {composer: {Hasmasan Gavril}, {rcId: {7216}}
 
 [sequence]
 v1,v2,v3,v4,v5

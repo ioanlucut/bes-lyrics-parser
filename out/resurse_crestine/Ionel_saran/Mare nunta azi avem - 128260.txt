@@ -1,5 +1,5 @@
 [title]
-Mare nunta azi avem {author: {Ionel Saran}, {rcId: {128260}}
+Mare nunta azi avem {composer: {Ionel Saran}, {rcId: {128260}}
 
 [sequence]
 v1,v2,v3,v4,v5

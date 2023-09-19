@@ -1,5 +1,5 @@
 [title]
-Genunchii imi aplec {author: {The Messengers}, {rcId: {6653}}
+Genunchii imi aplec {composer: {The Messengers}, {rcId: {6653}}
 
 [sequence]
 v1,c,v2,c,v3,c

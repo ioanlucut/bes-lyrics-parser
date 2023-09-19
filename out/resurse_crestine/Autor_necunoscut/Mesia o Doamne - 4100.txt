@@ -1,5 +1,5 @@
 [title]
-Mesia o doamne {author: {Anonim}, {rcId: {4100}}
+Mesia o doamne {composer: {Anonim}, {rcId: {4100}}
 
 [sequence]
 c,v1,c

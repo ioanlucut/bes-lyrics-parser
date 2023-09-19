@@ -1,5 +1,5 @@
 [title]
-Tata din ceruri noi te iubim {author: {Anonim}, {rcId: {2765}}
+Tata din ceruri noi te iubim {composer: {Anonim}, {rcId: {2765}}
 
 [sequence]
 v1,c,v2,c

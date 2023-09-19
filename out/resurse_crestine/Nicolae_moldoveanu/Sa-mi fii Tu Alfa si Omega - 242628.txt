@@ -1,5 +1,5 @@
 [title]
-Sa-mi fii tu alfa si omega {author: {Nicolae Moldoveanu}, {rcId: {242628}}
+Sa-mi fii tu alfa si omega {composer: {Nicolae Moldoveanu}, {rcId: {242628}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Fara de dumnezeu {author: {Diaz Amos}, {rcId: {239007}}
+Fara de dumnezeu {composer: {Diaz Amos}, {rcId: {239007}}
 
 [sequence]
 v1,c,v2,c

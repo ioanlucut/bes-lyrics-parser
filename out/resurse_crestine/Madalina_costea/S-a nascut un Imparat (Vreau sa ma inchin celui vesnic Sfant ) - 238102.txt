@@ -1,5 +1,5 @@
 [title]
-S-a nascut un imparat (vreau sa ma inchin celui vesnic sfant ) {author: {Mădălina Costea}, {rcId: {238102}}
+S-a nascut un imparat (vreau sa ma inchin celui vesnic sfant ) {composer: {Mădălina Costea}, {rcId: {238102}}
 
 [sequence]
 v1,c,v2,c,v3,c2

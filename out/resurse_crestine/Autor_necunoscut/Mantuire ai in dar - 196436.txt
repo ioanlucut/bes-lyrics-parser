@@ -1,5 +1,5 @@
 [title]
-Mantuire ai in dar {author: {Anonim}, {rcId: {196436}}
+Mantuire ai in dar {composer: {Anonim}, {rcId: {196436}}
 
 [sequence]
 v1,v2

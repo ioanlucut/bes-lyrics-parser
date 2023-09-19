@@ -1,5 +1,5 @@
 [title]
-Ce alegi in viata {author: {Maria Șimon}, {rcId: {231292}}
+Ce alegi in viata {composer: {Maria Șimon}, {rcId: {231292}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Domnul este bun si sfant {author: {Nicolae Moldoveanu}, {rcId: {5259}}
+Domnul este bun si sfant {composer: {Nicolae Moldoveanu}, {rcId: {5259}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

@@ -1,5 +1,5 @@
 [title]
-Ce bucurie cand ni se zice {author: {Anonim}, {rcId: {4573}}
+Ce bucurie cand ni se zice {composer: {Anonim}, {rcId: {4573}}
 
 [sequence]
 v1,c,v2,c,v3,c

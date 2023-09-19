@@ -1,5 +1,5 @@
 [title]
-Pe-oceanul infinit cu valuri grija m-a cuprins {author: {Alexandru Groza}, {rcId: {5288}}
+Pe-oceanul infinit cu valuri grija m-a cuprins {composer: {Alexandru Groza}, {rcId: {5288}}
 
 [sequence]
 v1,c,v2,c,v3,c2

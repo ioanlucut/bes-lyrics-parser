@@ -1,5 +1,5 @@
 [title]
-Al bucuriei steag {author: {Anonim}, {rcId: {93328}}
+Al bucuriei steag {composer: {Anonim}, {rcId: {93328}}
 
 [sequence]
 v1,c

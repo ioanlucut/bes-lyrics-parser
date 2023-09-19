@@ -1,5 +1,5 @@
 [title]
-Traiam departe de fata ta {author: {Speranța}, {rcId: {128818}}
+Traiam departe de fata ta {composer: {Speranța}, {rcId: {128818}}
 
 [sequence]
 v1,c,v2,c,e

@@ -1,5 +1,5 @@
 [title]
-Veniti copii {author: {Anonim}, {rcId: {107523}}
+Veniti copii {composer: {Anonim}, {rcId: {107523}}
 
 [sequence]
 v1,v2,v3,v4

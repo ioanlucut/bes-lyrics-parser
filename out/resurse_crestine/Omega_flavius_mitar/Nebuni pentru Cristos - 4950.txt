@@ -1,5 +1,5 @@
 [title]
-Nebuni pentru cristos {author: {Omega, Flavius Mitar}, {rcId: {4950}}
+Nebuni pentru cristos {composer: {Omega, Flavius Mitar}, {rcId: {4950}}
 
 [sequence]
 v1,v2,v3,v4,v5

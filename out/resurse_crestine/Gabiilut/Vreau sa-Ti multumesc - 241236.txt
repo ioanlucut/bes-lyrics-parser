@@ -1,5 +1,5 @@
 [title]
-Vreau sa-ti multumesc {author: {Gabi_Ilut}, {rcId: {241236}}
+Vreau sa-ti multumesc {composer: {Gabi_Ilut}, {rcId: {241236}}
 
 [sequence]
 v1,c,v2,c,e

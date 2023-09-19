@@ -1,5 +1,5 @@
 [title]
-Osanale se aud {author: {Symona Rusu}, {rcId: {222355}}
+Osanale se aud {composer: {Symona Rusu}, {rcId: {222355}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

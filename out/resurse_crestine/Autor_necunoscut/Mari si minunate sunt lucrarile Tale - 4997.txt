@@ -1,5 +1,5 @@
 [title]
-Mari si minunate sunt lucrarile tale {author: {Anonim}, {rcId: {4997}}
+Mari si minunate sunt lucrarile tale {composer: {Anonim}, {rcId: {4997}}
 
 [sequence]
 v1,c,v2,c,v3,c

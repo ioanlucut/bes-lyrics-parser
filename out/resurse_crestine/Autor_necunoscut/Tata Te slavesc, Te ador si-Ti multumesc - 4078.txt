@@ -1,5 +1,5 @@
 [title]
-Tata te slavesc te ador si-ti multumesc {author: {Anonim}, {rcId: {4078}}
+Tata te slavesc te ador si-ti multumesc {composer: {Anonim}, {rcId: {4078}}
 
 [sequence]
 v1,v2,v3

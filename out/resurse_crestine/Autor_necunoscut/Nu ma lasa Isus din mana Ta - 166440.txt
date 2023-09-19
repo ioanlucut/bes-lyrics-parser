@@ -1,5 +1,5 @@
 [title]
-Nu ma lasa isus din mana ta {author: {Necunoscut}, {rcId: {166440}}
+Nu ma lasa isus din mana ta {composer: {Necunoscut}, {rcId: {166440}}
 
 [sequence]
 v1,v2,v3,v4,v5

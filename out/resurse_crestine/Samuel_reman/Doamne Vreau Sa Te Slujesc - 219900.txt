@@ -1,5 +1,5 @@
 [title]
-Doamne vreau sa te slujesc {author: {Samuel Reman}, {rcId: {219900}}
+Doamne vreau sa te slujesc {composer: {Samuel Reman}, {rcId: {219900}}
 
 [sequence]
 v1,c,v2,c,v3,c

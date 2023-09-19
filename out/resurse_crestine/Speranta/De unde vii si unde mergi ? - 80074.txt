@@ -1,5 +1,5 @@
 [title]
-De unde vii si unde mergi ? {author: {Speranța}, {rcId: {80074}}
+De unde vii si unde mergi ? {composer: {Speranța}, {rcId: {80074}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Pe toate corzile vietii {author: {Nicolae Moldoveanu}, {rcId: {246210}}
+Pe toate corzile vietii {composer: {Nicolae Moldoveanu}, {rcId: {246210}}
 
 [sequence]
 v1,v2,v3,v4,v5

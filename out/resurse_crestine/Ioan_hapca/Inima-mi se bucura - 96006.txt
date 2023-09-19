@@ -1,5 +1,5 @@
 [title]
-Inima-mi se bucura {author: {Ioan Hapca}, {rcId: {96006}}
+Inima-mi se bucura {composer: {Ioan Hapca}, {rcId: {96006}}
 
 [sequence]
 v1,c,v2,c

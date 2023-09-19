@@ -1,5 +1,5 @@
 [title]
-Aprinde focul iar {author: {Necunoscut}, {rcId: {168149}}
+Aprinde focul iar {composer: {Necunoscut}, {rcId: {168149}}
 
 [sequence]
 v1,v2,c

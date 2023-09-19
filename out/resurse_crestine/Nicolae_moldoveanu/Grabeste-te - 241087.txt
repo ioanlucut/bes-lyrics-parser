@@ -1,5 +1,5 @@
 [title]
-Grabeste-te {author: {Nicolae Moldoveanu}, {rcId: {241087}}
+Grabeste-te {composer: {Nicolae Moldoveanu}, {rcId: {241087}}
 
 [sequence]
 v1,c,v3,c2,v5,c3

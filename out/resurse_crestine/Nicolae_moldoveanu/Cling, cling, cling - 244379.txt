@@ -1,5 +1,5 @@
 [title]
-Cling cling cling {author: {Nicolae Moldoveanu}, {rcId: {244379}}
+Cling cling cling {composer: {Nicolae Moldoveanu}, {rcId: {244379}}
 
 [sequence]
 v1,v2,v3,v4

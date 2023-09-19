@@ -1,5 +1,5 @@
 [title]
-Tatal luminii tu te bucuri {author: {Anonim}, {rcId: {5085}}
+Tatal luminii tu te bucuri {composer: {Anonim}, {rcId: {5085}}
 
 [sequence]
 v1,c,v2,c

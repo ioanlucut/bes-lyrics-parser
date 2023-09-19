@@ -1,5 +1,5 @@
 [title]
-Pe harfa inimii un singur nume {author: {Nicolae Moldoveanu}, {rcId: {242567}}
+Pe harfa inimii un singur nume {composer: {Nicolae Moldoveanu}, {rcId: {242567}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Daca vrei o numai daca tu vrei {author: {Anonim}, {rcId: {151222}}
+Daca vrei o numai daca tu vrei {composer: {Anonim}, {rcId: {151222}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

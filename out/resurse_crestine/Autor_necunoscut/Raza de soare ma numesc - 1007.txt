@@ -1,5 +1,5 @@
 [title]
-Raza de soare ma numesc {author: {Anonim}, {rcId: {1007}}
+Raza de soare ma numesc {composer: {Anonim}, {rcId: {1007}}
 
 [sequence]
 v1,c,v2,c

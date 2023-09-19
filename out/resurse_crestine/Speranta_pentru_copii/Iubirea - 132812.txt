@@ -1,5 +1,5 @@
 [title]
-Iubirea {author: {Speranța pentru copii}, {rcId: {132812}}
+Iubirea {composer: {Speranța pentru copii}, {rcId: {132812}}
 
 [sequence]
 v1,c,v2,c,v3,c

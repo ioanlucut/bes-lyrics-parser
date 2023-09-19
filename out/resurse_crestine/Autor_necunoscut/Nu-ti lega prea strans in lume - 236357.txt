@@ -1,5 +1,5 @@
 [title]
-Nu-ti lega prea strans in lume {author: {Anonim}, {rcId: {236357}}
+Nu-ti lega prea strans in lume {composer: {Anonim}, {rcId: {236357}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

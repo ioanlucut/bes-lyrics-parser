@@ -1,5 +1,5 @@
 [title]
-Simt cum reversi {author: {Anonim}, {rcId: {211858}}
+Simt cum reversi {composer: {Anonim}, {rcId: {211858}}
 
 [sequence]
 v1,c,v2,b,c

@@ -1,5 +1,5 @@
 [title]
-Te-ai aplecat la cruce ? {author: {Anonim}, {rcId: {64239}}
+Te-ai aplecat la cruce ? {composer: {Anonim}, {rcId: {64239}}
 
 [sequence]
 v1,v2,v3

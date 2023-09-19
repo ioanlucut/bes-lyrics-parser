@@ -1,5 +1,5 @@
 [title]
-Pastor iubit {author: {Anonim}, {rcId: {2776}}
+Pastor iubit {composer: {Anonim}, {rcId: {2776}}
 
 [sequence]
 v1,c

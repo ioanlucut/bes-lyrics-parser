@@ -1,5 +1,5 @@
 [title]
-Emanuel {author: {Anonim}, {rcId: {1449}}
+Emanuel {composer: {Anonim}, {rcId: {1449}}
 
 [sequence]
 v1,v2,v3,v4

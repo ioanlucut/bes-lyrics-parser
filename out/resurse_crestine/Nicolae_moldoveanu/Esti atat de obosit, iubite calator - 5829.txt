@@ -1,5 +1,5 @@
 [title]
-Esti atat de obosit iubite calator {author: {Nicolae Moldoveanu}, {rcId: {5829}}
+Esti atat de obosit iubite calator {composer: {Nicolae Moldoveanu}, {rcId: {5829}}
 
 [sequence]
 v1,v2,v3

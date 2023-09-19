@@ -1,5 +1,5 @@
 [title]
-Bucurosi sa veniti (oh come let us sing) {author: {Robert E. Mason, Traducere RO}, {rcId: {65069}}
+Bucurosi sa veniti (oh come let us sing) {composer: {Robert E. Mason, Traducere RO}, {rcId: {65069}}
 
 [sequence]
 v1,c

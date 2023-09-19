@@ -1,5 +1,5 @@
 [title]
-Ce sunt eu ce sunt eu? {author: {Puiu Chibici}, {rcId: {2156}}
+Ce sunt eu ce sunt eu? {composer: {Puiu Chibici}, {rcId: {2156}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4,v5,c5,e

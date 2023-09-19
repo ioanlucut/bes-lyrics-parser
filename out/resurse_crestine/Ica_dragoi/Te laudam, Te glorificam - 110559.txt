@@ -1,5 +1,5 @@
 [title]
-Te laudam te glorificam {author: {Ica Dragoi}, {rcId: {110559}}
+Te laudam te glorificam {composer: {Ica Dragoi}, {rcId: {110559}}
 
 [sequence]
 v1,c,v2,c,v3,c

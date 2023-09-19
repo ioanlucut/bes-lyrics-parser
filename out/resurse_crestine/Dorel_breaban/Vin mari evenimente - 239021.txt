@@ -1,5 +1,5 @@
 [title]
-Vin mari evenimente {author: {Dorel Breabăn}, {rcId: {239021}}
+Vin mari evenimente {composer: {Dorel Breabăn}, {rcId: {239021}}
 
 [sequence]
 v1,c,v2,c,v3,c2

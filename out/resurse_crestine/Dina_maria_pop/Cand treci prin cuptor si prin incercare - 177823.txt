@@ -1,5 +1,5 @@
 [title]
-Cand treci prin cuptor si prin incercare {author: {Dina Maria Pop}, {rcId: {177823}}
+Cand treci prin cuptor si prin incercare {composer: {Dina Maria Pop}, {rcId: {177823}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

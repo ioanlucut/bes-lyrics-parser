@@ -1,5 +1,5 @@
 [title]
-Ma simt voios si-s fericit {author: {Nicolae Moldoveanu}, {rcId: {5386}}
+Ma simt voios si-s fericit {composer: {Nicolae Moldoveanu}, {rcId: {5386}}
 
 [sequence]
 v1,v2,v3,v4

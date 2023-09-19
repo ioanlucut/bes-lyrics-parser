@@ -1,5 +1,5 @@
 [title]
-De ce se uita pasarica {author: {Nicolae Moldoveanu}, {rcId: {233304}}
+De ce se uita pasarica {composer: {Nicolae Moldoveanu}, {rcId: {233304}}
 
 [sequence]
 v1,v2,v3

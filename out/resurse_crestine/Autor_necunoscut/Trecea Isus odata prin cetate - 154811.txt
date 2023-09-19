@@ -1,5 +1,5 @@
 [title]
-Trecea isus odata prin cetate {author: {Anonim}, {rcId: {154811}}
+Trecea isus odata prin cetate {composer: {Anonim}, {rcId: {154811}}
 
 [sequence]
 v1,c,v2,c,v3,c

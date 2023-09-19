@@ -1,5 +1,5 @@
 [title]
-Lumina vietii mele esti isuse {author: {Anonim}, {rcId: {193914}}
+Lumina vietii mele esti isuse {composer: {Anonim}, {rcId: {193914}}
 
 [sequence]
 v1,c,v2,c,v3,c

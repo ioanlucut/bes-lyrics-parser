@@ -1,5 +1,5 @@
 [title]
-In prezenta ta o doamnee pace {author: {Laud}, {rcId: {2814}}
+In prezenta ta o doamnee pace {composer: {Laud}, {rcId: {2814}}
 
 [sequence]
 v1,c,v2,c

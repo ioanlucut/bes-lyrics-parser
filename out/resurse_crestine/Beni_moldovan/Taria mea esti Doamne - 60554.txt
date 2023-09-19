@@ -1,5 +1,5 @@
 [title]
-Taria mea esti doamne {author: {Beni Moldovan}, {rcId: {60554}}
+Taria mea esti doamne {composer: {Beni Moldovan}, {rcId: {60554}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Toata viata doamne numai pentru tine {author: {Anonim}, {rcId: {227298}}
+Toata viata doamne numai pentru tine {composer: {Anonim}, {rcId: {227298}}
 
 [sequence]
 v1,v2,v3,v4

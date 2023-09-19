@@ -1,5 +1,5 @@
 [title]
-Nu te-doi ci crede oricat de grea-i durerea {author: {Anonim}, {rcId: {72709}}
+Nu te-doi ci crede oricat de grea-i durerea {composer: {Anonim}, {rcId: {72709}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

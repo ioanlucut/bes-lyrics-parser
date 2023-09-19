@@ -1,5 +1,5 @@
 [title]
-Ca enoh si ca ilie {author: {Nicolae Moldoveanu}, {rcId: {5719}}
+Ca enoh si ca ilie {composer: {Nicolae Moldoveanu}, {rcId: {5719}}
 
 [sequence]
 c,v1,v2,v3,v4

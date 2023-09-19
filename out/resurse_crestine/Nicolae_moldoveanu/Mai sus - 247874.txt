@@ -1,5 +1,5 @@
 [title]
-Mai sus {author: {Nicolae Moldoveanu}, {rcId: {247874}}
+Mai sus {composer: {Nicolae Moldoveanu}, {rcId: {247874}}
 
 [sequence]
 v1,v2,v3

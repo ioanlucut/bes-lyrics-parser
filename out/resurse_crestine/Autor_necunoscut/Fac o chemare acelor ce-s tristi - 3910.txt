@@ -1,5 +1,5 @@
 [title]
-Fac o chemare acelor ce-s tristi {author: {Anonim}, {rcId: {3910}}
+Fac o chemare acelor ce-s tristi {composer: {Anonim}, {rcId: {3910}}
 
 [sequence]
 v1,c,v2,c,v3,c

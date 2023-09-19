@@ -1,5 +1,5 @@
 [title]
-Laudati pe domnul {author: {Nicolae Moldoveanu}, {rcId: {5616}}
+Laudati pe domnul {composer: {Nicolae Moldoveanu}, {rcId: {5616}}
 
 [sequence]
 v1,v2,v3,v4,v5

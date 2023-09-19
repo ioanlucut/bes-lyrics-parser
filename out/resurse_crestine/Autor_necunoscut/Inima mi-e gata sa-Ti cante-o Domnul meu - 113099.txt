@@ -1,5 +1,5 @@
 [title]
-Inima mi-e gata sa-ti cante-o domnul meu {author: {Anonim}, {rcId: {113099}}
+Inima mi-e gata sa-ti cante-o domnul meu {composer: {Anonim}, {rcId: {113099}}
 
 [sequence]
 v1,c,v2,c,v3,c

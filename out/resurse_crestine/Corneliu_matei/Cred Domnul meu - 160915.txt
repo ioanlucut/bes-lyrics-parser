@@ -1,5 +1,5 @@
 [title]
-Cred domnul meu {author: {Corneliu Matei}, {rcId: {160915}}
+Cred domnul meu {composer: {Corneliu Matei}, {rcId: {160915}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Suntem prunci acum {author: {Nicolae Moldoveanu}, {rcId: {228224}}
+Suntem prunci acum {composer: {Nicolae Moldoveanu}, {rcId: {228224}}
 
 [sequence]
 v1,v2,v3,v3

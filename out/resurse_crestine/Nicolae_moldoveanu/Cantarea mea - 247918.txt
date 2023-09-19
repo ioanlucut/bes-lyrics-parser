@@ -1,5 +1,5 @@
 [title]
-Cantarea mea {author: {Nicolae Moldoveanu}, {rcId: {247918}}
+Cantarea mea {composer: {Nicolae Moldoveanu}, {rcId: {247918}}
 
 [sequence]
 v1,v2,v3

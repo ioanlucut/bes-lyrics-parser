@@ -1,5 +1,5 @@
 [title]
-Frunza frunza tremuranda {author: {Anonim}, {rcId: {212754}}
+Frunza frunza tremuranda {composer: {Anonim}, {rcId: {212754}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

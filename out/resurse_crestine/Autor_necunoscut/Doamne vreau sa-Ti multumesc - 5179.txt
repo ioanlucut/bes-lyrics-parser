@@ -1,5 +1,5 @@
 [title]
-Doamne vreau sa-ti multumesc {author: {Anonim}, {rcId: {5179}}
+Doamne vreau sa-ti multumesc {composer: {Anonim}, {rcId: {5179}}
 
 [sequence]
 v1,c

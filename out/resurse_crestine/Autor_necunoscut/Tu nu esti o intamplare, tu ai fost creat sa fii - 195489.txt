@@ -1,5 +1,5 @@
 [title]
-Tu nu esti o intamplare tu ai fost creat sa fii {author: {Anonim}, {rcId: {195489}}
+Tu nu esti o intamplare tu ai fost creat sa fii {composer: {Anonim}, {rcId: {195489}}
 
 [sequence]
 v1,c,v2,c,v3,c

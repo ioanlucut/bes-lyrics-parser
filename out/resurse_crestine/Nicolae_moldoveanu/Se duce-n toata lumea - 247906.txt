@@ -1,5 +1,5 @@
 [title]
-Se duce-n toata lumea {author: {Nicolae Moldoveanu}, {rcId: {247906}}
+Se duce-n toata lumea {composer: {Nicolae Moldoveanu}, {rcId: {247906}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

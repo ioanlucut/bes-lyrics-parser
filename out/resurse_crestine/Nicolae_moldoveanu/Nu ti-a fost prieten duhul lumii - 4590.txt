@@ -1,5 +1,5 @@
 [title]
-Nu ti-a fost prieten duhul lumii {author: {Nicolae Moldoveanu}, {rcId: {4590}}
+Nu ti-a fost prieten duhul lumii {composer: {Nicolae Moldoveanu}, {rcId: {4590}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

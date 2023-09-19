@@ -1,5 +1,5 @@
 [title]
-Un dar ceresc in isus am aflat {author: {Collingsworth Family, Traducere RO}, {rcId: {99313}}
+Un dar ceresc in isus am aflat {composer: {Collingsworth Family, Traducere RO}, {rcId: {99313}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Ca bucuria magilor (as with gladness men of old) {author: {William C. Dix, Traducere RO}, {rcId: {116609}}
+Ca bucuria magilor (as with gladness men of old) {composer: {William C. Dix, Traducere RO}, {rcId: {116609}}
 
 [sequence]
 v1,v2,v3,v4

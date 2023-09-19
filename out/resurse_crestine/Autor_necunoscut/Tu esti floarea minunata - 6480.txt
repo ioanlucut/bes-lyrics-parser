@@ -1,5 +1,5 @@
 [title]
-Tu esti floarea minunat~a {author: {Anonim}, {rcId: {6480}}
+Tu esti floarea minunat~a {composer: {Anonim}, {rcId: {6480}}
 
 [sequence]
 v1,v2,v3,v4

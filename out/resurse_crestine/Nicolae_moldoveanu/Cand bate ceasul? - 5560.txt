@@ -1,5 +1,5 @@
 [title]
-Cand bate ceasul? {author: {Nicolae Moldoveanu}, {rcId: {5560}}
+Cand bate ceasul? {composer: {Nicolae Moldoveanu}, {rcId: {5560}}
 
 [sequence]
 v1,v2,v3

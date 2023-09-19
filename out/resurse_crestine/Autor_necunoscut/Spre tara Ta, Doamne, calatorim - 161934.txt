@@ -1,5 +1,5 @@
 [title]
-Spre tara ta doamne calatorim {author: {Anonim}, {rcId: {161934}}
+Spre tara ta doamne calatorim {composer: {Anonim}, {rcId: {161934}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

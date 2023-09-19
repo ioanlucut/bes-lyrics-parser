@@ -1,5 +1,5 @@
 [title]
-Orice glas purtat de vanturi {author: {Avalon}, {rcId: {145967}}
+Orice glas purtat de vanturi {composer: {Avalon}, {rcId: {145967}}
 
 [sequence]
 v1,c,v2,c

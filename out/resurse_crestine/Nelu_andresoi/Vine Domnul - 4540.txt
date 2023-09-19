@@ -1,5 +1,5 @@
 [title]
-Vine domnul {author: {Nelu Andreșoi}, {rcId: {4540}}
+Vine domnul {composer: {Nelu Andreșoi}, {rcId: {4540}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

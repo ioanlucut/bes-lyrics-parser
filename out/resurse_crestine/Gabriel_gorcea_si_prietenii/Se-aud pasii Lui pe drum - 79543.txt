@@ -1,5 +1,5 @@
 [title]
-Se-aud pasii lui pe drum {author: {Gabriel Gorcea și prietenii}, {rcId: {79543}}
+Se-aud pasii lui pe drum {composer: {Gabriel Gorcea și prietenii}, {rcId: {79543}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

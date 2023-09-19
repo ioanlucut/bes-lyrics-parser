@@ -1,5 +1,5 @@
 [title]
-Traim momente sfinte de dulce partasie {author: {Nicu Wagner}, {rcId: {138602}}
+Traim momente sfinte de dulce partasie {composer: {Nicu Wagner}, {rcId: {138602}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

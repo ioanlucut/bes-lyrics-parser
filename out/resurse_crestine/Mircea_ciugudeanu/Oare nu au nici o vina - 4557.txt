@@ -1,5 +1,5 @@
 [title]
-Oare nu au nici o vina {author: {Mircea Ciugudeanu}, {rcId: {4557}}
+Oare nu au nici o vina {composer: {Mircea Ciugudeanu}, {rcId: {4557}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c2

@@ -1,5 +1,5 @@
 [title]
-De la rasarit la apus {author: {Ionică Stoica}, {rcId: {198755}}
+De la rasarit la apus {composer: {Ionică Stoica}, {rcId: {198755}}
 
 [sequence]
 v1,c,v2,c

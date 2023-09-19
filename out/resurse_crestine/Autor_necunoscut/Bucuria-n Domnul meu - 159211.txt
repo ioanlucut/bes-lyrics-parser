@@ -1,5 +1,5 @@
 [title]
-Bucuria-n domnul meu {author: {Anonim}, {rcId: {159211}}
+Bucuria-n domnul meu {composer: {Anonim}, {rcId: {159211}}
 
 [sequence]
 v1,v2,v3

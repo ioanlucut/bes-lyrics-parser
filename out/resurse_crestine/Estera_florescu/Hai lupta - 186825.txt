@@ -1,5 +1,5 @@
 [title]
-Hai lupta {author: {Estera Florescu}, {rcId: {186825}}
+Hai lupta {composer: {Estera Florescu}, {rcId: {186825}}
 
 [sequence]
 v1,c,v2,c

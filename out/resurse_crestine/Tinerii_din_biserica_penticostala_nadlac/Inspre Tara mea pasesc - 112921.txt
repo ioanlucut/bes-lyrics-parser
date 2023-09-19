@@ -1,5 +1,5 @@
 [title]
-Inspre tara mea pasesc {author: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {112921}}
+Inspre tara mea pasesc {composer: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {112921}}
 
 [sequence]
 v1,c,v2,c

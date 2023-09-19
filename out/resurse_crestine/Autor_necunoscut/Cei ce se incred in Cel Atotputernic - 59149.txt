@@ -1,5 +1,5 @@
 [title]
-Cei ce se incred in cel atotputernic {author: {Anonim}, {rcId: {59149}}
+Cei ce se incred in cel atotputernic {composer: {Anonim}, {rcId: {59149}}
 
 [sequence]
 v1,c,v2,c,v3,c

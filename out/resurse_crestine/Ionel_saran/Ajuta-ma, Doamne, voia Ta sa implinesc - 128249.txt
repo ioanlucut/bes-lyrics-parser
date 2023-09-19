@@ -1,5 +1,5 @@
 [title]
-Ajuta-ma doamne voia ta sa implinesc {author: {Ionel Saran}, {rcId: {128249}}
+Ajuta-ma doamne voia ta sa implinesc {composer: {Ionel Saran}, {rcId: {128249}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Isus o ce nume frumos {author: {Anonim}, {rcId: {65814}}
+Isus o ce nume frumos {composer: {Anonim}, {rcId: {65814}}
 
 [sequence]
 v1,v2,v3,v4

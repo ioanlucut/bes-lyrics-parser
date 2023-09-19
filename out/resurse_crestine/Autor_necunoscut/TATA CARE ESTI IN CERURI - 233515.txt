@@ -1,5 +1,5 @@
 [title]
-Tata care esti in ceruri {author: {Autor necunoscut}, {rcId: {233515}}
+Tata care esti in ceruri {composer: {Autor necunoscut}, {rcId: {233515}}
 
 [sequence]
 v1,v2,v3

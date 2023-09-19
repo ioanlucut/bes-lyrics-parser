@@ -1,5 +1,5 @@
 [title]
-Am camin mai sus de nori {author: {Anonim}, {rcId: {2110}}
+Am camin mai sus de nori {composer: {Anonim}, {rcId: {2110}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

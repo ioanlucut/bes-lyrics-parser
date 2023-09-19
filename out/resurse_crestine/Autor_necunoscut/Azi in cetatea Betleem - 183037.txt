@@ -1,5 +1,5 @@
 [title]
-Azi in cetatea betleem {author: {Necunoscut}, {rcId: {183037}}
+Azi in cetatea betleem {composer: {Necunoscut}, {rcId: {183037}}
 
 [sequence]
 v1,c,v2,c,v3,c

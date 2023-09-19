@@ -1,5 +1,5 @@
 [title]
-Cum poti s-aprinzi un foc (pass it on / it only takes a spark) {author: {Kurt Kaiser, Traducere RO}, {rcId: {104031}}
+Cum poti s-aprinzi un foc (pass it on / it only takes a spark) {composer: {Kurt Kaiser, Traducere RO}, {rcId: {104031}}
 
 [sequence]
 v1,v2,v3,s

@@ -1,5 +1,5 @@
 [title]
-Multumim doamne isuse {author: {Leleu Niculae}, {rcId: {75233}}
+Multumim doamne isuse {composer: {Leleu Niculae}, {rcId: {75233}}
 
 [sequence]
 v1,v2,v3,v4

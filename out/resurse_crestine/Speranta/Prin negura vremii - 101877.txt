@@ -1,5 +1,5 @@
 [title]
-Prin negura vremii {author: {Speranța}, {rcId: {101877}}
+Prin negura vremii {composer: {Speranța}, {rcId: {101877}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

@@ -1,5 +1,5 @@
 [title]
-Vreau sa lupt {author: {Darius, Dennis}, {rcId: {167092}}
+Vreau sa lupt {composer: {Darius, Dennis}, {rcId: {167092}}
 
 [sequence]
 v1,v2,v3,e

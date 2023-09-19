@@ -1,5 +1,5 @@
 [title]
-Ai murit pe cruce {author: {Fratii Pit}, {rcId: {74596}}
+Ai murit pe cruce {composer: {Fratii Pit}, {rcId: {74596}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Esti necuprins si sfant {author: {Emima Toader}, {rcId: {240809}}
+Esti necuprins si sfant {composer: {Emima Toader}, {rcId: {240809}}
 
 [sequence]
 v1,c,v2,c,v3,c

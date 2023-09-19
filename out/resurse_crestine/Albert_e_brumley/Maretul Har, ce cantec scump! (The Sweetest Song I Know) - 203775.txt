@@ -1,5 +1,5 @@
 [title]
-Maretul har ce cantec scump (the sweetest song i know) {author: {Albert E. Brumley, Traducere RO}, {rcId: {203775}}
+Maretul har ce cantec scump (the sweetest song i know) {composer: {Albert E. Brumley, Traducere RO}, {rcId: {203775}}
 
 [sequence]
 v1,c,v2,c,v3,c,s,c

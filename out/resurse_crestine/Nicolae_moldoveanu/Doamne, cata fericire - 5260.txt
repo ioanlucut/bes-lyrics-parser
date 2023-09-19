@@ -1,5 +1,5 @@
 [title]
-Doamne cata fericire {author: {Nicolae Moldoveanu}, {rcId: {5260}}
+Doamne cata fericire {composer: {Nicolae Moldoveanu}, {rcId: {5260}}
 
 [sequence]
 v1,c,v2,c,v3,c

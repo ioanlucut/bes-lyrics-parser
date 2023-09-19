@@ -1,5 +1,5 @@
 [title]
-Puterile-mi slabesc isuse {author: {Nicolae Zamfir}, {rcId: {212371}}
+Puterile-mi slabesc isuse {composer: {Nicolae Zamfir}, {rcId: {212371}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

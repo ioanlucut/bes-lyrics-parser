@@ -1,5 +1,5 @@
 [title]
-Copilas frumos si dulce (sch"onstes kindlein) {author: {Christkinds Wiegenlied, Traducere RO}, {rcId: {221259}}
+Copilas frumos si dulce (sch"onstes kindlein) {composer: {Christkinds Wiegenlied, Traducere RO}, {rcId: {221259}}
 
 [sequence]
 v1,v2,v3

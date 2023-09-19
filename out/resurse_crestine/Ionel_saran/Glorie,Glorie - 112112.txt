@@ -1,5 +1,5 @@
 [title]
-Glorieglorie {author: {Ionel Saran}, {rcId: {112112}}
+Glorieglorie {composer: {Ionel Saran}, {rcId: {112112}}
 
 [sequence]
 v1,c,v2,c,v3,c

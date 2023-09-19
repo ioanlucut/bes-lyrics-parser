@@ -1,5 +1,5 @@
 [title]
-La marea rosie in vale {author: {Anonim}, {rcId: {74866}}
+La marea rosie in vale {composer: {Anonim}, {rcId: {74866}}
 
 [sequence]
 v1,v2,v3,v4,v5

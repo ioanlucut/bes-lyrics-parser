@@ -1,5 +1,5 @@
 [title]
-Chiar de-as vorbi in limbi {author: {G.Brattle}, {rcId: {1783}}
+Chiar de-as vorbi in limbi {composer: {G.Brattle}, {rcId: {1783}}
 
 [sequence]
 v1,v2,v3,v4,v5

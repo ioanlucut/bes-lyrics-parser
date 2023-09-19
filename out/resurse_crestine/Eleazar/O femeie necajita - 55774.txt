@@ -1,5 +1,5 @@
 [title]
-O femeie necajita {author: {Eleazar}, {rcId: {55774}}
+O femeie necajita {composer: {Eleazar}, {rcId: {55774}}
 
 [sequence]
 v1,c,v2,c,v3,c

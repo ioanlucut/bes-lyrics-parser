@@ -1,5 +1,5 @@
 [title]
-Calator sunt aici pe pamant {author: {Anonim}, {rcId: {179488}}
+Calator sunt aici pe pamant {composer: {Anonim}, {rcId: {179488}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Cand dimineata-n zori {author: {Alexandru Groza}, {rcId: {185749}}
+Cand dimineata-n zori {composer: {Alexandru Groza}, {rcId: {185749}}
 
 [sequence]
 v1,b,c,v2,c

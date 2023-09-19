@@ -1,5 +1,5 @@
 [title]
-M-ai privit prin ani prin noapte {author: {Anonim}, {rcId: {69008}}
+M-ai privit prin ani prin noapte {composer: {Anonim}, {rcId: {69008}}
 
 [sequence]
 v1,v2,v3

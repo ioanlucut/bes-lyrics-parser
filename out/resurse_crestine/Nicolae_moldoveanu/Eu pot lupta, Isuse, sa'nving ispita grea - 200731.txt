@@ -1,5 +1,5 @@
 [title]
-Eu pot lupta isuse sa nving ispita grea {author: {Nicolae Moldoveanu}, {rcId: {200731}}
+Eu pot lupta isuse sa nving ispita grea {composer: {Nicolae Moldoveanu}, {rcId: {200731}}
 
 [sequence]
 v1,v2,v3,e

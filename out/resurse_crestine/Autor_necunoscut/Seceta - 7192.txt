@@ -1,5 +1,5 @@
 [title]
-Seceta {author: {Anonim}, {rcId: {7192}}
+Seceta {composer: {Anonim}, {rcId: {7192}}
 
 [sequence]
 v1,c,v2,c,v3,c

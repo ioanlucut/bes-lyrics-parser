@@ -1,5 +1,5 @@
 [title]
-Te stiu {author: {Adi Gliga}, {rcId: {1390}}
+Te stiu {composer: {Adi Gliga}, {rcId: {1390}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c

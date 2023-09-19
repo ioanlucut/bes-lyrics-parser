@@ -1,5 +1,5 @@
 [title]
-Ne stingem doamne asteptand {author: {Necunoscut}, {rcId: {212175}}
+Ne stingem doamne asteptand {composer: {Necunoscut}, {rcId: {212175}}
 
 [sequence]
 v1,v2,v3,v4,v5

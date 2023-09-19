@@ -1,5 +1,5 @@
 [title]
-Chemarea sfanta (intoarce-te si spune-i iarta-ma) {author: {Ovidiu Liteanu}, {rcId: {187415}}
+Chemarea sfanta (intoarce-te si spune-i iarta-ma) {composer: {Ovidiu Liteanu}, {rcId: {187415}}
 
 [sequence]
 v1,c,v2,c,v3,c

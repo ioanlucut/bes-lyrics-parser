@@ -1,5 +1,5 @@
 [title]
-Prin jertfire-asupra mortii-a triumfat (invierea si viata) {author: {Grup Triumf}, {rcId: {247934}}
+Prin jertfire-asupra mortii-a triumfat (invierea si viata) {composer: {Grup Triumf}, {rcId: {247934}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-La pasuni linga ape orisiunde mereu {author: {Anonim}, {rcId: {74376}}
+La pasuni linga ape orisiunde mereu {composer: {Anonim}, {rcId: {74376}}
 
 [sequence]
 v1,c

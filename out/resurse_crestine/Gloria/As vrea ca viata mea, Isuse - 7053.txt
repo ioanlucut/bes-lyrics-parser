@@ -1,5 +1,5 @@
 [title]
-As vrea ca viata mea isuse {author: {gloria}, {rcId: {7053}}
+As vrea ca viata mea isuse {composer: {gloria}, {rcId: {7053}}
 
 [sequence]
 v1,b,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Pace adanca {author: {Nicolae Moldoveanu}, {rcId: {186409}}
+Pace adanca {composer: {Nicolae Moldoveanu}, {rcId: {186409}}
 
 [sequence]
 v1,c,v2,c,v3,c

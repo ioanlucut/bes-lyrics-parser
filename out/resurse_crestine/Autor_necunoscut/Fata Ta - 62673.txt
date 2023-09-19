@@ -1,5 +1,5 @@
 [title]
-Fata ta {author: {Anonim}, {rcId: {62673}}
+Fata ta {composer: {Anonim}, {rcId: {62673}}
 
 [sequence]
 c

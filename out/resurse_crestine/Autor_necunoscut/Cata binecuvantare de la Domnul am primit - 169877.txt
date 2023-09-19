@@ -1,5 +1,5 @@
 [title]
-Cata binecuvantare de la domnul am primit {author: {Anonim}, {rcId: {169877}}
+Cata binecuvantare de la domnul am primit {composer: {Anonim}, {rcId: {169877}}
 
 [sequence]
 v1,c,v2,c,v3,c

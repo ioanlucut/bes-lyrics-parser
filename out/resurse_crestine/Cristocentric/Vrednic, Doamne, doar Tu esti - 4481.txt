@@ -1,5 +1,5 @@
 [title]
-Vrednic doamne doar tu esti {author: {CristoCentric}, {rcId: {4481}}
+Vrednic doamne doar tu esti {composer: {CristoCentric}, {rcId: {4481}}
 
 [sequence]
 v1,c,v2,c

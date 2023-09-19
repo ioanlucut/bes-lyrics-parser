@@ -1,5 +1,5 @@
 [title]
-Chiar in ora diminetii {author: {Nicolae Moldoveanu}, {rcId: {5326}}
+Chiar in ora diminetii {composer: {Nicolae Moldoveanu}, {rcId: {5326}}
 
 [sequence]
 v1,c,v2,c,v3,c

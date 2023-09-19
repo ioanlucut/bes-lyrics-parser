@@ -1,5 +1,5 @@
 [title]
-Ca zacheu s~a-l vad~a mai bine {author: {Anonim}, {rcId: {6316}}
+Ca zacheu s~a-l vad~a mai bine {composer: {Anonim}, {rcId: {6316}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c

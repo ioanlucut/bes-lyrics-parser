@@ -1,5 +1,5 @@
 [title]
-Prin multe tari frumoase in viata am trecut {author: {Nicolae Moldoveanu}, {rcId: {5871}}
+Prin multe tari frumoase in viata am trecut {composer: {Nicolae Moldoveanu}, {rcId: {5871}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

@@ -1,5 +1,5 @@
 [title]
-Calatoresc prin lume {author: {Speranța}, {rcId: {59191}}
+Calatoresc prin lume {composer: {Speranța}, {rcId: {59191}}
 
 [sequence]
 v1,c,v2,c,v3,c

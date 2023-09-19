@@ -1,5 +1,5 @@
 [title]
-Tot ce am pe-acest pamant {author: {Anonim}, {rcId: {5187}}
+Tot ce am pe-acest pamant {composer: {Anonim}, {rcId: {5187}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Dumnezeu incomparabil {author: {Lorena Castellanos, Fernando Ramos, Fredy Gomez}, {rcId: {220018}}
+Dumnezeu incomparabil {composer: {Lorena Castellanos, Fernando Ramos, Fredy Gomez}, {rcId: {220018}}
 
 [sequence]
 v1,c

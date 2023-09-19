@@ -1,5 +1,5 @@
 [title]
-Tronul ai lasat (room for thee) {author: {Ira D. Sankey, Traducere RO}, {rcId: {155833}}
+Tronul ai lasat (room for thee) {composer: {Ira D. Sankey, Traducere RO}, {rcId: {155833}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

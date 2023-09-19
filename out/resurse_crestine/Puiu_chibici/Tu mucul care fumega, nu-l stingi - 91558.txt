@@ -1,5 +1,5 @@
 [title]
-Tu mucul care fumega nu-l stingi {author: {Puiu Chibici}, {rcId: {91558}}
+Tu mucul care fumega nu-l stingi {composer: {Puiu Chibici}, {rcId: {91558}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

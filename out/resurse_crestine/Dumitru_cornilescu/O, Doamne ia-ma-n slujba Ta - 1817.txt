@@ -1,5 +1,5 @@
 [title]
-O doamne ia-ma-n slujba ta {author: {Dumitru Cornilescu}, {rcId: {1817}}
+O doamne ia-ma-n slujba ta {composer: {Dumitru Cornilescu}, {rcId: {1817}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

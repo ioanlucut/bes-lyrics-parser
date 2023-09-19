@@ -1,5 +1,5 @@
 [title]
-Alergati si urcati {author: {Anonim}, {rcId: {1159}}
+Alergati si urcati {composer: {Anonim}, {rcId: {1159}}
 
 [sequence]
 v1,v2,v3

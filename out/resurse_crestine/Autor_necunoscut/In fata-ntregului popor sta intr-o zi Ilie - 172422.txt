@@ -1,5 +1,5 @@
 [title]
-In fata-ntregului popor sta intr-o zi ilie {author: {Anonim}, {rcId: {172422}}
+In fata-ntregului popor sta intr-o zi ilie {composer: {Anonim}, {rcId: {172422}}
 
 [sequence]
 v1,c,v2,c2,e

@@ -1,5 +1,5 @@
 [title]
-Ori de cate ori {author: {Not an idol}, {rcId: {144681}}
+Ori de cate ori {composer: {Not an idol}, {rcId: {144681}}
 
 [sequence]
 v1,b,c,v2,b,c

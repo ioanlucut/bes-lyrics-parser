@@ -1,5 +1,5 @@
 [title]
-O stea din alta lume {author: {Otto Pascal}, {rcId: {101437}}
+O stea din alta lume {composer: {Otto Pascal}, {rcId: {101437}}
 
 [sequence]
 v1,c,v2,c

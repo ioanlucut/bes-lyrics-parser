@@ -1,5 +1,5 @@
 [title]
-E noapte {author: {Nicolae Moldoveanu}, {rcId: {242631}}
+E noapte {composer: {Nicolae Moldoveanu}, {rcId: {242631}}
 
 [sequence]
 v1,v2,v3

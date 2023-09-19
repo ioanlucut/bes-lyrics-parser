@@ -1,5 +1,5 @@
 [title]
-Imi indrept glasul spre tine {author: {Nicolae Moldoveanu}, {rcId: {5342}}
+Imi indrept glasul spre tine {composer: {Nicolae Moldoveanu}, {rcId: {5342}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Isuse isuse primeste-ma la tine {author: {Anonim}, {rcId: {1661}}
+Isuse isuse primeste-ma la tine {composer: {Anonim}, {rcId: {1661}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

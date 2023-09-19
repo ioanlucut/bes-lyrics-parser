@@ -1,5 +1,5 @@
 [title]
-Evanghelia {author: {Ovidiu Liteanu}, {rcId: {69278}}
+Evanghelia {composer: {Ovidiu Liteanu}, {rcId: {69278}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Ratacind in lumea de pacat {author: {Fratii Holbatu}, {rcId: {55637}}
+Ratacind in lumea de pacat {composer: {Fratii Holbatu}, {rcId: {55637}}
 
 [sequence]
 v1,c,v2,c

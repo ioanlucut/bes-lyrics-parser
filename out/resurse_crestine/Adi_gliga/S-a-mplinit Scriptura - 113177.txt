@@ -1,5 +1,5 @@
 [title]
-S-a-mplinit scriptura {author: {Adi Gliga}, {rcId: {113177}}
+S-a-mplinit scriptura {composer: {Adi Gliga}, {rcId: {113177}}
 
 [sequence]
 v1,v2,v3

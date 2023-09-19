@@ -1,5 +1,5 @@
 [title]
-Vino la el {author: {Speranța}, {rcId: {71616}}
+Vino la el {composer: {Speranța}, {rcId: {71616}}
 
 [sequence]
 v1,b,c,v2,c,v3,c

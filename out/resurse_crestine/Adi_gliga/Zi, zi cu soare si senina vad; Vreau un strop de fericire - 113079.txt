@@ -1,5 +1,5 @@
 [title]
-Zi zi cu soare si senina vad; vreau un strop de fericire {author: {Adi Gliga}, {rcId: {113079}}
+Zi zi cu soare si senina vad; vreau un strop de fericire {composer: {Adi Gliga}, {rcId: {113079}}
 
 [sequence]
 v1,v2,v1,v3,e

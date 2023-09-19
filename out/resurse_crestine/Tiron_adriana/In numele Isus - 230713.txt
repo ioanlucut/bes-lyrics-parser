@@ -1,5 +1,5 @@
 [title]
-In numele isus {author: {Tiron Adriana}, {rcId: {230713}}
+In numele isus {composer: {Tiron Adriana}, {rcId: {230713}}
 
 [sequence]
 v1,c,v2,c,e

@@ -1,5 +1,5 @@
 [title]
-Nu-i nimic ca tine {author: {Anonim}, {rcId: {7090}}
+Nu-i nimic ca tine {composer: {Anonim}, {rcId: {7090}}
 
 [sequence]
 v1,c

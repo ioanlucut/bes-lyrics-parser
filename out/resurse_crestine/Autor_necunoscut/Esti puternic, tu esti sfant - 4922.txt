@@ -1,5 +1,5 @@
 [title]
-Esti puternic tu esti sfant {author: {Anonim}, {rcId: {4922}}
+Esti puternic tu esti sfant {composer: {Anonim}, {rcId: {4922}}
 
 [sequence]
 v1,c

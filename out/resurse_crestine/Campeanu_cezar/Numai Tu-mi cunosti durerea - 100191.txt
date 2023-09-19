@@ -1,5 +1,5 @@
 [title]
-Numai tu-mi cunosti durerea {author: {Câmpeanu Cezar}, {rcId: {100191}}
+Numai tu-mi cunosti durerea {composer: {Câmpeanu Cezar}, {rcId: {100191}}
 
 [sequence]
 v1,v2,v3,v4

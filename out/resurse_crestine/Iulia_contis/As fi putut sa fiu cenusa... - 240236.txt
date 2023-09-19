@@ -1,5 +1,5 @@
 [title]
-As fi putut sa fiu cenusa {author: {Iulia Contis}, {rcId: {240236}}
+As fi putut sa fiu cenusa {composer: {Iulia Contis}, {rcId: {240236}}
 
 [sequence]
 v1

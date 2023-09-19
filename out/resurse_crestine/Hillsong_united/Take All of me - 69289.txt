@@ -1,5 +1,5 @@
 [title]
-Take all of me {author: {Hillsong United, Traducere RO}, {rcId: {69289}}
+Take all of me {composer: {Hillsong United, Traducere RO}, {rcId: {69289}}
 
 [sequence]
 v1,b,c,v2,c,v3,c

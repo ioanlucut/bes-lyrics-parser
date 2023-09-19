@@ -1,5 +1,5 @@
 [title]
-Eu te iubesc glasul mi-l inalt {author: {Anonim}, {rcId: {4926}}
+Eu te iubesc glasul mi-l inalt {composer: {Anonim}, {rcId: {4926}}
 
 [sequence]
 v1

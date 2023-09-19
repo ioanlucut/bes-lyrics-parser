@@ -1,5 +1,5 @@
 [title]
-Ai mila {author: {Adriana Stoica}, {rcId: {110063}}
+Ai mila {composer: {Adriana Stoica}, {rcId: {110063}}
 
 [sequence]
 v1,c,v2,c

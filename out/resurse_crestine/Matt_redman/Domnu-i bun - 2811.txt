@@ -1,5 +1,5 @@
 [title]
-Domnu-i bun {author: {Matt Redman}, {rcId: {2811}}
+Domnu-i bun {composer: {Matt Redman}, {rcId: {2811}}
 
 [sequence]
 v1,c

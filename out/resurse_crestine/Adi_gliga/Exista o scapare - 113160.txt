@@ -1,5 +1,5 @@
 [title]
-Exista o scapare {author: {Adi Gliga}, {rcId: {113160}}
+Exista o scapare {composer: {Adi Gliga}, {rcId: {113160}}
 
 [sequence]
 v1,c

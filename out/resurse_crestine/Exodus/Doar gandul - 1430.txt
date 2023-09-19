@@ -1,5 +1,5 @@
 [title]
-Doar gandul {author: {Exodus}, {rcId: {1430}}
+Doar gandul {composer: {Exodus}, {rcId: {1430}}
 
 [sequence]
 v1,v2,v3

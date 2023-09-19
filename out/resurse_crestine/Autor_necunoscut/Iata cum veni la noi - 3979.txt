@@ -1,5 +1,5 @@
 [title]
-Iata cum veni la noi {author: {Anonim}, {rcId: {3979}}
+Iata cum veni la noi {composer: {Anonim}, {rcId: {3979}}
 
 [sequence]
 v1,c,v2,c,e

@@ -1,5 +1,5 @@
 [title]
-Ridica-te {author: {Elena Sufletel}, {rcId: {228502}}
+Ridica-te {composer: {Elena Sufletel}, {rcId: {228502}}
 
 [sequence]
 v1

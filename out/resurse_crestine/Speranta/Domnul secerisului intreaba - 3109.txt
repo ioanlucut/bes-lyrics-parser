@@ -1,5 +1,5 @@
 [title]
-Domnul secerisului intreaba {author: {Speranța}, {rcId: {3109}}
+Domnul secerisului intreaba {composer: {Speranța}, {rcId: {3109}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

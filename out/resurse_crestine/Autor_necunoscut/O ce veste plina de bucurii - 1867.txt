@@ -1,5 +1,5 @@
 [title]
-O ce veste plina de bucurii {author: {Anonim}, {rcId: {1867}}
+O ce veste plina de bucurii {composer: {Anonim}, {rcId: {1867}}
 
 [sequence]
 v1,c,v2,c,v3,c

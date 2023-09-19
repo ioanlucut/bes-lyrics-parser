@@ -1,5 +1,5 @@
 [title]
-Crestine {author: {Beni Moldovan}, {rcId: {60546}}
+Crestine {composer: {Beni Moldovan}, {rcId: {60546}}
 
 [sequence]
 v1,c,v1,c

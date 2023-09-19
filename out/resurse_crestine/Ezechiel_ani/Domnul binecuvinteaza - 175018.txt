@@ -1,5 +1,5 @@
 [title]
-Domnul binecuvinteaza {author: {Ezechiel Ani}, {rcId: {175018}}
+Domnul binecuvinteaza {composer: {Ezechiel Ani}, {rcId: {175018}}
 
 [sequence]
 v1,c,v2,c,v3,c

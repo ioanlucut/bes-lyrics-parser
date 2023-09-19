@@ -1,5 +1,5 @@
 [title]
-In fiecare zi cu-n pas {author: {Nicolae Moldoveanu}, {rcId: {242630}}
+In fiecare zi cu-n pas {composer: {Nicolae Moldoveanu}, {rcId: {242630}}
 
 [sequence]
 v1,v2,v3,v4,v5

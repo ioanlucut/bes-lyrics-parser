@@ -1,5 +1,5 @@
 [title]
-Din vecii nepatrunsi {author: {Nicolae Moldoveanu}, {rcId: {186413}}
+Din vecii nepatrunsi {composer: {Nicolae Moldoveanu}, {rcId: {186413}}
 
 [sequence]
 v1,v2,v3

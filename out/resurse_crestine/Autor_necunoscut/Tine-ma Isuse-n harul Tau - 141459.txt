@@ -1,5 +1,5 @@
 [title]
-Tine-ma isuse-n harul tau {author: {Anonim}, {rcId: {141459}}
+Tine-ma isuse-n harul tau {composer: {Anonim}, {rcId: {141459}}
 
 [sequence]
 v1,v2,v3

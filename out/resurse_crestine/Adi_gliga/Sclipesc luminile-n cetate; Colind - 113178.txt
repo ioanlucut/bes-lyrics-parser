@@ -1,5 +1,5 @@
 [title]
-Sclipesc luminile-n cetate; colind {author: {Adi Gliga}, {rcId: {113178}}
+Sclipesc luminile-n cetate; colind {composer: {Adi Gliga}, {rcId: {113178}}
 
 [sequence]
 v1,v2,v3,v4,v5

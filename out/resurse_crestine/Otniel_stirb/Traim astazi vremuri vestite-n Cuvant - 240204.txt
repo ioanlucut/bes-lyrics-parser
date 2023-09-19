@@ -1,5 +1,5 @@
 [title]
-Traim astazi vremuri vestite-n cuvant {author: {Otniel Stirb}, {rcId: {240204}}
+Traim astazi vremuri vestite-n cuvant {composer: {Otniel Stirb}, {rcId: {240204}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

@@ -1,5 +1,5 @@
 [title]
-Slavit sa fie dumnezeu {author: {Ralph E. Hudson}, {rcId: {1237}}
+Slavit sa fie dumnezeu {composer: {Ralph E. Hudson}, {rcId: {1237}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Har si binecubantari {author: {Nicolae Moldoveanu}, {rcId: {186273}}
+Har si binecubantari {composer: {Nicolae Moldoveanu}, {rcId: {186273}}
 
 [sequence]
 v1,v2,v3,v4

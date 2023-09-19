@@ -1,5 +1,5 @@
 [title]
-Caci eu stiu gandurile {author: {Anonim}, {rcId: {2787}}
+Caci eu stiu gandurile {composer: {Anonim}, {rcId: {2787}}
 
 [sequence]
 v1,c

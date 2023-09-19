@@ -1,5 +1,5 @@
 [title]
-Dragostea golgotei {author: {Dan Damian}, {rcId: {238950}}
+Dragostea golgotei {composer: {Dan Damian}, {rcId: {238950}}
 
 [sequence]
 v1,c,v2,c

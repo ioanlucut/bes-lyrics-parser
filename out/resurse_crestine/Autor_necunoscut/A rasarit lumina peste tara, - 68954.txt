@@ -1,5 +1,5 @@
 [title]
-A rasarit lumina peste tara {author: {Anonim}, {rcId: {68954}}
+A rasarit lumina peste tara {composer: {Anonim}, {rcId: {68954}}
 
 [sequence]
 v1,c,v2,c

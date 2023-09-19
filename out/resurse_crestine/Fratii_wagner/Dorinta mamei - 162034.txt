@@ -1,5 +1,5 @@
 [title]
-Dorinta mamei {author: {Frații Wagner}, {rcId: {162034}}
+Dorinta mamei {composer: {Frații Wagner}, {rcId: {162034}}
 
 [sequence]
 v1,v2,v3,v4,v5

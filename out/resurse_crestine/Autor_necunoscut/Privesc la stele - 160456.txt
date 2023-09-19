@@ -1,5 +1,5 @@
 [title]
-Privesc la stele {author: {Anonim}, {rcId: {160456}}
+Privesc la stele {composer: {Anonim}, {rcId: {160456}}
 
 [sequence]
 v1,c

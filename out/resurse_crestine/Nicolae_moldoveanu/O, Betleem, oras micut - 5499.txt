@@ -1,5 +1,5 @@
 [title]
-O betleem oras micut {author: {Nicolae Moldoveanu}, {rcId: {5499}}
+O betleem oras micut {composer: {Nicolae Moldoveanu}, {rcId: {5499}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-S-a nascut emanuel {author: {Johnny Daraban}, {rcId: {206140}}
+S-a nascut emanuel {composer: {Johnny Daraban}, {rcId: {206140}}
 
 [sequence]
 v1,v2,c,v3,c,e

@@ -1,5 +1,5 @@
 [title]
-Tu n-ai sub soare asemanare - tu esti iubirea mea {author: {Autor necunoscut}, {rcId: {230045}}
+Tu n-ai sub soare asemanare - tu esti iubirea mea {composer: {Autor necunoscut}, {rcId: {230045}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Sus pe stanca mantuirii (is not this the land of beulah?) {author: {William Hunter, Rev. John W. Dadmun, Traducere RO}, {rcId: {210170}}
+Sus pe stanca mantuirii (is not this the land of beulah?) {composer: {William Hunter, Rev. John W. Dadmun, Traducere RO}, {rcId: {210170}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

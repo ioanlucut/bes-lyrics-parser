@@ -1,5 +1,5 @@
 [title]
-Mai fa doamne azi minuni {author: {Anonimul}, {rcId: {229643}}
+Mai fa doamne azi minuni {composer: {Anonimul}, {rcId: {229643}}
 
 [sequence]
 v1,v2,v3,v4,v5

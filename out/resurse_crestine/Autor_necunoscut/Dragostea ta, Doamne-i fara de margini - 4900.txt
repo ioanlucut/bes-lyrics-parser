@@ -1,5 +1,5 @@
 [title]
-Dragostea ta doamne-i fara de margini {author: {Anonim}, {rcId: {4900}}
+Dragostea ta doamne-i fara de margini {composer: {Anonim}, {rcId: {4900}}
 
 [sequence]
 v1

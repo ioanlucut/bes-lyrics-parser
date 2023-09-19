@@ -1,5 +1,5 @@
 [title]
-Frate drag {author: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {210617}}
+Frate drag {composer: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {210617}}
 
 [sequence]
 v1,c,v2,c

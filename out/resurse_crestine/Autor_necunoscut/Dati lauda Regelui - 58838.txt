@@ -1,5 +1,5 @@
 [title]
-Dati lauda regelui {author: {Anonim}, {rcId: {58838}}
+Dati lauda regelui {composer: {Anonim}, {rcId: {58838}}
 
 [sequence]
 c,v1,c

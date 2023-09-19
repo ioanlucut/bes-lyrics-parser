@@ -1,5 +1,5 @@
 [title]
-Anii trec {author: {Speranța}, {rcId: {101873}}
+Anii trec {composer: {Speranța}, {rcId: {101873}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

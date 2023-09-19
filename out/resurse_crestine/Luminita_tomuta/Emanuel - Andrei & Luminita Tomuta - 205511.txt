@@ -1,5 +1,5 @@
 [title]
-Emanuel - andrei & luminita tomuta {author: {Luminița Tomuța}, {rcId: {205511}}
+Emanuel - andrei & luminita tomuta {composer: {Luminița Tomuța}, {rcId: {205511}}
 
 [sequence]
 v1,c,v2,b,c

@@ -1,5 +1,5 @@
 [title]
-Ai stiut {author: {Dan Damian}, {rcId: {238946}}
+Ai stiut {composer: {Dan Damian}, {rcId: {238946}}
 
 [sequence]
 v1,v2,c,c2

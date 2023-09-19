@@ -1,5 +1,5 @@
 [title]
-Romania {author: {Ligia Bodea.}, {rcId: {61551}}
+Romania {composer: {Ligia Bodea.}, {rcId: {61551}}
 
 [sequence]
 v1,c,v2,c,v3,c

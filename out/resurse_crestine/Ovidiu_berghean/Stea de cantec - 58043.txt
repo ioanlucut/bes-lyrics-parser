@@ -1,5 +1,5 @@
 [title]
-Stea de cantec {author: {Ovidiu Berghean}, {rcId: {58043}}
+Stea de cantec {composer: {Ovidiu Berghean}, {rcId: {58043}}
 
 [sequence]
 v1,c,v2,c,e

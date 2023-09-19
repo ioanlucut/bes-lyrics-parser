@@ -1,5 +1,5 @@
 [title]
-Indreaptati privirea doamne {author: {Denis Ceasar}, {rcId: {223255}}
+Indreaptati privirea doamne {composer: {Denis Ceasar}, {rcId: {223255}}
 
 [sequence]
 v1

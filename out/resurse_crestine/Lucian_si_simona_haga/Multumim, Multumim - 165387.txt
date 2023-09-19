@@ -1,5 +1,5 @@
 [title]
-Multumim multumim {author: {Lucian si Simona Haga}, {rcId: {165387}}
+Multumim multumim {composer: {Lucian si Simona Haga}, {rcId: {165387}}
 
 [sequence]
 v1,c,v2,c

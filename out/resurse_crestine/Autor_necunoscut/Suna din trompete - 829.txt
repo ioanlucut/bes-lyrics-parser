@@ -1,5 +1,5 @@
 [title]
-Suna din trompete {author: {Anonim}, {rcId: {829}}
+Suna din trompete {composer: {Anonim}, {rcId: {829}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

@@ -1,5 +1,5 @@
 [title]
-Vocea ta {author: {Pas}, {rcId: {111774}}
+Vocea ta {composer: {Pas}, {rcId: {111774}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Sufletul meu il lauda pe domnul {author: {Alexandru Groza}, {rcId: {155853}}
+Sufletul meu il lauda pe domnul {composer: {Alexandru Groza}, {rcId: {155853}}
 
 [sequence]
 v1,c,v2,c

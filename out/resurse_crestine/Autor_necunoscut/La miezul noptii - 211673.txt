@@ -1,5 +1,5 @@
 [title]
-La miezul noptii {author: {Album necunoscut}, {rcId: {211673}}
+La miezul noptii {composer: {Album necunoscut}, {rcId: {211673}}
 
 [sequence]
 v1,v2,v3

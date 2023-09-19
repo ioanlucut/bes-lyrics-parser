@@ -1,5 +1,5 @@
 [title]
-Domnu-i steag de biruinta {author: {Nelu Tomsa}, {rcId: {151240}}
+Domnu-i steag de biruinta {composer: {Nelu Tomsa}, {rcId: {151240}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

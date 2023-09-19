@@ -1,5 +1,5 @@
 [title]
-In zori de zi cand ai trecut / samaritean milos {author: {Mircea Berci}, {rcId: {89566}}
+In zori de zi cand ai trecut / samaritean milos {composer: {Mircea Berci}, {rcId: {89566}}
 
 [sequence]
 v1,v2,v3

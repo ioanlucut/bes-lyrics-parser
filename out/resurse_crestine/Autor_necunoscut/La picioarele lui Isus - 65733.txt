@@ -1,5 +1,5 @@
 [title]
-La picioarele lui isus {author: {Anonim}, {rcId: {65733}}
+La picioarele lui isus {composer: {Anonim}, {rcId: {65733}}
 
 [sequence]
 v1,v2,v3

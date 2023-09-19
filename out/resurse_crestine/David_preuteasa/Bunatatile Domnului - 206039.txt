@@ -1,5 +1,5 @@
 [title]
-Bunatatile domnului {author: {David Preuteasa}, {rcId: {206039}}
+Bunatatile domnului {composer: {David Preuteasa}, {rcId: {206039}}
 
 [sequence]
 v1,c,v2,c,v3,c

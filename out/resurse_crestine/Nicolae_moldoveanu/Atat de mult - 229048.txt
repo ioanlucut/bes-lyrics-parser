@@ -1,5 +1,5 @@
 [title]
-Atat de mult {author: {Nicolae Moldoveanu}, {rcId: {229048}}
+Atat de mult {composer: {Nicolae Moldoveanu}, {rcId: {229048}}
 
 [sequence]
 v1,v2,v3

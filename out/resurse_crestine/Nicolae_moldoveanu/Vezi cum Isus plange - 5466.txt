@@ -1,5 +1,5 @@
 [title]
-Vezi cum isus plange {author: {Nicolae Moldoveanu}, {rcId: {5466}}
+Vezi cum isus plange {composer: {Nicolae Moldoveanu}, {rcId: {5466}}
 
 [sequence]
 v1,c,v2,c,v3,c

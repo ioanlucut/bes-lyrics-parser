@@ -1,5 +1,5 @@
 [title]
-Vreau sa ma-ntorc azi acasa {author: {Adoramus Quartet}, {rcId: {210159}}
+Vreau sa ma-ntorc azi acasa {composer: {Adoramus Quartet}, {rcId: {210159}}
 
 [sequence]
 v1,v2,c,c,c

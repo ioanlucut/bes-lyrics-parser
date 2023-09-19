@@ -1,5 +1,5 @@
 [title]
-Noi suntem biserica {author: {Ionică Stoica}, {rcId: {56773}}
+Noi suntem biserica {composer: {Ionică Stoica}, {rcId: {56773}}
 
 [sequence]
 v1,e,v2,c

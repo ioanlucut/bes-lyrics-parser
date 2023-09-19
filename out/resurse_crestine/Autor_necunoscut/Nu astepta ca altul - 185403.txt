@@ -1,5 +1,5 @@
 [title]
-Nu astepta ca altul {author: {Anonim}, {rcId: {185403}}
+Nu astepta ca altul {composer: {Anonim}, {rcId: {185403}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Drumul e lung {author: {Tiberiu Szabo}, {rcId: {211218}}
+Drumul e lung {composer: {Tiberiu Szabo}, {rcId: {211218}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Doamne suferinta mea {author: {Nicolae Moldoveanu}, {rcId: {5332}}
+Doamne suferinta mea {composer: {Nicolae Moldoveanu}, {rcId: {5332}}
 
 [sequence]
 v1,v2,v3,v4

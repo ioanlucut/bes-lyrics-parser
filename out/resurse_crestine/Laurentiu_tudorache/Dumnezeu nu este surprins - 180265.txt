@@ -1,5 +1,5 @@
 [title]
-Dumnezeu nu este surprins {author: {Laurentiu Tudorache}, {rcId: {180265}}
+Dumnezeu nu este surprins {composer: {Laurentiu Tudorache}, {rcId: {180265}}
 
 [sequence]
 v1,v2,c,v3,v4,c2,c

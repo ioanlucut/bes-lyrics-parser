@@ -1,5 +1,5 @@
 [title]
-Maret e domnul {author: {Anonim}, {rcId: {6681}}
+Maret e domnul {composer: {Anonim}, {rcId: {6681}}
 
 [sequence]
 v1,c

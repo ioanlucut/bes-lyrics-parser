@@ -1,5 +1,5 @@
 [title]
-Veniti veniti popoare {author: {Puiu Chibici}, {rcId: {85282}}
+Veniti veniti popoare {composer: {Puiu Chibici}, {rcId: {85282}}
 
 [sequence]
 v1,c,v2,c,v3,c

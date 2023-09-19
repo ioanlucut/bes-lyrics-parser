@@ -1,5 +1,5 @@
 [title]
-Am auzit chemarea sfanta (only a prayer away) {author: {Len Magee, Traducere RO}, {rcId: {110034}}
+Am auzit chemarea sfanta (only a prayer away) {composer: {Len Magee, Traducere RO}, {rcId: {110034}}
 
 [sequence]
 v1,c,v2,c,s,c

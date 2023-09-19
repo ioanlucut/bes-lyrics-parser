@@ -1,5 +1,5 @@
 [title]
-Doamne ai mila {author: {Autor necunoscut}, {rcId: {227347}}
+Doamne ai mila {composer: {Autor necunoscut}, {rcId: {227347}}
 
 [sequence]
 v1,c,v2,c,e,c

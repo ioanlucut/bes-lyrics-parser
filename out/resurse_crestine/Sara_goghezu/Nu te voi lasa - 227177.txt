@@ -1,5 +1,5 @@
 [title]
-Nu te voi lasa {author: {Sara Goghezu}, {rcId: {227177}}
+Nu te voi lasa {composer: {Sara Goghezu}, {rcId: {227177}}
 
 [sequence]
 v1,c,v2,c

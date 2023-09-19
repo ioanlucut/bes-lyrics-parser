@@ -1,5 +1,5 @@
 [title]
-Tu esti tatal creatorul {author: {Ioan Hapca}, {rcId: {95385}}
+Tu esti tatal creatorul {composer: {Ioan Hapca}, {rcId: {95385}}
 
 [sequence]
 v1,c,v2,c

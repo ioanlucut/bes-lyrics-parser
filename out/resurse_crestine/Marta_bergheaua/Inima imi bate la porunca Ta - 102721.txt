@@ -1,5 +1,5 @@
 [title]
-Inima imi bate la porunca ta {author: {Marta Bergheaua}, {rcId: {102721}}
+Inima imi bate la porunca ta {composer: {Marta Bergheaua}, {rcId: {102721}}
 
 [sequence]
 v1,v2,v3,v4

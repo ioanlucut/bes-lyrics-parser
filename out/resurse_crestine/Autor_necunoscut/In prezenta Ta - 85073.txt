@@ -1,5 +1,5 @@
 [title]
-In prezenta ta {author: {Anonim}, {rcId: {85073}}
+In prezenta ta {composer: {Anonim}, {rcId: {85073}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,e

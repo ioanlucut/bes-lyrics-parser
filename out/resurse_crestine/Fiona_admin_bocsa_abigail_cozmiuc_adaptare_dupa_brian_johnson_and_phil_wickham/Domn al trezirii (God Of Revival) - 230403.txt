@@ -1,5 +1,5 @@
 [title]
-Domn al trezirii (god of revival) {author: {Fiona, Admin Bocșa, Abigail Cozmiuc adaptare după Brian Johnson and Phil Wickham}, {rcId: {230403}}
+Domn al trezirii (god of revival) {composer: {Fiona, Admin Bocșa, Abigail Cozmiuc adaptare după Brian Johnson and Phil Wickham}, {rcId: {230403}}
 
 [sequence]
 v1,b,c,v2,b,c,e

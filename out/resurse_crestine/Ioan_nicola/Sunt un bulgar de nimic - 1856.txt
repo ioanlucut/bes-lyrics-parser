@@ -1,5 +1,5 @@
 [title]
-Sunt un bulgar de nimic {author: {ioan nicola}, {rcId: {1856}}
+Sunt un bulgar de nimic {composer: {ioan nicola}, {rcId: {1856}}
 
 [sequence]
 v1,v2,v3,v4,v5

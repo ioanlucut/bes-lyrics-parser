@@ -1,5 +1,5 @@
 [title]
-Traind prin credinta (living by faith) {author: {J. L. Heath, Traducere RO}, {rcId: {115715}}
+Traind prin credinta (living by faith) {composer: {J. L. Heath, Traducere RO}, {rcId: {115715}}
 
 [sequence]
 v1,c,v2,c,v3,c,s,c

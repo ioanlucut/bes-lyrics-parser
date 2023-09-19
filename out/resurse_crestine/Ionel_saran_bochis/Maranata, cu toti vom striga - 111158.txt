@@ -1,5 +1,5 @@
 [title]
-Maranata cu toti vom striga {author: {Ionel Saran Bochis}, {rcId: {111158}}
+Maranata cu toti vom striga {composer: {Ionel Saran Bochis}, {rcId: {111158}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Un medic bun noi toti avem {author: {Anonim}, {rcId: {6691}}
+Un medic bun noi toti avem {composer: {Anonim}, {rcId: {6691}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

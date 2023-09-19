@@ -1,5 +1,5 @@
 [title]
-Lupta neincetat {author: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {112919}}
+Lupta neincetat {composer: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {112919}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Cin se roaga pentru tara? {author: {David Stănuș}, {rcId: {183581}}
+Cin se roaga pentru tara? {composer: {David Stănuș}, {rcId: {183581}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

@@ -1,5 +1,5 @@
 [title]
-O veniti isus va cheama {author: {Gabriel Gorcea și prietenii}, {rcId: {77940}}
+O veniti isus va cheama {composer: {Gabriel Gorcea și prietenii}, {rcId: {77940}}
 
 [sequence]
 v1,c,v2,c,v3,c

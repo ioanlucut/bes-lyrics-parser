@@ -1,5 +1,5 @@
 [title]
-Tot mai aproape doamne {author: {Claudia Danciu}, {rcId: {168882}}
+Tot mai aproape doamne {composer: {Claudia Danciu}, {rcId: {168882}}
 
 [sequence]
 v1,c,v2,c

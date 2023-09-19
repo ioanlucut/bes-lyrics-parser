@@ -1,5 +1,5 @@
 [title]
-One way / isus calea {author: {Hillsong United, Traducere RO}, {rcId: {66571}}
+One way / isus calea {composer: {Hillsong United, Traducere RO}, {rcId: {66571}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c,v5,c

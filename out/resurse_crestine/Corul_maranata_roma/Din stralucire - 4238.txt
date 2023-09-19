@@ -1,5 +1,5 @@
 [title]
-Din stralucire {author: {Corul Maranata, Roma}, {rcId: {4238}}
+Din stralucire {composer: {Corul Maranata, Roma}, {rcId: {4238}}
 
 [sequence]
 v1,c,v2,c

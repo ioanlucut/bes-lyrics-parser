@@ -1,5 +1,5 @@
 [title]
-Psalmul {author: {BBSO}, {rcId: {214233}}
+Psalmul {composer: {BBSO}, {rcId: {214233}}
 
 [sequence]
 v1,v2,c,v3,c,c

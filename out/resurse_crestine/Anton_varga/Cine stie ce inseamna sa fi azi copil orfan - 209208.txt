@@ -1,5 +1,5 @@
 [title]
-Cine stie ce inseamna sa fi azi copil orfan {author: {Anton Varga}, {rcId: {209208}}
+Cine stie ce inseamna sa fi azi copil orfan {composer: {Anton Varga}, {rcId: {209208}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

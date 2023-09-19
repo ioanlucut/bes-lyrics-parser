@@ -1,5 +1,5 @@
 [title]
-Naintea ta isus iubit {author: {Anonim}, {rcId: {79933}}
+Naintea ta isus iubit {composer: {Anonim}, {rcId: {79933}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

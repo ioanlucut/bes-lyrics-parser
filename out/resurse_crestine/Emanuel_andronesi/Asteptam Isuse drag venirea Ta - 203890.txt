@@ -1,5 +1,5 @@
 [title]
-Asteptam isuse drag venirea ta {author: {Emanuel Andronesi}, {rcId: {203890}}
+Asteptam isuse drag venirea ta {composer: {Emanuel Andronesi}, {rcId: {203890}}
 
 [sequence]
 v1,v2,v3,v4

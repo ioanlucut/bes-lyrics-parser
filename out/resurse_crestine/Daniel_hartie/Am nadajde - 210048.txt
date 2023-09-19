@@ -1,5 +1,5 @@
 [title]
-Am nadajde {author: {Daniel Hartie}, {rcId: {210048}}
+Am nadajde {composer: {Daniel Hartie}, {rcId: {210048}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

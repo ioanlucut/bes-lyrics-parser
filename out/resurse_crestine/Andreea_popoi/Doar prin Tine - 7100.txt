@@ -1,5 +1,5 @@
 [title]
-Doar prin tine {author: {Andreea Popoi}, {rcId: {7100}}
+Doar prin tine {composer: {Andreea Popoi}, {rcId: {7100}}
 
 [sequence]
 v1,c,v2,c

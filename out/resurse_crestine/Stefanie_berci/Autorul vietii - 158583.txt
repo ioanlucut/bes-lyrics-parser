@@ -1,5 +1,5 @@
 [title]
-Autorul vietii {author: {Ștefanie Berci}, {rcId: {158583}}
+Autorul vietii {composer: {Ștefanie Berci}, {rcId: {158583}}
 
 [sequence]
 v1,c,v2,c,e

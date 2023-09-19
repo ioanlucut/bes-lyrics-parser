@@ -1,5 +1,5 @@
 [title]
-Iubirea lui e mult prea mare {author: {F.M.Lehman}, {rcId: {1706}}
+Iubirea lui e mult prea mare {composer: {F.M.Lehman}, {rcId: {1706}}
 
 [sequence]
 v1,c,v2,c,v3,c

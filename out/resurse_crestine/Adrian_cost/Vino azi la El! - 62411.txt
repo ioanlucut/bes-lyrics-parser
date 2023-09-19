@@ -1,5 +1,5 @@
 [title]
-Vino azi la el {author: {Adrian Cost}, {rcId: {62411}}
+Vino azi la el {composer: {Adrian Cost}, {rcId: {62411}}
 
 [sequence]
 v1,c,v2,c,v3,c2

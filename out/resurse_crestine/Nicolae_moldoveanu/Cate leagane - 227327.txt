@@ -1,5 +1,5 @@
 [title]
-Cate leagane {author: {Nicolae Moldoveanu}, {rcId: {227327}}
+Cate leagane {composer: {Nicolae Moldoveanu}, {rcId: {227327}}
 
 [sequence]
 v1,v2,v3

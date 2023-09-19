@@ -1,5 +1,5 @@
 [title]
-Tu esti domnul meu {author: {Studenți Poarta Cerului}, {rcId: {232885}}
+Tu esti domnul meu {composer: {Studenți Poarta Cerului}, {rcId: {232885}}
 
 [sequence]
 v1,c,e,e2

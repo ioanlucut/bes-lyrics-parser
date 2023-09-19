@@ -1,5 +1,5 @@
 [title]
-Se simte bucuria {author: {Ionică Stoica}, {rcId: {172324}}
+Se simte bucuria {composer: {Ionică Stoica}, {rcId: {172324}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

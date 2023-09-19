@@ -1,5 +1,5 @@
 [title]
-Ajuta-ne sa te iubim {author: {Nicolae Moldoveanu}, {rcId: {243946}}
+Ajuta-ne sa te iubim {composer: {Nicolae Moldoveanu}, {rcId: {243946}}
 
 [sequence]
 v1,v2,v3,v4,v5

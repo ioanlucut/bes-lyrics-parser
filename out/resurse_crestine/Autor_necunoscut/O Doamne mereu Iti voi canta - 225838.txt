@@ -1,5 +1,5 @@
 [title]
-O doamne mereu iti voi canta {author: {Necunoscut}, {rcId: {225838}}
+O doamne mereu iti voi canta {composer: {Necunoscut}, {rcId: {225838}}
 
 [sequence]
 v1,c,v2,c,v3,c

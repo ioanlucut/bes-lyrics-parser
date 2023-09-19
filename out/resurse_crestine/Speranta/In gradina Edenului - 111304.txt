@@ -1,5 +1,5 @@
 [title]
-In gradina edenului {author: {Speranța}, {rcId: {111304}}
+In gradina edenului {composer: {Speranța}, {rcId: {111304}}
 
 [sequence]
 v1,c,v2,c,v3,c,c

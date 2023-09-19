@@ -1,5 +1,5 @@
 [title]
-Noua azi ne-a rasarit {author: {Anonim}, {rcId: {1498}}
+Noua azi ne-a rasarit {composer: {Anonim}, {rcId: {1498}}
 
 [sequence]
 v1,v2,v3,v4

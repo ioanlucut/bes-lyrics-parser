@@ -1,5 +1,5 @@
 [title]
-Despartire {author: {Marius Livanu}, {rcId: {7115}}
+Despartire {composer: {Marius Livanu}, {rcId: {7115}}
 
 [sequence]
 v1,c,v2,c

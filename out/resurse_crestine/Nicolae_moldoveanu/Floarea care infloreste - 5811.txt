@@ -1,5 +1,5 @@
 [title]
-Floarea care infloreste {author: {Nicolae Moldoveanu}, {rcId: {5811}}
+Floarea care infloreste {composer: {Nicolae Moldoveanu}, {rcId: {5811}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

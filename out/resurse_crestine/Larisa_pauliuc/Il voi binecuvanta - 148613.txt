@@ -1,5 +1,5 @@
 [title]
-Il voi binecuvanta {author: {Larisa Pauliuc}, {rcId: {148613}}
+Il voi binecuvanta {composer: {Larisa Pauliuc}, {rcId: {148613}}
 
 [sequence]
 v1,v2,v3,v4

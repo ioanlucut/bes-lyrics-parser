@@ -1,5 +1,5 @@
 [title]
-Ajutorul {author: {Debora Moțac}, {rcId: {227083}}
+Ajutorul {composer: {Debora Moțac}, {rcId: {227083}}
 
 [sequence]
 v1,b,c,v2,b2,c

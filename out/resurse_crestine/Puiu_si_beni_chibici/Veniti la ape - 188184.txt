@@ -1,5 +1,5 @@
 [title]
-Veniti la ape {author: {Puiu și Beni Chibici}, {rcId: {188184}}
+Veniti la ape {composer: {Puiu și Beni Chibici}, {rcId: {188184}}
 
 [sequence]
 v1,c,v2,c,v3,c

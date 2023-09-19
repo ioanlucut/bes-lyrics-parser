@@ -1,5 +1,5 @@
 [title]
-Ce fericire fara nici o teama {author: {Anonim}, {rcId: {173138}}
+Ce fericire fara nici o teama {composer: {Anonim}, {rcId: {173138}}
 
 [sequence]
 v1,v2,v3,v4

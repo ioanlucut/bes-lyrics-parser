@@ -1,5 +1,5 @@
 [title]
-De mana cu dumnezeu {author: {Adi Gliga}, {rcId: {157045}}
+De mana cu dumnezeu {composer: {Adi Gliga}, {rcId: {157045}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c

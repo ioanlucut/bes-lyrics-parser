@@ -1,5 +1,5 @@
 [title]
-Nu exista loc sub soare {author: {Anonim}, {rcId: {146454}}
+Nu exista loc sub soare {composer: {Anonim}, {rcId: {146454}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Ia-ma doamne-n slujba ta {author: {Anonim}, {rcId: {781}}
+Ia-ma doamne-n slujba ta {composer: {Anonim}, {rcId: {781}}
 
 [sequence]
 v1,v2,v3,v4,v5

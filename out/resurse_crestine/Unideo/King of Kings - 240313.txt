@@ -1,5 +1,5 @@
 [title]
-King of kings {author: {UniDEO}, {rcId: {240313}}
+King of kings {composer: {UniDEO}, {rcId: {240313}}
 
 [sequence]
 v1,c,v2,c,v3,c

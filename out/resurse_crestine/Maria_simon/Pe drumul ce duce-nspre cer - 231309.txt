@@ -1,5 +1,5 @@
 [title]
-Pe drumul ce duce-nspre cer {author: {Maria Șimon}, {rcId: {231309}}
+Pe drumul ce duce-nspre cer {composer: {Maria Șimon}, {rcId: {231309}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Grijeste numai adevarul {author: {Nicolae Moldoveanu}, {rcId: {242638}}
+Grijeste numai adevarul {composer: {Nicolae Moldoveanu}, {rcId: {242638}}
 
 [sequence]
 v1,v2,v3,v4,v5

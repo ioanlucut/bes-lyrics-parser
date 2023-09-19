@@ -1,5 +1,5 @@
 [title]
-Diana pup - speranta mea {author: {Diana Pup}, {rcId: {197469}}
+Diana pup - speranta mea {composer: {Diana Pup}, {rcId: {197469}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Ce minune {author: {Ligia Bodea.}, {rcId: {7004}}
+Ce minune {composer: {Ligia Bodea.}, {rcId: {7004}}
 
 [sequence]
 v1,c,v2,c

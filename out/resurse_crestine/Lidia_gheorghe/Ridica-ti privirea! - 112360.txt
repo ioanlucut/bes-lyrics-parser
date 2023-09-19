@@ -1,5 +1,5 @@
 [title]
-Ridica-ti privirea {author: {Lidia Gheorghe}, {rcId: {112360}}
+Ridica-ti privirea {composer: {Lidia Gheorghe}, {rcId: {112360}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c,v5,c,v6,c

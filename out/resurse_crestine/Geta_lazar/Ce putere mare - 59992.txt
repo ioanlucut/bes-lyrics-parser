@@ -1,5 +1,5 @@
 [title]
-Ce putere mare {author: {Geta Lazăr}, {rcId: {59992}}
+Ce putere mare {composer: {Geta Lazăr}, {rcId: {59992}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

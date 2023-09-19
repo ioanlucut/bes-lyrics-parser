@@ -1,5 +1,5 @@
 [title]
-Limba mea ii va canta {author: {Ilie Neagu}, {rcId: {158763}}
+Limba mea ii va canta {composer: {Ilie Neagu}, {rcId: {158763}}
 
 [sequence]
 v1,c,v2,c,v3,c

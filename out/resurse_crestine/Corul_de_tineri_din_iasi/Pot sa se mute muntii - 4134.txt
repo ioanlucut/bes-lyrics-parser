@@ -1,5 +1,5 @@
 [title]
-Pot sa se mute muntii {author: {Corul de tineri din Iasi}, {rcId: {4134}}
+Pot sa se mute muntii {composer: {Corul de tineri din Iasi}, {rcId: {4134}}
 
 [sequence]
 c,v1,c,v2,c

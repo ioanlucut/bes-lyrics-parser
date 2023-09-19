@@ -1,5 +1,5 @@
 [title]
-Sabia domnului si-a lui ghedeon {author: {Ionel Saran Bochis}, {rcId: {111163}}
+Sabia domnului si-a lui ghedeon {composer: {Ionel Saran Bochis}, {rcId: {111163}}
 
 [sequence]
 v1,c,v2,c

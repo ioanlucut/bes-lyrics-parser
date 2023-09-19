@@ -1,5 +1,5 @@
 [title]
-Slava dati domnului {author: {Anonim}, {rcId: {1236}}
+Slava dati domnului {composer: {Anonim}, {rcId: {1236}}
 
 [sequence]
 v1,v2,v3,v4

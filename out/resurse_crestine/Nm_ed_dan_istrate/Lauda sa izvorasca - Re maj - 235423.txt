@@ -1,5 +1,5 @@
 [title]
-Lauda sa izvorasca - re maj {author: {NM, ed. Dan Istrate}, {rcId: {235423}}
+Lauda sa izvorasca - re maj {composer: {NM, ed. Dan Istrate}, {rcId: {235423}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

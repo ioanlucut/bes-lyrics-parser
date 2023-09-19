@@ -1,5 +1,5 @@
 [title]
-Cele vechi s-au dus (down the sawdust trail) {author: {Millie Lou Pace, Traducere RO}, {rcId: {95613}}
+Cele vechi s-au dus (down the sawdust trail) {composer: {Millie Lou Pace, Traducere RO}, {rcId: {95613}}
 
 [sequence]
 v1,c,v2,c

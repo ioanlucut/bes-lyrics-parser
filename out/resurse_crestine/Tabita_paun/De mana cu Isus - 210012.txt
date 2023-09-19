@@ -1,5 +1,5 @@
 [title]
-De mana cu isus {author: {Tabita Păun}, {rcId: {210012}}
+De mana cu isus {composer: {Tabita Păun}, {rcId: {210012}}
 
 [sequence]
 v1,c,v2,c,v3,c

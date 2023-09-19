@@ -1,5 +1,5 @@
 [title]
-Sa ne-aducem aminte {author: {Text si muzica: Doru Gîrboan}, {rcId: {238014}}
+Sa ne-aducem aminte {composer: {Text si muzica: Doru Gîrboan}, {rcId: {238014}}
 
 [sequence]
 v1,b,c,v2,b,c

@@ -1,5 +1,5 @@
 [title]
-Numai pentru tine vreau sa cant {author: {Marius Livanu}, {rcId: {172634}}
+Numai pentru tine vreau sa cant {composer: {Marius Livanu}, {rcId: {172634}}
 
 [sequence]
 v1,c,v2,c

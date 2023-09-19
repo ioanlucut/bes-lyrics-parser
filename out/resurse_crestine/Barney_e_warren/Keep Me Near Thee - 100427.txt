@@ -1,5 +1,5 @@
 [title]
-Keep me near thee {author: {Barney E. Warren}, {rcId: {100427}}
+Keep me near thee {composer: {Barney E. Warren}, {rcId: {100427}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

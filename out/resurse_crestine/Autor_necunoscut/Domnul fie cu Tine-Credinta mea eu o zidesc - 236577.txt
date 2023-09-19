@@ -1,5 +1,5 @@
 [title]
-Domnul fie cu tine/credinta mea eu o zidesc {author: {Anonim}, {rcId: {236577}}
+Domnul fie cu tine/credinta mea eu o zidesc {composer: {Anonim}, {rcId: {236577}}
 
 [sequence]
 v1,v2,v3,c,v4,c,v5,c

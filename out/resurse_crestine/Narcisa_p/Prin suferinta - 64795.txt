@@ -1,5 +1,5 @@
 [title]
-Prin suferinta {author: {Narcisa P.}, {rcId: {64795}}
+Prin suferinta {composer: {Narcisa P.}, {rcId: {64795}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

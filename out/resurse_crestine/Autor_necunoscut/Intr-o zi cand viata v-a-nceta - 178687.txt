@@ -1,5 +1,5 @@
 [title]
-Intr-o zi cand viata v-a-nceta {author: {Anonim}, {rcId: {178687}}
+Intr-o zi cand viata v-a-nceta {composer: {Anonim}, {rcId: {178687}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c2

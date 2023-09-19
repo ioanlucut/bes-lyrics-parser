@@ -1,5 +1,5 @@
 [title]
-Iertat din nou {author: {Gloria Gaither, Ernie Haase, Sig}, {rcId: {4299}}
+Iertat din nou {composer: {Gloria Gaither, Ernie Haase, Sig}, {rcId: {4299}}
 
 [sequence]
 v1,c,v2,c2,c3,v3,c2

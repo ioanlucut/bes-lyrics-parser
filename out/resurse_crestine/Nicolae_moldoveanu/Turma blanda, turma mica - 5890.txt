@@ -1,5 +1,5 @@
 [title]
-Turma blanda turma mica {author: {Nicolae Moldoveanu}, {rcId: {5890}}
+Turma blanda turma mica {composer: {Nicolae Moldoveanu}, {rcId: {5890}}
 
 [sequence]
 v1,v2,v3

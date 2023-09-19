@@ -1,5 +1,5 @@
 [title]
-Binecuvinteaza doamne acest copil {author: {Cătălin Ciuculescu}, {rcId: {227214}}
+Binecuvinteaza doamne acest copil {composer: {Cătălin Ciuculescu}, {rcId: {227214}}
 
 [sequence]
 v1,c

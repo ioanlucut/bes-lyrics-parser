@@ -1,5 +1,5 @@
 [title]
-Hai crestine te desteapta {author: {Anonim}, {rcId: {7058}}
+Hai crestine te desteapta {composer: {Anonim}, {rcId: {7058}}
 
 [sequence]
 v1,c,v2,c,v3,c

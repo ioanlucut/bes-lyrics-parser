@@ -1,5 +1,5 @@
 [title]
-La umbra crucii lui {author: {Anonim}, {rcId: {85075}}
+La umbra crucii lui {composer: {Anonim}, {rcId: {85075}}
 
 [sequence]
 v1,c,v2,c,e

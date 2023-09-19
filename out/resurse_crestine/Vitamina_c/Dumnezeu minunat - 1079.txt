@@ -1,5 +1,5 @@
 [title]
-Dumnezeu minunat {author: {Vitamina C}, {rcId: {1079}}
+Dumnezeu minunat {composer: {Vitamina C}, {rcId: {1079}}
 
 [sequence]
 v1,c,e

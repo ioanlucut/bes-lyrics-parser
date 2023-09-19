@@ -1,5 +1,5 @@
 [title]
-In mana ta {author: {Nicolae Moldoveanu}, {rcId: {186407}}
+In mana ta {composer: {Nicolae Moldoveanu}, {rcId: {186407}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

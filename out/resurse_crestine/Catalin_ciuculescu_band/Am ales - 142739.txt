@@ -1,5 +1,5 @@
 [title]
-Am ales {author: {Cătălin Ciuculescu Band}, {rcId: {142739}}
+Am ales {composer: {Cătălin Ciuculescu Band}, {rcId: {142739}}
 
 [sequence]
 v1,v2,v3

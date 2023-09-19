@@ -1,5 +1,5 @@
 [title]
-Eu merg pe calea spre cer (the glory-land way) {author: {James S. Torbett, Traducere RO}, {rcId: {234078}}
+Eu merg pe calea spre cer (the glory-land way) {composer: {James S. Torbett, Traducere RO}, {rcId: {234078}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Gandeste-te {author: {Speranța}, {rcId: {77876}}
+Gandeste-te {composer: {Speranța}, {rcId: {77876}}
 
 [sequence]
 v1,c,v2,c

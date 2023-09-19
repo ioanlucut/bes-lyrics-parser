@@ -1,5 +1,5 @@
 [title]
-Iosif {author: {Chris și Grupul Cristale}, {rcId: {159210}}
+Iosif {composer: {Chris și Grupul Cristale}, {rcId: {159210}}
 
 [sequence]
 v1,c,v2,c2,c3

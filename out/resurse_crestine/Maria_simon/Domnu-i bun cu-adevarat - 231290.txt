@@ -1,5 +1,5 @@
 [title]
-Domnu-i bun cu-adevarat {author: {Maria Șimon}, {rcId: {231290}}
+Domnu-i bun cu-adevarat {composer: {Maria Șimon}, {rcId: {231290}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

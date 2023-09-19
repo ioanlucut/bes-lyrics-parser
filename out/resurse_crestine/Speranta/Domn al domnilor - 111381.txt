@@ -1,5 +1,5 @@
 [title]
-Domn al domnilor {author: {Speranța}, {rcId: {111381}}
+Domn al domnilor {composer: {Speranța}, {rcId: {111381}}
 
 [sequence]
 v1,c,v2,c,e

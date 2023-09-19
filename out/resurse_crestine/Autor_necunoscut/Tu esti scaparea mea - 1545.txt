@@ -1,5 +1,5 @@
 [title]
-Tu esti scaparea mea {author: {Anonim}, {rcId: {1545}}
+Tu esti scaparea mea {composer: {Anonim}, {rcId: {1545}}
 
 [sequence]
 v1,c

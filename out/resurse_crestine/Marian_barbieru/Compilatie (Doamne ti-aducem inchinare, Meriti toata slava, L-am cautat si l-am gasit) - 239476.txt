@@ -1,5 +1,5 @@
 [title]
-Compilatie (doamne ti-aducem inchinare meriti toata slava l-am cautat si l-am gasit) {author: {Marian Barbieru}, {rcId: {239476}}
+Compilatie (doamne ti-aducem inchinare meriti toata slava l-am cautat si l-am gasit) {composer: {Marian Barbieru}, {rcId: {239476}}
 
 [sequence]
 v1,c,v2,c,e,v1,b,c,v1,c,v2,c,v3,c

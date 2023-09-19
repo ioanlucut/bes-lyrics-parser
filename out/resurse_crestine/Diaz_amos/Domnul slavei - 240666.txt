@@ -1,5 +1,5 @@
 [title]
-Domnul slavei {author: {Diaz Amos}, {rcId: {240666}}
+Domnul slavei {composer: {Diaz Amos}, {rcId: {240666}}
 
 [sequence]
 v1,c,v2,c

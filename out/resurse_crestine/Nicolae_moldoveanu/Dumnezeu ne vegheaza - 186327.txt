@@ -1,5 +1,5 @@
 [title]
-Dumnezeu ne vegheaza {author: {Nicolae Moldoveanu}, {rcId: {186327}}
+Dumnezeu ne vegheaza {composer: {Nicolae Moldoveanu}, {rcId: {186327}}
 
 [sequence]
 v1,v2,v3,v4

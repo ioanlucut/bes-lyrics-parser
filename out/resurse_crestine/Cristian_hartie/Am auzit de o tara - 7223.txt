@@ -1,5 +1,5 @@
 [title]
-Am auzit de o tara {author: {Cristian Hartie}, {rcId: {7223}}
+Am auzit de o tara {composer: {Cristian Hartie}, {rcId: {7223}}
 
 [sequence]
 v1,v2,v3,v4,v5

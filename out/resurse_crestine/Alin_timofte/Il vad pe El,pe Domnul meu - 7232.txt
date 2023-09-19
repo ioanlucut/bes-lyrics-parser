@@ -1,5 +1,5 @@
 [title]
-Il vad pe elpe domnul meu {author: {Alin Timofte}, {rcId: {7232}}
+Il vad pe elpe domnul meu {composer: {Alin Timofte}, {rcId: {7232}}
 
 [sequence]
 c,v1,c

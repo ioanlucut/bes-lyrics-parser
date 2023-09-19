@@ -1,5 +1,5 @@
 [title]
-Priveste in jur este vremea trezirii {author: {Anonim}, {rcId: {227722}}
+Priveste in jur este vremea trezirii {composer: {Anonim}, {rcId: {227722}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Patria noastra e sus {author: {Ionel Saran Bochis}, {rcId: {111179}}
+Patria noastra e sus {composer: {Ionel Saran Bochis}, {rcId: {111179}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

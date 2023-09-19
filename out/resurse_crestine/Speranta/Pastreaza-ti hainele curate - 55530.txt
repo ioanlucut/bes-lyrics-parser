@@ -1,5 +1,5 @@
 [title]
-Pastreaza-ti hainele curate {author: {Speranța}, {rcId: {55530}}
+Pastreaza-ti hainele curate {composer: {Speranța}, {rcId: {55530}}
 
 [sequence]
 v1,v2,v3

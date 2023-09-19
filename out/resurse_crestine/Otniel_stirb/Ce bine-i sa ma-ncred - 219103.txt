@@ -1,5 +1,5 @@
 [title]
-Ce bine-i sa ma-ncred {author: {Otniel Stirb}, {rcId: {219103}}
+Ce bine-i sa ma-ncred {composer: {Otniel Stirb}, {rcId: {219103}}
 
 [sequence]
 v1,c,v2,c,v3,c

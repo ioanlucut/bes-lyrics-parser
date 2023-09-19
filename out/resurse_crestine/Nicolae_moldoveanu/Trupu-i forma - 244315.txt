@@ -1,5 +1,5 @@
 [title]
-Trupu-i forma {author: {Nicolae Moldoveanu}, {rcId: {244315}}
+Trupu-i forma {composer: {Nicolae Moldoveanu}, {rcId: {244315}}
 
 [sequence]
 v1,v2,v3

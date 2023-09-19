@@ -1,5 +1,5 @@
 [title]
-Spune suflete: esti gata? - la maj {author: {ed. Dan Istrate}, {rcId: {234954}}
+Spune suflete: esti gata? - la maj {composer: {ed. Dan Istrate}, {rcId: {234954}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Mergand printre ruine {author: {Maria Șimon}, {rcId: {197872}}
+Mergand printre ruine {composer: {Maria Șimon}, {rcId: {197872}}
 
 [sequence]
 v1,c,v2,c,v3,c

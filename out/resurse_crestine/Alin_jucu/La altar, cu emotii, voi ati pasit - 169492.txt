@@ -1,5 +1,5 @@
 [title]
-La altar cu emotii voi ati pasit {author: {Alin Jucu}, {rcId: {169492}}
+La altar cu emotii voi ati pasit {composer: {Alin Jucu}, {rcId: {169492}}
 
 [sequence]
 v1,c,v2,c

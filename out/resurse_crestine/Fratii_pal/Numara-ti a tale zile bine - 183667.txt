@@ -1,5 +1,5 @@
 [title]
-Numara-ti a tale zile bine {author: {Fratii Pal}, {rcId: {183667}}
+Numara-ti a tale zile bine {composer: {Fratii Pal}, {rcId: {183667}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

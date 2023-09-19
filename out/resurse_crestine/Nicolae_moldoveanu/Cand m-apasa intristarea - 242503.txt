@@ -1,5 +1,5 @@
 [title]
-Cand m-apasa intristarea {author: {Nicolae Moldoveanu}, {rcId: {242503}}
+Cand m-apasa intristarea {composer: {Nicolae Moldoveanu}, {rcId: {242503}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Ce e un copil? {author: {Marian Fedur}, {rcId: {178103}}
+Ce e un copil? {composer: {Marian Fedur}, {rcId: {178103}}
 
 [sequence]
 v1,c2,v2,c2,e

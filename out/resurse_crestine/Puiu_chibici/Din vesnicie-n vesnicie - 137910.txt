@@ -1,5 +1,5 @@
 [title]
-Din vesnicie-n vesnicie {author: {Puiu Chibici}, {rcId: {137910}}
+Din vesnicie-n vesnicie {composer: {Puiu Chibici}, {rcId: {137910}}
 
 [sequence]
 v1,c,v2,c,v3,c

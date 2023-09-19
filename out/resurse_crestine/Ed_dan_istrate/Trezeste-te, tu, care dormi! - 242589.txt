@@ -1,5 +1,5 @@
 [title]
-Trezeste-te tu care dormi {author: {ed. Dan Istrate}, {rcId: {242589}}
+Trezeste-te tu care dormi {composer: {ed. Dan Istrate}, {rcId: {242589}}
 
 [sequence]
 v1,c,v2,c,v3,c

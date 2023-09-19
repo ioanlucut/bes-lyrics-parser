@@ -1,5 +1,5 @@
 [title]
-Dreptate {author: {Nicolae Moldoveanu}, {rcId: {242629}}
+Dreptate {composer: {Nicolae Moldoveanu}, {rcId: {242629}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Erai acasa mama {author: {Ala Bragari}, {rcId: {164002}}
+Erai acasa mama {composer: {Ala Bragari}, {rcId: {164002}}
 
 [sequence]
 v1,c,v2,c,v3,c

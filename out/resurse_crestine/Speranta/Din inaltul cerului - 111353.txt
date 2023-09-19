@@ -1,5 +1,5 @@
 [title]
-Din inaltul cerului {author: {Speranța}, {rcId: {111353}}
+Din inaltul cerului {composer: {Speranța}, {rcId: {111353}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Fratilor veniti {author: {William F.Sherwin}, {rcId: {1822}}
+Fratilor veniti {composer: {William F.Sherwin}, {rcId: {1822}}
 
 [sequence]
 v1,c,v2,c,v3,c

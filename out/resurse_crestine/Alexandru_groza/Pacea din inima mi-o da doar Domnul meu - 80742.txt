@@ -1,5 +1,5 @@
 [title]
-Pacea din inima mi-o da doar domnul meu {author: {Alexandru Groza}, {rcId: {80742}}
+Pacea din inima mi-o da doar domnul meu {composer: {Alexandru Groza}, {rcId: {80742}}
 
 [sequence]
 v1,c,v2,c

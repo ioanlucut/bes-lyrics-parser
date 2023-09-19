@@ -1,5 +1,5 @@
 [title]
-Nimic n-avem {author: {Nicolae Moldoveanu}, {rcId: {244064}}
+Nimic n-avem {composer: {Nicolae Moldoveanu}, {rcId: {244064}}
 
 [sequence]
 v1,v2,v3,v4

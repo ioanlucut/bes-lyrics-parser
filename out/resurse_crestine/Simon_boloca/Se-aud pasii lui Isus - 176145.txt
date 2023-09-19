@@ -1,5 +1,5 @@
 [title]
-Se-aud pasii lui isus {author: {Simon Boloca}, {rcId: {176145}}
+Se-aud pasii lui isus {composer: {Simon Boloca}, {rcId: {176145}}
 
 [sequence]
 v1,c,v2,c,v3,c2

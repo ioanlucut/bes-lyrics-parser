@@ -1,5 +1,5 @@
 [title]
-Isus viata mea intreaga {author: {Nicu Chereji}, {rcId: {210177}}
+Isus viata mea intreaga {composer: {Nicu Chereji}, {rcId: {210177}}
 
 [sequence]
 v1,v2,v3

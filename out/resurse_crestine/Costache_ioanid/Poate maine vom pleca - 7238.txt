@@ -1,5 +1,5 @@
 [title]
-Poate maine vom pleca {author: {Costache Ioanid}, {rcId: {7238}}
+Poate maine vom pleca {composer: {Costache Ioanid}, {rcId: {7238}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

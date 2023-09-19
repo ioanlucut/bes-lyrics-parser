@@ -1,5 +1,5 @@
 [title]
-Cine oare a crezut ? {author: {Dolores}, {rcId: {111440}}
+Cine oare a crezut ? {composer: {Dolores}, {rcId: {111440}}
 
 [sequence]
 v1,v2,c,v3,c

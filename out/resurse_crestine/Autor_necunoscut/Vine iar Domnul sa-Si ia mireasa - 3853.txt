@@ -1,5 +1,5 @@
 [title]
-Vine iar domnul sa-si ia mireasa {author: {Anonim}, {rcId: {3853}}
+Vine iar domnul sa-si ia mireasa {composer: {Anonim}, {rcId: {3853}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Isus prietenul meu {author: {Anonim}, {rcId: {65003}}
+Isus prietenul meu {composer: {Anonim}, {rcId: {65003}}
 
 [sequence]
 v1,b,c

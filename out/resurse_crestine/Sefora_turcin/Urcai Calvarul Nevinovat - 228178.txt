@@ -1,5 +1,5 @@
 [title]
-Urcai calvarul nevinovat {author: {Sefora Turcin}, {rcId: {228178}}
+Urcai calvarul nevinovat {composer: {Sefora Turcin}, {rcId: {228178}}
 
 [sequence]
 v1,c,v2,c,v3,c

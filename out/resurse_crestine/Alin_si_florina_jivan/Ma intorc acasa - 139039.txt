@@ -1,5 +1,5 @@
 [title]
-Ma intorc acasa {author: {Alin și Florina Jivan}, {rcId: {139039}}
+Ma intorc acasa {composer: {Alin și Florina Jivan}, {rcId: {139039}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

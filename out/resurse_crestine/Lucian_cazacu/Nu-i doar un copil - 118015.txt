@@ -1,5 +1,5 @@
 [title]
-Nu-i doar un copil {author: {Lucian Cazacu}, {rcId: {118015}}
+Nu-i doar un copil {composer: {Lucian Cazacu}, {rcId: {118015}}
 
 [sequence]
 v1,c,v2,c

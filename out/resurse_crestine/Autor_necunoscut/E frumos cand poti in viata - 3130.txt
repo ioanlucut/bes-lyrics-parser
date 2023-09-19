@@ -1,5 +1,5 @@
 [title]
-E frumos cand poti in viata {author: {Anonim}, {rcId: {3130}}
+E frumos cand poti in viata {composer: {Anonim}, {rcId: {3130}}
 
 [sequence]
 v1,v2,v3,v4

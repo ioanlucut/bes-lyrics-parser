@@ -1,5 +1,5 @@
 [title]
-Mare-i domnul {author: {Tănase Ligia Maria}, {rcId: {5927}}
+Mare-i domnul {composer: {Tănase Ligia Maria}, {rcId: {5927}}
 
 [sequence]
 v1,c

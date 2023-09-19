@@ -1,5 +1,5 @@
 [title]
-A inviat isus acum trirea bucuriei sfant {author: {Adrian Toader}, {rcId: {244300}}
+A inviat isus acum trirea bucuriei sfant {composer: {Adrian Toader}, {rcId: {244300}}
 
 [sequence]
 v1,v2,v3

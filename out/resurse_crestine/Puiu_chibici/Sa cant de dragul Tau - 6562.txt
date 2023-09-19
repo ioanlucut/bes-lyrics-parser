@@ -1,5 +1,5 @@
 [title]
-Sa cant de dragul tau {author: {Puiu Chibici}, {rcId: {6562}}
+Sa cant de dragul tau {composer: {Puiu Chibici}, {rcId: {6562}}
 
 [sequence]
 v1,v2,v3,v4

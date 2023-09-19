@@ -1,5 +1,5 @@
 [title]
-Precum cerbul doreste mult izvorul de apa {author: {Anonim}, {rcId: {231384}}
+Precum cerbul doreste mult izvorul de apa {composer: {Anonim}, {rcId: {231384}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

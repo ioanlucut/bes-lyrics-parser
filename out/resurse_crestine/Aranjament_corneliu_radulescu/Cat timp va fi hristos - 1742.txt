@@ -1,5 +1,5 @@
 [title]
-Cat timp va fi hristos {author: {Aranjament Corneliu Radulescu}, {rcId: {1742}}
+Cat timp va fi hristos {composer: {Aranjament Corneliu Radulescu}, {rcId: {1742}}
 
 [sequence]
 v1,v2,v3,v4

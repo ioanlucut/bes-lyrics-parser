@@ -1,5 +1,5 @@
 [title]
-Te port in gand mereu {author: {Biju de la Barbulesti}, {rcId: {132599}}
+Te port in gand mereu {composer: {Biju de la Barbulesti}, {rcId: {132599}}
 
 [sequence]
 v1,c,v2,c

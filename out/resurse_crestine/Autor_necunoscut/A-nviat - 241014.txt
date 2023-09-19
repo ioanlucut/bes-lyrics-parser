@@ -1,5 +1,5 @@
 [title]
-A-nviat {author: {Autor necunoscut}, {rcId: {241014}}
+A-nviat {composer: {Autor necunoscut}, {rcId: {241014}}
 
 [sequence]
 v1,c,v2,c

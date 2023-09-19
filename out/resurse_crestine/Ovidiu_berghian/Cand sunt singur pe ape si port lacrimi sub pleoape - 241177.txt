@@ -1,5 +1,5 @@
 [title]
-Cand sunt singur pe ape si port lacrimi sub pleoape {author: {Ovidiu Berghian}, {rcId: {241177}}
+Cand sunt singur pe ape si port lacrimi sub pleoape {composer: {Ovidiu Berghian}, {rcId: {241177}}
 
 [sequence]
 v1,c,v2,c

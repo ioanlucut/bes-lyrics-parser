@@ -1,5 +1,5 @@
 [title]
-Te iubesc isuse sunt pe veci al tau {author: {Anonim}, {rcId: {203364}}
+Te iubesc isuse sunt pe veci al tau {composer: {Anonim}, {rcId: {203364}}
 
 [sequence]
 v1,v2,v3,v4

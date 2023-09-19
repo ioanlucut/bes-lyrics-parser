@@ -1,5 +1,5 @@
 [title]
-Te binecuvantam pe tine {author: {Nicolae Moldoveanu}, {rcId: {225149}}
+Te binecuvantam pe tine {composer: {Nicolae Moldoveanu}, {rcId: {225149}}
 
 [sequence]
 v1,c,v2,c,v3,c

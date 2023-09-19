@@ -1,5 +1,5 @@
 [title]
-Pot sa spun {author: {Anonim}, {rcId: {62667}}
+Pot sa spun {composer: {Anonim}, {rcId: {62667}}
 
 [sequence]
 v1,c,e

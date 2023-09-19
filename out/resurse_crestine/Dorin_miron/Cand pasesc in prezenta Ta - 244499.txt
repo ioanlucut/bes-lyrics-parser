@@ -1,5 +1,5 @@
 [title]
-Cand pasesc in prezenta ta {author: {Dorin Miron}, {rcId: {244499}}
+Cand pasesc in prezenta ta {composer: {Dorin Miron}, {rcId: {244499}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

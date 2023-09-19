@@ -1,5 +1,5 @@
 [title]
-Zi de zi isuse drag {author: {Anonim}, {rcId: {4566}}
+Zi de zi isuse drag {composer: {Anonim}, {rcId: {4566}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

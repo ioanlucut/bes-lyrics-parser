@@ -1,5 +1,5 @@
 [title]
-Tu stand pe mal {author: {Anonim}, {rcId: {93745}}
+Tu stand pe mal {composer: {Anonim}, {rcId: {93745}}
 
 [sequence]
 v1,c,v2,c,v3,c

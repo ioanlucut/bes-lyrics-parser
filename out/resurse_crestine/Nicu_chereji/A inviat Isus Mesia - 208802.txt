@@ -1,5 +1,5 @@
 [title]
-A inviat isus mesia {author: {Nicu Chereji}, {rcId: {208802}}
+A inviat isus mesia {composer: {Nicu Chereji}, {rcId: {208802}}
 
 [sequence]
 v1,c,v2,c,v3,c

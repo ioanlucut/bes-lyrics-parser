@@ -1,5 +1,5 @@
 [title]
-Cantecul revelatiei {author: {Ekklesia}, {rcId: {76203}}
+Cantecul revelatiei {composer: {Ekklesia}, {rcId: {76203}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Cuvantul bun al mamei {author: {Nicolae Moldoveanu}, {rcId: {229652}}
+Cuvantul bun al mamei {composer: {Nicolae Moldoveanu}, {rcId: {229652}}
 
 [sequence]
 v1,v2,v3

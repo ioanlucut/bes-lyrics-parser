@@ -1,5 +1,5 @@
 [title]
-Domnu-i bun in veci de veci {author: {Anonim}, {rcId: {58835}}
+Domnu-i bun in veci de veci {composer: {Anonim}, {rcId: {58835}}
 
 [sequence]
 c,v1,c

@@ -1,5 +1,5 @@
 [title]
-Noi pe domnul laudam (let us with a gladsome mind) {author: {John Milton, Traducere RO}, {rcId: {236361}}
+Noi pe domnul laudam (let us with a gladsome mind) {composer: {John Milton, Traducere RO}, {rcId: {236361}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Chemat tu ai fost {author: {Adriana Stoica}, {rcId: {6826}}
+Chemat tu ai fost {composer: {Adriana Stoica}, {rcId: {6826}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Te vad cum plangi {author: {Daniela Haidaciuc}, {rcId: {172381}}
+Te vad cum plangi {composer: {Daniela Haidaciuc}, {rcId: {172381}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

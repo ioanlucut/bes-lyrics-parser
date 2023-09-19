@@ -1,5 +1,5 @@
 [title]
-N-ar fi frumoasa dimineata {author: {Puiu Chibici}, {rcId: {4044}}
+N-ar fi frumoasa dimineata {composer: {Puiu Chibici}, {rcId: {4044}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Cantam lui dumnezeu copii {author: {Nicolae Moldoveanu}, {rcId: {224477}}
+Cantam lui dumnezeu copii {composer: {Nicolae Moldoveanu}, {rcId: {224477}}
 
 [sequence]
 v1,c,v2,c,v3,c

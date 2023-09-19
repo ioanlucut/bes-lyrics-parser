@@ -1,5 +1,5 @@
 [title]
-Stai crestine te gandeste {author: {Anonim}, {rcId: {63349}}
+Stai crestine te gandeste {composer: {Anonim}, {rcId: {63349}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

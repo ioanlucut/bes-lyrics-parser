@@ -1,5 +1,5 @@
 [title]
-Ma lupt sa traiesc {author: {Florin Pal}, {rcId: {5155}}
+Ma lupt sa traiesc {composer: {Florin Pal}, {rcId: {5155}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

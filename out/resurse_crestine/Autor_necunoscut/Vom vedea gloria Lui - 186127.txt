@@ -1,5 +1,5 @@
 [title]
-Vom vedea gloria lui {author: {Anonim}, {rcId: {186127}}
+Vom vedea gloria lui {composer: {Anonim}, {rcId: {186127}}
 
 [sequence]
 v1,c

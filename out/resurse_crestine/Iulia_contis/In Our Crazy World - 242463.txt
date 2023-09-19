@@ -1,5 +1,5 @@
 [title]
-In our crazy world {author: {Iulia Contis}, {rcId: {242463}}
+In our crazy world {composer: {Iulia Contis}, {rcId: {242463}}
 
 [sequence]
 v1,v2

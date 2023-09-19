@@ -1,5 +1,5 @@
 [title]
-Daca treci prin incercare {author: {Diana și Andreea}, {rcId: {102308}}
+Daca treci prin incercare {composer: {Diana și Andreea}, {rcId: {102308}}
 
 [sequence]
 v1,c,v2,c,v3,c

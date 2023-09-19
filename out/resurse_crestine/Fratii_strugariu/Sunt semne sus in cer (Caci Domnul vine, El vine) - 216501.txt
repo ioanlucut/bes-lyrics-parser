@@ -1,5 +1,5 @@
 [title]
-Sunt semne sus in cer (caci domnul vine el vine) {author: {Frații Strugariu}, {rcId: {216501}}
+Sunt semne sus in cer (caci domnul vine el vine) {composer: {Frații Strugariu}, {rcId: {216501}}
 
 [sequence]
 v1,c,v2,c,v3,c

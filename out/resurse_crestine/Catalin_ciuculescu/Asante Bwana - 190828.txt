@@ -1,5 +1,5 @@
 [title]
-Asante bwana {author: {Cătălin Ciuculescu}, {rcId: {190828}}
+Asante bwana {composer: {Cătălin Ciuculescu}, {rcId: {190828}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-De iubirea ta {author: {Alexandru Groza}, {rcId: {193307}}
+De iubirea ta {composer: {Alexandru Groza}, {rcId: {193307}}
 
 [sequence]
 v1,c,v2,c

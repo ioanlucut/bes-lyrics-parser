@@ -1,5 +1,5 @@
 [title]
-Dragoste de rege {author: {CristoCentric}, {rcId: {84470}}
+Dragoste de rege {composer: {CristoCentric}, {rcId: {84470}}
 
 [sequence]
 v1,c

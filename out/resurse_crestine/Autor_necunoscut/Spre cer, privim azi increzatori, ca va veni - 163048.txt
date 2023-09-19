@@ -1,5 +1,5 @@
 [title]
-Spre cer privim azi increzatori ca va veni {author: {Anonim}, {rcId: {163048}}
+Spre cer privim azi increzatori ca va veni {composer: {Anonim}, {rcId: {163048}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

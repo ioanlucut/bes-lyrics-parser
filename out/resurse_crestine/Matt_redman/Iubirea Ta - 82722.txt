@@ -1,5 +1,5 @@
 [title]
-Iubirea ta {author: {Matt Redman}, {rcId: {82722}}
+Iubirea ta {composer: {Matt Redman}, {rcId: {82722}}
 
 [sequence]
 v1,c

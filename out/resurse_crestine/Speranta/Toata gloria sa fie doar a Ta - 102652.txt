@@ -1,5 +1,5 @@
 [title]
-Toata gloria sa fie doar a ta {author: {Speranța}, {rcId: {102652}}
+Toata gloria sa fie doar a ta {composer: {Speranța}, {rcId: {102652}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

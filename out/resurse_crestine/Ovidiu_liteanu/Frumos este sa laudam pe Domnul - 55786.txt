@@ -1,5 +1,5 @@
 [title]
-Frumos este sa laudam pe domnul {author: {Ovidiu Liteanu}, {rcId: {55786}}
+Frumos este sa laudam pe domnul {composer: {Ovidiu Liteanu}, {rcId: {55786}}
 
 [sequence]
 v1,c,v2,c,v3,c

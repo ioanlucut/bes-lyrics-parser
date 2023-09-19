@@ -1,5 +1,5 @@
 [title]
-M-alunga soapta cugetului meu {author: {Anonim}, {rcId: {6672}}
+M-alunga soapta cugetului meu {composer: {Anonim}, {rcId: {6672}}
 
 [sequence]
 v1,v2,v3

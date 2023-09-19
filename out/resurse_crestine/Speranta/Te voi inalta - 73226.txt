@@ -1,5 +1,5 @@
 [title]
-Te voi inalta {author: {Speranța}, {rcId: {73226}}
+Te voi inalta {composer: {Speranța}, {rcId: {73226}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

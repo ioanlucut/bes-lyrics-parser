@@ -1,5 +1,5 @@
 [title]
-Cand domnul te-ncearca {author: {Anonim}, {rcId: {2135}}
+Cand domnul te-ncearca {composer: {Anonim}, {rcId: {2135}}
 
 [sequence]
 v1,v2,v3,v4,v5

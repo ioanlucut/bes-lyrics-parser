@@ -1,5 +1,5 @@
 [title]
-O zi {author: {Diaz Amos}, {rcId: {238704}}
+O zi {composer: {Diaz Amos}, {rcId: {238704}}
 
 [sequence]
 v1,c,v2,c,v3,c

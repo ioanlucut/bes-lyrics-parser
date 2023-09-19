@@ -1,5 +1,5 @@
 [title]
-Atatea conflicte in lume {author: {Simion Bolohan}, {rcId: {246415}}
+Atatea conflicte in lume {composer: {Simion Bolohan}, {rcId: {246415}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

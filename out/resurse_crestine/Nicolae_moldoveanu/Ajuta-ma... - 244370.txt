@@ -1,5 +1,5 @@
 [title]
-Ajuta-ma {author: {Nicolae Moldoveanu}, {rcId: {244370}}
+Ajuta-ma {composer: {Nicolae Moldoveanu}, {rcId: {244370}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-M-am hotarat sa-l urmez pe isus {author: {Anonim}, {rcId: {239478}}
+M-am hotarat sa-l urmez pe isus {composer: {Anonim}, {rcId: {239478}}
 
 [sequence]
 v1,v2,v3,v4,v5

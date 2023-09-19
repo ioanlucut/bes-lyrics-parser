@@ -1,5 +1,5 @@
 [title]
-Te-am cunoscut demult odata {author: {Anonim}, {rcId: {66539}}
+Te-am cunoscut demult odata {composer: {Anonim}, {rcId: {66539}}
 
 [sequence]
 v1,v2,c,e

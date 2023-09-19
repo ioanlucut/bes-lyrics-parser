@@ -1,5 +1,5 @@
 [title]
-Fii inaltat domn preainalt {author: {Speranța}, {rcId: {233762}}
+Fii inaltat domn preainalt {composer: {Speranța}, {rcId: {233762}}
 
 [sequence]
 v1,b,c,v2,c,e

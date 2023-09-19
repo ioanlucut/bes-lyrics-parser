@@ -1,5 +1,5 @@
 [title]
-Te vad isuse ca prin vis {author: {Anonim}, {rcId: {5495}}
+Te vad isuse ca prin vis {composer: {Anonim}, {rcId: {5495}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8,v9,v10,v11

@@ -1,5 +1,5 @@
 [title]
-Te laud doamne-n casa ta {author: {Anonim}, {rcId: {74581}}
+Te laud doamne-n casa ta {composer: {Anonim}, {rcId: {74581}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

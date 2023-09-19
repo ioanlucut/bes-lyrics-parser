@@ -1,5 +1,5 @@
 [title]
-Astept dimineata {author: {Emanuel Hasan și Ludovic Arman}, {rcId: {159292}}
+Astept dimineata {composer: {Emanuel Hasan și Ludovic Arman}, {rcId: {159292}}
 
 [sequence]
 v1,c,v2,c,v3,c

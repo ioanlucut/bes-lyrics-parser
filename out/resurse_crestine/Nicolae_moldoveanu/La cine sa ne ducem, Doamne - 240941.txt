@@ -1,5 +1,5 @@
 [title]
-La cine sa ne ducem doamne {author: {Nicolae Moldoveanu}, {rcId: {240941}}
+La cine sa ne ducem doamne {composer: {Nicolae Moldoveanu}, {rcId: {240941}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c

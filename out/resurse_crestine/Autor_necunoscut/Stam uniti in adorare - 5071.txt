@@ -1,5 +1,5 @@
 [title]
-Stam uniti in adorare {author: {Anonim}, {rcId: {5071}}
+Stam uniti in adorare {composer: {Anonim}, {rcId: {5071}}
 
 [sequence]
 c,v1,c

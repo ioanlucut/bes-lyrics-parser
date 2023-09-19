@@ -1,5 +1,5 @@
 [title]
-Iubirea ta invesnicita {author: {Nicolae Moldoveanu}, {rcId: {244056}}
+Iubirea ta invesnicita {composer: {Nicolae Moldoveanu}, {rcId: {244056}}
 
 [sequence]
 v1,v2,v3,v4

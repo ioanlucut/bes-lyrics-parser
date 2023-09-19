@@ -1,5 +1,5 @@
 [title]
-Un prieten adevarat (tututor vreau sa va spun ca am gasit un prieten bun) {author: {Speranța}, {rcId: {128819}}
+Un prieten adevarat (tututor vreau sa va spun ca am gasit un prieten bun) {composer: {Speranța}, {rcId: {128819}}
 
 [sequence]
 v1,c,v2,c,v3,c

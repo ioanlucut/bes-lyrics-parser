@@ -1,5 +1,5 @@
 [title]
-Prin duhul sfant {author: {Grupul Nadejdea, Lavinia Șipoș}, {rcId: {142596}}
+Prin duhul sfant {composer: {Grupul Nadejdea, Lavinia Șipoș}, {rcId: {142596}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Ai fost tu sa-l vezi cum se roaga-n gradina {author: {Puiu Chibici}, {rcId: {4410}}
+Ai fost tu sa-l vezi cum se roaga-n gradina {composer: {Puiu Chibici}, {rcId: {4410}}
 
 [sequence]
 v1,v2,v3,v4,v5

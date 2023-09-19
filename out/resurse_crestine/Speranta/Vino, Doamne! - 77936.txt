@@ -1,5 +1,5 @@
 [title]
-Vino doamne {author: {Speranța}, {rcId: {77936}}
+Vino doamne {composer: {Speranța}, {rcId: {77936}}
 
 [sequence]
 v1,c,v2,b,c,e

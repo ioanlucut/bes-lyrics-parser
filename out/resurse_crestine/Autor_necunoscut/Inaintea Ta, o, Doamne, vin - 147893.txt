@@ -1,5 +1,5 @@
 [title]
-Inaintea ta o doamne vin {author: {Anonim}, {rcId: {147893}}
+Inaintea ta o doamne vin {composer: {Anonim}, {rcId: {147893}}
 
 [sequence]
 v1,c,v2,c,v3,c

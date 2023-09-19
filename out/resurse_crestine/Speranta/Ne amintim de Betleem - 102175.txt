@@ -1,5 +1,5 @@
 [title]
-Ne amintim de betleem {author: {Speranța}, {rcId: {102175}}
+Ne amintim de betleem {composer: {Speranța}, {rcId: {102175}}
 
 [sequence]
 v1,v2,v3

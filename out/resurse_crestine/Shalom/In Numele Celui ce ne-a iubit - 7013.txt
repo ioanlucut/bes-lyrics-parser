@@ -1,5 +1,5 @@
 [title]
-In numele celui ce ne-a iubit {author: {Shalom}, {rcId: {7013}}
+In numele celui ce ne-a iubit {composer: {Shalom}, {rcId: {7013}}
 
 [sequence]
 v1,v2,v3

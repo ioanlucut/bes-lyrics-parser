@@ -1,5 +1,5 @@
 [title]
-Ai trait o viata-ntreaga {author: {Nicolae Moldoveanu}, {rcId: {244435}}
+Ai trait o viata-ntreaga {composer: {Nicolae Moldoveanu}, {rcId: {244435}}
 
 [sequence]
 v1,v2,v3,v4

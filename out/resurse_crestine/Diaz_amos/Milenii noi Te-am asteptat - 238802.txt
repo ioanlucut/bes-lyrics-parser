@@ -1,5 +1,5 @@
 [title]
-Milenii noi te-am asteptat {author: {Diaz Amos}, {rcId: {238802}}
+Milenii noi te-am asteptat {composer: {Diaz Amos}, {rcId: {238802}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Langa tine doamne e-asa de bine (lauda mea esti tu isus) {author: {Familia Mihai}, {rcId: {230962}}
+Langa tine doamne e-asa de bine (lauda mea esti tu isus) {composer: {Familia Mihai}, {rcId: {230962}}
 
 [sequence]
 v1,c,v2,b,c

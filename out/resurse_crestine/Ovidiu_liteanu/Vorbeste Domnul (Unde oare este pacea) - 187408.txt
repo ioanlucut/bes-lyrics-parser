@@ -1,5 +1,5 @@
 [title]
-Vorbeste domnul (unde oare este pacea) {author: {Ovidiu Liteanu}, {rcId: {187408}}
+Vorbeste domnul (unde oare este pacea) {composer: {Ovidiu Liteanu}, {rcId: {187408}}
 
 [sequence]
 v1,c,v2,c,v3,c

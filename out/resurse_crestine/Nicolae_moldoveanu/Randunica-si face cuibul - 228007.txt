@@ -1,5 +1,5 @@
 [title]
-Randunica-si face cuibul {author: {Nicolae Moldoveanu}, {rcId: {228007}}
+Randunica-si face cuibul {composer: {Nicolae Moldoveanu}, {rcId: {228007}}
 
 [sequence]
 v1,v2,v3

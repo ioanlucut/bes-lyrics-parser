@@ -1,5 +1,5 @@
 [title]
-La betleem in iesle (zu bethlehem geboren) {author: {Friedrich Spee, Traducere RO}, {rcId: {222182}}
+La betleem in iesle (zu bethlehem geboren) {composer: {Friedrich Spee, Traducere RO}, {rcId: {222182}}
 
 [sequence]
 v1,v2,v3

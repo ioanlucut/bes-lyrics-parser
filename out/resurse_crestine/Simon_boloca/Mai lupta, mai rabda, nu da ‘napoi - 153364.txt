@@ -1,5 +1,5 @@
 [title]
-Mai lupta mai rabda nu da napoi {author: {Simon Boloca}, {rcId: {153364}}
+Mai lupta mai rabda nu da napoi {composer: {Simon Boloca}, {rcId: {153364}}
 
 [sequence]
 v1,c,v2,c,v3,c

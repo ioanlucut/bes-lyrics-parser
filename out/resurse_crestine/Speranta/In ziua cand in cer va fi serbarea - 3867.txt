@@ -1,5 +1,5 @@
 [title]
-In ziua cand in cer va fi serbarea {author: {Speranța}, {rcId: {3867}}
+In ziua cand in cer va fi serbarea {composer: {Speranța}, {rcId: {3867}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

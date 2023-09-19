@@ -1,5 +1,5 @@
 [title]
-Vreau sa-ti multumesc isus {author: {Nicolae Zamfir}, {rcId: {196117}}
+Vreau sa-ti multumesc isus {composer: {Nicolae Zamfir}, {rcId: {196117}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c

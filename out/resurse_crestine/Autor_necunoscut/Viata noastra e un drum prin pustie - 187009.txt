@@ -1,5 +1,5 @@
 [title]
-Viata noastra e un drum prin pustie {author: {Anonim}, {rcId: {187009}}
+Viata noastra e un drum prin pustie {composer: {Anonim}, {rcId: {187009}}
 
 [sequence]
 v1,v2,c,c,v3,c,v4,c

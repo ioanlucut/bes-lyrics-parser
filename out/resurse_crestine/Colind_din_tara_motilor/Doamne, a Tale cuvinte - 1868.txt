@@ -1,5 +1,5 @@
 [title]
-Doamne a tale cuvinte {author: {Colind din tara motilor}, {rcId: {1868}}
+Doamne a tale cuvinte {composer: {Colind din tara motilor}, {rcId: {1868}}
 
 [sequence]
 v1,v2,v3,v4

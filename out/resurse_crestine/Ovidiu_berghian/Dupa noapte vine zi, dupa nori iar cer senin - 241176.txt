@@ -1,5 +1,5 @@
 [title]
-Dupa noapte vine zi dupa nori iar cer senin {author: {Ovidiu Berghian}, {rcId: {241176}}
+Dupa noapte vine zi dupa nori iar cer senin {composer: {Ovidiu Berghian}, {rcId: {241176}}
 
 [sequence]
 v1,b,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Vreau mai mult {author: {Gabi Ilut}, {rcId: {229574}}
+Vreau mai mult {composer: {Gabi Ilut}, {rcId: {229574}}
 
 [sequence]
 v1,c,v2,c

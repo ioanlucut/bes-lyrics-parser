@@ -1,5 +1,5 @@
 [title]
-Comoara mea {author: {Revive}, {rcId: {204184}}
+Comoara mea {composer: {Revive}, {rcId: {204184}}
 
 [sequence]
 v1,v2,c,v3,c

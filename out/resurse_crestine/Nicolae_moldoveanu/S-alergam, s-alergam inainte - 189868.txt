@@ -1,5 +1,5 @@
 [title]
-S-alergam s-alergam inainte {author: {Nicolae Moldoveanu}, {rcId: {189868}}
+S-alergam s-alergam inainte {composer: {Nicolae Moldoveanu}, {rcId: {189868}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

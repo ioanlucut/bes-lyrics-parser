@@ -1,5 +1,5 @@
 [title]
-Uneori ma tem {author: {Adi Gliga}, {rcId: {158787}}
+Uneori ma tem {composer: {Adi Gliga}, {rcId: {158787}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Un pitigoi {author: {Nicolae Moldoveanu}, {rcId: {234813}}
+Un pitigoi {composer: {Nicolae Moldoveanu}, {rcId: {234813}}
 
 [sequence]
 v1,v2,v3

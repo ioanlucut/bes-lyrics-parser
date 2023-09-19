@@ -1,5 +1,5 @@
 [title]
-Fratilor ne-am adunat acuma {author: {Nicolae Moldoveanu}, {rcId: {5831}}
+Fratilor ne-am adunat acuma {composer: {Nicolae Moldoveanu}, {rcId: {5831}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-E-asa tarziu {author: {Daniel Briciu}, {rcId: {240341}}
+E-asa tarziu {composer: {Daniel Briciu}, {rcId: {240341}}
 
 [sequence]
 v1,c,v2,c,v3,c

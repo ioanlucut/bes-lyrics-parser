@@ -1,5 +1,5 @@
 [title]
-Azi e ziua nuntii tale {author: {Ioan Chismorie}, {rcId: {3826}}
+Azi e ziua nuntii tale {composer: {Ioan Chismorie}, {rcId: {3826}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

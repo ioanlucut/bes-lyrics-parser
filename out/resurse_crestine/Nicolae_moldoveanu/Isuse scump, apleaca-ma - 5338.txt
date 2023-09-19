@@ -1,5 +1,5 @@
 [title]
-Isuse scump apleaca-ma {author: {Nicolae Moldoveanu}, {rcId: {5338}}
+Isuse scump apleaca-ma {composer: {Nicolae Moldoveanu}, {rcId: {5338}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

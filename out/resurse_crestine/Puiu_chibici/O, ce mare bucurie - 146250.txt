@@ -1,5 +1,5 @@
 [title]
-O ce mare bucurie {author: {Puiu Chibici}, {rcId: {146250}}
+O ce mare bucurie {composer: {Puiu Chibici}, {rcId: {146250}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Pentru cine-ti bate bate? {author: {Anonim}, {rcId: {201243}}
+Pentru cine-ti bate bate? {composer: {Anonim}, {rcId: {201243}}
 
 [sequence]
 v1,v2,v3,v4,v5

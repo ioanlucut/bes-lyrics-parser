@@ -1,5 +1,5 @@
 [title]
-Viata cu hristos mi-a dat tot ce-i mai frumos {author: {Grupul Betel, Dumbraveni}, {rcId: {66581}}
+Viata cu hristos mi-a dat tot ce-i mai frumos {composer: {Grupul Betel, Dumbraveni}, {rcId: {66581}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Sa fiu adevar in credinta {author: {Nicolae Moldoveanu}, {rcId: {186324}}
+Sa fiu adevar in credinta {composer: {Nicolae Moldoveanu}, {rcId: {186324}}
 
 [sequence]
 v1,v2,v3,v4,v5

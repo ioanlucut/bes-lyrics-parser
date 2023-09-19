@@ -1,5 +1,5 @@
 [title]
-Domnul a iubit copiii {author: {Alexandru Groza}, {rcId: {193525}}
+Domnul a iubit copiii {composer: {Alexandru Groza}, {rcId: {193525}}
 
 [sequence]
 v1,c,v2,c

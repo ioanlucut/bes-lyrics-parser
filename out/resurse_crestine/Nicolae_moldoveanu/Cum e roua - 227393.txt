@@ -1,5 +1,5 @@
 [title]
-Cum e roua {author: {Nicolae Moldoveanu}, {rcId: {227393}}
+Cum e roua {composer: {Nicolae Moldoveanu}, {rcId: {227393}}
 
 [sequence]
 v1,v2

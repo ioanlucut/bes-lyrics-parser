@@ -1,5 +1,5 @@
 [title]
-Psalmul {author: {Speranța}, {rcId: {101951}}
+Psalmul {composer: {Speranța}, {rcId: {101951}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Imbraca haina de lauda {author: {Anonim}, {rcId: {219928}}
+Imbraca haina de lauda {composer: {Anonim}, {rcId: {219928}}
 
 [sequence]
 v1,c,c

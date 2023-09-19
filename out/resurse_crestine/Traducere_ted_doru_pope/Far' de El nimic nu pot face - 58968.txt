@@ -1,5 +1,5 @@
 [title]
-Far de el nimic nu pot face {author: {Traducere Ted Doru Pope}, {rcId: {58968}}
+Far de el nimic nu pot face {composer: {Traducere Ted Doru Pope}, {rcId: {58968}}
 
 [sequence]
 v1,c,v2,c

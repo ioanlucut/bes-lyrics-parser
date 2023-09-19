@@ -1,5 +1,5 @@
 [title]
-Se-aude clar in departari - glorie lui {author: {Casting Crowns varianta BBSO}, {rcId: {238317}}
+Se-aude clar in departari - glorie lui {composer: {Casting Crowns varianta BBSO}, {rcId: {238317}}
 
 [sequence]
 v1,c,v2,c,e,v3,c2

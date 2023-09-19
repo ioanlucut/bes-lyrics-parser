@@ -1,5 +1,5 @@
 [title]
-My hope {author: {Hillsong, Traducere RO}, {rcId: {4070}}
+My hope {composer: {Hillsong, Traducere RO}, {rcId: {4070}}
 
 [sequence]
 v1,v2,v3

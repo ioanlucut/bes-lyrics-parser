@@ -1,5 +1,5 @@
 [title]
-Popoare vor sta naintea ta {author: {Anonim}, {rcId: {5041}}
+Popoare vor sta naintea ta {composer: {Anonim}, {rcId: {5041}}
 
 [sequence]
 v1,c,v2,c

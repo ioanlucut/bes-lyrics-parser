@@ -1,5 +1,5 @@
 [title]
-Ora frumoasa a sosit {author: {Anonim}, {rcId: {141457}}
+Ora frumoasa a sosit {composer: {Anonim}, {rcId: {141457}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Trece isus prin ierusalim {author: {Anonim}, {rcId: {154806}}
+Trece isus prin ierusalim {composer: {Anonim}, {rcId: {154806}}
 
 [sequence]
 v1,c,v2,c,v3,c

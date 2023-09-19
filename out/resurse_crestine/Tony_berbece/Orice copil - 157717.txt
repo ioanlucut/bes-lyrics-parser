@@ -1,5 +1,5 @@
 [title]
-Orice copil {author: {Tony Berbece}, {rcId: {157717}}
+Orice copil {composer: {Tony Berbece}, {rcId: {157717}}
 
 [sequence]
 v1,b,c,v2,c

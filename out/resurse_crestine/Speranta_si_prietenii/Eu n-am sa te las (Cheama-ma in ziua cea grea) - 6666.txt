@@ -1,5 +1,5 @@
 [title]
-Eu n-am sa te las (cheama-ma in ziua cea grea) {author: {Speranța și prietenii}, {rcId: {6666}}
+Eu n-am sa te las (cheama-ma in ziua cea grea) {composer: {Speranța și prietenii}, {rcId: {6666}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4,c5

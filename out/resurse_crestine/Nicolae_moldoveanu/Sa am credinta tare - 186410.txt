@@ -1,5 +1,5 @@
 [title]
-Sa am credinta tare {author: {Nicolae Moldoveanu}, {rcId: {186410}}
+Sa am credinta tare {composer: {Nicolae Moldoveanu}, {rcId: {186410}}
 
 [sequence]
 v1,v2,v3

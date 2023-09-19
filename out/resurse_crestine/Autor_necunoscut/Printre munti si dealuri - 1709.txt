@@ -1,5 +1,5 @@
 [title]
-Printre munti si dealuri {author: {Anonim}, {rcId: {1709}}
+Printre munti si dealuri {composer: {Anonim}, {rcId: {1709}}
 
 [sequence]
 v1,v2,v3,v4

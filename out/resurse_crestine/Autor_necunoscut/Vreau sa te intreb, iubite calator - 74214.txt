@@ -1,5 +1,5 @@
 [title]
-Vreau sa te intreb iubite calator {author: {Anonim}, {rcId: {74214}}
+Vreau sa te intreb iubite calator {composer: {Anonim}, {rcId: {74214}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4,v5,c5

@@ -1,5 +1,5 @@
 [title]
-Anii vietii {author: {Carmen Prodan}, {rcId: {169675}}
+Anii vietii {composer: {Carmen Prodan}, {rcId: {169675}}
 
 [sequence]
 v1,v2,v3,v4

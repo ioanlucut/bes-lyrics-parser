@@ -1,5 +1,5 @@
 [title]
-Mai mult ca aerul {author: {Anonim}, {rcId: {62684}}
+Mai mult ca aerul {composer: {Anonim}, {rcId: {62684}}
 
 [sequence]
 v1,v2,v3,v4

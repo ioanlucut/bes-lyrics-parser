@@ -1,5 +1,5 @@
 [title]
-De e vant sau de-i furtuna {author: {Anonim}, {rcId: {4882}}
+De e vant sau de-i furtuna {composer: {Anonim}, {rcId: {4882}}
 
 [sequence]
 v1,v2

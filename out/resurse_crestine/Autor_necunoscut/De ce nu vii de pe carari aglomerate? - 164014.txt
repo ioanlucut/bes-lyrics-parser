@@ -1,5 +1,5 @@
 [title]
-De ce nu vii de pe carari aglomerate? {author: {Anonim}, {rcId: {164014}}
+De ce nu vii de pe carari aglomerate? {composer: {Anonim}, {rcId: {164014}}
 
 [sequence]
 v1,c,v2,c,v3,c

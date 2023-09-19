@@ -1,5 +1,5 @@
 [title]
-Mainile mi le ridic (prezenta ta eu vreau sa o simt) {author: {Anonim}, {rcId: {236363}}
+Mainile mi le ridic (prezenta ta eu vreau sa o simt) {composer: {Anonim}, {rcId: {236363}}
 
 [sequence]
 v1,c,v2,c

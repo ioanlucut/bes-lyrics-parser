@@ -1,5 +1,5 @@
 [title]
-E scris in sulul cartii {author: {Puiu Chibici}, {rcId: {60418}}
+E scris in sulul cartii {composer: {Puiu Chibici}, {rcId: {60418}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

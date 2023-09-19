@@ -1,5 +1,5 @@
 [title]
-Mai aproape de tine {author: {Dorin Mihai}, {rcId: {220647}}
+Mai aproape de tine {composer: {Dorin Mihai}, {rcId: {220647}}
 
 [sequence]
 v1,c,v2,c,c

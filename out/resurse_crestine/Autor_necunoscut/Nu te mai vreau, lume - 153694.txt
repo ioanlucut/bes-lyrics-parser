@@ -1,5 +1,5 @@
 [title]
-Nu te mai vreau lume {author: {Anonim}, {rcId: {153694}}
+Nu te mai vreau lume {composer: {Anonim}, {rcId: {153694}}
 
 [sequence]
 v1,c,c,v2,c2,c2,v3,c3,c4,c3

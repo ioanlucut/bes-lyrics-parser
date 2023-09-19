@@ -1,5 +1,5 @@
 [title]
-Fara isus nu poti trai {author: {Alexandru Groza}, {rcId: {110971}}
+Fara isus nu poti trai {composer: {Alexandru Groza}, {rcId: {110971}}
 
 [sequence]
 v1,c,v2,c

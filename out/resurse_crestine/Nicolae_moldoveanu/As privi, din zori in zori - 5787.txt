@@ -1,5 +1,5 @@
 [title]
-As privi din zori in zori {author: {Nicolae Moldoveanu}, {rcId: {5787}}
+As privi din zori in zori {composer: {Nicolae Moldoveanu}, {rcId: {5787}}
 
 [sequence]
 v1,c,v2,c,v3,c2

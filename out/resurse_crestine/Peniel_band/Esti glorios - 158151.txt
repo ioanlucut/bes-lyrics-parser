@@ -1,5 +1,5 @@
 [title]
-Esti glorios {author: {Peniel Band}, {rcId: {158151}}
+Esti glorios {composer: {Peniel Band}, {rcId: {158151}}
 
 [sequence]
 v1,b,c,v2,b,c,e

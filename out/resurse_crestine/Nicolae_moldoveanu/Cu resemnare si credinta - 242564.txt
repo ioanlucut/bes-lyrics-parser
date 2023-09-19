@@ -1,5 +1,5 @@
 [title]
-Cu resemnare si credinta {author: {Nicolae Moldoveanu}, {rcId: {242564}}
+Cu resemnare si credinta {composer: {Nicolae Moldoveanu}, {rcId: {242564}}
 
 [sequence]
 v1,v2,v3,v4,v5

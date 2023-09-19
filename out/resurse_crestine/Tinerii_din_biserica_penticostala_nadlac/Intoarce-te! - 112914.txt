@@ -1,5 +1,5 @@
 [title]
-Intoarce-te {author: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {112914}}
+Intoarce-te {composer: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {112914}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

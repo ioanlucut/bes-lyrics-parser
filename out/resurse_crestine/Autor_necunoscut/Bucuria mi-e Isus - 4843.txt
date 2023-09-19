@@ -1,5 +1,5 @@
 [title]
-Bucuria mi-e isus {author: {Anonim}, {rcId: {4843}}
+Bucuria mi-e isus {composer: {Anonim}, {rcId: {4843}}
 
 [sequence]
 v1,v2,v3,v4,v5

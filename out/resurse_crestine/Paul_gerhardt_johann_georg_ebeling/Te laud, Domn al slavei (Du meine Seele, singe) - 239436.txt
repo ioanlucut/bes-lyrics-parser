@@ -1,5 +1,5 @@
 [title]
-Te laud domn al slavei (du meine seele singe) {author: {Paul Gerhardt, Johann Georg Ebeling, Traducere RO}, {rcId: {239436}}
+Te laud domn al slavei (du meine seele singe) {composer: {Paul Gerhardt, Johann Georg Ebeling, Traducere RO}, {rcId: {239436}}
 
 [sequence]
 v1,v2,v3

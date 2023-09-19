@@ -1,5 +1,5 @@
 [title]
-Chemat din departare- israel {author: {Sorina Ureche}, {rcId: {219705}}
+Chemat din departare- israel {composer: {Sorina Ureche}, {rcId: {219705}}
 
 [sequence]
 v1,c,v2,c

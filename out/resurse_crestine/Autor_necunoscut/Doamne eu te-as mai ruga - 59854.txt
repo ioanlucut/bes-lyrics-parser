@@ -1,5 +1,5 @@
 [title]
-Doamne eu te-as mai ruga {author: {Anonim}, {rcId: {59854}}
+Doamne eu te-as mai ruga {composer: {Anonim}, {rcId: {59854}}
 
 [sequence]
 v1,v2,v3

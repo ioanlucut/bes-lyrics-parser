@@ -1,5 +1,5 @@
 [title]
-Noua azi ni s-a nascut {author: {Anonim}, {rcId: {74422}}
+Noua azi ni s-a nascut {composer: {Anonim}, {rcId: {74422}}
 
 [sequence]
 v1,c

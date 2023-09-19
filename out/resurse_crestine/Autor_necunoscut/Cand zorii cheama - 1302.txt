@@ -1,5 +1,5 @@
 [title]
-Cand zorii cheama {author: {Anonim}, {rcId: {1302}}
+Cand zorii cheama {composer: {Anonim}, {rcId: {1302}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Iti multumesc ca m-ai facut {author: {Nicolae Moldoveanu}, {rcId: {247875}}
+Iti multumesc ca m-ai facut {composer: {Nicolae Moldoveanu}, {rcId: {247875}}
 
 [sequence]
 v1,v2,v3

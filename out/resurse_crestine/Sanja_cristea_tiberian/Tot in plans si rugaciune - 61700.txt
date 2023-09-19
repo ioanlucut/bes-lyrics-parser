@@ -1,5 +1,5 @@
 [title]
-Tot in plans si rugaciune {author: {Sanja Cristea Tiberian}, {rcId: {61700}}
+Tot in plans si rugaciune {composer: {Sanja Cristea Tiberian}, {rcId: {61700}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Te cunosc {author: {Adi Kovaci}, {rcId: {179901}}
+Te cunosc {composer: {Adi Kovaci}, {rcId: {179901}}
 
 [sequence]
 v1,c,v2,c2,c3

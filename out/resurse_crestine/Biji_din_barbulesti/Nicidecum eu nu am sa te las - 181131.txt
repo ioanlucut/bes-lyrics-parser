@@ -1,5 +1,5 @@
 [title]
-Nicidecum eu nu am sa te las {author: {Biji din Barbulesti}, {rcId: {181131}}
+Nicidecum eu nu am sa te las {composer: {Biji din Barbulesti}, {rcId: {181131}}
 
 [sequence]
 v1,c,v2,c2

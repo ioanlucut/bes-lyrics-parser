@@ -1,5 +1,5 @@
 [title]
-Nu-i departe vremea {author: {David Stănuș}, {rcId: {153037}}
+Nu-i departe vremea {composer: {David Stănuș}, {rcId: {153037}}
 
 [sequence]
 v1,c,v2,c,v3,c

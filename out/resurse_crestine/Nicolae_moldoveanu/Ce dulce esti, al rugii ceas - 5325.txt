@@ -1,5 +1,5 @@
 [title]
-Ce dulce esti al rugii ceas {author: {Nicolae Moldoveanu}, {rcId: {5325}}
+Ce dulce esti al rugii ceas {composer: {Nicolae Moldoveanu}, {rcId: {5325}}
 
 [sequence]
 v1,v2,v3

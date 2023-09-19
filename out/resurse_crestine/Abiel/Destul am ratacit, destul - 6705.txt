@@ -1,5 +1,5 @@
 [title]
-Destul am ratacit destul {author: {Abiel}, {rcId: {6705}}
+Destul am ratacit destul {composer: {Abiel}, {rcId: {6705}}
 
 [sequence]
 v1,c,v2,c

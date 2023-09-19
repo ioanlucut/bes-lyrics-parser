@@ -1,5 +1,5 @@
 [title]
-Nu vreau sa fiu ingrijorat {author: {Nihil sine Deo}, {rcId: {4365}}
+Nu vreau sa fiu ingrijorat {composer: {Nihil sine Deo}, {rcId: {4365}}
 
 [sequence]
 v1,c,v2,c,e

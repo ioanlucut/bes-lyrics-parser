@@ -1,5 +1,5 @@
 [title]
-Traia odata-n israel un om ce domnul il iubea {author: {Gheorghe Zoltan}, {rcId: {75158}}
+Traia odata-n israel un om ce domnul il iubea {composer: {Gheorghe Zoltan}, {rcId: {75158}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

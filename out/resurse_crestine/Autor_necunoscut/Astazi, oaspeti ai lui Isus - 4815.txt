@@ -1,5 +1,5 @@
 [title]
-Astazi oaspeti ai lui isus {author: {Anonim}, {rcId: {4815}}
+Astazi oaspeti ai lui isus {composer: {Anonim}, {rcId: {4815}}
 
 [sequence]
 v1,v2

@@ -1,5 +1,5 @@
 [title]
-Avem atatea bucurii de cand pe isus avem {author: {Anonim}, {rcId: {59203}}
+Avem atatea bucurii de cand pe isus avem {composer: {Anonim}, {rcId: {59203}}
 
 [sequence]
 v1,c,v2,c,v3,c

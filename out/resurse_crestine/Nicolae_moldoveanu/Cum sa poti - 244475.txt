@@ -1,5 +1,5 @@
 [title]
-Cum sa poti {author: {Nicolae Moldoveanu}, {rcId: {244475}}
+Cum sa poti {composer: {Nicolae Moldoveanu}, {rcId: {244475}}
 
 [sequence]
 v1,v2,v3

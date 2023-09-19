@@ -1,5 +1,5 @@
 [title]
-Ce mai conteaza o secunda( sunt clipe in viata ce dor ca si o rana ) {author: {Ioan Timofte}, {rcId: {76111}}
+Ce mai conteaza o secunda( sunt clipe in viata ce dor ca si o rana ) {composer: {Ioan Timofte}, {rcId: {76111}}
 
 [sequence]
 v1,c,v2,c

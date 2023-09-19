@@ -1,5 +1,5 @@
 [title]
-Priveste-o doamne la poporul tau din lume {author: {Marius Bădău}, {rcId: {144848}}
+Priveste-o doamne la poporul tau din lume {composer: {Marius Bădău}, {rcId: {144848}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8

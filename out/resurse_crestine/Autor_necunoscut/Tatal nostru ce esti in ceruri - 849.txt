@@ -1,5 +1,5 @@
 [title]
-Tatal nostru ce esti in ceruri {author: {Anonim}, {rcId: {849}}
+Tatal nostru ce esti in ceruri {composer: {Anonim}, {rcId: {849}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

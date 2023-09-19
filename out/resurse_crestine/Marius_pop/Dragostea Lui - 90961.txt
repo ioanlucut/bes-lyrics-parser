@@ -1,5 +1,5 @@
 [title]
-Dragostea lui {author: {Marius Pop}, {rcId: {90961}}
+Dragostea lui {composer: {Marius Pop}, {rcId: {90961}}
 
 [sequence]
 v1,c,v2,c,e

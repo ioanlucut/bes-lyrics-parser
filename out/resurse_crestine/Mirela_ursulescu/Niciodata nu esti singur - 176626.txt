@@ -1,5 +1,5 @@
 [title]
-Niciodata nu esti singur {author: {Mirela Ursulescu}, {rcId: {176626}}
+Niciodata nu esti singur {composer: {Mirela Ursulescu}, {rcId: {176626}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

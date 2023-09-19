@@ -1,5 +1,5 @@
 [title]
-Ajuta-ma s-alerg s-alerg {author: {Nicolae Moldoveanu}, {rcId: {5354}}
+Ajuta-ma s-alerg s-alerg {composer: {Nicolae Moldoveanu}, {rcId: {5354}}
 
 [sequence]
 v1,v2,v3,v4,v5

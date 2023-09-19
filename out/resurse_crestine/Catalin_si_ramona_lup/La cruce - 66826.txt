@@ -1,5 +1,5 @@
 [title]
-La cruce {author: {Cătălin și Ramona Lup}, {rcId: {66826}}
+La cruce {composer: {Cătălin și Ramona Lup}, {rcId: {66826}}
 
 [sequence]
 v1,c,e

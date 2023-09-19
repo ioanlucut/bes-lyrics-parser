@@ -1,5 +1,5 @@
 [title]
-Haideti toti cu mic cu mare {author: {Anonim}, {rcId: {6811}}
+Haideti toti cu mic cu mare {composer: {Anonim}, {rcId: {6811}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Chemarea lui {author: {Daniel Cristian}, {rcId: {179805}}
+Chemarea lui {composer: {Daniel Cristian}, {rcId: {179805}}
 
 [sequence]
 v1

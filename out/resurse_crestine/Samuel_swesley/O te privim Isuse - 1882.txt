@@ -1,5 +1,5 @@
 [title]
-O te privim isuse {author: {Samuel S.Wesley}, {rcId: {1882}}
+O te privim isuse {composer: {Samuel S.Wesley}, {rcId: {1882}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Auzi ingerii in cor {author: {Anonim}, {rcId: {2832}}
+Auzi ingerii in cor {composer: {Anonim}, {rcId: {2832}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

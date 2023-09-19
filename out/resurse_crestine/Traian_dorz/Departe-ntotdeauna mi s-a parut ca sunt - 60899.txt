@@ -1,5 +1,5 @@
 [title]
-Departe-ntotdeauna mi s-a parut ca sunt {author: {Traian Dorz}, {rcId: {60899}}
+Departe-ntotdeauna mi s-a parut ca sunt {composer: {Traian Dorz}, {rcId: {60899}}
 
 [sequence]
 v1,v2,v3,v4

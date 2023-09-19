@@ -1,5 +1,5 @@
 [title]
-Ce bine e ca sa stii {author: {Anonim}, {rcId: {74288}}
+Ce bine e ca sa stii {composer: {Anonim}, {rcId: {74288}}
 
 [sequence]
 v1,c,v2,c,v3,c

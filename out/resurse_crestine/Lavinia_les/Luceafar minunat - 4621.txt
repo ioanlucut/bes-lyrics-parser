@@ -1,5 +1,5 @@
 [title]
-Luceafar minunat {author: {Lavinia Leș}, {rcId: {4621}}
+Luceafar minunat {composer: {Lavinia Leș}, {rcId: {4621}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

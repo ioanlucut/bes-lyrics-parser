@@ -1,5 +1,5 @@
 [title]
-Inima mea iti spune iubire {author: {Hristos pentru România}, {rcId: {4513}}
+Inima mea iti spune iubire {composer: {Hristos pentru România}, {rcId: {4513}}
 
 [sequence]
 v1,c

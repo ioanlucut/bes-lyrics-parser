@@ -1,5 +1,5 @@
 [title]
-Iti multumesc ca inca-o clipa {author: {Lidia Gheorghe}, {rcId: {146394}}
+Iti multumesc ca inca-o clipa {composer: {Lidia Gheorghe}, {rcId: {146394}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Catre tine (to our god) {author: {Bethel Music}, {rcId: {168636}}
+Catre tine (to our god) {composer: {Bethel Music}, {rcId: {168636}}
 
 [sequence]
 v1,c,v2,c,e

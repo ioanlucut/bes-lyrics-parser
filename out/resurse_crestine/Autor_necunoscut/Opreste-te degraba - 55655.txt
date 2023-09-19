@@ -1,5 +1,5 @@
 [title]
-Opreste-te degraba {author: {Anonim}, {rcId: {55655}}
+Opreste-te degraba {composer: {Anonim}, {rcId: {55655}}
 
 [sequence]
 v1,c,v2,c,v3,c

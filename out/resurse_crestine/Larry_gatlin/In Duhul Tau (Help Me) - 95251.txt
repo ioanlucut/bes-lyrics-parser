@@ -1,5 +1,5 @@
 [title]
-In duhul tau (help me) {author: {Larry Gatlin, Traducere RO}, {rcId: {95251}}
+In duhul tau (help me) {composer: {Larry Gatlin, Traducere RO}, {rcId: {95251}}
 
 [sequence]
 v1,c,v2,c,s,c

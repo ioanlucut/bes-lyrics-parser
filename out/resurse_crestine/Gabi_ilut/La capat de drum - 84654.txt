@@ -1,5 +1,5 @@
 [title]
-La capat de drum {author: {Gabi Ilut}, {rcId: {84654}}
+La capat de drum {composer: {Gabi Ilut}, {rcId: {84654}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

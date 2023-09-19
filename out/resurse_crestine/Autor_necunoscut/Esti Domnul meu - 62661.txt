@@ -1,5 +1,5 @@
 [title]
-Esti domnul meu {author: {Anonim}, {rcId: {62661}}
+Esti domnul meu {composer: {Anonim}, {rcId: {62661}}
 
 [sequence]
 v1,c

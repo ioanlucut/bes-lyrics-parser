@@ -1,5 +1,5 @@
 [title]
-Eu cred {author: {Gabi Ilut}, {rcId: {231909}}
+Eu cred {composer: {Gabi Ilut}, {rcId: {231909}}
 
 [sequence]
 v1,c,v2,c,v3,c

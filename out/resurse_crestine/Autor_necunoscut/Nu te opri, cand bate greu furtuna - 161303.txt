@@ -1,5 +1,5 @@
 [title]
-Nu te opri cand bate greu furtuna {author: {Anonim}, {rcId: {161303}}
+Nu te opri cand bate greu furtuna {composer: {Anonim}, {rcId: {161303}}
 
 [sequence]
 v1,c,v2,c,v3,c

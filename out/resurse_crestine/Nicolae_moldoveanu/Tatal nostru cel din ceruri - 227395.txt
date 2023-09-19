@@ -1,5 +1,5 @@
 [title]
-Tatal nostru cel din ceruri {author: {Nicolae Moldoveanu}, {rcId: {227395}}
+Tatal nostru cel din ceruri {composer: {Nicolae Moldoveanu}, {rcId: {227395}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Duhul si mireasa {author: {Anonim}, {rcId: {1440}}
+Duhul si mireasa {composer: {Anonim}, {rcId: {1440}}
 
 [sequence]
 v1,c

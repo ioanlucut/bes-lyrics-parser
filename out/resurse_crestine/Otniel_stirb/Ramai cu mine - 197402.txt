@@ -1,5 +1,5 @@
 [title]
-Ramai cu mine {author: {Otniel Stirb}, {rcId: {197402}}
+Ramai cu mine {composer: {Otniel Stirb}, {rcId: {197402}}
 
 [sequence]
 v1,c,v2,c,v3,c

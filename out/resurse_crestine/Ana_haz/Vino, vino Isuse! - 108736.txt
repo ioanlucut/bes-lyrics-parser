@@ -1,5 +1,5 @@
 [title]
-Vino vino isuse {author: {Ana Haz}, {rcId: {108736}}
+Vino vino isuse {composer: {Ana Haz}, {rcId: {108736}}
 
 [sequence]
 v1,v2,v3,v4,v5

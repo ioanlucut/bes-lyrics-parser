@@ -1,5 +1,5 @@
 [title]
-Cat de curata infloreste {author: {Nicolae Moldoveanu}, {rcId: {244618}}
+Cat de curata infloreste {composer: {Nicolae Moldoveanu}, {rcId: {244618}}
 
 [sequence]
 v1,v2,v3,v4

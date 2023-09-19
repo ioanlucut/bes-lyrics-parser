@@ -1,5 +1,5 @@
 [title]
-Doamne te rog {author: {Marius Livanu}, {rcId: {6574}}
+Doamne te rog {composer: {Marius Livanu}, {rcId: {6574}}
 
 [sequence]
 v1,c,v2,c

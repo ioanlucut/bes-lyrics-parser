@@ -1,5 +1,5 @@
 [title]
-Pe-a betleemului campie {author: {Anonim}, {rcId: {1517}}
+Pe-a betleemului campie {composer: {Anonim}, {rcId: {1517}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Nimic fara dumnezeu {author: {Vlad Bucur}, {rcId: {239157}}
+Nimic fara dumnezeu {composer: {Vlad Bucur}, {rcId: {239157}}
 
 [sequence]
 v1,v2,v3,v4,v1

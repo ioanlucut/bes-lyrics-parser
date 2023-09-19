@@ -1,5 +1,5 @@
 [title]
-Preaslavite creator {author: {Nicolae Moldoveanu}, {rcId: {186270}}
+Preaslavite creator {composer: {Nicolae Moldoveanu}, {rcId: {186270}}
 
 [sequence]
 v1,v2,v3

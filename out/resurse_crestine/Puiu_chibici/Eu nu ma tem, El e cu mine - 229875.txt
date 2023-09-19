@@ -1,5 +1,5 @@
 [title]
-Eu nu ma tem el e cu mine {author: {Puiu Chibici}, {rcId: {229875}}
+Eu nu ma tem el e cu mine {composer: {Puiu Chibici}, {rcId: {229875}}
 
 [sequence]
 v1,c,v2,c,v3,c

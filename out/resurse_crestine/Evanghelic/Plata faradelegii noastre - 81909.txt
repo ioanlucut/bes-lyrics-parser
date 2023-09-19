@@ -1,5 +1,5 @@
 [title]
-Plata faradelegii noastre {author: {Evanghelic}, {rcId: {81909}}
+Plata faradelegii noastre {composer: {Evanghelic}, {rcId: {81909}}
 
 [sequence]
 v1,c,v2,c

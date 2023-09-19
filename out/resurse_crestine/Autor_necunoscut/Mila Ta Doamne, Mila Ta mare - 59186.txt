@@ -1,5 +1,5 @@
 [title]
-Mila ta doamne mila ta mare {author: {Anonim}, {rcId: {59186}}
+Mila ta doamne mila ta mare {composer: {Anonim}, {rcId: {59186}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-In casa mea lumina aprinsa sa mi-o tii {author: {Fratii Pal}, {rcId: {231056}}
+In casa mea lumina aprinsa sa mi-o tii {composer: {Fratii Pal}, {rcId: {231056}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

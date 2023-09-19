@@ -1,5 +1,5 @@
 [title]
-O ce veste minunata {author: {Anonim}, {rcId: {5017}}
+O ce veste minunata {composer: {Anonim}, {rcId: {5017}}
 
 [sequence]
 v1,v2,v3,v4

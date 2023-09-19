@@ -1,5 +1,5 @@
 [title]
-Langa tine ma simt mai sigur; chiar daca vin intristari {author: {Adi Gliga}, {rcId: {113068}}
+Langa tine ma simt mai sigur; chiar daca vin intristari {composer: {Adi Gliga}, {rcId: {113068}}
 
 [sequence]
 c,v1,c,v2,c

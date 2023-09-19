@@ -1,5 +1,5 @@
 [title]
-Tu legi ranile ce dor {author: {Nicolae Zamfir}, {rcId: {209699}}
+Tu legi ranile ce dor {composer: {Nicolae Zamfir}, {rcId: {209699}}
 
 [sequence]
 v1,c,v2,c,v3,c

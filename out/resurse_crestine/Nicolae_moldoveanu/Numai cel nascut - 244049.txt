@@ -1,5 +1,5 @@
 [title]
-Numai cel nascut {author: {Nicolae Moldoveanu}, {rcId: {244049}}
+Numai cel nascut {composer: {Nicolae Moldoveanu}, {rcId: {244049}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Canta inima ta (you can have a song in your heart) {author: {Ira F. Stanphill, Traducere RO}, {rcId: {103787}}
+Canta inima ta (you can have a song in your heart) {composer: {Ira F. Stanphill, Traducere RO}, {rcId: {103787}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Sunt fericit cu el (i ve never been sorry) {author: {Albert E. Brumley, Traducere RO}, {rcId: {134185}}
+Sunt fericit cu el (i ve never been sorry) {composer: {Albert E. Brumley, Traducere RO}, {rcId: {134185}}
 
 [sequence]
 v1,c,v2,c,v3,c,s,c

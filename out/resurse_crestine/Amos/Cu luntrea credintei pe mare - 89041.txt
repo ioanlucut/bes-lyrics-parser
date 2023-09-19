@@ -1,5 +1,5 @@
 [title]
-Cu luntrea credintei pe mare {author: {amos7}, {rcId: {89041}}
+Cu luntrea credintei pe mare {composer: {amos7}, {rcId: {89041}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c

@@ -1,5 +1,5 @@
 [title]
-Cantec de dragoste {author: {Callatis Praise}, {rcId: {6789}}
+Cantec de dragoste {composer: {Callatis Praise}, {rcId: {6789}}
 
 [sequence]
 v1,c

@@ -1,5 +1,5 @@
 [title]
-A trecut inca un an {author: {Speranța}, {rcId: {6985}}
+A trecut inca un an {composer: {Speranța}, {rcId: {6985}}
 
 [sequence]
 v1,c,v2,c,v3,c

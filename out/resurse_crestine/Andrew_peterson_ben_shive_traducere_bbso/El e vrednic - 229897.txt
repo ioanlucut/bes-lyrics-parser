@@ -1,5 +1,5 @@
 [title]
-El e vrednic {author: {Andrew Peterson, Ben Shive traducere BBSO}, {rcId: {229897}}
+El e vrednic {composer: {Andrew Peterson, Ben Shive traducere BBSO}, {rcId: {229897}}
 
 [sequence]
 v1,v2,b,c,v3,b,c,e

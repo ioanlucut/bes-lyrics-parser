@@ -1,5 +1,5 @@
 [title]
-In luna adar {author: {Anonim}, {rcId: {221219}}
+In luna adar {composer: {Anonim}, {rcId: {221219}}
 
 [sequence]
 v1,c,v2,c

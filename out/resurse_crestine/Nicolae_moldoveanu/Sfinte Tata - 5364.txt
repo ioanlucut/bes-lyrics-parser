@@ -1,5 +1,5 @@
 [title]
-Sfinte tata {author: {Nicolae Moldoveanu}, {rcId: {5364}}
+Sfinte tata {composer: {Nicolae Moldoveanu}, {rcId: {5364}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Bucuria mea {author: {Johnny Daraban}, {rcId: {241155}}
+Bucuria mea {composer: {Johnny Daraban}, {rcId: {241155}}
 
 [sequence]
 v1,c,v2,b,c

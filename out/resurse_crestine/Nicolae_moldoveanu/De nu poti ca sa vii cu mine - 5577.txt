@@ -1,5 +1,5 @@
 [title]
-De nu poti ca sa vii cu mine {author: {Nicolae Moldoveanu}, {rcId: {5577}}
+De nu poti ca sa vii cu mine {composer: {Nicolae Moldoveanu}, {rcId: {5577}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

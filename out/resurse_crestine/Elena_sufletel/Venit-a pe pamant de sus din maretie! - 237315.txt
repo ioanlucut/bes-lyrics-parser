@@ -1,5 +1,5 @@
 [title]
-Venit-a pe pamant de sus din maretie {author: {Elena Sufletel}, {rcId: {237315}}
+Venit-a pe pamant de sus din maretie {composer: {Elena Sufletel}, {rcId: {237315}}
 
 [sequence]
 v1,v2,v2,v3

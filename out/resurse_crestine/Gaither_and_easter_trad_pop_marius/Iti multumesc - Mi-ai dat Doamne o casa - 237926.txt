@@ -1,5 +1,5 @@
 [title]
-Iti multumesc - mi-ai dat doamne o casa {author: {Gaither and Easter trad Pop Marius}, {rcId: {237926}}
+Iti multumesc - mi-ai dat doamne o casa {composer: {Gaither and Easter trad Pop Marius}, {rcId: {237926}}
 
 [sequence]
 v1,c,v2,c

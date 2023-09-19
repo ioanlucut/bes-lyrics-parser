@@ -1,5 +1,5 @@
 [title]
-Tot ce fac {author: {Anonim}, {rcId: {62708}}
+Tot ce fac {composer: {Anonim}, {rcId: {62708}}
 
 [sequence]
 v1,v2,c,e

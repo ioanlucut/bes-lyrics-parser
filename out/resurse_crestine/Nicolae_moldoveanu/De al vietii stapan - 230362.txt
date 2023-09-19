@@ -1,5 +1,5 @@
 [title]
-De al vietii stapan {author: {Nicolae Moldoveanu}, {rcId: {230362}}
+De al vietii stapan {composer: {Nicolae Moldoveanu}, {rcId: {230362}}
 
 [sequence]
 v1,c,v2,c,v3,c

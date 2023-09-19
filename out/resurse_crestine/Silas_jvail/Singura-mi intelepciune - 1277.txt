@@ -1,5 +1,5 @@
 [title]
-Singura-mi intelepciune {author: {Silas J.Vail}, {rcId: {1277}}
+Singura-mi intelepciune {composer: {Silas J.Vail}, {rcId: {1277}}
 
 [sequence]
 v1,v2,v3,v4

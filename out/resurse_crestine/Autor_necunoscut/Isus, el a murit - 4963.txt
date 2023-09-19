@@ -1,5 +1,5 @@
 [title]
-Isus el a murit {author: {Anonim}, {rcId: {4963}}
+Isus el a murit {composer: {Anonim}, {rcId: {4963}}
 
 [sequence]
 v1

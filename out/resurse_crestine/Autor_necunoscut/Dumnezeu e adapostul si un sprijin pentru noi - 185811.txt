@@ -1,5 +1,5 @@
 [title]
-Dumnezeu e adapostul si un sprijin pentru noi {author: {Anonim}, {rcId: {185811}}
+Dumnezeu e adapostul si un sprijin pentru noi {composer: {Anonim}, {rcId: {185811}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c

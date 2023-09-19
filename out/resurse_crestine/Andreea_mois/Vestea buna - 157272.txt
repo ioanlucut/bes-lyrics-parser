@@ -1,5 +1,5 @@
 [title]
-Vestea buna {author: {Andreea Mois}, {rcId: {157272}}
+Vestea buna {composer: {Andreea Mois}, {rcId: {157272}}
 
 [sequence]
 v1,c,v2,c

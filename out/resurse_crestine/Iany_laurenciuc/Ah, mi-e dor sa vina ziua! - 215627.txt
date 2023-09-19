@@ -1,5 +1,5 @@
 [title]
-Ah mi-e dor sa vina ziua {author: {Iany Laurenciuc}, {rcId: {215627}}
+Ah mi-e dor sa vina ziua {composer: {Iany Laurenciuc}, {rcId: {215627}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

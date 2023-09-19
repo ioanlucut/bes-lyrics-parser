@@ -1,5 +1,5 @@
 [title]
-Din cuvantul sfant cunosc {author: {Alexandru Groza}, {rcId: {185387}}
+Din cuvantul sfant cunosc {composer: {Alexandru Groza}, {rcId: {185387}}
 
 [sequence]
 v1,c,v2,c

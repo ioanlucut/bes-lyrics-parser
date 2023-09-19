@@ -1,5 +1,5 @@
 [title]
-O doamne isuse noi te preamarim {author: {Surorile Ciui}, {rcId: {1584}}
+O doamne isuse noi te preamarim {composer: {Surorile Ciui}, {rcId: {1584}}
 
 [sequence]
 v1,c,v2,c

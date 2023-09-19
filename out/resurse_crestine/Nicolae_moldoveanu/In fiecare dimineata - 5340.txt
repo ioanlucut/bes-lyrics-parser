@@ -1,5 +1,5 @@
 [title]
-In fiecare dimineata {author: {Nicolae Moldoveanu}, {rcId: {5340}}
+In fiecare dimineata {composer: {Nicolae Moldoveanu}, {rcId: {5340}}
 
 [sequence]
 v1,v2,v3,v4

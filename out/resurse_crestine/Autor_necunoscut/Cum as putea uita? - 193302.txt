@@ -1,5 +1,5 @@
 [title]
-Cum as putea uita? {author: {Anonim}, {rcId: {193302}}
+Cum as putea uita? {composer: {Anonim}, {rcId: {193302}}
 
 [sequence]
 v1,c,v2,c,v3,c

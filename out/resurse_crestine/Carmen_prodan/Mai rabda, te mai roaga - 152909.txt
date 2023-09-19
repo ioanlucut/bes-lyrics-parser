@@ -1,5 +1,5 @@
 [title]
-Mai rabda te mai roaga {author: {Carmen Prodan}, {rcId: {152909}}
+Mai rabda te mai roaga {composer: {Carmen Prodan}, {rcId: {152909}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Din multitudinea de ganduri {author: {Cornel Sava}, {rcId: {203093}}
+Din multitudinea de ganduri {composer: {Cornel Sava}, {rcId: {203093}}
 
 [sequence]
 v1,v2,v3,v4

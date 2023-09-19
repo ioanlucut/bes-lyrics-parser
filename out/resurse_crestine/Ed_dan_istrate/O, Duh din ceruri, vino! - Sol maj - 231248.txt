@@ -1,5 +1,5 @@
 [title]
-O duh din ceruri vino - sol maj {author: {ed. Dan Istrate}, {rcId: {231248}}
+O duh din ceruri vino - sol maj {composer: {ed. Dan Istrate}, {rcId: {231248}}
 
 [sequence]
 v1,v2,v3

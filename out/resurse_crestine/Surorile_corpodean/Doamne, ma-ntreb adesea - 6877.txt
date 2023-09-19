@@ -1,5 +1,5 @@
 [title]
-Doamne ma-ntreb adesea {author: {Surorile Corpodean}, {rcId: {6877}}
+Doamne ma-ntreb adesea {composer: {Surorile Corpodean}, {rcId: {6877}}
 
 [sequence]
 v1,c,v2,c,v3,c2

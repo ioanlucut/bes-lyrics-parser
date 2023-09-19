@@ -1,5 +1,5 @@
 [title]
-Inca o zi {author: {Narcisa Popa}, {rcId: {4461}}
+Inca o zi {composer: {Narcisa Popa}, {rcId: {4461}}
 
 [sequence]
 v1,c,v2,c

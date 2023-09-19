@@ -1,5 +1,5 @@
 [title]
-Bucurati-va veseliti-va {author: {Marta Bergheaua}, {rcId: {6463}}
+Bucurati-va veseliti-va {composer: {Marta Bergheaua}, {rcId: {6463}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c

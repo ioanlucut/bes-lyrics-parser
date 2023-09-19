@@ -1,5 +1,5 @@
 [title]
-E craciun {author: {Jessica Pavel}, {rcId: {182289}}
+E craciun {composer: {Jessica Pavel}, {rcId: {182289}}
 
 [sequence]
 v1,c,v2,c2

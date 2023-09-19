@@ -1,5 +1,5 @@
 [title]
-Fie peste casa aceasta {author: {Puiu Chibici}, {rcId: {208182}}
+Fie peste casa aceasta {composer: {Puiu Chibici}, {rcId: {208182}}
 
 [sequence]
 v1,v2,v3

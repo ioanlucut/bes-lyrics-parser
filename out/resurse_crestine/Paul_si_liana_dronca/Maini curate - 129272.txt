@@ -1,5 +1,5 @@
 [title]
-Maini curate {author: {Paul si Liana Dronca}, {rcId: {129272}}
+Maini curate {composer: {Paul si Liana Dronca}, {rcId: {129272}}
 
 [sequence]
 v1,c,e

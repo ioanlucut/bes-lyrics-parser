@@ -1,5 +1,5 @@
 [title]
-Imi amintesc ca a venit pentru min {author: {Leleu Niculae}, {rcId: {75269}}
+Imi amintesc ca a venit pentru min {composer: {Leleu Niculae}, {rcId: {75269}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

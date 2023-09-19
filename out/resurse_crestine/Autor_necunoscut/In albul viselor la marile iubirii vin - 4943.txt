@@ -1,5 +1,5 @@
 [title]
-In albul viselor la marile iubirii vin {author: {Anonim}, {rcId: {4943}}
+In albul viselor la marile iubirii vin {composer: {Anonim}, {rcId: {4943}}
 
 [sequence]
 v1,c,v2,c2

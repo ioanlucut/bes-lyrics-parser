@@ -1,5 +1,5 @@
 [title]
-Credinta mea nu-i pe nisip {author: {Aranjament W.J.Kirkpatrick}, {rcId: {74315}}
+Credinta mea nu-i pe nisip {composer: {Aranjament W.J.Kirkpatrick}, {rcId: {74315}}
 
 [sequence]
 v1,c,v2,c,v3,c

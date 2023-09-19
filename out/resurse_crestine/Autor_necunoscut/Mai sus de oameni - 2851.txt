@@ -1,5 +1,5 @@
 [title]
-Mai sus de oameni {author: {Anonim}, {rcId: {2851}}
+Mai sus de oameni {composer: {Anonim}, {rcId: {2851}}
 
 [sequence]
 v1,v2,c

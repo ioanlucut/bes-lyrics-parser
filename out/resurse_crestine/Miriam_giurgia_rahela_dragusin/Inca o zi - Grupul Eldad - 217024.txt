@@ -1,5 +1,5 @@
 [title]
-Inca o zi - grupul eldad {author: {Miriam Giurgia, Rahela Dragusin}, {rcId: {217024}}
+Inca o zi - grupul eldad {composer: {Miriam Giurgia, Rahela Dragusin}, {rcId: {217024}}
 
 [sequence]
 v1,v2,v3,v4

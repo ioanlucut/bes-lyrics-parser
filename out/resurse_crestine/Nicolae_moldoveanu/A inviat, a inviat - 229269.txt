@@ -1,5 +1,5 @@
 [title]
-A inviat a inviat {author: {Nicolae Moldoveanu}, {rcId: {229269}}
+A inviat a inviat {composer: {Nicolae Moldoveanu}, {rcId: {229269}}
 
 [sequence]
 v1,v2,v3

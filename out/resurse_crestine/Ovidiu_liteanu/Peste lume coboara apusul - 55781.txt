@@ -1,5 +1,5 @@
 [title]
-Peste lume coboara apusul {author: {Ovidiu Liteanu}, {rcId: {55781}}
+Peste lume coboara apusul {composer: {Ovidiu Liteanu}, {rcId: {55781}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

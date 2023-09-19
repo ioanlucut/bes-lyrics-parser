@@ -1,5 +1,5 @@
 [title]
-Juramant {author: {Ami și Crista}, {rcId: {79579}}
+Juramant {composer: {Ami și Crista}, {rcId: {79579}}
 
 [sequence]
 v1,c,e

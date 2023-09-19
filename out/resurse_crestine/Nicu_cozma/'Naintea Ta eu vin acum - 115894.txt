@@ -1,5 +1,5 @@
 [title]
-Naintea ta eu vin acum {author: {Nicu Cozma}, {rcId: {115894}}
+Naintea ta eu vin acum {composer: {Nicu Cozma}, {rcId: {115894}}
 
 [sequence]
 v1,v2,v3,v4

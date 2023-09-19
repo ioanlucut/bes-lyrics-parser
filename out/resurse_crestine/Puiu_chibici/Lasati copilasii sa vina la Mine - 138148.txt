@@ -1,5 +1,5 @@
 [title]
-Lasati copilasii sa vina la mine {author: {Puiu Chibici}, {rcId: {138148}}
+Lasati copilasii sa vina la mine {composer: {Puiu Chibici}, {rcId: {138148}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,v4,c

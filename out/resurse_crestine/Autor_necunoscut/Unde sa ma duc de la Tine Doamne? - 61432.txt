@@ -1,5 +1,5 @@
 [title]
-Unde sa ma duc de la tine doamne? {author: {Anonim}, {rcId: {61432}}
+Unde sa ma duc de la tine doamne? {composer: {Anonim}, {rcId: {61432}}
 
 [sequence]
 v1,v2,v3

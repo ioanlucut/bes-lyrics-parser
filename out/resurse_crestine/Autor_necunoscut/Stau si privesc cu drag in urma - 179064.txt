@@ -1,5 +1,5 @@
 [title]
-Stau si privesc cu drag in urma {author: {Anonim}, {rcId: {179064}}
+Stau si privesc cu drag in urma {composer: {Anonim}, {rcId: {179064}}
 
 [sequence]
 v1,c,v2,c

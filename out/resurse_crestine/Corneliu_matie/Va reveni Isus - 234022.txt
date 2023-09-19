@@ -1,5 +1,5 @@
 [title]
-Va reveni isus {author: {Corneliu Matie}, {rcId: {234022}}
+Va reveni isus {composer: {Corneliu Matie}, {rcId: {234022}}
 
 [sequence]
 v1,c,v2,c,e

@@ -1,5 +1,5 @@
 [title]
-Cand eram doar un plod fara chip {author: {Anonim}, {rcId: {169706}}
+Cand eram doar un plod fara chip {composer: {Anonim}, {rcId: {169706}}
 
 [sequence]
 v1,c,v2,c,v3,c

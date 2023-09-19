@@ -1,5 +1,5 @@
 [title]
-Era un om {author: {Gabriel Gorcea}, {rcId: {190876}}
+Era un om {composer: {Gabriel Gorcea}, {rcId: {190876}}
 
 [sequence]
 v1,v2,c,e,c

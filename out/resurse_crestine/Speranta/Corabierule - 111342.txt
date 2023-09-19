@@ -1,5 +1,5 @@
 [title]
-Corabierule {author: {Speranța}, {rcId: {111342}}
+Corabierule {composer: {Speranța}, {rcId: {111342}}
 
 [sequence]
 v1,c,v2,c

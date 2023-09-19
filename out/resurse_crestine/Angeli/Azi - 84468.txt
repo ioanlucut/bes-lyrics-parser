@@ -1,5 +1,5 @@
 [title]
-Azi {author: {Angeli}, {rcId: {84468}}
+Azi {composer: {Angeli}, {rcId: {84468}}
 
 [sequence]
 v1,c,v2,c,v3,c

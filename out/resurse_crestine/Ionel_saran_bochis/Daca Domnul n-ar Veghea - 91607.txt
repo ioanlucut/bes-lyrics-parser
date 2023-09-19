@@ -1,5 +1,5 @@
 [title]
-Daca domnul n-ar veghea {author: {Ionel Saran Bochis}, {rcId: {91607}}
+Daca domnul n-ar veghea {composer: {Ionel Saran Bochis}, {rcId: {91607}}
 
 [sequence]
 v1,v2,v3

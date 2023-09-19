@@ -1,5 +1,5 @@
 [title]
-O zilele prind aripi {author: {Nicolae Moldoveanu}, {rcId: {244325}}
+O zilele prind aripi {composer: {Nicolae Moldoveanu}, {rcId: {244325}}
 
 [sequence]
 v1,v2,v3,v4,v5

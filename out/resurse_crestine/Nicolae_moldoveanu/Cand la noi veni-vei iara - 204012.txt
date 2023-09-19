@@ -1,5 +1,5 @@
 [title]
-Cand la noi veni-vei iara {author: {Nicolae Moldoveanu}, {rcId: {204012}}
+Cand la noi veni-vei iara {composer: {Nicolae Moldoveanu}, {rcId: {204012}}
 
 [sequence]
 v1,v2,v3

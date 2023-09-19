@@ -1,5 +1,5 @@
 [title]
-Se duce viata ca un vis {author: {Anonim}, {rcId: {5567}}
+Se duce viata ca un vis {composer: {Anonim}, {rcId: {5567}}
 
 [sequence]
 v1,c,v2,c,v3,c

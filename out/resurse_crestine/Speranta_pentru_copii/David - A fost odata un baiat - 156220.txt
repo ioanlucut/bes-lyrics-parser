@@ -1,5 +1,5 @@
 [title]
-David - a fost odata un baiat {author: {Speranța pentru copii}, {rcId: {156220}}
+David - a fost odata un baiat {composer: {Speranța pentru copii}, {rcId: {156220}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

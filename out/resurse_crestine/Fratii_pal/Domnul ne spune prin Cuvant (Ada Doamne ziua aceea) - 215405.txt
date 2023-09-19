@@ -1,5 +1,5 @@
 [title]
-Domnul ne spune prin cuvant (ada doamne ziua aceea) {author: {Fratii Pal}, {rcId: {215405}}
+Domnul ne spune prin cuvant (ada doamne ziua aceea) {composer: {Fratii Pal}, {rcId: {215405}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

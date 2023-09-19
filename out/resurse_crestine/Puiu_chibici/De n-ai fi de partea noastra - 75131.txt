@@ -1,5 +1,5 @@
 [title]
-De n-ai fi de partea noastra {author: {Puiu Chibici}, {rcId: {75131}}
+De n-ai fi de partea noastra {composer: {Puiu Chibici}, {rcId: {75131}}
 
 [sequence]
 v1,v2,v3

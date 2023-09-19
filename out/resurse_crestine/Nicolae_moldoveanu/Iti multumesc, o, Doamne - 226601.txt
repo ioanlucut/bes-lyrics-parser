@@ -1,5 +1,5 @@
 [title]
-Iti multumesc o doamne {author: {Nicolae Moldoveanu}, {rcId: {226601}}
+Iti multumesc o doamne {composer: {Nicolae Moldoveanu}, {rcId: {226601}}
 
 [sequence]
 v1,v2,v3

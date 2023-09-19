@@ -1,5 +1,5 @@
 [title]
-Intoarce-te {author: {Speranța și prietenii}, {rcId: {59419}}
+Intoarce-te {composer: {Speranța și prietenii}, {rcId: {59419}}
 
 [sequence]
 v1,c,v3,c,v4,c

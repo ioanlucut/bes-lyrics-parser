@@ -1,5 +1,5 @@
 [title]
-In linistea noptii {author: {Kevin Kocsis}, {rcId: {223787}}
+In linistea noptii {composer: {Kevin Kocsis}, {rcId: {223787}}
 
 [sequence]
 v1,c,v2,c

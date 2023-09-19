@@ -1,5 +1,5 @@
 [title]
-Se-apropie venirea celui care {author: {David Stănuș}, {rcId: {234843}}
+Se-apropie venirea celui care {composer: {David Stănuș}, {rcId: {234843}}
 
 [sequence]
 v1,c,v2,c,v3,c,c

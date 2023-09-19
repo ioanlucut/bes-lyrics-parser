@@ -1,5 +1,5 @@
 [title]
-In viata mea {author: {Daniela Haidaciuc}, {rcId: {153147}}
+In viata mea {composer: {Daniela Haidaciuc}, {rcId: {153147}}
 
 [sequence]
 v1,c,v2,c,v3,c

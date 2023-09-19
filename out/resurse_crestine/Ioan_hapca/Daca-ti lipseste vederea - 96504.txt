@@ -1,5 +1,5 @@
 [title]
-Daca-ti lipseste vederea {author: {Ioan Hapca}, {rcId: {96504}}
+Daca-ti lipseste vederea {composer: {Ioan Hapca}, {rcId: {96504}}
 
 [sequence]
 v1,c,v2,c

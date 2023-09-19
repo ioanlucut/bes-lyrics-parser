@@ -1,5 +1,5 @@
 [title]
-Ai promis ca vei veni {author: {Anonim}, {rcId: {246369}}
+Ai promis ca vei veni {composer: {Anonim}, {rcId: {246369}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

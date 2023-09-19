@@ -1,5 +1,5 @@
 [title]
-Cand esti trist si-ap~asat de durere {author: {Anonim}, {rcId: {6293}}
+Cand esti trist si-ap~asat de durere {composer: {Anonim}, {rcId: {6293}}
 
 [sequence]
 v1,v2,v3,v4,v5

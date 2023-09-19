@@ -1,5 +1,5 @@
 [title]
-Lupta nu da napoi {author: {Anonim}, {rcId: {99263}}
+Lupta nu da napoi {composer: {Anonim}, {rcId: {99263}}
 
 [sequence]
 v1,c,v2,c,v3,c2

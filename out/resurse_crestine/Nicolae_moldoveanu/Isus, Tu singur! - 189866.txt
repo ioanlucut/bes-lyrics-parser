@@ -1,5 +1,5 @@
 [title]
-Isus tu singur {author: {Nicolae Moldoveanu}, {rcId: {189866}}
+Isus tu singur {composer: {Nicolae Moldoveanu}, {rcId: {189866}}
 
 [sequence]
 v1,v2,v3,v4,v5

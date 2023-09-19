@@ -1,5 +1,5 @@
 [title]
-Mai curat decat zapada {author: {Nicolae Moldoveanu}, {rcId: {230679}}
+Mai curat decat zapada {composer: {Nicolae Moldoveanu}, {rcId: {230679}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

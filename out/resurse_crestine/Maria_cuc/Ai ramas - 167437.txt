@@ -1,5 +1,5 @@
 [title]
-Ai ramas {author: {Maria Cuc}, {rcId: {167437}}
+Ai ramas {composer: {Maria Cuc}, {rcId: {167437}}
 
 [sequence]
 v1,b,c,v2,b,b

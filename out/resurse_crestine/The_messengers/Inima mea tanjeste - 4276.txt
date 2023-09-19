@@ -1,5 +1,5 @@
 [title]
-Inima mea tanjeste {author: {The Messengers}, {rcId: {4276}}
+Inima mea tanjeste {composer: {The Messengers}, {rcId: {4276}}
 
 [sequence]
 v1,c

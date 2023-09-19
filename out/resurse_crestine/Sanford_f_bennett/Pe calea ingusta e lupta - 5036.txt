@@ -1,5 +1,5 @@
 [title]
-Pe calea ingusta e lupta {author: {Sanford F. Bennett}, {rcId: {5036}}
+Pe calea ingusta e lupta {composer: {Sanford F. Bennett}, {rcId: {5036}}
 
 [sequence]
 v1,c,v2,c,v3,c

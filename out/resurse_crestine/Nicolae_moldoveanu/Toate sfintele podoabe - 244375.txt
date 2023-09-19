@@ -1,5 +1,5 @@
 [title]
-Toate sfintele podoabe {author: {Nicolae Moldoveanu}, {rcId: {244375}}
+Toate sfintele podoabe {composer: {Nicolae Moldoveanu}, {rcId: {244375}}
 
 [sequence]
 v1,v2,v3,v4,v5

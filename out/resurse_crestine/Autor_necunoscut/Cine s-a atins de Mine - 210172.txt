@@ -1,5 +1,5 @@
 [title]
-Cine s-a atins de mine {author: {Anonim}, {rcId: {210172}}
+Cine s-a atins de mine {composer: {Anonim}, {rcId: {210172}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

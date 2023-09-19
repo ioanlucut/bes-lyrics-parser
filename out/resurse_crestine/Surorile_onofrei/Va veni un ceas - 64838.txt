@@ -1,5 +1,5 @@
 [title]
-Va veni un ceas {author: {Surorile Onofrei}, {rcId: {64838}}
+Va veni un ceas {composer: {Surorile Onofrei}, {rcId: {64838}}
 
 [sequence]
 v1,c,v2,c,e

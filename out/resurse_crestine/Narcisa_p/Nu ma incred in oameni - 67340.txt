@@ -1,5 +1,5 @@
 [title]
-Nu ma incred in oameni {author: {Narcisa P.}, {rcId: {67340}}
+Nu ma incred in oameni {composer: {Narcisa P.}, {rcId: {67340}}
 
 [sequence]
 v1,c,v2,c2

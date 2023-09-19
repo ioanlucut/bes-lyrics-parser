@@ -1,5 +1,5 @@
 [title]
-Inima mereu suspina {author: {Anonim}, {rcId: {4615}}
+Inima mereu suspina {composer: {Anonim}, {rcId: {4615}}
 
 [sequence]
 v1,c,v2,c,v3,c

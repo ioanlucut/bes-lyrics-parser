@@ -1,5 +1,5 @@
 [title]
-Dintre multele cuvinte {author: {Anonim}, {rcId: {1615}}
+Dintre multele cuvinte {composer: {Anonim}, {rcId: {1615}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

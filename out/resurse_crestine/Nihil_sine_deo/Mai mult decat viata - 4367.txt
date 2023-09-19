@@ -1,5 +1,5 @@
 [title]
-Mai mult decat viata {author: {Nihil sine Deo}, {rcId: {4367}}
+Mai mult decat viata {composer: {Nihil sine Deo}, {rcId: {4367}}
 
 [sequence]
 v1,b,c,e

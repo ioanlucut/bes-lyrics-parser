@@ -1,5 +1,5 @@
 [title]
-Pe cerul vietii cand se stinge cate-o stea {author: {Anonim}, {rcId: {74436}}
+Pe cerul vietii cand se stinge cate-o stea {composer: {Anonim}, {rcId: {74436}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Iarta-ma primeste-ma {author: {Anonim}, {rcId: {180644}}
+Iarta-ma primeste-ma {composer: {Anonim}, {rcId: {180644}}
 
 [sequence]
 v1,c,v2,c,v3,c

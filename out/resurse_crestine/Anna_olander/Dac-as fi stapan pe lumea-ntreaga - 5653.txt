@@ -1,5 +1,5 @@
 [title]
-Dac-as fi stapan pe lumea-ntreaga {author: {Anna Olander, Traducere RO}, {rcId: {5653}}
+Dac-as fi stapan pe lumea-ntreaga {composer: {Anna Olander, Traducere RO}, {rcId: {5653}}
 
 [sequence]
 v1,v2,v3,v4

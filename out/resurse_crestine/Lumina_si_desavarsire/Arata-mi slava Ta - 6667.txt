@@ -1,5 +1,5 @@
 [title]
-Arata-mi slava ta {author: {Lumină și desăvârșire}, {rcId: {6667}}
+Arata-mi slava ta {composer: {Lumină și desăvârșire}, {rcId: {6667}}
 
 [sequence]
 v1,c,v2,c

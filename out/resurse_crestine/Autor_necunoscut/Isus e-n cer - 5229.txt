@@ -1,5 +1,5 @@
 [title]
-Isus e-n cer {author: {Anonim}, {rcId: {5229}}
+Isus e-n cer {composer: {Anonim}, {rcId: {5229}}
 
 [sequence]
 v1,c,v2,c,v3,c

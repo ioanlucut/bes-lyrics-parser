@@ -1,5 +1,5 @@
 [title]
-Isus cel inviat e astazi printre noi {author: {Anonim}, {rcId: {878}}
+Isus cel inviat e astazi printre noi {composer: {Anonim}, {rcId: {878}}
 
 [sequence]
 v1,c,v2,c

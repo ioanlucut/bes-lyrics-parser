@@ -1,5 +1,5 @@
 [title]
-Eram pierdut si parasit {author: {Speranța}, {rcId: {101926}}
+Eram pierdut si parasit {composer: {Speranța}, {rcId: {101926}}
 
 [sequence]
 v1,c,v2,c

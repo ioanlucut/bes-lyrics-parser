@@ -1,5 +1,5 @@
 [title]
-Exista un timp pentru toate {author: {Puiu Chibici}, {rcId: {89167}}
+Exista un timp pentru toate {composer: {Puiu Chibici}, {rcId: {89167}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

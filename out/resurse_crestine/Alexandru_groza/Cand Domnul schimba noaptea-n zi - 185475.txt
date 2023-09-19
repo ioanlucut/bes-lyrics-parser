@@ -1,5 +1,5 @@
 [title]
-Cand domnul schimba noaptea-n zi {author: {Alexandru Groza}, {rcId: {185475}}
+Cand domnul schimba noaptea-n zi {composer: {Alexandru Groza}, {rcId: {185475}}
 
 [sequence]
 v1,c,c,v2,c

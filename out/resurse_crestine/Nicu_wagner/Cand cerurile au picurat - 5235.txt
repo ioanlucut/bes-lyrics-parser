@@ -1,5 +1,5 @@
 [title]
-Cand cerurile au picurat {author: {Nicu Wagner}, {rcId: {5235}}
+Cand cerurile au picurat {composer: {Nicu Wagner}, {rcId: {5235}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Unde-ti vei gasi odihna {author: {Mariana Someșan}, {rcId: {169909}}
+Unde-ti vei gasi odihna {composer: {Mariana Someșan}, {rcId: {169909}}
 
 [sequence]
 v1,v2,v3,v4

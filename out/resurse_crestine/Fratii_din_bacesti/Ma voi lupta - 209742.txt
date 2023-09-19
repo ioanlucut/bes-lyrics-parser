@@ -1,5 +1,5 @@
 [title]
-Ma voi lupta {author: {Fratii din Bacesti}, {rcId: {209742}}
+Ma voi lupta {composer: {Fratii din Bacesti}, {rcId: {209742}}
 
 [sequence]
 c,v1,c2,c,v2,c2,v3,c2,c,e

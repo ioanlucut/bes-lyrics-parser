@@ -1,5 +1,5 @@
 [title]
-Inaltam rugile astazi spre ceruri {author: {Anonim}, {rcId: {3618}}
+Inaltam rugile astazi spre ceruri {composer: {Anonim}, {rcId: {3618}}
 
 [sequence]
 v1,v2,v3,v4

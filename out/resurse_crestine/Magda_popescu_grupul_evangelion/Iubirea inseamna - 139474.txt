@@ -1,5 +1,5 @@
 [title]
-Iubirea inseamna {author: {Magda Popescu  Grupul Evangelion }, {rcId: {139474}}
+Iubirea inseamna {composer: {Magda Popescu  Grupul Evangelion }, {rcId: {139474}}
 
 [sequence]
 v1,b,c,v2,b,c

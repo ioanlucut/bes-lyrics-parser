@@ -1,5 +1,5 @@
 [title]
-Privind prin credinta {author: {Speranța}, {rcId: {101916}}
+Privind prin credinta {composer: {Speranța}, {rcId: {101916}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

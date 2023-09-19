@@ -1,5 +1,5 @@
 [title]
-Asa vorbeste domnul cel ce te-a facut (nu te teme) {author: {Anonim}, {rcId: {185751}}
+Asa vorbeste domnul cel ce te-a facut (nu te teme) {composer: {Anonim}, {rcId: {185751}}
 
 [sequence]
 v1,c,v2,c,v3,c

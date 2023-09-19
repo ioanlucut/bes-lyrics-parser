@@ -1,5 +1,5 @@
 [title]
-O noapte de craciun {author: {Alin Timofte}, {rcId: {156242}}
+O noapte de craciun {composer: {Alin Timofte}, {rcId: {156242}}
 
 [sequence]
 v1,b,c,v2,b,c,e

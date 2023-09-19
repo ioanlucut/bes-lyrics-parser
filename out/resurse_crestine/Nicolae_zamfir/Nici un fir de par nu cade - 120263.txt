@@ -1,5 +1,5 @@
 [title]
-Nici un fir de par nu cade {author: {Nicolae Zamfir}, {rcId: {120263}}
+Nici un fir de par nu cade {composer: {Nicolae Zamfir}, {rcId: {120263}}
 
 [sequence]
 v1,v2,v3,v4

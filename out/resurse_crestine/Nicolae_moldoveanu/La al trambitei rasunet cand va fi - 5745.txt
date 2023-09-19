@@ -1,5 +1,5 @@
 [title]
-La al trambitei rasunet cand va fi {author: {Nicolae Moldoveanu}, {rcId: {5745}}
+La al trambitei rasunet cand va fi {composer: {Nicolae Moldoveanu}, {rcId: {5745}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

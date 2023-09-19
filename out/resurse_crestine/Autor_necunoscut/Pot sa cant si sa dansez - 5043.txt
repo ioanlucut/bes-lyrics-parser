@@ -1,5 +1,5 @@
 [title]
-Pot sa cant si sa dansez {author: {Anonim}, {rcId: {5043}}
+Pot sa cant si sa dansez {composer: {Anonim}, {rcId: {5043}}
 
 [sequence]
 v1,c

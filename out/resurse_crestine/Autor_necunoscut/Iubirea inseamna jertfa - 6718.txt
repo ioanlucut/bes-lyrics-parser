@@ -1,5 +1,5 @@
 [title]
-Iubirea inseamna jertfa {author: {Anonim}, {rcId: {6718}}
+Iubirea inseamna jertfa {composer: {Anonim}, {rcId: {6718}}
 
 [sequence]
 v1,c,v2,c

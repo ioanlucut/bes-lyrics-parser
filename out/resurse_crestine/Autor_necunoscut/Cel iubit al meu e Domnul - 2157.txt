@@ -1,5 +1,5 @@
 [title]
-Cel iubit al meu e domnul {author: {Anonim}, {rcId: {2157}}
+Cel iubit al meu e domnul {composer: {Anonim}, {rcId: {2157}}
 
 [sequence]
 v1,v2,v3,v4

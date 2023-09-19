@@ -1,5 +1,5 @@
 [title]
-Mai aproape vreau {author: {Anonim}, {rcId: {62662}}
+Mai aproape vreau {composer: {Anonim}, {rcId: {62662}}
 
 [sequence]
 v1,c

@@ -1,5 +1,5 @@
 [title]
-Scris pe cer {author: {Diaz Amos}, {rcId: {240669}}
+Scris pe cer {composer: {Diaz Amos}, {rcId: {240669}}
 
 [sequence]
 v1,c,v2,c

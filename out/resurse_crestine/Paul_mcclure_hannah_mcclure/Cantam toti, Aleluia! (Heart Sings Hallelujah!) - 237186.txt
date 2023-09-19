@@ -1,5 +1,5 @@
 [title]
-Cantam toti aleluia (heart sings hallelujah) {author: {Paul McClure, Hannah McClure, Traducere RO}, {rcId: {237186}}
+Cantam toti aleluia (heart sings hallelujah) {composer: {Paul McClure, Hannah McClure, Traducere RO}, {rcId: {237186}}
 
 [sequence]
 v1,v2,c,v3,b,c

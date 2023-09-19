@@ -1,5 +1,5 @@
 [title]
-Privesc cu dor spre ceruri {author: {Ovidiu Liteanu}, {rcId: {55789}}
+Privesc cu dor spre ceruri {composer: {Ovidiu Liteanu}, {rcId: {55789}}
 
 [sequence]
 v1,c,v2,c,v3,c

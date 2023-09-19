@@ -1,5 +1,5 @@
 [title]
-Fiti lumina pe pamant {author: {Elvis din Barbulesti}, {rcId: {177846}}
+Fiti lumina pe pamant {composer: {Elvis din Barbulesti}, {rcId: {177846}}
 
 [sequence]
 v1,c,v2,c

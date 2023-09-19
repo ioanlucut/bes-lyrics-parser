@@ -1,5 +1,5 @@
 [title]
-Atati bolnavi ce sunt prin spitale {author: {Denys Laurenciuc}, {rcId: {203891}}
+Atati bolnavi ce sunt prin spitale {composer: {Denys Laurenciuc}, {rcId: {203891}}
 
 [sequence]
 v1,c,c2,v2,c,v3,c

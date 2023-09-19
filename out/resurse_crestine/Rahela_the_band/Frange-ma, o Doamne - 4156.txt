@@ -1,5 +1,5 @@
 [title]
-Frange-ma o doamne {author: {Rahela, The Band}, {rcId: {4156}}
+Frange-ma o doamne {composer: {Rahela, The Band}, {rcId: {4156}}
 
 [sequence]
 c,v1,c

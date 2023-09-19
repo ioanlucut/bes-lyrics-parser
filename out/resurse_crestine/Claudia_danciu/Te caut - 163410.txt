@@ -1,5 +1,5 @@
 [title]
-Te caut {author: {Claudia Danciu}, {rcId: {163410}}
+Te caut {composer: {Claudia Danciu}, {rcId: {163410}}
 
 [sequence]
 v1,c,v2,c,v3,c

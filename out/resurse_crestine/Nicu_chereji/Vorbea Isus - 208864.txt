@@ -1,5 +1,5 @@
 [title]
-Vorbea isus {author: {Nicu Chereji}, {rcId: {208864}}
+Vorbea isus {composer: {Nicu Chereji}, {rcId: {208864}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

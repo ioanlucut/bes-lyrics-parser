@@ -1,5 +1,5 @@
 [title]
-Zorii se ivesc {author: {Johnny Daraban}, {rcId: {177106}}
+Zorii se ivesc {composer: {Johnny Daraban}, {rcId: {177106}}
 
 [sequence]
 v1,c,v2,c2

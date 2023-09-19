@@ -1,5 +1,5 @@
 [title]
-Nu vom sti ce aduce viitorul {author: {Alexandru Groza}, {rcId: {193349}}
+Nu vom sti ce aduce viitorul {composer: {Alexandru Groza}, {rcId: {193349}}
 
 [sequence]
 v1,c,v2,c,e

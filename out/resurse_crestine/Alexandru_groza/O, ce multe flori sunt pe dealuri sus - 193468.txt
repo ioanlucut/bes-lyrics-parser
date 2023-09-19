@@ -1,5 +1,5 @@
 [title]
-O ce multe flori sunt pe dealuri sus {author: {Alexandru Groza}, {rcId: {193468}}
+O ce multe flori sunt pe dealuri sus {composer: {Alexandru Groza}, {rcId: {193468}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c

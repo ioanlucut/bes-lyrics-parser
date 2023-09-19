@@ -1,5 +1,5 @@
 [title]
-Dupa cum este scris {author: {Alexandru Groza}, {rcId: {3124}}
+Dupa cum este scris {composer: {Alexandru Groza}, {rcId: {3124}}
 
 [sequence]
 v1,c,v2,c,v3,c

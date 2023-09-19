@@ -1,5 +1,5 @@
 [title]
-Tine-ma doamne de mana {author: {Nicu Chereji}, {rcId: {210186}}
+Tine-ma doamne de mana {composer: {Nicu Chereji}, {rcId: {210186}}
 
 [sequence]
 v1,v2,v3,v4

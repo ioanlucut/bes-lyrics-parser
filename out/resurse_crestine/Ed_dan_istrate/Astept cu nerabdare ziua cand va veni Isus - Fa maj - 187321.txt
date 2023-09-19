@@ -1,5 +1,5 @@
 [title]
-Astept cu nerabdare ziua cand va veni isus - fa maj {author: {ed. Dan Istrate}, {rcId: {187321}}
+Astept cu nerabdare ziua cand va veni isus - fa maj {composer: {ed. Dan Istrate}, {rcId: {187321}}
 
 [sequence]
 v1,c,v2,c,v3,c

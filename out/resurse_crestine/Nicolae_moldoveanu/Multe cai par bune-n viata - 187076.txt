@@ -1,5 +1,5 @@
 [title]
-Multe cai par bune-n viata {author: {Nicolae Moldoveanu}, {rcId: {187076}}
+Multe cai par bune-n viata {composer: {Nicolae Moldoveanu}, {rcId: {187076}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

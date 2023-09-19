@@ -1,5 +1,5 @@
 [title]
-As vrea sa ma-ntalnesc {author: {Nicolae Moldoveanu}, {rcId: {5705}}
+As vrea sa ma-ntalnesc {composer: {Nicolae Moldoveanu}, {rcId: {5705}}
 
 [sequence]
 v1,v2,v3,v4,v5

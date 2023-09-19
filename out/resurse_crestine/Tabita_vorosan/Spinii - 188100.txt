@@ -1,5 +1,5 @@
 [title]
-Spinii {author: {Tabita Vorosan}, {rcId: {188100}}
+Spinii {composer: {Tabita Vorosan}, {rcId: {188100}}
 
 [sequence]
 v1,c,v2,c,v3,c

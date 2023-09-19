@@ -1,5 +1,5 @@
 [title]
-Nimic la intamplare {author: {Magda și Dani Popescu}, {rcId: {138170}}
+Nimic la intamplare {composer: {Magda și Dani Popescu}, {rcId: {138170}}
 
 [sequence]
 v1,c,v2,c

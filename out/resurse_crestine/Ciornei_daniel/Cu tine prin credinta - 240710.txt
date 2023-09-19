@@ -1,5 +1,5 @@
 [title]
-Cu tine prin credinta {author: {Ciornei Daniel}, {rcId: {240710}}
+Cu tine prin credinta {composer: {Ciornei Daniel}, {rcId: {240710}}
 
 [sequence]
 v1,v2

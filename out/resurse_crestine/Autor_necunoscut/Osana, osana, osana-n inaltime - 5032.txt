@@ -1,5 +1,5 @@
 [title]
-Osana osana osana-n inaltime {author: {Anonim}, {rcId: {5032}}
+Osana osana osana-n inaltime {composer: {Anonim}, {rcId: {5032}}
 
 [sequence]
 v1,v2,v3

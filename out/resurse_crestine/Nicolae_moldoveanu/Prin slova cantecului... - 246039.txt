@@ -1,5 +1,5 @@
 [title]
-Prin slova cantecului {author: {Nicolae Moldoveanu}, {rcId: {246039}}
+Prin slova cantecului {composer: {Nicolae Moldoveanu}, {rcId: {246039}}
 
 [sequence]
 v1,v2,v3

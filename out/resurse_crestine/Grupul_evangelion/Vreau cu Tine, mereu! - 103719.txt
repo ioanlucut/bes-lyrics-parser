@@ -1,5 +1,5 @@
 [title]
-Vreau cu tine mereu {author: {Grupul Evangelion}, {rcId: {103719}}
+Vreau cu tine mereu {composer: {Grupul Evangelion}, {rcId: {103719}}
 
 [sequence]
 v1,c,v2,c,e

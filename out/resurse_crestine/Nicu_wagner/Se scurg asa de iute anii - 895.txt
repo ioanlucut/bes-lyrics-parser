@@ -1,5 +1,5 @@
 [title]
-Se scurg asa de iute anii {author: {Nicu Wagner}, {rcId: {895}}
+Se scurg asa de iute anii {composer: {Nicu Wagner}, {rcId: {895}}
 
 [sequence]
 v1,c,v2,c,v3,c

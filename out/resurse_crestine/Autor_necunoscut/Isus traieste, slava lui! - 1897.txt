@@ -1,5 +1,5 @@
 [title]
-Isus traieste slava lui {author: {Anonim}, {rcId: {1897}}
+Isus traieste slava lui {composer: {Anonim}, {rcId: {1897}}
 
 [sequence]
 v1,v2,v3,v4

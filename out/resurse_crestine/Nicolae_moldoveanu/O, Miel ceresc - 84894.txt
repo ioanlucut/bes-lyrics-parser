@@ -1,5 +1,5 @@
 [title]
-O miel ceresc {author: {Nicolae Moldoveanu}, {rcId: {84894}}
+O miel ceresc {composer: {Nicolae Moldoveanu}, {rcId: {84894}}
 
 [sequence]
 v1,v2,v3,v4

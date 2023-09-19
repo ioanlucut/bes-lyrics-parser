@@ -1,5 +1,5 @@
 [title]
-Ce mare har {author: {Speranța}, {rcId: {63035}}
+Ce mare har {composer: {Speranța}, {rcId: {63035}}
 
 [sequence]
 v1,c,v2,c,v3,c

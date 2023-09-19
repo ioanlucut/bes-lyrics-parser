@@ -1,5 +1,5 @@
 [title]
-O vino azi emanuel - o come o come emanuel - re min {author: {ed. Dan Istrate}, {rcId: {223080}}
+O vino azi emanuel - o come o come emanuel - re min {composer: {ed. Dan Istrate}, {rcId: {223080}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

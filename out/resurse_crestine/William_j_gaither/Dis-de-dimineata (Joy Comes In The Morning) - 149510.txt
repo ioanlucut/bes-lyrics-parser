@@ -1,5 +1,5 @@
 [title]
-Dis-de-dimineata (joy comes in the morning) {author: {William J. Gaither, Traducere RO}, {rcId: {149510}}
+Dis-de-dimineata (joy comes in the morning) {composer: {William J. Gaither, Traducere RO}, {rcId: {149510}}
 
 [sequence]
 v1,c,v2,c,s,c

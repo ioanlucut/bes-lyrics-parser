@@ -1,5 +1,5 @@
 [title]
-Dragostea ta {author: {Grupul Evangelion}, {rcId: {103877}}
+Dragostea ta {composer: {Grupul Evangelion}, {rcId: {103877}}
 
 [sequence]
 v1,b,c,v2,c

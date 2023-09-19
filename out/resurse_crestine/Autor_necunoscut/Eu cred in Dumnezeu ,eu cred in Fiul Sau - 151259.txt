@@ -1,5 +1,5 @@
 [title]
-Eu cred in dumnezeu eu cred in fiul sau {author: {Anonim}, {rcId: {151259}}
+Eu cred in dumnezeu eu cred in fiul sau {composer: {Anonim}, {rcId: {151259}}
 
 [sequence]
 v1,c,v2,c,v3,c

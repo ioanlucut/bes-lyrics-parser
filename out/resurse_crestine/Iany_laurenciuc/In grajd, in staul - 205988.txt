@@ -1,5 +1,5 @@
 [title]
-In grajd in staul {author: {Iany Laurenciuc}, {rcId: {205988}}
+In grajd in staul {composer: {Iany Laurenciuc}, {rcId: {205988}}
 
 [sequence]
 v1,c,v2,c,v3,c

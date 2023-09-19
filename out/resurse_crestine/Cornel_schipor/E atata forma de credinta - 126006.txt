@@ -1,5 +1,5 @@
 [title]
-E atata forma de credinta {author: {Cornel Schipor}, {rcId: {126006}}
+E atata forma de credinta {composer: {Cornel Schipor}, {rcId: {126006}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

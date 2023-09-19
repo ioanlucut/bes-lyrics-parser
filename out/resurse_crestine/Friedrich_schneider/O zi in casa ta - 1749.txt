@@ -1,5 +1,5 @@
 [title]
-O zi in casa ta {author: {Friedrich Schneider}, {rcId: {1749}}
+O zi in casa ta {composer: {Friedrich Schneider}, {rcId: {1749}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Frati surori cantati toti {author: {G.G.Korben}, {rcId: {4790}}
+Frati surori cantati toti {composer: {G.G.Korben}, {rcId: {4790}}
 
 [sequence]
 v1,c,v2,c,v3,c

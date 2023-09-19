@@ -1,5 +1,5 @@
 [title]
-Slava slava iti cantam isus necontenit - fa maj {author: {ed. Dan Istrate}, {rcId: {199348}}
+Slava slava iti cantam isus necontenit - fa maj {composer: {ed. Dan Istrate}, {rcId: {199348}}
 
 [sequence]
 v1,v2,v3,c

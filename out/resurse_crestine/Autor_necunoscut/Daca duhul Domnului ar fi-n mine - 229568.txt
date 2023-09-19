@@ -1,5 +1,5 @@
 [title]
-Daca duhul domnului ar fi-n mine {author: {Anonim}, {rcId: {229568}}
+Daca duhul domnului ar fi-n mine {composer: {Anonim}, {rcId: {229568}}
 
 [sequence]
 v1,v2,v3,v4,v5

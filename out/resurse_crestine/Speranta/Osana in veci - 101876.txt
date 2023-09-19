@@ -1,5 +1,5 @@
 [title]
-Osana in veci {author: {Speranța}, {rcId: {101876}}
+Osana in veci {composer: {Speranța}, {rcId: {101876}}
 
 [sequence]
 v1,v2,v3,v4

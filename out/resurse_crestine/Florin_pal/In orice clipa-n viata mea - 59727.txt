@@ -1,5 +1,5 @@
 [title]
-In orice clipa-n viata mea {author: {Florin Pal}, {rcId: {59727}}
+In orice clipa-n viata mea {composer: {Florin Pal}, {rcId: {59727}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

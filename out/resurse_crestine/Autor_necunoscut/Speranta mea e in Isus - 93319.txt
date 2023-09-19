@@ -1,5 +1,5 @@
 [title]
-Speranta mea e in isus {author: {Anonim}, {rcId: {93319}}
+Speranta mea e in isus {composer: {Anonim}, {rcId: {93319}}
 
 [sequence]
 v1,v2,v3,v4

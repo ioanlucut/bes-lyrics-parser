@@ -1,5 +1,5 @@
 [title]
-Dragostea lui nu are hotare {author: {Mihail Cebotarev}, {rcId: {7312}}
+Dragostea lui nu are hotare {composer: {Mihail Cebotarev}, {rcId: {7312}}
 
 [sequence]
 v1,v2,v3,v4

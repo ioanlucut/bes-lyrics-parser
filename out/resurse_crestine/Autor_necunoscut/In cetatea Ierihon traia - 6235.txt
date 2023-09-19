@@ -1,5 +1,5 @@
 [title]
-In cetatea ierihon tr~aia {author: {Anonim}, {rcId: {6235}}
+In cetatea ierihon tr~aia {composer: {Anonim}, {rcId: {6235}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

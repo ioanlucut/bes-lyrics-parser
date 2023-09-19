@@ -1,5 +1,5 @@
 [title]
-Ce minunat salvator {author: {Anonim}, {rcId: {7306}}
+Ce minunat salvator {composer: {Anonim}, {rcId: {7306}}
 
 [sequence]
 v1,c,v2,c

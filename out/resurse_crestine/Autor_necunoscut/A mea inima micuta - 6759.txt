@@ -1,5 +1,5 @@
 [title]
-A mea inima micuta {author: {Anonim}, {rcId: {6759}}
+A mea inima micuta {composer: {Anonim}, {rcId: {6759}}
 
 [sequence]
 v1,v2,v3

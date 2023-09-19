@@ -1,5 +1,5 @@
 [title]
-Imi tin piciorul departe {author: {Tineri Biserica ”Filadelfia”, Galați}, {rcId: {204204}}
+Imi tin piciorul departe {composer: {Tineri Biserica ”Filadelfia”, Galați}, {rcId: {204204}}
 
 [sequence]
 c,v1,c,v2,c

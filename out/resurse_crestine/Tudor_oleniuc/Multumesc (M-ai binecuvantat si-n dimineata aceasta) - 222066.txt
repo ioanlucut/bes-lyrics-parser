@@ -1,5 +1,5 @@
 [title]
-Multumesc (m-ai binecuvantat si-n dimineata aceasta) {author: {Tudor Oleniuc}, {rcId: {222066}}
+Multumesc (m-ai binecuvantat si-n dimineata aceasta) {composer: {Tudor Oleniuc}, {rcId: {222066}}
 
 [sequence]
 v1,c,v2,c,v3,c,c

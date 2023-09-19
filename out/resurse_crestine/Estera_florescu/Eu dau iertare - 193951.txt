@@ -1,5 +1,5 @@
 [title]
-Eu dau iertare {author: {Estera Florescu}, {rcId: {193951}}
+Eu dau iertare {composer: {Estera Florescu}, {rcId: {193951}}
 
 [sequence]
 v1,c,v2,c

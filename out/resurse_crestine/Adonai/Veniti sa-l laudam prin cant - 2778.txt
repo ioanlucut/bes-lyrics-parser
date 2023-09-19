@@ -1,5 +1,5 @@
 [title]
-Veniti sa-l laudam prin cant {author: {Adonai}, {rcId: {2778}}
+Veniti sa-l laudam prin cant {composer: {Adonai}, {rcId: {2778}}
 
 [sequence]
 c,v1,c,v2,c,e

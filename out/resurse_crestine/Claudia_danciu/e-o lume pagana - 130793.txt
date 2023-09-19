@@ -1,5 +1,5 @@
 [title]
-E-o lume pagana {author: {Claudia Danciu}, {rcId: {130793}}
+E-o lume pagana {composer: {Claudia Danciu}, {rcId: {130793}}
 
 [sequence]
 v1,v2,v3

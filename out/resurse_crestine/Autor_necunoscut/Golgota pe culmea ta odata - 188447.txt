@@ -1,5 +1,5 @@
 [title]
-Golgota pe culmea ta odata {author: {Anonim}, {rcId: {188447}}
+Golgota pe culmea ta odata {composer: {Anonim}, {rcId: {188447}}
 
 [sequence]
 v1,v2,v3,v4

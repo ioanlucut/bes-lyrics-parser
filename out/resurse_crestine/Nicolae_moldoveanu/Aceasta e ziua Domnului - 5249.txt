@@ -1,5 +1,5 @@
 [title]
-Aceasta e ziua domnului {author: {Nicolae Moldoveanu}, {rcId: {5249}}
+Aceasta e ziua domnului {composer: {Nicolae Moldoveanu}, {rcId: {5249}}
 
 [sequence]
 v1,v2,v3,v4

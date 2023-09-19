@@ -1,5 +1,5 @@
 [title]
-Vino te cheama pastorul {author: {Bucuria copiilor}, {rcId: {5318}}
+Vino te cheama pastorul {composer: {Bucuria copiilor}, {rcId: {5318}}
 
 [sequence]
 v1,v2

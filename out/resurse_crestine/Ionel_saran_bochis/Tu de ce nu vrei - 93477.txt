@@ -1,5 +1,5 @@
 [title]
-Tu de ce nu vrei {author: {Ionel Saran Bochis}, {rcId: {93477}}
+Tu de ce nu vrei {composer: {Ionel Saran Bochis}, {rcId: {93477}}
 
 [sequence]
 v1,c,v2,c,v3,c

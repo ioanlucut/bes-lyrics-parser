@@ -1,5 +1,5 @@
 [title]
-Invata de la iov {author: {Eldad Kids}, {rcId: {179516}}
+Invata de la iov {composer: {Eldad Kids}, {rcId: {179516}}
 
 [sequence]
 v1,c,v2,c2

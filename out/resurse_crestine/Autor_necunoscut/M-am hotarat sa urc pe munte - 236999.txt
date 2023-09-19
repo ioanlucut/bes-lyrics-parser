@@ -1,5 +1,5 @@
 [title]
-M-am hotarat sa urc pe munte {author: {Anonim}, {rcId: {236999}}
+M-am hotarat sa urc pe munte {composer: {Anonim}, {rcId: {236999}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

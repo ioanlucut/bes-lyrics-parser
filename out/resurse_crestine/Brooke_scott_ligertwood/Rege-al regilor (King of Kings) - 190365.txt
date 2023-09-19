@@ -1,5 +1,5 @@
 [title]
-Rege-al regilor (king of kings) {author: {Brooke, Scott Ligertwood, Traducere RO}, {rcId: {190365}}
+Rege-al regilor (king of kings) {composer: {Brooke, Scott Ligertwood, Traducere RO}, {rcId: {190365}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,s,c

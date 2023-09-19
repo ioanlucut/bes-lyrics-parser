@@ -1,5 +1,5 @@
 [title]
-Vad pe isus (i see jesus) {author: {Charles B. Wycuff, Traducere RO}, {rcId: {96711}}
+Vad pe isus (i see jesus) {composer: {Charles B. Wycuff, Traducere RO}, {rcId: {96711}}
 
 [sequence]
 v1,c,v2,c,s,c

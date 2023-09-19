@@ -1,5 +1,5 @@
 [title]
-Frumoasa zi de bucurii {author: {Autor necunoscut}, {rcId: {225627}}
+Frumoasa zi de bucurii {composer: {Autor necunoscut}, {rcId: {225627}}
 
 [sequence]
 v1,b,v2,v3

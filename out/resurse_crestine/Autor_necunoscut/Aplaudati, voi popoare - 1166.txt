@@ -1,5 +1,5 @@
 [title]
-Aplaudati voi popoare {author: {Anonim}, {rcId: {1166}}
+Aplaudati voi popoare {composer: {Anonim}, {rcId: {1166}}
 
 [sequence]
 v1,c

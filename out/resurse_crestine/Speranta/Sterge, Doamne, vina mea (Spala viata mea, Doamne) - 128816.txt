@@ -1,5 +1,5 @@
 [title]
-Sterge doamne vina mea (spala viata mea doamne) {author: {Speranța}, {rcId: {128816}}
+Sterge doamne vina mea (spala viata mea doamne) {composer: {Speranța}, {rcId: {128816}}
 
 [sequence]
 v1,b,c,v2,c,e

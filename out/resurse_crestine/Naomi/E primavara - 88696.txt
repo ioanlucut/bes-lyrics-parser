@@ -1,5 +1,5 @@
 [title]
-E primavara {author: {Naomi}, {rcId: {88696}}
+E primavara {composer: {Naomi}, {rcId: {88696}}
 
 [sequence]
 v1,c,v2,c,v3,c

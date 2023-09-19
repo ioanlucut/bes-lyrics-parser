@@ -1,5 +1,5 @@
 [title]
-Calea spre cer {author: {Speranța}, {rcId: {101937}}
+Calea spre cer {composer: {Speranța}, {rcId: {101937}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

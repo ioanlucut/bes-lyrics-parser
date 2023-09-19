@@ -1,5 +1,5 @@
 [title]
-Fiul lui david {author: {The Messengers}, {rcId: {96940}}
+Fiul lui david {composer: {The Messengers}, {rcId: {96940}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

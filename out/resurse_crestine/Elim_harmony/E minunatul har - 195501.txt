@@ -1,5 +1,5 @@
 [title]
-E minunatul har {author: {Elim Harmony}, {rcId: {195501}}
+E minunatul har {composer: {Elim Harmony}, {rcId: {195501}}
 
 [sequence]
 v1,c,v2,c,e,c

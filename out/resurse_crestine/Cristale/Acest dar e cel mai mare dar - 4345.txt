@@ -1,5 +1,5 @@
 [title]
-Acest dar e cel mai mare dar {author: {Cristale}, {rcId: {4345}}
+Acest dar e cel mai mare dar {composer: {Cristale}, {rcId: {4345}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

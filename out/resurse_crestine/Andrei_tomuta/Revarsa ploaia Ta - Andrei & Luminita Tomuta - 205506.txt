@@ -1,5 +1,5 @@
 [title]
-Revarsa ploaia ta - andrei & luminita tomuta {author: {Andrei Tomuta}, {rcId: {205506}}
+Revarsa ploaia ta - andrei & luminita tomuta {composer: {Andrei Tomuta}, {rcId: {205506}}
 
 [sequence]
 v1,c,c

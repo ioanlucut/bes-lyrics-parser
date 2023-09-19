@@ -1,5 +1,5 @@
 [title]
-Dragostea ta minunata {author: {Anonim}, {rcId: {218687}}
+Dragostea ta minunata {composer: {Anonim}, {rcId: {218687}}
 
 [sequence]
 v1,v2

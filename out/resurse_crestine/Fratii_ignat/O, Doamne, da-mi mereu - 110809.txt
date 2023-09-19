@@ -1,5 +1,5 @@
 [title]
-O doamne da-mi mereu {author: {Frații Ignat}, {rcId: {110809}}
+O doamne da-mi mereu {composer: {Frații Ignat}, {rcId: {110809}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

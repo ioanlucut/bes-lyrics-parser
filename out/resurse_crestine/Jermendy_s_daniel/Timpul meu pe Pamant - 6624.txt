@@ -1,5 +1,5 @@
 [title]
-Timpul meu pe pamant {author: {Jermendy S. Daniel, Traducere RO}, {rcId: {6624}}
+Timpul meu pe pamant {composer: {Jermendy S. Daniel, Traducere RO}, {rcId: {6624}}
 
 [sequence]
 v1,c,v2,c

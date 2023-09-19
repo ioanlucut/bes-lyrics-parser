@@ -1,5 +1,5 @@
 [title]
-Isuse de pe-acest pamant {author: {Nicolae Moldoveanu}, {rcId: {5834}}
+Isuse de pe-acest pamant {composer: {Nicolae Moldoveanu}, {rcId: {5834}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

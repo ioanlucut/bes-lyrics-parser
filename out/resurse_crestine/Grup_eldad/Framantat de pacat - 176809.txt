@@ -1,5 +1,5 @@
 [title]
-Framantat de pacat {author: {Grup Eldad}, {rcId: {176809}}
+Framantat de pacat {composer: {Grup Eldad}, {rcId: {176809}}
 
 [sequence]
 v1,v2,e

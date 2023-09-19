@@ -1,5 +1,5 @@
 [title]
-Laudati-l pe domnul {author: {Gabi_Ilut}, {rcId: {241294}}
+Laudati-l pe domnul {composer: {Gabi_Ilut}, {rcId: {241294}}
 
 [sequence]
 v1,c,v2,c,v3,c

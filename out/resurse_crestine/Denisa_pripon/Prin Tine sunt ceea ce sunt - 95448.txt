@@ -1,5 +1,5 @@
 [title]
-Prin tine sunt ceea ce sunt {author: {Denisa Pripon}, {rcId: {95448}}
+Prin tine sunt ceea ce sunt {composer: {Denisa Pripon}, {rcId: {95448}}
 
 [sequence]
 v1,c,v2,c,v3,c

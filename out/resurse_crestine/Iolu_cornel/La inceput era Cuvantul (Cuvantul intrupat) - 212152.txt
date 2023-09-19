@@ -1,5 +1,5 @@
 [title]
-La inceput era cuvantul (cuvantul intrupat) {author: {Iolu Cornel}, {rcId: {212152}}
+La inceput era cuvantul (cuvantul intrupat) {composer: {Iolu Cornel}, {rcId: {212152}}
 
 [sequence]
 v1,c,v1,c,e,c

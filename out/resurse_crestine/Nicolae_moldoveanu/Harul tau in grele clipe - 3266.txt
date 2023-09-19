@@ -1,5 +1,5 @@
 [title]
-Harul tau in grele clipe {author: {Nicolae Moldoveanu}, {rcId: {3266}}
+Harul tau in grele clipe {composer: {Nicolae Moldoveanu}, {rcId: {3266}}
 
 [sequence]
 v1,v2,v3,v4

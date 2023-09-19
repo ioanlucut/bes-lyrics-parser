@@ -1,5 +1,5 @@
 [title]
-La usa vietii tale bate {author: {Nicolae Moldoveanu}, {rcId: {5383}}
+La usa vietii tale bate {composer: {Nicolae Moldoveanu}, {rcId: {5383}}
 
 [sequence]
 v1,c,v1,c,v2,c,v3,c

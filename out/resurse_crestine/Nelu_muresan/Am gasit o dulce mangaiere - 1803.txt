@@ -1,5 +1,5 @@
 [title]
-Am gasit o dulce mangaiere {author: {Nelu Muresan}, {rcId: {1803}}
+Am gasit o dulce mangaiere {composer: {Nelu Muresan}, {rcId: {1803}}
 
 [sequence]
 v1,c,v2,c

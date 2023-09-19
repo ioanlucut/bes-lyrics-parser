@@ -1,5 +1,5 @@
 [title]
-Adesea ispita ma-nvinge {author: {Nicolae Moldoveanu}, {rcId: {5638}}
+Adesea ispita ma-nvinge {composer: {Nicolae Moldoveanu}, {rcId: {5638}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

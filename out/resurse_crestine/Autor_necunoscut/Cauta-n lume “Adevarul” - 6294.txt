@@ -1,5 +1,5 @@
 [title]
-Caut~a-n lume "adev~arul" {author: {Anonim}, {rcId: {6294}}
+Caut~a-n lume "adev~arul" {composer: {Anonim}, {rcId: {6294}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,v4,c,v5,c

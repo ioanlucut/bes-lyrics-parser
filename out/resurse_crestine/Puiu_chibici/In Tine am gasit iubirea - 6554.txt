@@ -1,5 +1,5 @@
 [title]
-In tine am gasit iubirea {author: {Puiu Chibici}, {rcId: {6554}}
+In tine am gasit iubirea {composer: {Puiu Chibici}, {rcId: {6554}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

@@ -1,5 +1,5 @@
 [title]
-Langa apa ca si pomul {author: {A.H.Ackley}, {rcId: {68866}}
+Langa apa ca si pomul {composer: {A.H.Ackley}, {rcId: {68866}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

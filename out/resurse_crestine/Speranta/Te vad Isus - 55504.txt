@@ -1,5 +1,5 @@
 [title]
-Te vad isus {author: {Speranța}, {rcId: {55504}}
+Te vad isus {composer: {Speranța}, {rcId: {55504}}
 
 [sequence]
 v1,c,v2,c,v3,c

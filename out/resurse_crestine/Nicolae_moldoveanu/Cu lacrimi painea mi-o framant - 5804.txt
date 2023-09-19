@@ -1,5 +1,5 @@
 [title]
-Cu lacrimi painea mi-o framant {author: {Nicolae Moldoveanu}, {rcId: {5804}}
+Cu lacrimi painea mi-o framant {composer: {Nicolae Moldoveanu}, {rcId: {5804}}
 
 [sequence]
 v1,c,v2,c

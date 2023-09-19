@@ -1,5 +1,5 @@
 [title]
-Preda-ti viata in mana domnului {author: {Denis Ceasar}, {rcId: {238635}}
+Preda-ti viata in mana domnului {composer: {Denis Ceasar}, {rcId: {238635}}
 
 [sequence]
 v1,c,v2,c

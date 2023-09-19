@@ -1,5 +1,5 @@
 [title]
-Ochii tai sunt isuse adanci splendori {author: {Costache Ioanid}, {rcId: {123316}}
+Ochii tai sunt isuse adanci splendori {composer: {Costache Ioanid}, {rcId: {123316}}
 
 [sequence]
 v1,v2,v3,v4

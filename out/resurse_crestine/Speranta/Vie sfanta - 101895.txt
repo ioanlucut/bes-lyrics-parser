@@ -1,5 +1,5 @@
 [title]
-Vie sfanta {author: {Speranța}, {rcId: {101895}}
+Vie sfanta {composer: {Speranța}, {rcId: {101895}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

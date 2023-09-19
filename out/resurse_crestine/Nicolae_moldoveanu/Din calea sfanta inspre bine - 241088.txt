@@ -1,5 +1,5 @@
 [title]
-Din calea sfanta inspre bine {author: {Nicolae Moldoveanu}, {rcId: {241088}}
+Din calea sfanta inspre bine {composer: {Nicolae Moldoveanu}, {rcId: {241088}}
 
 [sequence]
 v1,v2,v3

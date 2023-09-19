@@ -1,5 +1,5 @@
 [title]
-Timpul {author: {Dincolo De Ziduri}, {rcId: {171966}}
+Timpul {composer: {Dincolo De Ziduri}, {rcId: {171966}}
 
 [sequence]
 v1,c,s,c,v2,c,c

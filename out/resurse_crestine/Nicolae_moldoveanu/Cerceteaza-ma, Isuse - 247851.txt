@@ -1,5 +1,5 @@
 [title]
-Cerceteaza-ma isuse {author: {Nicolae Moldoveanu}, {rcId: {247851}}
+Cerceteaza-ma isuse {composer: {Nicolae Moldoveanu}, {rcId: {247851}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Vrednic este mielul {author: {Speranța}, {rcId: {232693}}
+Vrednic este mielul {composer: {Speranța}, {rcId: {232693}}
 
 [sequence]
 v1,c,v2,b,c,e,c

@@ -1,5 +1,5 @@
 [title]
-Deci sa fim gata {author: {Anonim}, {rcId: {4532}}
+Deci sa fim gata {composer: {Anonim}, {rcId: {4532}}
 
 [sequence]
 v1,v2,v3,v4,v5

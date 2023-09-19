@@ -1,5 +1,5 @@
 [title]
-Veniti cu drag la cortul intalnirii {author: {Daniel Hartie}, {rcId: {158908}}
+Veniti cu drag la cortul intalnirii {composer: {Daniel Hartie}, {rcId: {158908}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Fiu rascumparat {author: {David Preuteasa}, {rcId: {184790}}
+Fiu rascumparat {composer: {David Preuteasa}, {rcId: {184790}}
 
 [sequence]
 v1,c,v2,b,c

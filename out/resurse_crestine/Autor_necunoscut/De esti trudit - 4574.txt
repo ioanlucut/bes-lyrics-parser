@@ -1,5 +1,5 @@
 [title]
-De esti trudit {author: {Anonim}, {rcId: {4574}}
+De esti trudit {composer: {Anonim}, {rcId: {4574}}
 
 [sequence]
 v1,c,v2,c,v3,c

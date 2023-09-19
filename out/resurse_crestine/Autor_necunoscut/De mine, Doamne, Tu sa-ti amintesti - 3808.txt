@@ -1,5 +1,5 @@
 [title]
-De mine doamne tu sa-ti amintesti {author: {Anonim}, {rcId: {3808}}
+De mine doamne tu sa-ti amintesti {composer: {Anonim}, {rcId: {3808}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Uneori tu crezi in viata {author: {Fratii Pal}, {rcId: {230418}}
+Uneori tu crezi in viata {composer: {Fratii Pal}, {rcId: {230418}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

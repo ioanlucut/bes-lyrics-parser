@@ -1,5 +1,5 @@
 [title]
-Rata zice {author: {Nicolae Moldoveanu}, {rcId: {229694}}
+Rata zice {composer: {Nicolae Moldoveanu}, {rcId: {229694}}
 
 [sequence]
 v1,v2,v3

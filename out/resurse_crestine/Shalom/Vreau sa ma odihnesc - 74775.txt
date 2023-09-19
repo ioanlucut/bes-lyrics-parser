@@ -1,5 +1,5 @@
 [title]
-Vreau sa ma odihnesc {author: {Shalom}, {rcId: {74775}}
+Vreau sa ma odihnesc {composer: {Shalom}, {rcId: {74775}}
 
 [sequence]
 v1,v2,c,v3,c

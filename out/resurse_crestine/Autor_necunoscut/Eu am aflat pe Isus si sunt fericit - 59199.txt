@@ -1,5 +1,5 @@
 [title]
-Eu am aflat pe isus si sunt fericit {author: {Anonim}, {rcId: {59199}}
+Eu am aflat pe isus si sunt fericit {composer: {Anonim}, {rcId: {59199}}
 
 [sequence]
 v1,c,v2,c

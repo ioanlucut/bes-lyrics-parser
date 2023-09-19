@@ -1,5 +1,5 @@
 [title]
-El e-ntronat in dreptate {author: {Anonim}, {rcId: {4912}}
+El e-ntronat in dreptate {composer: {Anonim}, {rcId: {4912}}
 
 [sequence]
 v1,c

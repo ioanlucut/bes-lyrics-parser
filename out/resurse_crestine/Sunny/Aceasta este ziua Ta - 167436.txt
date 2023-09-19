@@ -1,5 +1,5 @@
 [title]
-Aceasta este ziua ta {author: {Sunny}, {rcId: {167436}}
+Aceasta este ziua ta {composer: {Sunny}, {rcId: {167436}}
 
 [sequence]
 v1,b,c,v2,b,c,e

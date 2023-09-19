@@ -1,5 +1,5 @@
 [title]
-Ades la altare privim intristati {author: {Anonim}, {rcId: {74199}}
+Ades la altare privim intristati {composer: {Anonim}, {rcId: {74199}}
 
 [sequence]
 v1,v2,v3,v4

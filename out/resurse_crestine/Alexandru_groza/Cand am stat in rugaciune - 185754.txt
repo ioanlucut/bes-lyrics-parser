@@ -1,5 +1,5 @@
 [title]
-Cand am stat in rugaciune {author: {Alexandru Groza}, {rcId: {185754}}
+Cand am stat in rugaciune {composer: {Alexandru Groza}, {rcId: {185754}}
 
 [sequence]
 v1,c,c,v2,c,v3,c,e

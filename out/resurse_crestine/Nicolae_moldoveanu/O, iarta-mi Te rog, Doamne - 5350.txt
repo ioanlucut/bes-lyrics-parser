@@ -1,5 +1,5 @@
 [title]
-O iarta-mi te rog doamne {author: {Nicolae Moldoveanu}, {rcId: {5350}}
+O iarta-mi te rog doamne {composer: {Nicolae Moldoveanu}, {rcId: {5350}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Catre cer {author: {Ruben Diaconu}, {rcId: {194039}}
+Catre cer {composer: {Ruben Diaconu}, {rcId: {194039}}
 
 [sequence]
 v1,c,v2,c,v3,c

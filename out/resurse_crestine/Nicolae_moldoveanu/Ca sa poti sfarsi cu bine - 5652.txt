@@ -1,5 +1,5 @@
 [title]
-Ca sa poti sfarsi cu bine {author: {Nicolae Moldoveanu}, {rcId: {5652}}
+Ca sa poti sfarsi cu bine {composer: {Nicolae Moldoveanu}, {rcId: {5652}}
 
 [sequence]
 v1,c,v2,c2,v3,c2

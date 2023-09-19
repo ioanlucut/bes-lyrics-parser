@@ -1,5 +1,5 @@
 [title]
-Slava lui isus {author: {Anonim}, {rcId: {182369}}
+Slava lui isus {composer: {Anonim}, {rcId: {182369}}
 
 [sequence]
 v1,v2,v3,v4

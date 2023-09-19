@@ -1,5 +1,5 @@
 [title]
-Sunt fericit isus m-a mantuit {author: {Anonim}, {rcId: {5077}}
+Sunt fericit isus m-a mantuit {composer: {Anonim}, {rcId: {5077}}
 
 [sequence]
 v1,v2,v3

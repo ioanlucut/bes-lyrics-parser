@@ -1,5 +1,5 @@
 [title]
-De n-ai fi fost de partea noastra {author: {Anonim}, {rcId: {179615}}
+De n-ai fi fost de partea noastra {composer: {Anonim}, {rcId: {179615}}
 
 [sequence]
 v1,v2,v3,v4,e

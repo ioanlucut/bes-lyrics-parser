@@ -1,5 +1,5 @@
 [title]
-Minunat - deo gratias {author: {adi petras}, {rcId: {241992}}
+Minunat - deo gratias {composer: {adi petras}, {rcId: {241992}}
 
 [sequence]
 v1,c,v2,c

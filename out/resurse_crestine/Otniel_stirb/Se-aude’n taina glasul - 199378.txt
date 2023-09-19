@@ -1,5 +1,5 @@
 [title]
-Se-aude'n taina glasul {author: {Otniel Stirb}, {rcId: {199378}}
+Se-aude'n taina glasul {composer: {Otniel Stirb}, {rcId: {199378}}
 
 [sequence]
 v1,c,v2,c,v3,c

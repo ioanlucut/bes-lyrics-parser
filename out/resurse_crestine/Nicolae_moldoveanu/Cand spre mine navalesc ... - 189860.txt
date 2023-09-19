@@ -1,5 +1,5 @@
 [title]
-Cand spre mine navalesc {author: {Nicolae Moldoveanu}, {rcId: {189860}}
+Cand spre mine navalesc {composer: {Nicolae Moldoveanu}, {rcId: {189860}}
 
 [sequence]
 v1,v2,v3,v4

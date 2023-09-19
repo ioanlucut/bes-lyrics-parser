@@ -1,5 +1,5 @@
 [title]
-Canta-n coruri mii si mii {author: {Anonim}, {rcId: {3990}}
+Canta-n coruri mii si mii {composer: {Anonim}, {rcId: {3990}}
 
 [sequence]
 v1,v2,v3,v4

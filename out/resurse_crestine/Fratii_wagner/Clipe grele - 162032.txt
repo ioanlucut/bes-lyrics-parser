@@ -1,5 +1,5 @@
 [title]
-Clipe grele {author: {Frații Wagner}, {rcId: {162032}}
+Clipe grele {composer: {Frații Wagner}, {rcId: {162032}}
 
 [sequence]
 v1,c,v2,c,v3,c

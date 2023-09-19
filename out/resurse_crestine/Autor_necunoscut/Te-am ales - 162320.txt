@@ -1,5 +1,5 @@
 [title]
-Te-am ales {author: {Anonim}, {rcId: {162320}}
+Te-am ales {composer: {Anonim}, {rcId: {162320}}
 
 [sequence]
 v1,v2,v3

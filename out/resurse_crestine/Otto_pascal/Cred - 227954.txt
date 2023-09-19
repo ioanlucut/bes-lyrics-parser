@@ -1,5 +1,5 @@
 [title]
-Cred {author: {Otto Pascal}, {rcId: {227954}}
+Cred {composer: {Otto Pascal}, {rcId: {227954}}
 
 [sequence]
 v1,c,v2,c,e,c

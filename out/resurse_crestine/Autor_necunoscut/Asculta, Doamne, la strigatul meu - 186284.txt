@@ -1,5 +1,5 @@
 [title]
-Asculta doamne la strigatul meu {author: {Anonim}, {rcId: {186284}}
+Asculta doamne la strigatul meu {composer: {Anonim}, {rcId: {186284}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Bine e cand noaptea trece {author: {Nicolae Moldoveanu}, {rcId: {58802}}
+Bine e cand noaptea trece {composer: {Nicolae Moldoveanu}, {rcId: {58802}}
 
 [sequence]
 v1,v2,v3

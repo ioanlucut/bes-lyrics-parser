@@ -1,5 +1,5 @@
 [title]
-Ce-ai putea sa faci {author: {Nicu Chereji}, {rcId: {208820}}
+Ce-ai putea sa faci {composer: {Nicu Chereji}, {rcId: {208820}}
 
 [sequence]
 v1,c,v3,c,v4,c,v5,c

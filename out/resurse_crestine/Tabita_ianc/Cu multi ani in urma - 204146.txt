@@ -1,5 +1,5 @@
 [title]
-Cu multi ani in urma {author: {Tabita Ianc}, {rcId: {204146}}
+Cu multi ani in urma {composer: {Tabita Ianc}, {rcId: {204146}}
 
 [sequence]
 v1,c,v2,c,v3,c

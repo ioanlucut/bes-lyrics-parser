@@ -1,5 +1,5 @@
 [title]
-O singura cale {author: {Gabi Ilut}, {rcId: {94650}}
+O singura cale {composer: {Gabi Ilut}, {rcId: {94650}}
 
 [sequence]
 v1,b,c,v2,b,c

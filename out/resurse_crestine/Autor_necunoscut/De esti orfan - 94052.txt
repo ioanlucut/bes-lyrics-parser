@@ -1,5 +1,5 @@
 [title]
-De esti orfan {author: {Anonim}, {rcId: {94052}}
+De esti orfan {composer: {Anonim}, {rcId: {94052}}
 
 [sequence]
 v1,v2,v3,v4,v5

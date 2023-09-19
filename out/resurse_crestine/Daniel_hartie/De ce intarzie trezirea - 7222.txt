@@ -1,5 +1,5 @@
 [title]
-De ce intarzie trezirea {author: {Daniel Hartie}, {rcId: {7222}}
+De ce intarzie trezirea {composer: {Daniel Hartie}, {rcId: {7222}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

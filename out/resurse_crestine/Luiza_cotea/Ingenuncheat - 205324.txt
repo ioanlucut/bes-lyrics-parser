@@ -1,5 +1,5 @@
 [title]
-Ingenuncheat {author: {Luiza Cotea}, {rcId: {205324}}
+Ingenuncheat {composer: {Luiza Cotea}, {rcId: {205324}}
 
 [sequence]
 v1,c,v2,c

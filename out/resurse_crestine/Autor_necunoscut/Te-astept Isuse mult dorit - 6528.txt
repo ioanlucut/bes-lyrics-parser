@@ -1,5 +1,5 @@
 [title]
-Te-astept isuse mult dorit {author: {Anonim}, {rcId: {6528}}
+Te-astept isuse mult dorit {composer: {Anonim}, {rcId: {6528}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

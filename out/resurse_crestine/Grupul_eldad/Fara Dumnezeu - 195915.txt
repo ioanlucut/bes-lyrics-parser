@@ -1,5 +1,5 @@
 [title]
-Fara dumnezeu {author: {Grupul Eldad}, {rcId: {195915}}
+Fara dumnezeu {composer: {Grupul Eldad}, {rcId: {195915}}
 
 [sequence]
 v1,c,v2,c

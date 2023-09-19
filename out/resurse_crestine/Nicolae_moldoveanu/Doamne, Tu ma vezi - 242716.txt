@@ -1,5 +1,5 @@
 [title]
-Doamne tu ma vezi {author: {Nicolae Moldoveanu}, {rcId: {242716}}
+Doamne tu ma vezi {composer: {Nicolae Moldoveanu}, {rcId: {242716}}
 
 [sequence]
 v1,v2,v3

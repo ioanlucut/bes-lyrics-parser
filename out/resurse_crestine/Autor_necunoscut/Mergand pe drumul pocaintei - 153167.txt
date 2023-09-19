@@ -1,5 +1,5 @@
 [title]
-Mergand pe drumul pocaintei {author: {Anonim}, {rcId: {153167}}
+Mergand pe drumul pocaintei {composer: {Anonim}, {rcId: {153167}}
 
 [sequence]
 v1,c,v2,c,v3,c

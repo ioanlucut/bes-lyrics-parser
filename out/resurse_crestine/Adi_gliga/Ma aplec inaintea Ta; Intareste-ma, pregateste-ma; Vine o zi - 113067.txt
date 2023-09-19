@@ -1,5 +1,5 @@
 [title]
-Ma aplec inaintea ta; intareste-ma pregateste-ma; vine o zi {author: {Adi Gliga}, {rcId: {113067}}
+Ma aplec inaintea ta; intareste-ma pregateste-ma; vine o zi {composer: {Adi Gliga}, {rcId: {113067}}
 
 [sequence]
 v1,c,v2,c

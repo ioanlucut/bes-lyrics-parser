@@ -1,5 +1,5 @@
 [title]
-Azi isus iti vorbeste iar {author: {Philip P. Bliss}, {rcId: {4788}}
+Azi isus iti vorbeste iar {composer: {Philip P. Bliss}, {rcId: {4788}}
 
 [sequence]
 v1,v2,v3

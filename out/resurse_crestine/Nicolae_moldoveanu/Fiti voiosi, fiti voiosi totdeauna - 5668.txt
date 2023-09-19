@@ -1,5 +1,5 @@
 [title]
-Fiti voiosi fiti voiosi totdeauna {author: {Nicolae Moldoveanu}, {rcId: {5668}}
+Fiti voiosi fiti voiosi totdeauna {composer: {Nicolae Moldoveanu}, {rcId: {5668}}
 
 [sequence]
 v1,c,v2,c,v3,c

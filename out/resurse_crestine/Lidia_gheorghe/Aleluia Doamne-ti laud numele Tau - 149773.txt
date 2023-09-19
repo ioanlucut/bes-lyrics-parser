@@ -1,5 +1,5 @@
 [title]
-Aleluia doamne-ti laud numele tau {author: {Lidia Gheorghe}, {rcId: {149773}}
+Aleluia doamne-ti laud numele tau {composer: {Lidia Gheorghe}, {rcId: {149773}}
 
 [sequence]
 v1,v2,v3,v4,e

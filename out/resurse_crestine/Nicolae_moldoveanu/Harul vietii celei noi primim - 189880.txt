@@ -1,5 +1,5 @@
 [title]
-Harul vietii celei noi primim {author: {Nicolae Moldoveanu}, {rcId: {189880}}
+Harul vietii celei noi primim {composer: {Nicolae Moldoveanu}, {rcId: {189880}}
 
 [sequence]
 v1,v2,v3,v4

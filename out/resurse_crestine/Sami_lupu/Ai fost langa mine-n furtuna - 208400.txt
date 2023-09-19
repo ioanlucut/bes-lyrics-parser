@@ -1,5 +1,5 @@
 [title]
-Ai fost langa mine-n furtuna {author: {Sami Lupu}, {rcId: {208400}}
+Ai fost langa mine-n furtuna {composer: {Sami Lupu}, {rcId: {208400}}
 
 [sequence]
 v1,c,v2,c,v3,c

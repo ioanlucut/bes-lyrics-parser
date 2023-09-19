@@ -1,5 +1,5 @@
 [title]
-M-ai chema din lumea de pacate {author: {Viorel Manolache}, {rcId: {176345}}
+M-ai chema din lumea de pacate {composer: {Viorel Manolache}, {rcId: {176345}}
 
 [sequence]
 v1,c,v2,c2

@@ -1,5 +1,5 @@
 [title]
-In curand trompeta revederii {author: {Anonim}, {rcId: {239887}}
+In curand trompeta revederii {composer: {Anonim}, {rcId: {239887}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Cand eram cazut tu m-ai ridicat {author: {Petra, Traducere RO}, {rcId: {2788}}
+Cand eram cazut tu m-ai ridicat {composer: {Petra, Traducere RO}, {rcId: {2788}}
 
 [sequence]
 v1,v2,v3,e

@@ -1,5 +1,5 @@
 [title]
-M-a scos din groapa pieirii {author: {Album necunoscut}, {rcId: {207961}}
+M-a scos din groapa pieirii {composer: {Album necunoscut}, {rcId: {207961}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

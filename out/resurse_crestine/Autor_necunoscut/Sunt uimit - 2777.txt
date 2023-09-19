@@ -1,5 +1,5 @@
 [title]
-Sunt uimit {author: {Anonim}, {rcId: {2777}}
+Sunt uimit {composer: {Anonim}, {rcId: {2777}}
 
 [sequence]
 v1,c

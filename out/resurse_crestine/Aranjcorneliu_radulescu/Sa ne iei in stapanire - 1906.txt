@@ -1,5 +1,5 @@
 [title]
-Sa ne iei in stapanire {author: {Aranj.Corneliu Radulescu}, {rcId: {1906}}
+Sa ne iei in stapanire {composer: {Aranj.Corneliu Radulescu}, {rcId: {1906}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

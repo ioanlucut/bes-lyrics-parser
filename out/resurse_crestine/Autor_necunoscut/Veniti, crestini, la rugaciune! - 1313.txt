@@ -1,5 +1,5 @@
 [title]
-Veniti crestini la rugaciune {author: {Anonim}, {rcId: {1313}}
+Veniti crestini la rugaciune {composer: {Anonim}, {rcId: {1313}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Nu poate fi tot soare {author: {Anonim}, {rcId: {80998}}
+Nu poate fi tot soare {composer: {Anonim}, {rcId: {80998}}
 
 [sequence]
 v1,c,v2,c,v3,c

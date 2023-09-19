@@ -1,5 +1,5 @@
 [title]
-Isuse te rugam {author: {Nicolae Moldoveanu}, {rcId: {242720}}
+Isuse te rugam {composer: {Nicolae Moldoveanu}, {rcId: {242720}}
 
 [sequence]
 v1,v2,v3

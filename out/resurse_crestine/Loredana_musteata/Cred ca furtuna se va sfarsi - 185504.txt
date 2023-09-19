@@ -1,5 +1,5 @@
 [title]
-Cred ca furtuna se va sfarsi {author: {Loredana Musteata}, {rcId: {185504}}
+Cred ca furtuna se va sfarsi {composer: {Loredana Musteata}, {rcId: {185504}}
 
 [sequence]
 v1,c,v2,c

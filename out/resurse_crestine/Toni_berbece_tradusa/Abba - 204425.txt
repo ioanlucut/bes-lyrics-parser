@@ -1,5 +1,5 @@
 [title]
-Abba {author: {Toni Berbece tradusa}, {rcId: {204425}}
+Abba {composer: {Toni Berbece tradusa}, {rcId: {204425}}
 
 [sequence]
 s,c

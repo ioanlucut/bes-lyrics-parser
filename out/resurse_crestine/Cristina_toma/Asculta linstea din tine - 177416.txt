@@ -1,5 +1,5 @@
 [title]
-Asculta linstea din tine {author: {Cristina Toma}, {rcId: {177416}}
+Asculta linstea din tine {composer: {Cristina Toma}, {rcId: {177416}}
 
 [sequence]
 v1,c,v2,c,v3,c

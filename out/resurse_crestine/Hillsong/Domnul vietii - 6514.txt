@@ -1,5 +1,5 @@
 [title]
-Domnul vietii {author: {Hillsong, Traducere RO}, {rcId: {6514}}
+Domnul vietii {composer: {Hillsong, Traducere RO}, {rcId: {6514}}
 
 [sequence]
 v1,c,v2,c,e

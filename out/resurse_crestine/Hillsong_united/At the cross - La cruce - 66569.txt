@@ -1,5 +1,5 @@
 [title]
-At the cross / la cruce {author: {Hillsong United, Traducere RO}, {rcId: {66569}}
+At the cross / la cruce {composer: {Hillsong United, Traducere RO}, {rcId: {66569}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8

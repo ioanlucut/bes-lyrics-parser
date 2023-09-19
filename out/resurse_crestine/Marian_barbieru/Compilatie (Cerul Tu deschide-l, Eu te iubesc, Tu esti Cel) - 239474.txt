@@ -1,5 +1,5 @@
 [title]
-Compilatie (cerul tu deschide-l eu te iubesc tu esti cel) {author: {Marian Barbieru}, {rcId: {239474}}
+Compilatie (cerul tu deschide-l eu te iubesc tu esti cel) {composer: {Marian Barbieru}, {rcId: {239474}}
 
 [sequence]
 v1,b,c,v2,b,c,e,v1,c,v2,c,e,v1,b,c,v2,b,c

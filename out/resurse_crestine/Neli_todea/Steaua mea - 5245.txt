@@ -1,5 +1,5 @@
 [title]
-Steaua mea {author: {Neli Todea}, {rcId: {5245}}
+Steaua mea {composer: {Neli Todea}, {rcId: {5245}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

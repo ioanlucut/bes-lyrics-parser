@@ -1,5 +1,5 @@
 [title]
-Nu te teme caci eu sunt cu tine {author: {Anonim}, {rcId: {5012}}
+Nu te teme caci eu sunt cu tine {composer: {Anonim}, {rcId: {5012}}
 
 [sequence]
 v1,c,v2,c

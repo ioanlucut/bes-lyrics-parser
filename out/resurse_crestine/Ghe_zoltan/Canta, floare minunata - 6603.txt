@@ -1,5 +1,5 @@
 [title]
-Canta floare minunata {author: {Ghe. Zoltan}, {rcId: {6603}}
+Canta floare minunata {composer: {Ghe. Zoltan}, {rcId: {6603}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

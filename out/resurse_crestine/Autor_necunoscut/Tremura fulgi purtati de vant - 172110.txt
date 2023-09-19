@@ -1,5 +1,5 @@
 [title]
-Tremura fulgi purtati de vant {author: {Anonim}, {rcId: {172110}}
+Tremura fulgi purtati de vant {composer: {Anonim}, {rcId: {172110}}
 
 [sequence]
 v1

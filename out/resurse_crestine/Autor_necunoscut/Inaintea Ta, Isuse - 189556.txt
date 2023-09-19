@@ -1,5 +1,5 @@
 [title]
-Inaintea ta isuse {author: {Anonim}, {rcId: {189556}}
+Inaintea ta isuse {composer: {Anonim}, {rcId: {189556}}
 
 [sequence]
 v1,c,v2,c

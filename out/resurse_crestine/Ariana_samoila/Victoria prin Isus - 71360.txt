@@ -1,5 +1,5 @@
 [title]
-Victoria prin isus {author: {Ariana Samoila}, {rcId: {71360}}
+Victoria prin isus {composer: {Ariana Samoila}, {rcId: {71360}}
 
 [sequence]
 v1,c,v2,c

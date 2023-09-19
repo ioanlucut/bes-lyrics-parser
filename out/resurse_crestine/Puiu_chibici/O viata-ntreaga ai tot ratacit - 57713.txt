@@ -1,5 +1,5 @@
 [title]
-O viata-ntreaga ai tot ratacit {author: {Puiu Chibici}, {rcId: {57713}}
+O viata-ntreaga ai tot ratacit {composer: {Puiu Chibici}, {rcId: {57713}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

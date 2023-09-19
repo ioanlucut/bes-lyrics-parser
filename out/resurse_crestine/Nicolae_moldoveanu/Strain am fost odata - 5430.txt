@@ -1,5 +1,5 @@
 [title]
-Strain am fost odata {author: {Nicolae Moldoveanu}, {rcId: {5430}}
+Strain am fost odata {composer: {Nicolae Moldoveanu}, {rcId: {5430}}
 
 [sequence]
 v1,v2,v3,v4

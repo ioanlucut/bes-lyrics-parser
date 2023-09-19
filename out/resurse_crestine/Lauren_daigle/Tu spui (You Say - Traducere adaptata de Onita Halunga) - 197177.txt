@@ -1,5 +1,5 @@
 [title]
-Tu spui (you say - traducere adaptata de onita halunga) {author: {Lauren Daigle}, {rcId: {197177}}
+Tu spui (you say - traducere adaptata de onita halunga) {composer: {Lauren Daigle}, {rcId: {197177}}
 
 [sequence]
 v1,c,v2,c,v3,c

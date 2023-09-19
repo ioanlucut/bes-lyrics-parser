@@ -1,5 +1,5 @@
 [title]
-A trecut inc-un an {author: {Grup Golgota}, {rcId: {209043}}
+A trecut inc-un an {composer: {Grup Golgota}, {rcId: {209043}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Doamne-asa cum sunt {author: {Speranța}, {rcId: {111410}}
+Doamne-asa cum sunt {composer: {Speranța}, {rcId: {111410}}
 
 [sequence]
 v1,c

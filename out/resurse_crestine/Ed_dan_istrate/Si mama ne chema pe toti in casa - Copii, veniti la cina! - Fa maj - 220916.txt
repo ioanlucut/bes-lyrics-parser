@@ -1,5 +1,5 @@
 [title]
-Si mama ne chema pe toti in casa - copii veniti la cina - fa maj {author: {ed. Dan Istrate}, {rcId: {220916}}
+Si mama ne chema pe toti in casa - copii veniti la cina - fa maj {composer: {ed. Dan Istrate}, {rcId: {220916}}
 
 [sequence]
 v1,c,v2,c,v3,c2,v4,c2

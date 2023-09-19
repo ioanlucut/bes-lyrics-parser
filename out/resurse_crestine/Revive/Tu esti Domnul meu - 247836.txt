@@ -1,5 +1,5 @@
 [title]
-Tu esti domnul meu {author: {Revive}, {rcId: {247836}}
+Tu esti domnul meu {composer: {Revive}, {rcId: {247836}}
 
 [sequence]
 v1,c,v2,b,c,v3,c

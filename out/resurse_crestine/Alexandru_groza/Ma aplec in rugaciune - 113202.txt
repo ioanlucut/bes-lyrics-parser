@@ -1,5 +1,5 @@
 [title]
-Ma aplec in rugaciune {author: {Alexandru Groza}, {rcId: {113202}}
+Ma aplec in rugaciune {composer: {Alexandru Groza}, {rcId: {113202}}
 
 [sequence]
 s,c,s,c,s,c

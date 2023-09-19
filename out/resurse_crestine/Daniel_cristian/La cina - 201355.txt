@@ -1,5 +1,5 @@
 [title]
-La cina {author: {Daniel Cristian}, {rcId: {201355}}
+La cina {composer: {Daniel Cristian}, {rcId: {201355}}
 
 [sequence]
 v1

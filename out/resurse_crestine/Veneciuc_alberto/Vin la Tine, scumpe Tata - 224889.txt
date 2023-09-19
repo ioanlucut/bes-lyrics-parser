@@ -1,5 +1,5 @@
 [title]
-Vin la tine scumpe tata {author: {Veneciuc Alberto}, {rcId: {224889}}
+Vin la tine scumpe tata {composer: {Veneciuc Alberto}, {rcId: {224889}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

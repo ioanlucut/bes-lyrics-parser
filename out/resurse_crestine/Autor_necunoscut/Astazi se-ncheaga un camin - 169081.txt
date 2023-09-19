@@ -1,5 +1,5 @@
 [title]
-Astazi se-ncheaga un camin {author: {Anonim}, {rcId: {169081}}
+Astazi se-ncheaga un camin {composer: {Anonim}, {rcId: {169081}}
 
 [sequence]
 v1,c,v2,c,v3,c

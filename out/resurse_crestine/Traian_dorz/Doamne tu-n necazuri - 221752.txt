@@ -1,5 +1,5 @@
 [title]
-Doamne tu-n necazuri {author: {Traian Dorz}, {rcId: {221752}}
+Doamne tu-n necazuri {composer: {Traian Dorz}, {rcId: {221752}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

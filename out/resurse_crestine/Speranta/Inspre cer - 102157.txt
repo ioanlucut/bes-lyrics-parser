@@ -1,5 +1,5 @@
 [title]
-Inspre cer {author: {Speranța}, {rcId: {102157}}
+Inspre cer {composer: {Speranța}, {rcId: {102157}}
 
 [sequence]
 v1,c,v2,c,v3,c

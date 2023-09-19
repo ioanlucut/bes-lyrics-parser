@@ -1,5 +1,5 @@
 [title]
-El este mielul {author: {Andreea Olteanu}, {rcId: {238248}}
+El este mielul {composer: {Andreea Olteanu}, {rcId: {238248}}
 
 [sequence]
 c,v1,c,v2,c

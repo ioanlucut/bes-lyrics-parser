@@ -1,5 +1,5 @@
 [title]
-Mi-e dor de caminul iubirii {author: {Nicolae Moldoveanu}, {rcId: {240947}}
+Mi-e dor de caminul iubirii {composer: {Nicolae Moldoveanu}, {rcId: {240947}}
 
 [sequence]
 v1,v2,v3,v4,v5

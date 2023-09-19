@@ -1,5 +1,5 @@
 [title]
-La insangerata-ti cruce {author: {Anonim}, {rcId: {87043}}
+La insangerata-ti cruce {composer: {Anonim}, {rcId: {87043}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

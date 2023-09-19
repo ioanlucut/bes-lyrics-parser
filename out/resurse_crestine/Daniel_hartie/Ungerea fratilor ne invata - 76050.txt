@@ -1,5 +1,5 @@
 [title]
-Ungerea fratilor ne invata {author: {Daniel Hartie}, {rcId: {76050}}
+Ungerea fratilor ne invata {composer: {Daniel Hartie}, {rcId: {76050}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

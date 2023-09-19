@@ -1,5 +1,5 @@
 [title]
-As vrea sa zbor in zori {author: {Nicolae Moldoveanu}, {rcId: {5704}}
+As vrea sa zbor in zori {composer: {Nicolae Moldoveanu}, {rcId: {5704}}
 
 [sequence]
 v1,v2,v3,v4,v5

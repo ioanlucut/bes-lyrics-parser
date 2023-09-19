@@ -1,5 +1,5 @@
 [title]
-Cum sa nu-si plece urechea {author: {Otniel Stirb}, {rcId: {226986}}
+Cum sa nu-si plece urechea {composer: {Otniel Stirb}, {rcId: {226986}}
 
 [sequence]
 v1,c,v2,c,v3,c

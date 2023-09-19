@@ -1,5 +1,5 @@
 [title]
-Venim la altar {author: {Remus Tămășan Cristi}, {rcId: {155894}}
+Venim la altar {composer: {Remus Tămășan Cristi}, {rcId: {155894}}
 
 [sequence]
 v1,c,v2,c,v3,c

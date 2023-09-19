@@ -1,5 +1,5 @@
 [title]
-Azi la altar {author: {Puiu Chibici}, {rcId: {137830}}
+Azi la altar {composer: {Puiu Chibici}, {rcId: {137830}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

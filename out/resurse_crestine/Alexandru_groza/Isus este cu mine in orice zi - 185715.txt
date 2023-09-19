@@ -1,5 +1,5 @@
 [title]
-Isus este cu mine in orice zi {author: {Alexandru Groza}, {rcId: {185715}}
+Isus este cu mine in orice zi {composer: {Alexandru Groza}, {rcId: {185715}}
 
 [sequence]
 v1,c,v2,c,v3,c

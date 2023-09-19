@@ -1,5 +1,5 @@
 [title]
-Devla baro san {author: {Anonim}, {rcId: {78374}}
+Devla baro san {composer: {Anonim}, {rcId: {78374}}
 
 [sequence]
 v1,c

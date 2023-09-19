@@ -1,5 +1,5 @@
 [title]
-[unnamed] {author: {Chris}, {rcId: {61445}}
+[unnamed] {composer: {Chris}, {rcId: {61445}}
 
 [sequence]
 v1,c,v2,c,v3,c

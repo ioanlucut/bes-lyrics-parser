@@ -1,5 +1,5 @@
 [title]
-Ca o punte-n spatiu etern {author: {Anonim}, {rcId: {4846}}
+Ca o punte-n spatiu etern {composer: {Anonim}, {rcId: {4846}}
 
 [sequence]
 v1,c,v2,b,c

@@ -1,5 +1,5 @@
 [title]
-Lipsit de putere nu pot {author: {Daniel Hîrtie}, {rcId: {175088}}
+Lipsit de putere nu pot {composer: {Daniel Hîrtie}, {rcId: {175088}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

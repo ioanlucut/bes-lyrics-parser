@@ -1,5 +1,5 @@
 [title]
-Multumesc-thank you jesus {author: {James and Ursula Matchack}, {rcId: {169553}}
+Multumesc-thank you jesus {composer: {James and Ursula Matchack}, {rcId: {169553}}
 
 [sequence]
 v1,c,c

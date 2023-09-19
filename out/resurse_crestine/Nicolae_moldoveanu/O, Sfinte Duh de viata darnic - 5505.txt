@@ -1,5 +1,5 @@
 [title]
-O sfinte duh de viata darnic {author: {Nicolae Moldoveanu}, {rcId: {5505}}
+O sfinte duh de viata darnic {composer: {Nicolae Moldoveanu}, {rcId: {5505}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

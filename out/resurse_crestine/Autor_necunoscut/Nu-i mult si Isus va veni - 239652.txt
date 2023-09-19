@@ -1,5 +1,5 @@
 [title]
-Nu-i mult si isus va veni {author: {Autor necunoscut}, {rcId: {239652}}
+Nu-i mult si isus va veni {composer: {Autor necunoscut}, {rcId: {239652}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

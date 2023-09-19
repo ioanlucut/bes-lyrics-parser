@@ -1,5 +1,5 @@
 [title]
-Tot ce ai strans aici in lume {author: {Anonim}, {rcId: {6296}}
+Tot ce ai strans aici in lume {composer: {Anonim}, {rcId: {6296}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

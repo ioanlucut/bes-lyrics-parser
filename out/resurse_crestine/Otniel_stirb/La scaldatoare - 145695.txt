@@ -1,5 +1,5 @@
 [title]
-La scaldatoare {author: {Otniel Stirb}, {rcId: {145695}}
+La scaldatoare {composer: {Otniel Stirb}, {rcId: {145695}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,c4

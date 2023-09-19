@@ -1,5 +1,5 @@
 [title]
-Caci domnul este dumnezeu {author: {Corneliu Mirăuți}, {rcId: {162890}}
+Caci domnul este dumnezeu {composer: {Corneliu Mirăuți}, {rcId: {162890}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,v4,c

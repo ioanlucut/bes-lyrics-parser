@@ -1,5 +1,5 @@
 [title]
-Ca piatra vie si curata {author: {Nicolae Moldoveanu}, {rcId: {240982}}
+Ca piatra vie si curata {composer: {Nicolae Moldoveanu}, {rcId: {240982}}
 
 [sequence]
 v1,v2,v3,v4,v5

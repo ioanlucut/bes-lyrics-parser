@@ -1,5 +1,5 @@
 [title]
-Am venit doamne in casa ta {author: {Valentin Bejenar}, {rcId: {102427}}
+Am venit doamne in casa ta {composer: {Valentin Bejenar}, {rcId: {102427}}
 
 [sequence]
 v11,c,v2,c2,v3,c3

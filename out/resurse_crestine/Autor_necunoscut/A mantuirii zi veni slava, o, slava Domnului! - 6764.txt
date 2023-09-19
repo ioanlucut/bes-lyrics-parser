@@ -1,5 +1,5 @@
 [title]
-A mantuirii zi veni slava o slava domnului {author: {Anonim}, {rcId: {6764}}
+A mantuirii zi veni slava o slava domnului {composer: {Anonim}, {rcId: {6764}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Ma prostern la poala crucii {author: {Daniel Cazacu}, {rcId: {145824}}
+Ma prostern la poala crucii {composer: {Daniel Cazacu}, {rcId: {145824}}
 
 [sequence]
 v1,c,v2,c

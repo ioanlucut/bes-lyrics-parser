@@ -1,5 +1,5 @@
 [title]
-Ce dulce este mesajul pentru tin-ce treci {author: {Albert B. Simpson}, {rcId: {5650}}
+Ce dulce este mesajul pentru tin-ce treci {composer: {Albert B. Simpson}, {rcId: {5650}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

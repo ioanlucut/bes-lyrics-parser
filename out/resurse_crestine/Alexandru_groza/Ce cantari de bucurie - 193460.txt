@@ -1,5 +1,5 @@
 [title]
-Ce cantari de bucurie {author: {Alexandru Groza}, {rcId: {193460}}
+Ce cantari de bucurie {composer: {Alexandru Groza}, {rcId: {193460}}
 
 [sequence]
 v1,c,v2,c

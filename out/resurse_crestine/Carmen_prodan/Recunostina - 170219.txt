@@ -1,5 +1,5 @@
 [title]
-Recunostina {author: {Carmen Prodan}, {rcId: {170219}}
+Recunostina {composer: {Carmen Prodan}, {rcId: {170219}}
 
 [sequence]
 v1,c,v2,c,v3,c

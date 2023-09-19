@@ -1,5 +1,5 @@
 [title]
-Doamne precum vrei sa faci mereu {author: {George C.Stebbins}, {rcId: {1846}}
+Doamne precum vrei sa faci mereu {composer: {George C.Stebbins}, {rcId: {1846}}
 
 [sequence]
 v1,v2,v3,v4

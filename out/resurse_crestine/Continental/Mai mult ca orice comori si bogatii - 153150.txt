@@ -1,5 +1,5 @@
 [title]
-Mai mult ca orice comori si bogatii {author: {Continental}, {rcId: {153150}}
+Mai mult ca orice comori si bogatii {composer: {Continental}, {rcId: {153150}}
 
 [sequence]
 v1,v2,v3,c

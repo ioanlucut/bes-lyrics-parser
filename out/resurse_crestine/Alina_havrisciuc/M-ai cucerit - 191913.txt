@@ -1,5 +1,5 @@
 [title]
-M-ai cucerit {author: {Alina Havrisciuc}, {rcId: {191913}}
+M-ai cucerit {composer: {Alina Havrisciuc}, {rcId: {191913}}
 
 [sequence]
 v1,c,v2,c

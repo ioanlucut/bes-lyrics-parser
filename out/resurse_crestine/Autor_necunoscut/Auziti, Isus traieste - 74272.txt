@@ -1,5 +1,5 @@
 [title]
-Auziti isus traieste {author: {Anonim}, {rcId: {74272}}
+Auziti isus traieste {composer: {Anonim}, {rcId: {74272}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Credem ca tu poti {author: {Cor tineret Poarta Cerului}, {rcId: {216707}}
+Credem ca tu poti {composer: {Cor tineret Poarta Cerului}, {rcId: {216707}}
 
 [sequence]
 v1,c,v2,b,c

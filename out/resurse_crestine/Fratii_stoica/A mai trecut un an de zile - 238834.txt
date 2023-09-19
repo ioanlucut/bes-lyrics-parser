@@ -1,5 +1,5 @@
 [title]
-A mai trecut un an de zile {author: {Fratii Stoica}, {rcId: {238834}}
+A mai trecut un an de zile {composer: {Fratii Stoica}, {rcId: {238834}}
 
 [sequence]
 v1,c,v2,c,v3,c

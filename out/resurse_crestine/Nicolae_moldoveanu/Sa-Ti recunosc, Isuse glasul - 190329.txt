@@ -1,5 +1,5 @@
 [title]
-Sa-ti recunosc isuse glasul {author: {Nicolae Moldoveanu}, {rcId: {190329}}
+Sa-ti recunosc isuse glasul {composer: {Nicolae Moldoveanu}, {rcId: {190329}}
 
 [sequence]
 v1,v2,v3

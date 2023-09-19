@@ -1,5 +1,5 @@
 [title]
-Lucruri noi {author: {Nicu Clipa, Radu Dragoiu, Vali Misaras, Paul Onitiu, Dani Catana}, {rcId: {195513}}
+Lucruri noi {composer: {Nicu Clipa, Radu Dragoiu, Vali Misaras, Paul Onitiu, Dani Catana}, {rcId: {195513}}
 
 [sequence]
 v1,v2,c,v3,c,e,c

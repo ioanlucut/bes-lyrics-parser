@@ -1,5 +1,5 @@
 [title]
-Straina a fost viata mea {author: {Anonim}, {rcId: {215628}}
+Straina a fost viata mea {composer: {Anonim}, {rcId: {215628}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8

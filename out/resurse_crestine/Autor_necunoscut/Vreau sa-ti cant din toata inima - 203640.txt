@@ -1,5 +1,5 @@
 [title]
-Vreau sa-ti cant din toata inima {author: {Anonim}, {rcId: {203640}}
+Vreau sa-ti cant din toata inima {composer: {Anonim}, {rcId: {203640}}
 
 [sequence]
 v1,c,v2,c

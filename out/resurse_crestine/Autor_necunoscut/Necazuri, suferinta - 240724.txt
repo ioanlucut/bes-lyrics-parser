@@ -1,5 +1,5 @@
 [title]
-Necazuri suferinta {author: {Album necunoscut}, {rcId: {240724}}
+Necazuri suferinta {composer: {Album necunoscut}, {rcId: {240724}}
 
 [sequence]
 v1,v2,v3

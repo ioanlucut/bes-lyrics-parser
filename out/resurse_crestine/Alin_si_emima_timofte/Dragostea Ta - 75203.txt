@@ -1,5 +1,5 @@
 [title]
-Dragostea ta {author: {Alin și Emima Timofte}, {rcId: {75203}}
+Dragostea ta {composer: {Alin și Emima Timofte}, {rcId: {75203}}
 
 [sequence]
 v1,c

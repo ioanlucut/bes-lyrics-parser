@@ -1,5 +1,5 @@
 [title]
-Slava slava toti copiii canta {author: {Anonim}, {rcId: {57641}}
+Slava slava toti copiii canta {composer: {Anonim}, {rcId: {57641}}
 
 [sequence]
 v1,v2,v3

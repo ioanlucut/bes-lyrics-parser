@@ -1,5 +1,5 @@
 [title]
-Ai mijlocul incins si faclia iti arde {author: {Anonim}, {rcId: {75143}}
+Ai mijlocul incins si faclia iti arde {composer: {Anonim}, {rcId: {75143}}
 
 [sequence]
 v1,v2,v3,v4

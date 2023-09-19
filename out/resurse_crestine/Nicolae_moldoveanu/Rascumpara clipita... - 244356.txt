@@ -1,5 +1,5 @@
 [title]
-Rascumpara clipita {author: {Nicolae Moldoveanu}, {rcId: {244356}}
+Rascumpara clipita {composer: {Nicolae Moldoveanu}, {rcId: {244356}}
 
 [sequence]
 v1,v2,v3

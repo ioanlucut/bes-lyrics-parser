@@ -1,5 +1,5 @@
 [title]
-Sa nu lasi pe maine {author: {Nicolae Moldoveanu}, {rcId: {230326}}
+Sa nu lasi pe maine {composer: {Nicolae Moldoveanu}, {rcId: {230326}}
 
 [sequence]
 v1,v2

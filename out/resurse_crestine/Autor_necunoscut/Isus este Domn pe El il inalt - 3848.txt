@@ -1,5 +1,5 @@
 [title]
-Isus este domn pe el il inalt {author: {Anonim}, {rcId: {3848}}
+Isus este domn pe el il inalt {composer: {Anonim}, {rcId: {3848}}
 
 [sequence]
 v1,c,v2,c,v3,c

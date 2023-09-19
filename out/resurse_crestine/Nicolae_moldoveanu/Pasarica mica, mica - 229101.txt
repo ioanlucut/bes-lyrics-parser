@@ -1,5 +1,5 @@
 [title]
-Pasarica mica mica {author: {Nicolae Moldoveanu}, {rcId: {229101}}
+Pasarica mica mica {composer: {Nicolae Moldoveanu}, {rcId: {229101}}
 
 [sequence]
 v1,v2

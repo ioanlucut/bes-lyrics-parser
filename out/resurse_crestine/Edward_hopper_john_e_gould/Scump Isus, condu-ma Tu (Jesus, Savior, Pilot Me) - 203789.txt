@@ -1,5 +1,5 @@
 [title]
-Scump isus condu-ma tu (jesus savior pilot me) {author: {Edward Hopper, John E. Gould, Traducere RO}, {rcId: {203789}}
+Scump isus condu-ma tu (jesus savior pilot me) {composer: {Edward Hopper, John E. Gould, Traducere RO}, {rcId: {203789}}
 
 [sequence]
 v1,v2,v3,s

@@ -1,5 +1,5 @@
 [title]
-Curand vom pleca {author: {Ilie Neagu}, {rcId: {153094}}
+Curand vom pleca {composer: {Ilie Neagu}, {rcId: {153094}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Alternative {author: {Dan Damian}, {rcId: {161161}}
+Alternative {composer: {Dan Damian}, {rcId: {161161}}
 
 [sequence]
 v1,v2,v3,v4

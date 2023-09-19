@@ -1,5 +1,5 @@
 [title]
-Prieten care-alergi {author: {Speranța}, {rcId: {7175}}
+Prieten care-alergi {composer: {Speranța}, {rcId: {7175}}
 
 [sequence]
 v1,c,v2,c,e

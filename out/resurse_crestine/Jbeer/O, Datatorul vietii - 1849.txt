@@ -1,5 +1,5 @@
 [title]
-O datatorul vietii {author: {J.Beer}, {rcId: {1849}}
+O datatorul vietii {composer: {J.Beer}, {rcId: {1849}}
 
 [sequence]
 v1,v2,v3

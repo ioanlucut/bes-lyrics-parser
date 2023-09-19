@@ -1,5 +1,5 @@
 [title]
-Tu flacara-a iubirii sfinte {author: {Nicolae Moldoveanu}, {rcId: {246557}}
+Tu flacara-a iubirii sfinte {composer: {Nicolae Moldoveanu}, {rcId: {246557}}
 
 [sequence]
 v1,v2,v3,v4

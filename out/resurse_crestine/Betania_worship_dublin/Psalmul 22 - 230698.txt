@@ -1,5 +1,5 @@
 [title]
-Psalmul {author: {Betania Worship Dublin}, {rcId: {230698}}
+Psalmul {composer: {Betania Worship Dublin}, {rcId: {230698}}
 
 [sequence]
 v1,c,v2,c,e

@@ -1,5 +1,5 @@
 [title]
-Sa ne vedem pastele viitor {author: {Anonim}, {rcId: {7370}}
+Sa ne vedem pastele viitor {composer: {Anonim}, {rcId: {7370}}
 
 [sequence]
 v1,c,v2,c,v3,c

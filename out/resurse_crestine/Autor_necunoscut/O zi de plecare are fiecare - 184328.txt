@@ -1,5 +1,5 @@
 [title]
-O zi de plecare are fiecare {author: {Anonim}, {rcId: {184328}}
+O zi de plecare are fiecare {composer: {Anonim}, {rcId: {184328}}
 
 [sequence]
 v1,c,v2,c,v3,c

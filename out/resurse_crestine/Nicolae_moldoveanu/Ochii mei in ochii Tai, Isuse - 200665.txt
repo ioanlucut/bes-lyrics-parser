@@ -1,5 +1,5 @@
 [title]
-Ochii mei in ochii tai isuse {author: {Nicolae Moldoveanu}, {rcId: {200665}}
+Ochii mei in ochii tai isuse {composer: {Nicolae Moldoveanu}, {rcId: {200665}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4,v5,c5

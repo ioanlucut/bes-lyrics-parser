@@ -1,5 +1,5 @@
 [title]
-Acolo nu vor fi {author: {Speranța}, {rcId: {111744}}
+Acolo nu vor fi {composer: {Speranța}, {rcId: {111744}}
 
 [sequence]
 v1,c,c,e

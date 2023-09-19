@@ -1,5 +1,5 @@
 [title]
-Orisicine poate fi primit ( whosoever meaneth me) {author: {J. Edwin McConnell, Traducere RO}, {rcId: {112222}}
+Orisicine poate fi primit ( whosoever meaneth me) {composer: {J. Edwin McConnell, Traducere RO}, {rcId: {112222}}
 
 [sequence]
 v1,c,v2,c,v3,c,s,c

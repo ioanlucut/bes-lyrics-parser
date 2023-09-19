@@ -1,5 +1,5 @@
 [title]
-Intre valuri e o stanca {author: {Fratii Suciu}, {rcId: {142636}}
+Intre valuri e o stanca {composer: {Fratii Suciu}, {rcId: {142636}}
 
 [sequence]
 v1,c,v2,c,v3,c

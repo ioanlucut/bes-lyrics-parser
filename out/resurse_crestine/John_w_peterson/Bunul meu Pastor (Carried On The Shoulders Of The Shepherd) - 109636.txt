@@ -1,5 +1,5 @@
 [title]
-Bunul meu pastor (carried on the shoulders of the shepherd) {author: {John W. Peterson, Traducere RO}, {rcId: {109636}}
+Bunul meu pastor (carried on the shoulders of the shepherd) {composer: {John W. Peterson, Traducere RO}, {rcId: {109636}}
 
 [sequence]
 v1,c,v2,c

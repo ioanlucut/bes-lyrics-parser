@@ -1,5 +1,5 @@
 [title]
-Isus s-a nascut la betleem {author: {Anonim}, {rcId: {151397}}
+Isus s-a nascut la betleem {composer: {Anonim}, {rcId: {151397}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

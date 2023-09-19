@@ -1,5 +1,5 @@
 [title]
-Te slavim cu multumire tata drept si minunat {author: {Nicolae Moldoveanu}, {rcId: {5962}}
+Te slavim cu multumire tata drept si minunat {composer: {Nicolae Moldoveanu}, {rcId: {5962}}
 
 [sequence]
 v1,v2,v3,v4

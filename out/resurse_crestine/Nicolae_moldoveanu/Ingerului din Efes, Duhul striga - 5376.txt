@@ -1,5 +1,5 @@
 [title]
-Ingerului din efes duhul striga {author: {Nicolae Moldoveanu}, {rcId: {5376}}
+Ingerului din efes duhul striga {composer: {Nicolae Moldoveanu}, {rcId: {5376}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c

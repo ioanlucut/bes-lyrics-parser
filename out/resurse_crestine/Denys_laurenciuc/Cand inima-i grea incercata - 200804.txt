@@ -1,5 +1,5 @@
 [title]
-Cand inima-i grea incercata {author: {Denys Laurenciuc}, {rcId: {200804}}
+Cand inima-i grea incercata {composer: {Denys Laurenciuc}, {rcId: {200804}}
 
 [sequence]
 v1,c,v2,c,v3,c

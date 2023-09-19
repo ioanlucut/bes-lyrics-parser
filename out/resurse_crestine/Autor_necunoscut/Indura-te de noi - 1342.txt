@@ -1,5 +1,5 @@
 [title]
-Indura-te de noi {author: {Anonim}, {rcId: {1342}}
+Indura-te de noi {composer: {Anonim}, {rcId: {1342}}
 
 [sequence]
 v1

@@ -1,5 +1,5 @@
 [title]
-Rugaciune pentru romania {author: {Nicoleta Mașcaș, Răzvan Rește}, {rcId: {182554}}
+Rugaciune pentru romania {composer: {Nicoleta Mașcaș, Răzvan Rește}, {rcId: {182554}}
 
 [sequence]
 v1,c,v2,c,c2,e,c,c2

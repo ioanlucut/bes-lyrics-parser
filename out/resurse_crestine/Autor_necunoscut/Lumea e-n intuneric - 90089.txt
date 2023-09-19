@@ -1,5 +1,5 @@
 [title]
-Lumea e-n intuneric {author: {Anonim}, {rcId: {90089}}
+Lumea e-n intuneric {composer: {Anonim}, {rcId: {90089}}
 
 [sequence]
 v1,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Imn al vesniciei - hymn of heaven {author: {Phil Wickham, traducere Pop Marius}, {rcId: {235708}}
+Imn al vesniciei - hymn of heaven {composer: {Phil Wickham, traducere Pop Marius}, {rcId: {235708}}
 
 [sequence]
 v1,c,v2,c,v3,c,c

@@ -1,5 +1,5 @@
 [title]
-Pun numele domnului azi peste voi {author: {Puiu și Beni Chibici}, {rcId: {188181}}
+Pun numele domnului azi peste voi {composer: {Puiu și Beni Chibici}, {rcId: {188181}}
 
 [sequence]
 v1,c,v2,c,v3,c

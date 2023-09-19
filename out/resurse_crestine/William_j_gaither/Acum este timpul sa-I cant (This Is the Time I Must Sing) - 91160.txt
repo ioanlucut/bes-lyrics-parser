@@ -1,5 +1,5 @@
 [title]
-Acum este timpul sa-i cant (this is the time i must sing) {author: {William J. Gaither, Traducere RO}, {rcId: {91160}}
+Acum este timpul sa-i cant (this is the time i must sing) {composer: {William J. Gaither, Traducere RO}, {rcId: {91160}}
 
 [sequence]
 v1,c,v2,c,s,c

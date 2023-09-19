@@ -1,5 +1,5 @@
 [title]
-Te iubesc isuse te iubesc {author: {Formatia Canaan}, {rcId: {239450}}
+Te iubesc isuse te iubesc {composer: {Formatia Canaan}, {rcId: {239450}}
 
 [sequence]
 v1,c,v2,c,v3,c

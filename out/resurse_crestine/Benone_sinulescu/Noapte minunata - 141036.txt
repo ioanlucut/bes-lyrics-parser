@@ -1,5 +1,5 @@
 [title]
-Noapte minunata {author: {Benone Sinulescu}, {rcId: {141036}}
+Noapte minunata {composer: {Benone Sinulescu}, {rcId: {141036}}
 
 [sequence]
 v1,c,v2,c,v3,c

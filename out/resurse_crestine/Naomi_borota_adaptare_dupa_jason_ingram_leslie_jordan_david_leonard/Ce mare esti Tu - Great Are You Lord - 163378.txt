@@ -1,5 +1,5 @@
 [title]
-Ce mare esti tu - great are you lord {author: {Naomi Borota adaptare după Jason Ingram, Leslie Jordan, David Leonard}, {rcId: {163378}}
+Ce mare esti tu - great are you lord {composer: {Naomi Borota adaptare după Jason Ingram, Leslie Jordan, David Leonard}, {rcId: {163378}}
 
 [sequence]
 v1,c,v1,c,v2,c

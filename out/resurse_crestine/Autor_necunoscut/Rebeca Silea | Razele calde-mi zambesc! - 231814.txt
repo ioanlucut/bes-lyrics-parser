@@ -1,5 +1,5 @@
 [title]
-Rebeca silea | razele calde-mi zambesc {author: {Anonim}, {rcId: {231814}}
+Rebeca silea | razele calde-mi zambesc {composer: {Anonim}, {rcId: {231814}}
 
 [sequence]
 v1,c,v2,c,v3,c

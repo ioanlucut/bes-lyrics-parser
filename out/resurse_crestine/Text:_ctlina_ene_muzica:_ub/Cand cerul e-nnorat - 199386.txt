@@ -1,5 +1,5 @@
 [title]
-Cand cerul e-nnorat {author: {Text: Cǎtǎlina Ene, Muzica: UB40}, {rcId: {199386}}
+Cand cerul e-nnorat {composer: {Text: Cǎtǎlina Ene, Muzica: UB40}, {rcId: {199386}}
 
 [sequence]
 v1,c,v2,c,v3,c

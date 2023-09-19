@@ -1,5 +1,5 @@
 [title]
-Domnul e cel mai sfant {author: {Mihail Dimitriu}, {rcId: {7105}}
+Domnul e cel mai sfant {composer: {Mihail Dimitriu}, {rcId: {7105}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c

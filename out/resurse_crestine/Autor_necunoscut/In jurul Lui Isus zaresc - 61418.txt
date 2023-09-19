@@ -1,5 +1,5 @@
 [title]
-In jurul lui isus zaresc {author: {Anonim}, {rcId: {61418}}
+In jurul lui isus zaresc {composer: {Anonim}, {rcId: {61418}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

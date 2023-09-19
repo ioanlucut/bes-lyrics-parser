@@ -1,5 +1,5 @@
 [title]
-Slava ta {author: {Dan Muncaciu}, {rcId: {197797}}
+Slava ta {composer: {Dan Muncaciu}, {rcId: {197797}}
 
 [sequence]
 v1,c,v2,c,e,c

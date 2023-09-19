@@ -1,5 +1,5 @@
 [title]
-Cand bate ceasul - fa maj {author: {ed. Dan Istrate}, {rcId: {187322}}
+Cand bate ceasul - fa maj {composer: {ed. Dan Istrate}, {rcId: {187322}}
 
 [sequence]
 v1,v2,v3

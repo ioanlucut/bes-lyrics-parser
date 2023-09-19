@@ -1,5 +1,5 @@
 [title]
-Cand in lumea-aceasta vei intampina {author: {Anonim}, {rcId: {2791}}
+Cand in lumea-aceasta vei intampina {composer: {Anonim}, {rcId: {2791}}
 
 [sequence]
 v1,c,v2,c,v3,c

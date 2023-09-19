@@ -1,5 +1,5 @@
 [title]
-Intr-un staul mic {author: {Anonim}, {rcId: {169535}}
+Intr-un staul mic {composer: {Anonim}, {rcId: {169535}}
 
 [sequence]
 v1,c,v2,c,v3,c

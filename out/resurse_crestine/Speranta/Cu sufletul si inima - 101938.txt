@@ -1,5 +1,5 @@
 [title]
-Cu sufletul si inima {author: {Speranța}, {rcId: {101938}}
+Cu sufletul si inima {composer: {Speranța}, {rcId: {101938}}
 
 [sequence]
 v1,v2,v3

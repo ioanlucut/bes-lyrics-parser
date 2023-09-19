@@ -1,5 +1,5 @@
 [title]
-Am fost si eu odata {author: {Anonim}, {rcId: {126819}}
+Am fost si eu odata {composer: {Anonim}, {rcId: {126819}}
 
 [sequence]
 v1,v2,v3,v4

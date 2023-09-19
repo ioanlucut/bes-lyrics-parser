@@ -1,5 +1,5 @@
 [title]
-Cuprinde-ma doamne (o mana de har se-ntinde spre tine) {author: {Ovidiu Liteanu}, {rcId: {183375}}
+Cuprinde-ma doamne (o mana de har se-ntinde spre tine) {composer: {Ovidiu Liteanu}, {rcId: {183375}}
 
 [sequence]
 v1,c,v2,c,v3,c

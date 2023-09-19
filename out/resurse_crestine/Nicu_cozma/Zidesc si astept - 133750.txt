@@ -1,5 +1,5 @@
 [title]
-Zidesc si astept {author: {Nicu Cozma}, {rcId: {133750}}
+Zidesc si astept {composer: {Nicu Cozma}, {rcId: {133750}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c2

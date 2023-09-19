@@ -1,5 +1,5 @@
 [title]
-Dac~a esti str~ain pe lumea aceasta {author: {Nelu gabor}, {rcId: {6320}}
+Dac~a esti str~ain pe lumea aceasta {composer: {Nelu gabor}, {rcId: {6320}}
 
 [sequence]
 v1,v2,v3,v4

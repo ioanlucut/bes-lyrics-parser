@@ -1,5 +1,5 @@
 [title]
-Unde sunt mari bucurii poporul se strange {author: {Anonim}, {rcId: {66406}}
+Unde sunt mari bucurii poporul se strange {composer: {Anonim}, {rcId: {66406}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

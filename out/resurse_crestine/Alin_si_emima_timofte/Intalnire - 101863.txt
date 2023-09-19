@@ -1,5 +1,5 @@
 [title]
-Intalnire {author: {Alin și Emima Timofte}, {rcId: {101863}}
+Intalnire {composer: {Alin și Emima Timofte}, {rcId: {101863}}
 
 [sequence]
 v1,c,v2,c2

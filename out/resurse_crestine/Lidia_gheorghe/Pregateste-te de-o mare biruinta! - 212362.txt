@@ -1,5 +1,5 @@
 [title]
-Pregateste-te de-o mare biruinta {author: {Lidia Gheorghe}, {rcId: {212362}}
+Pregateste-te de-o mare biruinta {composer: {Lidia Gheorghe}, {rcId: {212362}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

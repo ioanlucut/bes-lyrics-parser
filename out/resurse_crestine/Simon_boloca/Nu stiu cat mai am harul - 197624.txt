@@ -1,5 +1,5 @@
 [title]
-Nu stiu cat mai am harul {author: {Simon Boloca}, {rcId: {197624}}
+Nu stiu cat mai am harul {composer: {Simon Boloca}, {rcId: {197624}}
 
 [sequence]
 v1,c,v2,c,v3,c

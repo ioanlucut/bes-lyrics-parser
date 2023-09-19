@@ -1,5 +1,5 @@
 [title]
-Domnul sta in fruntea oastei lui {author: {Anonim}, {rcId: {4897}}
+Domnul sta in fruntea oastei lui {composer: {Anonim}, {rcId: {4897}}
 
 [sequence]
 v1,c,v2,c2

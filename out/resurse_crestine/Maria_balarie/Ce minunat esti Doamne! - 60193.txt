@@ -1,5 +1,5 @@
 [title]
-Ce minunat esti doamne {author: {Maria Balarie}, {rcId: {60193}}
+Ce minunat esti doamne {composer: {Maria Balarie}, {rcId: {60193}}
 
 [sequence]
 v1,v2,v3,v4,v5

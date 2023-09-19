@@ -1,5 +1,5 @@
 [title]
-In camp afara stateau strajerii {author: {Anonim}, {rcId: {151292}}
+In camp afara stateau strajerii {composer: {Anonim}, {rcId: {151292}}
 
 [sequence]
 v1,c,v2,c,v3,c

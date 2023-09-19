@@ -1,5 +1,5 @@
 [title]
-Tu esti vrednic (you are holy) {author: {Michael W. Smith, Traducere RO}, {rcId: {2872}}
+Tu esti vrednic (you are holy) {composer: {Michael W. Smith, Traducere RO}, {rcId: {2872}}
 
 [sequence]
 v1,c

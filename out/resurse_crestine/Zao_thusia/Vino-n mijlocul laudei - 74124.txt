@@ -1,5 +1,5 @@
 [title]
-Vino-n mijlocul laudei {author: {Zao Thusia}, {rcId: {74124}}
+Vino-n mijlocul laudei {composer: {Zao Thusia}, {rcId: {74124}}
 
 [sequence]
 v1,v2,c,v4,c

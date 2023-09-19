@@ -1,5 +1,5 @@
 [title]
-Cina domnului {author: {Alexandru Groza}, {rcId: {192937}}
+Cina domnului {composer: {Alexandru Groza}, {rcId: {192937}}
 
 [sequence]
 v1,c,s,c,v2,c2,s,c2,e

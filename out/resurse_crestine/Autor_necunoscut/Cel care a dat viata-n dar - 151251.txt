@@ -1,5 +1,5 @@
 [title]
-Cel care a dat viata-n dar {author: {Anonim}, {rcId: {151251}}
+Cel care a dat viata-n dar {composer: {Anonim}, {rcId: {151251}}
 
 [sequence]
 v1,c,v2,c

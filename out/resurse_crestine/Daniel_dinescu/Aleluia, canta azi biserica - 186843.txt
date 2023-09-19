@@ -1,5 +1,5 @@
 [title]
-Aleluia canta azi biserica {author: {Daniel Dinescu}, {rcId: {186843}}
+Aleluia canta azi biserica {composer: {Daniel Dinescu}, {rcId: {186843}}
 
 [sequence]
 v1,c,v2,c,v3,c

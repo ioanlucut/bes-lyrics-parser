@@ -1,5 +1,5 @@
 [title]
-Domnul e asa de bun {author: {Callatis Praise}, {rcId: {6785}}
+Domnul e asa de bun {composer: {Callatis Praise}, {rcId: {6785}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Un nou si sfant legamant {author: {Anonim}, {rcId: {74447}}
+Un nou si sfant legamant {composer: {Anonim}, {rcId: {74447}}
 
 [sequence]
 v1,v2,v3,v4

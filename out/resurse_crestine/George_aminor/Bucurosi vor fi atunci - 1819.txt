@@ -1,5 +1,5 @@
 [title]
-Bucurosi vor fi atunci {author: {George A.Minor}, {rcId: {1819}}
+Bucurosi vor fi atunci {composer: {George A.Minor}, {rcId: {1819}}
 
 [sequence]
 v1,c,v2,c,v3,c

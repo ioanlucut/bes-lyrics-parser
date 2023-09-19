@@ -1,5 +1,5 @@
 [title]
-Mai mult ca-n zilele de ieri {author: {Anonim}, {rcId: {153151}}
+Mai mult ca-n zilele de ieri {composer: {Anonim}, {rcId: {153151}}
 
 [sequence]
 v1,c,v2,c,v3,c

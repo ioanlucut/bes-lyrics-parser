@@ -1,5 +1,5 @@
 [title]
-Filadelfia iubita numai suspina {author: {Anonim}, {rcId: {74760}}
+Filadelfia iubita numai suspina {composer: {Anonim}, {rcId: {74760}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

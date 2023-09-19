@@ -1,5 +1,5 @@
 [title]
-Am fost un orb {author: {Anonim}, {rcId: {199479}}
+Am fost un orb {composer: {Anonim}, {rcId: {199479}}
 
 [sequence]
 v1,c,v2,c,v3,c

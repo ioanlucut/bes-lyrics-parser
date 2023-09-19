@@ -1,5 +1,5 @@
 [title]
-Plecam pe cai necunoscute {author: {Nicolae Moldoveanu}, {rcId: {5607}}
+Plecam pe cai necunoscute {composer: {Nicolae Moldoveanu}, {rcId: {5607}}
 
 [sequence]
 v1,c,v2,c,v3,c

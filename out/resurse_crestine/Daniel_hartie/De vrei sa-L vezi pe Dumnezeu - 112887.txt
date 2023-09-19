@@ -1,5 +1,5 @@
 [title]
-De vrei sa-l vezi pe dumnezeu {author: {Daniel Hartie}, {rcId: {112887}}
+De vrei sa-l vezi pe dumnezeu {composer: {Daniel Hartie}, {rcId: {112887}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

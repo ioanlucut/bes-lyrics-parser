@@ -1,5 +1,5 @@
 [title]
-Cuvinte divine {author: {Speranța}, {rcId: {101947}}
+Cuvinte divine {composer: {Speranța}, {rcId: {101947}}
 
 [sequence]
 v1,v2,v3,v4

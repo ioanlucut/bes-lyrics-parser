@@ -1,5 +1,5 @@
 [title]
-Du-ma pe stanca tare {author: {Grup Alfa}, {rcId: {6464}}
+Du-ma pe stanca tare {composer: {Grup Alfa}, {rcId: {6464}}
 
 [sequence]
 v1,c,v2,c,e

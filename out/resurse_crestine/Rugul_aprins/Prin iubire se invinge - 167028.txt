@@ -1,5 +1,5 @@
 [title]
-Prin iubire se invinge {author: {Rugul aprins}, {rcId: {167028}}
+Prin iubire se invinge {composer: {Rugul aprins}, {rcId: {167028}}
 
 [sequence]
 v1,c,v2,c,v3,c

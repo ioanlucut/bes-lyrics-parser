@@ -1,5 +1,5 @@
 [title]
-Cine a creat {author: {Anonim}, {rcId: {5232}}
+Cine a creat {composer: {Anonim}, {rcId: {5232}}
 
 [sequence]
 v1,v2,v3,v4,v5

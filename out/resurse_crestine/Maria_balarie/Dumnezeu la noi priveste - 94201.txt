@@ -1,5 +1,5 @@
 [title]
-Dumnezeu la noi priveste {author: {Maria Balarie}, {rcId: {94201}}
+Dumnezeu la noi priveste {composer: {Maria Balarie}, {rcId: {94201}}
 
 [sequence]
 v1,v2,v3,v4,v5

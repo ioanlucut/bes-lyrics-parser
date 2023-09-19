@@ -1,5 +1,5 @@
 [title]
-Domnul meu: te iubesc {author: {S.M.C}, {rcId: {196023}}
+Domnul meu: te iubesc {composer: {S.M.C}, {rcId: {196023}}
 
 [sequence]
 v1,c,v2,c,v3,c

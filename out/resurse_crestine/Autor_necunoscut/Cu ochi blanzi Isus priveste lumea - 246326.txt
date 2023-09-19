@@ -1,5 +1,5 @@
 [title]
-Cu ochi blanzi isus priveste lumea {author: {Autor necunoscut}, {rcId: {246326}}
+Cu ochi blanzi isus priveste lumea {composer: {Autor necunoscut}, {rcId: {246326}}
 
 [sequence]
 v1,c,v2,c,v3,c

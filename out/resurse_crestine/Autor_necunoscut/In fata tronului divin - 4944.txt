@@ -1,5 +1,5 @@
 [title]
-In fata tronului divin {author: {Anonim}, {rcId: {4944}}
+In fata tronului divin {composer: {Anonim}, {rcId: {4944}}
 
 [sequence]
 v1,c

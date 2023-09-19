@@ -1,5 +1,5 @@
 [title]
-Imnul vacantei {author: {Lidia Gheorghe}, {rcId: {216173}}
+Imnul vacantei {composer: {Lidia Gheorghe}, {rcId: {216173}}
 
 [sequence]
 v1,v2,v3

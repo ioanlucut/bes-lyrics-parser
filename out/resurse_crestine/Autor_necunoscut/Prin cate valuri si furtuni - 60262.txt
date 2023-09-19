@@ -1,5 +1,5 @@
 [title]
-Prin cate valuri si furtuni {author: {Anonim}, {rcId: {60262}}
+Prin cate valuri si furtuni {composer: {Anonim}, {rcId: {60262}}
 
 [sequence]
 v1,c,v2,c,v3,c

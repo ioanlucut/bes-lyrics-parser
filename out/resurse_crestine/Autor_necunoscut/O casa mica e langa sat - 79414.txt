@@ -1,5 +1,5 @@
 [title]
-O casa mica e langa sat {author: {Anonim}, {rcId: {79414}}
+O casa mica e langa sat {composer: {Anonim}, {rcId: {79414}}
 
 [sequence]
 v1,v2,v3,v4,v5

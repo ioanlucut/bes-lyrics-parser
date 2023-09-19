@@ -1,5 +1,5 @@
 [title]
-Ruga imi asculti {author: {Damaris Azamfirei}, {rcId: {193483}}
+Ruga imi asculti {composer: {Damaris Azamfirei}, {rcId: {193483}}
 
 [sequence]
 v1,c,v2,c

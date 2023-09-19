@@ -1,5 +1,5 @@
 [title]
-In deznadejdea mea {author: {Denys Laurenciuc}, {rcId: {218910}}
+In deznadejdea mea {composer: {Denys Laurenciuc}, {rcId: {218910}}
 
 [sequence]
 s,c,s,c,s,c

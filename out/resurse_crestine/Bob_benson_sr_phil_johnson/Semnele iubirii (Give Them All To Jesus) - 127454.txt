@@ -1,5 +1,5 @@
 [title]
-Semnele iubirii (give them all to jesus) {author: {Bob Benson Sr., Phil Johnson, Traducere RO}, {rcId: {127454}}
+Semnele iubirii (give them all to jesus) {composer: {Bob Benson Sr., Phil Johnson, Traducere RO}, {rcId: {127454}}
 
 [sequence]
 v1,c,v2,c,s,c

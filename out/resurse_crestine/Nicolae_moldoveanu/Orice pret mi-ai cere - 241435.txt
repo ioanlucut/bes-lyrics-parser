@@ -1,5 +1,5 @@
 [title]
-Orice pret mi-ai cere {author: {Nicolae Moldoveanu}, {rcId: {241435}}
+Orice pret mi-ai cere {composer: {Nicolae Moldoveanu}, {rcId: {241435}}
 
 [sequence]
 v1,v2,v3,v4,v5

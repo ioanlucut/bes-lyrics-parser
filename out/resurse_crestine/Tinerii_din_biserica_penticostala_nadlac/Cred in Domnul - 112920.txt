@@ -1,5 +1,5 @@
 [title]
-Cred in domnul {author: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {112920}}
+Cred in domnul {composer: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {112920}}
 
 [sequence]
 v1,c,v2,c

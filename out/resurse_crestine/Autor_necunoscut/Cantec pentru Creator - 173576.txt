@@ -1,5 +1,5 @@
 [title]
-Cantec pentru creator {author: {Anonim}, {rcId: {173576}}
+Cantec pentru creator {composer: {Anonim}, {rcId: {173576}}
 
 [sequence]
 v1,c,v2,c2,e

@@ -1,5 +1,5 @@
 [title]
-Nu iubiti lumea {author: {Miron Cornel}, {rcId: {4495}}
+Nu iubiti lumea {composer: {Miron Cornel}, {rcId: {4495}}
 
 [sequence]
 v1,c,v2,c

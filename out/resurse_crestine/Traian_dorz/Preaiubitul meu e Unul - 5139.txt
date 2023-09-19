@@ -1,5 +1,5 @@
 [title]
-Preaiubitul meu e unul {author: {Traian Dorz}, {rcId: {5139}}
+Preaiubitul meu e unul {composer: {Traian Dorz}, {rcId: {5139}}
 
 [sequence]
 v1,v2,v3,v4

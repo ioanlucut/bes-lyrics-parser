@@ -1,5 +1,5 @@
 [title]
-De esti trist si apasat in suflet {author: {Edmund S.Lorenz}, {rcId: {1799}}
+De esti trist si apasat in suflet {composer: {Edmund S.Lorenz}, {rcId: {1799}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

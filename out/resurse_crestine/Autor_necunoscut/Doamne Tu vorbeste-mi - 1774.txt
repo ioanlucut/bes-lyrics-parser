@@ -1,5 +1,5 @@
 [title]
-Doamne tu vorbeste-mi {author: {Anonim}, {rcId: {1774}}
+Doamne tu vorbeste-mi {composer: {Anonim}, {rcId: {1774}}
 
 [sequence]
 v1,v2,v3,v4

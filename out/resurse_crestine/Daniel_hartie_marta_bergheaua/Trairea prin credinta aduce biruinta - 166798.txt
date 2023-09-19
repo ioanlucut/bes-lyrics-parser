@@ -1,5 +1,5 @@
 [title]
-Trairea prin credinta aduce biruinta {author: {Daniel Hartie, Marta Bergheaua}, {rcId: {166798}}
+Trairea prin credinta aduce biruinta {composer: {Daniel Hartie, Marta Bergheaua}, {rcId: {166798}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

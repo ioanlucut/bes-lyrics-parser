@@ -1,5 +1,5 @@
 [title]
-In bunatatea ta {author: {Puiu Chibici}, {rcId: {148085}}
+In bunatatea ta {composer: {Puiu Chibici}, {rcId: {148085}}
 
 [sequence]
 v1,v2,v3

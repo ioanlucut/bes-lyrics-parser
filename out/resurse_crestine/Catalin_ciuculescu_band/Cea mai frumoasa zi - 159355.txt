@@ -1,5 +1,5 @@
 [title]
-Cea mai frumoasa zi {author: {Cătălin Ciuculescu Band}, {rcId: {159355}}
+Cea mai frumoasa zi {composer: {Cătălin Ciuculescu Band}, {rcId: {159355}}
 
 [sequence]
 v1,v2,v3,v4

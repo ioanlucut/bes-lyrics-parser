@@ -1,5 +1,5 @@
 [title]
-Prima oara cand te-am cunoscut {author: {Lidia Gheorghe}, {rcId: {109407}}
+Prima oara cand te-am cunoscut {composer: {Lidia Gheorghe}, {rcId: {109407}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

@@ -1,5 +1,5 @@
 [title]
-Steaua betleemului {author: {Andreea Mois}, {rcId: {157390}}
+Steaua betleemului {composer: {Andreea Mois}, {rcId: {157390}}
 
 [sequence]
 v1,c,v2,c

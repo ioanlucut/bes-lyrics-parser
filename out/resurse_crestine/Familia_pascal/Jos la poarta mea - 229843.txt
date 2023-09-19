@@ -1,5 +1,5 @@
 [title]
-Jos la poarta mea {author: {Familia Pascal}, {rcId: {229843}}
+Jos la poarta mea {composer: {Familia Pascal}, {rcId: {229843}}
 
 [sequence]
 v1,c,c,v2,c

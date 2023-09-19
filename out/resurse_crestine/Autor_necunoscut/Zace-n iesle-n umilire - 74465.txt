@@ -1,5 +1,5 @@
 [title]
-Zace-n iesle-n umilire {author: {Anonim}, {rcId: {74465}}
+Zace-n iesle-n umilire {composer: {Anonim}, {rcId: {74465}}
 
 [sequence]
 v1,v2,v3

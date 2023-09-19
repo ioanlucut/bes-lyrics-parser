@@ -1,5 +1,5 @@
 [title]
-Binecuvinteaza-i doamne pe-acesti miri {author: {Simon Boloca}, {rcId: {199132}}
+Binecuvinteaza-i doamne pe-acesti miri {composer: {Simon Boloca}, {rcId: {199132}}
 
 [sequence]
 v1,c,v2,c,v3,c

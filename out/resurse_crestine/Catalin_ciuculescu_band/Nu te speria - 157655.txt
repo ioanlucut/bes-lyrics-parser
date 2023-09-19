@@ -1,5 +1,5 @@
 [title]
-Nu te speria {author: {Cătălin Ciuculescu Band}, {rcId: {157655}}
+Nu te speria {composer: {Cătălin Ciuculescu Band}, {rcId: {157655}}
 
 [sequence]
 v1,b,c,v2,c

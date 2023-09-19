@@ -1,5 +1,5 @@
 [title]
-Am aflat de cetatea de sus (jag har h"ort om en stad) {author: {Lydia Lithell, Traducere RO}, {rcId: {90225}}
+Am aflat de cetatea de sus (jag har h"ort om en stad) {composer: {Lydia Lithell, Traducere RO}, {rcId: {90225}}
 
 [sequence]
 v1,c,v2,c,v3,c,s,c

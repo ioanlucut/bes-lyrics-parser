@@ -1,5 +1,5 @@
 [title]
-Spre-un taram preasfant {author: {Ioan Hapca}, {rcId: {95218}}
+Spre-un taram preasfant {composer: {Ioan Hapca}, {rcId: {95218}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

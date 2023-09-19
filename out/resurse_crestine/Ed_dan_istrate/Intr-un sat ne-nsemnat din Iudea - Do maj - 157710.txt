@@ -1,5 +1,5 @@
 [title]
-Intr-un sat ne-nsemnat din iudea - do maj {author: {ed. Dan Istrate}, {rcId: {157710}}
+Intr-un sat ne-nsemnat din iudea - do maj {composer: {ed. Dan Istrate}, {rcId: {157710}}
 
 [sequence]
 v1,c,v2,c,v3,c

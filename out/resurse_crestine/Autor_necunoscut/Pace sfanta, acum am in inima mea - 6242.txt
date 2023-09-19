@@ -1,5 +1,5 @@
 [title]
-Pace sfanta acum am in inima mea {author: {Anonim}, {rcId: {6242}}
+Pace sfanta acum am in inima mea {composer: {Anonim}, {rcId: {6242}}
 
 [sequence]
 v1,c,v2,c,v3,c

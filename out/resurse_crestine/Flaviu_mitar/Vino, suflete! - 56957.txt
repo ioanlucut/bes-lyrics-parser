@@ -1,5 +1,5 @@
 [title]
-Vino suflete {author: {Flaviu Mitar}, {rcId: {56957}}
+Vino suflete {composer: {Flaviu Mitar}, {rcId: {56957}}
 
 [sequence]
 v1,c,v2,c

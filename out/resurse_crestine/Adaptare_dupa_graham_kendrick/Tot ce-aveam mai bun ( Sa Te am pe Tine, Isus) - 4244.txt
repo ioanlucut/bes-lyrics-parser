@@ -1,5 +1,5 @@
 [title]
-Tot ce-aveam mai bun ( sa te am pe tine isus) {author: {Adaptare după Graham Kendrick}, {rcId: {4244}}
+Tot ce-aveam mai bun ( sa te am pe tine isus) {composer: {Adaptare după Graham Kendrick}, {rcId: {4244}}
 
 [sequence]
 v1,c,v2,c,v3,c

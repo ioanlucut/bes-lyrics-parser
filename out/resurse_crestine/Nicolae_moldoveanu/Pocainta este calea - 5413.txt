@@ -1,5 +1,5 @@
 [title]
-Pocainta este calea {author: {Nicolae Moldoveanu}, {rcId: {5413}}
+Pocainta este calea {composer: {Nicolae Moldoveanu}, {rcId: {5413}}
 
 [sequence]
 v1,c,v2,c,v3,c

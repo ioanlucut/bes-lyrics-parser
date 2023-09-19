@@ -1,5 +1,5 @@
 [title]
-Fericire mareata {author: {Lidia Gheorghe}, {rcId: {96893}}
+Fericire mareata {composer: {Lidia Gheorghe}, {rcId: {96893}}
 
 [sequence]
 v1,b,c,v2,b,c

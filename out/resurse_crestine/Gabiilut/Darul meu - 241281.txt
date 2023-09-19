@@ -1,5 +1,5 @@
 [title]
-Darul meu {author: {Gabi_Ilut}, {rcId: {241281}}
+Darul meu {composer: {Gabi_Ilut}, {rcId: {241281}}
 
 [sequence]
 v1,c,v2,c,v3,c

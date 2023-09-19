@@ -1,5 +1,5 @@
 [title]
-O ce bine e ce voios traiesc cand ma las pe bratul domnului {author: {Anonim}, {rcId: {197721}}
+O ce bine e ce voios traiesc cand ma las pe bratul domnului {composer: {Anonim}, {rcId: {197721}}
 
 [sequence]
 v1,c,v2,c,v3,c

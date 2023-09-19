@@ -1,5 +1,5 @@
 [title]
-Un copil {author: {Nicolae Moldoveanu}, {rcId: {241153}}
+Un copil {composer: {Nicolae Moldoveanu}, {rcId: {241153}}
 
 [sequence]
 v1,v2,v3

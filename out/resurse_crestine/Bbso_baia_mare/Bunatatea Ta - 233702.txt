@@ -1,5 +1,5 @@
 [title]
-Bunatatea ta {author: {Bbso Baia Mare}, {rcId: {233702}}
+Bunatatea ta {composer: {Bbso Baia Mare}, {rcId: {233702}}
 
 [sequence]
 v1,c,v2,b,c

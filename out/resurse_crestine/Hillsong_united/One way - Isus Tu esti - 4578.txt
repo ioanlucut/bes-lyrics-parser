@@ -1,5 +1,5 @@
 [title]
-One way - isus tu esti {author: {Hillsong United, Traducere RO}, {rcId: {4578}}
+One way - isus tu esti {composer: {Hillsong United, Traducere RO}, {rcId: {4578}}
 
 [sequence]
 v1,c,v2,c,e

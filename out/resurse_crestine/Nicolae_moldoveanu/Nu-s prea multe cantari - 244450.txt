@@ -1,5 +1,5 @@
 [title]
-Nu-s prea multe cantari {author: {Nicolae Moldoveanu}, {rcId: {244450}}
+Nu-s prea multe cantari {composer: {Nicolae Moldoveanu}, {rcId: {244450}}
 
 [sequence]
 v1,v2,v3,v4,v5

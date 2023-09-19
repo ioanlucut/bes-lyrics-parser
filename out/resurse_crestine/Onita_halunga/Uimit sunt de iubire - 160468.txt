@@ -1,5 +1,5 @@
 [title]
-Uimit sunt de iubire {author: {Oniță Halunga}, {rcId: {160468}}
+Uimit sunt de iubire {composer: {Oniță Halunga}, {rcId: {160468}}
 
 [sequence]
 v1,c,c,v1,b,c,c,

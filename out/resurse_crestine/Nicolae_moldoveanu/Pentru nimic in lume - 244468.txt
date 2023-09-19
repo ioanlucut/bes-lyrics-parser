@@ -1,5 +1,5 @@
 [title]
-Pentru nimic in lume {author: {Nicolae Moldoveanu}, {rcId: {244468}}
+Pentru nimic in lume {composer: {Nicolae Moldoveanu}, {rcId: {244468}}
 
 [sequence]
 v1,v2,v3

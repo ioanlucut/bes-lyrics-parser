@@ -1,5 +1,5 @@
 [title]
-Binecuvintat in veci {author: {Anonim}, {rcId: {4167}}
+Binecuvintat in veci {composer: {Anonim}, {rcId: {4167}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

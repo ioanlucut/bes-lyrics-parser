@@ -1,5 +1,5 @@
 [title]
-Venim la tine {author: {Geta Lazăr}, {rcId: {178288}}
+Venim la tine {composer: {Geta Lazăr}, {rcId: {178288}}
 
 [sequence]
 v1,c,v2,c,v3,c

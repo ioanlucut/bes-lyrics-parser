@@ -1,5 +1,5 @@
 [title]
-Astazi canta frate e timpul sa-l marim {author: {Speranța}, {rcId: {102186}}
+Astazi canta frate e timpul sa-l marim {composer: {Speranța}, {rcId: {102186}}
 
 [sequence]
 v1,c,v2,c,v3,c

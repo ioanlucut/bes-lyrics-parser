@@ -1,5 +1,5 @@
 [title]
-Promisiuni {author: {Alin si Emima Timofte ft. Vlad Moldovan, Naomi Murza, TB Music}, {rcId: {229842}}
+Promisiuni {composer: {Alin si Emima Timofte ft. Vlad Moldovan, Naomi Murza, TB Music}, {rcId: {229842}}
 
 [sequence]
 v1,b,c,v2,b,c,e

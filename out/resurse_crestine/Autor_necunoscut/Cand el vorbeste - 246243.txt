@@ -1,5 +1,5 @@
 [title]
-Cand el vorbeste {author: {Anonim}, {rcId: {246243}}
+Cand el vorbeste {composer: {Anonim}, {rcId: {246243}}
 
 [sequence]
 v1,e,v2

@@ -1,5 +1,5 @@
 [title]
-Vestea evangheliei rasuna {author: {Anonim}, {rcId: {219287}}
+Vestea evangheliei rasuna {composer: {Anonim}, {rcId: {219287}}
 
 [sequence]
 v1,c,v2,c,v3,c

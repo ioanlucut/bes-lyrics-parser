@@ -1,5 +1,5 @@
 [title]
-Esti ruga purtata {author: {Mihai Bejinariu}, {rcId: {174379}}
+Esti ruga purtata {composer: {Mihai Bejinariu}, {rcId: {174379}}
 
 [sequence]
 v1,v2,v3

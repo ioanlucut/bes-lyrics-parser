@@ -1,5 +1,5 @@
 [title]
-Gara vietii {author: {Eliza Pirosca}, {rcId: {113287}}
+Gara vietii {composer: {Eliza Pirosca}, {rcId: {113287}}
 
 [sequence]
 v1,c,v2,c,c

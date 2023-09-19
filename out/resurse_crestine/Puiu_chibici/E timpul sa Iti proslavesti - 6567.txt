@@ -1,5 +1,5 @@
 [title]
-E timpul sa iti proslavesti {author: {Puiu Chibici}, {rcId: {6567}}
+E timpul sa iti proslavesti {composer: {Puiu Chibici}, {rcId: {6567}}
 
 [sequence]
 v1,v2,v3,v3

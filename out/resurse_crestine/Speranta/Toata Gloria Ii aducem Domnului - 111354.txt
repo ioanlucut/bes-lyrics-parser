@@ -1,5 +1,5 @@
 [title]
-Toata gloria ii aducem domnului {author: {Speranța}, {rcId: {111354}}
+Toata gloria ii aducem domnului {composer: {Speranța}, {rcId: {111354}}
 
 [sequence]
 v1,c,c

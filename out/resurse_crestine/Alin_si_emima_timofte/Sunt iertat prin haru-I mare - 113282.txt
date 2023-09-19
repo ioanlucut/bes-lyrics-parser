@@ -1,5 +1,5 @@
 [title]
-Sunt iertat prin haru-i mare {author: {Alin și Emima Timofte}, {rcId: {113282}}
+Sunt iertat prin haru-i mare {composer: {Alin și Emima Timofte}, {rcId: {113282}}
 
 [sequence]
 c,v1,c

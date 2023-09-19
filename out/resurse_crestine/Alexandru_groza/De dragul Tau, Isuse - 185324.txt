@@ -1,5 +1,5 @@
 [title]
-De dragul tau isuse {author: {Alexandru Groza}, {rcId: {185324}}
+De dragul tau isuse {composer: {Alexandru Groza}, {rcId: {185324}}
 
 [sequence]
 v1,c,v2,c,v3,c

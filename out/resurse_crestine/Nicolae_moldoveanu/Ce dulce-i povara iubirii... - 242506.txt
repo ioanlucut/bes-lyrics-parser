@@ -1,5 +1,5 @@
 [title]
-Ce dulce-i povara iubirii {author: {Nicolae Moldoveanu}, {rcId: {242506}}
+Ce dulce-i povara iubirii {composer: {Nicolae Moldoveanu}, {rcId: {242506}}
 
 [sequence]
 v1,v2,v3

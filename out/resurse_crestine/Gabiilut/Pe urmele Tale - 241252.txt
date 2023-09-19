@@ -1,5 +1,5 @@
 [title]
-Pe urmele tale {author: {Gabi_Ilut}, {rcId: {241252}}
+Pe urmele tale {composer: {Gabi_Ilut}, {rcId: {241252}}
 
 [sequence]
 v1,c,v2,c,e

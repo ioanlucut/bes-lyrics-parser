@@ -1,5 +1,5 @@
 [title]
-De ce porti tu povara {author: {Cristina Chiriac}, {rcId: {192314}}
+De ce porti tu povara {composer: {Cristina Chiriac}, {rcId: {192314}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

@@ -1,5 +1,5 @@
 [title]
-Cat de trecatoare {author: {Nicolae Moldoveanu}, {rcId: {231792}}
+Cat de trecatoare {composer: {Nicolae Moldoveanu}, {rcId: {231792}}
 
 [sequence]
 v1,v2,v3,v4

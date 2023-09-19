@@ -1,5 +1,5 @@
 [title]
-M-aplec adanc in rugaciune {author: {Puiu Chibici}, {rcId: {6561}}
+M-aplec adanc in rugaciune {composer: {Puiu Chibici}, {rcId: {6561}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

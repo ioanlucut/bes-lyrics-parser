@@ -1,5 +1,5 @@
 [title]
-Domnul e sfant {author: {Anonim}, {rcId: {61437}}
+Domnul e sfant {composer: {Anonim}, {rcId: {61437}}
 
 [sequence]
 v1,c,v2,c

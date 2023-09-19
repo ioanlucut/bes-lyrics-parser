@@ -1,5 +1,5 @@
 [title]
-Lasa-ti inima sa cante {author: {Speranța și prietenii}, {rcId: {101525}}
+Lasa-ti inima sa cante {composer: {Speranța și prietenii}, {rcId: {101525}}
 
 [sequence]
 v1,c,v2,c,v3,c

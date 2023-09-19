@@ -1,5 +1,5 @@
 [title]
-Ma-ncred in tine {author: {Marius Livanu}, {rcId: {139818}}
+Ma-ncred in tine {composer: {Marius Livanu}, {rcId: {139818}}
 
 [sequence]
 c,v1,c,v2,c

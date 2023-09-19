@@ -1,5 +1,5 @@
 [title]
-Cu cine as putea sa te aseaman {author: {Anonim}, {rcId: {84422}}
+Cu cine as putea sa te aseaman {composer: {Anonim}, {rcId: {84422}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

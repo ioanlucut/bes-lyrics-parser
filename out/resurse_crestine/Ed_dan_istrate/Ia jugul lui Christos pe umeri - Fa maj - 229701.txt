@@ -1,5 +1,5 @@
 [title]
-Ia jugul lui christos pe umeri - fa maj {author: {ed, Dan Istrate}, {rcId: {229701}}
+Ia jugul lui christos pe umeri - fa maj {composer: {ed, Dan Istrate}, {rcId: {229701}}
 
 [sequence]
 v1,v2,v3

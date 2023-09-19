@@ -1,5 +1,5 @@
 [title]
-Increde-te-n lumina {author: {Nicolae Moldoveanu}, {rcId: {244616}}
+Increde-te-n lumina {composer: {Nicolae Moldoveanu}, {rcId: {244616}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Prin harul domnului la nunta am venit {author: {Grupul Hava Maranatha}, {rcId: {152550}}
+Prin harul domnului la nunta am venit {composer: {Grupul Hava Maranatha}, {rcId: {152550}}
 
 [sequence]
 v1,c,v2,c

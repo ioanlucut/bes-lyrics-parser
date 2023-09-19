@@ -1,5 +1,5 @@
 [title]
-Nimeni altul nu-i ca domnul {author: {Anonim}, {rcId: {3756}}
+Nimeni altul nu-i ca domnul {composer: {Anonim}, {rcId: {3756}}
 
 [sequence]
 v1,c,v2,c,v3,c

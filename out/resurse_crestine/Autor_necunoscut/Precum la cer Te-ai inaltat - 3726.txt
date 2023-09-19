@@ -1,5 +1,5 @@
 [title]
-Precum la cer te-ai inaltat {author: {Anonim}, {rcId: {3726}}
+Precum la cer te-ai inaltat {composer: {Anonim}, {rcId: {3726}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

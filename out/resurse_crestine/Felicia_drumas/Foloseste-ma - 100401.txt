@@ -1,5 +1,5 @@
 [title]
-Foloseste-ma {author: {Felicia Drumas}, {rcId: {100401}}
+Foloseste-ma {composer: {Felicia Drumas}, {rcId: {100401}}
 
 [sequence]
 v1,c,v2,c,v3,c

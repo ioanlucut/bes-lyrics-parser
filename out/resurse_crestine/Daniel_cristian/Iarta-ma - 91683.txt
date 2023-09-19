@@ -1,5 +1,5 @@
 [title]
-Iarta-ma {author: {Daniel Cristian}, {rcId: {91683}}
+Iarta-ma {composer: {Daniel Cristian}, {rcId: {91683}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Vreau sa-ti multumesc {author: {Quo Vadis}, {rcId: {213119}}
+Vreau sa-ti multumesc {composer: {Quo Vadis}, {rcId: {213119}}
 
 [sequence]
 v1,c,e

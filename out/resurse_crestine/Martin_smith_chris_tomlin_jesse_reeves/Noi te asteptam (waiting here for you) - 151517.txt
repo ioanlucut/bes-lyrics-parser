@@ -1,5 +1,5 @@
 [title]
-Noi te asteptam (waiting here for you) {author: {Martin Smith, Chris Tomlin, Jesse Reeves}, {rcId: {151517}}
+Noi te asteptam (waiting here for you) {composer: {Martin Smith, Chris Tomlin, Jesse Reeves}, {rcId: {151517}}
 
 [sequence]
 v1,c,v2,c

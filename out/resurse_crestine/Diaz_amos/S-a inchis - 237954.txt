@@ -1,5 +1,5 @@
 [title]
-S-a inchis {author: {Diaz Amos}, {rcId: {237954}}
+S-a inchis {composer: {Diaz Amos}, {rcId: {237954}}
 
 [sequence]
 v1,c,v2,c,v3,c

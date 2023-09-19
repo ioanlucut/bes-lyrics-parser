@@ -1,5 +1,5 @@
 [title]
-Candva sus pe tabor {author: {Puiu Chibici}, {rcId: {4200}}
+Candva sus pe tabor {composer: {Puiu Chibici}, {rcId: {4200}}
 
 [sequence]
 v1,v2,v3,v4

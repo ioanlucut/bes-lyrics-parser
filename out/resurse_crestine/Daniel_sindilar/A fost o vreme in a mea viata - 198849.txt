@@ -1,5 +1,5 @@
 [title]
-A fost o vreme in a mea viata {author: {Daniel Sindilar}, {rcId: {198849}}
+A fost o vreme in a mea viata {composer: {Daniel Sindilar}, {rcId: {198849}}
 
 [sequence]
 v1,v2,v3,v4,v5

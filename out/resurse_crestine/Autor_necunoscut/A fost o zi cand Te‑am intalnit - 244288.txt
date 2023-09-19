@@ -1,5 +1,5 @@
 [title]
-A fost o zi cand te-am intalnit {author: {Autor necunoscut}, {rcId: {244288}}
+A fost o zi cand te-am intalnit {composer: {Autor necunoscut}, {rcId: {244288}}
 
 [sequence]
 v1,c,v2,c

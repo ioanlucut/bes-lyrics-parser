@@ -1,5 +1,5 @@
 [title]
-Odata pe acest pamant {author: {Anonim}, {rcId: {1513}}
+Odata pe acest pamant {composer: {Anonim}, {rcId: {1513}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-O vino isuse in inima mea {author: {Otto Pascal}, {rcId: {216540}}
+O vino isuse in inima mea {composer: {Otto Pascal}, {rcId: {216540}}
 
 [sequence]
 v1,v2,v3,v4

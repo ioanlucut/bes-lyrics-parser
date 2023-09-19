@@ -1,5 +1,5 @@
 [title]
-Prin isus avem victorie {author: {Anonim}, {rcId: {2772}}
+Prin isus avem victorie {composer: {Anonim}, {rcId: {2772}}
 
 [sequence]
 v1,c

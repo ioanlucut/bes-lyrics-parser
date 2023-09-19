@@ -1,5 +1,5 @@
 [title]
-Gloriosul imparat {author: {Geness}, {rcId: {238905}}
+Gloriosul imparat {composer: {Geness}, {rcId: {238905}}
 
 [sequence]
 v1,v2,v3

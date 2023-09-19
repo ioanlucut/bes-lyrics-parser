@@ -1,5 +1,5 @@
 [title]
-O ce minune ce sarbatoare (wunder der weihnacht) {author: {Anni Liedtke, Gottfried Stahnke, Traducere RO}, {rcId: {207731}}
+O ce minune ce sarbatoare (wunder der weihnacht) {composer: {Anni Liedtke, Gottfried Stahnke, Traducere RO}, {rcId: {207731}}
 
 [sequence]
 v1,c,v2,c,v3,c

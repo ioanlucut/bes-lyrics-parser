@@ -1,5 +1,5 @@
 [title]
-Semanatorul iese samanta semanase {author: {Nicolae Moldoveanu}, {rcId: {5610}}
+Semanatorul iese samanta semanase {composer: {Nicolae Moldoveanu}, {rcId: {5610}}
 
 [sequence]
 v1,c,v2,c

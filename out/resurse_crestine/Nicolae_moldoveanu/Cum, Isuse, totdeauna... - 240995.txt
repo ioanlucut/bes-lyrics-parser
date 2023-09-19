@@ -1,5 +1,5 @@
 [title]
-Cum isuse totdeauna {author: {Nicolae Moldoveanu}, {rcId: {240995}}
+Cum isuse totdeauna {composer: {Nicolae Moldoveanu}, {rcId: {240995}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Se va spune-odata despre {author: {Eden Spania}, {rcId: {113118}}
+Se va spune-odata despre {composer: {Eden Spania}, {rcId: {113118}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

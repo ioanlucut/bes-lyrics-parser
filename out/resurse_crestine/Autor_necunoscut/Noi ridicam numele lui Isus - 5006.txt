@@ -1,5 +1,5 @@
 [title]
-Noi ridicam numele lui isus {author: {Anonim}, {rcId: {5006}}
+Noi ridicam numele lui isus {composer: {Anonim}, {rcId: {5006}}
 
 [sequence]
 v1

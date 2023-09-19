@@ -1,5 +1,5 @@
 [title]
-Vreau s-ajung la tine doamne (iarta-mi vina mea) {author: {Ovidiu Liteanu}, {rcId: {187410}}
+Vreau s-ajung la tine doamne (iarta-mi vina mea) {composer: {Ovidiu Liteanu}, {rcId: {187410}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

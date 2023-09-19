@@ -1,5 +1,5 @@
 [title]
-Valuri de iubire (la izvorul rugaciunii) {author: {Ovidiu Liteanu}, {rcId: {187427}}
+Valuri de iubire (la izvorul rugaciunii) {composer: {Ovidiu Liteanu}, {rcId: {187427}}
 
 [sequence]
 v1,c,v2,c

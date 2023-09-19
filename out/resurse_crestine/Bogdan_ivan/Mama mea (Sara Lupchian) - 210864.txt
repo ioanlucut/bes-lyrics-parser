@@ -1,5 +1,5 @@
 [title]
-Mama mea (sara lupchian) {author: {Bogdan Ivan}, {rcId: {210864}}
+Mama mea (sara lupchian) {composer: {Bogdan Ivan}, {rcId: {210864}}
 
 [sequence]
 v1,c,v2,c,v3,c

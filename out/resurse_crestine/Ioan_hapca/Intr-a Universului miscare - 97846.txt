@@ -1,5 +1,5 @@
 [title]
-Intr-a universului miscare {author: {Ioan Hapca}, {rcId: {97846}}
+Intr-a universului miscare {composer: {Ioan Hapca}, {rcId: {97846}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Am fost orfan {author: {Beni Moldovan}, {rcId: {60529}}
+Am fost orfan {composer: {Beni Moldovan}, {rcId: {60529}}
 
 [sequence]
 v1,c,v2,c2

@@ -1,5 +1,5 @@
 [title]
-Haideti frati cu toti sa ne unim (vino doamne la altar) {author: {Otniel Stirb}, {rcId: {227069}}
+Haideti frati cu toti sa ne unim (vino doamne la altar) {composer: {Otniel Stirb}, {rcId: {227069}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Frati bucurati-va {author: {Anonim}, {rcId: {3220}}
+Frati bucurati-va {composer: {Anonim}, {rcId: {3220}}
 
 [sequence]
 v1,v2,v3

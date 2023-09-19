@@ -1,5 +1,5 @@
 [title]
-O scumpa zi {author: {E.F.Rimbault}, {rcId: {1914}}
+O scumpa zi {composer: {E.F.Rimbault}, {rcId: {1914}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

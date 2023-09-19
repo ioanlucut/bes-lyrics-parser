@@ -1,5 +1,5 @@
 [title]
-Maret esti o domnul meu {author: {Anonim}, {rcId: {4996}}
+Maret esti o domnul meu {composer: {Anonim}, {rcId: {4996}}
 
 [sequence]
 c,v1,c

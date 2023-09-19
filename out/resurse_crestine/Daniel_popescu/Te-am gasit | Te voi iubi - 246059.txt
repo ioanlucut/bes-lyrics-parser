@@ -1,5 +1,5 @@
 [title]
-Te-am gasit | te voi iubi {author: {Daniel Popescu}, {rcId: {246059}}
+Te-am gasit | te voi iubi {composer: {Daniel Popescu}, {rcId: {246059}}
 
 [sequence]
 v1,v2,c,v3,c,e

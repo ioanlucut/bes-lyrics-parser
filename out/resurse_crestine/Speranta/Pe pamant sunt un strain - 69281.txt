@@ -1,5 +1,5 @@
 [title]
-Pe pamant sunt un strain {author: {Speranța}, {rcId: {69281}}
+Pe pamant sunt un strain {composer: {Speranța}, {rcId: {69281}}
 
 [sequence]
 v1,c,v2,c,v3,c

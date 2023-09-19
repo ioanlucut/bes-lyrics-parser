@@ -1,5 +1,5 @@
 [title]
-In domnul ma-ncred {author: {Flaviu Mitar, Grupul Omega}, {rcId: {71852}}
+In domnul ma-ncred {composer: {Flaviu Mitar, Grupul Omega}, {rcId: {71852}}
 
 [sequence]
 v1,c

@@ -1,5 +1,5 @@
 [title]
-Al meu prieten drag (my forever friend) {author: {Charlie Landsborough, Traducere RO}, {rcId: {136617}}
+Al meu prieten drag (my forever friend) {composer: {Charlie Landsborough, Traducere RO}, {rcId: {136617}}
 
 [sequence]
 v1,c,v2,c,v3,c

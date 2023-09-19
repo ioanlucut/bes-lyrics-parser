@@ -1,5 +1,5 @@
 [title]
-Vestea rasuna din micul betleem (slyseli jsme v betl'eme) {author: {Colind din Cehia, Traducere RO}, {rcId: {205736}}
+Vestea rasuna din micul betleem (slyseli jsme v betl'eme) {composer: {Colind din Cehia, Traducere RO}, {rcId: {205736}}
 
 [sequence]
 v1

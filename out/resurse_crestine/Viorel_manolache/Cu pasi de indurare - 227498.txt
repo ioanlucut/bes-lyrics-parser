@@ -1,5 +1,5 @@
 [title]
-Cu pasi de indurare {author: {Viorel Manolache}, {rcId: {227498}}
+Cu pasi de indurare {composer: {Viorel Manolache}, {rcId: {227498}}
 
 [sequence]
 v1,c,v2,c,v3,c

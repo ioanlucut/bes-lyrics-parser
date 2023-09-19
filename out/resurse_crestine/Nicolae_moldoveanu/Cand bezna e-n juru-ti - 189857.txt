@@ -1,5 +1,5 @@
 [title]
-Cand bezna e-n juru-ti {author: {Nicolae Moldoveanu}, {rcId: {189857}}
+Cand bezna e-n juru-ti {composer: {Nicolae Moldoveanu}, {rcId: {189857}}
 
 [sequence]
 v1,v2,v3,v4,v5

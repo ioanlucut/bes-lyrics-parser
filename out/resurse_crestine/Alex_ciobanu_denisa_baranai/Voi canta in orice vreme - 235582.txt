@@ -1,5 +1,5 @@
 [title]
-Voi canta in orice vreme {author: {Alex Ciobanu, Denisa Baranai}, {rcId: {235582}}
+Voi canta in orice vreme {composer: {Alex Ciobanu, Denisa Baranai}, {rcId: {235582}}
 
 [sequence]
 v1,c,v2,c,v3,c

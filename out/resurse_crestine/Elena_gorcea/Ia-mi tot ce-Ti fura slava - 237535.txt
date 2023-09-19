@@ -1,5 +1,5 @@
 [title]
-Ia-mi tot ce-ti fura slava {author: {Elena Gorcea}, {rcId: {237535}}
+Ia-mi tot ce-ti fura slava {composer: {Elena Gorcea}, {rcId: {237535}}
 
 [sequence]
 v1,c,v2,c,v3,c

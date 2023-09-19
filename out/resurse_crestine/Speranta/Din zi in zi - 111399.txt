@@ -1,5 +1,5 @@
 [title]
-Din zi in zi {author: {Speranța}, {rcId: {111399}}
+Din zi in zi {composer: {Speranța}, {rcId: {111399}}
 
 [sequence]
 v1,c,v2,c,v3,c2

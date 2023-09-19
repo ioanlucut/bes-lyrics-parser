@@ -1,5 +1,5 @@
 [title]
-Apa din stanca (water from the rock) {author: {Timothy C. Santinga, Traducere RO}, {rcId: {91479}}
+Apa din stanca (water from the rock) {composer: {Timothy C. Santinga, Traducere RO}, {rcId: {91479}}
 
 [sequence]
 v1,c,v2,c,v3,c,s,c

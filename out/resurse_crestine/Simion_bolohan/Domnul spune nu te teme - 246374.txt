@@ -1,5 +1,5 @@
 [title]
-Domnul spune nu te teme {author: {Simion Bolohan}, {rcId: {246374}}
+Domnul spune nu te teme {composer: {Simion Bolohan}, {rcId: {246374}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

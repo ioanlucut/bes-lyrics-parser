@@ -1,5 +1,5 @@
 [title]
-Tu care ai aflat lumina {author: {Traian  Dorz}, {rcId: {74908}}
+Tu care ai aflat lumina {composer: {Traian  Dorz}, {rcId: {74908}}
 
 [sequence]
 v1,v2,v3,v4

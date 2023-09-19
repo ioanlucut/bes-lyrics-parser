@@ -1,5 +1,5 @@
 [title]
-Dupa cum este scris isus va reveni {author: {Alexandru Groza}, {rcId: {185320}}
+Dupa cum este scris isus va reveni {composer: {Alexandru Groza}, {rcId: {185320}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

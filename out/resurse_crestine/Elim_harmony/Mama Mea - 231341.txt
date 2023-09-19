@@ -1,5 +1,5 @@
 [title]
-Mama mea {author: {Elim Harmony}, {rcId: {231341}}
+Mama mea {composer: {Elim Harmony}, {rcId: {231341}}
 
 [sequence]
 v1,c,v2,c

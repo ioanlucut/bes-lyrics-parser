@@ -1,5 +1,5 @@
 [title]
-Nu sunt decat o trestie franta {author: {Nicolae Zamfir}, {rcId: {205011}}
+Nu sunt decat o trestie franta {composer: {Nicolae Zamfir}, {rcId: {205011}}
 
 [sequence]
 v1,v2,v3

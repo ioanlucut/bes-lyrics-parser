@@ -1,5 +1,5 @@
 [title]
-Hristos din morti a inviat {author: {Din NYC, Maranata}, {rcId: {1893}}
+Hristos din morti a inviat {composer: {Din NYC, Maranata}, {rcId: {1893}}
 
 [sequence]
 v1,c,v2,c,v3,c

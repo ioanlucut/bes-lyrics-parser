@@ -1,5 +1,5 @@
 [title]
-Ca doi trandafiri {author: {Anonim}, {rcId: {199483}}
+Ca doi trandafiri {composer: {Anonim}, {rcId: {199483}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Dumnezeul meu cat doresc {author: {Nicolae Moldoveanu}, {rcId: {186175}}
+Dumnezeul meu cat doresc {composer: {Nicolae Moldoveanu}, {rcId: {186175}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Dumnezeu e adapostul {author: {Otniel Stirb}, {rcId: {218385}}
+Dumnezeu e adapostul {composer: {Otniel Stirb}, {rcId: {218385}}
 
 [sequence]
 v1,c,v2,c,v3,c

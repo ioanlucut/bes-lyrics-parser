@@ -1,5 +1,5 @@
 [title]
-Nu mai spune a ta durere frate nimanui {author: {Anonim}, {rcId: {65285}}
+Nu mai spune a ta durere frate nimanui {composer: {Anonim}, {rcId: {65285}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

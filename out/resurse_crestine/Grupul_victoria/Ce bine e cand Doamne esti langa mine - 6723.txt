@@ -1,5 +1,5 @@
 [title]
-Ce bine e cand doamne esti langa mine {author: {Grupul Victoria}, {rcId: {6723}}
+Ce bine e cand doamne esti langa mine {composer: {Grupul Victoria}, {rcId: {6723}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Sfintii-n sarbatoare {author: {Puiu Chibici}, {rcId: {60292}}
+Sfintii-n sarbatoare {composer: {Puiu Chibici}, {rcId: {60292}}
 
 [sequence]
 v1,c,v2,c,v3,c,v6,c

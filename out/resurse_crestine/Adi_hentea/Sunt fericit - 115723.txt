@@ -1,5 +1,5 @@
 [title]
-Sunt fericit {author: {Adi Hentea}, {rcId: {115723}}
+Sunt fericit {composer: {Adi Hentea}, {rcId: {115723}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Tu esti stanca vietii mele {author: {Necunoscut}, {rcId: {197980}}
+Tu esti stanca vietii mele {composer: {Necunoscut}, {rcId: {197980}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-O ce greu si-anevoios {author: {Nicu Chereji}, {rcId: {210183}}
+O ce greu si-anevoios {composer: {Nicu Chereji}, {rcId: {210183}}
 
 [sequence]
 v1,v2,v3

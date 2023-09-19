@@ -1,5 +1,5 @@
 [title]
-Doamne tu imi esti lumina mea {author: {Claudia Danciu}, {rcId: {168879}}
+Doamne tu imi esti lumina mea {composer: {Claudia Danciu}, {rcId: {168879}}
 
 [sequence]
 v1,c,v2,c2

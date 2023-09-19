@@ -1,5 +1,5 @@
 [title]
-Doamne te rog- nunta {author: {David Preuteasa}, {rcId: {227620}}
+Doamne te rog- nunta {composer: {David Preuteasa}, {rcId: {227620}}
 
 [sequence]
 v1,v2

@@ -1,5 +1,5 @@
 [title]
-Nu pierde zborul catre cer ( nu pierde sansa de a fi ) {author: {Ovidiu Liteanu}, {rcId: {188229}}
+Nu pierde zborul catre cer ( nu pierde sansa de a fi ) {composer: {Ovidiu Liteanu}, {rcId: {188229}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

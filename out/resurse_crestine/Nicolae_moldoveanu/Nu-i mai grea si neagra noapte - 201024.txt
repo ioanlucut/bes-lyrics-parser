@@ -1,5 +1,5 @@
 [title]
-Nu-i mai grea si neagra noapte {author: {Nicolae Moldoveanu}, {rcId: {201024}}
+Nu-i mai grea si neagra noapte {composer: {Nicolae Moldoveanu}, {rcId: {201024}}
 
 [sequence]
 v1,v2,v3,v4

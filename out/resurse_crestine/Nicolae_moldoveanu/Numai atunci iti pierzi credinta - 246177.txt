@@ -1,5 +1,5 @@
 [title]
-Numai atunci iti pierzi credinta {author: {Nicolae Moldoveanu}, {rcId: {246177}}
+Numai atunci iti pierzi credinta {composer: {Nicolae Moldoveanu}, {rcId: {246177}}
 
 [sequence]
 v1,v2,v3

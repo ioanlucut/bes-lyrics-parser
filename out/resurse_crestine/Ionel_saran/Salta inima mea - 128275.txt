@@ -1,5 +1,5 @@
 [title]
-Salta inima mea {author: {Ionel Saran}, {rcId: {128275}}
+Salta inima mea {composer: {Ionel Saran}, {rcId: {128275}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Nu le spune de iubire {author: {Flaviu Mitar}, {rcId: {84653}}
+Nu le spune de iubire {composer: {Flaviu Mitar}, {rcId: {84653}}
 
 [sequence]
 v1,c,v2,c,e

@@ -1,5 +1,5 @@
 [title]
-Unde-as mai gasi prin lume-atat belsug de har {author: {Nicolae Moldoveanu}, {rcId: {5455}}
+Unde-as mai gasi prin lume-atat belsug de har {composer: {Nicolae Moldoveanu}, {rcId: {5455}}
 
 [sequence]
 v1,c,v2,c,v3,c

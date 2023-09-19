@@ -1,5 +1,5 @@
 [title]
-Cate doruri imi framanta viata {author: {Anonim}, {rcId: {6441}}
+Cate doruri imi framanta viata {composer: {Anonim}, {rcId: {6441}}
 
 [sequence]
 v1,c,v2,c,v3,c

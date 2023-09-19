@@ -1,5 +1,5 @@
 [title]
-Dumnezeu a intiparit {author: {Speranța}, {rcId: {111031}}
+Dumnezeu a intiparit {composer: {Speranța}, {rcId: {111031}}
 
 [sequence]
 v1,c,v2,c,v3,c

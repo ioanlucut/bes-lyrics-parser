@@ -1,5 +1,5 @@
 [title]
-Astept aceea zi {author: {Speranța}, {rcId: {110999}}
+Astept aceea zi {composer: {Speranța}, {rcId: {110999}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,c4

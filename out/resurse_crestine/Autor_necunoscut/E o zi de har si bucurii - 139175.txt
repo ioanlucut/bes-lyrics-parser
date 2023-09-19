@@ -1,5 +1,5 @@
 [title]
-E o zi de har si bucurii {author: {Anonim}, {rcId: {139175}}
+E o zi de har si bucurii {composer: {Anonim}, {rcId: {139175}}
 
 [sequence]
 v1,c,v2,c,v3,c

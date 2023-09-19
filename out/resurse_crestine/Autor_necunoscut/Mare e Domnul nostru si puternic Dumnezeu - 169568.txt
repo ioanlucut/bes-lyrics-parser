@@ -1,5 +1,5 @@
 [title]
-Mare e domnul nostru si puternic dumnezeu {author: {Anonim}, {rcId: {169568}}
+Mare e domnul nostru si puternic dumnezeu {composer: {Anonim}, {rcId: {169568}}
 
 [sequence]
 c,v1,c,v2,b,c,v3,c

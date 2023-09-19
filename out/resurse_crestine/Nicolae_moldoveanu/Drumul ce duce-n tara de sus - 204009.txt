@@ -1,5 +1,5 @@
 [title]
-Drumul ce duce-n tara de sus {author: {Nicolae Moldoveanu}, {rcId: {204009}}
+Drumul ce duce-n tara de sus {composer: {Nicolae Moldoveanu}, {rcId: {204009}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Psalmul {author: {Amiel}, {rcId: {55681}}
+Psalmul {composer: {Amiel}, {rcId: {55681}}
 
 [sequence]
 v1,v2,v3,v4,v5

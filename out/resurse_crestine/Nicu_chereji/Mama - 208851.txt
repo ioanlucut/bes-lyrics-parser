@@ -1,5 +1,5 @@
 [title]
-Mama {author: {Nicu Chereji}, {rcId: {208851}}
+Mama {composer: {Nicu Chereji}, {rcId: {208851}}
 
 [sequence]
 v1,c,v2,c,v3,c

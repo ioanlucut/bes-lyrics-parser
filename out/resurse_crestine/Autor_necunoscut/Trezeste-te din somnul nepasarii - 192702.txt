@@ -1,5 +1,5 @@
 [title]
-Trezeste-te din somnul nepasarii {author: {Anonim}, {rcId: {192702}}
+Trezeste-te din somnul nepasarii {composer: {Anonim}, {rcId: {192702}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c2

@@ -1,5 +1,5 @@
 [title]
-O ce minunat o ce glorios - do maj {author: {ed. Dan Istrate}, {rcId: {223061}}
+O ce minunat o ce glorios - do maj {composer: {ed. Dan Istrate}, {rcId: {223061}}
 
 [sequence]
 v1,v2,v3,v4,v5

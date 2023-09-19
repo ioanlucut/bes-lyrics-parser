@@ -1,5 +1,5 @@
 [title]
-Cat e fericit si cat de bine - la maj {author: {ed. Dan Istrate}, {rcId: {246395}}
+Cat e fericit si cat de bine - la maj {composer: {ed. Dan Istrate}, {rcId: {246395}}
 
 [sequence]
 v1,c,v2,c,v3,c

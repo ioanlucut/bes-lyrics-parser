@@ -1,5 +1,5 @@
 [title]
-Nu este sub cer o lucrare mai mareata {author: {David Știrb}, {rcId: {224258}}
+Nu este sub cer o lucrare mai mareata {composer: {David Știrb}, {rcId: {224258}}
 
 [sequence]
 v1,c,v2,c,v3,c

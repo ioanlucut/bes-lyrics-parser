@@ -1,5 +1,5 @@
 [title]
-Crinul din vale {author: {Alexandru Groza}, {rcId: {185722}}
+Crinul din vale {composer: {Alexandru Groza}, {rcId: {185722}}
 
 [sequence]
 v1,c,v2,c

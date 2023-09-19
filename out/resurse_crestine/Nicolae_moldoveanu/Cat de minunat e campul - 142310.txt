@@ -1,5 +1,5 @@
 [title]
-Cat de minunat e campul {author: {Nicolae Moldoveanu}, {rcId: {142310}}
+Cat de minunat e campul {composer: {Nicolae Moldoveanu}, {rcId: {142310}}
 
 [sequence]
 v1,v2,v3

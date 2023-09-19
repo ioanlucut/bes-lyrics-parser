@@ -1,5 +1,5 @@
 [title]
-Ca stanca crucea sta {author: {J. MacGranaham}, {rcId: {59388}}
+Ca stanca crucea sta {composer: {J. MacGranaham}, {rcId: {59388}}
 
 [sequence]
 v1,c,v2,c,v3,c

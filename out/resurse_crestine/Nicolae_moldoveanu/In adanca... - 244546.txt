@@ -1,5 +1,5 @@
 [title]
-In adanca {author: {Nicolae Moldoveanu}, {rcId: {244546}}
+In adanca {composer: {Nicolae Moldoveanu}, {rcId: {244546}}
 
 [sequence]
 v1,v2,v3

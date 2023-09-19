@@ -1,5 +1,5 @@
 [title]
-Psalmul {author: {Nicoleta Adascălului}, {rcId: {210071}}
+Psalmul {composer: {Nicoleta Adascălului}, {rcId: {210071}}
 
 [sequence]
 v1,c,v2,c

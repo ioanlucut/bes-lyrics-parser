@@ -1,5 +1,5 @@
 [title]
-Cu lacrime te cheama azi isuse {author: {Frații Wagner}, {rcId: {3827}}
+Cu lacrime te cheama azi isuse {composer: {Frații Wagner}, {rcId: {3827}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

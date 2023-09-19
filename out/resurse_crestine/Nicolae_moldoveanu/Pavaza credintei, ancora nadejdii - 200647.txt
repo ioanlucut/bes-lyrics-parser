@@ -1,5 +1,5 @@
 [title]
-Pavaza credintei ancora nadejdii {author: {Nicolae Moldoveanu}, {rcId: {200647}}
+Pavaza credintei ancora nadejdii {composer: {Nicolae Moldoveanu}, {rcId: {200647}}
 
 [sequence]
 v1,v2,v3

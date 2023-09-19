@@ -1,5 +1,5 @@
 [title]
-Un cantec drag despre isus am scris {author: {Anonim}, {rcId: {6263}}
+Un cantec drag despre isus am scris {composer: {Anonim}, {rcId: {6263}}
 
 [sequence]
 v1,c,v2,c

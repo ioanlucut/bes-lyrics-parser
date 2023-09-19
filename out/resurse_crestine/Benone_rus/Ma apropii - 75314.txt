@@ -1,5 +1,5 @@
 [title]
-Ma apropii {author: {Benone Rus}, {rcId: {75314}}
+Ma apropii {composer: {Benone Rus}, {rcId: {75314}}
 
 [sequence]
 v1,c,v2,c,e

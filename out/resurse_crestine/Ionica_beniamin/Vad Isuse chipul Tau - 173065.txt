@@ -1,5 +1,5 @@
 [title]
-Vad isuse chipul tau {author: {Ionică Beniamin}, {rcId: {173065}}
+Vad isuse chipul tau {composer: {Ionică Beniamin}, {rcId: {173065}}
 
 [sequence]
 v1,v1,v2,v2,v3,v3

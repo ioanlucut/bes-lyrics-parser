@@ -1,5 +1,5 @@
 [title]
-Lumina insotirii tale {author: {Nicolae Moldoveanu}, {rcId: {244188}}
+Lumina insotirii tale {composer: {Nicolae Moldoveanu}, {rcId: {244188}}
 
 [sequence]
 v1,v2,v3

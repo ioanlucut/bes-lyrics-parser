@@ -1,5 +1,5 @@
 [title]
-Stiu ca isus m-a salvat {author: {Anonim}, {rcId: {6883}}
+Stiu ca isus m-a salvat {composer: {Anonim}, {rcId: {6883}}
 
 [sequence]
 v1,c,e

@@ -1,5 +1,5 @@
 [title]
-Lauda {author: {Eldad Kids}, {rcId: {214951}}
+Lauda {composer: {Eldad Kids}, {rcId: {214951}}
 
 [sequence]
 v1,c,v2,c

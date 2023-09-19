@@ -1,5 +1,5 @@
 [title]
-Cu ce te alegi din viata {author: {Alexandru Groza}, {rcId: {156340}}
+Cu ce te alegi din viata {composer: {Alexandru Groza}, {rcId: {156340}}
 
 [sequence]
 v1,c,v2,c

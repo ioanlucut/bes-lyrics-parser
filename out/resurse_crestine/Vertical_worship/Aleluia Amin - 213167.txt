@@ -1,5 +1,5 @@
 [title]
-Aleluia amin {author: {Vertical Worship}, {rcId: {213167}}
+Aleluia amin {composer: {Vertical Worship}, {rcId: {213167}}
 
 [sequence]
 v1,c,v2,c,v3,b,c

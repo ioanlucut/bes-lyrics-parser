@@ -1,5 +1,5 @@
 [title]
-Tu mi-ai fost si imi esti scaparea {author: {Anonim}, {rcId: {5920}}
+Tu mi-ai fost si imi esti scaparea {composer: {Anonim}, {rcId: {5920}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c

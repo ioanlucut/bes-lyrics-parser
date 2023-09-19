@@ -1,5 +1,5 @@
 [title]
-Unde sa plec de langa tine ? {author: {Anonim}, {rcId: {66884}}
+Unde sa plec de langa tine ? {composer: {Anonim}, {rcId: {66884}}
 
 [sequence]
 v1,v2,v3,v4,v5

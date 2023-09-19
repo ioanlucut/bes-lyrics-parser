@@ -1,5 +1,5 @@
 [title]
-Se clatina imparatiile {author: {Ovidiu Liteanu}, {rcId: {219706}}
+Se clatina imparatiile {composer: {Ovidiu Liteanu}, {rcId: {219706}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

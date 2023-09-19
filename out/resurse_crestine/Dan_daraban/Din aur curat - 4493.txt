@@ -1,5 +1,5 @@
 [title]
-Din aur curat {author: {Dan Daraban}, {rcId: {4493}}
+Din aur curat {composer: {Dan Daraban}, {rcId: {4493}}
 
 [sequence]
 c,v1,v2,v3,c2

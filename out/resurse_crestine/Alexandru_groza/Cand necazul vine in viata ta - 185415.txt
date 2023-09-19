@@ -1,5 +1,5 @@
 [title]
-Cand necazul vine in viata ta {author: {Alexandru Groza}, {rcId: {185415}}
+Cand necazul vine in viata ta {composer: {Alexandru Groza}, {rcId: {185415}}
 
 [sequence]
 v1,c,v2,c

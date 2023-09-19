@@ -1,5 +1,5 @@
 [title]
-Cantec de seara {author: {Cifra perfecta}, {rcId: {6262}}
+Cantec de seara {composer: {Cifra perfecta}, {rcId: {6262}}
 
 [sequence]
 v1,b,c,v2,b,c

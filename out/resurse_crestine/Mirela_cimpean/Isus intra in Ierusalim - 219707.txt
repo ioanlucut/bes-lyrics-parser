@@ -1,5 +1,5 @@
 [title]
-Isus intra in ierusalim {author: {Mirela Cimpean}, {rcId: {219707}}
+Isus intra in ierusalim {composer: {Mirela Cimpean}, {rcId: {219707}}
 
 [sequence]
 v1,c,v2,c,v3,c

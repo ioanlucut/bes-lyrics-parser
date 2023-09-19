@@ -1,5 +1,5 @@
 [title]
-Parinte sfant - i love you lord - fa maj {author: {ed. Dan Istrate}, {rcId: {179995}}
+Parinte sfant - i love you lord - fa maj {composer: {ed. Dan Istrate}, {rcId: {179995}}
 
 [sequence]
 v1,v2,v3

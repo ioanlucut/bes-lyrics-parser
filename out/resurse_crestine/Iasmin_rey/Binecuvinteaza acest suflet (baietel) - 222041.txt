@@ -1,5 +1,5 @@
 [title]
-Binecuvinteaza acest suflet (baietel) {author: {Iasmin Rey}, {rcId: {222041}}
+Binecuvinteaza acest suflet (baietel) {composer: {Iasmin Rey}, {rcId: {222041}}
 
 [sequence]
 v1,v2,c,v3,c,v4,b,c

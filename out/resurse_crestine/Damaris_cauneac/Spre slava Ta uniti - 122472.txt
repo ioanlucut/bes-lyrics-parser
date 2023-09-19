@@ -1,5 +1,5 @@
 [title]
-Spre slava ta uniti {author: {Damaris Cauneac}, {rcId: {122472}}
+Spre slava ta uniti {composer: {Damaris Cauneac}, {rcId: {122472}}
 
 [sequence]
 v1,v2,v3,v4

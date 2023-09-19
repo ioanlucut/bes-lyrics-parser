@@ -1,5 +1,5 @@
 [title]
-De mult as fi cazut sub grea povara mea {author: {Anonim}, {rcId: {220248}}
+De mult as fi cazut sub grea povara mea {composer: {Anonim}, {rcId: {220248}}
 
 [sequence]
 v1,c,v2,c

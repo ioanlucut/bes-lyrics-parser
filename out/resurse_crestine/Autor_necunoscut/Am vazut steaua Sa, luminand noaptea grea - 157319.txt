@@ -1,5 +1,5 @@
 [title]
-Am vazut steaua sa luminand noaptea grea {author: {Anonim}, {rcId: {157319}}
+Am vazut steaua sa luminand noaptea grea {composer: {Anonim}, {rcId: {157319}}
 
 [sequence]
 v1,c,v2,c

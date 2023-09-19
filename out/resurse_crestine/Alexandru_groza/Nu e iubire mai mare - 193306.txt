@@ -1,5 +1,5 @@
 [title]
-Nu e iubire mai mare {author: {Alexandru Groza}, {rcId: {193306}}
+Nu e iubire mai mare {composer: {Alexandru Groza}, {rcId: {193306}}
 
 [sequence]
 v1,c,v2,c

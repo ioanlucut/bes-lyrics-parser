@@ -1,5 +1,5 @@
 [title]
-Slava tie {author: {Ionel Saran Bochis}, {rcId: {111180}}
+Slava tie {composer: {Ionel Saran Bochis}, {rcId: {111180}}
 
 [sequence]
 v1,c,v2,c,v3,c

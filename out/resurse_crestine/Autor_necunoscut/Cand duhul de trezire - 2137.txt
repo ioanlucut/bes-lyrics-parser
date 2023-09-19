@@ -1,5 +1,5 @@
 [title]
-Cand duhul de trezire {author: {Anonim}, {rcId: {2137}}
+Cand duhul de trezire {composer: {Anonim}, {rcId: {2137}}
 
 [sequence]
 v1,v2,v3,v4

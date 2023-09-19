@@ -1,5 +1,5 @@
 [title]
-La orice pas {author: {Măslinu’}, {rcId: {4511}}
+La orice pas {composer: {Măslinu’}, {rcId: {4511}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

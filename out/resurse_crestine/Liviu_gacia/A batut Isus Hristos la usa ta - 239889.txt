@@ -1,5 +1,5 @@
 [title]
-A batut isus hristos la usa ta {author: {Liviu Gacia}, {rcId: {239889}}
+A batut isus hristos la usa ta {composer: {Liviu Gacia}, {rcId: {239889}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Pentru pacatul tau {author: {Nicolae Moldoveanu}, {rcId: {244050}}
+Pentru pacatul tau {composer: {Nicolae Moldoveanu}, {rcId: {244050}}
 
 [sequence]
 v1,v2,v3

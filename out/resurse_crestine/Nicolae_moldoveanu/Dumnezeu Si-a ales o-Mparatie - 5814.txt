@@ -1,5 +1,5 @@
 [title]
-Dumnezeu si-a ales o-mparatie {author: {Nicolae Moldoveanu}, {rcId: {5814}}
+Dumnezeu si-a ales o-mparatie {composer: {Nicolae Moldoveanu}, {rcId: {5814}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8

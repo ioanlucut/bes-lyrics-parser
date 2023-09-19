@@ -1,5 +1,5 @@
 [title]
-Pentru ultima chemare dumnezeu va revarsa {author: {Nelu gabor}, {rcId: {6315}}
+Pentru ultima chemare dumnezeu va revarsa {composer: {Nelu gabor}, {rcId: {6315}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

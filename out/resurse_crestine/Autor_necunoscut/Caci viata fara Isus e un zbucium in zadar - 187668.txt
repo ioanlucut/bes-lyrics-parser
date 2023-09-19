@@ -1,5 +1,5 @@
 [title]
-Caci viata fara isus e un zbucium in zadar {author: {Anonim}, {rcId: {187668}}
+Caci viata fara isus e un zbucium in zadar {composer: {Anonim}, {rcId: {187668}}
 
 [sequence]
 v1,c,v2,c,v3,c

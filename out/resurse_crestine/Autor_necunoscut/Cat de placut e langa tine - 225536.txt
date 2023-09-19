@@ -1,5 +1,5 @@
 [title]
-Cat de placut e langa tine {author: {Anonim}, {rcId: {225536}}
+Cat de placut e langa tine {composer: {Anonim}, {rcId: {225536}}
 
 [sequence]
 v1,c,v2,c,v3,c

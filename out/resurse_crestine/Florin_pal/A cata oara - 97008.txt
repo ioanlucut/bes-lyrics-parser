@@ -1,5 +1,5 @@
 [title]
-A cata oara {author: {Florin Pal}, {rcId: {97008}}
+A cata oara {composer: {Florin Pal}, {rcId: {97008}}
 
 [sequence]
 v1,v2,v3,v4,v5

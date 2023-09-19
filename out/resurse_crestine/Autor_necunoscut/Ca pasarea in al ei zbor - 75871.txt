@@ -1,5 +1,5 @@
 [title]
-Ca pasarea in al ei zbor {author: {Anonim}, {rcId: {75871}}
+Ca pasarea in al ei zbor {composer: {Anonim}, {rcId: {75871}}
 
 [sequence]
 v1,v2,v3,v4

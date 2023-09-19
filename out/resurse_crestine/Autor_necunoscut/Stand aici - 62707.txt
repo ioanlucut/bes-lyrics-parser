@@ -1,5 +1,5 @@
 [title]
-Stand aici {author: {Anonim}, {rcId: {62707}}
+Stand aici {composer: {Anonim}, {rcId: {62707}}
 
 [sequence]
 v1,c,e

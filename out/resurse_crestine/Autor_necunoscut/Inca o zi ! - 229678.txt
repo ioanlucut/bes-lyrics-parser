@@ -1,5 +1,5 @@
 [title]
-Inca o zi {author: {Anonimul}, {rcId: {229678}}
+Inca o zi {composer: {Anonimul}, {rcId: {229678}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

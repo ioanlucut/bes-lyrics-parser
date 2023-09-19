@@ -1,5 +1,5 @@
 [title]
-Sangele lui isus a spalat pacatul meu {author: {Iasmin Rey}, {rcId: {221255}}
+Sangele lui isus a spalat pacatul meu {composer: {Iasmin Rey}, {rcId: {221255}}
 
 [sequence]
 v1,b,v2

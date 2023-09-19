@@ -1,5 +1,5 @@
 [title]
-Isus este sfant {author: {Anonim}, {rcId: {58837}}
+Isus este sfant {composer: {Anonim}, {rcId: {58837}}
 
 [sequence]
 c,v1,c,v2,c

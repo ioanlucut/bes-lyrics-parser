@@ -1,5 +1,5 @@
 [title]
-Partasie partasie {author: {Anonim}, {rcId: {103999}}
+Partasie partasie {composer: {Anonim}, {rcId: {103999}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Nu meritam a ta vedere {author: {Anonim}, {rcId: {212517}}
+Nu meritam a ta vedere {composer: {Anonim}, {rcId: {212517}}
 
 [sequence]
 v1,c,v2,c,v3,c

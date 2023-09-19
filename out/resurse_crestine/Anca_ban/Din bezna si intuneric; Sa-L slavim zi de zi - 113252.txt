@@ -1,5 +1,5 @@
 [title]
-Din bezna si intuneric; sa-l slavim zi de zi {author: {Anca Ban}, {rcId: {113252}}
+Din bezna si intuneric; sa-l slavim zi de zi {composer: {Anca Ban}, {rcId: {113252}}
 
 [sequence]
 v1,c,v2,c

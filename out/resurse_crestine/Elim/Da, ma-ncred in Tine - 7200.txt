@@ -1,5 +1,5 @@
 [title]
-Da ma-ncred in tine {author: {Elim}, {rcId: {7200}}
+Da ma-ncred in tine {composer: {Elim}, {rcId: {7200}}
 
 [sequence]
 v1,c,v2,c

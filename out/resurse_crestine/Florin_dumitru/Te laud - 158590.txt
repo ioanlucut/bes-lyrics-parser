@@ -1,5 +1,5 @@
 [title]
-Te laud {author: {Florin Dumitru}, {rcId: {158590}}
+Te laud {composer: {Florin Dumitru}, {rcId: {158590}}
 
 [sequence]
 v1,c,v2,c,e

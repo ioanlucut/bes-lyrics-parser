@@ -1,5 +1,5 @@
 [title]
-E lumina la fereastra (i ve never been this homesick before) {author: {Dottie Rambo, Traducere RO}, {rcId: {96276}}
+E lumina la fereastra (i ve never been this homesick before) {composer: {Dottie Rambo, Traducere RO}, {rcId: {96276}}
 
 [sequence]
 v1,c,v2,c,s,c

@@ -1,5 +1,5 @@
 [title]
-In tine ma incred {author: {Relu Leleu}, {rcId: {236004}}
+In tine ma incred {composer: {Relu Leleu}, {rcId: {236004}}
 
 [sequence]
 v1,c,v2,c,e

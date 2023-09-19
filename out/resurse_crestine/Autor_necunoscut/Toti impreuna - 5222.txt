@@ -1,5 +1,5 @@
 [title]
-Toti impreuna {author: {Anonim}, {rcId: {5222}}
+Toti impreuna {composer: {Anonim}, {rcId: {5222}}
 
 [sequence]
 v1,v2

@@ -1,5 +1,5 @@
 [title]
-Mireasa esti pregatita {author: {Anonim}, {rcId: {55615}}
+Mireasa esti pregatita {composer: {Anonim}, {rcId: {55615}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

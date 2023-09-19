@@ -1,5 +1,5 @@
 [title]
-De tine mi-e dor {author: {Andreea Popoi}, {rcId: {63097}}
+De tine mi-e dor {composer: {Andreea Popoi}, {rcId: {63097}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-S-a nascut in betleem {author: {Anonim}, {rcId: {117462}}
+S-a nascut in betleem {composer: {Anonim}, {rcId: {117462}}
 
 [sequence]
 v1,c,v2,c,v3,c

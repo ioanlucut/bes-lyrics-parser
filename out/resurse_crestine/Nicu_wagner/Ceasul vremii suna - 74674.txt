@@ -1,5 +1,5 @@
 [title]
-Ceasul vremii suna {author: {Nicu Wagner}, {rcId: {74674}}
+Ceasul vremii suna {composer: {Nicu Wagner}, {rcId: {74674}}
 
 [sequence]
 v1,v2,v3,v4

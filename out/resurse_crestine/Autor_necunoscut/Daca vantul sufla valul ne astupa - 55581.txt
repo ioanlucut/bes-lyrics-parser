@@ -1,5 +1,5 @@
 [title]
-Daca vantul sufla valul ne astupa {author: {Anonim}, {rcId: {55581}}
+Daca vantul sufla valul ne astupa {composer: {Anonim}, {rcId: {55581}}
 
 [sequence]
 v1,c,v2,c,v3,c

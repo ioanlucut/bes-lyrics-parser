@@ -1,5 +1,5 @@
 [title]
-Ingenunchez in fata ta {author: {Marta Bergheaua}, {rcId: {61957}}
+Ingenunchez in fata ta {composer: {Marta Bergheaua}, {rcId: {61957}}
 
 [sequence]
 v1,c,v2,c

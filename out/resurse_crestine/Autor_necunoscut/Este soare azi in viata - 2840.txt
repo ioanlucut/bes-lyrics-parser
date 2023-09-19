@@ -1,5 +1,5 @@
 [title]
-Este soare azi in viata {author: {Anonim}, {rcId: {2840}}
+Este soare azi in viata {composer: {Anonim}, {rcId: {2840}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

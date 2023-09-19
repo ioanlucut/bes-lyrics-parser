@@ -1,5 +1,5 @@
 [title]
-Minunat e domnul {author: {Sidney Cox}, {rcId: {1275}}
+Minunat e domnul {composer: {Sidney Cox}, {rcId: {1275}}
 
 [sequence]
 v1,v2,v3

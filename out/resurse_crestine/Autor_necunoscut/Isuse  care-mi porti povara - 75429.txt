@@ -1,5 +1,5 @@
 [title]
-Isuse care-mi porti povara {author: {Anonim}, {rcId: {75429}}
+Isuse care-mi porti povara {composer: {Anonim}, {rcId: {75429}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

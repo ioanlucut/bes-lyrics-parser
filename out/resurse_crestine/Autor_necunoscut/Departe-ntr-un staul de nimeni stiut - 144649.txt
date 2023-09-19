@@ -1,5 +1,5 @@
 [title]
-Departe-ntr-un staul de nimeni stiut {author: {Anonim}, {rcId: {144649}}
+Departe-ntr-un staul de nimeni stiut {composer: {Anonim}, {rcId: {144649}}
 
 [sequence]
 v1,v2,v3

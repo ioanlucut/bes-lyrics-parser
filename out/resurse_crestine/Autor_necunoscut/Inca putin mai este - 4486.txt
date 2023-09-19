@@ -1,5 +1,5 @@
 [title]
-Inca putin mai este {author: {Anonim}, {rcId: {4486}}
+Inca putin mai este {composer: {Anonim}, {rcId: {4486}}
 
 [sequence]
 v1,c,v2,c,v3,c

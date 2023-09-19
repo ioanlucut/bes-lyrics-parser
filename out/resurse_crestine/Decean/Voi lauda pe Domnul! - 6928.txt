@@ -1,5 +1,5 @@
 [title]
-Voi lauda pe domnul {author: {Decean}, {rcId: {6928}}
+Voi lauda pe domnul {composer: {Decean}, {rcId: {6928}}
 
 [sequence]
 v1,v2

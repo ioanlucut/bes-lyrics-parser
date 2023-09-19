@@ -1,5 +1,5 @@
 [title]
-Unde voi gasi iubire? {author: {Anonim}, {rcId: {1844}}
+Unde voi gasi iubire? {composer: {Anonim}, {rcId: {1844}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

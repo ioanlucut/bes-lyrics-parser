@@ -1,5 +1,5 @@
 [title]
-Cantati popoare slava domnului {author: {Alexandru Groza}, {rcId: {185705}}
+Cantati popoare slava domnului {composer: {Alexandru Groza}, {rcId: {185705}}
 
 [sequence]
 v1,c,c,v2,c

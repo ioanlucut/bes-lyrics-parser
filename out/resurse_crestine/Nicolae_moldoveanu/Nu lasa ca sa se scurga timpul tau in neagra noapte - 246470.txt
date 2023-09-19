@@ -1,5 +1,5 @@
 [title]
-Nu lasa ca sa se scurga timpul tau in neagra noapte {author: {Nicolae Moldoveanu}, {rcId: {246470}}
+Nu lasa ca sa se scurga timpul tau in neagra noapte {composer: {Nicolae Moldoveanu}, {rcId: {246470}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c

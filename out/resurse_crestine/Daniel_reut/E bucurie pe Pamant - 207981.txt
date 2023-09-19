@@ -1,5 +1,5 @@
 [title]
-E bucurie pe pamant {author: {Daniel Reuț}, {rcId: {207981}}
+E bucurie pe pamant {composer: {Daniel Reuț}, {rcId: {207981}}
 
 [sequence]
 v1,c,v2,c,v3,c

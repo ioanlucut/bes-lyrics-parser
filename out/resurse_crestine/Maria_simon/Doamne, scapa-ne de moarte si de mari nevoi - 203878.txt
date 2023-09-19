@@ -1,5 +1,5 @@
 [title]
-Doamne scapa-ne de moarte si de mari nevoi {author: {Maria Șimon}, {rcId: {203878}}
+Doamne scapa-ne de moarte si de mari nevoi {composer: {Maria Șimon}, {rcId: {203878}}
 
 [sequence]
 v1,c,v2,c,v3,c

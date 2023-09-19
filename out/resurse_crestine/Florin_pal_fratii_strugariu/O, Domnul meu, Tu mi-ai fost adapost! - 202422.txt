@@ -1,5 +1,5 @@
 [title]
-O domnul meu tu mi-ai fost adapost {author: {Florin Pal, Fratii Strugariu}, {rcId: {202422}}
+O domnul meu tu mi-ai fost adapost {composer: {Florin Pal, Fratii Strugariu}, {rcId: {202422}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

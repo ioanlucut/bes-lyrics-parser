@@ -1,5 +1,5 @@
 [title]
-Stapaneste-ma isuse {author: {Nicolae Moldoveanu}, {rcId: {192914}}
+Stapaneste-ma isuse {composer: {Nicolae Moldoveanu}, {rcId: {192914}}
 
 [sequence]
 v1,c,v2,c,v3,c

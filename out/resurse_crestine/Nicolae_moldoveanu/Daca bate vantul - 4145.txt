@@ -1,5 +1,5 @@
 [title]
-Daca bate vantul {author: {Nicolae Moldoveanu}, {rcId: {4145}}
+Daca bate vantul {composer: {Nicolae Moldoveanu}, {rcId: {4145}}
 
 [sequence]
 v1,v2,v3,v4

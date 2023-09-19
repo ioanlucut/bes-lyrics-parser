@@ -1,5 +1,5 @@
 [title]
-De partea mea {author: {Muzica: Alin Timofte   Versuri: Alin Craciunean}, {rcId: {211435}}
+De partea mea {composer: {Muzica: Alin Timofte   Versuri: Alin Craciunean}, {rcId: {211435}}
 
 [sequence]
 v1,c,v2,c,e

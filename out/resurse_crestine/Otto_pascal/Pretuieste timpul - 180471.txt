@@ -1,5 +1,5 @@
 [title]
-Pretuieste timpul {author: {Otto Pascal}, {rcId: {180471}}
+Pretuieste timpul {composer: {Otto Pascal}, {rcId: {180471}}
 
 [sequence]
 v1,c,v2,c,e,c

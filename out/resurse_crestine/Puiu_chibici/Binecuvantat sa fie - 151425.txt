@@ -1,5 +1,5 @@
 [title]
-Binecuvantat sa fie {author: {Puiu Chibici}, {rcId: {151425}}
+Binecuvantat sa fie {composer: {Puiu Chibici}, {rcId: {151425}}
 
 [sequence]
 v1,c,v2,c,v3,c

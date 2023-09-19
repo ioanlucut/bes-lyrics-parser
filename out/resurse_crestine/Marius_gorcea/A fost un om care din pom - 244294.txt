@@ -1,5 +1,5 @@
 [title]
-A fost un om care din pom {author: {Marius Gorcea}, {rcId: {244294}}
+A fost un om care din pom {composer: {Marius Gorcea}, {rcId: {244294}}
 
 [sequence]
 v1,c,v2,c

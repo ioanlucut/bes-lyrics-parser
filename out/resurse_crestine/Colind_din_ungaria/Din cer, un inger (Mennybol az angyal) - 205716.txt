@@ -1,5 +1,5 @@
 [title]
-Din cer un inger (mennyb"ol az angyal) {author: {Colind din Ungaria, Traducere RO}, {rcId: {205716}}
+Din cer un inger (mennyb"ol az angyal) {composer: {Colind din Ungaria, Traducere RO}, {rcId: {205716}}
 
 [sequence]
 v1,v2,v3

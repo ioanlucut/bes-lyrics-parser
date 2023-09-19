@@ -1,5 +1,5 @@
 [title]
-Ai cautat in lume-aceasta ai umblat in lung si-n lat {author: {Fratii Pal}, {rcId: {233769}}
+Ai cautat in lume-aceasta ai umblat in lung si-n lat {composer: {Fratii Pal}, {rcId: {233769}}
 
 [sequence]
 v1,c,v2,c,v3,c

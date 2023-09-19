@@ -1,5 +1,5 @@
 [title]
-Oricat in viata ai gresit (fii cu isus) {author: {Messis}, {rcId: {114823}}
+Oricat in viata ai gresit (fii cu isus) {composer: {Messis}, {rcId: {114823}}
 
 [sequence]
 v1,c,v2,c,v3,c

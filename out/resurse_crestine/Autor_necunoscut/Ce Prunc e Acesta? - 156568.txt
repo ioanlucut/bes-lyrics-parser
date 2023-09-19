@@ -1,5 +1,5 @@
 [title]
-Ce prunc e acesta? {author: {Anonim}, {rcId: {156568}}
+Ce prunc e acesta? {composer: {Anonim}, {rcId: {156568}}
 
 [sequence]
 v1,c,v2,c,v3,c

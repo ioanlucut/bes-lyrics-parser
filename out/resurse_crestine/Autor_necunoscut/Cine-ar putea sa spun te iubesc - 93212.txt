@@ -1,5 +1,5 @@
 [title]
-Cine-ar putea sa spun te iubesc {author: {Anonim}, {rcId: {93212}}
+Cine-ar putea sa spun te iubesc {composer: {Anonim}, {rcId: {93212}}
 
 [sequence]
 v1,c,v2,c,v3,c

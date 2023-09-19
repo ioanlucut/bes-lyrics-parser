@@ -1,5 +1,5 @@
 [title]
-Azi noi venim {author: {Familia Mihai}, {rcId: {240633}}
+Azi noi venim {composer: {Familia Mihai}, {rcId: {240633}}
 
 [sequence]
 v1,c,v2,b,c

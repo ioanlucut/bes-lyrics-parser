@@ -1,5 +1,5 @@
 [title]
-Cu tine ma laud mereu cu tine isuse {author: {Nicolae Moldoveanu}, {rcId: {3111}}
+Cu tine ma laud mereu cu tine isuse {composer: {Nicolae Moldoveanu}, {rcId: {3111}}
 
 [sequence]
 v1,v2,v3,v4

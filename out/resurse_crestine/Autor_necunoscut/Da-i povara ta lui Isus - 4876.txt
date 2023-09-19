@@ -1,5 +1,5 @@
 [title]
-Da-i povara ta lui isus {author: {Anonim}, {rcId: {4876}}
+Da-i povara ta lui isus {composer: {Anonim}, {rcId: {4876}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

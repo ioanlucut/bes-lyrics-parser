@@ -1,5 +1,5 @@
 [title]
-Isus m-a rascumparat {author: {Anonim}, {rcId: {62665}}
+Isus m-a rascumparat {composer: {Anonim}, {rcId: {62665}}
 
 [sequence]
 v1,c,e

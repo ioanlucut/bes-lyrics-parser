@@ -1,5 +1,5 @@
 [title]
-Tu esti mare doamne {author: {Anonim}, {rcId: {238314}}
+Tu esti mare doamne {composer: {Anonim}, {rcId: {238314}}
 
 [sequence]
 v1,c

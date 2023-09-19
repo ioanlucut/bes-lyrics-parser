@@ -1,5 +1,5 @@
 [title]
-Doamne tu m-ai facut din tarana {author: {Autor necunoscut}, {rcId: {227370}}
+Doamne tu m-ai facut din tarana {composer: {Autor necunoscut}, {rcId: {227370}}
 
 [sequence]
 v1,v2,v3,v4

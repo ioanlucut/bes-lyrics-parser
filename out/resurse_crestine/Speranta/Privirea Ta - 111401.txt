@@ -1,5 +1,5 @@
 [title]
-Privirea ta {author: {Speranța}, {rcId: {111401}}
+Privirea ta {composer: {Speranța}, {rcId: {111401}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Doresc sa cant un cantec {author: {Necunoscut}, {rcId: {215490}}
+Doresc sa cant un cantec {composer: {Necunoscut}, {rcId: {215490}}
 
 [sequence]
 v1,c,v2,c,v3,c

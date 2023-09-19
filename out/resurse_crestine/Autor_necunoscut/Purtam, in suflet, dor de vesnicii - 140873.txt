@@ -1,5 +1,5 @@
 [title]
-Purtam in suflet dor de vesnicii {author: {Anonim}, {rcId: {140873}}
+Purtam in suflet dor de vesnicii {composer: {Anonim}, {rcId: {140873}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

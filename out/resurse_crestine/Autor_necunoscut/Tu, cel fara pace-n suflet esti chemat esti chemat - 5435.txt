@@ -1,5 +1,5 @@
 [title]
-Tu cel fara pace-n suflet esti chemat esti chemat {author: {Anonim}, {rcId: {5435}}
+Tu cel fara pace-n suflet esti chemat esti chemat {composer: {Anonim}, {rcId: {5435}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c2,v5,c2,v6,c3

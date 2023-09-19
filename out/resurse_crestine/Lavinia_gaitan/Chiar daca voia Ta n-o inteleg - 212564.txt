@@ -1,5 +1,5 @@
 [title]
-Chiar daca voia ta n-o inteleg {author: {Lavinia Găitan}, {rcId: {212564}}
+Chiar daca voia ta n-o inteleg {composer: {Lavinia Găitan}, {rcId: {212564}}
 
 [sequence]
 v1,c,v2,c,v3,c

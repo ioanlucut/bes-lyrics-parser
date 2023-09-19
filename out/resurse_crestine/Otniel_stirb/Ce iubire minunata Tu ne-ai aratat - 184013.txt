@@ -1,5 +1,5 @@
 [title]
-Ce iubire minunata tu ne-ai aratat {author: {Otniel Stirb}, {rcId: {184013}}
+Ce iubire minunata tu ne-ai aratat {composer: {Otniel Stirb}, {rcId: {184013}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Udat e drumul ce duce la cristos {author: {Florin Pal}, {rcId: {5789}}
+Udat e drumul ce duce la cristos {composer: {Florin Pal}, {rcId: {5789}}
 
 [sequence]
 v1,c,v2,c,v3,c

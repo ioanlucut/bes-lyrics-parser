@@ -1,5 +1,5 @@
 [title]
-Sunt fericit sunt fericit {author: {Anonim}, {rcId: {62584}}
+Sunt fericit sunt fericit {composer: {Anonim}, {rcId: {62584}}
 
 [sequence]
 c

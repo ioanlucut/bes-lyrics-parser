@@ -1,5 +1,5 @@
 [title]
-Doamne-ti multumesc (thank god for the promise of spring) {author: {William J. Gaither, Traducere RO}, {rcId: {98049}}
+Doamne-ti multumesc (thank god for the promise of spring) {composer: {William J. Gaither, Traducere RO}, {rcId: {98049}}
 
 [sequence]
 v1,c,v2,c,s,c

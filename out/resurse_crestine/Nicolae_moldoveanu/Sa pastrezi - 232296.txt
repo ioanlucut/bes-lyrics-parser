@@ -1,5 +1,5 @@
 [title]
-Sa pastrezi {author: {Nicolae Moldoveanu}, {rcId: {232296}}
+Sa pastrezi {composer: {Nicolae Moldoveanu}, {rcId: {232296}}
 
 [sequence]
 c,v2,c2,v3,c3,v4,c4

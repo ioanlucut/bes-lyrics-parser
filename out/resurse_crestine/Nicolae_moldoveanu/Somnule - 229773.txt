@@ -1,5 +1,5 @@
 [title]
-Somnule {author: {Nicolae Moldoveanu}, {rcId: {229773}}
+Somnule {composer: {Nicolae Moldoveanu}, {rcId: {229773}}
 
 [sequence]
 v1,v2,v3,v4

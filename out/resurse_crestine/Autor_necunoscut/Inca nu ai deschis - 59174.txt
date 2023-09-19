@@ -1,5 +1,5 @@
 [title]
-Inca nu ai deschis {author: {Anonim}, {rcId: {59174}}
+Inca nu ai deschis {composer: {Anonim}, {rcId: {59174}}
 
 [sequence]
 v1

@@ -1,5 +1,5 @@
 [title]
-O tu mai ai putere rabda {author: {Necunoscut}, {rcId: {192402}}
+O tu mai ai putere rabda {composer: {Necunoscut}, {rcId: {192402}}
 
 [sequence]
 v1,v2,v3,v4,v5

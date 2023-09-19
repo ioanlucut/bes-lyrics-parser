@@ -1,5 +1,5 @@
 [title]
-Vin azi inaintea ta {author: {Grupul Omega}, {rcId: {239455}}
+Vin azi inaintea ta {composer: {Grupul Omega}, {rcId: {239455}}
 
 [sequence]
 v1,b,c,v2,c

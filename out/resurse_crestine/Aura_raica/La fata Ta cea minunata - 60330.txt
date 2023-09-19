@@ -1,5 +1,5 @@
 [title]
-La fata ta cea minunata {author: {Aura Raica}, {rcId: {60330}}
+La fata ta cea minunata {composer: {Aura Raica}, {rcId: {60330}}
 
 [sequence]
 v1,v2,v3,v4

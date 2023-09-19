@@ -1,5 +1,5 @@
 [title]
-Faptura noua {author: {Grup Părtășia}, {rcId: {165141}}
+Faptura noua {composer: {Grup Părtășia}, {rcId: {165141}}
 
 [sequence]
 v1,c,v2,c,v3,c

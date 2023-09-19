@@ -1,5 +1,5 @@
 [title]
-Isus e viu isus e viu {author: {Leleu Niculae}, {rcId: {75263}}
+Isus e viu isus e viu {composer: {Leleu Niculae}, {rcId: {75263}}
 
 [sequence]
 v1,c,v2,c

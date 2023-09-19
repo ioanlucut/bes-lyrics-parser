@@ -1,5 +1,5 @@
 [title]
-Eu am fost altoit {author: {Ilie Belciu}, {rcId: {6649}}
+Eu am fost altoit {composer: {Ilie Belciu}, {rcId: {6649}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

@@ -1,5 +1,5 @@
 [title]
-Doar el mi-a ramas aproape {author: {Denys Laurenciuc}, {rcId: {202712}}
+Doar el mi-a ramas aproape {composer: {Denys Laurenciuc}, {rcId: {202712}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Fara tine viata nu e viata {author: {Anonim}, {rcId: {74558}}
+Fara tine viata nu e viata {composer: {Anonim}, {rcId: {74558}}
 
 [sequence]
 v1,c,v2,c

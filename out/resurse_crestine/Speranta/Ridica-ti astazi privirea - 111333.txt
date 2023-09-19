@@ -1,5 +1,5 @@
 [title]
-Ridica-ti astazi privirea {author: {Speranța}, {rcId: {111333}}
+Ridica-ti astazi privirea {composer: {Speranța}, {rcId: {111333}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

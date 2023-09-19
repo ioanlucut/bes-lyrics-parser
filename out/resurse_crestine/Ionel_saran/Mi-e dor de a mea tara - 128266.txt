@@ -1,5 +1,5 @@
 [title]
-Mi-e dor de a mea tara {author: {Ionel Saran}, {rcId: {128266}}
+Mi-e dor de a mea tara {composer: {Ionel Saran}, {rcId: {128266}}
 
 [sequence]
 v1,c,v2,c,v3,c

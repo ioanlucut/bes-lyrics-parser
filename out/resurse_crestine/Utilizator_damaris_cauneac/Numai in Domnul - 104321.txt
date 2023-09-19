@@ -1,5 +1,5 @@
 [title]
-Numai in domnul {author: {Utilizator Damaris Cauneac}, {rcId: {104321}}
+Numai in domnul {composer: {Utilizator Damaris Cauneac}, {rcId: {104321}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,e

@@ -1,5 +1,5 @@
 [title]
-Before you call (isaiah : :) {author: {Autor necunoscut.}, {rcId: {168600}}
+Before you call (isaiah : :) {composer: {Autor necunoscut.}, {rcId: {168600}}
 
 [sequence]
 v1,c,e

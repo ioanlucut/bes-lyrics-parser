@@ -1,5 +1,5 @@
 [title]
-Dragul meu prieten {author: {Speranța}, {rcId: {101899}}
+Dragul meu prieten {composer: {Speranța}, {rcId: {101899}}
 
 [sequence]
 v1,v2,v3,v4,v5,c

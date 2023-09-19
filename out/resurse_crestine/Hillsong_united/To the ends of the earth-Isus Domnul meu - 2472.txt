@@ -1,5 +1,5 @@
 [title]
-To the ends of the earth-isus domnul meu {author: {Hillsong United, Traducere RO}, {rcId: {2472}}
+To the ends of the earth-isus domnul meu {composer: {Hillsong United, Traducere RO}, {rcId: {2472}}
 
 [sequence]
 v1,b,c

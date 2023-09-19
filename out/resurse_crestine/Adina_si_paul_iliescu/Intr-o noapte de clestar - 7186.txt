@@ -1,5 +1,5 @@
 [title]
-Intr-o noapte de clestar {author: {Adina și Paul Iliescu}, {rcId: {7186}}
+Intr-o noapte de clestar {composer: {Adina și Paul Iliescu}, {rcId: {7186}}
 
 [sequence]
 v1,c,v2,c2,e

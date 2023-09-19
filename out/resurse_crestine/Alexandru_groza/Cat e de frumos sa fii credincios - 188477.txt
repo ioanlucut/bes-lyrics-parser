@@ -1,5 +1,5 @@
 [title]
-Cat e de frumos sa fii credincios {author: {Alexandru Groza}, {rcId: {188477}}
+Cat e de frumos sa fii credincios {composer: {Alexandru Groza}, {rcId: {188477}}
 
 [sequence]
 v1,c,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Eram copil cand m-ai chemat {author: {Radu Cioban}, {rcId: {3874}}
+Eram copil cand m-ai chemat {composer: {Radu Cioban}, {rcId: {3874}}
 
 [sequence]
 v1,v2,v3,v4,v5

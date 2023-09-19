@@ -1,5 +1,5 @@
 [title]
-Ce poate sa-mi faca mie omul? {author: {Lidia Gheorghe}, {rcId: {146279}}
+Ce poate sa-mi faca mie omul? {composer: {Lidia Gheorghe}, {rcId: {146279}}
 
 [sequence]
 v1,c,v2,c,v3,c

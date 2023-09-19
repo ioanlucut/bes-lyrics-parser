@@ -1,5 +1,5 @@
 [title]
-E ziua mantuirii {author: {Nicu Wagner}, {rcId: {61647}}
+E ziua mantuirii {composer: {Nicu Wagner}, {rcId: {61647}}
 
 [sequence]
 v1,c,v2,c,v3,c

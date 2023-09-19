@@ -1,5 +1,5 @@
 [title]
-Tara mea te doreste inima mea {author: {Anonim}, {rcId: {74444}}
+Tara mea te doreste inima mea {composer: {Anonim}, {rcId: {74444}}
 
 [sequence]
 v1,v2,v3

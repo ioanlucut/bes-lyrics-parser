@@ -1,5 +1,5 @@
 [title]
-Sa port pretutindeni isuse {author: {Anonim}, {rcId: {4560}}
+Sa port pretutindeni isuse {composer: {Anonim}, {rcId: {4560}}
 
 [sequence]
 v1,v2,v3,v4,v5

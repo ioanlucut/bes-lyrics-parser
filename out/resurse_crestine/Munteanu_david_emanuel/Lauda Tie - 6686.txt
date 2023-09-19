@@ -1,5 +1,5 @@
 [title]
-Lauda tie {author: {Munteanu David Emanuel}, {rcId: {6686}}
+Lauda tie {composer: {Munteanu David Emanuel}, {rcId: {6686}}
 
 [sequence]
 v1,c,v2,c

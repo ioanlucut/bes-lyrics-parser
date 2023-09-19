@@ -1,5 +1,5 @@
 [title]
-Mama mama dulce mama (il iubesc pe domnul care) {author: {Anonim}, {rcId: {239757}}
+Mama mama dulce mama (il iubesc pe domnul care) {composer: {Anonim}, {rcId: {239757}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

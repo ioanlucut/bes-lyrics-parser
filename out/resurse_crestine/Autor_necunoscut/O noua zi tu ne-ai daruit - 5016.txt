@@ -1,5 +1,5 @@
 [title]
-O noua zi tu ne-ai daruit {author: {Anonim}, {rcId: {5016}}
+O noua zi tu ne-ai daruit {composer: {Anonim}, {rcId: {5016}}
 
 [sequence]
 v1,c

@@ -1,5 +1,5 @@
 [title]
-Aprinde-mi dragostea {author: {Anonim}, {rcId: {235232}}
+Aprinde-mi dragostea {composer: {Anonim}, {rcId: {235232}}
 
 [sequence]
 v1,c,v3,c

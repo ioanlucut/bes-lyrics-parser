@@ -1,5 +1,5 @@
 [title]
-Mare este domnul nostru {author: {Anonim}, {rcId: {62694}}
+Mare este domnul nostru {composer: {Anonim}, {rcId: {62694}}
 
 [sequence]
 v2,b,c,v2,c

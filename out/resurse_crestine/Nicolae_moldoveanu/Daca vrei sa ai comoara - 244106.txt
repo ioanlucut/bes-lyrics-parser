@@ -1,5 +1,5 @@
 [title]
-Daca vrei sa ai comoara {author: {Nicolae Moldoveanu}, {rcId: {244106}}
+Daca vrei sa ai comoara {composer: {Nicolae Moldoveanu}, {rcId: {244106}}
 
 [sequence]
 v1,v2,v3

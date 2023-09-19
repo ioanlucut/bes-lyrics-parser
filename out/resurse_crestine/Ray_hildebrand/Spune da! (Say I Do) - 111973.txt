@@ -1,5 +1,5 @@
 [title]
-Spune da (say i do) {author: {Ray Hildebrand, Traducere RO}, {rcId: {111973}}
+Spune da (say i do) {composer: {Ray Hildebrand, Traducere RO}, {rcId: {111973}}
 
 [sequence]
 v1,c,v2,c,s,c

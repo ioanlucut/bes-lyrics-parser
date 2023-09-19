@@ -1,5 +1,5 @@
 [title]
-In your freedom {author: {Hillsong, Traducere RO}, {rcId: {66574}}
+In your freedom {composer: {Hillsong, Traducere RO}, {rcId: {66574}}
 
 [sequence]
 v1,b,c,v2,c,e

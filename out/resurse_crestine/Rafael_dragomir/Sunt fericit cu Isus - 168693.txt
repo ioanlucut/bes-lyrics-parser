@@ -1,5 +1,5 @@
 [title]
-Sunt fericit cu isus {author: {Rafael Dragomir}, {rcId: {168693}}
+Sunt fericit cu isus {composer: {Rafael Dragomir}, {rcId: {168693}}
 
 [sequence]
 v1,c,v2,c,e

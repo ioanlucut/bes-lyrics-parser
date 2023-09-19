@@ -1,5 +1,5 @@
 [title]
-O prunc preasfant {author: {Estela C. Manea}, {rcId: {4004}}
+O prunc preasfant {composer: {Estela C. Manea}, {rcId: {4004}}
 
 [sequence]
 v1,v2,v3

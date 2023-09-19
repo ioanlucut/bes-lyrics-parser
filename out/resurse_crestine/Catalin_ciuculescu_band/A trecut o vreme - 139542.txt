@@ -1,5 +1,5 @@
 [title]
-A trecut o vreme {author: {Cătălin Ciuculescu Band}, {rcId: {139542}}
+A trecut o vreme {composer: {Cătălin Ciuculescu Band}, {rcId: {139542}}
 
 [sequence]
 v1,v2,v3

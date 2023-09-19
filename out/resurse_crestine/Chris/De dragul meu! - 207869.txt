@@ -1,5 +1,5 @@
 [title]
-De dragul meu {author: {Chris}, {rcId: {207869}}
+De dragul meu {composer: {Chris}, {rcId: {207869}}
 
 [sequence]
 s,e,s2,b

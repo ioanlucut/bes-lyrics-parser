@@ -1,5 +1,5 @@
 [title]
-Doamne credinta mea {author: {Lowell Mason}, {rcId: {1798}}
+Doamne credinta mea {composer: {Lowell Mason}, {rcId: {1798}}
 
 [sequence]
 v1,v2,v3,v4

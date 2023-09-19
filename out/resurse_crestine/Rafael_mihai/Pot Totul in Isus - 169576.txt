@@ -1,5 +1,5 @@
 [title]
-Pot totul in isus {author: {Rafael Mihai}, {rcId: {169576}}
+Pot totul in isus {composer: {Rafael Mihai}, {rcId: {169576}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-In cerescul ierusalim {author: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {112910}}
+In cerescul ierusalim {composer: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {112910}}
 
 [sequence]
 v1,v2,v3

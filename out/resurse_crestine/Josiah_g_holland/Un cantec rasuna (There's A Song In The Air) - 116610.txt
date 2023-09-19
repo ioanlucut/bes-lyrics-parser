@@ -1,5 +1,5 @@
 [title]
-Un cantec rasuna (there s a song in the air) {author: {Josiah G. Holland, Traducere RO}, {rcId: {116610}}
+Un cantec rasuna (there s a song in the air) {composer: {Josiah G. Holland, Traducere RO}, {rcId: {116610}}
 
 [sequence]
 v1,v2,v3,v4

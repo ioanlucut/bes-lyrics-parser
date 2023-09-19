@@ -1,5 +1,5 @@
 [title]
-Cand te afli in valuri grele {author: {Anonim}, {rcId: {96012}}
+Cand te afli in valuri grele {composer: {Anonim}, {rcId: {96012}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

@@ -1,5 +1,5 @@
 [title]
-Veniti la izvor {author: {Sanja Cristea Tiberian}, {rcId: {112311}}
+Veniti la izvor {composer: {Sanja Cristea Tiberian}, {rcId: {112311}}
 
 [sequence]
 v1,v2,v3,v4,c

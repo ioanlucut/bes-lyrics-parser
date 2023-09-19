@@ -1,5 +1,5 @@
 [title]
-Da-i lauda lui e domn si imparat {author: {Anonim}, {rcId: {113266}}
+Da-i lauda lui e domn si imparat {composer: {Anonim}, {rcId: {113266}}
 
 [sequence]
 v1,v2,c,v3,c

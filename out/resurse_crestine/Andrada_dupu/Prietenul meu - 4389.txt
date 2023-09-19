@@ -1,5 +1,5 @@
 [title]
-Prietenul meu {author: {Andrada Dupu}, {rcId: {4389}}
+Prietenul meu {composer: {Andrada Dupu}, {rcId: {4389}}
 
 [sequence]
 v1,c,v2,c,e

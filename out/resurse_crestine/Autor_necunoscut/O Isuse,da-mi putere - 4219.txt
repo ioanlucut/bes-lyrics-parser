@@ -1,5 +1,5 @@
 [title]
-O isuseda-mi putere {author: {Anonim}, {rcId: {4219}}
+O isuseda-mi putere {composer: {Anonim}, {rcId: {4219}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Cerul e un loc minunat (heaven is a wonderful place) {author: {O. A. Lambert, Traducere RO}, {rcId: {128351}}
+Cerul e un loc minunat (heaven is a wonderful place) {composer: {O. A. Lambert, Traducere RO}, {rcId: {128351}}
 
 [sequence]
 v1,v2,v3,s

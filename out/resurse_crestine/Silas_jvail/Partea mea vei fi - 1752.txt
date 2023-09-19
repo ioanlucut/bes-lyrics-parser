@@ -1,5 +1,5 @@
 [title]
-Partea mea vei fi {author: {Silas J.Vail}, {rcId: {1752}}
+Partea mea vei fi {composer: {Silas J.Vail}, {rcId: {1752}}
 
 [sequence]
 v1,v2,v3

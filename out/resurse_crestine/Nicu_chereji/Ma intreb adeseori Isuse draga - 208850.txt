@@ -1,5 +1,5 @@
 [title]
-Ma intreb adeseori isuse draga {author: {Nicu Chereji}, {rcId: {208850}}
+Ma intreb adeseori isuse draga {composer: {Nicu Chereji}, {rcId: {208850}}
 
 [sequence]
 v1,c,v2,c,v3,c

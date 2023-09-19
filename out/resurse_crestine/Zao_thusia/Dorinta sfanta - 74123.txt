@@ -1,5 +1,5 @@
 [title]
-Dorinta sfanta {author: {Zao Thusia}, {rcId: {74123}}
+Dorinta sfanta {composer: {Zao Thusia}, {rcId: {74123}}
 
 [sequence]
 v1,c,e

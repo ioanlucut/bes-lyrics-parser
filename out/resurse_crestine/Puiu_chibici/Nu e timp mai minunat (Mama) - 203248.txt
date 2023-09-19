@@ -1,5 +1,5 @@
 [title]
-Nu e timp mai minunat (mama) {author: {Puiu Chibici}, {rcId: {203248}}
+Nu e timp mai minunat (mama) {composer: {Puiu Chibici}, {rcId: {203248}}
 
 [sequence]
 v1,c,v2,c,v3,c,s,c

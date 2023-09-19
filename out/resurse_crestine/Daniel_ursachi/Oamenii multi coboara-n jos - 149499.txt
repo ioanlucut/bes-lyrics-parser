@@ -1,5 +1,5 @@
 [title]
-Oamenii multi coboara-n jos {author: {Daniel Ursachi}, {rcId: {149499}}
+Oamenii multi coboara-n jos {composer: {Daniel Ursachi}, {rcId: {149499}}
 
 [sequence]
 v1,v2,v3,v4,v5

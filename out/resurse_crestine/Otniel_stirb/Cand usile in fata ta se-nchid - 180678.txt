@@ -1,5 +1,5 @@
 [title]
-Cand usile in fata ta se-nchid {author: {Otniel Stirb}, {rcId: {180678}}
+Cand usile in fata ta se-nchid {composer: {Otniel Stirb}, {rcId: {180678}}
 
 [sequence]
 v1,v2,v3,v4,v5

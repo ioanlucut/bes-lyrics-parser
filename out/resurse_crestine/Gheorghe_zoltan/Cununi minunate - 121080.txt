@@ -1,5 +1,5 @@
 [title]
-Cununi minunate {author: {Gheorghe Zoltan}, {rcId: {121080}}
+Cununi minunate {composer: {Gheorghe Zoltan}, {rcId: {121080}}
 
 [sequence]
 v1,c,v2,c,v3,c

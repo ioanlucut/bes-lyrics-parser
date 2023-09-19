@@ -1,5 +1,5 @@
 [title]
-Parasit de oameni {author: {Valeria Iorga}, {rcId: {166667}}
+Parasit de oameni {composer: {Valeria Iorga}, {rcId: {166667}}
 
 [sequence]
 v1,c,v1,c

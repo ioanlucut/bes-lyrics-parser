@@ -1,5 +1,5 @@
 [title]
-Te voi-nalta - you will be praised {author: {Darlene Zschech}, {rcId: {165743}}
+Te voi-nalta - you will be praised {composer: {Darlene Zschech}, {rcId: {165743}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c,c

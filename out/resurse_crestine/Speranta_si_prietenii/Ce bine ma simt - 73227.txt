@@ -1,5 +1,5 @@
 [title]
-Ce bine ma simt {author: {Speranța și prietenii}, {rcId: {73227}}
+Ce bine ma simt {composer: {Speranța și prietenii}, {rcId: {73227}}
 
 [sequence]
 v1,c,v2,c,v3,c

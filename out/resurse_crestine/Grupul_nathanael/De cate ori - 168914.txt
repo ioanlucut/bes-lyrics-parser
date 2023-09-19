@@ -1,5 +1,5 @@
 [title]
-De cate ori {author: {Grupul Nathanael}, {rcId: {168914}}
+De cate ori {composer: {Grupul Nathanael}, {rcId: {168914}}
 
 [sequence]
 v1,v2,v3

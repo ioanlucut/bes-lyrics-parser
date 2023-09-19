@@ -1,5 +1,5 @@
 [title]
-Doamne daca nu ai fi tu {author: {Anonim}, {rcId: {2835}}
+Doamne daca nu ai fi tu {composer: {Anonim}, {rcId: {2835}}
 
 [sequence]
 v1,v2

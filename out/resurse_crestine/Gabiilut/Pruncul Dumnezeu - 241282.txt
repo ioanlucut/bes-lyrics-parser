@@ -1,5 +1,5 @@
 [title]
-Pruncul dumnezeu {author: {Gabi_Ilut}, {rcId: {241282}}
+Pruncul dumnezeu {composer: {Gabi_Ilut}, {rcId: {241282}}
 
 [sequence]
 v1,c,v2,c

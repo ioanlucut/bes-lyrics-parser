@@ -1,5 +1,5 @@
 [title]
-Kadosh kadosh {author: {Anonim}, {rcId: {231284}}
+Kadosh kadosh {composer: {Anonim}, {rcId: {231284}}
 
 [sequence]
 b,c,b2,c,e

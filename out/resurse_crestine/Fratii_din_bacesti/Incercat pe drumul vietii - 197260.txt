@@ -1,5 +1,5 @@
 [title]
-Incercat pe drumul vietii {author: {Fratii din Bacesti}, {rcId: {197260}}
+Incercat pe drumul vietii {composer: {Fratii din Bacesti}, {rcId: {197260}}
 
 [sequence]
 v1,c,v2,c,v3,c

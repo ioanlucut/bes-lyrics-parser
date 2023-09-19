@@ -1,5 +1,5 @@
 [title]
-Dumnezeul meu {author: {Speranța}, {rcId: {101875}}
+Dumnezeul meu {composer: {Speranța}, {rcId: {101875}}
 
 [sequence]
 v1,c,v2,c,v3,c

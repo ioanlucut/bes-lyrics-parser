@@ -1,5 +1,5 @@
 [title]
-Vesnic in mana ta {author: {Alin si Florina Jivan, Alex Tascu}, {rcId: {77573}}
+Vesnic in mana ta {composer: {Alin si Florina Jivan, Alex Tascu}, {rcId: {77573}}
 
 [sequence]
 v1,c,v2,c2,e

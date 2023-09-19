@@ -1,5 +1,5 @@
 [title]
-Aproape de mine {author: {Continental}, {rcId: {161199}}
+Aproape de mine {composer: {Continental}, {rcId: {161199}}
 
 [sequence]
 v1,c,v2,c,e

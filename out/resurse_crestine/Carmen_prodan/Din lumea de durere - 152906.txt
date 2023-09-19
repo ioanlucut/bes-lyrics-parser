@@ -1,5 +1,5 @@
 [title]
-Din lumea de durere {author: {Carmen Prodan}, {rcId: {152906}}
+Din lumea de durere {composer: {Carmen Prodan}, {rcId: {152906}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

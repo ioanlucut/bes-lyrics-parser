@@ -1,5 +1,5 @@
 [title]
-Vino foc divin {author: {Anonim}, {rcId: {4312}}
+Vino foc divin {composer: {Anonim}, {rcId: {4312}}
 
 [sequence]
 v1,c,v2,c

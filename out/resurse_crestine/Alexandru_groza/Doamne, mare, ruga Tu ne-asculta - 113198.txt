@@ -1,5 +1,5 @@
 [title]
-Doamne mare ruga tu ne-asculta {author: {Alexandru Groza}, {rcId: {113198}}
+Doamne mare ruga tu ne-asculta {composer: {Alexandru Groza}, {rcId: {113198}}
 
 [sequence]
 v1,v2,v3

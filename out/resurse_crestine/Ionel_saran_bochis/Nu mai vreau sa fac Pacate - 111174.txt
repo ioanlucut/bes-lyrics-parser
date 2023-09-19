@@ -1,5 +1,5 @@
 [title]
-Nu mai vreau sa fac pacate {author: {Ionel Saran Bochis}, {rcId: {111174}}
+Nu mai vreau sa fac pacate {composer: {Ionel Saran Bochis}, {rcId: {111174}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Pe campiile-nsorite {author: {Nicolae Moldoveanu}, {rcId: {244472}}
+Pe campiile-nsorite {composer: {Nicolae Moldoveanu}, {rcId: {244472}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Cat te iubesc {author: {Text: Emilia Toader, Muzica: Adrian Toader}, {rcId: {199162}}
+Cat te iubesc {composer: {Text: Emilia Toader, Muzica: Adrian Toader}, {rcId: {199162}}
 
 [sequence]
 v1,c,v2,c

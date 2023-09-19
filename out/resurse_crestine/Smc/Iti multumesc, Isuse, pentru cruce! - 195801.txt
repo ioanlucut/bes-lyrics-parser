@@ -1,5 +1,5 @@
 [title]
-Iti multumesc isuse pentru cruce {author: {S.M.C}, {rcId: {195801}}
+Iti multumesc isuse pentru cruce {composer: {S.M.C}, {rcId: {195801}}
 
 [sequence]
 c,v1,c

@@ -1,5 +1,5 @@
 [title]
-Albina {author: {Nicolae Moldoveanu}, {rcId: {235745}}
+Albina {composer: {Nicolae Moldoveanu}, {rcId: {235745}}
 
 [sequence]
 v1,v2,v3

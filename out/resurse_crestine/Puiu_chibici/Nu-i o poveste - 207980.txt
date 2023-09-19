@@ -1,5 +1,5 @@
 [title]
-Nu-i o poveste {author: {Puiu Chibici}, {rcId: {207980}}
+Nu-i o poveste {composer: {Puiu Chibici}, {rcId: {207980}}
 
 [sequence]
 v1,c,v2,c,v3,c

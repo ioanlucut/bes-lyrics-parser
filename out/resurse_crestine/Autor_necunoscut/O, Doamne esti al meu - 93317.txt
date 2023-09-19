@@ -1,5 +1,5 @@
 [title]
-O doamne esti al meu {author: {Anonim}, {rcId: {93317}}
+O doamne esti al meu {composer: {Anonim}, {rcId: {93317}}
 
 [sequence]
 v1

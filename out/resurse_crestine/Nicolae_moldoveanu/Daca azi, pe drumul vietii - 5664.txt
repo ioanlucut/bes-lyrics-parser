@@ -1,5 +1,5 @@
 [title]
-Daca azi pe drumul vietii {author: {Nicolae Moldoveanu}, {rcId: {5664}}
+Daca azi pe drumul vietii {composer: {Nicolae Moldoveanu}, {rcId: {5664}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4,v5,c5,v6,c6

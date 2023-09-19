@@ -1,5 +1,5 @@
 [title]
-Isus hristos e domnul {author: {Anonim}, {rcId: {215863}}
+Isus hristos e domnul {composer: {Anonim}, {rcId: {215863}}
 
 [sequence]
 v1,c,v2,c,v3,c

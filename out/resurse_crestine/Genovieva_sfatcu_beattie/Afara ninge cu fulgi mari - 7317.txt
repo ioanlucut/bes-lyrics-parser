@@ -1,5 +1,5 @@
 [title]
-Afara ninge cu fulgi mari {author: {Genovieva Sfatcu, Beattie}, {rcId: {7317}}
+Afara ninge cu fulgi mari {composer: {Genovieva Sfatcu, Beattie}, {rcId: {7317}}
 
 [sequence]
 v1,c,v2,c

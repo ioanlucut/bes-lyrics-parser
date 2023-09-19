@@ -1,5 +1,5 @@
 [title]
-Vino la isus nu-ntarzia {author: {George F.Root}, {rcId: {4781}}
+Vino la isus nu-ntarzia {composer: {George F.Root}, {rcId: {4781}}
 
 [sequence]
 v1,c,v2,c,v3,c

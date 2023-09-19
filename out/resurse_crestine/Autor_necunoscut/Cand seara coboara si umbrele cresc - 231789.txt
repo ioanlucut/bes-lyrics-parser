@@ -1,5 +1,5 @@
 [title]
-Cand seara coboara si umbrele cresc {author: {Anonim}, {rcId: {231789}}
+Cand seara coboara si umbrele cresc {composer: {Anonim}, {rcId: {231789}}
 
 [sequence]
 v1,v2,v3,v4

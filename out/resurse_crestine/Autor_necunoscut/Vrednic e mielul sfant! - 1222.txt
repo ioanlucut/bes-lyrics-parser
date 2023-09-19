@@ -1,5 +1,5 @@
 [title]
-Vrednic e mielul sfant {author: {Anonim}, {rcId: {1222}}
+Vrednic e mielul sfant {composer: {Anonim}, {rcId: {1222}}
 
 [sequence]
 v1,v2,v3,v4

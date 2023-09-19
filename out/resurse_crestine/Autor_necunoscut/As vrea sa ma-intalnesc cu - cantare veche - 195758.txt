@@ -1,5 +1,5 @@
 [title]
-As vrea sa ma-intalnesc cu - cantare veche {author: {Album necunoscut}, {rcId: {195758}}
+As vrea sa ma-intalnesc cu - cantare veche {composer: {Album necunoscut}, {rcId: {195758}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-De-as avea averi si ranguri {author: {Anonim}, {rcId: {161214}}
+De-as avea averi si ranguri {composer: {Anonim}, {rcId: {161214}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,c4

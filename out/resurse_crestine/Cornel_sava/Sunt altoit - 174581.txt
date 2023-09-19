@@ -1,5 +1,5 @@
 [title]
-Sunt altoit {author: {Cornel Sava}, {rcId: {174581}}
+Sunt altoit {composer: {Cornel Sava}, {rcId: {174581}}
 
 [sequence]
 v1,c,v2,c,v3,c

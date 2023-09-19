@@ -1,5 +1,5 @@
 [title]
-Glorie celui preainalt {author: {Denisa Birle}, {rcId: {210455}}
+Glorie celui preainalt {composer: {Denisa Birle}, {rcId: {210455}}
 
 [sequence]
 v1,c,v2,c,e

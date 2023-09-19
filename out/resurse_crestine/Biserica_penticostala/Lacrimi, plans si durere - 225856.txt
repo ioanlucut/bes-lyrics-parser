@@ -1,5 +1,5 @@
 [title]
-Lacrimi plans si durere {author: {Biserica Penticostala}, {rcId: {225856}}
+Lacrimi plans si durere {composer: {Biserica Penticostala}, {rcId: {225856}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

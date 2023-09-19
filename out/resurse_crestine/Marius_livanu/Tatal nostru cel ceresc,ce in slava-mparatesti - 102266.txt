@@ -1,5 +1,5 @@
 [title]
-Tatal nostru cel cerescce in slava-mparatesti {author: {Marius Livanu}, {rcId: {102266}}
+Tatal nostru cel cerescce in slava-mparatesti {composer: {Marius Livanu}, {rcId: {102266}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

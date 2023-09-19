@@ -1,5 +1,5 @@
 [title]
-Ne vom intalni odata {author: {Sanja Cristea Tiberian}, {rcId: {90407}}
+Ne vom intalni odata {composer: {Sanja Cristea Tiberian}, {rcId: {90407}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c

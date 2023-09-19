@@ -1,5 +1,5 @@
 [title]
-Ce probleme mari se pun astazi in viata {author: {Nicolae Moldoveanu}, {rcId: {5806}}
+Ce probleme mari se pun astazi in viata {composer: {Nicolae Moldoveanu}, {rcId: {5806}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,c4

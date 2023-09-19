@@ -1,5 +1,5 @@
 [title]
-Isuse credinta cea sfanta {author: {Nicolae Moldoveanu}, {rcId: {240940}}
+Isuse credinta cea sfanta {composer: {Nicolae Moldoveanu}, {rcId: {240940}}
 
 [sequence]
 v1,v2,v3,v4

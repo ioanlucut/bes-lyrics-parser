@@ -1,5 +1,5 @@
 [title]
-Increde-te in domnul dumnezeu {author: {Speranța}, {rcId: {102650}}
+Increde-te in domnul dumnezeu {composer: {Speranța}, {rcId: {102650}}
 
 [sequence]
 v1,c,v2,b,c

@@ -1,5 +1,5 @@
 [title]
-Desteapta-te romane - imnul national al romaniei {author: {Andrei Mureșanu}, {rcId: {4884}}
+Desteapta-te romane - imnul national al romaniei {composer: {Andrei Mureșanu}, {rcId: {4884}}
 
 [sequence]
 v1,v2,v3,v4

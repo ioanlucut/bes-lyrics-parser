@@ -1,5 +1,5 @@
 [title]
-O noua zi {author: {Rahela Goagără}, {rcId: {151842}}
+O noua zi {composer: {Rahela Goagără}, {rcId: {151842}}
 
 [sequence]
 c,v1,c,v2,c,e

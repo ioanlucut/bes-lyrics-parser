@@ -1,5 +1,5 @@
 [title]
-Cat pretuieste ? {author: {Nicolae Moldoveanu}, {rcId: {244150}}
+Cat pretuieste ? {composer: {Nicolae Moldoveanu}, {rcId: {244150}}
 
 [sequence]
 v1,v2,v3,v4

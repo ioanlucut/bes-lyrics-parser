@@ -1,5 +1,5 @@
 [title]
-Pe cand umbla isus prin galileea {author: {Nicolae Moldoveanu}, {rcId: {5869}}
+Pe cand umbla isus prin galileea {composer: {Nicolae Moldoveanu}, {rcId: {5869}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

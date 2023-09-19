@@ -1,5 +1,5 @@
 [title]
-Mi-e sufletul mahnit si plang {author: {Anonim}, {rcId: {201495}}
+Mi-e sufletul mahnit si plang {composer: {Anonim}, {rcId: {201495}}
 
 [sequence]
 v1,v2,v3,v4

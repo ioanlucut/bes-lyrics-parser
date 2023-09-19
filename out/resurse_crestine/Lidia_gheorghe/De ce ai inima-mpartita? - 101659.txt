@@ -1,5 +1,5 @@
 [title]
-De ce ai inima-mpartita? {author: {Lidia Gheorghe}, {rcId: {101659}}
+De ce ai inima-mpartita? {composer: {Lidia Gheorghe}, {rcId: {101659}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8

@@ -1,5 +1,5 @@
 [title]
-Imi va ramane-n memorie-o zi (glorii din cer) {author: {Anonim}, {rcId: {3603}}
+Imi va ramane-n memorie-o zi (glorii din cer) {composer: {Anonim}, {rcId: {3603}}
 
 [sequence]
 v1,c,v2,c,v3,c

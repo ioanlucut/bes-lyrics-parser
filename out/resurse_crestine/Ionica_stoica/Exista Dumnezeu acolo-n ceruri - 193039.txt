@@ -1,5 +1,5 @@
 [title]
-Exista dumnezeu acolo-n ceruri {author: {Ionică Stoica}, {rcId: {193039}}
+Exista dumnezeu acolo-n ceruri {composer: {Ionică Stoica}, {rcId: {193039}}
 
 [sequence]
 v1,c,v2,c,v3,c

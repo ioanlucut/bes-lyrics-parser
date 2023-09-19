@@ -1,5 +1,5 @@
 [title]
-Unde sa alerg doamne ?; iarta-ma iarta-ma {author: {Adi Gliga}, {rcId: {113086}}
+Unde sa alerg doamne ?; iarta-ma iarta-ma {composer: {Adi Gliga}, {rcId: {113086}}
 
 [sequence]
 v1,c,v2,c

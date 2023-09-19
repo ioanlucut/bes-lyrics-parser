@@ -1,5 +1,5 @@
 [title]
-Eu ma-ncred in tin (lauren daigle - trust in you) {author: {George Ciurdas}, {rcId: {151203}}
+Eu ma-ncred in tin (lauren daigle - trust in you) {composer: {George Ciurdas}, {rcId: {151203}}
 
 [sequence]
 v1,c,v2,c,c,e

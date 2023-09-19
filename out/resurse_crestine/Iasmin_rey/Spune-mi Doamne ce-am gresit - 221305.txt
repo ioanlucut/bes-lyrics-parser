@@ -1,5 +1,5 @@
 [title]
-Spune-mi doamne ce-am gresit {author: {Iasmin Rey}, {rcId: {221305}}
+Spune-mi doamne ce-am gresit {composer: {Iasmin Rey}, {rcId: {221305}}
 
 [sequence]
 v1,c,v2,c,c

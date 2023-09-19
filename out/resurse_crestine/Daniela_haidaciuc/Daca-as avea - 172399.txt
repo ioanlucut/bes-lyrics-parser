@@ -1,5 +1,5 @@
 [title]
-Daca-as avea {author: {Daniela Haidaciuc}, {rcId: {172399}}
+Daca-as avea {composer: {Daniela Haidaciuc}, {rcId: {172399}}
 
 [sequence]
 v1,v2,v3,v4

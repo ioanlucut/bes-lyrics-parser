@@ -1,5 +1,5 @@
 [title]
-Cu imnuri de marire {author: {Wolfgang A.Mozart}, {rcId: {1877}}
+Cu imnuri de marire {composer: {Wolfgang A.Mozart}, {rcId: {1877}}
 
 [sequence]
 v1,v2,v3

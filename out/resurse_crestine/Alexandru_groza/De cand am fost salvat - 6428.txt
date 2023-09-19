@@ -1,5 +1,5 @@
 [title]
-De cand am fost salvat {author: {Alexandru Groza}, {rcId: {6428}}
+De cand am fost salvat {composer: {Alexandru Groza}, {rcId: {6428}}
 
 [sequence]
 v1,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Tu esti bun {author: {Theo Pascalau}, {rcId: {175033}}
+Tu esti bun {composer: {Theo Pascalau}, {rcId: {175033}}
 
 [sequence]
 v1,b,v2,b,c,v3,b,c

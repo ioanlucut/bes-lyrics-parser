@@ -1,5 +1,5 @@
 [title]
-Un singur nume {author: {Selah}, {rcId: {201346}}
+Un singur nume {composer: {Selah}, {rcId: {201346}}
 
 [sequence]
 s,c,s2,c,e,c

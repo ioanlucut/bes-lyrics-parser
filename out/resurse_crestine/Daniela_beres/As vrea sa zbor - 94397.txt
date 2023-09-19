@@ -1,5 +1,5 @@
 [title]
-As vrea sa zbor {author: {Daniela Beres}, {rcId: {94397}}
+As vrea sa zbor {composer: {Daniela Beres}, {rcId: {94397}}
 
 [sequence]
 v1,c,v2,c

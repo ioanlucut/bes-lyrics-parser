@@ -1,5 +1,5 @@
 [title]
-Tata esti iubire {author: {Anonim}, {rcId: {62669}}
+Tata esti iubire {composer: {Anonim}, {rcId: {62669}}
 
 [sequence]
 v1,c,e

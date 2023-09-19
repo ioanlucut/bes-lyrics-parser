@@ -1,5 +1,5 @@
 [title]
-Crede tot cuvantul spus de dumnezeu {author: {Traian Dorz}, {rcId: {1588}}
+Crede tot cuvantul spus de dumnezeu {composer: {Traian Dorz}, {rcId: {1588}}
 
 [sequence]
 v1,c,v2,c,v3,c

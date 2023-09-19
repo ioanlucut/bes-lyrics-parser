@@ -1,5 +1,5 @@
 [title]
-Tu esti steagul ce se nalta (banner) {author: {Brooke, Scott Ligertwood, Traducere RO}, {rcId: {228900}}
+Tu esti steagul ce se nalta (banner) {composer: {Brooke, Scott Ligertwood, Traducere RO}, {rcId: {228900}}
 
 [sequence]
 v1,c,v2,b,c

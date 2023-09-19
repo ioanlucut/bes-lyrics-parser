@@ -1,5 +1,5 @@
 [title]
-E dincolo de cer senin {author: {Anonim}, {rcId: {74348}}
+E dincolo de cer senin {composer: {Anonim}, {rcId: {74348}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-E vocea ta {author: {Speranța}, {rcId: {4294}}
+E vocea ta {composer: {Speranța}, {rcId: {4294}}
 
 [sequence]
 v1,c,v2,c,v3,c

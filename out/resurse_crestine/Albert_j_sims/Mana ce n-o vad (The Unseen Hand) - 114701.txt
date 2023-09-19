@@ -1,5 +1,5 @@
 [title]
-Mana ce n-o vad (the unseen hand) {author: {Albert J. Sims, Traducere RO}, {rcId: {114701}}
+Mana ce n-o vad (the unseen hand) {composer: {Albert J. Sims, Traducere RO}, {rcId: {114701}}
 
 [sequence]
 v1,c,v2,c,v3,c,s,c

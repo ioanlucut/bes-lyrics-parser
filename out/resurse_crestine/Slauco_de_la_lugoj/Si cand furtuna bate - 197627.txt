@@ -1,5 +1,5 @@
 [title]
-Si cand furtuna bate {author: {Slauco de la Lugoj}, {rcId: {197627}}
+Si cand furtuna bate {composer: {Slauco de la Lugoj}, {rcId: {197627}}
 
 [sequence]
 v1,v2,v3

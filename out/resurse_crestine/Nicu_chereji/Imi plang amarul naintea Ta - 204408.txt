@@ -1,5 +1,5 @@
 [title]
-Imi plang amarul naintea ta {author: {Nicu Chereji}, {rcId: {204408}}
+Imi plang amarul naintea ta {composer: {Nicu Chereji}, {rcId: {204408}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Bethleeme de ce n-ai lasat {author: {Ionel Saran Bochis}, {rcId: {89982}}
+Bethleeme de ce n-ai lasat {composer: {Ionel Saran Bochis}, {rcId: {89982}}
 
 [sequence]
 v1,v2,v3

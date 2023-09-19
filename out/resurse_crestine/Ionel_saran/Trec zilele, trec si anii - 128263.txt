@@ -1,5 +1,5 @@
 [title]
-Trec zilele trec si anii {author: {Ionel Saran}, {rcId: {128263}}
+Trec zilele trec si anii {composer: {Ionel Saran}, {rcId: {128263}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Inceputul si sfarsitul {author: {Text: Ionel Bazon, Muzica: Corine Petre}, {rcId: {199441}}
+Inceputul si sfarsitul {composer: {Text: Ionel Bazon, Muzica: Corine Petre}, {rcId: {199441}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

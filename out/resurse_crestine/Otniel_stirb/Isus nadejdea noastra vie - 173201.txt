@@ -1,5 +1,5 @@
 [title]
-Isus nadejdea noastra vie {author: {Otniel Stirb}, {rcId: {173201}}
+Isus nadejdea noastra vie {composer: {Otniel Stirb}, {rcId: {173201}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-N-or mai fi nopti pustii {author: {Anonim}, {rcId: {78007}}
+N-or mai fi nopti pustii {composer: {Anonim}, {rcId: {78007}}
 
 [sequence]
 v1,c,v2,c,e

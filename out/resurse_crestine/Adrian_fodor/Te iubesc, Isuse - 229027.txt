@@ -1,5 +1,5 @@
 [title]
-Te iubesc isuse {author: {Adrian Fodor}, {rcId: {229027}}
+Te iubesc isuse {composer: {Adrian Fodor}, {rcId: {229027}}
 
 [sequence]
 v1

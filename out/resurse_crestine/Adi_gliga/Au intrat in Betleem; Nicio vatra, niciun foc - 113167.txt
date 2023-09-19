@@ -1,5 +1,5 @@
 [title]
-Au intrat in betleem; nicio vatra niciun foc {author: {Adi Gliga}, {rcId: {113167}}
+Au intrat in betleem; nicio vatra niciun foc {composer: {Adi Gliga}, {rcId: {113167}}
 
 [sequence]
 v1,c,v2,c,v3,c

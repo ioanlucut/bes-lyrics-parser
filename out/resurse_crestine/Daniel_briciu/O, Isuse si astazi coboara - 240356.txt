@@ -1,5 +1,5 @@
 [title]
-O isuse si astazi coboara {author: {Daniel Briciu}, {rcId: {240356}}
+O isuse si astazi coboara {composer: {Daniel Briciu}, {rcId: {240356}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

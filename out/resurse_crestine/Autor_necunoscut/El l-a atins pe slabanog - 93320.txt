@@ -1,5 +1,5 @@
 [title]
-El l-a atins pe slabanog {author: {Anonim}, {rcId: {93320}}
+El l-a atins pe slabanog {composer: {Anonim}, {rcId: {93320}}
 
 [sequence]
 v1,c,v2,c,v3,c

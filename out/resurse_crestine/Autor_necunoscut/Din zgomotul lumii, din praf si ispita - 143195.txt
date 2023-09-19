@@ -1,5 +1,5 @@
 [title]
-Din zgomotul lumii din praf si ispita {author: {Anonim}, {rcId: {143195}}
+Din zgomotul lumii din praf si ispita {composer: {Anonim}, {rcId: {143195}}
 
 [sequence]
 v1,c,v2,c,v3,c

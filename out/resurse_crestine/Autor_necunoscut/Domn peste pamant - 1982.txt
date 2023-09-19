@@ -1,5 +1,5 @@
 [title]
-Domn peste pamant {author: {Anonim}, {rcId: {1982}}
+Domn peste pamant {composer: {Anonim}, {rcId: {1982}}
 
 [sequence]
 v1,v2,c

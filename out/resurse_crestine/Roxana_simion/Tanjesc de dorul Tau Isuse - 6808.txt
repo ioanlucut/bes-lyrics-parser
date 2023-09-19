@@ -1,5 +1,5 @@
 [title]
-Tanjesc de dorul tau isuse {author: {Roxana Simion}, {rcId: {6808}}
+Tanjesc de dorul tau isuse {composer: {Roxana Simion}, {rcId: {6808}}
 
 [sequence]
 v1,c

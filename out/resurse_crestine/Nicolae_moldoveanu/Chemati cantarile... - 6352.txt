@@ -1,5 +1,5 @@
 [title]
-Chemati cantarile {author: {Nicolae Moldoveanu}, {rcId: {6352}}
+Chemati cantarile {composer: {Nicolae Moldoveanu}, {rcId: {6352}}
 
 [sequence]
 v1,v2,v3,v4

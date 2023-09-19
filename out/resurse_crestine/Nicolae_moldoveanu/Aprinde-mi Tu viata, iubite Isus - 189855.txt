@@ -1,5 +1,5 @@
 [title]
-Aprinde-mi tu viata iubite isus {author: {Nicolae Moldoveanu}, {rcId: {189855}}
+Aprinde-mi tu viata iubite isus {composer: {Nicolae Moldoveanu}, {rcId: {189855}}
 
 [sequence]
 v1,v2,v3,v4

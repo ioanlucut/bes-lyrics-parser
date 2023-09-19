@@ -1,5 +1,5 @@
 [title]
-Din zi in zi {author: {Text: Costache Ioanid, Muzica: Corina Bazon}, {rcId: {199442}}
+Din zi in zi {composer: {Text: Costache Ioanid, Muzica: Corina Bazon}, {rcId: {199442}}
 
 [sequence]
 v1,v2

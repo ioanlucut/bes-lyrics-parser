@@ -1,5 +1,5 @@
 [title]
-Cu inimi deschise {author: {Anonim}, {rcId: {195925}}
+Cu inimi deschise {composer: {Anonim}, {rcId: {195925}}
 
 [sequence]
 v1,v2,v3

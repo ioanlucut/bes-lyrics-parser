@@ -1,5 +1,5 @@
 [title]
-Tot ce se face din iubire {author: {Nicolae Moldoveanu}, {rcId: {244572}}
+Tot ce se face din iubire {composer: {Nicolae Moldoveanu}, {rcId: {244572}}
 
 [sequence]
 v1,v2,v3,v4

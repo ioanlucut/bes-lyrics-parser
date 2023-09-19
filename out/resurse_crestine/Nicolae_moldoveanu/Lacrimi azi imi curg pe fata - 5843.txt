@@ -1,5 +1,5 @@
 [title]
-Lacrimi azi imi curg pe fata {author: {Nicolae Moldoveanu}, {rcId: {5843}}
+Lacrimi azi imi curg pe fata {composer: {Nicolae Moldoveanu}, {rcId: {5843}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

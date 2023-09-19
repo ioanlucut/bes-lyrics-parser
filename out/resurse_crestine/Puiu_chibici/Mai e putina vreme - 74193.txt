@@ -1,5 +1,5 @@
 [title]
-Mai e putina vreme {author: {Puiu Chibici}, {rcId: {74193}}
+Mai e putina vreme {composer: {Puiu Chibici}, {rcId: {74193}}
 
 [sequence]
 v1,v2,v3,v4,v5

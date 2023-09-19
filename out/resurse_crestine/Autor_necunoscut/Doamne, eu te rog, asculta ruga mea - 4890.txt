@@ -1,5 +1,5 @@
 [title]
-Doamne eu te rog asculta ruga mea {author: {Anonim}, {rcId: {4890}}
+Doamne eu te rog asculta ruga mea {composer: {Anonim}, {rcId: {4890}}
 
 [sequence]
 v1,c

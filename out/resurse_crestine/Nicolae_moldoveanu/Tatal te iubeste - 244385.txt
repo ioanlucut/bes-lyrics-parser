@@ -1,5 +1,5 @@
 [title]
-Tatal te iubeste {author: {Nicolae Moldoveanu}, {rcId: {244385}}
+Tatal te iubeste {composer: {Nicolae Moldoveanu}, {rcId: {244385}}
 
 [sequence]
 v1,v2,v3

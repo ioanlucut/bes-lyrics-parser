@@ -1,5 +1,5 @@
 [title]
-Ierusalime {author: {Rugul aprins}, {rcId: {211230}}
+Ierusalime {composer: {Rugul aprins}, {rcId: {211230}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c

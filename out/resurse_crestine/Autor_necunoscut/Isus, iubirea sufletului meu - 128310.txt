@@ -1,5 +1,5 @@
 [title]
-Isus iubirea sufletului meu {author: {Anonim}, {rcId: {128310}}
+Isus iubirea sufletului meu {composer: {Anonim}, {rcId: {128310}}
 
 [sequence]
 v1,c

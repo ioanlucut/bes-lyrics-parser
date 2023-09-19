@@ -1,5 +1,5 @@
 [title]
-Vad peste zi si noapte {author: {F.Eckhaerdt}, {rcId: {1740}}
+Vad peste zi si noapte {composer: {F.Eckhaerdt}, {rcId: {1740}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

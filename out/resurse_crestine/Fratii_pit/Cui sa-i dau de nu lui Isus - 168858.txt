@@ -1,5 +1,5 @@
 [title]
-Cui sa-i dau de nu lui isus {author: {Fratii Pit}, {rcId: {168858}}
+Cui sa-i dau de nu lui isus {composer: {Fratii Pit}, {rcId: {168858}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Tu esti totul pentru mine doamne {author: {Ionel Saran Bochis}, {rcId: {91605}}
+Tu esti totul pentru mine doamne {composer: {Ionel Saran Bochis}, {rcId: {91605}}
 
 [sequence]
 v1,c,v2,c,v3,c

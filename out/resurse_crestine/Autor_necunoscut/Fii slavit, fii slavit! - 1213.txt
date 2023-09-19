@@ -1,5 +1,5 @@
 [title]
-Fii slavit fii slavit {author: {Anonim}, {rcId: {1213}}
+Fii slavit fii slavit {composer: {Anonim}, {rcId: {1213}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-E harul tau ca sunt aici {author: {Puiu Chibici}, {rcId: {92945}}
+E harul tau ca sunt aici {composer: {Puiu Chibici}, {rcId: {92945}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

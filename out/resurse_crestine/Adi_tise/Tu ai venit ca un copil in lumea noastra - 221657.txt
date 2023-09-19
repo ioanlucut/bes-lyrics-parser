@@ -1,5 +1,5 @@
 [title]
-Tu ai venit ca un copil in lumea noastra {author: {Adi Tise}, {rcId: {221657}}
+Tu ai venit ca un copil in lumea noastra {composer: {Adi Tise}, {rcId: {221657}}
 
 [sequence]
 v1,c,v2,c

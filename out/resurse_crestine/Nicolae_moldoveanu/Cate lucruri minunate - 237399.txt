@@ -1,5 +1,5 @@
 [title]
-Cate lucruri minunate {author: {Nicolae Moldoveanu}, {rcId: {237399}}
+Cate lucruri minunate {composer: {Nicolae Moldoveanu}, {rcId: {237399}}
 
 [sequence]
 v1,v2,v3,v4,v5

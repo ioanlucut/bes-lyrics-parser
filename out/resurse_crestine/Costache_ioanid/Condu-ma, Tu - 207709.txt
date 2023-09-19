@@ -1,5 +1,5 @@
 [title]
-Condu-ma tu {author: {Costache Ioanid}, {rcId: {207709}}
+Condu-ma tu {composer: {Costache Ioanid}, {rcId: {207709}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Ce placut iti e locasul ps {author: {Traian Dorz si Nicolae Moldoveanu}, {rcId: {220731}}
+Ce placut iti e locasul ps {composer: {Traian Dorz si Nicolae Moldoveanu}, {rcId: {220731}}
 
 [sequence]
 v1,v3,v4,v5,v6,v7,v8,v9,v10,v11,v12

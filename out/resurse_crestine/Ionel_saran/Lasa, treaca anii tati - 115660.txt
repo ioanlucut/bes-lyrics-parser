@@ -1,5 +1,5 @@
 [title]
-Lasa treaca anii tati {author: {Ionel Saran}, {rcId: {115660}}
+Lasa treaca anii tati {composer: {Ionel Saran}, {rcId: {115660}}
 
 [sequence]
 v1,c,v2,c,v3,c

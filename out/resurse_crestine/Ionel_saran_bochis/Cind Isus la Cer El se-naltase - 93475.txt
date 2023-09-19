@@ -1,5 +1,5 @@
 [title]
-Cind isus la cer el se-naltase {author: {Ionel Saran Bochis}, {rcId: {93475}}
+Cind isus la cer el se-naltase {composer: {Ionel Saran Bochis}, {rcId: {93475}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

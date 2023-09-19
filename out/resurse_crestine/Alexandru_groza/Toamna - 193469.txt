@@ -1,5 +1,5 @@
 [title]
-Toamna {author: {Alexandru Groza}, {rcId: {193469}}
+Toamna {composer: {Alexandru Groza}, {rcId: {193469}}
 
 [sequence]
 v1,c,v2,c,e

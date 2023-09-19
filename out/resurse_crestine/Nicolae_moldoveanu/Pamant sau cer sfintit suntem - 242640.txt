@@ -1,5 +1,5 @@
 [title]
-Pamant sau cer sfintit suntem {author: {Nicolae Moldoveanu}, {rcId: {242640}}
+Pamant sau cer sfintit suntem {composer: {Nicolae Moldoveanu}, {rcId: {242640}}
 
 [sequence]
 v1,v2,v3,v4

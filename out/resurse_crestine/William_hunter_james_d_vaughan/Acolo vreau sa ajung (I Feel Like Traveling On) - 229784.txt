@@ -1,5 +1,5 @@
 [title]
-Acolo vreau sa ajung (i feel like traveling on) {author: {William Hunter, James D. Vaughan, Traducere RO}, {rcId: {229784}}
+Acolo vreau sa ajung (i feel like traveling on) {composer: {William Hunter, James D. Vaughan, Traducere RO}, {rcId: {229784}}
 
 [sequence]
 v1,c,v2,c,v3,c

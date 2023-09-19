@@ -1,5 +1,5 @@
 [title]
-Adu-ne-al izbavirii har {author: {Nicolae Moldoveanu}, {rcId: {242730}}
+Adu-ne-al izbavirii har {composer: {Nicolae Moldoveanu}, {rcId: {242730}}
 
 [sequence]
 v1,v2,v3,v4

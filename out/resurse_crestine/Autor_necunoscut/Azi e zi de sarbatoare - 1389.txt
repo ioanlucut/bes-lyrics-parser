@@ -1,5 +1,5 @@
 [title]
-Azi e zi de sarbatoare {author: {Anonim}, {rcId: {1389}}
+Azi e zi de sarbatoare {composer: {Anonim}, {rcId: {1389}}
 
 [sequence]
 v1,v2,v3

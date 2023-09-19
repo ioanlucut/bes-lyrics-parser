@@ -1,5 +1,5 @@
 [title]
-Cetate sfanta {author: {Diaz Amos}, {rcId: {240670}}
+Cetate sfanta {composer: {Diaz Amos}, {rcId: {240670}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Vad crucea lui isus la golgota {author: {Lance B.Latham}, {rcId: {114093}}
+Vad crucea lui isus la golgota {composer: {Lance B.Latham}, {rcId: {114093}}
 
 [sequence]
 v1,c,v2,c,v3,c

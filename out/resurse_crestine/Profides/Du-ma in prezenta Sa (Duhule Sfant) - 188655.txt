@@ -1,5 +1,5 @@
 [title]
-Du-ma in prezenta sa (duhule sfant) {author: {Profides}, {rcId: {188655}}
+Du-ma in prezenta sa (duhule sfant) {composer: {Profides}, {rcId: {188655}}
 
 [sequence]
 v1,c,v2,c,v3,c

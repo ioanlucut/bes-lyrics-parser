@@ -1,5 +1,5 @@
 [title]
-In betleem azi in betleem azi e o mare minune {author: {Anonim}, {rcId: {1485}}
+In betleem azi in betleem azi e o mare minune {composer: {Anonim}, {rcId: {1485}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

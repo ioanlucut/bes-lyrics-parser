@@ -1,5 +1,5 @@
 [title]
-Vreau pe isus {author: {Fernando Ortega, Traducere RO}, {rcId: {120840}}
+Vreau pe isus {composer: {Fernando Ortega, Traducere RO}, {rcId: {120840}}
 
 [sequence]
 v1,c,v2,c,v3,c

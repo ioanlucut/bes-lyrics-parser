@@ -1,5 +1,5 @@
 [title]
-Sfintenia ta sfintenia ta {author: {Anonim}, {rcId: {155828}}
+Sfintenia ta sfintenia ta {composer: {Anonim}, {rcId: {155828}}
 
 [sequence]
 v1,v2,c,v3,c,e

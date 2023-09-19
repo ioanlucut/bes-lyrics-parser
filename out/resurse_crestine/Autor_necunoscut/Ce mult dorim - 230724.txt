@@ -1,5 +1,5 @@
 [title]
-Ce mult dorim {author: {Anonim}, {rcId: {230724}}
+Ce mult dorim {composer: {Anonim}, {rcId: {230724}}
 
 [sequence]
 v1,c,v2,c,v3,c

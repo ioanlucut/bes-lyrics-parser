@@ -1,5 +1,5 @@
 [title]
-Laud numele tau isus {author: {Florin Mesaroș, BBSo  adaptare după Ben Fielding, Brooke Ligertwood }, {rcId: {167752}}
+Laud numele tau isus {composer: {Florin Mesaroș, BBSo  adaptare după Ben Fielding, Brooke Ligertwood }, {rcId: {167752}}
 
 [sequence]
 v1,c,v2,e,e2,c,e2,c

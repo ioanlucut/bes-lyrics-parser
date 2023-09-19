@@ -1,5 +1,5 @@
 [title]
-Isus plangea {author: {Remus Tămășan Cristi}, {rcId: {155950}}
+Isus plangea {composer: {Remus Tămășan Cristi}, {rcId: {155950}}
 
 [sequence]
 v1,b,c,v2,c

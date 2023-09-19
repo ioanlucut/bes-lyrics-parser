@@ -1,5 +1,5 @@
 [title]
-Ce-i tineretea {author: {Anonim}, {rcId: {210169}}
+Ce-i tineretea {composer: {Anonim}, {rcId: {210169}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

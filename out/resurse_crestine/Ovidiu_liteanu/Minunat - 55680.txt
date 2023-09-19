@@ -1,5 +1,5 @@
 [title]
-Minunat {author: {Ovidiu Liteanu}, {rcId: {55680}}
+Minunat {composer: {Ovidiu Liteanu}, {rcId: {55680}}
 
 [sequence]
 v1,v2,v3,v4

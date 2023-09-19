@@ -1,5 +1,5 @@
 [title]
-Cant aleluia celui ce este viu {author: {Utilizator Moldovan Florin}, {rcId: {106747}}
+Cant aleluia celui ce este viu {composer: {Utilizator Moldovan Florin}, {rcId: {106747}}
 
 [sequence]
 v1,c,v2,c,e

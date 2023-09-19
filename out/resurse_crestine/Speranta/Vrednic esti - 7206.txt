@@ -1,5 +1,5 @@
 [title]
-Vrednic esti {author: {Speranța}, {rcId: {7206}}
+Vrednic esti {composer: {Speranța}, {rcId: {7206}}
 
 [sequence]
 v1,c,e

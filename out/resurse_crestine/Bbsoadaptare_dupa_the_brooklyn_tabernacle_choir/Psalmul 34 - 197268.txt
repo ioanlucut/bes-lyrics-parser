@@ -1,5 +1,5 @@
 [title]
-Psalmul {author: {BBSOadaptare după The Brooklyn Tabernacle Choir}, {rcId: {197268}}
+Psalmul {composer: {BBSOadaptare după The Brooklyn Tabernacle Choir}, {rcId: {197268}}
 
 [sequence]
 v1,v2,c,v3,b,c

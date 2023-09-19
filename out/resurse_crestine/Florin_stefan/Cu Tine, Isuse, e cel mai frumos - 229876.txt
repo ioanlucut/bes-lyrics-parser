@@ -1,5 +1,5 @@
 [title]
-Cu tine isuse e cel mai frumos {author: {Florin Ștefan}, {rcId: {229876}}
+Cu tine isuse e cel mai frumos {composer: {Florin Ștefan}, {rcId: {229876}}
 
 [sequence]
 v1,c,v2,c,v3,c

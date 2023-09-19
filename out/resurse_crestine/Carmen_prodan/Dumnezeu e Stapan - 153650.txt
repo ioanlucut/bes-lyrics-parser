@@ -1,5 +1,5 @@
 [title]
-Dumnezeu e stapan {author: {Carmen Prodan}, {rcId: {153650}}
+Dumnezeu e stapan {composer: {Carmen Prodan}, {rcId: {153650}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

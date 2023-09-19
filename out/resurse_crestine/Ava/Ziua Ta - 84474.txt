@@ -1,5 +1,5 @@
 [title]
-Ziua ta {author: {Ava}, {rcId: {84474}}
+Ziua ta {composer: {Ava}, {rcId: {84474}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Striga la el cand esti lovit {author: {Daniel Hartie, Marta Bergheaua}, {rcId: {190776}}
+Striga la el cand esti lovit {composer: {Daniel Hartie, Marta Bergheaua}, {rcId: {190776}}
 
 [sequence]
 v1,c,v2,c,v3,c

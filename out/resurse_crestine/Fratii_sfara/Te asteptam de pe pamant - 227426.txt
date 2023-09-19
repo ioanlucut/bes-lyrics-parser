@@ -1,5 +1,5 @@
 [title]
-Te asteptam de pe pamant {author: {Fratii Sfara}, {rcId: {227426}}
+Te asteptam de pe pamant {composer: {Fratii Sfara}, {rcId: {227426}}
 
 [sequence]
 v1,c,v2,c,v3,c

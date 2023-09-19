@@ -1,5 +1,5 @@
 [title]
-Aceasta este cea potrivita {author: {Dionisie Giuchici}, {rcId: {202708}}
+Aceasta este cea potrivita {composer: {Dionisie Giuchici}, {rcId: {202708}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

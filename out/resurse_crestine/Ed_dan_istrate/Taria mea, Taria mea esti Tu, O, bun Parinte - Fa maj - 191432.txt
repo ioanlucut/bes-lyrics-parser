@@ -1,5 +1,5 @@
 [title]
-Taria mea taria mea esti tu o bun parinte - fa maj {author: {ed. Dan Istrate}, {rcId: {191432}}
+Taria mea taria mea esti tu o bun parinte - fa maj {composer: {ed. Dan Istrate}, {rcId: {191432}}
 
 [sequence]
 v1,v2,v3,v4,v5

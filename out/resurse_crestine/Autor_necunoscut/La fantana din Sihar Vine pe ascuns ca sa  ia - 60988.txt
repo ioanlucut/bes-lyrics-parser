@@ -1,5 +1,5 @@
 [title]
-La fantana din sihar vine pe ascuns ca sa ia {author: {Anonim}, {rcId: {60988}}
+La fantana din sihar vine pe ascuns ca sa ia {composer: {Anonim}, {rcId: {60988}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

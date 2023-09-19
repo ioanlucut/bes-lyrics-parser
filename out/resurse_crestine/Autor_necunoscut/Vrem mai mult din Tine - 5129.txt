@@ -1,5 +1,5 @@
 [title]
-Vrem mai mult din tine {author: {Anonim}, {rcId: {5129}}
+Vrem mai mult din tine {composer: {Anonim}, {rcId: {5129}}
 
 [sequence]
 v1,c

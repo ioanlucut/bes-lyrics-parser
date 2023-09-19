@@ -1,5 +1,5 @@
 [title]
-Nu-mi pot imagina {author: {Anonim}, {rcId: {153180}}
+Nu-mi pot imagina {composer: {Anonim}, {rcId: {153180}}
 
 [sequence]
 v1,c,v2,c2

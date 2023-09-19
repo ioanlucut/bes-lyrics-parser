@@ -1,5 +1,5 @@
 [title]
-Tot ce vreau esti tu {author: {Anonim}, {rcId: {5098}}
+Tot ce vreau esti tu {composer: {Anonim}, {rcId: {5098}}
 
 [sequence]
 v1,v2,c,v2,c,b,v2,c

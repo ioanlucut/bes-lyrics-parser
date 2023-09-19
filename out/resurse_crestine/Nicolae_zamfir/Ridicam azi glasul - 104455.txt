@@ -1,5 +1,5 @@
 [title]
-Ridicam azi glasul {author: {Nicolae Zamfir}, {rcId: {104455}}
+Ridicam azi glasul {composer: {Nicolae Zamfir}, {rcId: {104455}}
 
 [sequence]
 v1,c,v2,c

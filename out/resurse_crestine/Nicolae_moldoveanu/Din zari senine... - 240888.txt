@@ -1,5 +1,5 @@
 [title]
-Din zari senine {author: {Nicolae Moldoveanu}, {rcId: {240888}}
+Din zari senine {composer: {Nicolae Moldoveanu}, {rcId: {240888}}
 
 [sequence]
 v1,v2

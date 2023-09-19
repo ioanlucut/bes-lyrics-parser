@@ -1,5 +1,5 @@
 [title]
-Eu nu ma tem {author: {Larisa Silaghi}, {rcId: {122403}}
+Eu nu ma tem {composer: {Larisa Silaghi}, {rcId: {122403}}
 
 [sequence]
 v1,c,v2,c,v3,c

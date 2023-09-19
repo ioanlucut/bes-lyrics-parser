@@ -1,5 +1,5 @@
 [title]
-Ce triste sunt clipele acelea {author: {Anonim}, {rcId: {6491}}
+Ce triste sunt clipele acelea {composer: {Anonim}, {rcId: {6491}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-O isuse da-mi rabdare {author: {Ionel Saran}, {rcId: {128276}}
+O isuse da-mi rabdare {composer: {Ionel Saran}, {rcId: {128276}}
 
 [sequence]
 v1,c,v2,c,v3,c

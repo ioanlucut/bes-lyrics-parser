@@ -1,5 +1,5 @@
 [title]
-Azi venim la altar {author: {Anonim}, {rcId: {6748}}
+Azi venim la altar {composer: {Anonim}, {rcId: {6748}}
 
 [sequence]
 v1,c,v2,c,e

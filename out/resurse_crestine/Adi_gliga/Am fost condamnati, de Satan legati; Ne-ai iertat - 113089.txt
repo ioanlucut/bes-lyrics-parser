@@ -1,5 +1,5 @@
 [title]
-Am fost condamnati de satan legati; ne-ai iertat {author: {Adi Gliga}, {rcId: {113089}}
+Am fost condamnati de satan legati; ne-ai iertat {composer: {Adi Gliga}, {rcId: {113089}}
 
 [sequence]
 v1,c,v2,c

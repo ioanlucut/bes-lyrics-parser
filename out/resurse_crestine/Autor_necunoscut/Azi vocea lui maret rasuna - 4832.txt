@@ -1,5 +1,5 @@
 [title]
-Azi vocea lui maret rasuna {author: {Anonim}, {rcId: {4832}}
+Azi vocea lui maret rasuna {composer: {Anonim}, {rcId: {4832}}
 
 [sequence]
 v1,v2,c

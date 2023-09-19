@@ -1,5 +1,5 @@
 [title]
-Orice lacrima {author: {Eliza Pirosca}, {rcId: {114747}}
+Orice lacrima {composer: {Eliza Pirosca}, {rcId: {114747}}
 
 [sequence]
 v1,v2,c

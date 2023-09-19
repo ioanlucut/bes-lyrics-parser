@@ -1,5 +1,5 @@
 [title]
-Tot inainte {author: {Nicolae Moldoveanu}, {rcId: {229851}}
+Tot inainte {composer: {Nicolae Moldoveanu}, {rcId: {229851}}
 
 [sequence]
 v1,c,v2,c,v3,c

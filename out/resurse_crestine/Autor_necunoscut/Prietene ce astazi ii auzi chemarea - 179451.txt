@@ -1,5 +1,5 @@
 [title]
-Prietene ce astazi ii auzi chemarea {author: {Anonim}, {rcId: {179451}}
+Prietene ce astazi ii auzi chemarea {composer: {Anonim}, {rcId: {179451}}
 
 [sequence]
 v1,c,v2,c,v3,c

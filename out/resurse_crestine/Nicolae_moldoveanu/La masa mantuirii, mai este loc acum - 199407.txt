@@ -1,5 +1,5 @@
 [title]
-La masa mantuirii mai este loc acum {author: {Nicolae Moldoveanu}, {rcId: {199407}}
+La masa mantuirii mai este loc acum {composer: {Nicolae Moldoveanu}, {rcId: {199407}}
 
 [sequence]
 v1,v2,v3

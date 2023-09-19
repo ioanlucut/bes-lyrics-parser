@@ -1,5 +1,5 @@
 [title]
-Astazi este sarbatoare {author: {Puiu Chibici}, {rcId: {4213}}
+Astazi este sarbatoare {composer: {Puiu Chibici}, {rcId: {4213}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Doamne ce comoara sfanta {author: {Marta Bergheaua}, {rcId: {66286}}
+Doamne ce comoara sfanta {composer: {Marta Bergheaua}, {rcId: {66286}}
 
 [sequence]
 v1,v2,v3,v4,v5

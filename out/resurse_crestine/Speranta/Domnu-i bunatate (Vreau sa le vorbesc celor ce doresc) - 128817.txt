@@ -1,5 +1,5 @@
 [title]
-Domnu-i bunatate (vreau sa le vorbesc celor ce doresc) {author: {Speranța}, {rcId: {128817}}
+Domnu-i bunatate (vreau sa le vorbesc celor ce doresc) {composer: {Speranța}, {rcId: {128817}}
 
 [sequence]
 v1,c,v2,c,e

@@ -1,5 +1,5 @@
 [title]
-Laudati pe domnul sfantul {author: {Traian Dorz}, {rcId: {7338}}
+Laudati pe domnul sfantul {composer: {Traian Dorz}, {rcId: {7338}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

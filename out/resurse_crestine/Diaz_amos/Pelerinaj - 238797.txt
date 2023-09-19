@@ -1,5 +1,5 @@
 [title]
-Pelerinaj {author: {Diaz Amos}, {rcId: {238797}}
+Pelerinaj {composer: {Diaz Amos}, {rcId: {238797}}
 
 [sequence]
 v1,c,v2,c

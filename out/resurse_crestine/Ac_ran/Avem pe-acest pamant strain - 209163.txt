@@ -1,5 +1,5 @@
 [title]
-Avem pe-acest pamant strain {author: {AC, RAN}, {rcId: {209163}}
+Avem pe-acest pamant strain {composer: {AC, RAN}, {rcId: {209163}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Mare esti rege in veci de veci {author: {Anonim}, {rcId: {4995}}
+Mare esti rege in veci de veci {composer: {Anonim}, {rcId: {4995}}
 
 [sequence]
 v1,c

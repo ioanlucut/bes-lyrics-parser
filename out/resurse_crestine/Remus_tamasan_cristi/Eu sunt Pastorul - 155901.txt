@@ -1,5 +1,5 @@
 [title]
-Eu sunt pastorul {author: {Remus Tămășan Cristi}, {rcId: {155901}}
+Eu sunt pastorul {composer: {Remus Tămășan Cristi}, {rcId: {155901}}
 
 [sequence]
 v1,c,v2,c,v3,c

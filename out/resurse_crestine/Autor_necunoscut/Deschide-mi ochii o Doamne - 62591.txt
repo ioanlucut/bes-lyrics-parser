@@ -1,5 +1,5 @@
 [title]
-Deschide-mi ochii o doamne {author: {Anonim}, {rcId: {62591}}
+Deschide-mi ochii o doamne {composer: {Anonim}, {rcId: {62591}}
 
 [sequence]
 v1,v2,v3

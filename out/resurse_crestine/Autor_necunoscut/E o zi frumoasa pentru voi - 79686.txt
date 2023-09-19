@@ -1,5 +1,5 @@
 [title]
-E o zi frumoasa pentru voi {author: {Anonim}, {rcId: {79686}}
+E o zi frumoasa pentru voi {composer: {Anonim}, {rcId: {79686}}
 
 [sequence]
 v1,c,v2,c,v3,c

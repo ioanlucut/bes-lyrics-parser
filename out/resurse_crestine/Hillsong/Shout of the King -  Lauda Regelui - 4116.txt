@@ -1,5 +1,5 @@
 [title]
-Shout of the king - lauda regelui {author: {Hillsong, Traducere RO}, {rcId: {4116}}
+Shout of the king - lauda regelui {composer: {Hillsong, Traducere RO}, {rcId: {4116}}
 
 [sequence]
 v1,c,e

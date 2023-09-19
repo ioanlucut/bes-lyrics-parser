@@ -1,5 +1,5 @@
 [title]
-Copil vei fi mereu {author: {Omega}, {rcId: {2546}}
+Copil vei fi mereu {composer: {Omega}, {rcId: {2546}}
 
 [sequence]
 v1,c,v2,c

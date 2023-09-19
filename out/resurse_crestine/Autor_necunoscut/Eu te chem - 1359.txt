@@ -1,5 +1,5 @@
 [title]
-Eu te chem {author: {Anonim}, {rcId: {1359}}
+Eu te chem {composer: {Anonim}, {rcId: {1359}}
 
 [sequence]
 v1,v2,v3

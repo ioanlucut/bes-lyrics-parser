@@ -1,5 +1,5 @@
 [title]
-Lungul drum al crucii sfinte {author: {Text și muzica: Ștefan Mihai}, {rcId: {199403}}
+Lungul drum al crucii sfinte {composer: {Text și muzica: Ștefan Mihai}, {rcId: {199403}}
 
 [sequence]
 v1,c,v2,c

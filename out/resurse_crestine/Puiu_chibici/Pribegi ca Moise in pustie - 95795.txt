@@ -1,5 +1,5 @@
 [title]
-Pribegi ca moise in pustie {author: {Puiu Chibici}, {rcId: {95795}}
+Pribegi ca moise in pustie {composer: {Puiu Chibici}, {rcId: {95795}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Nu mai suspina mireasa {author: {Anonim}, {rcId: {218705}}
+Nu mai suspina mireasa {composer: {Anonim}, {rcId: {218705}}
 
 [sequence]
 v1,v2,v3,v4,v5

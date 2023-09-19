@@ -1,5 +1,5 @@
 [title]
-Seva mea tu esti {author: {Lidia Gheorghe}, {rcId: {149771}}
+Seva mea tu esti {composer: {Lidia Gheorghe}, {rcId: {149771}}
 
 [sequence]
 v1,v2,v3

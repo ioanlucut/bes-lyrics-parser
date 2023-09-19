@@ -1,5 +1,5 @@
 [title]
-Asculta {author: {Elena Delcea Bilstrup}, {rcId: {4041}}
+Asculta {composer: {Elena Delcea Bilstrup}, {rcId: {4041}}
 
 [sequence]
 v1,c,v2,c

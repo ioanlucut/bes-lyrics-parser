@@ -1,5 +1,5 @@
 [title]
-Sa fii ca isus {author: {Anonim}, {rcId: {1524}}
+Sa fii ca isus {composer: {Anonim}, {rcId: {1524}}
 
 [sequence]
 v1,v2,v3,v4

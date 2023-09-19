@@ -1,5 +1,5 @@
 [title]
-Te-ntoarce iarasi ca pe timpuri {author: {Anonim}, {rcId: {154103}}
+Te-ntoarce iarasi ca pe timpuri {composer: {Anonim}, {rcId: {154103}}
 
 [sequence]
 v1,c,v2,c,v3,c

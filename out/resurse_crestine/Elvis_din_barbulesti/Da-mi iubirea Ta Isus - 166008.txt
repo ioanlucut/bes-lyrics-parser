@@ -1,5 +1,5 @@
 [title]
-Da-mi iubirea ta isus {author: {Elvis din Barbulesti}, {rcId: {166008}}
+Da-mi iubirea ta isus {composer: {Elvis din Barbulesti}, {rcId: {166008}}
 
 [sequence]
 v1,c,v2,c

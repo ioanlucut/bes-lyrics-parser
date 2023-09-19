@@ -1,5 +1,5 @@
 [title]
-Blessed be your name - binecuvantat {author: {Matt Redman, Traducere RO}, {rcId: {2473}}
+Blessed be your name - binecuvantat {composer: {Matt Redman, Traducere RO}, {rcId: {2473}}
 
 [sequence]
 v1,b,c,v2,c,e

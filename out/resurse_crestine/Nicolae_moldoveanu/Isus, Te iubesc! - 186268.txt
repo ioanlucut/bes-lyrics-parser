@@ -1,5 +1,5 @@
 [title]
-Isus te iubesc {author: {Nicolae Moldoveanu}, {rcId: {186268}}
+Isus te iubesc {composer: {Nicolae Moldoveanu}, {rcId: {186268}}
 
 [sequence]
 v1,c,v2,c,v3,c

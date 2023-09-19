@@ -1,5 +1,5 @@
 [title]
-A mai trecut un an prin noi {author: {Dan Muncaciu}, {rcId: {244309}}
+A mai trecut un an prin noi {composer: {Dan Muncaciu}, {rcId: {244309}}
 
 [sequence]
 v1,c,v2,b,c

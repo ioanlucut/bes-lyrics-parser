@@ -1,5 +1,5 @@
 [title]
-Ce placuta e viata {author: {Nicu Chereji}, {rcId: {210167}}
+Ce placuta e viata {composer: {Nicu Chereji}, {rcId: {210167}}
 
 [sequence]
 v1,v2,v3,v4

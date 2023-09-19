@@ -1,5 +1,5 @@
 [title]
-Iti multumesc o doamne mare {author: {Eliazar Pripon}, {rcId: {152229}}
+Iti multumesc o doamne mare {composer: {Eliazar Pripon}, {rcId: {152229}}
 
 [sequence]
 v1,c,v2,c,v3,c

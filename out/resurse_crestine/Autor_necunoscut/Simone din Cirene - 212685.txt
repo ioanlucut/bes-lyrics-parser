@@ -1,5 +1,5 @@
 [title]
-Simone din cirene {author: {Anonim}, {rcId: {212685}}
+Simone din cirene {composer: {Anonim}, {rcId: {212685}}
 
 [sequence]
 v1,v2,e

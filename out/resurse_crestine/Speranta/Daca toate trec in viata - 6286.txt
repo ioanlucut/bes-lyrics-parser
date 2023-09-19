@@ -1,5 +1,5 @@
 [title]
-Daca toate trec in viata {author: {Speranța}, {rcId: {6286}}
+Daca toate trec in viata {composer: {Speranța}, {rcId: {6286}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

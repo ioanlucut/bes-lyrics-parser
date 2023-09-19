@@ -1,5 +1,5 @@
 [title]
-Nu-i usor sa urci pe munte {author: {Nicu Wagner}, {rcId: {4027}}
+Nu-i usor sa urci pe munte {composer: {Nicu Wagner}, {rcId: {4027}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

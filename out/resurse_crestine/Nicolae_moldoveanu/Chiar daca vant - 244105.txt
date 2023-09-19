@@ -1,5 +1,5 @@
 [title]
-Chiar daca vant {author: {Nicolae Moldoveanu}, {rcId: {244105}}
+Chiar daca vant {composer: {Nicolae Moldoveanu}, {rcId: {244105}}
 
 [sequence]
 v1,v2,v3,v4,v5

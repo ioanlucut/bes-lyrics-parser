@@ -1,5 +1,5 @@
 [title]
-Ascult din ceru-i o cantare {author: {Anonim}, {rcId: {220748}}
+Ascult din ceru-i o cantare {composer: {Anonim}, {rcId: {220748}}
 
 [sequence]
 v1,c,v2,c,v3,c

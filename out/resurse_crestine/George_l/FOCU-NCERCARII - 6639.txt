@@ -1,5 +1,5 @@
 [title]
-Focu-ncercarii {author: {George L}, {rcId: {6639}}
+Focu-ncercarii {composer: {George L}, {rcId: {6639}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,v4,c

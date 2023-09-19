@@ -1,5 +1,5 @@
 [title]
-Cantece senine {author: {Nicolae Moldoveanu}, {rcId: {225152}}
+Cantece senine {composer: {Nicolae Moldoveanu}, {rcId: {225152}}
 
 [sequence]
 v1,c,v2,c,v3,c

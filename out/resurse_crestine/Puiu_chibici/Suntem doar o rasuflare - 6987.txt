@@ -1,5 +1,5 @@
 [title]
-Suntem doar o rasuflare {author: {Puiu Chibici}, {rcId: {6987}}
+Suntem doar o rasuflare {composer: {Puiu Chibici}, {rcId: {6987}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

@@ -1,5 +1,5 @@
 [title]
-Isuse dulce te asteptam {author: {Nicolae Moldoveanu}, {rcId: {201028}}
+Isuse dulce te asteptam {composer: {Nicolae Moldoveanu}, {rcId: {201028}}
 
 [sequence]
 v1,c,v2,c,v3,c

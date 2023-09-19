@@ -1,5 +1,5 @@
 [title]
-Cat de frumoase {author: {Nicolae Moldoveanu}, {rcId: {244096}}
+Cat de frumoase {composer: {Nicolae Moldoveanu}, {rcId: {244096}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-S-a nascut pe pamant un mantuitor {author: {The Messengers}, {rcId: {4403}}
+S-a nascut pe pamant un mantuitor {composer: {The Messengers}, {rcId: {4403}}
 
 [sequence]
 v1,v2,v3,v4

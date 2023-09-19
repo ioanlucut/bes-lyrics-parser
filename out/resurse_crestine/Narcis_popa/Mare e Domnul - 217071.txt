@@ -1,5 +1,5 @@
 [title]
-Mare e domnul {author: {Narcis Popa}, {rcId: {217071}}
+Mare e domnul {composer: {Narcis Popa}, {rcId: {217071}}
 
 [sequence]
 v1,c,v2,c,v3,b,c

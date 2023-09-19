@@ -1,5 +1,5 @@
 [title]
-Cu isus de-a pururi langa crucea sa {author: {Anonim}, {rcId: {240708}}
+Cu isus de-a pururi langa crucea sa {composer: {Anonim}, {rcId: {240708}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-A inviat un om {author: {Dina Maria Pop}, {rcId: {175892}}
+A inviat un om {composer: {Dina Maria Pop}, {rcId: {175892}}
 
 [sequence]
 v1,c,v2,c,v3,c

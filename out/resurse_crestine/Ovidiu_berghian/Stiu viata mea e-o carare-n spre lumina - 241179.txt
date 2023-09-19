@@ -1,5 +1,5 @@
 [title]
-Stiu viata mea e-o carare-n spre lumina {author: {Ovidiu Berghian}, {rcId: {241179}}
+Stiu viata mea e-o carare-n spre lumina {composer: {Ovidiu Berghian}, {rcId: {241179}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Batea o aripa de vant {author: {Anonim}, {rcId: {55960}}
+Batea o aripa de vant {composer: {Anonim}, {rcId: {55960}}
 
 [sequence]
 v1,c,v2,c,v3,c

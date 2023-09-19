@@ -1,5 +1,5 @@
 [title]
-N-auzi tu pasii lui duiosi {author: {Nicolae Moldoveanu}, {rcId: {246218}}
+N-auzi tu pasii lui duiosi {composer: {Nicolae Moldoveanu}, {rcId: {246218}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

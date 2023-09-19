@@ -1,5 +1,5 @@
 [title]
-Iubirea ta {author: {Tabara 477}, {rcId: {197725}}
+Iubirea ta {composer: {Tabara 477}, {rcId: {197725}}
 
 [sequence]
 v1,c,v2,c

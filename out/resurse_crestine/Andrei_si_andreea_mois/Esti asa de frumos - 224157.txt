@@ -1,5 +1,5 @@
 [title]
-Esti asa de frumos {author: {Andrei si Andreea Mois}, {rcId: {224157}}
+Esti asa de frumos {composer: {Andrei si Andreea Mois}, {rcId: {224157}}
 
 [sequence]
 v1

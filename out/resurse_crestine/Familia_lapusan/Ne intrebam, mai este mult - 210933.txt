@@ -1,5 +1,5 @@
 [title]
-Ne intrebam mai este mult {author: {familia Lăpușan}, {rcId: {210933}}
+Ne intrebam mai este mult {composer: {familia Lăpușan}, {rcId: {210933}}
 
 [sequence]
 v1,c,v2,c,v3,c2

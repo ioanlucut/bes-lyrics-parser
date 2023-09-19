@@ -1,5 +1,5 @@
 [title]
-Strabatand lumea {author: {Daniela Haidaciuc}, {rcId: {172380}}
+Strabatand lumea {composer: {Daniela Haidaciuc}, {rcId: {172380}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

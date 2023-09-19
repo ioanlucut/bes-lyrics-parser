@@ -1,5 +1,5 @@
 [title]
-Unul pentru toti {author: {Anonim}, {rcId: {110343}}
+Unul pentru toti {composer: {Anonim}, {rcId: {110343}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

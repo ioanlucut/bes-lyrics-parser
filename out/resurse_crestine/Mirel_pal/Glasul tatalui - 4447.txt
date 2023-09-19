@@ -1,5 +1,5 @@
 [title]
-Glasul tatalui {author: {Mirel Pal}, {rcId: {4447}}
+Glasul tatalui {composer: {Mirel Pal}, {rcId: {4447}}
 
 [sequence]
 v1,e,v2,v3

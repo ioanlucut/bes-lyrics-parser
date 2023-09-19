@@ -1,5 +1,5 @@
 [title]
-E frumos sa fii crestin {author: {Andreea Popoi}, {rcId: {63098}}
+E frumos sa fii crestin {composer: {Andreea Popoi}, {rcId: {63098}}
 
 [sequence]
 v1,v2,v3,v4

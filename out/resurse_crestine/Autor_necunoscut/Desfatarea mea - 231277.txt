@@ -1,5 +1,5 @@
 [title]
-Desfatarea mea {author: {Anonim}, {rcId: {231277}}
+Desfatarea mea {composer: {Anonim}, {rcId: {231277}}
 
 [sequence]
 v1,c,b,c,e,c

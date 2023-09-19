@@ -1,5 +1,5 @@
 [title]
-Cinste cinste mielului {author: {Anonim}, {rcId: {74549}}
+Cinste cinste mielului {composer: {Anonim}, {rcId: {74549}}
 
 [sequence]
 v1,c

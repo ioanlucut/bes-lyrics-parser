@@ -1,5 +1,5 @@
 [title]
-Carari straine {author: {Anonim}, {rcId: {58976}}
+Carari straine {composer: {Anonim}, {rcId: {58976}}
 
 [sequence]
 v1,c,v2,c

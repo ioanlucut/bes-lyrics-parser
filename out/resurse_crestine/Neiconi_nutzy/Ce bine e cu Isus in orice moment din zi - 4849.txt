@@ -1,5 +1,5 @@
 [title]
-Ce bine e cu isus in orice moment din zi {author: {Neiconi Nutzy}, {rcId: {4849}}
+Ce bine e cu isus in orice moment din zi {composer: {Neiconi Nutzy}, {rcId: {4849}}
 
 [sequence]
 v1,v2,v3

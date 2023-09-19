@@ -1,5 +1,5 @@
 [title]
-The blessing - domnul fie cu tine {author: {Kari Jobe, BBSO}, {rcId: {202297}}
+The blessing - domnul fie cu tine {composer: {Kari Jobe, BBSO}, {rcId: {202297}}
 
 [sequence]
 v1,c,c,c,c

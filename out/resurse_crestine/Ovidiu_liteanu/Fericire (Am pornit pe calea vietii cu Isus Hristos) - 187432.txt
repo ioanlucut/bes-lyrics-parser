@@ -1,5 +1,5 @@
 [title]
-Fericire (am pornit pe calea vietii cu isus hristos) {author: {Ovidiu Liteanu}, {rcId: {187432}}
+Fericire (am pornit pe calea vietii cu isus hristos) {composer: {Ovidiu Liteanu}, {rcId: {187432}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

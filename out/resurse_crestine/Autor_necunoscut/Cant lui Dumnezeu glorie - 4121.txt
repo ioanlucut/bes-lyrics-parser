@@ -1,5 +1,5 @@
 [title]
-Cant lui dumnezeu glorie {author: {Anonim}, {rcId: {4121}}
+Cant lui dumnezeu glorie {composer: {Anonim}, {rcId: {4121}}
 
 [sequence]
 v1,c,v2,c,v3,c

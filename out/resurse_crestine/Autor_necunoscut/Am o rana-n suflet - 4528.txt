@@ -1,5 +1,5 @@
 [title]
-Am o rana-n suflet {author: {Anonim}, {rcId: {4528}}
+Am o rana-n suflet {composer: {Anonim}, {rcId: {4528}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

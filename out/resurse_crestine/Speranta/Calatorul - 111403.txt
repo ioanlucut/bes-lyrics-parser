@@ -1,5 +1,5 @@
 [title]
-Calatorul {author: {Speranța}, {rcId: {111403}}
+Calatorul {composer: {Speranța}, {rcId: {111403}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

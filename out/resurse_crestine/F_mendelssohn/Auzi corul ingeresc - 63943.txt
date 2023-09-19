@@ -1,5 +1,5 @@
 [title]
-Auzi corul ingeresc {author: {F. Mendelssohn}, {rcId: {63943}}
+Auzi corul ingeresc {composer: {F. Mendelssohn}, {rcId: {63943}}
 
 [sequence]
 v1,v2,v3

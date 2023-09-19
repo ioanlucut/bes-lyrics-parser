@@ -1,5 +1,5 @@
 [title]
-Al vesniciei gand (one sweetly solemn thought) {author: {Phoebe Cary, Philip Phillips, Traducere RO}, {rcId: {229351}}
+Al vesniciei gand (one sweetly solemn thought) {composer: {Phoebe Cary, Philip Phillips, Traducere RO}, {rcId: {229351}}
 
 [sequence]
 v1,c,v2,c,v3,c

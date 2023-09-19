@@ -1,5 +1,5 @@
 [title]
-Nu ma stie {author: {Sanja Cristea Tiberian}, {rcId: {2854}}
+Nu ma stie {composer: {Sanja Cristea Tiberian}, {rcId: {2854}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4,c5

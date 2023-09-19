@@ -1,5 +1,5 @@
 [title]
-Iti multumesc pentru ce mi-ai daruit {author: {James, Russell, Ed Easter}, {rcId: {169385}}
+Iti multumesc pentru ce mi-ai daruit {composer: {James, Russell, Ed Easter}, {rcId: {169385}}
 
 [sequence]
 v1,c,v2,c

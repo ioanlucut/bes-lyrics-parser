@@ -1,5 +1,5 @@
 [title]
-Te chem te caut {author: {Cristiana Văduva}, {rcId: {219627}}
+Te chem te caut {composer: {Cristiana Văduva}, {rcId: {219627}}
 
 [sequence]
 v1,v2,c,v3,c

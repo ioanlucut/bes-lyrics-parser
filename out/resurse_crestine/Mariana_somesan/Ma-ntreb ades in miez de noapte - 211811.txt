@@ -1,5 +1,5 @@
 [title]
-Ma-ntreb ades in miez de noapte {author: {Mariana Someșan}, {rcId: {211811}}
+Ma-ntreb ades in miez de noapte {composer: {Mariana Someșan}, {rcId: {211811}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

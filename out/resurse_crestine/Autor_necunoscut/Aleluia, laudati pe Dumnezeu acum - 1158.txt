@@ -1,5 +1,5 @@
 [title]
-Aleluia laudati pe dumnezeu acum {author: {Anonim}, {rcId: {1158}}
+Aleluia laudati pe dumnezeu acum {composer: {Anonim}, {rcId: {1158}}
 
 [sequence]
 v1,c

@@ -1,5 +1,5 @@
 [title]
-Dorul meu {author: {Iulia Contis}, {rcId: {246075}}
+Dorul meu {composer: {Iulia Contis}, {rcId: {246075}}
 
 [sequence]
 v1,c,v2,c

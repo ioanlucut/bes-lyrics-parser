@@ -1,5 +1,5 @@
 [title]
-O tu ce de-atata vreme {author: {Nicolae Moldoveanu}, {rcId: {5405}}
+O tu ce de-atata vreme {composer: {Nicolae Moldoveanu}, {rcId: {5405}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

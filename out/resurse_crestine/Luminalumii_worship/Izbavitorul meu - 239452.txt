@@ -1,5 +1,5 @@
 [title]
-Izbavitorul meu {author: {LuminaLumii Worship}, {rcId: {239452}}
+Izbavitorul meu {composer: {LuminaLumii Worship}, {rcId: {239452}}
 
 [sequence]
 v1,c,v2,c,e

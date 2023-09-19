@@ -1,5 +1,5 @@
 [title]
-Avem in cer o casa {author: {Anonim}, {rcId: {74577}}
+Avem in cer o casa {composer: {Anonim}, {rcId: {74577}}
 
 [sequence]
 v1,c,v2,c,v3,c

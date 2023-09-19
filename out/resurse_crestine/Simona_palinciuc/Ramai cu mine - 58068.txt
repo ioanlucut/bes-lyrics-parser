@@ -1,5 +1,5 @@
 [title]
-Ramai cu mine {author: {Simona Palinciuc}, {rcId: {58068}}
+Ramai cu mine {composer: {Simona Palinciuc}, {rcId: {58068}}
 
 [sequence]
 v1,c,v2,c

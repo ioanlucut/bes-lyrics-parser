@@ -1,5 +1,5 @@
 [title]
-Asa cum pomul se-nalta {author: {Ionel Saran}, {rcId: {128257}}
+Asa cum pomul se-nalta {composer: {Ionel Saran}, {rcId: {128257}}
 
 [sequence]
 v1,c,v2,c,v3,c

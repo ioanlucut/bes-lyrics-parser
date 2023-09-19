@@ -1,5 +1,5 @@
 [title]
-Pentru ce sa ma framant? {author: {Frații Fedur}, {rcId: {93903}}
+Pentru ce sa ma framant? {composer: {Frații Fedur}, {rcId: {93903}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

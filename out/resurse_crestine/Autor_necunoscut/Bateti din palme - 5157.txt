@@ -1,5 +1,5 @@
 [title]
-Bateti din palme {author: {Anonim}, {rcId: {5157}}
+Bateti din palme {composer: {Anonim}, {rcId: {5157}}
 
 [sequence]
 c,v1,c,v2,c

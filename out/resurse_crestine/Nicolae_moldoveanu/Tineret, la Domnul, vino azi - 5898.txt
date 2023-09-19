@@ -1,5 +1,5 @@
 [title]
-Tineret la domnul vino azi {author: {Nicolae Moldoveanu}, {rcId: {5898}}
+Tineret la domnul vino azi {composer: {Nicolae Moldoveanu}, {rcId: {5898}}
 
 [sequence]
 v1,c,v2,c

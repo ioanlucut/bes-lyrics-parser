@@ -1,5 +1,5 @@
 [title]
-Dumnezeu ne e salvarea {author: {Anonim}, {rcId: {3122}}
+Dumnezeu ne e salvarea {composer: {Anonim}, {rcId: {3122}}
 
 [sequence]
 v1,v3,v3,v4

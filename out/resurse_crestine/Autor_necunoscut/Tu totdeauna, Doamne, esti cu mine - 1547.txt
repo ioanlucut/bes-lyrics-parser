@@ -1,5 +1,5 @@
 [title]
-Tu totdeauna doamne esti cu mine {author: {Anonim}, {rcId: {1547}}
+Tu totdeauna doamne esti cu mine {composer: {Anonim}, {rcId: {1547}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c,v5,c,v6,c

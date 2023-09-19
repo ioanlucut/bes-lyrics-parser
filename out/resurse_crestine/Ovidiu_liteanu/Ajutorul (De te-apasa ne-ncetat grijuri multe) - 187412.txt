@@ -1,5 +1,5 @@
 [title]
-Ajutorul (de te-apasa ne-ncetat grijuri multe) {author: {Ovidiu Liteanu}, {rcId: {187412}}
+Ajutorul (de te-apasa ne-ncetat grijuri multe) {composer: {Ovidiu Liteanu}, {rcId: {187412}}
 
 [sequence]
 v1,v2,v3,v4

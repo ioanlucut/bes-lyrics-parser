@@ -1,5 +1,5 @@
 [title]
-Biblie carte eterna {author: {Nicu Wagner}, {rcId: {61674}}
+Biblie carte eterna {composer: {Nicu Wagner}, {rcId: {61674}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

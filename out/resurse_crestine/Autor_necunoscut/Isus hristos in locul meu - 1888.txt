@@ -1,5 +1,5 @@
 [title]
-Isus hristos in locul meu {author: {Anonim}, {rcId: {1888}}
+Isus hristos in locul meu {composer: {Anonim}, {rcId: {1888}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

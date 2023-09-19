@@ -1,5 +1,5 @@
 [title]
-Tara mea din departari {author: {Alexandru Groza}, {rcId: {185411}}
+Tara mea din departari {composer: {Alexandru Groza}, {rcId: {185411}}
 
 [sequence]
 v1,c,v2,c

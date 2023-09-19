@@ -1,5 +1,5 @@
 [title]
-Raspunde-mi cand strig {author: {Frații Wagner}, {rcId: {74194}}
+Raspunde-mi cand strig {composer: {Frații Wagner}, {rcId: {74194}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

@@ -1,5 +1,5 @@
 [title]
-Stiu ca tu nu vrei nici jertfe si nici daruri {author: {Anonim}, {rcId: {6725}}
+Stiu ca tu nu vrei nici jertfe si nici daruri {composer: {Anonim}, {rcId: {6725}}
 
 [sequence]
 v1,c,v2,c

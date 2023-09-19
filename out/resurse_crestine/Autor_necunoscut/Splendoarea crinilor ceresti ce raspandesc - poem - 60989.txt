@@ -1,5 +1,5 @@
 [title]
-Splendoarea crinilor ceresti ce raspandesc - poem {author: {Anonim}, {rcId: {60989}}
+Splendoarea crinilor ceresti ce raspandesc - poem {composer: {Anonim}, {rcId: {60989}}
 
 [sequence]
 v1,s,v2,s,v3,s,v4,s,v5,s,v6

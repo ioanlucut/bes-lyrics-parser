@@ -1,5 +1,5 @@
 [title]
-Sa nu cartesti (si) {author: {Mirela Ursulescu}, {rcId: {176662}}
+Sa nu cartesti (si) {composer: {Mirela Ursulescu}, {rcId: {176662}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Multumim si laudam pe domnul {author: {Anonim}, {rcId: {224266}}
+Multumim si laudam pe domnul {composer: {Anonim}, {rcId: {224266}}
 
 [sequence]
 v1,c,v2,c,v3,c

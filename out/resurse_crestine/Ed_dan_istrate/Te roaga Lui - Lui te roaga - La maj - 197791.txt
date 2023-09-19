@@ -1,5 +1,5 @@
 [title]
-Te roaga lui / lui te roaga - la maj {author: {ed. Dan Istrate}, {rcId: {197791}}
+Te roaga lui / lui te roaga - la maj {composer: {ed. Dan Istrate}, {rcId: {197791}}
 
 [sequence]
 v1,v2,v3

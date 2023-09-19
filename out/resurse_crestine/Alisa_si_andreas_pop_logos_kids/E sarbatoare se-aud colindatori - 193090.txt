@@ -1,5 +1,5 @@
 [title]
-E sarbatoare se-aud colindatori {author: {Alisa si Andreas Pop, Logos Kids}, {rcId: {193090}}
+E sarbatoare se-aud colindatori {composer: {Alisa si Andreas Pop, Logos Kids}, {rcId: {193090}}
 
 [sequence]
 c,s,s2,c2,c3

@@ -1,5 +1,5 @@
 [title]
-Isus a zis: cine vrea a ma urma {author: {Autor necunoscut}, {rcId: {242182}}
+Isus a zis: cine vrea a ma urma {composer: {Autor necunoscut}, {rcId: {242182}}
 
 [sequence]
 v1,c,v2,c,v3,c

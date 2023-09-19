@@ -1,5 +1,5 @@
 [title]
-Unde pleci {author: {Alin și Florina Jivan}, {rcId: {102530}}
+Unde pleci {composer: {Alin și Florina Jivan}, {rcId: {102530}}
 
 [sequence]
 v1,v2,v3

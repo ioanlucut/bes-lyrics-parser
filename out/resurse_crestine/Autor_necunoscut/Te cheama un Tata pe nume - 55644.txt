@@ -1,5 +1,5 @@
 [title]
-Te cheama un tata pe nume {author: {Anonim}, {rcId: {55644}}
+Te cheama un tata pe nume {composer: {Anonim}, {rcId: {55644}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

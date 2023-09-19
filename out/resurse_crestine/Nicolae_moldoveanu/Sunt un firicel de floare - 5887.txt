@@ -1,5 +1,5 @@
 [title]
-Sunt un firicel de floare {author: {Nicolae Moldoveanu}, {rcId: {5887}}
+Sunt un firicel de floare {composer: {Nicolae Moldoveanu}, {rcId: {5887}}
 
 [sequence]
 v1,v2,v3,v4,v5

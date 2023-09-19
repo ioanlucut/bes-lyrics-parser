@@ -1,5 +1,5 @@
 [title]
-Ce minunat imparat {author: {Anonim}, {rcId: {236321}}
+Ce minunat imparat {composer: {Anonim}, {rcId: {236321}}
 
 [sequence]
 v1,c,v2,b,c,v3,c

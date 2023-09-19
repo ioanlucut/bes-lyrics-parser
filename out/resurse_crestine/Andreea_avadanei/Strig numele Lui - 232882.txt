@@ -1,5 +1,5 @@
 [title]
-Strig numele lui {author: {Andreea Avădanei}, {rcId: {232882}}
+Strig numele lui {composer: {Andreea Avădanei}, {rcId: {232882}}
 
 [sequence]
 v1,c,v2,c,e

@@ -1,5 +1,5 @@
 [title]
-Toarna doamne {author: {Anonim}, {rcId: {236091}}
+Toarna doamne {composer: {Anonim}, {rcId: {236091}}
 
 [sequence]
 v1,c,v2,c,v3,c

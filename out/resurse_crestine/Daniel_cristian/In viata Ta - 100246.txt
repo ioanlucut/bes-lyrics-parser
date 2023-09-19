@@ -1,5 +1,5 @@
 [title]
-In viata ta {author: {Daniel Cristian}, {rcId: {100246}}
+In viata ta {composer: {Daniel Cristian}, {rcId: {100246}}
 
 [sequence]
 v1,c,v2,c,v3,c

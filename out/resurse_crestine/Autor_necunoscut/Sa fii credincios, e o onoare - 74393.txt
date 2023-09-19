@@ -1,5 +1,5 @@
 [title]
-Sa fii credincios e o onoare {author: {Anonim}, {rcId: {74393}}
+Sa fii credincios e o onoare {composer: {Anonim}, {rcId: {74393}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Duhuri tot mai indarjite {author: {Nicolae Moldoveanu}, {rcId: {5657}}
+Duhuri tot mai indarjite {composer: {Nicolae Moldoveanu}, {rcId: {5657}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

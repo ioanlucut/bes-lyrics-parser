@@ -1,5 +1,5 @@
 [title]
-Veniti eu va voi spune {author: {William G.Fischer}, {rcId: {1757}}
+Veniti eu va voi spune {composer: {William G.Fischer}, {rcId: {1757}}
 
 [sequence]
 v1,c,v2,c,v3,c

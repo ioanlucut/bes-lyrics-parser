@@ -1,5 +1,5 @@
 [title]
-Vreau roadele duhului sfant {author: {Anonim}, {rcId: {147900}}
+Vreau roadele duhului sfant {composer: {Anonim}, {rcId: {147900}}
 
 [sequence]
 c,v1,c,v1,c

@@ -1,5 +1,5 @@
 [title]
-Binecuvanteaza suflete pe domnul {author: {Alexandru Groza}, {rcId: {185325}}
+Binecuvanteaza suflete pe domnul {composer: {Alexandru Groza}, {rcId: {185325}}
 
 [sequence]
 v1,c,s,c,v3,c

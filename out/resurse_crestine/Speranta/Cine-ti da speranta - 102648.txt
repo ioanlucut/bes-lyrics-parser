@@ -1,5 +1,5 @@
 [title]
-Cine-ti da speranta {author: {Speranța}, {rcId: {102648}}
+Cine-ti da speranta {composer: {Speranța}, {rcId: {102648}}
 
 [sequence]
 v1,c,v2,b,c

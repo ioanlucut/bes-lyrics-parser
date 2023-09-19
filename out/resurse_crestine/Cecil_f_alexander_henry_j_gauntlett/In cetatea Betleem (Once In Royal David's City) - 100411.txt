@@ -1,5 +1,5 @@
 [title]
-In cetatea betleem (once in royal david s city) {author: {Cecil F. Alexander, Henry J. Gauntlett, Traducere RO}, {rcId: {100411}}
+In cetatea betleem (once in royal david s city) {composer: {Cecil F. Alexander, Henry J. Gauntlett, Traducere RO}, {rcId: {100411}}
 
 [sequence]
 v1,v2,v3,v4,s

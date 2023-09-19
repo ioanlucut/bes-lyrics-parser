@@ -1,5 +1,5 @@
 [title]
-Nu mai e mult isus revine {author: {Claudia Danciu}, {rcId: {174561}}
+Nu mai e mult isus revine {composer: {Claudia Danciu}, {rcId: {174561}}
 
 [sequence]
 v1,c,v2,c

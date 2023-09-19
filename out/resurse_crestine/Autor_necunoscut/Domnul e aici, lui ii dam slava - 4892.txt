@@ -1,5 +1,5 @@
 [title]
-Domnul e aici lui ii dam slava {author: {Anonim}, {rcId: {4892}}
+Domnul e aici lui ii dam slava {composer: {Anonim}, {rcId: {4892}}
 
 [sequence]
 v1,v2

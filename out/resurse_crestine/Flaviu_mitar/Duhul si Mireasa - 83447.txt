@@ -1,5 +1,5 @@
 [title]
-Duhul si mireasa {author: {Flaviu Mitar}, {rcId: {83447}}
+Duhul si mireasa {composer: {Flaviu Mitar}, {rcId: {83447}}
 
 [sequence]
 c,v1,c2,v2,c,c2,e,c

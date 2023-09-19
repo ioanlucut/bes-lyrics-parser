@@ -1,5 +1,5 @@
 [title]
-Asculta doamne glasul care striga {author: {Tripon Beniamin}, {rcId: {188944}}
+Asculta doamne glasul care striga {composer: {Tripon Beniamin}, {rcId: {188944}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

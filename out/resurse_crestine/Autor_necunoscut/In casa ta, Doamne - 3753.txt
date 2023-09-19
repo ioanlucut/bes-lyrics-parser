@@ -1,5 +1,5 @@
 [title]
-In casa ta doamne {author: {Anonim}, {rcId: {3753}}
+In casa ta doamne {composer: {Anonim}, {rcId: {3753}}
 
 [sequence]
 v1,c,v2,c,v3,c

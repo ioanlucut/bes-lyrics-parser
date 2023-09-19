@@ -1,5 +1,5 @@
 [title]
-Odata-ntr-o vreme trecuta {author: {David Stănuș}, {rcId: {205217}}
+Odata-ntr-o vreme trecuta {composer: {David Stănuș}, {rcId: {205217}}
 
 [sequence]
 v1,c,v2,c,v3,c

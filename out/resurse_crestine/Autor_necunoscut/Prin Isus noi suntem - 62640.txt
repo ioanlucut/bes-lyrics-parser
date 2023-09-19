@@ -1,5 +1,5 @@
 [title]
-Prin isus noi suntem {author: {Anonim}, {rcId: {62640}}
+Prin isus noi suntem {composer: {Anonim}, {rcId: {62640}}
 
 [sequence]
 v1,c

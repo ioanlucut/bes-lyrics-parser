@@ -1,5 +1,5 @@
 [title]
-Ochii tai ochii tai doritori {author: {Nicolae Moldoveanu}, {rcId: {246555}}
+Ochii tai ochii tai doritori {composer: {Nicolae Moldoveanu}, {rcId: {246555}}
 
 [sequence]
 v1,v2,v3,v4

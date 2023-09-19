@@ -1,5 +1,5 @@
 [title]
-In inima mea {author: {Adi Gliga}, {rcId: {1592}}
+In inima mea {composer: {Adi Gliga}, {rcId: {1592}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c

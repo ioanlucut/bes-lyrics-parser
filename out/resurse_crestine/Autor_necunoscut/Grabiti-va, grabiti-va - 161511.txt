@@ -1,5 +1,5 @@
 [title]
-Grabiti-va grabiti-va {author: {Anonim}, {rcId: {161511}}
+Grabiti-va grabiti-va {composer: {Anonim}, {rcId: {161511}}
 
 [sequence]
 v1,c,v2,c,v3,c

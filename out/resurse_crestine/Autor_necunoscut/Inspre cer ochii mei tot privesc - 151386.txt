@@ -1,5 +1,5 @@
 [title]
-Inspre cer ochii mei tot privesc {author: {Anonim}, {rcId: {151386}}
+Inspre cer ochii mei tot privesc {composer: {Anonim}, {rcId: {151386}}
 
 [sequence]
 v1,c,v2,c,v3,c

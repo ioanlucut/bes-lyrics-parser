@@ -1,5 +1,5 @@
 [title]
-Trait-am ani din viata mea sub masca unui cult {author: {Anonim}, {rcId: {93732}}
+Trait-am ani din viata mea sub masca unui cult {composer: {Anonim}, {rcId: {93732}}
 
 [sequence]
 v1,v2,v3,v4

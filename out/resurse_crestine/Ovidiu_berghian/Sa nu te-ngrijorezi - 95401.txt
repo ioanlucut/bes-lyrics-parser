@@ -1,5 +1,5 @@
 [title]
-Sa nu te-ngrijorezi {author: {Ovidiu Berghian}, {rcId: {95401}}
+Sa nu te-ngrijorezi {composer: {Ovidiu Berghian}, {rcId: {95401}}
 
 [sequence]
 v1,v2,v3,v4

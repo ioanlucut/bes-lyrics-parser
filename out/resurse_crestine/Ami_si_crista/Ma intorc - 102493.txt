@@ -1,5 +1,5 @@
 [title]
-Ma intorc {author: {Ami și Crista}, {rcId: {102493}}
+Ma intorc {composer: {Ami și Crista}, {rcId: {102493}}
 
 [sequence]
 v1,c,v2,c

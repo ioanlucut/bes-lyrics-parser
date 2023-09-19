@@ -1,5 +1,5 @@
 [title]
-Ma-ntorc acasa {author: {Carmen Prodan}, {rcId: {153730}}
+Ma-ntorc acasa {composer: {Carmen Prodan}, {rcId: {153730}}
 
 [sequence]
 v1,c,v2,c,v3,c

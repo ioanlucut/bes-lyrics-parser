@@ -1,5 +1,5 @@
 [title]
-La poarta oilor era {author: {Miron Cornel}, {rcId: {77471}}
+La poarta oilor era {composer: {Miron Cornel}, {rcId: {77471}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

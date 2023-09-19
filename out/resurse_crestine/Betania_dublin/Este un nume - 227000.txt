@@ -1,5 +1,5 @@
 [title]
-Este un nume {author: {Betania Dublin}, {rcId: {227000}}
+Este un nume {composer: {Betania Dublin}, {rcId: {227000}}
 
 [sequence]
 v1,c,v2,b,c

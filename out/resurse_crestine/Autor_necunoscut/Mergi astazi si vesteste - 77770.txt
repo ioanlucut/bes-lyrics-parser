@@ -1,5 +1,5 @@
 [title]
-Mergi astazi si vesteste {author: {Anonim}, {rcId: {77770}}
+Mergi astazi si vesteste {composer: {Anonim}, {rcId: {77770}}
 
 [sequence]
 v1,c

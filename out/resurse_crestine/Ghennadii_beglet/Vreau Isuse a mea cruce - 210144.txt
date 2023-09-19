@@ -1,5 +1,5 @@
 [title]
-Vreau isuse a mea cruce {author: {Ghennadii Beglet}, {rcId: {210144}}
+Vreau isuse a mea cruce {composer: {Ghennadii Beglet}, {rcId: {210144}}
 
 [sequence]
 v1,v2,v3,v4

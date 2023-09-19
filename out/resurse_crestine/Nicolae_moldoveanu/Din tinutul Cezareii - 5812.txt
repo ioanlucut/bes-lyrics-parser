@@ -1,5 +1,5 @@
 [title]
-Din tinutul cezareii {author: {Nicolae Moldoveanu}, {rcId: {5812}}
+Din tinutul cezareii {composer: {Nicolae Moldoveanu}, {rcId: {5812}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

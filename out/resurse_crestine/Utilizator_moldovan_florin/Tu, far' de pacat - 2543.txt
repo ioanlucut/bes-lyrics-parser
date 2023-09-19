@@ -1,5 +1,5 @@
 [title]
-Tu far de pacat {author: {Utilizator Moldovan Florin}, {rcId: {2543}}
+Tu far de pacat {composer: {Utilizator Moldovan Florin}, {rcId: {2543}}
 
 [sequence]
 v1,c,v2,c

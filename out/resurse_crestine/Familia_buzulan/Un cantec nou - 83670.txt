@@ -1,5 +1,5 @@
 [title]
-Un cantec nou {author: {Familia Buzulan}, {rcId: {83670}}
+Un cantec nou {composer: {Familia Buzulan}, {rcId: {83670}}
 
 [sequence]
 v1,c,v2,c,v3,c

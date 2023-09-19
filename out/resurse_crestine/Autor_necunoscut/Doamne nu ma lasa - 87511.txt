@@ -1,5 +1,5 @@
 [title]
-Doamne nu ma lasa {author: {Anonim}, {rcId: {87511}}
+Doamne nu ma lasa {composer: {Anonim}, {rcId: {87511}}
 
 [sequence]
 v1,c,v2,c,e

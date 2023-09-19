@@ -1,5 +1,5 @@
 [title]
-Ierusalim {author: {Messis}, {rcId: {164314}}
+Ierusalim {composer: {Messis}, {rcId: {164314}}
 
 [sequence]
 v1,c,v2,c

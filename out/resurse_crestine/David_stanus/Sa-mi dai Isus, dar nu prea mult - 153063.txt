@@ -1,5 +1,5 @@
 [title]
-Sa-mi dai isus dar nu prea mult {author: {David Stănuș}, {rcId: {153063}}
+Sa-mi dai isus dar nu prea mult {composer: {David Stănuș}, {rcId: {153063}}
 
 [sequence]
 v1,v2,v3,v4

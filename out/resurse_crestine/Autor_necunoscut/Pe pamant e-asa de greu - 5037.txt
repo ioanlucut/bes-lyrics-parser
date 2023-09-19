@@ -1,5 +1,5 @@
 [title]
-Pe pamant e-asa de greu {author: {Anonim}, {rcId: {5037}}
+Pe pamant e-asa de greu {composer: {Anonim}, {rcId: {5037}}
 
 [sequence]
 v1,v2,v3,c

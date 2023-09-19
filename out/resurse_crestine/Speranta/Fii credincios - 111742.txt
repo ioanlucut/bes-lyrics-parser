@@ -1,5 +1,5 @@
 [title]
-Fii credincios {author: {Speranța}, {rcId: {111742}}
+Fii credincios {composer: {Speranța}, {rcId: {111742}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Oare cine ne iubeste {author: {Nicolae Moldoveanu}, {rcId: {5912}}
+Oare cine ne iubeste {composer: {Nicolae Moldoveanu}, {rcId: {5912}}
 
 [sequence]
 v1,c,v2,c,v3,c

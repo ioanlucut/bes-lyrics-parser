@@ -1,5 +1,5 @@
 [title]
-Prea mic {author: {Adi Gliga}, {rcId: {159190}}
+Prea mic {composer: {Adi Gliga}, {rcId: {159190}}
 
 [sequence]
 v1,c,v2,c

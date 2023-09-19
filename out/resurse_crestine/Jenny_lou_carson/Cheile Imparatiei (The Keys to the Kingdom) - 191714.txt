@@ -1,5 +1,5 @@
 [title]
-Cheile imparatiei (the keys to the kingdom) {author: {Jenny Lou Carson, Traducere RO}, {rcId: {191714}}
+Cheile imparatiei (the keys to the kingdom) {composer: {Jenny Lou Carson, Traducere RO}, {rcId: {191714}}
 
 [sequence]
 v1,v2

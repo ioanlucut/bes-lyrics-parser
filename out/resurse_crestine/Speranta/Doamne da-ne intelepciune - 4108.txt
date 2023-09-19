@@ -1,5 +1,5 @@
 [title]
-Doamne da-ne intelepciune {author: {Speranța}, {rcId: {4108}}
+Doamne da-ne intelepciune {composer: {Speranța}, {rcId: {4108}}
 
 [sequence]
 v1,c,v2,c

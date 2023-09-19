@@ -1,5 +1,5 @@
 [title]
-Conducator mi-ai fost (shepherd of love) {author: {John W. Peterson, Traducere RO}, {rcId: {118732}}
+Conducator mi-ai fost (shepherd of love) {composer: {John W. Peterson, Traducere RO}, {rcId: {118732}}
 
 [sequence]
 v1,c,v2,c,v3,c,s,c

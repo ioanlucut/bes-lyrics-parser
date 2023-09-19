@@ -1,5 +1,5 @@
 [title]
-Esti ca o frunza calatoare {author: {Anonim}, {rcId: {158873}}
+Esti ca o frunza calatoare {composer: {Anonim}, {rcId: {158873}}
 
 [sequence]
 v1,c,v2,c

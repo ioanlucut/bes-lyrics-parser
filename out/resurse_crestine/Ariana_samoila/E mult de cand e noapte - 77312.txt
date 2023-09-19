@@ -1,5 +1,5 @@
 [title]
-E mult de cand e noapte {author: {Ariana Samoila}, {rcId: {77312}}
+E mult de cand e noapte {composer: {Ariana Samoila}, {rcId: {77312}}
 
 [sequence]
 v1,c,v2,c2

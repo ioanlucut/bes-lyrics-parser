@@ -1,5 +1,5 @@
 [title]
-Doamne iarta {author: {Anonim}, {rcId: {210338}}
+Doamne iarta {composer: {Anonim}, {rcId: {210338}}
 
 [sequence]
 v1,c,v2,c

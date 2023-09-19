@@ -1,5 +1,5 @@
 [title]
-Ne inchinam in fata ta {author: {Anonim}, {rcId: {140340}}
+Ne inchinam in fata ta {composer: {Anonim}, {rcId: {140340}}
 
 [sequence]
 v1,v2,v3,v4

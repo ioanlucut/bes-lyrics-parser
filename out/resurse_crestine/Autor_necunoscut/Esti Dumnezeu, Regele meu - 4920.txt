@@ -1,5 +1,5 @@
 [title]
-Esti dumnezeu regele meu {author: {Anonim}, {rcId: {4920}}
+Esti dumnezeu regele meu {composer: {Anonim}, {rcId: {4920}}
 
 [sequence]
 v1

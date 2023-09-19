@@ -1,5 +1,5 @@
 [title]
-Cantul cel mai minunat {author: {Geness}, {rcId: {115991}}
+Cantul cel mai minunat {composer: {Geness}, {rcId: {115991}}
 
 [sequence]
 v1,c,v2,c,e

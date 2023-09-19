@@ -1,5 +1,5 @@
 [title]
-Lasa-ti povara {author: {Vali Pentea Sava}, {rcId: {75128}}
+Lasa-ti povara {composer: {Vali Pentea Sava}, {rcId: {75128}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Domn si dumnezeu (one true god) {author: {Steven Curtis Chapman, Chris Tomlin, Matt Redman, Traducere RO}, {rcId: {179612}}
+Domn si dumnezeu (one true god) {composer: {Steven Curtis Chapman, Chris Tomlin, Matt Redman, Traducere RO}, {rcId: {179612}}
 
 [sequence]
 v1,c,v2,b,c,s,c

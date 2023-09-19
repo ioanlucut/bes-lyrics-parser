@@ -1,5 +1,5 @@
 [title]
-Vrem tata sfant sa te urmam {author: {Daniel Cristian}, {rcId: {99085}}
+Vrem tata sfant sa te urmam {composer: {Daniel Cristian}, {rcId: {99085}}
 
 [sequence]
 v1,c,v2,c

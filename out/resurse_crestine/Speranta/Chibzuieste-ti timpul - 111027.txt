@@ -1,5 +1,5 @@
 [title]
-Chibzuieste-ti timpul {author: {Speranța}, {rcId: {111027}}
+Chibzuieste-ti timpul {composer: {Speranța}, {rcId: {111027}}
 
 [sequence]
 v1,v2,v3,v4

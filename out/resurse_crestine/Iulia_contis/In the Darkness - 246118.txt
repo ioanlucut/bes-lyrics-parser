@@ -1,5 +1,5 @@
 [title]
-In the darkness {author: {Iulia Contis}, {rcId: {246118}}
+In the darkness {composer: {Iulia Contis}, {rcId: {246118}}
 
 [sequence]
 v1,v2

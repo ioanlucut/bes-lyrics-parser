@@ -1,5 +1,5 @@
 [title]
-O tu cel ce trezesti {author: {Nicolae Moldoveanu}, {rcId: {76056}}
+O tu cel ce trezesti {composer: {Nicolae Moldoveanu}, {rcId: {76056}}
 
 [sequence]
 v1,v2,v3

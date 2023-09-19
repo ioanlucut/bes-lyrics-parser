@@ -1,5 +1,5 @@
 [title]
-Nu te increde in oameni {author: {Mirela Ursulescu}, {rcId: {176596}}
+Nu te increde in oameni {composer: {Mirela Ursulescu}, {rcId: {176596}}
 
 [sequence]
 v1,v2,v3,v4

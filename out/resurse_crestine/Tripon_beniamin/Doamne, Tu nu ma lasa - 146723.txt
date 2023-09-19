@@ -1,5 +1,5 @@
 [title]
-Doamne tu nu ma lasa {author: {Tripon Beniamin}, {rcId: {146723}}
+Doamne tu nu ma lasa {composer: {Tripon Beniamin}, {rcId: {146723}}
 
 [sequence]
 v1,c,v2,c,v3,c

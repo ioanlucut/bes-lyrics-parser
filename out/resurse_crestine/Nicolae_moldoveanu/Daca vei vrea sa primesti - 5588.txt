@@ -1,5 +1,5 @@
 [title]
-Daca vei vrea sa primesti {author: {Nicolae Moldoveanu}, {rcId: {5588}}
+Daca vei vrea sa primesti {composer: {Nicolae Moldoveanu}, {rcId: {5588}}
 
 [sequence]
 v1,c,v2,c,v3,c

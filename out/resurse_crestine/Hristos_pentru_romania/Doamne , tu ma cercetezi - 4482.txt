@@ -1,5 +1,5 @@
 [title]
-Doamne tu ma cercetezi {author: {Hristos pentru România}, {rcId: {4482}}
+Doamne tu ma cercetezi {composer: {Hristos pentru România}, {rcId: {4482}}
 
 [sequence]
 v1,c,v2,c,v3,c

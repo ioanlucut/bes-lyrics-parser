@@ -1,5 +1,5 @@
 [title]
-Celui ce sade pe tron {author: {CristoCentric}, {rcId: {4854}}
+Celui ce sade pe tron {composer: {CristoCentric}, {rcId: {4854}}
 
 [sequence]
 v1,c

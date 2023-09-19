@@ -1,5 +1,5 @@
 [title]
-La tronul tau {author: {Puiu Chibici}, {rcId: {138147}}
+La tronul tau {composer: {Puiu Chibici}, {rcId: {138147}}
 
 [sequence]
 v1,v2,v3,v4

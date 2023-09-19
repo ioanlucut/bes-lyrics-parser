@@ -1,5 +1,5 @@
 [title]
-Veniti voi ceruri largi {author: {Nicolae Moldoveanu}, {rcId: {82587}}
+Veniti voi ceruri largi {composer: {Nicolae Moldoveanu}, {rcId: {82587}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c

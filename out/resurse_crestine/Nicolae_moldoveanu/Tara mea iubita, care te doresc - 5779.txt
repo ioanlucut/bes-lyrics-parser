@@ -1,5 +1,5 @@
 [title]
-Tara mea iubita care te doresc {author: {Nicolae Moldoveanu}, {rcId: {5779}}
+Tara mea iubita care te doresc {composer: {Nicolae Moldoveanu}, {rcId: {5779}}
 
 [sequence]
 v1,v2,v3,v4

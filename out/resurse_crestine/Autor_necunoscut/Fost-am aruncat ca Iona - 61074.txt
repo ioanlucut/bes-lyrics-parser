@@ -1,5 +1,5 @@
 [title]
-Fost-am aruncat ca iona {author: {Anonim}, {rcId: {61074}}
+Fost-am aruncat ca iona {composer: {Anonim}, {rcId: {61074}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

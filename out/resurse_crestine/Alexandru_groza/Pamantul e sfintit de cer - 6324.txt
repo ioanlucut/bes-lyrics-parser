@@ -1,5 +1,5 @@
 [title]
-Pamantul e sfintit de cer {author: {Alexandru Groza}, {rcId: {6324}}
+Pamantul e sfintit de cer {composer: {Alexandru Groza}, {rcId: {6324}}
 
 [sequence]
 v1,c,v2,c

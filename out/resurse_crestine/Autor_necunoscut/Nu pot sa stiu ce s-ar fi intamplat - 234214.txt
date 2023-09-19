@@ -1,5 +1,5 @@
 [title]
-Nu pot sa stiu ce s-ar fi intamplat {author: {Anonim}, {rcId: {234214}}
+Nu pot sa stiu ce s-ar fi intamplat {composer: {Anonim}, {rcId: {234214}}
 
 [sequence]
 v1,c,v2,c

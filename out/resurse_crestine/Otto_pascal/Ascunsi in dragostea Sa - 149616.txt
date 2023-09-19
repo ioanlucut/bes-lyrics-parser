@@ -1,5 +1,5 @@
 [title]
-Ascunsi in dragostea sa {author: {Otto Pascal}, {rcId: {149616}}
+Ascunsi in dragostea sa {composer: {Otto Pascal}, {rcId: {149616}}
 
 [sequence]
 v1,c,v2,c,v3,c

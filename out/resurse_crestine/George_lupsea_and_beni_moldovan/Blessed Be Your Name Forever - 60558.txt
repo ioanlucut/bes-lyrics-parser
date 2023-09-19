@@ -1,5 +1,5 @@
 [title]
-Blessed be your name forever {author: {George Lupsea and Beni Moldovan}, {rcId: {60558}}
+Blessed be your name forever {composer: {George Lupsea and Beni Moldovan}, {rcId: {60558}}
 
 [sequence]
 v1,c,v2,c2

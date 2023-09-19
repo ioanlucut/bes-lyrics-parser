@@ -1,5 +1,5 @@
 [title]
-In omenesti limbi de-as vorbi {author: {Anonim}, {rcId: {220294}}
+In omenesti limbi de-as vorbi {composer: {Anonim}, {rcId: {220294}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Promisiunea biruintei {author: {Lorena Iescău}, {rcId: {179962}}
+Promisiunea biruintei {composer: {Lorena Iescău}, {rcId: {179962}}
 
 [sequence]
 v1,c,v2,c,v3,c2

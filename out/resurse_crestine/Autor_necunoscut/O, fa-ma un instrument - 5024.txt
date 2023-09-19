@@ -1,5 +1,5 @@
 [title]
-O fa-ma un instrument {author: {Anonim}, {rcId: {5024}}
+O fa-ma un instrument {composer: {Anonim}, {rcId: {5024}}
 
 [sequence]
 v1,v2,v3,v4

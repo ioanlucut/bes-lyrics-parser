@@ -1,5 +1,5 @@
 [title]
-Lumina lumii din cer coborat-ai - light of the world here i am to worship - mi maj {author: {ed. Dan Istrate}, {rcId: {220907}}
+Lumina lumii din cer coborat-ai - light of the world here i am to worship - mi maj {composer: {ed. Dan Istrate}, {rcId: {220907}}
 
 [sequence]
 v1,v2,e

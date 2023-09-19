@@ -1,5 +1,5 @@
 [title]
-Izvorul jertfei {author: {The Messengers}, {rcId: {68863}}
+Izvorul jertfei {composer: {The Messengers}, {rcId: {68863}}
 
 [sequence]
 v1,c,v2,c

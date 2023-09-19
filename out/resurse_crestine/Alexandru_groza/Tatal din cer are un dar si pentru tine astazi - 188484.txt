@@ -1,5 +1,5 @@
 [title]
-Tatal din cer are un dar si pentru tine astazi {author: {Alexandru Groza}, {rcId: {188484}}
+Tatal din cer are un dar si pentru tine astazi {composer: {Alexandru Groza}, {rcId: {188484}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

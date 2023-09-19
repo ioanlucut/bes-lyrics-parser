@@ -1,5 +1,5 @@
 [title]
-Cristian vaduva si naomi nita - sfantul lui israel {author: {Cristian Văduva}, {rcId: {237352}}
+Cristian vaduva si naomi nita - sfantul lui israel {composer: {Cristian Văduva}, {rcId: {237352}}
 
 [sequence]
 v1,c,v2,c,v3,c

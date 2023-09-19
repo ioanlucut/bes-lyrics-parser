@@ -1,5 +1,5 @@
 [title]
-O zi cu soare {author: {Mirela Ursulescu}, {rcId: {71804}}
+O zi cu soare {composer: {Mirela Ursulescu}, {rcId: {71804}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

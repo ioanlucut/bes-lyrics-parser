@@ -1,5 +1,5 @@
 [title]
-Isus rasplata mea {author: {Excelsis Worship}, {rcId: {143549}}
+Isus rasplata mea {composer: {Excelsis Worship}, {rcId: {143549}}
 
 [sequence]
 v1,c,v2,c,e

@@ -1,5 +1,5 @@
 [title]
-Stanca vietii e scaparea {author: {Nicolae Moldoveanu}, {rcId: {5422}}
+Stanca vietii e scaparea {composer: {Nicolae Moldoveanu}, {rcId: {5422}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

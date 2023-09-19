@@ -1,5 +1,5 @@
 [title]
-Sunt in valea plangerii dar eu cant si-s bucuros {author: {Vasile Cățănaș}, {rcId: {103555}}
+Sunt in valea plangerii dar eu cant si-s bucuros {composer: {Vasile Cățănaș}, {rcId: {103555}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

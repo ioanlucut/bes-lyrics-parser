@@ -1,5 +1,5 @@
 [title]
-Voi copiii {author: {Nicolae Moldoveanu}, {rcId: {230853}}
+Voi copiii {composer: {Nicolae Moldoveanu}, {rcId: {230853}}
 
 [sequence]
 v1,v2,v3

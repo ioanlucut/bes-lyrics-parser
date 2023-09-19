@@ -1,5 +1,5 @@
 [title]
-Doamne sunt al tau {author: {William H.Doane}, {rcId: {4819}}
+Doamne sunt al tau {composer: {William H.Doane}, {rcId: {4819}}
 
 [sequence]
 v1,c,v2,c,v3,c

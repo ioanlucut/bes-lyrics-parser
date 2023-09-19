@@ -1,5 +1,5 @@
 [title]
-Laudat sa fii isuse {author: {Cristian Văduva}, {rcId: {118495}}
+Laudat sa fii isuse {composer: {Cristian Văduva}, {rcId: {118495}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Ramai cu a ta mila {author: {Anonim}, {rcId: {1351}}
+Ramai cu a ta mila {composer: {Anonim}, {rcId: {1351}}
 
 [sequence]
 v1,v2,v3,v4,v5

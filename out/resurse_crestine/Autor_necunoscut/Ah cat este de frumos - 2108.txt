@@ -1,5 +1,5 @@
 [title]
-Ah cat este de frumos {author: {Anonim}, {rcId: {2108}}
+Ah cat este de frumos {composer: {Anonim}, {rcId: {2108}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Implineste-ti misiunea {author: {Ilie Mandici}, {rcId: {5836}}
+Implineste-ti misiunea {composer: {Ilie Mandici}, {rcId: {5836}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4,v5,c5

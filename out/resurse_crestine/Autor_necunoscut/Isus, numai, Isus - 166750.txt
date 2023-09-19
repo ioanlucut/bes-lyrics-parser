@@ -1,5 +1,5 @@
 [title]
-Isus numai isus {author: {Anonim}, {rcId: {166750}}
+Isus numai isus {composer: {Anonim}, {rcId: {166750}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

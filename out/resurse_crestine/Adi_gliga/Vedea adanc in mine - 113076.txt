@@ -1,5 +1,5 @@
 [title]
-Vedea adanc in mine {author: {Adi Gliga}, {rcId: {113076}}
+Vedea adanc in mine {composer: {Adi Gliga}, {rcId: {113076}}
 
 [sequence]
 v1,c,v2,c

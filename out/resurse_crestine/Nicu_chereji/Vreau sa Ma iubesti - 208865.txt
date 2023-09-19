@@ -1,5 +1,5 @@
 [title]
-Vreau sa ma iubesti {author: {Nicu Chereji}, {rcId: {208865}}
+Vreau sa ma iubesti {composer: {Nicu Chereji}, {rcId: {208865}}
 
 [sequence]
 v1,v2,v3,v4

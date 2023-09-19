@@ -1,5 +1,5 @@
 [title]
-Tu m-ai chemat sa vin la tine {author: {Anonim}, {rcId: {74211}}
+Tu m-ai chemat sa vin la tine {composer: {Anonim}, {rcId: {74211}}
 
 [sequence]
 v1,v2,v3,v4

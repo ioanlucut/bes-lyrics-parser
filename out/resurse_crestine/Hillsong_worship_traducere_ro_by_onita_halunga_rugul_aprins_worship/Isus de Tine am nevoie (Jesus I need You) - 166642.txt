@@ -1,5 +1,5 @@
 [title]
-Isus de tine am nevoie (jesus i need you) {author: {Hillsong Worship, Traducere RO by Oniță Halunga, Rugul Aprins Worship}, {rcId: {166642}}
+Isus de tine am nevoie (jesus i need you) {composer: {Hillsong Worship, Traducere RO by Oniță Halunga, Rugul Aprins Worship}, {rcId: {166642}}
 
 [sequence]
 v1,c,v2,c,c,b,b,b,c,c,b

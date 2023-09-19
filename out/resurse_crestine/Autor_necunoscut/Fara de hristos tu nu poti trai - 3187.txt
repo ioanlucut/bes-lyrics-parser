@@ -1,5 +1,5 @@
 [title]
-Fara de hristos tu nu poti trai {author: {Anonim}, {rcId: {3187}}
+Fara de hristos tu nu poti trai {composer: {Anonim}, {rcId: {3187}}
 
 [sequence]
 v1,c,v2,c,v3,c

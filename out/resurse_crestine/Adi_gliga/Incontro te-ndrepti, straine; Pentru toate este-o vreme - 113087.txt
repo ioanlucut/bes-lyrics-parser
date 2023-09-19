@@ -1,5 +1,5 @@
 [title]
-Incontro te-ndrepti straine; pentru toate este-o vreme {author: {Adi Gliga}, {rcId: {113087}}
+Incontro te-ndrepti straine; pentru toate este-o vreme {composer: {Adi Gliga}, {rcId: {113087}}
 
 [sequence]
 v1,c,v2,c

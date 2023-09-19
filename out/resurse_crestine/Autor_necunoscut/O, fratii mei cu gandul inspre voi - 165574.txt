@@ -1,5 +1,5 @@
 [title]
-O fratii mei cu gandul inspre voi {author: {Anonim}, {rcId: {165574}}
+O fratii mei cu gandul inspre voi {composer: {Anonim}, {rcId: {165574}}
 
 [sequence]
 v1,v2,v3,v4

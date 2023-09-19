@@ -1,5 +1,5 @@
 [title]
-Cu nadejdea de sus {author: {Nicolae Moldoveanu}, {rcId: {111901}}
+Cu nadejdea de sus {composer: {Nicolae Moldoveanu}, {rcId: {111901}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

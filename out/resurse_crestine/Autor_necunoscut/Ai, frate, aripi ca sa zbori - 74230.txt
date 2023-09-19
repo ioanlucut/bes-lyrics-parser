@@ -1,5 +1,5 @@
 [title]
-Ai frate aripi ca sa zbori {author: {Anonim}, {rcId: {74230}}
+Ai frate aripi ca sa zbori {composer: {Anonim}, {rcId: {74230}}
 
 [sequence]
 v1,v2,v3,v4

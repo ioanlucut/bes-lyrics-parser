@@ -1,5 +1,5 @@
 [title]
-Hai si lauda-l pe domnul sfant {author: {Anonim}, {rcId: {3262}}
+Hai si lauda-l pe domnul sfant {composer: {Anonim}, {rcId: {3262}}
 
 [sequence]
 v1,v2,v3

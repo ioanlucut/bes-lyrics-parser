@@ -1,5 +1,5 @@
 [title]
-Isus e salvator {author: {Johnny Daraban}, {rcId: {121477}}
+Isus e salvator {composer: {Johnny Daraban}, {rcId: {121477}}
 
 [sequence]
 v1,c,c,e

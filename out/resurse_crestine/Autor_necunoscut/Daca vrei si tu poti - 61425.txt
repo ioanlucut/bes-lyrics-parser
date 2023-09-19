@@ -1,5 +1,5 @@
 [title]
-Daca vrei si tu poti {author: {Anonim}, {rcId: {61425}}
+Daca vrei si tu poti {composer: {Anonim}, {rcId: {61425}}
 
 [sequence]
 c,v1,c2,v2,c2

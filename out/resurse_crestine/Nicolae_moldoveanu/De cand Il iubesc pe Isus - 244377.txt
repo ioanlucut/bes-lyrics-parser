@@ -1,5 +1,5 @@
 [title]
-De cand il iubesc pe isus {author: {Nicolae Moldoveanu}, {rcId: {244377}}
+De cand il iubesc pe isus {composer: {Nicolae Moldoveanu}, {rcId: {244377}}
 
 [sequence]
 v1,v2,v3

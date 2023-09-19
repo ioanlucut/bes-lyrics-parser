@@ -1,5 +1,5 @@
 [title]
-Fata ta isuse cand se va ivi {author: {Nicolae Moldoveanu}, {rcId: {244103}}
+Fata ta isuse cand se va ivi {composer: {Nicolae Moldoveanu}, {rcId: {244103}}
 
 [sequence]
 v1,v2,v3

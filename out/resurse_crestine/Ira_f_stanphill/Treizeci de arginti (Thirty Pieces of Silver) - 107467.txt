@@ -1,5 +1,5 @@
 [title]
-Treizeci de arginti (thirty pieces of silver) {author: {Ira F. Stanphill, Traducere RO}, {rcId: {107467}}
+Treizeci de arginti (thirty pieces of silver) {composer: {Ira F. Stanphill, Traducere RO}, {rcId: {107467}}
 
 [sequence]
 v1,c,v2,c,s,c

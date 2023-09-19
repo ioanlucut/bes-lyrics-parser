@@ -1,5 +1,5 @@
 [title]
-Nunta fiului de imparat {author: {Anonim}, {rcId: {212117}}
+Nunta fiului de imparat {composer: {Anonim}, {rcId: {212117}}
 
 [sequence]
 v1,v2,v3,v4

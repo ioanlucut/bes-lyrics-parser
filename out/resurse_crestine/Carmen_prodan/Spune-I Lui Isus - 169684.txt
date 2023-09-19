@@ -1,5 +1,5 @@
 [title]
-Spune-i lui isus {author: {Carmen Prodan}, {rcId: {169684}}
+Spune-i lui isus {composer: {Carmen Prodan}, {rcId: {169684}}
 
 [sequence]
 v1,c,v2,c,v3,c

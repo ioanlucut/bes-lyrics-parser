@@ -1,5 +1,5 @@
 [title]
-Departe intr-o iesle {author: {James R.Murray}, {rcId: {1421}}
+Departe intr-o iesle {composer: {James R.Murray}, {rcId: {1421}}
 
 [sequence]
 v1,v2,v3

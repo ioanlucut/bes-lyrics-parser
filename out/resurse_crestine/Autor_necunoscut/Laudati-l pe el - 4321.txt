@@ -1,5 +1,5 @@
 [title]
-Laudati-l pe el {author: {Anonim}, {rcId: {4321}}
+Laudati-l pe el {composer: {Anonim}, {rcId: {4321}}
 
 [sequence]
 v1,b,c,v2,c

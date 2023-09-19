@@ -1,5 +1,5 @@
 [title]
-Ajutor eu am mereu {author: {Elena Sufletel}, {rcId: {227373}}
+Ajutor eu am mereu {composer: {Elena Sufletel}, {rcId: {227373}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

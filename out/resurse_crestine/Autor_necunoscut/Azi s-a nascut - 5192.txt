@@ -1,5 +1,5 @@
 [title]
-Azi s-a nascut {author: {Anonim}, {rcId: {5192}}
+Azi s-a nascut {composer: {Anonim}, {rcId: {5192}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

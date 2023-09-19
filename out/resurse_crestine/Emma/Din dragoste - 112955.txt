@@ -1,5 +1,5 @@
 [title]
-Din dragoste {author: {Emma}, {rcId: {112955}}
+Din dragoste {composer: {Emma}, {rcId: {112955}}
 
 [sequence]
 v1,c,v2,c,v3,c

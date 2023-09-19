@@ -1,5 +1,5 @@
 [title]
-Pisicuta cu labuta {author: {Nicolae Moldoveanu}, {rcId: {233536}}
+Pisicuta cu labuta {composer: {Nicolae Moldoveanu}, {rcId: {233536}}
 
 [sequence]
 v1,v2

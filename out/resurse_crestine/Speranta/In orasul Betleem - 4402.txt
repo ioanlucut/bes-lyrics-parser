@@ -1,5 +1,5 @@
 [title]
-In orasul betleem {author: {Speranța}, {rcId: {4402}}
+In orasul betleem {composer: {Speranța}, {rcId: {4402}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

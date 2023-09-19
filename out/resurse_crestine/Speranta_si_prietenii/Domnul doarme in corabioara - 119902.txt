@@ -1,5 +1,5 @@
 [title]
-Domnul doarme in corabioara {author: {Speranța și prietenii}, {rcId: {119902}}
+Domnul doarme in corabioara {composer: {Speranța și prietenii}, {rcId: {119902}}
 
 [sequence]
 v1,v2,v3

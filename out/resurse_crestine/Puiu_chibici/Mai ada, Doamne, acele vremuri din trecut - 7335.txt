@@ -1,5 +1,5 @@
 [title]
-Mai ada doamne acele vremuri din trecut {author: {Puiu Chibici}, {rcId: {7335}}
+Mai ada doamne acele vremuri din trecut {composer: {Puiu Chibici}, {rcId: {7335}}
 
 [sequence]
 v1,v2,v3,v4

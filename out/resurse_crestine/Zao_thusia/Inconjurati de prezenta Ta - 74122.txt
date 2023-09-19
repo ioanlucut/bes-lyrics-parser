@@ -1,5 +1,5 @@
 [title]
-Inconjurati de prezenta ta {author: {Zao Thusia}, {rcId: {74122}}
+Inconjurati de prezenta ta {composer: {Zao Thusia}, {rcId: {74122}}
 
 [sequence]
 v1,v2,c,e

@@ -1,5 +1,5 @@
 [title]
-Vocea ta (am auzit vocea ta isus) {author: {Ovidiu Liteanu}, {rcId: {183404}}
+Vocea ta (am auzit vocea ta isus) {composer: {Ovidiu Liteanu}, {rcId: {183404}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

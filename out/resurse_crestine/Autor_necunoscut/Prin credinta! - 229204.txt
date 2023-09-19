@@ -1,5 +1,5 @@
 [title]
-Prin credinta {author: {Anonimul}, {rcId: {229204}}
+Prin credinta {composer: {Anonimul}, {rcId: {229204}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

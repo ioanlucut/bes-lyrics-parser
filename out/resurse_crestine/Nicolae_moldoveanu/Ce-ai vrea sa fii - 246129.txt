@@ -1,5 +1,5 @@
 [title]
-Ce-ai vrea sa fii {author: {Nicolae Moldoveanu}, {rcId: {246129}}
+Ce-ai vrea sa fii {composer: {Nicolae Moldoveanu}, {rcId: {246129}}
 
 [sequence]
 v1,v2,v3,v4

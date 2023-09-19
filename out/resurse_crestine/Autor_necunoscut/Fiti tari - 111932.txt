@@ -1,5 +1,5 @@
 [title]
-Fiti tari {author: {Anonim}, {rcId: {111932}}
+Fiti tari {composer: {Anonim}, {rcId: {111932}}
 
 [sequence]
 v1,c,v2,c,v3,c

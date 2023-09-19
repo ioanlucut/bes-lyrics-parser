@@ -1,5 +1,5 @@
 [title]
-Cant plin de bucurie {author: {Nicolae Moldoveanu}, {rcId: {5253}}
+Cant plin de bucurie {composer: {Nicolae Moldoveanu}, {rcId: {5253}}
 
 [sequence]
 v1,c,v2,c,v3,c

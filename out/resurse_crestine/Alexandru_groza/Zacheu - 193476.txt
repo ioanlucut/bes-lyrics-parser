@@ -1,5 +1,5 @@
 [title]
-Zacheu {author: {Alexandru Groza}, {rcId: {193476}}
+Zacheu {composer: {Alexandru Groza}, {rcId: {193476}}
 
 [sequence]
 v1,v2

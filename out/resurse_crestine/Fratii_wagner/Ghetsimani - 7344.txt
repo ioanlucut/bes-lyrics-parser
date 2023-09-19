@@ -1,5 +1,5 @@
 [title]
-Ghetsimani {author: {Frații Wagner}, {rcId: {7344}}
+Ghetsimani {composer: {Frații Wagner}, {rcId: {7344}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

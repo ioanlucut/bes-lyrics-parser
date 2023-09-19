@@ -1,5 +1,5 @@
 [title]
-Tu totul poti dumnezeule mare {author: {Maria Șimon}, {rcId: {203879}}
+Tu totul poti dumnezeule mare {composer: {Maria Șimon}, {rcId: {203879}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Dragostea {author: {Persida Mureșan}, {rcId: {165385}}
+Dragostea {composer: {Persida Mureșan}, {rcId: {165385}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Popor ales de pe pamant {author: {Daniela Haidaciuc}, {rcId: {190202}}
+Popor ales de pe pamant {composer: {Daniela Haidaciuc}, {rcId: {190202}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

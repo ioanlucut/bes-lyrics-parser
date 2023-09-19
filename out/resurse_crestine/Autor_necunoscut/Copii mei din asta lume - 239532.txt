@@ -1,5 +1,5 @@
 [title]
-Copii mei din asta lume {author: {Autor necunoscut}, {rcId: {239532}}
+Copii mei din asta lume {composer: {Autor necunoscut}, {rcId: {239532}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-O te privesc isuse {author: {S.S.Wesley}, {rcId: {74434}}
+O te privesc isuse {composer: {S.S.Wesley}, {rcId: {74434}}
 
 [sequence]
 v1,v2,v3,v4

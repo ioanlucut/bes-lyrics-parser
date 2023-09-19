@@ -1,5 +1,5 @@
 [title]
-Ca si-o floare daca as fii {author: {Ionel Saran Bochis}, {rcId: {111155}}
+Ca si-o floare daca as fii {composer: {Ionel Saran Bochis}, {rcId: {111155}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Maria dis de dimineata {author: {Anonim}, {rcId: {134376}}
+Maria dis de dimineata {composer: {Anonim}, {rcId: {134376}}
 
 [sequence]
 v1,v2,v3

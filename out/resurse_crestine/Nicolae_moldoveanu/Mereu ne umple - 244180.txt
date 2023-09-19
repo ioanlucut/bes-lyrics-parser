@@ -1,5 +1,5 @@
 [title]
-Mereu ne umple {author: {Nicolae Moldoveanu}, {rcId: {244180}}
+Mereu ne umple {composer: {Nicolae Moldoveanu}, {rcId: {244180}}
 
 [sequence]
 v1,v2,v3

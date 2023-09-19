@@ -1,5 +1,5 @@
 [title]
-Azi a venit un copilas {author: {Geistliche Lieder, Leipzig 1539}, {rcId: {1869}}
+Azi a venit un copilas {composer: {Geistliche Lieder, Leipzig 1539}, {rcId: {1869}}
 
 [sequence]
 v1,v2,v3,v4

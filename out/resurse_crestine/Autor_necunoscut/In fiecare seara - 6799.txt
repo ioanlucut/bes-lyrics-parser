@@ -1,5 +1,5 @@
 [title]
-In fiecare seara {author: {Anonim}, {rcId: {6799}}
+In fiecare seara {composer: {Anonim}, {rcId: {6799}}
 
 [sequence]
 v1,c,v2,c,v3,c

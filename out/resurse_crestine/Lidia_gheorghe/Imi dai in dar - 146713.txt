@@ -1,5 +1,5 @@
 [title]
-Imi dai in dar {author: {Lidia Gheorghe}, {rcId: {146713}}
+Imi dai in dar {composer: {Lidia Gheorghe}, {rcId: {146713}}
 
 [sequence]
 v1,v3,v4,v5

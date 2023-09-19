@@ -1,5 +1,5 @@
 [title]
-Bate azi isus la usa {author: {Daniel Hartie, Marta Bergheaua}, {rcId: {197060}}
+Bate azi isus la usa {composer: {Daniel Hartie, Marta Bergheaua}, {rcId: {197060}}
 
 [sequence]
 v1,c,v2,c,v3,c

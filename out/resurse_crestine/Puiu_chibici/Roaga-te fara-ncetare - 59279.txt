@@ -1,5 +1,5 @@
 [title]
-Roaga-te fara-ncetare {author: {Puiu Chibici}, {rcId: {59279}}
+Roaga-te fara-ncetare {composer: {Puiu Chibici}, {rcId: {59279}}
 
 [sequence]
 v1,v2,v3

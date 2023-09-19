@@ -1,5 +1,5 @@
 [title]
-La cruce ai loc si tu {author: {Nelu Mot}, {rcId: {191694}}
+La cruce ai loc si tu {composer: {Nelu Mot}, {rcId: {191694}}
 
 [sequence]
 v1,c,v2,c,v3,c

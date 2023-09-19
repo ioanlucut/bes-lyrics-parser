@@ -1,5 +1,5 @@
 [title]
-Ca si noi copiii tu ai fost isuse {author: {Anonim}, {rcId: {7340}}
+Ca si noi copiii tu ai fost isuse {composer: {Anonim}, {rcId: {7340}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Cand strig o doamne catre tine {author: {Ica Dragoi}, {rcId: {114125}}
+Cand strig o doamne catre tine {composer: {Ica Dragoi}, {rcId: {114125}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

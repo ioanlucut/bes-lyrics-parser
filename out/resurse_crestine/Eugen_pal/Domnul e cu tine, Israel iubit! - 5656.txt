@@ -1,5 +1,5 @@
 [title]
-Domnul e cu tine israel iubit {author: {Eugen Pal}, {rcId: {5656}}
+Domnul e cu tine israel iubit {composer: {Eugen Pal}, {rcId: {5656}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,v4,c

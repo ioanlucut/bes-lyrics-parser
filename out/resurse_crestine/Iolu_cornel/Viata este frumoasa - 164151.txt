@@ -1,5 +1,5 @@
 [title]
-Viata este frumoasa {author: {Iolu Cornel}, {rcId: {164151}}
+Viata este frumoasa {composer: {Iolu Cornel}, {rcId: {164151}}
 
 [sequence]
 v1,c,v2,c

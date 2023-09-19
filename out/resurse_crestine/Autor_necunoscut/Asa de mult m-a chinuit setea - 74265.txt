@@ -1,5 +1,5 @@
 [title]
-Asa de mult m-a chinuit setea {author: {Anonim}, {rcId: {74265}}
+Asa de mult m-a chinuit setea {composer: {Anonim}, {rcId: {74265}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

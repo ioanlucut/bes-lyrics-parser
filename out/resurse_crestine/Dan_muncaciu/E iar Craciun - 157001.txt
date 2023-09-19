@@ -1,5 +1,5 @@
 [title]
-E iar craciun {author: {Dan Muncaciu}, {rcId: {157001}}
+E iar craciun {composer: {Dan Muncaciu}, {rcId: {157001}}
 
 [sequence]
 v1,c,v2,c,e

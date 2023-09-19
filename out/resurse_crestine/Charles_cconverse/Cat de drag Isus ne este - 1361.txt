@@ -1,5 +1,5 @@
 [title]
-Cat de drag isus ne este {author: {Charles C.Converse}, {rcId: {1361}}
+Cat de drag isus ne este {composer: {Charles C.Converse}, {rcId: {1361}}
 
 [sequence]
 v1,v2,v3

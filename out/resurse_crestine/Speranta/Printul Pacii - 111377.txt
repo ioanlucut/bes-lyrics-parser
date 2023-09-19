@@ -1,5 +1,5 @@
 [title]
-Printul pacii {author: {Speranța}, {rcId: {111377}}
+Printul pacii {composer: {Speranța}, {rcId: {111377}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

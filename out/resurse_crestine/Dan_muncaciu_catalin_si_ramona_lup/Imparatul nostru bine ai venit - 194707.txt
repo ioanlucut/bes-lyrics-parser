@@ -1,5 +1,5 @@
 [title]
-Imparatul nostru bine ai venit {author: {Dan Muncaciu  Catalin si Ramona Lup}, {rcId: {194707}}
+Imparatul nostru bine ai venit {composer: {Dan Muncaciu  Catalin si Ramona Lup}, {rcId: {194707}}
 
 [sequence]
 v1,v2,c,v3,c,e

@@ -1,5 +1,5 @@
 [title]
-Doamne ai mila de sufletul meu {author: {Anonim}, {rcId: {1368}}
+Doamne ai mila de sufletul meu {composer: {Anonim}, {rcId: {1368}}
 
 [sequence]
 v1,c,v2,c,v3,c

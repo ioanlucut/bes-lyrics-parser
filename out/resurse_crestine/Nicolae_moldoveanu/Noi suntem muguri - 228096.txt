@@ -1,5 +1,5 @@
 [title]
-Noi suntem muguri {author: {Nicolae Moldoveanu}, {rcId: {228096}}
+Noi suntem muguri {composer: {Nicolae Moldoveanu}, {rcId: {228096}}
 
 [sequence]
 v1,v2,v3,v4

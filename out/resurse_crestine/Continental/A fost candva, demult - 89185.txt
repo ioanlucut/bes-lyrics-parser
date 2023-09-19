@@ -1,5 +1,5 @@
 [title]
-A fost candva demult {author: {Continental}, {rcId: {89185}}
+A fost candva demult {composer: {Continental}, {rcId: {89185}}
 
 [sequence]
 v1,c,e

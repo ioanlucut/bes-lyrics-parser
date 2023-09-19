@@ -1,5 +1,5 @@
 [title]
-Anul nou iata a sosit {author: {Ionel Saran Bochis}, {rcId: {111152}}
+Anul nou iata a sosit {composer: {Ionel Saran Bochis}, {rcId: {111152}}
 
 [sequence]
 v1,c,v2,c,v3,c

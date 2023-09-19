@@ -1,5 +1,5 @@
 [title]
-Ca un pom sunt langa ape {author: {Anonim}, {rcId: {2133}}
+Ca un pom sunt langa ape {composer: {Anonim}, {rcId: {2133}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

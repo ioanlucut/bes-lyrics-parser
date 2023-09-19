@@ -1,5 +1,5 @@
 [title]
-Al meu domn parinte {author: {Anonim}, {rcId: {1014}}
+Al meu domn parinte {composer: {Anonim}, {rcId: {1014}}
 
 [sequence]
 v1,c

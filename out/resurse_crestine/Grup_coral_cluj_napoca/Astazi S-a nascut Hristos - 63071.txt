@@ -1,5 +1,5 @@
 [title]
-Astazi s-a nascut hristos {author: {Grup coral Cluj, Napoca}, {rcId: {63071}}
+Astazi s-a nascut hristos {composer: {Grup coral Cluj, Napoca}, {rcId: {63071}}
 
 [sequence]
 v1,v2,v3,v4

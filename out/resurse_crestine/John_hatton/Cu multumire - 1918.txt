@@ -1,5 +1,5 @@
 [title]
-Cu multumire {author: {John Hatton}, {rcId: {1918}}
+Cu multumire {composer: {John Hatton}, {rcId: {1918}}
 
 [sequence]
 v1,v2,v3

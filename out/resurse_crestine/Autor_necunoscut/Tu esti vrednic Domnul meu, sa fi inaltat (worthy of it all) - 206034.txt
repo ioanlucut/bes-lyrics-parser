@@ -1,5 +1,5 @@
 [title]
-Tu esti vrednic domnul meu sa fi inaltat (worthy of it all) {author: {Anonim}, {rcId: {206034}}
+Tu esti vrednic domnul meu sa fi inaltat (worthy of it all) {composer: {Anonim}, {rcId: {206034}}
 
 [sequence]
 v1,c,c,c

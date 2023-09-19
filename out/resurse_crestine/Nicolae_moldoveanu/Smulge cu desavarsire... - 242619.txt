@@ -1,5 +1,5 @@
 [title]
-Smulge cu desavarsire {author: {Nicolae Moldoveanu}, {rcId: {242619}}
+Smulge cu desavarsire {composer: {Nicolae Moldoveanu}, {rcId: {242619}}
 
 [sequence]
 v1,v2,v3,v4,v5

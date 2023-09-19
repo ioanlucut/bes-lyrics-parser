@@ -1,5 +1,5 @@
 [title]
-Nu voi fi eu {author: {Sanja Cristea Tiberian}, {rcId: {2856}}
+Nu voi fi eu {composer: {Sanja Cristea Tiberian}, {rcId: {2856}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

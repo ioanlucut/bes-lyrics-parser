@@ -1,5 +1,5 @@
 [title]
-Alunga furtuna {author: {Diana Scridon}, {rcId: {247911}}
+Alunga furtuna {composer: {Diana Scridon}, {rcId: {247911}}
 
 [sequence]
 v1,c,c2

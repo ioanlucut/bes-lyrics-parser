@@ -1,5 +1,5 @@
 [title]
-Cand sunt cazut cand sunt batut {author: {Puiu Chibici}, {rcId: {6472}}
+Cand sunt cazut cand sunt batut {composer: {Puiu Chibici}, {rcId: {6472}}
 
 [sequence]
 v1,c,v2,c,v3,c

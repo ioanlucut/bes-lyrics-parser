@@ -1,5 +1,5 @@
 [title]
-In mijlocul adunarii {author: {Anonim}, {rcId: {209567}}
+In mijlocul adunarii {composer: {Anonim}, {rcId: {209567}}
 
 [sequence]
 v1,b,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Un bogat cu multe lanuri {author: {Anonim}, {rcId: {153890}}
+Un bogat cu multe lanuri {composer: {Anonim}, {rcId: {153890}}
 
 [sequence]
 v1,v2,v3,v4

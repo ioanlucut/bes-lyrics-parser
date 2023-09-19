@@ -1,5 +1,5 @@
 [title]
-Ce duios isus te cheama {author: {Anonim}, {rcId: {1585}}
+Ce duios isus te cheama {composer: {Anonim}, {rcId: {1585}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

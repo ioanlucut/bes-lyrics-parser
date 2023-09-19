@@ -1,5 +1,5 @@
 [title]
-Tata preaiubit de ce taci? {author: {Traian Niculai}, {rcId: {156196}}
+Tata preaiubit de ce taci? {composer: {Traian Niculai}, {rcId: {156196}}
 
 [sequence]
 v1,c,v2,c,v3,c

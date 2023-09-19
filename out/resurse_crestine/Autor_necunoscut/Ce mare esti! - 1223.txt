@@ -1,5 +1,5 @@
 [title]
-Ce mare esti {author: {Anonim}, {rcId: {1223}}
+Ce mare esti {composer: {Anonim}, {rcId: {1223}}
 
 [sequence]
 v1,v2

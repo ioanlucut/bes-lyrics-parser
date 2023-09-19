@@ -1,5 +1,5 @@
 [title]
-Multumesc lui dumnezeu {author: {Familia Mihai}, {rcId: {236874}}
+Multumesc lui dumnezeu {composer: {Familia Mihai}, {rcId: {236874}}
 
 [sequence]
 v1,c,v2,c

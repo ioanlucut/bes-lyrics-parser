@@ -1,5 +1,5 @@
 [title]
-Tu te-ai oprit isuse langa mine {author: {Anonim}, {rcId: {204168}}
+Tu te-ai oprit isuse langa mine {composer: {Anonim}, {rcId: {204168}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

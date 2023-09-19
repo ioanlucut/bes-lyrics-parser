@@ -1,5 +1,5 @@
 [title]
-Astazi invitatii si prietenii vostri {author: {Anonim}, {rcId: {161620}}
+Astazi invitatii si prietenii vostri {composer: {Anonim}, {rcId: {161620}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Fii schimbarea {author: {Continental}, {rcId: {244125}}
+Fii schimbarea {composer: {Continental}, {rcId: {244125}}
 
 [sequence]
 v1,c,v2,c,c,e

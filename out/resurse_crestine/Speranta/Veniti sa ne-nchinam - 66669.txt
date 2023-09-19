@@ -1,5 +1,5 @@
 [title]
-Veniti sa ne-nchinam {author: {Speranța}, {rcId: {66669}}
+Veniti sa ne-nchinam {composer: {Speranța}, {rcId: {66669}}
 
 [sequence]
 v1,c,v2,c,v3,c

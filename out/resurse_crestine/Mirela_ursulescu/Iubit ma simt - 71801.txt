@@ -1,5 +1,5 @@
 [title]
-Iubit ma simt {author: {Mirela Ursulescu}, {rcId: {71801}}
+Iubit ma simt {composer: {Mirela Ursulescu}, {rcId: {71801}}
 
 [sequence]
 v1,c2,v2,c2,v3,c3,v4,c4

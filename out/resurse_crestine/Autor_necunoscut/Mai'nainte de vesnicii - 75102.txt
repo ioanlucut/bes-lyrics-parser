@@ -1,5 +1,5 @@
 [title]
-Mai nainte de vesnicii {author: {Anonim}, {rcId: {75102}}
+Mai nainte de vesnicii {composer: {Anonim}, {rcId: {75102}}
 
 [sequence]
 v1,v2,v3,v4

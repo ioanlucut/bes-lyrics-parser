@@ -1,5 +1,5 @@
 [title]
-De-atatea ori {author: {Agnes și Andreina}, {rcId: {85061}}
+De-atatea ori {composer: {Agnes și Andreina}, {rcId: {85061}}
 
 [sequence]
 v1,c,v2,c,e

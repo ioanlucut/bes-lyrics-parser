@@ -1,5 +1,5 @@
 [title]
-De-atatea ori m-am intrebat isuse {author: {Cornel Sava}, {rcId: {210065}}
+De-atatea ori m-am intrebat isuse {composer: {Cornel Sava}, {rcId: {210065}}
 
 [sequence]
 v1,c,v2,c,v3,c

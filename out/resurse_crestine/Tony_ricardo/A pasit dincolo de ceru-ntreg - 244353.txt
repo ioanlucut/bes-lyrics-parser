@@ -1,5 +1,5 @@
 [title]
-A pasit dincolo de ceru-ntreg {author: {Tony Ricardo}, {rcId: {244353}}
+A pasit dincolo de ceru-ntreg {composer: {Tony Ricardo}, {rcId: {244353}}
 
 [sequence]
 v1,b,e

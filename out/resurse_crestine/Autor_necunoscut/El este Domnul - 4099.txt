@@ -1,5 +1,5 @@
 [title]
-El este domnul {author: {Anonim}, {rcId: {4099}}
+El este domnul {composer: {Anonim}, {rcId: {4099}}
 
 [sequence]
 c,v1,c

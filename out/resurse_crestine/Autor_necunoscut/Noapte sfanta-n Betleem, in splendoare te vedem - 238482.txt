@@ -1,5 +1,5 @@
 [title]
-Noapte sfanta-n betleem in splendoare te vedem {author: {Anonim}, {rcId: {238482}}
+Noapte sfanta-n betleem in splendoare te vedem {composer: {Anonim}, {rcId: {238482}}
 
 [sequence]
 v1,v2,v3

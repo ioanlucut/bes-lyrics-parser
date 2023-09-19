@@ -1,5 +1,5 @@
 [title]
-Intruna eu alerg {author: {Anonim}, {rcId: {4951}}
+Intruna eu alerg {composer: {Anonim}, {rcId: {4951}}
 
 [sequence]
 v1,b,c

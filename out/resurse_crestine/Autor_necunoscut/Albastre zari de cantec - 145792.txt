@@ -1,5 +1,5 @@
 [title]
-Albastre zari de cantec {author: {Anonim}, {rcId: {145792}}
+Albastre zari de cantec {composer: {Anonim}, {rcId: {145792}}
 
 [sequence]
 v1,c,v2,c,v3,b,c2

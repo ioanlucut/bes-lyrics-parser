@@ -1,5 +1,5 @@
 [title]
-Dincol de zare e-o dimineata {author: {Necunoscut}, {rcId: {191723}}
+Dincol de zare e-o dimineata {composer: {Necunoscut}, {rcId: {191723}}
 
 [sequence]
 v1,v2,v3,v4

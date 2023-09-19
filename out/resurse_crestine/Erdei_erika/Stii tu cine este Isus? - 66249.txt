@@ -1,5 +1,5 @@
 [title]
-Stii tu cine este isus? {author: {Erdei Erika}, {rcId: {66249}}
+Stii tu cine este isus? {composer: {Erdei Erika}, {rcId: {66249}}
 
 [sequence]
 v1,c,v2,c,v3,c

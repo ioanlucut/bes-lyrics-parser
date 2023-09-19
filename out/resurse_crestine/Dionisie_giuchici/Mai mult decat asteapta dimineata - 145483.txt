@@ -1,5 +1,5 @@
 [title]
-Mai mult decat asteapta dimineata {author: {Dionisie Giuchici}, {rcId: {145483}}
+Mai mult decat asteapta dimineata {composer: {Dionisie Giuchici}, {rcId: {145483}}
 
 [sequence]
 v1,c,v2,c,v3,c

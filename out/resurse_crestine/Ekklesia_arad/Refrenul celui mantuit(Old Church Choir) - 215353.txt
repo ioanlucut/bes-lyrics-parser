@@ -1,5 +1,5 @@
 [title]
-Refrenul celui mantuit(old church choir) {author: {Ekklesia Arad}, {rcId: {215353}}
+Refrenul celui mantuit(old church choir) {composer: {Ekklesia Arad}, {rcId: {215353}}
 
 [sequence]
 v1,c,v2,b,c

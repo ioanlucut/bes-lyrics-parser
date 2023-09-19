@@ -1,5 +1,5 @@
 [title]
-Se pleaca muntii {author: {Rugul aprins}, {rcId: {107621}}
+Se pleaca muntii {composer: {Rugul aprins}, {rcId: {107621}}
 
 [sequence]
 v1,v2,c,v3,c,e

@@ -1,5 +1,5 @@
 [title]
-In lumea asta nu-i nimic pentru mine {author: {Anonim}, {rcId: {64320}}
+In lumea asta nu-i nimic pentru mine {composer: {Anonim}, {rcId: {64320}}
 
 [sequence]
 v1,v2,v3,v4,v5

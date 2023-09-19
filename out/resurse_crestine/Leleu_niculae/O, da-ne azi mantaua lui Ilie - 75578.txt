@@ -1,5 +1,5 @@
 [title]
-O da-ne azi mantaua lui ilie {author: {Leleu Niculae}, {rcId: {75578}}
+O da-ne azi mantaua lui ilie {composer: {Leleu Niculae}, {rcId: {75578}}
 
 [sequence]
 v1,c,v2,c,v3,c

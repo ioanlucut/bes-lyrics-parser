@@ -1,5 +1,5 @@
 [title]
-Un cantec preadulce {author: {Pr. Iosif Trifa}, {rcId: {72971}}
+Un cantec preadulce {composer: {Pr. Iosif Trifa}, {rcId: {72971}}
 
 [sequence]
 v1,v2,v3,v4,v5

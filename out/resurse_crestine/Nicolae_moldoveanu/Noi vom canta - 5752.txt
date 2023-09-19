@@ -1,5 +1,5 @@
 [title]
-Noi vom canta {author: {Nicolae Moldoveanu}, {rcId: {5752}}
+Noi vom canta {composer: {Nicolae Moldoveanu}, {rcId: {5752}}
 
 [sequence]
 v1,v2,v3,v4

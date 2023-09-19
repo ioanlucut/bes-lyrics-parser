@@ -1,5 +1,5 @@
 [title]
-Dumnezeul meu cel mare dumnezeul cel drept {author: {Anonim}, {rcId: {74039}}
+Dumnezeul meu cel mare dumnezeul cel drept {composer: {Anonim}, {rcId: {74039}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Strange-nvatatura {author: {Nicolae Moldoveanu}, {rcId: {233757}}
+Strange-nvatatura {composer: {Nicolae Moldoveanu}, {rcId: {233757}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

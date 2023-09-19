@@ -1,5 +1,5 @@
 [title]
-O stea mareata (brightest and best) {author: {Reginald Heber, James P. Harding, Traducere RO}, {rcId: {236697}}
+O stea mareata (brightest and best) {composer: {Reginald Heber, James P. Harding, Traducere RO}, {rcId: {236697}}
 
 [sequence]
 v1,v2,v3

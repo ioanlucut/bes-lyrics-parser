@@ -1,5 +1,5 @@
 [title]
-E astazi zi cu soare {author: {Nicolae Moldoveanu}, {rcId: {225567}}
+E astazi zi cu soare {composer: {Nicolae Moldoveanu}, {rcId: {225567}}
 
 [sequence]
 v1,c,v2,c,v3,c

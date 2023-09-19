@@ -1,5 +1,5 @@
 [title]
-I will sing praise {author: {Petra}, {rcId: {4233}}
+I will sing praise {composer: {Petra}, {rcId: {4233}}
 
 [sequence]
 v1,c

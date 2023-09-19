@@ -1,5 +1,5 @@
 [title]
-Ce prieten bun {author: {Anonim}, {rcId: {62639}}
+Ce prieten bun {composer: {Anonim}, {rcId: {62639}}
 
 [sequence]
 v1,c,v2,c

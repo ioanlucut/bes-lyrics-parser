@@ -1,5 +1,5 @@
 [title]
-Iubirea noi ades uitam {author: {Anonim}, {rcId: {58869}}
+Iubirea noi ades uitam {composer: {Anonim}, {rcId: {58869}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

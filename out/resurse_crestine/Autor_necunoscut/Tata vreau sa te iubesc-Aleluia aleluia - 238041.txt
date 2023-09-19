@@ -1,5 +1,5 @@
 [title]
-Tata vreau sa te iubesc/aleluia aleluia {author: {Anonim}, {rcId: {238041}}
+Tata vreau sa te iubesc/aleluia aleluia {composer: {Anonim}, {rcId: {238041}}
 
 [sequence]
 v1,c

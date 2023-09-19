@@ -1,5 +1,5 @@
 [title]
-Iata eu stau la usa si bat {author: {Ovidiu Liteanu}, {rcId: {74231}}
+Iata eu stau la usa si bat {composer: {Ovidiu Liteanu}, {rcId: {74231}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Alergam dupa vant {author: {Claudia Danciu}, {rcId: {84896}}
+Alergam dupa vant {composer: {Claudia Danciu}, {rcId: {84896}}
 
 [sequence]
 v1,c,v2,c

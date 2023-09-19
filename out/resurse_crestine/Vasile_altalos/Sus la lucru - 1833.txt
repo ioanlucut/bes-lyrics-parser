@@ -1,5 +1,5 @@
 [title]
-Sus la lucru {author: {Vasile Al.Talos}, {rcId: {1833}}
+Sus la lucru {composer: {Vasile Al.Talos}, {rcId: {1833}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

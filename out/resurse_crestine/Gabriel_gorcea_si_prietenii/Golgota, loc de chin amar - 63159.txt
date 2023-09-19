@@ -1,5 +1,5 @@
 [title]
-Golgota loc de chin amar {author: {Gabriel Gorcea și prietenii}, {rcId: {63159}}
+Golgota loc de chin amar {composer: {Gabriel Gorcea și prietenii}, {rcId: {63159}}
 
 [sequence]
 v1,c,v2,c,v3,c

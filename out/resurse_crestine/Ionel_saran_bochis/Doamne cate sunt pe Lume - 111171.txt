@@ -1,5 +1,5 @@
 [title]
-Doamne cate sunt pe lume {author: {Ionel Saran Bochis}, {rcId: {111171}}
+Doamne cate sunt pe lume {composer: {Ionel Saran Bochis}, {rcId: {111171}}
 
 [sequence]
 v1,c,v2,c,v3,c,e,v4,c

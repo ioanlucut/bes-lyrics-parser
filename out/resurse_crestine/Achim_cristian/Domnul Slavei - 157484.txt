@@ -1,5 +1,5 @@
 [title]
-Domnul slavei {author: {Achim Cristian}, {rcId: {157484}}
+Domnul slavei {composer: {Achim Cristian}, {rcId: {157484}}
 
 [sequence]
 v1,c,v2,c,v3,b,c

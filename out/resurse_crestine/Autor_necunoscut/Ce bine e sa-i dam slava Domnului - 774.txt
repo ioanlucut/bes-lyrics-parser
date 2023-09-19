@@ -1,5 +1,5 @@
 [title]
-Ce bine e sa-i dam slava domnului {author: {Anonim}, {rcId: {774}}
+Ce bine e sa-i dam slava domnului {composer: {Anonim}, {rcId: {774}}
 
 [sequence]
 c,c,v1,c

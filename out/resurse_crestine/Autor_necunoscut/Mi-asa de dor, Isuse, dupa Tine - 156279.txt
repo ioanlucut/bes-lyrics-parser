@@ -1,5 +1,5 @@
 [title]
-Mi-asa de dor isuse dupa tine {author: {Anonim}, {rcId: {156279}}
+Mi-asa de dor isuse dupa tine {composer: {Anonim}, {rcId: {156279}}
 
 [sequence]
 v1,c,v2,c,v3,c

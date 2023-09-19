@@ -1,5 +1,5 @@
 [title]
-The blessing binecuvantarea {author: {Kari Jobe, Elevation Worship}, {rcId: {203639}}
+The blessing binecuvantarea {composer: {Kari Jobe, Elevation Worship}, {rcId: {203639}}
 
 [sequence]
 v1,c,c,c,c

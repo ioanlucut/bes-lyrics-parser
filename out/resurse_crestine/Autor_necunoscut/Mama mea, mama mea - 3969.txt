@@ -1,5 +1,5 @@
 [title]
-Mama mea mama mea {author: {Anonim}, {rcId: {3969}}
+Mama mea mama mea {composer: {Anonim}, {rcId: {3969}}
 
 [sequence]
 v1,c,v2,c,v3,c

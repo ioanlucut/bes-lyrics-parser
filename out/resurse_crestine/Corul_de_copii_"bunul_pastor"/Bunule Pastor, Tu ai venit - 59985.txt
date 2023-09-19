@@ -1,5 +1,5 @@
 [title]
-Bunule pastor tu ai venit {author: {Corul de copii ”Bunul Păstor”}, {rcId: {59985}}
+Bunule pastor tu ai venit {composer: {Corul de copii ”Bunul Păstor”}, {rcId: {59985}}
 
 [sequence]
 v1,c,v2,c,v3,c2

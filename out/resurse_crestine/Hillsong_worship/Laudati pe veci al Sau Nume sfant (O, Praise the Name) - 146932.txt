@@ -1,5 +1,5 @@
 [title]
-Laudati pe veci al sau nume sfant (o praise the name) {author: {Hillsong Worship, Traducere RO}, {rcId: {146932}}
+Laudati pe veci al sau nume sfant (o praise the name) {composer: {Hillsong Worship, Traducere RO}, {rcId: {146932}}
 
 [sequence]
 v1,c,v2,c,v3,c

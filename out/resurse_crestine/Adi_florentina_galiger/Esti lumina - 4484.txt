@@ -1,5 +1,5 @@
 [title]
-Esti lumina {author: {Adi, Florentina Galiger}, {rcId: {4484}}
+Esti lumina {composer: {Adi, Florentina Galiger}, {rcId: {4484}}
 
 [sequence]
 c,v1,c,v2,c

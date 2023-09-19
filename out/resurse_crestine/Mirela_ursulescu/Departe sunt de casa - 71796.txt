@@ -1,5 +1,5 @@
 [title]
-Departe sunt de casa {author: {Mirela Ursulescu}, {rcId: {71796}}
+Departe sunt de casa {composer: {Mirela Ursulescu}, {rcId: {71796}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

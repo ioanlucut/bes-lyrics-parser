@@ -1,5 +1,5 @@
 [title]
-Alta viata - catalin ciuculescu ela si codrut (vio) {author: {Cătălin Ciuculescu}, {rcId: {210125}}
+Alta viata - catalin ciuculescu ela si codrut (vio) {composer: {Cătălin Ciuculescu}, {rcId: {210125}}
 
 [sequence]
 v1,c,v2,c

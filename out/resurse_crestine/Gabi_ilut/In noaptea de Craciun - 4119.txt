@@ -1,5 +1,5 @@
 [title]
-In noaptea de craciun {author: {Gabi Ilut}, {rcId: {4119}}
+In noaptea de craciun {composer: {Gabi Ilut}, {rcId: {4119}}
 
 [sequence]
 v1,v2,v3,v4,v5

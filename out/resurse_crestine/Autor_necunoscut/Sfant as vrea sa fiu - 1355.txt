@@ -1,5 +1,5 @@
 [title]
-Sfant as vrea sa fiu {author: {Anonim}, {rcId: {1355}}
+Sfant as vrea sa fiu {composer: {Anonim}, {rcId: {1355}}
 
 [sequence]
 v1,c,v2,c,v3,c

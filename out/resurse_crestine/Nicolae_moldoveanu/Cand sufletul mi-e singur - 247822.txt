@@ -1,5 +1,5 @@
 [title]
-Cand sufletul mi-e singur {author: {Nicolae Moldoveanu}, {rcId: {247822}}
+Cand sufletul mi-e singur {composer: {Nicolae Moldoveanu}, {rcId: {247822}}
 
 [sequence]
 v1,v2,v3

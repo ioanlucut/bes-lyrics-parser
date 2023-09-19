@@ -1,5 +1,5 @@
 [title]
-Rebeca silea | lata ce-ti vorbeste domnul chiar acum {author: {Anonim}, {rcId: {237415}}
+Rebeca silea | lata ce-ti vorbeste domnul chiar acum {composer: {Anonim}, {rcId: {237415}}
 
 [sequence]
 v1,c,v2,c,v3,c

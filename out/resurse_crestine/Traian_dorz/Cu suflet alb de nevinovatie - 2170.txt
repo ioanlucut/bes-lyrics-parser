@@ -1,5 +1,5 @@
 [title]
-Cu suflet alb de nevinovatie {author: {Traian Dorz}, {rcId: {2170}}
+Cu suflet alb de nevinovatie {composer: {Traian Dorz}, {rcId: {2170}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

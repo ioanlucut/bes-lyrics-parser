@@ -1,5 +1,5 @@
 [title]
-Ajuta-ma mereu {author: {Emanuel Boca}, {rcId: {92982}}
+Ajuta-ma mereu {composer: {Emanuel Boca}, {rcId: {92982}}
 
 [sequence]
 v1,c,v2,c

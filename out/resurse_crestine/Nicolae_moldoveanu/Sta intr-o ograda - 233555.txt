@@ -1,5 +1,5 @@
 [title]
-Sta intr-o ograda {author: {Nicolae Moldoveanu}, {rcId: {233555}}
+Sta intr-o ograda {composer: {Nicolae Moldoveanu}, {rcId: {233555}}
 
 [sequence]
 v1,v2

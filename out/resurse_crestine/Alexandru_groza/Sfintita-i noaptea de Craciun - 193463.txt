@@ -1,5 +1,5 @@
 [title]
-Sfintita-i noaptea de craciun {author: {Alexandru Groza}, {rcId: {193463}}
+Sfintita-i noaptea de craciun {composer: {Alexandru Groza}, {rcId: {193463}}
 
 [sequence]
 v1,c,c,v2,c

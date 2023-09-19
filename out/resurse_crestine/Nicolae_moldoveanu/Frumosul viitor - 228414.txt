@@ -1,5 +1,5 @@
 [title]
-Frumosul viitor {author: {Nicolae Moldoveanu}, {rcId: {228414}}
+Frumosul viitor {composer: {Nicolae Moldoveanu}, {rcId: {228414}}
 
 [sequence]
 v1,c,v2,c,v3,c

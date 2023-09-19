@@ -1,5 +1,5 @@
 [title]
-Iubire cereasca iubire {author: {Anonim}, {rcId: {172386}}
+Iubire cereasca iubire {composer: {Anonim}, {rcId: {172386}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

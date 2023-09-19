@@ -1,5 +1,5 @@
 [title]
-Invata {author: {Remus Tămășan Cristi}, {rcId: {155900}}
+Invata {composer: {Remus Tămășan Cristi}, {rcId: {155900}}
 
 [sequence]
 v1,c,v2,c,s,c

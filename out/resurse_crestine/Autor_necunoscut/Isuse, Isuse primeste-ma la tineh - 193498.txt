@@ -1,5 +1,5 @@
 [title]
-Isuse isuse primeste-ma la tineh {author: {Anonim}, {rcId: {193498}}
+Isuse isuse primeste-ma la tineh {composer: {Anonim}, {rcId: {193498}}
 
 [sequence]
 v1,c,v2,c,v3,c

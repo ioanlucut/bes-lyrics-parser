@@ -1,5 +1,5 @@
 [title]
-Primavara dulce {author: {Anonim}, {rcId: {3805}}
+Primavara dulce {composer: {Anonim}, {rcId: {3805}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

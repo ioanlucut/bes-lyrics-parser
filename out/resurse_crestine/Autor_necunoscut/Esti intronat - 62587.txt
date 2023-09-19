@@ -1,5 +1,5 @@
 [title]
-Esti intronat {author: {Anonim}, {rcId: {62587}}
+Esti intronat {composer: {Anonim}, {rcId: {62587}}
 
 [sequence]
 v1,c

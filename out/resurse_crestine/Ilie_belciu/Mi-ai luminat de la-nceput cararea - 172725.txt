@@ -1,5 +1,5 @@
 [title]
-Mi-ai luminat de la-nceput cararea {author: {Ilie Belciu}, {rcId: {172725}}
+Mi-ai luminat de la-nceput cararea {composer: {Ilie Belciu}, {rcId: {172725}}
 
 [sequence]
 v1,c,v2,c,v3,c

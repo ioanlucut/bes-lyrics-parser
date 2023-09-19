@@ -1,5 +1,5 @@
 [title]
-Doar pacea lui in casa voastra fie {author: {Anonim}, {rcId: {169493}}
+Doar pacea lui in casa voastra fie {composer: {Anonim}, {rcId: {169493}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

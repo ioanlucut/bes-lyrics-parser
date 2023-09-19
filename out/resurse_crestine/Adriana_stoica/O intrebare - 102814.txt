@@ -1,5 +1,5 @@
 [title]
-O intrebare {author: {Adriana Stoica}, {rcId: {102814}}
+O intrebare {composer: {Adriana Stoica}, {rcId: {102814}}
 
 [sequence]
 v1,c,v2,b,c

@@ -1,5 +1,5 @@
 [title]
-Langa mine sta de paza {author: {Nicolae Moldoveanu}, {rcId: {228006}}
+Langa mine sta de paza {composer: {Nicolae Moldoveanu}, {rcId: {228006}}
 
 [sequence]
 v1,v2,v3

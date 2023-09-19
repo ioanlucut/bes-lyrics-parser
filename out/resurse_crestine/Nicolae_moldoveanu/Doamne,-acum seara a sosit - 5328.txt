@@ -1,5 +1,5 @@
 [title]
-Doamne-acum seara a sosit {author: {Nicolae Moldoveanu}, {rcId: {5328}}
+Doamne-acum seara a sosit {composer: {Nicolae Moldoveanu}, {rcId: {5328}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Trezeste-te biserica {author: {Anonim}, {rcId: {5101}}
+Trezeste-te biserica {composer: {Anonim}, {rcId: {5101}}
 
 [sequence]
 v1,c,v1,c

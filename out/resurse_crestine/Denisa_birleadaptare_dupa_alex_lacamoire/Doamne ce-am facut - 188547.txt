@@ -1,5 +1,5 @@
 [title]
-Doamne ce-am facut {author: {Denisa Birleadaptare după Alex Lacamoire}, {rcId: {188547}}
+Doamne ce-am facut {composer: {Denisa Birleadaptare după Alex Lacamoire}, {rcId: {188547}}
 
 [sequence]
 v1,c,v2,c2,e,c2

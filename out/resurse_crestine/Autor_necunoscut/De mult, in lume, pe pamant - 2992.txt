@@ -1,5 +1,5 @@
 [title]
-De mult in lume pe pamant {author: {Anonim}, {rcId: {2992}}
+De mult in lume pe pamant {composer: {Anonim}, {rcId: {2992}}
 
 [sequence]
 v1,c,v2,c,e

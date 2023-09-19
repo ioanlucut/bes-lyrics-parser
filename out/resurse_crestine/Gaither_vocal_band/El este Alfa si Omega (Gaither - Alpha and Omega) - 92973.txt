@@ -1,5 +1,5 @@
 [title]
-El este alfa si omega (gaither - alpha and omega) {author: {Gaither Vocal Band}, {rcId: {92973}}
+El este alfa si omega (gaither - alpha and omega) {composer: {Gaither Vocal Band}, {rcId: {92973}}
 
 [sequence]
 v1,v2,v3,b,c

@@ -1,5 +1,5 @@
 [title]
-Dragostea este divina {author: {Iany și Cristina Laurenciuc}, {rcId: {210061}}
+Dragostea este divina {composer: {Iany și Cristina Laurenciuc}, {rcId: {210061}}
 
 [sequence]
 v1,c,v2,c,v3,c

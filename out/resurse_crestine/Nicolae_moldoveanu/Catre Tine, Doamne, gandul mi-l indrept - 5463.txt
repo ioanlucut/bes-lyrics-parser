@@ -1,5 +1,5 @@
 [title]
-Catre tine doamne gandul mi-l indrept {author: {Nicolae Moldoveanu}, {rcId: {5463}}
+Catre tine doamne gandul mi-l indrept {composer: {Nicolae Moldoveanu}, {rcId: {5463}}
 
 [sequence]
 v1,c,v2,c,v3,c

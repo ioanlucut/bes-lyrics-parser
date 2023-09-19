@@ -1,5 +1,5 @@
 [title]
-Pace sfanta-mi dai isuse (jesus i am resting resting) {author: {Jean S. Pigott, James Mountain, Traducere RO}, {rcId: {240717}}
+Pace sfanta-mi dai isuse (jesus i am resting resting) {composer: {Jean S. Pigott, James Mountain, Traducere RO}, {rcId: {240717}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Un chip de lut tu ai facut {author: {Anonim}, {rcId: {59240}}
+Un chip de lut tu ai facut {composer: {Anonim}, {rcId: {59240}}
 
 [sequence]
 v1,c,v2,c,v3,c

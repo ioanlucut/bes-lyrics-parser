@@ -1,5 +1,5 @@
 [title]
-Vasul olarului {author: {Nicu Wagner}, {rcId: {55603}}
+Vasul olarului {composer: {Nicu Wagner}, {rcId: {55603}}
 
 [sequence]
 v1,c,v2,c,v3,c

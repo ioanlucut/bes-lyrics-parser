@@ -1,5 +1,5 @@
 [title]
-Dar sus pe golgota {author: {Adi Gliga}, {rcId: {1639}}
+Dar sus pe golgota {composer: {Adi Gliga}, {rcId: {1639}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

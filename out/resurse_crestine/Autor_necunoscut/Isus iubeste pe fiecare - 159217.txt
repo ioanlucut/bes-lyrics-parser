@@ -1,5 +1,5 @@
 [title]
-Isus iubeste pe fiecare {author: {Anonim}, {rcId: {159217}}
+Isus iubeste pe fiecare {composer: {Anonim}, {rcId: {159217}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

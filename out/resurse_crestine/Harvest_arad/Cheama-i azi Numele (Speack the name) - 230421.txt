@@ -1,5 +1,5 @@
 [title]
-Cheama-i azi numele (speack the name) {author: {Harvest Arad}, {rcId: {230421}}
+Cheama-i azi numele (speack the name) {composer: {Harvest Arad}, {rcId: {230421}}
 
 [sequence]
 v1,c,v2,b,c,c

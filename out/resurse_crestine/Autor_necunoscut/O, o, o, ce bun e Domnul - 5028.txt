@@ -1,5 +1,5 @@
 [title]
-O o o ce bun e domnul {author: {Anonim}, {rcId: {5028}}
+O o o ce bun e domnul {composer: {Anonim}, {rcId: {5028}}
 
 [sequence]
 v1,v2,v3,v4

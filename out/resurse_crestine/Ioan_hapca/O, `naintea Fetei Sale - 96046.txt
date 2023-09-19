@@ -1,5 +1,5 @@
 [title]
-O naintea fetei sale {author: {Ioan Hapca}, {rcId: {96046}}
+O naintea fetei sale {composer: {Ioan Hapca}, {rcId: {96046}}
 
 [sequence]
 v1,c,v2,c,v3,c

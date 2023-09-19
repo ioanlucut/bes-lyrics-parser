@@ -1,5 +1,5 @@
 [title]
-Binecuvanta-ne doamne {author: {The Messengers}, {rcId: {885}}
+Binecuvanta-ne doamne {composer: {The Messengers}, {rcId: {885}}
 
 [sequence]
 v1,c,v2,c,v3,c

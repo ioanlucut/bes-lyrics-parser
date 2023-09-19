@@ -1,5 +1,5 @@
 [title]
-Ochiul tatalui din ceruri {author: {Anonim}, {rcId: {68867}}
+Ochiul tatalui din ceruri {composer: {Anonim}, {rcId: {68867}}
 
 [sequence]
 v1,c,v2,c

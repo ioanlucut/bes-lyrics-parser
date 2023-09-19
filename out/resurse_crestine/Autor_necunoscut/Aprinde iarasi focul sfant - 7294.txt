@@ -1,5 +1,5 @@
 [title]
-Aprinde iarasi focul sfant {author: {Anonim}, {rcId: {7294}}
+Aprinde iarasi focul sfant {composer: {Anonim}, {rcId: {7294}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

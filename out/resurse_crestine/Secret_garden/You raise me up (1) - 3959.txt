@@ -1,5 +1,5 @@
 [title]
-You raise me up () {author: {Secret Garden, Traducere RO}, {rcId: {3959}}
+You raise me up () {composer: {Secret Garden, Traducere RO}, {rcId: {3959}}
 
 [sequence]
 v1,c,v2,c

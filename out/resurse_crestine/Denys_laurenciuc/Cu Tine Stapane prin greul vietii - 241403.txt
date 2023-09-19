@@ -1,5 +1,5 @@
 [title]
-Cu tine stapane prin greul vietii {author: {Denys Laurenciuc}, {rcId: {241403}}
+Cu tine stapane prin greul vietii {composer: {Denys Laurenciuc}, {rcId: {241403}}
 
 [sequence]
 v1,v2,v3

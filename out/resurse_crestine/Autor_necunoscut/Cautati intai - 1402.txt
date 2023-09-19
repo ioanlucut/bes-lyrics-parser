@@ -1,5 +1,5 @@
 [title]
-Cautati intai {author: {Anonim}, {rcId: {1402}}
+Cautati intai {composer: {Anonim}, {rcId: {1402}}
 
 [sequence]
 v1,c

@@ -1,5 +1,5 @@
 [title]
-Iubirea ta {author: {Nicu Wagner}, {rcId: {74922}}
+Iubirea ta {composer: {Nicu Wagner}, {rcId: {74922}}
 
 [sequence]
 v1,c,v2,c,v3,c

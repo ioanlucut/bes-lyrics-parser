@@ -1,5 +1,5 @@
 [title]
-O putere nemaipomenita {author: {Daniel Hartie}, {rcId: {7221}}
+O putere nemaipomenita {composer: {Daniel Hartie}, {rcId: {7221}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

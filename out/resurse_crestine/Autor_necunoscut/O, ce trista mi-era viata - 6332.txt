@@ -1,5 +1,5 @@
 [title]
-O ce trista mi-era viata {author: {Anonim}, {rcId: {6332}}
+O ce trista mi-era viata {composer: {Anonim}, {rcId: {6332}}
 
 [sequence]
 v1,v2,v3,v4

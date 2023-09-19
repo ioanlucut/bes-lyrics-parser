@@ -1,5 +1,5 @@
 [title]
-Imi e de-ajuns cat am umblat strain in lume {author: {Alexandru Groza}, {rcId: {193438}}
+Imi e de-ajuns cat am umblat strain in lume {composer: {Alexandru Groza}, {rcId: {193438}}
 
 [sequence]
 v1,c,v2,c

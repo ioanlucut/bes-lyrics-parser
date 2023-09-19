@@ -1,5 +1,5 @@
 [title]
-Atunci cand david lauda {author: {Anonim}, {rcId: {233465}}
+Atunci cand david lauda {composer: {Anonim}, {rcId: {233465}}
 
 [sequence]
 v1,c,v2,c,v3,c

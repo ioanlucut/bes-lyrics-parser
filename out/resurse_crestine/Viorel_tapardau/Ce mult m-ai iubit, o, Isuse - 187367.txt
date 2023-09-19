@@ -1,5 +1,5 @@
 [title]
-Ce mult m-ai iubit o isuse {author: {Viorel Tăpârdău}, {rcId: {187367}}
+Ce mult m-ai iubit o isuse {composer: {Viorel Tăpârdău}, {rcId: {187367}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

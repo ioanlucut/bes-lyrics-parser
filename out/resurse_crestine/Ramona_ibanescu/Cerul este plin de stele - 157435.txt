@@ -1,5 +1,5 @@
 [title]
-Cerul este plin de stele {author: {Ramona Ibănescu}, {rcId: {157435}}
+Cerul este plin de stele {composer: {Ramona Ibănescu}, {rcId: {157435}}
 
 [sequence]
 v1,c

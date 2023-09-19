@@ -1,5 +1,5 @@
 [title]
-Eu sunt nimic {author: {Raluca și Raul Ursan}, {rcId: {55507}}
+Eu sunt nimic {composer: {Raluca și Raul Ursan}, {rcId: {55507}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Invata-ma ca sa inteleg isuse {author: {Petrișor Bodea}, {rcId: {78968}}
+Invata-ma ca sa inteleg isuse {composer: {Petrișor Bodea}, {rcId: {78968}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

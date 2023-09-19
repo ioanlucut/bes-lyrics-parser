@@ -1,5 +1,5 @@
 [title]
-Nu e nume mai minunat(what a beautiful name) {author: {Hillsong Worship}, {rcId: {183518}}
+Nu e nume mai minunat(what a beautiful name) {composer: {Hillsong Worship}, {rcId: {183518}}
 
 [sequence]
 v1,c,v2,c2,b,e,c3,e,c3

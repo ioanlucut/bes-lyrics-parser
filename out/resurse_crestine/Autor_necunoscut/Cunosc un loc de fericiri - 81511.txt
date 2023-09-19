@@ -1,5 +1,5 @@
 [title]
-Cunosc un loc de fericiri {author: {Anonim}, {rcId: {81511}}
+Cunosc un loc de fericiri {composer: {Anonim}, {rcId: {81511}}
 
 [sequence]
 v1,v2,v3,v4

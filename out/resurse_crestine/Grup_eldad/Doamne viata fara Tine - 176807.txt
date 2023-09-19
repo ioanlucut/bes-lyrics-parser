@@ -1,5 +1,5 @@
 [title]
-Doamne viata fara tine {author: {Grup Eldad}, {rcId: {176807}}
+Doamne viata fara tine {composer: {Grup Eldad}, {rcId: {176807}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Chiar daca valuri vor veni {author: {Fratii din Bacesti}, {rcId: {210127}}
+Chiar daca valuri vor veni {composer: {Fratii din Bacesti}, {rcId: {210127}}
 
 [sequence]
 v1,c,v2,c,v3,c

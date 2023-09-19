@@ -1,5 +1,5 @@
 [title]
-Sa fii in lume raza de soare {author: {Anonim}, {rcId: {61436}}
+Sa fii in lume raza de soare {composer: {Anonim}, {rcId: {61436}}
 
 [sequence]
 v1,v2

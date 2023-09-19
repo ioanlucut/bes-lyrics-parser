@@ -1,5 +1,5 @@
 [title]
-Am biruit in numele lui isus {author: {Speranța}, {rcId: {111326}}
+Am biruit in numele lui isus {composer: {Speranța}, {rcId: {111326}}
 
 [sequence]
 v1,b,c,v2,c,v3,c

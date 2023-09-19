@@ -1,5 +1,5 @@
 [title]
-Voi slavi pe mielul gloriei {author: {Colegiul Biblic Est European}, {rcId: {5147}}
+Voi slavi pe mielul gloriei {composer: {Colegiul Biblic Est European}, {rcId: {5147}}
 
 [sequence]
 v1,c

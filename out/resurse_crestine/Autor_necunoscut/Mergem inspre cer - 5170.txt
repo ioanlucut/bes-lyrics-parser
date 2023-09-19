@@ -1,5 +1,5 @@
 [title]
-Mergem inspre cer {author: {Anonim}, {rcId: {5170}}
+Mergem inspre cer {composer: {Anonim}, {rcId: {5170}}
 
 [sequence]
 v1,v2,v3,v4,v5

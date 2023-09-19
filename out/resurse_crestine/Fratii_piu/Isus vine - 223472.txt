@@ -1,5 +1,5 @@
 [title]
-Isus vine {author: {Fratii Piu}, {rcId: {223472}}
+Isus vine {composer: {Fratii Piu}, {rcId: {223472}}
 
 [sequence]
 v1,c,v2,c

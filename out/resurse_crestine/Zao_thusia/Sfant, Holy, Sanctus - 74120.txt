@@ -1,5 +1,5 @@
 [title]
-Sfant holy sanctus {author: {Zao Thusia}, {rcId: {74120}}
+Sfant holy sanctus {composer: {Zao Thusia}, {rcId: {74120}}
 
 [sequence]
 v1,c,c2,v2,c3,e,e

@@ -1,5 +1,5 @@
 [title]
-Pe pamantu-acesta (vom trai in ceruri) {author: {Andrei C}, {rcId: {209167}}
+Pe pamantu-acesta (vom trai in ceruri) {composer: {Andrei C}, {rcId: {209167}}
 
 [sequence]
 v1,c,v3,c,v4,c,v5,c

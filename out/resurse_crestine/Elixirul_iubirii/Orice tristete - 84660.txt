@@ -1,5 +1,5 @@
 [title]
-Orice tristete {author: {Elixirul iubirii}, {rcId: {84660}}
+Orice tristete {composer: {Elixirul iubirii}, {rcId: {84660}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

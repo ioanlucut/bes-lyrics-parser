@@ -1,5 +1,5 @@
 [title]
-Ninge ninge {author: {Nicolae Moldoveanu}, {rcId: {236029}}
+Ninge ninge {composer: {Nicolae Moldoveanu}, {rcId: {236029}}
 
 [sequence]
 v1,c,v2,c

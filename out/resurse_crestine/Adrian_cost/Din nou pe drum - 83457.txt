@@ -1,5 +1,5 @@
 [title]
-Din nou pe drum {author: {Adrian Cost}, {rcId: {83457}}
+Din nou pe drum {composer: {Adrian Cost}, {rcId: {83457}}
 
 [sequence]
 v1,c,v2,c,e

@@ -1,5 +1,5 @@
 [title]
-Domnul e pastorul meu {author: {Anonim}, {rcId: {125162}}
+Domnul e pastorul meu {composer: {Anonim}, {rcId: {125162}}
 
 [sequence]
 v1,c,v2,c,v3,c

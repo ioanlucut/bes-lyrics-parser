@@ -1,5 +1,5 @@
 [title]
-Chiar daca vantul-a vrut in zbor in turme {author: {Costache Ioanid}, {rcId: {246137}}
+Chiar daca vantul-a vrut in zbor in turme {composer: {Costache Ioanid}, {rcId: {246137}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

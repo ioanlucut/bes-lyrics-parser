@@ -1,5 +1,5 @@
 [title]
-Dintre florile ce-mbraca plaiurile firii {author: {Anonim}, {rcId: {3824}}
+Dintre florile ce-mbraca plaiurile firii {composer: {Anonim}, {rcId: {3824}}
 
 [sequence]
 v1,c,v2,c,v3,c

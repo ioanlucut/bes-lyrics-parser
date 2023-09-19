@@ -1,5 +1,5 @@
 [title]
-Ce adanc ma mangai {author: {Nicolae Moldoveanu}, {rcId: {243960}}
+Ce adanc ma mangai {composer: {Nicolae Moldoveanu}, {rcId: {243960}}
 
 [sequence]
 v1,v2,v3

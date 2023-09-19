@@ -1,5 +1,5 @@
 [title]
-Osana regelui {author: {Deo Gloria.}, {rcId: {55893}}
+Osana regelui {composer: {Deo Gloria.}, {rcId: {55893}}
 
 [sequence]
 v1,c,v2,c

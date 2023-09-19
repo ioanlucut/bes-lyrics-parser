@@ -1,5 +1,5 @@
 [title]
-Eu sa ma micsorez {author: {Sunny}, {rcId: {80922}}
+Eu sa ma micsorez {composer: {Sunny}, {rcId: {80922}}
 
 [sequence]
 v1,c

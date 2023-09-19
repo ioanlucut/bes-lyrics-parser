@@ -1,5 +1,5 @@
 [title]
-Isus esti calea {author: {Hillsong United}, {rcId: {4249}}
+Isus esti calea {composer: {Hillsong United}, {rcId: {4249}}
 
 [sequence]
 v1,c,v2,c,e

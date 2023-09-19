@@ -1,5 +1,5 @@
 [title]
-Stau treaz in miez de noapte {author: {Anonim}, {rcId: {209945}}
+Stau treaz in miez de noapte {composer: {Anonim}, {rcId: {209945}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

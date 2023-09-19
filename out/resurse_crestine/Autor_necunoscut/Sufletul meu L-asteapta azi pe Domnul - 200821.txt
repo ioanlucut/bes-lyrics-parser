@@ -1,5 +1,5 @@
 [title]
-Sufletul meu l-asteapta azi pe domnul {author: {Necunoscut}, {rcId: {200821}}
+Sufletul meu l-asteapta azi pe domnul {composer: {Necunoscut}, {rcId: {200821}}
 
 [sequence]
 v1,c,v2,c,v3,c

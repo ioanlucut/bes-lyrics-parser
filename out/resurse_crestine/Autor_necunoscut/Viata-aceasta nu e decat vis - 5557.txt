@@ -1,5 +1,5 @@
 [title]
-Viata-aceasta nu e decat vis {author: {Anonim}, {rcId: {5557}}
+Viata-aceasta nu e decat vis {composer: {Anonim}, {rcId: {5557}}
 
 [sequence]
 v1,v2,v3,v3

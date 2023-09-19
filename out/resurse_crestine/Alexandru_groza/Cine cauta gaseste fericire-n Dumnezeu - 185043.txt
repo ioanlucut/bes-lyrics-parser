@@ -1,5 +1,5 @@
 [title]
-Cine cauta gaseste fericire-n dumnezeu {author: {Alexandru Groza}, {rcId: {185043}}
+Cine cauta gaseste fericire-n dumnezeu {composer: {Alexandru Groza}, {rcId: {185043}}
 
 [sequence]
 v1,c,v2,c,v3,c

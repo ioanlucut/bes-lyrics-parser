@@ -1,5 +1,5 @@
 [title]
-Ce drum {author: {Text: Costache Ioanid, Muzica: Corina Bazon}, {rcId: {199396}}
+Ce drum {composer: {Text: Costache Ioanid, Muzica: Corina Bazon}, {rcId: {199396}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Spre slava lui {author: {Mihail Dimitriu}, {rcId: {7103}}
+Spre slava lui {composer: {Mihail Dimitriu}, {rcId: {7103}}
 
 [sequence]
 v1,v2,v3,v4,v5

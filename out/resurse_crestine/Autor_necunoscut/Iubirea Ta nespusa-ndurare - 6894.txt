@@ -1,5 +1,5 @@
 [title]
-Iubirea ta nespusa-ndurare {author: {Anonim}, {rcId: {6894}}
+Iubirea ta nespusa-ndurare {composer: {Anonim}, {rcId: {6894}}
 
 [sequence]
 v1,c,v2,c,v3,c

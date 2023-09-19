@@ -1,5 +1,5 @@
 [title]
-Dimineata s-a ivit ca o uimire {author: {Anonim}, {rcId: {7341}}
+Dimineata s-a ivit ca o uimire {composer: {Anonim}, {rcId: {7341}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

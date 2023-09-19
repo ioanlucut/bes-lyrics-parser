@@ -1,5 +1,5 @@
 [title]
-Clipe minunate {author: {Oana Seman}, {rcId: {7006}}
+Clipe minunate {composer: {Oana Seman}, {rcId: {7006}}
 
 [sequence]
 v1,v2,v3,v4

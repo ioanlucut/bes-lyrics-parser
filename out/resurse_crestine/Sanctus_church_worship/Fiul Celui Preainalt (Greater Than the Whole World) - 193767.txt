@@ -1,5 +1,5 @@
 [title]
-Fiul celui preainalt (greater than the whole world) {author: {Sanctus Church Worship, Traducere RO}, {rcId: {193767}}
+Fiul celui preainalt (greater than the whole world) {composer: {Sanctus Church Worship, Traducere RO}, {rcId: {193767}}
 
 [sequence]
 v1,c,v2,b,c

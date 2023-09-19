@@ -1,5 +1,5 @@
 [title]
-Ma-ndrept spre cer {author: {Emma}, {rcId: {112951}}
+Ma-ndrept spre cer {composer: {Emma}, {rcId: {112951}}
 
 [sequence]
 v1,b,c,v2,b,c,e

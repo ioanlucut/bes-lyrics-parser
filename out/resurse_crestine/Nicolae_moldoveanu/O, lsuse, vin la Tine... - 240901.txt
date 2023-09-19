@@ -1,5 +1,5 @@
 [title]
-O lsuse vin la tine {author: {Nicolae Moldoveanu}, {rcId: {240901}}
+O lsuse vin la tine {composer: {Nicolae Moldoveanu}, {rcId: {240901}}
 
 [sequence]
 v1,v2,v3,v4

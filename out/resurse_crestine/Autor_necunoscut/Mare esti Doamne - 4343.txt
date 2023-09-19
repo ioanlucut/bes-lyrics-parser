@@ -1,5 +1,5 @@
 [title]
-Mare esti doamne {author: {Anonim}, {rcId: {4343}}
+Mare esti doamne {composer: {Anonim}, {rcId: {4343}}
 
 [sequence]
 v1,v2,v3

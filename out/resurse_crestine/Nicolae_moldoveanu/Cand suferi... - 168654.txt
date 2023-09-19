@@ -1,5 +1,5 @@
 [title]
-Cand suferi {author: {Nicolae Moldoveanu}, {rcId: {168654}}
+Cand suferi {composer: {Nicolae Moldoveanu}, {rcId: {168654}}
 
 [sequence]
 v1,v2,v3,v4

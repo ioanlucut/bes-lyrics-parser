@@ -1,5 +1,5 @@
 [title]
-La nunta cea din cana tu maica-a lui hristos {author: {Nicolae Moldoveanu}, {rcId: {189853}}
+La nunta cea din cana tu maica-a lui hristos {composer: {Nicolae Moldoveanu}, {rcId: {189853}}
 
 [sequence]
 v1,v2,v3,v4

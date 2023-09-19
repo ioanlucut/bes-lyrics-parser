@@ -1,5 +1,5 @@
 [title]
-Bunatatea ta mi-e sprijin {author: {Nicolae Moldoveanu}, {rcId: {1800}}
+Bunatatea ta mi-e sprijin {composer: {Nicolae Moldoveanu}, {rcId: {1800}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Doamne eu iti cant un cantec nou {author: {Anonim}, {rcId: {4889}}
+Doamne eu iti cant un cantec nou {composer: {Anonim}, {rcId: {4889}}
 
 [sequence]
 v1,c

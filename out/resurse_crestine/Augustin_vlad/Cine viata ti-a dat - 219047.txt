@@ -1,5 +1,5 @@
 [title]
-Cine viata ti-a dat {author: {Augustin Vlad}, {rcId: {219047}}
+Cine viata ti-a dat {composer: {Augustin Vlad}, {rcId: {219047}}
 
 [sequence]
 v1,c,v2,c,v3,c

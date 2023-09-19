@@ -1,5 +1,5 @@
 [title]
-In palma ta {author: {Alin și Emima Timofte}, {rcId: {75200}}
+In palma ta {composer: {Alin și Emima Timofte}, {rcId: {75200}}
 
 [sequence]
 v1,c,v2,c

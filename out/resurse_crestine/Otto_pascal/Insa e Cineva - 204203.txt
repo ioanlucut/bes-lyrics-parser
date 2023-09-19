@@ -1,5 +1,5 @@
 [title]
-Insa e cineva {author: {Otto Pascal}, {rcId: {204203}}
+Insa e cineva {composer: {Otto Pascal}, {rcId: {204203}}
 
 [sequence]
 v1,c,v2,c,e,c

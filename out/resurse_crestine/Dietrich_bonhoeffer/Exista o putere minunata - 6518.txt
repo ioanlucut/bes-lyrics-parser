@@ -1,5 +1,5 @@
 [title]
-Exista o putere minunata {author: {Dietrich Bonhoeffer}, {rcId: {6518}}
+Exista o putere minunata {composer: {Dietrich Bonhoeffer}, {rcId: {6518}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

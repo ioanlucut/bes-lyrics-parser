@@ -1,5 +1,5 @@
 [title]
-Inteleptii lumii {author: {Anonim}, {rcId: {237370}}
+Inteleptii lumii {composer: {Anonim}, {rcId: {237370}}
 
 [sequence]
 v1,e,v2,e2,v3,e3

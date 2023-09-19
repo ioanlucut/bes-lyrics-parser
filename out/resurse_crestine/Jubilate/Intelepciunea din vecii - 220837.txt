@@ -1,5 +1,5 @@
 [title]
-Intelepciunea din vecii {author: {Jubilate}, {rcId: {220837}}
+Intelepciunea din vecii {composer: {Jubilate}, {rcId: {220837}}
 
 [sequence]
 v1,v2,v3

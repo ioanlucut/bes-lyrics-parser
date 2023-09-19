@@ -1,5 +1,5 @@
 [title]
-Lemnul crucii sfinte {author: {Beniamin Fodoreanu  HYChoir }, {rcId: {189196}}
+Lemnul crucii sfinte {composer: {Beniamin Fodoreanu  HYChoir }, {rcId: {189196}}
 
 [sequence]
 v1,v2,c,v3,c,c,c

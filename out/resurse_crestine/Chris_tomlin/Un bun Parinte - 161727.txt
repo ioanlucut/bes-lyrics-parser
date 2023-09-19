@@ -1,5 +1,5 @@
 [title]
-Un bun parinte {author: {Chris Tomlin, Traducere RO}, {rcId: {161727}}
+Un bun parinte {composer: {Chris Tomlin, Traducere RO}, {rcId: {161727}}
 
 [sequence]
 v1,c,v2,c,c,v3,c

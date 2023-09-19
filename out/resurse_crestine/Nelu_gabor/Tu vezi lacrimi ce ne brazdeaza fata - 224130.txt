@@ -1,5 +1,5 @@
 [title]
-Tu vezi lacrimi ce ne brazdeaza fata {author: {Nelu gabor}, {rcId: {224130}}
+Tu vezi lacrimi ce ne brazdeaza fata {composer: {Nelu gabor}, {rcId: {224130}}
 
 [sequence]
 v1,c,v2,c,v3,c

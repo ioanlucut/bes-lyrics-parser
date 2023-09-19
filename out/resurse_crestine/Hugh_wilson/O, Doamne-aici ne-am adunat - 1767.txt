@@ -1,5 +1,5 @@
 [title]
-O doamne-aici ne-am adunat {author: {Hugh Wilson}, {rcId: {1767}}
+O doamne-aici ne-am adunat {composer: {Hugh Wilson}, {rcId: {1767}}
 
 [sequence]
 v1,v2,v3,v4

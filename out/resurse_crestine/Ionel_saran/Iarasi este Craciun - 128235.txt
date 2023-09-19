@@ -1,5 +1,5 @@
 [title]
-Iarasi este craciun {author: {Ionel Saran}, {rcId: {128235}}
+Iarasi este craciun {composer: {Ionel Saran}, {rcId: {128235}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

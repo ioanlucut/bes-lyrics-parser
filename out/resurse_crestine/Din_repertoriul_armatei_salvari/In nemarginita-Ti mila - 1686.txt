@@ -1,5 +1,5 @@
 [title]
-In nemarginita-ti mila {author: {Din repertoriul Armatei Salvari}, {rcId: {1686}}
+In nemarginita-ti mila {composer: {Din repertoriul Armatei Salvari}, {rcId: {1686}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

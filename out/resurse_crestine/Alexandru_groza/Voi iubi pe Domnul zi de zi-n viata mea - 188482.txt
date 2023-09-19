@@ -1,5 +1,5 @@
 [title]
-Voi iubi pe domnul zi de zi-n viata mea {author: {Alexandru Groza}, {rcId: {188482}}
+Voi iubi pe domnul zi de zi-n viata mea {composer: {Alexandru Groza}, {rcId: {188482}}
 
 [sequence]
 v1,c,v2,c

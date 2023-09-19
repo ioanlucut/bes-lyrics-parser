@@ -1,5 +1,5 @@
 [title]
-Daca ai umbrela ploaia nu te uda {author: {Anonim}, {rcId: {74515}}
+Daca ai umbrela ploaia nu te uda {composer: {Anonim}, {rcId: {74515}}
 
 [sequence]
 v1,v2,v3

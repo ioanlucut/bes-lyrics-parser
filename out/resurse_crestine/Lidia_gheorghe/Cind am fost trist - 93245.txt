@@ -1,5 +1,5 @@
 [title]
-Cind am fost trist {author: {Lidia Gheorghe}, {rcId: {93245}}
+Cind am fost trist {composer: {Lidia Gheorghe}, {rcId: {93245}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c2

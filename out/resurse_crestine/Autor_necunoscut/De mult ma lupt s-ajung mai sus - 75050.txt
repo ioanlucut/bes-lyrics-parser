@@ -1,5 +1,5 @@
 [title]
-De mult ma lupt s-ajung mai sus {author: {Ionica Stoica ?}, {rcId: {75050}}
+De mult ma lupt s-ajung mai sus {composer: {Ionica Stoica ?}, {rcId: {75050}}
 
 [sequence]
 v1,v2,v3,v4,v5

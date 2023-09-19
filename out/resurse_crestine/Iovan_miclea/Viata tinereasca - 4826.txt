@@ -1,5 +1,5 @@
 [title]
-Viata tinereasca {author: {Iovan Miclea}, {rcId: {4826}}
+Viata tinereasca {composer: {Iovan Miclea}, {rcId: {4826}}
 
 [sequence]
 v1,c,v2,c,v3,c

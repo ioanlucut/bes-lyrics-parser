@@ -1,5 +1,5 @@
 [title]
-Din tesuturi nevazute (dintr-o mana de tarana) {author: {Puiu Chibici}, {rcId: {5967}}
+Din tesuturi nevazute (dintr-o mana de tarana) {composer: {Puiu Chibici}, {rcId: {5967}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Nu te ingrijora {author: {Nicu Draghici, Elvis din Bărbulești}, {rcId: {178563}}
+Nu te ingrijora {composer: {Nicu Draghici, Elvis din Bărbulești}, {rcId: {178563}}
 
 [sequence]
 v1,c,v2,c,v3,c

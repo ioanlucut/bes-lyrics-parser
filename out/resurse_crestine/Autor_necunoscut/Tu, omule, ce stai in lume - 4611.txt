@@ -1,5 +1,5 @@
 [title]
-Tu omule ce stai in lume {author: {Anonim}, {rcId: {4611}}
+Tu omule ce stai in lume {composer: {Anonim}, {rcId: {4611}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

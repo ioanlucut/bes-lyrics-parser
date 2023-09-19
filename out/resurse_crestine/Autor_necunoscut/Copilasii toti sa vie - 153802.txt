@@ -1,5 +1,5 @@
 [title]
-Copilasii toti sa vie {author: {Anonim}, {rcId: {153802}}
+Copilasii toti sa vie {composer: {Anonim}, {rcId: {153802}}
 
 [sequence]
 v1,v2,v3,v4,v5

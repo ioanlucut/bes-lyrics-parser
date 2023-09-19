@@ -1,5 +1,5 @@
 [title]
-Te vom inalta {author: {BBSO}, {rcId: {214234}}
+Te vom inalta {composer: {BBSO}, {rcId: {214234}}
 
 [sequence]
 v1,v2,c,v3,c

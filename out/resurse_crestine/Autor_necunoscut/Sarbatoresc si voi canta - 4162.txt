@@ -1,5 +1,5 @@
 [title]
-Sarbatoresc si voi canta {author: {Anonim}, {rcId: {4162}}
+Sarbatoresc si voi canta {composer: {Anonim}, {rcId: {4162}}
 
 [sequence]
 v1,c

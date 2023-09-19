@@ -1,5 +1,5 @@
 [title]
-Domn al slavei {author: {Matt Redman}, {rcId: {2464}}
+Domn al slavei {composer: {Matt Redman}, {rcId: {2464}}
 
 [sequence]
 v1,c,c,v2,c,e

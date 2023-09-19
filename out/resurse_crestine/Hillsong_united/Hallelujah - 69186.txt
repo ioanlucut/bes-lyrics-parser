@@ -1,5 +1,5 @@
 [title]
-Hallelujah {author: {Hillsong United, Traducere RO}, {rcId: {69186}}
+Hallelujah {composer: {Hillsong United, Traducere RO}, {rcId: {69186}}
 
 [sequence]
 v1,v2,v3,v4,c,e

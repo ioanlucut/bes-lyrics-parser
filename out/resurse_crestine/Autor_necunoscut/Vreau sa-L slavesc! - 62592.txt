@@ -1,5 +1,5 @@
 [title]
-Vreau sa-l slavesc {author: {Anonim}, {rcId: {62592}}
+Vreau sa-l slavesc {composer: {Anonim}, {rcId: {62592}}
 
 [sequence]
 v1,v2,v3

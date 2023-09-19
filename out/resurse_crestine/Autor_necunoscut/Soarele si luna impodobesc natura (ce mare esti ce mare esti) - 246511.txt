@@ -1,5 +1,5 @@
 [title]
-Soarele si luna impodobesc natura (ce mare esti ce mare esti) {author: {Anonim}, {rcId: {246511}}
+Soarele si luna impodobesc natura (ce mare esti ce mare esti) {composer: {Anonim}, {rcId: {246511}}
 
 [sequence]
 v1,b,c,v2,c

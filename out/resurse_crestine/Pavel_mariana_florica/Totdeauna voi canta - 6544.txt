@@ -1,5 +1,5 @@
 [title]
-Totdeauna voi canta {author: {Pavel Mariana, Florica}, {rcId: {6544}}
+Totdeauna voi canta {composer: {Pavel Mariana, Florica}, {rcId: {6544}}
 
 [sequence]
 v1,v2,v3,v4

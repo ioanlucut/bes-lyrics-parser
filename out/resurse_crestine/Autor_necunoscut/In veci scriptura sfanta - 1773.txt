@@ -1,5 +1,5 @@
 [title]
-In veci scriptura sfanta {author: {Anonim}, {rcId: {1773}}
+In veci scriptura sfanta {composer: {Anonim}, {rcId: {1773}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

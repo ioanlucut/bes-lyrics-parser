@@ -1,5 +1,5 @@
 [title]
-Te caut doamne pentru ca esti dumnezeul meu {author: {Anonim}, {rcId: {4172}}
+Te caut doamne pentru ca esti dumnezeul meu {composer: {Anonim}, {rcId: {4172}}
 
 [sequence]
 v1,c,v2,c,v3,c

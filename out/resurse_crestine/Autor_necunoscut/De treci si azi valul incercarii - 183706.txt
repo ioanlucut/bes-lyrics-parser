@@ -1,5 +1,5 @@
 [title]
-De treci si azi valul incercarii {author: {Autor necunoscut.}, {rcId: {183706}}
+De treci si azi valul incercarii {composer: {Autor necunoscut.}, {rcId: {183706}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

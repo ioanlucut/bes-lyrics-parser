@@ -1,5 +1,5 @@
 [title]
-Prietenul {author: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {210620}}
+Prietenul {composer: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {210620}}
 
 [sequence]
 v1,v2,v3,v4

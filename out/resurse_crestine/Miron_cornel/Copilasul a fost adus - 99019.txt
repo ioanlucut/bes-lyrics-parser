@@ -1,5 +1,5 @@
 [title]
-Copilasul a fost adus {author: {Miron Cornel}, {rcId: {99019}}
+Copilasul a fost adus {composer: {Miron Cornel}, {rcId: {99019}}
 
 [sequence]
 v1,c,v2,c,v3,c

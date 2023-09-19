@@ -1,5 +1,5 @@
 [title]
-Slujitorul - domnul ti-a facut chemare {author: {Ovidiu Liteanu}, {rcId: {225852}}
+Slujitorul - domnul ti-a facut chemare {composer: {Ovidiu Liteanu}, {rcId: {225852}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

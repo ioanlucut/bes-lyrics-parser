@@ -1,5 +1,5 @@
 [title]
-Flori sa-mi zambiti pe carare {author: {Diaz Amos}, {rcId: {238800}}
+Flori sa-mi zambiti pe carare {composer: {Diaz Amos}, {rcId: {238800}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

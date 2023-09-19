@@ -1,5 +1,5 @@
 [title]
-Nu dispera cand esti lovit {author: {Anonim}, {rcId: {60297}}
+Nu dispera cand esti lovit {composer: {Anonim}, {rcId: {60297}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

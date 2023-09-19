@@ -1,5 +1,5 @@
 [title]
-Asteptare {author: {Speranța}, {rcId: {3966}}
+Asteptare {composer: {Speranța}, {rcId: {3966}}
 
 [sequence]
 v1,v2,v3,v4

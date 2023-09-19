@@ -1,5 +1,5 @@
 [title]
-Mai spune doamne un cuvant {author: {Simona Fedorciuc}, {rcId: {188833}}
+Mai spune doamne un cuvant {composer: {Simona Fedorciuc}, {rcId: {188833}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

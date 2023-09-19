@@ -1,5 +1,5 @@
 [title]
-Inaintea ta isuse {author: {Miron Cornel}, {rcId: {187962}}
+Inaintea ta isuse {composer: {Miron Cornel}, {rcId: {187962}}
 
 [sequence]
 v1,c,v2,c,v3,c

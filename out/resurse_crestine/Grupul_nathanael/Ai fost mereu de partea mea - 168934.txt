@@ -1,5 +1,5 @@
 [title]
-Ai fost mereu de partea mea {author: {Grupul Nathanael}, {rcId: {168934}}
+Ai fost mereu de partea mea {composer: {Grupul Nathanael}, {rcId: {168934}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Pe veci sa fiu al tau {author: {Alin și Emima Timofte}, {rcId: {75205}}
+Pe veci sa fiu al tau {composer: {Alin și Emima Timofte}, {rcId: {75205}}
 
 [sequence]
 v1,c,e

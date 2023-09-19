@@ -1,5 +1,5 @@
 [title]
-Te rog mai spala-mi haina {author: {Daniel Bolohan}, {rcId: {151402}}
+Te rog mai spala-mi haina {composer: {Daniel Bolohan}, {rcId: {151402}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

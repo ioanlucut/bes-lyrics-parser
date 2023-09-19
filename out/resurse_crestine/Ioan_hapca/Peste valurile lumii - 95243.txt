@@ -1,5 +1,5 @@
 [title]
-Peste valurile lumii {author: {Ioan Hapca}, {rcId: {95243}}
+Peste valurile lumii {composer: {Ioan Hapca}, {rcId: {95243}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

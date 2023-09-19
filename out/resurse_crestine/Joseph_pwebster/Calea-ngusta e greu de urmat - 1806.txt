@@ -1,5 +1,5 @@
 [title]
-Calea-ngusta e greu de urmat {author: {Joseph P.Webster}, {rcId: {1806}}
+Calea-ngusta e greu de urmat {composer: {Joseph P.Webster}, {rcId: {1806}}
 
 [sequence]
 v1,c,v2,c,v3,c

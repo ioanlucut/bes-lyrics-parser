@@ -1,5 +1,5 @@
 [title]
-Ma aplec in rugaciune {author: {Anonim}, {rcId: {151559}}
+Ma aplec in rugaciune {composer: {Anonim}, {rcId: {151559}}
 
 [sequence]
 v1,c,v2,c,v3,c

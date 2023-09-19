@@ -1,5 +1,5 @@
 [title]
-Nadejdea in tine ne este isuse {author: {Maria Șimon}, {rcId: {197873}}
+Nadejdea in tine ne este isuse {composer: {Maria Șimon}, {rcId: {197873}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

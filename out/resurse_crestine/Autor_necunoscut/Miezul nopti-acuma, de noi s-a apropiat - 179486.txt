@@ -1,5 +1,5 @@
 [title]
-Miezul nopti-acuma de noi s-a apropiat {author: {Anonim}, {rcId: {179486}}
+Miezul nopti-acuma de noi s-a apropiat {composer: {Anonim}, {rcId: {179486}}
 
 [sequence]
 v1,c,v2,c

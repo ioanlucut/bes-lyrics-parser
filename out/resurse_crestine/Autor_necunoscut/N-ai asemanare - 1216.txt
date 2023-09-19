@@ -1,5 +1,5 @@
 [title]
-N-ai asemanare {author: {Anonim}, {rcId: {1216}}
+N-ai asemanare {composer: {Anonim}, {rcId: {1216}}
 
 [sequence]
 v1,c,v2,c,v3,c

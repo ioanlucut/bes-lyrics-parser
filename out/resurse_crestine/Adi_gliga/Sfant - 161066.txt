@@ -1,5 +1,5 @@
 [title]
-Sfant {author: {Adi Gliga}, {rcId: {161066}}
+Sfant {composer: {Adi Gliga}, {rcId: {161066}}
 
 [sequence]
 v1,b,c,v2,b2,c,e,c

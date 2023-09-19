@@ -1,5 +1,5 @@
 [title]
-Tu esti floarea vietii mele {author: {Ionel Saran Bochis}, {rcId: {111185}}
+Tu esti floarea vietii mele {composer: {Ionel Saran Bochis}, {rcId: {111185}}
 
 [sequence]
 v1,c,v2,c,v3,c

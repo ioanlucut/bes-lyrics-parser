@@ -1,5 +1,5 @@
 [title]
-Regele vietii {author: {Johnny Daraban}, {rcId: {121481}}
+Regele vietii {composer: {Johnny Daraban}, {rcId: {121481}}
 
 [sequence]
 v1,c,v2,b,c

@@ -1,5 +1,5 @@
 [title]
-Doamne tu esti a mea iubire {author: {RoKa}, {rcId: {77475}}
+Doamne tu esti a mea iubire {composer: {RoKa}, {rcId: {77475}}
 
 [sequence]
 v1,c,v2,c

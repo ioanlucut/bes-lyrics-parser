@@ -1,5 +1,5 @@
 [title]
-Jos bate vantul si furtuna {author: {Nicolae Moldoveanu}, {rcId: {5908}}
+Jos bate vantul si furtuna {composer: {Nicolae Moldoveanu}, {rcId: {5908}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

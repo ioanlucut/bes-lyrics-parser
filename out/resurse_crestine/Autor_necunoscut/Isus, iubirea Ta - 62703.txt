@@ -1,5 +1,5 @@
 [title]
-Isus iubirea ta {author: {Anonim}, {rcId: {62703}}
+Isus iubirea ta {composer: {Anonim}, {rcId: {62703}}
 
 [sequence]
 v1,c,v2,c2

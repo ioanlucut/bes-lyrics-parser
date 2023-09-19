@@ -1,5 +1,5 @@
 [title]
-Robia sufletului {author: {Adi Gliga}, {rcId: {101764}}
+Robia sufletului {composer: {Adi Gliga}, {rcId: {101764}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Tata te slavesc {author: {Maranata Oradea}, {rcId: {131315}}
+Tata te slavesc {composer: {Maranata Oradea}, {rcId: {131315}}
 
 [sequence]
 v1,v2,v3

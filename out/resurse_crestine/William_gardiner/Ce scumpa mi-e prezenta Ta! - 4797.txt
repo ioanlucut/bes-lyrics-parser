@@ -1,5 +1,5 @@
 [title]
-Ce scumpa mi-e prezenta ta {author: {William Gardiner}, {rcId: {4797}}
+Ce scumpa mi-e prezenta ta {composer: {William Gardiner}, {rcId: {4797}}
 
 [sequence]
 v1,v2,v3,v4

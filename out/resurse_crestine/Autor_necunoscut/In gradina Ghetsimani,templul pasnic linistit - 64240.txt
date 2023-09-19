@@ -1,5 +1,5 @@
 [title]
-In gradina ghetsimanitemplul pasnic linistit {author: {Anonim}, {rcId: {64240}}
+In gradina ghetsimanitemplul pasnic linistit {composer: {Anonim}, {rcId: {64240}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

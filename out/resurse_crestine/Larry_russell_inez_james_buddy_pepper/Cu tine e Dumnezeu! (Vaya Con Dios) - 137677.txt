@@ -1,5 +1,5 @@
 [title]
-Cu tine e dumnezeu (vaya con dios) {author: {Larry Russell, Inez James, Buddy Pepper, Traducere RO}, {rcId: {137677}}
+Cu tine e dumnezeu (vaya con dios) {composer: {Larry Russell, Inez James, Buddy Pepper, Traducere RO}, {rcId: {137677}}
 
 [sequence]
 v1,v2,v3,v4,s

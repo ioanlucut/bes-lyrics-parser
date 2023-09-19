@@ -1,5 +1,5 @@
 [title]
-Mergem pe calea vietii {author: {Ionică Stoica}, {rcId: {64342}}
+Mergem pe calea vietii {composer: {Ionică Stoica}, {rcId: {64342}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

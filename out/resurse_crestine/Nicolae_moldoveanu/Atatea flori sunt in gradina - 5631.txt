@@ -1,5 +1,5 @@
 [title]
-Atatea flori sunt in gradina {author: {Nicolae Moldoveanu}, {rcId: {5631}}
+Atatea flori sunt in gradina {composer: {Nicolae Moldoveanu}, {rcId: {5631}}
 
 [sequence]
 v1,v3,v4,v5,v6,v7,v8,v9

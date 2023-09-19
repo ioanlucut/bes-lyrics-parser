@@ -1,5 +1,5 @@
 [title]
-Esti tot ce am {author: {Matt Redman}, {rcId: {5136}}
+Esti tot ce am {composer: {Matt Redman}, {rcId: {5136}}
 
 [sequence]
 v1,c,e

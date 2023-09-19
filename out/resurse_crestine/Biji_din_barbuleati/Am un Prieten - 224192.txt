@@ -1,5 +1,5 @@
 [title]
-Am un prieten {author: {Biji din Barbuleati}, {rcId: {224192}}
+Am un prieten {composer: {Biji din Barbuleati}, {rcId: {224192}}
 
 [sequence]
 v1,c,v2,c

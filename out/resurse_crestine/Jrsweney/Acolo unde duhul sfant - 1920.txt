@@ -1,5 +1,5 @@
 [title]
-Acolo unde duhul sfant {author: {J.R.Sweney}, {rcId: {1920}}
+Acolo unde duhul sfant {composer: {J.R.Sweney}, {rcId: {1920}}
 
 [sequence]
 v1,c,v2,c,v3,c

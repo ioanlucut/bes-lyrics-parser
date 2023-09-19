@@ -1,5 +1,5 @@
 [title]
-Tot ce imi doresc {author: {CristoCentric}, {rcId: {111422}}
+Tot ce imi doresc {composer: {CristoCentric}, {rcId: {111422}}
 
 [sequence]
 v1,b,c,v2,c,e

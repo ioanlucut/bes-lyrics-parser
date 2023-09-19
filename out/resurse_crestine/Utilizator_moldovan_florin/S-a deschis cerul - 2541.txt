@@ -1,5 +1,5 @@
 [title]
-S-a deschis cerul {author: {Utilizator Moldovan Florin}, {rcId: {2541}}
+S-a deschis cerul {composer: {Utilizator Moldovan Florin}, {rcId: {2541}}
 
 [sequence]
 v1,c,v2,c

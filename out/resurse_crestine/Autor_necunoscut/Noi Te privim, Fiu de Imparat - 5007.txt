@@ -1,5 +1,5 @@
 [title]
-Noi te privim fiu de imparat {author: {Anonim}, {rcId: {5007}}
+Noi te privim fiu de imparat {composer: {Anonim}, {rcId: {5007}}
 
 [sequence]
 c,v1,c

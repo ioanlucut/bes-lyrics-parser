@@ -1,5 +1,5 @@
 [title]
-Te-ntreb prietene il cunosti pe isus? {author: {Alexandru Groza}, {rcId: {82362}}
+Te-ntreb prietene il cunosti pe isus? {composer: {Alexandru Groza}, {rcId: {82362}}
 
 [sequence]
 v1,b,c,v2,c

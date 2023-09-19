@@ -1,5 +1,5 @@
 [title]
-Ochii tai {author: {Virginia Sorbală}, {rcId: {193178}}
+Ochii tai {composer: {Virginia Sorbală}, {rcId: {193178}}
 
 [sequence]
 v1,c,v2,c,v3,c

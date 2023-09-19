@@ -1,5 +1,5 @@
 [title]
-Ascult vocea ta {author: {Anonim}, {rcId: {7139}}
+Ascult vocea ta {composer: {Anonim}, {rcId: {7139}}
 
 [sequence]
 v1,c

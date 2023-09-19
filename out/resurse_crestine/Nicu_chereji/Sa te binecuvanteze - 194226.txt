@@ -1,5 +1,5 @@
 [title]
-Sa te binecuvanteze {author: {Nicu Chereji}, {rcId: {194226}}
+Sa te binecuvanteze {composer: {Nicu Chereji}, {rcId: {194226}}
 
 [sequence]
 v1,v2,v3,v4,v5,v8

@@ -1,5 +1,5 @@
 [title]
-Veverita {author: {Nicolae Moldoveanu}, {rcId: {236675}}
+Veverita {composer: {Nicolae Moldoveanu}, {rcId: {236675}}
 
 [sequence]
 v1,v2,v3,c

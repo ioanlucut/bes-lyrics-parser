@@ -1,5 +1,5 @@
 [title]
-Bucuria-n domnul {author: {Anonim}, {rcId: {65012}}
+Bucuria-n domnul {composer: {Anonim}, {rcId: {65012}}
 
 [sequence]
 v1,v2

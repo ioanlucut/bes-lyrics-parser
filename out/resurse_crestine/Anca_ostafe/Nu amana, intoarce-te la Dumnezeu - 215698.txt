@@ -1,5 +1,5 @@
 [title]
-Nu amana intoarce-te la dumnezeu {author: {Anca Ostafe}, {rcId: {215698}}
+Nu amana intoarce-te la dumnezeu {composer: {Anca Ostafe}, {rcId: {215698}}
 
 [sequence]
 v1,c,v2,c,v3,c

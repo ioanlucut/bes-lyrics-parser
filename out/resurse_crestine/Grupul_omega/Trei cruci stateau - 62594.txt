@@ -1,5 +1,5 @@
 [title]
-Trei cruci stateau {author: {Grupul Omega}, {rcId: {62594}}
+Trei cruci stateau {composer: {Grupul Omega}, {rcId: {62594}}
 
 [sequence]
 v1,c,e

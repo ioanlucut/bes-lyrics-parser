@@ -1,5 +1,5 @@
 [title]
-O suflete stai linistit {author: {Sola Scriptura}, {rcId: {121648}}
+O suflete stai linistit {composer: {Sola Scriptura}, {rcId: {121648}}
 
 [sequence]
 v1,v2,v3

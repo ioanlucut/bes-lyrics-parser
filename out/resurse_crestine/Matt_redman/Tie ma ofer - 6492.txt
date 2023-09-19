@@ -1,5 +1,5 @@
 [title]
-Tie ma ofer {author: {Matt Redman}, {rcId: {6492}}
+Tie ma ofer {composer: {Matt Redman}, {rcId: {6492}}
 
 [sequence]
 v1,c

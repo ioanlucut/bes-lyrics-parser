@@ -1,5 +1,5 @@
 [title]
-Ca funia impletita-n trei {author: {Nicu Chereji}, {rcId: {208805}}
+Ca funia impletita-n trei {composer: {Nicu Chereji}, {rcId: {208805}}
 
 [sequence]
 v1,c,v2,c,v3,c

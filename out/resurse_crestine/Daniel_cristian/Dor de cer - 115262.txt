@@ -1,5 +1,5 @@
 [title]
-Dor de cer {author: {Daniel Cristian}, {rcId: {115262}}
+Dor de cer {composer: {Daniel Cristian}, {rcId: {115262}}
 
 [sequence]
 v1,v2,v3,v4

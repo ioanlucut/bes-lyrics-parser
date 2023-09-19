@@ -1,5 +1,5 @@
 [title]
-Invata-ma cum sa te laud {author: {Anonim}, {rcId: {4952}}
+Invata-ma cum sa te laud {composer: {Anonim}, {rcId: {4952}}
 
 [sequence]
 v1,c

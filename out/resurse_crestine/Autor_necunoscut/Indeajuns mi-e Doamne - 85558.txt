@@ -1,5 +1,5 @@
 [title]
-Indeajuns mi-e doamne {author: {Anonim}, {rcId: {85558}}
+Indeajuns mi-e doamne {composer: {Anonim}, {rcId: {85558}}
 
 [sequence]
 v1,v2,v3,v4,v5

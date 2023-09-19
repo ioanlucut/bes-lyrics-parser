@@ -1,5 +1,5 @@
 [title]
-Mereu nainte - nu stiu de ce sunt ispite-adesea - mi b maj {author: {ed. Dan Istrate}, {rcId: {244573}}
+Mereu nainte - nu stiu de ce sunt ispite-adesea - mi b maj {composer: {ed. Dan Istrate}, {rcId: {244573}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

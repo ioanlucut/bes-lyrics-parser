@@ -1,5 +1,5 @@
 [title]
-Suntem trecatori {author: {Speranța}, {rcId: {6767}}
+Suntem trecatori {composer: {Speranța}, {rcId: {6767}}
 
 [sequence]
 v1,c,v2,c,v3,c

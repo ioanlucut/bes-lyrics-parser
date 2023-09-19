@@ -1,5 +1,5 @@
 [title]
-Invata-ma intelepciunea {author: {Nicolae Moldoveanu}, {rcId: {230533}}
+Invata-ma intelepciunea {composer: {Nicolae Moldoveanu}, {rcId: {230533}}
 
 [sequence]
 v1,v2,v3

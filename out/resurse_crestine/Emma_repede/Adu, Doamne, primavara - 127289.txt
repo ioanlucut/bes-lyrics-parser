@@ -1,5 +1,5 @@
 [title]
-Adu doamne primavara {author: {Emma Repede}, {rcId: {127289}}
+Adu doamne primavara {composer: {Emma Repede}, {rcId: {127289}}
 
 [sequence]
 v1,c,v2,c,e

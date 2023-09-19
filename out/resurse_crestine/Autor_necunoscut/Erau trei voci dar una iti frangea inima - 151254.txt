@@ -1,5 +1,5 @@
 [title]
-Erau trei voci dar una iti frangea inima {author: {Anonim}, {rcId: {151254}}
+Erau trei voci dar una iti frangea inima {composer: {Anonim}, {rcId: {151254}}
 
 [sequence]
 v1,c,v2,c

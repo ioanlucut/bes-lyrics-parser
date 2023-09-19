@@ -1,5 +1,5 @@
 [title]
-Ce sublima pace {author: {Onisim Grab}, {rcId: {6580}}
+Ce sublima pace {composer: {Onisim Grab}, {rcId: {6580}}
 
 [sequence]
 v1,c,v2,c2

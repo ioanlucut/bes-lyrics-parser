@@ -1,5 +1,5 @@
 [title]
-Isuse lumina lumii {author: {Anonim}, {rcId: {4437}}
+Isuse lumina lumii {composer: {Anonim}, {rcId: {4437}}
 
 [sequence]
 v1,c,v2,c,v3,c

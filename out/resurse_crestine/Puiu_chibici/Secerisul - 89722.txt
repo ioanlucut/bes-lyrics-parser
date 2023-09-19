@@ -1,5 +1,5 @@
 [title]
-Secerisul {author: {Puiu Chibici}, {rcId: {89722}}
+Secerisul {composer: {Puiu Chibici}, {rcId: {89722}}
 
 [sequence]
 v1,c,v2,c,v3,c

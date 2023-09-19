@@ -1,5 +1,5 @@
 [title]
-Ce frumos ce placut e sa fii crestin {author: {Alexandru Groza}, {rcId: {2153}}
+Ce frumos ce placut e sa fii crestin {composer: {Alexandru Groza}, {rcId: {2153}}
 
 [sequence]
 c,v1,c,v2,c

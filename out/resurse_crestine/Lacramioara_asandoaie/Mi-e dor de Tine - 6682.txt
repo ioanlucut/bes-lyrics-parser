@@ -1,5 +1,5 @@
 [title]
-Mi-e dor de tine {author: {Lăcrămioara Asăndoaie}, {rcId: {6682}}
+Mi-e dor de tine {composer: {Lăcrămioara Asăndoaie}, {rcId: {6682}}
 
 [sequence]
 v1,c,v2,c,v3,c

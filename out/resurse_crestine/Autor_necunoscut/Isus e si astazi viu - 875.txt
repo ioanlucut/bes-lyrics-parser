@@ -1,5 +1,5 @@
 [title]
-Isus e si astazi viu {author: {Anonim}, {rcId: {875}}
+Isus e si astazi viu {composer: {Anonim}, {rcId: {875}}
 
 [sequence]
 c

@@ -1,5 +1,5 @@
 [title]
-Cer si mare si pamant {author: {Strattner}, {rcId: {1241}}
+Cer si mare si pamant {composer: {Strattner}, {rcId: {1241}}
 
 [sequence]
 v1,v2,v3,v4,v5

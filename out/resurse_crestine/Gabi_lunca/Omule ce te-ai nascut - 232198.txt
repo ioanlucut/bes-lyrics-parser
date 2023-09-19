@@ -1,5 +1,5 @@
 [title]
-Omule ce te-ai nascut {author: {Gabi Lunca}, {rcId: {232198}}
+Omule ce te-ai nascut {composer: {Gabi Lunca}, {rcId: {232198}}
 
 [sequence]
 v1

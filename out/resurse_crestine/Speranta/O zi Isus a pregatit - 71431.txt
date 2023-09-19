@@ -1,5 +1,5 @@
 [title]
-O zi isus a pregatit {author: {Speranța}, {rcId: {71431}}
+O zi isus a pregatit {composer: {Speranța}, {rcId: {71431}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

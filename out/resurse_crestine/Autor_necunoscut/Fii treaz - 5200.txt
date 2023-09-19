@@ -1,5 +1,5 @@
 [title]
-Fii treaz {author: {Anonim}, {rcId: {5200}}
+Fii treaz {composer: {Anonim}, {rcId: {5200}}
 
 [sequence]
 v1

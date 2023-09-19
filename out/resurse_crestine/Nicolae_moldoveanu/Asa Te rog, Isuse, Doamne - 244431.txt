@@ -1,5 +1,5 @@
 [title]
-Asa te rog isuse doamne {author: {Nicolae Moldoveanu}, {rcId: {244431}}
+Asa te rog isuse doamne {composer: {Nicolae Moldoveanu}, {rcId: {244431}}
 
 [sequence]
 v1,v2,v3,v4

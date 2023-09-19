@@ -1,5 +1,5 @@
 [title]
-Pentru mine {author: {Bejenar Valentin}, {rcId: {7224}}
+Pentru mine {composer: {Bejenar Valentin}, {rcId: {7224}}
 
 [sequence]
 v1,c,v2,c,v3,c2

@@ -1,5 +1,5 @@
 [title]
-Israel israel {author: {Anonim}, {rcId: {72800}}
+Israel israel {composer: {Anonim}, {rcId: {72800}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

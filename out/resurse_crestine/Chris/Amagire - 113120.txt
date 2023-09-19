@@ -1,5 +1,5 @@
 [title]
-Amagire {author: {Chris}, {rcId: {113120}}
+Amagire {composer: {Chris}, {rcId: {113120}}
 
 [sequence]
 v1,c,v2,c

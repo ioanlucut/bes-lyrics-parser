@@ -1,5 +1,5 @@
 [title]
-Iata apar stele si deasupra lor {author: {Anonim}, {rcId: {74477}}
+Iata apar stele si deasupra lor {composer: {Anonim}, {rcId: {74477}}
 
 [sequence]
 v1,v2

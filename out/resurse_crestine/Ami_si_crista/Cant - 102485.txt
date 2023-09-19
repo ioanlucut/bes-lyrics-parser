@@ -1,5 +1,5 @@
 [title]
-Cant {author: {Ami și Crista}, {rcId: {102485}}
+Cant {composer: {Ami și Crista}, {rcId: {102485}}
 
 [sequence]
 v1,c,v2,c

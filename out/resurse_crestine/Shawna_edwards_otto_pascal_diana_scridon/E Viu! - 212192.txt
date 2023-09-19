@@ -1,5 +1,5 @@
 [title]
-E viu {author: {Shawna Edwards, Otto Pascal, Diana Scridon}, {rcId: {212192}}
+E viu {composer: {Shawna Edwards, Otto Pascal, Diana Scridon}, {rcId: {212192}}
 
 [sequence]
 v1,c,v2,c,e

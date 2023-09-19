@@ -1,5 +1,5 @@
 [title]
-Se vede o lumina {author: {Anonim}, {rcId: {5059}}
+Se vede o lumina {composer: {Anonim}, {rcId: {5059}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c,e

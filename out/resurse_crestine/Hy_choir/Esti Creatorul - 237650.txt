@@ -1,5 +1,5 @@
 [title]
-Esti creatorul {author: {HY Choir}, {rcId: {237650}}
+Esti creatorul {composer: {HY Choir}, {rcId: {237650}}
 
 [sequence]
 v1,c,v2,c,c,c

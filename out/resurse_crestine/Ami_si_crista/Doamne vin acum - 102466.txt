@@ -1,5 +1,5 @@
 [title]
-Doamne vin acum {author: {Ami și Crista}, {rcId: {102466}}
+Doamne vin acum {composer: {Ami și Crista}, {rcId: {102466}}
 
 [sequence]
 v1,c,v2,b,c

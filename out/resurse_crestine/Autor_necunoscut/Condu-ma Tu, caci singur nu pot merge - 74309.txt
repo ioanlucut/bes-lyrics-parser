@@ -1,5 +1,5 @@
 [title]
-Condu-ma tu caci singur nu pot merge {author: {Anonim}, {rcId: {74309}}
+Condu-ma tu caci singur nu pot merge {composer: {Anonim}, {rcId: {74309}}
 
 [sequence]
 v1,v2,v3,v4

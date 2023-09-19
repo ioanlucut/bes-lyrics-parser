@@ -1,5 +1,5 @@
 [title]
-Moise si poporul israel {author: {Anonim}, {rcId: {215862}}
+Moise si poporul israel {composer: {Anonim}, {rcId: {215862}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c2

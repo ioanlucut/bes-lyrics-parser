@@ -1,5 +1,5 @@
 [title]
-Har indeajuns {author: {Franciuc Adelin}, {rcId: {134078}}
+Har indeajuns {composer: {Franciuc Adelin}, {rcId: {134078}}
 
 [sequence]
 v1,v2,v3,v4,v5

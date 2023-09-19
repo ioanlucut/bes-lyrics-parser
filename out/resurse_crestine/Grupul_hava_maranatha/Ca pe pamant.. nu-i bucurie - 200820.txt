@@ -1,5 +1,5 @@
 [title]
-Ca pe pamant nu-i bucurie {author: {Grupul Hava Maranatha}, {rcId: {200820}}
+Ca pe pamant nu-i bucurie {composer: {Grupul Hava Maranatha}, {rcId: {200820}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-La inceput a fost iubirea {author: {Anonim}, {rcId: {154497}}
+La inceput a fost iubirea {composer: {Anonim}, {rcId: {154497}}
 
 [sequence]
 v1,c,v2,c2

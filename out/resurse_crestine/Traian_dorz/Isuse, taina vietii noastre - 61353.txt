@@ -1,5 +1,5 @@
 [title]
-Isuse taina vietii noastre {author: {Traian Dorz}, {rcId: {61353}}
+Isuse taina vietii noastre {composer: {Traian Dorz}, {rcId: {61353}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

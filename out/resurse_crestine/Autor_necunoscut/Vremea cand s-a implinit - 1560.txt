@@ -1,5 +1,5 @@
 [title]
-Vremea cand s-a implinit {author: {Anonim}, {rcId: {1560}}
+Vremea cand s-a implinit {composer: {Anonim}, {rcId: {1560}}
 
 [sequence]
 c,v1,c

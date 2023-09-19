@@ -1,5 +1,5 @@
 [title]
-Esti soarele meu {author: {Alin și Emima Timofte}, {rcId: {188861}}
+Esti soarele meu {composer: {Alin și Emima Timofte}, {rcId: {188861}}
 
 [sequence]
 v1,c,v2,c

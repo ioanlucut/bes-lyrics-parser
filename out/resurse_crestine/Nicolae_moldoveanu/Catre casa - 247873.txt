@@ -1,5 +1,5 @@
 [title]
-Catre casa {author: {Nicolae Moldoveanu}, {rcId: {247873}}
+Catre casa {composer: {Nicolae Moldoveanu}, {rcId: {247873}}
 
 [sequence]
 v1,v2,v3

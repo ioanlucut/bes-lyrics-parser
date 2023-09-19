@@ -1,5 +1,5 @@
 [title]
-Vezi stoluri de pasari (flyttfaglarna) {author: {Lydia Lithell, Traducere RO}, {rcId: {121948}}
+Vezi stoluri de pasari (flyttfaglarna) {composer: {Lydia Lithell, Traducere RO}, {rcId: {121948}}
 
 [sequence]
 v1,c,v2,c,v3,c,s,c

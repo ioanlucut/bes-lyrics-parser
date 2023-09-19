@@ -1,5 +1,5 @@
 [title]
-Lumineaza-mi tu gandul sa stiu voia ta {author: {Anonim}, {rcId: {81011}}
+Lumineaza-mi tu gandul sa stiu voia ta {composer: {Anonim}, {rcId: {81011}}
 
 [sequence]
 v1,c,v2,c

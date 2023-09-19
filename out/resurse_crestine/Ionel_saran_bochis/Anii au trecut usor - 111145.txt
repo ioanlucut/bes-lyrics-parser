@@ -1,5 +1,5 @@
 [title]
-Anii au trecut usor {author: {Ionel Saran Bochis}, {rcId: {111145}}
+Anii au trecut usor {composer: {Ionel Saran Bochis}, {rcId: {111145}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

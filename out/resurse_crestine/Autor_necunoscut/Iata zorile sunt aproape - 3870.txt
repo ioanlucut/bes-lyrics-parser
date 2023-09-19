@@ -1,5 +1,5 @@
 [title]
-Iata zorile sunt aproape {author: {Anonim}, {rcId: {3870}}
+Iata zorile sunt aproape {composer: {Anonim}, {rcId: {3870}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

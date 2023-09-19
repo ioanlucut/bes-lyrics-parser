@@ -1,5 +1,5 @@
 [title]
-Viata si miscarea si suflarea {author: {Anonim}, {rcId: {5114}}
+Viata si miscarea si suflarea {composer: {Anonim}, {rcId: {5114}}
 
 [sequence]
 v1,v2,c

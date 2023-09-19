@@ -1,5 +1,5 @@
 [title]
-Campion {author: {Bethel Music, Dante Bowe}, {rcId: {224193}}
+Campion {composer: {Bethel Music, Dante Bowe}, {rcId: {224193}}
 
 [sequence]
 v1,v2,c,v3,b,c

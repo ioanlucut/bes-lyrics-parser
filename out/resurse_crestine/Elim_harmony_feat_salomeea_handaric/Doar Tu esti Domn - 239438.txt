@@ -1,5 +1,5 @@
 [title]
-Doar tu esti domn {author: {Elim Harmony feat. Salomeea Handaric}, {rcId: {239438}}
+Doar tu esti domn {composer: {Elim Harmony feat. Salomeea Handaric}, {rcId: {239438}}
 
 [sequence]
 v1,c,v2,c,e

@@ -1,5 +1,5 @@
 [title]
-Astazi gandul meu {author: {Anonim}, {rcId: {234026}}
+Astazi gandul meu {composer: {Anonim}, {rcId: {234026}}
 
 [sequence]
 v1,c,v2,c,e

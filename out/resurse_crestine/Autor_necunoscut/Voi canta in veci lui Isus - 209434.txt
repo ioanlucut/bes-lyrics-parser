@@ -1,5 +1,5 @@
 [title]
-Voi canta in veci lui isus {author: {Anonim}, {rcId: {209434}}
+Voi canta in veci lui isus {composer: {Anonim}, {rcId: {209434}}
 
 [sequence]
 v1,c,v2,c,v3,c

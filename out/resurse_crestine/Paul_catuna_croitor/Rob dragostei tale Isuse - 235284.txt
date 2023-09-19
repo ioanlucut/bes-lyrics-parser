@@ -1,5 +1,5 @@
 [title]
-Rob dragostei tale isuse {author: {Paul Catuna, Croitor}, {rcId: {235284}}
+Rob dragostei tale isuse {composer: {Paul Catuna, Croitor}, {rcId: {235284}}
 
 [sequence]
 v1,v2,v3,v4

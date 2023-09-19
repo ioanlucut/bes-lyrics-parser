@@ -1,5 +1,5 @@
 [title]
-Vine o zi si e aproape {author: {Daniel Briciu}, {rcId: {240369}}
+Vine o zi si e aproape {composer: {Daniel Briciu}, {rcId: {240369}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

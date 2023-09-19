@@ -1,5 +1,5 @@
 [title]
-Domnul meu emanuel {author: {Carmen Prodan}, {rcId: {162898}}
+Domnul meu emanuel {composer: {Carmen Prodan}, {rcId: {162898}}
 
 [sequence]
 v1,c,v2,c,v3,c

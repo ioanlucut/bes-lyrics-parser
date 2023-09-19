@@ -1,5 +1,5 @@
 [title]
-Iubirea ta isus {author: {Daniela Haidaciuc}, {rcId: {172376}}
+Iubirea ta isus {composer: {Daniela Haidaciuc}, {rcId: {172376}}
 
 [sequence]
 v1,c,v2,c,v3,c

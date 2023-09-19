@@ -1,5 +1,5 @@
 [title]
-Bajbaiam pe ici pe colo {author: {Cristian Văduva}, {rcId: {168367}}
+Bajbaiam pe ici pe colo {composer: {Cristian Văduva}, {rcId: {168367}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

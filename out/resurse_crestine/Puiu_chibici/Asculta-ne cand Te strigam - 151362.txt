@@ -1,5 +1,5 @@
 [title]
-Asculta-ne cand te strigam {author: {Puiu Chibici}, {rcId: {151362}}
+Asculta-ne cand te strigam {composer: {Puiu Chibici}, {rcId: {151362}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

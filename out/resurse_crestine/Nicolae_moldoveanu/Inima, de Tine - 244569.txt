@@ -1,5 +1,5 @@
 [title]
-Inima de tine {author: {Nicolae Moldoveanu}, {rcId: {244569}}
+Inima de tine {composer: {Nicolae Moldoveanu}, {rcId: {244569}}
 
 [sequence]
 v1,v2,v3

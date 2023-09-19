@@ -1,5 +1,5 @@
 [title]
-O mana de lut {author: {Cătălin Ciuculescu Band}, {rcId: {157630}}
+O mana de lut {composer: {Cătălin Ciuculescu Band}, {rcId: {157630}}
 
 [sequence]
 v1,c,v2,c

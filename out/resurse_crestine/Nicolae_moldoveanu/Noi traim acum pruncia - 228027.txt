@@ -1,5 +1,5 @@
 [title]
-Noi traim acum pruncia {author: {Nicolae Moldoveanu}, {rcId: {228027}}
+Noi traim acum pruncia {composer: {Nicolae Moldoveanu}, {rcId: {228027}}
 
 [sequence]
 v1,v2,v3

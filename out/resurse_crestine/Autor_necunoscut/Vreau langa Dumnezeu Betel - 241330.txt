@@ -1,5 +1,5 @@
 [title]
-Vreau langa dumnezeu betel {author: {Anonim}, {rcId: {241330}}
+Vreau langa dumnezeu betel {composer: {Anonim}, {rcId: {241330}}
 
 [sequence]
 v1,v2,v3,c

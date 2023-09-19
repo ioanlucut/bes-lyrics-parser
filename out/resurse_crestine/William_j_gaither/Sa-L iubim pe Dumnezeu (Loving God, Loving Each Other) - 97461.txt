@@ -1,5 +1,5 @@
 [title]
-Sa-l iubim pe dumnezeu (loving god loving each other) {author: {William J. Gaither, Traducere RO}, {rcId: {97461}}
+Sa-l iubim pe dumnezeu (loving god loving each other) {composer: {William J. Gaither, Traducere RO}, {rcId: {97461}}
 
 [sequence]
 c,v1,c,v2,c

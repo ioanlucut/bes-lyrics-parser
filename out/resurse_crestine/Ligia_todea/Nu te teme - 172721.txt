@@ -1,5 +1,5 @@
 [title]
-Nu te teme {author: {Ligia Todea}, {rcId: {172721}}
+Nu te teme {composer: {Ligia Todea}, {rcId: {172721}}
 
 [sequence]
 v1,c,v2,c

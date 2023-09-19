@@ -1,5 +1,5 @@
 [title]
-Mana domnului (his hand in mine) {author: {Mosie Lister, Traducere RO}, {rcId: {127540}}
+Mana domnului (his hand in mine) {composer: {Mosie Lister, Traducere RO}, {rcId: {127540}}
 
 [sequence]
 v1,c,v2,c,s,c

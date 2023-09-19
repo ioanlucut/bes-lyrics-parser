@@ -1,5 +1,5 @@
 [title]
-Cel minunat salvatorul {author: {Anonim}, {rcId: {221861}}
+Cel minunat salvatorul {composer: {Anonim}, {rcId: {221861}}
 
 [sequence]
 v1,v2,c,v3,c

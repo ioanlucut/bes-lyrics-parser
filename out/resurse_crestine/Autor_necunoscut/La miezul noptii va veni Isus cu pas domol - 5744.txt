@@ -1,5 +1,5 @@
 [title]
-La miezul noptii va veni isus cu pas domol {author: {Anonim}, {rcId: {5744}}
+La miezul noptii va veni isus cu pas domol {composer: {Anonim}, {rcId: {5744}}
 
 [sequence]
 v1,v2,v3

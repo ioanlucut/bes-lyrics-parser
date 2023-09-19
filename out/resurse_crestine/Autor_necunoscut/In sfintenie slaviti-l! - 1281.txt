@@ -1,5 +1,5 @@
 [title]
-In sfintenie slaviti-l {author: {Anonim}, {rcId: {1281}}
+In sfintenie slaviti-l {composer: {Anonim}, {rcId: {1281}}
 
 [sequence]
 v1,c,v2,c,v3,c

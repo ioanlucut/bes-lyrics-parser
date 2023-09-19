@@ -1,5 +1,5 @@
 [title]
-Cerceteaza-ma {author: {Bianca Cernisov}, {rcId: {149262}}
+Cerceteaza-ma {composer: {Bianca Cernisov}, {rcId: {149262}}
 
 [sequence]
 v1,c,v2,c,c,c

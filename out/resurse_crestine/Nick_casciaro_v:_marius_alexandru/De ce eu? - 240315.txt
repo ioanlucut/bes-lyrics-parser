@@ -1,5 +1,5 @@
 [title]
-De ce eu? {author: {Nick Casciaro v: Marius Alexandru}, {rcId: {240315}}
+De ce eu? {composer: {Nick Casciaro v: Marius Alexandru}, {rcId: {240315}}
 
 [sequence]
 v1,c,v2,c

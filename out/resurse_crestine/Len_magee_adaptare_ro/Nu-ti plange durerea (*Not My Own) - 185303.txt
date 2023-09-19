@@ -1,5 +1,5 @@
 [title]
-Nu-ti plange durerea (*not my own) {author: {Len Magee, Adaptare RO}, {rcId: {185303}}
+Nu-ti plange durerea (*not my own) {composer: {Len Magee, Adaptare RO}, {rcId: {185303}}
 
 [sequence]
 v1,v2,v3,s

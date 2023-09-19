@@ -1,5 +1,5 @@
 [title]
-Odata prin ierihon trecea {author: {Ovidiu Liteanu}, {rcId: {170060}}
+Odata prin ierihon trecea {composer: {Ovidiu Liteanu}, {rcId: {170060}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

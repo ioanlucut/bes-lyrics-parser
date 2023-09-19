@@ -1,5 +1,5 @@
 [title]
-O doamne preainalte {author: {Text: Eliza Furnea, Muzica: Adrian Toader}, {rcId: {199272}}
+O doamne preainalte {composer: {Text: Eliza Furnea, Muzica: Adrian Toader}, {rcId: {199272}}
 
 [sequence]
 v1,v2,v3

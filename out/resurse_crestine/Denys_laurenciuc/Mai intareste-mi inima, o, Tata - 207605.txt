@@ -1,5 +1,5 @@
 [title]
-Mai intareste-mi inima o tata {author: {Denys Laurenciuc}, {rcId: {207605}}
+Mai intareste-mi inima o tata {composer: {Denys Laurenciuc}, {rcId: {207605}}
 
 [sequence]
 v1,c,v2,c,v3,c

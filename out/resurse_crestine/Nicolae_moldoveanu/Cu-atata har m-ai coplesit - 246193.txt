@@ -1,5 +1,5 @@
 [title]
-Cu-atata har m-ai coplesit {author: {Nicolae Moldoveanu}, {rcId: {246193}}
+Cu-atata har m-ai coplesit {composer: {Nicolae Moldoveanu}, {rcId: {246193}}
 
 [sequence]
 v1,v2,v3,v4

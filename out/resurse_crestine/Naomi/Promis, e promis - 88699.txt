@@ -1,5 +1,5 @@
 [title]
-Promis e promis {author: {Naomi}, {rcId: {88699}}
+Promis e promis {composer: {Naomi}, {rcId: {88699}}
 
 [sequence]
 v1,c

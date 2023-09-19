@@ -1,5 +1,5 @@
 [title]
-Orice pas isus mi-l conduce {author: {Anonim}, {rcId: {59190}}
+Orice pas isus mi-l conduce {composer: {Anonim}, {rcId: {59190}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

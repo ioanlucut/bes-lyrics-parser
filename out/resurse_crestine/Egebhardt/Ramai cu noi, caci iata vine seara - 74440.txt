@@ -1,5 +1,5 @@
 [title]
-Ramai cu noi caci iata vine seara {author: {E.Gebhardt}, {rcId: {74440}}
+Ramai cu noi caci iata vine seara {composer: {E.Gebhardt}, {rcId: {74440}}
 
 [sequence]
 v1,c,v2,c,v3,c

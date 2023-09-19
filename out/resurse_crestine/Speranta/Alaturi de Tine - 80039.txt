@@ -1,5 +1,5 @@
 [title]
-Alaturi de tine {author: {Speranța}, {rcId: {80039}}
+Alaturi de tine {composer: {Speranța}, {rcId: {80039}}
 
 [sequence]
 v1,c,v2,c,e

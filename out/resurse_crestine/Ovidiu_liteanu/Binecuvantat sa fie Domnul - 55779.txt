@@ -1,5 +1,5 @@
 [title]
-Binecuvantat sa fie domnul {author: {Ovidiu Liteanu}, {rcId: {55779}}
+Binecuvantat sa fie domnul {composer: {Ovidiu Liteanu}, {rcId: {55779}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

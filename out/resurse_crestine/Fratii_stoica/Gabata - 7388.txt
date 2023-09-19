@@ -1,5 +1,5 @@
 [title]
-Gabata {author: {Fratii Stoica}, {rcId: {7388}}
+Gabata {composer: {Fratii Stoica}, {rcId: {7388}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c2,v5,c3

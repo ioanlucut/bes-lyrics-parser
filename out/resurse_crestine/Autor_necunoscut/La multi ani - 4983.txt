@@ -1,5 +1,5 @@
 [title]
-La multi ani {author: {Anonim}, {rcId: {4983}}
+La multi ani {composer: {Anonim}, {rcId: {4983}}
 
 [sequence]
 v1,v2,v3,v4

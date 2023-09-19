@@ -1,5 +1,5 @@
 [title]
-Doamne tu prietenul sufletului meu {author: {Anonim}, {rcId: {6933}}
+Doamne tu prietenul sufletului meu {composer: {Anonim}, {rcId: {6933}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,e

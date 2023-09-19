@@ -1,5 +1,5 @@
 [title]
-Nu spune frate-n disperare {author: {Puiu și Beni Chibici}, {rcId: {239883}}
+Nu spune frate-n disperare {composer: {Puiu și Beni Chibici}, {rcId: {239883}}
 
 [sequence]
 v1,c,v2,c,v3,c

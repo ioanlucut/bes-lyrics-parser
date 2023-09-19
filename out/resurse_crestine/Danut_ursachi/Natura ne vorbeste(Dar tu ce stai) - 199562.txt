@@ -1,5 +1,5 @@
 [title]
-Natura ne vorbeste(dar tu ce stai) {author: {Dănuț Ursachi}, {rcId: {199562}}
+Natura ne vorbeste(dar tu ce stai) {composer: {Dănuț Ursachi}, {rcId: {199562}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

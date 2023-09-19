@@ -1,5 +1,5 @@
 [title]
-Isus te cheama cu iubire {author: {Anonim}, {rcId: {6805}}
+Isus te cheama cu iubire {composer: {Anonim}, {rcId: {6805}}
 
 [sequence]
 v1,c,v2,c,v3,c

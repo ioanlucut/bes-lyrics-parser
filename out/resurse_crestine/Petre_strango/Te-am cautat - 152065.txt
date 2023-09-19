@@ -1,5 +1,5 @@
 [title]
-Te-am cautat {author: {Petre Strango}, {rcId: {152065}}
+Te-am cautat {composer: {Petre Strango}, {rcId: {152065}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Asteptam isuse ziua minunata {author: {Otniel Stirb}, {rcId: {226989}}
+Asteptam isuse ziua minunata {composer: {Otniel Stirb}, {rcId: {226989}}
 
 [sequence]
 v1,c,v2,c,v3,c

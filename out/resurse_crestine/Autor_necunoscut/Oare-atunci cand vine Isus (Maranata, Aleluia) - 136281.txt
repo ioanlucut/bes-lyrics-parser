@@ -1,5 +1,5 @@
 [title]
-Oare-atunci cand vine isus (maranata aleluia) {author: {Anonim}, {rcId: {136281}}
+Oare-atunci cand vine isus (maranata aleluia) {composer: {Anonim}, {rcId: {136281}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

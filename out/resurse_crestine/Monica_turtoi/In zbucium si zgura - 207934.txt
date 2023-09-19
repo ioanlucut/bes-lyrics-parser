@@ -1,5 +1,5 @@
 [title]
-In zbucium si zgura {author: {Monica Turtoi}, {rcId: {207934}}
+In zbucium si zgura {composer: {Monica Turtoi}, {rcId: {207934}}
 
 [sequence]
 v1,b,c,v2,b,c

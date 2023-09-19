@@ -1,5 +1,5 @@
 [title]
-De-as fi sa zbor {author: {Virginia}, {rcId: {194043}}
+De-as fi sa zbor {composer: {Virginia}, {rcId: {194043}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Eu voi binecuvanta {author: {Speranța}, {rcId: {7101}}
+Eu voi binecuvanta {composer: {Speranța}, {rcId: {7101}}
 
 [sequence]
 v1,b,c,v2,c,v3,c

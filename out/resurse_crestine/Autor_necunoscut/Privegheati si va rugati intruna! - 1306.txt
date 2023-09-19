@@ -1,5 +1,5 @@
 [title]
-Privegheati si va rugati intruna {author: {Anonim}, {rcId: {1306}}
+Privegheati si va rugati intruna {composer: {Anonim}, {rcId: {1306}}
 
 [sequence]
 v1,c,v2,c,v3,c

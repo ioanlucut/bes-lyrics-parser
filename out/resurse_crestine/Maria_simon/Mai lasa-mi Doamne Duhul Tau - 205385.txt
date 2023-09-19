@@ -1,5 +1,5 @@
 [title]
-Mai lasa-mi doamne duhul tau {author: {Maria Șimon}, {rcId: {205385}}
+Mai lasa-mi doamne duhul tau {composer: {Maria Șimon}, {rcId: {205385}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Domnul nostru vine {author: {Anonim}, {rcId: {3108}}
+Domnul nostru vine {composer: {Anonim}, {rcId: {3108}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

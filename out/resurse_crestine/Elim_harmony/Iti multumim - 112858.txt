@@ -1,5 +1,5 @@
 [title]
-Iti multumim {author: {Elim Harmony}, {rcId: {112858}}
+Iti multumim {composer: {Elim Harmony}, {rcId: {112858}}
 
 [sequence]
 v1,c,v2,c,e

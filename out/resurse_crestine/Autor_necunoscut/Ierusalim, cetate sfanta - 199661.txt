@@ -1,5 +1,5 @@
 [title]
-Ierusalim cetate sfanta {author: {Anonim}, {rcId: {199661}}
+Ierusalim cetate sfanta {composer: {Anonim}, {rcId: {199661}}
 
 [sequence]
 v1,c,v2,c,v3,c

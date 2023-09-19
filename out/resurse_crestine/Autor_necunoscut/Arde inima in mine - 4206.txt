@@ -1,5 +1,5 @@
 [title]
-Arde inima in mine {author: {Anonim}, {rcId: {4206}}
+Arde inima in mine {composer: {Anonim}, {rcId: {4206}}
 
 [sequence]
 v1,v2,v3,v4,v5

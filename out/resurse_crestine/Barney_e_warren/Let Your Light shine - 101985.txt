@@ -1,5 +1,5 @@
 [title]
-Let your light shine {author: {Barney E. Warren}, {rcId: {101985}}
+Let your light shine {composer: {Barney E. Warren}, {rcId: {101985}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Ne iarta doamne {author: {Anonim}, {rcId: {55619}}
+Ne iarta doamne {composer: {Anonim}, {rcId: {55619}}
 
 [sequence]
 v1,c,v2,c2

@@ -1,5 +1,5 @@
 [title]
-Grajd sau cer {author: {Anonim}, {rcId: {238328}}
+Grajd sau cer {composer: {Anonim}, {rcId: {238328}}
 
 [sequence]
 v1,e,v2,b

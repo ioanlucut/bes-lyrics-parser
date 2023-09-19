@@ -1,5 +1,5 @@
 [title]
-Ingenuncheat sub crucea ta {author: {Puiu Chibici}, {rcId: {150131}}
+Ingenuncheat sub crucea ta {composer: {Puiu Chibici}, {rcId: {150131}}
 
 [sequence]
 v1,c,v2,c,v3,c

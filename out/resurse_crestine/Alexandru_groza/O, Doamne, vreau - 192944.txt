@@ -1,5 +1,5 @@
 [title]
-O doamne vreau {author: {Alexandru Groza}, {rcId: {192944}}
+O doamne vreau {composer: {Alexandru Groza}, {rcId: {192944}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Purta-va de grija {author: {Nicolae Moldoveanu}, {rcId: {1392}}
+Purta-va de grija {composer: {Nicolae Moldoveanu}, {rcId: {1392}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

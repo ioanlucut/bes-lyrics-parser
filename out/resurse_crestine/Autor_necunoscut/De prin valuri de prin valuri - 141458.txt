@@ -1,5 +1,5 @@
 [title]
-De prin valuri de prin valuri {author: {Anonim}, {rcId: {141458}}
+De prin valuri de prin valuri {composer: {Anonim}, {rcId: {141458}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

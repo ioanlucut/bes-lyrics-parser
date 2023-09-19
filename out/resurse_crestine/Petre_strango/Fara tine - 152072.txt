@@ -1,5 +1,5 @@
 [title]
-Fara tine {author: {Petre Strango}, {rcId: {152072}}
+Fara tine {composer: {Petre Strango}, {rcId: {152072}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Canta inima canta {author: {Adriana Stoica}, {rcId: {95651}}
+Canta inima canta {composer: {Adriana Stoica}, {rcId: {95651}}
 
 [sequence]
 v1,c,v2,c,v3,c

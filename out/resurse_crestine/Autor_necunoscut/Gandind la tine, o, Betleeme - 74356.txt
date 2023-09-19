@@ -1,5 +1,5 @@
 [title]
-Gandind la tine o betleeme {author: {Anonim}, {rcId: {74356}}
+Gandind la tine o betleeme {composer: {Anonim}, {rcId: {74356}}
 
 [sequence]
 v1,c,v2,c2

@@ -1,5 +1,5 @@
 [title]
-Israele {author: {Ilie Bândiul}, {rcId: {218375}}
+Israele {composer: {Ilie Bândiul}, {rcId: {218375}}
 
 [sequence]
 v1,v2,v3,v4

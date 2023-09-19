@@ -1,5 +1,5 @@
 [title]
-Emanuel numele tau {author: {Anonim}, {rcId: {74473}}
+Emanuel numele tau {composer: {Anonim}, {rcId: {74473}}
 
 [sequence]
 v1,c

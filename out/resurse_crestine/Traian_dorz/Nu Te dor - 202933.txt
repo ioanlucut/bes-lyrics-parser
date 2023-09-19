@@ -1,5 +1,5 @@
 [title]
-Nu te dor {author: {Traian Dorz}, {rcId: {202933}}
+Nu te dor {composer: {Traian Dorz}, {rcId: {202933}}
 
 [sequence]
 v1,v2,v3,v4,v5

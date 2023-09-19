@@ -1,5 +1,5 @@
 [title]
-Isus pe cruce s-a jertfit {author: {Nicolae Moldoveanu}, {rcId: {246281}}
+Isus pe cruce s-a jertfit {composer: {Nicolae Moldoveanu}, {rcId: {246281}}
 
 [sequence]
 v1,v2,v3

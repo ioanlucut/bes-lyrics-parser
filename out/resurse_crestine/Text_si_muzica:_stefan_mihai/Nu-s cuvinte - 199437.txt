@@ -1,5 +1,5 @@
 [title]
-Nu-s cuvinte {author: {Text și muzica: Ștefan Mihai}, {rcId: {199437}}
+Nu-s cuvinte {composer: {Text și muzica: Ștefan Mihai}, {rcId: {199437}}
 
 [sequence]
 v1,c,v2,c

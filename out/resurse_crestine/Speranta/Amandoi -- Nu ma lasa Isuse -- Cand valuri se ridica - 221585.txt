@@ -1,5 +1,5 @@
 [title]
-Amandoi // nu ma lasa isuse // cand valuri se ridica {author: {Speranța}, {rcId: {221585}}
+Amandoi // nu ma lasa isuse // cand valuri se ridica {composer: {Speranța}, {rcId: {221585}}
 
 [sequence]
 v1,c,v2,c,v3,c

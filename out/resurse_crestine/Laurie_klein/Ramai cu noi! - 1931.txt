@@ -1,5 +1,5 @@
 [title]
-Ramai cu noi {author: {Laurie Klein}, {rcId: {1931}}
+Ramai cu noi {composer: {Laurie Klein}, {rcId: {1931}}
 
 [sequence]
 c

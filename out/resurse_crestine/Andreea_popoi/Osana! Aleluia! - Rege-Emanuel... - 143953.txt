@@ -1,5 +1,5 @@
 [title]
-Osana aleluia - rege-emanuel {author: {Andreea Popoi}, {rcId: {143953}}
+Osana aleluia - rege-emanuel {composer: {Andreea Popoi}, {rcId: {143953}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

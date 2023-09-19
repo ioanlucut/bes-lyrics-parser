@@ -1,5 +1,5 @@
 [title]
-De-atatea ori isuse {author: {Anonim}, {rcId: {2996}}
+De-atatea ori isuse {composer: {Anonim}, {rcId: {2996}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

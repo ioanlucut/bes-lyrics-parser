@@ -1,5 +1,5 @@
 [title]
-In noaptea asta cand coboara {author: {Nicolae Moldoveanu}, {rcId: {246347}}
+In noaptea asta cand coboara {composer: {Nicolae Moldoveanu}, {rcId: {246347}}
 
 [sequence]
 v1,v2,v3

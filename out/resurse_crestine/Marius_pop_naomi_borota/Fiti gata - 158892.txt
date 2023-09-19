@@ -1,5 +1,5 @@
 [title]
-Fiti gata {author: {Marius Pop, Naomi Borota}, {rcId: {158892}}
+Fiti gata {composer: {Marius Pop, Naomi Borota}, {rcId: {158892}}
 
 [sequence]
 v1,c,v2,c,e

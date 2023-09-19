@@ -1,5 +1,5 @@
 [title]
-Desteapta-te {author: {Nicolae Moldoveanu}, {rcId: {246073}}
+Desteapta-te {composer: {Nicolae Moldoveanu}, {rcId: {246073}}
 
 [sequence]
 v1,v2,v3,v4

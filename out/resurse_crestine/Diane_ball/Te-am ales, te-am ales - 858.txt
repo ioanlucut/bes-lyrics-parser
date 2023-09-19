@@ -1,5 +1,5 @@
 [title]
-Te-am ales te-am ales {author: {Diane Ball}, {rcId: {858}}
+Te-am ales te-am ales {composer: {Diane Ball}, {rcId: {858}}
 
 [sequence]
 v1,v2,v3,e

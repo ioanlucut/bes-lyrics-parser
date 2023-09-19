@@ -1,5 +1,5 @@
 [title]
-Nevoie de pace ( in sufletul tau e-atata neliniste ) {author: {Ovidiu Liteanu}, {rcId: {188228}}
+Nevoie de pace ( in sufletul tau e-atata neliniste ) {composer: {Ovidiu Liteanu}, {rcId: {188228}}
 
 [sequence]
 v1,c,v2,c,v3,c

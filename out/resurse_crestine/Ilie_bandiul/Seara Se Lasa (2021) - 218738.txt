@@ -1,5 +1,5 @@
 [title]
-Seara se lasa () {author: {Ilie Bândiul}, {rcId: {218738}}
+Seara se lasa () {composer: {Ilie Bândiul}, {rcId: {218738}}
 
 [sequence]
 v01,v02,v03,v04

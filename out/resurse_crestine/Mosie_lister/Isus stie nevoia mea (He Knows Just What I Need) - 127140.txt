@@ -1,5 +1,5 @@
 [title]
-Isus stie nevoia mea (he knows just what i need) {author: {Mosie Lister, Traducere RO}, {rcId: {127140}}
+Isus stie nevoia mea (he knows just what i need) {composer: {Mosie Lister, Traducere RO}, {rcId: {127140}}
 
 [sequence]
 v1,c,v2,c,v3,c,s,c

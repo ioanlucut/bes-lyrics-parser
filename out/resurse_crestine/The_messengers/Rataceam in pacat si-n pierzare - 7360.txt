@@ -1,5 +1,5 @@
 [title]
-Rataceam in pacat si-n pierzare {author: {The Messengers}, {rcId: {7360}}
+Rataceam in pacat si-n pierzare {composer: {The Messengers}, {rcId: {7360}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

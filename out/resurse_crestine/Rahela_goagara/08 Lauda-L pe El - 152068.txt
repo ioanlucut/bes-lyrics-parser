@@ -1,5 +1,5 @@
 [title]
-Lauda-l pe el {author: {Rahela Goagără}, {rcId: {152068}}
+Lauda-l pe el {composer: {Rahela Goagără}, {rcId: {152068}}
 
 [sequence]
 v1,c,b,c

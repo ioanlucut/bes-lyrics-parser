@@ -1,5 +1,5 @@
 [title]
-Voi care ati fost adanc legati {author: {Nicolae Moldoveanu}, {rcId: {243953}}
+Voi care ati fost adanc legati {composer: {Nicolae Moldoveanu}, {rcId: {243953}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

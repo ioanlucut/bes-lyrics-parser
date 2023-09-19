@@ -1,5 +1,5 @@
 [title]
-Domnul sa te-asculte {author: {Fundatia Jubilate}, {rcId: {204388}}
+Domnul sa te-asculte {composer: {Fundatia Jubilate}, {rcId: {204388}}
 
 [sequence]
 v1,c

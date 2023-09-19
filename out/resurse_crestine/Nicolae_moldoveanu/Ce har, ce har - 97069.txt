@@ -1,5 +1,5 @@
 [title]
-Ce har ce har {author: {Nicolae Moldoveanu}, {rcId: {97069}}
+Ce har ce har {composer: {Nicolae Moldoveanu}, {rcId: {97069}}
 
 [sequence]
 v1,v2,v3,v4

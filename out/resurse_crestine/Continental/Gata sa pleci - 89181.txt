@@ -1,5 +1,5 @@
 [title]
-Gata sa pleci {author: {Continental}, {rcId: {89181}}
+Gata sa pleci {composer: {Continental}, {rcId: {89181}}
 
 [sequence]
 v1,c,v2,c

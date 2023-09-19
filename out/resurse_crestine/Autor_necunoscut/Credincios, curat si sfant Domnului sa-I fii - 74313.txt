@@ -1,5 +1,5 @@
 [title]
-Credincios curat si sfant domnului sa-i fii {author: {Anonim}, {rcId: {74313}}
+Credincios curat si sfant domnului sa-i fii {composer: {Anonim}, {rcId: {74313}}
 
 [sequence]
 v1,c,v2,c,v3,c

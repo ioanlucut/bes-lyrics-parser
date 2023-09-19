@@ -1,5 +1,5 @@
 [title]
-Am vazut un copac {author: {Anonim}, {rcId: {1383}}
+Am vazut un copac {composer: {Anonim}, {rcId: {1383}}
 
 [sequence]
 v1,c,v2,c2

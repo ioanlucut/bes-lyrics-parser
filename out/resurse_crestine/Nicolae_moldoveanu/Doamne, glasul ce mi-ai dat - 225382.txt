@@ -1,5 +1,5 @@
 [title]
-Doamne glasul ce mi-ai dat {author: {Nicolae Moldoveanu}, {rcId: {225382}}
+Doamne glasul ce mi-ai dat {composer: {Nicolae Moldoveanu}, {rcId: {225382}}
 
 [sequence]
 v1,v2,v3,v4

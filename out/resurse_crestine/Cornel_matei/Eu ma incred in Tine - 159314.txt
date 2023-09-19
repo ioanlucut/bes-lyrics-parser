@@ -1,5 +1,5 @@
 [title]
-Eu ma incred in tine {author: {Cornel Matei}, {rcId: {159314}}
+Eu ma incred in tine {composer: {Cornel Matei}, {rcId: {159314}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Sunt felurite incercari aici jos pe acest pamant {author: {Daniel Hartie}, {rcId: {7254}}
+Sunt felurite incercari aici jos pe acest pamant {composer: {Daniel Hartie}, {rcId: {7254}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

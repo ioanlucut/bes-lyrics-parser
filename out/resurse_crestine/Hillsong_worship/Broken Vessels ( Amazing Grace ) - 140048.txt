@@ -1,5 +1,5 @@
 [title]
-Broken vessels ( amazing grace ) {author: {Hillsong Worship}, {rcId: {140048}}
+Broken vessels ( amazing grace ) {composer: {Hillsong Worship}, {rcId: {140048}}
 
 [sequence]
 v1,c,v2,c

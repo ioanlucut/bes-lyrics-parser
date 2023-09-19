@@ -1,5 +1,5 @@
 [title]
-Umple-ma acum de duh sfant {author: {Anonim}, {rcId: {5106}}
+Umple-ma acum de duh sfant {composer: {Anonim}, {rcId: {5106}}
 
 [sequence]
 v1,c

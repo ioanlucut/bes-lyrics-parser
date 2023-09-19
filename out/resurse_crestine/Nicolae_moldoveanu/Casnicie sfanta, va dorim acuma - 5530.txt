@@ -1,5 +1,5 @@
 [title]
-Casnicie sfanta va dorim acuma {author: {Nicolae Moldoveanu}, {rcId: {5530}}
+Casnicie sfanta va dorim acuma {composer: {Nicolae Moldoveanu}, {rcId: {5530}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

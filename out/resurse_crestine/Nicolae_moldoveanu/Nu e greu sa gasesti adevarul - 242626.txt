@@ -1,5 +1,5 @@
 [title]
-Nu e greu sa gasesti adevarul {author: {Nicolae Moldoveanu}, {rcId: {242626}}
+Nu e greu sa gasesti adevarul {composer: {Nicolae Moldoveanu}, {rcId: {242626}}
 
 [sequence]
 v1,v2,v3,v4,v5

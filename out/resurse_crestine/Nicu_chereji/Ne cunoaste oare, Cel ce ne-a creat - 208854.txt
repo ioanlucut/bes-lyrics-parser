@@ -1,5 +1,5 @@
 [title]
-Ne cunoaste oare cel ce ne-a creat {author: {Nicu Chereji}, {rcId: {208854}}
+Ne cunoaste oare cel ce ne-a creat {composer: {Nicu Chereji}, {rcId: {208854}}
 
 [sequence]
 v1,c,v3,c,v4,c,v5,c

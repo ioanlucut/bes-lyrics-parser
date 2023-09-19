@@ -1,5 +1,5 @@
 [title]
-Cu fiecare zi sa-ncepi o dragoste mai plina {author: {Anonim}, {rcId: {74316}}
+Cu fiecare zi sa-ncepi o dragoste mai plina {composer: {Anonim}, {rcId: {74316}}
 
 [sequence]
 v1,v2,v3,v4,v5

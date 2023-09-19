@@ -1,5 +1,5 @@
 [title]
-O ajuta-ma isuse domnul meu iubit {author: {Autor necunoscut}, {rcId: {230538}}
+O ajuta-ma isuse domnul meu iubit {composer: {Autor necunoscut}, {rcId: {230538}}
 
 [sequence]
 v1,v2,v3,v4

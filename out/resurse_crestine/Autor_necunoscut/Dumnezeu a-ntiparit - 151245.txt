@@ -1,5 +1,5 @@
 [title]
-Dumnezeu a-ntip~arit {author: {Anonim}, {rcId: {151245}}
+Dumnezeu a-ntip~arit {composer: {Anonim}, {rcId: {151245}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Romania {author: {The Messengers}, {rcId: {153829}}
+Romania {composer: {The Messengers}, {rcId: {153829}}
 
 [sequence]
 v1,c,v2,c

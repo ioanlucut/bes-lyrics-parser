@@ -1,5 +1,5 @@
 [title]
-Copile drag ce-n lume ai venit {author: {Anonim}, {rcId: {232562}}
+Copile drag ce-n lume ai venit {composer: {Anonim}, {rcId: {232562}}
 
 [sequence]
 v1,v2,v3

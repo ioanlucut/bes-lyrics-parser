@@ -1,5 +1,5 @@
 [title]
-Adu iarasi primavara (bring back the springtime) {author: {Kurt Kaiser, Traducere RO}, {rcId: {90234}}
+Adu iarasi primavara (bring back the springtime) {composer: {Kurt Kaiser, Traducere RO}, {rcId: {90234}}
 
 [sequence]
 v1,c,v2,c,s,c

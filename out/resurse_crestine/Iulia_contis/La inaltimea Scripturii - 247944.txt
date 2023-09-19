@@ -1,5 +1,5 @@
 [title]
-La inaltimea scripturii {author: {Iulia Contis}, {rcId: {247944}}
+La inaltimea scripturii {composer: {Iulia Contis}, {rcId: {247944}}
 
 [sequence]
 v1,c,v2,c

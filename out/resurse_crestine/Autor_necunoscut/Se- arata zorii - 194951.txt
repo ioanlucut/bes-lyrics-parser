@@ -1,5 +1,5 @@
 [title]
-Se- arata zorii {author: {Anonim}, {rcId: {194951}}
+Se- arata zorii {composer: {Anonim}, {rcId: {194951}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

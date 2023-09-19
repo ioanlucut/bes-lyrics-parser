@@ -1,5 +1,5 @@
 [title]
-Pregatire striga duhul sfant {author: {Rebeca Ghica}, {rcId: {199565}}
+Pregatire striga duhul sfant {composer: {Rebeca Ghica}, {rcId: {199565}}
 
 [sequence]
 v1,c,v2,c,v3,c

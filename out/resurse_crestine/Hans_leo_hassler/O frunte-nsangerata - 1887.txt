@@ -1,5 +1,5 @@
 [title]
-O frunte-nsangerata {author: {Hans Leo Hassler}, {rcId: {1887}}
+O frunte-nsangerata {composer: {Hans Leo Hassler}, {rcId: {1887}}
 
 [sequence]
 v1,v2,v3

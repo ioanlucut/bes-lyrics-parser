@@ -1,5 +1,5 @@
 [title]
-Pastorul oaia isi cauta {author: {Anonim}, {rcId: {74232}}
+Pastorul oaia isi cauta {composer: {Anonim}, {rcId: {74232}}
 
 [sequence]
 v1,c,v2,c,v3,c

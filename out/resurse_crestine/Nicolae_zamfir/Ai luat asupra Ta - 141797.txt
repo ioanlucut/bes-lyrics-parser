@@ -1,5 +1,5 @@
 [title]
-Ai luat asupra ta {author: {Nicolae Zamfir}, {rcId: {141797}}
+Ai luat asupra ta {composer: {Nicolae Zamfir}, {rcId: {141797}}
 
 [sequence]
 v1,c,v3,c

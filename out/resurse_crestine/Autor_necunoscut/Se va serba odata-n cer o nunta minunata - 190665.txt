@@ -1,5 +1,5 @@
 [title]
-Se va serba odata-n cer o nunta minunata {author: {Anonim}, {rcId: {190665}}
+Se va serba odata-n cer o nunta minunata {composer: {Anonim}, {rcId: {190665}}
 
 [sequence]
 v1,c,v2,c,v3,c

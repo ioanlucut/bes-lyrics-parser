@@ -1,5 +1,5 @@
 [title]
-Focul tau {author: {amos7}, {rcId: {106573}}
+Focul tau {composer: {amos7}, {rcId: {106573}}
 
 [sequence]
 v1,c,v2,c

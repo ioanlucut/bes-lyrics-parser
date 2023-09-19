@@ -1,5 +1,5 @@
 [title]
-Sa multumim lui dumnezeu {author: {Nicolae Moldoveanu}, {rcId: {226473}}
+Sa multumim lui dumnezeu {composer: {Nicolae Moldoveanu}, {rcId: {226473}}
 
 [sequence]
 v1,v2,v3,v4,v5

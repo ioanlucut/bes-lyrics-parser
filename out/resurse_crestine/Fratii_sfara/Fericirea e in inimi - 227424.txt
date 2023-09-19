@@ -1,5 +1,5 @@
 [title]
-Fericirea e in inimi {author: {Fratii Sfara}, {rcId: {227424}}
+Fericirea e in inimi {composer: {Fratii Sfara}, {rcId: {227424}}
 
 [sequence]
 v1,c,v2,c,v3,c

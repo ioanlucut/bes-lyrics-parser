@@ -1,5 +1,5 @@
 [title]
-Cana galileea {author: {Nicu Chereji}, {rcId: {208806}}
+Cana galileea {composer: {Nicu Chereji}, {rcId: {208806}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c2

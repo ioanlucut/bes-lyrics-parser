@@ -1,5 +1,5 @@
 [title]
-Departat de casa {author: {Alexandru Groza}, {rcId: {1419}}
+Departat de casa {composer: {Alexandru Groza}, {rcId: {1419}}
 
 [sequence]
 v1,c,v2,c,v3,c

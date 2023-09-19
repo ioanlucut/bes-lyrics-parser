@@ -1,5 +1,5 @@
 [title]
-Rege al maretiei (king of majesty) {author: {Hillsong United, Traducere RO}, {rcId: {2474}}
+Rege al maretiei (king of majesty) {composer: {Hillsong United, Traducere RO}, {rcId: {2474}}
 
 [sequence]
 v1,b,c,v2,c

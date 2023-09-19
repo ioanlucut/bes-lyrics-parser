@@ -1,5 +1,5 @@
 [title]
-In vesnicie-i tara mea (sus in cer e casa mea) {author: {Simon Khorolskiy trad Pop Marius}, {rcId: {237925}}
+In vesnicie-i tara mea (sus in cer e casa mea) {composer: {Simon Khorolskiy trad Pop Marius}, {rcId: {237925}}
 
 [sequence]
 v1,v2,v3,v4

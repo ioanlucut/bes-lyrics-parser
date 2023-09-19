@@ -1,5 +1,5 @@
 [title]
-Atuncea cand am fost cazut {author: {Nicolae Moldoveanu}, {rcId: {6454}}
+Atuncea cand am fost cazut {composer: {Nicolae Moldoveanu}, {rcId: {6454}}
 
 [sequence]
 v1,v2,v3,v4

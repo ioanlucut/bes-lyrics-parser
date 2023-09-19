@@ -1,5 +1,5 @@
 [title]
-Am vazut paradisul in flacari {author: {Dionisie Giuchici}, {rcId: {2112}}
+Am vazut paradisul in flacari {composer: {Dionisie Giuchici}, {rcId: {2112}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

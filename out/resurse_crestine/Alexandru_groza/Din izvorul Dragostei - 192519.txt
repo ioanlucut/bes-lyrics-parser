@@ -1,5 +1,5 @@
 [title]
-Din izvorul dragostei {author: {Alexandru Groza}, {rcId: {192519}}
+Din izvorul dragostei {composer: {Alexandru Groza}, {rcId: {192519}}
 
 [sequence]
 v1

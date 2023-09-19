@@ -1,5 +1,5 @@
 [title]
-Floricica floare dalba {author: {Nicolae Moldoveanu}, {rcId: {233653}}
+Floricica floare dalba {composer: {Nicolae Moldoveanu}, {rcId: {233653}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

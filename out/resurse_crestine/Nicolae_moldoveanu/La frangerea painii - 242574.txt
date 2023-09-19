@@ -1,5 +1,5 @@
 [title]
-La frangerea painii {author: {Nicolae Moldoveanu}, {rcId: {242574}}
+La frangerea painii {composer: {Nicolae Moldoveanu}, {rcId: {242574}}
 
 [sequence]
 v1,v2,v3,v4

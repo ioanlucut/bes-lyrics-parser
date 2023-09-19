@@ -1,5 +1,5 @@
 [title]
-E-o zi de mangaiere {author: {Cornel Sava}, {rcId: {174579}}
+E-o zi de mangaiere {composer: {Cornel Sava}, {rcId: {174579}}
 
 [sequence]
 v1,c,v3,c,v4,c

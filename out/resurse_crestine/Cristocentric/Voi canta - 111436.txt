@@ -1,5 +1,5 @@
 [title]
-Voi canta {author: {CristoCentric}, {rcId: {111436}}
+Voi canta {composer: {CristoCentric}, {rcId: {111436}}
 
 [sequence]
 v1,b,c

@@ -1,5 +1,5 @@
 [title]
-Isuse cate grijuri si cate incercari {author: {Emanuel Hasan}, {rcId: {146448}}
+Isuse cate grijuri si cate incercari {composer: {Emanuel Hasan}, {rcId: {146448}}
 
 [sequence]
 v1,c,v2,c,v3,c

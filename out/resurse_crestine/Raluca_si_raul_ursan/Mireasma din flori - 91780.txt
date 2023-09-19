@@ -1,5 +1,5 @@
 [title]
-Mireasma din flori {author: {Raluca și Raul Ursan}, {rcId: {91780}}
+Mireasma din flori {composer: {Raluca și Raul Ursan}, {rcId: {91780}}
 
 [sequence]
 v1,c,v2,c,v3,c

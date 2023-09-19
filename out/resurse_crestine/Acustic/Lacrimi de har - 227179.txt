@@ -1,5 +1,5 @@
 [title]
-Lacrimi de har {author: {Acustic}, {rcId: {227179}}
+Lacrimi de har {composer: {Acustic}, {rcId: {227179}}
 
 [sequence]
 v1,c,v2,c

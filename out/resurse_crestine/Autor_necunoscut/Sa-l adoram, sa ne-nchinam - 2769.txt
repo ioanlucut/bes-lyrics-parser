@@ -1,5 +1,5 @@
 [title]
-Sa-l adoram sa ne-nchinam {author: {Anonim}, {rcId: {2769}}
+Sa-l adoram sa ne-nchinam {composer: {Anonim}, {rcId: {2769}}
 
 [sequence]
 v1,c

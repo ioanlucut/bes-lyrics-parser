@@ -1,5 +1,5 @@
 [title]
-Ma simt acasa (feeling at home in the presence of jesus) {author: {William J. Gaither, Traducere RO}, {rcId: {95542}}
+Ma simt acasa (feeling at home in the presence of jesus) {composer: {William J. Gaither, Traducere RO}, {rcId: {95542}}
 
 [sequence]
 v1,c,v2,c,s,c

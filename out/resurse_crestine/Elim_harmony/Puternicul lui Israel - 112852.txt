@@ -1,5 +1,5 @@
 [title]
-Puternicul lui israel {author: {Elim Harmony}, {rcId: {112852}}
+Puternicul lui israel {composer: {Elim Harmony}, {rcId: {112852}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

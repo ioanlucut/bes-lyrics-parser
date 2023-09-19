@@ -1,5 +1,5 @@
 [title]
-Si ma rog mereu asa vino pe cararea mea {author: {Ionel Saran Bochis}, {rcId: {111159}}
+Si ma rog mereu asa vino pe cararea mea {composer: {Ionel Saran Bochis}, {rcId: {111159}}
 
 [sequence]
 c,v1,c2,v2,c3,v3,c4,v4,c4

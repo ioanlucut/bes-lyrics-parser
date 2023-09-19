@@ -1,5 +1,5 @@
 [title]
-Tu esti stanca mea {author: {Cătălin Ciuculescu}, {rcId: {188894}}
+Tu esti stanca mea {composer: {Cătălin Ciuculescu}, {rcId: {188894}}
 
 [sequence]
 v1,c,v2,c

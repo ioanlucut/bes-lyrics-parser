@@ -1,5 +1,5 @@
 [title]
-Liberi noi suntem {author: {Anonim}, {rcId: {4989}}
+Liberi noi suntem {composer: {Anonim}, {rcId: {4989}}
 
 [sequence]
 v1,v2,v3,v4,v5

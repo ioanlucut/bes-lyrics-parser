@@ -1,5 +1,5 @@
 [title]
-Domnul ma-ntrebat adesea {author: {Anonim}, {rcId: {151239}}
+Domnul ma-ntrebat adesea {composer: {Anonim}, {rcId: {151239}}
 
 [sequence]
 v1,c,v2,c

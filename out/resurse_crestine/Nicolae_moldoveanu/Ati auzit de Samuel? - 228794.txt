@@ -1,5 +1,5 @@
 [title]
-Ati auzit de samuel? {author: {Nicolae Moldoveanu}, {rcId: {228794}}
+Ati auzit de samuel? {composer: {Nicolae Moldoveanu}, {rcId: {228794}}
 
 [sequence]
 v1,v2,v3

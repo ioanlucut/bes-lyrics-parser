@@ -1,5 +1,5 @@
 [title]
-Azi e prima zi din saptamana {author: {Anonim}, {rcId: {6527}}
+Azi e prima zi din saptamana {composer: {Anonim}, {rcId: {6527}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8

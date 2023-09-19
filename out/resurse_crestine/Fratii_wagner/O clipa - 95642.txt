@@ -1,5 +1,5 @@
 [title]
-O clipa {author: {Frații Wagner}, {rcId: {95642}}
+O clipa {composer: {Frații Wagner}, {rcId: {95642}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Osana celui care vine {author: {Anonim}, {rcId: {867}}
+Osana celui care vine {composer: {Anonim}, {rcId: {867}}
 
 [sequence]
 v1,v2,v3,v4,v5

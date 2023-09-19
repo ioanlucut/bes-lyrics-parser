@@ -1,5 +1,5 @@
 [title]
-Noi umblam si colindam {author: {Nicolae Moldoveanu}, {rcId: {244430}}
+Noi umblam si colindam {composer: {Nicolae Moldoveanu}, {rcId: {244430}}
 
 [sequence]
 v1,v2,v3,v4

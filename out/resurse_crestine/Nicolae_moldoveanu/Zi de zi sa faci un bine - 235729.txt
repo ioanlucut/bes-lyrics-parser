@@ -1,5 +1,5 @@
 [title]
-Zi de zi sa faci un bine {author: {Nicolae Moldoveanu}, {rcId: {235729}}
+Zi de zi sa faci un bine {composer: {Nicolae Moldoveanu}, {rcId: {235729}}
 
 [sequence]
 v1,v2,v3,v4,v5

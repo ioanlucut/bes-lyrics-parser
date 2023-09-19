@@ -1,5 +1,5 @@
 [title]
-Nu noua doamne nu noua doamne {author: {Corul Maranata, Roma}, {rcId: {146272}}
+Nu noua doamne nu noua doamne {composer: {Corul Maranata, Roma}, {rcId: {146272}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8

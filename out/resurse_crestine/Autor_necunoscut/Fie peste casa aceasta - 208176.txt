@@ -1,5 +1,5 @@
 [title]
-Fie peste casa aceasta {author: {Anonim}, {rcId: {208176}}
+Fie peste casa aceasta {composer: {Anonim}, {rcId: {208176}}
 
 [sequence]
 v1,v2,v3

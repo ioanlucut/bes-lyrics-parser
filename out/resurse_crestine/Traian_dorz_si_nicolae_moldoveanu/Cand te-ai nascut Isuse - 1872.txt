@@ -1,5 +1,5 @@
 [title]
-Cand te-ai nascut isuse {author: {Traian Dorz si Nicolae Moldoveanu}, {rcId: {1872}}
+Cand te-ai nascut isuse {composer: {Traian Dorz si Nicolae Moldoveanu}, {rcId: {1872}}
 
 [sequence]
 v1,v2,v3,v4

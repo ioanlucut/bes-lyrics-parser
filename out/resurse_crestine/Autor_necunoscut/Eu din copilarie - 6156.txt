@@ -1,5 +1,5 @@
 [title]
-Eu din copilarie {author: {Anonim}, {rcId: {6156}}
+Eu din copilarie {composer: {Anonim}, {rcId: {6156}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

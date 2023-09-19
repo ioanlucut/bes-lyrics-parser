@@ -1,5 +1,5 @@
 [title]
-Cand va incepe lupta {author: {Ionel Saran}, {rcId: {128237}}
+Cand va incepe lupta {composer: {Ionel Saran}, {rcId: {128237}}
 
 [sequence]
 v1,c,v2,c,v3,c

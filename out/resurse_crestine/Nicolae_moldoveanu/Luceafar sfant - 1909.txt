@@ -1,5 +1,5 @@
 [title]
-Luceafar sfant {author: {Nicolae Moldoveanu}, {rcId: {1909}}
+Luceafar sfant {composer: {Nicolae Moldoveanu}, {rcId: {1909}}
 
 [sequence]
 v1,v2,v3

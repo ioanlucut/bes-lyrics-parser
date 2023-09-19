@@ -1,5 +1,5 @@
 [title]
-El e bucuria mea {author: {Ștefanie Berci}, {rcId: {164425}}
+El e bucuria mea {composer: {Ștefanie Berci}, {rcId: {164425}}
 
 [sequence]
 v1,v2,v3,v4,v5

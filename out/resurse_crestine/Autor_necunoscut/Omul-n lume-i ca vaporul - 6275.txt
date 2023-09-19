@@ -1,5 +1,5 @@
 [title]
-Omul-n lume-i ca vaporul {author: {Anonim}, {rcId: {6275}}
+Omul-n lume-i ca vaporul {composer: {Anonim}, {rcId: {6275}}
 
 [sequence]
 v1,c,v2,c,v3,c,v5,c

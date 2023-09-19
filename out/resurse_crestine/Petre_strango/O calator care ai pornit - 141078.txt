@@ -1,5 +1,5 @@
 [title]
-O calator care ai pornit {author: {Petre Strango}, {rcId: {141078}}
+O calator care ai pornit {composer: {Petre Strango}, {rcId: {141078}}
 
 [sequence]
 v1,v2,v3,v4

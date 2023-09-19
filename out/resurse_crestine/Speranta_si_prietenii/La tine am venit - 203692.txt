@@ -1,5 +1,5 @@
 [title]
-La tine am venit {author: {Speranța și prietenii}, {rcId: {203692}}
+La tine am venit {composer: {Speranța și prietenii}, {rcId: {203692}}
 
 [sequence]
 v1,c,v2,c,v3,c2,c3

@@ -1,5 +1,5 @@
 [title]
-Ce fericire de-a-l cunoaste pe-isus {author: {James McGranahan}, {rcId: {5255}}
+Ce fericire de-a-l cunoaste pe-isus {composer: {James McGranahan}, {rcId: {5255}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

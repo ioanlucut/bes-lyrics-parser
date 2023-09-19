@@ -1,5 +1,5 @@
 [title]
-Stanca tare e hristos {author: {Alina Havrisciuc}, {rcId: {199101}}
+Stanca tare e hristos {composer: {Alina Havrisciuc}, {rcId: {199101}}
 
 [sequence]
 v1,c,v2,c,v3,c

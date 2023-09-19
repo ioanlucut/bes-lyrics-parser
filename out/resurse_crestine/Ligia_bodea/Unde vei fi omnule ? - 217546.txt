@@ -1,5 +1,5 @@
 [title]
-Unde vei fi omnule ? {author: {Ligia Bodea}, {rcId: {217546}}
+Unde vei fi omnule ? {composer: {Ligia Bodea}, {rcId: {217546}}
 
 [sequence]
 v1,c,v2,c,v3,c,c

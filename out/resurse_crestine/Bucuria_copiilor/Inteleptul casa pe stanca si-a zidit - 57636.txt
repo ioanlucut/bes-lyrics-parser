@@ -1,5 +1,5 @@
 [title]
-Inteleptul casa pe stanca si-a zidit {author: {Bucuria copiilor}, {rcId: {57636}}
+Inteleptul casa pe stanca si-a zidit {composer: {Bucuria copiilor}, {rcId: {57636}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Muntii pot sa se mute {author: {Andreea Siminiuc}, {rcId: {190708}}
+Muntii pot sa se mute {composer: {Andreea Siminiuc}, {rcId: {190708}}
 
 [sequence]
 v1,c,v2,c,v3,c

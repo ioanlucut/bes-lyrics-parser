@@ -1,5 +1,5 @@
 [title]
-Esti mila {author: {Harvest Arad}, {rcId: {203629}}
+Esti mila {composer: {Harvest Arad}, {rcId: {203629}}
 
 [sequence]
 v1,v2,c,v3,c,e

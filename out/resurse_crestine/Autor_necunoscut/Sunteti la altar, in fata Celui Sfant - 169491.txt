@@ -1,5 +1,5 @@
 [title]
-Sunteti la altar in fata celui sfant {author: {Anonim}, {rcId: {169491}}
+Sunteti la altar in fata celui sfant {composer: {Anonim}, {rcId: {169491}}
 
 [sequence]
 v1,c,v2,c,v3,c

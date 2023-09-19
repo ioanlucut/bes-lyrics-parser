@@ -1,5 +1,5 @@
 [title]
-Cand incercat eram {author: {Simona Rusu}, {rcId: {66521}}
+Cand incercat eram {composer: {Simona Rusu}, {rcId: {66521}}
 
 [sequence]
 v1,v2,v3,v4

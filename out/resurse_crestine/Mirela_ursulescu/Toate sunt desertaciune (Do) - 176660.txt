@@ -1,5 +1,5 @@
 [title]
-Toate sunt desertaciune (do) {author: {Mirela Ursulescu}, {rcId: {176660}}
+Toate sunt desertaciune (do) {composer: {Mirela Ursulescu}, {rcId: {176660}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

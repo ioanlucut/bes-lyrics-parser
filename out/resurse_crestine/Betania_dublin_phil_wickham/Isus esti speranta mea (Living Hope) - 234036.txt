@@ -1,5 +1,5 @@
 [title]
-Isus esti speranta mea (living hope) {author: {Betania Dublin, Phil Wickham}, {rcId: {234036}}
+Isus esti speranta mea (living hope) {composer: {Betania Dublin, Phil Wickham}, {rcId: {234036}}
 
 [sequence]
 v1,v2,v3,v4,c,v5,e,c

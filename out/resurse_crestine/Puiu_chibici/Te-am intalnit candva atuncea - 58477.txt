@@ -1,5 +1,5 @@
 [title]
-Te-am intalnit candva atuncea {author: {Puiu Chibici}, {rcId: {58477}}
+Te-am intalnit candva atuncea {composer: {Puiu Chibici}, {rcId: {58477}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

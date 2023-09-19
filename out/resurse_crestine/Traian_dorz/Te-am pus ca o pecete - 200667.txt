@@ -1,5 +1,5 @@
 [title]
-Te-am pus ca o pecete {author: {Traian Dorz}, {rcId: {200667}}
+Te-am pus ca o pecete {composer: {Traian Dorz}, {rcId: {200667}}
 
 [sequence]
 v1,v2,v3,v4

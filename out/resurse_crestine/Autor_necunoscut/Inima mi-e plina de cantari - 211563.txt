@@ -1,5 +1,5 @@
 [title]
-Inima mi-e plina de cantari {author: {Anonim}, {rcId: {211563}}
+Inima mi-e plina de cantari {composer: {Anonim}, {rcId: {211563}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Izbavitorul meu {author: {Buliga Andrei}, {rcId: {128879}}
+Izbavitorul meu {composer: {Buliga Andrei}, {rcId: {128879}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

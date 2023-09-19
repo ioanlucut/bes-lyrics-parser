@@ -1,5 +1,5 @@
 [title]
-Castele pe nisip (castles in the sand) {author: {Mosie Lister, Traducere RO}, {rcId: {124196}}
+Castele pe nisip (castles in the sand) {composer: {Mosie Lister, Traducere RO}, {rcId: {124196}}
 
 [sequence]
 v1,c,v2,c,s,c

@@ -1,5 +1,5 @@
 [title]
-Tu esti lumina mea {author: {Vitamina C}, {rcId: {161615}}
+Tu esti lumina mea {composer: {Vitamina C}, {rcId: {161615}}
 
 [sequence]
 v1,c,v2,c,e

@@ -1,5 +1,5 @@
 [title]
-Mare e domnul si de lauda e demn {author: {Anonim}, {rcId: {4994}}
+Mare e domnul si de lauda e demn {composer: {Anonim}, {rcId: {4994}}
 
 [sequence]
 v1,c

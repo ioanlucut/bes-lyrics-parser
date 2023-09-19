@@ -1,5 +1,5 @@
 [title]
-In intuneric {author: {Text și muzica: Ștefan Mihai}, {rcId: {199405}}
+In intuneric {composer: {Text și muzica: Ștefan Mihai}, {rcId: {199405}}
 
 [sequence]
 v1,v2,v3

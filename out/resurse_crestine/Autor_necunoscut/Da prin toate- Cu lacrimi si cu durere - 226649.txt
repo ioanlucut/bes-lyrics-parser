@@ -1,5 +1,5 @@
 [title]
-Da prin toate/ cu lacrimi si cu durere {author: {Autor necunoscut}, {rcId: {226649}}
+Da prin toate/ cu lacrimi si cu durere {composer: {Autor necunoscut}, {rcId: {226649}}
 
 [sequence]
 v1,c,v2,c,v3,c

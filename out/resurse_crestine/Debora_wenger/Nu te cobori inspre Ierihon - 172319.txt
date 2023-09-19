@@ -1,5 +1,5 @@
 [title]
-Nu te cobori inspre ierihon {author: {Debora Wenger}, {rcId: {172319}}
+Nu te cobori inspre ierihon {composer: {Debora Wenger}, {rcId: {172319}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

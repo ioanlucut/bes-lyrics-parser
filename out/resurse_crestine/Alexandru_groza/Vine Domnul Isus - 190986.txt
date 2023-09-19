@@ -1,5 +1,5 @@
 [title]
-Vine domnul isus {author: {Alexandru Groza}, {rcId: {190986}}
+Vine domnul isus {composer: {Alexandru Groza}, {rcId: {190986}}
 
 [sequence]
 v1,c,b,v2,c,b,v1,c

@@ -1,5 +1,5 @@
 [title]
-Isuse culme minunata {author: {T.C.Adorian}, {rcId: {1696}}
+Isuse culme minunata {composer: {T.C.Adorian}, {rcId: {1696}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

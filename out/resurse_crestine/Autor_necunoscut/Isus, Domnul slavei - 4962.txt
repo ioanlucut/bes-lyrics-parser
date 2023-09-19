@@ -1,5 +1,5 @@
 [title]
-Isus domnul slavei {author: {Anonim}, {rcId: {4962}}
+Isus domnul slavei {composer: {Anonim}, {rcId: {4962}}
 
 [sequence]
 v1,c,v2,c

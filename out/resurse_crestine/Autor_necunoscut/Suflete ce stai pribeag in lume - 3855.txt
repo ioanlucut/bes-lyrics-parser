@@ -1,5 +1,5 @@
 [title]
-Suflete ce stai pribeag in lume {author: {Anonim}, {rcId: {3855}}
+Suflete ce stai pribeag in lume {composer: {Anonim}, {rcId: {3855}}
 
 [sequence]
 v1,c,v2,c,v3,c

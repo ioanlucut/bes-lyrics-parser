@@ -1,5 +1,5 @@
 [title]
-Sunt lungi a-mele zile {author: {Nicolae Moldoveanu}, {rcId: {186272}}
+Sunt lungi a-mele zile {composer: {Nicolae Moldoveanu}, {rcId: {186272}}
 
 [sequence]
 v1,v2,v3

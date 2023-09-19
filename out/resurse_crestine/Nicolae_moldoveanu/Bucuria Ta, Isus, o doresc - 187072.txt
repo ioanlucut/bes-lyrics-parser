@@ -1,5 +1,5 @@
 [title]
-Bucuria ta isus o doresc {author: {Nicolae Moldoveanu}, {rcId: {187072}}
+Bucuria ta isus o doresc {composer: {Nicolae Moldoveanu}, {rcId: {187072}}
 
 [sequence]
 v1,v2,v3,v4,v5

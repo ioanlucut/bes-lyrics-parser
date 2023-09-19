@@ -1,5 +1,5 @@
 [title]
-Ferice va fi de omul {author: {Anonim}, {rcId: {1597}}
+Ferice va fi de omul {composer: {Anonim}, {rcId: {1597}}
 
 [sequence]
 v1,v2,v3,v4

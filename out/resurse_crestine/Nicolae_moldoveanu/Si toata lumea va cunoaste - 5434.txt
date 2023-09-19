@@ -1,5 +1,5 @@
 [title]
-Si toata lumea va cunoaste {author: {Nicolae Moldoveanu}, {rcId: {5434}}
+Si toata lumea va cunoaste {composer: {Nicolae Moldoveanu}, {rcId: {5434}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

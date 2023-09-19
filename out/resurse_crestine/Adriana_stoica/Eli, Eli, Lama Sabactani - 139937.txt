@@ -1,5 +1,5 @@
 [title]
-Eli eli lama sabactani {author: {Adriana Stoica}, {rcId: {139937}}
+Eli eli lama sabactani {composer: {Adriana Stoica}, {rcId: {139937}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

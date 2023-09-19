@@ -1,5 +1,5 @@
 [title]
-Crucea lui salvarea mea {author: {Betania Worship Dublin}, {rcId: {213168}}
+Crucea lui salvarea mea {composer: {Betania Worship Dublin}, {rcId: {213168}}
 
 [sequence]
 v1,c,v2,c,c2,c,e

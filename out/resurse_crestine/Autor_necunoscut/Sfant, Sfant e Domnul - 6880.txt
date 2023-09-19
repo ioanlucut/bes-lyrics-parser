@@ -1,5 +1,5 @@
 [title]
-Sfant sfant e domnul {author: {Anonim}, {rcId: {6880}}
+Sfant sfant e domnul {composer: {Anonim}, {rcId: {6880}}
 
 [sequence]
 v1,c

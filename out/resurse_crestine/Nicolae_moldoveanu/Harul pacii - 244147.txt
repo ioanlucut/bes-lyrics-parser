@@ -1,5 +1,5 @@
 [title]
-Harul pacii {author: {Nicolae Moldoveanu}, {rcId: {244147}}
+Harul pacii {composer: {Nicolae Moldoveanu}, {rcId: {244147}}
 
 [sequence]
 v1,v2,v3

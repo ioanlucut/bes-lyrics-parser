@@ -1,5 +1,5 @@
 [title]
-At the cross {author: {Reuben Morgan, Traducere RO}, {rcId: {996}}
+At the cross {composer: {Reuben Morgan, Traducere RO}, {rcId: {996}}
 
 [sequence]
 v1,c,v2,b,c,v3,c

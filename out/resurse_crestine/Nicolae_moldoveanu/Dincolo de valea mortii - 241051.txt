@@ -1,5 +1,5 @@
 [title]
-Dincolo de valea mortii {author: {Nicolae Moldoveanu}, {rcId: {241051}}
+Dincolo de valea mortii {composer: {Nicolae Moldoveanu}, {rcId: {241051}}
 
 [sequence]
 v1,v2,v3,v4,v5

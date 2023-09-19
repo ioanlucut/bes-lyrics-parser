@@ -1,5 +1,5 @@
 [title]
-Pasi spre cer {author: {Gabi Ilut}, {rcId: {225245}}
+Pasi spre cer {composer: {Gabi Ilut}, {rcId: {225245}}
 
 [sequence]
 v1,c,v2,c,v3,c

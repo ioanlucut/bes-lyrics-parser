@@ -1,5 +1,5 @@
 [title]
-El e-n stare {author: {Anonim}, {rcId: {61358}}
+El e-n stare {composer: {Anonim}, {rcId: {61358}}
 
 [sequence]
 v1,c

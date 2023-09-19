@@ -1,5 +1,5 @@
 [title]
-Valea umbrei mortii nu va mai fi {author: {Anonim}, {rcId: {74449}}
+Valea umbrei mortii nu va mai fi {composer: {Anonim}, {rcId: {74449}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

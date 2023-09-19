@@ -1,5 +1,5 @@
 [title]
-Tu esti doamne a mea iubire {author: {Grupul Maslinul}, {rcId: {154817}}
+Tu esti doamne a mea iubire {composer: {Grupul Maslinul}, {rcId: {154817}}
 
 [sequence]
 v1,c,v2,c,v3,c

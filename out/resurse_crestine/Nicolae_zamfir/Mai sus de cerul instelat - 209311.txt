@@ -1,5 +1,5 @@
 [title]
-Mai sus de cerul instelat {author: {Nicolae Zamfir}, {rcId: {209311}}
+Mai sus de cerul instelat {composer: {Nicolae Zamfir}, {rcId: {209311}}
 
 [sequence]
 v1,c,v2,c,v3,c

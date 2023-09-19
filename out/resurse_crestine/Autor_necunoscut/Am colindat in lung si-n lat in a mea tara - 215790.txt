@@ -1,5 +1,5 @@
 [title]
-Am colindat in lung si-n lat in a mea tara {author: {Anonim}, {rcId: {215790}}
+Am colindat in lung si-n lat in a mea tara {composer: {Anonim}, {rcId: {215790}}
 
 [sequence]
 v1,c,v2,c

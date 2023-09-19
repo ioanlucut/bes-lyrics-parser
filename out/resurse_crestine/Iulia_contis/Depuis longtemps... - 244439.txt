@@ -1,5 +1,5 @@
 [title]
-Depuis longtemps {author: {Iulia Contis}, {rcId: {244439}}
+Depuis longtemps {composer: {Iulia Contis}, {rcId: {244439}}
 
 [sequence]
 v1,v2

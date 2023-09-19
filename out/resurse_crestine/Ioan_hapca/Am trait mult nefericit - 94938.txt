@@ -1,5 +1,5 @@
 [title]
-Am trait mult nefericit {author: {Ioan Hapca}, {rcId: {94938}}
+Am trait mult nefericit {composer: {Ioan Hapca}, {rcId: {94938}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Ai ajuns in necaz {author: {Anonim}, {rcId: {61390}}
+Ai ajuns in necaz {composer: {Anonim}, {rcId: {61390}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Pe drumurile vietii {author: {Anonim}, {rcId: {128352}}
+Pe drumurile vietii {composer: {Anonim}, {rcId: {128352}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Ma incred in dumnezeu {author: {Grup Saron}, {rcId: {114092}}
+Ma incred in dumnezeu {composer: {Grup Saron}, {rcId: {114092}}
 
 [sequence]
 v1,c,v2,c,v3,c

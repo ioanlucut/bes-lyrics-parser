@@ -1,5 +1,5 @@
 [title]
-Zboara pe zapada {author: {Nicolae Moldoveanu}, {rcId: {225163}}
+Zboara pe zapada {composer: {Nicolae Moldoveanu}, {rcId: {225163}}
 
 [sequence]
 v1,v2

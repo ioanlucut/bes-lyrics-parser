@@ -1,5 +1,5 @@
 [title]
-Vino acasa te-astept mereu {author: {Daniel Hartie}, {rcId: {159126}}
+Vino acasa te-astept mereu {composer: {Daniel Hartie}, {rcId: {159126}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

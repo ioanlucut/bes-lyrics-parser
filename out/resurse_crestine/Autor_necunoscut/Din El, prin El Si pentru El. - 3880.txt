@@ -1,5 +1,5 @@
 [title]
-Din el prin el si pentru el {author: {Anonim}, {rcId: {3880}}
+Din el prin el si pentru el {composer: {Anonim}, {rcId: {3880}}
 
 [sequence]
 v1,c,v1,c

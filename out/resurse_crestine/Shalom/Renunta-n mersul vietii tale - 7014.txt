@@ -1,5 +1,5 @@
 [title]
-Renunta-n mersul vietii tale {author: {Shalom}, {rcId: {7014}}
+Renunta-n mersul vietii tale {composer: {Shalom}, {rcId: {7014}}
 
 [sequence]
 v1,v2,v3,v4

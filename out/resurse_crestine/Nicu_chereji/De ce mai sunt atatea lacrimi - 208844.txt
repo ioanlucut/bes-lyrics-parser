@@ -1,5 +1,5 @@
 [title]
-De ce mai sunt atatea lacrimi {author: {Nicu Chereji}, {rcId: {208844}}
+De ce mai sunt atatea lacrimi {composer: {Nicu Chereji}, {rcId: {208844}}
 
 [sequence]
 v1,v2,v3,v4

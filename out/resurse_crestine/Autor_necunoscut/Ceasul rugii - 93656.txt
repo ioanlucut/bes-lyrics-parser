@@ -1,5 +1,5 @@
 [title]
-Ceasul rugii {author: {Anonim}, {rcId: {93656}}
+Ceasul rugii {composer: {Anonim}, {rcId: {93656}}
 
 [sequence]
 v1,c,v2,c,v3,c

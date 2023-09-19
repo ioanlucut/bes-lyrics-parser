@@ -1,5 +1,5 @@
 [title]
-Vreau langa dumnezeu {author: {Lowell Mason}, {rcId: {3797}}
+Vreau langa dumnezeu {composer: {Lowell Mason}, {rcId: {3797}}
 
 [sequence]
 v1,v2,v3,v4,v5

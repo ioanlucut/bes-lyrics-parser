@@ -1,5 +1,5 @@
 [title]
-Fiul dragostei {author: {Ioan Evu, Teo Family}, {rcId: {169846}}
+Fiul dragostei {composer: {Ioan Evu, Teo Family}, {rcId: {169846}}
 
 [sequence]
 v1,v2,c,v3,v4,c,e

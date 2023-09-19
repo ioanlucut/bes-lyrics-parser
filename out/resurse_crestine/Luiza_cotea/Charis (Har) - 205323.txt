@@ -1,5 +1,5 @@
 [title]
-Charis (har) {author: {Luiza Cotea}, {rcId: {205323}}
+Charis (har) {composer: {Luiza Cotea}, {rcId: {205323}}
 
 [sequence]
 v1,c,v2,c

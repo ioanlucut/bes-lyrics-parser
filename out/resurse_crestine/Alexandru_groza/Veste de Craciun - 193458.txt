@@ -1,5 +1,5 @@
 [title]
-Veste de craciun {author: {Alexandru Groza}, {rcId: {193458}}
+Veste de craciun {composer: {Alexandru Groza}, {rcId: {193458}}
 
 [sequence]
 v1,b,c,v2,c

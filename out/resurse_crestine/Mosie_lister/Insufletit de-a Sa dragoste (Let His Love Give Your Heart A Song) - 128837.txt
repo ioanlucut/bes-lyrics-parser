@@ -1,5 +1,5 @@
 [title]
-Insufletit de-a sa dragoste (let his love give your heart a song) {author: {Mosie Lister, Traducere RO}, {rcId: {128837}}
+Insufletit de-a sa dragoste (let his love give your heart a song) {composer: {Mosie Lister, Traducere RO}, {rcId: {128837}}
 
 [sequence]
 v1,c,v2,c,s,c

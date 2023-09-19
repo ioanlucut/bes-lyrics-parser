@@ -1,5 +1,5 @@
 [title]
-Ruga de seara {author: {Carmen Prodan}, {rcId: {153734}}
+Ruga de seara {composer: {Carmen Prodan}, {rcId: {153734}}
 
 [sequence]
 v1,c,v2,c,v3,c

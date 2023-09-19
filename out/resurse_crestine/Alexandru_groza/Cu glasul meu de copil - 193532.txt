@@ -1,5 +1,5 @@
 [title]
-Cu glasul meu de copil {author: {Alexandru Groza}, {rcId: {193532}}
+Cu glasul meu de copil {composer: {Alexandru Groza}, {rcId: {193532}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Multe valuri vin adesea {author: {Anonim}, {rcId: {179534}}
+Multe valuri vin adesea {composer: {Anonim}, {rcId: {179534}}
 
 [sequence]
 v1,c,v2,c,v3,c

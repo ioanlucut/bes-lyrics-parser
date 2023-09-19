@@ -1,5 +1,5 @@
 [title]
-Nu descuraja pe cale (e cu mine) {author: {Anonim}, {rcId: {231370}}
+Nu descuraja pe cale (e cu mine) {composer: {Anonim}, {rcId: {231370}}
 
 [sequence]
 v1,c,v2,c,v3,c

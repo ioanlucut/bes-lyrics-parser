@@ -1,5 +1,5 @@
 [title]
-Binecuvantri m inconjoar {author: {Anonim}, {rcId: {199482}}
+Binecuvantri m inconjoar {composer: {Anonim}, {rcId: {199482}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Isus hristos e mare {author: {Anonim}, {rcId: {857}}
+Isus hristos e mare {composer: {Anonim}, {rcId: {857}}
 
 [sequence]
 v1,c,v2,c,v3,c

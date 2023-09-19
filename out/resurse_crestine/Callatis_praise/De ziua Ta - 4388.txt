@@ -1,5 +1,5 @@
 [title]
-De ziua ta {author: {Callatis Praise}, {rcId: {4388}}
+De ziua ta {composer: {Callatis Praise}, {rcId: {4388}}
 
 [sequence]
 v1,c,e

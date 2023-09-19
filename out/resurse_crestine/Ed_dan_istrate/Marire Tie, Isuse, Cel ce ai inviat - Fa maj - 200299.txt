@@ -1,5 +1,5 @@
 [title]
-Marire tie isuse cel ce ai inviat - fa maj {author: {ed. Dan Istrate}, {rcId: {200299}}
+Marire tie isuse cel ce ai inviat - fa maj {composer: {ed. Dan Istrate}, {rcId: {200299}}
 
 [sequence]
 v1,v2,v3

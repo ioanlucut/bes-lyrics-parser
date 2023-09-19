@@ -1,5 +1,5 @@
 [title]
-Asa-ntr-o liniste si-un har {author: {Miriam Popescu}, {rcId: {211227}}
+Asa-ntr-o liniste si-un har {composer: {Miriam Popescu}, {rcId: {211227}}
 
 [sequence]
 v1,c,v2,c,v3,c

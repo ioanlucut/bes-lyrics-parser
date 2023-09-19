@@ -1,5 +1,5 @@
 [title]
-Eu nu gasesc prin valurile vietii {author: {Anonim}, {rcId: {106154}}
+Eu nu gasesc prin valurile vietii {composer: {Anonim}, {rcId: {106154}}
 
 [sequence]
 v1,v2,v3,v4,v5

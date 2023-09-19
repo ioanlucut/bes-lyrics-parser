@@ -1,5 +1,5 @@
 [title]
-Suntem doar niste calatori {author: {Nicolae Moldoveanu}, {rcId: {5765}}
+Suntem doar niste calatori {composer: {Nicolae Moldoveanu}, {rcId: {5765}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

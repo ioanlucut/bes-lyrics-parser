@@ -1,5 +1,5 @@
 [title]
-Doamne vino mai curand {author: {Andrei Tibrea}, {rcId: {94346}}
+Doamne vino mai curand {composer: {Andrei Tibrea}, {rcId: {94346}}
 
 [sequence]
 v1,c,v2,c,v3,c

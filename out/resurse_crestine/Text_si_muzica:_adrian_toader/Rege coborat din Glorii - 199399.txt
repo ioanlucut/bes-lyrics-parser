@@ -1,5 +1,5 @@
 [title]
-Rege coborat din glorii {author: {Text și muzică: Adrian Toader}, {rcId: {199399}}
+Rege coborat din glorii {composer: {Text și muzică: Adrian Toader}, {rcId: {199399}}
 
 [sequence]
 v1,v2,v3,v4

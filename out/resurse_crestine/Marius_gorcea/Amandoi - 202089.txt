@@ -1,5 +1,5 @@
 [title]
-Amandoi {author: {Marius Gorcea}, {rcId: {202089}}
+Amandoi {composer: {Marius Gorcea}, {rcId: {202089}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

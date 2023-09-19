@@ -1,5 +1,5 @@
 [title]
-Scrisoare (fratilor mi-au spus ai cloei despre voi) {author: {Costache Ioanid si Nicolae Moldoveanu}, {rcId: {200652}}
+Scrisoare (fratilor mi-au spus ai cloei despre voi) {composer: {Costache Ioanid si Nicolae Moldoveanu}, {rcId: {200652}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

@@ -1,5 +1,5 @@
 [title]
-Trimis din cer a venit pe lume {author: {Dan Damian}, {rcId: {90722}}
+Trimis din cer a venit pe lume {composer: {Dan Damian}, {rcId: {90722}}
 
 [sequence]
 v1,c,v2,c

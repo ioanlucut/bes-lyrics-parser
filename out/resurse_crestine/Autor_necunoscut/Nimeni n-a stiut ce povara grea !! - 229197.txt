@@ -1,5 +1,5 @@
 [title]
-Nimeni n-a stiut ce povara grea {author: {Anonimul}, {rcId: {229197}}
+Nimeni n-a stiut ce povara grea {composer: {Anonimul}, {rcId: {229197}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

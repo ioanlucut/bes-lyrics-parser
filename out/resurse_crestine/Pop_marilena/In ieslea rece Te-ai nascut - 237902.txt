@@ -1,5 +1,5 @@
 [title]
-In ieslea rece te-ai nascut {author: {Pop Marilena}, {rcId: {237902}}
+In ieslea rece te-ai nascut {composer: {Pop Marilena}, {rcId: {237902}}
 
 [sequence]
 v1,c,v2,c,v3,c

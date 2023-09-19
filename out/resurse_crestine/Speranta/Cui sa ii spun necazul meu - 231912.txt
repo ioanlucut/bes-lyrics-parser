@@ -1,5 +1,5 @@
 [title]
-Cui sa ii spun necazul meu {author: {Speranța}, {rcId: {231912}}
+Cui sa ii spun necazul meu {composer: {Speranța}, {rcId: {231912}}
 
 [sequence]
 v1,v2,c,e

@@ -1,5 +1,5 @@
 [title]
-Death was arrested {author: {North Point InsideOut}, {rcId: {180615}}
+Death was arrested {composer: {North Point InsideOut}, {rcId: {180615}}
 
 [sequence]
 v1,v2,c,v3,c

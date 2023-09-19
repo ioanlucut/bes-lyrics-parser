@@ -1,5 +1,5 @@
 [title]
-Isuse esti cel mai minunat {author: {Anca Suli}, {rcId: {71640}}
+Isuse esti cel mai minunat {composer: {Anca Suli}, {rcId: {71640}}
 
 [sequence]
 v1,v2,v3,v4,v5

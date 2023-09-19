@@ -1,5 +1,5 @@
 [title]
-Turma mica turma mica {author: {Ionel Saran Bochis}, {rcId: {111138}}
+Turma mica turma mica {composer: {Ionel Saran Bochis}, {rcId: {111138}}
 
 [sequence]
 v1,v2,v3,v4,v5

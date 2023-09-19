@@ -1,5 +1,5 @@
 [title]
-In fata tronului tau {author: {Anonim}, {rcId: {1279}}
+In fata tronului tau {composer: {Anonim}, {rcId: {1279}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Doamne vreau sa ma-nchin {author: {Anonim}, {rcId: {233461}}
+Doamne vreau sa ma-nchin {composer: {Anonim}, {rcId: {233461}}
 
 [sequence]
 v1,c

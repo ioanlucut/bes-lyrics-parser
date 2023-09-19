@@ -1,5 +1,5 @@
 [title]
-Ati vazut sperietoarea? {author: {Nicolae Moldoveanu}, {rcId: {228240}}
+Ati vazut sperietoarea? {composer: {Nicolae Moldoveanu}, {rcId: {228240}}
 
 [sequence]
 v1,v2,v3,v4,v5

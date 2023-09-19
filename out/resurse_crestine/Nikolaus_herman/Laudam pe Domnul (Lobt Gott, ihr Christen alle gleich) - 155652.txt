@@ -1,5 +1,5 @@
 [title]
-Laudam pe domnul (lobt gott ihr christen alle gleich) {author: {Nikolaus Herman, Traducere RO}, {rcId: {155652}}
+Laudam pe domnul (lobt gott ihr christen alle gleich) {composer: {Nikolaus Herman, Traducere RO}, {rcId: {155652}}
 
 [sequence]
 v1,v2,v3,v4,v5,s

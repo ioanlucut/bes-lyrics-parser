@@ -1,5 +1,5 @@
 [title]
-Biserica-i vremea din urma {author: {Anonim}, {rcId: {172440}}
+Biserica-i vremea din urma {composer: {Anonim}, {rcId: {172440}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

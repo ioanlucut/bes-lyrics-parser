@@ -1,5 +1,5 @@
 [title]
-Doamne tu esti olarul {author: {Puiu și Beni Chibici}, {rcId: {188189}}
+Doamne tu esti olarul {composer: {Puiu și Beni Chibici}, {rcId: {188189}}
 
 [sequence]
 v1,v2,v3

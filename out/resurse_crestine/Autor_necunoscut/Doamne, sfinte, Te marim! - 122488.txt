@@ -1,5 +1,5 @@
 [title]
-Doamne sfinte te marim {author: {Anonim}, {rcId: {122488}}
+Doamne sfinte te marim {composer: {Anonim}, {rcId: {122488}}
 
 [sequence]
 v1,v2,v3

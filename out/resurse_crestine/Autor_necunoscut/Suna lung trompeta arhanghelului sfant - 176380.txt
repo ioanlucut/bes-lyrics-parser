@@ -1,5 +1,5 @@
 [title]
-Suna lung trompeta arhanghelului sfant {author: {Anonim}, {rcId: {176380}}
+Suna lung trompeta arhanghelului sfant {composer: {Anonim}, {rcId: {176380}}
 
 [sequence]
 v1,c,v2,c,v3,c

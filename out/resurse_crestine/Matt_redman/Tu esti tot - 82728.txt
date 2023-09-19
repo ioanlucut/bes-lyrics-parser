@@ -1,5 +1,5 @@
 [title]
-Tu esti tot {author: {Matt Redman}, {rcId: {82728}}
+Tu esti tot {composer: {Matt Redman}, {rcId: {82728}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

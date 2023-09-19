@@ -1,5 +1,5 @@
 [title]
-Stii tu ce port in pieptul meu {author: {Nicolae Moldoveanu}, {rcId: {5432}}
+Stii tu ce port in pieptul meu {composer: {Nicolae Moldoveanu}, {rcId: {5432}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

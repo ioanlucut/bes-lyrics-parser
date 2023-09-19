@@ -1,5 +1,5 @@
 [title]
-El a venit {author: {Anonim}, {rcId: {4115}}
+El a venit {composer: {Anonim}, {rcId: {4115}}
 
 [sequence]
 v1,c,v2,c

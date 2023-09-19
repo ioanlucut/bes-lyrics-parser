@@ -1,5 +1,5 @@
 [title]
-Spala-mi inima {author: {Anonim}, {rcId: {5211}}
+Spala-mi inima {composer: {Anonim}, {rcId: {5211}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Nu-ti fie frica de nimic crestine pe carare {author: {Aurica Murasan}, {rcId: {177226}}
+Nu-ti fie frica de nimic crestine pe carare {composer: {Aurica Murasan}, {rcId: {177226}}
 
 [sequence]
 v1,v2,v3,v4,v5

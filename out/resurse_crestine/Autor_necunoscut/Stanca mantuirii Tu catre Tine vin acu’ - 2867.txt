@@ -1,5 +1,5 @@
 [title]
-Stanca mantuirii tu catre tine vin acu' {author: {Anonim}, {rcId: {2867}}
+Stanca mantuirii tu catre tine vin acu' {composer: {Anonim}, {rcId: {2867}}
 
 [sequence]
 v1,v2,v3,v4

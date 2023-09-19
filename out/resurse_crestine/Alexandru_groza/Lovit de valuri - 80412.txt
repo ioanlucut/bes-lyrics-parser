@@ -1,5 +1,5 @@
 [title]
-Lovit de valuri {author: {Alexandru Groza}, {rcId: {80412}}
+Lovit de valuri {composer: {Alexandru Groza}, {rcId: {80412}}
 
 [sequence]
 v1,c,v2,c

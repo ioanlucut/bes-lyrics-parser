@@ -1,5 +1,5 @@
 [title]
-Frumos e viitorul {author: {Nicolae Moldoveanu}, {rcId: {244411}}
+Frumos e viitorul {composer: {Nicolae Moldoveanu}, {rcId: {244411}}
 
 [sequence]
 v1,v2,v3,v4

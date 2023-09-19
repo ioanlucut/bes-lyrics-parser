@@ -1,5 +1,5 @@
 [title]
-Golgota {author: {Anonim}, {rcId: {81946}}
+Golgota {composer: {Anonim}, {rcId: {81946}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Colindat-am lumea toata {author: {Hasmasan Gavril}, {rcId: {7217}}
+Colindat-am lumea toata {composer: {Hasmasan Gavril}, {rcId: {7217}}
 
 [sequence]
 v1,v2,v3,v4

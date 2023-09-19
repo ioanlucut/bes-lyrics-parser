@@ -1,5 +1,5 @@
 [title]
-Nu te teme de-ncercari ostasule viteaz {author: {Anonim}, {rcId: {218956}}
+Nu te teme de-ncercari ostasule viteaz {composer: {Anonim}, {rcId: {218956}}
 
 [sequence]
 v1,c,v2,c,v3,c

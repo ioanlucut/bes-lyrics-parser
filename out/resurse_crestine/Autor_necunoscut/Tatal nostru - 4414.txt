@@ -1,5 +1,5 @@
 [title]
-Tat~al nostru {author: {Anonim}, {rcId: {4414}}
+Tat~al nostru {composer: {Anonim}, {rcId: {4414}}
 
 [sequence]
 v1,v2,v3,v4

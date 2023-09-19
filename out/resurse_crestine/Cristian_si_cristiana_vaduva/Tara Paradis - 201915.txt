@@ -1,5 +1,5 @@
 [title]
-Tara paradis {author: {Cristian și Cristiana Văduva}, {rcId: {201915}}
+Tara paradis {composer: {Cristian și Cristiana Văduva}, {rcId: {201915}}
 
 [sequence]
 v1,e,v2,v3

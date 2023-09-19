@@ -1,5 +1,5 @@
 [title]
-Am in cer caminul {author: {Anonim}, {rcId: {7144}}
+Am in cer caminul {composer: {Anonim}, {rcId: {7144}}
 
 [sequence]
 v1,c,v2,c

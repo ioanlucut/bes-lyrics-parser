@@ -1,5 +1,5 @@
 [title]
-Iarta-ma iarta-ma dumnezeul meu {author: {Nicolae Moldoveanu}, {rcId: {1688}}
+Iarta-ma iarta-ma dumnezeul meu {composer: {Nicolae Moldoveanu}, {rcId: {1688}}
 
 [sequence]
 v1,v2,v3,v4,v5

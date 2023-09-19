@@ -1,5 +1,5 @@
 [title]
-Hai vino azi nu amana {author: {Grupul Paradis}, {rcId: {164011}}
+Hai vino azi nu amana {composer: {Grupul Paradis}, {rcId: {164011}}
 
 [sequence]
 v1,c,v2,c

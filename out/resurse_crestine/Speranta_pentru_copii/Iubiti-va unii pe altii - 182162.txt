@@ -1,5 +1,5 @@
 [title]
-Iubiti-va unii pe altii {author: {Speranța pentru copii}, {rcId: {182162}}
+Iubiti-va unii pe altii {composer: {Speranța pentru copii}, {rcId: {182162}}
 
 [sequence]
 v1,c,v2,c,v3,c

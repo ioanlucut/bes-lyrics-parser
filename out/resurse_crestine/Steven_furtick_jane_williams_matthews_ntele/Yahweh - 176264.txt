@@ -1,5 +1,5 @@
 [title]
-Yahweh {author: {Steven Furtick, Jane Williams, Matthews Ntele}, {rcId: {176264}}
+Yahweh {composer: {Steven Furtick, Jane Williams, Matthews Ntele}, {rcId: {176264}}
 
 [sequence]
 v1,c,v2,c,c

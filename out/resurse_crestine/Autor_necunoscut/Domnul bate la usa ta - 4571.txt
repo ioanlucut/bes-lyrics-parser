@@ -1,5 +1,5 @@
 [title]
-Domnul bate la usa ta {author: {Anonim}, {rcId: {4571}}
+Domnul bate la usa ta {composer: {Anonim}, {rcId: {4571}}
 
 [sequence]
 v1,c,v2,c,v3,c

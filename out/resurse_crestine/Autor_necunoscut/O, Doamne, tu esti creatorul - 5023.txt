@@ -1,5 +1,5 @@
 [title]
-O doamne tu esti creatorul {author: {Anonim}, {rcId: {5023}}
+O doamne tu esti creatorul {composer: {Anonim}, {rcId: {5023}}
 
 [sequence]
 v1,c,v2,c

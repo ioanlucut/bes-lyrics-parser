@@ -1,5 +1,5 @@
 [title]
-Cantam copii {author: {Nicolae Moldoveanu}, {rcId: {225025}}
+Cantam copii {composer: {Nicolae Moldoveanu}, {rcId: {225025}}
 
 [sequence]
 v1,v2

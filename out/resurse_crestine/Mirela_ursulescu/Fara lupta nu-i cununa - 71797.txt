@@ -1,5 +1,5 @@
 [title]
-Fara lupta nu-i cununa {author: {Mirela Ursulescu}, {rcId: {71797}}
+Fara lupta nu-i cununa {composer: {Mirela Ursulescu}, {rcId: {71797}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

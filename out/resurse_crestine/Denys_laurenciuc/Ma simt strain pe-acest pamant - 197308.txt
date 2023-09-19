@@ -1,5 +1,5 @@
 [title]
-Ma simt strain pe-acest pamant {author: {Denys Laurenciuc}, {rcId: {197308}}
+Ma simt strain pe-acest pamant {composer: {Denys Laurenciuc}, {rcId: {197308}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Oricand de mare-i lupta {author: {Simon Boloca}, {rcId: {230484}}
+Oricand de mare-i lupta {composer: {Simon Boloca}, {rcId: {230484}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

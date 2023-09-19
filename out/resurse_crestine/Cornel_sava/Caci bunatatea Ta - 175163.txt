@@ -1,5 +1,5 @@
 [title]
-Caci bunatatea ta {author: {Cornel Sava}, {rcId: {175163}}
+Caci bunatatea ta {composer: {Cornel Sava}, {rcId: {175163}}
 
 [sequence]
 v1,c,v2,c,v3,c

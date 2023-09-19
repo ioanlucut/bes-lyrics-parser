@@ -1,5 +1,5 @@
 [title]
-E craciunul {author: {Kutless}, {rcId: {157271}}
+E craciunul {composer: {Kutless}, {rcId: {157271}}
 
 [sequence]
 v1,b,c,v2,b,c2,e

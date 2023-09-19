@@ -1,5 +1,5 @@
 [title]
-Vino doamne-n adunare {author: {Daniel Cojocărescu}, {rcId: {225971}}
+Vino doamne-n adunare {composer: {Daniel Cojocărescu}, {rcId: {225971}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

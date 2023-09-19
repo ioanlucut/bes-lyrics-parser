@@ -1,5 +1,5 @@
 [title]
-Doamne vreau ca viata mea {author: {Anonim}, {rcId: {235634}}
+Doamne vreau ca viata mea {composer: {Anonim}, {rcId: {235634}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

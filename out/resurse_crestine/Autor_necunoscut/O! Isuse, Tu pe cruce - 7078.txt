@@ -1,5 +1,5 @@
 [title]
-O isuse tu pe cruce {author: {Anonim}, {rcId: {7078}}
+O isuse tu pe cruce {composer: {Anonim}, {rcId: {7078}}
 
 [sequence]
 v1,c,v2,c,v3,c

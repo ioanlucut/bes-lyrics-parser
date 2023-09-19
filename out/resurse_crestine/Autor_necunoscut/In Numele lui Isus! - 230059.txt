@@ -1,5 +1,5 @@
 [title]
-In numele lui isus {author: {Anonimul}, {rcId: {230059}}
+In numele lui isus {composer: {Anonimul}, {rcId: {230059}}
 
 [sequence]
 v1,v2,v3,v4,v5

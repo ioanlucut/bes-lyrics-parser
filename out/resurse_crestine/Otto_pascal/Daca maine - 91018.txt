@@ -1,5 +1,5 @@
 [title]
-Daca maine {author: {Otto Pascal}, {rcId: {91018}}
+Daca maine {composer: {Otto Pascal}, {rcId: {91018}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Cu domnul pe munte (god on the mountain) {author: {Tracy Dartt, Traducere RO}, {rcId: {92911}}
+Cu domnul pe munte (god on the mountain) {composer: {Tracy Dartt, Traducere RO}, {rcId: {92911}}
 
 [sequence]
 v1,c,v2,c,s,c

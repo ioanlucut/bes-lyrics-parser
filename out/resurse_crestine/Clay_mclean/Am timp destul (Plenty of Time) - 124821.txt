@@ -1,5 +1,5 @@
 [title]
-Am timp destul (plenty of time) {author: {Clay McLean, Traducere RO}, {rcId: {124821}}
+Am timp destul (plenty of time) {composer: {Clay McLean, Traducere RO}, {rcId: {124821}}
 
 [sequence]
 v1,v2,c,v3,c2,s,c2

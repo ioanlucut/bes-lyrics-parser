@@ -1,5 +1,5 @@
 [title]
-Faca-mi-se-ntotdeauna {author: {Nicolae Moldoveanu}, {rcId: {5336}}
+Faca-mi-se-ntotdeauna {composer: {Nicolae Moldoveanu}, {rcId: {5336}}
 
 [sequence]
 v1,v2,v3,v4

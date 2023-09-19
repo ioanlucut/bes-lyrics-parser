@@ -1,5 +1,5 @@
 [title]
-N-am sa uit vreodata {author: {Anonim}, {rcId: {1493}}
+N-am sa uit vreodata {composer: {Anonim}, {rcId: {1493}}
 
 [sequence]
 v1,c,v2,c,v3,c

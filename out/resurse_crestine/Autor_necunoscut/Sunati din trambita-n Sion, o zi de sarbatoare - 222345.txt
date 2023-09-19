@@ -1,5 +1,5 @@
 [title]
-Sunati din trambita-n sion o zi de sarbatoare {author: {Anonim}, {rcId: {222345}}
+Sunati din trambita-n sion o zi de sarbatoare {composer: {Anonim}, {rcId: {222345}}
 
 [sequence]
 v1,v2,v3,v4

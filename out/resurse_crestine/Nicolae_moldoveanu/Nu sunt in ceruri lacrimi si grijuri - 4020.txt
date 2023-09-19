@@ -1,5 +1,5 @@
 [title]
-Nu sunt in ceruri lacrimi si grijuri {author: {Nicolae Moldoveanu}, {rcId: {4020}}
+Nu sunt in ceruri lacrimi si grijuri {composer: {Nicolae Moldoveanu}, {rcId: {4020}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Multumesc {author: {Biserica Betania Dublin}, {rcId: {221858}}
+Multumesc {composer: {Biserica Betania Dublin}, {rcId: {221858}}
 
 [sequence]
 v1,c,v2,b,c

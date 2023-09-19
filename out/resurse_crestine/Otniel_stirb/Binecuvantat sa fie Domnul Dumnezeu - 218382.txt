@@ -1,5 +1,5 @@
 [title]
-Binecuvantat sa fie domnul dumnezeu {author: {Otniel Stirb}, {rcId: {218382}}
+Binecuvantat sa fie domnul dumnezeu {composer: {Otniel Stirb}, {rcId: {218382}}
 
 [sequence]
 v1,c,v2,c,v3,c

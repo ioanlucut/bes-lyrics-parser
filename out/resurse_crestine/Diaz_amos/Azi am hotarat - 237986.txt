@@ -1,5 +1,5 @@
 [title]
-Azi am hotarat {author: {Diaz Amos}, {rcId: {237986}}
+Azi am hotarat {composer: {Diaz Amos}, {rcId: {237986}}
 
 [sequence]
 v1,c,v2,c

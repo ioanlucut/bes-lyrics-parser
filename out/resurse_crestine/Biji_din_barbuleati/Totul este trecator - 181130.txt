@@ -1,5 +1,5 @@
 [title]
-Totul este trecator {author: {Biji din Barbuleati}, {rcId: {181130}}
+Totul este trecator {composer: {Biji din Barbuleati}, {rcId: {181130}}
 
 [sequence]
 v1,c,v2,c,v3,c

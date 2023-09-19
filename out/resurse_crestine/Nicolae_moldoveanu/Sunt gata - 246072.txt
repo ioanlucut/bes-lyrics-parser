@@ -1,5 +1,5 @@
 [title]
-Sunt gata {author: {Nicolae Moldoveanu}, {rcId: {246072}}
+Sunt gata {composer: {Nicolae Moldoveanu}, {rcId: {246072}}
 
 [sequence]
 v1,v2,v3

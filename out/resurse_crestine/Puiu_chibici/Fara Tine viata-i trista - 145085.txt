@@ -1,5 +1,5 @@
 [title]
-Fara tine viata-i trista {author: {Puiu Chibici}, {rcId: {145085}}
+Fara tine viata-i trista {composer: {Puiu Chibici}, {rcId: {145085}}
 
 [sequence]
 v1,c,v2,c,v3,c

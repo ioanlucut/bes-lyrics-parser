@@ -1,5 +1,5 @@
 [title]
-Ce bogat este harul {author: {Nicolae Moldoveanu}, {rcId: {189869}}
+Ce bogat este harul {composer: {Nicolae Moldoveanu}, {rcId: {189869}}
 
 [sequence]
 v1,v2,v3,v4,v5

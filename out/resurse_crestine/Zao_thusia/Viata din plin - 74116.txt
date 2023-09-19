@@ -1,5 +1,5 @@
 [title]
-Viata din plin {author: {Zao Thusia}, {rcId: {74116}}
+Viata din plin {composer: {Zao Thusia}, {rcId: {74116}}
 
 [sequence]
 v1,v2,c,e

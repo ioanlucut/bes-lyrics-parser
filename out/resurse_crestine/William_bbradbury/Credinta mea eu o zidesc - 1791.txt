@@ -1,5 +1,5 @@
 [title]
-Credinta mea eu o zidesc {author: {William B.Bradbury}, {rcId: {1791}}
+Credinta mea eu o zidesc {composer: {William B.Bradbury}, {rcId: {1791}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

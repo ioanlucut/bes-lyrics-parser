@@ -1,5 +1,5 @@
 [title]
-Lumina ta cea minunata {author: {Nicolae Moldoveanu}, {rcId: {186269}}
+Lumina ta cea minunata {composer: {Nicolae Moldoveanu}, {rcId: {186269}}
 
 [sequence]
 v1,v2,v3,v4,v5

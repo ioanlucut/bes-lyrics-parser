@@ -1,5 +1,5 @@
 [title]
-La cumpana de ani se cere socoteala (inca un an) {author: {The Messengers}, {rcId: {118425}}
+La cumpana de ani se cere socoteala (inca un an) {composer: {The Messengers}, {rcId: {118425}}
 
 [sequence]
 v1,v2,v3,v4,e

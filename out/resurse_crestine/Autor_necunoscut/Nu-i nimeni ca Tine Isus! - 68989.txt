@@ -1,5 +1,5 @@
 [title]
-Nu-i nimeni ca tine isus {author: {Anonim}, {rcId: {68989}}
+Nu-i nimeni ca tine isus {composer: {Anonim}, {rcId: {68989}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

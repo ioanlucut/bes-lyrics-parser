@@ -1,5 +1,5 @@
 [title]
-Dulce e a crede-n isus {author: {revizuit}, {rcId: {216279}}
+Dulce e a crede-n isus {composer: {revizuit}, {rcId: {216279}}
 
 [sequence]
 v1,c,v2,c,v3,c

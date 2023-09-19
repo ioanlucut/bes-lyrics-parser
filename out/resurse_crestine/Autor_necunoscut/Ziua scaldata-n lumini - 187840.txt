@@ -1,5 +1,5 @@
 [title]
-Ziua scaldata-n lumini {author: {Anonim}, {rcId: {187840}}
+Ziua scaldata-n lumini {composer: {Anonim}, {rcId: {187840}}
 
 [sequence]
 v1,c,v2,c

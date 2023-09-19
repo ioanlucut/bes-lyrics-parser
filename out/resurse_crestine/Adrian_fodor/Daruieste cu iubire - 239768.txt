@@ -1,5 +1,5 @@
 [title]
-Daruieste cu iubire {author: {Adrian Fodor}, {rcId: {239768}}
+Daruieste cu iubire {composer: {Adrian Fodor}, {rcId: {239768}}
 
 [sequence]
 v1

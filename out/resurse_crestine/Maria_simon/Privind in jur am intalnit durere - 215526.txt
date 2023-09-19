@@ -1,5 +1,5 @@
 [title]
-Privind in jur am intalnit durere {author: {Maria Șimon}, {rcId: {215526}}
+Privind in jur am intalnit durere {composer: {Maria Șimon}, {rcId: {215526}}
 
 [sequence]
 v1,c,v2,c,v3,c

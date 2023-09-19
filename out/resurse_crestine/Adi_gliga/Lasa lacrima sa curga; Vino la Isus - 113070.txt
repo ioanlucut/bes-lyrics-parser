@@ -1,5 +1,5 @@
 [title]
-Lasa lacrima sa curga; vino la isus {author: {Adi Gliga}, {rcId: {113070}}
+Lasa lacrima sa curga; vino la isus {composer: {Adi Gliga}, {rcId: {113070}}
 
 [sequence]
 v1,b,c,v2,c

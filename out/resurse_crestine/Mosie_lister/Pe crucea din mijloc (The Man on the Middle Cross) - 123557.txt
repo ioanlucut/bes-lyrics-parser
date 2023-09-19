@@ -1,5 +1,5 @@
 [title]
-Pe crucea din mijloc (the man on the middle cross) {author: {Mosie Lister, Traducere RO}, {rcId: {123557}}
+Pe crucea din mijloc (the man on the middle cross) {composer: {Mosie Lister, Traducere RO}, {rcId: {123557}}
 
 [sequence]
 v1,c,v2,c,s,c

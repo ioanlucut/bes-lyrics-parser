@@ -1,5 +1,5 @@
 [title]
-In norul de ispite grele {author: {Nicolae Moldoveanu}, {rcId: {5674}}
+In norul de ispite grele {composer: {Nicolae Moldoveanu}, {rcId: {5674}}
 
 [sequence]
 v1,v2,v3,v4,v5

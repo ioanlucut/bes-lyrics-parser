@@ -1,5 +1,5 @@
 [title]
-Glorie osana {author: {Vlad Bucur}, {rcId: {241164}}
+Glorie osana {composer: {Vlad Bucur}, {rcId: {241164}}
 
 [sequence]
 v1,c,v2,c

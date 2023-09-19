@@ -1,5 +1,5 @@
 [title]
-M-a atins un inger {author: {Florin Modog}, {rcId: {131313}}
+M-a atins un inger {composer: {Florin Modog}, {rcId: {131313}}
 
 [sequence]
 c,v1,c,v2,b,c,e

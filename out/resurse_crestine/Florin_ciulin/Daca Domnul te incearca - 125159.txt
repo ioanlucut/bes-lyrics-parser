@@ -1,5 +1,5 @@
 [title]
-Daca domnul te incearca {author: {Florin Ciulin}, {rcId: {125159}}
+Daca domnul te incearca {composer: {Florin Ciulin}, {rcId: {125159}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

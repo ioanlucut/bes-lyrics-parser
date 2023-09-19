@@ -1,5 +1,5 @@
 [title]
-Ce bine e sa-i dam lauda domnului {author: {Neiconi Nutzy}, {rcId: {4850}}
+Ce bine e sa-i dam lauda domnului {composer: {Neiconi Nutzy}, {rcId: {4850}}
 
 [sequence]
 v1,b,c

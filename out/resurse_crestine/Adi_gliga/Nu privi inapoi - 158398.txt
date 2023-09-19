@@ -1,5 +1,5 @@
 [title]
-Nu privi inapoi {author: {Adi Gliga}, {rcId: {158398}}
+Nu privi inapoi {composer: {Adi Gliga}, {rcId: {158398}}
 
 [sequence]
 v1,c,v2,c

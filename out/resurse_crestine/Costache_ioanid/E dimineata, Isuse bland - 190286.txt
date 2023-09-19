@@ -1,5 +1,5 @@
 [title]
-E dimineata isuse bland {author: {Costache Ioanid}, {rcId: {190286}}
+E dimineata isuse bland {composer: {Costache Ioanid}, {rcId: {190286}}
 
 [sequence]
 v1,v2,v3

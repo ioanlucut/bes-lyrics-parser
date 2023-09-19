@@ -1,5 +1,5 @@
 [title]
-Doamne tu-n necazuri {author: {Text: Traian Dorsz, Muzica: Adrian Toader}, {rcId: {199258}}
+Doamne tu-n necazuri {composer: {Text: Traian Dorsz, Muzica: Adrian Toader}, {rcId: {199258}}
 
 [sequence]
 v1,v2,v3,v4

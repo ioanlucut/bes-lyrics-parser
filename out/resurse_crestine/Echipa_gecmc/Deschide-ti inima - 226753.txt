@@ -1,5 +1,5 @@
 [title]
-Deschide-ti inima {author: {Echipa GECMC}, {rcId: {226753}}
+Deschide-ti inima {composer: {Echipa GECMC}, {rcId: {226753}}
 
 [sequence]
 v1,c,v2,c,e

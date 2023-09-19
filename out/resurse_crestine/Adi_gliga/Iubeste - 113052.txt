@@ -1,5 +1,5 @@
 [title]
-Iubeste {author: {Adi Gliga}, {rcId: {113052}}
+Iubeste {composer: {Adi Gliga}, {rcId: {113052}}
 
 [sequence]
 v1,b,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Daca-l ai pe isus {author: {Irina Radiș}, {rcId: {153697}}
+Daca-l ai pe isus {composer: {Irina Radiș}, {rcId: {153697}}
 
 [sequence]
 v1,c,v2,c,v3,c

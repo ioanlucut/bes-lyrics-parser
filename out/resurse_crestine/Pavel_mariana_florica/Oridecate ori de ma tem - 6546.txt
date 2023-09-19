@@ -1,5 +1,5 @@
 [title]
-Oridecate ori de ma tem {author: {Pavel Mariana, Florica}, {rcId: {6546}}
+Oridecate ori de ma tem {composer: {Pavel Mariana, Florica}, {rcId: {6546}}
 
 [sequence]
 v1,c,v2,c,v3,c

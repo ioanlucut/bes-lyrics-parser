@@ -1,5 +1,5 @@
 [title]
-Cea dintai porunca sfanta {author: {Mihail Dimitriu}, {rcId: {7110}}
+Cea dintai porunca sfanta {composer: {Mihail Dimitriu}, {rcId: {7110}}
 
 [sequence]
 v1,c,v2,c

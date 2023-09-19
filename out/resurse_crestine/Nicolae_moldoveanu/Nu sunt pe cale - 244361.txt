@@ -1,5 +1,5 @@
 [title]
-Nu sunt pe cale {author: {Nicolae Moldoveanu}, {rcId: {244361}}
+Nu sunt pe cale {composer: {Nicolae Moldoveanu}, {rcId: {244361}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

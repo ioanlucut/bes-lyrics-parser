@@ -1,5 +1,5 @@
 [title]
-Doamne am necazuri multe {author: {Ionel Saran}, {rcId: {115680}}
+Doamne am necazuri multe {composer: {Ionel Saran}, {rcId: {115680}}
 
 [sequence]
 v1,v2,v3,v4

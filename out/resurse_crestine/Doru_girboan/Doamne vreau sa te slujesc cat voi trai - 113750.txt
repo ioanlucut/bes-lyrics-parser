@@ -1,5 +1,5 @@
 [title]
-Doamne vreau sa te slujesc cat voi trai {author: {Doru Gîrboan}, {rcId: {113750}}
+Doamne vreau sa te slujesc cat voi trai {composer: {Doru Gîrboan}, {rcId: {113750}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

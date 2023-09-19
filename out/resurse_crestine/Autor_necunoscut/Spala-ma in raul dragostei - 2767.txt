@@ -1,5 +1,5 @@
 [title]
-Spala-ma in raul dragostei {author: {Anonim}, {rcId: {2767}}
+Spala-ma in raul dragostei {composer: {Anonim}, {rcId: {2767}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Fii gata suflete (awake my soul) {author: {Philip Doddridge, Georg Friedrich Händel, Traducere RO}, {rcId: {240719}}
+Fii gata suflete (awake my soul) {composer: {Philip Doddridge, Georg Friedrich Händel, Traducere RO}, {rcId: {240719}}
 
 [sequence]
 v1,v2,v3,v4

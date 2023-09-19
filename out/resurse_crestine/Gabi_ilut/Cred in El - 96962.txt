@@ -1,5 +1,5 @@
 [title]
-Cred in el {author: {Gabi Ilut}, {rcId: {96962}}
+Cred in el {composer: {Gabi Ilut}, {rcId: {96962}}
 
 [sequence]
 v1,c,v2,c,v3,c

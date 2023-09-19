@@ -1,5 +1,5 @@
 [title]
-O cat de mult isus as vrea {author: {Salomeea Stoica}, {rcId: {163753}}
+O cat de mult isus as vrea {composer: {Salomeea Stoica}, {rcId: {163753}}
 
 [sequence]
 v1,c,v2,c2

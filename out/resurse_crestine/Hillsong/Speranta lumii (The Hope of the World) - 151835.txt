@@ -1,5 +1,5 @@
 [title]
-Speranta lumii (the hope of the world) {author: {Hillsong, Traducere RO}, {rcId: {151835}}
+Speranta lumii (the hope of the world) {composer: {Hillsong, Traducere RO}, {rcId: {151835}}
 
 [sequence]
 v1,c,v2,c,e

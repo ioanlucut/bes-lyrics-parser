@@ -1,5 +1,5 @@
 [title]
-La fantana lui iacov {author: {Alexandru Groza}, {rcId: {192936}}
+La fantana lui iacov {composer: {Alexandru Groza}, {rcId: {192936}}
 
 [sequence]
 v1,b,c,v2,c

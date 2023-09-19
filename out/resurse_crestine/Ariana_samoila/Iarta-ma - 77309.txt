@@ -1,5 +1,5 @@
 [title]
-Iarta-ma {author: {Ariana Samoila}, {rcId: {77309}}
+Iarta-ma {composer: {Ariana Samoila}, {rcId: {77309}}
 
 [sequence]
 v1,c

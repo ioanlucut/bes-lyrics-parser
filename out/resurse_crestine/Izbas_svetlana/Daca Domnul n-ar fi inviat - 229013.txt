@@ -1,5 +1,5 @@
 [title]
-Daca domnul n-ar fi inviat {author: {Izbaș  Svetlana}, {rcId: {229013}}
+Daca domnul n-ar fi inviat {composer: {Izbaș  Svetlana}, {rcId: {229013}}
 
 [sequence]
 v1

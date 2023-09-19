@@ -1,5 +1,5 @@
 [title]
-Nu e nimenea pe lume nu e nimeni pe pamant {author: {Otniel Stirb}, {rcId: {191798}}
+Nu e nimenea pe lume nu e nimeni pe pamant {composer: {Otniel Stirb}, {rcId: {191798}}
 
 [sequence]
 v1,c,v2,c,v3,c

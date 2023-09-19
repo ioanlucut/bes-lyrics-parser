@@ -1,5 +1,5 @@
 [title]
-Asteptand fericita nadejde {author: {Otniel Stirb}, {rcId: {176970}}
+Asteptand fericita nadejde {composer: {Otniel Stirb}, {rcId: {176970}}
 
 [sequence]
 v1,c,v2,c,v3,c

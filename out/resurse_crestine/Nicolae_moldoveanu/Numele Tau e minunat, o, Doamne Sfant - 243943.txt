@@ -1,5 +1,5 @@
 [title]
-Numele tau e minunat o doamne sfant {author: {Nicolae Moldoveanu}, {rcId: {243943}}
+Numele tau e minunat o doamne sfant {composer: {Nicolae Moldoveanu}, {rcId: {243943}}
 
 [sequence]
 v1,c,v2,c,v2,c,v3,c,v4,c

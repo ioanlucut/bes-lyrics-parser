@@ -1,5 +1,5 @@
 [title]
-De copil ma-ncred in tine {author: {Anonim}, {rcId: {74329}}
+De copil ma-ncred in tine {composer: {Anonim}, {rcId: {74329}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Neclintit(build my life) {author: {Ekklesia Arad}, {rcId: {189324}}
+Neclintit(build my life) {composer: {Ekklesia Arad}, {rcId: {189324}}
 
 [sequence]
 v1,c,v2,c,e

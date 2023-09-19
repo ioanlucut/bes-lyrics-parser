@@ -1,5 +1,5 @@
 [title]
-Deschide-ti inima {author: {Gabi_Ilut}, {rcId: {241208}}
+Deschide-ti inima {composer: {Gabi_Ilut}, {rcId: {241208}}
 
 [sequence]
 v1,c,v2,c,v3,c

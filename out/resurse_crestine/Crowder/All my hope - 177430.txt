@@ -1,5 +1,5 @@
 [title]
-All my hope {author: {Crowder}, {rcId: {177430}}
+All my hope {composer: {Crowder}, {rcId: {177430}}
 
 [sequence]
 v1,c,v2,c,e,v3,c

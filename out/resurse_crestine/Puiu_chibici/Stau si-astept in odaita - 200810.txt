@@ -1,5 +1,5 @@
 [title]
-Stau si-astept in odaita {author: {Puiu Chibici}, {rcId: {200810}}
+Stau si-astept in odaita {composer: {Puiu Chibici}, {rcId: {200810}}
 
 [sequence]
 v1,v2,v3

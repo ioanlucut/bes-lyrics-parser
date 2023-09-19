@@ -1,5 +1,5 @@
 [title]
-Domnul este bun {author: {Anonim}, {rcId: {124634}}
+Domnul este bun {composer: {Anonim}, {rcId: {124634}}
 
 [sequence]
 v1,v2,v3,v4

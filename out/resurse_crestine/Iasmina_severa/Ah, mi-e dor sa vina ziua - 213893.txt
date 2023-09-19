@@ -1,5 +1,5 @@
 [title]
-Ah mi-e dor sa vina ziua {author: {Iasmina Severa}, {rcId: {213893}}
+Ah mi-e dor sa vina ziua {composer: {Iasmina Severa}, {rcId: {213893}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

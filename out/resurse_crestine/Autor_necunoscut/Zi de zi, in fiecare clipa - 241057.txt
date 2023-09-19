@@ -1,5 +1,5 @@
 [title]
-Zi de zi in fiecare clipa {author: {Anonim}, {rcId: {241057}}
+Zi de zi in fiecare clipa {composer: {Anonim}, {rcId: {241057}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

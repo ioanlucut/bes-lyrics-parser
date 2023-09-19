@@ -1,5 +1,5 @@
 [title]
-Stanca inalta {author: {Continental}, {rcId: {89186}}
+Stanca inalta {composer: {Continental}, {rcId: {89186}}
 
 [sequence]
 v1,c,v2,c,e,v3,c

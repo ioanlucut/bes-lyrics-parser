@@ -1,5 +1,5 @@
 [title]
-Eu vin-aintea ta cu multumire {author: {Anonim}, {rcId: {205442}}
+Eu vin-aintea ta cu multumire {composer: {Anonim}, {rcId: {205442}}
 
 [sequence]
 v1,v2,v3,v4,v5

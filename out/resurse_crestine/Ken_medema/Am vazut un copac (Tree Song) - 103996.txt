@@ -1,5 +1,5 @@
 [title]
-Am vazut un copac (tree song) {author: {Ken Medema, Traducere RO}, {rcId: {103996}}
+Am vazut un copac (tree song) {composer: {Ken Medema, Traducere RO}, {rcId: {103996}}
 
 [sequence]
 v1,c,v2,c2,s,c2

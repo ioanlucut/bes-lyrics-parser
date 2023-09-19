@@ -1,5 +1,5 @@
 [title]
-Pe pamant e craciun {author: {Anonim}, {rcId: {143952}}
+Pe pamant e craciun {composer: {Anonim}, {rcId: {143952}}
 
 [sequence]
 v1,c,v2,c2

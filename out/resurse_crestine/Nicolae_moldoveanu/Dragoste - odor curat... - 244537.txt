@@ -1,5 +1,5 @@
 [title]
-Dragoste - odor curat {author: {Nicolae Moldoveanu}, {rcId: {244537}}
+Dragoste - odor curat {composer: {Nicolae Moldoveanu}, {rcId: {244537}}
 
 [sequence]
 v1,v2,v3

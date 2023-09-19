@@ -1,5 +1,5 @@
 [title]
-Cine esti tu doamne? {author: {David Stănuș}, {rcId: {153069}}
+Cine esti tu doamne? {composer: {David Stănuș}, {rcId: {153069}}
 
 [sequence]
 v1,c,v2,c,v3,c

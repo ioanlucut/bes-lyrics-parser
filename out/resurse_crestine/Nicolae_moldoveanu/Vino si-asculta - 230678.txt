@@ -1,5 +1,5 @@
 [title]
-Vino si-asculta {author: {Nicolae Moldoveanu}, {rcId: {230678}}
+Vino si-asculta {composer: {Nicolae Moldoveanu}, {rcId: {230678}}
 
 [sequence]
 v1,v2,v3

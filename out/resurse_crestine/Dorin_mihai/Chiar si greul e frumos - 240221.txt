@@ -1,5 +1,5 @@
 [title]
-Chiar si greul e frumos {author: {Dorin Mihai}, {rcId: {240221}}
+Chiar si greul e frumos {composer: {Dorin Mihai}, {rcId: {240221}}
 
 [sequence]
 c,v1,v2,v3,c2

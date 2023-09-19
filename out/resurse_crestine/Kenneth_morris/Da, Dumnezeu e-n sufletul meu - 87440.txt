@@ -1,5 +1,5 @@
 [title]
-Da dumnezeu e-n sufletul meu {author: {Kenneth Morris, Traducere RO}, {rcId: {87440}}
+Da dumnezeu e-n sufletul meu {composer: {Kenneth Morris, Traducere RO}, {rcId: {87440}}
 
 [sequence]
 v1,c,v2,c,v3,c

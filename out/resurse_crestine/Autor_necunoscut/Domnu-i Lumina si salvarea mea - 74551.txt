@@ -1,5 +1,5 @@
 [title]
-Domnu-i lumina si salvarea mea {author: {Anonim}, {rcId: {74551}}
+Domnu-i lumina si salvarea mea {composer: {Anonim}, {rcId: {74551}}
 
 [sequence]
 v1,c

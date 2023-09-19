@@ -1,5 +1,5 @@
 [title]
-Eu simt ca vine domnul {author: {Familia Șofron}, {rcId: {100073}}
+Eu simt ca vine domnul {composer: {Familia Șofron}, {rcId: {100073}}
 
 [sequence]
 v1,c,v2,c,v3,c

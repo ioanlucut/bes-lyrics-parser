@@ -1,5 +1,5 @@
 [title]
-Astazi vin si-mi plec genunchii {author: {Gabi_Ilut}, {rcId: {241280}}
+Astazi vin si-mi plec genunchii {composer: {Gabi_Ilut}, {rcId: {241280}}
 
 [sequence]
 v1,v2,v3,v4

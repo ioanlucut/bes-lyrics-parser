@@ -1,5 +1,5 @@
 [title]
-In sfanta devotare {author: {E.Gebhardt}, {rcId: {1916}}
+In sfanta devotare {composer: {E.Gebhardt}, {rcId: {1916}}
 
 [sequence]
 v1,v2,v3,v4

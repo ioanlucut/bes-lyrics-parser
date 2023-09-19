@@ -1,5 +1,5 @@
 [title]
-Copil gingas {author: {Anonim}, {rcId: {56784}}
+Copil gingas {composer: {Anonim}, {rcId: {56784}}
 
 [sequence]
 v1,c,v2,c,v3,c

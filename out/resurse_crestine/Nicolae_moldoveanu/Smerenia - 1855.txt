@@ -1,5 +1,5 @@
 [title]
-Smerenia {author: {Nicolae Moldoveanu}, {rcId: {1855}}
+Smerenia {composer: {Nicolae Moldoveanu}, {rcId: {1855}}
 
 [sequence]
 v1,v2

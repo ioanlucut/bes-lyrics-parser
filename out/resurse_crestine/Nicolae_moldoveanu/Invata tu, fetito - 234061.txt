@@ -1,5 +1,5 @@
 [title]
-Invata tu fetito {author: {Nicolae Moldoveanu}, {rcId: {234061}}
+Invata tu fetito {composer: {Nicolae Moldoveanu}, {rcId: {234061}}
 
 [sequence]
 v1,v2,v3,v4

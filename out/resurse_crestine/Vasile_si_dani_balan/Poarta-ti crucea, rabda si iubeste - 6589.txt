@@ -1,5 +1,5 @@
 [title]
-Poarta-ti crucea rabda si iubeste {author: {Vasile și Dani Bălan}, {rcId: {6589}}
+Poarta-ti crucea rabda si iubeste {composer: {Vasile și Dani Bălan}, {rcId: {6589}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

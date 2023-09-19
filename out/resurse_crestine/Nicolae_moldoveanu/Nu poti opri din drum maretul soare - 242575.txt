@@ -1,5 +1,5 @@
 [title]
-Nu poti opri din drum maretul soare {author: {Nicolae Moldoveanu}, {rcId: {242575}}
+Nu poti opri din drum maretul soare {composer: {Nicolae Moldoveanu}, {rcId: {242575}}
 
 [sequence]
 v1,v2,v3,v4

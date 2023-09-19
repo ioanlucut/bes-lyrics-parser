@@ -1,5 +1,5 @@
 [title]
-Doar atata vietuiesti {author: {Nicolae Moldoveanu}, {rcId: {246477}}
+Doar atata vietuiesti {composer: {Nicolae Moldoveanu}, {rcId: {246477}}
 
 [sequence]
 v1,v2,v3,v4

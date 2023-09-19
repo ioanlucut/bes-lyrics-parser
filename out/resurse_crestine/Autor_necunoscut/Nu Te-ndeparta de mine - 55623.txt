@@ -1,5 +1,5 @@
 [title]
-Nu te-ndeparta de mine {author: {Anonim}, {rcId: {55623}}
+Nu te-ndeparta de mine {composer: {Anonim}, {rcId: {55623}}
 
 [sequence]
 v1,c,v2,c,v3,c

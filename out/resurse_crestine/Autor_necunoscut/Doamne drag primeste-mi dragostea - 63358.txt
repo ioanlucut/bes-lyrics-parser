@@ -1,5 +1,5 @@
 [title]
-Doamne drag primeste-mi dragostea {author: {Anonim}, {rcId: {63358}}
+Doamne drag primeste-mi dragostea {composer: {Anonim}, {rcId: {63358}}
 
 [sequence]
 v1,c,v2,c

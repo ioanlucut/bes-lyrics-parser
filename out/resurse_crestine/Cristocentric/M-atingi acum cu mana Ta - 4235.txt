@@ -1,5 +1,5 @@
 [title]
-M-atingi acum cu mana ta {author: {CristoCentric}, {rcId: {4235}}
+M-atingi acum cu mana ta {composer: {CristoCentric}, {rcId: {4235}}
 
 [sequence]
 v1,c

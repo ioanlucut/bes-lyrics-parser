@@ -1,5 +1,5 @@
 [title]
-Isus te cheama {author: {C.B.McAfea}, {rcId: {1712}}
+Isus te cheama {composer: {C.B.McAfea}, {rcId: {1712}}
 
 [sequence]
 v1,v2,v3

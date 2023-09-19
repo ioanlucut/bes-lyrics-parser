@@ -1,5 +1,5 @@
 [title]
-Cu bratele deschise {author: {Continental}, {rcId: {89180}}
+Cu bratele deschise {composer: {Continental}, {rcId: {89180}}
 
 [sequence]
 v1,c,v2,c

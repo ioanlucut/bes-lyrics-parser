@@ -1,5 +1,5 @@
 [title]
-Daca traiesc {author: {Ioan Panican}, {rcId: {139930}}
+Daca traiesc {composer: {Ioan Panican}, {rcId: {139930}}
 
 [sequence]
 v1,c,v2,c2,c3

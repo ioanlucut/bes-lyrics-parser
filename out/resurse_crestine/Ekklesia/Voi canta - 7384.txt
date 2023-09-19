@@ -1,5 +1,5 @@
 [title]
-Voi canta {author: {Ekklesia}, {rcId: {7384}}
+Voi canta {composer: {Ekklesia}, {rcId: {7384}}
 
 [sequence]
 v1,b,c,v2,c

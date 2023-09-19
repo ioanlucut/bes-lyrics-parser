@@ -1,5 +1,5 @@
 [title]
-Din paradisul luminos {author: {Nicu Wagner}, {rcId: {61699}}
+Din paradisul luminos {composer: {Nicu Wagner}, {rcId: {61699}}
 
 [sequence]
 v1,v2,v3

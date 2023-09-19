@@ -1,5 +1,5 @@
 [title]
-Glorie cinste inchinare {author: {Ilie Neagu}, {rcId: {153097}}
+Glorie cinste inchinare {composer: {Ilie Neagu}, {rcId: {153097}}
 
 [sequence]
 v1,v2,v3,v4,v5

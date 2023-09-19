@@ -1,5 +1,5 @@
 [title]
-Nimeni nu e ca el {author: {Anonim}, {rcId: {153270}}
+Nimeni nu e ca el {composer: {Anonim}, {rcId: {153270}}
 
 [sequence]
 v1,c,v2,c,e

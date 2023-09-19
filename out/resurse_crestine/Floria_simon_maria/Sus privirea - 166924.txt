@@ -1,5 +1,5 @@
 [title]
-Sus privirea {author: {Floria Simon Maria}, {rcId: {166924}}
+Sus privirea {composer: {Floria Simon Maria}, {rcId: {166924}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-O isuse esti cu mine {author: {Coca Saroni}, {rcId: {83763}}
+O isuse esti cu mine {composer: {Coca Saroni}, {rcId: {83763}}
 
 [sequence]
 v1,c,v2,c,v3,c

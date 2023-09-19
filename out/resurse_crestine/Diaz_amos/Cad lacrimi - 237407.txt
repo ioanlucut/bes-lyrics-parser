@@ -1,5 +1,5 @@
 [title]
-Cad lacrimi {author: {Diaz Amos}, {rcId: {237407}}
+Cad lacrimi {composer: {Diaz Amos}, {rcId: {237407}}
 
 [sequence]
 v1,v2,v3,v4

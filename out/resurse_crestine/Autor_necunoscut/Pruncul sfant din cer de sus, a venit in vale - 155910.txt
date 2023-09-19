@@ -1,5 +1,5 @@
 [title]
-Pruncul sfant din cer de sus a venit in vale {author: {Anonim}, {rcId: {155910}}
+Pruncul sfant din cer de sus a venit in vale {composer: {Anonim}, {rcId: {155910}}
 
 [sequence]
 v1,c,v2,c,v3,c2

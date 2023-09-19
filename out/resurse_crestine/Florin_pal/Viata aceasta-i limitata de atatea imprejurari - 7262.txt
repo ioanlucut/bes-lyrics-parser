@@ -1,5 +1,5 @@
 [title]
-Viata aceasta-i limitata de atatea imprejurari {author: {Florin Pal}, {rcId: {7262}}
+Viata aceasta-i limitata de atatea imprejurari {composer: {Florin Pal}, {rcId: {7262}}
 
 [sequence]
 v1,v2,v3,v4

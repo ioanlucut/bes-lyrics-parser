@@ -1,5 +1,5 @@
 [title]
-Traim anotimpul iubirii {author: {Nicolae Moldoveanu}, {rcId: {200691}}
+Traim anotimpul iubirii {composer: {Nicolae Moldoveanu}, {rcId: {200691}}
 
 [sequence]
 v1,v2,v3,v4

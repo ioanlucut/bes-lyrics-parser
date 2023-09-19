@@ -1,5 +1,5 @@
 [title]
-La o clipeala {author: {Puiu Chibici}, {rcId: {145658}}
+La o clipeala {composer: {Puiu Chibici}, {rcId: {145658}}
 
 [sequence]
 v1,v2,v3,v4,v5

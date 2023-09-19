@@ -1,5 +1,5 @@
 [title]
-Zacheu era om mititel {author: {Anonim}, {rcId: {78735}}
+Zacheu era om mititel {composer: {Anonim}, {rcId: {78735}}
 
 [sequence]
 v1,v2,v3

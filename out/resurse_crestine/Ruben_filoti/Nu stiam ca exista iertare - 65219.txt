@@ -1,5 +1,5 @@
 [title]
-Nu stiam ca exista iertare {author: {Ruben Filoti}, {rcId: {65219}}
+Nu stiam ca exista iertare {composer: {Ruben Filoti}, {rcId: {65219}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c2,v5,c3

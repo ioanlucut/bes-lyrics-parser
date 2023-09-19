@@ -1,5 +1,5 @@
 [title]
-M-ai regasit {author: {Mircea Căpușan}, {rcId: {62451}}
+M-ai regasit {composer: {Mircea Căpușan}, {rcId: {62451}}
 
 [sequence]
 v1,c,v2,c,v3,c

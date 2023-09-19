@@ -1,5 +1,5 @@
 [title]
-Isus iubit noi te adoram {author: {Laurie Klein}, {rcId: {93323}}
+Isus iubit noi te adoram {composer: {Laurie Klein}, {rcId: {93323}}
 
 [sequence]
 v1

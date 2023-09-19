@@ -1,5 +1,5 @@
 [title]
-Te-am simtit alaturi cand valul era greu {author: {Anonim}, {rcId: {95793}}
+Te-am simtit alaturi cand valul era greu {composer: {Anonim}, {rcId: {95793}}
 
 [sequence]
 v1,c,v2,c,v3,c

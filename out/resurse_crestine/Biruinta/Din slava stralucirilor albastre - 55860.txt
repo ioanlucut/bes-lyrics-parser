@@ -1,5 +1,5 @@
 [title]
-Din slava stralucirilor albastre {author: {Biruința}, {rcId: {55860}}
+Din slava stralucirilor albastre {composer: {Biruința}, {rcId: {55860}}
 
 [sequence]
 v1,c,v2,c,v3,c

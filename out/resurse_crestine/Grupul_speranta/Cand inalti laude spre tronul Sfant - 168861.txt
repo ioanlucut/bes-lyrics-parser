@@ -1,5 +1,5 @@
 [title]
-Cand inalti laude spre tronul sfant {author: {Grupul Speranta}, {rcId: {168861}}
+Cand inalti laude spre tronul sfant {composer: {Grupul Speranta}, {rcId: {168861}}
 
 [sequence]
 v1,c,v1,c,s,c

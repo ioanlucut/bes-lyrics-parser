@@ -1,5 +1,5 @@
 [title]
-Mica capela (the little chapel in the vale) {author: {Albert E. Brumley, Traducere RO}, {rcId: {136302}}
+Mica capela (the little chapel in the vale) {composer: {Albert E. Brumley, Traducere RO}, {rcId: {136302}}
 
 [sequence]
 v1,c,v2,c,v3,c,s,c

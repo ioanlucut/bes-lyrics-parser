@@ -1,5 +1,5 @@
 [title]
-Veniti sa vestim {author: {Marius Pop, Naomi Borota}, {rcId: {157002}}
+Veniti sa vestim {composer: {Marius Pop, Naomi Borota}, {rcId: {157002}}
 
 [sequence]
 v1,c,e

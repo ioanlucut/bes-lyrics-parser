@@ -1,5 +1,5 @@
 [title]
-Atunci cand obosim pe cale {author: {Ioan Hapca}, {rcId: {96612}}
+Atunci cand obosim pe cale {composer: {Ioan Hapca}, {rcId: {96612}}
 
 [sequence]
 v1,c2,v2,c2,v3,c2

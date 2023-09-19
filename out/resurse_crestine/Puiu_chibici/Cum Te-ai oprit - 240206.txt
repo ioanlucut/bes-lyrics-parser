@@ -1,5 +1,5 @@
 [title]
-Cum te-ai oprit {author: {Puiu Chibici}, {rcId: {240206}}
+Cum te-ai oprit {composer: {Puiu Chibici}, {rcId: {240206}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Mi-e asa de dor de tine isuse dumnezeu - harfa bosanci {author: {Anonim}, {rcId: {230107}}
+Mi-e asa de dor de tine isuse dumnezeu - harfa bosanci {composer: {Anonim}, {rcId: {230107}}
 
 [sequence]
 v1,v2,v3,v4,v5

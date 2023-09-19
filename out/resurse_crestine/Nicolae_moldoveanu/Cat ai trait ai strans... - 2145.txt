@@ -1,5 +1,5 @@
 [title]
-Cat ai trait ai strans {author: {Nicolae Moldoveanu}, {rcId: {2145}}
+Cat ai trait ai strans {composer: {Nicolae Moldoveanu}, {rcId: {2145}}
 
 [sequence]
 v1,v2,v3,v4,v5

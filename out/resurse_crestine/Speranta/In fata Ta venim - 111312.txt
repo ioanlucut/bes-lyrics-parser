@@ -1,5 +1,5 @@
 [title]
-In fata ta venim {author: {Speranța}, {rcId: {111312}}
+In fata ta venim {composer: {Speranța}, {rcId: {111312}}
 
 [sequence]
 v1,v2,v3

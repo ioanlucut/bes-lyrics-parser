@@ -1,5 +1,5 @@
 [title]
-Cand grijurile vin {author: {Alexandru Groza}, {rcId: {87949}}
+Cand grijurile vin {composer: {Alexandru Groza}, {rcId: {87949}}
 
 [sequence]
 v1,v2,e

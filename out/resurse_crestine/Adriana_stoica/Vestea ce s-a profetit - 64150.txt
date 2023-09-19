@@ -1,5 +1,5 @@
 [title]
-Vestea ce s-a profetit {author: {Adriana Stoica}, {rcId: {64150}}
+Vestea ce s-a profetit {composer: {Adriana Stoica}, {rcId: {64150}}
 
 [sequence]
 v1,c,v2,c,v3,c

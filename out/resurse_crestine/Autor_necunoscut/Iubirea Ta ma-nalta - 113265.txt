@@ -1,5 +1,5 @@
 [title]
-Iubirea ta ma-nalta {author: {Anonim}, {rcId: {113265}}
+Iubirea ta ma-nalta {composer: {Anonim}, {rcId: {113265}}
 
 [sequence]
 v1,c,v2,c

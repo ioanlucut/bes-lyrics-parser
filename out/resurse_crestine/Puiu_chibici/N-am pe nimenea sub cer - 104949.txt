@@ -1,5 +1,5 @@
 [title]
-N-am pe nimenea sub cer {author: {Puiu Chibici}, {rcId: {104949}}
+N-am pe nimenea sub cer {composer: {Puiu Chibici}, {rcId: {104949}}
 
 [sequence]
 v1,v2,v3

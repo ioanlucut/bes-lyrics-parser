@@ -1,5 +1,5 @@
 [title]
-Fericirea mult dorita domnul o da intr-o clipa {author: {Alexandru Groza}, {rcId: {185752}}
+Fericirea mult dorita domnul o da intr-o clipa {composer: {Alexandru Groza}, {rcId: {185752}}
 
 [sequence]
 v1,c,c,v2,c

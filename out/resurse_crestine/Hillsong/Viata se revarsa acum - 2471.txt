@@ -1,5 +1,5 @@
 [title]
-Viata se revarsa acum {author: {Hillsong, Traducere RO}, {rcId: {2471}}
+Viata se revarsa acum {composer: {Hillsong, Traducere RO}, {rcId: {2471}}
 
 [sequence]
 v1,c,v2,b,c

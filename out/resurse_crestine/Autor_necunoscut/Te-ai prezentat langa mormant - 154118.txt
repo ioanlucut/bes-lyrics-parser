@@ -1,5 +1,5 @@
 [title]
-Te-ai prezentat langa mormant {author: {Anonim}, {rcId: {154118}}
+Te-ai prezentat langa mormant {composer: {Anonim}, {rcId: {154118}}
 
 [sequence]
 v1,c,s,c,v2,c,s2,c,v3,c2,s3,c2

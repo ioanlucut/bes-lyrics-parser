@@ -1,5 +1,5 @@
 [title]
-Adevar o frumos adevar {author: {Nicolae Moldoveanu}, {rcId: {186416}}
+Adevar o frumos adevar {composer: {Nicolae Moldoveanu}, {rcId: {186416}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

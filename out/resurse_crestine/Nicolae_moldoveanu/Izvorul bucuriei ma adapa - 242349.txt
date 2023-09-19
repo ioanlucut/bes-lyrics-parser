@@ -1,5 +1,5 @@
 [title]
-Izvorul bucuriei ma adapa {author: {Nicolae Moldoveanu}, {rcId: {242349}}
+Izvorul bucuriei ma adapa {composer: {Nicolae Moldoveanu}, {rcId: {242349}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

@@ -1,5 +1,5 @@
 [title]
-De ce te temi? {author: {Narcisa P.}, {rcId: {75185}}
+De ce te temi? {composer: {Narcisa P.}, {rcId: {75185}}
 
 [sequence]
 v1,v2

@@ -1,5 +1,5 @@
 [title]
-Se cuvine sa te laude omenirea {author: {Speranța}, {rcId: {106182}}
+Se cuvine sa te laude omenirea {composer: {Speranța}, {rcId: {106182}}
 
 [sequence]
 v1,c,v2,c,v3,c

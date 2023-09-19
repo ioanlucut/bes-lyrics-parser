@@ -1,5 +1,5 @@
 [title]
-Ridica-ti ochii catre cer {author: {Born again}, {rcId: {4149}}
+Ridica-ti ochii catre cer {composer: {Born again}, {rcId: {4149}}
 
 [sequence]
 v1,c,v2,c

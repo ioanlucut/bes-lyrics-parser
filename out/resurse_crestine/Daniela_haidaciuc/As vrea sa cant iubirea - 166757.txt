@@ -1,5 +1,5 @@
 [title]
-As vrea sa cant iubirea {author: {Daniela Haidaciuc}, {rcId: {166757}}
+As vrea sa cant iubirea {composer: {Daniela Haidaciuc}, {rcId: {166757}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

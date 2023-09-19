@@ -1,5 +1,5 @@
 [title]
-Porumbita de pe stanca {author: {Anonim}, {rcId: {199124}}
+Porumbita de pe stanca {composer: {Anonim}, {rcId: {199124}}
 
 [sequence]
 v1,v2,v3,v4

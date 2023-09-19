@@ -1,5 +1,5 @@
 [title]
-Fiul risipitor {author: {Gabi Ilut}, {rcId: {7229}}
+Fiul risipitor {composer: {Gabi Ilut}, {rcId: {7229}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Venim in a ta prezenta {author: {Grupul Omega}, {rcId: {6798}}
+Venim in a ta prezenta {composer: {Grupul Omega}, {rcId: {6798}}
 
 [sequence]
 v1,c

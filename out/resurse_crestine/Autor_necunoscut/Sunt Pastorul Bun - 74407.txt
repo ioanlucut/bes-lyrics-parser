@@ -1,5 +1,5 @@
 [title]
-Sunt pastorul bun {author: {Anonim}, {rcId: {74407}}
+Sunt pastorul bun {composer: {Anonim}, {rcId: {74407}}
 
 [sequence]
 v1,v2

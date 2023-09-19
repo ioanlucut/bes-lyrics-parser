@@ -1,5 +1,5 @@
 [title]
-Cu isus cat traiesc stiu ca bine-mi va fi {author: {Anonim}, {rcId: {74317}}
+Cu isus cat traiesc stiu ca bine-mi va fi {composer: {Anonim}, {rcId: {74317}}
 
 [sequence]
 v1,c,v2,c

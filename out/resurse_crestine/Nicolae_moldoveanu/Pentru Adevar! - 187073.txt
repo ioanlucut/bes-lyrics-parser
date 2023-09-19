@@ -1,5 +1,5 @@
 [title]
-Pentru adevar {author: {Nicolae Moldoveanu}, {rcId: {187073}}
+Pentru adevar {composer: {Nicolae Moldoveanu}, {rcId: {187073}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8,v9,v10

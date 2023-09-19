@@ -1,5 +1,5 @@
 [title]
-Tu ai fost locul de-adapost {author: {Beni Cibu}, {rcId: {172538}}
+Tu ai fost locul de-adapost {composer: {Beni Cibu}, {rcId: {172538}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

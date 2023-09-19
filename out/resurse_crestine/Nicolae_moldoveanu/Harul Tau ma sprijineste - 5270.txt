@@ -1,5 +1,5 @@
 [title]
-Harul tau ma sprijineste {author: {Nicolae Moldoveanu}, {rcId: {5270}}
+Harul tau ma sprijineste {composer: {Nicolae Moldoveanu}, {rcId: {5270}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Astept nvierea (nu mai tin la viata aceasta) {author: {Ovidiu Liteanu}, {rcId: {183374}}
+Astept nvierea (nu mai tin la viata aceasta) {composer: {Ovidiu Liteanu}, {rcId: {183374}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

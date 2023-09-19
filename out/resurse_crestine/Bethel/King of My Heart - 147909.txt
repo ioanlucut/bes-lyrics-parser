@@ -1,5 +1,5 @@
 [title]
-King of my heart {author: {Bethel, Traducere RO}, {rcId: {147909}}
+King of my heart {composer: {Bethel, Traducere RO}, {rcId: {147909}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c,c

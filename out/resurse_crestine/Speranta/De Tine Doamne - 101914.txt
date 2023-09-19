@@ -1,5 +1,5 @@
 [title]
-De tine doamne {author: {Speranța}, {rcId: {101914}}
+De tine doamne {composer: {Speranța}, {rcId: {101914}}
 
 [sequence]
 v1,c

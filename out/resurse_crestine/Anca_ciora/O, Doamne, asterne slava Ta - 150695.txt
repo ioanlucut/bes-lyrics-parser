@@ -1,5 +1,5 @@
 [title]
-O doamne asterne slava ta {author: {Anca Ciora}, {rcId: {150695}}
+O doamne asterne slava ta {composer: {Anca Ciora}, {rcId: {150695}}
 
 [sequence]
 v1,c,v2,c2

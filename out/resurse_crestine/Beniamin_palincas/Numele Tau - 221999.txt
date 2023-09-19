@@ -1,5 +1,5 @@
 [title]
-Numele tau {author: {Beniamin Palincaș}, {rcId: {221999}}
+Numele tau {composer: {Beniamin Palincaș}, {rcId: {221999}}
 
 [sequence]
 v1,v2,b,c,e

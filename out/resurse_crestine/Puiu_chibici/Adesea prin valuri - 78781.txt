@@ -1,5 +1,5 @@
 [title]
-Adesea prin valuri {author: {Puiu Chibici}, {rcId: {78781}}
+Adesea prin valuri {composer: {Puiu Chibici}, {rcId: {78781}}
 
 [sequence]
 v1,c,v2,c,v3,c

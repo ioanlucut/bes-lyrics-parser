@@ -1,5 +1,5 @@
 [title]
-Nu-i drumul catre cer mereu usor {author: {Andreea Siminiuc}, {rcId: {190803}}
+Nu-i drumul catre cer mereu usor {composer: {Andreea Siminiuc}, {rcId: {190803}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

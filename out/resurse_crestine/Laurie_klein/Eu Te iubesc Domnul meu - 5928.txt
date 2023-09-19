@@ -1,5 +1,5 @@
 [title]
-Eu te iubesc domnul meu {author: {Laurie Klein}, {rcId: {5928}}
+Eu te iubesc domnul meu {composer: {Laurie Klein}, {rcId: {5928}}
 
 [sequence]
 v1,v2

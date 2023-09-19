@@ -1,5 +1,5 @@
 [title]
-Iaire nu te teme {author: {Daniel Neagu, Denys Laurenciuc}, {rcId: {186001}}
+Iaire nu te teme {composer: {Daniel Neagu, Denys Laurenciuc}, {rcId: {186001}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

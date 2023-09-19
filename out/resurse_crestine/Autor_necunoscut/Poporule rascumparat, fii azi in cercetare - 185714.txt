@@ -1,5 +1,5 @@
 [title]
-Poporule rascumparat fii azi in cercetare {author: {Necunoscut.}, {rcId: {185714}}
+Poporule rascumparat fii azi in cercetare {composer: {Necunoscut.}, {rcId: {185714}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Mire drag isuse sfant {author: {Anonim}, {rcId: {196732}}
+Mire drag isuse sfant {composer: {Anonim}, {rcId: {196732}}
 
 [sequence]
 v1,v2,v3,e

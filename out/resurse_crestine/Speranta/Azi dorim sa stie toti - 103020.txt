@@ -1,5 +1,5 @@
 [title]
-Azi dorim sa stie toti {author: {Speranța}, {rcId: {103020}}
+Azi dorim sa stie toti {composer: {Speranța}, {rcId: {103020}}
 
 [sequence]
 v1,c,v2,c,v3,c

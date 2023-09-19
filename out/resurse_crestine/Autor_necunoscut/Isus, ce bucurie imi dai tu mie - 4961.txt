@@ -1,5 +1,5 @@
 [title]
-Isus ce bucurie imi dai tu mie {author: {Anonim}, {rcId: {4961}}
+Isus ce bucurie imi dai tu mie {composer: {Anonim}, {rcId: {4961}}
 
 [sequence]
 v1,v2

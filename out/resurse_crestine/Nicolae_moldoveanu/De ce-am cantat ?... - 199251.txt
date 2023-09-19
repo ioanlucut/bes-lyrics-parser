@@ -1,5 +1,5 @@
 [title]
-De ce-am cantat ? {author: {Nicolae Moldoveanu}, {rcId: {199251}}
+De ce-am cantat ? {composer: {Nicolae Moldoveanu}, {rcId: {199251}}
 
 [sequence]
 v1,v2,v3,v4

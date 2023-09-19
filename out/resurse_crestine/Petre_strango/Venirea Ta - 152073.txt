@@ -1,5 +1,5 @@
 [title]
-Venirea ta {author: {Petre Strango}, {rcId: {152073}}
+Venirea ta {composer: {Petre Strango}, {rcId: {152073}}
 
 [sequence]
 v1,c

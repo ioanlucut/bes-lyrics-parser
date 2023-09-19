@@ -1,5 +1,5 @@
 [title]
-O vino doamne noi te asteptam (privesc in jurul meu si ma intreb / de ce e atata nelegiuire) {author: {Anonim}, {rcId: {215437}}
+O vino doamne noi te asteptam (privesc in jurul meu si ma intreb / de ce e atata nelegiuire) {composer: {Anonim}, {rcId: {215437}}
 
 [sequence]
 v1,c,v2,c,v3,c

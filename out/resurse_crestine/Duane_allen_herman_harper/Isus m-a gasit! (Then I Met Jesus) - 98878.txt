@@ -1,5 +1,5 @@
 [title]
-Isus m-a gasit (then i met jesus) {author: {Duane Allen, Herman Harper, Traducere RO}, {rcId: {98878}}
+Isus m-a gasit (then i met jesus) {composer: {Duane Allen, Herman Harper, Traducere RO}, {rcId: {98878}}
 
 [sequence]
 v1,c,v2,c2,s,c2

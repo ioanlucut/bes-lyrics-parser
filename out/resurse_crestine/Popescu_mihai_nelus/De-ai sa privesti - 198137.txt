@@ -1,5 +1,5 @@
 [title]
-De-ai sa privesti {author: {Popescu Mihai Neluș}, {rcId: {198137}}
+De-ai sa privesti {composer: {Popescu Mihai Neluș}, {rcId: {198137}}
 
 [sequence]
 v1,c,v2,c

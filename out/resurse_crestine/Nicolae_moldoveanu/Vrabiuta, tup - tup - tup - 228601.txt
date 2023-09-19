@@ -1,5 +1,5 @@
 [title]
-Vrabiuta tup - tup - tup {author: {Nicolae Moldoveanu}, {rcId: {228601}}
+Vrabiuta tup - tup - tup {composer: {Nicolae Moldoveanu}, {rcId: {228601}}
 
 [sequence]
 v1,v2,v3

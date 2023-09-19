@@ -1,5 +1,5 @@
 [title]
-Trece isus trece iar ca odata in sihar {author: {Anonim}, {rcId: {4190}}
+Trece isus trece iar ca odata in sihar {composer: {Anonim}, {rcId: {4190}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Cantati marire-n cor {author: {Anonim}, {rcId: {122487}}
+Cantati marire-n cor {composer: {Anonim}, {rcId: {122487}}
 
 [sequence]
 v1,v2,v3

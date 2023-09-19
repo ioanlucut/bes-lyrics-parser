@@ -1,5 +1,5 @@
 [title]
-Isus iti dau inima {author: {Anonim}, {rcId: {55606}}
+Isus iti dau inima {composer: {Anonim}, {rcId: {55606}}
 
 [sequence]
 v1,c,v2,c,v3,c

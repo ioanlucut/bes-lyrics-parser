@@ -1,5 +1,5 @@
 [title]
-Ma voi bucura {author: {Dincolo De Ziduri}, {rcId: {171965}}
+Ma voi bucura {composer: {Dincolo De Ziduri}, {rcId: {171965}}
 
 [sequence]
 v1,v2,c,c2,c2

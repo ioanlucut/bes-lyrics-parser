@@ -1,5 +1,5 @@
 [title]
-Daca duhul domnului e asupra mea {author: {Anonim}, {rcId: {4878}}
+Daca duhul domnului e asupra mea {composer: {Anonim}, {rcId: {4878}}
 
 [sequence]
 v1,v2,v3,v4

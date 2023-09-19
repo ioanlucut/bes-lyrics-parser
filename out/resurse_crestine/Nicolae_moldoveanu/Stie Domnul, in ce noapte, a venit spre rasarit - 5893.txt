@@ -1,5 +1,5 @@
 [title]
-Stie domnul in ce noapte a venit spre rasarit {author: {Nicolae Moldoveanu}, {rcId: {5893}}
+Stie domnul in ce noapte a venit spre rasarit {composer: {Nicolae Moldoveanu}, {rcId: {5893}}
 
 [sequence]
 v1,v2,v3,v4,v5

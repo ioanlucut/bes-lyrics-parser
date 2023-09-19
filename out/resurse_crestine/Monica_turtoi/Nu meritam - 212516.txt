@@ -1,5 +1,5 @@
 [title]
-Nu meritam {author: {Monica Turtoi}, {rcId: {212516}}
+Nu meritam {composer: {Monica Turtoi}, {rcId: {212516}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Las sa zica cine vrea {author: {Anonim}, {rcId: {106152}}
+Las sa zica cine vrea {composer: {Anonim}, {rcId: {106152}}
 
 [sequence]
 v1,v2,v3,v4,v5

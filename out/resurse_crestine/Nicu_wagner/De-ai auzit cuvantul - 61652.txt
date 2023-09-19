@@ -1,5 +1,5 @@
 [title]
-De-ai auzit cuvantul {author: {Nicu Wagner}, {rcId: {61652}}
+De-ai auzit cuvantul {composer: {Nicu Wagner}, {rcId: {61652}}
 
 [sequence]
 v1,v2,v3,v4,v5

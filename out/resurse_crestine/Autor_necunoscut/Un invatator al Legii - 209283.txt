@@ -1,5 +1,5 @@
 [title]
-Un invatator al legii {author: {Anonim}, {rcId: {209283}}
+Un invatator al legii {composer: {Anonim}, {rcId: {209283}}
 
 [sequence]
 v1,c,v2,c,v3,c

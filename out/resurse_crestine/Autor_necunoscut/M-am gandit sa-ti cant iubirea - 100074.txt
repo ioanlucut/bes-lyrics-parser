@@ -1,5 +1,5 @@
 [title]
-M-am gandit sa-ti cant iubirea {author: {Anonim}, {rcId: {100074}}
+M-am gandit sa-ti cant iubirea {composer: {Anonim}, {rcId: {100074}}
 
 [sequence]
 v1,c,v2,c,v3,c

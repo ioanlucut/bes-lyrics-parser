@@ -1,5 +1,5 @@
 [title]
-Sion {author: {Aaron Shust Traducere, RO}, {rcId: {194378}}
+Sion {composer: {Aaron Shust Traducere, RO}, {rcId: {194378}}
 
 [sequence]
 v1,c,v2,c,v3,c,c

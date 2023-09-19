@@ -1,5 +1,5 @@
 [title]
-Ce bine ma simt {author: {Costache Ioanid}, {rcId: {4585}}
+Ce bine ma simt {composer: {Costache Ioanid}, {rcId: {4585}}
 
 [sequence]
 v1,v2,v3,v4

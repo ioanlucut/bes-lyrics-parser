@@ -1,5 +1,5 @@
 [title]
-O flacara aprinsa {author: {Darius, Dennis}, {rcId: {167072}}
+O flacara aprinsa {composer: {Darius, Dennis}, {rcId: {167072}}
 
 [sequence]
 v1,c,v2,c,c

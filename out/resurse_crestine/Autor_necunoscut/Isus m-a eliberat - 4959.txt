@@ -1,5 +1,5 @@
 [title]
-Isus m-a eliberat {author: {Anonim}, {rcId: {4959}}
+Isus m-a eliberat {composer: {Anonim}, {rcId: {4959}}
 
 [sequence]
 v1,c,e

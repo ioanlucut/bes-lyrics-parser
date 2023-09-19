@@ -1,5 +1,5 @@
 [title]
-Domnul meu din cer vegheaza {author: {Alexandru Groza}, {rcId: {193658}}
+Domnul meu din cer vegheaza {composer: {Alexandru Groza}, {rcId: {193658}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Tu mi-ai dat isus iertare {author: {Daniel Hartie}, {rcId: {190178}}
+Tu mi-ai dat isus iertare {composer: {Daniel Hartie}, {rcId: {190178}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

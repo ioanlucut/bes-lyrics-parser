@@ -1,5 +1,5 @@
 [title]
-Fii cu mine acum {author: {Vasile Oprea}, {rcId: {61191}}
+Fii cu mine acum {composer: {Vasile Oprea}, {rcId: {61191}}
 
 [sequence]
 v1,c,e

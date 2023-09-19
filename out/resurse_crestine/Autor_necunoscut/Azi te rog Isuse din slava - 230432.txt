@@ -1,5 +1,5 @@
 [title]
-Azi te rog isuse din slava {author: {Autor necunoscut.}, {rcId: {230432}}
+Azi te rog isuse din slava {composer: {Autor necunoscut.}, {rcId: {230432}}
 
 [sequence]
 v1,c,v2,c,v3,c

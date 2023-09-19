@@ -1,5 +1,5 @@
 [title]
-Te caut {author: {Anonim}, {rcId: {190939}}
+Te caut {composer: {Anonim}, {rcId: {190939}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

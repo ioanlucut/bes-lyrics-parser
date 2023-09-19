@@ -1,5 +1,5 @@
 [title]
-Doamne cel ce ma stapanesti {author: {Anonim}, {rcId: {59195}}
+Doamne cel ce ma stapanesti {composer: {Anonim}, {rcId: {59195}}
 
 [sequence]
 v1,c,v2,c

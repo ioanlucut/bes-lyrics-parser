@@ -1,5 +1,5 @@
 [title]
-Am auzit strigand un glas de tata {author: {Anonim}, {rcId: {222973}}
+Am auzit strigand un glas de tata {composer: {Anonim}, {rcId: {222973}}
 
 [sequence]
 v1,v2,v3,v4

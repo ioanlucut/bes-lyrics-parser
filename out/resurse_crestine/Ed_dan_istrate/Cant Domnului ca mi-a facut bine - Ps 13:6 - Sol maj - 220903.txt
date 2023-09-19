@@ -1,5 +1,5 @@
 [title]
-Cant domnului ca mi-a facut bine - ps : - sol maj {author: {ed. Dan Istrate}, {rcId: {220903}}
+Cant domnului ca mi-a facut bine - ps : - sol maj {composer: {ed. Dan Istrate}, {rcId: {220903}}
 
 [sequence]
 v1,c,v2,c,v3,c

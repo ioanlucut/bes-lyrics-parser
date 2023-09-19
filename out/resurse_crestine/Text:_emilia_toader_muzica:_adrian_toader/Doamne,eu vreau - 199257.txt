@@ -1,5 +1,5 @@
 [title]
-Doamneeu vreau {author: {Text: Emilia Toader, Muzica: Adrian Toader}, {rcId: {199257}}
+Doamneeu vreau {composer: {Text: Emilia Toader, Muzica: Adrian Toader}, {rcId: {199257}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Tu-mi dai putere-n slabiciuni (you are my all in all) {author: {Anonim}, {rcId: {3842}}
+Tu-mi dai putere-n slabiciuni (you are my all in all) {composer: {Anonim}, {rcId: {3842}}
 
 [sequence]
 c,v1,c,v2,c

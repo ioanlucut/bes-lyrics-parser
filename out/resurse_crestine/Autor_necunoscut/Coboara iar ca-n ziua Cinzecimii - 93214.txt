@@ -1,5 +1,5 @@
 [title]
-Coboara iar ca-n ziua cinzecimii {author: {Anonim}, {rcId: {93214}}
+Coboara iar ca-n ziua cinzecimii {composer: {Anonim}, {rcId: {93214}}
 
 [sequence]
 v1,c,v2,c,v3,c

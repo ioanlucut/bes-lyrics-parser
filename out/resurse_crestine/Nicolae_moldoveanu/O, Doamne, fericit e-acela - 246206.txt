@@ -1,5 +1,5 @@
 [title]
-O doamne fericit e-acela {author: {Nicolae Moldoveanu}, {rcId: {246206}}
+O doamne fericit e-acela {composer: {Nicolae Moldoveanu}, {rcId: {246206}}
 
 [sequence]
 v1,v2,v3,v4,v5

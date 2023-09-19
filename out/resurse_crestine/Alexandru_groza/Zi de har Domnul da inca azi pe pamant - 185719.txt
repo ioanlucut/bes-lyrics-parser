@@ -1,5 +1,5 @@
 [title]
-Zi de har domnul da inca azi pe pamant {author: {Alexandru Groza}, {rcId: {185719}}
+Zi de har domnul da inca azi pe pamant {composer: {Alexandru Groza}, {rcId: {185719}}
 
 [sequence]
 v1,c,v2,c

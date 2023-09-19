@@ -1,5 +1,5 @@
 [title]
-Isus tu esti mare {author: {Anonim}, {rcId: {4971}}
+Isus tu esti mare {composer: {Anonim}, {rcId: {4971}}
 
 [sequence]
 v1,c,v2,c

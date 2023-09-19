@@ -1,5 +1,5 @@
 [title]
-E timpul ca orice popoare {author: {Anonim}, {rcId: {124846}}
+E timpul ca orice popoare {composer: {Anonim}, {rcId: {124846}}
 
 [sequence]
 v1,b,c,v2,b,c

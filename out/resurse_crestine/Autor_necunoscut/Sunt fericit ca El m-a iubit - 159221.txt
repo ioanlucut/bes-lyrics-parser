@@ -1,5 +1,5 @@
 [title]
-Sunt fericit ca el m-a iubit {author: {Anonim}, {rcId: {159221}}
+Sunt fericit ca el m-a iubit {composer: {Anonim}, {rcId: {159221}}
 
 [sequence]
 v1,v2,v3

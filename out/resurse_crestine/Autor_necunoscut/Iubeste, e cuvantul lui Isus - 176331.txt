@@ -1,5 +1,5 @@
 [title]
-Iubeste e cuvantul lui isus {author: {Anonim}, {rcId: {176331}}
+Iubeste e cuvantul lui isus {composer: {Anonim}, {rcId: {176331}}
 
 [sequence]
 v1,v2,v3,v4

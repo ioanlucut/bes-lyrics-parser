@@ -1,5 +1,5 @@
 [title]
-Gustati si vedeti {author: {Teofil, Ligia Palincas}, {rcId: {168844}}
+Gustati si vedeti {composer: {Teofil, Ligia Palincas}, {rcId: {168844}}
 
 [sequence]
 v1,c,v2,c

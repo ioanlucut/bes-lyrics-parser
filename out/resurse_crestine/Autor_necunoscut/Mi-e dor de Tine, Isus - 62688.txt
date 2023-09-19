@@ -1,5 +1,5 @@
 [title]
-Mi-e dor de tine isus {author: {Anonim}, {rcId: {62688}}
+Mi-e dor de tine isus {composer: {Anonim}, {rcId: {62688}}
 
 [sequence]
 v1,c

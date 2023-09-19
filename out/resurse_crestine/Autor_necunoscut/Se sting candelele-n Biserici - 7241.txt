@@ -1,5 +1,5 @@
 [title]
-Se sting candelele-n biserici {author: {Anonim}, {rcId: {7241}}
+Se sting candelele-n biserici {composer: {Anonim}, {rcId: {7241}}
 
 [sequence]
 v1,v2,v3,v4,v5

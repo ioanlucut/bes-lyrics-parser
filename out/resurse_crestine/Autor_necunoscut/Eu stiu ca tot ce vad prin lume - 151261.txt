@@ -1,5 +1,5 @@
 [title]
-Eu stiu ca tot ce vad prin lume {author: {Anonim}, {rcId: {151261}}
+Eu stiu ca tot ce vad prin lume {composer: {Anonim}, {rcId: {151261}}
 
 [sequence]
 v1,c,v2,c,v3,c

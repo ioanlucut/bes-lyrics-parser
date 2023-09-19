@@ -1,5 +1,5 @@
 [title]
-O felicitare de nunta am scris {author: {Alexandru Groza}, {rcId: {188479}}
+O felicitare de nunta am scris {composer: {Alexandru Groza}, {rcId: {188479}}
 
 [sequence]
 v1,c,v2,c,v3,c

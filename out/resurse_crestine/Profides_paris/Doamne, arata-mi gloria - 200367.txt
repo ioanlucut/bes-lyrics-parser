@@ -1,5 +1,5 @@
 [title]
-Doamne arata-mi gloria {author: {Profides Paris}, {rcId: {200367}}
+Doamne arata-mi gloria {composer: {Profides Paris}, {rcId: {200367}}
 
 [sequence]
 v1,b,c,e,c

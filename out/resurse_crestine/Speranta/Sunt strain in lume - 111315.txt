@@ -1,5 +1,5 @@
 [title]
-Sunt strain in lume {author: {Speranța}, {rcId: {111315}}
+Sunt strain in lume {composer: {Speranța}, {rcId: {111315}}
 
 [sequence]
 v1,c,v2,c

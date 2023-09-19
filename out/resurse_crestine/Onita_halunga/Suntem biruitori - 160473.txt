@@ -1,5 +1,5 @@
 [title]
-Suntem biruitori {author: {Oniță Halunga}, {rcId: {160473}}
+Suntem biruitori {composer: {Oniță Halunga}, {rcId: {160473}}
 
 [sequence]
 b,v1,c,v2,c,v3,c,b,c,c,

@@ -1,5 +1,5 @@
 [title]
-Jesus paid it all / totul ai platit {author: {Anonim}, {rcId: {66575}}
+Jesus paid it all / totul ai platit {composer: {Anonim}, {rcId: {66575}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c,c

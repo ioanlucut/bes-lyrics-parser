@@ -1,5 +1,5 @@
 [title]
-Vine domnul {author: {David Preuteasa}, {rcId: {195463}}
+Vine domnul {composer: {David Preuteasa}, {rcId: {195463}}
 
 [sequence]
 v1,c,v2,c

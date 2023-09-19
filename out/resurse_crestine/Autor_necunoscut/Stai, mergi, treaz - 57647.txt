@@ -1,5 +1,5 @@
 [title]
-Stai mergi treaz {author: {Anonim}, {rcId: {57647}}
+Stai mergi treaz {composer: {Anonim}, {rcId: {57647}}
 
 [sequence]
 v1,v2,v3

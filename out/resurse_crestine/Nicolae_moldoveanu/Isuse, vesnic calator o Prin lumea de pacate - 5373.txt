@@ -1,5 +1,5 @@
 [title]
-Isuse vesnic calator o prin lumea de pacate {author: {Nicolae Moldoveanu}, {rcId: {5373}}
+Isuse vesnic calator o prin lumea de pacate {composer: {Nicolae Moldoveanu}, {rcId: {5373}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8,v9,v10,v11,v12

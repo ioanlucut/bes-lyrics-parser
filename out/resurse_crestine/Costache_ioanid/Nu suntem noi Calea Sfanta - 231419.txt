@@ -1,5 +1,5 @@
 [title]
-Nu suntem noi calea sfanta {author: {Costache Ioanid}, {rcId: {231419}}
+Nu suntem noi calea sfanta {composer: {Costache Ioanid}, {rcId: {231419}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

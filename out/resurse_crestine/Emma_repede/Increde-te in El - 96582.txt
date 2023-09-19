@@ -1,5 +1,5 @@
 [title]
-Increde-te in el {author: {Emma Repede}, {rcId: {96582}}
+Increde-te in el {composer: {Emma Repede}, {rcId: {96582}}
 
 [sequence]
 v1,c,v3,c

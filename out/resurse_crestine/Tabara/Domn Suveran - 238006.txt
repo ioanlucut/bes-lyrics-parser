@@ -1,5 +1,5 @@
 [title]
-Domn suveran {author: {Tabara 477}, {rcId: {238006}}
+Domn suveran {composer: {Tabara 477}, {rcId: {238006}}
 
 [sequence]
 v1,v2,c,c,c,v3,c,v4,c,c,c,c,c,c,c,c,c,e

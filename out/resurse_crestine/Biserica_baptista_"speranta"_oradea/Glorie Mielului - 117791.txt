@@ -1,5 +1,5 @@
 [title]
-Glorie mielului {author: {Biserica Baptista ”Speranța” Oradea}, {rcId: {117791}}
+Glorie mielului {composer: {Biserica Baptista ”Speranța” Oradea}, {rcId: {117791}}
 
 [sequence]
 v1,b,c,e

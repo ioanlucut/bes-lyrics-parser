@@ -1,5 +1,5 @@
 [title]
-Intreg pamantul e in mana lui {author: {Anonim}, {rcId: {151389}}
+Intreg pamantul e in mana lui {composer: {Anonim}, {rcId: {151389}}
 
 [sequence]
 v1,v2,v3

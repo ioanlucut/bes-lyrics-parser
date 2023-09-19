@@ -1,5 +1,5 @@
 [title]
-Tu dar copilul meu {author: {Emima Toader}, {rcId: {240810}}
+Tu dar copilul meu {composer: {Emima Toader}, {rcId: {240810}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

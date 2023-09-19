@@ -1,5 +1,5 @@
 [title]
-Atata timp de-a lungul vremii {author: {Anonim}, {rcId: {176148}}
+Atata timp de-a lungul vremii {composer: {Anonim}, {rcId: {176148}}
 
 [sequence]
 v1,c,v2,c,v3,c

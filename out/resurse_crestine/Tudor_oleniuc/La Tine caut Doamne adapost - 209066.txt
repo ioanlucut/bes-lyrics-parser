@@ -1,5 +1,5 @@
 [title]
-La tine caut doamne adapost {author: {Tudor Oleniuc}, {rcId: {209066}}
+La tine caut doamne adapost {composer: {Tudor Oleniuc}, {rcId: {209066}}
 
 [sequence]
 v1,c,v2,c,v3,c

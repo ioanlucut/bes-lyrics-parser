@@ -1,5 +1,5 @@
 [title]
-O n-am cuvinte doamne sfinte {author: {Grupul Elim}, {rcId: {195360}}
+O n-am cuvinte doamne sfinte {composer: {Grupul Elim}, {rcId: {195360}}
 
 [sequence]
 v1,v2,v3,e

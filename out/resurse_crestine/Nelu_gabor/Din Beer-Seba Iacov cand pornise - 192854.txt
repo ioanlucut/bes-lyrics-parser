@@ -1,5 +1,5 @@
 [title]
-Din beer-seba iacov cand pornise {author: {Nelu gabor}, {rcId: {192854}}
+Din beer-seba iacov cand pornise {composer: {Nelu gabor}, {rcId: {192854}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c3

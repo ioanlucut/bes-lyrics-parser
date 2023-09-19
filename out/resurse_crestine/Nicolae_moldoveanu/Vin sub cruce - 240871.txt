@@ -1,5 +1,5 @@
 [title]
-Vin sub cruce {author: {Nicolae Moldoveanu}, {rcId: {240871}}
+Vin sub cruce {composer: {Nicolae Moldoveanu}, {rcId: {240871}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Isus s-a nascut {author: {Anonim}, {rcId: {3946}}
+Isus s-a nascut {composer: {Anonim}, {rcId: {3946}}
 
 [sequence]
 v1,c,v2,c

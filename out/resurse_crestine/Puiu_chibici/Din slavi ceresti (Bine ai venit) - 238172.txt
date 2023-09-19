@@ -1,5 +1,5 @@
 [title]
-Din slavi ceresti (bine ai venit) {author: {Puiu Chibici}, {rcId: {238172}}
+Din slavi ceresti (bine ai venit) {composer: {Puiu Chibici}, {rcId: {238172}}
 
 [sequence]
 v1,c,v2,c,v3,c

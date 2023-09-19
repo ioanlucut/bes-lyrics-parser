@@ -1,5 +1,5 @@
 [title]
-Ingenunchez {author: {Alin Timofte}, {rcId: {59811}}
+Ingenunchez {composer: {Alin Timofte}, {rcId: {59811}}
 
 [sequence]
 v1,b,c,v2,c

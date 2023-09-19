@@ -1,5 +1,5 @@
 [title]
-Domnul e iubirea {author: {Mirela Ursulescu}, {rcId: {176610}}
+Domnul e iubirea {composer: {Mirela Ursulescu}, {rcId: {176610}}
 
 [sequence]
 v1,c,v2,c,v3,c

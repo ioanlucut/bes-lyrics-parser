@@ -1,5 +1,5 @@
 [title]
-Tu nu pleci niciodata de la mine {author: {Anonim}, {rcId: {213600}}
+Tu nu pleci niciodata de la mine {composer: {Anonim}, {rcId: {213600}}
 
 [sequence]
 v1,v2,v3,v4

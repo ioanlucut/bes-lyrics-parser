@@ -1,5 +1,5 @@
 [title]
-Cor de ingeri canta {author: {Anonim}, {rcId: {1879}}
+Cor de ingeri canta {composer: {Anonim}, {rcId: {1879}}
 
 [sequence]
 v1,c,v2,c,v3,c

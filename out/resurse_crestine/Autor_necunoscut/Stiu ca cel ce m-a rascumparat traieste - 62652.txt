@@ -1,5 +1,5 @@
 [title]
-Stiu ca cel ce m-a rascumparat traieste {author: {Anonim}, {rcId: {62652}}
+Stiu ca cel ce m-a rascumparat traieste {composer: {Anonim}, {rcId: {62652}}
 
 [sequence]
 v1,c,c,v2,c

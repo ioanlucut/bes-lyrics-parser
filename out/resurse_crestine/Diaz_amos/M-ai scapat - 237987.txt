@@ -1,5 +1,5 @@
 [title]
-M-ai scapat {author: {Diaz Amos}, {rcId: {237987}}
+M-ai scapat {composer: {Diaz Amos}, {rcId: {237987}}
 
 [sequence]
 v1,c,v2,c

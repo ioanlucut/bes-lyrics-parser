@@ -1,5 +1,5 @@
 [title]
-Fermierul si domnul (the farmer and the lord) {author: {Jim Wilson, Traducere RO}, {rcId: {96557}}
+Fermierul si domnul (the farmer and the lord) {composer: {Jim Wilson, Traducere RO}, {rcId: {96557}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,s

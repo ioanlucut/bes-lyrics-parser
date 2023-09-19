@@ -1,5 +1,5 @@
 [title]
-Exista o vreme pentru toate {author: {Simon Boloca}, {rcId: {204745}}
+Exista o vreme pentru toate {composer: {Simon Boloca}, {rcId: {204745}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

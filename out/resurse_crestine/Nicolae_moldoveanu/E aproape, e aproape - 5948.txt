@@ -1,5 +1,5 @@
 [title]
-E aproape e aproape {author: {Nicolae Moldoveanu}, {rcId: {5948}}
+E aproape e aproape {composer: {Nicolae Moldoveanu}, {rcId: {5948}}
 
 [sequence]
 v1,v2,v3,v4,v5

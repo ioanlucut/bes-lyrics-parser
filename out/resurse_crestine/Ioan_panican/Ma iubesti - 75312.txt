@@ -1,5 +1,5 @@
 [title]
-Ma iubesti {author: {Ioan Panican}, {rcId: {75312}}
+Ma iubesti {composer: {Ioan Panican}, {rcId: {75312}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c

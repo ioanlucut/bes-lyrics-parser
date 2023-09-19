@@ -1,5 +1,5 @@
 [title]
-I do not belong to this world {author: {Iulia Contis}, {rcId: {246362}}
+I do not belong to this world {composer: {Iulia Contis}, {rcId: {246362}}
 
 [sequence]
 v1,c,v2,c

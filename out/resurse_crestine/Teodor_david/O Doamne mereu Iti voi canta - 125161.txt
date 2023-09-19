@@ -1,5 +1,5 @@
 [title]
-O doamne mereu iti voi canta {author: {Teodor David}, {rcId: {125161}}
+O doamne mereu iti voi canta {composer: {Teodor David}, {rcId: {125161}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

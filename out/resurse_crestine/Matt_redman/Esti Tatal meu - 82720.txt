@@ -1,5 +1,5 @@
 [title]
-Esti tatal meu {author: {Matt Redman}, {rcId: {82720}}
+Esti tatal meu {composer: {Matt Redman}, {rcId: {82720}}
 
 [sequence]
 v1,c,v2,c

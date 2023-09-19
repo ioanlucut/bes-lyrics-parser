@@ -1,5 +1,5 @@
 [title]
-Doamne stiu de-o revarsare {author: {William B.Bradbury}, {rcId: {3116}}
+Doamne stiu de-o revarsare {composer: {William B.Bradbury}, {rcId: {3116}}
 
 [sequence]
 v1,v2,v3,v4,v5

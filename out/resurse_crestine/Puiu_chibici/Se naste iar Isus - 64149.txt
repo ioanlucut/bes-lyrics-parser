@@ -1,5 +1,5 @@
 [title]
-Se naste iar isus {author: {Puiu Chibici}, {rcId: {64149}}
+Se naste iar isus {composer: {Puiu Chibici}, {rcId: {64149}}
 
 [sequence]
 v1,v2,v3,v4

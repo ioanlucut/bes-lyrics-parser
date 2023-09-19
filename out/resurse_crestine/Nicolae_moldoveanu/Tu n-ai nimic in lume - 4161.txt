@@ -1,5 +1,5 @@
 [title]
-Tu n-ai nimic in lume {author: {Nicolae Moldoveanu}, {rcId: {4161}}
+Tu n-ai nimic in lume {composer: {Nicolae Moldoveanu}, {rcId: {4161}}
 
 [sequence]
 v1,v2,v3,v4

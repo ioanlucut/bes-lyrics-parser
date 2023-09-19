@@ -1,5 +1,5 @@
 [title]
-Tare mi-ar placea sa fiu sfant {author: {Anonim}, {rcId: {74413}}
+Tare mi-ar placea sa fiu sfant {composer: {Anonim}, {rcId: {74413}}
 
 [sequence]
 v1,c,v2,c,v3,c

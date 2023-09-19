@@ -1,5 +1,5 @@
 [title]
-Pamantule curand devii amintire {author: {Anonim}, {rcId: {236695}}
+Pamantule curand devii amintire {composer: {Anonim}, {rcId: {236695}}
 
 [sequence]
 v1,c,v2,c,v3,c

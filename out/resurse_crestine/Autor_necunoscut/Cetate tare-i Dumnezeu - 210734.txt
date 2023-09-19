@@ -1,5 +1,5 @@
 [title]
-Cetate tare-i dumnezeu {author: {Anonim}, {rcId: {210734}}
+Cetate tare-i dumnezeu {composer: {Anonim}, {rcId: {210734}}
 
 [sequence]
 v1,v2,v3,v4

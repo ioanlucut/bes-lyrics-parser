@@ -1,5 +1,5 @@
 [title]
-Iata ce vorbeste domnul {author: {Puiu Chibici}, {rcId: {3587}}
+Iata ce vorbeste domnul {composer: {Puiu Chibici}, {rcId: {3587}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8

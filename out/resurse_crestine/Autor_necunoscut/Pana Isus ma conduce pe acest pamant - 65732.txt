@@ -1,5 +1,5 @@
 [title]
-Pana isus ma conduce pe acest pamant {author: {Anonim}, {rcId: {65732}}
+Pana isus ma conduce pe acest pamant {composer: {Anonim}, {rcId: {65732}}
 
 [sequence]
 v1,c,v2,c,v3,c

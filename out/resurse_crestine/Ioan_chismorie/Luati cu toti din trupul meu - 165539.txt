@@ -1,5 +1,5 @@
 [title]
-Luati cu toti din trupul meu {author: {Ioan Chismorie}, {rcId: {165539}}
+Luati cu toti din trupul meu {composer: {Ioan Chismorie}, {rcId: {165539}}
 
 [sequence]
 v1,v2,v3

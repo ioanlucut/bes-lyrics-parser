@@ -1,5 +1,5 @@
 [title]
-Ma predau azi {author: {BBSO adaptare după Matt Crocker}, {rcId: {157505}}
+Ma predau azi {composer: {BBSO adaptare după Matt Crocker}, {rcId: {157505}}
 
 [sequence]
 v1,v2,b,c,c

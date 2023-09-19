@@ -1,5 +1,5 @@
 [title]
-Fericit merg pe carare si sunt bucuros {author: {Nicolae Moldoveanu}, {rcId: {5939}}
+Fericit merg pe carare si sunt bucuros {composer: {Nicolae Moldoveanu}, {rcId: {5939}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

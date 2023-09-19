@@ -1,5 +1,5 @@
 [title]
-Stii deja {author: {Cătălin Ciuculescu Band}, {rcId: {157879}}
+Stii deja {composer: {Cătălin Ciuculescu Band}, {rcId: {157879}}
 
 [sequence]
 v1,c,v2,c,e

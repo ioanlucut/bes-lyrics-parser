@@ -1,5 +1,5 @@
 [title]
-Din noaptea grea {author: {Mariana Someșan}, {rcId: {169573}}
+Din noaptea grea {composer: {Mariana Someșan}, {rcId: {169573}}
 
 [sequence]
 v1,v2,v3,v4,v5

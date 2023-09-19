@@ -1,5 +1,5 @@
 [title]
-Suflete trezeste-te {author: {J.Rosenmuller}, {rcId: {1671}}
+Suflete trezeste-te {composer: {J.Rosenmuller}, {rcId: {1671}}
 
 [sequence]
 v1,v2,v3,v4

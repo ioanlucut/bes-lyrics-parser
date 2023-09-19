@@ -1,5 +1,5 @@
 [title]
-Mielul lui dumnezeu {author: {Razvan Trentea}, {rcId: {132326}}
+Mielul lui dumnezeu {composer: {Razvan Trentea}, {rcId: {132326}}
 
 [sequence]
 v1,b,c,v2,c

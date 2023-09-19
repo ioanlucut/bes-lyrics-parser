@@ -1,5 +1,5 @@
 [title]
-M-a ales domnul {author: {Alexandru Groza}, {rcId: {193471}}
+M-a ales domnul {composer: {Alexandru Groza}, {rcId: {193471}}
 
 [sequence]
 v1,c,v2,c

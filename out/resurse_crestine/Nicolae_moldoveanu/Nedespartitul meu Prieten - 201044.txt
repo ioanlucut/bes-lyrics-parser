@@ -1,5 +1,5 @@
 [title]
-Nedespartitul meu prieten {author: {Nicolae Moldoveanu}, {rcId: {201044}}
+Nedespartitul meu prieten {composer: {Nicolae Moldoveanu}, {rcId: {201044}}
 
 [sequence]
 v1,v2,v3,v4

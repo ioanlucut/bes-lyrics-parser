@@ -1,5 +1,5 @@
 [title]
-Ce frumos si dulce {author: {Nicolae Moldoveanu}, {rcId: {5717}}
+Ce frumos si dulce {composer: {Nicolae Moldoveanu}, {rcId: {5717}}
 
 [sequence]
 v1,v2,v3,v4

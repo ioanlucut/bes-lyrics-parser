@@ -1,5 +1,5 @@
 [title]
-Uniti in templul tau sfant {author: {Anonim}, {rcId: {163522}}
+Uniti in templul tau sfant {composer: {Anonim}, {rcId: {163522}}
 
 [sequence]
 v1,e,v2,v3

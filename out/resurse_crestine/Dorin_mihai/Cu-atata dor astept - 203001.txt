@@ -1,5 +1,5 @@
 [title]
-Cu-atata dor astept {author: {Dorin Mihai}, {rcId: {203001}}
+Cu-atata dor astept {composer: {Dorin Mihai}, {rcId: {203001}}
 
 [sequence]
 v1,c,v2,c,v3,c

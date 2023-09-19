@@ -1,5 +1,5 @@
 [title]
-Vreau sa iti spun o poveste de iubire {author: {Pop Marilena}, {rcId: {166928}}
+Vreau sa iti spun o poveste de iubire {composer: {Pop Marilena}, {rcId: {166928}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

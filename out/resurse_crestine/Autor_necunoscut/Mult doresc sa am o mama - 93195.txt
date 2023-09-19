@@ -1,5 +1,5 @@
 [title]
-Mult doresc sa am o mama {author: {Anonim}, {rcId: {93195}}
+Mult doresc sa am o mama {composer: {Anonim}, {rcId: {93195}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

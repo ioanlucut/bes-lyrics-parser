@@ -1,5 +1,5 @@
 [title]
-Primeste-ti mama fiul tau {author: {Anonim}, {rcId: {80363}}
+Primeste-ti mama fiul tau {composer: {Anonim}, {rcId: {80363}}
 
 [sequence]
 v1,v2,v3,v4

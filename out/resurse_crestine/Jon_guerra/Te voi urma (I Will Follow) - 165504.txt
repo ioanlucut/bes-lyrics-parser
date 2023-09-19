@@ -1,5 +1,5 @@
 [title]
-Te voi urma (i will follow) {author: {Jon Guerra, Traducere RO}, {rcId: {165504}}
+Te voi urma (i will follow) {composer: {Jon Guerra, Traducere RO}, {rcId: {165504}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c,v5,c,s,c

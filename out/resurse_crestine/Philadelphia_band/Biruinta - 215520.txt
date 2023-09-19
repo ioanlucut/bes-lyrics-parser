@@ -1,5 +1,5 @@
 [title]
-Biruinta {author: {Philadelphia Band}, {rcId: {215520}}
+Biruinta {composer: {Philadelphia Band}, {rcId: {215520}}
 
 [sequence]
 v1,b,c,v2,b,c,e,b,c

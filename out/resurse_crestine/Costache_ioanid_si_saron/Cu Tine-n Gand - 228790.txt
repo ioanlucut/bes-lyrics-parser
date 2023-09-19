@@ -1,5 +1,5 @@
 [title]
-Cu tine-n gand {author: {Costache Ioanid și Saron}, {rcId: {228790}}
+Cu tine-n gand {composer: {Costache Ioanid și Saron}, {rcId: {228790}}
 
 [sequence]
 v1,c,v2,c,v3,c2

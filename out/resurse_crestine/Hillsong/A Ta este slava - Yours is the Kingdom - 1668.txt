@@ -1,5 +1,5 @@
 [title]
-A ta este slava - yours is the kingdom {author: {Hillsong, Traducere RO}, {rcId: {1668}}
+A ta este slava - yours is the kingdom {composer: {Hillsong, Traducere RO}, {rcId: {1668}}
 
 [sequence]
 v1,b,c

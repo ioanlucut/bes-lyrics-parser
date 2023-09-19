@@ -1,5 +1,5 @@
 [title]
-Cu domnul meu merg in lumina (ik wandel in het licht met jezus) {author: {Margaretha Adriana Alt, Traducere RO}, {rcId: {246361}}
+Cu domnul meu merg in lumina (ik wandel in het licht met jezus) {composer: {Margaretha Adriana Alt, Traducere RO}, {rcId: {246361}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

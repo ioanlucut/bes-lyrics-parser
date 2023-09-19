@@ -1,5 +1,5 @@
 [title]
-O poporul meu iubit {author: {Leleu Niculae}, {rcId: {75577}}
+O poporul meu iubit {composer: {Leleu Niculae}, {rcId: {75577}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

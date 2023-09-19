@@ -1,5 +1,5 @@
 [title]
-Va bucurati {author: {Sola Scriptura}, {rcId: {101852}}
+Va bucurati {composer: {Sola Scriptura}, {rcId: {101852}}
 
 [sequence]
 c,v1,c,v2,c

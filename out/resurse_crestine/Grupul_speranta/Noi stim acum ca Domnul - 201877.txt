@@ -1,5 +1,5 @@
 [title]
-Noi stim acum ca domnul {author: {Grupul Speranta}, {rcId: {201877}}
+Noi stim acum ca domnul {composer: {Grupul Speranta}, {rcId: {201877}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

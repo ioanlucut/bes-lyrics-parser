@@ -1,5 +1,5 @@
 [title]
-Cand zorii-ti bat {author: {Nicolae Moldoveanu}, {rcId: {227478}}
+Cand zorii-ti bat {composer: {Nicolae Moldoveanu}, {rcId: {227478}}
 
 [sequence]
 v1,v2,v3,v4,v5

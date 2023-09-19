@@ -1,5 +1,5 @@
 [title]
-Un cuvant pentru toti azi rasuna {author: {Fratii Pal}, {rcId: {239127}}
+Un cuvant pentru toti azi rasuna {composer: {Fratii Pal}, {rcId: {239127}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

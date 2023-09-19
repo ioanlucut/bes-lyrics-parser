@@ -1,5 +1,5 @@
 [title]
-Iubirea lui nu-nsala {author: {Traian Neculai}, {rcId: {4569}}
+Iubirea lui nu-nsala {composer: {Traian Neculai}, {rcId: {4569}}
 
 [sequence]
 v1,v2,v3,v4

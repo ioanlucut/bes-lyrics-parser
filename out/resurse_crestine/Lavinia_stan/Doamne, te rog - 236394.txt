@@ -1,5 +1,5 @@
 [title]
-Doamne te rog {author: {Lavinia Stan}, {rcId: {236394}}
+Doamne te rog {composer: {Lavinia Stan}, {rcId: {236394}}
 
 [sequence]
 v1,c,v2,c

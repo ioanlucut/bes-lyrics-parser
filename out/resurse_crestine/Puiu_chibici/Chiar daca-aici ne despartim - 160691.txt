@@ -1,5 +1,5 @@
 [title]
-Chiar daca-aici ne despartim {author: {Puiu Chibici}, {rcId: {160691}}
+Chiar daca-aici ne despartim {composer: {Puiu Chibici}, {rcId: {160691}}
 
 [sequence]
 v1,c,v2,c,v3,c

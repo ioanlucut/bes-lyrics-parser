@@ -1,5 +1,5 @@
 [title]
-Jertfa ta {author: {Virginia}, {rcId: {7092}}
+Jertfa ta {composer: {Virginia}, {rcId: {7092}}
 
 [sequence]
 v1,c,v2,c,v3,c

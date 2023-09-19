@@ -1,5 +1,5 @@
 [title]
-In aceasta zi de sarbatoare {author: {Anonim}, {rcId: {188529}}
+In aceasta zi de sarbatoare {composer: {Anonim}, {rcId: {188529}}
 
 [sequence]
 v1,c,v2,c

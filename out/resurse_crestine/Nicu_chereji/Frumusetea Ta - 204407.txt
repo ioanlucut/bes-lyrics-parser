@@ -1,5 +1,5 @@
 [title]
-Frumusetea ta {author: {Nicu Chereji}, {rcId: {204407}}
+Frumusetea ta {composer: {Nicu Chereji}, {rcId: {204407}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-In tinutul galileea {author: {Puiu Chibici}, {rcId: {145657}}
+In tinutul galileea {composer: {Puiu Chibici}, {rcId: {145657}}
 
 [sequence]
 v1,v2,v3

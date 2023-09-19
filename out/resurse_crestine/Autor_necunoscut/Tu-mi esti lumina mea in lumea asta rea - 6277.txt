@@ -1,5 +1,5 @@
 [title]
-Tu-mi esti lumina mea in lumea asta rea {author: {Anonim}, {rcId: {6277}}
+Tu-mi esti lumina mea in lumea asta rea {composer: {Anonim}, {rcId: {6277}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

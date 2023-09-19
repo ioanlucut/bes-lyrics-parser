@@ -1,5 +1,5 @@
 [title]
-Exista un timp {author: {Exodul}, {rcId: {187860}}
+Exista un timp {composer: {Exodul}, {rcId: {187860}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Ai ratacit pe-ntunecate cai {author: {Anonim}, {rcId: {1578}}
+Ai ratacit pe-ntunecate cai {composer: {Anonim}, {rcId: {1578}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

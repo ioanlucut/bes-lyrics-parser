@@ -1,5 +1,5 @@
 [title]
-Purtat de val {author: {Daniel Olcean}, {rcId: {197092}}
+Purtat de val {composer: {Daniel Olcean}, {rcId: {197092}}
 
 [sequence]
 v1,c,v2,b,c

@@ -1,5 +1,5 @@
 [title]
-Copilas cu chip de soare {author: {Nicolae Moldoveanu}, {rcId: {246216}}
+Copilas cu chip de soare {composer: {Nicolae Moldoveanu}, {rcId: {246216}}
 
 [sequence]
 v1,v2,v3,v4

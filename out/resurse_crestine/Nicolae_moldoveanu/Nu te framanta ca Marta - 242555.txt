@@ -1,5 +1,5 @@
 [title]
-Nu te framanta ca marta {author: {Nicolae Moldoveanu}, {rcId: {242555}}
+Nu te framanta ca marta {composer: {Nicolae Moldoveanu}, {rcId: {242555}}
 
 [sequence]
 v1,v2,v3,v4,v5

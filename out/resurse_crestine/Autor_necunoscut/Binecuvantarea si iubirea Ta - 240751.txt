@@ -1,5 +1,5 @@
 [title]
-Binecuvantarea si iubirea ta {author: {Anonim}, {rcId: {240751}}
+Binecuvantarea si iubirea ta {composer: {Anonim}, {rcId: {240751}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

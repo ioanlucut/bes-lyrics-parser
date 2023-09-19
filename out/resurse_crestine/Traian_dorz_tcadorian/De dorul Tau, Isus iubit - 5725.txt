@@ -1,5 +1,5 @@
 [title]
-De dorul tau isus iubit {author: {Traian Dorz T.C.Adorian}, {rcId: {5725}}
+De dorul tau isus iubit {composer: {Traian Dorz T.C.Adorian}, {rcId: {5725}}
 
 [sequence]
 v1,v2,v3,v4,v5

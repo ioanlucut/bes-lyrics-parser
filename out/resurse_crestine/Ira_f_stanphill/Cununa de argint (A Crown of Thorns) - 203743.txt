@@ -1,5 +1,5 @@
 [title]
-Cununa de argint (a crown of thorns) {author: {Ira F. Stanphill, Traducere RO}, {rcId: {203743}}
+Cununa de argint (a crown of thorns) {composer: {Ira F. Stanphill, Traducere RO}, {rcId: {203743}}
 
 [sequence]
 v1,c,v2,c,v3,c,s,c

@@ -1,5 +1,5 @@
 [title]
-Un singur dumnezeu {author: {Speranța}, {rcId: {55531}}
+Un singur dumnezeu {composer: {Speranța}, {rcId: {55531}}
 
 [sequence]
 c,v1,c

@@ -1,5 +1,5 @@
 [title]
-El este domn si in ceruri domneste {author: {Anonim}, {rcId: {4977}}
+El este domn si in ceruri domneste {composer: {Anonim}, {rcId: {4977}}
 
 [sequence]
 v1,c,v2,c2

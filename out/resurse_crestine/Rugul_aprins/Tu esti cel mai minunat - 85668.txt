@@ -1,5 +1,5 @@
 [title]
-Tu esti cel mai minunat {author: {Rugul aprins}, {rcId: {85668}}
+Tu esti cel mai minunat {composer: {Rugul aprins}, {rcId: {85668}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Inimi zdrobite {author: {Anonim}, {rcId: {4547}}
+Inimi zdrobite {composer: {Anonim}, {rcId: {4547}}
 
 [sequence]
 v1,c,v2,c

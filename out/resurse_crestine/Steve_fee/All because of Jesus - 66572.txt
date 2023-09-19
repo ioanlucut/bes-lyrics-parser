@@ -1,5 +1,5 @@
 [title]
-All because of jesus {author: {Steve Fee, Traducere RO}, {rcId: {66572}}
+All because of jesus {composer: {Steve Fee, Traducere RO}, {rcId: {66572}}
 
 [sequence]
 v1,b,c,v2,c,e

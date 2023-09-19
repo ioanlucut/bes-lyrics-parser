@@ -1,5 +1,5 @@
 [title]
-Impovarat si plin de suferinta {author: {Anonim}, {rcId: {55535}}
+Impovarat si plin de suferinta {composer: {Anonim}, {rcId: {55535}}
 
 [sequence]
 v1,c,v2,c

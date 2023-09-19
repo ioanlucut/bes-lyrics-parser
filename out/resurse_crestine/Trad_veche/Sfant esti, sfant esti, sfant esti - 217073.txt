@@ -1,5 +1,5 @@
 [title]
-Sfant esti sfant esti sfant esti {author: {trad veche}, {rcId: {217073}}
+Sfant esti sfant esti sfant esti {composer: {trad veche}, {rcId: {217073}}
 
 [sequence]
 v1,v2,v3,v4

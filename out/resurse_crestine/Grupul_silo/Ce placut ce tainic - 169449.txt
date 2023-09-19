@@ -1,5 +1,5 @@
 [title]
-Ce placut ce tainic {author: {Grupul Silo}, {rcId: {169449}}
+Ce placut ce tainic {composer: {Grupul Silo}, {rcId: {169449}}
 
 [sequence]
 v1,c

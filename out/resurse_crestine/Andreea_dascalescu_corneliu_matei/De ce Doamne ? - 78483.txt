@@ -1,5 +1,5 @@
 [title]
-De ce doamne ? {author: {Andreea Dascalescu, Corneliu Matei}, {rcId: {78483}}
+De ce doamne ? {composer: {Andreea Dascalescu, Corneliu Matei}, {rcId: {78483}}
 
 [sequence]
 v1,c,v2,c,v3,c

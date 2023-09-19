@@ -1,5 +1,5 @@
 [title]
-Cu tine {author: {Tani Barna}, {rcId: {75385}}
+Cu tine {composer: {Tani Barna}, {rcId: {75385}}
 
 [sequence]
 v1,c,e

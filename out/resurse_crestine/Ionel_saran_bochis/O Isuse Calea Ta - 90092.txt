@@ -1,5 +1,5 @@
 [title]
-O isuse calea ta {author: {Ionel Saran Bochis}, {rcId: {90092}}
+O isuse calea ta {composer: {Ionel Saran Bochis}, {rcId: {90092}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

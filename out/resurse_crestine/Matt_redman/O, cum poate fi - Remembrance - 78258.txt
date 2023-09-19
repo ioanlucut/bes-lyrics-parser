@@ -1,5 +1,5 @@
 [title]
-O cum poate fi - remembrance {author: {Matt Redman, Traducere RO}, {rcId: {78258}}
+O cum poate fi - remembrance {composer: {Matt Redman, Traducere RO}, {rcId: {78258}}
 
 [sequence]
 v1,b,c,v2,b,c

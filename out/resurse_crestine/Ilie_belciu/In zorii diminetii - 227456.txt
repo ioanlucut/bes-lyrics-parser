@@ -1,5 +1,5 @@
 [title]
-In zorii diminetii {author: {Ilie Belciu}, {rcId: {227456}}
+In zorii diminetii {composer: {Ilie Belciu}, {rcId: {227456}}
 
 [sequence]
 v1,v2,v3,v4

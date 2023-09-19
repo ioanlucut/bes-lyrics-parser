@@ -1,5 +1,5 @@
 [title]
-Sa venim naintea lui {author: {Anonim}, {rcId: {5158}}
+Sa venim naintea lui {composer: {Anonim}, {rcId: {5158}}
 
 [sequence]
 c,v1,c

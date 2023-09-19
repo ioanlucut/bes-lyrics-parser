@@ -1,5 +1,5 @@
 [title]
-Se sting facliile {author: {Daniel Hîrtie}, {rcId: {204744}}
+Se sting facliile {composer: {Daniel Hîrtie}, {rcId: {204744}}
 
 [sequence]
 v1,v2,v3,v4

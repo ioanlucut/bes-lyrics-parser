@@ -1,5 +1,5 @@
 [title]
-Din slavi ai coborat {author: {Gabriel Gorcea și prietenii}, {rcId: {80075}}
+Din slavi ai coborat {composer: {Gabriel Gorcea și prietenii}, {rcId: {80075}}
 
 [sequence]
 v1,c,v2,c,v3,c

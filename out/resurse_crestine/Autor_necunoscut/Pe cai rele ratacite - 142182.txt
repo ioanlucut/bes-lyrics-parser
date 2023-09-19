@@ -1,5 +1,5 @@
 [title]
-Pe cai rele ratacite {author: {Anonim}, {rcId: {142182}}
+Pe cai rele ratacite {composer: {Anonim}, {rcId: {142182}}
 
 [sequence]
 v1,v2,v3

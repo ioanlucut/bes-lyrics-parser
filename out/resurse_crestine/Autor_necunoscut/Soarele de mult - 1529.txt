@@ -1,5 +1,5 @@
 [title]
-Soarele de mult {author: {Anonim}, {rcId: {1529}}
+Soarele de mult {composer: {Anonim}, {rcId: {1529}}
 
 [sequence]
 v1,c,v2,c

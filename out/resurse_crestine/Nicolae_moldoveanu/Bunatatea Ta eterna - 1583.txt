@@ -1,5 +1,5 @@
 [title]
-Bunatatea ta eterna {author: {Nicolae Moldoveanu}, {rcId: {1583}}
+Bunatatea ta eterna {composer: {Nicolae Moldoveanu}, {rcId: {1583}}
 
 [sequence]
 v1,c,v2,c,v3,c

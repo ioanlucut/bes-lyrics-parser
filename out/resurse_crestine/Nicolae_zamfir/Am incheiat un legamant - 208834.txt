@@ -1,5 +1,5 @@
 [title]
-Am incheiat un legamant {author: {Nicolae Zamfir}, {rcId: {208834}}
+Am incheiat un legamant {composer: {Nicolae Zamfir}, {rcId: {208834}}
 
 [sequence]
 v1,c,v2,c,v3,c

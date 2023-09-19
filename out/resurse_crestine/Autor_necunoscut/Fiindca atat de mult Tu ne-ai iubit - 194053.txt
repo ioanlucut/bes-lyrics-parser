@@ -1,5 +1,5 @@
 [title]
-Fiindca atat de mult tu ne-ai iubit {author: {Anonim}, {rcId: {194053}}
+Fiindca atat de mult tu ne-ai iubit {composer: {Anonim}, {rcId: {194053}}
 
 [sequence]
 v1,v2

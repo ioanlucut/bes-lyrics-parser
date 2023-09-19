@@ -1,5 +1,5 @@
 [title]
-A parasit gloria cereasca {author: {Gabriel Gorcea}, {rcId: {244352}}
+A parasit gloria cereasca {composer: {Gabriel Gorcea}, {rcId: {244352}}
 
 [sequence]
 v1,c,v2,c,v3,c

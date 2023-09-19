@@ -1,5 +1,5 @@
 [title]
-Intotdeauna doamne (sfant e numele tau) {author: {Rugul aprins}, {rcId: {152967}}
+Intotdeauna doamne (sfant e numele tau) {composer: {Rugul aprins}, {rcId: {152967}}
 
 [sequence]
 v1,c

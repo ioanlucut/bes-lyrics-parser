@@ -1,5 +1,5 @@
 [title]
-Ani vietii {author: {Onisim Grab}, {rcId: {234941}}
+Ani vietii {composer: {Onisim Grab}, {rcId: {234941}}
 
 [sequence]
 v1,c,v2,c,v3,c

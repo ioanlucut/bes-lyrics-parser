@@ -1,5 +1,5 @@
 [title]
-Va reveni {author: {Text: Costache Ioanid, Muzica: Corina Bazon}, {rcId: {199440}}
+Va reveni {composer: {Text: Costache Ioanid, Muzica: Corina Bazon}, {rcId: {199440}}
 
 [sequence]
 v1,c,c2

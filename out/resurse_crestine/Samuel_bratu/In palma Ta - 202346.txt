@@ -1,5 +1,5 @@
 [title]
-In palma ta {author: {Samuel Bratu}, {rcId: {202346}}
+In palma ta {composer: {Samuel Bratu}, {rcId: {202346}}
 
 [sequence]
 v1,c,v2,c

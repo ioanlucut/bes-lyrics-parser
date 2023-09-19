@@ -1,5 +1,5 @@
 [title]
-Cand suntem in incercare {author: {Silviu Ionatan Iovu}, {rcId: {177617}}
+Cand suntem in incercare {composer: {Silviu Ionatan Iovu}, {rcId: {177617}}
 
 [sequence]
 v1,v2,v3

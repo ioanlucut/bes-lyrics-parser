@@ -1,5 +1,5 @@
 [title]
-Eu ma-ncred doar in domnul {author: {Anonim}, {rcId: {3840}}
+Eu ma-ncred doar in domnul {composer: {Anonim}, {rcId: {3840}}
 
 [sequence]
 v1,c,v2,c,v3,c

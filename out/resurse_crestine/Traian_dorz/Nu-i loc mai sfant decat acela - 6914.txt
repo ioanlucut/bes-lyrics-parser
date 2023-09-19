@@ -1,5 +1,5 @@
 [title]
-Nu-i loc mai sfant decat acela {author: {Traian Dorz}, {rcId: {6914}}
+Nu-i loc mai sfant decat acela {composer: {Traian Dorz}, {rcId: {6914}}
 
 [sequence]
 v1,v2,v3,v4

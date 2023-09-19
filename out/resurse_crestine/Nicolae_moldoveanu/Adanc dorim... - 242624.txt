@@ -1,5 +1,5 @@
 [title]
-Adanc dorim {author: {Nicolae Moldoveanu}, {rcId: {242624}}
+Adanc dorim {composer: {Nicolae Moldoveanu}, {rcId: {242624}}
 
 [sequence]
 v1,v2,v3,v4

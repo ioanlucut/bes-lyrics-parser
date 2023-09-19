@@ -1,5 +1,5 @@
 [title]
-Mi-asa de dor de tine mantuitorul meu {author: {Nicolae Moldoveanu}, {rcId: {240709}}
+Mi-asa de dor de tine mantuitorul meu {composer: {Nicolae Moldoveanu}, {rcId: {240709}}
 
 [sequence]
 v1,c,v3,c,v4,c

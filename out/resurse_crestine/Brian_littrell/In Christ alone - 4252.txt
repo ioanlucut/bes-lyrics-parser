@@ -1,5 +1,5 @@
 [title]
-In christ alone {author: {Brian Littrell}, {rcId: {4252}}
+In christ alone {composer: {Brian Littrell}, {rcId: {4252}}
 
 [sequence]
 v1,c,v2,c

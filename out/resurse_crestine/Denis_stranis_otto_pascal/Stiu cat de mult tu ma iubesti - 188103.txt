@@ -1,5 +1,5 @@
 [title]
-Stiu cat de mult tu ma iubesti {author: {Denis Stranis, Otto Pascal}, {rcId: {188103}}
+Stiu cat de mult tu ma iubesti {composer: {Denis Stranis, Otto Pascal}, {rcId: {188103}}
 
 [sequence]
 v1,c,v2,c,e

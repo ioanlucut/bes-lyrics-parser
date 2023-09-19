@@ -1,5 +1,5 @@
 [title]
-Am un frate ce-i evreu {author: {Nica Lucian}, {rcId: {5617}}
+Am un frate ce-i evreu {composer: {Nica Lucian}, {rcId: {5617}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

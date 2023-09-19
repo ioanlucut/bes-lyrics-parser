@@ -1,5 +1,5 @@
 [title]
-Se duce viata {author: {Speranța}, {rcId: {111384}}
+Se duce viata {composer: {Speranța}, {rcId: {111384}}
 
 [sequence]
 v1,c,v2,c,v3,c

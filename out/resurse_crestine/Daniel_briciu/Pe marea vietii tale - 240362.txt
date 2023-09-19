@@ -1,5 +1,5 @@
 [title]
-Pe marea vietii tale {author: {Daniel Briciu}, {rcId: {240362}}
+Pe marea vietii tale {composer: {Daniel Briciu}, {rcId: {240362}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

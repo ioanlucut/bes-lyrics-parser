@@ -1,5 +1,5 @@
 [title]
-Tu esti scutul si taria mea {author: {Sunny Tranca}, {rcId: {233658}}
+Tu esti scutul si taria mea {composer: {Sunny Tranca}, {rcId: {233658}}
 
 [sequence]
 v1,c,c

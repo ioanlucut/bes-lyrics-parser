@@ -1,5 +1,5 @@
 [title]
-Curgi {author: {Callatis Praise}, {rcId: {6788}}
+Curgi {composer: {Callatis Praise}, {rcId: {6788}}
 
 [sequence]
 v1,c

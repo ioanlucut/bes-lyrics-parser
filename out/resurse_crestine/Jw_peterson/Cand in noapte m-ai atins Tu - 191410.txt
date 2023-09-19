@@ -1,5 +1,5 @@
 [title]
-Cand in noapte m-ai atins tu {author: {J.W. Peterson}, {rcId: {191410}}
+Cand in noapte m-ai atins tu {composer: {J.W. Peterson}, {rcId: {191410}}
 
 [sequence]
 v1,v2,v3

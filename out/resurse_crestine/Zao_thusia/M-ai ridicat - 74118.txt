@@ -1,5 +1,5 @@
 [title]
-M-ai ridicat {author: {Zao Thusia}, {rcId: {74118}}
+M-ai ridicat {composer: {Zao Thusia}, {rcId: {74118}}
 
 [sequence]
 v1,v2,c,c,v3,c,e,c

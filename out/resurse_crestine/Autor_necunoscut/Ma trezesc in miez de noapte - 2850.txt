@@ -1,5 +1,5 @@
 [title]
-Ma trezesc in miez de noapte {author: {Anonim}, {rcId: {2850}}
+Ma trezesc in miez de noapte {composer: {Anonim}, {rcId: {2850}}
 
 [sequence]
 v1,c

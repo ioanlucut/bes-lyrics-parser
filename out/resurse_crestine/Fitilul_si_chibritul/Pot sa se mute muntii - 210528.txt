@@ -1,5 +1,5 @@
 [title]
-Pot sa se mute muntii {author: {Fitilul si chibritul}, {rcId: {210528}}
+Pot sa se mute muntii {composer: {Fitilul si chibritul}, {rcId: {210528}}
 
 [sequence]
 v1,c,v2,b,c

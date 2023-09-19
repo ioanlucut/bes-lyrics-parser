@@ -1,5 +1,5 @@
 [title]
-Cantati cantati cu toata bucuria {author: {Nicolae Moldoveanu}, {rcId: {244531}}
+Cantati cantati cu toata bucuria {composer: {Nicolae Moldoveanu}, {rcId: {244531}}
 
 [sequence]
 v1,v2,v3

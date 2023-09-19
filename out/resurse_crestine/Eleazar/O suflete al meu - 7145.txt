@@ -1,5 +1,5 @@
 [title]
-O suflete al meu {author: {Eleazar}, {rcId: {7145}}
+O suflete al meu {composer: {Eleazar}, {rcId: {7145}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8

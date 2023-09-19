@@ -1,5 +1,5 @@
 [title]
-In taina crucii tale {author: {Nicolae Moldoveanu}, {rcId: {246211}}
+In taina crucii tale {composer: {Nicolae Moldoveanu}, {rcId: {246211}}
 
 [sequence]
 v1,v2,v3,v4

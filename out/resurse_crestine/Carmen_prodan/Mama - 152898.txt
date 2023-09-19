@@ -1,5 +1,5 @@
 [title]
-Mama {author: {Carmen Prodan}, {rcId: {152898}}
+Mama {composer: {Carmen Prodan}, {rcId: {152898}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

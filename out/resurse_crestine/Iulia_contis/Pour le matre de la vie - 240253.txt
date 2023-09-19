@@ -1,5 +1,5 @@
 [title]
-Pour le matre de la vie {author: {Iulia Contis}, {rcId: {240253}}
+Pour le matre de la vie {composer: {Iulia Contis}, {rcId: {240253}}
 
 [sequence]
 v1,v2

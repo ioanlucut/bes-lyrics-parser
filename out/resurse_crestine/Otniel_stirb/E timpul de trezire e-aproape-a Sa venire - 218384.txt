@@ -1,5 +1,5 @@
 [title]
-E timpul de trezire e-aproape-a sa venire {author: {Otniel Stirb}, {rcId: {218384}}
+E timpul de trezire e-aproape-a sa venire {composer: {Otniel Stirb}, {rcId: {218384}}
 
 [sequence]
 v1,c,v2,c,v3,c

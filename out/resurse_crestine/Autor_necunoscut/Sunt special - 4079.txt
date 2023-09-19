@@ -1,5 +1,5 @@
 [title]
-Sunt special {author: {Anonim}, {rcId: {4079}}
+Sunt special {composer: {Anonim}, {rcId: {4079}}
 
 [sequence]
 v1,c

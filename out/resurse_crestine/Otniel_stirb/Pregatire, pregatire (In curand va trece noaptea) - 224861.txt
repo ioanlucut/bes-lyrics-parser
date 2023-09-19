@@ -1,5 +1,5 @@
 [title]
-Pregatire pregatire (in curand va trece noaptea) {author: {Otniel Stirb}, {rcId: {224861}}
+Pregatire pregatire (in curand va trece noaptea) {composer: {Otniel Stirb}, {rcId: {224861}}
 
 [sequence]
 v1,c,v2,c,v3,c

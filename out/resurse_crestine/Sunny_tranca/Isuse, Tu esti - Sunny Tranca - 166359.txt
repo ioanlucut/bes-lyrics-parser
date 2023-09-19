@@ -1,5 +1,5 @@
 [title]
-Isuse tu esti - sunny tranca {author: {Sunny Tranca}, {rcId: {166359}}
+Isuse tu esti - sunny tranca {composer: {Sunny Tranca}, {rcId: {166359}}
 
 [sequence]
 v1,c,v2,c

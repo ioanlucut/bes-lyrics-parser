@@ -1,5 +1,5 @@
 [title]
-Spre bolta instelata {author: {Dumitru Coroama}, {rcId: {83379}}
+Spre bolta instelata {composer: {Dumitru Coroama}, {rcId: {83379}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

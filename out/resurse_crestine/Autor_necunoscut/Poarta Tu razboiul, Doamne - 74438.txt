@@ -1,5 +1,5 @@
 [title]
-Poarta tu razboiul doamne {author: {Anonim}, {rcId: {74438}}
+Poarta tu razboiul doamne {composer: {Anonim}, {rcId: {74438}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Te-ai gandit vreodata-n viata caci tot ce-ai agonisit {author: {Anonim}, {rcId: {204550}}
+Te-ai gandit vreodata-n viata caci tot ce-ai agonisit {composer: {Anonim}, {rcId: {204550}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

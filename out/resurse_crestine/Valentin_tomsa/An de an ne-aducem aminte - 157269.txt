@@ -1,5 +1,5 @@
 [title]
-An de an ne-aducem aminte {author: {Valentin Tomșa}, {rcId: {157269}}
+An de an ne-aducem aminte {composer: {Valentin Tomșa}, {rcId: {157269}}
 
 [sequence]
 v1,c,v2,c,v3,c

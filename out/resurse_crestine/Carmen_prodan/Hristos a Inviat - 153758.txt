@@ -1,5 +1,5 @@
 [title]
-Hristos a inviat {author: {Carmen Prodan}, {rcId: {153758}}
+Hristos a inviat {composer: {Carmen Prodan}, {rcId: {153758}}
 
 [sequence]
 v1,c,v2,c,v3,c

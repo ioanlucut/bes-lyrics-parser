@@ -1,5 +1,5 @@
 [title]
-Vine domnul maranata {author: {Grupup Hristic}, {rcId: {169589}}
+Vine domnul maranata {composer: {Grupup Hristic}, {rcId: {169589}}
 
 [sequence]
 v1,c,v2,c,e

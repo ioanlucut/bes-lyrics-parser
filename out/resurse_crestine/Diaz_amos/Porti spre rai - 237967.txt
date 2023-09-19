@@ -1,5 +1,5 @@
 [title]
-Porti spre rai {author: {Diaz Amos}, {rcId: {237967}}
+Porti spre rai {composer: {Diaz Amos}, {rcId: {237967}}
 
 [sequence]
 v1,c,v2,c

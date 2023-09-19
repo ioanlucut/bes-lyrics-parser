@@ -1,5 +1,5 @@
 [title]
-Sunt iertat {author: {Cătălin și Ramona Lup}, {rcId: {7243}}
+Sunt iertat {composer: {Cătălin și Ramona Lup}, {rcId: {7243}}
 
 [sequence]
 v1,c,v2,c

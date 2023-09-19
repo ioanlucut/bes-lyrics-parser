@@ -1,5 +1,5 @@
 [title]
-Zi de zi din fantana {author: {Anonim}, {rcId: {5210}}
+Zi de zi din fantana {composer: {Anonim}, {rcId: {5210}}
 
 [sequence]
 v1,c,v2,c,v3,c

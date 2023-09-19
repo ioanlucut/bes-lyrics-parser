@@ -1,5 +1,5 @@
 [title]
-De mic copil te-am cunoscut {author: {Anonim}, {rcId: {830}}
+De mic copil te-am cunoscut {composer: {Anonim}, {rcId: {830}}
 
 [sequence]
 v1,c,v2,c

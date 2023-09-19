@@ -1,5 +1,5 @@
 [title]
-Binecuvantarea ta {author: {Dorin, Oana Gurău}, {rcId: {181846}}
+Binecuvantarea ta {composer: {Dorin, Oana Gurău}, {rcId: {181846}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Ma voi inchina cantand domnului {author: {Anonim}, {rcId: {4991}}
+Ma voi inchina cantand domnului {composer: {Anonim}, {rcId: {4991}}
 
 [sequence]
 c,v1,c

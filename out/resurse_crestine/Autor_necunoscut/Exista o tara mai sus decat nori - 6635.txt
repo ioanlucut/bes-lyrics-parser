@@ -1,5 +1,5 @@
 [title]
-Exista o tara mai sus decat nori {author: {Anonim}, {rcId: {6635}}
+Exista o tara mai sus decat nori {composer: {Anonim}, {rcId: {6635}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-De la un capat la celalalt {author: {Anonim}, {rcId: {5217}}
+De la un capat la celalalt {composer: {Anonim}, {rcId: {5217}}
 
 [sequence]
 v1,c

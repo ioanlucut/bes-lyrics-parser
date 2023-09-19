@@ -1,5 +1,5 @@
 [title]
-As da orice {author: {Daniel Olcean}, {rcId: {197101}}
+As da orice {composer: {Daniel Olcean}, {rcId: {197101}}
 
 [sequence]
 v1,c,v2,b,c

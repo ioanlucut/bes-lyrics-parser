@@ -1,5 +1,5 @@
 [title]
-S-a racit iubirea sunt atatea inimi reci {author: {David Stănuș}, {rcId: {186136}}
+S-a racit iubirea sunt atatea inimi reci {composer: {David Stănuș}, {rcId: {186136}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

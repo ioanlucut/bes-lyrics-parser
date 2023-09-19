@@ -1,5 +1,5 @@
 [title]
-Langa domnul {author: {Remus Tămășan}, {rcId: {237240}}
+Langa domnul {composer: {Remus Tămășan}, {rcId: {237240}}
 
 [sequence]
 v1,c,v2,b,c

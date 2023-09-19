@@ -1,5 +1,5 @@
 [title]
-El e viu {author: {Corul de copii ”Bunul Păstor”}, {rcId: {71515}}
+El e viu {composer: {Corul de copii ”Bunul Păstor”}, {rcId: {71515}}
 
 [sequence]
 v1,v2,v3

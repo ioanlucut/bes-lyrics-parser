@@ -1,5 +1,5 @@
 [title]
-Isus al meu prieten bun {author: {Ionică Stoica}, {rcId: {189765}}
+Isus al meu prieten bun {composer: {Ionică Stoica}, {rcId: {189765}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-De ce suspini {author: {Tripon Beniamin}, {rcId: {148048}}
+De ce suspini {composer: {Tripon Beniamin}, {rcId: {148048}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

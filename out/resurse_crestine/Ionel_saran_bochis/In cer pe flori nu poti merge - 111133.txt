@@ -1,5 +1,5 @@
 [title]
-In cer pe flori nu poti merge {author: {Ionel Saran Bochis}, {rcId: {111133}}
+In cer pe flori nu poti merge {composer: {Ionel Saran Bochis}, {rcId: {111133}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

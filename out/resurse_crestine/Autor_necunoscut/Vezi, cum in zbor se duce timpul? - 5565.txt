@@ -1,5 +1,5 @@
 [title]
-Vezi cum in zbor se duce timpul? {author: {Anonim}, {rcId: {5565}}
+Vezi cum in zbor se duce timpul? {composer: {Anonim}, {rcId: {5565}}
 
 [sequence]
 v1,v2,v3

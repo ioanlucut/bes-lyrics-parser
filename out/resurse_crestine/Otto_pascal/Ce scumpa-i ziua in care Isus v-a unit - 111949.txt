@@ -1,5 +1,5 @@
 [title]
-Ce scumpa-i ziua in care isus v-a unit {author: {Otto Pascal}, {rcId: {111949}}
+Ce scumpa-i ziua in care isus v-a unit {composer: {Otto Pascal}, {rcId: {111949}}
 
 [sequence]
 v1,c,v2,c

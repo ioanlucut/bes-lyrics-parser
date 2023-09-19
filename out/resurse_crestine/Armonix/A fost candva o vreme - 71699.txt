@@ -1,5 +1,5 @@
 [title]
-A fost candva o vreme {author: {Armonix}, {rcId: {71699}}
+A fost candva o vreme {composer: {Armonix}, {rcId: {71699}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

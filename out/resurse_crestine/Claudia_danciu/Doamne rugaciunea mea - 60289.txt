@@ -1,5 +1,5 @@
 [title]
-Doamne rugaciunea mea {author: {Claudia Danciu}, {rcId: {60289}}
+Doamne rugaciunea mea {composer: {Claudia Danciu}, {rcId: {60289}}
 
 [sequence]
 v1,v2,v3

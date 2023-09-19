@@ -1,5 +1,5 @@
 [title]
-Pereche-aceasta ce sta nainte {author: {Anonim}, {rcId: {238500}}
+Pereche-aceasta ce sta nainte {composer: {Anonim}, {rcId: {238500}}
 
 [sequence]
 v1,c,v2,c

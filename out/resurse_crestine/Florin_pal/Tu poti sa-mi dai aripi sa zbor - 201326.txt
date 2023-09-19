@@ -1,5 +1,5 @@
 [title]
-Tu poti sa-mi dai aripi sa zbor {author: {Florin Pal}, {rcId: {201326}}
+Tu poti sa-mi dai aripi sa zbor {composer: {Florin Pal}, {rcId: {201326}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

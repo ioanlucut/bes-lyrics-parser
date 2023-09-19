@@ -1,5 +1,5 @@
 [title]
-Sfant e sfant si mare {author: {Franz Schubert}, {rcId: {1242}}
+Sfant e sfant si mare {composer: {Franz Schubert}, {rcId: {1242}}
 
 [sequence]
 v1,v2

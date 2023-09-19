@@ -1,5 +1,5 @@
 [title]
-Am bucurie in zorii zilei {author: {Anonim}, {rcId: {5294}}
+Am bucurie in zorii zilei {composer: {Anonim}, {rcId: {5294}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-N-am cuvinte uneori {author: {Speranța}, {rcId: {111307}}
+N-am cuvinte uneori {composer: {Speranța}, {rcId: {111307}}
 
 [sequence]
 v1,c,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Adevarurile sfinte {author: {Nicolae Moldoveanu}, {rcId: {231245}}
+Adevarurile sfinte {composer: {Nicolae Moldoveanu}, {rcId: {231245}}
 
 [sequence]
 v1,v2,v3,v4

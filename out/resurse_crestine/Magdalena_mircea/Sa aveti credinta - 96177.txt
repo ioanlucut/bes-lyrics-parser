@@ -1,5 +1,5 @@
 [title]
-Sa aveti credinta {author: {Magdalena Mircea}, {rcId: {96177}}
+Sa aveti credinta {composer: {Magdalena Mircea}, {rcId: {96177}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c

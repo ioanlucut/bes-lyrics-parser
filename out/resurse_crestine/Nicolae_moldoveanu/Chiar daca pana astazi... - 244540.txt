@@ -1,5 +1,5 @@
 [title]
-Chiar daca pana astazi {author: {Nicolae Moldoveanu}, {rcId: {244540}}
+Chiar daca pana astazi {composer: {Nicolae Moldoveanu}, {rcId: {244540}}
 
 [sequence]
 v1,v2,v3

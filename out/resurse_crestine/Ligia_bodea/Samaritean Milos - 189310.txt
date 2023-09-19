@@ -1,5 +1,5 @@
 [title]
-Samaritean milos {author: {Ligia Bodea}, {rcId: {189310}}
+Samaritean milos {composer: {Ligia Bodea}, {rcId: {189310}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,c4,c6

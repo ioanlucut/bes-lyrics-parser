@@ -1,5 +1,5 @@
 [title]
-De cate ori in grea-ncercare cand erai trist si parasit {author: {Ileana din Vâlcele}, {rcId: {238613}}
+De cate ori in grea-ncercare cand erai trist si parasit {composer: {Ileana din Vâlcele}, {rcId: {238613}}
 
 [sequence]
 v1,c,v2,c,v3,c

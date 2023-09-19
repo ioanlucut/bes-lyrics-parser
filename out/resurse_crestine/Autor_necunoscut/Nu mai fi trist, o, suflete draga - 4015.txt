@@ -1,5 +1,5 @@
 [title]
-Nu mai fi trist o suflete draga {author: {Anonim}, {rcId: {4015}}
+Nu mai fi trist o suflete draga {composer: {Anonim}, {rcId: {4015}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Mi-atat de dor isus {author: {Onisim Grab}, {rcId: {210529}}
+Mi-atat de dor isus {composer: {Onisim Grab}, {rcId: {210529}}
 
 [sequence]
 v1,c,v2,c,v3,c

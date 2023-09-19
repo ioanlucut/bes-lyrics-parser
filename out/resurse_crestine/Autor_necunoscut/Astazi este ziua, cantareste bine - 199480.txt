@@ -1,5 +1,5 @@
 [title]
-Astazi este ziua cantareste bine {author: {Anonim}, {rcId: {199480}}
+Astazi este ziua cantareste bine {composer: {Anonim}, {rcId: {199480}}
 
 [sequence]
 v1,c,v2,c,v3,c

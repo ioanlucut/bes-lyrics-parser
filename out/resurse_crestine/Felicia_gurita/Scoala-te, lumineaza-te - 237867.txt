@@ -1,5 +1,5 @@
 [title]
-Scoala-te lumineaza-te {author: {Felicia Guriță}, {rcId: {237867}}
+Scoala-te lumineaza-te {composer: {Felicia Guriță}, {rcId: {237867}}
 
 [sequence]
 v1,b,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Cand am trecut prin valea umbrei mortii {author: {Paul Catuna, Croitor}, {rcId: {196363}}
+Cand am trecut prin valea umbrei mortii {composer: {Paul Catuna, Croitor}, {rcId: {196363}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

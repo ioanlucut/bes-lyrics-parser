@@ -1,5 +1,5 @@
 [title]
-Omule ce ratacesti pribeag {author: {Puiu Chibici}, {rcId: {57234}}
+Omule ce ratacesti pribeag {composer: {Puiu Chibici}, {rcId: {57234}}
 
 [sequence]
 v1,c,v2,c,v3,c

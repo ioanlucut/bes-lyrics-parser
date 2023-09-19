@@ -1,5 +1,5 @@
 [title]
-Eu ma incred {author: {Daniel Stauceanu}, {rcId: {1801}}
+Eu ma incred {composer: {Daniel Stauceanu}, {rcId: {1801}}
 
 [sequence]
 v1,v2,v3

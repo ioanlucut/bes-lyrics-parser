@@ -1,5 +1,5 @@
 [title]
-Du-te la furnica {author: {Nicolae Moldoveanu}, {rcId: {235610}}
+Du-te la furnica {composer: {Nicolae Moldoveanu}, {rcId: {235610}}
 
 [sequence]
 v1,v2,v3

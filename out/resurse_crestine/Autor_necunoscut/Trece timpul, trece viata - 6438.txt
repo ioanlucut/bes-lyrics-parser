@@ -1,5 +1,5 @@
 [title]
-Trece timpul trece viata {author: {Anonim}, {rcId: {6438}}
+Trece timpul trece viata {composer: {Anonim}, {rcId: {6438}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

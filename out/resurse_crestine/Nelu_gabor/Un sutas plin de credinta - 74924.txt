@@ -1,5 +1,5 @@
 [title]
-Un sutas plin de credinta {author: {Nelu gabor}, {rcId: {74924}}
+Un sutas plin de credinta {composer: {Nelu gabor}, {rcId: {74924}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Pastreaza-n inima cuvantul {author: {Nicolae Moldoveanu}, {rcId: {246365}}
+Pastreaza-n inima cuvantul {composer: {Nicolae Moldoveanu}, {rcId: {246365}}
 
 [sequence]
 v1,v2,v3

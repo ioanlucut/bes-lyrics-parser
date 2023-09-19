@@ -1,5 +1,5 @@
 [title]
-Din valea plangerii cu dor {author: {Anonim}, {rcId: {201457}}
+Din valea plangerii cu dor {composer: {Anonim}, {rcId: {201457}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

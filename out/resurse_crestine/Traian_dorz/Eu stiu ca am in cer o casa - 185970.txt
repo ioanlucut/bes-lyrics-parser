@@ -1,5 +1,5 @@
 [title]
-Eu stiu ca am in cer o casa {author: {Traian Dorz}, {rcId: {185970}}
+Eu stiu ca am in cer o casa {composer: {Traian Dorz}, {rcId: {185970}}
 
 [sequence]
 v1,v2,v3,v4,v5

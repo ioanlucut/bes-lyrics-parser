@@ -1,5 +1,5 @@
 [title]
-Domnul e pastorul meu {author: {Silviu Ionatan Iovu}, {rcId: {177618}}
+Domnul e pastorul meu {composer: {Silviu Ionatan Iovu}, {rcId: {177618}}
 
 [sequence]
 v1,v2,v3

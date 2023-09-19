@@ -1,5 +1,5 @@
 [title]
-Strigati de bucurie catre domnul {author: {Bianca Cernisov}, {rcId: {160459}}
+Strigati de bucurie catre domnul {composer: {Bianca Cernisov}, {rcId: {160459}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

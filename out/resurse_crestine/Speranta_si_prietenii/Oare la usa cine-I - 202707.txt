@@ -1,5 +1,5 @@
 [title]
-Oare la usa cine-i {author: {Speranța și prietenii}, {rcId: {202707}}
+Oare la usa cine-i {composer: {Speranța și prietenii}, {rcId: {202707}}
 
 [sequence]
 v1,c,v2,c,v3,c

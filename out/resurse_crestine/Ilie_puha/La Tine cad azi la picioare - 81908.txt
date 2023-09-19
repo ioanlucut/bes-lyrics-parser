@@ -1,5 +1,5 @@
 [title]
-La tine cad azi la picioare {author: {Ilie Puha}, {rcId: {81908}}
+La tine cad azi la picioare {composer: {Ilie Puha}, {rcId: {81908}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

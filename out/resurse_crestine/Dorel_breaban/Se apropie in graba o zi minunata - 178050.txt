@@ -1,5 +1,5 @@
 [title]
-Se apropie in graba o zi minunata {author: {Dorel Breabăn}, {rcId: {178050}}
+Se apropie in graba o zi minunata {composer: {Dorel Breabăn}, {rcId: {178050}}
 
 [sequence]
 v1,c,v2,c,v3,c

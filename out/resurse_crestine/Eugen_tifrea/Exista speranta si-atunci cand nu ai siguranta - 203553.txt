@@ -1,5 +1,5 @@
 [title]
-Exista speranta si-atunci cand nu ai siguranta {author: {Eugen Tifrea}, {rcId: {203553}}
+Exista speranta si-atunci cand nu ai siguranta {composer: {Eugen Tifrea}, {rcId: {203553}}
 
 [sequence]
 v1,c,v2,c

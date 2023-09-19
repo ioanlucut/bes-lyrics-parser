@@ -1,5 +1,5 @@
 [title]
-Pe pamant sunt toate trecatoare {author: {Damaris Azamfirei}, {rcId: {197190}}
+Pe pamant sunt toate trecatoare {composer: {Damaris Azamfirei}, {rcId: {197190}}
 
 [sequence]
 v1,c,v2,c,v3,c

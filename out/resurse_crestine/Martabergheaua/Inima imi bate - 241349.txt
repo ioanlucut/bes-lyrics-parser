@@ -1,5 +1,5 @@
 [title]
-Inima imi bate {author: {Marta_Bergheaua}, {rcId: {241349}}
+Inima imi bate {composer: {Marta_Bergheaua}, {rcId: {241349}}
 
 [sequence]
 v1,v2,v3,v4

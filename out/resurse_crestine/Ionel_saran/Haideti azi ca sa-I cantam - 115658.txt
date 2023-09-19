@@ -1,5 +1,5 @@
 [title]
-Haideti azi ca sa-i cantam {author: {Ionel Saran}, {rcId: {115658}}
+Haideti azi ca sa-i cantam {composer: {Ionel Saran}, {rcId: {115658}}
 
 [sequence]
 v1,c,v2,c,v3,c

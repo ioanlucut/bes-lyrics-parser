@@ -1,5 +1,5 @@
 [title]
-Traim clipe grele cand nu mai dorim {author: {Vasile Daniel}, {rcId: {136064}}
+Traim clipe grele cand nu mai dorim {composer: {Vasile Daniel}, {rcId: {136064}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

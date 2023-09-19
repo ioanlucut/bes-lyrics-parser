@@ -1,5 +1,5 @@
 [title]
-A venit iarna din departari {author: {Anonim}, {rcId: {194473}}
+A venit iarna din departari {composer: {Anonim}, {rcId: {194473}}
 
 [sequence]
 v1,v2,v3

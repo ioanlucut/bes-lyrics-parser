@@ -1,5 +1,5 @@
 [title]
-Cine a crezut in ce ni se vestise ? {author: {Rugul aprins}, {rcId: {4411}}
+Cine a crezut in ce ni se vestise ? {composer: {Rugul aprins}, {rcId: {4411}}
 
 [sequence]
 v1,c,v2,c,e

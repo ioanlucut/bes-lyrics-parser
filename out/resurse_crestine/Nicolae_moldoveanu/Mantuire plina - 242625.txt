@@ -1,5 +1,5 @@
 [title]
-Mantuire plina {author: {Nicolae Moldoveanu}, {rcId: {242625}}
+Mantuire plina {composer: {Nicolae Moldoveanu}, {rcId: {242625}}
 
 [sequence]
 v1,v2,v3

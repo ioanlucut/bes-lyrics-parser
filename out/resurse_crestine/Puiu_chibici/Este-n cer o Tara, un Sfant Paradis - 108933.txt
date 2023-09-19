@@ -1,5 +1,5 @@
 [title]
-Este-n cer o tara un sfant paradis {author: {Puiu Chibici}, {rcId: {108933}}
+Este-n cer o tara un sfant paradis {composer: {Puiu Chibici}, {rcId: {108933}}
 
 [sequence]
 v1,v2,v3

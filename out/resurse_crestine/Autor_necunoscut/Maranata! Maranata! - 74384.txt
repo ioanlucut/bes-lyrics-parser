@@ -1,5 +1,5 @@
 [title]
-Maranata maranata {author: {Anonim}, {rcId: {74384}}
+Maranata maranata {composer: {Anonim}, {rcId: {74384}}
 
 [sequence]
 v1,v2

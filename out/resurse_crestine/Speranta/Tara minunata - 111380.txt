@@ -1,5 +1,5 @@
 [title]
-Tara minunata {author: {Speranța}, {rcId: {111380}}
+Tara minunata {composer: {Speranța}, {rcId: {111380}}
 
 [sequence]
 v1,c,v2,c,v3,c

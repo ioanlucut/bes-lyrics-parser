@@ -1,5 +1,5 @@
 [title]
-Nu ma lasa {author: {Ovidiu Opriș}, {rcId: {231423}}
+Nu ma lasa {composer: {Ovidiu Opriș}, {rcId: {231423}}
 
 [sequence]
 v1,c,v2,c,v3,c

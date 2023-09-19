@@ -1,5 +1,5 @@
 [title]
-Isus {author: {Daniela Beres}, {rcId: {94165}}
+Isus {composer: {Daniela Beres}, {rcId: {94165}}
 
 [sequence]
 v1,c,v2,c

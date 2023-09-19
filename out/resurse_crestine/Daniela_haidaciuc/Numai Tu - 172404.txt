@@ -1,5 +1,5 @@
 [title]
-Numai tu {author: {Daniela Haidaciuc}, {rcId: {172404}}
+Numai tu {composer: {Daniela Haidaciuc}, {rcId: {172404}}
 
 [sequence]
 v1,v2,v3,v4

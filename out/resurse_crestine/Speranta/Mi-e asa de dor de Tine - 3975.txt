@@ -1,5 +1,5 @@
 [title]
-Mi-e asa de dor de tine {author: {Speranța}, {rcId: {3975}}
+Mi-e asa de dor de tine {composer: {Speranța}, {rcId: {3975}}
 
 [sequence]
 v1,v2,v3,v4,v5

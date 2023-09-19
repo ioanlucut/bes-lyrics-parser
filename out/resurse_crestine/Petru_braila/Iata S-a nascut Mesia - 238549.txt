@@ -1,5 +1,5 @@
 [title]
-Iata s-a nascut mesia {author: {Petru Braila}, {rcId: {238549}}
+Iata s-a nascut mesia {composer: {Petru Braila}, {rcId: {238549}}
 
 [sequence]
 v1,c,v2,c,v3,c

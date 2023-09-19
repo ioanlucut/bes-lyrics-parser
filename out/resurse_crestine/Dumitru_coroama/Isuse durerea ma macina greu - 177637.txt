@@ -1,5 +1,5 @@
 [title]
-Isuse durerea ma macina greu {author: {Dumitru Coroama}, {rcId: {177637}}
+Isuse durerea ma macina greu {composer: {Dumitru Coroama}, {rcId: {177637}}
 
 [sequence]
 v1,c,v2,c,v3,c

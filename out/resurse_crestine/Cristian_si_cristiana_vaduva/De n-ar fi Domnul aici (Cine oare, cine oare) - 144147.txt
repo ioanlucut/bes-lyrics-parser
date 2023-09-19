@@ -1,5 +1,5 @@
 [title]
-De n-ar fi domnul aici (cine oare cine oare) {author: {Cristian și Cristiana Văduva}, {rcId: {144147}}
+De n-ar fi domnul aici (cine oare cine oare) {composer: {Cristian și Cristiana Văduva}, {rcId: {144147}}
 
 [sequence]
 v1,c,v2,c,v3,c

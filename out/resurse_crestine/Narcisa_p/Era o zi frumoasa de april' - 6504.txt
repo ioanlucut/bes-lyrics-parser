@@ -1,5 +1,5 @@
 [title]
-Era o zi frumoasa de april {author: {Narcisa P.}, {rcId: {6504}}
+Era o zi frumoasa de april {composer: {Narcisa P.}, {rcId: {6504}}
 
 [sequence]
 v1,v2,v3

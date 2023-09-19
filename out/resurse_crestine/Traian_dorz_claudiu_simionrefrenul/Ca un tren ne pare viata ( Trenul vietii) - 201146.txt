@@ -1,5 +1,5 @@
 [title]
-Ca un tren ne pare viata ( trenul vietii) {author: {Traian Dorz, Claudiu Simionrefrenul}, {rcId: {201146}}
+Ca un tren ne pare viata ( trenul vietii) {composer: {Traian Dorz, Claudiu Simionrefrenul}, {rcId: {201146}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

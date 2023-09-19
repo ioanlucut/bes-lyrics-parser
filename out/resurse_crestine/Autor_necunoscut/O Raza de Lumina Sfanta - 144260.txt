@@ -1,5 +1,5 @@
 [title]
-O raza de lumina sfanta {author: {Anonim}, {rcId: {144260}}
+O raza de lumina sfanta {composer: {Anonim}, {rcId: {144260}}
 
 [sequence]
 v1,c,v2,c2

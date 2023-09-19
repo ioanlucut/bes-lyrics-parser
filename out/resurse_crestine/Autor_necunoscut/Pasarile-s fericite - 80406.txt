@@ -1,5 +1,5 @@
 [title]
-Pasarile-s fericite {author: {Anonim}, {rcId: {80406}}
+Pasarile-s fericite {composer: {Anonim}, {rcId: {80406}}
 
 [sequence]
 v1,v2,v3,v4

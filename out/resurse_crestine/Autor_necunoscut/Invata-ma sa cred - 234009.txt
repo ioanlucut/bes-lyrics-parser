@@ -1,5 +1,5 @@
 [title]
-Invata-ma sa cred {author: {Anonim}, {rcId: {234009}}
+Invata-ma sa cred {composer: {Anonim}, {rcId: {234009}}
 
 [sequence]
 v1,v2,v3,v4

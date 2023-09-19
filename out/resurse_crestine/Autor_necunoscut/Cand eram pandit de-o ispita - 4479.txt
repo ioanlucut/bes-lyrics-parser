@@ -1,5 +1,5 @@
 [title]
-Cand eram pandit de-o ispita {author: {Anonim}, {rcId: {4479}}
+Cand eram pandit de-o ispita {composer: {Anonim}, {rcId: {4479}}
 
 [sequence]
 v1,c,v2,c,v3,c

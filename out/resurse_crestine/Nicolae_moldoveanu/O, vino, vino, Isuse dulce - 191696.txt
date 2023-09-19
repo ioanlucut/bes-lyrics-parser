@@ -1,5 +1,5 @@
 [title]
-O vino vino isuse dulce {author: {Nicolae Moldoveanu}, {rcId: {191696}}
+O vino vino isuse dulce {composer: {Nicolae Moldoveanu}, {rcId: {191696}}
 
 [sequence]
 v1,v2,v3,v4

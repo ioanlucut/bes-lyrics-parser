@@ -1,5 +1,5 @@
 [title]
-Ridica-ne {author: {Oniță Halunga}, {rcId: {160488}}
+Ridica-ne {composer: {Oniță Halunga}, {rcId: {160488}}
 
 [sequence]
 v1,b,b,c,c,e,c2,c2,

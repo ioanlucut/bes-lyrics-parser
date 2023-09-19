@@ -1,5 +1,5 @@
 [title]
-Vreau sa te cunosc mai mult {author: {Sunny Tranca, Filadelfia}, {rcId: {212565}}
+Vreau sa te cunosc mai mult {composer: {Sunny Tranca, Filadelfia}, {rcId: {212565}}
 
 [sequence]
 v1,c,c,e

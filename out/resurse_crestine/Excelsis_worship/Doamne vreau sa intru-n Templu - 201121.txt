@@ -1,5 +1,5 @@
 [title]
-Doamne vreau sa intru-n templu {author: {Excelsis Worship}, {rcId: {201121}}
+Doamne vreau sa intru-n templu {composer: {Excelsis Worship}, {rcId: {201121}}
 
 [sequence]
 v1,c,e

@@ -1,5 +1,5 @@
 [title]
-Noi triumfam in lupta acum {author: {Anonim}, {rcId: {4344}}
+Noi triumfam in lupta acum {composer: {Anonim}, {rcId: {4344}}
 
 [sequence]
 v1,e,v2,v3,v4

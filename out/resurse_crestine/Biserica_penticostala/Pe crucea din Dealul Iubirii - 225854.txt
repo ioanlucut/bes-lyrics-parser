@@ -1,5 +1,5 @@
 [title]
-Pe crucea din dealul iubirii {author: {Biserica Penticostala}, {rcId: {225854}}
+Pe crucea din dealul iubirii {composer: {Biserica Penticostala}, {rcId: {225854}}
 
 [sequence]
 v1,v2,v3

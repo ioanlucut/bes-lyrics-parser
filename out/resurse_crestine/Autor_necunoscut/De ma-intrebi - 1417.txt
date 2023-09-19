@@ -1,5 +1,5 @@
 [title]
-De ma-intrebi {author: {Anonim}, {rcId: {1417}}
+De ma-intrebi {composer: {Anonim}, {rcId: {1417}}
 
 [sequence]
 v1,c,v2,c2

@@ -1,5 +1,5 @@
 [title]
-Dragostea lui hristos {author: {Rafael Dragomir}, {rcId: {151572}}
+Dragostea lui hristos {composer: {Rafael Dragomir}, {rcId: {151572}}
 
 [sequence]
 v1,c,v2,c,v3,c

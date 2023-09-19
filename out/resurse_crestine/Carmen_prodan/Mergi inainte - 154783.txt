@@ -1,5 +1,5 @@
 [title]
-Mergi inainte {author: {Carmen Prodan}, {rcId: {154783}}
+Mergi inainte {composer: {Carmen Prodan}, {rcId: {154783}}
 
 [sequence]
 v1,v2,v3

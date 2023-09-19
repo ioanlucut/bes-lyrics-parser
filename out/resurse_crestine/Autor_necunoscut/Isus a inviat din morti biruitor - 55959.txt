@@ -1,5 +1,5 @@
 [title]
-Isus a inviat din morti biruitor {author: {Anonim}, {rcId: {55959}}
+Isus a inviat din morti biruitor {composer: {Anonim}, {rcId: {55959}}
 
 [sequence]
 v1,c,v2,c2

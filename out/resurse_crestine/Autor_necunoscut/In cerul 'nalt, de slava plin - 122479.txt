@@ -1,5 +1,5 @@
 [title]
-In cerul nalt de slava plin {author: {Anonim}, {rcId: {122479}}
+In cerul nalt de slava plin {composer: {Anonim}, {rcId: {122479}}
 
 [sequence]
 v1,v2,v3,v4,v5

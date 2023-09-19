@@ -1,5 +1,5 @@
 [title]
-Inviat i will rise {author: {BBSO}, {rcId: {214230}}
+Inviat i will rise {composer: {BBSO}, {rcId: {214230}}
 
 [sequence]
 v1,c,v2,b,c

@@ -1,5 +1,5 @@
 [title]
-Tine-ma domnul meu {author: {Anonim}, {rcId: {219853}}
+Tine-ma domnul meu {composer: {Anonim}, {rcId: {219853}}
 
 [sequence]
 v1,c,v2,c,c

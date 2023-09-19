@@ -1,5 +1,5 @@
 [title]
-M-a salvat si m-a iertat {author: {Ionica si Adriana Stoica}, {rcId: {112358}}
+M-a salvat si m-a iertat {composer: {Ionica si Adriana Stoica}, {rcId: {112358}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,e

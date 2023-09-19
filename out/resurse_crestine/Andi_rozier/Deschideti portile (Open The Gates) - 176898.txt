@@ -1,5 +1,5 @@
 [title]
-Deschideti portile (open the gates) {author: {Andi Rozier, Traducere RO}, {rcId: {176898}}
+Deschideti portile (open the gates) {composer: {Andi Rozier, Traducere RO}, {rcId: {176898}}
 
 [sequence]
 v1,c,v2,b,c,s,c

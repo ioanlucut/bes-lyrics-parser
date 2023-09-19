@@ -1,5 +1,5 @@
 [title]
-Sunt vindecat {author: {Dan Muncaciu}, {rcId: {197795}}
+Sunt vindecat {composer: {Dan Muncaciu}, {rcId: {197795}}
 
 [sequence]
 v1,c,v2,c,e

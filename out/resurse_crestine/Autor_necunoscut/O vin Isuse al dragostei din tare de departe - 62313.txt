@@ -1,5 +1,5 @@
 [title]
-O vin isuse al dragostei din tare de departe {author: {Anonim}, {rcId: {62313}}
+O vin isuse al dragostei din tare de departe {composer: {Anonim}, {rcId: {62313}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8

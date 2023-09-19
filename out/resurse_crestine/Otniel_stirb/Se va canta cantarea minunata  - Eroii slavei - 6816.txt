@@ -1,5 +1,5 @@
 [title]
-Se va canta cantarea minunata / eroii slavei {author: {Otniel Stirb}, {rcId: {6816}}
+Se va canta cantarea minunata / eroii slavei {composer: {Otniel Stirb}, {rcId: {6816}}
 
 [sequence]
 v1,c,v2,c,v3,c

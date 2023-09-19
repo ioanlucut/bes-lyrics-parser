@@ -1,5 +1,5 @@
 [title]
-Nu voi putea {author: {Mariana Mesaroș}, {rcId: {98569}}
+Nu voi putea {composer: {Mariana Mesaroș}, {rcId: {98569}}
 
 [sequence]
 v1,c,v2,c2

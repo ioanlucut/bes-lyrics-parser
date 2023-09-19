@@ -1,5 +1,5 @@
 [title]
-Pavel si sila {author: {Alexandru Groza}, {rcId: {193648}}
+Pavel si sila {composer: {Alexandru Groza}, {rcId: {193648}}
 
 [sequence]
 v1,c,v2,c2,e

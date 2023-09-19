@@ -1,5 +1,5 @@
 [title]
-El m-a ales (he chose me) {author: {Mosie Lister, Traducere RO}, {rcId: {90865}}
+El m-a ales (he chose me) {composer: {Mosie Lister, Traducere RO}, {rcId: {90865}}
 
 [sequence]
 v1,v2,c,s,c

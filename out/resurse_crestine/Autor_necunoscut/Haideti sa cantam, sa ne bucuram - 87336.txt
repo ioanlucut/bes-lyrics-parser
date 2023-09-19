@@ -1,5 +1,5 @@
 [title]
-Haideti sa cantam sa ne bucuram {author: {Anonim}, {rcId: {87336}}
+Haideti sa cantam sa ne bucuram {composer: {Anonim}, {rcId: {87336}}
 
 [sequence]
 v1,c,v2,c,v3,c

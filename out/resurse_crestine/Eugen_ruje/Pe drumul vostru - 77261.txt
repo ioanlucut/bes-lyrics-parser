@@ -1,5 +1,5 @@
 [title]
-Pe drumul vostru {author: {Eugen Ruje.}, {rcId: {77261}}
+Pe drumul vostru {composer: {Eugen Ruje.}, {rcId: {77261}}
 
 [sequence]
 v1,c

@@ -1,5 +1,5 @@
 [title]
-In numele tau {author: {Daniel Ardelean}, {rcId: {197882}}
+In numele tau {composer: {Daniel Ardelean}, {rcId: {197882}}
 
 [sequence]
 c,v1,c,e

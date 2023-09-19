@@ -1,5 +1,5 @@
 [title]
-In noaptea sfanta (wsrod nocnej ciszy) {author: {Colind polonez, Traducere RO}, {rcId: {142746}}
+In noaptea sfanta (wsrod nocnej ciszy) {composer: {Colind polonez, Traducere RO}, {rcId: {142746}}
 
 [sequence]
 v1,v2,v3,s

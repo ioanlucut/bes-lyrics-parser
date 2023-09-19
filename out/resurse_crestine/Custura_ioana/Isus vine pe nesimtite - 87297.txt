@@ -1,5 +1,5 @@
 [title]
-Isus vine pe nesimtite {author: {Custură Ioana}, {rcId: {87297}}
+Isus vine pe nesimtite {composer: {Custură Ioana}, {rcId: {87297}}
 
 [sequence]
 v1,b,c

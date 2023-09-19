@@ -1,5 +1,5 @@
 [title]
-Drumul mantuirii sfinte {author: {Nicolae Moldoveanu}, {rcId: {200104}}
+Drumul mantuirii sfinte {composer: {Nicolae Moldoveanu}, {rcId: {200104}}
 
 [sequence]
 v1,c,v2,c,v3,c

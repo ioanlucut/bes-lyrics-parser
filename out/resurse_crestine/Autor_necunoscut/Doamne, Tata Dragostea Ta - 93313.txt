@@ -1,5 +1,5 @@
 [title]
-Doamne tata dragostea ta {author: {Anonim}, {rcId: {93313}}
+Doamne tata dragostea ta {composer: {Anonim}, {rcId: {93313}}
 
 [sequence]
 v1,c

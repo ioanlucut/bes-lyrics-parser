@@ -1,5 +1,5 @@
 [title]
-Leagan pe nil {author: {Nicu Wagner}, {rcId: {61642}}
+Leagan pe nil {composer: {Nicu Wagner}, {rcId: {61642}}
 
 [sequence]
 v1,v2,v3,v4,v5

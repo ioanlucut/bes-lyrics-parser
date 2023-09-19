@@ -1,5 +1,5 @@
 [title]
-Azi domnul e pastorul meu {author: {Anonim}, {rcId: {7197}}
+Azi domnul e pastorul meu {composer: {Anonim}, {rcId: {7197}}
 
 [sequence]
 v1,c,v2,c,v3,c

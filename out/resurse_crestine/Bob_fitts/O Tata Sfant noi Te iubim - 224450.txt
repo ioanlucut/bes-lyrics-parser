@@ -1,5 +1,5 @@
 [title]
-O tata sfant noi te iubim {author: {Bob Fitts}, {rcId: {224450}}
+O tata sfant noi te iubim {composer: {Bob Fitts}, {rcId: {224450}}
 
 [sequence]
 v1,c

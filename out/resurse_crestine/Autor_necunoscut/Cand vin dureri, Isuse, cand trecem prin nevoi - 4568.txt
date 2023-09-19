@@ -1,5 +1,5 @@
 [title]
-Cand vin dureri isuse cand trecem prin nevoi {author: {Anonim}, {rcId: {4568}}
+Cand vin dureri isuse cand trecem prin nevoi {composer: {Anonim}, {rcId: {4568}}
 
 [sequence]
 v1,v2,v3

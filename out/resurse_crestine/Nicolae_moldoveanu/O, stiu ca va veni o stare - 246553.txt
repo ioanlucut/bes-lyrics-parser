@@ -1,5 +1,5 @@
 [title]
-O stiu ca va veni o stare {author: {Nicolae Moldoveanu}, {rcId: {246553}}
+O stiu ca va veni o stare {composer: {Nicolae Moldoveanu}, {rcId: {246553}}
 
 [sequence]
 v1,v2,v3

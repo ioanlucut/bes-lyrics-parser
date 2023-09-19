@@ -1,5 +1,5 @@
 [title]
-Sa nu merg dupa un strain {author: {Nicolae Moldoveanu}, {rcId: {5877}}
+Sa nu merg dupa un strain {composer: {Nicolae Moldoveanu}, {rcId: {5877}}
 
 [sequence]
 v1,v2,v3,v4

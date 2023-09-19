@@ -1,5 +1,5 @@
 [title]
-Rugamu-ne isuse pastorul indurarii {author: {Nicolae Moldoveanu}, {rcId: {244422}}
+Rugamu-ne isuse pastorul indurarii {composer: {Nicolae Moldoveanu}, {rcId: {244422}}
 
 [sequence]
 v1,v2,v3

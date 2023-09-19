@@ -1,5 +1,5 @@
 [title]
-Ma-nchin isus inaintea ta si chem a ta prezenta (esti printre noi isus iubit) {author: {Familia Mihai}, {rcId: {225321}}
+Ma-nchin isus inaintea ta si chem a ta prezenta (esti printre noi isus iubit) {composer: {Familia Mihai}, {rcId: {225321}}
 
 [sequence]
 v1,c,v2,c,v3,c2

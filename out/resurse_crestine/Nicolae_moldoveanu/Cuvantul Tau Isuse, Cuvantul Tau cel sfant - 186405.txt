@@ -1,5 +1,5 @@
 [title]
-Cuvantul tau isuse cuvantul tau cel sfant {author: {Nicolae Moldoveanu}, {rcId: {186405}}
+Cuvantul tau isuse cuvantul tau cel sfant {composer: {Nicolae Moldoveanu}, {rcId: {186405}}
 
 [sequence]
 v1,v2,v3,v4

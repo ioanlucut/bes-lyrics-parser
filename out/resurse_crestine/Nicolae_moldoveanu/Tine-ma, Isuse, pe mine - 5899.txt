@@ -1,5 +1,5 @@
 [title]
-Tine-ma isuse pe mine {author: {Nicolae Moldoveanu}, {rcId: {5899}}
+Tine-ma isuse pe mine {composer: {Nicolae Moldoveanu}, {rcId: {5899}}
 
 [sequence]
 v1,v2,v3,v4

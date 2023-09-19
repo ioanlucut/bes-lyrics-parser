@@ -1,5 +1,5 @@
 [title]
-Nu-mi stinge steaua {author: {Anonim}, {rcId: {157392}}
+Nu-mi stinge steaua {composer: {Anonim}, {rcId: {157392}}
 
 [sequence]
 v1,c,v2,c

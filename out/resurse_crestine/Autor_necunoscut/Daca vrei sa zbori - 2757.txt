@@ -1,5 +1,5 @@
 [title]
-Daca vrei sa zbori {author: {Anonim}, {rcId: {2757}}
+Daca vrei sa zbori {composer: {Anonim}, {rcId: {2757}}
 
 [sequence]
 v1,v2,v3,v4

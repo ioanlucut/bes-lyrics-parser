@@ -1,5 +1,5 @@
 [title]
-Dar noi stim ca vine-o zi {author: {Leleu Niculae}, {rcId: {75227}}
+Dar noi stim ca vine-o zi {composer: {Leleu Niculae}, {rcId: {75227}}
 
 [sequence]
 c,v1,c,v2,c

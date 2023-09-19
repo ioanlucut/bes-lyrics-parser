@@ -1,5 +1,5 @@
 [title]
-Doar pe tine doamne te am {author: {Anonim}, {rcId: {62653}}
+Doar pe tine doamne te am {composer: {Anonim}, {rcId: {62653}}
 
 [sequence]
 v1,c

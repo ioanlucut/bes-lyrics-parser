@@ -1,5 +1,5 @@
 [title]
-Glorie {author: {Anonim}, {rcId: {1252}}
+Glorie {composer: {Anonim}, {rcId: {1252}}
 
 [sequence]
 v1,c

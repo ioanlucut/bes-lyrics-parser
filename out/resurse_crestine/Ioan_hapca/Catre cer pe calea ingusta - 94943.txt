@@ -1,5 +1,5 @@
 [title]
-Catre cer pe calea ingusta {author: {Ioan Hapca}, {rcId: {94943}}
+Catre cer pe calea ingusta {composer: {Ioan Hapca}, {rcId: {94943}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-O domnul meu si dumnezeu preasfant {author: {Beni Cibu}, {rcId: {218836}}
+O domnul meu si dumnezeu preasfant {composer: {Beni Cibu}, {rcId: {218836}}
 
 [sequence]
 v1,c,v2,c,v3,c

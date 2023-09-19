@@ -1,5 +1,5 @@
 [title]
-Cel ce stii {author: {Monica Turtoi}, {rcId: {190874}}
+Cel ce stii {composer: {Monica Turtoi}, {rcId: {190874}}
 
 [sequence]
 v1,c,v2,c

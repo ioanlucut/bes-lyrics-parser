@@ -1,5 +1,5 @@
 [title]
-Ce pecete pui pe clipa {author: {Anonim}, {rcId: {2154}}
+Ce pecete pui pe clipa {composer: {Anonim}, {rcId: {2154}}
 
 [sequence]
 v1,c,v2,c,v3,c

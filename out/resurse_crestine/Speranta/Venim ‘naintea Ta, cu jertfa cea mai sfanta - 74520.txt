@@ -1,5 +1,5 @@
 [title]
-Venim naintea ta cu jertfa cea mai sfanta {author: {Speranța}, {rcId: {74520}}
+Venim naintea ta cu jertfa cea mai sfanta {composer: {Speranța}, {rcId: {74520}}
 
 [sequence]
 v1,c,v2,c,v3,c

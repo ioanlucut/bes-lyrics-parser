@@ -1,5 +1,5 @@
 [title]
-Am sa-ti spun despre - te-am iubit {author: {Eugen Tifrea}, {rcId: {153464}}
+Am sa-ti spun despre - te-am iubit {composer: {Eugen Tifrea}, {rcId: {153464}}
 
 [sequence]
 v1,c

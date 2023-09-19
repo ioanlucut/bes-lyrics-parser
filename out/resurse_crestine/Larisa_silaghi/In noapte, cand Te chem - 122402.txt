@@ -1,5 +1,5 @@
 [title]
-In noapte cand te chem {author: {Larisa Silaghi}, {rcId: {122402}}
+In noapte cand te chem {composer: {Larisa Silaghi}, {rcId: {122402}}
 
 [sequence]
 v1,c,v2,c,v3,c

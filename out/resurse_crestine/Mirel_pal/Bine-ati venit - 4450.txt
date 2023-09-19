@@ -1,5 +1,5 @@
 [title]
-Bine-ati venit {author: {Mirel Pal}, {rcId: {4450}}
+Bine-ati venit {composer: {Mirel Pal}, {rcId: {4450}}
 
 [sequence]
 v1,e,v2,v3

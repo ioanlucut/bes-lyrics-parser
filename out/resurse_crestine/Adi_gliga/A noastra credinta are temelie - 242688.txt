@@ -1,5 +1,5 @@
 [title]
-A noastra credinta are temelie {author: {Adi Gliga}, {rcId: {242688}}
+A noastra credinta are temelie {composer: {Adi Gliga}, {rcId: {242688}}
 
 [sequence]
 v1,v2

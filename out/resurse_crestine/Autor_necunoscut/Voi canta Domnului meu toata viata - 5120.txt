@@ -1,5 +1,5 @@
 [title]
-Voi canta domnului meu toata viata {author: {Anonim}, {rcId: {5120}}
+Voi canta domnului meu toata viata {composer: {Anonim}, {rcId: {5120}}
 
 [sequence]
 v1,c

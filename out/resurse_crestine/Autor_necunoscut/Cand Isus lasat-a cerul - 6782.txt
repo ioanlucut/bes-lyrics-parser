@@ -1,5 +1,5 @@
 [title]
-Cand isus lasat-a cerul {author: {Anonim}, {rcId: {6782}}
+Cand isus lasat-a cerul {composer: {Anonim}, {rcId: {6782}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

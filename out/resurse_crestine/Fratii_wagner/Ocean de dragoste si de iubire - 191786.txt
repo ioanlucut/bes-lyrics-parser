@@ -1,5 +1,5 @@
 [title]
-Ocean de dragoste si de iubire {author: {Frații Wagner}, {rcId: {191786}}
+Ocean de dragoste si de iubire {composer: {Frații Wagner}, {rcId: {191786}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Eroii credintei {author: {Cătălin și Ramona Lup}, {rcId: {190352}}
+Eroii credintei {composer: {Cătălin și Ramona Lup}, {rcId: {190352}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

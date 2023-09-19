@@ -1,5 +1,5 @@
 [title]
-Oricat de frumos odata {author: {Nicolae Moldoveanu}, {rcId: {5854}}
+Oricat de frumos odata {composer: {Nicolae Moldoveanu}, {rcId: {5854}}
 
 [sequence]
 v1,v2,v3,v4

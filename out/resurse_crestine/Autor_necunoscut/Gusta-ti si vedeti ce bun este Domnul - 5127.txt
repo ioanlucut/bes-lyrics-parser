@@ -1,5 +1,5 @@
 [title]
-Gusta-ti si vedeti ce bun este domnul {author: {Anonim}, {rcId: {5127}}
+Gusta-ti si vedeti ce bun este domnul {composer: {Anonim}, {rcId: {5127}}
 
 [sequence]
 c,v1,c,v2,c

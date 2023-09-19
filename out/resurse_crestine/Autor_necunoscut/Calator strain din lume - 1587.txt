@@ -1,5 +1,5 @@
 [title]
-Calator strain din lume {author: {Anonim}, {rcId: {1587}}
+Calator strain din lume {composer: {Anonim}, {rcId: {1587}}
 
 [sequence]
 v1,c,v2,c,v3,c

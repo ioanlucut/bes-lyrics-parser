@@ -1,5 +1,5 @@
 [title]
-Copacul meu {author: {Iulia Contis}, {rcId: {240233}}
+Copacul meu {composer: {Iulia Contis}, {rcId: {240233}}
 
 [sequence]
 v1,v2

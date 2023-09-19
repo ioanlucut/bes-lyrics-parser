@@ -1,5 +1,5 @@
 [title]
-Isus e al meu si eu sunt a lui {author: {Anonim}, {rcId: {74364}}
+Isus e al meu si eu sunt a lui {composer: {Anonim}, {rcId: {74364}}
 
 [sequence]
 v1,c,v2,c

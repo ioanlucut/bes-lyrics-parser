@@ -1,5 +1,5 @@
 [title]
-Fa-ti o corabie {author: {Speranța}, {rcId: {59401}}
+Fa-ti o corabie {composer: {Speranța}, {rcId: {59401}}
 
 [sequence]
 v1,c,v2,c,v3,c

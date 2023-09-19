@@ -1,5 +1,5 @@
 [title]
-O atunci isuse-n templu {author: {Nicolae Moldoveanu}, {rcId: {244551}}
+O atunci isuse-n templu {composer: {Nicolae Moldoveanu}, {rcId: {244551}}
 
 [sequence]
 v1,v2,v3,v4

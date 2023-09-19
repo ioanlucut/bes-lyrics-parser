@@ -1,5 +1,5 @@
 [title]
-S-a nascut isus {author: {Speranța}, {rcId: {4392}}
+S-a nascut isus {composer: {Speranța}, {rcId: {4392}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c2

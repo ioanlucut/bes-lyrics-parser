@@ -1,5 +1,5 @@
 [title]
-Ce-ndemn adanc {author: {Nicolae Moldoveanu}, {rcId: {246466}}
+Ce-ndemn adanc {composer: {Nicolae Moldoveanu}, {rcId: {246466}}
 
 [sequence]
 v1,v2,v3,v4

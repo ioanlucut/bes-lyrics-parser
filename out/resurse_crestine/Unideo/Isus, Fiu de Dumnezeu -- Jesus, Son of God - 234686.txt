@@ -1,5 +1,5 @@
 [title]
-Isus fiu de dumnezeu // jesus son of god {author: {UniDEO}, {rcId: {234686}}
+Isus fiu de dumnezeu // jesus son of god {composer: {UniDEO}, {rcId: {234686}}
 
 [sequence]
 v1,c,v2,c,e,e2

@@ -1,5 +1,5 @@
 [title]
-Sufletul meu ti-l inchin {author: {Nicolae Moldoveanu}, {rcId: {240870}}
+Sufletul meu ti-l inchin {composer: {Nicolae Moldoveanu}, {rcId: {240870}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Nu dezbracati armura {author: {Nicolae Moldoveanu}, {rcId: {246190}}
+Nu dezbracati armura {composer: {Nicolae Moldoveanu}, {rcId: {246190}}
 
 [sequence]
 v1,v2,v3,v4

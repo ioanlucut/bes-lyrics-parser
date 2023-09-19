@@ -1,5 +1,5 @@
 [title]
-Dumnezeu este vesnic viu {author: {Otto Pascal}, {rcId: {190825}}
+Dumnezeu este vesnic viu {composer: {Otto Pascal}, {rcId: {190825}}
 
 [sequence]
 v1,c,v2,c,e

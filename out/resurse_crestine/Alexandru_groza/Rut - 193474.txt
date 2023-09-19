@@ -1,5 +1,5 @@
 [title]
-Rut {author: {Alexandru Groza}, {rcId: {193474}}
+Rut {composer: {Alexandru Groza}, {rcId: {193474}}
 
 [sequence]
 v1,c

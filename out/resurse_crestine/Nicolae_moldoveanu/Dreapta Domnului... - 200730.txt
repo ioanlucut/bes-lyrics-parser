@@ -1,5 +1,5 @@
 [title]
-Dreapta domnului {author: {Nicolae Moldoveanu}, {rcId: {200730}}
+Dreapta domnului {composer: {Nicolae Moldoveanu}, {rcId: {200730}}
 
 [sequence]
 v1,v2,v3,v4

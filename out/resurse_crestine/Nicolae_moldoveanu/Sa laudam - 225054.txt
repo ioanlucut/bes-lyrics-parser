@@ -1,5 +1,5 @@
 [title]
-Sa laudam {author: {Nicolae Moldoveanu}, {rcId: {225054}}
+Sa laudam {composer: {Nicolae Moldoveanu}, {rcId: {225054}}
 
 [sequence]
 v1,v2

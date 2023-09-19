@@ -1,5 +1,5 @@
 [title]
-La umbra aripilor {author: {Floria Simon Maria}, {rcId: {166925}}
+La umbra aripilor {composer: {Floria Simon Maria}, {rcId: {166925}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

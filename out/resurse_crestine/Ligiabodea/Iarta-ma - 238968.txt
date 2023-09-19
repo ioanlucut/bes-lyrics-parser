@@ -1,5 +1,5 @@
 [title]
-Iarta-ma {author: {Ligia_Bodea}, {rcId: {238968}}
+Iarta-ma {composer: {Ligia_Bodea}, {rcId: {238968}}
 
 [sequence]
 v1,c,v2,c

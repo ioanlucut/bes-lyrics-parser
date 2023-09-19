@@ -1,5 +1,5 @@
 [title]
-Din cuvant eu am aflat {author: {Alexandru Groza}, {rcId: {3000}}
+Din cuvant eu am aflat {composer: {Alexandru Groza}, {rcId: {3000}}
 
 [sequence]
 v1,c,v2,c

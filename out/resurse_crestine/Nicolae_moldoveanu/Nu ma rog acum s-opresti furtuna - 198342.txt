@@ -1,5 +1,5 @@
 [title]
-Nu ma rog acum s-opresti furtuna {author: {Nicolae Moldoveanu}, {rcId: {198342}}
+Nu ma rog acum s-opresti furtuna {composer: {Nicolae Moldoveanu}, {rcId: {198342}}
 
 [sequence]
 v1,v2,v3,v4

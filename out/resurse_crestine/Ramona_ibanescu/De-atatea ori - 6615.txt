@@ -1,5 +1,5 @@
 [title]
-De-atatea ori {author: {Ramona Ibănescu}, {rcId: {6615}}
+De-atatea ori {composer: {Ramona Ibănescu}, {rcId: {6615}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

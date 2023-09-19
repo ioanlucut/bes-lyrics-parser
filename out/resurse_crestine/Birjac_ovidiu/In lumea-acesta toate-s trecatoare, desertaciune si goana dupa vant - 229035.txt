@@ -1,5 +1,5 @@
 [title]
-In lumea-acesta toate-s trecatoare desertaciune si goana dupa vant {author: {Birjac Ovidiu}, {rcId: {229035}}
+In lumea-acesta toate-s trecatoare desertaciune si goana dupa vant {composer: {Birjac Ovidiu}, {rcId: {229035}}
 
 [sequence]
 v1,v2,v3,v4

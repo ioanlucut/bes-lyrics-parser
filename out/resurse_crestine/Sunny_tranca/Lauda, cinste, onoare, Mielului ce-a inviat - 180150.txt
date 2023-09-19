@@ -1,5 +1,5 @@
 [title]
-Lauda cinste onoare mielului ce-a inviat {author: {Sunny Tranca}, {rcId: {180150}}
+Lauda cinste onoare mielului ce-a inviat {composer: {Sunny Tranca}, {rcId: {180150}}
 
 [sequence]
 v1,c,v2,b,c

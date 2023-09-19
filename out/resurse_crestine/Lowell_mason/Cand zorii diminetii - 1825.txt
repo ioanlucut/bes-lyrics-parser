@@ -1,5 +1,5 @@
 [title]
-Cand zorii diminetii {author: {Lowell Mason}, {rcId: {1825}}
+Cand zorii diminetii {composer: {Lowell Mason}, {rcId: {1825}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Atati bolnavi te-asteapta doamne {author: {Familia Fira}, {rcId: {60300}}
+Atati bolnavi te-asteapta doamne {composer: {Familia Fira}, {rcId: {60300}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Nu uita c-ai fost smuls din pierzare {author: {Nicolae Moldoveanu}, {rcId: {4023}}
+Nu uita c-ai fost smuls din pierzare {composer: {Nicolae Moldoveanu}, {rcId: {4023}}
 
 [sequence]
 v1,v2,v3,v4,v5

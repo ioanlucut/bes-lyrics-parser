@@ -1,5 +1,5 @@
 [title]
-De n-ai fi fost de partea noastra {author: {Nicolae Moldoveanu}, {rcId: {60494}}
+De n-ai fi fost de partea noastra {composer: {Nicolae Moldoveanu}, {rcId: {60494}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

@@ -1,5 +1,5 @@
 [title]
-Sfatul tatalui {author: {Nicolae Moldoveanu}, {rcId: {230681}}
+Sfatul tatalui {composer: {Nicolae Moldoveanu}, {rcId: {230681}}
 
 [sequence]
 v1,v2,v3,v4

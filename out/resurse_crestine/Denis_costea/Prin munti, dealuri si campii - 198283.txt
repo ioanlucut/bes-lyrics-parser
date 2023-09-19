@@ -1,5 +1,5 @@
 [title]
-Prin munti dealuri si campii {author: {Denis Costea}, {rcId: {198283}}
+Prin munti dealuri si campii {composer: {Denis Costea}, {rcId: {198283}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

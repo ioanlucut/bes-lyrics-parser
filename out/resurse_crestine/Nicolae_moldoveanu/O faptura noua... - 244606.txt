@@ -1,5 +1,5 @@
 [title]
-O faptura noua {author: {Nicolae Moldoveanu}, {rcId: {244606}}
+O faptura noua {composer: {Nicolae Moldoveanu}, {rcId: {244606}}
 
 [sequence]
 v1,v2,v3,v4

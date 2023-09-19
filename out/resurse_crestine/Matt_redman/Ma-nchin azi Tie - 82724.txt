@@ -1,5 +1,5 @@
 [title]
-Ma-nchin azi tie {author: {Matt Redman}, {rcId: {82724}}
+Ma-nchin azi tie {composer: {Matt Redman}, {rcId: {82724}}
 
 [sequence]
 v1,c,v2,c

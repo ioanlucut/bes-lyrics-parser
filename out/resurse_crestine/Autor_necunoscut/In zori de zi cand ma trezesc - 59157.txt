@@ -1,5 +1,5 @@
 [title]
-In zori de zi cand ma trezesc {author: {Anonim}, {rcId: {59157}}
+In zori de zi cand ma trezesc {composer: {Anonim}, {rcId: {59157}}
 
 [sequence]
 v1,c,v2,c,v3,c

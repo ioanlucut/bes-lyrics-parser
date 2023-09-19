@@ -1,5 +1,5 @@
 [title]
-Orbul bartimeu {author: {Ovidiu Liteanu}, {rcId: {109094}}
+Orbul bartimeu {composer: {Ovidiu Liteanu}, {rcId: {109094}}
 
 [sequence]
 v1,c,v2,c,v3,c

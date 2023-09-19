@@ -1,5 +1,5 @@
 [title]
-Casa unde isus e domn (the old country church) {author: {James D. Vaughan, Traducere RO}, {rcId: {161479}}
+Casa unde isus e domn (the old country church) {composer: {James D. Vaughan, Traducere RO}, {rcId: {161479}}
 
 [sequence]
 v1,c,v2,c,v3,c,s,c

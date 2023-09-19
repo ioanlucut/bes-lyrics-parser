@@ -1,5 +1,5 @@
 [title]
-Mai rabda mai lupta {author: {Damaris Azamfirei}, {rcId: {179048}}
+Mai rabda mai lupta {composer: {Damaris Azamfirei}, {rcId: {179048}}
 
 [sequence]
 v1,c,v2,c,e,e2

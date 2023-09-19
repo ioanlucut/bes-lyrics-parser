@@ -1,5 +1,5 @@
 [title]
-Ridica-ti ochii catre cer {author: {Pavel Mariana, Florica}, {rcId: {6548}}
+Ridica-ti ochii catre cer {composer: {Pavel Mariana, Florica}, {rcId: {6548}}
 
 [sequence]
 v1,v2,v3,v4

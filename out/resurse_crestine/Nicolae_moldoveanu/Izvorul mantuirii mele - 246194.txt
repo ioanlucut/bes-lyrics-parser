@@ -1,5 +1,5 @@
 [title]
-Izvorul mantuirii mele {author: {Nicolae Moldoveanu}, {rcId: {246194}}
+Izvorul mantuirii mele {composer: {Nicolae Moldoveanu}, {rcId: {246194}}
 
 [sequence]
 v1,v2,v3,v4,v5

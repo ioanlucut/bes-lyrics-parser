@@ -1,5 +1,5 @@
 [title]
-M-am rugat ca si psalmistul {author: {Fratii Pal}, {rcId: {239414}}
+M-am rugat ca si psalmistul {composer: {Fratii Pal}, {rcId: {239414}}
 
 [sequence]
 v1,c,v2,c,v3,c

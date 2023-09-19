@@ -1,5 +1,5 @@
 [title]
-La nunta voastra noi am venit {author: {Speranța}, {rcId: {74255}}
+La nunta voastra noi am venit {composer: {Speranța}, {rcId: {74255}}
 
 [sequence]
 v1,c,v2,c,v3,c

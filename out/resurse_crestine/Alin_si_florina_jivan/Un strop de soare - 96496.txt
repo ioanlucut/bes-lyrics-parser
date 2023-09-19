@@ -1,5 +1,5 @@
 [title]
-Un strop de soare {author: {Alin și Florina Jivan}, {rcId: {96496}}
+Un strop de soare {composer: {Alin și Florina Jivan}, {rcId: {96496}}
 
 [sequence]
 v1,c,v2,c

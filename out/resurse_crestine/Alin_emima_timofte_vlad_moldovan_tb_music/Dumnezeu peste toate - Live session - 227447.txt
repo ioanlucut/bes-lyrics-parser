@@ -1,5 +1,5 @@
 [title]
-Dumnezeu peste toate - live session {author: {Alin, Emima Timofte, Vlad Moldovan, TB Music}, {rcId: {227447}}
+Dumnezeu peste toate - live session {composer: {Alin, Emima Timofte, Vlad Moldovan, TB Music}, {rcId: {227447}}
 
 [sequence]
 v1,c,v2,c,e,c

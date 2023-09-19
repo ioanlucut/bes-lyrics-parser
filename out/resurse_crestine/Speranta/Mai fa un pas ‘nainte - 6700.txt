@@ -1,5 +1,5 @@
 [title]
-Mai fa un pas nainte {author: {Speranța}, {rcId: {6700}}
+Mai fa un pas nainte {composer: {Speranța}, {rcId: {6700}}
 
 [sequence]
 v1,v2,v3

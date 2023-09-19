@@ -1,5 +1,5 @@
 [title]
-Veniti cantati lui dumnezeu {author: {Alexandru Groza}, {rcId: {110990}}
+Veniti cantati lui dumnezeu {composer: {Alexandru Groza}, {rcId: {110990}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c

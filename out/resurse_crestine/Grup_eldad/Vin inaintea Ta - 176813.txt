@@ -1,5 +1,5 @@
 [title]
-Vin inaintea ta {author: {Grup Eldad}, {rcId: {176813}}
+Vin inaintea ta {composer: {Grup Eldad}, {rcId: {176813}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

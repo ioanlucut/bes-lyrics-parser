@@ -1,5 +1,5 @@
 [title]
-Iarta-ma doamne {author: {Lupșea George}, {rcId: {6994}}
+Iarta-ma doamne {composer: {Lupșea George}, {rcId: {6994}}
 
 [sequence]
 v1,c,v2,c,v3,c

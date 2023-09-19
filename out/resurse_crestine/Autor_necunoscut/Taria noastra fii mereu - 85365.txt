@@ -1,5 +1,5 @@
 [title]
-Taria noastra fii mereu {author: {Anonim}, {rcId: {85365}}
+Taria noastra fii mereu {composer: {Anonim}, {rcId: {85365}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Iahwe {author: {Beniamin Palincaș}, {rcId: {244446}}
+Iahwe {composer: {Beniamin Palincaș}, {rcId: {244446}}
 
 [sequence]
 v1,c,v2,c,e

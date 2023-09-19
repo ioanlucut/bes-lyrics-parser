@@ -1,5 +1,5 @@
 [title]
-Veniti cantati bunatatea lui {author: {Anonim}, {rcId: {5112}}
+Veniti cantati bunatatea lui {composer: {Anonim}, {rcId: {5112}}
 
 [sequence]
 v1,c,e

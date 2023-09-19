@@ -1,5 +1,5 @@
 [title]
-E putere {author: {Florin Fill Bodnariuc}, {rcId: {165245}}
+E putere {composer: {Florin Fill Bodnariuc}, {rcId: {165245}}
 
 [sequence]
 v1,c,v2,b,c

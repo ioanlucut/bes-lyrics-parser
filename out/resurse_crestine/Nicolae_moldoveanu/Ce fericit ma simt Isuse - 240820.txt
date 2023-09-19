@@ -1,5 +1,5 @@
 [title]
-Ce fericit ma simt isuse {author: {Nicolae Moldoveanu}, {rcId: {240820}}
+Ce fericit ma simt isuse {composer: {Nicolae Moldoveanu}, {rcId: {240820}}
 
 [sequence]
 v1,v2,v3,v4,v5

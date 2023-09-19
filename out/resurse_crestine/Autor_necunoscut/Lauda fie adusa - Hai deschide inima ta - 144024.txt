@@ -1,5 +1,5 @@
 [title]
-Lauda fie adusa - hai deschide inima ta {author: {Necunoscut}, {rcId: {144024}}
+Lauda fie adusa - hai deschide inima ta {composer: {Necunoscut}, {rcId: {144024}}
 
 [sequence]
 c,c,v1,c,e

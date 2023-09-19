@@ -1,5 +1,5 @@
 [title]
-Magdalena {author: {Utilizator Halasu Claudiu}, {rcId: {111630}}
+Magdalena {composer: {Utilizator Halasu Claudiu}, {rcId: {111630}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Olarul {author: {Speranța}, {rcId: {7174}}
+Olarul {composer: {Speranța}, {rcId: {7174}}
 
 [sequence]
 v1,c,c,e

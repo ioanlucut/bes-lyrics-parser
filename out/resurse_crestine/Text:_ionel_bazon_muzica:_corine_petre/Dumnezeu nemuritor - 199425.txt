@@ -1,5 +1,5 @@
 [title]
-Dumnezeu nemuritor {author: {Text: Ionel Bazon, Muzica: Corine Petre}, {rcId: {199425}}
+Dumnezeu nemuritor {composer: {Text: Ionel Bazon, Muzica: Corine Petre}, {rcId: {199425}}
 
 [sequence]
 v1,c,v2,c

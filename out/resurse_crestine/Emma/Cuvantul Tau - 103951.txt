@@ -1,5 +1,5 @@
 [title]
-Cuvantul tau {author: {Emma}, {rcId: {103951}}
+Cuvantul tau {composer: {Emma}, {rcId: {103951}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-La el vei gasi adapost {author: {Ionuț Crăciun}, {rcId: {78480}}
+La el vei gasi adapost {composer: {Ionuț Crăciun}, {rcId: {78480}}
 
 [sequence]
 v1,b,c,v2,c,e

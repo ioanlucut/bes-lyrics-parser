@@ -1,5 +1,5 @@
 [title]
-Sunt doar copil {author: {Anonim}, {rcId: {5168}}
+Sunt doar copil {composer: {Anonim}, {rcId: {5168}}
 
 [sequence]
 v1,c,v2,c,v3,c

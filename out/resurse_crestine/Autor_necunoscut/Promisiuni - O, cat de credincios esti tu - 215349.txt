@@ -1,5 +1,5 @@
 [title]
-Promisiuni - o cat de credincios esti tu {author: {Anonim}, {rcId: {215349}}
+Promisiuni - o cat de credincios esti tu {composer: {Anonim}, {rcId: {215349}}
 
 [sequence]
 v1,c,v2,c,b,c

@@ -1,5 +1,5 @@
 [title]
-Eternul timp {author: {Daniel Cazacu}, {rcId: {145827}}
+Eternul timp {composer: {Daniel Cazacu}, {rcId: {145827}}
 
 [sequence]
 v1,c

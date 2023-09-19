@@ -1,5 +1,5 @@
 [title]
-Ai murit pe cruce doamne pentru-al meu amar pacat {author: {Anonim}, {rcId: {6323}}
+Ai murit pe cruce doamne pentru-al meu amar pacat {composer: {Anonim}, {rcId: {6323}}
 
 [sequence]
 v1,v2,v3,v4

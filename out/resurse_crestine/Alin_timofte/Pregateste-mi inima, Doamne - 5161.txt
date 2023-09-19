@@ -1,5 +1,5 @@
 [title]
-Pregateste-mi inima doamne {author: {Alin Timofte}, {rcId: {5161}}
+Pregateste-mi inima doamne {composer: {Alin Timofte}, {rcId: {5161}}
 
 [sequence]
 c

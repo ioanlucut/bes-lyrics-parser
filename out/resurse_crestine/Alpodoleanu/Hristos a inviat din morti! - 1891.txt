@@ -1,5 +1,5 @@
 [title]
-Hristos a inviat din morti {author: {Al.Podoleanu}, {rcId: {1891}}
+Hristos a inviat din morti {composer: {Al.Podoleanu}, {rcId: {1891}}
 
 [sequence]
 c

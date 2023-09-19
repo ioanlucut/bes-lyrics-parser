@@ -1,5 +1,5 @@
 [title]
-O n-auzi tu ? {author: {Nicolae Moldoveanu}, {rcId: {246367}}
+O n-auzi tu ? {composer: {Nicolae Moldoveanu}, {rcId: {246367}}
 
 [sequence]
 v1,v2,v3,v4,v5

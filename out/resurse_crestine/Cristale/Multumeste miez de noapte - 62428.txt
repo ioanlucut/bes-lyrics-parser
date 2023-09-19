@@ -1,5 +1,5 @@
 [title]
-Multumeste miez de noapte {author: {Cristale}, {rcId: {62428}}
+Multumeste miez de noapte {composer: {Cristale}, {rcId: {62428}}
 
 [sequence]
 v1,c,v2,c,v3,c

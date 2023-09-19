@@ -1,5 +1,5 @@
 [title]
-In intunericul greu {author: {Anonim}, {rcId: {194647}}
+In intunericul greu {composer: {Anonim}, {rcId: {194647}}
 
 [sequence]
 v1,c,v2,c

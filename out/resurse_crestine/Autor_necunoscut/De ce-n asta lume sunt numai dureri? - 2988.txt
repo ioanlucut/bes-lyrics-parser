@@ -1,5 +1,5 @@
 [title]
-De ce-n asta lume sunt numai dureri? {author: {Anonim}, {rcId: {2988}}
+De ce-n asta lume sunt numai dureri? {composer: {Anonim}, {rcId: {2988}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

@@ -1,5 +1,5 @@
 [title]
-Preasfinte duh {author: {Traian Dorz}, {rcId: {1905}}
+Preasfinte duh {composer: {Traian Dorz}, {rcId: {1905}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Moment de lauda {author: {Evanghelion}, {rcId: {138196}}
+Moment de lauda {composer: {Evanghelion}, {rcId: {138196}}
 
 [sequence]
 v1,c,v2,c

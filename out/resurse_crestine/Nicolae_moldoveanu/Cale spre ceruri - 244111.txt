@@ -1,5 +1,5 @@
 [title]
-Cale spre ceruri {author: {Nicolae Moldoveanu}, {rcId: {244111}}
+Cale spre ceruri {composer: {Nicolae Moldoveanu}, {rcId: {244111}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Vestea buna-a rasunat (aniol pasterzom m'owil) {author: {Colind polonez, Traducere RO}, {rcId: {143502}}
+Vestea buna-a rasunat (aniol pasterzom m'owil) {composer: {Colind polonez, Traducere RO}, {rcId: {143502}}
 
 [sequence]
 v1,v2,v3,s

@@ -1,5 +1,5 @@
 [title]
-Arde inimoara-n piept {author: {Ionel Saran Bochis}, {rcId: {93471}}
+Arde inimoara-n piept {composer: {Ionel Saran Bochis}, {rcId: {93471}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

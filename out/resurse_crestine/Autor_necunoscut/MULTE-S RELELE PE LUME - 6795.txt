@@ -1,5 +1,5 @@
 [title]
-Multe-s relele pe lume {author: {Anonim}, {rcId: {6795}}
+Multe-s relele pe lume {composer: {Anonim}, {rcId: {6795}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

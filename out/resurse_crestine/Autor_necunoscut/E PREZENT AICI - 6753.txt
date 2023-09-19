@@ -1,5 +1,5 @@
 [title]
-E prezent aici {author: {Anonim}, {rcId: {6753}}
+E prezent aici {composer: {Anonim}, {rcId: {6753}}
 
 [sequence]
 v1,c,v2,c

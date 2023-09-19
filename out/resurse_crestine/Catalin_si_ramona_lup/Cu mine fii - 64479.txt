@@ -1,5 +1,5 @@
 [title]
-Cu mine fii {author: {Cătălin și Ramona Lup}, {rcId: {64479}}
+Cu mine fii {composer: {Cătălin și Ramona Lup}, {rcId: {64479}}
 
 [sequence]
 v1,v2,v3

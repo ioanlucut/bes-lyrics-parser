@@ -1,5 +1,5 @@
 [title]
-Spune cine {author: {Adi Gliga}, {rcId: {157798}}
+Spune cine {composer: {Adi Gliga}, {rcId: {157798}}
 
 [sequence]
 v1,c,v2,c

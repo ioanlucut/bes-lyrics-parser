@@ -1,5 +1,5 @@
 [title]
-Eu mi-am pus nadejdea-n domnul {author: {Alexandru Groza}, {rcId: {856}}
+Eu mi-am pus nadejdea-n domnul {composer: {Alexandru Groza}, {rcId: {856}}
 
 [sequence]
 v1,c,v2,c,v3,c

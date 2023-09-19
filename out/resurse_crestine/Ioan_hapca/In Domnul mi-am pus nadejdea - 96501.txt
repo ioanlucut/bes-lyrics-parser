@@ -1,5 +1,5 @@
 [title]
-In domnul mi-am pus nadejdea {author: {Ioan Hapca}, {rcId: {96501}}
+In domnul mi-am pus nadejdea {composer: {Ioan Hapca}, {rcId: {96501}}
 
 [sequence]
 v1,c,v2,c

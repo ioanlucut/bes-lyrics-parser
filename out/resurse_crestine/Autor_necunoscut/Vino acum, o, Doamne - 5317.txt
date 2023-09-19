@@ -1,5 +1,5 @@
 [title]
-Vino acum o doamne {author: {Anonim}, {rcId: {5317}}
+Vino acum o doamne {composer: {Anonim}, {rcId: {5317}}
 
 [sequence]
 v1,v2,v3,v4,v5

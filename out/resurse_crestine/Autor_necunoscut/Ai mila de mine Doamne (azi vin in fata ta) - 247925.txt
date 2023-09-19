@@ -1,5 +1,5 @@
 [title]
-Ai mila de mine doamne (azi vin in fata ta) {author: {Anonim}, {rcId: {247925}}
+Ai mila de mine doamne (azi vin in fata ta) {composer: {Anonim}, {rcId: {247925}}
 
 [sequence]
 v1,c,v2,c

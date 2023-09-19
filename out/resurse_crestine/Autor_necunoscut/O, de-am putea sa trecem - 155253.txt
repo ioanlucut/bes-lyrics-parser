@@ -1,5 +1,5 @@
 [title]
-O de-am putea sa trecem {author: {Anonim}, {rcId: {155253}}
+O de-am putea sa trecem {composer: {Anonim}, {rcId: {155253}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Vegheau pastorii turma {author: {Anonim}, {rcId: {168857}}
+Vegheau pastorii turma {composer: {Anonim}, {rcId: {168857}}
 
 [sequence]
 v1,c,e

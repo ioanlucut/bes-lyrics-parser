@@ -1,5 +1,5 @@
 [title]
-Nimic nu-i mai frumos in viata decat sa fii a lui isus {author: {Anonim}, {rcId: {195434}}
+Nimic nu-i mai frumos in viata decat sa fii a lui isus {composer: {Anonim}, {rcId: {195434}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

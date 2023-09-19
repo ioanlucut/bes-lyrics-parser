@@ -1,5 +1,5 @@
 [title]
-Bine e (   ) {author: {Anonim}, {rcId: {191912}}
+Bine e (   ) {composer: {Anonim}, {rcId: {191912}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

@@ -1,5 +1,5 @@
 [title]
-Tu esti domnul meu {author: {Florin Mesaroș}, {rcId: {158157}}
+Tu esti domnul meu {composer: {Florin Mesaroș}, {rcId: {158157}}
 
 [sequence]
 v1,c,v2,c

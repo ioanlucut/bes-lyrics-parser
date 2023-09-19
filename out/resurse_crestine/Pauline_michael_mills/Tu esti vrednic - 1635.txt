@@ -1,5 +1,5 @@
 [title]
-Tu esti vrednic {author: {Pauline Michael Mills}, {rcId: {1635}}
+Tu esti vrednic {composer: {Pauline Michael Mills}, {rcId: {1635}}
 
 [sequence]
 v1,c,v2,c2

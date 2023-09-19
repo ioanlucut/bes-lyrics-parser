@@ -1,5 +1,5 @@
 [title]
-Alb e micul ghiocel {author: {Nicolae Moldoveanu}, {rcId: {230717}}
+Alb e micul ghiocel {composer: {Nicolae Moldoveanu}, {rcId: {230717}}
 
 [sequence]
 v1,v2,v3

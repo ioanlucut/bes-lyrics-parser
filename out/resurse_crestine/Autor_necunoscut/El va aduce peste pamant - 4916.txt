@@ -1,5 +1,5 @@
 [title]
-El va aduce peste pamant {author: {Anonim}, {rcId: {4916}}
+El va aduce peste pamant {composer: {Anonim}, {rcId: {4916}}
 
 [sequence]
 v1,c,v2,c

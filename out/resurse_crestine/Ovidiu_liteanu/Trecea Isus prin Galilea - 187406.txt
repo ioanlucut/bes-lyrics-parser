@@ -1,5 +1,5 @@
 [title]
-Trecea isus prin galilea {author: {Ovidiu Liteanu}, {rcId: {187406}}
+Trecea isus prin galilea {composer: {Ovidiu Liteanu}, {rcId: {187406}}
 
 [sequence]
 v1,v2,v3,v4,v5

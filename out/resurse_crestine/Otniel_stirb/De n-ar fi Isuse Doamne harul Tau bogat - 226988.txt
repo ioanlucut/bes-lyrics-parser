@@ -1,5 +1,5 @@
 [title]
-De n-ar fi isuse doamne harul tau bogat {author: {Otniel Stirb}, {rcId: {226988}}
+De n-ar fi isuse doamne harul tau bogat {composer: {Otniel Stirb}, {rcId: {226988}}
 
 [sequence]
 v1,v2,v3,v4,v5

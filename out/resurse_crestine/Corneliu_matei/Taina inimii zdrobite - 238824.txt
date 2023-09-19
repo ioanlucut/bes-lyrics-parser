@@ -1,5 +1,5 @@
 [title]
-Taina inimii zdrobite {author: {Corneliu Matei}, {rcId: {238824}}
+Taina inimii zdrobite {composer: {Corneliu Matei}, {rcId: {238824}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Curand apare domnul {author: {Anonim}, {rcId: {3790}}
+Curand apare domnul {composer: {Anonim}, {rcId: {3790}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

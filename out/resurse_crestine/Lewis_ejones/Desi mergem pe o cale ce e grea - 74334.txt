@@ -1,5 +1,5 @@
 [title]
-Desi mergem pe o cale ce e grea {author: {Lewis E.Jones}, {rcId: {74334}}
+Desi mergem pe o cale ce e grea {composer: {Lewis E.Jones}, {rcId: {74334}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

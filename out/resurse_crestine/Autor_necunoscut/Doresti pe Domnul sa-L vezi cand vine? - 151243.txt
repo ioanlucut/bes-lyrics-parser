@@ -1,5 +1,5 @@
 [title]
-Doresti pe domnul sa-l vezi cand vine? {author: {Anonim}, {rcId: {151243}}
+Doresti pe domnul sa-l vezi cand vine? {composer: {Anonim}, {rcId: {151243}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

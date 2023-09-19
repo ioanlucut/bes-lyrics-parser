@@ -1,5 +1,5 @@
 [title]
-Adunati cu toti aicea {author: {Anonim}, {rcId: {2106}}
+Adunati cu toti aicea {composer: {Anonim}, {rcId: {2106}}
 
 [sequence]
 v1,v2,v3,v4,v5

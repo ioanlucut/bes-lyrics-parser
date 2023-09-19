@@ -1,5 +1,5 @@
 [title]
-Casa-n casa maria a umblat {author: {Leleu Niculae}, {rcId: {75274}}
+Casa-n casa maria a umblat {composer: {Leleu Niculae}, {rcId: {75274}}
 
 [sequence]
 v1,v2,v3

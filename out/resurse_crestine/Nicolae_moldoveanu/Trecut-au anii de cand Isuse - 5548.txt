@@ -1,5 +1,5 @@
 [title]
-Trecut-au anii de cand isuse {author: {Nicolae Moldoveanu}, {rcId: {5548}}
+Trecut-au anii de cand isuse {composer: {Nicolae Moldoveanu}, {rcId: {5548}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

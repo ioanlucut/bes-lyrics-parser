@@ -1,5 +1,5 @@
 [title]
-Tine-ma cu mana ta {author: {Gabriel Gorcea și prietenii}, {rcId: {124248}}
+Tine-ma cu mana ta {composer: {Gabriel Gorcea și prietenii}, {rcId: {124248}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

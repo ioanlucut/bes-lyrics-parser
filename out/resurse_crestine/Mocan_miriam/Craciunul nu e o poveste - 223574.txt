@@ -1,5 +1,5 @@
 [title]
-Craciunul nu e o poveste {author: {Mocan Miriam}, {rcId: {223574}}
+Craciunul nu e o poveste {composer: {Mocan Miriam}, {rcId: {223574}}
 
 [sequence]
 v1

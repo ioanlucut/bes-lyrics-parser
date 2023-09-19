@@ -1,5 +1,5 @@
 [title]
-Cand norii grei deasupra-ti vin si negura aduc {author: {Anonim}, {rcId: {222571}}
+Cand norii grei deasupra-ti vin si negura aduc {composer: {Anonim}, {rcId: {222571}}
 
 [sequence]
 v1,c,v2,c,v3,c

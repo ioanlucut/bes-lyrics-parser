@@ -1,5 +1,5 @@
 [title]
-Vreau doamne {author: {Anonim}, {rcId: {1847}}
+Vreau doamne {composer: {Anonim}, {rcId: {1847}}
 
 [sequence]
 v1,v2,v3

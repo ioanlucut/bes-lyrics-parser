@@ -1,5 +1,5 @@
 [title]
-Doamne astazi vin {author: {Anonim}, {rcId: {2833}}
+Doamne astazi vin {composer: {Anonim}, {rcId: {2833}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Vrednic esti tu miel de jertfa {author: {Anonim}, {rcId: {194256}}
+Vrednic esti tu miel de jertfa {composer: {Anonim}, {rcId: {194256}}
 
 [sequence]
 v1,c,v2,c,v3,c

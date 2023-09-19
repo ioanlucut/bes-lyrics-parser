@@ -1,5 +1,5 @@
 [title]
-Suntem aici in prezenta ta {author: {Speranța}, {rcId: {111296}}
+Suntem aici in prezenta ta {composer: {Speranța}, {rcId: {111296}}
 
 [sequence]
 v1,c

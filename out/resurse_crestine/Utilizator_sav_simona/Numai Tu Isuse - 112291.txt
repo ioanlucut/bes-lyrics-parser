@@ -1,5 +1,5 @@
 [title]
-Numai tu isuse {author: {Utilizator Sav Simona}, {rcId: {112291}}
+Numai tu isuse {composer: {Utilizator Sav Simona}, {rcId: {112291}}
 
 [sequence]
 v1,v2,v3,v4,v5

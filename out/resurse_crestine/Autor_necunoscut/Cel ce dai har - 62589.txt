@@ -1,5 +1,5 @@
 [title]
-Cel ce dai har {author: {Anonim}, {rcId: {62589}}
+Cel ce dai har {composer: {Anonim}, {rcId: {62589}}
 
 [sequence]
 v1,c,v2,c

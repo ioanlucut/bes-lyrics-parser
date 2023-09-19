@@ -1,5 +1,5 @@
 [title]
-Am cautat iubire; iubirea ta ma-nalt spre ea; despre iubire {author: {Adi Gliga}, {rcId: {113077}}
+Am cautat iubire; iubirea ta ma-nalt spre ea; despre iubire {composer: {Adi Gliga}, {rcId: {113077}}
 
 [sequence]
 v1,c,e

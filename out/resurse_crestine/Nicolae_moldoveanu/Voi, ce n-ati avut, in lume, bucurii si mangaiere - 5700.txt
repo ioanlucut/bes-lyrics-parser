@@ -1,5 +1,5 @@
 [title]
-Voi ce n-ati avut in lume bucurii si mangaiere {author: {Nicolae Moldoveanu}, {rcId: {5700}}
+Voi ce n-ati avut in lume bucurii si mangaiere {composer: {Nicolae Moldoveanu}, {rcId: {5700}}
 
 [sequence]
 v1,v2,v3,v4,v5

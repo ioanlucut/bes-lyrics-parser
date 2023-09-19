@@ -1,5 +1,5 @@
 [title]
-Sunt momente cand inima plange {author: {Stefan Ciobanu}, {rcId: {166752}}
+Sunt momente cand inima plange {composer: {Stefan Ciobanu}, {rcId: {166752}}
 
 [sequence]
 v1,v2,c,v3,c,e

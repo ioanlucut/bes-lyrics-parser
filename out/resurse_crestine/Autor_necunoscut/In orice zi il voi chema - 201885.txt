@@ -1,5 +1,5 @@
 [title]
-In orice zi il voi chema {author: {Anonim}, {rcId: {201885}}
+In orice zi il voi chema {composer: {Anonim}, {rcId: {201885}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

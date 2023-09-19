@@ -1,5 +1,5 @@
 [title]
-Fiecare floricica {author: {Dionisie Giuchici}, {rcId: {177981}}
+Fiecare floricica {composer: {Dionisie Giuchici}, {rcId: {177981}}
 
 [sequence]
 v1,c,v2,c,v3,c

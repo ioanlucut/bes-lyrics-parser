@@ -1,5 +1,5 @@
 [title]
-Da-mi ochii tai caci vreau sa vad {author: {Anonim}, {rcId: {63520}}
+Da-mi ochii tai caci vreau sa vad {composer: {Anonim}, {rcId: {63520}}
 
 [sequence]
 v1,c,v2,c,e

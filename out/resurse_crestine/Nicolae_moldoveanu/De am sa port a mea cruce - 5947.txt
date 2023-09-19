@@ -1,5 +1,5 @@
 [title]
-De am sa port a mea cruce {author: {Nicolae Moldoveanu}, {rcId: {5947}}
+De am sa port a mea cruce {composer: {Nicolae Moldoveanu}, {rcId: {5947}}
 
 [sequence]
 v1,c,v2,c,v3,c

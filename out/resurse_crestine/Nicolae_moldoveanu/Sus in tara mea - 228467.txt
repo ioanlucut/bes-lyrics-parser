@@ -1,5 +1,5 @@
 [title]
-Sus in tara mea {author: {Nicolae Moldoveanu}, {rcId: {228467}}
+Sus in tara mea {composer: {Nicolae Moldoveanu}, {rcId: {228467}}
 
 [sequence]
 v1,v2,v3

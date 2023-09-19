@@ -1,5 +1,5 @@
 [title]
-Numai o data tu traiesti {author: {Nicolae Moldoveanu}, {rcId: {5393}}
+Numai o data tu traiesti {composer: {Nicolae Moldoveanu}, {rcId: {5393}}
 
 [sequence]
 v1,v2,v3,v4

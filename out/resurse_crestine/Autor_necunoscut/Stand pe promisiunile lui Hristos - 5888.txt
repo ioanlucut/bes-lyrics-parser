@@ -1,5 +1,5 @@
 [title]
-Stand pe promisiunile lui hristos {author: {Anonim}, {rcId: {5888}}
+Stand pe promisiunile lui hristos {composer: {Anonim}, {rcId: {5888}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-O viata curata {author: {Matt Redman}, {rcId: {4393}}
+O viata curata {composer: {Matt Redman}, {rcId: {4393}}
 
 [sequence]
 v1,c,e

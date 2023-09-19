@@ -1,5 +1,5 @@
 [title]
-Betleeme betleeme {author: {Cristian și Cristiana Văduva}, {rcId: {84909}}
+Betleeme betleeme {composer: {Cristian și Cristiana Văduva}, {rcId: {84909}}
 
 [sequence]
 v1,c,v2,c,v3,c

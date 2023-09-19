@@ -1,5 +1,5 @@
 [title]
-De la tine nu vreau sa plec {author: {Vitamina C}, {rcId: {2807}}
+De la tine nu vreau sa plec {composer: {Vitamina C}, {rcId: {2807}}
 
 [sequence]
 v1,c

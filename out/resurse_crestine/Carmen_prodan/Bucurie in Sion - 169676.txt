@@ -1,5 +1,5 @@
 [title]
-Bucurie in sion {author: {Carmen Prodan}, {rcId: {169676}}
+Bucurie in sion {composer: {Carmen Prodan}, {rcId: {169676}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

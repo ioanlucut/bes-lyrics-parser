@@ -1,5 +1,5 @@
 [title]
-Nu-ti pierde menirea o frate iubit {author: {Birjac Ovidiu}, {rcId: {228248}}
+Nu-ti pierde menirea o frate iubit {composer: {Birjac Ovidiu}, {rcId: {228248}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Strajerule strajere din turnul de veghere {author: {Mia Iovin}, {rcId: {110861}}
+Strajerule strajere din turnul de veghere {composer: {Mia Iovin}, {rcId: {110861}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Tara mea loc de vis {author: {Gabi Iluț și Ligia Bodea}, {rcId: {94654}}
+Tara mea loc de vis {composer: {Gabi Iluț și Ligia Bodea}, {rcId: {94654}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

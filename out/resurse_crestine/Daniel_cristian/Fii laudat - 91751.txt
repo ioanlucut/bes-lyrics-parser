@@ -1,5 +1,5 @@
 [title]
-Fii laudat {author: {Daniel Cristian}, {rcId: {91751}}
+Fii laudat {composer: {Daniel Cristian}, {rcId: {91751}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-De cine oare sa ma tem {author: {Fratii din Bacesti}, {rcId: {197123}}
+De cine oare sa ma tem {composer: {Fratii din Bacesti}, {rcId: {197123}}
 
 [sequence]
 v1,c,v2,c,v3,c

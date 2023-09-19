@@ -1,5 +1,5 @@
 [title]
-Vai de omul {author: {Ovidiu Liteanu}, {rcId: {187426}}
+Vai de omul {composer: {Ovidiu Liteanu}, {rcId: {187426}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-O stea pe cer {author: {Adonia}, {rcId: {100788}}
+O stea pe cer {composer: {Adonia}, {rcId: {100788}}
 
 [sequence]
 v1,v2,v3,v4

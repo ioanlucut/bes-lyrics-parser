@@ -1,5 +1,5 @@
 [title]
-Dumnezeu e mai presus {author: {Johnny Daraban}, {rcId: {207578}}
+Dumnezeu e mai presus {composer: {Johnny Daraban}, {rcId: {207578}}
 
 [sequence]
 v1,c,v2,c2,e

@@ -1,5 +1,5 @@
 [title]
-O isuse da-mi putere {author: {Biji din Barbulesti}, {rcId: {193059}}
+O isuse da-mi putere {composer: {Biji din Barbulesti}, {rcId: {193059}}
 
 [sequence]
 v1,c,v2,c,v3,c

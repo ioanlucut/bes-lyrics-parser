@@ -1,5 +1,5 @@
 [title]
-Comoara mea din ceruri {author: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {112917}}
+Comoara mea din ceruri {composer: {Tinerii din Biserica Penticostala Nădlac}, {rcId: {112917}}
 
 [sequence]
 v1,c,v2,c

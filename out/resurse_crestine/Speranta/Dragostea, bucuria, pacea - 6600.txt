@@ -1,5 +1,5 @@
 [title]
-Dragostea bucuria pacea {author: {Speranța}, {rcId: {6600}}
+Dragostea bucuria pacea {composer: {Speranța}, {rcId: {6600}}
 
 [sequence]
 v1,c,v2,c,v4,c

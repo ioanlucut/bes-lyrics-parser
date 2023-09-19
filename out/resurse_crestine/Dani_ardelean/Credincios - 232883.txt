@@ -1,5 +1,5 @@
 [title]
-Credincios {author: {Dani Ardelean}, {rcId: {232883}}
+Credincios {composer: {Dani Ardelean}, {rcId: {232883}}
 
 [sequence]
 v1,c,v2,c2,e

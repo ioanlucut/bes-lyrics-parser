@@ -1,5 +1,5 @@
 [title]
-Nu-i mult si vine ziua {author: {Onisim Grab}, {rcId: {227060}}
+Nu-i mult si vine ziua {composer: {Onisim Grab}, {rcId: {227060}}
 
 [sequence]
 v1,c,v2,c,v3,c

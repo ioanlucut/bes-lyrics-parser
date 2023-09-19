@@ -1,5 +1,5 @@
 [title]
-Beautiful savior [marire tie] {author: {Stuart Townend, Traducere RO}, {rcId: {61833}}
+Beautiful savior [marire tie] {composer: {Stuart Townend, Traducere RO}, {rcId: {61833}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c

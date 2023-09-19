@@ -1,5 +1,5 @@
 [title]
-Ma simt strain si-s ofilit {author: {Nicolae Moldoveanu}, {rcId: {5847}}
+Ma simt strain si-s ofilit {composer: {Nicolae Moldoveanu}, {rcId: {5847}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

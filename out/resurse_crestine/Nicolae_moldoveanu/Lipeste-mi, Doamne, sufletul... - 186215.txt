@@ -1,5 +1,5 @@
 [title]
-Lipeste-mi doamne sufletul {author: {Nicolae Moldoveanu}, {rcId: {186215}}
+Lipeste-mi doamne sufletul {composer: {Nicolae Moldoveanu}, {rcId: {186215}}
 
 [sequence]
 v1,v2,v3,v4

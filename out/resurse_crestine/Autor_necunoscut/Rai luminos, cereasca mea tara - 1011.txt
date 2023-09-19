@@ -1,5 +1,5 @@
 [title]
-Rai luminos cereasca mea tara {author: {Anonim}, {rcId: {1011}}
+Rai luminos cereasca mea tara {composer: {Anonim}, {rcId: {1011}}
 
 [sequence]
 v1,c,v2,c,v3,c

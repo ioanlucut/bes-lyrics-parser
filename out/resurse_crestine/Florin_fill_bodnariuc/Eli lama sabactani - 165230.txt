@@ -1,5 +1,5 @@
 [title]
-Eli lama sabactani {author: {Florin Fill Bodnariuc}, {rcId: {165230}}
+Eli lama sabactani {composer: {Florin Fill Bodnariuc}, {rcId: {165230}}
 
 [sequence]
 v1,c,v2,c2,c2

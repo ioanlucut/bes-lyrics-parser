@@ -1,5 +1,5 @@
 [title]
-Doamne noi copiii te-naltam prin cant {author: {Anonim}, {rcId: {846}}
+Doamne noi copiii te-naltam prin cant {composer: {Anonim}, {rcId: {846}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

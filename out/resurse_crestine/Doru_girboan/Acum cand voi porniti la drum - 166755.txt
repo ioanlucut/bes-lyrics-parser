@@ -1,5 +1,5 @@
 [title]
-Acum cand voi porniti la drum {author: {Doru Gîrboan}, {rcId: {166755}}
+Acum cand voi porniti la drum {composer: {Doru Gîrboan}, {rcId: {166755}}
 
 [sequence]
 v1,c,v2,c

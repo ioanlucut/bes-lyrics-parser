@@ -1,5 +1,5 @@
 [title]
-Da eu cred in numele lui isus {author: {Ekklesia Arad}, {rcId: {164492}}
+Da eu cred in numele lui isus {composer: {Ekklesia Arad}, {rcId: {164492}}
 
 [sequence]
 v1,c,v2,b,c,e,c

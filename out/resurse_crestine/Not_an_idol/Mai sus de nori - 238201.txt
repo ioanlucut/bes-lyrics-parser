@@ -1,5 +1,5 @@
 [title]
-Mai sus de nori {author: {Not an idol}, {rcId: {238201}}
+Mai sus de nori {composer: {Not an idol}, {rcId: {238201}}
 
 [sequence]
 v1,c,v2,c,c,c

@@ -1,5 +1,5 @@
 [title]
-Steaua sus rasare {author: {Anonim}, {rcId: {5073}}
+Steaua sus rasare {composer: {Anonim}, {rcId: {5073}}
 
 [sequence]
 v1,v2,v3,v4

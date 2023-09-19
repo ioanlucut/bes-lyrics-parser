@@ -1,5 +1,5 @@
 [title]
-Cerul e un loc minunat {author: {Anonim}, {rcId: {2798}}
+Cerul e un loc minunat {composer: {Anonim}, {rcId: {2798}}
 
 [sequence]
 c,v1,c

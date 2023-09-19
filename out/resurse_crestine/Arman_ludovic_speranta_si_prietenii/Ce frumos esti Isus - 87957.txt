@@ -1,5 +1,5 @@
 [title]
-Ce frumos esti isus {author: {Arman Ludovic, Speranța și prietenii}, {rcId: {87957}}
+Ce frumos esti isus {composer: {Arman Ludovic, Speranța și prietenii}, {rcId: {87957}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Ce minunat ne-om inalta {author: {Ovidiu Liteanu}, {rcId: {59764}}
+Ce minunat ne-om inalta {composer: {Ovidiu Liteanu}, {rcId: {59764}}
 
 [sequence]
 v1,c,v2,c,v3,c

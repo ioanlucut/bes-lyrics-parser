@@ -1,5 +1,5 @@
 [title]
-O tara mea mi-e dor de tine-a te vede {author: {Anonim}, {rcId: {155819}}
+O tara mea mi-e dor de tine-a te vede {composer: {Anonim}, {rcId: {155819}}
 
 [sequence]
 v1,v2,v3,v4,v5

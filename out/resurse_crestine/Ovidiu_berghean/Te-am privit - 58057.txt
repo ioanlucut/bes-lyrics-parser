@@ -1,5 +1,5 @@
 [title]
-Te-am privit {author: {Ovidiu Berghean}, {rcId: {58057}}
+Te-am privit {composer: {Ovidiu Berghean}, {rcId: {58057}}
 
 [sequence]
 v1,v2,v3,v4

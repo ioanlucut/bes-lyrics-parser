@@ -1,5 +1,5 @@
 [title]
-Prin harul sau {author: {Gabi_Ilut}, {rcId: {241253}}
+Prin harul sau {composer: {Gabi_Ilut}, {rcId: {241253}}
 
 [sequence]
 v1,c,v2,c,e

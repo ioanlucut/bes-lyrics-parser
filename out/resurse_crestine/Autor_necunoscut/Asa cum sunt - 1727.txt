@@ -1,5 +1,5 @@
 [title]
-Asa cum sunt {author: {Anonim}, {rcId: {1727}}
+Asa cum sunt {composer: {Anonim}, {rcId: {1727}}
 
 [sequence]
 v1,v2,v3,v4

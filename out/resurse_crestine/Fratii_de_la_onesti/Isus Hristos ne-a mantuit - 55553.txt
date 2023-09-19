@@ -1,5 +1,5 @@
 [title]
-Isus hristos ne-a mantuit {author: {Fratii de la Onesti}, {rcId: {55553}}
+Isus hristos ne-a mantuit {composer: {Fratii de la Onesti}, {rcId: {55553}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

@@ -1,5 +1,5 @@
 [title]
-Doi ochii senini induratori {author: {Ion Țane Jachenau}, {rcId: {212039}}
+Doi ochii senini induratori {composer: {Ion Țane Jachenau}, {rcId: {212039}}
 
 [sequence]
 v1

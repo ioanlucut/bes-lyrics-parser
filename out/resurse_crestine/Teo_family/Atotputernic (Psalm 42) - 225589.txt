@@ -1,5 +1,5 @@
 [title]
-Atotputernic (psalm ) {author: {Teo Family}, {rcId: {225589}}
+Atotputernic (psalm ) {composer: {Teo Family}, {rcId: {225589}}
 
 [sequence]
 v1,b,c,v1,b2,c,b2,b2,c

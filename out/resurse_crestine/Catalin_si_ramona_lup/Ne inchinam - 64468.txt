@@ -1,5 +1,5 @@
 [title]
-Ne inchinam {author: {Cătălin și Ramona Lup}, {rcId: {64468}}
+Ne inchinam {composer: {Cătălin și Ramona Lup}, {rcId: {64468}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c

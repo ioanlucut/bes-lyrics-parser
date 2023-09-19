@@ -1,5 +1,5 @@
 [title]
-Isuse doamne domnul meu {author: {Oltita Nistor}, {rcId: {96926}}
+Isuse doamne domnul meu {composer: {Oltita Nistor}, {rcId: {96926}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8,v9

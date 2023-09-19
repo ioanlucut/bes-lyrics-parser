@@ -1,5 +1,5 @@
 [title]
-Zi de zi mergand pe cale {author: {Nicolae Moldoveanu}, {rcId: {4132}}
+Zi de zi mergand pe cale {composer: {Nicolae Moldoveanu}, {rcId: {4132}}
 
 [sequence]
 v1,c,v2,c,v3,c

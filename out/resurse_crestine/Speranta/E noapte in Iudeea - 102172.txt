@@ -1,5 +1,5 @@
 [title]
-E noapte in iudeea {author: {Speranța}, {rcId: {102172}}
+E noapte in iudeea {composer: {Speranța}, {rcId: {102172}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

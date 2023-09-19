@@ -1,5 +1,5 @@
 [title]
-Iti dau in dar inima mea {author: {Paradis}, {rcId: {202053}}
+Iti dau in dar inima mea {composer: {Paradis}, {rcId: {202053}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c

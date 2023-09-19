@@ -1,5 +1,5 @@
 [title]
-Suflet ce-n pacate mai traiesti {author: {Anonim}, {rcId: {198285}}
+Suflet ce-n pacate mai traiesti {composer: {Anonim}, {rcId: {198285}}
 
 [sequence]
 v1,v2,v3,v4

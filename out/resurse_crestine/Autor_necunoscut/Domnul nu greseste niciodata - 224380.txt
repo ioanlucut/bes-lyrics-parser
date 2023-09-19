@@ -1,5 +1,5 @@
 [title]
-Domnul nu greseste niciodata {author: {Autor necunoscut}, {rcId: {224380}}
+Domnul nu greseste niciodata {composer: {Autor necunoscut}, {rcId: {224380}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Exista dupa moarte o vesnicie {author: {Anonim}, {rcId: {229300}}
+Exista dupa moarte o vesnicie {composer: {Anonim}, {rcId: {229300}}
 
 [sequence]
 v1,c,v2,c,v3,c

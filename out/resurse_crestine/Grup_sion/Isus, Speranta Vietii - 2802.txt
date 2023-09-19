@@ -1,5 +1,5 @@
 [title]
-Isus speranta vietii {author: {Grup Sion}, {rcId: {2802}}
+Isus speranta vietii {composer: {Grup Sion}, {rcId: {2802}}
 
 [sequence]
 v1,c,v2,c

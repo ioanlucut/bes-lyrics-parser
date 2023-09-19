@@ -1,5 +1,5 @@
 [title]
-Ast~azi este ziua cant~areste bine {author: {Anonim}, {rcId: {6240}}
+Ast~azi este ziua cant~areste bine {composer: {Anonim}, {rcId: {6240}}
 
 [sequence]
 v1,c,v2,c,v3,c

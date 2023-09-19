@@ -1,5 +1,5 @@
 [title]
-Este-o noua zi {author: {Anonim}, {rcId: {62637}}
+Este-o noua zi {composer: {Anonim}, {rcId: {62637}}
 
 [sequence]
 c,v1,c

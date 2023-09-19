@@ -1,5 +1,5 @@
 [title]
-Frumos tu ai creat {author: {Cristi Chibici}, {rcId: {220222}}
+Frumos tu ai creat {composer: {Cristi Chibici}, {rcId: {220222}}
 
 [sequence]
 v1,c,v2,c

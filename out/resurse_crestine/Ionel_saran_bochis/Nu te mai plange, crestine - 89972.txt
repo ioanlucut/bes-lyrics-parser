@@ -1,5 +1,5 @@
 [title]
-Nu te mai plange crestine {author: {Ionel Saran Bochis}, {rcId: {89972}}
+Nu te mai plange crestine {composer: {Ionel Saran Bochis}, {rcId: {89972}}
 
 [sequence]
 v1,v2,v3,v4,v5

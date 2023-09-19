@@ -1,5 +1,5 @@
 [title]
-Slava indelung rabdarii tale {author: {Nicolae Moldoveanu}, {rcId: {244140}}
+Slava indelung rabdarii tale {composer: {Nicolae Moldoveanu}, {rcId: {244140}}
 
 [sequence]
 v1,c,v2,c

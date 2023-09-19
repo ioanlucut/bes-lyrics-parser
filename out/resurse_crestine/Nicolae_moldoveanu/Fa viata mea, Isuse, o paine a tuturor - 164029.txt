@@ -1,5 +1,5 @@
 [title]
-Fa viata mea isuse o paine a tuturor {author: {Nicolae Moldoveanu}, {rcId: {164029}}
+Fa viata mea isuse o paine a tuturor {composer: {Nicolae Moldoveanu}, {rcId: {164029}}
 
 [sequence]
 v1,v2,v3

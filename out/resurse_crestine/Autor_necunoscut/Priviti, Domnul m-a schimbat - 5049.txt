@@ -1,5 +1,5 @@
 [title]
-Priviti domnul m-a schimbat {author: {Anonim}, {rcId: {5049}}
+Priviti domnul m-a schimbat {composer: {Anonim}, {rcId: {5049}}
 
 [sequence]
 v1,v2,v3

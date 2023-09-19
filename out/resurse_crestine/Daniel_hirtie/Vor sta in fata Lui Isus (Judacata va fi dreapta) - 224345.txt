@@ -1,5 +1,5 @@
 [title]
-Vor sta in fata lui isus (judacata va fi dreapta) {author: {Daniel Hîrtie}, {rcId: {224345}}
+Vor sta in fata lui isus (judacata va fi dreapta) {composer: {Daniel Hîrtie}, {rcId: {224345}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

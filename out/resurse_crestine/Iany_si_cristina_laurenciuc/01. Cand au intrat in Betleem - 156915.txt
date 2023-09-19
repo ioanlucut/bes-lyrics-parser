@@ -1,5 +1,5 @@
 [title]
-Cand au intrat in betleem {author: {Iany și Cristina Laurenciuc}, {rcId: {156915}}
+Cand au intrat in betleem {composer: {Iany și Cristina Laurenciuc}, {rcId: {156915}}
 
 [sequence]
 v01,c,v2,c2,v3,c3

@@ -1,5 +1,5 @@
 [title]
-La crucea ta {author: {Fă o diferență}, {rcId: {110491}}
+La crucea ta {composer: {Fă o diferență}, {rcId: {110491}}
 
 [sequence]
 v1,c

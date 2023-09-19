@@ -1,5 +1,5 @@
 [title]
-Trait-am viata in pacat {author: {Valentin Mierluț}, {rcId: {233095}}
+Trait-am viata in pacat {composer: {Valentin Mierluț}, {rcId: {233095}}
 
 [sequence]
 v1,v2,v3,v4

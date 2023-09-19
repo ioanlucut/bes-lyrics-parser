@@ -1,5 +1,5 @@
 [title]
-Isus va cheama auziti {author: {Anonim}, {rcId: {74369}}
+Isus va cheama auziti {composer: {Anonim}, {rcId: {74369}}
 
 [sequence]
 v1,c,v2,c,v3,c

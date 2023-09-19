@@ -1,5 +1,5 @@
 [title]
-Daca vrei sa regasesti {author: {Text și muzică: Costel Mijan}, {rcId: {209516}}
+Daca vrei sa regasesti {composer: {Text și muzică: Costel Mijan}, {rcId: {209516}}
 
 [sequence]
 v1,c,v2,c,v3,c

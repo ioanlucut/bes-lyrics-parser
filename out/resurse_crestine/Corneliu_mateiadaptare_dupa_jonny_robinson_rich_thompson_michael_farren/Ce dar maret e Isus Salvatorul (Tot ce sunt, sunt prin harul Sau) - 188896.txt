@@ -1,5 +1,5 @@
 [title]
-Ce dar maret e isus salvatorul (tot ce sunt sunt prin harul sau) {author: {Corneliu Mateiadaptare după Jonny Robinson, Rich Thompson, Michael Farren}, {rcId: {188896}}
+Ce dar maret e isus salvatorul (tot ce sunt sunt prin harul sau) {composer: {Corneliu Mateiadaptare după Jonny Robinson, Rich Thompson, Michael Farren}, {rcId: {188896}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

@@ -1,5 +1,5 @@
 [title]
-Inima azi ti-e plina {author: {Anonim}, {rcId: {151385}}
+Inima azi ti-e plina {composer: {Anonim}, {rcId: {151385}}
 
 [sequence]
 v1,c,v2,c,v3,c

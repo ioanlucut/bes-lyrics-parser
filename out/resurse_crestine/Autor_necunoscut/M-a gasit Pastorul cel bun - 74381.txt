@@ -1,5 +1,5 @@
 [title]
-M-a gasit pastorul cel bun {author: {Anonim}, {rcId: {74381}}
+M-a gasit pastorul cel bun {composer: {Anonim}, {rcId: {74381}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Dispretuit si parasit {author: {Puiu Chibici}, {rcId: {4176}}
+Dispretuit si parasit {composer: {Puiu Chibici}, {rcId: {4176}}
 
 [sequence]
 v1,v2,v3

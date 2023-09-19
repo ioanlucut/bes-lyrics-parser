@@ -1,5 +1,5 @@
 [title]
-De te-apasa neincetat grijuri multe {author: {Anonim}, {rcId: {146202}}
+De te-apasa neincetat grijuri multe {composer: {Anonim}, {rcId: {146202}}
 
 [sequence]
 v1,v2,v3,v4

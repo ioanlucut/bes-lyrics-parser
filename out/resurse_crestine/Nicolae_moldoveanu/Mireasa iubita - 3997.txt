@@ -1,5 +1,5 @@
 [title]
-Mireasa iubita {author: {Nicolae Moldoveanu}, {rcId: {3997}}
+Mireasa iubita {composer: {Nicolae Moldoveanu}, {rcId: {3997}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

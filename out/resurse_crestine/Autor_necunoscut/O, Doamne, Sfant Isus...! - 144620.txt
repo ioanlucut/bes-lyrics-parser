@@ -1,5 +1,5 @@
 [title]
-O doamne sfant isus {author: {Anonim}, {rcId: {144620}}
+O doamne sfant isus {composer: {Anonim}, {rcId: {144620}}
 
 [sequence]
 v1,v2,e

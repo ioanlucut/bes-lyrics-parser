@@ -1,5 +1,5 @@
 [title]
-Fa-mi inima izvor de cantec {author: {Text: Ionel Bazon, Muzica: Corine Petre}, {rcId: {199431}}
+Fa-mi inima izvor de cantec {composer: {Text: Ionel Bazon, Muzica: Corine Petre}, {rcId: {199431}}
 
 [sequence]
 v1,c,v2,c,v3,c

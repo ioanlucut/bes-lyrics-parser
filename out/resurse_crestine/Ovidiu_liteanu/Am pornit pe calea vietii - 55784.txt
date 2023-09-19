@@ -1,5 +1,5 @@
 [title]
-Am pornit pe calea vietii {author: {Ovidiu Liteanu}, {rcId: {55784}}
+Am pornit pe calea vietii {composer: {Ovidiu Liteanu}, {rcId: {55784}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

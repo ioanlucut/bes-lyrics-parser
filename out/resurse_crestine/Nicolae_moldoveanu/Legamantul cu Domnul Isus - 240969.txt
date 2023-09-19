@@ -1,5 +1,5 @@
 [title]
-Legamantul cu domnul isus {author: {Nicolae Moldoveanu}, {rcId: {240969}}
+Legamantul cu domnul isus {composer: {Nicolae Moldoveanu}, {rcId: {240969}}
 
 [sequence]
 v1,v2,v3,v4

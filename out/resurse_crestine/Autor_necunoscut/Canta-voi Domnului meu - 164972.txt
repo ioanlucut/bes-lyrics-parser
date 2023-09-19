@@ -1,5 +1,5 @@
 [title]
-Canta-voi domnului meu {author: {Anonim}, {rcId: {164972}}
+Canta-voi domnului meu {composer: {Anonim}, {rcId: {164972}}
 
 [sequence]
 v1,c,v2,c,v3,c

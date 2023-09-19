@@ -1,5 +1,5 @@
 [title]
-Zarul de pe mormant s-a rupt {author: {Anonim}, {rcId: {108423}}
+Zarul de pe mormant s-a rupt {composer: {Anonim}, {rcId: {108423}}
 
 [sequence]
 v1,c,v2,c,v3,c

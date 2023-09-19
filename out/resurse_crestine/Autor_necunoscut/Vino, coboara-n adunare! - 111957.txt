@@ -1,5 +1,5 @@
 [title]
-Vino coboara-n adunare {author: {Anonim}, {rcId: {111957}}
+Vino coboara-n adunare {composer: {Anonim}, {rcId: {111957}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

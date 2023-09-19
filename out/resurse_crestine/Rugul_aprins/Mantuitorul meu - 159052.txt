@@ -1,5 +1,5 @@
 [title]
-Mantuitorul meu {author: {Rugul aprins}, {rcId: {159052}}
+Mantuitorul meu {composer: {Rugul aprins}, {rcId: {159052}}
 
 [sequence]
 v1,c,v2,c,v3,c

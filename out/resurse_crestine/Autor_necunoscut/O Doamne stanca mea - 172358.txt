@@ -1,5 +1,5 @@
 [title]
-O doamne stanca mea {author: {Anonim}, {rcId: {172358}}
+O doamne stanca mea {composer: {Anonim}, {rcId: {172358}}
 
 [sequence]
 v1,c,v2,c,v3,c

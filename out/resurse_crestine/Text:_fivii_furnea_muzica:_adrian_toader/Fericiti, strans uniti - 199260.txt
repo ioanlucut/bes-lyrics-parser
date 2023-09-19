@@ -1,5 +1,5 @@
 [title]
-Fericiti strans uniti {author: {Text: Fivii Furnea, Muzica: Adrian Toader}, {rcId: {199260}}
+Fericiti strans uniti {composer: {Text: Fivii Furnea, Muzica: Adrian Toader}, {rcId: {199260}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Cei ce se incred in domnul isus {author: {Anonim}, {rcId: {109215}}
+Cei ce se incred in domnul isus {composer: {Anonim}, {rcId: {109215}}
 
 [sequence]
 v1,v2,c

@@ -1,5 +1,5 @@
 [title]
-Al nostru dumnezeu {author: {Anonim}, {rcId: {65005}}
+Al nostru dumnezeu {composer: {Anonim}, {rcId: {65005}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

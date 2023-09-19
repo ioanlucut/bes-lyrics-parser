@@ -1,5 +1,5 @@
 [title]
-De mult astept doar un cuvant {author: {Denys Laurenciuc}, {rcId: {207444}}
+De mult astept doar un cuvant {composer: {Denys Laurenciuc}, {rcId: {207444}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Da bun e domnul dumnezeu cu cei cu inima curata {author: {Anonim}, {rcId: {111038}}
+Da bun e domnul dumnezeu cu cei cu inima curata {composer: {Anonim}, {rcId: {111038}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Fii binecuvantata ziua {author: {Nicolae Moldoveanu}, {rcId: {244373}}
+Fii binecuvantata ziua {composer: {Nicolae Moldoveanu}, {rcId: {244373}}
 
 [sequence]
 v1,v2,v3,v4,v5

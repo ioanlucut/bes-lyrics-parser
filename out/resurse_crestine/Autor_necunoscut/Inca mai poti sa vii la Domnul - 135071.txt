@@ -1,5 +1,5 @@
 [title]
-Inca mai poti sa vii la domnul {author: {Anonim}, {rcId: {135071}}
+Inca mai poti sa vii la domnul {composer: {Anonim}, {rcId: {135071}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

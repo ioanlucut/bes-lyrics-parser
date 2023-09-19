@@ -1,5 +1,5 @@
 [title]
-Astazi vin bunule tata {author: {Voicu Daniel}, {rcId: {5172}}
+Astazi vin bunule tata {composer: {Voicu Daniel}, {rcId: {5172}}
 
 [sequence]
 v1,c,v2,c,v3,c

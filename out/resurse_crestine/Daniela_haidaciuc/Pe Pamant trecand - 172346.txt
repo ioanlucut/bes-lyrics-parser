@@ -1,5 +1,5 @@
 [title]
-Pe pamant trecand {author: {Daniela Haidaciuc}, {rcId: {172346}}
+Pe pamant trecand {composer: {Daniela Haidaciuc}, {rcId: {172346}}
 
 [sequence]
 v1,c,v2,c,v3,c

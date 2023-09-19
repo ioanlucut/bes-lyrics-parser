@@ -1,5 +1,5 @@
 [title]
-Inca putin si vom vedea pe domnul {author: {Anonim}, {rcId: {3888}}
+Inca putin si vom vedea pe domnul {composer: {Anonim}, {rcId: {3888}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

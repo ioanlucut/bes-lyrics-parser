@@ -1,5 +1,5 @@
 [title]
-Adeseori cand ti se pare {author: {Speranța}, {rcId: {233706}}
+Adeseori cand ti se pare {composer: {Speranța}, {rcId: {233706}}
 
 [sequence]
 v1,c,v2,c,v3,c

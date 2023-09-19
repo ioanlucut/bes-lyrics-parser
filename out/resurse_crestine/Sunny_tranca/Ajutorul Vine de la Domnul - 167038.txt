@@ -1,5 +1,5 @@
 [title]
-Ajutorul vine de la domnul {author: {Sunny Tranca}, {rcId: {167038}}
+Ajutorul vine de la domnul {composer: {Sunny Tranca}, {rcId: {167038}}
 
 [sequence]
 v1,c,v2,c,v3,c

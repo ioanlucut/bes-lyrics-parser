@@ -1,5 +1,5 @@
 [title]
-O scumpa zi {author: {Anonim}, {rcId: {6309}}
+O scumpa zi {composer: {Anonim}, {rcId: {6309}}
 
 [sequence]
 v1,c,v2,c

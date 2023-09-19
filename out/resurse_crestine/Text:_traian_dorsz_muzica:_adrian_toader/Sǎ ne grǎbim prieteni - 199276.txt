@@ -1,5 +1,5 @@
 [title]
-S ne grbim prieteni {author: {Text: Traian Dorsz, Muzica: Adrian Toader}, {rcId: {199276}}
+S ne grbim prieteni {composer: {Text: Traian Dorsz, Muzica: Adrian Toader}, {rcId: {199276}}
 
 [sequence]
 v1,v2,v3,v4

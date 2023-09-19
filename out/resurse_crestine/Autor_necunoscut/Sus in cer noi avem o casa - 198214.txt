@@ -1,5 +1,5 @@
 [title]
-Sus in cer noi avem o casa {author: {Necunoscut}, {rcId: {198214}}
+Sus in cer noi avem o casa {composer: {Necunoscut}, {rcId: {198214}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

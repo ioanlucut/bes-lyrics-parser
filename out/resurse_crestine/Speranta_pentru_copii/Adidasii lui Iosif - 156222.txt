@@ -1,5 +1,5 @@
 [title]
-Adidasii lui iosif {author: {Speranța pentru copii}, {rcId: {156222}}
+Adidasii lui iosif {composer: {Speranța pentru copii}, {rcId: {156222}}
 
 [sequence]
 v1,c,v2,c,v3,c2

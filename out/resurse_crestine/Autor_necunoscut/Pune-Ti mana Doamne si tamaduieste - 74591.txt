@@ -1,5 +1,5 @@
 [title]
-Pune-ti mana doamne si tamaduieste {author: {Anonim}, {rcId: {74591}}
+Pune-ti mana doamne si tamaduieste {composer: {Anonim}, {rcId: {74591}}
 
 [sequence]
 v1,c,v2,c,v3,c

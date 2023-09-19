@@ -1,5 +1,5 @@
 [title]
-Orice pas isus mi-l conduce {author: {Nicolae Moldoveanu}, {rcId: {5284}}
+Orice pas isus mi-l conduce {composer: {Nicolae Moldoveanu}, {rcId: {5284}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

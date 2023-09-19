@@ -1,5 +1,5 @@
 [title]
-Intrati cu laude pe portile lui {author: {Speranța}, {rcId: {111335}}
+Intrati cu laude pe portile lui {composer: {Speranța}, {rcId: {111335}}
 
 [sequence]
 v1,c,e

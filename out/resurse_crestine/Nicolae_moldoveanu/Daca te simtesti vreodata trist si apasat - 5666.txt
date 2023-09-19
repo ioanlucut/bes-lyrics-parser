@@ -1,5 +1,5 @@
 [title]
-Daca te simtesti vreodata trist si apasat {author: {Nicolae Moldoveanu}, {rcId: {5666}}
+Daca te simtesti vreodata trist si apasat {composer: {Nicolae Moldoveanu}, {rcId: {5666}}
 
 [sequence]
 v1,v2,v3,v4,v5

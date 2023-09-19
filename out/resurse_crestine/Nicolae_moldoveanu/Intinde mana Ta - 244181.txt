@@ -1,5 +1,5 @@
 [title]
-Intinde mana ta {author: {Nicolae Moldoveanu}, {rcId: {244181}}
+Intinde mana ta {composer: {Nicolae Moldoveanu}, {rcId: {244181}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Nume sfant ce vreau sa-l cuvant {author: {Anonim}, {rcId: {1273}}
+Nume sfant ce vreau sa-l cuvant {composer: {Anonim}, {rcId: {1273}}
 
 [sequence]
 v1,v2

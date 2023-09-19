@@ -1,5 +1,5 @@
 [title]
-Venim sa-ti multumim dumnezeule {author: {Suflet pentru Dumnezeu}, {rcId: {149586}}
+Venim sa-ti multumim dumnezeule {composer: {Suflet pentru Dumnezeu}, {rcId: {149586}}
 
 [sequence]
 v1,b,c,e,v2,c

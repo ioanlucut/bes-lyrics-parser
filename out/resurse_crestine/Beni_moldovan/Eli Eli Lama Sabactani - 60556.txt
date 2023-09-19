@@ -1,5 +1,5 @@
 [title]
-Eli eli lama sabactani {author: {Beni Moldovan}, {rcId: {60556}}
+Eli eli lama sabactani {composer: {Beni Moldovan}, {rcId: {60556}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

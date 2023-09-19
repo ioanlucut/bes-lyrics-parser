@@ -1,5 +1,5 @@
 [title]
-Intr-o iesle ne-nsemnata {author: {Diana Scridon}, {rcId: {222921}}
+Intr-o iesle ne-nsemnata {composer: {Diana Scridon}, {rcId: {222921}}
 
 [sequence]
 v1,c,v2,c

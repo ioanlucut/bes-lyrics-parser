@@ -1,5 +1,5 @@
 [title]
-Iubirea mea e tot {author: {Profides}, {rcId: {96145}}
+Iubirea mea e tot {composer: {Profides}, {rcId: {96145}}
 
 [sequence]
 v1,c,v2,c

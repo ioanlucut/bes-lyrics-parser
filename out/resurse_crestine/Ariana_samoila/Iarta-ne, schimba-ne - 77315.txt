@@ -1,5 +1,5 @@
 [title]
-Iarta-ne schimba-ne {author: {Ariana Samoila}, {rcId: {77315}}
+Iarta-ne schimba-ne {composer: {Ariana Samoila}, {rcId: {77315}}
 
 [sequence]
 v1,c

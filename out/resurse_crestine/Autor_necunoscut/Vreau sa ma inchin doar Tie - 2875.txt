@@ -1,5 +1,5 @@
 [title]
-Vreau sa ma inchin doar tie {author: {Anonim}, {rcId: {2875}}
+Vreau sa ma inchin doar tie {composer: {Anonim}, {rcId: {2875}}
 
 [sequence]
 v1,c

@@ -1,5 +1,5 @@
 [title]
-Zaresc clipa nasterii din nou {author: {Emma}, {rcId: {98481}}
+Zaresc clipa nasterii din nou {composer: {Emma}, {rcId: {98481}}
 
 [sequence]
 v1,c,v2,c,e

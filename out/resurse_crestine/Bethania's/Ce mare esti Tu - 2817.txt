@@ -1,5 +1,5 @@
 [title]
-Ce mare esti tu {author: {Bethania’s}, {rcId: {2817}}
+Ce mare esti tu {composer: {Bethania’s}, {rcId: {2817}}
 
 [sequence]
 v1,c

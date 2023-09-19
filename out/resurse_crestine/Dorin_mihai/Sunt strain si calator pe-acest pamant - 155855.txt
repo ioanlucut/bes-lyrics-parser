@@ -1,5 +1,5 @@
 [title]
-Sunt strain si calator pe-acest pamant {author: {Dorin Mihai}, {rcId: {155855}}
+Sunt strain si calator pe-acest pamant {composer: {Dorin Mihai}, {rcId: {155855}}
 
 [sequence]
 v1,c,v2,c

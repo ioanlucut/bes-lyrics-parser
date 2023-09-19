@@ -1,5 +1,5 @@
 [title]
-Din slava eterna {author: {Daniel Briciu}, {rcId: {240339}}
+Din slava eterna {composer: {Daniel Briciu}, {rcId: {240339}}
 
 [sequence]
 v1,c,v2,c

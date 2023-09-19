@@ -1,5 +1,5 @@
 [title]
-Ajuta-ma sa nu ma las {author: {Mirela Ursulescu}, {rcId: {237971}}
+Ajuta-ma sa nu ma las {composer: {Mirela Ursulescu}, {rcId: {237971}}
 
 [sequence]
 v1,v2,v3,v4,v5

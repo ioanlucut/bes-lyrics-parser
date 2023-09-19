@@ -1,5 +1,5 @@
 [title]
-S-a nascut christos {author: {Anonim}, {rcId: {74391}}
+S-a nascut christos {composer: {Anonim}, {rcId: {74391}}
 
 [sequence]
 c,v1,v2,v3,c2

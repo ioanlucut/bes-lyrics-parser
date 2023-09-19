@@ -1,5 +1,5 @@
 [title]
-Atat de mic {author: {Eliza Pirosca}, {rcId: {94107}}
+Atat de mic {composer: {Eliza Pirosca}, {rcId: {94107}}
 
 [sequence]
 v1,c,e

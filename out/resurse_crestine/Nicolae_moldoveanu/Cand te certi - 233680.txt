@@ -1,5 +1,5 @@
 [title]
-Cand te certi {author: {Nicolae Moldoveanu}, {rcId: {233680}}
+Cand te certi {composer: {Nicolae Moldoveanu}, {rcId: {233680}}
 
 [sequence]
 v1,v2,v3,v4

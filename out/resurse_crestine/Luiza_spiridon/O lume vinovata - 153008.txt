@@ -1,5 +1,5 @@
 [title]
-O lume vinovata {author: {Luiza Spiridon}, {rcId: {153008}}
+O lume vinovata {composer: {Luiza Spiridon}, {rcId: {153008}}
 
 [sequence]
 v1,c,v2,c,e

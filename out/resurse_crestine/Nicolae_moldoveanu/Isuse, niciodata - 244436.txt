@@ -1,5 +1,5 @@
 [title]
-Isuse niciodata {author: {Nicolae Moldoveanu}, {rcId: {244436}}
+Isuse niciodata {composer: {Nicolae Moldoveanu}, {rcId: {244436}}
 
 [sequence]
 v1,v2,v3

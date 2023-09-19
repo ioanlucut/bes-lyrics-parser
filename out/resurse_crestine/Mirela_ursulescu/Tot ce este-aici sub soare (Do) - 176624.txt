@@ -1,5 +1,5 @@
 [title]
-Tot ce este-aici sub soare (do) {author: {Mirela Ursulescu}, {rcId: {176624}}
+Tot ce este-aici sub soare (do) {composer: {Mirela Ursulescu}, {rcId: {176624}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

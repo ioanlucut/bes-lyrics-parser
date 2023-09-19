@@ -1,5 +1,5 @@
 [title]
-Vine o zi cand vom pleca {author: {The Messengers}, {rcId: {153953}}
+Vine o zi cand vom pleca {composer: {The Messengers}, {rcId: {153953}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

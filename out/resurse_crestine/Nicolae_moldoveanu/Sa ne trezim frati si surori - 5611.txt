@@ -1,5 +1,5 @@
 [title]
-Sa ne trezim frati si surori {author: {Nicolae Moldoveanu}, {rcId: {5611}}
+Sa ne trezim frati si surori {composer: {Nicolae Moldoveanu}, {rcId: {5611}}
 
 [sequence]
 v1,v2,v3,v4

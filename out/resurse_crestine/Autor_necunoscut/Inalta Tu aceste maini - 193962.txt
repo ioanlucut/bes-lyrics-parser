@@ -1,5 +1,5 @@
 [title]
-Inalta tu aceste maini {author: {Anonim}, {rcId: {193962}}
+Inalta tu aceste maini {composer: {Anonim}, {rcId: {193962}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c

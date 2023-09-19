@@ -1,5 +1,5 @@
 [title]
-O cat m-ai iubit {author: {Dan Damian}, {rcId: {238951}}
+O cat m-ai iubit {composer: {Dan Damian}, {rcId: {238951}}
 
 [sequence]
 v1,c,v2,c,v3,c

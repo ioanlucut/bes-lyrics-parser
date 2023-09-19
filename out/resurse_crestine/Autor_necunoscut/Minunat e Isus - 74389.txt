@@ -1,5 +1,5 @@
 [title]
-Minunat e isus {author: {Anonim}, {rcId: {74389}}
+Minunat e isus {composer: {Anonim}, {rcId: {74389}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Un prieten precum domnul {author: {Daniel Hartie}, {rcId: {186763}}
+Un prieten precum domnul {composer: {Daniel Hartie}, {rcId: {186763}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

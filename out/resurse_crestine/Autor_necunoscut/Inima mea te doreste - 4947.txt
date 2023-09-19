@@ -1,5 +1,5 @@
 [title]
-Inima mea te doreste {author: {Anonim}, {rcId: {4947}}
+Inima mea te doreste {composer: {Anonim}, {rcId: {4947}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Mariti pe domnul {author: {Stralsund Gesangbuch}, {rcId: {1625}}
+Mariti pe domnul {composer: {Stralsund Gesangbuch}, {rcId: {1625}}
 
 [sequence]
 v1,v2,v3,v4

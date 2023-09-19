@@ -1,5 +1,5 @@
 [title]
-Poporasul meu din lume {author: {Anonim}, {rcId: {65083}}
+Poporasul meu din lume {composer: {Anonim}, {rcId: {65083}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8

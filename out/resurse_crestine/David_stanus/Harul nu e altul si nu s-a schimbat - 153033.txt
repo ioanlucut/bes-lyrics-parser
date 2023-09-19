@@ -1,5 +1,5 @@
 [title]
-Harul nu e altul si nu s-a schimbat {author: {David Stănuș}, {rcId: {153033}}
+Harul nu e altul si nu s-a schimbat {composer: {David Stănuș}, {rcId: {153033}}
 
 [sequence]
 v1,c,v2,c,v3,c

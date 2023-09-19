@@ -1,5 +1,5 @@
 [title]
-Gandeste-te ntrua la cele de sus {author: {Ovidiu Liteanu}, {rcId: {164285}}
+Gandeste-te ntrua la cele de sus {composer: {Ovidiu Liteanu}, {rcId: {164285}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

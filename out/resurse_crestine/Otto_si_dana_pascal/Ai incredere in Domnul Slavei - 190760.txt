@@ -1,5 +1,5 @@
 [title]
-Ai incredere in domnul slavei {author: {Otto si Dana Pascal}, {rcId: {190760}}
+Ai incredere in domnul slavei {composer: {Otto si Dana Pascal}, {rcId: {190760}}
 
 [sequence]
 v1,c,v2,c,v3,c

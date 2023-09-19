@@ -1,5 +1,5 @@
 [title]
-A-nviat domnul nu e in mormant {author: {Anonim}, {rcId: {81013}}
+A-nviat domnul nu e in mormant {composer: {Anonim}, {rcId: {81013}}
 
 [sequence]
 v1,v2,v3,v4

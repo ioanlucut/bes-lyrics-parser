@@ -1,5 +1,5 @@
 [title]
-Pentru cel ce are avere {author: {Frații Bălan}, {rcId: {144833}}
+Pentru cel ce are avere {composer: {Frații Bălan}, {rcId: {144833}}
 
 [sequence]
 v1,c,v2,c,v3,c2

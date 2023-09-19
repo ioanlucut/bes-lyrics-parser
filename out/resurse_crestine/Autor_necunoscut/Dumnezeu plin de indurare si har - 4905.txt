@@ -1,5 +1,5 @@
 [title]
-Dumnezeu plin de indurare si har {author: {Anonim}, {rcId: {4905}}
+Dumnezeu plin de indurare si har {composer: {Anonim}, {rcId: {4905}}
 
 [sequence]
 v1,v2

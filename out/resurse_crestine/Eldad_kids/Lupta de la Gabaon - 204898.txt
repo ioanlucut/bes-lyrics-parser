@@ -1,5 +1,5 @@
 [title]
-Lupta de la gabaon {author: {Eldad Kids}, {rcId: {204898}}
+Lupta de la gabaon {composer: {Eldad Kids}, {rcId: {204898}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

@@ -1,5 +1,5 @@
 [title]
-De-as fi o maria doamne {author: {Anonim}, {rcId: {74589}}
+De-as fi o maria doamne {composer: {Anonim}, {rcId: {74589}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

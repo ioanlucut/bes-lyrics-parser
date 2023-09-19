@@ -1,5 +1,5 @@
 [title]
-Ce nume minunat {author: {Audrei Mieir}, {rcId: {1266}}
+Ce nume minunat {composer: {Audrei Mieir}, {rcId: {1266}}
 
 [sequence]
 v1,v2

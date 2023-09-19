@@ -1,5 +1,5 @@
 [title]
-Nu te mania pe raul {author: {Traian Dorz}, {rcId: {200666}}
+Nu te mania pe raul {composer: {Traian Dorz}, {rcId: {200666}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

@@ -1,5 +1,5 @@
 [title]
-Slava invierii tale {author: {Nicolae Moldoveanu}, {rcId: {244136}}
+Slava invierii tale {composer: {Nicolae Moldoveanu}, {rcId: {244136}}
 
 [sequence]
 v1,c

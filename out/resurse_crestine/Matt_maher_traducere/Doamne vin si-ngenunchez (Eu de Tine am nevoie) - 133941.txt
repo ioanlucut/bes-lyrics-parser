@@ -1,5 +1,5 @@
 [title]
-Doamne vin si-ngenunchez (eu de tine am nevoie) {author: {Matt Maher, traducere}, {rcId: {133941}}
+Doamne vin si-ngenunchez (eu de tine am nevoie) {composer: {Matt Maher, traducere}, {rcId: {133941}}
 
 [sequence]
 v1,c,v2,b,c

@@ -1,5 +1,5 @@
 [title]
-Nu exista cruce fara iesle {author: {Harmony}, {rcId: {208618}}
+Nu exista cruce fara iesle {composer: {Harmony}, {rcId: {208618}}
 
 [sequence]
 v1,c,v2,c,e,c

@@ -1,5 +1,5 @@
 [title]
-Cerbul nu bea din baltoace {author: {Nicolae Moldoveanu}, {rcId: {234366}}
+Cerbul nu bea din baltoace {composer: {Nicolae Moldoveanu}, {rcId: {234366}}
 
 [sequence]
 v1,v2,v3,v4

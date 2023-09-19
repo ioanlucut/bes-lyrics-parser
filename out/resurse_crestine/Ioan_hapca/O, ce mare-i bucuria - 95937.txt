@@ -1,5 +1,5 @@
 [title]
-O ce mare-i bucuria {author: {Ioan Hapca}, {rcId: {95937}}
+O ce mare-i bucuria {composer: {Ioan Hapca}, {rcId: {95937}}
 
 [sequence]
 v1,c,v2,c,v3,c

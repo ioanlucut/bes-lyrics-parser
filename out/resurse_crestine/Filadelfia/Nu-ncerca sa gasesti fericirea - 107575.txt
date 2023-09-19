@@ -1,5 +1,5 @@
 [title]
-Nu-ncerca sa gasesti fericirea {author: {Filadelfia}, {rcId: {107575}}
+Nu-ncerca sa gasesti fericirea {composer: {Filadelfia}, {rcId: {107575}}
 
 [sequence]
 v1,c,v2,c

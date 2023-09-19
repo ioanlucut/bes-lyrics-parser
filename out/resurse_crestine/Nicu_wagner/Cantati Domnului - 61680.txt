@@ -1,5 +1,5 @@
 [title]
-Cantati domnului {author: {Nicu Wagner}, {rcId: {61680}}
+Cantati domnului {composer: {Nicu Wagner}, {rcId: {61680}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Cand ma silesc {author: {Nicolae Moldoveanu}, {rcId: {244099}}
+Cand ma silesc {composer: {Nicolae Moldoveanu}, {rcId: {244099}}
 
 [sequence]
 v1,v2,v3

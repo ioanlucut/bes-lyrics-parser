@@ -1,5 +1,5 @@
 [title]
-Am gresit te rog ma iarta {author: {Alex din Mizil, Aram Duduveica}, {rcId: {239142}}
+Am gresit te rog ma iarta {composer: {Alex din Mizil, Aram Duduveica}, {rcId: {239142}}
 
 [sequence]
 v1,c,v2,c

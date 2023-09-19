@@ -1,5 +1,5 @@
 [title]
-Adeseori vin ganduri {author: {Emilia Silaghi}, {rcId: {179966}}
+Adeseori vin ganduri {composer: {Emilia Silaghi}, {rcId: {179966}}
 
 [sequence]
 v1,v2,v3,v4,v5

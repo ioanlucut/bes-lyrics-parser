@@ -1,5 +1,5 @@
 [title]
-Cui s-a dat {author: {Nicolae Moldoveanu}, {rcId: {244323}}
+Cui s-a dat {composer: {Nicolae Moldoveanu}, {rcId: {244323}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

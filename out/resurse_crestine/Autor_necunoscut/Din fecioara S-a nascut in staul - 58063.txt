@@ -1,5 +1,5 @@
 [title]
-Din fecioara s-a nascut in staul {author: {Anonim}, {rcId: {58063}}
+Din fecioara s-a nascut in staul {composer: {Anonim}, {rcId: {58063}}
 
 [sequence]
 v1,v2,v3

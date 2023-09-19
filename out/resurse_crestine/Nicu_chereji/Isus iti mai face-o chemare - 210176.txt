@@ -1,5 +1,5 @@
 [title]
-Isus iti mai face-o chemare {author: {Nicu Chereji}, {rcId: {210176}}
+Isus iti mai face-o chemare {composer: {Nicu Chereji}, {rcId: {210176}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

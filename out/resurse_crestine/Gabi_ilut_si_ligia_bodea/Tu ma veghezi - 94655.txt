@@ -1,5 +1,5 @@
 [title]
-Tu ma veghezi {author: {Gabi Iluț și Ligia Bodea}, {rcId: {94655}}
+Tu ma veghezi {composer: {Gabi Iluț și Ligia Bodea}, {rcId: {94655}}
 
 [sequence]
 v1,c,v2,c,v3,c

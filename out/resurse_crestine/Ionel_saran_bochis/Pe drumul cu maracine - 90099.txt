@@ -1,5 +1,5 @@
 [title]
-Pe drumul cu maracine {author: {Ionel Saran Bochis}, {rcId: {90099}}
+Pe drumul cu maracine {composer: {Ionel Saran Bochis}, {rcId: {90099}}
 
 [sequence]
 v1,c,v2,c,v3,c2

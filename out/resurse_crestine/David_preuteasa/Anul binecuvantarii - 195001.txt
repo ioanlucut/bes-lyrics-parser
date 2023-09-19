@@ -1,5 +1,5 @@
 [title]
-Anul binecuvantarii {author: {David Preuteasa}, {rcId: {195001}}
+Anul binecuvantarii {composer: {David Preuteasa}, {rcId: {195001}}
 
 [sequence]
 v1,c,v2,c,v3,c

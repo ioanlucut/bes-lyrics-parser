@@ -1,5 +1,5 @@
 [title]
-Nu renunta {author: {Andrei, Andreea Mois}, {rcId: {162191}}
+Nu renunta {composer: {Andrei, Andreea Mois}, {rcId: {162191}}
 
 [sequence]
 v1,c,v2,c

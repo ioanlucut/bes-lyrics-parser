@@ -1,5 +1,5 @@
 [title]
-Veniti la domnul caci v-asteapta {author: {Nicolae Moldoveanu}, {rcId: {5449}}
+Veniti la domnul caci v-asteapta {composer: {Nicolae Moldoveanu}, {rcId: {5449}}
 
 [sequence]
 v1,v2,v3,v4,v5

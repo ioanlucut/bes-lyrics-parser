@@ -1,5 +1,5 @@
 [title]
-In valea cu umbrele mortii {author: {Anonim}, {rcId: {2611}}
+In valea cu umbrele mortii {composer: {Anonim}, {rcId: {2611}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Ingerii soptesc {author: {Anonim}, {rcId: {66668}}
+Ingerii soptesc {composer: {Anonim}, {rcId: {66668}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

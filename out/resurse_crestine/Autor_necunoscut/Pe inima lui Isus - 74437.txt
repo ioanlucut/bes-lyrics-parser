@@ -1,5 +1,5 @@
 [title]
-Pe inima lui isus {author: {Anonim}, {rcId: {74437}}
+Pe inima lui isus {composer: {Anonim}, {rcId: {74437}}
 
 [sequence]
 v1,c,v2,c,v3,c

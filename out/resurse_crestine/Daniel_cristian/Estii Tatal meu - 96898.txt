@@ -1,5 +1,5 @@
 [title]
-Estii tatal meu {author: {Daniel Cristian}, {rcId: {96898}}
+Estii tatal meu {composer: {Daniel Cristian}, {rcId: {96898}}
 
 [sequence]
 v1,c,v2,c

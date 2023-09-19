@@ -1,5 +1,5 @@
 [title]
-Hosanna / osana {author: {Hillsong United, Traducere RO}, {rcId: {66570}}
+Hosanna / osana {composer: {Hillsong United, Traducere RO}, {rcId: {66570}}
 
 [sequence]
 v1,c,v2,c,e

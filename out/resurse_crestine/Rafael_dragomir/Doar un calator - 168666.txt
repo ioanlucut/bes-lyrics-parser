@@ -1,5 +1,5 @@
 [title]
-Doar un calator {author: {Rafael Dragomir}, {rcId: {168666}}
+Doar un calator {composer: {Rafael Dragomir}, {rcId: {168666}}
 
 [sequence]
 v1,c,v2,c,v3,c

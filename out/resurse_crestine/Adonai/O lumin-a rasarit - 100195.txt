@@ -1,5 +1,5 @@
 [title]
-O lumin-a rasarit {author: {Adonai}, {rcId: {100195}}
+O lumin-a rasarit {composer: {Adonai}, {rcId: {100195}}
 
 [sequence]
 v1,c,v2,c

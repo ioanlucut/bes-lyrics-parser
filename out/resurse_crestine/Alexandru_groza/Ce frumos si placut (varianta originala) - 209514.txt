@@ -1,5 +1,5 @@
 [title]
-Ce frumos si placut (varianta originala) {author: {Alexandru Groza}, {rcId: {209514}}
+Ce frumos si placut (varianta originala) {composer: {Alexandru Groza}, {rcId: {209514}}
 
 [sequence]
 v1,c,v2,c,v3,c

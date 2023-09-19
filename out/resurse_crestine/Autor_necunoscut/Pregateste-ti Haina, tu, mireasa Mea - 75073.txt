@@ -1,5 +1,5 @@
 [title]
-Pregateste-ti haina tu mireasa mea {author: {Anonim}, {rcId: {75073}}
+Pregateste-ti haina tu mireasa mea {composer: {Anonim}, {rcId: {75073}}
 
 [sequence]
 v1,v2,v3,v4,v5

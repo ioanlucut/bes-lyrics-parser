@@ -1,5 +1,5 @@
 [title]
-Cind va bate vintul pe c"urarea ta {author: {Ionel Saran Bochis}, {rcId: {111169}}
+Cind va bate vintul pe c"urarea ta {composer: {Ionel Saran Bochis}, {rcId: {111169}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

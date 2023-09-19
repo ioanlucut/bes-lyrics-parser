@@ -1,5 +1,5 @@
 [title]
-Tu esti calea adevarul si viata {author: {Nicu Chereji}, {rcId: {210187}}
+Tu esti calea adevarul si viata {composer: {Nicu Chereji}, {rcId: {210187}}
 
 [sequence]
 v1,v2,v3,v4

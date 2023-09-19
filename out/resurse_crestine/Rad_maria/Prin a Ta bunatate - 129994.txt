@@ -1,5 +1,5 @@
 [title]
-Prin a ta bunatate {author: {Rad Maria}, {rcId: {129994}}
+Prin a ta bunatate {composer: {Rad Maria}, {rcId: {129994}}
 
 [sequence]
 v1,v2,v3,v4

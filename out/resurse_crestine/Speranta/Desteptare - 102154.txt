@@ -1,5 +1,5 @@
 [title]
-Desteptare {author: {Speranța}, {rcId: {102154}}
+Desteptare {composer: {Speranța}, {rcId: {102154}}
 
 [sequence]
 v1,c,v2,c,v3,c

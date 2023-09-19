@@ -1,5 +1,5 @@
 [title]
-Numai harul tau ma mantuieste {author: {Sunny Tranca}, {rcId: {232884}}
+Numai harul tau ma mantuieste {composer: {Sunny Tranca}, {rcId: {232884}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Lasa puterea ta sa vina peste noi {author: {Anonim}, {rcId: {4986}}
+Lasa puterea ta sa vina peste noi {composer: {Anonim}, {rcId: {4986}}
 
 [sequence]
 v1,c

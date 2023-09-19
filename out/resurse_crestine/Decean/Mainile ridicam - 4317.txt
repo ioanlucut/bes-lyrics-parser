@@ -1,5 +1,5 @@
 [title]
-Mainile ridicam {author: {Decean}, {rcId: {4317}}
+Mainile ridicam {composer: {Decean}, {rcId: {4317}}
 
 [sequence]
 v1,b,c,v2,c

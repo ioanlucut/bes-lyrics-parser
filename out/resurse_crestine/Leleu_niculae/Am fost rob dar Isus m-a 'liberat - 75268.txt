@@ -1,5 +1,5 @@
 [title]
-Am fost rob dar isus m-a liberat {author: {Leleu Niculae}, {rcId: {75268}}
+Am fost rob dar isus m-a liberat {composer: {Leleu Niculae}, {rcId: {75268}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Cu sufletul pustiu tacut {author: {Popescu Mihai Neluș}, {rcId: {198135}}
+Cu sufletul pustiu tacut {composer: {Popescu Mihai Neluș}, {rcId: {198135}}
 
 [sequence]
 v1,c,v2,c

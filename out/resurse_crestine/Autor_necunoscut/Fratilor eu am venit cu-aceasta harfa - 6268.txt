@@ -1,5 +1,5 @@
 [title]
-Fratilor eu am venit cu-aceast~a harf~a {author: {Anonim}, {rcId: {6268}}
+Fratilor eu am venit cu-aceast~a harf~a {composer: {Anonim}, {rcId: {6268}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4,v5,c5

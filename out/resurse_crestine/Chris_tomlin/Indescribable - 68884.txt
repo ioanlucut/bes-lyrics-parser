@@ -1,5 +1,5 @@
 [title]
-Indescribable {author: {Chris Tomlin, Traducere RO}, {rcId: {68884}}
+Indescribable {composer: {Chris Tomlin, Traducere RO}, {rcId: {68884}}
 
 [sequence]
 v1,c,v2,c

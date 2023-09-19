@@ -1,5 +1,5 @@
 [title]
-Isus regele meu {author: {Anonim}, {rcId: {6605}}
+Isus regele meu {composer: {Anonim}, {rcId: {6605}}
 
 [sequence]
 v1,c,v2,c,e

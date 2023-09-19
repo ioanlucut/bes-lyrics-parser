@@ -1,5 +1,5 @@
 [title]
-Tie iti dam slava si onoare {author: {Anonim}, {rcId: {5094}}
+Tie iti dam slava si onoare {composer: {Anonim}, {rcId: {5094}}
 
 [sequence]
 v1,c

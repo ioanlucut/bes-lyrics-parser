@@ -1,5 +1,5 @@
 [title]
-Doresc sa pot sa-ti cant isuse {author: {Nicolae Moldoveanu}, {rcId: {241119}}
+Doresc sa pot sa-ti cant isuse {composer: {Nicolae Moldoveanu}, {rcId: {241119}}
 
 [sequence]
 v1,v2,v3,v4,v5

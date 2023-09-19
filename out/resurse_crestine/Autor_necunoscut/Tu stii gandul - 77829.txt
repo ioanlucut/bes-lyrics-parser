@@ -1,5 +1,5 @@
 [title]
-Tu stii gandul {author: {Anonim}, {rcId: {77829}}
+Tu stii gandul {composer: {Anonim}, {rcId: {77829}}
 
 [sequence]
 v1,c,v2,c,e

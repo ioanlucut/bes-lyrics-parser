@@ -1,5 +1,5 @@
 [title]
-Ti-ai pus oare intrebarea {author: {Frații Wagner}, {rcId: {5031}}
+Ti-ai pus oare intrebarea {composer: {Frații Wagner}, {rcId: {5031}}
 
 [sequence]
 v1,v2,v3,v4

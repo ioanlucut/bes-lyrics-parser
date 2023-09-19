@@ -1,5 +1,5 @@
 [title]
-Doamne cu tine as vrea {author: {Anonim}, {rcId: {6440}}
+Doamne cu tine as vrea {composer: {Anonim}, {rcId: {6440}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

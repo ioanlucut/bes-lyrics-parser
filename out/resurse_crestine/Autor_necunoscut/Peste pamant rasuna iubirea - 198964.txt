@@ -1,5 +1,5 @@
 [title]
-Peste pamant rasuna iubirea {author: {Anonim}, {rcId: {198964}}
+Peste pamant rasuna iubirea {composer: {Anonim}, {rcId: {198964}}
 
 [sequence]
 v1,c,v2,c

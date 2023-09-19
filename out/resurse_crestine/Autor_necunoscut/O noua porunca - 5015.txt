@@ -1,5 +1,5 @@
 [title]
-O noua porunca {author: {Anonim}, {rcId: {5015}}
+O noua porunca {composer: {Anonim}, {rcId: {5015}}
 
 [sequence]
 v1,v2

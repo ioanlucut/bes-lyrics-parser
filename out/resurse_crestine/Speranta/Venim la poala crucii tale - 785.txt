@@ -1,5 +1,5 @@
 [title]
-Venim la poala crucii tale {author: {Speranța}, {rcId: {785}}
+Venim la poala crucii tale {composer: {Speranța}, {rcId: {785}}
 
 [sequence]
 v1,c,v2,c,v3,c

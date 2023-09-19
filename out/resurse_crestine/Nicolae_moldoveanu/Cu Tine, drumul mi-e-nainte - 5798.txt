@@ -1,5 +1,5 @@
 [title]
-Cu tine drumul mi-e-nainte {author: {Nicolae Moldoveanu}, {rcId: {5798}}
+Cu tine drumul mi-e-nainte {composer: {Nicolae Moldoveanu}, {rcId: {5798}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

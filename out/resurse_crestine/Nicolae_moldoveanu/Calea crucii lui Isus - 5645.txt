@@ -1,5 +1,5 @@
 [title]
-Calea crucii lui isus {author: {Nicolae Moldoveanu}, {rcId: {5645}}
+Calea crucii lui isus {composer: {Nicolae Moldoveanu}, {rcId: {5645}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

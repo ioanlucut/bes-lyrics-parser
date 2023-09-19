@@ -1,5 +1,5 @@
 [title]
-De ce sa plangi nemangaiat {author: {Traian Dorz}, {rcId: {200660}}
+De ce sa plangi nemangaiat {composer: {Traian Dorz}, {rcId: {200660}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

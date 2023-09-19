@@ -1,5 +1,5 @@
 [title]
-O viata de veci cu isus voi trai {author: {Anonim}, {rcId: {74435}}
+O viata de veci cu isus voi trai {composer: {Anonim}, {rcId: {74435}}
 
 [sequence]
 v1,c,v2,c,v3,c

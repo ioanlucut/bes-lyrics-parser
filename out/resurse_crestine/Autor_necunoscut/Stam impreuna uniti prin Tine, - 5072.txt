@@ -1,5 +1,5 @@
 [title]
-Stam impreuna uniti prin tine {author: {Anonim}, {rcId: {5072}}
+Stam impreuna uniti prin tine {composer: {Anonim}, {rcId: {5072}}
 
 [sequence]
 v1,v2,v3

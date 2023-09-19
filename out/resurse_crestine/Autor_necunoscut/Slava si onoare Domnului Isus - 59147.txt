@@ -1,5 +1,5 @@
 [title]
-Slava si onoare domnului isus {author: {Anonim}, {rcId: {59147}}
+Slava si onoare domnului isus {composer: {Anonim}, {rcId: {59147}}
 
 [sequence]
 v1,v2

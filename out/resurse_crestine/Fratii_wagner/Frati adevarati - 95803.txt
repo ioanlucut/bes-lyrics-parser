@@ -1,5 +1,5 @@
 [title]
-Frati adevarati {author: {Frații Wagner}, {rcId: {95803}}
+Frati adevarati {composer: {Frații Wagner}, {rcId: {95803}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,e

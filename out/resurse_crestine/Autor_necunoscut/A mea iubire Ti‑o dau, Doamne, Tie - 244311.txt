@@ -1,5 +1,5 @@
 [title]
-A mea iubire ti-o dau doamne tie {author: {Autor necunoscut}, {rcId: {244311}}
+A mea iubire ti-o dau doamne tie {composer: {Autor necunoscut}, {rcId: {244311}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Mi-e dor de tara sfanta mi-e dor de canaan {author: {Anonim}, {rcId: {217559}}
+Mi-e dor de tara sfanta mi-e dor de canaan {composer: {Anonim}, {rcId: {217559}}
 
 [sequence]
 v1,v2,v3

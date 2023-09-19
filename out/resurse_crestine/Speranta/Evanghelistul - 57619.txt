@@ -1,5 +1,5 @@
 [title]
-Evanghelistul {author: {Speranța}, {rcId: {57619}}
+Evanghelistul {composer: {Speranța}, {rcId: {57619}}
 
 [sequence]
 v1,c,v2,c,v3,c2

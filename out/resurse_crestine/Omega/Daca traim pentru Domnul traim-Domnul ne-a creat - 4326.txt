@@ -1,5 +1,5 @@
 [title]
-Daca traim pentru domnul traim-domnul ne-a creat {author: {Omega}, {rcId: {4326}}
+Daca traim pentru domnul traim-domnul ne-a creat {composer: {Omega}, {rcId: {4326}}
 
 [sequence]
 v1,c,v2,c

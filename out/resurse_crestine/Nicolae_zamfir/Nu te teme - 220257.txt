@@ -1,5 +1,5 @@
 [title]
-Nu te teme {author: {Nicolae Zamfir}, {rcId: {220257}}
+Nu te teme {composer: {Nicolae Zamfir}, {rcId: {220257}}
 
 [sequence]
 v1,c,v2,c,v3,c

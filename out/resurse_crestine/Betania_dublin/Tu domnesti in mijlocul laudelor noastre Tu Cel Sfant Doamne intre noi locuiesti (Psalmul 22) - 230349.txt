@@ -1,5 +1,5 @@
 [title]
-Tu domnesti in mijlocul laudelor noastre tu cel sfant doamne intre noi locuiesti (psalmul ) {author: {Betania Dublin}, {rcId: {230349}}
+Tu domnesti in mijlocul laudelor noastre tu cel sfant doamne intre noi locuiesti (psalmul ) {composer: {Betania Dublin}, {rcId: {230349}}
 
 [sequence]
 v1,c,v2,c,e

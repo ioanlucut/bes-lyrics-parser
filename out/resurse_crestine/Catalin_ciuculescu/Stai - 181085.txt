@@ -1,5 +1,5 @@
 [title]
-Stai {author: {Cătălin Ciuculescu}, {rcId: {181085}}
+Stai {composer: {Cătălin Ciuculescu}, {rcId: {181085}}
 
 [sequence]
 v1,c,v2,c

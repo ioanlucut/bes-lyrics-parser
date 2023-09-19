@@ -1,5 +1,5 @@
 [title]
-Imi amintesc cum te-ai nascut iubire {author: {Narcisa Popa}, {rcId: {4408}}
+Imi amintesc cum te-ai nascut iubire {composer: {Narcisa Popa}, {rcId: {4408}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-In limbi ceresti de-as cuvanta {author: {Anonim}, {rcId: {210160}}
+In limbi ceresti de-as cuvanta {composer: {Anonim}, {rcId: {210160}}
 
 [sequence]
 v1,v2,v3

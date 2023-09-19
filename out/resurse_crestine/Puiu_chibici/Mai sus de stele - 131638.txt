@@ -1,5 +1,5 @@
 [title]
-Mai sus de stele {author: {Puiu Chibici}, {rcId: {131638}}
+Mai sus de stele {composer: {Puiu Chibici}, {rcId: {131638}}
 
 [sequence]
 v1,c,v2,c,v3,c

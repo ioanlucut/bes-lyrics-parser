@@ -1,5 +1,5 @@
 [title]
-Tu esti fantana vietii mele {author: {Anonim}, {rcId: {62686}}
+Tu esti fantana vietii mele {composer: {Anonim}, {rcId: {62686}}
 
 [sequence]
 v1,c,e

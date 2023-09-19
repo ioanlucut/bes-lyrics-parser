@@ -1,5 +1,5 @@
 [title]
-Vreau in prezenta ta {author: {David Preuteasa}, {rcId: {184792}}
+Vreau in prezenta ta {composer: {David Preuteasa}, {rcId: {184792}}
 
 [sequence]
 v1,c,v2,c

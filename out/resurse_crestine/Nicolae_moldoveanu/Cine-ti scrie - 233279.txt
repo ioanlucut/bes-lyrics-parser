@@ -1,5 +1,5 @@
 [title]
-Cine-ti scrie {author: {Nicolae Moldoveanu}, {rcId: {233279}}
+Cine-ti scrie {composer: {Nicolae Moldoveanu}, {rcId: {233279}}
 
 [sequence]
 v1,v2,v3,v4

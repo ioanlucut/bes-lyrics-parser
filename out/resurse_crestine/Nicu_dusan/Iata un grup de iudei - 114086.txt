@@ -1,5 +1,5 @@
 [title]
-Iata un grup de iudei {author: {Nicu Dusan}, {rcId: {114086}}
+Iata un grup de iudei {composer: {Nicu Dusan}, {rcId: {114086}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c2,v7,c2,v8,c2

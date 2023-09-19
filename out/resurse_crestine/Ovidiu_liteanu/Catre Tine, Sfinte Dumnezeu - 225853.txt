@@ -1,5 +1,5 @@
 [title]
-Catre tine sfinte dumnezeu {author: {Ovidiu Liteanu}, {rcId: {225853}}
+Catre tine sfinte dumnezeu {composer: {Ovidiu Liteanu}, {rcId: {225853}}
 
 [sequence]
 v1,v2,v3,v4

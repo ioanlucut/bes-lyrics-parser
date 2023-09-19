@@ -1,5 +1,5 @@
 [title]
-Sfant este {author: {CristoCentric}, {rcId: {111424}}
+Sfant este {composer: {CristoCentric}, {rcId: {111424}}
 
 [sequence]
 v1,b,e

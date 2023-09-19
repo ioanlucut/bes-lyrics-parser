@@ -1,5 +1,5 @@
 [title]
-Cine oare cine oare te-a scapat din stramtorare? {author: {Puiu Chibici}, {rcId: {5810}}
+Cine oare cine oare te-a scapat din stramtorare? {composer: {Puiu Chibici}, {rcId: {5810}}
 
 [sequence]
 v1,v2,v3,v4

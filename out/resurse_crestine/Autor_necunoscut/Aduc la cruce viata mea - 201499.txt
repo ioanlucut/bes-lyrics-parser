@@ -1,5 +1,5 @@
 [title]
-Aduc la cruce viata mea {author: {Album necunoscut}, {rcId: {201499}}
+Aduc la cruce viata mea {composer: {Album necunoscut}, {rcId: {201499}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

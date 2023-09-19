@@ -1,5 +1,5 @@
 [title]
-Cand drumul meu e-ntunecos {author: {Anonim}, {rcId: {1750}}
+Cand drumul meu e-ntunecos {composer: {Anonim}, {rcId: {1750}}
 
 [sequence]
 v1,v2,v3,v4

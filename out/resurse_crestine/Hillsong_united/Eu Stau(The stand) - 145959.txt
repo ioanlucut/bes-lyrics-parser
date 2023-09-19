@@ -1,5 +1,5 @@
 [title]
-Eu stau(the stand) {author: {Hillsong United, Traducere RO}, {rcId: {145959}}
+Eu stau(the stand) {composer: {Hillsong United, Traducere RO}, {rcId: {145959}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

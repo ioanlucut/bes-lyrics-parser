@@ -1,5 +1,5 @@
 [title]
-Eu strig cu glsaul meu {author: {Frații Ursan}, {rcId: {219064}}
+Eu strig cu glsaul meu {composer: {Frații Ursan}, {rcId: {219064}}
 
 [sequence]
 v1,v2,v3,v4,v5

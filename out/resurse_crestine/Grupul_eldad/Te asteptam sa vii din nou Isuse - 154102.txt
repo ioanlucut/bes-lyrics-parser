@@ -1,5 +1,5 @@
 [title]
-Te asteptam sa vii din nou isuse {author: {Grupul Eldad}, {rcId: {154102}}
+Te asteptam sa vii din nou isuse {composer: {Grupul Eldad}, {rcId: {154102}}
 
 [sequence]
 v1,c,v2,c2,v3,c2

@@ -1,5 +1,5 @@
 [title]
-Sora frate si prieten {author: {Anonim}, {rcId: {75045}}
+Sora frate si prieten {composer: {Anonim}, {rcId: {75045}}
 
 [sequence]
 v1,v2,v3,v4,v5

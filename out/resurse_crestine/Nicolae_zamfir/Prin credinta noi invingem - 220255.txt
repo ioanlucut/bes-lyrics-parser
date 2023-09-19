@@ -1,5 +1,5 @@
 [title]
-Prin credinta noi invingem {author: {Nicolae Zamfir}, {rcId: {220255}}
+Prin credinta noi invingem {composer: {Nicolae Zamfir}, {rcId: {220255}}
 
 [sequence]
 v1,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Hristos a inviat {author: {Cristale}, {rcId: {88700}}
+Hristos a inviat {composer: {Cristale}, {rcId: {88700}}
 
 [sequence]
 v1,v2

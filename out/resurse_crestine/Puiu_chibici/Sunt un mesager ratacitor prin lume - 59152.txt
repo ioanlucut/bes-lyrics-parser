@@ -1,5 +1,5 @@
 [title]
-Sunt un mesager ratacitor prin lume {author: {Puiu Chibici}, {rcId: {59152}}
+Sunt un mesager ratacitor prin lume {composer: {Puiu Chibici}, {rcId: {59152}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

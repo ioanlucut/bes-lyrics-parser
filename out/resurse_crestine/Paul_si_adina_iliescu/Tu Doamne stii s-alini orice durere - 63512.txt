@@ -1,5 +1,5 @@
 [title]
-Tu doamne stii s-alini orice durere {author: {Paul și Adina Iliescu}, {rcId: {63512}}
+Tu doamne stii s-alini orice durere {composer: {Paul și Adina Iliescu}, {rcId: {63512}}
 
 [sequence]
 v1,c,v2,c,v3,c

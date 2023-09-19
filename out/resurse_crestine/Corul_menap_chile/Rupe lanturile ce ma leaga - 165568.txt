@@ -1,5 +1,5 @@
 [title]
-Rupe lanturile ce ma leaga {author: {Corul Menap, Chile}, {rcId: {165568}}
+Rupe lanturile ce ma leaga {composer: {Corul Menap, Chile}, {rcId: {165568}}
 
 [sequence]
 v1,c,v2,c,v3,c

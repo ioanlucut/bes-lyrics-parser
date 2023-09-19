@@ -1,5 +1,5 @@
 [title]
-De vrei sa fii sanatos {author: {Ioan Hapca}, {rcId: {96519}}
+De vrei sa fii sanatos {composer: {Ioan Hapca}, {rcId: {96519}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Domnul e al meu pastor {author: {Fratii Maftei}, {rcId: {125651}}
+Domnul e al meu pastor {composer: {Fratii Maftei}, {rcId: {125651}}
 
 [sequence]
 v1,c,v2,c,v3,c

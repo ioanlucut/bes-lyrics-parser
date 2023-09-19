@@ -1,5 +1,5 @@
 [title]
-Un cantec nou {author: {Text și muzică: Costel Mijan}, {rcId: {209521}}
+Un cantec nou {composer: {Text și muzică: Costel Mijan}, {rcId: {209521}}
 
 [sequence]
 v1,c,v2,c

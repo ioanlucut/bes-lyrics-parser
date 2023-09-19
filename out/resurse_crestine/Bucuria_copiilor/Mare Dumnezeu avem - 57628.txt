@@ -1,5 +1,5 @@
 [title]
-Mare dumnezeu avem {author: {Bucuria copiilor}, {rcId: {57628}}
+Mare dumnezeu avem {composer: {Bucuria copiilor}, {rcId: {57628}}
 
 [sequence]
 v1,v2

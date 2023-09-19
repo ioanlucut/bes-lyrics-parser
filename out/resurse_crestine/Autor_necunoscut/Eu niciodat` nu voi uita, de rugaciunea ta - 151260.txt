@@ -1,5 +1,5 @@
 [title]
-Eu niciodat nu voi uita de rugaciunea ta {author: {Anonim}, {rcId: {151260}}
+Eu niciodat nu voi uita de rugaciunea ta {composer: {Anonim}, {rcId: {151260}}
 
 [sequence]
 v1,c,v2,c,v3,c

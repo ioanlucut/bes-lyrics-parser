@@ -1,5 +1,5 @@
 [title]
-Stegari ne-nfranti {author: {Nicolae Moldoveanu}, {rcId: {244055}}
+Stegari ne-nfranti {composer: {Nicolae Moldoveanu}, {rcId: {244055}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

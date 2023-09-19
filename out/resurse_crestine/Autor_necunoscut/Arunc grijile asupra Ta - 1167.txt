@@ -1,5 +1,5 @@
 [title]
-Arunc grijile asupra ta {author: {Anonim}, {rcId: {1167}}
+Arunc grijile asupra ta {composer: {Anonim}, {rcId: {1167}}
 
 [sequence]
 v1,v2

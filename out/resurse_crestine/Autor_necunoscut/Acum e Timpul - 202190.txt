@@ -1,5 +1,5 @@
 [title]
-Acum e timpul {author: {Anonim}, {rcId: {202190}}
+Acum e timpul {composer: {Anonim}, {rcId: {202190}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Ce bucurie am in isus {author: {Phoebe P.Knapp}, {rcId: {1764}}
+Ce bucurie am in isus {composer: {Phoebe P.Knapp}, {rcId: {1764}}
 
 [sequence]
 v1,c,v2,c,v3,c

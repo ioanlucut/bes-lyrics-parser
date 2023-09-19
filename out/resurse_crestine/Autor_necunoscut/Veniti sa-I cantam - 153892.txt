@@ -1,5 +1,5 @@
 [title]
-Veniti sa-i cantam {author: {Anonim}, {rcId: {153892}}
+Veniti sa-i cantam {composer: {Anonim}, {rcId: {153892}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Vrednic de lauda {author: {Anonim}, {rcId: {65013}}
+Vrednic de lauda {composer: {Anonim}, {rcId: {65013}}
 
 [sequence]
 v1,c

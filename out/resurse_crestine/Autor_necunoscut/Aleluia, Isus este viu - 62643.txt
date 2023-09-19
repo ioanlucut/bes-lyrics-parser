@@ -1,5 +1,5 @@
 [title]
-Aleluia isus este viu {author: {Anonim}, {rcId: {62643}}
+Aleluia isus este viu {composer: {Anonim}, {rcId: {62643}}
 
 [sequence]
 c,v1,c

@@ -1,5 +1,5 @@
 [title]
-Isuse care m-ai chemat {author: {Anonim}, {rcId: {104091}}
+Isuse care m-ai chemat {composer: {Anonim}, {rcId: {104091}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8

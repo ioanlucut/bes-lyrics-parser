@@ -1,5 +1,5 @@
 [title]
-Aleluia rege-al regilor {author: {Anonim}, {rcId: {1226}}
+Aleluia rege-al regilor {composer: {Anonim}, {rcId: {1226}}
 
 [sequence]
 v1,v2,v3

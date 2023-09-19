@@ -1,5 +1,5 @@
 [title]
-Manzu-alearga {author: {Nicolae Moldoveanu}, {rcId: {233935}}
+Manzu-alearga {composer: {Nicolae Moldoveanu}, {rcId: {233935}}
 
 [sequence]
 v1,v2,v3

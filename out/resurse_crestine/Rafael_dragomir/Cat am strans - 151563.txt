@@ -1,5 +1,5 @@
 [title]
-Cat am strans {author: {Rafael Dragomir}, {rcId: {151563}}
+Cat am strans {composer: {Rafael Dragomir}, {rcId: {151563}}
 
 [sequence]
 v1,c,v2,c,v3,c

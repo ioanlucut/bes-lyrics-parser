@@ -1,5 +1,5 @@
 [title]
-Faithfully {author: {Eric, Leslie Ludy, Traducere RO}, {rcId: {4335}}
+Faithfully {composer: {Eric, Leslie Ludy, Traducere RO}, {rcId: {4335}}
 
 [sequence]
 v1,v2,v3,c,v4,c,v5,c

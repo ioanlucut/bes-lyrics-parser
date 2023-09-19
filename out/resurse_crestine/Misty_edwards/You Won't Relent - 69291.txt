@@ -1,5 +1,5 @@
 [title]
-You won t relent {author: {Misty Edwards, Traducere RO}, {rcId: {69291}}
+You won t relent {composer: {Misty Edwards, Traducere RO}, {rcId: {69291}}
 
 [sequence]
 v1,c,c

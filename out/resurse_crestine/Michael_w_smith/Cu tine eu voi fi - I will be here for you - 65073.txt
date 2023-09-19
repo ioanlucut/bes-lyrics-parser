@@ -1,5 +1,5 @@
 [title]
-Cu tine eu voi fi - i will be here for you {author: {Michael W. Smith, Traducere RO}, {rcId: {65073}}
+Cu tine eu voi fi - i will be here for you {composer: {Michael W. Smith, Traducere RO}, {rcId: {65073}}
 
 [sequence]
 v1,c,v2,c

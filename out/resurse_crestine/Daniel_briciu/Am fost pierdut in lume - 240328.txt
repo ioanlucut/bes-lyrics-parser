@@ -1,5 +1,5 @@
 [title]
-Am fost pierdut in lume {author: {Daniel Briciu}, {rcId: {240328}}
+Am fost pierdut in lume {composer: {Daniel Briciu}, {rcId: {240328}}
 
 [sequence]
 v1,v2,v3,c,v4,c,v5,c

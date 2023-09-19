@@ -1,5 +1,5 @@
 [title]
-Veniti la ape {author: {Ica Dragoi}, {rcId: {111764}}
+Veniti la ape {composer: {Ica Dragoi}, {rcId: {111764}}
 
 [sequence]
 v1,v2,v3,v4,v5

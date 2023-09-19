@@ -1,5 +1,5 @@
 [title]
-Strangeti randul vine domnul {author: {Fratii Pal}, {rcId: {214982}}
+Strangeti randul vine domnul {composer: {Fratii Pal}, {rcId: {214982}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

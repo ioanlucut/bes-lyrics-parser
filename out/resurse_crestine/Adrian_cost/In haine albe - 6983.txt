@@ -1,5 +1,5 @@
 [title]
-In haine albe {author: {Adrian Cost}, {rcId: {6983}}
+In haine albe {composer: {Adrian Cost}, {rcId: {6983}}
 
 [sequence]
 v1,c,e

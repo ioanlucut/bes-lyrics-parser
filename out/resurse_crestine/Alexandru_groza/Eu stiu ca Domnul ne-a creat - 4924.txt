@@ -1,5 +1,5 @@
 [title]
-Eu stiu ca domnul ne-a creat {author: {Alexandru Groza}, {rcId: {4924}}
+Eu stiu ca domnul ne-a creat {composer: {Alexandru Groza}, {rcId: {4924}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

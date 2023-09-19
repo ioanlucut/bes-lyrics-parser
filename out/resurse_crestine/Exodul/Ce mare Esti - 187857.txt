@@ -1,5 +1,5 @@
 [title]
-Ce mare esti {author: {Exodul}, {rcId: {187857}}
+Ce mare esti {composer: {Exodul}, {rcId: {187857}}
 
 [sequence]
 v1,c,v2,c,v3,c

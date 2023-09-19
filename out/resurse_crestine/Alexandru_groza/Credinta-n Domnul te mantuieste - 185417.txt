@@ -1,5 +1,5 @@
 [title]
-Credinta-n domnul te mantuieste {author: {Alexandru Groza}, {rcId: {185417}}
+Credinta-n domnul te mantuieste {composer: {Alexandru Groza}, {rcId: {185417}}
 
 [sequence]
 v1,c,v2,c,v3,c

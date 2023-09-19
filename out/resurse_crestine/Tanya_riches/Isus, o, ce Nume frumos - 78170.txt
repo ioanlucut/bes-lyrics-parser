@@ -1,5 +1,5 @@
 [title]
-Isus o ce nume frumos {author: {Tanya Riches, Traducere RO}, {rcId: {78170}}
+Isus o ce nume frumos {composer: {Tanya Riches, Traducere RO}, {rcId: {78170}}
 
 [sequence]
 v1,v2,v3

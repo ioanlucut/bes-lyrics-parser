@@ -1,5 +1,5 @@
 [title]
-Multumesc isuse ca m-ai mantuit {author: {Anonim}, {rcId: {74390}}
+Multumesc isuse ca m-ai mantuit {composer: {Anonim}, {rcId: {74390}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Lumini de sarbatori (a thousand candles) {author: {Emmy Köhlers, Traducere RO}, {rcId: {155234}}
+Lumini de sarbatori (a thousand candles) {composer: {Emmy Köhlers, Traducere RO}, {rcId: {155234}}
 
 [sequence]
 v1,v2,v3,v4,s

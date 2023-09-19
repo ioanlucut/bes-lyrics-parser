@@ -1,5 +1,5 @@
 [title]
-Cand in viata am fost incercat {author: {Alexandru Groza}, {rcId: {185323}}
+Cand in viata am fost incercat {composer: {Alexandru Groza}, {rcId: {185323}}
 
 [sequence]
 v1,c,v2,c

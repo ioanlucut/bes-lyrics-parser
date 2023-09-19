@@ -1,5 +1,5 @@
 [title]
-Doamne cat de mare esti in ostirile ceresti {author: {Anonim}, {rcId: {4604}}
+Doamne cat de mare esti in ostirile ceresti {composer: {Anonim}, {rcId: {4604}}
 
 [sequence]
 v1,v2,v3,v4

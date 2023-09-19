@@ -1,5 +1,5 @@
 [title]
-De ai nevoie de isus {author: {Frații Wagner}, {rcId: {108914}}
+De ai nevoie de isus {composer: {Frații Wagner}, {rcId: {108914}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8,v9

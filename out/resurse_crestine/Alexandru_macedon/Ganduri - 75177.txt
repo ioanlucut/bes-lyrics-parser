@@ -1,5 +1,5 @@
 [title]
-Ganduri {author: {Alexandru Macedon}, {rcId: {75177}}
+Ganduri {composer: {Alexandru Macedon}, {rcId: {75177}}
 
 [sequence]
 v1,v2,c,v3,c2,v4,c2,v5,c2

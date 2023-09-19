@@ -1,5 +1,5 @@
 [title]
-Viata aceasta pe pamint trece ca un praf in vint {author: {Emanuel Hasan}, {rcId: {169516}}
+Viata aceasta pe pamint trece ca un praf in vint {composer: {Emanuel Hasan}, {rcId: {169516}}
 
 [sequence]
 v1,v2,v3,v4

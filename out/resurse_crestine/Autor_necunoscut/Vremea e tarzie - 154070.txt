@@ -1,5 +1,5 @@
 [title]
-Vremea e tarzie {author: {Anonim}, {rcId: {154070}}
+Vremea e tarzie {composer: {Anonim}, {rcId: {154070}}
 
 [sequence]
 v1,c,v2,c,v3,c

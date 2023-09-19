@@ -1,5 +1,5 @@
 [title]
-Prin har noi azi traim (and are we yet alive) {author: {Charles Wesley, Lowell Mason, Traducere RO}, {rcId: {223913}}
+Prin har noi azi traim (and are we yet alive) {composer: {Charles Wesley, Lowell Mason, Traducere RO}, {rcId: {223913}}
 
 [sequence]
 v1,v2,v3,v4

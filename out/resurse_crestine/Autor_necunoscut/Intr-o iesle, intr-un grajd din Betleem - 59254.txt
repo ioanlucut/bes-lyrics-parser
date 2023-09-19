@@ -1,5 +1,5 @@
 [title]
-Intr-o iesle intr-un grajd din betleem {author: {Anonim}, {rcId: {59254}}
+Intr-o iesle intr-un grajd din betleem {composer: {Anonim}, {rcId: {59254}}
 
 [sequence]
 v1,c,v2,c

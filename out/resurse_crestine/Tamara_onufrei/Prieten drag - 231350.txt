@@ -1,5 +1,5 @@
 [title]
-Prieten drag {author: {Tamara Onufrei}, {rcId: {231350}}
+Prieten drag {composer: {Tamara Onufrei}, {rcId: {231350}}
 
 [sequence]
 v1,v2,v3,v4

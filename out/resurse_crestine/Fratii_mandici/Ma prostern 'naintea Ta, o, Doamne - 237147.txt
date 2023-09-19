@@ -1,5 +1,5 @@
 [title]
-Ma prostern naintea ta o doamne {author: {Fratii Mandici}, {rcId: {237147}}
+Ma prostern naintea ta o doamne {composer: {Fratii Mandici}, {rcId: {237147}}
 
 [sequence]
 v1,c,v2,c

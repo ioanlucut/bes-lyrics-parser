@@ -1,5 +1,5 @@
 [title]
-El m-a cuprins cu-a sa mana (god put his hand on my shoulder) {author: {John W. Peterson, Traducere RO}, {rcId: {189210}}
+El m-a cuprins cu-a sa mana (god put his hand on my shoulder) {composer: {John W. Peterson, Traducere RO}, {rcId: {189210}}
 
 [sequence]
 v1,c,v2,c,s,c

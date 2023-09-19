@@ -1,5 +1,5 @@
 [title]
-El toate le-a creat {author: {Iolu Cornel}, {rcId: {150824}}
+El toate le-a creat {composer: {Iolu Cornel}, {rcId: {150824}}
 
 [sequence]
 v1,c,v2,c

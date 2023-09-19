@@ -1,5 +1,5 @@
 [title]
-Ce minunat e dumnezeu {author: {Eldad Vlad Bucur}, {rcId: {180424}}
+Ce minunat e dumnezeu {composer: {Eldad Vlad Bucur}, {rcId: {180424}}
 
 [sequence]
 s,s,s,s

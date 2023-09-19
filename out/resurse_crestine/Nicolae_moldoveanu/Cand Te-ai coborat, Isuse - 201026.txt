@@ -1,5 +1,5 @@
 [title]
-Cand te-ai coborat isuse {author: {Nicolae Moldoveanu}, {rcId: {201026}}
+Cand te-ai coborat isuse {composer: {Nicolae Moldoveanu}, {rcId: {201026}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-De-ar fi sa vii de craciun {author: {Dolores}, {rcId: {116988}}
+De-ar fi sa vii de craciun {composer: {Dolores}, {rcId: {116988}}
 
 [sequence]
 v1,b,c,v2,c,e

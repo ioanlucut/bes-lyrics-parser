@@ -1,5 +1,5 @@
 [title]
-Se-apropie mereu sfarsitul {author: {Anonim}, {rcId: {89060}}
+Se-apropie mereu sfarsitul {composer: {Anonim}, {rcId: {89060}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

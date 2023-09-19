@@ -1,5 +1,5 @@
 [title]
-E-atat de bine la isus {author: {Anonim}, {rcId: {1634}}
+E-atat de bine la isus {composer: {Anonim}, {rcId: {1634}}
 
 [sequence]
 v1,c,v2,c,v3,c

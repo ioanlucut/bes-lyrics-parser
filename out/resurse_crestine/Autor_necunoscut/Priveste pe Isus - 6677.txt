@@ -1,5 +1,5 @@
 [title]
-Priveste pe isus {author: {Anonim}, {rcId: {6677}}
+Priveste pe isus {composer: {Anonim}, {rcId: {6677}}
 
 [sequence]
 v1,v2,v3,v4

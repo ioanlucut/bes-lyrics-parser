@@ -1,5 +1,5 @@
 [title]
-Sus pe dealul inalt {author: {Nicolae Moldoveanu}, {rcId: {5883}}
+Sus pe dealul inalt {composer: {Nicolae Moldoveanu}, {rcId: {5883}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

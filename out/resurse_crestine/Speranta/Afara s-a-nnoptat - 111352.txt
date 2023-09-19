@@ -1,5 +1,5 @@
 [title]
-Afara s-a-nnoptat {author: {Speranța}, {rcId: {111352}}
+Afara s-a-nnoptat {composer: {Speranța}, {rcId: {111352}}
 
 [sequence]
 v1,b,c,v2,b,c

@@ -1,5 +1,5 @@
 [title]
-Esti domn minunat (my wonderful lord) {author: {Haldor Lillenas, Traducere RO}, {rcId: {241335}}
+Esti domn minunat (my wonderful lord) {composer: {Haldor Lillenas, Traducere RO}, {rcId: {241335}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

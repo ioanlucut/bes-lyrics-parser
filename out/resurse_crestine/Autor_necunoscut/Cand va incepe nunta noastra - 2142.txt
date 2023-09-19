@@ -1,5 +1,5 @@
 [title]
-Cand va incepe nunta noastra {author: {Anonim}, {rcId: {2142}}
+Cand va incepe nunta noastra {composer: {Anonim}, {rcId: {2142}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

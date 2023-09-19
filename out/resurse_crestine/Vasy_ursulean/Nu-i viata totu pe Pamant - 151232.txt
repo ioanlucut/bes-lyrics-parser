@@ -1,5 +1,5 @@
 [title]
-Nu-i viata totu pe pamant {author: {Vasy Ursulean}, {rcId: {151232}}
+Nu-i viata totu pe pamant {composer: {Vasy Ursulean}, {rcId: {151232}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

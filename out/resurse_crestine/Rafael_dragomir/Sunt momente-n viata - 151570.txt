@@ -1,5 +1,5 @@
 [title]
-Sunt momente-n viata {author: {Rafael Dragomir}, {rcId: {151570}}
+Sunt momente-n viata {composer: {Rafael Dragomir}, {rcId: {151570}}
 
 [sequence]
 v1,c,v2,c,v3,c

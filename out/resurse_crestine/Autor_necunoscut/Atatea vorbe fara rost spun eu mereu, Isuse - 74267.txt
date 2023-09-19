@@ -1,5 +1,5 @@
 [title]
-Atatea vorbe fara rost spun eu mereu isuse {author: {Anonim}, {rcId: {74267}}
+Atatea vorbe fara rost spun eu mereu isuse {composer: {Anonim}, {rcId: {74267}}
 
 [sequence]
 v1,v2,v3,v4,v5

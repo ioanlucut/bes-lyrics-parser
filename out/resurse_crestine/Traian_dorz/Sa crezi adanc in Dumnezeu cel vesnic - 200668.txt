@@ -1,5 +1,5 @@
 [title]
-Sa crezi adanc in dumnezeu cel vesnic {author: {Traian Dorz}, {rcId: {200668}}
+Sa crezi adanc in dumnezeu cel vesnic {composer: {Traian Dorz}, {rcId: {200668}}
 
 [sequence]
 v1,v2,v3,v4,v5

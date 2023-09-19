@@ -1,5 +1,5 @@
 [title]
-Laudati pe domnul sfant {author: {Leleu Niculae}, {rcId: {75573}}
+Laudati pe domnul sfant {composer: {Leleu Niculae}, {rcId: {75573}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

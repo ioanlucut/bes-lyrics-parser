@@ -1,5 +1,5 @@
 [title]
-Daca strigi si rana ta te doare {author: {cristi72}, {rcId: {127305}}
+Daca strigi si rana ta te doare {composer: {cristi72}, {rcId: {127305}}
 
 [sequence]
 v1,c,v2,c,v3,c

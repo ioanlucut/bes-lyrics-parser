@@ -1,5 +1,5 @@
 [title]
-Daca vrei {author: {Utilizator Halasu Claudiu}, {rcId: {104519}}
+Daca vrei {composer: {Utilizator Halasu Claudiu}, {rcId: {104519}}
 
 [sequence]
 v1,c,v2,c,v3,c

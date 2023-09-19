@@ -1,5 +1,5 @@
 [title]
-Mai priveste o doamne {author: {Luiza Cotea}, {rcId: {210748}}
+Mai priveste o doamne {composer: {Luiza Cotea}, {rcId: {210748}}
 
 [sequence]
 v1,b,c,v2,b,c

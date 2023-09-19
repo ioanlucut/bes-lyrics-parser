@@ -1,5 +1,5 @@
 [title]
-Grabeste doamne si asculta-mi ruga {author: {Marta Bergheaua}, {rcId: {62458}}
+Grabeste doamne si asculta-mi ruga {composer: {Marta Bergheaua}, {rcId: {62458}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

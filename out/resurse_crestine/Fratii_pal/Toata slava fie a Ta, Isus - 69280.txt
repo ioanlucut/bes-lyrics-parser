@@ -1,5 +1,5 @@
 [title]
-Toata slava fie a ta isus {author: {Fratii Pal}, {rcId: {69280}}
+Toata slava fie a ta isus {composer: {Fratii Pal}, {rcId: {69280}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Cred ca este iertare {author: {Shema}, {rcId: {4342}}
+Cred ca este iertare {composer: {Shema}, {rcId: {4342}}
 
 [sequence]
 v1,v2,c,v3,c

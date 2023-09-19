@@ -1,5 +1,5 @@
 [title]
-Sus in zare e o tara {author: {David Stănuș}, {rcId: {184924}}
+Sus in zare e o tara {composer: {David Stănuș}, {rcId: {184924}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

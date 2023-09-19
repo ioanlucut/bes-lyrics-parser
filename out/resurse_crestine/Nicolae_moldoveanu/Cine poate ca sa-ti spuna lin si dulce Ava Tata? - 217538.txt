@@ -1,5 +1,5 @@
 [title]
-Cine poate ca sa-ti spuna lin si dulce ava tata? {author: {Nicolae Moldoveanu}, {rcId: {217538}}
+Cine poate ca sa-ti spuna lin si dulce ava tata? {composer: {Nicolae Moldoveanu}, {rcId: {217538}}
 
 [sequence]
 v1,v2,v3,v4

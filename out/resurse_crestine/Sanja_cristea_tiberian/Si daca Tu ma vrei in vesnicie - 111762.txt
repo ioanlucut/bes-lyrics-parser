@@ -1,5 +1,5 @@
 [title]
-Si daca tu ma vrei in vesnicie {author: {Sanja Cristea Tiberian}, {rcId: {111762}}
+Si daca tu ma vrei in vesnicie {composer: {Sanja Cristea Tiberian}, {rcId: {111762}}
 
 [sequence]
 v1,v2,v3,v4

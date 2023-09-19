@@ -1,5 +1,5 @@
 [title]
-Poate asa ti-e scris sa suferi {author: {The Messengers}, {rcId: {7252}}
+Poate asa ti-e scris sa suferi {composer: {The Messengers}, {rcId: {7252}}
 
 [sequence]
 v1,c,v2,c,v3,c

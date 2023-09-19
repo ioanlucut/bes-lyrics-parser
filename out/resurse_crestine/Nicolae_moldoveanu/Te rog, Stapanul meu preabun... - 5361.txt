@@ -1,5 +1,5 @@
 [title]
-Te rog stapanul meu preabun {author: {Nicolae Moldoveanu}, {rcId: {5361}}
+Te rog stapanul meu preabun {composer: {Nicolae Moldoveanu}, {rcId: {5361}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

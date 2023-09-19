@@ -1,5 +1,5 @@
 [title]
-Drumul de la cer la iesle {author: {Carmen Prodan}, {rcId: {170206}}
+Drumul de la cer la iesle {composer: {Carmen Prodan}, {rcId: {170206}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

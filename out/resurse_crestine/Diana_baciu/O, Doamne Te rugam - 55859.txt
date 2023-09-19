@@ -1,5 +1,5 @@
 [title]
-O doamne te rugam {author: {Diana Baciu}, {rcId: {55859}}
+O doamne te rugam {composer: {Diana Baciu}, {rcId: {55859}}
 
 [sequence]
 v1,c,v2,c

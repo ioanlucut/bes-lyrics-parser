@@ -1,5 +1,5 @@
 [title]
-Gradinita {author: {Alexandru Groza}, {rcId: {193467}}
+Gradinita {composer: {Alexandru Groza}, {rcId: {193467}}
 
 [sequence]
 v1,c,v2,c,v3,c

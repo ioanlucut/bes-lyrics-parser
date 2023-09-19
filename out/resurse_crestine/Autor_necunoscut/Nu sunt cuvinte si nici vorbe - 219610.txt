@@ -1,5 +1,5 @@
 [title]
-Nu sunt cuvinte si nici vorbe {author: {Necunoscut}, {rcId: {219610}}
+Nu sunt cuvinte si nici vorbe {composer: {Necunoscut}, {rcId: {219610}}
 
 [sequence]
 v1,c,v2,c

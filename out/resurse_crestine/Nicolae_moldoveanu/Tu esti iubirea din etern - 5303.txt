@@ -1,5 +1,5 @@
 [title]
-Tu esti iubirea din etern {author: {Nicolae Moldoveanu}, {rcId: {5303}}
+Tu esti iubirea din etern {composer: {Nicolae Moldoveanu}, {rcId: {5303}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

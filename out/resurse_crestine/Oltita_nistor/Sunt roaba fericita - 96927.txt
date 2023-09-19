@@ -1,5 +1,5 @@
 [title]
-Sunt roaba fericita {author: {Oltita Nistor}, {rcId: {96927}}
+Sunt roaba fericita {composer: {Oltita Nistor}, {rcId: {96927}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

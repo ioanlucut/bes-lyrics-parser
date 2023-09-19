@@ -1,5 +1,5 @@
 [title]
-La scaldatoare {author: {Anonim}, {rcId: {55610}}
+La scaldatoare {composer: {Anonim}, {rcId: {55610}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Se-apropie clipa {author: {Ligia Bodea și Gabi Iluț}, {rcId: {164161}}
+Se-apropie clipa {composer: {Ligia Bodea și Gabi Iluț}, {rcId: {164161}}
 
 [sequence]
 v1,c,v2,c,v3,c

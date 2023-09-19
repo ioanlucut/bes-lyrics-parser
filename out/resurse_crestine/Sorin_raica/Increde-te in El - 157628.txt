@@ -1,5 +1,5 @@
 [title]
-Increde-te in el {author: {Sorin Raica}, {rcId: {157628}}
+Increde-te in el {composer: {Sorin Raica}, {rcId: {157628}}
 
 [sequence]
 v1,c,v2,c

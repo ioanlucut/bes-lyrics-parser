@@ -1,5 +1,5 @@
 [title]
-Pastreaza-ti credinta {author: {Anca Ostafe}, {rcId: {239699}}
+Pastreaza-ti credinta {composer: {Anca Ostafe}, {rcId: {239699}}
 
 [sequence]
 v1,c,v2,c,v3,c

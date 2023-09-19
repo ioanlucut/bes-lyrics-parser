@@ -1,5 +1,5 @@
 [title]
-Obosit fara cuvant {author: {Text și muzica: Ștefan Mihai}, {rcId: {199435}}
+Obosit fara cuvant {composer: {Text și muzica: Ștefan Mihai}, {rcId: {199435}}
 
 [sequence]
 v1,c,v2,c

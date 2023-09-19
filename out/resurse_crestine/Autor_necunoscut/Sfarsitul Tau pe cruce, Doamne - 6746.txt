@@ -1,5 +1,5 @@
 [title]
-Sfarsitul tau pe cruce doamne {author: {Anonim}, {rcId: {6746}}
+Sfarsitul tau pe cruce doamne {composer: {Anonim}, {rcId: {6746}}
 
 [sequence]
 v1,v2,v3,v4,v5

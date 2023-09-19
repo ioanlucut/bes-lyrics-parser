@@ -1,5 +1,5 @@
 [title]
-Rasuna pe pamant un glas ceresc si sfant {author: {Nicolae Moldoveanu}, {rcId: {5761}}
+Rasuna pe pamant un glas ceresc si sfant {composer: {Nicolae Moldoveanu}, {rcId: {5761}}
 
 [sequence]
 v1,c,v2,c,v3,c

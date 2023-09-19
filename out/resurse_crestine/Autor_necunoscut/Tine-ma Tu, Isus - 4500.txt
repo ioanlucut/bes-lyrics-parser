@@ -1,5 +1,5 @@
 [title]
-Tine-ma tu isus {author: {Anonim}, {rcId: {4500}}
+Tine-ma tu isus {composer: {Anonim}, {rcId: {4500}}
 
 [sequence]
 v1,c,v2,c

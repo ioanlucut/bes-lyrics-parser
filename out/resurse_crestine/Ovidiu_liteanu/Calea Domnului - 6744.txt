@@ -1,5 +1,5 @@
 [title]
-Calea domnului {author: {Ovidiu Liteanu}, {rcId: {6744}}
+Calea domnului {composer: {Ovidiu Liteanu}, {rcId: {6744}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

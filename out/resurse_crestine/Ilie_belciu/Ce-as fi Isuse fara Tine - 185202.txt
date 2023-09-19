@@ -1,5 +1,5 @@
 [title]
-Ce-as fi isuse fara tine {author: {Ilie Belciu}, {rcId: {185202}}
+Ce-as fi isuse fara tine {composer: {Ilie Belciu}, {rcId: {185202}}
 
 [sequence]
 v1,c,v2,c,v3,c

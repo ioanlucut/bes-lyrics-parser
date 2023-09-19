@@ -1,5 +1,5 @@
 [title]
-Isus mare domn {author: {Cristos pentru Romania}, {rcId: {4968}}
+Isus mare domn {composer: {Cristos pentru Romania}, {rcId: {4968}}
 
 [sequence]
 v1,c

@@ -1,5 +1,5 @@
 [title]
-Biblia copiilor {author: {Alexandru Groza}, {rcId: {193534}}
+Biblia copiilor {composer: {Alexandru Groza}, {rcId: {193534}}
 
 [sequence]
 v1,v2

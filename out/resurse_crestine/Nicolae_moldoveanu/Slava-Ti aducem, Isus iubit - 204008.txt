@@ -1,5 +1,5 @@
 [title]
-Slava-ti aducem isus iubit {author: {Nicolae Moldoveanu}, {rcId: {204008}}
+Slava-ti aducem isus iubit {composer: {Nicolae Moldoveanu}, {rcId: {204008}}
 
 [sequence]
 v1,c,v2,c

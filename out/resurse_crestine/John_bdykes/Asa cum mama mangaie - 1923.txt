@@ -1,5 +1,5 @@
 [title]
-Asa cum mama mangaie {author: {John B.Dykes}, {rcId: {1923}}
+Asa cum mama mangaie {composer: {John B.Dykes}, {rcId: {1923}}
 
 [sequence]
 v1,v2,v3,v4

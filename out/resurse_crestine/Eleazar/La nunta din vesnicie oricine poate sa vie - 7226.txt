@@ -1,5 +1,5 @@
 [title]
-La nunta din vesnicie oricine poate sa vie {author: {Eleazar}, {rcId: {7226}}
+La nunta din vesnicie oricine poate sa vie {composer: {Eleazar}, {rcId: {7226}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

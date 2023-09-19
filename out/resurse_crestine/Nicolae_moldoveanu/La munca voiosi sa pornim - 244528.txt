@@ -1,5 +1,5 @@
 [title]
-La munca voiosi sa pornim {author: {Nicolae Moldoveanu}, {rcId: {244528}}
+La munca voiosi sa pornim {composer: {Nicolae Moldoveanu}, {rcId: {244528}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

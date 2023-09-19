@@ -1,5 +1,5 @@
 [title]
-E o noua zi motive {author: {Alin Timofte}, {rcId: {164159}}
+E o noua zi motive {composer: {Alin Timofte}, {rcId: {164159}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Sa sporim in bine {author: {Nicolae Moldoveanu}, {rcId: {230782}}
+Sa sporim in bine {composer: {Nicolae Moldoveanu}, {rcId: {230782}}
 
 [sequence]
 v1,v2,v3

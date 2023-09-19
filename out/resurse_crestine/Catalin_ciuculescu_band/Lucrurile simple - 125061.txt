@@ -1,5 +1,5 @@
 [title]
-Lucrurile simple {author: {Cătălin Ciuculescu Band}, {rcId: {125061}}
+Lucrurile simple {composer: {Cătălin Ciuculescu Band}, {rcId: {125061}}
 
 [sequence]
 v1,b,c,e

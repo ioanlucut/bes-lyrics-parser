@@ -1,5 +1,5 @@
 [title]
-Dulce-i lumea din poveste {author: {Nicolae Moldoveanu}, {rcId: {228118}}
+Dulce-i lumea din poveste {composer: {Nicolae Moldoveanu}, {rcId: {228118}}
 
 [sequence]
 v1,v2,v3

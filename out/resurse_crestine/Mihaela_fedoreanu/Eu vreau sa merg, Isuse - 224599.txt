@@ -1,5 +1,5 @@
 [title]
-Eu vreau sa merg isuse {author: {Mihaela Fedoreanu}, {rcId: {224599}}
+Eu vreau sa merg isuse {composer: {Mihaela Fedoreanu}, {rcId: {224599}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8,v9

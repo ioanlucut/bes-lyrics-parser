@@ -1,5 +1,5 @@
 [title]
-Cine este sfant {author: {Anonim}, {rcId: {4857}}
+Cine este sfant {composer: {Anonim}, {rcId: {4857}}
 
 [sequence]
 v1,c

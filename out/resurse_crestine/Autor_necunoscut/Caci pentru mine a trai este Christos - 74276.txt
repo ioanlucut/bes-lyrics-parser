@@ -1,5 +1,5 @@
 [title]
-Caci pentru mine a trai este christos {author: {Anonim}, {rcId: {74276}}
+Caci pentru mine a trai este christos {composer: {Anonim}, {rcId: {74276}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

@@ -1,5 +1,5 @@
 [title]
-O dragi frati si surori {author: {Nicolae Moldoveanu}, {rcId: {68957}}
+O dragi frati si surori {composer: {Nicolae Moldoveanu}, {rcId: {68957}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Sase zile {author: {Lidia Cârlan și Puiu Chibici}, {rcId: {153715}}
+Sase zile {composer: {Lidia Cârlan și Puiu Chibici}, {rcId: {153715}}
 
 [sequence]
 v1,c,v2,c,v3,c

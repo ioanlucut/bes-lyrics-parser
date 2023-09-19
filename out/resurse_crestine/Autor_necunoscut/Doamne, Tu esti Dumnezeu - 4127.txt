@@ -1,5 +1,5 @@
 [title]
-Doamne tu esti dumnezeu {author: {Anonim}, {rcId: {4127}}
+Doamne tu esti dumnezeu {composer: {Anonim}, {rcId: {4127}}
 
 [sequence]
 v1,c,v2,c

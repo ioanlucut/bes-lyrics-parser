@@ -1,5 +1,5 @@
 [title]
-Adevaratele comori {author: {Adonai}, {rcId: {123537}}
+Adevaratele comori {composer: {Adonai}, {rcId: {123537}}
 
 [sequence]
 v1,c,v2,c2

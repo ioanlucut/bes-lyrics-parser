@@ -1,5 +1,5 @@
 [title]
-Is he worthy? (cine-i vrednic?) {author: {Andrew Peterson Chris Tomlin}, {rcId: {192370}}
+Is he worthy? (cine-i vrednic?) {composer: {Andrew Peterson Chris Tomlin}, {rcId: {192370}}
 
 [sequence]
 v1,v2,c,v3,c,c,e

@@ -1,5 +1,5 @@
 [title]
-Soapte de dor {author: {Gabi_Ilut}, {rcId: {241235}}
+Soapte de dor {composer: {Gabi_Ilut}, {rcId: {241235}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-De vrei sa ai fericire in viata {author: {Anonim}, {rcId: {1418}}
+De vrei sa ai fericire in viata {composer: {Anonim}, {rcId: {1418}}
 
 [sequence]
 v1,c,v2,c,v3,c

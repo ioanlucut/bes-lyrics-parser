@@ -1,5 +1,5 @@
 [title]
-Soarele straluceste {author: {Popescu Mihai Neluș}, {rcId: {198133}}
+Soarele straluceste {composer: {Popescu Mihai Neluș}, {rcId: {198133}}
 
 [sequence]
 v1,c,v2,c

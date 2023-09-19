@@ -1,5 +1,5 @@
 [title]
-In indurarea domnului {author: {revizuit}, {rcId: {216284}}
+In indurarea domnului {composer: {revizuit}, {rcId: {216284}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-La ce sunt bune toate-n viata {author: {Anonim}, {rcId: {159416}}
+La ce sunt bune toate-n viata {composer: {Anonim}, {rcId: {159416}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c

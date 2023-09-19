@@ -1,5 +1,5 @@
 [title]
-Tu esti viata {author: {Rugul Aprins și Arman Ludovic}, {rcId: {163375}}
+Tu esti viata {composer: {Rugul Aprins și Arman Ludovic}, {rcId: {163375}}
 
 [sequence]
 v1,c,v2,c,v3,c

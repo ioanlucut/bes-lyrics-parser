@@ -1,5 +1,5 @@
 [title]
-Poti trai in slavi odata {author: {Simion Buzduga}, {rcId: {5930}}
+Poti trai in slavi odata {composer: {Simion Buzduga}, {rcId: {5930}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

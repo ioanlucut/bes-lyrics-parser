@@ -1,5 +1,5 @@
 [title]
-Un fiu iubit si drag eram acasa {author: {Anonim}, {rcId: {128231}}
+Un fiu iubit si drag eram acasa {composer: {Anonim}, {rcId: {128231}}
 
 [sequence]
 v1,c,v2,c

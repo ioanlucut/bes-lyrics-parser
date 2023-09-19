@@ -1,5 +1,5 @@
 [title]
-Doar in hristos ma-ncred mereu {author: {Keith Getty, Stuart Townend}, {rcId: {55961}}
+Doar in hristos ma-ncred mereu {composer: {Keith Getty, Stuart Townend}, {rcId: {55961}}
 
 [sequence]
 v1,v2,v3,v4

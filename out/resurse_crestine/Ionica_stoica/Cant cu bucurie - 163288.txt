@@ -1,5 +1,5 @@
 [title]
-Cant cu bucurie {author: {Ionică Stoica}, {rcId: {163288}}
+Cant cu bucurie {composer: {Ionică Stoica}, {rcId: {163288}}
 
 [sequence]
 v1,c,v2,c,v3,c

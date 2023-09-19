@@ -1,5 +1,5 @@
 [title]
-Langa tine {author: {Speranța}, {rcId: {111358}}
+Langa tine {composer: {Speranța}, {rcId: {111358}}
 
 [sequence]
 v1,c,v2,c,e

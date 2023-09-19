@@ -1,5 +1,5 @@
 [title]
-Este ceas de rugaciune {author: {Benone Burtescu}, {rcId: {169611}}
+Este ceas de rugaciune {composer: {Benone Burtescu}, {rcId: {169611}}
 
 [sequence]
 v1,c,v2,c,v3,c

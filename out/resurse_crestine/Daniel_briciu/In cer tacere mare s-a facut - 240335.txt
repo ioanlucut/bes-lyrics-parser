@@ -1,5 +1,5 @@
 [title]
-In cer tacere mare s-a facut {author: {Daniel Briciu}, {rcId: {240335}}
+In cer tacere mare s-a facut {composer: {Daniel Briciu}, {rcId: {240335}}
 
 [sequence]
 v1,v2,v3,v4,v5

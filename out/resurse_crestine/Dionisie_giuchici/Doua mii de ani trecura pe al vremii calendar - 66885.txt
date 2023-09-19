@@ -1,5 +1,5 @@
 [title]
-Doua mii de ani trecura pe al vremii calendar {author: {Dionisie Giuchici}, {rcId: {66885}}
+Doua mii de ani trecura pe al vremii calendar {composer: {Dionisie Giuchici}, {rcId: {66885}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

@@ -1,5 +1,5 @@
 [title]
-De suferinta ti-e mare {author: {Anonim}, {rcId: {6716}}
+De suferinta ti-e mare {composer: {Anonim}, {rcId: {6716}}
 
 [sequence]
 v1,c,v2,c,v3,c

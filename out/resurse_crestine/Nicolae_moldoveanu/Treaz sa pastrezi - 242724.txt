@@ -1,5 +1,5 @@
 [title]
-Treaz sa pastrezi {author: {Nicolae Moldoveanu}, {rcId: {242724}}
+Treaz sa pastrezi {composer: {Nicolae Moldoveanu}, {rcId: {242724}}
 
 [sequence]
 v1,v2

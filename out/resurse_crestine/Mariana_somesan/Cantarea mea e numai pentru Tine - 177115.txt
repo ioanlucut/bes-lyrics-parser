@@ -1,5 +1,5 @@
 [title]
-Cantarea mea e numai pentru tine {author: {Mariana Someșan}, {rcId: {177115}}
+Cantarea mea e numai pentru tine {composer: {Mariana Someșan}, {rcId: {177115}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

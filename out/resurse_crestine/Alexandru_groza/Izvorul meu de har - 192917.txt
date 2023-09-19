@@ -1,5 +1,5 @@
 [title]
-Izvorul meu de har {author: {Alexandru Groza}, {rcId: {192917}}
+Izvorul meu de har {composer: {Alexandru Groza}, {rcId: {192917}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

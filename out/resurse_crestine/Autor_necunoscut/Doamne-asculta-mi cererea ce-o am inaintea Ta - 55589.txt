@@ -1,5 +1,5 @@
 [title]
-Doamne-asculta-mi cererea ce-o am inaintea ta {author: {Anonim}, {rcId: {55589}}
+Doamne-asculta-mi cererea ce-o am inaintea ta {composer: {Anonim}, {rcId: {55589}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

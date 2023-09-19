@@ -1,5 +1,5 @@
 [title]
-Vas de lut {author: {Diaz Amos}, {rcId: {237966}}
+Vas de lut {composer: {Diaz Amos}, {rcId: {237966}}
 
 [sequence]
 v1,c,v2,c,e

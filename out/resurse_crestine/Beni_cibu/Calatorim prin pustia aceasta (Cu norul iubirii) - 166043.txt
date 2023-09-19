@@ -1,5 +1,5 @@
 [title]
-Calatorim prin pustia aceasta (cu norul iubirii) {author: {Beni Cibu}, {rcId: {166043}}
+Calatorim prin pustia aceasta (cu norul iubirii) {composer: {Beni Cibu}, {rcId: {166043}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,e

@@ -1,5 +1,5 @@
 [title]
-De ce nu vii? {author: {Cristina_Toma}, {rcId: {241370}}
+De ce nu vii? {composer: {Cristina_Toma}, {rcId: {241370}}
 
 [sequence]
 v1,c,v2,c

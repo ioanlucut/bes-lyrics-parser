@@ -1,5 +1,5 @@
 [title]
-Mai bine firul vietii-mi sa se curme {author: {Nicolae Moldoveanu}, {rcId: {246475}}
+Mai bine firul vietii-mi sa se curme {composer: {Nicolae Moldoveanu}, {rcId: {246475}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

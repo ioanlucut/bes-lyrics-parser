@@ -1,5 +1,5 @@
 [title]
-Ajuta-ma domnul meu {author: {Ionel Saran}, {rcId: {115686}}
+Ajuta-ma domnul meu {composer: {Ionel Saran}, {rcId: {115686}}
 
 [sequence]
 v1,v2,v3

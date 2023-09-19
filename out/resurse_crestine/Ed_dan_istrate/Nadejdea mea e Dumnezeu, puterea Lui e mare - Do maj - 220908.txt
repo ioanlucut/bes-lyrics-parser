@@ -1,5 +1,5 @@
 [title]
-Nadejdea mea e dumnezeu puterea lui e mare - do maj {author: {ed. Dan Istrate}, {rcId: {220908}}
+Nadejdea mea e dumnezeu puterea lui e mare - do maj {composer: {ed. Dan Istrate}, {rcId: {220908}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

@@ -1,5 +1,5 @@
 [title]
-Nu-i nimeni isus ca tine {author: {Florin de la Targoviste}, {rcId: {55625}}
+Nu-i nimeni isus ca tine {composer: {Florin de la Targoviste}, {rcId: {55625}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

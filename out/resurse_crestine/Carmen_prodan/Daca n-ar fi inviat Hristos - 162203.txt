@@ -1,5 +1,5 @@
 [title]
-Daca n-ar fi inviat hristos {author: {Carmen Prodan}, {rcId: {162203}}
+Daca n-ar fi inviat hristos {composer: {Carmen Prodan}, {rcId: {162203}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

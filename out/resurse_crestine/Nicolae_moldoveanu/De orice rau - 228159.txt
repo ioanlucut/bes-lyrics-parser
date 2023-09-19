@@ -1,5 +1,5 @@
 [title]
-De orice rau {author: {Nicolae Moldoveanu}, {rcId: {228159}}
+De orice rau {composer: {Nicolae Moldoveanu}, {rcId: {228159}}
 
 [sequence]
 v1,v2,v3,v4

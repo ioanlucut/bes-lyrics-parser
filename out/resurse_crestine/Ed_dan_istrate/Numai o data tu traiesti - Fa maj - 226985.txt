@@ -1,5 +1,5 @@
 [title]
-Numai o data tu traiesti - fa maj {author: {ed. Dan Istrate}, {rcId: {226985}}
+Numai o data tu traiesti - fa maj {composer: {ed. Dan Istrate}, {rcId: {226985}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

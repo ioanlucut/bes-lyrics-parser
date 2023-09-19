@@ -1,5 +1,5 @@
 [title]
-Sa iau cat mai putin {author: {Nicolae Moldoveanu}, {rcId: {244177}}
+Sa iau cat mai putin {composer: {Nicolae Moldoveanu}, {rcId: {244177}}
 
 [sequence]
 v1,v2,v3,v4,v5

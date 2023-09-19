@@ -1,5 +1,5 @@
 [title]
-Azi sunt un fiu de cer divin {author: {Adrian Fodor}, {rcId: {229024}}
+Azi sunt un fiu de cer divin {composer: {Adrian Fodor}, {rcId: {229024}}
 
 [sequence]
 v1

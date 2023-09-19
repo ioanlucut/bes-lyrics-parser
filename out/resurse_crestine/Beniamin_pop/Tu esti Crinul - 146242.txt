@@ -1,5 +1,5 @@
 [title]
-Tu esti crinul {author: {Beniamin Pop}, {rcId: {146242}}
+Tu esti crinul {composer: {Beniamin Pop}, {rcId: {146242}}
 
 [sequence]
 v1,c,v2,c

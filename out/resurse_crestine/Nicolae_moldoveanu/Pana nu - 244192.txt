@@ -1,5 +1,5 @@
 [title]
-Pana nu {author: {Nicolae Moldoveanu}, {rcId: {244192}}
+Pana nu {composer: {Nicolae Moldoveanu}, {rcId: {244192}}
 
 [sequence]
 v1,v2,v3

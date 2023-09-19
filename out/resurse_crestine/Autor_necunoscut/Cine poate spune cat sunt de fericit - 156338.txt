@@ -1,5 +1,5 @@
 [title]
-Cine poate spune cat sunt de fericit {author: {Anonim}, {rcId: {156338}}
+Cine poate spune cat sunt de fericit {composer: {Anonim}, {rcId: {156338}}
 
 [sequence]
 v1,c,v2,c,v3,c

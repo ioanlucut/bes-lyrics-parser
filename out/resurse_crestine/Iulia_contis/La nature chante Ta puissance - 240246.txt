@@ -1,5 +1,5 @@
 [title]
-La nature chante ta puissance {author: {Iulia Contis}, {rcId: {240246}}
+La nature chante ta puissance {composer: {Iulia Contis}, {rcId: {240246}}
 
 [sequence]
 v1,v2

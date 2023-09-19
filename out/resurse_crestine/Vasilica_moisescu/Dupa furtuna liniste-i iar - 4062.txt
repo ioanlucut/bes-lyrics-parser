@@ -1,5 +1,5 @@
 [title]
-Dupa furtuna liniste-i iar {author: {Vasilică Moisescu}, {rcId: {4062}}
+Dupa furtuna liniste-i iar {composer: {Vasilică Moisescu}, {rcId: {4062}}
 
 [sequence]
 v1,v2,v3

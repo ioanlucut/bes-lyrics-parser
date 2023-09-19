@@ -1,5 +1,5 @@
 [title]
-Jos la bethesda {author: {Daniel Cojocărescu}, {rcId: {212431}}
+Jos la bethesda {composer: {Daniel Cojocărescu}, {rcId: {212431}}
 
 [sequence]
 v1,e,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Cu isus oriunde {author: {Anonim}, {rcId: {1753}}
+Cu isus oriunde {composer: {Anonim}, {rcId: {1753}}
 
 [sequence]
 v1,c,v2,c,v3,c

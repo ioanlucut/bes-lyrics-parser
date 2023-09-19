@@ -1,5 +1,5 @@
 [title]
-Jertfit ca miel {author: {Otilia Drozd, BBSOadaptare după Geron Davis}, {rcId: {157516}}
+Jertfit ca miel {composer: {Otilia Drozd, BBSOadaptare după Geron Davis}, {rcId: {157516}}
 
 [sequence]
 v1,c,v2,c,e

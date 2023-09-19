@@ -1,5 +1,5 @@
 [title]
-Nimeni nimeni nu-i ca tine {author: {Puiu și Beni Chibici}, {rcId: {187596}}
+Nimeni nimeni nu-i ca tine {composer: {Puiu și Beni Chibici}, {rcId: {187596}}
 
 [sequence]
 v1,c,v2,c,v3,c

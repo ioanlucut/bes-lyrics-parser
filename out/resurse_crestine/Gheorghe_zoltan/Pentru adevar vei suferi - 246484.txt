@@ -1,5 +1,5 @@
 [title]
-Pentru adevar vei suferi {author: {Gheorghe Zoltan}, {rcId: {246484}}
+Pentru adevar vei suferi {composer: {Gheorghe Zoltan}, {rcId: {246484}}
 
 [sequence]
 v1,c,v2,c,v3,c

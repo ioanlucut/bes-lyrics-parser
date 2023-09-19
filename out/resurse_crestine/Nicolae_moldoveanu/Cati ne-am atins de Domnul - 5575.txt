@@ -1,5 +1,5 @@
 [title]
-Cati ne-am atins de domnul {author: {Nicolae Moldoveanu}, {rcId: {5575}}
+Cati ne-am atins de domnul {composer: {Nicolae Moldoveanu}, {rcId: {5575}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

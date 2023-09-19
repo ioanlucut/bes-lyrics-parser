@@ -1,5 +1,5 @@
 [title]
-Inca un an din viata noastra ni s-a dus {author: {Anonim}, {rcId: {59238}}
+Inca un an din viata noastra ni s-a dus {composer: {Anonim}, {rcId: {59238}}
 
 [sequence]
 v1,v2,v3,v4

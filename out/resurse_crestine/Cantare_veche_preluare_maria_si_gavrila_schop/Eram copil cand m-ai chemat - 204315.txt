@@ -1,5 +1,5 @@
 [title]
-Eram copil cand m-ai chemat {author: {cantare veche, preluare Maria si Gavrila Schop}, {rcId: {204315}}
+Eram copil cand m-ai chemat {composer: {cantare veche, preluare Maria si Gavrila Schop}, {rcId: {204315}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Doua lumi {author: {Contrast}, {rcId: {4338}}
+Doua lumi {composer: {Contrast}, {rcId: {4338}}
 
 [sequence]
 v1,c,c

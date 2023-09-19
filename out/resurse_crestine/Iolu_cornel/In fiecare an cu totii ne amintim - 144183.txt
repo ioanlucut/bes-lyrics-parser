@@ -1,5 +1,5 @@
 [title]
-In fiecare an cu totii ne amintim {author: {Iolu Cornel}, {rcId: {144183}}
+In fiecare an cu totii ne amintim {composer: {Iolu Cornel}, {rcId: {144183}}
 
 [sequence]
 v1,c,c2,v2,c

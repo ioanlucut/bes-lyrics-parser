@@ -1,5 +1,5 @@
 [title]
-Iti canta inima {author: {Daniela Haidaciuc}, {rcId: {172375}}
+Iti canta inima {composer: {Daniela Haidaciuc}, {rcId: {172375}}
 
 [sequence]
 v1,v2,v3,v4

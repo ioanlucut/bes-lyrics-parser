@@ -1,5 +1,5 @@
 [title]
-Tot ce conteaza {author: {Carmen Prodan}, {rcId: {124574}}
+Tot ce conteaza {composer: {Carmen Prodan}, {rcId: {124574}}
 
 [sequence]
 v1,v2,v3,v4

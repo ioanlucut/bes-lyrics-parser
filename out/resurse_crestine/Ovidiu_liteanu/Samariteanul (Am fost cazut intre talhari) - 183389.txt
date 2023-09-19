@@ -1,5 +1,5 @@
 [title]
-Samariteanul (am fost cazut intre talhari) {author: {Ovidiu Liteanu}, {rcId: {183389}}
+Samariteanul (am fost cazut intre talhari) {composer: {Ovidiu Liteanu}, {rcId: {183389}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,c

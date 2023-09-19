@@ -1,5 +1,5 @@
 [title]
-Sa stiu sa tac cand iuda-ntreaba {author: {Nicolae Moldoveanu}, {rcId: {5921}}
+Sa stiu sa tac cand iuda-ntreaba {composer: {Nicolae Moldoveanu}, {rcId: {5921}}
 
 [sequence]
 v1,c,v2,c,v3,c

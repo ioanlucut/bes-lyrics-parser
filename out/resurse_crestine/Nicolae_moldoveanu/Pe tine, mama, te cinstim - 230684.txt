@@ -1,5 +1,5 @@
 [title]
-Pe tine mama te cinstim {author: {Nicolae Moldoveanu}, {rcId: {230684}}
+Pe tine mama te cinstim {composer: {Nicolae Moldoveanu}, {rcId: {230684}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

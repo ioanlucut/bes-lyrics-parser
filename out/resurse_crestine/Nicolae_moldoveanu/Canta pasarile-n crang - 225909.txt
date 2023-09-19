@@ -1,5 +1,5 @@
 [title]
-Canta pasarile-n crang {author: {Nicolae Moldoveanu}, {rcId: {225909}}
+Canta pasarile-n crang {composer: {Nicolae Moldoveanu}, {rcId: {225909}}
 
 [sequence]
 v1,c,v2,c,v3,c

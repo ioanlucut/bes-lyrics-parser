@@ -1,5 +1,5 @@
 [title]
-Batuti de vanturi / mai cearta tu isuse marea {author: {Autor necunoscut}, {rcId: {224894}}
+Batuti de vanturi / mai cearta tu isuse marea {composer: {Autor necunoscut}, {rcId: {224894}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Tine-ma la pieptul tau (keep me close to thy heart) {author: {Albert E. Brumley, Traducere RO}, {rcId: {136115}}
+Tine-ma la pieptul tau (keep me close to thy heart) {composer: {Albert E. Brumley, Traducere RO}, {rcId: {136115}}
 
 [sequence]
 v1,c,v2,c,v3,c,s,c

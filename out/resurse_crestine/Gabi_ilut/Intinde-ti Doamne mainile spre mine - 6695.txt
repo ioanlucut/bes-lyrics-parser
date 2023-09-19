@@ -1,5 +1,5 @@
 [title]
-Intinde-ti doamne mainile spre mine {author: {Gabi Ilut}, {rcId: {6695}}
+Intinde-ti doamne mainile spre mine {composer: {Gabi Ilut}, {rcId: {6695}}
 
 [sequence]
 v1,c,v2,c,v3,c

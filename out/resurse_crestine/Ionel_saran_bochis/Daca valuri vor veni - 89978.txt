@@ -1,5 +1,5 @@
 [title]
-Daca valuri vor veni {author: {Ionel Saran Bochis}, {rcId: {89978}}
+Daca valuri vor veni {composer: {Ionel Saran Bochis}, {rcId: {89978}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

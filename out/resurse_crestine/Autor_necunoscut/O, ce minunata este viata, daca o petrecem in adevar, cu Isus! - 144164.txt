@@ -1,5 +1,5 @@
 [title]
-O ce minunata este viata daca o petrecem in adevar cu isus {author: {Anonim}, {rcId: {144164}}
+O ce minunata este viata daca o petrecem in adevar cu isus {composer: {Anonim}, {rcId: {144164}}
 
 [sequence]
 v1,c,v2,c2,c3

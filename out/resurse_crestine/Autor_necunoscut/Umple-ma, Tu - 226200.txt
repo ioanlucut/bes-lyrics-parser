@@ -1,5 +1,5 @@
 [title]
-Umple-ma tu {author: {Anonim}, {rcId: {226200}}
+Umple-ma tu {composer: {Anonim}, {rcId: {226200}}
 
 [sequence]
 v1,v2,v3,v4,v5

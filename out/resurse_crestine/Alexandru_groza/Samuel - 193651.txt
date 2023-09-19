@@ -1,5 +1,5 @@
 [title]
-Samuel {author: {Alexandru Groza}, {rcId: {193651}}
+Samuel {composer: {Alexandru Groza}, {rcId: {193651}}
 
 [sequence]
 v1,c,v2,c

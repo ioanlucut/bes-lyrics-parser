@@ -1,5 +1,5 @@
 [title]
-Asa-ti vorbeste dumnezeu {author: {Narcisa Popa}, {rcId: {4373}}
+Asa-ti vorbeste dumnezeu {composer: {Narcisa Popa}, {rcId: {4373}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4,v5,c5

@@ -1,5 +1,5 @@
 [title]
-Anii au trecut {author: {Petre Strango}, {rcId: {141077}}
+Anii au trecut {composer: {Petre Strango}, {rcId: {141077}}
 
 [sequence]
 v1,c,v2,c

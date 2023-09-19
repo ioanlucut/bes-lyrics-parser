@@ -1,5 +1,5 @@
 [title]
-La adapostul sangelui {author: {Nicolae Moldoveanu}, {rcId: {242569}}
+La adapostul sangelui {composer: {Nicolae Moldoveanu}, {rcId: {242569}}
 
 [sequence]
 v1,v2,v3,v4

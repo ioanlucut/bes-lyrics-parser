@@ -1,5 +1,5 @@
 [title]
-Binecuvantare copii {author: {Rătăcean Emanuel}, {rcId: {7151}}
+Binecuvantare copii {composer: {Rătăcean Emanuel}, {rcId: {7151}}
 
 [sequence]
 v1,c,v2,c,v3,c

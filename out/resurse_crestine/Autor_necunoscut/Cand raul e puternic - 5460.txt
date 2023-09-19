@@ -1,5 +1,5 @@
 [title]
-Cand raul e puternic {author: {Anonim}, {rcId: {5460}}
+Cand raul e puternic {composer: {Anonim}, {rcId: {5460}}
 
 [sequence]
 v1,v2,v3

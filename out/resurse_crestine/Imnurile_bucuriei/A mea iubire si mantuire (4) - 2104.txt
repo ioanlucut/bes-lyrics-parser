@@ -1,5 +1,5 @@
 [title]
-A mea iubire si mantuire () {author: {Imnurile Bucuriei}, {rcId: {2104}}
+A mea iubire si mantuire () {composer: {Imnurile Bucuriei}, {rcId: {2104}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

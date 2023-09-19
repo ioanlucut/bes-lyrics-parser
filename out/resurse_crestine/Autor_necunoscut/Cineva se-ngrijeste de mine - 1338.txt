@@ -1,5 +1,5 @@
 [title]
-Cineva se-ngrijeste de mine {author: {Anonim}, {rcId: {1338}}
+Cineva se-ngrijeste de mine {composer: {Anonim}, {rcId: {1338}}
 
 [sequence]
 v1,c,v2,c,v3,c

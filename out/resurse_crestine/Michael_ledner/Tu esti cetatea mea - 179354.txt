@@ -1,5 +1,5 @@
 [title]
-Tu esti cetatea mea {author: {Michael Ledner}, {rcId: {179354}}
+Tu esti cetatea mea {composer: {Michael Ledner}, {rcId: {179354}}
 
 [sequence]
 v1,c,v2,c

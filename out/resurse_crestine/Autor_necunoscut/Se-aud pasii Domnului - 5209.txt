@@ -1,5 +1,5 @@
 [title]
-Se-aud pasii domnului {author: {Anonim}, {rcId: {5209}}
+Se-aud pasii domnului {composer: {Anonim}, {rcId: {5209}}
 
 [sequence]
 v1,v2,v3

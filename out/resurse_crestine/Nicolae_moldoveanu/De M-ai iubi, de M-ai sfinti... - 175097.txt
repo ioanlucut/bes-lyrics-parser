@@ -1,5 +1,5 @@
 [title]
-De m-ai iubi de m-ai sfinti {author: {Nicolae Moldoveanu}, {rcId: {175097}}
+De m-ai iubi de m-ai sfinti {composer: {Nicolae Moldoveanu}, {rcId: {175097}}
 
 [sequence]
 v1,v2,v3,v4

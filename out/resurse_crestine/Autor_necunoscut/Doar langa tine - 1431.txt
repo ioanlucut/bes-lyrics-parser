@@ -1,5 +1,5 @@
 [title]
-Doar langa tine {author: {Anonim}, {rcId: {1431}}
+Doar langa tine {composer: {Anonim}, {rcId: {1431}}
 
 [sequence]
 v1,v2,v3

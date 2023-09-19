@@ -1,5 +1,5 @@
 [title]
-A fost odata un pastor {author: {Nicolae Moldoveanu}, {rcId: {244293}}
+A fost odata un pastor {composer: {Nicolae Moldoveanu}, {rcId: {244293}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Nu fi trist caci astazi s-a nascut {author: {Ralph Carmichael, Traducere RO}, {rcId: {183332}}
+Nu fi trist caci astazi s-a nascut {composer: {Ralph Carmichael, Traducere RO}, {rcId: {183332}}
 
 [sequence]
 v1,c,v2,c2

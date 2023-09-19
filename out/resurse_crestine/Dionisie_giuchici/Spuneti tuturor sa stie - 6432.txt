@@ -1,5 +1,5 @@
 [title]
-Spuneti tuturor sa stie {author: {Dionisie Giuchici}, {rcId: {6432}}
+Spuneti tuturor sa stie {composer: {Dionisie Giuchici}, {rcId: {6432}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

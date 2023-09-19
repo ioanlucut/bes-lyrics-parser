@@ -1,5 +1,5 @@
 [title]
-Hai si ia-ma in bratele tale {author: {Anonim}, {rcId: {179829}}
+Hai si ia-ma in bratele tale {composer: {Anonim}, {rcId: {179829}}
 
 [sequence]
 v1,c,v2,c,v3,c

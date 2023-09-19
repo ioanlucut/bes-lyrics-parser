@@ -1,5 +1,5 @@
 [title]
-Ce as fi facut in vremuri de nevoi ? {author: {Eleazar}, {rcId: {60024}}
+Ce as fi facut in vremuri de nevoi ? {composer: {Eleazar}, {rcId: {60024}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

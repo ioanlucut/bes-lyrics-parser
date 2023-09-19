@@ -1,5 +1,5 @@
 [title]
-Pe cel ce n-a cunoscut nici un pacat {author: {Damaris Logigan}, {rcId: {120839}}
+Pe cel ce n-a cunoscut nici un pacat {composer: {Damaris Logigan}, {rcId: {120839}}
 
 [sequence]
 v1,c,v2,b,c

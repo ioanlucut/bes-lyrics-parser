@@ -1,5 +1,5 @@
 [title]
-E bucurie {author: {Speranța și prietenii}, {rcId: {101816}}
+E bucurie {composer: {Speranța și prietenii}, {rcId: {101816}}
 
 [sequence]
 v1,v2,c,v3,c

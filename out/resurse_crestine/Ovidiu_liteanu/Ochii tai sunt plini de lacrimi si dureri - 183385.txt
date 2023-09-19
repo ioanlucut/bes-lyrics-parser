@@ -1,5 +1,5 @@
 [title]
-Ochii tai sunt plini de lacrimi si dureri {author: {Ovidiu Liteanu}, {rcId: {183385}}
+Ochii tai sunt plini de lacrimi si dureri {composer: {Ovidiu Liteanu}, {rcId: {183385}}
 
 [sequence]
 v1,v2,v3,v4

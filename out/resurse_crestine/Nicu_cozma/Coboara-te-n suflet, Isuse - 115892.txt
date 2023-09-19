@@ -1,5 +1,5 @@
 [title]
-Coboara-te-n suflet isuse {author: {Nicu Cozma}, {rcId: {115892}}
+Coboara-te-n suflet isuse {composer: {Nicu Cozma}, {rcId: {115892}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

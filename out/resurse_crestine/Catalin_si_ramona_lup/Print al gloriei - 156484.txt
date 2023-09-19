@@ -1,5 +1,5 @@
 [title]
-Print al gloriei {author: {Cătălin și Ramona Lup}, {rcId: {156484}}
+Print al gloriei {composer: {Cătălin și Ramona Lup}, {rcId: {156484}}
 
 [sequence]
 v1,b,c,e

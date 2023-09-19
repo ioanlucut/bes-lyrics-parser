@@ -1,5 +1,5 @@
 [title]
-Dumnezeu tare {author: {Mitică Delibaș}, {rcId: {219458}}
+Dumnezeu tare {composer: {Mitică Delibaș}, {rcId: {219458}}
 
 [sequence]
 v1,c,v2,c

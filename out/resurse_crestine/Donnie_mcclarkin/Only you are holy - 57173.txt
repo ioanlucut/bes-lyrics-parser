@@ -1,5 +1,5 @@
 [title]
-Only you are holy {author: {Donnie McClarkin, Traducere RO}, {rcId: {57173}}
+Only you are holy {composer: {Donnie McClarkin, Traducere RO}, {rcId: {57173}}
 
 [sequence]
 v1,c,c

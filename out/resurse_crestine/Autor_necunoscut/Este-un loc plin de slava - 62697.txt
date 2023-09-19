@@ -1,5 +1,5 @@
 [title]
-Este-un loc plin de slava {author: {Anonim}, {rcId: {62697}}
+Este-un loc plin de slava {composer: {Anonim}, {rcId: {62697}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

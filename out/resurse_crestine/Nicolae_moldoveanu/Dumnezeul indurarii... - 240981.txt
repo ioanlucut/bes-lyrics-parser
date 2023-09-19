@@ -1,5 +1,5 @@
 [title]
-Dumnezeul indurarii {author: {Nicolae Moldoveanu}, {rcId: {240981}}
+Dumnezeul indurarii {composer: {Nicolae Moldoveanu}, {rcId: {240981}}
 
 [sequence]
 v1,v2,v3,v4

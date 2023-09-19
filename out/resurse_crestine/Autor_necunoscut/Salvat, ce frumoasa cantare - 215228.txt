@@ -1,5 +1,5 @@
 [title]
-Salvat ce frumoasa cantare {author: {Anonim}, {rcId: {215228}}
+Salvat ce frumoasa cantare {composer: {Anonim}, {rcId: {215228}}
 
 [sequence]
 v1,c,v2,c,v3,c

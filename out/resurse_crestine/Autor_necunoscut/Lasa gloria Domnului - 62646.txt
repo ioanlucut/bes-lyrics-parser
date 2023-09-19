@@ -1,5 +1,5 @@
 [title]
-Lasa gloria domnului {author: {Anonim}, {rcId: {62646}}
+Lasa gloria domnului {composer: {Anonim}, {rcId: {62646}}
 
 [sequence]
 c,v1,c

@@ -1,5 +1,5 @@
 [title]
-E noapte divina in israel {author: {Puiu Chibici}, {rcId: {151340}}
+E noapte divina in israel {composer: {Puiu Chibici}, {rcId: {151340}}
 
 [sequence]
 v1,c,v2,c,v3,c

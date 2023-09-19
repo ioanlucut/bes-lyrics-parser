@@ -1,5 +1,5 @@
 [title]
-Arata-mi calea ta {author: {Ramona Vass}, {rcId: {106402}}
+Arata-mi calea ta {composer: {Ramona Vass}, {rcId: {106402}}
 
 [sequence]
 v1,c,v2,c

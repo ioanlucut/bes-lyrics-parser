@@ -1,5 +1,5 @@
 [title]
-Numai dragostea de tin {author: {Anonim}, {rcId: {227022}}
+Numai dragostea de tin {composer: {Anonim}, {rcId: {227022}}
 
 [sequence]
 v1,v2,v3,v4

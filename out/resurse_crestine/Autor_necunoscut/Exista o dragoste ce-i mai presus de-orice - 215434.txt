@@ -1,5 +1,5 @@
 [title]
-Exista o dragoste ce-i mai presus de-orice {author: {Anonim}, {rcId: {215434}}
+Exista o dragoste ce-i mai presus de-orice {composer: {Anonim}, {rcId: {215434}}
 
 [sequence]
 v1,c,v2,c,e

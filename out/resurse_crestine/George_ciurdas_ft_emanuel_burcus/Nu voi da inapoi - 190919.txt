@@ -1,5 +1,5 @@
 [title]
-Nu voi da inapoi {author: {George Ciurdas ft. Emanuel Burcus}, {rcId: {190919}}
+Nu voi da inapoi {composer: {George Ciurdas ft. Emanuel Burcus}, {rcId: {190919}}
 
 [sequence]
 v1,c,v2,c,c,e

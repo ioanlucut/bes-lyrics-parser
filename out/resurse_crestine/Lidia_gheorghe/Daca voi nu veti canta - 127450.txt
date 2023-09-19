@@ -1,5 +1,5 @@
 [title]
-Daca voi nu veti canta {author: {Lidia Gheorghe}, {rcId: {127450}}
+Daca voi nu veti canta {composer: {Lidia Gheorghe}, {rcId: {127450}}
 
 [sequence]
 v1,c

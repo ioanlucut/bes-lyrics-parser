@@ -1,5 +1,5 @@
 [title]
-Pasarele sprintenele {author: {Nicolae Moldoveanu}, {rcId: {226199}}
+Pasarele sprintenele {composer: {Nicolae Moldoveanu}, {rcId: {226199}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

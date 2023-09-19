@@ -1,5 +1,5 @@
 [title]
-De-atatea ori {author: {Speranța}, {rcId: {102647}}
+De-atatea ori {composer: {Speranța}, {rcId: {102647}}
 
 [sequence]
 v1,c,v2,c,v3,c

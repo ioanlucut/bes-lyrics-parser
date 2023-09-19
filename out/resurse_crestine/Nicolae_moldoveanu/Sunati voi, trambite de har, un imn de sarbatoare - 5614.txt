@@ -1,5 +1,5 @@
 [title]
-Sunati voi trambite de har un imn de sarbatoare {author: {Nicolae Moldoveanu}, {rcId: {5614}}
+Sunati voi trambite de har un imn de sarbatoare {composer: {Nicolae Moldoveanu}, {rcId: {5614}}
 
 [sequence]
 v1,v2,v3

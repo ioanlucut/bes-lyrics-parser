@@ -1,5 +1,5 @@
 [title]
-Sfant esti sfant esti sfant esti {author: {Jonh B.Dykes}, {rcId: {1623}}
+Sfant esti sfant esti sfant esti {composer: {Jonh B.Dykes}, {rcId: {1623}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Pana ajungem in casa din cer {author: {The Messangers}, {rcId: {205218}}
+Pana ajungem in casa din cer {composer: {The Messangers}, {rcId: {205218}}
 
 [sequence]
 v1,c,v2,c,v3,c

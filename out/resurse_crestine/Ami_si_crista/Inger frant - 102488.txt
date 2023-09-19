@@ -1,5 +1,5 @@
 [title]
-Inger frant {author: {Ami și Crista}, {rcId: {102488}}
+Inger frant {composer: {Ami și Crista}, {rcId: {102488}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

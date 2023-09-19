@@ -1,5 +1,5 @@
 [title]
-Un nou inceput {author: {Ica Dragoi}, {rcId: {110317}}
+Un nou inceput {composer: {Ica Dragoi}, {rcId: {110317}}
 
 [sequence]
 v1,c,v2,c,v3,c

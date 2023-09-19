@@ -1,5 +1,5 @@
 [title]
-Lumina lumii ( tis shining still) {author: {Franklin E. Belden, Traducere RO}, {rcId: {143091}}
+Lumina lumii ( tis shining still) {composer: {Franklin E. Belden, Traducere RO}, {rcId: {143091}}
 
 [sequence]
 v1,c,v2,c,v3,c,s,c

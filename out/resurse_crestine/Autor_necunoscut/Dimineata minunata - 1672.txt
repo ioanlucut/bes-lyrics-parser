@@ -1,5 +1,5 @@
 [title]
-Dimineata minunata {author: {Anonim}, {rcId: {1672}}
+Dimineata minunata {composer: {Anonim}, {rcId: {1672}}
 
 [sequence]
 v1,v2,v3

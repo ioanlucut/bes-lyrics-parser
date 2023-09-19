@@ -1,5 +1,5 @@
 [title]
-Imn trinitatii {author: {Nicu Wagner}, {rcId: {61695}}
+Imn trinitatii {composer: {Nicu Wagner}, {rcId: {61695}}
 
 [sequence]
 v1,c,v2,c,v3,c

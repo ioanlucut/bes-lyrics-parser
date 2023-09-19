@@ -1,5 +1,5 @@
 [title]
-O nu respinge-al sau cuvant {author: {J.Calvin Bushey}, {rcId: {232341}}
+O nu respinge-al sau cuvant {composer: {J.Calvin Bushey}, {rcId: {232341}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

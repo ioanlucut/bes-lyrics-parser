@@ -1,5 +1,5 @@
 [title]
-Locuiesti in viata mea {author: {Ariana Samoila}, {rcId: {5346}}
+Locuiesti in viata mea {composer: {Ariana Samoila}, {rcId: {5346}}
 
 [sequence]
 v1,c

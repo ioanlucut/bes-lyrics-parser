@@ -1,5 +1,5 @@
 [title]
-Pentru noi se lupta - in jesus name {author: {Darlene Zschech}, {rcId: {136627}}
+Pentru noi se lupta - in jesus name {composer: {Darlene Zschech}, {rcId: {136627}}
 
 [sequence]
 v1,v2,c,v2,c,c

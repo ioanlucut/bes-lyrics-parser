@@ -1,5 +1,5 @@
 [title]
-Langa tine {author: {Gabi_Ilut}, {rcId: {241224}}
+Langa tine {composer: {Gabi_Ilut}, {rcId: {241224}}
 
 [sequence]
 v1,c,v2,c

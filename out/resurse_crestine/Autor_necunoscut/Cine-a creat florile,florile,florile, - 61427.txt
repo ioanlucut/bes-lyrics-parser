@@ -1,5 +1,5 @@
 [title]
-Cine-a creat florileflorileflorile {author: {Anonim}, {rcId: {61427}}
+Cine-a creat florileflorileflorile {composer: {Anonim}, {rcId: {61427}}
 
 [sequence]
 v1,v2

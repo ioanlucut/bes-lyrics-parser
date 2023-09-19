@@ -1,5 +1,5 @@
 [title]
-Auzi cor ingeresc cantand {author: {Anonim}, {rcId: {145987}}
+Auzi cor ingeresc cantand {composer: {Anonim}, {rcId: {145987}}
 
 [sequence]
 v1

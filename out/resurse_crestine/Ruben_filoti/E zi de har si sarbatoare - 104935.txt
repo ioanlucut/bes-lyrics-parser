@@ -1,5 +1,5 @@
 [title]
-E zi de har si sarbatoare {author: {Ruben Filoti}, {rcId: {104935}}
+E zi de har si sarbatoare {composer: {Ruben Filoti}, {rcId: {104935}}
 
 [sequence]
 v1,c,v2,c

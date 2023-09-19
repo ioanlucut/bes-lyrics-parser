@@ -1,5 +1,5 @@
 [title]
-Dumnezeu dumnezeu e acelasi neincetat {author: {Ilie Puha}, {rcId: {124515}}
+Dumnezeu dumnezeu e acelasi neincetat {composer: {Ilie Puha}, {rcId: {124515}}
 
 [sequence]
 v1,c,c,v2,c,v3,c,v4,c,v5,c

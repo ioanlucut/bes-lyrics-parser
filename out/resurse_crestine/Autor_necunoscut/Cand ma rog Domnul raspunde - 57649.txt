@@ -1,5 +1,5 @@
 [title]
-Cand ma rog domnul raspunde {author: {Anonim}, {rcId: {57649}}
+Cand ma rog domnul raspunde {composer: {Anonim}, {rcId: {57649}}
 
 [sequence]
 v1

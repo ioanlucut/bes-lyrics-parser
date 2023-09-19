@@ -1,5 +1,5 @@
 [title]
-Degeaba zidesti o casa fara domnul {author: {Anonim}, {rcId: {161569}}
+Degeaba zidesti o casa fara domnul {composer: {Anonim}, {rcId: {161569}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

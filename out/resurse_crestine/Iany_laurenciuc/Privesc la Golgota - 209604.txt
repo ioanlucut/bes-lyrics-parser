@@ -1,5 +1,5 @@
 [title]
-Privesc la golgota {author: {Iany Laurenciuc}, {rcId: {209604}}
+Privesc la golgota {composer: {Iany Laurenciuc}, {rcId: {209604}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

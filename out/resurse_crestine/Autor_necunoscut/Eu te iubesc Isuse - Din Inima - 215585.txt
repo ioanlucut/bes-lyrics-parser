@@ -1,5 +1,5 @@
 [title]
-Eu te iubesc isuse - din inima {author: {Anonim}, {rcId: {215585}}
+Eu te iubesc isuse - din inima {composer: {Anonim}, {rcId: {215585}}
 
 [sequence]
 v1,v2,v3,v4

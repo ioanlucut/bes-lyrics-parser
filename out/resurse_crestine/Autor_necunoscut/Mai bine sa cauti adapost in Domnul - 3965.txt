@@ -1,5 +1,5 @@
 [title]
-Mai bine sa cauti adapost in domnul {author: {Anonim}, {rcId: {3965}}
+Mai bine sa cauti adapost in domnul {composer: {Anonim}, {rcId: {3965}}
 
 [sequence]
 c,v1,c2,v2,c2

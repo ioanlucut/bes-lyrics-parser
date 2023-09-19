@@ -1,5 +1,5 @@
 [title]
-Isus e-al meu pastor {author: {Speranța}, {rcId: {101925}}
+Isus e-al meu pastor {composer: {Speranța}, {rcId: {101925}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Chiar pe drum spre ierihon {author: {Anonim}, {rcId: {6476}}
+Chiar pe drum spre ierihon {composer: {Anonim}, {rcId: {6476}}
 
 [sequence]
 v1,c,v2,c,v3,c

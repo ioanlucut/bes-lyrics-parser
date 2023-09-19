@@ -1,5 +1,5 @@
 [title]
-De ce se-aud pe uliti astazi {author: {Nicu Cozma}, {rcId: {115893}}
+De ce se-aud pe uliti astazi {composer: {Nicu Cozma}, {rcId: {115893}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

@@ -1,5 +1,5 @@
 [title]
-Scrisoare de pe front {author: {Nicolae Moldoveanu}, {rcId: {244429}}
+Scrisoare de pe front {composer: {Nicolae Moldoveanu}, {rcId: {244429}}
 
 [sequence]
 v1,v2,v3,v4

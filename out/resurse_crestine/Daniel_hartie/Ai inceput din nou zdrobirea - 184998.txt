@@ -1,5 +1,5 @@
 [title]
-Ai inceput din nou zdrobirea {author: {Daniel Hartie}, {rcId: {184998}}
+Ai inceput din nou zdrobirea {composer: {Daniel Hartie}, {rcId: {184998}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

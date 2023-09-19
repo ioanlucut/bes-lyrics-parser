@@ -1,5 +1,5 @@
 [title]
-A batut la usa ta cineva {author: {Eugen Tifrea}, {rcId: {239890}}
+A batut la usa ta cineva {composer: {Eugen Tifrea}, {rcId: {239890}}
 
 [sequence]
 v1,v2,c,v3,c2

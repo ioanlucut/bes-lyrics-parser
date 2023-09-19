@@ -1,5 +1,5 @@
 [title]
-Facand m-ai invatat sa fac {author: {Anonim}, {rcId: {1570}}
+Facand m-ai invatat sa fac {composer: {Anonim}, {rcId: {1570}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

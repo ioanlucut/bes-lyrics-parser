@@ -1,5 +1,5 @@
 [title]
-Se clatina puterea {author: {Ovidiu Liteanu}, {rcId: {160751}}
+Se clatina puterea {composer: {Ovidiu Liteanu}, {rcId: {160751}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

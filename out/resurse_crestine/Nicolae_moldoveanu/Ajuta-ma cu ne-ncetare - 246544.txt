@@ -1,5 +1,5 @@
 [title]
-Ajuta-ma cu ne-ncetare {author: {Nicolae Moldoveanu}, {rcId: {246544}}
+Ajuta-ma cu ne-ncetare {composer: {Nicolae Moldoveanu}, {rcId: {246544}}
 
 [sequence]
 v1,v2,v3,v4

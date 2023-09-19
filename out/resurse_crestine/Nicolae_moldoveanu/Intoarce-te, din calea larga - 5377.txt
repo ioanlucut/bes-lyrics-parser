@@ -1,5 +1,5 @@
 [title]
-Intoarce-te din calea larga {author: {Nicolae Moldoveanu}, {rcId: {5377}}
+Intoarce-te din calea larga {composer: {Nicolae Moldoveanu}, {rcId: {5377}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

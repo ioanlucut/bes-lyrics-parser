@@ -1,5 +1,5 @@
 [title]
-Cu isus de mana (hand in hand with jesus) {author: {L.D. Huffstutler, Traducere RO}, {rcId: {125106}}
+Cu isus de mana (hand in hand with jesus) {composer: {L.D. Huffstutler, Traducere RO}, {rcId: {125106}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,s,c

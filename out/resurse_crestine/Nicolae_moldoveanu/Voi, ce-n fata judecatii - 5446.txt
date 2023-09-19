@@ -1,5 +1,5 @@
 [title]
-Voi ce-n fata judecatii {author: {Nicolae Moldoveanu}, {rcId: {5446}}
+Voi ce-n fata judecatii {composer: {Nicolae Moldoveanu}, {rcId: {5446}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Mi-am pus nadejdea doar in dumnezeu {author: {Anonim}, {rcId: {212725}}
+Mi-am pus nadejdea doar in dumnezeu {composer: {Anonim}, {rcId: {212725}}
 
 [sequence]
 v1,c,v2,c,e

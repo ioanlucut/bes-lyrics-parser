@@ -1,5 +1,5 @@
 [title]
-Glorie aleluia {author: {Anonim}, {rcId: {57709}}
+Glorie aleluia {composer: {Anonim}, {rcId: {57709}}
 
 [sequence]
 v1,v2,c,v2,c,v3,c

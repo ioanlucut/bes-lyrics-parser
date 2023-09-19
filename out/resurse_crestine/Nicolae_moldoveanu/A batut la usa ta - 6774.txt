@@ -1,5 +1,5 @@
 [title]
-A batut la usa ta {author: {Nicolae Moldoveanu}, {rcId: {6774}}
+A batut la usa ta {composer: {Nicolae Moldoveanu}, {rcId: {6774}}
 
 [sequence]
 v1,v2,v3,v4,v5

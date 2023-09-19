@@ -1,5 +1,5 @@
 [title]
-M-a cuprins un dor de casa {author: {Anonim}, {rcId: {1924}}
+M-a cuprins un dor de casa {composer: {Anonim}, {rcId: {1924}}
 
 [sequence]
 v1,v2,v3

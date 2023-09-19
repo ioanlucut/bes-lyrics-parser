@@ -1,5 +1,5 @@
 [title]
-Imi amintesc si-acum cu drag {author: {Anonim}, {rcId: {7350}}
+Imi amintesc si-acum cu drag {composer: {Anonim}, {rcId: {7350}}
 
 [sequence]
 v1,c,v2,c

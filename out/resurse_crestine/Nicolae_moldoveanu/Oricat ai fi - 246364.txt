@@ -1,5 +1,5 @@
 [title]
-Oricat ai fi {author: {Nicolae Moldoveanu}, {rcId: {246364}}
+Oricat ai fi {composer: {Nicolae Moldoveanu}, {rcId: {246364}}
 
 [sequence]
 v1,v2,v3

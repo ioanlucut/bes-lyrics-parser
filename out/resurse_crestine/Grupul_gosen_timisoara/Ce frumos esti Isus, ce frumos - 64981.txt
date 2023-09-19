@@ -1,5 +1,5 @@
 [title]
-Ce frumos esti isus ce frumos {author: {Grupul Gosen Timisoara}, {rcId: {64981}}
+Ce frumos esti isus ce frumos {composer: {Grupul Gosen Timisoara}, {rcId: {64981}}
 
 [sequence]
 v1,v2,v3,v4

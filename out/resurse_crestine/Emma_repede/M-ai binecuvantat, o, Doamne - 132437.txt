@@ -1,5 +1,5 @@
 [title]
-M-ai binecuvantat o doamne {author: {Emma Repede}, {rcId: {132437}}
+M-ai binecuvantat o doamne {composer: {Emma Repede}, {rcId: {132437}}
 
 [sequence]
 v1,v2,v3,v4

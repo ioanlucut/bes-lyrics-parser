@@ -1,5 +1,5 @@
 [title]
-Singura credinta duce la isus {author: {Nicolae Moldoveanu}, {rcId: {189874}}
+Singura credinta duce la isus {composer: {Nicolae Moldoveanu}, {rcId: {189874}}
 
 [sequence]
 v1,v2,v3,v4,v5

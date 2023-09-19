@@ -1,5 +1,5 @@
 [title]
-Azi e zi de har si bucurie totodat {author: {Grupul Ava}, {rcId: {127032}}
+Azi e zi de har si bucurie totodat {composer: {Grupul Ava}, {rcId: {127032}}
 
 [sequence]
 v1,c,v2,c

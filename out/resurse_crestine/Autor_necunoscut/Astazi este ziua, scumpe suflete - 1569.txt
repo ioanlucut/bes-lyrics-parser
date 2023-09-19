@@ -1,5 +1,5 @@
 [title]
-Astazi este ziua scumpe suflete {author: {Anonim}, {rcId: {1569}}
+Astazi este ziua scumpe suflete {composer: {Anonim}, {rcId: {1569}}
 
 [sequence]
 v1,v2,v3,v4

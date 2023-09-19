@@ -1,5 +1,5 @@
 [title]
-Dragostea te cheama {author: {Andreea și Andrei Mois}, {rcId: {92978}}
+Dragostea te cheama {composer: {Andreea și Andrei Mois}, {rcId: {92978}}
 
 [sequence]
 v1,c,v2,c,v3,c

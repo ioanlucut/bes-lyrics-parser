@@ -1,5 +1,5 @@
 [title]
-Ce-as fi fost fara tine {author: {Dorel Breabăn}, {rcId: {223328}}
+Ce-as fi fost fara tine {composer: {Dorel Breabăn}, {rcId: {223328}}
 
 [sequence]
 v1,c,v2,c,v3,c

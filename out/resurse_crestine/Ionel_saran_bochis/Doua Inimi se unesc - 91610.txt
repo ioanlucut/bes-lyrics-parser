@@ -1,5 +1,5 @@
 [title]
-Doua inimi se unesc {author: {Ionel Saran Bochis}, {rcId: {91610}}
+Doua inimi se unesc {composer: {Ionel Saran Bochis}, {rcId: {91610}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

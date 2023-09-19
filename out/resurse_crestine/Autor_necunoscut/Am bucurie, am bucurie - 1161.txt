@@ -1,5 +1,5 @@
 [title]
-Am bucurie am bucurie {author: {Anonim}, {rcId: {1161}}
+Am bucurie am bucurie {composer: {Anonim}, {rcId: {1161}}
 
 [sequence]
 v1,c,v2,c

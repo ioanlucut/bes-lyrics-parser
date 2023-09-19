@@ -1,5 +1,5 @@
 [title]
-Doi ochii privesc {author: {George L}, {rcId: {6628}}
+Doi ochii privesc {composer: {George L}, {rcId: {6628}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

@@ -1,5 +1,5 @@
 [title]
-O doamne bun parinte {author: {Anonim}, {rcId: {3939}}
+O doamne bun parinte {composer: {Anonim}, {rcId: {3939}}
 
 [sequence]
 v1

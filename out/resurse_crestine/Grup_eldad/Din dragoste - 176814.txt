@@ -1,5 +1,5 @@
 [title]
-Din dragoste {author: {Grup Eldad}, {rcId: {176814}}
+Din dragoste {composer: {Grup Eldad}, {rcId: {176814}}
 
 [sequence]
 v1,c,v2,b,c,e

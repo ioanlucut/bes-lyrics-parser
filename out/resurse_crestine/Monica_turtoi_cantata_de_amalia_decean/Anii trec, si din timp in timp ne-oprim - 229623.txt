@@ -1,5 +1,5 @@
 [title]
-Anii trec si din timp in timp ne-oprim {author: {Monica Turtoi, cântată de Amalia Decean}, {rcId: {229623}}
+Anii trec si din timp in timp ne-oprim {composer: {Monica Turtoi, cântată de Amalia Decean}, {rcId: {229623}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Deci sa ne pregatim {author: {Cornel Matei}, {rcId: {158647}}
+Deci sa ne pregatim {composer: {Cornel Matei}, {rcId: {158647}}
 
 [sequence]
 v1,c,v2,c

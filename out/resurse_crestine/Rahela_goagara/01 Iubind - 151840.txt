@@ -1,5 +1,5 @@
 [title]
-Iubind {author: {Rahela Goagără}, {rcId: {151840}}
+Iubind {composer: {Rahela Goagără}, {rcId: {151840}}
 
 [sequence]
 v1,c,v2,c,e

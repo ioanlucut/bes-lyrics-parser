@@ -1,5 +1,5 @@
 [title]
-La tine imi gasesc implinirea {author: {Daniel Hartie}, {rcId: {125804}}
+La tine imi gasesc implinirea {composer: {Daniel Hartie}, {rcId: {125804}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,v4,c

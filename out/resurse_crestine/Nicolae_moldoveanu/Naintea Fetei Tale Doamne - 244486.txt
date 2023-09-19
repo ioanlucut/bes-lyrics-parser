@@ -1,5 +1,5 @@
 [title]
-Naintea fetei tale doamne {author: {Nicolae Moldoveanu}, {rcId: {244486}}
+Naintea fetei tale doamne {composer: {Nicolae Moldoveanu}, {rcId: {244486}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

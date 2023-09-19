@@ -1,5 +1,5 @@
 [title]
-Nu se poate sa nu fie {author: {Nicolae Moldoveanu}, {rcId: {140056}}
+Nu se poate sa nu fie {composer: {Nicolae Moldoveanu}, {rcId: {140056}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

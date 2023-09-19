@@ -1,5 +1,5 @@
 [title]
-Fiul risipitor {author: {Echipa GECMC}, {rcId: {226751}}
+Fiul risipitor {composer: {Echipa GECMC}, {rcId: {226751}}
 
 [sequence]
 v1,c,v2,c,v3,c

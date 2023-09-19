@@ -1,5 +1,5 @@
 [title]
-E prea tarziu va spune odata {author: {Adriana Stoica}, {rcId: {238132}}
+E prea tarziu va spune odata {composer: {Adriana Stoica}, {rcId: {238132}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c2

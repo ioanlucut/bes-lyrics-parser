@@ -1,5 +1,5 @@
 [title]
-Psalmul {author: {David Preuteasa}, {rcId: {239624}}
+Psalmul {composer: {David Preuteasa}, {rcId: {239624}}
 
 [sequence]
 v1,v2

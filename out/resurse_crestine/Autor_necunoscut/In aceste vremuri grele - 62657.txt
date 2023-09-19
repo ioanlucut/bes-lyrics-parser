@@ -1,5 +1,5 @@
 [title]
-In aceste vremuri grele {author: {Anonim}, {rcId: {62657}}
+In aceste vremuri grele {composer: {Anonim}, {rcId: {62657}}
 
 [sequence]
 v1,v2,v3,v4

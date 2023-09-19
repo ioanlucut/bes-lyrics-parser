@@ -1,5 +1,5 @@
 [title]
-Cum pot sa tac {author: {George Lupsea}, {rcId: {60531}}
+Cum pot sa tac {composer: {George Lupsea}, {rcId: {60531}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

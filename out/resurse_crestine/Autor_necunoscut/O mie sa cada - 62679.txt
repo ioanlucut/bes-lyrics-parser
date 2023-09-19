@@ -1,5 +1,5 @@
 [title]
-O mie sa cada {author: {Anonim}, {rcId: {62679}}
+O mie sa cada {composer: {Anonim}, {rcId: {62679}}
 
 [sequence]
 v1,v2,v3

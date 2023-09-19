@@ -1,5 +1,5 @@
 [title]
-Fara hotar m-ai iubit {author: {Mihai Bejinariu, Ioana Dumitrescu}, {rcId: {189550}}
+Fara hotar m-ai iubit {composer: {Mihai Bejinariu, Ioana Dumitrescu}, {rcId: {189550}}
 
 [sequence]
 v1,b,c,v2,b,c

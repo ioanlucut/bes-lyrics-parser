@@ -1,5 +1,5 @@
 [title]
-Drumul tau cand iti este sumbru {author: {Nicolae Moldoveanu}, {rcId: {5655}}
+Drumul tau cand iti este sumbru {composer: {Nicolae Moldoveanu}, {rcId: {5655}}
 
 [sequence]
 v1,c,v2,c,v3,c

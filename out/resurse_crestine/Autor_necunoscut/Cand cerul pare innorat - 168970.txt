@@ -1,5 +1,5 @@
 [title]
-Cand cerul pare innorat {author: {Necunoscut}, {rcId: {168970}}
+Cand cerul pare innorat {composer: {Necunoscut}, {rcId: {168970}}
 
 [sequence]
 v1,v2,v3

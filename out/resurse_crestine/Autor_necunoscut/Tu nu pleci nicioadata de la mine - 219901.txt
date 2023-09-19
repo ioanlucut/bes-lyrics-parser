@@ -1,5 +1,5 @@
 [title]
-Tu nu pleci nicioadata de la mine {author: {Anonim}, {rcId: {219901}}
+Tu nu pleci nicioadata de la mine {composer: {Anonim}, {rcId: {219901}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

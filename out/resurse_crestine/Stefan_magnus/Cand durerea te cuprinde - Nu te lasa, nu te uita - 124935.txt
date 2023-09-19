@@ -1,5 +1,5 @@
 [title]
-Cand durerea te cuprinde - nu te lasa nu te uita {author: {Ștefan Magnus}, {rcId: {124935}}
+Cand durerea te cuprinde - nu te lasa nu te uita {composer: {Ștefan Magnus}, {rcId: {124935}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

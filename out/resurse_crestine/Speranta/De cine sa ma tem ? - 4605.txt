@@ -1,5 +1,5 @@
 [title]
-De cine sa ma tem ? {author: {Speranța}, {rcId: {4605}}
+De cine sa ma tem ? {composer: {Speranța}, {rcId: {4605}}
 
 [sequence]
 v1,c,v2,c,v3,c

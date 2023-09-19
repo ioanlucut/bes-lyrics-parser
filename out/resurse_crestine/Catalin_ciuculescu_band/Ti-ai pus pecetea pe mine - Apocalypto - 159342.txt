@@ -1,5 +1,5 @@
 [title]
-Ti-ai pus pecetea pe mine - apocalypto {author: {Cătălin Ciuculescu Band}, {rcId: {159342}}
+Ti-ai pus pecetea pe mine - apocalypto {composer: {Cătălin Ciuculescu Band}, {rcId: {159342}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Frumusetea ce ne-nconjoara {author: {Elim Harmony}, {rcId: {100521}}
+Frumusetea ce ne-nconjoara {composer: {Elim Harmony}, {rcId: {100521}}
 
 [sequence]
 c,v1,c,v2,c

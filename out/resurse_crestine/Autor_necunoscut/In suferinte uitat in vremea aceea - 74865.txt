@@ -1,5 +1,5 @@
 [title]
-In suferinte uitat in vremea aceea {author: {Anonim}, {rcId: {74865}}
+In suferinte uitat in vremea aceea {composer: {Anonim}, {rcId: {74865}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

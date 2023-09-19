@@ -1,5 +1,5 @@
 [title]
-Vestea buna {author: {David Preuteasa}, {rcId: {171723}}
+Vestea buna {composer: {David Preuteasa}, {rcId: {171723}}
 
 [sequence]
 v1,c,v2,c

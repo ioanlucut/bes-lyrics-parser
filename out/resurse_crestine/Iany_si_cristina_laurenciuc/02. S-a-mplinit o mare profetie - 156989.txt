@@ -1,5 +1,5 @@
 [title]
-S-a-mplinit o mare profetie {author: {Iany și Cristina Laurenciuc}, {rcId: {156989}}
+S-a-mplinit o mare profetie {composer: {Iany și Cristina Laurenciuc}, {rcId: {156989}}
 
 [sequence]
 v1,c,v2,c,v3,c

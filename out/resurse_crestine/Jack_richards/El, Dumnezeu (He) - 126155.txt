@@ -1,5 +1,5 @@
 [title]
-El dumnezeu (he) {author: {Jack Richards, Traducere RO}, {rcId: {126155}}
+El dumnezeu (he) {composer: {Jack Richards, Traducere RO}, {rcId: {126155}}
 
 [sequence]
 v1,v2,s

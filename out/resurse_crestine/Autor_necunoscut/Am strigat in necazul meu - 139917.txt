@@ -1,5 +1,5 @@
 [title]
-Am strigat in necazul meu {author: {Anonim}, {rcId: {139917}}
+Am strigat in necazul meu {composer: {Anonim}, {rcId: {139917}}
 
 [sequence]
 v1,v2,c

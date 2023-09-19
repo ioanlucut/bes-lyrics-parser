@@ -1,5 +1,5 @@
 [title]
-Renuntand la gandurile mele {author: {Anonim}, {rcId: {2771}}
+Renuntand la gandurile mele {composer: {Anonim}, {rcId: {2771}}
 
 [sequence]
 v1,c

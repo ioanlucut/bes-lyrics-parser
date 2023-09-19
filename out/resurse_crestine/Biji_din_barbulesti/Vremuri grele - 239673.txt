@@ -1,5 +1,5 @@
 [title]
-Vremuri grele {author: {Biji din Barbulesti}, {rcId: {239673}}
+Vremuri grele {composer: {Biji din Barbulesti}, {rcId: {239673}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Lumina sfanta {author: {Nicolae Moldoveanu}, {rcId: {186271}}
+Lumina sfanta {composer: {Nicolae Moldoveanu}, {rcId: {186271}}
 
 [sequence]
 v1,v2,v3,v4,v5

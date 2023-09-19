@@ -1,5 +1,5 @@
 [title]
-Nu-nteleg cata iubire {author: {Otto Pascal}, {rcId: {219841}}
+Nu-nteleg cata iubire {composer: {Otto Pascal}, {rcId: {219841}}
 
 [sequence]
 v1,c,v2,c

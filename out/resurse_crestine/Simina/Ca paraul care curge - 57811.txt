@@ -1,5 +1,5 @@
 [title]
-Ca paraul care curge {author: {Simina}, {rcId: {57811}}
+Ca paraul care curge {composer: {Simina}, {rcId: {57811}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Vrednic e mielul sfant - crown him with many crowns - do maj {author: {ed. Dan Istrate}, {rcId: {187970}}
+Vrednic e mielul sfant - crown him with many crowns - do maj {composer: {ed. Dan Istrate}, {rcId: {187970}}
 
 [sequence]
 v1,v2,v3,v4

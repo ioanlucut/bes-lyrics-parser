@@ -1,5 +1,5 @@
 [title]
-Atatia obositi zdrobiti si franti {author: {Anonim}, {rcId: {74268}}
+Atatia obositi zdrobiti si franti {composer: {Anonim}, {rcId: {74268}}
 
 [sequence]
 v1,c,v2,c,v3,c

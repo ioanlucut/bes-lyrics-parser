@@ -1,5 +1,5 @@
 [title]
-Cu cata liniste si pace {author: {Nicolae Moldoveanu}, {rcId: {7098}}
+Cu cata liniste si pace {composer: {Nicolae Moldoveanu}, {rcId: {7098}}
 
 [sequence]
 v1,v2,v3,v4,v5

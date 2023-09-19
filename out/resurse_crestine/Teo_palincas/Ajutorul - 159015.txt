@@ -1,5 +1,5 @@
 [title]
-Ajutorul {author: {Teo Pălincaș}, {rcId: {159015}}
+Ajutorul {composer: {Teo Pălincaș}, {rcId: {159015}}
 
 [sequence]
 v1,v2,e,v3

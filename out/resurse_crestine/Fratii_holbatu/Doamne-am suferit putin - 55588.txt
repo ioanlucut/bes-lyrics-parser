@@ -1,5 +1,5 @@
 [title]
-Doamne-am suferit putin {author: {Fratii Holbatu}, {rcId: {55588}}
+Doamne-am suferit putin {composer: {Fratii Holbatu}, {rcId: {55588}}
 
 [sequence]
 v1,c,v2,c

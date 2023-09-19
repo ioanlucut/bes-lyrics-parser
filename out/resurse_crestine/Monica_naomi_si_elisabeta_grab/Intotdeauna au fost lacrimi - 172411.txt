@@ -1,5 +1,5 @@
 [title]
-Intotdeauna au fost lacrimi {author: {Monica, Naomi și Elisabeta Grab}, {rcId: {172411}}
+Intotdeauna au fost lacrimi {composer: {Monica, Naomi și Elisabeta Grab}, {rcId: {172411}}
 
 [sequence]
 v1,c,v2,c2,v3,c2

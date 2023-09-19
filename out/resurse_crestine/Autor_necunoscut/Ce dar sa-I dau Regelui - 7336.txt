@@ -1,5 +1,5 @@
 [title]
-Ce dar sa-i dau regelui {author: {Anonim}, {rcId: {7336}}
+Ce dar sa-i dau regelui {composer: {Anonim}, {rcId: {7336}}
 
 [sequence]
 c,v1,c,v2,c

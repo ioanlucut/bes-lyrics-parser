@@ -1,5 +1,5 @@
 [title]
-In glastra inimii {author: {Nicolae Moldoveanu}, {rcId: {246468}}
+In glastra inimii {composer: {Nicolae Moldoveanu}, {rcId: {246468}}
 
 [sequence]
 v1,v2,v3,v4,v5

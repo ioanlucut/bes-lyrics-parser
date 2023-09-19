@@ -1,5 +1,5 @@
 [title]
-Oricate vrabii sunt pe gard {author: {Corul de copii ”Celest”}, {rcId: {122718}}
+Oricate vrabii sunt pe gard {composer: {Corul de copii ”Celest”}, {rcId: {122718}}
 
 [sequence]
 v1,c,v2,c,v3,c

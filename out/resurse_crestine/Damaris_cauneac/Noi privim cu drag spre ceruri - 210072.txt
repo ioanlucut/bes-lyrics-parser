@@ -1,5 +1,5 @@
 [title]
-Noi privim cu drag spre ceruri {author: {Damaris Cauneac}, {rcId: {210072}}
+Noi privim cu drag spre ceruri {composer: {Damaris Cauneac}, {rcId: {210072}}
 
 [sequence]
 v1,c,v2,c,v3,b,c,e

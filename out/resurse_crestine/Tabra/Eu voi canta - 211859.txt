@@ -1,5 +1,5 @@
 [title]
-Eu voi canta {author: {Tabra 447}, {rcId: {211859}}
+Eu voi canta {composer: {Tabra 447}, {rcId: {211859}}
 
 [sequence]
 v1,c,v2,c,e

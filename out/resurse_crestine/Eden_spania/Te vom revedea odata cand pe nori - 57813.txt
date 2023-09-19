@@ -1,5 +1,5 @@
 [title]
-Te vom revedea odata cand pe nori {author: {Eden Spania}, {rcId: {57813}}
+Te vom revedea odata cand pe nori {composer: {Eden Spania}, {rcId: {57813}}
 
 [sequence]
 v1,c,v2,c,v3,c

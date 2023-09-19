@@ -1,5 +1,5 @@
 [title]
-Il am pe dumnezeu {author: {Cătălin și Ramona Lup}, {rcId: {126295}}
+Il am pe dumnezeu {composer: {Cătălin și Ramona Lup}, {rcId: {126295}}
 
 [sequence]
 v1,c,v2,c,e

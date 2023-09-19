@@ -1,5 +1,5 @@
 [title]
-Iona {author: {Marius Livanu}, {rcId: {178633}}
+Iona {composer: {Marius Livanu}, {rcId: {178633}}
 
 [sequence]
 v1,c,v2,c2,v3,c2,v4,c4

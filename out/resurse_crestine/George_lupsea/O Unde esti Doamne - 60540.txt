@@ -1,5 +1,5 @@
 [title]
-O unde esti doamne {author: {George Lupsea}, {rcId: {60540}}
+O unde esti doamne {composer: {George Lupsea}, {rcId: {60540}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

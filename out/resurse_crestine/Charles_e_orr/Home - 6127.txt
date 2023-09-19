@@ -1,5 +1,5 @@
 [title]
-Home {author: {Charles E. Orr}, {rcId: {6127}}
+Home {composer: {Charles E. Orr}, {rcId: {6127}}
 
 [sequence]
 v1,v2,v3

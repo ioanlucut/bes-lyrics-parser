@@ -1,5 +1,5 @@
 [title]
-Ajutor tu imi esti {author: {Petre Strango}, {rcId: {140867}}
+Ajutor tu imi esti {composer: {Petre Strango}, {rcId: {140867}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

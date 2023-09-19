@@ -1,5 +1,5 @@
 [title]
-Binecuvantati sunt acei {author: {Matt Redman}, {rcId: {2810}}
+Binecuvantati sunt acei {composer: {Matt Redman}, {rcId: {2810}}
 
 [sequence]
 c,v1,c,e

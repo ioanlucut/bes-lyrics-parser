@@ -1,5 +1,5 @@
 [title]
-Te laud doamne caci m-ai mantuit {author: {Petre Strango}, {rcId: {137531}}
+Te laud doamne caci m-ai mantuit {composer: {Petre Strango}, {rcId: {137531}}
 
 [sequence]
 v1,v2,v3,v4,v5

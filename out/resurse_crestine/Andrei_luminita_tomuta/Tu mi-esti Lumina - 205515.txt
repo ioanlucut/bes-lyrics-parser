@@ -1,5 +1,5 @@
 [title]
-Tu mi-esti lumina {author: {Andrei, Luminița Tomuța}, {rcId: {205515}}
+Tu mi-esti lumina {composer: {Andrei, Luminița Tomuța}, {rcId: {205515}}
 
 [sequence]
 v1,v2,c

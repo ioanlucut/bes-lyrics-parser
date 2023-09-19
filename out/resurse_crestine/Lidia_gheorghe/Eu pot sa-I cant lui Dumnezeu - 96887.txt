@@ -1,5 +1,5 @@
 [title]
-Eu pot sa-i cant lui dumnezeu {author: {Lidia Gheorghe}, {rcId: {96887}}
+Eu pot sa-i cant lui dumnezeu {composer: {Lidia Gheorghe}, {rcId: {96887}}
 
 [sequence]
 c,v1,c2,v2,c3,v3,c4,v4,c5,v5,c5,e

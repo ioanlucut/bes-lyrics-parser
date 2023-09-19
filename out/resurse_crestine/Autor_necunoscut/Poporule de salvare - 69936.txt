@@ -1,5 +1,5 @@
 [title]
-Poporule de salvare {author: {Anonim}, {rcId: {69936}}
+Poporule de salvare {composer: {Anonim}, {rcId: {69936}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

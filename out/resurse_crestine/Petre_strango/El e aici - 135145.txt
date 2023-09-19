@@ -1,5 +1,5 @@
 [title]
-El e aici {author: {Petre Strango}, {rcId: {135145}}
+El e aici {composer: {Petre Strango}, {rcId: {135145}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

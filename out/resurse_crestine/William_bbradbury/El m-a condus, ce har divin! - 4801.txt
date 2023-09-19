@@ -1,5 +1,5 @@
 [title]
-El m-a condus ce har divin {author: {William B.Bradbury}, {rcId: {4801}}
+El m-a condus ce har divin {composer: {William B.Bradbury}, {rcId: {4801}}
 
 [sequence]
 v1,c,v2,c,v3,c

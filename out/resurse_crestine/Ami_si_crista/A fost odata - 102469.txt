@@ -1,5 +1,5 @@
 [title]
-A fost odata {author: {Ami și Crista}, {rcId: {102469}}
+A fost odata {composer: {Ami și Crista}, {rcId: {102469}}
 
 [sequence]
 v1,c,v2,c,e

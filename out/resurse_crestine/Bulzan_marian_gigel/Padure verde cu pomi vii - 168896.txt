@@ -1,5 +1,5 @@
 [title]
-Padure verde cu pomi vii {author: {Bulzan Marian Gigel}, {rcId: {168896}}
+Padure verde cu pomi vii {composer: {Bulzan Marian Gigel}, {rcId: {168896}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

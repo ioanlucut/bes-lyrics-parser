@@ -1,5 +1,5 @@
 [title]
-Omule ce-ai facut omule ? {author: {Adriana Stoica}, {rcId: {109453}}
+Omule ce-ai facut omule ? {composer: {Adriana Stoica}, {rcId: {109453}}
 
 [sequence]
 v1,c,v2,c,v3,c

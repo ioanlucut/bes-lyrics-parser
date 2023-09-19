@@ -1,5 +1,5 @@
 [title]
-Auzi doamne urletul marii ? {author: {Advent Quartet}, {rcId: {210000}}
+Auzi doamne urletul marii ? {composer: {Advent Quartet}, {rcId: {210000}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Asa mult te iubesc {author: {Anonim}, {rcId: {58834}}
+Asa mult te iubesc {composer: {Anonim}, {rcId: {58834}}
 
 [sequence]
 v1,v2

@@ -1,5 +1,5 @@
 [title]
-N-avem timp {author: {Samy si Clara Lupu}, {rcId: {187038}}
+N-avem timp {composer: {Samy si Clara Lupu}, {rcId: {187038}}
 
 [sequence]
 v1,c,v2,c,e

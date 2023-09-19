@@ -1,5 +1,5 @@
 [title]
-Zace-n rece mormant {author: {Anonim}, {rcId: {6752}}
+Zace-n rece mormant {composer: {Anonim}, {rcId: {6752}}
 
 [sequence]
 v1,c,v2,c

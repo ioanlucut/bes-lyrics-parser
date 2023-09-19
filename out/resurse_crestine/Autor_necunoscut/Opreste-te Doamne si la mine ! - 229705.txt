@@ -1,5 +1,5 @@
 [title]
-Opreste-te doamne si la mine {author: {Anonimul}, {rcId: {229705}}
+Opreste-te doamne si la mine {composer: {Anonimul}, {rcId: {229705}}
 
 [sequence]
 v1,v2,v3,v4,v5

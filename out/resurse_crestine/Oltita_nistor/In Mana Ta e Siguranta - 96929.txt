@@ -1,5 +1,5 @@
 [title]
-In mana ta e siguranta {author: {Oltita Nistor}, {rcId: {96929}}
+In mana ta e siguranta {composer: {Oltita Nistor}, {rcId: {96929}}
 
 [sequence]
 v1,v2,v3,v4

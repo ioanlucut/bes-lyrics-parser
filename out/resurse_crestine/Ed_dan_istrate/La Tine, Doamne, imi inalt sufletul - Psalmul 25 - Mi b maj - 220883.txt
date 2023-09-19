@@ -1,5 +1,5 @@
 [title]
-La tine doamne imi inalt sufletul - psalmul - mi b maj {author: {ed. Dan Istrate}, {rcId: {220883}}
+La tine doamne imi inalt sufletul - psalmul - mi b maj {composer: {ed. Dan Istrate}, {rcId: {220883}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

@@ -1,5 +1,5 @@
 [title]
-N-am venit la tine doamne dupa aur si argint {author: {Anonim}, {rcId: {74556}}
+N-am venit la tine doamne dupa aur si argint {composer: {Anonim}, {rcId: {74556}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

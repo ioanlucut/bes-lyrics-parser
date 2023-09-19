@@ -1,5 +1,5 @@
 [title]
-Suflete esti gata {author: {Anonim}, {rcId: {238166}}
+Suflete esti gata {composer: {Anonim}, {rcId: {238166}}
 
 [sequence]
 v1,c,v2,c

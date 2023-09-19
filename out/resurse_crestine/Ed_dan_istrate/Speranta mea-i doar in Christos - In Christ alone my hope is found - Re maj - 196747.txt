@@ -1,5 +1,5 @@
 [title]
-Speranta mea-i doar in christos - in christ alone my hope is found - re maj {author: {ed. Dan Istrate}, {rcId: {196747}}
+Speranta mea-i doar in christos - in christ alone my hope is found - re maj {composer: {ed. Dan Istrate}, {rcId: {196747}}
 
 [sequence]
 v1,v2,v3,v4

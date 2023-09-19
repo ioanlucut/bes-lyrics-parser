@@ -1,5 +1,5 @@
 [title]
-Glorie ii cantam {author: {Speranța și prietenii}, {rcId: {83185}}
+Glorie ii cantam {composer: {Speranța și prietenii}, {rcId: {83185}}
 
 [sequence]
 v1,b,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Sunt un copil de dumnezeu {author: {Rebeca Chiricioaei}, {rcId: {214836}}
+Sunt un copil de dumnezeu {composer: {Rebeca Chiricioaei}, {rcId: {214836}}
 
 [sequence]
 v1,v2,v3

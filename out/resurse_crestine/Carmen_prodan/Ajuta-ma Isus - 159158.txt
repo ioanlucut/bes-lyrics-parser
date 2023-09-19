@@ -1,5 +1,5 @@
 [title]
-Ajuta-ma isus {author: {Carmen Prodan}, {rcId: {159158}}
+Ajuta-ma isus {composer: {Carmen Prodan}, {rcId: {159158}}
 
 [sequence]
 v1,v2,v3,v4,v5

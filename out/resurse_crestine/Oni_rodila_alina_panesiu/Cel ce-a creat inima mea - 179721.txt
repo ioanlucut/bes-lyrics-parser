@@ -1,5 +1,5 @@
 [title]
-Cel ce-a creat inima mea {author: {Oni Rodilă, Alina Paneșiu}, {rcId: {179721}}
+Cel ce-a creat inima mea {composer: {Oni Rodilă, Alina Paneșiu}, {rcId: {179721}}
 
 [sequence]
 v1,c,v2,b,c

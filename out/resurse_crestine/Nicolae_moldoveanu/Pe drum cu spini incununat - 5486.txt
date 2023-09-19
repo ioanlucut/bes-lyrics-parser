@@ -1,5 +1,5 @@
 [title]
-Pe drum cu spini incununat {author: {Nicolae Moldoveanu}, {rcId: {5486}}
+Pe drum cu spini incununat {composer: {Nicolae Moldoveanu}, {rcId: {5486}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

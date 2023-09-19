@@ -1,5 +1,5 @@
 [title]
-A-nflorit ciresul {author: {Nicolae Moldoveanu}, {rcId: {225881}}
+A-nflorit ciresul {composer: {Nicolae Moldoveanu}, {rcId: {225881}}
 
 [sequence]
 v1,c,v2,c,v3,c

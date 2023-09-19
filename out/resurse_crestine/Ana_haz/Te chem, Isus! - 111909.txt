@@ -1,5 +1,5 @@
 [title]
-Te chem isus {author: {Ana Haz}, {rcId: {111909}}
+Te chem isus {composer: {Ana Haz}, {rcId: {111909}}
 
 [sequence]
 v1,v2,v3,v4,v5

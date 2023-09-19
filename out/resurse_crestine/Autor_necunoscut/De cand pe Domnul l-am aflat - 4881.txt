@@ -1,5 +1,5 @@
 [title]
-De cand pe domnul l-am aflat {author: {Anonim}, {rcId: {4881}}
+De cand pe domnul l-am aflat {composer: {Anonim}, {rcId: {4881}}
 
 [sequence]
 v1,v2,v3,v4

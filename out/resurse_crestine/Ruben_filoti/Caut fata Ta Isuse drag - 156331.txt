@@ -1,5 +1,5 @@
 [title]
-Caut fata ta isuse drag {author: {Ruben Filoti}, {rcId: {156331}}
+Caut fata ta isuse drag {composer: {Ruben Filoti}, {rcId: {156331}}
 
 [sequence]
 v1,c,v2,c

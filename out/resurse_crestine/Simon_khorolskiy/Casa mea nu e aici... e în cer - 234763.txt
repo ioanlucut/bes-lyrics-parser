@@ -1,5 +1,5 @@
 [title]
-Casa mea nu e aici e in cer {author: {Simon Khorolskiy}, {rcId: {234763}}
+Casa mea nu e aici e in cer {composer: {Simon Khorolskiy}, {rcId: {234763}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Tu esti doamne a mea tarie {author: {Nicolae Zamfir}, {rcId: {210153}}
+Tu esti doamne a mea tarie {composer: {Nicolae Zamfir}, {rcId: {210153}}
 
 [sequence]
 v1,c,v2,c,v3,c

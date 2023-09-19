@@ -1,5 +1,5 @@
 [title]
-Ridic steag de biruinta {author: {amos7}, {rcId: {79060}}
+Ridic steag de biruinta {composer: {amos7}, {rcId: {79060}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

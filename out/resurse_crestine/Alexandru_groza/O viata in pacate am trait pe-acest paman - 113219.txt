@@ -1,5 +1,5 @@
 [title]
-O viata in pacate am trait pe-acest paman {author: {Alexandru Groza}, {rcId: {113219}}
+O viata in pacate am trait pe-acest paman {composer: {Alexandru Groza}, {rcId: {113219}}
 
 [sequence]
 v1,c,v2,c

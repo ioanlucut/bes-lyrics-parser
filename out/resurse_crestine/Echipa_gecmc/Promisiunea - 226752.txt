@@ -1,5 +1,5 @@
 [title]
-Promisiunea {author: {Echipa GECMC}, {rcId: {226752}}
+Promisiunea {composer: {Echipa GECMC}, {rcId: {226752}}
 
 [sequence]
 v1,c,v2,c,e

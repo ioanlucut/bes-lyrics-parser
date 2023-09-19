@@ -1,5 +1,5 @@
 [title]
-Laudati popoare pe dumnezeu {author: {Autor necunoscut}, {rcId: {246424}}
+Laudati popoare pe dumnezeu {composer: {Autor necunoscut}, {rcId: {246424}}
 
 [sequence]
 v1,c,v2,c,v3,c

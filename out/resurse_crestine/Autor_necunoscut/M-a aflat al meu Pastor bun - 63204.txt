@@ -1,5 +1,5 @@
 [title]
-M-a aflat al meu pastor bun {author: {Anonim}, {rcId: {63204}}
+M-a aflat al meu pastor bun {composer: {Anonim}, {rcId: {63204}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Cu isus {author: {Gabi_Ilut}, {rcId: {241204}}
+Cu isus {composer: {Gabi_Ilut}, {rcId: {241204}}
 
 [sequence]
 v1,c,v2,c

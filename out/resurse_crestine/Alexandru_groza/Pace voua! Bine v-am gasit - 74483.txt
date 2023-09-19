@@ -1,5 +1,5 @@
 [title]
-Pace voua bine v-am gasit {author: {Alexandru Groza}, {rcId: {74483}}
+Pace voua bine v-am gasit {composer: {Alexandru Groza}, {rcId: {74483}}
 
 [sequence]
 v1,c,v2,c

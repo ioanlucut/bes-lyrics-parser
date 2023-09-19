@@ -1,5 +1,5 @@
 [title]
-Doamne iti multumim {author: {Elim Harmony}, {rcId: {112853}}
+Doamne iti multumim {composer: {Elim Harmony}, {rcId: {112853}}
 
 [sequence]
 v1,b,c,c

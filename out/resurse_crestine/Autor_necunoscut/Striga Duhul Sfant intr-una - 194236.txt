@@ -1,5 +1,5 @@
 [title]
-Striga duhul sfant intr-una {author: {Anonim}, {rcId: {194236}}
+Striga duhul sfant intr-una {composer: {Anonim}, {rcId: {194236}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

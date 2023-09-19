@@ -1,5 +1,5 @@
 [title]
-Ma vei pazi {author: {Alin și Florina Jivan}, {rcId: {161467}}
+Ma vei pazi {composer: {Alin și Florina Jivan}, {rcId: {161467}}
 
 [sequence]
 v1,b,c,v2,b,c

@@ -1,5 +1,5 @@
 [title]
-Cu tine doamne isuse {author: {Speranța}, {rcId: {2172}}
+Cu tine doamne isuse {composer: {Speranța}, {rcId: {2172}}
 
 [sequence]
 v1,c,v2,c,v3,c

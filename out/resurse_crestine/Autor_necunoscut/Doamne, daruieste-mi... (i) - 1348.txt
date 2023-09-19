@@ -1,5 +1,5 @@
 [title]
-Doamne daruieste-mi (i) {author: {Anonim}, {rcId: {1348}}
+Doamne daruieste-mi (i) {composer: {Anonim}, {rcId: {1348}}
 
 [sequence]
 v1,v2,v3

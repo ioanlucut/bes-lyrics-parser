@@ -1,5 +1,5 @@
 [title]
-Indeajuns mi-e doamne colaj betel {author: {Anonim}, {rcId: {240777}}
+Indeajuns mi-e doamne colaj betel {composer: {Anonim}, {rcId: {240777}}
 
 [sequence]
 v1,v2,v3,c,v4,c,c,c

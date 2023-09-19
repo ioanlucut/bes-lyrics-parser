@@ -1,5 +1,5 @@
 [title]
-Tu singur iti faci raiul {author: {Nicolae Moldoveanu}, {rcId: {5439}}
+Tu singur iti faci raiul {composer: {Nicolae Moldoveanu}, {rcId: {5439}}
 
 [sequence]
 v1,c,v2,c,v3,c

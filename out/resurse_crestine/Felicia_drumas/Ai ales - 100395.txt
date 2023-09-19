@@ -1,5 +1,5 @@
 [title]
-Ai ales {author: {Felicia Drumas}, {rcId: {100395}}
+Ai ales {composer: {Felicia Drumas}, {rcId: {100395}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Leaga-ti inima de cer {author: {Marius Pop, Naomi Borota}, {rcId: {158891}}
+Leaga-ti inima de cer {composer: {Marius Pop, Naomi Borota}, {rcId: {158891}}
 
 [sequence]
 c,v1,c,v1,e,c

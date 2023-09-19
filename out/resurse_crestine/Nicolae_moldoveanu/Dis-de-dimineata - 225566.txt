@@ -1,5 +1,5 @@
 [title]
-Dis-de-dimineata {author: {Nicolae Moldoveanu}, {rcId: {225566}}
+Dis-de-dimineata {composer: {Nicolae Moldoveanu}, {rcId: {225566}}
 
 [sequence]
 v1,v2,v3

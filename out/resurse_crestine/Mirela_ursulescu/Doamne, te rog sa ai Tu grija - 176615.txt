@@ -1,5 +1,5 @@
 [title]
-Doamne te rog sa ai tu grija {author: {Mirela Ursulescu}, {rcId: {176615}}
+Doamne te rog sa ai tu grija {composer: {Mirela Ursulescu}, {rcId: {176615}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

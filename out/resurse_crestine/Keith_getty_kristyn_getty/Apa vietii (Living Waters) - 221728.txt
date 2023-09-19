@@ -1,5 +1,5 @@
 [title]
-Apa vietii (living waters) {author: {Keith Getty, Kristyn Getty, Traducere RO}, {rcId: {221728}}
+Apa vietii (living waters) {composer: {Keith Getty, Kristyn Getty, Traducere RO}, {rcId: {221728}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c

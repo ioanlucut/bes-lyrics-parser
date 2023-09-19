@@ -1,5 +1,5 @@
 [title]
-Trec anii trec clipe {author: {Claudia Gavris}, {rcId: {60503}}
+Trec anii trec clipe {composer: {Claudia Gavris}, {rcId: {60503}}
 
 [sequence]
 v1,c,v2,c

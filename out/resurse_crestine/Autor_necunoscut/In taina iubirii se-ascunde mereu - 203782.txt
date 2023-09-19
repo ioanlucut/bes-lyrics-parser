@@ -1,5 +1,5 @@
 [title]
-In taina iubirii se-ascunde mereu {author: {Anonim}, {rcId: {203782}}
+In taina iubirii se-ascunde mereu {composer: {Anonim}, {rcId: {203782}}
 
 [sequence]
 v1,c,v2,c,v3,c

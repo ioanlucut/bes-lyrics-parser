@@ -1,5 +1,5 @@
 [title]
-Din a cerului m~arire {author: {Puiu Chibici}, {rcId: {4418}}
+Din a cerului m~arire {composer: {Puiu Chibici}, {rcId: {4418}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

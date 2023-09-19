@@ -1,5 +1,5 @@
 [title]
-Om ranit care esti intristat si doborat {author: {Cristian Văduva}, {rcId: {241194}}
+Om ranit care esti intristat si doborat {composer: {Cristian Văduva}, {rcId: {241194}}
 
 [sequence]
 v1,c,v2,c,v3,c

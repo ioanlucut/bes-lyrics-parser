@@ -1,5 +1,5 @@
 [title]
-Suntem a domnului faptura {author: {Speranța pentru copii}, {rcId: {148033}}
+Suntem a domnului faptura {composer: {Speranța pentru copii}, {rcId: {148033}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

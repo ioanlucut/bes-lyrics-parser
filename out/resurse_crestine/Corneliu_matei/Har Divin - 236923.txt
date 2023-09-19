@@ -1,5 +1,5 @@
 [title]
-Har divin {author: {Corneliu Matei}, {rcId: {236923}}
+Har divin {composer: {Corneliu Matei}, {rcId: {236923}}
 
 [sequence]
 v1,c,v2,c,v3,c

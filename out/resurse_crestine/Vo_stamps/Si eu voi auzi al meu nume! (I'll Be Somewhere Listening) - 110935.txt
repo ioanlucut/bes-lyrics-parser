@@ -1,5 +1,5 @@
 [title]
-Si eu voi auzi al meu nume (i ll be somewhere listening) {author: {V.O. Stamps, Traducere RO}, {rcId: {110935}}
+Si eu voi auzi al meu nume (i ll be somewhere listening) {composer: {V.O. Stamps, Traducere RO}, {rcId: {110935}}
 
 [sequence]
 v1,c,v2,c,v3,c,s,c

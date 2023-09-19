@@ -1,5 +1,5 @@
 [title]
-Pentru cei ce i-a iubit {author: {Ioan Chismorie}, {rcId: {155906}}
+Pentru cei ce i-a iubit {composer: {Ioan Chismorie}, {rcId: {155906}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Omul cat traieste-alearga poftele a-si implini {author: {Alexandru Groza}, {rcId: {186258}}
+Omul cat traieste-alearga poftele a-si implini {composer: {Alexandru Groza}, {rcId: {186258}}
 
 [sequence]
 v1,v2,v3

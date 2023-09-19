@@ -1,5 +1,5 @@
 [title]
-Ce-ar fi toata lumea asta {author: {Mariana Someșan}, {rcId: {169908}}
+Ce-ar fi toata lumea asta {composer: {Mariana Someșan}, {rcId: {169908}}
 
 [sequence]
 v1,v2,v3,v4,v5

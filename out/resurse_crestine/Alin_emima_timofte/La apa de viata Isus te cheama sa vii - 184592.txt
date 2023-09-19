@@ -1,5 +1,5 @@
 [title]
-La apa de viata isus te cheama sa vii {author: {Alin, Emima Timofte}, {rcId: {184592}}
+La apa de viata isus te cheama sa vii {composer: {Alin, Emima Timofte}, {rcId: {184592}}
 
 [sequence]
 v1,c,v2,c

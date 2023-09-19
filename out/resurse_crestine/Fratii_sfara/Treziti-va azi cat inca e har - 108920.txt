@@ -1,5 +1,5 @@
 [title]
-Treziti-va azi cat inca e har {author: {Fratii Sfara}, {rcId: {108920}}
+Treziti-va azi cat inca e har {composer: {Fratii Sfara}, {rcId: {108920}}
 
 [sequence]
 v1,c,v2,c,v3,c

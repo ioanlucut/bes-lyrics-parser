@@ -1,5 +1,5 @@
 [title]
-Suflet pierdut {author: {William H.Doane}, {rcId: {1718}}
+Suflet pierdut {composer: {William H.Doane}, {rcId: {1718}}
 
 [sequence]
 v1,v2,v3

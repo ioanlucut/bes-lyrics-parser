@@ -1,5 +1,5 @@
 [title]
-La cruce {author: {Alex Pamparau}, {rcId: {136867}}
+La cruce {composer: {Alex Pamparau}, {rcId: {136867}}
 
 [sequence]
 v1,v2

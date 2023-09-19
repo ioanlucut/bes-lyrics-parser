@@ -1,5 +1,5 @@
 [title]
-S-a trezit vreodata constiinta ta? {author: {Florin Pal}, {rcId: {66658}}
+S-a trezit vreodata constiinta ta? {composer: {Florin Pal}, {rcId: {66658}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

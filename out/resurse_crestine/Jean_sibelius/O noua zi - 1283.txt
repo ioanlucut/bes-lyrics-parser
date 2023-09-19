@@ -1,5 +1,5 @@
 [title]
-O noua zi {author: {Jean Sibelius}, {rcId: {1283}}
+O noua zi {composer: {Jean Sibelius}, {rcId: {1283}}
 
 [sequence]
 v1,v2

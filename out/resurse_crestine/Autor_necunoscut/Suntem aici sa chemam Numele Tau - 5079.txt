@@ -1,5 +1,5 @@
 [title]
-Suntem aici sa chemam numele tau {author: {Anonim}, {rcId: {5079}}
+Suntem aici sa chemam numele tau {composer: {Anonim}, {rcId: {5079}}
 
 [sequence]
 v1,e,v2,c

@@ -1,5 +1,5 @@
 [title]
-Imnul rugaciunii (ferice de acei ce dimineata) {author: {Ovidiu Liteanu}, {rcId: {183382}}
+Imnul rugaciunii (ferice de acei ce dimineata) {composer: {Ovidiu Liteanu}, {rcId: {183382}}
 
 [sequence]
 v1,v2,v3

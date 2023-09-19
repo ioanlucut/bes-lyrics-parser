@@ -1,5 +1,5 @@
 [title]
-Curand curand va trebui {author: {Daniel Hartie}, {rcId: {146415}}
+Curand curand va trebui {composer: {Daniel Hartie}, {rcId: {146415}}
 
 [sequence]
 v1,c,v2,c2

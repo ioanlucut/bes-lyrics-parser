@@ -1,5 +1,5 @@
 [title]
-Pentru toti rasuna glasul {author: {Anonim}, {rcId: {136947}}
+Pentru toti rasuna glasul {composer: {Anonim}, {rcId: {136947}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

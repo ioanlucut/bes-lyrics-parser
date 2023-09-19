@@ -1,5 +1,5 @@
 [title]
-O clipa doar o clipa {author: {Toma Coca}, {rcId: {98898}}
+O clipa doar o clipa {composer: {Toma Coca}, {rcId: {98898}}
 
 [sequence]
 v1,c,v2,c

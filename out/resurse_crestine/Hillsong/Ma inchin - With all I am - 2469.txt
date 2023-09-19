@@ -1,5 +1,5 @@
 [title]
-Ma inchin - with all i am {author: {Hillsong, Traducere RO}, {rcId: {2469}}
+Ma inchin - with all i am {composer: {Hillsong, Traducere RO}, {rcId: {2469}}
 
 [sequence]
 v1,c,v2,b,c

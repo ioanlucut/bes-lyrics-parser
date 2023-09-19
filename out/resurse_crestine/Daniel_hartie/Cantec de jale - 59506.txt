@@ -1,5 +1,5 @@
 [title]
-Cantec de jale {author: {Daniel Hartie}, {rcId: {59506}}
+Cantec de jale {composer: {Daniel Hartie}, {rcId: {59506}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

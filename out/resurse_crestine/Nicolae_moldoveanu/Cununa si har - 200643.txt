@@ -1,5 +1,5 @@
 [title]
-Cununa si har {author: {Nicolae Moldoveanu}, {rcId: {200643}}
+Cununa si har {composer: {Nicolae Moldoveanu}, {rcId: {200643}}
 
 [sequence]
 v1,v2,v3

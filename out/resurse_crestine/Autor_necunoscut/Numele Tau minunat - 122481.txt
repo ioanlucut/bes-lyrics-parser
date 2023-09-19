@@ -1,5 +1,5 @@
 [title]
-Numele tau minunat {author: {Anonim}, {rcId: {122481}}
+Numele tau minunat {composer: {Anonim}, {rcId: {122481}}
 
 [sequence]
 v1,v2,v3

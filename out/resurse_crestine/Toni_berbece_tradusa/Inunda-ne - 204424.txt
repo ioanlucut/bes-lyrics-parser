@@ -1,5 +1,5 @@
 [title]
-Inunda-ne {author: {Toni Berbece tradusa}, {rcId: {204424}}
+Inunda-ne {composer: {Toni Berbece tradusa}, {rcId: {204424}}
 
 [sequence]
 s,c,c,c

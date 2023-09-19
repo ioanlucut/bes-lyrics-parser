@@ -1,5 +1,5 @@
 [title]
-Domnul minunilor {author: {Sunny Tranca, Adina Tranca}, {rcId: {236347}}
+Domnul minunilor {composer: {Sunny Tranca, Adina Tranca}, {rcId: {236347}}
 
 [sequence]
 v1,b,c,v2,c,e

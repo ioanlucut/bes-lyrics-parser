@@ -1,5 +1,5 @@
 [title]
-Isus comoara mea {author: {Frații Paiu}, {rcId: {219580}}
+Isus comoara mea {composer: {Frații Paiu}, {rcId: {219580}}
 
 [sequence]
 v1,c,v2,c,v3,c

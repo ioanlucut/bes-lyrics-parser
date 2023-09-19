@@ -1,5 +1,5 @@
 [title]
-Iti multumesc pentru acest an {author: {Anonim}, {rcId: {223881}}
+Iti multumesc pentru acest an {composer: {Anonim}, {rcId: {223881}}
 
 [sequence]
 v1

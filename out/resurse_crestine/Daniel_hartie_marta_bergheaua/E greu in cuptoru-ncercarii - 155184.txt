@@ -1,5 +1,5 @@
 [title]
-E greu in cuptoru-ncercarii {author: {Daniel Hartie, Marta Bergheaua}, {rcId: {155184}}
+E greu in cuptoru-ncercarii {composer: {Daniel Hartie, Marta Bergheaua}, {rcId: {155184}}
 
 [sequence]
 v1,c,v2,c,v3,c

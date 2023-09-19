@@ -1,5 +1,5 @@
 [title]
-Azi domnul cauta lucratori {author: {Anonim}, {rcId: {5570}}
+Azi domnul cauta lucratori {composer: {Anonim}, {rcId: {5570}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

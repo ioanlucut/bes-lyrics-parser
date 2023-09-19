@@ -1,5 +1,5 @@
 [title]
-Vanturile n-au reusit sa o doboare {author: {Anonim}, {rcId: {197033}}
+Vanturile n-au reusit sa o doboare {composer: {Anonim}, {rcId: {197033}}
 
 [sequence]
 v1,c,v2,c2

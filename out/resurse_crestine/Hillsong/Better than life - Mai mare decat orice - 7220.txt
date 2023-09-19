@@ -1,5 +1,5 @@
 [title]
-Better than life - mai mare decat orice {author: {Hillsong, Traducere RO}, {rcId: {7220}}
+Better than life - mai mare decat orice {composer: {Hillsong, Traducere RO}, {rcId: {7220}}
 
 [sequence]
 v1,v2,v3,v4,c

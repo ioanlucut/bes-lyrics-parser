@@ -1,5 +1,5 @@
 [title]
-O pastorule bun paste sufletul meu ostenit - do maj - savior like a shepherd lead us {author: {ed. Dan Istrate}, {rcId: {246099}}
+O pastorule bun paste sufletul meu ostenit - do maj - savior like a shepherd lead us {composer: {ed. Dan Istrate}, {rcId: {246099}}
 
 [sequence]
 v1,v2,v3,v4

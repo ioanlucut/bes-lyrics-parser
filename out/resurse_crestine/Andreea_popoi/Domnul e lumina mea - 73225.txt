@@ -1,5 +1,5 @@
 [title]
-Domnul e lumina mea {author: {Andreea Popoi}, {rcId: {73225}}
+Domnul e lumina mea {composer: {Andreea Popoi}, {rcId: {73225}}
 
 [sequence]
 v1,c,v2,c

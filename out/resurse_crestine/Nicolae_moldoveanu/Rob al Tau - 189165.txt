@@ -1,5 +1,5 @@
 [title]
-Rob al tau {author: {Nicolae Moldoveanu}, {rcId: {189165}}
+Rob al tau {composer: {Nicolae Moldoveanu}, {rcId: {189165}}
 
 [sequence]
 v1,v2,v3,v4

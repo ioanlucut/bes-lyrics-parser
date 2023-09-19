@@ -1,5 +1,5 @@
 [title]
-Cantarile imi plac {author: {Nicolae Moldoveanu}, {rcId: {226024}}
+Cantarile imi plac {composer: {Nicolae Moldoveanu}, {rcId: {226024}}
 
 [sequence]
 v1,v2

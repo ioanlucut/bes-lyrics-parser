@@ -1,5 +1,5 @@
 [title]
-In ziua cand isus murea pe cruce {author: {Ionică Beniamin}, {rcId: {186315}}
+In ziua cand isus murea pe cruce {composer: {Ionică Beniamin}, {rcId: {186315}}
 
 [sequence]
 v1,c,v2,c,v3,c

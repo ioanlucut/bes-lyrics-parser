@@ -1,5 +1,5 @@
 [title]
-Aud un sunet e armata domnului {author: {Anonim}, {rcId: {74548}}
+Aud un sunet e armata domnului {composer: {Anonim}, {rcId: {74548}}
 
 [sequence]
 c,v1,c,v2,c

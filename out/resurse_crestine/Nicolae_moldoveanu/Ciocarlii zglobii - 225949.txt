@@ -1,5 +1,5 @@
 [title]
-Ciocarlii zglobii {author: {Nicolae Moldoveanu}, {rcId: {225949}}
+Ciocarlii zglobii {composer: {Nicolae Moldoveanu}, {rcId: {225949}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Doamne ai venit la mine {author: {Anonim}, {rcId: {74619}}
+Doamne ai venit la mine {composer: {Anonim}, {rcId: {74619}}
 
 [sequence]
 v1,v3,v3,v4,v5,v6

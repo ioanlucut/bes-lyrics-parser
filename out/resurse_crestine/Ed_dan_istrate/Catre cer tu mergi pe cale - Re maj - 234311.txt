@@ -1,5 +1,5 @@
 [title]
-Catre cer tu mergi pe cale - re maj {author: {ed. Dan Istrate}, {rcId: {234311}}
+Catre cer tu mergi pe cale - re maj {composer: {ed. Dan Istrate}, {rcId: {234311}}
 
 [sequence]
 v1,v2,v3,v4

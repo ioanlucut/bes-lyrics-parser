@@ -1,5 +1,5 @@
 [title]
-Alege viata sa traiesti {author: {Rafael Dragomir}, {rcId: {151562}}
+Alege viata sa traiesti {composer: {Rafael Dragomir}, {rcId: {151562}}
 
 [sequence]
 v1,c,v2,c,v3,c

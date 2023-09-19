@@ -1,5 +1,5 @@
 [title]
-Nicicand nu voi inceta {author: {Anonim}, {rcId: {62655}}
+Nicicand nu voi inceta {composer: {Anonim}, {rcId: {62655}}
 
 [sequence]
 v1,c,e

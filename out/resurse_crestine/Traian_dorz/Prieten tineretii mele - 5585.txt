@@ -1,5 +1,5 @@
 [title]
-Prieten tineretii mele {author: {Traian Dorz}, {rcId: {5585}}
+Prieten tineretii mele {composer: {Traian Dorz}, {rcId: {5585}}
 
 [sequence]
 v1,v2,v3

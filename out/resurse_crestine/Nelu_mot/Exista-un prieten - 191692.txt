@@ -1,5 +1,5 @@
 [title]
-Exista-un prieten {author: {Nelu Mot}, {rcId: {191692}}
+Exista-un prieten {composer: {Nelu Mot}, {rcId: {191692}}
 
 [sequence]
 v1,c,v2,c,v3,c

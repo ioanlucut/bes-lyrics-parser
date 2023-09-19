@@ -1,5 +1,5 @@
 [title]
-Pregatire striga duhul sfant o poporule de pe pamant {author: {Anonim}, {rcId: {215925}}
+Pregatire striga duhul sfant o poporule de pe pamant {composer: {Anonim}, {rcId: {215925}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

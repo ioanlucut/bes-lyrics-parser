@@ -1,5 +1,5 @@
 [title]
-Hai sa zicem unu {author: {Anonim}, {rcId: {194615}}
+Hai sa zicem unu {composer: {Anonim}, {rcId: {194615}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8,v9,v10

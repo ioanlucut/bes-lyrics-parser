@@ -1,5 +1,5 @@
 [title]
-Daca nu zideste domnul {author: {Alin și Florina Jivan}, {rcId: {181455}}
+Daca nu zideste domnul {composer: {Alin și Florina Jivan}, {rcId: {181455}}
 
 [sequence]
 v1,v2,v3

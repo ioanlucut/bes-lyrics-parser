@@ -1,5 +1,5 @@
 [title]
-La tine venim {author: {Anonim}, {rcId: {1480}}
+La tine venim {composer: {Anonim}, {rcId: {1480}}
 
 [sequence]
 v1,c

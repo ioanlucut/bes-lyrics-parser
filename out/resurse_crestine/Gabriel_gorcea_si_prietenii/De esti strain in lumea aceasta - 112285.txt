@@ -1,5 +1,5 @@
 [title]
-De esti strain in lumea aceasta {author: {Gabriel Gorcea și prietenii}, {rcId: {112285}}
+De esti strain in lumea aceasta {composer: {Gabriel Gorcea și prietenii}, {rcId: {112285}}
 
 [sequence]
 v1,c,v2,c,v3,c

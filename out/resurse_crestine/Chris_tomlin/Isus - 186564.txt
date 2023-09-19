@@ -1,5 +1,5 @@
 [title]
-Isus {author: {Chris Tomlin, Traducere RO}, {rcId: {186564}}
+Isus {composer: {Chris Tomlin, Traducere RO}, {rcId: {186564}}
 
 [sequence]
 v1,v2,c,v3,c,e

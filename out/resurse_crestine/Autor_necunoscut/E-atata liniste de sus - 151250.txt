@@ -1,5 +1,5 @@
 [title]
-E-atata liniste de sus {author: {Anonim}, {rcId: {151250}}
+E-atata liniste de sus {composer: {Anonim}, {rcId: {151250}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Zideste in mine o inima curata mantuitorul meu iubit {author: {Anonim}, {rcId: {73373}}
+Zideste in mine o inima curata mantuitorul meu iubit {composer: {Anonim}, {rcId: {73373}}
 
 [sequence]
 v1,v2,v3,v4,v5

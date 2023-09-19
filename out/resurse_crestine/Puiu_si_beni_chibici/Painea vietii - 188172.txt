@@ -1,5 +1,5 @@
 [title]
-Painea vietii {author: {Puiu și Beni Chibici}, {rcId: {188172}}
+Painea vietii {composer: {Puiu și Beni Chibici}, {rcId: {188172}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Se-aude un zgomot de arme {author: {Daniel Briciu}, {rcId: {240366}}
+Se-aude un zgomot de arme {composer: {Daniel Briciu}, {rcId: {240366}}
 
 [sequence]
 v1,c,v2,c,v3,c

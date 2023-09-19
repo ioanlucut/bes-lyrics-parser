@@ -1,5 +1,5 @@
 [title]
-Cantarea mea de lauda {author: {Alexandru Groza}, {rcId: {185388}}
+Cantarea mea de lauda {composer: {Alexandru Groza}, {rcId: {185388}}
 
 [sequence]
 v1,c,v2,c

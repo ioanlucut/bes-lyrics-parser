@@ -1,5 +1,5 @@
 [title]
-In ascultare si sfintire {author: {Dorin Mihai}, {rcId: {244205}}
+In ascultare si sfintire {composer: {Dorin Mihai}, {rcId: {244205}}
 
 [sequence]
 c,v1,v2,v3,c2

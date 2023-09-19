@@ -1,5 +1,5 @@
 [title]
-Un vas de cinste fiul meu {author: {Mariana Someșan}, {rcId: {211810}}
+Un vas de cinste fiul meu {composer: {Mariana Someșan}, {rcId: {211810}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

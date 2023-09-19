@@ -1,5 +1,5 @@
 [title]
-Este timpul {author: {Speranța}, {rcId: {111005}}
+Este timpul {composer: {Speranța}, {rcId: {111005}}
 
 [sequence]
 v1,v2,v3,v4

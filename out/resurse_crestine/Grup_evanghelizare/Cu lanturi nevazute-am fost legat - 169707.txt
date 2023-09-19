@@ -1,5 +1,5 @@
 [title]
-Cu lanturi nevazute-am fost legat {author: {grup evanghelizare}, {rcId: {169707}}
+Cu lanturi nevazute-am fost legat {composer: {grup evanghelizare}, {rcId: {169707}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

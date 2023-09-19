@@ -1,5 +1,5 @@
 [title]
-Let him in {author: {Barney E. Warren}, {rcId: {101982}}
+Let him in {composer: {Barney E. Warren}, {rcId: {101982}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

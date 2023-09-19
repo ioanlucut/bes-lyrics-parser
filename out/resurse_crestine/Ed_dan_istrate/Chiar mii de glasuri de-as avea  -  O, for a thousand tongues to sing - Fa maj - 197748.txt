@@ -1,5 +1,5 @@
 [title]
-Chiar mii de glasuri de-as avea - o for a thousand tongues to sing - fa maj {author: {ed. Dan Istrate}, {rcId: {197748}}
+Chiar mii de glasuri de-as avea - o for a thousand tongues to sing - fa maj {composer: {ed. Dan Istrate}, {rcId: {197748}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Dor de vesnicie {author: {Carmen Prodan}, {rcId: {152892}}
+Dor de vesnicie {composer: {Carmen Prodan}, {rcId: {152892}}
 
 [sequence]
 v1,c,v2,c2,v3,c2,c

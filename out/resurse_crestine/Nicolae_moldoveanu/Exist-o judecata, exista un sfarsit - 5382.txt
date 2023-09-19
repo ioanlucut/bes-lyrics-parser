@@ -1,5 +1,5 @@
 [title]
-Exist-o judecata exista un sfarsit {author: {Nicolae Moldoveanu}, {rcId: {5382}}
+Exist-o judecata exista un sfarsit {composer: {Nicolae Moldoveanu}, {rcId: {5382}}
 
 [sequence]
 v1,c,v2,c

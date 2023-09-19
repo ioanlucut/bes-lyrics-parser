@@ -1,5 +1,5 @@
 [title]
-Wait (tait) {author: {Tait}, {rcId: {4354}}
+Wait (tait) {composer: {Tait}, {rcId: {4354}}
 
 [sequence]
 v1,c,v2,c2,c2,v3,b,c2,e

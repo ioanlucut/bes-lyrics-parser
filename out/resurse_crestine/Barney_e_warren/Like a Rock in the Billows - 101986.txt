@@ -1,5 +1,5 @@
 [title]
-Like a rock in the billows {author: {Barney E. Warren}, {rcId: {101986}}
+Like a rock in the billows {composer: {Barney E. Warren}, {rcId: {101986}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Am mai trecut de-atatea ori prin valuri {author: {Beniamin Buble}, {rcId: {173423}}
+Am mai trecut de-atatea ori prin valuri {composer: {Beniamin Buble}, {rcId: {173423}}
 
 [sequence]
 v1,c,v2,c,v3,c

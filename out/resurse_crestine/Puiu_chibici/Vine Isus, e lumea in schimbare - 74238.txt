@@ -1,5 +1,5 @@
 [title]
-Vine isus e lumea in schimbare {author: {Puiu Chibici}, {rcId: {74238}}
+Vine isus e lumea in schimbare {composer: {Puiu Chibici}, {rcId: {74238}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

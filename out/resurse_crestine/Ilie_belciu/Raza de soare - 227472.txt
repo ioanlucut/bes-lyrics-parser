@@ -1,5 +1,5 @@
 [title]
-Raza de soare {author: {Ilie Belciu}, {rcId: {227472}}
+Raza de soare {composer: {Ilie Belciu}, {rcId: {227472}}
 
 [sequence]
 v1,v2,v3,v4

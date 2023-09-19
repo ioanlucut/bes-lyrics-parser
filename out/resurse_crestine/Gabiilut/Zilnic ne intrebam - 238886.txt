@@ -1,5 +1,5 @@
 [title]
-Zilnic ne intrebam {author: {Gabi_Ilut}, {rcId: {238886}}
+Zilnic ne intrebam {composer: {Gabi_Ilut}, {rcId: {238886}}
 
 [sequence]
 v1,c,v2,c

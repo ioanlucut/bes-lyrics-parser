@@ -1,5 +1,5 @@
 [title]
-Sunt un pribeag fara de tara {author: {Autor necunoscut}, {rcId: {6766}}
+Sunt un pribeag fara de tara {composer: {Autor necunoscut}, {rcId: {6766}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

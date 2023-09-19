@@ -1,5 +1,5 @@
 [title]
-Ce bine-i printre voi iubitii {author: {Traian Dorz}, {rcId: {75151}}
+Ce bine-i printre voi iubitii {composer: {Traian Dorz}, {rcId: {75151}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

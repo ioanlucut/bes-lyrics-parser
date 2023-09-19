@@ -1,5 +1,5 @@
 [title]
-Bine-i langa tine {author: {Nicu Wagner}, {rcId: {55607}}
+Bine-i langa tine {composer: {Nicu Wagner}, {rcId: {55607}}
 
 [sequence]
 v1,v2,v3,v4,v5

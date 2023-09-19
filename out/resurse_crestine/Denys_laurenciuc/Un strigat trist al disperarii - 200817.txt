@@ -1,5 +1,5 @@
 [title]
-Un strigat trist al disperarii {author: {Denys Laurenciuc}, {rcId: {200817}}
+Un strigat trist al disperarii {composer: {Denys Laurenciuc}, {rcId: {200817}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c2

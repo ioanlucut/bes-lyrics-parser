@@ -1,5 +1,5 @@
 [title]
-Cine canta ne-ncetat ? {author: {Cristian și Cristiana Văduva}, {rcId: {83655}}
+Cine canta ne-ncetat ? {composer: {Cristian și Cristiana Văduva}, {rcId: {83655}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

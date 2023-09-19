@@ -1,5 +1,5 @@
 [title]
-Canta inima si spune (varianta originala) {author: {Alexandru Groza}, {rcId: {209513}}
+Canta inima si spune (varianta originala) {composer: {Alexandru Groza}, {rcId: {209513}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

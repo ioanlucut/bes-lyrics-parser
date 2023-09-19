@@ -1,5 +1,5 @@
 [title]
-Esti dumnezeul meu cel mare {author: {Dorin Mihai}, {rcId: {227555}}
+Esti dumnezeul meu cel mare {composer: {Dorin Mihai}, {rcId: {227555}}
 
 [sequence]
 v1,c,v2,c2

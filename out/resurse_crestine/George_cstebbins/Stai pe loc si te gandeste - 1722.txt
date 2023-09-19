@@ -1,5 +1,5 @@
 [title]
-Stai pe loc si te gandeste {author: {George C.Stebbins}, {rcId: {1722}}
+Stai pe loc si te gandeste {composer: {George C.Stebbins}, {rcId: {1722}}
 
 [sequence]
 v1,c,v2,c,v3,c

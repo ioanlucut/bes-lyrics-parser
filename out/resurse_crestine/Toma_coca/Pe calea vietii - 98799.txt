@@ -1,5 +1,5 @@
 [title]
-Pe calea vietii {author: {Toma Coca}, {rcId: {98799}}
+Pe calea vietii {composer: {Toma Coca}, {rcId: {98799}}
 
 [sequence]
 v1,c,v2,c

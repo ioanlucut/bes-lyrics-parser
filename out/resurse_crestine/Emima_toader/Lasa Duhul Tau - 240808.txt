@@ -1,5 +1,5 @@
 [title]
-Lasa duhul tau {author: {Emima Toader}, {rcId: {240808}}
+Lasa duhul tau {composer: {Emima Toader}, {rcId: {240808}}
 
 [sequence]
 v1,c,v2,c

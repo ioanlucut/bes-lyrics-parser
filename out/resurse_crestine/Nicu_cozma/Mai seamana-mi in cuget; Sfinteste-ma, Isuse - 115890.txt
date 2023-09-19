@@ -1,5 +1,5 @@
 [title]
-Mai seamana-mi in cuget; sfinteste-ma isuse {author: {Nicu Cozma}, {rcId: {115890}}
+Mai seamana-mi in cuget; sfinteste-ma isuse {composer: {Nicu Cozma}, {rcId: {115890}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

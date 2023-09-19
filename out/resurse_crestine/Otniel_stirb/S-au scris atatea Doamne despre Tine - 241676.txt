@@ -1,5 +1,5 @@
 [title]
-S-au scris atatea doamne despre tine {author: {Otniel Stirb}, {rcId: {241676}}
+S-au scris atatea doamne despre tine {composer: {Otniel Stirb}, {rcId: {241676}}
 
 [sequence]
 v1,v2,v3,v4

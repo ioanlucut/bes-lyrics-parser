@@ -1,5 +1,5 @@
 [title]
-Azi e mare sarbatoare {author: {Anonim}, {rcId: {94058}}
+Azi e mare sarbatoare {composer: {Anonim}, {rcId: {94058}}
 
 [sequence]
 v1,c,v2,c,v3,c

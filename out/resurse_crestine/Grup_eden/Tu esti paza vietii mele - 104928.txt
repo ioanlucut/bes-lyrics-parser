@@ -1,5 +1,5 @@
 [title]
-Tu esti paza vietii mele {author: {Grup Eden}, {rcId: {104928}}
+Tu esti paza vietii mele {composer: {Grup Eden}, {rcId: {104928}}
 
 [sequence]
 v1,c,v2,c,v3,c

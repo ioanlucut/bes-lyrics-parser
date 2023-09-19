@@ -1,5 +1,5 @@
 [title]
-Osana osana regelui incoronat {author: {Sorin  Mocanu}, {rcId: {193784}}
+Osana osana regelui incoronat {composer: {Sorin  Mocanu}, {rcId: {193784}}
 
 [sequence]
 v1,c,v2,c,v3,c

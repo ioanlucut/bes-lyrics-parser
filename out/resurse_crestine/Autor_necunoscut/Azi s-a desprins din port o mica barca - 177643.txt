@@ -1,5 +1,5 @@
 [title]
-Azi s-a desprins din port o mica barca {author: {Anonim}, {rcId: {177643}}
+Azi s-a desprins din port o mica barca {composer: {Anonim}, {rcId: {177643}}
 
 [sequence]
 v1,c,v2,c,v3,c

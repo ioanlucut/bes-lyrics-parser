@@ -1,5 +1,5 @@
 [title]
-Cat de-nfricosat e locul unde {author: {Otniel Stirb}, {rcId: {145697}}
+Cat de-nfricosat e locul unde {composer: {Otniel Stirb}, {rcId: {145697}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

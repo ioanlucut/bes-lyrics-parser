@@ -1,5 +1,5 @@
 [title]
-Alearga doi parinti in noapte {author: {Puiu Chibici}, {rcId: {151336}}
+Alearga doi parinti in noapte {composer: {Puiu Chibici}, {rcId: {151336}}
 
 [sequence]
 v1,v2,v3

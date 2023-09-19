@@ -1,5 +1,5 @@
 [title]
-Da stiu ti-e greu {author: {Tabita Prială}, {rcId: {240309}}
+Da stiu ti-e greu {composer: {Tabita Prială}, {rcId: {240309}}
 
 [sequence]
 v1,v2,v3,v4

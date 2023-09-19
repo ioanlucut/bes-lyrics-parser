@@ -1,5 +1,5 @@
 [title]
-Domnul va binecuvinteze (vers veche) {author: {Anonim}, {rcId: {234744}}
+Domnul va binecuvinteze (vers veche) {composer: {Anonim}, {rcId: {234744}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Sa nu pot {author: {Nicolae Moldoveanu}, {rcId: {5296}}
+Sa nu pot {composer: {Nicolae Moldoveanu}, {rcId: {5296}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

@@ -1,5 +1,5 @@
 [title]
-Al sau sange de pe golgota (the blood that stained the old rugged cross) {author: {Albert E. Brumley, Traducere RO}, {rcId: {227340}}
+Al sau sange de pe golgota (the blood that stained the old rugged cross) {composer: {Albert E. Brumley, Traducere RO}, {rcId: {227340}}
 
 [sequence]
 v1,c,v2,c,v3,c

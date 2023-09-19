@@ -1,5 +1,5 @@
 [title]
-Mi-e dor de glasul tau {author: {Narcisa}, {rcId: {4599}}
+Mi-e dor de glasul tau {composer: {Narcisa}, {rcId: {4599}}
 
 [sequence]
 v1,c,v2,c

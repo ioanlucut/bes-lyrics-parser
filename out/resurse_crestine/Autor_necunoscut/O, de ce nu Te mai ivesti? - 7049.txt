@@ -1,5 +1,5 @@
 [title]
-O de ce nu te mai ivesti? {author: {Anonim}, {rcId: {7049}}
+O de ce nu te mai ivesti? {composer: {Anonim}, {rcId: {7049}}
 
 [sequence]
 v1,v2,v3,v4,v5

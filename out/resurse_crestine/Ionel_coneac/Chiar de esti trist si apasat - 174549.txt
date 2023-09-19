@@ -1,5 +1,5 @@
 [title]
-Chiar de esti trist si apasat {author: {Ionel Coneac}, {rcId: {174549}}
+Chiar de esti trist si apasat {composer: {Ionel Coneac}, {rcId: {174549}}
 
 [sequence]
 v1,v2,v3,v4

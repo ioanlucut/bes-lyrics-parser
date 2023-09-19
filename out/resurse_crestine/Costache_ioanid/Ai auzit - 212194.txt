@@ -1,5 +1,5 @@
 [title]
-Ai auzit {author: {Costache Ioanid}, {rcId: {212194}}
+Ai auzit {composer: {Costache Ioanid}, {rcId: {212194}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

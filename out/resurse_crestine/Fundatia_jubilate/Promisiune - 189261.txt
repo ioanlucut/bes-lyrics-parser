@@ -1,5 +1,5 @@
 [title]
-Promisiune {author: {Fundatia Jubilate}, {rcId: {189261}}
+Promisiune {composer: {Fundatia Jubilate}, {rcId: {189261}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Intinde-ti mana doamne {author: {Gabi_Ilut}, {rcId: {238880}}
+Intinde-ti mana doamne {composer: {Gabi_Ilut}, {rcId: {238880}}
 
 [sequence]
 v1,c,v2,c,v3,c

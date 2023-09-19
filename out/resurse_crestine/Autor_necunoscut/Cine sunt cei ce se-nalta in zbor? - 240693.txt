@@ -1,5 +1,5 @@
 [title]
-Cine sunt cei ce se-nalta in zbor? {author: {Anonim}, {rcId: {240693}}
+Cine sunt cei ce se-nalta in zbor? {composer: {Anonim}, {rcId: {240693}}
 
 [sequence]
 v1,c,v2,c,v3,c

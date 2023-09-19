@@ -1,5 +1,5 @@
 [title]
-O doamne mare cand privesc eu lumea {author: {Carl Boberg, jean Staneschi}, {rcId: {1630}}
+O doamne mare cand privesc eu lumea {composer: {Carl Boberg, jean Staneschi}, {rcId: {1630}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c

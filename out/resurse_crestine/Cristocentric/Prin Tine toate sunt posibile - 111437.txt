@@ -1,5 +1,5 @@
 [title]
-Prin tine toate sunt posibile {author: {CristoCentric}, {rcId: {111437}}
+Prin tine toate sunt posibile {composer: {CristoCentric}, {rcId: {111437}}
 
 [sequence]
 v1,c,c,v2,c

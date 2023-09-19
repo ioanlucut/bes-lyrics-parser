@@ -1,5 +1,5 @@
 [title]
-Sa te asculte domnu-n ziua de-ncercare {author: {Dionisie Giuchici}, {rcId: {4543}}
+Sa te asculte domnu-n ziua de-ncercare {composer: {Dionisie Giuchici}, {rcId: {4543}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Inima ta {author: {Vitamina C}, {rcId: {2806}}
+Inima ta {composer: {Vitamina C}, {rcId: {2806}}
 
 [sequence]
 v1,c

@@ -1,5 +1,5 @@
 [title]
-Ai mila {author: {Dan Damian}, {rcId: {238948}}
+Ai mila {composer: {Dan Damian}, {rcId: {238948}}
 
 [sequence]
 v1,c,v2,c,v3,c

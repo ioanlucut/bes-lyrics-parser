@@ -1,5 +1,5 @@
 [title]
-Frati ostasi rasuna iara {author: {Anonim}, {rcId: {103982}}
+Frati ostasi rasuna iara {composer: {Anonim}, {rcId: {103982}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

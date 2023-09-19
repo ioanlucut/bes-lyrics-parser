@@ -1,5 +1,5 @@
 [title]
-Inima mea inima mea {author: {Anonim}, {rcId: {1663}}
+Inima mea inima mea {composer: {Anonim}, {rcId: {1663}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

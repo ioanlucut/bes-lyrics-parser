@@ -1,5 +1,5 @@
 [title]
-Ce ma inveti tu soare {author: {Nicolae Moldoveanu}, {rcId: {246212}}
+Ce ma inveti tu soare {composer: {Nicolae Moldoveanu}, {rcId: {246212}}
 
 [sequence]
 v1,c,c2

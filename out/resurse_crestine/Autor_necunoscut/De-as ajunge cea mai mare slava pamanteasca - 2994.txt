@@ -1,5 +1,5 @@
 [title]
-De-as ajunge cea mai mare slava pamanteasca {author: {Anonim}, {rcId: {2994}}
+De-as ajunge cea mai mare slava pamanteasca {composer: {Anonim}, {rcId: {2994}}
 
 [sequence]
 v1,v2,v3,v4,v5

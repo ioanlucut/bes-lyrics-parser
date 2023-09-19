@@ -1,5 +1,5 @@
 [title]
-Doamne indruma-mi pasii {author: {Otto Pascal}, {rcId: {193757}}
+Doamne indruma-mi pasii {composer: {Otto Pascal}, {rcId: {193757}}
 
 [sequence]
 v1,b,c,v2,c

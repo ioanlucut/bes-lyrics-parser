@@ -1,5 +1,5 @@
 [title]
-Ne-ai fost doamne ajutor {author: {Puiu Chibici}, {rcId: {195799}}
+Ne-ai fost doamne ajutor {composer: {Puiu Chibici}, {rcId: {195799}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Revarsa dragostea {author: {Iosif Martin}, {rcId: {137623}}
+Revarsa dragostea {composer: {Iosif Martin}, {rcId: {137623}}
 
 [sequence]
 v1,c,v2,c

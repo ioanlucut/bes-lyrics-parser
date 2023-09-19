@@ -1,5 +1,5 @@
 [title]
-Cum doreste un cerb izvorul (unde esti?) - messis {author: {Dan Muncaciu}, {rcId: {201852}}
+Cum doreste un cerb izvorul (unde esti?) - messis {composer: {Dan Muncaciu}, {rcId: {201852}}
 
 [sequence]
 v1,c,v2,c,c

@@ -1,5 +1,5 @@
 [title]
-Romania timpul tau este aproape {author: {Anonim}, {rcId: {2770}}
+Romania timpul tau este aproape {composer: {Anonim}, {rcId: {2770}}
 
 [sequence]
 v1,c

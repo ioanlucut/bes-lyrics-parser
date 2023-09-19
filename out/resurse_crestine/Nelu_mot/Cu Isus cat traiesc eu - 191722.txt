@@ -1,5 +1,5 @@
 [title]
-Cu isus cat traiesc eu {author: {Nelu Mot}, {rcId: {191722}}
+Cu isus cat traiesc eu {composer: {Nelu Mot}, {rcId: {191722}}
 
 [sequence]
 v1,v2,v3

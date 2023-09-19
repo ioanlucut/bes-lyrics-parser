@@ -1,5 +1,5 @@
 [title]
-Vad in zare curcubeul {author: {Avalon, Traducere RO}, {rcId: {61331}}
+Vad in zare curcubeul {composer: {Avalon, Traducere RO}, {rcId: {61331}}
 
 [sequence]
 v1,c,v2,c,v3,c

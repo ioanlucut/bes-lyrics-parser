@@ -1,5 +1,5 @@
 [title]
-Cat de minunat doamne m-ai creat {author: {Anonim}, {rcId: {808}}
+Cat de minunat doamne m-ai creat {composer: {Anonim}, {rcId: {808}}
 
 [sequence]
 c,v1,c2,v2,c3

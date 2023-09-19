@@ -1,5 +1,5 @@
 [title]
-Pasesc prin credinta {author: {Anonim}, {rcId: {76196}}
+Pasesc prin credinta {composer: {Anonim}, {rcId: {76196}}
 
 [sequence]
 v1,v2,v3,v4,v5

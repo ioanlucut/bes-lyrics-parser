@@ -1,5 +1,5 @@
 [title]
-De pe munte {author: {Gheorghe Zoltan}, {rcId: {78795}}
+De pe munte {composer: {Gheorghe Zoltan}, {rcId: {78795}}
 
 [sequence]
 v1,c,v2,c,v3,c2

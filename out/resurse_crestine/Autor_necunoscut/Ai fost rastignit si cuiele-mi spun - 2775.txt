@@ -1,5 +1,5 @@
 [title]
-Ai fost rastignit si cuiele-mi spun {author: {Anonim}, {rcId: {2775}}
+Ai fost rastignit si cuiele-mi spun {composer: {Anonim}, {rcId: {2775}}
 
 [sequence]
 v1,c

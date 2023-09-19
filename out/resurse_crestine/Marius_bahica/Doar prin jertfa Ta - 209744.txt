@@ -1,5 +1,5 @@
 [title]
-Doar prin jertfa ta {author: {Marius Bahica}, {rcId: {209744}}
+Doar prin jertfa ta {composer: {Marius Bahica}, {rcId: {209744}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Domnul va lupta pentru noi {author: {Gabi_Ilut}, {rcId: {241247}}
+Domnul va lupta pentru noi {composer: {Gabi_Ilut}, {rcId: {241247}}
 
 [sequence]
 v1,c,v2,c,v3,c

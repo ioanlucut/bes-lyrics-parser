@@ -1,5 +1,5 @@
 [title]
-Un nume mai presus de toate {author: {Iovan Miclea}, {rcId: {208668}}
+Un nume mai presus de toate {composer: {Iovan Miclea}, {rcId: {208668}}
 
 [sequence]
 v1,c,v2,c,v3,c

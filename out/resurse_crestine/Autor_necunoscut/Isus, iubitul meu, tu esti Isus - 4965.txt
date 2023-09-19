@@ -1,5 +1,5 @@
 [title]
-Isus iubitul meu tu esti isus {author: {Anonim}, {rcId: {4965}}
+Isus iubitul meu tu esti isus {composer: {Anonim}, {rcId: {4965}}
 
 [sequence]
 v1,v2

@@ -1,5 +1,5 @@
 [title]
-Nu-i singur iuda vinovat {author: {Anonim}, {rcId: {188448}}
+Nu-i singur iuda vinovat {composer: {Anonim}, {rcId: {188448}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

@@ -1,5 +1,5 @@
 [title]
-Doar un nume sfant {author: {Samuel Bratu}, {rcId: {203125}}
+Doar un nume sfant {composer: {Samuel Bratu}, {rcId: {203125}}
 
 [sequence]
 v1,c,v2,c

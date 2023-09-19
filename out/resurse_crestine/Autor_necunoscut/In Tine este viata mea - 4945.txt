@@ -1,5 +1,5 @@
 [title]
-In tine este viata mea {author: {Anonim}, {rcId: {4945}}
+In tine este viata mea {composer: {Anonim}, {rcId: {4945}}
 
 [sequence]
 c,v1,c

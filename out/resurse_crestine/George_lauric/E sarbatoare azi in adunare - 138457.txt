@@ -1,5 +1,5 @@
 [title]
-E sarbatoare azi in adunare {author: {George Lauric}, {rcId: {138457}}
+E sarbatoare azi in adunare {composer: {George Lauric}, {rcId: {138457}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

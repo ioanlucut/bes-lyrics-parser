@@ -1,5 +1,5 @@
 [title]
-Fiu ratacitor in lume {author: {Rugul aprins}, {rcId: {159082}}
+Fiu ratacitor in lume {composer: {Rugul aprins}, {rcId: {159082}}
 
 [sequence]
 v1,c,v2,c,v3,c

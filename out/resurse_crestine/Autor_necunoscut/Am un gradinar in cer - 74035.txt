@@ -1,5 +1,5 @@
 [title]
-Am un gradinar in cer {author: {Anonim}, {rcId: {74035}}
+Am un gradinar in cer {composer: {Anonim}, {rcId: {74035}}
 
 [sequence]
 v1,c,v2,c,v3,c

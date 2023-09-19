@@ -1,5 +1,5 @@
 [title]
-Juramant si legamant {author: {Anonim}, {rcId: {7213}}
+Juramant si legamant {composer: {Anonim}, {rcId: {7213}}
 
 [sequence]
 v1,c,v2,c,v3,c

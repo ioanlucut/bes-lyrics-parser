@@ -1,5 +1,5 @@
 [title]
-Nu numai sa vorbesc de tine isuse si de-al tau cuvant {author: {Nicolae Moldoveanu}, {rcId: {186262}}
+Nu numai sa vorbesc de tine isuse si de-al tau cuvant {composer: {Nicolae Moldoveanu}, {rcId: {186262}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c

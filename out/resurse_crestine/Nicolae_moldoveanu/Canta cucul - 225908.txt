@@ -1,5 +1,5 @@
 [title]
-Canta cucul {author: {Nicolae Moldoveanu}, {rcId: {225908}}
+Canta cucul {composer: {Nicolae Moldoveanu}, {rcId: {225908}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Din cerul sfant maret si luminos {author: {Nicolae Moldoveanu}, {rcId: {186261}}
+Din cerul sfant maret si luminos {composer: {Nicolae Moldoveanu}, {rcId: {186261}}
 
 [sequence]
 v1,v2,v3

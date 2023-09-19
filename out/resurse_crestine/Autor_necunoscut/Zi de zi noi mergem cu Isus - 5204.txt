@@ -1,5 +1,5 @@
 [title]
-Zi de zi noi mergem cu isus {author: {Anonim}, {rcId: {5204}}
+Zi de zi noi mergem cu isus {composer: {Anonim}, {rcId: {5204}}
 
 [sequence]
 c,c,v1,c,e

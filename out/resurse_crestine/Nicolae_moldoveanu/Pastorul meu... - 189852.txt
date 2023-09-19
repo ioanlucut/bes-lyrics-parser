@@ -1,5 +1,5 @@
 [title]
-Pastorul meu {author: {Nicolae Moldoveanu}, {rcId: {189852}}
+Pastorul meu {composer: {Nicolae Moldoveanu}, {rcId: {189852}}
 
 [sequence]
 v1,v2,v3,v4

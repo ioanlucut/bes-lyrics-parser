@@ -1,5 +1,5 @@
 [title]
-Iubirea el domnul s-o toarne in voi {author: {Marta Bergheaua}, {rcId: {180467}}
+Iubirea el domnul s-o toarne in voi {composer: {Marta Bergheaua}, {rcId: {180467}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

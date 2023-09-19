@@ -1,5 +1,5 @@
 [title]
-Cauta-ma {author: {Anonim}, {rcId: {5212}}
+Cauta-ma {composer: {Anonim}, {rcId: {5212}}
 
 [sequence]
 v1,v2,v3

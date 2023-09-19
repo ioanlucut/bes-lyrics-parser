@@ -1,5 +1,5 @@
 [title]
-Dupa ani de zile de chin si durere {author: {Ionel Saran}, {rcId: {128270}}
+Dupa ani de zile de chin si durere {composer: {Ionel Saran}, {rcId: {128270}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

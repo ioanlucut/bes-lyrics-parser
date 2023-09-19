@@ -1,5 +1,5 @@
 [title]
-Larma mare {author: {Nicolae Moldoveanu}, {rcId: {232471}}
+Larma mare {composer: {Nicolae Moldoveanu}, {rcId: {232471}}
 
 [sequence]
 v1,v2,v3,v4,v5

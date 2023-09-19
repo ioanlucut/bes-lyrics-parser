@@ -1,5 +1,5 @@
 [title]
-S-a nscut isus {author: {Text: Fivii Furnea, Muzica: Adrian Toader}, {rcId: {199275}}
+S-a nscut isus {composer: {Text: Fivii Furnea, Muzica: Adrian Toader}, {rcId: {199275}}
 
 [sequence]
 v1,v2,v3,v4

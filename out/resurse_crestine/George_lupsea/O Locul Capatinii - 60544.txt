@@ -1,5 +1,5 @@
 [title]
-O locul capatinii {author: {George Lupsea}, {rcId: {60544}}
+O locul capatinii {composer: {George Lupsea}, {rcId: {60544}}
 
 [sequence]
 v1,c,v2,c,v3,c3,v4,c4

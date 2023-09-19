@@ -1,5 +1,5 @@
 [title]
-De ne oprim {author: {Speranța}, {rcId: {111408}}
+De ne oprim {composer: {Speranța}, {rcId: {111408}}
 
 [sequence]
 v1,c,v2,c2,e

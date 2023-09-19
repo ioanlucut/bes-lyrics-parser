@@ -1,5 +1,5 @@
 [title]
-Cine crede azi in isus {author: {Necunoscut}, {rcId: {236176}}
+Cine crede azi in isus {composer: {Necunoscut}, {rcId: {236176}}
 
 [sequence]
 v1,c,v2,c,v3,c

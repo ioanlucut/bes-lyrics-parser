@@ -1,5 +1,5 @@
 [title]
-Ridica-ma doamne pe stanca {author: {Familia Stoica}, {rcId: {162019}}
+Ridica-ma doamne pe stanca {composer: {Familia Stoica}, {rcId: {162019}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

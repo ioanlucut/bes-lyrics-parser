@@ -1,5 +1,5 @@
 [title]
-Calator ce ai pornit spre cer {author: {Anonim}, {rcId: {169501}}
+Calator ce ai pornit spre cer {composer: {Anonim}, {rcId: {169501}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

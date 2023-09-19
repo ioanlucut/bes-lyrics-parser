@@ -1,5 +1,5 @@
 [title]
-Asa cum sunt - just as i am - do maj {author: {ed. Dan Istrate}, {rcId: {187314}}
+Asa cum sunt - just as i am - do maj {composer: {ed. Dan Istrate}, {rcId: {187314}}
 
 [sequence]
 v1,v2,v3,v4

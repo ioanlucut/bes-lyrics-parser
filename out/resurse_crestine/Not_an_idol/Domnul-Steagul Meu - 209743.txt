@@ -1,5 +1,5 @@
 [title]
-Domnul-steagul meu {author: {Not an idol}, {rcId: {209743}}
+Domnul-steagul meu {composer: {Not an idol}, {rcId: {209743}}
 
 [sequence]
 v1,c,c2,v2,c,c2

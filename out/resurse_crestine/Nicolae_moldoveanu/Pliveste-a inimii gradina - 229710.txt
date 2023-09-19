@@ -1,5 +1,5 @@
 [title]
-Pliveste-a inimii gradina {author: {Nicolae Moldoveanu}, {rcId: {229710}}
+Pliveste-a inimii gradina {composer: {Nicolae Moldoveanu}, {rcId: {229710}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

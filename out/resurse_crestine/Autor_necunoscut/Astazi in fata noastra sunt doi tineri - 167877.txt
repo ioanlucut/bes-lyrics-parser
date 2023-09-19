@@ -1,5 +1,5 @@
 [title]
-Astazi in fata noastra sunt doi tineri {author: {Anonim}, {rcId: {167877}}
+Astazi in fata noastra sunt doi tineri {composer: {Anonim}, {rcId: {167877}}
 
 [sequence]
 v1,c,v2,c2

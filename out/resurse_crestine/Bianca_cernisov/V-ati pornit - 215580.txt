@@ -1,5 +1,5 @@
 [title]
-V-ati pornit {author: {Bianca Cernisov}, {rcId: {215580}}
+V-ati pornit {composer: {Bianca Cernisov}, {rcId: {215580}}
 
 [sequence]
 v1,c,v2,c,v3,c2

@@ -1,5 +1,5 @@
 [title]
-Cant lui isus ca mi-a facut bine {author: {Anonim}, {rcId: {74283}}
+Cant lui isus ca mi-a facut bine {composer: {Anonim}, {rcId: {74283}}
 
 [sequence]
 v1,c,v2,c,v3,c

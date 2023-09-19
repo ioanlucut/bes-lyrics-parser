@@ -1,5 +1,5 @@
 [title]
-Azi vocea ta-n gradina {author: {Ovidiu Berghian}, {rcId: {241172}}
+Azi vocea ta-n gradina {composer: {Ovidiu Berghian}, {rcId: {241172}}
 
 [sequence]
 v1,c,v2,c,e

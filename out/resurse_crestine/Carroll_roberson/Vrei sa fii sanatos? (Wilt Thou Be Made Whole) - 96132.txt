@@ -1,5 +1,5 @@
 [title]
-Vrei sa fii sanatos? (wilt thou be made whole) {author: {Carroll Roberson, Traducere RO}, {rcId: {96132}}
+Vrei sa fii sanatos? (wilt thou be made whole) {composer: {Carroll Roberson, Traducere RO}, {rcId: {96132}}
 
 [sequence]
 v1,c,v2,c,s,c

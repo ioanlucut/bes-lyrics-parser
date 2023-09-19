@@ -1,5 +1,5 @@
 [title]
-Sa binecuvinteze {author: {Nicolae Moldoveanu}, {rcId: {244570}}
+Sa binecuvinteze {composer: {Nicolae Moldoveanu}, {rcId: {244570}}
 
 [sequence]
 v1,v2,v3,v4,v5

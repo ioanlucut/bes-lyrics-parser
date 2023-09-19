@@ -1,5 +1,5 @@
 [title]
-Lumea vrea sa-ti fure adevaratele valori {author: {Speranța}, {rcId: {233763}}
+Lumea vrea sa-ti fure adevaratele valori {composer: {Speranța}, {rcId: {233763}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

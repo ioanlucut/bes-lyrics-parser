@@ -1,5 +1,5 @@
 [title]
-Sunt strajerul care striga {author: {Anonim}, {rcId: {74496}}
+Sunt strajerul care striga {composer: {Anonim}, {rcId: {74496}}
 
 [sequence]
 v1,c,v2,c

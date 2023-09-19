@@ -1,5 +1,5 @@
 [title]
-Bucuria invierii e pentru cei mantuiti {author: {Anonim}, {rcId: {75139}}
+Bucuria invierii e pentru cei mantuiti {composer: {Anonim}, {rcId: {75139}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

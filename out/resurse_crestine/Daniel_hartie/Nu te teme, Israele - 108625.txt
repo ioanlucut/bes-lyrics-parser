@@ -1,5 +1,5 @@
 [title]
-Nu te teme israele {author: {Daniel Hartie}, {rcId: {108625}}
+Nu te teme israele {composer: {Daniel Hartie}, {rcId: {108625}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Traim in asta lume {author: {Grup Alfa}, {rcId: {145350}}
+Traim in asta lume {composer: {Grup Alfa}, {rcId: {145350}}
 
 [sequence]
 v1,c,v2,c,v3,c

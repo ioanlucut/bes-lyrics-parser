@@ -1,5 +1,5 @@
 [title]
-A inviat {author: {grup ava}, {rcId: {7065}}
+A inviat {composer: {grup ava}, {rcId: {7065}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

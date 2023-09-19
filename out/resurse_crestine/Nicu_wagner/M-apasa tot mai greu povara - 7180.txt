@@ -1,5 +1,5 @@
 [title]
-M-apasa tot mai greu povara {author: {Nicu Wagner}, {rcId: {7180}}
+M-apasa tot mai greu povara {composer: {Nicu Wagner}, {rcId: {7180}}
 
 [sequence]
 v1,c,v2,c,v3,c2

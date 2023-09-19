@@ -1,5 +1,5 @@
 [title]
-Esti cel mai frumos {author: {Lidia Cârlan și Puiu Chibici}, {rcId: {7378}}
+Esti cel mai frumos {composer: {Lidia Cârlan și Puiu Chibici}, {rcId: {7378}}
 
 [sequence]
 v1,c,v2,c,v3,c

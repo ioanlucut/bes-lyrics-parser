@@ -1,5 +1,5 @@
 [title]
-Tu mi-ai fost si-mi esti tarie {author: {Șchiop Dragoș}, {rcId: {168905}}
+Tu mi-ai fost si-mi esti tarie {composer: {Șchiop Dragoș}, {rcId: {168905}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

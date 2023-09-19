@@ -1,5 +1,5 @@
 [title]
-Credinta e un drum pe ape {author: {Irina Halaida}, {rcId: {60928}}
+Credinta e un drum pe ape {composer: {Irina Halaida}, {rcId: {60928}}
 
 [sequence]
 v1,v2,c

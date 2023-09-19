@@ -1,5 +1,5 @@
 [title]
-Exista-n lume un abis {author: {Anonim}, {rcId: {4928}}
+Exista-n lume un abis {composer: {Anonim}, {rcId: {4928}}
 
 [sequence]
 v1,v2,v3

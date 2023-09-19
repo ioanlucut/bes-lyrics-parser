@@ -1,5 +1,5 @@
 [title]
-Rataceam in lumea larga de pacat {author: {Irina Radiș}, {rcId: {155858}}
+Rataceam in lumea larga de pacat {composer: {Irina Radiș}, {rcId: {155858}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Imi plang amarul dar nu disper {author: {Nicolae Moldoveanu}, {rcId: {5675}}
+Imi plang amarul dar nu disper {composer: {Nicolae Moldoveanu}, {rcId: {5675}}
 
 [sequence]
 v1,v2,v3

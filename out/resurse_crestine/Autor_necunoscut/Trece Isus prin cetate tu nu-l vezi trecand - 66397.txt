@@ -1,5 +1,5 @@
 [title]
-Trece isus prin cetate tu nu-l vezi trecand {author: {Anonim}, {rcId: {66397}}
+Trece isus prin cetate tu nu-l vezi trecand {composer: {Anonim}, {rcId: {66397}}
 
 [sequence]
 v1,v2,v3,v4,v5

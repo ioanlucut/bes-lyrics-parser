@@ -1,5 +1,5 @@
 [title]
-Pain and grief {author: {Unknown author}, {rcId: {4391}}
+Pain and grief {composer: {Unknown author}, {rcId: {4391}}
 
 [sequence]
 v1,c,v2,c

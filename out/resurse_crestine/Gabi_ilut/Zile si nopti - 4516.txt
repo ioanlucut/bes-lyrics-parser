@@ -1,5 +1,5 @@
 [title]
-Zile si nopti {author: {Gabi Ilut}, {rcId: {4516}}
+Zile si nopti {composer: {Gabi Ilut}, {rcId: {4516}}
 
 [sequence]
 v1,c,v2,c

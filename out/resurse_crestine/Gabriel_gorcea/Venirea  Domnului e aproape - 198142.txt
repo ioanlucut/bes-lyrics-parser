@@ -1,5 +1,5 @@
 [title]
-Venirea domnului e aproape {author: {Gabriel Gorcea}, {rcId: {198142}}
+Venirea domnului e aproape {composer: {Gabriel Gorcea}, {rcId: {198142}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

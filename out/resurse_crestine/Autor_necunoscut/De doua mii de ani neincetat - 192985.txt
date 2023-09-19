@@ -1,5 +1,5 @@
 [title]
-De doua mii de ani neincetat {author: {Anonim}, {rcId: {192985}}
+De doua mii de ani neincetat {composer: {Anonim}, {rcId: {192985}}
 
 [sequence]
 v1,c,v2,c,v3,c

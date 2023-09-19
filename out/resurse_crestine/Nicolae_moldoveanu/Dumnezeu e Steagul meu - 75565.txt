@@ -1,5 +1,5 @@
 [title]
-Dumnezeu e steagul meu {author: {Nicolae Moldoveanu}, {rcId: {75565}}
+Dumnezeu e steagul meu {composer: {Nicolae Moldoveanu}, {rcId: {75565}}
 
 [sequence]
 v1,v2,v3,v4

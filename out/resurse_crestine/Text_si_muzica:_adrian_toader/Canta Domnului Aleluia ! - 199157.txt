@@ -1,5 +1,5 @@
 [title]
-Canta domnului aleluia {author: {Text și muzică: Adrian Toader}, {rcId: {199157}}
+Canta domnului aleluia {composer: {Text și muzică: Adrian Toader}, {rcId: {199157}}
 
 [sequence]
 v1,c,v2,c

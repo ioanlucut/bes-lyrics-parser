@@ -1,5 +1,5 @@
 [title]
-Ca un val in ocean {author: {Rahela Goagără}, {rcId: {152077}}
+Ca un val in ocean {composer: {Rahela Goagără}, {rcId: {152077}}
 
 [sequence]
 v1,c,v2,c,e

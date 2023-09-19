@@ -1,5 +1,5 @@
 [title]
-Isuse te iubesc mai mult {author: {Ralph E. Hudson}, {rcId: {1693}}
+Isuse te iubesc mai mult {composer: {Ralph E. Hudson}, {rcId: {1693}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

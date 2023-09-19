@@ -1,5 +1,5 @@
 [title]
-Stanca mea e cristos {author: {Anonim}, {rcId: {194232}}
+Stanca mea e cristos {composer: {Anonim}, {rcId: {194232}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c

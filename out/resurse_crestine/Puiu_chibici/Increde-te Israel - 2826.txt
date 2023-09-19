@@ -1,5 +1,5 @@
 [title]
-Increde-te israel {author: {Puiu Chibici}, {rcId: {2826}}
+Increde-te israel {composer: {Puiu Chibici}, {rcId: {2826}}
 
 [sequence]
 v1,v2,v3,v4,v5

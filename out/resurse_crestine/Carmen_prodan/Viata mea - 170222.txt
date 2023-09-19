@@ -1,5 +1,5 @@
 [title]
-Viata mea {author: {Carmen Prodan}, {rcId: {170222}}
+Viata mea {composer: {Carmen Prodan}, {rcId: {170222}}
 
 [sequence]
 v1,c,v2,c,v3,c

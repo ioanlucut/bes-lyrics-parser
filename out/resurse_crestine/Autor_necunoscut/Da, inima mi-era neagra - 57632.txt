@@ -1,5 +1,5 @@
 [title]
-Da inima mi-era neagra {author: {Anonim}, {rcId: {57632}}
+Da inima mi-era neagra {composer: {Anonim}, {rcId: {57632}}
 
 [sequence]
 v1,c

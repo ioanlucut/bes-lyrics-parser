@@ -1,5 +1,5 @@
 [title]
-El e mai dulce {author: {Speranța}, {rcId: {6855}}
+El e mai dulce {composer: {Speranța}, {rcId: {6855}}
 
 [sequence]
 v1,c,e

@@ -1,5 +1,5 @@
 [title]
-Cata ingrijorare si tristete {author: {Anonim}, {rcId: {182281}}
+Cata ingrijorare si tristete {composer: {Anonim}, {rcId: {182281}}
 
 [sequence]
 v1,c,v2,c,v3,c

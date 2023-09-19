@@ -1,5 +1,5 @@
 [title]
-Buna sara {author: {Speranța și prietenii}, {rcId: {100958}}
+Buna sara {composer: {Speranța și prietenii}, {rcId: {100958}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

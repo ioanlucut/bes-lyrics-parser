@@ -1,5 +1,5 @@
 [title]
-Aleluia {author: {Speranța}, {rcId: {111356}}
+Aleluia {composer: {Speranța}, {rcId: {111356}}
 
 [sequence]
 c,c,v1,c,e

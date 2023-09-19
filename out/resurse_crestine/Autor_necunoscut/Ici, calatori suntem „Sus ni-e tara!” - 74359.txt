@@ -1,5 +1,5 @@
 [title]
-Ici calatori suntem "sus ni-e tara" {author: {Anonim}, {rcId: {74359}}
+Ici calatori suntem "sus ni-e tara" {composer: {Anonim}, {rcId: {74359}}
 
 [sequence]
 v1,v2,v3

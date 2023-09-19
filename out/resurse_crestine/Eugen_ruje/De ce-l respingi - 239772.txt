@@ -1,5 +1,5 @@
 [title]
-De ce-l respingi {author: {Eugen Ruje}, {rcId: {239772}}
+De ce-l respingi {composer: {Eugen Ruje}, {rcId: {239772}}
 
 [sequence]
 v1,c,v2,c

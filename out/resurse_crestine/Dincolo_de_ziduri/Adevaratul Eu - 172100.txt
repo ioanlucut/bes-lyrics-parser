@@ -1,5 +1,5 @@
 [title]
-Adevaratul eu {author: {Dincolo De Ziduri}, {rcId: {172100}}
+Adevaratul eu {composer: {Dincolo De Ziduri}, {rcId: {172100}}
 
 [sequence]
 v1,s,c,v2,c,s,c,c2,e

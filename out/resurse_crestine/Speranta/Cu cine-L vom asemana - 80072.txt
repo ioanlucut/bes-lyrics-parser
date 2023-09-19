@@ -1,5 +1,5 @@
 [title]
-Cu cine-l vom asemana {author: {Speranța}, {rcId: {80072}}
+Cu cine-l vom asemana {composer: {Speranța}, {rcId: {80072}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

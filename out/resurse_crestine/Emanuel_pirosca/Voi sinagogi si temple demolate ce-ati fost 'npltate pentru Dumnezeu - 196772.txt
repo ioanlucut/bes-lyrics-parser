@@ -1,5 +1,5 @@
 [title]
-Voi sinagogi si temple demolate ce-ati fost npltate pentru dumnezeu {author: {Emanuel Piroșcă}, {rcId: {196772}}
+Voi sinagogi si temple demolate ce-ati fost npltate pentru dumnezeu {composer: {Emanuel Piroșcă}, {rcId: {196772}}
 
 [sequence]
 v1,v2,v3,v4

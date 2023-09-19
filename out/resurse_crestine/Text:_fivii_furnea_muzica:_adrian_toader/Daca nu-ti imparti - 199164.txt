@@ -1,5 +1,5 @@
 [title]
-Daca nu-ti imparti {author: {Text: Fivii Furnea, Muzica: Adrian Toader}, {rcId: {199164}}
+Daca nu-ti imparti {composer: {Text: Fivii Furnea, Muzica: Adrian Toader}, {rcId: {199164}}
 
 [sequence]
 v1,v2,v3,v4,v5

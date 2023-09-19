@@ -1,5 +1,5 @@
 [title]
-O inima curata doamne {author: {Anonim}, {rcId: {220665}}
+O inima curata doamne {composer: {Anonim}, {rcId: {220665}}
 
 [sequence]
 v1,c

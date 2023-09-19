@@ -1,5 +1,5 @@
 [title]
-Ce este viata fara el? {author: {Eldad}, {rcId: {197729}}
+Ce este viata fara el? {composer: {Eldad}, {rcId: {197729}}
 
 [sequence]
 v1,c

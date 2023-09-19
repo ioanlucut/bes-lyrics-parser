@@ -1,5 +1,5 @@
 [title]
-Te chem isus {author: {Denys Laurenciuc}, {rcId: {226645}}
+Te chem isus {composer: {Denys Laurenciuc}, {rcId: {226645}}
 
 [sequence]
 v1,c,v2,c,v3,c

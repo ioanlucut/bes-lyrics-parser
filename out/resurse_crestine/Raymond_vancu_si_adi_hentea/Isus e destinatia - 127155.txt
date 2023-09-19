@@ -1,5 +1,5 @@
 [title]
-Isus e destinatia {author: {Raymond Vancu și Adi Hentea}, {rcId: {127155}}
+Isus e destinatia {composer: {Raymond Vancu și Adi Hentea}, {rcId: {127155}}
 
 [sequence]
 v1,c,v2,c,e

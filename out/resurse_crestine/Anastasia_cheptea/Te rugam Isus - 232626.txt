@@ -1,5 +1,5 @@
 [title]
-Te rugam isus {author: {Anastasia Cheptea}, {rcId: {232626}}
+Te rugam isus {composer: {Anastasia Cheptea}, {rcId: {232626}}
 
 [sequence]
 v1,c,v2,c,e

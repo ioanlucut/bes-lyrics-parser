@@ -1,5 +1,5 @@
 [title]
-Numele tau fie doamne binecuvantat {author: {Anonim}, {rcId: {4032}}
+Numele tau fie doamne binecuvantat {composer: {Anonim}, {rcId: {4032}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

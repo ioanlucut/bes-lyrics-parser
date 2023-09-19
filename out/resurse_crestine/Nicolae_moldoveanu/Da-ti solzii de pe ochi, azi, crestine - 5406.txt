@@ -1,5 +1,5 @@
 [title]
-Da-ti solzii de pe ochi azi crestine {author: {Nicolae Moldoveanu}, {rcId: {5406}}
+Da-ti solzii de pe ochi azi crestine {composer: {Nicolae Moldoveanu}, {rcId: {5406}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

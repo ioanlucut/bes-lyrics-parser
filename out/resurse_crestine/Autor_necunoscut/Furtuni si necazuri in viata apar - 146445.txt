@@ -1,5 +1,5 @@
 [title]
-Furtuni si necazuri in viata apar {author: {Anonim}, {rcId: {146445}}
+Furtuni si necazuri in viata apar {composer: {Anonim}, {rcId: {146445}}
 
 [sequence]
 v1

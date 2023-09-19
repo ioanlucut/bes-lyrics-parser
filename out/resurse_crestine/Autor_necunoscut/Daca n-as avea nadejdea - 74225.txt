@@ -1,5 +1,5 @@
 [title]
-Daca n-as avea nadejdea {author: {Anonim}, {rcId: {74225}}
+Daca n-as avea nadejdea {composer: {Anonim}, {rcId: {74225}}
 
 [sequence]
 v1,v2,v3,v4

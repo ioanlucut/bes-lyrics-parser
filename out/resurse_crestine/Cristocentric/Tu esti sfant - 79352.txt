@@ -1,5 +1,5 @@
 [title]
-Tu esti sfant {author: {CristoCentric}, {rcId: {79352}}
+Tu esti sfant {composer: {CristoCentric}, {rcId: {79352}}
 
 [sequence]
 v1,c

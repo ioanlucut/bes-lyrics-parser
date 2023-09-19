@@ -1,5 +1,5 @@
 [title]
-Ploaia trezirii {author: {Cristos pentru Romania}, {rcId: {4483}}
+Ploaia trezirii {composer: {Cristos pentru Romania}, {rcId: {4483}}
 
 [sequence]
 v1,c,v2,c,e

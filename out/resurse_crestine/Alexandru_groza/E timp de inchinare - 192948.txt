@@ -1,5 +1,5 @@
 [title]
-E timp de inchinare {author: {Alexandru Groza}, {rcId: {192948}}
+E timp de inchinare {composer: {Alexandru Groza}, {rcId: {192948}}
 
 [sequence]
 v1,c,v2,c,v3,c

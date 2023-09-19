@@ -1,5 +1,5 @@
 [title]
-Din nou in calendar a mai ramas o fila {author: {Dan Damian}, {rcId: {195035}}
+Din nou in calendar a mai ramas o fila {composer: {Dan Damian}, {rcId: {195035}}
 
 [sequence]
 v1,v2,v3,v4

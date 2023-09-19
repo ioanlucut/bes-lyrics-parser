@@ -1,5 +1,5 @@
 [title]
-Intregul soare joaca-n stropi de roua {author: {Vasile Moisescu}, {rcId: {74373}}
+Intregul soare joaca-n stropi de roua {composer: {Vasile Moisescu}, {rcId: {74373}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c2,v7,c2

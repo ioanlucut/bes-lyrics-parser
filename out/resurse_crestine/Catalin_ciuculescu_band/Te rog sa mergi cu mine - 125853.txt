@@ -1,5 +1,5 @@
 [title]
-Te rog sa mergi cu mine {author: {Cătălin Ciuculescu Band}, {rcId: {125853}}
+Te rog sa mergi cu mine {composer: {Cătălin Ciuculescu Band}, {rcId: {125853}}
 
 [sequence]
 v1,c,v2,c

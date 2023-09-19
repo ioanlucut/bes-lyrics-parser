@@ -1,5 +1,5 @@
 [title]
-Ati auzit cu toti buna vestire {author: {Anonim}, {rcId: {4398}}
+Ati auzit cu toti buna vestire {composer: {Anonim}, {rcId: {4398}}
 
 [sequence]
 v1,c,v2,c,v3,c

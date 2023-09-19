@@ -1,5 +1,5 @@
 [title]
-Ca si hristos {author: {Cătălin și Ramona Lup}, {rcId: {111577}}
+Ca si hristos {composer: {Cătălin și Ramona Lup}, {rcId: {111577}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

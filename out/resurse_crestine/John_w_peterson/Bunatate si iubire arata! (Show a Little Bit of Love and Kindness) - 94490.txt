@@ -1,5 +1,5 @@
 [title]
-Bunatate si iubire arata (show a little bit of love and kindness) {author: {John W. Peterson, Traducere RO}, {rcId: {94490}}
+Bunatate si iubire arata (show a little bit of love and kindness) {composer: {John W. Peterson, Traducere RO}, {rcId: {94490}}
 
 [sequence]
 v1,c,v2,c,v3,c,s,c

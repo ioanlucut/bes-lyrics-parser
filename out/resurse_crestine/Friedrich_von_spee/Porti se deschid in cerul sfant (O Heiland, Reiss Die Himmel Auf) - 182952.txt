@@ -1,5 +1,5 @@
 [title]
-Porti se deschid in cerul sfant (o heiland reiss die himmel auf) {author: {Friedrich von Spee, Traducere RO}, {rcId: {182952}}
+Porti se deschid in cerul sfant (o heiland reiss die himmel auf) {composer: {Friedrich von Spee, Traducere RO}, {rcId: {182952}}
 
 [sequence]
 v1,v2,v3,v4,s

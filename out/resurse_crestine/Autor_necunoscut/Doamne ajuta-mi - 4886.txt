@@ -1,5 +1,5 @@
 [title]
-Doamne ajuta-mi {author: {Anonim}, {rcId: {4886}}
+Doamne ajuta-mi {composer: {Anonim}, {rcId: {4886}}
 
 [sequence]
 v1

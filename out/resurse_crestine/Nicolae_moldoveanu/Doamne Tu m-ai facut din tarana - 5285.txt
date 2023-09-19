@@ -1,5 +1,5 @@
 [title]
-Doamne tu m-ai facut din tarana {author: {Nicolae Moldoveanu}, {rcId: {5285}}
+Doamne tu m-ai facut din tarana {composer: {Nicolae Moldoveanu}, {rcId: {5285}}
 
 [sequence]
 v1,v2,v3,v4

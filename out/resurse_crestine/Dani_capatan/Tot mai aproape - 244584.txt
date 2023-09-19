@@ -1,5 +1,5 @@
 [title]
-Tot mai aproape {author: {Dani Căpătan}, {rcId: {244584}}
+Tot mai aproape {composer: {Dani Căpătan}, {rcId: {244584}}
 
 [sequence]
 v1,c,v2,c,v3,c

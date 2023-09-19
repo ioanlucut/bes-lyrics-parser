@@ -1,5 +1,5 @@
 [title]
-Bun {author: {Beniamin Palincaș}, {rcId: {244543}}
+Bun {composer: {Beniamin Palincaș}, {rcId: {244543}}
 
 [sequence]
 v1,c,v2,c,e

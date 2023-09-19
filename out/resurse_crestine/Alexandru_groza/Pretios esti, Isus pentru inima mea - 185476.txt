@@ -1,5 +1,5 @@
 [title]
-Pretios esti isus pentru inima mea {author: {Alexandru Groza}, {rcId: {185476}}
+Pretios esti isus pentru inima mea {composer: {Alexandru Groza}, {rcId: {185476}}
 
 [sequence]
 v1,c,v2,c

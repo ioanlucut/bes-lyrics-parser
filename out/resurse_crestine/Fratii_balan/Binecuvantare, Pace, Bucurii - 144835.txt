@@ -1,5 +1,5 @@
 [title]
-Binecuvantare pace bucurii {author: {Frații Bălan}, {rcId: {144835}}
+Binecuvantare pace bucurii {composer: {Frații Bălan}, {rcId: {144835}}
 
 [sequence]
 c,v1,c2,v2,c2,v3,c

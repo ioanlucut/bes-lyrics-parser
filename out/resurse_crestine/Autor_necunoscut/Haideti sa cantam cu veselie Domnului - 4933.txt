@@ -1,5 +1,5 @@
 [title]
-Haideti sa cantam cu veselie domnului {author: {Anonim}, {rcId: {4933}}
+Haideti sa cantam cu veselie domnului {composer: {Anonim}, {rcId: {4933}}
 
 [sequence]
 v1,c,v2,c,v3,c

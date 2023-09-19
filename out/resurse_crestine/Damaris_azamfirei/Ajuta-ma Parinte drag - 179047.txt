@@ -1,5 +1,5 @@
 [title]
-Ajuta-ma parinte drag {author: {Damaris Azamfirei}, {rcId: {179047}}
+Ajuta-ma parinte drag {composer: {Damaris Azamfirei}, {rcId: {179047}}
 
 [sequence]
 v1,c,v2,c2

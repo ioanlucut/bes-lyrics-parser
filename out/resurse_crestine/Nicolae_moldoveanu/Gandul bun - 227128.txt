@@ -1,5 +1,5 @@
 [title]
-Gandul bun {author: {Nicolae Moldoveanu}, {rcId: {227128}}
+Gandul bun {composer: {Nicolae Moldoveanu}, {rcId: {227128}}
 
 [sequence]
 v1,v2,v3

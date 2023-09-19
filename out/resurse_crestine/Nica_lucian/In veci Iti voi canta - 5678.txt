@@ -1,5 +1,5 @@
 [title]
-In veci iti voi canta {author: {Nica Lucian}, {rcId: {5678}}
+In veci iti voi canta {composer: {Nica Lucian}, {rcId: {5678}}
 
 [sequence]
 v1,v2,v3,v4

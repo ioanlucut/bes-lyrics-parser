@@ -1,5 +1,5 @@
 [title]
-Tu san o del {author: {Romeo Stan}, {rcId: {55648}}
+Tu san o del {composer: {Romeo Stan}, {rcId: {55648}}
 
 [sequence]
 v1,c

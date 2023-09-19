@@ -1,5 +1,5 @@
 [title]
-Doamne esti bun si-ndurarea ta tine vesnic {author: {Anonim}, {rcId: {62689}}
+Doamne esti bun si-ndurarea ta tine vesnic {composer: {Anonim}, {rcId: {62689}}
 
 [sequence]
 v1,b,c,e

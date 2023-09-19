@@ -1,5 +1,5 @@
 [title]
-Na mangaua me {author: {Romeo Stan}, {rcId: {55617}}
+Na mangaua me {composer: {Romeo Stan}, {rcId: {55617}}
 
 [sequence]
 v1,c

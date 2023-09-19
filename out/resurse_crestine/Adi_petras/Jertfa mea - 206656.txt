@@ -1,5 +1,5 @@
 [title]
-Jertfa mea {author: {adi petras}, {rcId: {206656}}
+Jertfa mea {composer: {adi petras}, {rcId: {206656}}
 
 [sequence]
 v1

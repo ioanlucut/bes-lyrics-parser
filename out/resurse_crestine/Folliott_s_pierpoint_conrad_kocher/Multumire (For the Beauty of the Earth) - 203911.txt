@@ -1,5 +1,5 @@
 [title]
-Multumire (for the beauty of the earth) {author: {Folliott S. Pierpoint, Conrad Kocher, Traducere RO}, {rcId: {203911}}
+Multumire (for the beauty of the earth) {composer: {Folliott S. Pierpoint, Conrad Kocher, Traducere RO}, {rcId: {203911}}
 
 [sequence]
 v1,v2,v3,v4,s

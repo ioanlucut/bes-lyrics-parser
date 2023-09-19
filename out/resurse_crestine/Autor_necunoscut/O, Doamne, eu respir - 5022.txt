@@ -1,5 +1,5 @@
 [title]
-O doamne eu respir {author: {Anonim}, {rcId: {5022}}
+O doamne eu respir {composer: {Anonim}, {rcId: {5022}}
 
 [sequence]
 v1,c

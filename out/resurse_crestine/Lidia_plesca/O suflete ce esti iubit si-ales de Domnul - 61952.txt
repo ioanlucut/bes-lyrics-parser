@@ -1,5 +1,5 @@
 [title]
-O suflete ce esti iubit si-ales de domnul {author: {Lidia Pleșca}, {rcId: {61952}}
+O suflete ce esti iubit si-ales de domnul {composer: {Lidia Pleșca}, {rcId: {61952}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8

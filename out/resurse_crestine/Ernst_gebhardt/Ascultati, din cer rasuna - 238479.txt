@@ -1,5 +1,5 @@
 [title]
-Ascultati din cer rasuna {author: {Ernst Gebhardt}, {rcId: {238479}}
+Ascultati din cer rasuna {composer: {Ernst Gebhardt}, {rcId: {238479}}
 
 [sequence]
 v1,c,v2,c

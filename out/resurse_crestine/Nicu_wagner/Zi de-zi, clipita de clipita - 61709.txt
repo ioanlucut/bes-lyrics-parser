@@ -1,5 +1,5 @@
 [title]
-Zi de-zi clipita de clipita {author: {Nicu Wagner}, {rcId: {61709}}
+Zi de-zi clipita de clipita {composer: {Nicu Wagner}, {rcId: {61709}}
 
 [sequence]
 v1,v2,v3,v4

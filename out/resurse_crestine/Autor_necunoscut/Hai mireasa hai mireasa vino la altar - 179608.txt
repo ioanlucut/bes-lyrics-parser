@@ -1,5 +1,5 @@
 [title]
-Hai mireasa hai mireasa vino la altar {author: {Anonim}, {rcId: {179608}}
+Hai mireasa hai mireasa vino la altar {composer: {Anonim}, {rcId: {179608}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

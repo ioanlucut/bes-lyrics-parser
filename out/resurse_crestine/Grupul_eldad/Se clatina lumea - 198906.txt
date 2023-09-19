@@ -1,5 +1,5 @@
 [title]
-Se clatina lumea {author: {Grupul Eldad}, {rcId: {198906}}
+Se clatina lumea {composer: {Grupul Eldad}, {rcId: {198906}}
 
 [sequence]
 v1,c,v2,c

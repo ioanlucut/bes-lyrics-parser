@@ -1,5 +1,5 @@
 [title]
-Sarac si fara vaza-n lume {author: {Anonim}, {rcId: {6520}}
+Sarac si fara vaza-n lume {composer: {Anonim}, {rcId: {6520}}
 
 [sequence]
 v1,v2,v3,v4

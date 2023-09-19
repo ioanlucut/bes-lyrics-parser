@@ -1,5 +1,5 @@
 [title]
-Numele tau isus e o splendoare {author: {Beni Cibu}, {rcId: {191785}}
+Numele tau isus e o splendoare {composer: {Beni Cibu}, {rcId: {191785}}
 
 [sequence]
 v1,v2,v3,v4

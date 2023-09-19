@@ -1,5 +1,5 @@
 [title]
-Vin in fata ta {author: {Daniel Cristian}, {rcId: {91523}}
+Vin in fata ta {composer: {Daniel Cristian}, {rcId: {91523}}
 
 [sequence]
 v1,c,v2,c

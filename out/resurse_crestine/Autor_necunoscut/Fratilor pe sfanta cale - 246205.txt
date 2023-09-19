@@ -1,5 +1,5 @@
 [title]
-Fratilor pe sfanta cale {author: {Anonim}, {rcId: {246205}}
+Fratilor pe sfanta cale {composer: {Anonim}, {rcId: {246205}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

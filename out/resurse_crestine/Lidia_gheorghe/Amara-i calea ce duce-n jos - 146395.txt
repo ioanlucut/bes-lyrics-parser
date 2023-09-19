@@ -1,5 +1,5 @@
 [title]
-Amara-i calea ce duce-n jos {author: {Lidia Gheorghe}, {rcId: {146395}}
+Amara-i calea ce duce-n jos {composer: {Lidia Gheorghe}, {rcId: {146395}}
 
 [sequence]
 v1,v2,v3,v4

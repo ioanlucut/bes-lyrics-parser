@@ -1,5 +1,5 @@
 [title]
-Eu stiu ce vrei {author: {Nicolae Moldoveanu}, {rcId: {246134}}
+Eu stiu ce vrei {composer: {Nicolae Moldoveanu}, {rcId: {246134}}
 
 [sequence]
 v1,v2

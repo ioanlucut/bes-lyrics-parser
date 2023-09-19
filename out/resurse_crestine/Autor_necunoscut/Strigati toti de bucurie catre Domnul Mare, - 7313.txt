@@ -1,5 +1,5 @@
 [title]
-Strigati toti de bucurie catre domnul mare {author: {Anonim}, {rcId: {7313}}
+Strigati toti de bucurie catre domnul mare {composer: {Anonim}, {rcId: {7313}}
 
 [sequence]
 v1,v2,v3,v4,v5

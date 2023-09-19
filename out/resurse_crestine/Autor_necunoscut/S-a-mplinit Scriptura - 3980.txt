@@ -1,5 +1,5 @@
 [title]
-S-a-mplinit scriptura {author: {Anonim}, {rcId: {3980}}
+S-a-mplinit scriptura {composer: {Anonim}, {rcId: {3980}}
 
 [sequence]
 v1,v2,v3

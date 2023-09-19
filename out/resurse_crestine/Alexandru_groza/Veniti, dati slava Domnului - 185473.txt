@@ -1,5 +1,5 @@
 [title]
-Veniti dati slava domnului {author: {Alexandru Groza}, {rcId: {185473}}
+Veniti dati slava domnului {composer: {Alexandru Groza}, {rcId: {185473}}
 
 [sequence]
 v1,c,v2,c

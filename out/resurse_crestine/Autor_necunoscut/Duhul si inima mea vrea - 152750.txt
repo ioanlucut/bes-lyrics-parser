@@ -1,5 +1,5 @@
 [title]
-Duhul si inima mea vrea {author: {Anonim}, {rcId: {152750}}
+Duhul si inima mea vrea {composer: {Anonim}, {rcId: {152750}}
 
 [sequence]
 v1,v2,v3,v4,v5

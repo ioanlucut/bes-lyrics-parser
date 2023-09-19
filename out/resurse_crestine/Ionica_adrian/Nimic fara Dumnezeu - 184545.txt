@@ -1,5 +1,5 @@
 [title]
-Nimic fara dumnezeu {author: {Ionica Adrian}, {rcId: {184545}}
+Nimic fara dumnezeu {composer: {Ionica Adrian}, {rcId: {184545}}
 
 [sequence]
 c,s,c,s,c,s,c,s,c

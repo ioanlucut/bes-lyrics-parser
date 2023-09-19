@@ -1,5 +1,5 @@
 [title]
-Cu mine fii o duhule preasfant {author: {Anonim}, {rcId: {163706}}
+Cu mine fii o duhule preasfant {composer: {Anonim}, {rcId: {163706}}
 
 [sequence]
 v1,v2,v3

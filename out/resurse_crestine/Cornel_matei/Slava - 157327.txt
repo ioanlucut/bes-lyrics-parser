@@ -1,5 +1,5 @@
 [title]
-Slava {author: {Cornel Matei}, {rcId: {157327}}
+Slava {composer: {Cornel Matei}, {rcId: {157327}}
 
 [sequence]
 v1,c,v2,c,c2

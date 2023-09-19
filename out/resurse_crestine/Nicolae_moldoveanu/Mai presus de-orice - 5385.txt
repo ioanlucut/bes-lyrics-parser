@@ -1,5 +1,5 @@
 [title]
-Mai presus de-orice {author: {Nicolae Moldoveanu}, {rcId: {5385}}
+Mai presus de-orice {composer: {Nicolae Moldoveanu}, {rcId: {5385}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Din valea aceasta a plangerii {author: {Nicu Puscau}, {rcId: {4199}}
+Din valea aceasta a plangerii {composer: {Nicu Puscau}, {rcId: {4199}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c2

@@ -1,5 +1,5 @@
 [title]
-Voi canta {author: {Reuben Morgan, Traducere RO}, {rcId: {4361}}
+Voi canta {composer: {Reuben Morgan, Traducere RO}, {rcId: {4361}}
 
 [sequence]
 v1,c,e,v2,c

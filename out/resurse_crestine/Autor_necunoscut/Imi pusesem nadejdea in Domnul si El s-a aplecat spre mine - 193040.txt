@@ -1,5 +1,5 @@
 [title]
-Imi pusesem nadejdea in domnul si el s-a aplecat spre mine {author: {Anonim}, {rcId: {193040}}
+Imi pusesem nadejdea in domnul si el s-a aplecat spre mine {composer: {Anonim}, {rcId: {193040}}
 
 [sequence]
 v1,c,v2,c,v3,c2

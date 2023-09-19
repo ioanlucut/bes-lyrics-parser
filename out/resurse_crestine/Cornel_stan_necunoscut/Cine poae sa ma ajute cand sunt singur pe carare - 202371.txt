@@ -1,5 +1,5 @@
 [title]
-Cine poae sa ma ajute cand sunt singur pe carare {author: {Cornel Stan, Necunoscut}, {rcId: {202371}}
+Cine poae sa ma ajute cand sunt singur pe carare {composer: {Cornel Stan, Necunoscut}, {rcId: {202371}}
 
 [sequence]
 v1,c,v2,c,v3,c

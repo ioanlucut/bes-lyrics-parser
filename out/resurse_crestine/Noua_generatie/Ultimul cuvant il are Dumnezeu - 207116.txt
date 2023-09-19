@@ -1,5 +1,5 @@
 [title]
-Ultimul cuvant il are dumnezeu {author: {Noua Generatie}, {rcId: {207116}}
+Ultimul cuvant il are dumnezeu {composer: {Noua Generatie}, {rcId: {207116}}
 
 [sequence]
 v1,c,v2,c

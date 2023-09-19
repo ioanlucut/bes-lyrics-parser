@@ -1,5 +1,5 @@
 [title]
-Mai e putin pe aceasta cale (se arata florile iar pe campii) {author: {Anonim}, {rcId: {79007}}
+Mai e putin pe aceasta cale (se arata florile iar pe campii) {composer: {Anonim}, {rcId: {79007}}
 
 [sequence]
 v1,c,v2,c,v3,c

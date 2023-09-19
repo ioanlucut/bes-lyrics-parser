@@ -1,5 +1,5 @@
 [title]
-Tu esti domnul meu te rog r~amai cu mine {author: {Autor necunoscut}, {rcId: {235741}}
+Tu esti domnul meu te rog r~amai cu mine {composer: {Autor necunoscut}, {rcId: {235741}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

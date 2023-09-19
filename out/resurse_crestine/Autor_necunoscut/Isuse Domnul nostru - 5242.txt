@@ -1,5 +1,5 @@
 [title]
-Isuse domnul nostru {author: {Anonim}, {rcId: {5242}}
+Isuse domnul nostru {composer: {Anonim}, {rcId: {5242}}
 
 [sequence]
 v1,v2,v3,v4

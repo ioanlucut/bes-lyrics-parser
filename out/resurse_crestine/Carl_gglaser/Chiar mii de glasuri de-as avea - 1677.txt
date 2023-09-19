@@ -1,5 +1,5 @@
 [title]
-Chiar mii de glasuri de-as avea {author: {Carl G.Glaser}, {rcId: {1677}}
+Chiar mii de glasuri de-as avea {composer: {Carl G.Glaser}, {rcId: {1677}}
 
 [sequence]
 v1,v2,v3,v3

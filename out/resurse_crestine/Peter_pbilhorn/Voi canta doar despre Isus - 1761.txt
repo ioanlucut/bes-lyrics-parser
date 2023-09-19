@@ -1,5 +1,5 @@
 [title]
-Voi canta doar despre isus {author: {Peter P.Bilhorn}, {rcId: {1761}}
+Voi canta doar despre isus {composer: {Peter P.Bilhorn}, {rcId: {1761}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

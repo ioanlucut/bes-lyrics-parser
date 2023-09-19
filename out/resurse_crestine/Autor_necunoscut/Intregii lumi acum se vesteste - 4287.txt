@@ -1,5 +1,5 @@
 [title]
-Intregii lumi acum se vesteste {author: {Anonim}, {rcId: {4287}}
+Intregii lumi acum se vesteste {composer: {Anonim}, {rcId: {4287}}
 
 [sequence]
 v1,v2,v3

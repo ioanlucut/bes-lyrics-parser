@@ -1,5 +1,5 @@
 [title]
-In gradina ghetsimani {author: {Nicolae Moldoveanu}, {rcId: {244179}}
+In gradina ghetsimani {composer: {Nicolae Moldoveanu}, {rcId: {244179}}
 
 [sequence]
 v1,c,v2,c2,v3,c2

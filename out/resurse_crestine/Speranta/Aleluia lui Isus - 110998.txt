@@ -1,5 +1,5 @@
 [title]
-Aleluia lui isus {author: {Speranța}, {rcId: {110998}}
+Aleluia lui isus {composer: {Speranța}, {rcId: {110998}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

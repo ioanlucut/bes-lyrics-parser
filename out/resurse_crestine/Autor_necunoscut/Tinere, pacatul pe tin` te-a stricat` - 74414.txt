@@ -1,5 +1,5 @@
 [title]
-Tinere pacatul pe tin te-a stricat {author: {Anonim}, {rcId: {74414}}
+Tinere pacatul pe tin te-a stricat {composer: {Anonim}, {rcId: {74414}}
 
 [sequence]
 v1,c,v2,c,v3,c

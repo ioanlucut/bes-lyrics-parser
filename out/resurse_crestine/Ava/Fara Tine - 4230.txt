@@ -1,5 +1,5 @@
 [title]
-Fara tine {author: {Ava}, {rcId: {4230}}
+Fara tine {composer: {Ava}, {rcId: {4230}}
 
 [sequence]
 v1,c,v2,c

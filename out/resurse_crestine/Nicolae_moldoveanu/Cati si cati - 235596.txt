@@ -1,5 +1,5 @@
 [title]
-Cati si cati {author: {Nicolae Moldoveanu}, {rcId: {235596}}
+Cati si cati {composer: {Nicolae Moldoveanu}, {rcId: {235596}}
 
 [sequence]
 v1,v2

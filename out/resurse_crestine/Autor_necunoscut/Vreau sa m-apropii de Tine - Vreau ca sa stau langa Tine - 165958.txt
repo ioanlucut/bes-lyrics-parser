@@ -1,5 +1,5 @@
 [title]
-Vreau sa m-apropii de tine - vreau ca sa stau langa tine {author: {Anonim}, {rcId: {165958}}
+Vreau sa m-apropii de tine - vreau ca sa stau langa tine {composer: {Anonim}, {rcId: {165958}}
 
 [sequence]
 v1,c,v2,c

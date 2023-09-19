@@ -1,5 +1,5 @@
 [title]
-Sunt un pribeag calator {author: {Anonim}, {rcId: {3982}}
+Sunt un pribeag calator {composer: {Anonim}, {rcId: {3982}}
 
 [sequence]
 v1,c,v2,c,v3,c

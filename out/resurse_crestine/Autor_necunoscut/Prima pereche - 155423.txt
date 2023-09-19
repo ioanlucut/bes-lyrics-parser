@@ -1,5 +1,5 @@
 [title]
-Prima pereche {author: {Anonim}, {rcId: {155423}}
+Prima pereche {composer: {Anonim}, {rcId: {155423}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,c4

@@ -1,5 +1,5 @@
 [title]
-Spun la orisicine caci a biruit {author: {Anonim}, {rcId: {3804}}
+Spun la orisicine caci a biruit {composer: {Anonim}, {rcId: {3804}}
 
 [sequence]
 v1,c,v2,c

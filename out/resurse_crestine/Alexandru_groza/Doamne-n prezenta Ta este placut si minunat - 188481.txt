@@ -1,5 +1,5 @@
 [title]
-Doamne-n prezenta ta este placut si minunat {author: {Alexandru Groza}, {rcId: {188481}}
+Doamne-n prezenta ta este placut si minunat {composer: {Alexandru Groza}, {rcId: {188481}}
 
 [sequence]
 v1,c,v2,c

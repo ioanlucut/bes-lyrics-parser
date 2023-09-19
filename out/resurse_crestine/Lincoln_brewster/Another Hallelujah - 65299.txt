@@ -1,5 +1,5 @@
 [title]
-Another hallelujah {author: {Lincoln Brewster, Traducere RO}, {rcId: {65299}}
+Another hallelujah {composer: {Lincoln Brewster, Traducere RO}, {rcId: {65299}}
 
 [sequence]
 v1,c,v2,c

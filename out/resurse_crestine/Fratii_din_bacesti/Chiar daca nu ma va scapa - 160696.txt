@@ -1,5 +1,5 @@
 [title]
-Chiar daca nu ma va scapa {author: {Fratii din Bacesti}, {rcId: {160696}}
+Chiar daca nu ma va scapa {composer: {Fratii din Bacesti}, {rcId: {160696}}
 
 [sequence]
 v1,c,v2,c

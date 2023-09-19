@@ -1,5 +1,5 @@
 [title]
-Ma inchin cu drag {author: {Alexandru Groza}, {rcId: {80795}}
+Ma inchin cu drag {composer: {Alexandru Groza}, {rcId: {80795}}
 
 [sequence]
 v1,b,c,v2,c

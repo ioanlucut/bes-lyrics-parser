@@ -1,5 +1,5 @@
 [title]
-Candva demult isus {author: {Anonim}, {rcId: {61444}}
+Candva demult isus {composer: {Anonim}, {rcId: {61444}}
 
 [sequence]
 v1,c,v2,c,v3,c

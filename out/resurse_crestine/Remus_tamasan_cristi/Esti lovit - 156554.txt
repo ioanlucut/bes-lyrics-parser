@@ -1,5 +1,5 @@
 [title]
-Esti lovit {author: {Remus Tămășan Cristi}, {rcId: {156554}}
+Esti lovit {composer: {Remus Tămășan Cristi}, {rcId: {156554}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

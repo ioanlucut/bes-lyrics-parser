@@ -1,5 +1,5 @@
 [title]
-Poporasul meu trezeste-te {author: {Anonim}, {rcId: {5042}}
+Poporasul meu trezeste-te {composer: {Anonim}, {rcId: {5042}}
 
 [sequence]
 v1,v2,v3,v4,v5

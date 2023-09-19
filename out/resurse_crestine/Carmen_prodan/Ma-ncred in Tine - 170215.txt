@@ -1,5 +1,5 @@
 [title]
-Ma-ncred in tine {author: {Carmen Prodan}, {rcId: {170215}}
+Ma-ncred in tine {composer: {Carmen Prodan}, {rcId: {170215}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

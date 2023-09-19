@@ -1,5 +1,5 @@
 [title]
-Bezna noptii a sosit {author: {Anonim}, {rcId: {74583}}
+Bezna noptii a sosit {composer: {Anonim}, {rcId: {74583}}
 
 [sequence]
 v1,c,v2,c,v3,c

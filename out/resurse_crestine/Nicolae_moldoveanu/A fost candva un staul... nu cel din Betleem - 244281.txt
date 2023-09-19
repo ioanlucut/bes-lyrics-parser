@@ -1,5 +1,5 @@
 [title]
-A fost candva un staul nu cel din betleem {author: {Nicolae Moldoveanu}, {rcId: {244281}}
+A fost candva un staul nu cel din betleem {composer: {Nicolae Moldoveanu}, {rcId: {244281}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Prin ochii lui {author: {Continental}, {rcId: {124922}}
+Prin ochii lui {composer: {Continental}, {rcId: {124922}}
 
 [sequence]
 v1,c,v2,b,c

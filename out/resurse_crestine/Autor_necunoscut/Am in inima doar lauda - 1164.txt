@@ -1,5 +1,5 @@
 [title]
-Am in inima doar lauda {author: {Anonim}, {rcId: {1164}}
+Am in inima doar lauda {composer: {Anonim}, {rcId: {1164}}
 
 [sequence]
 v1,v2

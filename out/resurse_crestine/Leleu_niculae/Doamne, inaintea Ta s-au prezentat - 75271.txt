@@ -1,5 +1,5 @@
 [title]
-Doamne inaintea ta s-au prezentat {author: {Leleu Niculae}, {rcId: {75271}}
+Doamne inaintea ta s-au prezentat {composer: {Leleu Niculae}, {rcId: {75271}}
 
 [sequence]
 v1,c,v2,c,v3,c

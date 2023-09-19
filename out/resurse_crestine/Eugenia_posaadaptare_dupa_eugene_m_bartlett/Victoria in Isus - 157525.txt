@@ -1,5 +1,5 @@
 [title]
-Victoria in isus {author: {Eugenia Posaadaptare după Eugene M. Bartlett}, {rcId: {157525}}
+Victoria in isus {composer: {Eugenia Posaadaptare după Eugene M. Bartlett}, {rcId: {157525}}
 
 [sequence]
 v1,c,v2,c,v3,c

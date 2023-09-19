@@ -1,5 +1,5 @@
 [title]
-Drumuri fara numar {author: {Omega}, {rcId: {79353}}
+Drumuri fara numar {composer: {Omega}, {rcId: {79353}}
 
 [sequence]
 v1,c,v2,c,e

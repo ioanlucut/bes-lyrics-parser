@@ -1,5 +1,5 @@
 [title]
-Ce as putea sa-ti dau isuse {author: {Nicu Chereji}, {rcId: {208819}}
+Ce as putea sa-ti dau isuse {composer: {Nicu Chereji}, {rcId: {208819}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Te voi purta {author: {Anonim}, {rcId: {84110}}
+Te voi purta {composer: {Anonim}, {rcId: {84110}}
 
 [sequence]
 v1,c,v2,c

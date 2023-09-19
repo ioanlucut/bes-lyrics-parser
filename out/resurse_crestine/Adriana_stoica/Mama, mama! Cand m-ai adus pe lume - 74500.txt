@@ -1,5 +1,5 @@
 [title]
-Mama mama cand m-ai adus pe lume {author: {Adriana Stoica}, {rcId: {74500}}
+Mama mama cand m-ai adus pe lume {composer: {Adriana Stoica}, {rcId: {74500}}
 
 [sequence]
 v1,v2,v3,v4

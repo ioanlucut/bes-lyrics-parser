@@ -1,5 +1,5 @@
 [title]
-Vreau sa merg {author: {Alex Tascu}, {rcId: {121175}}
+Vreau sa merg {composer: {Alex Tascu}, {rcId: {121175}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

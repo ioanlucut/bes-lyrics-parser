@@ -1,5 +1,5 @@
 [title]
-Cantati pe isus {author: {Alexandru Groza}, {rcId: {185477}}
+Cantati pe isus {composer: {Alexandru Groza}, {rcId: {185477}}
 
 [sequence]
 v1,b,c,v2,c

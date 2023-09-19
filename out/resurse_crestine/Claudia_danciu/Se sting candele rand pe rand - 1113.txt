@@ -1,5 +1,5 @@
 [title]
-Se sting candele rand pe rand {author: {Claudia Danciu}, {rcId: {1113}}
+Se sting candele rand pe rand {composer: {Claudia Danciu}, {rcId: {1113}}
 
 [sequence]
 v1,v2,v3,v4

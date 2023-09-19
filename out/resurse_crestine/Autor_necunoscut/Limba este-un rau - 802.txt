@@ -1,5 +1,5 @@
 [title]
-Limba este-un rau {author: {Anonim}, {rcId: {802}}
+Limba este-un rau {composer: {Anonim}, {rcId: {802}}
 
 [sequence]
 v1,c,v2,c,v3,c

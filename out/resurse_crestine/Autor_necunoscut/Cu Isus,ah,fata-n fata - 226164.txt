@@ -1,5 +1,5 @@
 [title]
-Cu isusahfata-n fata {author: {Anonim}, {rcId: {226164}}
+Cu isusahfata-n fata {composer: {Anonim}, {rcId: {226164}}
 
 [sequence]
 v1,c,v2,c,v3,c

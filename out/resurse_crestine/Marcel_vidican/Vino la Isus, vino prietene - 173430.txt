@@ -1,5 +1,5 @@
 [title]
-Vino la isus vino prietene {author: {Marcel Vidican}, {rcId: {173430}}
+Vino la isus vino prietene {composer: {Marcel Vidican}, {rcId: {173430}}
 
 [sequence]
 v1,v2,v3,v4

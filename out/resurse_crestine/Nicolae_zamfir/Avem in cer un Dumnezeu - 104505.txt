@@ -1,5 +1,5 @@
 [title]
-Avem in cer un dumnezeu {author: {Nicolae Zamfir}, {rcId: {104505}}
+Avem in cer un dumnezeu {composer: {Nicolae Zamfir}, {rcId: {104505}}
 
 [sequence]
 v1,v2,c,v3,c

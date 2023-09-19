@@ -1,5 +1,5 @@
 [title]
-Iti multumesc {author: {Ciornei Daniel}, {rcId: {240714}}
+Iti multumesc {composer: {Ciornei Daniel}, {rcId: {240714}}
 
 [sequence]
 v1

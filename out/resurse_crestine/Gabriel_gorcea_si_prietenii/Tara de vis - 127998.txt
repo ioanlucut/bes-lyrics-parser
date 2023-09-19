@@ -1,5 +1,5 @@
 [title]
-Tara de vis {author: {Gabriel Gorcea și prietenii}, {rcId: {127998}}
+Tara de vis {composer: {Gabriel Gorcea și prietenii}, {rcId: {127998}}
 
 [sequence]
 c,v1,c2,v2,c2,v3,c3

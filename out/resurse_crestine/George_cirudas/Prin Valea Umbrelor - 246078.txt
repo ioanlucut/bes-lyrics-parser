@@ -1,5 +1,5 @@
 [title]
-Prin valea umbrelor {author: {George Cirudas}, {rcId: {246078}}
+Prin valea umbrelor {composer: {George Cirudas}, {rcId: {246078}}
 
 [sequence]
 v1,b,c,v2,b,c,e

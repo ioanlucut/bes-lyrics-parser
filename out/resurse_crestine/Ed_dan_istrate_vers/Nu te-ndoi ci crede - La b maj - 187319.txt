@@ -1,5 +1,5 @@
 [title]
-Nu te-ndoi ci crede - la b maj {author: {ed. Dan Istrate vers 4}, {rcId: {187319}}
+Nu te-ndoi ci crede - la b maj {composer: {ed. Dan Istrate vers 4}, {rcId: {187319}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Vor trece ceruri {author: {Anonim}, {rcId: {58960}}
+Vor trece ceruri {composer: {Anonim}, {rcId: {58960}}
 
 [sequence]
 v1,v2,v3,v4

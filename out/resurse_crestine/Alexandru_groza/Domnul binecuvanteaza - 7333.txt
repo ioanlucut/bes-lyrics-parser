@@ -1,5 +1,5 @@
 [title]
-Domnul binecuvanteaza {author: {Alexandru Groza}, {rcId: {7333}}
+Domnul binecuvanteaza {composer: {Alexandru Groza}, {rcId: {7333}}
 
 [sequence]
 v1,c,v2,c,v3,c

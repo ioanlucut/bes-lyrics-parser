@@ -1,5 +1,5 @@
 [title]
-El va ramane credincios {author: {Caleb Collins, Stephen Sharp}, {rcId: {157564}}
+El va ramane credincios {composer: {Caleb Collins, Stephen Sharp}, {rcId: {157564}}
 
 [sequence]
 v1,c,v2,c2

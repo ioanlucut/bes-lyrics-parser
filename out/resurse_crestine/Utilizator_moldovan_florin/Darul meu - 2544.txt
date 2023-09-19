@@ -1,5 +1,5 @@
 [title]
-Darul meu {author: {Utilizator Moldovan Florin}, {rcId: {2544}}
+Darul meu {composer: {Utilizator Moldovan Florin}, {rcId: {2544}}
 
 [sequence]
 v1,c,e

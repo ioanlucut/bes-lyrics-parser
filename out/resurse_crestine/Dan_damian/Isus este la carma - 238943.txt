@@ -1,5 +1,5 @@
 [title]
-Isus este la carma {author: {Dan Damian}, {rcId: {238943}}
+Isus este la carma {composer: {Dan Damian}, {rcId: {238943}}
 
 [sequence]
 v1,c,v2,c,v3,c

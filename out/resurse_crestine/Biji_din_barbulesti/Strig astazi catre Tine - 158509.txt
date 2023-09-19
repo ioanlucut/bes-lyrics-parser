@@ -1,5 +1,5 @@
 [title]
-Strig astazi catre tine {author: {Biji din Barbulesti}, {rcId: {158509}}
+Strig astazi catre tine {composer: {Biji din Barbulesti}, {rcId: {158509}}
 
 [sequence]
 v1,c,v2,c

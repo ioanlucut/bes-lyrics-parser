@@ -1,5 +1,5 @@
 [title]
-Ce sarbatorim? {author: {Dan Daraban}, {rcId: {194442}}
+Ce sarbatorim? {composer: {Dan Daraban}, {rcId: {194442}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

@@ -1,5 +1,5 @@
 [title]
-Cantand cu atata bucurie cu ochi asa stralucitori {author: {Anonim}, {rcId: {1599}}
+Cantand cu atata bucurie cu ochi asa stralucitori {composer: {Anonim}, {rcId: {1599}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8

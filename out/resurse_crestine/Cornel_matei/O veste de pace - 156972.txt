@@ -1,5 +1,5 @@
 [title]
-O veste de pace {author: {Cornel Matei}, {rcId: {156972}}
+O veste de pace {composer: {Cornel Matei}, {rcId: {156972}}
 
 [sequence]
 v1,c,v2,c,e

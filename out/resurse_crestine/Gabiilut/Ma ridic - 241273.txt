@@ -1,5 +1,5 @@
 [title]
-Ma ridic {author: {Gabi_Ilut}, {rcId: {241273}}
+Ma ridic {composer: {Gabi_Ilut}, {rcId: {241273}}
 
 [sequence]
 v1,c,v2,c,e

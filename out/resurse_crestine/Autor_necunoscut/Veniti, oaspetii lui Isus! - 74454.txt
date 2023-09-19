@@ -1,5 +1,5 @@
 [title]
-Veniti oaspetii lui isus {author: {Anonim}, {rcId: {74454}}
+Veniti oaspetii lui isus {composer: {Anonim}, {rcId: {74454}}
 
 [sequence]
 v1,v2

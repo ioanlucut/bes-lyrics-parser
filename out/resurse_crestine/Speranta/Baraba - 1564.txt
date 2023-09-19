@@ -1,5 +1,5 @@
 [title]
-Baraba {author: {Speranța}, {rcId: {1564}}
+Baraba {composer: {Speranța}, {rcId: {1564}}
 
 [sequence]
 v1,v2,v3

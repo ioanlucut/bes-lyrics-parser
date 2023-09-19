@@ -1,5 +1,5 @@
 [title]
-Cuvantul tau si bunatatea {author: {Simona Rusu}, {rcId: {63135}}
+Cuvantul tau si bunatatea {composer: {Simona Rusu}, {rcId: {63135}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Veniti cu bucurie {author: {Speranța}, {rcId: {111387}}
+Veniti cu bucurie {composer: {Speranța}, {rcId: {111387}}
 
 [sequence]
 v1,b,c

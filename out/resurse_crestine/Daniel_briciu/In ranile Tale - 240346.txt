@@ -1,5 +1,5 @@
 [title]
-In ranile tale {author: {Daniel Briciu}, {rcId: {240346}}
+In ranile tale {composer: {Daniel Briciu}, {rcId: {240346}}
 
 [sequence]
 v1,v2,v3,v4,v5

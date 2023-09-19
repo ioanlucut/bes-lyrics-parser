@@ -1,5 +1,5 @@
 [title]
-Sufletu-nalt catre tine isus; si strig catre tine {author: {Adi Gliga}, {rcId: {113165}}
+Sufletu-nalt catre tine isus; si strig catre tine {composer: {Adi Gliga}, {rcId: {113165}}
 
 [sequence]
 v1,c

@@ -1,5 +1,5 @@
 [title]
-De multe ori {author: {Ahava}, {rcId: {115036}}
+De multe ori {composer: {Ahava}, {rcId: {115036}}
 
 [sequence]
 v1,c,v2,c,e

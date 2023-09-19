@@ -1,5 +1,5 @@
 [title]
-Dar sus la golgota {author: {Costache Ioanid}, {rcId: {166213}}
+Dar sus la golgota {composer: {Costache Ioanid}, {rcId: {166213}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

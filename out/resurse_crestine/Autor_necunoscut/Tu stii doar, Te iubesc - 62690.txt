@@ -1,5 +1,5 @@
 [title]
-Tu stii doar te iubesc {author: {Anonim}, {rcId: {62690}}
+Tu stii doar te iubesc {composer: {Anonim}, {rcId: {62690}}
 
 [sequence]
 v1,c,v2,c,v3,c

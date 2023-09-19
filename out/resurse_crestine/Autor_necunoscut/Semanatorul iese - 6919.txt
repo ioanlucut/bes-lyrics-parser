@@ -1,5 +1,5 @@
 [title]
-Semanatorul iese {author: {Anonim}, {rcId: {6919}}
+Semanatorul iese {composer: {Anonim}, {rcId: {6919}}
 
 [sequence]
 v1,c,v2,c,v3,c

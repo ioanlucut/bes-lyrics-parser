@@ -1,5 +1,5 @@
 [title]
-Iubire da-ne harul {author: {Nicolae Moldoveanu}, {rcId: {247821}}
+Iubire da-ne harul {composer: {Nicolae Moldoveanu}, {rcId: {247821}}
 
 [sequence]
 v1,v2,v3

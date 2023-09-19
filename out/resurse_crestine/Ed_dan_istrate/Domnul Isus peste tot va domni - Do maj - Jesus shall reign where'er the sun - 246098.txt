@@ -1,5 +1,5 @@
 [title]
-Domnul isus peste tot va domni - do maj - jesus shall reign where er the sun {author: {ed. Dan Istrate}, {rcId: {246098}}
+Domnul isus peste tot va domni - do maj - jesus shall reign where er the sun {composer: {ed. Dan Istrate}, {rcId: {246098}}
 
 [sequence]
 v1,v2,v3,v4

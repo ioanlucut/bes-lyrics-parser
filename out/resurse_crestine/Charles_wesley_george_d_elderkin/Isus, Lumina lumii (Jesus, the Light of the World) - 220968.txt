@@ -1,5 +1,5 @@
 [title]
-Isus lumina lumii (jesus the light of the world) {author: {Charles Wesley, George D. Elderkin, Traducere RO}, {rcId: {220968}}
+Isus lumina lumii (jesus the light of the world) {composer: {Charles Wesley, George D. Elderkin, Traducere RO}, {rcId: {220968}}
 
 [sequence]
 v1,c,v2,c,v3,c

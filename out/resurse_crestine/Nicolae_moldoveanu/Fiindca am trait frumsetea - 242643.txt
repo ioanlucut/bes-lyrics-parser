@@ -1,5 +1,5 @@
 [title]
-Fiindca am trait frumsetea {author: {Nicolae Moldoveanu}, {rcId: {242643}}
+Fiindca am trait frumsetea {composer: {Nicolae Moldoveanu}, {rcId: {242643}}
 
 [sequence]
 v1,v2,v3,v4

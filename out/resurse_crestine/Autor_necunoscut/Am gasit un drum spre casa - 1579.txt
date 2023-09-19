@@ -1,5 +1,5 @@
 [title]
-Am gasit un drum spre casa {author: {Anonim}, {rcId: {1579}}
+Am gasit un drum spre casa {composer: {Anonim}, {rcId: {1579}}
 
 [sequence]
 v1,c,v2,c,v3,c

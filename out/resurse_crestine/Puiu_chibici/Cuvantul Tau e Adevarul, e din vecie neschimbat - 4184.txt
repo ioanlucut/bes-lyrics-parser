@@ -1,5 +1,5 @@
 [title]
-Cuvantul tau e adevarul e din vecie neschimbat {author: {Puiu Chibici}, {rcId: {4184}}
+Cuvantul tau e adevarul e din vecie neschimbat {composer: {Puiu Chibici}, {rcId: {4184}}
 
 [sequence]
 v1,v2,v3,v4,v5

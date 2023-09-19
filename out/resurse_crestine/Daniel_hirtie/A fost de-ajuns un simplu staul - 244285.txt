@@ -1,5 +1,5 @@
 [title]
-A fost de-ajuns un simplu staul {author: {Daniel Hîrtie}, {rcId: {244285}}
+A fost de-ajuns un simplu staul {composer: {Daniel Hîrtie}, {rcId: {244285}}
 
 [sequence]
 v1,c,v2,c,v3,c

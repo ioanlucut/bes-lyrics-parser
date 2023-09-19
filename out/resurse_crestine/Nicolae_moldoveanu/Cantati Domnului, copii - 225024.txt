@@ -1,5 +1,5 @@
 [title]
-Cantati domnului copii {author: {Nicolae Moldoveanu}, {rcId: {225024}}
+Cantati domnului copii {composer: {Nicolae Moldoveanu}, {rcId: {225024}}
 
 [sequence]
 v1,v2,v3

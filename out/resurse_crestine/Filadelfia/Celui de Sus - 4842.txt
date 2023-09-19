@@ -1,5 +1,5 @@
 [title]
-Celui de sus {author: {Filadelfia}, {rcId: {4842}}
+Celui de sus {composer: {Filadelfia}, {rcId: {4842}}
 
 [sequence]
 v1,c,v2,c

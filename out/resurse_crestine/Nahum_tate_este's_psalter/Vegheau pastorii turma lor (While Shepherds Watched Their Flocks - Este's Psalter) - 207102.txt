@@ -1,5 +1,5 @@
 [title]
-Vegheau pastorii turma lor (while shepherds watched their flocks - este s psalter) {author: {Nahum Tate, Este’s Psalter, Traducere RO}, {rcId: {207102}}
+Vegheau pastorii turma lor (while shepherds watched their flocks - este s psalter) {composer: {Nahum Tate, Este’s Psalter, Traducere RO}, {rcId: {207102}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

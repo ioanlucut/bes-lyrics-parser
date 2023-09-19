@@ -1,5 +1,5 @@
 [title]
-Raul binecuvantarii - showers of blessing - la b maj {author: {ed. Dan Istrate}, {rcId: {187316}}
+Raul binecuvantarii - showers of blessing - la b maj {composer: {ed. Dan Istrate}, {rcId: {187316}}
 
 [sequence]
 v1,v2,v3

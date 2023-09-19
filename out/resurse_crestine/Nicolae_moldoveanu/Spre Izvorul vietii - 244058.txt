@@ -1,5 +1,5 @@
 [title]
-Spre izvorul vietii {author: {Nicolae Moldoveanu}, {rcId: {244058}}
+Spre izvorul vietii {composer: {Nicolae Moldoveanu}, {rcId: {244058}}
 
 [sequence]
 v1,v2,v3,v4

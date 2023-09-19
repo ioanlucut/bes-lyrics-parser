@@ -1,5 +1,5 @@
 [title]
-Mingea mea e mica {author: {Nicolae Moldoveanu}, {rcId: {236045}}
+Mingea mea e mica {composer: {Nicolae Moldoveanu}, {rcId: {236045}}
 
 [sequence]
 v1,v2

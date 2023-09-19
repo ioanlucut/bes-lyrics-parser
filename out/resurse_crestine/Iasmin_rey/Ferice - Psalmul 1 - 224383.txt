@@ -1,5 +1,5 @@
 [title]
-Ferice - psalmul {author: {Iasmin Rey}, {rcId: {224383}}
+Ferice - psalmul {composer: {Iasmin Rey}, {rcId: {224383}}
 
 [sequence]
 v1,v2,v3,v4

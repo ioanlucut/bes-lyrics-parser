@@ -1,5 +1,5 @@
 [title]
-Doamne vreau mai aproape {author: {Anonim}, {rcId: {4164}}
+Doamne vreau mai aproape {composer: {Anonim}, {rcId: {4164}}
 
 [sequence]
 c,v1,c

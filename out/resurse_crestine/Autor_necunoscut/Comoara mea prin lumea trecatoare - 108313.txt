@@ -1,5 +1,5 @@
 [title]
-Comoara mea prin lumea trecatoare {author: {Anonim}, {rcId: {108313}}
+Comoara mea prin lumea trecatoare {composer: {Anonim}, {rcId: {108313}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

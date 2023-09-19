@@ -1,5 +1,5 @@
 [title]
-God will make a way (domnul face drum) {author: {Don Moen, Traducere RO}, {rcId: {6862}}
+God will make a way (domnul face drum) {composer: {Don Moen, Traducere RO}, {rcId: {6862}}
 
 [sequence]
 v1,c

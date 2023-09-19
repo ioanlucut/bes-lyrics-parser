@@ -1,5 +1,5 @@
 [title]
-Dragostea {author: {Anonim}, {rcId: {1439}}
+Dragostea {composer: {Anonim}, {rcId: {1439}}
 
 [sequence]
 v1,c,v2,c2,v3,c2

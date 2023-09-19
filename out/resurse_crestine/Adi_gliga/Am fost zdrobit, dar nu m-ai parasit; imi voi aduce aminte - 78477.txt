@@ -1,5 +1,5 @@
 [title]
-Am fost zdrobit dar nu m-ai parasit; imi voi aduce aminte {author: {Adi Gliga}, {rcId: {78477}}
+Am fost zdrobit dar nu m-ai parasit; imi voi aduce aminte {composer: {Adi Gliga}, {rcId: {78477}}
 
 [sequence]
 v1,c,v2,c

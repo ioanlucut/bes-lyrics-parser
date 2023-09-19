@@ -1,5 +1,5 @@
 [title]
-Isus e prietenul cel bun ( isus prietenul ) {author: {Fratii Pal}, {rcId: {4466}}
+Isus e prietenul cel bun ( isus prietenul ) {composer: {Fratii Pal}, {rcId: {4466}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

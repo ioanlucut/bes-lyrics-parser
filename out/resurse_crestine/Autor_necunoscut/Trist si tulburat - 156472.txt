@@ -1,5 +1,5 @@
 [title]
-Trist si tulburat {author: {Anonim}, {rcId: {156472}}
+Trist si tulburat {composer: {Anonim}, {rcId: {156472}}
 
 [sequence]
 v1,c,v2,c

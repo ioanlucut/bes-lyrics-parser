@@ -1,5 +1,5 @@
 [title]
-Dormi copile dormi in paie {author: {Anonim}, {rcId: {7283}}
+Dormi copile dormi in paie {composer: {Anonim}, {rcId: {7283}}
 
 [sequence]
 v1,c

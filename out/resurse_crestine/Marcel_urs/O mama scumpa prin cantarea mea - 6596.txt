@@ -1,5 +1,5 @@
 [title]
-O mama scumpa prin cantarea mea {author: {Marcel Urs}, {rcId: {6596}}
+O mama scumpa prin cantarea mea {composer: {Marcel Urs}, {rcId: {6596}}
 
 [sequence]
 v1,v2,v3,v4

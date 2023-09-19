@@ -1,5 +1,5 @@
 [title]
-Ochii domnului {author: {Anonim}, {rcId: {57825}}
+Ochii domnului {composer: {Anonim}, {rcId: {57825}}
 
 [sequence]
 v1,c

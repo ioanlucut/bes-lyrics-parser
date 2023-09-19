@@ -1,5 +1,5 @@
 [title]
-Din cerul de sus isus ne-a adus {author: {Melodie Evreiasca}, {rcId: {61433}}
+Din cerul de sus isus ne-a adus {composer: {Melodie Evreiasca}, {rcId: {61433}}
 
 [sequence]
 v1,v2,v3,v4,v5

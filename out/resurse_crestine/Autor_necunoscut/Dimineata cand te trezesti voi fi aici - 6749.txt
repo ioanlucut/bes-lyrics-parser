@@ -1,5 +1,5 @@
 [title]
-Dimineata cand te trezesti voi fi aici {author: {Anonim}, {rcId: {6749}}
+Dimineata cand te trezesti voi fi aici {composer: {Anonim}, {rcId: {6749}}
 
 [sequence]
 v1,c,v2,c,v3,c

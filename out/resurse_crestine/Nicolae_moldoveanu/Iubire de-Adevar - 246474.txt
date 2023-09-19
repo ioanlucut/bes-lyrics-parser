@@ -1,5 +1,5 @@
 [title]
-Iubire de-adevar {author: {Nicolae Moldoveanu}, {rcId: {246474}}
+Iubire de-adevar {composer: {Nicolae Moldoveanu}, {rcId: {246474}}
 
 [sequence]
 v1,v2,v3,v4

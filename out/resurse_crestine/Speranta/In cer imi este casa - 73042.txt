@@ -1,5 +1,5 @@
 [title]
-In cer imi este casa {author: {Speranța}, {rcId: {73042}}
+In cer imi este casa {composer: {Speranța}, {rcId: {73042}}
 
 [sequence]
 v1,c,v2,c,v3,c

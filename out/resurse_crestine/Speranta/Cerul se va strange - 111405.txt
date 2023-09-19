@@ -1,5 +1,5 @@
 [title]
-Cerul se va strange {author: {Speranța}, {rcId: {111405}}
+Cerul se va strange {composer: {Speranța}, {rcId: {111405}}
 
 [sequence]
 v1,c,c2,v2,c,v3,c

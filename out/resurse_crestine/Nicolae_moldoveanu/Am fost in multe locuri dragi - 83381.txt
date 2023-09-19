@@ -1,5 +1,5 @@
 [title]
-Am fost in multe locuri dragi {author: {Nicolae Moldoveanu}, {rcId: {83381}}
+Am fost in multe locuri dragi {composer: {Nicolae Moldoveanu}, {rcId: {83381}}
 
 [sequence]
 v1,v2,v2

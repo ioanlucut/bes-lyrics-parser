@@ -1,5 +1,5 @@
 [title]
-Aleluia {author: {Zao Thusia}, {rcId: {74115}}
+Aleluia {composer: {Zao Thusia}, {rcId: {74115}}
 
 [sequence]
 v1,c,e

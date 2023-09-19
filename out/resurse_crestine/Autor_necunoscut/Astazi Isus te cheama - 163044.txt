@@ -1,5 +1,5 @@
 [title]
-Astazi isus te cheama {author: {Anonim}, {rcId: {163044}}
+Astazi isus te cheama {composer: {Anonim}, {rcId: {163044}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c2

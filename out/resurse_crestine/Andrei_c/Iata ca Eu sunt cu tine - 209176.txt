@@ -1,5 +1,5 @@
 [title]
-Iata ca eu sunt cu tine {author: {Andrei C}, {rcId: {209176}}
+Iata ca eu sunt cu tine {composer: {Andrei C}, {rcId: {209176}}
 
 [sequence]
 v1,c,v2,c,v3,c

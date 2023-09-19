@@ -1,5 +1,5 @@
 [title]
-Vine mesia cum ne-a promis {author: {Maria Șimon}, {rcId: {208450}}
+Vine mesia cum ne-a promis {composer: {Maria Șimon}, {rcId: {208450}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

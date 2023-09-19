@@ -1,5 +1,5 @@
 [title]
-Intrat-ai in gradina sa vezi rodirea mea {author: {Anonim}, {rcId: {6534}}
+Intrat-ai in gradina sa vezi rodirea mea {composer: {Anonim}, {rcId: {6534}}
 
 [sequence]
 v1,v2,v3,v4

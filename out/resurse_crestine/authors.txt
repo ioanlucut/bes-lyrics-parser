@@ -366,14 +366,14 @@
 3:Loredana Musteata:Loredana_musteata
 3:Alin, Emima Timofte:Alin_emima_timofte
 3:Daniel Ursachi:Daniel_ursachi
-3:Dottie Rambo, Jimmie Davis:Dottie_rambo_jimmie_davis
 3:Aurica Murasan:Aurica_murasan
+3:Dottie Rambo, Jimmie Davis:Dottie_rambo_jimmie_davis
 3:Merişor:Merisor
 3:cristi72:Cristi
 3:Kurt Kaiser:Kurt_kaiser
 3:Denis Costea:Denis_costea
-3:Sami Lupu:Sami_lupu
 3:Grupul Nathanael:Grupul_nathanael
+3:Sami Lupu:Sami_lupu
 3:Fratii Pit:Fratii_pit
 3:Maria Cuc:Maria_cuc
 3:Text: Victoriţa Ilie, Muzica: Adrian Toader:Text:_victorita_ilie_muzica:_adrian_toader
@@ -392,8 +392,8 @@
 3:Ștefanie Berci:Stefanie_berci
 3:Florin de la Targoviste:Florin_de_la_targoviste
 3:Grupul Ava:Grupul_ava
-3:Andreea Siminiuc:Andreea_siminiuc
 3:Adrian Fodor:Adrian_fodor
+3:Andreea Siminiuc:Andreea_siminiuc
 3:Symona Rusu:Symona_rusu
 3:SF3:Sf
 3:Eden Spania:Eden_spania
@@ -514,8 +514,8 @@
 2:Titel Băruța:Titel_baruta
 2:Andrei Rosu:Andrei_rosu
 2:Sorin Pop:Sorin_pop
-2:Marius Gorcea, Dan Muncaciu:Marius_gorcea_dan_muncaciu
 2:Bbso Baia Mare:Bbso_baia_mare
+2:Marius Gorcea, Dan Muncaciu:Marius_gorcea_dan_muncaciu
 2:Emanuel Iancu:Emanuel_iancu
 2:Grupul Hava Maranatha:Grupul_hava_maranatha
 2:Dina Stan:Dina_stan
@@ -639,8 +639,8 @@
 2:Grup Părtășia:Grup_partasia
 2:Ava:Ava
 2:Fratii Piu:Fratii_piu
-2:Gabi Gorcea şi prietenii:Gabi_gorcea_si_prietenii
 2:Lidia Cîrlan:Lidia_cirlan
+2:Gabi Gorcea şi prietenii:Gabi_gorcea_si_prietenii
 2:Nelu Andreşoi:Nelu_andresoi
 2:Familia Maftei:Familia_maftei
 2:Cristian Ungur:Cristian_ungur
@@ -663,8 +663,8 @@
 2:Dumitru Cornilescu:Dumitru_cornilescu
 2:Apascaritei Raul și Ciobanu Ghedo:Apascaritei_raul_si_ciobanu_ghedo
 2:Eliazar Pripon:Eliazar_pripon
-2:Naomi Borota:Naomi_borota
 2:Fraţii Cătălin:Fratii_catalin
+2:Naomi Borota:Naomi_borota
 2:Fratii de la Onesti:Fratii_de_la_onesti
 2:The Messangers:The_messangers
 2:Phil Cross:Phil_cross
@@ -741,8 +741,8 @@
 1:DeGarmo, Key Band:Degarmo_key_band
 1:VOX DEI:Vox_dei
 1:Adrian Toader:Adrian_toader
-1:Fam Petrașcu:Fam_petrascu
 1:grup ava:Grup_ava
+1:Fam Petrașcu:Fam_petrascu
 1:Dorel Filoti:Dorel_filoti
 1:Elena Istrate:Elena_istrate
 1:Imnurile Bucuriei:Imnurile_bucuriei
@@ -765,8 +765,8 @@
 1:Iasmina Severa:Iasmina_severa
 1:SF3, David Prunean:Sf_david_prunean
 1:Otto si Dana Pascal:Otto_si_dana_pascal
-1:Mihai Olaru:Mihai_olaru
 1:punctRO:Punctro
+1:Mihai Olaru:Mihai_olaru
 1:Debora Moțac:Debora_motac
 1:Teo Pălincaş:Teo_palincas
 1:Joseph Barnby:Joseph_barnby
@@ -777,8 +777,8 @@
 1:Vera Bogdan:Vera_bogdan
 1:Vertical Worship:Vertical_worship
 1:Wiliiam J. Kirkpatrik:Wiliiam_j_kirkpatrik
-1:Steve Fee:Steve_fee
 1:Jesus Culture:Jesus_culture
+1:Steve Fee:Steve_fee
 1:Crowder:Crowder
 1:Tree63:Tree
 1:Cristian Hartie:Cristian_hartie
@@ -794,8 +794,8 @@
 1:Wilhelm Hey, Friedrich Silcher:Wilhelm_hey_friedrich_silcher
 1:Daniela si Darius Bogdan:Daniela_si_darius_bogdan
 1:Monica Turtoi, cântată de Amalia Decean:Monica_turtoi_cantata_de_amalia_decean
-1:Lincoln Brewster:Lincoln_brewster
 1:Mihai Dragomir:Mihai_dragomir
+1:Lincoln Brewster:Lincoln_brewster
 1:Timothy C. Santinga:Timothy_c_santinga
 1:Keith Getty, Kristyn Getty:Keith_getty_kristyn_getty
 1:Ema si Cristi Repede:Ema_si_cristi_repede
@@ -824,8 +824,8 @@
 1:Genovieva Sfatcu Beattie:Genovieva_sfatcu_beattie
 1:F. Mendelssohn:F_mendelssohn
 1:AC, RAN:Ac_ran
-1:Geistliche Lieder, Leipzig 1539:Geistliche_lieder_leipzig
 1:Ionut si Adela Craciun:Ionut_si_adela_craciun
+1:Geistliche Lieder, Leipzig 1539:Geistliche_lieder_leipzig
 1:Gabriela Țucu:Gabriela_tucu
 1:Noël Nouvelet:No"el_nouvelet
 1:Ionut Luncan:Ionut_luncan
@@ -849,8 +849,8 @@
 1:Georg F. Händel:Georg_f_h"andel
 1:Nicoleta Grecea:Nicoleta_grecea
 1:Cătălin Matei:Catalin_matei
-1:Daniela Haidaciuc Guțu:Daniela_haidaciuc_gutu
 1:Horatio W. Parker:Horatio_w_parker
+1:Daniela Haidaciuc Guțu:Daniela_haidaciuc_gutu
 1:David Fellingham:David_fellingham
 1:Robert E. Mason:Robert_e_mason
 1:George A.Minor:George_aminor
@@ -881,8 +881,8 @@
 1:Daniel Piu:Daniel_piu
 1:N.P.:Np
 1:Valer Bogdan:Valer_bogdan
-1:Mattie O'Neal, Jim Reeves:Mattie_o'neal_jim_reeves
 1:Cantassimo, Celest Harmony:Cantassimo_celest_harmony
+1:Mattie O'Neal, Jim Reeves:Mattie_o'neal_jim_reeves
 1:Lidia Cirlan, Puiu Chibici:Lidia_cirlan_puiu_chibici
 1:Audrey Mieir:Audrey_mieir
 1:Bogdan Pertea:Bogdan_pertea
@@ -916,15 +916,15 @@
 1:Grup Victoria:Grup_victoria
 1:Grupul Victoria:Grupul_victoria
 1:Thomas Kelly:Thomas_kelly
-1:Corneliu Matei(adaptare după Jonny Robinson, Rich Thompson, Michael Farren):Corneliu_mateiadaptare_dupa_jonny_robinson_rich_thompson_michael_farren
 1:Jonny Robinson, Rich Thompson, Michael Farren:Jonny_robinson_rich_thompson_michael_farren
+1:Corneliu Matei(adaptare după Jonny Robinson, Rich Thompson, Michael Farren):Corneliu_mateiadaptare_dupa_jonny_robinson_rich_thompson_michael_farren
 1:Albert B. Simpson:Albert_b_simpson
 1:Marian Fedur:Marian_fedur
 1:Arman Ludovic, Speranţa şi prietenii:Arman_ludovic_speranta_si_prietenii
 1:Isaura Dinca ( Isaura Gheorgiu):Isaura_dinca_isaura_gheorgiu
 1:Rusu Nicolae:Rusu_nicolae
-1:Bethania's:Bethania's
 1:Naomi Borota (adaptare după Jason Ingram, Leslie Jordan, David Leonard):Naomi_borota_adaptare_dupa_jason_ingram_leslie_jordan_david_leonard
+1:Bethania's:Bethania's
 1:Grup Emanuel:Grup_emanuel
 1:Iemima Anton:Iemima_anton
 1:Eldad (Vlad Bucur):Eldad_vlad_bucur
@@ -944,9 +944,9 @@
 1:Text și muzica: Alexandru Groza:Text_si_muzica:_alexandru_groza
 1:Martin Luther:Martin_luther
 1:Aaron Shust, Paul Baloche:Aaron_shust_paul_baloche
+1:Creation House, Sergiu Drăgoi, Fiona Bocșa:Creation_house_sergiu_dragoi_fiona_bocsa
 1:Creation House:Creation_house
 1:Jenny Lou Carson:Jenny_lou_carson
-1:Creation House, Sergiu Drăgoi, Fiona Bocșa:Creation_house_sergiu_dragoi_fiona_bocsa
 1:Sorina Ureche:Sorina_ureche
 1:Raţiu Fanuel:Ratiu_fanuel
 1:Diana Scridon, Ovidiu Opris:Diana_scridon_ovidiu_opris
@@ -979,8 +979,8 @@
 1:L.D. Huffstutler:Ld_huffstutler
 1:Tani Barna:Tani_barna
 1:Benoni Catană:Benoni_catana
-1:Costache Ioanid și Saron:Costache_ioanid_si_saron
 1:David Wagner:David_wagner
+1:Costache Ioanid și Saron:Costache_ioanid_si_saron
 1:Geoge F.Handel:Geoge_fhandel
 1:Knowles Shaw:Knowles_shaw
 1:Colind italian:Colind_italian
@@ -1003,8 +1003,8 @@
 1:Kenneth Morris:Kenneth_morris
 1:Tabita Prială:Tabita_priala
 1:Anna Olander:Anna_olander
-1:Izbaș  Svetlana:Izbas_svetlana
 1:Florin Ciulin:Florin_ciulin
+1:Izbaș  Svetlana:Izbas_svetlana
 1:Rusty Goodman:Rusty_goodman
 1:Betuel:Betuel
 1:Cristian Cazacu:Cristian_cazacu
@@ -1021,8 +1021,8 @@
 1:Nicolae Moldoveeanu:Nicolae_moldoveeanu
 1:Grup Melos:Grup_melos
 1:John J.Husband:John_jhusband
-1:Howard E.Smith:Howard_esmith
 1:Muzica: Alin Timofte   Versuri: Alin Craciunean:Muzica:_alin_timofte_versuri:_alin_craciunean
+1:Howard E.Smith:Howard_esmith
 1:Cântările Evangheliei:Cantarile_evangheliei
 1:CP:Cp
 1:Valentin Popovici și Sorin Titean:Valentin_popovici_si_sorin_titean
@@ -1047,8 +1047,8 @@
 1:Katholisches Gesangboch:Katholisches_gesangboch
 1:Daniel Miclea:Daniel_miclea
 1:Paul Tcaciuc:Paul_tcaciuc
-1:Andrei Tibrea:Andrei_tibrea
 1:Matt Maher, traducere:Matt_maher_traducere
+1:Andrei Tibrea:Andrei_tibrea
 1:GRUP EMANUEL CANADA:Grup_emanuel_canada
 1:Veronica Malutan:Veronica_malutan
 1:Colind din tara motilor:Colind_din_tara_motilor
@@ -1063,8 +1063,8 @@
 1:Keith Getty, Stuart Townend:Keith_getty_stuart_townend
 1:Marius Bahica:Marius_bahica
 1:Joel Houston, Benjamin Hastings, Michael Fatkin:Joel_houston_benjamin_hastings_michael_fatkin
-1:Fiona, Admin Bocșa, Abigail Cozmiuc (adaptare după Brian Johnson and Phil Wickham):Fiona_admin_bocsa_abigail_cozmiuc_adaptare_dupa_brian_johnson_and_phil_wickham
 1:Charles Wesley:Charles_wesley
+1:Fiona, Admin Bocșa, Abigail Cozmiuc (adaptare după Brian Johnson and Phil Wickham):Fiona_admin_bocsa_abigail_cozmiuc_adaptare_dupa_brian_johnson_and_phil_wickham
 1:Steven Curtis Chapman, Chris Tomlin, Matt Redman:Steven_curtis_chapman_chris_tomlin_matt_redman
 1:Utilizator Miti Buhai:Utilizator_miti_buhai
 1:David Chiriac:David_chiriac
@@ -1093,21 +1093,21 @@
 1:Alfred Bierli:Alfred_bierli
 1:adapt. Daniel Suciu și Echipa Jubilate (original: Stuard Towened și Keith Getty):Adapt_daniel_suciu_si_echipa_jubilate_original:_stuard_towened_si_keith_getty
 1:P. Sonderhaus:P_sonderhaus
-1:A.Thomson:Athomson
 1:Andy Park:Andy_park
+1:A.Thomson:Athomson
 1:Herbert Buffum, Doc M. Shanks:Herbert_buffum_doc_m_shanks
 1:Al.Morariu:Almorariu
 1:Lăcrimioara Asandoaie:Lacrimioara_asandoaie
-1:Elisei Dafinescu:Elisei_dafinescu
 1:Emil Cuc:Emil_cuc
+1:Elisei Dafinescu:Elisei_dafinescu
 1:Sara și Naomi Pintilei:Sara_si_naomi_pintilei
 1:Lorena Castellanos, Fernando Ramos, Fredy Gomez:Lorena_castellanos_fernando_ramos_fredy_gomez
 1:Alin, Emima Timofte, Vlad Moldovan, TB Music:Alin_emima_timofte_vlad_moldovan_tb_music
 1:Jessica Pavel:Jessica_pavel
 1:Kutless:Kutless
+1:Shawna Edwards, Otto Pascal, Diana Scridon:Shawna_edwards_otto_pascal_diana_scridon
 1:Gaither Vocal Band, trad. BBSO:Gaither_vocal_band_trad_bbso
 1:John of Damascus, Henry T. Smart:John_of_damascus_henry_t_smart
-1:Shawna Edwards, Otto Pascal, Diana Scridon:Shawna_edwards_otto_pascal_diana_scridon
 1:Cornel Schipor:Cornel_schipor
 1:Daniel Reuț:Daniel_reut
 1:Andrei Ciurdas, Adonaia:Andrei_ciurdas_adonaia
@@ -1119,8 +1119,8 @@
 1:Alisa si Andreas Pop, Logos Kids:Alisa_si_andreas_pop_logos_kids
 1:Joel Raney:Joel_raney
 1:Otto Pascal (adaptare după Gloria Gaither, Mark Mathes):Otto_pascal_adaptare_dupa_gloria_gaither_mark_mathes
-1:Melodia Ted Doru Pope, Versuri Traian Dorz:Melodia_ted_doru_pope_versuri_traian_dorz
 1:Lacrimioara Deacu:Lacrimioara_deacu
+1:Melodia Ted Doru Pope, Versuri Traian Dorz:Melodia_ted_doru_pope_versuri_traian_dorz
 1:Mircea Pătruică:Mircea_patruica
 1:Simion Cubolta:Simion_cubolta
 1:LUIZA MK:Luiza_mk
@@ -1160,8 +1160,8 @@
 1:Mihai Bejinariu:Mihai_bejinariu
 1:Terry W. York:Terry_w_york
 1:Cristian Cornea:Cristian_cornea
-1:adaptare Simon Khorolskiy:Adaptare_simon_khorolskiy
 1:Thomas Rawson Taylor:Thomas_rawson_taylor
+1:adaptare Simon Khorolskiy:Adaptare_simon_khorolskiy
 1:Cornel Mihaiuc:Cornel_mihaiuc
 1:Rebeca Ilea Avram:Rebeca_ilea_avram
 1:Claudiu Lupei, Lidia Veciunca, Gabriela Preduţ:Claudiu_lupei_lidia_veciunca_gabriela_predut
@@ -1171,8 +1171,8 @@
 1:Fraţii Timofte:Fratii_timofte
 1:Familia Şofron:Familia_sofron
 1:Mioc Alina:Mioc_alina
-1:Casa Tâmplarului, Bethel Music:Casa_tamplarului_bethel_music
 1:Eliza E. Hewitt, William J. Kirkpatrick:Eliza_e_hewitt_william_j_kirkpatrick
+1:Casa Tâmplarului, Bethel Music:Casa_tamplarului_bethel_music
 1:Tabra 447:Tabra
 1:Grup Gospel:Grup_gospel
 1:Spiritual Touch:Spiritual_touch
@@ -1184,8 +1184,8 @@
 1:Ionesi Gaby:Ionesi_gaby
 1:Eliza Pantea:Eliza_pantea
 1:Brian Doerksen:Brian_doerksen
-1:Cătălin Neacșa:Catalin_neacsa
 1:Eric, Leslie Ludy:Eric_leslie_ludy
+1:Cătălin Neacșa:Catalin_neacsa
 1:Razele cerului:Razele_cerului
 1:Mihai Bejinariu, Ioana Dumitrescu:Mihai_bejinariu_ioana_dumitrescu
 1:Ronnie Hinson:Ronnie_hinson
@@ -1195,8 +1195,8 @@
 1:Jim Wilson:Jim_wilson
 1:Philip Doddridge, Georg Friedrich Händel:Philip_doddridge_georg_friedrich_h"andel
 1:Bobby Austin, Curt Sapaugh:Bobby_austin_curt_sapaugh
-1:Sanctus Church Worship:Sanctus_church_worship
 1:Ioan Evu, Teo Family:Ioan_evu_teo_family
+1:Sanctus Church Worship:Sanctus_church_worship
 1:Alin Belean:Alin_belean
 1:Alin Timofte, Otto Pascal:Alin_timofte_otto_pascal
 1:Rahela, The Band:Rahela_the_band
@@ -1210,9 +1210,9 @@
 1:Adapt. E. Drăgoiu:Adapt_e_dragoiu
 1:Biserica Baptista "Speranţa" Oradea:Biserica_baptista_"speranta"_oradea
 1:Eusebiu Baciu, Friends:Eusebiu_baciu_friends
-1:Third Day:Third_day
-1:Don Moen:Don_moen
 1:Dennis Gorcea (adaptare după Crowder, Dante Bowe):Dennis_gorcea_adaptare_dupa_crowder_dante_bowe
+1:Don Moen:Don_moen
+1:Third Day:Third_day
 1:Ernst Decker:Ernst_decker
 1:Teofil, Ligia Palincas:Teofil_ligia_palincas
 1:Relu si Tabita Niculai:Relu_si_tabita_niculai
@@ -1230,12 +1230,12 @@
 1:gordon mote:Gordon_mote
 1:ed, Dan Istrate:Ed_dan_istrate
 1:Daniel Neagu, Denys Laurenciuc:Daniel_neagu_denys_laurenciuc
-1:Ovidu Liteanu:Ovidu_liteanu
 1:Nicu Dusan:Nicu_dusan
+1:Ovidu Liteanu:Ovidu_liteanu
 1:Charles P. Jones:Charles_p_jones
 1:Gloria Gaither, Ernie Haase, Sig:Gloria_gaither_ernie_haase_sig
-1:Cristi și Emma Repede:Cristi_si_emma_repede
 1:Curtis J. Williams:Curtis_j_williams
+1:Cristi și Emma Repede:Cristi_si_emma_repede
 1:William F. Lakey, V.B. (Vep) Ellis:William_f_lakey_vb_vep_ellis
 1:Pelle Karlsson:Pelle_karlsson
 1:Patricia Pop, Vous Worship:Patricia_pop_vous_worship
@@ -1244,8 +1244,8 @@
 1:Phil Wickham, traducere Pop Marius:Phil_wickham_traducere_pop_marius
 1:Fr.Abt.:Frabt
 1:Dan Muncaciu  (Catalin si Ramona Lup):Dan_muncaciu_catalin_si_ramona_lup
-1:Lucian şi Adelina Susanu:Lucian_si_adelina_susanu
 1:Brian Littrell:Brian_littrell
+1:Lucian şi Adelina Susanu:Lucian_si_adelina_susanu
 1:Flaviu Mitar, Grupul Omega:Flaviu_mitar_grupul_omega
 1:Larry Gatlin:Larry_gatlin
 1:Biji din Barbuleati, Elvis:Biji_din_barbuleati_elvis
@@ -1255,8 +1255,8 @@
 1:Ionică, Adriana Stoica:Ionica_adriana_stoica
 1:Cecil F. Alexander, Henry J. Gauntlett:Cecil_f_alexander_henry_j_gauntlett
 1:H.J Gauntlett:Hj_gauntlett
-1:Jack Jim Elsie:Jack_jim_elsie
 1:Maranatha Singers:Maranatha_singers
+1:Jack Jim Elsie:Jack_jim_elsie
 1:Alina Poraicu și Rebeca Cojocărescu:Alina_poraicu_si_rebeca_cojocarescu
 1:Corul Bisericii Someşeni:Corul_bisericii_someseni
 1:Cornel Dărvășan:Cornel_darvasan
@@ -1265,8 +1265,8 @@
 1:Lester Flatt, Earl Scruggs:Lester_flatt_earl_scruggs
 1:Loredana Iacoban:Loredana_iacoban
 1:Iosif Muresan:Iosif_muresan
-1:Din repertoriul Armatei Salvari:Din_repertoriul_armatei_salvari
 1:Audra Czarnikow:Audra_czarnikow
+1:Din repertoriul Armatei Salvari:Din_repertoriul_armatei_salvari
 1:Henry W. Longfellow, John Baptiste Calkin:Henry_w_longfellow_john_baptiste_calkin
 1:Naomi Sturza:Naomi_sturza
 1:Daniel si Emanuela Hirtie:Daniel_si_emanuela_hirtie
@@ -1285,22 +1285,22 @@
 1:Alina Havristiuc:Alina_havristiuc
 1:Marcus M.Wells:Marcus_mwells
 1:Colin francez:Colin_francez
-1:Harvest Metanoia București:Harvest_metanoia_bucuresti
 1:Hillsong Young, Free:Hillsong_young_free
+1:Harvest Metanoia București:Harvest_metanoia_bucuresti
 1:Luther B. Bridgers:Luther_b_bridgers
 1:Edward S. Ufford:Edward_s_ufford
 1:Monica, Naomi şi Elisabeta Grab:Monica_naomi_si_elisabeta_grab
 1:Grupul Voces:Grupul_voces
 1:M.L.Hohman colind polonez:Mlhohman_colind_polonez
 1:Joseph S. Cook:Joseph_s_cook
-1:Oana Fisca, Claudia Azgur:Oana_fisca_claudia_azgur
 1:Dumitru C:Dumitru_c
+1:Oana Fisca, Claudia Azgur:Oana_fisca_claudia_azgur
 1:Căpâlna Violeta:Capalna_violeta
 1:Vasile Moisescu:Vasile_moisescu
 1:Andreea, Adi, Inge:Andreea_adi_inge
 1:Text: Corina şi Alina Bazon, Muzica: Corina Bazon:Text:_corina_si_alina_bazon_muzica:_corina_bazon
-1:Chris și Grupul Cristale:Chris_si_grupul_cristale
 1:Andrew Peterson (Chris Tomlin):Andrew_peterson_chris_tomlin
+1:Chris și Grupul Cristale:Chris_si_grupul_cristale
 1:Andreea Coroban, Friends, Firemakers:Andreea_coroban_friends_firemakers
 1:Corneliu Livanu:Corneliu_livanu
 1:Text: Iaslovăţ, Suceava:Text:_iaslovat_suceava
@@ -1319,16 +1319,16 @@
 1:Daniel Bucur:Daniel_bucur
 1:Cor copii Micalaca:Cor_copii_micalaca
 1:C.B.McAfea:Cbmcafea
-1:Robert E. Winsett:Robert_e_winsett
 1:Custură Ioana:Custura_ioana
+1:Robert E. Winsett:Robert_e_winsett
 1:Skillet:Skillet
 1:Charles Wesley, George D. Elderkin:Charles_wesley_george_d_elderkin
 1:Chris Tomlin, Carson Daniel, Jesse Reeves:Chris_tomlin_carson_daniel_jesse_reeves
 1:Rend Collective:Rend_collective
-1:Pasca Ruben:Pasca_ruben
 1:John Wimber:John_wimber
-1:Tanya Riches:Tanya_riches
+1:Pasca Ruben:Pasca_ruben
 1:Naida Hearn:Naida_hearn
+1:Tanya Riches:Tanya_riches
 1:Cartea Cărților:Cartea_cartilor
 1:Ionică Pop:Ionica_pop
 1:Otto Pascal si Emma:Otto_pascal_si_emma
@@ -1372,8 +1372,8 @@
 1:Grupul Alfa:Grupul_alfa
 1:Florin Mesaroș, BBSo ( adaptare după Ben Fielding, Brooke Ligertwood ):Florin_mesaros_bbso_adaptare_dupa_ben_fielding_brooke_ligertwood
 1:Munteanu David Emanuel:Munteanu_david_emanuel
-1:Asa Hull:Asa_hull
 1:NM, ed. Dan Istrate:Nm_ed_dan_istrate
+1:Asa Hull:Asa_hull
 1:Nikolaus Herman:Nikolaus_herman
 1:Olivier Holden:Olivier_holden
 1:Bob Gillman:Bob_gillman
@@ -1386,11 +1386,11 @@
 1:John R Sweney:John_r_sweney
 1:Nicu Clipa, Radu Dragoiu, Vali Misaras, Paul Onitiu, Dani Catana:Nicu_clipa_radu_dragoiu_vali_misaras_paul_onitiu_dani_catana
 1:Ovidiu Mitrofan:Ovidiu_mitrofan
-1:Merril T.MacPherson:Merril_tmacpherson
 1:Valeria Colojoara:Valeria_colojoara
-1:James Easter:James_easter
+1:Merril T.MacPherson:Merril_tmacpherson
 1:Mike Kinga:Mike_kinga
 1:Soli deo Gloria:Soli_deo_gloria
+1:James Easter:James_easter
 1:Maria Ferschl:Maria_ferschl
 1:Franklin E. Belden:Franklin_e_belden
 1:Emmy Köhlers:Emmy_k"ohlers
@@ -1401,8 +1401,8 @@
 1:W.J.Kirkpatrick:Wjkirkpatrick
 1:Aranjament Eugene Thomas:Aranjament_eugene_thomas
 1:Samuel Bala:Samuel_bala
-1:Geron Davis:Geron_davis
 1:Benone Rus:Benone_rus
+1:Geron Davis:Geron_davis
 1:BBSO (adaptare după Matt Crocker):Bbso_adaptare_dupa_matt_crocker
 1:Fratii Mandici:Fratii_mandici
 1:Miriam Popescu, Marius Ignat, Nelu Ciorba:Miriam_popescu_marius_ignat_nelu_ciorba
@@ -1419,8 +1419,8 @@
 1:Rut Olcean:Rut_olcean
 1:Amalia Preda:Amalia_preda
 1:Bogdan Ivan:Bogdan_ivan
-1:V.B. (Vep) Ellis:Vb_vep_ellis
 1:Rebeca Avram:Rebeca_avram
+1:V.B. (Vep) Ellis:Vb_vep_ellis
 1:Albert J. Sims:Albert_j_sims
 1:Oni Rodilă:Oni_rodila
 1:Tănase Ligia Maria:Tanase_ligia_maria
@@ -1433,8 +1433,8 @@
 1:Ștefan Irimia:Stefan_irimia
 1:Alin Timofte, Alin Jivan:Alin_timofte_alin_jivan
 1:Cor bărbătesc Watford:Cor_barbatesc_watford
-1:Sorin de la Barbulesti:Sorin_de_la_barbulesti
 1:Mina Ianovici:Mina_ianovici
+1:Sorin de la Barbulesti:Sorin_de_la_barbulesti
 1:Razvan Trentea:Razvan_trentea
 1:BethanyPraiseBand:Bethanypraiseband
 1:Sidney Cox:Sidney_cox
@@ -1447,18 +1447,18 @@
 1:Ema Hasan:Ema_hasan
 1:Copil Alexandra:Copil_alexandra
 1:James and Ursula Matchack:James_and_ursula_matchack
-1:Lucian si Simona Haga:Lucian_si_simona_haga
 1:John A.Hultman:John_ahultman
 1:Folliott S. Pierpoint, Conrad Kocher:Folliott_s_pierpoint_conrad_kocher
+1:Lucian si Simona Haga:Lucian_si_simona_haga
 1:Text: Alina Bazon, Muzica: Corina Bazon:Text:_alina_bazon_muzica:_corina_bazon
 1:Lina Sandell Berg:Lina_sandell_berg
 1:Samy si Clara Lupu:Samy_si_clara_lupu
 1:Andrew Culverwell:Andrew_culverwell
 1:familia Lăpușan:Familia_lapusan
 1:Nelu Negrușer:Nelu_negruser
-1:Iuliana Leontiuc:Iuliana_leontiuc
-1:E.S.Rice:Esrice
 1:Sharon:Sharon
+1:E.S.Rice:Esrice
+1:Iuliana Leontiuc:Iuliana_leontiuc
 1:Omega, Flavius Mitar:Omega_flavius_mitar
 1:Sora Marica:Sora_marica
 1:Andrei și Luminița Tomuța:Andrei_si_luminita_tomuta
@@ -1466,18 +1466,18 @@
 1:Magda și Dani Popescu:Magda_si_dani_popescu
 1:Benone Sinulescu:Benone_sinulescu
 1:Donnie Sumner, Dwayne Friend:Donnie_sumner_dwayne_friend
-1:Louis F. Benson:Louis_f_benson
 1:W.H.Eisele:Wheisele
+1:Louis F. Benson:Louis_f_benson
 1:Lynn Deshazo, Gary Sadler:Lynn_deshazo_gary_sadler
 1:Sever Păcean:Sever_pacean
 1:Miluta Piu:Miluta_piu
 1:Otto Pascal, Alin Timofte:Otto_pascal_alin_timofte
 1:Martin Smith, Chris Tomlin, Jesse Reeves:Martin_smith_chris_tomlin_jesse_reeves
 1:CASA WORSHIP:Casa_worship
-1:John Milton:John_milton
 1:Utu Bodea:Utu_bodea
-1:Bianca Codoban:Bianca_codoban
+1:John Milton:John_milton
 1:Gabriela Zbiera:Gabriela_zbiera
+1:Bianca Codoban:Bianca_codoban
 1:Adrian Calbajos:Adrian_calbajos
 1:Slavic Vulpe:Slavic_vulpe
 1:Harmony:Harmony
@@ -1562,13 +1562,13 @@
 1:Chris Bowater:Chris_bowater
 1:Grup Sinai:Grup_sinai
 1:Franti din Barbulesti:Franti_din_barbulesti
-1:Tony Berbece:Tony_berbece
 1:Corul de copii "Celest":Corul_de_copii_"celest"
+1:Tony Berbece:Tony_berbece
 1:Grup Domini:Grup_domini
-1:J. Edwin McConnell:J_edwin_mcconnell
 1:Tim Timmons:Tim_timmons
-1:Deo Gloria.:Deo_gloria
+1:J. Edwin McConnell:J_edwin_mcconnell
 1:Sorin  Mocanu:Sorin_mocanu
+1:Deo Gloria.:Deo_gloria
 1:ICF Worship:Icf_worship
 1:Colind din Croaţia:Colind_din_croatia
 1:Jean S. Pigott, James Mountain:Jean_s_pigott_james_mountain
@@ -1606,10 +1606,10 @@
 1:Friedrich von Spee:Friedrich_von_spee
 1:Georg Weissel:Georg_weissel
 1:Corul de tineri din Iasi:Corul_de_tineri_din_iasi
-1:Isaura Dinca:Isaura_dinca
 1:Diana Buble:Diana_buble
-1:Raze de speranță:Raze_de_speranta
+1:Isaura Dinca:Isaura_dinca
 1:Tinerii Vicov:Tinerii_vicov
+1:Raze de speranță:Raze_de_speranta
 1:Thomas A. Dorsey:Thomas_a_dorsey
 1:Ghica Valentin:Ghica_valentin
 1:Grup Amos:Grup_amos
@@ -1661,8 +1661,8 @@
 1:Adonia, Friends:Adonia_friends
 1:Colind francez:Colind_francez
 1:Mădălina Costea:Madalina_costea
-1:Cor de tineri, Reghin:Cor_de_tineri_reghin
 1:Grupul Mesaj, Diana Pup:Grupul_mesaj_diana_pup
+1:Cor de tineri, Reghin:Cor_de_tineri_reghin
 1:Alexandru Vlahuta:Alexandru_vlahuta
 1:Geo Giovani:Geo_giovani
 1:Betel Worship Cluj:Betel_worship_cluj
@@ -1691,8 +1691,8 @@
 1:Ligia Bodea şi Gabi Iluţ:Ligia_bodea_si_gabi_ilut
 1:Casting Crowns (varianta BBSO):Casting_crowns_varianta_bbso
 1:Lucy R. Fleming, J. Henry Showalter:Lucy_r_fleming_j_henry_showalter
-1:umar la umar:Umar_la_umar
 1:Aldine S. Kieffer, Benjamin C. Unseld:Aldine_s_kieffer_benjamin_c_unseld
+1:umar la umar:Umar_la_umar
 1:Bob Benson Sr., Phil Johnson:Bob_benson_sr_phil_johnson
 1:Biserica Salem Alba:Biserica_salem_alba
 1:Loredana Culea:Loredana_culea
@@ -1700,8 +1700,8 @@
 1:S.M.C.:Smc
 1:Eddie James:Eddie_james
 1:Eddie James, Bradley Knight:Eddie_james_bradley_knight
-1:Jonh B.Dykes:Jonh_bdykes
 1:trad veche:Trad_veche
+1:Jonh B.Dykes:Jonh_bdykes
 1:W. S. Marshall:W_s_marshall
 1:Diana Cosma, Mia Otiman:Diana_cosma_mia_otiman
 1:Tradus V.Popovici Melodie din Hawaii:Tradus_vpopovici_melodie_din_hawaii
@@ -1732,11 +1732,11 @@
 1:Robert Robinson, J. G. Bitthauer:Robert_robinson_j_g_bitthauer
 1:Dennis Gorcea, George Horga Jr:Dennis_gorcea_george_horga_jr
 1:John W. Vaughan:John_w_vaughan
-1:Sora Sorina:Sora_sorina
 1:Alev Caienar:Alev_caienar
+1:Sora Sorina:Sora_sorina
 1:Elena Midrigan:Elena_midrigan
-1:E X O D:E_x_o_d
 1:C.C.Williams:Ccwilliams
+1:E X O D:E_x_o_d
 1:J.Rosenmuller:Jrosenmuller
 1:Frances R. Havergal:Frances_r_havergal
 1:Luisa:Luisa
@@ -1748,12 +1748,12 @@
 1:Charles A. Tindley:Charles_a_tindley
 1:Biserica Pentricostala:Biserica_pentricostala
 1:Aaron Wilburn, Rusty, Tanya Goodman:Aaron_wilburn_rusty_tanya_goodman
-1:William Hunter, Rev. John W. Dadmun:William_hunter_rev_john_w_dadmun
 1:Cristian și Cristina Văduva:Cristian_si_cristina_vaduva
 1:Lucian Mârza:Lucian_marza
+1:William Hunter, Rev. John W. Dadmun:William_hunter_rev_john_w_dadmun
 1:Roxana Simion:Roxana_simion
-1:Traistă Mihai:Traista_mihai
 1:Philips Craig and Dean:Philips_craig_and_dean
+1:Traistă Mihai:Traista_mihai
 1:Lucian Nica:Lucian_nica
 1:TR3i, Harvest Arad:Tri_harvest_arad
 1:Paula Bîlc:Paula_bilc
@@ -1776,8 +1776,8 @@
 1:Eugenia Everson:Eugenia_everson
 1:Lorena Iftimia:Lorena_iftimia
 1:Kari Jobe, BBSO:Kari_jobe_bbso
-1:Keith, Kristyn Getty:Keith_kristyn_getty
 1:Kari Jobe, Elevation Worship:Kari_jobe_elevation_worship
+1:Keith, Kristyn Getty:Keith_kristyn_getty
 1:ed. Dan Istrate (autor: Theodulph of Orleans, circa 820 AD):Ed_dan_istrate_autor:_theodulph_of_orleans_circa_ad
 1:Lelia N.Morris:Lelia_nmorris
 1:Familia Ignat:Familia_ignat
@@ -1785,27 +1785,27 @@
 1:Gabi Miclea:Gabi_miclea
 1:Rick Vale:Rick_vale
 1:Adaptare după Graham Kendrick:Adaptare_dupa_graham_kendrick
-1:Dani Căpătan:Dani_capatan
 1:Charles E. Moody:Charles_e_moody
+1:Dani Căpătan:Dani_capatan
 1:Oprea Sebastian:Oprea_sebastian
 1:Tatiana Timiș:Tatiana_timis
 1:Dynamis:Dynamis
-1:Robin Mark:Robin_mark
 1:Marian Hreceniuc:Marian_hreceniuc
-1:J. L. Heath:J_l_heath
+1:Robin Mark:Robin_mark
 1:Victor Burachek:Victor_burachek
 1:Valentin Mierluţ:Valentin_mierlut
+1:J. L. Heath:J_l_heath
 1:Catalin Tache:Catalin_tache
 1:Sorin, Daniela Piu || Sami, Clara Lupu:Sorin_daniela_piu_//_sami_clara_lupu
 1:P.W.Bickel:Pwbickel
 1:Ira D. Sankey:Ira_d_sankey
-1:Franz Joseph Haydn:Franz_joseph_haydn
 1:Paul și Adina Iliescu:Paul_si_adina_iliescu
+1:Franz Joseph Haydn:Franz_joseph_haydn
 1:Daniel Hozan:Daniel_hozan
 1:Adi Tise:Adi_tise
 1:Studenți Poarta Cerului:Studenti_poarta_cerului
-1:Theo Pascalau:Theo_pascalau
 1:Beniamin Vidrascu:Beniamin_vidrascu
+1:Theo Pascalau:Theo_pascalau
 1:Michael Ledner:Michael_ledner
 1:Anca Şinea:Anca_sinea
 1:Joshua Aaron:Joshua_aaron
@@ -1823,18 +1823,18 @@
 1:Mircea Cugudeanu:Mircea_cugudeanu
 1:Frances R. Havergal, Samuel S. Wesley:Frances_r_havergal_samuel_s_wesley
 1:Dia Morar:Dia_morar
-1:Familia Buzulan:Familia_buzulan
 1:Ligia Marin:Ligia_marin
 1:Pr. Iosif Trifa:Pr_iosif_trifa
 1:Josiah G. Holland:Josiah_g_holland
+1:Familia Buzulan:Familia_buzulan
 1:L.Kings:Lkings
 1:Costel Bungau:Costel_bungau
 1:Collingsworth Family:Collingsworth_family
 1:Melodie Americana:Melodie_americana
 1:Daniel Preda:Daniel_preda
 1:Grupul Ahava:Grupul_ahava
-1:James, Jeff Easter:James_jeff_easter
 1:Tom Hayes:Tom_hayes
+1:James, Jeff Easter:James_jeff_easter
 1:Traian Dorz, Vasi Gherghian:Traian_dorz_vasi_gherghian
 1:Otniel:Otniel
 1:Sefora Turcin:Sefora_turcin
@@ -1844,17 +1844,17 @@
 1:F.Eckhaerdt:Feckhaerdt
 1:Halleluyah:Halleluyah
 1:Keith Getty, Krystin Getty, Graham Kendrick:Keith_getty_krystin_getty_graham_kendrick
-1:Studio Fratii Pal:Studio_fratii_pal
 1:Nahum Tate, Georg Friedrich Händel:Nahum_tate_georg_friedrich_h"andel
 1:Nahum Tate, Este's Psalter:Nahum_tate_este's_psalter
+1:Studio Fratii Pal:Studio_fratii_pal
 1:Arangament Corneliu Radulescu:Arangament_corneliu_radulescu
 1:Suflet pentru Dumnezeu:Suflet_pentru_dumnezeu
 1:Cătălin, Ramona Lup:Catalin_ramona_lup
 1:John Francis Wade:John_francis_wade
 1:KLUG's Gesangbuch:Klug's_gesangbuch
 1:John F.Wade:John_fwade
-1:Johan A.P.Schulz:Johan_apschulz
 1:Joseph Haydn:Joseph_haydn
+1:Johan A.P.Schulz:Johan_apschulz
 1:Alin si Florina Jivan, Alex Tascu:Alin_si_florina_jivan_alex_tascu
 1:Casa Tamplarului Ocna Mures:Casa_tamplarului_ocna_mures
 1:Colind din Cehia:Colind_din_cehia
@@ -1864,8 +1864,8 @@
 1:Vili Dulă:Vili_dula
 1:Grupul Betel, Dumbraveni:Grupul_betel_dumbraveni
 1:Dumitru Vasile:Dumitru_vasile
-1:Eugenia Posa(adaptare după Eugene M. Bartlett):Eugenia_posaadaptare_dupa_eugene_m_bartlett
 1:Marius Pop, Axel Serbanescu, Dinu Onea:Marius_pop_axel_serbanescu_dinu_onea
+1:Eugenia Posa(adaptare după Eugene M. Bartlett):Eugenia_posaadaptare_dupa_eugene_m_bartlett
 1:unknown:Unknown
 1:Balan Adriana Mirela:Balan_adriana_mirela
 1:Veneciuc Alberto:Veneciuc_alberto
@@ -1873,12 +1873,12 @@
 1:George Fr.Root:George_frroot
 1:Grupup Hristic:Grupup_hristic
 1:BBSO, Matt Redman:Bbso_matt_redman
-1:George F.Root:George_froot
 1:Marcel Vidican:Marcel_vidican
+1:George F.Root:George_froot
 1:Frații Sighiartău:Fratii_sighiartau
 1:Pas:Pas
-1:Alex Ciobanu, Denisa Baranai:Alex_ciobanu_denisa_baranai
 1:James H.Fillmore:James_hfillmore
+1:Alex Ciobanu, Denisa Baranai:Alex_ciobanu_denisa_baranai
 1:Cornel Sava și Mădălina Doroșcan:Cornel_sava_si_madalina_doroscan
 1:A.S.Sullivan:Assullivan
 1:Colegiul Biblic Est European:Colegiul_biblic_est_european
@@ -1887,23 +1887,23 @@
 1:Bill Harvey:Bill_harvey
 1:Jean, Claude Gianadda:Jean_claude_gianadda
 1:Ronela Utina:Ronela_utina
-1:Fernando Ortega:Fernando_ortega
 1:Harry Dixon Loes, Traducere Ro:Harry_dixon_loes_traducere_ro
+1:Fernando Ortega:Fernando_ortega
 1:Sandu Henry Ionut:Sandu_henry_ionut
-1:Alex Tascu:Alex_tascu
 1:Adoramus Quartet:Adoramus_quartet
+1:Alex Tascu:Alex_tascu
 1:Cristi Dragusin:Cristi_dragusin
-1:Charles Frederick Weigle:Charles_frederick_weigle
 1:Adi Calbajos:Adi_calbajos
+1:Charles Frederick Weigle:Charles_frederick_weigle
 1:Betania Dublin, Elevation Worship:Betania_dublin_elevation_worship
 1:Steven Furtick, Jane Williams, Matthews Ntele:Steven_furtick_jane_williams_matthews_ntele
 1:El Shaddai:El_shaddai
-1:Jesus Image Worship:Jesus_image_worship
 1:Switchfoot:Switchfoot
 1:Misty Edwards:Misty_edwards
+1:Jesus Image Worship:Jesus_image_worship
 1:David Gregor Corner:David_gregor_corner
-1:Laudă și închinare Biserica Poarta Cerului:Lauda_si_inchinare_biserica_poarta_cerului
 1:Jimmy Needham:Jimmy_needham
+1:Laudă și închinare Biserica Poarta Cerului:Lauda_si_inchinare_biserica_poarta_cerului
 1:Memfis:Memfis
 1:Iulian Avasiloaie:Iulian_avasiloaie
 1:Tabita Bobu:Tabita_bobu

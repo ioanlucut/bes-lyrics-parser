@@ -1,5 +1,5 @@
 [title]
-Domn al domnilor {author: {Anonim}, {rcId: {85062}}
+Domn al domnilor {composer: {Anonim}, {rcId: {85062}}
 
 [sequence]
 v1,c,e

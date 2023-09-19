@@ -1,5 +1,5 @@
 [title]
-Cantati zori {author: {Toma Coca}, {rcId: {99747}}
+Cantati zori {composer: {Toma Coca}, {rcId: {99747}}
 
 [sequence]
 v1,v2,v3,v4

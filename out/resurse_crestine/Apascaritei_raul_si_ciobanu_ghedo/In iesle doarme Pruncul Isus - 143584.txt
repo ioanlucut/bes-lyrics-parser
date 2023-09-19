@@ -1,5 +1,5 @@
 [title]
-In iesle doarme pruncul isus {author: {Apascaritei Raul și Ciobanu Ghedo}, {rcId: {143584}}
+In iesle doarme pruncul isus {composer: {Apascaritei Raul și Ciobanu Ghedo}, {rcId: {143584}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Doamne-n harul tau bogat {author: {Nicolae Moldoveanu}, {rcId: {191719}}
+Doamne-n harul tau bogat {composer: {Nicolae Moldoveanu}, {rcId: {191719}}
 
 [sequence]
 v1,v2,v3

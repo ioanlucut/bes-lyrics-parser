@@ -1,5 +1,5 @@
 [title]
-Eu ma culc sunt obosit {author: {Anonim}, {rcId: {74352}}
+Eu ma culc sunt obosit {composer: {Anonim}, {rcId: {74352}}
 
 [sequence]
 v1,v2,v3,v4

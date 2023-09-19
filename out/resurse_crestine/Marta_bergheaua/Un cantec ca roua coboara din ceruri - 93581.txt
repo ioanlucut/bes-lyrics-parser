@@ -1,5 +1,5 @@
 [title]
-Un cantec ca roua coboara din ceruri {author: {Marta Bergheaua}, {rcId: {93581}}
+Un cantec ca roua coboara din ceruri {composer: {Marta Bergheaua}, {rcId: {93581}}
 
 [sequence]
 v1,c,v2,c,v3,c

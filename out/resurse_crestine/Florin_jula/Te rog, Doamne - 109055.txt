@@ -1,5 +1,5 @@
 [title]
-Te rog doamne {author: {Florin Jula}, {rcId: {109055}}
+Te rog doamne {composer: {Florin Jula}, {rcId: {109055}}
 
 [sequence]
 v1,c,v2,c,v3,c

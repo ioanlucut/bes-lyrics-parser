@@ -1,5 +1,5 @@
 [title]
-Ierusalime sfant locas {author: {Nicolae Moldoveanu}, {rcId: {5738}}
+Ierusalime sfant locas {composer: {Nicolae Moldoveanu}, {rcId: {5738}}
 
 [sequence]
 v1,v2,v3,v4

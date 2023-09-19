@@ -1,5 +1,5 @@
 [title]
-Dragoste {author: {Paradis}, {rcId: {97414}}
+Dragoste {composer: {Paradis}, {rcId: {97414}}
 
 [sequence]
 v1,c,v2,c

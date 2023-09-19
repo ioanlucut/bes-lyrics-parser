@@ -1,5 +1,5 @@
 [title]
-Ne vom vedea {author: {Ilie Belciu}, {rcId: {227371}}
+Ne vom vedea {composer: {Ilie Belciu}, {rcId: {227371}}
 
 [sequence]
 v1,e,v2,e,v3,e

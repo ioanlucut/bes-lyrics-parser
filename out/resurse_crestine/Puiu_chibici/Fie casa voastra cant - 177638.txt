@@ -1,5 +1,5 @@
 [title]
-Fie casa voastra cant {author: {Puiu Chibici}, {rcId: {177638}}
+Fie casa voastra cant {composer: {Puiu Chibici}, {rcId: {177638}}
 
 [sequence]
 v1,c,v2,c,v3,c

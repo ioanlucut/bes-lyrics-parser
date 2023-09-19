@@ -1,5 +1,5 @@
 [title]
-Isus e domn {author: {Anonim}, {rcId: {1652}}
+Isus e domn {composer: {Anonim}, {rcId: {1652}}
 
 [sequence]
 v1,v2,v3

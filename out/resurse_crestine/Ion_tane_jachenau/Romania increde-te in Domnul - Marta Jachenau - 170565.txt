@@ -1,5 +1,5 @@
 [title]
-Romania increde-te in domnul / marta jachenau {author: {Ion Țane Jachenau}, {rcId: {170565}}
+Romania increde-te in domnul / marta jachenau {composer: {Ion Țane Jachenau}, {rcId: {170565}}
 
 [sequence]
 v1,c,v2,c

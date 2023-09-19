@@ -1,5 +1,5 @@
 [title]
-Este-un rau (crimson river) {author: {Mack Taunton, Traducere RO}, {rcId: {90530}}
+Este-un rau (crimson river) {composer: {Mack Taunton, Traducere RO}, {rcId: {90530}}
 
 [sequence]
 v1,c,v2,c,v3,c,s,c

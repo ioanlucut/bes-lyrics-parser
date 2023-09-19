@@ -1,5 +1,5 @@
 [title]
-Am cunoscut cararea pocaintei {author: {Aurica Murasan}, {rcId: {64689}}
+Am cunoscut cararea pocaintei {composer: {Aurica Murasan}, {rcId: {64689}}
 
 [sequence]
 v1,v2,v3,v4

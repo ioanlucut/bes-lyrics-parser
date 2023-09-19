@@ -1,5 +1,5 @@
 [title]
-Il vad in noaptea grea {author: {Nicolae Moldoveanu}, {rcId: {5476}}
+Il vad in noaptea grea {composer: {Nicolae Moldoveanu}, {rcId: {5476}}
 
 [sequence]
 v1,c,v2,c

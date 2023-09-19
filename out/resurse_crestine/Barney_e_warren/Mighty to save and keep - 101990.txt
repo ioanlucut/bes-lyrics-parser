@@ -1,5 +1,5 @@
 [title]
-Mighty to save and keep {author: {Barney E. Warren}, {rcId: {101990}}
+Mighty to save and keep {composer: {Barney E. Warren}, {rcId: {101990}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

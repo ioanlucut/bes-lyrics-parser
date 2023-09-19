@@ -1,5 +1,5 @@
 [title]
-Maria alearga dis de dimineata {author: {Alexandru Groza}, {rcId: {185015}}
+Maria alearga dis de dimineata {composer: {Alexandru Groza}, {rcId: {185015}}
 
 [sequence]
 v1,c,v2,c

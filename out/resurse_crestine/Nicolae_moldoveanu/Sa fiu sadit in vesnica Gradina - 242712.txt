@@ -1,5 +1,5 @@
 [title]
-Sa fiu sadit in vesnica gradina {author: {Nicolae Moldoveanu}, {rcId: {242712}}
+Sa fiu sadit in vesnica gradina {composer: {Nicolae Moldoveanu}, {rcId: {242712}}
 
 [sequence]
 v1,v2,v3,v4

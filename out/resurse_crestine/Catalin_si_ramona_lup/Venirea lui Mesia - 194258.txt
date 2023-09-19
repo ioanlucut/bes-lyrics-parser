@@ -1,5 +1,5 @@
 [title]
-Venirea lui mesia {author: {Cătălin și Ramona Lup}, {rcId: {194258}}
+Venirea lui mesia {composer: {Cătălin și Ramona Lup}, {rcId: {194258}}
 
 [sequence]
 v1,b,c,e

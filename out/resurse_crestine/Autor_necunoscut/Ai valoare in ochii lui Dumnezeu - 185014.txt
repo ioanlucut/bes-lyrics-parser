@@ -1,5 +1,5 @@
 [title]
-Ai valoare in ochii lui dumnezeu {author: {Anonim}, {rcId: {185014}}
+Ai valoare in ochii lui dumnezeu {composer: {Anonim}, {rcId: {185014}}
 
 [sequence]
 v1,c,v2,c,c

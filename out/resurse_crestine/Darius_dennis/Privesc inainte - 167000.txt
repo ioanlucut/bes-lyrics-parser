@@ -1,5 +1,5 @@
 [title]
-Privesc inainte {author: {Darius, Dennis}, {rcId: {167000}}
+Privesc inainte {composer: {Darius, Dennis}, {rcId: {167000}}
 
 [sequence]
 v1,c,v2,c,c

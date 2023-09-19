@@ -1,5 +1,5 @@
 [title]
-Vis de copil {author: {Frații Sighiartău}, {rcId: {224408}}
+Vis de copil {composer: {Frații Sighiartău}, {rcId: {224408}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Vorbeste doamne caci sunt rob {author: {Nicolae Moldoveanu}, {rcId: {5917}}
+Vorbeste doamne caci sunt rob {composer: {Nicolae Moldoveanu}, {rcId: {5917}}
 
 [sequence]
 v1,v2,v3,v4

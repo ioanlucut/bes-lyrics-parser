@@ -1,5 +1,5 @@
 [title]
-Mantuire am primit {author: {Anonim}, {rcId: {3972}}
+Mantuire am primit {composer: {Anonim}, {rcId: {3972}}
 
 [sequence]
 v1,v2,v3

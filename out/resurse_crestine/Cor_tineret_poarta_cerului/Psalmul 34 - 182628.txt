@@ -1,5 +1,5 @@
 [title]
-Psalmul {author: {Cor tineret Poarta Cerului}, {rcId: {182628}}
+Psalmul {composer: {Cor tineret Poarta Cerului}, {rcId: {182628}}
 
 [sequence]
 v1,b,c,v2,c,c,e

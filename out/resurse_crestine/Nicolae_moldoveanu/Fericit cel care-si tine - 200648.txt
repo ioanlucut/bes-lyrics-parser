@@ -1,5 +1,5 @@
 [title]
-Fericit cel care-si tine {author: {Nicolae Moldoveanu}, {rcId: {200648}}
+Fericit cel care-si tine {composer: {Nicolae Moldoveanu}, {rcId: {200648}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

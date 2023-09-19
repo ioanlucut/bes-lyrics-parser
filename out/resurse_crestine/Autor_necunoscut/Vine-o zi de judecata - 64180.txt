@@ -1,5 +1,5 @@
 [title]
-Vine-o zi de judecata {author: {Anonim}, {rcId: {64180}}
+Vine-o zi de judecata {composer: {Anonim}, {rcId: {64180}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,c4

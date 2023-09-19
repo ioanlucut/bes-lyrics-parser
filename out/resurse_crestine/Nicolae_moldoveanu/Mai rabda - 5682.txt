@@ -1,5 +1,5 @@
 [title]
-Mai rabda {author: {Nicolae Moldoveanu}, {rcId: {5682}}
+Mai rabda {composer: {Nicolae Moldoveanu}, {rcId: {5682}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

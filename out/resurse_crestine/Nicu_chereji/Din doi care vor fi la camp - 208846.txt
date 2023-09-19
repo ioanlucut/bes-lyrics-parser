@@ -1,5 +1,5 @@
 [title]
-Din doi care vor fi la camp {author: {Nicu Chereji}, {rcId: {208846}}
+Din doi care vor fi la camp {composer: {Nicu Chereji}, {rcId: {208846}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

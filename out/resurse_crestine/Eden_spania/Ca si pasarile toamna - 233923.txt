@@ -1,5 +1,5 @@
 [title]
-Ca si pasarile toamna {author: {Eden Spania}, {rcId: {233923}}
+Ca si pasarile toamna {composer: {Eden Spania}, {rcId: {233923}}
 
 [sequence]
 v1,c,v2,c,v3,c

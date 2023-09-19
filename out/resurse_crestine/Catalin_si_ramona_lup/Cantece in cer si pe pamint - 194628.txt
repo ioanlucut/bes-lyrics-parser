@@ -1,5 +1,5 @@
 [title]
-Cantece in cer si pe pamint {author: {Cătălin și Ramona Lup}, {rcId: {194628}}
+Cantece in cer si pe pamint {composer: {Cătălin și Ramona Lup}, {rcId: {194628}}
 
 [sequence]
 v1,v2,b,v3

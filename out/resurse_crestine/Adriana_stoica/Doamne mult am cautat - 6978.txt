@@ -1,5 +1,5 @@
 [title]
-Doamne mult am cautat {author: {Adriana Stoica}, {rcId: {6978}}
+Doamne mult am cautat {composer: {Adriana Stoica}, {rcId: {6978}}
 
 [sequence]
 v1,c,v2,c,v3,c

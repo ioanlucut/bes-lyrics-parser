@@ -1,5 +1,5 @@
 [title]
-Numele tau e minunat {author: {Speranța}, {rcId: {238092}}
+Numele tau e minunat {composer: {Speranța}, {rcId: {238092}}
 
 [sequence]
 v1,c,v2,c

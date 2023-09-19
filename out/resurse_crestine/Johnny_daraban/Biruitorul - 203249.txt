@@ -1,5 +1,5 @@
 [title]
-Biruitorul {author: {Johnny Daraban}, {rcId: {203249}}
+Biruitorul {composer: {Johnny Daraban}, {rcId: {203249}}
 
 [sequence]
 v1,c,v2,c2,e

@@ -1,5 +1,5 @@
 [title]
-Doamne lumea e-nvrajbita {author: {Nicolae Moldoveanu}, {rcId: {244547}}
+Doamne lumea e-nvrajbita {composer: {Nicolae Moldoveanu}, {rcId: {244547}}
 
 [sequence]
 v1,v2,v3,v4

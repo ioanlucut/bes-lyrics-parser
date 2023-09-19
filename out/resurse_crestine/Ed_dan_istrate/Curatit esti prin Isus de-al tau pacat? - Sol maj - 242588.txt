@@ -1,5 +1,5 @@
 [title]
-Curatit esti prin isus de-al tau pacat? - sol maj {author: {ed. Dan Istrate}, {rcId: {242588}}
+Curatit esti prin isus de-al tau pacat? - sol maj {composer: {ed. Dan Istrate}, {rcId: {242588}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

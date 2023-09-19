@@ -1,5 +1,5 @@
 [title]
-Esti dumnezeu {author: {Anonim}, {rcId: {6680}}
+Esti dumnezeu {composer: {Anonim}, {rcId: {6680}}
 
 [sequence]
 v1,c,v2,c

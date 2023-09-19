@@ -1,5 +1,5 @@
 [title]
-Bunatatea si credinciosia {author: {Raluca și Raul Ursan}, {rcId: {78931}}
+Bunatatea si credinciosia {composer: {Raluca și Raul Ursan}, {rcId: {78931}}
 
 [sequence]
 v1,c,v2,c,v3,c

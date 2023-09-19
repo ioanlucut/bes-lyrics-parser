@@ -1,5 +1,5 @@
 [title]
-Pe muntele credintei {author: {Nicolae Moldoveanu}, {rcId: {4045}}
+Pe muntele credintei {composer: {Nicolae Moldoveanu}, {rcId: {4045}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

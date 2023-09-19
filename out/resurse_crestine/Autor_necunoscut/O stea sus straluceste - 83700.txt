@@ -1,5 +1,5 @@
 [title]
-O stea sus straluceste {author: {Anonim}, {rcId: {83700}}
+O stea sus straluceste {composer: {Anonim}, {rcId: {83700}}
 
 [sequence]
 v1,c,v2,c,v3,c

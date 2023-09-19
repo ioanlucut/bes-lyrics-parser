@@ -1,5 +1,5 @@
 [title]
-Magi ce alergati pe cale (medrcy 'swiata) {author: {Colind din Polonia, Traducere RO}, {rcId: {206214}}
+Magi ce alergati pe cale (medrcy 'swiata) {composer: {Colind din Polonia, Traducere RO}, {rcId: {206214}}
 
 [sequence]
 v1,v2,v3

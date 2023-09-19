@@ -1,5 +1,5 @@
 [title]
-Tot ce am aici pe-acest pamant {author: {Frații Strugariu}, {rcId: {184023}}
+Tot ce am aici pe-acest pamant {composer: {Frații Strugariu}, {rcId: {184023}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

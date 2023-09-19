@@ -1,5 +1,5 @@
 [title]
-Eu stiu ca el va fi mereu cu mine {author: {Mioc Alina}, {rcId: {199502}}
+Eu stiu ca el va fi mereu cu mine {composer: {Mioc Alina}, {rcId: {199502}}
 
 [sequence]
 c,v1,c

@@ -1,5 +1,5 @@
 [title]
-Am o mama scumpa {author: {Anonim}, {rcId: {213149}}
+Am o mama scumpa {composer: {Anonim}, {rcId: {213149}}
 
 [sequence]
 v1,c,v2,c,v3,c

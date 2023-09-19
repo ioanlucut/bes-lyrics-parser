@@ -1,5 +1,5 @@
 [title]
-Sa spunem tuturor {author: {Revers}, {rcId: {143033}}
+Sa spunem tuturor {composer: {Revers}, {rcId: {143033}}
 
 [sequence]
 v1,v2,e

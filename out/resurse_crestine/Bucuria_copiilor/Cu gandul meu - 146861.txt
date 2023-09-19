@@ -1,5 +1,5 @@
 [title]
-Cu gandul meu {author: {Bucuria copiilor}, {rcId: {146861}}
+Cu gandul meu {composer: {Bucuria copiilor}, {rcId: {146861}}
 
 [sequence]
 v1,v2,c

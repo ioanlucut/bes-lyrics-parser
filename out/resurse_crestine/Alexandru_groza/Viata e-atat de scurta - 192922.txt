@@ -1,5 +1,5 @@
 [title]
-Viata e-atat de scurta {author: {Alexandru Groza}, {rcId: {192922}}
+Viata e-atat de scurta {composer: {Alexandru Groza}, {rcId: {192922}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

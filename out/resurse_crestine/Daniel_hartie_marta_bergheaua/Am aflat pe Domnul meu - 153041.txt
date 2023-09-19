@@ -1,5 +1,5 @@
 [title]
-Am aflat pe domnul meu {author: {Daniel Hartie, Marta Bergheaua}, {rcId: {153041}}
+Am aflat pe domnul meu {composer: {Daniel Hartie, Marta Bergheaua}, {rcId: {153041}}
 
 [sequence]
 v1,c,v2,c,v3,c

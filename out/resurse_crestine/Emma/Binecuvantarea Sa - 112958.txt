@@ -1,5 +1,5 @@
 [title]
-Binecuvantarea sa {author: {Emma}, {rcId: {112958}}
+Binecuvantarea sa {composer: {Emma}, {rcId: {112958}}
 
 [sequence]
 v1,v2,c,v3,c

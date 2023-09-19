@@ -1,5 +1,5 @@
 [title]
-Simt iubirea ta {author: {Alin și Florina Jivan}, {rcId: {104965}}
+Simt iubirea ta {composer: {Alin și Florina Jivan}, {rcId: {104965}}
 
 [sequence]
 v1,c

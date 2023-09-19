@@ -1,5 +1,5 @@
 [title]
-Tu domnesti in mijlocul laudelor noastre (psalmul ) {author: {Betania Dublin}, {rcId: {229854}}
+Tu domnesti in mijlocul laudelor noastre (psalmul ) {composer: {Betania Dublin}, {rcId: {229854}}
 
 [sequence]
 v1,c,v2,c,e

@@ -1,5 +1,5 @@
 [title]
-De ani de zile la craciun {author: {Dan Daraban}, {rcId: {75275}}
+De ani de zile la craciun {composer: {Dan Daraban}, {rcId: {75275}}
 
 [sequence]
 v1,c,v2,c2

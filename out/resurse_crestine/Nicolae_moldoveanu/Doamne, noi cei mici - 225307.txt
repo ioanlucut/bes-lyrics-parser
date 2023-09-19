@@ -1,5 +1,5 @@
 [title]
-Doamne noi cei mici {author: {Nicolae Moldoveanu}, {rcId: {225307}}
+Doamne noi cei mici {composer: {Nicolae Moldoveanu}, {rcId: {225307}}
 
 [sequence]
 v1,v2

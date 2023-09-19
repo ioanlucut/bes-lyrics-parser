@@ -1,5 +1,5 @@
 [title]
-Azi e sarbatoare sufletul imi canta {author: {Anonim}, {rcId: {74618}}
+Azi e sarbatoare sufletul imi canta {composer: {Anonim}, {rcId: {74618}}
 
 [sequence]
 v1,c,v2,c,v3,c

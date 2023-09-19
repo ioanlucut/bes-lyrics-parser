@@ -1,5 +1,5 @@
 [title]
-Toate poverile {author: {Anonim}, {rcId: {5230}}
+Toate poverile {composer: {Anonim}, {rcId: {5230}}
 
 [sequence]
 v1,v2,v3

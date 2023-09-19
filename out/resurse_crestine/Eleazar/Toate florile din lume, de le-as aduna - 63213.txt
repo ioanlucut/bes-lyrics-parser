@@ -1,5 +1,5 @@
 [title]
-Toate florile din lume de le-as aduna {author: {Eleazar}, {rcId: {63213}}
+Toate florile din lume de le-as aduna {composer: {Eleazar}, {rcId: {63213}}
 
 [sequence]
 v1,c,v2,c,v3,c

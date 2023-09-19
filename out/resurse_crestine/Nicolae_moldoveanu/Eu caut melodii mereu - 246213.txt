@@ -1,5 +1,5 @@
 [title]
-Eu caut melodii mereu {author: {Nicolae Moldoveanu}, {rcId: {246213}}
+Eu caut melodii mereu {composer: {Nicolae Moldoveanu}, {rcId: {246213}}
 
 [sequence]
 v1,v2,v3,v4,v5

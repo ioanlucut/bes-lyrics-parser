@@ -1,5 +1,5 @@
 [title]
-Cand va veni isuse dulce {author: {Nicolae Moldoveanu}, {rcId: {204013}}
+Cand va veni isuse dulce {composer: {Nicolae Moldoveanu}, {rcId: {204013}}
 
 [sequence]
 v1,v2,v3,v4,v5

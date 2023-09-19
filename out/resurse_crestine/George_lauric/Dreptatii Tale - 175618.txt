@@ -1,5 +1,5 @@
 [title]
-Dreptatii tale {author: {George Lauric}, {rcId: {175618}}
+Dreptatii tale {composer: {George Lauric}, {rcId: {175618}}
 
 [sequence]
 v1,v2,v3,v4,v5

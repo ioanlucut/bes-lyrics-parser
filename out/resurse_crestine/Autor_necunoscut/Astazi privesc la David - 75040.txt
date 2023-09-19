@@ -1,5 +1,5 @@
 [title]
-Astazi privesc la david {author: {Anonim}, {rcId: {75040}}
+Astazi privesc la david {composer: {Anonim}, {rcId: {75040}}
 
 [sequence]
 v1,v2,v3,v4

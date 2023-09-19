@@ -1,5 +1,5 @@
 [title]
-Cum poti sa fii multumitor in toate {author: {Nicu Chereji}, {rcId: {208822}}
+Cum poti sa fii multumitor in toate {composer: {Nicu Chereji}, {rcId: {208822}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

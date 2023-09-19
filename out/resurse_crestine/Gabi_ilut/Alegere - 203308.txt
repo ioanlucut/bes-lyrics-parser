@@ -1,5 +1,5 @@
 [title]
-Alegere {author: {Gabi Ilut}, {rcId: {203308}}
+Alegere {composer: {Gabi Ilut}, {rcId: {203308}}
 
 [sequence]
 v1,c,v2,c,v3,c

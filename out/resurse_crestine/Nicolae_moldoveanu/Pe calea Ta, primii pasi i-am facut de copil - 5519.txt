@@ -1,5 +1,5 @@
 [title]
-Pe calea ta primii pasi i-am facut de copil {author: {Nicolae Moldoveanu}, {rcId: {5519}}
+Pe calea ta primii pasi i-am facut de copil {composer: {Nicolae Moldoveanu}, {rcId: {5519}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Ostenit de alergare {author: {Nicolae Moldoveanu}, {rcId: {5702}}
+Ostenit de alergare {composer: {Nicolae Moldoveanu}, {rcId: {5702}}
 
 [sequence]
 v1,c,v2,c,v3,c2

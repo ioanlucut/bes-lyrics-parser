@@ -1,5 +1,5 @@
 [title]
-In smerenie te-ai nascut domnul meu {author: {Gavris Marius}, {rcId: {186027}}
+In smerenie te-ai nascut domnul meu {composer: {Gavris Marius}, {rcId: {186027}}
 
 [sequence]
 v1,c,v2,c,v3,c

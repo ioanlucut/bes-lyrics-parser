@@ -1,5 +1,5 @@
 [title]
-Din pilda cu bogatul si lazar cel sarman {author: {Alexandru Groza}, {rcId: {185710}}
+Din pilda cu bogatul si lazar cel sarman {composer: {Alexandru Groza}, {rcId: {185710}}
 
 [sequence]
 v1,c,v2,c

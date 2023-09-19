@@ -1,5 +1,5 @@
 [title]
-Stau si ma-ntreb daca eu sunt lumina {author: {Alexandru Groza}, {rcId: {155852}}
+Stau si ma-ntreb daca eu sunt lumina {composer: {Alexandru Groza}, {rcId: {155852}}
 
 [sequence]
 v1,c,v2,c,v3,c

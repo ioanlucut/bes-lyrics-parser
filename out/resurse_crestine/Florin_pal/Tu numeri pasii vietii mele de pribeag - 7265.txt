@@ -1,5 +1,5 @@
 [title]
-Tu numeri pasii vietii mele de pribeag {author: {Florin Pal}, {rcId: {7265}}
+Tu numeri pasii vietii mele de pribeag {composer: {Florin Pal}, {rcId: {7265}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Numele lui {author: {Speranța}, {rcId: {78476}}
+Numele lui {composer: {Speranța}, {rcId: {78476}}
 
 [sequence]
 v1,c,v2,c

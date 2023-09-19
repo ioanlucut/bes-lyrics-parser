@@ -1,5 +1,5 @@
 [title]
-De-aceea te laud {author: {Mirela Ursulescu}, {rcId: {71795}}
+De-aceea te laud {composer: {Mirela Ursulescu}, {rcId: {71795}}
 
 [sequence]
 v1,c,v2,c,v3,c2

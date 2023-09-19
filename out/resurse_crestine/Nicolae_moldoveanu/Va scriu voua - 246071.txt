@@ -1,5 +1,5 @@
 [title]
-Va scriu voua {author: {Nicolae Moldoveanu}, {rcId: {246071}}
+Va scriu voua {composer: {Nicolae Moldoveanu}, {rcId: {246071}}
 
 [sequence]
 v1,v2,v3

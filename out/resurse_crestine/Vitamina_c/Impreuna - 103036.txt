@@ -1,5 +1,5 @@
 [title]
-Impreuna {author: {Vitamina C}, {rcId: {103036}}
+Impreuna {composer: {Vitamina C}, {rcId: {103036}}
 
 [sequence]
 v1,c,v2,c,e

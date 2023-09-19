@@ -1,5 +1,5 @@
 [title]
-Anii trec ca norii; perii-ncaruntesc {author: {Nicolae Moldoveanu}, {rcId: {5543}}
+Anii trec ca norii; perii-ncaruntesc {composer: {Nicolae Moldoveanu}, {rcId: {5543}}
 
 [sequence]
 v1,v2,v3,v4,v5

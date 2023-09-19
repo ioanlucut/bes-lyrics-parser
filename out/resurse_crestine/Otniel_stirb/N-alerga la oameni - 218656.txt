@@ -1,5 +1,5 @@
 [title]
-N-alerga la oameni {author: {Otniel Stirb}, {rcId: {218656}}
+N-alerga la oameni {composer: {Otniel Stirb}, {rcId: {218656}}
 
 [sequence]
 v1,v2,v3,v4

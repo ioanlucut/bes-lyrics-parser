@@ -1,5 +1,5 @@
 [title]
-Spre tine doamne indrept azi glasul {author: {Nicu Wagner}, {rcId: {6502}}
+Spre tine doamne indrept azi glasul {composer: {Nicu Wagner}, {rcId: {6502}}
 
 [sequence]
 v1,c,v2,c,v3,c

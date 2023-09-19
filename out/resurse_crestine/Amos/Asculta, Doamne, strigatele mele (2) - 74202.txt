@@ -1,5 +1,5 @@
 [title]
-Asculta doamne strigatele mele () {author: {amos7}, {rcId: {74202}}
+Asculta doamne strigatele mele () {composer: {amos7}, {rcId: {74202}}
 
 [sequence]
 v1,c,v2,c,v3,c

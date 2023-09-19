@@ -1,5 +1,5 @@
 [title]
-La fantana celui viu {author: {Puiu și Beni Chibici}, {rcId: {188171}}
+La fantana celui viu {composer: {Puiu și Beni Chibici}, {rcId: {188171}}
 
 [sequence]
 v1,c,v2,c

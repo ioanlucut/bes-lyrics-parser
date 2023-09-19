@@ -1,5 +1,5 @@
 [title]
-Doi parinti alearga-n noapte {author: {Anonim}, {rcId: {1580}}
+Doi parinti alearga-n noapte {composer: {Anonim}, {rcId: {1580}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

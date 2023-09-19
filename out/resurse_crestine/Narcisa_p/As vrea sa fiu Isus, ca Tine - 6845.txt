@@ -1,5 +1,5 @@
 [title]
-As vrea sa fiu isus ca tine {author: {Narcisa P.}, {rcId: {6845}}
+As vrea sa fiu isus ca tine {composer: {Narcisa P.}, {rcId: {6845}}
 
 [sequence]
 v1,c,v2,c

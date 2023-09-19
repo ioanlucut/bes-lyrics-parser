@@ -1,5 +1,5 @@
 [title]
-Golgota loc de durere {author: {Puiu Chibici}, {rcId: {5475}}
+Golgota loc de durere {composer: {Puiu Chibici}, {rcId: {5475}}
 
 [sequence]
 v1,v2,v3

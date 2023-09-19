@@ -1,5 +1,5 @@
 [title]
-Nu te teme nu {author: {Daniel Cristian}, {rcId: {116060}}
+Nu te teme nu {composer: {Daniel Cristian}, {rcId: {116060}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

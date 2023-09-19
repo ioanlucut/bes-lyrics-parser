@@ -1,5 +1,5 @@
 [title]
-Ce-ngusta e calea {author: {Nicolae Moldoveanu}, {rcId: {246282}}
+Ce-ngusta e calea {composer: {Nicolae Moldoveanu}, {rcId: {246282}}
 
 [sequence]
 v1,v2,v3,v4

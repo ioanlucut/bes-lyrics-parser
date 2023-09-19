@@ -1,5 +1,5 @@
 [title]
-Si ce-ar fi daca {author: {Rafael Dragomir}, {rcId: {151569}}
+Si ce-ar fi daca {composer: {Rafael Dragomir}, {rcId: {151569}}
 
 [sequence]
 v1,c,v2,c,v3,c

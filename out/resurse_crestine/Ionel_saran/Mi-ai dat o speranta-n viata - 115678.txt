@@ -1,5 +1,5 @@
 [title]
-Mi-ai dat o speranta-n viata {author: {Ionel Saran}, {rcId: {115678}}
+Mi-ai dat o speranta-n viata {composer: {Ionel Saran}, {rcId: {115678}}
 
 [sequence]
 v1,c,v2,c,v3,c

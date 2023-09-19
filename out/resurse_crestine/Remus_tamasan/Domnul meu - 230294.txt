@@ -1,5 +1,5 @@
 [title]
-Domnul meu {author: {Remus Tămășan}, {rcId: {230294}}
+Domnul meu {composer: {Remus Tămășan}, {rcId: {230294}}
 
 [sequence]
 v1,c,v2,c,e

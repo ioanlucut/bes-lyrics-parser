@@ -1,5 +1,5 @@
 [title]
-Ai deschis cerul tau {author: {Erdei Erika}, {rcId: {66236}}
+Ai deschis cerul tau {composer: {Erdei Erika}, {rcId: {66236}}
 
 [sequence]
 v1,c

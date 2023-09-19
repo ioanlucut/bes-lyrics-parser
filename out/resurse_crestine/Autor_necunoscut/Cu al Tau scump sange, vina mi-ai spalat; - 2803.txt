@@ -1,5 +1,5 @@
 [title]
-Cu al tau scump sange vina mi-ai spalat; {author: {Anonim}, {rcId: {2803}}
+Cu al tau scump sange vina mi-ai spalat; {composer: {Anonim}, {rcId: {2803}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

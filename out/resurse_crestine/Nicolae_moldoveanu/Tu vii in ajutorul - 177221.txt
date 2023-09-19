@@ -1,5 +1,5 @@
 [title]
-Tu vii in ajutorul {author: {Nicolae Moldoveanu}, {rcId: {177221}}
+Tu vii in ajutorul {composer: {Nicolae Moldoveanu}, {rcId: {177221}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Chemati prin cantari bucuria {author: {Anonim}, {rcId: {2161}}
+Chemati prin cantari bucuria {composer: {Anonim}, {rcId: {2161}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

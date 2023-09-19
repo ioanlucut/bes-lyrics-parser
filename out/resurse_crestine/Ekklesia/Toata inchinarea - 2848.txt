@@ -1,5 +1,5 @@
 [title]
-Toata inchinarea {author: {Ekklesia}, {rcId: {2848}}
+Toata inchinarea {composer: {Ekklesia}, {rcId: {2848}}
 
 [sequence]
 v1,c,v2,c,e

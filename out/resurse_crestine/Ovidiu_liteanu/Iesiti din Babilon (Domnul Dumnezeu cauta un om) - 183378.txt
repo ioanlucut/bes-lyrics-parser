@@ -1,5 +1,5 @@
 [title]
-Iesiti din babilon (domnul dumnezeu cauta un om) {author: {Ovidiu Liteanu}, {rcId: {183378}}
+Iesiti din babilon (domnul dumnezeu cauta un om) {composer: {Ovidiu Liteanu}, {rcId: {183378}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

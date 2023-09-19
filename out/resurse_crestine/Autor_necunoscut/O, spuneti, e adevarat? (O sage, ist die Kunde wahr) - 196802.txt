@@ -1,5 +1,5 @@
 [title]
-O spuneti e adevarat? (o sage ist die kunde wahr) {author: {Anonim, Traducere RO}, {rcId: {196802}}
+O spuneti e adevarat? (o sage ist die kunde wahr) {composer: {Anonim, Traducere RO}, {rcId: {196802}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,s,c

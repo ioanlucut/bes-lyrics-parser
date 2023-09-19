@@ -1,5 +1,5 @@
 [title]
-O doamne da-mi mereu iubirea {author: {Nicolae Moldoveanu}, {rcId: {242563}}
+O doamne da-mi mereu iubirea {composer: {Nicolae Moldoveanu}, {rcId: {242563}}
 
 [sequence]
 v1,v2,v3,v4

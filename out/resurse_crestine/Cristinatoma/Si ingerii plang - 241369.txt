@@ -1,5 +1,5 @@
 [title]
-Si ingerii plang {author: {Cristina_Toma}, {rcId: {241369}}
+Si ingerii plang {composer: {Cristina_Toma}, {rcId: {241369}}
 
 [sequence]
 v1,c,v2,c

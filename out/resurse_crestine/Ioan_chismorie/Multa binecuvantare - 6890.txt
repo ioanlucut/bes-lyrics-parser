@@ -1,5 +1,5 @@
 [title]
-Multa binecuvantare {author: {Ioan Chismorie}, {rcId: {6890}}
+Multa binecuvantare {composer: {Ioan Chismorie}, {rcId: {6890}}
 
 [sequence]
 v1,b,c,v2,c

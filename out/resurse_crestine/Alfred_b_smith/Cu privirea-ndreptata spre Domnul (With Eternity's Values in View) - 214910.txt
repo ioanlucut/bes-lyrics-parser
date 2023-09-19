@@ -1,5 +1,5 @@
 [title]
-Cu privirea-ndreptata spre domnul (with eternity s values in view) {author: {Alfred B. Smith, Traducere RO}, {rcId: {214910}}
+Cu privirea-ndreptata spre domnul (with eternity s values in view) {composer: {Alfred B. Smith, Traducere RO}, {rcId: {214910}}
 
 [sequence]
 v1,v2

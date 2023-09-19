@@ -1,5 +1,5 @@
 [title]
-Unde esti unde esti ? {author: {Marian Zamfir}, {rcId: {112107}}
+Unde esti unde esti ? {composer: {Marian Zamfir}, {rcId: {112107}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

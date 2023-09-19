@@ -1,5 +1,5 @@
 [title]
-De ce ? {author: {Carmen Prodan}, {rcId: {158624}}
+De ce ? {composer: {Carmen Prodan}, {rcId: {158624}}
 
 [sequence]
 v1,c,v2,c,v3,c

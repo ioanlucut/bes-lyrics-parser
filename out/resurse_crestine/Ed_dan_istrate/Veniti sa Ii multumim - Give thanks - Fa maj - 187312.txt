@@ -1,5 +1,5 @@
 [title]
-Veniti sa ii multumim - give thanks - fa maj {author: {ed. Dan Istrate}, {rcId: {187312}}
+Veniti sa ii multumim - give thanks - fa maj {composer: {ed. Dan Istrate}, {rcId: {187312}}
 
 [sequence]
 v1,v2,v3,v4

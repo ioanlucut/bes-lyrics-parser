@@ -1,5 +1,5 @@
 [title]
-O nu inteleg {author: {Anonim}, {rcId: {4409}}
+O nu inteleg {composer: {Anonim}, {rcId: {4409}}
 
 [sequence]
 v1,c

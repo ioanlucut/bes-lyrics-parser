@@ -1,5 +1,5 @@
 [title]
-Vreau sa fiu ca tine {author: {Utilizator Moldovan Florin}, {rcId: {2542}}
+Vreau sa fiu ca tine {composer: {Utilizator Moldovan Florin}, {rcId: {2542}}
 
 [sequence]
 v1,c,v2,c

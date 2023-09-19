@@ -1,5 +1,5 @@
 [title]
-Pe baricadele credintei {author: {Autor necunoscut}, {rcId: {225790}}
+Pe baricadele credintei {composer: {Autor necunoscut}, {rcId: {225790}}
 
 [sequence]
 v1,c,v2,c,v3,c

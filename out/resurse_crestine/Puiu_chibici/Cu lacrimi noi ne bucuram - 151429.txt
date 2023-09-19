@@ -1,5 +1,5 @@
 [title]
-Cu lacrimi noi ne bucuram {author: {Puiu Chibici}, {rcId: {151429}}
+Cu lacrimi noi ne bucuram {composer: {Puiu Chibici}, {rcId: {151429}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

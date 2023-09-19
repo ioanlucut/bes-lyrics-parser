@@ -1,5 +1,5 @@
 [title]
-Cheama-ma in ziua de necaz {author: {Speranța}, {rcId: {74535}}
+Cheama-ma in ziua de necaz {composer: {Speranța}, {rcId: {74535}}
 
 [sequence]
 v1,c,v2,c,v3,c

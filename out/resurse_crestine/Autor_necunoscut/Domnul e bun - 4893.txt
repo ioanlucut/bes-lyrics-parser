@@ -1,5 +1,5 @@
 [title]
-Domnul e bun {author: {Anonim}, {rcId: {4893}}
+Domnul e bun {composer: {Anonim}, {rcId: {4893}}
 
 [sequence]
 v1,v2,v3

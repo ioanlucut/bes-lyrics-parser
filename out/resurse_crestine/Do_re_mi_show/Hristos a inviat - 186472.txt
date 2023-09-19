@@ -1,5 +1,5 @@
 [title]
-Hristos a inviat {author: {Do Re Mi Show}, {rcId: {186472}}
+Hristos a inviat {composer: {Do Re Mi Show}, {rcId: {186472}}
 
 [sequence]
 v1,c,v2,c2

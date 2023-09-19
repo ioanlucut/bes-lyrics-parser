@@ -1,5 +1,5 @@
 [title]
-Valuri de-ndurare {author: {Alexandru Groza}, {rcId: {190987}}
+Valuri de-ndurare {composer: {Alexandru Groza}, {rcId: {190987}}
 
 [sequence]
 v1,c,v2,c2

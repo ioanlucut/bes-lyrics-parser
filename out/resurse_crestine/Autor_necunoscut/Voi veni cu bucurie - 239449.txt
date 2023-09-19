@@ -1,5 +1,5 @@
 [title]
-Voi veni cu bucurie {author: {Autor necunoscut}, {rcId: {239449}}
+Voi veni cu bucurie {composer: {Autor necunoscut}, {rcId: {239449}}
 
 [sequence]
 v1,v2,v3,v4

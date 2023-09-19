@@ -1,5 +1,5 @@
 [title]
-O noapte preasfintita {author: {Anonim}, {rcId: {5026}}
+O noapte preasfintita {composer: {Anonim}, {rcId: {5026}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Si de-ar fi sa treaca totul de pe lume {author: {Ionel Saran Bochis}, {rcId: {111136}}
+Si de-ar fi sa treaca totul de pe lume {composer: {Ionel Saran Bochis}, {rcId: {111136}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

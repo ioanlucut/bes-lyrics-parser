@@ -1,5 +1,5 @@
 [title]
-Chiar daca norii vin {author: {Irina Radiș}, {rcId: {109500}}
+Chiar daca norii vin {composer: {Irina Radiș}, {rcId: {109500}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Rege-al regilor {author: {Speranța}, {rcId: {4209}}
+Rege-al regilor {composer: {Speranța}, {rcId: {4209}}
 
 [sequence]
 v1,c

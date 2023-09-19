@@ -1,5 +1,5 @@
 [title]
-Inteleptul si nebunul {author: {Anonim}, {rcId: {5164}}
+Inteleptul si nebunul {composer: {Anonim}, {rcId: {5164}}
 
 [sequence]
 v1,v2,v3,v4,v5

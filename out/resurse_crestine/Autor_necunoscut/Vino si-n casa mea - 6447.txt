@@ -1,5 +1,5 @@
 [title]
-Vino si-n casa mea {author: {Anonim}, {rcId: {6447}}
+Vino si-n casa mea {composer: {Anonim}, {rcId: {6447}}
 
 [sequence]
 c,v1,v2,v3,v4,c2

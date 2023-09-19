@@ -1,5 +1,5 @@
 [title]
-Glorie tie celui ce ai inviat {author: {Leleu Niculae}, {rcId: {75264}}
+Glorie tie celui ce ai inviat {composer: {Leleu Niculae}, {rcId: {75264}}
 
 [sequence]
 v1,c,v2,c,v3,c

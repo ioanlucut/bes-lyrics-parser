@@ -1,5 +1,5 @@
 [title]
-Am gasit la tine adapost {author: {Corul Bisericii Betleem Londra}, {rcId: {144967}}
+Am gasit la tine adapost {composer: {Corul Bisericii Betleem Londra}, {rcId: {144967}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

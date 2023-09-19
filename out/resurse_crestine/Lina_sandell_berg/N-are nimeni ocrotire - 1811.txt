@@ -1,5 +1,5 @@
 [title]
-N-are nimeni ocrotire {author: {Lina Sandell Berg}, {rcId: {1811}}
+N-are nimeni ocrotire {composer: {Lina Sandell Berg}, {rcId: {1811}}
 
 [sequence]
 v1,v2,v3,v4

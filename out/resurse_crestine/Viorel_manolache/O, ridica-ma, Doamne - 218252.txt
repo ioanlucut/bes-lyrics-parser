@@ -1,5 +1,5 @@
 [title]
-O ridica-ma doamne {author: {Viorel Manolache}, {rcId: {218252}}
+O ridica-ma doamne {composer: {Viorel Manolache}, {rcId: {218252}}
 
 [sequence]
 v1,c,v2,c,c2

@@ -1,5 +1,5 @@
 [title]
-Nu te teme sfant popor {author: {Gabriel Gorcea și prietenii}, {rcId: {106164}}
+Nu te teme sfant popor {composer: {Gabriel Gorcea și prietenii}, {rcId: {106164}}
 
 [sequence]
 v1,v2,v3,v4

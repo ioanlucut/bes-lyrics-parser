@@ -1,5 +1,5 @@
 [title]
-Sunt de-abia la gradinita {author: {Nicolae Moldoveanu}, {rcId: {230736}}
+Sunt de-abia la gradinita {composer: {Nicolae Moldoveanu}, {rcId: {230736}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Bucuria vietii doamne tu ne-ai dat {author: {Anonim}, {rcId: {4171}}
+Bucuria vietii doamne tu ne-ai dat {composer: {Anonim}, {rcId: {4171}}
 
 [sequence]
 v1,c,v2,c,v3,c

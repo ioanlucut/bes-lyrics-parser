@@ -1,5 +1,5 @@
 [title]
-Calea lui {author: {Marius Gorcea}, {rcId: {166596}}
+Calea lui {composer: {Marius Gorcea}, {rcId: {166596}}
 
 [sequence]
 v1,c,v2,c,e,v3,c

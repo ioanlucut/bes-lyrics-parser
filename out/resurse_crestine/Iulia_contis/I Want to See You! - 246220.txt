@@ -1,5 +1,5 @@
 [title]
-I want to see you {author: {Iulia Contis}, {rcId: {246220}}
+I want to see you {composer: {Iulia Contis}, {rcId: {246220}}
 
 [sequence]
 v1,c,v2,c

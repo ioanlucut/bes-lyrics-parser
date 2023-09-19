@@ -1,5 +1,5 @@
 [title]
-Cuvantul tau {author: {Puiu și Beni Chibici}, {rcId: {188188}}
+Cuvantul tau {composer: {Puiu și Beni Chibici}, {rcId: {188188}}
 
 [sequence]
 v1,c,v2,c,v3,c

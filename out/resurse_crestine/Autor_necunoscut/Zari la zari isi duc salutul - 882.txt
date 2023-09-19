@@ -1,5 +1,5 @@
 [title]
-Zari la zari isi duc salutul {author: {Anonim}, {rcId: {882}}
+Zari la zari isi duc salutul {composer: {Anonim}, {rcId: {882}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

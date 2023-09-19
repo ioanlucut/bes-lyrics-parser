@@ -1,5 +1,5 @@
 [title]
-Imi place sa aduc lauda {author: {Anonim}, {rcId: {62660}}
+Imi place sa aduc lauda {composer: {Anonim}, {rcId: {62660}}
 
 [sequence]
 v1,c

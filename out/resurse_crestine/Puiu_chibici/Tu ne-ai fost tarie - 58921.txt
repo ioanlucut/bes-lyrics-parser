@@ -1,5 +1,5 @@
 [title]
-Tu ne-ai fost tarie {author: {Puiu Chibici}, {rcId: {58921}}
+Tu ne-ai fost tarie {composer: {Puiu Chibici}, {rcId: {58921}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-A mea inima suspina {author: {Anonim}, {rcId: {1731}}
+A mea inima suspina {composer: {Anonim}, {rcId: {1731}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-All over the world {author: {Tree63}, {rcId: {4279}}
+All over the world {composer: {Tree63}, {rcId: {4279}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

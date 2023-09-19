@@ -1,5 +1,5 @@
 [title]
-Lucruri nemaipomenite la rapire vom vedea {author: {Daniel Hartie}, {rcId: {109079}}
+Lucruri nemaipomenite la rapire vom vedea {composer: {Daniel Hartie}, {rcId: {109079}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

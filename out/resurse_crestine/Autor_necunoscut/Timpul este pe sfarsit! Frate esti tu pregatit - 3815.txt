@@ -1,5 +1,5 @@
 [title]
-Timpul este pe sfarsit frate esti tu pregatit {author: {Anonim}, {rcId: {3815}}
+Timpul este pe sfarsit frate esti tu pregatit {composer: {Anonim}, {rcId: {3815}}
 
 [sequence]
 v1,c,v2,c,v3,c

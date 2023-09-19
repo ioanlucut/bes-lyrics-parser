@@ -1,5 +1,5 @@
 [title]
-In tine ma incred {author: {Gabriel Gorcea și prietenii}, {rcId: {71428}}
+In tine ma incred {composer: {Gabriel Gorcea și prietenii}, {rcId: {71428}}
 
 [sequence]
 v1,c,v2,c,v3,c

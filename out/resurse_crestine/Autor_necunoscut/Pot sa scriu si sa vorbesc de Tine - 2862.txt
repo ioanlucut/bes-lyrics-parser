@@ -1,5 +1,5 @@
 [title]
-Pot sa scriu si sa vorbesc de tine {author: {Anonim}, {rcId: {2862}}
+Pot sa scriu si sa vorbesc de tine {composer: {Anonim}, {rcId: {2862}}
 
 [sequence]
 v1,c,v2,c

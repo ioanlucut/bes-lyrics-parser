@@ -1,5 +1,5 @@
 [title]
-Har revarsat {author: {Alexandru Groza}, {rcId: {192945}}
+Har revarsat {composer: {Alexandru Groza}, {rcId: {192945}}
 
 [sequence]
 v1,c,v2,c

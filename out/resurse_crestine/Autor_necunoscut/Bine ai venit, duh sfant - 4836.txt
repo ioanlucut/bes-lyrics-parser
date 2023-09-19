@@ -1,5 +1,5 @@
 [title]
-Bine ai venit duh sfant {author: {Anonim}, {rcId: {4836}}
+Bine ai venit duh sfant {composer: {Anonim}, {rcId: {4836}}
 
 [sequence]
 c

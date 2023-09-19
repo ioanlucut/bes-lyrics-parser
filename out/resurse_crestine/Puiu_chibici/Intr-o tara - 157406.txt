@@ -1,5 +1,5 @@
 [title]
-Intr-o tara {author: {Puiu Chibici}, {rcId: {157406}}
+Intr-o tara {composer: {Puiu Chibici}, {rcId: {157406}}
 
 [sequence]
 v1,c,v2,c,v3,c

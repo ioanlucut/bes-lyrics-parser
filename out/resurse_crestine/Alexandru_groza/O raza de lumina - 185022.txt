@@ -1,5 +1,5 @@
 [title]
-O raza de lumina {author: {Alexandru Groza}, {rcId: {185022}}
+O raza de lumina {composer: {Alexandru Groza}, {rcId: {185022}}
 
 [sequence]
 v1,c,v2,c

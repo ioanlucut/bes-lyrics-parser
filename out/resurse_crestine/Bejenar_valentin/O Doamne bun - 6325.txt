@@ -1,5 +1,5 @@
 [title]
-O doamne bun {author: {Bejenar Valentin}, {rcId: {6325}}
+O doamne bun {composer: {Bejenar Valentin}, {rcId: {6325}}
 
 [sequence]
 c,v1,c2,v2,c3

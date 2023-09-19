@@ -1,5 +1,5 @@
 [title]
-Ca fulgerul pe nori {author: {Nicolae Moldoveanu}, {rcId: {244083}}
+Ca fulgerul pe nori {composer: {Nicolae Moldoveanu}, {rcId: {244083}}
 
 [sequence]
 v1,v2,v3

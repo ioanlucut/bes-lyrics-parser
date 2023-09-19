@@ -1,5 +1,5 @@
 [title]
-Inaintea noastra {author: {Ovidiu Pal}, {rcId: {4459}}
+Inaintea noastra {composer: {Ovidiu Pal}, {rcId: {4459}}
 
 [sequence]
 v1,c,v2,c2

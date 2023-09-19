@@ -1,5 +1,5 @@
 [title]
-Crezand in el vom trai {author: {Samuel Bratu}, {rcId: {202974}}
+Crezand in el vom trai {composer: {Samuel Bratu}, {rcId: {202974}}
 
 [sequence]
 v1,v2,v3

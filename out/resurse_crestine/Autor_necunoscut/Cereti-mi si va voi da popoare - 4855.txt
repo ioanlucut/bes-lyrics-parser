@@ -1,5 +1,5 @@
 [title]
-Cereti-mi si va voi da popoare {author: {Anonim}, {rcId: {4855}}
+Cereti-mi si va voi da popoare {composer: {Anonim}, {rcId: {4855}}
 
 [sequence]
 v1,v2

@@ -1,5 +1,5 @@
 [title]
-Astazi fratilor sa mergem {author: {Anonim}, {rcId: {1292}}
+Astazi fratilor sa mergem {composer: {Anonim}, {rcId: {1292}}
 
 [sequence]
 v1,v2,v3

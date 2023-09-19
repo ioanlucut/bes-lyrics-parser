@@ -1,5 +1,5 @@
 [title]
-Trist si ratacit eram in lumea de pacat {author: {Anonim}, {rcId: {74420}}
+Trist si ratacit eram in lumea de pacat {composer: {Anonim}, {rcId: {74420}}
 
 [sequence]
 v1,c,v2,c,v3,c

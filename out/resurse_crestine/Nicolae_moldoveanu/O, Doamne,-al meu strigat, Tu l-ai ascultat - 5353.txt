@@ -1,5 +1,5 @@
 [title]
-O doamne-al meu strigat tu l-ai ascultat {author: {Nicolae Moldoveanu}, {rcId: {5353}}
+O doamne-al meu strigat tu l-ai ascultat {composer: {Nicolae Moldoveanu}, {rcId: {5353}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Crucea-i ascultarea {author: {Nicolae Moldoveanu}, {rcId: {1853}}
+Crucea-i ascultarea {composer: {Nicolae Moldoveanu}, {rcId: {1853}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

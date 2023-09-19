@@ -1,5 +1,5 @@
 [title]
-Mi-e dor de cer {author: {Carmen Prodan}, {rcId: {169689}}
+Mi-e dor de cer {composer: {Carmen Prodan}, {rcId: {169689}}
 
 [sequence]
 v1,c,v2,c,v3,c

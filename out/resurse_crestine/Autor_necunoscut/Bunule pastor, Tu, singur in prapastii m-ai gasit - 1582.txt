@@ -1,5 +1,5 @@
 [title]
-Bunule pastor tu singur in prapastii m-ai gasit {author: {Anonim}, {rcId: {1582}}
+Bunule pastor tu singur in prapastii m-ai gasit {composer: {Anonim}, {rcId: {1582}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

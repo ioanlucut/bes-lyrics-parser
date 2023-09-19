@@ -1,5 +1,5 @@
 [title]
-Jubilati inchinatori {author: {Simona Bahnaru}, {rcId: {86885}}
+Jubilati inchinatori {composer: {Simona Bahnaru}, {rcId: {86885}}
 
 [sequence]
 v1,c,v2,c

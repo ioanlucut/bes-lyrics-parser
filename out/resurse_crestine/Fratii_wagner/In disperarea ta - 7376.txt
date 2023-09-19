@@ -1,5 +1,5 @@
 [title]
-In disperarea ta {author: {Frații Wagner}, {rcId: {7376}}
+In disperarea ta {composer: {Frații Wagner}, {rcId: {7376}}
 
 [sequence]
 v1,v2,v3,v4

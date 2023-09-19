@@ -1,5 +1,5 @@
 [title]
-La tine doamne vin mereu {author: {Alexandru Groza}, {rcId: {185321}}
+La tine doamne vin mereu {composer: {Alexandru Groza}, {rcId: {185321}}
 
 [sequence]
 v1,c,v2,c,v3,c

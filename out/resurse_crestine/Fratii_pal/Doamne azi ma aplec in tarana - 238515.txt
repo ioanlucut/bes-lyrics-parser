@@ -1,5 +1,5 @@
 [title]
-Doamne azi ma aplec in tarana {author: {Fratii Pal}, {rcId: {238515}}
+Doamne azi ma aplec in tarana {composer: {Fratii Pal}, {rcId: {238515}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

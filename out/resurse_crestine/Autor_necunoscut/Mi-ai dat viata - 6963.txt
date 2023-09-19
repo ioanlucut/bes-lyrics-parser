@@ -1,5 +1,5 @@
 [title]
-Mi-ai dat viata {author: {Anonim}, {rcId: {6963}}
+Mi-ai dat viata {composer: {Anonim}, {rcId: {6963}}
 
 [sequence]
 v1,c,v2,c,v3,c

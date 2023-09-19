@@ -1,5 +1,5 @@
 [title]
-Laudati pe dumnezeu {author: {Anonim}, {rcId: {202124}}
+Laudati pe dumnezeu {composer: {Anonim}, {rcId: {202124}}
 
 [sequence]
 v1,c,e

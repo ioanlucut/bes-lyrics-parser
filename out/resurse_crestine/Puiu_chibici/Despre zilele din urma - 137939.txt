@@ -1,5 +1,5 @@
 [title]
-Despre zilele din urma {author: {Puiu Chibici}, {rcId: {137939}}
+Despre zilele din urma {composer: {Puiu Chibici}, {rcId: {137939}}
 
 [sequence]
 v1,v2,v3,v3,v4

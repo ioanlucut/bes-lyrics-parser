@@ -1,5 +1,5 @@
 [title]
-Cu tot intregul meu amar {author: {Traian Dorz}, {rcId: {2173}}
+Cu tot intregul meu amar {composer: {Traian Dorz}, {rcId: {2173}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

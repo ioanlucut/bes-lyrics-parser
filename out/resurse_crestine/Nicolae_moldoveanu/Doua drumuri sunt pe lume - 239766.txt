@@ -1,5 +1,5 @@
 [title]
-Doua drumuri sunt pe lume {author: {Nicolae Moldoveanu}, {rcId: {239766}}
+Doua drumuri sunt pe lume {composer: {Nicolae Moldoveanu}, {rcId: {239766}}
 
 [sequence]
 v1,v2,v3,v4

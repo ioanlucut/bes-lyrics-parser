@@ -1,5 +1,5 @@
 [title]
-La muntele unde va purta de grija {author: {Birjac Ovidiu}, {rcId: {229032}}
+La muntele unde va purta de grija {composer: {Birjac Ovidiu}, {rcId: {229032}}
 
 [sequence]
 v1,c,v2,c,v3,c

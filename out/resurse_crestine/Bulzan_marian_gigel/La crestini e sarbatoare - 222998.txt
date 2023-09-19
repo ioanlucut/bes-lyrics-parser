@@ -1,5 +1,5 @@
 [title]
-La crestini e sarbatoare {author: {Bulzan Marian Gigel}, {rcId: {222998}}
+La crestini e sarbatoare {composer: {Bulzan Marian Gigel}, {rcId: {222998}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

@@ -1,5 +1,5 @@
 [title]
-De ce nu vrei sa vii? {author: {Text: Emilia Toader, Muzica: Adrian Toader}, {rcId: {199253}}
+De ce nu vrei sa vii? {composer: {Text: Emilia Toader, Muzica: Adrian Toader}, {rcId: {199253}}
 
 [sequence]
 v1,v2,v3,v4

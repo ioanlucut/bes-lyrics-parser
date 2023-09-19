@@ -1,5 +1,5 @@
 [title]
-In fata ta isuse {author: {Sorin și Daniela Piu}, {rcId: {208610}}
+In fata ta isuse {composer: {Sorin și Daniela Piu}, {rcId: {208610}}
 
 [sequence]
 v1,v2,v3,v4

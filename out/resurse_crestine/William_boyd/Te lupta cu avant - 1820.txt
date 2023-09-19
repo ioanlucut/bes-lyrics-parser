@@ -1,5 +1,5 @@
 [title]
-Te lupta cu avant {author: {William Boyd}, {rcId: {1820}}
+Te lupta cu avant {composer: {William Boyd}, {rcId: {1820}}
 
 [sequence]
 v1,v2,v3,v4

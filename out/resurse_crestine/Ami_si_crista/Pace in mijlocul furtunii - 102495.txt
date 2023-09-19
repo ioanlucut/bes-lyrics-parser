@@ -1,5 +1,5 @@
 [title]
-Pace in mijlocul furtunii {author: {Ami și Crista}, {rcId: {102495}}
+Pace in mijlocul furtunii {composer: {Ami și Crista}, {rcId: {102495}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Pace tie fiu rascumparat tu mi-ai dat ce ai avut {author: {Frații Strugariu}, {rcId: {238178}}
+Pace tie fiu rascumparat tu mi-ai dat ce ai avut {composer: {Frații Strugariu}, {rcId: {238178}}
 
 [sequence]
 v1,c,v2,c

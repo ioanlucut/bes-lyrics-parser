@@ -1,5 +1,5 @@
 [title]
-Ma-ntorc la tine {author: {Narcisa P.}, {rcId: {75867}}
+Ma-ntorc la tine {composer: {Narcisa P.}, {rcId: {75867}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Drag prieten care canti vesel in credinta {author: {Nicolae Moldoveanu}, {rcId: {7007}}
+Drag prieten care canti vesel in credinta {composer: {Nicolae Moldoveanu}, {rcId: {7007}}
 
 [sequence]
 v1,v2,v3,v4,v5

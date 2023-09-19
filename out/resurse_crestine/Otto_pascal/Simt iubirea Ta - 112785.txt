@@ -1,5 +1,5 @@
 [title]
-Simt iubirea ta {author: {Otto Pascal}, {rcId: {112785}}
+Simt iubirea ta {composer: {Otto Pascal}, {rcId: {112785}}
 
 [sequence]
 v1,b,c,v2,c

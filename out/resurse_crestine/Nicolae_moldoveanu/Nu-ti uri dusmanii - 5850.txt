@@ -1,5 +1,5 @@
 [title]
-Nu-ti uri dusmanii {author: {Nicolae Moldoveanu}, {rcId: {5850}}
+Nu-ti uri dusmanii {composer: {Nicolae Moldoveanu}, {rcId: {5850}}
 
 [sequence]
 v1,v2,v3,v4

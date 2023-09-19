@@ -1,5 +1,5 @@
 [title]
-Nu poti sa stii ziua clipa seasul de astazi {author: {Ionică Stoica}, {rcId: {195437}}
+Nu poti sa stii ziua clipa seasul de astazi {composer: {Ionică Stoica}, {rcId: {195437}}
 
 [sequence]
 v1,c,v2,c,v3,c

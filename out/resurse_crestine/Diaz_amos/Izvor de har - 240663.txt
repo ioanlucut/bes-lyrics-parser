@@ -1,5 +1,5 @@
 [title]
-Izvor de har {author: {Diaz Amos}, {rcId: {240663}}
+Izvor de har {composer: {Diaz Amos}, {rcId: {240663}}
 
 [sequence]
 v1,c,v2,c

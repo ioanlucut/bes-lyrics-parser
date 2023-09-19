@@ -1,5 +1,5 @@
 [title]
-E vremea de pe urma {author: {Dorin Mihai}, {rcId: {233940}}
+E vremea de pe urma {composer: {Dorin Mihai}, {rcId: {233940}}
 
 [sequence]
 v1,c,v2,c,v3,b,c

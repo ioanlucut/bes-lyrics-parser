@@ -1,5 +1,5 @@
 [title]
-Merg pe calea ingusta (each step of the way) {author: {Redd Harper, Traducere RO}, {rcId: {112331}}
+Merg pe calea ingusta (each step of the way) {composer: {Redd Harper, Traducere RO}, {rcId: {112331}}
 
 [sequence]
 v1,c,v2,c,s,c

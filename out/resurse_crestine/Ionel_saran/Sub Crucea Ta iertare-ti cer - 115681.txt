@@ -1,5 +1,5 @@
 [title]
-Sub crucea ta iertare-ti cer {author: {Ionel Saran}, {rcId: {115681}}
+Sub crucea ta iertare-ti cer {composer: {Ionel Saran}, {rcId: {115681}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

@@ -1,5 +1,5 @@
 [title]
-Trecut-au anii {author: {Anonim}, {rcId: {208085}}
+Trecut-au anii {composer: {Anonim}, {rcId: {208085}}
 
 [sequence]
 v1,v2,v3,v4

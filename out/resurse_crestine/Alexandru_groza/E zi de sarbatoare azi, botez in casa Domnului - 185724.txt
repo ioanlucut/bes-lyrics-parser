@@ -1,5 +1,5 @@
 [title]
-E zi de sarbatoare azi botez in casa domnului {author: {Alexandru Groza}, {rcId: {185724}}
+E zi de sarbatoare azi botez in casa domnului {composer: {Alexandru Groza}, {rcId: {185724}}
 
 [sequence]
 v1,c,v2,c,v3,c

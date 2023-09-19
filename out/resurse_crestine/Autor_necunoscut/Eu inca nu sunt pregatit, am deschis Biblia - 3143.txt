@@ -1,5 +1,5 @@
 [title]
-Eu inca nu sunt pregatit am deschis biblia {author: {Anonim}, {rcId: {3143}}
+Eu inca nu sunt pregatit am deschis biblia {composer: {Anonim}, {rcId: {3143}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

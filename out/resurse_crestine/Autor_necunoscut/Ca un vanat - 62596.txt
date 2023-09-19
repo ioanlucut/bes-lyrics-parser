@@ -1,5 +1,5 @@
 [title]
-Ca un vanat {author: {Anonim}, {rcId: {62596}}
+Ca un vanat {composer: {Anonim}, {rcId: {62596}}
 
 [sequence]
 v1,v2,c,v3,c

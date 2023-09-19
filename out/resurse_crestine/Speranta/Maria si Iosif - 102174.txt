@@ -1,5 +1,5 @@
 [title]
-Maria si iosif {author: {Speranța}, {rcId: {102174}}
+Maria si iosif {composer: {Speranța}, {rcId: {102174}}
 
 [sequence]
 v1,v2,v3

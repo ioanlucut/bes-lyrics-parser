@@ -1,5 +1,5 @@
 [title]
-Te am pe tine scump isus {author: {Anonim}, {rcId: {59853}}
+Te am pe tine scump isus {composer: {Anonim}, {rcId: {59853}}
 
 [sequence]
 v1,c,v2,c,v3,c

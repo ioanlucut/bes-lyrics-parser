@@ -1,5 +1,5 @@
 [title]
-Mama {author: {Eugen Ruje}, {rcId: {234199}}
+Mama {composer: {Eugen Ruje}, {rcId: {234199}}
 
 [sequence]
 v1,c,v2,c

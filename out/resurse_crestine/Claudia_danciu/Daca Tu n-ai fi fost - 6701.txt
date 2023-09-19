@@ -1,5 +1,5 @@
 [title]
-Daca tu n-ai fi fost {author: {Claudia Danciu}, {rcId: {6701}}
+Daca tu n-ai fi fost {composer: {Claudia Danciu}, {rcId: {6701}}
 
 [sequence]
 v1,b,c,v2,b,c

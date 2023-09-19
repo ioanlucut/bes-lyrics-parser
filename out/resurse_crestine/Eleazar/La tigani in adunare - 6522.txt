@@ -1,5 +1,5 @@
 [title]
-La tigani in adunare {author: {Eleazar}, {rcId: {6522}}
+La tigani in adunare {composer: {Eleazar}, {rcId: {6522}}
 
 [sequence]
 v1,c,v2,c,v3,c

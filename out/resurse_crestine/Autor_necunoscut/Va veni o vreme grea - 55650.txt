@@ -1,5 +1,5 @@
 [title]
-Va veni o vreme grea {author: {Anonim}, {rcId: {55650}}
+Va veni o vreme grea {composer: {Anonim}, {rcId: {55650}}
 
 [sequence]
 v1,v2,v3,v4,v5

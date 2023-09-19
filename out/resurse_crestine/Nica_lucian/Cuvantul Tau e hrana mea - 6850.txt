@@ -1,5 +1,5 @@
 [title]
-Cuvantul tau e hrana mea {author: {Nica Lucian}, {rcId: {6850}}
+Cuvantul tau e hrana mea {composer: {Nica Lucian}, {rcId: {6850}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

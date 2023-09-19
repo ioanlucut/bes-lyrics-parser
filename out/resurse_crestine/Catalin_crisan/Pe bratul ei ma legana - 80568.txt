@@ -1,5 +1,5 @@
 [title]
-Pe bratul ei ma legana {author: {Cătălin Crișan}, {rcId: {80568}}
+Pe bratul ei ma legana {composer: {Cătălin Crișan}, {rcId: {80568}}
 
 [sequence]
 v1,v2,v3

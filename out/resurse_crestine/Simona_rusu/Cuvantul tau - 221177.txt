@@ -1,5 +1,5 @@
 [title]
-Cuvantul tau {author: {Simona Rusu}, {rcId: {221177}}
+Cuvantul tau {composer: {Simona Rusu}, {rcId: {221177}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Cu reverenta doamne {author: {Cristina Chiriac}, {rcId: {239697}}
+Cu reverenta doamne {composer: {Cristina Chiriac}, {rcId: {239697}}
 
 [sequence]
 v1,c,v2,c

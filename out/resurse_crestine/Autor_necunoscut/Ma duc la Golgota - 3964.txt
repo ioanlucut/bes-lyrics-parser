@@ -1,5 +1,5 @@
 [title]
-Ma duc la golgota {author: {Anonim}, {rcId: {3964}}
+Ma duc la golgota {composer: {Anonim}, {rcId: {3964}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

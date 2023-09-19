@@ -1,5 +1,5 @@
 [title]
-Viata {author: {Dan Damian}, {rcId: {238941}}
+Viata {composer: {Dan Damian}, {rcId: {238941}}
 
 [sequence]
 v1,v2,v3,v4

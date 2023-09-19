@@ -1,5 +1,5 @@
 [title]
-Biruitor {author: {Ekklesia Arad}, {rcId: {246079}}
+Biruitor {composer: {Ekklesia Arad}, {rcId: {246079}}
 
 [sequence]
 v1,v2,c,v3,c,e

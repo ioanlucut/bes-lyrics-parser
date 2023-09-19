@@ -1,5 +1,5 @@
 [title]
-Lasa-mi cumpana gandirii {author: {Anonim}, {rcId: {118799}}
+Lasa-mi cumpana gandirii {composer: {Anonim}, {rcId: {118799}}
 
 [sequence]
 v1,v2,v3

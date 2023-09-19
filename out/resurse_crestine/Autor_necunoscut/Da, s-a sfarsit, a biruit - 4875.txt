@@ -1,5 +1,5 @@
 [title]
-Da s-a sfarsit a biruit {author: {Anonim}, {rcId: {4875}}
+Da s-a sfarsit a biruit {composer: {Anonim}, {rcId: {4875}}
 
 [sequence]
 v1,c

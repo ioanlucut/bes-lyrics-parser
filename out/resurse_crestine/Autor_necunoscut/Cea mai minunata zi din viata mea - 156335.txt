@@ -1,5 +1,5 @@
 [title]
-Cea mai minunata zi din viata mea {author: {Anonim}, {rcId: {156335}}
+Cea mai minunata zi din viata mea {composer: {Anonim}, {rcId: {156335}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

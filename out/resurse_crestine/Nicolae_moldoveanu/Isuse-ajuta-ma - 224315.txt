@@ -1,5 +1,5 @@
 [title]
-Isuse-ajuta-ma {author: {Nicolae Moldoveanu}, {rcId: {224315}}
+Isuse-ajuta-ma {composer: {Nicolae Moldoveanu}, {rcId: {224315}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Breakthrough (prezenta-ti divina) {author: {El, Shaddai Worship}, {rcId: {216068}}
+Breakthrough (prezenta-ti divina) {composer: {El, Shaddai Worship}, {rcId: {216068}}
 
 [sequence]
 v1,v2,c,v3,b,c

@@ -1,5 +1,5 @@
 [title]
-Al meu domn e sfant {author: {Anonim}, {rcId: {213195}}
+Al meu domn e sfant {composer: {Anonim}, {rcId: {213195}}
 
 [sequence]
 v1,v2,v3

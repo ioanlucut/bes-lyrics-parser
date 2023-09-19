@@ -1,5 +1,5 @@
 [title]
-Noul ierusalim {author: {Rugul aprins}, {rcId: {107615}}
+Noul ierusalim {composer: {Rugul aprins}, {rcId: {107615}}
 
 [sequence]
 v1,v2,v3,e

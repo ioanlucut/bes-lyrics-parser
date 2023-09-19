@@ -1,5 +1,5 @@
 [title]
-No more night {author: {Rhema Marvanne}, {rcId: {86017}}
+No more night {composer: {Rhema Marvanne}, {rcId: {86017}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

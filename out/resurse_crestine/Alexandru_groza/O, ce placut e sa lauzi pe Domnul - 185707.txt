@@ -1,5 +1,5 @@
 [title]
-O ce placut e sa lauzi pe domnul {author: {Alexandru Groza}, {rcId: {185707}}
+O ce placut e sa lauzi pe domnul {composer: {Alexandru Groza}, {rcId: {185707}}
 
 [sequence]
 v1,c,s,c,v2,c,s,c,e

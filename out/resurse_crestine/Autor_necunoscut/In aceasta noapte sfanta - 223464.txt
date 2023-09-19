@@ -1,5 +1,5 @@
 [title]
-In aceasta noapte sfanta {author: {Anonim}, {rcId: {223464}}
+In aceasta noapte sfanta {composer: {Anonim}, {rcId: {223464}}
 
 [sequence]
 c

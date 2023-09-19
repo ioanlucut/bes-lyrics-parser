@@ -1,5 +1,5 @@
 [title]
-Bucurati-va de vestea buna {author: {Speranța}, {rcId: {59252}}
+Bucurati-va de vestea buna {composer: {Speranța}, {rcId: {59252}}
 
 [sequence]
 v1,c,v2,c,v3,c

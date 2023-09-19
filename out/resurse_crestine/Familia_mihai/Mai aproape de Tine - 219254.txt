@@ -1,5 +1,5 @@
 [title]
-Mai aproape de tine {author: {Familia Mihai}, {rcId: {219254}}
+Mai aproape de tine {composer: {Familia Mihai}, {rcId: {219254}}
 
 [sequence]
 v1,c,v2,c2,e

@@ -1,5 +1,5 @@
 [title]
-Veniti veniti voi prunci micuti {author: {Anonim}, {rcId: {7033}}
+Veniti veniti voi prunci micuti {composer: {Anonim}, {rcId: {7033}}
 
 [sequence]
 v1,v2

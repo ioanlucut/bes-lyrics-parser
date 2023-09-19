@@ -1,5 +1,5 @@
 [title]
-In ziua cand va fi in cer serbarea {author: {Anonim}, {rcId: {59239}}
+In ziua cand va fi in cer serbarea {composer: {Anonim}, {rcId: {59239}}
 
 [sequence]
 v1,c,v2,c

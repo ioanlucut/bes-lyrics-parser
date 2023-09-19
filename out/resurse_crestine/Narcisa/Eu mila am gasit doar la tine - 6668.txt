@@ -1,5 +1,5 @@
 [title]
-Eu mila am gasit doar la tine {author: {Narcisa}, {rcId: {6668}}
+Eu mila am gasit doar la tine {composer: {Narcisa}, {rcId: {6668}}
 
 [sequence]
 v1,c

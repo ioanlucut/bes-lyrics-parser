@@ -1,5 +1,5 @@
 [title]
-Mergand prin asta lume {author: {Ștefan Irimia}, {rcId: {108803}}
+Mergand prin asta lume {composer: {Ștefan Irimia}, {rcId: {108803}}
 
 [sequence]
 v1,c,v2,c,v3,c2

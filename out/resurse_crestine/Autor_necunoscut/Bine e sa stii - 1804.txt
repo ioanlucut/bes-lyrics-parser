@@ -1,5 +1,5 @@
 [title]
-Bine e sa stii {author: {Anonim}, {rcId: {1804}}
+Bine e sa stii {composer: {Anonim}, {rcId: {1804}}
 
 [sequence]
 v1,c,v2,c,v3,c

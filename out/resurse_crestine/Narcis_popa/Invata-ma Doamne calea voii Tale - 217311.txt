@@ -1,5 +1,5 @@
 [title]
-Invata-ma doamne calea voii tale {author: {Narcis Popa}, {rcId: {217311}}
+Invata-ma doamne calea voii tale {composer: {Narcis Popa}, {rcId: {217311}}
 
 [sequence]
 v1,v2,v3,v4,v5

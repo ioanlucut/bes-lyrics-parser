@@ -1,5 +1,5 @@
 [title]
-Nu ma tem {author: {Claudia Danciu}, {rcId: {7215}}
+Nu ma tem {composer: {Claudia Danciu}, {rcId: {7215}}
 
 [sequence]
 v1,c,v2,c,v3,c

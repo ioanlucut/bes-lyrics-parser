@@ -1,5 +1,5 @@
 [title]
-Isuse cand vei veni {author: {Florin Fill Bodnariuc}, {rcId: {172690}}
+Isuse cand vei veni {composer: {Florin Fill Bodnariuc}, {rcId: {172690}}
 
 [sequence]
 v1,c,v2,c,v3,c

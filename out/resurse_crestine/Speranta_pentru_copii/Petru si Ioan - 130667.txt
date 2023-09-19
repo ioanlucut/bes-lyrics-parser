@@ -1,5 +1,5 @@
 [title]
-Petru si ioan {author: {Speranța pentru copii}, {rcId: {130667}}
+Petru si ioan {composer: {Speranța pentru copii}, {rcId: {130667}}
 
 [sequence]
 v1,v2,v3

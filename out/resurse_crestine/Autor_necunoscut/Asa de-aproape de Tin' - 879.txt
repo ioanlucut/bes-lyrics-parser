@@ -1,5 +1,5 @@
 [title]
-Asa de-aproape de tin {author: {Anonim}, {rcId: {879}}
+Asa de-aproape de tin {composer: {Anonim}, {rcId: {879}}
 
 [sequence]
 c,v1,v2,c2

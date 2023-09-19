@@ -1,5 +1,5 @@
 [title]
-Privesc la izvor si-l vad cum curge lin voios {author: {Alexandru Groza}, {rcId: {74489}}
+Privesc la izvor si-l vad cum curge lin voios {composer: {Alexandru Groza}, {rcId: {74489}}
 
 [sequence]
 v1,c,v2,c,v3,c

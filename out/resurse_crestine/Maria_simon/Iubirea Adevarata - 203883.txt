@@ -1,5 +1,5 @@
 [title]
-Iubirea adevarata {author: {Maria Șimon}, {rcId: {203883}}
+Iubirea adevarata {composer: {Maria Șimon}, {rcId: {203883}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-N-am luptat indeajuns {author: {Ilie Neagu}, {rcId: {86606}}
+N-am luptat indeajuns {composer: {Ilie Neagu}, {rcId: {86606}}
 
 [sequence]
 v1,c,v2,c

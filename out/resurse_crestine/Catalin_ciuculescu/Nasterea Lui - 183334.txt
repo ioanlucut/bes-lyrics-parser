@@ -1,5 +1,5 @@
 [title]
-Nasterea lui {author: {Cătălin Ciuculescu}, {rcId: {183334}}
+Nasterea lui {composer: {Cătălin Ciuculescu}, {rcId: {183334}}
 
 [sequence]
 v1,b,c,v2,b,c

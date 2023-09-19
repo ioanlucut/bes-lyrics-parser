@@ -1,5 +1,5 @@
 [title]
-Suntem tineri neincercati intareste al nostru brat {author: {Anonim}, {rcId: {76142}}
+Suntem tineri neincercati intareste al nostru brat {composer: {Anonim}, {rcId: {76142}}
 
 [sequence]
 v1,v2,v3,v4,v5

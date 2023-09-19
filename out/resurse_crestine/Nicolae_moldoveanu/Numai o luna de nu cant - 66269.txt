@@ -1,5 +1,5 @@
 [title]
-Numai o luna de nu cant {author: {Nicolae Moldoveanu}, {rcId: {66269}}
+Numai o luna de nu cant {composer: {Nicolae Moldoveanu}, {rcId: {66269}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

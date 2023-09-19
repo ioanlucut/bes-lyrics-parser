@@ -1,5 +1,5 @@
 [title]
-Isus isus tu esti al nostru soare {author: {Anonim}, {rcId: {60258}}
+Isus isus tu esti al nostru soare {composer: {Anonim}, {rcId: {60258}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c2

@@ -1,5 +1,5 @@
 [title]
-Stramta-i calea mantuirii {author: {Traian Dorz}, {rcId: {196740}}
+Stramta-i calea mantuirii {composer: {Traian Dorz}, {rcId: {196740}}
 
 [sequence]
 v1,v2,v3

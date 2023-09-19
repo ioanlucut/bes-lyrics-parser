@@ -1,5 +1,5 @@
 [title]
-Mai este la sfarsit o judecata {author: {Nicolae Moldoveanu}, {rcId: {5746}}
+Mai este la sfarsit o judecata {composer: {Nicolae Moldoveanu}, {rcId: {5746}}
 
 [sequence]
 v1,v2,v3,v4

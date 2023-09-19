@@ -1,5 +1,5 @@
 [title]
-Sfintirea-i o porunca {author: {Alin Ivasco}, {rcId: {94466}}
+Sfintirea-i o porunca {composer: {Alin Ivasco}, {rcId: {94466}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Kept by the power of god {author: {Barney E. Warren}, {rcId: {100428}}
+Kept by the power of god {composer: {Barney E. Warren}, {rcId: {100428}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

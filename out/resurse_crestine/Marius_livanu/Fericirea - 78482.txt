@@ -1,5 +1,5 @@
 [title]
-Fericirea {author: {Marius Livanu}, {rcId: {78482}}
+Fericirea {composer: {Marius Livanu}, {rcId: {78482}}
 
 [sequence]
 v1,c,v2,c

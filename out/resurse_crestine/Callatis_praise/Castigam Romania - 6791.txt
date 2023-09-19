@@ -1,5 +1,5 @@
 [title]
-Castigam romania {author: {Callatis Praise}, {rcId: {6791}}
+Castigam romania {composer: {Callatis Praise}, {rcId: {6791}}
 
 [sequence]
 v1,c,v2,c

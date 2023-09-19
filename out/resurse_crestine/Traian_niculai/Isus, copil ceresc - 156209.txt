@@ -1,5 +1,5 @@
 [title]
-Isus copil ceresc {author: {Traian Niculai}, {rcId: {156209}}
+Isus copil ceresc {composer: {Traian Niculai}, {rcId: {156209}}
 
 [sequence]
 v1,c,v2,c2

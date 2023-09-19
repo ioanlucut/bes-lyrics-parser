@@ -1,5 +1,5 @@
 [title]
-Poate ca azi poate ca maine {author: {Claudiu Simion}, {rcId: {210651}}
+Poate ca azi poate ca maine {composer: {Claudiu Simion}, {rcId: {210651}}
 
 [sequence]
 v1,c,v2,c,v3,c

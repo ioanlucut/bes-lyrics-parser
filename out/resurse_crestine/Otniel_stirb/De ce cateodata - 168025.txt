@@ -1,5 +1,5 @@
 [title]
-De ce cateodata {author: {Otniel Stirb}, {rcId: {168025}}
+De ce cateodata {composer: {Otniel Stirb}, {rcId: {168025}}
 
 [sequence]
 v1,c,v2,c,v3,c

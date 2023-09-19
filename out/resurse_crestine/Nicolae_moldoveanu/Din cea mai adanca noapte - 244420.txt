@@ -1,5 +1,5 @@
 [title]
-Din cea mai adanca noapte {author: {Nicolae Moldoveanu}, {rcId: {244420}}
+Din cea mai adanca noapte {composer: {Nicolae Moldoveanu}, {rcId: {244420}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-S-a nascut un mantuitor {author: {Grupul Mesaj, Diana Pup}, {rcId: {222528}}
+S-a nascut un mantuitor {composer: {Grupul Mesaj, Diana Pup}, {rcId: {222528}}
 
 [sequence]
 v1

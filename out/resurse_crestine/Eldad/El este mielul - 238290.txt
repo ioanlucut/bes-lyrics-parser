@@ -1,5 +1,5 @@
 [title]
-El este mielul {author: {Eldad}, {rcId: {238290}}
+El este mielul {composer: {Eldad}, {rcId: {238290}}
 
 [sequence]
 c,v1,c,v2,c

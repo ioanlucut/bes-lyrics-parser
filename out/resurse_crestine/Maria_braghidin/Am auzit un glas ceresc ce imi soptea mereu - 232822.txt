@@ -1,5 +1,5 @@
 [title]
-Am auzit un glas ceresc ce imi soptea mereu {author: {Maria Braghidin}, {rcId: {232822}}
+Am auzit un glas ceresc ce imi soptea mereu {composer: {Maria Braghidin}, {rcId: {232822}}
 
 [sequence]
 v1,v2,v3,v4

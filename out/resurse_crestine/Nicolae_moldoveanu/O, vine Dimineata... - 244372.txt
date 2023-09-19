@@ -1,5 +1,5 @@
 [title]
-O vine dimineata {author: {Nicolae Moldoveanu}, {rcId: {244372}}
+O vine dimineata {composer: {Nicolae Moldoveanu}, {rcId: {244372}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

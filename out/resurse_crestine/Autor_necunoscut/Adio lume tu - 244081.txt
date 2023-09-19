@@ -1,5 +1,5 @@
 [title]
-Adio lume tu {author: {Anonim}, {rcId: {244081}}
+Adio lume tu {composer: {Anonim}, {rcId: {244081}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

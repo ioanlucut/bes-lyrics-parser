@@ -1,5 +1,5 @@
 [title]
-Ce frumos va fi acasa {author: {Anonim}, {rcId: {151737}}
+Ce frumos va fi acasa {composer: {Anonim}, {rcId: {151737}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

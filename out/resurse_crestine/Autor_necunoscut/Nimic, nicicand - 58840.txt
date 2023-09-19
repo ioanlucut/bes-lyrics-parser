@@ -1,5 +1,5 @@
 [title]
-Nimic nicicand {author: {Anonim}, {rcId: {58840}}
+Nimic nicicand {composer: {Anonim}, {rcId: {58840}}
 
 [sequence]
 v1,c

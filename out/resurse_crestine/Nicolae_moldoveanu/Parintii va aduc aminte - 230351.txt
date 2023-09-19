@@ -1,5 +1,5 @@
 [title]
-Parintii va aduc aminte {author: {Nicolae Moldoveanu}, {rcId: {230351}}
+Parintii va aduc aminte {composer: {Nicolae Moldoveanu}, {rcId: {230351}}
 
 [sequence]
 v1,v2,v3

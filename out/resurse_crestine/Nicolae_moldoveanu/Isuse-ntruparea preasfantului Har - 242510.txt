@@ -1,5 +1,5 @@
 [title]
-Isuse-ntruparea preasfantului har {author: {Nicolae Moldoveanu}, {rcId: {242510}}
+Isuse-ntruparea preasfantului har {composer: {Nicolae Moldoveanu}, {rcId: {242510}}
 
 [sequence]
 v1,v2,v3,v4,v6

@@ -1,5 +1,5 @@
 [title]
-Iti multumesc {author: {George Lupsea}, {rcId: {60542}}
+Iti multumesc {composer: {George Lupsea}, {rcId: {60542}}
 
 [sequence]
 v1,c,v2,c,v3,c

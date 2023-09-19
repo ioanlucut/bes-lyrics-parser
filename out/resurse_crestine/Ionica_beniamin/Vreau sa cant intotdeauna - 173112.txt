@@ -1,5 +1,5 @@
 [title]
-Vreau sa cant intotdeauna {author: {Ionică Beniamin}, {rcId: {173112}}
+Vreau sa cant intotdeauna {composer: {Ionică Beniamin}, {rcId: {173112}}
 
 [sequence]
 v1,v1,v2,v3

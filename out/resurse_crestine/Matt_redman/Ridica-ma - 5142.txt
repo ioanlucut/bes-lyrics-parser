@@ -1,5 +1,5 @@
 [title]
-Ridica-ma {author: {Matt Redman}, {rcId: {5142}}
+Ridica-ma {composer: {Matt Redman}, {rcId: {5142}}
 
 [sequence]
 v1,c

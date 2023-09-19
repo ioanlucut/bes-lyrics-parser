@@ -1,5 +1,5 @@
 [title]
-Si-oi cinta dragostea cite zile-oi mai avea {author: {Ionel Saran Bochis}, {rcId: {111137}}
+Si-oi cinta dragostea cite zile-oi mai avea {composer: {Ionel Saran Bochis}, {rcId: {111137}}
 
 [sequence]
 v1,c,v2,c,v3,c

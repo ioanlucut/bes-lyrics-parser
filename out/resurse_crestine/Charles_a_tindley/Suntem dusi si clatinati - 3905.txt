@@ -1,5 +1,5 @@
 [title]
-Suntem dusi si clatinati {author: {Charles A. Tindley}, {rcId: {3905}}
+Suntem dusi si clatinati {composer: {Charles A. Tindley}, {rcId: {3905}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

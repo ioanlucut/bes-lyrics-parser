@@ -1,5 +1,5 @@
 [title]
-Cu gandul la viata eterna {author: {Speranța}, {rcId: {55658}}
+Cu gandul la viata eterna {composer: {Speranța}, {rcId: {55658}}
 
 [sequence]
 v1,c,v2,c

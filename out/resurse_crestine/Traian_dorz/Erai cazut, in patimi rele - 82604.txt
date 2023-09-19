@@ -1,5 +1,5 @@
 [title]
-Erai cazut in patimi rele {author: {Traian Dorz}, {rcId: {82604}}
+Erai cazut in patimi rele {composer: {Traian Dorz}, {rcId: {82604}}
 
 [sequence]
 v1,v2,v3,v4

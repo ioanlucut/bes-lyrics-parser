@@ -1,5 +1,5 @@
 [title]
-A-nviat {author: {Cătălin și Ramona Lup}, {rcId: {111565}}
+A-nviat {composer: {Cătălin și Ramona Lup}, {rcId: {111565}}
 
 [sequence]
 v1,c,e

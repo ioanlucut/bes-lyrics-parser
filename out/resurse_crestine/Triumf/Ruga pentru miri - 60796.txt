@@ -1,5 +1,5 @@
 [title]
-Ruga pentru miri {author: {Triumf}, {rcId: {60796}}
+Ruga pentru miri {composer: {Triumf}, {rcId: {60796}}
 
 [sequence]
 v1,c,v2,c,v3,c

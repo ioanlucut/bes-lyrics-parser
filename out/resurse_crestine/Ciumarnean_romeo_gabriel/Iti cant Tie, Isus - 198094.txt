@@ -1,5 +1,5 @@
 [title]
-Iti cant tie isus {author: {Ciumarnean Romeo Gabriel}, {rcId: {198094}}
+Iti cant tie isus {composer: {Ciumarnean Romeo Gabriel}, {rcId: {198094}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Cinsteste pe fratii cu fruntea brazdata {author: {Costache Ioanid si Nicolae Moldoveanu}, {rcId: {200719}}
+Cinsteste pe fratii cu fruntea brazdata {composer: {Costache Ioanid si Nicolae Moldoveanu}, {rcId: {200719}}
 
 [sequence]
 v1,v2,v3,v4

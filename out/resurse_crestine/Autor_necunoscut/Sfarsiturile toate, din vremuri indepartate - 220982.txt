@@ -1,5 +1,5 @@
 [title]
-Sfarsiturile toate din vremuri indepartate {author: {Autor necunoscut.}, {rcId: {220982}}
+Sfarsiturile toate din vremuri indepartate {composer: {Autor necunoscut.}, {rcId: {220982}}
 
 [sequence]
 v1,v2,v3,v4

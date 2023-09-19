@@ -1,5 +1,5 @@
 [title]
-Tu nu-ti dai inca seama {author: {Nicolae Moldoveanu}, {rcId: {246559}}
+Tu nu-ti dai inca seama {composer: {Nicolae Moldoveanu}, {rcId: {246559}}
 
 [sequence]
 v1,v2,v3,v4,v5

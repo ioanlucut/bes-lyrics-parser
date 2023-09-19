@@ -1,5 +1,5 @@
 [title]
-Nu exista frica in iubire {author: {Anonim}, {rcId: {4114}}
+Nu exista frica in iubire {composer: {Anonim}, {rcId: {4114}}
 
 [sequence]
 v1,c,v2,c,v3,c

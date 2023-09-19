@@ -1,5 +1,5 @@
 [title]
-Fa-ma lumina divin creator {author: {Anonim}, {rcId: {6946}}
+Fa-ma lumina divin creator {composer: {Anonim}, {rcId: {6946}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Legat de tine sunt isus {author: {Traian Dorz}, {rcId: {84530}}
+Legat de tine sunt isus {composer: {Traian Dorz}, {rcId: {84530}}
 
 [sequence]
 v1,v2,v3,v4,v5

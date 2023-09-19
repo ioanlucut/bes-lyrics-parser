@@ -1,5 +1,5 @@
 [title]
-Cu domnul merg (the king and i) {author: {Mosie Lister, Traducere RO}, {rcId: {123919}}
+Cu domnul merg (the king and i) {composer: {Mosie Lister, Traducere RO}, {rcId: {123919}}
 
 [sequence]
 v1,c,v2,c,s,c

@@ -1,5 +1,5 @@
 [title]
-Binecuvantat {author: {Nihil sine Deo}, {rcId: {4366}}
+Binecuvantat {composer: {Nihil sine Deo}, {rcId: {4366}}
 
 [sequence]
 v1,b,c,v2,c,e

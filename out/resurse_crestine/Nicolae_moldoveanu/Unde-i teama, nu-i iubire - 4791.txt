@@ -1,5 +1,5 @@
 [title]
-Unde-i teama nu-i iubire {author: {Nicolae Moldoveanu}, {rcId: {4791}}
+Unde-i teama nu-i iubire {composer: {Nicolae Moldoveanu}, {rcId: {4791}}
 
 [sequence]
 v1,v2,v3,v4

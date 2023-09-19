@@ -1,5 +1,5 @@
 [title]
-Slava lui isus noi voiosi cantam {author: {Anonim}, {rcId: {793}}
+Slava lui isus noi voiosi cantam {composer: {Anonim}, {rcId: {793}}
 
 [sequence]
 v1,c,v2,c,e

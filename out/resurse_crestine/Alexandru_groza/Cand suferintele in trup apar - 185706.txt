@@ -1,5 +1,5 @@
 [title]
-Cand suferintele in trup apar {author: {Alexandru Groza}, {rcId: {185706}}
+Cand suferintele in trup apar {composer: {Alexandru Groza}, {rcId: {185706}}
 
 [sequence]
 v1,b,c,v2,c

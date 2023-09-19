@@ -1,5 +1,5 @@
 [title]
-Tu esti puternic {author: {Dan Damian}, {rcId: {238944}}
+Tu esti puternic {composer: {Dan Damian}, {rcId: {238944}}
 
 [sequence]
 v1,c,v2,c

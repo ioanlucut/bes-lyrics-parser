@@ -1,5 +1,5 @@
 [title]
-Astazi vin sa ma inchin {author: {Anonim}, {rcId: {6510}}
+Astazi vin sa ma inchin {composer: {Anonim}, {rcId: {6510}}
 
 [sequence]
 v1,v2,v3,v4,v5

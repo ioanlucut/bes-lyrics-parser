@@ -1,5 +1,5 @@
 [title]
-Iubirea si-a aratat {author: {Grupul Evangelion}, {rcId: {103870}}
+Iubirea si-a aratat {composer: {Grupul Evangelion}, {rcId: {103870}}
 
 [sequence]
 v1,c,v2,c

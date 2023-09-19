@@ -1,5 +1,5 @@
 [title]
-Stau din nou gandindu-ma la jertfa ta {author: {Anonim}, {rcId: {2766}}
+Stau din nou gandindu-ma la jertfa ta {composer: {Anonim}, {rcId: {2766}}
 
 [sequence]
 v1,c,v2,c,e

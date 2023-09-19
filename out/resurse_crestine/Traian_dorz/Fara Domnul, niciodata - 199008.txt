@@ -1,5 +1,5 @@
 [title]
-Fara domnul niciodata {author: {Traian  Dorz}, {rcId: {199008}}
+Fara domnul niciodata {composer: {Traian  Dorz}, {rcId: {199008}}
 
 [sequence]
 v1,v2,v3,v4

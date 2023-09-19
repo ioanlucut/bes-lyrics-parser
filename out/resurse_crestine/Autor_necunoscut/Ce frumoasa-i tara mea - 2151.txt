@@ -1,5 +1,5 @@
 [title]
-Ce frumoasa-i tara mea {author: {Anonim}, {rcId: {2151}}
+Ce frumoasa-i tara mea {composer: {Anonim}, {rcId: {2151}}
 
 [sequence]
 v1,v2,v3,v4,v5

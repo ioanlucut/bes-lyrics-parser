@@ -1,5 +1,5 @@
 [title]
-Voi continua sa te iubesc {author: {Anonim}, {rcId: {62693}}
+Voi continua sa te iubesc {composer: {Anonim}, {rcId: {62693}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Slavesc pe domnul {author: {Puiu Chibici}, {rcId: {111999}}
+Slavesc pe domnul {composer: {Puiu Chibici}, {rcId: {111999}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

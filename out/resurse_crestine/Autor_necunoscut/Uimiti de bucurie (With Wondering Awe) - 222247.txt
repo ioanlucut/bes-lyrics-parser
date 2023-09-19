@@ -1,5 +1,5 @@
 [title]
-Uimiti de bucurie (with wondering awe) {author: {Anonim, Traducere RO}, {rcId: {222247}}
+Uimiti de bucurie (with wondering awe) {composer: {Anonim, Traducere RO}, {rcId: {222247}}
 
 [sequence]
 v1,v2,v3,v4

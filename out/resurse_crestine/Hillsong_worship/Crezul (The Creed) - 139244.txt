@@ -1,5 +1,5 @@
 [title]
-Crezul (the creed) {author: {Hillsong Worship, Traducere RO}, {rcId: {139244}}
+Crezul (the creed) {composer: {Hillsong Worship, Traducere RO}, {rcId: {139244}}
 
 [sequence]
 v1,c,v2,c,c,e

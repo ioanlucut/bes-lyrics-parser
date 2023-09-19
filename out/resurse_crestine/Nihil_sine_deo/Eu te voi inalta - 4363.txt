@@ -1,5 +1,5 @@
 [title]
-Eu te voi inalta {author: {Nihil sine Deo}, {rcId: {4363}}
+Eu te voi inalta {composer: {Nihil sine Deo}, {rcId: {4363}}
 
 [sequence]
 v1,b,c,c

@@ -1,5 +1,5 @@
 [title]
-Bunatatea ta {author: {SF3}, {rcId: {239451}}
+Bunatatea ta {composer: {SF3}, {rcId: {239451}}
 
 [sequence]
 v1,c,v2,c,e,e

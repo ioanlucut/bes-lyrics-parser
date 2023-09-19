@@ -1,5 +1,5 @@
 [title]
-Pe pamant viata este grea {author: {Text și muzică: Costel Mijan}, {rcId: {209519}}
+Pe pamant viata este grea {composer: {Text și muzică: Costel Mijan}, {rcId: {209519}}
 
 [sequence]
 v1,c,v2,c

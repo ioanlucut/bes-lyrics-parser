@@ -1,5 +1,5 @@
 [title]
-Isuse viata ta mie mi-ai dat {author: {Robert Lowry}, {rcId: {74365}}
+Isuse viata ta mie mi-ai dat {composer: {Robert Lowry}, {rcId: {74365}}
 
 [sequence]
 v1,c,v2,c,v3,c

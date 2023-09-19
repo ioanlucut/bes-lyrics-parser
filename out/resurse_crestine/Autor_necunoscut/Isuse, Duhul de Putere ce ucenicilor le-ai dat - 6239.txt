@@ -1,5 +1,5 @@
 [title]
-Isuse duhul de putere ce ucenicilor le-ai dat {author: {Anonim}, {rcId: {6239}}
+Isuse duhul de putere ce ucenicilor le-ai dat {composer: {Anonim}, {rcId: {6239}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Cu tine eu calatoresc {author: {Anonim}, {rcId: {60218}}
+Cu tine eu calatoresc {composer: {Anonim}, {rcId: {60218}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

@@ -1,5 +1,5 @@
 [title]
-A venit iarna {author: {Anonim}, {rcId: {203325}}
+A venit iarna {composer: {Anonim}, {rcId: {203325}}
 
 [sequence]
 v1,v2,v3

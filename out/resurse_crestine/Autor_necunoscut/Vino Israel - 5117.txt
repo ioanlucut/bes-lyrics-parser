@@ -1,5 +1,5 @@
 [title]
-Vino israel {author: {Anonim}, {rcId: {5117}}
+Vino israel {composer: {Anonim}, {rcId: {5117}}
 
 [sequence]
 v1,c,v2,c

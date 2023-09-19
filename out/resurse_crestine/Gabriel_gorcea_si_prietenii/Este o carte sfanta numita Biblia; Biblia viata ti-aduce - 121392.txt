@@ -1,5 +1,5 @@
 [title]
-Este o carte sfanta numita biblia; biblia viata ti-aduce {author: {Gabriel Gorcea și prietenii}, {rcId: {121392}}
+Este o carte sfanta numita biblia; biblia viata ti-aduce {composer: {Gabriel Gorcea și prietenii}, {rcId: {121392}}
 
 [sequence]
 v1,c,v2,c,v3,c

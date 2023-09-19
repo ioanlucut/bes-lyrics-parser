@@ -1,5 +1,5 @@
 [title]
-Noaptea a trecut {author: {Gabi_Ilut}, {rcId: {241209}}
+Noaptea a trecut {composer: {Gabi_Ilut}, {rcId: {241209}}
 
 [sequence]
 v1,c,v2,c

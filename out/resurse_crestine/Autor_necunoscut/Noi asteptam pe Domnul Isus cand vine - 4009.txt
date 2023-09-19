@@ -1,5 +1,5 @@
 [title]
-Noi asteptam pe domnul isus cand vine {author: {Anonim}, {rcId: {4009}}
+Noi asteptam pe domnul isus cand vine {composer: {Anonim}, {rcId: {4009}}
 
 [sequence]
 v1,v2,v3,v4

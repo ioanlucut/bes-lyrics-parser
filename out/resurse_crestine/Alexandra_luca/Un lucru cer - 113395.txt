@@ -1,5 +1,5 @@
 [title]
-Un lucru cer {author: {Alexandra Luca}, {rcId: {113395}}
+Un lucru cer {composer: {Alexandra Luca}, {rcId: {113395}}
 
 [sequence]
 v1,b,c

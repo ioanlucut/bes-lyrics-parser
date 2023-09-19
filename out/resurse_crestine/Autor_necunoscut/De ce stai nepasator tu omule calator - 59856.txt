@@ -1,5 +1,5 @@
 [title]
-De ce stai nepasator tu omule calator {author: {Anonim}, {rcId: {59856}}
+De ce stai nepasator tu omule calator {composer: {Anonim}, {rcId: {59856}}
 
 [sequence]
 v1,c,v2,c

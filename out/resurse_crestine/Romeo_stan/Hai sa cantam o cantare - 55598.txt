@@ -1,5 +1,5 @@
 [title]
-Hai sa cantam o cantare {author: {Romeo Stan}, {rcId: {55598}}
+Hai sa cantam o cantare {composer: {Romeo Stan}, {rcId: {55598}}
 
 [sequence]
 v1,c,v2,c,v3,c

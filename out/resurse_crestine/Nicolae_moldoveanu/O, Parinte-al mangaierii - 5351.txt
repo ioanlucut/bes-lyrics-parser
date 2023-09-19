@@ -1,5 +1,5 @@
 [title]
-O parinte-al mangaierii {author: {Nicolae Moldoveanu}, {rcId: {5351}}
+O parinte-al mangaierii {composer: {Nicolae Moldoveanu}, {rcId: {5351}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

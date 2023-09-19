@@ -1,5 +1,5 @@
 [title]
-Tu esti creatorul {author: {Adi Gliga}, {rcId: {6780}}
+Tu esti creatorul {composer: {Adi Gliga}, {rcId: {6780}}
 
 [sequence]
 v1,c,v2,c

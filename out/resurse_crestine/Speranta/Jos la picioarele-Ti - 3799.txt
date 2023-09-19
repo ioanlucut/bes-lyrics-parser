@@ -1,5 +1,5 @@
 [title]
-Jos la picioarele-ti {author: {Speranța}, {rcId: {3799}}
+Jos la picioarele-ti {composer: {Speranța}, {rcId: {3799}}
 
 [sequence]
 v1,c

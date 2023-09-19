@@ -1,5 +1,5 @@
 [title]
-God of wonders {author: {Third Day, Traducere RO}, {rcId: {4271}}
+God of wonders {composer: {Third Day, Traducere RO}, {rcId: {4271}}
 
 [sequence]
 v1,c,v2,c,e,v3,c,e

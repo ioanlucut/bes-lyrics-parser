@@ -1,5 +1,5 @@
 [title]
-Chiar din starea mea cea slaba {author: {Nicolae Moldoveanu}, {rcId: {220604}}
+Chiar din starea mea cea slaba {composer: {Nicolae Moldoveanu}, {rcId: {220604}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

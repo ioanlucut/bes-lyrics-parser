@@ -1,5 +1,5 @@
 [title]
-Eu stiu ca domnul meu traieste {author: {Anonim}, {rcId: {199446}}
+Eu stiu ca domnul meu traieste {composer: {Anonim}, {rcId: {199446}}
 
 [sequence]
 v1,c,v2,c,v3,c

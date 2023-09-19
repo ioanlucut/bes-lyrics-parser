@@ -1,5 +1,5 @@
 [title]
-Ilie puha - ierusalime {author: {Anonim}, {rcId: {222917}}
+Ilie puha - ierusalime {composer: {Anonim}, {rcId: {222917}}
 
 [sequence]
 v1,c,v2,c,v3,c

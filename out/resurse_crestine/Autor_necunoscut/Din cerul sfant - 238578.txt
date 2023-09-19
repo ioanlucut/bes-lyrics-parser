@@ -1,5 +1,5 @@
 [title]
-Din cerul sfant {author: {Anonim}, {rcId: {238578}}
+Din cerul sfant {composer: {Anonim}, {rcId: {238578}}
 
 [sequence]
 v1,c,v2,c,v3,c

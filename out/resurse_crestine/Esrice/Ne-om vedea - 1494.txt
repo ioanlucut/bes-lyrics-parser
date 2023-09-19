@@ -1,5 +1,5 @@
 [title]
-Ne-om vedea {author: {E.S.Rice}, {rcId: {1494}}
+Ne-om vedea {composer: {E.S.Rice}, {rcId: {1494}}
 
 [sequence]
 v1,c,v2,c,v3,c

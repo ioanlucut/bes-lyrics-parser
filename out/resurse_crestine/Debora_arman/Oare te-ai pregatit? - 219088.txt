@@ -1,5 +1,5 @@
 [title]
-Oare te-ai pregatit? {author: {Debora Arman}, {rcId: {219088}}
+Oare te-ai pregatit? {composer: {Debora Arman}, {rcId: {219088}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Identitate {author: {Dincolo De Ziduri}, {rcId: {171963}}
+Identitate {composer: {Dincolo De Ziduri}, {rcId: {171963}}
 
 [sequence]
 v1,c,v2,c,c

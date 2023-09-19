@@ -1,5 +1,5 @@
 [title]
-Doar o coliba aici jos imi ajunge {author: {Anonim}, {rcId: {850}}
+Doar o coliba aici jos imi ajunge {composer: {Anonim}, {rcId: {850}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Daca este cineva {author: {Anonim}, {rcId: {5197}}
+Daca este cineva {composer: {Anonim}, {rcId: {5197}}
 
 [sequence]
 v1,c

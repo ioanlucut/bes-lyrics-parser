@@ -1,5 +1,5 @@
 [title]
-Isus e dumnezeu {author: {Oltita Nistor}, {rcId: {96932}}
+Isus e dumnezeu {composer: {Oltita Nistor}, {rcId: {96932}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c,v5,c

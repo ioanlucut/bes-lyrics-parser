@@ -1,5 +1,5 @@
 [title]
-Armata domnului {author: {Bucuria copiilor}, {rcId: {6584}}
+Armata domnului {composer: {Bucuria copiilor}, {rcId: {6584}}
 
 [sequence]
 v1,s,v2,c,v3,c

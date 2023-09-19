@@ -1,5 +1,5 @@
 [title]
-Doamne vreau sa-ti cant cantarea {author: {Anonim}, {rcId: {59865}}
+Doamne vreau sa-ti cant cantarea {composer: {Anonim}, {rcId: {59865}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

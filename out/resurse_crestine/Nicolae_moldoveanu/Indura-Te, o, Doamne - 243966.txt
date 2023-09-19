@@ -1,5 +1,5 @@
 [title]
-Indura-te o doamne {author: {Nicolae Moldoveanu}, {rcId: {243966}}
+Indura-te o doamne {composer: {Nicolae Moldoveanu}, {rcId: {243966}}
 
 [sequence]
 v1,v2,v3

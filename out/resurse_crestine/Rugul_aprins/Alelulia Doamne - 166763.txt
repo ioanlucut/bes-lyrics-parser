@@ -1,5 +1,5 @@
 [title]
-Alelulia doamne {author: {Rugul aprins}, {rcId: {166763}}
+Alelulia doamne {composer: {Rugul aprins}, {rcId: {166763}}
 
 [sequence]
 v1,c,v3,c,v3,c

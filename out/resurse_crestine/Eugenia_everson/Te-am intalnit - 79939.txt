@@ -1,5 +1,5 @@
 [title]
-Te-am intalnit {author: {Eugenia Everson}, {rcId: {79939}}
+Te-am intalnit {composer: {Eugenia Everson}, {rcId: {79939}}
 
 [sequence]
 v1,c,v2,c

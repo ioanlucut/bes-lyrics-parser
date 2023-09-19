@@ -1,5 +1,5 @@
 [title]
-De cate ori isus eu te-am chemat {author: {Anonim}, {rcId: {55582}}
+De cate ori isus eu te-am chemat {composer: {Anonim}, {rcId: {55582}}
 
 [sequence]
 v1,v2,v3

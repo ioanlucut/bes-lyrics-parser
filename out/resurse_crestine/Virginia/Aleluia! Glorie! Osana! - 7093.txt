@@ -1,5 +1,5 @@
 [title]
-Aleluia glorie osana {author: {Virginia}, {rcId: {7093}}
+Aleluia glorie osana {composer: {Virginia}, {rcId: {7093}}
 
 [sequence]
 v1,c,v2,c,v3,c

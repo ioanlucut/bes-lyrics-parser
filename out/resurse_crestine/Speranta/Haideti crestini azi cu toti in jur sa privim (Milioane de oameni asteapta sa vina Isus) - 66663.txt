@@ -1,5 +1,5 @@
 [title]
-Haideti crestini azi cu toti in jur sa privim (milioane de oameni asteapta sa vina isus) {author: {Speranța}, {rcId: {66663}}
+Haideti crestini azi cu toti in jur sa privim (milioane de oameni asteapta sa vina isus) {composer: {Speranța}, {rcId: {66663}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Isuse scump iubire nepatrunsa {author: {Beni Cibu, Sami Carcea, Dorel Breabăn}, {rcId: {184931}}
+Isuse scump iubire nepatrunsa {composer: {Beni Cibu, Sami Carcea, Dorel Breabăn}, {rcId: {184931}}
 
 [sequence]
 v1,c,v2,c,v3,c

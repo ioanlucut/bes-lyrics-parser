@@ -1,5 +1,5 @@
 [title]
-Dor de cer {author: {Daniela Haidaciuc}, {rcId: {172342}}
+Dor de cer {composer: {Daniela Haidaciuc}, {rcId: {172342}}
 
 [sequence]
 v1,c,v2,c,v3,c

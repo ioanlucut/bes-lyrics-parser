@@ -1,5 +1,5 @@
 [title]
-As vrea sa pot sa-ti multumesc {author: {Daniela și Vitaly H. Gutu}, {rcId: {231475}}
+As vrea sa pot sa-ti multumesc {composer: {Daniela și Vitaly H. Gutu}, {rcId: {231475}}
 
 [sequence]
 v1,v2,v3,v4

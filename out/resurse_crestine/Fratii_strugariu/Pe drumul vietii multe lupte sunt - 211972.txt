@@ -1,5 +1,5 @@
 [title]
-Pe drumul vietii multe lupte sunt {author: {Frații Strugariu}, {rcId: {211972}}
+Pe drumul vietii multe lupte sunt {composer: {Frații Strugariu}, {rcId: {211972}}
 
 [sequence]
 v1,c,v2,c,v3,c

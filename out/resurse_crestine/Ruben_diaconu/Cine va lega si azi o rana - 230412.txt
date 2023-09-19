@@ -1,5 +1,5 @@
 [title]
-Cine va lega si azi o rana {author: {Ruben Diaconu}, {rcId: {230412}}
+Cine va lega si azi o rana {composer: {Ruben Diaconu}, {rcId: {230412}}
 
 [sequence]
 v1,c,v2,c,v3,c

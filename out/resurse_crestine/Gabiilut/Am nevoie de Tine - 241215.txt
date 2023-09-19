@@ -1,5 +1,5 @@
 [title]
-Am nevoie de tine {author: {Gabi_Ilut}, {rcId: {241215}}
+Am nevoie de tine {composer: {Gabi_Ilut}, {rcId: {241215}}
 
 [sequence]
 v1,c,v2,c

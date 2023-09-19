@@ -1,5 +1,5 @@
 [title]
-Cine-ar putea sa-ti dea iertare? {author: {Nicolae Moldoveanu}, {rcId: {7373}}
+Cine-ar putea sa-ti dea iertare? {composer: {Nicolae Moldoveanu}, {rcId: {7373}}
 
 [sequence]
 v1,v2,v3,v4,v5

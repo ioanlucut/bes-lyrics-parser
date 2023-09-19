@@ -1,5 +1,5 @@
 [title]
-De ce ? {author: {Alin și Florina Jivan}, {rcId: {149927}}
+De ce ? {composer: {Alin și Florina Jivan}, {rcId: {149927}}
 
 [sequence]
 v1,b,c,v2,b,c

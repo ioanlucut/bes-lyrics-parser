@@ -1,5 +1,5 @@
 [title]
-Mi-e dor de-acea mareata zi {author: {Anonim}, {rcId: {178458}}
+Mi-e dor de-acea mareata zi {composer: {Anonim}, {rcId: {178458}}
 
 [sequence]
 v1,c,v2,c,v3,c

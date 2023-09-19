@@ -1,5 +1,5 @@
 [title]
-Ti-aducem lauda si slava {author: {Ionică Stoica}, {rcId: {204104}}
+Ti-aducem lauda si slava {composer: {Ionică Stoica}, {rcId: {204104}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

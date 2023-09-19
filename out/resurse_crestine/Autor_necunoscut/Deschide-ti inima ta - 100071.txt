@@ -1,5 +1,5 @@
 [title]
-Deschide-ti inima ta {author: {Anonim}, {rcId: {100071}}
+Deschide-ti inima ta {composer: {Anonim}, {rcId: {100071}}
 
 [sequence]
 v1,v2,v3,v4

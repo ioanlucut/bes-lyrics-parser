@@ -1,5 +1,5 @@
 [title]
-Crestini de forma multi astazi suntem {author: {Mirela Ursulescu}, {rcId: {230686}}
+Crestini de forma multi astazi suntem {composer: {Mirela Ursulescu}, {rcId: {230686}}
 
 [sequence]
 v1,v2,v3,v4,v5

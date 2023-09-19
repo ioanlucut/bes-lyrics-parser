@@ -1,5 +1,5 @@
 [title]
-Am fost acolo-atunci si eu {author: {Puiu Chibici}, {rcId: {199427}}
+Am fost acolo-atunci si eu {composer: {Puiu Chibici}, {rcId: {199427}}
 
 [sequence]
 v1,c,v2,c,v3,c

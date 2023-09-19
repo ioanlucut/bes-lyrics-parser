@@ -1,5 +1,5 @@
 [title]
-Plangi ades nefericita; ai zis ca esti parasita biserica mea {author: {Dănuț Așchilean}, {rcId: {195467}}
+Plangi ades nefericita; ai zis ca esti parasita biserica mea {composer: {Dănuț Așchilean}, {rcId: {195467}}
 
 [sequence]
 v1,v2,v3,v4

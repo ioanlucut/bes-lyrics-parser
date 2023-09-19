@@ -1,5 +1,5 @@
 [title]
-Chemam numele tau {author: {Creation House, Sergiu Drăgoi, Fiona Bocșa}, {rcId: {227448}}
+Chemam numele tau {composer: {Creation House, Sergiu Drăgoi, Fiona Bocșa}, {rcId: {227448}}
 
 [sequence]
 v1,c,v2,c,e,e2

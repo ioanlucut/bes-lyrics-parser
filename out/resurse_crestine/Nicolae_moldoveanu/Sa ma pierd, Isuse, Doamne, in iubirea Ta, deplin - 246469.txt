@@ -1,5 +1,5 @@
 [title]
-Sa ma pierd isuse doamne in iubirea ta deplin {author: {Nicolae Moldoveanu}, {rcId: {246469}}
+Sa ma pierd isuse doamne in iubirea ta deplin {composer: {Nicolae Moldoveanu}, {rcId: {246469}}
 
 [sequence]
 v1,v2,v3,v4,v5

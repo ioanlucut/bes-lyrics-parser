@@ -1,5 +1,5 @@
 [title]
-Fii lumina {author: {Fratii Piu}, {rcId: {7001}}
+Fii lumina {composer: {Fratii Piu}, {rcId: {7001}}
 
 [sequence]
 v1,c,v2,c

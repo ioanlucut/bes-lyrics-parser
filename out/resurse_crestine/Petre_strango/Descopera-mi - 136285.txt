@@ -1,5 +1,5 @@
 [title]
-Descopera-mi {author: {Petre Strango}, {rcId: {136285}}
+Descopera-mi {composer: {Petre Strango}, {rcId: {136285}}
 
 [sequence]
 v1,v2,v3,v4
