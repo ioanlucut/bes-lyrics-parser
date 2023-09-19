@@ -20,7 +20,7 @@ describe('opensongParser', () => {
       );
       expect(basicTemplate).toMatchInlineSnapshot(`
         "[title]
-        Isus e rege {author: {Lari Muntean adaptare după Sinach}, {rcId: {12345}}
+        Isus e rege {composer: {Lari Muntean adaptare după Sinach}, {rcId: {12345}}
 
         [sequence]
         v1,c,v2,c,e,c2,c
@@ -78,7 +78,7 @@ describe('opensongParser', () => {
       );
       expect(basicTemplate).toMatchInlineSnapshot(`
         "[title]
-        O noua zi {author: {Rahela Goagără}}
+        O noua zi {composer: {Rahela Goagără}}
 
         [sequence]
         c,v1,c,v2,c,e
@@ -129,7 +129,7 @@ describe('opensongParser', () => {
       );
       expect(basicTemplate).toMatchInlineSnapshot(`
         "[title]
-        De dragul meu {author: {Chris}}
+        De dragul meu {composer: {Chris}}
 
         [sequence]
         s,e,s2,b

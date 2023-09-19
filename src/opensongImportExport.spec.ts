@@ -180,7 +180,7 @@ describe('opensongImportExport', () => {
       expect(exportFile(importFile(MOCK_OS_CONTENT, MOCK_OS), MOCK_OS))
         .toMatchInlineSnapshot(`
         "[title]
-        Isus e rege {author: {Lari Muntean adaptare după Sinach}}
+        Isus e rege {composer: {Lari Muntean adaptare după Sinach}}
 
         [sequence]
         v1,c,v2,c,e,c2,c
@@ -366,7 +366,7 @@ describe('opensongImportExport', () => {
       expect(exportFile(importFile(MOCK_1_CONTENT, MOCK_OS), MOCK_OS))
         .toMatchInlineSnapshot(`
         "[title]
-        O noua zi {author: {Rahela Goagără}}
+        O noua zi {composer: {Rahela Goagără}}
 
         [sequence]
         c,v1,c,v2,c,e
@@ -583,7 +583,7 @@ describe('opensongImportExport', () => {
       expect(exportFile(importFile(MOCK_1_CONTENT, MOCK_OS), MOCK_OS))
         .toMatchInlineSnapshot(`
         "[title]
-        De dragul meu {author: {Chris}}
+        De dragul meu {composer: {Chris}}
 
         [sequence]
         s,e,s2,b
@@ -699,7 +699,7 @@ describe('opensongImportExport', () => {
       expect(exportFile(importFile(MOCK_4_CONTENT, MOCK_OS), MOCK_OS))
         .toMatchInlineSnapshot(`
         "[title]
-        De dragul meu {author: {Chris}}
+        De dragul meu {composer: {Chris}}
 
         [sequence]
         v1,e,v2,s

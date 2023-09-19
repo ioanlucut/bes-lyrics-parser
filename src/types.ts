@@ -27,7 +27,7 @@ export const SongSection = {
 
 export enum SongMeta {
   ALTERNATIVE = 'alternative',
-  AUTHOR = 'author',
+  COMPOSER = 'composer',
   RC_ID = 'rcId',
   VERSION = 'version',
 }

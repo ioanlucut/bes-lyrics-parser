@@ -1,7 +1,11 @@
 import { isEmpty, trim } from 'lodash';
 import { FileExporter } from './index';
 import { Song } from '../../song';
-import { cleanBasicContent, cleanContent, cleanFilename } from "../../../../contentCleaner";
+import {
+  cleanBasicContent,
+  cleanContent,
+  cleanFilename,
+} from '../../../../contentCleaner';
 import {
   CARET_RETURN,
   COMMA,
@@ -18,9 +22,9 @@ export const besExporter: FileExporter = {
   fileExtensions: [TXT_EXTENSION],
 
   exportFile(song: Song) {
-    const maybeAuthor = `${
+    const maybeComposer = `${
       !isEmpty(song.authors)
-        ? `${SongMeta.AUTHOR}: {${song?.authors
+        ? `${SongMeta.COMPOSER}: {${song?.authors
             ?.map(({ name }) => cleanBasicContent(name))
             .join(`${COMMA}${EMPTY_SPACE}`)}}`
         : EMPTY_STRING
@@ -29,7 +33,7 @@ export const besExporter: FileExporter = {
       song.rcId ? `{${SongMeta.RC_ID}: {${song?.rcId}}` : EMPTY_STRING
     }`;
     const titleOfTheSong = `${cleanFilename(song.title)}`;
-    const metaInfo = [maybeAuthor, maybeRCIdReference].filter(Boolean);
+    const metaInfo = [maybeComposer, maybeRCIdReference].filter(Boolean);
     const titleContent = `${titleOfTheSong}${
       !isEmpty(metaInfo)
         ? `${EMPTY_SPACE}{${metaInfo.join(`${COMMA}${EMPTY_SPACE}`)}}`
