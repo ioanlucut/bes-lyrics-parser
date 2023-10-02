@@ -1,0 +1,41 @@
+[title]
+Ma poarta-n carul tau biruinta {composer: {Nicolae Moldoveanu}, {rcId: {189859}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Mă poartă-n carul Tău de biruință,
+Isuse, zilnic să mă porți,
+Să biruiesc, prin viață şi credință,
+Puterea-ntunecatei morți!
+
+[c]
+Să biruiesc, să biruiesc,
+Tot ce-i păcat, tot ce-i firesc,
+De voia Ta tot ce-i străin,
+Isus, să biruiesc deplin!
+
+[v2]
+Mă poartă-n carul Tău de biruință,
+Spre Ţinta care Tu mi-ai pus,
+Să naintez, luptând cu stăruință,
+Păşind pe urma Ta, Isus!
+
+[v3]
+Mă poartă-n carul Tău de biruință,
+De rătăciri să mă păzeşti,
+Și umplut deplin de-o sfântă cunoştință,
+Prin Adevăr să mă-ntăreşti!
+
+[v4]
+Mă poartă-n carul Tău de biruință,
+Când vin dureri asupra mea,
+Să trec senin şi blând prin suferință,
+Să biruiesc în lupta grea!
+
+[v5]
+Mă poartă-n carul Tău de biruință,
+pân-la sfârşit să biruiesc;
+Topeşte-mă-n Divina Ta Ființă,
+Biruitor ca să trăiesc!

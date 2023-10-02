@@ -1,0 +1,56 @@
+[title]
+Eu sunt doar un oarecare - nobody {composer: {Casting Crowns, Traducere RO}, {rcId: {251769}}
+
+[sequence]
+v1,c,v2,c2,e
+
+[v1]
+Ce-ai văzut în mine
+N-am înțeles prea bine,
+Lumea asta mereu mi-a șoptit să mă fac nevăzut
+Cu ceilalți nevrednici,
+Nesiguri și-ndoielnici,
+Dar tu pe ei i-ai iubit
+Și i-ai căutat de la-nceput.
+
+[c]
+Eu sunt doar un oarecare
+Și vreau să știe fiecare
+Totul despre Cel care
+M-a mântuit
+Și, de când am fost salvat,
+Al vieții cântec am aflat
+El spune lumii ne-ncetat
+Că-i doar despre Isus.
+Voi spune lumii ne-ncetat
+Că-i doar despre Isus.
+
+[v2]
+Ai chemat cu Tine
+Oameni imperfecți ca și mine
+I-ai iubit cum nimeni nu poate
+Și cu ei Tu lumea ai schimbat.
+În Dumnezeu avem valoare,
+Nu e nimeni la-ntâmplare
+Și-atunci când șoapta celui rău
+Iarăși mă întreabă „
+Tu cine crezi că ești?”, eu spun:
+
+[c2]
+Sunt doar un oarecare
+Și vreau să știe fiecare
+Totul despre Cel care
+M-a mântuit
+Și, de când am fost salvat,
+Al vieții cântec am aflat
+El spune lumii ne-ncetat
+Că-i doar despre Isus.
+Voi spune lumii ne-ncetat
+Că-i doar despre Isus.
+
+[e]
+În dragoste Dumnezeu oameni a chemat,
+Sângele lui Isus și pe mine m-a răscumpărat
+Si, chiar de numele-mi va fi pe deplin uitat,
+Voi spune lumii ne-ncetat
+Că-i doar despre Isus.

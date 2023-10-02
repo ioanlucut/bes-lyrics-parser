@@ -1,0 +1,45 @@
+[title]
+De mila celor care pier {composer: {Nicolae Moldoveanu}, {rcId: {5266}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+De mila celor care pier
+Departe de-al Tău nume,
+Tu ai dat tot ce-aveai în cer
+Și tot ce-aveai în lume.
+Tot ce-aveai mai scump în cer
+Și tot ce-aveai în lume.
+De mila celor care pier
+Departe de-al Tău nume.
+
+[v2]
+Tu, Cel prin care s-au făcut
+Toți aștrii spre-ai conduce,
+Într-un biet staul Te-ai născut
+Și ai murit pe cruce.
+În staul rece Te-ai născut
+Și ai murit pe cruce.
+Tu, Cel prin care s-au făcut
+Toți aștrii spre-ai conduce.
+
+[v3]
+Chiar piatra ce Ți-a fost mormânt
+A fost și ea străină,
+Și n-a mai fost în cer cuvânt
+Și nici în cer lumină.
+Și nicăieri n-a fost cuvânt
+Și nici în cer lumină,
+Chiar piatra ce Ți-a fost mormânt
+A fost și ea străină.
+
+[v4]
+Așa ai vrut Tu să plătești
+Să cumperi lumea-ntreagă.
+Dar Tu pe nimeni nu silești,
+Ci Iași pe toți s-aleagă.
+Pe nimeni, nimeni nu silești,
+Ci Iași pe toți s-aleagă.
+Așa ai vrut Tu sa plătești
+Căci Ți-a fost lumea dragă.

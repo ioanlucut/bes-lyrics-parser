@@ -1,0 +1,41 @@
+[title]
+S-a rasculat pamantul {composer: {Iulia Contis}, {rcId: {248540}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+S-a răsculat pământul
+Să stingă azi făclia
+Și, cu ideologia,
+Să-mprăștie ca vântul...
+
+[v2]
+Dar împăratul nostru,
+Fiind din nemurire,
+A scris prin despărțire
+Drumul spre cer și rostul!
+
+[v3]
+Câți au murit în patimi!
+Dar iată-L! Printre stele,
+Cel care-i fără rele
+A rupt atunci și datini!
+
+[v4]
+A plâns cu jale cerul
+Când se stingea preasfântul,
+Dar s-a-mplinit Cuvântul
+Și s-a-ntrupat misterul!
+
+[v5]
+De ce mă plângeți astăzi
+Cu ochii plini de ceață?
+E, iată, dimineață!
+Duceți vestea și pe străzi!
+
+[v6]
+Sunt viu cu Tatăl veșnic,
+Sunt dincolo de moarte!
+Am împlinit o Carte,
+Făcându-Mă un sfeșnic!

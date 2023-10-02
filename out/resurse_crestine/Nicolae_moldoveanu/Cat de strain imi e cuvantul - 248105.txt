@@ -1,0 +1,29 @@
+[title]
+Cat de strain imi e cuvantul {composer: {Nicolae Moldoveanu}, {rcId: {248105}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Cât de străin îmi e cuvântul
+De gândul meu, când vreau să spun
+/: Cum simt iubirea și-adevărul
+Cu sufletul când se-mpreun’! :/
+
+[v2]
+Zadarnic m-am zbătut să aflu
+Un fel desăvârșit, să pot
+/: În forme să cuprind iubirea
+Și-n slove adevărul tot. :/
+
+[v3]
+Căci dragostea desăvârșită,
+Cu adevărul n-au hotar.
+/: Când sufletul și Ie-mpreună,
+E sfânt, dar mut ca un altar. :/
+
+[v4]
+Iar când mi se lumină taine
+Și cred că totul am pătruns,
+/: Lumina mai strălucitoare
+Mi-I face iarăși mai ascuns. :/

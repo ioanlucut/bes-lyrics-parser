@@ -1,0 +1,39 @@
+[title]
+Unde e isus e cerul {composer: {Nicolae Moldoveanu}, {rcId: {250832}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Unde e Isus e cerul,
+este raiu-ntreg și sfânt,
+/: este binecuvântarea :/
+/: Noului Său Legământ. :/
+
+[c]
+O, Isuse, o, Isuse,
+eu sunt al Tău, Tu ești al meu!
+
+[v2]
+Unde e Isus e cerul
+adevărului frumos,
+/: e lumina și odihna :/
+/: sufletului credincios. :/
+
+[v3]
+Unde e Isus e cerul
+dragostei fără sfârșit,
+/: este fericirea toată :/
+/: totdeauna la zenit. :/
+
+[v4]
+Unde e Isus e cerul
+cerurilor mai presus
+/: decât tot ce-ar prinde graiul :/
+/: ca-ntr-un fel să fie spus. :/
+
+[v5]
+O, Isuse, o, Isuse,
+Ție mă predau deplin,
+/: Tu-mi ești Cerul, Tu-mi ești TOTUL :/
+/: pentru veci de veci, amin. :/

@@ -1,0 +1,53 @@
+[title]
+Flamand {composer: {Nicolae Moldoveanu}, {rcId: {248887}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Flămând ca nu de pâine,
+setos ca nu de apă,
+Te caut căci al meu suflet
+din Tine doar se-adapă.
+
+[c]
+M-aplec la rugăciune,
+dar în a ei suspine,
+/: Te caut și nu mă satur
+să m-alipesc de Tine. :/
+
+[v2]
+M-apropii de-a Ta Carte,
+dar gândul ce-mi tânjește
+din Cartea Ta, pe Tine
+Te caută și dorește.
+
+[c2]
+Mă duc... și unde-s frații
+iubirea-n veci m-ar ține,
+/: dar nu pe ei îi caut,
+ci-n ei Te caut pe Tine. :/
+
+[v3]
+Oricine-mi bate-n poartă,
+deschid și-l chem în pripă
+căci inima-mi Te-așteaptă
+pe Tine-n orice clipă.
+
+[c3]
+Mă uit spre cer într-una,
+dar inima din mine
+/: nu după cer dorește,
+ci-n el Te caut pe Tine. :/
+
+[v4]
+Neliniștit mi-e duhul
+când pleacă, ori sosește
+ci numai când e-n Tine
+atunci se liniștește.
+
+[c4]
+Neliniștit mi-e duhul
+când pleacă, ori sosește
+/: ci numai când e-n Tine
+atunci se liniștește. :/

@@ -1,0 +1,32 @@
+[title]
+Rasuna cantecul {composer: {Nicolae Moldoveanu}, {rcId: {242731}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Răsună cântecul de slavă Ție,
+De-aici de jos din cel mai greu mormânt,
+/: Cu trupu-n chin, cu duhu-n bucurie,
+Te laud, Doamne, Tatăl meu Preasfânt! :/
+.
+
+[v2]
+Când deznădejdi se năpustesc spre mine,
+Și totul pare mai întunecos,
+/: Știu, prin credință, că eu sunt cu Tine,
+Și Tu-mi trimiți un har mai luminos! :/
+
+[v3]
+Dreptatea Ta va fi biruitoare,
+Și adevărul sfânt mai strălucit,
+/: Tu vei aduce-un timp de sărbătoare
+Iar planul celui rău va fi zdrobit! :/
+
+[v4]
+Îți mulțumesc de-a Ta făgăduință,
+O, Dumnezeul meu Cel Minunat!
+Îți-nalț acum cântări din suferință,
+Căci totul este harul Tău bogat!
+Prin cruce știu c-ajung la biruință.
+Fii lăudat, în veci fii lăudat!

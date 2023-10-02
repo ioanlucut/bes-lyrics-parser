@@ -1,0 +1,53 @@
+[title]
+Dragostea cand e curata {composer: {Nicolae Moldoveanu}, {rcId: {248517}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Dragostea când e curată,
+Nu lipsește niciodată,
+Nu-s nici ziduri, nici poveri
+S-o oprească nicăieri.
+
+[c]
+Dragostea când e fierbinte
+Arde-n ochi și-arde-n cuvinte;
+Arde-n lacrimi și-n cântări,
+Slava fericitei stări.
+
+[v2]
+Dragostea când e frumoasă,
+E smerită și duioasă;
+Credincioasă rămânând
+Pân-la moarte-n primul gând
+
+[c2]
+Dragostea când e deplină,
+E tăcută și senină
+Și-și dă anii minunați,
+Pentru cer și pentru frați.
+
+[v3]
+Dragostea când este bună
+Poartă jugul dimpreună,
+Duce până la sfârșit
+Crucea lângă Cel iubit.
+
+[c3]
+Dragostea când e cerească
+Face sufletul să crească,
+Pân-ajunge luminos,
+Una-n umblet cu Hristos.
+
+[v4]
+Dragostea când este-ntreagă,
+De Hristos n-o mai dezleagă
+Nici tăcere nici cuvânt,
+Nici viață, nici mormânt.
+
+[c4]
+Dragostea când este-ntreagă,
+De Hristos n-o mai dezleagă
+Nici tăcere nici cuvânt,
+Nici viață, nici mormânt.

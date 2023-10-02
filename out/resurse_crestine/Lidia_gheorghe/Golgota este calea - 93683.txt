@@ -5,20 +5,20 @@ Golgota este calea {composer: {Lidia Gheorghe}, {rcId: {93683}}
 c,v1,c,v2,c,v3,c
 
 [c]
-/: Golgota este calea
-Golgota :/
+/: Golgota este calea,
+Golgota, :/
 
 [v1]
 /: Căci cine va răbda
 Pină la sfârșit
 Va fi încununat
-Și va fi răsplătit :/
+Și va fi răsplătit. :/
 
 [v2]
 /: Să ridici un altar
-Unde te vei ruga
+Unde te vei ruga,
 Jertfa ce-o vei aduce
-Spre cer s-o ridică :/
+Spre cer s-o ridica. :/
 
 [v3]
 /: Căci vei fi ascultat

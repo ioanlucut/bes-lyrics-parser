@@ -1,0 +1,46 @@
+[title]
+De n-ar fi isus in viata mea {composer: {Camelia Timiș}, {rcId: {248872}}
+
+[sequence]
+v1,c,v2,c,e,c2
+
+[v1]
+/: De n-ar fi Isus, în viața mea
+De n-ar fi alinare, în încercarea grea
+Aș fi un nimic, căci fără de El
+Pierdut m-aș afla în lume stingher :/
+
+[c]
+Și cum pot să stau nepăsător
+Când văd atâtea răni ce dor
+Mii de copii nemângâiați
+Pe străzi de părinții lor uitați
+Atâtea familii greu încercate
+Bătrânii ce stau în case dărâmate
+Oameni trăind fără ajutor
+Lăcrimând, în cortul lor
+
+[v2]
+Te-ai întrebat și tu omule
+Ai mulțumit oare îndeajuns
+Că tu ești salvat, de păcate iertat
+Și în ceruri de Tatăl, așteptat
+Ai mulțumit tu oare?
+
+[e]
+Dar spune-le tu
+Spune-le tu despre iubire
+Arată-le un strop de jertfire
+Spune-le tu
+Arată-le prin fapte
+Că Isus, e spijin în toate.
+
+[c2]
+Dar nu mai sta nepăsător
+Când vezi atâtea răni ce dor
+Mii de copii nemângâiați
+Pe străzi de părinții lor uitați
+/: Ia-L pe Isus exemplu în toate
+În dragoste și în bunătate
+Atunci vei vedea copiii zâmbind
+Iar oamenii, de fericire lăcrimând :/

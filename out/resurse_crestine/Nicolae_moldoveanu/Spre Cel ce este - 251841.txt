@@ -1,0 +1,35 @@
+[title]
+Spre cel ce este {composer: {Nicolae Moldoveanu}, {rcId: {251841}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Spre Cel ce este din vecii
+din Sine - făr-asemănare,
+spre Dumnezeul celor vii
+’nalțăm cântări și închinare.
+
+[c]
+Spre Dumnezeu, spre Dumnezeu
+nălțăm cântările mereu,
+Să-L lăudăm, să-L lăudăm,
+c-un duh smerit să-L lăudăm.
+
+[v2]
+Spre Cel ce-I Adevăr și Har
+și-nțelepciune și Iubire,
+spre Dumnezeul Sfânt noi iar
+nălțăm cântări de preamărire.
+
+[v3]
+Spre Cel ce ne-a răscumpărat
+C-o jertfă-atât de necuprinsă,
+spre Dumnezeul minunat
+nălțăm cântări de slavă-aprinsă.
+
+[v4]
+Spre Cel ce ne-a orânduit
+o-mpărăție de lumină,
+spre Dumnezeul Preamărit
+nălțăm cântări vecia plină.

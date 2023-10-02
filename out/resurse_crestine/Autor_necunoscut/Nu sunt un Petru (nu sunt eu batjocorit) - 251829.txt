@@ -1,0 +1,29 @@
+[title]
+Nu sunt un petru (nu sunt eu batjocorit) {composer: {Anonim}, {rcId: {251829}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/; Nu sunt eu batjocorit
+Pentru Hristos
+Dar am eu har sa fiu iertat
+Un pacatos :/
+
+[c]
+/: Nu sunt un Petru, nici un Pavel
+Si nu sunt nici Daniel
+Dar ameu harul, harul
+Sa fiu iubit de Dumnezeu :/
+
+[v2]
+/: Si nu sunt nici prigonit
+Il pot lauda
+Ce mare este harul Lui
+In viata mea :/
+
+[v3]
+/: Harul lui Isus Hristos
+E in viata mea
+Sunt mantuit, la cer primit
+De El iubit :/

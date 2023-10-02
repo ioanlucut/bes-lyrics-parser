@@ -1,0 +1,41 @@
+[title]
+Lumina fa-ma {composer: {Nicolae Moldoveanu}, {rcId: {74380}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Lumină fă-mă necurmat,
+Prin lumea cea întinsă,
+Isus, s-o pot păstra, curat,
+Și pururea nestinsă.
+
+[c]
+Isuse, fă-mă cum vrei Tu,
+Să nu spun: da! la ce spui: nu!
+Să nu spun: nu! la ce spui: da!
+Ci-n toate fie voia Ta.
+
+[v2]
+Și pâine pentru cei flămânzi,
+Și apă limpezită,
+Și-alin plăcut Ia suferinzi,
+Fă-mi viața mea trăită.
+
+[v3]
+Cărare pentru rătăciți,
+Liman spre odihnire,
+Și pace pentru cei loviți,
+O, fă-mă prin iubire.
+
+[v4]
+Cântare pentru întristați,
+Îndemn înspre credință,
+Și punte pentru-ndepărtați,
+Să-mi faci a mea ființă.
+
+[v5]
+Să fiu ce mă dorești, Isus,
+O flacără din Tine,
+Pe-oriunde calc, s-arăt supus
+O cale spre mai bine.

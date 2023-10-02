@@ -1,0 +1,30 @@
+[title]
+Va veni o zi {composer: {Phil Wickham}, {rcId: {248312}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Cât imi doresc, sa simt cerescul aer
+De mila plin, de har inconjurat
+Sa pot privi, la Cel ce-a dat salvarea,
+Si m-a inpăcat cu vesnicia Sa
+
+[c]
+Va veni o zi, cand vom sta-n fața Lui
+Va veni o zi cand moarte nu va fi!
+Ne vom inchina, ’naintea Celui Inviat!
+Sfant e! Sfant e Dumnezeu!
+
+[v2]
+Si-n disperari, cand ruga mi-e-naltată.
+In indoieli, cantari am inaltat
+Stiu la sfarit, va merita-ncercarea.
+Caci tocmai El, imi va sterge lacrima!
+
+[e]
+Si-n acea zi, m-alaturi invierii
+Alaturi de-ai credintei mari eroi.
+Toti intr-un glas cu mii de generatii.
+Laudam pe-Acel ce-a fost Miel Jertfit.
+În veci El stă pe tron!

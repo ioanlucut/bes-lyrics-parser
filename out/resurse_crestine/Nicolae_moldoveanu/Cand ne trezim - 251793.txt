@@ -1,0 +1,41 @@
+[title]
+Cand ne trezim {composer: {Nicolae Moldoveanu}, {rcId: {251793}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Când ne trezim din somnul
+în care-am odihnit,
+să lăudăm pe Domnul
+cu glas nestăpânit.
+
+[c]
+Dumnezeu, Dumnezeu, Dumnezeu
+ne lumină și-ndrumă mereu,
+lăudat, lăudat, lăudat,
+fie El, de noi toți, ne-ncetat.
+
+[v2]
+Când inima ni-e plină
+ca de-un izvor divin,
+slăvim a Lui lumină,
+din care toate vin.
+
+[v3]
+Când arde-n noi Cuvântul
+înalt și sfințitor,
+să-L spunem Lăudându-L,
+în fața tuturor.
+
+[v4]
+Când starea ni-e divină,
+când orice griji uităm,
+când toate ni-s lumină,
+uimiți să-L lăudăm.
+
+[v5]
+Când vom simți-ai tăcerii
+fiori că ne cuprind,
+cu Imnul Învierii
+să-L lăudăm suind.

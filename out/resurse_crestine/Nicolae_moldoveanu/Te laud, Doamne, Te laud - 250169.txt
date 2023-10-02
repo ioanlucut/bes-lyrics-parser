@@ -1,0 +1,39 @@
+[title]
+Te laud doamne te laud {composer: {Nicolae Moldoveanu}, {rcId: {250169}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Te laud, Doamne, Te laud,
+/: cu mulțumiri Îți cânt, :/
+Te laud, Doamne, Te laud,
+/: căci veșnic ești și sfânt! :/
+
+[c]
+Te laud, Te laud,
+Te laud în veci!
+
+[v2]
+Te laud, Doamne, Te laud,
+/: cu mulțumiri în piept, :/
+Te laud, Te laud,
+/: căci vrednic ești și drept :/
+
+[v3]
+Te laud, Doamne, Te laud.
+/: și mulțumiri Îți spun, :/
+Te laud, Doamne, Te laud,
+/: căci vrednic ești și bun :/
+
+[v4]
+Te laud, Doamne, Te laud,
+/: cu mulțumiri și jar, :/
+Te laud, Doamne, Te laud,
+/: Izvor etern de har! :/
+
+[v5]
+Te laud, Doamne, Te laud,
+/: cu mulțumiri mereu, :/
+Te laud, Doamne, Te laud,
+/: Slăvite Dumnezeu! :/

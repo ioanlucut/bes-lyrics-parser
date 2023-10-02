@@ -1,0 +1,33 @@
+[title]
+O noua lauda oricand {composer: {Nicolae Moldoveanu}, {rcId: {248819}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+O nouă laudă oricând
+e potrivit să-Ți cânt, Isuse
+/: și niciodată nu-i de-ajuns,
+de tot ce harul Tău mi-aduse. :/
+
+[c]
+/: Un cântec nou, un cânt frumos
+înalț spre slava lui Hristos. :/
+
+[v2]
+Chiar mii de limbi dac-aș avea
+și-acum și-n era nesfârșită,
+/: tot n-aș putea ca să cuprind
+lucrarea harului slăvită. :/
+
+[v3]
+Un cântec nou e-un nou îndemn
+spre slava Ta și spre iubire,
+/: e apa viului izvor
+ce-n veac n-avea-va liniștire. :/
+
+[v4]
+În pacea Ta, să-mi dai, Isus,
+neastâmpărul iubirii sfinte,
+/: să izvodească noi cântări
+din Duhul Tău mereu fierbinte. :/

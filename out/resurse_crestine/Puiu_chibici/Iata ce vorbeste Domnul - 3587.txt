@@ -2,7 +2,7 @@
 Iata ce vorbeste domnul {composer: {Puiu Chibici}, {rcId: {3587}}
 
 [sequence]
-v1,v2,v3,v4,v5,v6,v7,v8
+v1,c,v2,c2,v3,c3,v4,c4
 
 [v1]
 Iată ce vorbește Domnul
@@ -10,48 +10,44 @@ Prin proorocul său Ioel
 Pentru vremea de pe urmă,
 Pentru noul Israel:
 
-[v2]
-,,
-Pentru orișice făptură
+[c]
+/: Peste orișice făptură
 Slava Mea va străluci,
 Și atunci prin a lor gură
-Numele-Mi voi proslăvi.’’
+Numele-Mi voi proslăvi. ’’ :/
 
-[v3]
-,,
+[v2]
 În zilele de pe urmă
 Voi turna din Duhul Meu
 Peste a Mea sfântă turmă’’,
 Zice Domnul Dumnezeu.
 
-[v4]
-,,
-Fiicele și fiii voștri,
+[c2]
+/: Fiicele și fiii voștri,
 Bătrânii și tinerii
 Vor avea visuri, vedenii
 Și chiar mulți vor prooroci. :/
 
-[v5]
-,,
+[v3]
 Peste robi și peste roabe
 Din Duh Sfânt Eu voi turna,
 Pe pământ și sus în ceruri
-Semne mari s-or arăta.’’
+Semne mari s-or arăta. ’’
 
-[v6]
-Adă, Doamne, cincizecimea
+[c3]
+/: Adă, Doamne, cincizecimea
 Azi în adunarea Ta,
 Să strigăm toți Maranata,
-Vino, Doamne, Aleluia.
+Vino, Doamne, Aleluia. :/
 
-[v7]
+[v4]
 Și în cor de osanale
 Să-ți cântăm că vrednic ești,
 Să vorbim ca la Rusalii
-În limbi cerești și îngerești.
+Limbi cerești și îngerești.
 
-[v8]
-Ca pământul din pustie
+[c4]
+/: Ca pământul din pustie
 Noi Te așteptăm cu dor
 S-aduci ploaia cea târzie,
-Doamne, peste-al Tău popor.
+Doamne, peste-al Tău popor. :/

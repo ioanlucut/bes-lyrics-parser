@@ -1,0 +1,42 @@
+[title]
+Slavit izvor al vietii {composer: {Nicolae Moldoveanu}, {rcId: {249026}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Slăvit Izvor al Vieții
+din care odrăslim,
+cu zorii tinereții
+Isuse, Te slăvim!
+Ființa și mișcarea
+din Tine ne-o primim.
+- Urmându-ne chemarea,
+Isuse,
+ /: Te slăvim! :/
+x3
+/: Isuse, Te slăvim! :/
+
+[v2]
+Slăvit Butuc al Vieții
+din care înflorim,
+cu lupta bărbăției
+Isuse, Te slăvim!
+Sub frunzele vestirii
+rod dulce pregătim.
+- Cu harfele iubirii
+Isuse,
+ /: Te slăvim! :/
+/: Isuse, Te slăvim! :/
+
+[v3]
+Slăvit Cuprins al Vieții
+spre care năzuim,
+cu-amurgul bătrâneții,
+Isuse, Te slăvim!
+Din ramuri desfrunzite
+rod sfânt Îți dăruim,
+- Cu slujbele-mplinite,
+Isuse!
+ /: Te slăvim! :/
+/: Isuse, Te slăvim! :/

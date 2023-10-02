@@ -1,0 +1,21 @@
+[title]
+Proverbe :- {composer: {Nicolae Moldoveanu}, {rcId: {251267}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+V1: Fiul meu, păstrează-n suflet ale mele-adânci cuvinte,
+/: și-ale mele bune sfaturi ține-mi-le bine minte. :/
+
+[v2]
+V2: Ține sfaturile mele... și trăi-vei fără ură,
+/: ca a ochilor lumină ține-mi buna-nvățătură. :/
+
+[v3]
+V3: Leagă-le la mâini cu grijă și la degete le leagă,
+/: pe a inimii tăbliță să le scrii pe viața-ntreagă. :/
+
+[v4]
+V4: Zi-i înțelepciunii: Tu ești sora mea cea mai aleasă,
+/: și priceperea numește-o a ta prietenă de casă. :/

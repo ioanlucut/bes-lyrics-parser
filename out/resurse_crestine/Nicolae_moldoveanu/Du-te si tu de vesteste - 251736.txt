@@ -1,0 +1,43 @@
+[title]
+Du-te si tu de vesteste {composer: {Nicolae Moldoveanu}, {rcId: {251736}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Du-te și tu de vestește
+mântuirea lui Hristos,
+căci păcatul crește-crește,
+și sfârșitu-i fioros.
+
+[c]
+Du-te astăzi, du-te astăzi,
+du-te astăzi de vestește,
+chiar de crezi că e-n pustiu,
+du-te cheamă, du-te cheamă,
+du-te cheamă, stăruiește,
+până când nu-i prea târziu.
+
+[v2]
+N-avea frică nici rușine,
+a chema la Dumnezeu,
+cât de greu ți-ar fi - știi bine,
+dacă taci va fi mai greu.
+
+[v3]
+Lumea piere-n neștiința
+mântuirii lui Hristos,
+blestemul și necredința,
+duc spre iadul fioros.
+
+[v4]
+Vremea Harului sfârșește,
+iar în lumea fără har,
+fărdelegea crește-crește,
+și chemarea-i în zadar.
+
+[v5]
+Vine-o zi - și nu-i departe,
+când va tace-al crucii grai,
+și-atunci fi-va numai moarte,
+strigăte și plâns și vai...

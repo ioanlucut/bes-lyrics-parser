@@ -1,0 +1,36 @@
+[title]
+Nu ma rog acum {composer: {Nicolae Moldoveanu}, {rcId: {198342}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Nu mă rog acum s-oprești furtuna,
+nici să-nlături ura celui rău,
+/: Doamne, dar doresc, doresc fierbinte, :/
+/: să nu pierd nimic din ce-i al Tău. :/
+
+[v2]
+Dă-mi din Tine necurmat tărie,
+ca să trec cu bine ceasul rău,
+/: să păstrez credința și iubirea, :/
+/: să nu pierd nimic din ce-i al Tău. :/
+
+[v3]
+Pacea Ta adânc să mă-nsoțească,
+când lovit mi-e sufletul mai rău,
+/: ceru-ncrederii senin să-mi fie, :/
+/: să nu pierd nimic din ce-i al Tău. :/
+
+[v4]
+Nevinovăția să-mi lumine
+pașii mei când trec pe drumul rău,
+/: ține-mi ochii spre eternul Mâine, :/
+/: să nu pierd nimic din ce-i al Tău. :/
+
+[v5]
+Vreau să pot și eu, așa ca Tine,
+la sfârșit - curat de-un cuget rău -
+/: să spun: ”
+Tată am isprăvit lucrarea, :/
+/: n-am pierdut nimic din ce-i al Tău!” :/

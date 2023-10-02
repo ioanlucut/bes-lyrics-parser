@@ -1,0 +1,35 @@
+[title]
+Lauda tie lauda tie {composer: {Nicolae Moldoveanu}, {rcId: {250884}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Laudă Ție, laudă Ție,
+laudă Ție, Doamne-n veci!
+Pentru harul felurit
+ce mi-l dai necontenit,
+ca să pot trăi mai sfânt
+/: printre oameni pe pământ. :/
+Laudă Ție, laudă Ție,
+laudă Ție, Doamne-n veci!
+
+[v2]
+Laudă Ție, laudă Ție,
+laudă Ție, Doamne-n veci!
+Pentru-al Tău Cuvânt ceresc
+ce mi-l dai, să pot să cresc
+mai frumos și mai deplin
+/: după chipul Tău divin. :/
+Laudă Ție, laudă Ție,
+Laudă Ție, Doamne-n veci!
+
+[v3]
+Laudă Ție, laudă Ție,
+laudă Ție, Doamne-n veci.
+Pentru dragostea-Ți de foc
+ce ne-adună la un loc,
+Doamne, pentru jertfa Ta,
+/: pe Altarul Golgota, :/
+laudă Ție, laudă Ție,
+laudă Ție, Doamne-n veci!

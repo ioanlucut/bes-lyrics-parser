@@ -1,0 +1,41 @@
+[title]
+Ce har e-n inima iubirea {composer: {Nicolae Moldoveanu}, {rcId: {248818}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Ce har e-n inimă iubirea,
+ce poate arde-nflăcărat,
+dar ce păcat când haru-acesta
+nu arde pentru ce-i curat!
+
+[c]
+Ce har e-n suflet dărnicia,
+ce poate împărți mereu,
+dar ce păcat când haru-acesta
+nu-i dat întreg spre Dumnezeu.
+
+[v2]
+Ce har e-n viață bogăția,
+cât bine poți cu ea să faci,
+dar ce păcat când haru-acesta
+n-ajunge pân-la cei săraci!
+
+[c2]
+Ce har e-n lume-nțelepciunea,
+să vezi lumina și s-o știi,
+dar ce păcat când haru-acesta
+închis, doar pentru tine-l ții!
+
+[v3]
+Ce har e încă mântuirea,
+ce Domnu-mbie tuturor,
+dar ce păcat că haru-acesta
+atâția-l uită până mor!
+
+[c3]
+Ce har ceresc e ziua de-astăzi,
+ce sfânt s-ar cere s-o trăim,
+dar ce păcat c-atâția încă
+nu știm deplin s-o folosim!

@@ -1,0 +1,35 @@
+[title]
+Inger alb {composer: {Nicolae Moldoveanu}, {rcId: {189876}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Înger alb din Cerul sfânt,
+Se coboară pe pământ,
+/: Veste mare aducând,
+Despre Mesia cel blând. :/
+
+[v2]
+Cum smerit S-a întrupat,
+Să ne scape de păcat,
+/: Și cum ceru-a părăsit,
+Căci atâta ne-a iubit! :/
+
+[v3]
+Loc în lume n-a avut,
+Domnul Cel făr-de-nceput,
+/: Ieslea boilor l-a fost,
+Leagăn sfânt și adăpost! :/
+
+[v4]
+Azi din nou, Isuse blând,
+Vii la noi ca oarecând,
+/: Ieslea inimii ne-o cei,
+Ca să-i simți căldura ei. :/
+
+[v5]
+Să-i aduci ca dar frumos,
+Cerul Tău prealuminos,
+/: S-o sfințești s-o faci un rai,
+Ca în ea pe veci să stai! :/

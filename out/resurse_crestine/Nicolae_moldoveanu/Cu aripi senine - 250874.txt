@@ -1,0 +1,30 @@
+[title]
+Cu aripi senine {composer: {Nicolae Moldoveanu}, {rcId: {250874}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Cu aripi senine
+și speranțe pline
+/: zilnic vreau să zbor
+înspre Viitor
+/:
+
+[v2]
+Cu puteri de soare
+peste nopți amare
+/: trec biruitor
+înspre Viitor. :/
+
+[v3]
+Cu sclipiri de ceruri
+printre negre țeluri
+/: mă avânt cu dor
+înspre Viitor. :/
+
+[v4]
+Tu-mi ești Viitorul,
+Dragostea și Dorul,
+/: Tu, Prezentul meu,
+dulce Dumnezeu. :/

@@ -5,43 +5,45 @@ Iata-ma isuse {composer: {Anonim}, {rcId: {228041}}
 v1,c,v2,c2,v3,c3
 
 [v1]
-Iată-mă Isuse stau naintea Ta
+Iată-mă Isuse,
+Stau ’naintea Ta
 N-am daruri nespuse
-Dar vin să-ți dau inima mea.
+Dar vin să-Ți dau inima mea.
 
 [c]
-N-am bogăție, nici avuție
+N-am bogăție nici avuție
 Iată-mă Doamne așa cum sunt
 Tu-mi ești pe lume a mea bucurie
-Și mi-e de-ajuns doar numele-Ți sfânt.
-N-am bani, n-am aur
-Tu-mi ești tezaur
+Și mi-e de-ajuns doar numele-Ți Sfânt.
+N-am bani n-am aur, Tu-mi ești tezaur
 Isuse dragă eu Te ador
-Știu că odată spre sfintele plaiuri
+Știu că odată, spre Sfintele plaiuri
 În mii de stoluri cu Tine-am să zbor.
 
 [v2]
-Iată-mă Isuse, mic și ne-nsemnat
+Iată-mă Isuse,
+Mic și ne-nsemnat
 N-am comori ascunse
 Dar sunt prin Tine om bogat.
 
 [c2]
-N-am nici palate, nici nestemate
-Nici ranguri-nalte pe-acest pământ
+/: N-am nici palate nici nestemate
+N-am ranguri ’nalte pe-acest pământ
 Te am pe Tine prieten și frate
-Sunt fericit de-aceea Îți cânt.
+Sunt fericit de-aceea Îți cânt. :/
 
 [v3]
-Iată-mă Isuse vin să fiu iertat,
+Iată-mă Isuse,
+Vin să fiu iertat
 Vin la a Ta cruce
-Mă spală miel nevinovat.
+Mă spală Miel nevinovat..
 
 [c3]
-/: Pentru vecie Doamne doar ție
-Viața mea-ntreagă ți-o dăruiesc
-Și pâna-n sfânta Împărăție
+Pentru vecie, Doamne doar Ție
+Viața mea-ntreagă Ți-o dăruiesc
+Și până-n Sfânta Împărăție
 Doar lângă Tine vreau să trăiesc.
 Numai cu Tine la greu și la bine
 Până când iarăși vei reveni
-Chiar prin dureri chiar și prin suspine
-Nimic de Tine nu m-ar despărți. : \
+Chiar prin dureri și chiar prin suspine
+Nimic de Tine nu m-ar despărți.

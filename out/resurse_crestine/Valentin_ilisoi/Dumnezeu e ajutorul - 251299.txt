@@ -1,0 +1,42 @@
+[title]
+Dumnezeu e ajutorul {composer: {Valentin Ilisoi}, {rcId: {251299}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c2
+
+[v1]
+Dumnezeu e ajutorul
+Ce-n nevoi nu a lipsit!
+El este Ocrotitorul
+Celui slab și obosit.
+
+[c]
+De aceea Îl adoră
+Tot ce a creat,
+Și măreața auroră
+Îl laudă pe-Împărat!
+
+[v2]
+El ca Stânca-n val domnește
+Prin talazuri și furtuni
+Și de-L chemi, Te izbaveste
+Răspunzând la rugăciuni!
+
+[v3]
+Domnul este Împăratul
+Peste-ntreg Pământ și Cer,
+Cheamă-L azi, că nu e altul
+Să sfărâme lanț de fier.
+
+[v4]
+Peste toate stăpânește
+Plin de milă și de har!
+Numai El te mântuiește
+Și-ți dă veșnicia-n dar!
+
+[c2]
+De aceea tu adoră-L
+Căci El te-a creat!
+Ca măreața auroră
+Laudă-L pe-Împărat!
+Amin!

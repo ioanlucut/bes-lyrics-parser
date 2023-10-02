@@ -1,0 +1,33 @@
+[title]
+O doamne-aici ne-am adunat (o herr versammelt sind wir hier) {composer: {Samuel Wesley Sr. Christian Heinrich Zeller, Traducere RO}, {rcId: {251821}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+O, Doamne-aici ne-am adunat
+Cu toți în jurul Tău
+Al Tău Cuvânt sfânt și bogat
+Voioși să-L ascultăm
+Voioși să-L ascultăm.
+
+[v2]
+Cum odată Lidiei ai deschis
+Fereastra inimii
+Pătrunde-n noi, lăsând aprins
+Un dor de veșnicii
+Un dor de veșnicii.
+
+[v3]
+Smeriți, noi vrem să Te-ascultăm
+Oricând Tu ne vorbești
+Nicicând nu vrem să Te uităm
+Căci, doar Tu ne zidești
+Căci, doar Tu ne zidești.
+
+[v4]
+O, Doamne Sfânt rămâi cu noi
+Căci seara va sosi
+Și-n zorii vieții de apoi
+Cu Tine-n veci vom fi
+Cu Tine-n veci vom fi.

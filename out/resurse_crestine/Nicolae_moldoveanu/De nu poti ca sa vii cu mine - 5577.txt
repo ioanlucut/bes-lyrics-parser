@@ -5,27 +5,37 @@ De nu poti ca sa vii cu mine {composer: {Nicolae Moldoveanu}, {rcId: {5577}}
 v1,c,v2,c,v3,c,v4,c,v5,c
 
 [v1]
-De nu poti ca sa vii cu mine, o Isuse,-n orice drum al meu,
-/: Ridica-mi piedici netrecute, o Sa nu mai pot sa trec nici eu! :/
+De nu poți ca să vii cu mine
+Isuse-n orice drum al meu,
+/: ridică piedici netrecute,
+să nu mai pot să merg nici eu. :/
 
 [c]
-/: Sa nu pot, sa nu pot niciodata
-Savarsi fara Tine vreun pas!
-Sa ma las, o, Isuse, de toate,
-Dar de Tine, nicicand sa ma las! :/
+/: Să nu pot, să nu pot niciodată
+săvârși fără Tine vreun pas,
+să mă las, O, Isuse, de toate,
+dar de Tine, nicicând să mă las. :/
 
 [v2]
-De nu poti ca sa-Ti faci lucrarea o Ce-a zamislit-o mintea mea,
-/: Zadarniceste-i implinirea, o Sa nu mai pot pasi spre ea! :/
+De nu poți ca să faci lucrarea
+ce-a zămislit-o mintea mea,
+/: zădărnicește-i împlinirea,
+să nu mai pot păși spre ea. :/
 
 [v3]
-De nu poti sa-mi vorbesti cuvantul o Ce tainic mi-a-ncoltit in gand,
-/: Mai bine curma-mi firul vietii - o Sa nu-l mai pot rosti nicicand! :/
+De nu poți să rostești cuvântul
+ce tainic mi-a-ncolțit în gând,
+/: trimite-mi negura uitării,
+să nu-l mai pot rosti nicicând. :/
 
 [v4]
-De nu poti sa privesti in mine o Ce inima si-ar vrea-mplinit,
-/: Mai bine curma-mi firul vietii, o Decat de Tine despartit! :/
+De nu poți să primești în Tine
+ce inima-mi și-ar vrea-mplinit
+/: mai bine curmă-mi firul vieții,
+decât de Tine despărțit. :/
 
 [v5]
-Caci vreau sa fiu, in intregime, o Ca Tine-n toate: duh si gand!
-/: Ce nu poti face Tu, Isuse, o Sa nu pot faptui, nicicand! :/
+Căci vreau să fiu în întregime
+ca Tine-n toate, tot mereu,
+/: ce nu poți face Tu, Isuse,
+să nu pot făptui nici eu. :/

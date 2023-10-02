@@ -2,18 +2,16 @@
 Fericit cel care-si tine {composer: {Nicolae Moldoveanu}, {rcId: {200648}}
 
 [sequence]
-v1,c,v2,c2,v3,c3,v4,c4
+v1,v2,v3,v4
 
 [v1]
 Fericit cel care-și ține,
 O, Isuse, o, Isuse!
 Calea dreaptă către Tine,
 O, Isuse, o, Isuse!
-
-[c]
 Mintea-i se luminează,
 Fața-i se-nseninează.
-Inima-i se sfințește
+Inima i se sfințește
 Și iubirea-i crește, crește!
 
 [v2]
@@ -21,8 +19,6 @@ Fericit cel care-și are,
 O, Isuse, o Isuse!
 Sufletul în Tine tare,
 O, Isuse, o, Isuse!
-
-[c2]
 Nu e val și nici furtună,
 Râvna lui să i-o răpună.
 Orice greu el biruiește,
@@ -33,21 +29,17 @@ Fericit cei care-și duce,
 O, Isuse, o, Isuse!
 Fără murmur sfânta-i cruce,
 O, Isuse, o, Isuse!
-
-[c3]
 Viața e mai roditoare,
 Bucuria-i tot mai mare.
-Pacea Ta-i se’nnoiește
+Pacea Ta-i se-nnoiește
 Și nădejdea-i crește, crește!
 
 [v4]
-Cel ce-și are viața toata,
+Cel ce-și are viața toată,
 O, Isuse, o, Isuse!
 În Ființa-Ți minunată,
 O, Isuse, o, Isuse!
-
-[c4]
-Fericit este’n lumină,
+Fericit este-n lumină,
 Și-are sărbătoare plină.
 Căci în Tine, el își are,
 Ale vieții lui izvoare!

@@ -1,0 +1,41 @@
+[title]
+Nu ti-a fost prieten {composer: {Nicolae Moldoveanu}, {rcId: {4590}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Nu ți-a fost prieten duhul lumii:
+Te-a amânat de azi pe mâini
+/: Și după ani de înșelare,
+Nimic nu ți-a lăsat în mâini. :/
+
+[v2]
+Nu ți-a fost nici copilăria,
+Prieten credincios, - curând
+/: S-a dus senină către alții
+Și gol, te-a părăsit, plângând. :/
+
+[v3]
+Nu ți-au fost prieteni, cu credință
+Nici tinerețea, cât ai vrut,
+/: Nici sănătatea, nici norocul
+- Un singur Prieten ai avut. :/
+
+[v4]
+Dar pe Acela Unul singur,
+L-ai prețuit cel mai puțin,
+/: L-ai ascultat cel mai din urmă
+Și L-ai privit cel mai străin. :/
+
+[v5]
+Și totuși încă mai așteaptă
+Ca-n sfintele-ti păreri de rău,
+/: Să pretuiești a Lui iubire,
+Cât mai așteaptă-n pragul tău. :/
+
+[v6]
+Deschide-i singurului Prieten,
+Plângându-ți vina ta cu-amar,
+/: Căci dacă și El se va duce,
+Poți plânge-n veci - va fi-n zadar... :/

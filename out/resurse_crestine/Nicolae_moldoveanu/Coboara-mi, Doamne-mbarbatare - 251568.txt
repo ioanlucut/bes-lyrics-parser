@@ -1,0 +1,41 @@
+[title]
+Coboara-mi doamne-mbarbatare {composer: {Nicolae Moldoveanu}, {rcId: {251568}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Coboară-mi, Doamne-mbărbătare
+în golul inimii trudite,
+când pașii-mi tremură prea tare
+și mâinile mi-s prea slăbite.
+
+[c]
+Când inima-mi se teme
+și urcă tremurând,
+Refă Isuse-n orice vreme
+Coboară-n mine blând.
+
+[v2]
+Coboară-mi dulcea-Ți mângâiere,
+În trupul meu zdrobit de cruce,
+când o să guste numai fiere
+pentru iubirea ce-Ți aduce.
+
+[v3]
+Coboară-mi sfânta-nfiorare,
+în laudele-nlăcrimate,
+mai mult atunci, când mai amare,
+mi-s răsplătirile-adunate.
+
+[v4]
+Coboară-mi calda mulțumire,
+în cea din urmă rugăciune,
+când împlinita mea slujire,
+Isus, în mâna Ta-mi voi pune.
+
+[v5]
+Coboară-mi ne-ncetat și-n mine
+și-n jurul meu, a Ta putere,
+din orice pătimiri, prin Tine,
+să mă înalț c-o înviere.

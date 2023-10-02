@@ -1,0 +1,29 @@
+[title]
+Sa fii oricand o piatra vie {composer: {Nicolae Moldoveanu}, {rcId: {249980}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Să fii oricând o piatră vie,
+în Templul minunat al vieții,
+/: și sufletul deplin să-ți fie
+ca zorii albi ai dimineții. :/
+
+[v2]
+O unitate fericită
+să ai cu orice piatră-n parte,
+/: nimic din lumea învrăjbită
+să nu mai poat-a te desparte. :/
+
+[v3]
+Fluidul dragostei divine,
+cu minunata Iui putere,
+/: îmbelșugat să curgă-n tine,
+să-mparți oriunde mângâiere. :/
+
+[v4]
+Și dacă templul vieții tale
+îl ții deplin în curăție,
+/: vei fi pe-acest pământ o cale,
+și-n Templul veșnic - piatră vie. :/

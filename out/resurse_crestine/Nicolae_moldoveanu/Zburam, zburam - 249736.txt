@@ -1,0 +1,29 @@
+[title]
+Zburam zburam {composer: {Nicolae Moldoveanu}, {rcId: {249736}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Zburăm, zburăm cu-aripile credinței,
+spre ’naltul adevărului preasfânt,
+și-n noi primim puterea biruinței
+prin haru-adus de Noul Legământ.
+
+[c]
+Isus, Isus, Mântuitor puternic,
+Tu ne păstrezi în harul Tău mereu,
+prin Tine noi putem trăi cucernic
+în Sfânta Sfintelor lui Dumnezeu.
+
+[v2]
+Trăim, trăim în brațele nădejdii,
+încrezători și odihniți deplin,
+și nu ne temem, când spre noi, primejdii
+mai negre și mai furioase vin.
+
+[v3]
+Aprinși, aprinși de flacăra iubirii
+împrăștiem iubire tuturor;
+vrem să-i silim pe poarta mântuirii
+să intre toți, chiar dacă azi nu vor.

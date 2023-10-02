@@ -1,0 +1,40 @@
+[title]
+Cine e ca tine doamne {composer: {Nicolae Moldoveanu}, {rcId: {248668}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Cine e ca Tine, Doamne,
+înțelept și bun și mare,
+ca să-mi toarne-n suflet zilnic
+bogăție de-ndurare?
+
+[c]
+Numai Tu, numai Tu,
+Numai Tu, Isuse,
+Numai Tu, numai Tu.
+
+[v2]
+Cine poate să-mi aprindă
+Candela înțelepciunii,
+Ca să pot străbate bezna
+Fărdelegii și-a minciunii?
+
+[v3]
+Cine-mi ține pe cărarea
+Adevărurilor sfinte,
+Sprinteni pașii mei,
+S-alerge înainte, înainte?
+
+[v4]
+Cine dă credinței mele
+Prospețime și putere,
+Cine mă alină dulce
+Când mă-ncearcă vreo durere?
+
+[v5]
+Cine râvna mi-o-nnoiește
+Și iubirea mi-o-nfierbântă?
+Numai Tu, Isuse, Doamne,
+Cu puterea Ta cea sfântă!

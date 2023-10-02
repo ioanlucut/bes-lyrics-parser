@@ -5,24 +5,24 @@ Intoarce-te din drumul tau {composer: {Gabriel Gorcea și prietenii}, {rcId: {11
 v1,c,v2,c,v3,c
 
 [v1]
-De câte ori Domnul ți-a vorbit ?
-De câte ori a bătut la ușa ta ?
+De câte ori Domnul ți-a vorbit?
+De câte ori a bătut la ușa ta?
 El vine azi, din nou și bate!
-Îi vei deschide sau vei refuza ?
+Îi vei deschide sau vei refuza?
 
 [c]
-Întoarce-te din drumul tău
-Lasă poftele deșarte
-Dumnezeu te face Fiul său
-Și-ți dă iertare de păcate
-Dumnezeu te iubește
-Pentru Tine S-a jertfit
+Întoarce-te din drumul tău,
+Lasă poftele deșarte!
+Dumnezeu te face fiul Său
+Și-ți dă iertare de păcate.
+Dumnezeu te iubește,
+Pentru tine S-a jertfit.
 El Și-a dat pe cruce viața
-Căci Te-a iubit.
+Căci te-a iubit.
 
 [v2]
 De câte ori ai recunoscut
-Că numai Dumnezeu te-a ocrotit ?
+Că numai Dumnezeu te-a ocrotit?
 Dar apoi tu ți-ai văzut de drum,
 Nu te-ai întors la El să fii smerit!
 

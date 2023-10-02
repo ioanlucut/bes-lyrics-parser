@@ -1,0 +1,32 @@
+[title]
+Nori de smoala {composer: {Nicolae Moldoveanu}, {rcId: {251558}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Nori de smoală grei se-abat,
+mai grei se-abat, mai grei se-abat,
+pe-al vieții-mi drum curat,
+pe drum curat, curat.
+
+[c]
+Dar Tu, Lumină de nespus,
+cu mine ești, Isus, Isus.
+Tu mă-nsoțești
+Tu mă-ntărești
+și-n Tine mă păzești,
+să nu poată ziua rea,
+să frângă viața mea.
+
+[v2]
+Cel vrăjmaș mai mult acum,
+mai mult acum, mai mult acum,
+tună și ridică fum,
+ridică nori de fum.
+
+[v3]
+Crucea-i tot mai greu de dus,
+mai greu de dus, mai greu de dus,
+bezna pare făr-apus,
+- așa-i când vii, Isus.

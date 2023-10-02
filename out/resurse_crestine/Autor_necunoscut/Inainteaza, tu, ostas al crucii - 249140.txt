@@ -1,0 +1,29 @@
+[title]
+Inainteaza tu ostas al crucii {composer: {Anonim}, {rcId: {249140}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Înaintează, tu, ostaș al crucii!
+Doar clipe pan’ la birunți vor fi
+/: Pe stânca lui Isus ți-ai pus zidire
+A lutului tău casă-n pribegire. :/
+
+[v2]
+Înaintează, fii statornic brav!
+A lumii mari împărății în frică zac,
+/: Dar de s-ar zgudui întreg pamant
+Hristos e adapostul tău și scut. :/
+
+[v3]
+Înaintează, tu, salvat prin jertfă!
+Și caută-ți frații cei pierduți cu milă.
+/: Ei astăzi sunt pe alte căi drumari
+Și pentru ei s-a plâns în Ghetsimani. :/
+
+[v4]
+Înaintează azi și mergi și mâine!
+O viață pentru cer nu piere ci ramane
+/: Și-n slava cea de veci langa Hristos
+Primit va fi ostașul credincios. :/

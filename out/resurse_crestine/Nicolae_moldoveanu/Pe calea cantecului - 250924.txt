@@ -1,0 +1,43 @@
+[title]
+Pe calea cantecului {composer: {Nicolae Moldoveanu}, {rcId: {250924}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Pe calea cântecului azi
+eu vin să-Ți mulțumesc,
+Să-Ți laud numele preasfânt,
+o, Tatăl meu ceresc!
+
+[c]
+Prin cânt, prin cânt,
+o, Tată sfânt,
+Te-nalț căci ești ne-nfrânt!
+Slăvit, slăvit,
+În veci slăvit
+fii Tatăl meu iubit.
+
+[v2]
+Prin cântec să-mi arăt curat
+al bucuriei plin,
+să-Ți laud harul minunat,
+o, Tatăl meu divin!
+
+[v3]
+Prin cântec nou și deslușit,
+al jertfei Dar să-l spun,
+să-Ți laud dragostea cu foc,
+o, Tatăl meu preabun!
+
+[v4]
+Prin cântec să mărturisesc
+eternul Tău Cuvânt,
+să-Ți laud viul adevăr,
+o, Tatăl meu preasfânt!
+
+[v5]
+Și tot ce-mi ești acum și-n veci,
+să spun prin cântul meu,
+să-Ți laud frumusețea Ta,
+Slăvite Dumnezeu!

@@ -2,28 +2,34 @@
 Numai o data tu traiesti {composer: {Nicolae Moldoveanu}, {rcId: {5393}}
 
 [sequence]
-v1,v2,v3,v4
+v1,v2,v3,v4,v5
 
 [v1]
 Numai o dată tu trăiești
-Și cui ai vrea să îi slujești
+Și cui ai vrea să-i slujești
 /: Numai o inimă tu ai
-Și cui ai vrea să o predai. :/
+Și cui ai vrea tu s-o predai? :/
 
 [v2]
 O, de-ai sluji tu lui Isus
-Și inima so-ndrepți în sus,
+Și inima s-o-ndrepți în sus,
 /: Isus ar fi Stăpânul tău,
-Iar tu ai fi copilul Său. :/
+Iar tu i-ai fi copilul Său. :/
 
 [v3]
 El ți-ar aduce bucurii,
 Pe care tu nici nu le știi,
-/: Și-n clipe grele de dureri,
+/: În clipe grele de dureri,
 El ți-ar aduce mângâieri. :/
 
 [v4]
-Atunci întreagă viața ta
-Cu bucurie ai cânta
-/: Și-ai spune pururea oricui
-Ce dulce-i fericirea Lui. :/
+Atunci întreagă viața ta,
+Cu bucurie i-ai cânta
+/: Și-ai spune pururea oricui,
+Ce dulce e viața Lui. :/
+
+[v5]
+Viața-ntreagă I-ai sluji
+Și-apoi în cer cu El ai fi,
+/: Căci Domnu-ar fi Stăpânul tău
+Iar tu I-ai fi copilul Său. :/

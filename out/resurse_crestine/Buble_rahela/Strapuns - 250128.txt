@@ -1,0 +1,35 @@
+[title]
+Strapuns {composer: {Buble Rahela}, {rcId: {250128}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Strapunse-au fost în cuie
+Și pironite pe Calvar;
+Pentru-al meu păcat.
+Ale Tale palme care-au sângerat.
+
+[c]
+În rănile Tale
+Refugiul mi-am găsit!
+Paharul suferinței,
+Să-l beau ca Tin’ pân la sfârșit.
+
+[v2]
+Străpunse-au fost la cruce,
+Smeritele picioare-nbălsămate;
+Ce greul crucii îl purtau
+Dar, spre ceruri ne călăuzeau.
+
+[v3]
+Străpuns Ți-a fost al Tău piept,
+Al focului iubiri cerești;
+Inima să-mi despietrești.
+Și al meu suflet gol, Tu să-l mântuiești.
+
+[v4]
+Străpuns ești de noi astăzi,
+Mai prețuim jertfirea Ta?
+Și iubirea ta?
+Te trădăm mereu, părăsind altarul Tău.

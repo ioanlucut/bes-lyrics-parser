@@ -1,0 +1,22 @@
+[title]
+Vine primavara {composer: {Nicolae Moldoveanu}, {rcId: {251520}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Vine primăvara plină de lumină,
+/: copilașii-aleargă sprinteni prin grădină. :/
+
+[v2]
+Vine primăvara, păsările cântă,
+/: copilașii-n jocuri pe câmpii se-avântă. :/
+
+[v3]
+Vine primăvara, zboară fluturașii,
+/: codru-i plin de freamăt, veseli copilașii. :/
+
+[v4]
+Vine primăvara, Dumnezeu o cheamă.
+/: Copi
+Iași, de-aceasta bine țineți seamă! :/

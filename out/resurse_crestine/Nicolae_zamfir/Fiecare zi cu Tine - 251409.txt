@@ -1,0 +1,30 @@
+[title]
+Fiecare zi cu tine {composer: {Nicolae Zamfir}, {rcId: {251409}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Fiecare zi cu tine
+Imi aduce bucurie
+Fiecare zi cu tine
+Valorează cât o mie
+
+[c]
+Isus ești bucuria mea
+Isus ești fericirea mea
+Isus tu ești neprihănirea
+În care am eu mântuirea
+Aleuia, Aleluia
+
+[v2]
+Fiecare pas cu tine
+Imi aduce siguranță
+Fiecare pas cu tine
+Este spre o nouă viață
+
+[v3]
+Când te simt Isus cu mine
+Simt o pace simt iubire
+Cand te simt Isus cu mine
+Simt ca sunt in vesnicie

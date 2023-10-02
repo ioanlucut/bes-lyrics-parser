@@ -1,0 +1,19 @@
+[title]
+Primavara primavara {composer: {Nicolae Moldoveanu}, {rcId: {251519}}
+
+[sequence]
+v1,v2
+
+[v1]
+/: Primăvară, primăvară, zâmbet binecuvântat :/
+peste crengi așterne iară dulcea florilor povară
+și adu din nou în țară cântătoare.
+călătoare, psalmi să-nalțe iar în soare
+/: lui Isus cel înviat! :/
+
+[v2]
+/: Crinilor neprihănirii fă-le-argintul mai curat! :/
+Cheamă îngerii iubirii să-și reverse trandafirii,
+peste-ntreg cuprinsul firii,
+și coboară, primăvară. să vestești în lume iară
+/: pe Isus cel înviat! :/

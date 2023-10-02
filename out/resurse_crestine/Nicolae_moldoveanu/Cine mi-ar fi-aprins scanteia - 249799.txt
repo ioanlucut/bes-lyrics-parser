@@ -1,0 +1,43 @@
+[title]
+Cine mi-ar fi-aprins scanteia {composer: {Nicolae Moldoveanu}, {rcId: {249799}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c2
+
+[v1]
+Cine mi-ar fi-aprins scânteia
+de-adevăr și de iubire,
+de n-ai fi venit, Isuse,
+din cereasca Ta mărire?
+
+[c]
+Nimeni, nimeni, nimeni, Doamne,
+nimeni, nimeni, numai Tu, numai Tu, numai Tu!
+
+[v2]
+Cine m-ar fi scos din groapa
+chinurilor nemaistinse,
+de n-ai fi plătit Tu prețul
+vinei mele necuprinse.
+
+[v3]
+Cine mi-ar fi dat credința
+și nădejdea-n înviere,
+de n-ai fi zdrobit Tu moartea,
+prin a Golgotei putere?
+
+[v4]
+Cine mi-ar aduce harul
+vieții celei noi și sfinte,
+de n-ai mijloci, prin sânge,
+la prea dulcele Părinte?
+
+[v5]
+Tu, Isuse, Tu, Isuse,
+Tu-mi ești TOTUL pe vecie
+Laudă și-nchinăciune
+Îți aduc, mărire Tie!
+
+[c2]
+Ție, Ție, Ție, Doamne, Ție, Doamne
+slavă-n veci, slavă-n veci!

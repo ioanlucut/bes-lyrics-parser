@@ -1,0 +1,29 @@
+[title]
+Nu-i cu putinta {composer: {Nicolae Moldoveanu}, {rcId: {249111}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Nu-i cu putință flacără să doarmă,
+nu-i cu putință mucegai în râu,
+/: nu-i cu putință - raza nu se sfarmă,
+piatra nu-i pâine, țărna nu e grâu. :/
+
+[v2]
+Nu-i cu putință fiului credinței
+calea să-și piardă când e-ascultător,
+/: nu-i cu putință cântul biruinței
+celui de patimi pururi iubitor. :/
+
+[v3]
+Nu-i cu putință somnul nepăsării
+celui născut din Soarele Isus,
+/: nu-i cu putință duhul întristării,
+pacea când umple sufletul supus. :/
+
+[v4]
+Nu-i cu putință dragostea s-o piardă
+inima-n care e Stăpân Hristos,
+/: flacăra-i sfântă pururi o să ardă,
+cerul vieții-l va păstra frumos. :/

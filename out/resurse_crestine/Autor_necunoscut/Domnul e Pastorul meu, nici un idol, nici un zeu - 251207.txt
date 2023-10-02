@@ -1,0 +1,53 @@
+[title]
+Domnul e pastorul meu nici un idol nici un zeu {composer: {Anonim}, {rcId: {251207}}
+
+[sequence]
+v1,v2,c,v3,v4,c,c2
+
+[v1]
+Domnul e Păstorul meu!
+Nici un idol, nici un zeu
+nu mă înspăimântă.
+El mă paște-n verzi pășuni
+și mi-e pază în furtuni
+prin puterea sfântă.
+
+[v2]
+Și pe ape de cristal
+si pe mări, din val în val,
+Domnul meu mă poartă.
+El mi-e scut. El mi-e balsam.
+El e pacea care-o am
+prin a vieții soartă.
+
+[c]
+/: Sufletul mi-e inviorat
+prin Cuvântul Său curat
+care mă susține.
+Chiar de-ar fi să trec prin hău
+nu mă tem de nici-un rău,
+căci El e cu mine. :/
+
+[v3]
+Traversând și munți și văi
+chiar în fața celor răi
+îmi întinde-o masă.
+El îmi toarnă untdelemn
+și-mi dă cel mai bun îndemn:
+dragostea-I aleasă.
+
+[v4]
+Viața mea-i un zbor senin
+și paharul meu e plin,
+plin întotdeauna.
+Eu sunt serv. El mi-e Stăpân.
+Vreau cu Domnul să rămân
+pentru totdeauna.
+
+[c2]
+Și prin har eu voi trăi
+pentru ceruri zi de zi
+viața care trece.
+Iar acolo, sus în Rai,
+pe-al iubirii veșnic plai
+cu El voi petrece.

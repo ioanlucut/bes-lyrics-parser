@@ -1,0 +1,23 @@
+[title]
+Tu ma cercetezi {composer: {Nicolae Zamfir}, {rcId: {251410}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Tu mă cercetezi și îmi dăruești
+Tot ce ai mai bun fiindcă mă iubesti
+Văd la orice pas Doamne ești cu mine
+Singur nu mă lasi mâna Ta mă ține
+
+[c]
+Tu esti adăpostul sufletului meu
+Unicul și sfântul Dumnezeu
+Tu esti vesnic sfânt, Doamne eu îți cânt
+Tu ești sursa din care trăiesc
+
+[v2]
+Tu în slăbiciuni poți să faci minuni
+Tu mă întăresți findcă ma iubesti
+Nimeni n-ar putea o inima să-mi dea
+Să trăiesc o Doamne după voia Ta

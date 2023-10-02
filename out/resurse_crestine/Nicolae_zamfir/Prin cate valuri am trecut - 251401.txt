@@ -1,0 +1,29 @@
+[title]
+Prin cate valuri am trecut {composer: {Nicolae Zamfir}, {rcId: {251401}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Prin câte valuri am trecut
+Și câte încercări, în viată
+Prin toate Doamne am văzut
+Iubirea Ta de Tată.
+
+[c]
+Prin toate Doamne câte trec
+Și bucuri și clipe grele
+Prin toate văd dragostea Ta
+Si voia Ta în ele
+
+[v2]
+Prin câte clipe am trecut
+Si ceasuri grele de amar
+Print toate Doamne am văzut
+Ce Dulce este al Tău har
+
+[v3]
+Nu suntem ingeri pe pamant
+Noi stim ce e durerea
+Și-n zilele de încercări
+Ce dulce este mângăierea

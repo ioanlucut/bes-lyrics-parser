@@ -6,9 +6,9 @@ v1,v2,v3,v4
 
 [v1]
 Fă, Doamne, cântarea să-mi fie,
-Albină și’ntruna să zboare,
+Albină și-ntruna să zboare,
 /: Din floare în floare, :/
-/: Mai sprintenă’n mers și zglobie :/
+/: Mai sprintenă-n mers și zglobie :/
 
 [v2]
 Aripa să-mi fie muiată,
@@ -19,11 +19,11 @@ Aripa să-mi fie muiată,
 [v3]
 Prin zumzetu-i cald să pătrundă,
 În suflete pacea și cerul,
-/: Și’ntreg adevărul, :/
+/: Și-ntreg adevărul, :/
 /: Cu blânda și dulcea Iui undă :/
 
 [v4]
 Fă, Doamne, cântarea să-mi fie,
 Albină pe-a dragostei floare,
 /: De-a pururi să zboare, :/
-/: Și’n inimi iubirea să’nvie! :/
+/: Și-n inimi iubirea să-nvie! :/

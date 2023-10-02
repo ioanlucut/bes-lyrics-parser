@@ -1,0 +1,35 @@
+[title]
+Un sfant camin sa ai {composer: {Nicolae Moldoveanu}, {rcId: {251141}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Un sfânt cămin să ai
+și-un drum frumos,
+un mers curat - și-un trai
+sfânt în Hristos.
+/: O cruce numai flori,
+o noapte numai zori,
+așa-ți dorim, așa,
+de nunta ta. :/
+
+[v2]
+Să ai în toate spor
+frumos și lin,
+să treci prin orice nor
+cu chip senin.
+/: Cu suflet fericit
+și duhul liniștit,
+așa-ți dorim, așa
+de nunta ta. :/
+
+[v3]
+Mai binecuvântat
+să fii mereu,
+mai sfânt cuvântul dat
+lui Dumnezeu.
+/: Mereu mai luminos
+să arzi pentru Hristos,
+așa-ți dorim, așa
+de nunta ta. :/

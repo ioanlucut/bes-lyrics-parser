@@ -5,8 +5,7 @@ Mai treaza-mi tine tu isuse {composer: {Nicolae Moldoveanu}, {rcId: {7357}}
 v1,c,v2,c,v3,c,v4,c,v5,c
 
 [v1]
-Mai trează-mi ține Tu,
-Isuse,
+Mai trează-mi ține Tu, Isuse,
 Credința în venirea Ta
 Să-mi poată dragostea sfințită
 În orice timp a Te-aștepta.

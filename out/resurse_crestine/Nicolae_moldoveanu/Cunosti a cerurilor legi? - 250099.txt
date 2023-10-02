@@ -1,0 +1,40 @@
+[title]
+Cunosti a cerurilor legi? {composer: {Nicolae Moldoveanu}, {rcId: {250099}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Cunoști a cerurilor legi?
+Le știi tu veșnica-ntocmire?
+/: Și dacă spui că le-nțelegi, :/
+/: le ai tu zilnic în trăire? :/
+
+[c]
+Ceruri sfinte
+Cel ce v-a-ntocmit
+este Dumnezeul Cel în veci slăvit.
+
+[v2]
+Întâi e Pacea de nespus,
+apoi Iubirea arzătoare,
+/: : și Unitatea făr-apus :/
+/: în cei din cer - în sărbătoare. :/
+
+[v3]
+Cerești sunt cei ce-au fost născuți
+din Dumnezeu - sămânța-I vie,
+/: din lumea morții sunt trecuți :/
+/: în sfânta vieții-mpărăție. :/
+
+[v4]
+Prin tot ce sunt ei dovedesc
+această Obârșie-aleasă,
+/: și felul ei deplin ceresc :/
+/: din traiul lor deplin se lasă. :/
+
+[v5]
+Cunoști a-cerurilor legi?
+Le știi tu veșnica ’ntocmire?
+/: Și dacă spui că le-nțelegi, :/
+/: se vede din a ta trăire? :/

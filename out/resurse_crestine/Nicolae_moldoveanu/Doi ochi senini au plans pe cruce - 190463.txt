@@ -1,0 +1,41 @@
+[title]
+Doi ochi senini au plans pe cruce {composer: {Nicolae Moldoveanu}, {rcId: {190463}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Doi ochi senini au plâns pe cruce
+Adânc sfâșietor și greu
+/: Doi ochi senini au plâns pe cruce
+Păcatul meu, păcatul tău :/
+
+[v2]
+O frunte a ispășit pe cruce
+Sub spinii cruntului călău,
+/: O frunte a ispășit pe cruce
+Păcatul meu, păcatul tău :/
+
+[v3]
+Și două mâini iertau pe cruce
+Mijlocitor spre Dumnezeu
+/: O, două mâini iertau pe cruce
+Păcatul meu, păcatul tau :/
+
+[v4]
+Și-o inimă murea pe cruce,
+Răscumpărându-ne din rău
+/: O inimă purta pe cruce
+Păcatul meu, păcatul tău :/
+
+[v5]
+O, ochi senini și frunte sfântă,
+Ce-adânc v-a sângerat mereu,
+/: O, ochi senini, o, frunte sfântă,
+Păcatul lor, păcatul meu! :/
+
+[v6]
+Și sfinte mâini însângerate,
+Adânc în suflet azi mă dor,
+/: Preasfinte mâini însângerate
+Păcatul meu, păcatul Ior! :/

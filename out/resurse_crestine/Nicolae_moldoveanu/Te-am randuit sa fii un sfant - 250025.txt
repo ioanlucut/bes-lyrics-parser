@@ -1,0 +1,23 @@
+[title]
+Te-am randuit sa fii un sfant {composer: {Nicolae Moldoveanu}, {rcId: {250025}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Te-am rânduit să fii un sfânt,
+să nu te-amesteci cu pământ,
+/: să fii ceresc, precum sunt Eu. :/
+Tu ești al Meu, tu ești al Meu. :/
+
+[v2]
+Te-am rânduit să fii curat,
+cu sânge te-am răscumpărat.
+/: Da. Eu sunt Plata pentru tot, :/
+altfel nu pot, altfel nu pot. :/
+
+[v3]
+Primește, dar, iubirea Mea
+nu vreau în schimb decât pe-a ta.
+/: Tu ești al Meu, ești Dumnezeu. :/
+Așa vreau Eu, așa vreau Eu :/

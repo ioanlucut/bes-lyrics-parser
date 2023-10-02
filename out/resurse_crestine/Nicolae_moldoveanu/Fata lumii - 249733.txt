@@ -1,0 +1,35 @@
+[title]
+Fata lumii {composer: {Nicolae Moldoveanu}, {rcId: {249733}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Fața lumii-i pară mai ucigătoare,
+dacă ai spre dânsa ochii pironiți,
+/: de nu-ntorci cu grabă de pe-a ei cărare,
+pentru veșnicie vor rămâne-orbiți. :/
+
+[v2]
+Mâna lumii-i gheară care te sugrumă,
+de-i întinzi tu mâna spre dulceața sa;
+/: dar de-asculți de harul care te îndrumă,
+cupa fericirii el ți-o poate da. :/
+
+[v3]
+Glasul lumii-i clopot care te înșeală,
+de-ți îndrepți urechea spre chemarea lui;
+/: tot ce el promite, e doar vorbă goală,
+să-ți sucească drumul drept pe care-l sui. :/
+
+[v4]
+Frumusețea lumii e doar o părere,
+e un vis de noapte - e și mai puțin;
+/: nu-ți aduce-n suflet nici o mângâiere,
+ci belșug de lacrimi și izvor de chin. :/
+
+[v5]
+Nu privi la lume, nu-i primi chemarea,
+calea ei spre moarte duce ne-ncetat.
+/: Dar de vii la Domnul și-l dai ascultarea,
+EI te fericește cu adevărat. :/

@@ -1,0 +1,33 @@
+[title]
+Doamne nu vreau {composer: {Nicolae Moldoveanu}, {rcId: {250172}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Doamne, Doamne,
+nu vreau să mai știu nimic, nimic,
+/: decât să Te laud pe Tine,
+decât să mă lepăd de mine,
+/: decât să Te-ascult tot mai bine. :/
+
+[v2]
+Doamne, Doamne
+nu vreau să mai pot nimic, nimic,
+/: decât să-mplinesc ce-i din Tine,
+decât voia Ta, care-mi vine,
+/: s-o-nalț în umblări mai divine. :/
+
+[v3]
+Doamne, Doamne,
+nu vreau să mai fac nimic, nimic
+/: decât să lucrez pentru Tine,
+lucrările sfintei lumine
+/: de har și de dragoste pline. :/
+
+[v4]
+Doamne, Doamne,
+nu vreau să mai spun nimic, nimic,
+/: decât să vorbesc despre Tine,
+Cuvintele Tale senine
+/: spre slava ce Ți Se cuvine. :/

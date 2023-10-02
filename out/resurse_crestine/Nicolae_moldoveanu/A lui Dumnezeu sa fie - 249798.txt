@@ -1,0 +1,39 @@
+[title]
+A lui dumnezeu sa fie {composer: {Nicolae Moldoveanu}, {rcId: {249798}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+A lui Dumnezeu să fie
+toată Slava, prin Isus,
+/: căci El singur e Izvorul
+harului cu neapus. :/
+
+[c]
+Laudă. laudă
+lui Dumnezeu, laudă!
+
+[v2]
+El e Alfa și Omega
+vieții și luminii-n veac,
+/: pe pământ și sus în ceruri
+face totul după plac. :/
+
+[v3]
+El cunoaște în străfunduri
+inima și gându-ascuns,
+/: și EI poate ca s-ajungă
+unde nu mai e de-ajuns. :/
+
+[v4]
+El plătit-a Prețul mare
+- Jertfa Fiului Său sfânt -
+/: pentru mântuirea noastră
+din păcat și din mormânt. :/
+
+[v5]
+Lui ne închinăm și astăzi
+și în vecii care vin,
+/: Dumnezeul nemuririi,
+prin Hristos! Amin, amin. :/

@@ -1,0 +1,31 @@
+[title]
+Nu-i nimeni ca tine {composer: {Memi Sigartău}, {rcId: {248506}}
+
+[sequence]
+v1,c,v2,c,b,c,c
+
+[v1]
+Doamne, când privesc spre Tine,
+Mă bucur și cânt de fericire.
+În Tine eu mi-am pus nădejdea,
+Prin Tine eu voi birui.
+
+[c]
+Nu-i nimeni ca Tine, Doamne,
+Un Tată bun, plin de-ndurare.
+Ești Creatorul, Stăpânitorul,
+Domn în Univers.
+În fața Ta se-nchină cerul
+Și-ntreg pământul Te adoră.
+Sfânt ești, Doamne, și puternic,
+Veșnic Dumnezeu!
+
+[v2]
+Doamne, ești brațul ce mă ține,
+Cu Tine nu voi cădea pe cale,
+Ești Piatra mea de temelie,
+Ești Stânca cea din veșnicie!
+
+[b]
+Glorie, laude-Ți cântăm!
+Glorie, pe Tin’ Te adorăm!

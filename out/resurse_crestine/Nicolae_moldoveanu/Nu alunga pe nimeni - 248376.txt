@@ -1,0 +1,35 @@
+[title]
+Nu alunga pe nimeni {composer: {Nicolae Moldoveanu}, {rcId: {248376}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Nu alunga pe nimeni
+Din ușa ta nicicând,
+/: Ai fost și tu vreodată,
+Sau ai să fii flămând. :/
+
+[v2]
+Nici nu-ți închide mâna
+Spre-un semen zdrențuit,
+/: Ai fost și tu vreodată,
+Sau ai să fii lipsit. :/
+
+[v3]
+Nici nu mustra pe nimeni
+Necruțător pe drum,
+/: Și tu-ai greșit vreodată
+Sau mai greșești și-acum. :/
+
+[v4]
+Nu judeca pe altul
+Prea aspru, ci tăcut,
+/: Gândește și tu câte
+Păcate ai făcut. :/
+
+[v5]
+Căci cum ești tu spre alții
+Așa va fi mereu,
+/: Cu milă sau cu-asprime
+Spre tine Dumnezeu. :/

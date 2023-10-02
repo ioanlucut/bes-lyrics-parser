@@ -1,0 +1,33 @@
+[title]
+Floarea de mireasa {composer: {Nicolae Moldoveanu}, {rcId: {249306}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Pe un fir de floare pală,
+ca pe-un coif de îngeraș,
+/: pe un fir de floare pală,
+dintr-o singură petală,
+/: s-a oprit un fluturaș. :/
+
+[v2]
+- Vai, șopti el, câte zale
+are dalia pe strai!
+/: Vai, șopti el, câte zale,
+câte sute de petale!
+/: Și tu numai una ai... :/
+
+[v3]
+Ascunzând în ea mirarea
+de-un astfel de gând străin,
+/: ascunzând în ea mirarea,
+i-a răspuns c-un zâmbet floarea
+/: și c-o lacrimă-n declin: :/
+
+[v4]
+- Eu sunt simplă, dar aleasă.
+Și n-aș vrea un alt veșmânt.
+/: Eu sunt simplă, dar aleasă,
+căci sunt floarea de mireasă
+/: care spune: UNA SUNT... :/

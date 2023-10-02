@@ -1,0 +1,39 @@
+[title]
+Pe piatra aspra-a vietii {composer: {Nicolae Moldoveanu}, {rcId: {7295}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Pe piatra aspră-a vieții
+Să lași o dâră fină
+Din aurul virtuții,
+Din sfânta lui lumină.
+
+[c]
+Tu ești chemat, tu ești chemat
+Să fii creștin cu-adevărat!
+
+[v2]
+Și-n mâna ce-ți zdrobește,
+A vieții tale floare,
+Să lași parfumul dulce
+Ca dar, spre-nviorare.
+
+[v3]
+Iar celui ce-ți aruncă
+A clevetirii piatră,
+Dă-i pâinea rugăciunii
+Și-a dragostei ce iartă.
+
+[v4]
+Căci numai când cu bine
+Răspunzi la rău în toate,
+Viața ta oriunde
+Să biruiască poate.
+
+[v5]
+Atunci duci mântuire
+Cu-adevărat prin lume
+Și-atunci tu porți cu cinste
+Al Domnului Sfânt nume.

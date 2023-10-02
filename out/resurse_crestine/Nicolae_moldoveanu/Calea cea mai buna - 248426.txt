@@ -1,0 +1,54 @@
+[title]
+Calea cea mai buna {composer: {Nicolae Moldoveanu}, {rcId: {248426}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+Calea cea mai bună
+Către mântuire,
+Către adevărul
+Vieții-n strălucire,
+/: Nu e alta decât alba cale de iubire. :/
+
+[v2]
+Calea cea mai dreaptă
+Spre desăvârșire,
+Unde nu-i nici lege,
+Nici nelegiuire,
+/: Nu e alta decât alba cale de iubire. :/
+
+[v3]
+Calea cea mai vie
+De neprihănire,
+Care-aduce-n suflet
+Har și fericire,
+/: Nu e alta decât alba cale de iubire. :/
+
+[v4]
+Calea cea mai strâmtă
+Care dă lărgire,
+Credincioasei inimi
+Gata de jertfire,
+/: Nu e alta decât alba cale de iubire. :/
+
+[v5]
+Calea cea mai dulce,
+Calea spre unire,
+Ce dărâmă ziduri
+Vechi de despărțire,
+/: Nu e alta decât alba cale de iubire. :/
+
+[v6]
+Calea cea mai ’naltă
+Înspre-nveșnicire,
+Calea cea pe care
+Nu e poticnire,
+/: Nu e alta decât alba cale de iubire. :/
+
+[v7]
+Calea cea de taină,
+Mai presus de fire,
+Unica ce duce
+Spre-ndumnezeire,
+/: E ISUS Mântuitorul, El e doar IUBIRE. :/

@@ -1,0 +1,39 @@
+[title]
+Un varf de lance pe calvar {composer: {Nicolae Moldoveanu}, {rcId: {250023}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Un vârf de lance pe Calvar
+a dat dovada cea din urmă.
+Se săvârșise pe altar
+deplina Jertfă pentru turmă!
+
+[c]
+Golgota, Golgota,
+ce sfântă biruinț-a fost pe culmea ta!
+
+[v2]
+Un vârf de lance-n pieptul sfânt
+semnă victoria romană.
+Isus era străpuns și-nfrânt,
+lovit cu rană lângă rană.
+
+[v3]
+Un vârf de lance s-a înfipt
+și s-a cutremurat pământul.
+Privea soborul mulțumit.
+Iar Tatăl Și-a ascuns Cuvântul.
+
+[v4]
+Un vârf de lance, semn și steag
+a scos din coastă foc și rouă.
+Isus cel Sfânt dădea-n vileag
+iubirea Lui ce-a veșnic nouă.
+
+[v5]
+Un vârf de lance pe Calvar
+ne-a dat un plâns pe veșnicie,
+căci plângem și de-atât amar,
+dar și de-atâta bucurie!

@@ -1,0 +1,40 @@
+[title]
+De la iesle pan-la cruce {composer: {Nicolae Moldoveanu}, {rcId: {199400}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+De la iesle pân-la cruce...
+Cât amar, cât suflet frânt!
+/: Ce alean, ce milă dulce
+Te-a putut din cer aduce
+/: Pe pământ? :/
+
+[v2]
+De la staul la Golgota...
+Jalea cum să Ți-o cuprind?
+/: Trist privea spre cruce bolta.
+Munții grei porneau revolta
+/: Clocotind! :/
+
+[v3]
+De pe fân și pân-la cuie..
+Numai răni și vânătăi,
+/: Ce cuvinte pot să spuie
+Cum plângeai pe-o cărăruie
+/: Pentru-ai Tăi? :/
+
+[v4]
+Din Egipt în Ghetsimani...
+Numai drum și privegheri...
+/: Te pândeau în drum dușmanii,
+Până n-au mai fost Betanii
+/: Nicăieri. :/
+
+[v5]
+De la iesle pân-la mine...
+Câte lacrimi, câți martiri!
+/: Unde voi găsi suspine,
+Doamne, să-ți aduc depline
+/: Mulțumiri. :/

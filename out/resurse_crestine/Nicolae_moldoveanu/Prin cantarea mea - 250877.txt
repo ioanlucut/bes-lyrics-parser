@@ -1,0 +1,39 @@
+[title]
+Prin cantarea mea {composer: {Nicolae Moldoveanu}, {rcId: {250877}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Prin cântarea mea piară minciuna,
+piară datini, piară zei,
+piară duhul de partidă,
+piară porți ce vor să-nchidă
+dragostea-n frumsețea ei.
+
+[c]
+Ca să strălucești frumos
+numai Tu, Isus Hristos.
+mai deplin, mai frumos
+numai Tu, Isus Hristos.
+
+[v2]
+Prin cântarea mea să fie soare
+de-adevăr dumnezeiesc,
+de odihnă și iubire,
+de alin și fericire
+și de rod deplin ceresc.
+
+[v3]
+Prin cântarea mea să crească pacea
+între cei răscumpărați,
+Între cei de-Același Tată,
+între cei sfințiți odată,
+Între ei - căci toți sunt frați.
+
+[v4]
+Prin cântarea mea să se înalte
+Jertfa care-n har ne-a pus,
+Învierea cea măreață
+și frumoasa Dimineață
+când vei reveni, Isus.

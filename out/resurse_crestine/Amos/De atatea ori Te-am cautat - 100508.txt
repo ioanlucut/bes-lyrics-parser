@@ -1,0 +1,65 @@
+[title]
+De atatea ori te-am cautat {composer: {amos7}, {rcId: {100508}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,v5,c5
+
+[v1]
+De atâtea ori Te-am căutat
+În încercări nespuse,
+De atâtea ori eu Te-am dorit
+Să Te intâlnesc Isuse!
+
+[c]
+/: De câte ori am suspinat,
+De câte ori m-am întristat
+Și cu cât dor Te-am așteptat
+Știi Tu, numai Tu, Isuse! :/
+
+[v2]
+De câte ori, ca un străin,
+Mergeam plângănd pe cale
+Și inima ardea-n ascuns
+De dorul feței Tale.
+
+[c2]
+/: Dar nimeni nu m-a înțeles,
+Dar Tu, Ales între aleși,
+Te-ai îndurat și mi-ai trimis
+Alinul mâinii Tale. :/
+
+[v3]
+De câte ori eu m-am retras
+Crezând că așa-i mai bine,
+Tu, mai aproape m-ai chemat
+Să fiu unit cu Tine.
+
+[c3]
+/: Tu cu răbdare- ai așteptat,
+Cu Duhul Sfânt m-ai îmbrăcat
+Și ani întregi m-ai învățat
+Să merg în pas cu Tine. :/
+
+[v4]
+Dar azi, privind lumina Ta
+Și fața Ta cea dulce,
+Îți mulțumesc de mii de ori
+Și vreau să Îți spun, Isuse,
+
+[c4]
+/: Că nu-i suspin atât de greu
+Pe cât de mare-i harul Tău
+Și izbăvirea care o dai
+Prin jertfa de pe cruce. :/
+
+[v5]
+Dar nu-i iubire ca a Ta
+Cu drag să ne înconjoare
+Și nu-i putere ca a Ta
+Să ne țină pe cale.
+
+[c5]
+/: Dar nu e soare mai măreț
+Și nici Ales între aleși,
+Să mângăie în ceasul greu
+Făptura mâinii Tale. :/

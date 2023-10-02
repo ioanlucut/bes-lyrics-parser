@@ -1,0 +1,40 @@
+[title]
+Chiar din starea mea cea slaba {composer: {Nicolae Moldoveanu}, {rcId: {220604}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Chiar din starea mea cea slabă,
+Din înfrângeri și suspine,
+Și din noaptea-mi grea, Isuse,
+Eu Te laud tot pe Tine.
+
+[c]
+Eu Te laud, eu Te laud
+Eu Te laud, Isuse,
+Eu Te laud tot pe Tine.
+
+[v2]
+Chiar când mi-e murdar veșmântul,
+C-am umblat pe căi străine,
+Și dreptatea-Ți mă alungă,
+Eu Te laud tot pe Tine.
+
+[v3]
+Chiar și fără pacea sfântă,
+Cu nădejdea frântă-n mine,
+Îmi înalt spre har credinta
+Și Te laud tot pe Tine.
+
+[v4]
+Chiar când ruga-mi nu primește
+Un răspuns din slăvi senine,
+Pentru vina mea cea mare
+Eu Te laud tot pe Tine.
+
+[v5]
+Căci, Isuse, n-am pe nimeni,
+Nici nu vreau, nu, pe altcine.
+Tu ești dragul meu - și veșnic
+Eu le laud tot pe Tine

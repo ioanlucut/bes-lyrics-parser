@@ -1,0 +1,45 @@
+[title]
+De-as ajunge cea mai mare {composer: {Nicolae Moldoveanu}, {rcId: {99701}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+De-aș ajunge cea mai mare
+Slavă pământească,
+În zadar, dacă mi-aș pierde,
+Slava cea cerească
+Ce folos, ce folos:
+/: Slavă, fără de Hristos?! :/
+
+[v2]
+De-as avea toți banii lumii,
+Să-mi stea vraf arginții,
+În zadar, dacă-mi lipsește
+Aurul credinții.
+- Ce folos, ce folos
+/: Aur, fără de Hristos?! :/
+
+[v3]
+De-aș ști toată-nțelepciunea,
+Câtă e sub soare,
+În zadar, dacă-mi lipsește
+Cea nemuritoare.
+- Ce folos, ce folos,
+/: Minte, fără de Hristos?! :/
+
+[v4]
+De-aș fi omul cel mai tare
+De pe lumea toată,
+În zadar, dacă mă-nfrânge
+Pofta desfrânată!
+Ce folos, ce folos
+/: Tânăr fără de Hristos?! :/
+
+[v5]
+De-aș cuprinde lumea-ntreagă,
+Totul să fiu eu,
+În zadar, nimic e omul
+Fără Dumnezeu.
+- Ce folos, ce folos
+/: Dacă mor fără Hristos? :/

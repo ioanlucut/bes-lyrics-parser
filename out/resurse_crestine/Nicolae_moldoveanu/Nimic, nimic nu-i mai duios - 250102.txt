@@ -1,0 +1,35 @@
+[title]
+Nimic nimic nu-i mai duios {composer: {Nicolae Moldoveanu}, {rcId: {250102}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Nimic, nimic nu-i mai duios,
+decât să spui prin cânt
+de jertfa Domnului Hristos,
+de sângele Lui sfânt.
+
+[c]
+Prin jertfa lui Hristos
+am fost răscumpărați,
+și-n cerul cel frumos
+cu El suntem mutați.
+
+[v2]
+Nimic, nimic nu-i mai curat,
+decât prin cânt să spui,
+de harul vieții revărsat
+prin jertfa Domnului.
+
+[v3]
+Nimic, nimic nu-i mai cu foc.
+decât prin cânt măreț.
+să spui la toți, în orice loc,
+al jertfei mare preț.
+
+[v4]
+Prin cântecul mereu-nălțat
+de cel născut din nou,
+e Domnul jertfei lăudat
+C-un sfânt și-etern ecou.

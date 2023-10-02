@@ -1,0 +1,39 @@
+[title]
+Din cuvinte simple {composer: {Nicolae Moldoveanu}, {rcId: {250171}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Din cuvinte simple noi rostim
+Adevărul simplu și frumos.
+/: în cuvinte simple-L preamărim,
+căci El e etern și-ntreg Hristos. :/
+
+[c]
+E Hristos, e Hristos, e Hristos!
+
+[v2]
+Dragostea, noi simplu o cântăm,
+Simplu o trăim pe-al vieții drum,
+/: simplu-n orice clipă vrem s-o dăm,
+căci Ea e Hristos întreg acum. :/
+
+[v3]
+Haru-l spunem simplu în cuvânt,
+simplu, pe-nțelesul tuturor,
+/: simplu-i facem drumul pe pământ,
+căci El e Hristos cel Iubitor. :/
+
+[v4]
+Alergarea noastră-i simplă azi,
+simplă, după cum ne-a spus Isus.
+/: Trecem prin pustiuri de necaz,
+Înspre Ținta simplă ce ne-a pus. :/
+
+[v5]
+Laude, noi simplu-Ți zămislim,
+căci adânc smerit Tu ni Te-ai dat,
+/: pentru Jertfa Ta Îți mulțumim,
+o, Isuse scump, fii lăudat!
+O, Isus, fii în veci lăudat! :/

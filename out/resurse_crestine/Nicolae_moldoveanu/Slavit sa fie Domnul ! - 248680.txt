@@ -1,0 +1,39 @@
+[title]
+Slavit sa fie domnul {composer: {Nicolae Moldoveanu}, {rcId: {248680}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Slăvit să fie Domnul,
+în viața noastră-n toată,
+nimic să nu-ntineze
+lucrarea Lui curată.
+
+[c]
+Slăvit, slăvit să fie
+acum și-n veșnicie,
+Stăpânul nostru mare,
+că-I vrednic de-nchinare!
+Slăvit, slăvit să fie
+în sfânta-mpărăție,
+să cânte-a Lui oștire,
+mărire-n veci, mărire!
+
+[v2]
+Slăvit să fie Domnul,
+prin vremi cu nori, sau soare,
+El este-Același, veșnic
+Izvor de îndurare.
+
+[v3]
+Slăvit să fie Domnul,
+prin cântec și trăire,
+prin muncă și odihnă,
+prin rugă și jertfire.
+
+[v4]
+Slăvit să fie Domnul!
+Nu-i mai frumos pe lume,
+decât să ’nalți oriunde
+dumnezeiescu-i Nume.

@@ -1,0 +1,42 @@
+[title]
+Te laud si te binecuvintez {composer: {Nicolae Moldoveanu}, {rcId: {251770}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Te laud
+ /: și Te binecuvintez! :/
+/: Pe Tine-n orice timp și loc, :/
+pe Tine, veșnic Dumnezeu,
+ce mi-ai aprins al vieții foc.
+
+[v2]
+Te laud
+ /: și Te binecuvintez :/
+/: Pe Tine-al dragostei Izvor, :/
+ce de la Tine-mi dai mereu
+îndemn, și har, și-avânt, și dor.
+
+[v3]
+Te laud
+ /: și Te binecuvintez! :/
+/: Pe Tine, Cel Nemărginit, :/
+ce m-ai născut din nou și-ai pus
+în mine cerul fericit.
+
+[v4]
+Te laud
+ /: și Te binecuvintez! :/
+/: Pe Tine, Cel Neîncăput, :/
+cu-același foc, dar mai crescut
+și la sfârșit ca la-nceput.
+
+[v5]
+Te laud
+ /: și Te binecuvintez! :/
+/: În cânt tot mai înflăcărat, :/
+o, Tatăl meu, Sfânt Dumnezeu,
+în veci fii binecuvântat!
+Te laud
+ /: și Te binecuvintez! :/

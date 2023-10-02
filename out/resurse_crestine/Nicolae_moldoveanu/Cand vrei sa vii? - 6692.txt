@@ -1,0 +1,29 @@
+[title]
+Cand vrei sa vii? {composer: {Nicolae Moldoveanu}, {rcId: {6692}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când vrei să vii, când vrei să-ntorci,
+Când vrei să vii la Dumnezeu?
+Când vrei să-ntorci din calea rea,
+De ce tot vrei s-amâi mereu?
+
+[c]
+O, vino, o, vino,
+Întoarce să scapi de la pierzare.
+Nu amâna, nu amâna,
+E poate ultima chemare!
+
+[v2]
+Când vrei să vii, când vrei să spui,
+Acuma vreau să vin și eu!
+Când vrei sa spui: Acum mă-ntorc,
+Nu vreau să mai amân mereu!
+
+[v3]
+Mai este loc, mai este har
+O, vin-acum la Dumnezeu
+Căci s-ar putea să pierzi pe veci,
+Dacă și de-azi amâi mereu!

@@ -1,0 +1,29 @@
+[title]
+Tu cel ce-ai faurit {composer: {Nicolae Moldoveanu}, {rcId: {246044}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Tu, Cel ce-ai făurit Lumina,
+Și ochii mei cu care-o sorb,
+/: O nu-i lăsa să-i umple tina,
+Ci fă-mă pentru lume orb! :/
+
+[v2]
+Tu, Cel ce m-ai chemat pe nume,
+Și-auzul meu întreg îl vrei,
+/: O, nu-mi lăsa urechea-n lume,
+Ci fă-mă surd Ia glasul ei! :/
+
+[v3]
+Tu, Cel ce vezi cum dau năvală,
+Atâtea mâini și-n spini se-mpung,
+/: O, fă-mă pentru tot ce-nșeală,
+Să fiu olog, schilod și ciung! :/
+
+[v4]
+Dar pentru neuitate clipe,
+Pentru comori ce Te răsfâng,
+/: Dă-mi mii de ochi și mii de-aripe,
+Și mii de brațe să le strâng! :/

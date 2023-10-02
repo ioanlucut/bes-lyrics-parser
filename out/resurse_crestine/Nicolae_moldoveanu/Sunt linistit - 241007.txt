@@ -1,0 +1,23 @@
+[title]
+Sunt linistit {composer: {Nicolae Moldoveanu}, {rcId: {241007}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Sunt liniștit, - și fericit,
+Isuse, când rămân în Tine,
+/: Furtuni și greu, - de vin mereu,
+Nu pot pătrunde pân-la mine! :/
+
+[v2]
+Sunt luminat - și-nveșmântat,
+Cu albe și preasfinte haine,
+/: Când tot ce-ai spus - ascult supus,
+Urmând cărarea Ta de taine! :/
+
+[v3]
+Biruitor - și roditor,
+Sunt când în Templul curăției,
+/: Eu locuiesc - și-adânc trăiesc,
+Fiorul sfânt al veșniciei. :/

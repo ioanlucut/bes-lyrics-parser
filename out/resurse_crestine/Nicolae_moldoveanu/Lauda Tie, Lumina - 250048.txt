@@ -1,0 +1,29 @@
+[title]
+Lauda tie lumina {composer: {Nicolae Moldoveanu}, {rcId: {250048}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Laudă Ție, Lumină,
+laudă sfântă mereu!
+Cântă, și-Ți cântă, și-Ți cântă
+duhul și sufletul meu!
+
+[c]
+Dumnezeu e Lumină,
+și lumină în lume m-a dat!
+Slava Lui mai deplină
+o înalț - fie-n veci lăudat.
+
+[v2]
+Laudă Ție, Lumină,
+dulce și-arzândă Ți-nchin,
+azi și-n vecia frumoasă,
+laudă Ție deplin!
+
+[v3]
+Laudă Ție, Lumina,
+fără al vremii hotar,
+cântă, și-Ți cântă, și-Ți cântă
+viața-mi primită prin har.

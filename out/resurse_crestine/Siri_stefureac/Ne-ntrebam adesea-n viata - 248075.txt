@@ -1,0 +1,35 @@
+[title]
+Ne-ntrebam adesea-n viata {composer: {Siri Stefureac}, {rcId: {248075}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ne-ntrebăm adesea-n viață unde mergem
+Ne întrebăm, viața aceasta ce aduce
+Și ne gândim o Doamne sfinte ce avem
+Ca viața asta scurtă s-o parcurgem?
+
+[c]
+/: E Dumnezeu, Pastorul meu
+El aduce bucurii din veșnicii
+E Dumnezeu, Pastorul meu
+El aduce pace Sfântă inimii :/
+
+[v2]
+Vrem ca totul să se-ntoarcă doar spre bine
+Și vrem să avem din plin doar sfinte bucurii
+Însă viața noastră toată ne v-a spune
+Știe tatăl nostru Sfânt din veșnicii
+
+[v3]
+Ne-ndreptăm spre nicăieri in lumea mare
+Și căutăm adesea multe mângâierii
+Nici nu știm că acolo sus, stă o suflare
+Care poate să ne dea zâmbetul Său
+
+[v4]
+Dar acum noi trebuie să știm că acolo in zare,
+Cineva mereu, mereu la noi privește
+Și că totdeauna în mâna Lui ne are
+Ca noi să putem să fim ca o splendoare

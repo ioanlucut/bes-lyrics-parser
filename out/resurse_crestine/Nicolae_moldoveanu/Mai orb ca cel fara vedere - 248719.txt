@@ -1,0 +1,41 @@
+[title]
+Mai orb ca cel fara vedere {composer: {Nicolae Moldoveanu}, {rcId: {248719}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Mai orb ca cel fără vedere,
+E omul cel fără de minte,
+/: Mai mut cel fără rugăciune
+Ca mutul cel fără cuvinte. :/
+
+[c]
+Dumnezeule, ai milă
+De-orice om în stare rea
+/: Dăruiește-Ți mântuirea
+Celor care-s fără ea. :/
+
+[v2]
+Mai rău e cel zgârcit și lacom,
+Ca cel în lanțuri și zăvoare,
+/: Păcatu-n care te-nchizi singur
+E cea mai crâncenă-nchisoare. :/
+
+[v3]
+Mai ciung ca cel fără de mână
+E omul fără dărnicie,
+/: Căci lipsa milei pentru alții
+E cea mai tristă sărăcie. :/
+
+[v4]
+Mai chinuit e-acel ce are
+O conștiință-mpovărată,
+/: Decât cel slăbănog trupește
+Ce se târăște viața toată. :/
+
+[v5]
+Mai fericit cel ce pe Domnul
+Mântuitor și Scut Îl are,
+/: Decât cel ce-ar putea să aibă,
+întregul aur de sub soare. :/

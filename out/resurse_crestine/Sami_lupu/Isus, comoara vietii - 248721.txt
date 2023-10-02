@@ -1,0 +1,29 @@
+[title]
+Isus comoara vietii {composer: {Sami Lupu}, {rcId: {248721}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Te-am strigat de-atâtea ori, Isuse,
+Când prin valea cea cu lacrimi am trecut
+Și-am simțit cum mâna Ta cea blândă
+A turnat pe rana mea balsamul sfânt.
+
+[c]
+Isuse, ești comoara vieții mele,
+Tu îmi vorbești, când nopțile sunt grele.
+De-atâtea ori de jos m-ai ridicat,
+Cu dragoste pe brațe m-ai purtat.
+
+[v2]
+Doar în Tine-mi pun și azi nădejdea,
+Cred că Tu m-asculți în ziua cea mai grea.
+Printre lacrimi îmi ridic privirea
+Și Te rog să nu mă lași din mâna Ta.
+
+[v3]
+Lângă mine Tu ai fost, Isuse,
+În cuptorul încercării când eram,
+Când credeam că nu mai am scăpare
+Și durerea mea nu o-nțelegeam.

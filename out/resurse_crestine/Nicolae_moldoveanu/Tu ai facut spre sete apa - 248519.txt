@@ -1,0 +1,35 @@
+[title]
+Tu ai facut spre sete apa {composer: {Nicolae Moldoveanu}, {rcId: {248519}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Tu ai făcut spre sete apa
+Și-n dar ai dat-o tuturor,
+Dar dacă eu nu beau dintr-însa,
+Atunci nu-i pagubă că mor.
+
+[v2]
+Tu ai făcut spre hrană pâinea
+Și-o dai prin muncă orișicând,
+Dar dacă eu n-o am din lene,
+Nu-i pagubă că mor flămând.
+
+[v3]
+Tu ai făcut, spre bucurie
+Să am frați dragi, la ei să vin
+Dar dacă-i las și plec la alții,
+Nu-i pagubă că mor străin.
+
+[v4]
+Tu ai făcut spre mântuire,
+Atâta har să am, crezând,
+Dar dacă eu nu cred Iubirii,
+Nu-i pagubă că mor plângând.
+
+[v5]
+Tu ai făcut spre-un veșnic bine,
+Tot cerul Tău și mi l-ai vrut,
+Dar dacă eu Îți lepăd harul,
+Nu-i pagubă că mor pierdut.

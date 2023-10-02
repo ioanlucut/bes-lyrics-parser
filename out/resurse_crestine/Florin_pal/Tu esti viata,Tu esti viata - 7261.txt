@@ -5,21 +5,20 @@ Tu esti viatatu esti viata {composer: {Florin Pal}, {rcId: {7261}}
 v1,c,v2,c,v3,c,v4,c
 
 [v1]
-/: Tu esti viata,
-Tu esti viata
+/: Tu esti viata, Tu esti viata
 Cel ce-ai inviat din morti
-Tu ai invins chiar boldul mortii
-Si ai deschis a vietii porti :/
+Tu-ai invins chiar boldul mortii
+Si-ai deschis a vietii porti :/
 
 [c]
-Isus, Isus Tu esti viu si ai rascumparat
+Isus, Isus Tu esti viu si-ai rascumparat
 Pretul omenirii intregi viata Ta l-a dat
 Si eu vreau sa-Ti multumesc ca-n iubirea Ta
-Ai cuprins cu atata drag si viata mea
+Ai cuprins cu-atata drag si viata mea
 
 [v2]
 /: Tu esti viata, Tu esti viata
-Cel ce ai inviat din morti
+Cel ce-ai inviat din morti
 In Tine-i dragostea pacea
 Si-n ea ne-ai cuprins pe toti :/
 
@@ -27,10 +26,10 @@ Si-n ea ne-ai cuprins pe toti :/
 /: Numai viata, numai viata Ta
 Ea ne cheama azi pe toti
 Veniti dar intrati pe poarta
-Dragostei si a milei toti :/
+Dragostei si-a milei toti :/
 
 [v4]
 /: Numai viata, numai viata Ta
 Doar prin ea ne vei schimba
-Si de aici de jos din lacrimi
+Si de-aici de jos din lacrimi
 Tu in cer n-ii stramuta :/

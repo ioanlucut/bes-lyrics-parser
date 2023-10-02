@@ -1,0 +1,37 @@
+[title]
+Exisa oare intamplare {composer: {Nicolae Moldoveanu}, {rcId: {250839}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Exisă oare întâmplare
+în lumea veșnicelor legi?
+Ești doar un fulg ce zboară-n zare
+și nu știi încotro s-alergi?
+
+[c]
+E Dumnezeu Atotstăpânul,
+El poartă totu-așa cum vrea;
+e harul Său în mii de fețe,
+e-n toate-nțelepciunea Sa;
+e Fiul Său în jertfa-I sfântă
+adusă sus pe Golgota.
+
+[v2]
+El știe cum ne e viața
+și-ascunsul inimii ungher,
+și blând ne-nseninează fața
+cu gândul dragostei din cer.
+
+[v3]
+Și-un fir de păr din cap de-ți piere,
+de Domnu-i bine numărat,
+păzit ești tu de-a Lui putere,
+de îngeri ești înconjurat.
+
+[v4]
+Noroc sau ghinion sunt oare
+pentr-un copil de Dumnezeu?
+O, nu! e doar o mână tare
+veghind asupra lui mereu!

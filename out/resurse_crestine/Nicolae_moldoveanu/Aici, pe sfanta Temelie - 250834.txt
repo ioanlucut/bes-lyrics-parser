@@ -1,0 +1,33 @@
+[title]
+Aici pe sfanta temelie {composer: {Nicolae Moldoveanu}, {rcId: {250834}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Aici, pe sfânta Temelie
+- Hristos și viul Său Cuvânt,
+/: vreau să zidesc, ce-ar fi să vie,
+nu-mi va opri al meu avânt. :/
+
+[c]
+Isus Hristos,
+Tu-mi ești avântul luminos.
+
+[v2]
+Aici, pe Vatra cea divină,
+- Hristos și felul Lui de-a fi,
+/: zidesc Cetatea de lumină.
+Nimic nu poate-a mă opri. :/
+
+[v3]
+Aici, pe Stânca-nveșnicită,
+- Hristos - Eternul Adevăr,
+/: zidesc credința neclintită.
+Nu dau-napoi nici cât un păr. :/
+
+[v4]
+Aici, pe Jertfa ispășirii
+- Hristos - nemaisfârșitul Har,
+/: zidesc deplinul fericirii
+spre slava Lui fără hotar. :/

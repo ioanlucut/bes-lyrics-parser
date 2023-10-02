@@ -1,0 +1,29 @@
+[title]
+Fii fericit tu ce-ai aflat iubirea {composer: {Nicolae Moldoveanu}, {rcId: {248421}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Fii fericit tu ce-ai aflat iubirea,
+Prin ea, tu adevărul l-ai aflat;
+/: Nu-ți mai roti jur împrejur privirea,
+Să-ți spună alții că-i adevărat. :/
+
+[v2]
+Fii liniștit tu ce-ai aflat iubirea,
+Oricâți ți-ar mai pricinui necaz;
+/: Iubirea doar, o, ea e mântuirea
+Spre care harul ne conduce az’. :/
+
+[v3]
+Fii odihnit tu ce-ai aflat iubirea,
+La ținta fericită ai ajuns,
+/: Tu ai pătruns în Cel ce-l Nemurirea,
+În Viul Dumnezeu tu ai pătruns. :/
+
+[v4]
+Iubirea-i binecuvântata taină,
+Ce curge din vecii spre veșnicii,
+/: Cu dulcea și-ndumnezeita-i haină,
+Îmbracă pentru veci pe-ai ei copii. :/

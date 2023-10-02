@@ -1,0 +1,35 @@
+[title]
+Tot mai strain esti tu prin lume {composer: {Nicolae Moldoveanu}, {rcId: {74197}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Tot mai străin ești Tu prin lume,
+Isus, Mântuitorul meu!
+/: Și dacă Te-am primit în mine,
+străin ca Tine sunt și eu. :/
+
+[v2]
+Nesuferit Îți e Cuvântul,
+așa cum l-ai lăsat - deplin -
+/: și de-l primesc întreg în mine
+nesuferit și eu devin :/
+
+[v3]
+Neînțeleasă-Ți este Calea
+ce Tu ai dat-o pe pământ!
+/: Și de-o urmez așa cum este,
+neînțeles prin lume sunt. :/
+
+[v4]
+Ce dușmănit Ți-e adevărul,
+unde-i minciuna împărat!
+/: Și de-l ascult cu împlinire,
+sunt dușmănit și judecat. :/
+
+[v5]
+Împărtășim aceeași soartă
+și-aici și-n Țara cea de Sus
+/: Îți mulțumesc! Acesta-i harul
+Mântuitorul meu, Isus. :/

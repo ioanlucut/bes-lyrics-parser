@@ -1,0 +1,26 @@
+[title]
+Daca inca-ti mai traieste {composer: {Nicolae Moldoveanu}, {rcId: {250070}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Dacă încă-ți mai trăiește
+mama ta, ori tatăl tău,
+/: orișicât te chinuiește,
+taci și poartă și iubește
+/: și-o să n-ai păreri de rău. x2 :/
+
+[v2]
+Dacă încă-ți mai trăiește
+ceva din credința ta,
+/: luptă, rabdă și muncește,
+până încă nu sfârșește,
+/: ca să nu mori fără ea. x2 :/
+
+[v3]
+Dacă încă-ți mai trăiește
+dragostea dintâi mereu,
+/: cântă, suferă, jertfește,
+căci ea singură te crește
+/: pân-la omul Dumnezeu. x2 :/

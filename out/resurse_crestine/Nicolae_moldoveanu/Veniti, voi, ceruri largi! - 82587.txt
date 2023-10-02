@@ -6,7 +6,7 @@ v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
 
 [v1]
 Veniți, voi, ceruri largi și spuneți
-Acelor ce nu cred din noi.
+Acelor ce nu cred din noi,
 Cine v-a-ntins peste adâncuri
 Și Cine-i mai presus de voi?
 
@@ -18,30 +18,29 @@ E-un sfânt și-un etern Dumnezeu!” :/
 [v2]
 Veniți, voi, ape mari și spuneți
 A cui putere v-a făcut,
-Și Cine v-a-nsemnat hotarul
+Și cine v-a-nsemnat hotarul
 Și țărmurii de netrecut?
 
 [v3]
 Veniți, voi, tunete și vânturi
 Și spuneți și voi tuturor:
-„
-A’ cui puteri vă duc pe-ntinderi
-Și Cui se-nalță-al vostru cor?
+A cui puteri vă duc pe-ntinderi
+Și cui se-nalță-al vostru cor?
 
 [v4]
 Veniți, voi, morții fără număr
 Și spuneți toți cutremurați
-A Cui e legea ce va-nchide
+A Cui e legea ce vă-nchide
 În locul unde asteptați?
 
 [v5]
 Veniți, voi, taine-abia ivite
 Din numărul nebănuit.
-Și spuneți Cui doar vă descopăr
+Și spuneți cui doar vă descopăr
 Ce-ntețepciune v-a-ntocmit?
 
 [v6]
 Veniți, voi, stele și morminte
 De după care nu știm ce-i.
-Și spuneți, să cunoască lumea
-Că este Dumnezeul ei!
+Și spuneți să cunoască lumea
+Că este Dumnezeul ei

@@ -1,0 +1,35 @@
+[title]
+Daca vrei sa afli-n viata har si fericire {composer: {Nicolae Moldoveanu}, {rcId: {248430}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Dacă vrei să afli-n viață
+Har și fericire,
+/: Calea cea mai bună-i una:
+Calea de iubire. :/
+
+[v2]
+Dacă vrei să ai deplină
+Pace și sfințire,
+/: Una singură e calea:
+Calea de iubire. :/
+
+[v3]
+Dacă vrei s-ai adevărul
+Ce-ți da mântuire,
+/: Calea cea mai dreaptă-i una:
+Calea de iubire. :/
+
+[v4]
+Dacă vrei s-ajungi la starea
+De desăvârșire,
+/: Una singură e calea:
+Calea de iubire. :/
+
+[v5]
+Dumnezeul nostru veșnic,
+Plin de strălucire,
+/: El e Calea spre-orice haruri
+Căci El e Iubire. :/

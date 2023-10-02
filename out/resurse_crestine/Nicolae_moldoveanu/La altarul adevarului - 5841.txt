@@ -1,0 +1,35 @@
+[title]
+La altarul adevarului {composer: {Nicolae Moldoveanu}, {rcId: {5841}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+La altarul adevărului când vii,
+lasă-ți darul tău ’nainte,
+/: și aleargă să-mplinești întâi și-ntâi,
+cele-ale iubirii sfinte. :/
+
+[v2]
+La altarul rugăciunii când pășești,
+darul lasă-ți-l afară,
+/: și te-ntoarce cu grăbire să-mplinești
+legea dragostei comoară. :/
+
+[v3]
+La altarul Evangheliei când mergi,
+s-aduci jertfă prin lucrare,
+/: lasă-ți darul și grăbit întâi s-alergi
+la iubire și-mpăcare. :/
+
+[v4]
+Și la orice-altar când vii ca să-ți aduci
+jertfele cu mulțumire,
+/: cercetează-te! Și-nvață-ntâi s-apuci
+căile dinspre iubire. :/
+
+[v5]
+Căci nu-i jertfă mai sfințită pe pământ;
+nici altar, nici dărnicie,
+/: ca iubirea cea de sus, din Duhul Sfânt
+flacără de-a pururi vie! :/

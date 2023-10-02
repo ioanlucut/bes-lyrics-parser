@@ -1,0 +1,26 @@
+[title]
+Como tu sangre (a patra cantare in spaniola) {composer: {Iulia Contis}, {rcId: {248092}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Los sueños blancos
+En estos libros
+Como tu sangre
+En los dolores
+Se desbordan...
+
+[c]
+Él es el Cristo!
+Ahora, el mundo
+Está muy triste,
+Porque no puede
+Imaginar!
+
+[v2]
+Está perdido
+Ahora - el mundo...
+Los soñadores!
+Ay, tu no puedes
+Imaginar!

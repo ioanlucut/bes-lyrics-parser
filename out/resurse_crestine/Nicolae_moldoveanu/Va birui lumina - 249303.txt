@@ -1,0 +1,29 @@
+[title]
+Va birui lumina {composer: {Nicolae Moldoveanu}, {rcId: {249303}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Să știi că viața-și are rădăcina-n moarte,
+că fericirea trece-ntâi prin cruce,
+că orice zi își are obârșia-n noapte,
+și drumu-n cer prin umilință duce.
+
+[c]
+Lumina, lumina,
+va birui lumina!
+Va birui, va birui,
+Isus va birui.
+
+[v2]
+Golgota-ntâi și-apoi urmează înălțarea,
+mormântul rece și-apoi învierea.
+Întâi înveți să pierzi, să știi ce-i renunțarea,
+și-apoi câștigul ce dă mângâierea.
+
+[v3]
+Isuse, Tu ne-ai arătat această lege,
+Tu-ntâi călcat-ai calea de suspine.
+Din pilda Ta, desăvârșit vom înțelege
+c-acesta-i drumul spre eternul Bine.

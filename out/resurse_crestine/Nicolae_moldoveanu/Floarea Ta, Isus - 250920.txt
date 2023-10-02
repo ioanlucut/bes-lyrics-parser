@@ -1,0 +1,35 @@
+[title]
+Floarea ta isus {composer: {Nicolae Moldoveanu}, {rcId: {250920}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Floarea Ta, Isus iubit,
+sfântă-n inimi ne-a-nflorit,
+/: din sămânța cea de jar
+pusă pe-al Golgotei-altar. :/
+
+[v2]
+Floarea vieții celei noi
+Tu ai răsădit-o-n noi,
+/: ca s-aducă rod frumos,
+chipul Tău, Isus Hristos. :/
+
+[v3]
+Floarea stărilor cerești
+Tu din viața Ta ne-o crești,
+/: ca plăcut să-nmiresmăm
+orice drum care-l călcăm. :/
+
+[v4]
+Floarea dragostei de sus
+Tu în inimi ne-ai adus,
+/: și-n petalele-i de foc
+să Te vezi în orice loc. :/
+
+[v5]
+O, Isuse, Dumnezeu,
+fă-ne proaspătă mereu,
+/: floarea Ta în noi deplin,
+până-n veci de veci, amin. :/

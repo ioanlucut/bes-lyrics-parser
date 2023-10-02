@@ -1,0 +1,36 @@
+[title]
+Imi tes in suflet imnuri {composer: {Nicolae Moldoveanu}, {rcId: {249772}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Îmi țes în suflet imnuri pentru cer
+și-mi cresc în grai cuvinte-soare,
+să-nalț oriunde viul adevăr
+ce dă viață și cântare.
+
+[c]
+/: Isus este TOTUL :/
+/: și Har și-Adevăr, :/
+și Jertfă sfințită
+spre noi rânduită
+/: de Tatăl din cer, :/
+
+[v2]
+Îmi umplu mâinile necontenit
+cu stele din Scriptura vie,
+și-nalț lucrarea de-adevăr sfințit,
+ce dă lumină și tărie.
+
+[v3]
+Îmi pun picioarele pe Stânca cea
+de-nveșnicită mântuire
+și-nalț al jertfei adevăr din Ea
+ce dă Odihnă și sfințire.
+
+[v4]
+Și îmi afund ființa-n harul sfânt
+ce din Golgota izvorăște.
+Te-nalț, Te-nalț, Isus, prin tot ce sunt,
+cum Tu mă-nveți trăind cerește.

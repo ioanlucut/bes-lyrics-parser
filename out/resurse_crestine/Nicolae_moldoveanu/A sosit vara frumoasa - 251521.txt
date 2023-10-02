@@ -1,0 +1,21 @@
+[title]
+A sosit vara frumoasa {composer: {Nicolae Moldoveanu}, {rcId: {251521}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+A sosit vara frumoasă, veselă și luminoasă,
+zilele sunt lungi și calde, ies copiii să se scalde.
+
+[c]
+Cine-a pus aceste legi? Tu copile, înțelegi?
+Dumnezeul nevăzut, toate, toate le-a făcut.
+
+[v2]
+A sosit vara cu grâne, ca s-avem cu toții pâine,
+să ne fie viața bună, fericită dimpreună.
+
+[v3]
+A sosit vara de vise cu căpșuni și cu caise.
+Câte daruri minunate vin cu vara, vin bogate!

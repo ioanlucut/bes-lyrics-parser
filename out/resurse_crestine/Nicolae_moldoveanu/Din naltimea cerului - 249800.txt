@@ -1,0 +1,29 @@
+[title]
+Din naltimea cerului {composer: {Nicolae Moldoveanu}, {rcId: {249800}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Din-nălțimea cerului,
+crește-mi aripi dorului,
+/: ca să zbor spre-ntâmpinare,
+/: Doamne-n clipa Ta cea mare. :/
+
+[v2]
+Din izvorul apelor,
+dă-mi nesomn pleoapelor,
+/: candela să-mi fie-n pară,
+/: Doamne, când veni-vei iară. :/
+
+[v3]
+Din frământul norilor,
+adă-mi roșul zorilor,
+/: și cu dorurile pline,
+/: Doamne, să Te-aștept pe Tine. :/
+
+[v4]
+Și din miezul harului
+toarnă-mi plinul jarului.
+/: Dragostea-mi de dor nu poată,
+/: Doamne, să Te vad-odată. :/

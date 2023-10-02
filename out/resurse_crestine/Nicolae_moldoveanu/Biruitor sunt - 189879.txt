@@ -1,0 +1,41 @@
+[title]
+Biruitor sunt {composer: {Nicolae Moldoveanu}, {rcId: {189879}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Biruitor sunt prin credință,
+Când ea mă biruie mereu,
+Cu cât îmi umple-a mea ființă,
+Cu-atât voi birui în greu.
+
+[c]
+Să mă las biruit de lumina
+Și-adevărul Cuvântului scris,
+Căci atunci biruință deplină,
+Voi avea, o, Isus - cum ai zis!
+
+[v2]
+Biruitor sunt prin iubire,
+Când ea mă biruie deplin,
+Cu cât îmi umple-a mea simțire,
+Cu-atât mă face mai divin!
+
+[v3]
+Biruitor sunt prin răbdare,
+Când ea mă biruie oricând,
+Când Golgota mi-e scut și soare,
+Voi fi și răbdător și blând!
+
+[v4]
+Biruitor e Adevărul
+În mine, când m-a biruit,
+Când neschimbat nici cât e părul,
+Eu îl păstrez pân-la sfârșit!
+
+[v5]
+Biruitor eu sunt prin Tine,
+Mântuitorul meu Ceresc,
+Căci biruința Ta în mine,
+Îmi dă puteri să biruiesc!

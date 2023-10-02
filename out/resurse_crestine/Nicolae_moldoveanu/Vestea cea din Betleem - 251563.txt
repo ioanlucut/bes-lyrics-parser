@@ -1,0 +1,29 @@
+[title]
+Vestea cea din betleem {composer: {Nicolae Moldoveanu}, {rcId: {251563}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Vestea cea din Betleem,
+/: să răsune-n lume :/
+/: S-a născut Mântuitorul, :/ (3x)
+mare e-al Său Nume.
+
+[v2]
+El vă dă fără sfârșit,
+/: harul mântuirii, :/
+/: și v-așterne lin sub pași :/ (3x)
+calea fericirii.
+
+[v3]
+Sărbătoarea voastră-n veci
+/: numai El vă fie, :/
+/: din Ființa Lui primiți :/ (3x)
+pururi bucurie.
+
+[v4]
+Vestea cea din Betleem
+/: vrea să vă cuprindă, :/
+/: larg deschideți-i azi drum :/ (3x)
+să vă aprindă.

@@ -1,0 +1,56 @@
+[title]
+Mania mea nerastignita ma biruieste uneori {composer: {Nicolae Moldoveanu}, {rcId: {244614}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Mânia mea nerăstignită,
+Mă biruiește uneori,
+Și-oricât ar fi de-ndreptățită,
+Mă jefuiește de comori.
+
+[c]
+Și-atunci vii, Doamne, Tu, cu harul,
+Croindu-mi căi de izbăviri,
+Pășind măreț peste hotarul,
+Nerăstignitei mele firi.
+
+[v2]
+Statornic când Te văd pe Tine,
+Că nu ții seama de greșeli,
+Îmi umplu fața de rușine,
+Când văd în haru-Ți cum mă speli.
+
+[c2]
+O, pururi am nevoie, Doamne,
+Să fiu albit în Jertfa Ta.
+Greseala mea mai mult Te-ndeamnă,
+A mă iubi, a mă ierta.
+
+[v3]
+Rămâne veșnic adevărul,
+Cuvântului ce-ai spus odat’
+”
+Nu trebuie decât piciorul,
+Să-și spele cel ce s-a scăldat.”
+
+[c3]
+Ce la-ndemână-Ți este apa!
+Te-apleci peste greșeala mea,
+Și-mi iei cu simplitate talpa,
+Spălând tot praful de pe ea.
+
+[v4]
+Statornic când Te văd pe Tine,
+Că nu ții seama de greșeli,
+Îmi umplu fața de rușine,
+Când văd în haru-Ți cum mă speli.
+
+[c4]
+Tu știi că din al vieții umblet,
+La Tine-am să mă-ntorc murdar.
+”
+Nu e nimic!” Îmi spui cu zâmbet:
+”
+Bine că vii la Mine iar!”.

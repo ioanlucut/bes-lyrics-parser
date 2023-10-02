@@ -1,0 +1,35 @@
+[title]
+Cu cat mai pretios ti-e timpul {composer: {Nicolae Moldoveanu}, {rcId: {248952}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Cu cât mai prețios ți-e timpul,
+cu-atât ți-e mai păcat că-I pierzi,
+/: cu cât e mai viclean păcatul,
+cu-atât mai rău e că-l dezmierzi. :/
+
+[v2]
+Cu cât mai de folos e-o viață,
+e mai de neiertat s-o-ncui,
+/: cu cât mai sfânt e adevărul,
+ești mai de vină că nu-l spui. :/
+
+[v3]
+Cu cât e mai de preț un suflet,
+cu-atât mai rău faci că-l oprești,
+/: cu cât mai de folos e timpul,
+ești mai tâlhar dacă-l răpești. :/
+
+[v4]
+Cu cât chemarea-i mai fierbinte,
+și-i ascultată mai de mulți,
+/: cu cât sunt vremi de har mai mare,
+ești mai netrebnic când n-asculți. :/
+
+[v5]
+Cu câți ți-e mai trecută viața,
+cu cât ești mai dorit să vii,
+/: cu cât e Domnul mai aproape,
+ești mai nebun dacă-ntârzii. :/

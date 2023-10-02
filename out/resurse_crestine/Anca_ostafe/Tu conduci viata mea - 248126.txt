@@ -1,0 +1,23 @@
+[title]
+Tu conduci viata mea {composer: {Anca Ostafe}, {rcId: {248126}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Când cu inima zdrobită mă închin
+Aștept al Duhului Tău Sfânt alin.
+Știu la inima smerită Te apleci
+Cu Tine-n valea morții nu mă tem!
+
+[c]
+/: Tu conduci viața mea
+Prin tot ce trec e cântărit de mâna Ta,
+Și sunt deplin încredințat
+Că tu cunoști puterea mea. :/
+
+[v2]
+Niciodată nu mai părăsit Isus
+Prin atâtea văi adânci Tu m-ai condus
+M-ai ținut cu dragoste mereu
+În mâna Ta de mare Dumnezeu.

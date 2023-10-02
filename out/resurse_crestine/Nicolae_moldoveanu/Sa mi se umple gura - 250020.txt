@@ -1,0 +1,27 @@
+[title]
+Sa mi se umple gura {composer: {Nicolae Moldoveanu}, {rcId: {250020}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Să mi se umple gura de laudele Tale, :/
+O, Dumnezeul meu, o, Dumnezeul meu!
+Să mi se umple gura și inima mereu
+De laudele Tale!
+
+[c]
+Te laud, Te laud,
+O, Dumnezeul meu, Te laud!
+
+[v2]
+/: Să mi se-aprindă dorul de Tine tot mai mare. :/
+O, Dumnezeul meu, o, Dumnezeul meu!
+Să mi se-aprindă dorul, să-mi ardă plin mereu
+De Tine tot mai mare.
+
+[v3]
+/: Să fie copleșită ființa mea întreagă, :/
+O, Dumnezeul meu, o, Dumnezeul meu!
+Să fie copleșită de Tine tot mereu
+Ființa mea întreagă.

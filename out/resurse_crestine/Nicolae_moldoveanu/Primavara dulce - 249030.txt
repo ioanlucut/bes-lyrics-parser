@@ -1,0 +1,34 @@
+[title]
+Primavara dulce {composer: {Nicolae Moldoveanu}, {rcId: {249030}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Primăvară dulce,
+mi-ai ieșit în cale,
+mâna Ta-mi presară
+fragede petale.
+Din Finicul veșniciei, Tu-mi presari petale.
+
+[v2]
+Primăvară aibă,
+cu belșug de soare,
+haina Ta-i țesută
+din câmpii în floare.
+Și mi-ai dat să-mbrac și mie haina Ta de floare.
+
+[v3]
+Primăvară scumpă,
+cânt și tinerețe
+Ești doar Tu Isuse,
+Sfântă Frumusețe.
+Mi-ai cuprins pe veci viața, Sfântă Frumusețe.
+
+[v4]
+Slavă, slavă Ție,
+primăvară plină,
+doruri
+Ie-n Tine
+și-au aflat hodină.
+Dorurile mele toate-n Tine-și au hodină.

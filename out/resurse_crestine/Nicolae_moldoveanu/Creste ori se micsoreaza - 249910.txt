@@ -1,0 +1,41 @@
+[title]
+Creste ori se micsoreaza {composer: {Nicolae Moldoveanu}, {rcId: {249910}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Crește ori se micșorează
+dragostea-mi spre Dumnezeu?
+Asta trebuie să fie
+întrebarea mea mereu.
+
+[c]
+Să mă-ntreb mereu,
+să mă-ntreb mereu:
+crește ori se micșorează
+dragostea-mi spre Dumnezeu?
+
+[v2]
+Căci acolo unde nu e
+focul dragostei preasfânt,
+nu-i adevărat nimica
+nici în cer, nici pe pământ.
+
+[v3]
+Dumnezeu nu-mi cere lucrul,
+mai întâi, pe-al Lui hotar,
+ci iubirea din credință
+pentru El, să ardă jar.
+
+[v4]
+După dragostea-mi curată
+însetează El oricând,
+dragostea mi-o vrea întruna,
+dragostea mereu crescând.
+
+[v5]
+Numai dragostea ce-mi crește
+pentru Tatăl meu Divin,
+dă valoare-oricărei fapte
+și acum și-n veci! Amin.

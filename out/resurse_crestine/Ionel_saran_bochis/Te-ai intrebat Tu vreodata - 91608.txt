@@ -5,37 +5,37 @@ Te-ai intrebat tu vreodata {composer: {Ionel Saran Bochis}, {rcId: {91608}}
 v1,c,v2,c2,v3,c3
 
 [v1]
-Te-ai intrebat Tu vreodata
-Cine atit de frumos
+Te-ai întrebat Tu vreodată
+Cine atât de frumos
 Natura cum a creat-o
-In atatea de culori
+În atâtea culori?
 
 [c]
-El este cel ce-n ceruri
-Printre stele Locuieste
-Dumnezeu se numeste
-El ne-a creat minunat
+El este Cel ce-n ceruri
+Printre stele locuiește,
+Dumnezeu se numește,
+El ne-a creat minunat!
 
 [v2]
-Te-ai intrebat cine oare
-Pe tine te-a construit
-Cine ti-a dat Duh de viata
-Si un chip asa frumos
+Te-ai întrebat cine oare
+Pe tine te-a construit?
+Cine ți-a dat duh de viață
+Și un chip așa de frumos?
 
 [c2]
-El este cel ce-n ceruri
-Printre stele Locuieste
-Dumnezeu se numeste
-El ne-a creat minunat
+El este Cel ce-n ceruri
+Printre stele locuiește,
+Dumnezeu se numește,
+El ne-a creat minunat!
 
 [v3]
-Hai sa cantam
-Cu toti de bucurie
-Cu Domnul nost
-Mergem spre vesnicii
+Hai să cântăm
+Cu toți de bucurie,
+Cu Domnul nost’
+Mergem spre veșnicii!
 
 [c3]
-El este cel ce-n ceruri
-Printre stele Locuieste
-Dumnezeu se numeste
-/: El ne-a creat minunat :/
+El este Cel ce-n ceruri
+Printre stele locuiește,
+Dumnezeu se numește,
+/: El ne-a creat minunat! :/

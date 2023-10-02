@@ -1,0 +1,54 @@
+[title]
+Ce-i viata ta? e o penita {composer: {Nicolae Moldoveanu}, {rcId: {5622}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+Ce-i viața ta? E o peniță
+Cu care scrii mereu pe-un drum,
+/: Și-apoi la ultima portiță
+Când vrei să-l ștergi ca pe-o tăbliță,
+Nu se mai șterge nicidecum! bis 1 :/
+
+[v2]
+Și vorbe-n vânt și fapte rele
+Rămân pe veci ca-ntr-un album;
+/: Păzit e scrisul tău de stele,
+De-ai pune mări întregi să-l spele,
+Nu se mai șterge nicidecum! bis 1 :/
+
+[v3]
+Să nu te minți că-n veșnicie
+Trecutul se preface-n scrum,
+/: Căci Dumnezeu stă mărturie
+Că-n fața Lui tot ce se scrie,
+Nu se mai șterge nicidecum! bis 1 :/
+
+[v4]
+În ceasul greu de judecată
+Îti vei citi întregul drum.
+/: Și vei zbucni în plâns deodată,
+Dar nici o slovă lăcrimată,
+Nu se va șterge nicidecum bis 1 :/
+
+[v5]
+Nu poate șterge decât sânge,
+Dar sânge Sfânt și nu oricum
+/: Ce înger trupul si-l va frânge?
+Și-astfel ce-ai scris, oricât ai plânge,
+Nu se mai șterge nicidecum bis 1 :/
+
+[v6]
+Hai, adu-ți vina ta și gresul,
+Isus îti sterge-al vieții drum,
+/: Cum trece pe nisip vârtejul,
+Dar dacă azi nu prinzi prilejul
+Nu se mai șterge nicidecum bis 1 :/
+
+[v7]
+Isus, pe lemn, răbdă arsita,
+Isus e prețul tău acum,
+/: Te face alb ca lămâița,
+Și tot ce-a scris pe drum penița,
+Nu se mai vede nicidecum bis 1 :/

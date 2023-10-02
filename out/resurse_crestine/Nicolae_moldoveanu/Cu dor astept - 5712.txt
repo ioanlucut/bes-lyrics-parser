@@ -1,0 +1,29 @@
+[title]
+Cu dor astept {composer: {Nicolae Moldoveanu}, {rcId: {5712}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cu dor aștept măreța zi
+Când iarăși o să vie,
+Isuse scump și drag Isus,
+A Ta Împărățtie.
+
+[c]
+Ființa mea suspină
+Și-atât de mult ar vrea
+Ca mai curând să vină
+Împărăția Ta!
+
+[v2]
+Adâncă pace va domni
+Și-adâncă armonie,
+Atunci când Tu va veni,
+A Ta Împărăție.
+
+[v3]
+Ajută-mă ca să-Ți slujesc
+O, Doamne, numai Ție,
+Ca-n veci și noi să moștenim,
+A Ta Împărăție.

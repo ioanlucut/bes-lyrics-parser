@@ -1,0 +1,29 @@
+[title]
+Frumusete negraita {composer: {Nicolae Moldoveanu}, {rcId: {250059}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Frumusețe negrăită,
+/: dragoste de sus, :/
+/: toate harurile-n suflet :/
+/: tu mi le-ai adus. :/
+
+[v2]
+Tu mi-mprospătezi viața
+/: cu parfum ceresc, :/
+/: și virtuțile, în mine, :/
+/: tot prin tine cresc. :/
+
+[v3]
+Tu-mi dezvălui adevărul
+/: în splendoarea lui, :/
+/: și pe treptele luminii :/
+/: ne-ncetat mă sui. :/
+
+[v4]
+Mă-nfrumusețezi cu chipul
+/: Domnului Hristos, :/
+/: dragoste dumnezeiască, :/
+/: rai frumos, frumos! :/

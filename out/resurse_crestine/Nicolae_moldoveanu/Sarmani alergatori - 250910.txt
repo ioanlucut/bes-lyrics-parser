@@ -1,0 +1,47 @@
+[title]
+Sarmani alergatori {composer: {Nicolae Moldoveanu}, {rcId: {250910}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Sărmani alergători spre moarte,
+Priviți cum vă-nșelați mereu,
+/: luptând pentru cununa lumii,
+v-o pierdeți pe-a lui Dumnezeu. :/
+
+[c]
+Treziți-vă, treziți-vă,
+vă cheamă azi un glas duios,
+treziți-vă, treziți-vă,
+treziți-vă pentru Hristos.
+
+[v2]
+Orbiți de patimi vinovate,
+robiți de-al trupului folos,
+/: râvniți a lumii fericire
+și-o lepădați pe-a lui Hristos. :/
+
+[v3]
+Lăsa-veți mâine ce-aveți astăzi,
+cum faceți azi cu ce-aveați ieri,
+/: și-așa vă vindeți mântuirea
+pe-nșelătoarele păreri. :/
+
+[v4]
+Uitând de Adevărul unic,
+azi nu-l mai știți de e sau nu-i,
+/: căutând prea multe adevăruri,
+nu-i mai găsiți cărarea lui. :/
+
+[v5]
+Și veșnic nu veți mai cunoaște
+ce este drept din ce-i nedrept,
+/: și-aceasta vă va fi osânda
+umblării-n drumul ne-nțelept. :/
+
+[v6]
+De-atâtea ori s-a spus aceasta,
+și se va mai striga-n pustiu,
+/: dar poate cineva ascultă,
+cât încă tot nu-i prea târziu. :/

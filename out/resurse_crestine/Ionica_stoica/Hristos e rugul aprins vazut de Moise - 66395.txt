@@ -1,0 +1,27 @@
+[title]
+Hristos e rugul aprins vazut de moise {composer: {Ionică Stoica}, {rcId: {66395}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Hristos e rugul aprins văzut de Moise
+El e iubirea dăruită pe Calvar! :/
+
+[c]
+El este viața, e lumina, este Domn!
+Puterea care m-a dezlegat de păcat
+/: Hristos e rugul aprins văzut de Moise
+El e iubirea dăruită pe Calvar :/
+
+[v2]
+Hristos e liniștea mea după furtună
+E trandafirul alb și dulce din Saron,
+Hristos e sursurul blând ce îți vorbește
+El este jertfa dăruită pe Calvar.
+
+[v3]
+Hristos e scara ce leagă veșnicia
+De un pămînt robit de patimi și păcat,
+Făcut blestem pentru salvarea omenirii
+E apa vieții și e calea pe pământ!

@@ -1,0 +1,41 @@
+[title]
+Ce draga mi-e viata {composer: {Nicolae Moldoveanu}, {rcId: {248520}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Ce dragă mi-e viața,
+Isuse-acum când pot,
+În lupta Ta frumoasă
+Să-i ard avântul tot.
+
+[c]
+/: Când pot să-Ți dau curate
+A inimii simțiri,
+Să-mpărtășesc puternic
+Înaltele-Ți trăiri. :/
+
+[v2]
+Când dulcea Ta lumină
+Mi-e limpede cleștar,
+Când clipele-mi sunt aur
+Și lacrimile jar,
+
+[c2]
+/: Când frații parcă-s îngeri,
+Biserica un cer,
+Și nu știu de înfrângeri,
+De noapte și de ger... :/
+
+[v3]
+Când nu-i cu neputință
+Nimic din tot ce vreai,
+Când totu-i numai cântec,
+Și dragoste și rai,
+
+[c3]
+/: Ce drag îmi e cu Tine,
+Să merg și să rămâi,
+Ce dulci sunt toate toate
+În dragostea dintâi! :/

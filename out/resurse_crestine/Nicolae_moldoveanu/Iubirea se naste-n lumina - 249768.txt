@@ -1,0 +1,29 @@
+[title]
+Iubirea se naste-n lumina {composer: {Nicolae Moldoveanu}, {rcId: {249768}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Iubirea se naște-n lumină
+și-n albul credinței din Cer,
+Ea crește pe-a păcii tulpină
+și arde pe-altar de-adevăr
+
+[c]
+Prin Isus, prin Isus,
+Dragostea-ntrupată,
+noi primim și trăim
+dragostea curată.
+
+[v2]
+Iubirea rodește-n hotarul
+evlaviei sfinte de Sus,
+și-și dăruie-n liniște harul
+Ia cel ce-a primit-o supus.
+
+[v3]
+Iubirea gătește vecia,
+prin Jertfa ce-o-nalță mereu,
+prin ea noi trăim părtășia
+cu Tatăl din cer, Dumnezeu.

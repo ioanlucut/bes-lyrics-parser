@@ -1,0 +1,29 @@
+[title]
+Cantand alerg mereu-nainte {composer: {Nicolae Moldoveanu}, {rcId: {250906}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Cântând alerg mereu-nainte,
+cântând lucrez, cântând iubesc,
+/: cântând Te laud totdeauna,
+Mântuitorul meu ceresc. :/
+
+[v2]
+Cântând aduc a-mele jertfe,
+cântând, pe frați, oricând primesc.
+/: Cântând aștept a Ta venire,
+Mântuitorul meu ceresc. :/
+
+[v3]
+Cântând pășesc pe calea crucii,
+cântând, viața mi-o trăiesc,
+/: cântând privesc spre Tine-ntruna,
+Mântuitorul meu ceresc. :/
+
+[v4]
+Aprinde-n mine, mai puternic,
+cântarea - foc dumnezeiesc,
+/: ca-n veci de veci să nu se stingă,
+Mântuitorul meu ceresc. :/

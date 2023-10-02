@@ -1,0 +1,53 @@
+[title]
+Opreste-te {composer: {Nicolae Moldoveanu}, {rcId: {248899}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Oprește-te, o clipă,
+din multa-ți alergare,
+și vezi, ce nume poartă
+trudita ta cărare?
+
+[c]
+Se cheamă curăția?
+Sau dragostea? - la seamă
+Sau poate-ntinăciunea?
+Sau ura? Cum se cheamă?
+
+[v2]
+Oprește-te, o clipă;
+nu-nainte! Ci cată
+să vezi dacă-n lumină
+cărarea ta-i scăldată.
+
+[c2]
+Oprește-te, și-ntreabă
+înțelepciunea sfântă
+Și-ascultă glasu-i tainic,
+când multe te frământă.
+
+[v3]
+Ascultă de-adevărul
+cel dătător de viață,
+ascultă de virtute
+și de la ea învață.
+
+[c3]
+Oprește-te! Și-ntoarce
+întreaga ta ființă
+din văile-ndoielii
+spre munții de credință.
+
+[v4]
+Oprește-te, o clipă,
+nu te grăbi spre moarte,
+căci cine după aceea
+de grij-o să-ți mai poarte?
+
+[c4]
+Întoarce-te la Domnul
+cu dragoste te-așteaptă.
+EI îți va pune pașii
+pe calea Lui cea dreaptă.

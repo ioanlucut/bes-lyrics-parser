@@ -1,0 +1,35 @@
+[title]
+Ce zarva mare-i doamne {composer: {Nicolae Moldoveanu}, {rcId: {250919}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ce zarvă mare-i, Doamne,
+în lumea celui rău.
+și ce adâncă pace-i
+când stau Ia sânul Tău!
+
+[c]
+La sânul Tău, la sânul Tău,
+la sânul Tău, Isuse,
+la sânul Tău, la sânul Tău
+sunt haruri neapuse.
+
+[v2]
+Ce dulce-Ți simt iubirea,
+cum mă-nfășoară blând
+și ce lumină-mi toarnă
+în inimă și-n gând!
+
+[v3]
+Ce odihnită-mi este
+întreagă viața mea,
+când mi-am predat-o Ție,
+cu tot ce este-n ea!
+
+[v4]
+Păstrează-mă, Isuse,
+prin harul Tău divin,
+cu tot ce sunt, de-a pururi,
+în Tine pe deplin!

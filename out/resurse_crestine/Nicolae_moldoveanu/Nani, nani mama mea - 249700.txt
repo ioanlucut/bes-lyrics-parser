@@ -1,0 +1,53 @@
+[title]
+Nani nani mama mea {composer: {Nicolae Moldoveanu}, {rcId: {249700}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Nani, nani mama mea,
+buna mea mămică,
+să te-adoarmă dulce-ar vrea
+mâna mea cea mică.
+/: Ochii mei, cântarea mea,
+mâna mea cea mică. :/
+
+[v2]
+Ochii mei nu se micesc,
+mie somn nu-mi vine,
+nu mă satur să privesc,
+mama mea la tine.
+/: Să te-ascult și să zâmbesc,
+mama mea la tine. :/
+
+[v3]
+Mamă ochii tăi sunt grei,
+mâna obosită,
+să-ți apleci spre-obrajii mei
+fața adormită.
+/: Ochii-nchiși, cuvântul stins,
+fața adormită. :/
+
+[v4]
+Nani, dulce mama mea,
+buna mea mămică,
+să-mi ating de fața ta
+mâna mea cea mică.
+/: Ochii mei, iubirea mea,
+mâna mea cea mică. :/
+
+[v5]
+Nani, umbră de pe zid,
+nani față dulce,
+ochii tăi cei dulci se-nchid,
+somnul lin să-i culce.
+/: Visul sfânt, cuvântul bun,
+somnul lin să-i culce. :/
+
+[v6]
+Nani, dulce mama mea,
+mână obosită,
+Dumnezeu cel bun să-ți dea
+viață fericită.
+/: Noapte bună, somn ușor,
+viață fericită. :/

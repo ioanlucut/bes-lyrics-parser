@@ -1,0 +1,41 @@
+[title]
+Nu poate omul mandru {composer: {Nicolae Moldoveanu}, {rcId: {248513}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Nu poate omul mândru
+Să ierte-o nedreptate,
+Nici a primi-o mustrare.
+Smeritul însă poate.
+
+[c]
+Nu-și poate omul lacom
+Lăsa porniri stricate,
+Nici pofte, nici ispite.
+Dar înfrânatul poate.
+
+[v2]
+Nu poate ne-nțeleptul
+Umbla pe căi curate,
+Nici a-și ținea cuvântul.
+Dar înțeleptul poate.
+
+[c2]
+Nu poate-avea cel leneș
+Simțiri nevinovate,
+Nici frați, nici timp, nici pâine.
+Cel harnic însă poate.
+
+[v3]
+Nu poate-un nestatornic
+Avea iubiri de frate,
+Nici lacrimi, nici răbdare.
+Dar cel statornic poate.
+
+[c3]
+Nu poți când n-ai iubire
+Să le-nțelegi pe toate,
+Să taci, să ierți, s-acoperi.
+Dar când iubești, se poate.

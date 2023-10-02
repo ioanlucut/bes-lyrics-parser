@@ -1,0 +1,38 @@
+[title]
+Nani cu mama {composer: {Nicolae Moldoveanu}, {rcId: {251420}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Nani cu mama
+pui mic de floare;
+cântec de îngeri
+spre noi să zboare.
+Să vină Voievodul
+Cel Sfânt și dulce,
+în taină, pe brațe,
+un pui să-și culce.
+Amin, amin,
+
+[v2]
+Nani cu mama
+să crești în pace.
+Îngeri de pază
+un zid vor face.
+Cu scuturi și suliți
+de foc și pară,
+veghea-vor cu grijă,
+o inimioară.
+Amin, amin,
+
+[v3]
+Nani cu mama,
+copil de soare.
+Viața să-ți fie
+biruitoare.
+Și-n Țara eternă
+cea-n veci măiastră,
+unită să fie
+cărarea noastră!
+Amin, amin.

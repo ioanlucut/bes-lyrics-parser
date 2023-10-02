@@ -1,0 +1,34 @@
+[title]
+Ramai mereu cu fratii {composer: {Titus Ghica}, {rcId: {5608}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Rămâi mereu cu frații și nu te duce la cei răi!
+/: Ai vrut iubire doar un ceas, și-acum ești, fără ea, rămas;
+Te-ai înșelat, când ai iubit pe cei ce azi te-au părăsit. :/
+
+[c]
+/: Întreabă-te, măcar odat’: în lume ce ai câștigat? :/
+Pe Isus, dacă-L vei urma, un loc în cer vei câstiga.
+
+[v2]
+Rămâi mereu cu frații tăi și nu te duce la cei răi!
+/: În prieteni, tu te-ai încrezut și te-au furat și te-au bătut;
+Cum poți, la poarta lor, să stai când, ca să intri, șansă n-ai? :/
+
+[v3]
+Rămâi mereu cu frații tăi și nu te duce la cei răi!
+/: Ai căutat să-ți faci un rost, și-acum ești fără adăpost;
+În aur, te-ai încrezut, mergând mereu pe-un drum pierdut. :/
+
+[v4]
+Rămâi mereu cu frații tăi și nu te duce la cei răi!
+/: Dincolo de acest pământ, credeai că este numai vânt,
+Închipuire și pustiu; nu știai că Isus e viu. :/
+
+[v5]
+Rămâi mereu cu frații tăi și nu te duce la cei răi!
+/: Tu ai un Prieten mai presus ce te așteaptă-n ceruri sus;
+El moștenire-ți va lăsa întreagă Împărăția Sa. :/

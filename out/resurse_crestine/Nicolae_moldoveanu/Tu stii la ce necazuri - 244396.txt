@@ -5,7 +5,7 @@ Tu stii la ce necazuri {composer: {Nicolae Moldoveanu}, {rcId: {244396}}
 v1,v2,v3,v4,v5
 
 [v1]
-Tu știi Ia ce necazuri, Doamne,
+Tu știi la ce necazuri, Doamne,
 În lumea asta ne-ai trimis,
 /: Fă să-ndrăznim s-avem credință
 Să biruim cum Tu ai zis. :/

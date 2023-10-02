@@ -1,0 +1,47 @@
+[title]
+Nu lasa ca sa se scurga {composer: {Nicolae Moldoveanu}, {rcId: {246470}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Nu lăsa ca să se scurgă
+Timpul tău în neagră noapte
+/: Ci-ți aprinde-n suflet lampa
+Dragostei cu sfinte fapte. :/
+
+[c]
+Nu lăsa, nu lăsa
+Timpul tău și viața ta,
+Să se scurga în zadar,
+Căci vei plânge cu amar.
+
+[v2]
+Nu lăsa în cartea vieții
+Mâna timpului să scrie
+/: Cu cerneala fărdelegii,
+Ci c-o dragoste mai vie. :/
+
+[v3]
+Nu lăsa în nelucrare,
+Timpul să se risipească,
+/: Ci-n iubire și-n credință
+Fă-l întruna să rodească. :/
+
+[v4]
+Nu lăsa vicleanul șarpe,
+Timpul tău să ți-l înghită,
+/: Timpu-ți este însăși viața:
+Întinată sau albită. :/
+
+[v5]
+Timpul te coboară-n beznă
+Sau te ’nalță în lumină,
+/: După fapta care-l umple,
+După dorul ce-l animă. :/
+
+[v6]
+Să veghezi! Și pentru Domnul,
+Timpul să-l răscumperi bine,
+/: Îmbrăcându-l în podoaba
+Faptelor de soare pline! :/

@@ -1,0 +1,50 @@
+[title]
+Si a fost isus copil {composer: {Nicolae Moldoveanu}, {rcId: {250065}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+/: Și a fost Isus copil... :/
+fără leagăn, fără slavă.
+Și-n ființa Lui firavă
+/: au pătruns fiori de ger. :/
+Și a fost Isus copil
+/: ca să aibă toți copii
+/: Tată-n cer. :/
+
+[v2]
+/: Și a fost Isus sărac. :/
+Se uitau cu milă bacii,
+cum i-ardeau pe față macii
+/: Cel mai trist dintre copii. :/
+Și a fost Isus sărac
+/: ca să aibă toți săracii
+/: bogății. :/
+
+[v3]
+/: Și a fost Isus flămând; :/
+și plângea din albul pânzii
+cum plâng mieii-n zori, plăpânzii
+/: cu-a lor ochi înrourați. :/
+Și a fost Isus flămând,
+/: ca să fie toți flămânzii
+/: săturați. :/
+
+[v4]
+/: Și a fost Isus un miel :/
+ce-l pândeau pe-afară leii
+Și din culmile ludeii
+/: și-n pustiul arzător. :/
+Și a fost Isus un miel,
+/: ca să aibă-n El toți mieii,
+/: un Păstor. :/
+
+[v5]
+/: Și a fost un rob Isus... :/
+Sus, slujind împărăția,
+jos, lui losif și Maria.
+/: Lumii-ntregi S-a dat răpus :/
+Și a fost un rob Isus,
+/: ca s-avem și noi robia
+/: și-nfierea lui Isus! :/

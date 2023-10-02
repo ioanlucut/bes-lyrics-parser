@@ -1,0 +1,35 @@
+[title]
+Ploaie alba {composer: {Nicolae Moldoveanu}, {rcId: {250875}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ploaie albă, ploaie cu cer,
+udă-mi întreaga ființă,
+moaie-mi astăzi bulgări de fier,
+crește-mă sfânt în credință.
+
+[c]
+Ca întreg ogorul meu
+să nu aibă bulgări seci.
+ci, muiați de ploaia Ta,
+să rodească, Doamne-n veci.
+
+[v2]
+Ploaie sfântă, ploaie cu har,
+spală-mi întreaga viată,
+pregătește-o, fie altar,
+pentru solia măreață.
+
+[v3]
+Ploaie dulce - apă și foc -
+toarnă-mi cereasca iubire,
+pentru pace, toți la un loc,
+fie prin cânt, spre unire.
+
+[v4]
+Ploaie plină, ploaie de Rai
+cântecul fie-mi prin lume,
+poarte pururi sfântul Tău grai,
+Doamne, preasfântul Tău Nume.

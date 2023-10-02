@@ -1,0 +1,71 @@
+[title]
+Doua stanci {composer: {Nicolae Moldoveanu}, {rcId: {240942}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,v5,c5,v6,c5
+
+[v1]
+Două stânci, pe marea lumii,
+Tot mai greu mă amenintă,
+Vor corabia vieții
+S-o scufunde-n neființă.
+
+[c]
+Cu mii colțuri - vârf de suliți -
+Ascuțite stau la pândă,
+S-o străpungă-n locu-n care
+E mai slabă și plăpândă!
+
+[v2]
+Și cu grab-apoi s-o-nece-n
+Valuri negre, otrăvite,
+Să nu mai ajungă-n portul
+Harurilor strălucite..
+
+[c2]
+Una-i stânca necredinței,
+Cu înfätișare hâdă,
+Pare moartea-ntruchipată,
+Ce de oameni stă să râdă.
+
+[v3]
+Din durerea lor își face
+Pricină de bucurie,
+Și din morți și-adună zilnic
+Hrana ei de temelie!..
+
+[c3]
+Alta e credința falsă
+- Stâncă mai ucigătoare -
+Ce pe chipu-i de-ntuneric
+Poartă haină lucitoare.
+
+[v4]
+Pare înger de lumină,
+Cu privirea ei te fură,
+Să te tragă-n ghiara morți,
+Căci e diavolul-n făptură.
+
+[c4]
+Câte suflete curate
+Au fost înecate-n valuri,
+Căci înselătoarea-i formă,
+Pare salvatoare maluri!...
+
+[v5]
+Dă corăbiei vieții,
+Doamne, cârma luminată,
+A credintei ce lucrează
+În iubirea-nfläcărată!
+
+[c5]
+Duhul Sfânt mi-o cârmuiască
+Prin furtuni, pe mări adânce,
+Să nu mi-o scufunde-n valuri
+Lucifericele stânce!
+
+[v6]
+Și s-ajungă-n portul păci,
+Din slăvita-mpărăjie,
+Unde nu-s dureri, nici lupte,
+Ci odihnă pe vecie.

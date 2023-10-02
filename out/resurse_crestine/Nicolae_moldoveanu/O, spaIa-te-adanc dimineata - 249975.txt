@@ -1,0 +1,42 @@
+[title]
+O spaia-te-adanc dimineata {composer: {Nicolae Moldoveanu}, {rcId: {249975}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+O, spa
+Iă-te-adânc dimineața
+în râul iubirii curate,
+să-ți facă frumoasă viața,
+din ochi să-ți înlăture ceața,
+o, spa
+Iă-te-adânc dimineața
+în râul iubirii curate.
+
+[v2]
+O, spală-te ziua-n amiază
+în marea iubirii gingașe,
+s-o simți cum în tine lucrează,
+cum mintea ți-o ține mai trează
+o, spa
+Iă-te ziua-n amiază,
+în marea iubirii gingașe.
+
+[v3]
+O, spa
+Iă-te-n fiecare seară-n
+oceanul iubirii divine,
+ea-ți strânge în suflet comoară
+și crucea ți-o face ușoară,
+O, spală-te-n fiecare seară-n
+oceanul iubirii divine.
+
+[v4]
+Și spa
+Iă-te-n orice clipită
+la sfântul izvor al iubirii,
+ca fața s-o ai strălucită,
+și inima-n veci liniștită,
+o, spală-te-n orice clipită,
+Ia sfântul izvor al iubirii.

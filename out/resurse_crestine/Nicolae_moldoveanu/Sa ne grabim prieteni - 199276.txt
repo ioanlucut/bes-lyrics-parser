@@ -1,0 +1,29 @@
+[title]
+Sa ne grabim prieteni {composer: {Nicolae Moldoveanu}, {rcId: {199276}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Să ne grăbim prieteni, e vremea-nspre apus,
+Cu candelele-aprinse, fecioarele s-au dus.
+Își pregătesc talanții cei care-au ostenit,
+Spre clipa socotirii Stăpânului sosit.
+
+[v2]
+Încinși stau gata robii, așteaptă doar un semn
+Să iasă, să-I deschidă la cel dintâi îndemn.
+Grăbesc vierii lucrul culesului rămas,
+Afară robii taie vițelul cel mai gras.
+
+[v3]
+Și-ascut secerătorii uneltele de zor,
+Ispravnicii cei harnici și-ncheie munca lor,
+Stau mesele-ncărcate, trimișii sunt plecați,
+Grăbind să strâng-acasă pe ultimii chemați.
+
+[v4]
+Cununi strălucitoare, veșmintele de in
+Și scaunele-albe așteaptă pe cei ce vin și vin.
+Străjerii toți stau gata, cu trâmbițele sus,
+Să ne grăbim prieteni, fecioarele s-au dus.

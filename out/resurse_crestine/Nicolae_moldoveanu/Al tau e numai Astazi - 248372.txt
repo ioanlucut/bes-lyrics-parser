@@ -1,0 +1,35 @@
+[title]
+Al tau e numai astazi {composer: {Nicolae Moldoveanu}, {rcId: {248372}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Al tău e numai Astăzi,
+Sau poate nici atât.
+De ce atunci spre Domnul
+Ești tot nehotărât?
+O clipă este astăzi,
+O clipă este-acum,
+O clipă, dar de-o clipă
+Atârnă-un veșnic drum.
+
+[v2]
+AI tău e numai Astăzi,
+Ieri alții au venit.
+Mâini au să vină alții
+Pe drumul fericit.
+Chemarea ta e astăzi,
+Iar clipa ta-i acum.
+De-acum, din clipa asta
+Ți-alegi un veșnic drum.
+
+[v3]
+Al tău e numai Astăzi,
+Curând e și trecut,
+Apoi pe veci vei merge
+Pe drumul ce ți-ai vrut.
+Poți fi salvat de astăzi,
+Sau fi pierdut de-acum,
+E clipa ta, alege-ți
+Al vieții veșnic drum.

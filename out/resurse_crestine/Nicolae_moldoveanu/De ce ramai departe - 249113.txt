@@ -1,0 +1,23 @@
+[title]
+De ce ramai departe {composer: {Nicolae Moldoveanu}, {rcId: {249113}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+De ce rămâi departe când drumul ți-e deschis?
+De ce-ntorc fără tine câți soli ți s-au trimis?
+/: De ce nu-mbraci veșmântul de nuntă dăruit,
+De ce nu iei inelul cel scump făgăduit? :/
+
+[v2]
+De ce nu-ți umpli vasul cu scumpul mir de nard,
+când candelele toate a celorlalte ard?
+/: De ce nu iei podoabe de aur din Ofir
+și-ntârzii când te-așteaptă al cântecelor șir? :/
+
+[v3]
+De ce nu vrei chemarea iubirii s-o asculți?
+O, nu mai sta departe, te-așteaptă-atât de mulți.
+/: Nu aștepta durerea când totul va fi-nchis,
+nu-ntoarcă fără tine și ultimul trimis! :/

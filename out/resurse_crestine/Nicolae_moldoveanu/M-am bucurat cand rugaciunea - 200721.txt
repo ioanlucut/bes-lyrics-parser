@@ -1,0 +1,35 @@
+[title]
+M-am bucurat cand rugaciunea {composer: {Nicolae Moldoveanu}, {rcId: {200721}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+M-am bucurat când rugăciunea,
+Mi-o ascultai - nici nu știam...
+/: Cu ce cuvinte să-ți dau slavă, bis 1
+Atât de mult mă bucuram! bis 1 :/
+
+[v2]
+M-am bucurat când suferința,
+Ce m-apăsa, mi-ai alungat...
+/: Cu suflet plin de mulțumire, bis 1
+Cântam de harul Tău bogat! bis 1 :/
+
+[v3]
+M-am bucurat când de iubire,
+Mă-mpărtășeam necontenit...
+/: Cântarea veseliei mele, bis 1
+Zbura înalt și fericit! bis 1 :/
+
+[v4]
+M-am bucurat de tinerețe,
+De mulțumire și de-avânt...
+/: De prietenie și mulțime, bis 1
+Și’n toate Ți-am avut cuvânt! bis 1 :/
+
+[v5]
+Dar bucuria-mpărtășirii,
+În harul nemaicunoscut...
+/: Doar ochii strălucind de lacrimi, bis 1
+O necuprind înalt și mut! bis 1 :/

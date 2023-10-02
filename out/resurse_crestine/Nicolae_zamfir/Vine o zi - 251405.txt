@@ -1,0 +1,43 @@
+[title]
+Vine o zi {composer: {Nicolae Zamfir}, {rcId: {251405}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Vine o zi
+când totul se va termina
+Vine o zi
+când tot ce-ai strâns aici va rămânea
+Si ce-ai sa faci
+Când socoteală tu vei da
+Unde te duci
+când viata se va termina
+
+[c]
+Primeștel pe Isus
+În viața ta
+Primeștel pe Isus
+Nu îl refuza
+Acum e timpul potrivit
+Ca să fi mântuit
+
+[v2]
+Vine o zi
+când pe nori va apărea
+Vine o zi
+când orice ochi îl va vedea
+De ce nu vrei
+Cu Isus viața să trăiești
+De ce nu vrei
+În viata ta să îl primești
+
+[v3]
+Vine o zi
+când de lacrimi vom uita
+Vine o zi
+și nu se va mai termina
+În veșnici
+Cu sfinți ne vom întălni
+În veșnici
+Doar prin Isus poți ca să fi

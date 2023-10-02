@@ -1,0 +1,47 @@
+[title]
+Lauda-l suflete {composer: {Autor necunoscut}, {rcId: {250151}}
+
+[sequence]
+v1,c,v2,c2,e,v3,c3,e
+
+[v1]
+Ce scump e darul ce l-am primit
+Ce scump e prețul ce L-a plătit!
+Isus Hristos m-a mântuit
+/: A Lui iubire mare! :/
+
+[c]
+Din El, prin El eu viață am
+Acum și-n veșnicii!
+Din El, prin El și pentru El,
+Slujesc pân’ la sfârșit!
+
+[v2]
+Ce mare-i harul ce l-am primit,
+Ce nesfârșită-i îndurarea Lui!
+Isus Hristos ne-a dăruit,
+/: Măreața Lui salvare! :/
+
+[c2]
+Din El, prin El iertare am,
+El vina mea a șters!
+Din El, prin El și pentru El,
+Slujesc pân’ la sfârșit!
+
+[e]
+Laudă-L suflete,
+Laudă-L pe Domnul meu!
+Laudă-L ne-ncetat, vrednic e cu-adevărat!
+Laudă-L pe Dumnezeu!
+
+[v3]
+Ce scump e sângele ce-a fost vărsat,
+Cât de perfectă e jertfa Sa!
+Isus Hristos m-a curățit!
+/: Pe veci eu Îl voi lăuda! :/
+
+[c3]
+Din El, prin El și pentru El,
+Sunt tare azi!
+Din El, prin El și pentru El,
+Mereu voi proclama:

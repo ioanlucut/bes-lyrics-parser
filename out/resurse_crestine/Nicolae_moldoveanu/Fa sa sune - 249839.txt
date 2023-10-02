@@ -1,0 +1,41 @@
+[title]
+Fa sa sune {composer: {Nicolae Moldoveanu}, {rcId: {249839}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Fă să sune, să răsune
+lauda Ta-n gura mea,
+Doamne, și in zile bune
+și în ziua cea mai rea.
+
+[c]
+Laudă, laudă,
+Doamne-Ți cânt mereu,
+lauda, laudă,
+Tu ești Tatăl meu!
+
+[v2]
+Căci din Tine se coboară
+tot ce-i bun și-adevărat,
+din eterna Ta comoară,
+Tu mă umpli ne-ncetat.
+
+[v3]
+De la Tine-mi dai cântare
+și voință ca să pot
+s-o înalț cu-nflăcărare.
+să Te laud peste tot.
+
+[v4]
+Duhul pururi mi-l trezește
+și aprinde-mi-l mai sfânt,
+să Te laud mai cerește
+în umblarea-mi pe pământ.
+
+[v5]
+Fă să sune, să răsune,
+lauda Ta-n gura mea,
+până haru-o să m-adune
+cu ai Tăi, în slava Ta!

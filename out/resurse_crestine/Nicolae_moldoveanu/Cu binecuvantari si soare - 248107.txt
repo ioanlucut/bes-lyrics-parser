@@ -1,0 +1,29 @@
+[title]
+Cu binecuvantari si soare {composer: {Nicolae Moldoveanu}, {rcId: {248107}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Cu binecuvântări și soare
+Mereu viața-ți fie plină,
+/: Și-n fericită sărbătoare
+Să zbori mai sus, mai spre lumină. :/
+
+[v2]
+Cununa bucuriei sfinte
+Pe fruntea ta să se așeze,
+/: Și inima, tot mai fierbinte,
+În stări de cer să ’nainteze :/
+
+[v3]
+Tăria harului credinței,
+În orice vremi să te-nsoțească
+/: Ca fericirea biruinței
+Să poată-n tine să sporească. :/
+
+[v4]
+Frumsețea făr-asemănare
+A lui Hristos să te inunde,
+/: Să-L poți pe El mai viu, mai mare
+Să-L ’nalți în viața ta oriunde! :/

@@ -2,7 +2,7 @@
 Puterea domnului nu are hotar (there s nothing my god can t do) {composer: {Dottie Rambo, Jimmie Davis, Traducere RO}, {rcId: {90247}}
 
 [sequence]
-v1,c,v2,c,s,c
+v1,c,v2,c
 
 [v1]
 El a măsurat marea cu mâna Sa
@@ -21,6 +21,3 @@ El a întocmit orice stea de pe cer
 Și-n nopți senine am din lumina ei
 Chiar și-o inimă tare-o va schimba
 Mântuire aduce, prin voința Sa.
-
-[s]
-Mare este Domnul nostru și puternic prin tăria Lui, priceperea Lui este fără margini. Psalm 147:5

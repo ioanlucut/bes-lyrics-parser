@@ -1,0 +1,33 @@
+[title]
+Cine-i oare mester mare {composer: {Autor necunoscut}, {rcId: {248529}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cine-i oare meșter mare
+În întregul univers
+Care să mă modeleze
+Dându-mi chipul Său ceresc.
+
+[c]
+Fă din mine ce ai vrea să fiu
+O vioară a iubirii tale
+Să cânt pe coarda harului ceresc
+Și tot mai mult în dragoste să cresc
+Fă din mine ce ai vrea să fiu
+O simfonie a iubirii tale
+Să cânt pe coarda harului ceresc
+Și tot mai mult în dragoste să cresc.
+
+[v2]
+El e piatra lepădată
+De zidari sus pe Calvar
+Doar El poate să ne facă
+Pietre vii în Sfânt Altar.
+
+[v3]
+Azi purtăm în vase slabe
+Măreția Domnului
+Mâine însă transformate
+Vom fi sus, în Casa Lui.

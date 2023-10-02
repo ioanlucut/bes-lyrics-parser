@@ -1,0 +1,23 @@
+[title]
+Spune doamne un cuvant {composer: {Nicolae Zamfir}, {rcId: {251400}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Aștept de multă vreme ajutorul Tău
+Doamne dămi putere, când îmi este greu
+Tu îmi ști durerea, Dumnezeul meu
+Tu ești mângâiere, sufletului meu
+
+[c]
+Spune Doamne, pentru mine
+Un cuvânt, doar un cuvânt
+Să mă încred doar în Tine
+Cât voi fi pe acest pământ
+
+[v2]
+Întoarceți privirea, si nu mă lăsa
+Tu îmi ști durerea, din inima mea
+Stiu că fără Tine nu mai pot lupta
+Stiu ca doar în Tine e speranta mea

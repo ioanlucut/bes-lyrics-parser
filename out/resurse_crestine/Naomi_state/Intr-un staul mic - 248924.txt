@@ -1,0 +1,45 @@
+[title]
+Intr-un staul mic {composer: {Naomi State}, {rcId: {248924}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,e
+
+[v1]
+Într-un staul mic, smerit
+Acolo se-ntrupă Fiul cel vestit
+Îngerii cântară-n cor
+Din Cer veni un Salvator!
+
+[c]
+În acea noapte minunată
+Se-adunară laolaltă
+/: Magi, păstori, și îngeri mii
+Ce-au adus speranțe vii! :/
+
+[v2]
+El de la-nceput ne-arată
+Cum în umilință Calea ne-a fost trasată
+Într-o iesle, printre paie
+Jos, in grajdul cu-animale.
+
+[c2]
+Cum, El, Regele etern
+Veni jos, în iesle-n Betleem
+/: C-o dragoste așa de mare
+Pentru lumea muritoare?! :/
+
+[v3]
+Într-o zi, noi, cu veselie
+Vom cânta cu-a Lui solie
+Căci pentru noi viața și-a dat
+Ușor n-a fost, dar a-ndurat!
+
+[c3]
+Vin’ la Isus azi, și te smerește
+Pe El în inimă primește!
+/: Căci te-a iubit de la început
+Când tu, nici nu L-ai cunoscut. :/
+
+[e]
+Într-un staul mic, smerit
+Acolo se-ntrupă Fiul cel vestit.

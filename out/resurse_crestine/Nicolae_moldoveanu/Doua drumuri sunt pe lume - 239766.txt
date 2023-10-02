@@ -7,23 +7,23 @@ v1,v2,v3,v4
 [v1]
 Două drumuri sunt pe lume
 Unul bun și unul rău,
-Unul duce la pierzare
-Celălalt la Dumnezeu.
+/: Unul duce la pierzare
+Celălalt la Dumnezeu. :/
 
 [v2]
 Din aceste două drumuri
 Unu-i larg și e frumos,
-Celălalt e strâmt și-adesea
-E cu spini și anevoios.
+/: Celălalt, e strâmt și-adesea
+E cu spini și anevoios. :/
 
 [v3]
 Însă drumul larg și neted
-Drumul lumii amăgitor,
-Are la sfârșit pierzarea
-Focul cel mistuitor.
+Drumul lumii-amăgitor,
+/: Are la sfârșit pierzarea,
+Focul cel mistuitor. :/
 
 [v4]
-Pe când drumul strâmt la capăt
+Pe când drumul strâmt. la capăt
 Are raiul luminos,
-Fericit cel care-l umblă
-Căci ne duce la Hristos.
+/: Fericit cel care-l umblă
+Căci ne duce la Hristos. :/

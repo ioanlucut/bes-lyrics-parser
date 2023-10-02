@@ -1,0 +1,42 @@
+[title]
+Vreau sa-ti vestesc bunatatea {composer: {Nicolae Moldoveanu}, {rcId: {250916}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Vreau să-Ți vestesc bunătatea,
+Dumnezeul meu,
+pacea și dreptatea
+să le spun mereu.
+
+[c]
+Pe Tine, pe Tine,
+Te-nalț și Te cânt,
+/: s-audă oricine :/
+de Tine, de Tine,
+de Sfântu-Ți Cuvânt.
+
+[v2]
+Vreau să-Ți vestesc îndurarea
+cu-al iubirii jar,
+curățește-mi starea
+prin al jertfei har.
+
+[v3]
+Vreau să-Ți vestesc judecata
+prin cuvânt și trai,
+și să-Ți-nalț curată
+cale către rai.
+
+[v4]
+Vreau să-Ți vestesc mântuirea,
+vreau s-o pot cânta,
+cum o dă iubirea
+de pe Golgota.
+
+[v5]
+Vreau mai frumos, mai fierbinte,
+Tatăl meu ceresc,
+Fețele-Ți preasfinte
+vreau să le vestesc.

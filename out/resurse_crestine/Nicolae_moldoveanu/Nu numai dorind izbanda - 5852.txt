@@ -5,42 +5,43 @@ Nu numai dorind izbanda {composer: {Nicolae Moldoveanu}, {rcId: {5852}}
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
 
 [v1]
-Nu numai dorind izbânda,
-Vei ajunge s-o atingi,
-Ci luptând în ea cu fapta
-Și cu sufletul creștin.
+Nu numai dorind izbânda
+vei ajunge s-o atingi,
+ci luptând cu preț de sânge
+și de lacrimi ai să-nvingi.
 
 [c]
-/: O, Isuse, o, Isuse, fă-mă să-Ți urmez cu dor,
-/: Să nu fiu numai cu vorba :/
-Ci cu fapta-mplinitor... :/
+O, Isuse, o, Isuse,
+fă-mă să-Ți urmez cu dor,
+/: să nu fiu numai cu vorba :/
+ci cu fapta-mplinitor.
 
 [v2]
 Nu numai cântând credința,
-Dovedești c-o ai deplin,
-Ci trăind în ea cu fapta
-Și cu sufletul creștin.
+dovedești c-o ai din plin,
+ci trăind în ea cu fapta
+și cu sufletul creștin.
 
 [v3]
-Nume pot avea și cei răi
-Și se pot făli că-l au,
-Însă, pilda și trăirea
-Și sfințirea vieții n-au.
+Nume pot avea și răii
+și se pot făli că-l au,
+însă pilda și trăirea
+și sfințirea vieții n-au.
 
 [v4]
-Dacă știi că neascultarea
-E din primul nesupus,
-Știi că ea blestemul morții
-Și osânda ți-au adus.
+Dacă știm că neascultarea
+e din primul nesupus,
+știm că ea blestemul morții
+și osândei l-a adus.
 
 [v5]
-Dar al ascultării sfinte
-Ce osânda mi-ai luat,
-Duhul Sfânt, lăsat de Tine,
-Fă-mi-l dulce și curat!
+Duh al ascultării sfinte
+ce-adevărul ni l-ai dat,
+drumul sfânt lăsat de Tine
+fă-ni-l dulce și umblat.
 
 [v6]
-Dă-ne darul ascultării
-Scump și dulce și smerit,
-Fără credință niciodată
-N-a fost nimeni mântuit!
+Dă-ne rodul ascultării
+scump și dulce și smerit,
+fără care niciodată
+n-a fost nimeni mântuit.

@@ -1,0 +1,23 @@
+[title]
+Cel care plange {composer: {Nicolae Moldoveanu}, {rcId: {249296}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Cel care plânge după-această
+viață șubredă și grea,
+/: e-un orb - că nu-i pe lume nimeni
+să nu se ducă de la ea. :/
+
+[v2]
+Cel care-și crede-a lui pământul,
+se-nșeală-n felu cel mai rău,
+/: că orb fiind, nenorocitul,
+nu vede că e el al său. :/
+
+[v3]
+Dar cel ce nu alege cerul
+și-al vieții veșnice temei,
+/: acum când Dumnezeu l-îmbie,
+e înmiit mai orb ca ei. :/

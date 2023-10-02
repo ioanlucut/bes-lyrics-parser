@@ -1,0 +1,35 @@
+[title]
+N-am cuvinte doamne indeajuns {composer: {Speranța}, {rcId: {93814}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+N-am cuvinte, Doamne, îndeajuns
+Să Îți mulțumesc pentru ce mi-ai dat,
+/: Să Îți mulțumesc pentru harul Tău
+Ce-n viața mea L-ai arătat. :/
+Tot aurul din lume de-aș avea
+Nu e deajuns ca să Te răsplătesc.
+Și înc-o viață, Doamne, de-aș avea,
+Nu mi-ar ajunge ca să-Ți mulțumesc.
+
+[c]
+Mi-ai dat un dar minunat
+Ce niciodată nu l-aș fi visat.
+Mi-ai dat un dar minunat
+Ce niciodată n-aș fi meritat.
+
+[v2]
+De nu Te-ai fi gândit la mine,
+Aș fi fost o umbră pe pământ,
+/: Aș fi fost o floare ofilită,
+Aș fi fost un praf purtat de vânt. :/
+Ce-aș putea să-Ți dăruiesc, o, Doamne,
+Când cerul și pământul este-al Tău?
+Ce-aș putea să-Ți dăruiesc, o, Doamne?
+Doar inima din pieptul meu!
+
+[e]
+/: Îți mulțumesc, Te preamăresc
+Și vreau să știi că Te iubesc. :/ x4

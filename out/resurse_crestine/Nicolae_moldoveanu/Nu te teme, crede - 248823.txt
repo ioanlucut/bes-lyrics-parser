@@ -1,0 +1,57 @@
+[title]
+Nu te teme crede {composer: {Nicolae Moldoveanu}, {rcId: {248823}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Nu te teme, crede,
+și-ai să fii scăpat,
+Dumnezeu îți vede
+calea ne-ncetat.
+Cât de crunt să fie
+leul furios,
+nu te teme, viu-e,
+tare e Hristos.
+Nu te teme, nu te teme,
+nu te teme, viu-e,
+tare e Hristos.
+
+[v2]
+Fie cât de mare
+crucea care-o sui,
+mergi cu fiecare
+pas pe urma Lui.
+Fie, cât se vede,
+munți și sus și jos,
+nu te teme, crede,
+cât ești cu Hristos.
+Nu te teme, nu te teme
+nu te teme, crede,
+cât ești cu Hristos.
+
+[v3]
+Fie cât de-amară
+cupa care-o bei,
+pentru El să-ți pară
+dulce când o iei.
+Fie, cât se vede,
+foc și sus și jos,
+nu te teme crede,
+cât ești cu Hristos.
+Nu te teme, nu te teme,
+nu te teme, crede,
+cât ești cu Hristos.
+
+[v4]
+Fii în cât de-adâncă
+apă aruncat,
+lângă tine-o Stâncă
+fi-va necurmat.
+Fie cât se vede,
+val și sus și jos,
+nu te teme, crede
+cât ești cu Hristos.
+Nu te teme, nu te teme,
+nu te teme, crede,
+cât ești cu Hristos.

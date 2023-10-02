@@ -1,0 +1,35 @@
+[title]
+Cuvantul meu sa semene viata {composer: {Nicolae Moldoveanu}, {rcId: {250926}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cuvântul meu să semene viață
+din adevărul Tău, din viața Ta,
+din rânduirea Ta în veci măreață
+din jertfa ce-ai plătit pe Golgota.
+
+[c]
+Pune Tu Isuse-n mine
+foc din focul Tău divin,
+ca s-aprindă și pe alții
+pentru Tine pe deplin.
+
+[v2]
+Cântarea mea să țese frumusețe
+din firul dragostei din Tine tors,
+prin ea oricând, oricine să se-nvețe
+să-și aibă spatele spre lume-ntors.
+
+[v3]
+Lucrarea mea, din Tine dăruită,
+să dăltuiască chipul Tău divin
+în inima de patimi răvășită,
+ca să Te vezi, Isuse-n ea deplin.
+
+[v4]
+Și-ntreaga mea viață dintru Tine
+să fie pentru Tine-n veci de veci,
+să-Ți-nalțe laude tot mai divine
+și-n ea întreg și veșnic să petreci.

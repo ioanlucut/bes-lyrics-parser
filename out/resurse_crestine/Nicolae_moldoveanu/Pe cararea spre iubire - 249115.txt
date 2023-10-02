@@ -1,0 +1,35 @@
+[title]
+Pe cararea spre iubire {composer: {Nicolae Moldoveanu}, {rcId: {249115}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Pe Cărarea spre Iubire
+până unde ai ajuns?
+/: Cât ți-așteaptă-n ușă mila
+până să-i întorci răspuns? :/
+
+[v2]
+Cât ți-așteaptă Dărnicia
+până haina să i-o dai,
+/: cât așteaptă mulțumirea
+un curat si dulce grai? :/
+
+[v3]
+Cât așteaptă Bunătatea
+revărsarea și spre răi,
+/: cât așteaptă Părtășia
+ascultarea de ai tăi? :/
+
+[v4]
+Cât așteaptă Rugăciunea
+de-al ei duh să te cuprinzi,
+/: dar Credința, dar Nădejdea
+de-a lor flăcări să te-aprinzi. :/
+
+[v5]
+Cât așteaptă pocăința
+și iertarea un răspuns
+/: - Și vei ști către Iubire
+până unde ai ajuns! :/

@@ -5,25 +5,25 @@ Nu uita {composer: {Daniel Cristian}, {rcId: {91521}}
 v1,c,v2,c
 
 [v1]
-Vine si clipa inserarii
-Cand toate vor disparea
+Vine și clipa înserării
+Când toate vor dispărea,
 Atunci vei aduna chiar tu
-Tot ce-ai semanat pe-acest pamant
-/: Aici-a jos :/
+Tot ce-ai semănat pe-acest pământ
+/: Aicea jos. :/
 
 [c]
-Nu uita frate,
-Nu uita sora, draga,
-Ca vesnicia,
-Intreaga te va astepta
-Fie fericit Creatorului
-Slava sa-I dai
-Fie osandit, pe vecie
-Ca Le-ai respins.
+Nu uita, frate,
+Nu uita, soră dragă,
+Că veșnicia,
+întreagă te va aștepta.
+Fie fericit, Creatorului
+Slavă să-I dai,
+Fie osândit pe vecie,
+Că L-ai respins.
 
 [v2]
-Acum este timpul tau
-Sa-L marturisesti pe Isus
-Si crezand tot si tot mai mult
-Ca ti-a iertat ale tale pacate
-/: Prin jertfa Lui :/
+Acum este timpul tău
+Să-L mărturisești pe Isus,
+Și crezând tot, și tot mai mult,
+Că ți-a iertat ale tale păcate
+/: Prin jertfa Lui. :/

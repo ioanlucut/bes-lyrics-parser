@@ -1,0 +1,29 @@
+[title]
+Cu indurare tu m-ai ridicat {composer: {Alexandra Flămînd}, {rcId: {251321}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cu îndurare Tu m-ai ridicat
+Râuri de pace m-au inundat
+Sufletul cântă pentru Hristos
+Un imn de slavă, imn glorios
+
+[c]
+Slavă și cinste Miel junghiat
+Pentru al lumii greu păcat
+Alfa Omega, Început și sfârșit
+Dumnezeu tare, ne-ai mântuit
+
+[v2]
+Cu îndurare Tu m-ai primit
+Cu mâna-Ți tare m-ai ocrotit
+Sufletul laudă și cântă mereu
+Yehova Sfântul, ești Dumnezeu
+
+[v3]
+Cu îndurare Tu m-ai iertat
+De orice vină Tu m-ai spălat
+Sufletul astăzi mi-e eliberat
+Hristos e Domnul cu adevărat!

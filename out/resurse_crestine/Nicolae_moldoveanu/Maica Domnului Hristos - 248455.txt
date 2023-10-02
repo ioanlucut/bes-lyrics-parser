@@ -1,0 +1,29 @@
+[title]
+Maica domnului hristos {composer: {Nicolae Moldoveanu}, {rcId: {248455}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+/: Maica Domnului Hristos :/
+Dar al gândului duios,
+/: Floarea zorilor cerești, :/
+/: Binecuvântată ești! :/
+
+[v2]
+/: Maica Domnului Isus,
+Crin al cerului de Sus,
+/: Rai al sfintei bucurii, :/
+/: Binecuvântată fii! :/
+
+[v3]
+/: Maica Domnului Hristos, :/
+Raza cerului frumos,
+/: Mila inimii-omenești, :/
+/: Binecuvântată ești! :/
+
+[v4]
+/: Maica Marii Îndurări, :/
+Chip al sfintei ascultări,
+/: Taina Sfintei Profeții, :/
+/: Binecuvântată fii! :/

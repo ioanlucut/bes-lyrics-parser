@@ -1,0 +1,35 @@
+[title]
+Cel care-a platit vietii {composer: {Nicolae Moldoveanu}, {rcId: {248678}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Cel care-a plătit vieții
+prețul cel mai scump și greu
+va culege cel mai dulce
+adevăr din Dumnezeu.
+Cel care-a răbdat a vieții
+nedreptate mai tăcut,
+moșteni-va-n veșnicie
+cel mai minunat avut.
+
+[v2]
+Cel ce și-a-mplinit a vieții
+datorie mai cinstit,
+va purta pe frunte veșnic
+nimbul cel mai strălucit.
+Cel care-a iertat a vieții
+josnicie mai deplin,
+se va bucura de cerul
+cel mai ’nalt și mai senin.
+
+[v3]
+Cel care-a-ndurat a vieții
+răstignire mai smerit,
+va-nvia purtând în slavă
+chipul cel mai fericit.
+Cel care-a cântat a vieții
+bucurie mai frumos,
+va rămâne-n veșnicie
+cel mai una cu Hristos.

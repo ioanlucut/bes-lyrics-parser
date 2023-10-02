@@ -1,0 +1,29 @@
+[title]
+Eu m-am nascut un pacatos {composer: {Nicolae Moldoveanu}, {rcId: {250940}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Eu m-am născut un păcătos,
+și am nevoie de Hristos,
+/: căci El, prin jertfa Lui cea grea,
+a ispășit și vina mea! bis 1 :/
+
+[v2]
+Deși sunt doar un copilaș,
+dar la păcat am fost părtaș
+/: cu mama ce m-a zămislit
+pe-acest pământ neleguiut bis 1 :/
+
+[v3]
+Isuse, Doamne, bun și blând,
+așa cum sunt, mic și plăpând,
+/: la Tine vin, să mă primești,
+căci Tu poți să mă mântuiești! bis 1 :/
+
+[v4]
+Tu, copilașii i-ai chemat,
+pe toți i-ai binecuvântat,
+/: de-aceea îndrăznesc și eu,
+să fii Mântuitorul meu! bis 1 :/

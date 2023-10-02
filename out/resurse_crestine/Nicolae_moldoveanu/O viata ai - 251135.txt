@@ -1,0 +1,29 @@
+[title]
+O viata ai {composer: {Nicolae Moldoveanu}, {rcId: {251135}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+O viață ai, - o scurtă și unică viață
+și-orice apus de soare îi poate fi hotar.
+- O ultimă răscruce, o ultimă povață,
+/: Și-o ultimă chemare :/ îți poate fi-orice har.
+
+[v2]
+Un suflet ai, - un singur și veșnic suflet numa’
+și-n orice clipă moartea ți-l poate cere iar,
+- răscrucea ta din urmă, povața ta de-acuma,
+/: și ultima chemare :/ - e poate-aceasta chiar.
+
+[v3]
+Un Dumnezeu e numai - și unica-ți salvare,
+și unica-ți speranță, e-n unicul Său har,
+- e poate ceasul ultim, e poate clipa mare,
+/: și pasul fără care :/ ai plânge-n veci amar.
+
+[v4]
+Hristos e-a Ta viață, Hristos e-a ta lumină,
+Hristos e-a ta salvare, - Hristos e-acel Hotar,
+din care-nvii spre slavă, sau mori pe veci spre vină,
+/: - prilejul cel din urmă :/ e poate-acesta chiar.

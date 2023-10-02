@@ -1,0 +1,41 @@
+[title]
+Iubirii care n-a uitat {composer: {Nicolae Moldoveanu}, {rcId: {249944}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Iubirii care n-a uitat
+credința cea curată,
+dă-i cerul cel mai preacurat,
+iubire preacurată.
+
+[v2]
+Iubirii ce-a adus frumos
+preasfânta ascultare,
+dă-i cerul maicii lui Hristos,
+iubire-ndurătoare.
+
+[v3]
+Iubirii care n-a trădat
+iubirea datorată,
+dă-i cerul cel mai minunat,
+iubire-adevărată.
+
+[v4]
+Iubirii care s-a păzit
+întreagă și fierbinte,
+dă-i cerul cel mai fericit,
+iubire-a Feței Sfinte.
+
+[v5]
+Iubirii care s-a păstrat
+statornică și mare,
+dă-i cerul cel mai luminat,
+iubire sfințitoare.
+
+[v6]
+Dar celei care s-a topit
+tăcută și uitată,
+dă-i cerul unde-i nesfârșit
+iubirea-mbrățișată.

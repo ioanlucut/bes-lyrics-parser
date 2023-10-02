@@ -1,0 +1,37 @@
+[title]
+Proverbe :- - {composer: {Nicolae Moldoveanu}, {rcId: {249444}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7,v8
+
+[v1]
+V10: Fiul Meu, ascultă-mi glasul și Cuvântul Meu îl ține,
+și-atunci anii vieții tale vor fi mulți și plini de bine.
+
+[v2]
+V11: Eu ți-arăt a-nțelepciunii cale binecuvântată,
+te povățuiesc pe calea cea plăcută și curată.
+
+[v3]
+V12: Când pe ea umbla-vei, pasul n-o să ți se stânjenească,
+când vei alerga, piciorul n-o să ți se poticnească.
+
+[v4]
+V13: Ține-nvățătura bună, n-o lăsa nicicând din mână,
+s-o păstrezi că ea-i viața care-n veci o să-ți rămână.
+
+[v5]
+V14: Nu intra pe calea celor răi ce merg la nimicire,
+nu umbla pe drumul celor care fac nelegiuire.
+
+[v6]
+V15: Fugi de căile acelea, să nu treci nicicând pe ele,
+ocolește-le, ferește, treci ’nainte, căci sunt rele.
+
+[v7]
+V18: Dar a celor buni cărarea-i ca lumina când lucește,
+și a cărei strălucire până-n miezul zilei crește.
+
+[v8]
+V19: Calea celor răi ca noaptea cea rea și neagră este,
+nu văd unde merg și-n groapă au să cadă, fără veste.

@@ -11,8 +11,8 @@ Cu sufletu-mi zdrobit și-nfrânt
 Alerg, căci n-am la cine.
 
 [c]
-/: În toată lumea am căutat,
-Să-mi găsesc desfătare.
+/: În toată lumea am căutat
+Să-mi găsesc desfătare,
 Dar peste tot ce am aflat,
 Au fost lacrimi amare. :/
 
@@ -31,11 +31,12 @@ Primește-mă la Tine. :/
 [v3]
 Eu nu sunt vrednic, să-mi spui fiu,
 Pierdut am fost prin lume,
-În bezna nopții, ceas târziu,
+În bezna nopții-n ceas târziu,
 Tu m-ai chemat pe nume.
 
 [c3]
 /: Te voi sluji cum n-am slujit
-Pe nimenea vreodată.
+Pe nimenea vreodată,
 Căci pot de-acum să-Ți spun și eu,
-Din sufletul meu: Tată! :/
+Din sufletul meu: ”
+Tată!” :/

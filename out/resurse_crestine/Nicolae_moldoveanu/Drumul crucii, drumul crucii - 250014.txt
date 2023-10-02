@@ -1,0 +1,23 @@
+[title]
+Drumul crucii drumul crucii {composer: {Nicolae Moldoveanu}, {rcId: {250014}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Drumul crucii, drumul crucii, astăzi pe pământ,
+/: este drumul care duce înspre cerul sfânt. :/
+Numai el are lumina veșnicului har
+/: al vieții și-al iubirii fără de hotar. :/
+
+[v2]
+Drumul crucii, drumul crucii, poartă ne-ncetat
+/: pe cei sfinți în adevărul cel neclătinat.
+Numai el topește gheața dintre noi deplin
+/: și ne-aduce unitatea cerului divin. :/
+
+[v3]
+Drumul crucii, drumul crucii, de-l pășim răbdând,
+/: vom vedea pe Domnul Slavei revenind curând. :/
+Și la nunta sfântă unde-I Mire scump și Miel.
+/: fi-vom toți ce drumul crucii l-am urmat ca El. :/

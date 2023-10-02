@@ -1,0 +1,37 @@
+[title]
+Copiii sunt o binecuvantare {composer: {Anonim}, {rcId: {251830}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Copiii sunt o binecuvântare
+Ce de la tine Doamne i-am primit
+Și rodul pântecelui o răsplată
+Primită de la tine, Domn iubit
+
+[c]
+/: Tu meriți toată slava, mulțumirea
+Căci toate aicea tu le cârmuiești
+Tu ne dai binecuvântări, o Tată
+Cerești, duhovnicești și pământești :/
+/: Tu meriți toată slava, mulțumirea
+Căci toate aicea tu le cârmuiești
+Tu ne dai binecuvântări, o Tată
+Cerești, duhovnicești și pământești :/
+/: Tu meriți toată slava, mulțumirea
+Căci toate aicea tu le cârmuiești
+Tu ne dai binecuvântări, o Tată
+Cerești, duhovnicești și pământești :/
+
+[v2]
+Înțelepciune, noi îți cerem Doamne
+Din hrana Ta mereu, noi să le dăm
+Cuvântul tău cel Sfânt plin de putere
+Pe ai noștrii copilași să-i învățăm
+
+[v3]
+Îți mulțumim, o Doamne că faci totul
+Ca de-a lor viață te vei îngriji
+În brațul Tău ne încredem cu toții
+Și știm că vom ajunge-n veșnicii

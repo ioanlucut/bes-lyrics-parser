@@ -1,0 +1,41 @@
+[title]
+Spune tu {composer: {Nicolae Moldoveanu}, {rcId: {199278}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Spune tu, spuneți voi,
+unde-s bucurii mai noi,
+unde-i tot ce-i mai frumos?
+La Hristos, cu Hristos, în Hristos.
+Cu El creștem fericiți,
+blânzi și buni și liniștiți.
+El ne scapǎ de-orice rǎu,
+El ne-aratǎ harul Sǎu,
+El ne-ajutǎ-n orice fel
+/: El, El, El. :/
+
+[v2]
+Spuneți voi, spune tu,
+unde cântǎ sufletul,
+unde-i bine de nespus?
+La Isus, cu Isus, în Isus.
+Lângă El suntem mereu
+fii plǎcuți lui Dumnezeu.
+El ne-nvațǎ ce-i frumos,
+El ne face de folos,
+El ne crește-n sfântul zel,
+/: El, El, El. :/
+
+[v3]
+Spune tu, spuneți voi,
+unde sǎ rǎmânem noi,
+unde-i tot ce-i mai frumos?
+Ca la El, ca la El, nu-s nicǎieri
+bucurii și mângâieri,
+nici mai dulce și senin.
+El e-al nostru har deplin,
+El ne este-al nostru țel,
+El ne face fericiți
+/: El, El, El. :/

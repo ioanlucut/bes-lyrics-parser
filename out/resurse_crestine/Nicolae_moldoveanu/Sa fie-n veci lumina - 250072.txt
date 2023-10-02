@@ -1,0 +1,47 @@
+[title]
+Sa fie-n veci lumina {composer: {Nicolae Moldoveanu}, {rcId: {250072}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Să fie-n veci lumina
+pe cerul cui de-acum,
+spre slavă pregătește
+al altora sfânt drum.
+
+[c]
+În veci Hristos să fie
+nedespărțit de-acel,
+ce-a vrut pe toți să-i ție
+nedespărțiți de El.
+
+[v2]
+Să fie-n veci frumsețe
+pe chipul cui mereu,
+cu gând curat îndreaptă
+pe mulți spre Dumnezeu.
+
+[v3]
+Să fie-n veci iubire
+pe drumul cui cu drag,
+spre dragoste se face
+al altora toiag.
+
+[v4]
+Să fie-n veci cântare
+în graiul cui voios,
+aprinde-n mulți fiorul
+cântării lui Hristos.
+
+[v5]
+Să fie-n veci iertare
+spre vina cui smerit
+din suflet iartă pe-alții
+oricât i-ar fi greșit.
+
+[v6]
+Să fie-n veci odihna
+pe duhul cui mereu
+i-a dus pe mulți să afle
+odihna-n Dumnezeu...

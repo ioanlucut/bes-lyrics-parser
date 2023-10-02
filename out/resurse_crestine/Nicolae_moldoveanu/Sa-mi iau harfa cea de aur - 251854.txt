@@ -1,0 +1,41 @@
+[title]
+Sa-mi iau harfa cea de aur {composer: {Nicolae Moldoveanu}, {rcId: {251854}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Să-mi iau harfa cea de aur,
+pentru-acest poem divin,
+/: iată porțile Măririi,
+iată îngerii cum vin. :/
+
+[v2]
+Să-mi iau pana cea de aur,
+pentru-acest cuvânt slăvit,
+/: m-am spălat în șapte valuri,
+șapte flăcări m-au albit. :/
+
+[v3]
+Să-mi iau graiul cel de aur,
+pentru Numele nespus,
+/: preamărirea Lui începe
+de la tonul cel mai sus. :/
+
+[v4]
+Să-mi iau haina cea de aur,
+pentru prânzul invitat,
+/: Cerule începe-ți nunta,
+iată ultimul intrat. :/
+
+[v5]
+Să-mi iau glezna cea de aur,
+pentru zarea care-o sui,
+/: următoarea treaptă-i pragul
+Tronului Măririi Lui. :/
+
+[v6]
+Să-mi iau clipa cea de aur,
+pentru Veșnicul Sărut,
+/: strălucire, înfășoar-o
+dulce, unic și tăcut. :/

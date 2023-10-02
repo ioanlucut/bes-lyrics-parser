@@ -1,0 +1,27 @@
+[title]
+Ierusalim cetate binecuvantata {composer: {Nicolae Zamfir}, {rcId: {251404}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Ierusalim cetate binecuvântată
+Mi-e dor, mi-e dor de frumusețe ta
+Mi-e dor de ziua ce-a mult așteaptă
+Când cu toți sfinții ne vom revedea
+
+[c]
+Cetatea mea mult te iubesc
+Cetatea mea ce mult doresc
+S-ajung la tine
+Ierusalime, Ierusalime, cetate mea
+
+[v2]
+Înaintăm spre patria promisă
+Plini de credință și fără îndoieli
+Nimic din drum n-o să ne oprească
+Mergem cântând pe sfintele cântări
+3. Călătoria este spre sfârșite
+Căci Mirele nu va mai zăbovi
+E ultim ceas se strigă deșteptare
+Fiți gata frați, surori de veșnici

@@ -1,0 +1,35 @@
+[title]
+Peste cerul diminetii {composer: {Nicolae Moldoveanu}, {rcId: {249117}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Peste cerul dimineții,
+peste norii cei mai sus,
+peste zorii tinereții,
+Tu ești soarele frumseții
+Tu Isus, Scump Isus,
+Bun Isus, Drag Isus,
+/: Tu ești soarele frumseții :/
+Tu, Isus, Tu, Isus.
+
+[v2]
+Peste-ntinderi din câmpie
+peste munții cei mai sus,
+peste zarea aurie,
+Tu ești sfânta bucurie,
+Tu, Isus, Scump Isus,
+Bun Isus, Drag Isus,
+/: Tu ești sfânta bucurie, :/
+Tu, Isus, Tu, Isus.
+
+[v3]
+Pete-a inimii suspine,
+peste tot ce-i jos și sus,
+peste veacul care vine,
+Tu ești totul pentru mine,
+Tu, Isus, Scump Isus,
+Bun Isus, Drag Isus,
+/: Tu ești totul pentru mine, :/
+Tu, Isus, Tu, Isus.

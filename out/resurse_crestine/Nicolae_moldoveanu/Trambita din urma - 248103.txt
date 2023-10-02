@@ -1,0 +1,36 @@
+[title]
+Trambita din urma {composer: {Nicolae Moldoveanu}, {rcId: {248103}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Trâmbița din urmă
+Sună și răsună,
+Pe cei din morminte,
+Înviind, i-adună.
+/: Și ningând spre ceruri,
+Fluturi de lumină,
+De Izvorul vieții
+Viața lor și-anină. :/
+
+[v2]
+Trâmbița cea albă
+’
+Nalță-n sărbătoare,
+Biruința vieții
+Mare, tot mai mare.
+/: Norii fărdelegii
+Ce-au plouat durere,
+Toți s-au dus cu noaptea
+Fără-napoiere. :/
+
+[v3]
+Trâmbița-nvierii,
+Freamătul veciei,
+Sună-n piept de-arhanghel
+Vestea bucuriei:
+/: Vine Împăratul,
+Totul se lumină.
+Universul veșnic,
+Lui, întreg se-nchină. :/

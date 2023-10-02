@@ -1,0 +1,29 @@
+[title]
+Veniti copii iubiti {composer: {Nicolae Moldoveanu}, {rcId: {248995}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Veniți, copii iubiți, veniți, la Cel ce vă dorește,
+/: Isus vă cheamă-așa de blând și-atâta vă iubește. :/
+
+[c]
+Veniți, veniți, copii iubiți
+la Domnul să veniți!
+
+[v2]
+De-ați știi voi cum Isus Cel Bun pe brațe-o să vă suie,
+/: și ce povețe, ce cântări frumoase-o să vă spuie. :/
+
+[v3]
+Cum blând vă va chema la El, ca mieii pe pășune,
+/: ce flori, ce daruri, ce minuni, în brațe-o să v-adune. :/
+
+[v4]
+O să v-arate munți și văi și zări nemaizărite,
+/: și inimile vă vor fi nespus de fericite. :/
+
+[v5]
+Veniți, copii iubiți, chemați, pe-alții, toți să vină,
+/: veniți în jurul Lui, veniți, să fie casa plină! :/

@@ -1,0 +1,23 @@
+[title]
+De vrei s-ajungi {composer: {Nicolae Moldoveanu}, {rcId: {250057}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+De vrei s-ajungi Limanul senin și fericit,
+tu caută Adevărul, dar până la sfârșit.
+De vrei să fii om vrednic de numele primit,
+rămâi cu Adevărul, prin toate, neclintit.
+
+[v2]
+De vrei să ai în viață un cuget liniștit,
+grăiește Adevărul, oricând neocolit.
+De vrei să mori în pace cu chipul strălucit,
+trăiește Adevărul întreg, nemijlocit.
+
+[v3]
+De vrei un suflet vrednic, oricât ai fi gonit,
+urmează Adevărul, trăindu-l împlinit.
+Și chiar de-ai fi pe lume mereu cu rău plătit,
+ce-ți dăruie-Adevărul întrece înmiit.

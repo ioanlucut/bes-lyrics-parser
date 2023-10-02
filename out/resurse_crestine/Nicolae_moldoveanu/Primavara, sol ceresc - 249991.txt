@@ -1,0 +1,41 @@
+[title]
+Primavara sol ceresc {composer: {Nicolae Moldoveanu}, {rcId: {249991}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+/: Primăvară, sol ceresc :/
+cu-aripioare de ninsoare,
+câte flori te-mpodobesc,
+toate alte flori vestesc,
+viitoare, viitoare..
+
+[v2]
+/: Primăvară, chip de har, :/
+Preoteasă și crăiasă,
+tu în albul tău talar,
+în manta de Șinear,
+ești mireasă, ești mireasă.
+
+[v3]
+/: Și purtând veșmânt curat, :/
+ramuri pline de albine,
+tu ne-nalți cu gând curat
+către Mire
+Ie-mpărat
+care vine, care vine.
+
+[v4]
+/: Către Mirele de sus, :/
+unde doară dorul zboară,
+unde-n freamăt de nespus
+ne va fi în veci Isus
+primăvară, primăvară!
+
+[v5]
+/: Unde totu-i numai flori, :/
+cărăruia, cetățuia,
+numai soare fără nori,
+numai frați, numai surori...
+Aleluia, Aleluia!

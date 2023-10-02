@@ -1,0 +1,35 @@
+[title]
+Opreste-te din drumul tau {composer: {Alexandra Flămînd}, {rcId: {251333}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Oprește-te din drumul tău
+Cât vrei să rătăcești pribeag
+Te-așteaptă bunul Dumnezeu
+Cu brațu-ntins El stă în prag
+
+[c]
+Lasă tot ce te mai ține
+De pământ acum legat
+Dumnezeu va fi cu tine
+Dacă vii să fii salvat!
+
+[v2]
+Tu nu mai sta în nepăsare
+Întoarce-te din drumul tău
+Dragostea Tatălui e mare
+Vei fi de azi copilul Său!
+
+[v3]
+Mai este încă loc la cruce
+Și încă-i har să te întorci
+Iubire, pace El îți va aduce
+Să scapi de roșcove și porci
+
+[v4]
+Te-așteaptă Tatăl cu iubire
+Să te predai cu tot ce ești
+El poate să-ți dea mântuire
+Un loc în cer în slăvi cerești.

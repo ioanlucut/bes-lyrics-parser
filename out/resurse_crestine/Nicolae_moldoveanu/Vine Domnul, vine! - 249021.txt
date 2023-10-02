@@ -1,0 +1,41 @@
+[title]
+Vine domnul vine {composer: {Nicolae Moldoveanu}, {rcId: {249021}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Vine Domnul! Vine Domnul!
+E cuvântul mare,
+pentru cei ce cred și-așteaptă
+sfânta-I arătare.
+
+[c]
+Vine Domnul, vine!
+Vine Domnul vine!
+/: Suflete te-ntreabă astăzi
+ce va fi cu tine? :/
+
+[v2]
+Vine Domnul! Vine Domnul!
+Gata-I să sosească.
+Aurora Dimineții
+prinde să mijească.
+
+[v3]
+Vine Domnul! Vine Domnul!
+Sus s-avem privirea
+căci de-acolo ni se-aduce
+nouă izbăvirea.
+
+[v4]
+Vine Domnul! Vine Domnul!
+lată-L! Se ivește!
+S-aruncăm orice povară
+ce ne copleșește.
+
+[v5]
+Vine Domnul! Vine Domnul!
+Suflete fecioare,
+să ieșim în haine albe
+în întâmpinare.

@@ -1,0 +1,35 @@
+[title]
+Ma iubesti ? {composer: {Nicolae Moldoveanu}, {rcId: {203635}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Mă iubești tu mai mult decât ceilalți?
+Mă iubești tu frate ceresc?
+Mă iubești tu ca rob din iubire?
+/: Eu așa te iubesc! :/
+Mă iubești tu când sunt lângă tine,
+dar și-n ceasul amar și umbrit?
+Mă iubești tu când ceru-i departe?
+/: Eu așa te-am iubit! :/
+
+[v2]
+Mă iubești tu mai mult decât ceilalți?
+Mai presus de-orice gând pământesc?
+Mai presus de-orice dragoste-a firii?
+/: Eu așa te iubesc? :/
+Mă iubești tu pe culmi de vedenii,
+dar și-atunci când te simți părăsit?
+Mă iubești și-ntre flori și-ntre suliți?
+/: Eu așa te-am iubit! :/
+
+[v3]
+Mă iubești tu mai mult decât ceilalți.
+decât cei ce arar Mă-nsoțesc?
+Mă iubești tu privind veșnicia?
+/: Eu așa te iubesc! :/
+Simți că-n lume străine ți-s toate?
+Simți că-n Mine ți-e totu-mplinit?
+Mă iubești tu mai mult ca pe tine?
+/: Eu așa te-am iubit! :/

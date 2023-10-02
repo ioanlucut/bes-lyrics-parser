@@ -1,0 +1,41 @@
+[title]
+Multumesc si te laud dumneze tatal meu {composer: {Nicolae Moldoveanu}, {rcId: {251386}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Mulțumesc și Te laud
+Dumnezeu, Tatăl meu,
+Pentru harul vieții
+Ce mă umple mereu!
+
+[c]
+/: Mulțumesc de chemarea
+Și de-alegerea Ta,
+Pentru cerul iubrii,
+Care-Ți poate cânta! :/
+
+[v2]
+Mulțumesc pentru toate
+Câte zilnic primesc
+Din belșug de la Tine
+Ca să pot să-ți slujesc!
+
+[c2]
+/: Mulțumesc de credința
+Ce mi-ai dat-o să fiu
+Strămutat în lumina
+Adevărului viu! :/
+
+[v3]
+Mulțumesc de îndemnul
+Ce mi-l dărui prin har,
+Ca s-aduc mulțumirea
+Jertfă sfântă pe-altar!
+
+[c3]
+/: Mulțumesc și Te laud!
+Focu-acesta mereu
+Pentru Tine să ardă,
+Tatăl meu, Dumnezeu! :/

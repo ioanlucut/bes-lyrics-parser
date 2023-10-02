@@ -1,0 +1,23 @@
+[title]
+Ce bine atunci va fi {composer: {Naomi State}, {rcId: {248925}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Doamne, ce dulci îmi sunt clipele cu Tine
+Pe genunchi, în rugă ascuns, zdrobindu-mă pe mine
+In odăița mea eu Te simt aproape
+Când cu Tine de vorbă stau pășesc peste toate
+
+[c]
+/: Ce bine atunci va fi,
+Doamne-n cerul Tău frumos
+Când vom cânta pe veci
+Mirelui Hristos! :/
+
+[v2]
+Oare atunci când vei veni să ne iei acasă
+Vei mai găsi atunci, în noi, credința cea aleasă?
+Până vei veni pe nori, ajută-mă pe mine
+Să mă păstrez curat și sfânt, s-ajung în cer cu Tine!

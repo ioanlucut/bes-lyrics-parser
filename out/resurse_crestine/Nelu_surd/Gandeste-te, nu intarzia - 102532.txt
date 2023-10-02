@@ -2,36 +2,34 @@
 Gandeste-te nu intarzia {composer: {Nelu Surd}, {rcId: {102532}}
 
 [sequence]
-v1,b,c,v2,c,v3,c,e
+v1,c,v2,c,v3,c,e
 
 [v1]
-/: Undeva un cerb căuta izvorul
-Undeva un împarat căuta poporul
-Undeva o oaie s-a pierdut
-Iar un tată își așteaptă fiul ce s-a dus :/
-
-[b]
-Undeva pe cruce te-ai răscumpărat
+/: Undeva, un cerb căuta izvorul.
+Undeva, un împărat căuta poporul.
+Undeva, o oaie s-a pierdut,
+Iar un tată își așteaptă fiul ce s-a dus. :/
+B: Undeva, pe cruce te-a răscumpărat
 Unicul Fiu de Dumnezeu ce din morți a înviat.
 
 [c]
-/: Și azi tu, prin El ești ce ești
-Și azi tu, trebuie să-i mulțumești
-Că prin jerfa Sa iertare ai avut
-Și nu mai ești un fiu pierdut :/
+/: Și azi tu, prin El ești ce ești,
+Și azi tu, trebuie să-I mulțumești
+Că prin jertfa Sa iertare ai avut
+Și nu mai ești un fiu pierdut. :/
 
 [v2]
-/: Undeva un copil vine pe lume
+/: Undeva, un copil vine pe lume
 Iar un bătrân, nu prea are cui îi spune
-Cum era în vremea bună a lui
-Undeva cade ploaia cerului :/
+Cum era în vremea bună a lui.
+Undeva, cade ploaia cerului :/
 
 [v3]
-/: Undeva un copil plânge de foame
-Iar un tânăr obosit de mult nu doarme
-Se tot gândește la tot ce va veni
+/: Undeva, un copil plânge de foame,
+Iar un tânăr obosit de mult nu doarme.
+Se tot gândește la tot ce va veni.
 Tu ești aicea, spre un undeva tu poți porni. :/
 
 [e]
-Să vorbești, să alini, să darâmi, și în urmă să ridici
+Să vorbești, să alini, să dărâmi, și în urmă să ridici,
 Să spui tuturor că viața nu se termină aici.

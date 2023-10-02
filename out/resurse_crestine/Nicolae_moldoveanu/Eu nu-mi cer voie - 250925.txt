@@ -1,0 +1,35 @@
+[title]
+Eu nu-mi cer voie {composer: {Nicolae Moldoveanu}, {rcId: {250925}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Eu nu-mi cer voie de la oameni,
+ca să Te-nalț pe Tine, scump Isus,
+/: ci-ascult a-Duhului îndemnuri, :/
+și-Ți cânt slăvitul nume neapus.
+
+[c]
+Îți cânt, Isus,
+Îți cânt din zori de zi până-n apus.
+Îți cânt Îți cânt,
+Isuse-Ți cânt acum și-n veci, ne-nfrânt.
+
+[v2]
+Eu mi-am ales cărarea crucii
+și nu mă tem, pe ea, de nici un rău,
+/: știu că-n lucrarea Ta cea sfântă :/
+Tu m-ai trimis să spun Cuvântul Tău.
+
+[v3]
+Eu, ca să tac, n-ascult de nimeni,
+când Tu îmi spui să cânt și să vorbesc
+/: de jertfa Ta, de-a Ta venire, :/
+de adevărul Tău dumnezeiesc.
+
+[v4]
+Eu nu-mi cer voie de la oameni,
+ca să Te-nalț pe Tine, scump Isus,
+/: ci-Ți cânt fierbinte și Te laud, :/
+și spun mereu cu foc ce-mi dai de spus.

@@ -1,0 +1,35 @@
+[title]
+Cuvinte ce imi sunt pline de farmec {composer: {Autor necunoscut}, {rcId: {249673}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cuvinte ce imi sunt pline de farmec
+In inima imi clocotesc
+Lucrarea mea de lauda este
+Pentru Imparatul el ceresc
+
+[c]
+Tu esti cel mai frumos dintre oameni
+Harul pe buze ti-a fost turnat
+Tu esti cel venit din vesnicie
+Caci Dumnezeu te-a binecuvantat
+
+[v2]
+Razboinic sfant si bun esti Tu in toate
+Biruitor e omul cel smerit
+El apara blandetea si dreptatea
+Neprihanirea celor mantuiti
+
+[v3]
+Atotputernic si viteaz in lupta
+Este-al nostru Domn minunat
+A Lui sageti ce sunt trase si-s multe
+Apara pe popor si Imparat
+
+[v4]
+Nimeni n-a iubit aici vreodata
+Cum Tu Doamne pe noi ne-ai iubit
+Iti vom canta viata noastra toata
+Si-Ti vom sluji pana la sfarsit.

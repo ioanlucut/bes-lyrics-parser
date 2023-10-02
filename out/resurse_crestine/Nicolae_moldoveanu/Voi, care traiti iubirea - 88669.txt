@@ -1,0 +1,41 @@
+[title]
+Voi care traiti iubirea {composer: {Nicolae Moldoveanu}, {rcId: {88669}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Voi, care trăiți iubirea
+în frumsețea ei curată
+De primejdia rătăcirii
+nu vă temeți niciodată!
+
+[c]
+În iubire, în iubire
+e-adevăr și liniștire;
+În iubire, în iubire,
+este-a vieții fericire.
+
+[v2]
+Voi, care-ați ajuns în focul
+sfânt și veșnic al iubirii,
+Nu vă temeți de ocara
+și rușinea-nvinuirii!
+
+[v3]
+Voi, care-ați simțit minunea
+dragostei din cer primită,
+Nu vă temeți de minciuna,
+înspre voi, de mulți, urzită.
+
+[v4]
+Căci pe culmile iubirii
+nu bat vânturi și nu-s bezne,
+Și nici curse care-apucă,
+veninos a voastre glezne!
+
+[v5]
+Ci-i lumina negrăită
+și eternă fericire,
+Și-i acolo Dumnezeul
+care-n veci este Iubire!

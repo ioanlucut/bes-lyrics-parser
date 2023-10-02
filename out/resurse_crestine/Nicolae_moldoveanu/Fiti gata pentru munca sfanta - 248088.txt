@@ -1,0 +1,29 @@
+[title]
+Fiti gata pentru munca sfanta {composer: {Nicolae Moldoveanu}, {rcId: {248088}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Fiți gata pentru munca sfântă,
+Fiți harnici în ogorul sfânt,
+/: Fiți gata pentru rugăciune,
+Și pentru-al bucuriei cânt. :/
+
+[v2]
+Căci moartea noastră-i biruită
+Prin învierea lui Isus,
+/: Izbânda noastră strălucită,
+Prin crucea Sa El ne-a adus. :/
+
+[v3]
+În fața noastră El e norul
+Și stâlpul cel ceresc de foc,
+/: Călătoriți aprinși de dorul
+Ajungerii-n doritul Loc. :/
+
+[v4]
+S-aveți deplină bucurie,
+Căci Domnul e mereu cu voi,
+/: Fiți gata pentru munca sfântă
+Răsplata-i strălucită-apoi. :/

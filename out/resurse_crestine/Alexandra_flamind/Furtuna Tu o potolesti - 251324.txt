@@ -1,0 +1,31 @@
+[title]
+Furtuna tu o potolesti {composer: {Alexandra Flămînd}, {rcId: {251324}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Furtuna se-ntețește și valul se ridică.
+Corabia se-afunda în valuri smumegande.
+Aud o voce sfântă, să nu îți fie frică
+Cu tine sunt în barcă n-o las să se scufunde
+
+[c]
+Furtuna Tu o potolești
+Inima Tu mi-o liniștești
+La glasul Tău Părinte
+Teama Tu o risipești
+În barcă cu mine ești
+Mulțumesc, Părinte!
+
+[v2]
+Pe valuri plutesc spre Țărmul iubirii
+Prin vânt Și furtună, chiar de-i primejdios
+La capăt m-asteapta în țara fericirii
+Acel ce-mi da viață, Domnul Isus Hristos
+
+[v3]
+Puțin mai vaslesc spre Domnul s-ajung
+Mai lupt prin durere, Isus e cu mine.
+La pieptul iubirii aș vrea să cad, să plâng.
+S-ajung lângă Domnul, la Cel ce mă ține!

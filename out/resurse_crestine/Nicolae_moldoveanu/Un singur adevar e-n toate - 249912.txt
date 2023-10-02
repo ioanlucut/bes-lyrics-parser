@@ -1,0 +1,45 @@
+[title]
+Un singur adevar e-n toate {composer: {Nicolae Moldoveanu}, {rcId: {249912}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+/: Un singur adevăr e-n toate, :/
+ce-n Cartea Ta, Părinte-ai spus
+e Mielul Cel ca jertfă-adus,
+/: e Fiul Tău iubit, ISUS! :/
+
+[c]
+Un singur Adevăr
+ne-ai coborât din cer.
+Tot ce-ai avut de spus,
+e Fiul Tău, ISUS!
+Prin El, desăvârșit,
+ni Te-ai descoperit
+ca Dumnezeu Slăvit
+și Tată Preaiubit!
+
+[v2]
+/: Un singur adevăr e-n toate :/
+în mântuirea ce ne-ai dat,
+în harul ce ne-ai înfiat,
+/: în cerul ce ne-ai așezat :/
+
+[v3]
+/: Un singur adevăr e-n toate :/
+în felul de-nchinare sfânt,
+în cei născuți prin Legământ,
+/: în mersul lor pe-acest pământ! :/
+
+[v4]
+/: Un singur adevăr e-n toate :/
+și despre Trupul lui Hristos,
+și despre lumea cea de jos,
+/: și despre raiul luminos! :/
+
+[v5]
+/: Un singur adevăr - nu două, :/
+e-n tot ce Dumnezeu a spus!
+Să-l ascultăm c-un duh supus,
+căci Adevărul e ISUS! :/

@@ -1,0 +1,58 @@
+[title]
+Vino am gasit pe domnul {composer: {Nicolae Moldoveanu}, {rcId: {249924}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c,v8,c
+
+[v1]
+Vino, am găsit pe Domnul,
+m-a chemat demult un frate,
+/: și-am venit. De-atunci în mine
+Simon Petru se tot zbate. :/
+
+[c]
+Doamne, Doamne,
+Doamne fie-Ți milă.
+
+[v2]
+Eu sunt Simon ce zadarnic
+pescui o noapte-ntreagă,
+/: fă-mă Petru care plasa
+plină-abia putea s-o tragă.. /
+
+[v3]
+Eu sunt Simon care cere
+foc din cer și represalii,
+/: fă-mă Petru care-aprinde
+mii de inimi la Rusalii. :/
+
+[v4]
+Și în noaptea arestării
+eu m-am bizuit pe spadă.
+/: fă-mă Petru sus pe munte
+Soare pe lsus să-L vadă. :/
+
+[v5]
+Și-n grădina Ghetsimani
+eu fu-i Simon somnorosul
+/: fă-mă Petru care strigă:
+”
+Tu, Isuse, ești Hristosul!” :/
+
+[v6]
+Eu sunt Simon ce furtuna,
+Chipul Tău din ochi i-L șterge
+/: fă-mă Petru, ce pe valuri,
+Ia porunca Ta s-alerge! :/
+
+[v7]
+Eu în fața unei slujnici
+Te-am trădat cu jurăminte,
+/: fă-mă Petru, ce la cântec
+de cocoș, a plâns fierbinte. :/
+
+[v8]
+Zidul care ne desparte,
+Doamne, fă-I să se dărâme
+/: și zidirea Ta nici poarta
+iadului, să n-o dărâme. :/

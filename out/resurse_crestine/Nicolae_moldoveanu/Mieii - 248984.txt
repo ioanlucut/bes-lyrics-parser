@@ -1,0 +1,16 @@
+[title]
+Mieii {composer: {Nicolae Moldoveanu}, {rcId: {248984}}
+
+[sequence]
+v1,v2
+
+[v1]
+Mieii cei din Betleem se uitau cu chip stingher.
+/: Ei vedeau un pui de om, :/
+/: nu vedeau un prunc din cer. :/
+
+[v2]
+Dar eu știu că Puiul mic
+era Pruncul Dumnezeu.
+/: Eu știu tot ce-a fost atunci, :/
+/: căci mi-a spus tăticul meu. :/

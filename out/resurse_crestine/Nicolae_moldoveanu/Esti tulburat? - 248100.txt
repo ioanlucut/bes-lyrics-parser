@@ -1,0 +1,35 @@
+[title]
+Esti tulburat? {composer: {Nicolae Moldoveanu}, {rcId: {248100}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Ești tulburat și tremuri
+Și groaza te-a cuprins?
+/: O singură pricină-i:
+/: Păcatul te-a învins. :/
+
+[v2]
+Ți-e cerul vieții negru
+Și sufletu-apăsat?
+/: O singură pricină-i:
+/: Păcatul te-a-ntinat. :/
+
+[v3]
+Nu-ți mai găsești plăcerea
+În lucrurile de sus?
+/: O singură pricină-i:
+/: Păcatul te-a răpus. :/
+
+[v4]
+Păcatu-i rădăcina
+Oricărei negre stări,
+/: El te târăște pururi
+/: Pe-a morții reci cărări. :/
+
+[v5]
+Ridică-ți ochii frate,
+Cât timp mai este har,
+/: Isus Mântuitorul
+/: Te izbăvește iar. :/

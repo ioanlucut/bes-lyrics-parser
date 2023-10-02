@@ -1,0 +1,37 @@
+[title]
+Miel prea bland {composer: {Nicolae Moldoveanu}, {rcId: {250179}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Miel prea blând ce vii în lume
+din a Ta mărire,
+/: Tu Te-ai pogorât. Isuse, :/
+/: pentru omenire. :/
+Ai lăsat a-Tale ceruri,
+pentru omenire.
+
+[v2]
+Miel prea blând, trimis de Tatăl.
+din a Sa iubire,
+/: orișicine crede-n Tine. :/
+/: află mântuire :/
+Numai cine crede-n Tine,
+află mântuire.
+
+[v3]
+Miel prea blând, fără de pată,
+Mare de iubire,
+/: Fața Ta cea luminată :/
+/: Umple-ntreaga fire. :/
+Numai Fața-Ți luminată
+umple-ntreaga fire.
+
+[v4]
+Miel prea blând ce-ai stat ca jertfă,
+pentru ispășire,
+/: Îți aducem veșnic slavă :/
+/: veșnic mulțumire :/
+Inimile noastre-Ți cântă
+veșnic mulțumire!

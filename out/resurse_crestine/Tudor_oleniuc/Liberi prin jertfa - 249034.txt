@@ -1,0 +1,31 @@
+[title]
+Liberi prin jertfa {composer: {Tudor Oleniuc}, {rcId: {249034}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+El ne-a iubit când noi rătăceam
+Și s-a jertfit pe cruce la Calvar
+Cu Dumnezeu El ne-a împăcat
+Azi trăim prin al Său har
+
+[c]
+Glorie, slavă și mărire
+Mulțumiri fie aduse Domnului Isus
+Glorie, slavă și mărire
+Mulțumiri fie aduse Domnului
+Glorie, slavă și mărire
+Mulțumiri fie aduse Domnului Isus
+Glorie, slavă și mărire
+Mulțumiri fie aduse Domnului
+
+[v2]
+Liberi suntem prin jertfa Lui
+Mâini ridicăm și-L glorificăm
+Vrem să-L urmăm pe El, Prințul Cerului
+Și în veci de veci să îi cântăm
+
+[e]
+Aleluia, Aleluia, Aleluia, Aleluia, Amin!
+Aleluia, Aleluia, Aleluia, Amin!

@@ -1,0 +1,35 @@
+[title]
+Pe unde-ai fost prin lumea noastra {composer: {Nicolae Moldoveanu}, {rcId: {249031}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Pe unde-ai fost prin lumea noastră,
+Isuse vreau să fiu și eu,
+/: și-n ieslea rece și săracă
+și sus pe cruce-n chinul greu. :/
+
+[v2]
+Căci locul unde pașii-Ți calcă
+e-al harului adânc izvor,
+/: chiar valea morții se preface
+în rai de viață dătător. :/
+
+[v3]
+Prezența Ta preschimbă totul
+și-mbracă totu-n strai de cer,
+/: pier toate umbrele vrăjmașe,
+și toate temerile pier. :/
+
+[v4]
+Cu Tine vreau să fiu, cu Tine,
+și-n locul cel mai dedesubt,
+/: căci Tu-mi ești culmea cea mai ’naltă
+și Tu-mi dai sfânt curaj să Iupt. :/
+
+[v5]
+Mai bună-i ”bezna” lângă Tine
+decât ”lumina” celui rău,
+/: - ce dulce-i liniștea și pacea
+când stau culcat pe pieptul Tău. :/

@@ -1,0 +1,28 @@
+[title]
+A venit a venit cum a fost fagaduit {composer: {Gabriel Gorcea}, {rcId: {249442}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+A venit, a venit cum a fost făgăduit,
+Într-o iesle s-a născut
+Cel ce n-are nici sfârșit, nici început.
+
+[v2]
+S-a născut, s-a născut Dumnezeul absolut,
+Emanuel, Hristos Mesia,
+S-a născut prin fecioara Maria.
+
+[v3]
+Vestea bună, vestea bună și astăzi mai răsună,
+S-a născut un Împărat,
+Numele Lui fie-n veci glorificat!
+
+[v4]
+S-a născut, s-a născut
+Dumnezeu prin Duhul Sfânt,
+La ieslea Lui am venit,
+Inima lui Isus I-am dăruit,
+Viața noastră I-am predat
+Și Isus mântuire-n dar ne-a dat.

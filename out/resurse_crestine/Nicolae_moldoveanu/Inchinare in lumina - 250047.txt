@@ -1,0 +1,33 @@
+[title]
+Inchinare in lumina {composer: {Nicolae Moldoveanu}, {rcId: {250047}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Închinare în lumină
+și-n iubire noi Îți dăm.
+/: Dumnezeul nostru veșnic,
+veșnic laudă-Ți cântăm! :/
+
+[c]
+Te lăudăm, Te lăudăm,
+Te lăudăm, Preamărit Dumnezeu.
+
+[v2]
+Prin lumina Ta, lumină
+noi vedem neîncetat,
+/: Dumnezeul nostru veșnic.
+Îți cântăm: fii lăudat :/
+
+[v3]
+Bogățiile luminii,
+prin Isus ni le-ai sădit,
+/: Dumnezeul nostru veșnic,
+fii slăvit, în veci slăvit! :/
+
+[v4]
+Închinare în lumină
+mai fierbinte vrem să-Ți dăm.
+/: Dumnezeul nostru veșnic,
+azi și-n veci, Te lăudām! :/

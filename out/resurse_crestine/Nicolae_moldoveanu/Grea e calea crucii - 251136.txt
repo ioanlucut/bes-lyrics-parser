@@ -1,0 +1,35 @@
+[title]
+Grea e calea crucii {composer: {Nicolae Moldoveanu}, {rcId: {251136}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Grea e calea crucii,
+dar ea duce-n sus,
+înaintea noastră
+a pășit Isus.
+Nici un har nu vine
+peste noi, nicicând,
+/: fără sfântul drum al crucii,
+fără jugu-i blând. :/
+
+[v2]
+Greu e focul luptei,
+dar așa e-acum,
+harul biruinței
+e prin jar și scrum.
+Nu-i nici o cunună
+fără luptă grea,
+/: e o lege care veșnic
+nu se va schimba. :/
+
+[v3]
+Grea e munca noastră
+pe ogorul sfânt,
+căci ascunse-n cale
+mii de pietre sunt.
+Dar ce bucurie
+vom avea curând,
+/: când vom strânge rodul dulce
+cu Isus, cântând! :/

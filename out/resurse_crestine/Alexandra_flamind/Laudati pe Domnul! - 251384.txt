@@ -1,0 +1,35 @@
+[title]
+Laudati pe domnul {composer: {Alexandra Flămînd}, {rcId: {251384}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Lăudați pe Domnul ne-ncetat
+Lăudați pe Cel ce ne-a creat
+Dumnezeu să fie preamărit
+El e Stânca ce ne-a mântuit
+
+[c]
+E dragoste și har, e mântuire
+Dumnezeu sfântă neprihănire
+E pace-n belșug și-n strâmtorare
+Dumnezeu e stânca de ancorare
+
+[v2]
+Lăudați pe Domnul, voi cei iubiți
+Ce-n sângele Lui sunteți sfințiți
+Isus în veci să fie mereu slăvit
+Pe pământ și-n cer proslăvit
+
+[v3]
+Lăudați pe Domnul copiii Lui
+Care stați în Casa Domnului
+Binecuvântat să fie-n veci Isus
+Aici pe pământ și-n ceruri sus
+
+[v4]
+Lăudați pe Domnul din veșnicii
+Cântați-I slavă până va veni
+Când pe nori Isus va apărea
+Își va duce-acasa mireasa Sa

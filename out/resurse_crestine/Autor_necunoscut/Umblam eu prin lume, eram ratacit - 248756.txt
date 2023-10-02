@@ -1,0 +1,29 @@
+[title]
+Umblam eu prin lume eram ratacit {composer: {Autor necunoscut}, {rcId: {248756}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Umblam eu prin lume, eram eu rătăcit
+Nici-o speranță, nu aveam...
+Dar într-o zi, Isus m-a mântuit
+Mi-a dat în dar iertarea Sa.
+
+[c]
+/: Doar in Hristos, doar in Hristos
+In El am fost născut din nou
+M-a mântuit, doar El m-a fericit
+Sunt in Hristos născut din nou :/
+
+[v2]
+Vreau să te-ntreb, ce faci cu viața ta?
+Vrei sa rătăcești pe acest pământ?
+Nu amâna de-i vrea in slava Sa
+Fă azi cu El, un legământ.
+
+[v3]
+Știu că-ntr-o zi, voi fi cu Domnul meu
+Și pe străzi de aur voi umbla,
+Voi părăsi, curând acest pământ
+Cu El la masă voi cina.

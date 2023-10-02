@@ -1,0 +1,35 @@
+[title]
+De ce n-ai multumire ? {composer: {Nicolae Moldoveanu}, {rcId: {248102}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+De ce n-ai mulțumire
+În inimă nicicând?
+- Fiindcă mulțumirea
+O dobândeșiti iertând.
+De ce n-ai bucurie
+De tot ce-ai strâns trăind?
+- Fiindcă bucuria
+O afli dăruind.
+
+[v2]
+De ce n-ai fericire
+În suflet, ci venin?
+- Fiindcă de Cuvântul
+Vieții ești străin.
+De ce tânjește-n tine
+Mereu ceva ascuns?
+- Fiindcă la chemarea
+Căinței n-ai răspuns.
+
+[v3]
+Și n-o să ai odihnă,
+Ci zbucium dureros,
+Căci pacea și odihna
+Sunt numai în Hristos.
+Atunci doar vei cunoaște
+Al vieții har divin,
+Hristos va fi în tine
+Și tu-n Hristos deplin.

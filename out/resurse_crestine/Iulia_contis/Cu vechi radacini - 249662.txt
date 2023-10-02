@@ -1,0 +1,21 @@
+[title]
+Cu vechi radacini {composer: {Iulia Contis}, {rcId: {249662}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Cu vechi rădăcini înfipte-n pământ,
+Copacul își pleacă și frunzele-n vânt...
+E golul acela, ce mult l-a durut,
+Înfipt mai adânc în propriul trecut.
+
+[c]
+Doar Tu mântuiești, când cobori pe pământ,
+Și omul, și timpul, și pomul, și... vânt!
+
+[v2]
+Copacul, spre cer, nu poate urca...
+O clipă prin vremuri corola-i va sta,
+Dar strigă spre Tine și vântul plângând...
+Sufla-va în timp, mereu așteptând...

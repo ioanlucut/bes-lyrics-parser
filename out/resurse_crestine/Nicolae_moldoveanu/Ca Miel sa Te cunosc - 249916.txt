@@ -1,0 +1,39 @@
+[title]
+Ca miel sa te cunosc {composer: {Nicolae Moldoveanu}, {rcId: {249916}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Ca Miel să Te cunosc, Isuse-ntâi,
+și-apoi ca Împărat și Mire.
+/: În mine intri - și pe veci rămâi -
+prin jertfa Ta de ispășire! :/
+
+[c]
+Te laud, Te laud, Te laud,
+Isuse, Miel Dumnezeiesc!
+
+[v2]
+Ca Miel ai Cartea vieții-n care scrii
+pe toți cei care, prin credință,
+/: i-ai strămutat în lumea celor vii
+și-n Trupul Tău sunt de-o ființă! :/
+
+[v3]
+Ca Miel faci nunta cea fără sfârșit,
+prin jertfă Ți-ai ales Mireasă
+/: și ești Biruitor desăvârșit,
+zidind a unității Casă. :/
+
+[v4]
+Ca Miel, lumină veșnic Tu vei fi
+În preaiubita Ta Cetate,
+/: prin jertfă mai frumos vei străluci
+cu Tatăl în Eternitate. :/
+
+[v5]
+Ajută-mă să Te înalț și-acum
+întâi ca Miel și-apoi ca Mire,
+/: prin jertfa Ta s-arăt al vieții drum,
+La toți - și-Ți cânt cu foc mărire! :/

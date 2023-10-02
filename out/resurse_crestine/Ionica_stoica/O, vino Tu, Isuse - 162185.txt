@@ -1,0 +1,41 @@
+[title]
+O vino tu isuse {composer: {Ionică Stoica}, {rcId: {162185}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c2
+
+[v1]
+Isuse de pe-acest pământ
+Ce e plin de ispite
+Eu rugăciunea mi-o îndrept
+Isuse către Tine.
+
+[c]
+/: O, vino Tu, Isuse
+Din nou ridică-mi starea
+Și mă îmbracă-n Duhul Sfânt
+Ca să-ți urmez cărarea. :/
+
+[v2]
+Nu-ncap de cei ce te-au scuiptat,
+În viața mea trudită,
+Să-nvăț, să rabd ca să înving
+Să scap de-a ei ispită.
+
+[v3]
+Furtuni și valuri tot mai mari
+Lovesc în a mea barcă
+Se năpustesc asupra mea
+Credința mi-o încearcă.
+
+[v4]
+Apari Isuse minunat,
+Din nou în a mea barcă
+Ca să Te simt ca la ’nceput
+Cântându-ți Osanale.
+
+[c2]
+O, vino azi, Isuse
+Și stai la cârma vieții
+Luceafăr sfânt și mult dorit
+Din zorii dimineții.

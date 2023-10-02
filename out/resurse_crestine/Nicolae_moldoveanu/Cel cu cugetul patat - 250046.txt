@@ -1,0 +1,41 @@
+[title]
+Cel cu cugetul patat {composer: {Nicolae Moldoveanu}, {rcId: {250046}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Cel cu cugetul pătat,
+fuge de-Adevăr cât poate.
+Nu se lasă țesălat
+calul cel cu răni pe spate.
+
+[c]
+Numai Adevărul
+dăruiește viață.
+/: Să-L asculți oriunde
+tot ce te învață! :/
+
+[v2]
+Lasă-te-ndreptat de El,
+de-ți vorbește Adevărul.
+Binele de orice fel,
+El ți-l dă-și-ți dă și cerul.
+
+[v3]
+Adevărul e Hristos,
+e Cuvântul Lui cel tare.
+De-L primești, tu ne-ndoios
+ai în cerul Său intrare.
+
+[v4]
+Nicăieri nu vei găsi,
+fără Adevăr, odihnă.
+El îți poate dărui
+o netulburată tihnă.
+
+[v5]
+Fie binecuvântat,
+Adevărul fără moarte!
+El, Hristosul întrupat,
+vrea din El să fii o parte.

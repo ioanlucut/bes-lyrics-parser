@@ -1,0 +1,45 @@
+[title]
+Tot ce din tatal sfant se naste {composer: {Nicolae Moldoveanu}, {rcId: {249964}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Tot ce din Tatăl Sfânt se naște,
+e viu și luminos și sfânt,
+/: sfințind și înmulțind viața
+ce din Hristos e pe pământ. :/
+Din Tatăl Sfânt, din Dumnezeu,
+belșug de har primim mereu.
+
+[v2]
+Tot ce-i din Duhul Sfânt putere,
+și bucurie și fior,
+/: ne este, prin Hristos, iubire
+și părtășie tuturor. :/
+Din Duhul Sfânt, din Dumnezeu,
+belșug de har primim mereu.
+
+[v3]
+Tot ce din Adevărul veșnic
+ne e lumină și dreptar,
+/: e limpede și drept și dulce
+cum e Hristos frumos și clar. :/
+Din Adevăr, din Dumnezeu,
+belșug de har primim mereu.
+
+[v4]
+Tot ce din Dragostea cerească
+răsare și rodește-n noi,
+/: cu fericită rugăciune
+spre El ne-ntoarce înapoi. :/
+Din Dragoste, din Dumnezeu
+belșug de har primim mereu
+
+[v5]
+Căci tot ce de la El ne vine
+curat și sfânt și luminos,
+/: cu-a noastre inimi împreună
+în veci se ’nalță spre Hristos. :/
+Din Fiul Său, spre Dumnezeu
+belșug de har primim mereu.

@@ -1,0 +1,40 @@
+[title]
+Tu nu mi-ai dat {composer: {Nicolae Moldoveanu}, {rcId: {249796}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Tu nu Mi-ai dat, Simone, sărutare,
+pe tâmple mir nu Mi-ai pus,
+/: în casa ta am intrat ca oricare,
+/: un gând frumos nu Mi-ai spus. :/
+Simone, Simone, Simone.
+
+[v2]
+Tu nu Mi-ai dat, Simone, sărutare,
+la pieptul Meu n-ai căzut,
+/: tu n-ai știut clipa de căutare,
+/: și cât erai de pierdut. :/
+Simone, Simone, Simone.
+
+[v3]
+Tu n-ai văzut tălpile-Mi ostenite
+de-atâta drum cât au mers,
+n-ai picurat lacrimile smerite,
+cu părul tău nu le-ai șters.
+Simone, Simone, Simone.
+
+[v4]
+Aș vrea să-ți pun, Simone, o-ntrebare:
+Tu ce-ai mai scump pe pământ?
+/: O, cum Mi-ai da, dragul Meu sărutare,
+/: de-ai ști acum cine sunt! :/
+Simone, Simone, Simone.
+
+[v5]
+Tu, cel umil, care-Mi plângi Ia picioare,
+cu suflet ars de văpăi,
+/: în casa Mea îți voi da sărutare
+/: cu ochii plânși ca ai tăi. :/
+Simone, Simone, Simone.

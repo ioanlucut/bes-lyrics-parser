@@ -1,0 +1,41 @@
+[title]
+Adevarul cand il ai {composer: {Nicolae Moldoveanu}, {rcId: {248518}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Adevărul când îl ai,
+Se cunoaște-n ochi și-n grai
+Că-s privirile senine,
+Fără tremur, nici rușine.
+
+[c]
+Adevărul când îl știi,
+Drept te duci și drept revii,
+Nu ți-s căile sucite,
+/: Ci-s curate și sfințite. :/
+
+[v2]
+Adevărul când trăiești,
+Strălucești oriunde ești,
+Chiar de-ai fi-aruncat și-n tină
+Viața ta va fi lumină.
+
+[c2]
+Adevărul când îl spui,
+N-avea frica nimănui;
+Orișicine-ar fi să-l știe,
+/: Apără-l cu vrednicie. :/
+
+[v3]
+Adevărul când ’l-înalți,
+Fii lumină celorlalți,
+Căci oricine-ai fi, oriunde,
+Adevărul nu te-ascunde.
+
+[c3]
+Adevărul când iubești,
+Asculta-l-vei până ești;
+Cât îl vei urma într-una,
+/: EI ți-e crucea, El cununa. :/

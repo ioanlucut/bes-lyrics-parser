@@ -1,0 +1,43 @@
+[title]
+El este viu fiul lui dumnezeu {composer: {Damaris Cauneac}, {rcId: {249731}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+Mult timp a trecut, iar vestea s-a dus
+În Ierusalim a murit Isus.
+La moarte condamnat, pe lemn crucificat,
+Mesia așteptat, a fost morții dat.
+Cu toți trăgeau nădejde că El va învia,
+Că El este Mesia ce moartea va surpa
+Dar iată fără veste, El s-a îndepărtat
+Mesia a-nviat, e viu cu-adevărat!
+
+[c]
+El este viu, Fiul lui Dumnezeu
+Încoronat pe tron e așezat,
+Fiul lui Dumnezeu a rupt jugul greu
+Căci prin moartea Sa, a-nvins, Aleluia!
+/: El este viu, Fiul lui Dumnezeu
+Încoronat pe tron e așezat,
+Fiul lui Dumnezeu a rupt jugul greu
+Căci prin moartea Sa, a-nvins, Aleluia!
+A-nvins, Aleluia!
+A-nvins, Aleluia! :/
+
+[v2]
+În zori L-au căutat, crezând că L-au luat
+Ostașii ce de pază la mormânt au stat.
+Timpul a trecut și nu L-au mai văzut
+Căci Fiul Celui Sfânt a fost înălțat.
+Cu toți trăgeau nădejde că El va învia,
+Că El este Mesia ce moartea va surpa
+Dar iată fără veste, El s-a îndepărtat
+Mesia a-nviat, e viu cu-adevărat!
+
+[b]
+De ce căutați pe Isus printre morți?
+El nu e aici, căci a înviat.
+Așa v-a spus când la cruce S-a dus
+S-a împlinit ce Scriptura a prevestit!

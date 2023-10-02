@@ -1,0 +1,45 @@
+[title]
+Staruiti {composer: {Nicolae Moldoveanu}, {rcId: {250068}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Stăruiți până la capăt
+în iubire și-n credință.
+/: Au comoara mântuirii
+doar cei tari în stăruință. :/
+
+[c]
+Stăruiți, stăruiți,
+pân-la capăt stăruiți
+
+[v2]
+Stăruiți în orice vreme.
+Focu-acesta să vă ardă.
+/: Cei ce stăruiesc în bine,
+harul vieții n-o să-l piardă. :/
+
+[v3]
+Stăruiți în alergare
+cu voință mai fierbinte.
+/: Gheața morții nu se prinde
+de cei ce zoresc ’nainte. :/
+
+[v4]
+Stăruiți în rugăciune,
+și-n veghere și-n lucrare
+/: Unde nu e stăruință
+nu-i nici binecuvântare. :/
+
+[v5]
+Stăruiți în lupta sfântă,
+căci nu-i greu, nici bătălie
+/: peste care să nu treacă
+cei cu stăruință vie. :/
+
+[v6]
+Domnul vă îndeamnă astăzi:
+stăruiți în stăruință.
+/: Toate harurile vieții
+doar așa sunt cu putință. :/

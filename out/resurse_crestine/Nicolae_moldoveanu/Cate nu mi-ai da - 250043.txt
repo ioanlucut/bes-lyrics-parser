@@ -1,0 +1,29 @@
+[title]
+Cate nu mi-ai da {composer: {Nicolae Moldoveanu}, {rcId: {250043}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Câte nu mi-ai da, de Te-aș asculta!
+Mi-ai da să-nțeleg adevăru-ntreg;
+mi-ai turna în piept, tot ce-i sfânt și drept.
+/: - Doamne, harul mult mi-l dai când Te-ascult! :/
+
+[v2]
+Câte n-as primi, dacă Te-aș iubi,
+ascultând deplin glasul Tău divin,
+ascultând mai sfânt viul Tău Cuvânt!
+/: - Doamne, harul mult mi-l dai când Te-ascult! :/
+
+[v3]
+Câte mi-ai promis, prin Cuvântul scris,
+dac-aș asculta toată voia Ta,
+dacă mi-aș sfinți, mersul zi de zi!
+/: - Doamne, harul mult mi-l dai când Te-ascult! :/
+
+[v4]
+Numai Tu prin har Doamne, iar și iar
+poți să mă-ntărești, râvna să mi-o crești,
+ca să pot mai mult voia să-Ți ascult,
+/: și c-un nou avânt slava Ta s-o cânt! :/

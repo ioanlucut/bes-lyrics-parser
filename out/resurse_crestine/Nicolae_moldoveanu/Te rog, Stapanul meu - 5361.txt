@@ -1,0 +1,41 @@
+[title]
+Te rog stapanul meu {composer: {Nicolae Moldoveanu}, {rcId: {5361}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Te rog, Stăpânul meu Preabun,
+Prin Duhul să mă-nțelepțești
+/: Să nu zidesc ce Tu dărâmi,
+Să nu dărâm ce Tu zidesti. :/
+
+[v2]
+În orice timp si-n orice loc
+Lumina fie-mi căpătâi -
+/: Să nu rămân când Tu Te duci,
+Să nu mă duc când Tu rămâi. :/
+
+[v3]
+Prin lumea veacului de-acum,
+Cu adevărul să mă-ncingi,
+/: Să nu resping ce Tu primești,
+Să nu primesc ce Tu respingi. :/
+
+[v4]
+Din plasa harului ceresc
+S-aleg și eu cum Tu alegi:
+/: Să nu culeg ce Tu arunci,
+Să nu arunc ce Tu culegi. :/
+
+[v5]
+Să-mi dai iubirea-n adevăr
+Să Te cunosc mai mult cum ești;
+/: Să nu iubesc ce Tu urăști,
+Să nu urăsc ce Tu iubești. :/
+
+[v6]
+Să-mi potrivești viața mea
+Cu voia Ta în totul tot,
+/: Ca a greși-n Lucrarea Ta
+Nicicând, nicicând să nu mai pot. :/

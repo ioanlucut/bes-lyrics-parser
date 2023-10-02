@@ -1,0 +1,43 @@
+[title]
+Domnul nostru vine {composer: {Nicolae Moldoveanu}, {rcId: {6484}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Domnul nostru vine!
+Vine, auziți?
+Ca să ia la Sine
+Pe cei pregătiți!
+
+[c]
+/: Să ne pregătim :/
+Toți în ascultare
+Și-mbrăcați în alb,
+Gata să ieșim
+În întâmpinare,
+În întâmpinare.
+
+[v2]
+Domnul nostru vine!
+Vine, ascultați?
+Cei ce-ascultă bine
+Toți vor fi luați.
+
+[v3]
+Domnul nostru vine,
+Timpul e sosit!
+Slăvile senine
+Ni s-au pregătit.
+
+[v4]
+Domnul nostru vine!
+Vine în curând
+Candelele pline
+Să le-avem arzând!
+
+[v5]
+Domnul nostru vine!
+Toți să-L așteptăm
+Și cum se cuvine
+Să-L întâmpinăm!

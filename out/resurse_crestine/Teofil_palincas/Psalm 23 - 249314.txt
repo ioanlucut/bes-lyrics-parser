@@ -1,0 +1,35 @@
+[title]
+Psalm {composer: {Teofil Palincas}, {rcId: {249314}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Domnul meu, Păstorul meu,
+Lângă Tine nu duc lipsă de nimic.
+Mă conduci în pășuni verzi
+Și la ape de odihnă călăuzești sufletul meu.
+Mă călăuzești pe calea Ta,
+Pentru Numele Tău, pentru Numele Tău.
+Toiagul Tău, nuiaua Ta
+Mă mângâie mereu fiindcă vrei să fiu al Tău.
+
+[c]
+/: Și chiar de-ar fi să trec prin valea umbrei morții,
+Nu mă tem de niciun rău, ești cu mine mereu. :/
+
+[v2]
+Tu mă ungi cu untdelemn
+Și paharul meu e plin de dă peste el.
+Doar Tu-mi întinzi masa mea
+În fața celor ce sunt împotriva mea.
+
+[e]
+Oh, da, fericirea și-ndurarea
+Mă vor însoți toate zilele mele.
+Oh, da, în casa Ta voi locui
+Pân’ la sfârșitul zilelor,
+Pân’ la sfârșitul zilelor mele.
+Oh, da, în casa Ta voi locui
+Pân’ la sfârșitul zilelor,
+Pân’ la sfârșitul zilelor.

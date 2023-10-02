@@ -1,0 +1,31 @@
+[title]
+Eu n-am stiut iubi putin {composer: {Nicolae Moldoveanu}, {rcId: {250846}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Eu n-am știut iubi puțin,
+am dat iubirea toată,
+de-aceea-s printre-ai mei străin
+și-am calea-nsingurată.
+Și n-am știut tăcea mereu,
+lăsând pe alții-afară,
+de-aceea prețul mi-a fost greu
+și lacrima amară.
+
+[v2]
+Și n-am știut jertfi puțin,
+când văd ce mult se cere,
+de-aceea celor care vin
+le las doar o tăcere.
+Și n-am știut să-mpart zgârcit
+ci-am dat din plin din toate,
+iar unde-ar fi mai trebuit
+n-am mai avut ce scoate.
+
+[v3]
+/: De-aceea celor mai ai mei
+le las numai un nume,
+căci banii cei de aur grei
+i-am împărțit la lume. :/

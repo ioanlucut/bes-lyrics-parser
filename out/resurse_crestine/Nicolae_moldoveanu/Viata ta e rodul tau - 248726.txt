@@ -1,0 +1,29 @@
+[title]
+Viata ta e rodul tau {composer: {Nicolae Moldoveanu}, {rcId: {248726}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Viața ta e rodul tău,
+Cât poți și cât faci bine,
+Și cât oprești a nu fi rău,
+Atâta e din tine.
+
+[c]
+/: Viața ta-i vestirea ta,
+Cât poți vorbi ce-i bine,
+Și cât cel rău îl poți tăcea,
+Atât va fi din tine. :/
+
+[v2]
+Viața ta a fost atât,
+Cât ai iubit ce-i bine,
+Și cât ce-i rău ți-a fost urât,
+Atât a fost din tine.
+
+[v3]
+Viața ta-i răsplata ta,
+Cât vei ’nălța ce-i bine,
+Și cât ce-i rău poți alunga,
+Atât va fi din tine.

@@ -2,7 +2,7 @@
 Nascut din nou (born again) {composer: {Andrew Culverwell, Traducere RO}, {rcId: {90395}}
 
 [sequence]
-v1,c,v2,c,s,c
+v1,c,v2,c
 
 [v1]
 De vei crede fără sens ce am să-ți spun
@@ -21,7 +21,3 @@ La Isus veni fruntașul Nicodim
 Plin de teamă, în noapte, zicând:
 Doamne, știu, Tu vii din cer, ești Dumnezeu
 Vreau să-nțeleg Cuvântul Tău!
-
-[s]
-Nu te mira că ți-am zis: ”
-Trebuie să vă nașteți din nou!” Ioan 3:7

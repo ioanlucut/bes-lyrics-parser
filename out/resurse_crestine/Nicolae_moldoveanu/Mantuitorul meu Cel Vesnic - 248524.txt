@@ -1,0 +1,29 @@
+[title]
+Mantuitorul meu cel vesnic {composer: {Nicolae Moldoveanu}, {rcId: {248524}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Mântuitorul meu Cel Veșnic,
+Da-mi Tu, din Tine-un gând frumos,
+/: Să-Ți laud minunatul Nume,
+Mai umilit, mai credincios. :/
+
+[v2]
+Dă-mi din comoara vieții Tale,
+Mai dulci, mai sfinte melodii,
+/: Să-Ți preamăresc Ființa sfântă
+și azi, și mâini și-n veșnicii. :/
+
+[v3]
+Din inima Ta sfântă umple-mi
+Adâncul sufletului meu,
+/: Cu dragoste mai înfocată,
+Și-așa să-Ți pot sluji mereu. :/
+
+[v4]
+Dă-mi din lumina Ta eternă,
+Lumină-n trup și-n duh deplin,
+/: Ca să Te ’nalț mai sus, mai mare,
+Pe Tine-n orice loc amin! :/

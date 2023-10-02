@@ -1,0 +1,41 @@
+[title]
+Binecuvantam pe domnul {composer: {Nicolae Moldoveanu}, {rcId: {248666}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Binecuvântăm pe Domnul,
+Noi, toți fii Săi primiți
+în lăcașurile păcii.
+- Slavă să-I cântăm, smeriți.
+
+[c]
+Binecuvântăm pe Domnul,
+Pentru prețul Său plătit,
+Ce ne-a mântuit din mâna
+Veacului nelegiuit.
+
+[v2]
+Binecuvântăm pe Domnul,
+Ce ne poartă necurmat
+Cu iubire-n car de flăcări
+Spre Limanul minunat.
+
+[c2]
+Binecuvântăm pe Domnul
+Veșnicul Izvor de har,
+Ce ne trece cu izbândă
+Prin al luptei greu calvar.
+
+[v3]
+Binecuvântăm pe Domnul
+Pentru-a Sale bogății,
+Ce și le revarsă-ntruna
+Peste noi, ai Săi copii.
+
+[c3]
+Binecuvântăm pe Domnul,
+Toată slava Lui i-o dăm.
+EI plăcere-n noi găsește,
+Când Îl binecuvântăm.

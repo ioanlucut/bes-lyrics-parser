@@ -1,0 +1,34 @@
+[title]
+Isus privi din nou in sus {composer: {Anonim}, {rcId: {248461}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Isus privi din nou în sus smerit, și-n rugăciune,
+Se aplecă din nou supus și Tatălui Îi spuse:
+„
+Părinte, ceasul a sosit să vin din nou la Tine,
+Dar pentru cei ce M-au primit Mă rog acum fierbinte.
+
+[c]
+Fă-i Tată, așa cum Noi suntem
+În Duh să fie una
+O, Doamne, ține-i tot mereu
+Uniți întotdeauna
+Fă-i Tată, așa cum Noi suntem
+În Duh să fie una
+/: O, Doamne, ține-i tot mereu
+Uniți întotdeauna! :/ ”
+
+[v2]
+Privește spre-ai Mei ucenici. Vrășmașul e în lume
+Se va lupa a-i amăgi să-i despartă de Tine
+Păstrează-i Doamne, ’n veci uniți, spre ei întinde-Ți mâna,
+De Tin’ să fie ocrotiți acum și-ntotdeauna.
+
+[e]
+Căci Eu acum la Tine vin
+Și vreau ca-n cer cu Mine
+Să-i duc pe cei care rămân
+Statornici lângă Tine!

@@ -1,0 +1,33 @@
+[title]
+Daca esti al lui hristos {composer: {Nicolae Moldoveanu}, {rcId: {251557}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+/: Dacă ești al lui Hristos, :/
+nu te lepezi la-ncercare,
+ci-ți păstrezi credința tare,
+pân-la moarte - ascultătoare,
+/: ca și Domnul tău, Hristos :/ x3
+
+[v2]
+/: Dacă ești al lui Isus, :/
+tu răspunzi la rău bine,
+și primești cu drag pe-oricine,
+și te lași jertfit pe tine,
+/: ca și Domnul tău, Isus :/ x3
+
+[v3]
+/: Dacă umbli cu Hristos, :/
+viața ta-i strălucitoare,
+supărarea-i iertătoare,
+rugăciunea-ncrezătoare,
+/: cum au fost a-lui Hristos :/ x3
+
+[v4]
+/: Dacă ești al lui Isus, :/
+suferința ta-i senină,
+dăruirea ta-i deplină
+și-nvierea ta-i divină,
+/: cum au fost a-lui Isus :/ x3

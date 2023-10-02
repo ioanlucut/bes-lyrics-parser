@@ -1,0 +1,48 @@
+[title]
+Mangaierea {composer: {Naomi State}, {rcId: {248922}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Numai El îți poate da
+Viața și credința-n dar
+Vin’ la El, o, suflete ce plângi cu-amar
+Vei vedea că vei primi
+Mângâiere, nici nu știi
+Pace sfântă El îți dă de vei veni
+
+[c]
+/: El e-un loc de adăpost
+El vieții tale dă un rost
+Chiar furtuni de vor veni
+El tot cu tin’ atunci va fi :/
+
+[v2]
+Când cei din jur m-au părăsit
+Și când săgeți m-au năpădit
+Răni adânci în inimă eu am primit
+Dar într-o zi eu am aflat
+Că Dumnezeu nu m-a uitat
+Cu drag în brațe El m-a luat
+Și m-a salvat
+
+[c2]
+/: Când prin vale am trecut
+Am simțit cu mult mai mult
+A Sa dragoste de sus
+A lui Isus, a lui Isus :/
+
+[v3]
+Mângâiere de vrei să ai
+Lui Isus să te predai
+El mult vrea ca să ajungi cu El in rai
+Crede, nu descuraja
+Doar El poate mângâia
+Și lega rana ta ce sângera
+
+[c3]
+/: Dumnezeu ce te-a iubit
+Să știi, nu te-a părăsit
+Singur tu nu vei mai fi
+În inimă de-l vei primi :/

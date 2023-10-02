@@ -1,0 +1,23 @@
+[title]
+Doar isus {composer: {Calinut Gheorghe}, {rcId: {248302}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Pășește pe calea vieții, tu suflet grăbit
+De parcă niciodată n-ai să ajungi la sfârșit
+Te-ai întrebat vreodată încotro tu mergi
+Azi Domnul îți dă o șansă locul să ți-l alegi
+
+[c]
+Doar Isus doar Isus doar Isus ne-a salvat
+Pentru noi pentru noi pentru noi viața și-a dat
+N-am putea n-am putea n-am putea să-i mulțumim
+Doar inima inima lui Isus să-i dăruim
+
+[v2]
+O dacă astăzi încă mai ești aici și viu
+E semn că pentru tine nu e totuși prea târziu
+Căci mâine mâine poate să vină al tău apus
+Ce mare lucru este să vi astăzi la Isus

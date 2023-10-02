@@ -1,0 +1,41 @@
+[title]
+De ai lumina-n tine {composer: {Nicolae Moldoveanu}, {rcId: {249838}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+De ai lumina-n tine,
+ea-ți crește roduri sfinte
+de pace și blândețe
+și dragoste fierbinte.
+
+[c]
+Lumina e Hristos,
+Lumina e Hristos!
+Așa cum este EI,
+să fim și noi la fel.
+
+[v2]
+De ai lumina-n tine,
+mergi drept oricând în toate,
+căci felul ei e-acesta:
+mergând, nu se abate.
+
+[v3]
+De ai lumina-n tine,
+ești izbăvit de teamă.
+Oricât de neagră-i noaptea,
+ea nici n-o bagă-n seamă.
+
+[v4]
+De ai lumina-n tine,
+ai adevărul tare;
+nebiruit vei trece
+pe orișice cărare.
+
+[v5]
+De ai lumina-n tine,
+în cer trăiești, chiar dacă
+mai pribegești cu trupul
+prin lumea cea săracă.

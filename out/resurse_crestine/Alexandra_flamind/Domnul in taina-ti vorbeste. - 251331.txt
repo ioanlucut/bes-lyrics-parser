@@ -1,0 +1,29 @@
+[title]
+Domnul in taina-ti vorbeste {composer: {Alexandra Flămînd}, {rcId: {251331}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Domnul în taină-ți vorbește.
+În dreptul tău când se-opreste
+Îi pasă de tine, te poartă în har
+Ești în mâna Lui un mărgăritar
+
+[c]
+Șlefuit și prelucrat
+De Domnul învățat
+Ești al Lui, îi aparții
+Până sus în veșnicii!
+
+[v2]
+Iată Domnul la tin’se oprește
+Să ridice poveri ce te-apasa
+Îi pasă de tine, în mână te ține
+Te face tare, aproape de Sine
+
+[v3]
+Domnul în taină-ți vorbește
+Când stai să asculți vocea Sa
+Îi pasă de tine și te iubește
+Te ridică și-n mână te va purta

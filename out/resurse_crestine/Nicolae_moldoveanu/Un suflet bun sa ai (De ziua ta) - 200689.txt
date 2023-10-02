@@ -1,0 +1,29 @@
+[title]
+Un suflet bun sa ai (de ziua ta) {composer: {Nicolae Moldoveanu}, {rcId: {200689}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Un suflet bun să ai și-un gând frumos
+În faptă și în grai pentru Hristos,
+/: Cu dragoste și-avânt spre tot ce-i drept și sfânt
+Așa-ți dorim, așa, de ziua ta. :/
+
+[v2]
+Să fii în tot ce spui, cinstit și blând,
+Să nu fii nimănui dator nicicând,
+/: Să mergi mereu curat, pe drumu-adevărat,
+Așa-ți dorim așa, de ziua ta. :/
+
+[v3]
+Să fii un vas ales lui Dumnezeu,
+Să ai rod bun cules din orice greu.
+/: În jurul tău să poți să-i fericești pe toți,
+Așa-ți dorim așa, de ziua ta. :/
+
+[v4]
+Mereu mai plin de-avânt, mai credincios,
+Mai bun, mai drept, mai sfânt, cum vrea Hristos,
+/: Să poți cu drag vedea, în ceruri Fața Sa,
+Așa-ți dorim așa, de ziua ta. :/

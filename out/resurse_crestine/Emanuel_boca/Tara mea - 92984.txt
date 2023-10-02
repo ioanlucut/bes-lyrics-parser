@@ -5,27 +5,22 @@ Tara mea {composer: {Emanuel Boca}, {rcId: {92984}}
 v1,c,v2,c,e
 
 [v1]
-Ostenit de alergare si de zbuciumul cel greu
-Ce frumos sa sti ca astazi langa tine-I Dumnezeu
-Dupa marea incercare ce-ai avut aici de dus
-Te vei bucura in ceruri pe vecie de Isus
+Ostenit de alergare și de zbuciumul cel greu,
+Ce frumos să știi că astăzi lângă tine-i Dumnezeu!
+După marea încercare ce-ai avut aici de dus
+Te vei bucura în ceruri pe vecie cu Isus.
 
 [c]
-/: Tara mea :/
-O cat te doresc
-/: Tara mea :/
-s-ajung mereu sa te privesc
+/: Țara mea :/ o, cât te doresc!
+/: Țara mea :/ s-ajung mereu să te privesc!
 
 [v2]
-Dupa-tata alergare dupa multe suferinti
-Iti v-a saruta obrajii plini de lacrimi fierbinti
-Dupa-atata intristare vor veni si bucurii
-Si vei sta in cer la masa cu Isus pentru vecii
+După toată alergarea, după multe suferinți,
+Îți va săruta obrajii plini de lacrimi fierbinți.
+După-atâta întristare vor veni și bucurii
+Și vei sta în cer la masă cu Isus pentru vecii.
 
 [e]
-Tara mea,
-O tara mea
-S-ajung mereu sa te privesc
-Tara mea,
-O tara mea
-Sa locuiesc acolo eu as vrea
+Țara mea, o, țara mea,
+S-ajung mereu o, țara mea,
+Să locuiesc acolo eu aș vrea!

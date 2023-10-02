@@ -1,0 +1,41 @@
+[title]
+Te-astept isuse {composer: {Anonim}, {rcId: {1543}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Te-aștept Isuse privind spre ceruri
+Să văd dacă nu vii
+În orice seară, eu Te chem iară
+Pentru-a mă pregăti.
+
+[c]
+/: Tu ești aproape, poate la noapte
+S-ar întâmpla să vii
+Haina-i pătată, nu e curată,
+Ce fac eu dacă vii? :/
+
+[v2]
+Te-aștept și ziua și-mi este frică
+Căci Tu vei aparea
+O, dă-mi putere când am durere
+Ca să mă pot lupta.
+
+[c2]
+/: Sfântul Tău sânge și-acuma curge
+El poate-a mă spăla
+De orice vină, de orice tină
+Numai Tu poți ierta. :/
+
+[v3]
+Când dimineața dispare ceața
+Din pat am tresărit
+Mă scol degrabă, privesc afară
+Să văd dacă ai venit.
+
+[c3]
+/: Ca orișicare în așteptare
+De-acuma stau mereu
+Viața mea toată îmi e predată
+De-acum eu sunt al Tău. :/

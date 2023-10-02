@@ -1,0 +1,35 @@
+[title]
+Noapte sfanta minunata {composer: {Nicolae Moldoveanu}, {rcId: {248838}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Noapte sfântă, minunată,
+ceru-ți este luminos,
+căci se naște-n tine-al vieții
+Soare sfânt: Isus Hristos.
+
+[c]
+/: O noapte minunată,
+Slăvită și preasfântă
+și cerul și pământul
+de bucurie cântă! :/
+
+[v2]
+Ingerii din cer coboară,
+imn de slavă intonând,
+la păstorii din câmpie
+vestea nașterii ducând.
+
+[v3]
+Steaua-n depărtări răsare
+și se ’nalță tot mai sus,
+îndrumând pe magi să vină
+să se-nchine lui Isus.
+
+[v4]
+Lângă ieslea Ta Isuse,
+inimile ne plecăm,
+duși pe aripi de credință Ție,
+Ție, Doamne, ne-nchinăm!

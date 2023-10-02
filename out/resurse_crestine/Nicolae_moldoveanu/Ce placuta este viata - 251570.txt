@@ -1,0 +1,35 @@
+[title]
+Ce placuta este viata {composer: {Nicolae Moldoveanu}, {rcId: {251570}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ce plăcută este viața,
+prin credință când pășești,
+peste valurile lumii,
+spre hotarele cerești!
+
+[c]
+Ce frumoasă, frumoasă,
+e trăirea cu Isus,
+El ne-o face luminoasă,
+și-odihnită-n har nespus.
+
+[v2]
+Ce-ntărită este viața,
+prin nădejdea-n viitor,
+mai ușor te-avânți în luptă,
+lucru-ți este mai cu spor!
+
+[v3]
+Ce ferice este viața,
+prin iubire și prin har,
+când ți-o arzi neîmpărțită,
+pe-al sfințeniei altar!
+
+[v4]
+Ce divină este viața,
+când e-ascunsă în Hristos!
+Altfel vezi și altfel umbli,
+ești în cer, deși ești jos.

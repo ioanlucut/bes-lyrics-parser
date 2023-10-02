@@ -1,0 +1,23 @@
+[title]
+Nani nani-na {composer: {Nicolae Moldoveanu}, {rcId: {251826}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Nani, nani-na, puișor de stea,
+Ia cu tine-n gând chipul mamei blând,
+Ia cu tine-n vis, floare de cais,
+Ia cu tine gene păsări din poiene.
+Ia cu tine-n pleoape, legănări de ape.
+
+[c]
+Lângă patul tău va veghea mereu, mereu
+mămicuța ta și Dumnezeu!
+
+[v2]
+Nani. nani-na, puișor de stea...
+Ia cu tine-n somn dulce glas de corn.
+Ia cu tine-n joc snopi de busuioc.
+Ia cu tine fluturi de pe flori și ciuturi.
+Ia cu tine stele să petreci cu ele.

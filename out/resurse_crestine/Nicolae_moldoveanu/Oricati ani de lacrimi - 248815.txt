@@ -1,0 +1,29 @@
+[title]
+Oricati ani de lacrimi {composer: {Nicolae Moldoveanu}, {rcId: {248815}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Oricâți ani de lacrimi cere-o slujbă mare
+oricât frig și tremur cere-o primăvară,
+/: orice cale aspră cere-o sărbătoare,
+merită, plătește! - Nici un rău nu-ți pară. :/
+
+[v2]
+Orice sângerare cere-o mântuire,
+orice înfrânare-o cere-o taină rară,
+/: orice așteptare cere-a ta-mplinire,
+merită, așteaptă! - Nici un rău nu-ți pară. :/
+
+[v3]
+Orice drum îți cere culmea însorită,
+orice înfrânare veșnica-ți comoară,
+/: pacea conștiinței cât ți-ar fi plătită,
+merită, plătește! - Nici un rău nu-ți pară. :/
+
+[v4]
+Orice suferință să mai dai iubirii
+orice chin slujirea lui Hristos mai ceară,
+/: orice jertiă-ți cere slava mântuirii,
+merită, jertfește! - Nici un rău nu-ți pară! :/

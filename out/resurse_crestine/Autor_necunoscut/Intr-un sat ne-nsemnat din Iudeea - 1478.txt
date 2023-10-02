@@ -1,0 +1,29 @@
+[title]
+Intr-un sat ne-nsemnat din iudeea {composer: {Autor necunoscut}, {rcId: {1478}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Într-un sat ne-nsemnat din Iudeea,
+Într-o iesle din Betleem,
+S-a născut așteptatul Mesia
+Să-I cântăm cu îngerii în cor!
+
+[c]
+/: Cânt Osana :/ x3
+Rege al regilor.
+/: Cânt Osana :/ x3
+Lui Isus.
+
+[v2]
+Părăsiți turma voastră-n câmpie,
+Alergați umiliți la El!
+El este singura bucurie
+Pentru prinț și pentru cerșetor!
+
+[v3]
+În Isus veți găsi fericire.
+Veniți acum degrab’ la El!
+Pace sfântă, multă bucurie,
+În inimi revarsă numai El.

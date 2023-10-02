@@ -1,0 +1,23 @@
+[title]
+De n-ar fi domnul ajutorul meu {composer: {Shalom}, {rcId: {787}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+De n-ar fi Domnul ajutorul meu
+În clipele grele ale vieții
+Cât de curând, sufletul meu
+Ar locui-n tăcerea morții.
+
+[c]
+/: Ori de câte ori am zis
+Mi se clatină piciorul
+Bunătatea Ta, Doamne
+Sprijin mi-a fost :/
+
+[v2]
+Când gânduri negre mă frământă
+Cu grămadă înăuntrul meu
+Bunătatea Ta, Doamne
+Îmi desfătează sufletul.

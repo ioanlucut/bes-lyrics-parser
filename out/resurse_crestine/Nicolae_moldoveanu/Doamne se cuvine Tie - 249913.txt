@@ -1,0 +1,35 @@
+[title]
+Doamne se cuvine tie {composer: {Nicolae Moldoveanu}, {rcId: {249913}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Doamne se cuvine Ție
+laudă și mulțumire,
+să-Ți aduc în orice vreme
+cu credință și iubire!
+
+[c]
+Laudă, laudă
+necurmat Îți cânt,
+laudă, laudă,
+Domnul meu Preasfânt!
+
+[v2]
+Ție-Ți datorez întruna
+slavă și recunoștință,
+și adâncă-nchinăciune
+cu iubire și credință!
+
+[v3]
+Pentru toate câte-n viață
+mi le dai, Iți cânt mărire
+dintr-o stare-nflăcărată
+cu credință și iubire!
+
+[v4]
+Pentru slava Ta eternă,
+vreau cu-ntreaga mea ființă
+să trăiesc și să mă dărui
+cu iubire și credință!

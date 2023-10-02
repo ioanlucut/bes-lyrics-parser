@@ -1,0 +1,29 @@
+[title]
+Cu ochiul tau {composer: {Nicolae Moldoveanu}, {rcId: {249842}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Cu ochiul Tău vreau să privesc
+și adevărul și minciuna.
+/: - Dă-mi haru-acesta, ce-l doresc.
+O, Domnul meu, întotdeauna! :/
+
+[v2]
+Cu gura Ta să pot rosti
+orice cuvânt ce vrea să-mi zboare.
+/: - Dă-mi haru-acesta zi de zi
+O, Domnul meu cel Bun și Mare! :/
+
+[v3]
+Cu mâna Ta să pot lucra
+pe-ogorul Tău, tot mai cucernic.
+/: - Dă-mi haru-acesta-n veci așa,
+O, Domnul meu Atotputernic! :/
+
+[v4]
+Ca să nu pot în nici un fel
+să fac ceva ce nu-i din Tine.
+/: - Dă-mi harul Tău, numai prin el
+să merg din bine spre mai bine! :/

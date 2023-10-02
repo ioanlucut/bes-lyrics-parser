@@ -1,0 +1,23 @@
+[title]
+Asculta ma {composer: {Samuel din Tandarei}, {rcId: {249927}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Strig isuse catre tine
+Caci nu mai pot ajutama
+Si ceva arde an mine
+Plansul si necazul meu
+
+[c]
+Asculta ma o domnul meu
+Nu ma lasa ca imi este greu
+Intindeti mana te rog spre mine
+Fie ti mila doamne de mine
+
+[v2]
+Ia aminte la rugaciunea mea
+Nu te ascunde la cererea mea
+An cuvantul tau e scris
+Ca tu ma vei izbavi

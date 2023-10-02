@@ -1,0 +1,29 @@
+[title]
+Bate vantul rece {composer: {Nicolae Moldoveanu}, {rcId: {251825}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Bate vântul rece,
+toamna a venit,
+Stol de păsări trece,
+codru-a adormit!
+
+[c]
+Numai pe pământ
+ierni și toamne sunt,
+Dar să știm că-n cer
+nu sunt ierni și ger.
+
+[v2]
+Frunzele uscate
+zac pe jos la fel,
+și-s de cânt purtate
+fără nici un țel.
+
+[v3]
+Iat-o-nvățătură:
+To ce e uscat
+- spune la Scriptură -
+e de vânt purtat!

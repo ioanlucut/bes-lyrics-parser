@@ -1,0 +1,23 @@
+[title]
+Proverbe :- {composer: {Nicolae Moldoveanu}, {rcId: {251418}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+V7. Cel ce mustră pe-un netrebnic ură și dispreț culege,
+cel ce vrea pe-un rău să-ndrepte, cu batjocură s-alege.
+V8. Nu-l mustra pe cel netrebnic, să n-ajungi să te urască,
+mustră-l pe-nțelept căci are tot mai mult să te iubească.
+
+[v2]
+V9. Dă-nțeleptului lumină că mai înțelept devine,
+pe neprihănit învață-l și-nvăța-va tot ce-i bine.
+V10. Începutu-nțelepciunii, frica cea de Domnul este,
+iar a sfinților știință, este-a cunoștinței veste.
+
+[v3]
+V11. Zilele vieții tale înmulți-se-vor prin mine,
+și mări-ți-se-vor anii bătrânețelor senine.
+V12. De ești înțelept în viață, - pentru tine ai știință,
+de ești hulitor, tu singur ai să tragi în suferință.

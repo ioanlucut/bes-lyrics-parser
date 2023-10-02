@@ -1,0 +1,41 @@
+[title]
+Doamne tu ne-ai spus {composer: {Nicolae Moldoveanu}, {rcId: {249308}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Doamne, Tu ne-ai spus că unde
+vor fi doi sau trei,
+adunați în al Tău Nume,
+Tu vei fi cu ei.
+
+[c]
+Scump Isuse, scump Isuse,
+Te chemăm,
+între noi, că-n al Tău Nume
+ne-adunăm.
+
+[v2]
+Binecuvintează locul
+unde ne-ai adus,
+Duhul Tău cel Sfânt revarsă-L
+peste noi de Sus.
+
+[v3]
+Binecuvintează frații
+ce Cuvântu-Ți spun,
+binecuvintează rodul
+ascultării bun.
+
+[v4]
+Rugăciunile ne-ascultă
+cum Ți le-nălțăm,
+și sfințește viața noastră,
+Ție s-o predăm.
+
+[v5]
+Fă-ne să-mplinim Cuvântul
+cu adevărat,
+fiecare să ne-ntoarcem
+binecuvântat...

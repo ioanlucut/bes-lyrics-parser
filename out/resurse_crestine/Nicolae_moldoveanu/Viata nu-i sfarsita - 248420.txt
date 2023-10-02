@@ -1,0 +1,32 @@
+[title]
+Viata nu-i sfarsita {composer: {Nicolae Moldoveanu}, {rcId: {248420}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Viața nu-i sfârșită, poți încă-ntâmpina
+Zdrobiri și răni la care n-ai nici gândit cândva,
+/: Nu te mândri, om șubred, oricât ai fi de sus,
+Așa ți-e răsăritul de-aproape de apus. :/
+
+[v2]
+Nici calea nu-i sfârșită, primejdii încă pot Destule să te-aștepte, de ce le uiți de tot?
+/: Fii treaz în orice clipă, ferește-ți pașii tăi,
+De calea, și sfârșitul, și plata celor răi. :/
+
+[v3]
+Nici ziua nu-i sfârșită, poți încă să privești
+Cu grijă orice umbră cu care te-ntâlnești.
+/: Viața ta-i mai slabă ca firul subțirel,
+Fă binele, căci sigur ești numai lângă el. :/
+
+[v4]
+Nici lupta nu-i sfârșită, - minciună, nu zâmbi, Hristos mai are vreme destulă-a te zdrobi!
+/: Oricât te ’nalți de mândră părere-s anii tăi, Hristos zdrobi-ți-va capul sub talpa alor Săi. :/
+
+[v5]
+Nici vremea nu-i sfârșită, mai este încă har,
+Cât ochii pot să-ți plângă un singur strop amar,
+/: Ascultă și primește om șubred și pierdut,
+Cât viața nu-i sfârșită, cât harul nu-i trecut. :/

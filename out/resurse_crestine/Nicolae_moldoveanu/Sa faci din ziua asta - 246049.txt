@@ -1,0 +1,35 @@
+[title]
+Sa faci din ziua asta {composer: {Nicolae Moldoveanu}, {rcId: {246049}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Să faci din ziua asta sfântă
+O treaptă înspre veșnicie,
+/: Și tot ce lumea o framântă,
+S-arunci - ca-n tine să nu fie. bis 1 :/
+
+[v2]
+Să faci din ziua asta mare
+Prilej de sfântă re-nnoire
+/: A hotărârii de-ascultare
+De Dumnezeu și de sfințire. bis 1 :/
+
+[v3]
+Sa faci din ziua asta rară
+Popas de cercetare-adâncă,
+/: Să-nlături tot ce te-ndemnară
+Cândva să nu rămâi pe Stâncă. bis 1 :/
+
+[v4]
+Ca Dumnezeul mângâierii,
+Din cerul harurilor Sale,
+/: S-aprindă flacăra puterii-n
+Cădelnița ființei tale. bis 1 :/
+
+[v5]
+S-alergi mereu mereu ’nainte
+Spre Ținta care-i numai UNA,
+/: Ca-n ziua răsplătirii sfinte
+Să poți primi și tu cununa. bis 1 :/

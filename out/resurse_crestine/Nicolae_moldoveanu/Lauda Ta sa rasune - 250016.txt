@@ -1,0 +1,41 @@
+[title]
+Lauda ta sa rasune {composer: {Nicolae Moldoveanu}, {rcId: {250016}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Lauda Ta să răsune,
+Dumnezeul meu Cel Mare,
+prin tot ce mi-ai dat, tot timpul
+peste-a-lumii-ntregi hotare!
+
+[c]
+Laudă, laudă!
+Ție-Ți cânt și-Ți cânt înflăcărat,
+laudă, laudă,
+Dumnezeul Jertfei Minunat!
+
+[v2]
+Orice neam, oricare limbă,
+și-orice fel de seminție,
+prin cântarea mea de slavă,
+s-aibă-ndemn spre slavă Ție!
+
+[v3]
+Să cunoască toți lubirea
+care S-a jertfit deplină,
+pentru mântuirea lumii,
+prin cântarea mea senină.
+
+[v4]
+Adevărul să se-nalte,
+și să aibă-n veci izbândă,
+prin vibrarea strunei mele
+tot mai vie și crescândă.
+
+[v5]
+Lauda Ta să răsune
+prin al cântului meu sfeșnic,
+astăzi și-n eternul Mâine,
+Dumnezeul meu Cel Veșnic!

@@ -1,0 +1,40 @@
+[title]
+Pe cale tainica lucreaza {composer: {Nicolae Moldoveanu}, {rcId: {249262}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Pe cale tainică lucrează
+Prea milostivul Dumnezeu,
+/: Noi nu-ntelegem ce-nsemnează,
+Dar tot ce face-i har din greu. :/
+
+[c]
+Har mereu, har mereu,
+Acesta este-n veci,
+Acesta-i Dumnezeu.
+
+[v2]
+Din moarte El aprinde viață,
+Din suferințe bucurii,
+/: Din noapte-adâncă dimineață
+Și din alunecări tării. :/
+
+[v3]
+În veac El nu ne părăsește,
+Suntem ai Lui - răscumpărați.
+/: Când n-ascultăm, ne pedepsește
+Dar niciodată alungați. :/
+
+[v4]
+Să credem dragostea-I de Tată,
+Deplin pe ea să ne-odihnim;
+/: Și de-am căzut, spre El îndată
+Credința noastră s-o suim. :/
+
+[v5]
+Pe cale tainică lucrează
+Prea milostivul Dumnezeu,
+/: Și toate, toate ce urmează
+Sunt har și numai har - mereu. :/

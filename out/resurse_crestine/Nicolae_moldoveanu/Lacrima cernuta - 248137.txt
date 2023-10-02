@@ -1,0 +1,37 @@
+[title]
+Lacrima cernuta {composer: {Nicolae Moldoveanu}, {rcId: {248137}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Lacrimă cernută,
+Lcrimă prelinsă,
+Deseori mă-ncearcă
+Calea ta întinsă...
+/: Mult mă-ncearcă și mă arde
+Calea ta întinsă. :/
+
+[v2]
+Nu-ți găsesc zăvoare,
+Nu-ți găsesc chilie,
+Te-ntâlnesc și-n jale
+Și în bucurie.
+/: Mă-nsoțești și-n jale-amară
+Și în bucurie. :/
+
+[v3]
+Pe două izvoare
+Ți-ai clădit palatul:
+Când mă bucur - unul,
+Când mă doare - altul!
+/: Și din neguri și din soare
+Ți-ai clădit palatul. :/
+
+[v4]
+Lacrimă oernută,
+Lacrimă prelinsă,
+Tu-mi păstrezi lumina
+Ochilor aprinsă,
+/: Ca să-L văd mereu pe Domnul
+În Iumină-aprinsă. :/

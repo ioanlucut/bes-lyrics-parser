@@ -1,0 +1,23 @@
+[title]
+Mai lupta mai rabda (stiu calea aceasta este grea) {composer: {Andreea Irimiciuc}, {rcId: {251059}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Știu, calea aceasta este grea,
+Piedici multe sunt pe ea
+Dar știu că Dumnezeu
+Nu da mai mult decât tu poți îndura.
+
+[c]
+Dar mai luptă, mai rabdă, nu da ’napoi,
+Domnul Isus este cu tine prin orice nevoi.
+Poate mâine va fi mai bine
+Sau poate spre cer vei zbura la Sine.
+
+[v2]
+Nu te lăsa învins,
+Ci fii un luptător adevarat.
+Tu știi că și El a răbdat totul înaintea ta
+Suferind la Golgota.

@@ -1,0 +1,28 @@
+[title]
+O nefericitii {composer: {Iulia Contis}, {rcId: {248836}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O, nefericiții pământeni!
+Cum se pierde vântu-n Apuseni,
+Cum se lasă soarele pe cer,
+Dezlegați sunt astăzi de mister!
+
+[c]
+Saltă inima în pieptul meu,
+Căci Te am pe Tine, Dumnezeu!
+Ție îți supun eu vechiul eu!
+
+[v2]
+O, nefericiții prunci stingheri,
+Care nu mai caută ca ieri
+Să răzbată peste nori, prin vânt
+Pe neliniștitul vechi pământ!
+
+[v3]
+O, nefericiții care pier,
+Când nu se apropie de cer!
+Cu ce versuri astăzi să le cânți,
+Când spre moarte și-au făcut ei punți?

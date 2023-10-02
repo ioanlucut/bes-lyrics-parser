@@ -1,0 +1,48 @@
+[title]
+Vrednic e mielul {composer: {Nicolae Moldoveanu}, {rcId: {249844}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Vrednic e Mielul, vrednic e Mielul
+să deschid-a vieții Carte,
+să dea moartea Ia o parte,
+/: pentru că a a fost junghiat. :/
+Să ne-aducă cu-ndurare,
+veșnică răscumpărare
+din osândă și păcat.
+
+[c]
+Slavă Mielului,
+slavă Lui mereu
+lui Isus, Miel Preasfânt
+al lui Dumnezeu,
+slavă Lui, slavă Lui.
+
+[v2]
+Vrednic e Mielul, vrednic e Mielul
+să ne deie mântuirea
+și odihna și unirea,
+/: pentru că a a fost junghiat. :/
+Jertfa-i sfântă de pe cruce
+slavă veșnică ne-aduce,
+de-o primim cu-adevărat.
+
+[v3]
+Vrednic e Mielul, vrednic e Mielul
+ca să intre-n veșnicie,
+îmbrăcat în măreție,
+/: pentru că a fost junghiat. :/
+Tatăl I-a ales, sfințită,
+o oștire nesfârșită,
+Căci în veci e Împărat.
+
+[v4]
+Vrednic e Mielul, vrednic e Mielul!
+Se cuvine Lui cunună,
+Necuprinsul tot să spună,
+/: pentru că a fost junghiat. :/
+El deschis-a stăvilarul,
+să-I primim de-a pururi harul.
+Fie binecuvântat!

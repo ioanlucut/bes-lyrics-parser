@@ -1,0 +1,51 @@
+[title]
+Pe drumul dragostei {composer: {Nicolae Moldoveanu}, {rcId: {248091}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Pe drumul dragostei, iubite,
+Unde-ai ajuns, unde-ai ajuns?
+Cât de departe ești? - La câte
+Dintre chemări le-ai dat răspuns?
+Răspunde, răspunde,
+Cât de departe ești? La câte
+Dintre chemări le-ai dat răspuns?
+
+[v2]
+Ce Iimpeziri ți-au fost aduse
+În viața ta, în viața ta?
+Din frumuseți
+Ie-i nespuse
+Cât ai primit? - Și-ai firea sa?
+Răspunde, răspunde!
+Din frumusețile-i nespuse
+Cât ai primit? Și-ai firea sa?
+
+[v3]
+Din roada ei, crescută-n tine
+Cât ai jertfit, cât ai jertfit?
+Adus-ai mângâieri? - și cine
+Sunt cei pe care i-ai hrănit?
+Răspunde, răspunde!
+Adus-ai mângâieri? - și cine
+Sunt cei pe care i-ai hrănit?
+
+[v4]
+De arzi în ea, pe câți aprinde
+Văpaia sa, văpaia sa?
+Vrăjmașii tăi de-i poți cuprinde,
+Ești fiul ei, ea-i mama ta.
+Răspunde, răspunde!
+Vrăjmașii tăi de-i poți cuprinde,
+Ești fiul ei, ea-i mama ta.
+
+[v5]
+Pe drumul dragostei, iubite,
+Cât ai suit, cât ai suit?
+De n-ai simțirile-nnoite,
+Pe drumul ei tu n-ai pornit!
+Răspunde, răspunde!
+De n-ai simțirile-nnoite
+Pe drumul ei tu n-ai pornit!

@@ -1,0 +1,35 @@
+[title]
+Sa-mi fie dragostea campie {composer: {Nicolae Moldoveanu}, {rcId: {250836}}
+
+[sequence]
+v1,c,v2,c2,v3,c2
+
+[v1]
+Să-mi fie dragostea câmpie
+Cu nehotar, cu ne-ngrădiri;
+să crească grâul bucuriei
+ne-mpiedicat de nicăiri.
+
+[c]
+Să vină toți, cu nici o teamă,
+să strângă spice după plac,
+de nimeni să nu țină seamă,
+când cele-ale iubirii fac.
+
+[v2]
+Să-mi fie dragostea o mare
+întinsă, să cuprindă-n ea
+corăbiile călătoare
+oricâte vin - oricât să stea.
+
+[c2]
+Să n-aibă nici o stâncă-ascunsă,
+nici valuri mari, nici vânt pornit.
+De tot ce e ceresc pătrunsă.
+să-mpartă harul fericit.
+
+[v3]
+/: Să-mi fie dragostea ca Tine,
+Isuse, Doamne, pe deplin,
+să poarte jertfele divine
+spre viață tuturor! Amin :/

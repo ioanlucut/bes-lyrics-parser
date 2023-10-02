@@ -2,28 +2,29 @@
 Strain pribeag si calator {composer: {Nicolae Moldoveanu}, {rcId: {5764}}
 
 [sequence]
-v1,c,v2,c,v3,c,v4,c,v5,c
+v1,c,v2,c,v3,c
 
 [v1]
-Străin, pribeag și călător, o, sunt azi pe-acest pământ,
-Călăuzit de-un singur dor: o, s-ajung în cerul sfânt.
+Străin, pribeag și călător,
+Sunt azi pe-acest pământ,
+Călăuzit de-un singur dor,
+Să merg spre cerul sfânt.
 
 [c]
-/: Împărăția Ta, o, Doamne, o doresc!
-Și cât aș vrea s-ajung în ea, o, acolo să trăiesc! :/
+Împărăția Ta,
+o, Doamne, o doresc
+și cât aș vrea
+s-ajung în ea,
+acolo să trăiesc!
 
 [v2]
-Azi, drumu-i greu și plin de spini, o, dar s-a sfârși-n curând,
-Și-n țara mea plină de crini, o, m-oi odihni-n curând.
+Azi, drumu-i greu și plin de spini,
+Dar s-o sfârși curând
+Și-n Țara veșnicei lumini
+Vom odihni cântând.
 
 [v3]
-Cu toți acei ce Te-am urmat, o, prin lumea de dureri,
-Îți vom cânta neîncetat, o, duioase, dulci cântări.
-
-[v4]
-Dar fă să vină, mai curând, o, Împărăția Ta,
-Căci ard de dor tot așteptând, o, și crucea-i tot mai grea.
-
-[v5]
-Ce frumuseți de nedescris, o, acolo-n veci vor fi
-Căci Tu, iubit și scump Isus, o, Tu vei împărăți.
+Ce frumuseți de nedescris,
+Acolo-n veci vor fi,
+Că-n ea iubit și scump Isus,
+Tu vei împărăți.

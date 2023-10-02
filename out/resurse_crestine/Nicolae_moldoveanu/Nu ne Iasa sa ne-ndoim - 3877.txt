@@ -1,0 +1,38 @@
+[title]
+Nu ne iasa sa ne-ndoim {composer: {Nicolae Moldoveanu}, {rcId: {3877}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Nu ne Iasa să ne-ndoim,
+În crâncena furtună,
+/: Nu ne lăsa să ne-ngrozim,
+Când fulgeră și tună. :/
+
+[c]
+Nu ne lăsa, Isus, nu ne lăsa.
+
+[v2]
+Nu ne lăsa să înghețăm,
+În cruda viscolire,
+/: Nu ne lăsa să nu-nsetăm,
+De cea dintâi iubire. :/
+
+[v3]
+Nu ne Iăsa să părăsim,
+Credința noastră bună,
+/: Nu ne lăsa să despărțim,
+Umblarea împreună. :/
+
+[v4]
+Nu ne lăsa să fim împinși,
+Pe căi înșelătoare,
+/: Nu ne lăsa să fim învinși,
+Și sfâșiați de fiare. :/
+
+[v5]
+Nu ne lăsa să ne-ndoim,
+Isus, de-a Ta izbândă,
+/: Căci fără Țel, ne prăbușim,
+În noapte și-n osândă. :/

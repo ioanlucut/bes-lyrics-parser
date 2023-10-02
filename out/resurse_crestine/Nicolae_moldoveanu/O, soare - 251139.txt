@@ -1,0 +1,48 @@
+[title]
+O soare {composer: {Nicolae Moldoveanu}, {rcId: {251139}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+O, soare, care-ți dai lumina
+spre toți atât de minunat,
+cum ai să-nvinuiești odată
+pe cel ce nu te-a meritat!
+
+[c]
+Tu, suflet fără rugăciune,
+nepăsător și surd mereu,
+când toate-au să te-nvinuiască,
+/: ce-ai să răspunzi, :/
+ce-ai să răspunzi lui Dumnezeu?
+
+[v2]
+O, dulci izvoare-mbelșugate
+ce stâmpărați pe-orice-nsetat,
+cum o să-nvinuiți odată
+pe cel ce, bând, nu s-a-nchinat!
+
+[v3]
+O, pâine ce te dărui hrană,
+cu-ndestulare, tuturor,
+cum ai să-nvinuiești odată
+pe cel nerecunoscător!
+
+[v4]
+O, Sânge sfânt ce-ai curs pe cruce,
+să-i speli pe toți desăvârșit,
+cum ai să-nvinuiești odată
+pe cel ce te-a batjocorit!
+
+[v5]
+O, legământ ceresc și unic,
+făcut să fii în veci păstrat,
+cum ai să-nvinuiești odată
+pe-acela care te-a călcat!
+
+[v6]
+O, sfânt prilej al mântuirii,
+acum de-atâtea ori avut,
+cum ai să-nvinuiești odată
+pe-acela ce te-a tot pierdut!

@@ -1,0 +1,41 @@
+[title]
+Priveste drept nainte {composer: {Nicolae Moldoveanu}, {rcId: {248905}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Privește drept ’nainte,
+spre ținta fericită
+și vei primi puterea
+să-nfrângi orice ispită
+
+[c]
+Privește spre Acela
+ce ochii ți-i sfințește,
+să poți cunoaște harul
+ce pururi te-nnoiește.
+
+[v2]
+Privește cerul slavei
+cel mai presus de fire
+din care-ți vine-ntruna
+credință si iubire.
+
+[c2]
+Privește Viitorul
+învăluit în soare,
+în care fi-va veșnic
+a păcii sărbătoare.
+
+[v3]
+Privește spre-mpăratul
+Hristos, ce-ți dă tărie,
+să-naintezi statornic
+spre sfânta-mpărăție.
+
+[c3]
+Privește! Căci doar ochii
+cei ațintiți spre Domnul,
+/: sunt rupți de lumea urii
+și nu-i mai prinde somnul. :/

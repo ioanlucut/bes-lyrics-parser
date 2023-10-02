@@ -1,0 +1,30 @@
+[title]
+Astazi iarasi n-am vegheat {composer: {Nicolae Moldoveanu}, {rcId: {250018}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Astăzi iarăși n-am vegheat
+și vrăjmașu-ascuns,
+dintr-un arc înflăcărat
+viața mi-a străpuns.
+
+[c]
+/: Doamne, vin la harul Tău, :/
+și săgeata celui rău,
+Tu s-o scoți din viața mea,
+/: ca din nou să pot cânta,
+Doamne, slava Ta! :/
+
+[v2]
+Să nu aibă el câștig.
+Doamne, nicidecum,
+de aceea-n rugă strig
+către Tine-acum.
+
+[v3]
+Numai Tu poți vindeca
+Rana mea din piept,
+mâna Ta îmi poate da
+harul ce-l aștept.

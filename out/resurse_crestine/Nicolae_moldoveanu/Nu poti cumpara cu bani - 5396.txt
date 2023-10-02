@@ -1,0 +1,45 @@
+[title]
+Nu poti cumpara cu bani {composer: {Nicolae Moldoveanu}, {rcId: {5396}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Nu poți cumpăra cu bani,
+Mântuirea minunată,
+De te-ai zbate ani și ani,
+Nu poți cumpăra cu bani,
+Ea se dă la cei sărmani,
+Prin credință, fără plată!
+
+[v2]
+Nu poți prinde-n mintea ta,
+Cea-ntinată și firească,
+Darul de pe Golgota,
+Nu-l poți prinde-n mintea ta,
+Numai Duhu-i poate da,
+Starea care să-l primească!
+
+[v3]
+Nu poți cu firești puteri,
+Să duci luptele divine,
+Nici a Duhului poveri,
+Nu poți cu firești puteri,
+Să le porți smerit spre Cer
+De n-ai viață nouă-n tine!
+
+[v4]
+Numai harul minunat,
+Coborât întreg prin cruce
+Te ridică din păcat,
+Și din locu-ntunecat,
+Dacă crezi cu-adevărat,
+Mântuire el ți-aduce!
+
+[v5]
+Leapădă tot ce-i pământ,
+Leapădă-ți vicleana fire,
+Și-atunci Domnul pururi sfânt
+Îți dă harul Lui ne-nfrânt,
+Și lumină și avânt,
+Și comori de fericire!

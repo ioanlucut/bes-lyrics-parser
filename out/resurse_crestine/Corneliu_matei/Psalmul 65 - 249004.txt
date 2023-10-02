@@ -1,0 +1,27 @@
+[title]
+Psalmul {composer: {Corneliu Matei}, {rcId: {249004}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+/: Cu încredere Dumnezeule vei fi lăudat
+Și-mplinite vor fi juruințele care Ți-au fost făcute :/
+
+[c]
+Doamne, Tu asculți rugăciunea
+De aceea toți vor veni la Tine
+Se vor închina în fața Ta
+Căci numai Tu ești Dumnezeu!
+
+[v2]
+În bunătatea Ta, Doamne, ne asculți
+Atunci când Te chemăm
+Și ne vorbești adesea chiar prin minuni
+Slăvit e Numele Tău!
+
+[b]
+Tu cercetezi pământul întreg
+Ești încă îndurător
+Și pașii Tăi lasă-n urma lor
+Doamne, binecuvântări.

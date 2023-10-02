@@ -1,0 +1,35 @@
+[title]
+Cand ochii storsi {composer: {Nicolae Moldoveanu}, {rcId: {248098}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Când ochii storși de lacrimi privesc în gol departe,
+Și nu mai vezi pe nimeni din câți îți trec prin față,
+/: O, cine-ți umple-n suflet un gol lăsat de moarte
+Și cine-ți dă privirii o rază de viață? :/
+
+[c]
+/: Credința, doar credința,
+Ea-i singura putere
+Ce mântuie ființa
+Prin cruce spre-nviere. :/
+
+[v2]
+Când frânt ți-aduni tristețea ca cioburile sparte,
+Din viața răvășită de-a urii vijelie,
+/: O, cine-ți mai întoarce nădejdile din moarte
+Și cine-ți dă vieții o nouă temelie? :/
+
+[v3]
+Când lupta ți-e pierdută și zările-s deșarte,
+Iar gheara disperării viața ți-o sugrumă,
+/: O, cine-ți mai aduce o mântuire-n moarte
+Și cine înspre-o altă iubire te îndrumă? :/
+
+[v4]
+Credința, doar credința... ea singură împarte
+Viața, despicând-o în două pe vecie,
+/: O parte din nădejde ’nălțând-o peste moarte
+Iar celalaltă dând-o iubirii pe vecie. :/

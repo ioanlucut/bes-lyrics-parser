@@ -1,0 +1,37 @@
+[title]
+Azi ferestrele vietii {composer: {Nicolae Moldoveanu}, {rcId: {248717}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Azi, ferestrele vieții
+Dinspre lumea largă,
+Oblonitu-Ie-am cu grijă,
+Vânt să nu le spargă.
+Să nu intre duhul vremii
+- Hoț - ca să-mi răpească
+Sfintele comori aduse
+Din taină cerească.
+
+[c]
+Să nu-mi zboare timpu-afară
+- Pasăre pribeagă -
+Și nimic nimic din lume
+Dorul să-mi atragă...
+
+[v2]
+Azi ferestrele vieții
+Le-am deschis pe toate
+Spre slăvita-mpărăție
+Cu-ale ei palate.
+Să-mi coboare din belșugu-i
+Veșnica lumină
+De-adevăr și de iubire
+Și dreptate plină.
+
+[c2]
+Și împrospătat într-una
+Cu miresme sfinte.
+Pentru Domnul viața toată
+S-o trăiesc fierbinte.

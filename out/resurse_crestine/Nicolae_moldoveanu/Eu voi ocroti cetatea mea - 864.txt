@@ -1,0 +1,35 @@
+[title]
+Eu voi ocroti cetatea mea {composer: {Nicolae Moldoveanu}, {rcId: {864}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Eu voi ocroti cetatea Mea
+Și-o voi întări neîncetat,
+Dragostea-Mi fierbinte, pentru ea
+Ce-a avut mai scump și sfânt a dat.
+
+[c]
+Vă voi ocroti mereu, mereu
+Eu, Atotputernic Dumnezeu.
+/: V-am purtat pe-a Mele mâini necontenit
+Și vă voi purta așa fără sfârșit. :/
+
+[v2]
+Eu voi înflori cetatea Mea
+Să rodească-ntruna până Sus,
+Biruință sfântă va avea
+Din pricina Numelui Isus.
+
+[v3]
+Eu voi veseli cetatea Mea
+Cu cântări și harurui tot mai noi,
+Până va ajunge-n slava cea
+Pregătită-n veacul de apoi.
+
+[v4]
+Eu voi lumina cetatea Mea
+Cu-al iubirii Soare-nnveșnicit
+Fața Mea va străluci în ea
+Tot mai nouă - fără sfârșit.

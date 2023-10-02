@@ -1,0 +1,29 @@
+[title]
+Traiti frumos {composer: {Nicolae Moldoveanu}, {rcId: {251776}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Trăiți frumos în orice clipă,
+- acesta-i rostul vieții - acum,
+/: Din ghemul timpului, risipă :/
+Nicicând nu faceți, nicidecum! :/
+
+[c]
+Lăudați pe Domnul,
+lăudați pe Domnul,
+lăudați pe Domnul veșnic,
+lăudați, lăudați!
+
+[v2]
+Și veți vedea, când treceți pragul,
+un orizont mai luminos,
+/: adăugându-vă-n șiragul :/
+acelor ce-au trăit frumos. :/
+
+[v3]
+Acolo-n cânturi nesfârșite
+în corul veșnic veți cânta,
+/: - cu stări mereu mai fericite - :/
+lui Dumnezeu, spre slava Sa. :/

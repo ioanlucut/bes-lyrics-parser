@@ -1,0 +1,27 @@
+[title]
+Binecuvantat fii doamne {composer: {Nicolae Moldoveanu}, {rcId: {250917}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Binecuvântat fii, Doamne, binecuvântat!
+Învață-mă dulcea Ta cale,
+când trec pe-a pământului vale.
+/: să-Ți cânt mai frumos osanale. :/
+
+[c]
+Binecuvântat, binecuvântat
+să fii în veci, amin.
+
+[v2]
+Binecuvântat fii, Doamne, binecuvântat!
+Altar fă-mi întreaga trăire,
+aprins cu cerească iubire,
+/: spre veșnica Ta preamărire. :/
+
+[v3]
+Binecuvântat fii, Doamne, binecuvântat!
+păstrează-mă-ntruna în Tine,
+cu roduri mai albe și pline
+/: și laude-n stări mai divine. :/

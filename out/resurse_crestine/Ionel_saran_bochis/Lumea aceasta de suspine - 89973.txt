@@ -5,22 +5,22 @@ Lumea aceasta de suspine {composer: {Ionel Saran Bochis}, {rcId: {89973}}
 v1,c,v2,c,v3,c,v4,c
 
 [v1]
-Lumea aceasta de suspine, eu am părăsit
-Ca să vin la Domnul Slavei mult am suferit
+Lumea aceasta de suspine, eu am părăsit,
+Ca să vin la Domnul slavei mult am suferit.
 
 [c]
-/: O, ce minunat e al meu Împărat
-E Isus, Isus cel veșnic
-În veci fii Lăudat :/
+/: O, ce minunat e al meu Împărat!
+E Isus, Isus cel veșnic,
+În veci fii lăudat! :/
 
 [v2]
-Eu Îți cânt Isuse veșnic fii Glorificat
-M-ai scăpat de-a morții jale și eu sunt salvat
+Eu Îți cânt, Isuse veșnic, fii glorificat!
+M-ai scăpat de-a morții jale și eu sunt salvat!
 
 [v3]
-Și acum sunt fericit eu nu mai sunt pribeag
-Prin a lumii căi deșarte nu mai vreau hoinar
+Și acum sunt fericit, eu nu mai sunt pribeag,
+Prin a lumii căi deșarte nu mai vreau hoinar.
 
 [v4]
-Numai mâna Ta cea bună o Isuse Drag
-M-a păzit în grea furtună și Tu m-ai salvat
+Numai mâna Ta cea bună, o, Isuse drag,
+M-a păzit în grea furtună și Tu m-ai salvat!

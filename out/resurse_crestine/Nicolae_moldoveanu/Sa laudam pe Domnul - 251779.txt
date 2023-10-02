@@ -1,0 +1,30 @@
+[title]
+Sa laudam pe domnul {composer: {Nicolae Moldoveanu}, {rcId: {251779}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Să lăudăm pe Domnul
+cu inima de jar,
+/: e jertfa cea mai sfântă :/
+ce-o punem pe altar.
+/: Să lăudăm pe Domnul :/
+/: cu inima de jar! :/
+
+[v2]
+Să lăudăm pe Domnul
+cu sufletul de foc,
+/: e tot ce El ne cere :/
+în orice timp și loc.
+/: Să lăudăm pe Domnul :/
+/: cu sufletul de foc! :/
+
+[v3]
+Să lăudăm pe Domnul
+c-un duh tot mai vioi,
+/: e voia Lui divină, :/
+e voia Lui cu noi!
+/: Să lăudăm pe Domnul :/
+c-un duh tot mai vioi,
+/: e voia Lui cu noi! :/

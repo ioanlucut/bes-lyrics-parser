@@ -1,0 +1,41 @@
+[title]
+E plin de miraje pamantul {composer: {Costache Ioanid}, {rcId: {140990}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c2
+
+[v1]
+E plin de miraje pământul,
+De patimi ce atrag în noroi.
+Mușcăm din păcat tot mai lacom,
+Și tot mai flămânzi și mai goi.
+
+[c]
+Dar sus, la Golgota, pe cruce,
+Cu pieptul de o lance străpuns,
+La tainica vremii răscruce,
+Ne așteaptă, cu lacrimi, Isus.
+
+[v2]
+În ritm de stridente orchestre,
+Perechile lumii petrec,
+Crezându-se domni peste clipă,
+Alături cu clipele trec.
+
+[v3]
+Aleargă mașini pe artere,
+Rachete zvâcnesc printre nori;
+Tresare Selena în cratere,
+Saturn e cuprins de fiori.
+
+[v4]
+Tu, rege al vremurilor noastre,
+Tu, om, ce străbați prin stihii,
+Tu știi să te înalți printre astre,
+Dar taina supremă nu o știi!
+
+[c2]
+Tu nu știi că sus, la Golgota,
+Cu pieptul de o lance străpuns,
+Sub norii ce întunecă bolta
+Te așteaptă, cu lacrimi, Isus!

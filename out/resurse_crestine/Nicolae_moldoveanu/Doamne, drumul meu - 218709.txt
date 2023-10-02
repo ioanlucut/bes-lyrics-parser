@@ -1,0 +1,37 @@
+[title]
+Doamne drumul meu {composer: {Nicolae Moldoveanu}, {rcId: {218709}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Doamne, drumul meu puțin
+Fă-mi-l dulce și senin,
+Cu cântări și lacrimi plin,
+Cu avânt trăit divin
+Și cu frați ce merg și vin,
+Și cu frați ce merg si vin.
+
+[v2]
+Doamne, drumul meu rămas,
+Fă-mi-l vrednic pas cu pas,
+Și mai după Tine-atras,
+Până-n cel din urmă ceas,
+Până-n veșnicul popas,
+Până-n veșnicul popas.
+
+[v3]
+Doamne, drumul viitor
+Fă-mi-l pașnic și ușor,
+Ca un ’nalt și dulce zbor,
+Ca un cald și sfânt fior,
+Pân-la ultimul meu Dor,
+Pân-la ultimul meu Dor.
+
+[v4]
+Doamne, drumul încă-n sus,
+Fă-mi-l imn slăvit adus,
+Mai frumos și mai presus
+Decât tot ce-am fost și-am spus,
+Spre mărirea lui Isus,
+Spre mărirea lui Isus.

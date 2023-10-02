@@ -1,0 +1,29 @@
+[title]
+Glorie {composer: {Oana Dincă}, {rcId: {248875}}
+
+[sequence]
+c,v1,c,v2,b,c
+
+[c]
+/: Glorie, glorie, mărire
+Cinste, onoare doar Ție
+Ești viu și în veci de veci domnești
+Regele nostru etern :/
+
+[v1]
+/: A înviat, nu este-aici
+Boldul morții El l-a învins
+Viața și har noi am primit
+Prin Isus cel răstignit :/
+
+[v2]
+/: Să-L preamărim, să-L proslăvim
+Să-L dăm slavă că mult ne-a iubit
+Și-a dat viața pentru mine și tini
+Ca să fim iertați și mântuiți :/
+
+[b]
+/: A înviat, a înviat
+Isus este cel mai minunat :/
+A înviat, a înviat
+El nu e mort, trăiește cu-adevărat

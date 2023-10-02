@@ -1,0 +1,29 @@
+[title]
+Psalmul {composer: {Corneliu Matei}, {rcId: {248862}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+Numai în Dumnezeu
+Mi se-ncrede sufletul mereu
+Știu că numai de la El
+Îmi vine ajutorul meu.
+
+[v1]
+/ El este Stânca mea
+Și ajutorul meu
+Nu mă voi clătina
+Atunci când îmi va fi greu :/
+
+[v2]
+/E cetățuia mea
+El e refugiul meu
+Oricând mă va scăpa
+Mă va feri de rău :/
+
+[v3]
+/ E un loc de adăpost
+În vreme de necaz
+E turnul meu Hristos
+E tot ce mi-a rămas :/

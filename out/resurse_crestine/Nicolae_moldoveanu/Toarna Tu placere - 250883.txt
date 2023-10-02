@@ -1,0 +1,40 @@
+[title]
+Toarna tu placere {composer: {Nicolae Moldoveanu}, {rcId: {250883}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Toarnă Tu plăcere-n mine
+după sfântul Tău Cuvânt,
+să-l trăiesc, să-l cânt, să-I seamăn,
+Doamne-ntruna pe pământ.
+
+[c]
+Să-mi placă de Tine,
+să-mi placă crescând,
+o, Doamne, să-mi fie
+iubirea arzând
+spre Tine, spre Tine,
+în flăcări zburând,
+iubirea mai vie
+să-mi fie
+oricând.
+
+[v2]
+Toarnă-mi pururi foc în suflet
+ca să-mi placă voia Ta,
+s-o-mplinesc, s-o-nalț oriunde,
+Doamne, cum o spui, așa.
+
+[v3]
+Toarnă-n inima-mi plăpândă
+noi dorințe, mai fierbinți,
+să Te-asculte mai cu sete,
+Doamne-n cortul celor sfinți.
+
+[v4]
+Toarnă-n mine, toarnă, Doamne,
+pentru Tine tot ce știi,
+ca să-Ți laud frumusețea
+pe pământul celor vii.

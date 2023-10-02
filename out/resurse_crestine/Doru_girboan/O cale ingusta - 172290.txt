@@ -1,0 +1,31 @@
+[title]
+O cale ingusta {composer: {Doru Gîrboan}, {rcId: {172290}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+E-o cale îngustă ce duce spre cer
+E-o cale a-ncercării unde-s lacrimi și dureri
+E-o cale pe care puțini se pornesc
+Dar duce la viață spre limanul sfânt ceresc
+
+[c]
+/: Și calea aceasta e Domnul Isus
+E singura cale ce duce-n cer sus
+Privește la cruce unde El muri
+Și intră pe poartă spre veșnicii :/ X2
+/: Și calea aceasta e Domnul Isus
+E singura cale ce duce-n cer sus
+Privește la cruce unde El muri
+Și intră pe poartă spre veșnicii :/ X2
+
+[v2]
+E-o cale trasată de Domnul Isus
+Pășind pe-a Lui urme noi urcăm mereu mai sus
+E-o cale pe care cei sfinți se păzesc
+Luptând cu credință până drumul ei sfârșesc
+
+[e]
+Privește la cruce unde El muri
+Și intră pe poarta spre veșnicii

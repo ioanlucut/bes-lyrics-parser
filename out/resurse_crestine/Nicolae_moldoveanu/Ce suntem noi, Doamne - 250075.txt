@@ -1,0 +1,29 @@
+[title]
+Ce suntem noi doamne {composer: {Nicolae Moldoveanu}, {rcId: {250075}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Ce suntem noi, Doamne, umbră și părere,
+un suspin de-o clipă, iar apoi tăcere.
+Ce curând ne crește și ne ia pământul,
+izvorâm ca apa și zburăm ca vântul!
+
+[v2]
+Ce lăsăm noi, Doamne, la plecarea noastră,
+din taina cea neagră spre taina albastră?
+Vrednică-i de voia și zările Tale
+doar urma luminii pe-a dragostei cale.
+
+[v3]
+Ce lăsăm noi, Doamne, din visul opririi,
+doar sfânta cenușă jertfită iubirii,
+cereasca mireasmă ce-am ars rugăciunii
+și roua de aur din ochii minunii.
+
+[v4]
+Ce ținem noi Doamne, al nostru-n vecie,
+doar ce dăm acuma la alții și Ție,
+doar dulcea tăcere, sfințită-n suspine,
+doar ceasul de taină trăit lângă Tine.

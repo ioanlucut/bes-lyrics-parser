@@ -5,21 +5,31 @@ Isuse noi copiii {composer: {Nicolae Moldoveanu}, {rcId: {226194}}
 v1,c,v2,c,v3,c,v4,c
 
 [v1]
-Isuse, noi, copiii, cu dragoste venim
-dorim cu bucurie în cor să Te slăvim!
+Isuse, noi, copiii,
+cu dragoste venim
+dorim cu bucurie
+în cor să Te slăvim!
 
 [c]
-În cor cântăm cu toții, în cor cântăm, în cor,
-Mărire Ție, Doamne, iubit Mântuitor!
+În cor cântăm cu toții,
+în cor cântăm, în cor,
+Mărire Ție, Doamne,
+iubit Mântuitor!
 
 [v2]
-Veniți, copii, cu toții, veniți să-L lăudăm,
-noi, Domnului din ceruri, în cor, în cor cântăm.
+Veniți, copii, cu toții,
+veniți să-L lăudăm,
+noi, Domnului din ceruri,
+în cor, în cor cântăm.
 
 [v3]
-Din gura noastră, Doamne, Tu laude să-Ți scoți,
-să Te slăvim pe Tine, în cor, copiii toți.
+Din gura noastră, Doamne,
+Tu laude să-Ți scoți,
+să Te slăvim pe Tine,
+în cor, copiii toți.
 
 [v4]
-Osana, slavă Ție, în cer și pe pământ,
-cântăm cu bucurie, în cor, Isuse sfânt.
+Osana, slavă Ție,
+în cer și pe pământ,
+cântăm cu bucurie,
+în cor, Isuse sfânt.

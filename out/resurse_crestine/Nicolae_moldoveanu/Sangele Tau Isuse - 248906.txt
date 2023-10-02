@@ -1,0 +1,38 @@
+[title]
+Sangele t~au isuse {composer: {Nicolae Moldoveanu}, {rcId: {248906}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v4,c
+
+[v1]
+Sângele Tău, Isuse,
+m-apropie mereu
+/: de locul sfânt în care
+se află Dumnezeu. :/
+
+[c]
+Sângele Tău, sângele Tău,
+m-adăpostește de-orice rău
+Isuse, sângele Tău.
+
+[v2]
+Sângele Tău, Isuse,
+îmi curăță deplin
+/: a cugetului pată
+și-al gândului venin. :/
+
+[v3]
+Sângele Tău, Isuse,
+m-ascunde-n ceas amar
+/: să nu m-ajungă spada
+vrăjmașului hoinar. :/
+
+[v4]
+Sângele Tău, Isuse,
+mă leagă fericit
+/: de toți ai Tăi pe care
+prin har i-ai mântuit. :/
+Sângele Tău, Isuse,
+să-mi fie necurmat
+/: și adăpost și viață
+prin lumea de păcat. :/

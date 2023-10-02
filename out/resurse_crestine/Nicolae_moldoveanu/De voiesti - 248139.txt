@@ -1,0 +1,45 @@
+[title]
+De voiesti {composer: {Nicolae Moldoveanu}, {rcId: {248139}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+De voiești, de voiești,
+Adevărul să-l găsești,
+Sunetul să-ți ușurezi,
+Calea dreaptă s-o urmezi
+Să ai viață făr-apus,
+Vino astăzi la Isus.
+El îți dă, El îți dă,
+Pacea Lui cea de nespus!
+
+[v2]
+Ușurat, ușurat,
+De ispite și păcat,
+Zboru-ți este mai ușor
+Dorul tot mai arzător,
+Cugetul mai liniștit,
+Duhul blând și odihnit;
+Ce plăcut, ce plăcut,
+Să trăiești neprihănit!
+
+[v3]
+Când veghezi, când veghezi,
+Poți să lupți, să ’naintezi,
+Poți să birui mai deplin,
+Toate relele ce vin,
+Poți să cânți și să iubești
+Și dreptatea s-o-mplinești.
+Lui Isus, lui Isus
+Doar veghind poți să-I slujești.
+
+[v4]
+Veșnicii, veșnicii,
+Fericit tu ai să fii,
+Când statornic vei păstra
+Voia Lui în viața ta,
+Pân-Ia capăt când rămâi
+În iubirea cea dintâi,
+Vei primi, vei primi,
+Cerul dragostei dintâi.

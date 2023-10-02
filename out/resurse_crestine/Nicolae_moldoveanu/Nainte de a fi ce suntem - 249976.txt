@@ -1,0 +1,29 @@
+[title]
+Nainte de a fi ce suntem {composer: {Nicolae Moldoveanu}, {rcId: {249976}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Nainte de a fi ce suntem
+eram aceea ce vom fi,
+/: căci moartea nu-i o nimicire,
+ci-i trecerea spre-o altă zi. :/
+
+[v2]
+Când trupul ni se va re-ntoarce
+în lutul unde-ntâi era,
+/: nu dispărem, ci-n altă formă
+viața veșnic vom urma. :/
+
+[v3]
+Nu-i nimicire moartea noastră,
+nu-n veci vom fi înmormântați,
+/: ci semănați spre-o altă viață
+în ea noi vom intra-nviați. :/
+
+[v4]
+Trăiți frumos, urmând credinței,
+nimica nu sfârșește-acum,
+/: mormântul nu-i o nimicire,
+ci-un scurt popas pe-un veșnic drum. :/

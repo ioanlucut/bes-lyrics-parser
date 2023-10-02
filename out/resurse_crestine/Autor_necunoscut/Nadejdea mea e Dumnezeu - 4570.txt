@@ -2,7 +2,7 @@
 Nadejdea mea e dumnezeu {composer: {Anonim}, {rcId: {4570}}
 
 [sequence]
-v1,v2,v3,v4,v5,v6
+v1,v2,v3,v4,v5,v6,v7
 
 [v1]
 Nădejdea mea e Dumnezeu
@@ -51,3 +51,11 @@ Eu am aflat în Creator
 Tu mi-ai dat lacrima de dor
 Să Te iubesc, să mă-nfior
 Și să-Ți aștept venirea :/
+
+[v7]
+O, vino, Doamne mai curând,
+O, vino mai degrabă!
+/: Te-așteaptă mireasa plângând,
+În nopți de veghe așteptând
+Să vi s-o iei de pământ,
+S-o duci cu Tine-n slavă :/

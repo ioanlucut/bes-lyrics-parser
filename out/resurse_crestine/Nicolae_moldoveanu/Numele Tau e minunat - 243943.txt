@@ -1,0 +1,49 @@
+[title]
+Numele tau e minunat {composer: {Nicolae Moldoveanu}, {rcId: {243943}}
+
+[sequence]
+v1,c,v2,c,v2,c,v3,c,v4,c
+
+[v1]
+Numele Tău e minunat,
+O, Doamne Sfânt și Mare,
+E-al cerurilor nesecat,
+Izvor de desfătare.
+Mereu mai nou, mai sfânt, mai ’nalț
+Izvor de desfătare
+
+[c]
+Slăvit în veșnic cânt,
+E Numele Tău sfânt,
+Înalt și negrăit Cuvânt,
+/: E Numele Tău sfânt, sfânt, sfânt! :/
+
+[v2]
+Numele Tău dumnezeiesc,
+E Taină și Lumină,
+Nici îngerii nu Ți-l rostesc,
+Ci cântă și se-nchină.
+Când Ți-L aud rostit în Cer,
+Toți îngerii se-nchină!
+Numele Tău e strălucit,
+E-al Cerurilor Soare,
+E pace sfântă, negrăit
+De-adânc odihnitoare;
+Eternă pace, negrăit
+De-adânc odihnitoare!
+
+[v3]
+Numele Tău nebănuit,
+E-avânt și tinerețe,
+E Paradisul nesfârșit,
+De cânt și frumusețe,
+Din care vecii curg spre veci
+În cânt și frumusețe!
+
+[v4]
+Numele Tău Preafericit
+E șoaptă și-alipire,
+Unire de nebiruit,
+Cu veșnica iubire,
+Comoara celor cununați
+Cu veșnica iubire.

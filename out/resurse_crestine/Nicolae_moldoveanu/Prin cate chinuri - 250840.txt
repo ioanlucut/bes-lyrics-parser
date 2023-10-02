@@ -1,0 +1,46 @@
+[title]
+Prin cate chinuri {composer: {Nicolae Moldoveanu}, {rcId: {250840}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Prin câte chinuri am trecut,
+Isuse, până Te-am știut,
+/: pân-am putut și eu striga: :/
+”
+Te cheamă viața mea!”
+
+[c]
+Te cheamă viața mea!
+Isus, Te cheamă viața mea!
+Isus, Isus, Isus, Isus,
+Te cheamă viața mea!”
+
+[v2]
+În deznădejde nimicit,
+străin, între străini sfârșit,
+/: din suflet ruga se-nălța: :/
+”
+Te cheamă viața mea!”
+
+[v3]
+Ocara lumii mă lovi,
+disprețul ei mă copleși,
+/: și frântă inima-mi plângea: :/
+”
+Te cheamă viața mea!”
+
+[v4]
+Dar azi aș vrea să spun mereu
+cum L-am găsit pe Dumnezeu,
+/: cum am strigat în clipa grea: :/
+”
+Te cheama viața mea!”
+
+[v5]
+De ești și tu căzut și frânt,
+și gemi cu ochii la pământ,
+/: ridică-te și strigă-așa: :/
+”
+Te cheamă viața mea!”

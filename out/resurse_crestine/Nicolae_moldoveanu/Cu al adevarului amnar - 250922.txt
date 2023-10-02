@@ -1,0 +1,45 @@
+[title]
+Cu al adevarului amnar {composer: {Nicolae Moldoveanu}, {rcId: {250922}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Cu al adevărului amnar
+lovește-mi Tu, Isus, cuvântul.
+/: să scapere scântei de har,
+s-aprindă pentru cer pământul. :/
+
+[c]
+Isus, Isus!
+s-aprindă pentru cer pământul.
+
+[v2]
+Cu al ascultării duh sfințit
+cuprinde-mi Tu, Isus, viața,
+/: s-arate-n totul, limpezit,
+cât de frumoasă Ți-e povața. :/
+
+[c2]
+Isus, Isus!
+cât de frumoasă Ți-e povața.
+
+[v3]
+Cu al umilinței dar nespus
+să-mi umpli Tu, Isus, ființa,
+/: să fiu lumina Ta de Sus,
+ce întărește-n toți credința. :/
+
+[c3]
+Isus, Isus!
+ce întărește-n toți credința.
+
+[v4]
+Cu al proslăvirii cânt ceresc
+să faci ca să-mi vibreze-ntruna
+/: și trup și duh -tot ce simțesc -
+să-Ți fie slava și cununa. :/
+
+[c4]
+Isus, Isus!
+să-Ți fie slava și cununa.

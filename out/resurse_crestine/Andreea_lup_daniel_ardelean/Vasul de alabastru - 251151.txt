@@ -1,0 +1,43 @@
+[title]
+Vasul de alabastru {composer: {Andreea Lup, Daniel Ardelean}, {rcId: {251151}}
+
+[sequence]
+v1,b,c,v2,b2,c2
+
+[v1]
+Nu am nici vas de alabastru,
+Nici mir curat, Stăpânul meu,
+Nici n-am spălat de praf piciorul
+Cu lacrimile dragostei.
+
+[b]
+Eu doar mi-am plâns cu-amar păcatul,
+Care pe cruce Te ținea,
+Și-n loc de vas de alabastru
+Îți dăruiesc inima mea!
+
+[c]
+Iar Tu îmi spui cu vocea Ta
+Că am făcut ceva frumos!
+Tu mă ridici și îmi șoptești:
+„
+Ești prețios!”
+
+[v2]
+Nu am nici vas de alabastru,
+Nici mir de nard, Stăpânul meu,
+Să pot împrăștia parfumul
+Uleiului păstrat în el.
+
+[b2]
+Dar îmi doresc să pot aduce
+Mireasma dragostei de sus,
+S-o răspândesc oriunde-aș merge
+Impregnând viața Ta, Isus!
+
+[c2]
+/: Iar Tu îmi spui cu vocea Ta
+Că pot să fac ceva frumos,
+Vestind mesajul Tău duios:
+„
+Ești prețios!” :/

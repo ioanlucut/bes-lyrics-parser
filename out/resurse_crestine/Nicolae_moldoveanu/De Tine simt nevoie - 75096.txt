@@ -1,0 +1,35 @@
+[title]
+De tine simt nevoie {composer: {Nicolae Moldoveanu}, {rcId: {75096}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+De Tine simt nevoie,
+al inimii Stăpân,
+/: Când valul amenință,
+cum singur să rămân? :/
+
+[v2]
+Cum voi putea eu oare
+la tărmure s-ajung
+/: De nu-mi vei fi Tu pază
+pe drumul greu și lung? :/
+
+[v3]
+În marea-mi slăbiciune,
+Tu ești puterea mea,
+/: În Tine am viața
+și-n Tine-o voi avea. :/
+
+[v4]
+De Tine simt nevoie,
+al vieții mele Dor,
+/: De Tine dulce nume
+și scump Mântuitor. :/
+
+[v5]
+Rămâi pe totdeauna,
+rămâi în viața mea,
+/: De Tine simt nevoie,
+deplin a Te avea! :/

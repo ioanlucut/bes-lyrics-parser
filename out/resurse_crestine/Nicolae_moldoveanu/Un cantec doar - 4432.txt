@@ -1,0 +1,53 @@
+[title]
+Un cantec doar {composer: {Nicolae Moldoveanu}, {rcId: {4432}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Un cântec nou, o-nfiorare nouă
+Prietene răsună-n calea ta
+Vom mai cânta un cântec, poate două
+Dar cine știe cât vom mai cânta!
+
+[c]
+Un cântec nou, o pasăre pribeagă,
+Un porumbel venit din Paradis...
+Noi I-am primit ca pentru-o lume-ntreagă.
+Dar nu știm pentu cine a fost trimis.
+
+[v2]
+Un cântec nou, un fir de ape-n spume
+Aduce de departe un suspin.
+E-un dor înalt ce plânge pentru lume
+Și lacrimile Lui prin cântec vin!
+
+[c2]
+E-un suflet frânt ce-a fost cu noi o dată
+Privind cu milă viața noastră rea
+Și-acum, din cer, El cheamă lumea toată
+Cum trece-n hohot peste jertfa Sa.
+
+[v3]
+Cum trece-n joc, în veselii de baluri,
+Cum strigă în vâltori de carnaval,
+Pe când Isus, privește marea-n valuri
+Și lacrimi cad pe fiecare val.
+
+[c3]
+Mă uit la El, și-n pleoape lacrimi sfarăm,
+Cum se uita tâlharul pe Calvar,
+Căci numai noi tâlharii-L mângâiarăm,
+Și poate tu ești ultimul tâlhar...
+
+[v4]
+Un cântec nou, o-nfiorare nouă,
+Prietene, răsună-n calea ta.
+Vom mai cânta un cântec, poate două,
+Și-odată toate-n cer le vom lua.
+
+[c4]
+Dar ca un vis, și cântecul se curmă
+Și va începe-adevăratul vis!
+O, poate-acesta-i cântecul din urmă
+Și poate pentru tine-a fost trimis.

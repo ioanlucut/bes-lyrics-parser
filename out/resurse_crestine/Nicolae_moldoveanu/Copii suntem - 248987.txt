@@ -1,0 +1,23 @@
+[title]
+Copii suntem {composer: {Nicolae Moldoveanu}, {rcId: {248987}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Copii suntem, dar asta știm
+că multe rele făptuim,
+/: și-avem nevoie tot mereu
+să fim iertați de Dumnezeu. :/
+
+[v2]
+De la părinți am învățat,
+că pentru-al omului păcat,
+/: Isus din ceruri a venit,
+să moară-n lume răstignit. :/
+
+[v3]
+Și moartea Lui să fie-apoi
+un preț plătit și pentru noi.
+/: Să fim din rele mântuiți,
+și-n cer, de Dumnezeu primiți! :/

@@ -1,0 +1,29 @@
+[title]
+Ce repede trec anii {composer: {Maria Luca}, {rcId: {248886}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ce repede trec anii, ce scurt e firul vieții
+Abia ne bucurăm de zorii dimineții,
+Și vine înserarea și noaptea se așterne
+Și încă-o zi se duce și timpul ni se cerne...
+
+[c]
+Dar va veni o clipă, când tu și eu și ea
+Ne vom sfârși umblarea, cu toții vom pleca
+Deci, fiți lumini în lume, fiți raza dimineții
+Căci repede trec anii și scurt e firul vieții!
+
+[v2]
+Ce repede trec anii, mai ieri eram copii
+Purtam în tolbe vise și-n suflet bucurii,
+Apoi în tinerețe am întâlnit iubirea
+Și-am învățat în taină ce-nseamnă fericirea...
+
+[v3]
+Ce repede trec anii, azi păru-i înspicat
+Și trupul ce odată, zburda e aplecat
+Durerea-l înconvoaie, puterile îl lasă
+Și parcă-ar vrea s-ajungă cât mai curând ”acasă”

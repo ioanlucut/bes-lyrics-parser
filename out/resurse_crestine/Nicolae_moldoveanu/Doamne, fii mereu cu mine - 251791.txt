@@ -1,0 +1,41 @@
+[title]
+Doamne fii mereu cu mine {composer: {Nicolae Moldoveanu}, {rcId: {251791}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Doamne, fii mereu cu mine,
+în această noapte grea,
+când vrăjmașul meu se ține
+pas cu pas pe urma mea.
+
+[c]
+Doamne, fii vieții mele
+pază și-adăpost mereu,
+căci primejdii tot mai grele
+simt și văd pe drumul meu.
+
+[v2]
+Sufletul mi-e plin de groază.
+când văd leul cel cumplit,
+fii-mi Tu Păstor și Pază,
+și-Ajutor nedespărțit.
+
+[v3]
+Iată ura-i înfocată
+ne-ncetat ce rău îmi vrea,
+fără Tine, dintr-odată
+mi-ar zdrobi viața mea.
+
+[v4]
+Doamne-acopere-mi privirea
+și auzu-nspăimântat,
+nici să-i văd închipuirea
+nici să-l simt apropiat.
+
+[v5]
+Ține-mă la sânu-Ți dulce,
+apărat de-acest vrăjmaș,
+pân-atunci când mă vei duce
+în Eternul Tău Lăcaș.

@@ -1,0 +1,35 @@
+[title]
+Voi cei iubiti de domnul {composer: {Nicolae Moldoveanu}, {rcId: {250051}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Voi cei iubiți de Domnul,
+în cinstea Lui cântați,
+cu flacăra iubirii
+/: mărirea I-o-nălțați! :/
+
+[c]
+Cântați, cântați în cinstea Stăpânului Preasfânt,
+El este Creatorul a toate câte sunt!
+Cântați, cântați cântare de laudă și jar.
+Lui Dumnezeu, Izvorul de dragoste și har!
+
+[v2]
+Năltați-I harul veșnic,
+nălțați-I sfântul fel.
+nălțați eterna-I jertfă,
+/: cântați toți pentru El :/
+
+[v3]
+Căci vrednic, vrednic este
+de laudă mereu,
+Slăvitul nostru Tată.
+/: al vieții Dumnezeu! :/
+
+[v4]
+Prin cântecele noastre.
+prin tot ce El ne-a dat.
+să-L lăudăm de-a purui
+/: Să fie lăudat :/

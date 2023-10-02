@@ -1,0 +1,35 @@
+[title]
+In sfanta asteptare {composer: {Nicolae Moldoveanu}, {rcId: {250176}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+În sfântă așteptare
+trăim, Isus, și noi,
+spre clipa Ta cea mare
+de har și vremuri noi.
+/: Te așteptăm, o, Mire,
+Te așteptăm pe nori;
+Pe aripi de iubire
+la Tine să ne zbori. :/
+
+[v2]
+Te așteptăm, o, Soare,
+al inimilor Crin,
+să vii din depărtare,
+din cerul Tău divin,
+/: ca să ne iei la Tine,
+de-orice poveri scăpați,
+din bine spre mai bine
+de mâna Ta purtați. :/
+
+[v3]
+Te așteptăm, Izvorul
+vieții veșnic sfânt,
+cu Tine Viitorul
+e numai har și cânt.
+/: O, slavă, slavă Ție,
+Isuse, Mire drag,
+cântăm cu bucurie
+al vecilor șirag. :/

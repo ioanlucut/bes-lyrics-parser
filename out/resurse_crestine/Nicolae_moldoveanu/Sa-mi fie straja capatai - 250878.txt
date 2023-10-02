@@ -1,0 +1,36 @@
+[title]
+Sa-mi fie straja capatai {composer: {Nicolae Moldoveanu}, {rcId: {250878}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Să-mi fie strajă căpătâi
+lumina Cărții Tale,
+/: din ziua sfântă cea dintâi
+pân-la sfârșit pe cale. :/
+
+[c]
+Cartea sfântă, Cartea vie,
+Cartea Ta, Isus Hristos,
+Tu mi-ai dat-o ca să-mi fie
+candelă de drumeție
+înspre cerul Tău frumos.
+
+[v2]
+Asemeni unui curcubeu
+prevestitor de pace,
+/: furtuna sufletului meu
+Cuvântul Tău mi-o-mpace. :/
+
+[v3]
+Căci ca un sol din alt ținut,
+Cuvântul Tău de soare,
+/: tot sufletul mi l-a umplut
+cu vestea de iertare. :/
+
+[v4]
+De-atunci, Isuse, eu nu știu
+mai dulce bucurie,
+/: decât s-ascult Cuvântul viu,
+izvor spre veșnicie. :/

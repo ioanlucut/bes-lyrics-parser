@@ -1,0 +1,50 @@
+[title]
+Nici un soare {composer: {Nicolae Moldoveanu}, {rcId: {250781}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Nici un soare nu-i pe lume
+să te lumineze-așa,
+ca privirea mamei bune
+în întunecarea ta.
+Mamei bune, mamei bune,
+ca privirea mamei bune
+în întunecarea ta.
+
+[v2]
+Nici un foc nu este-n lume
+să te încălzească-așa,
+ca iubirea mamei bune,
+în nefericirea ta.
+Mamei bune, mamei bune
+ca iubirea mamei bune
+în nefericirea ta.
+
+[v3]
+Nici un cântec nu-i pe lume
+să te-nvioreze-așa,
+ca urarea mamei bune
+în sărbătorirea ta.
+Mamei bune, mamei bune,
+ca urarea mamei bune
+în sărbătorirea ta.
+
+[v4]
+Nici putere nu-i pe lume
+să te mai ajute ca
+rugăciunea mamei bune
+în înstrăinarea ta.
+Mamei bune, mamei bune
+rugăciunea mamei bune
+în înstrăinarea ta.
+
+[v5]
+Prețuiește-o, căci pe lume
+doar o mamă poți avea.
+Ei îi ești dator iubirea
+cât ești tu și cât e ea.
+Mamei bune, mamei bune,
+ei îi ești dator iubirea
+cât ești tu și cât e ea.

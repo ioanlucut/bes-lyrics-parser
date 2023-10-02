@@ -1,0 +1,29 @@
+[title]
+Din el prin el {composer: {Anonim}, {rcId: {248038}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+/: Din El prin El și pentru El
+Sunt toate lucrurile :/ X3
+
+[c]
+/: A Lui să fie gloria :/
+X3
+În veci de veci Amin
+
+[v2]
+Du-mă Doamne în Sfânta-Ți Prezență
+Du-mă Doamne prin Sângele-Ți sfânt
+Du-mă Doamne în Sfânta-Ți Prezență
+/: Ia cărbunele, atinge-mi buzele
+Iartă-mă :/
+
+[c2]
+Tu ești Sfânt, Sfânt, Sfânt și Atotputernic
+Înaintea Ta Doamne mă închin
+Tu ești Sfânt, Sfânt, Sfânt și Atotputernic
+/: Ia cărbunele, atinge-mi buzele
+Iartă-mă :/
+Ordine: 1-R1-1-R1-2-R2

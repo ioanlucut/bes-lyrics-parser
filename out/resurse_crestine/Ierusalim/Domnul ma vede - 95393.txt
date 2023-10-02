@@ -5,27 +5,27 @@ Domnul ma vede {composer: {Ierusalim}, {rcId: {95393}}
 v1,c,v2,c2
 
 [v1]
-Într-o lume disperată, de-ntuneric înhățată
-Sunt cuprins de-ngrijorare, și nu văd nici o scăpare
-Să mă uite Domnul oare, să nu vad-a mea-ncercare
-S-ar putea să nu m-audă, s-ar putea să se ascundă
+Într-o lume disperată, de-ntuneric înhățată,
+Sunt cuprins de-ngrijorare, și nu văd nici o scăpare.
+Să mă uite Domnul oare, să nu văd-a mea-ncercare,
+S-ar putea să nu m-audă, s-ar putea să se ascundă?
 
 [c]
 Domnul mă vede, chiar dacă eu nu-L văd
-Și spun că singur sunt in luptă, că El m-a părăsit
-Dar când mă uit mai bine, în încercarea mea
-Observ că ceea ce mă ține, e doar puterea Sa
+Și spun că singur sunt in luptă, că El m-a părăsit;
+Dar când mă uit mai bine, în încercarea mea,, 
+Observ că ceea ce mă ține, e doar puterea Sa.
 
 [v2]
-Suflet drag ce-asculți cântarea, și te crezi de El uitat
-Ridică-ți spre cer privirea, ca să poți fi ajutat
-Dă-i lui Isus astăzi mâna, si pășește prin credință
-Mergi pe calea Domnului, prin puterea Duhului
+Suflet drag ce-asculți cântarea, și te crezi de El uitat,
+Ridică-ți spre cer privirea, ca să poți fi ajutat.
+Dă-i lui Isus astăzi mâna si pășește prin credință,
+Mergi pe calea Domnului, prin puterea Duhului.
 
 [c2]
 /: Domnul te vede, chiar dacă tu nu-L vezi
-Și spui că singur ești in luptă, că El te-a părăsit
+Și spui că singur ești în luptă, că El te-a părăsit,
 Dar când te uiți mai bine, în încercarea ta
-Observi că ceea ce te ține, e doar puterea Sa :/
-/: E doar puterea Sa :/
+Observi că ceea ce te ține, e doar puterea Sa, :/
+/: E doar puterea Sa. :/
 x3

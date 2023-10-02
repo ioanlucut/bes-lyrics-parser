@@ -1,0 +1,25 @@
+[title]
+Bate bate domnul la usa ta {composer: {The Messengers}, {rcId: {96939}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Mâna de pe cruce, cu semnul învierii la inimi zăvorâte bate
+Porunca pocăinței cu dragoste te cheamă, prin Evanghelie ea bate
+
+[c]
+/: Bate, bate Domnul la ușa ta,
+Zăvorul inimii e-n mâna ta
+Cerul ar fi fi mai gol fără de Tine
+Lasă-l pe Isus în viața ta :/
+
+[v2]
+S-au dus două milenii ca două zile-n noapte
+Și ceasul revenirii bate pentru veșnicie
+Decizia-ți aparține, Isus cu îndurare bate
+
+[e]
+Isus te cheamă, El te iubește
+/: Deschide inima :/
+/: Isus bate la inima ta :/

@@ -1,0 +1,36 @@
+[title]
+La casuta {composer: {Nicolae Moldoveanu}, {rcId: {251560}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+La căsuța unde-i neaua până-n tindă,
+vine Fiul Dulce Singur și colindă.
+
+[c]
+Lerui, Doamne, ler,
+Eu cu drag din cer,
+vin pe orice ger,
+lângă cel stingher,
+- lerui, Doamne, ler.
+
+[v2]
+Lângă geamul unde lampa nu se-aprinde,
+vine Fiul Dulce Singur să colinde:
+
+[v3]
+Lângă ușa unde nimeni nu oprește,
+Vine Fiul Dulce Singur și grăiește:
+
+[v4]
+Lângă vatra rece unde nu-i o rază,
+vine Fiul Dulce Singur și Se-așează.
+
+[v5]
+Lângă plânsul singur, fără liniștire,
+vine Fiul Dulce șoaptă de iubire.
+
+[v6]
+Lângă dorul singur, fără sărbătoare,
+vine Fiul Dulce har și-mbrățișare.

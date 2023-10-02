@@ -1,0 +1,24 @@
+[title]
+Eu am un creator {composer: {Anonim}, {rcId: {251497}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+/: Eu am un Creator
+ce viață mi-a dat.
+’
+Nainte să fi fost,
+eram în Mâna Sa. :/
+
+[c]
+/: Îmi știe numele,
+Îmi știe orice gând.
+Îmi vede lacrima,
+M-aude-atunci când strig.
+
+[v2]
+/: Eu am un Tată bun,
+ce m-a salvat
+Și niciodată El
+nu mă va lăsa. :/

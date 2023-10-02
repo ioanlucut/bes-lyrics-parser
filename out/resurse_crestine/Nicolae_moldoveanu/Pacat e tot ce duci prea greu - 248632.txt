@@ -1,0 +1,41 @@
+[title]
+Pacat e tot ce duci prea greu {composer: {Nicolae Moldoveanu}, {rcId: {248632}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Păcat e tot ce duci prea greu
+Și prea-n zadar și prea gemând,
+Când zborul larg spre Dumnezeu
+Te-ar vrea așa de-aprins, luptând.
+
+[c]
+Păcat e tot ce crezi din vis, din piept,
+Din piept, din timp și din priviri,
+Pe-un drum străin de Paradis
+Și de-nțeleptele trăiri.
+
+[v2]
+Păcat e tot ce-ascunzi sub gând
+Sau sub cuvânt, sau sub condei,
+Ce nu-i păcat înalți cântând,
+Curat când dai, curat când iei.
+
+[c2]
+Păcat e tot ce nu-i folos
+Și nu-i senin și nu-i curat,
+Ce nu-i făcut pentru Hristos
+Păcat e tot, păcat, păcat.
+
+[v3]
+Păcat e tot ce nu-i supus
+Lui Dumnezeu cu duh voios
+Păcat e tot ce nu-i adus
+Din rădăcina lui Hristos.
+
+[c3]
+Păcat e tot ce-i greu și-amar,
+Dar dintre toate, cel mai greu,
+E râsul aruncat spre har
+Și pumnu-ntors spre Dumnezeu.

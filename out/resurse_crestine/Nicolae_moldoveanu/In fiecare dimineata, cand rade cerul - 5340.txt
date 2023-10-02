@@ -1,0 +1,37 @@
+[title]
+In fiecare dimineata cand rade cerul {composer: {Nicolae Moldoveanu}, {rcId: {5340}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+/: În fiecare dimineață, :/
+când râde cerul luminos,
+/: în fiecare zi din viață :/
+sunt fericit că sunt al lui Hristoss,
+sunt fericit, sunt fericit,
+sunt fericit că sunt al lui Hristos.
+
+[v2]
+/: În fiecare zi senină, :/
+când mii de flori aduc prinos,
+/: mi-e inima de cântec plină :/
+și-s fericit că sunt al lui Hristos.
+Și-s fericit, și-s fericit,
+și-s fericit că sunt al lui Hristos.
+
+[v3]
+/: În fiecare clipă sfântă :/
+plutind ca vântul mângâios,
+/: întregu-mi dor spre zări se-avântă, :/
+și-s fericit că sunt al lui Hristos,
+și-s fericit, și-s fericit,
+și-s fericit că sunt al lui Hristos.
+
+[v4]
+/: Căci dacă anii vieții zboară, :/
+și cer senin de-a pururi nu-i,
+/: dar Domnul meu e-o primăvară, :/
+când fericit voi fi mereu al Lui,
+când fericit, când fericit,
+când fericit voi fi mereu al Lui.

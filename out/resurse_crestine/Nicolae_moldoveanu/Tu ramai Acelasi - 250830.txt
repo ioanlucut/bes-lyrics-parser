@@ -1,0 +1,29 @@
+[title]
+Tu ramai acelasi {composer: {Nicolae Moldoveanu}, {rcId: {250830}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Tu rămâi Același, Dumnezeul meu,
+Tu rămâi Același, cum ai fost, mereu.
+Tu rămâi Același: drept și iubitor,
+gata spre iertare, gata spre-ajutor.
+
+[c]
+La Tine, vin, la Tine vin
+cu viața mea mereu,
+s-o curățești deplin, deplin,
+o, dulce Tatăl meu.
+
+[v2]
+Tu rămâi Același: Credincios și sfânt,
+Tu nu poți să-Ți lepezi sfântul Legământ.
+Tu rămâi Același plin de haruri, plin,
+gata spre-ndreptare, gata spre alin.
+
+[v3]
+Tu rămâi Același Tată preaiubit,
+neschimbat în planul Tău desăvârșit.
+Mersul Tău în toate-i dulce și tăcut,
+vei sfârși și-n mine tot ce-ai început.

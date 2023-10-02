@@ -1,0 +1,39 @@
+[title]
+Ca astazi sa putem canta {composer: {Nicolae Moldoveanu}, {rcId: {250913}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ca astăzi să putem cânta,
+În stare nouă slava Ta,
+și să putem primi în dar
+al vieții nesfârșite har.
+Tu Te-ai jertfit, Isuse!
+
+[c]
+Pe Tine Te-a costat nespus
+tot harul ce ni l-ai adus.
+/: Naintea Ta, Isus, venim
+și ne-nchinăm și-Ti mulțumim! :/
+
+[v2]
+Ca pentru veci de veci să fim
+copii ai Tatălui Sublim,
+și dragostea s-o învățăm,
+cum s-a primim și cum s-o dăm,
+Tu Te-ai jertfit, Isuse!
+
+[v3]
+Ca să cunoaștem fericit
+al adevărului zenit,
+și-n Trupul Tău să fim primiți
+desăvârșit, pe veci uniți,
+Tu Te-ai jertfit, Isuse!
+
+[v4]
+Tot ce-am putea nădăjdui,
+tot Raiul care va veni,
+tot binecuvântatul har
+ne dai Tu fără stăvilar,
+prin jertfa Ta, Isuse!

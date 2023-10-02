@@ -1,0 +1,41 @@
+[title]
+Nu vrea cantarea mea sa fie {composer: {Nicolae Zamfir}, {rcId: {251392}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Nu vreau cântarea mea sa fie
+Un imn ceresc, dar fără har
+Eu vreau ca frați mei să știe
+Atunci eu cânt, dar în zadar
+
+[v2]
+Nu vreau lucrarea mea să fie
+Ca să se arate eul meu
+Ci vreau o Doamne ca să fie
+Slăvit în veci numele Tău
+
+[v3]
+Nu vreau să mi se-auduca mie
+Osana, salavă sau urări
+Eu vreau a Domnului Isus
+Sa fie salva în adunări
+
+[v4]
+Nu vreau ca eu sa fiu ’nălțat
+Pentru ce fac, sau ce nu fac
+Eu vreau ca numele Isus
+Să fie înălțat în veac
+
+[v5]
+Nu vreau inima mea să fie
+Decât a Domnului din cer
+Iubirea ei să nu mai știe
+Iubi nimic, mai mult ca El
+
+[v6]
+Nu vreau a lumi bogație
+Nu pentru asta m-am luptat
+Comoara mea, Isus să fie
+Cu El, eu sunt cel mai bogat

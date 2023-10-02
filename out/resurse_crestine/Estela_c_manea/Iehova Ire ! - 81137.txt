@@ -6,11 +6,11 @@ v1,v2,v3
 
 [v1]
 /: Iehova Ire!
-Eu mă-ncred în Brațul Tău
-/: Cel Sfânt :/ ×3
+Eu mă-ncred în brațul Tău
+/: Cel sfânt! :/ ×3
 Iehova Ire!
 Eu mă-ncred
-În Brațul Tău cel Sfânt :/
+În brațul Tău cel sfânt! :/
 
 [v2]
 Tu încununezi anul
@@ -19,12 +19,12 @@ Cu bunătățile Tale
 Și-n fiecare clipă-ai Tăi
 /: Copii :/ ×3
 ’
-N fiecare zi ai Tăi copii
+N fiecare zi ai Tăi copii.
 
 [v3]
 Azi Îl lăudăm cu toți
-Pentru-ndurarea-I cea mare
-Fie-I în veci Numele lăudat
-Anu-ntreg l-a binecuvântat,
+Pentru-ndurarea-I cea mare,
+Fie-I în veci Numele lăudat!
+Anu-ntreg l-ai binecuvântat,
 Fii lăudat!
 Anu-ntreg l-ai binecuvântat.

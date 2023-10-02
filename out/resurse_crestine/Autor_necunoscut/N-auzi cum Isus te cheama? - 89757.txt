@@ -1,0 +1,35 @@
+[title]
+N-auzi cum isus te cheama? {composer: {Anonim}, {rcId: {89757}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+N-auzi cum Isus te cheamă?
+O, de ce nu vrei să vii?
+Ori de câte ori te cheamă
+Tu te-mpotrivesti să vii!
+
+[c]
+Inima larg ți-o deschide
+Ca Isus să intre în ea,
+Ca să intre Domnul slavei,
+Grăbește, nu-ntârzia!
+
+[v2]
+Pentru lume și păcate
+Inima-ți găsește loc,
+Numai pentru Domnul slavei
+Nu găsești tu nici un loc.
+
+[v3]
+Acum Isus bate, bate,
+O, deschide-I ușa frate,
+Și vei avea fericire,
+Fericire-ntr-adevăr
+
+[v4]
+Azi e ziua mântuirii,
+Nu te bizui pe mâine!
+Vezi cum trece, trece vremea
+Și-ncă ești nemântuit.

@@ -1,0 +1,27 @@
+[title]
+Vrabiuta tup tup tup {composer: {Nicolae Moldoveanu}, {rcId: {5126}}
+
+[sequence]
+v1,c,v3,c2
+
+[v1]
+Vrăbiuța țup, țup, țup
+Ce micuță e la trup
+Când înghite câte o boabă
+Zboară tot mai sus degrabă.
+
+[c]
+Tot așa, tot așa
+Zbori și tu în cer ca ea.
+
+[v3]
+Vrăbiuța din zăvoi
+E și iarna pe la noi,
+Rândunica, mititica,
+De zăpadă o ia frica,
+Ea, drăguța dă fuguța
+Și rămâne vrăbiuța.
+
+[c2]
+Tot așa, tot așa
+Vreau să fiu și eu ca ea.

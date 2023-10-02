@@ -1,0 +1,35 @@
+[title]
+Celor ce razbesc-nainte {composer: {Nicolae Moldoveanu}, {rcId: {248512}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Celor ce răzbesc-nainte,
+Laude și-ncurajări,
+/: Pentru jertfa lor fierbinte,
+Noi izbânzi și noi cântări. :/
+
+[v2]
+Celor ce-și păstrează una
+Calea și credința lor,
+/: Bucuria și cununa
+Până-n veacul viitor. :/
+
+[v3]
+Celor ce și-nfrânți se! uptă
+Și zdrobiți cred ne-nfricat,
+/: O cinstire ne-ntreruptă
+Și un nume neuitat. :/
+
+[v4]
+Binecuvântare vouă,
+Minunați biruitori,
+/: În eterna Viață nouă,
+Să luciți ca mii de sori! :/
+
+[v5]
+Slavă Celui ce prin moarte
+V-a facut de neînvins,
+/: Fruntea voastră-n veci să poarte
+Sfântu-i Nume necuprins. :/

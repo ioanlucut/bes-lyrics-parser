@@ -1,0 +1,54 @@
+[title]
+Doamne suferinta mea {composer: {Anonim}, {rcId: {90364}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+Doamne, suferința mea
+Nu mi-o știe nimenea.
+/: N-am cui spune al meu necaz,
+N-am cui spune al meu necaz,
+Nimeni nu m-ascultă azi. :/
+
+[v2]
+Doamne, eu te chem cu dor
+În așternut să Te cobori,
+/: Să-mi ștergi lacrima pe obraz,
+Să mai speli inimi ce zac,
+Pe toate, le fă, Doamne, azi! :/
+
+[v3]
+Când eram în disperare,
+Mi-a ieșit Isus in cale,
+/: Mi-a ridicat povoara grea,
+Mi-a dat mângăierea Sa,
+Atunci a fost chemarea mea. :/
+
+[v4]
+El e singurul pe lume
+Ce nu-i rușine cu mine.
+/: Nu s-a uitat la fața mea,
+Ci mi-a cerut doar inima,
+Atunci a fost chemarea mea. :/
+
+[v5]
+Doamne, mai am o dorință
+Și te rog cu umilință
+/: Să mă ajuti mereu să-Ți cânt
+Cât voi trăi pe-acest pământ,
+Și-apoi în cerul Tău prea sfânt! :/
+
+[v6]
+Iar când pe nori vei veni
+Ca să-i iei pe-ai tăi copii,
+/: Să-Ți ridici mireasa Ta
+Ca să deschidă ușa,
+Să intru la nunta Ta :/
+
+[v7]
+Să-mi albești haina de nuntă
+Și după mine Te uită.
+/: Te rog, până atuncia,
+Să-mi umpli candela mea
+Să nu-mi fie-n zadar lupta. :/

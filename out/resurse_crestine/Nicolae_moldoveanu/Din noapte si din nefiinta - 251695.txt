@@ -1,0 +1,45 @@
+[title]
+Din noapte si din nefiinta {composer: {Nicolae Moldoveanu}, {rcId: {251695}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Din noapte și din neființă,
+născut de-al Tău Cuvânt divin,
+mișcat de-a Domnului dorință,
+/: spre Tine vin! :/
+
+[c]
+/: Isuse, fă-mă să-mi găsesc,
+În Tine tot ce-mi mai doresc :/
+
+[v2]
+Din îndoieli și frământare,
+dorind dup-un adânc alin,
+flămând de-un țel și-o-ncredințare,
+/: spre Tine vin! :/
+
+[v3]
+Din greutăți și suferință,
+dezmoștenit și pelerin,
+răzbind cu greu din necredință,
+/: spre Tine vin! :/
+
+[v4]
+Din întristări și slăbiciune,
+de bănuieli și temeri plin,
+mereu cu-amară rugăciune,
+/: spre Tine vin! :/
+
+[v5]
+Din amăgire și căință,
+sătul de fiere și venin,
+cu cea din urmă năzuință,
+/: spre Tine vin! :/
+
+[v6]
+Din vis și din deșertăciune,
+despovărat de-al cărnii chin,
+sfințit de-a Golgotei minune,
+/: spre Tine vin! :/

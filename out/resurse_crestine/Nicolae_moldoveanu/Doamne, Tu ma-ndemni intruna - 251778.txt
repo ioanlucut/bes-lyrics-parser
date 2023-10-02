@@ -1,0 +1,35 @@
+[title]
+Doamne tu ma-ndemni intruna {composer: {Nicolae Moldoveanu}, {rcId: {251778}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+/: Doamne, Tu mă-ndemni întruna, :/
+/: să țin calea Ta cea una, :/
+/: să alerg pe ea cu spor
+și pe soare și pe nor. :/
+
+[v2]
+/: Tu mă-ndemni cu duioșie, :/
+/: să țin calea Ta cea vie; :/
+/: să nu mă abat din ea
+de-i senin, ori vreme grea. :/
+
+[v3]
+/: Tu mă-ndemni cu stăruință, :/
+/: să-Ți țin calea cu credință, :/
+/: să nu obosesc mergând,
+nici în faptă, nici în gând. :/
+
+[v4]
+/: Tu mă-ndemni cu-nflăcărare, :/
+/: să țin calea Ta de soare, :/
+/: să nu-mi stingă sfântul jar
+nici cu dulce, nici cu-amar. :/
+
+[v5]
+/: Doamne-n mine pune, pune :/
+/: toate-ndemnurile bune, :/
+/: numai calea Ta s-aleg
+și să merg pe ea întreg. :/

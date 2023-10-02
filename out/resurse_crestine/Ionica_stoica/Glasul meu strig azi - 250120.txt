@@ -1,0 +1,33 @@
+[title]
+Glasul meu strig azi {composer: {Ionică Stoica}, {rcId: {250120}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Glasul meu strigă azi: ”
+Aleluia„
+glasul meu Îi dă slavă mereu.
+Îl ador, Îl iubesc pe Mesia,
+A murit răstignit în locul meu.
+
+[c]
+/: Îl ador și Îl săvesc, cu Isus vreau să trăiesc,
+cu Acela ce crucea mi-a purtat.
+Osanale-i voi cânta,
+până la venirea Sa,
+Glorie, Glorie, Aleluia :/
+
+[v2]
+Glasul meu strigă azi: ”
+Maranata„
+glasul meu laudă tot mereu,
+pe Acelui ce aduce măntuirea.
+Pe Isus l-am ales ca Domn al meu
+
+[v3]
+Glasul meu strigă azi: ”
+Osanale„
+glasul meu laudă zi de zi.
+Te-așteptăm ca să vii Isuse Doamne,
+să ne duci sus în slavă-n veșnicii

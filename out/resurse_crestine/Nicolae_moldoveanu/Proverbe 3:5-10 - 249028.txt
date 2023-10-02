@@ -1,0 +1,29 @@
+[title]
+Proverbe :- {composer: {Nicolae Moldoveanu}, {rcId: {249028}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+V5: O, încrede-te în Domnul, tu din inima ta toată,
+iar pe-a ta înțelepciune nu te bizui vreodată.
+
+[v2]
+V6: Recunoaște-L în a tale toate căile sub soare,
+căci El netede-ți va face drumurile și ușoare.
+
+[v3]
+V7: Nu te socoti tu singur înțelept - ci-n toate cele
+teme-te mereu de Domnul și te-abate de la rele.
+
+[v4]
+V8: Căci aceasta-ți va aduce în tot trupul sănătate,
+răcorire-ți va aduce oaselor înviorate.
+
+[v5]
+V9: Să cinstești mereu pe Domnul cu-ale tale-averi cinstite,
+și cu cele dintâi roade din venitul tău primite.
+
+[v6]
+V10: C-atunci din belșug grânarul fi-ți-va plin în orice vreme,
+și-ale tale teascuri pline de belșug de must vor geme.

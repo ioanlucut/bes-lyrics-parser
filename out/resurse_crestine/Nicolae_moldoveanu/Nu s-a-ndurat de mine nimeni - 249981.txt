@@ -1,0 +1,38 @@
+[title]
+Nu s-a-ndurat de mine nimeni {composer: {Nicolae Moldoveanu}, {rcId: {249981}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Nu s-a-ndurat de mine nimeni;
+atuncea când am fost căzut,
+/: ci numai Tu, Isuse, Doamne,
+/: cu ochiul milei m-ai văzut! :/
+
+[c]
+Isuse, Isuse!
+
+[v2]
+Tu Te-ai plecat cu bunătate
+în țărnă și m-ai ridicat,
+/: iar rănile usturătoare
+/: mi le-ai spălat și le-ai legat. :/
+
+[v3]
+Tu m-ai adus în casa caldă
+a harului nemaisfârșit,
+/: și mi-ai făcut un loc la masă
+/: cu Tine-alături, fericit! :/
+
+[v4]
+Tu mi-ai împodobit ființa
+cu tot ce are cerul sfânt,
+/: și-ai încheiat, prin jertfa crucii,
+/: cu mine-un veșnic Legământ! :/
+
+[v5]
+Îți mulțumesc cu foc și lacrimi,
+fii veșnic binecuvântat,
+/: Isuse, că-n iubirea-Ți dulce
+/: de mine Tu Te-ai îndurat! :/

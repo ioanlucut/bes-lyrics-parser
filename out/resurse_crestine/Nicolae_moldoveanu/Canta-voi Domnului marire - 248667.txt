@@ -1,0 +1,39 @@
+[title]
+Canta-voi domnului marire {composer: {Nicolae Moldoveanu}, {rcId: {248667}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Cânta-voi Domnului mărire,
+Cânta-voi Lui, cânta-voi Lui,
+pentru deplina mântuire,
+cânta-voi Lui, cânta-voi Lui!
+/: A mea cântare,
+În sărbătoare,
+O voi ’nălța mereu
+Spre slava Domnului,
+Cânta-voi Numele Său mare,
+Cânta-voi Lui, cânta-voi Lui! :/
+
+[v2]
+Cânta-voi dragostea divină,
+O voi cânta, o voi cânta,
+Căci mi-a adus a ei lumină,
+O voi cânta, o voi cânta!
+/: Cu stăruință
+Și cu credință,
+Iubirea-n cântec pururea o voi ’nălța
+Cântarea ei e biruință,
+O voi cânta, o voi cânta! :/
+
+[v3]
+Cânta-voi Jertfa preasfințită,
+O voi cânta, o voi cânta,
+Prin ea mi-e viața-ndreptățită,
+O voi cânta, o voi cânta!
+A mea-nfiere
+Și mângâiere
+Mi-a câștigat-o Domnul sus pe Golgota,
+Cânta-voi marea Lui putere,
+O voi cânta, o voi cânta!

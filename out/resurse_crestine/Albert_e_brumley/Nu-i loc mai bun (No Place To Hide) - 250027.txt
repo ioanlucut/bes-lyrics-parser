@@ -1,0 +1,29 @@
+[title]
+Nu-i loc mai bun (no place to hide) {composer: {Albert E. Brumley, Traducere RO}, {rcId: {250027}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Unde să fug când sufletul meu plânge?
+Decât la cruce, la Calvar;
+Nu-i loc mai bun când trec plin clipe grele
+Decât la Tine, Domnul meu!
+
+[c]
+Unde să fug când valul mă lovește?
+Nimeni n-aude glasul meu;
+Nu-i loc mai bun, păzit de orice rău
+Decât la Tine, Domnul meu!
+
+[v2]
+Cum să m-ascund de groaza grea a nopții?
+În întristări, nicicând să cad;
+Nu-i loc mai bun când mulți mă dau uitării
+Decât la Tine, Domnul meu!
+
+[v3]
+Nu-i nimeni să-mi audă plânsul noaptea
+Nici să mă mângâie-n necaz;
+Nu-i loc mai bun atunci când vine moartea
+Decât la Tine, Domnul meu!

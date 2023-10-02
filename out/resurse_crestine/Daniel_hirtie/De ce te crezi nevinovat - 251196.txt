@@ -1,0 +1,37 @@
+[title]
+De ce te crezi nevinovat {composer: {Daniel Hîrtie}, {rcId: {251196}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+De ce te crezi nevinovat, că nici o casă nu ai spart
+Spunând ca ești om generos, mai bun ca alții, credincios?
+De ce te crezi așa smerit, spunând că ești neprihănit?
+Privești de sus pe păcătoși, și mergi cu-acei lăudăroși
+
+[c]
+Sărmane om, îți spun, să știi
+Tu nu ajungi în veșnicii
+De nu vii azi să te smerești
+Și-n grabă să te pocăiești
+Sărmane om, îți spun, să știi
+Tu nu ajungi în veșnicii
+De nu vii azi să te smerești
+Și-n grabă să te pocăiești
+Sărmane om, îți spun, să știi
+Tu nu ajungi în veșnicii
+De nu vii azi să te smerești
+Și-n grabă să te pocăiești
+
+[v2]
+De ce te simți mereu un sfânt, uitând ca ești pe-acest pământ,
+De ce te simți mai special, și tot te lauzi în zadar
+Tu crezi că ești mai însemnat, mai bun ca alții, mai curat
+Îți spun acum, de vrei să știi: tu mântuit, n-ai cum să fii!
+
+[v3]
+Dezbracă eul muritor, trezește-te, ești călător
+O, nu mai fii așa orbit, și de mândrie, greu robit
+Isus te cheamă, nu mai sta, să vii la El cu viața ta
+Îți spun, și tu ești păcătos, și ai nevoie de Hristos

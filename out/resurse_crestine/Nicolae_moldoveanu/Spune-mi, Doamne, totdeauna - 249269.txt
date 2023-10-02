@@ -1,0 +1,37 @@
+[title]
+Spune-mi doamne totdeauna {composer: {Nicolae Moldoveanu}, {rcId: {249269}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Spune-mi, Doamne, totdeauna,
+calea Ta cea una, una.
+Spune-mi sfântă voia Ta,
+când sunt depărtat de ea.
+Spune-mi chiar când nu doresc,
+căci și-atuncea Te iubesc.
+
+[v2]
+Spune-mi, și-mi îndreaptă gândul
+toate clipele de-a rândul.
+Spune-mi mai stăruitor,
+harul Tău mântuitor.
+Spune-mi chiar când eu nu stau,
+căci nu știu, nu știu ce vreau.
+
+[v3]
+Spune-mi dragostea Ta vie,
+ea mă moaie, mă mlădie.
+Spune-mi, spune-mi ne-ncetat,
+ce mi-ai dat și ce Ți-am dat.
+Spune-mi și mă-nvață iar,
+chiar când dorul mi-e hoinar.
+
+[v4]
+Spune-mi dulcea Ta povață,
+și cum știi așa mă-nvață.
+Spune-mi, că-n adâncul meu,
+după Tine ard mereu.
+Chiar când nu știu ce doresc,
+tot spre Tine năzuiesc.

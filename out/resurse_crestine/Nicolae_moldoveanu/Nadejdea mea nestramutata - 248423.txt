@@ -1,0 +1,45 @@
+[title]
+Nadejdea mea nestramutata {composer: {Nicolae Moldoveanu}, {rcId: {248423}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Nădejdea mea nestrămutată,
+Isuse, Tu-mi rămâi pe veci,
+Cu roadă mai îmbelșugată
+Îmi umpli-a-mele-ntinderi seci.
+Nădejdea mea, Nădejdea mea.
+Isuse, Tu-mi rămâi pe veci,
+Cu roadă mai îmbelșugată
+Îmi umpli-a-mele-ntinderi seci.
+
+[v2]
+Puterea mea nebiruită,
+Isuse, Tu-mi rămâi mereu,
+Cu Tine marea-i potolită,
+Și greul nu-i la Tine greu.
+Puterea mea, Puterea mea.
+Isuse, Tu-mi rămâi mereu,
+Cu Tine marea-i potolită,
+Și greul nu-i la Tine greu.
+
+[v3]
+Iubirea mea cea nemaistinsă,
+Isuse, pururi Tu-mi rămâi,
+Prin Tine viața mi-e ne-nvinsă
+Și-n urmă, cum a fost întâi.
+Iubirea mea, Iubirea mea.
+Isuse, pururi Tu-mi rămâi,
+Prin Tine viața mi-e ne-nvinsă
+Și-n urmă, cum a fost întâi.
+
+[v4]
+Și Bucuria mea cea vie,
+Isuse, Tu-mi rămâi oricând,
+Căci tot ce-am azi și-n veșnicie,
+Am doar în Tine rămânând.
+Lumina mea, Lumina mea.
+Isuse, Tu-mi rămâi oricând,
+Căci tot ce-am azi și-n veșnicie,
+Am doar în Tine rămânând.

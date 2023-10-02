@@ -1,0 +1,47 @@
+[title]
+Mai dulce-i bucuria {composer: {Nicolae Moldoveanu}, {rcId: {249950}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Mai dulce-i bucuria noastră
+ca tot ce poate fi grăit,
+izvorul ei cel veșnic curge
+netulburat și neoprit.
+
+[c]
+Slăvit să fii, slăvit Isuse,
+de harul sfânt ce ni l-ai dat,
+Tu ești al bucuriei noastre
+Izvor preadulce și curat.
+
+[v2]
+Când suntem doi sau trei, oriunde
+cu noi de-a pururea-l Hristos,
+iar unde-i El, e totul dulce
+și fericit și luminos.
+
+[v3]
+Cu cât suntem mai mulți, cu-atâta
+mai fericiți ne-mpărtășim
+din rugăciune, din cântare
+și din Cuvântul ce-l dorim.
+
+[v4]
+O nelumescă părtășie
+ne leagă, în același dor,
+punând o singură simțire
+în inimile tuturor.
+
+[v5]
+Înfrângerile trecătoare
+ne dor de prea puține ori,
+fiindcă știm că pân-la urmă
+tot noi vom fi biruitori.
+
+[v6]
+Nimic din bunurile lumii
+a noastre inimi nu râvnesc,
+mai scumpă-i mântuirea noastră
+ca orice aur pământesc.

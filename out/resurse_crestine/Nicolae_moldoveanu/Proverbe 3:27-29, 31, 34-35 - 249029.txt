@@ -1,0 +1,29 @@
+[title]
+Proverbe :- - {composer: {Nicolae Moldoveanu}, {rcId: {249029}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+V27: Nu opri o faptă bună celui căruia-i lipsește,
+când poți să i-o faci, tu fă-i-o, Dumnezeu ți-o răsplătește.
+
+[v2]
+V28: Să nu spui celui ce-ți cere: du-te, vino iarăși mâine,
+îți dau mâine, - dacă astăzi ai de unde, să-i dai pâine.
+
+[v3]
+V29: Nu gândi rău împotriva semenului tău, ci bine,
+când el liniștit și pașnic locuiește lângă tine.
+
+[v4]
+V31: Să nu pizmuiești pe omul cel asupritor, iubite,
+să n-alegi nici una dintre a lui căi nelegiuite.
+
+[v5]
+V34: Când cu cei răi are-a face, Domnul, joc de ei își bate,
+dar spre cei smeriți își varsă harul milei Lui bogate.
+
+[v6]
+V35: Înțelepții moșteni-vor slava-n veci cu bucurie,
+dar nebunii-avea-vor parte de rușine pe vecie.

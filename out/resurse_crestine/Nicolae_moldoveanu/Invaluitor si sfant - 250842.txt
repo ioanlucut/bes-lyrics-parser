@@ -1,0 +1,42 @@
+[title]
+Invaluitor si sfant {composer: {Nicolae Moldoveanu}, {rcId: {250842}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Învăluitor și sfânt
+fie-mi cântul pe pământ,
+să cuprindă pe oricine,
+scump Isuse, pentru Tine.
+
+[c]
+Ca și soarele,
+ca și vântul,
+care umplu-ntreg pământul,
+fie-mi cântul neapus,
+/: pentru Tine, scump Isus. :/
+
+[v2]
+Pururea răscolitor
+fie-mi cântul numai dor,
+să trezească-n orișicine,
+Doamne, dorul după Tine.
+
+[v3]
+În iubire-nveșmântat
+fie-mi cântul necurmat,
+ca s-aprindă pe oricine,
+Doamne, numai pentru Tine.
+
+[v4]
+Cum e cerul ne-ngrădit,
+fie-mi cântul cer sfințit,
+ca să facă pe oricine,
+Doamne, mai cerești - ca Tine.
+
+[v5]
+Laudă și har și foc
+fie-mi cântu-n orice loc,
+Doamne, ca să poat-oricine
+să Te laude pe Tine.

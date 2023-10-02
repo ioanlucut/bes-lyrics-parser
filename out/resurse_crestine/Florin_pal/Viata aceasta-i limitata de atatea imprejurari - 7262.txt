@@ -2,29 +2,37 @@
 Viata aceasta-i limitata de atatea imprejurari {composer: {Florin Pal}, {rcId: {7262}}
 
 [sequence]
-v1,v2,v3,v4
+v1,c,v2,c2,v3,c3,v4,c4
 
 [v1]
 Viața aceasta-i limitată de atâtea împrejurări
 Cum să faci să treci cu bine prin atâtea încercări?
-/: Timpul trece iute, zboară și abia dacă am trăit
+
+[c]
+Timpul trece iute, zboară și abia dacă am trăit
 Că s-a scurs atât de grabnic și încă nu ne-am pocăit! :/
 
 [v2]
 Sunt atâtea lucruri care ne-au atras numai-napoi
 Fără să observi... acestea toate socotite sunt gunoi
-/: Fă să ne dăm seama bine! Vom fi noi lângă Isus?
+
+[c2]
+Fă să ne dăm seama bine! Vom fi noi lângă Isus?
 Trebuie schimbată viața, până vremea nu s-a dus! :/
 
 [v3]
 Doamne, iată-mi plec genunchii și smerit vin și supus
 Iarta-mă, Te rog, de roada care, Doamne, n-am adus!
-/: Nici n-am stăruit în fapte, ci doar, Doamne, rând pe rând
+
+[c3]
+Nici n-am stăruit în fapte, ci doar, Doamne, rând pe rând
 Mrejile vieții acestei m-au atras către pământ :/
 
 [v4]
 Până se mai zice astăzi și încă harul nu s-a dus
 Haideți frați să stăm cu toții mai aproape de Isus!
+
+[c4]
 Dragul meu, azi te trezește, nu privi iar înapoi!
 Timpul trece iute zboară și ai să plângi cu pumnii goi!
 Dragul meu, azi te trezește, nu privi iar înapoi!

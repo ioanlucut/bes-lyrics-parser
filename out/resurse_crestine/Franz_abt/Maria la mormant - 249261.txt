@@ -1,0 +1,35 @@
+[title]
+Maria la mormant {composer: {Franz Abt}, {rcId: {249261}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Pace lină a stăpânit în jurul mormântului
+Unde trupul cel ostenit,
+Unde trupul cel ostenit
+A fost pus și odihnit,
+Al mântuitorului
+
+[c]
+Mari-o saltă, c-a înviat Domnul!
+Săltați o popoare, că El trăiește!
+Vestiți cu bucurie-n toată lumea,
+Vestiți cu bucurie-n toată lumea:
+Domnul viață, că Domnul viață de veci ne-a dăruit, viață de veci
+Viață veșnică a dăruit,
+Cel ce-a inviat, Cel ce-a inviat!
+Mari-o saltă, c-a înviat Domnul!
+Săltați o popoare, că El trăiește!
+Vestiți cu bucurie-n toată lumea,
+Vestiți cu bucurie-n toată lumea:
+Domnul viață, că Domnul viață de veci ne-a dăruit, viață de veci
+Viață veșnică a dăruit,
+Cel ce-a inviat, Cel ce-a inviat!
+
+[v2]
+Maria de dimineață alergat-a la mormânt
+Aducând scumpă mireasmă,
+Aducând scumpă mireasmă,
+Cu inim’adevărată
+Pe-al ei Domn căutând

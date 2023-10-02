@@ -1,0 +1,36 @@
+[title]
+Spre fericita vesnicie {composer: {Nicolae Moldoveanu}, {rcId: {249010}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Spre fericita veșnicie
+te-ai înălțat din nou c-o treaptă,
+/: și vezi mai limpede, mai vie
+făgăduința ce te-așteaptă. :/
+
+[v2]
+Mai deslușit vezi frumusețea
+iubirii pururi arzătoare,
+/: ce-ți dăruiește tinerețea
+cea de nespus fermecătoare. :/
+
+[v3]
+Și mai deplin pătrunzi în taina
+Dumnezeirii minunate,
+/: ce-ți face mai frumoasă haina
+virtuții binecuvântate. :/
+
+[v4]
+Să ’naintezi!. Mă rog fierbinte,
+pe scara anilor ce suie,
+/: și-n Mâna Dreptului Părinte
+mai mult făptura-ți se supuie. :/
+
+[v5]
+Să fii mireasma Lui vărsată,
+în drumul tău ce-I faci sub soare,
+/: p
+Iăcerea-n tine-Și afle toată
+și-acum și-n vremea viitoare! :/

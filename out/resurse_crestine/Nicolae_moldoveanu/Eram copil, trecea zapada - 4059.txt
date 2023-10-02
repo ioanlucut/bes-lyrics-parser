@@ -1,0 +1,41 @@
+[title]
+Eram copil trecea zapada {composer: {Nicolae Moldoveanu}, {rcId: {4059}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Eram copil, trecea zăpada,
+Eu cu tristețe-o petreceam,
+Mi se părea că iarna trece,
+Mi se părea, dar eu treceam.
+Eram crescut, treceau cocorii,
+Priveam la ei până-i pierdeam,
+Mi se părea că vara trece,
+Mi se părea, dar eu treceam.
+
+[v2]
+Eram gândind pe malul apei,
+Cu unda ei la pas mergeam,
+Mi se părea că apa trece,
+Mi se părea, dar eu treceam.
+Priveam duios cum zboară norii,
+Și frunzele zburând priveam,
+Mi se părea că ele zboară,
+Mi se părea, dar eu treceam.
+
+[v3]
+Eram mâhnit cum bate ceasul,
+de graba lui umbrit oftam,
+mi se părea că vremea trece,
+mi se părea - dar eu treceam
+Mi se părea cândva că alții,
+crezând se-nșeală și-i plângeam,
+mi se părea că-s ei pierduții,
+mi se părea - dar eu eram..
+
+[v4]
+/: Azi văd cu-amar, Isus tot harul
+cât I-am pierdut când n-ascultam,
+mi se părea că-l am de-a pururi,
+mi se părea - dar nu-l mai am! :/

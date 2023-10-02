@@ -1,0 +1,23 @@
+[title]
+Fii laudat fii laudat {composer: {Nicolae Moldoveanu}, {rcId: {250888}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Fii lăudat, fii lăudat,
+Isuse scump, în veci fii lăudat!
+/: Lăudat, lăudat,
+Isuse-n veci de veci fii lăudat! :/
+
+[v2]
+Ne închinăm. ne închinăm,
+Isuse, Ție-n veci ne închinăm!
+/: Ne-nchinăm, ne-nchinăm,
+Isuse, Ție-n veci ne închinăm! :/
+
+[v3]
+Îți mulțumim, Îți mulțumim,
+Isuse-n veci de veci Îți mulțumim!
+/: Mulțumim, mulțumim,
+Isuse, pentru toate-Ți mulțumim! :/

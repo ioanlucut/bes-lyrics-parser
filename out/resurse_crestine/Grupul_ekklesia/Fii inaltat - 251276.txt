@@ -1,0 +1,21 @@
+[title]
+Fii inaltat {composer: {Grupul Ekklesia}, {rcId: {251276}}
+
+[sequence]
+v1,c,e
+
+[v1]
+Al Tău Nume voi lăuda,
+Veșnic voi lăuda
+Un Nume mai presus de galaxii.
+Nu-i Nume mai prețios,
+E un Nume glorios,
+Un Nume mai presus de galaxii.
+
+[c]
+/: Fii înălțat mai sus de ceruri,
+Fii înălțat mai sus de ceruri! :/
+
+[e]
+/: Numele Tău aduce viață-n mine și speranță,
+Numele Tău, un nume ce mă leagă strâns de Tine. :/

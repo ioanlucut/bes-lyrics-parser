@@ -1,0 +1,29 @@
+[title]
+Mareste-mi isuse credinta {composer: {Naomi State}, {rcId: {248921}}
+
+[sequence]
+v1,c,v2,c,c2
+
+[v1]
+Mărește-mi, Isuse, credința
+Să trec peste-orice, văi sau valuri adânci
+Ca o stâncă să fiu în privința
+Credinței în Tine, să te fac fericit
+
+[c]
+/: Nu mai vreau să fiu vreodată
+Pricină de întristare Domnul meu
+Ci ajută-mă și dă-mi putere
+Tare-n credință să fiu tot mereu :/
+
+[v2]
+Prea ușor ca o trestie frântă
+Am căzut făr’ să vreau uneori
+Dar de-acum să fiu gata de luptă
+Un străjer credincios, vegheator
+
+[c2]
+/: Îți mulțumesc iubite Tată
+Pentru grija ce-ai avut
+Toată viața mea întreagă
+Voi păstra credința în Tin’ :/

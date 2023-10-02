@@ -1,0 +1,29 @@
+[title]
+Pe nimeni noi nu intrebam {composer: {Nicolae Moldoveanu}, {rcId: {250833}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pe nimeni noi nu întrebăm
+de unde vine, din ce drum,
+ci unde merge, spre ce țel
+e alergarea lui de-acum.
+
+[c]
+Ferice dacă drumul tău
+e Dumnezeu și cerul Său,
+căci dac-alergi spre Ținta Sa,
+/: viața ta devine-așa. :/
+
+[v2]
+Nu-ntoarcem capul să privim
+trecutul nimănui pe drum,
+ci-i îndemnăm pe toți cu noi
+spre cer să alergăm acum.
+
+[v3]
+Și ca lumina-n mersul ei
+ce nu se-ntoarce-n linu-i drum,
+să fim lumină pe deplin
+în alergarea de acum.

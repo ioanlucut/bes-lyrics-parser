@@ -1,0 +1,29 @@
+[title]
+Iti cantam lauda {composer: {Nicolae Moldoveanu}, {rcId: {250096}}
+
+[sequence]
+v1,v2
+
+[v1]
+Îți cântăm laudă, laudă!
+Laudă Ție, laudă Ție, laudă Ție!
+Îți cântăm laudă Ție,
+laudă-n veci!
+Dumnezeule Preasfânt,
+Tată-n cer și pe pământ.
+Tu al harului Izvor
+ne-ai dat viață tuturor.
+Îți cântăm, Îți cântăm,
+Îți cântăm laudă!
+
+[v2]
+Îți cântăm laudă, laudă!
+Laudă Ție, laudă Ție, laudă Ție!
+Îți cântăm laudă Ție,
+laudă-n veci!
+Scump Mântuitor Isus,
+pentru jertfa ce-ai adus.
+Tu prin ea ne-ai rânduit,
+fii ai Tatălui slăvit.
+Îți cântăm, Îți cântăm,
+Îți cântăm laudă!

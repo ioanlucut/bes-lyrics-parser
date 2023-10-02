@@ -1,0 +1,41 @@
+[title]
+Maranata {composer: {Tabara 477}, {rcId: {248052}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c2
+
+[v1]
+Ce se-aude-ndepărtare?
+În tăcerea zorilor
+Un alai de sărbătoare
+O oștire de război
+
+[v2]
+Ce se-aude-ndepărtare?
+Ca un vuiet dintre nori
+Strigăte de biruință
+Este Domnul Domnilor
+
+[c]
+Sfânt și vrednic
+Glorios
+Miel de jertfă
+Mirele Isus Cristos
+
+[v3]
+S-aveți candela aprinsă
+Undelemnul din belșug
+Așteptând cu nerăbdare
+Arătarea Mirelui
+
+[v4]
+Îmbrăcați în haine sfinte
+În neprihănirea Lui
+Să intrăm în bucuria
+Nunții împăratului
+
+[c2]
+Maranata
+Vino Mire
+Aleluia
+Zic Duhul și mireasa Ta

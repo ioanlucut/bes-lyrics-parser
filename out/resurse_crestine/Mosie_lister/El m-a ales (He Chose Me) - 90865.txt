@@ -2,7 +2,7 @@
 El m-a ales (he chose me) {composer: {Mosie Lister, Traducere RO}, {rcId: {90865}}
 
 [sequence]
-v1,v2,c,s,c
+v1,v2,c
 
 [v1]
 În mijlocul mulțimii, jos în groapa pieirii,
@@ -31,6 +31,3 @@ Din drumul pierzării, Isus m-a luat,
 El m-a ales, m-a ales,
 /: Din drumul pierzării, Isus m-a luat,
 Îl laud, Îi cânt ne-ncetat! :/ x2
-
-[s]
-Nu voi M-ați ales pe Mine; ci Eu v-am ales pe voi. Ioan 15:16

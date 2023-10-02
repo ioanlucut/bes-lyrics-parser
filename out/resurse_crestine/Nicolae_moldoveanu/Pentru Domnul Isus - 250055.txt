@@ -1,0 +1,26 @@
+[title]
+Pentru domnul isus {composer: {Nicolae Moldoveanu}, {rcId: {250055}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pentru Domnul Isus,
+pentru jertfa Lui mare,
+/: Tatăl nostru din cer, :/
+dă-ne iarăși iertare! :/
+
+[c]
+Iertare, iertare!
+
+[v2]
+Pentru lucrul preasfânt,
+pentru sfânta-Ți chemare,
+/: fă-ne iarăși curați, :/
+dă-ne iarăși iertare! :/
+
+[v3]
+Pentru Numele Tău,
+pentru dulcea-ndurare,
+/: pentru tot ce ești Tu, :/
+dă-ne iarăși iertare! :/

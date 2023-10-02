@@ -1,0 +1,41 @@
+[title]
+De nu-mi erai decat un prieten {composer: {Nicolae Moldoveanu}, {rcId: {248629}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+De nu-mi erai decât un prieten,
+Oricât de-apropiat cândva,
+Te-aș fi putut uita, dar Tu ești,
+Isus, chiar prietenia mea.
+
+[c]
+De nu-mi erai decât un cântec,
+Oricât de drag, Te-ai fi-nvechit,
+Dar mi-ești chiar cerul armoniei,
+În veci mai nou și-n veci dorit.
+
+[v2]
+De nu-mi erai decât un nume,
+Puteam să uit, oricum erai,
+Dar Tu-mi ești pentru veci, Isuse,
+Chiar scumpul vieții mele rai.
+
+[c2]
+De nu-mi erai decât un zâmbet,
+Ușor te-aș fi putut uita,
+Dar mi-ești chiar Marea Fericirii
+Din care-mi scot iubirea mea.
+
+[v3]
+De nu-mi erai decât o rază,
+Vreo noapte Te-ar fi-ntunecat,
+Dar mi-ești chiar Soarele Vieții
+Desăvârșit și minunat.
+
+[c3]
+Cum să Te uit atunci, Isuse,
+Orice-ar veni și-oricine-ar vrea,
+Când Tu-mi ești Răsuflarea însăși
+Și duhul din ființa mea?

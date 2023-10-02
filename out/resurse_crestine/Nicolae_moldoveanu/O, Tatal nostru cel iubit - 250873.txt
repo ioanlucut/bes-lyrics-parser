@@ -1,0 +1,41 @@
+[title]
+O tatal nostru cel iubit {composer: {Nicolae Moldoveanu}, {rcId: {250873}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+O, Tatăl nostru cel iubit,
+suspinul ni-l ascultă,
+din cerul Tău cel strălucit,
+în mila Ta cea multă.
+Nevrednici suntem, fără grai,
+și fără de hodină,
+dar toți prin darul Tău trăim,
+din mâna Ta cea plină.
+
+[v2]
+Vrem, Doamne, să Te ascultăm,
+făptura noastră mică
+cu teamă sfântă către cer
+privirile-și ridică.
+Îți mulțumim de mila Ta,
+și grija Ta cerească,
+ce fiecăruia din noi
+i-o porți ca să trăiască.
+
+[v3]
+Cu mâna-Ți bună ne păzești,
+din seară-n dimineață,
+Tu ne hrănești, Tu ne-ngrijești
+și Tu ne dai viață.
+Noi Îți cântăm și ne-nchinăm,
+pe soare și pe lună,
+Te preamărim și Te slujim
+și singuri și-mpreună.
+
+[v4]
+/: Îți mulțumim că ne iubești
+și ieri și azi și mâine,
+slăvit să fii pe veșnicii,
+de-ai Tăi copii, Stăpâne... :/

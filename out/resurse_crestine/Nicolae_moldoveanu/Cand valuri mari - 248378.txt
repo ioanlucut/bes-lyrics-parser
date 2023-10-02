@@ -1,0 +1,41 @@
+[title]
+Cand valuri mari {composer: {Nicolae Moldoveanu}, {rcId: {248378}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Când valuri mari izbesc cumplit,
+Izbesc cumplit
+În viața mea,
+M-ascund, Isuse preaiubit,
+Deplin în mâna Ta.
+
+[c]
+Căci Tu mi-ai zis,
+Cu glas deschis,
+Oricând la Tine să-ndrăznesc
+Ca-n negre stări
+Și-n strâmtorări
+Odihnă să-mi găsesc.
+
+[v2]
+Când vânturi mari se năpustesc,
+Se năpustesc
+Asupra mea,
+Mai mult, Isuse, m-alipesc
+Atunci de viața Ta.
+
+[v3]
+Când foc vrăjmaș ar vrea acum
+Să facă scrum
+Cetatea mea,
+Mai hotărât îmi caut drum
+Isus, la umbra Ta.
+
+[v4]
+Îți mulțumesc c-ai revărsat
+C-ai revărsat
+În viața mea,
+Un har atât de-mbelșugat,
+Isus, prin jertfa Ta!

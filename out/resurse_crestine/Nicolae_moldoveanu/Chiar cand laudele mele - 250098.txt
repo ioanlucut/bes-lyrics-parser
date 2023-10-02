@@ -1,0 +1,35 @@
+[title]
+Chiar cand laudele mele {composer: {Nicolae Moldoveanu}, {rcId: {250098}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Chiar când laudele mele
+se aseamănă-ntre ele,
+din al inimii șuvoi
+/: când țâșnesc, sunt totuși noi. :/
+
+[c]
+/: De aceea-Ți cânt mereu :/
+laudă, laudă, laudă,
+Tatăl meu,
+Preaslăvit Dumnezeu!
+
+[v2]
+Chiar când glasul mi se-neacă
+și cântarea-mi pare seacă,
+pe al inimii altar
+/: e același dor în jar. :/
+
+[v3]
+Chiar când sunt în stări străine
+și cântarea nu-mi mai vine,
+în al inimii afund
+/: eu pe Tine Te ascund :/
+
+[v4]
+Căci Tu-mi ești pe veci iubirea,
+viața mea și mântuirea
+Binecuvântat să fii
+/: Domnul meu pe vesnicii :/

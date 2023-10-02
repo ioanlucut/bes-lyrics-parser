@@ -1,0 +1,35 @@
+[title]
+Stiu ca m-a nascut lumina {composer: {Nicolae Moldoveanu}, {rcId: {248963}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Știu că m-a născut Lumina
+și mi-a dat izvorul ei,
+/: ca să-mi văd într-una tina
+pusă peste ochii mei. :/
+
+[v2]
+Îmi mut crucea când pe-un umăr
+când pe celălalt de grea,
+/: parcă nici mai pot să-mi număr
+prăbușirile cu ea. :/
+
+[v3]
+Dar îmi zăvorăsc sub lacrimi
+orice-ntoarcere spre lut,
+/: orice zare către patimi,
+și-orice drum spre ce-am trecut. :/
+
+[v4]
+Viața mi-e urcare dulce,
+și-o străbat mereu răzbind
+/: către slava printr-o cruce,
+după care nu cuprind. :/
+
+[v5]
+Vremea și hotaru-n care
+odihni-voi nu știu cât
+/: în Eterna ușurare
+de pe crucea-mi pogorât. :/

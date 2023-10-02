@@ -1,0 +1,39 @@
+[title]
+Ne-ai randuit sa fim o paine {composer: {Nicolae Moldoveanu}, {rcId: {251774}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Ne-ai rânduit să fim o pâine
+din boabe mii și mii de mii,
+spre cei flămânzi de azi, de mâine,
+Isuse, până când Tu vii.
+
+[c]
+/: Te așteptăm, Te așteptăm,
+o, vin, Isuse Te așteptăm! :/
+
+[v2]
+Ne-ai rânduit să fim toți vinul
+din strugurii cereștei vii.
+Din inimi s-alungăm veninul,
+Isuse, până când Tu vii.
+
+[v3]
+Ne-ai rânduit să fim o casă
+din multe, multe pietre vii.
+odihnitoare și frumoasă,
+Isuse, până când Tu vii.
+
+[v4]
+Ne-ai rânduit să-Ți fim sfințită
+Mireasă - pentru veșnicii,
+și UNA doar, neîmpărțită,
+Isuse, până când Tu vii.
+
+[v5]
+O, fă-ne să-ntelegem bine
+ăst adevăr - cum Tu îl știi -
+că suntem toți topiți în Tine,
+Isus, - și-așa dorim să vii.

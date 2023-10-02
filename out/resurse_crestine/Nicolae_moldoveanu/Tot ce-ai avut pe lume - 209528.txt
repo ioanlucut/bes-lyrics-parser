@@ -1,0 +1,35 @@
+[title]
+Tot ce-ai avut pe lume {composer: {Nicolae Moldoveanu}, {rcId: {209528}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Tot ce-ai avut pe lume mai sfânt ca Dumnezeu
+îți va ajunge-un blestem, aici și-n veci, mereu.
+Tot ce-ai avut în viață mai drag ca pe Hristos,
+/: Va chinui-al tău suflet etern și nemilos. :/
+
+[c]
+Numai Hristos mai poate
+Ierta păcatul tău,
+și șterge-a ta osândă
+prin sfântul sânge-al Său.
+
+[v2]
+Tot ce-ai avut ’nainte, ca dragostea mai sfânt,
+îți va zdrobi odihna și-aici și sub pământ.
+Tot ce-ai avut în față ca cinstea mai de preț,
+/: Va cere-o ispășire cu sute de vieți. :/
+
+[v3]
+Tot ce-ai avut în faptă nedemn și necinstit,
+îți va striga-n Gheenă un blestem nesfârșit.
+Tot ce-ai avut în gânduri viclean și desfrânat,
+/: Va fi mocirla-n care de viu vei fi-ngropat. :/
+
+[v4]
+Tot ce-ai avut în vorbe nedrept și rușinos,
+te va goni-n osândă din fața lui Hristos.
+O, vino, vino, vino cât încă poți să vii,
+/: Că și spre cer, zadarnic, te-ntorci, dacă-ntârzi. :/

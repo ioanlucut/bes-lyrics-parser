@@ -1,0 +1,24 @@
+[title]
+Din sfantul paradis {composer: {Nicolae Moldoveanu}, {rcId: {249983}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+/: Din sfântul Paradis, :/
+Isuse, Te-a trimis Iubirea.
+/: Ca să ne-aduci, sfințit,
+ /:
+/: tot ce ne-a pregătit, Iubirea! :/
+
+[v2]
+/: Era în jertfa Ta. :/
+întreagă numai ea, Iubirea!
+/: Din locul cel mai jos :/
+/: cu braț ceresc ne-a scos, Iubirea! :/
+
+[v3]
+/: Și tot ce-ai fost întâi, :/
+Isuse-așa rămâi, Iubire!
+/: Și noi, adânc dorim, :/
+/: ca Tine-n veci să fim, Iubire! :/

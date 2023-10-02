@@ -1,0 +1,35 @@
+[title]
+Vino astazi la crucea lui (the nail-scarred hand) {composer: {Baylus B. McKinney, Traducere RO}, {rcId: {251822}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Te-au lovit valuri mari și ai fost învins?
+Vino, astăzi, la crucea Lui!
+Ești trudit și-obosit, de păcat cuprins?
+Vino, astăzi, la crucea Lui!
+
+[c]
+Vino, astăzi, la crucea Lui
+Crede în jertfa Mielului!
+În Isus vei găsi numai fericiri
+Vino, astăzi, la crucea Lui!
+
+[v2]
+Singur, tu pribegești și te rătăcești?
+Vino, astăzi, la crucea Lui!
+În Isus să te-ncrezi, cu El să pășești
+Vino, astăzi, la crucea Lui!
+
+[v3]
+Vrei și tu să-L urmezi pe Cel înviat?
+Vino, astăzi, la crucea Lui!
+Vrei să fii cu Isus, Cel ce har ți-a dat?
+Vino, astăzi, la crucea Lui!
+
+[v4]
+De poveri și păcat ești împovărat?
+Vino, astăzi, la crucea Lui!
+Dă-I Lui inima ta, El te va salva
+Vino, astăzi, la crucea Lui!

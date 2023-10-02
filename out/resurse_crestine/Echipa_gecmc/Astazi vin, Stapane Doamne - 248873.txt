@@ -1,0 +1,53 @@
+[title]
+Astazi vin stapane doamne {composer: {Echipa GECMC}, {rcId: {248873}}
+
+[sequence]
+v1,c,v2,c,c2
+
+[v1]
+Astăzi vin, Stăpâne Doamne,
+Ca prin Duhul Tău cel Sfânt
+Să îmi dai ungere nouă,
+Ridicare prin Cuvânt.
+/: Vreau să fiu mai sfânt pe cale
+Ființa să îmi modelezi
+Cu iubire și răbdare,
+Prin ce sunt să Te slăvesc. :/
+
+[c]
+/: Iată sunt a Ta lucrare,
+Suspinând Te chem mereu.
+Fă din mine o lumină
+Pentru cei din jurul meu!
+Mâna Ta e peste mine,
+Când mi-e bine sau mi-e greu.
+Sunt unealta Ta o, Doamne,
+Folosește-mă mereu! :/
+Iată sunt a Ta lucrare,
+Suspinând Te chem mereu.
+Fă din mine o lumină
+Pentru cei din jurul meu!
+Mâna Ta e peste mine,
+Când mi-e bine sau mi-e greu.
+Sunt unealta Ta o, Doamne,
+Folosește-mă mereu!
+
+[v2]
+Știu că astăzi ești cu mine,
+Mâna Ta o simt mereu.
+Voia Ta eu vreau, Stăpâne,
+Să o împlinesc mereu.
+/: Tu în toate-ai fost cu mine,
+La orice pas m-ai îndrumat.
+Nu m-ai lăsat nicând, Isuse,
+Tu de jos m-ai ridicat. :/
+
+[c2]
+Iată sunt a Ta lucrare,
+Suspinând Te chem mereu.
+Fă din mine o lumină
+Pentru cei din jurul meu!
+Vin acum, cu umilință,
+Mă proștern în fața Ta
+Fă-mă vasul Tău de cinste,
+Modelat prin voia Ta!

@@ -1,0 +1,55 @@
+[title]
+Pregatire {composer: {Nicolae Moldoveanu}, {rcId: {248106}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c
+
+[v1]
+O necurmată pregătire
+Să-ți fie zilele trăite,
+Să nu te prindă fără știre
+Solia morții ne-mblânzite.
+
+[c]
+Să-ți pregătești,
+Să-ți pregătești,
+Viața pentru cer, mereu,
+Ca să-ntâlnești,
+Ca să-ntâlnești,
+Pe Fericitul Dumnezeu!
+
+[v2]
+Să-ți fie pregătită-ntruna
+Cămara inimii curate
+Ca-n ea să poată sta iubirea
+Și celelalte haruri toate.
+
+[v3]
+Să-ți fie pregătită gura
+Să laude pe-Acela care
+C-o jertfă nemaiîntâlnită
+Ți-a dăruit răscumpărare.
+
+[v4]
+Să-ți fie pregătită mâna
+Să poarte luptele divine,
+Ca fericirea biruinței
+Să te-ncunune și pe tine.
+
+[v5]
+Să-ți fie pregătită mintea,
+Să prindă adevărul veșnic,
+Și-n minunata lui lumină,
+Să fii în Templul vieții sfeșnic.
+
+[v6]
+Să-ți fie pururi pregătite
+Picioarele pe drumuri sfinte
+S-alerge fără-ncetinire
+Spre ținta care-ți stă ’nainte.
+
+[v7]
+Și toată viața pregătită
+S-o ai și-n sfântă așteptare
+Să-L întâlnești cu bucurie
+Pe Dumnezeul Slavei, mare!

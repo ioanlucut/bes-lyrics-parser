@@ -1,0 +1,29 @@
+[title]
+Nu poti a te-nalta {composer: {Nicolae Moldoveanu}, {rcId: {250745}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Nu poți a te ’nălța mai tare, mai luminos și mai curat,
+decât atunci când după tine înalți pe cel neajutorat.
+Dar nici mai josnic niciodată nu poți să fii și mai mișel
+decât când înjosești pe altul, ca tu să te ridici pe el.
+
+[v2]
+Nu poți fi mai frumos ca-n clipa când te despoi mărinimos,
+și-ți dai podoaba ta altuia s-apară dânsul mai frumos.
+Dar nici urât și mai netrebnic nu ești ca-n clipa când dezbraci
+de meritele lui pe altul ca tu mai mândru să te faci.
+
+[v3]
+Nu poți fi mai bun niciodată decât când te smerești jertfind,
+să poată darul să-ți primească neumilit cel suferind.
+Dar nici mai rău nu ești ca-n vremea când te mândrești c-ai miluit,
+făcând pe cel silit să-ți ceară de două ori nenorocit.
+
+[v4]
+Nu poți fi mai bogat vreodată ca-n vremea când știi să-ți desfaci
+în taină inima și mâna spre-a ferici pe cei săraci.
+Dar nici mai vrednic de osândă nu poți să fii și nici mai rău,
+decât atunci când spre-al tău bine nefericești pe-un frate-al tău.

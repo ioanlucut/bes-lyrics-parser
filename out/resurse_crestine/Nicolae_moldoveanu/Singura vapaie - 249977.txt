@@ -1,0 +1,45 @@
+[title]
+Singura vapaie {composer: {Nicolae Moldoveanu}, {rcId: {249977}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Singura văpaie,
+dulce și plăcută,
+e iubirea-n care
+inima-i ținută.
+/: Fericită e-n iubire
+inima ținută. :/
+
+[v2]
+Singura putere
+care nu omoară,
+e iubirea sfânt-a
+inimii comoară.
+/: Fără preț e-n lumea-ntreagă,
+dragostea comoară. :/
+
+[v3]
+Singura săgeată,
+ce nu varsă sânge,
+e iubirea care
+inima străpunge.
+/: Mângâiere-i când iubirea
+inima străpunge. :/
+
+[v4]
+Singura durere
+pururea dorită,
+e iubirea vie-n
+inimă-nflorită.
+/: Ce minune e iubirea-n
+inimă-nflorită! :/
+
+[v5]
+Doamne, dă-mi iubirea
+cea mereu nestinsă,
+să-mi păstreze-n Tine
+viața mai aprinsă,
+/: Mai curată, mai frumoasă
+și tot mai aprinsă. :/

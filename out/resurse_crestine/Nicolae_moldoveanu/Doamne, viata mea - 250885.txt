@@ -1,0 +1,37 @@
+[title]
+Doamne viata mea {composer: {Nicolae Moldoveanu}, {rcId: {250885}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Doamne, viața mea,
+iar e-n luptă grea,
+dar spre Tine mă îndrept.
+Îndurarea Ta
+toarn-o Tu în ea,
+stinge-mi orice foc străin în piept.
+
+[c]
+Ca să pot să cânt,
+cântec nou și sfânt,
+pentru slava Ta deplin.
+Umple-mă cu har,
+pune-n mine jar,
+Doamne, până-n veci, amin.
+
+[v2]
+Doamne, duhul meu,
+geme iarăși greu,
+dar-naintea Ta mă plec.
+Tu prin harul Tău,
+ține-mă mereu
+și prin lume ne-ntinat să trec.
+
+[v3]
+Doamne. mai cumplit,
+astăzi sunt lovit,
+dar Cetatea mea Tu ești.
+Fă-mi necontenit
+sufletu-ntărit,
+și în Tine să m-adăpostești.

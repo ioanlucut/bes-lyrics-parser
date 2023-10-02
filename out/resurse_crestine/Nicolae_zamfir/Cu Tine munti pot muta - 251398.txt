@@ -1,0 +1,31 @@
+[title]
+Cu tine munti pot muta {composer: {Nicolae Zamfir}, {rcId: {251398}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Cand am în cer un Tată
+Nu ma tem
+El grija mea o poartă
+Nu ma tem
+Orice sa-r intampla
+El nu mă va lăsa
+Isus tăria mea
+
+[c]
+Cu Tine munții pot muta
+Nu mă voi înspăimânta
+Orice problema voi avea
+Cu Tine prin acest pustiu
+Singur n-o să fiu
+Știu sunt condus Isus de mâna Ta
+
+[v2]
+Când știu ca ești cu mine
+Nu mă tem
+Furtuna dacă vine
+Nu mă tem
+Putere îmi vei da
+Când privesc la crucea Ta
+Isus tăria mea

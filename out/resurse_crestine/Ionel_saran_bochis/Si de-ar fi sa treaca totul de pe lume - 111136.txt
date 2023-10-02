@@ -5,37 +5,38 @@ Si de-ar fi sa treaca totul de pe lume {composer: {Ionel Saran Bochis}, {rcId: {
 v1,c,v2,c2,v3,c3
 
 [v1]
-Inima-mi plinge de bucurie
-Mereu Isuse Tu esti cu mine
+Inima-mi plânge de bucurie,
+Mereu Isuse, Tu ești cu mine.
 Nimic nu poate-n aceasta lume
-De Tine Doamne sa ma desparta
+De Tine, Doamne, să mă despartă.
 
 [c]
-Si de-ar fi sa treaca totul de pe lume
-Cu Tine Isuse in veci voi ramane
-Si chiar moartea de ar vrea sa ma desparta
-Cu Tine voi merge dincolo de moarte
+Și de-ar fi sa treacă totul de pe lume,
+Cu Tine, Isuse, în veci voi rămâne,
+Și chiar moartea de ar vrea să mă despartă
+Cu Tine voi merge dincolo de moarte.
 
 [v2]
-Oricite valuri de ar venii
-Si-n bezna noptii as ratacii
-Cind Domnul este nadejdea mea
-Eu niciodata nu voi ceda
+Oricâte valuri de ar veni
+Și-n bezna nopții aș rătăci,
+Când Domnul este nădejdea mea
+Eu niciodată nu voi ceda.
 
 [c2]
-Si de-ar fi sa treaca totul de pe lume
-Cu Tine Isuse in veci voi ramane
-Si chiar moartea de ar vrea sa ma desparta
-Cu Tine voi merge dincolo de moarte
+Și de-ar fi să treacă totul de pe lume,
+Cu Tine, Isuse, în veci voi rămâne,
+Și chiar moartea de ar vrea să mă despartă.
+Cu Tine voi merge dincolo de moarte.
 
 [v3]
-Mi-e dor Isuse mi-e dor de Tine
-Sa-ti cint intruna o vesnicie
-Pin la sfirsit sa-ti pot eu spune
-Nimic de Tine nu ma desparte
+Mi-e dor, Isuse, mi-e dor de Tine,
+Să-Ți cânt întruna o vesnicie!
+Pân’ la sfârșit să-Ți pot eu spune:
+”
+Nimic de Tine nu mă desparte!”
 
 [c3]
-Si de-ar fi sa treaca totul de pe lume
-Cu Tine Isuse in veci voi ramane
-Si chiar moartea de ar vrea sa ma desparta
-Cu Tine voi merge dincolo de moarte
+Și de-ar fi să treacă totul de pe lume,
+Cu Tine, Isuse, în veci voi rămâne!
+Și chiar moartea de ar vrea să mă despartă,
+Cu Tine voi merge dincolo de moarte.

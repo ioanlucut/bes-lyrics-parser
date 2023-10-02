@@ -5,7 +5,7 @@ Vine dimineata (maranata domnul nostru vine) {composer: {Ovidiu Liteanu}, {rcId:
 v1,c,v2,c,v3,c,v4,c
 
 [v1]
-Vine dimineața
+Iată vine dimineața
 Să vă lumineze viața
 De prezența lui Isus
 Să fiți gata de plecare

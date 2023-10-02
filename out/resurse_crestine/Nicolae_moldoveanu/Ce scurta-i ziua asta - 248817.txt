@@ -1,0 +1,41 @@
+[title]
+Ce scurta-i ziua asta {composer: {Nicolae Moldoveanu}, {rcId: {248817}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Ce scurtă-i ziua asta
+și totuși poți din ea,
+ori cerul pe vecie
+ori iadul a-l avea.
+
+[c]
+Ce scumpă-i ziua asta
+și totuși, dacă stai,
+/: și-o lași să-ți treacă goală
+nimic folos nu-i iai. :/
+
+[v2]
+Ce mică-i ziua asta
+și totuși neascultând,
+poți pierde-n ea comoara
+ce n-o mai strângi nicicând.
+
+[c2]
+Ce-amară-i ziua asta
+Și totuși de-o-nțelegi,
+/: O veșnică dulceață
+din ea o să-ți culegi. :/
+
+[v3]
+Ce mare-i ziua asta
+și totuși al ei har
+privit cu nepăsare
+rămâne în zadar.
+
+[c3]
+Ce clipă-i ziua asta
+și totuși mii și mii
+/: din ea-și-aleg ori cerul
+ori iadul pe vecii. :/

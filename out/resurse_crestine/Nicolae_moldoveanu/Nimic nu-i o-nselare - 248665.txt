@@ -1,0 +1,41 @@
+[title]
+Nimic nu-i o-nselare {composer: {Nicolae Moldoveanu}, {rcId: {248665}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Nimic nu-i o-nșelare
+Mai mare pentru tine
+Decât c-a lumii slavă
+Având-o, veșnic ține.
+
+[c]
+Nimic nu-i o minciună
+Și-o pierdere mai mare
+Decât să cauți odihnă,
+Când totul e-n lucrare.
+
+[v2]
+Nimic nu-i o ocară
+Mai mare stării tale
+Decât s-aștepți răsplată
+Aici, la sfânta cale.
+
+[c2]
+Nimic nu-ți injosește
+Iubirea niciodată,
+Ca dac-aștepți foloase
+În schimbul ei, și plată
+
+[v3]
+Nimica nu-i în lume
+Mai mare amăgire,
+Decât c-aici e raiul
+Și-aceasta-i fericire.
+
+[c3]
+Nimic nu spui mai mare
+Și tristă nebunie,
+Decât c-aceasta-i viața
+Și c-alta n-o să fie.

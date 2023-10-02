@@ -2,40 +2,34 @@
 Eu stiu ca daca cortul meu {composer: {Nicolae Moldoveanu}, {rcId: {4143}}
 
 [sequence]
-v1,c,v2,c2,v3,c3
+v1,v2,v3
 
 [v1]
-Eu stiu, ca daca cortul meu
-Mi s-o desface-odata,
-O alta casa voi primi,
-Eterna si curata.
-
-[c]
-In alta lume voi trai
-Desavarsita pace,
-De-aceea nu ma tem atunci
-Cand cortul s-o desface.
+Eu știu că dacă cortul meu
+mi s-o desface-odată,
+o altă casă voi primi,
+eternă și curată.
+În altă lume voi trăi
+desăvârșită pace,
+de-aceea nu mă tem atunci
+când cortul s-o desface.
 
 [v2]
-Eu stiu ca dragostea va fi
-A vesniciei lege,
-Si roada fericirii-n plin
-Oricine-o va culege.
-
-[c2]
-De-aceea-s linistit acum
-Cand ura ma loveste,
-Fiind deplin incredintat,
-Ca timpul ei sfarseste.
+Eu știu că dragostea va fi,
+a veșniciei lege,
+și roada fericirii-n plin
+oricine-o va culege.
+De-aceea-s liniștit acum
+când ura mă lovește,
+fiind deplin încredințat
+că timpul ei sfârșește.
 
 [v3]
-Eu stiu ca Domnul meu Isus
-Veni-va-n stalucire
-Si tot cuvantul ce L-a spus
-Avea-va implinire.
-
-[c3]
-Si stiu ca-mparatia Lui
-Sfarsit in veci nu are,
-O, slava, slava Ii aduc
-Si-adanca inchinare.
+Eu știu că Domnul meu Isus
+veni-va-n strălucire
+și tot Cuvântul ce L-a spus
+avea-va împlinire.
+Și știu că-mpărăția Lui
+sfârșit în veci nu are.
+O, slavă, slavă Îi aduc
+și-adâncă închinare.

@@ -1,0 +1,28 @@
+[title]
+A venit in lumea noastra {composer: {Dorel Pantea}, {rcId: {250146}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+A venit în lumea noastră,
+lăsând slava cerească,
+Chip de om Isus a luat, să ne scape din păcat.
+
+[c]
+/: S-a născut chiar pentru tine,
+Să te scape din suspine,
+Să-ți ofere viață-n dar,
+Să trăiești iertat prin har. :/
+
+[v2]
+Un Copil ni S-a dat, Domn al păcii, Împărat,
+Și crezând în El mereu, va salva sufletul tău.
+
+[v3]
+Prin viața Sa ne-a dat un exemplu minunat,
+Cum să Îl urmez supus, ca s-ajung acolo Sus.
+
+[v4]
+S-a-nălțat la Tatăl Său, biruindu-l pe cel rău,
+Și-ntr-o zi El va veni, să ia Acasă ai Săi copii.

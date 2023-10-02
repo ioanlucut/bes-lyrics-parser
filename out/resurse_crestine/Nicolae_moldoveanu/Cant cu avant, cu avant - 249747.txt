@@ -1,0 +1,24 @@
+[title]
+Cant cu avant cu avant {composer: {Nicolae Moldoveanu}, {rcId: {249747}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cânt cu avânt, cu avânt, imn preasfânt,
+Ție Isus c-ai adus har de Sus!
+
+[c]
+Ție, Isuse, deplin,
+Ție prin har mă închin,
+/: Viața-n lumină,
+Jertfa-Ți divină,
+Astăzi mi-a dat, Amin! :/
+
+[v2]
+Cer luminos, luminos și frumos
+Tu mi-ai gătit nesfârșit, Domn Slăvit!
+
+[v3]
+Te preamăresc, preamăresc și doresc
+Să pot purta și cânta pacea Ta!

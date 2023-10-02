@@ -1,0 +1,35 @@
+[title]
+De-oriunde vin {composer: {Nicolae Moldoveanu}, {rcId: {249978}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+De-oriunde vin, pe-oriunde merg,
+Tu, Doamne, ești cu mine,
+/: orice-aș privi și-orice-aș avea
+nimica nu-i ca Tine. :/
+
+[v2]
+Adâncul sufletului meu
+într-una Te dorește,
+/: cu cât Te am mai mult, cu-atât
+simt dorul cum îmi crește. :/
+
+[v3]
+Simt setea mai desăvârșit,
+cu cât Te sorb pe Tine,
+/: și mai neînțeles îmi pari
+cu cât Te știu mai bine. :/
+
+[v4]
+Și inima-mi mai mult Te vrea
+- în dragostea-i încinsă
+/: cu cât stă mai la umbra Ta,
+cu-atât e mai aprinsă. :/
+
+[v5]
+Ce fericit sunt pe altar,
+în flăcări de iubire,
+/: când mistuit sunt pe deplin,
+în necuprinsa-Ți Fire! :/

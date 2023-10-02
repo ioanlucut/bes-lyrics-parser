@@ -1,0 +1,26 @@
+[title]
+A suferit el la calvar pe cruce condamnat {composer: {Andrae Crouch}, {rcId: {248582}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+A suferit El la Calvar, pe cruce condamnat
+Sângele ce-mi dă putere zi de zi,
+Va rămâne în veci la fel.
+
+[c]
+/: Se ridică până-n vârful munților
+Și coboară în adâncul mărilor,
+Sângele ce-mi dă putere zi de zi,
+Va rămâne în veci la fel. :/
+
+[v2]
+Îmi stă apoape în necaz, mă-nalță către cer
+Sângele ce-mi dă putere zi de zi,
+Va rămâne în veci la fel.
+
+[v3]
+El vine iar și vom pleca, spre cer ne-om înălța,
+Sângele ce-mi dă putere zi de zi,
+Va rămâne în veci la fel.

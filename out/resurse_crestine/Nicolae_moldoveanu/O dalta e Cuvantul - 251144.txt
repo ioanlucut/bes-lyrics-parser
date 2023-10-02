@@ -1,0 +1,41 @@
+[title]
+O dalta e cuvantul {composer: {Nicolae Moldoveanu}, {rcId: {251144}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O daltă e Cuvântul,
+iar inima-i o stâncă,
+de mii de ori lovește
+și tot nu cade încă.
+Ci numa-nțelepciunea
+iubirii e în stare
+să poată pân-la urmă
+ca stânca s-o doboare.
+
+[c]
+O, fiecare suflet
+cu altul nu-i la fel,
+nimic decât iubirea
+n-ajunge pân-la el.
+
+[v2]
+Un plug este Cuvântul
+iar inima-i o glie,
+de mii de ori o ară
+și ea-i mereu pustie.
+Ci numai asudarea
+iubirii izbutește
+să scoată rod de unde
+în veac nimic n-ar crește.
+
+[v3]
+O sabie-i Cuvântul,
+iar inima-i cetate,
+de mii de ori împunge
+și-adesea n-o străbate.
+Ci numai stăruința
+iubirii dac-ajunge,
+ades cu ani de lacrimi
+Și jertfe-a o străpunge.

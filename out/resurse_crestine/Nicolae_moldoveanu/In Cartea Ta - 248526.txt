@@ -1,0 +1,57 @@
+[title]
+In cartea ta {composer: {Nicolae Moldoveanu}, {rcId: {248526}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+În Cartea Ta îmi scriu mereu,
+În orice timp și-n orice loc,
+/: Eu numai eu :/
+Ori slava mea, ori chinul meu,
+Îmi scriu cu litere de foc.
+Îmi scriu ai vieții mele pași,
+Cu dragostea sau ura lor,
+/: Eu numai eu :/
+Printre prieteni și vrăjmași,
+/: Eu numai eu :/
+Mi-i scriu și scrisele nu mor.
+
+[v2]
+Îmi scriu ale privirii zări,
+Spre curăție sau păcat,
+/: Eu, numai eu :/
+Prin rugăciuni, ori desfrânări,
+Îmi scriu cu scrisul neschimbat.
+Îmi scriu cuvintele din glas,
+Cu grai de sfânt sau de păgân,
+/: Eu, numai eu :/
+Ce spun în orice loc ṣi ceas
+/: Eu, numai eu :/
+Îmi scriu si crise-n veci rămân.
+
+[v3]
+Îmi scriu și gândul cel frumos,
+Și gândul josnic sau sărac,
+/: Eu, numai eu :/
+Le scriu în fața lui Hristos,
+Și scrise-mi vor rămâne-n veac.
+Mi-am scris ce-am strâns și ce-am pierdut
+Prin vorbe sau tăcerea mea,
+/: Eu, numai eu :/
+Ce-am lenevit sau ce-am făcut,
+/: Eu, numai eu :/
+Le-am scris și-n veci vor rămâne.
+
+[v4]
+În Cartea Ta îmi scriu mereu,
+În orice timp și-n orice loc,
+/: Eu, numai eu :/
+Ori slava mea, ori chinul meu,
+Îmi scriu cu litere de foc.
+Le-am scris, iar mâine când și eu,
+Pleca-voi din al lumii vis,
+/: Eu, numai eu :/
+Mă voi împărtăși mereu,
+/: Eu, numai eu :/
+Din tot ce-n Cartea Ta mi-am scris.

@@ -1,0 +1,47 @@
+[title]
+Sa locuiesc in templu {composer: {Nicolae Moldoveanu}, {rcId: {240963}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c3
+
+[v1]
+Să locuiesc în Templul Tău Părinte,
+Doresc adânc în orice vreme,
+De-acolo să privesc și mai fierbinte
+Întregu-mi suflet să te cheme.
+
+[c]
+Să locuiesc deplin în Templul legii
+Sfințeniei și îndurării,
+Să pot pricepe taina fărdelegii,
+Și taina veșnic-a iertării.
+
+[v2]
+Să locuiesc în dragostea curată,
+Slăvitul Templu al luminii,
+Privind de-aici în lumea-ntunecată,
+Pricep și florile și spinii.
+
+[c2]
+Pricep și Adevărul și minciuna;
+Și bucuria și durerea;
+Și starea liniștită și furtuna,
+Și ura grea și mângâierea!
+
+[v3]
+Să nu mă-mpiedice perdeaua ceții,
+Ce-o pun vrăjmașii-n fața porții,
+Să locuiesc întreg în Templul vieții,
+Zdrobind puterea rece-a morții.
+
+[c3]
+Căci numai când în Templul Tău Părinte,
+Eu locuiesc - sfințit de Tine -
+Prin Duhul pot pricepe din nainte,
+Adâncul tainelor divine!
+
+[v4]
+C-aici, în orbitoarea frumusețe,
+Din casa harurilor plină,
+E strălucirea sfintei Tale Fețe,
+Ce schimbă totul în lumină!

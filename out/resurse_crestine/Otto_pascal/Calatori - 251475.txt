@@ -1,0 +1,39 @@
+[title]
+Calatori {composer: {Otto Pascal}, {rcId: {251475}}
+
+[sequence]
+v1,c,v2,c,v3,c2,c
+
+[v1]
+Călători prin lume, ne-am născut să navigăm
+Unii fără țintă, alții spre un port ceresc
+Printre nori și ceață, razele lui Dumnezeu
+Luminează peste cei ce cred în El.
+
+[c]
+Doamne, mai e puțin, știu bine,
+Dar vino lângă mine, căci barca-i sfărâmată de tot
+Isus, Te rog, spune cuvântul ce liniștește vântul
+Și ia-mă-n brațul Tău pân-ajung în port.
+Doamne, mai e puțin, știu bine,
+Dar vino lângă mine, căci barca-i sfărâmată de tot
+Isus, Te rog, spune cuvântul ce liniștește vântul
+Și ia-mă-n brațul Tău pân-ajung în port.
+
+[v2]
+Doamne, fără Tine, am fost naufragiat,
+Am fost plin de sine și trăiam doar în păcat,
+Dar prin lemnul crucii ai schimbat al meu destin
+M-ai salvat, Isus, prin harul divin.
+
+[v3]
+Ne-ai promis o țară unde lacrimi n-or mai fi,
+Plâns, durere, boală, toate-atunci se vor sfârși.
+Spunem ca tâlharul, când vei reveni pe nori
+Să-Ți aduci aminte, Doamne și de noi.
+
+[c2]
+Doamne, mai e puțin, știu bine,
+Dar vino lângă mine, căci barca-i sfărâmată de tot
+Isus, Te rog, spune cuvântul ce liniștește vântul
+Și ia-mă-n brațul Tău

@@ -1,0 +1,43 @@
+[title]
+Isus a inviat {composer: {Beniamin Palincaș}, {rcId: {248016}}
+
+[sequence]
+v1,v2,b,c,v3,c,v4,c,e
+
+[v1]
+Rege-al regilor, Domn al domnilor,
+Isus, Isus.
+Mielul nepătat, cu slavă îmbrăcat,
+El e viu, El e viu!
+
+[v2]
+În numele Lui, sunt eliberat,
+Sunt vindecat de orice păcat.
+Vrednic Dumnezeu, Sfântul Miel și Leu,
+Isus, Regele meu.
+
+[b]
+/: Moartea a învins,
+Mormântu-a părăsit,
+Prin rănile Lui
+Sunt mântuit. :/
+
+[c]
+/: Isus a înviat!
+Regele meu
+E viu cu adevărat! :/
+
+[v3]
+Rege-al regilor, Domn al domnilor,
+Isus, Isus.
+Veșnic Minunat, veșnic Împărat,
+Glorios, Glorios.
+
+[v4]
+Moartea a lepădat,
+Din morți a înviat,
+Glorios, Glorios.
+
+[e]
+/: A-nviat și moartea a lepădat,
+El e Mesia, Isus a înviat! :/

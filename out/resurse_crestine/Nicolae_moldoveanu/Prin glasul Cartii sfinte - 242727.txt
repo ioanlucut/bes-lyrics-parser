@@ -1,0 +1,29 @@
+[title]
+Prin glasul cartii sfinte {composer: {Nicolae Moldoveanu}, {rcId: {242727}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Prin glasul Cărții sfinte
+Sfințit sunt pe cărare,
+/: Prin el primesc puterea
+Credinței sfințitoare. :/
+
+[v2]
+Prin glasul Cărții vieții
+Viața-mi se-noiește,
+/: Și-n fața suferinței
+Nădejdea mea sporește. :/
+
+[v3]
+Prin glasul Cărții păcii
+Și-a dragostei divine,
+Mai viu, Isus, se-aprinse
+Iubirea mea de Tine.
+
+[v4]
+Și tot ce am, o, Doamne
+E-n Cartea Ta divină,
+Prin tainica ei slovă
+Păstrat sunt în lumină.

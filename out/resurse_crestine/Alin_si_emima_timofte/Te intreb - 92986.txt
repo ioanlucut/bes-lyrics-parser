@@ -5,25 +5,26 @@ Te intreb {composer: {Alin și Emima Timofte}, {rcId: {92986}}
 v1,c,v2,c,v3,c
 
 [v1]
-Isus a venit pentru tine
-In locul tau El a murit
-Si pentru pacatele tale
-El pretul cel greu a platit.
+Isus a venit pentru tine,
+În locul tău El a murit
+Și pentru păcatele tale
+El prețul cel greu a plătit.
 
 [c]
-Te intreb unde se afla altcineva
-Sa iubeasca si sa ierte ca El
-Te intreb unde se afla altcineva
-Sa iubeasca si sa ierte la fel.
+Te întreb: unde se află altcineva
+Să iubeasca și să ierte ca El?
+Te întreb: unde se află altcineva
+Să iubească și să ierte la fel?
 
 [v2]
-Isus a rabdat pentru tine
-Cand tu pe cruce L-ai lovit
-Umil a venit sa-ti sopteasca
-Esti liber pacatul ti l-a platit.
+Isus a răbdat pentru tine
+Când tu pe cruce L-ai lovit.
+Umil a venit să-ți soptească:
+”
+Ești liber, păcatul ți l-am plătit.”
 
 [v3]
-Te indemn prieten drag chiar acum
-Urmeaza convins al vietii drum
-Vino te rog nu amana
-Primeste-L de azi pe Isus in inima ta.
+Te îndemn, prieten drag, chiar acum
+Urmează convins al vieții drum.
+Vino, te rog, nu amâna,
+Primește-L de azi pe Isus în inima ta!

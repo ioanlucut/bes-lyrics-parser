@@ -1,0 +1,38 @@
+[title]
+O vin' emanuel {composer: {Lauren Daigle}, {rcId: {250129}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+Pamantu-asteapta miracolul
+Inimi tanjesc de dorul tau Isus
+O vin, o vin Emanuel
+Trimite azi pace pe pamant
+Copii tai au un suflet frânt
+O vin’, o vin’, Emanuel.
+B: Poti auzi cum ingeri canta
+
+[c]
+Glooorie, un copil s-a nascut;
+Glorie Lumina aducand
+Glorie un copil s a nascut
+Pe pamant.
+
+[v2]
+Pace-ai lasat-o atunci cand te-ai nascut
+La plansul Tau iubirea aparut
+O vin, o vin, Emanuel
+El este cantul celor suferinzi
+El e Mesia
+Printul cel promis
+E aici, El e aici, Emanuel.
+
+[b]
+Pentru credinciosi,
+Cei insetati,
+Ce-n ruga stau,
+Nemangaiati;
+Iata regele,
+El e Mesia,
+Emanuel, Emanuel.

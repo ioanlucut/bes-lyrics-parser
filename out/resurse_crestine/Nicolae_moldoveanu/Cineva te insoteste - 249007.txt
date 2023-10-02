@@ -1,0 +1,35 @@
+[title]
+Cineva te insoteste {composer: {Nicolae Moldoveanu}, {rcId: {249007}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cineva te însoțește
+totdeauna pe cărare,
+și-ți cunoaște-n adâncime
+toat-a vieții frământare.
+
+[c]
+E Isus, e Isus!
+Spune-I Lui tot ce te-apasă
+spune-I lui Isus,
+spune-I lui Isus.
+
+[v2]
+Cineva-ți privește gândul
+și-ale lacrimei prelingeri,
+știe rana ce te arde
+și vrea ca să nu mai sângeri.
+
+[v3]
+Cineva vrea să te-ajute,
+când te-ncearc-o grea durere,
+vrea să-ți dea alinu-I dulce
+și în suflet mângâiere.
+
+[v4]
+Cineva te priveghează
+și te-ndeamnă spre ’nainte
+ai încredere deplină
+în iubirea Lui fierbinte

@@ -1,0 +1,34 @@
+[title]
+Oricine iubeste o floare {composer: {Nicolae Moldoveanu}, {rcId: {248728}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Oricine iubește o floare,
+E-aproape de-al vieții mister.
+/: Oricine se-oprește-n cărare
+S-asculte un glas de izvoare, bis
+E-aproape, aproape de cer... bis :/
+
+[v2]
+Oricine iubește seninul,
+Când soarele urcă-n eter
+/: Oricine-și înalță suspinul,
+Când licăre-n mae-aproapul, bis
+E-aproape, aproape de cer... bis :/
+
+[v3]
+Oricine pe munții albaștri
+Privește granitul sever,
+/: Oricine pe căi de sihașitri,
+Străbate păduri de jugaștri bis
+E-aproape, aproape de cer... bis :/
+
+[v4]
+Dar cine-a primit îndurarea
+Din rănile blândului Miel,
+/: Acela e frate cu floarea,
+Cu râul, cu munții, cu marea,
+Și-oriunde îl duce cărarea, bis
+Tot cerul, tot cerul e-n el. bis :/

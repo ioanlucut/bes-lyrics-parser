@@ -1,0 +1,55 @@
+[title]
+Laudati pe domnul sfantul {composer: {Nicolae Moldoveanu}, {rcId: {7338}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Lăudați pe Domnul Sfântul,
+lăudăm, lăudăm,
+căci e bun pe tot pământul,
+lăudăm, lăudăm.
+Noi Îl lăudăm, noi Îl lăudăm,
+noi Îl lăudăm, lăudăm.
+Căci e bun pe tot pământul,
+lăudăm, lăudăm, lăudăm.
+
+[v2]
+Lăudați-L dimineața,
+lăudăm, lăudăm,
+EI vă luminează fața,
+lăudăm, lăudăm.
+Noi Îl lăudăm, noi ÎI lăudăm,
+noi Îl lăudăm, lăudăm;
+EI vă luminează fața,
+lăudăm, lăudăm, lăudăm.
+
+[v3]
+Lăudați-L ziua-ntreagă,
+lăudăm, lăudăm,
+EI vă face munca dragă
+lăudăm, lăudăm.
+Noi ÎI lăudăm, noi Îl lăudăm
+noi îl lăudăm, lăudăm.
+El vă face munca dragă,
+lăudăm, lăudăm, lăudăm.
+
+[v4]
+Lăudați-L până seara,
+lăudăm, lăudăm,
+să răsune toată țara,
+lăudăm, lăudăm.
+Noi Îl lăudăm, noi Îl lăudăm
+noi Îl lăudăm, lăudăm.
+Să răsune toată țara,
+lăudăm, lăudăm, lăudăm.
+
+[v5]
+Lăudăm al Său Sfânt Nume,
+lăudăm, lăudăm,
+să răsune-ntreaga lume,
+lăudăm, lăudăm!
+Noi Îl lăudăm, noi îl lăudăm
+noi Îl lăudăm, lăudăm,
+să răsune-ntreaga lume,
+lăudăm, lăudăm, lăudăm!

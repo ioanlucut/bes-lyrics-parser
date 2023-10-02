@@ -6,8 +6,8 @@ v1,c,v2,c
 
 [v1]
 Liniștește-te acum,
-Inima ce-n lungul drum
-Ai obosit și ești frântă
+Inimă ce-n lungul drum
+Ai obosit și ești frântă!
 De ce bați așa de rar?
 Nici eu nu mă simt mai bine,
 Dar să știi: am credință!
@@ -15,15 +15,15 @@ Dar să știi: am credință!
 [c]
 Curând vine Domnul,
 Si cu drag va șterge
-Lacrima din ochii ce plâng
-Curând va fi pace,
+Lacrima din ochii ce plâng!
+Curând va fi pace
 Si cântarea se va înălța
-La Tronul cel Sfânt!
+La tronul cel sfânt!
 
 [v2]
 Liniștește-te acum,
-Lacrimă ce pe obraz te-ai rătăcit,
-Si ești tristă
+Lacrimă ce pe obraz te-ai rătăcit
+Si ești tristă!
 Va veni o zi când noi,
-Vom cânta cu îngerii armonios,
+Vom cânta cu îngerii armonios:
 Am credință!

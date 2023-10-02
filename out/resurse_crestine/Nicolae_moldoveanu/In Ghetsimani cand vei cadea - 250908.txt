@@ -1,0 +1,29 @@
+[title]
+In ghetsimani cand vei cadea {composer: {Nicolae Moldoveanu}, {rcId: {250908}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+/: În Ghetsimani când vei cădea, :/
+cu fruntea-nsângerată,
+/: când numai singur vei purta :/
+/: poveri ca niciodată, :/
+
+[v2]
+/: Când nimenea din cei iubiți, :/
+nu-ți vor putea fi-aproape,
+/: când răii vor veni-ndâriiți :/
+/: ca mări cu negre ape, :/
+
+[v3]
+/: Când umbra așteptatei cruci :/
+mai cruntă-ți va apare,
+/: calvarul trebuit să-l duci :/
+/: nemaicrezut de mare, :/
+
+[v4]
+/: - Spre Țelul Cărui ești jertfit, :/
+te-nalță și supune,
+/: rugându-te - nebiruit, :/
+/: te-nalți din rugăciune. :/

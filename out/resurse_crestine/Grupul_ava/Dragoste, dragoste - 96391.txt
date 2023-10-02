@@ -5,7 +5,7 @@ Dragoste dragoste {composer: {Grupul Ava}, {rcId: {96391}}
 c,v1,c,v2,c,v3,c
 
 [c]
-/: Dragoste, dragoste, tu din ceruri ai venit.
+/: Dragoste, dragoste, tu din ceruri ai venit,
 Dragoste, dragoste, pe-acești doi tu i-ai unit.
 Dragoste, dragoste, fii mereu in viața lor,
 Licărire de lumină printre nori. :/
@@ -19,11 +19,11 @@ Cu sfială, pășesc înspre altar.
 [v2]
 Binecuvintează-i, Te rugăm, Părinte Bun,
 Fii ocrotitor în al lor drum!
-Pace, fericire dă-le Tu mereu în dar
+Pace, fericire, dă-le Tu mereu în dar
 Acestor tineri ce stau azi la altar.
 
 [v3]
 Iar necazuri grele în al lor cămin de-or fi,
-Doamne, fă-i, Te rog biruitori!
+Doamne, fă-i, Te rog, biruitori!
 Dă-le-n dar nădejdea! Tu ești singur Salvator.
-Esti Iubirea, al lor Mântuitor.
+Esti Iubirea, al lor Mântuitor!

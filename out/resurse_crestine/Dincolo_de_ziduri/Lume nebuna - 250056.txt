@@ -1,0 +1,45 @@
+[title]
+Lume nebuna {composer: {Dincolo De Ziduri}, {rcId: {250056}}
+
+[sequence]
+v1,c,v2,c,c
+
+[v1]
+Pe fondul unei boli ce pare că nu mai trece
+Îmi țin moralul optimist, deci: hai sus!
+Nu vreau să mă îmbăt cu apă rece pân’ la zece
+Ridic fruntea sus, merg în sens opus
+Deci hai, frate, sus!
+
+[c]
+O lume nebună
+Mă cheamă tot timpul spre ea
+Ca să stau la masă cu ea
+Voi rămâne tare!
+Voi sta la fel tot în picioare
+E vorba aici despre onoare
+/: O lume nebună
+Mă cheamă tot timpul spre ea
+Ca să stau la masă cu ea
+Voi rămâne tare!
+Voi sta la fel tot în picioare
+E vorba aici despre onoare /x2
+O lume nebună
+Mă cheamă tot timpul spre ea
+Ca să stau la masă cu ea
+Voi rămâne tare!
+Voi sta la fel tot în picioare
+E vorba aici despre onoare
+
+[v2]
+Val după val tot vine și pare ca va fi bine
+Să facem progrese, să pășim, să nu ne mai oprim
+Parcă niciodată n-a fost așa
+Totul e despre noi, tot mai mult în noroi
+Ridic fruntea sus, mâinile spre cer și: hai sus!
+
+[b]
+De vrei să dai în mine
+De vrei să-mi vinzi gogoși
+De vrei să-mi dai chiar luna
+Tot în picioare voi sta, neclintit voi umbla!

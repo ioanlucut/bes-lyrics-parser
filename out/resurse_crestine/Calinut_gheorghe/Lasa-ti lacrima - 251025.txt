@@ -1,0 +1,29 @@
+[title]
+Lasa-ti lacrima {composer: {Calinut Gheorghe}, {rcId: {251025}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Lasă-ți lacrima să-ți curgă
+și să-ți udă fața blândă.
+Lasă-ți sufletul să-ți plângă
+și obrajii să-ți inunde.
+
+[c]
+Cu tine lacrimile amare
+se transformă în bucurii.
+Sub mâna-ți binecuvântată
+voi cânta o veșnicie.
+
+[v2]
+Lasă-ți inima să-i cânte
+că el bine ne-a făcut.
+Ți-a șters lacrima-ntristare
+cântă Domnului cel mare.
+
+[v3]
+Lasă-ți fața să-I zâmbească
+căci de El ești mângâiat.
+Lacrimile de-n-tristare
+doar cu El tu le-ai udat

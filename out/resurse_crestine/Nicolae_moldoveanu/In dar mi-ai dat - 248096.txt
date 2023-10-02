@@ -1,0 +1,29 @@
+[title]
+In dar mi-ai dat {composer: {Nicolae Moldoveanu}, {rcId: {248096}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+În dar mi-ai dat avutul
+Ce parcă stăpânesc,
+Ci nu-mi țin pentru mine
+Decât ce dăruiesc.
+
+[v2]
+În dar mi-ai dat talantul
+Ce parcă este-al meu,
+Ci nu-mi cresc decât partea
+Ce-o dăruiesc mereu.
+
+[v3]
+În dar îmi dai și pâinea
+Ce parc-o am lucrând,
+Ci este-a mea doar câtă
+Dau celui mai flămând.
+
+[v4]
+În dar mi-ai dat viața
+Ce parcă mi-o trăiesc,
+Ci-a mea e doar ce astăzi
+Iubind mi-o împărțesc.

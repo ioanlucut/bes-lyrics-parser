@@ -1,0 +1,45 @@
+[title]
+Vrednic {composer: {Beniamin Palincaș}, {rcId: {248727}}
+
+[sequence]
+v1,v2,c,v3,c,v4,b,c,e
+
+[v1]
+Cu răni pe trupul Lui,
+La dreapta Tatălui,
+Vrednic e Domnul Dumnezeu!
+
+[v2]
+Cel ce-a biruit,
+Cel ce S-a jertfit,
+Vrednic e Domnul Dumnezeu!
+
+[c]
+Vrednic, vrednic Dumnezeu,
+Vrednic, vrednic numai El,
+Să rupă pecețile,
+Să vindece rănile,
+El e vrednic, vrednic Dumnezeu!
+
+[v3]
+Cel întâi născut
+Semnul morții a-nfrânt.
+Vrednic e Domnul Dumnezeu!
+
+[v4]
+Prin Duhul întrupat,
+De Tatăl înălțat,
+Fiul e Domn și Dumnezeu!
+
+[b]
+Vrednic, vrednic
+Să domnească
+Rădăcina casei Lui!
+Vrednic, vrednic
+De-nchinare,
+Glorie în veci Regelui!
+
+[e]
+Am auzit un glas care strigă
+”
+Iată Leul ce Se ridică!”

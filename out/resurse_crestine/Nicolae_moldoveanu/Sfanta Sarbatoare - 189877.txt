@@ -1,0 +1,53 @@
+[title]
+Sfanta sarbatoare {composer: {Nicolae Moldoveanu}, {rcId: {189877}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Sfântă Sărbătoare
+La noi ai venit.
+Soare, veșnic soare,
+Tu ne-ai dăruit!
+
+[c]
+Căci Tu, Sărbătoare,
+Ești pe veci,
+Isus, sufletului care
+Ție s-a supus!
+
+[v2]
+Sfântă Bucurie,
+Mir plăcut de Nard,
+Umpli pe vecie,
+Inimi care ard.
+
+[c2]
+Căci Tu, Bucurie,
+Ești pe veci, Isus,
+Pentru-acel ce Ție
+Viața și-a adus!
+
+[v3]
+Sfântă Mângâiere,
+Azi Te dăruiești,
+Nouă în durere,
+Să ne întărești!
+
+[c3]
+Căci Tu, Mângâiere,
+Ești pe veci, Isus,
+Pentru-acel ce-Ți cere
+Harul Tău de Sus!
+
+[v4]
+Pururea ne ține
+Sufletul supus,
+Ca s-avem prin Tine
+Ceru-ntreg, Isus!
+
+[c4]
+Sărbătoare dragă,
+Bucuria-n plin,
+Mângâierea-ntreagă
+Tu ești pe deplin!

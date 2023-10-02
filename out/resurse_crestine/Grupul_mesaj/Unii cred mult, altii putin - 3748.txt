@@ -1,0 +1,42 @@
+[title]
+Unii cred mult altii putin {composer: {Grupul Mesaj}, {rcId: {3748}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Unii cred mult, alții puțin;
+Dar sunt atâția ce nu cred nimic.
+Eu te întreb, prietene:
+”
+Spune-mi, ce crezi tu?”
+
+[c]
+Ai lui Dumnezeu suntem,
+Și noi am fost salvați prin har,
+Astăzi poți veni și tu,
+Primind viață în dar.
+
+[v2]
+Unii pornesc, alții se opresc,
+Dar sunt atâția ce rătăcesc.
+Gândește-te, prietene,
+Încotro mergi tu?
+
+[v3]
+Unii iubesc, alții urăsc,
+Dar sunt atâția ce-s schimbători.
+Întrebă-te, prietene:
+Oare cum ești tu?
+
+[v4]
+Anii trec iute în viața ta,
+Și zi de zi, tu vei observa
+Că ai rămas fără de Hristos-
+Și atunci vei regreta.
+
+[v5]
+Te îndemnăm, prietene,
+Schimbă-ți azi viața ta!
+La Dumnezeu întoarce-te
+Și pace vei afla!

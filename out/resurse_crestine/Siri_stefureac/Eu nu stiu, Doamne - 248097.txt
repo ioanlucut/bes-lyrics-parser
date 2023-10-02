@@ -1,0 +1,31 @@
+[title]
+Eu nu stiu doamne {composer: {Siri Stefureac}, {rcId: {248097}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Eu nu știu, Doamne, încotro voi merge
+Și nu știu pașii unde-mi vor călca
+Nu știu de vin zile bune-rele...
+Dar știu că sunt in mana Ta!
+Eu nu știu de va fi ziuă sau noapte,
+Și nu știu cât va fi puterea mea,
+Dar știu că tu esti Domnul meu in toate,
+Și vreau sa urmez doar calea Ta!
+
+[c]
+/: Pe calea Ta, voi ’nainta....
+Cu tine, Domnul meu alăturea
+Și cât voi fi, cât voi trai,
+Doar pe tine te voi preamarii! :/
+
+[v2]
+Eu știu, o Doamne, mare ești in toate
+Și știu că mare e puterea Ta!
+Știu că poți să scapi chiar de la moarte,
+Și că toate sunt in mana Ta!
+Ai hrănit mulțime de popoare,
+Vindecări, chiar mari tu au făcut,
+Cin’ poate cu tin’ să se compare?
+Cand tu ești Sfânt, Sfânt de trei ori Sfânt?

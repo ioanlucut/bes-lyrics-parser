@@ -1,0 +1,31 @@
+[title]
+Ce nepatrunsa mila {composer: {Nicolae Moldoveanu}, {rcId: {249271}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Ce nepătrunsă milă
+e-aceea care-mparte
+iertare pentru silă
+și viață pentru moarte!
+Ce mistică iubire
+e-aceea ce dorește
+fiorul din privire
+din plinul ei ni-l crește!
+
+[v2]
+Ce taină din vecie
+e-aceea ce ne cere
+sărmana sărăcie
+pe-o veșnică avere!
+Ce har fără sfârșire
+e-acel ce ne cerșește
+fărâma de iubire
+ce el ne-o dăruiește!
+
+[v3]
+/: O, nepătrunsă-i vrerea
+și-a Tale gânduri toate,
+nici graiul nici tăcere
+a spune nu le poate! :/

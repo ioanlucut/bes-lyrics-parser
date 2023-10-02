@@ -1,0 +1,28 @@
+[title]
+Dragostea {composer: {Anca Ostafe}, {rcId: {248128}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Dragostea e darul cel mai prețios
+Motivul suferinței lui Hristos
+Din dragoste în lumea noastră a venit
+C-atât de mult El ne-a iubit pe toți.
+
+[c]
+/: Să răspândim dragoste
+Și să iubim din toată inima
+Nădejdea când se va sfârși
+Credința de s-ar termina
+Dragostea va rămânea :/
+
+[v2]
+Dragostea să fie veșnic pentru voi
+Liantul ce vă leagă în nevoi
+În dragoste întotdeauna să trăiți
+Și zilnic pe Isus vă bizuiți.
+
+[e]
+Dragostea e darul cel mai prețios
+Ce l-am primit din mâna lui Hristos!

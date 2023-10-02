@@ -1,0 +1,34 @@
+[title]
+Eu cred in isus {composer: {Nicolae Zamfir}, {rcId: {251411}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Eu cred în Isus
+El poate vindeca
+Eu cred în Isus
+El poate ierta
+Eu cred în Isus
+El poate mântui
+Eu cred în Isus
+El poate izbăvi
+
+[c]
+Nui nimeni ca Domnul
+Puternic și mare
+Nui nimeni ca El, în univers
+El vindeca, iartă
+El mânuiește, crede în El
+El în veci domnește
+
+[v2]
+Eu cred în Isus
+El este viu
+Eu cred în Isus
+E a Domnului Fiu
+Eu cred în Isus
+El va reveni
+Eu cred în Isus
+E Domn din vesnici
+Curând El va veni

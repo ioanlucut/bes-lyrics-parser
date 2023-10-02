@@ -1,0 +1,35 @@
+[title]
+Rugaciunea mi-o asculta {composer: {Nicolae Moldoveanu}, {rcId: {249311}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Rugăciunea mi-o ascultă,
+Doamne-acum la greu,
+să nu tremure credința
+sufletului meu.
+
+[c]
+O, Isuse, o, Isuse,
+/: plâng și gem, :/
+ajutorul Tău să-mi dărui
+/: când Te chem. :/
+
+[v2]
+Cel vrăjmaș țintește-n mine
+cu săgeata lui,
+dar spre Tine-alerg, și-n lacrimi
+rugăciunea-mi sui.
+
+[v3]
+Din izvorul milei Tale
+umple-mă cu har,
+ca să ’naintez pe calea
+mântuirii, iar.
+
+[v4]
+Să-Ți slujesc în curăție
+până la sfârșit,
+înălțând slăvitu-Ți Nume
+mai desăvârșit.

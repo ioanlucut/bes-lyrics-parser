@@ -1,0 +1,35 @@
+[title]
+Mergeam si eu odata {composer: {Nicolae Moldoveanu}, {rcId: {248101}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Mergeam și eu odată pe drumul cel mișel,
+Dar, vai, unde-aș fi-acuma de-aș fi sfârșit pe el!
+
+[c]
+O, slavă, veșnic slavă,
+Iubirii lui Hristos,
+/: Căci numai El din moartea
+Cea veșnică m-a scos. :/
+
+[v2]
+Umblam și eu cu lumea pe calea largă, - dar
+Vai, ce-aș fi-ajuns pe urmă în focul cel amar.
+
+[v3]
+Vorbeam și eu odată cu cei nebuni, ca ei,
+Dar vai, ce-aveau s-ajungă la urmă pașii mei.
+
+[v4]
+M-aș fi putut desparte pe veci de Dumnezeu,
+Căci, vai, n-aveam pe nimeni să-mi mustre drumul meu.
+
+[v5]
+Târziu, un Singur Prieten a fost să-mi spună cum
+Sfârșește-al nepăsării și-al vinei mele drum.
+
+[v6]
+De nu-mi ieșeai, Isuse, atunci în drumul meu,
+Vai, unde-aș fi astăzi, veșnic pierdut de Dumnezeu.

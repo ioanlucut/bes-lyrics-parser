@@ -1,0 +1,35 @@
+[title]
+Calea harului {composer: {Nicolae Moldoveanu}, {rcId: {251852}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Calea harului slăvit,
+Dumnezeul meu,
+s-o pășesc pân-la sfârșit,
+Dumnezeul meu.
+/: Să pot fi folositor,
+Dumnezeul meu,
+spre viață tuturor,
+Dumnezeul meu. :/
+
+[v2]
+Calea dragostei, deplin,
+Dumnezeul meu,
+s-o pășesc tot mai senin,
+Dumnezeul meu.
+/: Să fiu dulce orișicui,
+Dumnezeul meu,
+pentru mântuirea lui,
+Dumnezeul meu. :/
+
+[v3]
+Calea sfântă pe pământ,
+Dumnezeul meu,
+s-o pășesc mai cu avânt,
+Dumnezeul meu,
+/: Să fiu soare în umblat,
+Dumnezeul meu,
+și-un creștin adevărat,
+Dumnezeul meu. :/

@@ -1,0 +1,31 @@
+[title]
+Binecuvantat fie {composer: {Anonim}, {rcId: {247868}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+/: Binecuvântat fie!
+Acel ce vine ca-mpărat! :/
+
+[c]
+/: Osana!
+Binecuvântat!
+Binecuvântat!
+Să fie Domnul! :/
+
+[v2]
+/: Binecuvântat fie!
+Acel ce vine din slavă! :/
+
+[v3]
+/: Slăvită în veci fie!
+Împărăția ce vine! :/
+
+[v4]
+/: Cel ce vine ca-mpărat
+În veci fie glorificat! :/
+
+[v5]
+/: Măreț este Dumnezeu
+Cu laude noi te onorăm! :/

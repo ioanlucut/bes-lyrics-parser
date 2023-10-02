@@ -2,13 +2,13 @@
 Inca o vale (one more valley) {composer: {Dottie Rambo, Jimmie Davis, Traducere RO}, {rcId: {90244}}
 
 [sequence]
-v1,c,v2,c,s,c
+v1,c,v2,c
 
 [v1]
 Când sunt prins în mreaja lumii, îndoieli mă copleșesc,
 Nori apar și soarele nu-l mai zăresc;
 Dar o voce vrea să-mi spună: zi frumoasă azi va fi,
-Nu lăsa furtuni să-nnece nădejdi vi!
+Nu lăsa furtuni să-nnece nădejdi vii.
 
 [c]
 Și de-ar fi încă-o vale, încă-un deal,
@@ -21,6 +21,3 @@ Cel rău să nu-ți vadă lacrimi și-n necaz să biruiești,
 Capul ridicat să-l ții și să zâmbești;
 Credincios să fii tot timpul căci nu în zadar va fi,
 Doar puțin și trece, orice greu ar fi!
-
-[s]
-El ne-a păstrat sufletul cu viață și n-a îngăduit să ni se clatine piciorul. Psalm 66:9

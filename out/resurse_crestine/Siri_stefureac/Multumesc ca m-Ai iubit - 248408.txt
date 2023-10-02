@@ -1,0 +1,32 @@
+[title]
+Multumesc ca m-ai iubit {composer: {Siri Stefureac}, {rcId: {248408}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Cum să-ți mulțumesc, o Doamne?
+Viața mea tu mi-ai salvat-o pe vecii,
+M-ai scăpat de la pierzare,
+Ai pus în mine o cântare,
+Să îți cânt tot osanale, Miel divin...!
+Ai făcut din mine o Tată,
+O ființă minunată cum sunt eu,
+Pot să-ți cânt azi fericită
+Că de tine sunt iubită, tot mereu!
+
+[c]
+/: Mulțumesc că m-Ai iubit,
+Și în brațe m-Ai primit,
+Să fiu tot mai fericită,
+Să fiu de tine dorită! :/
+
+[v2]
+Viața mea, o sfinte Tată,
+Ție ți-a fost închinată pe vecii,
+Sunt acum răscumpărată,
+Haina nu mi-e mai pătată nici un pic...
+Vreau să-ți slujesc numai Ție
+Căci tu mi-aduci bucurie, tot mereu
+Vreau cu mintea mea curată,
+Inima să-ți fie dată pentru Cer!

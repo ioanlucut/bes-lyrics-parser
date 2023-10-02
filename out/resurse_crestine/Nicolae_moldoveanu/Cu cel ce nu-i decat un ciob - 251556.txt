@@ -1,0 +1,35 @@
+[title]
+Cu cel ce nu-i decat un ciob {composer: {Nicolae Moldoveanu}, {rcId: {251556}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+- Cu cel ce nu-i decât un ciob,
+cu un hoinar te bucuri, tată.
+Eu ți-am dus greul ca un rob
+și n-ai fost vesel niciodată.
+- Da, fiul meu, tu ai robit,
+dar eu te-aștept de-o veșnicie
+ca să-mi slujești ca fiu iubit,
+din dragoste, nu pe simbrie...
+
+[v2]
+- Cu-acest fugar, cu-acest proclet
+petreci sub viță și sub cetini.
+Și mie nu mi-ai dat un ied
+ca să mă bucur cu prieteni.
+- O, nu un ied, ci zeci de zeci
+ți i-aș fi dat, căci se cuvine.
+Dar tu voiai ca să petreci,
+vai, cu străinii, nu cu mine...
+
+[v3]
+- I-ai dat inel împărătesc
+si mantie de in cu ciucuri.
+Iar eu de ani și ani trudesc,
+și tu de mine nu te bucuri.
+- Tu ești al meu. Dar ești pustiu.
+El s-a întors din foc și gheață!
+El a fost mort și azi e viu,
+iar tu trăiești și nu ai viață.

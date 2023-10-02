@@ -5,25 +5,25 @@ Iubirea iarta totul {composer: {Beniamin Pop}, {rcId: {83303}}
 v1,c,v2,c,v3,c
 
 [v1]
-Cand nu mai ai speranta
-Pe acest pamant
-Hai vino la Isus
-La Domnul nostru sfant.
+Când nu mai ai speranță
+Pe acest pământ,
+Hai, vino la Isus,
+La Domnul nostru sfânt!
 
 [c]
-Iubirea iarta totul,
-Iubirea-i Dumnezeu
-Ea va ramane pururi
-Cel mai sfant poem.
+Iubirea iartă totul,
+Iubirea-i Dumnezeu,
+Ea va rămâne pururi
+Cel mai sfânt poem.
 
 [v2]
-De cauti mangaiere
-Si nimeni nu ti-o da
-Grabeste-te de vino
-Te cheama Dumnezeu.
+De cauți mângăiere
+Și nimeni nu ți-o da
+Grăbește-te de vino,
+Te cheamă Dumnezeu.
 
 [v3]
-Lasa-ti azi trecutul
-Si-n dar El iti va da
-Iertare pace sfanta
-Si liber vei pleca.
+Lasă-ți azi trecutul
+Și-n dar El Îți va da
+Iertare, pace sfântă
+Și liber vei pleca.

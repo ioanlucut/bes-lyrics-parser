@@ -1,0 +1,41 @@
+[title]
+Departe esti inca curata fecioara {composer: {Traian Dorz}, {rcId: {5662}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Departe ești încă curată fecioară
+Și ape și codri și munți te-nconjoară
+Și munca-ndelungă te ține, te ține
+Și dulcele Mire nu vine, nu vine...
+
+[c]
+Mai coase, mai țese, mai cântă, mai plânge
+Mai încă puține podoabe a-ți strânge
+Puține suspine și tot mai puține
+Căci dulcele Mire grăbește spre tine.
+
+[v2]
+Departe ești încă - și noaptea-i târzie,
+Și candela-ți arde în casa pustie,
+Și-i grea așteptarea - și lacrima-ți vine
+Dar dulcele Mire gândește la tine...
+
+[v3]
+Azi, orice iubire din urmă-ți dispare,
+Doar una-i aprinsă, și scumpă, și mare,
+Și zidul te-apasă, și lanțul te ține,
+Iar dulcele Mire nu vine, nu vine...
+
+[v4]
+Mai greu trec ca anii clipitele tale,
+Privești prin zăbrele departe, pe cale,
+Tresari, când se-aude un pas care vine,
+Dar dulcele Mire gândește la tine...
+
+[v5]
+Așteaptă! - mai încă puțină-așteptare,
+Puțină veghere, puțină răbdare,
+Dar până când, oare, acestea vor ține
+Iar dulcele Mire nu vine, nu vine...

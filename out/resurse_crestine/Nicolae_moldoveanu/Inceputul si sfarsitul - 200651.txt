@@ -1,0 +1,47 @@
+[title]
+Inceputul si sfarsitul {composer: {Nicolae Moldoveanu}, {rcId: {200651}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c3
+
+[v1]
+Începutul și sfârșitul,
+Ce departe-s uneori.
+Cât de tristă-i câteodată,
+Seara unor veseli zori!
+
+[c]
+Ce urât se-ncheie anii,
+Deseori porniți frumoși!
+Ce ajung la bătrânețe,
+Mii de tineri credincioși!
+
+[v2]
+Câți copii ce-n rugăciune,
+Și în lacrimi au crescut.
+Au ajuns de parcă mamă,
+Niciodată n-ar fi-avut.
+
+[c2]
+Câte cântece voioase,
+Au un dureros sfârșit!
+Dar și câte zile negre,
+Au apusul strălucit!
+
+[v3]
+Câte prietenii și drumuri,
+Și-nsoțiri pornesc plăcut.
+Iar la urmă-ar fi fost bine,
+Nici să nu se fi știut!
+
+[c3]
+Câți din cei cu case sfinte,
+Au murit necredincioși!
+Cine-ar ști ce pot fi mâine,
+Cei azi tineri și voioși?
+
+[v4]
+/: Bune-s zilele frumoase,
+Când frumoase și apun.
+Bună-a fost atunci viața,
+Când sfârșitul ei e bun! :/

@@ -1,0 +1,35 @@
+[title]
+Sunt strain si calator {composer: {Nicolae Moldoveanu}, {rcId: {1812}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Sunt străin și călător,
+N-am aici palate,
+Dar în țara fără nor
+Ale mele-s toate.
+/: Toate stelele de sus,
+Tot ce n-are-n veci apus,
+Prin iubirea lui Isus,
+Ale mele-s toate. bis 2 :/
+
+[v2]
+Domnul meu în infinit
+Multe stele ține.
+Pentru cine le-a zidit,
+Decât pentru mine?
+/: Din neant când le-a chemat,
+Domnul mult s-a bucurat,
+Însă viața nu Și-a dat
+Decât pentru mine. bis 2 :/
+
+[v3]
+Dar nici eu nu-s al oricui,
+Lui Îi sunt cununa.
+Casa mea și cerul Lui
+Tot ce-avem e una!
+/: Și la bine și la greu
+Eu al Lui sunt, El e-al meu;
+Eu nimic, El Dumnezeu,
+Dar ce-avem e una! bis 2 :/

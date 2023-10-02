@@ -1,0 +1,29 @@
+[title]
+Iubire fii paza {composer: {Nicolae Moldoveanu}, {rcId: {249940}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Iubire, fii paza vieții curate,
+ferește-o nedusă pe căi vinovate.
+/: Păzește-o ne-nfrântă de nici o ispită,
+întoarce-o din calea și ușa oprită. :/
+
+[v2]
+Ajută-i să lupte, să creadă, să spere,
+în orice ’nălțare și-n orice cădere.
+/: Aprinde-i lumina în neagra-nnoptare,
+alină-i suspinul tăcerii amare. :/
+
+[v3]
+Fă-i caldă căsuța și crucea ușoară,
+pe zarea ei rece căldură-nfășoară.
+/: Sărută-i obrajii răniți de durere,
+rămâi-i prieten vieții stinghere. :/
+
+[v4]
+Blândețe-i așează la ușă cu teamă,
+acopere-i lipsa de frate și mamă.
+/: Și-ntoarce-i în ceruri deplin, pe vecie,
+comoara jertfită sfințirii și Ție. :/

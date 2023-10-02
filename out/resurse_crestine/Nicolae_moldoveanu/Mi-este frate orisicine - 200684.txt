@@ -1,0 +1,29 @@
+[title]
+Mi-este frate orisicine {composer: {Nicolae Moldoveanu}, {rcId: {200684}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Mi-este frate orișicine, are duhul rugăciunii,
+Care are-o sfântă groază de-apărările minciunii,
+Care pentru-o vorbă slabă se căiește ani de zile,
+Care pentru orice greșuri plânge lepădându-și-le.
+
+[v2]
+Mi-este frate orișicine, își câștigă-o pâine-amară,
+Învățat cu nedreptatea și cu vorba de ocară.
+Care nu râvnește-avutul nimănui pe nici o cale,
+Ci-și îndură cu-nfrânare crucea curăției sale.
+
+[v3]
+Mi-este frate cine rabdă, cine-așteaptă, cine tace,
+Cine plânge, cine-asudă, cine luptă, cine face.
+Cine poartă pentru alții vini de care nu-i de vină,
+Încrezându-se-n dreptate, înviere și lumină.
+
+[v4]
+Mi-este frate îndrăznețul și eroul și zdrobitul,
+De la unde-ncepe-Apusul, până unde-i Răsăritul.
+Căci acela, doar acela, este-un har pentru noroade;
+Nu se teme nici de moarte, nici de viață, nici de roade.

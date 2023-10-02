@@ -1,0 +1,33 @@
+[title]
+Nu voi uita nu voi uita {composer: {Nicolae Moldoveanu}, {rcId: {249773}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Nu voi uita, nu voi uita, nicicând, Isuse,
+Că-n Jertfa-Ți răscumpărătoare,
+Îmi sunt pentru vecii aduse
+A harului adânci izvoare.
+
+[c]
+Nu voi uita, nu voi uita,
+Nu voi uita, nicicând, Isuse.
+
+[v2]
+Nu voi uita, nu voi uita durerea-Ți mută
+Și setea ce Te-a ars haină,
+Ca să-mi gătești pe veci plăcută
+Viață nouă în lumină.
+
+[v3]
+Nu voi uita, nu voi uita credincioșia
+În neoprita-ți dăruire,
+Prin care intru-n veșnicia
+De adevăr și de iubire.
+
+[v4]
+Nu voi uita, nu voi uita căci pentru mine
+Te-ai dat întreg, pe totdeauna,
+Tu-mi ești pe veci Supremul Bine,
+Tu m-ai făcut cu Tine una.

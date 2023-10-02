@@ -1,0 +1,46 @@
+[title]
+O doamne vad {composer: {Nicolae Moldoveanu}, {rcId: {249300}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+O, Doamne, văd!
+Abia acuma văd!
+Abia acuma au toate-n viață rost!
+/: Abia acuma când toate s-au schimbat
+cu-adevărat,
+când toate s-au schimbat
+abia acum
+încep să văd
+ce-am fost! :/
+
+[v2]
+O, Doamne-aud!
+Abia acum aud!
+Abia acum răsună glasul Tău!
+/: Abia acum mă bucur să Te-ascult
+atât de mult
+mă bucur să Te-ascult
+pe cât am fost de surd
+de-ngust, de rău! :/
+
+[v3]
+O, Doamne, merg!
+Abia acuma merg!
+Abia acum simt calea sub picior.
+/: Abia acum, de Duhul Tău atras,
+fac primul pas,
+de Duhul Tău atras
+și-aș vrea s-alerg,
+să cânt, să sar, să zbor! :/
+
+[v4]
+O, Doamne, sunt!
+Abia acuma sunt!
+Abia acum cu-adevărat trăiesc!
+/: Abia acum, în tot ce-i pământesc,
+pot să mă-nfrunt.
+În tot ce-i pământesc.
+Și-acum aud și văd
+și merg și sunt! :/

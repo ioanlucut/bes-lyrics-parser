@@ -7,8 +7,8 @@ v1,c,v2,c
 [v1]
 Chiar dacă aș vorbi în limbi omenești,
 Și chiar dac-aș avea daruri multe,
-Și chiar dacă aș ști taine îngerești,
-Și credința mea să mute munții!
+Și chiar dacă aș ști taine îngerești
+Și credința mea să mute munții,
 /: Dar dacă eu nu am dragoste,
 Nu sunt nimic! :/
 

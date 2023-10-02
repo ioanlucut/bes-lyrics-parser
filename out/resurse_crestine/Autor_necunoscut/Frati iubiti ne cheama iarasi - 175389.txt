@@ -1,5 +1,5 @@
 [title]
-Frati iubiti ne cheama iarasi {{rcId: {175389}}
+Frati iubiti ne cheama iarasi {composer: {Anonim}, {rcId: {175389}}
 
 [sequence]
 v1,v2,v3,v4,v5

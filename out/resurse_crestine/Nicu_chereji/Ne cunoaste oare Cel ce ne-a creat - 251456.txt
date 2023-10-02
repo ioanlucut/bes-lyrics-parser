@@ -1,0 +1,35 @@
+[title]
+Ne cunoaste oare cel ce ne-a creat {composer: {Nicu Chereji}, {rcId: {251456}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ne cunoaște oare Cel ce ne-a creat
+Cu-a Lui mâini cu gingășie
+Suntem noi în lume cu adevărat
+Fii și fiice de-mpărat.
+
+[c]
+Stânca Mântuirii noastre
+Ne-a-mpăcat cu Dumnezeu
+Dându-și viața la Golgota
+Și trăind prin Harul Său.
+
+[v2]
+Haideți cu iubire să ne îndemnăm
+Zi de zi la fapte bune
+Cu-n cuvânt pe alții să-i încurajăm
+Dragoste să le-arătăm.
+
+[v3]
+Fie a noastre vorbe când ne întâlnim
+Drese pe deplin cu sare
+Să cunoască lumea că suntem creștini
+Pentru Dumnezeu trăim.
+
+[v4]
+Haideți cu iubire cât se spune azi
+Să ne străduim mereu
+Ca să ne cunoască în măreața zi
+Preaiubitul Dumnezeu

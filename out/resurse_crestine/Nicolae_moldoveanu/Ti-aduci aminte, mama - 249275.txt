@@ -1,0 +1,65 @@
+[title]
+Ti-aduci aminte mama {composer: {Nicolae Moldoveanu}, {rcId: {249275}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Ți-aduci aminte, mamă,
+de vremea fericită,
+când mă țineai pe brațe
+și păru-mi sărutai?
+Când nu aveam în lume
+ființă mai iubită,
+nici ochi mai plini de farmec,
+și nici mai dulce grai...
+/: Ți-aduci aminte, mamă, :/
+când păru-mi sărutai?
+
+[v2]
+Ți-aduci aminte, mamă,
+cum te țineam cuprinsă
+să spui cu mine seara
+duioase rugăciuni?
+Și cum în nopți de veghe,
+sub candela aprinsă,
+Iăsai să-ți cadă lacrimi
+pe-o carte din străbuni?
+/: Ti-aduci aminte, mamă, :/
+ce sfinte rugăciuni?
+
+[v3]
+De-atunci trecură anii
+ca frunza scuturată
+și-au troienit să-mi stingă
+credința de copil.
+Dar într-o zi de taină
+scânteia de-altădată,
+s-a prefăcut în soare
+și-n albe flori de-april...
+/: Urcând pe-o nouă treaptă :/
+credința de copil.
+
+[v4]
+Dar ochii tăi par astăzi
+acoperiți de ceață
+și mă privesc cu teamă
+ca niște ochi străini.
+Și caut ochii mamei
+să-i văd din nou în față:
+cum mă priveau odată
+de duioșie plini.
+/: Dar ochii tăi par astăzi :/
+ca niște ochi străini.
+
+[v5]
+O, vino iarăși, mamă
+de brațul meu cuprinsă,
+să-ngenunchem alături
+ca-n vremea ce s-a dus
+și vom simți în suflet
+o candelă aprinsă
+ce ne va duce-odată
+în țara lui Isus!
+/: O, vino astăzi, mamă, :/
+cu mine la Isus!

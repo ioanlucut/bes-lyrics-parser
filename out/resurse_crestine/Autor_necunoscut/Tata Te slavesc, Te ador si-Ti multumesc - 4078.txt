@@ -6,18 +6,18 @@ v1,v2,v3
 
 [v1]
 Tată Te slăvesc, Te ador și Te slăvesc
-/: Fii glorificat în veci de veci,
-Fii glorificat, fii glorificat,
+Fii glorificat în veci de veci,
+/: Fii glorificat, fii glorificat,
 Fii glorificat în veci de veci. :/
 
 [v2]
 Isus Te iubesc, Te ador și Te slăvesc
-/: Fii glorificat în veci de veci,
-Fii glorificat, fii glorificat,
+Fii glorificat în veci de veci,
+/: Fii glorificat, fii glorificat,
 Fii glorificat în veci de veci. :/
 
 [v3]
 Duh Sfânt Te iubesc, Te ador și Te slăvesc,
-/: Fii glorificat în veci de veci,
-Fii glorificat, fii glorificat,
+Fii glorificat în veci de veci,
+/: Fii glorificat, fii glorificat,
 Fii glorificat în veci de veci. :/ x3

@@ -1,0 +1,35 @@
+[title]
+Mai mult ca bunurile lumii {composer: {Nicolae Moldoveanu}, {rcId: {249949}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Mai mult ca bunurile lumii,
+mai mult ca tot ce-i scump în ea,
+mai mult decât se poate spune,
+Isuse, e iubirea Ta.
+Mai mult, mai mult,
+/: mai mult :/ decât se poate spune
+mai mult, mai mult,
+mai mult, Isuse, e iubirea Ta.
+
+[v2]
+Mai mult decât înțelepciunea
+acestui veac stricat și rău,
+mai mult ca cerul și pământul,
+Isuse, e Cuvântul Tău,
+Mai mult, mai mult,
+/: mai mult :/ ca cerul și pământul,
+mai mult, mai mult,
+mai mult, Isuse, e Cuvântul Tău.
+
+[v3]
+Mai mult ca orice-nchipuire,
+sau gânduri care se desfac,
+mai mult decât se poate crede,
+Isus, ești Tu - ești Tu în veac.
+Mai mult, mai mult,
+/: mai mult :/ decât se poate crede,
+mai mult, mai mult,
+mai mult, Isus, ești Tu - ești Tu în veac.

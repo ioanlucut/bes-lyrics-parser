@@ -1,0 +1,29 @@
+[title]
+Bucurati-va {composer: {Iosif Misu}, {rcId: {248072}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+„
+Bucurati-va in Domnul, iarasi zic”,
+La Golgota ne arata
+Cat de mult El ne-a iubit,
+El e mantuirea noastra,
+Fie preamarit.
+
+[v2]
+„
+Bucurati-va in Domnul, iarasi zic”,
+Rauri mari de Har revarsa
+Peste noi, nemasurat,
+El e bogatia noastra,
+Fie laudat.
+
+[v3]
+„
+Bucurati-va in Domnul, iarasi zic”,
+Viata Lui de inviere
+Ni se da, nestăvilit,
+El e invierea noastra,
+Fie proslavit.

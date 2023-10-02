@@ -1,0 +1,35 @@
+[title]
+Sa binecuvinteze cerul {composer: {Nicolae Moldoveanu}, {rcId: {244570}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Să binecuvinteze cerul,
+Pe orice binefăcător,
+/: Pe-oricare mângâind pe alții,
+Cu rod curat și iubitor. :/
+
+[v2]
+Să binecuvinteze mărul,
+De lângă drumuri prăfuit,
+/: Ce dă și umbră și lumină,
+Și roadă nemai răsplătit. :/
+
+[v3]
+Și piersicul cel plin de cântec,
+Cu crengile până-n pământ,
+/: Și teiul miresmând văzduhul,
+Și bradul soț, până-n mormânt. :/
+
+[v4]
+Pe orișicine face-un bine,
+Unui străin și călător,
+/: Să-l binecuvinteze cerul,
+C-a face bine nu-i ușor. :/
+
+[v5]
+Dar pe acela ce s-ascunde,
+Când face binele mereu,
+/: Mai mult să-l binecuvinteze,
+C-aceasta este cel mai greu. :/

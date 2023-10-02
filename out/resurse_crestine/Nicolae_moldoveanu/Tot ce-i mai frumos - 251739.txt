@@ -1,0 +1,35 @@
+[title]
+Tot ce-i mai frumos {composer: {Nicolae Moldoveanu}, {rcId: {251739}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Tot ce-i mai frumos în mine,
+tot ce-n loc mai dulce-i pus,
+tot ce-i stare mai curată,
+Ți-aș da Ție, drag Isus.
+Tot ce-i mai frumos în cântec,
+tot ce-i viers mai dulce spus,
+tot ce-i harfă mai divină,
+Ți-aș da Ție, drag Isus.
+
+[v2]
+Tot ce-i mai frumos în limbă,
+tot ce-i grai mai dulce-adus,
+tot ce-i formă mai deplină,
+Ți-aș da Ție, drag Isus.
+Tot ce-i mai frumos în minte,
+tot ce-i țintă mai presus,
+tot ce-i artă mai adâncă,
+Ți-aș da Ție, drag Isus.
+
+[v3]
+Tot ce-i mai frumos în lacrimi,
+tot ce n-are-n veci apus,
+tot ce-i dor și rugăciune,
+Ți-aș da Ție, drag Isus.
+Tot ce-i mai frumos în jertfă,
+tot ce-i slavă-n ceruri sus,
+tot ce-i scump în veșnicie,
+Ți-aș da Ție, drag Isus.

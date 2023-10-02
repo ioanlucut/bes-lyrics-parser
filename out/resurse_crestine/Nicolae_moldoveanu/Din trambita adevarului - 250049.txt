@@ -1,0 +1,35 @@
+[title]
+Din trambita adevarului {composer: {Nicolae Moldoveanu}, {rcId: {250049}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: Din trâmbița adevărului :/
+/: să sun mai deslușit, :/
+oricând și orișiunde,
+cum Tu mi-ai poruncit.
+
+[c]
+Ajută-mă, Isuse,
+chemarea-mi s-o-nțeleg,
+să-nalț slăvitu-Ți nume
+și adevăru-ntreg.
+
+[v2]
+/: Cu trâmbița adevărului :/
+/: pe risipiti s-adun :/
+în casa mântuirii
+și Ție să-i supun.
+
+[v3]
+/: Prin trâmbița adevărului, :/
+/: la viață să trezesc, :/
+pe cei ce-n fărdelege
+și-n beznă ațipesc.
+
+[v4]
+/: Căci trâmbița adevărului. /
+/: e viul Tău Cuvânt, :/
+Isuse, Domnul Slavei,
+în cer și pe pământ.

@@ -1,0 +1,41 @@
+[title]
+Pot sa treaca multi pe-alaturi {composer: {Nicolae Moldoveanu}, {rcId: {248881}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Pot să treacă mulți pe-alături
+și nici seamă să nu-Ți țină,
+pentru mine ești Isuse
+scumpa inimii lumină.
+
+[c]
+Pot Cuvântul să Ți-l calce,
+câți vor vrea și nici să-i doară
+pentru mine el rămâne
+scumpa inimii comoară.
+
+[v2]
+Pot la fiii Tăi să caute
+mulți cu silă și cu ură,
+eu privesc la ei cu toată
+scumpa inimii căldură.
+
+[c2]
+Pot să-Ți lepede-a Ta cruce,
+mulți nebuni dup-a lor vrere,
+pentru mine ea rămâne
+scumpa inimii putere.
+
+[v3]
+Pot să-Ți calce-nvățătura,
+pot să-Ți lepede-al Tău Nume
+și-a Ta cale pentru mine
+ele-s tot ce-i scump pe lume.
+
+[c3]
+Și cu cât fricoși se lasă
+mulți din cei aleși ’nainte,
+eu le-aș arde tot mai ’naltă
+jertfa dăruirii sfinte.

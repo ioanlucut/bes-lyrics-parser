@@ -1,0 +1,36 @@
+[title]
+Adeseori pe cale se intampla sa gresesti {composer: {Ionică Stoica}, {rcId: {248871}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Adeseori pe cale se întâmplă să greșești
+Dar Dumnezeu te iartă dacă te recunoști
+Te roagă cu credință la al tău mântuitor
+/: Să îți vină în ajutor :/
+
+[c]
+Du-te la el la cruce spune-i ce te aduce
+Domnul te va asculta
+Recunoaște a ta greșeală Dumnezeu nu vrea să piară
+nici unul din copii săi
+
+[v2]
+Chiar dacă mergi pe calea ce-i plină de încercări
+Tu nu privi înapoi privește către cer
+Acolo este locul unde s-a înălțat
+/: Isus cel minunat :/
+
+[v3]
+Te recunoaște astăzi că ești un păcătos
+Și spune Isuse doamne la tine mă întorc
+Te rog să îmi dai putere să pot înainta de acum pe calea Ta
+/: Să urc spre Golgota :/
+
+[c2]
+Du-te la el la cruce spune-i ce te aduce
+Domnul te va asculta
+Nu uita Isus te-așteaptă
+El va lua a ta povară
+Ce ai greșit Isus îți va ierta

@@ -1,0 +1,45 @@
+[title]
+Asa ai vrut tu (daca intr-o tainica vreme) {composer: {Nicolae Moldoveanu}, {rcId: {58060}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Dacă-ntr-o tainică vreme
+din lut Cineva mă făcu,
+/: și dacă sunt om și nu vierme,
+o, Doamne,
+ /: așa ai vrut Tu... :/
+x2/
+
+[v2]
+Dacă am grai și nu muget,
+să spun ce iubesc și ce nu,
+/: și dacă am harul să cuget,
+o, Doamne,
+ /: așa ai vrut Tu... :/
+x2/
+
+[v3]
+Dacă întâia zidire
+deplin în păcat se pierdu,
+/: când totuși mi-ai dat izbăvire,
+o, Doamne,
+ /: așa ai vrut Tu... :/
+x2/
+
+[v4]
+Dacă m-ai scos din neghină,
+nu viața-mi urâtă-Ți plăcu,
+/: nu eu am vrut iarăși lumină,
+ci, Doamne,
+ /: așa ai vrut Tu... :/
+x2/
+
+[v5]
+Și dacă voi merge odată
+la Cel ce din Duh mă născu,
+/: voi spune de-a pururea: Tată,
+Te laud,
+ /: c-așa ai vrut Tu... :/
+x2/

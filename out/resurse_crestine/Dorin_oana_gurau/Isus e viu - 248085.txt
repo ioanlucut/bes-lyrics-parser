@@ -1,0 +1,44 @@
+[title]
+Isus e viu {composer: {Dorin, Oana Gurău}, {rcId: {248085}}
+
+[sequence]
+v1,c,v2,c2,e
+
+[v1]
+Dimineața devreme femeile-n taină
+Aleargă-n grădină cu sufletul frânt
+Să Îl plângă pe Cel ce trei zile în urmă
+A fost răstignit și închis în mormânt
+Dar o voce de înger atunci le vorbește
+Veniți și vedeți că mormântu-i pustiu
+Nu mai plângeți, Cel căutat nu-i aici
+Isus e viu.
+
+[c]
+/: A-înviat dintre morți precum a promis
+Iadul nu a putut să Îl țină închis
+Trăiește Domnul meu
+Și împreună cu El și eu voi trăi
+M-a născut pentru cer când pe cruce muri
+Trăiește azi și-n veci :/
+
+[v2]
+De atunci peste veacuri răsună vestirea
+Că Domnul Isus dintre morți a înviat
+L-a văzut și Maria și Simon și Toma
+Când El cu iubire li s-a arătat
+Și cu-aceeași tărie eu astăzi pot spune
+Că Domnul trăiește în mine, o știu
+Îl simt zi de zi și azi voi vesti
+Isus e viu.
+
+[c2]
+/: A-înviat din mormânt și S-a înălțat
+Legăturile morții Domnul le-a sfărâmat
+Și știu că vine-o zi
+Când în haine de slavă Îl voi întâlni
+Pe Acel ce pe cruce pentru mine muri
+Căci El va reveni :/
+
+[e]
+E viu, e viu, e viu în veci

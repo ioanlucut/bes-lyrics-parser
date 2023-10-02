@@ -1,0 +1,35 @@
+[title]
+Nu-i iubire {composer: {Nicolae Moldoveanu}, {rcId: {248138}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Nu-i iubire-aceea care
+N-are flacără în ea,
+/: Ca s-aprindă doru-n inimi
+Și să le păstreze-așa. :/
+
+[v2]
+Nu-i credință-adevărată
+Când nu-s roadele de sus,
+/: S-o-nsoțească pretutindeni
+La venit ca și la dus. :/
+
+[v3]
+Nu-i nicicând nădejde vie
+Fără cer și haru-i sfânt,
+/: Fără temelia pusă
+De Isus și-al Său Cuvânt. :/
+
+[v4]
+Nu-i iertare de păcate
+Într-o viață-n care nu-i
+/: Bunătatea iertătoare,
+Ca iertarea Domnului. :/
+
+[v5]
+Căci iubirea și credința
+Și nădejdea când Ie ai,
+/: Cu lsus te fac asemeni
+Și cu sfinții Lui din rai. :/

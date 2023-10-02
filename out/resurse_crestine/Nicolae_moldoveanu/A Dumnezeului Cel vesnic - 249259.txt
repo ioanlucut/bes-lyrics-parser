@@ -1,0 +1,41 @@
+[title]
+A dumnezeului cel vesnic {composer: {Nicolae Moldoveanu}, {rcId: {249259}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+A Dumnezeului Cel veșnic
+Și Tatăl nostru prea iubit,
+Să fie lauda și cinstea
+Acum și-n veci fără sfârșit!
+
+[c]
+Laudă, laudă noi cântăm,
+Dumnezeului veșnic cântăm!
+Îi cântăm, îi cântăm nesfârșit,
+Lui și Mielului Său Cel jertfit!
+
+[v2]
+Căci de la El coboară-ntruna
+Tot darul bun, spre noi, deplin,
+Din El venim, spre El ne ducem,
+Și-a noastre vieți prin El se țin!
+
+[v3]
+Cât de adâncă-i e iubirea
+Ce ne-nfășoară necurmat
+Și ce frumoasă-i mântuirea
+Ce prin Cristos, pe veci, ne-a dat!
+
+[v4]
+Ce-mpărăție fără margini,
+De pace și lumină-n veac,
+Ne-a pregătit, în cerul slavei,
+Cu haruri mii ce se desfac!
+
+[v5]
+A Dumnezeului Cel veșnic
+Și-a Mielului Său preasfințit
+Să fie lauda și cinstea
+Și mulțumirea - nesfârșit!

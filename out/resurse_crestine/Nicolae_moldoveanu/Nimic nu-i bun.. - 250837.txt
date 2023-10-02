@@ -1,0 +1,35 @@
+[title]
+Nimic nu-i bun {composer: {Nicolae Moldoveanu}, {rcId: {250837}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Nimic nu-i bun, nimic nu-i sfânt,
+nimic n-aduce fericire,
+de n-are obârșia-n cer,
+de nu se naște din Iubire.
+
+[c]
+Dumnezeul Sfânt
+este-ntreg Iubire,
+El, prin Ea ne dă
+rai și nemurire.
+
+[v2]
+Iubirea-i adevăr trăit;
+Ea poartă totdeauna viața,
+și Dumnezeu, prin Ea, spre noi
+Și-ntoarce-n orice clipă Fața.
+
+[v3]
+Iubirea-i minunatul har
+cel felurit - în veșnicie,
+mereu mai nou. mereu mai viu
+și născător de bucurie.
+
+[v4]
+Nimic nu-i bun, nimic nu-i sfânt,
+de nu se naște din Iubire,
+prin Ea ne contopim pe veci
+în Veșnica Dumnezeire.

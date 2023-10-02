@@ -1,0 +1,41 @@
+[title]
+Sa dau oricui ce-mi cere {composer: {Nicolae Moldoveanu}, {rcId: {248425}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Să dau oricui ce-mi cere,
+Chiar dacă darul meu
+Îi va sluji să-mi facă
+Calvarul și mai greu.
+Să-i dau toiag acelui
+Ce merge șchiopătând,
+Chiar dacă-o să-l întoarcă
+A mă lovi curând.
+
+[v2]
+Să-ntind frânghia celui
+Căzut în groapă grea,
+Chiar dacă el pe urmă
+Lega-mi-va mâna mea.
+Să-i fac loc lângă mine
+De-aproapelui pribeag,
+Chiar dacă el, din casă,
+M-aruncă peste prag.
+
+[v3]
+Să-i dau din pâine-oricare
+Mi-o va cerși mereu,
+Chiar dacă aș plăti-o
+Cu prețul cel mai greu.
+Să dau, și să nu-i judec
+Ce fac cu tot ce-mi iau,
+S-ascult numai Cuvântu-Ți:
+Cui cere, eu să-i dau.
+
+[v4]
+/: Căci Tu plăti-vei, Doamne,
+Și celui ce n-a dat,
+Și celui ce cu darul
+Lucrează vinovat. :/

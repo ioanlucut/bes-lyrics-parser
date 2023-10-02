@@ -1,0 +1,41 @@
+[title]
+Cu fiecare cantec nou {composer: {Nicolae Moldoveanu}, {rcId: {244611}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Cu fiecare cântec nou,
+Născut din adevăr și soare,
+Lumina crește tot mai mult,
+Și biruința-i tot mai mare.
+
+[c]
+Cu fiecare cântec nou,
+Iubirea-și crește noi petale,
+Și rodul ei și-l dă mai copt,
+Drumeților ce trec pe cale.
+
+[v2]
+Cu fiecare cântec nou,
+Mai limpede și plin se-arată,
+Măreața Jertfă de pe cruce,
+Și Fața Domnului curată.
+
+[c2]
+Cu fiecare cântec nou,
+Apropierea-i mai ușoară,
+De inimile care vor,
+A sfintei mântuirii comoară.
+
+[v3]
+Căci fiecare cântec e,
+Un drum spre-a harului cetate,
+Un sfânt îndemn, un scut de foc,
+Prin noaptea lumii de păcate.
+
+[c3]
+Isus Mântuitorul meu,
+Te rog da-mi noi cântări din Tine,
+S-aducă-n suflete mereu,
+Mireasma raiului ce vine.

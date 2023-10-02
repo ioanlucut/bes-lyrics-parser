@@ -1,0 +1,29 @@
+[title]
+Slava slava tie azi {composer: {Nicolae Moldoveanu}, {rcId: {251775}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Slavă, slavă Ție, azi Îți cânt,
+Ție, Domnul slavei, Tatăl meu Cel Sfânt!
+
+[c]
+Cântec de iubire,
+numai din iubire,
+cântec pentru Tine, cânt acum aprins!
+Tu-mi ești bucuria,
+toată bucuria,
+Tatăl meu din ceruri Sfânt și Necuprins!
+
+[v2]
+Slavă, slavă Ție-Ți cânt cu jar,
+Ție-n veci Izvorul nesecat de har!
+
+[v3]
+Slavă, slavă Ție-Ți voi cânta,
+să-Ți măresc prin cântec, Doamne, slava Ta!
+
+[v4]
+Slavă, slavă cânt în veșnicii,
+Ție și slăvitei Tale-mpărății!

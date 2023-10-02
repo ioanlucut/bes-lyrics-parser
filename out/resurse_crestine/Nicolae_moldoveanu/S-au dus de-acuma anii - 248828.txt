@@ -1,0 +1,47 @@
+[title]
+S-au dus de-acuma anii {composer: {Nicolae Moldoveanu}, {rcId: {248828}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+S-au dus de-acuma anii
+de zâmbet și cântări,
+venit-a vremea unei
+mai rodnice-ascultări.
+
+[c]
+Trecut-au anii tineri,
+de-acum tot mai frumos,
+să crești spre plinătatea
+staturii lui Hristos.
+
+[v2]
+Venit-a vremea unui
+mai înțelept cuvânt
+și-al unui mers mai vrednic,
+mai rodnic și mai sfânt.
+
+[v3]
+Sfiește-te-a mai râde
+și-a mai umbla oricum,
+și anii și credința
+îți cer de-acum alt drum.
+
+[v4]
+C-o sfântă chibzuință
+mergi tot mai înțelept,
+cu tot ce spui mai vrednic,
+în tot ce faci mai drept.
+
+[v5]
+Cântăm copilăria,
+la anii ei de-atunci,
+dar plângem pe bărbații
+rămași la minte prunci.
+
+[v6]
+Fiți prunci la răutate,
+dar anii când vă cresc,
+rod bun și ei și Domnul
+vă cer si poruncesc.

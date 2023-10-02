@@ -1,0 +1,29 @@
+[title]
+Cine sunt? - who am i? {composer: {Casting Crowns, Traducere RO}, {rcId: {74076}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Cine sunt pentru ca Acel ce-i Sfânt
+Să-mi știe numele, să-mi dorească inima?
+Cine sunt? deși stelele pe cer
+Ar vrea a lumina calea pentru viața mea?
+Nu-s acestea pentru că eu aș merita ceva,
+Dar sunt toate pentru că așa este Voia Sa!
+
+[c]
+Eu sunt o floare efemeră, astăzi e și mâine piere
+Un val ce trece-oceanul, un abur dus de vânt
+Totuși m-asculți când strig spre Tine
+Mâna Ți-o întinzi spre mine
+Mi-ai spus cine sunt eu
+
+[v2]
+Cine sunt de îmi ierți păcatele,
+Mă privești cu dragoste?
+Tu mă ridici de jos...
+Cine sunt, pentru mine să oprești
+Furtuni și vijelii? Tu m-ai salvat de jos
+Nu-s acestea pentru că eu aș merita ceva,
+Dar sunt toate pentru că așa este Voia Sa!

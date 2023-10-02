@@ -1,0 +1,27 @@
+[title]
+Tu esti totul pentru mine doamne {composer: {Ionel Saran Bochis}, {rcId: {91605}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Tu ești totul pentru mine, Doamne,
+O, ce fericire și splendoare!
+Tu ești dragostea nemărginită,
+Mi-ai cuprins și-a mea inimă.
+
+[c]
+/: Pentr-un loc în veșnicie, un gram din a Ta iubire
+Și-un loc în slava Ta, inima toată Ți-aș da! :/
+
+[v2]
+Ține-mă, Isus, mereu de mână,
+După Tine inima-mi suspină,
+Dar știu că mă vei lua pe brațe
+Atunci când voi merge-acasă.
+
+[v3]
+Dar acuma aș mai vrea ceva:
+Ajută-mă să Îti pot urma,
+Nu vreau jurăminte, nici suspine,
+Vreau doar un loc sus la Tine.

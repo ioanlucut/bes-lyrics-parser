@@ -1,0 +1,33 @@
+[title]
+Dumnezeu lupta pentru tine {composer: {Naomi Doru}, {rcId: {250136}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Dumnezeu luptă pentru tine!
+Lasă orice grijă ce vine!
+Nu-ți fure pacea și liniștea
+Căci Isus e de partea ta!
+
+[c]
+Îl lăudăm pe Dumnezeu,
+Îi înălțăm azi Numele!
+El merită toată cinstea
+Glorie în veci Îi vom da!
+
+[v2]
+El e Puternicul Dumnezeu
+Te ține-n braț puternic mereu!
+Ne-a promis că nu ne va lăsa,
+Cu niciun chip nu ne va uita!
+Lasă-Ți problemele la crucea Sa,
+Vino așa cum ești la Golgota!
+El va lua suferința ta
+Și-n bucurie o va transforma!
+
+[e]
+Nu ne-a ajuns nicio ispită
+Să nu fi fost potrivită
+Cu puterea noastră de-a răbda!
+De aceea noi Îi vom cânta!!!

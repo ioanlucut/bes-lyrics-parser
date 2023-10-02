@@ -1,0 +1,41 @@
+[title]
+Nu-ti risipi din viata {composer: {Nicolae Moldoveanu}, {rcId: {248837}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Nu-ți risipi din viață
+nici un minut măcar,
+nu-ți da comoara sfântă
+pe lucruri în zadar.
+
+[c]
+/: Nu-ți pierde-al tinereții
+timp scurt și fericit,
+nu-ți arunca un aur
+pe veci ne-nlocuit. :/
+
+[v2]
+Nu-ți nimici-a iubirii
+avânt înflăcărat,
+nu-ți îngropa-n gunoaie
+avutul cel curat.
+
+[c2]
+/: Nu-ți ruina puterea
+nu-ți da tot ce-ai mai bun
+păcatului și poftei
+și traiului nebun. :/
+
+[v3]
+Ci dă-i vieții tale
+cel mai înalt folos,
+din anii tinereții
+urmează-L pe Hristos.
+
+[c3]
+/: Prin El vei da vieții
+preț veșnic și-nmiit,
+prin El vei fi-ntre oameni
+un om desăvârșit. :/

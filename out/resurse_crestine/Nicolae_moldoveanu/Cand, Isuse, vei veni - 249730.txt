@@ -1,0 +1,35 @@
+[title]
+Cand isuse vei veni {composer: {Nicolae Moldoveanu}, {rcId: {249730}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când, Isuse, vei veni,
+Sărbătoare-n veci va fi.
+Fericiți, fericiți vom cânta!
+Căci în cer ne vei sui
+Și-altă stare vom primi,
+Fericiți vom cânta!
+
+[c]
+Laudă Îți vom cânta,
+și în veci va răsuna,
+Doamne-n veci de veci, slava Ta!
+
+[v2]
+Toți acei ce-am așteptat
+Ceasul Tau cu dor curat,
+Fericiți, fericiți vom cânta!
+Auzi-vom glas strigat:
+”
+O, veniti, voi ce-ați luptat!”
+Fericiti vom cânta!
+
+[v3]
+Dragostea să ne-o mărești,
+Dorul să ni-l întețești,
+Fericiți, fericiți vom canta!
+Ca să fim așa cum ești,
+Când, Isuse-o să sosești,
+Fericiți vom cânta!

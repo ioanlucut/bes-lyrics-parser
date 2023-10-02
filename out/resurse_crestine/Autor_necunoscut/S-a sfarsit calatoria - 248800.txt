@@ -1,0 +1,38 @@
+[title]
+S-a sfarsit calatoria {composer: {Anonim}, {rcId: {248800}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+S-a sfârșit călătoria, vom petrece veșnicia, Cu Isus
+Sus în țară minunată, cum nu ne-am gândit vre-odată
+Cu Isus Cu Isus.
+
+[c]
+/: Ne e dor, de Patria de sus
+De Isus, de Isus, de Isus :/
+Așteptăm să vină ziua, ziua Ta cea fericită
+Când cu toți ne-om înălța în zbor.
+Către-mpărăția vieți, unde-i tronul frumuseții,
+A tatălui Cel fericit.
+
+[v2]
+Ca cei doi pe drum de jale, când mergeau pe-a vieții cale, cu Isus
+Ne-arde inima, suspina, după cina cea deplina
+Cu Isus, cu Isus.
+
+[v3]
+După mersul cel spre Soare, după mare debarcare cu Isus.
+Dup-orașul Mama noastră, dincolo de zarea albastra,
+Cu Isus, cu Isus.
+
+[v4]
+Dincolo de stânci ascunse, spre noianuri nepătrunse, cu Isus.
+Dincolo de’orice teroare, în eterna sărbătoare
+Cu Isus, cu Isus.
+
+[v5]
+Dupa-apusuri de durere, în eterna mângâiere, cu Isus.
+Sufletul în noi suspina, o rămâi cu noi la cina,
+O Isus, o Isus.

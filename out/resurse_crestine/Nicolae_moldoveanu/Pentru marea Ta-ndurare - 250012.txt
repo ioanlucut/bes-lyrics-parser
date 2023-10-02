@@ -1,0 +1,41 @@
+[title]
+Pentru marea ta-ndurare {composer: {Nicolae Moldoveanu}, {rcId: {250012}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Pentru marea Ta-ndurare,
+/: Doamne, Te laud! :/
+care mi-a adus iertare,
+Doamne, Te laud, Te laud!
+
+[c]
+Laudat, fii lăudat,
+pentru ceea ce mi-ai dat,
+preamărit, fii preamărit,
+pentru ce mi-ai pregătit!
+
+[v2]
+Pentru dulcea Ta iubire,
+/: Doamne, Te laud! :/
+ce m-a scos de la pieire,
+Doamne, Te laud, Te laud!
+
+[v3]
+Pentru jertfa Ta divină,
+/: Doamne, Te laud! :/
+ce mi-a șters întreaga vină,
+Doamne, Te laud, Te laud!
+
+[v4]
+Pentru-a Ta credincioșie,
+/: Doamne, Te laud! :/
+ce-mi gătește-o-mpărăție
+Doamne, Te laud!
+
+[v5]
+Pentru harurile pline,
+/: Doamne, Te laud! :/
+care sunt cuprinse-n Tine,
+Doamne, Te laud. Te laud!

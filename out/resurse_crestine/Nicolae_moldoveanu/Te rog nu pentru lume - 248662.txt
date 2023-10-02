@@ -1,0 +1,41 @@
+[title]
+Te rog nu pentru lume {composer: {Nicolae Moldoveanu}, {rcId: {248662}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Te rog nu pentru lume,
+Tată nici pentru fiii ei cei răi,
+Ci pentru turma; Ta curată
+Și pentru copilașii Tăi.
+
+[c]
+Te rog nu să le-oprești furtuna
+Și nici să-i iei de pe pământ,
+Mă rog să-i faci să fie una,
+Așa cum Eu cu Tine Sunt.
+
+[v2]
+Le cer adânca părtășie,
+Cu darul Binelui suprem,
+Uniți din inimă să fie,
+Așa cum Eu și Tu suntem.
+
+[c2]
+Mărturisirea Mântuirii
+La fel s-o poarte pe pământ
+Părtași sfințeniei iubirii,
+Uniți cum Eu cu Tine Sunt.
+
+[v3]
+Curați de orișice minciună,
+De-a pururi, Tată să-i păzești
+Uniți să fie împreună,
+Așa cum Tu cu Mine ești.
+
+[c3]
+Și-ajută-i, Tată, să trăiască
+Cerința Sfântului Cuvânt,
+Căci dragostea o să-i unească
+Așa cum Eu cu Tine sunt.

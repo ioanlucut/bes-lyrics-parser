@@ -1,0 +1,33 @@
+[title]
+Prin hristos {composer: {Nicolae Moldoveanu}, {rcId: {249313}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Și de sus, dar și de jos
+totul trece prin Hristos.
+/: Dumnezeu cel plin de har
+prin El ni S-a dat în dar. :/
+
+[c]
+Prin Hristos, prin Hristos,
+tot ce-avem e prin Hristos
+
+[v2]
+Îngerii se duc și vin,
+prin Hristos, la noi, deplin
+/: Și ne-aduc cu ei comori
+fără umbre, fără nori. :/
+
+[v3]
+Cerul binecuvântat l
+prin Hristos întreg ni-e dat
+/: Viitorul fericit,
+prin El ni s-a pregătit. :/
+
+[v4]
+Și oricâte taine-ar fi,
+prin Hristos le vom primi.
+/: Mulțumim și ne-nchinăm
+și-al Său Nume lăudăm. :/

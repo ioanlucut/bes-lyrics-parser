@@ -1,0 +1,32 @@
+[title]
+Cand vad lucrarea ta {composer: {Nicolae Moldoveanu}, {rcId: {250178}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când văd lucrarea Ta,
+Eu cânt de veselie,
+dar mai frumos ca ea
+ești Tu, pe veșnicie.
+
+[c]
+Ce frumos ești Tu,
+ce frumos ești Tu,
+Dumnezeul meu,
+Împăratul meu,
+Preaiubitul meu,
+/: Tatăl meu! :/
+Îți cânt și Te laud mereu!
+
+[v2]
+Când dragostea-Ți mi-o dai,
+m-aprind de fericire,
+dar preafrumosu-i rai
+ești Tu, întreg, Iubire.
+
+[v3]
+Când adevăru-Ți sfânt
+deplin mă luminează,
+Te laud și Te cânt.
+Căci Tu îi ești Amiază.

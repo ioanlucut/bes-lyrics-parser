@@ -1,0 +1,27 @@
+[title]
+De ce asa degraba se stinge lampa ta? {composer: {Nicolae Moldoveanu}, {rcId: {248909}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+De ce așa degrabă se stinge lampa ta?
+De ce nici c-o ispită tu nu mai poți lupta?
+De ce la rugăciune te-ndemni așa de rar,
+de ce la dărnicie ajungi tot mai avar,
+de ce te obosește răbdarea prea curând,
+de ce nu ți-e cuvântul și duhul tău mai blând?
+
+[v2]
+De ce nu ai putere vrăjmașii a-ți iubi,
+de ce-ți slăbește râvna cu fiecare zi?
+De ce tot mai în urmă rămâi de frații tăi,
+de ce ți-e tot mai teamă de ochii celor răi?
+De ce tot mai cu groază la moarte te gândești,
+de ce ești tot mai gata mereu să te-ndoiești?
+
+[v3]
+De ce ți-e tot mai slabă dorința de-a cânta,
+de ce mai nici voință, nici duh de a asculta?
+/: Ce-ți face goală viața și sarbezi orice pași?
+- Păcatele ascunse ce nu vrei să le lași! :/

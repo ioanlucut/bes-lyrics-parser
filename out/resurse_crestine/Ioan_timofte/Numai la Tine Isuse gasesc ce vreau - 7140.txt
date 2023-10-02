@@ -1,0 +1,29 @@
+[title]
+Numai la tine isuse gasesc ce vreau {composer: {Ioan Timofte}, {rcId: {7140}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Numai la Tine
+Isuse eu găsesc ce vreau
+Și fericirea
+Numai pe-a Tale căi îmi dai
+
+[c]
+Vreau la Tine
+Necazul să-mi alin
+Tu mi-ești totul
+De-aceea eu la Tine vin
+
+[v2]
+Eu pe a tale câmpii
+Aș vrea ca să trăiesc
+Și viața-ntreagă
+Numai Ție Ți-o dăruiesc
+
+[v3]
+Eu am căutat dar
+În lume pace n-am aflat
+Numai la Tine
+Sufletul meu a alergat

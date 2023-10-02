@@ -1,0 +1,35 @@
+[title]
+Daca dumnezeu e tatal nostru {composer: {Nicolae Moldoveanu}, {rcId: {250015}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Dacă Dumnezeu e Tatăl nostru,
+trebuie să semănăm cu El,
+/: în ființa noastră să se vadă :/
+/: neamestecat sfințitu-I fel. :/
+
+[v2]
+Dacă Dumnezeu e Tatăl nostru,
+adevăr, ca El, să fim oricând,
+/: sfântul Lui Cuvânt ne fie vorba, :/
+/: gândul Lui ne nască orice gånd. :/
+
+[v3]
+Dacă Dumnezeu e Tatăl nostru,
+dragostea-I ne-aprinde ne-ncetat,
+/: iară trupul, sufletul și duhul :/
+/: sunt altarul Lui cu-adevărat. :/
+
+[v4]
+Dacă Dumnezeu e Tatăl nostru,
+voia Lui ni-i desfătarea-n veac,
+/: chipul Lui deplin ne umple viața :/
+/: și orândurile-I ne plac. :/
+
+[v5]
+Dacă Dumnezeu e Tatăl nostru,
+Domn ne este Fiul Său, Hristos.
+/: Prin El Îl cinstim întotdeauna :/
+/: și- I cântăm, slăvindu-L mai frumos. :/

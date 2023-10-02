@@ -1,0 +1,29 @@
+[title]
+Proverbe :- {composer: {Nicolae Moldoveanu}, {rcId: {251266}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+V6: Du-te leneșule, du-te la furnică și privește,
+bagă seamă ce ea face - și privind te-nțelepțește.
+
+[v2]
+V7: Ea nici căpetenii n-are, nici stăpâni, nici cin-s-o-ndrume,
+totuși ea-și câștigă vara hrana strânsă de pe lume...
+
+[v3]
+V8: Totuși ea își pregătește de la seceriș mâncare,
+ostenind din timpul verii harnică și silitoare.
+
+[v4]
+V9: Până când dormi tu, om leneș, când te vei scula tu, spune?
+Viața trece, vremea-i scurtă, nu vor fi tot zile bune.
+
+[v5]
+V10: Să mai dorm puțin, îți zici tu... doar puțină ațipire,
+mai încrucișând din brațe să mai stai în lenevire.
+
+[v6]
+V11: Și cum vine hoțul noaptea... astfel sărăcia vine,
+ca un ucigaș cu arme vine lipsa peste tine.

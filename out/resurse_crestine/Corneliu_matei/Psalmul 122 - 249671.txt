@@ -1,0 +1,31 @@
+[title]
+Psalmul {composer: {Corneliu Matei}, {rcId: {249671}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+Mă bucur când mi se zice:
+„
+Haidem la Casa Domnului”
+Picioarele mi se opresc atunci
+În fața porților.
+
+[c]
+:/
+Ierusalime, tu ești zidit
+Ca o cetate pe munte
+Acolo poporul ales
+Se-nchină lui Dumnezeu. :/
+
+[v2]
+Dorința în rugăciunea mea
+E pacea Ierusalimului
+Și Doamne, eu nu voi înceta
+Să-Ți laud Numele Tău.
+
+[b]
+Rugați-vă și voi, cei ce iubiți
+Copiii Lui Israel
+Să fie pace în Ierusalim
+Mereu să fie păziți.

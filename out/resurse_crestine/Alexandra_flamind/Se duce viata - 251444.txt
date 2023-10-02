@@ -1,0 +1,41 @@
+[title]
+Se duce viata {composer: {Alexandra Flămînd}, {rcId: {251444}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Se duce viața, e ca un abur trecător
+Se scurge timpul și ești un muritor
+Tot ce rămâne chiar după ce pleci
+E să-ți aduni comoară pentru veci.
+
+[c]
+Cine pleacă mântuit
+Va fii veșnic fericit
+Veșnic se va bucura
+Cu Isus la masa Sa.
+
+[v2]
+Se duce viața cu ea te duci mereu
+Fericit vei fii de-L ai pe Dumnezeu
+Te-așteaptă nemurirea, fericirea
+În brațul Lui Isus Hristos, bucuria
+
+[v3]
+E trecătoare viața, e așa de scurtă
+Dar mare e răsplata care-l așteaptă
+Pe cel mântuit de Domnul Hristos
+Cununa vieții de-a fost credincios
+
+[v4]
+Cine a plecat la Domnul e fericit
+Spălat de orice pată și e mântuit
+Aveți în voi nădejde și vă mângâiați
+Cu aceste cuvinte azi vă-mbărbătați
+
+[v5]
+Va veni o zi când toți din morminte
+Se vor ridica spre slavile sfinte
+Ne vom întâlni cu cei ce i-am iubit
+În ziua învierii când viața a biruit!

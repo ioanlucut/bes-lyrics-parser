@@ -2,7 +2,7 @@
 Priveste crinii (consider the lilies) {composer: {Joel Hemphill, Traducere RO}, {rcId: {91949}}
 
 [sequence]
-v1,c,v2,c,s,c
+v1,c,v2,c
 
 [v1]
 Privește cum cresc crinii, ei nu torc, nici nu țes
@@ -21,6 +21,3 @@ Doresc să-ți spun de Domnul, Cel Preaînalt, pururea
 Ce spune soarelui când lumina s-o dea;
 Cu roua dimineții, dă sărut florilor
 Nimic nu Îl oprește să dea ajutor.
-
-[s]
-Uitați-vă cu băgare de seamă cum cresc crinii de pe câmp: ei nici nu torc, nici nu țes; totuși vă spun că nici chiar Solomon, în toata slava lui, nu s-a îmbrăcat ca unul din ei. Matei 6:28-29

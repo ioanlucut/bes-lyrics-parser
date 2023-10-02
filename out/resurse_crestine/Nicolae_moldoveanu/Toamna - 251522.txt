@@ -1,0 +1,29 @@
+[title]
+Toamna {composer: {Nicolae Moldoveanu}, {rcId: {251522}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Toamnă, toamnă ruginie
+multe da-tu-mi-ai tu mie!
+Mi-ai dat struguri, mi-ai dat nuci,
+rău îmi pare că te duci!
+/: Căci după plecarea ta,
+vine iarna, iarna grea! :/
+
+[v2]
+Dar credința-mi spune iară,
+că urmeaz-o primăvară.
+După iarna cea geroasă,
+vine vremea cea frumoasă;
+/: după iarna cea cu nori,
+vine vara cea cu flori. :/
+
+[v3]
+Și credința mi-e mai plină
+și nădejdca mai senină,
+că tot ce e rău va trece,
+Așa ne-a promis Isus,
+/: Și când timpul va sosi.
+tot ce-i spus se va-mplini. :/

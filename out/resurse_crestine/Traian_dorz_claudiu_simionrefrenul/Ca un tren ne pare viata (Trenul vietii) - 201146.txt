@@ -1,0 +1,55 @@
+[title]
+Ca un tren ne pare viata (trenul vietii) {composer: {Traian Dorz, Claudiu Simionrefrenul}, {rcId: {201146}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ca un tren ne pare viața,
+Ne trezim în el mergând
+Fără să ne dăm noi seama
+Unde ne-am urcat și când.
+Mulți copii voioși se urcă..
+Câți în drum n-am întâlnit?!
+Iar câte-un bătrân coboară
+Singur, trist și istovit.
+
+[c]
+Mai lasă, Doamne, -n al vieții tren
+Cerescul har,
+Mai las’o cercetare
+Să știm cine suntem!
+Iar dacă drumul vieții e-n jos
+Si fără rost,
+Tu îndreaptă-ne cărarea
+Și pașii cu folos!
+
+[v2]
+Fericirile sunt halte,
+Unde stăm câte-un minut,
+Până când să ne dăm seama,
+Sună, pleacă, a trecut.
+Iar durerile sunt stații..
+Lungi, de nu se mai sfârșesc
+Și în ciuda noastră parcă,
+Tot mai multe se ivesc.
+
+[v3]
+Vine-odată însă vremea
+Să ne coborâm și noi.
+Ce n-am da atunci o clipă,
+Să ne-ntoarcem înapoi?
+Dar pe când, privind în urmă,
+Plângem timpul ce-a trecut,
+Sună-n gara VEȘNICIEI:
+Am trăit și n-am știut.
+
+[v4]
+Ca un tren ne pare viața,
+Ne trezim în el mergând
+Fără să ne dăm noi seama
+Unde ne-am urcat și când.
+Vine-odată însă vremea
+Să ne coborâm și noi.
+Ce n-am da atunci o clipă,
+Să ne-ntoarcem înapoi?

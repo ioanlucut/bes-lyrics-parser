@@ -1,0 +1,47 @@
+[title]
+Preasfinte miel {composer: {Nicolae Moldoveanu}, {rcId: {241047}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c3
+
+[v1]
+Preasfinte Miel Dumnezeiesc
+- Mireasma curăției -
+Ai rupt peceți care opresc,
+Cărarea veșniciei.
+
+[c]
+Ai dărâmat și-ai nimicit,
+Vrăjmașul zid de moarte,
+De harul vieții fericit,
+Nimic nu mai desparte.
+
+[v2]
+Prin Trupul Tău nevinovat
+Deschis-ai cale lină,
+Spre Cerul binecuvântat,
+Spre dulcea Lui lumină.
+
+[c2]
+Ca toți acei ce cred și vor
+Să scape de pieire,
+Prin Tine de păcatul lor,
+Să afle mântuire.
+
+[v3]
+Și din întunecat mormânt,
+Să iasă-n veșnic Soare,
+Acolo-n Cerul pururi sfânt,
+Gătit în sărbătoare.
+
+[c3]
+lsuse-Mielușel și Leu,
+Biruitor prin Cruce,
+Se-nchină-adânc sufletul meu,
+Și slavă-n veci Ți-aduce.
+
+[v4]
+C-ai mântuit și viața mea,
+Prin Jertfa Ta cea mare,
+Făcând să strălucească-n ea,
+Divina Ta Lucrare!

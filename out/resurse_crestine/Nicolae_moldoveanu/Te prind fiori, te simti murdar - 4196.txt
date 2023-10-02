@@ -26,18 +26,18 @@ Că pentru ține, mi-am lăsat
 /: Străpunse mâinile-amândouă? :/
 
 [v4]
-Ce fericiți sunt frații mei,
-Toți cei iertați de fapte rele
-/: Și tu nu știi și tu nu vrei
-Să-ntinzi doar mâna și să iei
-/: Ofrandă îndurării mele! :/
-
-[v5]
 Ți-a spus un duh neînțelept
 Că nu mai poți găsi iubire...
 /: Și tu nu știi că tot ce-aștept
 E doar să vii, să-mi cazi la piept
 /: Cu un cuvânt de mulțumire? :/
+
+[v5]
+Ce fericiți sunt frații mei,
+Toți cei iertați de fapte rele
+/: Și tu nu știi și tu nu vrei
+Să-ntinzi doar mâna și să iei
+/: Ofrandă îndurării mele! :/
 
 [v6]
 O, vino dar, te chem să vii,

@@ -1,0 +1,41 @@
+[title]
+Slava tie turn puternic {composer: {Nicolae Moldoveanu}, {rcId: {251138}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Slavă Ție, Turn Puternic
+de-adăpost și de scăpare,
+Cetățuie nepătrunsă,
+Zid slăvit de apărare.
+Braț nebiruit ce dărui
+mântuire pe vecie,
+- din tot sufletul, Isuse,
+slavă, slavă, slavă Ție!
+
+[c]
+/: Ție Sfânt Mântuitor :/
+toată slava, toată slava tuturor;
+/: Dumnezeu nebiruit :/
+toată slava, toată slava, fii slăvit!
+
+[v2]
+Slavă Ție, ce din toate,
+i-ai scăpat pe-ai Tăi cu bine,
+alungând a-nopții duhuri,
+de-ngroziri și spaime pline,
+Și-aducând al mântuirii
+răsărit cu bucurie,
+din tot sufletul, Isuse,
+slavă, slavă, slavă Ție!
+
+[v3]
+Slavă Ție, ce din toate
+Câte vor mai fi să vină,
+Și vei scăpa pe-ai Tăi cu bine,
+până-n veșnica Lumină,
+unde le-ai gătit o dulce
+Și-o eternă-mpărăție,
+- din tot sufletul, Isuse,
+slavă, slavă, slavă Ție!

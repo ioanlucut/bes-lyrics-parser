@@ -1,0 +1,45 @@
+[title]
+Tu carte-a vesniciei {composer: {Nicolae Moldoveanu}, {rcId: {250761}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Tu, Carte-a veșniciei,
+dumnezeiesc Cuvânt,
+prin slova Ta cea vie
+m-ai smuls de pe pământ.
+Și m-ai mutat în cerul
+frumuseții de nespus,
+deschis prin Jertfa sfântă
+a Domnului Isus.
+
+[v2]
+Tu, Carte minunată,
+putere de ne-nvins,
+prin slova Ta de soare
+ființa mi-ai aprins.
+Și mi-ai adus-o-ntreagă
+pe-altarul luminos,
+să ardă spre chemarea
+mulțimii la Hristos.
+
+[v3]
+Tu Carte-a mântuiri
+și-a harului bogat,
+prin slova Ta de pace
+odihna mi-am aflat.
+Și-n părtășia dulce
+a dragostei de sus,
+trăiesc cu toți pe care
+i-a mântuit Isus.
+
+[v4]
+Tu, Carte-a-nțelepciunii
+Tu, Adevăr ne-nfrânt,
+Tu-mi dai asemănarea
+și chipul Celui Sfânt.
+Fii binecuvântată
+și-n cer și-n lume jos,
+Tu, Carte fericită,
+Cuvânt al lui Hristos!

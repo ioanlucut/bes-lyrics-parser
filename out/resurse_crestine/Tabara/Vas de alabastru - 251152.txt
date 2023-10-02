@@ -1,0 +1,33 @@
+[title]
+Vas de alabastru {composer: {Tabara 477}, {rcId: {251152}}
+
+[sequence]
+v1,c,v2,c,e,e2
+
+[v1]
+/: Viața-ntreagă o las în mâna Ta,
+Tu ești Dumnezeu
+Și-n Tine-mi pun încrederea. :/
+
+[c]
+/: Sunt al Tău, cu tot ceea ce sunt,
+Doar al Tău, în Tine mă ascund.
+Pe genunchi renunț la ce sunt eu,
+De aceea Te chem, Domnul meu. :/
+
+[v2]
+/: O mireasmă să fiu-naintea Ta,
+Pe altar vreau să rămână
+Întreagă ființa mea. :/
+
+[e]
+/: Ca un vas de alabastru
+Vreau să-mi fie inima.
+Lacrimile mele toate
+Le revărs ’naintea Ta, :/
+
+[e2]
+/: Tot trecutul, tot eșecul
+Și toată rușinea mea.
+Sunt răscumpărat de Tine,
+O, Isus, Salvarea mea! :/

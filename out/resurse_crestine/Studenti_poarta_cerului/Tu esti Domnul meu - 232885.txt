@@ -2,7 +2,7 @@
 Tu esti domnul meu {composer: {Studenți Poarta Cerului}, {rcId: {232885}}
 
 [sequence]
-v1,c,e,e2
+v1,c,v2,c2,c2,e
 
 [v1]
 /: Când eram în întristare,
@@ -17,11 +17,11 @@ Credincios și vrednic ești.
 Doar pe Tin’ Te voi lăuda
 Doamne, ești iubirea mea! :/
 
-[e]
-/: Și când totul îmi pare pierdut,
-Privesc la Tine!
-Și când nu mai știu unde să fug,
-Alerg spre Tine, Isus! :/
+[v2]
+Mi-ai arătat că sunt în Tine,
+Cu dragoste înconjurat,
+Și mi-ai spus că nu sunt singur,
+Ești cu mine neîncetat!
 
 [c2]
 Și Îți spun,
@@ -30,8 +30,14 @@ Credincios și vrednic ești,
 Doar pe Tin’ Te voi lăuda
 Doamne, ești iubirea mea! :/
 
-[e2]
-Acum eu cânt de bucurie,
-Căci Tu m-ai salvat, Isus!
+[b]
+/: Și când totul îmi pare pierdut,
+Privesc la Tine!
+Și când nu mai știu unde să fug,
+Alerg spre Tine, Isus! :/
+
+[e]
+Acum Îți cânt de bucurie,
+Căci m-ai salvat, Isus!
 Viața mea Îți aparține,
-/: Numai Ție am să-Ți cânt mereu! :/
+Numai Ție am să-Ți cânt mereu!

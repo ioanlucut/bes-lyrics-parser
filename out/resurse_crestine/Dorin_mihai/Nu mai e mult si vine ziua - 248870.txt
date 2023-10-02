@@ -1,0 +1,38 @@
+[title]
+Nu mai e mult si vine ziua {composer: {Dorin Mihai}, {rcId: {248870}}
+
+[sequence]
+v1,c,v2,c,v3,b,c
+
+[v1]
+Nu mai e mult și vine ziua
+Ce o aștept cu atâta dor
+Când din mărire Domnul slavei
+Mă va chema mai sus de nori
+Dar până atunci mă pregătesc și împlinesc Cuvântul Sfânt
+Ce mă îndrumă și mă învață
+Cum să trăiesc pe-acest Pământ
+
+[c]
+Mi-e dor de ziua minunată când din mărire va veni
+Isus al meu să ia acasă mireasa Sa în veșnicii
+Ce bucurie fără margini eu voi avea când voi vedea
+Pe cel ce pentru mine s-a jertfit la Golgota
+
+[v2]
+El e cu mine-n bucurie, e cum mine-n încercare
+E cu mine-n orice vreme și mă-ntărește pe a Sa cale
+Numai brațul Său puternic m-a păzit întotdeauna
+Lui vreau să îi cânt într-una că mi-a pregătit cununa
+
+[v3]
+Când voi ajunge sus în ceruri lângă al meu Isus Cristos
+Va-ncepe nunta minunată și voi uita de tot ce-a fost
+O veșnicie-n bucurie lângă Isus noi vom serba
+Vino Doamne Maranta cu drag aștept venirea Ta!
+
+[b]
+Ce mare har este să fi numit copil de Dumnezeu
+Ce minunat să fi umplut mereu de harul Său
+Dorința mea e să-mplinesc mereu doar voia Sa
+Până când la cer mă va chema

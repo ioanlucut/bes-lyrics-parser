@@ -1,0 +1,35 @@
+[title]
+Ridica-ma doamne ridica-ma {composer: {Nicolae Moldoveanu}, {rcId: {250180}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Ridică-mă, Doamne, ridică-mă,
+din orice cădere,
+din orice durere,
+ca să laud numele Tău.
+/: Dă-mi a Ta putere, :/
+izbăvește-mă de cel rău,
+/: ca să laud numele Tău, :/
+x3
+
+[v2]
+Păzește-mă, Doamne, păzește-mă,
+pe-a sfințirii cale,
+să cânt osanele,
+pentru veșnic numele Tău,
+/: Prin a lumii vale. :/
+izbăvește-mă de cel rău,
+/: pentru veșnic numele Tău. :/ x3
+
+[v3]
+Aprinde-mă, Doamne, aprinde-mă,
+c-o iubire tare,
+C-un duh de ascultare,
+spre-nălțarea numelui Tău.
+/: Prin a mea cântare, :/
+biruit să fie cel rău,
+/: spre-nălțarea numelui Tău. :/
+x3
+Final: Ca să laud Numele Tău

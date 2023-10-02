@@ -1,0 +1,36 @@
+[title]
+O viata-ntreag-am cautat {composer: {Ionică Stoica}, {rcId: {6517}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+O viata-ntreag-am cautat
+Un prieten bun, dar n-am aflat,
+Sa-i spun dorinta ce o am
+Si pacea care o doream.
+
+[c]
+/: Isuse, -al meu Prieten bun,
+Sa fii cu mine pe-acest drum!
+Caci sunt al Tau si Tu al meu
+Nedespartiti sa fim mereu! :/
+
+[v2]
+Am cautat, prin vai adanci,
+Prin munti, prin dealuri si prin stanci,
+Dar n-am gasit pe cel cautat:
+Prieten bun si-adevarat.
+
+[v3]
+Dar cineva mi-a spus asa:
+„
+Prieten bun e Mesia!
+In toata lumea de-ai cauta
+Asa Prieten nu-i afla.”
+
+[v4]
+Isus, Prieten adevarat,
+Cu sangele Tau m-ai spalat;
+M-ai curatit de orice rau,
+Sa pot lauda Numele Tau.

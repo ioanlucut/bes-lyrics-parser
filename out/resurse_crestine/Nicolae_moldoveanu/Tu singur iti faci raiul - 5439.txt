@@ -2,20 +2,34 @@
 Tu singur iti faci raiul {composer: {Nicolae Moldoveanu}, {rcId: {5439}}
 
 [sequence]
-v1,c,v2,c,v3,c
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
 
 [v1]
-Tu singur iti faci raiul o Si-ti pregatesti cararea
-Si tu-ti albesti vesmantul, o Sfintindu-ti ascultarea.
+Tu singur îți faci raiul și-ți pregătești cântarea
+și tu-ți albești veșmântul sfințindu-ți ascultarea
 
 [c]
-/: Tu singur! Da, tu singur, o Iti pregatesti, pe veci,
-Odihna sau osanda o In care-ai sa petreci. :/
+Tu singur, doar tu singur
+îți pregătești pe veci
+odihna sau osânda
+în care-ai să petreci.
 
 [v2]
-Tu singur, iti faci iadul o Si-ti pregatesti scrasnirea
-Si tu-ti slabesti nadejdea, o Urmand impotrivirea.
+Tu singur îți faci iadul și-ți pregătești scrâșnirea
+și tu-ți zdrobești nădejdea - urmând împotrivirea.
 
 [v3]
-Tu singur, judecata o Ti-o pregatesti cu fapta;
-Trairea ta te-asaza o La stanga sau la dreapta.
+Tu singur judecata ți-o pregătești cu fapta,
+trăirea ta te-așează de-a stânga sau de-a dreapta.
+
+[v4]
+Tu singur poți acuma să scapi de la pierzare,
+cât încă poți întoarce să poți afla iertare.
+
+[v5]
+Tu singur îți poți strânge în ceruri moștenire,
+cât poți mai face bine și poți umbla-n sfințire.
+
+[v6]
+Ferice-n veci de tine de-alegi cărarea bună,
+lumina-ți va fi haină și soarele cunună.

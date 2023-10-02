@@ -1,0 +1,41 @@
+[title]
+Cand iubirea-i arzatoare {composer: {Nicolae Moldoveanu}, {rcId: {248880}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Când iubirea-i arzătoare
+darul mic îl crește mare,
+și-l înalță luminând,
+ca să-l vadă toți oricând,
+
+[c]
+Când iubirea este plină,
+orice inimă-nsenină;
+focul ei strălucitor
+nimicește orice nor.
+
+[v2]
+Când iubirea este trează
+nu vorbește ci lucrează,
+și nu fuge când e greu,
+Ci-și dă viața ei mereu.
+
+[c2]
+Când iubirea este-ntreagă
+nu robește, ci dezleagă;
+ea nu cere nimănui,
+dar dă tot și dă oricui.
+
+[v3]
+Când iubirea-i luminoasă
+pentru toți ea are casă.
+Harul ei mângâietor
+și-L revarsă tuturor.
+
+[c3]
+Când iubirea e curată
+adevărul pururi cată
+și conduce ne-ndoios
+pe oricine la Hristos.

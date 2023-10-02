@@ -1,0 +1,23 @@
+[title]
+Pus intre moarte si pamant {composer: {Iulia Contis}, {rcId: {248034}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+În fața morții neschimbate
+Pentru atâția ce-au căzut,
+Cum ai putut, peste cetate,
+Tu ochii să-ți îndrepți tăcut?
+
+[c]
+Tu ai chemat prin umilință
+Poporul spre tot ce e sfânt
+Și ai aprins în timp credință
+Peste furtună și prin vânt...
+
+[v2]
+În fața strigătului grabnic,
+Care sălta viața-n cânt,
+Tu nu te-ai stins ca un vechi sfeșnic
+Pus între moarte și pământ!

@@ -1,0 +1,21 @@
+[title]
+Draguti sunt copilasii {composer: {Nicolae Moldoveanu}, {rcId: {251516}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Drăguți sunt copilașii când din gurița lor,
+/: se-aud mereu cântări de slavă scumpului Mântuitor! :/
+
+[v2]
+La sânul Lui cel dulce, Isus cu drag îi ia,
+/: și-i ocrotește cu iubire prin orice-ncercare grea. :/
+
+[v3]
+Sunt mulți copii în lume, ce nu știu pe Isus,
+/: voi cei ce L-ați aflat pe Dânsul, spuneți
+
+[v4]
+Să vină, să-L primească În viața lor deplin,
+/: și-apoi cântați-I împreună azi și-n veci de veci, amin. :/

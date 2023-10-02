@@ -1,0 +1,29 @@
+[title]
+Credem ce ne-ai spus isus {composer: {Nicolae Moldoveanu}, {rcId: {250042}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Credem ce ne-ai spus, Isus,
+că Tu vei veni curând,
+credem și privim în sus
+cu-al nădejdii foc crescând.
+
+[c]
+Și-așteptăm veghind mereu,
+ceasul Tău de soare plin,
+/: iar prin greul cel mai greu
+noi strigăm: Isuse, vin! :/
+
+[v2]
+Credem viu și-nflăcărat
+în al zilei Tale zori,
+credem și iubim curat
+revenirea Ta pe nori.
+
+[v3]
+Credem tot ce ne-ai promis
+și credinta o-nnoim.
+Iată, cerul s-a deschis!
+Vino! Că și noi venim.

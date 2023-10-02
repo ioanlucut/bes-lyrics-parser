@@ -1,0 +1,43 @@
+[title]
+Nu se poate pierde harul {composer: {Nicolae Moldoveanu}, {rcId: {249804}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Nu se poate pierde Harul,
+dacă rămânem în El,
+/: căci Hristos Biruitorul
+este Haru-n orice fel. :/
+
+[c]
+Harul ne se pierde,
+Harul nu ne pierde,
+/: dacă noi ne-am dat
+Lui cu-adevărat. :/
+/: Harul e Hristos, :/
+veșnic viu și luminos.
+
+[v2]
+Nu se poate pierde Harul,
+dacă Lui cu-adevărat,
+/: prin credință-n mâna-I sfântă
+viața ne-am încredințat. :/
+
+[v3]
+Nu se poate pierde Harul,
+dac-am fost născuți de Sus,
+/: El ne crește zilnic chipul
+și frumsețea lui Isus. :/
+
+[v4]
+Nu se poate pierde Harul,
+care ne-a mutat in cer.
+/: Toate pot să piară-n lume,
+dar cei strămutați nu pier. :/
+
+[v5]
+Pe Hristos nu-i cu putință
+ca să-L pierdem în vreun fel,
+/: dacă brațul Său ne ține,
+și noi rămânem în El. :/

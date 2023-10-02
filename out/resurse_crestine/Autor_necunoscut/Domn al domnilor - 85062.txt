@@ -6,20 +6,20 @@ v1,c,e
 
 [v1]
 Domn al domnilor, Rege-al regilor
-Este Dumnezeu, Imparatul meu
-Mare si tare
-El va domni cu multa slava
+Este Dumnezeu, Împăratul meu!
+Mare și tare,
+El va domni cu multă slavă.
 Domn al domnilor, Rege-al regilor
-Este Dumnezeu, Imparatul meu
-Mare si tare
-El va domni
-Sfantul din vesnicii
+Este Dumnezeu, Împăratul meu!
+Mare și tare,
+El va domni,
+Sfântul din veșnicii.
 
 [c]
-/: Inconjurat cu marire,
-slava si stralucire
-Sta pe tron
-ca Stapan si Domn :/
+/: Înconjurat cu mărire,
+Slavă și strălucire,
+Stă pe tron
+Ca Stăpân și Domn. :/
 
 [e]
-/: Aleluia, aleluia, aleluia, aleluia :/
+/: Aleluia, aleluia, aleluia, aleluia! :/

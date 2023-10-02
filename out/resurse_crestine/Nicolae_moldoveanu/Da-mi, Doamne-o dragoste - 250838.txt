@@ -1,0 +1,29 @@
+[title]
+Da-mi doamne-o dragoste {composer: {Nicolae Moldoveanu}, {rcId: {250838}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Dă-mi, Doamne-o dragoste nedoborâtă
+de nici un val din marea lumii,
+/: de nici o zi cu ger sau mohorâtă,
+de nici o frământare-a humii. :/
+
+[v2]
+Dă-mi, Doamne, focu-acela în credință
+să-mi ardă-mpotrivirea firii,
+/: s-ajung cu-adevărat la biruință
+și la statura împlinirii. :/
+
+[v3]
+Dă-mi, Doamne, o nădejde tot mai vie,
+să-mi facă vie orice faptă,
+/: să-mi toarne-n suflet pururi bucurie,
+să-mi țină alergarea dreaptă. :/
+
+[v4]
+Și, Doamne, dă-mi ce știi că face bine
+vieții celei noi, sfințite.
+/: ca să Te-nalțe mai frumos pe Tine,
+cu laude reînnoite. :/

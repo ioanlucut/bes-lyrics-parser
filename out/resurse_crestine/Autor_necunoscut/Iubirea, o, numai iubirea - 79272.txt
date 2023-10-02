@@ -1,0 +1,29 @@
+[title]
+Iubirea o numai iubirea {composer: {Anonim}, {rcId: {79272}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Iubirea, o, numai iubirea
+Ne mângîie duhul zdrobit,
+Ne schimbă-n cântare măhnirea,
+Ne-ntoarce seninul dorit.
+
+[c]
+Slăvită să fii, o. iubire,
+Divin întrupată-n Isus,
+/: Viață, și har, și sfințire,
+Doar Tu, numai Tu ne-ai adus! :/
+
+[v2]
+Iubirea preschimbă furtuna
+În dulce susur liniștit,
+Iubirea ne dă-ntotdeuna
+Vieții un țel strălucit.
+
+[v3]
+Sărutul, privirea adorată,
+E starea de haruri prea grea,
+Și cerul cu toate, cu toate,
+Le avem doar prin ea, doar prin ea.

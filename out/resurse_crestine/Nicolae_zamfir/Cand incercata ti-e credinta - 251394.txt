@@ -1,0 +1,23 @@
+[title]
+Cand incercata ti-e credinta {composer: {Nicolae Zamfir}, {rcId: {251394}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Când încercată ți-e credinta
+Și când durerea ta e mare
+El ne-a promis făgăduința
+Eu sunt cu tine-nîncercare
+
+[c]
+Doamne te chem în ajutor să vi
+Din văi aďânci și din suspin
+Durerea inimi doar Tu mi-o ști.
+Și doar Tu poți să-i dai alin
+
+[v2]
+La Tine ochi mei Isus privesc
+Ești adăpost prin încercare
+Și când sunt slab în Tin nădăjduesc
+Îmi întărești pași pe cale

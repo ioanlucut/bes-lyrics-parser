@@ -1,0 +1,22 @@
+[title]
+Cine poate sa ma ajute cand sunt singur pe carare {composer: {Cornel Stan, Necunoscut}, {rcId: {202371}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cine poate să mă ajute când sunt singur pe cărare
+Și să mângâie cu milă rănile usturatoare.
+
+[c]
+/: O Isuse, o Isuse
+Numai Tu, numai Tu,
+O Isuse numai Tu :/
+
+[v2]
+Cine poate ca să-mi steargă lacrimile din obraji
+Și să incununeze fața cu lumină si putere.
+
+[v3]
+Cine-mi șterge ochii umezi și mă mângâie în durere
+Ca să pot cuprinde în suflet făra teamă de oricine

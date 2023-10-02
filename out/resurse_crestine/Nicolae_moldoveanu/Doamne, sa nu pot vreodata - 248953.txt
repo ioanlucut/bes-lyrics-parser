@@ -1,0 +1,41 @@
+[title]
+Doamne sa nu pot vreodata {composer: {Nicolae Moldoveanu}, {rcId: {248953}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Doamne, să nu pot vreodată
+s-arunc crucea și să fug,
+nici de-ar trebui viața
+să-mi jertfesc, arzând pe rug.
+
+[c]
+Să nu-mi pot abate pașii,
+de pe urma Ta nicicând,
+nici pe-ntreaga lumii slavă,
+pacea inimii să-mi vând.
+
+[v2]
+Nici să pot să-nchid vreodată
+ușa mea de vreun sărac,
+nici să-mi pot deschide gura,
+când Tu-mi poruncești să tac.
+
+[c2]
+Să nu-mi pot schimba credința
+cea dintâi pe nici un crez,
+nici cuvântul primei lacrimi,
+să nu pot să nu-l păstrez.
+
+[v3]
+Doamne, să nu-mi calc pe steagul
+nici pe conștiința mea,
+nici să-mi poată scoate geamăt
+chiar durerea cea mai grea.
+
+[c3]
+Ci cu orice bir de lacrimi,
+sau de sânge-adus din greu,
+jertfa mea să-și ’nalțe fumul
+tot mai drept spre Dumnezeu.

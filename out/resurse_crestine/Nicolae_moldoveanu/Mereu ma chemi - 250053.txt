@@ -1,0 +1,39 @@
+[title]
+Mereu ma chemi {composer: {Nicolae Moldoveanu}, {rcId: {250053}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Mereu mă chemi, mereu mă-ndemni
+ca să rămân în Tine,
+/: Mântuitorul meu iubit, :/
+/: că-n Tine-am orice bine. :/
+
+[c]
+În Tine, în Tine,
+Isuse-am orice bine.
+
+[v2]
+În Tine am al vieții har,
+În Tine bucuria,
+/: În Tine pacea mi-e veșmânt :/
+/: și soare veșnicia. :/
+
+[v3]
+În Tine, adevăru-ntreg
+deplin mă coplesește,
+/: și-a Ta iubire-n jarul ei :/
+/: ființa mi-o topește. :/
+
+[v4]
+În Tine sunt curat și sfânt.
+și dezlegat de lume,
+/: În Tine cerul minunat :/
+/: îl pot pricepe cum e. :/
+
+[v5]
+Mereu mă chemi, mereu mă-ndemni
+ca să rămân în Tine
+/: și vreau Mântuitorul meu :/
+/: s-ascult cum se cuvine! :/

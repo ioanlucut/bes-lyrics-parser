@@ -1,5 +1,5 @@
 [title]
-Numai prin har traim astazi {{rcId: {212566}}
+Numai prin har traim astazi {composer: {Anonim}, {rcId: {212566}}
 
 [sequence]
 v1,c

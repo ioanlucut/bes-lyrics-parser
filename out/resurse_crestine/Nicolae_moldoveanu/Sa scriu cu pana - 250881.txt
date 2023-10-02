@@ -1,0 +1,29 @@
+[title]
+Sa scriu cu pana {composer: {Nicolae Moldoveanu}, {rcId: {250881}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Să scriu cu pana mea muiată
+în Primăvara care vine
+/: și nu se va sfârși vreodată,
+Isus, că-și are viața-n Tine. :/
+
+[v2]
+Să cânt cu glasul meu cântarea
+născută-n casa veșniciei,
+/: ce portă-n unda-i Sărbătoarea
+și biruința bucuriei. :/
+
+[v3]
+Să-ndemn pe toți spre Răsăritul
+cel făr-apus al tinereții
+/: de cer, ce-o dai Tu-nveșnicitul
+Măntuitor și Domn al vieții. :/
+
+[v4]
+Așa doresc să am trăirea:
+mereu îndemn, mereu cântare
+/: spre toți, să-și afle mântuirea,
+Isuse-n jertfa-Ți salvatoare. :/

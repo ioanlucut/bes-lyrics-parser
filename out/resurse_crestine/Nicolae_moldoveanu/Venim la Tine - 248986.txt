@@ -1,0 +1,35 @@
+[title]
+Venim la tine {composer: {Nicolae Moldoveanu}, {rcId: {248986}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Venim la Tine, scump Isus,
+deși suntem copii.
+Și pentru noi, Tu ai adus
+din ceruri bucurii.
+
+[c]
+Venim, venim, venim, venim,
+și noi, copiii azi venim,
+Isus, la Tine-așa cum știm,
+să ne-nchinăm, să Te slăvim!
+
+[v2]
+Prin jertfa sfântă ce-ai plătit,
+atunci la Golgota,
+și nouă Tu ne-ai pregătit
+un loc la masa Ta!
+
+[v3]
+Căci vrem, atunci când fi-vom mari,
+să fim spre-al Tău folos!
+În slujba Ta, cu brațe tari,
+s-aducem rod frumos!
+
+[v4]
+Venim la Tine, cum suntem!
+Tu poți și-acum, prin noi,
+să-Ți-nalți puterea—cu ce-avem—
+spre biruințe noi!
