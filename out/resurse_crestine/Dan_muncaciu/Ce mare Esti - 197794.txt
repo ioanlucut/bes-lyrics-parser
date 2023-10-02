@@ -2,7 +2,7 @@
 Ce mare esti {composer: {Dan Muncaciu}, {rcId: {197794}}
 
 [sequence]
-v1,c,c,v2,c,c,c
+v1,c,v2,c
 
 [v1]
 În Tine una suntem
@@ -23,8 +23,6 @@ Minunat Ești Domnul nostru
 Tu pe nume ne-ai chemat
 Salva Ta azi umple templul
 Doamne mare, fii lăudat
-
-[c]
 Ce mare Ești, Ce mare Ești
 Tu meriți toată gloria
 A Ta e toată slava
