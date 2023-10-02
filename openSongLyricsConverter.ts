@@ -6,6 +6,7 @@ import dotenv from 'dotenv';
 import chalk from 'chalk';
 import {
   first,
+  flatten,
   groupBy,
   isEmpty,
   mapValues,
@@ -116,6 +117,7 @@ const cleanOutputDirAndProcessFrom = async (
     groupedSongs,
     (parsedSongsArray) => parsedSongsArray.length,
   );
+
   fs.writeFileSync(
     `${outputDir}/authors${TXT_EXTENSION}`,
     orderBy(
@@ -131,6 +133,20 @@ const cleanOutputDirAndProcessFrom = async (
         )}`;
       })
       .join(NEW_LINE),
+  );
+
+  fs.writeFileSync(
+    `${outputDir}/authors_ids${TXT_EXTENSION}`,
+    flatten(
+      Object.entries(groupedSongs).map(([author, parsedSongsArray]) =>
+        parsedSongsArray.map(
+          ({ processed: { exportFileName, song } }) =>
+            `${song.rcId}:${song.authors
+              ?.map(({ name }) => name)
+              .join(EMPTY_SPACE)}:${song.title}`,
+        ),
+      ),
+    ).join(NEW_LINE),
   );
 
   fs.writeFileSync(
